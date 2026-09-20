@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-20 10:56:26",
+  "updated": "2026-09-20 15:07:48",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 400,
+  "count": 427,
   "history_summary": {
     "cached": 400,
-    "fetched": 0,
+    "fetched": 27,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,12 +18,244 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 143,
+      "count": 163,
       "dates": [
         {
           "date": "2026-09-20",
-          "count": 2,
+          "count": 6,
           "events": [
+            {
+              "id": "capital:1185425",
+              "fid": "1185425",
+              "interval": "this_week",
+              "date": "2026-09-20",
+              "time": "00:00",
+              "datetime": "2026-09-20 00:00:00",
+              "display_time": "09/20 00:00",
+              "country": "中國",
+              "title": "中國8月全社會用電量(億千瓦時)",
+              "importance": 2,
+              "previous": "10400",
+              "forecast": "--",
+              "actual": "10332",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185425",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/21",
+                  "actual": "10400",
+                  "forecast": "-",
+                  "previous": "8981"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "8981",
+                  "forecast": "-",
+                  "previous": "8671"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "8671",
+                  "forecast": "-",
+                  "previous": "8205"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "8205",
+                  "forecast": "-",
+                  "previous": "8595"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "8595",
+                  "forecast": "-",
+                  "previous": "-"
+                },
+                {
+                  "date": "12/24",
+                  "actual": "8356",
+                  "forecast": "-",
+                  "previous": "8572"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1185424",
+              "fid": "1185424",
+              "interval": "this_week",
+              "date": "2026-09-20",
+              "time": "00:00",
+              "datetime": "2026-09-20 00:00:00",
+              "display_time": "09/20 00:00",
+              "country": "中國",
+              "title": "中國8月全社會用電量同比",
+              "importance": 3,
+              "previous": "1.7 %",
+              "forecast": "-- %",
+              "actual": "1.7 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185424",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/21",
+                  "actual": "1.7",
+                  "forecast": "-",
+                  "previous": "3.7"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "3.7",
+                  "forecast": "-",
+                  "previous": "6.9"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "6.9",
+                  "forecast": "-",
+                  "previous": "6"
+                },
+                {
+                  "date": "05/19",
+                  "actual": "6",
+                  "forecast": "-",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "3.5",
+                  "forecast": "-",
+                  "previous": "-"
+                },
+                {
+                  "date": "12/24",
+                  "actual": "6.2",
+                  "forecast": "-",
+                  "previous": "10.4"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1185415",
+              "fid": "1185415",
+              "interval": "this_week",
+              "date": "2026-09-20",
+              "time": "00:00",
+              "datetime": "2026-09-20 00:00:00",
+              "display_time": "09/20 00:00",
+              "country": "中國",
+              "title": "中國8月本年迄今全國發電裝機容量(萬千瓦)",
+              "importance": 2,
+              "previous": "407820",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185415",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/25",
+                  "actual": "407820",
+                  "forecast": "-",
+                  "previous": "404252"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "404252",
+                  "forecast": "-",
+                  "previous": "400745"
+                },
+                {
+                  "date": "06/25",
+                  "actual": "400745",
+                  "forecast": "-",
+                  "previous": "398547"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "396483",
+                  "forecast": "-",
+                  "previous": "394803"
+                },
+                {
+                  "date": "03/25",
+                  "actual": "394803",
+                  "forecast": "-",
+                  "previous": "389134"
+                },
+                {
+                  "date": "01/28",
+                  "actual": "389134",
+                  "forecast": "-",
+                  "previous": "379351"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1185414",
+              "fid": "1185414",
+              "interval": "this_week",
+              "date": "2026-09-20",
+              "time": "00:00",
+              "datetime": "2026-09-20 00:00:00",
+              "display_time": "09/20 00:00",
+              "country": "中國",
+              "title": "中國8月本年迄今全國發電裝機容量年率",
+              "importance": 2,
+              "previous": "11 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185414",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/25",
+                  "actual": "11",
+                  "forecast": "-",
+                  "previous": "10.8"
+                },
+                {
+                  "date": "07/22",
+                  "actual": "10.8",
+                  "forecast": "-",
+                  "previous": "11"
+                },
+                {
+                  "date": "06/25",
+                  "actual": "11",
+                  "forecast": "-",
+                  "previous": "14.2"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "15.5",
+                  "forecast": "-",
+                  "previous": "15.9"
+                },
+                {
+                  "date": "03/25",
+                  "actual": "15.9",
+                  "forecast": "-",
+                  "previous": "16.1"
+                },
+                {
+                  "date": "01/28",
+                  "actual": "16.1",
+                  "forecast": "-",
+                  "previous": "17.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
             {
               "id": "capital:1184708",
               "fid": "1184708",
@@ -332,7 +564,7 @@
               "title": "美國8月芝加哥聯儲全國活動指數",
               "importance": 1,
               "previous": "-0.08",
-              "forecast": "--",
+              "forecast": "-0.06",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184711",
@@ -447,7 +679,7 @@
               "country": "美國",
               "title": "美國至9月21日3個月國債競拍-得標利率配置百分比",
               "importance": 1,
-              "previous": "66.77 %",
+              "previous": "13.86 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -621,7 +853,7 @@
               "country": "美國",
               "title": "美國至9月21日6個月國債競拍-得標利率配置百分比",
               "importance": 1,
-              "previous": "49.27 %",
+              "previous": "82.5 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -860,7 +1092,7 @@
               "title": "臺灣8月外銷訂單年率",
               "importance": 1,
               "previous": "61.9 %",
-              "forecast": "-- %",
+              "forecast": "63.6 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184718",
@@ -1664,7 +1896,7 @@
         },
         {
           "date": "2026-09-23",
-          "count": 50,
+          "count": 62,
           "events": [
             {
               "id": "capital:1184726",
@@ -1839,6 +2071,470 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-09-13 00:06:13"
+            },
+            {
+              "id": "capital:1187450",
+              "fid": "1187450",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "04:30",
+              "datetime": "2026-09-23 04:30:00",
+              "display_time": "09/23 04:30",
+              "country": "美國",
+              "title": "美國至9月18日當週API原油庫存(萬桶)",
+              "importance": 2,
+              "previous": "714.4",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187450",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "714.4",
+                  "forecast": "-175",
+                  "previous": "-32.7"
+                },
+                {
+                  "date": "09/10",
+                  "actual": "-32.7",
+                  "forecast": "-133.6",
+                  "previous": "-259.3"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "-259.3",
+                  "forecast": "-82",
+                  "previous": "419.9"
+                },
+                {
+                  "date": "08/26",
+                  "actual": "420",
+                  "forecast": "186",
+                  "previous": "-32.8"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "-32.8",
+                  "forecast": "-",
+                  "previous": "907.2"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "907.2",
+                  "forecast": "-50",
+                  "previous": "269"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187455",
+              "fid": "1187455",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "04:30",
+              "datetime": "2026-09-23 04:30:00",
+              "display_time": "09/23 04:30",
+              "country": "美國",
+              "title": "美國至9月18日當週API原油進口(萬桶)",
+              "importance": 1,
+              "previous": "-4.5",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187455",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "-4.5",
+                  "forecast": "-",
+                  "previous": "40.6"
+                },
+                {
+                  "date": "09/10",
+                  "actual": "40.6",
+                  "forecast": "-",
+                  "previous": "24.2"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "24.2",
+                  "forecast": "-",
+                  "previous": "-46.2"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "5",
+                  "forecast": "-",
+                  "previous": "83.5"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "83.5",
+                  "forecast": "-",
+                  "previous": "17.2"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "17.2",
+                  "forecast": "-",
+                  "previous": "-39.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187454",
+              "fid": "1187454",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "04:30",
+              "datetime": "2026-09-23 04:30:00",
+              "display_time": "09/23 04:30",
+              "country": "美國",
+              "title": "美國至9月18日當週API取暖油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-2.8",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187454",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "-2.8",
+                  "forecast": "-",
+                  "previous": "40.5"
+                },
+                {
+                  "date": "09/10",
+                  "actual": "40.5",
+                  "forecast": "-",
+                  "previous": "-35"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "-35",
+                  "forecast": "-",
+                  "previous": "-4.3"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "-36",
+                  "forecast": "-",
+                  "previous": "42.4"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "42.4",
+                  "forecast": "-",
+                  "previous": "-11.8"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-11.8",
+                  "forecast": "-",
+                  "previous": "-12.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187453",
+              "fid": "1187453",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "04:30",
+              "datetime": "2026-09-23 04:30:00",
+              "display_time": "09/23 04:30",
+              "country": "美國",
+              "title": "美國至9月18日當週API庫欣原油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-24.6",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187453",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "-24.6",
+                  "forecast": "-",
+                  "previous": "-33.1"
+                },
+                {
+                  "date": "09/10",
+                  "actual": "-33.1",
+                  "forecast": "-",
+                  "previous": "15"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "15",
+                  "forecast": "-",
+                  "previous": "99.5"
+                },
+                {
+                  "date": "08/26",
+                  "actual": "100",
+                  "forecast": "-",
+                  "previous": "-143.8"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "-143.8",
+                  "forecast": "-",
+                  "previous": "157.1"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "157.1",
+                  "forecast": "-",
+                  "previous": "235.8"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187456",
+              "fid": "1187456",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "04:30",
+              "datetime": "2026-09-23 04:30:00",
+              "display_time": "09/23 04:30",
+              "country": "美國",
+              "title": "美國至9月18日當週API成品油進口(萬桶/日)",
+              "importance": 1,
+              "previous": "30.7",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187456",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "30.7",
+                  "forecast": "-",
+                  "previous": "-5.9"
+                },
+                {
+                  "date": "09/10",
+                  "actual": "-5.9",
+                  "forecast": "-",
+                  "previous": "-22.6"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "-22.6",
+                  "forecast": "-",
+                  "previous": "25.4"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "-35.4",
+                  "forecast": "-",
+                  "previous": "19.6"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "19.6",
+                  "forecast": "-",
+                  "previous": "-20.6"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-20.6",
+                  "forecast": "-",
+                  "previous": "29.7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187457",
+              "fid": "1187457",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "04:30",
+              "datetime": "2026-09-23 04:30:00",
+              "display_time": "09/23 04:30",
+              "country": "美國",
+              "title": "美國至9月18日當週API投產原油量(萬桶/日)",
+              "importance": 1,
+              "previous": "-11.5",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187457",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "-11.5",
+                  "forecast": "-",
+                  "previous": "-19.6"
+                },
+                {
+                  "date": "09/10",
+                  "actual": "-19.6",
+                  "forecast": "-",
+                  "previous": "29.4"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "29.4",
+                  "forecast": "-",
+                  "previous": "-8.8"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "23.8",
+                  "forecast": "-",
+                  "previous": "3.4"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "3.4",
+                  "forecast": "-",
+                  "previous": "-11.2"
+                },
+                {
+                  "date": "08/05",
+                  "actual": "-11.2",
+                  "forecast": "-",
+                  "previous": "9.3"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187451",
+              "fid": "1187451",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "04:30",
+              "datetime": "2026-09-23 04:30:00",
+              "display_time": "09/23 04:30",
+              "country": "美國",
+              "title": "美國至9月18日當週API汽油庫存(萬桶)",
+              "importance": 1,
+              "previous": "146.2",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187451",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "146.2",
+                  "forecast": "-120.1",
+                  "previous": "-186.7"
+                },
+                {
+                  "date": "09/10",
+                  "actual": "-186.7",
+                  "forecast": "-175.8",
+                  "previous": "34.8"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "34.8",
+                  "forecast": "-240",
+                  "previous": "-320.1"
+                },
+                {
+                  "date": "08/26",
+                  "actual": "-320",
+                  "forecast": "-100",
+                  "previous": "107.6"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "107.6",
+                  "forecast": "-",
+                  "previous": "-153.1"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "-153.1",
+                  "forecast": "-157.8",
+                  "previous": "15.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187452",
+              "fid": "1187452",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "04:30",
+              "datetime": "2026-09-23 04:30:00",
+              "display_time": "09/23 04:30",
+              "country": "美國",
+              "title": "美國至9月18日當週API精煉油庫存(萬桶)",
+              "importance": 1,
+              "previous": "160.7",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187452",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "160.7",
+                  "forecast": "82.7",
+                  "previous": "197.7"
+                },
+                {
+                  "date": "09/10",
+                  "actual": "197.7",
+                  "forecast": "-22.6",
+                  "previous": "-26.5"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "-26.5",
+                  "forecast": "-125",
+                  "previous": "-45.9"
+                },
+                {
+                  "date": "08/26",
+                  "actual": "-50",
+                  "forecast": "-167.4",
+                  "previous": "-279.7"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "-279.7",
+                  "forecast": "-",
+                  "previous": "-59.6"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "-59.6",
+                  "forecast": "-160",
+                  "previous": "-123.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
             },
             {
               "id": "capital:1184727",
@@ -2258,7 +2954,7 @@
               "title": "新加坡8月CPI年率",
               "importance": 1,
               "previous": "2.2 %",
-              "forecast": "-- %",
+              "forecast": "2.4 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184734",
@@ -2490,7 +3186,7 @@
               "title": "印尼至9月23日7天逆回購利率",
               "importance": 1,
               "previous": "5.75 %",
-              "forecast": "-- %",
+              "forecast": "5.75 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184738",
@@ -2896,7 +3592,7 @@
               "title": "臺灣8月工業生產年率",
               "importance": 1,
               "previous": "25.61 %",
-              "forecast": "-- %",
+              "forecast": "24.6 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184742",
@@ -3233,6 +3929,238 @@
               "history_checked_at": "2026-09-13 00:06:13"
             },
             {
+              "id": "capital:1187458",
+              "fid": "1187458",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "19:00",
+              "datetime": "2026-09-23 19:00:00",
+              "display_time": "09/23 19:00",
+              "country": "美國",
+              "title": "美國至9月18日當週MBA30年期固定抵押貸款利率",
+              "importance": 1,
+              "previous": "6.97 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187458",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "6.97",
+                  "forecast": "-",
+                  "previous": "6.85"
+                },
+                {
+                  "date": "09/09",
+                  "actual": "6.85",
+                  "forecast": "-",
+                  "previous": "6.79"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "6.79",
+                  "forecast": "-",
+                  "previous": "6.78"
+                },
+                {
+                  "date": "08/26",
+                  "actual": "6.78",
+                  "forecast": "-",
+                  "previous": "6.77"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "6.77",
+                  "forecast": "-",
+                  "previous": "6.77"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "6.77",
+                  "forecast": "-",
+                  "previous": "6.81"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187461",
+              "fid": "1187461",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "19:00",
+              "datetime": "2026-09-23 19:00:00",
+              "display_time": "09/23 19:00",
+              "country": "美國",
+              "title": "美國至9月18日當週MBA抵押貸款再融資活動指數",
+              "importance": 1,
+              "previous": "627.1",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187461",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "627.1",
+                  "forecast": "-",
+                  "previous": "687.3"
+                },
+                {
+                  "date": "09/09",
+                  "actual": "687.3",
+                  "forecast": "-",
+                  "previous": "732.6"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "732.6",
+                  "forecast": "-",
+                  "previous": "740.8"
+                },
+                {
+                  "date": "08/26",
+                  "actual": "740.8",
+                  "forecast": "-",
+                  "previous": "755.9"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "755.9",
+                  "forecast": "-",
+                  "previous": "744.4"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "744.4",
+                  "forecast": "-",
+                  "previous": "709.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187459",
+              "fid": "1187459",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "19:00",
+              "datetime": "2026-09-23 19:00:00",
+              "display_time": "09/23 19:00",
+              "country": "美國",
+              "title": "美國至9月18日當週MBA抵押貸款申請活動指數",
+              "importance": 1,
+              "previous": "230.8",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187459",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "230.8",
+                  "forecast": "-",
+                  "previous": "240.6"
+                },
+                {
+                  "date": "09/09",
+                  "actual": "240.6",
+                  "forecast": "-",
+                  "previous": "247.3"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "247.3",
+                  "forecast": "-",
+                  "previous": "245.3"
+                },
+                {
+                  "date": "08/26",
+                  "actual": "245.3",
+                  "forecast": "-",
+                  "previous": "247.7"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "247.7",
+                  "forecast": "-",
+                  "previous": "248.6"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "248.6",
+                  "forecast": "-",
+                  "previous": "240"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187460",
+              "fid": "1187460",
+              "interval": "this_week",
+              "date": "2026-09-23",
+              "time": "19:00",
+              "datetime": "2026-09-23 19:00:00",
+              "display_time": "09/23 19:00",
+              "country": "美國",
+              "title": "美國至9月18日當週MBA抵押貸款購買指數",
+              "importance": 1,
+              "previous": "156.2",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187460",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "156.2",
+                  "forecast": "-",
+                  "previous": "157.5"
+                },
+                {
+                  "date": "09/09",
+                  "actual": "157.5",
+                  "forecast": "-",
+                  "previous": "157.8"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "157.8",
+                  "forecast": "-",
+                  "previous": "154.4"
+                },
+                {
+                  "date": "08/26",
+                  "actual": "154.4",
+                  "forecast": "-",
+                  "previous": "154.8"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "154.8",
+                  "forecast": "-",
+                  "previous": "157.9"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "157.9",
+                  "forecast": "-",
+                  "previous": "154"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
               "id": "capital:1184751",
               "fid": "1184751",
               "interval": "this_week",
@@ -3244,7 +4172,7 @@
               "title": "南非至9月23日回購利率",
               "importance": 1,
               "previous": "7 %",
-              "forecast": "-- %",
+              "forecast": "7.25 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184751",
@@ -3475,7 +4403,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA俄克拉荷馬州庫欣原油庫存(萬桶)",
               "importance": 2,
-              "previous": "--",
+              "previous": "-34.2",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -3533,7 +4461,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA原油庫存(萬桶)",
               "importance": 3,
-              "previous": "--",
+              "previous": "-64",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -3591,7 +4519,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA原油產量引伸需求數據(萬桶/日)",
               "importance": 1,
-              "previous": "--",
+              "previous": "2109.3",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -3649,7 +4577,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA原油進口(萬桶)",
               "importance": 1,
-              "previous": "112",
+              "previous": "-118",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -3707,7 +4635,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA取暖油庫存(萬桶)",
               "importance": 1,
-              "previous": "1",
+              "previous": "68.4",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -3765,7 +4693,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA成品油進口(萬桶/日)",
               "importance": 1,
-              "previous": "23.7",
+              "previous": "30.8",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -3823,7 +4751,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA戰略石油儲備庫存(萬桶)",
               "importance": 2,
-              "previous": "-124.4",
+              "previous": "-40.3",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -3881,7 +4809,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA投產原油量(萬桶/日)",
               "importance": 1,
-              "previous": "9",
+              "previous": "-25.6",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -3939,7 +4867,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA新配方汽油庫存(萬桶)",
               "importance": 1,
-              "previous": "0.5",
+              "previous": "0",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -3997,7 +4925,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA汽油庫存(萬桶)",
               "importance": 1,
-              "previous": "--",
+              "previous": "79.4",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -4055,7 +4983,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA汽油產量(萬桶/日)",
               "importance": 1,
-              "previous": "-53.7",
+              "previous": "33.6",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -4113,7 +5041,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA精煉廠設備利用率",
               "importance": 1,
-              "previous": "97.8 %",
+              "previous": "96.8 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -4171,7 +5099,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA精煉油庫存(萬桶)",
               "importance": 1,
-              "previous": "--",
+              "previous": "158.5",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -4229,7 +5157,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA精煉油產量(萬桶/日)",
               "importance": 1,
-              "previous": "22.2",
+              "previous": "-12.1",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -4287,7 +5215,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA蒸餾燃油產量引伸需求數據(萬桶/日)",
               "importance": 1,
-              "previous": "--",
+              "previous": "511.46",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -4345,7 +5273,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA車用汽油總產量引伸需求數據(萬桶/日)",
               "importance": 1,
-              "previous": "--",
+              "previous": "975.27",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -4403,7 +5331,7 @@
               "country": "美國",
               "title": "美國至9月23日4個月國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "4.03 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -4461,7 +5389,7 @@
               "country": "美國",
               "title": "美國至9月23日4個月國債競拍-得標利率配置百分比",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "23.62 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -4519,7 +5447,7 @@
               "country": "美國",
               "title": "美國至9月23日4個月國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "2.72",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -4570,7 +5498,7 @@
         },
         {
           "date": "2026-09-24",
-          "count": 43,
+          "count": 45,
           "events": [
             {
               "id": "capital:1184764",
@@ -5048,7 +5976,7 @@
               "title": "澳大利亞8月季調後失業率",
               "importance": 2,
               "previous": "4.5 %",
-              "forecast": "-- %",
+              "forecast": "4.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184770",
@@ -5106,7 +6034,7 @@
               "title": "澳大利亞8月季調後就業參與率",
               "importance": 1,
               "previous": "66.9 %",
-              "forecast": "-- %",
+              "forecast": "66.9 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184773",
@@ -5164,7 +6092,7 @@
               "title": "澳大利亞8月就業人口(萬人)",
               "importance": 1,
               "previous": "-1.58",
-              "forecast": "--",
+              "forecast": "2",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184769",
@@ -5512,7 +6440,7 @@
               "title": "瑞典至9月24日央行基準利率",
               "importance": 1,
               "previous": "1.75 %",
-              "forecast": "-- %",
+              "forecast": "1.75 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184780",
@@ -5570,7 +6498,7 @@
               "title": "瑞士至9月24日央行政策利率",
               "importance": 2,
               "previous": "0 %",
-              "forecast": "-- %",
+              "forecast": "0 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184779",
@@ -5802,7 +6730,7 @@
               "title": "挪威至9月24日央行利率決定",
               "importance": 1,
               "previous": "4.25 %",
-              "forecast": "-- %",
+              "forecast": "4.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184781",
@@ -6208,7 +7136,7 @@
               "title": "加拿大7月零售銷售月率",
               "importance": 2,
               "previous": "0.6 %",
-              "forecast": "-- %",
+              "forecast": "-0.8 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184788",
@@ -6323,7 +7251,7 @@
               "country": "美國",
               "title": "美國至9月12日當週續請失業金人數(萬人)",
               "importance": 1,
-              "previous": "--",
+              "previous": "173",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -6381,7 +7309,7 @@
               "country": "美國",
               "title": "美國至9月19日當週初請失業金人數(萬人)",
               "importance": 3,
-              "previous": "--",
+              "previous": "19.6",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -6439,7 +7367,7 @@
               "country": "美國",
               "title": "美國至9月19日當週初請失業金人數四周均值(萬人)",
               "importance": 1,
-              "previous": "--",
+              "previous": "20.325",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -6497,7 +7425,7 @@
               "country": "俄羅斯",
               "title": "俄羅斯至9月18日當週央行黃金和外匯儲備(億美元)",
               "importance": 1,
-              "previous": "--",
+              "previous": "7582",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -6556,7 +7484,7 @@
               "title": "美國8月新屋銷售年化月率",
               "importance": 1,
               "previous": "-10.5 %",
-              "forecast": "-- %",
+              "forecast": "1.3 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184796",
@@ -6614,7 +7542,7 @@
               "title": "美國8月新屋銷售總數年化(萬戶)",
               "importance": 2,
               "previous": "60.7",
-              "forecast": "--",
+              "forecast": "60.8",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184795",
@@ -6671,7 +7599,7 @@
               "country": "美國",
               "title": "美國至9月18日當週EIA天然氣庫存(億立方英尺)",
               "importance": 2,
-              "previous": "--",
+              "previous": "440",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -6845,7 +7773,7 @@
               "country": "美國",
               "title": "美國至9月24日4周國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.82 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -6893,6 +7821,64 @@
               "history_checked_at": "2026-09-13 00:06:13"
             },
             {
+              "id": "capital:1187463",
+              "fid": "1187463",
+              "interval": "this_week",
+              "date": "2026-09-24",
+              "time": "23:30",
+              "datetime": "2026-09-24 23:30:00",
+              "display_time": "09/24 23:30",
+              "country": "美國",
+              "title": "美國至9月24日4周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "69.59 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187463",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/17",
+                  "actual": "69.59",
+                  "forecast": "-",
+                  "previous": "34.21"
+                },
+                {
+                  "date": "09/10",
+                  "actual": "34.21",
+                  "forecast": "-",
+                  "previous": "58.44"
+                },
+                {
+                  "date": "09/03",
+                  "actual": "58.44",
+                  "forecast": "-",
+                  "previous": "93.57"
+                },
+                {
+                  "date": "08/27",
+                  "actual": "93.57",
+                  "forecast": "-",
+                  "previous": "14.61"
+                },
+                {
+                  "date": "08/20",
+                  "actual": "14.61",
+                  "forecast": "-",
+                  "previous": "79.23"
+                },
+                {
+                  "date": "08/13",
+                  "actual": "79.23",
+                  "forecast": "-",
+                  "previous": "72.82"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
               "id": "capital:1184800",
               "fid": "1184800",
               "interval": "this_week",
@@ -6903,7 +7889,7 @@
               "country": "美國",
               "title": "美國至9月24日4周國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "3.02",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -6961,7 +7947,7 @@
               "country": "美國",
               "title": "美國至9月24日8周國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.92 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -7009,6 +7995,64 @@
               "history_checked_at": "2026-09-13 00:06:13"
             },
             {
+              "id": "capital:1187348",
+              "fid": "1187348",
+              "interval": "this_week",
+              "date": "2026-09-24",
+              "time": "23:30",
+              "datetime": "2026-09-24 23:30:00",
+              "display_time": "09/24 23:30",
+              "country": "美國",
+              "title": "美國至9月24日8周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "2.93 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187348",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/17",
+                  "actual": "2.93",
+                  "forecast": "-",
+                  "previous": "71.44"
+                },
+                {
+                  "date": "09/10",
+                  "actual": "71.44",
+                  "forecast": "-",
+                  "previous": "89.23"
+                },
+                {
+                  "date": "09/03",
+                  "actual": "89.23",
+                  "forecast": "-",
+                  "previous": "80.38"
+                },
+                {
+                  "date": "08/27",
+                  "actual": "80.38",
+                  "forecast": "-",
+                  "previous": "46.16"
+                },
+                {
+                  "date": "08/20",
+                  "actual": "46.16",
+                  "forecast": "-",
+                  "previous": "36.84"
+                },
+                {
+                  "date": "08/13",
+                  "actual": "36.84",
+                  "forecast": "-",
+                  "previous": "17.93"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
               "id": "capital:1184801",
               "fid": "1184801",
               "interval": "this_week",
@@ -7019,7 +8063,7 @@
               "country": "美國",
               "title": "美國至9月24日8周國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "2.94",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -7070,7 +8114,7 @@
         },
         {
           "date": "2026-09-25",
-          "count": 19,
+          "count": 21,
           "events": [
             {
               "id": "capital:1184804",
@@ -7303,6 +8347,122 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-09-13 00:06:13"
+            },
+            {
+              "id": "capital:1187349",
+              "fid": "1187349",
+              "interval": "this_week",
+              "date": "2026-09-25",
+              "time": "04:30",
+              "datetime": "2026-09-25 04:30:00",
+              "display_time": "09/25 04:30",
+              "country": "美國",
+              "title": "美國至9月18日當週外國央行持有美國國債(億美元)",
+              "importance": 1,
+              "previous": "187.26",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187349",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/18",
+                  "actual": "187.26",
+                  "forecast": "-",
+                  "previous": "-111.46"
+                },
+                {
+                  "date": "09/11",
+                  "actual": "-111.46",
+                  "forecast": "-",
+                  "previous": "-140.05"
+                },
+                {
+                  "date": "09/04",
+                  "actual": "-140.05",
+                  "forecast": "-",
+                  "previous": "290.75"
+                },
+                {
+                  "date": "08/28",
+                  "actual": "290.75",
+                  "forecast": "-",
+                  "previous": "-106.71"
+                },
+                {
+                  "date": "08/21",
+                  "actual": "-106.71",
+                  "forecast": "-",
+                  "previous": "-342.57"
+                },
+                {
+                  "date": "08/14",
+                  "actual": "-342.57",
+                  "forecast": "-",
+                  "previous": "-255.34"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
+              "id": "capital:1187372",
+              "fid": "1187372",
+              "interval": "this_week",
+              "date": "2026-09-25",
+              "time": "07:01",
+              "datetime": "2026-09-25 07:01:00",
+              "display_time": "09/25 07:01",
+              "country": "英國",
+              "title": "英國9月Gfk消費者信心指數",
+              "importance": 2,
+              "previous": "-14",
+              "forecast": "-16",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187372",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/21",
+                  "actual": "-14",
+                  "forecast": "-18",
+                  "previous": "-17"
+                },
+                {
+                  "date": "07/24",
+                  "actual": "-17",
+                  "forecast": "-21",
+                  "previous": "-23"
+                },
+                {
+                  "date": "06/19",
+                  "actual": "-23",
+                  "forecast": "-24",
+                  "previous": "-23"
+                },
+                {
+                  "date": "05/22",
+                  "actual": "-23",
+                  "forecast": "-28",
+                  "previous": "-25"
+                },
+                {
+                  "date": "04/24",
+                  "actual": "-25",
+                  "forecast": "-25",
+                  "previous": "-21"
+                },
+                {
+                  "date": "03/27",
+                  "actual": "-21",
+                  "forecast": "-24",
+                  "previous": "-19"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
             },
             {
               "id": "capital:1184806",
@@ -7722,7 +8882,7 @@
               "title": "美國8月扣除運輸的耐用品訂單月率",
               "importance": 1,
               "previous": "0.4 %",
-              "forecast": "-- %",
+              "forecast": "0.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184812",
@@ -7780,7 +8940,7 @@
               "title": "美國8月扣除飛機非國防資本耐用品訂單月率",
               "importance": 1,
               "previous": "0 %",
-              "forecast": "-- %",
+              "forecast": "0.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184813",
@@ -7838,7 +8998,7 @@
               "title": "美國8月耐用品訂單月率",
               "importance": 2,
               "previous": "1.1 %",
-              "forecast": "-- %",
+              "forecast": "-0.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184811",
@@ -7895,7 +9055,7 @@
               "country": "美國",
               "title": "美國9月一年期通脹率預期終值",
               "importance": 2,
-              "previous": "-- %",
+              "previous": "4.6 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -7953,7 +9113,7 @@
               "country": "美國",
               "title": "美國9月五至十年期通脹率預期終值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.4 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -8011,7 +9171,7 @@
               "country": "美國",
               "title": "美國9月密歇根大學消費者信心指數終值",
               "importance": 3,
-              "previous": "--",
+              "previous": "47.8",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -8069,7 +9229,7 @@
               "country": "美國",
               "title": "美國9月密歇根大學現況指數終值",
               "importance": 1,
-              "previous": "--",
+              "previous": "50.9",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -8127,7 +9287,7 @@
               "country": "美國",
               "title": "美國9月密歇根大學預期指數終值",
               "importance": 1,
-              "previous": "--",
+              "previous": "45.8",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -8191,7 +9351,7 @@
               "country": "美國",
               "title": "美國至9月25日當週天然氣鑽井總數(口)",
               "importance": 1,
-              "previous": "--",
+              "previous": "134",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -8249,7 +9409,7 @@
               "country": "美國",
               "title": "美國至9月25日當週石油鑽井總數(口)",
               "importance": 2,
-              "previous": "--",
+              "previous": "452",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -8307,7 +9467,7 @@
               "country": "美國",
               "title": "美國至9月25日當週總鑽井總數(口)",
               "importance": 1,
-              "previous": "--",
+              "previous": "595",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -8362,7 +9522,7 @@
       "interval": "next_week",
       "label": "下週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "count": 257,
+      "count": 264,
       "dates": [
         {
           "date": "2026-09-28",
@@ -9249,7 +10409,7 @@
               "country": "美國",
               "title": "美國至9月28日3個月國債競拍-得標利率配置百分比",
               "importance": 1,
-              "previous": "66.77 %",
+              "previous": "13.86 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -9423,7 +10583,7 @@
               "country": "美國",
               "title": "美國至9月28日6個月國債競拍-得標利率配置百分比",
               "importance": 1,
-              "previous": "49.27 %",
+              "previous": "82.5 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -9532,7 +10692,7 @@
         },
         {
           "date": "2026-09-29",
-          "count": 44,
+          "count": 46,
           "events": [
             {
               "id": "capital:1184833",
@@ -9951,7 +11111,7 @@
               "country": "西班牙",
               "title": "西班牙9月CPI年率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "4.3 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -10009,7 +11169,7 @@
               "country": "西班牙",
               "title": "西班牙9月CPI月率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "0.7 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -10057,6 +11217,64 @@
               "history_checked_at": "2026-09-20 01:23:29"
             },
             {
+              "id": "capital:1187378",
+              "fid": "1187378",
+              "interval": "next_week",
+              "date": "2026-09-29",
+              "time": "15:00",
+              "datetime": "2026-09-29 15:00:00",
+              "display_time": "09/29 15:00",
+              "country": "西班牙",
+              "title": "西班牙9月CPI月率終值",
+              "importance": 1,
+              "previous": "0.7 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187378",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "09/15",
+                  "actual": "0.7",
+                  "forecast": "0.7",
+                  "previous": "0.7"
+                },
+                {
+                  "date": "08/13",
+                  "actual": "0.3",
+                  "forecast": "0.2",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "0.6",
+                  "forecast": "0.6",
+                  "previous": "0.6"
+                },
+                {
+                  "date": "06/12",
+                  "actual": "0.1",
+                  "forecast": "0.1",
+                  "previous": "0.1"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "0.4",
+                  "forecast": "0.4",
+                  "previous": "0.4"
+                },
+                {
+                  "date": "04/14",
+                  "actual": "1.2",
+                  "forecast": "1",
+                  "previous": "1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
               "id": "capital:1184841",
               "fid": "1184841",
               "interval": "next_week",
@@ -10067,7 +11285,7 @@
               "country": "西班牙",
               "title": "西班牙9月調和CPI年率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "4.6 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -10125,7 +11343,7 @@
               "country": "西班牙",
               "title": "西班牙9月調和CPI月率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "0.7 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -10171,6 +11389,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-09-20 01:23:29"
+            },
+            {
+              "id": "capital:1187379",
+              "fid": "1187379",
+              "interval": "next_week",
+              "date": "2026-09-29",
+              "time": "15:00",
+              "datetime": "2026-09-29 15:00:00",
+              "display_time": "09/29 15:00",
+              "country": "西班牙",
+              "title": "西班牙9月調和CPI月率終值",
+              "importance": 1,
+              "previous": "0.7 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187379",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "09/15",
+                  "actual": "0.7",
+                  "forecast": "0.6",
+                  "previous": "0.6"
+                },
+                {
+                  "date": "08/13",
+                  "actual": "0",
+                  "forecast": "-0.1",
+                  "previous": "-0.1"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "0.6",
+                  "forecast": "0.6",
+                  "previous": "0.6"
+                },
+                {
+                  "date": "06/12",
+                  "actual": "0.1",
+                  "forecast": "0.1",
+                  "previous": "0.1"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "0.7",
+                  "forecast": "0.7",
+                  "previous": "0.7"
+                },
+                {
+                  "date": "04/14",
+                  "actual": "1.7",
+                  "forecast": "1.5",
+                  "previous": "1.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
             },
             {
               "id": "capital:1184842",
@@ -12090,7 +13366,7 @@
         },
         {
           "date": "2026-09-30",
-          "count": 92,
+          "count": 93,
           "events": [
             {
               "id": "capital:1184869",
@@ -12277,7 +13553,7 @@
               "country": "日本",
               "title": "日本8月工業產出年率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.9 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -12335,7 +13611,7 @@
               "country": "日本",
               "title": "日本8月工業產出月率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "-0.2 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -13901,7 +15177,7 @@
               "country": "法國",
               "title": "法國9月CPI年率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "2.4 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -13959,7 +15235,7 @@
               "country": "法國",
               "title": "法國9月CPI月率初值",
               "importance": 2,
-              "previous": "-- %",
+              "previous": "0.7 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -14017,7 +15293,7 @@
               "country": "法國",
               "title": "法國9月調和CPI年率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "2.6 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -14075,7 +15351,7 @@
               "country": "法國",
               "title": "法國9月調和CPI月率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "0.7 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -14713,7 +15989,7 @@
               "country": "意大利",
               "title": "意大利9月CPI年率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.3 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -14771,7 +16047,7 @@
               "country": "意大利",
               "title": "意大利9月CPI月率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "0.5 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -14829,7 +16105,7 @@
               "country": "意大利",
               "title": "意大利9月調和CPI年率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.2 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -14887,7 +16163,7 @@
               "country": "意大利",
               "title": "意大利9月調和CPI月率初值",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "0.1 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -15525,7 +16801,7 @@
               "country": "美國",
               "title": "美國8月批發庫存月率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "1.3 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -17371,6 +18647,64 @@
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
+              "id": "capital:1187462",
+              "fid": "1187462",
+              "interval": "next_week",
+              "date": "2026-09-30",
+              "time": "23:30",
+              "datetime": "2026-09-30 23:30:00",
+              "display_time": "09/30 23:30",
+              "country": "美國",
+              "title": "美國至9月30日4個月國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "-- %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187462",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "09/16",
+                  "actual": "23.62",
+                  "forecast": "-",
+                  "previous": "37.41"
+                },
+                {
+                  "date": "09/09",
+                  "actual": "37.41",
+                  "forecast": "-",
+                  "previous": "76.38"
+                },
+                {
+                  "date": "09/02",
+                  "actual": "76.38",
+                  "forecast": "-",
+                  "previous": "34.83"
+                },
+                {
+                  "date": "08/26",
+                  "actual": "34.83",
+                  "forecast": "-",
+                  "previous": "25.88"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "25.88",
+                  "forecast": "-",
+                  "previous": "9.14"
+                },
+                {
+                  "date": "08/12",
+                  "actual": "9.14",
+                  "forecast": "-",
+                  "previous": "94.66"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
               "id": "capital:1184935",
               "fid": "1184935",
               "interval": "next_week",
@@ -17432,7 +18766,7 @@
         },
         {
           "date": "2026-10-01",
-          "count": 57,
+          "count": 58,
           "events": [
             {
               "id": "capital:1187034",
@@ -17620,7 +18954,7 @@
               "title": "日本第三季度短觀大型所有行業資本支出",
               "importance": 1,
               "previous": "11.5",
-              "forecast": "--",
+              "forecast": "12.2",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186659",
@@ -17678,7 +19012,7 @@
               "title": "日本第三季度短觀大型製造業前景指數",
               "importance": 1,
               "previous": "17",
-              "forecast": "--",
+              "forecast": "21",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186657",
@@ -17736,7 +19070,7 @@
               "title": "日本第三季度短觀大型製造業景氣判斷指數",
               "importance": 1,
               "previous": "22",
-              "forecast": "--",
+              "forecast": "25",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186656",
@@ -17794,7 +19128,7 @@
               "title": "日本第三季度短觀大型非製造業景氣判斷指數",
               "importance": 1,
               "previous": "37",
-              "forecast": "--",
+              "forecast": "37",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186658",
@@ -17852,7 +19186,7 @@
               "title": "日本第三季度短觀小型製造業景氣判斷指數",
               "importance": 1,
               "previous": "9",
-              "forecast": "--",
+              "forecast": "11",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186661",
@@ -17910,7 +19244,7 @@
               "title": "日本第三季度短觀小型非製造業景氣判斷指數",
               "importance": 1,
               "previous": "15",
-              "forecast": "--",
+              "forecast": "15",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186664",
@@ -17988,7 +19322,7 @@
               "country": "日本",
               "title": "日本至9月25日當週外資買進日債(億日元)",
               "importance": 1,
-              "previous": "--",
+              "previous": "22362",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -18046,7 +19380,7 @@
               "country": "日本",
               "title": "日本至9月25日當週外資買進日股(億日元)",
               "importance": 1,
-              "previous": "--",
+              "previous": "-15228",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -18104,7 +19438,7 @@
               "country": "日本",
               "title": "日本至9月25日當週買進外國債券(億日元)",
               "importance": 1,
-              "previous": "--",
+              "previous": "10829",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -18162,7 +19496,7 @@
               "country": "日本",
               "title": "日本至9月25日當週買進外國股票(億日元)",
               "importance": 1,
-              "previous": "--",
+              "previous": "1692",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -18846,6 +20180,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
+            },
+            {
+              "id": "capital:1187373",
+              "fid": "1187373",
+              "interval": "next_week",
+              "date": "2026-10-01",
+              "time": "14:30",
+              "datetime": "2026-10-01 14:30:00",
+              "display_time": "10/01 14:30",
+              "country": "瑞士",
+              "title": "瑞士8月實際零售銷售年率",
+              "importance": 2,
+              "previous": "2.3 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187373",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "09/01",
+                  "actual": "2.3",
+                  "forecast": "-",
+                  "previous": "1.5"
+                },
+                {
+                  "date": "07/31",
+                  "actual": "1.5",
+                  "forecast": "-",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "3.5",
+                  "forecast": "-",
+                  "previous": "1.6"
+                },
+                {
+                  "date": "06/01",
+                  "actual": "1.6",
+                  "forecast": "-",
+                  "previous": "0.5"
+                },
+                {
+                  "date": "05/01",
+                  "actual": "0.5",
+                  "forecast": "-",
+                  "previous": "0.9"
+                },
+                {
+                  "date": "04/01",
+                  "actual": "0.9",
+                  "forecast": "-",
+                  "previous": "-1.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
             },
             {
               "id": "capital:1145140",
@@ -20707,7 +22099,7 @@
         },
         {
           "date": "2026-10-02",
-          "count": 34,
+          "count": 37,
           "events": [
             {
               "id": "capital:1186679",
@@ -21590,7 +22982,7 @@
               "country": "歐元區",
               "title": "歐元區9月CPI年率終值",
               "importance": 2,
-              "previous": "-- %",
+              "previous": "3.2 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -21648,7 +23040,7 @@
               "country": "歐元區",
               "title": "歐元區9月CPI月率初值",
               "importance": 2,
-              "previous": "-- %",
+              "previous": "0.4 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -21754,6 +23146,64 @@
               "history_checked_at": "2026-09-20 01:28:13"
             },
             {
+              "id": "capital:1187380",
+              "fid": "1187380",
+              "interval": "next_week",
+              "date": "2026-10-02",
+              "time": "17:00",
+              "datetime": "2026-10-02 17:00:00",
+              "display_time": "10/02 17:00",
+              "country": "歐元區",
+              "title": "歐元區9月核心CPI年率終值",
+              "importance": 1,
+              "previous": "2.1 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187380",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "09/17",
+                  "actual": "2.1",
+                  "forecast": "-",
+                  "previous": "2.1"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "2.2",
+                  "forecast": "-",
+                  "previous": "2.2"
+                },
+                {
+                  "date": "07/17",
+                  "actual": "2.1",
+                  "forecast": "-",
+                  "previous": "2.2"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "2.3",
+                  "forecast": "2.3",
+                  "previous": "2.3"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "2.1",
+                  "forecast": "2.1",
+                  "previous": "2.1"
+                },
+                {
+                  "date": "04/16",
+                  "actual": "2.2",
+                  "forecast": "2.2",
+                  "previous": "2.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
+            },
+            {
               "id": "capital:1187042",
               "fid": "1187042",
               "interval": "next_week",
@@ -21810,6 +23260,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
+            },
+            {
+              "id": "capital:1187381",
+              "fid": "1187381",
+              "interval": "next_week",
+              "date": "2026-10-02",
+              "time": "17:00",
+              "datetime": "2026-10-02 17:00:00",
+              "display_time": "10/02 17:00",
+              "country": "歐元區",
+              "title": "歐元區9月核心CPI月率終值",
+              "importance": 1,
+              "previous": "0.2 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187381",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "09/17",
+                  "actual": "0.2",
+                  "forecast": "-",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "08/19",
+                  "actual": "0",
+                  "forecast": "-",
+                  "previous": "0"
+                },
+                {
+                  "date": "07/17",
+                  "actual": "0.2",
+                  "forecast": "-",
+                  "previous": "0.2"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "0.3",
+                  "forecast": "0.3",
+                  "previous": "0.3"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "0.8",
+                  "forecast": "-",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "04/16",
+                  "actual": "0.7",
+                  "forecast": "-",
+                  "previous": "0.7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
             },
             {
               "id": "capital:1145166",
@@ -21926,6 +23434,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-09-20 01:28:13"
+            },
+            {
+              "id": "capital:1187382",
+              "fid": "1187382",
+              "interval": "next_week",
+              "date": "2026-10-02",
+              "time": "20:30",
+              "datetime": "2026-10-02 20:30:00",
+              "display_time": "10/02 20:30",
+              "country": "美國",
+              "title": "美國9月季調後政府部門就業人口(萬人)",
+              "importance": 1,
+              "previous": "3.5",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187382",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "09/04",
+                  "actual": "3.5",
+                  "forecast": "-",
+                  "previous": "-5.3"
+                },
+                {
+                  "date": "08/07",
+                  "actual": "-5.3",
+                  "forecast": "-",
+                  "previous": "0.8"
+                },
+                {
+                  "date": "07/02",
+                  "actual": "0.8",
+                  "forecast": "-",
+                  "previous": "5.2"
+                },
+                {
+                  "date": "06/05",
+                  "actual": "5.2",
+                  "forecast": "-",
+                  "previous": "-0.8"
+                },
+                {
+                  "date": "05/08",
+                  "actual": "-0.8",
+                  "forecast": "-",
+                  "previous": "-0.8"
+                },
+                {
+                  "date": "04/03",
+                  "actual": "-0.8",
+                  "forecast": "-",
+                  "previous": "-0.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-09-20 15:07:30"
             },
             {
               "id": "capital:1145170",
@@ -23274,6 +24840,238 @@
   ],
   "items": [
     {
+      "id": "capital:1185425",
+      "fid": "1185425",
+      "interval": "this_week",
+      "date": "2026-09-20",
+      "time": "00:00",
+      "datetime": "2026-09-20 00:00:00",
+      "display_time": "09/20 00:00",
+      "country": "中國",
+      "title": "中國8月全社會用電量(億千瓦時)",
+      "importance": 2,
+      "previous": "10400",
+      "forecast": "--",
+      "actual": "10332",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185425",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/21",
+          "actual": "10400",
+          "forecast": "-",
+          "previous": "8981"
+        },
+        {
+          "date": "07/15",
+          "actual": "8981",
+          "forecast": "-",
+          "previous": "8671"
+        },
+        {
+          "date": "06/18",
+          "actual": "8671",
+          "forecast": "-",
+          "previous": "8205"
+        },
+        {
+          "date": "05/19",
+          "actual": "8205",
+          "forecast": "-",
+          "previous": "8595"
+        },
+        {
+          "date": "04/20",
+          "actual": "8595",
+          "forecast": "-",
+          "previous": "-"
+        },
+        {
+          "date": "12/24",
+          "actual": "8356",
+          "forecast": "-",
+          "previous": "8572"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1185424",
+      "fid": "1185424",
+      "interval": "this_week",
+      "date": "2026-09-20",
+      "time": "00:00",
+      "datetime": "2026-09-20 00:00:00",
+      "display_time": "09/20 00:00",
+      "country": "中國",
+      "title": "中國8月全社會用電量同比",
+      "importance": 3,
+      "previous": "1.7 %",
+      "forecast": "-- %",
+      "actual": "1.7 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185424",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/21",
+          "actual": "1.7",
+          "forecast": "-",
+          "previous": "3.7"
+        },
+        {
+          "date": "07/15",
+          "actual": "3.7",
+          "forecast": "-",
+          "previous": "6.9"
+        },
+        {
+          "date": "06/18",
+          "actual": "6.9",
+          "forecast": "-",
+          "previous": "6"
+        },
+        {
+          "date": "05/19",
+          "actual": "6",
+          "forecast": "-",
+          "previous": "3.5"
+        },
+        {
+          "date": "04/20",
+          "actual": "3.5",
+          "forecast": "-",
+          "previous": "-"
+        },
+        {
+          "date": "12/24",
+          "actual": "6.2",
+          "forecast": "-",
+          "previous": "10.4"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1185415",
+      "fid": "1185415",
+      "interval": "this_week",
+      "date": "2026-09-20",
+      "time": "00:00",
+      "datetime": "2026-09-20 00:00:00",
+      "display_time": "09/20 00:00",
+      "country": "中國",
+      "title": "中國8月本年迄今全國發電裝機容量(萬千瓦)",
+      "importance": 2,
+      "previous": "407820",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185415",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/25",
+          "actual": "407820",
+          "forecast": "-",
+          "previous": "404252"
+        },
+        {
+          "date": "07/22",
+          "actual": "404252",
+          "forecast": "-",
+          "previous": "400745"
+        },
+        {
+          "date": "06/25",
+          "actual": "400745",
+          "forecast": "-",
+          "previous": "398547"
+        },
+        {
+          "date": "04/23",
+          "actual": "396483",
+          "forecast": "-",
+          "previous": "394803"
+        },
+        {
+          "date": "03/25",
+          "actual": "394803",
+          "forecast": "-",
+          "previous": "389134"
+        },
+        {
+          "date": "01/28",
+          "actual": "389134",
+          "forecast": "-",
+          "previous": "379351"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1185414",
+      "fid": "1185414",
+      "interval": "this_week",
+      "date": "2026-09-20",
+      "time": "00:00",
+      "datetime": "2026-09-20 00:00:00",
+      "display_time": "09/20 00:00",
+      "country": "中國",
+      "title": "中國8月本年迄今全國發電裝機容量年率",
+      "importance": 2,
+      "previous": "11 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185414",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/25",
+          "actual": "11",
+          "forecast": "-",
+          "previous": "10.8"
+        },
+        {
+          "date": "07/22",
+          "actual": "10.8",
+          "forecast": "-",
+          "previous": "11"
+        },
+        {
+          "date": "06/25",
+          "actual": "11",
+          "forecast": "-",
+          "previous": "14.2"
+        },
+        {
+          "date": "04/23",
+          "actual": "15.5",
+          "forecast": "-",
+          "previous": "15.9"
+        },
+        {
+          "date": "03/25",
+          "actual": "15.9",
+          "forecast": "-",
+          "previous": "16.1"
+        },
+        {
+          "date": "01/28",
+          "actual": "16.1",
+          "forecast": "-",
+          "previous": "17.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
       "id": "capital:1184708",
       "fid": "1184708",
       "interval": "this_week",
@@ -23575,7 +25373,7 @@
       "title": "美國8月芝加哥聯儲全國活動指數",
       "importance": 1,
       "previous": "-0.08",
-      "forecast": "--",
+      "forecast": "-0.06",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184711",
@@ -23690,7 +25488,7 @@
       "country": "美國",
       "title": "美國至9月21日3個月國債競拍-得標利率配置百分比",
       "importance": 1,
-      "previous": "66.77 %",
+      "previous": "13.86 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -23864,7 +25662,7 @@
       "country": "美國",
       "title": "美國至9月21日6個月國債競拍-得標利率配置百分比",
       "importance": 1,
-      "previous": "49.27 %",
+      "previous": "82.5 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -24097,7 +25895,7 @@
       "title": "臺灣8月外銷訂單年率",
       "importance": 1,
       "previous": "61.9 %",
-      "forecast": "-- %",
+      "forecast": "63.6 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184718",
@@ -25072,6 +26870,470 @@
       "history_checked_at": "2026-09-13 00:06:13"
     },
     {
+      "id": "capital:1187450",
+      "fid": "1187450",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "04:30",
+      "datetime": "2026-09-23 04:30:00",
+      "display_time": "09/23 04:30",
+      "country": "美國",
+      "title": "美國至9月18日當週API原油庫存(萬桶)",
+      "importance": 2,
+      "previous": "714.4",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187450",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "714.4",
+          "forecast": "-175",
+          "previous": "-32.7"
+        },
+        {
+          "date": "09/10",
+          "actual": "-32.7",
+          "forecast": "-133.6",
+          "previous": "-259.3"
+        },
+        {
+          "date": "09/02",
+          "actual": "-259.3",
+          "forecast": "-82",
+          "previous": "419.9"
+        },
+        {
+          "date": "08/26",
+          "actual": "420",
+          "forecast": "186",
+          "previous": "-32.8"
+        },
+        {
+          "date": "08/19",
+          "actual": "-32.8",
+          "forecast": "-",
+          "previous": "907.2"
+        },
+        {
+          "date": "08/12",
+          "actual": "907.2",
+          "forecast": "-50",
+          "previous": "269"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187455",
+      "fid": "1187455",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "04:30",
+      "datetime": "2026-09-23 04:30:00",
+      "display_time": "09/23 04:30",
+      "country": "美國",
+      "title": "美國至9月18日當週API原油進口(萬桶)",
+      "importance": 1,
+      "previous": "-4.5",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187455",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "-4.5",
+          "forecast": "-",
+          "previous": "40.6"
+        },
+        {
+          "date": "09/10",
+          "actual": "40.6",
+          "forecast": "-",
+          "previous": "24.2"
+        },
+        {
+          "date": "09/02",
+          "actual": "24.2",
+          "forecast": "-",
+          "previous": "-46.2"
+        },
+        {
+          "date": "08/19",
+          "actual": "5",
+          "forecast": "-",
+          "previous": "83.5"
+        },
+        {
+          "date": "08/12",
+          "actual": "83.5",
+          "forecast": "-",
+          "previous": "17.2"
+        },
+        {
+          "date": "08/05",
+          "actual": "17.2",
+          "forecast": "-",
+          "previous": "-39.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187454",
+      "fid": "1187454",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "04:30",
+      "datetime": "2026-09-23 04:30:00",
+      "display_time": "09/23 04:30",
+      "country": "美國",
+      "title": "美國至9月18日當週API取暖油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-2.8",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187454",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "-2.8",
+          "forecast": "-",
+          "previous": "40.5"
+        },
+        {
+          "date": "09/10",
+          "actual": "40.5",
+          "forecast": "-",
+          "previous": "-35"
+        },
+        {
+          "date": "09/02",
+          "actual": "-35",
+          "forecast": "-",
+          "previous": "-4.3"
+        },
+        {
+          "date": "08/19",
+          "actual": "-36",
+          "forecast": "-",
+          "previous": "42.4"
+        },
+        {
+          "date": "08/12",
+          "actual": "42.4",
+          "forecast": "-",
+          "previous": "-11.8"
+        },
+        {
+          "date": "08/05",
+          "actual": "-11.8",
+          "forecast": "-",
+          "previous": "-12.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187453",
+      "fid": "1187453",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "04:30",
+      "datetime": "2026-09-23 04:30:00",
+      "display_time": "09/23 04:30",
+      "country": "美國",
+      "title": "美國至9月18日當週API庫欣原油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-24.6",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187453",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "-24.6",
+          "forecast": "-",
+          "previous": "-33.1"
+        },
+        {
+          "date": "09/10",
+          "actual": "-33.1",
+          "forecast": "-",
+          "previous": "15"
+        },
+        {
+          "date": "09/02",
+          "actual": "15",
+          "forecast": "-",
+          "previous": "99.5"
+        },
+        {
+          "date": "08/26",
+          "actual": "100",
+          "forecast": "-",
+          "previous": "-143.8"
+        },
+        {
+          "date": "08/19",
+          "actual": "-143.8",
+          "forecast": "-",
+          "previous": "157.1"
+        },
+        {
+          "date": "08/12",
+          "actual": "157.1",
+          "forecast": "-",
+          "previous": "235.8"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187456",
+      "fid": "1187456",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "04:30",
+      "datetime": "2026-09-23 04:30:00",
+      "display_time": "09/23 04:30",
+      "country": "美國",
+      "title": "美國至9月18日當週API成品油進口(萬桶/日)",
+      "importance": 1,
+      "previous": "30.7",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187456",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "30.7",
+          "forecast": "-",
+          "previous": "-5.9"
+        },
+        {
+          "date": "09/10",
+          "actual": "-5.9",
+          "forecast": "-",
+          "previous": "-22.6"
+        },
+        {
+          "date": "09/02",
+          "actual": "-22.6",
+          "forecast": "-",
+          "previous": "25.4"
+        },
+        {
+          "date": "08/19",
+          "actual": "-35.4",
+          "forecast": "-",
+          "previous": "19.6"
+        },
+        {
+          "date": "08/12",
+          "actual": "19.6",
+          "forecast": "-",
+          "previous": "-20.6"
+        },
+        {
+          "date": "08/05",
+          "actual": "-20.6",
+          "forecast": "-",
+          "previous": "29.7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187457",
+      "fid": "1187457",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "04:30",
+      "datetime": "2026-09-23 04:30:00",
+      "display_time": "09/23 04:30",
+      "country": "美國",
+      "title": "美國至9月18日當週API投產原油量(萬桶/日)",
+      "importance": 1,
+      "previous": "-11.5",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187457",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "-11.5",
+          "forecast": "-",
+          "previous": "-19.6"
+        },
+        {
+          "date": "09/10",
+          "actual": "-19.6",
+          "forecast": "-",
+          "previous": "29.4"
+        },
+        {
+          "date": "09/02",
+          "actual": "29.4",
+          "forecast": "-",
+          "previous": "-8.8"
+        },
+        {
+          "date": "08/19",
+          "actual": "23.8",
+          "forecast": "-",
+          "previous": "3.4"
+        },
+        {
+          "date": "08/12",
+          "actual": "3.4",
+          "forecast": "-",
+          "previous": "-11.2"
+        },
+        {
+          "date": "08/05",
+          "actual": "-11.2",
+          "forecast": "-",
+          "previous": "9.3"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187451",
+      "fid": "1187451",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "04:30",
+      "datetime": "2026-09-23 04:30:00",
+      "display_time": "09/23 04:30",
+      "country": "美國",
+      "title": "美國至9月18日當週API汽油庫存(萬桶)",
+      "importance": 1,
+      "previous": "146.2",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187451",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "146.2",
+          "forecast": "-120.1",
+          "previous": "-186.7"
+        },
+        {
+          "date": "09/10",
+          "actual": "-186.7",
+          "forecast": "-175.8",
+          "previous": "34.8"
+        },
+        {
+          "date": "09/02",
+          "actual": "34.8",
+          "forecast": "-240",
+          "previous": "-320.1"
+        },
+        {
+          "date": "08/26",
+          "actual": "-320",
+          "forecast": "-100",
+          "previous": "107.6"
+        },
+        {
+          "date": "08/19",
+          "actual": "107.6",
+          "forecast": "-",
+          "previous": "-153.1"
+        },
+        {
+          "date": "08/12",
+          "actual": "-153.1",
+          "forecast": "-157.8",
+          "previous": "15.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187452",
+      "fid": "1187452",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "04:30",
+      "datetime": "2026-09-23 04:30:00",
+      "display_time": "09/23 04:30",
+      "country": "美國",
+      "title": "美國至9月18日當週API精煉油庫存(萬桶)",
+      "importance": 1,
+      "previous": "160.7",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187452",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "160.7",
+          "forecast": "82.7",
+          "previous": "197.7"
+        },
+        {
+          "date": "09/10",
+          "actual": "197.7",
+          "forecast": "-22.6",
+          "previous": "-26.5"
+        },
+        {
+          "date": "09/02",
+          "actual": "-26.5",
+          "forecast": "-125",
+          "previous": "-45.9"
+        },
+        {
+          "date": "08/26",
+          "actual": "-50",
+          "forecast": "-167.4",
+          "previous": "-279.7"
+        },
+        {
+          "date": "08/19",
+          "actual": "-279.7",
+          "forecast": "-",
+          "previous": "-59.6"
+        },
+        {
+          "date": "08/12",
+          "actual": "-59.6",
+          "forecast": "-160",
+          "previous": "-123.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
       "id": "capital:1184727",
       "fid": "1184727",
       "interval": "this_week",
@@ -25489,7 +27751,7 @@
       "title": "新加坡8月CPI年率",
       "importance": 1,
       "previous": "2.2 %",
-      "forecast": "-- %",
+      "forecast": "2.4 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184734",
@@ -25721,7 +27983,7 @@
       "title": "印尼至9月23日7天逆回購利率",
       "importance": 1,
       "previous": "5.75 %",
-      "forecast": "-- %",
+      "forecast": "5.75 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184738",
@@ -26127,7 +28389,7 @@
       "title": "臺灣8月工業生產年率",
       "importance": 1,
       "previous": "25.61 %",
-      "forecast": "-- %",
+      "forecast": "24.6 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184742",
@@ -26464,6 +28726,238 @@
       "history_checked_at": "2026-09-13 00:06:13"
     },
     {
+      "id": "capital:1187458",
+      "fid": "1187458",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "19:00",
+      "datetime": "2026-09-23 19:00:00",
+      "display_time": "09/23 19:00",
+      "country": "美國",
+      "title": "美國至9月18日當週MBA30年期固定抵押貸款利率",
+      "importance": 1,
+      "previous": "6.97 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187458",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "6.97",
+          "forecast": "-",
+          "previous": "6.85"
+        },
+        {
+          "date": "09/09",
+          "actual": "6.85",
+          "forecast": "-",
+          "previous": "6.79"
+        },
+        {
+          "date": "09/02",
+          "actual": "6.79",
+          "forecast": "-",
+          "previous": "6.78"
+        },
+        {
+          "date": "08/26",
+          "actual": "6.78",
+          "forecast": "-",
+          "previous": "6.77"
+        },
+        {
+          "date": "08/19",
+          "actual": "6.77",
+          "forecast": "-",
+          "previous": "6.77"
+        },
+        {
+          "date": "08/12",
+          "actual": "6.77",
+          "forecast": "-",
+          "previous": "6.81"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187461",
+      "fid": "1187461",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "19:00",
+      "datetime": "2026-09-23 19:00:00",
+      "display_time": "09/23 19:00",
+      "country": "美國",
+      "title": "美國至9月18日當週MBA抵押貸款再融資活動指數",
+      "importance": 1,
+      "previous": "627.1",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187461",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "627.1",
+          "forecast": "-",
+          "previous": "687.3"
+        },
+        {
+          "date": "09/09",
+          "actual": "687.3",
+          "forecast": "-",
+          "previous": "732.6"
+        },
+        {
+          "date": "09/02",
+          "actual": "732.6",
+          "forecast": "-",
+          "previous": "740.8"
+        },
+        {
+          "date": "08/26",
+          "actual": "740.8",
+          "forecast": "-",
+          "previous": "755.9"
+        },
+        {
+          "date": "08/19",
+          "actual": "755.9",
+          "forecast": "-",
+          "previous": "744.4"
+        },
+        {
+          "date": "08/12",
+          "actual": "744.4",
+          "forecast": "-",
+          "previous": "709.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187459",
+      "fid": "1187459",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "19:00",
+      "datetime": "2026-09-23 19:00:00",
+      "display_time": "09/23 19:00",
+      "country": "美國",
+      "title": "美國至9月18日當週MBA抵押貸款申請活動指數",
+      "importance": 1,
+      "previous": "230.8",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187459",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "230.8",
+          "forecast": "-",
+          "previous": "240.6"
+        },
+        {
+          "date": "09/09",
+          "actual": "240.6",
+          "forecast": "-",
+          "previous": "247.3"
+        },
+        {
+          "date": "09/02",
+          "actual": "247.3",
+          "forecast": "-",
+          "previous": "245.3"
+        },
+        {
+          "date": "08/26",
+          "actual": "245.3",
+          "forecast": "-",
+          "previous": "247.7"
+        },
+        {
+          "date": "08/19",
+          "actual": "247.7",
+          "forecast": "-",
+          "previous": "248.6"
+        },
+        {
+          "date": "08/12",
+          "actual": "248.6",
+          "forecast": "-",
+          "previous": "240"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187460",
+      "fid": "1187460",
+      "interval": "this_week",
+      "date": "2026-09-23",
+      "time": "19:00",
+      "datetime": "2026-09-23 19:00:00",
+      "display_time": "09/23 19:00",
+      "country": "美國",
+      "title": "美國至9月18日當週MBA抵押貸款購買指數",
+      "importance": 1,
+      "previous": "156.2",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187460",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "156.2",
+          "forecast": "-",
+          "previous": "157.5"
+        },
+        {
+          "date": "09/09",
+          "actual": "157.5",
+          "forecast": "-",
+          "previous": "157.8"
+        },
+        {
+          "date": "09/02",
+          "actual": "157.8",
+          "forecast": "-",
+          "previous": "154.4"
+        },
+        {
+          "date": "08/26",
+          "actual": "154.4",
+          "forecast": "-",
+          "previous": "154.8"
+        },
+        {
+          "date": "08/19",
+          "actual": "154.8",
+          "forecast": "-",
+          "previous": "157.9"
+        },
+        {
+          "date": "08/12",
+          "actual": "157.9",
+          "forecast": "-",
+          "previous": "154"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
       "id": "capital:1184751",
       "fid": "1184751",
       "interval": "this_week",
@@ -26475,7 +28969,7 @@
       "title": "南非至9月23日回購利率",
       "importance": 1,
       "previous": "7 %",
-      "forecast": "-- %",
+      "forecast": "7.25 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184751",
@@ -26706,7 +29200,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA俄克拉荷馬州庫欣原油庫存(萬桶)",
       "importance": 2,
-      "previous": "--",
+      "previous": "-34.2",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -26764,7 +29258,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA原油庫存(萬桶)",
       "importance": 3,
-      "previous": "--",
+      "previous": "-64",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -26822,7 +29316,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA原油產量引伸需求數據(萬桶/日)",
       "importance": 1,
-      "previous": "--",
+      "previous": "2109.3",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -26880,7 +29374,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA原油進口(萬桶)",
       "importance": 1,
-      "previous": "112",
+      "previous": "-118",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -26938,7 +29432,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA取暖油庫存(萬桶)",
       "importance": 1,
-      "previous": "1",
+      "previous": "68.4",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -26996,7 +29490,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA成品油進口(萬桶/日)",
       "importance": 1,
-      "previous": "23.7",
+      "previous": "30.8",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -27054,7 +29548,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA戰略石油儲備庫存(萬桶)",
       "importance": 2,
-      "previous": "-124.4",
+      "previous": "-40.3",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -27112,7 +29606,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA投產原油量(萬桶/日)",
       "importance": 1,
-      "previous": "9",
+      "previous": "-25.6",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -27170,7 +29664,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA新配方汽油庫存(萬桶)",
       "importance": 1,
-      "previous": "0.5",
+      "previous": "0",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -27228,7 +29722,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA汽油庫存(萬桶)",
       "importance": 1,
-      "previous": "--",
+      "previous": "79.4",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -27286,7 +29780,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA汽油產量(萬桶/日)",
       "importance": 1,
-      "previous": "-53.7",
+      "previous": "33.6",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -27344,7 +29838,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA精煉廠設備利用率",
       "importance": 1,
-      "previous": "97.8 %",
+      "previous": "96.8 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -27402,7 +29896,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA精煉油庫存(萬桶)",
       "importance": 1,
-      "previous": "--",
+      "previous": "158.5",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -27460,7 +29954,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA精煉油產量(萬桶/日)",
       "importance": 1,
-      "previous": "22.2",
+      "previous": "-12.1",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -27518,7 +30012,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA蒸餾燃油產量引伸需求數據(萬桶/日)",
       "importance": 1,
-      "previous": "--",
+      "previous": "511.46",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -27576,7 +30070,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA車用汽油總產量引伸需求數據(萬桶/日)",
       "importance": 1,
-      "previous": "--",
+      "previous": "975.27",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -27634,7 +30128,7 @@
       "country": "美國",
       "title": "美國至9月23日4個月國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "4.03 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -27692,7 +30186,7 @@
       "country": "美國",
       "title": "美國至9月23日4個月國債競拍-得標利率配置百分比",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "23.62 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -27750,7 +30244,7 @@
       "country": "美國",
       "title": "美國至9月23日4個月國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "2.72",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -28273,7 +30767,7 @@
       "title": "澳大利亞8月季調後失業率",
       "importance": 2,
       "previous": "4.5 %",
-      "forecast": "-- %",
+      "forecast": "4.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184770",
@@ -28331,7 +30825,7 @@
       "title": "澳大利亞8月季調後就業參與率",
       "importance": 1,
       "previous": "66.9 %",
-      "forecast": "-- %",
+      "forecast": "66.9 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184773",
@@ -28389,7 +30883,7 @@
       "title": "澳大利亞8月就業人口(萬人)",
       "importance": 1,
       "previous": "-1.58",
-      "forecast": "--",
+      "forecast": "2",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184769",
@@ -28737,7 +31231,7 @@
       "title": "瑞典至9月24日央行基準利率",
       "importance": 1,
       "previous": "1.75 %",
-      "forecast": "-- %",
+      "forecast": "1.75 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184780",
@@ -28795,7 +31289,7 @@
       "title": "瑞士至9月24日央行政策利率",
       "importance": 2,
       "previous": "0 %",
-      "forecast": "-- %",
+      "forecast": "0 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184779",
@@ -29027,7 +31521,7 @@
       "title": "挪威至9月24日央行利率決定",
       "importance": 1,
       "previous": "4.25 %",
-      "forecast": "-- %",
+      "forecast": "4.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184781",
@@ -29433,7 +31927,7 @@
       "title": "加拿大7月零售銷售月率",
       "importance": 2,
       "previous": "0.6 %",
-      "forecast": "-- %",
+      "forecast": "-0.8 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184788",
@@ -29548,7 +32042,7 @@
       "country": "美國",
       "title": "美國至9月12日當週續請失業金人數(萬人)",
       "importance": 1,
-      "previous": "--",
+      "previous": "173",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -29606,7 +32100,7 @@
       "country": "美國",
       "title": "美國至9月19日當週初請失業金人數(萬人)",
       "importance": 3,
-      "previous": "--",
+      "previous": "19.6",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -29664,7 +32158,7 @@
       "country": "美國",
       "title": "美國至9月19日當週初請失業金人數四周均值(萬人)",
       "importance": 1,
-      "previous": "--",
+      "previous": "20.325",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -29722,7 +32216,7 @@
       "country": "俄羅斯",
       "title": "俄羅斯至9月18日當週央行黃金和外匯儲備(億美元)",
       "importance": 1,
-      "previous": "--",
+      "previous": "7582",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -29781,7 +32275,7 @@
       "title": "美國8月新屋銷售年化月率",
       "importance": 1,
       "previous": "-10.5 %",
-      "forecast": "-- %",
+      "forecast": "1.3 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184796",
@@ -29839,7 +32333,7 @@
       "title": "美國8月新屋銷售總數年化(萬戶)",
       "importance": 2,
       "previous": "60.7",
-      "forecast": "--",
+      "forecast": "60.8",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184795",
@@ -29896,7 +32390,7 @@
       "country": "美國",
       "title": "美國至9月18日當週EIA天然氣庫存(億立方英尺)",
       "importance": 2,
-      "previous": "--",
+      "previous": "440",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -30070,7 +32564,7 @@
       "country": "美國",
       "title": "美國至9月24日4周國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.82 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -30118,6 +32612,64 @@
       "history_checked_at": "2026-09-13 00:06:13"
     },
     {
+      "id": "capital:1187463",
+      "fid": "1187463",
+      "interval": "this_week",
+      "date": "2026-09-24",
+      "time": "23:30",
+      "datetime": "2026-09-24 23:30:00",
+      "display_time": "09/24 23:30",
+      "country": "美國",
+      "title": "美國至9月24日4周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "69.59 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187463",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/17",
+          "actual": "69.59",
+          "forecast": "-",
+          "previous": "34.21"
+        },
+        {
+          "date": "09/10",
+          "actual": "34.21",
+          "forecast": "-",
+          "previous": "58.44"
+        },
+        {
+          "date": "09/03",
+          "actual": "58.44",
+          "forecast": "-",
+          "previous": "93.57"
+        },
+        {
+          "date": "08/27",
+          "actual": "93.57",
+          "forecast": "-",
+          "previous": "14.61"
+        },
+        {
+          "date": "08/20",
+          "actual": "14.61",
+          "forecast": "-",
+          "previous": "79.23"
+        },
+        {
+          "date": "08/13",
+          "actual": "79.23",
+          "forecast": "-",
+          "previous": "72.82"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
       "id": "capital:1184800",
       "fid": "1184800",
       "interval": "this_week",
@@ -30128,7 +32680,7 @@
       "country": "美國",
       "title": "美國至9月24日4周國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "3.02",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -30186,7 +32738,7 @@
       "country": "美國",
       "title": "美國至9月24日8周國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.92 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -30234,6 +32786,64 @@
       "history_checked_at": "2026-09-13 00:06:13"
     },
     {
+      "id": "capital:1187348",
+      "fid": "1187348",
+      "interval": "this_week",
+      "date": "2026-09-24",
+      "time": "23:30",
+      "datetime": "2026-09-24 23:30:00",
+      "display_time": "09/24 23:30",
+      "country": "美國",
+      "title": "美國至9月24日8周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "2.93 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187348",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/17",
+          "actual": "2.93",
+          "forecast": "-",
+          "previous": "71.44"
+        },
+        {
+          "date": "09/10",
+          "actual": "71.44",
+          "forecast": "-",
+          "previous": "89.23"
+        },
+        {
+          "date": "09/03",
+          "actual": "89.23",
+          "forecast": "-",
+          "previous": "80.38"
+        },
+        {
+          "date": "08/27",
+          "actual": "80.38",
+          "forecast": "-",
+          "previous": "46.16"
+        },
+        {
+          "date": "08/20",
+          "actual": "46.16",
+          "forecast": "-",
+          "previous": "36.84"
+        },
+        {
+          "date": "08/13",
+          "actual": "36.84",
+          "forecast": "-",
+          "previous": "17.93"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
       "id": "capital:1184801",
       "fid": "1184801",
       "interval": "this_week",
@@ -30244,7 +32854,7 @@
       "country": "美國",
       "title": "美國至9月24日8周國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "2.94",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -30522,6 +33132,122 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-09-13 00:06:13"
+    },
+    {
+      "id": "capital:1187349",
+      "fid": "1187349",
+      "interval": "this_week",
+      "date": "2026-09-25",
+      "time": "04:30",
+      "datetime": "2026-09-25 04:30:00",
+      "display_time": "09/25 04:30",
+      "country": "美國",
+      "title": "美國至9月18日當週外國央行持有美國國債(億美元)",
+      "importance": 1,
+      "previous": "187.26",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187349",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/18",
+          "actual": "187.26",
+          "forecast": "-",
+          "previous": "-111.46"
+        },
+        {
+          "date": "09/11",
+          "actual": "-111.46",
+          "forecast": "-",
+          "previous": "-140.05"
+        },
+        {
+          "date": "09/04",
+          "actual": "-140.05",
+          "forecast": "-",
+          "previous": "290.75"
+        },
+        {
+          "date": "08/28",
+          "actual": "290.75",
+          "forecast": "-",
+          "previous": "-106.71"
+        },
+        {
+          "date": "08/21",
+          "actual": "-106.71",
+          "forecast": "-",
+          "previous": "-342.57"
+        },
+        {
+          "date": "08/14",
+          "actual": "-342.57",
+          "forecast": "-",
+          "previous": "-255.34"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
+      "id": "capital:1187372",
+      "fid": "1187372",
+      "interval": "this_week",
+      "date": "2026-09-25",
+      "time": "07:01",
+      "datetime": "2026-09-25 07:01:00",
+      "display_time": "09/25 07:01",
+      "country": "英國",
+      "title": "英國9月Gfk消費者信心指數",
+      "importance": 2,
+      "previous": "-14",
+      "forecast": "-16",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187372",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/21",
+          "actual": "-14",
+          "forecast": "-18",
+          "previous": "-17"
+        },
+        {
+          "date": "07/24",
+          "actual": "-17",
+          "forecast": "-21",
+          "previous": "-23"
+        },
+        {
+          "date": "06/19",
+          "actual": "-23",
+          "forecast": "-24",
+          "previous": "-23"
+        },
+        {
+          "date": "05/22",
+          "actual": "-23",
+          "forecast": "-28",
+          "previous": "-25"
+        },
+        {
+          "date": "04/24",
+          "actual": "-25",
+          "forecast": "-25",
+          "previous": "-21"
+        },
+        {
+          "date": "03/27",
+          "actual": "-21",
+          "forecast": "-24",
+          "previous": "-19"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
     },
     {
       "id": "capital:1184806",
@@ -30941,7 +33667,7 @@
       "title": "美國8月扣除運輸的耐用品訂單月率",
       "importance": 1,
       "previous": "0.4 %",
-      "forecast": "-- %",
+      "forecast": "0.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184812",
@@ -30999,7 +33725,7 @@
       "title": "美國8月扣除飛機非國防資本耐用品訂單月率",
       "importance": 1,
       "previous": "0 %",
-      "forecast": "-- %",
+      "forecast": "0.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184813",
@@ -31057,7 +33783,7 @@
       "title": "美國8月耐用品訂單月率",
       "importance": 2,
       "previous": "1.1 %",
-      "forecast": "-- %",
+      "forecast": "-0.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184811",
@@ -31114,7 +33840,7 @@
       "country": "美國",
       "title": "美國9月一年期通脹率預期終值",
       "importance": 2,
-      "previous": "-- %",
+      "previous": "4.6 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -31172,7 +33898,7 @@
       "country": "美國",
       "title": "美國9月五至十年期通脹率預期終值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.4 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -31230,7 +33956,7 @@
       "country": "美國",
       "title": "美國9月密歇根大學消費者信心指數終值",
       "importance": 3,
-      "previous": "--",
+      "previous": "47.8",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -31288,7 +34014,7 @@
       "country": "美國",
       "title": "美國9月密歇根大學現況指數終值",
       "importance": 1,
-      "previous": "--",
+      "previous": "50.9",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -31346,7 +34072,7 @@
       "country": "美國",
       "title": "美國9月密歇根大學預期指數終值",
       "importance": 1,
-      "previous": "--",
+      "previous": "45.8",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -31404,7 +34130,7 @@
       "country": "美國",
       "title": "美國至9月25日當週天然氣鑽井總數(口)",
       "importance": 1,
-      "previous": "--",
+      "previous": "134",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -31462,7 +34188,7 @@
       "country": "美國",
       "title": "美國至9月25日當週石油鑽井總數(口)",
       "importance": 2,
-      "previous": "--",
+      "previous": "452",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -31520,7 +34246,7 @@
       "country": "美國",
       "title": "美國至9月25日當週總鑽井總數(口)",
       "importance": 1,
-      "previous": "--",
+      "previous": "595",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -32448,7 +35174,7 @@
       "country": "美國",
       "title": "美國至9月28日3個月國債競拍-得標利率配置百分比",
       "importance": 1,
-      "previous": "66.77 %",
+      "previous": "13.86 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -32622,7 +35348,7 @@
       "country": "美國",
       "title": "美國至9月28日6個月國債競拍-得標利率配置百分比",
       "importance": 1,
-      "previous": "49.27 %",
+      "previous": "82.5 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -33144,7 +35870,7 @@
       "country": "西班牙",
       "title": "西班牙9月CPI年率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "4.3 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -33202,7 +35928,7 @@
       "country": "西班牙",
       "title": "西班牙9月CPI月率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "0.7 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -33250,6 +35976,64 @@
       "history_checked_at": "2026-09-20 01:23:29"
     },
     {
+      "id": "capital:1187378",
+      "fid": "1187378",
+      "interval": "next_week",
+      "date": "2026-09-29",
+      "time": "15:00",
+      "datetime": "2026-09-29 15:00:00",
+      "display_time": "09/29 15:00",
+      "country": "西班牙",
+      "title": "西班牙9月CPI月率終值",
+      "importance": 1,
+      "previous": "0.7 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187378",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "09/15",
+          "actual": "0.7",
+          "forecast": "0.7",
+          "previous": "0.7"
+        },
+        {
+          "date": "08/13",
+          "actual": "0.3",
+          "forecast": "0.2",
+          "previous": "0.2"
+        },
+        {
+          "date": "07/15",
+          "actual": "0.6",
+          "forecast": "0.6",
+          "previous": "0.6"
+        },
+        {
+          "date": "06/12",
+          "actual": "0.1",
+          "forecast": "0.1",
+          "previous": "0.1"
+        },
+        {
+          "date": "05/14",
+          "actual": "0.4",
+          "forecast": "0.4",
+          "previous": "0.4"
+        },
+        {
+          "date": "04/14",
+          "actual": "1.2",
+          "forecast": "1",
+          "previous": "1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
       "id": "capital:1184841",
       "fid": "1184841",
       "interval": "next_week",
@@ -33260,7 +36044,7 @@
       "country": "西班牙",
       "title": "西班牙9月調和CPI年率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "4.6 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -33318,7 +36102,7 @@
       "country": "西班牙",
       "title": "西班牙9月調和CPI月率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "0.7 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -33364,6 +36148,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-09-20 01:23:29"
+    },
+    {
+      "id": "capital:1187379",
+      "fid": "1187379",
+      "interval": "next_week",
+      "date": "2026-09-29",
+      "time": "15:00",
+      "datetime": "2026-09-29 15:00:00",
+      "display_time": "09/29 15:00",
+      "country": "西班牙",
+      "title": "西班牙9月調和CPI月率終值",
+      "importance": 1,
+      "previous": "0.7 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187379",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "09/15",
+          "actual": "0.7",
+          "forecast": "0.6",
+          "previous": "0.6"
+        },
+        {
+          "date": "08/13",
+          "actual": "0",
+          "forecast": "-0.1",
+          "previous": "-0.1"
+        },
+        {
+          "date": "07/15",
+          "actual": "0.6",
+          "forecast": "0.6",
+          "previous": "0.6"
+        },
+        {
+          "date": "06/12",
+          "actual": "0.1",
+          "forecast": "0.1",
+          "previous": "0.1"
+        },
+        {
+          "date": "05/14",
+          "actual": "0.7",
+          "forecast": "0.7",
+          "previous": "0.7"
+        },
+        {
+          "date": "04/14",
+          "actual": "1.7",
+          "forecast": "1.5",
+          "previous": "1.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
     },
     {
       "id": "capital:1184842",
@@ -35464,7 +38306,7 @@
       "country": "日本",
       "title": "日本8月工業產出年率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.9 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -35522,7 +38364,7 @@
       "country": "日本",
       "title": "日本8月工業產出月率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "-0.2 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -37088,7 +39930,7 @@
       "country": "法國",
       "title": "法國9月CPI年率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "2.4 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -37146,7 +39988,7 @@
       "country": "法國",
       "title": "法國9月CPI月率初值",
       "importance": 2,
-      "previous": "-- %",
+      "previous": "0.7 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -37204,7 +40046,7 @@
       "country": "法國",
       "title": "法國9月調和CPI年率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "2.6 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -37262,7 +40104,7 @@
       "country": "法國",
       "title": "法國9月調和CPI月率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "0.7 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -37900,7 +40742,7 @@
       "country": "意大利",
       "title": "意大利9月CPI年率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.3 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -37958,7 +40800,7 @@
       "country": "意大利",
       "title": "意大利9月CPI月率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "0.5 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -38016,7 +40858,7 @@
       "country": "意大利",
       "title": "意大利9月調和CPI年率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.2 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -38074,7 +40916,7 @@
       "country": "意大利",
       "title": "意大利9月調和CPI月率初值",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "0.1 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -38712,7 +41554,7 @@
       "country": "美國",
       "title": "美國8月批發庫存月率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "1.3 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -40558,6 +43400,64 @@
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
+      "id": "capital:1187462",
+      "fid": "1187462",
+      "interval": "next_week",
+      "date": "2026-09-30",
+      "time": "23:30",
+      "datetime": "2026-09-30 23:30:00",
+      "display_time": "09/30 23:30",
+      "country": "美國",
+      "title": "美國至9月30日4個月國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "-- %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187462",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "09/16",
+          "actual": "23.62",
+          "forecast": "-",
+          "previous": "37.41"
+        },
+        {
+          "date": "09/09",
+          "actual": "37.41",
+          "forecast": "-",
+          "previous": "76.38"
+        },
+        {
+          "date": "09/02",
+          "actual": "76.38",
+          "forecast": "-",
+          "previous": "34.83"
+        },
+        {
+          "date": "08/26",
+          "actual": "34.83",
+          "forecast": "-",
+          "previous": "25.88"
+        },
+        {
+          "date": "08/19",
+          "actual": "25.88",
+          "forecast": "-",
+          "previous": "9.14"
+        },
+        {
+          "date": "08/12",
+          "actual": "9.14",
+          "forecast": "-",
+          "previous": "94.66"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
       "id": "capital:1184935",
       "fid": "1184935",
       "interval": "next_week",
@@ -40801,7 +43701,7 @@
       "title": "日本第三季度短觀大型所有行業資本支出",
       "importance": 1,
       "previous": "11.5",
-      "forecast": "--",
+      "forecast": "12.2",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186659",
@@ -40859,7 +43759,7 @@
       "title": "日本第三季度短觀大型製造業前景指數",
       "importance": 1,
       "previous": "17",
-      "forecast": "--",
+      "forecast": "21",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186657",
@@ -40917,7 +43817,7 @@
       "title": "日本第三季度短觀大型製造業景氣判斷指數",
       "importance": 1,
       "previous": "22",
-      "forecast": "--",
+      "forecast": "25",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186656",
@@ -40975,7 +43875,7 @@
       "title": "日本第三季度短觀大型非製造業景氣判斷指數",
       "importance": 1,
       "previous": "37",
-      "forecast": "--",
+      "forecast": "37",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186658",
@@ -41033,7 +43933,7 @@
       "title": "日本第三季度短觀小型製造業景氣判斷指數",
       "importance": 1,
       "previous": "9",
-      "forecast": "--",
+      "forecast": "11",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186661",
@@ -41091,7 +43991,7 @@
       "title": "日本第三季度短觀小型非製造業景氣判斷指數",
       "importance": 1,
       "previous": "15",
-      "forecast": "--",
+      "forecast": "15",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186664",
@@ -41169,7 +44069,7 @@
       "country": "日本",
       "title": "日本至9月25日當週外資買進日債(億日元)",
       "importance": 1,
-      "previous": "--",
+      "previous": "22362",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -41227,7 +44127,7 @@
       "country": "日本",
       "title": "日本至9月25日當週外資買進日股(億日元)",
       "importance": 1,
-      "previous": "--",
+      "previous": "-15228",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -41285,7 +44185,7 @@
       "country": "日本",
       "title": "日本至9月25日當週買進外國債券(億日元)",
       "importance": 1,
-      "previous": "--",
+      "previous": "10829",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -41343,7 +44243,7 @@
       "country": "日本",
       "title": "日本至9月25日當週買進外國股票(億日元)",
       "importance": 1,
-      "previous": "--",
+      "previous": "1692",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -42027,6 +44927,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
+    },
+    {
+      "id": "capital:1187373",
+      "fid": "1187373",
+      "interval": "next_week",
+      "date": "2026-10-01",
+      "time": "14:30",
+      "datetime": "2026-10-01 14:30:00",
+      "display_time": "10/01 14:30",
+      "country": "瑞士",
+      "title": "瑞士8月實際零售銷售年率",
+      "importance": 2,
+      "previous": "2.3 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187373",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "09/01",
+          "actual": "2.3",
+          "forecast": "-",
+          "previous": "1.5"
+        },
+        {
+          "date": "07/31",
+          "actual": "1.5",
+          "forecast": "-",
+          "previous": "3.5"
+        },
+        {
+          "date": "07/01",
+          "actual": "3.5",
+          "forecast": "-",
+          "previous": "1.6"
+        },
+        {
+          "date": "06/01",
+          "actual": "1.6",
+          "forecast": "-",
+          "previous": "0.5"
+        },
+        {
+          "date": "05/01",
+          "actual": "0.5",
+          "forecast": "-",
+          "previous": "0.9"
+        },
+        {
+          "date": "04/01",
+          "actual": "0.9",
+          "forecast": "-",
+          "previous": "-1.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
     },
     {
       "id": "capital:1145140",
@@ -44765,7 +47723,7 @@
       "country": "歐元區",
       "title": "歐元區9月CPI年率終值",
       "importance": 2,
-      "previous": "-- %",
+      "previous": "3.2 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -44823,7 +47781,7 @@
       "country": "歐元區",
       "title": "歐元區9月CPI月率初值",
       "importance": 2,
-      "previous": "-- %",
+      "previous": "0.4 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -44929,6 +47887,64 @@
       "history_checked_at": "2026-09-20 01:28:13"
     },
     {
+      "id": "capital:1187380",
+      "fid": "1187380",
+      "interval": "next_week",
+      "date": "2026-10-02",
+      "time": "17:00",
+      "datetime": "2026-10-02 17:00:00",
+      "display_time": "10/02 17:00",
+      "country": "歐元區",
+      "title": "歐元區9月核心CPI年率終值",
+      "importance": 1,
+      "previous": "2.1 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187380",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "09/17",
+          "actual": "2.1",
+          "forecast": "-",
+          "previous": "2.1"
+        },
+        {
+          "date": "08/19",
+          "actual": "2.2",
+          "forecast": "-",
+          "previous": "2.2"
+        },
+        {
+          "date": "07/17",
+          "actual": "2.1",
+          "forecast": "-",
+          "previous": "2.2"
+        },
+        {
+          "date": "06/17",
+          "actual": "2.3",
+          "forecast": "2.3",
+          "previous": "2.3"
+        },
+        {
+          "date": "05/20",
+          "actual": "2.1",
+          "forecast": "2.1",
+          "previous": "2.1"
+        },
+        {
+          "date": "04/16",
+          "actual": "2.2",
+          "forecast": "2.2",
+          "previous": "2.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
+    },
+    {
       "id": "capital:1187042",
       "fid": "1187042",
       "interval": "next_week",
@@ -44985,6 +48001,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
+    },
+    {
+      "id": "capital:1187381",
+      "fid": "1187381",
+      "interval": "next_week",
+      "date": "2026-10-02",
+      "time": "17:00",
+      "datetime": "2026-10-02 17:00:00",
+      "display_time": "10/02 17:00",
+      "country": "歐元區",
+      "title": "歐元區9月核心CPI月率終值",
+      "importance": 1,
+      "previous": "0.2 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187381",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "09/17",
+          "actual": "0.2",
+          "forecast": "-",
+          "previous": "0.2"
+        },
+        {
+          "date": "08/19",
+          "actual": "0",
+          "forecast": "-",
+          "previous": "0"
+        },
+        {
+          "date": "07/17",
+          "actual": "0.2",
+          "forecast": "-",
+          "previous": "0.2"
+        },
+        {
+          "date": "06/17",
+          "actual": "0.3",
+          "forecast": "0.3",
+          "previous": "0.3"
+        },
+        {
+          "date": "05/20",
+          "actual": "0.8",
+          "forecast": "-",
+          "previous": "0.8"
+        },
+        {
+          "date": "04/16",
+          "actual": "0.7",
+          "forecast": "-",
+          "previous": "0.7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
     },
     {
       "id": "capital:1145166",
@@ -45101,6 +48175,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-09-20 01:28:13"
+    },
+    {
+      "id": "capital:1187382",
+      "fid": "1187382",
+      "interval": "next_week",
+      "date": "2026-10-02",
+      "time": "20:30",
+      "datetime": "2026-10-02 20:30:00",
+      "display_time": "10/02 20:30",
+      "country": "美國",
+      "title": "美國9月季調後政府部門就業人口(萬人)",
+      "importance": 1,
+      "previous": "3.5",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1187382",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "09/04",
+          "actual": "3.5",
+          "forecast": "-",
+          "previous": "-5.3"
+        },
+        {
+          "date": "08/07",
+          "actual": "-5.3",
+          "forecast": "-",
+          "previous": "0.8"
+        },
+        {
+          "date": "07/02",
+          "actual": "0.8",
+          "forecast": "-",
+          "previous": "5.2"
+        },
+        {
+          "date": "06/05",
+          "actual": "5.2",
+          "forecast": "-",
+          "previous": "-0.8"
+        },
+        {
+          "date": "05/08",
+          "actual": "-0.8",
+          "forecast": "-",
+          "previous": "-0.8"
+        },
+        {
+          "date": "04/03",
+          "actual": "-0.8",
+          "forecast": "-",
+          "previous": "-0.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-09-20 15:07:30"
     },
     {
       "id": "capital:1145170",
