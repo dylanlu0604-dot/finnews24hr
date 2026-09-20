@@ -1,7 +1,58 @@
 {
-  "updated": "2026-09-21 03:46:44",
-  "count": 13689,
+  "updated": "2026-09-21 03:50:29",
+  "count": 13693,
   "items": [
+    {
+      "id": "mkt:01a0c05e-61d7-7118-8619-48a010cd73a4",
+      "time": "2026-09-21 03:50:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's foreign ministry said the decision to close the language center in Tehran was unreasonable and unacceptable."
+    },
+    {
+      "id": "mkt:01a0c05e-1df6-7118-8619-4626abb1f2a1",
+      "time": "2026-09-21 03:49:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French Foreign Ministry condemned Iranian authorities' decision to close France's language centre in Tehran."
+    },
+    {
+      "id": "5104368",
+      "time": "2026-09-21 03:49:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：關閉德黑蘭語言中心的決定毫無依據，且無法接受。"
+    },
+    {
+      "id": "mkt:01a0c05d-d0ce-7118-8619-396acd02e3c8",
+      "time": "2026-09-21 03:49:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Sources: diesel prices a focus of Trump call with Zelensky】Axios reports the Trump administration has urged Ukraine to stop strikes on Russian refineries, saying such attacks are pushing up global diesel prices; diesel was repeatedly raised in recent communications. Ukraine chief negotiator and foreign intelligence chief Rustem Umerov told reporters talks have progressed and outstanding issues have been reduced to one or two key points, but long-range strikes are escalating: Ukraine has struck Moscow and Russian refinery targets while Russia continues missile attacks on Kyiv and other cities. Umerov said the U.S. is pressing to end the war and is seeking to provide security guarantees to Ukraine."
+    },
+    {
+      "id": "5104367",
+      "time": "2026-09-21 03:49:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：法國譴責伊朗當局關閉其設在德黑蘭的法語中心的決定。"
+    },
+    {
+      "id": "5104366",
+      "time": "2026-09-21 03:48:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【基金網路營銷再迎監管舉措 機構與平臺分工正重新釐清】距離《金融產品網路營銷管理辦法》9月30日正式實施越來越近，基金網路營銷再迎新的監管動作。9月17日，上海市證監局向轄區基金管理人、資產管理機構、基金銷售機構下發《關於做好〈金融產品網路營銷管理辦法〉落實工作的通知》，在此前監管口徑基礎上，對合作物件、第三方平臺收費、基金申贖轉接渠道、自營App建設等提出進一步要求。"
+    },
     {
       "id": "5104365",
       "time": "2026-09-21 03:45:01",
@@ -125428,27 +125479,6 @@
         "國際"
       ],
       "text": "【伊朗官員：伊美衝突後伊朗外資實際陷入停滯】伊朗工業部副部長、伊朗小型工業與工業園區組織負責人塔赫穆雷斯·拉胡蒂稱，自伊朗與以色列、美國爆發衝突後，伊朗的外國投資實際上已經停滯，本伊朗歷年內暫無新增外國投資記錄。拉胡蒂稱，受現有制裁與限制影響，外國投資並未發生。拉胡蒂補充說，受匯率波動、通脹以及居民購買力下降拖累，工業發展領域的國內投資較去年同樣出現下滑。"
-    },
-    {
-      "id": "mkt:01a09c50-a401-7118-855f-17ce85d9105e",
-      "time": "2026-09-14 03:48:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Middle East energy supply under severe strain; nearly 30 mln b/d of crude flows disrupted or at risk, Kobeissi says】Kobeissi report: as of Friday, Saudi Arabia’s east–west oil pipeline has been shut after recent attacks, putting about 4 mln b/d of Saudi exports at risk. The Bab el-Mandeb faces potential closure, threatening as much as 9 mln b/d. Strait of Hormuz transit capacity is currently only about 20% of pre-Iran-war levels, obstructing roughly 15 mln b/d. In aggregate ~30 mln b/d of crude flows are disrupted or at risk; even accounting for overlap this is large versus the ~100 mln b/d global market and ranks among the most severe supply shocks in modern history."
-    },
-    {
-      "id": "mkt:01a09c4f-f131-7118-855f-0df149f982b0",
-      "time": "2026-09-14 03:47:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qatari prime minister and foreign minister held phone call with Kuwait foreign minister on regional situation】Qatar’s foreign ministry said the Qatari prime minister and foreign minister held a phone call with Kuwait’s foreign minister to discuss the latest regional situation and coordination on diplomatic efforts to ease tensions and bolster regional security and stability. Qatar confirmed support for diplomatic initiatives aimed at ensuring freedom of navigation and paving the way for a comprehensive agreement to achieve lasting regional peace."
     }
   ]
 }

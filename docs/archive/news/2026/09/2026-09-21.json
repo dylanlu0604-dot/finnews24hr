@@ -1,7 +1,58 @@
 {
   "date": "2026-09-21",
-  "count": 110,
+  "count": 116,
   "items": [
+    {
+      "id": "mkt:01a0c05e-61d7-7118-8619-48a010cd73a4",
+      "time": "2026-09-21 03:50:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's foreign ministry said the decision to close the language center in Tehran was unreasonable and unacceptable."
+    },
+    {
+      "id": "mkt:01a0c05e-1df6-7118-8619-4626abb1f2a1",
+      "time": "2026-09-21 03:49:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French Foreign Ministry condemned Iranian authorities' decision to close France's language centre in Tehran."
+    },
+    {
+      "id": "5104368",
+      "time": "2026-09-21 03:49:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：關閉德黑蘭語言中心的決定毫無依據，且無法接受。"
+    },
+    {
+      "id": "mkt:01a0c05d-d0ce-7118-8619-396acd02e3c8",
+      "time": "2026-09-21 03:49:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Sources: diesel prices a focus of Trump call with Zelensky】Axios reports the Trump administration has urged Ukraine to stop strikes on Russian refineries, saying such attacks are pushing up global diesel prices; diesel was repeatedly raised in recent communications. Ukraine chief negotiator and foreign intelligence chief Rustem Umerov told reporters talks have progressed and outstanding issues have been reduced to one or two key points, but long-range strikes are escalating: Ukraine has struck Moscow and Russian refinery targets while Russia continues missile attacks on Kyiv and other cities. Umerov said the U.S. is pressing to end the war and is seeking to provide security guarantees to Ukraine."
+    },
+    {
+      "id": "5104367",
+      "time": "2026-09-21 03:49:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部：法國譴責伊朗當局關閉其設在德黑蘭的法語中心的決定。"
+    },
+    {
+      "id": "5104366",
+      "time": "2026-09-21 03:48:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【基金網路營銷再迎監管舉措 機構與平臺分工正重新釐清】距離《金融產品網路營銷管理辦法》9月30日正式實施越來越近，基金網路營銷再迎新的監管動作。9月17日，上海市證監局向轄區基金管理人、資產管理機構、基金銷售機構下發《關於做好〈金融產品網路營銷管理辦法〉落實工作的通知》，在此前監管口徑基礎上，對合作物件、第三方平臺收費、基金申贖轉接渠道、自營App建設等提出進一步要求。"
+    },
     {
       "id": "5104365",
       "time": "2026-09-21 03:45:01",
