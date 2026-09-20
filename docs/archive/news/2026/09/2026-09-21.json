@@ -1,7 +1,371 @@
 {
   "date": "2026-09-21",
-  "count": 60,
+  "count": 102,
   "items": [
+    {
+      "id": "mkt:01a0c02a-5678-7118-8619-24a8829b3d57",
+      "time": "2026-09-21 02:53:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Central Election Commission will publish preliminary election results at 11:00 Moscow time on Sept. 21 (16:00 Beijing time)."
+    },
+    {
+      "id": "5104359",
+      "time": "2026-09-21 02:52:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦官員正在起草一項行政令，鞏固特朗普對美國國立衛生研究院數十億美元科研撥款的管控權。"
+    },
+    {
+      "id": "5104358",
+      "time": "2026-09-21 02:48:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯將於莫斯科時間9月21日11點公佈議會選舉初步結果。"
+    },
+    {
+      "id": "5104357",
+      "time": "2026-09-21 02:43:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普政府準備對國際刑事法院實施制裁】據美國官員透露，特朗普政府正準備對國際刑事法院實施大範圍制裁。在該法院對以色列總理內塔尼亞胡發出逮捕令後，華盛頓方面加大力度，意圖削弱這一國際機構。制裁設定6‑7個月寬限期，寬限期結束後將禁止與國際刑事法院開展大部分交易。該措施或將令法院難以運轉：禁止其使用美元開展業務，切斷其與全球大部分金融體系的聯絡。目前尚不清楚美方何時將做出最終決定並對外宣佈，但部分美國官員表示，相關措施最快可能於本週聯合國大會期間或之後數日內敲定。"
+    },
+    {
+      "id": "mkt:01a0c020-46de-7118-8619-1acfe4aed03d",
+      "time": "2026-09-21 02:42:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Zelenskiy says he spoke with Trump; both agreed to meet in New York】On Sept. 20 local time, Ukrainian President Zelenskiy said he spoke with US President Trump and the two agreed to meet in New York. Zelenskiy said the meeting \"could bring important change\" and that the diplomatic process is progressing."
+    },
+    {
+      "id": "mkt:01a0c01f-df65-7118-8619-100fb1d84b94",
+      "time": "2026-09-21 02:41:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump administration plans wider sanctions on International Criminal Court】The Trump administration is preparing broader sanctions on the International Criminal Court that could, after a 6–7 month grace period, bar most transactions with the ICC and potentially restrict its use of the US dollar, curbing the court’s access to the global financial system. Final decisions and timing are undecided; officials said an announcement could come during or shortly after the UN General Assembly. The State Department declined to detail measures; Secretary of State Rubio has described the ICC as a threat to US sovereignty. Washington has already sanctioned several ICC officials, including former chief prosecutor Karim Khan, ICC president Tomoko Akane and multiple judges and prosecutors; the new measures would expand targeting from individuals to the court’s transactions. The escalation follows the ICC’s 2024 arrest warrants for Israeli prime minister Netanyahu and former defense minister Yoav Gallant."
+    },
+    {
+      "id": "5104356",
+      "time": "2026-09-21 02:41:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱與特朗普通話 雙方商定在紐約會晤】當地時間9月20日，烏克蘭總統澤連斯基表示，他當天與美國總統特朗普通話，雙方商定在美國紐約舉行會晤。澤連斯基說，這次會晤“可能帶來重要改變”，目前外交程序正在推進。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0c01d-137b-7118-8619-0d769b5d69f2",
+      "time": "2026-09-21 02:38:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump to meet New York mayor on Monday】Trump will meet New York City Mayor Mamdani at Gracie Mansion on Monday to discuss issues affecting the city and residents, the mayor’s office said. No agenda or schedule was released. The White House confirmed the meeting. It is the mayor’s third face-to-face meeting with Trump since taking office."
+    },
+    {
+      "id": "5104355",
+      "time": "2026-09-21 02:34:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國針對國際刑事法院的制裁將設定6至7個月的寬限期。"
+    },
+    {
+      "id": "mkt:01a0c018-2824-7118-8619-04274add1056",
+      "time": "2026-09-21 02:33:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Central Election Commission chair said the final election results will be published before Sept. 25."
+    },
+    {
+      "id": "mkt:01a0c017-af23-7118-8618-fcfcee259319",
+      "time": "2026-09-21 02:32:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports the Trump administration is preparing to impose sanctions on the International Criminal Court."
+    },
+    {
+      "id": "5104354",
+      "time": "2026-09-21 02:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國擬實施的制裁將禁止與國際刑事法院開展大部分交易。"
+    },
+    {
+      "id": "5104353",
+      "time": "2026-09-21 02:32:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國準備對國際刑事法院實施制裁。"
+    },
+    {
+      "id": "5104352",
+      "time": "2026-09-21 02:30:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯中央選舉委員會主席帕姆菲洛娃稱，本次選舉最終結果將於9月25日才會公佈。"
+    },
+    {
+      "id": "5104351",
+      "time": "2026-09-21 02:29:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯洛伐克總理菲佐：我現在不會、將來也絕不會成為尋找藉口挑起北約與俄羅斯戰爭的人。"
+    },
+    {
+      "id": "mkt:01a0c013-a5d5-7118-8618-f69661541c89",
+      "time": "2026-09-21 02:28:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Slovak Prime Minister Robert Fico said he will not support any action that would lead NATO into conflict with Russia."
+    },
+    {
+      "id": "mkt:01a0c00d-60e3-7118-8618-ee31ea8d5678",
+      "time": "2026-09-21 02:21:37",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "ZELENSKIY thanked the US president for signing the Lindsey Graham sanctions bill targeting Russia into law."
+    },
+    {
+      "id": "5104341",
+      "time": "2026-09-21 02:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：外長啟程前往紐約出席聯合國大會】伊朗外交部長阿拉格齊於週日晚間離開德黑蘭，前往紐約。伊朗外長將在前往紐約途中於多哈短暫停留，就地區最新局勢舉行磋商。"
+    },
+    {
+      "id": "mkt:01a0c00a-37c9-7118-8618-e6d7b57d8d56",
+      "time": "2026-09-21 02:18:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president Zelenskiy said he spoke by phone with US president Trump; they agreed to meet in New York, a meeting Zelenskiy said \"could change many things\"."
+    },
+    {
+      "id": "5104338",
+      "time": "2026-09-21 02:16:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：剛剛與特朗普通了電話。這是一次重要會談，我們討論了多項議題。雙方同意在紐約會面，此次會晤有望帶來重大變化，外交層面已出現積極態勢。"
+    },
+    {
+      "id": "5104327",
+      "time": "2026-09-21 02:08:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊離開德黑蘭前往紐約，將在卡達短暫停留。"
+    },
+    {
+      "id": "mkt:01a0c001-6fe4-7118-8618-d9abd00ad9b0",
+      "time": "2026-09-21 02:08:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state media says Iranian foreign minister Araghchi has left Tehran for New York and will make a short stopover in Qatar."
+    },
+    {
+      "id": "5104325",
+      "time": "2026-09-21 02:08:24",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國首相伯納姆正在審議上調資本利得稅相關提案。"
+    },
+    {
+      "id": "mkt:01a0c000-cd5f-7118-8618-d2bcf09cc93a",
+      "time": "2026-09-21 02:07:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Qatar says US wants deal with Iran】Qatar foreign ministry spokesman Majid Ansari said on the 20th at the Qatar Economic Forum in New York that Doha is engaging with the US and Iran to push for resumption of talks. He said multiple US officials have told Qatar the US wants a deal to end the conflict. Qatar has exchanged views with both sides in recent weeks and is trying to bridge differences but gave no timetable for talks to resume. Ansari said any settlement should secure regional stability and push the international community to agree on protecting strategic waterways, including the Strait of Hormuz, and noted the Bab el-Mandeb is already affected by the regional conflict."
+    },
+    {
+      "id": "5104323",
+      "time": "2026-09-21 02:05:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯中央選舉委員會初步結果顯示，執政的統一俄羅斯黨在選舉中以57.54%的得票率領先。"
+    },
+    {
+      "id": "5104321",
+      "time": "2026-09-21 02:04:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【卡達稱美國希望與伊朗達成協議】卡達外交部發言人馬吉德·安薩里20日表示，卡達正與美國和伊朗保持溝通，推動美伊恢復談判。他說，多名美國政府官員表示，美方希望達成協議並結束衝突。（新華社）"
+    },
+    {
+      "id": "5104316",
+      "time": "2026-09-21 02:02:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：正修建奧斯汀至聖安東尼奧的前置試驗隧道。"
+    },
+    {
+      "id": "mkt:01a0bffb-c512-7118-8618-cdf65521dad8",
+      "time": "2026-09-21 02:02:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran military says it shot down \"Orbiter\" UAV over Strait of Hormuz】On the evening of the 20th local time, at 18:30, Iran's military said its air defense units, using a domestically developed air-defense system, shot down and destroyed an advanced \"Orbiter\" unmanned aerial vehicle over the Strait of Hormuz in southeastern Iran."
+    },
+    {
+      "id": "mkt:01a0bffb-a98b-7118-8618-c11fc68bfad1",
+      "time": "2026-09-21 02:02:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax exit poll: Communist Party of the Russian Federation expected to receive 14.2% of the vote in Russia's parliamentary election."
+    },
+    {
+      "id": "5104314",
+      "time": "2026-09-21 02:02:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯執政黨統一俄羅斯黨預計在議會選舉中贏得49.4%的選票，俄羅斯共產黨預計在此次國家議會選舉中得票率為14.2%，俄羅斯自由民主黨預計在議會選舉中贏得10.7%選票，新人黨預計在俄羅斯議會選舉中贏得9.7%的選票。"
+    },
+    {
+      "id": "mkt:01a0bffb-a934-7118-8618-bf8ce32fa1cd",
+      "time": "2026-09-21 02:02:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported exit-poll results showing the ruling United Russia party projected to receive 49.4% of the vote in Russia's parliamentary election."
+    },
+    {
+      "id": "5104311",
+      "time": "2026-09-21 02:01:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克：無聊公司（Boring Company）正在建設超迴路列車的前置試驗隧道。"
+    },
+    {
+      "id": "5104304",
+      "time": "2026-09-21 02:00:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方稱在霍爾木茲海峽上空擊落一“軌道飛行器”無人機】當地時間20日晚，伊朗軍隊宣佈，當天18時30分，在伊朗東南部地區，軍隊防空部隊利用其自主研發的防空系統，在霍爾木茲海峽上空擊落並摧毀了一架先進的“軌道飛行器”無人機。（央視新聞）"
+    },
+    {
+      "id": "5104298",
+      "time": "2026-09-21 01:56:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國際貨幣基金組織總裁：全球債務創紀錄，亟需採取財政行動】國際貨幣基金組織稱，各國政府必須加大力度縮減財政赤字，管控處於歷史新高的全球債務。“我們一直在呼籲實施財政整頓，各方也表示理解，但行動力度不足。”國際貨幣基金組織總裁格奧爾基耶娃週日在紐約舉辦的卡達經濟論壇上表示。該機構資料顯示，受美國債務激增推動，預計2029年全球公共債務佔GDP比重將突破100%，較此前預期提前兩年。“我們一直在向美方建言，關注其財政狀況。”她說，“從與貝森特部長的溝通來看，美方已經意識到當前狀況不可持續，需要逐步降低赤字與債務規模。”"
+    },
+    {
+      "id": "5104295",
+      "time": "2026-09-21 01:53:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭國家核電公司Energoatom監事會任命尤里·特卡琴科為公司執行長，帕夫洛·帕夫利申為核安全總監。"
+    },
+    {
+      "id": "mkt:01a0bfed-616c-7118-8618-b13ec5d88ade",
+      "time": "2026-09-21 01:46:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi forces said Saudi air force deployed F-15s and Typhoons from Khamis Mushait and Taif bases and carried out 28 airstrikes in the past 24 hours, striking Taiz, Al Jawf and Marib provinces. They said total airstrikes have reached 760 since Saudi escalation against the group and its people."
+    },
+    {
+      "id": "5104280",
+      "time": "2026-09-21 01:46:27",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗商會調查：原材料庫存快速消耗，8月PMI降至46.9】伊朗商會最新調查顯示，受供應鏈中斷與成本上漲擠壓工業生產影響，伊朗製造企業原材料庫存正快速消耗。調查顯示，8月製造業原材料庫存指數從7月約44.5降至39.3，整體經濟採購經理人指數跌至46.9。指數低於50代表經濟收縮。伊朗商會警告，原材料庫存持續消耗疊加供應鏈其他環節疲軟，或將在未來數月成為制約工業生產增長最嚴峻的因素之一。"
+    },
+    {
+      "id": "5104279",
+      "time": "2026-09-21 01:45:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：過去24小時，沙特空軍出動F15戰機與颱風戰機，從海米斯穆謝特基地和塔伊夫基地發起28次空襲，打擊塔伊茲、焦夫、馬裡卜省。自沙特對本國及民眾升級軍事行動以來，空襲累計已達760次。"
+    },
+    {
+      "id": "mkt:01a0bfe9-dd10-7118-8618-a851d20a08a1",
+      "time": "2026-09-21 01:42:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【CENTCOM says it has redirected 109 commercial vessels】On Sept. 20 CENTCOM said that as of that date it had redirected 109 commercial vessels to ensure compliance with U.S. measures enforcing a maritime blockade related to Iran."
+    },
+    {
+      "id": "5104274",
+      "time": "2026-09-21 01:41:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美中央司令部稱已改道109艘商船】當地時間9月20日，美國中央司令部稱，截至當天，已引導109艘商船改變航向，以確保其遵守美對伊朗海上封鎖相關規定。（央視新聞）"
+    },
+    {
+      "id": "5104269",
+      "time": "2026-09-21 01:37:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：法加兩國責成航天局與國防部聯合開發航天發射系統及地面接收設施。"
+    },
+    {
+      "id": "5104268",
+      "time": "2026-09-21 01:36:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼呼籲，面對新的全球威脅，加拿大應與法國深化關係。"
+    },
     {
       "id": "mkt:01a0bfe1-36c6-7118-8618-a7117376a595",
       "time": "2026-09-21 01:33:22",
