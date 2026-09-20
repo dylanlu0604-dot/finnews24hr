@@ -1,7 +1,20 @@
 {
   "date": "2026-09-20",
-  "count": 129,
+  "count": 130,
   "items": [
+    {
+      "id": "mkt:01a0bc3a-cc53-7118-8612-a23c3791b5fa",
+      "time": "2026-09-20 08:32:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Northeast Securities: Fed hike delivered — what next for assets?】Northeast Securities said in a Sept. 20 research note the Fed’s September hike has been delivered; the dot plot shows Fed officials generally expect one more hike in 2026, then a period of unchanged policy. With the US economy not overheating, the firm views recent moves as precautionary and warns the risk of a December hike should not be underestimated under current guidance. Based on US wage growth and housing, Northeast Securities sees limited endogenous inflation pressure and does not expect a sustained, rapid hiking cycle—favoring a 2016-style outcome of a modest move followed by an extended pause."
+    },
     {
       "id": "5103602",
       "time": "2026-09-20 08:22:40",
