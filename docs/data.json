@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-21 01:07:53",
-  "count": 13703,
+  "updated": "2026-09-21 01:11:44",
+  "count": 13705,
   "items": [
+    {
+      "id": "mkt:01a0bfcb-eb50-7118-8618-73b4f8505d6f",
+      "time": "2026-09-21 01:10:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli military says it killed three Hamas militants in Gaza】The Israel Defense Forces and Shin Bet said on the 20th they killed three Hamas militants in the Gaza Strip; two had participated in the Oct. 7, 2023 attacks on Israel."
+    },
+    {
+      "id": "5104233",
+      "time": "2026-09-21 01:08:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在加沙地帶打死3名哈馬斯武裝人員】以色列國防軍和以色列國家安全總局（辛貝特）20日發表聯合宣告說，以軍在加沙地帶打死3名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）武裝人員，其中兩人曾參與2023年10月7日對以色列的襲擊。（央視新聞）"
+    },
+    {
+      "id": "5104232",
+      "time": "2026-09-21 01:08:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄稱將加強對基輔軍事目標打擊力度】俄羅斯國防部9月20日釋出公告稱，為干擾俄羅斯國家杜馬（議會下院）選舉，烏克蘭於9月19日至20日使用無人機和“火烈鳥”巡航導彈發動大規模襲擊。#俄一天擊落烏1951架無人機8枚導彈#過去一天內，俄防空部隊在俄羅斯多個地區上空擊落1951架攻擊型無人機和8枚巡航導彈，另有1枚烏軍巡航導彈偏離後墜落在無人區域。俄國防部指出，烏軍發射的所有“火烈鳥”巡航導彈均在接近莫斯科地區民用設施前被摧毀。針對莫斯科的大規模襲擊企圖未能得逞，烏軍未能實現其目標。俄國防部強調，為回應烏軍對俄境內民用設施的打擊，俄聯邦武裝力量將繼續並加強使用高精度武器打擊基輔市內軍事目標的力度。（CCTV國際時訊）"
+    },
+    {
+      "id": "5104230",
+      "time": "2026-09-21 01:07:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於週一在紐約市會見該市市長馬姆達尼。"
+    },
     {
       "id": "mkt:01a0bfc9-5c38-7118-8618-6e34f5508405",
       "time": "2026-09-21 01:07:19",
@@ -125601,28 +125634,6 @@
         "MKT News"
       ],
       "text": "【Trump defends call for Irish reunification as \"fairly conventional\" remark】US President Trump, speaking at the Irish Open in Doonbeg on Sunday, defended his call for Irish reunification as \"a fairly conventional remark,\" saying it reflects his personal view and that many agree. The comments have sparked controversy in Northern Ireland. He declined to say whether UK prime minister Andy Burnham should call a referendum on the issue."
-    },
-    {
-      "id": "5091675",
-      "time": "2026-09-14 01:09:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "Space42與Viasat達成協議，將打造價值10億美元的網路增強平臺。"
-    },
-    {
-      "id": "mkt:01a09bbd-8d3c-7118-855d-d5d5f67cc9ae",
-      "time": "2026-09-14 01:08:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Unauthorized strike on merchant ships in Strait of Hormuz, including Qatar LNG carrier, undermines Pezeshkian's US outreach; senior officials say most were unaware】Iranian forces fired on three merchant vessels in the Strait of Hormuz; a Qatari LNG carrier was set alight and other ships were damaged. According to five government officials and two IRGC members, President Pezeshkian angrily phoned IRGC commander Ahmad Vahidi, who told him he had neither approved nor been notified of the action; the Supreme National Security Council likewise said it was not informed. Officials say a marginal hardline faction acted independently, and the covert operation derailed moderates’ efforts to negotiate with the United States and to repair Iran’s weak economy."
     }
   ]
 }
