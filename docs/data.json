@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-21 01:11:44",
-  "count": 13705,
+  "updated": "2026-09-21 01:15:34",
+  "count": 13706,
   "items": [
+    {
+      "id": "mkt:01a0bfd0-7286-7118-8618-7984d27fc4f0",
+      "time": "2026-09-21 01:15:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times reports President Trump will meet New York City Mayor Mamdani in New York on Monday, Sept. 21 (local time)."
+    },
+    {
+      "id": "5104243",
+      "time": "2026-09-21 01:14:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團執行長：議員提出的AT1資本工具相關提案尚可接受。"
+    },
+    {
+      "id": "5104239",
+      "time": "2026-09-21 01:11:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：答案不能是回到過去的美好時光，但也不能一味貶低所有現存的美好事物。我們必須讓國傢俱備面向未來的能力。我希望我們的國家再次成為一個充滿新機遇的國度。"
+    },
     {
       "id": "mkt:01a0bfcb-eb50-7118-8618-73b4f8505d6f",
       "time": "2026-09-21 01:10:07",
@@ -125618,22 +125642,6 @@
         "MKT News"
       ],
       "text": "The Israeli Times reports Saudi Crown Prince, via the United States, asked Israel to help prevent further escalation in the Red Sea and Bab al-Mandeb Strait. Israeli security services say they do not intend to intervene in the Yemeni conflict unless Israel itself is attacked."
-    },
-    {
-      "id": "5091685",
-      "time": "2026-09-14 01:13:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗代理國防部長：美國的威脅缺乏真實軍事能力支撐。"
-    },
-    {
-      "id": "mkt:01a09bc1-b4ff-7118-855d-df2c048386a1",
-      "time": "2026-09-14 01:12:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump defends call for Irish reunification as \"fairly conventional\" remark】US President Trump, speaking at the Irish Open in Doonbeg on Sunday, defended his call for Irish reunification as \"a fairly conventional remark,\" saying it reflects his personal view and that many agree. The comments have sparked controversy in Northern Ireland. He declined to say whether UK prime minister Andy Burnham should call a referendum on the issue."
     }
   ]
 }

@@ -1,7 +1,31 @@
 {
   "date": "2026-09-21",
-  "count": 48,
+  "count": 51,
   "items": [
+    {
+      "id": "mkt:01a0bfd0-7286-7118-8618-7984d27fc4f0",
+      "time": "2026-09-21 01:15:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times reports President Trump will meet New York City Mayor Mamdani in New York on Monday, Sept. 21 (local time)."
+    },
+    {
+      "id": "5104243",
+      "time": "2026-09-21 01:14:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團執行長：議員提出的AT1資本工具相關提案尚可接受。"
+    },
+    {
+      "id": "5104239",
+      "time": "2026-09-21 01:11:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：答案不能是回到過去的美好時光，但也不能一味貶低所有現存的美好事物。我們必須讓國傢俱備面向未來的能力。我希望我們的國家再次成為一個充滿新機遇的國度。"
+    },
     {
       "id": "mkt:01a0bfcb-eb50-7118-8618-73b4f8505d6f",
       "time": "2026-09-21 01:10:07",
