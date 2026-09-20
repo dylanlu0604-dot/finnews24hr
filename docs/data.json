@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-20 21:14:56",
-  "count": 13629,
+  "updated": "2026-09-20 21:18:47",
+  "count": 13620,
   "items": [
+    {
+      "id": "5104058",
+      "time": "2026-09-20 21:14:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "克拉齊奧斯評人工智慧領導者：你們不需要有人來拖慢速度。"
+    },
     {
       "id": "5104057",
       "time": "2026-09-20 21:13:48",
@@ -124854,90 +124862,6 @@
         "國際"
       ],
       "text": "特朗普談人工智慧：我們可以設定保護措施，但有些聲音過於消極。"
-    },
-    {
-      "id": "5091469",
-      "time": "2026-09-13 21:18:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談人工智慧風險：一些不會發生的事情被拿出來討論。"
-    },
-    {
-      "id": "mkt:01a09aeb-0320-7118-855c-bf0f3fa19acd",
-      "time": "2026-09-13 21:18:07",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bearish",
-        "MSFT.O",
-        "GOOGL.O"
-      ],
-      "text": "President Trump, asked whether the AI industry should slow, said whoever wins AI wins the future."
-    },
-    {
-      "id": "5091468",
-      "time": "2026-09-13 21:17:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮經濟顧問哈塞特：很高興看到 OpenAI 與馬斯克支援阿莫代的人工智慧相關文章。"
-    },
-    {
-      "id": "5091467",
-      "time": "2026-09-13 21:17:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "當被問及人工智慧行業是否應當放緩發展時，特朗普表示“贏下人工智慧者，將贏得全域性”。"
-    },
-    {
-      "id": "mkt:01a09aea-042d-7118-855c-b0e1dd97b029",
-      "time": "2026-09-13 21:17:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump says Venezuela's elections will be held when ready."
-    },
-    {
-      "id": "5091466",
-      "time": "2026-09-13 21:16:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談委內瑞拉局勢：當被問及委內瑞拉選舉的舉辦時間時，特朗普表示選舉將在籌備就緒後舉行。"
-    },
-    {
-      "id": "5091465",
-      "time": "2026-09-13 21:15:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮經濟顧問哈塞特：人工智慧安全是 “一個可以解決的問題”。"
-    },
-    {
-      "id": "5091463",
-      "time": "2026-09-13 21:15:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我關於愛爾蘭統一的表態屬於 “相當正常的言論”。"
-    },
-    {
-      "id": "mkt:01a09ae8-2ced-7118-855c-afd9bcdfa8a5",
-      "time": "2026-09-13 21:15:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said uniting Northern Ireland and the Republic of Ireland is natural and that he will not discuss Scotland for now, reserving the topic."
-    },
-    {
-      "id": "5091462",
-      "time": "2026-09-13 21:14:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談愛爾蘭統一：我目前不會談論蘇格蘭問題，我會留到以後再談。"
     }
   ]
 }
