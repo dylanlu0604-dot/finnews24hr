@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-21 07:55:25",
+  "updated": "2026-09-21 07:59:08",
   "count": 13623,
   "items": [
+    {
+      "id": "5104465",
+      "time": "2026-09-21 07:57:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【明尼阿波利斯聯儲行長稱通脹已滲透到美國經濟的各個角落】明尼阿波利斯聯邦儲備銀行行長Neel Kashkari表示通脹仍然過高，而且壓力已經超出了伊朗戰爭所致油價衝擊的範疇。Kashkari在接受媒體採訪時表示：“美國民眾現在每天感受到的通脹，已經遠遠不止是油價，而是滲透到了經濟的方方面面。”美聯儲官員越來越擔心，通脹並不侷限在受中東衝突或關稅影響的領域中。Kashkari表示，有證據表明服務業也出現了通脹。他指出，美聯儲的職責是控制通脹至目標水平，而且該美國央行擁有實現這一目標的工具。"
+    },
+    {
+      "id": "te:markets:585144",
+      "time": "2026-09-21 07:57:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise as US-China Talks Take Focus — US stock futures edged higher on Monday as investors tracked ongoing discussions between American and Chinese leaders in New York, culminating in a summit between Presidents Donald Trump and Xi Jinping. Talks are expected to cover trade, artificial intelligence and disruptions in the Middle East. Trump also said he would “probably” be open to meeting Iranian President Masoud Pezeshkian on the sidelines of the United Nations General Assembly this week, where he may also hold discussions with other Persian Gulf leaders. Last week, the Dow fell 1.69% and the S&P 500 declined 0.08%, while the tech-heavy Nasdaq Composite advanced 0.72%. The moves came as the Federal Reserve raised interest rates for the first time in three years, while signaling further tightening to contain inflation. Markets also faced elevated oil prices and bond yields, reflecting growing concerns over inflationary pressures."
+    },
+    {
+      "id": "5104464",
+      "time": "2026-09-21 07:56:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞Telix製藥（Telix Pharmaceuticals）於2026年9月21日宣佈，已同意以總價值最高達23.5億美元的交易規模收購德國放射性同位素供應商ITM Isotope Technologies Munich SE。"
+    },
+    {
+      "id": "5104463",
+      "time": "2026-09-21 07:55:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沙特公投基金成立供應鏈融資公司Tawrid】沙特公共投資基金（PIF）9月20日宣佈成立新公司Tawrid，後者將透過數字平臺為沙特市場的企業提供供應鏈融資產品。宣告稱，Tawrid已開始運營，並已同沙特國家銀行、海灣國際銀行等金融機構和公司簽署有約束力協議。"
+    },
     {
       "id": "5104462",
       "time": "2026-09-21 07:54:36",
@@ -124790,39 +124827,6 @@
         "其他"
       ],
       "text": "【航行警告！渤海執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，9月14日7時至17時，渤海海峽部分海域執行軍事任務，禁止駛入。"
-    },
-    {
-      "id": "5091882",
-      "time": "2026-09-14 07:58:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國地震臺網中心正就地震預警資訊接入iOS系統與蘋果公司溝通】9月14日，中國地震局官網“公眾留言”板塊顯示，針對關於加快推進地震預警資訊接入蘋果iOS系統的建議，中國地震局監測預報司回覆稱，中國地震臺網中心正在與蘋果公司溝通，力爭加快推進地震預警資訊接入iOS系統。另外，蘋果手機使用者目前可透過微信小程式獲取我局統一發布的地震預警資訊。"
-    },
-    {
-      "id": "5091881",
-      "time": "2026-09-14 07:57:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【油價走高 沙特關鍵輸油管道關閉加劇全球能源危機】油價走高，沙特在遭遇襲擊後關閉一條在美伊衝突期間被用來繞過霍爾木茲海峽的主要輸油管道，加劇了全球能源危機。布倫特原油期貨升向每桶108美元，此前一週已大漲近9%，WTI原油期貨逼近每桶103美元。歐洲天然氣價格也出現上漲，漲幅一度高達3.8%。沙特上週五晚間表示，鑑於前一天遭遇的襲擊事件，已預防性關閉東西輸油管道。目前暫無跡象表明該管道何時能恢復執行。“歸根結底要看關閉會持續多久，” Sparta Commodities SA高階石油市場分析師June Goh表示。如果經由這條管道的石油輸送能迅速恢復，影響應該有限，因為可以動用管道西端延布港的庫存。但她補充道，如果關閉時間很長，可能會迫使減產發生。"
-    },
-    {
-      "id": "mkt:de9f0c96-74a3-41c2-b4a4-e42ef4e8db47",
-      "time": "2026-09-14 07:57:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CSC Financial: Fed hike expectations priced in; gold likely to bottom and rebound】CSC Financial said in a research note that US August CPI was broadly in line with consensus while core CPI surprised higher; the rise appears driven by one-off service volatility and is unlikely to persist. After the print, markets raised the probability of a September Fed hike to 87%, leaving near-term tightening largely priced and triggering a sell-the-news move that pushed gold down then back up. The firm expects that unless the Fed signals sustained hikes, the policy headwind for gold is exhausted and the metal should bottom and rebound: a September hike would be a priced-in outcome; a pause would relieve short-term rate pressure and, combined with gold’s role as a credit hedge, support a recovery."
-    },
-    {
-      "id": "5091879",
-      "time": "2026-09-14 07:56:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "駿碼半導體材料有限公司在港交所公告：於 2026 年 9 月 11 日（交易時段後），本公司接獲本公司執行主席、執行董事兼控股股東周博軒博士（「周博士」），以及本公司執行董事兼控股股東周振基教授（「周教授」）通知，香港特別行政區高等法院（「高等法院」）已向他們各自提出破產呈請。根據周博士及周教授所提供的資料，破產呈請涉及本公司控股股東駿碼科技投資控股有限公司（「駿碼科技投資」）的若干借款，且周博士及周教授已就該等借款提供若干擔保（「破產呈請」）。各項破產呈請之聆訊定於 2026 年 12 月 1 日進行。周博士與周教授均已告知本公司，他們正就破產呈請一事尋求法律意見。"
     }
   ]
 }
