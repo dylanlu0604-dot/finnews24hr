@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-21 03:01:27_
-_本檔包含 2664 則快訊，約 534628 字_
+_更新時間：2026-09-21 05:26:15_
+_本檔包含 2652 則快訊，約 532785 字_
+
+---
+
+### 2026-09-15 10:15:51  #央行 #國際
+
+菲律賓央行：7月現金匯款額為32.4億美元。
+
+---
+
+### 2026-09-15 10:15:00  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: South Korean Won Depreciates by 0.39% — Top currency losers are South Korean Won (-0.39%), Japanese Yen (-0.31%) and New Zealand Dollar (-0.30%). Meanwhile Chinese Yuan was little changed.
+
+---
+
+### 2026-09-15 10:14:07  #市場 #焦點
+
+科創50日內漲幅達2％，成分股中，華海清科漲8.45％，屹唐股份漲6.05％，寒武紀漲4.96％，芯原股份漲4.71％。
+
+---
+
+### 2026-09-15 10:14:05  #Trading Economics #Economy #China #Fixed Asset Investment #Importance 1
+
+China Fixed Investment Falls as Expected — China’s fixed-asset investment declined by 7.2% year-on-year in the January-August 2026 period, matching market expectations and following a 6.7% drop in the first seven months of the year. Property investment remained the biggest drag, slumping 19.9% (vs -19.2% in January-July), amid weak housing demand, falling home prices and persistent financing constraints among developers. Investment in infrastructure (-4% vs -3.6%) and manufacturing (-2.3% vs -1.7%) also dropped further. Investment also continued to fall across all three major industries: the primary sector (-2.4% vs -0.5%), the secondary sector (-2.9% vs -2.1%), and the tertiary sector (-9.9% vs -9.5%). Excluding the property sector, fixed-asset investment fell by 4.2% in the first eight months of the year, after a 3.7% decline in January-July. On a monthly basis, fixed-asset investment decreased by 0.5% in August, slowing from a 1.37% drop in July.
+
+---
+
+### 2026-09-15 10:13:51  #MKT News
+
+Japan's Nikkei 225 turned positive, rising to 64,000 points, up 0.80% on the day.
+
+---
+
+### 2026-09-15 10:13:32  #MKT News #CSI300 #Impact bullish #SZSE Component
+
+China A-share wind-turbine equipment sector rose after intraday volatility; Jixin Technology hit the daily limit, while Dajin Heavy Industry, Tianshun Wind Energy, Tianneng Heavy Industry, Xinqianglian and Zhenhong also gained.
+
+---
+
+### 2026-09-15 10:12:46  #公司 #市場
+
+【風電裝置板塊短線拉昇，吉鑫科技漲停】風電裝置板塊短線拉昇，吉鑫科技漲停，大金重工、天順風能、天能重工、新強聯、振宏股份等紛紛走高。
+
+---
+
+### 2026-09-15 10:12:44  #市場
+
+【光通訊概念拉昇 通鼎互聯漲停】光通訊概念拉昇，通鼎互聯漲停，浙江眾成漲逾7%，信德新材、正帆科技、興森科技等漲幅居前。
+
+---
+
+### 2026-09-15 10:12:09  #其他
+
+【兩部門對海南啟動國家自然災害救助四級應急響應】9月15日，國家防減救災委、應急管理部針對近期強降雨對海南造成的嚴重災害影響，啟動國家自然災害救助四級應急響應，派出工作組緊急趕赴災區實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等災害救助工作。（新華社）
+
+---
+
+### 2026-09-15 10:11:39  #MKT News #Important #Market Regions #Emerging Markets #WTI #Impact bearish #Brent #XAUUSD
+
+Saudi civil defense said the threat to Yanbu, Jeddah, Ta'if, Jizan, Abha and Al-Ula has been lifted.
+
+---
+
+### 2026-09-15 10:10:58  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+【Copper steadies near four-week low; futures premium signals ample supply】Copper steadied near $14,000/ton after exchange-tracked warehouses received fresh deliveries, easing earlier supply tightness. LME futures were little changed on Tuesday after posting their lowest close in four weeks. Copper fell sharply from a weekend record high that followed traders diverting refined metal to the US ahead of expected tariffs that have not been implemented; Monday saw the largest LME warehouse copper delivery in nearly four weeks. Three-month LME copper is trading $85.75/ton over spot, a futures premium consistent with ample supply.
+
+---
+
+### 2026-09-15 10:10:56  #其他
+
+沙特民防部門表示，延布、吉達、塔伊夫、吉贊、艾卜哈和烏萊拉的險情已解除。
+
+---
+
+### 2026-09-15 10:09:13  #MKT News
+
+【Hong Kong chief executive Lee: first five-year plan and 2026 policy address exceed 100,000 characters】Hong Kong chief executive Lee said today he will unveil the city’s first five-year plan and deliver the 2026 policy address at the Legislative Council tomorrow. The two documents total more than 100,000 characters; Lee said he will present concisely and expects the session to run two to three hours.
+
+---
+
+### 2026-09-15 10:09:03  #其他
+
+【李家超：香港首個五年規劃和2026施政報告超10萬字】香港特區行政長官李家超今日（15日）表示，明天他將在立法會公佈香港首個五年規劃並發表2026年施政報告，兩份檔案內容詳實，總計超過10萬字。明天他將會簡明扼要地進行釋出，計劃在兩到三個小時內完成。（大灣區之聲）
+
+---
+
+### 2026-09-15 10:08:47  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Edge Lower — The Hang Seng Index edged down 0.4%, or 85 points, to around 24,830 on Tuesday, as investors remained cautious ahead of key economic and monetary policy developments. Gains in technology stocks provided some support to the broader market, although weakness in selected shares kept the benchmark in negative territory. Investors remained cautious ahead of key global central-bank decisions and amid elevated oil prices, which have renewed concerns over inflation and the interest-rate outlook. Additionally, the US 10-year Treasury yield briefly climbed to 5%, its highest level since October 2023, ahead of the Federal Reserve's policy decision this week. Meanwhile, investors awaited China's August economic data, including new-home prices, industrial production and retail sales due later in the day. Notable laggards included Z.AI Co. (-1.5%), Trip.com (-1.0%) and Genscript Biotech (-2.9%), while Tencent (0.9%), Kingboard Laminates (3.1%) and Techtronic Industries Co. (2.2%) advanced.
+
+---
+
+### 2026-09-15 10:08:20  #Trading Economics #Economy #China #Industrial Production #Importance 1
+
+China Industrial Output Growth Beats Estimates — China’s industrial production grew 5.2% year-on-year in August 2026, accelerating from a 4.5% rise in July and surpassing expectations of 4.8%. The acceleration came amid faster growth in manufacturing (6.1% vs 5.5% in July), while electricity, heat, gas, and water output continued to rise (4.9% vs 5.9%). By contrast, mining output fell 1.4% (vs 4.2% in July). In the first eight months of 2026, industrial output rose 5.3%. Month-on-month, industrial output climbed 0.54%.
+
+---
+
+### 2026-09-15 10:08:04  #經濟數據 #中國
+
+【國家統計局：8月份鋰離子電池、工業機器人、3D列印裝置產品產量同比分別增長57.2%、34.6%、29.9%】國家統計局資料顯示，8月份，全國規模以上工業增加值同比增長5.2%，比上月加快0.7個百分點；環比增長0.54%。分三大門類看，採礦業增加值同比下降1.4%，製造業增長6.1%，電力、熱力、燃氣及水生產和供應業增長4.9%。
+
+---
+
+### 2026-09-15 10:06:54  #MKT News #USDJPY #Impact bullish
+
+USD/JPY up 0.3% at 154.79.
+
+---
+
+### 2026-09-15 10:06:49  #其他
+
+【曙光8000：已將5公里解析度氣象預報計算時間縮短至1小時】9月15日，中國氣象局地球系統數值預報中心與中科曙光聯合釋出的成果顯示，我國自主研發的氣象數值預報系統依託全國產AI超叢集曙光8000，將全球5公里解析度、未來10天的預報計算時間縮短至1小時，滿足業務應用的必要時效要求，達到國際第一梯隊的水平。
+
+---
+
+### 2026-09-15 10:06:45  #其他
+
+【車百會研究院師建華：當前汽車產業呈六大新發展格局 2026年全年出口預計近1100萬輛】車百會研究院副理事長師建華今日表示，當前國內汽車產業呈現國內“冷”、內需承壓；海外“熱”、打通雙迴圈；市場“卷”、出清加速；新能源“主導”、新質生產力；創新“活躍”、安全高效經濟；跨界“融合”、人工智慧驅動生態重構等六大新發展格局。車百會研究院預計，2026年全年中國汽車出口將接近1100萬輛。
+
+---
+
+### 2026-09-15 10:06:39  #MKT News
+
+TASNIM NEWS: Saudi sources say flights at Jeddah airport have been suspended.
+
+---
+
+### 2026-09-15 10:06:27  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #Copper #CSI300
+
+China's National Bureau of Statistics said August equipment-manufacturing value added rose 12.1% YoY and high-tech manufacturing rose 16.7% YoY, respectively 6.9 and 11.5 percentage points faster than total industrial value added for enterprises above designated size.
+
+---
+
+### 2026-09-15 10:06:26  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CSI300 #CNH
+
+China's National Bureau of Statistics said in August production of lithium‑ion batteries rose 57.2% YoY, industrial robot output rose 34.6% YoY and 3D printing equipment output rose 29.9% YoY.
+
+---
+
+### 2026-09-15 10:06:24  #Trading Economics #Economy #China #Retail Sales YoY #Importance 2
+
+China Retail Sales Miss Expectations — China’s retail sales rose 0.4% year-on-year in August 2026, slowing from a 0.6% gain in July and falling short of market expectations of a 0.8% increase. Consumption continued to be dragged down by weak demand for big-ticket items, with automobile sales dropping 18.5%, while furniture (-7.9%), building materials (-11.8%), and gold and silver jewelry sales (-17.5%) also declined. Meanwhile, communication equipment sales surged 27.3%, alongside strong gains in tobacco and alcohol (+12.5%), cultural and office supplies (+5.8%), and cosmetics (+4.9%). Excluding automobiles, retail sales grew 2.5%. Catering revenue increased 1.1%, while goods sales rose 0.3%. Online retail sales of goods advanced 4.3% in January-August. Month-on-month, retail sales fell 0.13% in August after edging up 0.01% in July. For the first eight months, retail sales increased 1.1%, while sales excluding automobiles rose 2.7%.
+
+---
+
+### 2026-09-15 10:06:17  #其他
+
+【8月份我國工業機器人產量同比增長34.6%】國家統計局新聞發言人付凌暉在15日舉行的國新辦新聞釋出會上說，今年8月份，我國裝備製造業和高技術製造業快速增長，工業機器人產量同比增長34.6%，3D列印裝置、鋰離子電池產量同比分別增長29.9%、57.2%。
+
+---
+
+### 2026-09-15 10:06:10  #MKT News
+
+【NBS: China new-energy vehicle output 1.647 mln in August, +21.9% YoY】China National Bureau of Statistics: among 626 major industrial products, 286 posted YoY output growth in August. New-energy vehicle output was 1.647 mln units, up 21.9% YoY; total auto output 2.697 mln units, down 2.7% YoY. Steel 114.75 mln tonnes, -5.5% YoY; cement 129.08 mln tonnes, -11.7% YoY; ten non-ferrous metals 7.10 mln tonnes, +1.6% YoY; ethylene 3.60 mln tonnes, +3.6% YoY. Power generation 943.8 bln kWh, -0.8% YoY; crude oil processing 59.07 mln tonnes, -6.9% YoY.
+
+---
+
+### 2026-09-15 10:05:30  #經濟數據 #中國
+
+【國家統計局：8月規上工業原油產量1843萬噸 同比增長0.8%】國家統計局資料顯示，8月份，規上工業原油產量1843萬噸，同比增長0.8%，增速與7月份持平；日均產量59.5萬噸。1—8月份，規上工業原油產量14639萬噸，同比增長0.9%。8月份，規上工業原油加工量5907萬噸，同比下降6.9%，降幅比7月份收窄8.9個百分點；日均加工量190.6萬噸。1—8月份，規上工業原油加工量45612萬噸，同比下降6.6%。
+
+---
+
+### 2026-09-15 10:05:19  #其他
+
+【國家統計局：8月份規上工業天然氣產量214億立方米 同比增長0.8%】國家統計局資料顯示，天然氣生產由降轉增。8月份，規上工業天然氣產量214億立方米，同比增長0.8%，7月份為下降0.9%；日均產量6.9億立方米。1—8月份，規上工業天然氣產量1757億立方米，同比增長1.1%。
+
+---
+
+### 2026-09-15 10:05:11  #MKT News #CNH #Impact bullish #Hang Seng Index #DXY #Impact bearish
+
+【NBS: Jan–Aug online retail sales of goods and services up 4.6% YoY】National Bureau of Statistics: Jan–Aug online retail sales of goods and services totaled 13.48 tln yuan, up 4.6% YoY. Online goods retail sales were 8.42 tln yuan, +4.3% YoY; within goods, online food, apparel and household goods rose 15.9%, 4.9% and 1.1% respectively. Online services retail sales were 5.06 tln yuan, up 5.1% YoY.
+
+---
+
+### 2026-09-15 10:04:43  #其他
+
+【國家統計局：8月全國服務業生產指數同比增長4.1%】國家統計局資料顯示，8月份，全國服務業生產指數同比增長4.1%。分行業看，資訊傳輸、軟體和資訊科技服務業，租賃和商務服務業，交通運輸、倉儲和郵政業生產指數同比分別增長9.6%、9.0%、4.8%。1—8月份，全國服務業生產指數同比增長4.7%。8月份，服務業商務活動指數為49.3%，服務業業務活動預期指數為55.5%。其中，郵政、電信廣播電視及衛星傳輸服務、網際網路軟體及資訊科技服務等行業商務活動指數位於55.0%以上較高景氣區間。1—7月份，規模以上服務業企業營業收入同比增長5.7%。
+
+---
+
+### 2026-09-15 10:04:36  #MKT News
+
+【China NBS: Employment broadly stable; urban surveyed jobless rate rises seasonally】China's National Bureau of Statistics said employment is broadly stable. The urban surveyed unemployment rate rose seasonally to 5.3% in August, up 0.1 percentage point month-on-month; the Jan–Aug average was 5.2%, unchanged year-on-year. In 31 major cities the urban surveyed unemployment rate was 5.3%, up 0.1 percentage point from July. Unemployment among local household-registration (hukou) workers was 5.3%; non-local (migrant) household-registration workers 5.2%, including non-local agricultural-hukou workers at 5.0%. Nationwide average weekly hours for enterprise employees were 48.2 hours.
+
+---
+
+### 2026-09-15 10:04:35  #經濟數據 #中國
+
+【國家統計局：8月份規上工業天然氣產量214億立方米 同比增長0.8%】國家統計局資料顯示，天然氣生產由降轉增。8月份，規上工業天然氣產量214億立方米，同比增長0.8%，7月份為下降0.9%；日均產量6.9億立方米。1—8月份，規上工業天然氣產量1757億立方米，同比增長1.1%。
+
+---
+
+### 2026-09-15 10:04:22  #其他
+
+【讓創新成果更快惠及患者 我國建立醫療服務價格預立項制度】國家醫保局今天（15日）印發通知，試行高水平新技術新產品醫療服務價格專案預立項制度。簡單來說，就是在醫療新技術、新產品還沒有正式投入臨床使用之前，醫保部門就提前介入開展價格政策評估，讓好的醫療創新更快惠及老百姓。這項制度重點支援三類高水平創新：診療取得突破的新技術、解決臨床難題的新裝置、填補診療空白的新耗材。但並非所有產品都可以申報，普通迭代升級裝置、常規試劑、可直接按耗材藥品收費的產品，不在預立項範圍內。新政同時對耗材價格作出約束。對於醫療裝置折舊或醫用耗材費用佔比超過新專案價格構成60％，或醫用耗材價格超過5000元的，醫保部門會督促企業說明價格構成，引導定價匹配臨床價值，兼顧群眾的支付能力，避免創新產品價格虛高。
+
+---
+
+### 2026-09-15 10:04:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+New York gold futures climbed above $4,350/oz, up 0.23% on the day.
+
+---
+
+### 2026-09-15 10:04:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold touched $4,310/oz, up 0.27% on the day.
+
+---
+
+### 2026-09-15 10:04:11  #MKT News #Commodities #Energy
+
+【China's NBS: industrial natural gas output at enterprises above designated size 21.4 bcm in August, +0.8% YoY】Production returned to growth. In August output at enterprises above designated size was 21.4 bcm, up 0.8% YoY (July -0.9%); daily average 0.69 bcm. Jan‑Aug cumulative output was 175.7 bcm, up 1.1% YoY.
+
+---
+
+### 2026-09-15 10:03:58  #經濟數據 #中國
+
+【國家統計局：8月規上工業發電量9438億千瓦時 同比下降0.8%】國家統計局資料顯示，8月份，規上工業發電量9438億千瓦時，同比下降0.8%；日均發電304.4億千瓦時。1—8月份，規上工業發電量66476億千瓦時，同比增長2.4%。
+
+---
+
+### 2026-09-15 10:03:38  #其他
+
+【國家統計局：8月規上工業原煤產量3.6億噸 同比下降7.7%】國家統計局資料顯示，8月份，規上工業原煤產量3.6億噸，同比下降7.7%，降幅比7月份收窄2.4個百分點；日均產量1167萬噸。1—8月份，規上工業原煤產量30.6億噸，同比下降3.3%。
+
+---
+
+### 2026-09-15 10:03:32  #其他
+
+【國家統計局：1—8月份，全國固定資產投資（不含農戶）293092億元，同比下降7.2%】1—8月份，全國固定資產投資（不含農戶）293092億元，同比下降7.2%（按可比口徑計算）。其中，智慧財產權產品投資同比增長9.2%。分產業看，第一產業投資5832億元，同比下降2.4%；第二產業投資113094億元，下降2.9%；第三產業投資174166億元，下降9.9%。工業投資同比下降2.9%。其中，採礦業投資增長3.4%，製造業投資下降2.3%，電力、熱力、燃氣及水生產和供應業投資下降6.9%。基礎設施投資（口徑詳見附註1）同比下降4.0%。其中，資訊傳輸業投資增長28.4%，航空運輸業投資增長16.7%，水上運輸業投資增長14.7%。分地區看，東部地區投資同比下降9.4%，中部地區投資下降8.7%，西部地區投資下降8.8%，東北地區投資下降25.5%。分登記註冊統計類別看，內資企業固定資產投資同比下降7.1%，港澳臺投資企業固定資產投資下降6.9%，外商投資企業固定資產投資下降4.3%。1—8月份，民間固定資產投資同比下降10.1%。從環比看，8月份固定資產投資（不含農戶）下降0.5%。
+
+---
+
+### 2026-09-15 10:03:24  #公司
+
+【光刻膠板塊異動走高，寶麗迪漲超10%】光刻膠板塊異動走高，寶麗迪漲超10%，世名科技、興業股份、西隴科學、奧來德、久日新材等跟漲。
+
+---
+
+### 2026-09-15 10:03:19  #經濟數據 #中國
+
+【國家統計局：8月規上工業原煤產量3.6億噸 同比下降7.7%】國家統計局資料顯示，8月份，規上工業原煤產量3.6億噸，同比下降7.7%，降幅比7月份收窄2.4個百分點；日均產量1167萬噸。1—8月份，規上工業原煤產量30.6億噸，同比下降3.3%。
+
+---
+
+### 2026-09-15 10:03:18  #MKT News #Important
+
+Interim Venezuelan President RODRIGUEZ plans a United Nations visit and expects to hold high-level meetings.
+
+---
+
+### 2026-09-15 10:03:03  #其他
+
+【國家統計局：1—8月份社會消費品零售總額增長1.1%】國家統計局資料顯示，2026年1—8月份，社會消費品零售總額327569億元，同比增長1.1%。其中，除汽車以外的消費品零售額301764億元，增長2.7%。8月份，社會消費品零售總額39824億元，同比增長0.4%。其中，除汽車以外的消費品零售額36545億元，增長2.5%。
+
+---
+
+### 2026-09-15 10:02:46  #國際
+
+夏普開始在日本接受AI伺服器訂單。
+
+---
+
+### 2026-09-15 10:02:35  #其他
+
+【國家統計局：就業形勢總體穩定 城鎮調查失業率季節性上升】國家統計局資料顯示，1—8月份，全國城鎮調查失業率平均值為5.2%，與上年同期持平。8月份，全國城鎮調查失業率為5.3%，比上月上升0.1個百分點。本地戶籍勞動力調查失業率為5.3%；外來戶籍勞動力調查失業率為5.2%，其中外來農業戶籍勞動力調查失業率為5.0%。31個大城市城鎮調查失業率為5.3%，比上月上升0.1個百分點。全國企業就業人員周平均工作時間為48.2小時。
 
 ---
 
@@ -15773,347 +16043,5 @@ Musk said he was fully confident SpaceX would deploy NVIDIA's VR NLV72 AI comput
 ### 2026-09-14 05:26:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 According to an Axios global affairs reporter, a senior Gulf state official said Saudi Arabia has submitted amendments to an Oman-Iran proposal on the Strait of Hormuz, arguing the draft wording could effectively establish a new status quo in the strait—an outcome Saudi Arabia and other GCC states deem unacceptable.
-
----
-
-### 2026-09-14 05:19:23  #國際
-
-沙烏地阿拉伯對阿曼與伊朗的提案提交修改意見。
-
----
-
-### 2026-09-14 05:19:17  #國際
-
-沙特針對阿曼伊朗提案的修改內容涉及霍爾木茲海峽。
-
----
-
-### 2026-09-14 05:18:52  #國際
-
-【伊朗錫裡克地區傳出數聲爆炸巨響】據伊朗方面當地時間14日凌晨訊息，伊朗霍爾木茲甘省錫裡克地區傳出數聲爆炸巨響。截至目前，爆炸性質尚未明確，官方未發表相關宣告。（央視新聞）
-
----
-
-### 2026-09-14 05:18:52  #MKT News #Important #WTI #Impact bullish #Brent
-
-【Multiple blasts reported in Sirik, Hormozgan province, Iran】Several loud explosions were heard in the Sirik area of Hormozgan province, Iran, in the early hours of the 14th local time. The nature of the blasts is unclear and authorities have issued no official statement.
-
----
-
-### 2026-09-14 05:14:48  #MKT News
-
-Saudi foreign ministry said Deputy Minister for International and Multilateral Affairs and Deputy Undersecretary for Economic and Development Affairs Abdulrahman Al-Rassi met Pakistan’s ambassador to Saudi Arabia, Ahmed Farooq, to discuss matters of mutual concern.
-
----
-
-### 2026-09-14 05:12:59  #MKT News #Market Regions #Emerging Markets
-
-【Iran central bank governor heads to Istanbul to discuss new trade mechanisms】Iran’s central bank governor has departed for Istanbul and will meet central bank governors from Islamic countries to discuss deepening banking and trade ties and to consider creating new mechanisms to facilitate trade, the Mehr news agency reported.
-
----
-
-### 2026-09-14 05:12:05  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran senior lawmaker says US understands only "language of force"】State media quoted Abbas, spokesman for Iran's parliamentary presidium, saying the United States is duplicitous and "only understands the language of force and power politics." He warned against negotiations that would weaken Iran's regional allies and said withdrawing from the Nuclear Non‑Proliferation Treaty would be "a fully achievable and easily executed step." He said Israel, which possesses an undeclared nuclear arsenal, is among the small number of states that have not signed the treaty.
-
----
-
-### 2026-09-14 05:02:33  #MKT News #Important
-
-IRNA reports confirmed explosions heard in the Sirik area of Hormozgan province, Iran; cause and source unclear.
-
----
-
-### 2026-09-14 05:02:32  #國際
-
-伊朗媒體：伊朗錫裡克發生多起爆炸。
-
----
-
-### 2026-09-14 05:02:05  #國際
-
-美國中央司令部稱，自恢復對往返伊朗船隻的封鎖以來，已有101艘船隻被要求改道。
-
----
-
-### 2026-09-14 05:01:10  #MKT News
-
-【CENTCOM: U.S. forces diverted 101 commercial vessels by Sept 13】CENTCOM said U.S. forces had diverted 101 commercial vessels as of Sept 13 to ensure compliance.
-
----
-
-### 2026-09-14 04:58:23  #其他
-
-葉門媒體：沙特戰機兩次轟炸焦夫省哈卜瓦沙阿夫地區一處每週開市的公共集市。
-
----
-
-### 2026-09-14 04:45:13  #MKT News
-
-Swedish broadcaster SVT projects the governing right-wing bloc will win 174 parliamentary seats and the center-left opposition 175 seats.
-
----
-
-### 2026-09-14 04:36:57  #市場 #焦點
-
-美國天然氣暗盤日內漲超1%，現報2.9653美元。
-
----
-
-### 2026-09-14 04:35:09  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #NVIDIA #Alphabet
-
-【King Charles III to host AI summit as industry voices call for slowdown】The New York Times reported King Charles III will meet AI industry leaders this week at Dumfries House in southwest Scotland to discuss socially beneficial development and deployment. Buckingham Palace said attendees will include NVIDIA, Google, DeepMind, OpenAI and ANTHROPIC alongside government officials. The meeting comes as AI insiders and some company leaders warn rapid, unchecked development could pose global risks and have urged shared guidelines and a deliberate slowdown to give society time to adapt.
-
----
-
-### 2026-09-14 04:34:30  #公司 #資料
-
-查爾斯三世將在蘇格蘭會見AI行業領袖，包括英偉達、谷歌DeepMind負責人，OpenAI、Anthropic等企業高管。
-
----
-
-### 2026-09-14 04:33:53  #MKT News
-
-【Iran, Oman postpone Gulf states' foreign ministers' meeting】Tasnim reported Iran's foreign ministry director-general for Persian Gulf affairs said the Gulf states' foreign ministers' meeting originally scheduled for Monday has been postponed at the request of some regional states and by mutual decision of Oman and Iran; a new date will be set. Iran and Oman are in close consultations to coordinate timing.
-
----
-
-### 2026-09-14 04:32:29  #其他
-
-英國國王查爾斯本週將會見人工智慧企業負責人。
-
----
-
-### 2026-09-14 04:32:03  #國際
-
-以色列文化與體育部長威脅，將吊銷兩名電影導演的公民身份，二人拍攝了一部講述以色列對加沙實施種族滅絕戰爭的紀錄片。
-
----
-
-### 2026-09-14 04:28:55  #其他
-
-【克羅埃西亞布拉奇島發生山火 近700人被疏散】近日，克羅埃西亞布拉奇島發生大規模山火。當地時間12日夜間，火勢向該島的米爾納鎮及附近海灣蔓延，近700名當地居民和遊客被緊急疏散。當地消防部門出動了4架消防飛機參與滅火。13日，山火仍未被完全撲滅，目前過火面積已達到3500公頃。布拉奇島位於克羅埃西亞亞得里亞海沿岸，是該國重要的旅遊目的地。（央視新聞）
-
----
-
-### 2026-09-14 04:28:31  #國際
-
-【無視英國反對 特朗普再挺“愛爾蘭統一”】據外媒報道，美國總統特朗普13日再次表示，他支援北愛爾蘭脫離英國，“與愛爾蘭統一”。此前一天，特朗普發表類似言論，已引發英國政界強烈反對。特朗普當天在愛爾蘭對媒體說：“有北愛爾蘭，也有愛爾蘭。在我看來，把它們合併在一起似乎是再自然不過的事情。”在被問到蘇格蘭問題時，特朗普稱，這個問題目前不會談，“留到以後再說”。（新華社）
-
----
-
-### 2026-09-14 04:28:22  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #EURUSD #Impact mixed
-
-【Trump backs Irish unification again despite UK opposition】US President Trump on the 13th reiterated support for Northern Ireland leaving the UK to unify with Ireland, saying merging them “seems only natural.” The comment, made in Ireland after similar remarks the previous day, drew strong objections from UK politicians. On Scotland he said the issue “won’t be discussed now” and should be left for later.
-
----
-
-### 2026-09-14 04:22:37  #MKT News
-
-Saudi outlet Hadath reported Yemeni government forces have retaken positions west of Taiz previously infiltrated by Houthi fighters and have advanced toward the Jir Bani Omar area as part of operations to expel Houthi forces from Taiz province.
-
----
-
-### 2026-09-14 04:18:58  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi Arabia has asked Oman to postpone the Iran-Iraq-Gulf Cooperation Council meeting scheduled in Oman tomorrow, citing an attack from Iraqi territory on a Saudi east-west oil pipeline. Bahrain withdrew from the meeting yesterday; the United Arab Emirates was expected to attend.
-
----
-
-### 2026-09-14 04:14:13  #其他
-
-【萊茵河低水位或致德國鉅額經濟損失】13日，德國萊茵蘭-普法爾茨州工商會發言人妮科爾·拉博爾德表示，受持續低水位影響，萊茵河貨運能力大幅下降，預計今年將給德國經濟造成鉅額損失。但損失是否會超過2018年仍有待觀察。2018年萊茵河低水位至少造成24億歐元經濟損失。萊茵河承擔德國約80%的內河貨物運輸，是德國工業運輸“大動脈”。今年以來，德國多次遭遇高溫天氣，河流水位持續偏低，嚴重影響萊茵河貨運，一些貨船已無法通航，另一些只能空載航行。（央視新聞）
-
----
-
-### 2026-09-14 04:12:11  #國際
-
-【伊朗官員：伊美衝突後伊朗外資實際陷入停滯】伊朗工業部副部長、伊朗小型工業與工業園區組織負責人塔赫穆雷斯·拉胡蒂稱，自伊朗與以色列、美國爆發衝突後，伊朗的外國投資實際上已經停滯，本伊朗歷年內暫無新增外國投資記錄。拉胡蒂稱，受現有制裁與限制影響，外國投資並未發生。拉胡蒂補充說，受匯率波動、通脹以及居民購買力下降拖累，工業發展領域的國內投資較去年同樣出現下滑。
-
----
-
-### 2026-09-14 03:48:45  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Middle East energy supply under severe strain; nearly 30 mln b/d of crude flows disrupted or at risk, Kobeissi says】Kobeissi report: as of Friday, Saudi Arabia’s east–west oil pipeline has been shut after recent attacks, putting about 4 mln b/d of Saudi exports at risk. The Bab el-Mandeb faces potential closure, threatening as much as 9 mln b/d. Strait of Hormuz transit capacity is currently only about 20% of pre-Iran-war levels, obstructing roughly 15 mln b/d. In aggregate ~30 mln b/d of crude flows are disrupted or at risk; even accounting for overlap this is large versus the ~100 mln b/d global market and ranks among the most severe supply shocks in modern history.
-
----
-
-### 2026-09-14 03:47:59  #MKT News
-
-【Qatari prime minister and foreign minister held phone call with Kuwait foreign minister on regional situation】Qatar’s foreign ministry said the Qatari prime minister and foreign minister held a phone call with Kuwait’s foreign minister to discuss the latest regional situation and coordination on diplomatic efforts to ease tensions and bolster regional security and stability. Qatar confirmed support for diplomatic initiatives aimed at ensuring freedom of navigation and paving the way for a comprehensive agreement to achieve lasting regional peace.
-
----
-
-### 2026-09-14 03:43:11  #MKT News #Market Themes #The Trump Trade #DXY #Impact mixed #S&P500 #Impact bearish #Brent #Impact bullish
-
-【Why Canada's Prime Minister Carney is in no rush to resume US trade talks】Canada is delaying a return to US trade talks; Prime Minister Carney and his cabinet have focused on deepening ties with other countries and domestic infrastructure spending while avoiding commitments on retaliatory tariffs. Polls show broad public support for rejecting a bad deal and for retaliatory measures; some Canadians back export taxes to raise prices of oil, gas and electricity exported to the US. Domestic opposition to compromise is constraining Carney and complicating any restart of negotiations, says University of Toronto’s Andrew MacDougall. Carney and officials say talks collapsed over US demands including tariffs on steel, aluminum and autos that would leave those sectors uncompetitive; a requirement that Canada accept tariffs applying to goods from a US FTA partner; changes to Canadian cultural and French‑language protections; and aligning Canada’s trade policy with Trump’s positions. Carney called those demands fundamentally unacceptable; US officials dispute parts of Canada’s account but say Trump will not grant tariff exemptions.
-
----
-
-### 2026-09-14 03:43:09  #國際
-
-沙特：外交部長接到了阿聯酋外長的電話，雙方就遏制地區局勢升級的努力進行了討論。
-
----
-
-### 2026-09-14 03:41:59  #國際
-
-【阿曼外交部：原定於14日舉行的地區會議延期】當地時間13日晚，阿曼外交部宣佈，原定於14日在阿曼南部港口城市塞拉萊舉行的地區會議將推遲。日期另行確定。宣告稱，此舉旨在為建設性對話創造適宜條件，推動達成有助於維護地區安全與穩定的可持續共識，並回應地區各國人民對合作與和平的期待。阿曼外交大臣巴德爾當天也在社交媒體發文稱，為促進各方達成共識，原定次日在塞拉萊舉行的地區會議已被推遲。阿曼將繼續致力於推動地區對話，以支援地區穩定和長期合作。（央視新聞）
-
----
-
-### 2026-09-14 03:41:30  #公司
-
-【微軟CEO納德拉：支援AI審慎發展與嵌入式評估機制】微軟CEO納德拉在社交媒體發文表示，任何對超級智慧的探索都必須基於一項核心原則，如果開發的人工智慧不能造福人類且不受人類控制，就不值得去研發。微軟還需要加快並普及人工智慧帶來的益處，使其廣泛惠及各國、各社群和企業。這需要一個前沿生態，讓閉源和開源模型都能蓬勃發展。對於企業來說，必須完全掌握自身獨有的隱性知識。每個機構都應能夠搭建自己的持續學習迴圈/迭代最佳化系統，不必依賴任何單一模型供應商，並能夠將自身知識嵌入到自己可控的模型與權重中。因此，在此背景下，我們支援以實現對齊為設計目標所需的研究、專注投入和審慎節奏。我們也支援“嵌入式評估器”等構想以及更多相關機制建設，讓想法不只是空談。關鍵是這項工作不能由少數主體掌控，而必須吸納來自整個生態、各國、各領域（包括學術界）的廣泛參與。這就是我們採取的方案：在人工智慧技術棧的每一層提供廣泛訪問許可權與選擇；企業自主掌控學習迴圈與模型；以及支撐微軟自研MAI模型的《行為準則》，我們將於明日釋出該準則，公開徵求意見。
-
----
-
-### 2026-09-14 03:41:29  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
-
-Microsoft chairman and CEO Satya Nadella said the company will provide broad access and choice across every layer of the AI technology stack, allow enterprises to control continuous learning loops and their models, and follow a "code of conduct" applicable to Microsoft's first-party MAI models. Microsoft will publish the code tomorrow for public comment.
-
----
-
-### 2026-09-14 03:40:57  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft chairman and CEO Nadella said the key is that this field should not be controlled by a few entities; the entire ecosystem—across countries, sectors and academia—must be broadly involved.
-
----
-
-### 2026-09-14 03:40:50  #MKT News #Star Stocks #MSFT.O
-
-Microsoft chairman and CEO Satya Nadella said the company welcomes necessary research, scrutiny and a deliberate pace to ensure "alignment" becomes a design goal. He also welcomed "embedded evaluators" and broader efforts to build mechanisms that make those concepts operational rather than merely rhetorical.
-
----
-
-### 2026-09-14 03:40:32  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O
-
-Microsoft chairman and CEO Nadella said enterprises must retain full control of their unique, tacit knowledge. He said each organization should be able to build its own continuous learning loop and "climbing machine" without relying on a single model vendor, and embed its knowledge into models and model weights it controls.
-
----
-
-### 2026-09-14 03:40:03  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
-
-Microsoft chairman and CEO Satya Nadella said the company must accelerate AI development and broaden its benefits to countries, communities and businesses, urging the construction of a frontier AI ecosystem in which both closed‑source and open‑source models can thrive.
-
----
-
-### 2026-09-14 03:39:45  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O
-
-Microsoft chairman and CEO Nadella said any pursuit of superintelligence must rest on a core principle: if the AI we build does not help humanity and cannot be kept under human control, it is not worth continuing to develop.
-
----
-
-### 2026-09-14 03:39:41  #國際
-
-伊朗外交部官員：阿曼會議的推遲是應地區部分國家的要求，並由德黑蘭和馬斯喀特共同作出的決定。
-
----
-
-### 2026-09-14 03:38:30  #MKT News
-
-Saudi foreign minister held a phone call with the UAE foreign minister to discuss recent regional developments and de‑escalation efforts, Saudi outlet Alhadath reported.
-
----
-
-### 2026-09-14 03:38:28  #MKT News
-
-cenc reported a magnitude 4.1 earthquake at 03:21 on Sept 14 in Hualien County, Taiwan; focal depth 14 km.
-
----
-
-### 2026-09-14 03:36:52  #MKT News
-
-IRNA quoted Iran's foreign ministry director-general for Gulf affairs saying the Gulf coastal states' foreign ministers' meeting originally scheduled for Monday has been postponed at the request of some regional states and by joint decision of Oman and Iran. Iran said it will consult closely with Oman to coordinate a new date.
-
----
-
-### 2026-09-14 03:36:48  #MKT News #Market Themes #The Trump Trade
-
-Trump said the banquet hall under construction at the White House will be "the greatest" of its kind worldwide and that he and other American patriots will donate it to the United States; he said no taxpayer funds will be used for construction.
-
----
-
-### 2026-09-14 03:27:39  #MKT News
-
-【Bushehr official: exports top $2.3 bln despite US maritime blockade】Provincial customs said Iran’s southern Bushehr province exported more than $2.3 billion of goods from March–August this year despite a US maritime blockade, IRNA reported. Customs head Ali Soleimani said the province shipped 5.1 million tonnes in the five-month period, with petrochemicals and various liquefied gases among the main exports. He said goods were exported to 32 countries, including the UAE and Pakistan.
-
----
-
-### 2026-09-14 03:24:18  #MKT News #Important #Market Themes #AI Revolution
-
-【Anthropic, OpenAI and Google in talks to form AI industry standards body】Anthropic, OpenAI and Google have discussed creating an industry body to set AI standards. Anthropic CEO Dario Amodei urged firms to coordinate testing and auditing; OpenAI founder Altman told employees at a town hall earlier this week he supports a sector testing-and-audit agency but believes large AI labs should build it themselves rather than rely on US government support.
-
----
-
-### 2026-09-14 03:23:20  #公司 #焦點 #國際
-
-【Anthropic、OpenAI、谷歌曾商討制定人工智慧標準】知情人士透露，早在Anthropic執行長達里奧·阿莫代伊周六呼籲AI企業就技術測試與審計開展協作之前，Anthropic、OpenAI與谷歌就已經在商討合作組建AI行業標準機構。一位瞭解相關表態的訊息人士稱，OpenAI執行長山姆·奧特曼在本週早些時候的全員大會上對員工表示，他支援設立AI行業測試與審計機構，但認為頭部AI實驗室必須在美國政府不提供支援的情況下自行搭建這套標準組織。
-
----
-
-### 2026-09-14 03:22:23  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Oil tanker catches fire in Strait of Hormuz】UKMTO said a fully laden oil tanker was struck by a missile in the Strait of Hormuz and is reported to be seriously ablaze. The agency earlier reported a Panama-flagged tanker was attacked while transiting the Strait and had lost propulsion.
-
----
-
-### 2026-09-14 03:19:51  #公司 #焦點
-
-Anthropic、OpenAI、谷歌商討制定人工智慧標準。
-
----
-
-### 2026-09-14 03:11:16  #公司 #央行 #國際
-
-【上市公司密集回購增持】近期，全球金融市場迎來“超級央行周”。美聯儲將於北京時間9月17日凌晨公佈最新利率決議，市場普遍預期加息25個基點，日本央行、英國央行等也將陸續公佈決議，長端美債收益率處於歷史高位，外圍情緒擾動加大。一批A股上市公司日前密集釋出股份增持、回購安排，向市場傳遞積極訊號。
-
----
-
-### 2026-09-14 03:10:30  #焦點 #國際
-
-伊朗與海灣阿拉伯國家合作委員會成員國的霍爾木茲相關會議推遲舉行。
-
----
-
-### 2026-09-14 03:09:11  #MKT News #Important
-
-Oman's foreign minister said the regional meeting originally scheduled for tomorrow in Salalah has been postponed to allow more time to reach consensus. Oman will continue to promote dialogue to support regional stability and lasting cooperation.
-
----
-
-### 2026-09-14 03:09:10  #國際
-
-【加拿大正磋商為歐盟對烏克蘭貸款提供支援】加拿大正磋商為歐盟對烏克蘭貸款提供支援。雙方希望在10月底於蒙特利爾舉行的歐盟峰會前，商定加拿大將為歐盟主導的900億歐元烏克蘭貸款出資的金額。加拿大總理馬克·卡尼希望透過參與這項烏克蘭支援貸款，向歐洲盟友展現承諾。英國是參與該貸款的唯一一個其他非歐盟國家。
-
----
-
-### 2026-09-14 03:08:07  #國際
-
-加拿大正磋商為歐盟對烏克蘭貸款提供支援。
-
----
-
-### 2026-09-14 03:07:50  #國際
-
-特朗普結束對記者的講話，登上空軍一號。
-
----
-
-### 2026-09-14 03:07:29  #其他
-
-阿曼外交大臣：我們仍致力於推動能夠維護本地區穩定、實現本地區持久合作的對話。
-
----
-
-### 2026-09-14 03:07:18  #其他 #焦點
-
-阿曼外交大臣：為達成共識，原定於明日在塞拉萊舉行的區域會議已被推遲。
-
----
-
-### 2026-09-14 03:03:30  #MKT News
-
-【Russian Duma deputy chairman: Ukraine's current situation stems from historical revisionism】Boris Chernyshov, deputy chairman of Russia's State Duma, said Ukraine's current situation stems from policies of historical revisionism. He warned efforts to erase memory of Nazism and radical nationalism and to rewrite school curricula can, over 20 to 30 years, turn local festivals into state-level, Nazi-style education programmes. He said attempts to falsify Russia's victory in the Great Patriotic War are both pointless and criminal.
 
 ---

@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-09-21 03:01:27_
-_本檔包含 2697 則快訊，約 534500 字_
+_更新時間：2026-09-21 05:26:15_
+_本檔包含 2698 則快訊，約 534130 字_
+
+---
+
+### 2026-09-16 13:42:05  #MKT News #Market Regions #Emerging Markets #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+【Indian bond traders uneasy as Reserve Bank of India liquidity withdrawal risks prolonging slump】ICICI Securities' primary dealers and IDFC First Bank forecast India's benchmark 10-year government bond yield could breach its May 2026 high and rise to 7.25% by Dec 31, a three-year peak. Citigroup has moved up its expectation for a Reserve Bank of India rate hike from December to October. Traders warn the RBI's withdrawal of excess system cash, alongside rising inflation and a global bond-market selloff, could trigger a sustained downturn. Ashhish Vaidya, head of funds for DBS Group in Mumbai, said: "The outlook is chaotic; it's hard to judge the yield peak. Conditions have clearly changed; traders are repositioning for tougher supply and higher inflation."
+
+---
+
+### 2026-09-16 13:40:08  #國際
+
+【加沙城一建築倒塌致至少9人死亡】卡達半島電視臺16日報道，巴勒斯坦加沙地帶加沙城一棟建築倒塌，造成至少9人死亡、近100人失蹤。（新華社）
+
+---
+
+### 2026-09-16 13:40:05  #Trading Economics #Economy #Kyrgyzstan #Industrial Production #Importance 1
+
+Kyrgyzstan Industrial Output Contracts in August — Industrial production in Kyrgyzstan fell 9.6% year-on-year in August 2026, reversing a 6.3% increase in the previous month and marking the first decline after ten consecutive months of annual growth. Production dropped in manufacturing (-11.2% vs 0.4% in July), weighed down by declines in food products, textiles, computers, electronic and optical equipment, and other manufacturing, repair, and installation of machinery and equipment. Output also declined in mining and quarrying (-3.6% vs 38.5%), as well as electricity, gas, steam, and air conditioning supply (-9.8% vs 4.7%). Meanwhile, growth eased in water supply, waste treatment, and recovery of secondary raw materials (19.6% vs 20.3%). Over January-August, industrial output expanded 8.8%, slowing from 12.9% in the same period last year.
+
+---
+
+### 2026-09-16 13:36:39  #其他
+
+臺交所加權股價指數收高0.7%報45,848.90點。
+
+---
+
+### 2026-09-16 13:35:11  #MKT News #Market Regions #Greater China
+
+Taiwan Weighted Index closed up 337.41 points (+0.74%) at 45,848.9 on Wednesday, Sept. 16.
+
+---
+
+### 2026-09-16 13:34:39  #MKT News #Important #Market Themes #Chip Wars #INTC.O #Impact bullish #000660.KS
+
+【SK Hynix in talks with Intel to produce memory chips in US for first time】Reuters sources say SK Hynix is in exploratory talks with Intel to manufacture memory chips in the US for the first time. Options include leasing part of Intel’s planned Ohio fab or forming a joint venture with Intel and major cloud service providers seeking to secure memory supply. The deal would ease pressure on Intel and represent a win for the Trump administration, but potential pushback from South Korea over sensitive technology is a key obstacle. No decision has been made and it is unclear which SK Hynix products—DRAM for servers/PCs/phones, NAND, or high-bandwidth memory (HBM) for AI processors—would be produced in Ohio.
+
+---
+
+### 2026-09-16 13:34:04  #市場
+
+【CRO概念持續走強 成都先導、近岸蛋白漲超10%】CRO概念持續走強，截至發稿，成都先導、近岸蛋白漲超10%，美迪西、泓博醫藥等跟漲。
+
+---
+
+### 2026-09-16 13:31:41  #國際
+
+據知情人士透露，SK海力士正與英特爾洽談一項協議，計劃首次在美國本土生產記憶體晶片。
+
+---
+
+### 2026-09-16 13:31:11  #MKT News #INTC.O #Impact bullish
+
+Refinitiv sources say SK Hynix may lease part of Intel’s Ohio facilities and could form a joint venture with Intel and major cloud providers.
+
+---
+
+### 2026-09-16 13:30:50  #MKT News #Market Themes #Chip Wars #INTC.O #Impact bullish #000660.KS
+
+Refinitiv, citing sources, says SK Hynix is in talks with Intel on a deal to manufacture memory chips in the United States for the first time.
+
+---
+
+### 2026-09-16 13:30:14  #MKT News
+
+Thailand's state oil company said a US$3 rise in LNG prices could raise Thai electricity tariffs by about 5%.
+
+---
+
+### 2026-09-16 13:30:08  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Rises by 1.06% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.06% increase.
+
+---
+
+### 2026-09-16 13:28:29  #MKT News
+
+【US attorney general says FBI found new information on 2024 shooter in attempt on President Trump】US Attorney General Todd Blanche said on the 15th the FBI has recently uncovered additional information about Thomas Matthew Crooks, the gunman in the 2024 attempt on President Trump, relating to his background and experience; Blanche provided no further details at a White House briefing. A UK source who reviewed the documents said the new material alleges Crooks used the name of the late GOP senator and former presidential candidate Bob Dole to receive parcels, purchased parts and tools from Amazon to modify a rifle, and that after Secret Service agents shot Crooks dead an anonymous party paid to have him cremated.
+
+---
+
+### 2026-09-16 13:25:04  #其他
+
+【香港將為電影業界提供搭景場地】香港特區行政長官李家超今日（16日）公佈《香港特別行政區經濟和社會發展第一個五年規劃（2026—2030年）》，隨即發表《行政長官2026年施政報告》（《施政報告》）。李家超在《施政報告》中宣佈，香港支援電影業發展，將研究為業界提供搭景場地，鼓勵電影在本地取景，透過優質的電影作品更好地向世界宣傳香港。
+
+---
+
+### 2026-09-16 13:23:16  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+【European media: von der Leyen to propose creation of European Security Council】European Commission President Ursula von der Leyen will deliver her State of the Union address on the 16th (local time) and is set to propose a wholesale overhaul of Europe’s security architecture, a European news site reports. Her speech reportedly calls for establishment of a European Security Council consisting of EU leaders plus leaders of selected non-EU countries, including Ukraine, the UK, Norway and Canada. She will also urge a new Europe-wide “security protocol” modelled on NATO’s Article 4, which allows members to request consultations when they judge their security or territorial integrity threatened.
+
+---
+
+### 2026-09-16 13:22:58  #其他
+
+【李家超：香港推出組合拳鼓勵生育】香港特區行政長官李家超今日（17日）在香港特區立法會發表新一份施政報告。李家超表示，香港特區政府將進一步推出組合拳措施鼓勵生育，包括：（1）延長初生子女可享額外免稅額的時間，由一年增至兩年。由2026/2027課稅年度起，在每名子女出生後首兩年，納稅人可就該名子女享有雙倍免稅額（即26萬港元）。措施適用於該課稅年度末所有未滿兩歲的子女。（2）進一步加強日間嬰幼兒照顧，未來三年將新增15所資助幼兒中心，合共提供約1500個零至三歲的兒童日間照顧服務名額，比目前規模增加近一倍。社署亦會適當地把較多的服務名額撥作照顧零至兩歲的嬰幼兒。（3）在校課後託管服務方面，在本學年擴充“在校課後託管服務計劃”，名額不再設上限，方便家長外出工作。
+
+---
+
+### 2026-09-16 13:22:28  #國際
+
+【歐媒：馮德萊恩擬呼籲設立歐洲安全理事會】歐洲聯盟委員會主席馮德萊恩定於當地時間16日在歐洲議會發表年度“盟情諮文”。據歐洲動態網站報道，馮德萊恩將提議對歐洲安全架構進行徹底改革，呼籲設立歐洲安全理事會。根據歐洲動態網站所獲馮德萊恩講話稿，歐洲安全理事會將由歐方領導人以及烏克蘭、英國、挪威、加拿大等非歐盟國家領導人組成。（新華社）
+
+---
+
+### 2026-09-16 13:21:25  #市場 #國際
+
+20年期日本國債收益率下跌3.0個基點，至3.855%。
+
+---
+
+### 2026-09-16 13:21:06  #國際
+
+【日本百歲以上老年人首超10萬，女性佔87%】據報道，在日本的“敬老日”（今年為21日）前夕的9月15日，日本厚生勞動省公佈了百歲老人等的相關統計資料。日本全國百歲以上的老年人已達10萬7677人。連續56年增長，首次突破10萬人。 從整體來看，超過百歲的老人中，女性為9萬4298人，佔87.6%，男性為1萬3379人。
+
+---
+
+### 2026-09-16 13:20:52  #MKT News #Macro & Rates #Treasury Yields
+
+Japan 20-year government bond yield fell 3 bps to 3.855%.
+
+---
+
+### 2026-09-16 13:19:28  #其他
+
+【李家超：香港特區首個五年規劃聚焦四大中心、人才集聚高地建設】香港特區行政長官李家超16日在特區立法會公佈香港特區第一個五年規劃。他表示，香港將強化四大中心、人才集聚高地建設，鞏固提升國際競爭優勢。李家超表示，全力推進“四中心、一高地”的建設，有助推動香港經濟持續發展，釋放促進民生改善的發展紅利，不斷提升市民福祉。同時，深化國際法律及解決爭議中心、區域智慧財產權貿易中心，以及中外文化藝術交流中心等將為“四中心、一高地”建設提供有力支援，有利促進科研創新和產業發展，並充分發揮香港在“一國兩制”下“內聯外通”的獨特優勢和國際化城市地位，進一步提升國際競爭優勢。李家超說，金融是香港的根本和最大的優勢。香港國際金融中心必須彰顯國際定位，以開放的金融市場吸引全球資金、人才和財金企業匯聚香港。秉持“以穩促進，以進固穩”的方針，壯根基、穩結構、強功能、控風險，充分發揮金融賦能實體經濟的核心作用，建設安全高效的金融基建，系統性構建多元化資本市場。（新華社）
+
+---
+
+### 2026-09-16 13:18:35  #MKT News #Market Themes #AI Revolution
+
+【South Korea deputy PM says country cannot slow AI development, will push ahead】South Korea Deputy Prime Minister Kyunghoon Bae said on Wednesday the country must not slow AI development amid global debate over the technology's pace. He said Seoul will not let Korea's AI clock run backward, will move faster but more safely, and will soon unveil a plan for an independent domestic foundational AI model.
+
+---
+
+### 2026-09-16 13:18:14  #公司
+
+【創新藥概念股表現活躍】成都先導、艾迪藥業漲超10%，藥康生物、誠達藥業、美迪西、哈藥股份漲幅居前。
+
+---
+
+### 2026-09-16 13:17:37  #MKT News #Market Themes #AI Revolution
+
+South Korea's deputy prime minister said from South Korea's perspective the country cannot slow the development of artificial intelligence now.
+
+---
+
+### 2026-09-16 13:15:40  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #US10Y #USDJPY
+
+【Analyst: U.S. 10-year yield above 5% not an isolated event】Siebert Financial CIO Mark Malek said in a report that the U.S. 10-year Treasury yield rising to 5% is not due to a U.S.-specific economic problem but reflects a synchronized upswing in global bond yields. He noted Japan's 10-year yield has topped 3% for the first time in 30 years. Malek said: 'When long-term yields of all developed sovereigns reprice together, the market is not judging any single borrower; it is simply remembering what it has spent the past 15 years deliberately forgetting — that lending for ten years is a risk, not a convenience.'
+
+---
+
+### 2026-09-16 13:14:03  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+China A-share CPO sector pushed higher into the afternoon; Huayuan Holdings and Lian Microelectronics hit daily limit-up. Accelink Technologies, Kechuan Technology and Zhongci Electronics were earlier locked at the limit. Changxin Bochuang advanced more than 13%.
+
+---
+
+### 2026-09-16 13:12:32  #公司 #市場
+
+【感測器概念震盪反彈，華豐股份漲停】感測器概念震盪反彈，華豐股份漲停，燦瑞科技、敏芯股份、燕東微、高華科技、華工科技、盾安環境等跟漲。
+
+---
+
+### 2026-09-16 13:12:11  #公司
+
+【文科股份中標中信金融中心專案市政景觀一體化專業工程】據文科股份訊息，近日，文科股份中標中信金融中心專案市政景觀一體化專業工程，中標金額6881.65萬元。
+
+---
+
+### 2026-09-16 13:11:52  #市場
+
+【共封裝光學(CPO)板塊持續走高】共封裝光學(CPO)板塊持續走高，華源控股、立昂微漲停，光迅科技、可川科技、中瓷電子此前封板, 長芯博創、東田微、長光華芯漲超10%，九聯科技、星網銳捷、興森科技、崇達技術、方正科技等跟漲。
+
+---
+
+### 2026-09-16 13:11:23  #其他
+
+【平陸運河通航 今天30艘貨船經過平陸運河】今天上午（16日），西部陸海新通道骨幹工程——平陸運河正式通航。伴隨平陸運河通航，兩條新的貨運航線也雙向啟航，分別是南寧－越南芹苴外貿航線和南寧－海南洋浦內貿航線。今天，有30艘貨船經過平陸運河，南寧港、欽州港重點開展貨船首航作業，貨種以集裝箱和散貨兩大類為主，貨物涵蓋建材、煤炭、礦產、鋼材、化肥等物資。通航當日，四條水上客運航線同步開通。 （央視財經）
+
+---
+
+### 2026-09-16 13:09:37  #MKT News #Commodities #Energy #EURUSD #Impact bullish #DAX
+
+Germany's economy minister plans to use market incentives to encourage traders to hold more available natural gas for this winter and avoid direct government procurement, a government source told Refinitiv.
+
+---
+
+### 2026-09-16 13:09:21  #公司
+
+【香港市民在內地生活將更加便利】香港特區行政長官李家超今日（16日）公佈《香港特別行政區經濟和社會發展第一個五年規劃（2026—2030年）》，隨即發表《行政長官2026年施政報告》（《施政報告》）。李家超在《施政報告》中宣佈，香港特區政府將完善便利香港市民在內地發展和生活，聚焦以下幾點工作： 1、特區政府持續在大灣區內地城市擴充套件“廣東院舍照顧服務計劃”，為香港長者提供更多院舍選擇。 2、特區政府將聚焦跨境支付便利化與民生保障。 3、金管局將推動“轉數快”在今年內接通銀聯（連同其合作支付網路全球逾1億個商戶），便利使用者進行本地及跨境零售支付。 4、金管局將探索進一步擴大“跨境支付通”的使用者群，開發便利兩地居民跨境生活、工作及養老等場景。 5、香港年金公司自今年第三季起，為香港年金保單持有人增設在內地指定銀行賬戶直接收取年金收入的選項。
+
+---
+
+### 2026-09-16 13:09:11  #市場 #焦點
+
+南向資金淨買入額達30億港元。
+
+---
+
+### 2026-09-16 13:08:56  #MKT News
+
+Poland's Civil Aviation Authority said Lublin and Rzeszów airports have been closed due to military aviation activity.
+
+---
+
+### 2026-09-16 13:08:26  #其他
+
+【處罰噪聲汙染：廣州擬立法地鐵外放最高罰1000元 勸阻無效的可向公安機關報告】據廣州日報，為加強噪聲汙染的防治及其監督管理，《廣州市噪聲汙染防治規定》法規案擬於10月進行第三次審議並表決。9月16日，廣州市人大常委會在官微公佈《廣州市噪聲汙染防治規定（草案修改稿·徵求意見稿）》（以下簡稱《徵求意見稿》），向社會各界公開徵求意見和建議，截止日期為10月15日。 《徵求意見稿》分別對工業噪聲、夜間連續施工噪聲、機動車炸街擾民、商業經營噪聲、公共場所活動噪聲、室內裝修噪聲等多種噪聲源作出管控要求，並明確法律責任。《徵求意見稿》規定，在公共交通運輸工具內使用電子裝置外放聲音，經公共交通運輸工具司乘人員勸阻仍不改正的，由公安機關說服教育，給予警告，可以處二百元以上一千元以下的罰款。 搭乘地鐵、公交時，有的乘客喜歡將手機外放聲音，不僅影響其他乘客上下站聽取報站聲，而且影響他人安寧。對此，《徵求意見稿》作出管控規定，在公交、地鐵等公共交通運輸工具內使用手機、平板電腦等電子裝置時不得外放聲音。使用電子裝置外放聲音的，公共交通運輸工具司乘人員應當勸阻，勸阻無效的，可以向公安機關報告。違反該規定，經公共交通運輸工具司乘人員勸阻仍不改正的，由公安機關說服教育，給予警告，可以處二百元以上一千元以下的罰款。
+
+---
+
+### 2026-09-16 13:07:31  #其他
+
+香港新生嬰兒獎勵金提高至3萬元。
+
+---
+
+### 2026-09-16 13:07:25  #其他
+
+【廣州東站將升級為高鐵客站 廣汕高鐵將直達廣州東站】近日，廣州東站至新塘站五六線專案順利封頂。廣州東站至新塘站五六線西起廣州東站、東至新塘站，線路全長約30公里，途經天河、黃埔、增城三區，設計時速200公里，是廣州“高鐵進城”的核心工程。專案建成後，廣汕高鐵列車可直達廣州東站，實現廣州東站升級為高鐵客站，打通廣州鐵路樞紐東向通道瓶頸，強化樞紐各大客站互聯互通，提升大灣區軌道交通通達效率。（廣州日報）
+
+---
+
+### 2026-09-16 13:06:54  #公司
+
+港交所將於明年上半年就修訂特專科技公司上市制度展開諮詢。
+
+---
+
+### 2026-09-16 13:06:35  #其他
+
+香港推出組合拳鼓勵生育。
+
+---
+
+### 2026-09-16 13:06:34  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Japanese refiners step up Middle East crude buying after Saudi pipeline shutdown】A shutdown of a key Saudi oil pipeline has heightened near-term crude supply concerns, prompting Japanese refiners to increase Middle East purchases, traders said. Eneos Holdings and Idemitsu Kosan have bought Oman crude for loading as early as October — earlier than usual, traders said — as Gulf cargoes purchased in September typically load in November.
+
+---
+
+### 2026-09-16 13:06:07  #MKT News
+
+【Preview: China's State Council Information Office to brief on housing and urban‑rural construction plans for 15th Five-Year Plan】China's State Council Information Office will hold a briefing at 10:00 on Sept 18, 2026. Chen Shaowang, spokesman and vice minister of the Ministry of Housing and Urban‑Rural Development (MOHURD), will outline plans to advance high-quality development in housing and urban‑rural construction during the 15th Five-Year Plan and take questions.
+
+---
+
+### 2026-09-16 13:05:25  #公司 #市場
+
+A股液冷概念股震盪走強，泰福泵業20cm漲停，科瑞技術、豪爾賽此前漲停，強瑞技術漲超10%，華源控股、集智股份漲超8%。
+
+---
+
+### 2026-09-16 13:05:03  #宏觀
+
+【預告】國務院新聞辦公室將於2026年9月18日（星期五）上午10時舉行“開局起步‘十五五’”系列主題新聞釋出會，請住房和城鄉建設部新聞發言人、副部長陳紹旺介紹“十五五”時期推進住房城鄉建設事業高質量發展有關情況，並答記者問。
+
+---
+
+### 2026-09-16 13:03:40  #國際
+
+截至9月12日當週，日本煉油廠開工率為87.2%。
+
+---
+
+### 2026-09-16 13:03:07  #MKT News #Market Regions #Europe & UK
+
+Equinor expects EU gas storage to reach about 75% of capacity by November.
+
+---
+
+### 2026-09-16 13:01:53  #MKT News #Market Themes #AI Revolution #9984.T #Impact bearish #Nikkei 225
+
+【SoftBank pledges $64.6 bln to OpenAI; wider exposure raises credit concerns】SoftBank's five-year CDS hovered near a three-year high as traders priced the group's exposure after it committed $64.6 bln to OpenAI. Data provider CMA shows the five-year CDS around 383.2 bps, close to the 2023 peak. OpenAI — one of SoftBank's largest bets — is in early talks on a pre-IPO funding round valuing the company above $1.2 tln; CEO Sam Altman said an IPO is being prepared but not expected this year.
 
 ---
 
@@ -15986,275 +16262,5 @@ China Stocks Mixed as Growth Concerns Persist — The Shanghai Composite fell 0.
 ### 2026-09-15 10:16:04  #Trading Economics #Economy #China #Unemployment Rate #Importance 1
 
 China Jobless Rate Hits 5-Month High — China’s surveyed urban unemployment rate rose to 5.3% in August 2026 from 5.2% in the previous month, surpassing market expectations of 5.2% and marking the highest reading since March. Among the locally registered labor force, the jobless rate increased to 5.3% from 5.2% in July, while the rate for migrant workers rose to 5.2% from 5.1%. Within the migrant labor force, the unemployment rate for agricultural workers stood at 5.0%, up from 4.9% in the previous month. Across 31 major cities, the surveyed urban unemployment rate increased to 5.3% from 5.2% in July. Employees at enterprises worked an average of 48.2 hours per week. From January to August, the surveyed urban unemployment rate averaged 5.2%, unchanged from the average for the first seven months and the same period last year.
-
----
-
-### 2026-09-15 10:15:51  #央行 #國際
-
-菲律賓央行：7月現金匯款額為32.4億美元。
-
----
-
-### 2026-09-15 10:15:00  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Depreciates by 0.39% — Top currency losers are South Korean Won (-0.39%), Japanese Yen (-0.31%) and New Zealand Dollar (-0.30%). Meanwhile Chinese Yuan was little changed.
-
----
-
-### 2026-09-15 10:14:07  #市場 #焦點
-
-科創50日內漲幅達2％，成分股中，華海清科漲8.45％，屹唐股份漲6.05％，寒武紀漲4.96％，芯原股份漲4.71％。
-
----
-
-### 2026-09-15 10:14:05  #Trading Economics #Economy #China #Fixed Asset Investment #Importance 1
-
-China Fixed Investment Falls as Expected — China’s fixed-asset investment declined by 7.2% year-on-year in the January-August 2026 period, matching market expectations and following a 6.7% drop in the first seven months of the year. Property investment remained the biggest drag, slumping 19.9% (vs -19.2% in January-July), amid weak housing demand, falling home prices and persistent financing constraints among developers. Investment in infrastructure (-4% vs -3.6%) and manufacturing (-2.3% vs -1.7%) also dropped further. Investment also continued to fall across all three major industries: the primary sector (-2.4% vs -0.5%), the secondary sector (-2.9% vs -2.1%), and the tertiary sector (-9.9% vs -9.5%). Excluding the property sector, fixed-asset investment fell by 4.2% in the first eight months of the year, after a 3.7% decline in January-July. On a monthly basis, fixed-asset investment decreased by 0.5% in August, slowing from a 1.37% drop in July.
-
----
-
-### 2026-09-15 10:13:51  #MKT News
-
-Japan's Nikkei 225 turned positive, rising to 64,000 points, up 0.80% on the day.
-
----
-
-### 2026-09-15 10:13:32  #MKT News #CSI300 #Impact bullish #SZSE Component
-
-China A-share wind-turbine equipment sector rose after intraday volatility; Jixin Technology hit the daily limit, while Dajin Heavy Industry, Tianshun Wind Energy, Tianneng Heavy Industry, Xinqianglian and Zhenhong also gained.
-
----
-
-### 2026-09-15 10:12:46  #公司 #市場
-
-【風電裝置板塊短線拉昇，吉鑫科技漲停】風電裝置板塊短線拉昇，吉鑫科技漲停，大金重工、天順風能、天能重工、新強聯、振宏股份等紛紛走高。
-
----
-
-### 2026-09-15 10:12:44  #市場
-
-【光通訊概念拉昇 通鼎互聯漲停】光通訊概念拉昇，通鼎互聯漲停，浙江眾成漲逾7%，信德新材、正帆科技、興森科技等漲幅居前。
-
----
-
-### 2026-09-15 10:12:09  #其他
-
-【兩部門對海南啟動國家自然災害救助四級應急響應】9月15日，國家防減救災委、應急管理部針對近期強降雨對海南造成的嚴重災害影響，啟動國家自然災害救助四級應急響應，派出工作組緊急趕赴災區實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等災害救助工作。（新華社）
-
----
-
-### 2026-09-15 10:11:39  #MKT News #Important #Market Regions #Emerging Markets #WTI #Impact bearish #Brent #XAUUSD
-
-Saudi civil defense said the threat to Yanbu, Jeddah, Ta'if, Jizan, Abha and Al-Ula has been lifted.
-
----
-
-### 2026-09-15 10:10:58  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-【Copper steadies near four-week low; futures premium signals ample supply】Copper steadied near $14,000/ton after exchange-tracked warehouses received fresh deliveries, easing earlier supply tightness. LME futures were little changed on Tuesday after posting their lowest close in four weeks. Copper fell sharply from a weekend record high that followed traders diverting refined metal to the US ahead of expected tariffs that have not been implemented; Monday saw the largest LME warehouse copper delivery in nearly four weeks. Three-month LME copper is trading $85.75/ton over spot, a futures premium consistent with ample supply.
-
----
-
-### 2026-09-15 10:10:56  #其他
-
-沙特民防部門表示，延布、吉達、塔伊夫、吉贊、艾卜哈和烏萊拉的險情已解除。
-
----
-
-### 2026-09-15 10:09:13  #MKT News
-
-【Hong Kong chief executive Lee: first five-year plan and 2026 policy address exceed 100,000 characters】Hong Kong chief executive Lee said today he will unveil the city’s first five-year plan and deliver the 2026 policy address at the Legislative Council tomorrow. The two documents total more than 100,000 characters; Lee said he will present concisely and expects the session to run two to three hours.
-
----
-
-### 2026-09-15 10:09:03  #其他
-
-【李家超：香港首個五年規劃和2026施政報告超10萬字】香港特區行政長官李家超今日（15日）表示，明天他將在立法會公佈香港首個五年規劃並發表2026年施政報告，兩份檔案內容詳實，總計超過10萬字。明天他將會簡明扼要地進行釋出，計劃在兩到三個小時內完成。（大灣區之聲）
-
----
-
-### 2026-09-15 10:08:47  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Edge Lower — The Hang Seng Index edged down 0.4%, or 85 points, to around 24,830 on Tuesday, as investors remained cautious ahead of key economic and monetary policy developments. Gains in technology stocks provided some support to the broader market, although weakness in selected shares kept the benchmark in negative territory. Investors remained cautious ahead of key global central-bank decisions and amid elevated oil prices, which have renewed concerns over inflation and the interest-rate outlook. Additionally, the US 10-year Treasury yield briefly climbed to 5%, its highest level since October 2023, ahead of the Federal Reserve's policy decision this week. Meanwhile, investors awaited China's August economic data, including new-home prices, industrial production and retail sales due later in the day. Notable laggards included Z.AI Co. (-1.5%), Trip.com (-1.0%) and Genscript Biotech (-2.9%), while Tencent (0.9%), Kingboard Laminates (3.1%) and Techtronic Industries Co. (2.2%) advanced.
-
----
-
-### 2026-09-15 10:08:20  #Trading Economics #Economy #China #Industrial Production #Importance 1
-
-China Industrial Output Growth Beats Estimates — China’s industrial production grew 5.2% year-on-year in August 2026, accelerating from a 4.5% rise in July and surpassing expectations of 4.8%. The acceleration came amid faster growth in manufacturing (6.1% vs 5.5% in July), while electricity, heat, gas, and water output continued to rise (4.9% vs 5.9%). By contrast, mining output fell 1.4% (vs 4.2% in July). In the first eight months of 2026, industrial output rose 5.3%. Month-on-month, industrial output climbed 0.54%.
-
----
-
-### 2026-09-15 10:08:04  #經濟數據 #中國
-
-【國家統計局：8月份鋰離子電池、工業機器人、3D列印裝置產品產量同比分別增長57.2%、34.6%、29.9%】國家統計局資料顯示，8月份，全國規模以上工業增加值同比增長5.2%，比上月加快0.7個百分點；環比增長0.54%。分三大門類看，採礦業增加值同比下降1.4%，製造業增長6.1%，電力、熱力、燃氣及水生產和供應業增長4.9%。
-
----
-
-### 2026-09-15 10:06:54  #MKT News #USDJPY #Impact bullish
-
-USD/JPY up 0.3% at 154.79.
-
----
-
-### 2026-09-15 10:06:49  #其他
-
-【曙光8000：已將5公里解析度氣象預報計算時間縮短至1小時】9月15日，中國氣象局地球系統數值預報中心與中科曙光聯合釋出的成果顯示，我國自主研發的氣象數值預報系統依託全國產AI超叢集曙光8000，將全球5公里解析度、未來10天的預報計算時間縮短至1小時，滿足業務應用的必要時效要求，達到國際第一梯隊的水平。
-
----
-
-### 2026-09-15 10:06:45  #其他
-
-【車百會研究院師建華：當前汽車產業呈六大新發展格局 2026年全年出口預計近1100萬輛】車百會研究院副理事長師建華今日表示，當前國內汽車產業呈現國內“冷”、內需承壓；海外“熱”、打通雙迴圈；市場“卷”、出清加速；新能源“主導”、新質生產力；創新“活躍”、安全高效經濟；跨界“融合”、人工智慧驅動生態重構等六大新發展格局。車百會研究院預計，2026年全年中國汽車出口將接近1100萬輛。
-
----
-
-### 2026-09-15 10:06:39  #MKT News
-
-TASNIM NEWS: Saudi sources say flights at Jeddah airport have been suspended.
-
----
-
-### 2026-09-15 10:06:27  #MKT News #Important #Market Regions #Greater China #CNH #Impact bullish #Copper #CSI300
-
-China's National Bureau of Statistics said August equipment-manufacturing value added rose 12.1% YoY and high-tech manufacturing rose 16.7% YoY, respectively 6.9 and 11.5 percentage points faster than total industrial value added for enterprises above designated size.
-
----
-
-### 2026-09-15 10:06:26  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CSI300 #CNH
-
-China's National Bureau of Statistics said in August production of lithium‑ion batteries rose 57.2% YoY, industrial robot output rose 34.6% YoY and 3D printing equipment output rose 29.9% YoY.
-
----
-
-### 2026-09-15 10:06:24  #Trading Economics #Economy #China #Retail Sales YoY #Importance 2
-
-China Retail Sales Miss Expectations — China’s retail sales rose 0.4% year-on-year in August 2026, slowing from a 0.6% gain in July and falling short of market expectations of a 0.8% increase. Consumption continued to be dragged down by weak demand for big-ticket items, with automobile sales dropping 18.5%, while furniture (-7.9%), building materials (-11.8%), and gold and silver jewelry sales (-17.5%) also declined. Meanwhile, communication equipment sales surged 27.3%, alongside strong gains in tobacco and alcohol (+12.5%), cultural and office supplies (+5.8%), and cosmetics (+4.9%). Excluding automobiles, retail sales grew 2.5%. Catering revenue increased 1.1%, while goods sales rose 0.3%. Online retail sales of goods advanced 4.3% in January-August. Month-on-month, retail sales fell 0.13% in August after edging up 0.01% in July. For the first eight months, retail sales increased 1.1%, while sales excluding automobiles rose 2.7%.
-
----
-
-### 2026-09-15 10:06:17  #其他
-
-【8月份我國工業機器人產量同比增長34.6%】國家統計局新聞發言人付凌暉在15日舉行的國新辦新聞釋出會上說，今年8月份，我國裝備製造業和高技術製造業快速增長，工業機器人產量同比增長34.6%，3D列印裝置、鋰離子電池產量同比分別增長29.9%、57.2%。
-
----
-
-### 2026-09-15 10:06:10  #MKT News
-
-【NBS: China new-energy vehicle output 1.647 mln in August, +21.9% YoY】China National Bureau of Statistics: among 626 major industrial products, 286 posted YoY output growth in August. New-energy vehicle output was 1.647 mln units, up 21.9% YoY; total auto output 2.697 mln units, down 2.7% YoY. Steel 114.75 mln tonnes, -5.5% YoY; cement 129.08 mln tonnes, -11.7% YoY; ten non-ferrous metals 7.10 mln tonnes, +1.6% YoY; ethylene 3.60 mln tonnes, +3.6% YoY. Power generation 943.8 bln kWh, -0.8% YoY; crude oil processing 59.07 mln tonnes, -6.9% YoY.
-
----
-
-### 2026-09-15 10:05:30  #經濟數據 #中國
-
-【國家統計局：8月規上工業原油產量1843萬噸 同比增長0.8%】國家統計局資料顯示，8月份，規上工業原油產量1843萬噸，同比增長0.8%，增速與7月份持平；日均產量59.5萬噸。1—8月份，規上工業原油產量14639萬噸，同比增長0.9%。8月份，規上工業原油加工量5907萬噸，同比下降6.9%，降幅比7月份收窄8.9個百分點；日均加工量190.6萬噸。1—8月份，規上工業原油加工量45612萬噸，同比下降6.6%。
-
----
-
-### 2026-09-15 10:05:19  #其他
-
-【國家統計局：8月份規上工業天然氣產量214億立方米 同比增長0.8%】國家統計局資料顯示，天然氣生產由降轉增。8月份，規上工業天然氣產量214億立方米，同比增長0.8%，7月份為下降0.9%；日均產量6.9億立方米。1—8月份，規上工業天然氣產量1757億立方米，同比增長1.1%。
-
----
-
-### 2026-09-15 10:05:11  #MKT News #CNH #Impact bullish #Hang Seng Index #DXY #Impact bearish
-
-【NBS: Jan–Aug online retail sales of goods and services up 4.6% YoY】National Bureau of Statistics: Jan–Aug online retail sales of goods and services totaled 13.48 tln yuan, up 4.6% YoY. Online goods retail sales were 8.42 tln yuan, +4.3% YoY; within goods, online food, apparel and household goods rose 15.9%, 4.9% and 1.1% respectively. Online services retail sales were 5.06 tln yuan, up 5.1% YoY.
-
----
-
-### 2026-09-15 10:04:43  #其他
-
-【國家統計局：8月全國服務業生產指數同比增長4.1%】國家統計局資料顯示，8月份，全國服務業生產指數同比增長4.1%。分行業看，資訊傳輸、軟體和資訊科技服務業，租賃和商務服務業，交通運輸、倉儲和郵政業生產指數同比分別增長9.6%、9.0%、4.8%。1—8月份，全國服務業生產指數同比增長4.7%。8月份，服務業商務活動指數為49.3%，服務業業務活動預期指數為55.5%。其中，郵政、電信廣播電視及衛星傳輸服務、網際網路軟體及資訊科技服務等行業商務活動指數位於55.0%以上較高景氣區間。1—7月份，規模以上服務業企業營業收入同比增長5.7%。
-
----
-
-### 2026-09-15 10:04:36  #MKT News
-
-【China NBS: Employment broadly stable; urban surveyed jobless rate rises seasonally】China's National Bureau of Statistics said employment is broadly stable. The urban surveyed unemployment rate rose seasonally to 5.3% in August, up 0.1 percentage point month-on-month; the Jan–Aug average was 5.2%, unchanged year-on-year. In 31 major cities the urban surveyed unemployment rate was 5.3%, up 0.1 percentage point from July. Unemployment among local household-registration (hukou) workers was 5.3%; non-local (migrant) household-registration workers 5.2%, including non-local agricultural-hukou workers at 5.0%. Nationwide average weekly hours for enterprise employees were 48.2 hours.
-
----
-
-### 2026-09-15 10:04:35  #經濟數據 #中國
-
-【國家統計局：8月份規上工業天然氣產量214億立方米 同比增長0.8%】國家統計局資料顯示，天然氣生產由降轉增。8月份，規上工業天然氣產量214億立方米，同比增長0.8%，7月份為下降0.9%；日均產量6.9億立方米。1—8月份，規上工業天然氣產量1757億立方米，同比增長1.1%。
-
----
-
-### 2026-09-15 10:04:22  #其他
-
-【讓創新成果更快惠及患者 我國建立醫療服務價格預立項制度】國家醫保局今天（15日）印發通知，試行高水平新技術新產品醫療服務價格專案預立項制度。簡單來說，就是在醫療新技術、新產品還沒有正式投入臨床使用之前，醫保部門就提前介入開展價格政策評估，讓好的醫療創新更快惠及老百姓。這項制度重點支援三類高水平創新：診療取得突破的新技術、解決臨床難題的新裝置、填補診療空白的新耗材。但並非所有產品都可以申報，普通迭代升級裝置、常規試劑、可直接按耗材藥品收費的產品，不在預立項範圍內。新政同時對耗材價格作出約束。對於醫療裝置折舊或醫用耗材費用佔比超過新專案價格構成60％，或醫用耗材價格超過5000元的，醫保部門會督促企業說明價格構成，引導定價匹配臨床價值，兼顧群眾的支付能力，避免創新產品價格虛高。
-
----
-
-### 2026-09-15 10:04:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-New York gold futures climbed above $4,350/oz, up 0.23% on the day.
-
----
-
-### 2026-09-15 10:04:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold touched $4,310/oz, up 0.27% on the day.
-
----
-
-### 2026-09-15 10:04:11  #MKT News #Commodities #Energy
-
-【China's NBS: industrial natural gas output at enterprises above designated size 21.4 bcm in August, +0.8% YoY】Production returned to growth. In August output at enterprises above designated size was 21.4 bcm, up 0.8% YoY (July -0.9%); daily average 0.69 bcm. Jan‑Aug cumulative output was 175.7 bcm, up 1.1% YoY.
-
----
-
-### 2026-09-15 10:03:58  #經濟數據 #中國
-
-【國家統計局：8月規上工業發電量9438億千瓦時 同比下降0.8%】國家統計局資料顯示，8月份，規上工業發電量9438億千瓦時，同比下降0.8%；日均發電304.4億千瓦時。1—8月份，規上工業發電量66476億千瓦時，同比增長2.4%。
-
----
-
-### 2026-09-15 10:03:38  #其他
-
-【國家統計局：8月規上工業原煤產量3.6億噸 同比下降7.7%】國家統計局資料顯示，8月份，規上工業原煤產量3.6億噸，同比下降7.7%，降幅比7月份收窄2.4個百分點；日均產量1167萬噸。1—8月份，規上工業原煤產量30.6億噸，同比下降3.3%。
-
----
-
-### 2026-09-15 10:03:32  #其他
-
-【國家統計局：1—8月份，全國固定資產投資（不含農戶）293092億元，同比下降7.2%】1—8月份，全國固定資產投資（不含農戶）293092億元，同比下降7.2%（按可比口徑計算）。其中，智慧財產權產品投資同比增長9.2%。分產業看，第一產業投資5832億元，同比下降2.4%；第二產業投資113094億元，下降2.9%；第三產業投資174166億元，下降9.9%。工業投資同比下降2.9%。其中，採礦業投資增長3.4%，製造業投資下降2.3%，電力、熱力、燃氣及水生產和供應業投資下降6.9%。基礎設施投資（口徑詳見附註1）同比下降4.0%。其中，資訊傳輸業投資增長28.4%，航空運輸業投資增長16.7%，水上運輸業投資增長14.7%。分地區看，東部地區投資同比下降9.4%，中部地區投資下降8.7%，西部地區投資下降8.8%，東北地區投資下降25.5%。分登記註冊統計類別看，內資企業固定資產投資同比下降7.1%，港澳臺投資企業固定資產投資下降6.9%，外商投資企業固定資產投資下降4.3%。1—8月份，民間固定資產投資同比下降10.1%。從環比看，8月份固定資產投資（不含農戶）下降0.5%。
-
----
-
-### 2026-09-15 10:03:24  #公司
-
-【光刻膠板塊異動走高，寶麗迪漲超10%】光刻膠板塊異動走高，寶麗迪漲超10%，世名科技、興業股份、西隴科學、奧來德、久日新材等跟漲。
-
----
-
-### 2026-09-15 10:03:19  #經濟數據 #中國
-
-【國家統計局：8月規上工業原煤產量3.6億噸 同比下降7.7%】國家統計局資料顯示，8月份，規上工業原煤產量3.6億噸，同比下降7.7%，降幅比7月份收窄2.4個百分點；日均產量1167萬噸。1—8月份，規上工業原煤產量30.6億噸，同比下降3.3%。
-
----
-
-### 2026-09-15 10:03:18  #MKT News #Important
-
-Interim Venezuelan President RODRIGUEZ plans a United Nations visit and expects to hold high-level meetings.
-
----
-
-### 2026-09-15 10:03:03  #其他
-
-【國家統計局：1—8月份社會消費品零售總額增長1.1%】國家統計局資料顯示，2026年1—8月份，社會消費品零售總額327569億元，同比增長1.1%。其中，除汽車以外的消費品零售額301764億元，增長2.7%。8月份，社會消費品零售總額39824億元，同比增長0.4%。其中，除汽車以外的消費品零售額36545億元，增長2.5%。
-
----
-
-### 2026-09-15 10:02:46  #國際
-
-夏普開始在日本接受AI伺服器訂單。
-
----
-
-### 2026-09-15 10:02:35  #其他
-
-【國家統計局：就業形勢總體穩定 城鎮調查失業率季節性上升】國家統計局資料顯示，1—8月份，全國城鎮調查失業率平均值為5.2%，與上年同期持平。8月份，全國城鎮調查失業率為5.3%，比上月上升0.1個百分點。本地戶籍勞動力調查失業率為5.3%；外來戶籍勞動力調查失業率為5.2%，其中外來農業戶籍勞動力調查失業率為5.0%。31個大城市城鎮調查失業率為5.3%，比上月上升0.1個百分點。全國企業就業人員周平均工作時間為48.2小時。
 
 ---
