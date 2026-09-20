@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-20 15:15:23",
-  "count": 13592,
+  "updated": "2026-09-20 15:19:13",
+  "count": 13590,
   "items": [
+    {
+      "id": "5103842",
+      "time": "2026-09-20 15:18:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯選舉負責人：無人機襲擊烏克蘭境內俄控赫爾松地區致兩人死亡，包括一名選舉官員。"
+    },
+    {
+      "id": "5103841",
+      "time": "2026-09-20 15:15:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金楊精密等成立增材製造公司】企查查APP顯示，近日，無錫茂恆增材製造有限公司成立，經營範圍包含增材製造；3D列印基礎材料銷售；3D列印服務等。企查查股權穿透顯示，該公司由金楊精密(301210)等共同持股。"
+    },
     {
       "id": "5103840",
       "time": "2026-09-20 15:13:13",
@@ -124639,38 +124655,6 @@
         "MKT News"
       ],
       "text": "【Iran accuses Europe and US of pressuring IAEA】On Sept. 12 foreign ministry spokesman Baghaei said the IAEA resolution on Iran was \"politicized\", that Iran has not breached obligations and the agency found no evidence its nuclear programme was diverted from peaceful uses. He accused three European countries and the US of pressuring the IAEA, said US military aggression and economic warfare against Iran continue, and invoked Iran's right to self‑defence under UN Charter Article 51. Baghaei added Tehran will protect its security by diplomatic and other means and urged regional states, not external powers, to guarantee regional security and establish a regional security mechanism."
-    },
-    {
-      "id": "mkt:01a099a1-8f31-7118-855b-450bcb576237",
-      "time": "2026-09-13 15:18:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Houthi forces say Bab al-Mandeb transit largely normal】Yemeni sources said on the 12th that 73 vessels transited the Bab al-Mandeb in the past 48 hours, equivalent to 98.6% of the average daily volume before the Houthi maritime embargo on Saudi Arabia on July 20. They said international vessels other than Saudi ships are being allowed through and transit is \"safe and smooth\", broadly near normal levels."
-    },
-    {
-      "id": "5091244",
-      "time": "2026-09-13 15:17:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "沙烏地阿拉伯基準指數早盤下跌1%，沙特阿美股價早盤下跌1.1%。"
-    },
-    {
-      "id": "mkt:01a099a0-6ac7-7118-855b-3fedd9f6aa46",
-      "time": "2026-09-13 15:17:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Arabia's benchmark index fell 1% in early trade."
-    },
-    {
-      "id": "5091243",
-      "time": "2026-09-13 15:15:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【民調：馬克龍支援率降至新低】據法新社9月12日報道，12日公佈的一項民調結果顯示，由於民眾對購買力和社會福利的擔憂，法國總統馬克龍和總理勒科爾尼的支援率已經降至歷史最低點。 9月9日和10日進行的益普索BVA-Cesi線上民調顯示，馬克龍的支援率降至上任以來最低的16%，這比7月份又減少5個百分點。這位即將卸任的總統在反對派陣營的支持者正明顯減少。 法國總理的情況也沒好到哪兒去。在上任近一年後，其支援率只有20%。他在反對派群體中的支援率也出現大幅下滑。 法國人現在最為擔心的是購買力，有54%的人提到這一問題，然後是“社會保障的未來”（40%）、環境（31%）、移民問題（31%）和債務及赤字（30%）。（參考訊息）"
     }
   ]
 }
