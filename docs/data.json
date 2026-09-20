@@ -1,7 +1,65 @@
 {
-  "updated": "2026-09-20 21:06:54",
+  "updated": "2026-09-20 21:10:54",
   "count": 13640,
   "items": [
+    {
+      "id": "5104055",
+      "time": "2026-09-20 21:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Qwen-Image-2.1開源：輕量高能，創作編輯一體化】據千問大模型，今天，開源Qwen-Image-2.1，一個兼顧生成效果、推理效率與使用成本的影象模型。Qwen-Image-2.1將文生圖與影象編輯整合在同一模型中，視覺生成部分僅有7B引數，並原生支援透明影象的生成與編輯。本次更新的模型主要特色包括四個方面：1、小模強效，極致價比：輕量的模型結構與推理最佳化，在生成質量和計算成本之間取得平衡。2、原生透明，創改一體：根據提示詞生成普通影象或透明影象，並支援透明圖層編輯與摳圖。3、全能編輯，多局保全：支援最多 10 張參考圖，增強區域性編輯、人像與商品保真，並覆蓋多種編輯任務。4、真實質感，字雅人美：提升文字排版、人物光影與細節表現，讓生成結果更具美感。"
+    },
+    {
+      "id": "5104054",
+      "time": "2026-09-20 21:07:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "沃爾茲：美國對伊朗經濟的極限施壓將繼續維持。"
+    },
+    {
+      "id": "mkt:01a0beed-b388-7118-8616-7c7daa7f216b",
+      "time": "2026-09-20 21:07:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Qatar set October seaborne crude official selling price (OSP) at $5/bbl below the Oman/Dubai benchmark, and onshore crude OSP at $4.5/bbl below Oman/Dubai."
+    },
+    {
+      "id": "5104053",
+      "time": "2026-09-20 21:07:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐聯合國大使沃爾茲：美國嚴肅對待胡塞武裝對沙特首都的襲擊。"
+    },
+    {
+      "id": "5104052",
+      "time": "2026-09-20 21:06:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼救援機構稱，爪哇海傾覆船隻造成的死亡人數升至10人。"
+    },
+    {
+      "id": "5104051",
+      "time": "2026-09-20 21:06:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達將10月海上原油官方售價(OSP)設定為較阿曼/迪拜均價每桶貼水5美元；陸上原油官方售價為較阿曼/迪拜均價每桶貼水4.5美元。"
+    },
+    {
+      "id": "5104050",
+      "time": "2026-09-20 21:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶市委教育工委原委員、市教委原專職督學張榮被開除黨籍】中央紀委國家監委網站9月20日通報，據重慶市紀委監委訊息：經重慶市委批准，重慶市紀委監委對重慶市委教育工委原委員、市教委原專職督學張榮嚴重違紀違法問題進行了立案審查調查。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經重慶市紀委常委會會議研究並報重慶市委批准，決定給予張榮開除黨籍處分；按規定取消其退休待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
     {
       "id": "5104049",
       "time": "2026-09-20 21:05:14",
@@ -124981,66 +125039,6 @@
         "US10Y"
       ],
       "text": "U.S. President Trump said the United States should have the lowest interest rates in the world."
-    },
-    {
-      "id": "mkt:01a09ae4-6244-7118-855c-861b6ad47a25",
-      "time": "2026-09-13 21:10:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Expert: Rhine low water could inflict heavy economic losses on Germany】German business groups warned on the 13th that sustained low water has sharply cut freight capacity on the Rhine and could cause substantial economic losses this year. Rhineland-Palatinate Chamber of Industry and Commerce spokesperson Nicole Laborde said the situation is \"very severe\" and losses will be \"huge\", though it is unclear whether they will exceed the 2018 low-water hit of at least €2.4bn."
-    },
-    {
-      "id": "5091449",
-      "time": "2026-09-13 21:10:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們收入豐厚，處理5000美元的支票不在話下。"
-    },
-    {
-      "id": "5091448",
-      "time": "2026-09-13 21:10:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普被問及下週美聯儲的決議時，他表示：我們的利率應該是全球最低的。"
-    },
-    {
-      "id": "mkt:01a09ae3-c5eb-7118-855c-79fcd8908831",
-      "time": "2026-09-13 21:10:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CHINA returns to Beijing after 18th BRICS leaders' meeting】On the evening of Sept. 13, CHINA returned to Beijing after concluding attendance at the 18th BRICS leaders' meeting."
-    },
-    {
-      "id": "5091447",
-      "time": "2026-09-13 21:10:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普被問及是否預期美聯儲加息時表示：我不知道。"
-    },
-    {
-      "id": "5091446",
-      "time": "2026-09-13 21:09:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平結束出席金磚國家領導人第十八次會晤回到北京】9月13日晚，國家主席習近平圓滿結束出席金磚國家領導人第十八次會晤回到北京。(新華社)"
-    },
-    {
-      "id": "5091445",
-      "time": "2026-09-13 21:08:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海市國資委召開完善指導監管機制座談會】9月13日上午，上海市國資委召開完善指導監管機制座談會。會議指出，區屬國資國企在服務區域發展大局、推動產業集聚、強化民生保障等方面發揮了重要作用，同時在當前改革發展中也面臨一些突出問題，市國資委將積極履行指導監管職能，強化市區協同聯動，更好服務推動區屬國資國企高質量發展。一是進一步摸清底數，夯實工作基礎。市區兩級國資委要深入開展座談調研和意見徵詢，細化梳理區屬企業業務轉型、基金運作、存量盤活等情況，加強基礎資料歸集分析，做到“底數清、情況明”。二是進一步聚焦關鍵難題，形成務實管用的工作舉措。市區兩級國資委要堅持問題導向，聚焦房地產業務轉型、科技創新功能發揮、國資基金規範運作等，明確指導監管工作重點，深入研究、紮實破題。三是進一步加強工作保障，確保改革落地見效。市國資委要完善對區級國資指導監管的工作機制，加強指導、協同、賦能、服務，在政策宣貫、業務培訓和推動企業改革轉型等方面主動靠前，會同各區政府加大對區屬國資國企的支援保障，強化改革跟蹤問效。"
     }
   ]
 }
