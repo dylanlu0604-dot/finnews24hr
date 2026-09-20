@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-20 20:39:24",
+  "updated": "2026-09-20 20:46:46",
   "count": 13633,
   "items": [
+    {
+      "id": "mkt:01a0bed7-a77d-7118-8616-485fad60c023",
+      "time": "2026-09-20 20:43:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SERES VP: AITO's Huawei content will not be reduced】SERES vice president Kang Bo said AITO remains a core member of Huawei's HarmonyOS intelligent-mobility family and Huawei will continue to provide enabling support. SERES holds a 10% stake in Shenzhen Yinwang, which aggregates multiple core Huawei smart-vehicle technologies; as a shareholder AITO will receive Huawei's latest technologies, products and supply guarantees. Kang said existing user rights and subsequent services, including OTA upgrades, will not be affected under the new cooperation model."
+    },
+    {
+      "id": "5104041",
+      "time": "2026-09-20 20:40:43",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【趙樂際同澳大利亞聯邦議會眾議長迪克會談】全國人大常委會委員長趙樂際20日在北京人民大會堂同澳大利亞聯邦議會眾議長迪克舉行會談。趙樂際表示，去年，習近平主席同阿爾巴尼斯總理在北京成功會晤，為中澳關係發展作出新的戰略指引。中方願同澳方一道，落實好兩國領導人重要共識，密切友好交往，增進政治互信，拓展務實合作，推動中澳全面戰略伙伴關係持續穩定向前發展。迪克表示，當前澳中關係穩健發展，各領域合作務實開展，兩國都從深入經貿往來中獲得裨益。此次澳眾議院訪華代表團成員來自澳不同地區、不同黨派，但都希望看到澳中關係行穩致遠。澳方堅持一箇中國政策，希望同中方加強貿易、文化、農業、礦業、應對氣候變化、人工智慧等領域交流合作，實現互利共贏。澳眾議院願同中國全國人大加強溝通交流，為雙方務實合作提供保障，助力澳中關係發展，造福兩國人民。（新華社）"
+    },
     {
       "id": "5104040",
       "time": "2026-09-20 20:35:48",
@@ -124942,32 +124959,6 @@
         "國際"
       ],
       "text": "【特朗普“愛爾蘭統一”言論引發英國政界反對】美國總統特朗普12日訪問愛爾蘭時表示，很希望看到愛爾蘭與（英國的）北愛爾蘭“實現統一”。該言論引發英國政界強烈反對。英國保守黨黨首凱米·巴德諾赫當天在社交媒體上說：“特朗普還是一如既往地信口開河，就像他之前談到格陵蘭島，以及想讓加拿大成為美國第51個州時一樣。”巴德諾赫說，“北愛爾蘭是英國的一部分”。“我不同意特朗普的觀點。”英國改革黨黨首奈傑爾·法拉奇同日在社交媒體上說，北愛爾蘭是英國引以為傲、不可分割的一部分。（新華社）"
-    },
-    {
-      "id": "mkt:01a09acc-7f8f-7118-855c-6bc051d6ba85",
-      "time": "2026-09-13 20:44:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Houthi rapid advance 'an unequivocal turning point' in regional war】Adam Baron, researcher at New America's Future of Security Project, said a drone attack from Iraq on a Saudi oil pipeline underscores how combustible the Middle East is. Since US and Israeli hostilities with Iran began six months ago, he said, a series of linked, multi-front conflicts has been igniting across the region. The Houthis' rapid seizure of a key Yemeni west-coast city from Saudi-backed forces is \"an unequivocal turning point\", he said, marking the loss of some of Yemen's most strategically important territory. Given Yemen's position, no military movement is weightier than an armed group's ability to enter the Bab al-Mandeb. He said the internationally recognized government withdrew after little fighting—possibly as a tactical move to prepare for future battles—and that Saudi-led airstrikes alone are unlikely to dislodge the Houthis; a unified ground force will be required."
-    },
-    {
-      "id": "mkt:01a09ac7-9a40-7118-855c-63dc13b53ad0",
-      "time": "2026-09-13 20:39:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS: Iran's president said talks with the UAE's Abu Dhabi crown prince went well and both agreed to put the past behind them."
     }
   ]
 }

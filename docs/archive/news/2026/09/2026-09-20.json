@@ -1,7 +1,24 @@
 {
   "date": "2026-09-20",
-  "count": 672,
+  "count": 674,
   "items": [
+    {
+      "id": "mkt:01a0bed7-a77d-7118-8616-485fad60c023",
+      "time": "2026-09-20 20:43:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SERES VP: AITO's Huawei content will not be reduced】SERES vice president Kang Bo said AITO remains a core member of Huawei's HarmonyOS intelligent-mobility family and Huawei will continue to provide enabling support. SERES holds a 10% stake in Shenzhen Yinwang, which aggregates multiple core Huawei smart-vehicle technologies; as a shareholder AITO will receive Huawei's latest technologies, products and supply guarantees. Kang said existing user rights and subsequent services, including OTA upgrades, will not be affected under the new cooperation model."
+    },
+    {
+      "id": "5104041",
+      "time": "2026-09-20 20:40:43",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【趙樂際同澳大利亞聯邦議會眾議長迪克會談】全國人大常委會委員長趙樂際20日在北京人民大會堂同澳大利亞聯邦議會眾議長迪克舉行會談。趙樂際表示，去年，習近平主席同阿爾巴尼斯總理在北京成功會晤，為中澳關係發展作出新的戰略指引。中方願同澳方一道，落實好兩國領導人重要共識，密切友好交往，增進政治互信，拓展務實合作，推動中澳全面戰略伙伴關係持續穩定向前發展。迪克表示，當前澳中關係穩健發展，各領域合作務實開展，兩國都從深入經貿往來中獲得裨益。此次澳眾議院訪華代表團成員來自澳不同地區、不同黨派，但都希望看到澳中關係行穩致遠。澳方堅持一箇中國政策，希望同中方加強貿易、文化、農業、礦業、應對氣候變化、人工智慧等領域交流合作，實現互利共贏。澳眾議院願同中國全國人大加強溝通交流，為雙方務實合作提供保障，助力澳中關係發展，造福兩國人民。（新華社）"
+    },
     {
       "id": "5104040",
       "time": "2026-09-20 20:35:48",
