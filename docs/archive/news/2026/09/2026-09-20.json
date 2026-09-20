@@ -1,7 +1,23 @@
 {
   "date": "2026-09-20",
-  "count": 423,
+  "count": 425,
   "items": [
+    {
+      "id": "5103840",
+      "time": "2026-09-20 15:13:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統辦公室：青瓦臺召開國家安全委員會會議。"
+    },
+    {
+      "id": "mkt:01a0bda9-6f51-7118-8614-7df996f1f0ef",
+      "time": "2026-09-20 15:13:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Blue House held a National Security Council meeting, the presidential office said."
+    },
     {
       "id": "5103839",
       "time": "2026-09-20 15:08:51",
