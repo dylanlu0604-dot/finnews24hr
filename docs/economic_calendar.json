@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20 08:52:21",
+  "updated": "2026-09-20 09:43:20",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -21,8 +21,130 @@
       "count": 143,
       "dates": [
         {
+          "date": "2026-09-20",
+          "count": 2,
+          "events": [
+            {
+              "id": "capital:1184708",
+              "fid": "1184708",
+              "interval": "this_week",
+              "date": "2026-09-20",
+              "time": "09:00",
+              "datetime": "2026-09-20 09:00:00",
+              "display_time": "09/20 09:00",
+              "country": "中國",
+              "title": "中國至9月21日一年期貸款市場報價利率",
+              "importance": 2,
+              "previous": "3 %",
+              "forecast": "3 %",
+              "actual": "3 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184708",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/20",
+                  "actual": "3",
+                  "forecast": "3",
+                  "previous": "3"
+                },
+                {
+                  "date": "07/20",
+                  "actual": "3",
+                  "forecast": "3",
+                  "previous": "3"
+                },
+                {
+                  "date": "06/22",
+                  "actual": "3",
+                  "forecast": "3",
+                  "previous": "3"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "3",
+                  "forecast": "3",
+                  "previous": "3"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "3",
+                  "forecast": "3",
+                  "previous": "3"
+                },
+                {
+                  "date": "03/20",
+                  "actual": "3",
+                  "forecast": "3",
+                  "previous": "3"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-09-13 00:06:13"
+            },
+            {
+              "id": "capital:1184709",
+              "fid": "1184709",
+              "interval": "this_week",
+              "date": "2026-09-20",
+              "time": "09:00",
+              "datetime": "2026-09-20 09:00:00",
+              "display_time": "09/20 09:00",
+              "country": "中國",
+              "title": "中國至9月21日五年期貸款市場報價利率",
+              "importance": 1,
+              "previous": "3.5 %",
+              "forecast": "3.5 %",
+              "actual": "3.5 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184709",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "08/20",
+                  "actual": "3.5",
+                  "forecast": "3.5",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "07/20",
+                  "actual": "3.5",
+                  "forecast": "3.5",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "06/22",
+                  "actual": "3.5",
+                  "forecast": "3.5",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "3.5",
+                  "forecast": "3.5",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "04/20",
+                  "actual": "3.5",
+                  "forecast": "3.5",
+                  "previous": "3.5"
+                },
+                {
+                  "date": "03/20",
+                  "actual": "3.5",
+                  "forecast": "3.5",
+                  "previous": "3.5"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-09-13 00:06:13"
+            }
+          ]
+        },
+        {
           "date": "2026-09-21",
-          "count": 12,
+          "count": 10,
           "events": [
             {
               "id": "capital:1184707",
@@ -135,122 +257,6 @@
                   "actual": "0.8",
                   "forecast": "-",
                   "previous": "0"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-09-13 00:06:13"
-            },
-            {
-              "id": "capital:1184708",
-              "fid": "1184708",
-              "interval": "this_week",
-              "date": "2026-09-21",
-              "time": "09:00",
-              "datetime": "2026-09-21 09:00:00",
-              "display_time": "09/21 09:00",
-              "country": "中國",
-              "title": "中國至9月21日一年期貸款市場報價利率",
-              "importance": 2,
-              "previous": "3 %",
-              "forecast": "3 %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184708",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "08/20",
-                  "actual": "3",
-                  "forecast": "3",
-                  "previous": "3"
-                },
-                {
-                  "date": "07/20",
-                  "actual": "3",
-                  "forecast": "3",
-                  "previous": "3"
-                },
-                {
-                  "date": "06/22",
-                  "actual": "3",
-                  "forecast": "3",
-                  "previous": "3"
-                },
-                {
-                  "date": "05/20",
-                  "actual": "3",
-                  "forecast": "3",
-                  "previous": "3"
-                },
-                {
-                  "date": "04/20",
-                  "actual": "3",
-                  "forecast": "3",
-                  "previous": "3"
-                },
-                {
-                  "date": "03/20",
-                  "actual": "3",
-                  "forecast": "3",
-                  "previous": "3"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-09-13 00:06:13"
-            },
-            {
-              "id": "capital:1184709",
-              "fid": "1184709",
-              "interval": "this_week",
-              "date": "2026-09-21",
-              "time": "09:00",
-              "datetime": "2026-09-21 09:00:00",
-              "display_time": "09/21 09:00",
-              "country": "中國",
-              "title": "中國至9月21日五年期貸款市場報價利率",
-              "importance": 1,
-              "previous": "3.5 %",
-              "forecast": "3.5 %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184709",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "08/20",
-                  "actual": "3.5",
-                  "forecast": "3.5",
-                  "previous": "3.5"
-                },
-                {
-                  "date": "07/20",
-                  "actual": "3.5",
-                  "forecast": "3.5",
-                  "previous": "3.5"
-                },
-                {
-                  "date": "06/22",
-                  "actual": "3.5",
-                  "forecast": "3.5",
-                  "previous": "3.5"
-                },
-                {
-                  "date": "05/20",
-                  "actual": "3.5",
-                  "forecast": "3.5",
-                  "previous": "3.5"
-                },
-                {
-                  "date": "04/20",
-                  "actual": "3.5",
-                  "forecast": "3.5",
-                  "previous": "3.5"
-                },
-                {
-                  "date": "03/20",
-                  "actual": "3.5",
-                  "forecast": "3.5",
-                  "previous": "3.5"
                 }
               ],
               "history_status": "cached",
@@ -23268,6 +23274,122 @@
   ],
   "items": [
     {
+      "id": "capital:1184708",
+      "fid": "1184708",
+      "interval": "this_week",
+      "date": "2026-09-20",
+      "time": "09:00",
+      "datetime": "2026-09-20 09:00:00",
+      "display_time": "09/20 09:00",
+      "country": "中國",
+      "title": "中國至9月21日一年期貸款市場報價利率",
+      "importance": 2,
+      "previous": "3 %",
+      "forecast": "3 %",
+      "actual": "3 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184708",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/20",
+          "actual": "3",
+          "forecast": "3",
+          "previous": "3"
+        },
+        {
+          "date": "07/20",
+          "actual": "3",
+          "forecast": "3",
+          "previous": "3"
+        },
+        {
+          "date": "06/22",
+          "actual": "3",
+          "forecast": "3",
+          "previous": "3"
+        },
+        {
+          "date": "05/20",
+          "actual": "3",
+          "forecast": "3",
+          "previous": "3"
+        },
+        {
+          "date": "04/20",
+          "actual": "3",
+          "forecast": "3",
+          "previous": "3"
+        },
+        {
+          "date": "03/20",
+          "actual": "3",
+          "forecast": "3",
+          "previous": "3"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-09-13 00:06:13"
+    },
+    {
+      "id": "capital:1184709",
+      "fid": "1184709",
+      "interval": "this_week",
+      "date": "2026-09-20",
+      "time": "09:00",
+      "datetime": "2026-09-20 09:00:00",
+      "display_time": "09/20 09:00",
+      "country": "中國",
+      "title": "中國至9月21日五年期貸款市場報價利率",
+      "importance": 1,
+      "previous": "3.5 %",
+      "forecast": "3.5 %",
+      "actual": "3.5 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184709",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "08/20",
+          "actual": "3.5",
+          "forecast": "3.5",
+          "previous": "3.5"
+        },
+        {
+          "date": "07/20",
+          "actual": "3.5",
+          "forecast": "3.5",
+          "previous": "3.5"
+        },
+        {
+          "date": "06/22",
+          "actual": "3.5",
+          "forecast": "3.5",
+          "previous": "3.5"
+        },
+        {
+          "date": "05/20",
+          "actual": "3.5",
+          "forecast": "3.5",
+          "previous": "3.5"
+        },
+        {
+          "date": "04/20",
+          "actual": "3.5",
+          "forecast": "3.5",
+          "previous": "3.5"
+        },
+        {
+          "date": "03/20",
+          "actual": "3.5",
+          "forecast": "3.5",
+          "previous": "3.5"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-09-13 00:06:13"
+    },
+    {
       "id": "capital:1184707",
       "fid": "1184707",
       "interval": "this_week",
@@ -23378,122 +23500,6 @@
           "actual": "0.8",
           "forecast": "-",
           "previous": "0"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-09-13 00:06:13"
-    },
-    {
-      "id": "capital:1184708",
-      "fid": "1184708",
-      "interval": "this_week",
-      "date": "2026-09-21",
-      "time": "09:00",
-      "datetime": "2026-09-21 09:00:00",
-      "display_time": "09/21 09:00",
-      "country": "中國",
-      "title": "中國至9月21日一年期貸款市場報價利率",
-      "importance": 2,
-      "previous": "3 %",
-      "forecast": "3 %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184708",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "08/20",
-          "actual": "3",
-          "forecast": "3",
-          "previous": "3"
-        },
-        {
-          "date": "07/20",
-          "actual": "3",
-          "forecast": "3",
-          "previous": "3"
-        },
-        {
-          "date": "06/22",
-          "actual": "3",
-          "forecast": "3",
-          "previous": "3"
-        },
-        {
-          "date": "05/20",
-          "actual": "3",
-          "forecast": "3",
-          "previous": "3"
-        },
-        {
-          "date": "04/20",
-          "actual": "3",
-          "forecast": "3",
-          "previous": "3"
-        },
-        {
-          "date": "03/20",
-          "actual": "3",
-          "forecast": "3",
-          "previous": "3"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-09-13 00:06:13"
-    },
-    {
-      "id": "capital:1184709",
-      "fid": "1184709",
-      "interval": "this_week",
-      "date": "2026-09-21",
-      "time": "09:00",
-      "datetime": "2026-09-21 09:00:00",
-      "display_time": "09/21 09:00",
-      "country": "中國",
-      "title": "中國至9月21日五年期貸款市場報價利率",
-      "importance": 1,
-      "previous": "3.5 %",
-      "forecast": "3.5 %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1184709",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "08/20",
-          "actual": "3.5",
-          "forecast": "3.5",
-          "previous": "3.5"
-        },
-        {
-          "date": "07/20",
-          "actual": "3.5",
-          "forecast": "3.5",
-          "previous": "3.5"
-        },
-        {
-          "date": "06/22",
-          "actual": "3.5",
-          "forecast": "3.5",
-          "previous": "3.5"
-        },
-        {
-          "date": "05/20",
-          "actual": "3.5",
-          "forecast": "3.5",
-          "previous": "3.5"
-        },
-        {
-          "date": "04/20",
-          "actual": "3.5",
-          "forecast": "3.5",
-          "previous": "3.5"
-        },
-        {
-          "date": "03/20",
-          "actual": "3.5",
-          "forecast": "3.5",
-          "previous": "3.5"
         }
       ],
       "history_status": "cached",
