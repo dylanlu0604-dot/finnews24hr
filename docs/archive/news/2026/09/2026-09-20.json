@@ -1,7 +1,31 @@
 {
   "date": "2026-09-20",
-  "count": 125,
+  "count": 128,
   "items": [
+    {
+      "id": "5103601",
+      "time": "2026-09-20 08:16:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“電子工業大米”價格最高漲十倍 行情劇烈波動】MLCC（多層陶瓷電容器），被業內稱為“電子工業大米”。小到手機家電，大到AI伺服器、新能源汽車，幾乎所有電子裝置都離不開。近期元器件市場走出極端分化行情：AI拉動高容量型號缺貨瘋漲，部分現貨暴漲數倍；普通消費級產品衝高回落，一冷一熱的背後，是AI算力浪潮的攪動。行情從5月底開始發酵。AI算力需求爆發的訊息傳導至元器件市場，海外大廠將消費級產能大量轉向AI高階產品，市場擔憂常規物料供給收緊，渠道商紛紛囤貨掃貨。進入6月，現貨市場進入“一天一價、甚至一小時一價”的火熱狀態，部分熱門型號短短一個月漲幅達7—8倍，現貨最高被炒至原價的2—10倍。到7月初，現貨價格衝到最高峰後迅速掉頭。前期大量囤貨的渠道商集中出貨，但下游消費電子終端需求疲軟，缺少足夠接盤力量，消費類MLCC價格迎來明顯回撥。商戶陳志孝以市場最通用料號0603-104舉例：“這顆是所有電容裡最常用的一個料，第二季度1000顆5元左右；6月底高峰時可以賣到30元，現在已經回落到10元。”（央視財經）"
+    },
+    {
+      "id": "mkt:01a0bc2b-5198-7118-8612-982398449740",
+      "time": "2026-09-20 08:15:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Spain government: about 10,000 migrants still stranded in Ceuta】On the 18th a Spanish government source said, citing National Security Forces deployed in Ceuta, about 10,000 migrants remain stranded in the Spanish enclave. Some have been placed in government reception centres; others are displaced and sheltering in makeshift tents in mountains and on beaches. Ceuta local authorities estimate about 13,000 migrants remain. A large influx from Morocco at the end of July triggered what Spain calls its most severe border migration crisis in years."
+    },
+    {
+      "id": "5103600",
+      "time": "2026-09-20 08:14:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭對莫斯科州發起大規模空中打擊。"
+    },
     {
       "id": "5103599",
       "time": "2026-09-20 08:13:11",
