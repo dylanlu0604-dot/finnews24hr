@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-21 00:48:44",
-  "count": 13692,
+  "updated": "2026-09-21 00:52:35",
+  "count": 13695,
   "items": [
+    {
+      "id": "5104215",
+      "time": "2026-09-21 00:51:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：我對與塞內加爾快速採取行動持樂觀態度。"
+    },
+    {
+      "id": "5104214",
+      "time": "2026-09-21 00:50:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：卡達搭建的緩衝機制目前起到防護作用。"
+    },
+    {
+      "id": "mkt:01a0bfb9-f547-7118-8618-583edcf110fd",
+      "time": "2026-09-21 00:50:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Joint Maritime Information Center said the US Navy assisted 97 transits through the Strait of Hormuz in the past 72 hours."
+    },
+    {
+      "id": "5104212",
+      "time": "2026-09-21 00:48:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合海事資訊中心：美國海軍在過去72小時內協助97艘船舶透過霍爾木茲海峽。"
+    },
+    {
+      "id": "5104210",
+      "time": "2026-09-21 00:48:22",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯聯邦安全域性：在與北約成員國愛沙尼亞接壤的部分邊境地區實施宵禁並出臺管控措施。平民禁止在天黑後離開村莊、在納爾瓦河上划船，以及在邊境5公里範圍內狩獵。"
+    },
     {
       "id": "mkt:01a0bfb7-a979-7118-8618-553e4d769da8",
       "time": "2026-09-21 00:47:59",
@@ -125517,22 +125559,6 @@
         "XAUUSD"
       ],
       "text": "【Unauthorized strike on merchant ships in Strait of Hormuz, including Qatar LNG carrier, undermines Pezeshkian's US outreach; senior officials say most were unaware】Iranian forces fired on three merchant vessels in the Strait of Hormuz; a Qatari LNG carrier was set alight and other ships were damaged. According to five government officials and two IRGC members, President Pezeshkian angrily phoned IRGC commander Ahmad Vahidi, who told him he had neither approved nor been notified of the action; the Supreme National Security Council likewise said it was not informed. Officials say a marginal hardline faction acted independently, and the covert operation derailed moderates’ efforts to negotiate with the United States and to repair Iran’s weak economy."
-    },
-    {
-      "id": "mkt:01a09bad-a475-7118-855d-ce77c3a2dc4e",
-      "time": "2026-09-14 00:50:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US Embassy in Beirut said the Israel-Lebanon framework agreement is the only mechanism to restore the two countries' sovereignty. It said the next round of Lebanon-Israel talks will be held in October in Rome, where the ambassador will discuss continued implementation of the framework."
-    },
-    {
-      "id": "5091656",
-      "time": "2026-09-14 00:48:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐貝魯特大使館：黎巴嫩與以色列兩國大使將於下週在華盛頓會晤，商討落實三方框架。"
     }
   ]
 }
