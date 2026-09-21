@@ -1,7 +1,58 @@
 {
-  "updated": "2026-09-21 15:23:15",
-  "count": 13591,
+  "updated": "2026-09-21 15:26:58",
+  "count": 13584,
   "items": [
+    {
+      "id": "5105034",
+      "time": "2026-09-21 15:26:16",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【小摩：三星電子第三季預覽儲存器業務保持強勁，維持“增持”評級】摩根大通發表研報指，三星電子第三季業績預覽顯示，儲存器業務營運保持強勁，惟短期受匯兌逆風影響。該行維持“增持”評級及目標價40萬韓元，認為中期風險回報有利，建議投資者吸納。該行上調HBM業務假設，預期三星電子HBM價值市佔由2025年的20%升至2026年及2027年的34%及39%，並預測2027年財政年度HBM混合平均售價同比升64%。受韓元走強影響，該行將2026年及2027年調整後每股盈利預測分別下調4%及4.6%，至分別48,788韓元及68,995韓元。考慮外匯變動，該行下調今年第三及第四季經營溢利預測介乎7萬億至9萬億韓元，至介乎102萬億至109萬億韓元，低於市場預測介乎109萬億至121萬億韓元。並輕微下調明後兩年每股盈測，反映韓元轉強，以美元計預測上調，源於HBM業務量、定價及利潤率預測獲上調。該行認為積極的股東回報對股價順利回升屬必要，並視第三季業績電話會議上的中期更新為下一個關鍵觀察點。"
+    },
+    {
+      "id": "5105033",
+      "time": "2026-09-21 15:25:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "開普勒-cheuvreux將大眾集團評級從買入下調至持有，目標價從92歐元下調至80歐元。"
+    },
+    {
+      "id": "5105032",
+      "time": "2026-09-21 15:24:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優必選等在廣東成立茂優智造機器人公司 註冊資本1000萬】天眼查App顯示，近日，廣東茂優智造機器人有限公司成立，法定代表人為趙俊偉，註冊資本1000萬人民幣，經營範圍含工業機器人制造、智慧機器人的研發、工業機器人銷售、服務消費機器人制造、服務消費機器人銷售、人工智慧應用軟體開發、貨物進出口等。股東資訊顯示，該公司由廣東茂名濱海控股有限公司、深圳市優必選科技股份有限公司分別持股70%、30%。"
+    },
+    {
+      "id": "mkt:01a0c2da-2220-7118-8620-fba7ef8caf9d",
+      "time": "2026-09-21 15:24:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: South Korea's foreign minister, in New York for the 81st UN General Assembly high-level meetings, will hold trilateral talks with US Secretary of State Rubio and Japanese foreign minister MOTEGI on the 21st (local time)."
+    },
+    {
+      "id": "5105031",
+      "time": "2026-09-21 15:23:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【刺殺海地總統的18名嫌疑人將在美受審】美國佛羅里達州南區聯邦檢察官賈森·雷丁·基尼奧內斯20日宣佈，涉嫌於2021年刺殺海地時任總統若弗內爾·莫伊茲的18名嫌疑人已乘軍機從海地被押送至美國，將在佛州受審。這標誌著對刺殺事件的追責進入“下一重大階段”。（新華社）"
+    },
+    {
+      "id": "5105030",
+      "time": "2026-09-21 15:23:08",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "伯恩斯坦將愛馬仕目標股價從2150歐元下調至1750歐元。"
+    },
     {
       "id": "5105028",
       "time": "2026-09-21 15:22:11",
@@ -124342,126 +124393,6 @@
         "Hang Seng Index"
       ],
       "text": "【MIIT urges industry leaders to adopt 60-day payment commitments to restore SME receivables predictability】Sept 14 — At a State Council press briefing on measures to address SME payment difficulties, MIIT vice minister Ke Jixin said the State Council general office recently issued a notice to strengthen governance of SME receivables. He said most industries lack formal settlement rules and some large firms exploit loopholes to delay payments by blurring payment terms. The notice clarifies how SMEs can obtain outstanding balances and directs industry leaders to publish and honor a 60-day payment commitment to encourage timely payments across supply chains."
-    },
-    {
-      "id": "mkt:01a09ecf-9270-7118-8569-f059528dca08",
-      "time": "2026-09-14 15:26:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【PBOC to facilitate bond issuance for firms that materially cut receivables and payment cycles】On Sept. 14, Cao Yuanyuan, head of the PBOC’s Financial Markets Department, told a State Council briefing the central bank will facilitate bond issuance for firms that demonstrably reduce accounts receivable and shorten payment cycles."
-    },
-    {
-      "id": "em:qqyh_zgyh:202609143873385675",
-      "time": "2026-09-14 15:26:34",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行：將對壓降賬款、賬期成效明顯企業給予債券融資便利】9月14日，中國人民銀行金融市場司負責人曹媛媛在國務院政策例行吹風會上表示，對壓降賬款及賬期成效明顯的企業，將在債券發行方面給予融資便利。"
-    },
-    {
-      "id": "5092558",
-      "time": "2026-09-14 15:26:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【贛鋒鋰電增資至35.1億 增幅約10%】天眼查App顯示，近日，江西贛鋒鋰電科技股份有限公司發生工商變更，註冊資本由約31.8億人民幣增至約35.1億人民幣，增幅約10%。該公司成立於2011年6月，法定代表人為肖海燕，經營範圍包括鋰離子動力電池、燃料電池、儲能電池的研發、生產和銷售等。"
-    },
-    {
-      "id": "5092557",
-      "time": "2026-09-14 15:26:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【《電信和網際網路生成式人工智慧服務安全分級指南》團體標準宣貫會召開】為加快行業生成式人工智慧服務安全規範化發展，發揮團體標準的實踐指導作用，2026年9月8日，在工業和資訊化部網路安全管理局指導下，中國通訊標準化協會組織召開《電信和網際網路生成式人工智慧服務安全分級指南》團體標準宣貫會。會議由中國通訊標準化協會副秘書長趙瑩主持，工業和資訊化部網路安全管理局相關同志出席。來自中國電信集團有限公司、中國行動通訊集團有限公司、中國聯通研究院、北京抖音資訊服務有限公司、百度線上網路技術（北京）有限公司、螞蟻科技集團股份有限公司、北京智譜華章科技股份有限公司、科大訊飛股份有限公司、北京快手科技有限公司、上海尋夢資訊科技有限公司、騰訊雲端計算（北京）有限責任公司、阿里雲端計算有限公司、華為雲端計算技術有限公司、資料堂（北京）科技股份有限公司、天融信科技集團股份有限公司、杭州安恆資訊科技股份有限公司、西安郵電大學、中國電子技術標準化研究院、國家工業資訊保安發展研究中心等30餘家單位的代表參加會議。（中國信通院）"
-    },
-    {
-      "id": "5092556",
-      "time": "2026-09-14 15:26:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德勤：上調香港2026年零售銷售額預測至4120億港元 同比增長8.4%】香港零售市場在2026年上半年表現較預期強勁，銷售額約2030億港元，同比上升9.7%。受惠於上半年強勁增長動力，德勤中國將2026年全年香港零售銷售預測調高至4120億港元，同比增長8.4%，並預料下半年增長將達7%。"
-    },
-    {
-      "id": "5092555",
-      "time": "2026-09-14 15:25:59",
-      "tags": [
-        "宏觀",
-        "央行",
-        "焦點"
-      ],
-      "text": "【央行：將對壓降賬款、賬期成效明顯企業給予債券融資便利】9月14日，中國人民銀行金融市場司負責人曹媛媛在國務院政策例行吹風會上表示，對壓降賬款及賬期成效明顯的企業，將在債券發行方面給予融資便利。"
-    },
-    {
-      "id": "5092554",
-      "time": "2026-09-14 15:25:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "宇樹科技：G1+全面升級。運動效能、感知互動、智慧體驗，三大維度6大升級一次到位。"
-    },
-    {
-      "id": "5092553",
-      "time": "2026-09-14 15:25:09",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【財政部、應急管理部印發《緊急採購管理暫行辦法》】財政部、應急管理部印發《緊急採購管理暫行辦法》，在保證採購需求和時效性的前提下，鼓勵採購人優先採購有利於落實促進中小企業發展、支援科技創新、保護環境、促進綠色低碳迴圈發展、扶持不發達地區和少數民族地區等政策目標的貨物、工程和服務。採購人應當按照合同約定的資金支付方式、時間和條件，及時向供應商支付合同資金。對於有預付安排的合同，鼓勵採購人將合同預付款比例提高到百分之四十以上，保障緊急採購活動有序開展。"
-    },
-    {
-      "id": "5092552",
-      "time": "2026-09-14 15:24:46",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【工信部：引導龍頭企業帶頭及時付款，讓中小企業回款可期】9月14日，國務院新聞辦公室舉行政策例行吹風會介紹加強中小企業回款難問題治理有關工作情況。工業和資訊化部副部長柯吉欣表示，工信部會同中國人民銀行、國務院國資委、市場監管總局、中國證監會等各部門著力治理中小企業回款問題，出臺一系列政策，對大型企業及時支付中小企業賬款提出明確要求。隨著工作的推進，我們也注意到，部分大型企業在對同行“卷價格”的同時，利用其市場競爭優勢地位，拉長中小企業的賬期，擠佔了中小企業的現金流，影響中小企業正常運轉，且影響行業健康發展，阻礙國民經濟暢通迴圈，急需採取措施進行專項整治。近期，國務院辦公廳釋出《關於加強中小企業回款難問題治理有關工作的通知》（下稱《通知》），當前多數行業尚未出臺專門的結算支付規則，部分大型企業利用漏洞，濫用市場競爭優勢，透過模糊賬期的拖延結算節點，《通知》讓中小企業以什麼方式拿到尾款做到心中有數，同時引導本行業龍頭企業率先發布並踐行60日付款承諾，透過引導龍頭企業先行一步、帶頭表率，帶動整個行業形成及時支付的良好生態。"
-    },
-    {
-      "id": "5092551",
-      "time": "2026-09-14 15:24:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "宇樹科技：G1+全面升級。運動效能、感知互動、智慧體驗，三大維度6大升級一次到位。"
-    },
-    {
-      "id": "te:markets:583448",
-      "time": "2026-09-14 15:23:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Spain",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 25.45 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 2.42%, and in the last 12 months, it increased 55.5%."
-    },
-    {
-      "id": "5092550",
-      "time": "2026-09-14 15:23:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【倪虹會見卡達市政大臣阿提亞】近日，住房城鄉建設部部長倪虹會見卡達市政大臣阿提亞。雙方深入交流住房城鄉建設領域新技術、新材料、新產品的應用與合作。倪虹表示，中方正大力推進城市更新，建設安全、舒適、綠色、智慧的“好房子”和城市基礎設施生命線安全工程。中方願與卡方在住房和市政公用設施建設、建築科技等領域加強合作，為兩國人民安居樂業、幸福生活創造更好條件。"
-    },
-    {
-      "id": "te:economy:583447",
-      "time": "2026-09-14 15:23:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Lithuania",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Lithuania Current Account Shifts to Surplus — Lithuania’s current account posted a surplus of EUR 88 million in July 2026, shifting from a deficit of EUR 324.8 million in the corresponding month a year earlier. The services account surplus increased to EUR 1,097.8 million from EUR 806.5 million in July 2025, while the secondary income account surplus also rose to EUR 44.1 million from EUR 30.3 million. Meanwhile, the goods account deficit narrowed to EUR 707 million from EUR 910.9 million over the same period. In contrast, the primary income account deficit widened to EUR 347 million from EUR 250.7 million, partly offsetting the improvements in the other accounts."
     }
   ]
 }
