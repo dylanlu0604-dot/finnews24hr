@@ -1,7 +1,111 @@
 {
   "date": "2026-09-21",
-  "count": 468,
+  "count": 478,
   "items": [
+    {
+      "id": "5104636",
+      "time": "2026-09-21 09:46:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【人形機器人概念震盪反彈 美湖股份漲停】早盤人形機器人概念震盪反彈，美湖股份漲停，明新旭騰觸及漲停，祥鑫科技、福祿娃、禾川科技、萬向錢潮、模塑科技跟漲。"
+    },
+    {
+      "id": "5104635",
+      "time": "2026-09-21 09:46:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST路通成立科技新公司 含AI及機器人業務】企查查APP顯示，近日，成都路通創心科技有限公司成立，經營範圍包含物聯網技術研發；智慧機器人銷售；智慧機器人的研發；人工智慧硬體銷售；人工智慧基礎軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由ST路通全資持股。"
+    },
+    {
+      "id": "mkt:01a0c1a4-c11c-7118-861c-124aacdfd75c",
+      "time": "2026-09-21 09:46:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share gaming sector rallied briefly; Dianhun Network hit the daily limit-up, while Xunyou Technology, Youzu Network, Zhongqingbao, Baotong Technology and Zhangqu Technology also advanced."
+    },
+    {
+      "id": "te:markets:585163",
+      "time": "2026-09-21 09:46:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Bitcoin Approaches January Highs — Bitcoin rose toward $82,000 in late September, approaching its highest level since January amid renewed institutional demand. US spot Bitcoin ETFs recorded $433 million in net inflows on September 18, led by Fidelity and BlackRock, reversing heavy outflows earlier in the week. Still, the funds ended the week with only $6.2 million in net inflows. The gain came despite the Federal Reserve raising rates by 25 bps last week and signaling further tightening, while US Treasury yields remained elevated. The divergence from the broader macro backdrop has raised interest in Bitcoin as a potential hedge against market and economic risks. Meanwhile, the Senate failed to advance the Clarity Act on September 15, while the SEC and CFTC moved ahead with crypto rulemaking under existing authority. The CFTC also submitted a crypto-market proposal to the White House for review."
+    },
+    {
+      "id": "5104634",
+      "time": "2026-09-21 09:46:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【遊戲板塊短線拉昇，電魂網路觸及漲停】遊戲板塊短線拉昇，電魂網路觸及漲停，迅遊科技、遊族網路、中青寶、寶通科技、掌趣科技跟漲。"
+    },
+    {
+      "id": "mkt:01a0c1a4-0514-7118-861c-08366449d289",
+      "time": "2026-09-21 09:45:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06127.HK",
+        "Impact bullish",
+        "02359.HK",
+        "02696.HK"
+      ],
+      "text": "Hong Kong innovative-drug names extended gains; JOINN Laboratories (06127.HK) rose over 5%, WuXi AppTec (02359.HK) rose over 3%, while 02696.HK and 02162.HK also advanced."
+    },
+    {
+      "id": "mkt:01a0c1a3-ea6e-7118-861c-02906c2ca819",
+      "time": "2026-09-21 09:45:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Westpac: Hawkish signals outweigh tactical reasons to wait at the Reserve Bank of Australia】Westpac chief economist Luci Ellis has brought forward her expectation for a Reserve Bank of Australia (RBA) rate hike to September, saying the governor's comments satisfied the conditions set at the August meeting for further tightening. She acknowledged tactical reasons to delay — August monthly CPI due next day, easing Middle East tensions, potential fuel excise adjustments or a weak jobs print could complicate timing — but judged hawkish signals to carry greater weight. Westpac expects a divided vote at the RBA as members differ on trend productivity, labour supply and the degree of labour-market slack; the underemployment rate has risen sharply."
+    },
+    {
+      "id": "5104633",
+      "time": "2026-09-21 09:45:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【醫藥生物板塊拉昇 諾禾致源20%漲停】醫藥生物板塊拉昇，截至發稿，諾禾致源20%漲停，哈藥股份等漲停；透景生命、精華製藥、成都先導等漲幅居前。"
+    },
+    {
+      "id": "5104632",
+      "time": "2026-09-21 09:45:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量271億元。"
+    },
+    {
+      "id": "mkt:01a0c1a3-01cf-7118-861b-fa63e909c04c",
+      "time": "2026-09-21 09:44:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share recent-listing C ShenGu rallied again, triggering another temporary trading halt; last traded at 48 yuan, up 60% from the open, while its intraday decline versus the prior close narrowed to 16.91%."
+    },
     {
       "id": "5104631",
       "time": "2026-09-21 09:43:39",
