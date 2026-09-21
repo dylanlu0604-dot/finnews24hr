@@ -1,7 +1,28 @@
 {
   "date": "2026-09-22",
-  "count": 177,
+  "count": 179,
   "items": [
+    {
+      "id": "mkt:01a0c56f-1bed-7118-8631-7e1883d5153c",
+      "time": "2026-09-22 03:26:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil futures fall sharply on the 21st】At the close on the 21st, NYMEX October WTI crude futures fell $4.52 to settle at $95.78 a barrel, down 4.51%. ICE November Brent futures fell $3.53 to settle at $100.34 a barrel, down 3.4%."
+    },
+    {
+      "id": "5106308",
+      "time": "2026-09-22 03:24:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯政府已免除穀物出口關稅至年底】俄羅斯已將小麥、大麥和玉米的出口關稅設定為零，自2026年9月1日起至12月31日有效。此舉旨在支援本國農業部門的出口潛力。俄羅斯還將對葵花籽油和葵花籽粕的出口關稅實行上限控制：年底前，葵花籽油的出口關稅上限為每噸7,748盧布，葵花籽粕的關稅上限為每噸312盧布。"
+    },
     {
       "id": "5106307",
       "time": "2026-09-22 03:22:05",
