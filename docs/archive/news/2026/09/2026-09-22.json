@@ -1,7 +1,26 @@
 {
   "date": "2026-09-22",
-  "count": 148,
+  "count": 150,
   "items": [
+    {
+      "id": "5106288",
+      "time": "2026-09-22 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.31%，報25120.90點，高水78.19點。"
+    },
+    {
+      "id": "mkt:01a0c556-2e61-7118-8631-3d7a68fb7544",
+      "time": "2026-09-22 02:59:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "The Israel Defense Forces (IDF) said on Monday that during routine operations in the \"Yellow Line\" area an engineering vehicle ran over an explosive device; no personnel were injured. The IDF called the incident a blatant violation of the ceasefire by Hamas and said it struck Hamas infrastructure in response."
+    },
     {
       "id": "mkt:01a0c552-dd92-7118-8631-33f7409017ef",
       "time": "2026-09-22 02:55:37",

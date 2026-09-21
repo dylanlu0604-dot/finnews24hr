@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-22 02:57:07",
-  "count": 13458,
+  "updated": "2026-09-22 03:01:33",
+  "count": 13456,
   "items": [
+    {
+      "id": "5106288",
+      "time": "2026-09-22 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.31%，報25120.90點，高水78.19點。"
+    },
+    {
+      "id": "mkt:01a0c556-2e61-7118-8631-3d7a68fb7544",
+      "time": "2026-09-22 02:59:14",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "The Israel Defense Forces (IDF) said on Monday that during routine operations in the \"Yellow Line\" area an engineering vehicle ran over an explosive device; no personnel were injured. The IDF called the incident a blatant violation of the ceasefire by Hamas and said it struck Hamas infrastructure in response."
+    },
     {
       "id": "mkt:01a0c552-dd92-7118-8631-33f7409017ef",
       "time": "2026-09-22 02:55:37",
@@ -123238,43 +123257,6 @@
         "Energy"
       ],
       "text": "Venezuela may be allowed to export coal as part of an agreement with the US, US Interior Secretary Burgum said."
-    },
-    {
-      "id": "5093817",
-      "time": "2026-09-15 03:01:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本製鐵（新日鐵）將在斯洛伐克鋼鐵廠投資9億歐元。"
-    },
-    {
-      "id": "5093816",
-      "time": "2026-09-15 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.64%，報25032.95點，高水115.35點。"
-    },
-    {
-      "id": "mkt:01a0a148-abae-7118-857d-fd95efc4e667",
-      "time": "2026-09-15 02:58:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【IRGC says Strait of Hormuz remains under \"smart control\"】The IRGC navy says the Strait of Hormuz is closed and remains under IRGC \"smart control.\" It reports tanker AlGaya (IMO 9325336) struck a sea mine and exploded while attempting to transit a southern no‑go zone in the strait; firefighting failed and the vessel is on fire. Iran says it had warned vessels passage carried risk. Whether the blast was caused by a sea mine and the current navigability of the strait await confirmation from shipping authorities or other sources."
-    },
-    {
-      "id": "5093815",
-      "time": "2026-09-15 02:57:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國銀行執行長稱，投行團隊的工作表現良好。"
     }
   ]
 }
