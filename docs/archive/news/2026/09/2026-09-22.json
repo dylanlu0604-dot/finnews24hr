@@ -1,7 +1,58 @@
 {
   "date": "2026-09-22",
-  "count": 216,
+  "count": 220,
   "items": [
+    {
+      "id": "mkt:01a0c592-ddd2-7118-8631-ef0f6d45d3cc",
+      "time": "2026-09-22 04:05:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed higher on Monday, Sept. 21: Dow Jones Industrial Average up 367.08 points (+0.71%) to 52,049.72; S&P 500 up 114.26 points (+1.49%) to 7,764.76; Nasdaq Composite up 599.55 points (+2.26%) to 27,122.09."
+    },
+    {
+      "id": "5106334",
+      "time": "2026-09-22 04:03:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "AISI：美國鋼鐵公司截至9月19日當週產能利用率為77.9%。"
+    },
+    {
+      "id": "5106333",
+      "time": "2026-09-22 04:03:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "AMD股價上漲9.9%，收盤市值突破1萬億美元。"
+    },
+    {
+      "id": "mkt:01a0c590-fb48-7118-8631-e7dd5fa7e7ea",
+      "time": "2026-09-22 04:03:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Tesla",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "Nasdaq100",
+        "Impact bullish",
+        "META.O",
+        "AMD.O"
+      ],
+      "text": "【US close: Nasdaq up 2.26%, Meta surges 11%】US stocks closed Monday: Dow Jones initially up 0.7%, S&P 500 up 1.49%, Nasdaq up 2.26%. Key movers: Intel (INTC.O) +12%, Meta Platforms (META.O) +11%, Qualcomm (QCOM.O) +9%, AMD (AMD.O) nearly +10%, Tesla (TSLA.O) +3%. Nasdaq Golden Dragon China Index +0.7%; Alibaba (BABA.N) up over 2%."
+    },
     {
       "id": "5106332",
       "time": "2026-09-22 04:01:20",

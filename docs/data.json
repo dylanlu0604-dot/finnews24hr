@@ -1,7 +1,58 @@
 {
-  "updated": "2026-09-22 04:02:44",
-  "count": 13463,
+  "updated": "2026-09-22 04:06:34",
+  "count": 13464,
   "items": [
+    {
+      "id": "mkt:01a0c592-ddd2-7118-8631-ef0f6d45d3cc",
+      "time": "2026-09-22 04:05:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed higher on Monday, Sept. 21: Dow Jones Industrial Average up 367.08 points (+0.71%) to 52,049.72; S&P 500 up 114.26 points (+1.49%) to 7,764.76; Nasdaq Composite up 599.55 points (+2.26%) to 27,122.09."
+    },
+    {
+      "id": "5106334",
+      "time": "2026-09-22 04:03:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "AISI：美國鋼鐵公司截至9月19日當週產能利用率為77.9%。"
+    },
+    {
+      "id": "5106333",
+      "time": "2026-09-22 04:03:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "AMD股價上漲9.9%，收盤市值突破1萬億美元。"
+    },
+    {
+      "id": "mkt:01a0c590-fb48-7118-8631-e7dd5fa7e7ea",
+      "time": "2026-09-22 04:03:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Tesla",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "Nasdaq100",
+        "Impact bullish",
+        "META.O",
+        "AMD.O"
+      ],
+      "text": "【US close: Nasdaq up 2.26%, Meta surges 11%】US stocks closed Monday: Dow Jones initially up 0.7%, S&P 500 up 1.49%, Nasdaq up 2.26%. Key movers: Intel (INTC.O) +12%, Meta Platforms (META.O) +11%, Qualcomm (QCOM.O) +9%, AMD (AMD.O) nearly +10%, Tesla (TSLA.O) +3%. Nasdaq Golden Dragon China Index +0.7%; Alibaba (BABA.N) up over 2%."
+    },
     {
       "id": "5106332",
       "time": "2026-09-22 04:01:20",
@@ -123286,34 +123337,6 @@
         "USDJPY"
       ],
       "text": "【Dollar index up 0.27% to 99.388 on 14th】The dollar index, which measures the dollar against six major currencies, rose 0.27% to 99.388 at the FX close. At the New York close: EUR/USD 1.1557, down from 1.1596; GBP/USD 1.3511, down from 1.3525; USD/JPY 154.05, up from 153.72; USD/CHF 0.8163, down from 0.8166; USD/CAD 1.3902, up from 1.3865; USD/SEK 9.7412, up from 9.7044."
-    },
-    {
-      "id": "te:markets:583613",
-      "time": "2026-09-15 04:05:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Stocks Drop on Chipmaker Selloff — US equity indices closed lower on Monday, dragged down by a selloff in chipmakers. The S&P 500 fell 0.5% and the Nasdaq dropped 0.8%, while the Dow shed 152 points. Anthropic CEO Dario Amodei called for a slower pace of AI development to mitigate risks from increasingly capable models, with OpenAI and xAI CEOs Sam Altman and Elon Musk endorsing the view. The focus on AI risks dampened speculative demand for chipmakers and AI infrastructure companies. Nvidia fell 3.4%, Broadcom tumbled 4.8%, Micron retreated 5.2%, and Intel shed 5.6%. Lam Research sank 8.3% and GE Vernova slumped 8.6%. Meanwhile, the 10-year Treasury yield briefly surpassed 5% for the first time since 2023 as surging crude prices raised concerns over inflation ahead of Wednesday’s Fed decision. Markets widely expect a 25-bp hike. The rejection of talks with GCC states prolonged the halt in tanker flows from the region, pushing energy prices higher. Losses in banking and manufacturing stocks also pressured the Dow."
-    },
-    {
-      "id": "5093852",
-      "time": "2026-09-15 04:04:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行收跌5.1%，創2025年4月以來最大單日跌幅。"
-    },
-    {
-      "id": "5093851",
-      "time": "2026-09-15 04:03:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：和平是當務之急。能源、糧食通道以及關鍵基礎設施，所有這些都應納入停止打擊相關談判的範疇。我們需要一項有力且公平的解決方案，該方案不能只為 “選舉” 服務，而應帶來永久和平。我們期待夥伴方拿出具體方案。"
     }
   ]
 }
