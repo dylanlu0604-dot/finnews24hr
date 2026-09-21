@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-22 03:20:45",
-  "count": 13456,
+  "updated": "2026-09-22 03:24:36",
+  "count": 13459,
   "items": [
+    {
+      "id": "5106307",
+      "time": "2026-09-22 03:22:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "威瑞森：新澤西州的光纜被切斷，該地區的施工承包商切斷了我們的光纜，本公司對此事件不承擔任何責任；已第一時間將技術人員派往現場，正在全力搶修受損光纜，以恢復網路連線。"
+    },
+    {
+      "id": "mkt:01a0c56a-6c78-7118-8631-7136b2e0993b",
+      "time": "2026-09-22 03:21:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New York Times: SoftBank-backed SB Energy delays IPO】New York Times reports SoftBank-backed data-center operator SB Energy has delayed a planned IPO this month after investors questioned the $50 billion-plus valuation it sought, four people familiar with the deal's marketing said. Investment banks were unable to find enough buyers within the company's and banks' target price range. SB Energy had proposed an Ohio development it said would be the world’s largest data center."
+    },
+    {
+      "id": "5106306",
+      "time": "2026-09-22 03:20:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價21日顯著下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌4.52美元，收於每桶95.78美元，跌幅為4.51%；11月交貨的倫敦布倫特原油期貨價格下跌3.53美元，收於每桶100.34美元，跌幅為3.4%。"
+    },
+    {
+      "id": "5106305",
+      "time": "2026-09-22 03:20:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱在“黃線”附近遭襲 對哈馬斯目標實施報復打擊】當地時間21日晚間，以色列國防軍發表宣告稱，以軍一輛工程車當天在“黃線”附近地區遭遇爆炸襲擊，未造成人員傷亡。作為回應，以軍已對巴勒斯坦伊斯蘭抵抗運動（哈馬斯）的軍事基礎設施發動了打擊。（央視新聞）"
+    },
     {
       "id": "5106304",
       "time": "2026-09-22 03:18:20",
@@ -123244,14 +123276,6 @@
         "MKT News"
       ],
       "text": "Iranian President Pezeshkian said allegations that Iran is seeking nuclear weapons are pure lies, likening them to other U.S.-made falsehoods, and warned such accusations are being used as a pretext to attack Iran."
-    },
-    {
-      "id": "mkt:01a0a15f-aa2e-7118-857e-588d0d725607",
-      "time": "2026-09-15 03:23:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Semafor reports Senate Republican leader Thune said he was not informed in advance of Trump’s proposal to issue $5,000 checks, saying there is no concrete proposal and that Congress would play an important role if the measure were pursued."
     }
   ]
 }
