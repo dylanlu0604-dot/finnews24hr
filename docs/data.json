@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-21 23:39:12",
-  "count": 13466,
+  "updated": "2026-09-21 23:43:42",
+  "count": 13469,
   "items": [
+    {
+      "id": "5106191",
+      "time": "2026-09-21 23:42:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟已達成臨時協議，擬解除對兩名俄羅斯寡頭的制裁。"
+    },
+    {
+      "id": "mkt:01a0c4a2-39ed-7118-862e-39ef87249cab",
+      "time": "2026-09-21 23:42:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China foreign minister Wang Yi holds phone call with German counterpart Wadephul】Chinese foreign minister Wang Yi spoke by phone with German foreign minister Wadephul on Sept. 21. Citing both countries’ status as major economies and comprehensive strategic partners, they agreed to step up strategic communication and deepen practical cooperation in response to current shocks from unilateralism and deglobalization. They said enhanced China–Germany cooperation would send a positive signal in defense of multilateralism and free trade, bolster confidence in bilateral ties and play a constructive role for China–EU relations, and that mutually beneficial cooperation should be advanced to deliver further results."
+    },
+    {
+      "id": "5106190",
+      "time": "2026-09-21 23:42:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "匈牙利MOL公司：與烏克蘭國家石油天然氣公司（Naftogaz）簽署的旨在為烏克蘭建立燃料儲備的戰略儲存意向書，符合國際合作的框架。"
+    },
+    {
+      "id": "te:economy:585370",
+      "time": "2026-09-21 23:41:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "South Africa 10-Year Bond Yield Edges Down — South Africa’s 10-year government bond yield eased to around 8.78%, close to its lowest since September, tracking other peers. Falling prices of crude oil amid hopes of easing geopolitical tensions in the Middle East helped to alleviate concerns over energy disruptions and inflationary pressures. Meanwhile, attention turns to domestic inflation data and the South African Reserve Bank's decision, both set for September 23rd. While consumer inflation eased to 4.3% in July from 5% in June, is expected to rise again in August following domestic diesel-price adjustments. A 25 bps rate hike could be on the table for South Africa this week, as markets increasingly expect the central bank to tighten policy amid renewed inflation concerns driven by higher oil prices and the Federal Reserve’s latest move. Although inflation expectations came in slightly lower in Q3, rising oil prices remain a key risk ahead while economic activity remains weak. The SARB's decision is still uncertain."
+    },
+    {
+      "id": "5106189",
+      "time": "2026-09-21 23:40:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦與伊朗兩國內政部長就雙邊關係和地區局勢交換意見】當地時間21日，巴基斯坦內政部長穆赫辛·納克維抵達伊朗首都德黑蘭，並與伊朗內政部長伊斯坎達爾·莫梅尼舉行會晤。據巴基斯坦內政部發布的訊息，雙方就巴基斯坦與伊朗雙邊關係以及地區最新局勢交換意見。莫梅尼在會談中感謝巴基斯坦持續為維護地區和平作出的努力。納克維表示，巴伊兩國關係將在未來進一步得到加強。（央視新聞）"
+    },
+    {
+      "id": "te:markets:585369",
+      "time": "2026-09-21 23:40:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Nasdaq Surges on Tech Gains — US stocks extended gains for a third session as Treasury yields eased and momentarily dampened an adverse macroeconomic backdrop, while tech stocks underwent a fresh rally. The S&P 500 rose 1% and the Nasdaq 100 jumped 2.3% to a three-month high, while the Dow added 0.5%. Signs that the GCC extended diplomatic efforts for Tehran to lift their blockade on fuel tankers drove crude oil and product prices to ease further from their peaks this month, hence easing the recent pressure on Treasury securities. Lower credit costs improved the outlook for AI hyperscalers to continue issuing record levels of debt, supporting chip producers and AI infrastructure stocks. The sector was also impacted by debates on risks around AI safety. Intel, AMD, Seagate, Marvell, and Western Digital rose between 13% and 7%. Meanwhile, Meta added surged 8% on positive responses to its Muse AI agent. Banks also edged higher on lower borrowing costs."
+    },
+    {
+      "id": "mkt:01a0c49f-c369-7118-862e-3222e7d939c2",
+      "time": "2026-09-21 23:39:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European indices closed higher on Monday, Sep 21: Germany's DAX up 288.12 pts (+1.14%) at 25,584.56; UK's FTSE 100 up 82.71 pts (+0.78%) at 10,741.84; France's CAC 40 up 73.92 pts (+0.92%) at 8,138.94; Euro Stoxx 50 up 82.65 pts (+1.33%) at 6,318.85; Spain's IBEX 35 up 213.36 pts (+1.09%) at 19,727.16; Italy's FTSE MIB up 824.25 pts (+1.60%) at 52,369.50."
+    },
+    {
+      "id": "5106188",
+      "time": "2026-09-21 23:39:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘液化石油氣運輸船在霍爾木茲海峽遇襲】英國海上貿易行動辦公室21日通報說，一艘液化石油氣運輸船在駛出霍爾木茲海峽時遭不明投射物碎片擊中，船上人員安全。通報說，船隻將繼續駛往下一個停靠港，暫無環境汙染情況報告。有關部門正在調查該事件。這是該機構當日通報的第二起襲擊事件。當天早些時候，一艘油輪在霍爾木茲海峽航行時遭不明投射物襲擊，2名船員受輕傷，船隻仍可依靠自身動力航行。（新華社）"
+    },
     {
       "id": "5106187",
       "time": "2026-09-21 23:36:28",
@@ -123255,48 +123333,6 @@
         "國際"
       ],
       "text": "美國戰略石油儲備原油庫存上週減少約360萬桶，降至2.85億桶，為1982年以來最低水平。"
-    },
-    {
-      "id": "5093693",
-      "time": "2026-09-14 23:43:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部：雅培將就嬰兒配方奶粉相關指控達成和解。"
-    },
-    {
-      "id": "5093692",
-      "time": "2026-09-14 23:43:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部：雅培同意支付超3.84億美元和解款項。"
-    },
-    {
-      "id": "5093691",
-      "time": "2026-09-14 23:42:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國發動機企業道依茨計劃透過私募配售，增發最高佔總股本10%的新股以募資。"
-    },
-    {
-      "id": "5093690",
-      "time": "2026-09-14 23:41:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：一直在對抗全球範圍內的反猶煽動，但如果這類煽動出自我們內部，那是絕對無法容忍的。如今兩名以色列導演在威尼斯電影節上將以色列國防軍描繪成戰爭罪犯，還收穫了掌聲。"
-    },
-    {
-      "id": "5093689",
-      "time": "2026-09-14 23:40:57",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：AI競爭決定全域性，美國需保持AI領先地位】特朗普發文稱，AI所需要的管控與“安全護欄”僅靠一位強大睿智的總統即可，美國目前就具備這一條件。他表示特朗普政府已約束AI行業從業者的危險行為，點名Anthropic的CEO達里奧，稱其如今偽裝成“乖乖好人”，美方將持續保持監管。特朗普稱政府手握針對這類企業強大的刑事與監管權力。他聲稱當下存在針對AI和資料中心的惡意陰謀，誰贏得AI競爭，就能贏得全域性。他強調美國領先其他國家，並且會繼續保持優勢，同時警告陰謀論者、叛國者與洩密者。"
     }
   ]
 }
