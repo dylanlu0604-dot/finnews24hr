@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-22 06:44:23",
-  "count": 13449,
+  "updated": "2026-09-22 06:48:17",
+  "count": 13446,
   "items": [
+    {
+      "id": "5106409",
+      "time": "2026-09-22 06:45:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今年秋招，公私募打響AI人才爭奪戰】2027屆秋季校園招聘季拉開帷幕，公募基金行業對人工智慧人才的爭奪熱度較高。與往年零星試水不同，今年多家頭部基金公司透過設立AI人才專項、金融科技專場或AI方向崗位等方式，系統性擴大AI人才招聘規模，崗位設定從底層演算法研究延伸至大模型應用、智慧體開發及平臺架構。這標誌著，公募基金對AI的佈局正從“單點探索”轉向“系統化嵌入”。"
+    },
+    {
+      "id": "te:markets:585414",
+      "time": "2026-09-22 06:45:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Appreciates largely by 10.30% — Top crypto gainers are XRP (10.30%), Bitcoin (6.46%) and Ether (4.96%)."
+    },
     {
       "id": "5106408",
       "time": "2026-09-22 06:42:31",
@@ -123143,49 +123162,6 @@
         "MKT News"
       ],
       "text": "No Going Back PAC, a newly formed super PAC tied to Trump’s political operation, reported roughly $21m in independent expenditures in competitive Senate and House races. Trump’s main super PAC, MAGA Inc., reported about $403.5m cash on hand as of July 31; Trump has said his political operation could spend up to $500m on the midterms."
-    },
-    {
-      "id": "5093934",
-      "time": "2026-09-15 06:47:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月中國快遞發展指數同比增長1.5%】入秋以來，各類海鮮、特色農產品集中豐收上市，快遞物流也迎來產銷寄遞高峰。國家郵政局最新資料顯示，8月中國快遞發展指數為431.7，同比增長1.5%。郵政快遞企業緊扣開漁節、特色農產品豐收等消費節點，加大運力與服務資源投入，全力保障特色農產品線上流通，讓新鮮農漁產品更快送到消費者手中。預計8月快遞業務量同比增長3.7%左右。隨著業務規模持續擴大，快遞物流精細化服務不斷升級。（央視新聞）"
-    },
-    {
-      "id": "5093933",
-      "time": "2026-09-15 06:47:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【墨西哥西南近海地區發生5.5級地震】據墨西哥國家地震監測局訊息稱，當地時間9月14日14時38分58秒，墨西哥拉薩羅卡爾德納斯市西南方向約387公里處海域發生5.5級地震，震源深度約10公里。拉薩羅卡爾德納斯市位於該國西南部的米卻肯州。墨西哥地震預警系統沒有啟動。目前，暫無海嘯預警報告，暫無人員傷亡和財產損失報告。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0a219-95ac-7118-8580-69c04cdbfc63",
-      "time": "2026-09-15 06:46:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Disney (DIS.N) is seeking to bring more remote employees back to the office."
-    },
-    {
-      "id": "5093932",
-      "time": "2026-09-15 06:45:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭 8 月信用卡總消費環比下降 0.5%，紐西蘭 8 月零售卡消費環比下降 0.9%。"
-    },
-    {
-      "id": "te:markets:583626",
-      "time": "2026-09-15 06:45:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Appreciates largely by 7.52% — Top crypto gainers are XRP (7.52%), Ether (2.57%) and Bitcoin (2.39%)."
     }
   ]
 }
