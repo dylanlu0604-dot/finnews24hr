@@ -1,7 +1,87 @@
 {
   "date": "2026-09-21",
-  "count": 535,
+  "count": 544,
   "items": [
+    {
+      "id": "mkt:01a0c1c1-b19e-7118-861c-a6c225319b9f",
+      "time": "2026-09-21 10:18:11",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bullish"
+      ],
+      "text": "WSJ, citing people familiar with the matter, says California attorney general is in intensive settlement talks with Paramount that could include a $1.5 billion commitment by Paramount to invest in California film production."
+    },
+    {
+      "id": "5104680",
+      "time": "2026-09-21 10:17:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【飛闊科技與美格智慧達成戰略合作】近日，飛闊科技與美格智慧與正式簽署戰略合作協議。雙方將整合各自在端側AI算力與具身智慧場景應用領域的核心優勢，共同打造面向具身智慧機器人的底層基礎設施，推動具身機器人產業規模化商用落地。"
+    },
+    {
+      "id": "5104679",
+      "time": "2026-09-21 10:16:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光伏裝置震盪走高，亞瑪頓觸及漲停】光伏裝置震盪走高，亞瑪頓觸及漲停，金辰股份、海優新材、澤潤新能、聚和材料跟漲。"
+    },
+    {
+      "id": "5104678",
+      "time": "2026-09-21 10:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南：研究謀劃航天旅遊發展針對性政策舉措】海南省將結合文昌建設“航天旅遊之都”目標任務，銜接《海南自由貿易港商業航天促進條例》相關制度設計，統籌航天發射資源、濱海文旅資源，持續跟蹤航天旅遊產業發展態勢，結合產業發展實際需求，研究謀劃針對性政策舉措，助力文昌加快建設世界級航天旅遊目的地。（證券時報）"
+    },
+    {
+      "id": "mkt:01a0c1bf-ba7f-7118-861c-9e161265bca7",
+      "time": "2026-09-21 10:16:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "【UBS cuts KOSPI 12-month target by nearly 10% to 8000 as macro headwinds worsen】UBS cut its 12-month KOSPI target to 8,000 from 8,800 in a note last Friday, citing higher rates, a stronger won and rising oil. The revision lowers UBS’s implied target P/E to 7x from 8x, reflecting deteriorating macro headwinds even as UBS still forecasts robust KOSPI EPS growth of 256% in 2026 and 38% in 2027. UBS said the index is likely to trade in a range until Q3–Q4 earnings provide clearer signals on earnings sustainability and shareholder returns. Key drivers cited: the 10-year Korean government bond yield has risen to 4.5% from 3.4% at the start of the year (≈+110bps), the Bank of Korea has raised rates twice since July, oil is trading above $100, and a stronger won is also a drag—UBS estimates a 1% won appreciation trims KOSPI earnings by roughly 1.1%."
+    },
+    {
+      "id": "mkt:01a0c1bf-a807-7118-861c-95ae629dc7f2",
+      "time": "2026-09-21 10:15:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Hainan advances space-tourism platform; operators sign cooperation agreements】Hainan province is advancing formation of a space-tourism platform: relevant local operating entities have signed cooperation agreements and are conducting preliminary project planning in accordance with law, while simultaneously advancing statutory project evaluations and approvals. The province plans to integrate existing provincial space cultural-and-tourism resources, prioritize commercial project delivery, operator development and tourism-activity innovation, and will guide operators’ deep participation and encourage private-capital investment in space-tourism projects."
+    },
+    {
+      "id": "5104677",
+      "time": "2026-09-21 10:15:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【玻纖概念震盪反彈，中材科技漲停】玻纖概念震盪反彈，中材科技漲停，再升科技、中國巨石、山東玻纖、九鼎新材、宏和科技、國際復材等跟漲。"
+    },
+    {
+      "id": "5104676",
+      "time": "2026-09-21 10:15:22",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【海南推進航天旅遊平臺組建 相關經營主體已簽訂合作協議】海南省加速培育本土特色航天文旅企業。記者獲悉，海南省持續推進航天旅遊平臺組建各項工作，目前海南相關經營主體已簽訂合作協議，正在依法依規開展新專案謀劃等前期工作，同步推進專案評估、審批等法定程式。在吸引和培育經營主體方面，海南省將立足海南航天旅遊發展實際，統籌整合全省航天文旅現有資源，聚焦商業化專案落地、經營主體培育、文旅業態創新等重點方向，積極引導各類經營主體深度參與航天文旅產業發展，鼓勵社會資本參與航天旅遊相關專案投資建設。（證券時報）"
+    },
+    {
+      "id": "5104675",
+      "time": "2026-09-21 10:14:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙討論的讓步方案包括讓派拉蒙影業留在加州。"
+    },
     {
       "id": "5104674",
       "time": "2026-09-21 10:13:37",

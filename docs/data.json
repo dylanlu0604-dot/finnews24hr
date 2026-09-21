@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-21 10:15:02",
-  "count": 13585,
+  "updated": "2026-09-21 10:18:47",
+  "count": 13583,
   "items": [
+    {
+      "id": "mkt:01a0c1c1-b19e-7118-861c-a6c225319b9f",
+      "time": "2026-09-21 10:18:11",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bullish"
+      ],
+      "text": "WSJ, citing people familiar with the matter, says California attorney general is in intensive settlement talks with Paramount that could include a $1.5 billion commitment by Paramount to invest in California film production."
+    },
+    {
+      "id": "5104680",
+      "time": "2026-09-21 10:17:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【飛闊科技與美格智慧達成戰略合作】近日，飛闊科技與美格智慧與正式簽署戰略合作協議。雙方將整合各自在端側AI算力與具身智慧場景應用領域的核心優勢，共同打造面向具身智慧機器人的底層基礎設施，推動具身機器人產業規模化商用落地。"
+    },
+    {
+      "id": "5104679",
+      "time": "2026-09-21 10:16:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光伏裝置震盪走高，亞瑪頓觸及漲停】光伏裝置震盪走高，亞瑪頓觸及漲停，金辰股份、海優新材、澤潤新能、聚和材料跟漲。"
+    },
+    {
+      "id": "5104678",
+      "time": "2026-09-21 10:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南：研究謀劃航天旅遊發展針對性政策舉措】海南省將結合文昌建設“航天旅遊之都”目標任務，銜接《海南自由貿易港商業航天促進條例》相關制度設計，統籌航天發射資源、濱海文旅資源，持續跟蹤航天旅遊產業發展態勢，結合產業發展實際需求，研究謀劃針對性政策舉措，助力文昌加快建設世界級航天旅遊目的地。（證券時報）"
+    },
+    {
+      "id": "mkt:01a0c1bf-ba7f-7118-861c-9e161265bca7",
+      "time": "2026-09-21 10:16:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "【UBS cuts KOSPI 12-month target by nearly 10% to 8000 as macro headwinds worsen】UBS cut its 12-month KOSPI target to 8,000 from 8,800 in a note last Friday, citing higher rates, a stronger won and rising oil. The revision lowers UBS’s implied target P/E to 7x from 8x, reflecting deteriorating macro headwinds even as UBS still forecasts robust KOSPI EPS growth of 256% in 2026 and 38% in 2027. UBS said the index is likely to trade in a range until Q3–Q4 earnings provide clearer signals on earnings sustainability and shareholder returns. Key drivers cited: the 10-year Korean government bond yield has risen to 4.5% from 3.4% at the start of the year (≈+110bps), the Bank of Korea has raised rates twice since July, oil is trading above $100, and a stronger won is also a drag—UBS estimates a 1% won appreciation trims KOSPI earnings by roughly 1.1%."
+    },
+    {
+      "id": "mkt:01a0c1bf-a807-7118-861c-95ae629dc7f2",
+      "time": "2026-09-21 10:15:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Hainan advances space-tourism platform; operators sign cooperation agreements】Hainan province is advancing formation of a space-tourism platform: relevant local operating entities have signed cooperation agreements and are conducting preliminary project planning in accordance with law, while simultaneously advancing statutory project evaluations and approvals. The province plans to integrate existing provincial space cultural-and-tourism resources, prioritize commercial project delivery, operator development and tourism-activity innovation, and will guide operators’ deep participation and encourage private-capital investment in space-tourism projects."
+    },
+    {
+      "id": "5104677",
+      "time": "2026-09-21 10:15:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【玻纖概念震盪反彈，中材科技漲停】玻纖概念震盪反彈，中材科技漲停，再升科技、中國巨石、山東玻纖、九鼎新材、宏和科技、國際復材等跟漲。"
+    },
+    {
+      "id": "5104676",
+      "time": "2026-09-21 10:15:22",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【海南推進航天旅遊平臺組建 相關經營主體已簽訂合作協議】海南省加速培育本土特色航天文旅企業。記者獲悉，海南省持續推進航天旅遊平臺組建各項工作，目前海南相關經營主體已簽訂合作協議，正在依法依規開展新專案謀劃等前期工作，同步推進專案評估、審批等法定程式。在吸引和培育經營主體方面，海南省將立足海南航天旅遊發展實際，統籌整合全省航天文旅現有資源，聚焦商業化專案落地、經營主體培育、文旅業態創新等重點方向，積極引導各類經營主體深度參與航天文旅產業發展，鼓勵社會資本參與航天旅遊相關專案投資建設。（證券時報）"
+    },
+    {
+      "id": "5104675",
+      "time": "2026-09-21 10:14:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙討論的讓步方案包括讓派拉蒙影業留在加州。"
+    },
     {
       "id": "5104674",
       "time": "2026-09-21 10:13:37",
@@ -124356,109 +124436,6 @@
         "其他"
       ],
       "text": "瑞典選舉委員會14日凌晨公佈的初步計票結果顯示，反對黨陣營得票率高於支援首相克里斯特松的政黨陣營，預計將贏得議會選舉。（新華社）"
-    },
-    {
-      "id": "mkt:01a09db5-43cc-7118-8562-fa8a49ffa32f",
-      "time": "2026-09-14 10:18:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Doubao Mobile Assistant has launched a consumer version."
-    },
-    {
-      "id": "5092117",
-      "time": "2026-09-14 10:17:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【豆包手機助手消費者版正式釋出】9月14日，豆包手機助手消費者版正式釋出。"
-    },
-    {
-      "id": "5092116",
-      "time": "2026-09-14 10:17:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指下跌 1%，報 6477.74 點。"
-    },
-    {
-      "id": "mkt:01a09db4-22b6-7118-8562-f3fa4ba7253d",
-      "time": "2026-09-14 10:17:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share CRO sector rallied; Yingnuo Laser and Wanbang Pharma rose over 12%, with Jin'an Protein, Aopumai, Chengdu Xiandao, Medicilon and Hongbo Pharma also gaining."
-    },
-    {
-      "id": "mkt:01a09db3-753f-7118-8562-eef67a6e0315",
-      "time": "2026-09-14 10:16:18",
-      "tags": [
-        "MKT News",
-        "ITA.O",
-        "Impact bullish",
-        "XAR.O"
-      ],
-      "text": "President Trump said the US is working to replenish and expand weapons production to strengthen US defense industrial capacity."
-    },
-    {
-      "id": "5092115",
-      "time": "2026-09-14 10:16:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普表示，美國正致力於補充庫存並擴大武器生產，意在釋放訊號，美方將著力強化美國國防制造能力。"
-    },
-    {
-      "id": "5092114",
-      "time": "2026-09-14 10:15:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CRO概念板塊短線拉昇】CRO概念板塊短線拉昇，英諾鐳射、萬邦醫藥漲超10%，近岸蛋白、奧浦邁、成都先導、美迪西、泓博醫藥等跟漲。相關ETF方面，生物醫藥ETF天弘（159859）漲1.33%，成交額4771.95萬元，生物醫藥ETF匯添富（159839）漲1.15%，成交額1266.32萬元。"
-    },
-    {
-      "id": "5092113",
-      "time": "2026-09-14 10:15:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南 VN 指數開盤基本持平，報 1795.21 點。"
-    },
-    {
-      "id": "te:markets:583371",
-      "time": "2026-09-14 10:15:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "TE Soft Index Hits 4-week Low — TE Soft Index decreased to 49.36 Index Points, the lowest since August 2026. Over the past 4 weeks, TE Soft Index lost 1.16%, and in the last 12 months, it decreased 10.83%."
-    },
-    {
-      "id": "5092112",
-      "time": "2026-09-14 10:15:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南12市縣釋出停課通知】受熱帶低壓殘渦和冷空氣共同影響，9月14日，海南島中部、東部、西部和南部地區有暴雨到大暴雨，北部地區有中到大雨。第一財經記者根據“海南釋出”梳理發現，截至9月14日記者發稿時，海南12市縣釋出停課通知。具體包括三亞、定安、臨高、樂東、五指山、陵水、瓊海、保亭、瓊中、萬寧、屯昌、白沙發布停課通知。當天上午，有海南居民告訴記者，大雨已經連續下了兩三天了。據海南省氣象局，11日起海南島南半部地區已有400～600毫米降雨，14日仍有100～150毫米、局地200毫米降雨。9月13日海南啟動防汛防風二級應急響應。另據“海南釋出”14日訊息，目前，國家防總已啟動海南防汛四級應急響應，三亞、東方、陵水多地水庫陸續開啟預洩、排洪作業，全面築牢防汛安全線。（第一財經）"
-    },
-    {
-      "id": "te:markets:583370",
-      "time": "2026-09-14 10:15:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: New Zealand Dollar Drops by 0.35% — Top currency losers are New Zealand Dollar (-0.35%), South Korean Won (-0.22%) and Japanese Yen (-0.12%). Meanwhile Chinese Yuan was little changed."
     }
   ]
 }
