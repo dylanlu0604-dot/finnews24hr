@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-22 06:52:07",
-  "count": 13450,
+  "updated": "2026-09-22 06:55:55",
+  "count": 13447,
   "items": [
+    {
+      "id": "5106414",
+      "time": "2026-09-22 06:54:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4400美元/盎司，日內漲0.37%。"
+    },
+    {
+      "id": "te:markets:585415",
+      "time": "2026-09-22 06:54:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Little Changed in Morning Trade — The NZX 50 was almost flat, trading around 13,823 in Tuesday morning trade, after rising in the previous session, as gains in consumer discretionary, financials, and real estate offset declines in materials, and healthcare. The broader index remained at its highest level since September 7, touched a day earlier, as traders were cautious ahead of the Trump-Xi summit later this week. Caution was also evident as traders continued to monitor developments in the Middle East conflict and the impact on oil prices amid efforts to ease tensions. On a positive note, Wall Street closed in the green overnight, buoyed by strong tech stocks, while oil prices and US Treasury yields eased. Colonial Motor rose 1.7%, Summerset Group climbed 1.2%, Channel Infrastructure gained 1.1%, and Scales Corporation advanced 0.9%, while Fisher & Paykel, Freightways Group, and Mainfreight fell 1.2%, 0.6%, and 0.4%, respectively."
+    },
     {
       "id": "5106413",
       "time": "2026-09-22 06:51:11",
@@ -123157,52 +123178,6 @@
         "國際"
       ],
       "text": "【摩根士丹利改為預計美聯儲在9月和12月各加息25個基點】摩根士丹利的經濟學家改變了對美聯儲政策的預測，轉而認為央行會在9月和12月分別加息25個基點。該行8月14日重申的預估是，美聯儲今年不會調整利率，而明年將兩次降息25個基點。“我們預計美聯儲將在本週會議上加息25個基點，而且不會有異議，” 首席美國經濟學家Michael Gapen在研報中稱，“美聯儲一旦行動，很少只動一次”。他預測，12月之後美聯儲將隨著通脹放緩而暫停加息。"
-    },
-    {
-      "id": "mkt:01a0a221-d4b9-7118-8580-792bfdc7c55d",
-      "time": "2026-09-15 06:55:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【New Zealand August house prices fall as buyers hold back; sales slow】REINZ said New Zealand’s seasonally adjusted median house price fell 1.3% MoM and 1.3% YoY in August as rising cost of living and a weak labour market dented buyer confidence. Nationwide sales fell 1.9% MoM and nearly 10% YoY. REINZ CEO Lizzy Ryley said the market’s rhythm has changed with lower volumes and longer selling times; median days to sell rose to 51, three days more than August 2025 and the fourth-highest August on record."
-    },
-    {
-      "id": "5093937",
-      "time": "2026-09-15 06:55:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特領導的葉門聯軍表示，葉門胡塞武裝週一襲擊沙特海米斯穆謝特、艾卜哈和塔伊夫，造成 13 名平民受傷。"
-    },
-    {
-      "id": "te:economy:583627",
-      "time": "2026-09-15 06:54:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Credit Card Spending",
-        "Importance 1"
-      ],
-      "text": "New Zealand Credit Card Spending Falls 0.9% — Seasonally adjusted electronic card transactions in New Zealand dropped 0.9% month-on-month in August 2026, reversing a downwardly revised 1.2% rise in the previous month. The decline was weighed down by lower spending on hospitality (-1.7% vs 2.4% in July), durables (-1.6% vs 2.0%), apparel (-2.0% vs 3.2%), and consumables (-0.4% vs 1.0%), while motor vehicle spending declined at a faster pace (-0.3% vs -0.2%)."
-    },
-    {
-      "id": "5093936",
-      "time": "2026-09-15 06:53:54",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【海外“超級央行周”來臨 A股高股息板塊迎階段性修復行情】進入9月，市場風格出現階段性微調，A股整體風險偏好有所收斂，資金開始增配確定性資產，高股息板塊迎來階段性修復行情。9月以來，A股滬指維持震盪走勢，上漲的5個申萬一級行業中，銀行行業指數月內漲幅超過3%，位居31個申萬一級行業之首；公用事業行業指數月內漲幅超過1.9%，居次席；此外，交通運輸行業微跌，但大幅跑贏上證指數。銀行、公用事業及交通運輸行業均屬於典型的高股息行業，這意味著，部分高股息行業本月走勢相對堅挺。（證券時報）"
-    },
-    {
-      "id": "5093935",
-      "time": "2026-09-15 06:53:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國內原油期貨首次升破900元/桶 推高化工品價格】受中東地緣衝突持續發酵、霍爾木茲海峽通航受阻影響，國際油價持續衝高，國內原油期貨更是迎來罕見暴漲。9月14日，國內期貨市場原油期貨主力合約價格盤中首次升破900元/桶。油價強勢上行帶動大宗商品成本端全面抬升，和原油相關的產業，特別是化工產業也受到一些影響。同時，高油價持續傳導至產業鏈，上下游企業盈利分化明顯，油氣零售企業受益於價差擴張業績大增，而低毛利瀝青等企業則面臨成本攀升、經營壓力加大的局面。（證券時報）"
     }
   ]
 }
