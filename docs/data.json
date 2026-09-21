@@ -1,7 +1,32 @@
 {
-  "updated": "2026-09-22 03:51:20",
-  "count": 13458,
+  "updated": "2026-09-22 03:55:10",
+  "count": 13459,
   "items": [
+    {
+      "id": "5106323",
+      "time": "2026-09-22 03:54:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "唐寧街：英國首相強調，承諾就迪戈加西亞軍事基地的未來事宜與模里西斯及美國展開合作。"
+    },
+    {
+      "id": "mkt:01a0c586-2881-7118-8631-d216180ac001",
+      "time": "2026-09-22 03:51:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Russian government decides to waive grain export duties through year-end】Russia's agriculture ministry said on Monday it cut grain export duties to zero; the ministry said the policy will run through end‑2026, while a new decree cancels 'floating' export duties on wheat, barley and corn until Dec. 31 this year. It capped sunflower oil export duty at 7,748 rubles/tonne and sunflower meal at 312 rubles/tonne. The ministry said the measures aim to support domestic grain and oilseed producers and exporters amid export‑logistics reorganisation by lowering costs and improving sales predictability."
+    },
+    {
+      "id": "5106322",
+      "time": "2026-09-22 03:51:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "唐寧街：英國首相伯恩漢姆與模里西斯總理納溫·拉姆古蘭進行了會談。"
+    },
     {
       "id": "5106321",
       "time": "2026-09-22 03:46:57",
@@ -123262,23 +123287,6 @@
         "觀點"
       ],
       "text": "花旗CFO：今年股票回購規模將高於去年，去年回購金額達 130 億美元。"
-    },
-    {
-      "id": "mkt:01a0a17c-d4a2-7118-857e-c1ec24098436",
-      "time": "2026-09-15 03:55:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President Pezeshkian said the US, unable to locate Iran’s Supreme Leader, has circulated rumors about his health. He said the Supreme Leader is fully healthy and will make the final decision."
-    },
-    {
-      "id": "5093845",
-      "time": "2026-09-15 03:52:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【兩年期美債收益率六天漲超28個基點，10年期收益率一度創2023年以來新高】週一（9月14日）紐約尾盤，美國10年期基準國債收益率漲0.62個基點，報4.9731%，北京時間18:00以來持續走高，22:26達到5.0121%——逼近2023年10月23日盤中最高位5.0187%、2007年二季度頂部5.3228%、2000年一季度頂部6.8280%，隨後一度快速轉跌。兩年期美債收益率漲1.97個基點，報4.6451%，最近六個交易日持續上揚——期間累計上漲28.11個基點，日內交投於4.5984%-4.6769%區間，逼近2024年7月1日頂部4.7931%。"
     }
   ]
 }
