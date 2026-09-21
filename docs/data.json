@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-22 03:39:55",
-  "count": 13456,
+  "updated": "2026-09-22 03:43:45",
+  "count": 13459,
   "items": [
+    {
+      "id": "mkt:01a0c57e-5482-7118-8631-be124366aa03",
+      "time": "2026-09-22 03:43:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said CNN, Politico and MSNOW have filed lawsuits seeking access to the White House and proximity to the president."
+    },
+    {
+      "id": "5106318",
+      "time": "2026-09-22 03:42:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大公佈旨在加快重大專案審批速度的立法草案，該草案旨在確保聯邦審查與決策在專案發起人提交完整申請後一年內完成。"
+    },
+    {
+      "id": "5106317",
+      "time": "2026-09-22 03:40:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟大使未能就延長對俄製裁3年並將烏斯馬諾夫和弗裡德曼移出制裁名單達成協議，官員表示將於週二再次會晤以嘗試達成協議。"
+    },
+    {
+      "id": "mkt:01a0c57b-d04b-7118-8631-b1eb12989509",
+      "time": "2026-09-22 03:40:20",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Poland's military says ground-based air-defense systems and radar reconnaissance are at combat readiness."
+    },
+    {
+      "id": "mkt:01a0c57b-a29a-7118-8631-a86b622edf60",
+      "time": "2026-09-22 03:40:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish military says aviation operations are preventive in nature and aimed at ensuring airspace security."
+    },
+    {
+      "id": "mkt:01a0c57b-5636-7118-8631-a7cde102ce59",
+      "time": "2026-09-22 03:39:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market sources: the U.S. is seeking to phase out Russian uranium supplies to prepare for a full import ban."
+    },
     {
       "id": "mkt:01a0c57b-08b9-7118-8631-9f4750d853f8",
       "time": "2026-09-22 03:39:29",
@@ -123235,30 +123290,6 @@
         "US10Y"
       ],
       "text": "【Fed pauses reserve-management Treasury purchases for second consecutive month】The New York Fed said it will not conduct reserve-management Treasury purchases in the monthly cycle through Oct. 14, marking a second consecutive monthly pause. The NY Fed still expects roughly $15.6 bln of reinvestment purchases in the same period. The decision signals policymakers view bank reserve levels as adequate; SOFR has traded at or below the IORB for most of the past month and the Treasury trimmed T-bill supply ahead of the quarterly tax deadline. The Fed said this does not represent a change in monetary policy or balance-sheet strategy — reserve-management purchases are aimed at adjusting reserve levels rather than QE, and MBS reinvestments will continue as part of balance-sheet management."
-    },
-    {
-      "id": "mkt:01a0a172-5686-7118-857e-a51c3cc1700e",
-      "time": "2026-09-15 03:43:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Iran's Mehr news agency, Yemen's Houthi forces said minutes ago they intercepted two Saudi combat aircraft over Yemen's Saada province — a Typhoon and an F-15 — which had taken off from Saudi Khamis Mushait and Taif air bases."
-    },
-    {
-      "id": "5093841",
-      "time": "2026-09-15 03:43:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家廣播電視臺（IRIB）：胡塞武裝發言人表示武裝部隊成功攔截兩架沙烏地阿拉伯戰鬥機。"
-    },
-    {
-      "id": "mkt:01a0a170-e0a0-7118-857e-988053ab0e4b",
-      "time": "2026-09-15 03:42:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tasnim news agency cited sources saying Saudi warplanes struck Yemen’s Saada province, carrying out five airstrikes on the Ketab and Al-Baqi areas and two strikes in southern Saada city."
     }
   ]
 }
