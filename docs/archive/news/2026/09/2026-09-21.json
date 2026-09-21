@@ -1,7 +1,204 @@
 {
   "date": "2026-09-21",
-  "count": 425,
+  "count": 446,
   "items": [
+    {
+      "id": "mkt:01a0c198-886d-7118-861b-c6b259692607",
+      "time": "2026-09-21 09:33:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share chemical pharmaceuticals sector rallied intraday; Xinhua Pharmaceutical hit the daily trading limit. Harbin Pharmaceutical, Huana Pharmaceutical, Qianyuan Medical, Mengke Pharma and Jinyao Pharmaceutical also advanced."
+    },
+    {
+      "id": "5104615",
+      "time": "2026-09-21 09:33:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股新冠藥物板塊異動拉昇】新華製藥、華軟科技觸及漲停，泓博醫藥、精華製藥、瑞康醫藥、博濟醫藥、邁威生物跟漲。"
+    },
+    {
+      "id": "mkt:01a0c198-557f-7118-861b-b87ee5010816",
+      "time": "2026-09-21 09:33:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Recently listed A-share C ShenGu’s early-session rebound trimmed its intraday loss to 32.49%, triggering a temporary trading halt; last at 39 yuan."
+    },
+    {
+      "id": "mkt:01a0c198-4f26-7118-861b-b532f18fa388",
+      "time": "2026-09-21 09:32:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T"
+      ],
+      "text": "SoftBank Group issued $10 billion and $1 billion eurobonds to finance its OpenAI investment."
+    },
+    {
+      "id": "5104614",
+      "time": "2026-09-21 09:32:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化學制藥板塊短線拉昇，新華製藥漲停】化學制藥板塊短線拉昇，新華製藥漲停，哈藥股份、華納藥廠、仟源醫藥、盟科藥業、津藥藥業等紛紛走高。"
+    },
+    {
+      "id": "5104613",
+      "time": "2026-09-21 09:32:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報7717.60點。"
+    },
+    {
+      "id": "5104612",
+      "time": "2026-09-21 09:32:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7581.20點。"
+    },
+    {
+      "id": "5104611",
+      "time": "2026-09-21 09:31:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "投資條款清單顯示，軟銀集團為投資OpenAI發行了100億美元及10億歐元債券。"
+    },
+    {
+      "id": "5104610",
+      "time": "2026-09-21 09:31:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：2026年9月23日（週三）中國人民銀行將透過香港金融管理局債務工具中央結算系統（CMU）債券投標平臺，招標發行2026年第九期中央銀行票據。"
+    },
+    {
+      "id": "mkt:01a0c196-be0c-7118-861b-aaad81be1dad",
+      "time": "2026-09-21 09:31:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Government bond futures morning open】2-year government bond futures (TS) main contract flat at morning open; 5-year (TF) up 0.01%; 10-year (T) flat; 30-year (TL) up 0.14%."
+    },
+    {
+      "id": "mkt:01a0c196-bbb5-7118-861b-a103450123ac",
+      "time": "2026-09-21 09:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Stock index futures open higher】CSI 300 index futures main contract (IF) +0.69%; SSE 50 index futures main contract (IH) +0.47%; CSI 500 index futures main contract (IC) +1.09%; CSI 1000 index futures main contract (IM) +1.11%."
+    },
+    {
+      "id": "mkt:01a0c196-ae56-7118-861b-9e12f9b275c5",
+      "time": "2026-09-21 09:31:12",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "The People's Bank of China (PBOC) will tender the ninth 2026 central bank bill via the Hong Kong Monetary Authority's Central Moneymarkets Unit (CMU) bond tender platform on Wednesday, Sept. 23, 2026."
+    },
+    {
+      "id": "5104609",
+      "time": "2026-09-21 09:30:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "C沈鼓跌超30%，觸發臨停，現報39元。"
+    },
+    {
+      "id": "5104608",
+      "time": "2026-09-21 09:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.05%，現報3408.195點；上證指數漲0.24%，現報3921.191點；深證成指漲0.59%，現報13721.918點。"
+    },
+    {
+      "id": "5104607",
+      "time": "2026-09-21 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.87%， 滬深300指數期貨連續漲0.53%， 中證500指數期貨連續漲0.87%， 上證50指數期貨連續漲0.36%。"
+    },
+    {
+      "id": "5104606",
+      "time": "2026-09-21 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.16%， 10年期主力合約漲0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5104605",
+      "time": "2026-09-21 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.00%，成分股中，瀾起科技漲3.69%，海光資訊漲2.33%，XD佰維儲存漲1.89%，華潤微電子漲1.86%。"
+    },
+    {
+      "id": "5104604",
+      "time": "2026-09-21 09:29:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬里印刷復牌漲超160% 億力信貸已成為公司主要股東】截至發稿，萬里印刷(08385.HK)漲163.33%。根據公告稱，因董事會主席林三明全資公司未能償還貸款，其質押的3121.2萬股公司股份已於9月18日被貸款人億力信貸強制行權受讓，億力信貸由此成為公司主要股東。已根據行使擔保權利而轉讓予貸款人。公司於今日上午9時正起恢復買賣。"
+    },
+    {
+      "id": "mkt:01a0c195-6c4c-7118-861b-9040a0439e90",
+      "time": "2026-09-21 09:29:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share MLCC sector opened higher; Huaci Co. hit the daily trading limit, and Longxin Intelligent, Hongda Electronics, Fenghua Hi‑Tech and Sanhuan Group also gained."
+    },
+    {
+      "id": "5104603",
+      "time": "2026-09-21 09:29:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【富時中國A50指數等指數成份股調整今天開盤生效】此前於9月2日，富時羅素宣佈對富時中國指數系列2026年第三季度的稽核變更結果。根據上述稽核變更結果，富時中國A50指數納入中微公司、生益科技，剔除牧原股份、萬華化學。富時中國50指數納入華虹宏力(Red Chip)、瀾起科技(H)，剔除快手(P Chip)、順豐控股(H)。上述指數稽核涉及的所有調整於2026年9月21日開盤時正式生效。"
+    },
+    {
+      "id": "5104602",
+      "time": "2026-09-21 09:29:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MLCC概念板塊高開，華瓷股份漲停】MLCC概念板塊高開，華瓷股份漲停，龍鑫智慧、宏達電子、風華高科、三環集團跟漲。"
+    },
     {
       "id": "5104601",
       "time": "2026-09-21 09:29:14",
