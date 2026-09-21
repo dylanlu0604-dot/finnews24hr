@@ -1,7 +1,271 @@
 {
   "date": "2026-09-21",
-  "count": 1652,
+  "count": 1680,
   "items": [
+    {
+      "id": "mkt:01a0c485-53e6-7118-862d-8531d53b2a2d",
+      "time": "2026-09-21 23:11:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BoC governor: rate policy to hinge on firms' and households' response to high energy costs and renewed trade uncertainty】BoC Governor Macklem said future interest-rate policy will depend on how businesses and households respond to elevated energy prices and a resurgence in trade uncertainty, and that BoC officials stand ready to adjust policy as those risks evolve. He added that if inflationary pressures ease the bank would not want to slow growth by raising the policy rate, but if inflation proves more persistent the bank does not want to be slow to react."
+    },
+    {
+      "id": "mkt:01a0c485-4f5a-7118-862d-7b53970ce81c",
+      "time": "2026-09-21 23:11:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of England deputy governor Breeden said the immediate question is whether the existing regulatory framework is ready for artificial intelligence."
+    },
+    {
+      "id": "5106171",
+      "time": "2026-09-21 23:11:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行佈雷登：現行監管體系是否適用於人工智慧仍存疑。"
+    },
+    {
+      "id": "5106170",
+      "time": "2026-09-21 23:10:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯總統普京據悉將缺席在美國G20與特朗普的會晤。"
+    },
+    {
+      "id": "mkt:01a0c484-cdf4-7118-862d-7503fc80c564",
+      "time": "2026-09-21 23:10:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign minister says US should have long since freed itself from Israeli control】Iran's foreign minister Araghchi said the Israel lobby is increasingly undisguised in its influence over U.S. policy toward Israel. He cited a lobby mouthpiece asserting U.S. policy must ensure any affront to Israel is punished, and said Washington should have long ago broken free from those constraints."
+    },
+    {
+      "id": "mkt:01a0c484-6e37-7118-862d-6f0805b454b5",
+      "time": "2026-09-21 23:10:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "BOC Governor MACKLEM to speak in 10 minutes."
+    },
+    {
+      "id": "5106169",
+      "time": "2026-09-21 23:09:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊：以色列遊說集團在掌控美國對伊政策方面，正變得愈發肆無忌憚。該遊說集團的“擴音器”宣稱，美國的政策必須確保：只要以色列受到任何輕微的冒犯，美國就必須為此付出代價。華盛頓是時候掙脫這些枷鎖了。"
+    },
+    {
+      "id": "mkt:01a0c482-917e-7118-862d-65f87efd8518",
+      "time": "2026-09-21 23:08:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【BOC's Macklem says new US tariffs could cut Canada Q4 growth to below 1%】BOC Governor Macklem said new US tariffs could push Canada's Q4 economic growth below 1%. He warned slower growth would weigh on inflation while Middle East conflict-driven oil gains could lift it; annual inflation is about 3% versus the BOC's 2% target. Macklem said if oil stays near $100/bbl, inflation could rise modestly. Canada rebounded in Q2 with 3.3% annualized growth; after roughly 18 months of US tariffs firms and households had begun adjusting plans and resuming investment and consumption, but the latest escalation \"could again prompt firms to delay investment and hiring decisions.\" He added that if the new tariffs persist, Q4 growth could be roughly halved to under 1%."
+    },
+    {
+      "id": "5106168",
+      "time": "2026-09-21 23:07:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【煉油廠持續遇襲 俄羅斯勢將再度延長柴油出口禁令】據知情人士透露，俄羅斯勢將把針對大部分柴油出口的禁令延長至9月底之後，因烏克蘭繼續襲擊俄羅斯煉油廠。知情人士表示，各方已有共識將延長這項禁令。其中一位知情人士稱，正在考慮將限制措施再延長一個月，甚至更長時間。俄羅斯7月實施這項禁令，當時烏克蘭接連襲擊俄羅斯煉油廠，導致該國石油加工量降至多年低點。出口限制最初預計僅持續數週，但隨著襲擊持續，禁令隨後先延長至8月底，之後又延長至9月底。"
+    },
+    {
+      "id": "mkt:01a0c481-9951-7118-862d-58463df1d659",
+      "time": "2026-09-21 23:07:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin will not attend the G20 summit in the United States, which Trump will attend, but will attend the APEC summit."
+    },
+    {
+      "id": "5106167",
+      "time": "2026-09-21 23:06:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加拿大央行行長麥克勒姆：到目前為止，我們尚未看到更高的油價正在向其他商品和服務擴散的證據。最近的天然氣價格與油價相比更加一致，油價幾乎比之前高出40美元。如果通脹壓力得到控制，我們不希望加息以抑制增長。越來越多的證據表明，許多加拿大企業已開始適應美國關稅政策。預計未來幾年勞動力增長將接近零。"
+    },
+    {
+      "id": "mkt:01a0c481-159e-7118-862d-54d6c454426a",
+      "time": "2026-09-21 23:06:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio held a productive meeting with Bolivia's president at the United Nations."
+    },
+    {
+      "id": "mkt:01a0c481-002d-7118-862d-487f615243ec",
+      "time": "2026-09-21 23:06:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "BOC Governor Macklem said he expects labour force growth to be near zero over the next few years."
+    },
+    {
+      "id": "mkt:01a0c480-e6ca-7118-862d-438363529a0a",
+      "time": "2026-09-21 23:06:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Canada Governor Macklem said there is growing evidence that many Canadian firms have begun adapting to U.S. tariff policy."
+    },
+    {
+      "id": "mkt:01a0c480-c074-7118-862d-3ef7c0d8693f",
+      "time": "2026-09-21 23:06:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC Governor Macklem said if inflationary pressures are contained, the bank would not want to raise rates to restrain growth."
+    },
+    {
+      "id": "mkt:01a0c480-a21c-7118-862d-33ec14149b8d",
+      "time": "2026-09-21 23:05:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "BOC Governor Macklem said recent natural gas prices have become more closely aligned with oil and that oil is nearly $40 higher than before."
+    },
+    {
+      "id": "mkt:01a0c480-77f6-7118-862d-2849e9258ad2",
+      "time": "2026-09-21 23:05:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "BOC Governor Macklem said he has not yet seen evidence that higher oil prices are spilling over into other goods and services."
+    },
+    {
+      "id": "5106166",
+      "time": "2026-09-21 23:05:43",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "加拿大央行行長麥克勒姆：拖延加息時間過長存在風險。如果新的美國關稅繼續實施，第四季度增長可能會大幅減半，降至1%以下。如果油價維持在每桶接近100美元的水平，我們預計未來幾個月通脹將小幅上升。燃料價格上漲幅度超出我們通常預期，反映出全球煉油能力受到損害。"
+    },
+    {
+      "id": "mkt:01a0c480-521c-7118-862d-256ee26b20c4",
+      "time": "2026-09-21 23:05:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Bank of Canada Governor MACKLEM said fuel price rises have exceeded usual expectations and reflect damage to global refining capacity."
+    },
+    {
+      "id": "mkt:01a0c480-3c61-7118-862d-1d87af029c50",
+      "time": "2026-09-21 23:05:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "BOC Governor Macklem said if oil prices remain near $100/barrel, he expects inf to edge up modestly over the next few months."
+    },
+    {
+      "id": "mkt:01a0c480-1a26-7118-862d-16ae7d537633",
+      "time": "2026-09-21 23:05:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "BOC Governor Macklem said if new US tariffs remain in place, Q4 GDP growth could be roughly halved to below 1%."
+    },
+    {
+      "id": "mkt:01a0c480-0445-7118-862d-0f2b67c5b04e",
+      "time": "2026-09-21 23:05:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Barclays: oil-price forecast faces rising upside risk】Barclays said its oil-price forecast is increasingly skewed to the upside amid Middle East developments and resilient demand. If the current situation persists, oil could rise roughly 50% from current levels before the market rebalances. Inventory and demand indicators point to significant upside before supply and demand normalize. Non‑OPEC supply response has been limited so far but may change in coming months due to production adjustment lags; excluding Brazil, non‑OPEC output growth has not materially exceeded expectations."
+    },
+    {
+      "id": "mkt:01a0c47f-3e07-7118-862d-00b8d5d25db9",
+      "time": "2026-09-21 23:04:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) extended gains to 13%, its largest intraday rise since July 30."
+    },
+    {
+      "id": "5106165",
+      "time": "2026-09-21 23:03:56",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "英特爾漲幅擴大至13%，創下7月30日以來的最大盤中漲幅。"
+    },
+    {
+      "id": "5106164",
+      "time": "2026-09-21 23:01:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將9月22日盧布官方匯率定為1美元兌84.0954盧布。"
+    },
+    {
+      "id": "mkt:01a0c47b-e2d0-7118-862c-faa8ed00624e",
+      "time": "2026-09-21 23:00:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "At the 23:00 close, China's main futures contracts were mixed. Ethylene glycol (EG) fell about 4%; propylene dropped over 3%; fuel oil and low-sulfur fuel oil declined more than 2%; polypropylene (including monthly-average contract), LPG and plastics fell over 1%. Rapeseed meal and soybean No.2 rose over 1%; cotton yarn, glass, rapeseed oil and pulp gained around 1%."
+    },
+    {
+      "id": "5106163",
+      "time": "2026-09-21 23:00:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲3%】費城半導體指數日內漲3.00%，現報12279.45點。英偉達漲1.30%，博通漲0.42%，美光漲2.49%，英特爾漲12.73%，AMD漲9.91%，高通漲5.64%，臺積電漲1.30%，阿斯麥漲0.57%。"
+    },
     {
       "id": "te:markets:585357",
       "time": "2026-09-21 23:00:07",
@@ -28,6 +292,15 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】乙二醇連續跌4.59%，瀝青連續跌4.22%，燃料油連續跌2.46%，低硫燃料油連續跌2.19%，聚丙烯連續跌1.40%。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609213880354981",
+      "time": "2026-09-21 22:59:34",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【LSEG資料顯示 法國5年期信用違約互換（CDS）利差突破45個基點】LSEG資料顯示，法國5年期信用違約互換（CDS）利差突破45個基點，創下自2020年3月以來的最高水平。"
     },
     {
       "id": "5106161",
