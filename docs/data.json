@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-22 03:01:33",
-  "count": 13456,
+  "updated": "2026-09-22 03:05:27",
+  "count": 13454,
   "items": [
+    {
+      "id": "5106292",
+      "time": "2026-09-22 03:04:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達：正在努力促成伊朗與美國之間的協議。"
+    },
+    {
+      "id": "mkt:01a0c558-a660-7118-8631-4342a686456d",
+      "time": "2026-09-22 03:01:56",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures rose 0.3% in the night session to 25,118, trading a 75-point premium to the cash close."
+    },
+    {
+      "id": "5106291",
+      "time": "2026-09-22 03:01:50",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務院：對與太子集團（Prince Group）有組織犯罪集團相關聯的32名個人實施簽證限制。"
+    },
+    {
+      "id": "5106290",
+      "time": "2026-09-22 03:01:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯將穀物出口關稅降至零，政策將持續至2026年底。"
+    },
+    {
+      "id": "5106289",
+      "time": "2026-09-22 03:00:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局解除對肯尼迪機場的地面停飛措施。"
+    },
     {
       "id": "5106288",
       "time": "2026-09-22 03:00:02",
@@ -123196,67 +123241,6 @@
         "其他"
       ],
       "text": "市場訊息：英國多家銀行啟動募資，籌建全新支付巨頭。此次募資初步目標約 5000 萬英鎊。"
-    },
-    {
-      "id": "mkt:01a0a14f-0fd9-7118-857e-1342f1a02497",
-      "time": "2026-09-15 03:05:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Interior Secretary said an oil export ban is unlikely to reduce energy prices, but all options remain under consideration."
-    },
-    {
-      "id": "5093821",
-      "time": "2026-09-15 03:04:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國內政部長伯格姆：石油出口禁令不太可能有助於壓低能源價格，但所有方案都在考量範圍內。"
-    },
-    {
-      "id": "5093820",
-      "time": "2026-09-15 03:04:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：我們和地區內各國之間沒有矛盾，但我們確實對美國的軍事基地存在異議。"
-    },
-    {
-      "id": "mkt:01a0a14d-f08e-7118-857e-086eaefa3474",
-      "time": "2026-09-15 03:03:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian President Pezeshkian said Iran has no disputes with regional countries but opposes U.S. bases in the region. He accused the United States of taking oil revenues and fomenting inter-state conflict."
-    },
-    {
-      "id": "5093819",
-      "time": "2026-09-15 03:02:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7085元，較上週五夜盤收盤跌6點。成交量546.67億美元。"
-    },
-    {
-      "id": "5093818",
-      "time": "2026-09-15 03:02:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國內政部長伯格姆：委內瑞拉煤炭出口有可能納入與美國達成的協議之中。"
-    },
-    {
-      "id": "mkt:01a0a14c-7310-7118-857e-03325bb7f4c2",
-      "time": "2026-09-15 03:02:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Venezuela may be allowed to export coal as part of an agreement with the US, US Interior Secretary Burgum said."
     }
   ]
 }
