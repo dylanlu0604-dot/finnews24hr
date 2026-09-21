@@ -1,7 +1,78 @@
 {
   "date": "2026-09-21",
-  "count": 571,
+  "count": 579,
   "items": [
+    {
+      "id": "mkt:01a0c1ce-41cd-7118-861d-104827515272",
+      "time": "2026-09-21 10:31:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "【Interbank benchmark bond yields trade in narrow range early session】Interbank benchmark bond yields traded narrowly in the morning. 30-year government bond '26 Super-Long Special 04' yield rose 0.05bp to 2.149%; 10-year policy bank bond '26 CDB 05' yield fell 0.05bp to 1.7605%; 10-year coupon-bearing government bond '26 Coupon-Bearing 10' yield fell 0.05bp to 1.6755%."
+    },
+    {
+      "id": "5104699",
+      "time": "2026-09-21 10:31:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【豬肉產業概念持續走強，邦基科技漲停】豬肉產業概念持續走強，邦基科技漲停，ST龍大、東瑞股份、金字火腿、蔚藍生物、天康生物、華統股份等跟漲。"
+    },
+    {
+      "id": "mkt:01a0c1cd-df2e-7118-861d-0afe73f4affb",
+      "time": "2026-09-21 10:31:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc reported a magnitude 3.0 earthquake at 10:23 on Sept 21 in Bange County, Nagqu City, Tibet (31.83°N, 89.18°E); depth 10 km."
+    },
+    {
+      "id": "5104698",
+      "time": "2026-09-21 10:31:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國黃金協會副會長嚴弟勇赴港調研 賦能香港黃金儲備樞紐建設】近日，中國黃金協會黨委書記、副會長嚴弟勇赴香港開展專題調研，與香港特區政府有關機構、黃金交易所、行業機構、重點黃金企業深入洽談，著力推動兩地黃金產業互聯互通，賦能香港黃金儲備樞紐建設，助力會員企業國際化發展。"
+    },
+    {
+      "id": "5104697",
+      "time": "2026-09-21 10:31:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【C信諾維漲超19% 觸發臨停】次新股C信諾維盤中漲超19%，觸發臨停，成交超11億元，該股早盤低開超8%。"
+    },
+    {
+      "id": "mkt:01a0c1cc-f27a-7118-861d-060a9e56f172",
+      "time": "2026-09-21 10:30:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Taobao launches Double 11 overseas push in 20 markets; free shipping in 13 including Hong Kong, Macau, Singapore and Malaysia】On Sept. 21 Taobao said it will expand this year’s Double 11 shopping festival to 20 overseas markets, with more than 1.2 million merchants participating. Thirteen countries and regions will offer free shipping, and Hong Kong, Macau, Singapore and Malaysia will have zero-threshold free shipping. Taobao will add an overseas traffic entry on its homepage and launch a Discover channel, overseas rankings and curated lists. Taobao said its outbound GMV has posted double-digit growth for six consecutive years and that over 150,000 merchants saw exports more than double year‑on‑year after going overseas."
+    },
+    {
+      "id": "mkt:01a0c1cc-bac2-7118-861c-fd21f8b9f7b6",
+      "time": "2026-09-21 10:30:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The State Council Information Office will hold a press briefing at 10:00 a.m. on Sept. 23, 2026, as part of the Opening Phase of the 15th Five-Year Plan series. Vice Minister Du Jiangfeng and Ministry of Education spokesperson and Vice Minister Wang Guangyan will outline implementation of the 15th Five-Year Plan and measures to accelerate building an education-strong China, and will take questions."
+    },
+    {
+      "id": "5104696",
+      "time": "2026-09-21 10:30:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "預告：國務院新聞辦公室將於2026年9月23日（星期三）上午10時舉行“開局起步‘十五五’”系列主題新聞釋出會，請教育部副部長杜江峰，教育部新聞發言人、副部長王光彥介紹貫徹落實“十五五”規劃，加快推進教育強國建設有關情況，並答記者問。（國新辦）"
+    },
     {
       "id": "5104695",
       "time": "2026-09-21 10:28:25",
