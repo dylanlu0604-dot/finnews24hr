@@ -1,7 +1,68 @@
 {
   "date": "2026-09-21",
-  "count": 1001,
+  "count": 1008,
   "items": [
+    {
+      "id": "mkt:01a0c2df-7131-7118-8621-038920e32e5c",
+      "time": "2026-09-21 15:30:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.38% at 938.3 yuan/gram on Monday, Sept. 21; silver T+D fell 0.11% to 16,040 yuan/kg."
+    },
+    {
+      "id": "5105042",
+      "time": "2026-09-21 15:29:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽光電源新設能源科技公司 含AI相關業務】企查查APP顯示，近日，合肥陽光多美能源科技有限公司成立，經營範圍包含人工智慧基礎軟體開發；人工智慧應用軟體開發；儲能技術服務；人工智慧基礎資源與技術平臺；太陽能熱利用裝備銷售等。企查查股權穿透顯示，該公司由陽光電源全資持股。"
+    },
+    {
+      "id": "5105041",
+      "time": "2026-09-21 15:29:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【瑞銀維持蘋果“中性”評級，稱iPhone 18 Pro系列初期需求偏弱】瑞銀在跟蹤iPhone 18系列預售後的供應資料後，維持蘋果“中性”評級及296美元目標價，認為iPhone 18 Pro和Pro Max初期需求表現相對溫和。瑞銀Evidence Lab對30多個市場的追蹤顯示，iPhone 18 Pro Max平均等待時間約23天，同比縮短約2天，其中中國市場等待時間同比縮短約4天；iPhone 18 Pro平均等待時間約16天，同樣同比縮短約2天，中國市場更是同比縮短約10天，美國則是唯一等待時間同比延長的主要市場，增加約1天。瑞銀認為，較短的等待時間可能與過去一年iPhone 17系列需求較強、今年Pro系列升級幅度有限以及平均售價上升有關，同時指出中國市場資料可能受到部分消費者等待下月推出Duo機型的影響。瑞銀因此認為，目前尚未看到iPhone 18 Pro系列出現明顯超預期需求。"
+    },
+    {
+      "id": "te:markets:585247",
+      "time": "2026-09-21 15:27:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Starts Week Higher — The FTSE 100 traded higher on Monday, although it lagged broader European gains after falling 1.5% on Friday, as a fourth consecutive session of declines in oil prices eased some concerns over persistent inflation. Oil majors weighed on the index, with Shell down 1.1% and BP falling 1.6%. Financial stocks provided support, with HSBC up 1.5%, Lloyds Banking Group 1.1% and Barclays 1.8%. Rolls-Royce gained 1.5%, while miners were mixed, with Rio Tinto rising 0.8% and Glencore slightly lower. Gold and silver edged down as investors assessed inflation risks and the outlook for interest rates following the Federal Reserve’s first rate hike since 2023. Copper prices moved higher, supported by expectations of tighter supply and signs of improving demand from China. Elsewhere, JD Sports rose 0.7% after announcing a long-term franchise partnership with Mexico’s Grupo Axo, marking the sportswear retailer’s first entry into the Mexican market."
+    },
+    {
+      "id": "5105039",
+      "time": "2026-09-21 15:27:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗關閉法語中心，法國誓言採取措施】據路透社9月20日報道，法國外交部20日稱，在伊朗當局查封了位於德黑蘭、隸屬於法國大使館的一家法語中心後，法國將召見伊朗駐法大使並採取適當應對措施。 報道稱，法國外交部發言人帕斯卡爾·孔法弗勒在一份宣告中說：“繼去年7月法國大使館兩名工作人員遇襲之後，這次針對法國在伊朗文化機構的新攻擊是毫無正當理由且不可接受的。” 多年來，由於伊朗核計劃以及德黑蘭方面拘押數名法國公民，兩國關係一直處於緊張狀態。 （參考訊息）"
+    },
+    {
+      "id": "5105038",
+      "time": "2026-09-21 15:27:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SYNCONA <SYNCS.L>股價上漲6.1%，此前公司宣佈BEACON THERAPEUTICS在II/III期VISTA試驗中取得積極的頂線結果。"
+    },
+    {
+      "id": "5105037",
+      "time": "2026-09-21 15:27:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Kimi：Kimi Code Desktop正式與你見面】據月之暗面Kimi訊息，今天，Kimi Code Desktop 正式與你見面。macOS 和 Windows 版同步上線，訪問 kimi.com/code 開始安裝使用。作為 Kimi Code 官方桌面客戶端，它將 Kimi Code 智慧程式設計服務能力帶到桌面應用中。你不僅可以在桌面端內直接使用 Kimi Code 的 AI Agent 能力，透過對話讓它讀寫程式碼、執行命令、完成自動化任務，還能在全新視覺化的圖形互動介面中，集中管理你的所有專案，調整常用配置，清晰檢視 Agent 執行任務的每一步。"
+    },
     {
       "id": "5105034",
       "time": "2026-09-21 15:26:16",

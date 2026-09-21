@@ -1,7 +1,68 @@
 {
-  "updated": "2026-09-21 15:26:58",
-  "count": 13584,
+  "updated": "2026-09-21 15:30:43",
+  "count": 13572,
   "items": [
+    {
+      "id": "mkt:01a0c2df-7131-7118-8621-038920e32e5c",
+      "time": "2026-09-21 15:30:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.38% at 938.3 yuan/gram on Monday, Sept. 21; silver T+D fell 0.11% to 16,040 yuan/kg."
+    },
+    {
+      "id": "5105042",
+      "time": "2026-09-21 15:29:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陽光電源新設能源科技公司 含AI相關業務】企查查APP顯示，近日，合肥陽光多美能源科技有限公司成立，經營範圍包含人工智慧基礎軟體開發；人工智慧應用軟體開發；儲能技術服務；人工智慧基礎資源與技術平臺；太陽能熱利用裝備銷售等。企查查股權穿透顯示，該公司由陽光電源全資持股。"
+    },
+    {
+      "id": "5105041",
+      "time": "2026-09-21 15:29:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【瑞銀維持蘋果“中性”評級，稱iPhone 18 Pro系列初期需求偏弱】瑞銀在跟蹤iPhone 18系列預售後的供應資料後，維持蘋果“中性”評級及296美元目標價，認為iPhone 18 Pro和Pro Max初期需求表現相對溫和。瑞銀Evidence Lab對30多個市場的追蹤顯示，iPhone 18 Pro Max平均等待時間約23天，同比縮短約2天，其中中國市場等待時間同比縮短約4天；iPhone 18 Pro平均等待時間約16天，同樣同比縮短約2天，中國市場更是同比縮短約10天，美國則是唯一等待時間同比延長的主要市場，增加約1天。瑞銀認為，較短的等待時間可能與過去一年iPhone 17系列需求較強、今年Pro系列升級幅度有限以及平均售價上升有關，同時指出中國市場資料可能受到部分消費者等待下月推出Duo機型的影響。瑞銀因此認為，目前尚未看到iPhone 18 Pro系列出現明顯超預期需求。"
+    },
+    {
+      "id": "te:markets:585247",
+      "time": "2026-09-21 15:27:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Starts Week Higher — The FTSE 100 traded higher on Monday, although it lagged broader European gains after falling 1.5% on Friday, as a fourth consecutive session of declines in oil prices eased some concerns over persistent inflation. Oil majors weighed on the index, with Shell down 1.1% and BP falling 1.6%. Financial stocks provided support, with HSBC up 1.5%, Lloyds Banking Group 1.1% and Barclays 1.8%. Rolls-Royce gained 1.5%, while miners were mixed, with Rio Tinto rising 0.8% and Glencore slightly lower. Gold and silver edged down as investors assessed inflation risks and the outlook for interest rates following the Federal Reserve’s first rate hike since 2023. Copper prices moved higher, supported by expectations of tighter supply and signs of improving demand from China. Elsewhere, JD Sports rose 0.7% after announcing a long-term franchise partnership with Mexico’s Grupo Axo, marking the sportswear retailer’s first entry into the Mexican market."
+    },
+    {
+      "id": "5105039",
+      "time": "2026-09-21 15:27:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗關閉法語中心，法國誓言採取措施】據路透社9月20日報道，法國外交部20日稱，在伊朗當局查封了位於德黑蘭、隸屬於法國大使館的一家法語中心後，法國將召見伊朗駐法大使並採取適當應對措施。 報道稱，法國外交部發言人帕斯卡爾·孔法弗勒在一份宣告中說：“繼去年7月法國大使館兩名工作人員遇襲之後，這次針對法國在伊朗文化機構的新攻擊是毫無正當理由且不可接受的。” 多年來，由於伊朗核計劃以及德黑蘭方面拘押數名法國公民，兩國關係一直處於緊張狀態。 （參考訊息）"
+    },
+    {
+      "id": "5105038",
+      "time": "2026-09-21 15:27:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SYNCONA <SYNCS.L>股價上漲6.1%，此前公司宣佈BEACON THERAPEUTICS在II/III期VISTA試驗中取得積極的頂線結果。"
+    },
+    {
+      "id": "5105037",
+      "time": "2026-09-21 15:27:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Kimi：Kimi Code Desktop正式與你見面】據月之暗面Kimi訊息，今天，Kimi Code Desktop 正式與你見面。macOS 和 Windows 版同步上線，訪問 kimi.com/code 開始安裝使用。作為 Kimi Code 官方桌面客戶端，它將 Kimi Code 智慧程式設計服務能力帶到桌面應用中。你不僅可以在桌面端內直接使用 Kimi Code 的 AI Agent 能力，透過對話讓它讀寫程式碼、執行命令、完成自動化任務，還能在全新視覺化的圖形互動介面中，集中管理你的所有專案，調整常用配置，清晰檢視 Agent 執行任務的每一步。"
+    },
     {
       "id": "5105034",
       "time": "2026-09-21 15:26:16",
@@ -124203,196 +124264,6 @@
         "Importance 1"
       ],
       "text": "The DAX Index Opens 0.21% Lower — The DAX Index is falling 54 points. Losses were driven by Infineon (-6.30%), Siemens Energy (-4.44%) and RWE (-2.17%). Biggest rises came from SAP (3.32%), Deutsche Boerse (2.50%) and Bayer (1.99%)."
-    },
-    {
-      "id": "mkt:01a09ed3-451c-7118-856a-1c0cda3a97f9",
-      "time": "2026-09-14 15:30:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 0.51% at 933.17 yuan/gram on Monday, Sept. 14; silver T+D closed down 0.72% at 15,460 yuan/kg."
-    },
-    {
-      "id": "te:markets:583451",
-      "time": "2026-09-14 15:30:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Lower on Oil, AI Concerns — Stocks in Europe kicked off the week on a negative note, with the STOXX 50 falling 0.5% and the STOXX 600 losing 0.1%, as oil resumed its climb after Saudi Arabia shut down a major oil pipeline following drone attacks, while a planned meeting between Iran and Gulf states was postponed. Global sentiment was also pressured after major AI companies OpenAI and Anthropic called for a slower pace of development amid growing concerns over safety risks. ASML Holding sank more than 4% and Infineon was down 6% to bottom the STOXX 600, alongside Siemens Energy (-4.3%) and Prysmian (-5%)."
-    },
-    {
-      "id": "5092570",
-      "time": "2026-09-14 15:30:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雷軍現身B站總部，陳睿親自迎接，B站員工高呼“雷總好”】今日，雷軍現身B站上海總部，B站董事長陳睿親自迎接並陪同。據現場影片顯示，B站總部懸掛“歡迎B站UP主雷軍”標語，迎接現場氣氛熱鬧，員工們熱情高呼“雷總好”。（新浪科技）"
-    },
-    {
-      "id": "5092569",
-      "time": "2026-09-14 15:30:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪拜航空：預計這一增長動能將延續至即將到來的冬季航季。"
-    },
-    {
-      "id": "5092568",
-      "time": "2026-09-14 15:30:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱其襲擊了位於基輔的 KYIVSTAR 辦公室。"
-    },
-    {
-      "id": "5092567",
-      "time": "2026-09-14 15:30:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【龍芯中科：龍架構獲LXC容器模板源官方支援】據龍芯中科訊息，近日，容器虛擬化套件Linux軟體容器（Linux Containers，簡稱LXC）在其容器模板伺服器正式上線龍架構容器模板。至此，龍架構獲得LXC容器模板源的官方支援，成為繼x86-64、AArch64、AArch32（ARMv7）、RISC-V之後，第五個獲得官方支援的架構。"
-    },
-    {
-      "id": "te:markets:583450",
-      "time": "2026-09-14 15:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.37% Lower — The CAC 40 Index is dropping 30 points. Leading the losses are Legrand (-3.70%), Schneider Electric (-3.65%) and STMicroelectronics (-3.26%). Top gainers were Capgemini (6.56%), Dassault Systemes (4.55%) and Publicis (3.34%)."
-    },
-    {
-      "id": "5092566",
-      "time": "2026-09-14 15:29:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪拜航空將於9月23日開通飛往博卡拉的航線，進一步拓展其航線網路。"
-    },
-    {
-      "id": "5092565",
-      "time": "2026-09-14 15:29:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪拜航空：過去幾個月來，迪拜航空透過恢復並開通多個關鍵市場的航線，持續擴張其航線網路。"
-    },
-    {
-      "id": "5092564",
-      "time": "2026-09-14 15:29:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【矽寶科技：暫未生產超級電容炭產品】矽寶科技9月14日在互動平臺表示，公司暫未生產超級電容炭產品。公司始終關注新能源材料領域的前沿技術動態，未來如有業務拓展，將嚴格按照法律法規要求及時履行資訊披露義務。"
-    },
-    {
-      "id": "5092563",
-      "time": "2026-09-14 15:29:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪拜航空：其航點網路已覆蓋56個國家，目的地數量超過125個，每週平均執飛2200架次航班。"
-    },
-    {
-      "id": "mkt:01a09ed1-de68-7118-856a-113baa78e2d0",
-      "time": "2026-09-14 15:29:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's foreign ministry spokesman said Israel is the only winner in the tensions between Iran and Gulf states."
-    },
-    {
-      "id": "5092562",
-      "time": "2026-09-14 15:29:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "迪拜航空：隨著旅行需求保持堅挺，該航司已恢復其航點網路中85%的運營，同時持續擴容並新開目的地航線。"
-    },
-    {
-      "id": "5092561",
-      "time": "2026-09-14 15:28:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，以色列是伊朗與海灣國家之間緊張局勢的唯一贏家。"
-    },
-    {
-      "id": "mkt:01a09ed1-8ad0-7118-856a-0dc2a5dc3cff",
-      "time": "2026-09-14 15:28:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's foreign ministry spokesman said Saudi Arabia is insisting that the Iran–Gulf states meeting scheduled in Oman should not be held."
-    },
-    {
-      "id": "mkt:01a09ed1-194e-7118-856a-05fc869fa2d0",
-      "time": "2026-09-14 15:28:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Eurozone government bond yields rise; 10-year German bund hits 15-year high】Tradeweb data showed eurozone government bond yields edged up, with the 10-year German bund yield touching a 15-year high of 3.532% in early trade. Signs of economic resilience, elevated oil prices and escalating Middle East tensions raised inflation concerns and pushed yields higher. After the ECB's rate hike last week, market focus shifts to the Fed's decision this week; a rate increase is possible but not certain."
-    },
-    {
-      "id": "5092560",
-      "time": "2026-09-14 15:27:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，沙烏地阿拉伯堅持要求原定在阿曼舉行的德黑蘭與海灣國家領導人會晤取消。"
-    },
-    {
-      "id": "5092559",
-      "time": "2026-09-14 15:27:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【超級央行周來了：多國央行將公佈最新利率決議】本週，全球迎來“超級央行周”。美聯儲將於美東時間16日公佈利率決議，英國央行、日本央行也將分別於當地時間17日、18日公佈議息結果。\n\n在就業超預期反彈疊加通脹頑固的背景下，市場對美聯儲9月加息的預期明顯上升。截至13日，芝商所的“美聯儲觀察”工具顯示，市場押注美聯儲本月加息25個基點的機率超過87%。不過，美國白宮國家經濟委員會主任哈西特13日表示，美國總統特朗普及其本人認為當前沒有加息理由，中期選舉前維持政策穩定更為重要。\n\n英國央行將於當地時間17日公佈議息決議。資料顯示，7月英國國內生產總值環比增長0.4%，表現好於市場預期。分析機構普遍預計，本次會議將維持基準利率不變。但由於能源成本仍可能向消費價格傳導，部分交易員開始押注英國11月加息25個基點。\n\n日本央行將於17日至18日召開貨幣政策會議。共同社此前報道稱，日本央行考慮將政策利率上調25個基點至1.25%。若落地，這將成為日本約31年來最高政策利率，也是繼6月加息後時隔三個月再度行動。推動加息預期的主要因素包括日元貶值等。（央視財經）"
-    },
-    {
-      "id": "mkt:01a09ed0-9d04-7118-8569-f8e7470d6cb1",
-      "time": "2026-09-14 15:27:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【MIIT urges industry leaders to adopt 60-day payment commitments to restore SME receivables predictability】Sept 14 — At a State Council press briefing on measures to address SME payment difficulties, MIIT vice minister Ke Jixin said the State Council general office recently issued a notice to strengthen governance of SME receivables. He said most industries lack formal settlement rules and some large firms exploit loopholes to delay payments by blurring payment terms. The notice clarifies how SMEs can obtain outstanding balances and directs industry leaders to publish and honor a 60-day payment commitment to encourage timely payments across supply chains."
     }
   ]
 }
