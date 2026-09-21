@@ -1,7 +1,337 @@
 {
   "date": "2026-09-21",
-  "count": 1531,
+  "count": 1565,
   "items": [
+    {
+      "id": "5106106",
+      "time": "2026-09-21 22:20:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500通訊服務板塊指數創8月5日以來新高，最新上漲3%。"
+    },
+    {
+      "id": "5106105",
+      "time": "2026-09-21 22:18:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥將於 11 月 3 日起禁止兒童在校內使用手機。"
+    },
+    {
+      "id": "mkt:01a0c455-81ee-7118-862c-12a899ef88bc",
+      "time": "2026-09-21 22:18:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Market sources: U.S. broadcasters CBS, NBC, ABC and Fox will halt coverage of Trump in solidarity with CNN."
+    },
+    {
+      "id": "mkt:01a0c455-3585-7118-862c-0d6c80c3ff26",
+      "time": "2026-09-21 22:18:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【TAKAICHI to stress Japan's $550 bln US investment pledge in New York talks with Trump】Japanese Prime Minister TAKAICHI will tell President Trump on Tuesday in New York, during the UN General Assembly, that Japan remains committed to $550 bln of US investment pledged under their tariff agreement. Tokyo and Japanese companies have targeted oil-related infrastructure and power-supply projects to support AI; Tokyo says the investments will create US jobs. The meeting is the leaders' first formal summit since TAKAICHI's March Washington visit; officials say the summit will review progress on the pledged investments."
+    },
+    {
+      "id": "5106104",
+      "time": "2026-09-21 22:17:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油期貨跌破每桶100美元，為9月9日以來首次。"
+    },
+    {
+      "id": "mkt:01a0c454-84b2-7118-862c-03409eaf2ee8",
+      "time": "2026-09-21 22:17:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures fell below $100 per barrel for the first time since Sept. 9."
+    },
+    {
+      "id": "mkt:01a0c453-fe1e-7118-862b-fcb57b5228f6",
+      "time": "2026-09-21 22:17:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) rose more than 9%, pushing its market capitalization above $1 trillion."
+    },
+    {
+      "id": "5106103",
+      "time": "2026-09-21 22:16:57",
+      "tags": [
+        "公司",
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "超威半導體（Advanced Micro Devices，AMD）市值首次突破1萬億美元。"
+    },
+    {
+      "id": "5106102",
+      "time": "2026-09-21 22:16:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "裕信銀行執行長稱，該行在收購德國商業銀行一事上已取得 “重大進展”。"
+    },
+    {
+      "id": "5106101",
+      "time": "2026-09-21 22:16:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名日本高階官員表示：“峰會將落實日本對美國承諾的投資議題。”"
+    },
+    {
+      "id": "5106100",
+      "time": "2026-09-21 22:16:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌4%，現報5372.00元。"
+    },
+    {
+      "id": "mkt:01a0c453-26f9-7118-862b-f3f49438e057",
+      "time": "2026-09-21 22:16:18",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "Nikkei reports Prime Minister TAKAICHI will meet U.S. President TRUMP in New York on Tuesday and will emphasize Japan's commitment to large-scale investment in the U.S. and those investments' contribution to the U.S. economy."
+    },
+    {
+      "id": "5106099",
+      "time": "2026-09-21 22:15:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雷軍：小米澎程35歲以上鎖單使用者佔比46%，且佔比越來越高】雷軍在社交媒體發文稱，相比 SU7、YU7，小米澎程的使用者年齡更成熟。目前看，35歲以上鎖單使用者佔比46%，且佔比越來越高，增換購使用者大概佔到八成。有很多增換購的車主，希望選一臺更適合全家出行的車；還有不少原來在看 MPV 的使用者，轉向了澎程，尤其山東地區比較普遍。 N90 Max 企業使用者鎖單佔比很高，N90 Max 被稱作陸地商務艙，確實非常適合做商務接待。"
+    },
+    {
+      "id": "5106098",
+      "time": "2026-09-21 22:14:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：高市早苗在與特朗普會談中將重點強調日本對美投資事宜。"
+    },
+    {
+      "id": "te:markets:585348",
+      "time": "2026-09-21 22:14:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Index Above 100 — The dollar index edged up to 100.3 on Monday, reaching its highest level in almost three months and extending last week’s gain of nearly 1.1%, as the greenback continued to benefit from a more hawkish stance from the Federal Reserve. The central bank raised the federal funds rate by 25bps last week and is expected to deliver another hike by year-end. Chicago Fed President Goolsbee said he remains open to the possibility that inflation will resume its decline towards the 2% target, but warned that interest rates may need to rise if that fails to materialise. Meanwhile, Minneapolis Fed President Kashkari said yesterday that inflation remains too high across all sectors of the economy, rather than being driven solely by oil prices. Oil prices however, fell for a fourth consecutive session amid hopes that diplomatic efforts could lead to a resolution to the conflict with Iran. The greenback was broadly higher against the yen, euro and pound."
+    },
+    {
+      "id": "5106097",
+      "time": "2026-09-21 22:14:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【公募投資人士展望四季度市場： 機會或大於風險 聚焦業績和產業趨勢】採訪了興業基金權益投資部總經理、興業研究精選混合基金經理鄒慧，東吳基金首席投資官兼權益投資總部總經理劉元海、中信保誠基金研究部總監吳昊、諾德基金投資總監硃紅4位總監級公募投資人，對四季度市場走勢作出研判。受訪人士認為，隨著美聯儲加息落地，市場對宏觀不確定性事件的擔憂出現緩和。四季度至明年春節前後，市場機會可能大於風險，結構性特徵仍比較突出，關注行業景氣度和業績確定性較高的方向。（中國基金報）"
+    },
+    {
+      "id": "mkt:01a0c450-6502-7118-862b-eb1c75844acc",
+      "time": "2026-09-21 22:13:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude fell below $92/bbl, down 3.44% on the day."
+    },
+    {
+      "id": "5106096",
+      "time": "2026-09-21 22:13:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德首席財務官：合理預期公司到2030年應能實現中個位數的複合年增長率(CAGR)增長"
+    },
+    {
+      "id": "5106095",
+      "time": "2026-09-21 22:12:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國民航管理局（CAA）要求航空公司在9月21日運營中斷期間，對乘客自行安排食宿等照料產生的費用予以報銷。"
+    },
+    {
+      "id": "te:markets:585346",
+      "time": "2026-09-21 22:12:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Prices Slump 7% — European natural gas prices fell 7% to €74 per megawatt-hour, the lowest in two weeks, after details of Germany’s latest gas storage tenders indicated lower volumes than initially expected. Trading Hub Europe launched several tenders to secure sufficient gas availability for the first quarter of 2027, amid concerns over storage levels ahead of winter. Also, weather forecasts point to a late-summer heat spell next week, with temperatures across Northwest Europe expected to rise around 6°C above normal, potentially reducing gas demand. Additionally, President Donald Trump signaled that US-Iran diplomacy could resume, including the possibility of meeting Iran’s president during the UN General Assembly in New York. Progress toward ending the conflict could reduce concerns about potential disruptions to energy flows through the Strait of Hormuz, an important route for global LNG shipments."
+    },
+    {
+      "id": "te:markets:585345",
+      "time": "2026-09-21 22:12:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ConocoPhillips Stock Price Hits 5-week Low — ConocoPhillips shares decreased to 127.96 USD, the lowest since August 2026. Over the past 4 weeks, ConocoPhillips lost 3.96%, and in the last 12 months, it increased 39.19%."
+    },
+    {
+      "id": "mkt:01a0c44f-6fd2-7118-862b-e2c890fc9611",
+      "time": "2026-09-21 22:12:15",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bullish",
+        "WBD.O"
+      ],
+      "text": "【Paramount reaches settlements with states, clearing path for acquisition of Warner Bros. Discovery】Paramount has reached settlements with California and other state governments that sued to block its proposed acquisition of Warner Bros. Discovery, people familiar with the matter said. After an arrangement with California, four other states that had opposed the deal accepted the settlement terms, sources said, with negotiations advancing over the weekend. The settlements are expected to be announced later and would remove a key regulatory hurdle to one of the largest M&A transactions in Hollywood history."
+    },
+    {
+      "id": "5106094",
+      "time": "2026-09-21 22:11:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大民航局：航空公司須為取消航班提供退款或改道服務。"
+    },
+    {
+      "id": "5106093",
+      "time": "2026-09-21 22:11:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報92.21美元/桶。"
+    },
+    {
+      "id": "mkt:01a0c44e-9aa2-7118-862b-daf467e4a0c9",
+      "time": "2026-09-21 22:11:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Development Bank Anhui branch deputy governor Wu Yingxin visits Anhui Construction Group】On Sept. 21 China Development Bank (Anhui branch) deputy governor Wu Yingxin visited Anhui Construction Group to discuss industry layout, project delivery and financial services. The parties agreed to deepen bank–enterprise cooperation, expand collaboration in the healthcare and elder‑care sector, prioritise key project construction and industry‑model innovation, and pursue targeted matching, optimized service plans and new financing models to channel bank funding into the group's high‑quality development."
+    },
+    {
+      "id": "5106092",
+      "time": "2026-09-21 22:11:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家開發銀行安徽省分行黨委委員、副行長吳迎新一行到訪安徽建工集團】國家開發銀行安徽省分行黨委委員、副行長吳迎新一行赴安徽建工集團走訪交流。集團黨委副書記、董事、總經理龔健勇會見來訪一行並主持召開座談會。雙方圍繞產業佈局、專案建設及金融服務等事宜深入洽談。"
+    },
+    {
+      "id": "te:markets:585344",
+      "time": "2026-09-21 22:10:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Flat as Banks Nearly Offset Energy Losses — The S&P/TSX Composite Index traded nearly flat around the 36,000 mark on Monday amid losses in the energy sector and gains among major banks. Oil prices declined on hopes for diplomatic progress between the US and Iran. Iranian President Masoud Pezeshkian is expected to attend the United Nations General Assembly in New York this week, and US President Trump has said he would be open to meeting him. Energy producers posted losses, with Canadian Natural and Suncor shedding nearly 2% each. Miners were also mostly lower as gold prices eased, with WPM and Franco-Nevada losing about 1%. Meanwhile, yields eased as the halt in the oil rally cooled concerns over spreading inflationary pressures from energy costs, lending some support to credit-sensitive shares. Major banks rose, with RBC, TD Bank, BMO, Scotiabank, and CIBC advancing nearly 1%, limiting losses in the index. Market participants await BoC Governor Macklem’s speech later in the day for clues on the bank’s future policy."
+    },
+    {
+      "id": "5106091",
+      "time": "2026-09-21 22:09:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【妙可藍多：創始人、董事柴琇辭職】妙可藍多(600882.SH)公告稱，公司董事會於9月20日收到柴琇提交的辭職報告，其因個人原因申請辭去第十二屆非獨立董事及董事會專門委員會相關職務，辭職後不再擔任公司及子公司任何職務。柴琇直接持有公司7610.36萬股，其一致行動人吉林省東秀商貿有限公司持有528萬股，合計持股佔公司總股本的16.01%。柴琇原定任期至2027年11月17日。資料顯示，柴琇現年61歲，是妙可藍多的創始人。2026年1月23日，妙可藍多董事會以通訊方式召開會議，審議透過了免去柴琇副董事長、總經理及法定代表人職務的議案。柴琇被免去核心管理職務後，蒙牛系職業經理人蒯玉龍接任公司總裁及法定代表人。"
+    },
+    {
+      "id": "5106090",
+      "time": "2026-09-21 22:08:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（9月18日）擔保隔夜融資利率（SOFR）報3.85%，之前一天報3.85%。上個交易日有效的聯邦基金利率報3.88%，之前一天報3.88%。"
+    },
+    {
+      "id": "5106089",
+      "time": "2026-09-21 22:08:30",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【上饒市政協原黨組成員、副主席熊孫魁接受審查調查】江西省紀委監委21日通報，上饒市政協原黨組成員、副主席熊孫魁涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受江西省紀委監委紀律審查和監察調查。（新華社）"
+    },
+    {
+      "id": "5106088",
+      "time": "2026-09-21 22:06:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾和諾德首席財務官：目標是在2030年之前，將營業利潤率維持在與當前大致持平的水平。"
+    },
+    {
+      "id": "5106087",
+      "time": "2026-09-21 22:06:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【國泰海通：地緣仍是當前資產的關鍵定價錨】國泰海通釋出研報認為，美聯儲加息並不會對市場形成有效支撐，近期市場的反彈主要來源於地緣利好資訊的釋放。當前特朗普面臨中期選舉、關稅重創、通脹高企、美債“危機”等多重壓力，地緣形勢成為其關鍵籌碼。美伊和談面臨新一輪契機，近期緊密關注地緣形勢走向。"
+    },
+    {
+      "id": "mkt:01a0c449-a483-7118-862b-d4585aa13b71",
+      "time": "2026-09-21 22:05:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid over $20 intraday to below $4,330/oz, down 1.10% on the day."
+    },
+    {
+      "id": "5106086",
+      "time": "2026-09-21 22:05:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "匈牙利摩爾石油化工集團表示，該專案估值近7億歐元，屬於長期投資週期的一部分。"
+    },
     {
       "id": "5106085",
       "time": "2026-09-21 22:04:19",
