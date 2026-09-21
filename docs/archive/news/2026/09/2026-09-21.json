@@ -1,7 +1,113 @@
 {
   "date": "2026-09-21",
-  "count": 1463,
+  "count": 1475,
   "items": [
+    {
+      "id": "mkt:01a0c435-408e-7118-862b-3cd29440e423",
+      "time": "2026-09-21 21:43:39",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "New York State will require major AI developers to register with the state beginning in November."
+    },
+    {
+      "id": "5106050",
+      "time": "2026-09-21 21:43:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度最大的太陽能光伏元件製造商 WAAREE ENERGIES獲得一份2吉瓦太陽能元件訂單。"
+    },
+    {
+      "id": "mkt:01a0c433-ed30-7118-862b-311849e6f27f",
+      "time": "2026-09-21 21:42:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russia will extend its diesel export ban beyond the end of September."
+    },
+    {
+      "id": "5106049",
+      "time": "2026-09-21 21:42:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "SONASELECTION印度IPO收盤時獲得2.01倍超額認購。"
+    },
+    {
+      "id": "5106048",
+      "time": "2026-09-21 21:41:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數漲約1.3%，重返30000點整數位心理關口上方。"
+    },
+    {
+      "id": "5106047",
+      "time": "2026-09-21 21:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯計劃將柴油出口禁令延長至9月底以後。"
+    },
+    {
+      "id": "5106046",
+      "time": "2026-09-21 21:41:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "外交官稱，除非歐盟各國政府在最後時刻提出反對，否則歐盟將解除對俄羅斯的制裁。"
+    },
+    {
+      "id": "te:markets:585339",
+      "time": "2026-09-21 21:40:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.38% Higher — The Dow Jones Index is up by 197 points or 0.38 percent on Monday. Top gainers are IBM (1.42%), JPMorgan (1.12%) and Goldman Sachs (1.11%). Biggest losses came from Chevron (-1.16%), Apple (-0.85%) and Coca-Cola (-0.53%)."
+    },
+    {
+      "id": "mkt:01a0c431-b781-7118-862b-2f04a3f4fd8c",
+      "time": "2026-09-21 21:39:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Philadelphia Semiconductor Index (SOX) climbed to its highest level in over a month, up 1.6%."
+    },
+    {
+      "id": "5106045",
+      "time": "2026-09-21 21:39:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AMD漲超6%再度創下歷史新高】超威半導體（AMD）股價上漲6.06%，報593.735美元/股，創下歷史新高，總市值報9693億美元。"
+    },
+    {
+      "id": "5106044",
+      "time": "2026-09-21 21:39:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.00%，現報12160.29點。英偉達漲0.61%，博通跌0.39%，美光漲4.06%，英特爾漲7.72%，AMD漲7.01%，高通漲1.52%，臺積電漲1.06%，阿斯麥漲1.15%。"
+    },
     {
       "id": "mkt:01a0c431-7598-7118-862b-253cb6d4a7aa",
       "time": "2026-09-21 21:39:30",
@@ -9,6 +115,14 @@
         "MKT News"
       ],
       "text": "Meta Platforms (META.O) shares rose more than 5%."
+    },
+    {
+      "id": "5106043",
+      "time": "2026-09-21 21:39:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬事達卡、Flybits 與羅傑斯在加拿大推動智慧體商務業務。"
     },
     {
       "id": "5106042",
