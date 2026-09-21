@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-21 14:52:17",
-  "count": 13601,
+  "updated": "2026-09-21 14:56:14",
+  "count": 13593,
   "items": [
+    {
+      "id": "5104960",
+      "time": "2026-09-21 14:54:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三環集團：MLCC原廠價格變化“不會像經銷商渠道那樣快”】針對媒體報道的MLCC價格劇烈波動的訊息，三環集團向以投資者身份致電的記者表示，現貨市場（如華強北的經銷商）價格變化一般會比較快，但原廠價格變化不會如此。不過，總體來看，MLCC今年的行情“還算比較好”。一位資深電子元器件從業人士則透露，目前MLCC現貨市場“沒有那麼邪乎，還比較平靜”。"
+    },
+    {
+      "id": "5104959",
+      "time": "2026-09-21 14:53:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光智科技新設材料科技公司 含光學玻璃業務】企查查APP顯示，近日，昆明先晟材料科技有限公司成立，經營範圍包含合成材料銷售；功能玻璃和新型光學材料銷售；光學玻璃製造；光學玻璃銷售等。企查查股權穿透顯示，該公司由光智科技全資持股。"
+    },
+    {
+      "id": "te:markets:585235",
+      "time": "2026-09-21 14:53:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natgas Prices Fall as Traders Monitor Middle East Diplomacy — UK natural gas prices dropped to 193 pence per therm on Monday after surging in the previous session, as traders monitored diplomatic efforts to end the Middle East conflict. President Donald Trump said he would probably be open to meeting Iranian President Masoud Pezeshkian, who is expected to attend the UN General Assembly later this week, though Tehran has yet to respond to the remarks. Any progress toward de-escalation could ease concerns over prolonged LNG supply disruptions. However, supply risks remain elevated, with the conflict continuing to restrict LNG shipments through the Strait of Hormuz. European gas storage facilities were around 68.5% full, still below the seasonal average. The situation is further complicated by intense competition for LNG with Asia and ongoing maintenance work on Norway’s gas infrastructure. With the heating season approaching, the market remains highly sensitive to extended supply disruptions, increasing the risk of further price volatility."
+    },
+    {
+      "id": "5104958",
+      "time": "2026-09-21 14:52:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧波1宗宅地3.53億元底價成交】9月21日，寧波出讓1宗海曙區宅地，土地出讓面積25072平方米（合37.61畝），規劃建築面積40115.2平方米，容積率1.6，起始價3.53億元，起始樓面價8796元/平方米。最終建發和匯成世紀聯合體以底價3.53億元競得該地塊。"
+    },
     {
       "id": "5104957",
       "time": "2026-09-21 14:50:56",
@@ -124434,133 +124469,6 @@
         "英國央行"
       ],
       "text": "高盛預計英國央行將在2026年11月加息25個基點，此前預測英國央行2026年利率將維持不變。"
-    },
-    {
-      "id": "mkt:01a09eb3-ac84-7118-8569-07191908c573",
-      "time": "2026-09-14 14:56:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs expects the Bank of England to raise the policy rate by 25bp in November 2026, revising from a prior forecast that the rate would remain unchanged in 2026."
-    },
-    {
-      "id": "5092490",
-      "time": "2026-09-14 14:55:57",
-      "tags": [
-        "央行",
-        "市場",
-        "觀點",
-        "焦點"
-      ],
-      "text": "高盛預計英國央行將在2026年11月加息25個基點，此前該行預測英國央行2026年利率將維持不變。"
-    },
-    {
-      "id": "mkt:01a09eb3-0b80-7118-8568-fba71717ee4a",
-      "time": "2026-09-14 14:55:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automatically detected an earthquake of about M3.0 near Li County, Aba Prefecture, Sichuan at 14:53 on Sept 14 (31.53°N, 103.30°E); final parameters await confirmation in the formal rapid bulletin."
-    },
-    {
-      "id": "5092489",
-      "time": "2026-09-14 14:55:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【供應擔憂升溫，歐洲天然氣漲至2022年以來最高位】受中東持續供應中斷擔憂主導市場情緒影響，歐洲天然氣價格跟隨原油走高。由於中東衝突暫無結束跡象，歐洲天然氣價格今年迄今已上漲近兩倍。歐洲儲氣設施庫容僅68%，低於84%的五年季節性均值。"
-    },
-    {
-      "id": "5092488",
-      "time": "2026-09-14 14:54:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋航空：儘管旅客整體更傾向於臨近出發才確定出行計劃，但冬季預訂勢頭仍向好。"
-    },
-    {
-      "id": "mkt:01a09eb2-328c-7118-8568-f5bc7128370f",
-      "time": "2026-09-14 14:54:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Jefferies expects Fed to hike this week; Waller comments key】Jefferies global economist Mohit Kumar said he expects the Fed to raise rates this week and that remarks from Fed governor Christopher Waller will be pivotal for the outlook. Jefferies sees fewer actual hikes than the forward market’s roughly 3.5 additional hikes priced in. Kumar said a first increase may be needed for credibility, but subsequent hikes will hinge on how long the war lasts and on oil-price developments."
-    },
-    {
-      "id": "5092487",
-      "time": "2026-09-14 14:54:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非媒體14日報道說，南非西開普省13日晚間發生一起交通事故，造成至少21人死亡。（新華社）"
-    },
-    {
-      "id": "5092486",
-      "time": "2026-09-14 14:53:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【恒生生物科技指數漲幅擴大至4%】截至9月14日14時42分，恒生生物科技指數漲幅擴大至4%。諾誠健華漲超15%，映恩生物-B漲超10%，康方生物、藥明康德等漲超5%。"
-    },
-    {
-      "id": "mkt:01a09eb1-2774-7118-8568-ec894808c88a",
-      "time": "2026-09-14 14:53:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "EURUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【Commerzbank: German 10-year Bund yields attractive at 3.50%】Commerzbank analyst Rainer Guntermann says German 10-year Bund yields are attractive at 3.50%. Yields rose last week, touching a 15-year high of 3.519% on Friday after Middle East tensions and higher oil; LSEG shows the 10-year closed Friday at 3.503%. Guntermann cautioned that Middle East developments and energy-price dynamics remain risks to absolute yields and the curve."
-    },
-    {
-      "id": "mkt:01a09eb0-f5be-7118-8568-e3aaf4b1aca2",
-      "time": "2026-09-14 14:53:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea August ICT exports near $60 bln, set monthly record】South Korea's Ministry of Trade, Industry and Energy said on Sept. 14 August ICT exports were $59.98 bln, up 162.6% YoY, a monthly record and the third consecutive month above $50 bln. ICT trade surplus reached $41.37 bln, the first time above $40 bln."
-    },
-    {
-      "id": "5092485",
-      "time": "2026-09-14 14:52:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本無人機公司Terra Drone宣佈將成立一家子公司，負責管理其在日本的國防業務。"
-    },
-    {
-      "id": "mkt:01a09eb0-6ae7-7118-8568-d9209f46e490",
-      "time": "2026-09-14 14:52:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "German 10-year Bund yield rose 1.9 bps to 3.5215%, the highest since August 2009."
     }
   ]
 }
