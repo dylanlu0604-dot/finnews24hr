@@ -1,7 +1,112 @@
 {
-  "updated": "2026-09-21 22:21:35",
-  "count": 13456,
+  "updated": "2026-09-21 22:26:45",
+  "count": 13454,
   "items": [
+    {
+      "id": "te:markets:585350",
+      "time": "2026-09-21 22:26:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "SpaceX Stock Price Hits 10-week High — SpaceX shares increased to 156.87 USD, the highest since July 2026. Over the past 4 weeks, SpaceX gained 15.9%, and in the last 12 months, it increased 15.9%."
+    },
+    {
+      "id": "5106113",
+      "time": "2026-09-21 22:24:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "法庭檔案顯示，美國有線電視新聞網（CNN）、MSNBC與政治新聞網（Politico）正式起訴唐納德·特朗普。"
+    },
+    {
+      "id": "mkt:01a0c45b-0a14-7118-862c-2ee63217bfdd",
+      "time": "2026-09-21 22:24:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations says captain reports all crew safe, no environmental impact; oil tanker to proceed to next port."
+    },
+    {
+      "id": "5106112",
+      "time": "2026-09-21 22:24:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST亞士：簽署重整投資協議 存在終止上市風險】*ST亞士公告稱，公司已被實施退市風險警示，截至2025年12月31日歸母淨資產為-6873.39萬元。2026年1-6月營收1.28億元，同比下降52.31%，淨虧損2.24億元；截至2026年6月末歸母淨資產為-2.92億元，若2026年末淨資產仍為負等情形，股票將被終止上市。2026年9月21日，公司確定金浦安宸鈺匯為重整投資人並簽署重整投資協議，擬以2.76元/股受讓轉增股份，投資款總額約5.80億元，鎖定期36個月。目前尚未形成確定重整方案，是否進入重整程式存在重大不確定性。"
+    },
+    {
+      "id": "mkt:01a0c45a-6817-7118-862c-22d7102df1bb",
+      "time": "2026-09-21 22:24:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "UK Maritime Trade Operations said an LPG tanker in the Strait of Hormuz was struck by debris from an unidentified aerial object."
+    },
+    {
+      "id": "5106111",
+      "time": "2026-09-21 22:23:35",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【大摩：基差交易“消亡”被嚴重誇大】包括Eli Carter在內的摩根士丹利策略師表示，美國國債現券-期貨基差交易依然活躍且運轉良好。他們指出，基差交易在規模、構成和預期回報方面已發生變化，但並未消失。從久期調整後的風險口徑來看，該交易“幾乎沒有收縮”。交易總名義規模已從1月1.5萬億美元的峰值降至約1.2萬億美元。規模的縮減主要集中在曲線前端——具體為TU（2年期）和FV（5年期）期貨。與此形成對比的是，策略師表示，代表曲線最遠端的WN（超長期）頭寸同比增長了50%。隨著銀行監管放鬆的推進，交易商風險敞口增加的問題受到關注，這一敞口確實有所擴大，但“目前的轉移幅度仍然溫和，我們認為不太可能對交易商的中介業務構成實質性約束”。"
+    },
+    {
+      "id": "5106110",
+      "time": "2026-09-21 22:23:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室收到一份事故報告：一艘液化石油氣運輸船在霍爾木茲海峽向外航行時發生意外。船長報告該船遭不明彈體碎片擊中。船長稱全體船員安全，未造成環境影響。該船將繼續駛往下一個掛靠港口。有關部門正在調查。建議船隻謹慎航行，如有可疑活動向英國海上貿易行動辦公室報告。"
+    },
+    {
+      "id": "mkt:01a0c459-79f4-7118-862c-1df5ed2b4b07",
+      "time": "2026-09-21 22:23:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude fell 3.00% intraday to $96.70/bbl."
+    },
+    {
+      "id": "5106109",
+      "time": "2026-09-21 22:22:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：為聲援美國有線電視新聞網(CNN)，美國電視網CBS、NBC、ABC和福克斯將停止報道特朗普。"
+    },
+    {
+      "id": "5106108",
+      "time": "2026-09-21 22:21:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：一艘液化石油氣運輸船（LPG）在霍爾木茲遭不明彈體碎片擊中。"
+    },
+    {
+      "id": "5106107",
+      "time": "2026-09-21 22:21:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守92美元/桶，日內跌4.25%。"
+    },
     {
       "id": "5106106",
       "time": "2026-09-21 22:20:07",
@@ -123045,125 +123150,6 @@
         "焦點"
       ],
       "text": "標普500指數迅速延續跌勢，觸及盤中低點，下跌0.8%。"
-    },
-    {
-      "id": "mkt:01a0a050-14d8-7118-8579-33622a3dda05",
-      "time": "2026-09-14 22:26:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Stoxx Europe 600 fell 0.5% to an intraday low."
-    },
-    {
-      "id": "mkt:01a0a04f-d11a-7118-8579-28023e63957f",
-      "time": "2026-09-14 22:26:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Markets have fully priced in five 25bp Bank of England rate hikes by end-2027."
-    },
-    {
-      "id": "mkt:01a0a04f-9899-7118-8579-27d2dfceedff",
-      "time": "2026-09-14 22:26:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The economic adviser to Senator Flávio Bolsonaro, son of former president Jair Bolsonaro, said he will abolish the oil export tax."
-    },
-    {
-      "id": "5093595",
-      "time": "2026-09-14 22:26:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數跌幅擴大至0.5%，創盤中新低。"
-    },
-    {
-      "id": "5093594",
-      "time": "2026-09-14 22:25:38",
-      "tags": [
-        "央行",
-        "其他",
-        "焦點"
-      ],
-      "text": "交易員已充分消化了英國央行到2027年底前五次加息（每次0.25個百分點）的預期。"
-    },
-    {
-      "id": "5093593",
-      "time": "2026-09-14 22:25:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "博索納羅環保顧問薩克斯達 ：博索納羅將取消石油出口稅。"
-    },
-    {
-      "id": "mkt:01a0a04e-c91d-7118-8579-1c70005e34b9",
-      "time": "2026-09-14 22:25:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Polish Prime Minister Tusk today convened ministers, senior armed forces and department chiefs to discuss next steps to strengthen border security."
-    },
-    {
-      "id": "5093592",
-      "time": "2026-09-14 22:23:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：AWS攜手Proximie與德勤，合作開展英國國家醫療服務體系規模最大的外科人工智慧評估專案。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202609143873731652",
-      "time": "2026-09-14 22:23:32",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "交易員已完全定價到2027年底，歐洲央行將累計加息四次。"
-    },
-    {
-      "id": "5093591",
-      "time": "2026-09-14 22:23:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽確認Investment AB Latour評級為A，展望穩定。"
-    },
-    {
-      "id": "mkt:01a0a04c-43de-7118-8579-11c4b1988528",
-      "time": "2026-09-14 22:22:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Markets now fully price four 25bp ECB rate hikes before end-2027."
-    },
-    {
-      "id": "5093590",
-      "time": "2026-09-14 22:22:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：房地美髮行超過 8.1567 億美元的 K-567 多戶住宅商業抵押貸款支援證券。"
-    },
-    {
-      "id": "5093589",
-      "time": "2026-09-14 22:21:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【希臘南部海域移民船傾覆事故已致1人死亡】當地時間9月13日晚上，希臘克里特島以南海域一艘載有約70人的難民船傾覆沉沒，目前已造成1人死亡，約20人失蹤，51人獲救。獲救人員已被送往克里特島上的移民安置中心。（央視新聞）"
     }
   ]
 }
