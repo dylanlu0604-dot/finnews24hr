@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-22 03:32:13",
-  "count": 13456,
+  "updated": "2026-09-22 03:36:06",
+  "count": 13453,
   "items": [
+    {
+      "id": "5106311",
+      "time": "2026-09-22 03:35:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯官員：“巴西共識”輪值主席國由烏拉圭移交至秘魯。"
+    },
+    {
+      "id": "5106310",
+      "time": "2026-09-22 03:34:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊副總司令伊扎迪：在近期的戰爭中，伊朗人民依靠兩伊戰爭時期塑造其抵抗精神的相同因素來對抗敵人，其中戰略耐心發揮了關鍵作用。"
+    },
+    {
+      "id": "mkt:01a0c574-7339-7118-8631-8c5fc6855ca3",
+      "time": "2026-09-22 03:32:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation (NOC) said armed gunmen on Monday shut valve 7 on the Sharara crude pipeline to Zawiya port, sharply cutting production at the Sharara field."
+    },
     {
       "id": "5106309",
       "time": "2026-09-22 03:30:48",
@@ -123200,59 +123230,6 @@
         "觀點"
       ],
       "text": "花旗CFO：投行業務收入預計第三季度將實現低個位數增長。"
-    },
-    {
-      "id": "5093835",
-      "time": "2026-09-15 03:35:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "默沙東： 340B 專案及相關政策的潛在變化或將帶來利好，但對業務影響有限。"
-    },
-    {
-      "id": "5093834",
-      "time": "2026-09-15 03:34:41",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗CFO：逾期率保持穩定。"
-    },
-    {
-      "id": "5093833",
-      "time": "2026-09-15 03:34:21",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗CFO：美國消費者韌性強勁，消費支出持續。"
-    },
-    {
-      "id": "mkt:01a0a169-9dec-7118-857e-9068d17baa35",
-      "time": "2026-09-15 03:34:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian President PEZESHKIAN said Iran opposes atrocities by Israel and the United States."
-    },
-    {
-      "id": "mkt:01a0a169-341c-7118-857e-8984690f5db6",
-      "time": "2026-09-15 03:33:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yemen government forces say they struck Houthi positions near Bab al‑Mandeb】Yemen armed forces told Al Jazeera they struck Houthi equipment and personnel in Dhubab and Al‑Khokha, saying the attacks targeted Houthi-held positions in both Red Sea coastal areas. Al‑Khokha is a Red Sea coastal town in southern Hodeidah province about 163 km south of Hodeidah city; Dhubab is a small Taiz coastal town on the Bab al‑Mandeb strait."
-    },
-    {
-      "id": "5093832",
-      "time": "2026-09-15 03:32:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "據半島電視臺：葉門武裝部隊稱，其對曼德海峽附近的胡塞武裝據點實施了打擊。"
     }
   ]
 }
