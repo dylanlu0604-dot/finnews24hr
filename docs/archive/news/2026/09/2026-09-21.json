@@ -1,7 +1,98 @@
 {
   "date": "2026-09-21",
-  "count": 1026,
+  "count": 1036,
   "items": [
+    {
+      "id": "mkt:01a0c2e6-6f18-7118-8621-4223901810e5",
+      "time": "2026-09-21 15:37:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ING: German state election unlikely to materially move euro】ING analyst Francesco Pesole said losses by the CDU in German state elections are likely to have only a limited impact on the euro. He said the results mainly reflect local dynamics rather than a verdict on Merz’s reform agenda. Still, falling CDU support and increasing political fragmentation could make advancing reforms harder, which clouds the euro outlook but is unlikely to supplant interest-rate differentials and oil prices as the currency’s primary drivers."
+    },
+    {
+      "id": "5105057",
+      "time": "2026-09-21 15:36:29",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "原創"
+      ],
+      "text": "【9月21日滬深兩市漲停分析】滬指高開高走漲近1%，醫藥、地產股集體走強，全市上漲個股超4500只。華瓷股份5連板，一圖看懂>>"
+    },
+    {
+      "id": "5105056",
+      "time": "2026-09-21 15:36:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富途證券在香港開設新辦公室 擬招募約2000人】根據公司宣告，富途證券國際(香港)在香港金鐘的太古廣場開設新辦公室。新辦公室面積約42,000平方英尺，是富途在統一中心現有辦公室面積的兩倍多。隨著新辦公室投入使用，富途的總辦公空間已突破 70,000平方英尺。作為其擴張計劃的一部分，富途預計未來五年內將在香港招聘2,000名專業人才。此輪招聘將聚焦於金融科技、財富管理、合規以及風險控制等核心領域。"
+    },
+    {
+      "id": "mkt:01a0c2e4-7425-7118-8621-3ac3472aae2d",
+      "time": "2026-09-21 15:35:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GLE.PA",
+        "Impact bullish"
+      ],
+      "text": "【Societe Generale sets three-year profit targets; AI and automation key to cost cuts】Societe Generale said it will deploy AI and process automation to reduce costs and lift profitability over the next three years. The bank targets cutting the Global Banking and Investor Services cost-to-income ratio to below 60% by 2029 (current target 65%), while growing investment banking and trading revenue. It expects roughly 3% average annual revenue growth and aims to raise ROTE to 13–14% by 2029. Cost savings will come from lower IT and procurement spending and use of AI; any headcount reduction will be delivered through natural attrition, with no numerical guidance provided."
+    },
+    {
+      "id": "mkt:01a0c2e3-79d1-7118-8621-336c8a934e97",
+      "time": "2026-09-21 15:34:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Italy's 10-year bond yield fell 9 bps to 4.355%, after having risen as much as 10 bps last Friday."
+    },
+    {
+      "id": "5105055",
+      "time": "2026-09-21 15:34:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國西電：聘任賈濤為公司副總經理】中國西電公告稱，公司第五屆董事會第十三次會議審議透過議案，同意聘任賈濤擔任公司副總經理，聘期同第五屆董事會任期一致。賈濤未持有公司股份，與公司董事、高階管理人員、實際控制人及持股5%以上股東不存在關聯關係，符合相關任職資格要求。會議同時審議透過修訂《金融衍生業務管理辦法》、智慧化穿透式管理體系建設方案的議案。"
+    },
+    {
+      "id": "5105054",
+      "time": "2026-09-21 15:34:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國商飛旗下上海飛機客戶服務公司增資至41.8億 增幅約76%】天眼查App顯示，近日，上海飛機客戶服務有限公司發生工商變更，註冊資本由23.8億元人民幣增至41.8億元人民幣，增幅約76%。該公司成立於2008年9月，法定代表人為戚學鋒，經營範圍含住宿服務、餐飲服務、飛行訓練、民用航空器維修等。股東資訊顯示，該公司由中國商用飛機有限責任公司全資持股。"
+    },
+    {
+      "id": "5105053",
+      "time": "2026-09-21 15:34:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【津藥藥業：子公司獲得複方氨基酸注射液藥品註冊證書】津藥藥業公告稱，公司子公司湖北津藥藥業股份有限公司收到國家藥監局核准簽發的複方氨基酸注射液（18AA-Ⅶ）《藥品註冊證書》。該藥品為化學藥品4類注射劑，規格為200ml：20.650g（按總氨基酸計），獲批後視同透過仿製藥質量和療效一致性評價，用於低蛋白血癥、低營養狀態和手術前後的氨基酸補充。該藥品獲批將完善公司製劑產品群，對拓展國內製劑市場、提升業績有一定積極影響。"
+    },
+    {
+      "id": "5105052",
+      "time": "2026-09-21 15:34:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利10年期國債收益率<IT10YT=RR>下跌9個基點，報4.355%，上週五該收益率曾上漲10個基點。"
+    },
+    {
+      "id": "5105051",
+      "time": "2026-09-21 15:34:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍天燃氣：控股股東部分股份被凍結及輪候凍結】藍天燃氣公告稱，公司控股股東藍天集團所持部分股份被司法凍結及輪候凍結，本次凍結股份798.32萬股，佔其持股比例2.49%、佔公司總股本1.12%；本次輪候凍結股份686.30萬股，佔其持股比例2.14%、佔公司總股本0.96%，凍結源於民間借貸擔保合同糾紛訴訟保全，案件尚未開庭審理。截至公告披露日，藍天集團及其一致行動人李新華合計持股佔公司總股本51.38%；累計凍結股份1.17億股，佔其合計持股31.96%、佔公司總股本16.42%；累計輪候凍結2.60億股，佔其合計持股70.68%、佔公司總股本36.32%；累計司法標記1000萬股。本次凍結暫不會導致公司控股股東或實控人變更，若未妥善解決或影響控制權穩定性。公司目前生產經營正常。"
+    },
     {
       "id": "5105050",
       "time": "2026-09-21 15:33:54",
