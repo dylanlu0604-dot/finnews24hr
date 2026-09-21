@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-22 03:55:10",
-  "count": 13459,
+  "updated": "2026-09-22 03:58:58",
+  "count": 13460,
   "items": [
+    {
+      "id": "5106325",
+      "time": "2026-09-22 03:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大立法草案顯示，加拿大將任命一名特別調解員，處理對全國具有重大影響的長期爭端。"
+    },
+    {
+      "id": "te:markets:585400",
+      "time": "2026-09-22 03:56:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Coca-Cola Stock Price Hits 5-week Low — Coca-Cola shares decreased to 87.34 USD, the lowest since August 2026. Over the past 4 weeks, Coca-Cola lost 4.91%, and in the last 12 months, it increased 32.11%."
+    },
+    {
+      "id": "5106324",
+      "time": "2026-09-22 03:55:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大立法草案規定，若集體協議已生效五年或以上，合同談判須在協議到期前六個月啟動。"
+    },
     {
       "id": "5106323",
       "time": "2026-09-22 03:54:21",
@@ -123271,22 +123299,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收漲0.45%】NXTT漲9.66%，陸金所控股漲6.80%，MAAS漲4.88%，愛奇藝漲4.68%，叮咚買菜漲4.21%。"
-    },
-    {
-      "id": "mkt:01a0a180-565e-7118-857e-c8bb0247f2e2",
-      "time": "2026-09-15 03:58:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market news: Serbian President Aleksandar Vucic announced he will resign on Sept 27."
-    },
-    {
-      "id": "5093846",
-      "time": "2026-09-15 03:58:22",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗CFO：今年股票回購規模將高於去年，去年回購金額達 130 億美元。"
     }
   ]
 }
