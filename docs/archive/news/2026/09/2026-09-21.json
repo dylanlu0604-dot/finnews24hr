@@ -1,7 +1,244 @@
 {
   "date": "2026-09-21",
-  "count": 1437,
+  "count": 1463,
   "items": [
+    {
+      "id": "mkt:01a0c431-7598-7118-862b-253cb6d4a7aa",
+      "time": "2026-09-21 21:39:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meta Platforms (META.O) shares rose more than 5%."
+    },
+    {
+      "id": "5106042",
+      "time": "2026-09-21 21:39:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta 漲幅擴大至 5%。"
+    },
+    {
+      "id": "5106041",
+      "time": "2026-09-21 21:38:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數升至一個多月高位，最新上漲1.6%。"
+    },
+    {
+      "id": "5106040",
+      "time": "2026-09-21 21:38:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局還因系統中斷，對泰特波羅機場釋出地面停飛指令。"
+    },
+    {
+      "id": "te:markets:585338",
+      "time": "2026-09-21 21:38:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rebounds on Lower Oil Prices — The Ibovespa gained more than 0.5% to trade near 186,500 on Monday, rebounding after closing the prior week in the red amid lower international oil prices. Oil prices declined on hopes for diplomatic progress between the US and Iran. Iranian President Masoud Pezeshkian is expected to attend the United Nations General Assembly in New York this week, and US President Donald Trump has said he would be open to meeting him. Bond yields eased as the halt in the oil rally cooled concerns over spreading inflationary pressures from energy costs, lending some support to credit-sensitive shares. Financials posted gains, with Itaú and Bradesco rising more than 1%. Utilities also advanced, with Axia up more than 1%. The financial market lowered its forecast for the Selic rate at the end of 2026 from 13.75% to 13.50%, while raising its inflation forecast for this year from 4.90% to 4.92%, according to the Focus Bulletin released by the BCB."
+    },
+    {
+      "id": "5106039",
+      "time": "2026-09-21 21:37:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行將於9月22日進行規模7500億盧比的隔夜浮動利率逆回購操作招標。"
+    },
+    {
+      "id": "5106038",
+      "time": "2026-09-21 21:37:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Coinbase向個人投資者開放IPO配售申請 首單智慧戒指製造商Oura本週啟動】美國最大加密貨幣交易所Coinbase宣佈，自本週起允許符合條件的使用者透過其App按發行價申請認購即將上市的公司股票，首單標的為智慧戒指製造商Oura。配售將根據市場需求全額、部分滿足或拒絕，公司稱其分配演算法將優先保障長期投資者權益。"
+    },
+    {
+      "id": "mkt:01a0c42f-5e64-7118-862b-1cffa283a3ad",
+      "time": "2026-09-21 21:37:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Afghanistan's foreign ministry summoned Pakistan's chargé d'affaires in Kabul and delivered a protest note over Pakistan military violations of Afghan airspace and airstrikes on civilian areas and facilities in Kunar and Paktika provinces."
+    },
+    {
+      "id": "mkt:01a0c42e-e20a-7118-862b-1086164d3a92",
+      "time": "2026-09-21 21:36:41",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bearish",
+        "JBLU.O"
+      ],
+      "text": "The U.S. Federal Aviation Administration (FAA) issued a notice suspending flights bound for Newark Liberty International Airport."
+    },
+    {
+      "id": "te:markets:585337",
+      "time": "2026-09-21 21:36:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Extend Increases — US stock indices rose for a third session on Monday as a pullback in oil prices softened Treasury yields and momentarily dampened a deteriorating macroeconomic backdrop. The S&P 500 and the Dow gained over 0.5%, while the Nasdaq 100 jumped 1%. Signs that the GCC extended diplomatic efforts for Tehran to lift their blockade on fuel tankers drove crude oil and product prices to ease further from their peaks this month, hence easing the recent pressure on Treasury securities. Lower credit costs improved the outlook for AI hyperscalers to continue issuing record levels of debt, supporting chip producers and AI infrastructure stocks. The sector was also impacted by debates on risks around AI safety. Intel, AMD, Seagate, Marvell, and Western Digital rose between 3% and 5%. Meanwhile, Meta added more than 2.5% on positive responses to its Muse AI agent. Banks also edged higher on lower borrowing costs, with Citi adding 1.5%. JPMorgan rose 1% following a $20 billion partnership with Qatar."
+    },
+    {
+      "id": "5106037",
+      "time": "2026-09-21 21:35:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "由於裝置故障，美國聯邦航空管理局暫停了紐瓦克機場的進港航班。"
+    },
+    {
+      "id": "5106036",
+      "time": "2026-09-21 21:34:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "Coinbase Global上漲6.5%，Strategy上漲9.4%。"
+    },
+    {
+      "id": "5106035",
+      "time": "2026-09-21 21:34:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "riot平臺公司股價上漲3.8%，Hut 8礦業股價上漲4%，瑪拉控股股價上漲4.4%。"
+    },
+    {
+      "id": "5106034",
+      "time": "2026-09-21 21:34:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "加密貨幣類股票上漲，比特幣升至七個多月來新高。"
+    },
+    {
+      "id": "5106033",
+      "time": "2026-09-21 21:34:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "PROSHARES比特幣策略ETF和ISHARES比特幣信託各上漲4.5%。"
+    },
+    {
+      "id": "mkt:01a0c42b-e669-7118-862b-0dc4fe763643",
+      "time": "2026-09-21 21:33:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA reported the Pope’s special envoy plans to visit Russia at the end of September."
+    },
+    {
+      "id": "mkt:01a0c42b-8c61-7118-862b-016b9d2b2a26",
+      "time": "2026-09-21 21:33:03",
+      "tags": [
+        "MKT News",
+        "WBD.O",
+        "Impact bullish",
+        "PARA.O"
+      ],
+      "text": "Warner Bros. Discovery shares jumped 7% after reports that Paramount had discussed concessions with the California Attorney General, including a $1.5 billion investment."
+    },
+    {
+      "id": "5106032",
+      "time": "2026-09-21 21:33:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統新聞秘書：美對俄新制裁不利於俄美關係修復】俄羅斯總統新聞秘書佩斯科夫21日表示，美國透過針對俄羅斯石油天然氣出口的新制裁法律不利於修復兩國關係和解決俄烏衝突。佩斯科夫在當天舉行的新聞釋出會上說，目前美國針對俄羅斯企業、個人等的各種制裁已超過3萬項，俄羅斯已在相當程度上適應了這些制裁，並採取措施最大限度降低制裁的負面影響。據媒體報道，9月18日，美國總統特朗普將《2026年格雷厄姆制裁俄羅斯和伊朗法案》簽署成法。該法以已故聯邦參議員林賽·格雷厄姆命名，針對物件包括：俄聯邦政府高階官員、相關金融機構、俄政府擁有或控制的其他實體等。該法授權美聯邦政府對從俄進口的商品最高徵收500%從價關稅。(新華社)"
+    },
+    {
+      "id": "5106031",
+      "time": "2026-09-21 21:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "SECURITIZE股價在前兩個交易日飆升40%後再漲4%。"
+    },
+    {
+      "id": "5106030",
+      "time": "2026-09-21 21:32:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾(INTC.O)漲幅迅速擴大至10%。Arm(ARM.O)漲超10%。"
+    },
+    {
+      "id": "mkt:01a0c42a-c45a-7118-862a-fed7367487a3",
+      "time": "2026-09-21 21:32:12",
+      "tags": [
+        "MKT News",
+        "ARM.O",
+        "Impact bullish"
+      ],
+      "text": "Arm (ARM.O) shares rose more than 10%."
+    },
+    {
+      "id": "5106029",
+      "time": "2026-09-21 21:32:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "新時代能源與數字股價上漲18.4%，此前公司宣佈其子公司與Vistra關聯公司簽署電力採購協議。"
+    },
+    {
+      "id": "mkt:01a0c42a-4f46-7118-862a-f05b77905844",
+      "time": "2026-09-21 21:31:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) shares surged, gains quickly widened to 10%."
+    },
+    {
+      "id": "mkt:01a0c42a-242d-7118-862a-ef53931a9ba8",
+      "time": "2026-09-21 21:31:31",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened higher on Monday, Sept. 21: Dow Jones Industrial Average up 316.93 points (+0.61%) to 51,999.57 at the open; Nasdaq Composite up 209.78 points (+0.79%) to 26,732.33; S&P 500 up 45.51 points (+0.59%) to 7,695.63."
+    },
+    {
+      "id": "5106028",
+      "time": "2026-09-21 21:31:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "關鍵金屬股開盤飆升32%，美國稀土上漲9%。"
+    },
+    {
+      "id": "5106027",
+      "time": "2026-09-21 21:31:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "受加州和解談判進展影響，派拉蒙股價開盤上漲4.7%。"
+    },
     {
       "id": "5106026",
       "time": "2026-09-21 21:31:09",
