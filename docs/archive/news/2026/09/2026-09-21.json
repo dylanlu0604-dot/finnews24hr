@@ -1,7 +1,135 @@
 {
   "date": "2026-09-21",
-  "count": 870,
+  "count": 883,
   "items": [
+    {
+      "id": "mkt:01a0c2b1-179c-7118-8620-3d21723dadee",
+      "time": "2026-09-21 14:39:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Mainland A-share financial sector rallied in the afternoon session; Nanhua Futures and Huajin Capital hit the daily limit, Huaxin Yongdao rose over 10%, and Xiangcai, Huachuang Yunxin, Hualin Securities, Hua'an Securities and Huaxi Securities also climbed."
+    },
+    {
+      "id": "5104937",
+      "time": "2026-09-21 14:39:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西百色黃百鐵路樂業隧道今日順利貫通】今天（9月21日），正在建設中的黃百鐵路有了新進展，全線首座長隧道樂業隧道實現貫通。作為西部陸海新通道標誌性工程，黃百鐵路連線貴州黃桶與廣西百色，全長約315公里，它北接成渝、南連北部灣，建成後將成為我國西南地區通江達海里程最短、速度最快的貨運通道。（央視新聞）"
+    },
+    {
+      "id": "5104936",
+      "time": "2026-09-21 14:39:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月21日：“農產品批發價格200指數”比昨天下降0.14個點】據農業農村部監測，9月21日“農產品批發價格200指數”為116.49，比昨天下降0.14個點，“菜籃子”產品批發價格指數為117.10，比昨天下降0.20個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.27元/公斤，比昨天下降0.4%；牛肉71.59元/公斤，比昨天上升0.6%；羊肉66.74元/公斤，比昨天上升0.4%；雞蛋11.17元/公斤，比昨天下降0.4%；白條雞17.31元/公斤，比昨天下降0.2%。重點監測的28種蔬菜平均價格為4.57元/公斤，比昨天下降0.4%；重點監測的6種水果平均價格為6.64元/公斤，比昨天上升0.8%。鯽魚19.91元/公斤，比昨天上升1.7%；鯉魚13.96元/公斤，比昨天上升0.6%；白鰱魚10.13元/公斤，比昨天下降0.6%；大帶魚41.98元/公斤，比昨天下降0.2%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是洋白菜、西瓜、巨峰葡萄、油菜和鯽魚，幅度分別為3.3%、2.8%、2.3%、1.8%和1.7%；價格降幅前五名的是大蔥、南瓜、白蘿蔔、平菇和蔥頭，幅度分別為2.6%、2.5%、1.6%、1.6%和1.5%。"
+    },
+    {
+      "id": "5104935",
+      "time": "2026-09-21 14:38:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多元金融板塊震盪反彈，南華期貨漲停】多元金融板塊震盪反彈，南華期貨漲停，*ST九鼎、華金資本、新力金融、弘業期貨、愛建集團、海德股份等跟漲。"
+    },
+    {
+      "id": "5104934",
+      "time": "2026-09-21 14:38:40",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美債收益率飆升之際 新興市場投資者更青睞本幣債】隨著美國國債收益率飆升削弱美元計價新興市場債券的吸引力，新興市場投資者目前仍傾向於持有本幣主權債券。這一策略背後的驅動力在於具有吸引力的估值，以及透過套息交易獲取收益的潛力，即投資者借入低收益貨幣並投資於高收益資產。這種偏好體現在資金流向、持倉狀況和相對錶現上。自6月底以來，彭博新興市場本幣債券指數已跑贏美元計價債券指數超過3個百分點，有望錄得自2022年以來最大的季度領先幅度。基金經理也在利用這種分化行情。美國銀行對管理資產規模合計達4,440億美元的38位全球固定收益基金經理進行的調查顯示，其中84%的受訪者相對於硬通貨債券超配新興市場本幣債，而8月份這一比例僅為38%。調查於9月4日至9日進行。不過，在美聯儲加息並暗示可能進一步收緊政策後，這一投資策略仍可能面臨考驗。若美元重新走強，可能促使投資者撤離本幣債等新興市場資產。"
+    },
+    {
+      "id": "mkt:01a0c2af-e6b2-7118-8620-331e22dcb5ce",
+      "time": "2026-09-21 14:38:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France's economy and finance minister said fuel subsidies will not involve an across-the-board tax cut."
+    },
+    {
+      "id": "mkt:01a0c2af-d7bf-7118-8620-2dfeeabe36df",
+      "time": "2026-09-21 14:38:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hebei: industrial value added of enterprises above designated size +5.0% YoY Jan–Aug】Hebei statistical bureau said industrial value added of enterprises above designated size rose 5.0% YoY in Jan–Aug. By sector: mining +2.5% YoY, manufacturing +5.8%, power/heat/gas and water supply +2.6%. By ownership: state-controlled +0.6%, joint-stock +4.8%, foreign/HK-Macau/Taiwan-funded +9.5%, private +7.4%. By firm size: large +4.5%, medium +3.6%, small +7.1%. Of 40 major industries tracked, 28 (70.0%) expanded; strongest growth seen in instrument manufacturing +49.3%, nonferrous metal mining +22.8%, pharmaceuticals +14.6%, rail/ship/aerospace & other transport equipment +10.5%, and auto manufacturing +8.7%."
+    },
+    {
+      "id": "5104933",
+      "time": "2026-09-21 14:38:02",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【報道：阿里巴巴任命劉大一恆為QwenLLM團隊新負責人】據兩位知情員工透露，阿里巴巴集團已任命資深AI研究人員劉大一恆擔任Qwen（通義千問）大語言模型專案負責人。知情人士表示，在今年早些時候歷經多輪組織重組後，劉大一恆的任職，進一步釐清了Qwen團隊的管理層架構。阿里巴巴一年一度的雲棲大會將於週二開幕，在大會官網的演講嘉賓名單頁面，劉大一恆的個人肖像位置十分突出，緊隨集團主席蔡崇信、執行長吳泳銘之後。官網標註其職務為Qwen大語言模型專案負責人。"
+    },
+    {
+      "id": "mkt:01a0c2af-6cff-7118-8620-2113babfddde",
+      "time": "2026-09-21 14:37:51",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "France's economy and finance minister said additional fuel aid is expected to be provided from Oct 1."
+    },
+    {
+      "id": "5104932",
+      "time": "2026-09-21 14:37:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國投電力在鹽城成立能源新公司】企查查APP顯示，近日，鹽城國匯能源有限公司成立，經營範圍包含太陽能發電技術服務；風力發電技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由國投電力全資持股。"
+    },
+    {
+      "id": "mkt:01a0c2ae-40db-7118-8620-1a3c77950ba6",
+      "time": "2026-09-21 14:36:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution",
+        "BABA.N"
+      ],
+      "text": "According to The Information, Alibaba has appointed Liu Dayiheng as the new head of its Qwen LLM team."
+    },
+    {
+      "id": "5104931",
+      "time": "2026-09-21 14:36:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【河北：1-8月份全省規模以上工業增加值同比增長5.0%】河北省統計局釋出資料，1-8月份，全省規模以上工業增加值同比增長5.0%。分三大門類看，採礦業增加值增長2.5%，製造業增長5.8%，電力、熱力、燃氣及水生產和供應業增長2.6%。分經濟型別看，國有控股企業增加值增長0.6%；股份制企業增長4.8%，外商及港澳臺投資企業增長9.5%；私營企業增長7.4%。分企業規模看，大型企業增加值增長4.5%，中型企業增長3.6%，小型企業增長7.1%。分行業看，規模以上工業統計的40個行業大類中，28個行業實現增長，增長面為70.0%。其中，儀器儀表製造業增加值增長49.3%，有色金屬礦採選業增長22.8%，醫藥製造業增長14.6%，鐵路船舶航空航天和其他運輸裝置製造業增長10.5%，汽車製造業增長8.7%。"
+    },
+    {
+      "id": "5104930",
+      "time": "2026-09-21 14:36:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "迪拜南部在迪拜經濟城物流園區正式啟用迪奧中東新區域分銷中心。"
+    },
     {
       "id": "5104929",
       "time": "2026-09-21 14:35:53",
