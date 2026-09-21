@@ -1,7 +1,49 @@
 {
   "date": "2026-09-21",
-  "count": 1730,
+  "count": 1734,
   "items": [
+    {
+      "id": "te:markets:585373",
+      "time": "2026-09-21 23:46:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Analog Devices Stock Price Hits 4-week High — Analog Devices shares increased to 380.40 USD, the highest since August 2026. Over the past 4 weeks, Analog Devices gained 2.45%, and in the last 12 months, it increased 53.74%."
+    },
+    {
+      "id": "mkt:01a0c4a5-c4c8-7118-862e-4857eff6c727",
+      "time": "2026-09-21 23:46:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "MOL.BU"
+      ],
+      "text": "Hungary MOL said the group does not require Hungarian government involvement in preparatory work at this stage."
+    },
+    {
+      "id": "mkt:01a0c4a2-cc24-7118-862e-428c1eb2ef3e",
+      "time": "2026-09-21 23:43:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "MOL Group said it has signed a letter of intent with Ukraine's Naftogaz to explore establishing fuel storage facilities for Ukraine under an international cooperation framework. Both parties agreed the proposal merits further study, but the project remains at an early stage."
+    },
+    {
+      "id": "5106192",
+      "time": "2026-09-21 23:43:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅同德國外長瓦德富爾通電話】中共中央政治局委員、外交部長王毅21日應約同德國外長瓦德富爾通電話。王毅表示，中德是世界主要經濟體和全方位戰略伙伴，面對當前單邊主義和逆全球化衝擊，雙方有必要加強戰略溝通，增進彼此互信，深化務實合作，釋放中德共同維護多邊主義和自由貿易的積極訊號，增強外界對中德關係發展的信心，也為中歐關係發展起到建設性作用。加強中德互利合作符合雙方利益，是正確的共同選擇。我們要珍惜迄今取得的進展，推動中德合作走深走實，不斷取得新的成果。（新華社）"
+    },
     {
       "id": "5106191",
       "time": "2026-09-21 23:42:52",

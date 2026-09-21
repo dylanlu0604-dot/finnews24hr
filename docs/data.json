@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-21 23:43:42",
-  "count": 13469,
+  "updated": "2026-09-21 23:47:43",
+  "count": 13467,
   "items": [
+    {
+      "id": "te:markets:585373",
+      "time": "2026-09-21 23:46:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Analog Devices Stock Price Hits 4-week High — Analog Devices shares increased to 380.40 USD, the highest since August 2026. Over the past 4 weeks, Analog Devices gained 2.45%, and in the last 12 months, it increased 53.74%."
+    },
+    {
+      "id": "mkt:01a0c4a5-c4c8-7118-862e-4857eff6c727",
+      "time": "2026-09-21 23:46:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "MOL.BU"
+      ],
+      "text": "Hungary MOL said the group does not require Hungarian government involvement in preparatory work at this stage."
+    },
+    {
+      "id": "mkt:01a0c4a2-cc24-7118-862e-428c1eb2ef3e",
+      "time": "2026-09-21 23:43:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "MOL Group said it has signed a letter of intent with Ukraine's Naftogaz to explore establishing fuel storage facilities for Ukraine under an international cooperation framework. Both parties agreed the proposal merits further study, but the project remains at an early stage."
+    },
+    {
+      "id": "5106192",
+      "time": "2026-09-21 23:43:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅同德國外長瓦德富爾通電話】中共中央政治局委員、外交部長王毅21日應約同德國外長瓦德富爾通電話。王毅表示，中德是世界主要經濟體和全方位戰略伙伴，面對當前單邊主義和逆全球化衝擊，雙方有必要加強戰略溝通，增進彼此互信，深化務實合作，釋放中德共同維護多邊主義和自由貿易的積極訊號，增強外界對中德關係發展的信心，也為中歐關係發展起到建設性作用。加強中德互利合作符合雙方利益，是正確的共同選擇。我們要珍惜迄今取得的進展，推動中德合作走深走實，不斷取得新的成果。（新華社）"
+    },
     {
       "id": "5106191",
       "time": "2026-09-21 23:42:52",
@@ -123282,57 +123324,6 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡：以色列摧毀了真主黨的“主要據點”，如果（對方）再度發動襲擊，將遭受更為沉重的打擊。"
-    },
-    {
-      "id": "5093699",
-      "time": "2026-09-14 23:47:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪克體育用品公司表示，生產能力的限制正在減緩新產品的推出。"
-    },
-    {
-      "id": "5093698",
-      "time": "2026-09-14 23:46:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic代表稱，AI發展將“以（值得）信任的速度推進”。"
-    },
-    {
-      "id": "5093697",
-      "time": "2026-09-14 23:45:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普的美國郵政署郵寄選票新規遭遇第二重阻礙，美國最高法院正審理此案。"
-    },
-    {
-      "id": "5093696",
-      "time": "2026-09-14 23:45:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "雅培公司因與嬰兒配方奶粉的和解協議而股價上漲至2%。"
-    },
-    {
-      "id": "5093695",
-      "time": "2026-09-14 23:45:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：伊朗多次表示，無意與美國談判達成協議。"
-    },
-    {
-      "id": "5093694",
-      "time": "2026-09-14 23:44:50",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國戰略石油儲備原油庫存上週減少約360萬桶，降至2.85億桶，為1982年以來最低水平。"
     }
   ]
 }
