@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-22 06:48:17",
-  "count": 13446,
+  "updated": "2026-09-22 06:52:07",
+  "count": 13450,
   "items": [
+    {
+      "id": "5106413",
+      "time": "2026-09-22 06:51:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4360美元/盎司，日內漲0.40%。"
+    },
+    {
+      "id": "5106412",
+      "time": "2026-09-22 06:50:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國、丹麥和格陵蘭將於週二在聯合國簽署協議。"
+    },
+    {
+      "id": "5106411",
+      "time": "2026-09-22 06:50:40",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週二重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 “貝森特導師”德魯肯米勒可能首次造訪韓國，將與海力士、三星等洽談投資；\n② 時間待定 棲大會在杭州開幕（9月22-24日）；\n③ 11:10 澳洲聯儲主席Bullock參加一場爐邊閒聊；\n④ 15:30 澳洲聯儲MPB成員Ross AO講話；\n⑤ 16:00 愛沙尼亞央行行長、歐洲央行管委Kaasik遞交經濟預期；\n⑥ 16:30 歐洲央行管委兼德國央行行長Nagel講話；\n⑦ 17:10 歐洲央行管委Kocher講話；\n⑧ 19:00 歐洲央行行長拉加德講話（預先錄製的影片）；\n⑨ 20:00 歐洲央行管委Sleijpen講話；\n⑩ 時間待定 聯合國大會（美國紐約），伊朗領導人將出席；\n20:30 歐洲央行管委Sleijpen與歐洲央行監督管理委員會主席Claudia Buch在阿姆斯特丹講話；\n22:00 歐元區9月消費者信心指數初值；\n22:05 美國紐約聯儲主席（享有FOMC永久投票權、號稱美聯儲三把手）威廉姆斯在“2026年美國國債市場會議”上發表主旨演講；\n22:10 歐洲央行管委Simkus講話；\n22:20 美聯儲副主席Jefferson在紐約聯儲主辦的美債市場會議上講話。"
+    },
+    {
+      "id": "mkt:01a0c628-6e7c-7118-8633-29acb9709591",
+      "time": "2026-09-22 06:48:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "【Reserve Bank of Australia deputy governor Hunt says further rate hike possible】Reserve Bank of Australia deputy governor Hunt said on a podcast the bank may need to raise rates for a fourth time this year to ensure inflation is contained, highlighting market bets on a rate rise as soon as next week. She said the board is concerned inflation could remain too high and become embedded in pricing, citing higher energy costs from the Middle East conflict and signs that domestic demand is outstripping supply. The board could decide it must lift the cash rate again to slow the economy slightly and address those pressures."
+    },
+    {
+      "id": "5106410",
+      "time": "2026-09-22 06:47:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【專家：四季度人民幣匯率或偏強執行雙向波動】在日前升破6.70元后，人民幣對美元匯率9月21日繼續整體小幅上漲。專家表示，人民幣匯率的核心支撐來自我國經濟基本面，出口強勁、結匯需求旺盛等因素助力人民幣匯率表現偏強。在短期內，人民幣匯率有望延續穩中偏強走勢；從長期看，雙向波動仍將是常態。（中證報）"
+    },
     {
       "id": "5106409",
       "time": "2026-09-22 06:45:19",
@@ -123154,14 +123203,6 @@
         "國際"
       ],
       "text": "【國內原油期貨首次升破900元/桶 推高化工品價格】受中東地緣衝突持續發酵、霍爾木茲海峽通航受阻影響，國際油價持續衝高，國內原油期貨更是迎來罕見暴漲。9月14日，國內期貨市場原油期貨主力合約價格盤中首次升破900元/桶。油價強勢上行帶動大宗商品成本端全面抬升，和原油相關的產業，特別是化工產業也受到一些影響。同時，高油價持續傳導至產業鏈，上下游企業盈利分化明顯，油氣零售企業受益於價差擴張業績大增，而低毛利瀝青等企業則面臨成本攀升、經營壓力加大的局面。（證券時報）"
-    },
-    {
-      "id": "mkt:01a0a21b-a1ca-7118-8580-74a4c37fb5a3",
-      "time": "2026-09-15 06:48:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "No Going Back PAC, a newly formed super PAC tied to Trump’s political operation, reported roughly $21m in independent expenditures in competitive Senate and House races. Trump’s main super PAC, MAGA Inc., reported about $403.5m cash on hand as of July 31; Trump has said his political operation could spend up to $500m on the midterms."
     }
   ]
 }
