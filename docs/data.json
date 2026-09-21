@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-22 03:13:05",
-  "count": 13456,
+  "updated": "2026-09-22 03:16:57",
+  "count": 13455,
   "items": [
+    {
+      "id": "5106302",
+      "time": "2026-09-22 03:16:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "瓦萊羅能源和馬拉松石油股價延續跌勢，跌至盤中低點。"
+    },
+    {
+      "id": "5106301",
+      "time": "2026-09-22 03:16:03",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通與卡達投資局擬建立200億美元投資夥伴關係】卡達的財富基金計劃與摩根大通建立200億美元的夥伴關係。該基金幾個月前與高盛簽署了類似協議，凸顯其與華爾街日益深化的關係。根據週一釋出的宣告，卡達投資局(QIA)與摩根大通資產管理的合作將涵蓋公開市場和私募市場的股票及信貸。計劃中的協議將包括一項150億美元的公開市場股票投資委託，以支援QIA的長期投資目標，以及一項規模50億美元、聚焦美國中型企業的私募市場投資計劃。"
+    },
+    {
+      "id": "5106300",
+      "time": "2026-09-22 03:14:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【丹麥及格陵蘭島將和美國簽署安全協議】丹麥首相府21日宣佈，丹麥及其自治領地格陵蘭島和美國將於22日在紐約簽署一項安全協議，“以加強北極及北大西洋地區安全”。（新華社）"
+    },
+    {
+      "id": "te:economy:585397",
+      "time": "2026-09-22 03:14:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Paraguay Holds Key Interest Rate at 5.50% — Paraguay’s central bank kept its policy rate unchanged at 5.50% at its September 2026 meeting. The bank noted that economic activity continues to perform favorably, in line with its projected 4.5% growth for 2026. Annual inflation remains low, mainly due to the behavior of goods prices, which increased 0.4%, particularly non-energy goods. Meanwhile, inflation in services and rents remains around 3.5%. Inflation is projected at 3.3% by year-end, converging toward the target over the monetary policy horizon. Inflation expectations remain aligned with the target. The external environment remains subject to risks, including developments in international petroleum product prices and uncertainty related to the conflict in the Middle East, particularly its potential implications for supply conditions and energy prices. In addition, market expectations point to another increase in the federal funds rate over the remainder of the year."
+    },
+    {
+      "id": "mkt:01a0c563-f542-7118-8631-6b9747f96804",
+      "time": "2026-09-22 03:14:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Wall Street Journal reports the Trump administration proposes committing $5 billion to seed an investment fund to rebuild Gulf of Mexico energy infrastructure."
+    },
+    {
+      "id": "5106299",
+      "time": "2026-09-22 03:14:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普政府提議撥款50億美元啟動海灣能源設施重建投資基金】據美國和多位中東官員透露，特朗普政府已提議向一項新基金注資50億美元，以幫助中東國家重建在伊朗戰爭中遭到破壞的能源基礎設施，並降低這些國家對霍爾木茲海峽石油和天然氣運輸的依賴。此舉等於預設承認，這場長達七個月的衝突已經攪亂了全球能源市場，摧毀了該地區的輸油管道和煉油廠，而重建這些設施將耗費巨資。根據特朗普的計劃，美國將尋求八個中東夥伴國——沙烏地阿拉伯、阿聯酋、卡達、巴林、科威特、阿曼、伊拉克和約旦的等額配套資金，目標是成立一個規模達100億美元的投資基金。該投資基金將被命名為“盟國信任與建設夥伴關係”（Pact）。美國官員表示，關於該基金的討論正在進行中，相關安排條款可能會發生變化。目前尚不清楚其他國家何時（甚至是否會）正式加入。"
+    },
     {
       "id": "5106298",
       "time": "2026-09-22 03:11:58",
@@ -123191,73 +123246,6 @@
         "Emerging Markets"
       ],
       "text": "Iranian President Pezeshkian said Iran is ready to pursue economic cooperation with India at Chabahar."
-    },
-    {
-      "id": "mkt:01a0a159-c7cb-7118-857e-4cabd069c1ea",
-      "time": "2026-09-15 03:16:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "MSNOW reported President Trump met OpenAI CEO Altman at the Republican convention."
-    },
-    {
-      "id": "5093829",
-      "time": "2026-09-15 03:15:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普在共和黨全國代表大會期間與OpenAI執行長山姆・奧特曼會面。"
-    },
-    {
-      "id": "mkt:01a0a157-954d-7118-857e-41e60a7389a0",
-      "time": "2026-09-15 03:14:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "Sky News reports several of the UK's largest banks will this week launch fundraising to provide tens of millions of pounds to a newly formed UK Payments Delivery Company. The platform could evolve into a domestic payments system and potentially become an alternative to Mastercard and Visa."
-    },
-    {
-      "id": "5093828",
-      "time": "2026-09-15 03:13:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "法爾斯通訊社：伊朗伊斯蘭革命衛隊稱油輪在霍爾木茲海峽觸雷。"
-    },
-    {
-      "id": "mkt:01a0a157-07e1-7118-857e-383e60ae7522",
-      "time": "2026-09-15 03:13:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President PEZESHKIAN said regional countries can create security and a vibrant economy through cooperation."
-    },
-    {
-      "id": "5093827",
-      "time": "2026-09-15 03:13:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：地區各國可以透過合作打造安全環境與充滿活力的經濟。"
-    },
-    {
-      "id": "mkt:01a0a156-599a-7118-857e-30863490858d",
-      "time": "2026-09-15 03:13:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian President Pezeshkian said Iran has no intention of going to war with Saudi Arabia."
     }
   ]
 }
