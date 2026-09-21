@@ -1,7 +1,35 @@
 {
   "date": "2026-09-22",
-  "count": 220,
+  "count": 223,
   "items": [
+    {
+      "id": "te:markets:585401",
+      "time": "2026-09-22 04:07:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise on Easing Yields and Tech Gains — US stock indices closed higher on Monday as Treasury yields eased, temporarily dampening concerns over an adverse macroeconomic backdrop, while technology stocks staged a fresh rally. The S&P 500 rose 1.5%, the Nasdaq jumped 2.8% to over a month high, and the Dow added 367 points. President Trump said he would be open to meeting his Iranian counterpart, Masoud Pezeshkian, on the sidelines of the UN General Assembly. Meanwhile, observed Saudi oil loadings from inside the Persian Gulf jumped over the weekend. Crude oil and refined product prices eased further from their peaks this month, reducing recent pressure on bonds. Lower credit costs improved the outlook for AI hyperscalers to continue issuing record levels of debt, supporting chip producers and AI infrastructure stocks. Signs of success for Meta’s (+11.4%) new AI agent also sparked enthusiasm over chip demand. AMD soared 9.9%, closing above $1 trillion in market value for the first time, while Intel surged 12.1%."
+    },
+    {
+      "id": "5106336",
+      "time": "2026-09-22 04:06:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "Travere Therapeutics執行長Eric Dube將於2026年12月卸任。"
+    },
+    {
+      "id": "5106335",
+      "time": "2026-09-22 04:06:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軟銀投資的資料中心供應商SB Energy推遲IPO】軟銀支援的SB Energy已推遲原定於本月進行的首次公開募股(IPO)。據悉，在SB Energy及其承銷銀行尋求的價格區間內，銀行難以找到足夠多的投資者認購該公司股票。"
+    },
     {
       "id": "mkt:01a0c592-ddd2-7118-8631-ef0f6d45d3cc",
       "time": "2026-09-22 04:05:31",
