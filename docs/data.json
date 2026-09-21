@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-21 08:02:50",
+  "updated": "2026-09-21 08:06:39",
   "count": 13624,
   "items": [
+    {
+      "id": "mkt:01a0c148-d7b1-7118-861a-5f0ece0b913b",
+      "time": "2026-09-21 08:06:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI touched 7,000 intraday, up 1.57% on the day."
+    },
+    {
+      "id": "mkt:01a0c148-c6f4-7118-861a-56b5e08391e2",
+      "time": "2026-09-21 08:06:07",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "Samsung Electronics shares rose 3%; SK Hynix rose 1.4%."
+    },
+    {
+      "id": "5104476",
+      "time": "2026-09-21 08:05:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜回應資料隱私爭議：ZCode即將正式開源，並開展安全審計】近期捲入資料隱私安全爭議的ZCode，即將迎來開源。國內大模型企業智譜旗下AI程式設計工具ZCode即將正式開源。據智譜方面表示，此次開源是回應外界對ZCode資料處理擔憂的第一步；未來還將推動ZCode更加徹底地走向社群化，歡迎外界下載、檢查程式碼，共同參與改進。在安全性方面，智譜透露，已邀請中國資訊通訊研究院對ZCode開展安全審計，重點核查資料留存情況，此後將每月公佈程式碼安全審計報告。未來還將建立常態化的產品安全漏洞報告機制，歡迎開發者夥伴共同檢查、反饋問題，平臺將根據問題嚴重等級給予相應回報。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:01a0c148-2b0c-7118-861a-4fac14a29e43",
+      "time": "2026-09-21 08:05:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "2513.HK",
+        "Impact bullish"
+      ],
+      "text": "【Zhipu (2513.HK) to open-source ZCode and conduct security audit】China-based AI firm Zhipu (2513.HK) said its AI coding model ZCode will be officially open-sourced soon and will undergo security audits. The company described the move as the first step in addressing external concerns about ZCode's data handling and said it will push ZCode toward a community-driven model, inviting third parties to download, inspect the code and help improve it."
+    },
+    {
+      "id": "5104475",
+      "time": "2026-09-21 08:05:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "掉期市場目前預測日本央行10月底下次政策會議加息的機率不到20%，12月會議加息機率則接近90%。"
+    },
+    {
+      "id": "mkt:01a0c146-f45b-7118-861a-4579f9371c98",
+      "time": "2026-09-21 08:04:07",
+      "tags": [
+        "MKT News",
+        "0700.HK",
+        "Impact bearish",
+        "9988.HK"
+      ],
+      "text": "【Xinhua commentary: Do not let splash-screen ads become \"digital roadblocks\"】Xinhua urged systemwide remediation of intrusive splash-screen advertising, calling for a shift from short-term fixes to sustained regulatory oversight. It said enforcement should move earlier, impose deeper constraints and tougher penalties, and make responsibility explicit across the ad chain—whoever integrates, reviews or operates ads must be held accountable. The commentary singled out covert or fake close buttons, high-sensitivity 'shake-to-redirect' triggers and click-inducement techniques as high-frequency violations requiring strengthened routine monitoring, intensified enforcement and higher penalties to raise the cost of noncompliance. It also called for retrospective inspections of platforms and apps already reported as fixed to prevent recurrence through rebranded ads."
+    },
+    {
+      "id": "5104473",
+      "time": "2026-09-21 08:03:53",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本長假期間日元恐進一步走低 干預視窗或再次開啟】日元未來一週可能出現劇烈波動並進一步走低，日本的三天假期勢將降低交易流動性，且投資者對日本央行未就未來加息步伐提供更明確的指引感到失望。週一，日元兌美元匯率持穩於156.86附近，上週五一度下跌1.3%，原因是兩名日本央行委員對加息投下反對票。隨後有報道稱，官員們致電市場參與者進行匯率詢價，這一舉動通常被視為官方干預的前兆，但日元也僅僅是收窄了跌幅。日元上週累計下跌超過2%，創下近一年來最大單週跌幅。“就像最近日元在日本央行會議前大多表現強勁一樣，日本央行又一次扼殺了它的漲勢，”凱投宏觀高階市場經濟學家James Reilly在一份報告中寫道。“似乎可以說，日元兌美元能否出現實質性回升，取決於美國方面。”"
+    },
+    {
+      "id": "5104472",
+      "time": "2026-09-21 08:02:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲1.1%，至6972.68點。"
+    },
     {
       "id": "mkt:01a0c145-6929-7118-861a-3c7e0a486d08",
       "time": "2026-09-21 08:02:26",
@@ -124773,73 +124851,6 @@
         "MKT News"
       ],
       "text": "TASNIM News, citing Arab sources, reported a wave of Yemeni drone and missile strikes on sensitive sites in southern Saudi Arabia. The report said Aramco oil and gas facilities were targeted and that fires broke out at some installations."
-    },
-    {
-      "id": "5091894",
-      "time": "2026-09-14 08:06:27",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【經濟日報金觀平：投資於人拓展消費增長空間】8月份召開的國務院第十二次全體會議對進一步做強國內大迴圈、充分釋放內需潛力作出部署，強調要“協同推動投資於人和促進消費，加大政策資源傾斜”。協同推動投資於人和促進消費，既是對民生期盼的積極回應，也是順應消費升級趨勢的必然選擇。當更多人有技能、有崗位、有收入、有預期，消費變化就不止於總量的增加，還體現在層次提升和結構最佳化上。這樣的消費升級，必將為建設強大國內市場注入更加深厚持久的動能。"
-    },
-    {
-      "id": "5091893",
-      "time": "2026-09-14 08:06:18",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：9月交執行業建議沿三條主線佈局】華泰證券研報稱，展望9月，中東局勢反覆與快遞旺季臨近或成為交運板塊的主要催化，建議沿三條主線佈局：（1）油運彈性。地緣風險溢價上升疊加船舶供給擾動，油運運價環比有望走高。（2）低位佈局快遞旺季。區域性價格管控趨嚴，旺季漲價或形成催化。（3）配置兼具紅利和成長的個股，此外關注高成長物流、低估值航空。航空估值和關注度均處相對低位，等待油價回落催化。"
-    },
-    {
-      "id": "5091892",
-      "time": "2026-09-14 08:06:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【檔案顯示：肯尼迪中心最早或於週二關閉，警示瀕臨破產】據《華盛頓郵報》獲取的檔案顯示，由唐納德・特朗普總統任命的約翰・F・肯尼迪表演藝術中心管理層稱，該中心已瀕臨破產；管理層提出，將總統名字刻在建築外立面，以此依託他的募資能力，或許是避免機構即刻、“必然發生的財務崩潰” 的唯一辦法。這份悲觀評估寫在一份長達 57 頁的材料中，該材料已於週二特別會議前分發給中心董事會。由特朗普主導的董事會計劃在本次會議審議兩項決議，應對這座國家表演藝術中心面臨的雙重危機：財務危機與建築本體安全問題。中心官員稱，該機構 “幾周內” 就可能無力發放薪資、支付日常維保合同；並表示公開認可特朗普，有望獲得他的幫助，籌得足夠資金維持機構運轉。"
-    },
-    {
-      "id": "5091891",
-      "time": "2026-09-14 08:05:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【 加拿大總理將訪歐 尋求歐盟“準成員國”特殊地位 】 加拿大總理卡尼將於9月15日至17日訪問法國斯特拉斯堡和英國利物浦，尋求進一步加強與歐洲的關係。據美國方面13日訊息，卡尼此行尋求加拿大獲得歐盟“準成員國”的特殊地位。來自歐盟和加拿大官員稱，歐盟對給予加拿大“準成員國”地位的想法持開放態度。“準成員國”這一設想今年早些時候由德國總理默茨提出，該設想最初主要針對烏克蘭。按照默茨的設想，在烏克蘭成為歐盟正式成員國之前，允許其以過渡形式參與歐盟會議和機構運作，但不擁有投票權。分析人士表示，目前歐盟並沒有“準成員國”這一正式類別，加拿大若尋求獲得這一地位，恐面臨一系列障礙。儘管如此，歐美之間不斷加劇的貿易和地緣政治摩擦，很可能促使歐盟考慮以更加靈活的方式與加拿大建立深層次合作關係。"
-    },
-    {
-      "id": "5091890",
-      "time": "2026-09-14 08:05:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌0.5個基點，至2.980%。"
-    },
-    {
-      "id": "5091889",
-      "time": "2026-09-14 08:04:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "愛德萬測試股價下跌4%。"
-    },
-    {
-      "id": "5091888",
-      "time": "2026-09-14 08:04:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【 “十五五”開局之年綠色工廠發展觀察 】綠色發展是中國式現代化的鮮明底色。“十五五”規劃綱要提出推動技術改造升級，發展智慧製造、綠色製造、服務型製造。作為實施綠色製造的基礎單元，綠色工廠正以更少的資源消耗、更低的碳排放創造更高的產品價值，帶動產業鏈協同降碳，助力經濟社會發展全面綠色轉型。 《工業綠色低碳發展“十五五”規劃》要求“突出節能降碳導向，加快制修訂細分行業綠色工廠評價標準”；工業和資訊化部明確將持續完善標準體系，分類制定綠色工廠評價標準，動態更新核心指標要求，以標準規範綠色工廠精準化、精細化建設……一套梯次銜接、動態更新的標準體系正在加快構建。“‘十五五’時期，我們將堅持統籌推進產業綠色化和綠色產業化，以務實舉措培育壯大綠色生產力。”辛國斌表示，到“十五五”末，各級綠色工廠產值佔規模以上製造業總產值比重要力爭達到45%，形成綠色製造系統解決方案。（新華社）"
-    },
-    {
-      "id": "mkt:da29d2cd-eb3d-462f-bf25-5742b93e0ea2",
-      "time": "2026-09-14 08:03:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CITIC Securities: Vera Rubin to spark new AIDC power-supply upcycle】CITIC Securities says NVIDIA's Vera Rubin chip upgrade and power‑architecture changes are the core catalyst for a new AIDC power‑supply cycle. Its review of 2023–present shows the prior cycle was driven by Blackwell chips shipping as NVL72 full‑rack systems, which materially raised power‑supply value content and concentrated supplier earnings in 2025–26. NVIDIA's next‑gen Rubin is in production ramp; chain CapEx, inventories and order signals indicate the ecosystem is prepared and the upcoming cycle could be stronger. A volume ramp of Vera Rubin should boost demand for high‑power PSUs and HVDC sidecars, further increasing power‑supply value; 2027 could mark the start of the next AIDC power‑supply cycle, allowing suppliers to gain share and realize earnings."
     }
   ]
 }
