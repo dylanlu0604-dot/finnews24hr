@@ -1,7 +1,95 @@
 {
   "date": "2026-09-21",
-  "count": 276,
+  "count": 286,
   "items": [
+    {
+      "id": "5104500",
+      "time": "2026-09-21 08:20:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4360美元/盎司，日內跌0.43%。"
+    },
+    {
+      "id": "5104499",
+      "time": "2026-09-21 08:20:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守99美元/桶，日內跌0.30%。"
+    },
+    {
+      "id": "mkt:01a0c156-2a43-7118-861a-7d0c79d407f4",
+      "time": "2026-09-21 08:20:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Preliminary counts show The Left tops Berlin state parliament vote】Preliminary counts early on the 21st show The Left won 25.7% in the Berlin state parliament election, becoming the largest party for the first time and recording its best-ever Berlin result (12.2% in 2023). Former coalition partners fell sharply: the CDU 18.8% (second), the SPD 12.1% — its lowest-ever Berlin share. The Choice Party 16.3% (third); the Greens 14.3%."
+    },
+    {
+      "id": "5104498",
+      "time": "2026-09-21 08:20:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國州選舉結果公佈後，德國國債期貨小幅走高。"
+    },
+    {
+      "id": "mkt:01a0c155-a3fb-7118-861a-72feb1c626a3",
+      "time": "2026-09-21 08:20:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【CITIC Securities: Coal supply-stability measures implemented; supply tightness likely to take time to ease】CITIC Securities said a multi-agency push to secure coal production has been rolled out to restart mines and accelerate release of advanced capacity. The measures target a stable rebound in output to support peak-season demand, but gains will be constrained by safety requirements, approval procedures and monthly production-intensity limits. Given demand recovery and gradual, orderly supply repair, the firm expects the sector to remain overall supply-tight and coal prices to stay elevated, and recommends accumulating well-performing coal names on dips."
+    },
+    {
+      "id": "mkt:01a0c155-2a2b-7118-861a-6ffdef767056",
+      "time": "2026-09-21 08:19:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【South Korea Sept. 1-20 exports hit record as chip exports surge 259.4%】Korea Customs Service said exports from Sept. 1-20 rose 78.3% YoY to $71.4 bln, the strongest first-20-day result on record, driven by semiconductor shipments up 259.4%. On a workday-adjusted basis exports rose 89.8%. Imports rose 26.7% YoY and the preliminary trade surplus was $22.97 bln."
+    },
+    {
+      "id": "5104497",
+      "time": "2026-09-21 08:18:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上週ETF資金整體淨流入243.35億元】據同花順iFinD資料顯示，9月14日-9月18日，ETF資金整體淨流入243.35億元，股票型淨流出36.59億元，寬基型淨流入73.85億元。當週ETF資金淨流入榜單排名前3依次為：華寶添益（511990）淨流入48.50億元，嘉實中證AAA科技創新公司債ETF（159600）淨流入38.58億元，南方中證500ETF（510500）淨流入37.42億元。"
+    },
+    {
+      "id": "5104496",
+      "time": "2026-09-21 08:18:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本末科技擬全球發售5000萬股 預計9月29日上市】本末科技(06731)於2026年9月21日-2026年9月24日招股，擬全球發售5000萬股H股，香港公開發售佔約5.0%，國際發售佔約95.0%。發售價將為每股發售股份21.60港元。每手100股，預期H股將於2026年9月29日上午九時正在聯交所開始買賣。"
+    },
+    {
+      "id": "5104495",
+      "time": "2026-09-21 08:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【埃森哲美股夜盤漲超7%】埃森哲美股夜盤漲超7%，與Anthropic合作開展AI模型獨立評估。"
+    },
+    {
+      "id": "5104494",
+      "time": "2026-09-21 08:17:28",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通：其偏鷹的韓國央行3.75%利率預測仍存在上行空間】摩根大通表示，只要信貸與金融市場保持穩定，若半導體拉動的經濟增長推高通脹，其原本就高於市場普遍預期的韓國利率預測還存在進一步上行風險。這家華爾街機構預計，韓國央行將於今年11月、明年2月及5月加息，在本輪緊縮週期中將政策基準利率上調至3.75%。該預測高於媒體經濟學家調查得出的3.5%預期中值，參與調查的經濟學家預計利率將維持在3.5%直至2028年第二季度。摩根大通經濟學家Seok Gil Park 在採訪中稱：“我們給出的預測是3.75%，但現階段要確定利率終點上限還為時過早。我們正經歷一場前所未有的宏觀衝擊。”"
+    },
     {
       "id": "5104493",
       "time": "2026-09-21 08:16:01",

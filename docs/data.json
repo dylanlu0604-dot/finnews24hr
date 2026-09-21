@@ -1,7 +1,95 @@
 {
-  "updated": "2026-09-21 08:17:49",
-  "count": 13622,
+  "updated": "2026-09-21 08:21:33",
+  "count": 13627,
   "items": [
+    {
+      "id": "5104500",
+      "time": "2026-09-21 08:20:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4360美元/盎司，日內跌0.43%。"
+    },
+    {
+      "id": "5104499",
+      "time": "2026-09-21 08:20:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守99美元/桶，日內跌0.30%。"
+    },
+    {
+      "id": "mkt:01a0c156-2a43-7118-861a-7d0c79d407f4",
+      "time": "2026-09-21 08:20:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Preliminary counts show The Left tops Berlin state parliament vote】Preliminary counts early on the 21st show The Left won 25.7% in the Berlin state parliament election, becoming the largest party for the first time and recording its best-ever Berlin result (12.2% in 2023). Former coalition partners fell sharply: the CDU 18.8% (second), the SPD 12.1% — its lowest-ever Berlin share. The Choice Party 16.3% (third); the Greens 14.3%."
+    },
+    {
+      "id": "5104498",
+      "time": "2026-09-21 08:20:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國州選舉結果公佈後，德國國債期貨小幅走高。"
+    },
+    {
+      "id": "mkt:01a0c155-a3fb-7118-861a-72feb1c626a3",
+      "time": "2026-09-21 08:20:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【CITIC Securities: Coal supply-stability measures implemented; supply tightness likely to take time to ease】CITIC Securities said a multi-agency push to secure coal production has been rolled out to restart mines and accelerate release of advanced capacity. The measures target a stable rebound in output to support peak-season demand, but gains will be constrained by safety requirements, approval procedures and monthly production-intensity limits. Given demand recovery and gradual, orderly supply repair, the firm expects the sector to remain overall supply-tight and coal prices to stay elevated, and recommends accumulating well-performing coal names on dips."
+    },
+    {
+      "id": "mkt:01a0c155-2a2b-7118-861a-6ffdef767056",
+      "time": "2026-09-21 08:19:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【South Korea Sept. 1-20 exports hit record as chip exports surge 259.4%】Korea Customs Service said exports from Sept. 1-20 rose 78.3% YoY to $71.4 bln, the strongest first-20-day result on record, driven by semiconductor shipments up 259.4%. On a workday-adjusted basis exports rose 89.8%. Imports rose 26.7% YoY and the preliminary trade surplus was $22.97 bln."
+    },
+    {
+      "id": "5104497",
+      "time": "2026-09-21 08:18:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上週ETF資金整體淨流入243.35億元】據同花順iFinD資料顯示，9月14日-9月18日，ETF資金整體淨流入243.35億元，股票型淨流出36.59億元，寬基型淨流入73.85億元。當週ETF資金淨流入榜單排名前3依次為：華寶添益（511990）淨流入48.50億元，嘉實中證AAA科技創新公司債ETF（159600）淨流入38.58億元，南方中證500ETF（510500）淨流入37.42億元。"
+    },
+    {
+      "id": "5104496",
+      "time": "2026-09-21 08:18:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本末科技擬全球發售5000萬股 預計9月29日上市】本末科技(06731)於2026年9月21日-2026年9月24日招股，擬全球發售5000萬股H股，香港公開發售佔約5.0%，國際發售佔約95.0%。發售價將為每股發售股份21.60港元。每手100股，預期H股將於2026年9月29日上午九時正在聯交所開始買賣。"
+    },
+    {
+      "id": "5104495",
+      "time": "2026-09-21 08:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【埃森哲美股夜盤漲超7%】埃森哲美股夜盤漲超7%，與Anthropic合作開展AI模型獨立評估。"
+    },
+    {
+      "id": "5104494",
+      "time": "2026-09-21 08:17:28",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通：其偏鷹的韓國央行3.75%利率預測仍存在上行空間】摩根大通表示，只要信貸與金融市場保持穩定，若半導體拉動的經濟增長推高通脹，其原本就高於市場普遍預期的韓國利率預測還存在進一步上行風險。這家華爾街機構預計，韓國央行將於今年11月、明年2月及5月加息，在本輪緊縮週期中將政策基準利率上調至3.75%。該預測高於媒體經濟學家調查得出的3.5%預期中值，參與調查的經濟學家預計利率將維持在3.5%直至2028年第二季度。摩根大通經濟學家Seok Gil Park 在採訪中稱：“我們給出的預測是3.75%，但現階段要確定利率終點上限還為時過早。我們正經歷一場前所未有的宏觀衝擊。”"
+    },
     {
       "id": "5104493",
       "time": "2026-09-21 08:16:01",
@@ -124779,57 +124867,6 @@
         "Impact bullish"
       ],
       "text": "【China International Capital raises 4Q26 Brent central forecast to $85/bbl】China International Capital Co raised its 4Q26 central Brent forecast to $85/bbl from $80/bbl in June. The research note cites a slower-than-expected Middle East crude restart since Q3 and a recent escalation in regional tensions that are prompting markets to re-price the persistence of Middle East supply losses, lifting the oil supply floor. End-user demand remains weak and summer recovery should not be linearly extrapolated; if oil tops $100/bbl a demand peak could emerge. The revision reflects a more persistent supply shortfall and lower inventories. In product markets, near-term crude and freight increases are compressing Eurasian refining margins; gasoline cracks face downside pressure from current high levels, while overseas diesel shows structural tightness and crack resilience."
-    },
-    {
-      "id": "mkt:01a09d49-04ef-7118-8560-9488f3dc0d48",
-      "time": "2026-09-14 08:20:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "9984.T",
-        "Impact bearish"
-      ],
-      "text": "SoftBank Group shares fell 10% in early trade."
-    },
-    {
-      "id": "5091910",
-      "time": "2026-09-14 08:20:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞極右翼政黨領袖承諾削減75萬名移民】澳大利亞極右翼政黨一國黨（One Nation）提出計劃，擬在三年內削減約75萬名臨時移民，旨在利用民眾對生活成本壓力與住房短缺問題的不滿爭取支援。一份宣告顯示，該計劃將針對發放給國際學生及其家屬以及技術移民的簽證。一國黨領袖寶琳・漢森（Pauline Hanson ）週一表示，該方案將終止依靠“臨時簽證反覆續期”延長在澳居留的做法，同時遣返非法移民。據《澳大利亞金融評論》報道，此次宣言釋出數日後，澳大利亞總理安東尼・阿爾巴尼斯預計將公佈其中左翼政府修訂後的移民政策。人口快速增長加劇住房壓力引發社會擔憂，而這一背景推高了民調中漢森所屬政黨的支援率。漢森在宣告中稱：“如果澳大利亞民眾人均收入下降、買不起房、難以獲得病床、生活無法改善，那麼紙面意義上更大的經濟體毫無價值。如果每個澳大利亞人分到的經濟蛋糕份額在不斷縮小，蛋糕做大本身沒有任何意義。”"
-    },
-    {
-      "id": "mkt:01a09d48-32c4-7118-8560-8bc0d0188138",
-      "time": "2026-09-14 08:19:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【China International Capital Co: Fed should hike in September to preserve credibility】China International Capital Co said the Fed should raise rates in September to preserve its credibility, calling that the decisive factor for policy. The firm said July FOMC member Waller’s deliberate ambiguity confused markets and helped push the US Treasury term premium from 0.65% at end-July to 0.9% by mid-August, forcing hawkish language at Jackson Hole. While softer data would have given the Fed room to wait, successive stronger-than-expected nonfarm payrolls and inflation have increasingly cornered policymakers. The report warned that if the Fed again refrains from hiking, markets may view prior hawkish signals as hollow, risking a deeper credibility crisis and loss of control in the Treasury market."
-    },
-    {
-      "id": "5091909",
-      "time": "2026-09-14 08:19:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價下跌11%，此前有人呼籲放緩AI開發。"
-    },
-    {
-      "id": "5091908",
-      "time": "2026-09-14 08:18:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "軟銀股價下跌11%。"
     }
   ]
 }
