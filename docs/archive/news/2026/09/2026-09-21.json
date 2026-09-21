@@ -1,7 +1,112 @@
 {
   "date": "2026-09-21",
-  "count": 414,
+  "count": 425,
   "items": [
+    {
+      "id": "5104601",
+      "time": "2026-09-21 09:29:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【帕西尼啟動IPO輔導】證監會官網披露，帕西尼人工智慧科技（北京）股份有限公司（簡稱“帕西尼”）於2026年9月20日在北京證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為國泰海通證券。公開資料顯示，帕西尼成立於2021年6月，公司聚焦多維觸覺感測技術及具身智慧機器人，主要產品包括觸覺感測器、靈巧手及人形機器人，曾獲比亞迪、京東等投資，估值已達突破百億。"
+    },
+    {
+      "id": "mkt:01a0c194-8fa6-7118-861b-8b7b3474a97a",
+      "time": "2026-09-21 09:28:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share recent listing C ShenGu opened down 48.07% at 30.00 yuan; in the prior session the stock had intraday jumped nearly 300%."
+    },
+    {
+      "id": "5104600",
+      "time": "2026-09-21 09:28:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽將軟銀集團擬發行的美元、歐元債券評級定為“BB+”。"
+    },
+    {
+      "id": "5104599",
+      "time": "2026-09-21 09:28:09",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【C沈鼓低開48.07%】C沈鼓低開48.07%，訊息面上，公司公告稱，截至2026年9月18日，公司收盤價為57.77元/股，當日漲幅為177.74%，顯著偏離同行業估值水平。不存在應披露而未披露的重大事項。"
+    },
+    {
+      "id": "mkt:01a0c193-164d-7118-861b-83e82175f06c",
+      "time": "2026-09-21 09:27:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On Sep 21, China's Shanghai Composite Index opened up 8.4 points (0.21%) at 3,920.27; Shenzhen Composite Index opened up 75.35 points (0.55%) at 13,716.22; CSI 300 Index opened up 16.95 points (0.38%) at 4,524.34; ChiNext Index opened up 31.22 points (0.93%) at 3,403.90; STAR 50 Index opened up 16.57 points (1.0%) at 1,669.20."
+    },
+    {
+      "id": "mkt:01a0c192-bbe3-7118-861b-7a08d2045a2c",
+      "time": "2026-09-21 09:26:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish",
+        "MRVL.O"
+      ],
+      "text": "【JP Morgan: 2026 custom AI ASIC market ~$60–70bn】JP Morgan projects ASIC/XPU will account for 54% of AI accelerator unit shipments in 2027, surpassing GPUs, and 55% in 2028. It estimates the 2026 custom AI ASIC market at roughly $60–70 billion and forecasts a multi-year CAGR of about 40–50%+. Broadcom and Marvell together hold roughly 90% market share, with Broadcom about 80–85%, leaving the market highly concentrated."
+    },
+    {
+      "id": "5104598",
+      "time": "2026-09-21 09:26:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守97美元/桶，日內跌2.31%。"
+    },
+    {
+      "id": "mkt:01a0c191-fcbb-7118-861b-73e991cbc9d9",
+      "time": "2026-09-21 09:26:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "DownDetector said 15,602 U.S. users had reported issues with Facebook as of 9:00 a.m. local time."
+    },
+    {
+      "id": "mkt:01a0c191-f325-7118-861b-68e152d5298d",
+      "time": "2026-09-21 09:26:02",
+      "tags": [
+        "MKT News",
+        "1873.HK",
+        "Impact bullish"
+      ],
+      "text": "A-share CRO names opened higher; Nanhua Biotech hit the daily trading limit in the opening auction, Hongbo Pharma jumped nearly 9%, and Pharmaron and Viva Biotech advanced."
+    },
+    {
+      "id": "mkt:01a0c191-bcdc-7118-861b-668bf21e2c7b",
+      "time": "2026-09-21 09:25:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA'S LEE will visit the US and Mexico from Sept. 21-27 to attend the UN General Assembly and hold a summit with Mexico's president sheinbaum. He plans bilateral meetings at the UN with US, Australian and other leaders."
+    },
+    {
+      "id": "5104597",
+      "time": "2026-09-21 09:25:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長鑫G5量產 通用DRAM工藝逼近國際一線】9月20日，長鑫科技宣佈第五代DRAM工藝平臺G5進入量產階段。此舉標誌著國產通用DRAM在理論工藝密度上已實質性追平國際一線水平，並顯著增強長鑫科技在主流市場的成本競爭力與定價話語權。G5平臺透過四重曝光技術在DUV體系下實現極限挖潛，使儲存位密度較上一代提升50%，每片晶圓裸片產出大幅增加。在當前儲存景氣上行、供給偏緊的視窗期，這一躍升為長鑫科技匯入國產旗艦手機供應鏈提供了堅實底氣。在DDR5、LPDDR5X等通用領域，長鑫科技已具備參與全球成本競爭的實力。此外，隨著基於G5平臺的擴產推進，國產半導體裝置佔比有望超過40%，將直接拉動刻蝕、薄膜沉積等環節的裝置採購需求，為上游核心供應商帶來確定的業績增量。（一財）"
+    },
     {
       "id": "mkt:01a0c191-a41b-7118-861b-5bdf2ddec621",
       "time": "2026-09-21 09:25:42",
