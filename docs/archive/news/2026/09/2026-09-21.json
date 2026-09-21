@@ -1,7 +1,222 @@
 {
   "date": "2026-09-21",
-  "count": 917,
+  "count": 939,
   "items": [
+    {
+      "id": "mkt:01a0c2c6-d31c-7118-8620-9fe57824d8d2",
+      "time": "2026-09-21 15:03:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Naftogaz said Poland's petrochemical producer ORLEN will supply Ukraine with three LNG cargoes in Q1 2027."
+    },
+    {
+      "id": "5104986",
+      "time": "2026-09-21 15:03:06",
+      "tags": [
+        "行業",
+        "公司"
+      ],
+      "text": "【機器人IPO要收緊？已有投行發出內部提醒】近日，有關監管向部分投行及投資機構發出非正式視窗指導、將提高人形機器人IPO稽核門檻這一傳聞引發市場關注。向多方投行人士採訪瞭解到，已有投行人員收到所在公司的提醒，內容涉及包括機器人行業在內的硬科技IPO，若行業地位不夠突出，上市程序可能受到影響。某頭部券商表示，投行人員並非以視窗指導方式接到通知，相關內容更多旨在壓實保薦機構的前端把關責任。"
+    },
+    {
+      "id": "mkt:01a0c2c6-759a-7118-8620-95ad11457929",
+      "time": "2026-09-21 15:03:01",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index closed up 38.04 pts (+0.97%) at 3,949.91 on Monday, Sept. 21; Shenzhen Composite Index up 89.15 pts (+0.65%) at 13,730.02; CSI 300 Index up 32.17 pts (+0.71%) at 4,539.57; ChiNext Index up 26.91 pts (+0.80%) at 3,399.59; Sci-Tech Innovation 50 Index up 4.85 pts (+0.29%) at 1,657.48."
+    },
+    {
+      "id": "5104985",
+      "time": "2026-09-21 15:02:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭石油天然氣公司（Naftogaz）表示，PKN Orlen將向烏克蘭國有石油公司Ukrnafta供應總價值最高5億美元的石油產品，以穩定市場。"
+    },
+    {
+      "id": "5104984",
+      "time": "2026-09-21 15:02:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭國家石油天然氣公司（Naftogaz）表示，Ukrnafta將能夠在中歐的煉油廠供應並加工烏克蘭原油。"
+    },
+    {
+      "id": "mkt:01a0c2c5-e37b-7118-8620-8bcec8e799f6",
+      "time": "2026-09-21 15:02:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "kallas, the EU high representative for foreign affairs and security policy, said the so-called Duma elections again mark a major setback for Russian democracy and that the outcome was never in doubt."
+    },
+    {
+      "id": "5104982",
+      "time": "2026-09-21 15:02:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報4231.49億元，較上一交易日此時縮量486.46億元】截至目前，ETF兩市成交額報4231.49億元，較上一交易日此時縮量486.46億元，分型別來看，股票型ETF成交額1238.11億元，債券型ETF成交額1941.07億元，貨幣型ETF成交額401.05億元，商品型ETF成交額91.99億元，QDII型ETF成交額559.26億元。"
+    },
+    {
+      "id": "mkt:01a0c2c5-433a-7118-8620-87c84ccaba65",
+      "time": "2026-09-21 15:01:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "300750.SZ"
+      ],
+      "text": "【Shanghai, Shenzhen combined turnover CNY 2.03 tln; Zhongji Xuchuang top by turnover】On Sep. 21 combined turnover on the Shanghai and Shenzhen markets was CNY 2,031.5 bln, down CNY 45.6 bln from the prior session. Shanghai turnover was CNY 946.8 bln (prior CNY 994.2 bln) with volume 502 mln lots (prior 486 mln); Shenzhen turnover was CNY 1,084.7 bln (prior CNY 1,082.9 bln) with volume 632 mln lots (prior 597 mln). Top stock turnover: Zhongji Xuchuang CNY 19.82 bln; Xinyisheng CNY 16.22 bln; Shenghong Technology CNY 14.80 bln; CATL CNY 14.76 bln; Changxin Technology CNY 13.97 bln."
+    },
+    {
+      "id": "mkt:01a0c2c5-3c9a-7118-8620-7aaf0af8aabd",
+      "time": "2026-09-21 15:01:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities opened higher on Sep 21 (Mon): France's CAC 40 up 43.60 pts (+0.54%) at 8108.62; Euro Stoxx 50 up 46.80 pts (+0.75%) at 6283.00; Spain's IBEX 35 up 93.20 pts (+0.48%) at 19607.00; Italy's FTSE MIB up 280.25 pts (+0.54%) at 51825.50; UK FTSE 100 up 17.87 pts (+0.17%) at 10677.00; Germany's DAX 30 up 186.56 pts (+0.74%) at 25483.00."
+    },
+    {
+      "id": "mkt:01a0c2c5-3c37-7118-8620-715d141b4a9a",
+      "time": "2026-09-21 15:01:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China index futures midday close】At the midday close, China's CSI 300 index futures (IF) main contract was up 0.86%; SSE 50 futures (IH) +1.17%; CSI 500 futures (IC) +0.67%; CSI 1000 futures (IM) +0.97%."
+    },
+    {
+      "id": "5104981",
+      "time": "2026-09-21 15:01:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：恒生創新藥ETF領漲6.08%，黃金股ETF領跌1.83%】ETF收盤漲跌不一，恒生創新藥ETF（520500）領漲6.08%，港股通創新藥ETF（159297）漲6.04%，港股創新藥ETF（520690）漲5.98%，黃金股ETF（517520）領跌1.83%，黃金股ETF（159562）跌1.82%，黃金股ETF（517400）跌1.71%。"
+    },
+    {
+      "id": "5104980",
+      "time": "2026-09-21 15:01:16",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【A股收評：滬指高開高走漲近1%，創新藥、房地產板塊表現強勢】A股三大指數今日集體上漲，截至收盤，上證指數漲0.97%，深證成指漲0.65%，創業板指漲0.8%，北證50漲1.32%，科創50指數漲0.29%。全市場成交額20481億元，較上日縮量448億元，全市場超4500只個股上漲。板塊題材上，醫療服務、CRO概念、創新藥、化學制藥、房地產板塊漲幅居前；貴金屬板塊領跌市場。盤面上，創新藥板塊高開高走，表現強勢，海南海藥、新華製藥、精華製藥、哈藥股份、華森製藥等十餘股漲停，亞虹醫藥、萬邦醫藥、科興製藥、華蘭股份等多股漲超10%。CRO概念板塊亦表現活躍，近岸蛋白、百花醫藥等股漲停，匯宇製藥、成都先導漲幅居前。房地產板塊午後異動走高，我愛我家、金融界、萬科A、華麗家族等多股觸及漲停。貴金屬板塊今日表現低迷，山金國際、赤峰黃金、中金黃金領跌板塊。"
+    },
+    {
+      "id": "mkt:01a0c2c4-b633-7118-8620-6fa9df0541a9",
+      "time": "2026-09-21 15:01:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Chinese commodity futures were mixed at the midday close. Shanghai crude (SC) fell over 4%; rapeseed meal dropped more than 2%. Polypropylene, LPG, live hogs, low-sulfur fuel oil (LU), propylene, apples and soybean meal declined over 1%. Pulp rose nearly 4% and lithium carbonate gained more than 3%; pure benzene and bitumen advanced over 2%."
+    },
+    {
+      "id": "5104976",
+      "time": "2026-09-21 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【滬深兩市今日成交額合計2.03萬億元，中際旭創成交額居首】滬深兩市今日全天成交額合計2.03萬億元，較上一日縮量455.87億元。其中，滬市成交額為9468.19億元（上一交易日為9941.69億元），成交量為5.02億手（上一交易日為4.86億手）；深市成交額為1.08萬億元（上一交易日為1.08萬億元），成交量為6.32億手（上一交易日為5.97億手）。中際旭創成交額居首，為198.16億元。其次是新易盛、勝宏科技、寧德時代、長鑫科技，成交額分別為162.18億元、147.98億元、147.56億元、139.7億元。"
+    },
+    {
+      "id": "5104975",
+      "time": "2026-09-21 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.97%，深證成指漲0.65%，創業板指漲0.80%。"
+    },
+    {
+      "id": "mkt:01a0c2c4-90be-7118-8620-6286ec8eb26d",
+      "time": "2026-09-21 15:00:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Xi Jinping will make a state visit to the United States from Sept. 23 to 25."
+    },
+    {
+      "id": "5104974",
+      "time": "2026-09-21 15:00:41",
+      "tags": [
+        "宏觀",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平將對美國進行國事訪問】應美利堅合眾國總統特朗普邀請，國家主席習近平將於9月23日至25日對美國進行國事訪問。（新華社）"
+    },
+    {
+      "id": "5104973",
+      "time": "2026-09-21 15:00:25",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【合格率97.67%  市場監管總局釋出月餅專項監督抽檢結果】記者今天瞭解到，中秋節前夕，市場監管總局組織開展月餅專項監督抽檢。抽檢結果顯示，合格率為97.67%，月餅產品安全狀況總體穩定。本次專項抽檢覆蓋全國31個省（自治區、直轄市）的商超、批發市場、餐飲商家及熱門網路平臺，隨機抽檢傳統月餅、餐飲自制月餅和新興冰激凌月餅300批次，涉及118個品牌216家月餅生產企業。（央視新聞）"
+    },
+    {
+      "id": "te:markets:585238",
+      "time": "2026-09-21 15:00:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "LVMH Stock Price Hits Near 6-year Low — LVMH shares decreased to 401.00 EUR, the lowest since November 2020. Over the past 4 weeks, LVMH lost 9.1%, and in the last 12 months, it decreased 20.55%."
+    },
+    {
+      "id": "5104972",
+      "time": "2026-09-21 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】上海原油連續跌4.23%，紙漿連續漲3.88%，碳酸鋰連續漲3.14%，菜粕連續跌2.01%，膠版印刷紙連續漲1.78%。"
+    },
+    {
+      "id": "5104971",
+      "time": "2026-09-21 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普跌，德國DAX指數跌1.6%，英國富時100指數跌1.45%，法國CAC40指數跌1.49%，歐洲斯托克50指數跌1.37%，義大利富時MIB指數跌1.6%。"
+    },
+    {
+      "id": "5104970",
+      "time": "2026-09-21 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.97%， 滬深300指數期貨連續漲0.86%， 中證500指數期貨連續漲0.67%， 上證50指數期貨連續漲1.17%。"
+    },
     {
       "id": "5104969",
       "time": "2026-09-21 14:59:22",
