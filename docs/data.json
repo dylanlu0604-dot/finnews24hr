@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-22 03:58:58",
-  "count": 13460,
+  "updated": "2026-09-22 04:02:44",
+  "count": 13463,
   "items": [
+    {
+      "id": "5106332",
+      "time": "2026-09-22 04:01:20",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "META股價飆升11%，創下自2025年4月以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:01a0c58e-e384-7118-8631-dc5ecb7db51f",
+      "time": "2026-09-22 04:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Downing Street said the UK prime minister reiterated he will work with Mauritius and the United States to discuss the future of the Diego Garcia military base."
+    },
+    {
+      "id": "5106331",
+      "time": "2026-09-22 04:00:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英特爾週一收盤上漲12%，創5月以來最大單日漲幅。"
+    },
+    {
+      "id": "5106330",
+      "time": "2026-09-22 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.71%，標普500指數漲1.49%，納指漲2.26%。Arm Holdings Plc漲17.16%，阿克邁漲12.33%，Astera Labs Inc漲12.28%，Moderna漲12.27%，英特爾漲12.08%。“七姐妹”方面：Meta Platforms漲11.37%，特斯拉漲3.00%，英偉達漲2.30%，谷歌漲1.88%，亞馬遜漲1.87%，微軟漲1.59%，蘋果漲0.85%。"
+    },
+    {
+      "id": "5106329",
+      "time": "2026-09-22 04:00:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股半導體指數收盤上漲4.3%，創8月4日以來最佳單日表現。"
+    },
+    {
+      "id": "5106328",
+      "time": "2026-09-22 04:00:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "華納兄弟股價上漲11%，創10月以來最大漲幅，得益於與派拉蒙的收購案。"
+    },
+    {
+      "id": "5106327",
+      "time": "2026-09-22 04:00:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普會見紐約市市長馬姆達尼。"
+    },
+    {
+      "id": "5106326",
+      "time": "2026-09-22 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.66%】NXTT漲25.62%，世紀互聯漲10.81%，虎牙漲8.45%，聲網漲8.50%，億咖通科技漲7.84%。"
+    },
     {
       "id": "5106325",
       "time": "2026-09-22 03:56:39",
@@ -123245,60 +123314,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：和平是當務之急。能源、糧食通道以及關鍵基礎設施，所有這些都應納入停止打擊相關談判的範疇。我們需要一項有力且公平的解決方案，該方案不能只為 “選舉” 服務，而應帶來永久和平。我們期待夥伴方拿出具體方案。"
-    },
-    {
-      "id": "5093850",
-      "time": "2026-09-15 04:02:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：美國目前提出一項有力提議，雙方相互停止針對關鍵基礎設施的打擊行動。如果這能成為局勢降級的第一步，推動俄方停止打擊我方關鍵基礎設施，同時我方也暫停相應反擊，那麼烏克蘭願意支援局勢降級。"
-    },
-    {
-      "id": "mkt:01a0a182-dadc-7118-857e-dd2bdd4029a4",
-      "time": "2026-09-15 04:01:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "S&P500",
-        "Impact bearish",
-        "SKHY.O",
-        "ASML.O"
-      ],
-      "text": "【US stocks close: major indices down; SK Hynix falls >7%】US equities closed lower: Dow Jones Industrial Average -0.29%, S&P 500 -0.48%, Nasdaq Composite -0.56%. SK Hynix fell 7.6% (SKHY.O). ASML dropped 7.2% (ASML.O). Intel and Micron declined over 5% (INTC.O, MU.O). Meta rose 2.7% (META.O). Nasdaq Golden Dragon China Index +0.36%; NetEase up 2% (NTES.O)."
-    },
-    {
-      "id": "5093849",
-      "time": "2026-09-15 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.29%，標普500指數跌0.48%，納指跌0.55%。康寧跌13.69%，泰瑞達跌13.30%，Coherent Corp跌12.73%，Astera Labs Inc跌11.75%，慧與跌10.76%，思佳訊跌10.24%。“七姐妹”方面：谷歌漲3.08%，Meta Platforms漲2.73%，微軟漲2.03%，蘋果漲0.26%，亞馬遜跌1.25%，特斯拉跌1.77%，英偉達跌3.31%。"
-    },
-    {
-      "id": "mkt:01a0a181-7425-7118-857e-d660ce678fbd",
-      "time": "2026-09-15 04:00:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Politico reports OpenAI's chief lobbyist will meet with members of Congress today."
-    },
-    {
-      "id": "5093847",
-      "time": "2026-09-15 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.45%】NXTT漲9.66%，陸金所控股漲6.80%，MAAS漲4.88%，愛奇藝漲4.68%，叮咚買菜漲4.21%。"
     }
   ]
 }
