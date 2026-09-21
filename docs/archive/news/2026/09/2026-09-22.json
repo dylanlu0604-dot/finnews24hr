@@ -1,7 +1,61 @@
 {
   "date": "2026-09-22",
-  "count": 155,
+  "count": 161,
   "items": [
+    {
+      "id": "5106295",
+      "time": "2026-09-22 03:08:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【OpenAI敦促美國牽頭為人工智慧制定全球標準】OpenAI敦促美國牽頭與其他國家共同為前沿人工智慧(AI)制定標準，以回應對AI潛在危害日益加劇的擔憂。OpenAI週一在部落格文章中表示，為了安全地發展人工智慧，有必要制定國際技術標準，特別是幫助界定涉及AI模型的哪些類事件應當通報，明確各國如何開展AI發展合作，以及改善開發此類技術所需算力的獲取。"
+    },
+    {
+      "id": "mkt:01a0c55e-0f2f-7118-8631-5d2dd07061b4",
+      "time": "2026-09-22 03:07:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Times reports Britain's Prime Minister Burnham will meet EU Commission President VON DER LEYEN on Tuesday to seek resolution of a dispute over EU vehicle regulations."
+    },
+    {
+      "id": "5106294",
+      "time": "2026-09-22 03:07:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆將於週二會見歐盟委員會主席馮德萊恩，商討歐盟汽車新規。"
+    },
+    {
+      "id": "mkt:01a0c55d-8c89-7118-8631-557fae827828",
+      "time": "2026-09-22 03:07:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to TASNIM NEWS, a Qatari foreign ministry spokesman said Qatar is working to broker an agreement between Washington and Tehran, even if only a short-term deal."
+    },
+    {
+      "id": "5106293",
+      "time": "2026-09-22 03:06:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "瑞穗證券美國公司CEO：跨境併購活動表現強勁。"
+    },
+    {
+      "id": "mkt:01a0c55c-0d74-7118-8631-4a66cbd04c22",
+      "time": "2026-09-22 03:05:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Qatar said it is working to broker an agreement between Iran and the United States, TASNIM News reported."
+    },
     {
       "id": "5106292",
       "time": "2026-09-22 03:04:39",
