@@ -1,7 +1,62 @@
 {
   "date": "2026-09-21",
-  "count": 519,
+  "count": 525,
   "items": [
+    {
+      "id": "5104666",
+      "time": "2026-09-21 10:09:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "科斯塔表示，歐盟可以與加拿大在國防和人工智慧領域開展合作。"
+    },
+    {
+      "id": "5104665",
+      "time": "2026-09-21 10:09:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲理事會主席科斯塔表示，歐盟希望與加拿大建立儘可能緊密的關係。"
+    },
+    {
+      "id": "mkt:01a0c1b8-c341-7118-861c-7cde440801da",
+      "time": "2026-09-21 10:08:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China's grain industry seen topping 4.5 trillion yuan annual industrial output in 15th Five-Year period】At a State Council Information Office briefing on the 15th Five-Year period, an official from the National Food and Strategic Reserves Administration said China will deepen a quality-grain programme to raise industry quality and efficiency. The grain sector is expected to achieve annual industrial gross output above 4.5 trillion yuan during the 15th Five-Year period, aiding a shift in consumption from simply eating enough to eating better and more nutritiously."
+    },
+    {
+      "id": "mkt:01a0c1b8-b92b-7118-861c-75a2fee55835",
+      "time": "2026-09-21 10:08:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Shipping data show 12 vessels transited the Strait of Hormuz last weekend, down from 35 the prior week."
+    },
+    {
+      "id": "5104664",
+      "time": "2026-09-21 10:08:18",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【“十五五”時期我國糧食產業有望實現年工業總產值超4.5萬億元】國務院新聞辦今天舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹守住管好“大國糧倉”，保障國家糧食安全有關情況。國家糧食和物資儲備局相關負責人介紹，“十五五”時期，我國將深入實施優質糧食工程，不斷提升糧食產業發展質量和效益，糧食產業有望實現年工業總產值4.5萬億元以上，更好滿足人民群眾從“吃得飽”向“吃得好”“吃得營養健康”轉變的需要。"
+    },
+    {
+      "id": "te:markets:585173",
+      "time": "2026-09-21 10:07:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Rises for Third Session — Platinum futures rose above $1,800 an ounce, advancing for a third consecutive session as retreating oil prices lifted demand for non-yielding metals. Oil prices continued to fall amid signs of increased diplomatic efforts to resolve the conflict and restore energy flows in the Middle East. This eased concerns over inflation and the prospect of further interest rate hikes, lowering the opportunity cost of holding platinum. Investors now assessed the Federal Reserve’s policy outlook, with several officials appearing this week after the central bank raised rates last week for the first time in three years. Meanwhile, platinum supply remains structurally constrained, with WPIC expecting deficits to average 331,000 oz annually from 2026-2030, despite a moderate surplus in 2026 forecast. Industrial demand remains supportive, including applications in emissions control, hydrogen and emerging AI technologies, though the shift toward BEVs poses a long-term headwind for autocatalyst demand."
+    },
     {
       "id": "5104663",
       "time": "2026-09-21 10:06:17",
