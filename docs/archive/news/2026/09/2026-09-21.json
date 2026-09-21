@@ -1,7 +1,536 @@
 {
   "date": "2026-09-21",
-  "count": 1475,
+  "count": 1531,
   "items": [
+    {
+      "id": "5106085",
+      "time": "2026-09-21 22:04:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高位調整不改長期邏輯 公募扎堆發行科技主題基金】今年下半年以來，科技板塊整體承壓，截至9月18日，Wind科技大類指數7月以來跌幅達到18.19%，最大回撤近27%，市場情緒一度趨於謹慎。然而，基金公司並未放緩科技主題基金的發行節奏，呈現出“逆勢佈局”的特徵。從創業板算力ETF到科創板晶片設計主題基金，從人工智慧到雲端計算、工業網際網路，科技細分賽道成為本輪新基金髮行的絕對主線，多隻成長主題基金募集規模居前。同時，發起式基金顯著增加，基金公司以自有資金播下“種子”，等待市場風口到來。（中國基金報）"
+    },
+    {
+      "id": "5106084",
+      "time": "2026-09-21 22:03:58",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "【9月21日增減持彙總】9月21日盤後，據不完全統計，包括津膜科技、美聯新材、捷強裝備、探路者、廣康生化、安車檢測、奧精醫療、科林電氣、ST中珠、太陽電纜、永安期貨、莎普愛思在內的12家A股上市公司披露擬減持情況，燕京啤酒、天創時尚披露擬增持情況。"
+    },
+    {
+      "id": "5106083",
+      "time": "2026-09-21 22:03:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4330美元/盎司，日內跌1.13%。"
+    },
+    {
+      "id": "5106082",
+      "time": "2026-09-21 22:03:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4330.53美元/盎司。"
+    },
+    {
+      "id": "5106081",
+      "time": "2026-09-21 22:03:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "匈牙利莫爾石油公司（MOL）表示，克羅埃西亞伊納石油工業公司（INA）已在裡耶卡煉廠成功投產一套新建延遲焦化裝置。"
+    },
+    {
+      "id": "5106080",
+      "time": "2026-09-21 22:03:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4370美元/盎司，日內跌1.28%。"
+    },
+    {
+      "id": "5106079",
+      "time": "2026-09-21 22:03:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾和諾德ADR股價跌至盤中低點7.4%。"
+    },
+    {
+      "id": "mkt:01a0c446-f241-7118-862b-cf1996458f93",
+      "time": "2026-09-21 22:02:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,340/oz, down 0.90% on the day."
+    },
+    {
+      "id": "mkt:01a0c446-ef52-7118-862b-c1213eec61f0",
+      "time": "2026-09-21 22:02:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "GOOLSBEE said that if inf is demand-driven, the Fed's economic projections are insufficient to address it."
+    },
+    {
+      "id": "mkt:01a0c446-bb22-7118-862b-bb776869e0b4",
+      "time": "2026-09-21 22:02:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【The Information: OpenAI and Anthropic near legally binding mutual model stress‑test agreement】The Information reports a source saying OpenAI and Anthropic have negotiated a legally binding agreement to mutually stress‑test each other’s AI models. Talks reportedly occurred before OpenAI technology prompted a series of cybersecurity incidents and industry warnings; it is unclear if the pact has been finalized. The mutual‑testing proposal mirrors Elon Musk’s suggestion at last week’s All‑In summit that competing AI labs peer‑review each other’s models for safety prior to commercial release."
+    },
+    {
+      "id": "5106078",
+      "time": "2026-09-21 22:02:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4340美元/盎司，日內跌0.91%。"
+    },
+    {
+      "id": "5106077",
+      "time": "2026-09-21 22:02:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "古爾斯比：如果通脹是由需求驅動的，美聯儲的預測就不夠了。"
+    },
+    {
+      "id": "5106076",
+      "time": "2026-09-21 22:01:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的古爾斯比：感覺到部分通脹來自於需求過熱。"
+    },
+    {
+      "id": "5106075",
+      "time": "2026-09-21 22:01:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "PARAMOUNT SKYDANCE股價大幅上漲，創下當日新高11%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609213880303190",
+      "time": "2026-09-21 22:01:10",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲古爾斯比：不認為加息是在收回2025年的降息】美聯儲古爾斯比表示，不認為加息是在收回2025年的降息。"
+    },
+    {
+      "id": "5106074",
+      "time": "2026-09-21 22:00:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：北京奕斯偉計算技術股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "5106073",
+      "time": "2026-09-21 22:00:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍炮擊加沙南部汗尤尼斯致1死多傷】當地時間21日下午，以軍對加沙地帶南部汗尤尼斯進行炮擊，造成1名巴勒斯坦人死亡、多人受傷。另外，在加沙地帶北部的傑巴利耶，兩名巴勒斯坦人被以軍開槍打傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0c444-85ad-7118-862b-b2968f53e417",
+      "time": "2026-09-21 22:00:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's GOOLSBEE said he is concerned that services inflation may not abate."
+    },
+    {
+      "id": "5106072",
+      "time": "2026-09-21 22:00:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【捷捷微電：目前有少量碳化矽器件的封測 尚未進入量產階段】捷捷微電9月21日在互動平臺表示，截至目前公司擁有氮化鎵和碳化矽相關發明專利5件和實用新型專利4件，另有4個發明專利尚在申請受理中。公司目前有少量碳化矽器件的封測，該系列產品仍在持續研究推進過程中，尚未進入量產階段。公司超結MOS主要應用於高壓應用領域，有充電器電源、工業電源、充電樁、車載OBC、光伏儲能等；車規級大功率器件可應用於智慧穿戴、智慧監控、物聯網等領域，相關MOSFET器件產品和防護器件產品可用於機器人領域。目前光耦產品銷售處於產能與市場的爬坡上升期；公司生產的為光電耦合器，是電—光—電的隔離器件，非CPO共封裝光學技術。公司已有部分車規級高階光耦產品，後續將繼續產品的擴充套件規格型號。"
+    },
+    {
+      "id": "5106071",
+      "time": "2026-09-21 21:59:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "華納兄弟股價飆升，上漲9.4%。"
+    },
+    {
+      "id": "mkt:01a0c444-287e-7118-862b-af575b1af63b",
+      "time": "2026-09-21 21:59:56",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bullish",
+        "WBD.O"
+      ],
+      "text": "Paramount to settle related litigation to clear path for Warner Bros deal; settlement agreement to be announced later."
+    },
+    {
+      "id": "5106070",
+      "time": "2026-09-21 21:59:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST元道：2026年9月30日進入退市整理期交易】*ST元道公告，深交所決定終止公司股票上市交易；公司股票將於2026年9月30日起進入退市整理期，期限為十五個交易日，預計最後交易日期為2026年10月27日，屆滿次一交易日摘牌並終止上市。"
+    },
+    {
+      "id": "mkt:01a0c443-ea07-7118-862b-a428e48ee89a",
+      "time": "2026-09-21 21:59:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filings show Beijing Yisiwei Computing Technology Co., Ltd. has passed its listing hearing."
+    },
+    {
+      "id": "5106069",
+      "time": "2026-09-21 21:59:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙的和解協議將於晚些時候公佈。"
+    },
+    {
+      "id": "5106068",
+      "time": "2026-09-21 21:58:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙已經就相關訴訟達成和解，為華納兄弟交易鋪路。"
+    },
+    {
+      "id": "5106067",
+      "time": "2026-09-21 21:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：尚不清楚 OpenAI 與 Anthropic 是否達成協議。"
+    },
+    {
+      "id": "mkt:01a0c443-2dee-7118-862b-9fd59dcbd22f",
+      "time": "2026-09-21 21:58:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index rises as freight rates firm across all vessel types】The Baltic Dry Index (BDI) rose 29 points, or 0.8%, to 3,399 on Monday as freight rates strengthened across all vessel classes. The Capesize index (BCI) gained 71 points, or 1.2%, to 5,839; Capesize average daily earnings rose $638 to $49,450. The Panamax index (BPI) added 4 points, or 0.18%, to 2,255, with Panamax daily earnings up $35 to $20,297. The Supramax/Handy index (BSI) increased 4 points, or 0.2%, to 1,771."
+    },
+    {
+      "id": "5106066",
+      "time": "2026-09-21 21:58:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI與Anthropic曾接近達成協議，互相開展 AI 壓力測試】一位瞭解談判內情的訊息人士透露，在 OpenAI 接連發生多起與自身技術相關的網路安全事件、行業從業者發出嚴重警示之前，OpenAI 就已和 Anthropic 磋商一份具備法律約束力的協議，雙方計劃互相針對對方的大模型開展壓力測試。這名訊息人士稱，今年早些時候，兩家企業及其法務團隊一直在敲定協議細節，計劃對各自模型開展多類測試，排查漏洞與潛在隱藏風險。目前尚不清楚，在 OpenAI 遭遇多起事件、未釋出模型入侵其自身及其他企業系統之前，雙方是否完成協議簽署。一名熟悉 OpenAI 戰略的人士表示，公司一直在研討多種方案，探索企業之間、企業與政府在 AI 安全領域的合作模式。該人士稱，相關討論近期拓展至全新安全機制，覆蓋模型訓練前以及正式釋出前兩大階段。"
+    },
+    {
+      "id": "5106065",
+      "time": "2026-09-21 21:58:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： OpenAI 與 Anthropic 今年已就壓力測試事宜展開討論。"
+    },
+    {
+      "id": "5106064",
+      "time": "2026-09-21 21:57:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "胡塞武裝：沙特方面向以色列提供機場和基地，並允許以色列偵察機飛往葉門領空。"
+    },
+    {
+      "id": "mkt:01a0c442-32b0-7118-862b-96738145c3c6",
+      "time": "2026-09-21 21:57:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Sources say Samsung HBM4 capacity may double next year】Industry sources say Samsung plans to raise outsourced glass-carrier cleaning throughput for its HBM process to 50,000 pieces/month next year from 20,000/month this year and 10,000/month last year. Glass carriers are temporary, reusable supports mounted beneath DRAM wafers to prevent warping or cracking during etch and drilling; actual carrier use depends on feed methods and process yield. A 2.5x rise versus this year suggests Samsung's HBM4-series output could at least double next year. Samsung is preparing to expand capacity for HBM4 and HBM4E, both using 12+-layer high-stack architectures."
+    },
+    {
+      "id": "5106063",
+      "time": "2026-09-21 21:57:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體：特朗普曾考慮打擊葉門胡塞武裝，最終暫緩行動】兩名美國官員透露，特朗普上週末曾考慮下令對葉門胡塞武裝實施打擊，但最終決定暫時按兵不動。特朗普陷入兩難境地——一方面想要援助其友邦盟友沙特王儲穆罕默德·本·薩勒曼，另一方面又不願在中東開闢新戰線、捲入新衝突。官員表示，上週末特朗普與高階顧問磋商了打擊胡塞武裝的可行性。 一名美國官員稱，美國中央司令部（CENTCOM）司令布拉德·庫珀海軍上將擬定了葉門空襲方案，並於週六提交給國防部長赫格塞思。 另一名美國官員表示，不過特朗普最終決定暫緩行動。白宮與沙特駐華盛頓大使館均拒絕置評。"
+    },
+    {
+      "id": "mkt:01a0c442-0a91-7118-862b-8bde22601870",
+      "time": "2026-09-21 21:57:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Refinitiv reported an engineer at Libya's Sharara oilfield said crude output has fallen by about 200,000 bpd, leaving production at roughly 100,000–105,000 bpd."
+    },
+    {
+      "id": "5106062",
+      "time": "2026-09-21 21:57:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北：鼓勵各市（州）大力開展金秋購房季活動，結合實際實施購房補貼】湖北省人民政府辦公廳印發《湖北省三四季度長短結合促進經濟穩中向好若干措施》，其中提出，推動房地產業平穩健康發展。鼓勵各市（州）大力開展金秋購房季活動，結合實際實施購房補貼。支援各市（州）最佳化商業性個人住房貸款的住房套數認定標準，對於2026年內在本地新購的首套新建商品住房，按家庭首套住房認定。提高公積金貸款額度，多子女家庭、初婚初育家庭購買自住房申請住房公積金貸款，最高可貸額度上浮不低於30%，可與購買“好房子”高品質住宅、現房銷售專案、裝配式住宅申請住房公積金貸款上浮額度疊加計算，最高疊加上浮比例由各市（州）綜合確定。指導各地將自住房裝修、物業費納入公積金提取範圍，鼓勵各地根據住房公積金資金流動情況，將新建商品房契稅、住宅專項維修資金納入提取範圍。"
+    },
+    {
+      "id": "5106061",
+      "time": "2026-09-21 21:57:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：利比亞沙拉拉油田日產量已減少約20萬桶，目前日產量在10萬至10.5萬桶之間。"
+    },
+    {
+      "id": "5106060",
+      "time": "2026-09-21 21:57:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息稱三星HBM4產能明年或翻倍】業界訊息指出，三星計劃將HBM製程中玻璃載體的外包清洗量由今年每月2萬片提升至明年每月5萬片，較去年每月1萬片增至5倍。玻璃載體是HBM製程中臨時安裝於DRAM晶圓底部的支撐結構，用於防止晶圓在蝕刻與鑽孔過程中發生彎曲或破裂。由於玻璃載體可重複使用，實際用量受投料方式及製程良率影響，但若清洗需求增至2.5倍，預示三星HBM4系列明年產量至少翻倍的可能性較高。三星正積極籌備擴大HBM4與HBM4E產能，兩款產品均採用12層以上的高堆疊架構。"
+    },
+    {
+      "id": "mkt:01a0c441-9c1d-7118-862b-803856af1594",
+      "time": "2026-09-21 21:57:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Information reports OpenAI and ANTHROPIC are in talks to conduct mutual stress tests of each other's AI models."
+    },
+    {
+      "id": "5106059",
+      "time": "2026-09-21 21:56:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： OpenAI 與 Anthropic 正洽談互相開展壓力測試。"
+    },
+    {
+      "id": "mkt:01a0c441-4a6c-7118-862b-7f0b6ea35c86",
+      "time": "2026-09-21 21:56:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS: M5.0 earthquake 38 km east of Nobeoka, Japan."
+    },
+    {
+      "id": "5106058",
+      "time": "2026-09-21 21:55:36",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【湖北：加力培育壯大新興產業和未來產業】湖北省人民政府辦公廳印發《湖北省三四季度長短結合促進經濟穩中向好若干措施》，其中提出，加力培育壯大新興產業和未來產業。支援和服務保障企業開展產品技術創新、商業模式創新、經營管理創新，對各類製造業創新中心、中試平臺等產業創新平臺，分別按照平臺研發投入的10%、20%給予最高500萬元補貼。組織實施重大技術攻關“揭榜掛帥”，按專案研發投入的15%予以補助，單個專案最高1000萬元。加快算網存用協同發展，每年評選若干專用模型（含高質量資料集、智慧體），按研發費用一定比例給予牽頭研發單位不超過500萬元補助。促進資料流通交易，對積極參與資料價值化活動的市場主體給予“資料券”補助。省政府引導基金聯合重點高校、實驗室、孵化器、中試平臺等設立科創種子基金，每年舉辦投資路演不少於100場、投決專案不少於500個。將種子基金投資損失容忍率提高至80%，單個專案最高容虧100%。實施科技創新專項擔保計劃，單家科技型企業融資擔保額度最高3000萬元，出臺種子期、初創期科技型企業擔保費補助政策。"
+    },
+    {
+      "id": "mkt:01a0c440-1567-7118-862b-70920c8d1005",
+      "time": "2026-09-21 21:55:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Houthi militants said Saudi Arabia provided airports and bases to Israel and allowed Israeli reconnaissance aircraft to fly into Yemeni airspace."
+    },
+    {
+      "id": "mkt:01a0c43f-d38f-7118-862b-6fde3c26eeca",
+      "time": "2026-09-21 21:55:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Hubei to issue compute-power vouchers, raise subsidy rates; adds AI model and token services to subsidy scope】Hubei provincial government issued Q3–Q4 measures to spur growth, including: issue compute-power vouchers and raise subsidy rates, expanding subsidy coverage to model- and token-based AI services to lower compute-access thresholds for SMEs and tech startups; support new-load and export-oriented firms and industrial parks to directly connect to nearby renewable power for green electricity consumption; allocate provincial budget to cover pre-investment costs and create a project reserve and annual major-project list to accelerate construction; encourage factory-network integration, integrated supply/disposal management and concession models and invite firms to invest-build-operate urban underground pipe networks; deepen assetization of state-owned water resources and water engineering and develop a modern green water economy."
+    },
+    {
+      "id": "mkt:01a0c43f-b748-7118-862b-6265988f45a0",
+      "time": "2026-09-21 21:55:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq-100 extended gains to 1.5%, reaching an intraday high."
+    },
+    {
+      "id": "5106057",
+      "time": "2026-09-21 21:54:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北：發放“算力券”，提升補貼比例，將模型、詞元等服務模式納入補貼範圍】湖北省人民政府辦公廳印發《湖北省三四季度長短結合促進經濟穩中向好若干措施》，其中提出，加力推進“六張網”建設。建立專案儲備庫及年度重大專案清單，安排省預算內投資前期工作費支援重大專案推進。支援各地積極探索“廠網一體、供排綜合管理”及特許經營模式，鼓勵各類企業參與城市地下管網“投建管運”。深化國有水資源水工程資產化改革，培育壯大現代綠色水經濟。發放“算力券”，提升補貼比例，將模型、詞元等服務模式納入補貼範圍，切實降低中小微企業、科創團隊用算門檻。支援新建負荷、出口型企業等有綠色電力消費需求的市場主體、工業園區利用周邊新能源資源開展綠電直連。安排財政資金重點支援多式聯運體系構建、城鄉雙向流通和應急保供物流補短板、供應鏈創新與應用等領域專案。"
+    },
+    {
+      "id": "5106056",
+      "time": "2026-09-21 21:54:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數漲幅擴大至1.5%，創盤中新高。"
+    },
+    {
+      "id": "mkt:01a0c43b-919f-7118-862b-5b345ba5328f",
+      "time": "2026-09-21 21:50:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Russia preparing to extend diesel export ban beyond end-September】Russia is preparing to extend a diesel export ban beyond the end of September as Ukrainian attacks on its refineries continue, people familiar with the matter said. Moscow imposed the ban in July after strikes cut Russian refining throughput to a multi-year low; the measure, initially expected to last weeks, was extended monthly and to end-September, and officials are now considering another month-long or longer extension. Before the restrictions, Russian seaborne diesel supplied about 10% of the global market; removing that volume has compounded Middle East supply disruptions and pushed prices higher."
+    },
+    {
+      "id": "5106055",
+      "time": "2026-09-21 21:49:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普在決定暫緩行動前，曾考慮對葉門胡塞武裝發動打擊。"
+    },
+    {
+      "id": "te:markets:585342",
+      "time": "2026-09-21 21:48:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Progressive Stock Price Hits 4-week Low — Progressive shares decreased to 212.34 USD, the lowest since August 2026. Over the past 4 weeks, Progressive lost 2.12%, and in the last 12 months, it decreased 12.24%."
+    },
+    {
+      "id": "5106054",
+      "time": "2026-09-21 21:47:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Cue生物製藥公司股價回吐盤前漲幅，最新跌幅為3.3%。"
+    },
+    {
+      "id": "mkt:01a0c436-f600-7118-862b-52cafe73e277",
+      "time": "2026-09-21 21:45:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "Nasdaq gains widen to 1%."
+    },
+    {
+      "id": "mkt:01a0c436-e74b-7118-862b-4e31726ab092",
+      "time": "2026-09-21 21:45:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Supply concerns ease as oil futures extend declines】Oil futures fell for a fourth straight session as optimism that Saudi Arabia's damaged east–west pipeline will be repaired quickly and progress in efforts to restart U.S.-Iran talks eased supply concerns. CENTCOM Vice Admiral Cooper said shipping volumes through the Strait of Hormuz over the past two weeks were the highest in six months. WTI crude slid 3.8% intraday to $96.49 a barrel; Brent fell 3.1% to $100.65 a barrel."
+    },
+    {
+      "id": "mkt:01a0c436-cb9b-7118-862b-479cbeeb0140",
+      "time": "2026-09-21 21:45:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "New York State will require AI developers to report security incidents within 72 hours."
+    },
+    {
+      "id": "5106053",
+      "time": "2026-09-21 21:44:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "格陵蘭能源股價上漲130.6%。"
+    },
+    {
+      "id": "5106052",
+      "time": "2026-09-21 21:44:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國與丹麥就格陵蘭島問題達成協議後，在美上市、對格陵蘭島有業務敞口的企業股價大漲。"
+    },
+    {
+      "id": "te:markets:585340",
+      "time": "2026-09-21 21:43:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rises to 1-Week High — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for the third session on Monday, rising about 0.8% to a one-week high of 3,399 points. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, increased by 1.2% to 5,839 points; and the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, rebounded by 0.2% to 2,255 points. Among smaller vessels, the supramax index went up 0.4% to 1,771 points."
+    },
+    {
+      "id": "5106051",
+      "time": "2026-09-21 21:43:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.00%，現報26787.807點；道指漲0.22%，現報51796.988點；標普500指數漲0.63%，現報7698.520點。"
+    },
     {
       "id": "mkt:01a0c435-408e-7118-862b-3cd29440e423",
       "time": "2026-09-21 21:43:39",
