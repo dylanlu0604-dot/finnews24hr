@@ -1,7 +1,136 @@
 {
-  "updated": "2026-09-21 22:52:47",
-  "count": 13467,
+  "updated": "2026-09-21 23:01:10",
+  "count": 13472,
   "items": [
+    {
+      "id": "te:markets:585357",
+      "time": "2026-09-21 23:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.87% — Top currency gainers are South Korean Won (0.87%), Brazilian Real (0.74%), Polish Zloty (0.25%) and Dollar Index (0.14%). Biggest losers are Japanese Yen (-0.37%), British Pound (-0.16%) and Euro (-0.11%)."
+    },
+    {
+      "id": "mkt:01a0c47b-368a-7118-862c-f1eab60eaf3c",
+      "time": "2026-09-21 23:00:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's president said the government is seeking ways to reduce imports from other countries and increase purchases of goods from the United States."
+    },
+    {
+      "id": "5106162",
+      "time": "2026-09-21 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】乙二醇連續跌4.59%，瀝青連續跌4.22%，燃料油連續跌2.46%，低硫燃料油連續跌2.19%，聚丙烯連續跌1.40%。"
+    },
+    {
+      "id": "5106161",
+      "time": "2026-09-21 22:59:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：特朗普白宮的媒體禁令為何不構成對言論自由的攻擊？美國副總統JD·萬斯：他們仍然可以報道特朗普白宮，仍然可以獲取公開資訊。"
+    },
+    {
+      "id": "5106160",
+      "time": "2026-09-21 22:59:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩大礦業龍頭糾紛，公司最新回應】廈門鎢業9月21日晚公告稱，公司已就洛陽鉬業停止向控股子公司洛陽豫鷺礦業有限責任公司提供尾礦、導致後者全面停產一事，向北京仲裁委員會申請仲裁，涉案金額暫合計1.16億元（暫計算至2026年8月31日）。近日公司收到受理通知書，案件已受理但尚未開庭審理。廈門鎢業在公告中表示，洛陽鉬業自2026年6月30日起停止供應尾礦，轉而排入尾礦庫，導致洛陽豫鷺全面停產，並要求洛陽豫鷺暫停對外銷售鎢精礦。公司認為，上述行為已嚴重違反《合資合同》約定，經多次催告仍未履行，遂依據合同第五十八條仲裁條款提起仲裁。對此，洛陽鉬業相關負責人21日晚間表示，公司堅持以合規運營為底線，將就此事進行積極應訴。（中國證券報）"
+    },
+    {
+      "id": "mkt:01a0c479-91d2-7118-862c-eb8426fc5cd1",
+      "time": "2026-09-21 22:58:16",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "France's 5-year CDS rose above 45bp, the highest level since March 2020."
+    },
+    {
+      "id": "5106159",
+      "time": "2026-09-21 22:58:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，法國五年期信用違約互換利差擴大45個基點，觸及2020年3月以來的最高水平。"
+    },
+    {
+      "id": "5106158",
+      "time": "2026-09-21 22:57:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【油價暴漲衝擊中期選舉 留給美國共和黨的時間所剩無幾】美國共和黨議員已經沒有多少時間來安撫因物價問題而憤怒的選民，國會山上演相互推諉的最後一幕。很多人認為，該問題是共和黨在中期選舉中面臨的最大政治隱患。 柴油是卡車與農業機械的主要燃料，柴油價格暴漲對農村以及紅州衝擊尤為嚴重。在艾奧瓦州、內布拉斯加州等地，共和黨正陷入比預期更加艱難的選戰，力求保住席位。部分策略師與議員擔憂，如果選民將怒火發洩到共和黨候選人身上，該黨或將遭遇災難性的選舉結果。議員們提出多項設想，包括暫停聯邦汽油稅、實施燃料出口禁令，同時也承認相關舉措存在各類現實制約。這場始於2月的衝突，已然成為特朗普總統及其所屬政黨的軟肋。此前特朗普承諾不會再爆發無休止的海外戰爭，還曾許諾壓低物價。距離選舉到來，參議院僅剩兩週的會期，目前並沒有計劃就暫停汽油稅或是其他旨在壓低燃油價格的措施舉行投票。即便參議員透過相關法案，也很難快速送至總統案頭，因為共和黨掌控的眾議院已於上週休會。"
+    },
+    {
+      "id": "5106157",
+      "time": "2026-09-21 22:57:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾執行長稱，冬季來臨前，有過多煉油裝置處於停工狀態。"
+    },
+    {
+      "id": "5106156",
+      "time": "2026-09-21 22:55:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞7月份貿易逆差為27.98億美元；此前預計為-26.18億美元。哥倫比亞7月份進口額為79.68億美元；預計為78.33億美元。"
+    },
+    {
+      "id": "mkt:01a0c476-51a0-7118-862c-e1c2a6a9e087",
+      "time": "2026-09-21 22:54:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Petrobras CEO said exploration drilling near the Morpho discovery in the Amazon basin is expected to begin next year."
+    },
+    {
+      "id": "mkt:01a0c475-fbfb-7118-862c-dc1c519491bb",
+      "time": "2026-09-21 22:54:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Petrobras CEO said analysis of a discovery at the mouth of the Amazon River is complete and indicates high-quality crude."
+    },
+    {
+      "id": "5106155",
+      "time": "2026-09-21 22:53:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "一位高管表示，巴西國家石油公司已完成對福斯杜亞馬遜油氣區塊石油勘探結果的分析，表明該區塊原油品質優異。"
+    },
+    {
+      "id": "5106154",
+      "time": "2026-09-21 22:53:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "一位高管表示，巴西國家石油公司預計明年將啟動勘探活動，鑽探亞馬遜河口盆地莫爾福油氣發現周邊的探井。"
+    },
     {
       "id": "5106153",
       "time": "2026-09-21 22:51:26",
@@ -123181,90 +123310,6 @@
         "其他"
       ],
       "text": "市場資訊：胡塞武裝向葉門重鎮塔伊茲推進。"
-    },
-    {
-      "id": "mkt:01a0a06f-510e-7118-8579-b238a99061c4",
-      "time": "2026-09-14 23:00:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Customs data showed South Korea imported 12.1 mln tonnes of crude oil in August, down from 12.5 mln tonnes a year earlier."
-    },
-    {
-      "id": "te:markets:583574",
-      "time": "2026-09-14 23:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Polish Zloty Depreciates by 1.11% — Top currency losers are Polish Zloty (-1.11%), Mexican Peso (-1.04%), Swedish Krona (-0.88%), Japanese Yen (-0.71%), Euro (-0.53%) and British Pound (-0.38%). Gains are led by Dollar Index (0.50%)."
-    },
-    {
-      "id": "5093634",
-      "time": "2026-09-14 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】燃料油連續漲4.03%，低硫燃料油連續漲3.58%，焦煤連續漲3.56%，瀝青連續漲2.42%，短纖連續漲2.25%。"
-    },
-    {
-      "id": "5093633",
-      "time": "2026-09-14 22:58:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍發言人和以色列安全域性發言人的聯合宣告：“以色列國防軍和以色列安全域性逮捕了以法蓮旅轄區內圖勒凱爾姆地區被通緝高階頭目。"
-    },
-    {
-      "id": "5093632",
-      "time": "2026-09-14 22:57:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "標普：在宣佈收購賽諾菲後，將特種製藥公司CHEPLAPHARM的“B”評級列入正面信用觀察名單"
-    },
-    {
-      "id": "5093631",
-      "time": "2026-09-14 22:57:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【包鋼（集團）公司與遼寧材料實驗室座談交流】據包鋼集團公眾號，9月14日，中國科學院院士、遼寧材料實驗室主任盧柯率專家團隊到包鋼（集團）公司，圍繞推動新材料領域合作、促進科技成果轉化等方面深入交流。"
-    },
-    {
-      "id": "5093630",
-      "time": "2026-09-14 22:56:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中建西部建設與中建基礎簽署戰略合作協議】據中建西部建設公眾號，9月14日，中建西部建設與中建基礎簽署戰略合作協議。根據協議，雙方將完善合作機制，建立可持續的合作伙伴關係。"
-    },
-    {
-      "id": "mkt:01a0a06a-2909-7118-8579-afae5c22c5c8",
-      "time": "2026-09-14 22:55:06",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he will continue to destroy \"terrorist\" infrastructure in Lebanon's security zone."
-    },
-    {
-      "id": "mkt:01a0a068-08c2-7118-8579-a3ea55983d4e",
-      "time": "2026-09-14 22:52:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian media reported a senior Sunni Muslim cleric was shot dead by unidentified gunmen in southeastern Iran."
     }
   ]
 }
