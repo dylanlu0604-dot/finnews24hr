@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-21 23:55:49",
-  "count": 13475,
+  "updated": "2026-09-22 00:01:12",
+  "count": 13471,
   "items": [
+    {
+      "id": "5106202",
+      "time": "2026-09-21 23:58:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：伊拉克將暫停美國製裁的伊朗航空公司的航班。"
+    },
+    {
+      "id": "mkt:01a0c4b0-7e60-7118-862e-8223e76fa1f8",
+      "time": "2026-09-21 23:58:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq will suspend operations of Iranian airlines subject to U.S. sanctions, government sources said."
+    },
+    {
+      "id": "te:markets:585379",
+      "time": "2026-09-21 23:57:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 1.6% to 52,372 on Monday, amid widespread positive sentiment as global oil prices declined for a fourth consecutive session. As a result, sovereign yields declined, providing some respite for financials. Banco BPM advanced 4.3% amid rumours of a joint venture by UniCredit (3.2%) and Credit Agricole, reflecting growing competition in the banking sector. Adding further support, EU officials stressed the need for greater scale among European banks in an increasingly competitive global economy. UniCredit reiterated the statement while confirming its commitment to Commerzbank and noting significant progress on the acquisition. Tech stocks outperformed, tracking an AI demand-driven rally, with STMicroelectronics (3%) and Prysmian (3%) advancing, while newly added index constituent Technoprobe (5.3%) led gains on the index. Ferrari also advanced, gaining 2.7%."
+    },
+    {
+      "id": "5106201",
+      "time": "2026-09-21 23:56:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【土耳其考慮整合基金資產以償付投資者】一名知情人士透露，土耳其正考慮將上週被監管機構凍結的逾百隻基金的資產集中整合，以設立資產池。該官員表示，這一計劃仍處於早期階段，未來可能發生變化。上週，基金業危機引發違約潮，衝擊市場。在此背景下，土耳其資本市場委員會下令對131只基金進行清算。 這些被勒令清算的基金持有超過180億美元的投資，涉及約35萬名投資者。"
+    },
     {
       "id": "5106200",
       "time": "2026-09-21 23:52:39",
@@ -123324,83 +123361,6 @@
         "國際"
       ],
       "text": "印度財政部表示，2000盧比及以下的統一支付介面（UPI）支付將不收取費用。"
-    },
-    {
-      "id": "5093709",
-      "time": "2026-09-15 00:00:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本首相高市早苗將於17日改組內閣】據日本共同社14日報道，自民黨幹事長鈴木俊一在日本廣播協會的一檔節目中表示，首相高市早苗將於16日進行自民黨高層人事調整，並於17日改組內閣。（新華社）"
-    },
-    {
-      "id": "5093708",
-      "time": "2026-09-15 00:00:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "西班牙美妝集團PUIG已達成收購協議，收購藥妝品牌ISDIN（怡思丁）。"
-    },
-    {
-      "id": "te:markets:583585",
-      "time": "2026-09-14 23:59:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Drops Sharply — The FTSE MIB plunged 1.7% to 51,629 on Monday, amid mounting concerns over global security that reverberated across sectors. Tech stocks Prysmian (-7.1%) and STMicroelectronics (-6.5%) led the decline after major AI firms called for a slowdown in the boom of capital expenditure on the sector, citing safety concerns. Financial stocks also fell sharply. Expectations of rate hikes by major economies contributed to a surge in sovereign yields, while rising oil prices following the closure of Saudi Arabia’s East-West pipeline added to the pressure. MPS fell 2.9% while stating that its buyout offers for BPM and Banca Generali cannot be revoked if Intesa Sanpaolo’s takeover bid goes through. Defense stocks underperformed as European leaders called for greater investment in Arctic defenses amid pressure from Russia. Meanwhile, Stellantis dropped 2.8% as it considered selling its factory in Toronto, while Prime Minister Carney turned to the EU following the collapse of trade talks with the US."
-    },
-    {
-      "id": "5093707",
-      "time": "2026-09-14 23:59:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Alphabet旗下自動駕駛企業Waymo在拉斯維加斯正式開放面向公眾的乘車服務。"
-    },
-    {
-      "id": "5093706",
-      "time": "2026-09-14 23:57:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "歐盟國家計劃為工業界尋求更多免費碳排放許可。"
-    },
-    {
-      "id": "te:markets:583583",
-      "time": "2026-09-14 23:57:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Tech Pressures European Stocks — European stocks closed sharply lower on Monday amid another jump in sovereign yields and fresh concerns that risks to AI safety could hamper investment in hardware. The Euro STOXX 50 fell 1.1% to 6,257 and the STOXX Europe 600 dropped 0.5% to 636. Anthropic CEO Dario Amodei called for a slowdown on the development of frontier AI models to prevent a scenario where the loss of control in agents could have adverse effects on society, prompting endorsements from rivals OpenAI and xAI. The possibility of added guardrails on AI development pressured stocks for chip manufacturers and other companies in the AI infrastructure sector. ASML and Infineon sank 6.3% and 7.5%, respectively, while Schneider Electric lost 6.8% and Siemens Energy plummeted 8.5%. Meanwhile, banks also closed sharply lower as more escalation in the Middle East lifted oil and gas prices and worsened the inflation outlook in the Eurozone. Santander, BBVA, Intesa Sanpaolo, and Deutsche Bank dropped between 2% and 1.3%."
-    },
-    {
-      "id": "te:markets:583582",
-      "time": "2026-09-14 23:56:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls as Oil Rally Resumes — The CAC 40 fell 0.8% to close at 8,118 on Monday, extending losses from the previous week as oil prices surged. The crude rally resumed after Saudi Arabia suspended operations on the East-West crude pipeline following drone attacks. Talks between Iran and several Gulf nations on establishing a temporary shipping corridor through the Strait of Hormuz were postponed. Global yields were mostly higher ahead of the US Fed’s monetary policy decision on Wednesday, with markets expecting a rate hike. Industrials and financials were mostly lower, with Safran falling 2.6%, Airbus losing 2.2%, and Legrand tumbling 6.7%, while BNP Paribas shed 0.9% and Société Générale declined 1.7%. Schneider Electric (-6.5%) and STMicroelectronics (-6.6%) sank after major AI companies called for a slower pace of development amid growing concerns over safety risks. In contrast, luxury stocks gained, with L’Oréal rising 1.1% and Hermès up 1%. TotalEnergies gained 1% on higher oil prices."
-    },
-    {
-      "id": "5093705",
-      "time": "2026-09-14 23:56:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "胡塞武裝稱，只要沙特持續採取敵對行動，沙特就“無法獲得安全”。"
     }
   ]
 }

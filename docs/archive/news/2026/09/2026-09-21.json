@@ -1,7 +1,44 @@
 {
   "date": "2026-09-21",
-  "count": 1748,
+  "count": 1752,
   "items": [
+    {
+      "id": "5106202",
+      "time": "2026-09-21 23:58:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：伊拉克將暫停美國製裁的伊朗航空公司的航班。"
+    },
+    {
+      "id": "mkt:01a0c4b0-7e60-7118-862e-8223e76fa1f8",
+      "time": "2026-09-21 23:58:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq will suspend operations of Iranian airlines subject to U.S. sanctions, government sources said."
+    },
+    {
+      "id": "te:markets:585379",
+      "time": "2026-09-21 23:57:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 1.6% to 52,372 on Monday, amid widespread positive sentiment as global oil prices declined for a fourth consecutive session. As a result, sovereign yields declined, providing some respite for financials. Banco BPM advanced 4.3% amid rumours of a joint venture by UniCredit (3.2%) and Credit Agricole, reflecting growing competition in the banking sector. Adding further support, EU officials stressed the need for greater scale among European banks in an increasingly competitive global economy. UniCredit reiterated the statement while confirming its commitment to Commerzbank and noting significant progress on the acquisition. Tech stocks outperformed, tracking an AI demand-driven rally, with STMicroelectronics (3%) and Prysmian (3%) advancing, while newly added index constituent Technoprobe (5.3%) led gains on the index. Ferrari also advanced, gaining 2.7%."
+    },
+    {
+      "id": "5106201",
+      "time": "2026-09-21 23:56:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【土耳其考慮整合基金資產以償付投資者】一名知情人士透露，土耳其正考慮將上週被監管機構凍結的逾百隻基金的資產集中整合，以設立資產池。該官員表示，這一計劃仍處於早期階段，未來可能發生變化。上週，基金業危機引發違約潮，衝擊市場。在此背景下，土耳其資本市場委員會下令對131只基金進行清算。 這些被勒令清算的基金持有超過180億美元的投資，涉及約35萬名投資者。"
+    },
     {
       "id": "5106200",
       "time": "2026-09-21 23:52:39",
