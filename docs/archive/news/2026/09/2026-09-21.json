@@ -1,7 +1,90 @@
 {
   "date": "2026-09-21",
-  "count": 1053,
+  "count": 1062,
   "items": [
+    {
+      "id": "mkt:01a0c2ec-8a27-7118-8621-779179e157f2",
+      "time": "2026-09-21 15:44:36",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Foreign Ministry: Japan’s introduction of 'Tiefeng' medium‑range system further proof of remilitarization】On Sept. 21 Foreign Ministry spokesman Guo Jiakun said Russia on Sept. 18 notified Japan about a US deployment of the 'Tiefeng' medium‑range missile system to Kyushu and that China has also recently raised concerns with Tokyo. Guo called the system a strategic offensive weapon, said Japan’s adoption is further evidence of accelerating remilitarization, and warned it increases the risk of military confrontation and an arms race, threatens strategic balance and regional stability, and harms neighbouring countries’ legitimate security interests. He said China has repeatedly lodged strong protests through diplomatic channels and has recently notified Japan to reiterate its stern stance; he added many Asian publics have voiced opposition and the international community is highly alert."
+    },
+    {
+      "id": "5105076",
+      "time": "2026-09-21 15:44:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：印尼央行將繼續留在市場，以確保印尼盾穩定。"
+    },
+    {
+      "id": "5105074",
+      "time": "2026-09-21 15:44:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：現在為了參加聯合國大會和訪問墨西哥，即將出發。"
+    },
+    {
+      "id": "mkt:01a0c2eb-ec1e-7118-8621-6ff13f163b87",
+      "time": "2026-09-21 15:43:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "300750.SZ"
+      ],
+      "text": "【CATL raises online energy-storage cell prices, lists 587Ah cell】CATL adjusted energy-storage cell listings on its online store, raising starting prices and publicly listing an ultra-large 587Ah cell for the first time, providing a new price reference for China’s small-to-mid storage market. The store shows starting prices of 0.470 yuan/Wh for the 280Ah (1P) cell, 0.403 yuan/Wh for the 314Ah cell and 0.415 yuan/Wh for the 587Ah cell. Versus early-September store listings, the 280Ah (1P) floor price is up 1.1% and the 314Ah floor price is up 2.0%."
+    },
+    {
+      "id": "5105073",
+      "time": "2026-09-21 15:43:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4380美元/盎司，日內跌1.02%。"
+    },
+    {
+      "id": "5105072",
+      "time": "2026-09-21 15:43:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4380.18美元/盎司。"
+    },
+    {
+      "id": "5105071",
+      "time": "2026-09-21 15:43:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯中央選舉委員會資料顯示，在已經處理完 95.97% 的選區選票後，統一俄羅斯黨候選人在國家杜馬選舉 225 個單名制選區中的 208 個選區處於領先位置。"
+    },
+    {
+      "id": "5105070",
+      "time": "2026-09-21 15:43:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錢江生化：持股5%以上股東部分股份被輪候凍結】錢江生化公告稱，公司持股5%以上股東雲南水務所持公司351.32萬股股份被輪候凍結，佔其所持股份比例2.12%，佔公司總股本比例0.41%，凍結起始日為2026年9月18日，凍結原因系建設工程合同糾紛。截至公告披露日，雲南水務持有公司股份1.65億股，佔總股本19.08%；累計被凍結股份5925.54萬股，佔其所持股份35.84%，佔總股本6.84%；累計質押股份1.06億股，佔其所持股份64.16%，佔總股本12.24%；累計被輪候凍結股份5984.70萬股，佔其所持股份36.19%，佔總股本6.91%。雲南水務非公司控股股東、實控人，本次事項不會導致公司控制權變更，亦不影響公司日常經營。"
+    },
+    {
+      "id": "5105069",
+      "time": "2026-09-21 15:41:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士政府：瑞士唯一的煉油廠上週已恢復運營。汽油和柴油的供應已透過正常供應渠道恢復。"
+    },
     {
       "id": "5105068",
       "time": "2026-09-21 15:41:34",
