@@ -1,7 +1,110 @@
 {
   "date": "2026-09-21",
-  "count": 1680,
+  "count": 1691,
   "items": [
+    {
+      "id": "5106177",
+      "time": "2026-09-21 23:18:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：9月20日烏克蘭無人機襲擊後，莫斯科一家煉油廠已停止運營。"
+    },
+    {
+      "id": "mkt:01a0c48b-9ce6-7118-862d-a0db32bbcbe0",
+      "time": "2026-09-21 23:17:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources say a Moscow refinery halted operations after a Ukrainian drone strike on Sept. 20."
+    },
+    {
+      "id": "mkt:01a0c48a-0547-7118-862d-9b6dff2a2b39",
+      "time": "2026-09-21 23:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian president's office public relations director said the US is seeking to suppress Iran's voice by denying visas to media teams."
+    },
+    {
+      "id": "5106176",
+      "time": "2026-09-21 23:16:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日擬設新法人機構推進防衛裝備出口】據日本共同社9月20日援引訊息人士的話報道，日本政府計劃在2027年度設立新法人機構。這一新機構“與防衛密切相關”。據報道，新法人機構將統籌推進防衛裝備品出口、培育相關新興企業、強化生產基礎，還負責管理國有化的重要裝備品製造工廠。報道稱，相關舉措遭到日本部分在野黨的質疑，指出這會令人聯想到二戰前的日本兵工廠。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5106175",
+      "time": "2026-09-21 23:15:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：OpenAI和Anthropic討論對對方AI模型進行壓力測試】The Information援引一位知情人士的話報道稱，OpenAI和Anthropic討論了一項具有法律約束力的協議，對對方的AI模型進行壓力測試。知情人士表示，今年早些時候，兩公司及其律師討論了一項協議，計劃對各自的模型進行一系列測試，以尋找漏洞或潛在危險。報道稱，擬議協議規定，兩家公司將獲得對方已商業化AI模型的應用程式程式設計介面(API)訪問許可權，但不包括尚未釋出的模型。知情人士表示，OpenAI和Anthropic均保證，在測試過程中不會保留對方的資料。"
+    },
+    {
+      "id": "mkt:01a0c488-7ca1-7118-862d-9422ec78442d",
+      "time": "2026-09-21 23:14:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England deputy governor Breeden said swift financial-stability measures are needed."
+    },
+    {
+      "id": "5106174",
+      "time": "2026-09-21 23:13:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數漲幅擴大至1%。"
+    },
+    {
+      "id": "5106173",
+      "time": "2026-09-21 23:13:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數漲1.01%，現報7727.670點；道指漲0.45%，現報51914.070點；納指漲1.59%，現報26945.541點。"
+    },
+    {
+      "id": "mkt:01a0c486-e63c-7118-862d-8e0d1ab0f4af",
+      "time": "2026-09-21 23:12:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "BANK OF ENGLAND'S deputy governor BREEDEN said humans face difficulty providing real-time oversight of autonomous AI."
+    },
+    {
+      "id": "5106172",
+      "time": "2026-09-21 23:12:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長布里登：人類很難對代理式人工智慧進行實時監管。"
+    },
+    {
+      "id": "te:markets:585358",
+      "time": "2026-09-21 23:12:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Stays at Over 1-Month Low — The South African rand traded around 16.3 per USD, holding close to the lowest since early August, amid a firmer dollar and falling prices of key precious metals. Domestically, investors awaited August consumer inflation data and the SARB’s policy decision, both due on September 23. Headline Inflation fell to 4.3% in July from 5% in June but is expected to pick up again in August after diesel-price adjustments. South Africa could be heading for a 25 bps rate hike this week, as higher oil prices and the Fed’s latest move strengthen the case for tighter monetary policy amid renewed inflation risks. The key concern is that inflation could remain above target for longer. That said, the SARB's decision remains uncertain, particularly after the central bank surprised markets and economists in July by keeping its repo rate unchanged at 7%. Policymakers will again face a delicate balancing act between containing renewed inflationary pressures and supporting weak domestic economic activity."
+    },
     {
       "id": "mkt:01a0c485-53e6-7118-862d-8531d53b2a2d",
       "time": "2026-09-21 23:11:07",

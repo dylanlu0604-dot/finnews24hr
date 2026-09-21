@@ -1,7 +1,110 @@
 {
-  "updated": "2026-09-21 23:11:54",
-  "count": 13468,
+  "updated": "2026-09-21 23:19:08",
+  "count": 13465,
   "items": [
+    {
+      "id": "5106177",
+      "time": "2026-09-21 23:18:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：9月20日烏克蘭無人機襲擊後，莫斯科一家煉油廠已停止運營。"
+    },
+    {
+      "id": "mkt:01a0c48b-9ce6-7118-862d-a0db32bbcbe0",
+      "time": "2026-09-21 23:17:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources say a Moscow refinery halted operations after a Ukrainian drone strike on Sept. 20."
+    },
+    {
+      "id": "mkt:01a0c48a-0547-7118-862d-9b6dff2a2b39",
+      "time": "2026-09-21 23:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian president's office public relations director said the US is seeking to suppress Iran's voice by denying visas to media teams."
+    },
+    {
+      "id": "5106176",
+      "time": "2026-09-21 23:16:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日擬設新法人機構推進防衛裝備出口】據日本共同社9月20日援引訊息人士的話報道，日本政府計劃在2027年度設立新法人機構。這一新機構“與防衛密切相關”。據報道，新法人機構將統籌推進防衛裝備品出口、培育相關新興企業、強化生產基礎，還負責管理國有化的重要裝備品製造工廠。報道稱，相關舉措遭到日本部分在野黨的質疑，指出這會令人聯想到二戰前的日本兵工廠。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5106175",
+      "time": "2026-09-21 23:15:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：OpenAI和Anthropic討論對對方AI模型進行壓力測試】The Information援引一位知情人士的話報道稱，OpenAI和Anthropic討論了一項具有法律約束力的協議，對對方的AI模型進行壓力測試。知情人士表示，今年早些時候，兩公司及其律師討論了一項協議，計劃對各自的模型進行一系列測試，以尋找漏洞或潛在危險。報道稱，擬議協議規定，兩家公司將獲得對方已商業化AI模型的應用程式程式設計介面(API)訪問許可權，但不包括尚未釋出的模型。知情人士表示，OpenAI和Anthropic均保證，在測試過程中不會保留對方的資料。"
+    },
+    {
+      "id": "mkt:01a0c488-7ca1-7118-862d-9422ec78442d",
+      "time": "2026-09-21 23:14:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England deputy governor Breeden said swift financial-stability measures are needed."
+    },
+    {
+      "id": "5106174",
+      "time": "2026-09-21 23:13:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數漲幅擴大至1%。"
+    },
+    {
+      "id": "5106173",
+      "time": "2026-09-21 23:13:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數漲1.01%，現報7727.670點；道指漲0.45%，現報51914.070點；納指漲1.59%，現報26945.541點。"
+    },
+    {
+      "id": "mkt:01a0c486-e63c-7118-862d-8e0d1ab0f4af",
+      "time": "2026-09-21 23:12:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "BANK OF ENGLAND'S deputy governor BREEDEN said humans face difficulty providing real-time oversight of autonomous AI."
+    },
+    {
+      "id": "5106172",
+      "time": "2026-09-21 23:12:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行副行長布里登：人類很難對代理式人工智慧進行實時監管。"
+    },
+    {
+      "id": "te:markets:585358",
+      "time": "2026-09-21 23:12:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Stays at Over 1-Month Low — The South African rand traded around 16.3 per USD, holding close to the lowest since early August, amid a firmer dollar and falling prices of key precious metals. Domestically, investors awaited August consumer inflation data and the SARB’s policy decision, both due on September 23. Headline Inflation fell to 4.3% in July from 5% in June but is expected to pick up again in August after diesel-price adjustments. South Africa could be heading for a 25 bps rate hike this week, as higher oil prices and the Fed’s latest move strengthen the case for tighter monetary policy amid renewed inflation risks. The key concern is that inflation could remain above target for longer. That said, the SARB's decision remains uncertain, particularly after the central bank surprised markets and economists in July by keeping its repo rate unchanged at 7%. Policymakers will again face a delicate balancing act between containing renewed inflationary pressures and supporting weak domestic economic activity."
+    },
     {
       "id": "mkt:01a0c485-53e6-7118-862d-8531d53b2a2d",
       "time": "2026-09-21 23:11:07",
@@ -123149,133 +123252,6 @@
         "國際"
       ],
       "text": "【資料顯示霍爾木茲海峽單日通行量降至個位數】船舶追蹤資訊顯示，霍爾木茲海峽上週末兩天內單日船舶通行量僅為個位數，低於10天內每日平均14艘船的通行量。根據14日的船舶追蹤資訊，上週末兩天內，4艘船隻駛出霍爾木茲海峽，其中包括運載能源的船隻；10艘貨船駛入霍爾木茲海峽。不過，上述數字不包括透過霍爾木茲海峽時關閉自動識別系統的船隻。另據英國海上貿易行動辦公室訊息，一艘船13日透過霍爾木茲海峽時被不明飛行物擊中，尚不清楚船員和船隻受損情況。霍爾木茲海峽是全球航運要道，承載全球約四分之一海運石油貿易以及大量液化天然氣和化肥運輸。美國和以色列2月28日對伊朗發起軍事打擊前，霍爾木茲海峽每日大約可透過125艘大型商船，包括油輪、天然氣運輸船、散貨船和集裝箱船。(央視新聞)"
-    },
-    {
-      "id": "5093667",
-      "time": "2026-09-14 23:18:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗與海灣國家未撕破臉仍可能對話】伊朗與海灣國家原定於9月14日在阿曼舉行會議，通報伊朗與阿曼商定的霍爾木茲海峽新航道安排。但因巴林的不參與，以及沙特的延期要求，本次會議已被推遲。中國現代國際關係研究院中東研究所副所長秦天指出，伊朗與海灣國家達成共識有難度，但仍保留了未來雙方繼續透過談判來探索霍爾木茲海峽通航問題解決方案的可能性。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5093666",
-      "time": "2026-09-14 23:18:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德發表題為《資本新時代：增長、主權與人工智慧》的演講。"
-    },
-    {
-      "id": "5093665",
-      "time": "2026-09-14 23:17:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部通報，俄武裝力量當日持續打擊烏克蘭西部用於轉運來自歐洲軍事物資的鐵路基礎設施。"
-    },
-    {
-      "id": "mkt:01a0a07e-aa49-7118-857a-1c28beb7acf8",
-      "time": "2026-09-14 23:17:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ECB President Lagarde said the current economic backdrop underscores the rising importance of capital flows and economic sovereignty, and that AI adoption will create new opportunities for economic growth."
-    },
-    {
-      "id": "5093664",
-      "time": "2026-09-14 23:17:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德：歐洲也必須自主建設人工智慧基礎設施。"
-    },
-    {
-      "id": "mkt:01a0a07e-37af-7118-857a-16e61a092de4",
-      "time": "2026-09-14 23:17:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ECB President Lagarde said Europe cannot rely solely on importing AI technology from the US and must develop its own AI infrastructure."
-    },
-    {
-      "id": "5093663",
-      "time": "2026-09-14 23:16:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德：歐洲不能簡單地從美國引進人工智慧技術。"
-    },
-    {
-      "id": "5093662",
-      "time": "2026-09-14 23:15:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雷軍到訪宇樹科技，王興興陪同】9月14日晚間訊息，小米集團董事長雷軍到訪杭州宇樹科技，宇樹創始人王興興親自接待。雷軍在王興興的陪同下，現場觀看了人形機器人武術、毛筆書法等表演。據報道，現場還有一臺機器人主動走近小米澎程N90展車“看車”，並揮手打招呼。據悉，雷軍名下順為資本是宇樹科技早期投資人之一。雷軍曾公開表示，感謝王興興在五年前給了他們一個投資宇樹的機會。此前，在小米新一代SU7系列上市釋出會時，王興興也曾攜宇樹機器人為小米助陣。（新浪科技）"
-    },
-    {
-      "id": "5093661",
-      "time": "2026-09-14 23:15:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普稱俄羅斯和烏克蘭同意停止對能源目標的互襲】特朗普在社交媒體平臺發帖稱：“烏克蘭已同意不打擊俄羅斯能源目標。俄羅斯也同意不對烏克蘭能源目標實施攻擊。”“全球柴油價格上漲主要是由俄烏衝突造成的，不是伊朗戰爭”，他補充道."
-    },
-    {
-      "id": "5093660",
-      "time": "2026-09-14 23:14:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟負責人譴責針對沙烏地阿拉伯的襲擊：此事關乎我們所有人的利益。"
-    },
-    {
-      "id": "5093659",
-      "time": "2026-09-14 23:13:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部通報，俄空天軍使用攻擊無人機襲擊了敖德薩港內一艘貨船。該船當時正在為烏克蘭武裝部隊運送物資。"
-    },
-    {
-      "id": "5093658",
-      "time": "2026-09-14 23:13:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【遭伊朗擊落美戰機一機組成員露面 稱“自由落體”墜地生還】在伊朗被擊落的一架美軍F-15E戰機一名機組成員日前首次公開露面，稱跳傘時降落傘損壞，他以“自由落體”方式墜地，僥倖生還。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0a079-d6d4-7118-857a-088dae5a1268",
-      "time": "2026-09-14 23:12:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Interfax reported Russia said it struck a dry-bulk vessel at Ukraine's port of Odesa."
-    },
-    {
-      "id": "5093657",
-      "time": "2026-09-14 23:12:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱在烏克蘭敖德薩港擊中一艘乾貨船。"
     }
   ]
 }
