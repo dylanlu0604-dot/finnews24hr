@@ -1,7 +1,28 @@
 {
   "date": "2026-09-22",
-  "count": 179,
+  "count": 181,
   "items": [
+    {
+      "id": "5106309",
+      "time": "2026-09-22 03:30:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司（NOC）在一份宣告中表示，一個武裝組織於週一關閉了通往扎維耶港的沙拉拉原油管道的7號閥門，導致沙拉拉油田產量大幅下降。"
+    },
+    {
+      "id": "mkt:01a0c572-911b-7118-8631-87319529a5d7",
+      "time": "2026-09-22 03:30:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【U.S. proposes $5bn stake in $10bn fund to rebuild Middle East energy infrastructure】The Trump administration has proposed a $5bn U.S. investment in a new $10bn fund, seeking equal contributions from Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, Oman, Iraq and Jordan to rebuild energy infrastructure damaged in a conflict with Iran and to reduce reliance on the Strait of Hormuz for oil and gas transit. The initiative, to be called Pact, is under negotiation. Some regional officials say the move appears aimed at lowering the strategic importance of the Hormuz route and signaling U.S.–allied unity against Iran, but warn rebuilding before a settlement with Tehran could be premature because Iran may target new facilities with drones or missiles."
+    },
     {
       "id": "mkt:01a0c56f-1bed-7118-8631-7e1883d5153c",
       "time": "2026-09-22 03:26:28",

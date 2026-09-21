@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-22 03:28:25",
-  "count": 13458,
+  "updated": "2026-09-22 03:32:13",
+  "count": 13456,
   "items": [
+    {
+      "id": "5106309",
+      "time": "2026-09-22 03:30:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司（NOC）在一份宣告中表示，一個武裝組織於週一關閉了通往扎維耶港的沙拉拉原油管道的7號閥門，導致沙拉拉油田產量大幅下降。"
+    },
+    {
+      "id": "mkt:01a0c572-911b-7118-8631-87319529a5d7",
+      "time": "2026-09-22 03:30:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【U.S. proposes $5bn stake in $10bn fund to rebuild Middle East energy infrastructure】The Trump administration has proposed a $5bn U.S. investment in a new $10bn fund, seeking equal contributions from Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, Oman, Iraq and Jordan to rebuild energy infrastructure damaged in a conflict with Iran and to reduce reliance on the Strait of Hormuz for oil and gas transit. The initiative, to be called Pact, is under negotiation. Some regional officials say the move appears aimed at lowering the strategic importance of the Hormuz route and signaling U.S.–allied unity against Iran, but warn rebuilding before a settlement with Tehran could be premature because Iran may target new facilities with drones or missiles."
+    },
     {
       "id": "mkt:01a0c56f-1bed-7118-8631-7e1883d5153c",
       "time": "2026-09-22 03:26:28",
@@ -123232,41 +123253,6 @@
         "其他"
       ],
       "text": "據半島電視臺：葉門武裝部隊稱，其對曼德海峽附近的胡塞武裝據點實施了打擊。"
-    },
-    {
-      "id": "mkt:01a0a167-a882-7118-857e-864f21227faa",
-      "time": "2026-09-15 03:32:00",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Al Jazeera reported Yemen's government military said it struck Houthi positions near Bab al-Mandeb."
-    },
-    {
-      "id": "mkt:01a0a166-db5b-7118-857e-78ae671d21d6",
-      "time": "2026-09-15 03:31:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Real Estate Institute of New Zealand (REINZ): seasonally adjusted median house price in New Zealand fell 1.3% MoM in August."
-    },
-    {
-      "id": "5093831",
-      "time": "2026-09-15 03:30:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭房地產協會：經季節性調整的 8 月房屋價格中位數環比下跌 1.3%。"
-    },
-    {
-      "id": "mkt:01a0a164-a2e0-7118-857e-723b16cd34a3",
-      "time": "2026-09-15 03:28:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY urged parliament to vote this week on a key bill to ensure the functioning of state finances."
     }
   ]
 }
