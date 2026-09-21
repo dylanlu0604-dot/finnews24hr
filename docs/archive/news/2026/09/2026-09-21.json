@@ -1,7 +1,96 @@
 {
   "date": "2026-09-21",
-  "count": 240,
+  "count": 250,
   "items": [
+    {
+      "id": "mkt:01a0c145-6929-7118-861a-3c7e0a486d08",
+      "time": "2026-09-21 08:02:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened up 46.44 points, or 0.67%, at 6,940.67 on Monday, Sept. 21."
+    },
+    {
+      "id": "mkt:01a0c144-7bd8-7118-861a-30a016398cf4",
+      "time": "2026-09-21 08:01:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Customs Service said South Korea’s preliminary trade balance for Sept. 1-20 registered a $22.97 bln surplus; imports rose 26.7% YoY and exports rose 78.3% YoY."
+    },
+    {
+      "id": "mkt:01a0c144-744c-7118-861a-2f67c7e617c5",
+      "time": "2026-09-21 08:01:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Goldman Sachs expects that if Persian Gulf LNG exports do not materially improve this winter, TTF and JKM will reach €105/MWh and $35/MMBtu by year-end."
+    },
+    {
+      "id": "5104471",
+      "time": "2026-09-21 08:01:00",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛表示：如果今年冬季波斯灣液化天然氣出口無顯著改善，到年底，荷蘭所有權轉讓中心（TTF）天然氣價格和日本韓國標杆（JKM）液化天然氣價格大機率將分別達到每兆瓦時105歐元、每百萬英熱單位35美元。"
+    },
+    {
+      "id": "5104470",
+      "time": "2026-09-21 08:00:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加4.28噸】截至2026年09月18日，全球最大的黃金ETF SPDR Gold Trust持倉量為1057.12噸，較前一個交易日增加4.28噸。"
+    },
+    {
+      "id": "5104469",
+      "time": "2026-09-21 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲0.6%，至6938.34點。日本股市今日休市。"
+    },
+    {
+      "id": "mkt:01a0c143-be40-7118-861a-22c9fcdcca10",
+      "time": "2026-09-21 08:00:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Goldman Sachs expects winter TTF and LNG prices to rise above €100/MWh and $35/MMBtu, respectively."
+    },
+    {
+      "id": "5104468",
+      "time": "2026-09-21 08:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國9月前20天貿易順差達229.66億美元。"
+    },
+    {
+      "id": "5104467",
+      "time": "2026-09-21 08:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國9月出口20天同比 78.3%，前值 56%。韓國9月進口20天同比 26.7%，前值 19%。"
+    },
+    {
+      "id": "5104466",
+      "time": "2026-09-21 07:59:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：預計今冬天然氣TTF價格和液化天然氣價格將分別上行突破每兆瓦時100歐元、每百萬英熱單位35美元。"
+    },
     {
       "id": "5104465",
       "time": "2026-09-21 07:57:49",
