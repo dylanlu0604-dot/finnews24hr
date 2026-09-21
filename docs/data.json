@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-21 14:44:33",
-  "count": 13615,
+  "updated": "2026-09-21 14:48:26",
+  "count": 13613,
   "items": [
+    {
+      "id": "te:markets:585232",
+      "time": "2026-09-21 14:46:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends Quiet Ahead of U.S.–China Talks — The ASX 200 closed flat at 8,732 on Monday, reversing early weakness as stronger U.S. stock futures lifted sentiment ahead of a bilateral summit between President Trump and Chinese leader Xi Jinping on September 24, expected to cover tariffs, minerals, and broader economic ties. Meanwhile, Treasury Secretary Bessent described his weekend talks with Chinese VP He Lifeng as “successful.” Consumer non-durables, financials, and utilities advanced, while healthcare, non-energy minerals, and logistics retreated. It was the second subdued local session, as traders continued to weigh Reserve Bank Governor Bullock’s warning that inflation remains stubbornly high, keeping rate-hike risks alive. Investors now await Australia’s flash September PMI and August labor data. Ramelius Resources jumped 6.2%, followed by Paladin Energy (3.4%) and Viva Energy (1.9%), while the big four banks rose between 0.4%–0.9%. On the downside, BHP Group (-0.4%), Xero Ltd. (-4.3%), and Lynas Rare Earths (-2.6%) lagged."
+    },
+    {
+      "id": "5104949",
+      "time": "2026-09-21 14:45:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華保險、中信金石等在湖北成立科技創新產業投資基金 出資額20億】天眼查App顯示，近日，金石（湖北）科技創新產業投資基金合夥企業（有限合夥）成立，執行事務合夥人為中信金石投資有限公司，出資額20億元人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由新華人壽保險股份有限公司、中信金石投資有限公司、金石灃盈（青島）股權投資合夥企業（有限合夥）、金石潤澤（淄博）投資諮詢合夥企業（有限合夥）共同出資。"
+    },
+    {
+      "id": "5104948",
+      "time": "2026-09-21 14:44:52",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【小摩：對2030年前儲能需求維持正面看法，看好寧德時代等】摩根大通發表研報指，自今年6月以來A股市場上的中國儲能價值鏈股份大幅調整，寧德時代、海博思創、德業科技、陽光電源等跌幅遠超大市表現，反映投資者對明年中國儲能需求前景疲弱及地緣政治不確定性上升的憂慮。該行認為市場屬過度悲觀，維持對2030年前儲能需求的正面看法，預測中國儲能裝機至2030年的年均複合增長率為約22%，預期2027年電池出貨同比增長約20%，對比市場預期幾乎零增長。在一眾股份中，該行繼續列寧德時代、陽光電源及德業股份為首選，並視寧德時代為把握全球儲能增長的最佳選擇，因其市佔率領先、海外敞口強及近期調整後估值吸引，目標價725港元。"
+    },
+    {
+      "id": "5104947",
+      "time": "2026-09-21 14:44:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【倪汝池即將卸任中國駐巴林大使】據外交部西亞北非司微信公眾號訊息，9月20日，駐巴林大使倪汝池辭行拜會巴林王儲兼首相薩勒曼。"
+    },
+    {
+      "id": "5104946",
+      "time": "2026-09-21 14:44:21",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【馬斯克轉發帖文：GPT-6 Astra多次模擬測試中將人推下懸崖】馬斯克轉發帖文，該帖文稱，“GPT-6 Astra在多次模擬測試中將一個模擬人物推下懸崖，而Grok、Gemini和Claude均未這樣做。”"
+    },
+    {
+      "id": "5104945",
+      "time": "2026-09-21 14:44:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【水利部聯合農業銀行出臺專項措施 支援節水產業高質量發展】近日，水利部、中國農業銀行聯合印發關於做好節水產業高質量發展金融服務有關工作的通知，聚焦我國節水產業發展目標和重點任務，推出一攬子金融服務措施，政銀合作推動節水產業高質量發展，助力構建以先進製造業為骨幹的現代化節水產業體系。信貸支援方面，農業銀行將加大信貸資源傾斜力度，積極滿足節水產業資金需求。合理約定專案貸款期限和資本金比例，保障重點專案建設，助力緩解資金壓力，推動降低節水產業融資成本。（中國農業銀行）"
+    },
     {
       "id": "5104944",
       "time": "2026-09-21 14:43:59",
@@ -51,6 +105,14 @@
         "國際"
       ],
       "text": "中美經貿磋商在美國紐約舉行，貝森特：雙方接觸\"非常成功”。（央廣網）"
+    },
+    {
+      "id": "5104939",
+      "time": "2026-09-21 14:40:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：阿里巴巴雲棲大會或有正面驚喜，開展30日短期正面觀點】花旗發表研報指，阿里巴巴將於9月22至24日在杭州舉行2026年度雲棲大會，主題為Intelligence Goes Beyond，預期可能釋出Qwen模型v3.8系列更新、Qwen新版本v3.9或v4.0、MaaS平臺基礎設施及網路提升、平頭哥(T-Head)AI/CPU晶片升級、企業智慧體應用新版本或加強版，以及實體AI、可穿戴裝置、機器人及智慧裝置產業合作等一系列訊息。該行預期阿里巴巴在雲棲大會將重申其全棧能力，以及三年3800億元資本開支、至2031財年外部雲收入1000億美元的目標，並可能提供截至9月底止最新MaaS年度經常性收入(ARR)，同時維持年底ARR目標為300億元。在近期板塊股價偏弱後，花旗相信雲棲大會上任何正面驚喜公佈都將可能刺激股價有正面反應，對阿里開展為期30日的短期正面觀點，維持“買入”評級，目標價189港元。"
     },
     {
       "id": "5104938",
@@ -124627,92 +124689,6 @@
         "其他"
       ],
       "text": "市場訊息：資料中心提供商Firmus正尋求在澳大利亞首次公開募股中籌集至多50億美元，目標是在10月底上市。這筆交易勢將成為澳大利亞史上最大規模的IPO之一。"
-    },
-    {
-      "id": "mkt:01a09eac-656b-7118-8568-b46a0d3a3b66",
-      "time": "2026-09-14 14:48:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Saudi east–west pipeline closure leaves Asian refiners seeking clarity on Yanbu liftings】Asian refiners are awaiting confirmation about crude scheduled for pickup at Yanbu after ARAMCO closed a key east–west pipeline serving the Red Sea terminal following a drone attack. Traders participating in discussions said at least four refiners have asked about operational status but have received no official communication; Saudi marketing executives did not respond to queries on the extent of pipeline damage. Two refiners told traders they plan to lift cargoes as scheduled in the absence of delay notices. ARAMCO said the pipeline was shut last Friday as a precaution after drones launched from Iraq. Kpler senior modelling manager Sumit Ritolia said the closure reduces route flexibility for Asian refiners at a time when several major oil transport corridors are under strain, and that diversification cannot fully offset cost impacts when multiple routes are disrupted."
-    },
-    {
-      "id": "5092473",
-      "time": "2026-09-14 14:47:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋航空：迄今已完成104架飛機改裝；目前137架飛機已配備超級經濟艙。自1月以來共交付18架飛機."
-    },
-    {
-      "id": "5092472",
-      "time": "2026-09-14 14:47:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋航空：僅8月下半月，搭乘阿聯酋航空抵達迪拜的旅客數量較2025年同期增長7%。"
-    },
-    {
-      "id": "5092471",
-      "time": "2026-09-14 14:47:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋航空：7月至8月期間運送旅客超860萬人次。"
-    },
-    {
-      "id": "5092470",
-      "time": "2026-09-14 14:47:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋航空：隨著航線網路和產品投資加速推進，阿聯酋航空以強勁的預訂勢頭進入冬季航季。"
-    },
-    {
-      "id": "mkt:01a09eab-6249-7118-8568-a8dc15f39eeb",
-      "time": "2026-09-14 14:47:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Firmus targets up to $5 bln IPO in late October; would be among Australia's largest】Firmus Technologies Pty is seeking to raise up to $5 billion in an Australian IPO, with sources saying it is targeting a late-October listing. Discussions remain ongoing and deal size and timing could change. At that scale the offering would be among Australia’s largest IPOs, comparable to Medibank’s 2014 raise of just under $5 billion, and would boost a primary market that has raised only just over $1 billion year-to-date versus more than $2 billion annually in each of the prior two years. Firmus has signed pre-IPO contracts with several major US tech firms, including OpenAI, to supply compute from two Malaysian data-center sites."
-    },
-    {
-      "id": "5092468",
-      "time": "2026-09-14 14:46:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國：希望整合與中亞各國在AI及科技優勢】韓國科學部長裴慶勳在週一的部長級會議上表示，希望擴大合作，整合韓國與中亞各國在人工智慧及科技領域的優勢。本次會議於首爾舉辦，是首屆韓國—中亞峰會配套活動，哈薩克等五個中亞國家與韓國的科學、人工智慧部長首次齊聚參會。"
-    },
-    {
-      "id": "mkt:01a09ea9-5930-7118-8568-a454a39d1d0d",
-      "time": "2026-09-14 14:44:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "1211.HK",
-        "Impact bullish",
-        "Copper",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【BYD executive says combustion-engine cars have no future】BYD executive vice president Li Ke told an interview that in China, as BYD’s flash-charging technology spreads, she considers internal combustion-engine (ICE) cars to have no future. She said electrification in other regions may take several years but will reach the same end, and BYD plans to launch a solid-state battery-equipped model in 2027."
-    },
-    {
-      "id": "5092467",
-      "time": "2026-09-14 14:44:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比亞迪高管稱燃油車沒有未來】近日，比亞迪執行副總裁李柯在接受採訪時表示：“在中國，隨著比亞迪閃充技術的普及，我認為燃油車已經沒有未來，這是非常明確的。”她還表示，全球其他地區的電動化轉型可能需要花費幾年，但是最終的結局是一樣的。此外，她還透露，比亞迪計劃在2027年推出搭載固態電池的車型。（第一財經）"
     }
   ]
 }
