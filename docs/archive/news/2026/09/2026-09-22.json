@@ -1,7 +1,68 @@
 {
   "date": "2026-09-22",
-  "count": 184,
+  "count": 191,
   "items": [
+    {
+      "id": "mkt:01a0c57b-08b9-7118-8631-9f4750d853f8",
+      "time": "2026-09-22 03:39:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two sources said Ukrainian President Zelenskiy met with U.S. CIA Director Ratcliffe in Ireland."
+    },
+    {
+      "id": "5106316",
+      "time": "2026-09-22 03:38:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭陸軍：陸基防空系統與雷達偵察部隊已進入戰備狀態。"
+    },
+    {
+      "id": "5106315",
+      "time": "2026-09-22 03:38:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方：此次軍事航空行動屬預防性行動，旨在保障領空安全。"
+    },
+    {
+      "id": "5106314",
+      "time": "2026-09-22 03:38:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭軍方：在俄羅斯對烏克蘭發動空襲後，波蘭已開始在本國領空開展軍用航空作業。"
+    },
+    {
+      "id": "mkt:01a0c57a-4e38-7118-8631-9285fc8b71fe",
+      "time": "2026-09-22 03:38:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Polish military says it has begun military aviation operations in Polish airspace after Russian air strikes on Ukraine."
+    },
+    {
+      "id": "5106313",
+      "time": "2026-09-22 03:38:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名訊息人士稱，烏克蘭總統澤連斯基在愛爾蘭會見了美國中央情報局局長拉特克利夫。"
+    },
+    {
+      "id": "5106312",
+      "time": "2026-09-22 03:35:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克100指數漲幅擴大至3%，標普500指數上漲1.6%。"
+    },
     {
       "id": "5106311",
       "time": "2026-09-22 03:35:13",
