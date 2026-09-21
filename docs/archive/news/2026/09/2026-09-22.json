@@ -1,7 +1,66 @@
 {
   "date": "2026-09-22",
-  "count": 406,
+  "count": 412,
   "items": [
+    {
+      "id": "mkt:01a0c659-912b-7118-8633-6d53a91f973a",
+      "time": "2026-09-22 07:42:33",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【UK to provide \"defensive\" air-to-air refuelling support to Saudi Arabia】On Sept 21 UK Prime Minister Andy Burnham said Britain will deploy a \"defensive\" RAF Voyager tanker to provide air-to-air refuelling for Saudi warplanes after recent attacks by Yemen's Houthi rebels. Burnham, speaking en route to the UN in New York, said he approved a Saudi request after advice from Defence Secretary Wes Streeting and Foreign Secretary Ed Miliband; operations are due to begin in the coming days and are temporary, initially expected to last several weeks."
+    },
+    {
+      "id": "5106466",
+      "time": "2026-09-22 07:41:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【人民日報：錨定新定位，推動中美建設性戰略穩定關係行穩致遠】人民日報刊發署名為“國紀平”的評論文章稱， 構建中美建設性戰略穩定關係，是中美兩個大國本著對歷史、對人民、對世界負責的態度，走出的一條前無古人的探索之路，將深刻影響國際格局演進，為動盪不安的世界注入彌足珍貴的確定性。在中美建設性戰略穩定關係這一新正規化引導下，世界有望走出零和博弈的泥潭，邁向一個更加穩定、合作與公正的未來。今年5月，中美元首就中東局勢、烏克蘭危機、朝鮮半島等重大國際和地區問題交換了意見。大國肩負特殊責任，中美應當以大格局把握時代大勢，以大擔當妥善處置地區熱點，多做勸和促談的實事好事，努力當好世界和平的穩定源。中美理應把握時代大勢，順應世界期待，以為世界擔責、為歷史盡責的格局和擔當，作出經得起歷史檢驗、經得起時代叩問的正確抉擇。"
+    },
+    {
+      "id": "5106465",
+      "time": "2026-09-22 07:41:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4370美元/盎司，日內漲0.61%。"
+    },
+    {
+      "id": "5106464",
+      "time": "2026-09-22 07:41:00",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【中國對美國進出口連續5個月增長 70家公司境外收入佔比連續5年超60%】9月18日A股出海貿易指數大漲，單日漲幅接近2%，9月21日漲幅繼續超過1%，上週以來（9月14日至9月21日）累計漲幅達到3.4%，大幅跑贏同期上證指數。中美貿易持續向穩。海關總署統計顯示，中國對美國進出口已連續5個月增長，今年1—8月累計進出口額達到2.76萬億元，同比增長1.3%。自2020年至2025年，中國對美出口年度金額持續站穩3萬億元以上，佔中國對外全部出口額比值持續超過11%。從出口商品類別來看，對應的A股公司主要聚集於紡織服飾、輕工製造、醫療耗材、通用裝置等行業。據證券時報·資料寶統計，上文提及行業中，2021年至2025年境外收入佔營收比重（下稱“境外收入佔比”）持續超過60%的公司有70家。上述70家公司中，今年以來跌幅不低於5%，機構一致預測2026年、2027年淨利潤增幅超過25%的公司僅有10家，主要分佈於家居用品、文娛用品、通用裝置等申萬二級行業。"
+    },
+    {
+      "id": "mkt:01a0c658-234e-7118-8633-6542a88db93f",
+      "time": "2026-09-22 07:40:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose to $4,370/oz, up 0.61% intraday."
+    },
+    {
+      "id": "5106463",
+      "time": "2026-09-22 07:40:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報67.08美元/盎司。"
+    },
     {
       "id": "5106462",
       "time": "2026-09-22 07:38:06",
