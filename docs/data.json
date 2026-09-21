@@ -1,7 +1,205 @@
 {
-  "updated": "2026-09-21 23:30:23",
-  "count": 13455,
+  "updated": "2026-09-21 23:34:36",
+  "count": 13466,
   "items": [
+    {
+      "id": "mkt:01a0c49a-2a2b-7118-862e-2e89d96dd802",
+      "time": "2026-09-21 23:33:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say a delegation led by Venezuelan interim president Rodríguez will travel to the US to meet counterparts on energy, sovereign debt and mining and may sign agreements."
+    },
+    {
+      "id": "mkt:01a0c499-c3b7-7118-862e-206d4c7f3bc3",
+      "time": "2026-09-21 23:33:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. said it had rerouted 110 merchant vessels in the Strait of Hormuz as of Sept. 21."
+    },
+    {
+      "id": "5106184",
+      "time": "2026-09-21 23:33:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：截至 9 月 21 日，已在霍爾木茲海峽引導 110 艘商船改道。"
+    },
+    {
+      "id": "5106183",
+      "time": "2026-09-21 23:32:29",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率4.015%，投標倍數2.77。拍賣六個月期國債，得標利率4.155%，投標倍數2.62。"
+    },
+    {
+      "id": "mkt:01a0c498-cfcb-7118-862e-186570f8696d",
+      "time": "2026-09-21 23:32:23",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 6-month Treasury bill auction bid-cover ratio 2.62 on Sept. 21, down from 2.74 previously."
+    },
+    {
+      "id": "mkt:01a0c498-cdad-7118-862e-12d844d9201a",
+      "time": "2026-09-21 23:32:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US 6-month Treasury auction through Sep 21 — percentage awarded at the stop-out yield 48.01%, prior 82.5%."
+    },
+    {
+      "id": "mkt:01a0c498-bf20-7118-862e-0e2de5a4fbe6",
+      "time": "2026-09-21 23:32:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US 6-month Treasury bill auction (settle Sep 21) stop-out yield 4.155%, prior 4.06%."
+    },
+    {
+      "id": "mkt:01a0c498-bed0-7118-862e-0588b794ad3b",
+      "time": "2026-09-21 23:32:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 3-month Treasury bill auction on Sept. 21 — bid-cover ratio 2.77; previous 2.64."
+    },
+    {
+      "id": "mkt:01a0c498-be69-7118-862d-fc1b10390773",
+      "time": "2026-09-21 23:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US 3-month Treasury auction on Sept. 21: stop-out yield 4.015%, previous 3.97%."
+    },
+    {
+      "id": "mkt:01a0c498-a9da-7118-862d-f3f47d665663",
+      "time": "2026-09-21 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 3-month Treasury auction through Sep 21 — percentage of awards at the stop-out rate 36.66%, prior 13.86%."
+    },
+    {
+      "id": "mkt:01a0c498-8ab3-7118-862d-dc956640daa3",
+      "time": "2026-09-21 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Sep.21) | actual 2.62 | previous 2.74"
+    },
+    {
+      "id": "mkt:01a0c498-8abc-7118-862d-e55c86fc0bbf",
+      "time": "2026-09-21 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Sep.21) | actual 48.01% | previous 82.5%"
+    },
+    {
+      "id": "mkt:01a0c498-8ac5-7118-862d-ea69918ec84d",
+      "time": "2026-09-21 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Sep.21) | actual 4.155% | previous 4.06%"
+    },
+    {
+      "id": "mkt:01a0c498-81e0-7118-862d-d2f7bc12cde7",
+      "time": "2026-09-21 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Sep.21) | actual 2.77 | previous 2.64"
+    },
+    {
+      "id": "mkt:01a0c498-81a5-7118-862d-c8a75d3ff81b",
+      "time": "2026-09-21 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Sep.21) | actual 36.66% | previous 13.86%"
+    },
+    {
+      "id": "mkt:01a0c498-8197-7118-862d-c2a748c82ff1",
+      "time": "2026-09-21 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Sep.21) | actual 4.015% | previous 3.97%"
+    },
+    {
+      "id": "5106182",
+      "time": "2026-09-21 23:31:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲1.10%，報25581.95點。法國股指初步收漲1.04%，義大利股指初步收漲1.58%、銀行指數漲2.50%，英國股指初步收漲0.76%。"
+    },
+    {
+      "id": "5106181",
+      "time": "2026-09-21 23:30:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲1.07%，報642.25點。歐元區STOXX 50指數初步收漲1.35%，報6320.63點。富時泛歐績優300指數初步收漲1.33%，報6319.74點。"
+    },
+    {
+      "id": "te:economy:585368",
+      "time": "2026-09-21 23:30:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: France 10Y Bond Yield Falls by 11 bps — Government bonds yields are lower on Monday. Top losers are France 10Y (-10.75bps), Germany 10Y (-6.86bps) and US 10Y (-3.20bps)."
+    },
     {
       "id": "mkt:01a0c495-7fef-7118-862d-b9bbaae61b43",
       "time": "2026-09-21 23:28:46",
@@ -123098,75 +123296,6 @@
         "國際"
       ],
       "text": "【AI熱潮將大幅推高美國天然氣需求】市場預測，到2035年，美國資料中心或將新增150億立方英尺/日的天然氣需求量，較該機構此前預測值翻番以上。新增併網資料中心的電力供應中，預計69%將來自天然氣，同時液化天然氣（LNG）出口會進一步加劇天然氣供給壓力。"
-    },
-    {
-      "id": "5093685",
-      "time": "2026-09-14 23:34:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗和阿曼推遲地區會議 霍爾木茲海峽通航仍難達成共識】阿曼外交大臣巴德爾13日在社交媒體發文稱，為尋求共識，原定14日在阿曼南部城市塞拉萊舉行的地區會議已推遲。伊朗外交部發言人巴加埃14日表示，原定於當天在阿曼舉行的討論霍爾木茲海峽商運航線的地區會議，在沙烏地阿拉伯要求下推遲。（央視新聞）"
-    },
-    {
-      "id": "5093684",
-      "time": "2026-09-14 23:33:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗想要達成一份協議。"
-    },
-    {
-      "id": "5093683",
-      "time": "2026-09-14 23:33:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我將決定是否與伊朗接觸。"
-    },
-    {
-      "id": "5093682",
-      "time": "2026-09-14 23:33:05",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數下跌0.48%，歐洲斯托克指數下跌1.33%，歐元區藍籌股指下跌1.08%。英國富時100指數上漲0.4%，德國DAX指數下跌0.6%，法國CAC 40指數下跌0.78%，西班牙IBEX指數下跌1.38%。"
-    },
-    {
-      "id": "5093681",
-      "time": "2026-09-14 23:32:28",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣三個月期國債，得標利率3.970%，投標倍數2.64。拍賣六個月期國債，得標利率4.060%，投標倍數2.74。"
-    },
-    {
-      "id": "5093680",
-      "time": "2026-09-14 23:32:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic與Rum Group（原Rumble公司）簽署一份價值137億美元、為期六年的算力採購協議。加上本次交易，Anthropic過去一年達成的算力採購協議總規模至少達到5170億美元。"
-    },
-    {
-      "id": "5093679",
-      "time": "2026-09-14 23:31:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽：美國私人信用違約率達到6.3%，創歷史新高。"
-    },
-    {
-      "id": "5093678",
-      "time": "2026-09-14 23:31:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪將雷諾的評級上調至BAA3，展望穩定。"
     }
   ]
 }
