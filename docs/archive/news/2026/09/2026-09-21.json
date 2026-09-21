@@ -1,7 +1,88 @@
 {
   "date": "2026-09-21",
-  "count": 986,
+  "count": 995,
   "items": [
+    {
+      "id": "5105028",
+      "time": "2026-09-21 15:22:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【里昂：中國Agentic AI崛起，首選騰訊及阿里巴巴】里昂發表研報指，Agentic AI正從實驗走向企業工作流程，成為新一代基礎設施層，中國AI模型正迅速收窄效能差距，並憑藉成本效益搶佔全球份額；企業正由單純追求模型能力，轉向兼顧效能、成本及部署彈性，多模型採用將成未來趨勢，預期晶片、模型、算力及應用層的超大規模雲端業者可捕捉最大機遇。里昂預期AI應用激增將點燃下一輪全球雲端超級週期，全球公共雲市場至2028年將翻倍至2.3萬億美元，帶來超過1萬億美元的年收入機會，在市場中較看好全棧雲及AI供應商，因其結合自家晶片、模型、雲基建、開發工具及應用，可形成強大護城河，預期軟體、影片串流、到店服務、招聘及網上旅遊等領域較為脆弱，首選騰訊及阿里巴巴。該行對騰訊給予“高度確信跑贏大市”評級，對阿里巴巴給予“跑贏大市”評級。"
+    },
+    {
+      "id": "5105025",
+      "time": "2026-09-21 15:20:50",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：聯想控股潛在出售BIL或收窄高達75%資產淨值折讓 評級買入】花旗認為，本次潛在出售盧森堡私人銀行Banque Internationale a Luxembourg（BIL）約90%權益或為聯想控股出售非核心投資、轉型為更聚焦科技控股公司的第一步；若交易落實，有望收窄該行估計聯想控股高達約75%的NAV折讓。該行予聯想控股買入評級，目標價21.5港元，按估計2027年NAV約76.81港元折讓72%。"
+    },
+    {
+      "id": "5105024",
+      "time": "2026-09-21 15:20:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面表示，伊朗總統佩澤希齊揚將於週二啟程前往紐約，出席聯合國大會。"
+    },
+    {
+      "id": "mkt:01a0c2d6-244f-7118-8620-f1fe81c51d6c",
+      "time": "2026-09-21 15:20:08",
+      "tags": [
+        "MKT News",
+        "03396.HK",
+        "Impact bullish"
+      ],
+      "text": "【CITIGROUP: Legend Holdings' potential sale of BIL could narrow NAV discount by up to 75%; Buy】CITIGROUP says Legend Holdings (03396.HK) is reportedly seeking to sell about 90% of Luxembourg private bank Banque Internationale à Luxembourg (BIL), a unit Citi estimates represents roughly 9% of Legend’s NAV. Reported preliminary bids, due around end-September, imply a 100% BIL value of at least €2.5bn (~HKD22.5bn), about 3% above Citi’s latest valuation of ~HKD21.8bn (0.9x book at end-1H2026). BIL has been a stable profit contributor, but Citi expects its share of Legend’s net profit to fall to 10–13% in FY2027–28 as Lenovo Group (00992.HK) drives stronger earnings growth. Citi views a BIL sale as a step toward divesting non-core assets and refocusing Legend as a tech holding; if executed, Citi estimates it could cut Legend’s NAV discount by as much as ~75%. Citi maintains a Buy rating on Legend Holdings."
+    },
+    {
+      "id": "mkt:01a0c2d5-cd00-7118-8620-ebdc09811f47",
+      "time": "2026-09-21 15:19:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bullish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "【CHINA says US-China ties are today’s most important bilateral relationship and must be preserved】CHINA will make a state visit to the United States at the invitation of President Trump on Sept. 23-25. CHINA said US-China relations are today’s most important bilateral relationship and must be kept good, not damaged; cooperation benefits both sides while confrontation harms both, and the two should be partners rather than adversaries."
+    },
+    {
+      "id": "5105023",
+      "time": "2026-09-21 15:19:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪拜、阿布扎比地產企業擬競購馬爾地夫120億美元專案。"
+    },
+    {
+      "id": "mkt:01a0c2d5-59b6-7118-8620-e139f90bd2b6",
+      "time": "2026-09-21 15:19:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported the presidential office’s director-general for public relations said Iranian President PEZESHKIAN will depart Tuesday for New York to attend the UN General Assembly."
+    },
+    {
+      "id": "5105022",
+      "time": "2026-09-21 15:19:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "保時捷執行長：保時捷業績展望未作任何調整。"
+    },
+    {
+      "id": "5105021",
+      "time": "2026-09-21 15:18:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "保時捷執行長在給員工的備忘錄中表示：保時捷不計劃額外裁員4000人。"
+    },
     {
       "id": "5105020",
       "time": "2026-09-21 15:18:29",

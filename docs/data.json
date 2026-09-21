@@ -1,7 +1,88 @@
 {
-  "updated": "2026-09-21 15:19:23",
-  "count": 13590,
+  "updated": "2026-09-21 15:23:15",
+  "count": 13591,
   "items": [
+    {
+      "id": "5105028",
+      "time": "2026-09-21 15:22:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【里昂：中國Agentic AI崛起，首選騰訊及阿里巴巴】里昂發表研報指，Agentic AI正從實驗走向企業工作流程，成為新一代基礎設施層，中國AI模型正迅速收窄效能差距，並憑藉成本效益搶佔全球份額；企業正由單純追求模型能力，轉向兼顧效能、成本及部署彈性，多模型採用將成未來趨勢，預期晶片、模型、算力及應用層的超大規模雲端業者可捕捉最大機遇。里昂預期AI應用激增將點燃下一輪全球雲端超級週期，全球公共雲市場至2028年將翻倍至2.3萬億美元，帶來超過1萬億美元的年收入機會，在市場中較看好全棧雲及AI供應商，因其結合自家晶片、模型、雲基建、開發工具及應用，可形成強大護城河，預期軟體、影片串流、到店服務、招聘及網上旅遊等領域較為脆弱，首選騰訊及阿里巴巴。該行對騰訊給予“高度確信跑贏大市”評級，對阿里巴巴給予“跑贏大市”評級。"
+    },
+    {
+      "id": "5105025",
+      "time": "2026-09-21 15:20:50",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：聯想控股潛在出售BIL或收窄高達75%資產淨值折讓 評級買入】花旗認為，本次潛在出售盧森堡私人銀行Banque Internationale a Luxembourg（BIL）約90%權益或為聯想控股出售非核心投資、轉型為更聚焦科技控股公司的第一步；若交易落實，有望收窄該行估計聯想控股高達約75%的NAV折讓。該行予聯想控股買入評級，目標價21.5港元，按估計2027年NAV約76.81港元折讓72%。"
+    },
+    {
+      "id": "5105024",
+      "time": "2026-09-21 15:20:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面表示，伊朗總統佩澤希齊揚將於週二啟程前往紐約，出席聯合國大會。"
+    },
+    {
+      "id": "mkt:01a0c2d6-244f-7118-8620-f1fe81c51d6c",
+      "time": "2026-09-21 15:20:08",
+      "tags": [
+        "MKT News",
+        "03396.HK",
+        "Impact bullish"
+      ],
+      "text": "【CITIGROUP: Legend Holdings' potential sale of BIL could narrow NAV discount by up to 75%; Buy】CITIGROUP says Legend Holdings (03396.HK) is reportedly seeking to sell about 90% of Luxembourg private bank Banque Internationale à Luxembourg (BIL), a unit Citi estimates represents roughly 9% of Legend’s NAV. Reported preliminary bids, due around end-September, imply a 100% BIL value of at least €2.5bn (~HKD22.5bn), about 3% above Citi’s latest valuation of ~HKD21.8bn (0.9x book at end-1H2026). BIL has been a stable profit contributor, but Citi expects its share of Legend’s net profit to fall to 10–13% in FY2027–28 as Lenovo Group (00992.HK) drives stronger earnings growth. Citi views a BIL sale as a step toward divesting non-core assets and refocusing Legend as a tech holding; if executed, Citi estimates it could cut Legend’s NAV discount by as much as ~75%. Citi maintains a Buy rating on Legend Holdings."
+    },
+    {
+      "id": "mkt:01a0c2d5-cd00-7118-8620-ebdc09811f47",
+      "time": "2026-09-21 15:19:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bullish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "【CHINA says US-China ties are today’s most important bilateral relationship and must be preserved】CHINA will make a state visit to the United States at the invitation of President Trump on Sept. 23-25. CHINA said US-China relations are today’s most important bilateral relationship and must be kept good, not damaged; cooperation benefits both sides while confrontation harms both, and the two should be partners rather than adversaries."
+    },
+    {
+      "id": "5105023",
+      "time": "2026-09-21 15:19:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪拜、阿布扎比地產企業擬競購馬爾地夫120億美元專案。"
+    },
+    {
+      "id": "mkt:01a0c2d5-59b6-7118-8620-e139f90bd2b6",
+      "time": "2026-09-21 15:19:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported the presidential office’s director-general for public relations said Iranian President PEZESHKIAN will depart Tuesday for New York to attend the UN General Assembly."
+    },
+    {
+      "id": "5105022",
+      "time": "2026-09-21 15:19:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "保時捷執行長：保時捷業績展望未作任何調整。"
+    },
+    {
+      "id": "5105021",
+      "time": "2026-09-21 15:18:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "保時捷執行長在給員工的備忘錄中表示：保時捷不計劃額外裁員4000人。"
+    },
     {
       "id": "5105020",
       "time": "2026-09-21 15:18:29",
@@ -124381,80 +124462,6 @@
         "Importance 1"
       ],
       "text": "Lithuania Current Account Shifts to Surplus — Lithuania’s current account posted a surplus of EUR 88 million in July 2026, shifting from a deficit of EUR 324.8 million in the corresponding month a year earlier. The services account surplus increased to EUR 1,097.8 million from EUR 806.5 million in July 2025, while the secondary income account surplus also rose to EUR 44.1 million from EUR 30.3 million. Meanwhile, the goods account deficit narrowed to EUR 707 million from EUR 910.9 million over the same period. In contrast, the primary income account deficit widened to EUR 347 million from EUR 250.7 million, partly offsetting the improvements in the other accounts."
-    },
-    {
-      "id": "5092549",
-      "time": "2026-09-14 15:22:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息：本週美聯儲、英國央行以及日本央行將先後公佈最新的利率決議，一些業內人士目前已擔心，二十年一遇的美日歐三大央行的同步緊縮可能會如同多米諾骨牌，將激進的鷹派陣營迅速擴散至整個G10經濟體。"
-    },
-    {
-      "id": "mkt:01a09ecb-a990-7118-8569-eaaa4e54fb5d",
-      "time": "2026-09-14 15:22:22",
-      "tags": [
-        "MKT News",
-        "TPRO.MI",
-        "Impact bearish"
-      ],
-      "text": "Shares of Italian technology company Technoprobe extended losses to 7.8%."
-    },
-    {
-      "id": "mkt:01a09ecb-8edd-7118-8569-e58bf5200e32",
-      "time": "2026-09-14 15:22:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【SASAC: central SOEs to lead on timely settlement of payables】The State-owned Assets Supervision and Administration Commission (SASAC) said a recent notice on easing SME receivables requires central SOEs to set an example. Central SOEs will actively raise funds to ensure timely payment of dues. Going forward cash payments to SMEs will be treated as a hard constraint, while SOEs should, based on their circumstances, maintain a reasonable cash-payment ratio to large suppliers and push payments along the business chain. Use of payment vouchers will be strictly controlled; no new vouchers with terms longer than six months will be allowed. SASAC will also urge central SOEs to comply with sector rules, explicitly include four key contract elements in contracts, and lead industry timely-payment initiatives."
-    },
-    {
-      "id": "5092548",
-      "time": "2026-09-14 15:21:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利Technoprobe股價跌幅進一步擴大，現下跌7.8%。"
-    },
-    {
-      "id": "5092547",
-      "time": "2026-09-14 15:21:12",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【國務院國資委：中央企業帶頭及時支付賬款】國務院國資委財管執行局負責人裴仁佺14日在國新辦舉行的國務院政策例行吹風會上說，《關於加強中小企業回款難問題治理有關工作的通知》對央企發揮表率作用提出專門要求。接下來，中央企業將積極籌措資金，確保及時支付；今後更要把對中小企業現金支付作為一條“硬槓槓”堅持好，同時結合自身實際對大型企業保持合理現金支付比例，推動沿業務鏈條傳導，並嚴格“票證”使用，嚴禁新開6個月以上“票證”；將督促央企帶頭遵守所在行業領域規定，率先在合同中明確四項關鍵要素，率先響應並踐行行業及時支付倡議等。（新華社）"
-    },
-    {
-      "id": "mkt:01a09eca-4c2f-7118-8569-ddcedfaeb6ea",
-      "time": "2026-09-14 15:20:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korean farm and fish exports hit US$10 billion in record time】Korea Agro-Fisheries & Food Trade Corp (aT) said on the 14th cumulative exports of South Korean agricultural and fishery products topped US$10 billion in 253 days this year, 19 days faster than a year earlier — the quickest pace on record. Exports first exceeded US$10 billion in 2021; the time to reach that threshold has shortened each year since."
-    },
-    {
-      "id": "5092546",
-      "time": "2026-09-14 15:20:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【9月14日滬深兩市漲停分析】創業板指、科創50均跌超1%，成交額僅1.6萬億續創年內次低記錄。閩東電力4連板，一圖看懂>>"
-    },
-    {
-      "id": "5092545",
-      "time": "2026-09-14 15:20:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鍾薛高：無形資產已切割完畢】9月14日，鍾薛高食品（上海）有限公司管理人釋出公告，宣佈鍾薛高的無形資產部分已經切割完畢。 公告顯示，2026年5月7日，鍾薛高公司名下的508件無形資產（包括492項註冊商標、8項授權專利和8項著作權）整體打包在京東司法拍賣平臺公開拍賣成功。9月12日下午，羅永浩發博說在機場嚐了最近爆火的冰淇淋品牌野人先生，“很一般，考慮到價格甚至可以說難吃，它是怎麼火起來的”，還補刀“比鍾薛高難吃多了，懷念鍾薛高”，這讓鍾薛高品牌再次回到公眾視野。"
     }
   ]
 }
