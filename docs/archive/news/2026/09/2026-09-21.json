@@ -1,7 +1,73 @@
 {
   "date": "2026-09-21",
-  "count": 455,
+  "count": 462,
   "items": [
+    {
+      "id": "mkt:01a0c19e-f057-7118-861b-ee8d5ea464fc",
+      "time": "2026-09-21 09:40:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Major Australian banks shift hawkish; another 50bp of RBA hikes possible by year-end】Major Australian banks are coalescing around expectations that the Reserve Bank of Australia (RBA) will deliver another 50bp of rate hikes by year-end. After hawkish remarks from senior RBA officials last week, ANZ and Commonwealth Bank have adopted the view. Commonwealth Bank economist Belinda Allen said recent RBA communication and market pricing support the case for earlier-than-expected action. She added that, given the inflation backdrop, the risk is further tightening after September, though such a decision would be difficult."
+    },
+    {
+      "id": "te:markets:585160",
+      "time": "2026-09-21 09:40:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rally on Chip Gains — The benchmark KOSPI climbed more than 1% to around 6,995 on Monday, rallying for a second straight session amid strong global semiconductor momentum. Gains were led by Samsung Electronics and SK hynix, advancing nearly 4% and more than 1%, respectively, after US semiconductor stocks rallied, with the Philadelphia Semiconductor Index rising 2.78% on Friday. Additionally, South Korea's exports surged 78% year-on-year in the first 20 days of September, driven by a 259% jump in semiconductor shipments to $34.1 billion, highlighting continued strength in chip demand and a strong earnings outlook for chipmakers. Other notable performers included SK Square (4.1%), KB Financial Group (1.1%), Samsung C&T Corp (4.4%), Shinhan Financial Group (2.3%), and Hana Financial Group (1.7%). Meanwhile, Brent crude remained above $100 a barrel amid ongoing Middle East tensions, keeping inflation and broader macroeconomic concerns in focus."
+    },
+    {
+      "id": "5104625",
+      "time": "2026-09-21 09:40:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光學光電子板塊短線拉昇，彩虹股份漲停】光學光電子板塊短線拉昇，彩虹股份漲停，華映科技、戈碧迦、宸展光電、聯域股份、沃格光電等跟漲。"
+    },
+    {
+      "id": "5104624",
+      "time": "2026-09-21 09:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【星海V6將推出探索版車型】9月21日，據東風風行訊息，星海V6將推出探索版露營車，搭載升降頂艙。據悉，該車型是星海第二款探索版露營車，首款車為星海V9，於2025年上市。"
+    },
+    {
+      "id": "5104623",
+      "time": "2026-09-21 09:39:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達稱正積極斡旋 努力縮小美伊談判分歧】當地時間9月19日，伊朗最高國家安全委員會秘書穆赫辛·雷扎伊表示，卡達作為調解方已向美國方面轉達伊朗的談判條件，正等待美方的回應。9月20日，卡達外交部發言人馬吉德·安薩里在接受彭博社採訪時表示，目前卡達外交代表正穿梭於相關各國首都間並交換提案，努力重啟美伊談判，各方團隊正全天候工作以彌合分歧。安薩里說，卡達當前的首要目標是結束衝突並恢復霍爾木茲海峽的航行自由。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0c19d-14e4-7118-861b-e68d27a2a579",
+      "time": "2026-09-21 09:38:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS cut its 12-month KOSPI target to 8,000 from 8,800."
+    },
+    {
+      "id": "5104622",
+      "time": "2026-09-21 09:37:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【陶瓷產業概念盤初走強，三祥新材、華瓷股份雙雙漲停】陶瓷產業概念盤初走強，三祥新材、華瓷股份雙雙漲停，三環集團、國瓷材料、順絡電子、東方鋯業、瑞瑪精密、藍思科技等跟漲。"
+    },
     {
       "id": "mkt:01a0c19b-b3ec-7118-861b-dc080e15a5f4",
       "time": "2026-09-21 09:36:41",

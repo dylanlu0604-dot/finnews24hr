@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-21 09:37:27",
-  "count": 13608,
+  "updated": "2026-09-21 09:41:11",
+  "count": 13607,
   "items": [
+    {
+      "id": "mkt:01a0c19e-f057-7118-861b-ee8d5ea464fc",
+      "time": "2026-09-21 09:40:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Major Australian banks shift hawkish; another 50bp of RBA hikes possible by year-end】Major Australian banks are coalescing around expectations that the Reserve Bank of Australia (RBA) will deliver another 50bp of rate hikes by year-end. After hawkish remarks from senior RBA officials last week, ANZ and Commonwealth Bank have adopted the view. Commonwealth Bank economist Belinda Allen said recent RBA communication and market pricing support the case for earlier-than-expected action. She added that, given the inflation backdrop, the risk is further tightening after September, though such a decision would be difficult."
+    },
+    {
+      "id": "te:markets:585160",
+      "time": "2026-09-21 09:40:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rally on Chip Gains — The benchmark KOSPI climbed more than 1% to around 6,995 on Monday, rallying for a second straight session amid strong global semiconductor momentum. Gains were led by Samsung Electronics and SK hynix, advancing nearly 4% and more than 1%, respectively, after US semiconductor stocks rallied, with the Philadelphia Semiconductor Index rising 2.78% on Friday. Additionally, South Korea's exports surged 78% year-on-year in the first 20 days of September, driven by a 259% jump in semiconductor shipments to $34.1 billion, highlighting continued strength in chip demand and a strong earnings outlook for chipmakers. Other notable performers included SK Square (4.1%), KB Financial Group (1.1%), Samsung C&T Corp (4.4%), Shinhan Financial Group (2.3%), and Hana Financial Group (1.7%). Meanwhile, Brent crude remained above $100 a barrel amid ongoing Middle East tensions, keeping inflation and broader macroeconomic concerns in focus."
+    },
+    {
+      "id": "5104625",
+      "time": "2026-09-21 09:40:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光學光電子板塊短線拉昇，彩虹股份漲停】光學光電子板塊短線拉昇，彩虹股份漲停，華映科技、戈碧迦、宸展光電、聯域股份、沃格光電等跟漲。"
+    },
+    {
+      "id": "5104624",
+      "time": "2026-09-21 09:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【星海V6將推出探索版車型】9月21日，據東風風行訊息，星海V6將推出探索版露營車，搭載升降頂艙。據悉，該車型是星海第二款探索版露營車，首款車為星海V9，於2025年上市。"
+    },
+    {
+      "id": "5104623",
+      "time": "2026-09-21 09:39:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【卡達稱正積極斡旋 努力縮小美伊談判分歧】當地時間9月19日，伊朗最高國家安全委員會秘書穆赫辛·雷扎伊表示，卡達作為調解方已向美國方面轉達伊朗的談判條件，正等待美方的回應。9月20日，卡達外交部發言人馬吉德·安薩里在接受彭博社採訪時表示，目前卡達外交代表正穿梭於相關各國首都間並交換提案，努力重啟美伊談判，各方團隊正全天候工作以彌合分歧。安薩里說，卡達當前的首要目標是結束衝突並恢復霍爾木茲海峽的航行自由。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0c19d-14e4-7118-861b-e68d27a2a579",
+      "time": "2026-09-21 09:38:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UBS cut its 12-month KOSPI target to 8,000 from 8,800."
+    },
+    {
+      "id": "5104622",
+      "time": "2026-09-21 09:37:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【陶瓷產業概念盤初走強，三祥新材、華瓷股份雙雙漲停】陶瓷產業概念盤初走強，三祥新材、華瓷股份雙雙漲停，三環集團、國瓷材料、順絡電子、東方鋯業、瑞瑪精密、藍思科技等跟漲。"
+    },
     {
       "id": "mkt:01a0c19b-b3ec-7118-861b-dc080e15a5f4",
       "time": "2026-09-21 09:36:41",
@@ -124576,85 +124642,6 @@
         "市場"
       ],
       "text": "A股MLCC概念持續衝高，雙星新材漲停，康達新材漲超8%，風華高科、三環集團、潔美科技跟漲。"
-    },
-    {
-      "id": "5092042",
-      "time": "2026-09-14 09:40:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債<JP30YTN=JBTC>收益率上升1.5個基點，至4.060%。"
-    },
-    {
-      "id": "mkt:01a09d91-ce0a-7118-8562-438866667fa3",
-      "time": "2026-09-14 09:39:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "000625.SZ",
-        "Impact bullish"
-      ],
-      "text": "China A-share auto OEM sector active in early trade; Haima Automobile hit daily limit, Zhongtong Bus, SERES, Changan Automobile and JAC Motors also rose."
-    },
-    {
-      "id": "mkt:01a09d91-a8a6-7118-8562-39accbaa4a4a",
-      "time": "2026-09-14 09:39:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-share shipping sector rallied; Mindong Power, Nanjing Port and Ningbo Marine hit daily trading limits. Huaguang Yuanhai rose over 8%, Yongtai Transport rose over 7%, China Merchants Energy Shipping rose over 6%."
-    },
-    {
-      "id": "5092041",
-      "time": "2026-09-14 09:38:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "MiniMax在港股價同樣下跌，下跌5.6%，報每股254.80港元"
-    },
-    {
-      "id": "5092040",
-      "time": "2026-09-14 09:38:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "MiniMax港股下跌5.6%，報每股254.80港元。"
-    },
-    {
-      "id": "mkt:01a09d90-dac2-7118-8562-3390d5beb4d1",
-      "time": "2026-09-14 09:38:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Tokyo Ota factory explosion injures 3】About 9:00 a.m. local time on the 14th, an explosion struck a factory in Ota Ward, Tokyo. Tokyo police say a preliminary assessment points to an on-site gas explosion of unknown cause; glass and debris were scattered. Three employees sustained minor injuries and were conscious. Firefighters and police are investigating."
-    },
-    {
-      "id": "mkt:01a09d90-59db-7118-8562-2c4b34c7f85e",
-      "time": "2026-09-14 09:37:57",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "The Philippine peso fell to 62.822 per US dollar, hitting a record low."
-    },
-    {
-      "id": "mkt:01a09d90-3227-7118-8562-231699a35ba6",
-      "time": "2026-09-14 09:37:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China NBS: early-September three-way crossbred live hog price up 0.9%】China's National Bureau of Statistics said its monitoring of 50 key production-input prices across nine categories showed 37 rises, nine falls and four unchanged in early September 2026 versus late August. Three-way crossbred live hogs were priced at 11.00 yuan/kg, up 0.9% sequentially."
     }
   ]
 }
