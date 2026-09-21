@@ -1,7 +1,93 @@
 {
   "date": "2026-09-21",
-  "count": 446,
+  "count": 455,
   "items": [
+    {
+      "id": "mkt:01a0c19b-b3ec-7118-861b-dc080e15a5f4",
+      "time": "2026-09-21 09:36:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share components sector jumped in early trade; Xunjie Xing made an intraday record high and Guanghe Technology hit the daily limit, while Dali Kaipu, Jingwang Electronics, Sanhuan Group, Shennan Circuit and Shenghong Technology also advanced."
+    },
+    {
+      "id": "5104621",
+      "time": "2026-09-21 09:36:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊拉昇，廣合科技漲停】元件板塊拉昇，迅捷興盤中創新高，廣合科技漲停，達利凱普、景旺電子、三環集團、深南電路、勝宏科技跟漲。"
+    },
+    {
+      "id": "mkt:01a0c19a-9f52-7118-861b-d4418025d200",
+      "time": "2026-09-21 09:35:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China A-share small-metals sector spiked intraday; Huaxi Nonferrous hit the daily trading limit, while China Rare Earth, Dongfang Tantalum, Shenghe Resources, Dongfang Zirconium and Huayang New Material also climbed."
+    },
+    {
+      "id": "5104620",
+      "time": "2026-09-21 09:35:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電梯概念持續走強，康力電梯漲停】電梯概念持續走強，康力電梯漲停，滬寧股份、廣日股份、森赫股份、上海機電、梅輪電梯等跟漲。"
+    },
+    {
+      "id": "5104619",
+      "time": "2026-09-21 09:35:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI製藥、CRO概念反覆走強 諾禾致源20cm漲停】AI製藥、CRO概念反覆走強，諾禾致源20cm漲停，泓博醫藥、成都先導、博濟醫藥、貝瑞基因、塞力醫療跟漲。"
+    },
+    {
+      "id": "5104618",
+      "time": "2026-09-21 09:34:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.17%。賽特轉債、錦浪轉02、鼎捷轉債、澳弘轉債、宏圖轉債漲幅居前，分別漲4.77%、3.62%、3.46%、3.32%、2.38%。金楊轉債、浩瀚轉債、章鼓轉債、惠城轉債、芯海轉債跌幅居前，分別跌1.00%、0.98%、0.45%、0.41%、0.33%。"
+    },
+    {
+      "id": "5104617",
+      "time": "2026-09-21 09:33:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【小金屬板塊短線拉昇，華錫有色漲停】小金屬板塊短線拉昇，華錫有色漲停，中國稀土、東方鉭業、盛和資源、東方鋯業、華陽新材跟漲。"
+    },
+    {
+      "id": "mkt:01a0c199-209c-7118-861b-ce7f44f58570",
+      "time": "2026-09-21 09:33:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China's three major A-share indices extended gains in early trade; the Shenzhen Composite Index rose over 1% and the ChiNext Index gained more than 1.6%."
+    },
+    {
+      "id": "5104616",
+      "time": "2026-09-21 09:33:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.00%，現報13777.470點；上證指數漲0.44%，現報3929.027點；創業板指漲1.67%，現報3428.933點。"
+    },
     {
       "id": "mkt:01a0c198-886d-7118-861b-c6b259692607",
       "time": "2026-09-21 09:33:14",
