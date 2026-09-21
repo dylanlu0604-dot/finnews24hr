@@ -1,7 +1,218 @@
 {
   "date": "2026-09-21",
-  "count": 1414,
+  "count": 1437,
   "items": [
+    {
+      "id": "5106026",
+      "time": "2026-09-21 21:31:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "埃森哲股價上漲4.4%，此前該公司與Anthropic合作，投資20億美元用於人工智慧評估。"
+    },
+    {
+      "id": "5106025",
+      "time": "2026-09-21 21:30:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "受加州和解談判進展影響，華納兄弟股價開盤上漲7.1%。"
+    },
+    {
+      "id": "5106024",
+      "time": "2026-09-21 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普漲】Lumentum漲2.85%，康寧漲3.89%，Coherent漲1.57%，應用光電漲2.05%，Ciena漲4.93%，博通跌0.50%，邁威爾科技漲3.07%。"
+    },
+    {
+      "id": "5106023",
+      "time": "2026-09-21 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.60%，標普500指數漲0.61%，納指漲0.80%。英特爾漲9.59%，Arm Holdings Plc漲8.72%，Strategy漲7.92%，Warner Bros Discovery漲6.89%，Coinbase Global漲6.56%。“七姐妹”方面：Meta Platforms漲3.55%，特斯拉漲2.86%，亞馬遜漲1.04%，谷歌漲0.71%，微軟漲0.18%，英偉達跌0.09%，蘋果跌0.60%。"
+    },
+    {
+      "id": "mkt:01a0c429-36a9-7118-862a-e3b4736d96a6",
+      "time": "2026-09-21 21:30:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. equities opened higher: Dow Jones +0.49%, S&P 500 +0.60%, Nasdaq +0.70%. Notable movers: Intel (INTC.O) +8.0%, Micron Technology (MU.O) +3.0%, Meta Platforms (META.O) up about 3%, Alibaba Group (BABA.N) +1.4%."
+    },
+    {
+      "id": "5106022",
+      "time": "2026-09-21 21:30:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "捷克財政部長希萊羅娃表示，捷克擬議的2027年預算赤字為3860億捷克克朗。"
+    },
+    {
+      "id": "te:markets:585335",
+      "time": "2026-09-21 21:30:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The US 100 Tech Index Hit 5-week High — US100 increased to 29952.00 Index Points, the highest since August 2026. Over the past 4 weeks, US 100 Tech Index gained 2.14%, and in the last 12 months, it increased 19.72%."
+    },
+    {
+      "id": "5106021",
+      "time": "2026-09-21 21:30:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【谷歌宣佈推出Googlebook，起售價899美元】9月21日，Alphabet旗下谷歌宣佈推出新膝上型電腦品類“Googlebook”，起售價為899美元。谷歌表示，每臺Googlebook均包含12個月的Google AI Pro服務（提供5TB雲端儲存和Gemini Advanced工具），以及3個月的YouTube Premium、Adobe Photoshop等服務。此外，Googlebook OS還將定期推送功能更新，並提供最長10年的系統更新。該裝置目前已開放預購，其將於10月4日起在美國上架，並於10月5日在加拿大、英國、愛爾蘭、法國、德國和澳大利亞上架。"
+    },
+    {
+      "id": "te:markets:585334",
+      "time": "2026-09-21 21:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Advanced Micro Devices Stock Price Hits All-time High — Advanced Micro Devices shares increased to an all-time high of 585.75 USD. Over the past 4 weeks, Advanced Micro Devices gained 24.95%, and in the last 12 months, it increased 257.14%."
+    },
+    {
+      "id": "mkt:01a0c428-d58d-7118-862a-df33a52307ae",
+      "time": "2026-09-21 21:30:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "【BYD's Xi'an complex urgently seeks nearly 10,000 workers】Xi'an municipal human resources and social security bureau and the Xi'an Hi‑tech Zone human resources industry association posted official notices saying BYD is recruiting simultaneously across multiple Xi'an plants and divisions. Recruitment exceeds 8,000 workers and approaches 10,000, with referral/recruitment bonuses up to 6,000 yuan. Local authorities are drafting subsidy schemes for bulk hiring to accelerate recruitment. The mass hiring follows recent production‑line adjustments and reflects a rapid capacity ramp-up at BYD's Xi'an operations."
+    },
+    {
+      "id": "5106020",
+      "time": "2026-09-21 21:29:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部部長李國英主持召開專題會議，研究部署冰湖監測預警及風險防範工作】9月21日，水利部黨組書記、部長李國英主持召開專題辦公會議，研究部署冰湖監測預警及風險防範工作。會議要求，要強化動態監測預警，建立監測平臺，“一湖一策”明確監測引數、監測方式，科學研判風險等級，及時釋出預警資訊。要健全冰湖潰洩鏈式災害監測預警體系，基於鏈式災害放大效應與遠端傳輸影響，“一河一策”科學設定監測站點，充分利用水文監測、地理資訊、冰川監測等多源資訊，構建鏈式災害演進模型，及時釋出鏈式災害預報預警，健全響應聯動機制，落實風險區轉移路線、安置地點等人員轉移措施。要強化科技攻關，加強全球氣溫升高對青藏高原冰湖潰洩的影響研究、冰湖潰洩物理機制與鏈式災害演化規律研究、智慧化監測裝置研製等工作，切實增強冰湖鏈式災害監測預警和系統防禦能力。"
+    },
+    {
+      "id": "5106019",
+      "time": "2026-09-21 21:28:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西安比亞迪急招近萬工人】在新能源汽車產業競爭加劇之際，西安比亞迪卻開始“逆勢”大舉招工。 近日，包括西安市人力資源和社會保障局、西安市高新區人力資源行業協會等機構都在官方平臺上釋出比亞迪西安基地大規模招工的招聘資訊。這些資訊顯示，比亞迪在西安的多個廠區同時招工，涉及多個事業部，招工規模超過8000人，應聘最高獎勵達6000元。 （第一財經）"
+    },
+    {
+      "id": "5106018",
+      "time": "2026-09-21 21:27:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【衛星資料顯示沙特海灣原油裝船量增加】上週末，監測顯示沙烏地阿拉伯在波斯灣內的石油裝載量大幅增加，這是該國在一條關鍵的跨國輸油管道關閉後，將出口重心轉回霍爾木茲海峽的最明顯跡象。根據歐盟“哨兵2號”（Sentinel 2）衛星資料，週末在沙特波斯灣沿岸出口設施附近發現了裝載能力達1400萬桶原油的超大型油輪，這是至少自6月以來的最高水平。本月早些時候，沙特至關重要的“東西向輸油管道”遭襲並被迫關閉，交易員正設法獲取有關沙特原油出口的各種資訊。沙特此前一直利用這條管道繞過霍爾木茲海峽，但在管道關閉後，沙特已尋求恢復經由該海峽的石油運輸。"
+    },
+    {
+      "id": "5106017",
+      "time": "2026-09-21 21:27:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴爾科技推出XPS Googlebook：首款為谷歌Gemini大模型打造的XPS膝上型電腦。"
+    },
+    {
+      "id": "5106016",
+      "time": "2026-09-21 21:27:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 白宮電視聯合報道組將不報道特朗普在紐約的相關活動。"
+    },
+    {
+      "id": "mkt:01a0c426-4ad3-7118-862a-d204ffa16f0c",
+      "time": "2026-09-21 21:27:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv reported Trump spoke by phone on Sunday with Yemen's president; the Yemeni president requested US support against Houthi forces, and Trump did not pledge military assistance."
+    },
+    {
+      "id": "5106015",
+      "time": "2026-09-21 21:26:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩位訊息人士表示，葉門總統請求美國支援政府對抗胡塞武裝，特朗普未作出軍事支援承諾。"
+    },
+    {
+      "id": "5106014",
+      "time": "2026-09-21 21:26:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "捷克財長：捷克政府批准2027年預算草案。"
+    },
+    {
+      "id": "5106013",
+      "time": "2026-09-21 21:26:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "四位訊息人士透露，美國總統唐納德·特朗普週日與葉門總統通了電話。"
+    },
+    {
+      "id": "5106012",
+      "time": "2026-09-21 21:24:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：俄烏衝突必須結束】烏克蘭總統澤連斯基在社交媒體發文稱， 俄烏衝突必須結束。當前，烏方正與特朗普總統及美國方面開展對話。各方也拿出了一些構想，以強有力的降級舉措為起點，推動和平早日到來。烏克蘭的能源行業、關鍵基礎設施以及糧食出口，必須不再成為俄羅斯的打擊目標。作為回應，烏克蘭也將採取對等的降級行動。解決方案是存在的。我們願意就此展開磋商，並將在紐約聯合國大會期間，與夥伴國在會議間隙就此展開討論。"
+    },
+    {
+      "id": "5106011",
+      "time": "2026-09-21 21:24:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：俄烏衝突和平解決是可能的，我們準備好為此努力，並在紐約聯合國大會的間隙與我們的夥伴討論此事。"
+    },
+    {
+      "id": "5106010",
+      "time": "2026-09-21 21:24:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：目前，我們正在與特朗普總統和美國進行對話。潛在方案以強有力的降級步驟為起點，逐步拉近和平的距離。"
+    },
+    {
+      "id": "5106009",
+      "time": "2026-09-21 21:23:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：俄烏衝突必須結束。"
+    },
     {
       "id": "5106008",
       "time": "2026-09-21 21:22:43",
