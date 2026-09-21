@@ -1,7 +1,45 @@
 {
-  "updated": "2026-09-21 09:48:43",
-  "count": 13598,
+  "updated": "2026-09-21 09:52:29",
+  "count": 13596,
   "items": [
+    {
+      "id": "5104639",
+      "time": "2026-09-21 09:51:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銅纜高速連線板塊短線拉昇，華脈科技漲停】銅纜高速連線板塊短線拉昇，華脈科技漲停，盛洋科技、神宇股份、意華股份、遠東股份、通宇通訊等紛紛走高。"
+    },
+    {
+      "id": "5104638",
+      "time": "2026-09-21 09:51:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【共達電聲在浙江成立光電新材料公司】企查查APP顯示，近日，共達（浙江）光電新材料有限公司成立，經營範圍包含數字創意產品展覽展示服務；自然科學研究和試驗發展；工程和技術研究和試驗發展等。企查查股權穿透顯示，該公司由共達電聲全資持股。"
+    },
+    {
+      "id": "5104637",
+      "time": "2026-09-21 09:50:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多隻醫療、創新藥ETF走強】多隻港股通創新藥ETF漲超4%，多隻科創創新藥ETF漲超3%，多隻恒生生物科技ETF漲超3% 。"
+    },
+    {
+      "id": "mkt:01a0c1a7-c360-7118-861c-1beccb7d5c06",
+      "time": "2026-09-21 09:49:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share humanoid-robot sector rebounded; Meihu Co and Mingxin Xuteng hit limit-up, while Xiangxin Technology, Fuluwa, Hechuan Technology, Wanxiang Qianchao and Mosu Technology also advanced."
+    },
     {
       "id": "5104636",
       "time": "2026-09-21 09:46:46",
@@ -124512,60 +124550,6 @@
         "宏觀"
       ],
       "text": "【中證協摸底券商財富管理轉型情況 重點關注對政策與制度推出訴求】記者瞭解到，中證協近日正在調研券商財富管理轉型情況，旨在摸底行業在買方投顧、全品類資產配置等領域的展業現狀、主要問題及政策訴求。調研內容涉及75個方面，包括客戶長期資產保值增值率、盈利客戶佔比、持倉穩定性、復投比例等；調研投顧薪酬與客戶長期AUM的掛鉤程度，以及是否建立薪酬遞延、投顧跟投、客戶留存獎勵、收益達標獎勵等機制。調研特別聚焦券商關於對最迫切的監管政策最佳化的訴求意願，允許投顧服務收取多元化費用、將私募基金及 ETF 納入可投範圍均有涉及，明確放開券商代銷銀行理財制度安排、擴大保險兼業代理牌照覆蓋、出臺代銷保險與理財規範性檔案、擴大QDII總額度、降低跨境理財通門檻等亦被重點關注。"
-    },
-    {
-      "id": "5092064",
-      "time": "2026-09-14 09:52:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第二十六屆投洽會閉幕：雲上對接超1.9萬次 釋出28份權威報告】第二十六屆中國國際投資貿易洽談會（簡稱“投洽會”）日前在福建廈門閉幕。本屆投洽會進一步將數字化、智慧化融入展覽展示、資訊查詢、專案對接和服務保障全過程。“雲上投洽會”搭建968個雲上展臺，釋出專案超過4700個，促成線上對接超過1.9萬次；累計完成超過1300次“一對一”洽談。同時大會發布《中國雙向投資報告2026》、《中國外資統計公報2026》、《2026年世界投資報告》中文版、《中資企業國別發展報告（2025-2026）》等28項權威資訊報告。"
-    },
-    {
-      "id": "5092063",
-      "time": "2026-09-14 09:51:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量637億元。"
-    },
-    {
-      "id": "5092062",
-      "time": "2026-09-14 09:51:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【消費電子板塊短線拉昇，科森科技漲停】消費電子板塊短線拉昇，科森科技漲停，昀冢科技漲超10%，信濠光電、傑美特、電連技術、精研科技、春秋電子等跟漲。"
-    },
-    {
-      "id": "te:markets:583361",
-      "time": "2026-09-14 09:49:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Edges Higher Ahead of Fed Meeting — The dollar index rose toward 99.2 on Monday, gaining for a fourth consecutive session as investors prepared for the upcoming Federal Reserve policy meeting while assessing the impact of surging oil prices. Markets are currently pricing in an 86% probability that the Fed will raise its policy rate by 25 basis points on Wednesday, with another hike expected later this year. Data released Friday showed US consumer inflation held steady at 3.4% in August, matching July’s reading and market expectations, while underlying inflation came in above forecasts as core CPI rose 0.3% month-on-month. US producer prices also accelerated in August, while labor-market data pointed to continued resilience in employment. Higher oil prices added further inflationary pressure after Saudi Arabia shut down the critical East-West pipeline, which provides an alternative route around the Strait of Hormuz."
-    },
-    {
-      "id": "5092061",
-      "time": "2026-09-14 09:49:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4390美元/盎司，日內跌0.43%。"
-    },
-    {
-      "id": "5092060",
-      "time": "2026-09-14 09:48:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯利康：ADAURA試驗最終安全性資料顯示，泰瑞沙安全性特徵保持一致，無新安全性問題。"
     }
   ]
 }
