@@ -1,7 +1,180 @@
 {
-  "updated": "2026-09-21 15:30:43",
-  "count": 13572,
+  "updated": "2026-09-21 15:34:34",
+  "count": 13578,
   "items": [
+    {
+      "id": "5105050",
+      "time": "2026-09-21 15:33:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三維控股：控股股東葉繼躍質押1200萬股公司股份】三維控股公告稱，公司控股股東、實控人之一葉繼躍本次質押1200萬股公司股份，佔其所持股份的3.72%，佔公司總股本的1.16%，質權人為中國銀行股份有限公司三門縣支行，質押期限為2026年9月17日至2029年9月16日，融資資金用於自身生產經營。本次質押後，葉繼躍累計質押1.92億股，佔其所持股份的59.42%，佔公司總股本的18.61%；葉繼躍及其一致行動人張桂玉合計質押2.22億股，佔其合計持股的57.35%，佔公司總股本的21.57%。本次質押風險可控，不存在導致公司實控權變更的實質性因素。"
+    },
+    {
+      "id": "te:economy:585253",
+      "time": "2026-09-21 15:33:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Steady as RBI Sale Looms — The yield on India’s 10-year G-Sec hovered around 7.0%, trading in a tight range as lower oil prices offered some support, while the RBI’s liquidity-draining bond sale, elevated US Treasury yields and firmer rate hike expectations capped gains. Brent crude fell 2.3% to around $101.50 a barrel, easing inflation concerns, although traders said a sustained move below $100 would be needed for the 10-year yield to decline meaningfully toward 7%. Meanwhile, the RBI is set to sell INR 250 billion of bonds through an open market operation, its second such sale in a series of measures to withdraw excess liquidity from the banking system. Expectations of a 25-basis-point RBI rate hike on October 7 have also strengthened following the Federal Reserve’s recent move, while the US 10-year Treasury yield remained near 5% after the Fed signalled another hike before year-end."
+    },
+    {
+      "id": "5105049",
+      "time": "2026-09-21 15:33:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生指數上漲1%至24,999.59點。"
+    },
+    {
+      "id": "mkt:01a0c2e2-73e2-7118-8621-2a721de34ea3",
+      "time": "2026-09-21 15:33:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China gives no commitment on extending suspension of rare‑earth export controls, foreign ministry says】At a Sept. 21 press briefing, Foreign Ministry spokesman Guo Jiakun declined to confirm whether China will extend the suspension of rare‑earth export controls due to expire on Nov. 10, saying such questions should be directed to the relevant Chinese authorities."
+    },
+    {
+      "id": "mkt:01a0c2e1-fa52-7118-8621-243fe0eb3395",
+      "time": "2026-09-21 15:33:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Foreign Ministry says China committed to maintaining stability of global critical-minerals supply chains】Sept 21 — At a regular briefing, Foreign Ministry spokesman Guo Jiakun, responding to a question citing a US official’s claim that China has not fully resumed rare-earths supply despite prior summit pledges, deferred to the relevant Chinese agencies. He reiterated that China is committed to maintaining the stability and security of global production and supply chains for critical minerals and said both sides should jointly implement leaders’ consensus to preserve stable US‑China economic and trade relations."
+    },
+    {
+      "id": "mkt:01a0c2e1-d2f5-7118-8621-1bf6150d0e6b",
+      "time": "2026-09-21 15:32:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "France 10-year government bond yield fell 10 bps to 4.47%, after rising as much as 12.5 bps on Friday."
+    },
+    {
+      "id": "mkt:01a0c2e1-c4b8-7118-8621-143f4ceb76e4",
+      "time": "2026-09-21 15:32:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "01177.HK",
+        "01093.HK"
+      ],
+      "text": "Hang Seng Index rallied into the close, up more than 1%, testing the 25,000 level; China Biopharm (01177.HK) and CSPC PHARMA (01093.HK) led gains among index constituents."
+    },
+    {
+      "id": "5105048",
+      "time": "2026-09-21 15:32:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國10年期國債收益率<FR10YT=RR>下跌10個基點，至4.47%；上週五該收益率曾上漲12.5個基點。"
+    },
+    {
+      "id": "mkt:01a0c2e1-ab50-7118-8621-0fc9a0e94ce7",
+      "time": "2026-09-21 15:32:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Xi to make state visit to US, Chinese foreign ministry says】Sept. 21 — Chinese foreign ministry spokesman Guo Jiakun said President Xi Jinping will make a state visit to the United States at the invitation of U.S. President Trump. Xi will hold in-depth talks with Trump on major issues affecting China–U.S. relations and global peace and development. Guo described reciprocal visits within six months as a historic milestone and said China is willing to work with the U.S. to develop a constructive, strategically stable relationship, strengthen dialogue and cooperation, and properly manage differences."
+    },
+    {
+      "id": "5105047",
+      "time": "2026-09-21 15:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方尚未落實對美恢復稀土供應？外交部：建議向中方主管部門詢問】9月21日，外交部發言人郭嘉昆主持例行記者會。《紐約時報》記者提問，一名美國官員上週稱，儘管在此前會晤期間同意恢復稀土供應，但中方至今尚未全面落實。請問中方對此有何立場？“具體問題建議向中方主管部門進行詢問。”郭嘉昆表示，中方一貫致力於維護關鍵礦產全球產供鏈穩定與安全，中美雙方應當共同落實好兩國元首達成的重要共識，維護中美經貿關係穩定發展態勢。《紐約時報》記者追問，中方是否同意將11月10日擴大稀土出口限制的截止期限延長，如果同意，將推遲多久？郭嘉昆表示：“具體問題建議向中方主管部門進行詢問。”（澎湃新聞）"
+    },
+    {
+      "id": "te:markets:585252",
+      "time": "2026-09-21 15:32:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.48% Higher — The FTSE 100 Index is picking up 51 points or 0.48 percent on Monday. Gains are led by Antofagasta (2.60%), Anglo American (2.50%) and Standard Chartered (2.50%). Biggest losers are BP (-1.74%), J Sainsbury (-1.06%) and Barratt Redrow (-0.98%)."
+    },
+    {
+      "id": "5105046",
+      "time": "2026-09-21 15:32:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中美元首是否會討論中方限制對日稀土出口？外交部回應】9月21日，外交部發言人郭嘉昆主持例行記者會。《紐約時報》記者提問，中國今年對日本實施的稀土出口限制已經影響到美國供應鏈。本週晚些時候在華盛頓舉行的中美峰會是否也會討論這一問題？“關於中美元首會晤，我剛才已經介紹了有關情況。”郭嘉昆表示。關於稀土出口限制的問題，郭嘉昆表示，中方依法依規針對所有兩用物項，禁止對日本軍事用途以及任何有助於提升日本軍事實力的出口，目的是制止日本“再軍事化”和擁核企圖。中方維護關鍵礦產全球產供鏈穩定與安全的立場沒有變化，同時各方都有責任為此發揮建設性作用。（澎湃新聞）"
+    },
+    {
+      "id": "te:economy:585250",
+      "time": "2026-09-21 15:31:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Georgia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Georgia Trade Deficit Smallest in 7 Months — Georgia’s trade deficit narrowed to USD 809.9 million in August 2026 from USD 894.4 million a year earlier, marking the smallest trade shortfall since January. Outbound shipments climbed 24.8% year-on-year to USD 752.4 million, while imports increased at a much slower pace of 4.3% to a four-month low of USD 1.56 billion. In the first eight months of 2026, exports surged 22.1% to USD 5.42 billion, supported by strong gains in petroleum and petroleum oils (1,067.7%) and precious metal ores and concentrates (68.6%). Export growth was particularly strong to China (177.3%) and Russia (4.1%). Meanwhile, imports rose 3.4% to USD 12.5 billion during the January–August period, largely driven by higher purchases of petroleum and petroleum oils (37.4%), despite a decline in motor car imports (-12.5%). Imports recorded the largest increases from Russia (24.9%) and China (22.1%). Georgia’s trade deficit for the January–August period reached USD 7.08 billion."
+    },
+    {
+      "id": "te:markets:585249",
+      "time": "2026-09-21 15:31:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.89% Higher — The DAX Index is up by 224 points or 0.89 percent on Monday. Top gainers are Siemens (2.88%), Infineon (2.63%) and MTU Aero Engines AG (1.97%). Biggest losses came from Porsche Automobil (-2.96%), Volkswagen (-1.25%) and Adidas (-1.16%)."
+    },
+    {
+      "id": "5105045",
+      "time": "2026-09-21 15:31:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊WorkBuddy： 「設計創意」模式現已接入 Miora】據騰訊WorkBuddy公眾號訊息，WorkBuddy「設計創意」模式現已接入 Miora，支援在客戶端內一站式生成圖片和影片。 從說需求、確認規格到檢視結果，都在同一個任務中完成；生成的素材會彙總到 Miora 畫布，方便對照預覽。"
+    },
+    {
+      "id": "5105044",
+      "time": "2026-09-21 15:31:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平主席即將訪美，外交部：中美兩國元首半年內互訪具有歷史性里程碑意義】9月21日，外交部發言人郭嘉昆主持例行記者會。有記者提問，中方剛剛釋出了習近平主席將對美國進行國事訪問的訊息，發言人能否介紹此訪主要安排及中方對發展中美關係的期待？郭嘉昆表示，應美國總統特朗普邀請，習近平主席即將對美國進行國事訪問。訪問期間，習近平主席將同特朗普總統就事關中美關係以及世界和平與發展的重大問題深入交換意見。郭嘉昆指出，元首外交對中美關係具有不可替代的戰略引領作用。中美兩國元首在半年內實現互訪，具有歷史性里程碑意義。中方願同美方一道，豐富“中美建設性戰略穩定關係”內涵，加強對話合作，妥善管控分歧，不斷增進兩國人民的福祉，促進世界的和平、穩定、繁榮。（澎湃新聞）"
+    },
+    {
+      "id": "5105043",
+      "time": "2026-09-21 15:30:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平復信美國10所高校青年學生】近日，國家主席習近平復信來華參加中美青年主題交流活動的美國10所高校青年學生。習近平指出，很高興得知大家在中國經歷了一段愉快難忘的旅程。你們在來信中表達了對中華文明的喜愛，對中美兩國友好合作的期待，表示願做跨越太平洋的友誼使者，我對此感到欣慰。習近平強調，中美青年同處一個地球，共擔時代使命。希望你們繼續同兩國廣大青年一道，努力成為中美友好合作的傳承者、維護者、發展者，攜手促進兩國人民相知相親、兩國關係行穩致遠，為建設更加美好的世界貢獻青春力量。（新華社）"
+    },
     {
       "id": "mkt:01a0c2df-7131-7118-8621-038920e32e5c",
       "time": "2026-09-21 15:30:18",
@@ -9,6 +182,18 @@
         "MKT News"
       ],
       "text": "Shanghai Gold Exchange gold T+D closed down 0.38% at 938.3 yuan/gram on Monday, Sept. 21; silver T+D fell 0.11% to 16,040 yuan/kg."
+    },
+    {
+      "id": "te:markets:585248",
+      "time": "2026-09-21 15:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.57% Higher — The CAC 40 Index is gaining 46 points or 0.57 percent on Monday. Leading the gains are Societe Generale (4.00%), Capgemini (3.26%) and STMicroelectronics (2.95%). Top losers are Kering (-2.52%), ENGIE (-1.64%) and Hermes International (-1.24%)."
     },
     {
       "id": "5105042",
@@ -124143,127 +124328,6 @@
         "國際"
       ],
       "text": "【印尼股市創7月以來最大跌幅，跑輸亞太地區大盤】受能源價格上漲打壓市場情緒影響，印尼股市創下近兩個月最大跌幅，表現弱於其他亞洲市場。雅加達綜合指數最大跌幅達2.3%，為7月24日以來最大單日跌幅。默迪卡黃金資源公司與巴彥資源公司是拖累指數的主要個股。明晟亞太指數下跌0.8%。"
-    },
-    {
-      "id": "5092578",
-      "time": "2026-09-14 15:34:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：習近平主席同印度總理莫迪會晤達成的最重要共識就是中印要做夥伴】9月14日，外交部發言人郭嘉昆主持例行記者會。有記者提問：9月12日，習近平主席在印度新德里出席金磚國家領導人第十八次會晤期間，會見了印度總理莫迪。中印兩國領導人連續三年成功會晤，請問兩國領導人在會晤中就中印關係達成了哪些新的重要共識？對此，郭嘉昆表示，習近平主席同莫迪總理已經連續三年成功舉行會晤，會晤達成的最重要共識就是中印要做夥伴。習近平主席指出，中印兩國國情不同，完全可以取長補短、相互支援、彼此成就、共同發展。雙方要以客觀理性的戰略認知校準方向，以合作共贏的理念相互成就，以互尊互諒的政治智慧排除干擾，以開放包容的多邊協作兼濟天下，共同推動中印關係行穩致遠。莫迪總理表示，印方堅持獨立自主的外交政策，發展對華關係不受第三方影響，印方不允許任何勢力在印從事反華活動。中方重視莫迪總理作出的重要表態，兩國領導人一致同意中印作為世界上人口最多的兩個國家和全球南方重要成員，應該聚焦發展這個最大公約數，加強友好交往和互利合作，改善兩國關係民意基礎，平衡解決彼此經貿關切，推動兩國經貿關係健康穩定發展。雙方同意相互支援彼此擔任金磚主席國，推動全球南方合作，促進世界多極化，做動盪世界中的穩定進步力量。（央視新聞）"
-    },
-    {
-      "id": "5092577",
-      "time": "2026-09-14 15:33:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海機場：2026年8月浦東機場旅客吞吐量831.37萬人次，同比增長4.61%】上海機場公告，2026年8月，浦東機場飛機起降量51340架次，同比增長3.01%；旅客吞吐量831.37萬人次，同比增長4.61%；貨郵吞吐量39.71萬噸，同比增長13.48%。虹橋機場飛機起降量24230架次，同比下降0.86%；旅客吞吐量444.56萬人次，同比下降0.13%；貨郵吞吐量3.55萬噸，同比下降4.75%。"
-    },
-    {
-      "id": "5092576",
-      "time": "2026-09-14 15:33:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【津藥藥業：子公司2026年9月獲藥品註冊證書】津藥藥業公告，子公司湖北津藥獲得國家藥品監督管理局核准簽發的鹽酸布比卡因注射液《藥品註冊證書》，規格為10ml：75mg，藥品批准文號為國藥準字H20265897，按化學藥品3類註冊申報，獲批後視同透過仿製藥質量和療效一致性評價。截止目前，該專案已累計研發投入約240萬元。"
-    },
-    {
-      "id": "5092575",
-      "time": "2026-09-14 15:33:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部發言人介紹西藏泥石流外籍人員搜救情況】9月14日，外交部發言人郭嘉昆主持例行記者會。有記者就西藏泥石流外籍人員搜救情況提問。郭嘉昆表示，中方已向有關國家駐華使館通報失聯外籍人員家屬DNA資訊採集的辦法，如果發現外籍遇難者遺體並確認身份，將及時向有關國家駐華使館通報善後安排。西藏自治區面向失聯外籍人員家屬開通了熱線電話，將為有關家屬提供及時服務。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a09ed5-df3f-7118-856a-2994a3be934f",
-      "time": "2026-09-14 15:33:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【SAMR says firms using commercial bills, e-vouchers to lengthen SME payment terms will face severe penalties】Sept 14 — At a State Council Information Office briefing on SME receivables, the State Administration for Market Regulation (SAMR) said it will deepen coordination with the Ministry of Industry and Information Technology and the PBOC to establish information‑sharing on payment abuses. SAMR said it will press large firms that draw frequent SME complaints to rectify via interviews, mediation and coordinated supervision. It warned that, once verified, practices such as obscuring payment‑cutoff dates or using commercial bills and electronic vouchers to effectively extend payment terms will be punished severely under the anti‑unfair‑competition law; complaint channels will remain open."
-    },
-    {
-      "id": "te:markets:583454",
-      "time": "2026-09-14 15:33:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Aluminum Holds Losses — Aluminum futures in the UK hovered around $3,250 per tonne, holding their retreat from a four-week high, as a rising US dollar weighed on dollar-priced commodities. The greenback firmed up as stubbornly hot US inflation prompted traders to increase bets on a Federal Reserve rate hike later this week. Still, aluminum remain underpinned by tight supply conditions. The ongoing US-Iran conflict has disrupted aluminum flows from the Middle East, with GCC production declining 44% year-on-year in July. The region was responsible for around 10% of global production before the war. LME inventories remained close to a 36-year low, while SHFE stockpiles continued to fall, pointing to limited availability in the physical market. However, the supply outlook could improve, with several smelters restarting and ramping up previously curtailed capacity, as well as pursuing expansion projects. Rising aluminum exports from top producer China could also help ease supply constraints and limit price gains."
-    },
-    {
-      "id": "5092574",
-      "time": "2026-09-14 15:32:45",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【三星電子和SK海力士佔99%，韓國央行復盤股市“史詩級波動”】韓國央行在近日釋出的《2026年9月貨幣信貸政策報告》中覆盤了今年以來韓國綜合股價指數（KOSPI）的波動原因。報告顯示，隨著KOSPI不斷攀升，三星電子和SK海力士對指數上漲的貢獻率迅速提高。尤其是在KOSPI今年6月從8000點衝至9000點的過程中，兩隻股票對指數漲幅的貢獻率高達99%。"
-    },
-    {
-      "id": "5092573",
-      "time": "2026-09-14 15:32:41",
-      "tags": [
-        "央行",
-        "宏觀"
-      ],
-      "text": "【市場監管總局：將對變相延長賬期等行為依法依規進行嚴厲處罰】9月14日，國務院新聞辦公室舉行政策例行吹風會介紹加強中小企業回款難問題治理有關工作情況。市場監管總局信用監管司司長周衛軍表示，反不正當競爭法的出臺，有助於改善中小企業生存發展的狀況，也有助於促進經營者確立正確的競爭觀念。圍繞反不正當競爭法，下一步，市場監管總局將持續加強協作，與工信部、央行等部門加強協同配合，建立資訊共享工作機制。對那些被中小企業投訴較多的大型企業，市場監管總局將會同有關部門綜合運用約談、調解等方式督促整改，多方協同化解中小企業回款難等問題；同時，市場監管總局將持續暢通投訴舉報渠道，對模糊賬期計算節點、使用商業匯票和電子憑證變相延長賬期等惡劣行為，查實後將依法依規進行嚴厲處罰。"
-    },
-    {
-      "id": "mkt:01a09ed4-7bec-7118-856a-254437016721",
-      "time": "2026-09-14 15:32:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Foreign Ministry spokesman said foreign policy decision-making is a multidimensional process guided by wisdom."
-    },
-    {
-      "id": "te:markets:583453",
-      "time": "2026-09-14 15:31:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.58% Higher — The FTSE 100 Index is picking up 61 points or 0.58 percent on Monday. Gains are led by Relx (4.32%), The Sage Group (4.30%) and Experian (3.41%). Biggest losers are Halma (-3.58%), Antofagasta (-2.40%) and International Airlines Group (-2.12%)."
-    },
-    {
-      "id": "5092572",
-      "time": "2026-09-14 15:31:40",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【大摩策略師：美聯儲加息背景下，美國優質股票有望跑贏大盤】摩根士丹利策略師表示，如果美聯儲本週如期加息，美國優質股票大機率將取得超額收益。策略師指出，從歷史規律來看，在緊縮週期的首次加息階段，優質藍籌股往往跑贏市場。由邁克爾·威爾遜領銜的研究團隊在研報中寫道：“還值得注意的是，週期股與動量股通常會在首次加息之後表現佔優。”當前推動利率上行的因素是強勁的經濟增長，而非財政可持續性問題或是超預期高通脹。後續主要風險在於：若霍爾木茲海峽持續封鎖疊加中國消費回暖，油價可能突然飆升，進而引發意外通脹衝擊。這或將“把當前看起來屬於適度、預防性的政策調整，轉變為市場眼中持續時間更長的加息週期。”"
-    },
-    {
-      "id": "te:markets:583452",
-      "time": "2026-09-14 15:30:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.21% Lower — The DAX Index is falling 54 points. Losses were driven by Infineon (-6.30%), Siemens Energy (-4.44%) and RWE (-2.17%). Biggest rises came from SAP (3.32%), Deutsche Boerse (2.50%) and Bayer (1.99%)."
     }
   ]
 }
