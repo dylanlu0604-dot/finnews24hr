@@ -1,7 +1,58 @@
 {
   "date": "2026-09-21",
-  "count": 300,
+  "count": 306,
   "items": [
+    {
+      "id": "mkt:01a0c164-1667-7118-861a-98f355c98c78",
+      "time": "2026-09-21 08:35:56",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【PBOC to use multiple tools flexibly; liquidity seen stable across month and quarter】Wind data show the PBOC has 272 billion yuan of 7‑day reverse repos maturing this week (Sept 21–24). Experts say the central bank’s liquidity injections are becoming more flexible and targeted and are ample to offset major shocks; funding should remain stable across the month and quarter and market rates are likely to stay steady. Liu Yu, chief economist at Industrial Securities, expects the PBOC to continue a flexible mix of 7‑day, 14‑day and overnight reverse repos to smooth cross‑quarter and cross‑holiday funding‑rate volatility."
+    },
+    {
+      "id": "5104515",
+      "time": "2026-09-21 08:34:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【算力網開啟一體化排程週期 實現Token規模化降本】當算力供給從單卡走向萬卡叢集，算力網排程從聯網走向跨域協同，產業最關心的成本問題也隨之浮出水面。多家券商認為，算力網一體化排程的終極產業紅利，是透過盤活閒置算力、最佳化任務分配、疊加綠電與異構技術優勢，持續降低大模型訓練、推理的單位成本，核心體現為AI Token（詞元）生產成本大幅下行。 目前，運營商算力網排程已形成了成熟降本正規化。 在運營商的排程實踐之外，國產算力軟硬體廠商的深度協同也在落地。不久前，趨境科技與摩爾執行緒達成戰略合作，打造國產化高品質AI Token工廠，相關方案已正式投產。趨境科技Token事業部總經理劉顯赫表示，隨著大模型應用進入規模化商業落地階段，基礎設施的競爭正在從單卡效能轉向系統級Token生產效率。（證券時報）"
+    },
+    {
+      "id": "5104514",
+      "time": "2026-09-21 08:34:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“中國洋浦港”籍船舶總運力破900萬載重噸】據海南日報，9月20日，“遠海龍門”輪入籍“中國洋浦港”船籍港，這是入籍“中國洋浦港”船籍港的第104艘船，標誌著“中國洋浦港”籍船舶總運力歷史性突破900萬載重噸，創下船籍港建設全新里程碑。"
+    },
+    {
+      "id": "5104513",
+      "time": "2026-09-21 08:33:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報95.11美元/桶。"
+    },
+    {
+      "id": "5104512",
+      "time": "2026-09-21 08:32:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【威華達控股31.86億港元引入特斯聯為戰略股東】威華達控股（00622.HK）9月21日公告，以每股2.7港元向Nova Scope Ventures Limited發行11.8億股新股，對價約31.86億港元，引入AI戰略股東特斯聯。此次交易被列為公司長期重大投資。交易完成後，特斯聯將成為威華達主要股東，雙方將依靠各自產業及技術優勢達成深度戰略協同，深化國產AI產業佈局。"
+    },
+    {
+      "id": "5104511",
+      "time": "2026-09-21 08:32:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【專家稱貨幣調控有進一步寬鬆空間】專家表示，當前經濟增長、國際收支平衡等多重目標均指向貨幣調控有進一步寬鬆空間。 東方金誠首席宏觀分析師王青表示，後續宏觀政策將向穩增長方向進一步發力，其中包括加快政府債券發行、加快推進8000億元新型政策性金融工具投放等，這些均需要央行在流動性方面給予支援。 “這意味著，短期內包括買斷式逆回購、MLF在內的中期流動性工具整體上有望加量續做，支援政府債券發行和銀行配套貸款投放，這是當前貨幣政策加大逆週期調節力度的重要發力點之一。”王青說。（中證報）"
+    },
     {
       "id": "5104510",
       "time": "2026-09-21 08:30:23",
