@@ -1,7 +1,36 @@
 {
   "date": "2026-09-21",
-  "count": 1745,
+  "count": 1748,
   "items": [
+    {
+      "id": "5106200",
+      "time": "2026-09-21 23:52:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申現有執法已足以監管AI。"
+    },
+    {
+      "id": "mkt:01a0c4aa-c7c0-7118-862e-7c953d5db623",
+      "time": "2026-09-21 23:52:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Refinitiv data and satellite imagery on Sunday showed ARAMCO loaded about 14 mln barrels of crude onto seven VLCCs at Gulf terminals to bolster exports via the Strait of Hormuz; seven tankers were positioned off Ras Tanura."
+    },
+    {
+      "id": "5106199",
+      "time": "2026-09-21 23:51:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示，沙特阿美週日從波斯灣碼頭將1400萬桶原油裝載至7艘超大型油輪（VLCC），以加大透過霍爾木茲海峽的原油出口力度。衛星影象顯示，週日拉斯坦努拉港附近似乎有7艘油輪。"
+    },
     {
       "id": "mkt:01a0c4a9-cf00-7118-862e-74c391346625",
       "time": "2026-09-21 23:50:57",

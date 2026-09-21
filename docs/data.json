@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-21 23:51:50",
-  "count": 13474,
+  "updated": "2026-09-21 23:55:49",
+  "count": 13475,
   "items": [
+    {
+      "id": "5106200",
+      "time": "2026-09-21 23:52:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申現有執法已足以監管AI。"
+    },
+    {
+      "id": "mkt:01a0c4aa-c7c0-7118-862e-7c953d5db623",
+      "time": "2026-09-21 23:52:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Refinitiv data and satellite imagery on Sunday showed ARAMCO loaded about 14 mln barrels of crude onto seven VLCCs at Gulf terminals to bolster exports via the Strait of Hormuz; seven tankers were positioned off Ras Tanura."
+    },
+    {
+      "id": "5106199",
+      "time": "2026-09-21 23:51:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "航運資料顯示，沙特阿美週日從波斯灣碼頭將1400萬桶原油裝載至7艘超大型油輪（VLCC），以加大透過霍爾木茲海峽的原油出口力度。衛星影象顯示，週日拉斯坦努拉港附近似乎有7艘油輪。"
+    },
     {
       "id": "mkt:01a0c4a9-cf00-7118-862e-74c391346625",
       "time": "2026-09-21 23:50:57",
@@ -123372,22 +123401,6 @@
         "其他"
       ],
       "text": "胡塞武裝稱，只要沙特持續採取敵對行動，沙特就“無法獲得安全”。"
-    },
-    {
-      "id": "5093704",
-      "time": "2026-09-14 23:55:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：特朗普稱油價逼近110美元時伊朗希望達成協議，德黑蘭方面表示並無興趣。"
-    },
-    {
-      "id": "5093703",
-      "time": "2026-09-14 23:54:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "道達爾能源與伊拉克達成共識，將基於大規模投資，啟動伊拉克能源專案相關磋商。"
     }
   ]
 }
