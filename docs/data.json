@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-21 08:21:33",
-  "count": 13627,
+  "updated": "2026-09-21 08:25:14",
+  "count": 13630,
   "items": [
+    {
+      "id": "mkt:01a0c159-754b-7118-861a-8f692712f5a0",
+      "time": "2026-09-21 08:24:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "ANZ expects the Reserve Bank of Australia to raise rates by 25 bps in September and again in November."
+    },
+    {
+      "id": "mkt:01a0c159-3db8-7118-861a-822670a93b86",
+      "time": "2026-09-21 08:24:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【JP Morgan flags upside risk to Korean rates; terminal rate may exceed 3.75%】JP Morgan sees upside risk to South Korea rates and expects the Bank of Korea to hike in Nov, Feb and May to a terminal 3.75%, above economists’ median of 3.5%. The bank forecasts Korean GDP growth of 3.8% this year and 3.3% next year and says a semiconductor boom could boost investment, exports, wages and domestic demand. JP Morgan expects the Bank of Korea to hold rates at 3% on Oct. 22 but warns stronger domestic demand and persistent core inflation could push the terminal rate above 3.75%."
+    },
+    {
+      "id": "5104505",
+      "time": "2026-09-21 08:23:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【銀河證券：產業韌性凸顯 美聯儲加息不改AI長期邏輯】銀河證券研報稱，長期維度看，美聯儲加息不會改變AI技術革命提升生產率的根本邏輯。AI基礎設施建設雖短期推高晶片、電力等資源需求，但長期來看，AI透過提升全要素生產率、擴大供給能力，將形成結構性通縮效應，對沖通脹壓力。全球AI資本開支長期增長趨勢並未逆轉，算力需求仍將持續擴張。美聯儲多位官員認為，AI將推高中性利率水平，這意味著即便名義利率維持高位，實際政策利率也可能相對偏低，AI產業的增長韌性足以支撐其在高利率環境下持續發展。因此，中長期來看，AI產業的基本面邏輯依然堅實，加息帶來的估值調整反而為具備真實業績支撐的企業提供了更合理的估值起點。"
+    },
+    {
+      "id": "5104504",
+      "time": "2026-09-21 08:22:39",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【早期貿易資料顯示晶片熱潮推動下 韓國出口保持穩健增長勢頭】9月初韓國出口繼續保持穩健增長勢頭，全球對人工智慧(AI)的需求提振半導體產品出口，令高度依賴貿易的韓國經濟受惠。海關週一公佈的資料顯示，經工作日差異調整後，9月前20天的出口同比增長89.8%。8月同期初步報告的出口增幅為61.5%。未經調整的出口增長78.3%，進口增長26.7%，貿易順差接近230億美元。半導體依然是推動出口增長的引擎，晶片出口同比激增259.4%。石油產品出口增長47.8%，汽車出口增長9.3%。按目的地劃分，對中國出口增長了113.8%，對美國出口增長118%。對越南和歐盟的出口分別增長了44.8%和37%。資料顯示，韓國第三季度末的貿易勢頭依然強勁，進一步印證了韓國央行對經濟足夠強勁，能夠承受更高借貸成本的看法。韓國央行8月將基準利率上調0.25個百分點至3%，連續第二次會議加息。由於增長強於預期且潛在通脹頑固，決策者採取了先發制人的行動。"
+    },
+    {
+      "id": "5104503",
+      "time": "2026-09-21 08:21:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳新銀行：目前預計澳大利亞儲備銀行將在9月份加息25個基點，11月份加息25個基點。"
+    },
+    {
+      "id": "5104502",
+      "time": "2026-09-21 08:21:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通持續追蹤滴普科技：維持“增持”評級 堅定保留61.10港元目標價】國泰海通證券再度釋出滴普科技(01384)研究報告，此次國泰海通繼續維持“增持”評級，並堅定保留61.10港元目標價。研報指出，滴普科技企業級AI業務正在持續快速放量，核心產品DeepexiOS已成為主要收入來源，伴隨收入規模迅速擴大及交付效率提升，公司毛利率明顯改善，經調整虧損持續大幅收窄，Q2更實現單季盈利，盈利拐點初步顯現。"
+    },
+    {
+      "id": "5104501",
+      "time": "2026-09-21 08:21:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德媒：德國將領時隔25年再當選北約最高軍職】“德國軍銜最高的軍人將在北約開啟職業生涯。”據德國《圖片報》19日報道，德國聯邦國防軍總監卡斯滕·布羅伊爾當天在哥本哈根舉行的北約軍事委員會會議上，被選為下一任北約軍事委員會主席。他將於明年7月上任，接替義大利海軍上將朱塞佩·卡沃·德拉戈內。這意味著德國人時隔25年再次擔任這一北約要職。"
+    },
     {
       "id": "5104500",
       "time": "2026-09-21 08:20:54",
@@ -124830,43 +124895,6 @@
         "公司"
       ],
       "text": "【英矽智慧：董事會主席近期增持11.35萬股公司普通股】9月14日早間，英矽智慧在港交所公告，接獲董事會主席、執行董事、執行長、首席商務官兼公司單一最大股東Zavoronkovs通知，彼於2026年9月4日至2026年9月7日期間，已動用其個人資金於公開市場交易中購入合共113,500股公司普通股。緊隨股份購買後，Zavoronkovs有權行使46,757,000股股份（佔公司已發行股本總額約8.02%）的投票權。股份購買作為Zavoronkovs於2026年9月4日公佈的股份增持計劃項下的首批購買。"
-    },
-    {
-      "id": "5091913",
-      "time": "2026-09-14 08:23:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "檔案：羅博特科開始評估香港上市的投資者需求。"
-    },
-    {
-      "id": "5091912",
-      "time": "2026-09-14 08:22:12",
-      "tags": [
-        "宏觀",
-        "觀點"
-      ],
-      "text": "【中信證券：銀行板塊仍將演繹估值上行方向，全年絕對收益仍將延續】中信證券研報稱，《金融強國建設“十五五”規劃》正式出臺，金融業中長期發展框架明確，在服務好實體的背景下，為金融強國建設奠定基礎。對於商業銀行而言，基本面視角，展望今年3季度及全年，預計息差和資產質量等核心變數保持穩定，經營格局穩定，盈利趨勢積極。中期視角看，銀行板塊步入風險週期尾部區間，ROE一階導已經改善，預計今明年行業ROE絕對數企穩，區間8-9%，助力板塊估值提升，有望從“高股息防禦資產”向“高確定性權益資產”重估，銀行板塊仍將演繹估值上行方向，全年絕對收益仍將延續。"
-    },
-    {
-      "id": "5091911",
-      "time": "2026-09-14 08:21:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日本晶片相關股大幅下跌】軟銀集團股價下跌10%，鎧俠下跌9.3%，愛德萬測試下跌4.9%。"
-    },
-    {
-      "id": "mkt:01a09d4a-91fa-7118-8560-9f0a63469375",
-      "time": "2026-09-14 08:21:44",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【China International Capital raises 4Q26 Brent central forecast to $85/bbl】China International Capital Co raised its 4Q26 central Brent forecast to $85/bbl from $80/bbl in June. The research note cites a slower-than-expected Middle East crude restart since Q3 and a recent escalation in regional tensions that are prompting markets to re-price the persistence of Middle East supply losses, lifting the oil supply floor. End-user demand remains weak and summer recovery should not be linearly extrapolated; if oil tops $100/bbl a demand peak could emerge. The revision reflects a more persistent supply shortfall and lower inventories. In product markets, near-term crude and freight increases are compressing Eurasian refining margins; gasoline cracks face downside pressure from current high levels, while overseas diesel shows structural tightness and crack resilience."
     }
   ]
 }
