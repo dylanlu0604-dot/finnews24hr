@@ -1,7 +1,32 @@
 {
-  "updated": "2026-09-21 08:28:58",
-  "count": 13630,
+  "updated": "2026-09-21 08:32:42",
+  "count": 13624,
   "items": [
+    {
+      "id": "5104510",
+      "time": "2026-09-21 08:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "上海證交所上日融資餘額幾無變動，報13,345.6億元。"
+    },
+    {
+      "id": "5104509",
+      "time": "2026-09-21 08:30:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國：葉門局勢升級 超12.5萬人流離失所】近期，葉門多地局勢持續升級，大量民眾被迫逃離家園。聯合國難民署駐葉門代表阿爾門·亞德加里安在接受總檯記者採訪時表示，短短一兩週內，已有超過12.5萬人在葉門境內流離失所，另有數千人冒險穿越曼德海峽逃往吉布提等地。聯合國難民署呼籲國際社會提供更多資金和支援，以應對不斷擴大的緊急人道主義需求。"
+    },
+    {
+      "id": "5104508",
+      "time": "2026-09-21 08:29:26",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "【澳新銀行：目前預計澳洲聯儲9月、11月各加息25個基點】澳新銀行在宣告中表示，上調澳洲聯儲利率預測，新增一次加息預期。澳新銀行當前預測，澳洲聯儲將於9月及11月分別加息25個基點，將現金利率推升至4.85%，為2008年以來最高水平。該行仍預計首次降息將在2027年11月落地，隨後在2028年2月再度降息25個基點。澳新銀行經濟學家亞當・博伊頓與傑克・錢伯斯稱：“鑑於此前寬鬆週期結束後通脹再度快速抬頭，我們預計澳洲聯儲理事會在最終降息時會保持緩慢且謹慎的節奏。”"
+    },
     {
       "id": "te:markets:585148",
       "time": "2026-09-21 08:27:49",
@@ -124819,91 +124844,6 @@
         "其他"
       ],
       "text": "中國外匯交易中心（CFETS）：9月11日人民幣匯率指數按周跌0.15至101.49。"
-    },
-    {
-      "id": "5091923",
-      "time": "2026-09-14 08:32:36",
-      "tags": [],
-      "text": "日經225指數跌幅擴大至2％，軟銀集團跌近12％，鎧俠跌超8％。"
-    },
-    {
-      "id": "mkt:01a09d53-e240-7118-8560-a8f425df6b74",
-      "time": "2026-09-14 08:31:55",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact mixed"
-      ],
-      "text": "【Citic Securities maintains recommendation on Hong Kong dividend strategy】Citic Securities says during the 2016–18 and 2022–23 Fed rate-hike cycles southbound Stock Connect flows showed sustained net inflows in the early phase and a marked slowdown in the later phase; CHINA'S YUAN FIXING moves were highly synchronous with those inflow patterns. The firm maintains its Hong Kong dividend strategy recommendation but notes continued rises in overseas risk-free rates have narrowed high‑dividend Hong Kong stocks’ relative yield advantage. It advises allocations to emphasize cash‑flow stability, earnings visibility and dividend sustainability, and to favor sub-sectors with high southbound ownership and relatively low foreign marginal pricing power."
-    },
-    {
-      "id": "5091922",
-      "time": "2026-09-14 08:31:19",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：維持對港股紅利策略的推薦】中信證券研報稱，對於港股，從2016年至2018年與2022年至2023年兩輪美聯儲加息週期來看，南向資金整體呈現出加息前半段持續淨流入、後半段流入節奏明顯放緩的階段性特徵；美元兌人民幣中間價的走勢與南向資金的流入節奏同樣呈現出較高的同步性。維持對港股紅利策略的推薦，但在海外無風險利率持續上行的情況下，港股高股息的相對收益率優勢有所收窄，配置上應進一步考察現金流穩定性、盈利確定性和分紅可持續性，並關注南向持倉佔比較高、外資邊際定價權相對較低的細分方向。"
-    },
-    {
-      "id": "5091921",
-      "time": "2026-09-14 08:31:15",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【Anthropic對人工智慧的警告被視為晶片股的暫時性挫折】市場策略師稱，AI 企業高管呼籲放緩相關技術研發，短期內或將對晶片廠商及供應鏈個股形成壓制；但算力基礎設施投入依舊保持強勁，長期影響大機率有限。週一早盤，韓國儲存晶片廠商三星電子股價一度下跌 4.1%，同業 SK 海力士大跌 5.8%，投資者正在評估，前沿模型轉向更審慎的研發策略是否會壓縮企業盈利。日本市場上，晶片裝置企業愛德萬測試下跌 4.7%，儲存晶片廠商鎧俠控股大跌 9.3%。行業內部要求剋制研發節奏的呼聲漸高。Anthropic 執行長達里奧・阿莫代伊周六表示，公司將增設額外安全防護機制，包括引入獨立第三方評估，並呼籲全行業放緩最先進模型的研發速度。OpenAI 執行長山姆・奧特曼對該提議表示支援，xAI 的埃隆・馬斯克稱 “達里奧說得對”。儘管如此，晶片、能源與算力的需求持續供不應求，科技硬體股的本輪走弱大機率只是短期現象。安聯全球投資駐新加坡的投資組合經理 Gary Tan等投資者認為，此次事件不會對行業產生持久影響。Tan表示：“這件事或帶來短期壓力，但不太會破壞 AI 主線的長期投資邏輯。AI 行業仍處於相對早期階段，技術還在高速迭代，我不確定生態內其他企業是否願意接受當前的行業格局並主動減速。”"
-    },
-    {
-      "id": "5091920",
-      "time": "2026-09-14 08:30:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今天華南部分地區雨勢仍強 中東部未來一周天氣晴好氣溫偏高】今天（9月14日），華南一帶仍有明顯降雨，其中海南島雨勢強勁，明天起西南地區降雨也會增強；伴隨陰雨，西南地區和華南多地氣溫將略微偏低。而在中東部，未來一週以晴好天氣為主，最高氣溫將以偏高為主，其中北方晝夜溫差較大，早晚涼意明顯，需根據氣溫變化及時調整著裝。"
-    },
-    {
-      "id": "5091919",
-      "time": "2026-09-14 08:30:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海證交所上日融資餘額下跌0.5%至13,310.6億元."
-    },
-    {
-      "id": "mkt:01a09d51-f689-7118-8560-a56641f16ecf",
-      "time": "2026-09-14 08:29:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Market Themes",
-        "Chip Wars",
-        "Commodities",
-        "Industrial Metals",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "【Nikkei falls nearly 2% as chip, metals stocks lead】Tokyo stocks opened sharply lower; the Nikkei 225 was down about 2%, led by chip and metals losses. Kioxia Holdings slid more than 9%, Mitsui Mining & Smelting fell nearly 6%. USD/JPY around 153.50 (Friday Tokyo close 154.09). Investors are watching the Iran war, oil prices and bond yields amid uncertainty over Fed policy."
-    },
-    {
-      "id": "5091918",
-      "time": "2026-09-14 08:29:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數下跌2%."
-    },
-    {
-      "id": "5091917",
-      "time": "2026-09-14 08:29:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "AI 企業高管呼籲放緩相關技術研發，安聯全球投資駐新加坡的投資組合經理 Gary Tan等認為，此次事件不會對行業產生持久影響。Tan表示：“這件事或帶來短期壓力，但不太會破壞 AI 主線的長期投資邏輯。AI 行業仍處於相對早期階段，技術還在高速迭代，我不確定生態內其他企業是否願意接受當前的行業格局並主動減速。”"
     }
   ]
 }
