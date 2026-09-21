@@ -1,7 +1,96 @@
 {
   "date": "2026-09-21",
-  "count": 503,
+  "count": 513,
   "items": [
+    {
+      "id": "5104658",
+      "time": "2026-09-21 10:03:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長江生態環保集團有限公司副總經理袁建偉接受審查調查】據中央紀委國家監委駐中國三峽集團紀檢監察組、湖北省紀委監委訊息：長江生態環保集團有限公司黨委委員、副總經理袁建偉涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國三峽集團紀檢監察組紀律審查和湖北省武漢市監察委員會監察調查。"
+    },
+    {
+      "id": "5104657",
+      "time": "2026-09-21 10:03:04",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【河南省許昌市政協原副主席魏琦接受監察調查】據河南省紀委監委訊息：河南省許昌市政協原副主席魏琦涉嫌嚴重違法，目前正接受河南省監委監察調查。"
+    },
+    {
+      "id": "mkt:01a0c1b3-9473-7118-861c-62285ec1fb49",
+      "time": "2026-09-21 10:02:46",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【56 firms and institutions receive China's first data-property registration certificates】China's State Data Bureau said on the 21st it has begun issuing the first national data-property registration certificates; 56 firms and institutions received official proof of data ownership, usage and operating rights. Recipients are mainly state-owned enterprises, public institutions and private companies across more than 10 sectors, including healthcare, transport, information technology and scientific research. The 15th Five-Year Plan outline calls for building a unified national data-property registration system."
+    },
+    {
+      "id": "5104656",
+      "time": "2026-09-21 10:02:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【56家企業和機構獲得我國首批資料產權“身份證”】資料產權登記，相當於為資料這一無形資產出具身份證明。“十五五”規劃綱要提出，構建全國統一的資料產權登記體系。記者今天（21日）從國家資料局瞭解到，我國首批資料產權登記憑證陸續發放，56家企業和機構拿到相關資料持有權、使用權和經營權的有效證明。首批獲發資料產權登記憑證的主體主要包括三類：國有企業、事業單位和民營企業，涵蓋醫療健康、交通運輸、資訊科技、科學研究等10餘個行業領域。"
+    },
+    {
+      "id": "mkt:01a0c1b3-54f2-7118-861c-5d5763f88f1e",
+      "time": "2026-09-21 10:02:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.3 magnitude earthquake strikes East Nusa Tenggara, Indonesia】Indonesia's Meteorology, Climatology and Geophysical Agency (BMKG) reported a magnitude-5.3 earthquake at 08:41 local time on Sept 21. The epicenter was 34 km northeast of Manggarai Regency, East Nusa Tenggara, at a depth of 10 km. No tsunami risk expected."
+    },
+    {
+      "id": "mkt:01a0c1b3-1628-7118-861c-513d57c853f3",
+      "time": "2026-09-21 10:02:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "CNH"
+      ],
+      "text": "【China, U.S. hold economic and trade talks in New York】China’s Vice Premier He met with U.S. Treasury Secretary Bessent and U.S. Trade Representative Grier in New York on Sept. 20 for talks focused on implementing previous economic and trade commitments and promoting bilateral trade and investment. The meeting included a dialogue on artificial intelligence-related issues."
+    },
+    {
+      "id": "5104655",
+      "time": "2026-09-21 10:02:02",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【中美經貿磋商在美國紐約舉行】當地時間9月20日，中美經貿中方牽頭人、國務院副總理何立峰與美方牽頭人、美國財政部長貝森特和貿易代表格里爾在美國紐約舉行經貿磋商。雙方以兩國元首重要共識為引領，秉持相互尊重、和平共處、合作共贏的原則，圍繞落實歷次經貿磋商共識、促進雙邊貿易投資等雙方共同關心的重要經貿問題，進行了坦誠、深入、富有建設性的交流，並就人工智慧有關問題舉行對話。(新華社)"
+    },
+    {
+      "id": "5104654",
+      "time": "2026-09-21 10:00:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【李強將出席第五屆全球數字貿易博覽會啟動儀式及相關活動】商務部新聞發言人何亞東宣佈：第五屆全球數字貿易博覽會將於2026年9月23－27日在浙江省杭州市舉辦。國務院總理李強將出席啟動儀式及相關活動並致辭。(新華社)"
+    },
+    {
+      "id": "mkt:01a0c1b0-e40c-7118-861c-4bb9e16aadcc",
+      "time": "2026-09-21 09:59:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Where to park spare cash? Short-term yield snapshot】Tencent Licaitong (demand + 7-day annualized) yields: high 1.4510%, low 0.7070%. WeChat Lingqiantong 7-day annualized yields: high 1.0310%, low 0.8660%. Alipay Yu'ebao 7-day annualized yields: high 1.0930%, low 0.9020%."
+    },
+    {
+      "id": "5104653",
+      "time": "2026-09-21 09:59:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股創新藥概念走高 樂普生物漲超8%】港股創新藥概念走高，樂普生物漲超8%，康諾亞、諾誠健華、康方生物漲幅居前。"
+    },
     {
       "id": "mkt:01a0c1af-f0ed-7118-861c-42f670f5a11c",
       "time": "2026-09-21 09:58:48",
