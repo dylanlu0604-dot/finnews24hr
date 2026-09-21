@@ -1,7 +1,64 @@
 {
   "date": "2026-09-21",
-  "count": 1695,
+  "count": 1700,
   "items": [
+    {
+      "id": "mkt:01a0c495-7fef-7118-862d-b9bbaae61b43",
+      "time": "2026-09-21 23:28:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Moscow refinery halts processing after Ukrainian drone strike】Industry sources say a major Moscow refinery has stopped crude processing after a Ukrainian drone strike on September 20 ignited fires in its main distillation units. Moscow’s mayor said an industrial facility was damaged during the drone attacks. Three industry sources said drones crashed into the refinery and both primary crude distillation units burned; repairs and restart could take several weeks. The two core units are AVT-6, capacity 21,400 tonnes/day (53% of the plant), and the EURO+ complex, capacity 18,800 tonnes/day (47%), totalling 40,200 tonnes/day of crude processing capacity."
+    },
+    {
+      "id": "te:economy:585366",
+      "time": "2026-09-21 23:28:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Imports Surge in July — Colombia's imports increased 22.9% year-on-year to $7.97 billion in July 2026 following a 27% rise in June. Manufacturing imports rose 16.1%, driven by higher purchases of machinery and transport equipment (24%) and chemicals and related products (11%). Agriculture, food and beverages purchases grew 26.3%, mainly due to higher imports of food products and live animals (27.2%). Imports of fuels and extractive industry products surged 77.3%, driven by higher purchases of petroleum, petroleum products and related products (79.6%)."
+    },
+    {
+      "id": "te:markets:585365",
+      "time": "2026-09-21 23:26:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "IBM Stock Price Hits 5-week Low — IBM shares decreased to 228.93 USD, the lowest since August 2026. Over the past 4 weeks, IBM lost 0.85%, and in the last 12 months, it decreased 15.58%."
+    },
+    {
+      "id": "te:economy:585364",
+      "time": "2026-09-21 23:25:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Colombia Trade Deficit Hits Historical Series High — Colombia posted a trade deficit of $3.28 billion in July 2026, widening from a $2.05 billion gap a year earlier and marking the widest deficit in the historical series, which began in 1980. Imports totaled $7.97 billion, up 22.9% year over year. Manufacturing imports rose 16.1%, driven by higher purchases of machinery and transport equipment (24%) and chemicals and related products (11%). Imports of agriculture, food, and beverages increased 26.3%, mainly due to higher purchases of food products and live animals (27.2%). Imports of fuels and extractive industry products surged 77.3%, driven by a 79.6% increase in purchases of petroleum, petroleum products, and related products. Exports totaled $4.69 billion, up 5.9%, mainly due to a 51.6% increase in the other sectors group, driven by higher exports of non-monetary gold. Fuels and extractive industry products accounted for 40% of total exports and rose 8.3%."
+    },
+    {
+      "id": "mkt:01a0c492-16eb-7118-862d-b40ec4e3d2cb",
+      "time": "2026-09-21 23:25:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen armed forces spokesman said forces struck Houthi militants and their supply lines in the Bab al-Mandeb Strait and Bayda province."
+    },
     {
       "id": "5106180",
       "time": "2026-09-21 23:24:14",

@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-21 23:25:04",
-  "count": 13460,
+  "updated": "2026-09-21 23:30:23",
+  "count": 13455,
   "items": [
+    {
+      "id": "mkt:01a0c495-7fef-7118-862d-b9bbaae61b43",
+      "time": "2026-09-21 23:28:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Moscow refinery halts processing after Ukrainian drone strike】Industry sources say a major Moscow refinery has stopped crude processing after a Ukrainian drone strike on September 20 ignited fires in its main distillation units. Moscow’s mayor said an industrial facility was damaged during the drone attacks. Three industry sources said drones crashed into the refinery and both primary crude distillation units burned; repairs and restart could take several weeks. The two core units are AVT-6, capacity 21,400 tonnes/day (53% of the plant), and the EURO+ complex, capacity 18,800 tonnes/day (47%), totalling 40,200 tonnes/day of crude processing capacity."
+    },
+    {
+      "id": "te:economy:585366",
+      "time": "2026-09-21 23:28:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Colombia Imports Surge in July — Colombia's imports increased 22.9% year-on-year to $7.97 billion in July 2026 following a 27% rise in June. Manufacturing imports rose 16.1%, driven by higher purchases of machinery and transport equipment (24%) and chemicals and related products (11%). Agriculture, food and beverages purchases grew 26.3%, mainly due to higher imports of food products and live animals (27.2%). Imports of fuels and extractive industry products surged 77.3%, driven by higher purchases of petroleum, petroleum products and related products (79.6%)."
+    },
+    {
+      "id": "te:markets:585365",
+      "time": "2026-09-21 23:26:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "IBM Stock Price Hits 5-week Low — IBM shares decreased to 228.93 USD, the lowest since August 2026. Over the past 4 weeks, IBM lost 0.85%, and in the last 12 months, it decreased 15.58%."
+    },
+    {
+      "id": "te:economy:585364",
+      "time": "2026-09-21 23:25:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Colombia Trade Deficit Hits Historical Series High — Colombia posted a trade deficit of $3.28 billion in July 2026, widening from a $2.05 billion gap a year earlier and marking the widest deficit in the historical series, which began in 1980. Imports totaled $7.97 billion, up 22.9% year over year. Manufacturing imports rose 16.1%, driven by higher purchases of machinery and transport equipment (24%) and chemicals and related products (11%). Imports of agriculture, food, and beverages increased 26.3%, mainly due to higher purchases of food products and live animals (27.2%). Imports of fuels and extractive industry products surged 77.3%, driven by a 79.6% increase in purchases of petroleum, petroleum products, and related products. Exports totaled $4.69 billion, up 5.9%, mainly due to a 51.6% increase in the other sectors group, driven by higher exports of non-monetary gold. Fuels and extractive industry products accounted for 40% of total exports and rose 8.3%."
+    },
+    {
+      "id": "mkt:01a0c492-16eb-7118-862d-b40ec4e3d2cb",
+      "time": "2026-09-21 23:25:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen armed forces spokesman said forces struck Houthi militants and their supply lines in the Bab al-Mandeb Strait and Bayda province."
+    },
     {
       "id": "5106180",
       "time": "2026-09-21 23:24:14",
@@ -123110,96 +123167,6 @@
         "其他"
       ],
       "text": "穆迪將雷諾的評級上調至BAA3，展望穩定。"
-    },
-    {
-      "id": "5093677",
-      "time": "2026-09-14 23:30:11",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "10年期美國國債收益率抹去漲幅，回落至4.96%。"
-    },
-    {
-      "id": "te:economy:583579",
-      "time": "2026-09-14 23:30:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 13 bps — Majority of government bonds yields are higher on Monday. Top gainers are Brazil 10Y (13bps), Germany 10Y (2.78bps) and Japan 10Y (0.83bps). Biggest losers are US 10Y (-0.30bps)."
-    },
-    {
-      "id": "mkt:01a0a089-ea07-7118-857a-52f34c833817",
-      "time": "2026-09-14 23:29:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Wall Street Journal, New York Mayor Mamdani said on Monday that New York City and a coalition of cities have filed suit to challenge a Trump administration rule that would make it easier for the federal government to deny green cards and visas to immigrants on grounds of public-benefit use."
-    },
-    {
-      "id": "5093676",
-      "time": "2026-09-14 23:29:10",
-      "tags": [
-        "央行",
-        "其他",
-        "國際"
-      ],
-      "text": "市場預期美聯儲本週加息的機率飆升至84%。"
-    },
-    {
-      "id": "5093675",
-      "time": "2026-09-14 23:27:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯質疑AI大廠主動尋求監管，強調保持AI競爭優勢】美國副總統萬斯表示，他對頭部AI企業主動尋求政府監管持懷疑態度，稱“在我看來，這有點像特洛伊木馬”。萬斯承認這項技術確實存在風險，但美國政府希望“進行明智監管”，同時確保美國在全球AI競賽中保持領先優勢。“這麼多前沿AI科技企業主動找到政府，請求政府監管，這件事讓我感覺有些不對勁。”"
-    },
-    {
-      "id": "5093674",
-      "time": "2026-09-14 23:27:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯稱美國與胡塞直接談判，同步聯絡沙特等受衝突影響國家】美國副總統JD·萬斯週一表示，在伊朗支援的胡塞組織持續襲擊沙烏地阿拉伯、並擴大對曼德海峽附近區域控制之際，華盛頓方面一直在與葉門胡塞武裝舉行直接對話。萬斯對記者稱：“我們也一直在同胡塞武裝本身展開直接溝通。”他補充說，美國政府同時與沙烏地阿拉伯以及其他受衝突影響國家保持聯絡。他表示：“我們實際上認為局勢在我們掌控之中。局勢瞬息萬變，但我們會持續監測，確保美國的核心利益得到維護。”"
-    },
-    {
-      "id": "mkt:01a0a086-e863-7118-857a-4eeab010f38f",
-      "time": "2026-09-14 23:26:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Canada has signed audiovisual co‑production agreements with Spain and the UK."
-    },
-    {
-      "id": "mkt:01a0a086-d2ac-7118-857a-40b77e03c0c6",
-      "time": "2026-09-14 23:26:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "LATAM Airlines Group has secured a $505 million loan to finance new aircraft."
-    },
-    {
-      "id": "5093673",
-      "time": "2026-09-14 23:26:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大與西班牙、英國簽署視聽作品聯合制作協議。"
-    },
-    {
-      "id": "5093672",
-      "time": "2026-09-14 23:25:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普發文稱：AI與資料中心熱潮興起的唯一原因，是美國大幅領先其他所有國家。"
     }
   ]
 }
