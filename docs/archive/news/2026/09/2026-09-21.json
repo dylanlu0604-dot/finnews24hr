@@ -1,7 +1,111 @@
 {
   "date": "2026-09-21",
-  "count": 493,
+  "count": 503,
   "items": [
+    {
+      "id": "mkt:01a0c1af-f0ed-7118-861c-42f670f5a11c",
+      "time": "2026-09-21 09:58:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "1548.HK",
+        "Impact bullish",
+        "9926.HK"
+      ],
+      "text": "Hang Seng Biotechnology Index rose more than 4%; Yingxi Intelligent, GenScript Biotech, Nuocheng Jianhua and Akeso each gained over 6%."
+    },
+    {
+      "id": "te:markets:585170",
+      "time": "2026-09-21 09:58:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "China Stocks Gain as PBOC Stands Pat — The Shanghai Composite rose 0.4% to 3,925 on Monday, while the Shenzhen Component gained 0.8% to 13,743, as the People’s Bank of China kept its benchmark lending rates unchanged for a 16th consecutive month at record lows. The one-year loan prime rate (LPR) was maintained at 3.0%, while the five-year LPR was held at 3.5%. The decision underscored policymakers’ caution over the economic fallout from the conflict in the Middle East, although exports continued to benefit from robust AI-related demand. Still, slowing growth, subdued inflation and weak credit demand continue to provide scope for a rate cut before year-end. Meanwhile, attention remained focused on high-level US-China engagement after officials led by Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng met on Sunday to set the stage for a closely watched Trump-Xi summit. Notable gainers included Foxconn Industrial Internet (2.8%), WuXi AppTec Co (2.2%), Shennan Circuit (5%) and Chaozhou Three-Circle (5.9%)."
+    },
+    {
+      "id": "5104652",
+      "time": "2026-09-21 09:58:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念板塊拉昇，峆一藥業觸及30cm漲停】CRO概念板塊拉昇，峆一藥業觸及30cm漲停，近岸蛋白、成都先導、泓博醫藥漲超10%。"
+    },
+    {
+      "id": "5104651",
+      "time": "2026-09-21 09:57:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【餘承東：智界RX即將正式釋出】9月21日，華為常務董事、產品投資評審委員會主任、終端BG董事長餘承東發文稱，智界RX即將正式釋出。同時，家庭智慧旗艦MPV享界V8也將同步開啟預訂。"
+    },
+    {
+      "id": "te:markets:585168",
+      "time": "2026-09-21 09:57:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks Hit 2-Month High on Tech Boost — The TAIEX, Taiwan’s benchmark stock index, advanced 268 points, or 0.6%, to 47,449, rising for the fourth straight session and hitting its highest level since June 22, when the index reached a record high, mainly buoyed by gains in electronic technology, commercial services, and energy minerals. Electronic technology rose 1.0%, with TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, gaining 0.6%. Meanwhile, MediaTek and ASE Technology Holding soared 5.4% and 4.1%, respectively. The broader index tracked a rise in US stock futures after the Dow Jones recorded a third straight losing week. However, traders monitored developments in US-China relations ahead of the Trump-Xi summit on September 24. Traders also anticipated Taiwan's export orders data for August after the closing bell, following a surge in July."
+    },
+    {
+      "id": "5104650",
+      "time": "2026-09-21 09:57:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5104649",
+      "time": "2026-09-21 09:57:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電梯概念震盪拉昇 廣日股份、康力電梯雙雙漲停】早盤電梯概念震盪拉昇，廣日股份、康力電梯雙雙漲停，滬寧股份漲近10%，上海機電、森赫股份、華菱精工、梅輪電梯漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a0c1ad-d332-7118-861c-3ca6367d0d7e",
+      "time": "2026-09-21 09:56:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share tourism and hotel sector extended gains; Dalian Shengya hit the daily up-limit, while Huatian Hotel, Changbai Mountain, Xi'an Catering and Sante Cableway also rose."
+    },
+    {
+      "id": "5104648",
+      "time": "2026-09-21 09:56:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售概念表現活躍 新華百貨漲停】零售概念表現活躍，新華百貨漲停，國芳集團2連板，南寧百貨、杭州解百、國光連鎖、三江購物跟漲。"
+    },
+    {
+      "id": "mkt:01a0c1ad-5f1e-7118-861c-30e68e17e2eb",
+      "time": "2026-09-21 09:55:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Tesla robot team audits Yangtze River Delta suppliers; several firms had orders】Tesla’s robot team began factory audits last week at Yangtze River Delta suppliers including Top Group, Sanhua Intelligent Controls and Joyson Electronics, industry sources said. The firms, which supply joint modules, actuators and precision structural components, had already received orders for Tesla’s humanoid robot prior to the audits, in varying amounts. Audits will evaluate production-line quality and compliance; firms that pass are expected to begin production quickly. Visits covered Ningbo, Hangzhou and Shanghai and targeted suppliers already in Tesla’s automotive supply chain."
+    },
     {
       "id": "5104647",
       "time": "2026-09-21 09:55:32",

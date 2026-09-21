@@ -1,7 +1,111 @@
 {
-  "updated": "2026-09-21 09:56:14",
-  "count": 13592,
+  "updated": "2026-09-21 09:59:57",
+  "count": 13590,
   "items": [
+    {
+      "id": "mkt:01a0c1af-f0ed-7118-861c-42f670f5a11c",
+      "time": "2026-09-21 09:58:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "1548.HK",
+        "Impact bullish",
+        "9926.HK"
+      ],
+      "text": "Hang Seng Biotechnology Index rose more than 4%; Yingxi Intelligent, GenScript Biotech, Nuocheng Jianhua and Akeso each gained over 6%."
+    },
+    {
+      "id": "te:markets:585170",
+      "time": "2026-09-21 09:58:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "China Stocks Gain as PBOC Stands Pat — The Shanghai Composite rose 0.4% to 3,925 on Monday, while the Shenzhen Component gained 0.8% to 13,743, as the People’s Bank of China kept its benchmark lending rates unchanged for a 16th consecutive month at record lows. The one-year loan prime rate (LPR) was maintained at 3.0%, while the five-year LPR was held at 3.5%. The decision underscored policymakers’ caution over the economic fallout from the conflict in the Middle East, although exports continued to benefit from robust AI-related demand. Still, slowing growth, subdued inflation and weak credit demand continue to provide scope for a rate cut before year-end. Meanwhile, attention remained focused on high-level US-China engagement after officials led by Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng met on Sunday to set the stage for a closely watched Trump-Xi summit. Notable gainers included Foxconn Industrial Internet (2.8%), WuXi AppTec Co (2.2%), Shennan Circuit (5%) and Chaozhou Three-Circle (5.9%)."
+    },
+    {
+      "id": "5104652",
+      "time": "2026-09-21 09:58:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念板塊拉昇，峆一藥業觸及30cm漲停】CRO概念板塊拉昇，峆一藥業觸及30cm漲停，近岸蛋白、成都先導、泓博醫藥漲超10%。"
+    },
+    {
+      "id": "5104651",
+      "time": "2026-09-21 09:57:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【餘承東：智界RX即將正式釋出】9月21日，華為常務董事、產品投資評審委員會主任、終端BG董事長餘承東發文稱，智界RX即將正式釋出。同時，家庭智慧旗艦MPV享界V8也將同步開啟預訂。"
+    },
+    {
+      "id": "5104650",
+      "time": "2026-09-21 09:57:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "te:markets:585168",
+      "time": "2026-09-21 09:57:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks Hit 2-Month High on Tech Boost — The TAIEX, Taiwan’s benchmark stock index, advanced 268 points, or 0.6%, to 47,449, rising for the fourth straight session and hitting its highest level since June 22, when the index reached a record high, mainly buoyed by gains in electronic technology, commercial services, and energy minerals. Electronic technology rose 1.0%, with TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, gaining 0.6%. Meanwhile, MediaTek and ASE Technology Holding soared 5.4% and 4.1%, respectively. The broader index tracked a rise in US stock futures after the Dow Jones recorded a third straight losing week. However, traders monitored developments in US-China relations ahead of the Trump-Xi summit on September 24. Traders also anticipated Taiwan's export orders data for August after the closing bell, following a surge in July."
+    },
+    {
+      "id": "5104649",
+      "time": "2026-09-21 09:57:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電梯概念震盪拉昇 廣日股份、康力電梯雙雙漲停】早盤電梯概念震盪拉昇，廣日股份、康力電梯雙雙漲停，滬寧股份漲近10%，上海機電、森赫股份、華菱精工、梅輪電梯漲幅靠前。"
+    },
+    {
+      "id": "mkt:01a0c1ad-d332-7118-861c-3ca6367d0d7e",
+      "time": "2026-09-21 09:56:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share tourism and hotel sector extended gains; Dalian Shengya hit the daily up-limit, while Huatian Hotel, Changbai Mountain, Xi'an Catering and Sante Cableway also rose."
+    },
+    {
+      "id": "5104648",
+      "time": "2026-09-21 09:56:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售概念表現活躍 新華百貨漲停】零售概念表現活躍，新華百貨漲停，國芳集團2連板，南寧百貨、杭州解百、國光連鎖、三江購物跟漲。"
+    },
+    {
+      "id": "mkt:01a0c1ad-5f1e-7118-861c-30e68e17e2eb",
+      "time": "2026-09-21 09:55:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Tesla robot team audits Yangtze River Delta suppliers; several firms had orders】Tesla’s robot team began factory audits last week at Yangtze River Delta suppliers including Top Group, Sanhua Intelligent Controls and Joyson Electronics, industry sources said. The firms, which supply joint modules, actuators and precision structural components, had already received orders for Tesla’s humanoid robot prior to the audits, in varying amounts. Audits will evaluate production-line quality and compliance; firms that pass are expected to begin production quickly. Visits covered Ningbo, Hangzhou and Shanghai and targeted suppliers already in Tesla’s automotive supply chain."
+    },
     {
       "id": "5104647",
       "time": "2026-09-21 09:55:32",
@@ -124405,119 +124509,6 @@
         "Greater China"
       ],
       "text": "【Preview: State Council Information Office to hold press conference on China’s August 2026 economic performance on Sept 15】The State Council Information Office will hold a press conference at 10:00 a.m. on Tuesday, Sept. 15, 2026. Fu Linghui, spokesperson, chief economist and director of the Department of Comprehensive National Economic Statistics at the National Bureau of Statistics, will present August 2026 national economic performance and take questions."
-    },
-    {
-      "id": "5092085",
-      "time": "2026-09-14 09:59:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【瑞爾特觸及跌停 上演“天地板”】瑞爾特盤中跳水觸及跌停，上演“天地板”行情，成交超3億元。該股此前走出4連板，今早以漲停價開盤。"
-    },
-    {
-      "id": "5092084",
-      "time": "2026-09-14 09:59:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "上期所原油主力合約創上市以來新高。"
-    },
-    {
-      "id": "mkt:01a09da4-0cf2-7118-8562-965acb42c20a",
-      "time": "2026-09-14 09:59:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump returned to the US mainland after concluding his trip to Ireland."
-    },
-    {
-      "id": "mkt:01a09da3-9e96-7118-8562-8dc0d8e33453",
-      "time": "2026-09-14 09:59:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "9984.T",
-        "Impact bullish"
-      ],
-      "text": "People familiar with the matter said SoftBank Group has secured $11.87 billion in financing to support its investment in OpenAI, up from a previously targeted $10 billion."
-    },
-    {
-      "id": "5092083",
-      "time": "2026-09-14 09:58:49",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【預告：國新辦將於9月15日就2026年8月份國民經濟執行情況舉行新聞釋出會】國務院新聞辦公室將於2026年9月15日（星期二）上午10時舉行新聞釋出會，請國家統計局新聞發言人、總經濟師、國民經濟綜合統計司司長付凌暉介紹2026年8月份國民經濟執行情況，並答記者問。"
-    },
-    {
-      "id": "mkt:01a09da3-3e58-7118-8562-85b60e03b365",
-      "time": "2026-09-14 09:58:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "SC crude oil most-active contract surged 10.00% intraday to 891.00 yuan/barrel."
-    },
-    {
-      "id": "5092082",
-      "time": "2026-09-14 09:58:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "結束愛爾蘭之行後，特朗普已回到美國本土。"
-    },
-    {
-      "id": "5092081",
-      "time": "2026-09-14 09:58:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲10%，現報891.00元。"
-    },
-    {
-      "id": "5092080",
-      "time": "2026-09-14 09:57:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4350美元/盎司，日內漲0.05%。"
-    },
-    {
-      "id": "5092079",
-      "time": "2026-09-14 09:57:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯利康：德曲妥珠單抗（ENHERTU）可降低肺癌疾病進展及死亡風險。"
-    },
-    {
-      "id": "5092078",
-      "time": "2026-09-14 09:56:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯利康：德曲妥珠單抗（ENHERTU）中位無進展生存期（PFS）達 14.3 個月。"
-    },
-    {
-      "id": "te:markets:583363",
-      "time": "2026-09-14 09:56:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Fall on AI Selloff — The Shanghai Composite fell 0.4% to 3,872 on Monday, while the Shenzhen Component dropped 0.8% to 13,370, dragged lower by AI-related stocks. Sentiment toward the sector deteriorated after several major AI firms called for a slowdown in the technology's development, casting doubt on one of the main drivers of this year's market rally. Meanwhile, Chinese President Xi Jinping proposed establishing a BRICS open-source AI community to deepen cooperation in developing and deploying large language models, highlighting Beijing's push to expand its influence as global competition over AI governance intensifies. Among the biggest decliners were Cambricon Technologies (-2.7%), SMIC (-1.4%), Zhongji Innolight (-3.9%), and Victory Giant Technology (-2.6%). On the economic front, investors are looking ahead to a slate of key economic data this week, including house prices, fixed-asset investment, industrial output, retail sales, unemployment, and FDI figures."
     }
   ]
 }
