@@ -1,7 +1,135 @@
 {
   "date": "2026-09-21",
-  "count": 401,
+  "count": 414,
   "items": [
+    {
+      "id": "mkt:01a0c191-a41b-7118-861b-5bdf2ddec621",
+      "time": "2026-09-21 09:25:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ChangXin G5 Enters Mass Production; Domestic DRAM Process Density Nears Global Leaders】Sept. 20 — ChangXin announced its fifth-generation DRAM platform G5 has entered mass production. G5, using quadruple-exposure DUV, raises bit density ~50% versus the prior generation and materially increases die-per-wafer, narrowing the process-density gap with international leaders. In the current memory upcycle amid tight supply, the capacity jump strengthens ChangXin’s cost competitiveness and pricing power, supporting entry into domestic flagship smartphone supply chains and enabling participation in global DDR5 and LPDDR5X cost competition. Continued G5-driven capacity expansion could lift the share of domestic semiconductor equipment to above 40%, directly increasing demand for etch and thin-film deposition tools and providing visible revenue upside for upstream suppliers."
+    },
+    {
+      "id": "5104596",
+      "time": "2026-09-21 09:25:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊漲，上證指數漲0.21%，深證成指漲0.55%，創業板指漲0.93%。"
+    },
+    {
+      "id": "mkt:01a0c191-642e-7118-861b-522917e872dd",
+      "time": "2026-09-21 09:25:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the open, China A-shares: Shanghai Composite +0.21%, Shenzhen Composite Index +0.55%, ChiNext Index +0.93%."
+    },
+    {
+      "id": "5104595",
+      "time": "2026-09-21 09:25:03",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【小摩：2026年定製AI ASIC市場規模約600億至700億美元】摩根大通最新報告預計，2027年ASIC/XPU在AI加速器單元出貨中的佔比將升至54%，超過GPU；2028年進一步升至55%。其預計，2026年定製AI ASIC市場規模約600億至700億美元，未來數年複合增速超過40%至50%。目前博通和Marvell佔據約90%的市佔，其中博通約80%至85%，市場集中度較高。"
+    },
+    {
+      "id": "mkt:01a0c190-2395-7118-861b-4c084f72ad8c",
+      "time": "2026-09-21 09:24:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【220 kV line commissioned to feed Guizhou's largest industrial project】Bijie’s 220 kV Shehua I and II return-supply power lines were recently commissioned and began transmitting electricity, opening a critical supply route for the Bijie phosphorous–coal chemical integration project — the largest industrial investment in Guizhou at about 73 billion yuan. The line will supply the project’s 220 kV Youshan user substation with stable, reliable power, supporting continuous production, the project construction command said."
+    },
+    {
+      "id": "5104594",
+      "time": "2026-09-21 09:23:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "DownDetector：使用者報告顯示美國地區Facebook和Instagram出現故障。"
+    },
+    {
+      "id": "5104593",
+      "time": "2026-09-21 09:23:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破82000美元，日內漲1.10%。"
+    },
+    {
+      "id": "mkt:01a0c18f-5d1e-7118-861b-404498967b99",
+      "time": "2026-09-21 09:23:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06727.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong IPO Xinghuan Technology (06727.HK) opened flat at HK$49 on its first trading day."
+    },
+    {
+      "id": "5104592",
+      "time": "2026-09-21 09:22:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放1,650億元人民幣。"
+    },
+    {
+      "id": "5104591",
+      "time": "2026-09-21 09:22:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股星環科技上市首日平開】港股星環科技上市首日平開，開盤價49.00元與發行價一致。星環資訊科技(上海)股份有限公司的主營業務是為資料的整合、儲存、治理、建模、分析、挖掘和流通等資料全生命週期提供基礎軟體及服務。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609213879552249",
+      "time": "2026-09-21 09:22:04",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展1650億元7天逆回購操作，操作利率為1.40%。"
+    },
+    {
+      "id": "5104590",
+      "time": "2026-09-21 09:21:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展1650億元7天逆回購操作，投標量1650億元，中標量1650億元，操作利率為1.40%。"
+    },
+    {
+      "id": "mkt:01a0c18e-2ed3-7118-861b-39ad35333381",
+      "time": "2026-09-21 09:21:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY165 billion 7-day reverse repo; tendered and allotted CNY165 billion at a 1.40% rate."
+    },
     {
       "id": "mkt:01a0c18d-74b0-7118-861b-31a629570d80",
       "time": "2026-09-21 09:21:08",

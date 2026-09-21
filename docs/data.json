@@ -1,7 +1,135 @@
 {
-  "updated": "2026-09-21 09:22:16",
-  "count": 13617,
+  "updated": "2026-09-21 09:26:07",
+  "count": 13623,
   "items": [
+    {
+      "id": "mkt:01a0c191-a41b-7118-861b-5bdf2ddec621",
+      "time": "2026-09-21 09:25:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ChangXin G5 Enters Mass Production; Domestic DRAM Process Density Nears Global Leaders】Sept. 20 — ChangXin announced its fifth-generation DRAM platform G5 has entered mass production. G5, using quadruple-exposure DUV, raises bit density ~50% versus the prior generation and materially increases die-per-wafer, narrowing the process-density gap with international leaders. In the current memory upcycle amid tight supply, the capacity jump strengthens ChangXin’s cost competitiveness and pricing power, supporting entry into domestic flagship smartphone supply chains and enabling participation in global DDR5 and LPDDR5X cost competition. Continued G5-driven capacity expansion could lift the share of domestic semiconductor equipment to above 40%, directly increasing demand for etch and thin-film deposition tools and providing visible revenue upside for upstream suppliers."
+    },
+    {
+      "id": "5104596",
+      "time": "2026-09-21 09:25:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊漲，上證指數漲0.21%，深證成指漲0.55%，創業板指漲0.93%。"
+    },
+    {
+      "id": "mkt:01a0c191-642e-7118-861b-522917e872dd",
+      "time": "2026-09-21 09:25:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the open, China A-shares: Shanghai Composite +0.21%, Shenzhen Composite Index +0.55%, ChiNext Index +0.93%."
+    },
+    {
+      "id": "5104595",
+      "time": "2026-09-21 09:25:03",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【小摩：2026年定製AI ASIC市場規模約600億至700億美元】摩根大通最新報告預計，2027年ASIC/XPU在AI加速器單元出貨中的佔比將升至54%，超過GPU；2028年進一步升至55%。其預計，2026年定製AI ASIC市場規模約600億至700億美元，未來數年複合增速超過40%至50%。目前博通和Marvell佔據約90%的市佔，其中博通約80%至85%，市場集中度較高。"
+    },
+    {
+      "id": "mkt:01a0c190-2395-7118-861b-4c084f72ad8c",
+      "time": "2026-09-21 09:24:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【220 kV line commissioned to feed Guizhou's largest industrial project】Bijie’s 220 kV Shehua I and II return-supply power lines were recently commissioned and began transmitting electricity, opening a critical supply route for the Bijie phosphorous–coal chemical integration project — the largest industrial investment in Guizhou at about 73 billion yuan. The line will supply the project’s 220 kV Youshan user substation with stable, reliable power, supporting continuous production, the project construction command said."
+    },
+    {
+      "id": "5104594",
+      "time": "2026-09-21 09:23:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "DownDetector：使用者報告顯示美國地區Facebook和Instagram出現故障。"
+    },
+    {
+      "id": "5104593",
+      "time": "2026-09-21 09:23:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破82000美元，日內漲1.10%。"
+    },
+    {
+      "id": "mkt:01a0c18f-5d1e-7118-861b-404498967b99",
+      "time": "2026-09-21 09:23:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06727.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong IPO Xinghuan Technology (06727.HK) opened flat at HK$49 on its first trading day."
+    },
+    {
+      "id": "5104592",
+      "time": "2026-09-21 09:22:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放1,650億元人民幣。"
+    },
+    {
+      "id": "5104591",
+      "time": "2026-09-21 09:22:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股星環科技上市首日平開】港股星環科技上市首日平開，開盤價49.00元與發行價一致。星環資訊科技(上海)股份有限公司的主營業務是為資料的整合、儲存、治理、建模、分析、挖掘和流通等資料全生命週期提供基礎軟體及服務。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609213879552249",
+      "time": "2026-09-21 09:22:04",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展1650億元7天逆回購操作，操作利率為1.40%。"
+    },
+    {
+      "id": "5104590",
+      "time": "2026-09-21 09:21:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展1650億元7天逆回購操作，投標量1650億元，中標量1650億元，操作利率為1.40%。"
+    },
+    {
+      "id": "mkt:01a0c18e-2ed3-7118-861b-39ad35333381",
+      "time": "2026-09-21 09:21:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY165 billion 7-day reverse repo; tendered and allotted CNY165 billion at a 1.40% rate."
+    },
     {
       "id": "mkt:01a0c18d-74b0-7118-861b-31a629570d80",
       "time": "2026-09-21 09:21:08",
@@ -124663,79 +124791,6 @@
         "Important"
       ],
       "text": "China's Longban Media resumed trading and hit the daily limit-down after a suspension; the probe that prompted the halt has been completed."
-    },
-    {
-      "id": "5091999",
-      "time": "2026-09-14 09:25:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股三大股指開盤齊跌，上證指數跌0.54%，深證成指跌1.03%，創業板指跌1.29%。"
-    },
-    {
-      "id": "mkt:01a09d84-cf48-7118-8561-a657fb5d8ed9",
-      "time": "2026-09-14 09:25:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "000001.SS",
-        "Impact bearish",
-        "399001.SZ",
-        "399006.SZ"
-      ],
-      "text": "Chinese stocks opened lower: Shanghai Composite down 0.54%, Shenzhen Composite down 1.03%, ChiNext down 1.29%. Grain, lithography equipment and crude palm oil sectors led losses."
-    },
-    {
-      "id": "5091998",
-      "time": "2026-09-14 09:25:20",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "英鎊兌美元維持在 1.3500 上方，交易員正靜待英國重要經濟資料，以及美聯儲與英國央行即將公佈的利率決議。"
-    },
-    {
-      "id": "5091997",
-      "time": "2026-09-14 09:24:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京首批算力詞元貸落地】據悉，“亦企Token（詞元）貸”首批業務日前已在北京經開區落地，授信總金額近20億元。這也是全市範圍內落地的首批算力詞元貸，為科技型初創企業開闢了一條以算力資料賦能信貸審批的融資新路徑。（北京日報）"
-    },
-    {
-      "id": "mkt:01a09d83-a661-7118-8561-9ccb5fadf2c8",
-      "time": "2026-09-14 09:24:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Beijing launches first compute-power token loans】YiQi Token (compute-token) loans' first tranche has been implemented in the Beijing Economic‑Technological Development Area, with credit lines totaling nearly 2 bln yuan. The city's first compute-token loan program targets tech startups and uses computing‑power data to inform credit underwriting, creating a new financing channel for early‑stage technology firms."
-    },
-    {
-      "id": "5091996",
-      "time": "2026-09-14 09:24:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【第3代iPhoneDuo有望實現FaceID】昨日（9 月 13 日）釋出的 Power On 簡報中，科技記者馬克 · 古爾曼（Mark Gurman）預測在未來的 iPhone Duo 摺疊手機中，蘋果將會攻克面容 ID（Face ID）和獨立長焦攝像頭。 首代 iPhone Duo 的側邊按鈕整合觸控 ID（Touch ID），影像系統包括 4800 萬畫素主攝和超廣角攝像頭。在關於後續迭代產品的發展時，古爾曼觀點如下： 我敢打賭，Face ID 和長焦攝像頭是蘋果未來 iPhone Duo 系列機型的首要任務。 這兩項功能都很難塞進如此纖薄的機身，主要原因是所需的元件需要相當大的厚度，這本質上是一個物理難題。 我猜測蘋果會在第三代產品中解決這兩個問題，但解決方案並非單純依靠物理手段。蘋果公司可能結合軟硬體，進一步縮小元件並配合 AI 技術進步，讓蘋果能夠使用更小巧、更簡單的深度感知和攝像頭硬體，同時透過計算能力來彌補部分差距。 我們將在蘋果即將推出的智慧家居中心的面部識別技術中提前一窺這種方法。 在機身空間方面，古爾曼將相關限制稱為物理問題。摺疊手機需把內部元件分配到兩塊較薄的機身中。面容 ID 的深度感測器，以及摺疊式長焦鏡頭，都需要較大的內部深度。 蘋果技術規格顯示，iPhone Duo 展開後的厚度僅為 5.2mm。這項尺寸限制意味著，現款機型未配備獨立長焦硬體和麵容 ID 系統。"
-    },
-    {
-      "id": "te:markets:583351",
-      "time": "2026-09-14 09:22:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Rises Toward 7-Week High — US gasoline prices rose to around $3.37 per gallon, nearing a seven-week high, driven by intensifying supply disruptions. Saudi Arabia’s closure of its East-West oil pipeline has compounded ongoing energy infrastructure attacks and shipping disruptions through the Strait of Hormuz, raising concerns over crude availability and refinery feedstock supplies. Disruptions along Yemen’s Red Sea coast are also constraining shipping through the Bab el-Mandeb Strait, while attacks on Russian refineries are adding to global refined-product supply risks. EIA data showed US gasoline inventories rose by 1.3 million barrels in the week ended September 4 but remained 5% below the five-year average. Fuel production also declined despite US refineries operating near full capacity, limiting their ability to boost output further even as strong refining margins incentivized refiners to maximize production. National regular gasoline averaged $4.30 a gallon on September 11, according to AAA."
     }
   ]
 }
