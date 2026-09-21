@@ -1,7 +1,34 @@
 {
   "date": "2026-09-22",
-  "count": 333,
+  "count": 336,
   "items": [
+    {
+      "id": "te:markets:585412",
+      "time": "2026-09-22 06:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Gains by 1.52% — Top commodity gainers are Copper (1.52%) and Steel Rebar (0.52%). Biggest losers are Aluminum Alloy (-1.01%) and Gold (-0.73%)."
+    },
+    {
+      "id": "5106403",
+      "time": "2026-09-22 06:33:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際移民組織：葉門近13萬人流離失所】國際移民組織21日釋出訊息說，隨著安全域性勢不斷惡化，葉門7個省近13萬人在短短几周內流離失所，其中許多人已多次流離失所。（新華社）"
+    },
+    {
+      "id": "mkt:01a0c61a-07d8-7118-8633-18bfdf484748",
+      "time": "2026-09-22 06:33:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Three people familiar with the matter said the U.S. plans to reopen a military base in southern Greenland and to build a second base in eastern Greenland."
+    },
     {
       "id": "5106402",
       "time": "2026-09-22 06:31:35",
