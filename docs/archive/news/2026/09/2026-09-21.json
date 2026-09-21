@@ -1,7 +1,106 @@
 {
   "date": "2026-09-21",
-  "count": 1734,
+  "count": 1745,
   "items": [
+    {
+      "id": "mkt:01a0c4a9-cf00-7118-862e-74c391346625",
+      "time": "2026-09-21 23:50:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Trump: Whoever wins artificial intelligence wins】US President Trump posted on social media saying warnings that AI will kill or attack people are alarmist and likened them to past climate alarmism. He declared Whoever wins AI wins and said he will not \"kill\" AI development over such concerns, arguing AI will have greater impact than the Industrial Revolution or the internet. He said the administration will be cautious and rely on the Justice Department and other law enforcement to constrain AI where necessary, but otherwise will encourage AI, including superintelligence (SI)."
+    },
+    {
+      "id": "5106198",
+      "time": "2026-09-21 23:50:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申：關於人工智慧的末日警告是一場“騙局”。"
+    },
+    {
+      "id": "5106197",
+      "time": "2026-09-21 23:49:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及人工智慧：我們會保持謹慎，必要時會加以控制。我只會鼓勵人工智慧的發展。"
+    },
+    {
+      "id": "mkt:01a0c4a8-c64c-7118-862e-6dfe93631733",
+      "time": "2026-09-21 23:49:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Russian Railways has received the first batch of grain moved from southern Russia to the port of Murmansk, planned for export in October."
+    },
+    {
+      "id": "mkt:01a0c4a8-a11c-7118-862e-60dc2c58dd8c",
+      "time": "2026-09-21 23:49:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said applications to ship grain by rail to Ultramar's Baltic terminal in September totaled about 260,000 tonnes."
+    },
+    {
+      "id": "mkt:01a0c4a8-6f7b-7118-862e-5ef665d1a407",
+      "time": "2026-09-21 23:49:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: As Black Sea shipping stalls, Russian firms including Ultramar are converting fertilizer and coal terminals at Baltic and Arctic ports to handle grain exports."
+    },
+    {
+      "id": "5106196",
+      "time": "2026-09-21 23:49:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：隨著黑海地區出貨停滯，俄羅斯企業正將波羅的海和北極港口的化肥及煤炭碼頭（包括Ultramar碼頭）改造為糧食出口樞紐。據行業訊息人士透露，9月份透過鐵路發往波羅的海Ultramar碼頭的糧食運輸申請量已達約26萬噸。俄羅斯鐵路公司接收首批從俄南部發往摩爾曼斯克港的糧食，計劃於10月份出口。"
+    },
+    {
+      "id": "5106195",
+      "time": "2026-09-21 23:48:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：Grok 4.7 現已透過 Cursor、Grok Build、API、第三方呼叫框架以及各大雲平臺全面開放使用。"
+    },
+    {
+      "id": "mkt:01a0c4a6-e347-7118-862e-51e5151bbcdd",
+      "time": "2026-09-21 23:47:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SpacexAI launches Grok 4.7, saying it is twice as fast as comparable products and priced at half the cost."
+    },
+    {
+      "id": "5106194",
+      "time": "2026-09-21 23:47:38",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceXAI：SpaceXAI 釋出 Grok 4.7，速度翻倍，價格僅為同類模型的一半。Grok 4.7 定價為每百萬輸入 Token 2美元，每百萬輸出 Token 6美元。"
+    },
+    {
+      "id": "te:markets:585375",
+      "time": "2026-09-21 23:47:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises on Monday — The FTSE 100 rose 0.8% on Monday, recovering from a 1.5% decline on Friday as falling oil prices eased concerns over persistent inflation and improved global risk appetite. Oil extended its losses into a fourth session on hopes of diplomatic progress in the Middle East ahead of this week’s UN meeting. Banks led the gains, with HSBC up 1.7%, Barclays 1.8%, Lloyds Banking Group 1.1%, NatWest 1.5% and Standard Chartered 1.8%. Mining stocks also advanced as copper prices gained on expectations of tighter supply and signs of resilient Chinese demand, with Antofagasta rising 3.5% and Anglo American 2.6%. JD Sports climbed 0.8% after announcing a long-term franchise partnership with Mexico’s Grupo Axo, marking its first entry into the Mexican market. In contrast, oil majors declined as crude prices fell to their lowest level in recent weeks, with BP down 3% and Shell losing 1.3%."
+    },
     {
       "id": "te:markets:585373",
       "time": "2026-09-21 23:46:35",
