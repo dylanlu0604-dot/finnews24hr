@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-22 06:40:34",
-  "count": 13447,
+  "updated": "2026-09-22 06:44:23",
+  "count": 13449,
   "items": [
+    {
+      "id": "5106408",
+      "time": "2026-09-22 06:42:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）：Mattessich兩年後可重新申請重返證券行業。"
+    },
+    {
+      "id": "5106407",
+      "time": "2026-09-22 06:42:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）禁止前Cantor Fitzgerald交易員Mattessich進入證券行業。"
+    },
+    {
+      "id": "mkt:01a0c621-a81a-7118-8633-26c55e4be2a0",
+      "time": "2026-09-22 06:41:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Sources: U.S. to establish two military presences in Greenland; NATO to take Arctic security oversight】Three sources said the U.S. plans to reopen a Cold War-era base in southern Greenland and establish a military presence at an east-coast site currently used by Danish patrols; two sources identified the sites as Narsarsuaq and Mestersvig. The U.S., Denmark and Greenland are expected to sign the agreement at the U.N. General Assembly in New York on Tuesday at 10:30 a.m. ET (22:30 Beijing). Denmark said the deal places Arctic security under NATO oversight rather than solely under a U.S.-Denmark bilateral arrangement."
+    },
+    {
+      "id": "5106406",
+      "time": "2026-09-22 06:40:50",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳大利亞央行經濟學家表示，利率可能需要再次上調。"
+    },
+    {
+      "id": "te:markets:585413",
+      "time": "2026-09-22 06:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Barley Gains by 4.00% — Top commodity gainers are Barley (4%) and Corn (2.94%). Biggest losers are Coffee (-2.15%), Butter (-1.17%) and Palm Oil (-0.84%)."
+    },
     {
       "id": "5106405",
       "time": "2026-09-22 06:39:38",
@@ -123141,33 +123186,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: XRP Appreciates largely by 7.52% — Top crypto gainers are XRP (7.52%), Ether (2.57%) and Bitcoin (2.39%)."
-    },
-    {
-      "id": "mkt:01a0a215-d51f-7118-8580-6202d8d55e91",
-      "time": "2026-09-15 06:42:14",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) said it will continue working with New Mexico to advance its data center project; a court stay affects only the microgrid permit and does not apply to the data center."
-    },
-    {
-      "id": "5093931",
-      "time": "2026-09-15 06:41:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加州州長紐森排除2028年對決哈里斯：她若參選總統我就放棄角逐】美國加州州長加文·紐森表示，如果前副總統卡瑪拉·哈里斯參加2028年總統大選，他將不會參選，從而排除了這兩位加州最知名的民主黨人可能在黨內初選中正面交鋒的情況。“我不知道她是否會參選，我們拭目以待，”紐森在週一釋出的一段影片中接受採訪時表示。“但如果她參選，我就不會參選。”紐森受任期限制無法再次競選州長，但他已公開承認考慮競選總統，並不斷提升在全美的知名度，包括在中期選舉前去往北卡羅來納州等搖擺州參與競選活動。紐森暗示，如果他與哈里斯同場競爭，將會降低雙方勝選的機會。"
-    },
-    {
-      "id": "5093930",
-      "time": "2026-09-15 06:40:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【供需偏緊持續推升電子布價格】據證券日報，電子布市場延續漲價態勢。卓創資訊9月最新資料顯示，近期國內電子紗市場主流產品G75及7628電子布價格漲幅明顯，多數廠商針對部分高階型號電子紗價格提漲幅度進一步加大。9月4日至10日，電子紗G75主流市場成交價格在22800元/噸至24000元/噸不等，成交均價在23137.50元/噸上下，較上一週均價上漲3.35%；7628電子布成交價格在11.5元/米至12.1元/米不等，部分中小客戶及新訂單提貨價格較高。北京止於至善投資管理有限公司總經理何理對記者表示：“電子布漲價的核心原因是AI帶動需求升級，而有效供給擴張未能及時跟上。高階AI伺服器PCB層數增加，單臺電子布用量約為傳統伺服器的3倍至5倍；廠商又將裝置、資金等資源向薄布、低介電布等高附加值產品傾斜，使普通電子布供給也受到擠壓。”"
     }
   ]
 }

@@ -1,7 +1,52 @@
 {
   "date": "2026-09-22",
-  "count": 338,
+  "count": 343,
   "items": [
+    {
+      "id": "5106408",
+      "time": "2026-09-22 06:42:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）：Mattessich兩年後可重新申請重返證券行業。"
+    },
+    {
+      "id": "5106407",
+      "time": "2026-09-22 06:42:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）禁止前Cantor Fitzgerald交易員Mattessich進入證券行業。"
+    },
+    {
+      "id": "mkt:01a0c621-a81a-7118-8633-26c55e4be2a0",
+      "time": "2026-09-22 06:41:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Sources: U.S. to establish two military presences in Greenland; NATO to take Arctic security oversight】Three sources said the U.S. plans to reopen a Cold War-era base in southern Greenland and establish a military presence at an east-coast site currently used by Danish patrols; two sources identified the sites as Narsarsuaq and Mestersvig. The U.S., Denmark and Greenland are expected to sign the agreement at the U.N. General Assembly in New York on Tuesday at 10:30 a.m. ET (22:30 Beijing). Denmark said the deal places Arctic security under NATO oversight rather than solely under a U.S.-Denmark bilateral arrangement."
+    },
+    {
+      "id": "5106406",
+      "time": "2026-09-22 06:40:50",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳大利亞央行經濟學家表示，利率可能需要再次上調。"
+    },
+    {
+      "id": "te:markets:585413",
+      "time": "2026-09-22 06:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Barley Gains by 4.00% — Top commodity gainers are Barley (4%) and Corn (2.94%). Biggest losers are Coffee (-2.15%), Butter (-1.17%) and Palm Oil (-0.84%)."
+    },
     {
       "id": "5106405",
       "time": "2026-09-22 06:39:38",
