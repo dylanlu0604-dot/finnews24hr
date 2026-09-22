@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-23 04:19:13",
+  "updated": "2026-09-23 04:22:57",
   "count": 13427,
   "items": [
+    {
+      "id": "5108569",
+      "time": "2026-09-23 04:22:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：歐洲央行利率目前仍處於中性區間，不排除後續需要小幅轉入限制性區間。"
+    },
+    {
+      "id": "mkt:01a0cac7-358b-7118-8650-6e94054054d3",
+      "time": "2026-09-23 04:20:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "【SEC considers tightening shareholder-proposal rules; Microsoft to keep current submission threshold for one year】Microsoft (MSFT.O) will continue to consider shareholder proposals under its existing submission threshold through next year’s annual meeting under a one-year agreement with investor-rights activist Paul Chesser. The move comes as the SEC weighs tightening shareholder-proposal rules—changes critics say would marginalize retail investors, religious groups and unions—and could blunt efforts to shift power from shareholders to executives. Microsoft said maintaining the current eligibility threshold for one year will provide a clear, predictable process for the next proxy cycle."
+    },
+    {
+      "id": "mkt:01a0cac6-9756-7118-8650-6325a3dbf87a",
+      "time": "2026-09-23 04:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "US API weekly crude inventories for the week to Sept. 18 due in 10 minutes."
+    },
     {
       "id": "5108568",
       "time": "2026-09-23 04:16:22",
@@ -122441,41 +122477,6 @@
         "AI Revolution"
       ],
       "text": "【U.S. House Speaker Johnson says leading AI executives to attend White House meeting】House Speaker Johnson said he spoke with Trump Monday night and they are convening top executives from AI suppliers — \"all the big names\" — at the White House in the coming week for an important meeting. Johnson said AI guardrails must be balanced and carefully considered, called for independent audit bodies and developer transparency, and said there are several concrete ideas that could serve as safeguards."
-    },
-    {
-      "id": "5095984",
-      "time": "2026-09-16 04:22:36",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "黎巴嫩駐美大使與以色列駐美大使在美國國務院總部舉行會談。"
-    },
-    {
-      "id": "te:markets:583974",
-      "time": "2026-09-16 04:22:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips as Bond Yields Rise — The S&P/TSX Composite Index fell 0.3% to close at 35,582 on Tuesday amid surging oil prices and elevated bond yields. Domestic 10-year government bond yields approached the 4% threshold, remaining near their highest level since 2007. The prospect of higher interest rates pressured credit-sensitive stocks, with the Federal Reserve set to raise its policy rate by 25 basis points on Wednesday. Financials posted losses, with TD Bank down 0.5%, CIBC shedding 0.6% and National Bank falling 1.3%. The mining sector closed mostly lower amid softer gold prices. Retailers posted sharp losses, with ATD down 2.7% and Loblaw falling 2.3%. Meanwhile, Prime Minister Mark Carney unveiled immediate tax write-offs for most new capital investments in an effort to spur growth and attract foreign capital. Carney is welcoming dozens of global investors to Toronto this week, seeking investment in key projects amid the trade war with the US."
-    },
-    {
-      "id": "mkt:01a0a6ba-1c0e-7118-85a3-92da7d4d5830",
-      "time": "2026-09-16 04:20:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "U.S. API weekly crude inventories for the week to Sept. 11 will be released in 10 minutes."
     }
   ]
 }

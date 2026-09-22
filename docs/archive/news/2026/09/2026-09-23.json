@@ -1,7 +1,43 @@
 {
   "date": "2026-09-23",
-  "count": 400,
+  "count": 403,
   "items": [
+    {
+      "id": "5108569",
+      "time": "2026-09-23 04:22:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：歐洲央行利率目前仍處於中性區間，不排除後續需要小幅轉入限制性區間。"
+    },
+    {
+      "id": "mkt:01a0cac7-358b-7118-8650-6e94054054d3",
+      "time": "2026-09-23 04:20:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "【SEC considers tightening shareholder-proposal rules; Microsoft to keep current submission threshold for one year】Microsoft (MSFT.O) will continue to consider shareholder proposals under its existing submission threshold through next year’s annual meeting under a one-year agreement with investor-rights activist Paul Chesser. The move comes as the SEC weighs tightening shareholder-proposal rules—changes critics say would marginalize retail investors, religious groups and unions—and could blunt efforts to shift power from shareholders to executives. Microsoft said maintaining the current eligibility threshold for one year will provide a clear, predictable process for the next proxy cycle."
+    },
+    {
+      "id": "mkt:01a0cac6-9756-7118-8650-6325a3dbf87a",
+      "time": "2026-09-23 04:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "US API weekly crude inventories for the week to Sept. 18 due in 10 minutes."
+    },
     {
       "id": "5108568",
       "time": "2026-09-23 04:16:22",
