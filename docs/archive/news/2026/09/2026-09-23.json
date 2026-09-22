@@ -1,7 +1,95 @@
 {
   "date": "2026-09-23",
-  "count": 344,
+  "count": 354,
   "items": [
+    {
+      "id": "mkt:01a0caa2-aa77-7118-864f-b3b735cb6cfe",
+      "time": "2026-09-23 03:40:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump says he is pushing to restore unimpeded oil transit through the Strait of Hormuz."
+    },
+    {
+      "id": "5108544",
+      "time": "2026-09-23 03:40:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：可能不得不炸燬鎬山。暫未觀測到鎬山相關活動，但一旦發現就會發動打擊。"
+    },
+    {
+      "id": "mkt:01a0caa2-5c6d-7118-864f-af8ed5434696",
+      "time": "2026-09-23 03:40:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said he hopes Iran will make the right choice soon, warning that one day it will be too late."
+    },
+    {
+      "id": "5108543",
+      "time": "2026-09-23 03:39:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆談及福克蘭群島：面對任何威脅，我們都將堅定立場，捍衛福克蘭群島居民的自決權以及繼續作為英國屬地的權利。已與特朗普討論福克蘭群島問題，闡明瞭英國立場。"
+    },
+    {
+      "id": "5108542",
+      "time": "2026-09-23 03:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望伊朗能儘快採取正確行動。"
+    },
+    {
+      "id": "mkt:01a0caa0-4b66-7118-864f-a3afd2e384e3",
+      "time": "2026-09-23 03:38:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Turkey's central bank governor said the underlying trend of inf has slowed recently."
+    },
+    {
+      "id": "mkt:01a0caa0-1aa7-7118-864f-9b5d706fe54d",
+      "time": "2026-09-23 03:38:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil falls on 22nd】NYMEX October light sweet crude (WTI) settled down $1.19 at $94.59/bbl, a 1.24% decline. ICE Brent November crude settled down $1.09 at $99.25/bbl, a 1.09% decline."
+    },
+    {
+      "id": "mkt:01a0ca9f-c819-7118-864f-93d6b2d1e3d4",
+      "time": "2026-09-23 03:37:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Turkish central bank governor says international reserves buffer remains strong."
+    },
+    {
+      "id": "mkt:01a0ca9f-ab76-7118-864f-8c10f9c42122",
+      "time": "2026-09-23 03:37:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish central bank governor said external shocks and domestic transmission channels will affect future inf."
+    },
     {
       "id": "mkt:01a0ca9f-7449-7118-864f-84f04f7b8218",
       "time": "2026-09-23 03:37:22",
@@ -9,6 +97,14 @@
         "MKT News"
       ],
       "text": "Turkey's central bank governor said inflation expectations require continued caution."
+    },
+    {
+      "id": "5108541",
+      "time": "2026-09-23 03:37:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價22日下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌1.19美元，收於每桶94.59美元，跌幅為1.24%；11月交貨的倫敦布倫特原油期貨價格下跌1.09美元，收於每桶99.25美元，跌幅為1.09%。"
     },
     {
       "id": "mkt:01a0ca9f-36ae-7118-864f-78d1e449148b",
