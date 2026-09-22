@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-22 15:03:28",
-  "count": 13271,
+  "updated": "2026-09-22 15:07:16",
+  "count": 13263,
   "items": [
+    {
+      "id": "5107098",
+      "time": "2026-09-22 15:05:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "捷豹路虎北美有限責任公司正在召回部分美國在售車輛，因為行駛動力喪失會增加撞車風險。"
+    },
+    {
+      "id": "5107097",
+      "time": "2026-09-22 15:05:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "捷豹路虎北美有限責任公司將在美國召回23,677輛汽車。"
+    },
+    {
+      "id": "5107096",
+      "time": "2026-09-22 15:04:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬來西亞總理安瓦爾等外國領導人將出席第48屆世界技能大賽和第五屆全球數字貿易博覽會】外交部發言人宣佈：第48屆世界技能大賽將於9月22日至27日在上海舉行。第五屆全球數字貿易博覽會將於9月23日至27日在浙江杭州舉行。應中方邀請，馬來西亞總理安瓦爾將出席世界技能大賽開幕式和全球數字貿易博覽會啟動儀式，吉爾吉斯斯坦總理卡瑟馬利耶夫將出席全球數字貿易博覽會啟動儀式。"
+    },
+    {
+      "id": "5107095",
+      "time": "2026-09-22 15:04:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "愛立信股價早盤下跌2.6%。"
+    },
+    {
+      "id": "5107094",
+      "time": "2026-09-22 15:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀執行長埃爾莫蒂：90%的普通股一級資本（CET1）要求本質上與100%資本擔保效果一致。"
+    },
+    {
+      "id": "5107093",
+      "time": "2026-09-22 15:04:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "M&C SAATCHI股價下跌8.2%，此前公佈上半年業績，營收下降1.4%。"
+    },
+    {
+      "id": "5107092",
+      "time": "2026-09-22 15:04:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓正將出席第81屆聯合國大會一般性辯論】外交部發言人宣佈：國家副主席韓正將於9月24日至26日赴紐約出席第81屆聯合國大會一般性辯論。與會期間，韓正副主席還將出席中方舉辦的全球發展倡議5週年高階別對話會，會見聯合國秘書長、第81屆聯大主席及有關國家領導人。"
+    },
+    {
+      "id": "5107091",
+      "time": "2026-09-22 15:03:23",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "【小鵬機器人已完成供應鏈審廠及核心零部件定點】從訊息人士處獨家獲悉，小鵬機器人已完成供應鏈審廠及核心零部件定點，量產程序進一步推進。（澎湃新聞）"
+    },
+    {
+      "id": "5107090",
+      "time": "2026-09-22 15:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門釋出宣告，就奈季蘭地區潛在安全風險發出警報；目前危險警報已解除。"
+    },
+    {
+      "id": "5107089",
+      "time": "2026-09-22 15:02:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利奢侈品牌菲拉格慕股價在早盤交易中下跌2.8%。"
+    },
     {
       "id": "5107088",
       "time": "2026-09-22 15:02:20",
@@ -121144,166 +121228,6 @@
         "國際"
       ],
       "text": "韓國央行會議紀要：另一位成員表示，未來加息的時機需要根據通脹和能源供應鏈的恢復進行調整。"
-    },
-    {
-      "id": "mkt:01a0a3e3-77f6-7118-858d-116bba35a48f",
-      "time": "2026-09-15 15:06:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Bank of Korea minutes: another member said the timing of future rate hikes should be adjusted based on inf and the recovery of energy supply chains."
-    },
-    {
-      "id": "5094603",
-      "time": "2026-09-15 15:06:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局 (NHTSA) 報告稱，福特汽車公司將召回 2711 輛美國車輛。"
-    },
-    {
-      "id": "5094602",
-      "time": "2026-09-15 15:06:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局：福特汽車公司提交召回86輛美國車輛的檔案。"
-    },
-    {
-      "id": "te:economy:583760",
-      "time": "2026-09-15 15:06:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Hungary Industrial Output Slows Sharply in July — Industrial production in Hungary increased 4.7% year-on-year in July 2026, easing from the 10.1% growth recorded in June. The slowdown was mainly reflected in manufacturing (4.9% vs 10.8% in June), wherein transport equipment manufacturing (18.0% vs 21.0%) and computer, electronic and optical products (19.7% vs 49.7%) eased but remained a key source of growth. In contrast, chemicals and chemical products accelerated (15.0% vs. 12.6%), as did coke and refined petroleum products (7.2% vs. 5.4%). Meanwhile, food, beverages and tobacco products remained in contraction (-2.3% vs. -1.5%), while electrical equipment deteriorated further (-6.0% vs. 1.8%). On a seasonally and working-day adjusted monthly basis, industrial output rose 1.7% in July, reversing a 1.4% decline in June. Over the first seven months of 2026, industrial production was 2.7% higher than in the same period of 2025."
-    },
-    {
-      "id": "5094601",
-      "time": "2026-09-15 15:05:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國民航管理局：針對影響較小的空域調整簡化規定，旨在削減官僚冗餘流程，同時保持強有力的安全監管。"
-    },
-    {
-      "id": "mkt:01a0a3e2-a8b2-7118-858d-0b15a843f6ca",
-      "time": "2026-09-15 15:05:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Bank of Korea minutes: another member said that after assessing the impact of rising borrowing costs on corporates, it would be necessary to decide on future rate hikes."
-    },
-    {
-      "id": "5094600",
-      "time": "2026-09-15 15:05:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華福證券：維持兗礦能源“買入”評級，煤炭量穩價增，煤化工改善顯著】華福證券研報指出，兗礦能源煤炭量穩價增，煤化工改善顯著。上半年歸母淨利潤71.50億元，同比+47.8%；2026Q2公司實現歸母淨利潤31.95億元，同比+55.3%。西北礦業並表增厚業績，中期分紅與回購並舉，高股息價值進一步凸顯。2026H1公司煤價回升帶動煤炭板塊盈利修復，煤化工毛利率顯著提升，西北礦業並表進一步擴充資源與產能規模，預計2026-2028年公司歸母淨利潤分別為181/199/218億元（維持原值），對應EPS為1.80/1.98/2.18元/股。公司作為國內動力煤龍頭企業，境內外資源稟賦突出，煤化工產業鏈完整，國際化運營經驗豐富，維持“買入”評級。"
-    },
-    {
-      "id": "5094599",
-      "time": "2026-09-15 15:05:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行會議紀要：另一位委員表示，在評估借貸成本上升對企業的影響後，有必要就未來的加息問題做出決定。"
-    },
-    {
-      "id": "mkt:01a0a3e2-3c96-7118-858d-04f18ffac9b8",
-      "time": "2026-09-15 15:05:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Brazil presidential chief special adviser Amorim to visit China】China's Foreign Ministry said Brazilian presidential chief special adviser Amorim will visit China Sept. 16-17 and will meet with Politburo member and director of the Central Foreign Affairs Commission Office Wang Yi."
-    },
-    {
-      "id": "mkt:01a0a3e2-3361-7118-858c-fc193465f7fa",
-      "time": "2026-09-15 15:05:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【A-share turnover ties intra-year low at CNY1.6253 tln】At close, combined turnover on Shanghai, Shenzhen and Beijing bourses was CNY1.6253 tln, down CNY17.7 bln from the prior session, matching the year’s lowest single-day turnover recorded on April 7, 2026 (CNY1.6253 tln)."
-    },
-    {
-      "id": "5094598",
-      "time": "2026-09-15 15:04:55",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【巴西總統首席特別顧問阿莫林將訪華】外交部發言人宣佈：巴西總統首席特別顧問阿莫林將於9月16日至17日訪華，中共中央政治局委員、中央外事工作委員會辦公室主任王毅將同其舉行會見。（外交部）"
-    },
-    {
-      "id": "mkt:01a0a3e1-def4-7118-858c-f14328a494ab",
-      "time": "2026-09-15 15:04:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi state TV said Saudi civil defense issued warnings of potential danger in KHAMIS MUSHAIT and ABHA areas."
-    },
-    {
-      "id": "mkt:01a0a3e1-dd57-7118-858c-eb768a83477a",
-      "time": "2026-09-15 15:04:43",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Upgraded Zhuque-2 Yao-7 launch vehicle sends 10 satellites to orbit】At 14:26 on Sept 15, an upgraded Zhuque-2 Yao-7 launch vehicle lifted off from the Dongfeng Commercial Aerospace innovation test zone, successfully placing ten Qianfan Polar-19 satellites into their planned polar orbits. The flight test was completed successfully."
-    },
-    {
-      "id": "5094597",
-      "time": "2026-09-15 15:04:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門警告哈米斯穆沙伊特和艾卜哈地區存在潛在危險。"
-    },
-    {
-      "id": "5094596",
-      "time": "2026-09-15 15:04:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行會議紀要：理事黃榮敏表示，需關注那些易受借貸成本上升衝擊的弱勢群體。"
-    },
-    {
-      "id": "mkt:01a0a3e0-f903-7118-858c-e2cc0cdf8c78",
-      "time": "2026-09-15 15:03:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea minutes: Board member Hwang Kun-Il said the won's appreciation against the U.S. dollar has reduced the extent of financial easing."
-    },
-    {
-      "id": "5094595",
-      "time": "2026-09-15 15:03:41",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【彭清華出席慶祝中國－東盟建立全面戰略伙伴關係5週年暨中國－東盟建立對話關係35週年招待會】9月15日，中國人民對外友好協會與東盟北京委員會在京共同舉辦慶祝中國－東盟建立全面戰略伙伴關係5週年暨中國－東盟建立對話關係35週年招待會。全國人大常委會副委員長彭清華、東盟秘書長高金洪、東盟各國駐華使節等出席。（新華社）"
-    },
-    {
-      "id": "mkt:01a0a3e0-d1c9-7118-858c-dd0f93c28e5f",
-      "time": "2026-09-15 15:03:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【2026 Global Business Rule of Law Conference declaration released】The China Council for the Promotion of International Trade released a declaration at the 2026 Global Business Rule of Law Conference in Haikou. Former WTO Appellate Body chair Peter van den Bossche urged rapid international consensus on AI regulation, citing cross‑border risks, saying many issues exceed single‑country oversight and require both domestic and international rules to prevent AI from harming people and firms."
     }
   ]
 }
