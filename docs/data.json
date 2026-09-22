@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-23 07:15:05",
+  "updated": "2026-09-23 07:18:55",
   "count": 13423,
   "items": [
+    {
+      "id": "5108635",
+      "time": "2026-09-23 07:17:58",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股指期貨走高 韓國綜合指數有望接力美股儲存晶片股漲勢】受隔夜美國半導體及儲存板塊上漲提振，韓國股市週三料高開。韓國綜合指數週二尾盤迴落，在週四韓國休市前，該指數需要在放量的基礎上守住早盤漲幅，才能確認本輪初步反彈具備持續性。科技股領漲的交易日中，美光與閃迪躋身標普 500 指數漲幅貢獻前三。大盤基準指數收盤持平，但費城半導體指數漲幅超 2%，儲存晶片板塊整體上漲 4.3%。韓國股指期貨走高，本土儲存巨頭有望跟隨上漲。在有利於提振風險偏好的背景下，納斯達克100指數期貨週三早盤走高，而WTI原油期貨則進一步回落。在韓國迎來假期以及美光科技（Micron）下週公佈財報之際，過去幾周海外資金的大幅拋售使得離岸賬戶處於低位，它們正蓄勢在季末前重新建倉。"
+    },
+    {
+      "id": "5108634",
+      "time": "2026-09-23 07:17:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI基礎設施服務商登陸港股 科技硬體仍是後市重要投資主線】日前，企業級AI基礎設施領域服務商星環科技登陸港股市場，又一家A股上市公司以“A+H”模式完成赴港上市。Wind資料顯示，截至9月22日，今年以來已有35家A股上市公司成功赴港上市，募資超2400億港元，貢獻了新股數量的三成以上、募資總額的六成以上，成為今年以來港股IPO市場的“主力軍”。從二級市場表現看，今年以來港股整體呈現震盪調整態勢，近幾個交易日市場主要股指出現反彈。在業內人士看來，短期港股或維持區間震盪態勢，結構性機會仍集中在科技硬體和高股息資產，其中AI基礎設施、半導體和硬體裝置的產業景氣度仍然較高，但後續市場可能進一步由“資本開支擴張的受益方”轉向“資本開支回報能夠實際兌現的方向”。（中國證券報）"
+    },
+    {
+      "id": "5108633",
+      "time": "2026-09-23 07:17:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【從“回爐”到“減負”，公募投研人才雙向流動常態化】近日的一份公告，讓“回爐”與“減負”成為公募基金圈的熱詞。景順長城基金髮布的公告顯示，劉彥春因工作調整卸任公司副總經理，未來繼續擔任基金經理，專注於投資管理。看似一次常規的高管變更，背後卻折射出公募投研人才流動的新趨勢——能上能下、雙向流動正從個案走向常態。過去，公募投研人才的職業路徑往往被視作一條單行道：研究員積累經驗後晉升基金經理，業績突出者再走上管理崗位。如今，這條單行道正在被更靈活、更多元的雙向通道取代。（中證報）"
+    },
     {
       "id": "5108632",
       "time": "2026-09-23 07:14:31",
@@ -122457,34 +122484,6 @@
         "國際"
       ],
       "text": "【中國呼籲推動小堆創新 加強全球核能合作】在國際原子能機構第70屆大會期間，中國14日主辦“聚力小堆創新，共創核美家園”主題邊會，聚焦加強全球範圍內小型模組化反應堆（小堆）國際合作，推動技術創新、標準協調、能力建設及相關推廣應用，為全球氣候治理和可持續發展提供助力。 邊會期間，中方發起全球小堆創新合作倡議。(新華社)"
-    },
-    {
-      "id": "5096111",
-      "time": "2026-09-16 07:18:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "布魯克菲爾德同意以每股3.38美元的現金價格收購RELIANCE WORLDWIDE。"
-    },
-    {
-      "id": "te:economy:583990",
-      "time": "2026-09-16 07:16:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "New Zealand Q3 Consumer Mood Improves from 3-Year Low — New Zealand's Westpac McDermott Miller Consumer Confidence Index increased to 89.5 in Q3 2026 from 80.4 in the previous quarter, which was its lowest level since 2023. However, the latest reading remained in pessimism territory, amid concerns over higher fuel prices, interest rates, and living costs. The sentiment improved but remained subdued, with lower petrol prices compared with the eye-watering highs seen earlier this year providing some relief, despite households continuing to cut back on dining out and entertainment and delaying major purchases."
-    },
-    {
-      "id": "mkt:01a0a75a-5dd2-7118-85a5-1eaec0ee9e39",
-      "time": "2026-09-16 07:15:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. House voted 232-147 to reject Rep. Al Green's motion to impeach Trump, the third failed impeachment attempt in two years."
     }
   ]
 }
