@@ -1,7 +1,129 @@
 {
-  "updated": "2026-09-23 00:07:48",
-  "count": 13298,
+  "updated": "2026-09-23 00:11:50",
+  "count": 13304,
   "items": [
+    {
+      "id": "te:markets:585779",
+      "time": "2026-09-23 00:11:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.01% Higher — The DAX Index went up by 4 points or 0.01 percent on Tuesday to close at 25579 points. The rise was led by Zalando (4.13%), Infineon (2.93%) and Symrise (2.72%). On the downside, the weakerst performers were Allianz (-3.35%), Rheinmetall (-2.33%) and Deutsche Bank (-1.66%)."
+    },
+    {
+      "id": "te:markets:585778",
+      "time": "2026-09-23 00:10:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.20% Higher — The CAC 40 Index rose 16 points or 0.20 percent on Tuesday to close at 8155 points. Leading the gains are STMicroelectronics (4.82%), Bureau Veritas (2.39%) and Essilor (2.32%). Top losers were Orange (-3.76%), AXA (-2.05%) and Societe Generale (-1.75%)."
+    },
+    {
+      "id": "mkt:01a0c9e1-401d-7118-864b-0e143f810daa",
+      "time": "2026-09-23 00:09:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "FITCH expects Brent crude prices to decline once flows resume in Saudi Arabia's East-West pipeline."
+    },
+    {
+      "id": "5108336",
+      "time": "2026-09-23 00:09:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠譽評級：預計東西輸油管道運力恢復後布倫特油價將下跌。"
+    },
+    {
+      "id": "te:markets:585777",
+      "time": "2026-09-23 00:08:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Edges Higher on Lower Oil Prices — The CAC 40 gained 0.2% to close at 8,155 on Tuesday, buoyed by a pullback in energy costs that eased concerns over inflationary pressures. Oil prices extended their losses ahead of potential US-Iran talks at this week’s UN meeting. Iran reportedly offered to reopen the Strait of Hormuz within seven days if the US takes initial steps to ease military pressure. The pullback in the oil rally, which has fueled inflationary pressures and prompted major central banks to raise interest rates, lent support to equities. Luxury shares closed mostly higher amid lower risk aversion, with L’Oreal up 1.5%, Hermes rising 0.8%, and Kering adding 1.5%. Industrial stocks were mostly above the flatline, with STMicroelectronics jumping 4.4%, Air Liquide gaining 1.3%, and EssilorLuxottica rising 2.3%. Meanwhile, Orange tumbled 4.1% amid news of a stake acquisition in Biolevate. TotalEnergies lost 0.5% on lower oil prices. Financials also closed mostly lower."
+    },
+    {
+      "id": "mkt:01a0c9e0-5c37-7118-864b-0525c1d35115",
+      "time": "2026-09-23 00:08:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM News, citing Pakistani television, reports Pakistan's military is conducting a two-week joint exercise with Russian and Omani forces."
+    },
+    {
+      "id": "5108335",
+      "time": "2026-09-23 00:08:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦陸軍與俄羅斯、阿曼軍隊開展為期兩週聯合演習。"
+    },
+    {
+      "id": "mkt:01a0c9df-c9fd-7118-864a-ff20ee1d0bab",
+      "time": "2026-09-23 00:08:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "FITCH raised TTF gas price forecasts after LNG flows through the Strait of Hormuz were disrupted."
+    },
+    {
+      "id": "mkt:01a0c9df-7cbd-7118-864a-f1d1a3d67f68",
+      "time": "2026-09-23 00:07:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "FITCH kept its 2026 Brent crude forecast at $87/bbl and raised its 2027 forecast to $70/bbl."
+    },
+    {
+      "id": "5108334",
+      "time": "2026-09-23 00:07:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：因霍爾木茲海峽天然氣液化運輸受阻，上調了荷蘭所有權轉讓中心（TTF）天然氣價格假設。"
+    },
+    {
+      "id": "5108333",
+      "time": "2026-09-23 00:07:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級將2027年布倫特油價預測上調至每桶70美元。"
+    },
+    {
+      "id": "5108332",
+      "time": "2026-09-23 00:07:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級上調2027年油價假設以及2026-2027年TTF天然氣價格假設。"
+    },
     {
       "id": "5108331",
       "time": "2026-09-23 00:07:04",
@@ -121283,70 +121405,6 @@
         "Importance 1"
       ],
       "text": "The FTSE MIB Index Closes 0.14% Lower — The FTSE MIB Index dropped 74 points or 0.14 percent on Tuesday to close at 51555 points. Losses were led by UniCredit (-2.34%), Moncler (-1.69%) and Bper Banca (-1.66%). Offsetting the fall, top gainers were Tenaris (3.34%), Terna Rete Elettrica Nazionale (2.76%) and Saipem (1.76%)."
-    },
-    {
-      "id": "5095818",
-      "time": "2026-09-16 00:11:39",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【LVMH，曾經的歐洲市值第一股，跌出前十】LVMH集團失去了法國市值最高公司的桂冠，並跌出歐洲市值前十的上市公司行列。對於這家在後疫情時代繁榮期領跑歐洲市場的奢侈品巨頭而言，這是一次標誌性的逆轉。該股週二下跌2.6%，市值縮水至2010億歐元（2320億美元），滑落至歐萊雅之下。這一變動使LVMH自2017年以來首次跌出歐洲前十。當前，市值前三依次為阿斯麥控股、羅氏、滙豐。“那些聲稱歐洲已經捲土重來的人錯了，歐洲並沒有回來：LVMH告訴我們的是，它最主要的增長引擎——奢侈品——已經失靈，”荷蘭國際集團駐布魯塞爾的首席投資策略師Vincent Juvyns表示。"
-    },
-    {
-      "id": "te:markets:583954",
-      "time": "2026-09-16 00:11:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.15% Lower — The DAX Index decreased 39 points or 0.15 percent on Tuesday to close at 25402 points. The decline was led by Zalando (-3.63%), Deutsche Bank (-2.37%) and Daimler Truck Holding AG (-1.82%). On the upside, the strongest performers were Rheinmetall (3.55%), Qiagen NV (1.81%) and RWE (1.64%)."
-    },
-    {
-      "id": "te:markets:583953",
-      "time": "2026-09-16 00:10:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.34% Lower — The CAC 40 Index fell 28 points or 0.34 percent on Tuesday to close at 8090 points. Leading the losses are TP (-2.51%), Hermes International (-2.48%) and LVMH (-2.08%). Top gainers were Thales (3.91%), Eurofins Scientific SE (1.58%) and Unibail Rodamco (1.54%)."
-    },
-    {
-      "id": "mkt:01a0a5d5-0590-7118-859f-ea44ad4dcd02",
-      "time": "2026-09-16 00:09:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Bessent backs Trump $5,000-per-adult payout plan, says it can be done without widening deficit】Treasury Secretary Bessent told lawmakers Tuesday he supports President Trump’s proposal to send $5,000 checks to U.S. adults if Republicans retain control of both chambers. He downplayed cost concerns, saying he believes the payments can be arranged without increasing the fiscal deficit, but did not identify offsets. Bessent said the Treasury has been working on the proposal for some time and did not state whether congressional authorization would be required; if it is, he said he would work with House Speaker Johnson to advance it. Markets have growing concern over rising U.S. government debt. The plan, promised by Trump less than a week earlier, is estimated to cost more than $1 trillion."
-    },
-    {
-      "id": "mkt:01a0a5d3-bdf9-7118-859f-e236fa62db30",
-      "time": "2026-09-16 00:08:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. judge issued a temporary injunction preventing the Kennedy Center in Washington from restoring Donald Trump's name to its exterior wall and from renaming the plaza Trump Plaza."
-    },
-    {
-      "id": "5095817",
-      "time": "2026-09-16 00:07:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官臨時禁止華盛頓肯尼迪中心將唐納德・特朗普的名字重新放回建築外牆，並禁止以他的名字命名廣場。"
     }
   ]
 }
