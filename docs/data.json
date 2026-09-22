@@ -1,7 +1,69 @@
 {
-  "updated": "2026-09-22 15:15:01",
-  "count": 13250,
+  "updated": "2026-09-22 15:18:51",
+  "count": 13249,
   "items": [
+    {
+      "id": "5107119",
+      "time": "2026-09-22 15:18:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "瑞銀集團執行長埃爾默蒂表示：我們預計美國放貸業務將實現增長。"
+    },
+    {
+      "id": "5107118",
+      "time": "2026-09-22 15:16:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達90億港元。"
+    },
+    {
+      "id": "te:markets:585541",
+      "time": "2026-09-22 15:16:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.12% Higher — The Shangai Composite Index rose 5 points or 0.12 percent on Tuesday to close at 3955 points. Leading the gains are Yonyou Soft (3.45%), BAIC BluePark (2.80%) and Shanghai Electric (2.76%). Top losers were Greenland Holdings (-4.38%), Avic Aviation Engine (-2.27%) and Jiangsu Lianyungang (-2.21%)."
+    },
+    {
+      "id": "5107117",
+      "time": "2026-09-22 15:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其能源部：土耳其和美國將在小型模組化反應堆方面開展合作。"
+    },
+    {
+      "id": "5107116",
+      "time": "2026-09-22 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.29%， 10年期主力合約漲0.08%， 5年期主力合約漲0.07%， 2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "5107115",
+      "time": "2026-09-22 15:14:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧本海默維持特斯拉“與大盤持平”評級，看好其向Physical AI平臺轉型】奧本海默維持特斯拉“與大盤持平”評級，認為公司正從汽車製造商進一步轉向垂直整合的Physical AI平臺。該機構指出，特斯拉在供應鏈關鍵環節持續加強自研能力，其中進入半導體制造被視為一項激進但重要的戰略舉措，有助於提升核心硬體效能並降低供應鏈風險。奧本海預設為，Dojo專案積累的晶片和計算經驗仍將支援特斯拉在不同形態產品上推進自研晶片，同時公司在算力擴張和Cybercab製造方面繼續取得進展。不過，該機構預計Optimus人形機器人量產節奏仍可能進一步推遲，並認為Dojo此前並未顯著拉開特斯拉計算平臺與同行之間的差距。"
+    },
+    {
+      "id": "5107114",
+      "time": "2026-09-22 15:14:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【加拿大考慮與法國開展液化天然氣合作】加拿大外交部長阿妮塔·阿南德當地時間21日表示，加拿大可能就從該國太平洋沿岸出口液化天然氣與法國開展合作。（央視新聞）"
+    },
     {
       "id": "5107113",
       "time": "2026-09-22 15:13:34",
@@ -121027,85 +121089,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Opens 0.68% Lower — The CAC 40 Index is falling 55 points. Losses were driven by Societe Generale (-2.30%), BNP Paribas (-2.24%) and LVMH (-2.12%). Biggest rises came from Thales (1.80%), Eurofins Scientific SE (0.75%) and Airbus (0.47%)."
-    },
-    {
-      "id": "te:economy:583765",
-      "time": "2026-09-15 15:17:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Spain August Inflation Confirmed at 4.3% — Spain’s annual inflation rate rose to 4.3% in August 2026 from 3.6% in July, confirming preliminary estimates. It marked the highest inflation rate since February 2023, driven by rising transport costs (9.5% vs 6.2% in July), particularly diesel (30.3% vs 15.7%) and petrol (16.9% vs 7.3%), amid supply disruptions linked to the ongoing conflict in the Middle East. Housing and utilities (6.4% vs 5.7%) and food and non-alcoholic beverages (2.3% vs 1.6%) also recorded faster price increases. On a monthly basis, the CPI rose by 0.7%, following a 0.3% increase in the previous month. The EU-harmonized inflation rate was revised slightly higher to 4.6% from an initial estimate of 4.5%, up from 3.9% in July. This was also the highest level since February 2023 and more than double the European Central Bank’s 2% medium-term target. Meanwhile, core inflation, which excludes volatile components such as unprocessed food and energy, edged down to 2.9% in August from 3.0% last month."
-    },
-    {
-      "id": "5094630",
-      "time": "2026-09-15 15:16:41",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "立陶宛央行預計2026年通脹率為5.1%。立陶宛央行上調2027年國內生產總值增速預期至2.4%。立陶宛央行預計2027年通脹率為3.1%。"
-    },
-    {
-      "id": "5094629",
-      "time": "2026-09-15 15:16:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "立陶宛央行預計2026年經濟增速為2.7%。"
-    },
-    {
-      "id": "te:markets:583764",
-      "time": "2026-09-15 15:16:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.54% Lower — The Shangai Composite Index fell 21 points or 0.54 percent on Tuesday to close at 3864 points. Leading the losses are BAIC BluePark (-3.82%), Jiangsu Lianyungang (-3.73%) and China Minsheng Bank (-3.23%). Top gainers were Fuyao Glass Indu (2.17%), Zhejiang Zheneng (0.99%) and Baosteel (0.51%)."
-    },
-    {
-      "id": "mkt:01a0a3ec-646a-7118-858d-4f762ff0e92b",
-      "time": "2026-09-15 15:16:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "2454.TW",
-        "Impact bullish",
-        "2330.TW"
-      ],
-      "text": "【MediaTek launches Dimensity 9600 Pro flagship SoC】MediaTek launched the Dimensity 9600 Pro flagship mobile SoC, its first SoC built on TSMC's 2nm process. Versus the prior 3nm design, the 2nm chip delivers roughly 14% higher performance and 23% lower power consumption. MediaTek said it rebuilt the SoC around an AI‑native architecture, integrating CPU, GPU, NPU and ISP via hardware‑software co‑design."
-    },
-    {
-      "id": "5094628",
-      "time": "2026-09-15 15:16:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三部門：鼓勵利用存量空間發展旅遊產業】自然資源部、文化和旅遊部、國家林業和草原局釋出關於最佳化自然資源配置推動旅遊業規範有序發展的指導意見。意見提到，鼓勵利用存量空間發展旅遊產業。各地結合實際研究制定低效旅遊用地認定標準，深入評估低效旅遊用地情況，找準空間治理問題短板，結合區域優勢特點、資源資產條件等，明確功能完善和空間最佳化方向，支援文旅體商等複合業態發展。在符合規劃管控、安全等要求下，土地權利人利用現有房產興辦文化和旅遊接待設施的，可保持原土地用途、權利型別不變；土地權利人申請辦理用地手續的，經批准可以協議方式辦理。在不改變用地主體和規劃條件（用地性質除外）的前提下，利用存量工業用地、老舊廠房等空間發展文化和旅遊業態的，可享受5年內按原用途和權利型別使用土地的過渡期支援政策。"
-    },
-    {
-      "id": "5094627",
-      "time": "2026-09-15 15:15:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三部門釋出最佳化自然資源配置 推動旅遊業規範有序發展的指導意見】自然資源部、文化和旅遊部、國家林業和草原局釋出關於最佳化自然資源配置推動旅遊業規範有序發展的指導意見。意見提到，對於單個旅遊專案涉及不同用途多個地塊的，可探索將多個地塊按一宗地進行管理，依據規劃核定宗地規劃條件並明確單個地塊規劃要求，依法核發規劃許可。在特定國土空間規劃範圍內，涉及需整體使用土地、礦產、海洋、森林等兩種及以上多門類自然資源資產發展旅遊產業的，可探索統籌形成自然資源資產組合標的，達到供應條件後一次性供應，實施整體運營。"
-    },
-    {
-      "id": "5094626",
-      "time": "2026-09-15 15:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.15%， 10年期主力合約漲0.08%， 5年期主力合約漲0.06%， 2年期主力合約漲0.02%。"
     }
   ]
 }
