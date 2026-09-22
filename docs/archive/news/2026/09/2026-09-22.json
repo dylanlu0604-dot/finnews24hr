@@ -1,7 +1,78 @@
 {
   "date": "2026-09-22",
-  "count": 1799,
+  "count": 1807,
   "items": [
+    {
+      "id": "te:markets:585701",
+      "time": "2026-09-22 20:42:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise as Oil Prices Fall — Futures tracking Canadian stocks inched higher on Tuesday as oil prices extended their losses ahead of potential US-Iran talks at this week’s UN meeting. Iran reportedly offered to reopen the Strait of Hormuz within seven days if the US takes initial steps to ease military pressure. The pullback in the oil rally, which has fueled inflationary pressures and prompted major central banks to raise interest rates, lent support to credit-sensitive stocks. On the other hand, Bank of Canada Governor Tiff Macklem warned on Monday that US tariffs could push fourth-quarter growth below 1%, adding that future rate decisions will need to balance slowing growth against surging energy costs stemming from the Iran conflict. Meanwhile, gold prices edged lower, pressuring miners."
+    },
+    {
+      "id": "5107877",
+      "time": "2026-09-22 20:42:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Coherent推出PhotonLink平臺，整合光子技術以支援下一代AI資料中心】當地時間9月21日，光子技術公司Coherent推出PhotonLink整合光學平臺，整合鐳射器、矽光子、光纖、探測器及精密光學等技術，支援共封裝光學（CPO）、近封裝光學（NPO）及晶片間連線。Coherent稱，目前已參與10多個CPO和10多個NPO專案，並參與5個以上晶片間連線專案，PhotonLink相關收入預計將於2026年第四季度開始增長。公司同時擴大6英寸磷化銦及特種光纖產能。"
+    },
+    {
+      "id": "5107876",
+      "time": "2026-09-22 20:41:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度競爭委員會批准歐萊雅印度收購Onesto Labs。"
+    },
+    {
+      "id": "5107875",
+      "time": "2026-09-22 20:40:51",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【中塑股份：上市首日股價漲幅較大 釋出風險提示公告】中塑股份(301686.SZ)公告稱，公司股票於2026年9月22日在深交所創業板上市，發行價55.28元/股，上市首日收盤價433.00元/股，漲幅683.29%，顯著偏離行業估值水平。公司靜態市盈率168.38倍、市淨率17.14倍，遠高於行業平均的29.02倍和2.26倍。公司提示，存在原材料價格波動、供應穩定性、毛利率下滑等風險，短期股價波動加劇，存在快速上漲後大幅回撥風險。經核查，公司日常經營未發生重大變化，不存在應披露而未披露的重大事項。"
+    },
+    {
+      "id": "5107874",
+      "time": "2026-09-22 20:40:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【DigitalBridge獲全部監管批准，軟銀收購交易預計五個工作日內完成】9月22日，DigitalBridge宣佈，軟銀集團收購該公司的交易已獲得完成所需的全部監管批准，包括美國聯邦能源監管委員會（FERC）批准、美國外國投資委員會（CFIUS）審查透過，以及其他反壟斷和境內外投資審批。DigitalBridge稱，交易目前除交割日需滿足的條件外，其餘交割條件均已滿足，預計將在5個工作日內完成。根據協議，DigitalBridge股東將以每股16美元現金出售所持股份。交易完成後，公司普通股將停止交易並從紐約證券交易所退市。"
+    },
+    {
+      "id": "5107873",
+      "time": "2026-09-22 20:40:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【埃森哲與AWS合作，為中型企業推出六項AI及雲服務】9月22日，埃森哲宣佈與亞馬遜雲科技（AWS）合作，透過新成立的Accenture Edge業務，為年營收3億至30億美元的中型企業提供AI及雲轉型服務。雙方推出六項可直接部署的解決方案，涵蓋資料發現、虛擬機器遷移、客戶體驗、雲成本最佳化、AI安全測試及雲安全基礎設施。"
+    },
+    {
+      "id": "mkt:01a0c921-7485-7118-8643-de791ea827e1",
+      "time": "2026-09-22 20:40:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chevron said maintenance at its Pasadena, Texas refinery has cleared an alarm and the plant has resumed normal operations."
+    },
+    {
+      "id": "5107872",
+      "time": "2026-09-22 20:39:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭中部多座工業城市遇襲 4人死亡】烏克蘭第聶伯羅彼得羅夫斯克州軍事管理局局長甘扎22日在社交媒體上發文稱，俄軍當天凌晨使用導彈和無人機等襲擊烏中部多座工業城市。截至22日9時，襲擊已造成4人死亡。甘扎稱，當天凌晨，俄軍使用導彈、無人機和火炮襲擊第聶伯、尼科波爾、克里沃伊羅格、巴甫洛格勒等地，部分工業設施遇襲起火，其中第聶伯市遭到的襲擊最嚴重，該市倉庫和工業設施受損，造成4人死亡、多人受傷。（新華社）"
+    },
     {
       "id": "5107871",
       "time": "2026-09-22 20:38:49",
