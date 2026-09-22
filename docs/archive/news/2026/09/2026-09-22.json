@@ -1,7 +1,85 @@
 {
   "date": "2026-09-22",
-  "count": 1747,
+  "count": 1757,
   "items": [
+    {
+      "id": "te:economy:585698",
+      "time": "2026-09-22 20:22:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Mexico Retail Sales Growth Slows in July — Mexico’s retail sales rose 1.8% year over year in July 2026, easing from a 2.7% increase in June. Growth was led by sales of healthcare articles (8.7%), followed by household appliances, computers, home décor and second-hand goods (8.4%), hardware, paint and glass products (6.6%), stationery, recreational goods and other personal-use items (3.1%), and textiles, accessories, footwear and clothing (2%). These gains more than offset declines in sales through online channels, printed catalogs, TV and similar platforms (-7.7%), breaking a multi-month streak of gains, as well as grocery items, food, beverages, ice and tobacco (-2.3%) and supermarkets and department stores (-0.6%). On a seasonally adjusted monthly basis, retail sales edged 0.1% lower, following a 0.2% decline in June."
+    },
+    {
+      "id": "mkt:01a0c911-31b9-7118-8643-8070ba66e25a",
+      "time": "2026-09-22 20:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi met his Swiss counterpart and held talks during the 81st session of the UN General Assembly."
+    },
+    {
+      "id": "5107840",
+      "time": "2026-09-22 20:22:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大亞聖象：公司近期經營情況正常】大亞聖象公告，股票連續兩個交易日（2026年9月21日、2026年9月22日）收盤價格漲幅偏離值累計超過20％，構成異常波動。經核查，公司近期經營情況正常，內外部經營環境未發生重大變化，未發現未公開重大資訊；控股股東及實際控制人不存在應披露未披露或籌劃中的重大事項，且異常波動期間未買賣公司股票。"
+    },
+    {
+      "id": "5107839",
+      "time": "2026-09-22 20:22:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭總統亞歷山大·斯圖布抵達聯合國大會現場。"
+    },
+    {
+      "id": "5107838",
+      "time": "2026-09-22 20:21:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長與瑞士外交部長在聯合國大會第81屆會議期間舉行會晤和討論。"
+    },
+    {
+      "id": "5107837",
+      "time": "2026-09-22 20:21:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦、埃及、印度尼西亞、約旦、卡達、沙烏地阿拉伯、土耳其和阿聯酋外長髮布聯合宣告。"
+    },
+    {
+      "id": "mkt:01a0c90f-bc12-7118-8643-7a2279cd39bb",
+      "time": "2026-09-22 20:20:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan foreign minister said the government will take measures to address economic challenges and ensure fiscal stability, and urged international cooperation to tackle global economic uncertainty."
+    },
+    {
+      "id": "5107836",
+      "time": "2026-09-22 20:20:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗擬重開霍爾木茲海峽 沙特重啟東西輸油管道 國際油價下跌】受重啟結束伊朗戰爭的外交努力及沙特關鍵管道重新開放的樂觀情緒影響，國際油價連續第五個交易日大幅下跌，創下兩週以來的最低水平。布倫特原油價格短暫跌破每桶98美元，美國原油價格跌破每桶93美元，均創下自9月8日以來的最低價格。報道稱，如果美國採取措施減輕對伊朗的壓力，伊朗願意在幾天內重新開放霍爾木茲海峽，受此訊息影響，油價隔夜開始首次下滑。伊朗半官方法爾斯通訊社稱“伊朗訊息人士將這些報道描述為不可靠和不實”，但未透露訊息人士的具體身份。這是華盛頓與德黑蘭可能重新就霍爾木茲海峽對峙問題展開接觸的最新跡象，對於渴望中東能源供應恢復的市場而言，這種可能性將帶來可喜的緩解。週二，美國總統唐納德·特朗普在紐約舉行的聯合國大會期間與多位世界領導人舉行會晤。特朗普釋放出願意與伊朗總統馬蘇德·佩澤希齊揚會晤的訊號，這已經緩解了一些市場擔憂。當被問及兩國領導人是否可能舉行會晤時，國務卿馬爾科·魯比奧表示：“我認為目前還沒有安排任何會晤。”魯比奧補充表示，美國對此類會晤“持開放態度”。自2月28日美國和以色列發動伊朗戰爭以來，霍爾木茲海峽的船隻通行有時幾乎陷入停滯。據MarineTraffic資料顯示，在過去一週裡，每日通行船隻數量從未超過20艘。"
+    },
+    {
+      "id": "5107835",
+      "time": "2026-09-22 20:19:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百龍創園：擬再度延長可轉債發行決議有效期一年】百龍創園(605016)9月22日公告，公司董事會審議透過議案，擬將公司向不特定物件發行可轉換公司債券的股東會決議有效期再次延長十二個月，至2027年10月10日。除延長決議有效期外，本次發行方案的其他事項和內容保持不變。"
+    },
     {
       "id": "5107834",
       "time": "2026-09-22 20:18:44",
@@ -54,6 +132,15 @@
         "市場"
       ],
       "text": "【Shopify盤前漲5.06%，現報144.90美元】Shopify盤前漲5.06%，現報144.90美元。訊息面上，Shopify與Meta及OpenAI達成合作，將AI購物與自動結賬/廣告對話能力接入Shopify商戶生態，強化AI電商場景預期。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609223881412042",
+      "time": "2026-09-22 20:15:55",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【ADP：截至9月5日四周 美國私營部門就業平均每週增加2萬人】據ADP研究所與斯坦福數字經濟實驗室初步估算，截至9月5日的四周內，美國私營部門就業人數平均每週增加約2萬人。ADP此前公佈的資料顯示，美國8月私營部門就業人數增加3.8萬人。"
     },
     {
       "id": "mkt:01a0c90b-3ea9-7118-8643-662591ee79c3",
