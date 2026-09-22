@@ -1,7 +1,39 @@
 {
   "date": "2026-09-23",
-  "count": 316,
+  "count": 320,
   "items": [
+    {
+      "id": "5108527",
+      "time": "2026-09-23 03:25:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體：伊朗同意威特科夫會面請求的原因，是為陳述伊朗關於開放霍爾木茲海峽的條件。"
+    },
+    {
+      "id": "5108526",
+      "time": "2026-09-23 03:25:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體稱，伊朗外長在聯合國大會期間與威特科夫舉行會面。"
+    },
+    {
+      "id": "mkt:01a0ca93-50ca-7118-864f-285a643ba93b",
+      "time": "2026-09-23 03:24:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen government forces say dozens of Houthi fighters killed or wounded】Local Yemeni officials said on the 22nd government troops and Houthi forces clashed again in Taiz province in southwest Yemen, leaving at least 16 dead and dozens wounded."
+    },
+    {
+      "id": "5108525",
+      "time": "2026-09-23 03:22:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7005元，較週一夜盤收盤跌52點。成交量458.39億美元。"
+    },
     {
       "id": "mkt:01a0ca91-8bae-7118-864f-2395020cb059",
       "time": "2026-09-23 03:22:11",

@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-23 03:22:43",
+  "updated": "2026-09-23 03:26:27",
   "count": 13390,
   "items": [
+    {
+      "id": "5108527",
+      "time": "2026-09-23 03:25:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體：伊朗同意威特科夫會面請求的原因，是為陳述伊朗關於開放霍爾木茲海峽的條件。"
+    },
+    {
+      "id": "5108526",
+      "time": "2026-09-23 03:25:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體稱，伊朗外長在聯合國大會期間與威特科夫舉行會面。"
+    },
+    {
+      "id": "mkt:01a0ca93-50ca-7118-864f-285a643ba93b",
+      "time": "2026-09-23 03:24:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen government forces say dozens of Houthi fighters killed or wounded】Local Yemeni officials said on the 22nd government troops and Houthi forces clashed again in Taiz province in southwest Yemen, leaving at least 16 dead and dozens wounded."
+    },
+    {
+      "id": "5108525",
+      "time": "2026-09-23 03:22:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7005元，較週一夜盤收盤跌52點。成交量458.39億美元。"
+    },
     {
       "id": "mkt:01a0ca91-8bae-7118-864f-2395020cb059",
       "time": "2026-09-23 03:22:11",
@@ -122100,47 +122132,6 @@
         "國際"
       ],
       "text": "【加密貨幣法案折戟美國參議院 比特幣、以太幣跌至6月以來最低】美國參議院兩黨議員週二在一次程式性投票中阻止推進一項具有里程碑意義的數字資產市場結構法案。民主黨人稱，他們對涉及處理特朗普加密貨幣商業利益的道德規範條款感到擔憂。比特幣應聲擴大跌幅，一度下跌5.3%至74,910美元。以太幣也走低，一度下跌逾8.3%，一些規模較小的代幣跌幅更大。比特幣和以太幣價格創下6月以來最低水平。"
-    },
-    {
-      "id": "5095932",
-      "time": "2026-09-16 03:26:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：與法國總統馬克龍進行了交談，詳細探討了烏外交程序的現狀。"
-    },
-    {
-      "id": "mkt:01a0a688-3b2e-7118-85a2-ff377e2f2966",
-      "time": "2026-09-16 03:25:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "CRM.O",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "【Amodei: Enterprise AI adoption still early, needs more support】Anthropic CEO Dario Amodei and Salesforce CEO Marc Benioff said enterprise AI deployment remains nascent and requires more support to realize its full value. Speaking at Salesforce’s Dreamforce, Amodei estimated only about 5–10% of AI’s economic value is being captured, leaving significant upside for corporate investment. Benioff said firms show wide variation in AI uptake and need help accelerating digital transformation; Salesforce has integrated Anthropic’s Claude into its product suite. Nvidia CEO Jensen Huang said AI safety should be driven by market mechanisms, not new regulation, and argued firms can manage risk by pacing development and releasing safer models."
-    },
-    {
-      "id": "5095928",
-      "time": "2026-09-16 03:24:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通聯席總裁：並不真正預期透過併購實現的無機增長會成為企業與投資銀行(CIB)業務的增長機會，因為門檻非常非常高。"
-    },
-    {
-      "id": "5095927",
-      "time": "2026-09-16 03:23:01",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通預計第三季度投資銀行和交易業務將實現增長】摩根大通預計第三季度交易收入和投資銀行手續費收入將實現增長，這與美國銀行週一發出的警告形成鮮明對比。摩根大通聯席總裁Doug Petno週二在巴克萊舉行的會議上表示，截至9月30日的季度，交易收入預計將同比增長約15%至19%。他表示，該行投資銀行手續費收入預計也將錄得類似增幅。"
     }
   ]
 }
