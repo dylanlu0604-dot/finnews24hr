@@ -1,7 +1,50 @@
 {
   "date": "2026-09-22",
-  "count": 620,
+  "count": 625,
   "items": [
+    {
+      "id": "mkt:01a0c6c6-0e17-7118-8635-3762ce7505de",
+      "time": "2026-09-22 09:41:03",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share property sector active; Wo Ai Wo Jia posted a second consecutive limit-up, while Shilianhang, Chengjian Development, Greenland Holdings and Cinda Real Estate also rose."
+    },
+    {
+      "id": "5106611",
+      "time": "2026-09-22 09:39:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴據悉將透過大宗交易出售價值 5 億美元的中通快遞股票。"
+    },
+    {
+      "id": "mkt:01a0c6c3-ee6d-7118-8635-290ddc4c11b6",
+      "time": "2026-09-22 09:38:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Survey: Singapore Aug CPI likely to tick up to 2.3% YoY】Median of seven economists surveyed by The Wall Street Journal see Singapore’s Aug CPI rising 2.3% YoY, versus 2.2% in July. Six respondents expect core CPI excluding private road transport and accommodation to accelerate to 2.2% YoY from July’s 2.0%. A DBS Group economist said the prints may reflect lagged pass-through from higher global energy prices, noting electricity and gas surged sharply for a second month. Data due Wednesday."
+    },
+    {
+      "id": "5106610",
+      "time": "2026-09-22 09:37:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念震盪拉昇 二六三漲停】早盤算力租賃概念震盪拉昇，二六三漲停，深信服、順網科技、網宿科技、行雲科技、南凌科技、優刻得等跟漲。"
+    },
+    {
+      "id": "5106609",
+      "time": "2026-09-22 09:37:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "上證50股指期貨(IH)主力合約日內漲超1%，現報2872.8點。"
+    },
     {
       "id": "mkt:01a0c6c2-ddfe-7118-8635-2447e459b2ff",
       "time": "2026-09-22 09:37:34",

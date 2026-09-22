@@ -1,7 +1,50 @@
 {
-  "updated": "2026-09-22 09:37:58",
-  "count": 13420,
+  "updated": "2026-09-22 09:41:45",
+  "count": 13413,
   "items": [
+    {
+      "id": "mkt:01a0c6c6-0e17-7118-8635-3762ce7505de",
+      "time": "2026-09-22 09:41:03",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share property sector active; Wo Ai Wo Jia posted a second consecutive limit-up, while Shilianhang, Chengjian Development, Greenland Holdings and Cinda Real Estate also rose."
+    },
+    {
+      "id": "5106611",
+      "time": "2026-09-22 09:39:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴據悉將透過大宗交易出售價值 5 億美元的中通快遞股票。"
+    },
+    {
+      "id": "mkt:01a0c6c3-ee6d-7118-8635-290ddc4c11b6",
+      "time": "2026-09-22 09:38:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Survey: Singapore Aug CPI likely to tick up to 2.3% YoY】Median of seven economists surveyed by The Wall Street Journal see Singapore’s Aug CPI rising 2.3% YoY, versus 2.2% in July. Six respondents expect core CPI excluding private road transport and accommodation to accelerate to 2.2% YoY from July’s 2.0%. A DBS Group economist said the prints may reflect lagged pass-through from higher global energy prices, noting electricity and gas surged sharply for a second month. Data due Wednesday."
+    },
+    {
+      "id": "5106610",
+      "time": "2026-09-22 09:37:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念震盪拉昇 二六三漲停】早盤算力租賃概念震盪拉昇，二六三漲停，深信服、順網科技、網宿科技、行雲科技、南凌科技、優刻得等跟漲。"
+    },
+    {
+      "id": "5106609",
+      "time": "2026-09-22 09:37:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "上證50股指期貨(IH)主力合約日內漲超1%，現報2872.8點。"
+    },
     {
       "id": "mkt:01a0c6c2-ddfe-7118-8635-2447e459b2ff",
       "time": "2026-09-22 09:37:34",
@@ -122825,126 +122868,6 @@
         "Importance 1"
       ],
       "text": "Dollar Extends Gains to Fifth Session — The dollar index rose above 99.5 on Tuesday, advancing for a fifth consecutive session ahead of an expected interest rate hike by the Federal Reserve this week. Traders are pricing in roughly a 92% chance that the Fed will deliver a 25-basis-point rate hike on Wednesday, which would be its first increase in borrowing costs since 2023. Policymakers are also set to release updated economic projections, with traders closely watching for signals on the future path of interest rates. Elsewhere, the Bank of England is widely expected to keep policy unchanged on Thursday, while the Bank of Japan is anticipated to raise rates on Friday. Meanwhile, higher oil prices have added to inflationary pressures, clouding the inflation outlook and reinforcing expectations for further Fed tightening. Warnings from CEOs of major technology companies about the potential risks associated with AI also pressured equities, boosting demand for the dollar."
-    },
-    {
-      "id": "mkt:01a0a2b9-a701-7118-8583-04b6b10f3c9c",
-      "time": "2026-09-15 09:41:10",
-      "tags": [
-        "MKT News",
-        "00625.HK"
-      ],
-      "text": "Hong Kong-listed Xiyin-W (00625.HK) is trading higher after choppy moves, currently up over 5%."
-    },
-    {
-      "id": "mkt:01a0a2b9-70bb-7118-8582-fa3e2539be1f",
-      "time": "2026-09-15 09:40:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Boao Forum 2027 annual conference tentatively scheduled for March 24-27, 2027】Boao Forum's 2027 annual conference is tentatively scheduled for March 24-27, 2027 in Boao, Hainan, China, Mu Hong, vice chair of the 14th CPPCC and the forum's China chief representative, announced on Sept. 15 at an Asia-Pacific cooperation roundtable in Haikou."
-    },
-    {
-      "id": "mkt:01a0a2b9-3e4f-7118-8582-f736800b5f8c",
-      "time": "2026-09-15 09:40:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Chinese A-share grain sector continued lower; Xin Nong Development hit the daily limit down, Guotou Fengle fell over 9%, Dunhuang Seed dropped over 8%, Yasheng Group and Jinjian Rice Industry declined more than 4%."
-    },
-    {
-      "id": "mkt:01a0a2b8-9450-7118-8582-ecc5c23e9207",
-      "time": "2026-09-15 09:40:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bearish",
-        "Copper",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【BlackRock pivots to overweight emerging-market equities, bets on AI-driven resource demand and earnings edge】BlackRock now recommends overweighting emerging-market equities, saying AI-driven demand for scarce inputs and stronger corporate profitability should help EM outperform, Wei Li and other strategists wrote in a Monday note. The firm singled out South Korea and Taiwan as central to semiconductor and memory supply chains and flagged Latin America as providing bulk commodities and infrastructure exposure for AI buildout. The change reverses a June downgrade to neutral—then justified by AI concentration and leverage risks, especially in Korea—with BlackRock saying Korea’s de-leveraging after July’s large sell-off supports the return to overweight."
-    },
-    {
-      "id": "mkt:01a0a2b8-431e-7118-8582-e766899b83cb",
-      "time": "2026-09-15 09:39:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share MLCC theme remained active: Shuangxing New Materials notched a third consecutive limit-up, Huaci Co. hit the daily limit, and Chunguang Group, Kangda New Materials, Shangluo Electronics and Hongda Electronics also rose."
-    },
-    {
-      "id": "5094149",
-      "time": "2026-09-15 09:39:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌1%，現報4952.00元。"
-    },
-    {
-      "id": "5094148",
-      "time": "2026-09-15 09:39:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "MLCC概念反覆活躍，雙星新材3連板，華瓷股份漲停，春光集團、康達新材、商絡電子、宏達電子跟漲。"
-    },
-    {
-      "id": "5094147",
-      "time": "2026-09-15 09:39:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【軟體開發板塊短線走高，漢王科技、海量資料漲停】軟體開發板塊短線走高，漢王科技、海量資料漲停，眾誠科技漲超10%，永信至誠、數字認證、星環科技、英方軟體、格爾軟體跟漲。"
-    },
-    {
-      "id": "5094146",
-      "time": "2026-09-15 09:39:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股人工智慧概念股反彈 海清智元漲近6%】截至發稿，海清智元(01392.HK)漲5.75%，天數智芯(09903.HK)漲3.98%，深遠智慧(02723.HK)漲3.92%。"
-    },
-    {
-      "id": "mkt:01a0a2b7-c13f-7118-8582-dbfa9cb2aa92",
-      "time": "2026-09-15 09:39:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China retail money-market 7-day yield snapshot】7-day annualized yields: Tencent Licaitong (Current+) 0.7660%–1.4150%; WeChat Lingqian Tong 0.8620%–1.0040%; Alipay Yu'ebao 0.9000%–1.0610%."
-    },
-    {
-      "id": "5094145",
-      "time": "2026-09-15 09:38:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【博鰲亞洲論壇2027年年會將於明年3月24日至27日舉行】9月15日，博鰲亞洲論壇在海口舉行亞太區域合作圓桌。其間，十四屆全國政協副主席，論壇中方首席代表、副理事長穆虹宣佈，博鰲亞洲論壇2027年年會初步定於3月24日至27日在中國海南博鰲舉行。"
-    },
-    {
-      "id": "mkt:01a0a2b6-e3e4-7118-8582-d0568fac6022",
-      "time": "2026-09-15 09:38:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【NBS: YoY declines in new-home prices across first-, second- and third-tier Chinese cities narrowed in August】National Bureau of Statistics data show August new-home prices in first-tier cities fell 0.9% YoY, a 0.2 ppt narrower decline from July. By city: Beijing -2.3% YoY, Guangzhou -1.9%, Shenzhen -2.3%, Shanghai +3.0%. New-home prices in second- and third-tier cities fell 2.7% and 4.1% YoY, respectively, each a 0.1 ppt narrower decline. In the resale market, secondhand prices in first-tier cities fell 2.7% YoY, a 1.0 ppt narrower decline from July; Beijing -3.5%, Shanghai -0.8%, Guangzhou -3.8%, Shenzhen -2.7%. Second- and third-tier secondhand prices fell 4.9% and 5.6% YoY, respectively, each narrowing 0.2 ppt."
     }
   ]
 }
