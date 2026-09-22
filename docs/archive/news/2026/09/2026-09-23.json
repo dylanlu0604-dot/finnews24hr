@@ -1,7 +1,49 @@
 {
   "date": "2026-09-23",
-  "count": 516,
+  "count": 521,
   "items": [
+    {
+      "id": "mkt:01a0cb5a-fbb5-7118-8652-309cf2b29cb3",
+      "time": "2026-09-23 07:02:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia September S&P Global services PMI (prelim) 51.4, down from prior 53.2."
+    },
+    {
+      "id": "mkt:01a0cb5a-e8b5-7118-8652-2c29857f3727",
+      "time": "2026-09-23 07:02:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia September preliminary S&P Global Manufacturing PMI 49.3, prior 52.0."
+    },
+    {
+      "id": "mkt:01a0cb5a-c54c-7118-8652-26b55535dc65",
+      "time": "2026-09-23 07:01:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia September preliminary S&P Global Composite PMI 50.8, prior 52.7."
+    },
+    {
+      "id": "5108618",
+      "time": "2026-09-23 07:01:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【驍龍峰會2026：高通釋出雙旗艦移動平臺 定義AI智慧體全新體驗】2026驍龍峰會首日，高通推出第六代驍龍8超級至尊版與第六代驍龍8至尊版，這是其首次採用“雙旗艦”佈局。其中，第六代驍龍8超級至尊版專為智慧體AI時代打造，搭載全球最快移動CPU，最高主頻達5.0GHz，CPU、GPU、NPU均增強AI能力，為新一代安卓旗艦機提供強勁支援。第六代驍龍8至尊版則在AI、效能、遊戲、影像和連線等方面實現全面升級。"
+    },
+    {
+      "id": "5108617",
+      "time": "2026-09-23 06:58:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【必和必拓向工會提交最終工資方案以避免罷工】必和必拓（BHP）在一份電子郵件宣告中表示，其埃斯孔迪達（Escondida）銅礦已向代表公司主管和員工的工會（即“第二工會”，No. 2 Union）提交了最終方案，作為集體談判程式的一部分。該提案包括提高薪酬、津貼和福利，以及調整運營實踐和談判結束條款。公司還提議新協議期限為三年。必和必拓表示，談判是在產量水平下降、成本壓力增加以及旨在維持未來生產能力的投資計劃背景下進行的。埃斯孔迪達銅礦表示，運營“正常進行”。"
+    },
     {
       "id": "te:markets:585817",
       "time": "2026-09-23 06:56:57",

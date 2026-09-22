@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-23 06:58:51",
+  "updated": "2026-09-23 07:03:41",
   "count": 13421,
   "items": [
+    {
+      "id": "mkt:01a0cb5a-fbb5-7118-8652-309cf2b29cb3",
+      "time": "2026-09-23 07:02:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia September S&P Global services PMI (prelim) 51.4, down from prior 53.2."
+    },
+    {
+      "id": "mkt:01a0cb5a-e8b5-7118-8652-2c29857f3727",
+      "time": "2026-09-23 07:02:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia September preliminary S&P Global Manufacturing PMI 49.3, prior 52.0."
+    },
+    {
+      "id": "mkt:01a0cb5a-c54c-7118-8652-26b55535dc65",
+      "time": "2026-09-23 07:01:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia September preliminary S&P Global Composite PMI 50.8, prior 52.7."
+    },
+    {
+      "id": "5108618",
+      "time": "2026-09-23 07:01:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【驍龍峰會2026：高通釋出雙旗艦移動平臺 定義AI智慧體全新體驗】2026驍龍峰會首日，高通推出第六代驍龍8超級至尊版與第六代驍龍8至尊版，這是其首次採用“雙旗艦”佈局。其中，第六代驍龍8超級至尊版專為智慧體AI時代打造，搭載全球最快移動CPU，最高主頻達5.0GHz，CPU、GPU、NPU均增強AI能力，為新一代安卓旗艦機提供強勁支援。第六代驍龍8至尊版則在AI、效能、遊戲、影像和連線等方面實現全面升級。"
+    },
+    {
+      "id": "5108617",
+      "time": "2026-09-23 06:58:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【必和必拓向工會提交最終工資方案以避免罷工】必和必拓（BHP）在一份電子郵件宣告中表示，其埃斯孔迪達（Escondida）銅礦已向代表公司主管和員工的工會（即“第二工會”，No. 2 Union）提交了最終方案，作為集體談判程式的一部分。該提案包括提高薪酬、津貼和福利，以及調整運營實踐和談判結束條款。公司還提議新協議期限為三年。必和必拓表示，談判是在產量水平下降、成本壓力增加以及旨在維持未來生產能力的投資計劃背景下進行的。埃斯孔迪達銅礦表示，運營“正常進行”。"
+    },
     {
       "id": "te:markets:585817",
       "time": "2026-09-23 06:56:57",
@@ -122415,61 +122457,6 @@
         "公司"
       ],
       "text": "【煜榮集團：控股股東已出售1.76億股，佔38.54%】煜榮集團公告，控股股東彩輝投資有限公司於二零二六年九月八日至二零二六年九月十五日期間出售合共1.76億股股份，佔已發行股本總額約38.54%；出售後持股1244.6萬股，佔約2.73%，不再為公司控股股東及主要股東。Hellobaby International Limited於二零二六年九月十五日按每股約0.454港元向彩輝購買1.32億股，佔29.00%，成為公司主要股東。"
-    },
-    {
-      "id": "5096097",
-      "time": "2026-09-16 07:03:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銀行個人貴金屬代理業務密集“退場”】近日，浦發銀行釋出公告稱，該行擬對代理上海黃金交易所個人貴金屬業務進行調整，將自9月25日後擇時停辦該項業務，並關閉手機銀行、網上銀行、網點櫃面等渠道的交易許可權。這並非個例，今年以來已有多家銀行宣佈調整個人貴金屬代理業務。有銀行人士透露，對於代理上金所個人貴金屬業務，銀行更多是收取手續費，若市場發生劇烈波動，銀行可能面臨客戶穿倉帶來的墊資信用風險。（中證報）"
-    },
-    {
-      "id": "te:markets:583987",
-      "time": "2026-09-16 07:03:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Rises Ahead of GDP Data — The NZX 50 climbed 72 points, or 0.5%, to 13,556 in Wednesday morning trade, erasing losses from the previous four sessions and moving away from its lowest level since June 24, touched a day earlier ahead of the release of Q2 GDP data. New Zealand's economic data will be released on Thursday, with the market expecting GDP to accelerate 2.9% yoy, while easing to 0.1% qoq. Fresh data also lifted sentiment, as New Zealand consumer confidence moved away from a three-year low, though it remained in pessimistic territory. However, expectations of a Fed interest rate hike later this week, amid higher oil prices, pressured sentiment. The index was also capped by a downbeat session on Wall Street overnight due to a surge in US Treasury yields. Financials, real estate, and consumer staples mainly boosted the index, with notable gains from Infratil (5.2%), Vector (2.5%), Sanford (1.5%), Delegat Group (0.7%), and Scales Corp. (0.6%)."
-    },
-    {
-      "id": "mkt:01a0a74f-9977-7118-85a5-02410a19b83b",
-      "time": "2026-09-16 07:03:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Central Bank of Ireland says uncertainty around inf forecasts is very high and growth risks are broadly balanced. It projects GDP to fall 1.4% in 2026 (June forecast: -2.7%), then to rise 4.3% in 2027 (previously 6.5%) and 4.3% in 2028."
-    },
-    {
-      "id": "5096096",
-      "time": "2026-09-16 07:01:40",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "觀點",
-        "焦點",
-        "國際"
-      ],
-      "text": "【9月16日隔夜要聞一覽】\n1、美國國會預算辦公室15日稱，美國對伊朗長達六個月的戰爭迄今已耗資380億美元，預計每月還將增加30億美元。\n2、據一位知情美國官員透露，美國政府擬向以色列出售價值28億美元的軍火，其中包括數萬枚破壞力極強的2000磅（約907公斤）級別的炸彈。\n3、葉門胡塞武裝發言人葉海亞15日稱，過去24小時，沙特方面出動F-15戰機和“颱風”戰鬥機，從沙特海米斯穆謝特和塔伊夫兩處空軍基地起飛，對葉門多地發動52次空襲。\n4、在全體民主黨參議員和少數共和黨參議員的反對下，《清晰法案》(Clarity Act)未能透過美國參議院的程式性投票。\n5、化妝品巨頭歐萊雅（L'Oréal）取代LVMH，成為法國市值最高的上市公司。二者收盤市值分別為2345.4億美元、2314.4億美元。\n6、美國能源部長稱沙特東西輸油管道有望數日內重啟。沙特正迅速採取行動，在美軍協助下改經霍爾木茲海峽輸送石油。\n7、摩根大通預計第三季度交易收入和投資銀行手續費收入將實現增長，截至9月30日的季度，交易收入預計將同比增長約15%至19%。\n8、英偉達執行長黃仁勳週二表示，無需針對人工智慧安全出臺新監管規定，因為市場力量將推動企業在創新的同時確保安全性。\n9、由於通脹形勢持續引發市場擔憂和美國聯邦儲備委員會加息預期推動，美國10年期國債收益率在15日凌晨升至5.045%，為2007年7月以來的最高水平。"
-    },
-    {
-      "id": "mkt:01a0a74c-0c38-7118-85a4-fbdd39670634",
-      "time": "2026-09-16 06:59:33",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【RBNZ assistant governor Karen Silk to leave after December rate meeting】The RBNZ said on Tuesday Assistant Governor Karen Silk, an MPC member responsible for interest-rate decisions, will resign after the bank’s final policy meeting in December. Silk, who joined the RBNZ in 2022 and most recently served as assistant governor for monetary affairs overseeing market operations and economic analysis, will remain in post through December to ensure an orderly handover and continuity of decision-making, Governor Breman said."
     }
   ]
 }
