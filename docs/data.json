@@ -1,7 +1,32 @@
 {
-  "updated": "2026-09-23 06:51:22",
+  "updated": "2026-09-23 06:55:06",
   "count": 13420,
   "items": [
+    {
+      "id": "5108616",
+      "time": "2026-09-23 06:53:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國商品期貨交易委員會正在調查 Kalshi 平臺上價值逾 50 億美元的以太坊虛假交易。"
+    },
+    {
+      "id": "5108615",
+      "time": "2026-09-23 06:53:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【證券日報：新股盤中臨停，督促市場各主體歸位盡責】據不完全統計，截至目前，年內滬深北證券交易所已累計針對51只新股啟動69次盤中臨時停牌操作。但盤中臨停的意義，遠不止於一種交易風控手段。它更是一次面向全市場的風險警示，促使各方主體歸位盡責。對於監管層面而言，要持續用好、用活臨停機制，緊盯新股上市初期異常波動、短線惡意炒作、集中拉抬打壓等違規交易行為，持續細化常態化監管舉措。"
+    },
+    {
+      "id": "mkt:01a0cb52-561c-7118-8652-1e2e5d3f93fc",
+      "time": "2026-09-23 06:52:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian president says the US is participating alongside Syria in talks with Israel, but negotiations are not easy."
+    },
     {
       "id": "5108614",
       "time": "2026-09-23 06:50:52",
@@ -122433,34 +122458,6 @@
         "Impact bullish"
       ],
       "text": "【RBNZ assistant governor Karen Silk to leave after December rate meeting】The RBNZ said on Tuesday Assistant Governor Karen Silk, an MPC member responsible for interest-rate decisions, will resign after the bank’s final policy meeting in December. Silk, who joined the RBNZ in 2022 and most recently served as assistant governor for monetary affairs overseeing market operations and economic analysis, will remain in post through December to ensure an orderly handover and continuity of decision-making, Governor Breman said."
-    },
-    {
-      "id": "mkt:01a0a746-ee53-7118-85a4-f2233e3cd6f5",
-      "time": "2026-09-16 06:53:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China sets new record for single sea-launch payload weight and orbital altitude】Sept 16 — A Yinli-1 Yao-3 carrier rocket fired from the East China Sea successfully placed eight Qianfan constellation satellites and one ultra‑high‑speed wireless communications test satellite into an approximately 800 km orbit, Dongfang Space (Shandong) Technology Co., Ltd. said. Net payload exceeded 3 tonnes, marking new Chinese highs for single sea‑launch payload weight and insertion altitude and validating the sea‑launch mode for medium‑to‑large satellite missions."
-    },
-    {
-      "id": "te:economy:583985",
-      "time": "2026-09-16 06:52:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Current Account",
-        "Importance 2"
-      ],
-      "text": "New Zealand Q2 Current Account Deficit Below Estimates — New Zealand's current account deficit widened to NZD 1.67 billion in the second quarter of 2026, up from NZD 0.78 billion in the same period a year earlier, but below market expectations of NZD 2.7 billion. The goods balance surplus narrowed to NZD 1.57 billion, down from NZD 2.76 billion in Q2 2025."
-    },
-    {
-      "id": "5096095",
-      "time": "2026-09-16 06:51:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "順豐控股：擬發行50億元2029年到期票面利率1.75%票據，以及50億元2031年到期票面利率1.85%票據。"
     }
   ]
 }
