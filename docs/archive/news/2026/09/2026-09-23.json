@@ -1,7 +1,70 @@
 {
   "date": "2026-09-23",
-  "count": 545,
+  "count": 552,
   "items": [
+    {
+      "id": "5108644",
+      "time": "2026-09-23 07:25:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司將提前贖回2028年到期的全球債券。"
+    },
+    {
+      "id": "5108643",
+      "time": "2026-09-23 07:25:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報：管住平臺規則，還酒店定價權】餐飲行業的經驗表明，只有糾正了競爭規則，價格體系才會逐步修復；讓商家有合理的利潤空間，他們才有心思提升服務質量。新一輪整治的目標正是以案促改，約束平臺單方面制定規則的權力，把定價權還給酒店。價格該由服務和市場定，而不是由平臺規則定。平臺不對商家搞強買強賣，商家對消費者實實在在，這才是平臺生態應有的模樣。"
+    },
+    {
+      "id": "5108642",
+      "time": "2026-09-23 07:23:46",
+      "tags": [
+        "公司",
+        "市場",
+        "國際",
+        "原創"
+      ],
+      "text": "【芝商所推出英偉達GPU租賃期貨合約的計劃遇阻，監管機構延長審查】芝商所集團（CME Group）原計劃最早於10月初推出這些合約，但屆時將無法獲得監管批准。一份致該交易所的信函顯示，負責監管期貨市場的美國商品期貨交易委員會（CFTC）正在延長審查期限，以便深入研究此類合約的運作機制，並徵求更廣泛行業的意見。CFTC在9月21日發出的信函中證實，該產品將不會在下個月如期上線。CFTC指出，鑑於該產品涉及“新穎或複雜”的問題，監管機構需要更多時間來評估芝商所的申請，因此決定將審查期延長45天，至11月9日。"
+    },
+    {
+      "id": "5108641",
+      "time": "2026-09-23 07:23:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【產品佈局持續拓寬 被動指數債基規模超過兩萬億元】今年以來，債券投資指數化持續推進。Wind資料顯示，截至9月21日，53只債券ETF合計規模9871.29億元，距離萬億元關口僅差128.71億元。結合場外被動指數型債券基金半年報披露的規模資料，全市場384只被動指數型債券基金合計規模達20663.38億元。天風證券固收首席分析師譚逸鳴分析稱，我國債券ETF市場未來前景廣闊：一方面是在產品種類和覆蓋度上可持續創新，滿足機構差異化配置需求；另一方面是在交易機制上可進一步完善，加快健全做市商機制、跨市場交易體制，提升折溢價套利機制的順暢度，進而增強市場交易活躍度與定價效率。（上海證券報）"
+    },
+    {
+      "id": "5108640",
+      "time": "2026-09-23 07:23:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【供應端增量超過需求增量 豬價節前承壓下行】中秋國慶雙節臨近，生豬市場價格走勢卻未因需求提振有所好轉。8月下旬以來，國內生豬期貨價格不斷探底。9月22日盤中，生豬期貨主力合約2611最低報10865元/噸，較月初下跌超9%，年內最大跌幅超過22%。雖然近期生豬市場需求有所回升，但供應端增量超過需求增量，豬價承壓下行。不過相關資料顯示，三季度生豬產能去化加速。進入下半月，雙節集中備貨全面開啟，終端需求快速回暖，供需格局短期改善，豬價有望止跌反彈。"
+    },
+    {
+      "id": "te:markets:585828",
+      "time": "2026-09-23 07:22:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Extends Losses to Sixth Session — Brent crude slipped below $99 per barrel on Wednesday, extending its decline to a sixth consecutive session as signs of progress emerged in renewed US-Iran talks and efforts continued to restore operations at a key pipeline in Saudi Arabia. President Donald Trump said officials held a “very productive” meeting with Iranian envoys, adding that he is weighing whether to pursue a negotiated agreement or “annihilate the Islamic Republic.” Trump is also expected to meet with other Persian Gulf leaders later this week. A senior Iranian government official said Tehran’s proposal had been conveyed to the US, suggesting that if Washington takes steps toward lifting the blockade that has severely curtailed Iranian oil exports, Iran would be prepared to reopen the Strait of Hormuz within seven days. Meanwhile, Saudi Arabia is seeking to restore oil exports through its vital East-West pipeline in the coming days, allowing Riyadh to resume using an alternative route around the Strait of Hormuz."
+    },
+    {
+      "id": "5108639",
+      "time": "2026-09-23 07:22:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【上證報：金融有望成為產業“反內卷”重要支點】“十五五”時期，信貸結構有望進一步最佳化，更好支援經濟結構調整和轉型升級。中國人民銀行行長潘功勝近期在署名文章中表示，加強與產業政策協同，引導金融機構科學評估風險，分類施策、有扶有控，抑制部分行業“內卷式”競爭。在業內專家看來，這意味著金融資源投放邏輯生變：信貸投向將逐漸告別助推產能粗放增長的舊模式，轉向精準服務產業供給最佳化、企業技術迭代和落後產能有序出清。中信證券首席經濟學家明明稱，“十五五”時期，金融業自身“反內卷”與抑制部分行業“內卷式”競爭協同發力，有望透過信貸結構最佳化，倒逼落後產能出清，推動資源向優質龍頭與創新主體集中。"
+    },
     {
       "id": "te:markets:585827",
       "time": "2026-09-23 07:21:56",
