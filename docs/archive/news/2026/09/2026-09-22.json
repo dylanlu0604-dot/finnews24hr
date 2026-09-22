@@ -1,7 +1,95 @@
 {
   "date": "2026-09-22",
-  "count": 625,
+  "count": 634,
   "items": [
+    {
+      "id": "mkt:01a0c6c9-f714-7118-8635-4b8e3c4f8213",
+      "time": "2026-09-22 09:45:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share planting and forestry sector slid in intraday trade; Wanxiang Denong, Dunhuang Seed, Xinnong Development, Hualv Bio and Shennong Seed declined."
+    },
+    {
+      "id": "5106615",
+      "time": "2026-09-22 09:45:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：抵達紐約參加聯合國大會。"
+    },
+    {
+      "id": "te:markets:585440",
+      "time": "2026-09-22 09:44:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hovers Near Multi-Week Lows — The Australian dollar hovered around $0.71, trading in a sideways range near multi-week lows as a stronger US dollar offset rising expectations of another RBA rate hike. In a podcast interview, RBA Assistant Governor Sarah Hunter confirmed the need for further rate hikes this year. She reiterated the central bank’s warnings that inflation has remained too high for too long, risking becoming embedded in price-setting behavior. The comments lifted market pricing for a 25-bp rate hike at the RBA’s September 29 meeting to 95%. All four major banks now also expect a move at next week’s meeting, with Commonwealth Bank of Australia and ANZ joining Westpac and NAB in calling for a hike, with ANZ expecting another increase in November. Attention now turns to Governor Michele Bullock’s remarks and a speech by RBA board member Iain Ross later today. Meanwhile, the greenback remained firm as hawkish remarks from Federal Reserve officials reinforced expectations for further interest rate hikes."
+    },
+    {
+      "id": "te:markets:585439",
+      "time": "2026-09-22 09:44:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Moves Lower — The New Zealand dollar fell to around $0.570 on Tuesday, its lowest level since July 8, as hawkish Federal Reserve commentary kept the US dollar firm. Chicago Fed President Austan Goolsbee and St. Louis Fed President Alberto Musalem indicated that further rate increases may be needed, citing persistent supply shocks and inflation remaining above the Fed’s target. The kiwi has also remained under pressure since the Reserve Bank of New Zealand raised its cash rate earlier this month while signalling that further tightening would be gradual. However, markets continue to price in another rate hike in October, with the recent surge in oil prices adding to upside risks to inflation. Meanwhile, traders are looking to a US-China summit later this week for signs of progress in relations between the world’s two largest economies. A positive outcome could lift global risk appetite and lend support to the kiwi, given New Zealand’s strong trade ties with China."
+    },
+    {
+      "id": "5106614",
+      "time": "2026-09-22 09:44:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人工智慧主題ETF霸榜漲幅榜前20】人工智慧、AI板塊走強，多隻科創人工智慧ETF、科創AIETF、科創創業人工智慧ETF漲超4%，ETF漲幅榜前20中有19只為人工智慧主題ETF。"
+    },
+    {
+      "id": "5106613",
+      "time": "2026-09-22 09:44:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量68億元。"
+    },
+    {
+      "id": "5106612",
+      "time": "2026-09-22 09:43:59",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "種植業與林業板塊短線走低，萬向德農、敦煌種業、新農開發、華綠生物、神農種業等走低。"
+    },
+    {
+      "id": "mkt:01a0c6c6-e28a-7118-8635-41b21f764051",
+      "time": "2026-09-22 09:41:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "ZTO.O",
+        "Impact bearish"
+      ],
+      "text": "Alibaba (09988.HK) is reported to be selling USD 500 mln worth of ZTO Express shares via a block trade."
+    },
+    {
+      "id": "mkt:01a0c6c6-c7b3-7118-8635-38af3c8b57d1",
+      "time": "2026-09-22 09:41:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Retail cash fund 7-day yield snapshot】Tencent Licaitong (on‑demand and 7‑day annualized) yields ranged 0.6960%–1.1790%; WeChat Wallet Lingqiantong 7‑day annualized yields ranged 0.8660%–1.0320%; Alipay Yu'ebao 7‑day annualized yields ranged 0.8290%–1.0720%."
+    },
     {
       "id": "mkt:01a0c6c6-0e17-7118-8635-3762ce7505de",
       "time": "2026-09-22 09:41:03",
