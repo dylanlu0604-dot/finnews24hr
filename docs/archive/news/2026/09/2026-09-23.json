@@ -1,7 +1,52 @@
 {
   "date": "2026-09-23",
-  "count": 40,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:01a0c9ef-ac4d-7118-864b-431ca803dddd",
+      "time": "2026-09-23 00:25:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Greenland government says security agreement recognises Greenland as an equal partner and addresses its key priorities in defence cooperation."
+    },
+    {
+      "id": "5108345",
+      "time": "2026-09-23 00:24:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "格陵蘭自治政府：該安全協議承認格陵蘭為平等合作伙伴，符合格陵蘭在防務合作方面的核心優先事項。"
+    },
+    {
+      "id": "mkt:01a0c9ee-e30a-7118-864b-3f5826c594a5",
+      "time": "2026-09-23 00:24:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey, Egypt, Saudi Arabia and Pakistan said in a joint statement that Saudi Arabia has an inherent right under international law to self-defense and to protect its territory and people."
+    },
+    {
+      "id": "mkt:01a0c9ee-b644-7118-864b-34c7e0b720fd",
+      "time": "2026-09-23 00:24:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Market sources say Apple (AAPL.O) is developing a new fitness tracker to compete with Whoop."
+    },
+    {
+      "id": "5108344",
+      "time": "2026-09-23 00:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其、埃及、沙烏地阿拉伯、巴基斯坦在聯合宣告中確認，沙烏地阿拉伯根據國際法享有捍衛自身、其領土與人民的固有權利。"
+    },
     {
       "id": "5108343",
       "time": "2026-09-23 00:22:57",
