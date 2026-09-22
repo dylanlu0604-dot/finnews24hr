@@ -1,7 +1,55 @@
 {
   "date": "2026-09-23",
-  "count": 320,
+  "count": 325,
   "items": [
+    {
+      "id": "5108531",
+      "time": "2026-09-23 03:29:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：資料顯示通脹將持續回落，但供給端形勢更為嚴峻。"
+    },
+    {
+      "id": "5108530",
+      "time": "2026-09-23 03:28:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：供給衝擊對整體通脹產生顯著影響，服務業通脹依舊居高不下。與此同時，國內需求走弱導致經濟增長放緩。"
+    },
+    {
+      "id": "mkt:01a0ca97-6d4b-7118-864f-354b9366241b",
+      "time": "2026-09-23 03:28:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran confirms meeting with US envoy, sets conditions to reopen Strait of Hormuz】Iranian state media said the foreign minister met US presidential envoy Witkoff during the UN General Assembly and conveyed \"strict\" conditions to the US. Iran said reopening the Strait of Hormuz would require the immediate lifting of any maritime blockade, immediate release of frozen Iranian assets and an end to all wars on \"resistance\" fronts."
+    },
+    {
+      "id": "5108529",
+      "time": "2026-09-23 03:27:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家媒體：伊朗提出的重開霍爾木茲海峽的條件包括立即解除海上封鎖、釋放被凍結的伊朗資產，以及在所有 “抵抗陣線” 終止戰事。"
+    },
+    {
+      "id": "5108528",
+      "time": "2026-09-23 03:26:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體：伊朗已向美方代表傳達其 “嚴苛” 條件。"
+    },
     {
       "id": "5108527",
       "time": "2026-09-23 03:25:39",
