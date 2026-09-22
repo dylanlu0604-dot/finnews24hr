@@ -1,7 +1,166 @@
 {
   "date": "2026-09-22",
-  "count": 603,
+  "count": 620,
   "items": [
+    {
+      "id": "mkt:01a0c6c2-ddfe-7118-8635-2447e459b2ff",
+      "time": "2026-09-22 09:37:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's ChiNext index extended gains, rising over 2%, with PCB and memory-chip sectors leading the broader market."
+    },
+    {
+      "id": "5106608",
+      "time": "2026-09-22 09:37:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【玻纖概念持續走強，宏和科技漲停】玻纖概念持續走強，宏和科技漲停，平安電工、山東玻纖、國際復材、金安國紀、中國巨石、卓郎智慧等跟漲。"
+    },
+    {
+      "id": "5106607",
+      "time": "2026-09-22 09:37:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2.00%，現報3467.662點；上證指數漲0.31%，現報3962.325點；深證成指漲1.28%，現報13906.211點。"
+    },
+    {
+      "id": "5106606",
+      "time": "2026-09-22 09:37:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【億帆醫藥獲多西他賽注射液中國區總代理權】9月21日，億帆醫藥與韓國保寧製藥宣佈達成合作：億帆醫藥獲得泰索帝®（Taxotere，通用名：多西他賽注射液）在中國區的總代理權，全面負責該產品在中國境內的市場推廣、渠道分銷與商業化運營，進一步豐富了億帆醫藥實體瘤管線。"
+    },
+    {
+      "id": "5106605",
+      "time": "2026-09-22 09:36:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股科網股走高，騰訊控股漲超5%】港股科網股走高，騰訊控股漲超5%，阿里巴巴-W、百度集團-W、快手-W跟漲。"
+    },
+    {
+      "id": "5106604",
+      "time": "2026-09-22 09:35:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌6%，現報5011.00元。"
+    },
+    {
+      "id": "5106603",
+      "time": "2026-09-22 09:35:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "富時中國A50指數期貨漲幅擴大至1%。"
+    },
+    {
+      "id": "mkt:01a0c6c1-4b7b-7118-8635-1aa6aa0d9969",
+      "time": "2026-09-22 09:35:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "S&P500",
+        "Impact bullish",
+        "Hang Seng Index",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures opened firmer, up more than 1%."
+    },
+    {
+      "id": "5106602",
+      "time": "2026-09-22 09:35:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5106601",
+      "time": "2026-09-22 09:35:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【房地產板塊反覆活躍 我愛我家2連板】房地產板塊反覆活躍，我愛我家2連板，世聯行、城建發展、綠地控股、信達地產、華髮股份跟漲。"
+    },
+    {
+      "id": "te:markets:585437",
+      "time": "2026-09-22 09:34:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Climb on AI Rally — The benchmark KOSPI climbed more than 1% to around 7,120 on Tuesday, extending gains for a third consecutive session as a rally in AI-related US stocks lifted Korean chipmakers. The Nasdaq Composite jumped 2.3% to a record high, while the US semiconductor sector advanced strongly, reinforcing optimism over AI demand. Samsung Electronics and SK hynix rose more than 2% and nearly 3%, respectively. Other notable performers included SK Square (2.9%), Samsung Electro-Mechanics (5.8%), Hyundai Motor (2.3%), LG Electronics (5.9%), Hyundai Mobis (2.3%), LS Electric Co (3.1%), and SK Inc (1.7%). Additionally, lower oil prices and US Treasury yields eased concerns over imported inflation and borrowing costs, adding to the broader gains. Meanwhile, investors remained focused on the upcoming US-China summit, where AI, tariffs and rare earths are expected to be discussed, with the outcome potentially affecting trade and technology supply chains."
+    },
+    {
+      "id": "mkt:01a0c6c0-56cd-7118-8635-1196a5e9f97d",
+      "time": "2026-09-22 09:34:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "The Information reports Xbox plans to lay off hundreds of employees to consolidate its game studios."
+    },
+    {
+      "id": "5106600",
+      "time": "2026-09-22 09:34:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年以來深圳機場口岸出入境旅客502.4萬人次 同比增長5.7%】據深圳機場邊檢站統計，截至9月20日，今年以來，深圳機場口岸出入境旅客502.4萬人次，同比增長5.7%，創歷史同期新高，較去年提前16天達到500萬量級。（深圳釋出）"
+    },
+    {
+      "id": "mkt:01a0c6c0-3ffe-7118-8635-0b614cfcc59f",
+      "time": "2026-09-22 09:34:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen airport port of entry passenger crossings 5.024 mln YTD, up 5.7% YoY】Shenzhen airport port of entry reported 5.024 million passenger crossings year-to-date through Sept. 20, up 5.7% YoY; this is a record for the period and the 5 million threshold was reached 16 days earlier than last year."
+    },
+    {
+      "id": "5106599",
+      "time": "2026-09-22 09:34:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【印製電路板板塊走高，廣合科技觸及漲停】印製電路板板塊走高，廣合科技觸及漲停，威爾高、賢豐控股、崇達技術、迅捷興、萬源通等紛紛走高。"
+    },
+    {
+      "id": "5106598",
+      "time": "2026-09-22 09:34:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑芝麻智慧與協創資料達成戰略合作】近日，黑芝麻智慧宣佈與協創資料技術股份有限公司（簡稱“協創資料”）簽署戰略合作協議。雙方將共同打造“算力底座—整機生產—AI推理服務”一體化的AI推理解決方案，並在此基礎上探索麵向下一代AI推理場景的定製化晶片開發，構建長期穩定的戰略合作伙伴關係。"
+    },
+    {
+      "id": "5106597",
+      "time": "2026-09-22 09:33:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Xbox據悉將裁員數百人，並整合遊戲工作室。"
+    },
     {
       "id": "mkt:01a0c6bf-5fc0-7118-8635-02d8b28b3c86",
       "time": "2026-09-22 09:33:45",
