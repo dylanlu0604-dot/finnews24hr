@@ -1,7 +1,88 @@
 {
-  "updated": "2026-09-23 00:54:19",
-  "count": 13331,
+  "updated": "2026-09-23 00:58:09",
+  "count": 13339,
   "items": [
+    {
+      "id": "mkt:01a0ca0d-16d1-7118-864c-04eddb13d013",
+      "time": "2026-09-23 00:57:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he does not support the Chagos Islands agreement when asked."
+    },
+    {
+      "id": "mkt:01a0ca0c-a9b1-7118-864b-ff175d249f0c",
+      "time": "2026-09-23 00:57:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said on UK trade that the US is doing very well now."
+    },
+    {
+      "id": "5108384",
+      "time": "2026-09-23 00:56:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為伯納姆會關注查戈斯群島問題。"
+    },
+    {
+      "id": "5108383",
+      "time": "2026-09-23 00:56:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普被問及查戈斯群島協議時表示：我不支援該協議。"
+    },
+    {
+      "id": "te:markets:585788",
+      "time": "2026-09-23 00:55:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Walmart Stock Price Hits 4-week High — Walmart shares increased to 109.74 USD, the highest since August 2026. Over the past 4 weeks, Walmart gained 3%, and in the last 12 months, it increased 6.98%."
+    },
+    {
+      "id": "5108382",
+      "time": "2026-09-23 00:55:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：隨著新首相上任，與英國的關係現已改善。"
+    },
+    {
+      "id": "mkt:01a0ca0a-feba-7118-864b-f168a177283e",
+      "time": "2026-09-23 00:55:13",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "U.S. Transportation Secretary Duffy seeks $30 billion to upgrade airports, control towers and air‑traffic‑control software."
+    },
+    {
+      "id": "5108381",
+      "time": "2026-09-23 00:54:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲要求為機場、管制塔臺及空中交通管制軟體升級額外追加300億美元資金。"
+    },
+    {
+      "id": "5108380",
+      "time": "2026-09-23 00:54:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲巴爾金警告：通脹壓力消退需要時間】里士滿聯邦儲備銀行行長巴爾金警告稱，通脹衝擊消退可能需要時間，且高企的壓力存在固化的風險。在週二為巴爾的摩一場活動準備的講話中，巴爾金詳細闡述了他對經濟和貨幣政策的最新展望。他表示，美聯儲上週的加息將有助於放緩通脹，但他並未暗示是否需要進一步收緊政策。相反，這位美聯儲官員明確指出，供應衝擊已不再是一次性或暫時性的，而是導致整個經濟體的物價壓力持續存在。“這些衝擊可能會隨時間消退，但我確實預計這需要時間，”巴爾金說。“在此期間，當前高企的通脹水平存在影響未來通脹的風險。”"
+    },
     {
       "id": "mkt:01a0ca09-9d8a-7118-864b-eb2c5069ab82",
       "time": "2026-09-23 00:53:42",
@@ -121636,14 +121717,6 @@
         "其他"
       ],
       "text": "OpenAI考慮在加拿大建立資料中心，讚賞總理卡尼的計劃。"
-    },
-    {
-      "id": "mkt:01a0a5fe-98e8-7118-85a0-a9632e4fd3fc",
-      "time": "2026-09-16 00:55:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio reiterated to Oman the U.S. commitment to freedom of navigation in the Strait of Hormuz."
     }
   ]
 }
