@@ -1,7 +1,72 @@
 {
   "date": "2026-09-23",
-  "count": 354,
+  "count": 360,
   "items": [
+    {
+      "id": "mkt:01a0caa4-db47-7118-864f-ce4c8a2ca9cc",
+      "time": "2026-09-23 03:43:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said we believe the war with Iran could end after the midterm elections or before."
+    },
+    {
+      "id": "mkt:01a0caa3-f2db-7118-864f-c50983f759f1",
+      "time": "2026-09-23 03:42:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "TRUMP said the US had not yet detected movement by PICKAXE MOUNTAIN but would strike if any were detected."
+    },
+    {
+      "id": "5108547",
+      "time": "2026-09-23 03:42:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們認為伊朗戰事可能在中期選舉後結束，也或許在此之前。"
+    },
+    {
+      "id": "5108546",
+      "time": "2026-09-23 03:41:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外長與美特使在紐約會晤】據伊朗官方媒體報道，當地時間9月22日，伊朗外長阿拉格齊與美國總統特使威特科夫在第81屆聯合國大會會議期間於紐約舉行會晤。伊朗方面的訊息稱，此舉是“應美方要求”，伊朗同意威特科夫的會晤請求，是出於“傳達伊朗關於重新開放霍爾木茲海峽條件”的需要。在會晤中，伊朗向美方代表闡明其堅定立場。據報道，伊朗重新開放霍爾木茲海峽的條件包括：美國立即解除海上封鎖，立即解凍所有伊朗資產以及結束在地區各戰線的戰爭。 另據美國“阿克西奧斯新聞網（Axios）”報道，當天的美伊會談持續了大約3個小時。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0caa3-4438-7118-864f-bb794b9cc3ef",
+      "time": "2026-09-23 03:41:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he may have to destroy Pickaxe Mountain."
+    },
+    {
+      "id": "5108545",
+      "time": "2026-09-23 03:41:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：推動霍爾木茲海峽石油運輸恢復暢通。"
+    },
     {
       "id": "mkt:01a0caa2-aa77-7118-864f-b3b735cb6cfe",
       "time": "2026-09-23 03:40:53",
