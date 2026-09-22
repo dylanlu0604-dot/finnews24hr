@@ -1,7 +1,65 @@
 {
-  "updated": "2026-09-23 04:00:11",
+  "updated": "2026-09-23 04:03:59",
   "count": 13406,
   "items": [
+    {
+      "id": "5108557",
+      "time": "2026-09-23 04:03:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通推出第六代驍龍 8 超級至尊版與第六代驍龍 8 至尊版。"
+    },
+    {
+      "id": "5108556",
+      "time": "2026-09-23 04:02:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：油價並非唯一指標，但在過去四年重要性有所上升。"
+    },
+    {
+      "id": "mkt:01a0cab6-3536-7118-864f-f0a57d57b5b4",
+      "time": "2026-09-23 04:02:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "SNDK.O",
+        "Impact bullish",
+        "MU.O",
+        "Nasdaq100"
+      ],
+      "text": "【US stocks close mixed; SanDisk up nearly 7%】US equities closed mixed on Tuesday: the Dow fell 0.36%, the S&P 500 was little changed and the Nasdaq rose 0.45% to a fresh closing high. Micron Technology (MU.O) rallied about 5%, SK Hynix (SKHY.O) gained over 3%, SanDisk (SNDK.O) rose 6.8% and Cisco Systems (CSCO.O) fell more than 4%. The Nasdaq Golden Dragon China Index advanced 0.32%; Alibaba (BABA.N) added 0.45%."
+    },
+    {
+      "id": "5108555",
+      "time": "2026-09-23 04:01:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克 100 指數上漲 0.8%，收盤創下 6 月以來首個歷史新高。"
+    },
+    {
+      "id": "5108554",
+      "time": "2026-09-23 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.36%，標普500指數持平，納指漲0.44%。Monolithic Power Systems漲8.06%，Shopify漲7.12%，閃迪漲6.82%，Genesis Healthcare  Inc.跌6.38%，GoDaddy跌6.23%，皇家加勒比郵輪跌6.16%。“七姐妹”方面：特斯拉漲0.96%，英偉達漲0.66%，蘋果漲0.22%，Meta Platforms跌0.65%，微軟跌0.70%，谷歌跌1.01%，亞馬遜跌1.32%。"
+    },
+    {
+      "id": "5108553",
+      "time": "2026-09-23 04:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.31%】小馬智行漲5.89%，虎牙漲5.33%，高途漲4.77%，逸仙電商漲4.98%，搜狐漲3.23%。"
+    },
     {
       "id": "5108552",
       "time": "2026-09-23 03:58:12",
@@ -122217,64 +122275,6 @@
         "Nasdaq100"
       ],
       "text": "U.S. equity close on Sept. 15 (Tuesday): Dow Jones Industrial Average fell 328.63 points (-0.63%) to 52,092.57. S&P 500 fell 34.20 points (-0.45%) to 7,585.78. Nasdaq Composite fell 204.84 points (-0.78%) to 25,981.57."
-    },
-    {
-      "id": "mkt:01a0a6aa-b5f1-7118-85a3-84e0528cb967",
-      "time": "2026-09-16 04:03:20",
-      "tags": [
-        "MKT News",
-        "MU.O"
-      ],
-      "text": "Micron Technology (MU.O) appointed Deirdre Hanford to lead Micron Research Labs."
-    },
-    {
-      "id": "mkt:01a0a6a9-b06c-7118-85a3-7f371c6b9aa4",
-      "time": "2026-09-16 04:02:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports OpenAI has newly backed three bills: the Bio Data Network Act, the AI-Ready Bio Data Standards Act and the Scaling Biology Act."
-    },
-    {
-      "id": "mkt:01a0a6a9-ad8c-7118-85a3-71f8ad4f81b0",
-      "time": "2026-09-16 04:02:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "S&P500",
-        "Impact bearish",
-        "QCOM.O",
-        "Impact bullish",
-        "XPEV.N"
-      ],
-      "text": "【US close: major indexes down; Nasdaq Golden Dragon China Index falls >1%】US stocks closed lower Tuesday: the Dow fell 0.6%, the S&P 500 dropped 0.45% and the Nasdaq declined 0.78%. Qualcomm (QCOM.O) rose 4%, Oracle (ORCL.N) fell 3%, and SK Hynix (SKHY.O) slipped 0.4%. The Nasdaq Golden Dragon China Index fell 1.1%; XPeng (XPEV.N) dropped 4.5%."
-    },
-    {
-      "id": "5095969",
-      "time": "2026-09-16 04:01:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "美光任命迪爾德麗·漢福德領導美光研究院。"
-    },
-    {
-      "id": "5095967",
-      "time": "2026-09-16 04:01:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI為《生物資料網路法案》、《AI就緒生物資料標準法案》和《規模生物學法案》釋出新的支援背書。"
-    },
-    {
-      "id": "5095966",
-      "time": "2026-09-16 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.61%，標普500指數跌0.45%，納指跌0.78%。Coinbase Global跌10.11%，Axon Enterprise跌9.83%，傑克亨利跌6.30%，墨式燒烤跌5.94%，Carvana Co.跌5.60%，Casey’跌5.55%。“七姐妹”方面：Meta Platforms漲0.68%，英偉達漲0.54%，蘋果跌0.52%，特斯拉跌0.67%，谷歌跌1.24%，微軟跌1.72%，亞馬遜跌2.01%。"
     }
   ]
 }

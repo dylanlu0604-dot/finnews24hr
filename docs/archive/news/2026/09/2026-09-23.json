@@ -1,7 +1,65 @@
 {
   "date": "2026-09-23",
-  "count": 369,
+  "count": 375,
   "items": [
+    {
+      "id": "5108557",
+      "time": "2026-09-23 04:03:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通推出第六代驍龍 8 超級至尊版與第六代驍龍 8 至尊版。"
+    },
+    {
+      "id": "5108556",
+      "time": "2026-09-23 04:02:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委納格爾：油價並非唯一指標，但在過去四年重要性有所上升。"
+    },
+    {
+      "id": "mkt:01a0cab6-3536-7118-864f-f0a57d57b5b4",
+      "time": "2026-09-23 04:02:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "SNDK.O",
+        "Impact bullish",
+        "MU.O",
+        "Nasdaq100"
+      ],
+      "text": "【US stocks close mixed; SanDisk up nearly 7%】US equities closed mixed on Tuesday: the Dow fell 0.36%, the S&P 500 was little changed and the Nasdaq rose 0.45% to a fresh closing high. Micron Technology (MU.O) rallied about 5%, SK Hynix (SKHY.O) gained over 3%, SanDisk (SNDK.O) rose 6.8% and Cisco Systems (CSCO.O) fell more than 4%. The Nasdaq Golden Dragon China Index advanced 0.32%; Alibaba (BABA.N) added 0.45%."
+    },
+    {
+      "id": "5108555",
+      "time": "2026-09-23 04:01:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克 100 指數上漲 0.8%，收盤創下 6 月以來首個歷史新高。"
+    },
+    {
+      "id": "5108554",
+      "time": "2026-09-23 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.36%，標普500指數持平，納指漲0.44%。Monolithic Power Systems漲8.06%，Shopify漲7.12%，閃迪漲6.82%，Genesis Healthcare  Inc.跌6.38%，GoDaddy跌6.23%，皇家加勒比郵輪跌6.16%。“七姐妹”方面：特斯拉漲0.96%，英偉達漲0.66%，蘋果漲0.22%，Meta Platforms跌0.65%，微軟跌0.70%，谷歌跌1.01%，亞馬遜跌1.32%。"
+    },
+    {
+      "id": "5108553",
+      "time": "2026-09-23 04:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.31%】小馬智行漲5.89%，虎牙漲5.33%，高途漲4.77%，逸仙電商漲4.98%，搜狐漲3.23%。"
+    },
     {
       "id": "5108552",
       "time": "2026-09-23 03:58:12",
