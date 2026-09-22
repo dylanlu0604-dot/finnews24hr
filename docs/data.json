@@ -1,7 +1,53 @@
 {
-  "updated": "2026-09-23 07:11:15",
+  "updated": "2026-09-23 07:15:05",
   "count": 13423,
   "items": [
+    {
+      "id": "5108632",
+      "time": "2026-09-23 07:14:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【秋季策略會密集舉辦 公募機構把脈市場新風向】近期，建信基金、華寶基金、匯添富基金等多家公募機構舉辦了秋季策略會或中期客戶交流會，不少基金經理圍繞權益走勢、科技、固收等熱門話題展開探討。有機構人士表示，展望2026年四季度資產配置，或可增持黃金與資源品種對沖地緣風險，佈局科技與高階製造方向捕捉估值修復，同時警惕美債市場流動性可能坍塌引發的連鎖反應。（中國證券報）"
+    },
+    {
+      "id": "5108631",
+      "time": "2026-09-23 07:13:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【境外機構看好中國資產 人民幣債券全球配置價值提升】中央結算公司日前釋出的資料顯示，8月份，境外機構增持中國國債約16億元，為連續第四個月增持，持有總規模已升至近2.03萬億元。專家表示，我國堅實、穩健的經濟基本面，是人民幣債券持續獲得境外機構青睞的原因。在外部市場擾動頻現的背景下，中國國債的避險屬性與收益穩定性愈發凸顯，成為全球資金分散風險的重要選擇。（中國證券報）"
+    },
+    {
+      "id": "5108630",
+      "time": "2026-09-23 07:12:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲加息靴子落地 私募機構謀劃A股“新打法”】上週四，備受全球市場矚目的美聯儲9月加息靴子落地。此後幾個交易日，A股市場震盪上行，科技主線與非科技資產同步回升，此前偏防禦的紅利板塊則出現短期回撥。這一市場表現背後，折射出投資者對政策不確定性的消化方式正在發生變化。圍繞美聯儲加息之後的A股大勢、倉位結構調整以及策略應對要點，上週以來，記者調研採訪了多家主觀私募機構。受訪私募機構普遍認為，此次加息更偏向“預防式”或“確認型”調整，而非新一輪持續緊縮週期的起點。但“一次性”與否並非關鍵，真正影響年底前投資戰績的，是私募在倉位、結構與交易模式上展開的一輪“新打法”。多家受訪私募機構認為，短中期A股的上行驅動因素主要來自國內：AI產業景氣趨勢未證偽，海外產業資本開支擴張有向企業端蔓延趨勢；三季報進入業績驗證期，科技主線業績逐步兌現；國內流動性維持寬鬆，居民儲蓄向權益資產遷移仍在延續等。（中國證券報）"
+    },
+    {
+      "id": "5108629",
+      "time": "2026-09-23 07:12:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部：加州大學舊金山分校醫學院在招生中存在種族歧視。"
+    },
+    {
+      "id": "te:economy:585821",
+      "time": "2026-09-23 07:11:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Factory Growth Turns Negative in September — The S&P Global Australia Manufacturing PMI fell to 49.3 in September 2026 from 52.0 in August, according to flash estimates, marking the first contraction since March. Manufacturing output fell to 46.4 from 49.6, the strongest decline in 21 months, as new orders weakened and export demand remained soft. New export orders declined for the fifth time in six months, while manufacturers reported greater supply-chain pressure as input delivery times lengthened again. On the pricing front, input cost inflation eased from August despite higher energy and fuel costs linked to the Middle East conflict, while output price inflation remained elevated. Business confidence also deteriorated to a three-month low amid concerns over economic conditions, costs, demand and customer retention."
+    },
     {
       "id": "5108628",
       "time": "2026-09-23 07:10:27",
@@ -122439,46 +122485,6 @@
         "MKT News"
       ],
       "text": "The U.S. House voted 232-147 to reject Rep. Al Green's motion to impeach Trump, the third failed impeachment attempt in two years."
-    },
-    {
-      "id": "5096110",
-      "time": "2026-09-16 07:14:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國海岸警衛隊登檢油輪，開展網路攻擊調查】美國海岸警衛隊週二晚間證實，美軍人員與聯邦調查局探員登上一艘駛往得克薩斯州的油輪，調查一起網路攻擊事件。海岸警衛隊發言人在回應媒體問詢時稱，有跡象顯示這艘外籍船舶的網路系統遭到境外網路勢力入侵，相關人員於 8 月 21 日登船開展調查。船舶追蹤資料顯示，這艘名為 “VL Prosperity” 的超大型原油輪（VLCC）目前停靠在得克薩斯州沿海城鎮加爾維斯頓附近。海岸警衛隊表示，油輪船長、船員以及岸上工作人員均配合調查，事件未造成運營中斷或人員受傷。該機構稱：“海岸警衛隊正積極與港口運營方、船東及當地海事相關方溝通，確保港口作業安全不間斷執行。”伊朗半官方媒體邁赫爾通訊社 8 月下旬報道稱，“VL Prosperity” 號在直布羅陀海峽遭遇網路攻擊後，通訊中斷長達 30 小時。"
-    },
-    {
-      "id": "mkt:01a0a758-c303-7118-85a5-13f7609c4d94",
-      "time": "2026-09-16 07:13:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US Coast Guard said late Tuesday local time that US military personnel and FBI agents boarded an oil tanker bound for Texas to investigate a cyberattack."
-    },
-    {
-      "id": "5096109",
-      "time": "2026-09-16 07:13:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "*巴西總統盧拉 ：管理好財務是我的責任。"
-    },
-    {
-      "id": "5096108",
-      "time": "2026-09-16 07:12:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：我們必須討論法官的評判標準和任期。"
-    },
-    {
-      "id": "5096107",
-      "time": "2026-09-16 07:12:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新股提示：創業板鴻富誠、北交所安達股份今日申購】今日可申購創業板新股鴻富誠和北交所新股安達股份，鴻富誠網上發行約393.3萬股，發行市盈率21.80倍，申購程式碼301716，申購價格76.86元，單一賬戶申購上限0.35萬股。安達股份申購程式碼920202，申購價格7.55元。"
     }
   ]
 }

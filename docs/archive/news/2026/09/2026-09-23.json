@@ -1,7 +1,53 @@
 {
   "date": "2026-09-23",
-  "count": 532,
+  "count": 537,
   "items": [
+    {
+      "id": "5108632",
+      "time": "2026-09-23 07:14:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【秋季策略會密集舉辦 公募機構把脈市場新風向】近期，建信基金、華寶基金、匯添富基金等多家公募機構舉辦了秋季策略會或中期客戶交流會，不少基金經理圍繞權益走勢、科技、固收等熱門話題展開探討。有機構人士表示，展望2026年四季度資產配置，或可增持黃金與資源品種對沖地緣風險，佈局科技與高階製造方向捕捉估值修復，同時警惕美債市場流動性可能坍塌引發的連鎖反應。（中國證券報）"
+    },
+    {
+      "id": "5108631",
+      "time": "2026-09-23 07:13:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【境外機構看好中國資產 人民幣債券全球配置價值提升】中央結算公司日前釋出的資料顯示，8月份，境外機構增持中國國債約16億元，為連續第四個月增持，持有總規模已升至近2.03萬億元。專家表示，我國堅實、穩健的經濟基本面，是人民幣債券持續獲得境外機構青睞的原因。在外部市場擾動頻現的背景下，中國國債的避險屬性與收益穩定性愈發凸顯，成為全球資金分散風險的重要選擇。（中國證券報）"
+    },
+    {
+      "id": "5108630",
+      "time": "2026-09-23 07:12:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲加息靴子落地 私募機構謀劃A股“新打法”】上週四，備受全球市場矚目的美聯儲9月加息靴子落地。此後幾個交易日，A股市場震盪上行，科技主線與非科技資產同步回升，此前偏防禦的紅利板塊則出現短期回撥。這一市場表現背後，折射出投資者對政策不確定性的消化方式正在發生變化。圍繞美聯儲加息之後的A股大勢、倉位結構調整以及策略應對要點，上週以來，記者調研採訪了多家主觀私募機構。受訪私募機構普遍認為，此次加息更偏向“預防式”或“確認型”調整，而非新一輪持續緊縮週期的起點。但“一次性”與否並非關鍵，真正影響年底前投資戰績的，是私募在倉位、結構與交易模式上展開的一輪“新打法”。多家受訪私募機構認為，短中期A股的上行驅動因素主要來自國內：AI產業景氣趨勢未證偽，海外產業資本開支擴張有向企業端蔓延趨勢；三季報進入業績驗證期，科技主線業績逐步兌現；國內流動性維持寬鬆，居民儲蓄向權益資產遷移仍在延續等。（中國證券報）"
+    },
+    {
+      "id": "5108629",
+      "time": "2026-09-23 07:12:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部：加州大學舊金山分校醫學院在招生中存在種族歧視。"
+    },
+    {
+      "id": "te:economy:585821",
+      "time": "2026-09-23 07:11:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Factory Growth Turns Negative in September — The S&P Global Australia Manufacturing PMI fell to 49.3 in September 2026 from 52.0 in August, according to flash estimates, marking the first contraction since March. Manufacturing output fell to 46.4 from 49.6, the strongest decline in 21 months, as new orders weakened and export demand remained soft. New export orders declined for the fifth time in six months, while manufacturers reported greater supply-chain pressure as input delivery times lengthened again. On the pricing front, input cost inflation eased from August despite higher energy and fuel costs linked to the Middle East conflict, while output price inflation remained elevated. Business confidence also deteriorated to a three-month low amid concerns over economic conditions, costs, demand and customer retention."
+    },
     {
       "id": "5108628",
       "time": "2026-09-23 07:10:27",
