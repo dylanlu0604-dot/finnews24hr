@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-22 14:24:39",
-  "count": 13326,
+  "updated": "2026-09-22 14:28:28",
+  "count": 13319,
   "items": [
+    {
+      "id": "te:markets:585506",
+      "time": "2026-09-22 14:27:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Positive Open — European equity markets were set to open slightly higher on Tuesday, building on the previous session’s gains after an AI-led rally on Wall Street boosted optimism over semiconductor demand. The rally followed renewed enthusiasm around Meta’s AI agent, Muse, easing concerns about a slowdown in AI development and supporting demand for chips powering the technology. Market sentiment was also lifted by expectations for a summit between Presidents Donald Trump and Xi Jinping this week, along with hopes for talks between Trump and his Iranian counterpart and other Gulf leaders. In Europe, investors will focus on UK public sector borrowing and Spain’s trade data, alongside earnings from British companies Smiths and Kingfisher. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both up about 0.1%."
+    },
+    {
+      "id": "5107001",
+      "time": "2026-09-22 14:26:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "彪馬(PUMA SE) <PUMG.DE> 法蘭克福早盤股價下跌1.9%。"
+    },
+    {
+      "id": "5107000",
+      "time": "2026-09-22 14:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮新停機坪啟用 為新型專用直升機“定製”】美國總統特朗普21日在白宮南草坪出席儀式，正式啟用一處新建的花崗岩直升機停機坪。據報道，這處新建停機坪用於起降新一代總統專用直升機“海軍陸戰隊一號”。（新華社）"
+    },
+    {
+      "id": "mkt:01a0c7ca-c15c-7118-863b-008394686d2a",
+      "time": "2026-09-22 14:25:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Aramco gives Asian refiners informal assurance of imminent Yanbu loadings】Traders say Aramco has informally told several Asian refiners they will soon be able to load cargoes at Yanbu on the Red Sea. At least three refiners received informal assurances from Aramco executives about shipments but have not been given formal notices or a specific timetable. Yanbu loadings were almost entirely halted after the east‑west pipeline was shut on Sept. 10 following drone attacks launched from Iraq; the pipeline had been delivering about 4 mln b/d to the port. A source last week said Saudi Arabia was seeking to restore roughly half the pipeline’s capacity within days, but Aramco has not issued an update."
+    },
+    {
+      "id": "mkt:01a0c7c9-e3c0-7118-863a-fda3b4cab9fc",
+      "time": "2026-09-22 14:24:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China government bond futures rose intraday; the 30-year main contract gained 0.30% to 117.080 yuan. The 10-year rose 0.09% to 109.62 yuan, the 5-year 0.06% to 106.585 yuan and the 2-year 0.02% to 102.61 yuan."
+    },
+    {
+      "id": "mkt:01a0c7c9-6d2a-7118-863a-f01b739c1362",
+      "time": "2026-09-22 14:24:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000063.SZ",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "A-share optical-communications sector weakened again in late trade; Zhongji Xuchuang, Xinyisheng, Yangtze Optical Fibre and Cable, Tianfu Communication, Lianxun Instruments and ZTE all slipped."
+    },
     {
       "id": "5106999",
       "time": "2026-09-22 14:24:10",
@@ -121742,121 +121805,6 @@
         "Impact bullish"
       ],
       "text": "【BANK OF JAPAN expected to hike this week; long-term JGB yields hit 30-year high】Long-term JGB yields climbed to a 30-year high as rising energy costs and an unresolved Middle East conflict lifted inflation concerns and the prospect of faster tightening by the BANK OF JAPAN. Investors are watching developments after Saudi Arabia began repairing a key oil pipeline closed following last week's drone attack. 10-year JGB yield rose 4.5bps to 3.030%, the highest since Sep 1996. The BANK OF JAPAN is expected to raise its policy rate later this week to address rising inflation risks."
-    },
-    {
-      "id": "5094510",
-      "time": "2026-09-15 14:28:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特麥地那發現1.1億噸“稀土+鈾”超級礦】沙烏地阿拉伯能源部長阿卜杜勒阿齊茲昨日在維也納舉行的國際原子能機構大會上表示，沙特在麥地那地區發現了1.1億噸含鈾礦藏。該部長將這一發現稱為“全球最重要的稀土發現之一”，因勘探和地質研究顯示該礦產資源含有高濃度稀土元素，尤其是重稀土元素，同時還含有頗具前景的鈾礦。這一源於賈巴爾·賽義德（Jabal Sayid）勘探專案的發現正值沙特大力推動加大對能源和礦業領域投資之際。作為阿拉伯世界最大的經濟體，該國正計劃對這兩大關鍵領域的多元化發展進行持續投資。"
-    },
-    {
-      "id": "te:economy:583736",
-      "time": "2026-09-15 14:28:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10-Year Yield Hits Fresh 30-Year High — Japan’s 10-year government bond yield climbed above 3% on Tuesday, reaching its highest level since September 1996 as the global bond selloff deepened amid surging energy prices, mounting inflation risks and growing fiscal concerns. The Bank of Japan is also widely expected to raise its policy rate to 1.25% on Friday, its highest level since April 1995, as the central bank faces persistent upside risks to prices. Markets will be closely watching for BOJ guidance on the potential for another rate hike later this year. US Treasury Secretary Scott Bessent has also repeatedly urged the BOJ to tighten policy more aggressively to curb excessive yen weakness. Meanwhile, oil prices extended their gains as Saudi Arabia’s East-West pipeline remained shut, while Ukraine disputed President Trump’s claim that it had already reached an agreement with Russia to halt attacks on energy infrastructure."
-    },
-    {
-      "id": "te:economy:583735",
-      "time": "2026-09-15 14:27:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Singapore 10Y Bond Yield Hits 15-month High — Singapore 10 Year Government Bond Yield increased to 2.50%, the highest since May 2025. Over the past 4 weeks, Singapore 10Y Bond Yield gained 18.40 basis points, and in the last 12 months, it increased 71.90 basis points."
-    },
-    {
-      "id": "5094509",
-      "time": "2026-09-15 14:27:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼稱財長更迭不會改變政策方向。"
-    },
-    {
-      "id": "5094508",
-      "time": "2026-09-15 14:26:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【寧德時代跌超6%創1年以來新低 A+H股總市值跌破1.5萬億】午後鋰電池龍頭寧德時代擴大跌幅至超6%，股價創1年以來新低，從2026年5月7日創出的歷史高點累計下跌超32%，A+H股總市值跌破1.5萬億元。"
-    },
-    {
-      "id": "5094507",
-      "time": "2026-09-15 14:26:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼表示，更換財長旨在強化政策執行。"
-    },
-    {
-      "id": "5094506",
-      "time": "2026-09-15 14:26:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 日本自衛隊一架 “全球鷹” 無人機失去聯絡。"
-    },
-    {
-      "id": "mkt:01a0a3be-f087-7118-858b-877723b59de5",
-      "time": "2026-09-15 14:26:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【BeiDou summit to sign 41 projects; contracts total 5.54 bln yuan, 4 international deals 1.45 bln yuan】At the Fifth BeiDou Large-scale Application International Summit in Zhuzhou, Hunan, 41 projects are planned for signing with contracted investment and contract value totalling 5.54 bln yuan. International cooperation comprises four projects worth 1.45 bln yuan, both record highs. Last year China’s BeiDou spatio-temporal industry output exceeded 600 bln yuan, reaching 629 bln yuan; Hunan’s BeiDou industry output was 78.2 bln yuan, about 12% of the national total and up 28.2% YoY."
-    },
-    {
-      "id": "mkt:01a0a3be-18d1-7118-858b-7ea0cd23d41a",
-      "time": "2026-09-15 14:25:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Hadas reported Yemen's armed forces thwarted a Houthi infiltration attempt in Harib, southern Marib province."
-    },
-    {
-      "id": "5094505",
-      "time": "2026-09-15 14:25:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鼎通科技成立液冷科技公司 註冊資本1億元】企查查APP顯示，近日，鼎通液冷（信陽）科技有限公司成立，法定代表人為王成海，註冊資本為1億元，經營範圍包含通訊裝置銷售；光通訊裝置製造；光通訊裝置銷售；機械電氣裝置銷售；光電子器件製造等。企查查股權穿透顯示，該公司由鼎通科技(688668)全資持股。"
-    },
-    {
-      "id": "5094504",
-      "time": "2026-09-15 14:25:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東計劃2028年底資料跨境產業規模超2000億元】廣東省政務服務和資料管理局15日對外發布《廣東省建設粵港澳大灣區資料特區工作方案》，方案指出，計劃至2028年底，資料跨境產業規模超2000億元，資料跨境產業拉動的製造業、服務業等相關產業增加值達萬億元。 建設特定基礎設施。推進“港數粵算”“澳數粵算”等跨境算力互聯互通；建設省區塊鏈網路與跨境可信資料空間，探索“空間即服務”；最佳化跨境通訊樞紐，支援基礎電信企業擴容直連港澳光纜。 打造特色應用場景。圍繞產業、民生、治理部署資料服務、醫療、教育、科研、製造、貿易、金融、便利化服務、協同化治理九類場景，涵蓋“來數加工”、跨境診療、智慧網聯汽車、跨境電商陽光化、數字人民幣、社保服務“灣區通”等。 培育特優服務生態。建設資料特區創新合作中心，培育合規安全、流通交易、技術服務三類生態，降低企業跨境合規與應用門檻。 構建國際合作平臺。支援廣州(南沙)、深圳(前海、河套)、橫琴、汕頭立足各自優勢，深化與共建“一帶一路”國家、葡語國家、東南亞及拉美等地區的跨境資料合作。（中新網）"
-    },
-    {
-      "id": "mkt:01a0a3bd-7e24-7118-858b-77fafdf08cf6",
-      "time": "2026-09-15 14:24:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "HSBC raised its PT on SpaceX (SPCX.O) to $150 from $117."
-    },
-    {
-      "id": "5094503",
-      "time": "2026-09-15 14:24:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：葉門武裝部隊空軍襲擊了胡塞武裝位於赫蘭山下的武器庫、朱巴的武器庫。"
     }
   ]
 }

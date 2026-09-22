@@ -1,7 +1,70 @@
 {
   "date": "2026-09-22",
-  "count": 1080,
+  "count": 1086,
   "items": [
+    {
+      "id": "te:markets:585506",
+      "time": "2026-09-22 14:27:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Positive Open — European equity markets were set to open slightly higher on Tuesday, building on the previous session’s gains after an AI-led rally on Wall Street boosted optimism over semiconductor demand. The rally followed renewed enthusiasm around Meta’s AI agent, Muse, easing concerns about a slowdown in AI development and supporting demand for chips powering the technology. Market sentiment was also lifted by expectations for a summit between Presidents Donald Trump and Xi Jinping this week, along with hopes for talks between Trump and his Iranian counterpart and other Gulf leaders. In Europe, investors will focus on UK public sector borrowing and Spain’s trade data, alongside earnings from British companies Smiths and Kingfisher. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both up about 0.1%."
+    },
+    {
+      "id": "5107001",
+      "time": "2026-09-22 14:26:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "彪馬(PUMA SE) <PUMG.DE> 法蘭克福早盤股價下跌1.9%。"
+    },
+    {
+      "id": "5107000",
+      "time": "2026-09-22 14:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮新停機坪啟用 為新型專用直升機“定製”】美國總統特朗普21日在白宮南草坪出席儀式，正式啟用一處新建的花崗岩直升機停機坪。據報道，這處新建停機坪用於起降新一代總統專用直升機“海軍陸戰隊一號”。（新華社）"
+    },
+    {
+      "id": "mkt:01a0c7ca-c15c-7118-863b-008394686d2a",
+      "time": "2026-09-22 14:25:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Aramco gives Asian refiners informal assurance of imminent Yanbu loadings】Traders say Aramco has informally told several Asian refiners they will soon be able to load cargoes at Yanbu on the Red Sea. At least three refiners received informal assurances from Aramco executives about shipments but have not been given formal notices or a specific timetable. Yanbu loadings were almost entirely halted after the east‑west pipeline was shut on Sept. 10 following drone attacks launched from Iraq; the pipeline had been delivering about 4 mln b/d to the port. A source last week said Saudi Arabia was seeking to restore roughly half the pipeline’s capacity within days, but Aramco has not issued an update."
+    },
+    {
+      "id": "mkt:01a0c7c9-e3c0-7118-863a-fda3b4cab9fc",
+      "time": "2026-09-22 14:24:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China government bond futures rose intraday; the 30-year main contract gained 0.30% to 117.080 yuan. The 10-year rose 0.09% to 109.62 yuan, the 5-year 0.06% to 106.585 yuan and the 2-year 0.02% to 102.61 yuan."
+    },
+    {
+      "id": "mkt:01a0c7c9-6d2a-7118-863a-f01b739c1362",
+      "time": "2026-09-22 14:24:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000063.SZ",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "A-share optical-communications sector weakened again in late trade; Zhongji Xuchuang, Xinyisheng, Yangtze Optical Fibre and Cable, Tianfu Communication, Lianxun Instruments and ZTE all slipped."
+    },
     {
       "id": "5106999",
       "time": "2026-09-22 14:24:10",
