@@ -1,7 +1,93 @@
 {
-  "updated": "2026-09-22 09:22:30",
-  "count": 13422,
+  "updated": "2026-09-22 09:26:22",
+  "count": 13425,
   "items": [
+    {
+      "id": "5106583",
+      "time": "2026-09-22 09:25:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中塑股份上市首日開盤大漲超384%】中塑股份上市首日開盤漲384.37%，現報267.76元，該股發行價為55.28元。按開盤價計算，投資者中一簽（500股）浮盈約10.62萬元。"
+    },
+    {
+      "id": "mkt:01a0c6b8-1086-7118-8634-9861df352a99",
+      "time": "2026-09-22 09:25:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President VON DER LEYEN said she spoke with Philippine President MARCOS and they have just concluded a free trade agreement."
+    },
+    {
+      "id": "5106582",
+      "time": "2026-09-22 09:25:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊漲，上證指數漲0.35%，深證成指漲0.94%，創業板指漲1.37%。"
+    },
+    {
+      "id": "mkt:01a0c6b7-b556-7118-8634-9074e6d62d78",
+      "time": "2026-09-22 09:25:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "ChiNext Index"
+      ],
+      "text": "At the open of China’s A-share market, the Shanghai Composite Index was up 0.35%, the Shenzhen Composite Index up 0.94% and the ChiNext Index up 1.37%."
+    },
+    {
+      "id": "mkt:01a0c6b6-533c-7118-8634-8adb4b10e558",
+      "time": "2026-09-22 09:23:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "06809.HK",
+        "Impact bullish",
+        "09903.HK",
+        "06082.HK"
+      ],
+      "text": "Hong Kong-listed semiconductor stocks opened higher; Lanqi Technology (06809.HK) jumped 11.73% at the open, Tianshu Zhixin (09903.HK) rose 5.85%, while Biren Technology (06082.HK) and Junzheng (03223.HK) also advanced."
+    },
+    {
+      "id": "5106581",
+      "time": "2026-09-22 09:23:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：我與菲律賓總統馬科斯進行了通話，雙方剛剛就一項自由貿易協定達成了一致。"
+    },
+    {
+      "id": "te:markets:585434",
+      "time": "2026-09-22 09:23:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 2"
+      ],
+      "text": "Bitcoin Hovers Near 8-Month High — Bitcoin held above $85,000 on Tuesday, hovering near its highest level since January while keeping its 7% gain over the past five days and about 35% increase over the past three months. Recent gains were partly supported by softer crude prices and renewed institutional demand, with US spot Bitcoin ETFs recording $433 million in net inflows on September 18, while corporate buying also increased as Strategy resumed Bitcoin purchases after a three-week pause. Regulatory developments also offered support, with the US SEC granting a five-year exemption to platforms using blockchain infrastructure to facilitate trading in tokenized stocks and other securities. The move came even as the US Senate last week halted further progress on the Clarity Act, which aims to establish clearer rules for digital assets. Meanwhile, traders are watching this week’s US-China summit for signs of progress toward easing trade tensions, which could further influence broader risk sentiment."
+    },
+    {
+      "id": "5106580",
+      "time": "2026-09-22 09:22:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲2.7%，報191.9萬韓元。"
+    },
     {
       "id": "5106579",
       "time": "2026-09-22 09:21:53",
@@ -55,6 +141,15 @@
         "01801.HK"
       ],
       "text": "Hong Kong open: Hang Seng Index +0.51%, Hang Seng Tech Index +1.01%. Innovative-drug/biotech names led gains; Cinda Biotech (01801.HK) +1.27% at the open."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609223880850884",
+      "time": "2026-09-22 09:21:15",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展350億元7天期逆回購操作，操作利率為1.40%。"
     },
     {
       "id": "5106577",
@@ -122884,62 +122979,6 @@
         "SSE Composite"
       ],
       "text": "A-share short-drama gaming sector opened higher; Aorui De hit the daily trading limit, Guilin Tourism climbed over 6%, and Zhongwen Online, Dianhun Network, Yidian Tianxia and BlueFocus also advanced."
-    },
-    {
-      "id": "5094115",
-      "time": "2026-09-15 09:25:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股三大股指開盤齊跌，上證指數跌0.14%，深證成指跌0.17%，創業板指跌0.14%。"
-    },
-    {
-      "id": "mkt:01a0a2ab-499a-7118-8582-33266c523205",
-      "time": "2026-09-15 09:25:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "At the open in China's A-share market, the Shanghai Composite fell 0.14%, the Shenzhen Composite Index fell 0.17% and the ChiNext Index fell 0.14%. Fiber-optic, CPO and PCB-related stocks led declines."
-    },
-    {
-      "id": "5094114",
-      "time": "2026-09-15 09:25:16",
-      "tags": [],
-      "text": "三大股指低開，滬指跌0.14％，深成指跌0.17％，創業板跌0.14％。"
-    },
-    {
-      "id": "mkt:01a0a2aa-a50d-7118-8582-2947158ef1ed",
-      "time": "2026-09-15 09:24:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【PBOC nets CNY 5,920bn via reverse repos today】The PBOC conducted CNY 5,970bn of overnight reverse repos and CNY 5,000bn of buyout-style reverse repos; CNY 5,040bn of overnight and CNY 10bn of 7-day reverse repos matured, resulting in a net injection of CNY 5,920bn in open-market operations today."
-    },
-    {
-      "id": "5094113",
-      "time": "2026-09-15 09:23:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：攻關端側智慧計算晶片、高階儲存晶片、存算一體等新型架構】工業和資訊化部、國家發展改革委印發《電子資訊製造業發展“十五五”規劃》。其中提到，攻關端側智慧計算晶片、高階儲存晶片，開發近存計算、存算一體等新型架構。研發端側作業系統和晶片使能軟體，完善開發框架、運算元庫、推理加速引擎等開發環境。研發演算法架構和輕量化技術，發展智慧體技術，研究多模型排程、多智慧體協作體系。研發高動態、高實時姿態和運動控制技術，開發具身智慧演算法庫、動作庫、知識庫。"
-    },
-    {
-      "id": "mkt:01a0a2a8-da1d-7118-8582-2173c41719a2",
-      "time": "2026-09-15 09:22:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "【Liquidity indicator: market rates trade around policy rate】Early session Sept 15 — DR007 fell to 1.4100%, trading around the PBOC's 1.4% 7-day policy rate. The PBOC skipped 7-day reverse repos for a second consecutive trading day but injected 597 bln yuan via overnight reverse repos. DR007 is the short-end money-market anchor; the spread versus the PBOC 7-day reverse-repo rate is used to gauge market liquidity (DR007 above the policy rate signals tightness; below signals ample funds)."
     }
   ]
 }
