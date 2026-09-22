@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-23 00:11:50",
-  "count": 13304,
+  "updated": "2026-09-23 00:15:50",
+  "count": 13303,
   "items": [
+    {
+      "id": "te:markets:585781",
+      "time": "2026-09-23 00:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HCA Stock Price Hits 4-week High — HCA shares increased to 436.32 USD, the highest since August 2026. Over the past 4 weeks, HCA gained 1.58%, and in the last 12 months, it increased 6.49%."
+    },
+    {
+      "id": "mkt:01a0c9e4-888d-7118-864b-1a1c42089e0b",
+      "time": "2026-09-23 00:13:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S.-Denmark-Greenland agreement permits the U.S. to establish a \"Golden Dome\" defense system on Greenland."
+    },
+    {
+      "id": "mkt:01a0c9e4-418d-7118-864b-1668a74fcd66",
+      "time": "2026-09-23 00:12:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Market sources say Meta Platforms (META.O) is testing a \"live concierge\" service for its newly launched personal assistant MUSE."
+    },
+    {
+      "id": "te:markets:585780",
+      "time": "2026-09-23 00:12:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.53% Lower — The FTSE MIB Index dropped 276 points or 0.53 percent on Tuesday to close at 52096 points. Losses were led by Poste Italiane (-4.39%), Finecobank (-3.69%) and Telecom Italia (-3.63%). Offsetting the fall, top gainers were STMicroelectronics (4.47%), Prysmian (2.72%) and Davide Campari-Milano (1.95%)."
+    },
+    {
+      "id": "5108337",
+      "time": "2026-09-23 00:11:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外交部長：將烏斯馬諾夫和弗裡德曼移出制裁名單的決定可恥且毫無道理。"
+    },
     {
       "id": "te:markets:585779",
       "time": "2026-09-23 00:11:00",
@@ -121344,67 +121397,6 @@
         "國際"
       ],
       "text": "烏克蘭議員：政府已批准 2027 年預算草案。"
-    },
-    {
-      "id": "mkt:01a0a5d9-fa6c-7118-85a0-06db4e293be4",
-      "time": "2026-09-16 00:15:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude jumped 3.00% intraday to $100.95/bbl."
-    },
-    {
-      "id": "mkt:01a0a5d9-9884-7118-859f-fb1f64a900ae",
-      "time": "2026-09-16 00:14:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports Rep. Thomas Massie filed a resolution in the House to impeach U.S. Secretary of Defense Hegseth, seeking to open impeachment proceedings."
-    },
-    {
-      "id": "5095820",
-      "time": "2026-09-16 00:14:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲4%，現報105.46美元/桶。"
-    },
-    {
-      "id": "5095819",
-      "time": "2026-09-16 00:13:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：汽油價格低於前總統拜登任期內的價格。"
-    },
-    {
-      "id": "mkt:01a0a5d7-769c-7118-859f-f7acf9f7e500",
-      "time": "2026-09-16 00:12:36",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israel Defense Forces says it killed the commander of a Palestinian Islamic Jihad rocket unit."
-    },
-    {
-      "id": "te:markets:583955",
-      "time": "2026-09-16 00:12:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.14% Lower — The FTSE MIB Index dropped 74 points or 0.14 percent on Tuesday to close at 51555 points. Losses were led by UniCredit (-2.34%), Moncler (-1.69%) and Bper Banca (-1.66%). Offsetting the fall, top gainers were Tenaris (3.34%), Terna Rete Elettrica Nazionale (2.76%) and Saipem (1.76%)."
     }
   ]
 }
