@@ -1,7 +1,45 @@
 {
   "date": "2026-09-23",
-  "count": 495,
+  "count": 499,
   "items": [
+    {
+      "id": "mkt:01a0cb42-7a55-7118-8651-e9f743f7022b",
+      "time": "2026-09-23 06:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's president said the Golan Heights is Syrian territory under UN resolutions and is not open to discussion; an international committee may be needed to review Israel's security concerns and distinguish legitimate issues from subjective perceptions."
+    },
+    {
+      "id": "5108608",
+      "time": "2026-09-23 06:35:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【科技硬體仍是後市重要投資主線】日前，企業級AI基礎設施領域服務商星環科技登陸港股市場，又一家A股上市公司以“A+H”模式完成赴港上市。Wind資料顯示，截至9月22日，今年以來已有35家A股上市公司成功赴港上市，募資超2400億港元，貢獻了新股數量的三成以上、募資總額的六成以上，成為今年以來港股IPO市場的“主力軍”。從二級市場表現看，今年以來港股整體呈現震盪調整態勢，近幾個交易日市場主要股指出現反彈。在業內人士看來，短期港股或維持區間震盪態勢，結構性機會仍集中在科技硬體和高股息資產，其中AI基礎設施、半導體和硬體裝置的產業景氣度仍然較高，但後續市場可能進一步由“資本開支擴張的受益方”轉向“資本開支回報能夠實際兌現的方向”。 (中證報)"
+    },
+    {
+      "id": "te:markets:585814",
+      "time": "2026-09-23 06:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Gains by 2.11% — Top commodity gainers are Copper (2.11%), Platinum (2.04%), Silver (1.93%) and Gold (0.50%). Biggest loser is Iron Ore CNY (-0.98%)."
+    },
+    {
+      "id": "5108607",
+      "time": "2026-09-23 06:34:46",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 全天 日本休市；\n② 時間待定 2026世界製造業大會閉幕，2026年家用服務機器人產業生態技術交流會，第五屆全球數字貿易博覽會（9月23-27日）；\n③ 13:00 印度9月製造業、服務業、綜合PMI初值；\n④ 15:00 歐洲央行副行長Boris Vujcic談論數字銀行、數字監管等問題；\n⑤ 15:15 法國9月製造業、服務業、綜合PMI初值；\n⑥ 15:30 德國9月製造業、服務業、綜合PMI初值；\n⑦ 15:45 歐洲央行管委兼愛沙尼亞央行行長Ulo Kaasik講話；\n⑧ 16:00 歐元區9月製造業、服務業、綜合PMI初值；\n⑨ 16:30 英國9月製造業、服務業、綜合PMI初值；\n⑩ 16:50 歐洲央行管委兼克羅埃西亞央行行長Zigman談論貨幣政策與信貸問題；\n時間待定 高通驍龍峰會（9月22-24日），Meta Connect 2026；伊朗總統佩澤希齊揚預計將於23日在聯合國大會上發表講話；\n21:45 美國9月標普全球服務業、製造業、綜合PMI初值；\n22:05 美聯儲理事（曾擔任負責金融監管事務的副主席）Barr在芝加哥聯儲談論住房問題；\n22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n次日00:00 美國芝加哥聯儲主席Goolsbee就經濟問題接受Podcast採訪，歐洲央行執委Cipollone講話；\n次日00:30 歐洲央行首席經濟學家Lane講話；\n次日07:00 Meta開發者大會（9月23-24日），扎克伯格將發表主題演講。"
+    },
     {
       "id": "mkt:01a0cb3f-15bf-7118-8651-e335ac9d83b5",
       "time": "2026-09-23 06:31:44",
