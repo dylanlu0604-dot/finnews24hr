@@ -1,7 +1,93 @@
 {
-  "updated": "2026-09-22 09:53:26",
-  "count": 13412,
+  "updated": "2026-09-22 09:57:17",
+  "count": 13411,
   "items": [
+    {
+      "id": "5106632",
+      "time": "2026-09-22 09:55:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【端側AI概念震盪拉昇 瑞芯微封漲停】端側AI概念盤中震盪拉昇，瑞芯微封漲停，榮旗科技、博通整合、恆玄科技、星宸科技、中科藍訊、翱捷科技漲幅靠前。"
+    },
+    {
+      "id": "5106631",
+      "time": "2026-09-22 09:55:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國考慮將核能與阿拉斯加專案作為下一批美韓合作專案。"
+    },
+    {
+      "id": "5106630",
+      "time": "2026-09-22 09:55:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "mkt:01a0c6d3-078d-7118-8635-9a1c00fb2fc4",
+      "time": "2026-09-22 09:55:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Guangdong holds second AI application matchmaking conference in Guangzhou】Guangdong holds its second AI application matchmaking conference in Guangzhou on Sept. 22, themed \"Connect thousands of industries, empower hundreds of sectors.\" The event will showcase recent AI developments, provide a platform for application‑scenario matching and precise supply‑demand links, and aims to promote high‑level AI application and province‑wide high‑quality AI development. This is the province's second such conference this year; the inaugural April event drew nearly 200 firms and displayed more than 300 AI results."
+    },
+    {
+      "id": "5106629",
+      "time": "2026-09-22 09:55:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體板塊走高，瑞芯微漲停】半導體板塊走高，瑞芯微漲停，先導基電此前封板，聚辰股份、凱華材料、摩爾執行緒漲超10%，帝奧微、燧原科技、星宸科技、全志科技、晶晨股份等跟漲。"
+    },
+    {
+      "id": "5106628",
+      "time": "2026-09-22 09:55:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年全國國慶文化和旅遊消費月啟動】9月22日，文化和旅遊部在雲南省彌勒市舉辦2026年全國國慶文化和旅遊消費月主場活動，正式啟動2026年全國國慶文化和旅遊消費月。消費月將從9月下旬持續至10月底，文化和旅遊部協同有關部門、支援單位等圍繞中秋、國慶推出系列文旅活動和惠民措施，豐富應季文旅產品和服務供給，更好滿足居民遊客雙節假期和秋季文旅消費需求。消費月期間，各地將圍繞遊歷山河、中秋團圓、賞秋休閒、紅色旅遊、研學旅遊、夜間經濟、非遺美食等熱點需求，增加優質文旅產品供給，舉辦超2萬場次文旅活動，發放超3.1億元消費券等消費補貼，為居民遊客假期出遊提供更豐富的選擇、更舒心的體驗。（新華社）"
+    },
+    {
+      "id": "5106627",
+      "time": "2026-09-22 09:54:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第二屆廣東省人工智慧應用對接大會今日召開】據南方日報，9月22日，第二屆廣東省人工智慧應用對接大會將在廣州召開。大會將圍繞“智聯千行、賦能百業”主題，展示人工智慧發展最新態勢以及創新舉措，搭建人工智慧應用場景對接、供需精準匹配的交流平臺，推動人工智慧高水平應用，促進全省人工智慧高質量發展。這是今年以來廣東第二次舉辦人工智慧應用對接大會。4月舉辦的首屆大會，吸引了近200家企業參加，現場展出了300多項人工智慧最新成果。"
+    },
+    {
+      "id": "5106626",
+      "time": "2026-09-22 09:54:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國在美首個投資專案為得克薩斯州天然氣工廠。"
+    },
+    {
+      "id": "mkt:01a0c6d1-ae6c-7118-8635-910d4d046328",
+      "time": "2026-09-22 09:53:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP reports South Korea is in talks with the United States to invest in a 5–10% stake in Westinghouse Electric."
+    },
+    {
+      "id": "5106625",
+      "time": "2026-09-22 09:53:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念震盪回升 北陸藥業漲超10%】早盤創新藥概念震盪回升，北陸藥業漲超10%，此前哈藥股份、新華製藥漲停，瑞康醫藥、百花醫藥、太龍藥業、鍵凱科技、百克生物跟漲。"
+    },
     {
       "id": "mkt:01a0c6d0-b18b-7118-8635-8ec394b745ee",
       "time": "2026-09-22 09:52:40",
@@ -122740,117 +122826,6 @@
         "Energy"
       ],
       "text": "【UN: Gaza's critical public services face risk of energy supply disruption】On the 14th (local time) the UN said Israel's ongoing military operations in the Gaza Strip continue to cause civilian casualties. Restricted access to engine lubricants and parts, together with fuel shortages, is placing severe strain on energy supplies for Gaza's water, desalination and medical services. The UN Office for the Coordination of Humanitarian Affairs said military operations continued over the weekend, particularly west of the temporary ceasefire's so-called 'yellow line'."
-    },
-    {
-      "id": "5094168",
-      "time": "2026-09-15 09:56:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量680億元。"
-    },
-    {
-      "id": "mkt:01a0a2c7-a822-7118-8583-6ec738941a7d",
-      "time": "2026-09-15 09:56:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "SoftBank's U.S. unit SB Energy filed a domestic securities registration in Japan on the 15th for a U.S. IPO, seeking up to $500m (about ¥77 billion) in Japan and targeting a Nasdaq listing in September 2026."
-    },
-    {
-      "id": "5094167",
-      "time": "2026-09-15 09:56:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國財長提名人：在穩固的美韓同盟基礎上，將著眼於戰略利益與價值觀進行探討。"
-    },
-    {
-      "id": "te:economy:583658",
-      "time": "2026-09-15 09:56:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Hits Fresh 15-Year High — Australia’s 10-year government bond yield rose toward 5.4%, hitting a fresh 15-year high as soaring oil prices heightened inflation concerns and fueled expectations of further global policy tightening. Global bond markets remained under intense pressure as escalating Middle East tensions raised concerns over disruptions to energy supplies. The resulting oil shock has strengthened expectations for further RBA tightening, with markets now implying an 85% chance of a 25bp hike to 4.60% on September 29. Governor Bullock is scheduled to appear before Parliament and is expected to reiterate that rates may need to rise further to bring inflation under control. Meanwhile, the US Federal Reserve is also expected to keep policy tighter this week and potentially move again by December, adding pressure on yields. Long-end yields were also pushed higher by surging corporate debt issuance from AI companies, which has constrained capital allocation by primary dealers and other financial institutions."
-    },
-    {
-      "id": "mkt:01a0a2c6-88b6-7118-8583-6378a9552b29",
-      "time": "2026-09-15 09:55:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance minister nominee said talks on investment in the United States are ongoing, with annual investments capped at $20 billion and a total cap of $200 billion; specifics are set out in a memorandum of understanding."
-    },
-    {
-      "id": "5094166",
-      "time": "2026-09-15 09:54:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國財長提名人：關於美國投資的磋商正按諒解備忘錄（MOU）的規定進行，即年度投資額不超過200億美元，總額不超過2000億美元。"
-    },
-    {
-      "id": "te:markets:583657",
-      "time": "2026-09-15 09:54:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Slips as Dollar, Oil Gain — The Japanese yen weakened toward 155 per dollar on Tuesday, declining for a second consecutive session as the dollar strengthened ahead of an expected US Federal Reserve interest rate hike this week. The yen also faced pressure from rising oil prices, which increase import costs for Japan’s oil-dependent economy. Still, the Japanese currency remained near seven-month highs amid expectations for more aggressive monetary tightening by the Bank of Japan, the unwinding of carry trades and signs of increased asset repatriation by domestic investors. The BOJ is widely expected to raise its policy rate to 1.25% on Friday, its highest level since April 1995, as the central bank responds to persistent upside risks to inflation. Markets are also watching for guidance from the BOJ on the potential for another rate hike later this year."
-    },
-    {
-      "id": "mkt:01a0a2c5-be82-7118-8583-5e416ab81c97",
-      "time": "2026-09-15 09:54:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude oil futures rose more than 1% intraday to $102.92 per barrel."
-    },
-    {
-      "id": "mkt:01a0a2c5-71b2-7118-8583-5046739cf546",
-      "time": "2026-09-15 09:54:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【CNOOC starts construction on China’s largest international offshore oil and gas contract】CNOOC said construction has begun in Shandong on the Qatar Bohani oilfield redevelopment project, located about 100 km east of Qatar’s coast in waters up to roughly 40m deep. The contract is valued at $4.0 bln. CNOOC said successful delivery will advance Belt and Road international oil and gas cooperation."
-    },
-    {
-      "id": "5094165",
-      "time": "2026-09-15 09:53:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【必貝特醫藥任命Daniel A. Castro為BeBetter Pharma首席商務官】9月15日，必貝特醫藥宣佈，Daniel A. Castro於2026年9月14日正式加入公司美國子公司BeBetter Pharma Inc.，擔任首席商務官（Chief Business Officer, CBO），負責公司全球商務拓展戰略、國際合作、對外許可及戰略合作伙伴關係建設，並協助推進公司美國業務平臺及國際化團隊建設。"
-    },
-    {
-      "id": "te:economy:583656",
-      "time": "2026-09-15 09:53:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Bond Yield Hits 15-year High — Australia 10 Year Government Bond Yield increased to 5.40%, the highest since May 2011. Over the past 4 weeks, Australia 10Y Bond Yield gained 36.30 basis points, and in the last 12 months, it increased 116.00 basis points."
     }
   ]
 }
