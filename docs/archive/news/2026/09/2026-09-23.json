@@ -1,7 +1,69 @@
 {
   "date": "2026-09-23",
-  "count": 406,
+  "count": 412,
   "items": [
+    {
+      "id": "mkt:01a0cacd-fb0b-7118-8650-9bfe299c9314",
+      "time": "2026-09-23 04:28:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "DXY"
+      ],
+      "text": "New York Fed System Open Market Account manager Perli said the Federal Reserve's reserve management purchases (RMP) are not a preset path."
+    },
+    {
+      "id": "te:markets:585802",
+      "time": "2026-09-23 04:27:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Oil Extends Losses on US-Iran Diplomacy Hopes — Crude oil fell below $90 a barrel on Tuesday, extending losses into a fifth session after US President Donald Trump said the US held three-hour talks with Iran on the sidelines of the UN General Assembly. In his UN address, Trump said he had a “big decision” to make on whether to seek a negotiated deal with Iran or “annihilate the Islamic Republic,” adding that he believed a deal would follow the election. Iran’s proposal has been conveyed to the US, according to a senior Iranian government official. It includes the resumption of talks aimed at permanently ending the hostilities. If the US were to take steps toward ending the blockade, which has been crippling Iranian oil exports, Iran would be prepared to reopen the Strait of Hormuz within seven days, the official said. Meanwhile, Saudi Arabia is reportedly preparing to restart its critical East-West pipeline, aiming to restore meaningful flows by Saturday. The pipeline was reportedly already pumping at a low rate."
+    },
+    {
+      "id": "mkt:01a0cacc-f2ea-7118-8650-95e42abc4e77",
+      "time": "2026-09-23 04:27:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "New York Fed System Open Market Account (SOMA) manager Perley said the Fed's forecasting process is robust."
+    },
+    {
+      "id": "mkt:01a0cacc-eaae-7118-8650-8e7941ea5cb6",
+      "time": "2026-09-23 04:27:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "New York Fed System Open Market Account (SOMA) manager Perli said central clearing of Fed repo operations would be beneficial."
+    },
+    {
+      "id": "5108571",
+      "time": "2026-09-23 04:26:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大總理卡尼：我認同AI公司CEO們有關該行業需要監管的看法。"
+    },
+    {
+      "id": "5108570",
+      "time": "2026-09-23 04:26:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "紐約聯儲系統公開市場賬戶經理佩爾利：美聯儲的儲備預測流程穩健可靠。美聯儲回購操作實施集中清算將帶來利好。"
+    },
     {
       "id": "mkt:01a0cacc-44bc-7118-8650-847cd77f7aaa",
       "time": "2026-09-23 04:26:19",
