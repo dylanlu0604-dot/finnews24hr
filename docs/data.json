@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-23 06:21:19",
-  "count": 13415,
+  "updated": "2026-09-23 06:25:05",
+  "count": 13418,
   "items": [
+    {
+      "id": "mkt:01a0cb36-c05b-7118-8651-dbed1457939b",
+      "time": "2026-09-23 06:22:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Tasnim News reports Iranian President Pezeshkian has just arrived in New York to attend the 81st UN General Assembly and will address the assembly."
+    },
+    {
+      "id": "5108603",
+      "time": "2026-09-23 06:21:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗總統抵達紐約，參加聯合國大會。"
+    },
+    {
+      "id": "mkt:01a0cb35-a9ba-7118-8651-d02fd459db7b",
+      "time": "2026-09-23 06:21:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Azerbaijan's civil aviation authority said it will suspend flights by Iranian carriers effective today, citing U.S. sanctions."
+    },
+    {
+      "id": "5108602",
+      "time": "2026-09-23 06:21:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風“杜鵑”已致日本7人死亡】當地時間23日獲悉，受今年第25號颱風“杜鵑”帶來的強降雨影響，日本關東地區和伊豆群島遭遇創紀錄規模暴雨，多地接連發生山體滑坡、河流泛濫引發的洪水災害。截至目前，千葉縣和神奈川縣共有7人死亡、5人失蹤。此外，住宅受災情況也不斷增加，目前已確認千葉縣、神奈川縣和茨城縣共有500多棟房屋受損。（央視新聞）"
+    },
     {
       "id": "mkt:01a0cb33-f807-7118-8651-cf02f60decad",
       "time": "2026-09-23 06:19:35",
@@ -122415,15 +122449,6 @@
         "其他"
       ],
       "text": "【Meta將推出無攝像頭智慧眼鏡，應對日益加劇的隱私顧慮】據知情人士透露，Meta計劃今年秋季推出一款無攝像頭智慧眼鏡。現有智慧眼鏡的攝像頭功能持續引發隱私爭議，Meta希望藉此擴充硬體產品線。這款內部代號為Luna（月神）的新型眼鏡，內建6枚麥克風，支援使用者與Meta AI聊天機器人、新發布的消費級AI智慧體Muse語音互動；鏡腿側邊設有按鍵，可一鍵喚起Meta AI；搭載開放式揚聲器，聲音定向傳至耳旁，無需封堵耳道。相比雷朋聯名款，Luna鏡腿設計更加纖細，外觀更接近普通民用眼鏡。"
-    },
-    {
-      "id": "5096085",
-      "time": "2026-09-16 06:24:14",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Meta將於今年秋季推出無攝像頭智慧眼鏡。"
     }
   ]
 }
