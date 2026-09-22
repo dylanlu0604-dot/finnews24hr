@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-23 00:38:54",
-  "count": 13306,
+  "updated": "2026-09-23 00:42:50",
+  "count": 13301,
   "items": [
+    {
+      "id": "5108357",
+      "time": "2026-09-23 00:42:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國阿拉斯加州參議員沙利文呼籲暫停美國柴油出口。"
+    },
     {
       "id": "5108356",
       "time": "2026-09-23 00:37:00",
@@ -121343,63 +121351,6 @@
         "Impact bullish"
       ],
       "text": "WTI crude futures rose 4.00% intraday to $105.97/bbl."
-    },
-    {
-      "id": "5095834",
-      "time": "2026-09-16 00:41:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報108.86美元/桶。"
-    },
-    {
-      "id": "te:markets:583961",
-      "time": "2026-09-16 00:41:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Extends Rally — Brent crude rose past $108 per barrel on Tuesday, the highest in over four months, on mounting curbs to supply from the Middle East and fresh setbacks on Libyan output. Saudi Arabia closed its East-West pipeline following attacks from Iraqi territory. The strikes suspended activity in infrastructure that was allocating 7 million barrels per day of Saudi oil to the Red Sea, an alternative to halted shipments through the Persian Gulf due to the Iranian blockade on tankers. The prolonged halt of tanker flows from the region forced major OPEC members to cut oil production, with Saudi output recently dropping to its lowest since 1990. Meanwhile, Libya suspended activity in several oil fields and warned it could declare force majeure as protests by the Petroleum Facilities Guard shut off the Hamada-Zawiya crude-loading pipeline. Dwindling stockpiles of oil in China drove the major importer to raise orders in August, while the US SPR stands at a near record low."
-    },
-    {
-      "id": "mkt:01a0a5f1-50cf-7118-85a0-8794e42a4644",
-      "time": "2026-09-16 00:40:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of France left its GDP growth forecasts unchanged at 0.9% for 2027 and 1.2% for 2028."
-    },
-    {
-      "id": "te:markets:583960",
-      "time": "2026-09-16 00:40:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 3"
-      ],
-      "text": "Crude Oil Rises Further to 4-Month High — Crude oil rose past $105 per barrel on Tuesday, the highest in over four months, on mounting curbs to supply from the Middle East and fresh setbacks on Libyan output. Saudi Arabia closed its East-West pipeline following attacks from Iraqi territory. The strikes suspended activity in infrastructure that was allocating 7 million barrels per day of Saudi oil to the Red Sea, an alternative to halted shipments through the Persian Gulf due to the Iranian blockade on tankers. The prolonged halt of tanker flows from the region forced major OPEC members to cut oil production, with Saudi output recently dropping to its lowest since 1990. Meanwhile, Libya suspended activity in several oil fields and warned it could declare force majeure as protests by the Petroleum Facilities Guard shut off the Hamada-Zawiya crude-loading pipeline. Dwindling stockpiles of oil in China drove the major importer to raise orders in August, while the US SPR stands at a near record low."
-    },
-    {
-      "id": "mkt:01a0a5f0-faef-7118-85a0-7eb18c5ce896",
-      "time": "2026-09-16 00:40:28",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Banque de France projects EU HICP inflation at 2.3% in 2026, below its June forecast of 2.5%. It raised its 2027 inflation forecast to 1.9% from 1.7% and cut the 2028 forecast to 1.6% from 1.7%."
-    },
-    {
-      "id": "5095832",
-      "time": "2026-09-16 00:39:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國央行預測 2026 年調和消費者物價指數（HICP）通脹率為 2.3%（6 月預測值為 2.5%），2027 年為 1.9%（此前預測 1.7%），2028 年為 1.6%（此前預測 1.7%）。"
     }
   ]
 }
