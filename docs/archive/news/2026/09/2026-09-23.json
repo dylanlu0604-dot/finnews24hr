@@ -1,7 +1,50 @@
 {
   "date": "2026-09-23",
-  "count": 540,
+  "count": 545,
   "items": [
+    {
+      "id": "te:markets:585827",
+      "time": "2026-09-23 07:21:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Extends Losses to Sixth Session — Crude oil slipped below $90 per barrel on Wednesday, extending its decline to a sixth consecutive session as signs of progress emerged in renewed US-Iran talks and efforts continued to restore operations at a key pipeline in Saudi Arabia. President Donald Trump said officials held a “very productive” meeting with Iranian envoys, adding that he is weighing whether to pursue a negotiated agreement or “annihilate the Islamic Republic.” Trump is also expected to meet with other Persian Gulf leaders later this week. A senior Iranian government official said Tehran’s proposal had been conveyed to the US, suggesting that if Washington takes steps toward lifting the blockade that has severely curtailed Iranian oil exports, Iran would be prepared to reopen the Strait of Hormuz within seven days. Meanwhile, Saudi Arabia is seeking to restore oil exports through its vital East-West pipeline in the coming days, allowing Riyadh to resume using an alternative route around the Strait of Hormuz."
+    },
+    {
+      "id": "5108638",
+      "time": "2026-09-23 07:20:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷抗議英方支援在馬島爭議區域延長油氣開採許可 】阿根廷外交部22日向英國駐阿大使館發出照會，抗議馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）當局在英方支援下延長相關企業在馬島及爭議海域的油氣開採許可證有效期。阿根廷外交部在一份宣告中說，在阿根廷大陸架上單方面勘探與開採自然資源是違反國際法和侵犯阿根廷國家主權的行為。阿根廷政府將動用外交、經濟和法律等手段捍衛馬島主權，並制裁那些試圖非法開採自然資源的企業和個人。馬島當局21日宣佈將現有全部海上油氣生產許可證延長5年，並強調這一決定得到英國政府支援。"
+    },
+    {
+      "id": "5108637",
+      "time": "2026-09-23 07:20:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：四季度有望出現“吃飯行情”】展望後市，華安證券策略團隊釋出觀點稱，在海外擾動逐步緩釋的條件下，A股有望逐步從“震盪區間”擺脫，年末“情緒修復”機會仍可期待，四季度有望出現幅度可觀的“吃飯行情”，AI算力硬體及配套方向仍是首選，具備景氣或催化的方向也值得重視。本輪AI產業景氣週期行情正演繹至第二階段——業績驅動上漲過程的中段，參考歷史規律，中段震盪期結束後將迎來一波加速上漲行情。（上海證券報）"
+    },
+    {
+      "id": "5108636",
+      "time": "2026-09-23 07:19:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國司法部稱加州大學舊金山分校醫學院在招生中存在種族歧視】美國司法部在一份宣告中表示，加州大學舊金山分校醫學院在2023至2025屆新生的錄取與拒絕錄取過程中，存在基於種族的歧視行為。司法部稱，將展開和解談判，以確保其招生做法符合法律合規要求。"
+    },
+    {
+      "id": "mkt:01a0cb6a-84c8-7118-8652-41d4788b0256",
+      "time": "2026-09-23 07:19:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA said Iranian Foreign Minister Araghchi met and held talks with Iraq's foreign minister during the 81st UN General Assembly."
+    },
     {
       "id": "5108635",
       "time": "2026-09-23 07:17:58",
