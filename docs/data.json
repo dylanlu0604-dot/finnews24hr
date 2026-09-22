@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-23 03:18:55",
-  "count": 13393,
+  "updated": "2026-09-23 03:22:43",
+  "count": 13390,
   "items": [
+    {
+      "id": "mkt:01a0ca91-8bae-7118-864f-2395020cb059",
+      "time": "2026-09-23 03:22:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the situation in Cuba does not look good."
+    },
+    {
+      "id": "5108524",
+      "time": "2026-09-23 03:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：古巴形勢不太樂觀。"
+    },
+    {
+      "id": "te:markets:585798",
+      "time": "2026-09-23 03:20:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas Hits 10-week High — Natural gas increased to 3.01 USD/MMBtu, the highest since July 2026. Over the past 4 weeks, Natural gas gained 5.66%, and in the last 12 months, it decreased 4.6%."
+    },
+    {
+      "id": "mkt:01a0ca8f-408c-7118-864f-1c193e2a8ad4",
+      "time": "2026-09-23 03:19:40",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Zelenskiy says Ukraine and EU teams will accelerate deployment of EU funds."
+    },
+    {
+      "id": "mkt:01a0ca8f-382d-7118-864f-10898b3074ce",
+      "time": "2026-09-23 03:19:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukrainian President Zelenskiy said he discussed Ukraine's funding shortfall with European Commission President VON DER LEYEN and the IMF managing director."
+    },
+    {
+      "id": "mkt:01a0ca8f-3341-7118-864f-09c07336a717",
+      "time": "2026-09-23 03:19:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump, on \"Shield of the Americas\", said the region's resources must always belong to its peoples."
+    },
+    {
+      "id": "5108523",
+      "time": "2026-09-23 03:18:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美洲的資源必須永遠屬於美洲人民。"
+    },
     {
       "id": "mkt:01a0ca8d-9af2-7118-864f-06a5bb131efe",
       "time": "2026-09-23 03:17:52",
@@ -122077,92 +122141,6 @@
         "國際"
       ],
       "text": "【摩根大通預計第三季度投資銀行和交易業務將實現增長】摩根大通預計第三季度交易收入和投資銀行手續費收入將實現增長，這與美國銀行週一發出的警告形成鮮明對比。摩根大通聯席總裁Doug Petno週二在巴克萊舉行的會議上表示，截至9月30日的季度，交易收入預計將同比增長約15%至19%。他表示，該行投資銀行手續費收入預計也將錄得類似增幅。"
-    },
-    {
-      "id": "te:markets:583970",
-      "time": "2026-09-16 03:21:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rally Intensifies on Middle East Risks — Brent crude rose to around $108.5 a barrel on Tuesday, its highest level in four months, after Saudi Arabia reportedly cancelled some shipments following drone attacks that forced the closure of its key export pipeline. Saudi Arabia reportedly informed European customers that some September deliveries were cancelled, while oil loadings at Yanbu were suspended. Meanwhile, Iran-backed Houthi militants renewed strikes on Saudi Arabia this week. Security in the Strait of Hormuz remains volatile, with at least two tankers attacked since Saturday. Commodity vessel traffic through the strait fell to four on Monday from 10 a day earlier, Kpler data showed. In Libya, the national oil company suspended operations at two oilfields and a pumping station amid protests. Russia also struck petrol stations in Kyiv and Ukraine targeted a Russian oil refinery, despite US President Trump’s announcement that both sides had agreed to halt attacks on each other’s energy infrastructure."
-    },
-    {
-      "id": "mkt:01a0a683-a2ad-7118-85a2-f04f5eb41ffa",
-      "time": "2026-09-16 03:20:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense department said the threat in Khamis Mushait has been eliminated."
-    },
-    {
-      "id": "5095926",
-      "time": "2026-09-16 03:20:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門：艾卜哈危險已解除。"
-    },
-    {
-      "id": "5095925",
-      "time": "2026-09-16 03:20:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門：哈米斯穆沙伊特危險已解除。"
-    },
-    {
-      "id": "5095924",
-      "time": "2026-09-16 03:20:06",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通聯席總裁：在人工智慧融資領域堅守承銷紀律，對此秉持非常審慎的態度。"
-    },
-    {
-      "id": "5095923",
-      "time": "2026-09-16 03:19:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國參議院否決了加密貨幣法案】週二，美國參議院否決了一項覆蓋面廣泛的加密貨幣法案，遭到民主黨及少數共和黨議員反對。歷經數月兩黨激烈談判，這項法案最終以慘敗收場。參議院以49票贊成、50票反對的結果否決了所謂的《清晰法案》（Clarity Act），給加密行業帶來沉重打擊。民主黨表示，法案未能充分解決特朗普總統在數字資產領域潛在的利益衝突問題；部分共和黨議員則受到銀行業相關顧慮的影響。所有民主黨議員均投下反對票，法案因此失去在參議院闖過首輪程式性障礙所必需的兩黨支援。約十幾名民主黨參議員耗時數月參與該法案談判，但週二無一人投出贊成票；他們認為法案中的政府道德約束條款與消費者保護條款力度不足。"
-    },
-    {
-      "id": "te:markets:583969",
-      "time": "2026-09-16 03:19:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Rally Intensifies on Middle East Risks — Crude oil rose past $105.5 a barrel on Tuesday, its highest level in four months, after Saudi Arabia reportedly cancelled some shipments following drone attacks that forced the closure of its key export pipeline. Saudi Arabia reportedly informed European customers that some September deliveries were cancelled, while oil loadings at Yanbu were suspended. Meanwhile, Iran-backed Houthi militants renewed strikes on Saudi Arabia this week. Security in the Strait of Hormuz remains volatile, with at least two tankers attacked since Saturday. Commodity vessel traffic through the strait fell to four on Monday from 10 a day earlier, Kpler data showed. In Libya, the national oil company suspended operations at two oilfields and a pumping station amid protests. Russia also struck petrol stations in Kyiv and Ukraine targeted a Russian oil refinery, despite US President Trump’s announcement that both sides had agreed to halt attacks on each other’s energy infrastructure."
-    },
-    {
-      "id": "mkt:01a0a682-92ad-7118-85a2-ecd6023cf25c",
-      "time": "2026-09-16 03:19:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US reallocates $52 mln in military aid from Europe and Middle East to Latin America】AP reported on the 15th the US has notified Congress it will reallocate $52 mln in Foreign Military Financing originally earmarked for Slovakia, North Macedonia, Tunisia and Iraq to Panama, Peru, Ecuador and Colombia. FMF is provided as grants or loans to finance recipient purchases of US military equipment and related services. Secretary of State Rubio visited Colombia, Ecuador and Peru last week and pledged additional support."
-    },
-    {
-      "id": "mkt:01a0a682-78fb-7118-85a2-e270282e7e1a",
-      "time": "2026-09-16 03:19:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says danger in ABHA has been lifted."
-    },
-    {
-      "id": "mkt:01a0a682-451c-7118-85a2-defeef83d4e4",
-      "time": "2026-09-16 03:19:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says danger in Jizan region has been lifted."
     }
   ]
 }
