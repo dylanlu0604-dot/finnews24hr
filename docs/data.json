@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-22 09:07:10",
-  "count": 13433,
+  "updated": "2026-09-22 09:10:58",
+  "count": 13429,
   "items": [
+    {
+      "id": "5106559",
+      "time": "2026-09-22 09:10:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑芝麻智慧與協創資料達成戰略合作】近日，黑芝麻智慧宣佈與協創資料技術股份有限公司簽署戰略合作協議。據，黑芝麻智慧介紹，雙方將共同打造 “算力底座-整機生產-AI推理服務”一體化的AI推理解決方案，並在此基礎上探索麵向下一代AI推理場景的定製化晶片開發，構建長期穩定的戰略合作伙伴關係。"
+    },
+    {
+      "id": "5106558",
+      "time": "2026-09-22 09:10:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026北京文化論壇於22日至23日舉辦】2026北京文化論壇9月22日至23日在北京舉辦，以“傳承·創新·互鑑”為永久主題，以“文化遺產與文明互鑑”為年度主題，包括主論壇、5場平行論壇、6場專業沙龍以及北京文化論壇會客廳常態化活動。"
+    },
+    {
+      "id": "5106557",
+      "time": "2026-09-22 09:10:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌5%，現報5316.00元。"
+    },
+    {
+      "id": "5106556",
+      "time": "2026-09-22 09:09:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深交所：元道通訊股份有限公司股票終止上市】深交所公告，元道通訊因首次公開發行股票披露檔案存在虛假記載，被證監會作出行政處罰。根據相關規定及上市稽核委員會審議意見，深交所決定公司股票終止上市，自2026年9月30日起進入退市整理期，期限為十五個交易日，屆滿次一交易日予以摘牌。"
+    },
+    {
+      "id": "mkt:01a0c6a9-9028-7118-8634-34b17535de2d",
+      "time": "2026-09-22 09:09:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's minister of industry said the ministry will brief lawmakers on two investment projects reflecting South Korea and U.S. interests."
+    },
+    {
+      "id": "5106555",
+      "time": "2026-09-22 09:09:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2026雲棲大會今日開幕 英偉達為大會最高階別合作伙伴】2026雲棲大會今日上午在杭州開幕，英偉達（NVIDIA）位列本次大會巔峰合作伙伴，是本屆雲棲大會最高等級合作伙伴。英特爾、AMD分獲鑽石、紅寶石合作伙伴。阿里巴巴集團CEO吳泳銘、阿里千問LLM專案負責人劉大一恆等將在大會上發表主題演講。今年雲棲大會，雲端計算、AI、智慧製造等眾多國內外頭部企業，多家算力、大模型產業鏈廠商集中亮相，算力生態合作成為本次雲棲大會一大看點。"
+    },
+    {
+      "id": "5106554",
+      "time": "2026-09-22 09:06:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：人工智慧需求重塑日本資料中心增長格局。"
+    },
     {
       "id": "5106553",
       "time": "2026-09-22 09:06:29",
@@ -122944,109 +123001,6 @@
         "宏觀"
       ],
       "text": "【兩部門：夯實人工智慧硬體底座】工信部、國家發改委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，夯實人工智慧硬體底座。支援技術攻關創新和產品迭代升級。加強人工智慧晶片與整機產品協同，加快雲端訓練裝置開發，面向具身智慧、自動駕駛等領域開發端側推理裝置及晶片，鞏固擴大人工智慧晶片應用規模。推動計算高速互連匯流排統一協議（CLink）系列規範編制實施。強化人工智慧晶片與大模型、資料庫等適配。建設有關公共服務平臺，健全人工智慧晶片標準體系。持續推動人工智慧手機、個人計算機、智慧眼鏡、視聽終端、車載終端、工業終端、商業終端等產品迭代升級，拓寬使用場景，最佳化產品體驗。強化端側關鍵技術攻關，推動創新成果應用轉化。加強端側大模型、計算晶片、儲存晶片、作業系統相容適配，加快智慧體與終端產品深度融合。建立人工智慧終端智慧化分級標準體系和評估體系，加強標準實施推廣。加快構建產業鏈上下游生態，支援人工智慧終端在重點領域的規模化應用。"
-    },
-    {
-      "id": "mkt:01a0a29d-f8b6-7118-8581-a66897dcee1f",
-      "time": "2026-09-15 09:10:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution"
-      ],
-      "text": "【MIIT, CHINA STATE PLANNER push RISC‑V R&D and commercialization; back RISC‑V chips for AI and embedded systems】The Ministry of Industry and Information Technology and CHINA STATE PLANNER issued the 15th Five-Year Plan for electronic information manufacturing, calling to advance RISC‑V R&D and industrialization and to support RISC‑V chips’ application in artificial intelligence and embedded systems. The plan seeks deeper chip–module collaboration and stronger algorithm–hardware co‑design. It also aims to shore up communications equipment competitiveness, accelerate breakthroughs in high‑end data, optical, mobile and satellite communications and new short‑range wireless, and promote intelligent upgrades to industrial control equipment with integrated compute–control–sensing industrial computing. Targets include high‑end laser equipment (high‑performance lasers, ultra‑precision laser processing, precision opto‑mechanical systems), digitalized and integrated radar for autonomous driving and low‑altitude economy applications, and accelerated tech development for transfer/handling equipment to expand flexible, intelligent manufacturing deployments."
-    },
-    {
-      "id": "5094092",
-      "time": "2026-09-15 09:10:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門：縱深推進北斗規模化應用，推動北斗從行業應用轉向全民普及】工信部、國家發改委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，促進時空資訊產業發展。縱深推進北斗規模化應用，推動北斗從行業應用轉向全民普及。支援北斗晶片、演算法、抗干擾、星地融合等技術攻關，破解“卡脖子”短板，構建全鏈條技術供給體系。立足國家綜合定位導航授時（PNT）11體系建設，促進北斗導航、衛星網際網路、空間遙感等協同融合發展，打通晶片、天線、終端、系統、服務全產業鏈，深化時空資訊科技與實體經濟各領域融合落地。前瞻佈局衛星網際網路，拓展直連衛星終端應用場景，完善終端產業生態。"
-    },
-    {
-      "id": "mkt:01a0a29d-c328-7118-8581-9f86b64861b5",
-      "time": "2026-09-15 09:10:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper"
-      ],
-      "text": "【Galaxy Securities: El Niño to cause localized short-term disruption for non-ferrous metals】Galaxy Securities expects El Niño conditions in the equatorial central‑eastern Pacific by May 2026, peaking in Nov-Dec and waning through spring–summer 2027. Projected climate patterns include heavier rainfall on South America’s west coast, drier conditions in Southeast Asia and drought in southern Africa. So far there have been no large-scale weather-induced mine shutdowns. The firm says El Niño is likely to produce localized, short-duration disruptions for non-ferrous metals and will tend to amplify existing supply‑demand tensions rather than serve as a decisive market driver."
-    },
-    {
-      "id": "em:qqyh_ozyh:202609153874269431",
-      "time": "2026-09-15 09:10:02",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【歐洲央行官員：必要時將毫不猶豫繼續加息】歐洲央行管理委員會委員、斯洛伐克央行行長彼得·卡齊米爾（PeterKaimír）在斯洛伐克央行網站發表專欄文章稱，如有必要，歐洲央行將毫不猶豫地進一步提高利率，但確定下一步行動需要時間。"
-    },
-    {
-      "id": "mkt:01a0a29d-046d-7118-8581-92c39eaee530",
-      "time": "2026-09-15 09:09:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: live-fire exercise in northern Yellow Sea】Dalian Maritime Safety Administration issued a navigation warning: parts of the northern Yellow Sea will conduct live-fire drills and are closed to navigation from Sept 15 10:00 to Sept 17 17:00."
-    },
-    {
-      "id": "5094091",
-      "time": "2026-09-15 09:09:53",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門：鞏固能源電子產業優勢】工信部、國家發改委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，鞏固能源電子產業優勢。持續推進“光、儲、端、信”等能源電子技術協同發展。進一步推進高效晶體矽光伏電池10技術迭代升級，開發鈣鈦礦疊層電池等新一代高效光伏電池技術及配套裝置材料，研發推廣高可靠、智慧化光伏元件和光伏系統智慧運維技術，拓展“光伏+”應用場景。提升新型電池全產業鏈創新能力，鞏固鋰電池競爭優勢，持續推進固態電池、鈉電池、液流電池、燃料電池等產業化，推動新型電池智慧化、綠色化、融合化發展，支援新型電池在智慧終端、新能源汽車、船舶、航空、智慧機器人、工程機械、農機裝備等場景應用。加快電力電子關鍵技術研發供給，提高關鍵核心器件與部件供給能力，提升儲能系統高效整合和精準調控水平。"
-    },
-    {
-      "id": "mkt:01a0a29c-e5f7-7118-8581-8a93a12248dd",
-      "time": "2026-09-15 09:09:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Ministry of Industry and Information Technology, China State Planner back 6‑inch+ compound semiconductor, 8‑inch+ opto‑MEMS, 12‑inch+ micro‑nano optical metasurface platforms】The Ministry of Industry and Information Technology and China State Planner jointly issued the Electronics Information Manufacturing ‘15th Five‑Year’ plan, directing micro‑nano processing platform development to advance photonics R&D and production. The plan calls for manufacturing platforms for 6‑inch and larger compound semiconductors, 8‑inch and larger opto‑MEMS, and 12‑inch and larger micro‑nano optical metasurfaces; it also prioritizes an optoelectronic integration process platform to scale low‑cost, large‑volume silicon photonics on 8‑inch wafers, boost multi‑material heterogeneous integration, and resolve multi‑dimensional heterogeneous integration technical barriers for 12‑inch advanced processes."
-    },
-    {
-      "id": "mkt:01a0a29c-80fe-7118-8581-81d5cd79372e",
-      "time": "2026-09-15 09:09:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Poland's armed forces said they launched military aviation operations in Polish airspace as Russia carried out drone strikes on Ukraine."
-    },
-    {
-      "id": "5094090",
-      "time": "2026-09-15 09:08:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門：加快存算一體、量子計算、光計算、類腦計算、太空計算等新計算正規化佈局】工信部、國家發改委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，構築先進計算生態體系。加快計算架構、資料儲存、高速互連、軟硬協同、算電協同等先進計算產品及技術創新攻關，推動設立先進計算國家科技重大專案，持續提升計算根技術、關鍵元器件、核心零部件、軟體演算法、計算裝置等供給水平。滿足海量化、多元化智慧計算等需求，構建異構協同計算體系，開發面向人工智慧大模型訓練及推理的計算微架構，突破分散式計算、高頻寬記憶體池、雲邊端協同、全光交換、液冷散熱等關鍵技術。加強算力、存力、運力、電力等要素協同和融合創新，加快存算一體、量子計算、光計算、類腦計算、太空計算等新計算正規化佈局，推動智慧計算、通用計算、超級計算等融合發展。健全計算標準體系，強化服務平臺建設，推進先進計算在新一代智慧製造、資訊消費、社會治理等領域廣泛應用，完善先進計算協同創新生態。"
-    },
-    {
-      "id": "5094089",
-      "time": "2026-09-15 09:08:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭武裝部隊在X平臺發文稱：在俄羅斯對烏克蘭發動無人機襲擊之際，波蘭領空內已開始軍事航空行動。"
-    },
-    {
-      "id": "5094088",
-      "time": "2026-09-15 09:07:36",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【兩部門：推動光子產業核心環節技術取得突破】工信部、國家發改委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，夯實光子產業發展根基。推動光子產業核心環節技術取得突破，支援光子設計自動化、光電協同設計自動化等模擬設計軟體研發迭代，建設微納加工製造、光電融合整合等共性工藝平臺，佈局光子功能材料、工藝材料研發創新，強化光產生、光處理、光感測、整合光晶片和微納光學元件供給，開展光收發模組與引擎、光處理模組、鐳射雷達和陀螺儀、配套電晶片器件的研發與產業化。圍繞光子產業關鍵領域和共性需求佈局中試驗證平臺，推動成果驗證、工藝最佳化、裝置選型、技術整合，加速新產品研發和產業化應用。推動光子技術向人工智慧、新型通訊、泛在終端、工業製造、醫療健康、高階製造、城市安防等重點領域滲透。"
     }
   ]
 }
