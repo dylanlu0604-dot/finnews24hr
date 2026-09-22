@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-23 00:15:50",
-  "count": 13303,
+  "updated": "2026-09-23 00:19:40",
+  "count": 13301,
   "items": [
+    {
+      "id": "5108339",
+      "time": "2026-09-23 00:18:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "一架美國F-16戰鬥機在德國美軍基地附近墜毀。"
+    },
+    {
+      "id": "5108338",
+      "time": "2026-09-23 00:17:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏軍被爆用自殺機器人搞滲透】據美國《新聞週刊》網站9月21日報道，烏克蘭軍方稱，在頓涅茨克北部的一場行動中，烏方首次將“自殺式地面機器人”空投至俄軍前線後方。據烏克蘭國家通訊社報道，烏第三軍團20日在社交媒體“電報”發訊息稱，軍團實施側翼機動，在俄軍後方進行了“全球首次”地面機器人部署，並“致盲”俄軍無人機。該訊息稱：“步兵贏得戰爭，我們保護步兵，因此機器人率先衝向敵人。防空和電子戰‘致盲’敵方無人機，使對方無法發現進攻計劃。” (環球時報)"
+    },
+    {
+      "id": "te:markets:585782",
+      "time": "2026-09-23 00:16:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes on Cautious Note — Frankfurt's DAX 40 closed virtually unchanged at 25,579 on Tuesday after a volatile session, as caution prevailed across European markets. Brent crude fell before settling back around $100 a barrel after reports that Tehran had offered to reopen the Strait of Hormuz within seven days if the US lifted its blockade of its ports. The proposal could serve as a basis for talks with countries mediating on the sidelines of the United Nations General Assembly. Speaking in New York, President Trump defended the conflict, saying he could “annihilate” Iran but expected a deal after the US midterm elections. Domestically, political concerns persisted after Germany’s CDU suffered its worst-ever result in Mecklenburg-Western Pomerania, winning no seats and prompting calls for Chancellor Merz to step down. Solid gains in tech, travel-related stocks and retailers were offset by weakness in insurers, banks and telecoms."
+    },
     {
       "id": "te:markets:585781",
       "time": "2026-09-23 00:15:07",
@@ -121348,55 +121376,6 @@
         "MKT News"
       ],
       "text": "Ukrainian lawmaker says government has approved draft 2027 budget."
-    },
-    {
-      "id": "5095822",
-      "time": "2026-09-16 00:19:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲表示，聯邦公開市場委員會（FOMC）會議已於週二上午 10:30 如期召開。"
-    },
-    {
-      "id": "mkt:01a0a5dc-a4c7-7118-85a0-15e8eaf4e679",
-      "time": "2026-09-16 00:18:15",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Refinitiv: France is weighing support for former Dutch central bank governor Klaas Knot as ECB president in exchange for France securing the ECB chief economist post, sources said."
-    },
-    {
-      "id": "te:markets:583956",
-      "time": "2026-09-16 00:17:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Closes Lower for 2nd Day — Frankfurt's DAX 40 pared initial losses to close about 0.2% down at 25,402 on Tuesday, marking the second day of decreases, as rising oil prices and elevated bond yields continued to weigh. Meanwhile, caution prevailed ahead of the Fed's policy outcome on Wednesday, with the central bank expected to hike rates for the first time in three years to fight stubbornly high inflation. Domestically, Chancellor Friedrich Merz vowed to soon unveil measures to combat high fuel prices ahead of a crucial election in Mecklenburg-Western Pomerania. Banks came under pressure after Bank of America CEO Brian Moynihan warned of a 10% drop in third-quarter fees. Deutsche Bank and Commerzbank fell 2.5% and 0.5%, respectively. On the upside, defense stocks such as Rheinmetall (+3.2%) advanced firmly amid continued geopolitical tensions and reports of US munitions shortages."
-    },
-    {
-      "id": "mkt:01a0a5db-5b6a-7118-85a0-08f73a2c89a3",
-      "time": "2026-09-16 00:16:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said gasoline prices are lower than during the Biden administration."
-    },
-    {
-      "id": "5095821",
-      "time": "2026-09-16 00:16:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭議員：政府已批准 2027 年預算草案。"
     }
   ]
 }

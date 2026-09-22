@@ -1,7 +1,35 @@
 {
   "date": "2026-09-23",
-  "count": 31,
+  "count": 34,
   "items": [
+    {
+      "id": "5108339",
+      "time": "2026-09-23 00:18:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "一架美國F-16戰鬥機在德國美軍基地附近墜毀。"
+    },
+    {
+      "id": "5108338",
+      "time": "2026-09-23 00:17:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏軍被爆用自殺機器人搞滲透】據美國《新聞週刊》網站9月21日報道，烏克蘭軍方稱，在頓涅茨克北部的一場行動中，烏方首次將“自殺式地面機器人”空投至俄軍前線後方。據烏克蘭國家通訊社報道，烏第三軍團20日在社交媒體“電報”發訊息稱，軍團實施側翼機動，在俄軍後方進行了“全球首次”地面機器人部署，並“致盲”俄軍無人機。該訊息稱：“步兵贏得戰爭，我們保護步兵，因此機器人率先衝向敵人。防空和電子戰‘致盲’敵方無人機，使對方無法發現進攻計劃。” (環球時報)"
+    },
+    {
+      "id": "te:markets:585782",
+      "time": "2026-09-23 00:16:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes on Cautious Note — Frankfurt's DAX 40 closed virtually unchanged at 25,579 on Tuesday after a volatile session, as caution prevailed across European markets. Brent crude fell before settling back around $100 a barrel after reports that Tehran had offered to reopen the Strait of Hormuz within seven days if the US lifted its blockade of its ports. The proposal could serve as a basis for talks with countries mediating on the sidelines of the United Nations General Assembly. Speaking in New York, President Trump defended the conflict, saying he could “annihilate” Iran but expected a deal after the US midterm elections. Domestically, political concerns persisted after Germany’s CDU suffered its worst-ever result in Mecklenburg-Western Pomerania, winning no seats and prompting calls for Chancellor Merz to step down. Solid gains in tech, travel-related stocks and retailers were offset by weakness in insurers, banks and telecoms."
+    },
     {
       "id": "te:markets:585781",
       "time": "2026-09-23 00:15:07",
