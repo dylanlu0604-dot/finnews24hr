@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-23 07:07:25",
-  "count": 13425,
+  "updated": "2026-09-23 07:11:15",
+  "count": 13423,
   "items": [
+    {
+      "id": "5108628",
+      "time": "2026-09-23 07:10:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【紐約聯儲Perli：美國國庫券購買取決於市場狀況】紐約聯儲官員Roberto Perli表示，美聯儲將繼續評估準備金水平，因為購買美國國庫券並非沿著預設路徑進行。今年早些時候，聯邦公開市場委員會(FOMC)授權紐約聯儲市場操作部門自行調整準備金管理購買規模。Perli週二在紐約一場活動的預備講稿中表示，這類購買 —— 目前規模為零 —— 已根據“不斷變化的狀況”進行調整。“我們隨時準備在未來再次調整購買規模，以落實FOMC將準備金維持在充足區間內的政策，”他表示，並補充稱，紐約聯儲將關注高階財務官對市場狀況的考量，以及融資市場出現壓力的其他跡象。“如果像觀察人士預期的那樣，10月再次出現大規模國庫券淨髮行，我們將關注市場如何反應，”Perli表示。"
+    },
+    {
+      "id": "5108627",
+      "time": "2026-09-23 07:09:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【激進投資者Jana Partners敦促Six Flags 考慮出售事宜】據知情人士透露，激進對沖基金簡納合夥人（Jana Partners）正敦促主題公園運營商六旗娛樂（Six Flags Entertainment）探索出售事宜。知情人士稱，該激進投資者於週二致函公司董事會，要求其立即聘請投行研究出售方案，理由是對六旗娛樂第二季度業績表現感到失望。六旗娛樂上月公佈財報，淨虧損從去年同期的 9960 萬美元擴大至 2.026 億美元。截至週二，公司市值約 12 億美元，過去一年股價下跌約 42%。受入園遊客數量下滑影響，六旗娛樂一直在推進業務轉型。該公司已將 7 個非核心公園出售給 EPR 地產公司，並在 2025 年運營季結束後關停了馬里蘭州的另一處公園。"
+    },
+    {
+      "id": "mkt:01a0cb61-70d1-7118-8652-3b30b8c35388",
+      "time": "2026-09-23 07:09:15",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "【S&P GLOBAL MARKET INTELLIGENCE: Australian economy weakened at end-Q3; September momentum continued to slip】S&P GLOBAL MARKET INTELLIGENCE economist Eleanor Dennison said Australia’s economy weakened at the end of Q3, with growth momentum continuing to fade in September. The quarter remained slightly expansionary, an improvement on a weak Q2. Business sentiment stays positive but confidence in the growth outlook has weakened amid layoffs, rising cost pressures, softer demand and renewed export weakness. Services remain the main growth driver but the rebound there has softened; manufacturing is weak, with activity and sentiment indices turning negative for the first time since March. Commodity producers report increased supply-chain pressure, though inflationary pressure has eased."
+    },
+    {
+      "id": "5108624",
+      "time": "2026-09-23 07:08:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "激進投資者Jana Partners敦促Six Flags考慮出售事宜。"
+    },
+    {
+      "id": "te:economy:585819",
+      "time": "2026-09-23 07:08:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Services PMI",
+        "Importance 2"
+      ],
+      "text": "Australia Services Growth at 3-Month Low — The S&P Global Australia Services PMI Business Activity Index declined to 51.4 in September 2026 from 53.2 in the previous month, marking the fourth straight month of growth, preliminary estimates showed. However, it was the softest expansion in services activity since June and the second consecutive month of easing growth."
+    },
     {
       "id": "5108623",
       "time": "2026-09-23 07:06:55",
@@ -122431,68 +122479,6 @@
         "公司"
       ],
       "text": "【新股提示：創業板鴻富誠、北交所安達股份今日申購】今日可申購創業板新股鴻富誠和北交所新股安達股份，鴻富誠網上發行約393.3萬股，發行市盈率21.80倍，申購程式碼301716，申購價格76.86元，單一賬戶申購上限0.35萬股。安達股份申購程式碼920202，申購價格7.55元。"
-    },
-    {
-      "id": "5096106",
-      "time": "2026-09-16 07:11:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "2026年9月16日，西部陸海新通道骨幹工程平陸運河迎來建成通航的歷史性時刻。（央視）"
-    },
-    {
-      "id": "5096105",
-      "time": "2026-09-16 07:11:04",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、張國清出席第五屆北斗規模應用國際峰會開幕式並致辭\n2、八月份經濟總體平穩向新向優（權威釋出）\n3、“穩”的主基調沒有改變（快評）\n4、我國自主研製的最大直徑盾構機下線 直徑16.68米，將用於合肥董鋪水庫專案建設\n5、平陸運河航區正式公佈\n6、《人工智慧安全治理框架3.0》釋出\n7、三部門發文推動旅遊業規範有序發展\n8、第二十三屆中國—東盟商務與投資峰會將在南寧舉辦\n9、引入八大品類500多款產品 東博會首設“AI大賣場”\n10、第三十七屆銀河獎在四川自貢揭曉 中國科幻，從書頁走向廣闊產業（文化市場新觀察）\n11、人工智慧無法替代我們“親自閱讀”（新語）\n12、哈薩克電商經濟發展提速 中哈電商合作持續走深走實\n13、美加關稅爭端不斷升級\n14、隨著新能源汽車保有量增多，車網互動試點在全國多省市展開 電動汽車如何與電網“雙向奔赴”（產經視野）\n15、AI客服為何成了“攔路虎”（商海觀潮）。"
-    },
-    {
-      "id": "5096104",
-      "time": "2026-09-16 07:10:56",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平給福建省“漳州110”全體隊員回信強調 堅守為民初心矢志擔當奉獻 做黨和人民的忠誠衛士\n2、《求是》雜誌發表習近平總書記重要文章 在加強基礎研究座談會上的講話\n3、韓正出席第十三屆北京香山論壇歡迎晚宴並致辭\n4、把現代化產業體系的“骨架”挺起來——我國先進製造業發展觀察\n5、守百姓幸福 護家國平安（今日談）\n6、以正確政績觀推動高質量發展行穩致遠。"
-    },
-    {
-      "id": "5096103",
-      "time": "2026-09-16 07:10:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "中國生物製藥：本集團附屬公司正大天晴藥業集團股份有限公司（「正大天晴」）自主研發的國家 1 類創新藥 TQB2102 注射液「HER2 雙表位雙抗 ADC」已向中國國家藥品監督管理局藥品審評中心 (CDE) 遞交新藥上市申請並獲得受理，用於既往在復發或轉移性疾病階段未接受過化療的不可切除或轉移性 HER2 低表達（IHC 1 + 或 IHC 2+/ISH-）成人乳腺癌患者。此前，該適應症已被 CDE 納入突破性治療品種。"
-    },
-    {
-      "id": "5096102",
-      "time": "2026-09-16 07:09:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國工程機械工業協會：8月銷售各類平地機649臺 前八月銷量同比增長13.5%】據中國工程機械工業協會對平地機主要製造企業統計，2026年8月銷售各類平地機649臺，同比下降4.98%。其中：國內銷量84臺，同比下降22.2%；出口565臺，同比下降1.74%。2026年1-8月，共銷售平地機6412臺，同比增長13.5%。其中：國內累計銷量811臺，同比下降20.7%；出口累計銷量5601臺，同比增長21.1%。"
-    },
-    {
-      "id": "mkt:01a0a753-f43c-7118-85a5-0b4bc4b5e72d",
-      "time": "2026-09-16 07:08:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7"
-      ],
-      "text": "Meta Platforms (META.O) said each lab is responsible and incentivized to train its models safely at the necessary speed."
-    },
-    {
-      "id": "5096101",
-      "time": "2026-09-16 07:07:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "META執行長扎克伯格：每個實驗室都有責任和動力，以安全訓練其模型所需的速度推進工作。"
     }
   ]
 }
