@@ -1,7 +1,213 @@
 {
   "date": "2026-09-23",
-  "count": 83,
+  "count": 102,
   "items": [
+    {
+      "id": "mkt:01a0ca09-9d8a-7118-864b-eb2c5069ab82",
+      "time": "2026-09-23 00:53:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US F-16 crashes at Spangdahlem Air Base in Germany; one injured】A US Air Force F-16 crashed this afternoon at Spangdahlem Air Base in western Germany, injuring one person, broadcaster SWR reported. Sources said the jet went down during a training flight and the pilot ejected before impact. Spangdahlem, in Rhineland-Palatinate, hosts a USAF F-16 squadron."
+    },
+    {
+      "id": "mkt:01a0ca08-fcf0-7118-864b-e38e26a4cac2",
+      "time": "2026-09-23 00:53:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said he may allow CNN, MSNBC and Politico back into the White House if a judge rules."
+    },
+    {
+      "id": "mkt:01a0ca08-a889-7118-864b-d85f9f18a12b",
+      "time": "2026-09-23 00:52:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Barkin said the economy, if pressed, is becoming firmer."
+    },
+    {
+      "id": "5108379",
+      "time": "2026-09-23 00:52:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若法官作出裁決，我大機率會允許CNN、MSNBC和政客新聞網重回白宮採訪。"
+    },
+    {
+      "id": "mkt:01a0ca08-75cd-7118-864b-d71dc8ccda5a",
+      "time": "2026-09-23 00:52:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Barkin said transmission shocks such as tariffs and energy prices have not abated and current elevated inflation could feed into future inflation."
+    },
+    {
+      "id": "5108378",
+      "time": "2026-09-23 00:52:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若遭遇不利裁決，可能會允許被封禁媒體恢復運營。"
+    },
+    {
+      "id": "mkt:01a0ca08-3b51-7118-864b-cc2efcac2bea",
+      "time": "2026-09-23 00:52:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Fed governor Barkin said that, aside from data centers and AI, other sectors are showing growth momentum. Consumer spending remains steady, and defense and manufacturing are strong."
+    },
+    {
+      "id": "5108377",
+      "time": "2026-09-23 00:52:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：企業表示無法繼續等待不確定性消除。"
+    },
+    {
+      "id": "5108376",
+      "time": "2026-09-23 00:51:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：勞動力市場獲得“良好評級”，儘管招聘活動滯後。"
+    },
+    {
+      "id": "mkt:01a0ca07-f529-7118-864b-c5f3da9d4a13",
+      "time": "2026-09-23 00:51:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Barkin said while it is easy to blame high inflation on a few categories affected by energy costs or tariffs, most items in the personal consumption expenditures (PCE) index have risen by more than 3%."
+    },
+    {
+      "id": "5108375",
+      "time": "2026-09-23 00:51:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：觀察到除人工智慧投資和資料中心之外的經濟動能。"
+    },
+    {
+      "id": "5108374",
+      "time": "2026-09-23 00:51:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：認為當前通脹存在影響未來通脹的風險。"
+    },
+    {
+      "id": "5108373",
+      "time": "2026-09-23 00:51:35",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：經濟狀況（若有變化）正在走強。"
+    },
+    {
+      "id": "mkt:01a0ca07-909a-7118-864b-bacca482be18",
+      "time": "2026-09-23 00:51:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Barkin said last week's rate hike will help restore price stability and that the Fed will watch whether additional hikes are needed."
+    },
+    {
+      "id": "5108372",
+      "time": "2026-09-23 00:51:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：目前尚不確定是否需要進一步加息。"
+    },
+    {
+      "id": "5108371",
+      "time": "2026-09-23 00:51:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：當前衝擊並未呈現短期性或一次性特徵。"
+    },
+    {
+      "id": "mkt:01a0ca07-5799-7118-864b-b4c5eb08271e",
+      "time": "2026-09-23 00:51:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Barkin said the Federal Reserve raised rates last week because inflation risks outweighed risks to maximum employment."
+    },
+    {
+      "id": "5108370",
+      "time": "2026-09-23 00:50:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美伊關係正在“發展中”。"
+    },
+    {
+      "id": "mkt:01a0ca06-6ee3-7118-864b-aa4646441500",
+      "time": "2026-09-23 00:50:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "TRUMP says Iran is still in talks with the U.S. today and he expects a settlement to be reached."
+    },
     {
       "id": "mkt:01a0ca06-505b-7118-864b-a17bb7f58fa9",
       "time": "2026-09-23 00:50:06",
