@@ -1,7 +1,101 @@
 {
-  "updated": "2026-09-23 00:31:13",
-  "count": 13299,
+  "updated": "2026-09-23 00:35:03",
+  "count": 13309,
   "items": [
+    {
+      "id": "te:markets:585786",
+      "time": "2026-09-23 00:34:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Rises to Four-Month High — US gasoline futures held above $3.50 a gallon, its highest level since May 21st, following President Trump's remarks at the UN on the conflict with Iran. The US President stated that a deal with Iran could be reached with Tehran after the US midterm elections. Earlier in the session, Iran had proposed reopening shipping through the Strait of Hormuz within seven days, although contingent on the US lifting its blockade. Meanwhile, the crack spread rose to record highs amid widening refining margins due to rising refined fuel prices. As winter approaches and heating demand rises, refiners are shifting output toward higher-priced diesel, tightening gasoline markets. Persistent Ukrainian attacks on Russian refining infrastructure have also contributed to elevated prices, with several refineries either fully or partially shut down. As a result, Russia is set to extend its diesel export ban beyond September."
+    },
+    {
+      "id": "mkt:01a0c9f7-7226-7118-864b-612484973870",
+      "time": "2026-09-23 00:33:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC says its model matches Claude Fable 5.1 on most tasks and has running costs about 40% lower than OPUS 5."
+    },
+    {
+      "id": "5108354",
+      "time": "2026-09-23 00:33:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古特雷斯稱世界正走向多極化 呼籲建立“網路化多極格局”】當地時間9月22日，第81屆聯合國大會一般性辯論在美國紐約聯合國總部開幕。聯合國秘書長古特雷斯發表講話表示，當前全球地緣政治分歧加深，不平等加劇，氣候危機和人工智慧帶來的挑戰不斷上升，世界的“斷層正在擴大”。與此同時，全球權力格局正經歷深刻變化。古特雷斯指出，世界正“不可逆轉”地走向多極化，但多極化可能以不同方式發展：一種是走向碎片化、緊張及零和競爭，另一種則是建立在相互依存基礎上的“網路化多極格局”，讓多個影響力中心在國際法和相關規則框架下共存。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0c9f6-ab51-7118-864b-5f7de5eb8cc5",
+      "time": "2026-09-23 00:33:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC to launch Claude Sonnet 5.5 and Claude Haiku 5.5 in the coming weeks."
+    },
+    {
+      "id": "5108353",
+      "time": "2026-09-23 00:32:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Claude Opus 5.5在多數任務中表現與Claude Opus 5.1相當，執行成本比Opus 5低約40%。"
+    },
+    {
+      "id": "5108352",
+      "time": "2026-09-23 00:32:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "Anthropic：推出Claude Opus 5.5。"
+    },
+    {
+      "id": "5108351",
+      "time": "2026-09-23 00:31:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Opus 5.5定價為每百萬輸入token收費4美元，每百萬輸出token收費20美元。"
+    },
+    {
+      "id": "5108350",
+      "time": "2026-09-23 00:31:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：由於Opus 5.5定價低於Opus 5，5小時及周額度將擴容25%。"
+    },
+    {
+      "id": "5108349",
+      "time": "2026-09-23 00:31:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：未來幾周，我們還將推出Claude Sonnet 5.5與Claude Haiku 5.5兩款大模型。"
+    },
+    {
+      "id": "5108348",
+      "time": "2026-09-23 00:30:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic：Claude Opus 5.5現已全面登陸各平臺，包括亞馬遜雲科技（AWS）、谷歌雲（Google Cloud）以及微軟Azure雲平臺。"
+    },
+    {
+      "id": "5108347",
+      "time": "2026-09-23 00:30:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：針對訂閱使用者，我們所有套餐的Opus 5.5五小時使用限額將上調20%。"
+    },
     {
       "id": "mkt:01a0c9f4-6dee-7118-864b-53d243b6c3d2",
       "time": "2026-09-23 00:30:34",
@@ -121335,14 +121429,6 @@
         "Brent"
       ],
       "text": "Iranian Foreign Minister Araghchi dismissed US officials' claims that Iran lacks defensive capabilities as unfounded and said Iran will disclose the true number of US military casualties at an appropriate time."
-    },
-    {
-      "id": "5095829",
-      "time": "2026-09-16 00:33:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊：虛構說法稱伊朗毫無防禦能力。事實卻是， 美國國防部發布的訊息稱數百處美軍軍事設施被炸得粉碎，數十架軍機被燒燬。而這僅僅只是冰山一角。我們將在適當時機披露全部真相。對於那些編造有關伊朗謊言的人，結局不會好看。"
     }
   ]
 }
