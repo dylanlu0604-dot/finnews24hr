@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-23 06:40:07",
-  "count": 13418,
+  "updated": "2026-09-23 06:43:52",
+  "count": 13421,
   "items": [
+    {
+      "id": "5108612",
+      "time": "2026-09-23 06:42:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【人民日報鐘聲：相向而行，走好大國正確相處之道】文章指出，中美關係是世界上最重要、最複雜的雙邊關係，元首外交是兩國關係的“定盤星”。過去一年多來，中美關係歷經跌宕起伏後呈現總體穩定，元首外交發揮著不可替代的戰略引領作用。建設性戰略穩定，應該是合作為主的積極穩定、競爭有度的良性穩定、分歧可控的常態穩定、和平可期的持久穩定。構建中美建設性戰略穩定關係，關鍵在於雙方相向而行，共同採取行動把兩國元首共識落到實處。構建中美建設性戰略穩定關係，是世界和平發展之需，也是大國責任之所在。此次華盛頓會晤，是雙方落實元首共識、推進建設性戰略穩定關係的又一重要契機。希望美方同中方一道，把握大局、相向而行，持續積累互信、深化合作、管控分歧，共同走出一條新時代大國正確相處之道，更好造福兩國、惠及世界。"
+    },
+    {
+      "id": "5108611",
+      "time": "2026-09-23 06:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會議員Hinson：我們應該暫停出口柴油，暫緩實施汽油稅。"
+    },
+    {
+      "id": "5108610",
+      "time": "2026-09-23 06:40:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞過渡政府總統：我們正努力為伊拉克產品，尤其是石油，透過敘利亞領土建立安全通道。正在計劃建設一條從伊拉克油田到敘利亞港口的石油管道。"
+    },
+    {
+      "id": "mkt:01a0cb47-2d50-7118-8652-04714afddd8b",
+      "time": "2026-09-23 06:40:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Syrian president says he is planning to build an oil pipeline from Iraqi oilfields to a Syrian port."
+    },
+    {
+      "id": "te:markets:585815",
+      "time": "2026-09-23 06:40:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Drops by 1.68% — Top commodity losers are Coffee (-1.68%), Wheat (-1.37%) and Canola (-1.33%). Gains are led by Cocoa (1.25%) and Sugar (0.93%)."
+    },
     {
       "id": "mkt:01a0cb46-3d1a-7118-8651-f92090d5871e",
       "time": "2026-09-23 06:39:32",
@@ -122426,26 +122474,6 @@
         "Important"
       ],
       "text": "New Zealand | Current Account to GDP Ratio (YoY) (Q2) | actual -3.2% | consensus -3.9% | previous -3.60%"
-    },
-    {
-      "id": "5096093",
-      "time": "2026-09-16 06:41:16",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【我國火箭單次海上發射載荷重量創新高】9月16日，引力一號遙三運載火箭在我國東海海域點火升空，成功將搭載的8顆千帆星座組網衛星與1顆超高速無線通訊技術試驗衛星順利送入預定軌道，發射任務取得圓滿成功。（新華社）"
-    },
-    {
-      "id": "te:markets:583983",
-      "time": "2026-09-16 06:40:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Barley Rises by 3.98% — Top commodity gainers are Barley (3.98%), Soybeans (1.11%) and Wheat (0.90%). Biggest losers are Cocoa (-2.80%), Coffee (-2.48%) and Butter (-1.74%)."
     }
   ]
 }
