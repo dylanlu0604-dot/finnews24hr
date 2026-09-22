@@ -1,7 +1,92 @@
 {
   "date": "2026-09-22",
-  "count": 1757,
+  "count": 1767,
   "items": [
+    {
+      "id": "mkt:01a0c915-9c72-7118-8643-9e9f74137aec",
+      "time": "2026-09-22 20:27:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission president Von der Leyen arrived at the UN General Assembly."
+    },
+    {
+      "id": "5107847",
+      "time": "2026-09-22 20:27:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【道富美股盤前跌超17%】道富美股盤前跌超17%，現報151.58美元。"
+    },
+    {
+      "id": "5107846",
+      "time": "2026-09-22 20:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧談AI競賽：美國必須佔據領先地位】美國國務卿魯比奧就全球人工智慧競賽表示：“我們絕不能在全球AI競爭中失去領先地位，因為這一趨勢已不可逆轉。人工智慧正以極快速度迭代，每三個月、六個月就會有比前代更先進的新模型問世。技術發展速度之快，導致當你為現有技術建立監管框架時，新模型已經出現，又需要重新構建新的監管規則。”"
+    },
+    {
+      "id": "5107845",
+      "time": "2026-09-22 20:26:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【在紐約期間是否會看望馬杜羅？委內瑞拉代總統一言不發乘車離開】當地時間9月21日，委內瑞拉代總統羅德里格斯被記者問及是否會探望目前被關押在紐約的委內瑞拉總統馬杜羅以及何時進行選舉。她沒有回應，直接登車離開。（澎湃）"
+    },
+    {
+      "id": "5107844",
+      "time": "2026-09-22 20:25:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【楚環科技：股東浙楚投資擬減持不超0.96%股份】楚環科技公告稱，持有公司股份99.96萬股（佔公司總股本比例0.96%）的股東杭州浙楚股權投資合夥企業（有限合夥），計劃於2026年9月29日至2026年12月28日以集中競價交易方式減持公司股份不超過99.96萬股（佔公司總股本比例0.96%），減持原因為基金退出需要，股份來源為首次公開發行前股份及資本公積金轉增股本相應增加的股份。本次減持計劃實施不會導致公司控制權發生變更。"
+    },
+    {
+      "id": "5107843",
+      "time": "2026-09-22 20:25:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧談格陵蘭協議：這是一項偉大的協議。這是一項了不起的成就。如果總統沒有提出這個問題，這絕不可能發生。"
+    },
+    {
+      "id": "mkt:01a0c913-0d0f-7118-8643-91827455b79e",
+      "time": "2026-09-22 20:24:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said one purpose and key benefit of NATO bases is the ability to project force in emergencies. He said the US faced an emergency but several host countries barred use of US bases, which he called absurd."
+    },
+    {
+      "id": "5107842",
+      "time": "2026-09-22 20:24:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永安藥業：洪仁貴等5名董監高擬減持不超過0.1537%股份】永安藥業公告，洪仁貴、董世豪、方錫權、王志華、熊盛捷擬透過集中競價分別減持33700股、27.15萬股、52800股、66200股、28700股，合計45.29萬股，佔公司總股本0.1537%。減持計劃將在公告披露之日起十五個交易日後的三個月內實施。"
+    },
+    {
+      "id": "5107841",
+      "time": "2026-09-22 20:23:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "事件預測平臺Kalshi請求美國商品期貨交易委員會（CFTC）允許在其平臺上進行保證金交易。"
+    },
+    {
+      "id": "mkt:01a0c912-827d-7118-8643-8b16b6aa7ccf",
+      "time": "2026-09-22 20:23:48",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Ukraine drone strikes close Black Sea routes; Russia to export southern grain via Murmansk from next month using fertilizer-loading gear】Ukrainian drone attacks have left Black Sea shipping routes effectively closed, prompting Russia to begin routing grain from its south through the Arctic port of Murmansk as soon as next month. Murmansk will use equipment normally employed for fertilizer loading and a direct-transfer system that loads railcars straight into ship holds—technology typically used for potash—and is upgrading conveyor belts to handle larger grain volumes. The port is roughly 2,700 km from Russia’s main grain gateway Novorossiysk but can be accessed via neutral waters. Russian firms are converting fertilizer, coal and other bulk terminals in Baltic and Arctic ports, including Murmansk, to process grain exports."
+    },
     {
       "id": "te:economy:585698",
       "time": "2026-09-22 20:22:58",

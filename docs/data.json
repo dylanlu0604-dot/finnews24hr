@@ -1,7 +1,92 @@
 {
-  "updated": "2026-09-22 20:23:55",
-  "count": 13280,
+  "updated": "2026-09-22 20:27:50",
+  "count": 13282,
   "items": [
+    {
+      "id": "mkt:01a0c915-9c72-7118-8643-9e9f74137aec",
+      "time": "2026-09-22 20:27:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission president Von der Leyen arrived at the UN General Assembly."
+    },
+    {
+      "id": "5107847",
+      "time": "2026-09-22 20:27:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【道富美股盤前跌超17%】道富美股盤前跌超17%，現報151.58美元。"
+    },
+    {
+      "id": "5107846",
+      "time": "2026-09-22 20:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧談AI競賽：美國必須佔據領先地位】美國國務卿魯比奧就全球人工智慧競賽表示：“我們絕不能在全球AI競爭中失去領先地位，因為這一趨勢已不可逆轉。人工智慧正以極快速度迭代，每三個月、六個月就會有比前代更先進的新模型問世。技術發展速度之快，導致當你為現有技術建立監管框架時，新模型已經出現，又需要重新構建新的監管規則。”"
+    },
+    {
+      "id": "5107845",
+      "time": "2026-09-22 20:26:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【在紐約期間是否會看望馬杜羅？委內瑞拉代總統一言不發乘車離開】當地時間9月21日，委內瑞拉代總統羅德里格斯被記者問及是否會探望目前被關押在紐約的委內瑞拉總統馬杜羅以及何時進行選舉。她沒有回應，直接登車離開。（澎湃）"
+    },
+    {
+      "id": "5107844",
+      "time": "2026-09-22 20:25:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【楚環科技：股東浙楚投資擬減持不超0.96%股份】楚環科技公告稱，持有公司股份99.96萬股（佔公司總股本比例0.96%）的股東杭州浙楚股權投資合夥企業（有限合夥），計劃於2026年9月29日至2026年12月28日以集中競價交易方式減持公司股份不超過99.96萬股（佔公司總股本比例0.96%），減持原因為基金退出需要，股份來源為首次公開發行前股份及資本公積金轉增股本相應增加的股份。本次減持計劃實施不會導致公司控制權發生變更。"
+    },
+    {
+      "id": "5107843",
+      "time": "2026-09-22 20:25:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧談格陵蘭協議：這是一項偉大的協議。這是一項了不起的成就。如果總統沒有提出這個問題，這絕不可能發生。"
+    },
+    {
+      "id": "mkt:01a0c913-0d0f-7118-8643-91827455b79e",
+      "time": "2026-09-22 20:24:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said one purpose and key benefit of NATO bases is the ability to project force in emergencies. He said the US faced an emergency but several host countries barred use of US bases, which he called absurd."
+    },
+    {
+      "id": "5107842",
+      "time": "2026-09-22 20:24:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永安藥業：洪仁貴等5名董監高擬減持不超過0.1537%股份】永安藥業公告，洪仁貴、董世豪、方錫權、王志華、熊盛捷擬透過集中競價分別減持33700股、27.15萬股、52800股、66200股、28700股，合計45.29萬股，佔公司總股本0.1537%。減持計劃將在公告披露之日起十五個交易日後的三個月內實施。"
+    },
+    {
+      "id": "5107841",
+      "time": "2026-09-22 20:23:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "事件預測平臺Kalshi請求美國商品期貨交易委員會（CFTC）允許在其平臺上進行保證金交易。"
+    },
+    {
+      "id": "mkt:01a0c912-827d-7118-8643-8b16b6aa7ccf",
+      "time": "2026-09-22 20:23:48",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Ukraine drone strikes close Black Sea routes; Russia to export southern grain via Murmansk from next month using fertilizer-loading gear】Ukrainian drone attacks have left Black Sea shipping routes effectively closed, prompting Russia to begin routing grain from its south through the Arctic port of Murmansk as soon as next month. Murmansk will use equipment normally employed for fertilizer loading and a direct-transfer system that loads railcars straight into ship holds—technology typically used for potash—and is upgrading conveyor belts to handle larger grain volumes. The port is roughly 2,700 km from Russia’s main grain gateway Novorossiysk but can be accessed via neutral waters. Russian firms are converting fertilizer, coal and other bulk terminals in Baltic and Arctic ports, including Murmansk, to process grain exports."
+    },
     {
       "id": "te:economy:585698",
       "time": "2026-09-22 20:22:58",
@@ -121252,81 +121337,6 @@
         "公司"
       ],
       "text": "【立昂技術：擬1.93億元收購博璽資料100%股權】立昂技術公告，公司全資子公司立昂雲資料（四川）有限公司之子公司崑山雲資料擬以現金方式受讓崑山博升資料科技有限公司持有的崑山博璽資料科技有限公司100%股權，交易對價為1.93億元。本次交易完成後，博璽資料將納入公司合併報表範圍。"
-    },
-    {
-      "id": "5095408",
-      "time": "2026-09-15 20:27:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【創業板生物科技指數即將釋出 “創系列”指數持續擴容】9月15日，深交所全資子公司深圳證券資訊有限公司釋出公告稱，將於9月18日推出創業板生物科技指數（簡稱創業板生物科技，程式碼970087），加上此前釋出的創業板消費電子指數（簡稱創業板消費電子，程式碼970089），“創系列”指數矩陣不斷壯大，引導資金加大布局新型消費與前沿科技領域。"
-    },
-    {
-      "id": "5095407",
-      "time": "2026-09-15 20:27:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【手機廠商搶奪AI時代的排程權】“週二和週五定8點鬧鐘，其他時間定8點半，如果下雨再提前半個小時。” 這句話看似只是在設定鬧鐘，但真正執行起來，手機需要理解日期、時間、天氣和使用者規則，再呼叫不同的系統能力。過去，這類操作需要使用者自己拆解後逐項完成，如今手機廠商開始嘗試讓AI直接理解需求並執行。 進入9月中旬，這場競賽的節奏驟然加快。榮耀、vivo、OPPO正在密集出牌，更新各自的作業系統與系統級智慧體，此前華為已在鴻蒙系統中將小藝與系統能力、鴻蒙智慧體及第三方服務的連線作為重要方向。而位元組跳動與中興努比亞聯合研發的\"豆包手機二代\"也將於9月16日開售。 手機廠商們爭的是聲量，更是AI時代的卡位。當使用者不再需要開啟App就能完成交易，誰掌握排程，誰就握住新的流量入口。（第一財經）"
-    },
-    {
-      "id": "mkt:01a0a508-e673-7118-8597-56ba6369af5b",
-      "time": "2026-09-15 20:26:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources said the Saudi crown prince met Egypt's president."
-    },
-    {
-      "id": "mkt:01a0a508-436c-7118-8597-49a5b9a1740f",
-      "time": "2026-09-15 20:26:17",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Italy's defense minister said the drone shot down by Italian NATO fighter jets is very likely from Russia."
-    },
-    {
-      "id": "5095406",
-      "time": "2026-09-15 20:25:30",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊跌，道指期貨跌0.23%，標普500指數期貨跌0.11%，納指期貨跌0.06%。\n②德國DAX指數跌0.03%，富時100指數跌0.31%，法國CAC40指數跌0.17%，歐洲斯托克50指數跌0.13%。\n③WTI原油漲1.45%，報102.86美元/桶。布倫特原油漲0.85%，報106.58美元/桶。\n④特朗普週一在社交媒體密集發文，抨擊那些呼籲放緩 AI 模型迭代的行業領軍人物，公開反對出臺新的 AI 監管規則。聯博控股的固定收益專家表示，即便社會各界呼籲放緩人工智慧研發節奏，也無法阻止大型科技企業持續開展融資與資本開支。\n⑤美國銀行一項調查顯示，投資者依舊相信宏觀經濟向好、人工智慧資本開支將高速增長，但債券收益率無序飆升以及民主黨中期選舉大獲全勝的風險，令市場心態趨於謹慎。\n⑥美聯儲利率決議即將出爐，美國國債拋售行情進一步加劇，作為基準的 10 年期美債收益率於週二攀升至 2007 年以來的最高水平。\n⑦Genworth Financial盤前股價下跌2%，因公司表示上訴法院駁回安盛(AXA)就初審法院拒絕其分攤索賠判決提出的上訴。\n⑧WAYSTAR股價延續漲勢，盤前最新上漲12.1%，報道稱這家醫療軟體公司正探索包括出售在內的多種選擇。\n⑨受比特幣價格下跌3%影響，加密概念股盤前走低。BIT DIGITAL下跌2%，COINBASE下跌4.8%，PROSHARES比特幣ETF下跌2.9%。RIOT PLATFORMS下跌2.1%，MARA HOLDINGS下跌2.3%，STRATEGY下跌4.8%。"
-    },
-    {
-      "id": "mkt:01a0a507-7296-7118-8597-479092d033ce",
-      "time": "2026-09-15 20:25:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Shanghai launches China’s first generative AI security-testing public service platform】The Shanghai Information Security Testing and Certification Center on Sept. 14 launched ZhiCeNengShou, China’s first public-service platform for generative AI security testing, at the Shanghai opening of the National Cybersecurity Publicity Week. Built as a public-service product, the platform is positioned as Shanghai’s solution for domestic AI governance and security testing practices."
-    },
-    {
-      "id": "5095405",
-      "time": "2026-09-15 20:25:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海市資訊保安測評認證中心釋出全國首個生成式人工智慧安全測試公共服務平臺】由上海市資訊保安測評認證中心建設的全國首個生成式人工智慧安全測試公共服務平臺——“智測能手”，於9月14日在國家網路安全宣傳週上海地區活動開幕式上正式釋出。平臺以公共服務產品的全新思路，為國內人工智慧治理實踐提供了上海方案。（上海經信委）"
-    },
-    {
-      "id": "mkt:01a0a506-6e6f-7118-8597-3b55db050361",
-      "time": "2026-09-15 20:24:17",
-      "tags": [
-        "MKT News",
-        "WFC.O",
-        "Impact bullish"
-      ],
-      "text": "Wells Fargo CFO says loan growth in fiscal 2026 is expected to be stronger than prior guidance."
     }
   ]
 }
