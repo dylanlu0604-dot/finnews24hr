@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-23 03:48:54",
-  "count": 13408,
+  "updated": "2026-09-23 03:52:43",
+  "count": 13406,
   "items": [
+    {
+      "id": "5108550",
+      "time": "2026-09-23 03:48:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆：我曾就關稅問題向特朗普施壓。"
+    },
     {
       "id": "mkt:01a0caa9-55b9-7118-864f-df7fdc72d380",
       "time": "2026-09-23 03:48:10",
@@ -122267,41 +122275,6 @@
         "國際"
       ],
       "text": "檔案顯示：特朗普政府就阻止環境保護局向國會提交具有里程碑意義的加州車輛排放法規以尋求可能廢除的裁決提起上訴。"
-    },
-    {
-      "id": "5095958",
-      "time": "2026-09-16 03:52:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "Salesforce執行長馬克·貝尼奧夫在Salesforce活動上談人工智慧安全：我們必須讓企業和技術高管對其所開發的技術負責。"
-    },
-    {
-      "id": "mkt:01a0a6a0-1891-7118-85a3-66d4d0b3fe4c",
-      "time": "2026-09-16 03:51:44",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【Jensen Huang says AI sector does not need new safety regulations】NVIDIA CEO Jensen Huang said at a Salesforce event Tuesday the AI industry \"does not need any new laws or regulatory measures\", calling the trade-off between safety and speed a \"false choice.\" He said firms can set their own pace and that market forces and corporate restraint are sufficient to prevent deployment of harmful technologies. Huang also joined a live call this week with U.S. President Trump in which both rejected proposals to slow AI development."
-    },
-    {
-      "id": "mkt:01a0a69e-bceb-7118-85a3-5e83c283c220",
-      "time": "2026-09-16 03:50:15",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Vance says U.S.-Iran war will enter ‘completely different phase’ in months】U.S. Vice President Vance told the New York Post the U.S.-Iran conflict will enter a \"completely different phase\" in a few months and could end after the midterm elections, echoing Trump. He said shipping through the Strait of Hormuz is recovering, Iran's control there is weakening, and current transit has returned to over 50% of normal, easing near-term oil-flow risk. Vance said the U.S. is not conducting offensive operations now but is responding to Iranian attacks on commercial vessels. He outlined a two-phase campaign: first to destroy Iran's nuclear program, degrade its conventional forces and regional strike capability; second to prevent Iran from rebuilding those capabilities and to maintain regional stability. He said the trajectory will depend on whether Trump expands operations after the midterms or Iran seeks a deal."
     }
   ]
 }
