@@ -1,7 +1,65 @@
 {
-  "updated": "2026-09-22 20:43:37",
-  "count": 13281,
+  "updated": "2026-09-22 20:47:30",
+  "count": 13287,
   "items": [
+    {
+      "id": "5107883",
+      "time": "2026-09-22 20:46:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OPPO Watch S2釋出 首次搭載超燃脂模式】9月22日晚，OPPO釋出新款手錶OPPO Watch S2，該手錶首次搭載OPPO FatMax超燃脂模式，運用FatMax燃脂演算法，結合每個人的運動能力、靜息心率等身體資料，建立專屬個人的燃脂模型。"
+    },
+    {
+      "id": "5107881",
+      "time": "2026-09-22 20:46:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江豐電子：擬出資4.17億元參與設立合夥企業投向半導體產業鏈】江豐電子(300666.SZ)公告稱，公司全資子公司寧波江豐博鑫擬與關聯方共同投資設立寧波湧光同行專案管理合夥企業，總出資額6億元，其中寧波江豐博鑫擬出資4.17億元，佔比69.50%。該合夥企業將投向與主業具有協同效應的半導體產業鏈關鍵環節。"
+    },
+    {
+      "id": "5107880",
+      "time": "2026-09-22 20:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基抵達聯合國大會。"
+    },
+    {
+      "id": "5107879",
+      "time": "2026-09-22 20:45:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯、巴基斯坦、埃及和土耳其四方委員會會議將在紐約舉行。"
+    },
+    {
+      "id": "mkt:01a0c925-b014-7118-8643-eacfc4fff7aa",
+      "time": "2026-09-22 20:44:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazilian President Lula arrived at the UN General Assembly."
+    },
+    {
+      "id": "mkt:01a0c925-aa36-7118-8643-e30e31063a16",
+      "time": "2026-09-22 20:44:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY arrived at the UN General Assembly."
+    },
+    {
+      "id": "5107878",
+      "time": "2026-09-22 20:43:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧拉抵達聯合國大會。"
+    },
     {
       "id": "te:markets:585701",
       "time": "2026-09-22 20:42:46",
@@ -121301,18 +121359,6 @@
         "歐洲央行"
       ],
       "text": "【交易員與歐洲央行意見相左 對加息力度看法迥異】交易員與歐洲的央行官員對於未來加息前景的看法正日益分化。貨幣市場的預期已變得更加鷹派。因此，目前掉期市場的定價顯示，未來12個月歐洲央行還將加息四次、每次25個基點，英國央行則將以同樣幅度加息五次。而歐央行官員們認為，市場押注再加息三次過於激進。"
-    },
-    {
-      "id": "te:economy:583881",
-      "time": "2026-09-15 20:44:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "NY Empire State Manufacturing Index",
-        "Importance 2"
-      ],
-      "text": "New York Manufacturing Growth Slows More than Expected — The New York Fed’s Empire State Manufacturing Index fell 13 points to 7.6 in September 2026 from 20.6 in August, missing expectations of 14.75 and pointing to a moderation in manufacturing activity. New orders increased only slightly, while shipments edged lower, and unfilled orders rose as delivery times lengthened significantly. Supply availability also continued to deteriorate. Employment remained solid, with the employee index at 10.6, while the average workweek index climbed 10 points to 17, its highest level in nearly five years. At the same time, inflationary pressures intensified, with the prices paid index rising five points to 63.1, slightly above its recent four-year high, and prices received increasing to 28.1. Despite these cost pressures, manufacturers remained optimistic about the outlook. The future business conditions index stood at 29, with firms expecting stronger orders, shipments and employment in the months ahead."
     }
   ]
 }
