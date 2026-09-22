@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-22 23:59:33",
-  "count": 13295,
+  "updated": "2026-09-23 00:03:53",
+  "count": 13289,
   "items": [
+    {
+      "id": "5108327",
+      "time": "2026-09-23 00:02:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "美丹格陵蘭協議：各方應共同努力，打擊在格陵蘭的間諜活動。"
+    },
+    {
+      "id": "5108326",
+      "time": "2026-09-23 00:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "美丹格陵蘭協議：丹麥將繼續加強其在北極地區的安全部署。"
+    },
+    {
+      "id": "mkt:01a0c9d8-e7b3-7118-864a-bde0d452b5c8",
+      "time": "2026-09-23 00:00:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil president says UN credibility at historic low, urges stronger action on global conflicts】Brazilian President Lula on Tuesday urged world leaders to take stronger action against escalating global conflicts and warned foreign powers not to interfere in Brazil’s internal affairs ahead of the presidential election. He criticized the United Nations’ handling of the Ukraine and Middle East conflicts, called for reform of the UN Security Council and said UN credibility is at its lowest point. Lula warned 2025 could see the largest number of armed conflicts since WWII and said trillions of dollars are fueling a new arms race."
+    },
+    {
+      "id": "te:markets:585766",
+      "time": "2026-09-22 23:59:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — The FTSE MIB edged down 0.5% to 52,096 on Tuesday, weighed down by heavyweight financials. The banking sector underperformed following a petition signed by major European banks, including Italy’s banking lobby ABI, opposing the EU’s proposal to address the concentration of sovereign exposures among banks. The ABI stated that the measure could negatively affect the public debt market, which is already under pressure from a global sell-off. Banco BPM, Unipol, Mediobanca, Banca Mediolanum, BPER and MPS all fell more than 1%. Poste Italiane fell 4%, leading losses on the index, following its bid for all ordinary shares of Telecom Italia (-3.3%). Utilities also underperformed as European gas prices remained elevated. Meanwhile, tech stocks STMicroelectronics (4.4%) and Prysmian (2.5%) extended gains from the previous session, although Technoprobe fell 0.6% following its positive debut on the index the previous day."
+    },
+    {
+      "id": "5108325",
+      "time": "2026-09-22 23:59:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta正為其新款個人智慧助手Muse測試“人工管家”功能。"
+    },
     {
       "id": "mkt:01a0c9d7-17b2-7118-864a-b456be5c3274",
       "time": "2026-09-22 23:58:31",
@@ -121225,122 +121269,6 @@
         "GOOG.O"
       ],
       "text": "Google (GOOG.O) establishes a $10 million energy impact fund to support energy innovation in Nevada and reduce local energy costs."
-    },
-    {
-      "id": "te:markets:583950",
-      "time": "2026-09-16 00:03:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls on Tuesday — The FTSE 100 fell 0.4% on Tuesday after gaining 0.4% in the previous session, as rising oil prices and weak UK employment data weighed on sentiment. Brent crude traded near $108 a barrel, while investors assessed how long Saudi Arabia’s key oil pipeline could remain closed. Meanwhile, UK payrolls fell by 26,000 in August following a revised 19,000 decline in July, far exceeding expectations. The data highlighted continued labour-market weakness ahead of Thursday’s Bank of England rate decision. Unemployment remained at 4.9% in the three months to July, while regular wage growth held at 3.5%. Banks led declines, with HSBC, Barclays and Lloyds falling 2.2%, 1.9% and 0.6%, respectively. Miners also weakened, led by Glencore’s 2.5% drop."
-    },
-    {
-      "id": "5095816",
-      "time": "2026-09-16 00:03:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：設立 1000 萬美元能源影響基金，支援內華達州能源創新與能源普惠。"
-    },
-    {
-      "id": "te:markets:583948",
-      "time": "2026-09-16 00:02:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Hits Four-Month Low — The CAC 40 index dropped 0.3% to close at 8,090 on Tuesday, extending losses from the previous session and hitting a four-month low as rising oil prices and global bond yields weighed on equities. Oil prices climbed after attacks on Saudi energy infrastructure, raising inflation concerns and expectations for interest-rate hikes. Higher yields also pressured equities after the US 10-year Treasury yield reached 5%. In France, the 10-year government bond yield climbed to its highest level since September 2008, during the global financial crisis. CPI data showed annual inflation up to 2.4% in August from 2.1% in July, reaching a three-month high. Luxury stocks led the downturn, pressured by weaker Chinese demand and reduced access to the Middle East travel hub. LVMH dropped 2.6%, Hermes fell 2.8%, and Kering shed 1.5%. Financials also posted losses, with BNP Paribas losing 1.5%. Health-care stocks declined as well, with EssilorLuxottica down 2.2% and Sanofi losing 1.6%."
-    },
-    {
-      "id": "te:markets:583945",
-      "time": "2026-09-16 00:01:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Lumber Falls to Three-Week Low — Lumber futures traded near $565 per thousand board feet, falling toward its lowest level in three weeks, amid an ongoing trade war between Canada and the US. Canadian Prime Minister Carney is turning to the Europe Union after walking away from trade talks with US President Trump, which accounted for the largest portion of its trade. Ottawa had announced counter-tariffs of 25% on US lumber and 50% on Plywood following US tariffs on several lumber-related goods. US forestry groups have long accused Canada of distorting the market, as 94% of Canadian forestland is publicly owned compared to 58% privately owned in the US, allowing Canadian lumber to be sold at a lower price. Meanwhile, mortgage rates are closing in on 7% for the first time since the beginning of 2025, further weighing on housing demand from prospective home buyers already wincing at record-high home prices and an uncertain economy."
-    },
-    {
-      "id": "mkt:01a0a5cd-444b-7118-859f-d0647c6bdbce",
-      "time": "2026-09-16 00:01:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "Bessent: addressing the deficit is one factor affecting the 10-year Treasury yield."
-    },
-    {
-      "id": "5095815",
-      "time": "2026-09-16 00:01:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：解決財政赤字的必要性是影響 10 年期美債收益率的因素之一。"
-    },
-    {
-      "id": "mkt:01a0a5cc-fbc9-7118-859f-cf6a837507eb",
-      "time": "2026-09-16 00:01:09",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【Sources: Urals crude premium in India jumps to $8/bbl on Gulf supply shortfall】Three sources said a conflict involving Iran has reduced crude flows from Gulf producers, tightening refinery feedstock and pushing the premium for Russian Urals crude delivered to Indian ports to about $8/bbl versus Brent, the highest since May. The sources said the delivery premium is roughly $8/bbl now, versus about $1/bbl in August."
-    },
-    {
-      "id": "5095814",
-      "time": "2026-09-16 00:00:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：預計未來 6 至 12 個月內，我們將擺脫螺旋蠅帶來的困擾。"
-    },
-    {
-      "id": "mkt:01a0a5cb-94a3-7118-859f-c206c2b4d453",
-      "time": "2026-09-15 23:59:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures rose to $105 a barrel, the highest since May, gaining 3.05% on the day."
-    },
-    {
-      "id": "te:markets:583944",
-      "time": "2026-09-15 23:59:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 51,555 on Tuesday, amid gains in defense and utilities while heavyweight financials were mixed amid ongoing merger talks. UniCredit fell 2.3% after holding talks with the German Finance Minister regarding its stake in Commerzbank. The Italian lender expects to take full ownership of the stake by the fourth quarter. Credit Agricole, the largest investor in Banco BPM (-0.4%), stated that rival MPS’s (1.5%) offer was unattractive. Defense stocks advanced, with Leonardo (1.1%) and Fincantieri (0.5%) benefiting from the munitions shortage highlighted by the Pentagon. Meanwhile, Italy is considering extending its general excise tax cut amid rising energy costs. The country became the EU's top LNG importer in July, supported by government incentives, resulting in higher inventories in August, while the EU average runs lower. Utilities outperformed as European gas prices fell, led by Terna (2.9%)."
-    },
-    {
-      "id": "mkt:01a0a5cb-8c28-7118-859f-baeb0677a3e0",
-      "time": "2026-09-15 23:59:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US Treasury Secretary Bessent said he believes the US has the necessary tools."
     }
   ]
 }

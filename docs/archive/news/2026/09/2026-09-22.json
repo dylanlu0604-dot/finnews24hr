@@ -1,7 +1,27 @@
 {
   "date": "2026-09-22",
-  "count": 2195,
+  "count": 2197,
   "items": [
+    {
+      "id": "te:markets:585766",
+      "time": "2026-09-22 23:59:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Lower — The FTSE MIB edged down 0.5% to 52,096 on Tuesday, weighed down by heavyweight financials. The banking sector underperformed following a petition signed by major European banks, including Italy’s banking lobby ABI, opposing the EU’s proposal to address the concentration of sovereign exposures among banks. The ABI stated that the measure could negatively affect the public debt market, which is already under pressure from a global sell-off. Banco BPM, Unipol, Mediobanca, Banca Mediolanum, BPER and MPS all fell more than 1%. Poste Italiane fell 4%, leading losses on the index, following its bid for all ordinary shares of Telecom Italia (-3.3%). Utilities also underperformed as European gas prices remained elevated. Meanwhile, tech stocks STMicroelectronics (4.4%) and Prysmian (2.5%) extended gains from the previous session, although Technoprobe fell 0.6% following its positive debut on the index the previous day."
+    },
+    {
+      "id": "5108325",
+      "time": "2026-09-22 23:59:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta正為其新款個人智慧助手Muse測試“人工管家”功能。"
+    },
     {
       "id": "mkt:01a0c9d7-17b2-7118-864a-b456be5c3274",
       "time": "2026-09-22 23:58:31",
