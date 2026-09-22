@@ -1,7 +1,49 @@
 {
   "date": "2026-09-23",
-  "count": 325,
+  "count": 330,
   "items": [
+    {
+      "id": "mkt:01a0ca9b-e27a-7118-864f-44238b83f919",
+      "time": "2026-09-23 03:33:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meanwhile, the Turkish central bank governor said weakening domestic demand has slowed economic growth."
+    },
+    {
+      "id": "mkt:01a0ca9b-a08e-7118-864f-3deb8e361b13",
+      "time": "2026-09-23 03:33:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank governor said supply shocks have materially affected headline inflation and services inflation remains persistent."
+    },
+    {
+      "id": "5108534",
+      "time": "2026-09-23 03:31:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：外部衝擊與國內傳導機制將決定後續通脹走勢。國際儲備緩衝仍保持充足。通脹的潛在趨勢近期有所放緩。"
+    },
+    {
+      "id": "5108533",
+      "time": "2026-09-23 03:30:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：高頻指標顯示第三季度需求將進一步降溫。通脹預期要求繼續保持謹慎。"
+    },
+    {
+      "id": "5108532",
+      "time": "2026-09-23 03:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報67.75美元/盎司。"
+    },
     {
       "id": "5108531",
       "time": "2026-09-23 03:29:13",

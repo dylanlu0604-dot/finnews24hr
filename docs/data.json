@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-23 03:30:13",
-  "count": 13394,
+  "updated": "2026-09-23 03:33:58",
+  "count": 13395,
   "items": [
+    {
+      "id": "mkt:01a0ca9b-e27a-7118-864f-44238b83f919",
+      "time": "2026-09-23 03:33:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meanwhile, the Turkish central bank governor said weakening domestic demand has slowed economic growth."
+    },
+    {
+      "id": "mkt:01a0ca9b-a08e-7118-864f-3deb8e361b13",
+      "time": "2026-09-23 03:33:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank governor said supply shocks have materially affected headline inflation and services inflation remains persistent."
+    },
+    {
+      "id": "5108534",
+      "time": "2026-09-23 03:31:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：外部衝擊與國內傳導機制將決定後續通脹走勢。國際儲備緩衝仍保持充足。通脹的潛在趨勢近期有所放緩。"
+    },
+    {
+      "id": "5108533",
+      "time": "2026-09-23 03:30:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：高頻指標顯示第三季度需求將進一步降溫。通脹預期要求繼續保持謹慎。"
+    },
+    {
+      "id": "5108532",
+      "time": "2026-09-23 03:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報67.75美元/盎司。"
+    },
     {
       "id": "5108531",
       "time": "2026-09-23 03:29:13",
@@ -122132,45 +122174,6 @@
         "市場"
       ],
       "text": "【國際油價15日顯著上漲】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格上漲4.44美元，收於每桶105.83美元，漲幅為4.38%；11月交貨的倫敦布倫特原油期貨價格上漲3.07美元，收於每桶108.75美元，漲幅為2.9%。"
-    },
-    {
-      "id": "5095936",
-      "time": "2026-09-16 03:33:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：截至9月15日，美軍已要求103艘商船改變航向，迫使其遵守相關封鎖規定。"
-    },
-    {
-      "id": "mkt:01a0a68f-3678-7118-85a3-0bcfe9dee6a4",
-      "time": "2026-09-16 03:33:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. Central Command said as of Sept. 15 it had forced 103 commercial vessels to change course to ensure compliance with relevant requirements."
-    },
-    {
-      "id": "5095934",
-      "time": "2026-09-16 03:32:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿根廷總統米萊新聞辦公室對外公佈2027年預算預測：阿根廷2027年經濟預計增長4%，全年平均通脹率為21.1%，比索兌美元平均匯率預計為1美元兌換1728比索。"
-    },
-    {
-      "id": "mkt:01a0a68c-f5c3-7118-85a3-020270190808",
-      "time": "2026-09-16 03:30:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Al Arabiya cited a Yemeni military source who told Deutsche Presse-Agentur that Houthi forces have dug trenches in mountains overlooking the Bab al-Mandeb Strait."
     }
   ]
 }
