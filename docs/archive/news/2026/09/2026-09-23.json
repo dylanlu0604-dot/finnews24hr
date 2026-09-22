@@ -1,7 +1,92 @@
 {
   "date": "2026-09-23",
-  "count": 388,
+  "count": 397,
   "items": [
+    {
+      "id": "5108566",
+      "time": "2026-09-23 04:14:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟宣佈將對俄製裁延長三年】歐盟理事會當地時間22日釋出公報稱，當天歐盟將針對3000多個俄羅斯個人和實體的制裁措施再延長36個月，至2029年9月22日。這些制裁措施包括針對個人的旅行限制、資產凍結，以及禁止向名單上的個人和實體提供資金或其他經濟資源。自2022年2月24日俄烏衝突爆發以來，歐盟大幅擴大了對俄製裁，對此，俄羅斯都採取了反制措施。歐盟對俄製裁效果在歐盟內部遭到普遍質疑。（央視）"
+    },
+    {
+      "id": "mkt:01a0cac1-7177-7118-8650-55b07f3fa256",
+      "time": "2026-09-23 04:14:30",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【EU extends Russia sanctions by 36 months to Sept. 22, 2029】The EU Council said on the 22nd it will extend sanctions on more than 3,000 Russian individuals and entities for 36 months, until Sept. 22, 2029. Measures include travel bans, asset freezes and prohibitions on supplying funds or other economic resources to listed targets. The Council noted the sanctions expansion followed Russia's Feb. 24, 2022 military action and that Moscow has implemented countermeasures; the effectiveness of EU sanctions has been widely questioned within the bloc."
+    },
+    {
+      "id": "5108565",
+      "time": "2026-09-23 04:14:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長稱，8 月石油出口量達 7000 萬桶。"
+    },
+    {
+      "id": "mkt:01a0cac1-6cb6-7118-8650-4a57b92abce5",
+      "time": "2026-09-23 04:14:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "Iraqi state media quoted the oil minister as saying August oil exports totaled 70 million barrels."
+    },
+    {
+      "id": "5108564",
+      "time": "2026-09-23 04:14:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "KB Homes第三財季交付（住房）2,732套，分析師預期2,723套。第三財季營收13億美元，分析師預期13億美元。維持全財年交付預期在10,500-11,000套不變，分析師預期10,751套。預計全財年住房營收49億-51億美元，公司原本預計49億-53億美元。預計第四財季交付3,000-3,500套，分析師預期3,262套。"
+    },
+    {
+      "id": "mkt:01a0cac1-1bc2-7118-8650-446ed287c30c",
+      "time": "2026-09-23 04:14:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member Nagel said he sees little uncertainty in markets' understanding of the drivers behind ECB decisions."
+    },
+    {
+      "id": "mkt:01a0cac0-bef7-7118-8650-3fadd9ad2a3d",
+      "time": "2026-09-23 04:13:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member Nagel said the bank's monetary policy approach sits between constructive ambiguity and forward guidance."
+    },
+    {
+      "id": "te:markets:585801",
+      "time": "2026-09-23 04:12:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Mixed Amid Yields Rebound — US stock indices closed mixed on Tuesday as the rebound in Treasury yields limited gains from chipmakers. The S&P 500 closed flat, and the Nasdaq 100 rose 0.8% to a record 30,732, while the Dow added 185 points. Another strong session for the AI trade lifted AI infrastructure companies, with the latest catalyst being the strong reception for Meta’s Muse AI agent. Meanwhile, Anthropic is releasing a new AI model designed to handle a wide range of business tasks at a lower cost, ahead of its highly anticipated Wall Street debut. Heavyweight chipmakers lifted the Nasdaq, with Nvidia up 0.7%, Micron rising 5%, and Sandisk jumping 6.8% following an upgrade from Rosenblatt. The S&P 500 pared earlier losses after President Trump said US officials had a “very good” meeting with Iranian representatives. Manufacturer stocks gained, with Applied Materials up 1.8%. Meanwhile, a selloff in bank shares weighed on the Dow, with JPMorgan falling 3.4% and Bank of America dropping 3%."
+    },
+    {
+      "id": "5108563",
+      "time": "2026-09-23 04:11:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：我們的貨幣政策介於建設性模糊與前瞻指引之間。"
+    },
     {
       "id": "5108562",
       "time": "2026-09-23 04:10:38",
