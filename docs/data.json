@@ -1,7 +1,68 @@
 {
-  "updated": "2026-09-22 20:16:04",
-  "count": 13286,
+  "updated": "2026-09-22 20:20:01",
+  "count": 13280,
   "items": [
+    {
+      "id": "5107834",
+      "time": "2026-09-22 20:18:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【愛普股份：不存在應披露而未披露的重大事項】愛普股份公告，公司股票於2026年9月18日、2026年9月21日、2026年9月22日連續三個交易日收盤價格漲幅偏離值累計超過20%。截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大事項；公司股票最新靜態市盈率為59.89倍，高於行業21.55倍，9月18日至9月22日累計換手率為17.68%。"
+    },
+    {
+      "id": "te:economy:585695",
+      "time": "2026-09-22 20:18:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Hungary Holds Rate as Expected — The National Bank of Hungary left its benchmark interest rate unchanged at 5.5% at its September 2026 meeting, as expected. The decision followed four rate cuts this year and came amid elevated global risks, with geopolitical tensions continuing to pressure energy prices. Headline inflation edged up to 1.3% in August from 1.2% in the previous month, remaining below the central bank’s 2%-4% target range, while gains in the forint helped lower import costs and improve the inflation outlook. Meanwhile, the forint appreciated 5.8% against the euro this year, supported by a pledge from Prime Minister Magyar to cut the budget deficit and to put the country on a path toward adopting the euro."
+    },
+    {
+      "id": "mkt:01a0c90d-1961-7118-8643-76ca36472f3d",
+      "time": "2026-09-22 20:17:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's foreign minister said Madrid is pushing for a two-state solution and supports full UN membership for Palestine."
+    },
+    {
+      "id": "mkt:01a0c90c-e287-7118-8643-6c5fb7ba4081",
+      "time": "2026-09-22 20:17:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's foreign minister said all access routes to the Gaza Strip must be opened and large quantities of humanitarian aid supplies allowed to enter."
+    },
+    {
+      "id": "5107833",
+      "time": "2026-09-22 20:16:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江波龍：公司H股目前尚處於招股後的價格穩定期】有投資者向江波龍（301308.SZ）提問，請問為什麼公司的H股不是港股通標的呢？是公司的原因還是交易所的原因？9月22日，公司回答表示，根據相關業務規則，A股上市公司在聯交所上市H股，其H股在價格穩定期結束且相應A股上市滿十個交易日後，調入港股通股票。"
+    },
+    {
+      "id": "5107832",
+      "time": "2026-09-22 20:16:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Shopify盤前漲5.06%，現報144.90美元】Shopify盤前漲5.06%，現報144.90美元。訊息面上，Shopify與Meta及OpenAI達成合作，將AI購物與自動結賬/廣告對話能力接入Shopify商戶生態，強化AI電商場景預期。"
+    },
+    {
+      "id": "mkt:01a0c90b-3ea9-7118-8643-662591ee79c3",
+      "time": "2026-09-22 20:15:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's foreign minister said Madrid is in talks with Canada and regards Canada as a very close partner of the EU."
+    },
     {
       "id": "mkt:01a0c90a-eeea-7118-8643-59b3d2ce1d31",
       "time": "2026-09-22 20:15:31",
@@ -121276,121 +121337,6 @@
         "Impact bullish"
       ],
       "text": "Wells Fargo CFO says commercial client base remains relatively healthy."
-    },
-    {
-      "id": "mkt:01a0a502-2fbd-7118-8597-0dbd5c860248",
-      "time": "2026-09-15 20:19:38",
-      "tags": [
-        "MKT News",
-        "WFC.O"
-      ],
-      "text": "Wells Fargo CFO: mid-market clients remain cautious."
-    },
-    {
-      "id": "mkt:01a0a502-0fb2-7118-8597-01ebedf2c5f0",
-      "time": "2026-09-15 20:19:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Swedish Financial Supervisory Authority tightens rules for assessing investment research."
-    },
-    {
-      "id": "5095399",
-      "time": "2026-09-15 20:19:24",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【知情人士：位元組跳動今年上半年營收同比增長約30%，達1200億美元】據三名瞭解財報資料的人士透露，位元組跳動加大人工智慧領域投入，今年上半年淨利潤出現個位數百分比下滑，降至200億美元。 知情人士稱，同期公司營收同比增長約30%，達到1200億美元，部分得益於TikTok國際廣告與電商收入的強勁增長。這意味著位元組跳動的增速相比過去兩年小幅提速。知情人士表示，位元組跳動去年營收增長29%，約2000億美元，2024年增速與之相近；去年公司淨利潤增長27%，至420億美元。 上述資料還顯示，位元組跳動營收正追上Meta Platform。Meta上半年營收同樣增長30%，達到1170億美元。兩家公司估值差距懸殊：跟蹤二級市場交易的CapLight資料顯示，Meta市值為1.7萬億美元，而位元組跳動估值約6300億美元。"
-    },
-    {
-      "id": "5095398",
-      "time": "2026-09-15 20:18:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【靈猴機器人北京基地正式投用，總規劃產能達1.5萬臺】9月15日，靈猴未來機器人科技（北京）有限公司投用活動在京舉行。據靈猴機器人介紹，北京基地總建築面積近5000㎡，基地一期規劃具身智慧機器人年產能達6000臺，總規劃產能達15000臺。"
-    },
-    {
-      "id": "mkt:01a0a501-74d3-7118-8596-f8bd2b8a8ba0",
-      "time": "2026-09-15 20:18:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan, Lebanon agree to step up security and counterterrorism cooperation】On the 15th in Islamabad, Pakistan and Lebanon's interior ministers agreed to deepen cooperation on security, counterterrorism, anti‑narcotics, illegal migration, anti‑money laundering and cybercrime. They committed to expand police‑academy and personnel training exchanges, share intelligence to combat terrorism and drug trafficking, fast‑track a cooperation MoU between interior ministries, and appoint liaison officers to strengthen bilateral coordination."
-    },
-    {
-      "id": "mkt:01a0a501-70d5-7118-8596-f4b1f803fdf1",
-      "time": "2026-09-15 20:18:50",
-      "tags": [
-        "MKT News",
-        "WFC.O"
-      ],
-      "text": "Wells Fargo CFO says he has seen no change in default trends."
-    },
-    {
-      "id": "5095397",
-      "time": "2026-09-15 20:18:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦與黎巴嫩同意加強安全及反恐合作】當地時間15日，巴基斯坦內政部長穆赫辛·納克維在首都伊斯蘭堡會見到訪的黎巴嫩內政部長哈賈爾。雙方重點就加強安全、反恐、禁毒、打擊非法移民、反洗錢和網路犯罪等領域合作進行討論，並同意加強兩國警察學院及人員培訓方面的交流合作。雙方同意透過情報共享共同打擊恐怖主義和販毒犯罪，應對新出現的安全挑戰，並將儘快推動兩國內政部門簽署合作諒解備忘錄，同時指定聯絡人以加強雙邊協調。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0a500-ad38-7118-8596-ec0bc1eb8fa5",
-      "time": "2026-09-15 20:17:59",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Wells Fargo CFO says US economic activity remains strong."
-    },
-    {
-      "id": "em:jjsj_mgsj:202609153874908819",
-      "time": "2026-09-15 20:17:56",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "ADP報告稱，截至8月29日的四周，美國私營部門就業人數平均每週增加16250人。"
-    },
-    {
-      "id": "mkt:01a0a500-8a36-7118-8596-e5b140b10008",
-      "time": "2026-09-15 20:17:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Crown Prince Mohammed bin Salman arrived in Egypt for an official visit and will hold talks with Egyptian President Abdel Fattah el-Sisi on a range of issues."
-    },
-    {
-      "id": "5095396",
-      "time": "2026-09-15 20:17:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "富國銀行首席財務官表示，美國經濟活動活躍度保持強勁。"
-    },
-    {
-      "id": "mkt:01a0a500-6c1b-7118-8596-dc198c8db589",
-      "time": "2026-09-15 20:17:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【2026 China Economic and Social Forum held in Hangzhou】The 2026 China Economic and Social Forum was held in Hangzhou on 15 June. Wang Dongfeng, vice chairman and secretary-general of the National Committee of the Chinese People's Political Consultative Conference and chairman of the China Economic and Social Council, delivered the keynote, saying President Xi’s global governance initiative, following the global development, security and civilization initiatives, is another important international public good that provides strategic support for building a community of shared future for mankind. Wang called for intensified exchanges on governance experience, adherence to the community-of-shared-future concept, and a multilateral, consultative approach to global governance to build consensus and collective capacity. He said China is willing to work with other countries to pursue that goal, strengthen cooperation, and meet shared risks and challenges."
-    },
-    {
-      "id": "5095395",
-      "time": "2026-09-15 20:17:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【40個地區連續降雨 公路交通存在高風險】根據交通運輸部與中國氣象局會商研判，結合氣象部門降雨資料，截至9月15日，福建、江西、湖南3個省份的12個縣區出現了降水天數15天以上、累計降雨量600毫米以上或累計降雨量300毫米以上且超過常年同期水平3倍的情況，福建、江西、湖南、廣東、四川、雲南6個省份的28個縣區出現了降水天數15天以上、累計降雨量300毫米以上且超過常年同期水平2倍的情況，公路交通存在高風險。（交通運輸部）"
     }
   ]
 }

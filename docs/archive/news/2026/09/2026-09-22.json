@@ -1,7 +1,68 @@
 {
   "date": "2026-09-22",
-  "count": 1740,
+  "count": 1747,
   "items": [
+    {
+      "id": "5107834",
+      "time": "2026-09-22 20:18:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【愛普股份：不存在應披露而未披露的重大事項】愛普股份公告，公司股票於2026年9月18日、2026年9月21日、2026年9月22日連續三個交易日收盤價格漲幅偏離值累計超過20%。截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大事項；公司股票最新靜態市盈率為59.89倍，高於行業21.55倍，9月18日至9月22日累計換手率為17.68%。"
+    },
+    {
+      "id": "te:economy:585695",
+      "time": "2026-09-22 20:18:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Hungary Holds Rate as Expected — The National Bank of Hungary left its benchmark interest rate unchanged at 5.5% at its September 2026 meeting, as expected. The decision followed four rate cuts this year and came amid elevated global risks, with geopolitical tensions continuing to pressure energy prices. Headline inflation edged up to 1.3% in August from 1.2% in the previous month, remaining below the central bank’s 2%-4% target range, while gains in the forint helped lower import costs and improve the inflation outlook. Meanwhile, the forint appreciated 5.8% against the euro this year, supported by a pledge from Prime Minister Magyar to cut the budget deficit and to put the country on a path toward adopting the euro."
+    },
+    {
+      "id": "mkt:01a0c90d-1961-7118-8643-76ca36472f3d",
+      "time": "2026-09-22 20:17:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's foreign minister said Madrid is pushing for a two-state solution and supports full UN membership for Palestine."
+    },
+    {
+      "id": "mkt:01a0c90c-e287-7118-8643-6c5fb7ba4081",
+      "time": "2026-09-22 20:17:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's foreign minister said all access routes to the Gaza Strip must be opened and large quantities of humanitarian aid supplies allowed to enter."
+    },
+    {
+      "id": "5107833",
+      "time": "2026-09-22 20:16:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江波龍：公司H股目前尚處於招股後的價格穩定期】有投資者向江波龍（301308.SZ）提問，請問為什麼公司的H股不是港股通標的呢？是公司的原因還是交易所的原因？9月22日，公司回答表示，根據相關業務規則，A股上市公司在聯交所上市H股，其H股在價格穩定期結束且相應A股上市滿十個交易日後，調入港股通股票。"
+    },
+    {
+      "id": "5107832",
+      "time": "2026-09-22 20:16:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Shopify盤前漲5.06%，現報144.90美元】Shopify盤前漲5.06%，現報144.90美元。訊息面上，Shopify與Meta及OpenAI達成合作，將AI購物與自動結賬/廣告對話能力接入Shopify商戶生態，強化AI電商場景預期。"
+    },
+    {
+      "id": "mkt:01a0c90b-3ea9-7118-8643-662591ee79c3",
+      "time": "2026-09-22 20:15:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain's foreign minister said Madrid is in talks with Canada and regards Canada as a very close partner of the EU."
+    },
     {
       "id": "mkt:01a0c90a-eeea-7118-8643-59b3d2ce1d31",
       "time": "2026-09-22 20:15:31",
