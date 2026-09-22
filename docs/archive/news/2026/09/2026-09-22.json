@@ -1,7 +1,134 @@
 {
   "date": "2026-09-22",
-  "count": 1656,
+  "count": 1670,
   "items": [
+    {
+      "id": "5107782",
+      "time": "2026-09-22 19:59:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金溢科技：股東擬減持公司股份不超77.63萬股】金溢科技(002869)9月22日公告，持股1.76%的股東王麗娟計劃15個交易日後的3個月內，以集中競價方式或大宗交易方式減持公司股份不超過77.63萬股（佔公司剔除回購專用證券賬戶後總股本的0.45%，佔公司總股本的0.44%）。"
+    },
+    {
+      "id": "5107781",
+      "time": "2026-09-22 19:59:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "埃森哲Edge與亞馬遜雲科技（AWS）合作，助力中型企業駕馭人工智慧，加速實現商業價值。"
+    },
+    {
+      "id": "mkt:01a0c8fb-e1b5-7118-8642-b166ee113feb",
+      "time": "2026-09-22 19:59:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said the conflict between Houthi militants and Saudi Arabia is very dangerous and that the United States will stand with and support Riyadh."
+    },
+    {
+      "id": "5107780",
+      "time": "2026-09-22 19:59:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧談及伊朗問題：永遠不要對達成協議或外交談判關上大門，因為局勢有時會發生改變。也許是體制本身發生了變化，也許是內部發生了某些事件，又或者他們出於務實的考量，在當下認為採取外交途徑對他們更有利。"
+    },
+    {
+      "id": "mkt:01a0c8fb-8c5c-7118-8642-acc0aae41c5c",
+      "time": "2026-09-22 19:58:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said the Biden administration had been eager to reach an agreement with Iran, making repeated concessions over four years to try to secure a deal, but ultimately failed."
+    },
+    {
+      "id": "5107779",
+      "time": "2026-09-22 19:58:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷政府無法在國會獲得足夠票數來批准與美貿易協定】據知情人士透露，阿根廷總統哈維爾·米萊的顧問已告知特朗普政府，他們目前無法在國會獲得足夠票數來批准雙方於今年2月簽署的雙邊貿易協定。這些要求匿名討論私下會談的人士表示，由於美國最高法院對唐納德·特朗普總統全球關稅政策作出了裁決，米萊政府希望重新談判相關條款。儘管特朗普曾稱米萊為“我最喜歡的總統”，但美國政策制定者近幾周飛往布宜諾斯艾利斯傳達了一個明確的資訊：重新談判不在考慮之列，因為這將為其他國家尋求更優厚條件開創先例。知情人士稱，美方正敦促阿根廷批准該協定，並且認為米萊政府目前缺乏連貫的立法策略或時間表。"
+    },
+    {
+      "id": "5107778",
+      "time": "2026-09-22 19:57:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧談及伊朗：拜登政府曾迫切希望與伊朗達成協議，他們花了四年時間一味妥協退讓，試圖促成協議，但最終未能如願。"
+    },
+    {
+      "id": "mkt:01a0c8fa-5a89-7118-8642-a3bde979e33e",
+      "time": "2026-09-22 19:57:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said U.S. Middle East envoys Witkoff and Kushner have performed well and have faced counterparts who are not easy to deal with."
+    },
+    {
+      "id": "mkt:01a0c8f9-fbfe-7118-8642-9fdf7045395f",
+      "time": "2026-09-22 19:57:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Secretary of State Rubio said Ukraine is attacking oil tankers linked to the United States and that the situation cannot continue."
+    },
+    {
+      "id": "mkt:01a0c8f9-dddb-7118-8642-975f5a4d0dd9",
+      "time": "2026-09-22 19:56:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Rubio: US seeks end to Russia-Ukraine war, halt attacks on energy infrastructure】US Secretary of State Rubio said the US wants an end to the Russia-Ukraine conflict and that it would be \"a good idea\" for Ukraine and Russia to stop attacking energy infrastructure. He said the ideal outcome is neither side targets energy facilities. Rubio added Ukrainian strikes on certain vessels may not have been intentional, but Washington is concerned about ships linked to the US becoming targets. He attributed oil price rises to the situation in Yemen and the Ukraine conflict."
+    },
+    {
+      "id": "5107777",
+      "time": "2026-09-22 19:56:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝領導人警告土耳其和巴基斯坦勿介入衝突】葉門胡塞武裝領導人阿卜杜勒·馬利克·胡塞21日晚警告土耳其和巴基斯坦不要介入胡塞武裝與沙烏地阿拉伯不斷升級的衝突。阿卜杜勒·馬利克在胡塞武裝控制的馬西拉電視臺播出的電視講話中說，沙特在與葉門胡塞武裝衝突不斷升級之際，尋求土耳其和巴基斯坦提供軍事支援。他敦促兩國不要為了與沙特方面的政治或經濟利益而“捲入”這場衝突。談及局勢緩和的可能性時，阿卜杜勒·馬利克說，胡塞武裝並沒有提出“不可能實現的條件”，並重申要求沙特停止軍事行動以及針對該組織的“封鎖”。（新華社）"
+    },
+    {
+      "id": "5107776",
+      "time": "2026-09-22 19:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙首相桑切斯、聯合國秘書長古特雷斯先後抵達聯合國大會。"
+    },
+    {
+      "id": "5107775",
+      "time": "2026-09-22 19:56:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，颶風“波羅”已增強至5級，預計未來兩天將在墨西哥沿岸附近緩慢移動。"
+    },
+    {
+      "id": "5107774",
+      "time": "2026-09-22 19:56:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【2026北京文化論壇開幕 李書磊出席並發表主旨演講】2026北京文化論壇22日在京開幕。中共中央政治局委員、中宣部部長李書磊出席並發表主旨演講。中共中央政治局委員、北京市委書記尹力出席並致辭。中外嘉賓認為，習近平主席提出全球文明倡議，積極推動文化遺產領域國際合作，推動構建人類命運共同體，對促進中國和世界的文化遺產事業意義重大。文化遺產是全人類的共同財富，保護好、傳承好、利用好文化遺產是人類文明賡續和世界可持續發展的要求，也是我們的共同責任。（新華社）"
+    },
     {
       "id": "5107773",
       "time": "2026-09-22 19:55:27",
