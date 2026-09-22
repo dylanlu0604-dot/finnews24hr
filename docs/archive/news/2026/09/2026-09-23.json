@@ -1,7 +1,19 @@
 {
   "date": "2026-09-23",
-  "count": 515,
+  "count": 516,
   "items": [
+    {
+      "id": "te:markets:585817",
+      "time": "2026-09-23 06:56:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Trade Slightly Lower — The NZX 50 fell 27 points, or 0.2%, to 13,848 in Wednesday morning trade, but remained at its highest level since September 7, after gaining in the previous two sessions, weighed down by declines in healthcare, communication services, and real estate. Traders continued to assess a warning from RBNZ Governor Anna Breman that inflation could be higher if high oil prices persist. Caution was heightened as higher oil prices raised expectations of an interest rate hike at the upcoming meeting. However, further easing in oil prices capped the fall amid efforts to ease tensions in the Middle East. Optimism over the Trump-Xi summit later this week also prevented the index from falling deeper, as AI and tariffs are expected to be discussed at the meeting. Among the early losers were Fisher & Paykel (-1.4%), Chorus (-0.8%), Fletcher Building (-0.8%), Meridian Energy (-0.5%), EBOS Group (-0.4%), and Freightways Group (-0.4%)."
+    },
     {
       "id": "5108616",
       "time": "2026-09-23 06:53:58",
