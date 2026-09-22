@@ -1,7 +1,39 @@
 {
   "date": "2026-09-23",
-  "count": 360,
+  "count": 364,
   "items": [
+    {
+      "id": "mkt:01a0caa9-55b9-7118-864f-df7fdc72d380",
+      "time": "2026-09-23 03:48:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham said he pressed Trump over tariffs."
+    },
+    {
+      "id": "5108549",
+      "time": "2026-09-23 03:47:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.00%，現報12682.04點。英偉達漲0.83%，博通漲0.71%，美光漲4.79%，英特爾漲1.24%，AMD漲1.01%，高通漲1.73%，臺積電漲1.55%，阿斯麥漲2.15%。"
+    },
+    {
+      "id": "mkt:01a0caa8-0883-7118-864f-d1e6e3305d6e",
+      "time": "2026-09-23 03:46:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy says ready for trilateral talks with US and Russia】Ukrainian President Zelenskiy said at a UN General Assembly press briefing he is ready to enter trilateral talks with Russian President Putin and US President Trump aimed at ending the war. He called his meeting with Trump positive and said they discussed possible de-escalation measures to reopen diplomatic channels, including a potential energy ceasefire under which parties would not strike each other’s energy infrastructure; any Russian signal of engagement would indicate willingness to act. Zelenskiy said he did not receive a specific US commitment on additional interceptor missile systems, though the tone was positive, and he urged Trump to expedite licensing for Ukraine to produce Patriot missile systems."
+    },
+    {
+      "id": "5108548",
+      "time": "2026-09-23 03:46:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海灣國家據悉將敦促特朗普避免與伊朗衝突升級】據多位知情人士透露，海灣阿拉伯國家準備在週二與特朗普的會晤中敦促其避免升級和伊朗的敵對行動。知情人士稱，由沙特、阿聯酋、卡達等六國組成的海灣阿拉伯國家合作委員會(GCC)的官員一直在為與特朗普舉行會晤進行協調。在如何應對伊朗以及德黑蘭宣稱的霍爾木茲海峽所有權問題上，這些阿拉伯國家政府之間仍存在分歧。不過，它們都希望與特朗普的會晤能夠幫助推動結束戰爭。"
+    },
     {
       "id": "mkt:01a0caa4-db47-7118-864f-ce4c8a2ca9cc",
       "time": "2026-09-23 03:43:16",

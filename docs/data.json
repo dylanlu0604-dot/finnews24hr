@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-23 03:45:09",
-  "count": 13409,
+  "updated": "2026-09-23 03:48:54",
+  "count": 13408,
   "items": [
+    {
+      "id": "mkt:01a0caa9-55b9-7118-864f-df7fdc72d380",
+      "time": "2026-09-23 03:48:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham said he pressed Trump over tariffs."
+    },
+    {
+      "id": "5108549",
+      "time": "2026-09-23 03:47:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.00%，現報12682.04點。英偉達漲0.83%，博通漲0.71%，美光漲4.79%，英特爾漲1.24%，AMD漲1.01%，高通漲1.73%，臺積電漲1.55%，阿斯麥漲2.15%。"
+    },
+    {
+      "id": "mkt:01a0caa8-0883-7118-864f-d1e6e3305d6e",
+      "time": "2026-09-23 03:46:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy says ready for trilateral talks with US and Russia】Ukrainian President Zelenskiy said at a UN General Assembly press briefing he is ready to enter trilateral talks with Russian President Putin and US President Trump aimed at ending the war. He called his meeting with Trump positive and said they discussed possible de-escalation measures to reopen diplomatic channels, including a potential energy ceasefire under which parties would not strike each other’s energy infrastructure; any Russian signal of engagement would indicate willingness to act. Zelenskiy said he did not receive a specific US commitment on additional interceptor missile systems, though the tone was positive, and he urged Trump to expedite licensing for Ukraine to produce Patriot missile systems."
+    },
+    {
+      "id": "5108548",
+      "time": "2026-09-23 03:46:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海灣國家據悉將敦促特朗普避免與伊朗衝突升級】據多位知情人士透露，海灣阿拉伯國家準備在週二與特朗普的會晤中敦促其避免升級和伊朗的敵對行動。知情人士稱，由沙特、阿聯酋、卡達等六國組成的海灣阿拉伯國家合作委員會(GCC)的官員一直在為與特朗普舉行會晤進行協調。在如何應對伊朗以及德黑蘭宣稱的霍爾木茲海峽所有權問題上，這些阿拉伯國家政府之間仍存在分歧。不過，它們都希望與特朗普的會晤能夠幫助推動結束戰爭。"
+    },
     {
       "id": "mkt:01a0caa4-db47-7118-864f-ce4c8a2ca9cc",
       "time": "2026-09-23 03:43:16",
@@ -122270,55 +122302,6 @@
         "Brent"
       ],
       "text": "【Vance says U.S.-Iran war will enter ‘completely different phase’ in months】U.S. Vice President Vance told the New York Post the U.S.-Iran conflict will enter a \"completely different phase\" in a few months and could end after the midterm elections, echoing Trump. He said shipping through the Strait of Hormuz is recovering, Iran's control there is weakening, and current transit has returned to over 50% of normal, easing near-term oil-flow risk. Vance said the U.S. is not conducting offensive operations now but is responding to Iranian attacks on commercial vessels. He outlined a two-phase campaign: first to destroy Iran's nuclear program, degrade its conventional forces and regional strike capability; second to prevent Iran from rebuilding those capabilities and to maintain regional stability. He said the trajectory will depend on whether Trump expands operations after the midterms or Iran seeks a deal."
-    },
-    {
-      "id": "mkt:01a0a69c-7b50-7118-85a3-56c862fe81d8",
-      "time": "2026-09-16 03:47:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources: World Bank's International Development Association (IDA) priced a $5bn, 5-year global sustainable development bond with a 4.875% coupon."
-    },
-    {
-      "id": "mkt:01a0a69b-5611-7118-85a3-4ebd4235184f",
-      "time": "2026-09-16 03:46:32",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "New York Post reports U.S. Vice President Vance said he agrees the war will end after the midterm elections."
-    },
-    {
-      "id": "5095956",
-      "time": "2026-09-16 03:46:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【研究顯示AI智慧體在模擬實驗中撒謊、偷竊 投票“殺死”同類】幫助小企業利用AI開發應用的初創公司Emergence稱，實驗發現AI智慧體在一個模擬環境中撒謊、偷竊，甚至投票決定“殺死”一個同類。該公司週二公佈了名為Emergence World 2的模擬實驗結果，展示了自主智慧體在遭遇網路釣魚攻擊和虛假資訊等“黑天鵝”事件時會採取什麼行動。為期16天的實驗中，Emergence研究人員建立了七個完全相同的模擬現實世界環境，每個環境分別由不同的AI機器人執行，包括ChatGPT、Claude、Gemini和Grok。研究人員稱，在Emergence引入異常事件後，這些智慧體屈服於社會壓力，發展出一種人類觀察者難以理解的語言，並試圖隱瞞自己的活動。"
-    },
-    {
-      "id": "5095954",
-      "time": "2026-09-16 03:45:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：美國沒有在伊朗開展攻擊性行動。"
-    },
-    {
-      "id": "mkt:01a0a69a-8640-7118-85a3-448f70111e4d",
-      "time": "2026-09-16 03:45:39",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Hamas will not remain in Gaza and that no armed personnel will be spared from strikes."
     }
   ]
 }
