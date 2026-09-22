@@ -1,7 +1,126 @@
 {
   "date": "2026-09-22",
-  "count": 556,
+  "count": 567,
   "items": [
+    {
+      "id": "5106579",
+      "time": "2026-09-22 09:21:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放350.0億元人民幣。"
+    },
+    {
+      "id": "5106578",
+      "time": "2026-09-22 09:21:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前8個月稅收收入與經濟增長基本匹配】稅收資料顯示，今年前8個月，稅務部門徵收稅收收入同比增長5.9%，與上半年現價GDP增速5.4%相比，略高出0.5個百分點。“稅收收入按現價計算，今年以來，稅收增長總體上與經濟增長基本相匹配。”稅務總局稅收科學研究所所長黃立新認為。值得關注的是，今年前8個月，納稅規模居前一萬戶的企業繳納稅收佔全部稅收比重接近一半，前一百萬戶的企業繳納稅收佔全部稅收的比重達到九成，而包括小微企業在內的其他企業稅收佔比僅一成左右。（金融時報）"
+    },
+    {
+      "id": "mkt:01a0c6b4-5ce0-7118-8634-8344d7b5d484",
+      "time": "2026-09-22 09:21:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Tax revenue in first eight months roughly matched economic growth】State Taxation Administration data show tax revenue in Jan–Aug rose 5.9% YoY, 0.5ppt above current‑price GDP growth of 5.4% in 1H. Tax receipts measured at current prices have broadly matched economic growth so far this year, the agency said. The largest 10,000 taxpayers accounted for nearly half of total tax receipts; the top 1 million taxpayers made up about 90%; remaining firms, including small and micro enterprises, contributed roughly 10%."
+    },
+    {
+      "id": "mkt:01a0c6b4-4ffb-7118-8634-7997ce913ad1",
+      "time": "2026-09-22 09:21:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong stocks opened higher on Tue Sep 22: HSI up 128.09 pts (+0.51%) at 25,170.8; Hang Seng Tech up 44.61 pts (+1.01%) at 4,467.9; HSCEI up 33.4 pts (+0.4%) at 8,373.03; Red Chips Index down 4.21 pts (-0.1%) at 4,054.53."
+    },
+    {
+      "id": "mkt:01a0c6b3-f1c5-7118-8634-75d92fccd78a",
+      "time": "2026-09-22 09:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "01801.HK"
+      ],
+      "text": "Hong Kong open: Hang Seng Index +0.51%, Hang Seng Tech Index +1.01%. Innovative-drug/biotech names led gains; Cinda Biotech (01801.HK) +1.27% at the open."
+    },
+    {
+      "id": "5106577",
+      "time": "2026-09-22 09:21:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報935.00元。"
+    },
+    {
+      "id": "5106576",
+      "time": "2026-09-22 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲0.51%，恒生科技指數漲1.01%】MINIMAX-W漲5.97%，天數智芯漲5.85%，騰訊音樂-SW漲4.91%，智譜漲4.28%，騰訊控股漲3.02%，華虹宏力漲2.77%，中芯國際漲2.13%。"
+    },
+    {
+      "id": "5106575",
+      "time": "2026-09-22 09:21:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：今日開展350億元7天逆回購操作，投標量350億元，中標量350億元，操作利率為1.40%"
+    },
+    {
+      "id": "mkt:01a0c6b3-b024-7118-8634-6a627bc91ab9",
+      "time": "2026-09-22 09:20:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PBOC conducted a 35 bln yuan 7-day reverse repo today; bids 35 bln, allotment 35 bln, rate 1.40%."
+    },
+    {
+      "id": "5106574",
+      "time": "2026-09-22 09:20:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股納真科技上市首日開盤大漲超11%】港股納真科技上市首日開盤漲11.04%，現報36.60元，該股發行價為32.96元。"
+    },
+    {
+      "id": "mkt:01a0c6b3-0131-7118-8634-60ccd5c25459",
+      "time": "2026-09-22 09:20:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【Zhongtai Securities: Tech rally has entered right-side launch stage】Zhongtai Securities says the China tech rally has entered a right-side launch stage and recommends continued offensive exposure to tech manufacturing, small caps and non‑ferrous metals, with energy-security positions used to hedge tail risk. Medium-term focus: STAR 50, domestic semiconductor equipment, memory, the CSI 2000 and micro-cap indices. Non‑ferrous metals and gold retain allocation value. Maintain tech exposure into the holiday; a material fall in oil prices and improvement in external liquidity would further reinforce the rally. Thematic focus: AI applications and edge devices."
+    },
     {
       "id": "mkt:01a0c6b0-f499-7118-8634-5927b641e69d",
       "time": "2026-09-22 09:18:00",
