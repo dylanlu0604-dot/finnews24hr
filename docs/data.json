@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-22 23:47:52",
-  "count": 13297,
+  "updated": "2026-09-22 23:51:45",
+  "count": 13290,
   "items": [
+    {
+      "id": "5108304",
+      "time": "2026-09-22 23:50:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【訊息稱豆包開始收縮對話團隊】9月22日晚間訊息，據媒體報道，豆包通用 Session 團隊正在減員，規模預計將縮減約一半。人員調整由豆包負責人趙祺推動。報道稱，該團隊此前約有 50 人，一度是豆包內規模最大的團隊，主要負責豆包的對話（Chat）產品能力，包括策略、評測等工作。此次調整後，部分人員將轉崗至豆包商業化、飛書等團隊，其餘人員將被裁撤。（新浪科技）"
+    },
+    {
+      "id": "5108303",
+      "time": "2026-09-22 23:48:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美丹格陵蘭協議：根據該協議，美國獲准在納爾薩爾蘇阿克和梅斯特斯維設立軍事基地。"
+    },
+    {
+      "id": "mkt:01a0c9cd-c52d-7118-864a-8681e9d5b6bc",
+      "time": "2026-09-22 23:48:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SpaceXAI's Grok Bot hits 418,000 weekly users in first month】SpaceXAI's Grok Bot had 418,000 weekly active users as of Sept. 14, up 24% week-on-week, after launching in mid-August, presentation materials showed. The AI agent is pitched to compete with Anthropic PBC and OpenAI and is designed to act like an around-the-clock employee rather than a chatbot—handling emails, updating sales databases, processing invoices, coordinating workflows and filing software bug reports. The user figures indicate only modest initial demand."
+    },
+    {
+      "id": "5108302",
+      "time": "2026-09-22 23:48:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "丹麥政府：雙方應按照共同商定的流程框架與技術細則，允許美國在納薩爾蘇阿克和梅斯特斯維增設一處防務區域。"
+    },
+    {
+      "id": "5108301",
+      "time": "2026-09-22 23:48:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥政府：各政黨支援北約加強在北極地區的介入。"
+    },
+    {
+      "id": "5108300",
+      "time": "2026-09-22 23:47:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：聯合國安理會必須改革。"
+    },
+    {
+      "id": "5108299",
+      "time": "2026-09-22 23:47:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國預算部長：新措施（燃油補貼）成本估計為4.5億歐元。"
+    },
+    {
+      "id": "mkt:01a0c9cd-2bc5-7118-864a-783bd90ad2dd",
+      "time": "2026-09-22 23:47:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Danish government says the US will be permitted to establish additional defensive zones at Narsarsuaq and Mestersvig; specific modalities and technical details will be agreed bilaterally."
+    },
     {
       "id": "mkt:01a0c9cb-ed7e-7118-864a-75fb7e2b49a9",
       "time": "2026-09-22 23:46:19",
@@ -121254,166 +121320,6 @@
         "國際"
       ],
       "text": "美國財長貝森特：美國財政部藉助一筆名義金額，釋放出對日本相關政策的支援訊號。"
-    },
-    {
-      "id": "5095804",
-      "time": "2026-09-15 23:51:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國財長貝森特：日元走強意味著日本政府無需出售美國資產。"
-    },
-    {
-      "id": "mkt:01a0a5c3-d2b7-7118-859f-58aa1b46a926",
-      "time": "2026-09-15 23:51:09",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said a stronger yen means the Japanese government does not need to sell U.S. assets."
-    },
-    {
-      "id": "mkt:01a0a5c3-b253-7118-859f-56414af0e6b2",
-      "time": "2026-09-15 23:51:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said he expects Saudi east–west pipeline to resume operations soon."
-    },
-    {
-      "id": "5095803",
-      "time": "2026-09-15 23:50:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源部長賴特談及沙特與石油：我認為沙特的東西輸油管道很快就會恢復執行。"
-    },
-    {
-      "id": "mkt:01a0a5c3-79ab-7118-859f-4cc1ce666d93",
-      "time": "2026-09-15 23:50:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Refinitiv: Sources say strong demand has lifted the premium for Russian Urals crude at Indian ports to about $8/bbl over Brent."
-    },
-    {
-      "id": "5095802",
-      "time": "2026-09-15 23:50:24",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特：日元走強對美國出口商更為有利。美國透過干預日元獲得的收益可以千萬美元計。"
-    },
-    {
-      "id": "mkt:01a0a5c3-15be-7118-859f-447da7a81553",
-      "time": "2026-09-15 23:50:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said a stronger yen would benefit U.S. exporters."
-    },
-    {
-      "id": "mkt:01a0a5c2-e539-7118-859f-3d38c0a42db0",
-      "time": "2026-09-15 23:50:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Mexico's main stock index fell more than 1% to a year-to-date low."
-    },
-    {
-      "id": "mkt:01a0a5c2-d3a4-7118-859f-364fc60aaa39",
-      "time": "2026-09-15 23:50:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "US Treasury Secretary Bessent said the US used \"nominal amounts\" in its yen intervention and earned tens of millions of dollars from the operation."
-    },
-    {
-      "id": "5095801",
-      "time": "2026-09-15 23:49:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：受需求旺盛影響，印度港口的俄羅斯烏拉爾原油相對布倫特原油的溢價飆升至每桶 8 美元。"
-    },
-    {
-      "id": "mkt:01a0a5c2-884e-7118-859f-2aa0bdd1a1b5",
-      "time": "2026-09-15 23:49:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the U.S. has maintained ongoing dialogue with Japan on intervention."
-    },
-    {
-      "id": "5095800",
-      "time": "2026-09-15 23:49:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們一直就日本的干預行動保持持續溝通，美國採用 “名義金額” 統計日元干預規模 。"
-    },
-    {
-      "id": "mkt:01a0a5c1-255d-7118-859f-251c27938b7a",
-      "time": "2026-09-15 23:48:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said he earned tens of millions of dollars in the past while providing assistance to Argentina."
-    },
-    {
-      "id": "5095799",
-      "time": "2026-09-15 23:48:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：與阿根廷之間設有全額抵押的互換額度。在以往對阿根廷的援助專案上賺取了數千萬美元。"
-    },
-    {
-      "id": "te:markets:583941",
-      "time": "2026-09-15 23:48:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Extend Losses — European stocks closed lower on Tuesday, extending losses from the previous session with pressure from luxury brands and banks. The Euro STOXX 50 dropped 0.4% to 6,236 and the STOXX Europe 600 fell 0.3% to 634. Fuel prices surged further on dimmed expectations that oil supply from the Middle East could reenter the market in the near term, while European natural gas benchmarks maintained their elevated levels. The upside risks to inflation from high energy prices continued to drive markets to pile on bets of more rate hikes by the ECB this year, while the Fed is due to raise borrowing costs after tomorrow's closing bell. Higher yields pressured banks, with UniCredit and Deutsche Bank dropping more than 2%. Meanwhile, LVMH and Hermes dropped closed to 2.5% after retail sales from China did not meet expectations."
     }
   ]
 }
