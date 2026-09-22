@@ -1,7 +1,198 @@
 {
   "date": "2026-09-22",
-  "count": 1587,
+  "count": 1608,
   "items": [
+    {
+      "id": "mkt:01a0c8ee-3a34-7118-8641-f90f4f1a4e11",
+      "time": "2026-09-22 19:44:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the ideal outcome is that Russia and Ukraine do not target energy infrastructure."
+    },
+    {
+      "id": "5107744",
+      "time": "2026-09-22 19:44:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：理想結果是俄羅斯和烏克蘭不針對能源設施。"
+    },
+    {
+      "id": "mkt:01a0c8ed-bfef-7118-8641-f2c8d7b042c3",
+      "time": "2026-09-22 19:43:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "US Secretary of State Rubio said Ukraine's actions against those vessels may not have been intentional."
+    },
+    {
+      "id": "5107742",
+      "time": "2026-09-22 19:43:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：希望結束俄烏衝突。"
+    },
+    {
+      "id": "mkt:01a0c8ed-924c-7118-8641-eede72660605",
+      "time": "2026-09-22 19:43:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "U.S. Secretary of State Rubio said a ceasefire for Ukraine's energy infrastructure would be a good idea."
+    },
+    {
+      "id": "5107741",
+      "time": "2026-09-22 19:43:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：烏克蘭襲擊那些船隻可能並非蓄意為之。"
+    },
+    {
+      "id": "mkt:01a0c8ed-457f-7118-8641-e309fe697428",
+      "time": "2026-09-22 19:43:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio, speaking on the Russia-Ukraine conflict, said he is concerned that vessels linked to the United States could be targeted."
+    },
+    {
+      "id": "5107740",
+      "time": "2026-09-22 19:43:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：需要解決與美國有關的船隻遭到烏克蘭襲擊的問題。"
+    },
+    {
+      "id": "mkt:01a0c8ed-0d3d-7118-8641-df043551c356",
+      "time": "2026-09-22 19:42:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US Secretary of State Rubio said the main drivers of the oil price rise are Yemen and Ukraine."
+    },
+    {
+      "id": "mkt:01a0c8ec-fc43-7118-8641-d723fbd0c84d",
+      "time": "2026-09-22 19:42:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said on Ukraine he hopes to end the situation."
+    },
+    {
+      "id": "mkt:01a0c8ec-be21-7118-8641-cb2f7381beb9",
+      "time": "2026-09-22 19:42:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【European gas falls to September low on hopes of eased Strait of Hormuz tensions】Dutch TTF and UK NBP wholesale gas prices fell more than 6% to three-week lows on Tuesday. The move followed Iran saying it could quickly reopen the Strait of Hormuz if the United States eases military pressure. Prices had already retreated on Monday amid renewed diplomatic expectations, leaving a roughly 12% week-to-date decline. Rasmussen, chief analyst at a global risk firm, said markets are focused on an upcoming UN meeting and the prospect of US‑Iran talks, but added direct talks are unconfirmed and any deal would likely require substantial US concessions that may be politically difficult ahead of the election. A trader said weather and Asian demand will be the key drivers over the next month, with the threshold for demand disruption likely to determine price direction."
+    },
+    {
+      "id": "5107738",
+      "time": "2026-09-22 19:42:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川力爭2030年核產業規模突破2000億元】9月22日，在四川省綿陽市舉行的2026核技術應用暨核醫療產業創新發展大會上，四川省釋出涉及核科技與產業高質量發展、可控核聚變產業中長期發展規劃、核醫療產業發展“十五五”規劃等一系列檔案，其中提出到2030年全省核產業規模突破2000億元。四川是核工業與核技術利用大省，目前已構建起“核素—核藥—核醫療裝備—臨床應用”全產業鏈。“我們探索了‘創新平臺遴選轉化+科創投公司投早投小’成果轉化模式，已在綿陽轉化核醫療科研成果52項、實現投產27項，7個產品獲批國省首臺套（首批次）產品。”綿陽科技城管委會副主任韓曉清說。系列檔案提出，到2030年，四川將培育2家以上百億級龍頭企業，核醫療產業直接經濟產值突破300億元；圍繞核聚變能，加快關鍵核心技術攻關和非發電場景示範應用，建設國內一流的可控核聚變產業聚集區。（新華社）"
+    },
+    {
+      "id": "5107737",
+      "time": "2026-09-22 19:42:11",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "魯比奧：油價上漲主要歸因於葉門和烏克蘭。"
+    },
+    {
+      "id": "5107736",
+      "time": "2026-09-22 19:42:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【艾艾精工：主營業務未發生重大變化】艾艾精工公告，公司股票於2026年9月18日、21日、22日連續三個交易日內日收盤價格漲幅偏離值累計達到20%。經核查，公司生產經營正常，主營業務未發生重大變化，未發現應披露未披露的重大資訊、媒體報道、市場傳聞或熱點概念；公司最新滾動市盈率為254.84倍，高於行業最近一個月平均滾動市盈率27.45倍。"
+    },
+    {
+      "id": "mkt:01a0c8eb-d3e2-7118-8641-c72ca66b9725",
+      "time": "2026-09-22 19:41:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. will support Saudi Arabia if necessary."
+    },
+    {
+      "id": "5107735",
+      "time": "2026-09-22 19:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美方打算履行對沙烏地阿拉伯作出的承諾。如果到了那一步，我們會支援沙烏地阿拉伯。"
+    },
+    {
+      "id": "5107734",
+      "time": "2026-09-22 19:40:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【南華期貨：擬對全資子公司南華資本增資1.5億元】南華期貨(603093)9月22日公告，公司擬以自有資金向全資子公司南華資本增資1.5億元。增資完成後，南華資本註冊資本由6億元增加至7.5億元，公司持有南華資本股權比例仍為100%。"
+    },
+    {
+      "id": "mkt:01a0c8eb-23d8-7118-8641-b9e1c43df61f",
+      "time": "2026-09-22 19:40:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said he intends to fulfill commitments to Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a0c8eb-0e64-7118-8641-b434fcc09a02",
+      "time": "2026-09-22 19:40:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US Secretary of State Rubio said Iran's economy is being severely hit by sanctions."
+    },
+    {
+      "id": "mkt:01a0c8ea-ffc6-7118-8641-aaef4d70778b",
+      "time": "2026-09-22 19:40:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CCPIT vice president Lin Honghong meets Peru–China Chamber vice chairman Tan Yiyong】Beijing, Sept 22 — China Council for the Promotion of International Trade (CCPIT) vice president Lin Honghong met with Peru–China Chamber of Commerce vice chairman Tan Yiyong to discuss deepening institutional cooperation, promoting industrial-chain and supply-chain collaboration, and coordinating participation in the China–Latin America Entrepreneurs Summit and APEC business events."
+    },
+    {
+      "id": "5107733",
+      "time": "2026-09-22 19:40:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：制裁正在重創伊朗經濟。"
+    },
     {
       "id": "mkt:01a0c8ea-a335-7118-8641-a6d91717d202",
       "time": "2026-09-22 19:40:15",
