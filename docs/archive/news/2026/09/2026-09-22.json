@@ -1,7 +1,94 @@
 {
   "date": "2026-09-22",
-  "count": 643,
+  "count": 652,
   "items": [
+    {
+      "id": "mkt:01a0c6d0-b18b-7118-8635-8ec394b745ee",
+      "time": "2026-09-22 09:52:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moore Threads A-shares rose over 10% intraday, trading at 454.17 yuan."
+    },
+    {
+      "id": "5106624",
+      "time": "2026-09-22 09:52:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國正就投資西屋電氣、持股5%-10%一事與美國談判。"
+    },
+    {
+      "id": "5106623",
+      "time": "2026-09-22 09:52:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特斯拉宣佈部分Model 3/Y車型將搭載其自研音響演算法】9月22日，特斯拉宣佈部分Model 3/Y車型將搭載其自研智慧音響演算法。該功能需OTA升級至2026.14.11及更高版本，適用2023年9月及之後生產的Model 3長續航全輪驅動版及Model 3高效能版，和2025年2月及之後生產的Model Y長續航全輪驅動版及Model Y L及Model Y高效能全輪驅動版。在Model Y L車機上，該功能名稱為“沉浸式音效X”。"
+    },
+    {
+      "id": "5106622",
+      "time": "2026-09-22 09:51:45",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩爾執行緒盤中漲超10%】A股摩爾執行緒盤中漲超10%，現報454.17元。"
+    },
+    {
+      "id": "mkt:01a0c6cf-90e2-7118-8635-81ac761ddc68",
+      "time": "2026-09-22 09:51:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Economist: Reserve Bank of Australia likely to hike next week; November follow-up possible】Economist James McIntyre says the Reserve Bank of Australia is likely to raise its policy rate next week and has warned a further hike in November is possible as a surge in energy prices has clarified upside inflation risks. In a report titled 'RBA Insights: Energy shock returns RBA to a tightening path', McIntyre — who had earlier expected the RBA to remain on hold for the rest of 2026 — said repeated hawkish signals indicate the bank's limited patience is nearly exhausted. Further energy-price increases could prompt firms to pass higher input costs on to consumers."
+    },
+    {
+      "id": "te:markets:585445",
+      "time": "2026-09-22 09:50:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Remains on Intervention Watch — The Japanese yen weakened to around 157.5 per dollar on Tuesday, falling for a third straight session and keeping traders alert for possible intervention amid an extended holiday in Japan. Tokyo has previously taken advantage of thin holiday liquidity to intervene in currency markets, while concerns intensified following reports that the Bank of Japan conducted a rate check with market participants late Friday. The yen also remained under pressure from a stronger dollar as hawkish comments from Federal Reserve officials reinforced expectations for further US interest rate hikes. Last week, the Japanese currency fell sharply after the BOJ raised rates in a widely anticipated move, with two policymakers dissenting from the decision. Governor Kazuo Ueda said the BOJ remains committed to raising rates and adjusting the degree of monetary accommodation as economic conditions evolve, while noting that accommodative financial conditions are expected to remain in place to support growth."
+    },
+    {
+      "id": "5106621",
+      "time": "2026-09-22 09:50:08",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【歐盟與菲律賓就自由貿易協定達成“實質性協議”】根據歐盟和菲律賓的聯合宣告，雙方已就一項自由貿易協定達成“實質性協議”。根據歐盟委員會主席馮德萊恩與菲律賓總統馬科斯會晤後的通報，馮德萊恩表示期待於2027年赴菲律賓簽署這項自由貿易協定。"
+    },
+    {
+      "id": "mkt:01a0c6cd-a6d5-7118-8635-7848756d360f",
+      "time": "2026-09-22 09:49:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "LEN.N",
+        "Impact bullish"
+      ],
+      "text": "Berkshire Hathaway acquired roughly 2.7 million Class A shares and 75,021 Class B shares of Lennar Corp. between Sept. 17 and 21."
+    },
+    {
+      "id": "5106620",
+      "time": "2026-09-22 09:49:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊再度拉昇，引力傳媒觸及漲停】文化傳媒板塊再度拉昇，引力傳媒觸及漲停，中國出版、南方傳媒、藍色游標、流金科技跟漲。"
+    },
     {
       "id": "mkt:01a0c6cd-5438-7118-8635-75630bd58e72",
       "time": "2026-09-22 09:49:00",

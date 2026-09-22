@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-22 09:49:33",
-  "count": 13410,
+  "updated": "2026-09-22 09:53:26",
+  "count": 13412,
   "items": [
+    {
+      "id": "mkt:01a0c6d0-b18b-7118-8635-8ec394b745ee",
+      "time": "2026-09-22 09:52:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moore Threads A-shares rose over 10% intraday, trading at 454.17 yuan."
+    },
+    {
+      "id": "5106624",
+      "time": "2026-09-22 09:52:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國正就投資西屋電氣、持股5%-10%一事與美國談判。"
+    },
+    {
+      "id": "5106623",
+      "time": "2026-09-22 09:52:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特斯拉宣佈部分Model 3/Y車型將搭載其自研音響演算法】9月22日，特斯拉宣佈部分Model 3/Y車型將搭載其自研智慧音響演算法。該功能需OTA升級至2026.14.11及更高版本，適用2023年9月及之後生產的Model 3長續航全輪驅動版及Model 3高效能版，和2025年2月及之後生產的Model Y長續航全輪驅動版及Model Y L及Model Y高效能全輪驅動版。在Model Y L車機上，該功能名稱為“沉浸式音效X”。"
+    },
+    {
+      "id": "5106622",
+      "time": "2026-09-22 09:51:45",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩爾執行緒盤中漲超10%】A股摩爾執行緒盤中漲超10%，現報454.17元。"
+    },
+    {
+      "id": "mkt:01a0c6cf-90e2-7118-8635-81ac761ddc68",
+      "time": "2026-09-22 09:51:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Economist: Reserve Bank of Australia likely to hike next week; November follow-up possible】Economist James McIntyre says the Reserve Bank of Australia is likely to raise its policy rate next week and has warned a further hike in November is possible as a surge in energy prices has clarified upside inflation risks. In a report titled 'RBA Insights: Energy shock returns RBA to a tightening path', McIntyre — who had earlier expected the RBA to remain on hold for the rest of 2026 — said repeated hawkish signals indicate the bank's limited patience is nearly exhausted. Further energy-price increases could prompt firms to pass higher input costs on to consumers."
+    },
+    {
+      "id": "te:markets:585445",
+      "time": "2026-09-22 09:50:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Remains on Intervention Watch — The Japanese yen weakened to around 157.5 per dollar on Tuesday, falling for a third straight session and keeping traders alert for possible intervention amid an extended holiday in Japan. Tokyo has previously taken advantage of thin holiday liquidity to intervene in currency markets, while concerns intensified following reports that the Bank of Japan conducted a rate check with market participants late Friday. The yen also remained under pressure from a stronger dollar as hawkish comments from Federal Reserve officials reinforced expectations for further US interest rate hikes. Last week, the Japanese currency fell sharply after the BOJ raised rates in a widely anticipated move, with two policymakers dissenting from the decision. Governor Kazuo Ueda said the BOJ remains committed to raising rates and adjusting the degree of monetary accommodation as economic conditions evolve, while noting that accommodative financial conditions are expected to remain in place to support growth."
+    },
+    {
+      "id": "5106621",
+      "time": "2026-09-22 09:50:08",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【歐盟與菲律賓就自由貿易協定達成“實質性協議”】根據歐盟和菲律賓的聯合宣告，雙方已就一項自由貿易協定達成“實質性協議”。根據歐盟委員會主席馮德萊恩與菲律賓總統馬科斯會晤後的通報，馮德萊恩表示期待於2027年赴菲律賓簽署這項自由貿易協定。"
+    },
+    {
+      "id": "mkt:01a0c6cd-a6d5-7118-8635-7848756d360f",
+      "time": "2026-09-22 09:49:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "LEN.N",
+        "Impact bullish"
+      ],
+      "text": "Berkshire Hathaway acquired roughly 2.7 million Class A shares and 75,021 Class B shares of Lennar Corp. between Sept. 17 and 21."
+    },
+    {
+      "id": "5106620",
+      "time": "2026-09-22 09:49:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊再度拉昇，引力傳媒觸及漲停】文化傳媒板塊再度拉昇，引力傳媒觸及漲停，中國出版、南方傳媒、藍色游標、流金科技跟漲。"
+    },
     {
       "id": "mkt:01a0c6cd-5438-7118-8635-75630bd58e72",
       "time": "2026-09-22 09:49:00",
@@ -122764,72 +122851,6 @@
         "Importance 1"
       ],
       "text": "Australia 10Y Bond Yield Hits 15-year High — Australia 10 Year Government Bond Yield increased to 5.40%, the highest since May 2011. Over the past 4 weeks, Australia 10Y Bond Yield gained 36.30 basis points, and in the last 12 months, it increased 116.00 basis points."
-    },
-    {
-      "id": "5094164",
-      "time": "2026-09-15 09:53:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科大訊飛入股智慧機器人研發商夢舞智慧】企查查APP顯示，近日，蘇州夢舞智慧科技有限公司發生工商變更，新增科大訊飛全資子公司安徽訊飛雲創科技有限公司為股東。公開資訊顯示，夢舞智慧聚焦智慧機器人研發、生產、銷售與運營，持續推動智慧機器人進入真實空間與高頻服務場景。"
-    },
-    {
-      "id": "te:markets:583655",
-      "time": "2026-09-15 09:53:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Prices Hover at 2022 Highs — European natural gas prices hovered above €82/MWh on Tuesday, their highest level since late 2022, amid intensifying disruptions around the Strait of Hormuz and concerns over still-below-normal gas inventories. The strait remains closed to most commercial traffic amid ongoing military conflict and security threats, while diplomatic efforts to secure its reopening have stalled, raising fears that disruptions to shipments could persist. LNG tanker traffic through the Strait has fallen sharply, tightening global supplies and intensifying competition with Asia and other buyers for available cargoes. Meanwhile, ongoing maintenance at Norwegian gas facilities is also adding another layer of uncertainty to Europe’s winter supply balance. Europe’s gas storage levels stand at around 68% of capacity, nearly 17 percentage points below the seasonal norm, when inventories would usually be close to maximum capacity."
-    },
-    {
-      "id": "5094163",
-      "time": "2026-09-15 09:52:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米、始祖鳥關聯公司入股一管理諮詢合夥企業】企查查APP顯示，近日，東莞獵聲前行管理諮詢合夥企業（有限合夥）發生工商變更，新增小米關聯公司天津金米投資合夥企業（有限合夥）、始祖鳥關聯公司亞瑪芬體育香港有限公司等為合夥人。企查查資訊顯示，該企業成立於2026年4月，經營範圍包含企業管理諮詢；企業總部管理；資訊科技諮詢服務；以自有資金從事投資活動等。"
-    },
-    {
-      "id": "5094162",
-      "time": "2026-09-15 09:52:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【圍繞數智化轉型等 2026上合組織數字經濟論壇今天開幕】今天，2026上合組織數字經濟論壇將在新疆烏魯木齊開幕。本屆論壇以“數連上合 智啟未來”為主題，將圍繞數智化轉型、數字經濟健康發展、資料要素價值釋放等熱點方向，開展對話交流，為上合組織深化數字經濟互惠合作凝聚更多共識，拓展發展空間。"
-    },
-    {
-      "id": "5094161",
-      "time": "2026-09-15 09:50:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國承攬金額最大國際海洋油氣工程開建】今天（15日），記者從中國海油獲悉，我國承攬合同額最大的國際海洋油氣工程——卡達伯哈尼油田再開發專案在山東開工建造。該專案坐落於卡達海岸線以東約100公里的海域，作業海域最大水深約40米，專案合同總金額達40億美元，專案成功實施將對高質量推進共建“一帶一路”國際油氣合作具有重要意義。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0a2c1-d524-7118-8583-4894fb0a5c45",
-      "time": "2026-09-15 09:50:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "China's August industrial value added for firms above designated size YoY and August retail sales YoY are due in 10 minutes."
-    },
-    {
-      "id": "mkt:01a0a2c1-932c-7118-8583-45a5d3c1b30d",
-      "time": "2026-09-15 09:49:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share CPO sector strengthened after choppy trading; Junya Technology and Aohong Electronics hit the daily limit, Yibo Technology rose about 12%, Yanmai Technology gained about 11%, Nanya New Materials and Shengyi Technology advanced over 6%."
     }
   ]
 }
