@@ -1,7 +1,118 @@
 {
   "date": "2026-09-22",
-  "count": 576,
+  "count": 588,
   "items": [
+    {
+      "id": "mkt:01a0c6bb-d5e5-7118-8634-d156ac4170e2",
+      "time": "2026-09-22 09:29:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula met in New York on Monday afternoon with U.S. Senator Bernie Sanders to discuss multilateralism and the defense of peace and democracy; they condemned rising military spending, widening inequality and deteriorating labor conditions worldwide."
+    },
+    {
+      "id": "mkt:01a0c6bb-64f3-7118-8634-c918214cdb9b",
+      "time": "2026-09-22 09:29:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Citigroup: Heavy shorting leaves Nikkei vulnerable to sharp short-covering on mild catalysts】Citigroup says Asian equity positioning remains skewed toward shorts, with the Nikkei carrying the heaviest short exposure. Global equity positioning has weakened as investors turn defensive, and over the past week regions have seen a near-continuous reaccumulation of short positions. In Asia the Nikkei and Korea's KOSPI show particularly high short interest while long participation remains limited. That creates asymmetric upside risk: even modest positive catalysts could trigger pronounced short-covering rallies, especially in the Nikkei and KOSPI."
+    },
+    {
+      "id": "mkt:01a0c6bb-2faf-7118-8634-c535eb8a525c",
+      "time": "2026-09-22 09:29:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "On China’s A-share market the AI PC sector opened higher; China Great Wall hit the daily limit-up, while Guanghe Technology, Tongfu Microelectronics and Guoxin Technology opened higher."
+    },
+    {
+      "id": "mkt:01a0c6b9-8085-7118-8634-ba2ccfc5602e",
+      "time": "2026-09-22 09:27:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's Shanghai Composite Index opened up 13.9 points (+0.35%) at 3,963.81; Shenzhen Composite Index opened up 128.6 points (+0.94%) at 13,858.62; CSI 300 index opened up 30.31 points (+0.67%) at 4,569.87; ChiNext index opened up 46.74 points (+1.37%) at 3,446.33; SSE STAR 50 index opened up 41.57 points (+2.51%) at 1,699.05."
+    },
+    {
+      "id": "mkt:01a0c6b9-0840-7118-8634-b238122cfd3d",
+      "time": "2026-09-22 09:26:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "N Century surged 288.64% at the open on its A-share debut, trading at 60.9 yuan versus an issue price of 15.67 yuan."
+    },
+    {
+      "id": "5106587",
+      "time": "2026-09-22 09:26:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPU概念大幅高開 中國長城等多股一字漲停】早盤CPU概念大幅高開，中國長城、綜藝股份、禾盛新材一字漲停，龍芯中科、海光資訊、國芯科技漲超5%。"
+    },
+    {
+      "id": "mkt:01a0c6b8-bb92-7118-8634-af1a44813329",
+      "time": "2026-09-22 09:26:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share-listed Zhongsu Co. opened 384.37% higher on its debut, trading at 267.76 yuan; issue price was 55.28 yuan."
+    },
+    {
+      "id": "5106586",
+      "time": "2026-09-22 09:26:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧地利腦機介面企業G.tec中國總部落地南京】9月19日，江蘇腦機介面創新發展會議在南京棲霞區舉行。會場內，四個產學研專案集中籤約，其中來自奧地利的腦機介面企業G.tec，其中國總部吉泰客腦機科技有限公司已完成註冊，辦公地點選在江蘇腦機介面研究院所在大廈的一樓。目前，企業中國總部落在南京棲霞，未來將設立腦機介面研發基地，開展臨床研究和部分生產，佈局三條產品線：面向高校、科研機構的研究級裝置；面向腦卒中神經康復、神經外科腦功能定位的臨床產品以及面向消費端的互動應用和商業化探索。"
+    },
+    {
+      "id": "mkt:01a0c6b8-7bd4-7118-8634-a763e88c7469",
+      "time": "2026-09-22 09:26:14",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share storage-chip sector opened sharply higher; Lanqi Technology rose more than 9%, Xingsen Technology gained over 8%, while Xiandao Jidian and Shennan Circuits also advanced."
+    },
+    {
+      "id": "5106585",
+      "time": "2026-09-22 09:26:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "儲存晶片板塊集體高開，瀾起科技漲超9%，興森科技漲超8%，先導基電、深南電路等跟漲。"
+    },
+    {
+      "id": "5106584",
+      "time": "2026-09-22 09:26:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【世紀數碼上市首日開盤大漲超288%】世紀數碼上市首日開盤漲288.64%，現報60.9元，該股發行價為15.67元。"
+    },
     {
       "id": "5106583",
       "time": "2026-09-22 09:25:52",
@@ -215,6 +326,14 @@
         "WTI"
       ],
       "text": "【Zhongtai Securities: Tech rally has entered right-side launch stage】Zhongtai Securities says the China tech rally has entered a right-side launch stage and recommends continued offensive exposure to tech manufacturing, small caps and non‑ferrous metals, with energy-security positions used to hedge tail risk. Medium-term focus: STAR 50, domestic semiconductor equipment, memory, the CSI 2000 and micro-cap indices. Non‑ferrous metals and gold retain allocation value. Maintain tech exposure into the holiday; a material fall in oil prices and improvement in external liquidity would further reinforce the rally. Thematic focus: AI applications and edge devices."
+    },
+    {
+      "id": "5106573",
+      "time": "2026-09-22 09:19:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國產業通商部長官金正官：隨著與美國達成的投資專案逐步落實，韓國企業將獲得進入美國市場的新通道。將於週二向國會議員彙報一項高達3500億美元的對美投資計劃，其中包括計劃在德克薩斯州興建的大型天然氣電廠專案。"
     },
     {
       "id": "mkt:01a0c6b0-f499-7118-8634-5927b641e69d",

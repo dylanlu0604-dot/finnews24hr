@@ -1,7 +1,118 @@
 {
-  "updated": "2026-09-22 09:26:22",
-  "count": 13425,
+  "updated": "2026-09-22 09:30:18",
+  "count": 13426,
   "items": [
+    {
+      "id": "mkt:01a0c6bb-d5e5-7118-8634-d156ac4170e2",
+      "time": "2026-09-22 09:29:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula met in New York on Monday afternoon with U.S. Senator Bernie Sanders to discuss multilateralism and the defense of peace and democracy; they condemned rising military spending, widening inequality and deteriorating labor conditions worldwide."
+    },
+    {
+      "id": "mkt:01a0c6bb-64f3-7118-8634-c918214cdb9b",
+      "time": "2026-09-22 09:29:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Citigroup: Heavy shorting leaves Nikkei vulnerable to sharp short-covering on mild catalysts】Citigroup says Asian equity positioning remains skewed toward shorts, with the Nikkei carrying the heaviest short exposure. Global equity positioning has weakened as investors turn defensive, and over the past week regions have seen a near-continuous reaccumulation of short positions. In Asia the Nikkei and Korea's KOSPI show particularly high short interest while long participation remains limited. That creates asymmetric upside risk: even modest positive catalysts could trigger pronounced short-covering rallies, especially in the Nikkei and KOSPI."
+    },
+    {
+      "id": "mkt:01a0c6bb-2faf-7118-8634-c535eb8a525c",
+      "time": "2026-09-22 09:29:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "On China’s A-share market the AI PC sector opened higher; China Great Wall hit the daily limit-up, while Guanghe Technology, Tongfu Microelectronics and Guoxin Technology opened higher."
+    },
+    {
+      "id": "mkt:01a0c6b9-8085-7118-8634-ba2ccfc5602e",
+      "time": "2026-09-22 09:27:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's Shanghai Composite Index opened up 13.9 points (+0.35%) at 3,963.81; Shenzhen Composite Index opened up 128.6 points (+0.94%) at 13,858.62; CSI 300 index opened up 30.31 points (+0.67%) at 4,569.87; ChiNext index opened up 46.74 points (+1.37%) at 3,446.33; SSE STAR 50 index opened up 41.57 points (+2.51%) at 1,699.05."
+    },
+    {
+      "id": "5106587",
+      "time": "2026-09-22 09:26:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPU概念大幅高開 中國長城等多股一字漲停】早盤CPU概念大幅高開，中國長城、綜藝股份、禾盛新材一字漲停，龍芯中科、海光資訊、國芯科技漲超5%。"
+    },
+    {
+      "id": "mkt:01a0c6b9-0840-7118-8634-b238122cfd3d",
+      "time": "2026-09-22 09:26:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "N Century surged 288.64% at the open on its A-share debut, trading at 60.9 yuan versus an issue price of 15.67 yuan."
+    },
+    {
+      "id": "mkt:01a0c6b8-bb92-7118-8634-af1a44813329",
+      "time": "2026-09-22 09:26:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share-listed Zhongsu Co. opened 384.37% higher on its debut, trading at 267.76 yuan; issue price was 55.28 yuan."
+    },
+    {
+      "id": "5106586",
+      "time": "2026-09-22 09:26:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧地利腦機介面企業G.tec中國總部落地南京】9月19日，江蘇腦機介面創新發展會議在南京棲霞區舉行。會場內，四個產學研專案集中籤約，其中來自奧地利的腦機介面企業G.tec，其中國總部吉泰客腦機科技有限公司已完成註冊，辦公地點選在江蘇腦機介面研究院所在大廈的一樓。目前，企業中國總部落在南京棲霞，未來將設立腦機介面研發基地，開展臨床研究和部分生產，佈局三條產品線：面向高校、科研機構的研究級裝置；面向腦卒中神經康復、神經外科腦功能定位的臨床產品以及面向消費端的互動應用和商業化探索。"
+    },
+    {
+      "id": "mkt:01a0c6b8-7bd4-7118-8634-a763e88c7469",
+      "time": "2026-09-22 09:26:14",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share storage-chip sector opened sharply higher; Lanqi Technology rose more than 9%, Xingsen Technology gained over 8%, while Xiandao Jidian and Shennan Circuits also advanced."
+    },
+    {
+      "id": "5106585",
+      "time": "2026-09-22 09:26:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "儲存晶片板塊集體高開，瀾起科技漲超9%，興森科技漲超8%，先導基電、深南電路等跟漲。"
+    },
+    {
+      "id": "5106584",
+      "time": "2026-09-22 09:26:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【世紀數碼上市首日開盤大漲超288%】世紀數碼上市首日開盤漲288.64%，現報60.9元，該股發行價為15.67元。"
+    },
     {
       "id": "5106583",
       "time": "2026-09-22 09:25:52",
@@ -215,6 +326,14 @@
         "WTI"
       ],
       "text": "【Zhongtai Securities: Tech rally has entered right-side launch stage】Zhongtai Securities says the China tech rally has entered a right-side launch stage and recommends continued offensive exposure to tech manufacturing, small caps and non‑ferrous metals, with energy-security positions used to hedge tail risk. Medium-term focus: STAR 50, domestic semiconductor equipment, memory, the CSI 2000 and micro-cap indices. Non‑ferrous metals and gold retain allocation value. Maintain tech exposure into the holiday; a material fall in oil prices and improvement in external liquidity would further reinforce the rally. Thematic focus: AI applications and edge devices."
+    },
+    {
+      "id": "5106573",
+      "time": "2026-09-22 09:19:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國產業通商部長官金正官：隨著與美國達成的投資專案逐步落實，韓國企業將獲得進入美國市場的新通道。將於週二向國會議員彙報一項高達3500億美元的對美投資計劃，其中包括計劃在德克薩斯州興建的大型天然氣電廠專案。"
     },
     {
       "id": "mkt:01a0c6b0-f499-7118-8634-5927b641e69d",
@@ -122868,117 +122987,6 @@
         "市場"
       ],
       "text": "中證轉債指數開盤下跌0.03%。路維轉債、微導轉債、珂瑪轉債、長海轉債、本川轉債跌幅居前，分別跌1.74%、1.67%、1.66%、1.65%、1.51%。浩瀚轉債、赫達轉債、山石轉債、明新轉債、通合轉債漲幅居前，分別漲3.61%、3.34%、2.65%、1.43%、1.33%。"
-    },
-    {
-      "id": "5094121",
-      "time": "2026-09-15 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.42%， 滬深300指數期貨連續漲0.12%， 中證500指數期貨連續漲0.29%， 上證50指數期貨連續漲0.11%。"
-    },
-    {
-      "id": "5094120",
-      "time": "2026-09-15 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.08%， 10年期主力合約漲0.01%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202609153874278588",
-      "time": "2026-09-15 09:30:00",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：8月份各線城市商品住宅銷售價格同比降幅繼續收窄】2026年8月份，70個大中城市中，一線城市商品住宅銷售價格環比上漲，二三線城市環比降幅總體收窄，一二三線城市同比降幅繼續收窄。8月份，一線城市新建商品住宅銷售價格環比由上月持平轉為上漲0.1%。其中，上海、廣州和深圳分別上漲0.4%、0.1%和0.2%，北京下降0.2%。8月份，一線城市二手住宅銷售價格環比上漲0.1%，漲幅比上月回落0.1個百分點。其中，上海和深圳分別上漲0.3%和0.1%，廣州持平，北京下降0.1%。"
-    },
-    {
-      "id": "5094119",
-      "time": "2026-09-15 09:28:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "廣汽集團港股漲8.2%，該公司計劃收購一汽所持合資車企部分股權。"
-    },
-    {
-      "id": "mkt:01a0a2ae-3d0f-7118-8582-507ebde20965",
-      "time": "2026-09-15 09:28:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share agriculture and forestry stocks weakened; Xinnong Development hit the daily limit down, with Dunhuang Seed, Pingtan Development, Shennong Seed, Guotou Fengle and Yasheng Group tracking lower."
-    },
-    {
-      "id": "mkt:01a0a2ad-c89d-7118-8582-4b93db6c9ebf",
-      "time": "2026-09-15 09:28:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share fiber-optic names opened lower; Zhaolong Hulian and Guangyunda fell over 4%, with Changyingtong, Huamai Technology, Yangtze Optical Fibre & Cable and Hangdian Co. also sliding."
-    },
-    {
-      "id": "5094118",
-      "time": "2026-09-15 09:28:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【種植業與林業板塊低開，新農開發觸及跌停】種植業與林業板塊低開，新農開發觸及跌停，敦煌種業、平潭發展、神農種業、國投豐樂、亞盛集團跟跌。"
-    },
-    {
-      "id": "5094117",
-      "time": "2026-09-15 09:27:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "汽車整車股延續漲勢，安凱客車2連板，眾泰汽車、海馬汽車、中通客車、曙光股份等紛紛高開。"
-    },
-    {
-      "id": "mkt:01a0a2ad-211d-7118-8582-42e92abe66f8",
-      "time": "2026-09-15 09:27:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China's Shanghai Composite Index opened down 5.61 pts (-0.14%) at 3,879.73 on Sep 15 (Tue); Shenzhen Composite opened down 22.39 pts (-0.17%) at 13,362.17; CSI 300 Index opened down 6.28 pts (-0.14%) at 4,473.81; ChiNext Index opened down 4.73 pts (-0.14%) at 3,280.85; STAR Market 50 Index opened down 4.00 pts (-0.26%) at 1,524.27."
-    },
-    {
-      "id": "5094116",
-      "time": "2026-09-15 09:27:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【埃安i60 2027款正式上市】9月15日，埃安i60 2027款正式上市，新車搭載文遠知行L4級同源駕駛輔助，提供純電版、增程版兩種動力選擇，純電版搭載廣汽自研非晶合金電驅，配備66L前備箱，增程版搭載華為DriveONE電驅，配備i-TRACK智慧扭矩控制系統。"
-    },
-    {
-      "id": "mkt:01a0a2ac-baf4-7118-8582-3bf7a320f8a3",
-      "time": "2026-09-15 09:27:03",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share short-drama gaming sector opened higher; Aorui De hit the daily trading limit, Guilin Tourism climbed over 6%, and Zhongwen Online, Dianhun Network, Yidian Tianxia and BlueFocus also advanced."
     }
   ]
 }
