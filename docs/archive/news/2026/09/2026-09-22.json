@@ -1,7 +1,79 @@
 {
   "date": "2026-09-22",
-  "count": 662,
+  "count": 670,
   "items": [
+    {
+      "id": "mkt:01a0c6d8-10ad-7118-8635-bfb0f2bbe08b",
+      "time": "2026-09-22 10:00:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Immigration Administration forecasts daily average 2.25 mln entry‑exit travelers for Mid‑Autumn holiday】The National Immigration Administration forecasts China will see a daily average of 2.25 mln entry‑exit travelers during the Mid‑Autumn holiday and 2.15 mln during the National Day holiday. Peak flows are concentrated on Sept 25, Sept 27, Oct 1 and Oct 4; single‑day border clearance is expected to exceed 2.4 mln."
+    },
+    {
+      "id": "5106638",
+      "time": "2026-09-22 10:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中秋節假期日均出入境旅客將達225萬人次】金秋送爽、丹桂飄香，隨著中秋、國慶佳節將至，預計全國口岸將迎來出入境高峰。據國家移民管理局預測，今年中秋節假期日均出入境旅客將達225萬人次，國慶節假期日均將達215萬人次，出入境客流高峰主要集中在9月25日、9月27日、10月1日和10月4日，單日最高通關量預計將突破240萬人次。（央視新聞）"
+    },
+    {
+      "id": "5106637",
+      "time": "2026-09-22 10:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破93美元/桶，日內漲0.68%。"
+    },
+    {
+      "id": "mkt:01a0c6d6-e6fc-7118-8635-b7b254920f19",
+      "time": "2026-09-22 09:59:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Foreign Minister Toshimitsu Motegi said he held talks with Pakistan’s deputy prime minister and foreign minister Dar, who has played a significant role in the Iran situation. They had spoken by phone several times previously; this was their first face-to-face meeting, timed to the UN General Assembly."
+    },
+    {
+      "id": "5106636",
+      "time": "2026-09-22 09:59:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破97美元/桶，日內漲0.83%。"
+    },
+    {
+      "id": "mkt:01a0c6d6-6e37-7118-8635-ac2ab5675166",
+      "time": "2026-09-22 09:58:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: South Korea seeks to classify nuclear power plants and the Alaska LNG project as US investments."
+    },
+    {
+      "id": "5106633",
+      "time": "2026-09-22 09:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國表示對美投資不會超過每年200億美元的上限。"
+    },
+    {
+      "id": "mkt:01a0c6d4-b149-7118-8635-a220718c5bcb",
+      "time": "2026-09-22 09:57:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share innovative-drug sector rebounded after intraday swings; Beilu Pharmaceutical rose more than 10%. Earlier Harbin Pharmaceutical and Xinhua Pharmaceutical hit limit-up. Ruikang Pharmaceutical, Baihua Pharmaceutical, Tailong Pharmaceutical, Jiankai Technology and Baike Bio also advanced."
+    },
     {
       "id": "5106632",
       "time": "2026-09-22 09:55:35",

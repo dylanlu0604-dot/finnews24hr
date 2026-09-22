@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-22 09:57:17",
-  "count": 13411,
+  "updated": "2026-09-22 10:01:09",
+  "count": 13385,
   "items": [
+    {
+      "id": "mkt:01a0c6d8-10ad-7118-8635-bfb0f2bbe08b",
+      "time": "2026-09-22 10:00:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Immigration Administration forecasts daily average 2.25 mln entry‑exit travelers for Mid‑Autumn holiday】The National Immigration Administration forecasts China will see a daily average of 2.25 mln entry‑exit travelers during the Mid‑Autumn holiday and 2.15 mln during the National Day holiday. Peak flows are concentrated on Sept 25, Sept 27, Oct 1 and Oct 4; single‑day border clearance is expected to exceed 2.4 mln."
+    },
+    {
+      "id": "5106638",
+      "time": "2026-09-22 10:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中秋節假期日均出入境旅客將達225萬人次】金秋送爽、丹桂飄香，隨著中秋、國慶佳節將至，預計全國口岸將迎來出入境高峰。據國家移民管理局預測，今年中秋節假期日均出入境旅客將達225萬人次，國慶節假期日均將達215萬人次，出入境客流高峰主要集中在9月25日、9月27日、10月1日和10月4日，單日最高通關量預計將突破240萬人次。（央視新聞）"
+    },
+    {
+      "id": "5106637",
+      "time": "2026-09-22 10:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破93美元/桶，日內漲0.68%。"
+    },
+    {
+      "id": "mkt:01a0c6d6-e6fc-7118-8635-b7b254920f19",
+      "time": "2026-09-22 09:59:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Foreign Minister Toshimitsu Motegi said he held talks with Pakistan’s deputy prime minister and foreign minister Dar, who has played a significant role in the Iran situation. They had spoken by phone several times previously; this was their first face-to-face meeting, timed to the UN General Assembly."
+    },
+    {
+      "id": "5106636",
+      "time": "2026-09-22 09:59:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破97美元/桶，日內漲0.83%。"
+    },
+    {
+      "id": "mkt:01a0c6d6-6e37-7118-8635-ac2ab5675166",
+      "time": "2026-09-22 09:58:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: South Korea seeks to classify nuclear power plants and the Alaska LNG project as US investments."
+    },
+    {
+      "id": "5106633",
+      "time": "2026-09-22 09:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國表示對美投資不會超過每年200億美元的上限。"
+    },
+    {
+      "id": "mkt:01a0c6d4-b149-7118-8635-a220718c5bcb",
+      "time": "2026-09-22 09:57:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share innovative-drug sector rebounded after intraday swings; Beilu Pharmaceutical rose more than 10%. Earlier Harbin Pharmaceutical and Xinhua Pharmaceutical hit limit-up. Ruikang Pharmaceutical, Baihua Pharmaceutical, Tailong Pharmaceutical, Jiankai Technology and Baike Bio also advanced."
+    },
     {
       "id": "5106632",
       "time": "2026-09-22 09:55:35",
@@ -122483,349 +122555,6 @@
         "Important"
       ],
       "text": "National Bureau of Statistics: Electricity generation by industrial enterprises above designated size remained broadly stable. In August generation was 943.8 bln kWh, down 0.8% YoY; daily average 30.44 bln kWh. January–August generation totaled 6.6476 tln kWh, up 2.4% YoY."
-    },
-    {
-      "id": "mkt:01a0a2cb-ee5a-7118-8584-04a9323069ce",
-      "time": "2026-09-15 10:01:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "China's National Bureau of Statistics said Jan-Aug fixed-asset investment (excluding rural households) totaled 29.31 trillion yuan, down 7.2% YoY. Investment in intellectual property products rose 9.2% YoY."
-    },
-    {
-      "id": "em:jjsj_zgsj:202609153874427414",
-      "time": "2026-09-15 10:00:55",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：1—8月份全國房地產開發投資47979億元 同比下降19.9%】國家統計局資料顯示，1—8月份，全國房地產開發投資47979億元，同比下降19.9%（按可比口徑計算）；其中，住宅投資37017億元，下降19.7%。1—8月份，新建商品房銷售面積49880萬平方米，同比下降12.1%；其中住宅銷售面積下降13.0%。新建商品房銷售額47470億元，下降13.0%；其中住宅銷售額下降13.1%。根據住房城鄉建設部資料，1—8月份，二手房交易網籤面積54923萬平方米，同比增長10.6%。"
-    },
-    {
-      "id": "mkt:01a0a2cb-a0a3-7118-8583-fa2c5b6433fb",
-      "time": "2026-09-15 10:00:48",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's National Healthcare Security Administration introduced a pre-filing system for medical service pricing items to speed the inclusion of newly approved medical technologies and products into billable medical services and fee schedules once they receive formal approval."
-    },
-    {
-      "id": "mkt:01a0a2cb-9d0c-7118-8583-f1042b968846",
-      "time": "2026-09-15 10:00:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "China industrial value added of enterprises above designated size rose 0.54% month-on-month in August, versus 0.11% previously."
-    },
-    {
-      "id": "5094182",
-      "time": "2026-09-15 10:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：8月規模以上工業增加值同比實際增長5.2%】據國家統計局，8月份，規模以上工業增加值同比實際增長5.2%（增加值增速均為扣除價格因素的實際增長率），增速比上月加快0.7個百分點。1—8月份，規模以上工業增加值同比增長5.3%。"
-    },
-    {
-      "id": "5094181",
-      "time": "2026-09-15 10:00:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國1-8月房地產開發投資同比下降19.9%。"
-    },
-    {
-      "id": "mkt:01a0a2cb-878f-7118-8583-e9457d2ccae3",
-      "time": "2026-09-15 10:00:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish",
-        "Copper",
-        "CNH"
-      ],
-      "text": "National Bureau of Statistics: Jan-Aug China real estate development investment totaled 4.798 tln yuan, down 19.9% YoY; residential investment 3.702 tln yuan, down 19.7% YoY."
-    },
-    {
-      "id": "mkt:01a0a2cb-7b81-7118-8583-e17d63e0c79f",
-      "time": "2026-09-15 10:00:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Industrial Output (MoM) (Aug) | actual 0.54% | previous 0.11%"
-    },
-    {
-      "id": "em:jjsj_zgsj:202609153874426434",
-      "time": "2026-09-15 10:00:39",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：8月份社會消費品零售總額39824億元 同比增長0.4%】國家統計局釋出資料顯示，1—8月份，社會消費品零售總額327569億元，同比增長1.1%。其中，除汽車以外的消費品零售額301764億元，增長2.7%。8月份，社會消費品零售總額39824億元，同比增長0.4%。其中，除汽車以外的消費品零售額36545億元，增長2.5%。"
-    },
-    {
-      "id": "5094180",
-      "time": "2026-09-15 10:00:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國1-8月零售銷售同比增長1.1%。"
-    },
-    {
-      "id": "mkt:01a0a2cb-61af-7118-8583-d889d10c47be",
-      "time": "2026-09-15 10:00:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Copper"
-      ],
-      "text": "China industrial value added of enterprises above designated size rose 5.2% YoY in August, accelerating 0.7 percentage points from July; MoM growth was 0.54%."
-    },
-    {
-      "id": "em:jjsj_zgsj:202609153874419887",
-      "time": "2026-09-15 10:00:30",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【統計局：8月規模以上工業增加值同比增長5.2% 社會消費品零售總額增長0.4%】8月份，全國規模以上工業增加值同比增長5.2%，比上月加快0.7個百分點；環比增長0.54%。8月份，社會消費品零售總額39824億元，同比增長0.4%；環比下降0.13%。1—8月份，全國固定資產投資（不含農戶）293092億元，同比下降7.2%；扣除房地產開發的固定資產投資下降4.2%。"
-    },
-    {
-      "id": "mkt:01a0a2cb-2fb1-7118-8583-d5cf737f8961",
-      "time": "2026-09-15 10:00:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "China's surveyed urban unemployment rate rose to 5.3% in August, versus a 5.2% forecast and 5.2% previously."
-    },
-    {
-      "id": "5094179",
-      "time": "2026-09-15 10:00:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國8月城鎮調查失業率 5.3%，預期5.20%，前值5.20%。"
-    },
-    {
-      "id": "mkt:01a0a2cb-1482-7118-8583-c94628aeda3d",
-      "time": "2026-09-15 10:00:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China year-to-date through August urban fixed-asset investment fell 7.2% YoY (expected -7.2%; prior -6.7%)."
-    },
-    {
-      "id": "5094178",
-      "time": "2026-09-15 10:00:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國8月今年迄今城鎮固定資產投資同比 -7.2%，預期-7.2%，前值-6.70%。"
-    },
-    {
-      "id": "mkt:01a0a2cb-0c1c-7118-8583-c357d61c11ae",
-      "time": "2026-09-15 10:00:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "WTI"
-      ],
-      "text": "China industrial value-added for enterprises above designated size rose 5.2% YoY in August, versus 4.8% expected and 4.5% in July."
-    },
-    {
-      "id": "mkt:01a0a2cb-0bdd-7118-8583-bdb44bfeb37e",
-      "time": "2026-09-15 10:00:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "China August retail sales of consumer goods rose 0.4% YoY, below the 0.8% expected and down from July's 0.6%."
-    },
-    {
-      "id": "5094177",
-      "time": "2026-09-15 10:00:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國8月規模以上工業增加值同比 5.2%，預期4.80%，前值4.50%。"
-    },
-    {
-      "id": "5094176",
-      "time": "2026-09-15 10:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【半導體裝置板塊震盪反彈 臻寶科技漲超10%】半導體裝置板塊盤中震盪反彈，臻寶科技漲超10%，頻準鐳射、超純應材、三佳科技、芯碁微裝、思泰克等漲幅靠前。"
-    },
-    {
-      "id": "mkt:01a0a2ca-e294-7118-8583-9b7fc5c991b5",
-      "time": "2026-09-15 10:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Urban Survey Unemployment Rate (Aug) | actual 5.3% | consensus 5.20% | previous 5.20%"
-    },
-    {
-      "id": "mkt:01a0a2ca-e2c5-7118-8583-abd957d8de5c",
-      "time": "2026-09-15 10:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Retail Sales (YoY) (Aug) | actual 0.4% | consensus 0.80% | previous 0.60%"
-    },
-    {
-      "id": "mkt:01a0a2ca-e2a1-7118-8583-a465dc85b165",
-      "time": "2026-09-15 10:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Industrial Output (YoY) (Aug) | actual 5.2% | consensus 4.80% | previous 4.50%"
-    },
-    {
-      "id": "mkt:01a0a2ca-e2c5-7118-8583-b4e641b6100a",
-      "time": "2026-09-15 10:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Fixed Asset Investment YTD (YoY) (Aug) | actual -7.2% | consensus -7.2% | previous -6.70%"
-    },
-    {
-      "id": "mkt:01a0a2ca-e1d0-7118-8583-96117773f2ad",
-      "time": "2026-09-15 10:00:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance minister nominee said discussions will weigh strategic interests and shared values against the backdrop of a stable U.S.-South Korea alliance."
-    },
-    {
-      "id": "mkt:01a0a2ca-abb0-7118-8583-8e0f035d6846",
-      "time": "2026-09-15 09:59:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【EPA announces repeal of power-plant GHG limits; proposes to eliminate future regulatory authority】Sept. 14 — At the G20 energy ministers meeting in Houston, the U.S. Environmental Protection Agency announced it will repeal the Biden administration's 2024 greenhouse-gas limits on coal- and gas-fired power plants and simultaneously proposed a new rule aimed at eliminating EPA's authority to regulate power-plant climate pollution going forward."
-    },
-    {
-      "id": "5094175",
-      "time": "2026-09-15 09:59:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1％，成分股中，生益電子漲4.92％，芯原股份漲3.38％，屹唐股份漲3.32％，華海清科漲3.29％。"
-    },
-    {
-      "id": "mkt:01a0a2ca-12ba-7118-8583-80398fa0b13c",
-      "time": "2026-09-15 09:59:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share electronic fabrics sector rallied; China Jushi, Honghe Technology, International Composite and Sinoma Technology all rose. Market reports say producers launched a new round of price increases for electronic yarn and fabric in early September."
-    },
-    {
-      "id": "5094172",
-      "time": "2026-09-15 09:58:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【靈心巧手、千味央廚等成立科技公司 含機器人業務】企查查APP顯示，近日，鄭州千巧科技有限公司成立，經營範圍包含智慧機器人的研發；工業機器人制造；人工智慧應用軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由靈心巧手（北京）科技股份有限公司、千味央廚等共同持股。"
-    },
-    {
-      "id": "5094171",
-      "time": "2026-09-15 09:58:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻纖概念快速拉昇 宏和科技漲停】玻纖概念快速拉昇，宏和科技漲停，國際復材、中國巨石、長海股份、中材科技跟漲。"
-    },
-    {
-      "id": "5094170",
-      "time": "2026-09-15 09:57:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【傳媒板塊震盪走強 中視傳媒漲停】傳媒板塊震盪走強，截至發稿，中視傳媒漲停，出版傳媒、中信出版、中國出版跟漲。"
-    },
-    {
-      "id": "5094169",
-      "time": "2026-09-15 09:57:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盧偉冰官宣小米18Pro本月釋出】小米集團合夥人 & 總裁、手機部總裁、小米品牌總經理盧偉冰今日在微博發文，代表小米 18 Pro 系列正式開啟預熱。 他表示，全新的小米 18 Pro 系列將於本月釋出，這是小米數字系列有史以來升級最大的一次。 盧偉冰稱，小米 18 Pro 系列在效能、影像、續航、AI 能力等方面均有顯著提升。他舉例提到小米首創的“妙享背屏”。"
-    },
-    {
-      "id": "mkt:01a0a2c8-a367-7118-8583-78109cd59b61",
-      "time": "2026-09-15 09:57:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)"
-      ],
-      "text": "【SoftBank unit SB Energy files Japan registration ahead of planned US IPO】Nikkei reports SoftBank Group unit SB Energy filed a domestic securities registration on the 15th related to a planned U.S. IPO, seeking up to $500m (about ¥77bn) of domestic proceeds. The company targets a Nasdaq listing as early as Sept 2026; pricing and share count are undecided, with indicative terms expected between Sept 2026 and Feb 2027."
-    },
-    {
-      "id": "mkt:01a0a2c8-99d8-7118-8583-76d45f1cbcba",
-      "time": "2026-09-15 09:57:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【UN: Gaza's critical public services face risk of energy supply disruption】On the 14th (local time) the UN said Israel's ongoing military operations in the Gaza Strip continue to cause civilian casualties. Restricted access to engine lubricants and parts, together with fuel shortages, is placing severe strain on energy supplies for Gaza's water, desalination and medical services. The UN Office for the Coordination of Humanitarian Affairs said military operations continued over the weekend, particularly west of the temporary ceasefire's so-called 'yellow line'."
     }
   ]
 }
