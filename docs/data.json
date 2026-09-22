@@ -1,7 +1,977 @@
 {
-  "updated": "2026-09-22 07:47:52",
-  "count": 13450,
+  "updated": "2026-09-22 09:03:11",
+  "count": 13433,
   "items": [
+    {
+      "id": "5106546",
+      "time": "2026-09-22 09:01:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權指數上漲1.8%，創盤中新高。"
+    },
+    {
+      "id": "mkt:01a0c6a1-b3d7-7118-8634-234492bb79ba",
+      "time": "2026-09-22 09:01:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "TAIEX opened up 856.26 points, or 1.79%, at 48,575.1 on Tuesday, Sept. 22."
+    },
+    {
+      "id": "5106545",
+      "time": "2026-09-22 09:01:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中央網信辦召開網路直播規範發展工作會議】9月21日，中央網信辦在廣州召開網路直播規範發展工作會議，總結網路直播治理成效，分析形勢任務，研究部署下一階段重點工作。中央網信辦副主任、國家網信辦副主任張擁軍出席會議並講話。\n\n會議指出，近年來，全國網信系統和直播平臺企業深入學習貫徹習近平總書記關於網路強國的重要思想，貫徹落實習近平總書記在中央政治局第二十三次集體學習時的重要講話精神，紮實推進網路直播治理，健全網路直播管理體系，規範直播平臺和MCN機構管理，深入整治各類網路直播亂象，管理效能和治理能力進一步提升，網路直播生態持續向好。\n\n會議強調，網路直播規範發展是維護網路意識形態安全的必然要求，是助力經濟社會發展的現實需求，是共建美好精神家園的內在體現，要提高政治站位，深化規律認識，增強推動網路直播規範發展的責任感和使命感。要進一步加強調查研究，摸清網路直播管理底數，劃定重點範圍，明確工作任務。要進一步加強基礎管理，因地制宜健全網路直播管理機制，抓好政策落實，確保依法合規運營。要進一步加強內容管理，堅持正確導向，對直播亂象實現靶向治理，抵禦和防範各類風險隱患。要進一步加強服務保障，開展網路主播教育培訓，關心關愛網路主播成長，引領網路主播群體向上向善。\n\n會議要求，各級網信部門、各平臺企業要堅持問題導向和目標導向相結合，堅持規範與發展並重，把握網路直播發展趨勢，主動擔當、積極作為，以更大力度、更實舉措，推動網路直播規範發展再上新臺階。\n\n會上，來自地方網信辦、直播平臺和MCN機構的8名負責同志作了交流發言。中央網信辦有關局（單位）負責同志，各省（區、市）、新疆生產建設兵團黨委網信辦負責同志，以及網站平臺和MCN機構負責人參加會議。（中央網信辦）"
+    },
+    {
+      "id": "mkt:01a0c6a1-7fe2-7118-8634-1f33ab9fa5a0",
+      "time": "2026-09-22 09:01:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.38% higher."
+    },
+    {
+      "id": "mkt:01a0c6a1-7cc7-7118-8634-1014c9cbf589",
+      "time": "2026-09-22 09:01:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 0.34% to 938.1 yuan/gram in early trade on Sep 22 (Tue); silver T+D was down 0.04% at 16,140 yuan/kg."
+    },
+    {
+      "id": "5106544",
+      "time": "2026-09-22 09:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "何小鵬：小鵬第二代VLA全新版本 XOS 6.3.0、第二代VLA Lite版本，今天正式開啟推送。"
+    },
+    {
+      "id": "5106543",
+      "time": "2026-09-22 09:00:22",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金財富期貨：短期黃金震盪機率較大】人工智慧領域的持續樂觀情緒及大規模期權買盤推動，納斯達克100指數大漲2.8%，創下自8月4日以來的最大單日漲幅。人工智慧的這種過於強勢的表現及吸金情況，導致配置型資產黃金的價格震盪回落，但是油價下行一定程度對沖了這種壓力，金價整體仍在區間範圍內。我們認為短期黃金震盪機率較大。（中金財富期貨）"
+    },
+    {
+      "id": "5106542",
+      "time": "2026-09-22 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.5%至48,455.33點。"
+    },
+    {
+      "id": "5106541",
+      "time": "2026-09-22 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.5%報47,981.04。"
+    },
+    {
+      "id": "mkt:01a0c6a0-a789-7118-8634-0f1c3a3b8717",
+      "time": "2026-09-22 09:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Domestic futures were mixed at the morning open: ethylene glycol (EG) and propylene fell over 3%, SC crude fell about 2%; fuel oil, low-sulfur fuel oil (LU) and polypropylene grades (monthly average, bottle-grade) were down over 1%. On the upside, international copper, Soybean No.2, rapeseed meal and lithium carbonate rose more than 1%; cotton yarn, Shanghai copper, soybean meal and glass were up near 1%."
+    },
+    {
+      "id": "5106540",
+      "time": "2026-09-22 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌3%，現報5152.00元。"
+    },
+    {
+      "id": "5106539",
+      "time": "2026-09-22 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報5382.00元。"
+    },
+    {
+      "id": "5106538",
+      "time": "2026-09-22 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】乙二醇連續跌4.00%，瀝青連續跌3.45%，丙烯連續跌2.82%，上海原油連續跌1.45%，國際銅連續漲1.41%。"
+    },
+    {
+      "id": "5106537",
+      "time": "2026-09-22 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.35%。"
+    },
+    {
+      "id": "mkt:01a0c6a0-34fc-7118-8634-0430161c4920",
+      "time": "2026-09-22 08:59:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "South Korea's minister of industry said investment in the United States will create opportunities for South Korean firms to enter the US market."
+    },
+    {
+      "id": "5106536",
+      "time": "2026-09-22 08:58:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月21日363股獲融資買入超億元 中際旭創穫買入22.63億元居首】9月21日共有3525只個股獲融資資金買入，有363股買入金額超億元。其中，中際旭創、勝宏科技、新易盛融資買入金額排名前三，分別獲買入22.63億元、21.33億元、20.31億元。"
+    },
+    {
+      "id": "5106535",
+      "time": "2026-09-22 08:58:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇州市委書記範波會見英特爾中國區董事長王稚聰一行】2026英特爾技術創新與產業生態大會將於9月22日在蘇州開幕。9月21日，蘇州市委書記範波會見了來蘇州參會的英特爾中國區董事長王稚聰一行。範波指出，英特爾是全球半導體產業的奠基者和領軍企業，與蘇州合作基礎深厚。希望企業充分發揮鏈主帶動作用，與蘇州攜手搶抓人工智慧機遇，引薦更多合作伙伴投資佈局，落地更多研發平臺和產業專案，並持續深化協同創新，推動更多科技成果轉化為現實生產力。王稚聰表示，英特爾將以技術創新與產業生態大會在蘇州舉辦為契機，連結更多全球創新資源，加強與蘇州產業鏈創新鏈高效對接，在人工智慧應用、積體電路、綠色算力等領域拓展合作空間。"
+    },
+    {
+      "id": "5106534",
+      "time": "2026-09-22 08:58:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【飛天茅臺四連陽創月新高 五糧液普五八代、習酒君品回落】新浪財經“酒價內參”過去24小時收集的資料顯示，9月22日中國白酒業12大單品的終端零售均價六漲六跌，漲跌品種數量平分秋色，但贏家累計漲幅略佔優勢。飛天茅臺上漲2元至1805元，四連陽穩步抬升，連續三日挺立1800元之上，並再創近一個月價格新高；茅臺1935上漲2元至685元，短線回撥後重新走高，追平納入統計以來最高紀錄；青花汾20上漲5元至393元，二連陽持續修復；國窖1573上漲5元至881元，結束回落走勢再次攀升；洋河夢之藍M6+上漲2元至616元，連續兩日小幅抬升；古井貢古20上漲3元至523元，二連陽持續低位修復。下跌方面，精品茅臺下跌3元至2460元，二連跌延續高位回撥態勢；五糧液普五八代下跌3元至802元，二連漲走勢暫告收尾，依然守住了800元整數關口；五糧液1618下跌1元至830元，繼續高位小幅抖動；習酒君品下跌3元至636元，短線衝高後回落，仍維持在近期趨勢線附近；青花郎下跌3元至674元，平盤休整後再度走低，迫近近一個月低位；水晶劍南春下跌2元至408元，觸及410元整十關口後出現技術性回撥。\n\n今日12大單品的終端零售總價連續三日抬升，漲跌品種數量雖然均衡，但上漲端累計漲幅略高於下跌端。如果12大單品各取一瓶整體打包售賣，今日總售價為10713元，較昨日小幅上漲4元，創下6天以來新高。"
+    },
+    {
+      "id": "5106533",
+      "time": "2026-09-22 08:57:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國司法部正在調查幣安是否違反了對伊朗的制裁規定】知情人士透露，美國聯邦檢察官正在調查全球最大加密貨幣交易所運營方幣安是否因未阻止平臺上部分交易，違反美國針對伊朗的制裁令。因事件敏感要求匿名的知情人士稱，針對幣安合規工作的調查由紐約曼哈頓聯邦檢察官辦公室負責。其中一名知情人士表示，位於華盛頓的司法部刑事司也參與此案，相關部門正在核查幣安是否在知情情況下放任此類交易發生。司法部的調查有可能在不提起任何指控的情況下結案。曼哈頓聯邦檢察官重點關注的具體交易暫不明確。美國司法部以及曼哈頓聯邦檢察官辦公室的發言人拒絕置評。"
+    },
+    {
+      "id": "te:markets:585432",
+      "time": "2026-09-22 08:56:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Retreats Further — US heating oil prices fell below $4.90 per gallon, retreating further from the record high reached last week, as improved flows through the Strait of Hormuz and renewed diplomatic efforts eased near-term supply concerns. Satellite data showed Saudi oil loadings in the Persian Gulf surged, suggesting exports shifted back toward the Strait of Hormuz as the East-West pipeline shutdown persisted, though reports indicated the line could partially restart within days. Nevertheless, with winter approaching, demand could strengthen, while refinery maintenance may curb production and further tighten already-constrained supplies. EIA data showed distillate inventories, including diesel and heating oil, remained 13% below their five-year average in the week ending September 11. Meanwhile, Russia plans to extend diesel export restrictions through October, while Ukrainian strikes have disrupted output at major refineries, further tightening global distillate supplies."
+    },
+    {
+      "id": "5106532",
+      "time": "2026-09-22 08:55:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遼寧網信辦依法處置宣揚低俗、庸俗“自媒體”賬號】近日，抖音賬號“沈城韓泫雅❗️牛來真人版”“沈城韓泫雅❗️抵制極端球迷” 為博取眼球、吸引關注，長期在體育場、商業區等人員密集區域或場所進行低俗、庸俗表演，併發布至網路空間，嚴重擾亂公共秩序。網信部門依據《網路資訊內容生態治理規定》《網際網路使用者賬號資訊管理規定》等法律法規，對上述賬號予以關閉處置。"
+    },
+    {
+      "id": "5106531",
+      "time": "2026-09-22 08:53:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國司法部正在調查幣安是否違反了對伊朗的制裁規定。"
+    },
+    {
+      "id": "mkt:01a0c69a-ba9e-7118-8633-fadec4e48695",
+      "time": "2026-09-22 08:53:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Korean won weakened about 1% against the US dollar; KRW/USD rose roughly 1%."
+    },
+    {
+      "id": "5106530",
+      "time": "2026-09-22 08:52:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【默茨：德國執政聯盟將繼續維持 】德國總理、基民盟主席默茨21日表示，儘管該黨在20日舉行的東部梅克倫堡-前波美拉尼亞州（梅前州）議會選舉中未能跨過5%的州議會門檻，但基民盟將繼續維持與社民黨組成的執政聯盟。默茨當天在新聞釋出會上說，梅前州選舉結果對基民盟而言是“戲劇性且史無前例的”。這是一次“沉重打擊”，其影響將持續很長時間。"
+    },
+    {
+      "id": "5106529",
+      "time": "2026-09-22 08:52:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元上漲1%。"
+    },
+    {
+      "id": "5106528",
+      "time": "2026-09-22 08:52:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【媒體稱比爾・普爾特審查特朗普政治對手以及託德・布蘭奇的抵押貸款資訊】據報道，知情人士稱，住房事務負責人比爾・普爾特去年在核查美國總統特朗普政治對手的抵押貸款資料時，也查閱了司法部長託德・布蘭奇的相關貸款資訊。當時普爾特與時任司法部二把手的布蘭奇，圍繞針對這些政治對手抵押貸款記錄的調查事宜產生分歧。知情人士表示，部分官員認為普爾特試圖收集布蘭奇等人的資訊，以此打擊對方，並施壓其加快推進相關調查。二人的爭端，核心圍繞對總統重點關注物件的調查展開，其中包括加州民主黨聯邦參議員亞當・希夫與紐約州總檢察長利蒂希婭・詹姆斯，二人此前均對特朗普發起過調查。去年，普爾特向司法部提交了針對希夫、詹姆斯以及美聯儲理事莉薩・庫克的抵押貸款欺詐指控，特朗普一直試圖罷免莉薩・庫克的職務。普爾特否認違規調取任何內部檔案。普爾特的律師稱，“任何關於普爾特局長查閱過” 布蘭奇抵押貸款檔案的說法均不屬實。"
+    },
+    {
+      "id": "te:markets:585431",
+      "time": "2026-09-22 08:51:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Firm on Hawkish Fed Signals — The dollar index held around 100.3 on Tuesday, staying near its highest level since late July as hawkish remarks from Federal Reserve officials reinforced expectations for further interest rate hikes. On Monday, Chicago Fed President Austan Goolsbee said the central bank cannot overlook repeated and persistent supply shocks, while St. Louis Fed President Alberto Musalem said additional rate increases may be necessary to achieve the Fed’s inflation target. Investors now await speeches from Fed officials John Williams and Tom Barkin later today. Last week, the Fed raised interest rates for the first time in three years and signaled further tightening later this year to curb inflation. Meanwhile, oil prices fell for four straight sessions amid increased diplomatic efforts to end the Middle East conflict and signs of continued energy flows from the region, easing inflation concerns. Traders also remained alert for possible currency intervention to support the yen."
+    },
+    {
+      "id": "5106527",
+      "time": "2026-09-22 08:51:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中塑股份在深交所上市】深交所訊息，中塑股份（證券程式碼：301686）於2026年09月22日登陸創業板。中塑股份本次公開發行股票1233.29萬股，其中公開發行新股1233.29萬股，發行價格55.28元/股，新股募集資金6.82億元，發行後總股本4933.15萬股。中塑股份主要從事改性工程塑膠的研發、生產和銷售。2025年度，公司實現營業收入7.49億元，淨利潤1.27億元。"
+    },
+    {
+      "id": "5106526",
+      "time": "2026-09-22 08:51:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天譽置業補發財報，上半年公司擁有人應占虧損約2.535億元】9月22日早間，天譽置業在港交所補發2025年度業績及2026年中期業績。於2025年度，來自持續經營業務的公司擁有人應占虧損約為人民幣2.010億元，而2024年度則約為人民幣83.593億元；虧損大幅減少主要由於應收取消綜合入賬附屬公司款項之一次性減值虧損撥回約人民幣1.466億元（2024年：減值虧損人民幣75.852億元）。2026年上半年，公司擁有人應占虧損約為人民幣2.535億元，上年同期則約為人民幣1.742億元；虧損增加主要由於本期間並無就應收取消綜合入賬附屬公司款項作出的一次性減值虧損撥回（2025年上半年：約人民幣1.017億元）。"
+    },
+    {
+      "id": "5106525",
+      "time": "2026-09-22 08:50:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國壽養老：商業養老金存量規模突破千億元】據國壽養老9月22日官微資訊，該公司商業養老金業務存量規模突破1000億元，累計規模和有效賬戶數均為行業第一。"
+    },
+    {
+      "id": "5106523",
+      "time": "2026-09-22 08:48:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石化集團公司黨組召開會議 強調要大力推進智慧化升級】據中國石化報訊息，9月21日，中國石化集團公司黨組召開會議。會議強調，要大力推進科產融創攻堅戰，加快打造原創技術策源地，勇當產業鏈“鏈長”“鏈主”，按期攻克關鍵核心技術，促進科技成果快速轉化；要大力推進智慧化升級，錨定“數智中國石化”目標，實施好“人工智慧+製造”行動，加快建設智慧化“田廠站院”，打造一批具有國際影響力的標杆級智慧油氣田和領航級、卓越級智慧工廠；要大力推進轉型升級，以“減油增化做特”為導向，加快老舊裝置更新，最佳化產業佈局和產能結構，著力培育專精特新、“小巨人”企業，特別是積極提升技術裝備國產化水平，做到硬體、軟體、標準、專利一體攻關。創新發展服務型製造業，堅持“用研產銷”一體化，壯大柔性製造，打響石化製造品牌，從以生產為中心向以使用者為中心轉變；要大力推進綠色低碳發展，重點攻關氫能“制儲運用”全鏈條、綠電綠氫耦合、CCUS、生物質轉化及化工新材料等技術，加快建設綠氫、生物航煤等示範專案。立足國家能源安全戰略，發展新型煤化工，推進煤炭清潔高效利用。"
+    },
+    {
+      "id": "mkt:01a0c695-8921-7118-8633-f03268b3caa5",
+      "time": "2026-09-22 08:48:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China margin financing across two exchanges rises CNY14.17 bln】As of Sep 21, Shanghai Stock Exchange margin financing balance was CNY1,339.89 bln, up CNY5.33 bln from the prior trading day; Shenzhen Stock Exchange was CNY1,274.56 bln, up CNY8.84 bln. Combined balance stood at CNY2,614.45 bln, up CNY14.17 bln."
+    },
+    {
+      "id": "5106522",
+      "time": "2026-09-22 08:47:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加141.70億元】截至9月21日，上交所融資餘額報13398.90億元，較前一交易日增加53.28億元；深交所融資餘額報12745.57億元，較前一交易日增加88.42億元；兩市合計26144.47億元，較前一交易日增加141.70億元。"
+    },
+    {
+      "id": "5106521",
+      "time": "2026-09-22 08:45:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小米MiMo-V2.6 Pro登頂Artificial Analysis開放權重模型榜】9月22日，小米正式釋出並開源新一代MiMo大模型，包括全模態旗艦模型Xiaomi MiMo-V2.6-Pro、高效推理模型Xiaomi MiMo-V2.6-Flash，並同步上線MiMo-V2.6-Pro超高速模式V2.6-Pro-Ultraspeed，以及MiMo Desktop桌面客戶端正式版。"
+    },
+    {
+      "id": "5106520",
+      "time": "2026-09-22 08:45:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "世大控股有限公司在香港暫停交易。"
+    },
+    {
+      "id": "te:markets:585430",
+      "time": "2026-09-22 08:44:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Rebound as Tech Leads — Australian equities rose 37 points or 0.4% to 8,769 in early Tuesday trade, snapping two sessions of muted moves as Wall Street’s overnight rally lifted sentiment amid softer oil prices and easing U.S. Treasury yields. Optimism was also supported by prospects of Middle East talks at the UN and upcoming U.S.–China meetings, though geopolitical tensions lingered. Gains were broad-based, led by tech, consumer durables, non-energy minerals, and consumer services. However, upside was capped by inflation worries after Reserve Bank Governor Michele Bullock struck a hawkish tone in parliament last week, keeping rate-hike risks alive. Separately, Australia’s four major banks now expect the central bank to raise rates next week, citing energy-driven inflation pressures. Standout movers included Wisetech Global (3.8%), Xero Ltd. (3.6%), Lynas Rare Earths (2.0%), and REA Group (1.6%). Investors now turn their focus to the flash September PMI and August labor data for further policy cues."
+    },
+    {
+      "id": "5106519",
+      "time": "2026-09-22 08:44:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為車BU發放月餅員工食用後出現腹瀉，生產商回應：具體原因正在排查】近日，網傳華為車BU向員工發放的中秋禮盒月餅出現問題，多名員工食用後出現腹瀉、腹脹的情況。在社交媒體上，不少員工發帖反映該問題，有人猜測是月餅變質、庫存過期等食品安全問題。#華為月餅 腹瀉#一度登上熱搜。據瞭解，今年華為車BU中秋禮盒中一共包含三件物品：6塊月餅、一個毛絨盲盒，以及一個10000mAh快充充電寶。根據員工曬出的禮盒包裝顯示，生產商為太陽堂（漳州）食品有限公司。針對此事，華為車BU方面暫未公開回應。新浪科技致電該禮盒生產商，一位工作人員表示，具體原因正在排查，後續會有相關人員聯絡處理。（新浪科技）"
+    },
+    {
+      "id": "5106518",
+      "time": "2026-09-22 08:41:57",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根大通CEO戴蒙稱印度稅收與法規執行不均或阻礙投資】摩根大通執行長傑米・戴蒙在接受印度《經濟時報》採訪時表示，稅收政策不穩定、法規執行尺度不一以及外資企業面臨的各類障礙，可能會抑制對印度的投資。戴蒙表示，印度必須鼓勵競爭、保障公平待遇並完善治理，才能吸引更多全球資本。戴蒙稱，印度央行 “很清楚自身要實現的目標”。戴蒙表示，儘管美國主權債務規模過高且通脹上行，但美國仍是優質投資目的地。"
+    },
+    {
+      "id": "5106517",
+      "time": "2026-09-22 08:41:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯洲智慧：“齊重AI1+4專案”首批產品已進入實際業務驗證】匯洲智慧訊息，匯洲智慧旗下工業AI業務主體智匯擎洲在齊重數控推進“齊重AI1+4專案”，這是集團面向高階裝備製造全價值鏈智慧化升級的系統性佈局——齊重數控作為首個落地載體。經過數月推進，專案已完成前期業務調研和設計研發，進入產品驗證與持續最佳化階段。建設內容覆蓋業務場景、資料治理、知識工程、模型服務、AI基礎設施、應用開發、內網部署和安全執行等多個環節，首批產品已進入實際業務驗證。"
+    },
+    {
+      "id": "5106516",
+      "time": "2026-09-22 08:40:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元上漲0.8%，表現優於新興亞洲貨幣。"
+    },
+    {
+      "id": "5106515",
+      "time": "2026-09-22 08:40:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【越南領導人稱與美國貿易協議“非常接近”】越南最高領導人蘇林表示，越南與美國達成貿易協議“非常接近”，並承諾增加包括飛機在內的美國高科技產品進口，以縮小貿易失衡。“我們需要與美國領導人，特別是美國總統討論的問題之一，是如何加快談判程序，以達成兩國間互惠、平衡且公平的關稅安排。”蘇林表示，越南出口符合美國需求，並不與美國產品形成直接競爭；儘管美國方面仍存在一些政策限制，越南希望進口更多美國商品，以支援本國工業生產。"
+    },
+    {
+      "id": "5106514",
+      "time": "2026-09-22 08:37:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：2026上半年全球AI眼鏡出貨量同比大增263%】Counterpoint Research資料顯示，2026年上半年全球AI眼鏡出貨量同比增長263%，其中絕大多數產品並不配備AR顯示屏，主要利用揚聲器/麥克風進行互動。此類“無螢幕AI眼鏡”以Meta雷朋聯名眼鏡為代表，相對於AR波導產品價格更低、產品成熟度更高。今年上半年相應產品出貨量同比增長258%，相比2025年下半年也增長22%。"
+    },
+    {
+      "id": "te:markets:585426",
+      "time": "2026-09-22 08:35:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Gains on Lower Oil Prices — Silver strengthened above $66 an ounce on Tuesday, resuming its advance as falling oil prices eased inflation concerns and expectations for further interest rate hikes. Oil prices declined for four straight sessions amid increased diplomatic efforts to end the Middle East conflict and signs of continued energy flows from the region. President Donald Trump is scheduled to address the UN General Assembly in New York later today and may meet with Iranian President Masoud Pezeshkian on the sidelines. Lower oil prices help ease inflationary pressures, reducing expectations for additional rate hikes by the Federal Reserve. Meanwhile, Chicago Fed President Austan Goolsbee said the central bank cannot overlook repeated and persistent supply shocks, while St. Louis Fed President Alberto Musalem said further rate increases may be necessary to achieve the Fed’s inflation goal. Investors now await speeches from Fed officials John Williams and Tom Barkin later today."
+    },
+    {
+      "id": "5106513",
+      "time": "2026-09-22 08:34:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌韓元匯率較前一日下跌超過10韓元，報1364韓元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609223880542456",
+      "time": "2026-09-22 08:33:37",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【結束緘默期！美聯儲官員怎麼看加息？鷹派躍躍欲試】美聯儲上週剛剛宣佈加息25個基點，並在政策宣告中刪掉了“近期通脹部分源於供給衝擊”的表述，僅保留“通脹仍處於高位”的說法。措辭變化反映出美聯儲內部越來越懷疑：如果不採取行動，當前的物價壓力很難自行消退。關稅、油價上漲原本被視作一次性、暫時性的物價水平擾動，但事實證明其影響持續時間超出預期；如今通脹同時由需求端驅動。"
+    },
+    {
+      "id": "mkt:01a0c688-3c23-7118-8633-ef1d426671db",
+      "time": "2026-09-22 08:33:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnamese government says it has taken active measures and expects to sign a trade agreement with the United States soon."
+    },
+    {
+      "id": "5106512",
+      "time": "2026-09-22 08:33:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國韓華航空航天將投資22億美元在美國新建彈藥生產中心】一份宣告顯示，韓華航空航天計劃七年內投資22億美元，在阿肯色州美國陸軍派恩布拉夫兵工廠新建彈藥生產中心。韓華航空航天旗下子公司美國韓華防務將建設廠房，用於生產155毫米炮彈零部件與發射藥。該生產中心將搭建覆蓋原材料至成品全流程的一體化製造系統。公司還計劃依託這座阿肯色州彈藥中心以及阿拉巴馬州的輪式K9自行榴彈炮原型設施，拓展其美國防務業務。"
+    },
+    {
+      "id": "te:markets:585424",
+      "time": "2026-09-22 08:33:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Rises on Lower Oil Prices — Gold prices climbed above $4,350 an ounce on Tuesday, recovering from the previous session’s losses as falling oil prices eased inflation concerns and expectations for further rate hikes. Oil prices declined for four straight sessions amid increased diplomatic efforts to end the Middle East conflict and signs of continued energy flows from the region. President Trump is scheduled to address the UN General Assembly in New York later today and may meet with Iranian President Pezeshkian on the sidelines. Lower oil prices help ease inflationary pressures, reducing expectations for additional rate hikes by the Federal Reserve. Still, hawkish comments from Fed officials reinforced expectations for a tighter US interest-rate outlook following last week’s first rate hike in three years. Gold also continues to benefit from strong long-term fundamentals, including sustained central bank purchases, elevated geopolitical uncertainty, and concerns over fiscal sustainability and currency debasement."
+    },
+    {
+      "id": "mkt:01a0c687-52f6-7118-8633-e73b8a729f12",
+      "time": "2026-09-22 08:32:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Domestic and international catalysts for robotics likely to continue; focus on high-quality segments】CITIC Securities says T-Chain is advancing factory audits and ramping to mass production, with multiple suppliers reporting positive feedback; monitor major-customer product launches and mass-production progress as potential sector catalysts. Robot body manufacturers, which sell directly to end users, occupy higher-value positions in the value chain. Robotics firms are building multi-dimensional capabilities — \"brain\", \"cerebellum\", \"body\" — and expanding industrial and commercial deployments; shipments are scaling and application scope should broaden as robots generalize. The report calls physical AI the next wave and robots one of its prime physical carriers. Domestic and international catalysts are expected to persist; the firm recommends concentrating on premium segments of the value chain."
+    },
+    {
+      "id": "5106511",
+      "time": "2026-09-22 08:32:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國盛證券：四季度政策密集期疊加厄爾尼諾，關注種業板塊】國盛證券研報表示，本週全國農技中心釋出了2026-2027年度全國重要農作物種子產供需形勢，全國主要農作物種子生產形勢總體平穩。目前玉米種子即將進入銷售季，四季度政策密集期疊加厄爾尼諾進入高發展期，板塊有望進一步催化，四季度重點關注種業板塊。"
+    },
+    {
+      "id": "5106510",
+      "time": "2026-09-22 08:31:20",
+      "tags": [
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【中信證券：先進製造頂層定調，算力建設景氣加速】中信證券研報認為，本週政策圍繞先進製造提質、新興產業擴投資和民生消費擴容密集落地。全國先進製造業大會將新一代智慧製造作為主攻方向，“人工智慧+製造”專項行動有望帶動高階晶片、工業軟體和智慧裝備等關鍵環節加快補短板。電子資訊、醫藥和文旅“十五五”規劃同步出臺，為半導體、A算力、創新藥及文旅消費等領域明確中長期增長空間。政策同時透過開放應用場景、治理中小企業回款難、擴大養老康復與體育賽事供給，進一步改善民營企業投資環境並釋放服務消費需求。調研顯示，烏蘭察布—張家口算力建設景氣度仍在加速，中聯資料遠期規劃7GW、阿里巴巴內蒙古算力規模預計2027年達到2GW，供電、能評和土地正逐漸取代需求成為專案落地的主要約束。"
+    },
+    {
+      "id": "5106509",
+      "time": "2026-09-22 08:31:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase：問題現已解決。"
+    },
+    {
+      "id": "5106508",
+      "time": "2026-09-22 08:30:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【LG與微軟將擴大在人工智慧、資料中心領域的戰略合作】根據宣告，LG 與微軟同意在人工智慧資料中心、實體人工智慧及人工智慧轉型領域擴大戰略伙伴關係。雙方將探索合作機會，由LG在微軟擴建全球資料中心的過程中，提供製冷、電力以及資訊科技基礎設施解決方案。雙方計劃初期重點為戰略核心地區的人工智慧資料中心供應大容量製冷方案，後續將合作拓展至預製式資料中心。LG計劃在全體辦公員工中部署包括Copilot在內的微軟人工智慧與雲平臺，並依託微軟雲基礎設施加快實體人工智慧的研發。"
+    },
+    {
+      "id": "5106507",
+      "time": "2026-09-22 08:29:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大航躍遷：首飛箭“躍遷一號”研製全面提速，目標2027年首飛】9月22日，大航躍遷宣佈，其首飛箭“躍遷一號”已完成二級儀器艙結構靜力試驗。試驗結果顯示，儀器艙結構強度、剛度與穩定性均滿足設計指標，試驗取得成功。據介紹，躍遷一號研製已全面提速，目標2027年首飛。"
+    },
+    {
+      "id": "mkt:01a0c683-34b9-7118-8633-dcb317c37ff9",
+      "time": "2026-09-22 08:28:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Market sources: South Korea seeks an annual cap of 20 bln dlr on outbound investment to the US."
+    },
+    {
+      "id": "mkt:01a0c682-ff3e-7118-8633-d69c487c747a",
+      "time": "2026-09-22 08:27:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea and the United States have not yet reached an agreement on an equity investment in Westinghouse Electric Company."
+    },
+    {
+      "id": "mkt:01a0c682-cc0c-7118-8633-cd340d950ad7",
+      "time": "2026-09-22 08:27:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market sources: South Korea's Ministry of Trade, Industry and Energy will brief lawmakers on a Texas natural gas-fired power plant project, the first potential project in a planned package of US investments."
+    },
+    {
+      "id": "mkt:01a0c681-e84a-7118-8633-c5eee4437e48",
+      "time": "2026-09-22 08:26:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【RMB likely to trade firmer with two-way volatility in Q4】After breaking above 6.70 yuan per dollar, the RMB/USD rate edged higher on Sept. 21. Core support stems from China’s economic fundamentals—strong exports and robust FX conversion demand—keeping the yuan biased firmer. In the near term the currency is likely to remain stable-to-firmer; over the longer term two-way volatility is expected to persist."
+    },
+    {
+      "id": "5106506",
+      "time": "2026-09-22 08:26:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "媒體援引訊息人士稱，韓國尋求確保對美投資年度上限為200億美元。"
+    },
+    {
+      "id": "5106505",
+      "time": "2026-09-22 08:25:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，韓國與美國尚未就西屋電氣股權投資達成協議。"
+    },
+    {
+      "id": "5106504",
+      "time": "2026-09-22 08:25:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【重返格陵蘭！美國擬啟用格陵蘭兩處軍事前哨】路透社9月21日報道，據三名知情人士稱，美國計劃重新啟用格陵蘭南部一處冷戰時期的舊軍事基地，並根據美國、丹麥和格陵蘭將於22日簽署的一項協議，在格陵蘭東海岸一個目前由丹麥狗拉雪橇巡邏隊使用的基地建立軍事存在。 其中兩名知情人士稱，這兩處地點分別是納薩爾蘇瓦克和梅斯特斯維格。自美國於20世紀50年代關閉布魯伊西一號軍事基地以來，納薩爾蘇瓦克的常住人口已降至幾十人；梅斯特斯維格則是丹麥特種部隊“天狼星狗拉雪橇巡邏隊”目前使用的一處軍事前哨。 據悉，丹麥、格陵蘭和美國預計將於22日美國東部時間上午10:30，在紐約市舉行的聯合國大會期間簽署這項新協議。（觀察者網）"
+    },
+    {
+      "id": "5106502",
+      "time": "2026-09-22 08:23:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昨日ETF資金整體淨流出29.98億元】據同花順iFinD資料顯示，2026年9月21日，ETF資金整體淨流出29.98億元，股票型淨流出23.92億元，寬基型淨流出23.92億元。當日ETF資金淨流出榜單排名前3依次為：海富通中證短融ETF（511360）淨流出32.84億元，華寶添益（511990）淨流出9.14億元，南方中證500ETF（510500）淨流出9.10億元。"
+    },
+    {
+      "id": "5106501",
+      "time": "2026-09-22 08:22:59",
+      "tags": [
+        "宏觀",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信建投：美伊談判重現曙光，醫藥化工調研熱度提升】中信建投研報指出，本週A股反彈，科創50漲超6%，中小板塊表現較好，日均成交額縮量至1.8萬億，日均換手率僅1.4%；海外股市整體震盪；國際油價下跌5%，回落至100美元附近。8月經濟成績單公佈，新動能對工業增長的貢獻率超過六成；市場監管總局表示，用組合拳整治“內卷式”競爭。美聯儲如期加息25個基點；美伊談判似現重啟可能，伊朗向美傳達七項談判條件。華為釋出新一代AI算力基礎設施昇騰960超節點。本週機構調研熱度有所回暖，醫藥、化工等行業調研熱度提升較多。後續關注雲棲大會、聯合國大會等。"
+    },
+    {
+      "id": "5106500",
+      "time": "2026-09-22 08:22:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀：晶片長期協議與股東回報是提振韓國股市的關鍵】美銀證券韓國研究主管Simon Woo表示，晶片企業長期協議以及股東回報改善，或將成為吸引全球資金重返韓國科技股的下一輪催化劑。Woo在週一的採訪中稱：“如果長期協議落地，市場會認為亞洲科技股的週期性有所減弱、風險更低。”與此同時，更高的股息率與股票回購舉措，同樣會吸引投資者回流人工智慧相關個股。鑑於此前三位數高增長基數，市場已計入半導體行業增速放緩但依舊向好的預期。長期協議不僅對業務至關重要，對於核心技術的戰略發展同樣意義重大。"
+    },
+    {
+      "id": "5106499",
+      "time": "2026-09-22 08:21:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Robinhood稱服務在AWS故障後正在恢復】根據公司X平臺釋出的一則帖子，Robinhood的服務在經歷AWS故障後正在逐步恢復，公司將繼續監控並根據需要分享更新資訊。 據其狀態頁面顯示，AWS已單獨確認美國東部1區的Amazon Elastic Compute Cloud服務出現運營問題。 工程師正在積極處理該問題，並已看到初步恢復跡象。"
+    },
+    {
+      "id": "5106498",
+      "time": "2026-09-22 08:19:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【澳大利亞一州禁止在居民區建設資料中心】澳大利亞人口最多的州之一出臺新規，禁止在居民區建設資料中心，並要求專案必須“自備可再生能源供給”。這一系列新規旨在應對日益高漲的社群反對聲音。擁有墨爾本的維多利亞州於週二宣佈，儘管資料中心對經濟至關重要，但專案方必須採取措施，避免當地水資源與電力資源受到顯著影響。中左翼工黨州長本・卡羅爾要求，資料中心新增用電需求須配套新增發電容量，並承擔電網升級費用。同時規定，冷卻系統只能使用再生水或非飲用水。此外，此外，資料中心將不允許建在住宅區內，且必須與任何房屋保持至少150米（約164碼）的緩衝區。"
+    },
+    {
+      "id": "5106497",
+      "time": "2026-09-22 08:19:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多國領導人聯合撰文呼籲支援多邊主義】第81屆聯合國大會一般性辯論即將開幕。巴西總統盧拉、加拿大總理卡尼、歐洲理事會主席科斯塔以及肯亞總統魯託20日在英國《金融時報》聯合撰文，呼籲國際社會領導人面對快速變化的世界秩序時選擇合作，共同承擔責任而非分裂。文章說，當前世界經濟深度融合，地緣政治卻朝相反方向發展，國際法體系正在承壓，有關勢力範圍和強權政治的話術正在迴歸。這可能導致部分人認定，多邊體系已經失敗。然而，對多邊合作的需求依然“非常活躍”，“支撐多邊合作的底層邏輯比以往任何時候都更顯而易見”。"
+    },
+    {
+      "id": "5106496",
+      "time": "2026-09-22 08:16:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.3%，德國DAX指數期貨上漲0.2%，英國富時指數期貨上漲0.2%。"
+    },
+    {
+      "id": "5106495",
+      "time": "2026-09-22 08:15:59",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "紐西蘭財政部長尼古拉·威利斯：紐西蘭儲備銀行現在已設立更嚴格的保障措施。"
+    },
+    {
+      "id": "5106494",
+      "time": "2026-09-22 08:15:18",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【國金證券：歐洲海風管樁機制修復及拍賣高景氣並行，訂單有望迎來放量拐點】國金證券研報表示，歐洲海風管樁訂單偏弱，主因德國16.5GW存量專案受負補貼、尾流、併網延期等拖累而暫緩採購，非需求逆轉。拍賣機制正由低價轉向重交付：德國推差價合約+高保證金，法國AO10擬拍9.7-11.1GW（史上最大）並最佳化調價與來源規則。2026-27年歐計劃定標約39.4GW，儲備未縮。氣價上行強化能源安全，海風底層邏輯穩固，隨專案可融資性改善，管樁等供應鏈訂單有望未來幾個季度逐步放量。"
+    },
+    {
+      "id": "5106493",
+      "time": "2026-09-22 08:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓華航空航天將投資22億美元建設美國彈藥中心。"
+    },
+    {
+      "id": "5106492",
+      "time": "2026-09-22 08:14:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少1.71噸】截至2026年09月21日，全球最大的黃金ETF SPDR Gold Trust持倉量為1055.41噸，較前一個交易日減少1.71噸。"
+    },
+    {
+      "id": "5106491",
+      "time": "2026-09-22 08:12:31",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通戴蒙稱，印度稅收和相關規定可能阻礙投資。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609223880640154",
+      "time": "2026-09-22 08:12:07",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲“鷹風不斷”！又一官員呼籲進一步加息 而且要快】在美聯儲時隔三年多首次加息後，聖路易斯聯儲主席阿爾韋託·穆薩萊姆（AlbertoMusalem）週一表示，由於強勁的需求以及大宗商品價格衝擊（已蔓延至石油以外的領域），美聯儲可能需要進一步提高利率以降低通脹。"
+    },
+    {
+      "id": "5106490",
+      "time": "2026-09-22 08:11:43",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通執行長戴蒙：印度對外國公司的壁壘可能阻礙投資。"
+    },
+    {
+      "id": "5106489",
+      "time": "2026-09-22 08:11:22",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通執行長戴蒙表示，他仍然認為美國是重要的投資目的地。"
+    },
+    {
+      "id": "mkt:01a0c673-a7f1-7118-8633-bb4c1ce6d0df",
+      "time": "2026-09-22 08:11:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened 44.20 points higher on Sep 22 (Tue), up 0.51% at 8,776.1."
+    },
+    {
+      "id": "mkt:01a0c672-3ea8-7118-8633-b1a98c7e82db",
+      "time": "2026-09-22 08:09:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Macron: US, France to focus on protecting Strait of Hormuz navigation and advancing Russia-Ukraine peace accord】Macron said he met Trump in New York and the two will act jointly to ease energy-market tensions, protect Middle East energy infrastructure and freedom of navigation in the Strait of Hormuz. They will seek a pause agreement to halt strikes on energy facilities and Ukrainian civilian infrastructure and press to begin serious negotiations on Russia-Ukraine peace terms as soon as possible."
+    },
+    {
+      "id": "5106488",
+      "time": "2026-09-22 08:08:18",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【瑞銀資產管理：日本央行若再次干預將帶來日元賣出機會】瑞銀資產管理全球主權貨幣固定收益主管Kevin Zhao表示，如果日本進一步干預以支撐日元，那麼將提供賣出的好機會，他質疑日本央行上週五的加息是否預示著轉向鷹派。他在接受採訪中表示，日本央行最新加息行動以及承認政策已經轉向“新階段”，並未讓持懷疑態度的投資者相信日元還有進一步上漲的空間，無論是由於對利率上升的預期還是未來干預措施的猜測。"
+    },
+    {
+      "id": "5106487",
+      "time": "2026-09-22 08:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG與微軟擴大在人工智慧和資料中心領域的戰略合作伙伴關係。"
+    },
+    {
+      "id": "5106486",
+      "time": "2026-09-22 08:06:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲3%。"
+    },
+    {
+      "id": "mkt:01a0c66d-9ab6-7118-8633-ab19e15da278",
+      "time": "2026-09-22 08:04:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal sources say some officials believe FHFA Director Pulte sought to gather information to target Attorney General Branch and others. Pulte’s lawyer denied the housing regulator reviewed Branch’s mortgage records."
+    },
+    {
+      "id": "mkt:01a0c66d-0f1d-7118-8633-a7001327651d",
+      "time": "2026-09-22 08:03:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver extends intraday gains to 1.00%, trading at $66.68/oz."
+    },
+    {
+      "id": "mkt:01a0c66c-551b-7118-8633-998390d6cd0e",
+      "time": "2026-09-22 08:03:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports FHFA Director Pulte clashed with U.S. Attorney General Branch over an investigation into mortgage records of a rival to Trump."
+    },
+    {
+      "id": "5106485",
+      "time": "2026-09-22 08:02:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4410美元/盎司，日內漲0.60%。"
+    },
+    {
+      "id": "5106484",
+      "time": "2026-09-22 08:01:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲3%。"
+    },
+    {
+      "id": "mkt:01a0c66a-7af9-7118-8633-97c303c89776",
+      "time": "2026-09-22 08:01:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI up 2.20% in early trade. Samsung Electronics up 3%, SK Hynix up 2%."
+    },
+    {
+      "id": "5106483",
+      "time": "2026-09-22 08:00:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【定製“線上報復訂單”進行精神恫嚇 警方打掉一網路暴力違法犯罪團伙】公安網安部門持續深化掃黑除惡專項鬥爭。近日，吉林省吉林市公安網安部門聚焦網路暴力等新型黑惡犯罪，成功打掉一個透過“網羅門徒、分級收費、按級授能、按勞返利”方式實施網路暴力的違法犯罪團伙，抓獲涉案人員98名。吉林市公安網安部門偵查發現，某網暴團伙效仿傳統黑惡違法犯罪模式，對多人實施“汙言刷屏式”群體辱罵、“簡訊轟炸式”惡意滋擾、“隱私揭蓋式”曝光施壓、“冥物寄送式”精神恫嚇等不法行為，社會影響極其惡劣。經查，此網暴違法犯罪團伙面向因網路遊戲社交引發矛盾糾紛的特定群體，根據“委託人”需求收取費用、定製“線上報復訂單”。其中，馮某負責佈置實施網路暴力“任務”，陳某負責團伙運營、接單派單、收益分配，何某、劉某等人從事“人肉開盒”和“簡訊轟炸”，併為網暴團伙非法行為提供“技術支援”，於某負責統計群組成員活躍度併發放“獎勵”，形成“接單—派單—組群—施害—反饋”的“流水線化”作案模式。經審訊，該團伙對違法犯罪事實供認不諱，案件正在進一步偵辦中。"
+    },
+    {
+      "id": "5106482",
+      "time": "2026-09-22 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.2%，至7161.61點。日本股市今日繼續休市。"
+    },
+    {
+      "id": "5106481",
+      "time": "2026-09-22 08:00:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "Robinhood：AWS中斷服務後，各項服務正在恢復。"
+    },
+    {
+      "id": "mkt:01a0c668-0100-7118-8633-8ca9ef3ae2a0",
+      "time": "2026-09-22 07:58:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【The Guardian: European intelligence says Russia may soon test NATO red lines; drones or missiles could strike NATO territory within months】The Guardian reports European intelligence officials assess Russia could escalate in months rather than years and may soon test NATO’s red lines. Polish Prime Minister Tusk said intelligence indicates Russia could use drones or missiles to strike NATO territory within months. Kremlin spokesman Peskov dismissed the claims as completely untrue and not Russia’s intent. French President Macron said Tusk’s warning was well-founded and convened emergency talks with party leaders and 2027 presidential candidates."
+    },
+    {
+      "id": "5106480",
+      "time": "2026-09-22 07:57:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三花智控獲Schroders PLC增持311.35萬股 每股作價約24.24港元】香港聯交所最新資料顯示，9月17日，Schroders PLC增持三花智控311.35萬股，每股作價24.2394港元，總金額約為7546.94萬港元。增持後最新持股數目約為8119.63萬股，持股比例為17.04%。"
+    },
+    {
+      "id": "5106479",
+      "time": "2026-09-22 07:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英媒：數月內俄無人機或襲北約】英國《衛報》20日獨家報道稱，歐洲情報官員表示，俄羅斯在俄烏衝突中的行動可能在數月而非數年內升級——俄羅斯或將很快試探北約底線。有官員表示，潛在襲擊可能在數月之內，而非數年之後發生。此前也有類似說法，克里姆林宮發言人佩斯科夫曾駁斥稱這種說法與現實完全不符，也絕非俄羅斯的意圖。 波蘭總理圖斯克此前曾表示，情報評估顯示，俄羅斯可能在未來數月使用無人機或導彈襲擊北約領土。法國總統馬克龍稱圖斯克的警告“有理有據”。馬克龍在巴黎召集政黨領袖以及2027年總統大選候選人召開緊急會議，並在會議上發表了上述觀點。（環球網）"
+    },
+    {
+      "id": "5106478",
+      "time": "2026-09-22 07:56:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青島：發放5000萬元“樂購青島”線上消費券】據青島市商務局訊息，9月22日起，青島將發放5000萬元“樂購青島”線上零售消費券。活動覆蓋京東、抖音、淘天三大主流電商平臺，涵蓋數碼家電、日用百貨、汽車用品、時尚美妝、健康保健等日常消費品類。"
+    },
+    {
+      "id": "5106477",
+      "time": "2026-09-22 07:55:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【馬克龍與特朗普討論俄烏停止打擊能源設施事宜】法國總統埃馬紐埃爾・馬克龍表示，他在紐約與唐納德・特朗普會晤時，探討了俄烏雙方暫停對能源設施實施縱深打擊的提議。馬克龍稱，他將在週一晚些時候與烏克蘭總統弗拉基米爾・澤連斯基通話時提出該議題。澤連斯基迄今並未理會特朗普的呼籲，拒絕停止打擊俄羅斯境內煉油廠，這類襲擊已引發燃料短缺。特朗普目睹美國柴油價格暴漲，在 11 月中期選舉前夕，這引發部分選民不安；不過油價上漲主要始於總統 2 月對伊朗開戰之後。馬克龍表示，二人還探討了法國可採取哪些舉措，保障中東石油經紅海的出口通道安全。他稱，胡塞武裝本月早些時候再度襲擊沙特石油管道後，法國決心避免局勢升級。"
+    },
+    {
+      "id": "5106476",
+      "time": "2026-09-22 07:53:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "Shopify將採用Meta的Muse實現自主結賬功能。"
+    },
+    {
+      "id": "mkt:01a0c663-5298-7118-8633-83746698262a",
+      "time": "2026-09-22 07:53:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "According to Saudi Arabian state television, French President Macron said he discussed with U.S. President Trump options to reopen the Strait of Hormuz."
+    },
+    {
+      "id": "5106475",
+      "time": "2026-09-22 07:52:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股分紅派息轉增一覽：43股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，43只A股今日股權登記。其中，41股擬派息，1股擬轉增，1股派息、轉增或送股同時實施。分紅派息方面，41只個股分紅派息的股權登記日為9月22日。嘉益股份、甘源食品、養元飲品分紅力度最大，每10股分別派息8.00元、6.30元、5.00元。轉增股本方面，1只個股轉增股本的股權登記日為9月22日。和泰機電每10股分別轉增4股。1股派息、轉增或送股同時實施，股權登記日為9月22日。瑞達期貨每10股分別派息3.00元。此外，還有1股丟擲分紅派息預案，大秦鐵路每10股擬派息0.8元。"
+    },
+    {
+      "id": "mkt:01a0c662-e6a0-7118-8633-7b7d5dec75c0",
+      "time": "2026-09-22 07:52:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi state TV reported French President Macron told U.S. President Trump they discussed the security situation in the Red Sea and the need to ensure safe passage for oil tankers."
+    },
+    {
+      "id": "5106474",
+      "time": "2026-09-22 07:51:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青島港：公司將不再持有方舟智慧港航口岸服務（青島）有限公司任何股權】9月22日早間，青島港在港交所公告，公司第五屆董事會第九次會議於2026年9月17日至2026年9月21日以通訊表決書面議案的方式形成決議。經有效表決，本次會議表決透過了《關於轉讓方舟智慧港航口岸服務（青島）有限公司55%股權的議案》，同意公司與山東港口青島港集團有限公司簽署股權轉讓協議，以經國資備案的資產評估報告確認的價值為定價依據，以人民幣68,382,708.20元向山東港口青島港集團有限公司轉讓所持方舟智慧港航口岸服務（青島）有限公司55%股權。股權轉讓完成後，公司將不再持有方舟智慧港航口岸服務（青島）有限公司任何股權。"
+    },
+    {
+      "id": "mkt:01a0c661-2677-7118-8633-7370a17999bf",
+      "time": "2026-09-22 07:50:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's foreign minister holds call with UN Secretary-General Guterres】Iran's foreign minister Araghchi, in New York to attend the United Nations General Assembly, held a phone call with UN Secretary-General Guterres to discuss the assembly agenda and Guterres' efforts to advance international peace and security."
+    },
+    {
+      "id": "5106473",
+      "time": "2026-09-22 07:50:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍稱法國準備幫助確保紅海石油出口安全。"
+    },
+    {
+      "id": "te:markets:585422",
+      "time": "2026-09-22 07:50:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady After Tech-Led Rally — US stock futures were little changed on Tuesday after the major averages rallied at the start of the week, led by technology and artificial intelligence stocks. Falling oil prices and lower Treasury yields also supported market sentiment, easing concerns over persistent inflationary pressures. Meanwhile, officials expressed optimism about an upcoming summit between Presidents Donald Trump and Xi Jinping this week. In regular trading on Monday, the tech-heavy Nasdaq Composite surged 2.26% to a record close, while the S&P 500 and Dow advanced 1.49% and 0.71%, respectively. Among individual stocks, Meta jumped 11.3% on optimism surrounding its AI offering, Muse. The gains also lifted semiconductor stocks, with AMD and Intel soaring 10% and 12.1%, respectively. Investors now await fresh earnings reports from AutoZone and KB Home on Tuesday, along with speeches from Federal Reserve officials."
+    },
+    {
+      "id": "5106472",
+      "time": "2026-09-22 07:49:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase：我們已注意到，使用者可能無法在多項服務中進行買入、賣出、交易操作，也無法檢視賬戶餘額。"
+    },
+    {
+      "id": "te:markets:585421",
+      "time": "2026-09-22 07:48:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Hits 3-year High — Corn increased to 550.00 USd/BU, the highest since July 2023. Over the past 4 weeks, Corn gained 10.48%, and in the last 12 months, it increased 28.75%."
+    },
+    {
+      "id": "5106471",
+      "time": "2026-09-22 07:47:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國擬設50億美元基金 幫助重建在伊朗戰爭中受損的中東基礎設施】特朗普政府提議設立一隻規模50億美元的基金，幫助中東地區重建在伊朗戰爭中受損的關鍵基礎設施。根據媒體看到的檔案，美國國際開發金融公司（DFC）將牽頭成立Partnership for Allied Construction & Trust，以促進中東地區的投資、重建和經濟擴張。DFC在檔案中稱，中東地區遭受了嚴重的戰爭破壞，風險溢價也不斷上升，大量關鍵基礎設施需要重建。這份檔案在某種程度上旨在緩解美國在中東地區的盟友對於特朗普政府戰後安排的擔憂。該檔案列出四類優先專案，包括投資建設繞開霍爾木茲海峽的運輸通道、恢復能源運輸和關鍵材料出口、增強抵禦未來襲擊的能力，以及重建重要基礎設施和進口通道。檔案列舉的“示範性目標投資”包括在沙烏地阿拉伯分階段擴大繞開霍爾木茲海峽的運輸能力，涉及輸油管道和港口工程。"
+    },
     {
       "id": "te:markets:585420",
       "time": "2026-09-22 07:47:04",
@@ -122083,1135 +123053,6 @@
         "市場"
       ],
       "text": "【精品茅臺、青花汾20連續上漲 國窖1573、習酒君品顯著回撥】新浪財經“酒價內參”過去24小時收集的資料顯示，9月15日中國白酒業11大單品的終端零售均價六漲五跌，上漲品種數量略佔優勢，盤面延續分化走勢。贏家方面，精品茅臺上漲4元至2459元，連續兩日反彈，零售均價較i茅臺定價正好高出100元整；五糧液1618上漲1元至831元，連續兩日平盤後小幅抬升；青花汾20大漲6元至399元，三連陽進一步逼近400元大關；古井貢古20上漲5元至535元，連續三日走強，價格中樞脫離近期低谷持續上移；青花郎上漲5元至694元，二連漲延續修復勢頭，重新站上690元關口；水晶劍南春上漲1元至408元，連續橫盤後小幅抬升，價盤保持穩定。下跌方面，飛天茅臺下跌2元至1794元，但仍處於近30天高位區間；五糧液普五八代下跌2元至796元，五連跌持續回探，創下近30天以來新低；國窖1573下跌4元至877元，二連陽暫告收尾；洋河夢之藍M6+下跌3元至608元，短線震盪幅度擴大；習酒君品下跌5元至636元，此前連續兩日上漲後回吐部分漲幅。\n\n今日11大單品的終端零售總價小幅抬升，高階與次高階品種漲跌互現，部分前期反彈酒品出現回撥。如果11大單品各取一瓶整體打包售賣，今日總售價為10037元，較昨日上漲6元，創下4天以來新高。總價連續兩日回升，萬元整數關口得到進一步鞏固。"
-    },
-    {
-      "id": "mkt:01a0a296-7415-7118-8581-6e5ed7a11a35",
-      "time": "2026-09-15 09:02:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【China issues '15th Five-Year' plan for electronic information manufacturing】China's Ministry of Industry and Information Technology and National Development and Reform Commission issued a development plan for the electronic information manufacturing sector through 2030. The plan targets high-quality growth and a decisive global role, with revenue of enterprises above designated size to surpass 30 tln yuan by 2030. It aims for breakthroughs in integrated circuits, advanced computing, consumer electronics, basic electronics and power electronics, producing a number of leading technologies and products. Policy targets include raising industry R&D intensity to 3.5%, markedly expanding computing-power supply capacity, and significantly increasing adoption of next‑generation smart terminals."
-    },
-    {
-      "id": "5094081",
-      "time": "2026-09-15 09:02:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【電子資訊製造業發展“十五五”規劃釋出】工業和資訊化部、國家發展改革委近日聯合印發《電子資訊製造業發展“十五五”規劃》。規劃提出，到2030年，我國電子資訊製造業高質量發展取得顯著成效，在全球產業格局中發揮舉足輕重作用。電子資訊製造業在工業中的重要地位進一步凸顯，規模以上企業營業收入突破30萬億元。在積體電路、先進計算、消費電子、基礎電子、能源電子等領域湧現一批長板技術和產品。產業創新效能明顯提升，研發投入強度達到3.5%，算力供給能力大幅增長，新一代智慧終端應用普及率顯著提升。（新華社）"
-    },
-    {
-      "id": "5094080",
-      "time": "2026-09-15 09:01:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲今起議息！兩大看點：沃什或成關鍵一票 最新點陣圖會有多鷹】當地時間週二，美聯儲9月議息會議將在總部華盛頓舉行。雖然美聯儲主席凱文沃什並不願意對利率的未來路徑給出任何前瞻指引。但居高不下的通脹、每桶100美元的油價，疊加他本人反覆強調必須穩定物價、重視金融市場定價所釋放的訊號，讓下一步政策方向幾乎沒有懸念。 在新一輪通脹和就業資料公佈後，利率市場定價顯示，美聯儲本週加息的機率飆升至接近90%，屬於充分定價範圍。 記者彙總發現，在聯邦公開市場委員會內部12位委員中，對於是否加息的分歧可能遠超過7月會議，而美聯儲主席沃什的一票可能將決定最終是否加息。除了本週的利率決定，外界也將試圖從《經濟預測摘要》（SEP）和利率點陣圖中尋找未來政策路徑的線索。（一財）"
-    },
-    {
-      "id": "mkt:01a0a295-15ac-7118-8581-65f06bce8a3e",
-      "time": "2026-09-15 09:01:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan's TAIEX opened down 17.46 points, or 0.04%, at 45,845.06 on Tuesday, Sept. 15."
-    },
-    {
-      "id": "5094079",
-      "time": "2026-09-15 09:01:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲2%，現報5985.00元。"
-    },
-    {
-      "id": "5094078",
-      "time": "2026-09-15 09:01:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新疆中泰(集團)原黨委副書記齊國慶接受審查調查】中央紀委國家監委網站9月15日通報，據新疆維吾爾自治區紀委監委訊息：新疆中泰(集團)有限責任公司原黨委副書記、董事、工會主席齊國慶涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:01a0a294-c65d-7118-8581-5fe127f7a891",
-      "time": "2026-09-15 09:00:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE China A50 futures opened 0.05% higher."
-    },
-    {
-      "id": "mkt:01a0a294-60d5-7118-8581-554c4a2db73e",
-      "time": "2026-09-15 09:00:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Industrial Metals",
-        "Precious Metals",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "At the morning open, China’s most-active futures were mixed: Shanghai crude (SC) up over 6%, coking coal up nearly 4%, fuel oil up over 3% and low-sulfur fuel oil (LU) up nearly 3%. Lagging names included SHFE tin down over 2%, glass, SHFE silver and platinum down nearly 2%, and soda ash, SHFE gold, SHFE copper and SHFE zinc down more than 1%."
-    },
-    {
-      "id": "mkt:01a0a294-3da7-7118-8581-4f90c6389e75",
-      "time": "2026-09-15 09:00:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D fell 0.7% in early trade on Tuesday, Sept 15, to 931.58 yuan/gram; silver T+D fell 1.07% to 15,420 yuan/kg."
-    },
-    {
-      "id": "5094077",
-      "time": "2026-09-15 09:00:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數開盤變動不大，報45,847.27。"
-    },
-    {
-      "id": "5094076",
-      "time": "2026-09-15 09:00:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲7%，現報831.30元。"
-    },
-    {
-      "id": "5094075",
-      "time": "2026-09-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲1%，現報5948.00元。"
-    },
-    {
-      "id": "5094074",
-      "time": "2026-09-15 09:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤基本持平。"
-    },
-    {
-      "id": "5094073",
-      "time": "2026-09-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內漲3%，現報1646.50元。"
-    },
-    {
-      "id": "5094072",
-      "time": "2026-09-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲1%，現報6500.00元。"
-    },
-    {
-      "id": "5094071",
-      "time": "2026-09-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲3%，現報4512.00元。"
-    },
-    {
-      "id": "5094070",
-      "time": "2026-09-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲6%，現報830.10元。"
-    },
-    {
-      "id": "5094069",
-      "time": "2026-09-15 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】上海原油連續漲6.83%，焦煤連續漲3.81%，燃料油連續漲3.30%，低硫燃料油連續漲2.80%，錫連續跌2.18%。"
-    },
-    {
-      "id": "te:markets:583642",
-      "time": "2026-09-15 09:00:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Stocks Retreat as Wall Street Slide Hits Sentiment — Australian shares fell 53 points or 0.6% to 8,697 in Tuesday morning trade, reversing modest gains from the prior session as overnight losses on Wall Street weighed on sentiment. A sharp selloff in AI stocks followed industry warnings of risks, while surging oil briefly pushed U.S. Treasury yields to 5%. Traders also turned cautious ahead of key releases from main trading partner China later today, including August new home prices, industrial output, and retail sales. Locally, cost pressures and expectations of prolonged Reserve Bank tightening persisted, with markets pricing a 90% chance of a rate hike this month. Healthcare, non-energy minerals, and energy minerals drove the weakness, though gains in consumers, logistics, and services helped limit losses. The big four banks slipped 0.5%–0.8%, while BHP Group (-2.3%), Macquarie (-1.9%), and Evolution Mining (-3.8%). In contrast, Wisetech Global (3.2%), Xero (3.0%), REA Group (2.1%), and CSL (1.2%) advanced."
-    },
-    {
-      "id": "5094067",
-      "time": "2026-09-15 08:59:42",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國新辦釋出會丨介紹2026年8月份國民經濟執行情況】2026年9月15日10:00，國務院新聞辦公室舉行新聞釋出會，國家統計局新聞發言人、總經濟師、國民經濟綜合統計司司長付凌暉介紹2026年8月份國民經濟執行情況，並答記者問。"
-    },
-    {
-      "id": "te:markets:583641",
-      "time": "2026-09-15 08:59:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Futures Rise — US gasoline futures rose to around $3.36 per gallon, remaining close to a seven-week high, as investors continued to assess mounting supply disruptions. The shutdown of Saudi Arabia’s East-West oil pipeline is adding to supply concerns, as attacks on energy infrastructure and disruptions to tanker traffic around the Strait of Hormuz continue to constrain crude flows and refinery feedstock availability. Meanwhile, instability along Yemen’s Red Sea coast is further disrupting maritime trade through the Bab el-Mandeb Strait. Capping gains, President Trump said Ukraine and Russia agreed to halt attacks on energy infrastructure, with President Zelenskyy later confirming Kyiv’s readiness to suspend strikes if Russia does the same. Meanwhile, prediction markets see a high probability that the average US gasoline price will surpass $4.60 in 2026, having already reached $4.32 on September 14, according to AAA."
-    },
-    {
-      "id": "5094066",
-      "time": "2026-09-15 08:57:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "據福克斯新聞：一美分可能很快就會成為歷史。美國眾議院已投票決定永久取消一美分硬幣，這使得美國在終止生產這種流通了兩個多世紀的貨幣方面又邁進一步。支持者認為，現在製造一分錢的成本已經超過了它的價值，而該立法還解決了在沒有一分錢的情況下現金交易如何四捨五入的問題。"
-    },
-    {
-      "id": "mkt:01a0a291-69a8-7118-8581-41f30f4d221d",
-      "time": "2026-09-15 08:57:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Former US President Barack Obama said AI cannot be put back in the box and urged proactive guidance of its development and application rather than merely reacting to its consequences."
-    },
-    {
-      "id": "5094065",
-      "time": "2026-09-15 08:57:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【珂瑪科技成立新材料公司 含半導體器件相關業務】企查查APP顯示，近日，武漢珂瑪新材料有限公司成立，經營範圍包含電子專用材料銷售；電子專用材料研發；半導體器件專用裝置製造；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由珂瑪科技全資持股。"
-    },
-    {
-      "id": "mkt:01a0a290-732d-7118-8581-386e2e762205",
-      "time": "2026-09-15 08:56:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. judge blocks DHS rule limiting foreign students and journalists' stays】A U.S. federal judge in Boston on Sept. 14 enjoined the Department of Homeland Security from implementing a rule that would have capped how long foreign students and journalists may remain in the U.S. without applying for an extension; the rule was due to take effect Sept. 15. Judge Saylor said DHS’s stated rationale—citing national security and fraud prevention—was \"extremely weak\" and found the agency failed to meet legal obligations by not addressing concerns raised or considering less burdensome alternatives."
-    },
-    {
-      "id": "5094064",
-      "time": "2026-09-15 08:55:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美法官叫停限制外國留學生記者新規】當地時間9月14日，美國波士頓聯邦地區法院法官塞勒作出裁決，阻止美國聯邦政府實施一項新規。該規定將限制外國留學生和記者在不申請延期的情況下，可在美國停留的時長。這一新規原定今天（9月15日）生效。 塞勒指出，國土安全部出臺這一政策的理由“極其薄弱”。該機構此前援引國家安全需求以及防止簽證專案存在欺詐行為作為依據。但塞勒指出，國土安全部在制定政策時，並未履行其法律義務——既未對政策變動可能引發的相關擔憂予以回應，也未考慮其他負擔較輕的替代方案。 目前，美國國土安全部尚未對置評請求作出回應。 根據美國國土安全部今年7月透過的這一新規，國際學生的F類簽證和允許文化交流專案訪客在美國工作的J類簽證，最長有效期將被限制在4年；而目前有效期可達數年的記者I類簽證，最長有效期將被壓縮至240天。 據瞭解，目前，持有F類簽證的人數約為160萬，另有約50萬人持有J類簽證。塞勒指出，如果新規生效，“對美國高等教育體系及整體經濟造成的損害，很可能是災難性的”。"
-    },
-    {
-      "id": "te:markets:583640",
-      "time": "2026-09-15 08:55:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Losses on Rate Hike Bets — Silver traded near $63 an ounce on Tuesday, hovering near five-week lows as elevated oil prices strengthened expectations for a US Federal Reserve interest rate hike this week. Oil prices extended their gains as Saudi Arabia’s East-West pipeline remained shut, while Ukraine disputed President Trump’s claim that it had already reached an agreement with Russia to halt attacks on energy infrastructure. Rising energy prices fueled inflation concerns and increased pressure on the Fed to tighten policy, with markets currently pricing in roughly a 92% chance of a 25-basis-point rate hike on Wednesday. The US 10-year Treasury yield also climbed toward 5% amid inflation and fiscal concerns, adding further pressure on non-yielding metals. Elsewhere, the Bank of Japan is also expected to raise rates on Friday, as elevated energy costs and ongoing tensions in the Middle East continue to complicate the inflation outlook."
-    },
-    {
-      "id": "te:markets:583639",
-      "time": "2026-09-15 08:53:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Rise on Tech Rebound — The Nikkei 225 Index climbed 0.4% to above 63,700 on Tuesday, ending a two-day losing streak as select technology stocks rebounded, while investors continued to evaluate the outlook for the artificial intelligence sector. Tech shares faced pressure on Monday after Anthropic CEO Dario Amodei called for a slower pace of AI development to reduce potential risks. Investors also remained focused on rising oil prices and global bond yields, alongside imminent interest rate hikes from both the US Federal Reserve and the Bank of Japan this week. Among the notable tech gainers were SoftBank Group (6.3%), Taiyo Yuden (3.7%) and Lasertec (3.8%). In corporate developments, Kioxia Holdings rose 2.5% following reports that the Japanese memory chipmaker is considering raising at least $10 billion through a listing of American depositary receipts."
-    },
-    {
-      "id": "5094063",
-      "time": "2026-09-15 08:52:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前總統奧巴馬談AI：“我們無法把AI塞回盒子裡。” 他認為，與其讓科技主宰我們的未來，我們必須主動引導它的構建和部署，而不是僅僅對後果作出反應。"
-    },
-    {
-      "id": "5094062",
-      "time": "2026-09-15 08:52:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【信宸資本聯合領投AI原生Biotech企業宇道生物】9月15日，信宸資本宣佈，與AI原生Biotech企業宇道生物就其C1輪融資簽署正式協議。宇道生物本輪融資規模為數千萬美元，由信宸資本與德誠資本聯合領投，達晨財智及中生錫創鼎祺基金聯合參投；點石資本擔任長期獨家財務顧問。"
-    },
-    {
-      "id": "5094061",
-      "time": "2026-09-15 08:51:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【BIS警告AI概念行情現脆弱跡象，債務激增引發新擔憂】國際清算銀行（BIS）表示，過去兩年推動全球股市大幅上漲的AI熱潮正顯現越來越多的脆弱跡象。BIS在最新報告中指出，投資者正對未來AI投資的盈利能力變得“愈發謹慎”，特別是由於美國大型科技企業槓桿水平持續攀升。BIS報告還指出，在地緣政治緊張局勢和能源價格波動加劇的背景下，全球經濟環境仍充滿不確定性，公共財政也承受壓力。"
-    },
-    {
-      "id": "5094060",
-      "time": "2026-09-15 08:49:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【埃森哲將支付2500萬美元 以了結美國政府指控】埃森哲（Accenture）已同意支付2500萬美元，以了結美國司法部（DOJ）對其在多元化、公平與包容（DEI）政策中涉嫌就業歧視的指控。該和解協議於 2026年9月14日 正式公佈。美國司法部指控埃森哲在招聘和晉升決策中考慮了種族和性別因素。內部資料顯示，該公司自2017年起在各業務部門設立了未公開的“隱形目標”（stealth goals），並透過月度紅綠燈報告追蹤人口結構比例，從而影響了實際的僱傭結果。指控還指出，埃森哲旗下的部分內部培訓、指導和教育專案限制了特定種族或性別的參與資格。作為聯邦政府承包商，埃森哲在簽署合同時虛假認證其遵守了“禁止在僱傭中考量種族與性別”的聯邦反歧視法規。埃森哲發言人表示，公司已配合政府審查，達成的和解協議並不代表承認存在法律責任，此舉旨在避免長期訴訟帶來的高昂成本和資源消耗。"
-    },
-    {
-      "id": "mkt:01a0a289-2e91-7118-8581-30a81ab344e5",
-      "time": "2026-09-15 08:48:14",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【China margin financing balances across both exchanges fall 4.98 bln yuan】As of Sept 14, margin financing on the Shanghai Stock Exchange was 1,328.37 bln yuan, down 2.69 bln yuan from the previous trading day; Shenzhen Stock Exchange was 1,260.96 bln yuan, down 2.28 bln; combined balance was 2,589.34 bln yuan, down 4.98 bln."
-    },
-    {
-      "id": "5094059",
-      "time": "2026-09-15 08:47:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日減少49.76億元】截至9月14日，上交所融資餘額報13283.72億元，較前一交易日減少26.93億元；深交所融資餘額報12609.64億元，較前一交易日減少22.83億元；兩市合計25893.36億元，較前一交易日減少49.76億元。"
-    },
-    {
-      "id": "5094058",
-      "time": "2026-09-15 08:45:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣汽集團：H股份將於今天上午九時正起恢復買賣】廣汽集團在港交所公告，公司的H 股份將於今天（15/9/2026）上午九時正起恢復買賣。因此，與該公司有關的所有結構性產品亦將同時恢復買賣。"
-    },
-    {
-      "id": "em:qqyh_mlc:202609153874066310",
-      "time": "2026-09-15 08:44:05",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲今起議息！兩大看點：沃什或成關鍵一票 最新點陣圖會有多鷹】當地時間週二，美聯儲9月議息會議將在總部華盛頓舉行。雖然美聯儲主席凱文沃什並不願意對利率的未來路徑給出任何前瞻指引。但居高不下的通脹、每桶100美元的油價，疊加他本人反覆強調必須穩定物價、重視金融市場定價所釋放的訊號，讓下一步政策方向幾乎沒有懸念。"
-    },
-    {
-      "id": "5094057",
-      "time": "2026-09-15 08:43:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "澳大利亞油氣公司桑托斯與韓國浦項鋼鐵就10年液化天然氣供應達成關鍵條款。"
-    },
-    {
-      "id": "mkt:01a0a284-2a6d-7118-8581-2eff3d922082",
-      "time": "2026-09-15 08:42:45",
-      "tags": [
-        "MKT News",
-        "02238.HK"
-      ],
-      "text": "GAC Group (02238.HK) will resume trading on the Hong Kong market at 09:00 today."
-    },
-    {
-      "id": "mkt:01a0a284-191a-7118-8581-21039416c817",
-      "time": "2026-09-15 08:42:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 30-year government bond yield rose 3.0 bps to 4.095%."
-    },
-    {
-      "id": "te:markets:583638",
-      "time": "2026-09-15 08:42:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Decline on Rate Hike Bets — Gold remained below $4,300 an ounce on Tuesday, hovering near five-week lows as elevated oil prices strengthened expectations for a US Federal Reserve interest rate hike this week. Oil prices extended their gains as Saudi Arabia’s East-West pipeline remained shut, while Ukraine disputed President Trump’s claim that it had already reached an agreement with Russia to halt attacks on energy infrastructure. Rising energy prices fueled inflation concerns and increased pressure on the Fed to tighten policy, with markets currently pricing in roughly a 92% chance of a 25-basis-point rate hike on Wednesday. The US 10-year Treasury yield also climbed toward 5% amid inflation and fiscal concerns, adding further pressure on non-yielding bullion. Elsewhere, the Bank of Japan is also expected to raise rates on Friday, as elevated energy costs and ongoing tensions in the Middle East continue to complicate the inflation outlook."
-    },
-    {
-      "id": "5094056",
-      "time": "2026-09-15 08:41:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國首爾綜指轉為上漲0.2%。"
-    },
-    {
-      "id": "5094055",
-      "time": "2026-09-15 08:41:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海已開發出40餘款具有自主智慧財產權的創新模型與平臺 賦能未來醫藥】在第十九屆浦江創新論壇“未來醫藥創新論壇”上，上海市科學技術委員會副主任江舸表示，上海擁有領跑未來醫藥創新的基礎與底氣。當前，上海已匯聚國家實驗室、高校、科研院所及企業等多元創新主體，成功開發了40餘款擁有自主智慧財產權的創新模型與平臺，初步形成了人才集聚平臺，完善了產學研用協同的生態體系，為未來醫藥創新突破奠定了堅實的基礎。"
-    },
-    {
-      "id": "5094054",
-      "time": "2026-09-15 08:41:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率上升3個基點，至4.095%。"
-    },
-    {
-      "id": "5094053",
-      "time": "2026-09-15 08:40:13",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【光通訊發起要約收購，Leopalace 股價大漲】日本住宅地產企業 Leopalace21 收到由光通訊（Hikari Tsushin）牽頭財團的收購要約後，該股暫停交易，買盤推高股價觸及 791 日元的單日漲停上限。Leopalace21 在釋出的宣告中稱，由光通訊、MBK Partners 和日本電氣（NEC）支援的一家子公司，向其發起每股 1000 日元的要約收購，公司對該收購表示支援。三井住友日興證券分析師Junichi Tazawa 在研報中表示，該要約價格較週一收盤價溢價約 45%，與近期其他地產公司收購報價 “相差不大”。市場預計此項交易將順利完成。注：Leopalace21 股票週一在東京市場收於 691 日元。"
-    },
-    {
-      "id": "5094052",
-      "time": "2026-09-15 08:39:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【明陽集團董事長張傳衛拜會中國海洋石油集團有限公司董事長張傳江】據明陽集團訊息，9月14日，明陽集團董事長張傳衛一行拜訪中國海洋石油集團有限公司董事長張傳江。雙方圍繞深化海上風電戰略合作、強化資源獲取與產業協同、推動重點專案落地、加強科技研發及拓展海外市場等議題深入交流，就海南、廣東、江蘇、山東、天津等重點區域合作以及海上風電、綠電消納、綠色氫能、綠色算力等領域進一步深化合作達成共識。"
-    },
-    {
-      "id": "5094051",
-      "time": "2026-09-15 08:39:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迎豐股份成立科技公司 含物聯網相關業務】企查查APP顯示，近日，上海迎豐韜肯科技有限公司成立，經營範圍包含物聯網技術研發；物聯網技術服務；軟體銷售；計算機軟硬體及輔助裝置批發等。企查查股權穿透顯示，該公司由迎豐股份全資持股。"
-    },
-    {
-      "id": "5094050",
-      "time": "2026-09-15 08:39:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海天瑞聲新設數智科技公司 含衛星遙感資料處理業務】企查查APP顯示，近日，杭州瑞海數智科技有限公司成立，經營範圍包含資料處理和儲存支援服務；衛星遙感資料處理；資料處理服務；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由海天瑞聲全資持股。"
-    },
-    {
-      "id": "5094049",
-      "time": "2026-09-15 08:37:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【11股獲券商買入評級，九豐能源目標漲幅達22.89%】Wind資料顯示，9月14日，共有11只個股獲券商買入評級，其中1只個股公佈了目標價格。按最高目標價計算，九豐能源目標漲幅排名居前，漲幅分別達22.89%。從評級調整方向來看，7只個股評級維持不變，4只個股為首次評級。從獲買入評級個股所屬Wind行業來看，技術硬體與裝置、醫療保健裝置與服務、半導體與半導體生產裝置買入評級個股數量最多，分別有2只、1只、1只。"
-    },
-    {
-      "id": "5094048",
-      "time": "2026-09-15 08:34:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【交投低迷306家公司半數零成交 “港版納斯達克”能破局嗎？】近期，市場訊息稱，港交所正研究透過在《主機板上市規則》中增設新章節，將GEM（Growth Enterprise Market，創業板）與主機板納入同一框架，相關討論涉及可能新增第18D章，該舉措也可能成為下一階段上市制度檢討的一部分。港交所回應媒體查詢時表示，第一階段上市框架競爭力檢討已經落實，並將繼續研究更多提升上市機制吸引力的措施，適時公佈相關進展。截至目前，港交所尚未公佈GEM併入主機板的正式方案、18D規則文字或現有GEM公司的遷移安排。 香港立法會議員李惟宏對記者表示，市場希望GEM發揮更大作用，尤其是為規模較小、暫時未達到主機板上市要求的企業提供融資渠道，提升GEM的交易量和融資規模，改善其流動性。（21世紀經濟報道）"
-    },
-    {
-      "id": "mkt:01a0a27b-6ee4-7118-8581-1e88128e0ac7",
-      "time": "2026-09-15 08:33:13",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "【A-share gauge: turnover falls below 20-day average for 18th session】Sept 14 — Combined Shanghai and Shenzhen turnover totaled 1.64 tln yuan, down from the prior session and remaining below the 20-day moving average of 1.99 tln yuan for the 18th consecutive trading day. Turnover reflects institutional, hot-money and retail positioning; above the 20-day average signals higher activity and more optimistic sentiment, below it signals waning activity and cooler sentiment."
-    },
-    {
-      "id": "5094047",
-      "time": "2026-09-15 08:31:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海證交所上日融資餘額下跌0.2%至13,283.7億元。"
-    },
-    {
-      "id": "5094046",
-      "time": "2026-09-15 08:31:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【行業擴圍提速 全國碳市場迎發展新階段】9月15日，2026年中國碳市場大會舉行。今年以來，行業擴圍、配額方案發布、剛性考核落地等一系列政策持續發力，全國碳市場正步入提質增效的關鍵發展期。 恰逢全國碳市場執行五週年、“十五五”開局之年的關鍵時點，加快推進全國碳市場建設，將為“碳排放雙控”制度提供有力支撐。作為全國碳市場建設的核心抓手，持續擴大覆蓋範圍是未來工作的重點。 生態環境部副部長李高日前在國新辦新聞釋出會上表示，全國碳排放權交易市場將在發電、鋼鐵、水泥、鋁冶煉四個行業基礎上擴大到石化、化工等高排放行業，實現對全國約80%二氧化碳排放的有效管控。與此同時，全國自願減排交易市場將為更多領域降碳增匯專案提供激勵，讓全社會真切感受到“排碳有成本、減碳有收益”。 金融機構入市工作也進入倒計時。記者瞭解到，相關部門正加快推動金融機構參與碳市場交易，規範和引導碳質押、碳回購等業務發展。市場普遍預計，首批金融機構有望年內進場。 專家表示，金融機構入場，能夠豐富市場參與主體，有效提升市場流動性，但也要同步完善配套監管制度，重點防範過度投機和市場操縱風險，保障市場平穩執行。（經濟參考報）"
-    },
-    {
-      "id": "5094045",
-      "time": "2026-09-15 08:28:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【杭州機器人交警中隊完成升級】9月14日，杭州，全國首支機器人交警中隊“杭警智行”‌升級，新增‌中英文問答‌及‌全天候自主巡崗‌，從以往靜態值守轉為主動出擊，秋季將重點投放到‌西湖景區‌。‌‌（杭州交通918）"
-    },
-    {
-      "id": "5094044",
-      "time": "2026-09-15 08:27:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "極智嘉-W (02590)釋出公告，於2026年9月14日斥資2351.11萬港元回購280萬股。"
-    },
-    {
-      "id": "5094043",
-      "time": "2026-09-15 08:27:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鈦白粉龍頭提價 2只概念股業績翻倍】據產業媒體報道，9月11日，鈦白粉龍頭龍佰集團率先發布漲價函，對鈦白粉產品價格進行調整。其中，國內市場每噸上調700元，國際市場每噸上調100美元。隨後安納達、鈦能化學、道恩鈦業等二十餘家企業相繼跟進發布漲價函，漲幅與龍佰集團一致。鈦白粉今年第六輪集漲價潮正式開啟。鈦白粉第六輪漲價由多重因素推動，一是成本端的硫酸等原材料價格居高不下，企業出廠價已跌至成本線；二是行情低迷，部分企業限產或停產，致使市場供給實質性收縮，低價貨源減少；三是“金九銀十”為產業傳統旺季，企業企圖透過集體漲價，穩住市場信心。從淨利潤規模來看，龍佰集團、鈦能化學、安寧股份排名前三，依次為8.44億元、4.2億元、3.41億元；釩鈦股份、天原股份緊隨其後，歸母淨利潤均在2億元以上。從淨利潤變動來看，天原股份、魯北化工上半年歸母淨利潤同比翻倍增長，增幅分別為1157.84%、119.46%；金浦鈦業、鈦能化學、惠雲鈦業緊隨其後，增幅依次為92.33%、61.93%、46.21%；釩鈦股份和安納達同比實現扭虧為盈。"
-    },
-    {
-      "id": "mkt:01a0a274-bcc7-7118-8581-12e7abf39516",
-      "time": "2026-09-15 08:25:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US Supreme Court declines Trump administration bid to impose mail-vote limits; states to use existing midterm procedures】The US Supreme Court temporarily refused a Trump administration request to allow restrictions on mail voting. With midterm voting already under way, the decision lets states continue longstanding procedures for mailing and processing absentee ballots. The administration had sought to have limits take effect before the November congressional elections; about one-third of US voters cast ballots by mail."
-    },
-    {
-      "id": "5094042",
-      "time": "2026-09-15 08:25:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美最高法院暫不批准郵寄投票限制 各州中期選舉沿用現有程式】美國最高法院當天暫時拒絕特朗普政府提出的郵寄投票限制措施。在中期選舉投票已經開始的情況下，這一決定意味著各州目前可以繼續按照多年來沿用的程式寄發郵寄選票。特朗普政府此前要求最高法院允許相關限制在11月國會選舉前生效，而美國近三分之一選民透過郵寄方式投票。（央視新聞）"
-    },
-    {
-      "id": "5094041",
-      "time": "2026-09-15 08:23:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌正考慮在新墨西哥州利縣建設新資料中心】當地時間9月14日，據報道，谷歌表示，正在考慮在新墨西哥州利縣建設一個新的資料中心專案。該公司稱，相關討論仍在進行中，許多細節尚未敲定。"
-    },
-    {
-      "id": "mkt:01a0a271-9001-7118-8581-0be6f022508d",
-      "time": "2026-09-15 08:22:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "9984.T",
-        "Impact bullish"
-      ],
-      "text": "SoftBank Group's Tokyo-listed shares rose 6.5%."
-    },
-    {
-      "id": "5094040",
-      "time": "2026-09-15 08:21:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價週一重挫11%後今日上漲6.5%。"
-    },
-    {
-      "id": "5094039",
-      "time": "2026-09-15 08:21:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破107美元/桶，日內漲1.25%。"
-    },
-    {
-      "id": "5094038",
-      "time": "2026-09-15 08:20:55",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：潔淨室頭部企業半導體相關訂單大幅放量，半導體裝置需求有望跟進】中信證券研報稱，潔淨室是半導體資本開支的早期環節，從建設週期、歷史驗證多角度來看，可作為國內半導體裝置需求的有效前瞻指標。考慮到2026年上半年國內潔淨室頭部企業半導體相關訂單大幅放量，按潔淨室領先裝置搬入5—9個月測算，預計2026年下半年國內半導體裝置需求有望跟進，建議關注國產半導體裝置+國內半導體潔淨室兩條投資主線。"
-    },
-    {
-      "id": "mkt:01a0a26f-d0aa-7118-8581-029e35348dc5",
-      "time": "2026-09-15 08:20:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact mixed",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【China International Capital Co: Short-term external shocks raise temporary volatility in global risk assets】China International Capital Co research says near-term overseas shocks still need to be digested: Middle East geopolitical risk persists and Fed credibility will take time to repair. September is the seasonal peak for US investment-grade issuance, which could push credit supply higher and prevent a rapid fall in Treasury yields. Global liquidity is overall tight, increasing the likelihood of wider risk-asset volatility. Key near-term drivers to watch are the Sept FOMC, oil moves tied to geopolitical uncertainty, and US midterm election effects. The firm views external shocks to A-shares as largely temporary and says the medium-term market trend remains intact; the longer-term steady-uptrend since Sept. 24 is likely to continue."
-    },
-    {
-      "id": "5094037",
-      "time": "2026-09-15 08:19:13",
-      "tags": [
-        "公司",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中金：短期外部擾動放大全球風險資產階段性波動】中金公司研報表示，短期來看，海外擾動影響仍待消化，中東地緣局勢仍存不確定性，美聯儲公信力修復仍需時間，同時9月作為美國投資級信用債傳統發行旺季，信用債供給壓力可能再度上行，美債利率難以快速下行，全球流動性整體偏緊，全球風險資產波動率或有所放大。後續關注9月美FOMC會議、地緣不確定性下的油價變化、美中期選舉影響等。當前外部擾動對A股影響仍偏階段性，對市場中期走勢不必悲觀，“9.24”以來的長期、穩進趨勢仍有望延續。"
-    },
-    {
-      "id": "5094036",
-      "time": "2026-09-15 08:19:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報102.41美元/桶。"
-    },
-    {
-      "id": "5094035",
-      "time": "2026-09-15 08:18:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Waymo計劃2027年在東京推出自動駕駛網約車服務】Waymo、日本交通株式會社（Nihon Kotsu）以及GO公司在Waymo官網部落格中表示，三方已達成協議，籌備於2027年在東京商業化上線無人駕駛網約車服務。該時間表取決於能否獲得監管許可，同時需要完成Waymo技術與聯合運營專案當前的驗證工作。這項服務可透過GO和Waymo兩款應用下單。車隊規模將逐步擴充至約100輛車，覆蓋東京多個核心區域。"
-    },
-    {
-      "id": "5094034",
-      "time": "2026-09-15 08:17:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "日股日經指數逆轉跌勢，最新上漲0.03%。"
-    },
-    {
-      "id": "5094033",
-      "time": "2026-09-15 08:17:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普在黃仁勳參加論壇時來電 現場外放稱AI擔憂是騙局】英偉達CEO黃仁勳當地時間週一（9月14日）在All-In Summit論壇活動現場接聽了美國總統特朗普的電話。通話期間，特朗普談到了近期圍繞AI發展的擔憂，稱這些擔憂是“騙局”，並表示：“機器人不會接管世界。”特朗普在電話中還談到了資料中心。他聲稱，一些社群如果沒有資料中心將會走向衰落，但如今已經這些社群非常富裕，不過他沒有提供具體例子。 黃仁勳沒有對此提出反駁，而是表示：“我們將確保美國AI競賽中的每個人都能獲益。”黃仁勳還透過告訴特朗普自己正在面對數千現場觀眾，來向特朗普表達支援。"
-    },
-    {
-      "id": "5094032",
-      "time": "2026-09-15 08:15:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【昨日ETF資金整體淨流入44.29億元】據同花順iFinD資料顯示，2026年9月14日，ETF資金整體淨流入44.29億元，股票型淨流入18.54億元，寬基型淨流入22.36億元。當日ETF資金淨流入榜單排名前3依次為：華安黃金ETF（518880）淨流入9.44億元，華夏上證科創板50成份ETF（588000）淨流入8.38億元，銀華日利（511880）淨流入6.88億元。"
-    },
-    {
-      "id": "5094031",
-      "time": "2026-09-15 08:15:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國呼籲葉門衝突各方保護平民】聯合國秘書長副發言人哈克14日在紐約聯合國總部表示，葉門持續的敵對行動正在造成更多平民傷亡和大規模流離失所。自本月初以來，至少1.8萬戶家庭、約12.5萬人被迫逃離家園。聯合國警告，當地人道物資嚴重不足，部分地區救援行動仍受到安全域性勢和道路受阻影響。"
-    },
-    {
-      "id": "mkt:01a0a26b-7a8a-7118-8580-fcadaa44ea6a",
-      "time": "2026-09-15 08:15:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【CITIC Securities: Metals earnings growth accelerated; sub-sector valuation repair worth watching】CITIC Securities research: Metals-sector earnings growth accelerated in 1H2026, led by tungsten, aluminium, lead‑zinc and other rare metals. Copper, rare‑earth magnetic materials, gold and nickel‑cobalt‑tin‑antimony also posted strong gains; lithium swung to profitability. Sector valuations remain broadly reasonable; aluminium, copper, lithium and nickel‑cobalt‑tin‑antimony trade at relatively low multiples and offer re‑rating potential. Industry positioning has returned to neutral and payout ratios slipped, though some sub-sectors still yield above 5%. Looking to H2, the firm expects liquidity shocks to ease, supply disruptions to rise and demand to sustain mild growth; it flags gold, copper, strategic metals, rare earths, aluminium and lithium as key areas to watch."
-    },
-    {
-      "id": "5094030",
-      "time": "2026-09-15 08:15:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海海峽進行軍事活動】據中國海事局網站訊息，煙臺海事局釋出航行警告，9月15日至18日，渤海海峽部分海域進行軍事活動，希各航船注意。"
-    },
-    {
-      "id": "5094029",
-      "time": "2026-09-15 08:15:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報106.74美元/桶。"
-    },
-    {
-      "id": "5094028",
-      "time": "2026-09-15 08:15:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日保持不變】截至2026年09月14日，全球最大的黃金ETF SPDR Gold Trust持倉量為1047.42噸，較前一個交易日保持不變。"
-    },
-    {
-      "id": "5094027",
-      "time": "2026-09-15 08:15:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華西地區降雨將增多增強 北方大部溫差較大一日如兩季】今天（9月15日）起，華西地區降雨將增多增強，四川東部、重慶、湖北等地大到暴雨陸續上線，同時華南沿海部分地區仍需防範強降雨。由於冷空氣實力較弱，未來幾天全國大部氣溫會處於較常年同期偏高的水平，其中北方大部晝夜溫差較大，西北、華北不少地方將體驗一日兩季。"
-    },
-    {
-      "id": "5094026",
-      "time": "2026-09-15 08:14:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【新加坡全境空氣質量均達“不健康”水平 系2019年以來首次】新加坡全島空氣質量週二均降至“不健康”水平，鄰國印度尼西亞山火產生的煙霾持續向東南亞擴散。據當地媒體報道，新加坡全部五個地區的空氣質量均達到“不健康”水平，為2019年9月以來首次。根據IQAir資料，新加坡在全球汙染最嚴重城市中排名第六。新加坡國家環境局週一表示，受風向轉變影響，加里曼丹島火災產生的煙羽正飄向新加坡，同時來自蘇門答臘島的煙霾也影響當地空氣質量。該機構預計，未來24小時煙霾情況仍將持續。"
-    },
-    {
-      "id": "5094025",
-      "time": "2026-09-15 08:13:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【微軟執行長納德拉向員工釋出有關人工智慧安全的內部警示】微軟執行長薩蒂亞·納德拉（Satya Nadella）在微軟內部留言板上發表了一份備忘錄，強調人工智慧（AI）必須保持在人類控制之下，並對更廣泛的第三方安全測試表示支援。這份在週一晚些時候釋出的內部備忘錄中，納德拉警告業界，隨著AI技術的風險日益增加，企業必須花費足夠的時間來確保技術安全。他寫道：“當賭注越來越高時，人們應該花費所有需要的時間。否則，你無論如何都會失去運營許可。”此番言論正值科技界對超級智慧與AI安全展開激烈辯論之際。"
-    },
-    {
-      "id": "5094024",
-      "time": "2026-09-15 08:12:44",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：金屬行業業績增長繼續提速 細分板塊估值修復值得關注】中信證券研報稱，2026年上半年，金屬行業業績增長繼續提速，鎢、鋁、鉛鋅、其他稀有金屬領漲，銅、稀土磁材、黃金、鎳鈷錫銻亦實現出色增長，鋰板塊實現扭虧。當前金屬板塊估值仍處合理水平，鋁、銅、鋰、鎳鈷錫銻估值相對較低，細分板塊估值修復機會值得關注。行業持倉迴歸平配，分紅比例略有回落，但部分板塊股息率仍顯著高於5%。展望下半年，流動性衝擊有望緩和，供應擾動抬頭跡象漸顯，需求維持穩增態勢，建議持續關注黃金、銅、戰略金屬、稀土、鋁、鋰板塊機會。"
-    },
-    {
-      "id": "5094023",
-      "time": "2026-09-15 08:12:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報63.49美元/盎司。"
-    },
-    {
-      "id": "te:markets:583635",
-      "time": "2026-09-15 08:12:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Oat Hits 14-month High — Oat increased to 400.00 USd/Bu, the highest since July 2025. Over the past 4 weeks, Oat gained 17.92%, and in the last 12 months, it increased 23.11%."
-    },
-    {
-      "id": "mkt:01a0a267-edcc-7118-8580-f364f1024586",
-      "time": "2026-09-15 08:11:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 39.7 points (-0.45%) at 8,710.2 on Tuesday, Sept. 15."
-    },
-    {
-      "id": "5094022",
-      "time": "2026-09-15 08:10:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：燃機行業處於新一輪景氣週期】中信證券研報表示，燃機行業處於新一輪景氣週期，中小型燃機憑藉部署靈活、建設週期短等優勢需求增長更快。供給端海外OEM擴產週期較長，燃機供給持續偏緊，關鍵熱端部件及大型轉動件等環節產能約束向上遊傳導。海外供需缺口及航改燃核心機供應約束有望推動需求向國內整機及零部件產業鏈外溢，高溫合金等上游材料亦迎來發展機遇。"
-    },
-    {
-      "id": "5094021",
-      "time": "2026-09-15 08:10:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "與 Waymo 達成戰略聯盟後，日本計程車APP GO 股價飆升9.7%。"
-    },
-    {
-      "id": "mkt:01a0a266-9885-7118-8580-e9f6e0b34318",
-      "time": "2026-09-15 08:10:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "09678.HK",
-        "Impact bullish"
-      ],
-      "text": "Yunzhisheng (09678.HK) launched a new-generation high-performance flagship model, U2-Flash."
-    },
-    {
-      "id": "mkt:01a0a266-2663-7118-8580-e59af69bce5d",
-      "time": "2026-09-15 08:09:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O",
-        "Impact mixed"
-      ],
-      "text": "Business Insider reports that in an internal memo Microsoft (MSFT.O) CEO Nadella said AI must remain under human control, backed broader third‑party testing, and warned the company must take time to ensure the technology's safety."
-    },
-    {
-      "id": "5094020",
-      "time": "2026-09-15 08:09:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.5%，報8,709.80點。"
-    },
-    {
-      "id": "5094019",
-      "time": "2026-09-15 08:09:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "大和資本將LG電子目標價從152,000韓元上調至250,000韓元。"
-    },
-    {
-      "id": "5094018",
-      "time": "2026-09-15 08:08:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長薩提亞·納德拉敦促人工智慧行業優先考慮安全性，並保持人類對技術的控制。"
-    },
-    {
-      "id": "5094017",
-      "time": "2026-09-15 08:08:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國本土對沖基金呼籲三星迴購併登出優先股】一家韓國對沖基金敦促三星電子回購並登出優先股，成為首批直接推動該舉措，以期提升公司估值的股東之一。Life Asset Management在本週致三星董事會和管理層的一封信中，呼籲這家韓國科技巨頭回購併登出優先股，直至其與普通股的價差消除。該基金要求三星董事會在10月的會議上審議該計劃，並在12月底前登出相關股份。 Life Asset的呼籲暗示，在三星近期公佈今年計劃向投資者返還至多110萬億韓元（817億美元）以共享AI熱潮帶來的鉅額財富後，這家晶片製造商面臨來自股東的更大壓力。雖然三星尚未完全披露細節，但業內觀察人士已強調鑑於優先股相對於普通股的大幅折價，應回購優先股。"
-    },
-    {
-      "id": "5094016",
-      "time": "2026-09-15 08:08:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【平陸運河通航在即 多條江海聯運、跨國航運新航線完成首航籌備】新中國成立以來第一條國家層面統籌建設的通江達海運河工程——平陸運河明天（16日）將通航。多式聯運班列抵港、通江達海船悉數靠泊，多條全新江海聯運、跨國航運新航線完成首航籌備，標誌著西南地區通江達海、連通東盟的現代化物流大通道即將全線貫通。（央視）"
-    },
-    {
-      "id": "5094015",
-      "time": "2026-09-15 08:07:53",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金公司董事長陳亮會見沙特投資部助理大臣穆巴拉克】近日，中金公司董事長陳亮會見沙特投資部助理大臣穆巴拉克（Ibrahim bin Yousef Al-Mubarak）一行，雙方圍繞進一步深化務實合作深入交流，並達成多項合作共識。"
-    },
-    {
-      "id": "5094014",
-      "time": "2026-09-15 08:07:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【抵制美國貨 加拿大超市貨架大洗牌 】隨著越來越多加拿大消費者抵制美國貨，加拿大各零售商開始加強產地標識並開闢除美國之外的更多貨源地，各大超市貨架陳列因此面貌大變。 安大略省超市“文斯市場”最近收到差評和憤怒的消費者郵件，批評該超市囤有美國貨。為此，公司總裁賈恩卡洛·特里馬爾基忙著在社交媒體上向消費者解釋，該超市貨架陳列的大部分商品其實產自加拿大。 特里馬爾基接受路透社採訪說，公司名下4家超市目前約90%在售商品產自加拿大。他表示，過去，公司“要平衡價格和品質，現在要平衡價格、品質和產地”。 加拿大最大的食品零售商洛布勞公司8月重新用大號楓葉標記標識本國出產的農產品和新鮮食品，並引進大寫英文字母“T”標記，用以標識受美國關稅政策影響的產品。（新華社）"
-    },
-    {
-      "id": "5094013",
-      "time": "2026-09-15 08:06:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲知聲：釋出新一代高密度智慧模型U2-Flash】雲知聲公告，公司正式釋出基於U2通用基座模型強化後訓練的新一代高密度智慧模型U2-Flash。該模型在DeepSWE v1.1榜單得分64.6分，TerminalBench3.0評分24.3分，SWE-Bench Pro評分61.6分，較前代提升10.5分；任務執行週期縮短35%，Token消耗減少20%–30%。"
-    },
-    {
-      "id": "5094012",
-      "time": "2026-09-15 08:05:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國8月出口價格環比下降3.7%】9月15日，根據韓國銀行釋出的進出口物價指數統計，韓國8月出口價格環比下降3.7%，進口價格環比下跌2.4%；8月出口價格同比上漲42.4%，進口價格同比上漲15.6%。"
-    },
-    {
-      "id": "5094011",
-      "time": "2026-09-15 08:04:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "檔案顯示，SB Energy將啟動價值約5億美元的日本股票發售。"
-    },
-    {
-      "id": "5094010",
-      "time": "2026-09-15 08:04:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱一油輪觸雷美軍否認】據伊朗法爾斯通訊社當地時間9月14日晚報道，伊朗伊斯蘭革命衛隊稱，懸掛巴拿馬國旗的超級油輪“阿爾加亞”號在透過霍爾木茲海峽以南的“禁區”時觸碰到水雷。船舶追蹤網站顯示了這艘油輪在9月7日至9月8日期間的航行軌跡，隨後該船的追蹤資料便告中斷。 但美國中央司令部卻表示，伊朗伊斯蘭革命衛隊的說法不實，該油輪實為“上個月遭到伊朗導彈襲擊”。 聯合國國際海事組織報告稱，“阿爾加亞”號於9月12日受損，兩名船員失蹤。英國海軍附屬機構“英國海事貿易行動辦公室”則表示，一艘在霍爾木茲海峽內的船隻“被髮射物擊中”，引發火災，船員已撤離。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a0a260-f229-7118-8580-da74dc4c0dc0",
-      "time": "2026-09-15 08:04:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he would seek $5,000 payments to adult Americans if Republicans win both the House and Senate, citing his passage of the 'big and beautiful' bill and $1,776 for service members, and urged supporters to vote."
-    },
-    {
-      "id": "5094009",
-      "time": "2026-09-15 08:03:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勁方醫藥：GFH375單藥治療突變型非小細胞肺癌的II期試驗更新資料登陸WCLC口頭報告】勁方醫藥-B公告，公司GFH375（口服KRAS G12D抑制劑）單藥治療經治KRAS G12D突變型非小細胞肺癌的II期試驗更新資料於9月14日登陸2026世界肺癌大會（WCLC）口頭報告。截至資料截止日，71名患者完成至少一次治療後評估，客觀緩解率為59.2%、確認的客觀緩解率為52.1%、疾病控制率為93%。"
-    },
-    {
-      "id": "5094008",
-      "time": "2026-09-15 08:03:20",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信建投：當前行業處於三重共振放量期 繼續看好液冷板塊配置價值】中信建投證券研報稱，液冷國標落地開啟規模化時代，龍頭股權激勵錨定產業放量。一是規則端，行業由定製走向規範：首部資料中心冷板式液冷系統國家標準正式釋出、2027年2月1日起實施，統一冷板、CDU等核心部件的技術要求與測試方法，介面不相容、規格各異問題得以釐清，產業由定製化小批次轉入標準化規模化交付。二是交付端，訂單高增、龍頭以股權激勵錨定兌現信心，行業龍頭公司激勵密集落地疊加前瞻指標新簽訂單走強，是訂單先行到利潤兌現進入報表驗證期的強訊號。三是產業趨勢端，價值量重構與國產替代同步演進：單機櫃液冷價值量由GB200約4.15萬美元升至新一代平臺約5.57萬美元，微通道冷板單價抬升3至5倍，液冷滲透率提升與國產份額提升雙輪驅動，集中放量、精密製造與自主可控趨勢明確。當前行業處於標準統一、批次交付與滲透率抬升三重共振放量期，繼續看好液冷板塊配置價值。"
-    },
-    {
-      "id": "5094007",
-      "time": "2026-09-15 08:03:14",
-      "tags": [
-        "央行",
-        "觀點"
-      ],
-      "text": "【中信證券：金融資料總量走弱，新增貸款同期新低，數量目標漸趨淡化】中信證券研報表示，8月金融資料總量走弱，新增貸款延續偏弱，但融資結構轉換與數量目標淡化降低了總量走弱的訊號意義。社融方面，表內貸款大幅少增、政府債在高基數下延續少增，拖累社融增速回落至7.2%，企業債與股權融資延續多增。信貸方面，6月末衝量後對公短貸連續兩個月淨償還，更多是投放前置後的回吐；企業中長貸延續少增，居民短貸與按揭雙雙負增。貨幣方面，M1增速在高基數下企穩、剪刀差收窄，居民存款累計同比少增、非銀存款延續淨流入但節奏放緩，資金活化改善放緩但方向未逆轉。我們認為，央行明確“十五五”時期逐步淡化數量型中介目標，貨幣政策或更多依託價格型調控與結構性工具；9月社融增速受高基數影響或延續承壓，四季度有望企穩。"
-    },
-    {
-      "id": "5094006",
-      "time": "2026-09-15 08:03:04",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：用電增速邊際走弱，火電出力持續承壓】中信證券研報表示，7月全社會用電增速回落至1.7%，二產增速放緩疊加去年同期高基數下居民用電同比下滑5.1%，是拖累整體用電增長的核心原因。電源側投資額同比降幅持續擴大，但細分電源中火電仍保持密集投產節奏，單月新增裝機1,194萬千瓦；電網側投資增速放緩至0.7%。整體用電需求偏弱疊加清潔能源出力改善，導致7月火電利用小時數同比下滑8.5%，為年內單月最大降幅。江蘇9月月度電價在連續6個月上漲後重新回落至年度長協電價附近。"
-    },
-    {
-      "id": "mkt:01a0a25f-7a7e-7118-8580-d2a9152a8003",
-      "time": "2026-09-15 08:02:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "TankerTrackers said satellite imagery from Sept 14 shows the Strait of Hormuz currently hosting two-way daytime transits of very large crude carriers (VLCCs). The firm also observed increased ship-to-ship transshipment of crude, LNG and LPG in the Gulf of Oman."
-    },
-    {
-      "id": "te:markets:583634",
-      "time": "2026-09-15 08:02:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Stabilize After Downbeat Session — US stock futures steadied on Tuesday after the major averages came under pressure at the start of the week, weighed down by a selloff in semiconductor stocks amid growing safety concerns in artificial intelligence development. In regular trading on Monday, the tech-heavy Nasdaq Composite fell 0.56%, while the S&P 500 and Dow declined 0.48% and 0.29%, respectively. Anthropic CEO Dario Amodei called for a slower pace of AI development to address risks posed by increasingly capable models, with OpenAI and xAI CEOs Sam Altman and Elon Musk supporting the view. Chipmakers bore the brunt of the selling, including Nvidia (-3.4%), Micron (-5.3%), Sandisk (-5%), AMD (-4.4%) and Intel (-5.6%). Investors also contended with elevated oil prices and rising Treasury yields ahead of an expected interest rate hike by the Federal Reserve this week. Markets are pricing in roughly a 92% probability of a 25-basis-point rate hike by the Fed on Wednesday."
-    },
-    {
-      "id": "mkt:01a0a25e-8620-7118-8580-c921492a9713",
-      "time": "2026-09-15 08:01:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI opened down 10.0 points (-0.15%) at 6,674.37 on Tuesday, Sept. 15."
-    },
-    {
-      "id": "mkt:01a0a25e-7c12-7118-8580-c1cf9da6537a",
-      "time": "2026-09-15 08:01:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 opened down 279.54 points (-0.44%) at 63,213.45 points on Sept. 15 (Tuesday)."
-    },
-    {
-      "id": "5094005",
-      "time": "2026-09-15 08:00:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.4%，至6659.25點。"
-    },
-    {
-      "id": "5094004",
-      "time": "2026-09-15 08:00:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報63190.37點，跌幅0.48％。韓國綜合股價指數（KOSPI）開盤下跌0.4％，至6659.25點。"
-    },
-    {
-      "id": "5094003",
-      "time": "2026-09-15 07:58:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率升至3.005%。"
-    },
-    {
-      "id": "mkt:01a0a25b-ccb7-7118-8580-b96a79f8382e",
-      "time": "2026-09-15 07:58:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan 10-year government bond yield rose 2bps to 3.005%."
-    },
-    {
-      "id": "5094002",
-      "time": "2026-09-15 07:58:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經濟日報：新車競賽該“踩剎車”了 迭代過快傷害產業鏈】近期，速成車話題衝上熱搜，成為汽車行業持續討論的熱點。熱議的背後，一方面是今年上半年，數百款新車投放上市；另一方面，速成的代價可能是缺少必要的安全驗證、耐久測試，其安全隱患成為公眾的擔憂。在新能源汽車變革中，造車手段在進步，速成車爭議是行業對當前競爭是否出現了質量讓位於速度的反思，反映出大量新車密集上市背後，細分市場擁擠帶來的前所未有的競爭壓力。速成車在產品質量可靠性和耐久性上的風險是顯性的，但是對於整個供應鏈和零售終端健康可持續發展的危害是隱性的，其對產業鏈的影響不可小覷。未來，隨著專項行動的開展，車企埋頭追求釋出新品的速度有望踩下剎車。汽車產業作為高階製造業的“鏈主”產業，肩負著整個產業鏈突破向上的責任，只有帶領產業鏈迴歸到“質量與技術”的競爭，才能在全球市場中保持健康發展的核心競爭力。"
-    },
-    {
-      "id": "mkt:01a0a25a-e213-7118-8580-b01c917f4879",
-      "time": "2026-09-15 07:57:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the radical left 'Dumocrats' have manufactured this AI hoax, recalling their recent global-warming hoax that claimed everyone would die from extreme heat — what happened?"
-    },
-    {
-      "id": "5094001",
-      "time": "2026-09-15 07:56:02",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：未來在AI等高階需求的推動下，我國光通訊行業將迎來發展新階段】中信證券研報稱，在中國光博會（CIOE·2026）上看到國內光互聯產業全方位升級，行業實現從產能承接向技術引領跨越：光模組迭代節奏明晰，800G、1.6T規模化落地，NPO、XPO前沿產品持續試點；OCS全光交換獲全球龍頭佈局，市場空間大幅擴容；薄膜鈮酸鋰技術痛點持續攻克，產業化程序提速；國產光晶片加速追趕，多品類實現量產突破，矽光滲透率提升；疊加NPO、CPO、OCS驅動，無源器件向高密度、高階化升級。認為未來在AI等高階需求的推動下，我國光通訊行業將迎來發展新階段，給予“強於大市”的評級。"
-    },
-    {
-      "id": "5094000",
-      "time": "2026-09-15 07:54:40",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：仍看好在摺疊屏等新品支撐下的2026-27年蘋果硬體創新週期】中信證券研報認為，北京時間9月10日凌晨1點，蘋果在2026年秋季新品釋出會上釋出摺疊屏iPhone Duo、iPhone 18 Pro & ProMax、AirPods 5及Apple Watch Series 12 & Ultra 4產品。其中，iPhone DUO摺疊屏、端側AI生態、新材料新工藝的引入為本次新品的核心亮點。雖然受儲存價格影響，產品定價略有上浮，我們仍看好在摺疊屏等新品支撐下的2026-27年蘋果硬體創新週期，建議重點關注新材料、新工藝應用帶來升級、增量供應鏈環節。"
-    },
-    {
-      "id": "5093998",
-      "time": "2026-09-15 07:53:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特稱多地遭胡塞襲擊13人傷】沙特領導的聯軍方面當地時間今天（9月15日）凌晨表示，葉門胡塞武裝9月14日對沙特城市海米斯穆謝特、艾卜哈和塔伊夫發動襲擊，造成13名平民受傷。 胡塞武裝9月14日發表宣告稱，發射導彈和無人機襲擊了位於沙特海米斯穆謝特的軍事基地，並稱沙特戰機從該軍事基地起飛對葉門實施空襲。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5093997",
-      "time": "2026-09-15 07:53:20",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：國內潔淨室頭部企業半導體相關訂單大幅放量，半導體裝置需求有望跟進】中信證券研報認為，潔淨室是半導體資本開支的早期環節，從建設週期、歷史驗證多角度來看，可作為國內半導體裝置需求的有效前瞻指標。考慮到2026H1國內潔淨室頭部企業半導體相關訂單大幅放量，按潔淨室領先裝置搬入5-9個月測算，我們預計2026H2國內半導體裝置需求有望跟進，建議關注國產半導體裝置+國內半導體潔淨室兩條投資主線。"
-    },
-    {
-      "id": "5093996",
-      "time": "2026-09-15 07:52:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【貝萊德因人工智慧稀缺性而將新興市場股票評級重新上調至“超配”】貝萊德投資研究所稱，受 AI 資源稀缺、盈利增長與估值低廉等因素推動，貝萊德旗下研究部門重新將新興市場股票上調至超配。包括Wei Li 在內的策略師週一在一份報告中寫道：“我們認為，儘管 AI 相關投資熱潮會消耗資本、電力以及其他稀缺資源，但這類投資仍能夠支撐經濟增長與企業利潤。新興市場股票如今提供了又一個盈利能夠跨越更高門檻的領域。”策略師表示，市場一致預期MSCI新興市場指數（MSCI EM）未來 12 個月每股收益（EPS）增幅將超過 34%，而MSCI美國指數（MSCI USA Index）為 20%；同時新興市場股票估值較美國股票折價 50%。美元走弱以及資金流入增加，是看多新興市場的額外支撐因素。“韓國與中國臺灣地區處於半導體、儲存晶片及硬體供應鏈的核心。巴西等拉美國家，則能夠提供 AI 建設所需的資源與實體基礎設施。”注：該機構曾在 6 月將新興市場股票從超配下調至中性，理由是 AI 板塊集中風險以及槓桿風險，尤其是韓國市場。策略師在週一的報告中寫道：“韓國股市隨後出現下跌，夏季去槓桿操作緩解了此前的槓桿擔憂，這支撐我們重新上調至超配。”貝萊德維持美股與 AI 板塊超配，將短期歐洲政府債券下調至中性。"
-    },
-    {
-      "id": "5093995",
-      "time": "2026-09-15 07:52:05",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信建投：政策加碼產業治理 央地重組同步推進】中信建投證券研報稱，上週，國央企改革的邊際變化在於，政策端開始把兼併重組明確嵌入行業治理和產業升級。國家發展改革委在新能源汽車產業釋出會上提出支援大型企業集團以市場化、法治化方式推進兼併重組，證監會同步釋放更具包容性的併購重組制度訊號，政策由原則性鼓勵轉向點名行業、改善制度供給。央企改革繼續沿著“減戶數、強資本、優主業”推進，中國石化完成對中國航油的重組整合，央企數量降至99家；財政部以3000億元特別國債支援8家中央金融企業補充3600億元核心一級資本，結構最佳化與資本補充並行。"
-    },
-    {
-      "id": "mkt:01a0a255-a40f-7118-8580-ae621aeffb77",
-      "time": "2026-09-15 07:51:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said the Republican midterm convention in Dallas sold out, drew high ratings and attention, and he expects it to have a significant impact on the Nov. 3 election."
-    },
-    {
-      "id": "5093994",
-      "time": "2026-09-15 07:50:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝萊德因人工智慧稀缺性而將新興市場股票評級重新上調至“超配”。"
-    },
-    {
-      "id": "5093993",
-      "time": "2026-09-15 07:49:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【供需偏緊持續推升電子布價格】卓創資訊9月最新資料顯示，近期國內電子紗市場主流產品G75及7628電子布價格漲幅明顯，多數廠商針對部分高階型號電子紗價格提漲幅度進一步加大。 北京止於至善投資管理有限公司總經理何理對記者表示：“電子布漲價的核心原因是AI帶動需求升級，而有效供給擴張未能及時跟上。高階AI伺服器PCB層數增加，單臺電子布用量約為傳統伺服器的3倍至5倍；廠商又將裝置、資金等資源向薄布、低介電布等高附加值產品傾斜，使普通電子布供給也受到擠壓。” 從供給釋放節奏看，電子布市場偏緊狀態短期內仍將持續。（證券日報）"
-    },
-    {
-      "id": "mkt:01a0a253-a2b4-7118-8580-a50ca6c7ce4f",
-      "time": "2026-09-15 07:49:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Unidentified drone shot down after entering Lithuanian airspace】Lithuanian authorities said early on the 15th an unidentified drone that entered Lithuanian airspace was shot down by fighters on NATO Baltic Air Policing duty over southern Alytus district. Minutes after midnight the state fire-and-rescue service issued a yellow air threat alert covering Vilnius city, Vilnius district and Trakai district; the alert has since been lifted. Vilnius airport operations and nearby airspace were temporarily restricted. The State Emergency Management Centre said the drone was located near Trakai, NATO fighters were scrambled, and about 30 minutes later the device was reported destroyed. Lithuanian officials said the drone may have come from Belarus but have not disclosed its model, operator or motive."
-    },
-    {
-      "id": "te:economy:583633",
-      "time": "2026-09-15 07:49:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "US 10-Year Yield Holds Near 5% — The yield on the 10-Year US Treasury note held just below 5% on Tuesday after rising for four consecutive sessions, as elevated oil prices fueled inflation concerns ahead of an expected interest rate hike by the Federal Reserve this week. The benchmark yield is also approaching its highest levels since 2007. Oil prices resumed their climb as Saudi Arabia’s East-West pipeline remained shut, while Ukraine disputed President Trump’s claim that it had already reached an agreement with Russia to halt attacks on energy infrastructure. Meanwhile, markets are pricing in roughly a 92% probability of a 25-basis-point rate hike by the Fed on Wednesday, following hotter-than-expected inflation data last week. Long-term yields were also pushed higher by surging corporate debt issuance from AI companies, which has constrained capital allocation by primary dealers and other financial institutions."
-    },
-    {
-      "id": "5093992",
-      "time": "2026-09-15 07:48:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【供給剛性與算力需求共振 戰略小金屬迎價值重估】AI算力需求與供給剛性共振，疊加出口管制與戰略儲備加碼，戰略小金屬正迎來從“週期性資源”向“戰略性資產”的價值重估。近日，多個戰略小金屬價格呈上漲態勢。資料顯示，截至9月14日，銻（1^[#]）價格為10.51萬元/噸，較8月初累計上漲18.11%。鍺錠（≥50Ω·cm）最新價報1.92萬元/千克，較8月初累計漲幅為11.63%。此外，鉍、鉭等品種8月以來亦有不同程度上漲。"
     }
   ]
 }
