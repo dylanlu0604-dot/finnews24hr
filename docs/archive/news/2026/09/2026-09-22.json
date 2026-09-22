@@ -1,7 +1,100 @@
 {
   "date": "2026-09-22",
-  "count": 1070,
+  "count": 1080,
   "items": [
+    {
+      "id": "5106999",
+      "time": "2026-09-22 14:24:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股光通訊板塊尾盤再度走弱，中際旭創、新易盛、長飛光纖、天孚通訊、聯訊儀器、中興通訊集體走軟。"
+    },
+    {
+      "id": "5106998",
+      "time": "2026-09-22 14:24:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國債期貨拉昇 30年期主力合約漲0.3%】國債期貨拉昇，30年期主力合約盤中漲0.30%，現報117.080元。10年期漲0.09%，現報109.62元。5年期漲0.06%，現報106.585元。2年期漲0.02%，現報102.61元。"
+    },
+    {
+      "id": "5106997",
+      "time": "2026-09-22 14:23:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "AI雲初創公司VERDA在新一輪融資中籌集了1.89億美元。"
+    },
+    {
+      "id": "5106995",
+      "time": "2026-09-22 14:22:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度電信監管局釋出修訂後的電信消費者保護條例。"
+    },
+    {
+      "id": "5106994",
+      "time": "2026-09-22 14:22:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利最高法院廢除地方團結稅相關法規】匈牙利憲法法院裁定，針對財力雄厚地方政府徵收的一項稅種核心條款無效，這或將迫使政府改革這套為中央財政輸送數千億福林收入的制度。法院判決稱，這項所謂團結稅的核定與徵收方式違反憲法保障，地方政府無法透過司法途徑有效對納稅義務及稅額提出異議。相關條款將於12月31日失效，為立法者留出時間重新設計該制度。"
+    },
+    {
+      "id": "mkt:01a0c7c7-1e2b-7118-863a-ea60e60ecd0c",
+      "time": "2026-09-22 14:21:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Honor’s Fang Fei says Honor and Alibaba to co-develop five vertical models and solutions for next‑gen AI phones】Sept. 22 — Fang Fei, president of Honor’s product line, told the Alibaba Cloud forum that OS-level change will shift next‑decade terminals from app containers to platforms for intelligent agents. Honor and Alibaba will jointly build five vertical-domain models and solutions for next‑generation AI phones; Alibaba will supply foundational model capabilities while Honor provides system integration and real-user terminal scenarios. Honor said Magic9 will deeply integrate the jointly developed super-agent models and solutions, and the company will further partner with Alibaba and other software/hardware developers to build a terminal‑level agent ecosystem."
+    },
+    {
+      "id": "mkt:01a0c7c6-c923-7118-863a-e6f5849ae054",
+      "time": "2026-09-22 14:21:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "3690.HK",
+        "Impact bullish"
+      ],
+      "text": "【Meituan's Wang Puzhong: instant retail past toughest phase of demand cultivation and network build-out】Meituan's core local commerce CEO Wang Puzhong told the 2026 Meituan Instant Retail Industry Conference that instant retail has passed the most difficult phase of demand cultivation and network deployment; the next phase is a step change from the 'store-warehouse-delivery era' into the 'product era'."
+    },
+    {
+      "id": "mkt:01a0c7c6-3e76-7118-863a-dc2f7c90f150",
+      "time": "2026-09-22 14:20:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed up 25.4 points (+0.29%) at 8,757.30 on Tuesday, Sept. 22."
+    },
+    {
+      "id": "5106993",
+      "time": "2026-09-22 14:20:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美團王莆中：即時零售已跨過需求培養與網路鋪設的最難階段】9月22日，美團核心本地商業CEO王莆中在2026美團即時零售產業大會上表示，即時零售已跨過需求培養與網路鋪設的最難階段，下一站是從“店倉配時代”大踏步跨入“商品時代”。"
+    },
+    {
+      "id": "5106992",
+      "time": "2026-09-22 14:20:25",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【打新宇樹賺了100多億？雷軍回應】9月21日晚，雷軍在露營直播中回應了關於宇樹科技上市後其“打新賺翻”的說法。雷軍表示，投資宇樹的主體是順為資本，並非其個人出資。順為是宇樹A輪唯一投資方，他與創始人王興興相識十餘年。該筆投資屬於一級市場早期天使風險投資，並非二級市場打新套利。雷軍談及初衷，稱自己早年融資不易，二十年來一直推動國內天使投資，扶持初創青年，這也是小米與順為佈局產業鏈、生態鏈的一環。他呼籲媒體不要為流量製造話題，筆下留情。直播中，雷軍還回應了此前訪問宇樹科技，“腳踹機器人”的趣事。他稱踢機器人是創始人王興興提議的測試，並讚歎其平衡性出色。（介面新聞）"
+    },
     {
       "id": "5106990",
       "time": "2026-09-22 14:20:00",
