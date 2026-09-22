@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-22 14:28:28",
-  "count": 13319,
+  "updated": "2026-09-22 14:32:17",
+  "count": 13308,
   "items": [
+    {
+      "id": "mkt:01a0c7d0-258b-7118-863b-134b77b3891e",
+      "time": "2026-09-22 14:31:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "China's three major A-share indexes turned negative in late trade, with MLCC and lab-grown diamond sectors leading declines."
+    },
+    {
+      "id": "5107007",
+      "time": "2026-09-22 14:31:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日韓股市收盤】韓國KOSPI指數收盤上漲10.19點，漲幅0.15%，報7017.91點。日本股市繼續休市。"
+    },
+    {
+      "id": "5107006",
+      "time": "2026-09-22 14:31:21",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【A股三大指數尾盤全線翻綠，算力硬體股午後集體走軟】A股三大指數尾盤全線翻綠，創業板指早盤一度漲超2%。中際旭創、新易盛、中國巨石等算力硬體股午後集體走軟。"
+    },
+    {
+      "id": "mkt:01a0c7cf-c148-7118-863b-081e5d5cc34b",
+      "time": "2026-09-22 14:31:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI closed up 10.19 points (+0.15%) at 7,017.91 on Tuesday, Sept. 22."
+    },
+    {
+      "id": "5107004",
+      "time": "2026-09-22 14:28:43",
+      "tags": [
+        "宏觀",
+        "資料"
+      ],
+      "text": "【財政部：8月份全國共銷售彩票639.85億元，同比增加105.84億元，增長19.8%】財政部訊息，8月份，全國共銷售彩票639.85億元，同比增加105.84億元，增長19.8%，主要是足球世界盃對競猜型彩票銷量拉動作用仍在持續。其中，福利彩票機構銷售158.09億元，同比減少14.65億元，下降8.5%；體育彩票機構銷售481.76億元，同比增加120.49億元，增長33.4%。"
+    },
+    {
+      "id": "5107003",
+      "time": "2026-09-22 14:28:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月22日：“農產品批發價格200指數”比昨天上升0.08個點】據農業農村部監測，9月22日“農產品批發價格200指數”為116.57，比昨天上升0.08個點，“菜籃子”產品批發價格指數為117.19，比昨天上升0.09個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.44元/公斤，比昨天上升1.0%；牛肉71.55元/公斤，比昨天下降0.1%；羊肉66.57元/公斤，比昨天下降0.3%；雞蛋11.13元/公斤，比昨天下降0.4%；白條雞17.42元/公斤，比昨天上升0.6%。重點監測的28種蔬菜平均價格為4.55元/公斤，比昨天下降0.4%；重點監測的6種水果平均價格為6.63元/公斤，比昨天下降0.2%。鯽魚19.73元/公斤，比昨天下降0.9%；鯉魚13.91元/公斤，比昨天下降0.4%；白鰱魚10.01元/公斤，比昨天下降1.2%；大帶魚41.76元/公斤，比昨天下降0.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是蔥頭、大蔥、南瓜、冬瓜和西紅柿，幅度分別為3.8%、3.0%、2.1%、1.7%和1.7%；價格降幅前五名的是黃瓜、平菇、油菜、生菜和菠菜，幅度分別為3.4%、2.8%、2.3%、2.2%和2.2%。"
+    },
+    {
+      "id": "5107002",
+      "time": "2026-09-22 14:28:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中際旭創港股跌超3%】中際旭創港股跌3.04%，報1212.00港元。A股現跌超1.5%。"
+    },
     {
       "id": "te:markets:585506",
       "time": "2026-09-22 14:27:38",
@@ -121633,178 +121698,6 @@
         "Greater China"
       ],
       "text": "【Five new standards issued as China advances future-computing standardization】The State Administration for Market Regulation approved five national standardization guidance technical documents in brain-inspired and optoelectronic computing, including Brain-inspired Computing — Reference Architecture and Optoelectronic Computing — Optical Matrix Computing System Design Guide. The release marks significant progress in China’s future-computing standardization roadmap. The documents aim to bridge frontier research and industrial application, accelerate the shift from prototype to engineering deployment and scale-up, and support industrialization and commercialization of China’s future-computing technologies."
-    },
-    {
-      "id": "5094520",
-      "time": "2026-09-15 14:32:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃克森美孚高管稱，中東液化天然氣供應中斷將是短期現象。"
-    },
-    {
-      "id": "mkt:01a0a3c3-9990-7118-858b-bcb8b1a109ab",
-      "time": "2026-09-15 14:31:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Zhengzhou residential plot sold at 32.67% premium】On Sept. 15 Zhengzhou sold one residential land parcel in Erqi District. Planned GFA 148,105.7 sq m; plot ratio 2.9. Starting price 918 mln yuan, starting floor price 6,200 yuan/sq m. The site was won by Zhenghong Real Estate for 1.218 bln yuan, implying a transaction floor price of 8,226 yuan/sq m and a 32.67% premium over the start price."
-    },
-    {
-      "id": "5094519",
-      "time": "2026-09-15 14:31:33",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市集體收跌】日經225指數收跌0.01%，報63484.10點。韓國綜指收跌0.85%，報6627.24點。"
-    },
-    {
-      "id": "mkt:01a0a3c3-4c1d-7118-858b-b73a0f7e9647",
-      "time": "2026-09-15 14:31:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI closed down 57.13 points, or 0.85%, at 6,627.24 on Tuesday, Sept. 15."
-    },
-    {
-      "id": "5094518",
-      "time": "2026-09-15 14:31:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國日前基荷電力價格上漲7.3%，至187歐元/兆瓦時。"
-    },
-    {
-      "id": "mkt:01a0a3c2-d80e-7118-858b-aaaef9431805",
-      "time": "2026-09-15 14:30:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225"
-      ],
-      "text": "Japan's Nikkei 225 closed down 8.89 points (-0.01%) at 63,484.10 on Tuesday, Sept. 15."
-    },
-    {
-      "id": "mkt:01a0a3c2-b6e7-7118-858b-a75c93cf6d94",
-      "time": "2026-09-15 14:30:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary's Central Statistical Office said July unadjusted industrial production final reading rose 4.7% YoY, unchanged from the preliminary estimate."
-    },
-    {
-      "id": "5094517",
-      "time": "2026-09-15 14:30:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利統計局公佈：7月經最終統計的未調整工業產出同比增長4.7%，與初值持平。"
-    },
-    {
-      "id": "mkt:01a0a3c2-7608-7118-858b-9e5099d70639",
-      "time": "2026-09-15 14:30:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DAX",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "Germany's baseload power price for near-term delivery rose 7.3% to EUR187/MWh."
-    },
-    {
-      "id": "5094516",
-      "time": "2026-09-15 14:30:20",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【5項新標準釋出 我國未來計算標準化佈局取得重要進展】記者今天瞭解到，市場監管總局近日批准釋出《類腦計算 參考架構》《光電計算 光矩陣計算系統設計指南》等5項類腦計算和光電計算領域國家標準化指導性技術檔案，標誌著我國未來計算標準化佈局取得重要進展。傳統計算架構的效能和能效瓶頸日益凸顯，類腦、光電計算作為下一代計算正規化關鍵方向，迎來政策與產業疊加機遇，但技術路線尚處多元探索階段，亟須統一技術話語體系和評測標準。為此，全國智慧計算標準化工作組組織產學研協同攻關，推動制定系列指導性技術檔案，支撐前沿技術迭代與規模化應用。（央視新聞）"
-    },
-    {
-      "id": "te:markets:583737",
-      "time": "2026-09-15 14:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.20% Higher — The Nikkei 225 Index gained 130 points or 0.20 percent on Tuesday to close at 63623 points. Gains were led by Softbank (7.95%), Taiyo Yuden (4.82%) and Lasertec Corp (4.29%). Biggest losers were Furukawa Electric (-3.49%), Resona Holdings (-3.10%) and Nitori Holdings (-3.01%)."
-    },
-    {
-      "id": "5094515",
-      "time": "2026-09-15 14:30:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本自衛隊一無人偵察機失聯】據日本放送協會今天（9月15日）報道，據相關人士透露，日本航空自衛隊的一架大型無人偵察機“全球鷹”今天在鳥取縣近海海域失去通訊聯絡。目前，日本自衛隊正出動飛機和艦艇展開搜尋。（CCTV國際時訊）"
-    },
-    {
-      "id": "5094514",
-      "time": "2026-09-15 14:29:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鄭州1宗宅地溢價32.67%成交】9月15日，鄭州出讓1宗二七區宅地，規劃建築面積148105.7平方米，容積率2.9，起始價9.18億元，起始樓面價6200元/平方米。最終正弘置業以總價12.18億元競得該地塊，成交樓面價8226元/平方米，溢價率32.67%。"
-    },
-    {
-      "id": "5094513",
-      "time": "2026-09-15 14:29:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖北：今年新增轉貸規模超過497億元】湖北舉行“深化財政金融協同聯動 賦能科技創新和高質量發展”新聞釋出會。湖北省財政廳介紹，今年以來，已投放民間投資專項擔保計劃貸款123.3億元，惠及企業近2萬戶，位居全國前列。建立覆蓋全省的應急轉貸服務體系，應急轉貸紓困基金規模超過40億元，今年新增轉貸規模超過497億元，為超過4700家企業降低轉貸續貸成本約16.6億元。"
-    },
-    {
-      "id": "mkt:01a0a3c1-270b-7118-858b-96ef49bcf50c",
-      "time": "2026-09-15 14:28:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Russian forces strike Ukrainian logistics hub, Chornomorsk ships and western rail】The Russian Defence Ministry said on the 15th that early that morning Russian forces used drones to strike a logistics center in Ukraine's Odesa region that receives, stores and distributes military supplies, struck two supply vessels at Chornomorsk port, and continued strikes on western Ukrainian rail infrastructure used to transport military supplies from Europe."
-    },
-    {
-      "id": "5094512",
-      "time": "2026-09-15 14:28:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄軍打擊烏克蘭物流中心和港口】俄羅斯國防部15日在社交媒體通報說，當天凌晨，俄軍使用無人機對烏克蘭物流中心、港口和船隻實施打擊。通報說，俄軍打擊了烏克蘭敖德薩地區一處接收、儲存並分發軍事物資的物流中心，以及切爾諾莫斯克港兩艘運載供應烏軍物資的船隻。此外，俄方對烏克蘭西部的鐵路基礎設施繼續實施打擊，這些設施用來運輸來自歐洲的軍事物資。（央視新聞）"
-    },
-    {
-      "id": "5094511",
-      "time": "2026-09-15 14:28:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國電信等在江西成立低空科技公司 註冊資本6000萬】天眼查App顯示，近日，江西省智惠低空科技有限公司成立，法定代表人為李輝德，註冊資本6000萬人民幣，經營範圍包括通用航空服務、民用航空器維修、民用航空維修人員培訓等。股東資訊顯示，該公司由九江市工業發展集團有限公司、中電信無人科技（江蘇）有限公司共同持股。"
-    },
-    {
-      "id": "mkt:01a0a3c0-ac22-7118-858b-88a24de78b05",
-      "time": "2026-09-15 14:28:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【BANK OF JAPAN expected to hike this week; long-term JGB yields hit 30-year high】Long-term JGB yields climbed to a 30-year high as rising energy costs and an unresolved Middle East conflict lifted inflation concerns and the prospect of faster tightening by the BANK OF JAPAN. Investors are watching developments after Saudi Arabia began repairing a key oil pipeline closed following last week's drone attack. 10-year JGB yield rose 4.5bps to 3.030%, the highest since Sep 1996. The BANK OF JAPAN is expected to raise its policy rate later this week to address rising inflation risks."
     }
   ]
 }
