@@ -1,7 +1,65 @@
 {
-  "updated": "2026-09-22 14:51:24",
-  "count": 13291,
+  "updated": "2026-09-22 14:55:15",
+  "count": 13290,
   "items": [
+    {
+      "id": "5107063",
+      "time": "2026-09-22 14:54:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱，印度央行或正在開展美元兌盧比賣買互換操作以回收盧比流動性。"
+    },
+    {
+      "id": "5107062",
+      "time": "2026-09-22 14:53:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【凱文·凱利：未來十年AGI不會出現，空間智慧將成AI重要突破方向】9月21日，在長江商學院CEO專案20週年論壇上，美國《連線》雜誌創始主編、《失控》作者凱文·凱利給出約15個關於AI的預測。他認為，至少未來十年不會出現真正意義上的通用人工智慧（AGI）。在他看來，今天的AI正在快速進化，但這種進化並不均勻。“未來也不會只有一個通用AI，而是會出現許多不同型別的AI。”他更傾向於使用複數形式的“AIs”描述未來的人工智慧世界。其它預測還包括，未來五年，空間智慧將成為AI最重要的突破方向之一；未來99%的AI可能都是“隱形”的，它們不會直接與人交流，而是在後臺彼此協作，他尤其看好個人Agent與智慧眼鏡結合；他還認為，真正成熟、普遍可用的人形機器人仍需約十年；AI不會簡單“消滅工作”，而是重組工作；未來兩年，AI醫生會成為一個非常普遍的入口。凱文·凱利還談到了中國AI產業。他認為，中國開源模型發展較快，與美國在最前沿大模型能力上的差距已沒有那麼大。未來五年，中美最前沿模型的能力可能逐漸趨於收斂，但中國模型在成本方面可能具有優勢。在此基礎上，他還提出，未來大約四年，世界上最好的AI晶片可能在中國製造；到2030年，中國有可能製造出全球最好的自動駕駛汽車。"
+    },
+    {
+      "id": "5107061",
+      "time": "2026-09-22 14:52:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“涉嫌偽造檔案”，韓媒：韓國足協前主席鄭夢奎等人被移送檢方】據韓國KBS電視臺報道，因涉嫌在任命韓國隊前主教練洪明甫過程中製作虛假材料，使其獲聘程式看起來合法合規，韓國足協前主席鄭夢奎等人於9月22日被移送檢察機關。（環球網）"
+    },
+    {
+      "id": "5107058",
+      "time": "2026-09-22 14:52:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【標普：香港首個五年規劃為銀行保險業開闢新增長空間 】在香港特區政府9月16日公佈《香港第一個五年規劃》後，評級機構標普發表報告指出，香港的銀行和保險公司將在香港首個五年經濟發展規劃中覓得新的業務增長機會，涵蓋更深入地涉足中國內地市場、創新領域以及更復雜的風險解決方案。標普全球評級預計，這些更大的成長機會可能要求銀行和保險公司加強風險管理。標普全球評級信用分析師Will Hau表示，該行認為，香港促進增長和擴張性的政策目標將為銀行帶來機遇，使其能夠為科技創新、數字金融基礎設施、跨境貿易和綠色轉型等新興增長領域提供融資。"
+    },
+    {
+      "id": "5107057",
+      "time": "2026-09-22 14:51:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【截至今年8月 沿黃九省（區）發明專利有效量達91萬件】國家智慧財產權局今天（22日）在山東濟南召開專題釋出會，介紹智慧財產權助力黃河流域高質量發展有關情況。國家智慧財產權局新聞發言人衡付廣介紹，近年來，沿黃九省（區）充分發揮智慧財產權激勵創新和賦能高質量發展的重要作用，積極助力黃河流域走好綠色發展、創新發展之路。截至今年8月，沿黃九省（區）發明專利有效量和商標有效註冊量分別達到91萬件和1007.4萬件，“十四五”時期年均增速分別超過國內平均增速1.8和2.1個百分點。沿黃九省（區）地理標誌產品達1758個，以地理標誌作為集體商標和證明商標註冊2375件，總量均佔全國的1/3。（央視新聞）"
+    },
+    {
+      "id": "5107056",
+      "time": "2026-09-22 14:51:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際能源署：今年全球煤炭需求將創新高】國際能源署近期釋出的報告預測，今年全球煤炭需求將增長1.2%，達到創紀錄的89.4億噸。國際能源署的這份報告指出，霍爾木茲海峽運輸受阻雖未直接衝擊煤炭供應，卻使液化天然氣運輸量大幅減少，推高天然氣價格，這促使部分具備閒置煤電產能的國家增加燃煤發電。歐洲、日本、韓國等市場的煤炭使用量因此高於此前預期。此外，預計今年出現的強厄爾尼諾現象可能增加印度、越南等國的製冷需求，並減少水力發電量，進一步支撐煤炭消費。需求上升也推動國際煤炭價格走高。今年8月，紐卡斯爾6000千卡動力煤均價為每噸131美元，較2025年均價高出約26%。 （央視財經）"
+    },
+    {
+      "id": "5107055",
+      "time": "2026-09-22 14:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：與法國總統馬克龍會面】烏克蘭總統澤連斯基在社交媒體發文稱，與法國總統馬克龍會面，會談主要圍繞安全問題以及烏克蘭冬季援助一攬子方案展開。我們還準備利用歐盟貸款資金，為烏克蘭爭取更多 SAMP/T 防空系統及配套導彈。我們正繼續推進相關工作，爭取在烏克蘭本土生產上述防空系統與導彈，同時與合作伙伴落實 FREYJA 聯合反彈道導彈專案。我們預計今年就能看到首批成果。我們正竭盡所能加強本國民眾的安全防護。"
+    },
     {
       "id": "5107053",
       "time": "2026-09-22 14:50:27",
@@ -121443,84 +121501,6 @@
         "國際"
       ],
       "text": "【韓國股市週二連續第四日收跌，韓元走弱】受宏觀不確定性以及人工智慧行業領軍人物近期呼籲放緩行業發展節奏的影響，首爾股市週二連續第四個交易日收低，韓元兌美元匯率下跌。韓國綜合股價指數（KOSPI）下跌 57.11 點，跌幅 0.85%，報 6627.26 點。大信證券分析師李京敏表示：“雖然並未出現新的利空因素，但投資者對利率、國際油價進一步上漲等外部不確定性較為敏感。”美國 10 年期國債收益率突破 5% 後，國際基準布倫特原油上漲約 1.6%，升至每桶 107 美元上方。"
-    },
-    {
-      "id": "5094567",
-      "time": "2026-09-15 14:54:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：壁仞科技據稱正在初步摸底投資者意向；據悉公司考慮在10月鎖定期到期後，於港股出售股份。"
-    },
-    {
-      "id": "5094566",
-      "time": "2026-09-15 14:53:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 壁仞科技據稱考慮進行 10 億美元股權出售。"
-    },
-    {
-      "id": "te:economy:583755",
-      "time": "2026-09-15 14:53:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Romania Industrial Output Falls to Over 1-Year Low — Industrial production in Romania declined 6.1% year-on-year in July 2026, following a revised 5.1% drop in June and marking the sharpest fall since March 2025. Manufacturing output fell further (-7.2% vs -6.0%), with sharper declines in most subsectors, notably coke and refined petroleum products (-27.8% vs -21.6%), basic pharmaceutical products and pharmaceutical preparations (-26.2% vs -8.4%), other transport equipment (-28.3% vs -27.2%), computer, electronic and optical products (-20.3% vs 10.5%), chemicals and chemical products (-15.2% vs -14.3%), furniture (-12.4% vs -9.9%), and basic metals (-11.5% vs -5.7%). Meanwhile, output in mining and quarrying rebounded (1.2% vs -0.8%), while electricity, gas, steam and air conditioning supply contracted at a softer pace (-2.7% vs -3.0%). On a monthly basis, industrial output decreased 1.4%, after a revised 0.5% drop in June. In the January–July period, industrial production was 3.8% lower than a year earlier."
-    },
-    {
-      "id": "5094565",
-      "time": "2026-09-15 14:52:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊兌美元下跌0.3%至1.3464，跌破55日均線支撐位。"
-    },
-    {
-      "id": "5094564",
-      "time": "2026-09-15 14:52:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【突然，直線漲停！10倍大牛股，發生了什麼？】9月15日，A股PCB概念股集體走高。開盤僅1分鐘，華正新材直線封板；隨後，歐克科技、諾德股份等相繼漲停，宏和科技也一度漲停。自去年4月9日以來，華正新材股價累計漲幅超過10倍。市場分析人士指出，PCB概念股大漲與行業漲價預期升溫有關。目前，PCB廠商已陸續啟動重新報價，三季度有望成為產品價格、產能利用率與訂單結構同步改善的起漲點。隨著AI持續發展，高多層PCB與HDI需求旺盛，行業中長期景氣度較高。（券中社）"
-    },
-    {
-      "id": "mkt:01a0a3d6-9156-7118-858c-49dee8dc6b40",
-      "time": "2026-09-15 14:52:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "【A-share PCB stocks rally; Huazheng New Materials hits limit-up, >10x since Apr 9】Sept 15 — A-share PCB-related stocks rallied, led by Huazheng New Materials, which hit the daily limit within one minute of the open. Ouke Technology, Nuode Co. and Honghe Technology also reached limit-up. Huazheng New Materials' share price has risen over tenfold since April 9 last year. Analysts attributed the move to rising price-recovery expectations in the PCB sector: manufacturers have begun repricing, and Q3 could mark the start of simultaneous improvement in product prices, capacity utilization and order mix. Ongoing AI development is supporting robust demand for high-layer/multi-layer PCBs and HDI, keeping the sector’s medium-to-long-term outlook constructive."
-    },
-    {
-      "id": "5094563",
-      "time": "2026-09-15 14:51:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "AMSPEC農業資料顯示，馬來西亞9月1日至15日棕櫚油出口量預計為49.616萬噸，8月同期出口量為66.7257萬噸。"
-    },
-    {
-      "id": "te:economy:583754",
-      "time": "2026-09-15 14:51:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Saudi Arabia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Saudi Inflation Rate Unchanged for 4th Month — The annual inflation rate in Saudi Arabia stood at 1.8% in August 2026, unchanged from the previous three months and in line with market expectations. Prices mainly increased for transport (2.0% vs 1.4% in July), recreation, sport and culture (2.8% vs 2.4%), and personal care, social protection and miscellaneous (3.5% vs 2.9%). Inflation also continued to rise for food and beverages (1.4% vs 1.5%) and housing and utilities (3.9% vs 4.2%). On the other hand, costs declined at a faster pace for clothing and footwear (-0.5% vs -0.4%) and furnishings, household equipment and maintenance (-0.6% vs -0.5%). On a monthly basis, consumer prices grew by 0.1% in August, marking the softest rise since December and slowing from a 0.2% gain in the preceding period."
     }
   ]
 }
