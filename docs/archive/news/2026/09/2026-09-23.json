@@ -1,7 +1,56 @@
 {
   "date": "2026-09-23",
-  "count": 34,
+  "count": 40,
   "items": [
+    {
+      "id": "5108343",
+      "time": "2026-09-23 00:22:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果正開發新型健身追蹤器，旨在對標WHOOP】蘋果公司正在開發一款無螢幕的健康與健身追蹤器，類似於Whoop公司的腕戴裝置，此舉是其重新規劃智慧手錶產品線並增加新可穿戴技術的一部分。該公司已探索該領域數月，目前正開發原型機，該專案仍處於內部稱為“技術調查”的初步階段。這款潛在裝置採用配備感測器計算模組的纖細織物錶帶，已引起蘋果執行董事長蒂姆·庫克和服務主管埃迪·庫的興趣。"
+    },
+    {
+      "id": "5108342",
+      "time": "2026-09-23 00:22:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會正在審議的《確保霍爾木茲海峽和波斯灣安全與可持續發展的戰略行動》法案草案，其中明確規定對違規船隻處以最高貨物價值20%的罰款。"
+    },
+    {
+      "id": "5108341",
+      "time": "2026-09-23 00:21:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其、埃及、沙烏地阿拉伯、巴基斯坦外長髮表聯合宣告，對中東地區敵對行動深表關切。"
+    },
+    {
+      "id": "mkt:01a0c9ec-0e12-7118-864b-2936f5510ff3",
+      "time": "2026-09-23 00:21:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine reportedly airdrops suicide ground robots behind Russian lines】Newsweek on Sept. 21 cited Ukrainian military statements saying Ukraine airdropped suicide ground robots into Russian rear areas in northern Donetsk. Ukraine’s Third Corps said on Telegram on Sept. 20 it executed a flanking maneuver and carried out what it called the world’s first ground-robot deployment, claiming the robots — flown by heavy strike UAVs more than 10 km into enemy rear — “blinded” Russian drones via air-defence and electronic-warfare measures. Third Corps commander Brig. Gen. Andriy Biletsky said his unit was the first to airdrop the systems. The Russian Defence Ministry had no immediate comment; Newsweek said it had contacted the ministry."
+    },
+    {
+      "id": "mkt:01a0c9eb-fcee-7118-864b-221ccdcb1f76",
+      "time": "2026-09-23 00:21:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Foreign ministers of Turkey, Egypt, Saudi Arabia and Pakistan issued a joint statement expressing deep concern about hostile actions in the region."
+    },
+    {
+      "id": "5108340",
+      "time": "2026-09-23 00:20:43",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "蘋果正開發新型健身追蹤器，旨在對標WHOOP。"
+    },
     {
       "id": "5108339",
       "time": "2026-09-23 00:18:18",
