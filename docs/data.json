@@ -1,7 +1,148 @@
 {
-  "updated": "2026-09-22 23:55:38",
-  "count": 13290,
+  "updated": "2026-09-22 23:59:33",
+  "count": 13295,
   "items": [
+    {
+      "id": "mkt:01a0c9d7-17b2-7118-864a-b456be5c3274",
+      "time": "2026-09-22 23:58:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Turkey's President Erdogan urged all countries to step up pressure on Israel."
+    },
+    {
+      "id": "mkt:01a0c9d6-e5bd-7118-864a-a83189022ea7",
+      "time": "2026-09-22 23:58:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US two-year Treasury yield rose 0.9bp to 4.762% and touched an intraday two-year high of 4.7879%."
+    },
+    {
+      "id": "te:markets:585764",
+      "time": "2026-09-22 23:58:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Inch Higher — European stocks closed slightly higher on Tuesday, extending the sharp gains from the previous session with support from the tech sector and consumer staple companies. The Euro STOXX 50 rose 0.2% to 6,332 and the STOXX Europe 600 added 0.3% to 643.6. Companies in the AI space rose sharply, tracking similar movements in North America after positive reviews on Meta's Muse AI agent reignited long positions on electronic commerce and AI infrastructure. ASML, Infineon, and Siemens Energy gained up to 2.5% to set the pace on the hardware side, while Prosus jumped 4.6% on bullish applications sentiment. Further, Inditex added 3% on recommendation upgrades from brokers. In turn, banks and insurers pared yesterday's gains as sovereign yields in the Eurozone rebounded, tracking the afternoon increase in natural gas prices following escalatory rhetoric from US President Trump regarding Tehran. Allianz fell 3.4%, AXA dropped 2%, and ING and Deutsche Bank fell 1.5%."
+    },
+    {
+      "id": "5108324",
+      "time": "2026-09-22 23:57:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：加強北極和北大西洋地區的安全對歐洲和北美都至關重要。"
+    },
+    {
+      "id": "5108323",
+      "time": "2026-09-22 23:57:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美丹格陵蘭協議：美國行使准入權時必須尊重格陵蘭社會和格陵蘭生活方式。"
+    },
+    {
+      "id": "5108322",
+      "time": "2026-09-22 23:56:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：丹麥-美國-格陵蘭協議增強了集體安全，併為我們所有人創造一個更安全、更穩定的未來提供了支援。"
+    },
+    {
+      "id": "5108321",
+      "time": "2026-09-22 23:56:44",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "亞馬遜AWS獲北約首個受限雲認證，在15個北約成員國擁有區域資料中心。"
+    },
+    {
+      "id": "5108320",
+      "time": "2026-09-22 23:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：全球經濟增長保持韌性，但實際利率上升。"
+    },
+    {
+      "id": "5108319",
+      "time": "2026-09-22 23:56:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美丹格陵蘭協議：美國可在格陵蘭建立“金穹”防禦系統。"
+    },
+    {
+      "id": "5108318",
+      "time": "2026-09-22 23:55:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期美國國債收益率觸及兩年新高，報4.7879%；最新上漲0.9個基點，報4.762%。"
+    },
+    {
+      "id": "mkt:01a0c9d4-a789-7118-864a-a6f1b53c08cc",
+      "time": "2026-09-22 23:55:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fitch: Global economic growth remains intact, but real interest rates have risen."
+    },
+    {
+      "id": "5108317",
+      "time": "2026-09-22 23:55:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我們正繼續與俄烏雙方保持接觸，以保障黑海航行安全。"
+    },
+    {
+      "id": "5108316",
+      "time": "2026-09-22 23:55:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "美丹格陵蘭協議：非北約成員國不得在格陵蘭建立有人或無人軍事設施。"
+    },
+    {
+      "id": "5108315",
+      "time": "2026-09-22 23:55:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：黑海海域船隻遇襲事件無論由誰實施，都不可接受。"
+    },
+    {
+      "id": "5108314",
+      "time": "2026-09-22 23:55:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：美或在格陵蘭增設更多防禦設施，擴建皮圖菲克太空基地。"
+    },
     {
       "id": "mkt:01a0c9d3-f8e8-7118-864a-99e25b54d38e",
       "time": "2026-09-22 23:55:07",
@@ -121200,101 +121341,6 @@
         "US Economy"
       ],
       "text": "US Treasury Secretary Bessent said he believes the US has the necessary tools."
-    },
-    {
-      "id": "mkt:01a0a5cb-74e8-7118-859f-b0de95dfb00a",
-      "time": "2026-09-15 23:59:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the Treasury does not set an equilibrium price for yields."
-    },
-    {
-      "id": "5095813",
-      "time": "2026-09-15 23:59:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我相信我們擁有必要的工具。"
-    },
-    {
-      "id": "5095812",
-      "time": "2026-09-15 23:58:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我們不會為收益率水平設定均衡價格。"
-    },
-    {
-      "id": "5095811",
-      "time": "2026-09-15 23:58:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破105美元/桶，日內漲3.58%。"
-    },
-    {
-      "id": "te:markets:583943",
-      "time": "2026-09-15 23:58:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Crude Oil Hits 17-week High — Crude Oil increased to 104.98 USD/Bbl, the highest since May 2026. Over the past 4 weeks, Crude Oil gained 24.04%, and in the last 12 months, it increased 62.46%."
-    },
-    {
-      "id": "5095810",
-      "time": "2026-09-15 23:57:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【輸油管道遇襲後 沙特阿美據悉推遲向部分歐洲客戶供應石油】據知情人士透露，沙特阿美本月正推遲向部分歐洲客戶供應石油。就在幾天前，沙特一條關鍵的石油出口管道在遭到無人機襲擊後關閉。知情人士表示，目前尚未明確這些長期合同貨物將延遲多久。此次供應受阻凸顯出沙特這條管道關閉所造成的影響。在伊朗戰爭期間，這條管道一直是沙特將原油輸往全球市場的主要渠道。"
-    },
-    {
-      "id": "5095809",
-      "time": "2026-09-15 23:56:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 一名美國官員表示，美軍與海灣國家已開始安排油輪在海峽日間通行，不再像近幾個月那樣僅在夜間通行。"
-    },
-    {
-      "id": "5095808",
-      "time": "2026-09-15 23:55:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "房利美、房地美股價續跌，觸及盤中低點。"
-    },
-    {
-      "id": "mkt:01a0a5c8-1465-7118-859f-adcf9138fc94",
-      "time": "2026-09-15 23:55:48",
-      "tags": [
-        "MKT News",
-        "FNMA.O",
-        "Impact bearish",
-        "FMCC.O"
-      ],
-      "text": "Shares of Fannie Mae and Freddie Mac extended losses, hitting new intraday lows."
-    },
-    {
-      "id": "mkt:01a0a5c8-0340-7118-859f-a426f3c502d0",
-      "time": "2026-09-15 23:55:43",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Ukraine's foreign minister said Ukraine's maritime corridor must continue to operate safely and without interference, and that Russia must not be allowed to decide whether civilian vessels can freely navigate the Black Sea."
     }
   ]
 }
