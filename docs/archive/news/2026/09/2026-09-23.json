@@ -1,7 +1,40 @@
 {
   "date": "2026-09-23",
-  "count": 45,
+  "count": 48,
   "items": [
+    {
+      "id": "mkt:01a0c9f4-6dee-7118-864b-53d243b6c3d2",
+      "time": "2026-09-23 00:30:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AMZN.O",
+        "Impact bullish",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "ANTHROPIC has made Claude Opus 5.5 available on Amazon Web Services (AWS), Google Cloud and Microsoft Azure."
+    },
+    {
+      "id": "5108346",
+      "time": "2026-09-23 00:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：未經許可通行船隻處以貨物價值20%的罰款】伊朗議會安全委員會已批准新的霍爾木茲海峽規則，對未經許可通行的船隻處以相當於其貨物價值20%的罰款。違規船隻還可能面臨臨時扣押，直至罰款繳清。司法部門將設立專門的海事法庭分支以監督執行。"
+    },
+    {
+      "id": "mkt:01a0c9f1-a58b-7118-864b-48e579804d1c",
+      "time": "2026-09-23 00:27:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Fars News reports Iran's parliament is reviewing a draft law titled Strategic Action to Ensure Security and Sustainable Development of the Strait of Hormuz and the Persian Gulf that would allow fines on violating vessels of up to 20% of cargo value."
+    },
     {
       "id": "mkt:01a0c9ef-ac4d-7118-864b-431ca803dddd",
       "time": "2026-09-23 00:25:22",
