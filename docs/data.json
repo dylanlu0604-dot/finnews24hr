@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-23 03:56:26",
-  "count": 13408,
+  "updated": "2026-09-23 04:00:11",
+  "count": 13406,
   "items": [
+    {
+      "id": "5108552",
+      "time": "2026-09-23 03:58:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙礦商Abenojar Tungsten SA考慮英國IPO。"
+    },
     {
       "id": "mkt:01a0cab0-079c-7118-864f-e8c2faa14bc3",
       "time": "2026-09-23 03:55:28",
@@ -122267,35 +122275,6 @@
         "焦點"
       ],
       "text": "【美股收盤：三大股指集體收跌】道指跌0.61%，標普500指數跌0.45%，納指跌0.78%。Coinbase Global跌10.11%，Axon Enterprise跌9.83%，傑克亨利跌6.30%，墨式燒烤跌5.94%，Carvana Co.跌5.60%，Casey’跌5.55%。“七姐妹”方面：Meta Platforms漲0.68%，英偉達漲0.54%，蘋果跌0.52%，特斯拉跌0.67%，谷歌跌1.24%，微軟跌1.72%，亞馬遜跌2.01%。"
-    },
-    {
-      "id": "5095964",
-      "time": "2026-09-16 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.15%】閃送跌15.62%，NXTT跌13.26%，天演藥業跌8.87%，陸金所控股跌6.15%，晶科能源跌5.64%。"
-    },
-    {
-      "id": "mkt:01a0a6a7-ad3c-7118-85a3-6b5d66e41b80",
-      "time": "2026-09-16 04:00:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Court filings show the Trump administration has appealed a ruling that barred the EPA from submitting California vehicle emissions standards to Congress to seek their repeal."
-    },
-    {
-      "id": "5095963",
-      "time": "2026-09-16 03:59:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部：要求各州在派拉蒙案件中繳納19億美元保證金。"
     }
   ]
 }
