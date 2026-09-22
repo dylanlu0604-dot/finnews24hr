@@ -1,7 +1,110 @@
 {
   "date": "2026-09-23",
-  "count": 3,
+  "count": 14,
   "items": [
+    {
+      "id": "5108331",
+      "time": "2026-09-23 00:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級維持2026年布倫特油價假設為每桶87美元。"
+    },
+    {
+      "id": "mkt:01a0c9de-e748-7118-864a-e8686568a01a",
+      "time": "2026-09-23 00:07:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fitch raised its 2027 oil price forecast and lifted its TTF natural gas price forecasts for 2026-27."
+    },
+    {
+      "id": "te:markets:585776",
+      "time": "2026-09-23 00:07:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.16% Lower — The FTSE 100 Index dropped 17 points or 0.16 percent on Tuesday to close at 10722 points. Losses were led by Admiral (-3.39%), BT (-3.24%) and BAE Systems (-2.55%). Offsetting the fall, top gainers were Kingfisher (12.23%), Smiths (7.80%) and JD Sports Fashion (6.79%)."
+    },
+    {
+      "id": "5108330",
+      "time": "2026-09-23 00:05:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：日益嚴重的仇外心理、文化種族主義和反猶主義是必須堅決打擊的有害趨勢。"
+    },
+    {
+      "id": "mkt:01a0c9dd-a404-7118-864a-e01e814301da",
+      "time": "2026-09-23 00:05:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S.-Denmark-Greenland agreement must undergo requisite parliamentary procedures in the Kingdom of Denmark and in Greenland."
+    },
+    {
+      "id": "mkt:01a0c9dd-7b53-7118-864a-dee9607cbb51",
+      "time": "2026-09-23 00:05:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S., Denmark and Greenland agree to cooperate to counter espionage activities on Greenland."
+    },
+    {
+      "id": "mkt:01a0c9dd-576f-7118-864a-d0a68eb548c0",
+      "time": "2026-09-23 00:05:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US-Denmark-Greenland agreement: Denmark will continue to strengthen its security posture in the Arctic."
+    },
+    {
+      "id": "mkt:01a0c9dd-352b-7118-864a-caf537d5991e",
+      "time": "2026-09-23 00:05:12",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "US-Denmark-Greenland agreement allows the United States to modernize and expand operations at Pituffik Space Base in Greenland."
+    },
+    {
+      "id": "mkt:01a0c9dc-32d5-7118-864a-c6035a899f25",
+      "time": "2026-09-23 00:04:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Under a U.S.-Denmark-Greenland agreement, U.S. aircraft may operate and land anywhere on Greenland territory, including its territorial sea."
+    },
+    {
+      "id": "5108329",
+      "time": "2026-09-23 00:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "美丹格陵蘭協議：該協議須經丹麥王國與格陵蘭共同完成必要議會程式後方可生效。"
+    },
+    {
+      "id": "5108328",
+      "time": "2026-09-23 00:03:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級上調近期石油和歐洲天然氣價格預期。"
+    },
     {
       "id": "5108327",
       "time": "2026-09-23 00:02:30",
