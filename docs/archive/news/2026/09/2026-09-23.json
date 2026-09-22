@@ -1,7 +1,88 @@
 {
   "date": "2026-09-23",
-  "count": 375,
+  "count": 383,
   "items": [
+    {
+      "id": "mkt:01a0cabb-131b-7118-8650-197b4585936b",
+      "time": "2026-09-23 04:07:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said Canada will provide C$100 million in international assistance to the Palestinians."
+    },
+    {
+      "id": "mkt:01a0cab9-9d77-7118-8650-141451c559d4",
+      "time": "2026-09-23 04:05:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "U.S. equities on Sept 22: Dow Jones Industrial Average closed down 185.03 points (-0.36%) at 51,863.80; S&P 500 closed up 0.14 points (0.00%) at 7,764.84; Nasdaq Composite closed up 122.18 points (+0.45%) at 27,244.28."
+    },
+    {
+      "id": "mkt:01a0cab9-334d-7118-8650-0da2cb3c9bec",
+      "time": "2026-09-23 04:05:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) launched the sixth-generation Snapdragon 8 Elite Extreme and the sixth-generation Snapdragon 8 Elite mobile SoCs."
+    },
+    {
+      "id": "5108560",
+      "time": "2026-09-23 04:05:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【IonQ展示業界首個端到端實時量子糾錯解碼器】全棧量子平臺與代工廠IonQ宣佈，在容錯量子計算領域取得一項重大里程碑。研究人員展示了業界首個端到端實時量子糾錯解碼器的開發與成功測試，該解碼器執行在單個標準的現成中央處理器（CPU）上。IonQ量子研究主管、論文合著者Nicolas Delfosse表示：”成功驗證數百個邏輯量子位元和數百萬次邏輯操作上的實時解碼是一個重要的里程碑。此外，我們的解碼器執行在單個CPU上這一事實，為商業規模的容錯量子計算提供了一條切實可行的路徑。”"
+    },
+    {
+      "id": "5108559",
+      "time": "2026-09-23 04:04:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "Viking Therapeutics Inc.（VKTX）收漲36%，創2024年2月份以來最佳單日表現。"
+    },
+    {
+      "id": "5108558",
+      "time": "2026-09-23 04:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：人工智慧發展速度已經超出我們的管控能力。"
+    },
+    {
+      "id": "mkt:01a0cab7-db44-7118-8650-01e34be34c48",
+      "time": "2026-09-23 04:04:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "ECB Governing Council member Nagel said oil prices are not the only indicator but have become more relevant over the past four years."
+    },
+    {
+      "id": "mkt:01a0cab7-b8b3-7118-864f-fb90cef79b0b",
+      "time": "2026-09-23 04:03:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O"
+      ],
+      "text": "Market sources: Microsoft (MSFT.O) has agreed with an activist shareholder to maintain its current shareholder proposal eligibility thresholds through next year’s annual meeting, even as the U.S. SEC considers related rule changes."
+    },
     {
       "id": "5108557",
       "time": "2026-09-23 04:03:04",
