@@ -1,7 +1,53 @@
 {
-  "updated": "2026-09-23 06:28:49",
-  "count": 13415,
+  "updated": "2026-09-23 06:32:35",
+  "count": 13417,
   "items": [
+    {
+      "id": "mkt:01a0cb3f-15bf-7118-8651-e335ac9d83b5",
+      "time": "2026-09-23 06:31:44",
+      "tags": [
+        "MKT News",
+        "AMZN.O"
+      ],
+      "text": "Amazon Web Services (AWS): Amazon CloudWatch Omni now generally available; IDE extensions free."
+    },
+    {
+      "id": "te:markets:585813",
+      "time": "2026-09-23 06:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Surges by 6.46% — Top commodity gainer is Natural gas (6.46%). Biggest losers are Crude Oil (-2.97%), Methanol (-2.72%), Natural Gas EU (-2.62%) and Brent Oil (-1.86%)."
+    },
+    {
+      "id": "5108606",
+      "time": "2026-09-23 06:29:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報67.86美元/盎司。"
+    },
+    {
+      "id": "5108605",
+      "time": "2026-09-23 06:28:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技：Amazon CloudWatch Omni 現已全面可用，IDE 擴充套件免費。"
+    },
+    {
+      "id": "5108604",
+      "time": "2026-09-23 06:26:46",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【9月23日隔夜要聞一覽】\n1、當地時間9月22日，伊朗外長阿拉格齊與美國總統特使威特科夫在第81屆聯合國大會會議期間於紐約舉行會晤。\n2、美國芝加哥全球事務委員會21日公佈的調查報告顯示，57%的美國民眾支援對華友好合作。\n3、伊朗議會安全委員會已批准新的霍爾木茲海峽規則，對未經許可通行的船隻處以相當於其貨物價值20%的罰款。\n4、Anthropic推出Claude Opus 5.5，宣稱能以更低成本處理企業任務.\n5、OpenAI：推出 GPT-6 SOL 與 GPT-6 LUNA，API 價格較其GPT-5.6促銷定價下調50%。\n6、OpenAI計劃讓第三方機構在人工智慧(AI)模型開發週期的更早階段評估安全風險，此舉旨在繼續努力應對圍繞AI潛在危害的擔憂。\n7、蘋果公司正在開發一款無螢幕的健康與健身追蹤器，類似於Whoop公司的腕戴裝置。\n8、美聯儲巴爾金警告：通脹壓力消退需要時間，\n9、歐盟理事會當地時間22日釋出公報稱，當天歐盟將針對3000多個俄羅斯個人和實體的制裁措施再延長36個月，至2029年9月22日。"
+    },
     {
       "id": "mkt:01a0cb36-c05b-7118-8651-dbed1457939b",
       "time": "2026-09-23 06:22:38",
@@ -122394,35 +122440,6 @@
         "Impact bullish"
       ],
       "text": "【Trump administration officials meet Anthropic execs to discuss AI safety risks】Senior Trump administration officials met with Anthropic's Washington-based executives on Tuesday to discuss AI safety risks, sources said. Anthropic chief compute officer Tom Brown joined by video to speak with Pentagon CTO Emil Michael and Commerce Secretary Lutnick. The meeting follows a 3,800-word essay by Anthropic CEO Dario urging government regulation and a slowdown in development of advanced AI systems so researchers can better assess potential threats. Sources said Michael, who led Pentagon efforts to accelerate AI in the military, has publicly rejected former Anthropic researcher Coxson's claim that AI could kill all humanity; Lutnick is reportedly keen to rebut negative messaging ahead of the November midterm elections. Anthropic declined to comment and the White House did not respond."
-    },
-    {
-      "id": "mkt:01a0a733-251f-7118-85a4-bb7845ad4cb1",
-      "time": "2026-09-16 06:32:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ Assistant Governor Karen Silk will depart."
-    },
-    {
-      "id": "5096089",
-      "time": "2026-09-16 06:31:15",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 07:50 日本8月進出口與商品貿易帳，7月核心機械訂單；\n② 時間待定 香港特區公佈首個五年規劃；\n③ 14:00 英國8月CPI，“豆包手機”釋出並上市；\n④ 時間待定 歐盟與加拿大擬宣佈全新全方位夥伴關係；\n⑤ 16:00 歐洲央行副行長Vujcic在一個與地緣政治、貿易相關話題的央行年度研討會上講話；\n⑥ 17:00 歐元區7月工業產出；\n⑦ 20:30 美國8月零售銷售，進口/出口價格指數；\n⑧ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n⑨ 次日00:00 歐洲央行管委兼德國央行行長Nagel講話；\n⑩ 次日01:30 加拿大央行釋出會議紀要；\n⑪ 次日02:00 美聯儲釋出聯邦公開市場委員會（FOMC）利率決議宣告和經濟預期概要（SEP，含點陣圖）；\n⑫ 次日02:30 美聯儲主席沃什舉行新聞釋出會；\n⑬ 次日04:00 美國7月國際資本淨流動；\n⑭ 次日05:30 巴西央行公佈利率決議；\n⑮ 次日06:45 紐西蘭二季度GDP。"
-    },
-    {
-      "id": "te:markets:583981",
-      "time": "2026-09-16 06:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Heating Oil Surges by 5.88% — Top commodity gainers are Heating Oil (5.88%), Gasoline (4.62%), Crude Oil (3.99%) and Brent Oil (2.53%). Biggest losers are Germany Natural Gas THE (-3.13%), Natural Gas UK (-2.04%) and Methanol (-2.04%)."
     }
   ]
 }

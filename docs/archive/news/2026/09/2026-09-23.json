@@ -1,7 +1,53 @@
 {
   "date": "2026-09-23",
-  "count": 490,
+  "count": 495,
   "items": [
+    {
+      "id": "mkt:01a0cb3f-15bf-7118-8651-e335ac9d83b5",
+      "time": "2026-09-23 06:31:44",
+      "tags": [
+        "MKT News",
+        "AMZN.O"
+      ],
+      "text": "Amazon Web Services (AWS): Amazon CloudWatch Omni now generally available; IDE extensions free."
+    },
+    {
+      "id": "te:markets:585813",
+      "time": "2026-09-23 06:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Surges by 6.46% — Top commodity gainer is Natural gas (6.46%). Biggest losers are Crude Oil (-2.97%), Methanol (-2.72%), Natural Gas EU (-2.62%) and Brent Oil (-1.86%)."
+    },
+    {
+      "id": "5108606",
+      "time": "2026-09-23 06:29:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報67.86美元/盎司。"
+    },
+    {
+      "id": "5108605",
+      "time": "2026-09-23 06:28:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜雲科技：Amazon CloudWatch Omni 現已全面可用，IDE 擴充套件免費。"
+    },
+    {
+      "id": "5108604",
+      "time": "2026-09-23 06:26:46",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【9月23日隔夜要聞一覽】\n1、當地時間9月22日，伊朗外長阿拉格齊與美國總統特使威特科夫在第81屆聯合國大會會議期間於紐約舉行會晤。\n2、美國芝加哥全球事務委員會21日公佈的調查報告顯示，57%的美國民眾支援對華友好合作。\n3、伊朗議會安全委員會已批准新的霍爾木茲海峽規則，對未經許可通行的船隻處以相當於其貨物價值20%的罰款。\n4、Anthropic推出Claude Opus 5.5，宣稱能以更低成本處理企業任務.\n5、OpenAI：推出 GPT-6 SOL 與 GPT-6 LUNA，API 價格較其GPT-5.6促銷定價下調50%。\n6、OpenAI計劃讓第三方機構在人工智慧(AI)模型開發週期的更早階段評估安全風險，此舉旨在繼續努力應對圍繞AI潛在危害的擔憂。\n7、蘋果公司正在開發一款無螢幕的健康與健身追蹤器，類似於Whoop公司的腕戴裝置。\n8、美聯儲巴爾金警告：通脹壓力消退需要時間，\n9、歐盟理事會當地時間22日釋出公報稱，當天歐盟將針對3000多個俄羅斯個人和實體的制裁措施再延長36個月，至2029年9月22日。"
+    },
     {
       "id": "mkt:01a0cb36-c05b-7118-8651-dbed1457939b",
       "time": "2026-09-23 06:22:38",
