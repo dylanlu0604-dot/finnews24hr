@@ -1,7 +1,67 @@
 {
   "date": "2026-09-23",
-  "count": 62,
+  "count": 69,
   "items": [
+    {
+      "id": "5108362",
+      "time": "2026-09-23 00:45:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆：我已與特朗普建立良好關係。"
+    },
+    {
+      "id": "5108361",
+      "time": "2026-09-23 00:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普與英國首相伯納姆會晤。"
+    },
+    {
+      "id": "5108360",
+      "time": "2026-09-23 00:45:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆對特朗普表示：我們已準備好在中東發揮我們的作用。"
+    },
+    {
+      "id": "mkt:01a0ca01-de1b-7118-864b-752855ef3c72",
+      "time": "2026-09-23 00:45:15",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "DXY"
+      ],
+      "text": "UK Prime Minister Burnham says he has built a good relationship with US President Trump."
+    },
+    {
+      "id": "5108359",
+      "time": "2026-09-23 00:45:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已與伯納姆討論能源、移民及勞斯萊斯事宜。"
+    },
+    {
+      "id": "mkt:01a0ca01-bdc0-7118-864b-687072259cbe",
+      "time": "2026-09-23 00:45:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said British Prime Minister Burnham will become a great prime minister."
+    },
+    {
+      "id": "5108358",
+      "time": "2026-09-23 00:45:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伯納姆將成為一位出色的首相。"
+    },
     {
       "id": "5108357",
       "time": "2026-09-23 00:42:01",

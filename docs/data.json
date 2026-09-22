@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-23 00:42:50",
-  "count": 13301,
+  "updated": "2026-09-23 00:46:43",
+  "count": 13305,
   "items": [
+    {
+      "id": "5108362",
+      "time": "2026-09-23 00:45:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆：我已與特朗普建立良好關係。"
+    },
+    {
+      "id": "5108361",
+      "time": "2026-09-23 00:45:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普與英國首相伯納姆會晤。"
+    },
+    {
+      "id": "5108360",
+      "time": "2026-09-23 00:45:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆對特朗普表示：我們已準備好在中東發揮我們的作用。"
+    },
+    {
+      "id": "mkt:01a0ca01-de1b-7118-864b-752855ef3c72",
+      "time": "2026-09-23 00:45:15",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "DXY"
+      ],
+      "text": "UK Prime Minister Burnham says he has built a good relationship with US President Trump."
+    },
+    {
+      "id": "5108359",
+      "time": "2026-09-23 00:45:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已與伯納姆討論能源、移民及勞斯萊斯事宜。"
+    },
+    {
+      "id": "5108358",
+      "time": "2026-09-23 00:45:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伯納姆將成為一位出色的首相。"
+    },
+    {
+      "id": "mkt:01a0ca01-bdc0-7118-864b-687072259cbe",
+      "time": "2026-09-23 00:45:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said British Prime Minister Burnham will become a great prime minister."
+    },
     {
       "id": "5108357",
       "time": "2026-09-23 00:42:01",
@@ -121321,36 +121381,6 @@
         "Brent"
       ],
       "text": "Sources: Kyiv issued an air-raid alert citing a missile threat."
-    },
-    {
-      "id": "mkt:01a0a5f5-9c52-7118-85a0-9376107cedd4",
-      "time": "2026-09-16 00:45:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Massie files impeachment resolution against Defense Secretary Hegseth over Iran operations】Republican Representative Thomas Massie on Tuesday filed an impeachment resolution accusing Defense Secretary Hegseth of continuing U.S. military action against Iran without congressional authorization. The measure contains eight articles and also cites U.S. operations in Venezuela and Yemen. As a privileged resolution, Massie can force a House vote within a prescribed period, compelling Republicans to take a position on Hegseth's wartime conduct; passage is unlikely in a GOP-controlled Congress. The House has previously voted on measures to curb executive war powers on Iran and will again consider a War Powers resolution this week."
-    },
-    {
-      "id": "5095835",
-      "time": "2026-09-16 00:43:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破106美元/桶，日內漲4.55%。"
-    },
-    {
-      "id": "mkt:01a0a5f3-25bf-7118-85a0-89c0d3886752",
-      "time": "2026-09-16 00:42:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures rose 4.00% intraday to $105.97/bbl."
     }
   ]
 }
