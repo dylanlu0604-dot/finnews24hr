@@ -1,7 +1,53 @@
 {
-  "updated": "2026-09-22 15:11:10",
-  "count": 13259,
+  "updated": "2026-09-22 15:15:01",
+  "count": 13250,
   "items": [
+    {
+      "id": "5107113",
+      "time": "2026-09-22 15:13:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "贏創將在全球範圍內裁員3200人，其中包括德國的2150人。"
+    },
+    {
+      "id": "5107112",
+      "time": "2026-09-22 15:13:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【胡塞武裝警告：埃及、土耳其和巴基斯坦可能在下一階段成為（敵方）目標】據伊朗媒體報道，葉門胡塞武裝政治辦公室成員穆罕默德·法拉赫警告埃及、土耳其和巴基斯坦，稱存在一項旨在將這些國家拖入戰爭和內部衝突的計劃，而沙特在這一過程中發揮著作用。這種局面可能導致這些國家的實力遭到消耗，並造成其內部社會結構遭到削弱和分裂。他表示，敵人對伊朗的攻擊不會侷限於伊朗境內，下一步可能會將目標指向埃及、土耳其和巴基斯坦。因為這三個國家在伊斯蘭世界具有重要地位，其力量和影響力可能成為阻礙以色列政權相關計劃的一道屏障。"
+    },
+    {
+      "id": "5107111",
+      "time": "2026-09-22 15:13:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華能國際等成立新能源公司 含集中式快速充電站業務】企查查APP顯示，近日，江西華能普慧新能源有限責任公司成立，經營範圍包含：集中式快速充電站，節能管理服務，發電技術服務，太陽能發電技術服務等。企查查股權穿透顯示，該公司由華能國際等共同持股。"
+    },
+    {
+      "id": "te:economy:585538",
+      "time": "2026-09-22 15:13:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Turkey Consumer Confidence at Over 8-Year High — Turkey’s consumer confidence index rose to 91.9 in September 2026 from 90.8 in the previous month. It marked the highest reading since July 2018, as expectations for households’ financial situation over the next 12 months improved to 93.7 from 93.1, while confidence in the general economic outlook rose to 89.8 from 89.4. Consumers also showed a stronger willingness to make major purchases, with the index measuring intentions to spend on durable goods climbing to 108.8 from 105.1. On the other hand, assessments of current household finances edged down to 75.3 from 75.4. Despite the improvement in sentiment, the headline index remained below the neutral 100 mark, suggesting that consumers continued to hold a broadly pessimistic view of economic conditions."
+    },
+    {
+      "id": "5107110",
+      "time": "2026-09-22 15:12:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【豐田在美召回617輛雷克薩斯及豐田車型，轉向節開裂或致轉向失控】9月22日，美國國家公路交通安全管理局（NHTSA）釋出召回資訊，豐田汽車工程及製造公司將召回617輛部分2026款雷克薩斯TX350、RX350 Hybrid、RX350、RX500 Hybrid、TX500 Hybrid以及豐田Grand Highlander和Grand Highlander Hybrid車型。召回原因是製造過程中出現錯誤，導致車輛前轉向節可能發生開裂甚至斷裂，進而造成車輛轉向失控，增加發生碰撞的風險。"
+    },
     {
       "id": "5107109",
       "time": "2026-09-22 15:10:32",
@@ -121060,138 +121106,6 @@
         "市場"
       ],
       "text": "【國債期貨收盤】 30年期主力合約漲0.15%， 10年期主力合約漲0.08%， 5年期主力合約漲0.06%， 2年期主力合約漲0.02%。"
-    },
-    {
-      "id": "5094625",
-      "time": "2026-09-15 15:13:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯發科釋出天璣9600Pro旗艦晶片】聯發科釋出天璣9600Pro旗艦晶片，這是聯發科首款基於臺積電2nm製程打造的移動SoC，對比前代3nm方案效能提升14%，功耗下降23%，以AI原生架構重新設計整套SoC，將 CPU、GPU、NPU、ISP 等異構計算核心實現軟硬融合。"
-    },
-    {
-      "id": "mkt:01a0a3ea-36ef-7118-858d-435834451965",
-      "time": "2026-09-15 15:13:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Nigeria LNG (NLNG) said it expects to lift its force majeure once plant utilization reaches 95%."
-    },
-    {
-      "id": "te:economy:583763",
-      "time": "2026-09-15 15:13:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Poland 10Y Bond Yield Hits 3-1/2-year High — Poland 10 Year Government Bond Yield increased to 6.47%, the highest since March 2023. Over the past 4 weeks, Poland 10Y Bond Yield gained 54.50 basis points, and in the last 12 months, it increased 103.00 basis points."
-    },
-    {
-      "id": "mkt:01a0a3e9-ad25-7118-858d-394bf4241db0",
-      "time": "2026-09-15 15:13:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nigeria LNG (NLNG) said it has been under force majeure since 2022."
-    },
-    {
-      "id": "te:economy:583762",
-      "time": "2026-09-15 15:13:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Spain 10Y Bond Yield Hits 34-month High — Spain 10 Year Government Bond Yield increased to 4.04%, the highest since October 2023. Over the past 4 weeks, Spain 10Y Bond Yield gained 36.71 basis points, and in the last 12 months, it increased 78.40 basis points."
-    },
-    {
-      "id": "te:markets:583761",
-      "time": "2026-09-15 15:12:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Rio Tinto Stock Price Hits 4-week Low — Rio Tinto shares decreased to 7132.00 GBp, the lowest since August 2026. Over the past 4 weeks, Rio Tinto gained 0.2%, and in the last 12 months, it increased 53.56%."
-    },
-    {
-      "id": "5094624",
-      "time": "2026-09-15 15:12:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利富時MIB指數跌破51000點，日內跌1.26%。"
-    },
-    {
-      "id": "mkt:01a0a3e9-131c-7118-858d-35b69ce4247b",
-      "time": "2026-09-15 15:12:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Italy's FTSE MIB fell below 51,000 points, down 1.26% intraday."
-    },
-    {
-      "id": "mkt:01a0a3e9-1009-7118-858d-2d60237e8f64",
-      "time": "2026-09-15 15:12:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Nigeria LNG (NLNG) said its current utilization rate is 82-83%."
-    },
-    {
-      "id": "5094623",
-      "time": "2026-09-15 15:12:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "奈及利亞液化天然氣公司（NLNG）董事總經理表示：該公司自2022年宣佈不可抗力以來，目前仍處於不可抗力狀態。"
-    },
-    {
-      "id": "5094622",
-      "time": "2026-09-15 15:11:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗政府發言人：我們希望不必削減第一檔或第二檔燃油配額。此前僅對第二檔配額做過兩次調整：第一次是戰爭期間燃油儲備設施遭襲，配額從 100 升降至 70 升；第二次是戰後遭遇另一輪衝擊，配額由 70 升降至 50 升。我們希望無需再調整這些配額。"
-    },
-    {
-      "id": "5094621",
-      "time": "2026-09-15 15:11:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油日內漲2%，現報107.80美元/桶。"
-    },
-    {
-      "id": "5094620",
-      "time": "2026-09-15 15:11:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗政府發言人：如果國內日消費量維持在 1 億至 1.1 億升區間，燃油供給不存在問題，但當前實際消費量高於該數值。全國汽油日消費量約 1.4 億升，因此必須解決這部分缺口，相應地要保障燃油供應來源。"
-    },
-    {
-      "id": "5094619",
-      "time": "2026-09-15 15:11:23",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "伊朗方面報道：政府發言人表示，汽油價格相關調整一定會提前告知民眾，不會擅自出臺舉措。"
     }
   ]
 }
