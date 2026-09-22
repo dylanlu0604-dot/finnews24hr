@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-22 14:09:22",
-  "count": 13354,
+  "updated": "2026-09-22 14:13:18",
+  "count": 13350,
   "items": [
+    {
+      "id": "5106971",
+      "time": "2026-09-22 14:12:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年1-8月份中國鎢製品進出口資料】據中鎢線上整理海關總署資料，2026年1-8月份，中國鎢製品進口量（不含硬質合金刀具與滷鎢燈）累計為2.53萬噸，同比2025年1-8月份增長89.94%；累計進口金額為73.25億元，同比增長345.92%。中國鎢製品出口量（不含硬質合金刀具與滷鎢燈）累計為8063.74噸，同比2025年1-8月份減少25.01%；累計出口金額為104.62億元，同比增長208.84%。"
+    },
+    {
+      "id": "5106970",
+      "time": "2026-09-22 14:11:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【里昂：看好韓國半導體於Agentic AI供應鏈關鍵地位，予SK海力士“高度確信跑贏大市”評級】里昂發表研報指，代理式AI將大型AI模型的單次推理，轉變為每次任務需執行多輪的長期工具使用迴圈，對儲存器容量、頻寬及機架規模完整性構成壓力，遠超單純運算問題，因而需要高頻寬儲存器(HBM)、低功耗雙倍資料率(LPDDR)/小型壓縮附加儲存器模組(SOCAMM)、企業級固態硬碟(eSSD)/高頻寬快快閃記憶體儲器(HBF)、先進封裝、測試及前端微縮等配合。該行指，韓國在AI儲存器、鍵合、基板、測試及前端處理等關鍵AI半導體工序，擁有廣泛的端到端佈局。該行認為，在結構性Agentic AI需求及供應偏緊支援下，K-enablers基本面改善、定位加強，對SK海力士、三星電機及EO Technics均予“高度確信跑贏大市”評級，對三星電子、韓美半導體、HPSP Eugene及ISC則給予“跑贏大市”評級。"
+    },
+    {
+      "id": "5106969",
+      "time": "2026-09-22 14:11:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Microlise：下半年將繼續以進一步提升運營效率為目標，主要透過人員編制相關與非人員編制相關的降本實現。"
+    },
+    {
+      "id": "5106968",
+      "time": "2026-09-22 14:11:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【交易員：佈雷曼講話引發空頭回補，紐元兌美元上漲】交易員稱，紐西蘭儲備銀行行長安娜·佈雷曼表示，短期通脹水平或將高於該行9月貨幣政策宣告中的預期，受此言論影響，對沖基金削減空頭頭寸，紐元兌美元週二走高。紐元兌美元上漲0.55，報0.5745。"
+    },
+    {
+      "id": "5106967",
+      "time": "2026-09-22 14:10:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：轉融券標的板塊淨流出超160億】截至目前，今日主力資金淨流出175.72億；淨流入算力晶片、數字晶片設計、騰訊概念等板塊，其中算力晶片板塊淨流入63.76億；淨流出轉融券標的、融資融券、政府控股等板塊，其中轉融券標的板塊淨流出160.74億。\n  \n個股方面，兆易創新淨買入20.71億元位居首位，中國長城、長鑫科技、宏和科技主力資金淨流入居前；中材科技淨賣出9.35億元位居首位，華天科技、遠東股份、山東黃金淨流出額居前。"
+    },
+    {
+      "id": "5106966",
+      "time": "2026-09-22 14:09:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家石油天然氣管網集團有限公司東北分公司總會計師姜長豐接受紀律審查調查】據秦風網，國家石油天然氣管網集團有限公司東北分公司總會計師姜長豐涉嫌嚴重違紀違法，主動投案，目前正接受中央紀委國家監委駐國家管網集團紀檢監察組紀律審查和陝西省銅川市監察委員會監察調查。"
+    },
     {
       "id": "mkt:01a0c7ba-e85b-7118-863a-bdb62a6de058",
       "time": "2026-09-22 14:08:30",
@@ -111,6 +160,14 @@
         "國際"
       ],
       "text": "加拿大貿易部長：與菲律賓、東盟的自由貿易談判已完成90%以上，目標在11月達成協議。與菲律賓及東盟達成的貿易協定屬於多元化佈局，“並非針對某一特定國家”。"
+    },
+    {
+      "id": "5106956",
+      "time": "2026-09-22 14:02:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國上訴法院將前第一夫人金建熙的刑期從七年減至五年。"
     },
     {
       "id": "5106955",
@@ -122033,106 +122090,6 @@
         "Importance 2"
       ],
       "text": "European Stocks Set for Subdued Open — European equity markets were set to open little changed on Tuesday as cautious sentiment prevailed ahead of key central bank policy decisions this week. The US Federal Reserve and the Bank of Japan are widely expected to raise interest rates on Wednesday and Friday, respectively, while the Bank of England is expected to leave policy unchanged on Thursday. Traders also remained focused on rising oil prices, which added to inflationary pressures, while higher global bond yields further weighed on equity markets. In Europe, investors will monitor UK unemployment and German economic sentiment data, with no major earnings reports scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were hovering around the flatline."
-    },
-    {
-      "id": "5094471",
-      "time": "2026-09-15 14:13:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.9%，報8672.50點。"
-    },
-    {
-      "id": "5094470",
-      "time": "2026-09-15 14:13:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威統計局表示，預計2026年挪威本土GDP增速為1.4%，低於6月份的預測值1.7%。"
-    },
-    {
-      "id": "5094469",
-      "time": "2026-09-15 14:12:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "葛蘭素史克將支付預付款，收購TCE專案的全部全球權益。"
-    },
-    {
-      "id": "te:economy:583721",
-      "time": "2026-09-15 14:12:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Average Earnings Excluding Bonus",
-        "Importance 1"
-      ],
-      "text": "UK Regular Pay Growth Holds at 3.5% — UK regular pay, excluding bonuses, increased 3.5% year-on-year to GBP 705 per week in the three months to July 2026, maintaining the same pace as in the previous period and in line with market expectations. It remained the fastest annual growth since the three months to February, as public sector pay growth edged up to 6.3% from 6.2%, marking its strongest increase since the three months to December 2025. Meanwhile, private sector wage growth held steady at 2.9%, remaining at its slowest pace since the three months to October 2020. By industry, wages rose in wholesale, retail, hotels and restaurants (3.1%), manufacturing (2.9%), services (3.8%), finance and business services (2.7%), and construction (0.3%). After adjusting for inflation, real regular pay increased by 0.6%, unchanged from the previous period and marking its strongest growth since the three months to November 2025."
-    },
-    {
-      "id": "5094468",
-      "time": "2026-09-15 14:12:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "新臺幣兌美元下跌0.6%至31.880。"
-    },
-    {
-      "id": "mkt:01a0a3b1-83b0-7118-858a-d9760c0af8a5",
-      "time": "2026-09-15 14:11:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Reuters survey projects U.S. house prices to rise 1.5% in 2026 and 2.3% in 2027, versus 1.2% and 2.0% in a Q2 survey."
-    },
-    {
-      "id": "5094467",
-      "time": "2026-09-15 14:11:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【為搶首發適配，國內多家大廠開發人員進駐蘋果總部搞 iPhone Duo】蘋果首款摺疊 iPhone Duo 留給開發者適配時間很短，釋出會結束到發售僅六週視窗期。國內多家網際網路大廠已經派核心開發人員赴美進駐蘋果總部封閉開發。"
-    },
-    {
-      "id": "mkt:01a0a3b1-4328-7118-858a-d4940d009482",
-      "time": "2026-09-15 14:11:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS SURVEY shows respondents expect the US 30-year mortgage rate to average 6.43% in 2026, 6.40% in 2027 and 6.25% in 2028, versus 6.30%, 6.20% and 6.00% in the prior-quarter survey."
-    },
-    {
-      "id": "5094466",
-      "time": "2026-09-15 14:10:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：融資融券板塊淨流出超88億】截至目前，今日主力資金淨流出124.53億；淨流入半導體產業、PCB概念、儲存概念等板塊，其中半導體產業板塊淨流入64.44億；淨流出融資融券、轉融券標的、MSCI中國等板塊，其中融資融券板塊淨流出88.89億。\n  \n個股方面，通鼎互聯淨買入18.91億元位居首位，諾德股份、中國巨石、生益科技主力資金淨流入居前；寧德時代淨賣出20.08億元位居首位，中際旭創、新易盛、遠東股份淨流出額居前。"
-    },
-    {
-      "id": "5094465",
-      "time": "2026-09-15 14:09:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Blykalla與微軟達成人工智慧合作協議】9月15日，一份宣告顯示，瑞典核技術公司Blykalla與微軟簽署協議，將運用人工智慧技術解決許可和授權等行業瓶頸問題。"
-    },
-    {
-      "id": "te:economy:583720",
-      "time": "2026-09-15 14:09:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Non Farm Payrolls",
-        "Importance 1"
-      ],
-      "text": "UK Payroll Employment Drops Most in 9 Months — The number of payrolled employees in the UK dropped by 26 thousand, or 0.1%, to 30.2 million in August 2026, following a revised 19 thousand fall in the previous month. This marked the seventh straight monthly decline and the fastest pace since November 2025. Compared with a year earlier, employment fell by 0.5%, or 145 thousand. The wholesale and retail sector registered the biggest annual decrease in payroll employment, shedding 76 thousand jobs, while the administrative and support services sector posted the largest increase, adding 72 thousand employees. Across NUTS3 regions, Camden and the City of London experienced a 2% drop in payrolled employees, whereas Causeway Coast and Glens saw a 1.1% rise. Meanwhile, median monthly pay increased by 3.5% year-on-year to £2,657. The highest growth in median pay was recorded in the construction sector (+5.5%), while the education sector saw a decrease (-0.4%)."
     }
   ]
 }
