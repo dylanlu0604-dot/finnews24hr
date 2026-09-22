@@ -1,7 +1,107 @@
 {
   "date": "2026-09-22",
-  "count": 2168,
+  "count": 2180,
   "items": [
+    {
+      "id": "mkt:01a0c9d3-f8e8-7118-864a-99e25b54d38e",
+      "time": "2026-09-22 23:55:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President ERDOGAN said attacks on vessels in the Black Sea are unacceptable regardless of who carries them out."
+    },
+    {
+      "id": "5108313",
+      "time": "2026-09-22 23:54:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：我們真誠希望，在維護烏克蘭領土完整與主權完整的前提下，結束俄烏衝突。"
+    },
+    {
+      "id": "5108312",
+      "time": "2026-09-22 23:54:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美丹格陵蘭協議：以安全威脅為由，禁止北約、歐盟以外投資者進入敏感領域。"
+    },
+    {
+      "id": "5108311",
+      "time": "2026-09-22 23:54:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：美國或將在格陵蘭島設立更多防禦區。"
+    },
+    {
+      "id": "5108310",
+      "time": "2026-09-22 23:53:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "美丹格陵蘭協議：若格陵蘭獨立，須繼續留在北約並履行防務協議。"
+    },
+    {
+      "id": "mkt:01a0c9d2-0d98-7118-864a-93f0a294e784",
+      "time": "2026-09-22 23:53:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ERDOGAN: Turkey is working with all parties to try to end the conflict in the Gulf region."
+    },
+    {
+      "id": "5108309",
+      "time": "2026-09-22 23:52:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其總統埃爾多安：呼籲所有國家加大對以色列的施壓。"
+    },
+    {
+      "id": "5108308",
+      "time": "2026-09-22 23:52:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "美丹格陵蘭協議：若格陵蘭行使其權利獨立，丹麥與格陵蘭須共同確保獨立後的格陵蘭國同意留在北約，包括以申請加入北約的方式達成該安排。"
+    },
+    {
+      "id": "5108307",
+      "time": "2026-09-22 23:52:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：持續戰鬥對任何人都沒有好處。"
+    },
+    {
+      "id": "5108306",
+      "time": "2026-09-22 23:52:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：土耳其正與各方持續努力，以結束海灣衝突。"
+    },
+    {
+      "id": "5108305",
+      "time": "2026-09-22 23:51:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "倍耐力公司將對喬治亞羅馬工廠進行投資，到2033年該廠轎車輪胎產能將提升至600萬條。"
+    },
+    {
+      "id": "mkt:01a0c9d0-8c48-7118-864a-8e780d1ea346",
+      "time": "2026-09-22 23:51:22",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Paramount to launch $49bn debt sale after litigation clears】Bankers will begin marketing roughly $49bn of debt to back Paramount’s $110bn acquisition of Warner Bros. Discovery after litigation tied to the deal was settled, people familiar with the matter said. Bank of America, CITIGROUP and Apollo Global Management previously underwrote one of the largest leveraged buyout debt packages on record and drew strong investor interest before the deal was paused. With the transaction now cleared to close, bankers plan to start sales in the coming weeks. The financing package is split roughly into $30bn of investment-grade bonds, a $7.5bn investment-grade loan and about $12bn of subordinated bonds, with a broader investor target than a typical LBO, covering dollar and euro investors."
+    },
     {
       "id": "5108304",
       "time": "2026-09-22 23:50:52",
