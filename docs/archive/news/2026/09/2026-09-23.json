@@ -1,7 +1,59 @@
 {
   "date": "2026-09-23",
-  "count": 521,
+  "count": 527,
   "items": [
+    {
+      "id": "5108623",
+      "time": "2026-09-23 07:06:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技主題基金密集“上新”】截至9月22日，9月以來公募行業共申報196只基金，其中科技主題基金達37只，佔比接近兩成，且以被動指數型產品為主。僅9月16日至9月18日，易方達基金、華夏基金、華泰柏瑞基金、招商基金、博時基金、天弘基金、華寶基金等7家公募機構就集中上報了創業板算力基礎設施ETF（交易型開放式指數基金）及其聯接基金，覆蓋ETF與聯接基金兩類產品形態。除算力賽道外，科創板晶片設計、中證晶片產業、中證全指軟體、通訊裝置、科創創業人工智慧等細分方向也迎來多隻指數產品申報。（證券日報）"
+    },
+    {
+      "id": "5108622",
+      "time": "2026-09-23 07:06:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高通釋出智慧手機晶片】高通釋出智慧手機晶片Snapdragon 8 Elite Gen 6和Snapdragon 8 Elite Extreme Gen 6。"
+    },
+    {
+      "id": "te:economy:585818",
+      "time": "2026-09-23 07:05:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Global Composite Falls to 3-Month Low — Australia’s S&P Global Flash Composite PMI slipped to 50.8 in September 2026 from a final 52.7 in the previous month, marking the lowest reading since June. Still, the latest result was the fourth straight month of expansion in private-sector activity."
+    },
+    {
+      "id": "5108621",
+      "time": "2026-09-23 07:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年點心債發行規模創歷史新高】作為離岸人民幣債券的代表產品，今年以來點心債市場十分火熱。Wind資料顯示，截至9月22日，年內點心債共發行1726只，發行規模合計14481.5億元，超過2025年全年發行規模（14288.68億元），創下歷史新高。（證券日報）"
+    },
+    {
+      "id": "5108620",
+      "time": "2026-09-23 07:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列駐聯合國大使丹尼・達農：我們清楚伊朗領導人藏身何處，也掌握他們的動向。事實是，如果他們襲擊以色列，數日之內我們就能拿下他們。"
+    },
+    {
+      "id": "5108619",
+      "time": "2026-09-23 07:02:17",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞9月標普全球綜合PMI初值 50.8，前值52.7。\n澳大利亞9月標普全球製造業PMI初值 49.3，前值52。\n澳大利亞9月標普全球服務業PMI初值 51.4，前值53.2。"
+    },
     {
       "id": "mkt:01a0cb5a-fbb5-7118-8652-309cf2b29cb3",
       "time": "2026-09-23 07:02:12",
