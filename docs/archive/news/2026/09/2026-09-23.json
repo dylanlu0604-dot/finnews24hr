@@ -1,7 +1,1714 @@
 {
   "date": "2026-09-23",
-  "count": 118,
+  "count": 309,
   "items": [
+    {
+      "id": "mkt:01a0ca8d-9af2-7118-864f-06a5bb131efe",
+      "time": "2026-09-23 03:17:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said on the \"Shield of the Americas\" that the United States must control its own energy pipelines."
+    },
+    {
+      "id": "5108522",
+      "time": "2026-09-23 03:17:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏克蘭與歐盟工作組將協作加快歐盟資金撥付。"
+    },
+    {
+      "id": "mkt:01a0ca8d-20dd-7118-864e-fcba4031a053",
+      "time": "2026-09-23 03:17:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's king attended a meeting hosted by US President Trump with Arab and Islamic leaders on the sidelines of the United Nations General Assembly."
+    },
+    {
+      "id": "5108521",
+      "time": "2026-09-23 03:17:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與歐盟委員會主席馮德萊恩及國際貨幣基金組織總裁討論了資金缺口問題。"
+    },
+    {
+      "id": "5108520",
+      "time": "2026-09-23 03:16:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦王宮：約旦國王出席特朗普在聯合國大會期間主辦的阿拉伯及伊斯蘭國家領導人會議。"
+    },
+    {
+      "id": "mkt:01a0ca8c-48b6-7118-864e-f42eeb69da39",
+      "time": "2026-09-23 03:16:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump demanded that all participants in Operation Shield of the Americas formally designate \"drug terrorists\" and impose sanctions."
+    },
+    {
+      "id": "5108519",
+      "time": "2026-09-23 03:15:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門政府軍稱打死打傷數十名胡塞武裝人員】亞丁訊息：葉門政府地方官員22日說，葉門政府軍與胡塞武裝當天在西南部塔伊茲省再次發生激烈交戰，造成至少16人死亡、數十人受傷。 葉門塔伊茲省西部沙馬亞塔因區區長阿卜杜勒阿齊茲·謝巴尼告訴新華社記者，政府軍當天在該地區擊退胡塞武裝的一次進攻，打死12名胡塞武裝人員，另外打傷數十人。交戰期間，政府軍還俘獲兩名胡塞武裝人員。 謝巴尼說，政府軍方面有4名士兵在交戰中身亡，另有數人受傷。交戰後，政府軍將胡塞武裝逐出沙馬亞塔因的一處關鍵區域。 此外，葉門政府軍發言人馬吉德·努扎伊利當天在社交媒體發表宣告說，政府軍空襲了塔伊茲省紅海港口城市穆哈以及葉門中部貝達省的胡塞武裝軍事裝備和人員。 另據胡塞武裝當天在該組織控制的馬西拉電視臺發表宣告說，該組織近期在葉門西部沿海地區，特別是塔伊茲省西南部和荷臺達省西部開展的軍事行動，已造成超過600名政府軍人員死傷、數百名政府軍人員被俘。胡塞武裝繳獲大量輕型、中型和重型武器。(新華社)"
+    },
+    {
+      "id": "5108518",
+      "time": "2026-09-23 03:15:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及美洲之盾：要求該聯盟所有成員國正式認定 “毒品恐怖分子” 並實施制裁。"
+    },
+    {
+      "id": "5108517",
+      "time": "2026-09-23 03:14:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏克蘭需要額外資金採購無人機與攔截裝備。"
+    },
+    {
+      "id": "mkt:01a0ca8a-4e3e-7118-864e-edd3eccfe58a",
+      "time": "2026-09-23 03:14:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Witkoff and Kushner met with Iranian counterparts and had many good ideas."
+    },
+    {
+      "id": "mkt:01a0ca89-7b88-7118-864e-e3693efdab79",
+      "time": "2026-09-23 03:13:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump said a U.S. Middle East envoy and Jared Kushner met with mediators on an Iran agreement."
+    },
+    {
+      "id": "5108516",
+      "time": "2026-09-23 03:13:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：維特科夫和庫什納會見了伊朗方面，有很多不錯的想法。"
+    },
+    {
+      "id": "mkt:01a0ca88-ca51-7118-864e-dcd6e91e69f1",
+      "time": "2026-09-23 03:12:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures rose more than 5% after production declined and LNG exports increased."
+    },
+    {
+      "id": "5108514",
+      "time": "2026-09-23 03:12:28",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "特朗普：庫什納和維特科夫會見了伊朗調解人。"
+    },
+    {
+      "id": "mkt:01a0ca88-3f99-7118-864e-d7975ae52910",
+      "time": "2026-09-23 03:12:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian President Zelenskiy said the risk is high that Russia will launch drone or ground operations against other European countries."
+    },
+    {
+      "id": "5108513",
+      "time": "2026-09-23 03:11:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：俄羅斯對歐洲其他國家發動無人機或地面行動的風險很高。"
+    },
+    {
+      "id": "5108512",
+      "time": "2026-09-23 03:11:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨延續漲勢，因產量下降與LNG出口流量上升，價格漲幅超5%。"
+    },
+    {
+      "id": "mkt:01a0ca86-73b0-7118-864e-cd3f4ee04ac2",
+      "time": "2026-09-23 03:10:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Ukrainian President Zelenskiy said Putin has not won on the battlefield."
+    },
+    {
+      "id": "5108511",
+      "time": "2026-09-23 03:08:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：普京在戰場上並未取得勝利。"
+    },
+    {
+      "id": "mkt:01a0ca85-178d-7118-864e-c47e05926303",
+      "time": "2026-09-23 03:08:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian President ZELENSKIY said if Putin refuses to de-escalate, Ukraine hopes Trump will invoke Senator Lindsey Graham's bill."
+    },
+    {
+      "id": "5108510",
+      "time": "2026-09-23 03:08:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：特朗普對向烏克蘭授予愛國者防空系統生產許可一事持積極態度。"
+    },
+    {
+      "id": "5108509",
+      "time": "2026-09-23 03:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：如果普京拒絕緩和局勢，烏克蘭希望特朗普動用《林賽・格雷厄姆法案》。"
+    },
+    {
+      "id": "mkt:01a0ca84-654d-7118-864e-bff9a91dc7da",
+      "time": "2026-09-23 03:07:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Zelenskiy reiterated that an energy ceasefire would be the first step toward ending the war."
+    },
+    {
+      "id": "mkt:01a0ca84-60fb-7118-864e-b2a7f5efa704",
+      "time": "2026-09-23 03:07:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said that in his meeting with Trump, Trump did not ask Ukraine to unilaterally stop strikes on energy infrastructure."
+    },
+    {
+      "id": "5108508",
+      "time": "2026-09-23 03:07:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏克蘭或將於 1 至 1.5 年內開始生產愛國者防空系統。"
+    },
+    {
+      "id": "5108507",
+      "time": "2026-09-23 03:07:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 能源領域停火將是結束這場戰爭的第一步。"
+    },
+    {
+      "id": "5108506",
+      "time": "2026-09-23 03:05:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：特朗普並未要求烏克蘭單方面停火。"
+    },
+    {
+      "id": "mkt:01a0ca81-6542-7118-864e-aca3e127aee2",
+      "time": "2026-09-23 03:04:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures rose 0.31% in the night session to 25,133, trading 45 points above the cash index."
+    },
+    {
+      "id": "mkt:01a0ca80-b97b-7118-864e-a12ca3e62bda",
+      "time": "2026-09-23 03:03:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "N12 reports Prime Minister Netanyahu will be in New York for several hours on Thursday, with no major meetings scheduled."
+    },
+    {
+      "id": "5108505",
+      "time": "2026-09-23 03:03:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超5.00%，現報3.143美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:01a0ca7f-d029-7118-864e-98b05df40ccd",
+      "time": "2026-09-23 03:02:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy reiterated he is prepared to meet President Putin in a trilateral meeting involving Trump."
+    },
+    {
+      "id": "5108504",
+      "time": "2026-09-23 03:02:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：重申願與普京在特朗普參與的三方框架下舉行會晤。"
+    },
+    {
+      "id": "mkt:01a0ca7f-6ec8-7118-864e-91ba266a868a",
+      "time": "2026-09-23 03:02:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Sources said the U.S. held a pre-arranged meeting with an Iranian delegation led by Iranian foreign minister Araghchi, attended by the Qatari prime minister. They discussed restarting negotiations and reopening the Strait of Hormuz but reached no agreement on disputed issues."
+    },
+    {
+      "id": "5108503",
+      "time": "2026-09-23 03:01:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：訊息人士稱，美國代表與伊朗外長阿拉格齊率領的伊朗代表團的會晤是事先計劃好的；卡達首相參加了大部分會談。"
+    },
+    {
+      "id": "mkt:01a0ca7e-bfb0-7118-864e-8efab03b03dd",
+      "time": "2026-09-23 03:01:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Sources say the meeting between a U.S. representative and an Iranian delegation led by Foreign Minister Araghchi was pre-arranged; the Qatari prime minister attended most of the talks."
+    },
+    {
+      "id": "mkt:01a0ca7d-ad5c-7118-864e-836fa418bfa0",
+      "time": "2026-09-23 03:00:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says Ukraine needs authorization to use Patriot missiles and security guarantees."
+    },
+    {
+      "id": "5108502",
+      "time": "2026-09-23 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.29%，報25124.75點，高水37.00點。"
+    },
+    {
+      "id": "5108501",
+      "time": "2026-09-23 02:59:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，烏克蘭需要獲得“愛國者”防空系統的生產許可，並得到安全保障。"
+    },
+    {
+      "id": "5108500",
+      "time": "2026-09-23 02:58:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，特朗普對向烏克蘭發放“愛國者”導彈生產許可持積極態度。"
+    },
+    {
+      "id": "mkt:01a0ca7b-5942-7118-864e-7c29f585014c",
+      "time": "2026-09-23 02:57:56",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "Ukrainian President Zelenskiy said he discussed winter preparedness with U.S. President Trump and requested winterization kits for Patriot air‑defence systems."
+    },
+    {
+      "id": "5108499",
+      "time": "2026-09-23 02:57:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，烏克蘭向美方尋求“愛國者”導彈以應對冬季能源設施防禦需求。"
+    },
+    {
+      "id": "mkt:01a0ca7b-1378-7118-864e-756754c41c8d",
+      "time": "2026-09-23 02:57:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he hopes the US can find a way to get Russia to participate in any form of talks."
+    },
+    {
+      "id": "mkt:01a0ca7a-ed54-7118-864e-6e645dc1e6cf",
+      "time": "2026-09-23 02:57:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine is prepared to accept any form of an energy ceasefire."
+    },
+    {
+      "id": "mkt:01a0ca7a-919a-7118-864e-60718f7715a8",
+      "time": "2026-09-23 02:57:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's President Zelenskiy said he discussed an energy ceasefire and ways to end the war with U.S. President Trump."
+    },
+    {
+      "id": "5108498",
+      "time": "2026-09-23 02:57:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，希望美國能找到辦法推動俄羅斯參與任何形式的談判。"
+    },
+    {
+      "id": "5108497",
+      "time": "2026-09-23 02:56:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預測，9月巴西玉米出口量將達到597萬噸，高於前一週預估的574萬噸。"
+    },
+    {
+      "id": "5108496",
+      "time": "2026-09-23 02:56:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）資料顯示，9月巴西豆粕出口預計將達到222萬噸，此前一週預期為224萬噸。"
+    },
+    {
+      "id": "5108495",
+      "time": "2026-09-23 02:56:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，不確定俄羅斯是否準備好走向和平。"
+    },
+    {
+      "id": "5108494",
+      "time": "2026-09-23 02:55:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，若俄羅斯停止襲擊烏克蘭能源設施，烏方準備停火。"
+    },
+    {
+      "id": "5108493",
+      "time": "2026-09-23 02:55:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，烏克蘭已準備好接受任何形式的能源停火安排。"
+    },
+    {
+      "id": "5108492",
+      "time": "2026-09-23 02:55:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，他與特朗普討論了能源領域停火以及如何結束衝突的問題。"
+    },
+    {
+      "id": "mkt:01a0ca76-b384-7118-864e-5f58d0560049",
+      "time": "2026-09-23 02:52:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News cited a senior Iranian security source saying Iran is prepared to respond to all wartime scenarios."
+    },
+    {
+      "id": "mkt:01a0ca75-a514-7118-864e-56d72a46110a",
+      "time": "2026-09-23 02:51:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump says he has urged advisers to approve a diesel export ban】Trump said he has urged advisers to approve a diesel export ban as diesel prices have surged amid pressures linked to Iran and the Ukraine conflict. Treasury Secretary Bessent said officials are assessing feasibility given overall refining capacity and whether a full or partial ban would be effective. Trump made the remarks during a meeting with Ukrainian President Zelenskiy at the UNGA and said he has urged Zelenskiy to curb strikes on Russian energy infrastructure."
+    },
+    {
+      "id": "te:markets:585797",
+      "time": "2026-09-23 02:51:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Copper Hits All-time High — Copper increased to an all-time high of 6.83 USD/Lbs. Over the past 4 weeks, Copper gained 3.21%, and in the last 12 months, it increased 48.7%."
+    },
+    {
+      "id": "5108491",
+      "time": "2026-09-23 02:50:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員回應特朗普言論：若遭敵方侵略，我們已做好局勢升級的準備。"
+    },
+    {
+      "id": "mkt:01a0ca72-7fb9-7118-864e-4ae50d4f45ac",
+      "time": "2026-09-23 02:48:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【Houthi rebels say Saudi jets struck multiple provinces, report casualties】Yemeni Houthi rebels said on the evening of the 22nd that Saudi F-15s and Typhoon jets carried out 19 airstrikes in the past 24 hours on Houthi-held areas, striking targets in Taiz, al-Jawf and Ma'rib provinces and causing casualties, including women and children. The group said Saudi forces have carried out 936 air and missile strikes on Yemen since the recent escalation; Saudi authorities had no immediate comment."
+    },
+    {
+      "id": "5108490",
+      "time": "2026-09-23 02:47:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱多地遭沙特空襲 致人員傷亡】葉門胡塞武裝當地時間22日晚表示，在過去24小時內，沙特的F-15戰機和“颱風”戰機共對胡塞武裝控制區進行了19次空襲，襲擊目標是葉門塔伊茲省，焦夫省和馬裡卜省，造成包括婦女和兒童在內的人員傷亡。胡塞武裝方面稱，本輪局勢升級後，沙特已對葉門共進行了936次空襲和導彈襲擊。沙特方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5108489",
+      "time": "2026-09-23 02:44:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶99.25美元，下跌1.09美元，跌幅1.09%。"
+    },
+    {
+      "id": "5108488",
+      "time": "2026-09-23 02:41:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：將不遺餘力推動俄烏儘快展開有效談判，呼籲加強對烏克蘭能源領域防護及提供更多攔截器，支援實施雙重暫停（暫停對能源及平民基礎設施的打擊、暫停黑海軍事行動）以保障糧食運輸安全。"
+    },
+    {
+      "id": "mkt:01a0ca69-d318-7118-864e-41f8edf1a43b",
+      "time": "2026-09-23 02:38:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said the so-called 'peace' in Gaza has not opened any humanitarian corridors and called it a shameful charade that shames everyone."
+    },
+    {
+      "id": "5108487",
+      "time": "2026-09-23 02:38:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI將讓第三方機構更早介入AI模型安全評估】OpenAI計劃讓第三方機構在人工智慧(AI)模型開發週期的更早階段評估安全風險，此舉旨在繼續努力應對圍繞AI潛在危害的擔憂。這家ChatGPT開發商週二將在部落格文章中宣佈，計劃在新AI模型的訓練、評估和推出過程中，讓外部機構開展技術安全評估。OpenAI還列出了其認為此類評估要有效開展所需優先關注的事項，包括“強有力的獨立機制、科學嚴謹性、穩健的安全實踐和明確的責任”。"
+    },
+    {
+      "id": "5108486",
+      "time": "2026-09-23 02:38:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍稱，加沙所謂的和平是一場讓我們所有人蒙羞的鬧劇。"
+    },
+    {
+      "id": "5108485",
+      "time": "2026-09-23 02:37:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：加沙所謂的和平並未開啟任何人道主義走廊。"
+    },
+    {
+      "id": "mkt:01a0ca68-7bb4-7118-864e-3e5c647f23e2",
+      "time": "2026-09-23 02:37:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI to allow external groups to assess AI models earlier in development】OpenAI said on Tuesday it will allow external organizations to conduct technical safety assessments earlier in the development cycle of new AI models, including during training, evaluation and rollout. The company said reviews will be governed by strong independence mechanisms, scientific rigor, robust safety measures and clear accountability; Lama Ahmad, who oversees OpenAI’s external safety reviews, said the firm previously typically invited such groups before model release but will now extend scrutiny to higher-risk stages such as training and evaluation as risks rise."
+    },
+    {
+      "id": "mkt:01a0ca65-3438-7118-864e-33bedbfaff3a",
+      "time": "2026-09-23 02:33:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "After meeting IMF chief Georgieva, Zelensky said the IMF will help Ukraine raise part of next year’s funding."
+    },
+    {
+      "id": "5108484",
+      "time": "2026-09-23 02:33:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "皇家加勒比郵輪股價放量下跌，最新下跌4.7%，報238.44美元。"
+    },
+    {
+      "id": "5108483",
+      "time": "2026-09-23 02:33:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：戰爭罪行已實現工業化，我們目睹了平民基礎設施的毀滅與人權侵犯，這是一個野蠻行徑的新時代。"
+    },
+    {
+      "id": "mkt:01a0ca64-435d-7118-864e-2a0604a34f5a",
+      "time": "2026-09-23 02:32:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, SHFE gold main contract rose 0.36 pct to 941 yuan/gram; SHFE silver main contract rose 1.14 pct to 16,273 yuan/kg; Shanghai crude (SC) main contract fell 3.11 pct to 695 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a0ca64-236c-7118-864e-21df5f6408dc",
+      "time": "2026-09-23 02:32:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.5% at 940.0 yuan/gram in the evening session on Sept 22 (Tuesday); silver T+D closed up 1.62% at 16,278.0 yuan/kg."
+    },
+    {
+      "id": "5108482",
+      "time": "2026-09-23 02:30:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶94.59美元，下跌1.19美元，跌幅1.24%。"
+    },
+    {
+      "id": "5108481",
+      "time": "2026-09-23 02:30:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基在會見國際貨幣基金組織(IMF)總裁格奧爾基耶娃後表示，IMF將幫助烏克蘭籌集明年的部分資金。"
+    },
+    {
+      "id": "te:markets:585796",
+      "time": "2026-09-23 02:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 2.32% — Top crypto gainer is XRP (2.32%). Biggest losers are Binance (-1.46%), Ether (-1.07%) and Bitcoin (-0.30%)."
+    },
+    {
+      "id": "5108480",
+      "time": "2026-09-23 02:30:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭年底前將支援透過IMF要求的全部法案。"
+    },
+    {
+      "id": "5108479",
+      "time": "2026-09-23 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌3.11%，報694.80元人民幣/桶。滬金夜盤收漲0.41%，滬銀收漲1.23%。"
+    },
+    {
+      "id": "mkt:01a0ca61-791b-7118-864e-1b2607a4d49e",
+      "time": "2026-09-23 02:29:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Poland says it intercepted Russian reconnaissance plane; Russia has not responded】On Sept. 22 local time, Poland’s Deputy Prime Minister and Defence Minister Kosińiak-Kamysz said on social media that Polish fighter jets intercepted a Russian Il-20 reconnaissance aircraft about 40 km off the Polish coast over the Baltic Sea. He said such Russian reconnaissance flights in the Baltic are not isolated and that Polish forces will remain on alert. Russia has not responded."
+    },
+    {
+      "id": "5108478",
+      "time": "2026-09-23 02:29:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基在紐約會見IMF總裁格奧爾基耶娃。"
+    },
+    {
+      "id": "5108477",
+      "time": "2026-09-23 02:29:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭稱攔截一架俄羅斯偵察機 俄方暫無回應】當地時間9月22日，波蘭副總理兼國防部長科西尼亞克-卡梅什在社交媒體發文稱，一架俄羅斯伊爾-20偵察機在距波蘭海岸約40公里處被波蘭戰機攔截。科西尼亞克-卡梅什強調，俄羅斯偵察機出現在波羅的海上空不是孤立事件，波蘭軍隊會保持戒備。截至目前，俄羅斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5108476",
+      "time": "2026-09-23 02:27:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，巴西Suzano紙漿公司擬自10月起將亞洲地區紙漿價格每噸上調20美元。"
+    },
+    {
+      "id": "5108475",
+      "time": "2026-09-23 02:27:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據訊息人士透露，巴西Suzano紙漿公司將從10月起將歐洲和美洲地區的紙漿價格每噸上調50美元。"
+    },
+    {
+      "id": "5108474",
+      "time": "2026-09-23 02:26:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI 釋出 GPT-6 Sol 和 Luna，API 價格較 GPT-5.6 促銷價下調 50%】OpenAI 正在推出 GPT-6 Sol 和 GPT-6 Luna。這兩款新模型的訓練方法與 GPT-6 Astra 類似，其 API 價格較 GPT-5.6 的促銷價降低了 50%。GPT-6 Sol 和 Luna 現已在 ChatGPT Work 和 Codex 中上線，供 Plus、Pro、Business、Enterprise 及 Edu 版本的使用者使用。"
+    },
+    {
+      "id": "mkt:01a0ca5d-b41e-7118-864e-172cc7c6b786",
+      "time": "2026-09-23 02:25:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Apple developing screenless fitness tracker aimed at competing with Whoop】Apple (AAPL.O) is developing a screenless health and fitness tracker similar to Whoop, sources say. The device is part of a retooling of Apple’s smartwatch product line and an exploration of new wearable technologies. Sources say the company has spent months researching the area and is building prototypes. The project has senior management backing but Apple has not decided whether to launch it. The initiative is in an early phase internally dubbed \"technology investigation.\" If Apple decides to release the product, it is unlikely to ship before 2028."
+    },
+    {
+      "id": "5108473",
+      "time": "2026-09-23 02:25:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數攀升至盤中新高，上漲0.7%。"
+    },
+    {
+      "id": "te:markets:585795",
+      "time": "2026-09-23 02:25:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Falls by 1.68% — Top commodity losers are Coffee (-1.68%), Wheat (-1.49%) and Corn (-1.27%). Gains are led by Cocoa (1.27%) and Sugar (0.98%)."
+    },
+    {
+      "id": "mkt:01a0ca59-6a80-7118-864e-0f4098b22614",
+      "time": "2026-09-23 02:20:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic launches lower-cost Opus 5.5 ahead of IPO】Anthropic on Tuesday launched Claude Opus 5.5, a lower-cost AI model aimed at broad commercial tasks as the company prepares for a Wall Street IPO. The firm said Opus 5.5 matches the performance of its more powerful Fable 5.1 across most workloads while substantially reducing usage costs versus the prior Opus 5; it also reported faster output and clearer generations. Anthropic plans to expand the 5.5 series in coming weeks with updated Claude Sonnet and Haiku models."
+    },
+    {
+      "id": "5108472",
+      "time": "2026-09-23 02:20:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "倍耐力：董事會多數批准美國多年投資計劃，規模約為10億歐元。"
+    },
+    {
+      "id": "te:markets:585794",
+      "time": "2026-09-23 02:20:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 2.20% — Top commodity gainers are Platinum (2.20%), Copper (1.57%), Silver (1.45%) and Gold (0.39%). Biggest loser is Iron Ore CNY (-0.98%)."
+    },
+    {
+      "id": "5108471",
+      "time": "2026-09-23 02:19:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "皇家加勒比擬收購桑德爾斯部分股權，交易估值達60億美元。"
+    },
+    {
+      "id": "5108470",
+      "time": "2026-09-23 02:18:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "皇家加勒比郵輪公司股價下跌。"
+    },
+    {
+      "id": "5108469",
+      "time": "2026-09-23 02:18:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼：樂園商品與商店仍歸入體驗部門，DCP授權與出版業務併入娛樂部門，塔夫將執掌娛樂部門旗下工作室與消費者產品業務。"
+    },
+    {
+      "id": "mkt:01a0ca56-11ab-7118-864e-024521ba9223",
+      "time": "2026-09-23 02:17:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Mail reported India’s Prime Minister Narendra Modi is expected to visit Canada in December to sign a trade agreement."
+    },
+    {
+      "id": "5108468",
+      "time": "2026-09-23 02:16:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理莫迪預計將於12月訪問加拿大簽署貿易協定。"
+    },
+    {
+      "id": "mkt:01a0ca55-79cd-7118-864d-f8c2472d0a0a",
+      "time": "2026-09-23 02:16:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed's Barkin said the banking sector appears very healthy at present."
+    },
+    {
+      "id": "mkt:01a0ca55-5d8b-7118-864d-f5c281067f99",
+      "time": "2026-09-23 02:16:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Fed's Barkin: Many firms still feel they have pricing power."
+    },
+    {
+      "id": "5108467",
+      "time": "2026-09-23 02:16:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：當前銀行業狀況看起來十分穩健。"
+    },
+    {
+      "id": "mkt:01a0ca55-5046-7118-864d-e9b7d3baf4f9",
+      "time": "2026-09-23 02:16:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "BARKIN said curbing market inf expectations could help ease upward price pressure without relying on 'demand destruction' measures."
+    },
+    {
+      "id": "5108466",
+      "time": "2026-09-23 02:16:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：壓低企業的通脹預期或有助於緩解價格壓力，不必依賴需求破壞。"
+    },
+    {
+      "id": "5108465",
+      "time": "2026-09-23 02:16:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：壓低企業的通脹預期或有助於緩解價格壓力，不必依賴需求破壞。"
+    },
+    {
+      "id": "5108464",
+      "time": "2026-09-23 02:16:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：許多企業仍認為自己擁有定價權。"
+    },
+    {
+      "id": "mkt:01a0ca55-0c9e-7118-864d-e651201d428a",
+      "time": "2026-09-23 02:16:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Fed's Barkin said there are currently no signs of economic overheating; the economy is strengthening rather than weakening."
+    },
+    {
+      "id": "5108463",
+      "time": "2026-09-23 02:16:02",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：目前還不會斷言經濟過熱，但經濟正在走強而非走弱。"
+    },
+    {
+      "id": "mkt:01a0ca54-d08a-7118-864d-dee6443ee6d9",
+      "time": "2026-09-23 02:15:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Barkin said that after a period of heightened uncertainty, firms and institutions are now less hesitant to make investment and spending decisions."
+    },
+    {
+      "id": "5108462",
+      "time": "2026-09-23 02:15:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：經歷了一段不確定時期後，企業和機構在做出投資和支出決策時不再那麼猶豫不決。"
+    },
+    {
+      "id": "te:markets:585793",
+      "time": "2026-09-23 02:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Gains by 3.55% — Top commodity gainers are Natural gas (3.55%), Gasoline (0.71%) and Heating Oil (0.60%). Biggest losers are Natural Gas EU (-2.75%), Crude Oil (-2.71%) and Brent Oil (-1.64%)."
+    },
+    {
+      "id": "5108461",
+      "time": "2026-09-23 02:14:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名知情訊息人士透露，伊拉克政府正商討將伊朗航空的航班從巴格達改降納傑夫機場。"
+    },
+    {
+      "id": "mkt:01a0ca51-9549-7118-864d-d071be71b4ac",
+      "time": "2026-09-23 02:12:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two civil aviation officials told Refinitiv the Iraqi government has ordered its civil aviation authority to suspend flights from Iran to Baghdad effective from midnight Wednesday. The officials said Baghdad is discussing diverting Iran Air flights to Najaf airport."
+    },
+    {
+      "id": "mkt:01a0ca50-d21f-7118-864d-cf8fb6bdaffa",
+      "time": "2026-09-23 02:11:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot silver rose $1.00 intraday to $67.02/oz, up 1.52%."
+    },
+    {
+      "id": "5108460",
+      "time": "2026-09-23 02:09:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破67美元/盎司，日內漲1.52%。"
+    },
+    {
+      "id": "mkt:01a0ca4e-1bb9-7118-864d-c4b8116f6fcc",
+      "time": "2026-09-23 02:08:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said GPT-6 SOL and GPT-6 LUNA are not yet available for use in chat."
+    },
+    {
+      "id": "mkt:01a0ca4e-087d-7118-864d-bec1f0fa6639",
+      "time": "2026-09-23 02:08:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI: Free-tier and Go users can access GPT-6 LUNA in the desktop app."
+    },
+    {
+      "id": "mkt:01a0ca4d-c589-7118-864d-b5f0db1007ca",
+      "time": "2026-09-23 02:08:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI cuts API prices for GPT-6 SOL and GPT-6 LUNA by 50% versus GPT-5.6 promotional pricing."
+    },
+    {
+      "id": "mkt:01a0ca4d-8f70-7118-864d-ac7919d5646a",
+      "time": "2026-09-23 02:07:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI launches GPT-6 SOL and GPT-6 LUNA, available immediately to all Plus, Pro, Business and Enterprise users in ChatGPT Work and CODEX."
+    },
+    {
+      "id": "5108459",
+      "time": "2026-09-23 02:07:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票指數漲幅擴大，上漲1%。"
+    },
+    {
+      "id": "mkt:01a0ca4a-ff58-7118-864d-a424e42bd871",
+      "time": "2026-09-23 02:05:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kallas, the EU High Representative for Foreign Affairs and Security Policy, met Iran’s foreign minister Araghchi during the UN General Assembly to discuss prospects for ending U.S.-Iran hostilities via diplomacy and fully reopening the Strait of Hormuz. She said transit through the strait never carried passage fees before the war and should not be charged after it ends."
+    },
+    {
+      "id": "mkt:01a0ca4a-eed5-7118-864d-9f6f0d1b16ae",
+      "time": "2026-09-23 02:05:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TASNIM NEWS reports that from local midnight Wednesday Tehran flights to Baghdad and Muscat will be canceled. Iran is rerouting services bound for Baghdad to Najaf; other international flights, including those to Istanbul, are operating as normal."
+    },
+    {
+      "id": "5108458",
+      "time": "2026-09-23 02:05:00",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗調查：墨西哥2026年GDP預期為1.4%，此前預期為1.3%。"
+    },
+    {
+      "id": "mkt:01a0ca4a-d672-7118-864d-9046d8274104",
+      "time": "2026-09-23 02:04:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said navigation through the Strait of Hormuz and Bab el-Mandeb must be free and unobstructed."
+    },
+    {
+      "id": "mkt:01a0ca4a-ce10-7118-864d-88c83874cb1e",
+      "time": "2026-09-23 02:04:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says US officials held three-hour meeting with Iran; another meeting to be scheduled soon】President Trump said US officials earlier met with an Iranian delegation for about three hours, described the talks as productive and said another meeting will be arranged in the near term. US Middle East envoy Witkoff said he feels very positive about the discussions."
+    },
+    {
+      "id": "5108457",
+      "time": "2026-09-23 02:04:12",
+      "tags": [
+        "資料",
+        "觀點"
+      ],
+      "text": "花旗調查：墨西哥2027年CPI預期為3.83%，此前預期為3.80%。"
+    },
+    {
+      "id": "5108456",
+      "time": "2026-09-23 02:03:53",
+      "tags": [
+        "資料",
+        "觀點"
+      ],
+      "text": "花旗調查：墨西哥2026年CPI預期為3.93%，此前預期為4.00%。"
+    },
+    {
+      "id": "5108455",
+      "time": "2026-09-23 02:01:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗正著手將飛往巴格達的航班轉場至納傑夫，包括伊斯坦布林航線在內的其餘國際航班仍照常運營。"
+    },
+    {
+      "id": "5108454",
+      "time": "2026-09-23 02:01:37",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAI：推出 GPT-6 SOL 與 GPT-6 LUNA。"
+    },
+    {
+      "id": "5108453",
+      "time": "2026-09-23 02:01:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：即日起，面向所有 Plus、Pro、Business 及 Enterprise 使用者，在 ChatGPT Work 和 Codex 中提供 GPT-6 Sol 與 GPT-6 Luna。"
+    },
+    {
+      "id": "5108452",
+      "time": "2026-09-23 02:00:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-6 SOL 與 GPT-6 LUNA 的 API 價格較其 GPT-5.6 促銷定價下調 50%。"
+    },
+    {
+      "id": "5108451",
+      "time": "2026-09-23 02:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：免費版及 Go 版使用者可在桌面端應用中訪問 GPT-6 LUNA。"
+    },
+    {
+      "id": "5108450",
+      "time": "2026-09-23 02:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT-6 SOL 與 GPT-6 LUNA 模型尚未在聊天中開放使用。"
+    },
+    {
+      "id": "5108449",
+      "time": "2026-09-23 02:00:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：從德黑蘭飛往巴格達和馬斯喀特的航班自當地時間週三午夜起取消。"
+    },
+    {
+      "id": "5108448",
+      "time": "2026-09-23 01:59:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥主要股指漲幅超1%。"
+    },
+    {
+      "id": "5108447",
+      "time": "2026-09-23 01:58:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫談伊朗會晤：現在感覺非常好。"
+    },
+    {
+      "id": "5108446",
+      "time": "2026-09-23 01:58:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報681.20元。"
+    },
+    {
+      "id": "5108445",
+      "time": "2026-09-23 01:58:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交政策負責人卡拉斯：在聯合國大會期間會見了伊朗外長阿拉格齊，就結束美伊戰爭及全面重新開放霍爾木茲海峽的外交前景進行了磋商。"
+    },
+    {
+      "id": "mkt:01a0ca44-8311-7118-864d-86cafb61f407",
+      "time": "2026-09-23 01:58:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Middle East special envoy Witkoff said he currently feels very positive about the Iran meeting."
+    },
+    {
+      "id": "5108444",
+      "time": "2026-09-23 01:57:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特被特朗普視為“AI主管”人選。"
+    },
+    {
+      "id": "mkt:01a0ca43-b9d0-7118-864d-7d953350ccb5",
+      "time": "2026-09-23 01:57:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said his meeting with Iran was highly productive and that another meeting will be scheduled in the near future."
+    },
+    {
+      "id": "5108443",
+      "time": "2026-09-23 01:55:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數和納斯達克100指數上漲。"
+    },
+    {
+      "id": "5108442",
+      "time": "2026-09-23 01:55:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與烏克蘭討論愛國者導彈（出售事宜）。"
+    },
+    {
+      "id": "5108441",
+      "time": "2026-09-23 01:54:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗會談成果豐碩，另一次會談已安排妥當。"
+    },
+    {
+      "id": "5108440",
+      "time": "2026-09-23 01:54:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：正在研究全面或部分（柴油出口）禁令是否可行。"
+    },
+    {
+      "id": "5108439",
+      "time": "2026-09-23 01:53:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗人員會晤進行得非常順利，持續了3個小時。"
+    },
+    {
+      "id": "5108438",
+      "time": "2026-09-23 01:53:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正在研究實施俄羅斯制裁法案。"
+    },
+    {
+      "id": "5108437",
+      "time": "2026-09-23 01:52:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：美國官員與伊朗代表團會晤三小時。"
+    },
+    {
+      "id": "5108436",
+      "time": "2026-09-23 01:52:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國官員會見了伊朗代表團。"
+    },
+    {
+      "id": "5108435",
+      "time": "2026-09-23 01:52:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談白俄羅斯鉀肥：我們將繼續從加拿大采購，但白俄羅斯願向我們提供更低價格。"
+    },
+    {
+      "id": "5108434",
+      "time": "2026-09-23 01:52:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：白俄羅斯擁有豐富的鉀鹽資源，美國農民需要好價格。"
+    },
+    {
+      "id": "5108433",
+      "time": "2026-09-23 01:51:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：普京願意舉行會晤以結束衝突。"
+    },
+    {
+      "id": "5108432",
+      "time": "2026-09-23 01:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特就柴油出口禁令表態：我們正在對此事進行研究。"
+    },
+    {
+      "id": "5108431",
+      "time": "2026-09-23 01:50:58",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普就柴油出口禁令表態：我此前也一直呼籲出臺這項禁令。"
+    },
+    {
+      "id": "5108430",
+      "time": "2026-09-23 01:50:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：襲擊俄羅斯境內煉油產能對俄方造成了沉重打擊，也推高了柴油價格。"
+    },
+    {
+      "id": "5108429",
+      "time": "2026-09-23 01:49:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭：領導層非常出色。"
+    },
+    {
+      "id": "5108428",
+      "time": "2026-09-23 01:49:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭襲擊俄羅斯和柴油（設施）：我們會討論這個問題。"
+    },
+    {
+      "id": "5108427",
+      "time": "2026-09-23 01:49:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們經常談到烏克蘭協議，包括與普京的協議。"
+    },
+    {
+      "id": "5108426",
+      "time": "2026-09-23 01:49:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "澤連斯基：希望特朗普能幫助烏克蘭在冬季前結束衝突。"
+    },
+    {
+      "id": "5108425",
+      "time": "2026-09-23 01:49:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為烏克蘭會達成協議。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609233881623546",
+      "time": "2026-09-23 01:48:46",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲巴爾金稱，不認為當前的生產力提升主要反映了人工智慧的影響。"
+    },
+    {
+      "id": "5108424",
+      "time": "2026-09-23 01:48:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基感謝特朗普和美國的支援。"
+    },
+    {
+      "id": "5108423",
+      "time": "2026-09-23 01:48:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：澤連斯基與我正在謀劃結束俄烏衝突的解決方案。"
+    },
+    {
+      "id": "5108422",
+      "time": "2026-09-23 01:47:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國與烏克蘭、歐洲的關係非常牢固。"
+    },
+    {
+      "id": "5108421",
+      "time": "2026-09-23 01:47:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱與澤連斯基關係良好。"
+    },
+    {
+      "id": "5108420",
+      "time": "2026-09-23 01:43:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：我不認為當前生產率提升主要是人工智慧推動的。"
+    },
+    {
+      "id": "5108419",
+      "time": "2026-09-23 01:41:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西咖啡協會（ABIC）：受價格走低提振，巴西1-8月咖啡零售銷量同比增長2.29%。"
+    },
+    {
+      "id": "5108418",
+      "time": "2026-09-23 01:39:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic推出Claude Opus 5.5 宣稱能以更低成本處理企業任務】Anthropic週二釋出新款人工智慧模型Claude Opus 5.5，該工具將能以更低成本處理廣泛的企業任務。Anthropic表示，Claude Opus 5.5在大多數工作任務上的表現與能力更強的Fable 5.1相近，但成本顯著低於此前的Opus 5。新模型生成結果的速度也快於Opus 5，測試表明其文字表達更加清晰。Anthropic計劃未來幾周繼續擴充5.5系列，推出新版Claude Sonnet和Haiku。Opus 5.5也是Anthropic執行長Dario Amodei呼籲AI行業支援放慢技術開發步伐後推出的首款新模型。Amodei此前表示，公司將採取新的安全措施，包括引入第三方評估機構。"
+    },
+    {
+      "id": "5108417",
+      "time": "2026-09-23 01:37:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：美聯儲高度關注金融狀況，但不能寄望於市場會將利率維持在冷卻通脹所需的水平。"
+    },
+    {
+      "id": "5108416",
+      "time": "2026-09-23 01:36:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普出席與烏克蘭總統舉行的雙邊會晤。"
+    },
+    {
+      "id": "5108415",
+      "time": "2026-09-23 01:32:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普顧問將高油價歸咎於煉油產能緊張。"
+    },
+    {
+      "id": "5108414",
+      "time": "2026-09-23 01:30:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：傾向於認為當前階段將更類似於上世紀90年代的中期調整。"
+    },
+    {
+      "id": "5108413",
+      "time": "2026-09-23 01:29:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【油價持續走高 法國馬賽出現汽油車改裝熱潮】受油價持續走高影響，在法國馬賽，越來越多的車主正在尋找更經濟實惠的替代方案，選擇把普通汽油車改裝，使其能夠使用生物乙醇燃料。（央視新聞）"
+    },
+    {
+      "id": "5108412",
+      "time": "2026-09-23 01:28:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "丹麥首相：美國在格陵蘭島建設的“金穹”防禦系統最終方案尚未敲定。"
+    },
+    {
+      "id": "5108411",
+      "time": "2026-09-23 01:27:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴蒂電信旗下Airtel Money預計將向倫敦證券交易所提交首次公開募股申請，目標估值為80億至90億美元。"
+    },
+    {
+      "id": "5108410",
+      "time": "2026-09-23 01:22:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國一調查顯示57%民眾支援對華友好合作】美國芝加哥全球事務委員會21日公佈的調查報告顯示，57%的美國民眾支援對華友好合作。這份調查報告顯示，57%的美國民眾認為美國應該同中國開展友好合作與接觸，延續了自2024年以來美國民眾逐漸轉向支援對華接觸的趨勢。調查發現，共和黨人支援同中國開展友好合作和接觸的比例比2025年提高了10個百分點，達到2019年以來的最高水平。民主黨人也趨向於支援與中國接觸。（央視新聞）"
+    },
+    {
+      "id": "5108409",
+      "time": "2026-09-23 01:20:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：已批准向日本出售渡輪支援服務的潛在交易，預估金額為1.59億美元。"
+    },
+    {
+      "id": "5108408",
+      "time": "2026-09-23 01:19:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "格陵蘭島總理：我們現在可以鬆一口氣了。"
+    },
+    {
+      "id": "5108407",
+      "time": "2026-09-23 01:19:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：已批准向丹麥出售MH-60R多工直升機的潛在交易，交易金額約為4.25億美元。"
+    },
+    {
+      "id": "5108406",
+      "time": "2026-09-23 01:17:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "格陵蘭島總理：我們必須恢復與美國的互信。"
+    },
+    {
+      "id": "5108405",
+      "time": "2026-09-23 01:17:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西總統呼籲維護國家主權與多邊主義】巴西總統盧拉22日在第81屆聯合國大會一般性辯論開幕式上發表講話，呼籲維護國家主權與多邊主義，重申不干涉別國內政原則。 盧拉在講話中表示，聯合國安理會必須深入探討關乎人類未來的決定性議題，要在多邊主義與單邊主義之間做出選擇，“是選擇主權，還是選擇服從”。（新華社）"
+    },
+    {
+      "id": "em:qqyh_mlc:202609233881620060",
+      "time": "2026-09-23 01:17:06",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "週二（9月22日），美聯儲隔夜逆回購協議（RRP）使用規模為4.53億美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609233881620060",
+      "time": "2026-09-23 01:17:06",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "週二（9月22日），美聯儲隔夜逆回購協議（RRP）使用規模為4.53億美元。"
+    },
+    {
+      "id": "5108404",
+      "time": "2026-09-23 01:16:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "8 家交易對手在美聯儲逆回購操作中獲得 4.53 億美元。"
+    },
+    {
+      "id": "te:markets:585792",
+      "time": "2026-09-23 01:14:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Tin Rebounds from 2-Month Low — Tin futures in the UK rose to $54,000 per tonne, rebounding from the over-two-month low of $51,880 on September 14th, as the recovery in the AI trade improved the outlook for global tin demand. Strong utilization rates from AI agents released by Meta drove equities for chip producers and datacenter developers to rally, lifting tin contracts due to their close cointeration this year. Tin consumption remained underpinned by electrification projects and AI infrastructure development due to the metal's broad utility in datacenters and battery storage facilities. The metal's soldering capabilities, which are useful in precision soldering in AI infrastructure, prompted industry players to signal that tin demand in AI servers should triple by 2030. Meanwhile, supply from major producer Indonesia remained low as Jakarta pulled back on the issuance of export licenses. On top of that, Jakarta further tightened mining permits and seized 500 tonnes of metal from mines without licences."
+    },
+    {
+      "id": "5108403",
+      "time": "2026-09-23 01:12:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：只要就業市場保持健康，消費者就會繼續支出。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609233881619515",
+      "time": "2026-09-23 01:11:11",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲官員巴爾金稱，美國勞動力市場處於平衡狀態，沒有過熱；沒有看到消費者資產負債表緊張的明顯證據；只要就業市場保持健康，消費者就會繼續消費。"
+    },
+    {
+      "id": "5108402",
+      "time": "2026-09-23 01:10:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：目前沒有太多證據表明消費者資產負債表已承壓過度。"
+    },
+    {
+      "id": "5108401",
+      "time": "2026-09-23 01:10:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與日本首相舉行雙邊會晤。"
+    },
+    {
+      "id": "5108400",
+      "time": "2026-09-23 01:09:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯大主席：要建設能主動塑造變化的聯合國】當地時間9月22日，第81屆聯合國大會一般性辯論在紐約聯合國總部開幕。本屆聯大主席卡利勒·拉赫曼在開幕致辭中表示，面對持續的地區衝突、發展挑戰以及人工智慧等新興技術帶來的變革，聯合國需要正視自身不足、推進改革，以重新贏得國際社會的信任。拉赫曼表示，本屆聯大要建設能主動塑造變化的聯合國，以改革和廣泛參與重拾全球信任。（央視新聞）"
+    },
+    {
+      "id": "5108399",
+      "time": "2026-09-23 01:08:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普聲稱：高市早苗表現出色，日本發展良好。"
+    },
+    {
+      "id": "5108398",
+      "time": "2026-09-23 01:08:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債拍賣中標收益率為4.787%，為2024年5月以來最高拍賣收益率。"
+    },
+    {
+      "id": "5108397",
+      "time": "2026-09-23 01:07:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：勞動力市場並未過熱，甚至談不上特別緊張。"
+    },
+    {
+      "id": "5108396",
+      "time": "2026-09-23 01:06:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 將允許外部機構在早期階段評估 AI 模型。"
+    },
+    {
+      "id": "5108395",
+      "time": "2026-09-23 01:05:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：民眾理解伊朗不能擁有核武器。伊朗方面付出的代價更高，但仍低於拜登時期，而拜登在核恐怖問題上無所作為。"
+    },
+    {
+      "id": "5108394",
+      "time": "2026-09-23 01:05:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率在標債結果公佈後小幅攀升，最新上漲1.34個基點，報4.766%。"
+    },
+    {
+      "id": "5108393",
+      "time": "2026-09-23 01:05:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基在紐約會見歐盟委員會主席馮德萊恩。"
+    },
+    {
+      "id": "5108392",
+      "time": "2026-09-23 01:02:18",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣690億美元兩年期國債，得標利率4.787%，投標倍數2.63。"
+    },
     {
       "id": "5108391",
       "time": "2026-09-23 01:00:19",
@@ -249,6 +1956,15 @@
         "Impact bearish"
       ],
       "text": "Federal Reserve's Barkin said while it is easy to blame high inflation on a few categories affected by energy costs or tariffs, most items in the personal consumption expenditures (PCE) index have risen by more than 3%."
+    },
+    {
+      "id": "em:qqyh_mlc:202609233881615966",
+      "time": "2026-09-23 00:51:50",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲巴爾金表示，目前尚不清楚是否需要進一步加息。"
     },
     {
       "id": "5108375",

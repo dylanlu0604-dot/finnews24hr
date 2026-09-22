@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "count": 2197,
+  "count": 2199,
   "items": [
     {
       "id": "te:markets:585766",
@@ -1484,6 +1484,18 @@
         "國際"
       ],
       "text": "特朗普：與丹麥達成的格陵蘭島相關協議“讓美國永久控制該領土的安全及所有其他需求”。"
+    },
+    {
+      "id": "te:markets:585749",
+      "time": "2026-09-22 23:02:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields Edge Up — The yield on the US 10-year Treasury wavered before settling slightly higher at 4.97% on Tuesday, as traders continued to assess developments in the Middle East, oil prices and comments from Fed officials. In his speech to the UN General Assembly, US President Trump defended his decision to join Israel in launching military action against Iran but added that he believes the US would reach a deal with Iran right after the midterm elections in November. He also added that more oil is flowing than at any point since the war began and that prices will plummet once the conflict is over. Oil prices remained mostly lower on Tuesday, though they recovered from their session lows. Meanwhile, on the monetary policy front, Chicago Fed President Goolsbee said the central bank cannot overlook persistent supply shocks, while St. Louis Fed President Musalem said further rate increases may be needed to bring inflation back toward target. Markets currently expect at least one more rate hike this year."
     },
     {
       "id": "te:economy:585749",
@@ -6704,6 +6716,18 @@
         "市場"
       ],
       "text": "【閩東電力：業績下滑且熱點業務尚未商業化】閩東電力公告，公司股票連續10個交易日內漲幅偏離值累計達到100.02%，股價自2026年9月9日以來從10.43元/股上漲至9月22日20.91元/股。公司基本面未發生重大變化，2026年上半年營業收入2.37億元，同比下降17.65%；歸母淨利潤2941.47萬元，同比下降58.68%。公司未開展算電協同、綠電直連、智慧電網業務，虛擬電廠尚未商業化運營，海上風電專案尚未形成收入。"
+    },
+    {
+      "id": "te:markets:585684",
+      "time": "2026-09-22 18:55:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields Move Lower — The US 10-year Treasury yield fell nearly 2bps to 4.93% on Tuesday, reversing a modest early-session rise, as oil prices declined for a fifth straight session. Renewed hopes for a diplomatic solution to the conflict with Iran pushed oil down and helped ease concerns over inflationary pressures. Treasury yields have generally declined since the Fed raised rates last week for the first time since 2023, while Chair Warsh reaffirmed the central bank’s commitment to bring price stability, helping to restore its credibility. The decline in borrowing costs comes despite the Fed’s more hawkish tone, reinforced by recent comments from policymakers. Chicago Fed President Austan Goolsbee said the central bank cannot overlook persistent supply shocks, while St. Louis Fed President Alberto Musalem said further rate increases may be needed to bring inflation back toward target. Markets currently expect at least one more rate hike this year."
     },
     {
       "id": "te:economy:585684",
