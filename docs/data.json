@@ -1,7 +1,172 @@
 {
-  "updated": "2026-09-22 19:48:33",
-  "count": 13255,
+  "updated": "2026-09-22 19:52:30",
+  "count": 13263,
   "items": [
+    {
+      "id": "mkt:01a0c8f5-6390-7118-8642-5a2736bf3399",
+      "time": "2026-09-22 19:51:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to IRNA, Tehran and Uzbekistan have agreed to expand long-term agricultural cooperation."
+    },
+    {
+      "id": "5107765",
+      "time": "2026-09-22 19:51:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖維高新：餘繼仙2026年9月18日辭任副總工程師】皖維高新公告，餘繼仙因工作變動於2026年9月18日辭去公司副總工程師職務，辭職報告自送達董事會之日起生效；辭職後繼續擔任公司非獨立董事，並將按相關規定完成工作交接。"
+    },
+    {
+      "id": "5107764",
+      "time": "2026-09-22 19:51:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）檔案顯示：黑石私人信貸基金截至2026年9月1日出售了150,127股I類普通股，總售價為354萬美元。"
+    },
+    {
+      "id": "5107763",
+      "time": "2026-09-22 19:51:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華塑控股：成都信通萬華企業管理有限公司擬減持不超過3.00%股份】華塑控股公告，持有公司股份1.12億股、佔總股本10.47%的成都信通萬華企業管理有限公司，擬於2026年10月23日至2027年1月22日透過集中競價或大宗交易減持不超過3219.38萬股，佔總股本不超過3.00%，股份來源為司法劃轉。"
+    },
+    {
+      "id": "5107762",
+      "time": "2026-09-22 19:51:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【輝隆海華科技集團與金陵亨斯邁簽訂戰略合作協議】據輝隆股份公眾號，近日，輝隆海華科技集團與南京金陵亨斯邁新材料有限公司戰略合作簽約儀式在蚌埠舉行。雙方圍繞BHT核心原料異丁烯的品質標準、保供能力、儲運安全、技術協同、供應鏈穩控等關鍵議題開展深入交流，為後續深度合作築牢基礎。"
+    },
+    {
+      "id": "5107761",
+      "time": "2026-09-22 19:51:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風杜鵑致日本6人死6人失蹤】據日本廣播協會電視臺（NHK）今天（9月22日）報道，受今年第25號颱風“杜鵑”帶來的強降雨影響，日本神奈川縣和千葉縣接連發生山體滑坡，目前已造成6人死亡，另有6人下落不明。（CCTV國際時訊）"
+    },
+    {
+      "id": "5107760",
+      "time": "2026-09-22 19:51:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧談格陵蘭島：美國可以隨心所欲地建造軍事基地。"
+    },
+    {
+      "id": "5107759",
+      "time": "2026-09-22 19:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：特朗普將就伊朗問題做出最終決定。"
+    },
+    {
+      "id": "mkt:01a0c8f4-41cc-7118-8642-51b951f1279b",
+      "time": "2026-09-22 19:50:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said Trump will make the final decision on Iran."
+    },
+    {
+      "id": "5107758",
+      "time": "2026-09-22 19:50:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【勝宏科技：簽署A股募集資金四方監管協議】勝宏科技公告，公司及泰國勝宏與中國銀行(泰國)股份有限公司及保薦機構國信證券簽署《募集資金四方監管協議》。該協議涉及公司向特定物件發行A股股票募集資金，募集資金總額約19億元，淨額約18.76億元，用於泰國高多層印製線路板專案。"
+    },
+    {
+      "id": "mkt:01a0c8f4-3273-7118-8642-4fe0e6de4cf0",
+      "time": "2026-09-22 19:50:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio said the US military, under the president's direction, has cleared sea mines there and an increasing number of ships are departing daily, while Iran has gained nothing."
+    },
+    {
+      "id": "5107757",
+      "time": "2026-09-22 19:50:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古特雷斯被問以色列為何還在聯合國】在卡達半島電視臺當地時間9月21日播出的專訪中，聯合國秘書長古特雷斯回答網友提問——以色列公然踐踏《聯合國憲章》、屢次殺害聯合國工作人員、拆毀聯合國設施，為何還沒被踢出聯合國？古特雷斯表示，這“與聯合國秘書長的職權無關”，而且“僅透過讓國家加入或退出聯合國並不能解決這些問題”。古特雷斯同時譴責了哈馬斯2023年10月7日發動的襲擊，以及加沙地帶和約旦河西岸“發生的事情”，並強調“兩國方案”才是實現中東和平的唯一途徑。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0c8f3-d772-7118-8642-46019ab52b64",
+      "time": "2026-09-22 19:50:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian central bank: household inflation expectations 14.2% in September, up from 13.7% in August."
+    },
+    {
+      "id": "5107756",
+      "time": "2026-09-22 19:49:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：在總統的指揮下，美軍已經清除了那裡的水雷，你看，每天都有越來越多的船隻駛出……與此同時，伊朗卻一無所獲。"
+    },
+    {
+      "id": "5107755",
+      "time": "2026-09-22 19:49:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【萬科A：公司表示近期經營情況穩定】萬科A公告，A股股票連續三個交易日（2026年9月18日、9月21日、9月22日）收盤價格漲幅偏離值累計超過20%。公司表示近期經營情況穩定，房地產板塊上市公司股票交易活躍；經核查，公司及第一大股東不存在應披露而未披露的重大事項，異常波動期間第一大股東未主動買賣公司股票。"
+    },
+    {
+      "id": "mkt:01a0c8f2-9a2e-7118-8642-3b73aaca4590",
+      "time": "2026-09-22 19:48:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US Secretary of State Rubio said he is unsure whether AI-related plans will be ready before Thursday."
+    },
+    {
+      "id": "mkt:01a0c8f2-7afb-7118-8642-33982edcf2c6",
+      "time": "2026-09-22 19:48:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian military spokesman Akraminia said enemies must know Iran is fully prepared to defend the country and its people. He warned any renewed attack would be met with a fiercer, larger-scale response using new equipment and tactics, and said enemies would suffer defeat and humiliation as in the \"Iran-Iraq war\" and ultimately be forced to leave the region."
+    },
+    {
+      "id": "5107754",
+      "time": "2026-09-22 19:48:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "9月份俄羅斯通脹預期升至14.2%，8月份為13.7%。"
+    },
+    {
+      "id": "5107753",
+      "time": "2026-09-22 19:48:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：韓國選定得州電廠作為首個美國投資專案】議會訊息人士週二透露，韓國選定在美國得克薩斯州建設一座大型燃氣發電廠，作為其承諾向美國投入3500億美元投資框架下的首個落地專案。訊息人士稱，經過數月談判落實韓美聯合情況說明書（JFS），韓國產業通商資源部在閉門會議上向國會貿易委員會彙報了該方案。這份聯合檔案以韓國承諾赴美投資，換取美國下調進口關稅。據介紹，韓國產業部擬定的第二、第三項投資計劃，分別是在美國建設8座大型核反應堆，以及阿拉斯加液化天然氣專案。委員會官員表示，這座得州電廠選址恩西納爾市，總裝機容量6.3吉瓦。當前得州大量新建半導體工廠與AI資料中心，電力需求持續攀升。該專案投資額223億美元。韓國政府預估，未來20年專案最高可創造454億美元收入。與首個專案不同，第二、第三項專案仍需與美方進一步磋商。有報道稱，韓方希望收購美國能源企業西屋電氣約20%股份，用於建設8座核反應堆，但美方對此持反對態度。"
+    },
     {
       "id": "5107752",
       "time": "2026-09-22 19:47:44",
@@ -121069,103 +121234,6 @@
         "MKT News"
       ],
       "text": "Chancellor Merz said he wants the coalition to succeed and that no other majority in this Bundestag could achieve that aim."
-    },
-    {
-      "id": "mkt:01a0a4e8-a3c0-7118-8595-f5b336bdbad0",
-      "time": "2026-09-15 19:51:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Germany's Chancellor MERZ said he plans to reach a further reform agreement with the Social Democrats after state elections."
-    },
-    {
-      "id": "5095348",
-      "time": "2026-09-15 19:51:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮耀MagicOS 11釋出 CEO李健：AI正重寫手機作業系統未來】9月15日晚，榮耀開發者大會上，榮耀釋出實現系統級Agent Harness商用落地的手機作業系統MagicOS 11。據介紹，榮耀MagicOS 11能理解使用者複雜意圖，還能記住使用者日常習慣，將“自動執行”與“主動服務”融為一體。榮耀CEO李健在會上表示，AI正在重寫手機作業系統未來。"
-    },
-    {
-      "id": "mkt:01a0a4e8-13a8-7118-8595-eefc7ecf1f30",
-      "time": "2026-09-15 19:51:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY said Ukraine is prepared to take de-escalation measures, but partners must ensure Russia is sincere in implementing measures affecting Ukraine's critical infrastructure and that those measures are long-term and reliable."
-    },
-    {
-      "id": "mkt:01a0a4e7-dc2b-7118-8595-e5daf24063bd",
-      "time": "2026-09-15 19:50:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said another interceptor for countering Russian jet-powered UAVs has successfully completed tests; a Shahed drone was struck, but some aspects of the interceptor's control system still require refinement."
-    },
-    {
-      "id": "5095347",
-      "time": "2026-09-15 19:50:42",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【9月15日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平給福建省“漳州110”全體隊員回信強調 堅守為民初心矢志擔當奉獻 做黨和人民的忠誠衛士； 2.央視快評：用心用情為群眾排憂解難 兢兢業業守護萬家燈火； 3.【新思想引領新徵程】通江達海 西部陸海新通道拓展開放新空間； 4.【賡續長征精神 奮進復興征程】廣東：紅色薪火映粵北 老區新程啟華章； 5.閩寧協作暨東西部協作理論與實踐研討會在銀川舉行； 6.8月我國國民經濟執行總體平穩； 7.2030年電子資訊製造業規上企業營業收入將突破30萬億元； 8.1至8月我國鄉村建設已落實專案資金超1300億元； 9.【文化中國行】紹興歷史街區保護：留人見物有生活； 10.國內聯播快訊： （1）8月份一二三線城市商品住宅銷售價格同比降幅繼續收窄； （2）前8個月我國碳排放權交易市場累計成交近10億噸； （3）兩部門對線上酒店預訂平臺服務行業開展行政指導； （4）我國將試行醫療服務價格預立項制度； （5）前8個月我國牽頭制定可穿戴電子裝置等國際標準214項； （6）2026上合組織數字經濟論壇舉行； （7）2026長江文明論壇在重慶開幕； （8）民營火箭首次執行規模化衛星網際網路星座組網任務； （9）2026年“百萬英才興海南·四城同辦”校招活動啟動； 11.“嫦娥六號”月背月壤樣品落戶維也納聯合國總部； 12.美稱對談判持開放態度 伊朗稱其條件被滿足前不會與美談判 美國防部報告稱美在中東基地損失嚴重； 13.國際聯播快訊： （1）葉門胡塞武裝稱打擊沙特空軍基地； （2）俄稱多方向推進 又控制3處居民點； （3）美10年期國債收益率達2007年以來新高。"
-    },
-    {
-      "id": "mkt:01a0a4e7-2bb4-7118-8595-dff03929d7cf",
-      "time": "2026-09-15 19:50:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Chinese platforms deny plans to remove monthly-pay option】Alipay, Meituan Finance, Douyin and JD Baitiao denied reports that monthly-installment payment options will be delisted from standard checkout or moved to a separate payment zone after Sept. 30. Alipay said Huabei services are operating normally and will comply with national regulations, with any changes reflected on the Alipay page; Meituan Finance and Douyin said their monthly-pay products are currently available and display will follow app pages; JD Baitiao said its service is operating normally with no plan to withdraw the payment option."
-    },
-    {
-      "id": "mkt:01a0a4e7-2125-7118-8595-d4a8c3c2e58d",
-      "time": "2026-09-15 19:50:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vitol paid $75m to a trader convicted of corruption."
-    },
-    {
-      "id": "5095344",
-      "time": "2026-09-15 19:50:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江天化學：南通江山農藥化工股份有限公司擬減持公司不超過3.00%股份】江天化學公告，持股5%以上股東南通江山農藥化工股份有限公司持有公司869.76萬股，佔公司總股本6.02%，擬於本減持計劃公告發布之日起15個交易日後的3個月內，透過集中競價或大宗交易合計減持不超過433.08萬股，佔公司總股本3.00%。其中，集中競價減持不超過144.36萬股，大宗交易減持不超過288.72萬股，減持原因為自身資金需求。"
-    },
-    {
-      "id": "mkt:01a0a4e6-cd2d-7118-8595-c9851d5b32c1",
-      "time": "2026-09-15 19:49:44",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Germany's foreign minister said he just spoke with Egypt's foreign minister about the situation in Yemen. Both expressed deep concern over recent Houthi attacks and developments in the Bab el-Mandeb Strait, saying avoiding further escalation and pushing for a peaceful resolution are essential."
-    },
-    {
-      "id": "5095343",
-      "time": "2026-09-15 19:49:13",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家藥監局黨組與駐市場監管總局紀檢監察組召開2026年下半年全面從嚴治黨會商會】9月15日，國家藥監局黨組與中央紀委國家監委駐市場監管總局紀檢監察組召開2026年下半年全面從嚴治黨定期會商會，深入學習貫徹習近平總書記關於全面深化改革的重要論述和對生物醫藥產業發展的重要指示精神，就堅持以黨的政治建設為統領，全力支援創新藥和醫療器械發展工作進行專題會商。中央紀委國家監委駐總局紀檢監察組組長、總局黨組成員林國耀，總局黨組成員、國家藥監局黨組書記、局長黃果出席會議並講話。林國耀指出，國家藥監局黨組深入踐行“四個最嚴”要求，持續深化審評審批制度改革，推動創新藥械獲批數量連年攀升，跑出了促進創新“加速度”，同時工作中還存在一些短板弱項。下一步，要加強組織領導，進一步健全改革推進機制，加強督促檢查、強化跟蹤問效，把改革任務落細落實。要加強統籌發展和安全，主動擔當作為，賦能創新藥械研發，全面提升藥品安全監管能力，及時發現和處置安全風險。要加強內外協同、上下聯動，更加主動融入“三醫”協同發展和治理，積極對接臨床需求，指導各地加強改革措施協調配合。要加強監管國際交流合作，精準研判醫藥產業發展趨勢，深化監管合作與互認，深度融入全球藥械安全監管治理。要加強監管科學體系和人才隊伍建設，推動監管科學與產業發展深度融合，深入落實加強新時代藥品監管人才工作的實施意見。要加強全面從嚴治黨政治責任落實，深入學習領會習近平黨建思想，嚴肅認真抓好中央巡視整改，持之以恆推進全面從嚴治黨。（國家藥監局）"
-    },
-    {
-      "id": "mkt:01a0a4e6-110c-7118-8595-c11ceeaa683a",
-      "time": "2026-09-15 19:48:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spain approves €13 billion investment in national airport network."
     }
   ]
 }
