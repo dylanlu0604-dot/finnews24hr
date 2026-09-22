@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-23 06:43:52",
-  "count": 13421,
+  "updated": "2026-09-23 06:47:36",
+  "count": 13418,
   "items": [
+    {
+      "id": "mkt:01a0cb4c-e320-7118-8652-0e0b50987d0a",
+      "time": "2026-09-23 06:46:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Syrian president said Syria's policy is to remove foreign bases from its territory and that it will not need foreign military bases in the foreseeable future."
+    },
+    {
+      "id": "te:markets:585816",
+      "time": "2026-09-23 06:45:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Appreciates by 2.58% — Top crypto gainer is XRP (2.58%). Biggest losers are Binance (-1.50%), Ether (-0.69%) and Bitcoin (-0.44%)."
+    },
+    {
+      "id": "5108613",
+      "time": "2026-09-23 06:44:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴格達與馬斯喀特機場自週二起停止接收伊朗航班。報道稱，有關部門正在磋商，將飛往巴格達的航班轉降納傑夫。"
+    },
     {
       "id": "5108612",
       "time": "2026-09-23 06:42:38",
@@ -122413,67 +122440,6 @@
         "其他"
       ],
       "text": "順豐控股：擬發行50億元2029年到期票面利率1.75%票據，以及50億元2031年到期票面利率1.85%票據。"
-    },
-    {
-      "id": "5096094",
-      "time": "2026-09-16 06:47:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伊斯坦布林發生槍擊致3死1傷】據土耳其媒體報道，土最大城市伊斯坦布林法提赫區一家貨幣兌換處15日發生槍擊事件，造成3人死亡、1人受傷。 據報道，當天下午該貨幣兌換處經營者與一名顧客發生爭執，隨後衝突升級並引發槍擊。警方和急救人員已將傷者送醫救治，並控制一名嫌疑人。目前案件仍在調查中。（新華社）"
-    },
-    {
-      "id": "mkt:01a0a73f-1af0-7118-85a4-eb690b1781b7",
-      "time": "2026-09-16 06:45:25",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "New Zealand Q2 current account deficit NZD1.67bln vs NZD2.57bln expected; prior NZD1.01bln deficit."
-    },
-    {
-      "id": "mkt:01a0a73e-f30e-7118-85a4-e56b7e71adc3",
-      "time": "2026-09-16 06:45:15",
-      "tags": [
-        "MKT News",
-        "NZDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "New Zealand Q2 current account deficit was -3.2% of GDP (annualized), versus -3.9% expected and -3.6% previously."
-    },
-    {
-      "id": "te:markets:583984",
-      "time": "2026-09-16 06:45:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Sinks by 9.75% — Top crypto losers are XRP (-9.75%), Ether (-4.77%) and Bitcoin (-3.33%)."
-    },
-    {
-      "id": "mkt:01a0a73e-bbab-7118-85a4-d8545a8508d2",
-      "time": "2026-09-16 06:45:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Current Account (Q2) | actual -1670000000B | consensus -2571000000B | previous -1008000000B"
-    },
-    {
-      "id": "mkt:01a0a73e-bba9-7118-85a4-d24d403f2190",
-      "time": "2026-09-16 06:45:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Current Account to GDP Ratio (YoY) (Q2) | actual -3.2% | consensus -3.9% | previous -3.60%"
     }
   ]
 }
