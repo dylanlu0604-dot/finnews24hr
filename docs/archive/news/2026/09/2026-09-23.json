@@ -1,7 +1,35 @@
 {
   "date": "2026-09-23",
-  "count": 403,
+  "count": 406,
   "items": [
+    {
+      "id": "mkt:01a0cacc-44bc-7118-8650-847cd77f7aaa",
+      "time": "2026-09-23 04:26:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Fed System Open Market Account manager Perli said the Fed's monetary policy toolkit is operating effectively."
+    },
+    {
+      "id": "mkt:01a0caca-67e3-7118-8650-7a37492dff91",
+      "time": "2026-09-23 04:24:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US billionaire Boehly, backed by US government and Gulf capital, bids for Lukoil international assets】Todd Boehly, U.S. billionaire and former Chelsea chairman, is leading a bid for Russian oil company Lukoil’s international assets with backing from the U.S. government and Gulf capital reportedly linked to the Trump family. The assets, placed for sale after Lukoil faced U.S. sanctions last year, were written down to about $20 bln in March and span oil and gas fields from Central Asia to Mexico, thousands of service stations and substantial European refining capacity. Insiders say Boehly’s consortium includes the U.S. International Development Finance Corp. (DFC), which would take roughly a 15% stake, UAE presidential brother Sheikh Tahnoon and Qatar’s Al-Hayat family; Boehly has been preparing for months and seeks to displace U.S. buyout giant Carlyle, which had earlier agreed to acquire the assets. Boehly has not finalized terms with Lukoil; the proposal is advanced but the parties’ negotiation status is unclear."
+    },
+    {
+      "id": "mkt:01a0cac9-ba5c-7118-8650-7169bcf9d698",
+      "time": "2026-09-23 04:23:33",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel said ECB interest rates remain in a neutral range and he cannot rule out the need to move into mildly restrictive territory."
+    },
     {
       "id": "5108569",
       "time": "2026-09-23 04:22:29",

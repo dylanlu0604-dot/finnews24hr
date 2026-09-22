@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-23 04:22:57",
-  "count": 13427,
+  "updated": "2026-09-23 04:26:42",
+  "count": 13429,
   "items": [
+    {
+      "id": "mkt:01a0cacc-44bc-7118-8650-847cd77f7aaa",
+      "time": "2026-09-23 04:26:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Fed System Open Market Account manager Perli said the Fed's monetary policy toolkit is operating effectively."
+    },
+    {
+      "id": "mkt:01a0caca-67e3-7118-8650-7a37492dff91",
+      "time": "2026-09-23 04:24:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US billionaire Boehly, backed by US government and Gulf capital, bids for Lukoil international assets】Todd Boehly, U.S. billionaire and former Chelsea chairman, is leading a bid for Russian oil company Lukoil’s international assets with backing from the U.S. government and Gulf capital reportedly linked to the Trump family. The assets, placed for sale after Lukoil faced U.S. sanctions last year, were written down to about $20 bln in March and span oil and gas fields from Central Asia to Mexico, thousands of service stations and substantial European refining capacity. Insiders say Boehly’s consortium includes the U.S. International Development Finance Corp. (DFC), which would take roughly a 15% stake, UAE presidential brother Sheikh Tahnoon and Qatar’s Al-Hayat family; Boehly has been preparing for months and seeks to displace U.S. buyout giant Carlyle, which had earlier agreed to acquire the assets. Boehly has not finalized terms with Lukoil; the proposal is advanced but the parties’ negotiation status is unclear."
+    },
+    {
+      "id": "mkt:01a0cac9-ba5c-7118-8650-7169bcf9d698",
+      "time": "2026-09-23 04:23:33",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel said ECB interest rates remain in a neutral range and he cannot rule out the need to move into mildly restrictive territory."
+    },
     {
       "id": "5108569",
       "time": "2026-09-23 04:22:29",
@@ -122466,17 +122494,6 @@
         "DXY"
       ],
       "text": "Saudi outlet Alhadath reports Iraq's army spokesman said the military will soon release findings of its investigation into the attack on Saudi Arabia."
-    },
-    {
-      "id": "mkt:01a0a6c0-078f-7118-85a3-98c5b029aba2",
-      "time": "2026-09-16 04:26:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【U.S. House Speaker Johnson says leading AI executives to attend White House meeting】House Speaker Johnson said he spoke with Trump Monday night and they are convening top executives from AI suppliers — \"all the big names\" — at the White House in the coming week for an important meeting. Johnson said AI guardrails must be balanced and carefully considered, called for independent audit bodies and developer transparency, and said there are several concrete ideas that could serve as safeguards."
     }
   ]
 }
