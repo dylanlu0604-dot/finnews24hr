@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-23 04:07:54",
-  "count": 13412,
+  "updated": "2026-09-23 04:11:39",
+  "count": 13416,
   "items": [
+    {
+      "id": "5108562",
+      "time": "2026-09-23 04:10:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國政府與海灣地區億萬富翁支援美國億萬富翁託德·博利收購盧克石油資產。"
+    },
+    {
+      "id": "mkt:01a0cabd-97d4-7118-8650-34f6ec4faae9",
+      "time": "2026-09-23 04:10:17",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel said he was not overly concerned about labour-market developments."
+    },
+    {
+      "id": "mkt:01a0cabd-8962-7118-8650-2b8dfc226132",
+      "time": "2026-09-23 04:10:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar said the president of the Inter-American Development Bank is seeking a $2.5 billion loan for Venezuela but faces resistance from the bank's board."
+    },
+    {
+      "id": "5108561",
+      "time": "2026-09-23 04:08:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：加拿大將向巴勒斯坦提供1億加元的國際援助。"
+    },
+    {
+      "id": "mkt:01a0cabb-8f3f-7118-8650-25ce67797b27",
+      "time": "2026-09-23 04:08:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Financial Times reports the U.S. government and Gulf billionaires are backing U.S. billionaire Todd Boehly’s bid to acquire Lukoil oil assets."
+    },
     {
       "id": "mkt:01a0cabb-131b-7118-8650-197b4585936b",
       "time": "2026-09-23 04:07:32",
@@ -122324,14 +122373,6 @@
         "國際"
       ],
       "text": "【美軍稱對伊海上封鎖已使103艘商船改變航向】當地時間9月15日，美軍中央司令部稱，美軍持續執行針對伊朗的海上封鎖任務。美中央司令部稱，截至9月15日，美軍已使103艘商船改變航向。"
-    },
-    {
-      "id": "5095975",
-      "time": "2026-09-16 04:10:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列高階官員：刺殺行動成功，拉法旅指揮官已被擊斃。"
     }
   ]
 }
