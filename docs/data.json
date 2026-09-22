@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-23 06:36:23",
-  "count": 13417,
+  "updated": "2026-09-23 06:40:07",
+  "count": 13418,
   "items": [
+    {
+      "id": "mkt:01a0cb46-3d1a-7118-8651-f92090d5871e",
+      "time": "2026-09-23 06:39:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Syria's president said he is working to establish secure corridors through Syrian territory for Iraqi goods, especially oil."
+    },
+    {
+      "id": "mkt:01a0cb46-34a3-7118-8651-f304b3b9cbce",
+      "time": "2026-09-23 06:39:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's president said Syria demands Israel withdraw to positions defined under the 1974 arrangements before discussing security arrangements. If those security arrangements succeed, parties can move to negotiations on a permanent peace."
+    },
+    {
+      "id": "5108609",
+      "time": "2026-09-23 06:36:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "航班雷達顯示：多架飛往利雅得的航班目前在城市安全距離外等待盤旋，當地時間 00:44 起暫無航班落地。"
+    },
     {
       "id": "mkt:01a0cb42-7a55-7118-8651-e9f743f7022b",
       "time": "2026-09-23 06:35:26",
@@ -122419,23 +122446,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Barley Rises by 3.98% — Top commodity gainers are Barley (3.98%), Soybeans (1.11%) and Wheat (0.90%). Biggest losers are Cocoa (-2.80%), Coffee (-2.48%) and Butter (-1.74%)."
-    },
-    {
-      "id": "5096092",
-      "time": "2026-09-16 06:38:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【內部照片曝光：伊朗導彈無人機襲擊致中東美軍基地嚴重受損】照片顯示在伊朗導彈與無人機襲擊後，中東多處美軍據點受損嚴重。這批照片由美國現役軍人匿名提供，展現了沙烏地阿拉伯與科威特境內基地被損毀的建築、車輛及裝備。在沙特的蘇丹王子空軍基地，一架波音E‑3“望樓”預警機遭到擊中，機尾斷裂。科威特的布埃林營與阿里夫詹營的照片可見被損毀的營房、活動板房與車輛。一名美國駐外部隊軍人表示：“我們的基地遭受了嚴重損毀，但這一點並未告知美國公眾。我們就像閉著眼睛站在原地，挨別人的拳頭。”另一名軍人批評美國防禦體系：“我們根本沒有在保衛這些基地，只能眼睜睜看著它們被毀。”"
-    },
-    {
-      "id": "mkt:01a0a737-a4b1-7118-85a4-cc54472e12dd",
-      "time": "2026-09-16 06:37:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Gravity-1 Yao-3 carrier rocket launch successful】At 06:00 Beijing time on Sept 16, 2026, the Taiyuan Satellite Launch Center launched the Gravity-1 Yao-3 rocket from waters east of Shanghai, placing nine satellites — the Qianfan Polar-26 satellite group and an EUHT technology test satellite — into their planned orbit. The flight test was fully successful; it was the fourth flight of the Gravity-1 launch vehicle."
     }
   ]
 }
