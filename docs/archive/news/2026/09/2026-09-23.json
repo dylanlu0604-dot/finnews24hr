@@ -1,7 +1,133 @@
 {
   "date": "2026-09-23",
-  "count": 330,
+  "count": 344,
   "items": [
+    {
+      "id": "mkt:01a0ca9f-7449-7118-864f-84f04f7b8218",
+      "time": "2026-09-23 03:37:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank governor said inflation expectations require continued caution."
+    },
+    {
+      "id": "mkt:01a0ca9f-36ae-7118-864f-78d1e449148b",
+      "time": "2026-09-23 03:37:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he expects Witkoff and Kushner to resolve the matter."
+    },
+    {
+      "id": "mkt:01a0ca9f-2f78-7118-864f-77bafb009dff",
+      "time": "2026-09-23 03:37:04",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.17% on 22nd】The dollar index, measuring the greenback against six major currencies, rose 0.17% to 100.603 at the New York close on the 22nd. EUR/USD was 1.1442, down from 1.1465; GBP/USD 1.3335, down from 1.3369. USD/JPY 157.50, up from 157.45; USD/CHF 0.8212, down from 0.8213; USD/CAD 1.4068, up from 1.4039; USD/SEK 9.8487, up from 9.8398."
+    },
+    {
+      "id": "5108540",
+      "time": "2026-09-23 03:37:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為威特科夫和庫什納會把這件事解決掉。"
+    },
+    {
+      "id": "5108539",
+      "time": "2026-09-23 03:35:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數22日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.17%，在匯市尾市收於100.603。截至紐約匯市尾市，1歐元兌換1.1442美元，低於前一交易日的1.1465美元；1英鎊兌換1.3335美元，低於前一交易日的1.3369美元。1美元兌換157.50日元，高於前一交易日的157.45日元；1美元兌換0.8212瑞士法郎，低於前一交易日的0.8213瑞士法郎；1美元兌換1.4068加元，高於前一交易日的1.4039加元；1美元兌換9.8487瑞典克朗，高於前一交易日的9.8398瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a0ca9d-910c-7118-864f-6ebfdcec8864",
+      "time": "2026-09-23 03:35:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he believes Iran will do some good things."
+    },
+    {
+      "id": "mkt:01a0ca9d-887d-7118-864f-65b33596d36f",
+      "time": "2026-09-23 03:35:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said momentum is strong for Iran to reach an agreement."
+    },
+    {
+      "id": "5108538",
+      "time": "2026-09-23 03:34:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守89美元/桶，日內跌3.66%。"
+    },
+    {
+      "id": "mkt:01a0ca9c-e2df-7118-864f-58198ef62094",
+      "time": "2026-09-23 03:34:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver extends intraday gains to 2.0%, trading at $67.35/oz."
+    },
+    {
+      "id": "mkt:01a0ca9c-bee9-7118-864f-57767d21d176",
+      "time": "2026-09-23 03:34:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank governor said high-frequency indicators show demand slowed further in Q3."
+    },
+    {
+      "id": "5108537",
+      "time": "2026-09-23 03:34:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破68美元/盎司，日內漲2.40%。"
+    },
+    {
+      "id": "mkt:01a0ca9c-4fef-7118-864f-4a2a9de7d66c",
+      "time": "2026-09-23 03:33:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank governor said data show inflationary pressures will continue to ease, but supply-side conditions will face greater challenges."
+    },
+    {
+      "id": "5108536",
+      "time": "2026-09-23 03:33:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報67.37美元/盎司。"
+    },
+    {
+      "id": "5108535",
+      "time": "2026-09-23 03:33:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：威特科夫與庫什納同伊朗方面舉行了富有成效的會談。伊朗達成協議的勢頭十分強勁。我認為伊朗會拿出積極舉措。"
+    },
     {
       "id": "mkt:01a0ca9b-e27a-7118-864f-44238b83f919",
       "time": "2026-09-23 03:33:28",
