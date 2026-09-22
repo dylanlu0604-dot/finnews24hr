@@ -1,7 +1,128 @@
 {
   "date": "2026-09-23",
-  "count": 69,
+  "count": 83,
   "items": [
+    {
+      "id": "mkt:01a0ca06-505b-7118-864b-a17bb7f58fa9",
+      "time": "2026-09-23 00:50:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "2027 FOMC voting member and Richmond Fed President Barkin to speak in 10 minutes."
+    },
+    {
+      "id": "5108369",
+      "time": "2026-09-23 00:49:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美軍F-16戰機在德國墜毀 1人受傷】據德國西南廣播公司22日報道，美軍一架F-16戰鬥機當天下午在位於德國西部的美軍施龐達勒姆空軍基地墜毀，造成1人受傷。報道援引訊息人士的話說，失事戰機是在飛行訓練中發生事故，飛行員在戰機墜落前彈射逃生。美軍施龐達勒姆空軍基地位於德國萊茵蘭-普法爾茨州，駐紮有美空軍F-16戰機中隊。（新華社）"
+    },
+    {
+      "id": "5108368",
+      "time": "2026-09-23 00:49:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：認為會達成和解。"
+    },
+    {
+      "id": "5108367",
+      "time": "2026-09-23 00:49:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗今天仍然在和我們對話。"
+    },
+    {
+      "id": "5108366",
+      "time": "2026-09-23 00:48:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方在人權理事會表示對烏克蘭危機中平民傷亡頻發深感痛心】在瑞士日內瓦萬國宮22日進行的聯合國人權理事會第63屆會議就烏克蘭問題的發言中，中方表示對近期烏克蘭危機形勢快速演變中襲擊和平民傷亡事件頻發深感痛心，中國願同國際社會一道，繼續為危機政治解決發揮建設性作用。（新華社）"
+    },
+    {
+      "id": "5108365",
+      "time": "2026-09-23 00:48:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆：我們的承諾是對移民問題採取受控的處理方式，小船偷渡是一個重大問題。"
+    },
+    {
+      "id": "mkt:01a0ca04-6130-7118-864b-9c2edbf393d5",
+      "time": "2026-09-23 00:47:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Prime Minister Burnham said the government is committed to implementing a controlled immigration policy."
+    },
+    {
+      "id": "mkt:01a0ca03-f3c0-7118-864b-97b59f711463",
+      "time": "2026-09-23 00:47:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he considers Burnham a natural-born businessman."
+    },
+    {
+      "id": "mkt:01a0ca03-bb2a-7118-864b-89bd8deb7d13",
+      "time": "2026-09-23 00:47:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the United States is prepared to play its role in the Middle East."
+    },
+    {
+      "id": "mkt:01a0ca03-9aed-7118-864b-86912291f429",
+      "time": "2026-09-23 00:47:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham said he discussed the Falkland Islands with Trump."
+    },
+    {
+      "id": "5108364",
+      "time": "2026-09-23 00:47:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（被問及能否與伯納姆開展合作）可以。"
+    },
+    {
+      "id": "mkt:01a0ca03-68f5-7118-864b-78205ee1a2c0",
+      "time": "2026-09-23 00:46:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "RR.L"
+      ],
+      "text": "U.S. President Trump said he had discussed energy, immigration and Rolls-Royce with British Prime Minister Burnham."
+    },
+    {
+      "id": "5108363",
+      "time": "2026-09-23 00:46:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為伯納姆是天生的商人，他懂行。"
+    },
+    {
+      "id": "te:markets:585787",
+      "time": "2026-09-23 00:46:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Iron Ore Falls Approaches 1-Year Low — Iron ore futures in China dropped to under CNY 710 per tonne, approaching the one-year low of CNY 695 in early August as low demand and risks on financing trade. Iron ore trading giant Radiant world disclosed $870 million outstanding to six different trade financing firms, detailing the exposure of different creditors to the firm accused of fabricating invoices to secure funding, which has currently not been paid back. The crisis to the major trader halted a large source of physical iron ore liquidity. On top of halting a sector of the trading market, the developments are also due to tighten funding rules for other traders, having already been responsible for the sharp decline in ore futures in late July. Meanwhile, softening demand for construction and manufacturing in China also dented ferrous metal buying. New yuan loans were sharply under historical averages in August, and the construction PMI fell to a record low."
+    },
     {
       "id": "5108362",
       "time": "2026-09-23 00:45:59",
