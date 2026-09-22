@@ -1,7 +1,52 @@
 {
   "date": "2026-09-22",
-  "count": 538,
+  "count": 543,
   "items": [
+    {
+      "id": "5106562",
+      "time": "2026-09-22 09:13:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國隊打破10米氣步槍混合團體資格賽世界紀錄】在剛剛結束的愛知·名古屋亞運會10米氣步槍混合團體資格賽中，由王子菲、盛李豪組成的中國隊打破資格賽世界紀錄。"
+    },
+    {
+      "id": "mkt:01a0c6ac-2826-7118-8634-46e82dbd1346",
+      "time": "2026-09-22 09:12:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's industry minister said there has not yet been a concrete decision on whether to proceed with the two projects."
+    },
+    {
+      "id": "5106561",
+      "time": "2026-09-22 09:12:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里試水千問平板，與位元組押注不同的 AI 終端】阿里雲旗下無影團隊正在研發一款名叫 QwenBook 的 AI 裝置，定位是原生智慧體電腦，但產品形態更接近一臺 “千問平板”，產品定義和硬體部分由團隊自研，無影過去做雲電腦積累的系統和端雲能力，也被帶進了這個專案。（晚點）"
+    },
+    {
+      "id": "mkt:01a0c6aa-cfe7-7118-8634-3bee8fafca97",
+      "time": "2026-09-22 09:11:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Alibaba pilots QwenBook tablet as AI terminal, diverging from ByteDance】Alibaba Cloud’s Wuying team is developing QwenBook, an AI-native PC in tablet form with self-developed hardware and product definition. The early-stage pilot targets office users and reuses Wuying’s cloud-PC and edge-cloud capabilities; integrated models include Qwen3.8-Max and Qwen3.8-Flash."
+    },
+    {
+      "id": "5106560",
+      "time": "2026-09-22 09:10:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【億帆醫藥獲多西他賽注射液中國區總代理權】9月21日，億帆醫藥與韓國保寧製藥宣佈達成合作，億帆醫藥獲得泰索帝®（Taxotere，通用名：多西他賽注射液）在中國區的總代理權，全面負責該產品在中國境內的市場推廣、渠道分銷與商業化運營。泰索帝原研廠家為賽諾菲公司，2025年9月底，韓國保寧製藥正式披露全面獲得泰索帝的全球業務權益。泰索帝為抗微管類細胞毒抗腫瘤藥，廣泛應用於乳腺癌、非小細胞肺癌、前列腺癌、胃癌及頭頸部癌等實體瘤的治療。"
+    },
     {
       "id": "5106559",
       "time": "2026-09-22 09:10:30",
