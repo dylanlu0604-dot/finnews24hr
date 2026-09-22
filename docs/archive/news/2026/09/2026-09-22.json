@@ -1,7 +1,87 @@
 {
   "date": "2026-09-22",
-  "count": 670,
+  "count": 679,
   "items": [
+    {
+      "id": "5106644",
+      "time": "2026-09-22 10:03:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾克價微跌，老廟黃金克價1310元】9月22日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所調整，老廟黃金報價1310元/克，較前一日下跌5元；周生生報價1311元/克，前一日下跌7元；周大福報價1313元/克，前一日下跌7元；老鳳祥報價1317元/克，較前一日持平。"
+    },
+    {
+      "id": "5106643",
+      "time": "2026-09-22 10:03:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "mkt:01a0c6da-7261-7118-8635-cae38592aa9d",
+      "time": "2026-09-22 10:03:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "STAR 50 Index rose more than 3% intraday; constituent Zhongmoer Thread surged over 14%, leading the index's gains."
+    },
+    {
+      "id": "5106642",
+      "time": "2026-09-22 10:02:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "浙江省委常委、杭州市委書記劉非在2026雲棲大會表示，我們將持續加強人工智慧科技創新，發揮國家、省、市三級自然科學基金體系作用，構建人工智慧領域基礎研究穩定投入機制，推動從AI晶片、超節點伺服器、雲端計算到大模型、智慧體、具身智慧、太空人工智慧的全棧技術體系創新，努力構建自主可控，協同執行的人工智慧基礎軟硬體系統。我們將積極支援阿里、新華三等龍頭企業深耕全棧技術創新，鼓勵企業和高校、科研院所開展聯合攻關。（新浪科技）"
+    },
+    {
+      "id": "5106641",
+      "time": "2026-09-22 10:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【16部影片定檔2026中秋檔】據燈塔專業版，截至9月22日，已有16部影片定檔2026年中秋檔，其中有《復仇者聯盟4：終局之戰（加碼臻享版）》《死亡禁區實錄》《敦煌英雄》《老江湖》等。"
+    },
+    {
+      "id": "5106640",
+      "time": "2026-09-22 10:01:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX 據悉已停止銷售“獵鷹9號”共享發射任務。"
+    },
+    {
+      "id": "mkt:01a0c6d8-74a4-7118-8635-c6f1ba061589",
+      "time": "2026-09-22 10:01:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Office of National Narcotics Control Commission warns on medetomidine, tartaric acid diversion risk】The Office of the National Narcotics Control Commission on Sept 22 issued a public warning to prevent medetomidine and tartaric acid from being diverted into illegal channels for drug manufacture. The notice specifies the chemicals' CAS numbers and customs commodity codes and reminds firms and individuals to follow prior warnings issued in Aug 2019, Nov 2023 and Nov 2025, strengthen legal compliance and observe domestic and foreign laws when trading or exporting these substances."
+    },
+    {
+      "id": "5106639",
+      "time": "2026-09-22 10:00:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家禁毒委員會辦公室釋出警示通告防範美託咪定和酒石酸流失用於製毒風險】為防範美託咪定和酒石酸流失被用於製造毒品的風險，國家禁毒委員會辦公室9月22日公開發布《國家禁毒委員會辦公室關於防範美託咪定和酒石酸流入非法渠道用於製毒的警示通告》（簡稱《通告》）。 《通告》明確了美託咪定和酒石酸CAS號及海關商品編號，提醒相關企業和個人在從事上述化學品經營活動時，嚴格按照國家禁毒辦於2019年8月、2023年11月、2025年11月釋出的警示通告要求，增強法律意識，開展相關經營和出口貿易活動時遵守國內國外法律法規。"
+    },
+    {
+      "id": "te:markets:585448",
+      "time": "2026-09-22 10:00:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "China Stocks Extend Gains on US-China Talks, Tech Optimism — The Shanghai Composite rose 0.4% to 3,963.8 on Tuesday, while the Shenzhen Component advanced 1.2% to 13,889, extending gains from the previous session as optimism over high-level US-China talks boosted sentiment. Chinese and US officials concluded a second day of talks covering AI, investment, and trade issues ahead of the Trump-Xi summit in the US. The closely watched meeting, scheduled for September 23–25, is expected to focus on AI, the Iran conflict, export controls, and rare-earth supplies. Investors are also monitoring whether Beijing and Washington can extend their trade truce before it expires in November. Further supporting the market was a rally in Asian tech sector, which tracked gains on Wall Street amid optimism surrounding Meta Platforms' latest AI agent. Among the standout performers were SMIC (1.7%), Hygon Information Technology (7.5%), Zhongji Innolight (1.6%), and Victory Giant Technology (9.2%)."
+    },
     {
       "id": "mkt:01a0c6d8-10ad-7118-8635-bfb0f2bbe08b",
       "time": "2026-09-22 10:00:43",
