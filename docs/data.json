@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-23 07:26:27",
-  "count": 13422,
+  "updated": "2026-09-23 07:30:17",
+  "count": 13416,
   "items": [
+    {
+      "id": "5108646",
+      "time": "2026-09-23 07:26:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【秋季策略會密集舉辦，公募機構把脈市場新風向】近期，建信基金、華寶基金、匯添富基金等多家公募機構舉辦了秋季策略會或中期客戶交流會，不少基金經理圍繞權益走勢、科技、固收等熱門話題展開探討。 有機構人士表示，展望2026年四季度資產配置，或可增持黃金與資源品種對沖地緣風險，佈局科技與高階製造方向捕捉估值修復，同時警惕美債市場流動性可能坍塌引發的連鎖反應。（中國證券報）"
+    },
+    {
+      "id": "5108645",
+      "time": "2026-09-23 07:26:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【節前持股還是持幣，機構認為A股四季度有望迎來反彈行情】“雙節”假期將至，持股還是持幣的問題擺在投資者面前。多數機構認為，當下建議持股過節，但需控制倉位，當前市場下行風險有限，離場踏空風險大於在場的利空風險。預計市場短期大機率仍以震盪築底為主，四季度有望迎來反彈行情。（中國證券報）"
+    },
+    {
+      "id": "te:economy:585830",
+      "time": "2026-09-23 07:26:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "South Korea Consumer Sentiment Recovers in September — South Korea’s Composite Consumer Sentiment Index (CCSI) rose 2.1 points to 106.6 in September 2026 from August. Consumer sentiment regarding current living standards was unchanged at 92, while sentiment about the future outlook rose one point to 98. Sentiment regarding future household income increased two points to 102, while that concerning future household spending rose one point to 110. Consumer sentiment about current domestic economic conditions climbed four points to 83, while sentiment regarding future domestic economic conditions rose one point to 90. Sentiment on prospective employment opportunities increased two points to 88, while expectations for interest rates rose three points to 128. Expected inflation over the next year was unchanged at 2.7%, while three- and five-year inflation expectations both remained at 2.6%."
+    },
     {
       "id": "5108644",
       "time": "2026-09-23 07:25:27",
@@ -122393,90 +122421,6 @@
         "其他"
       ],
       "text": "【北京箭再創新紀錄】9月16日06時00分，北京商業航天企業東方空間研製的引力一號遙三運載火箭在我國東海海域點火升空，將搭載的8顆千帆星座組網衛星與1顆EUHT技術試驗衛星順利送入預定軌道，發射任務取得圓滿成功。本次任務創造了我國單次海上發射載荷重量及軌道高度的新紀錄，充分驗證了海上發射模式對於中大型衛星載荷任務的適應能力。 這發火箭的“乘客”主要為我國低軌衛星網際網路星座——千帆星座的組網衛星，火箭淨載荷重量超過3噸，入軌高度達800公里。此前，千帆星座的組網任務主要由航天領域“國家隊”承擔，但隨著星座建設進入高頻組網期，迫切需要大運力、高頻次、低成本的運力供給。東方空間相關負責人介紹，目前，引力一號已按每兩個月一發的頻率安排任務，具備常態化承接星座組網批次發射任務的能力。（北京日報）"
-    },
-    {
-      "id": "5096126",
-      "time": "2026-09-16 07:28:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國考慮從日本和韓國購買軍艦。"
-    },
-    {
-      "id": "5096125",
-      "time": "2026-09-16 07:28:46",
-      "tags": [
-        "公司",
-        "觀點",
-        "原創"
-      ],
-      "text": "【黃仁勳駁斥AI失控論：人類不會在2030年走向滅亡】英偉達CEO黃仁勳在當地時間週二晚間的一次採訪中批評了Anthropic的AI安全反壟斷豁擴音議，該提議旨在協同放緩前沿AI模型的開發，並駁斥了有關人工智慧可能導致人類滅絕的論調。黃仁勳表示：“有人認為，我們需要出臺新法律、新反壟斷法規或是新監管條例，才能讓這些企業在釋出產品前做好基礎工程、規範研發，這完全沒有必要。我們已有充足的法律與監管規定，足以保障產品的可靠性和功能。”他表示，模型開發者有能力在產品釋出前保障其安全性，“如果產品尚未達到釋出標準，那就暫緩推出，持續測試、持續最佳化，直到產品成熟。”黃仁勳還反駁了有關日益強大的人工智慧模型將對人類構成生存威脅的警告，他說：“人類不會在2030年走向滅亡。世界上有這麼多人會正確地開發人工智慧。我們會建立各種各樣的安全防護措施，發明各種用於安全和保障的技術。”"
-    },
-    {
-      "id": "5096124",
-      "time": "2026-09-16 07:28:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI巨頭呼籲“踩剎車” 機構認為國內算力需求仍有增長空間】近日，Anthropic執行長達里奧·阿莫迪呼籲放緩前沿AI模型能力提升的節奏，為安全研究和風險防範留出時間。OpenAI執行長薩姆·奧爾特曼、SpaceX創始人埃隆·馬斯克隨後表達支援。相關言論引發市場對AI基礎設施投資前景的擔憂，海外晶片股承壓，A股、港股科技板塊出現分化。前沿模型迭代如果放慢，AI產業鏈的需求是否也會隨之降溫？機構目前認為，需要區分模型研發節奏與算力需求增長。現階段，企業應用、推理業務仍在擴張，相關討論尚不足以證明AI資本開支進入收縮週期，但投資者對需求來源、商業回報及安全邊界的審視正在加強。（中國證券報）"
-    },
-    {
-      "id": "5096123",
-      "time": "2026-09-16 07:28:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【關鍵議息時間視窗臨近 私募攻守之間各有側重】近期全球股市持續震盪，A股亦在縮量中反覆拉鋸。投資者對於本週美聯儲9月議息會議的關注明顯升溫，觀望氛圍趨濃。對於此次備受市場關注的議息會議及其潛在影響，多家一線股票私募機構表示，美聯儲此次議息可能對近期持續震盪的海外市場帶來顯著影響，並影響A股的短期執行節奏。多家受訪私募人士認為，美聯儲加息本身已被充分預期，真正的變數在於後續政策路徑的措辭與節奏。在短期擾動與中期方向之間，一線機構正以“控回撤、看盈利”為主線，展開攻守兼備的佈局。（中國證券報 ）"
-    },
-    {
-      "id": "te:economy:583995",
-      "time": "2026-09-16 07:28:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Unemployment Rate",
-        "Importance 0"
-      ],
-      "text": "India Jobless Rate Falls to 6-Month Low — India’s unemployment rate fell to 5.0% in August 2026 from 5.1% in July, coming in below the 5.2% market expectation and marking the lowest level since February. The decline was driven by rural areas, where unemployment dropped to 4.1% from 4.5%, the lowest level since December, while urban unemployment edged up to 6.8% from 6.7%. The improvement coincided with stronger labor-market participation, with the labor force participation rate rising to 55.6% from 55.4%, while the worker population ratio increased to 52.8% from 52.5%, its highest level since March. The rise in the employment ratio alongside higher labor-force participation points to stronger employment activity behind the decline in unemployment. Female labor-force participation also increased to 34.8% from 34.4%, led by rural participation, which rose to 39.4% from 38.8%."
-    },
-    {
-      "id": "5096122",
-      "time": "2026-09-16 07:27:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【楚天龍：上半年數字人民幣相關業務收入佔公司營收比重較小】楚天龍(003040)在業績說明會上表示，2026年是我國數字人民幣由規模化試點轉向體系化落地的關鍵一年。2026年上半年，數字人民幣相關業務收入佔公司營業收入的比重較小。公司持續深化全鏈佈局，為行業客戶提供包括數幣支付、智慧合約、營銷服務、自動分賬等能力在內的數字人民幣全棧產品“一站式”標準接入系統服務，併成功中標某家二層運營機構省分行2026年度數字人民幣營銷活動專案。"
-    },
-    {
-      "id": "5096121",
-      "time": "2026-09-16 07:27:36",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【A股IPO承銷規模擴張 券商投行業績彈性顯現】今年以來，A股IPO市場持續放量，券商IPO承銷金額已超過2025年全年，投行業務競爭格局出現新變化。中金公司領跑承銷金額榜，中信建投排名較上半年明顯提升，國泰海通承銷家數居首。此外，今年新股上市首日表現分化，多家券商半年報承銷收入實現增長。分析人士認為，科技企業上市供給改善與二級市場估值變化，有望共同提升券商保薦跟投業務的收益彈性。（中國證券報）"
-    },
-    {
-      "id": "5096120",
-      "time": "2026-09-16 07:27:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國南方司令部：在東太平洋攔截並擊沉一艘船隻】美國南方司令部：9 月 15 日，在美國南方司令部指揮下，西半球聯合特遣部隊（JTF‑WHEM）兵力在東太平洋成功攔截一座為海上非法毒品走私活動提供支援的海上浮動加油站。情報證實，該船隻與暴力毒品恐怖組織 “洛斯喬內羅斯” 存在關聯。從船上抓獲的相關人員將移交厄瓜多當局。美軍對船隻完成清查、船員下船後，將該船予以鑿沉。西半球聯合特遣部隊持續開展精準、專業的行動，瓦解支撐西半球毒品走私活動的後勤網路。"
-    },
-    {
-      "id": "te:markets:583994",
-      "time": "2026-09-16 07:26:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Hovers at 4-Month Highs — Brent crude held above $108 per barrel on Wednesday, remaining near its highest levels in four months amid broadening supply disruptions in the Middle East. Saudi Arabia reportedly cancelled some shipments after drone attacks forced the closure of the East-West pipeline, notifying European customers that several September deliveries had been scrapped. There is still no clear timeline for when operations at the key pipeline, which provides an alternative route around the Strait of Hormuz, will resume, as Iran-backed Houthi militants renewed attacks on Saudi Arabia this week. In Libya, the national oil company also suspended operations at two oilfields and a pumping station amid ongoing protests. Beyond the Middle East, Russia struck petrol stations in Kyiv, while Ukraine targeted a Russian oil refinery, despite US President Trump’s announcement that both sides had agreed to halt attacks on each other’s energy infrastructure."
     }
   ]
 }
