@@ -1,7 +1,36 @@
 {
   "date": "2026-09-23",
-  "count": 365,
+  "count": 368,
   "items": [
+    {
+      "id": "mkt:01a0cab0-079c-7118-864f-e8c2faa14bc3",
+      "time": "2026-09-23 03:55:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Axios: Trump adviser blames high gasoline prices on refining capacity constraints】Jarrod Agen told Axios gasoline affordability remains President Trump’s top concern. AAA put the US average gasoline price at about $4.48/gal versus $3.18/gal a year earlier. Agen said crude \"has begun to move,\" though it is unclear how much is transiting the Strait of Hormuz, and that market crude supply has increased. He attributed price declines to tight refining capacity domestically and globally, citing Russia’s refining output down roughly 30–40%. Agen reiterated the president’s long-term goal is to prevent Iran from acquiring nuclear capability, saying that outcome justifies policy costs over time."
+    },
+    {
+      "id": "mkt:01a0caaf-2a81-7118-864f-e71841cf6e76",
+      "time": "2026-09-23 03:54:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's armed forces said in a statement that U.S. President Trump's remarks on Iran at the UN General Assembly were \"a tool of domestic propaganda\"."
+    },
+    {
+      "id": "5108551",
+      "time": "2026-09-23 03:53:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊發表宣告稱，特朗普在聯合國大會上有關伊朗的言論屬於 “對內宣傳工具”。"
+    },
     {
       "id": "5108550",
       "time": "2026-09-23 03:48:55",
