@@ -1,7 +1,99 @@
 {
-  "updated": "2026-09-22 20:35:43",
-  "count": 13267,
+  "updated": "2026-09-22 20:39:37",
+  "count": 13274,
   "items": [
+    {
+      "id": "5107871",
+      "time": "2026-09-22 20:38:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德勤：AI加速進入生產應用，企業競爭轉向價值兌現】9月22日，德勤在雲棲大會期間釋出《決策者視角下的企業AI應用》報告。報告顯示，企業的AI應用處於生產應用階段的比例持續提升，2026年進入生產部署階段的企業從56.0%上升至64.4%，但48.5%的受訪企業反饋AI專案實際投資回報低於預期，企業預期回報率集中在10%—25%區間。德勤中國諮詢業務全國主管合夥人華思遠認為，企業AI應用轉型重點已不再是工具使用率，而是如何透過流程重塑釋放業務價值。"
+    },
+    {
+      "id": "mkt:01a0c920-2228-7118-8643-d421ad5d8126",
+      "time": "2026-09-22 20:38:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China public mutual fund AUM at CNY39.63 trillion in August】China’s public mutual fund assets under management totaled CNY39.63 trillion at end‑August, up 1.35% MoM, the Asset Management Association of China said. Mixed funds led gains, rising about CNY256.8 billion to CNY4.09 trillion. Money‑market funds expanded to CNY16.31 trillion. Equity funds edged up to CNY5.04 trillion; bond fund size was marginally higher and overall flows were steady. Net asset values turned positive MoM in August, signalling a pickup in equity‑class sentiment, with mixed funds the largest driver of monthly scale growth."
+    },
+    {
+      "id": "5107870",
+      "time": "2026-09-22 20:38:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月我國公募基金總規模為39.63萬億元】中國證券投資基金業協會最新資料顯示，截至8月底，我國公募基金資產淨值合計39.63萬億元，環比增長1.35%。結構上，混合基金表現最為亮眼，淨值單月增約2,568億元至4.09萬億元；貨幣基金繼續穩健增長，淨值升至16.31萬億元。股票基金淨值小幅上漲為5.04萬億元。債券基金淨值微增，整體走勢平穩。總體來看，8月公募市場淨值環比回正，權益類資產信心正在回暖，混合基金成為當月規模增長的最大引擎。（央視新聞）"
+    },
+    {
+      "id": "5107869",
+      "time": "2026-09-22 20:37:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【姜維會見土耳其鋼鐵生產商協會秘書長維塞爾·亞彥】9月20日，第十五屆中國國際鋼鐵大會期間，中國鋼鐵工業協會黨委書記、副會長兼秘書長姜維在上海會見了土耳其鋼鐵生產商協會秘書長維塞爾·亞彥（Veysel Yayan）。雙方圍繞協會建設、歐盟CBAM、鋼鐵產業深化合作等議題開展坦誠交流。鋼協副秘書長蘇長永、中國國際貿易促進委員會冶金行業分會副秘書長（主持工作）蘇步新參與會見。（中國鋼鐵工業協會）"
+    },
+    {
+      "id": "5107868",
+      "time": "2026-09-22 20:37:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東莞控股：擬收購低空經濟公司65%股權】東莞控股公告，公司擬以605.42萬元收購交控集團持有的東莞市低空經濟發展有限公司65%股權，交易完成後納入合併報表範圍。相關議案已於2026年9月21日經第九屆董事會第八次會議審議透過，2026年第三次獨立董事專門會議同意，無需提交股東會審議。"
+    },
+    {
+      "id": "mkt:01a0c91e-934e-7118-8643-ca9aec2a3944",
+      "time": "2026-09-22 20:36:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi source says Iraq has not yet decided to ban Iranian aircraft from landing at its airports."
+    },
+    {
+      "id": "mkt:01a0c91e-3f57-7118-8643-c52a0c4bd16e",
+      "time": "2026-09-22 20:36:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "A White House official said Trump will use a United Nations speech to outline how he would employ U.S. power to confront Iran, combat drug‑cartel violence and other threats, and reshape the global order to protect U.S. interests."
+    },
+    {
+      "id": "5107867",
+      "time": "2026-09-22 20:36:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【安世半導體中國區重建供應鏈，東莞封測產能仍在恢復】原本安世半導體研發中心位於荷蘭、英國、德國、中國，晶圓廠在德國漢堡、英國曼徹斯特，封測廠在中國東莞、無錫和馬來西亞、菲律賓。如今安世中國拿不到境外安世晶圓廠的晶圓，安世荷蘭也用不了安世中國控制下的國內封測廠。但記者走訪瞭解到，安世中國已在國內逐步重建供應鏈，重要抓手是這座東莞封測廠。安世中國市場負責人告訴記者，風波發生前，安世半導體經由東莞封測廠出貨的比例約70%。去年第四季度安世中國推動電晶體晶圓替代方案攻關，今年第一季度末與國內晶圓廠商合作實現12英寸晶圓工藝平臺匯入，7、8月逐步實現風險量產，隨著晶圓產能逐步到位，東莞封測廠產能目前已在恢復中。（第一財經）"
+    },
+    {
+      "id": "5107866",
+      "time": "2026-09-22 20:36:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普將在聯合國大會上談及伊朗、販毒集團和其他威脅。"
+    },
+    {
+      "id": "5107865",
+      "time": "2026-09-22 20:36:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【2026年全國檢驗檢測機構開放日活動在蘇州啟動】9月22日，以“檢驗檢測——賦能高質量發展”為主題的2026年全國檢驗檢測機構開放日主會場活動在江蘇省蘇州市正式啟動。同期，全國共有2663家檢驗檢測機構對外開放，其中603家為年度首次開放，154家國家質檢中心參與，預計受眾超10萬人次。本屆開放日的主會場活動，配套檢驗檢測行業與高階儀器儀表產業高質量發展展示，100家知名機構及企業集中亮相，覆蓋新能源、半導體、智慧網聯汽車、光伏儲能、生物醫藥、機器人等新興產業。20多個省（區、市）市場監管部門及轄區機構同步連線觀看主會場活動，遼寧、安徽、山東、重慶、四川與主會場影片連線開放現場情況。各地還將同步開展公益檢測與便民諮詢，推動檢驗檢測服務貼近產業與民生。檢驗檢測是重要的生產性服務業和高技術服務業，市場監管總局將2026年確定為認證認可檢驗檢測“規範與發展年”，全面實施“一單一庫”管理，印發《國家質檢中心提質最佳化三年行動方案》，引導行業從“事後把關”向“全程賦能”轉型。在此背景下，檢驗檢測機構正加速嵌入產業鏈供應鏈，從單一檢測向全鏈條技術解決方案升級；同時築牢公信力生命線，以“零容忍”整治違規，推動實驗室在陽光下執行。行業也正積極推動檢測國際互認，讓“中國檢測”成為跨國信任通用語言，並深化食品、環境、公共安全等領域的常態化惠民服務。"
+    },
     {
       "id": "5107864",
       "time": "2026-09-22 20:34:51",
@@ -121162,32 +121254,6 @@
         "Importance 1"
       ],
       "text": "Canadian Wholesale Sales Revised Higher — Wholesales sales in Canada, excluding petroleum and hydrocarbon products, rose by 0.3% from the previous month to C$93.1 billion in July of 2026. The result was revised higher from the flash estimate of a 0.6% decline, extending the 2.8% jump in June to reflect some resilience to higher energy costs from the Canadian manufacturing sector. Higher sales were observed from building materials and supplies subsector (3.5% to C$13.8 billion) and food, beverage, and tobacco producers (1.7% to C$16.67 billion). In turn, sales fell for farm products (-1.9% to C$1.8 billion) and personal and household goods (-1.5% to C$12.8 billion). Wholesalers raised prices in the period to support turnover, as volumes shrank by 0.6% from the previous month."
-    },
-    {
-      "id": "mkt:01a0a511-b554-7118-8597-d9ad19c40500",
-      "time": "2026-09-15 20:36:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "UK energy minister says Britain is not currently concerned about the Houthis' impact on energy supplies."
-    },
-    {
-      "id": "5095428",
-      "time": "2026-09-15 20:36:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【啟境GX7後續會不會出純電版？啟境汽車回應】9月15日，啟境汽車發文表示，啟境GX7預計2026年9月底正式上市，屆時將同步開啟交付。針對後續會不會出純電版，啟境汽車回應稱，啟境GX7目前推出增程動力版本，後續如有產品新動態，將透過啟境汽車官方渠道第一時間釋出。據瞭解，GX7是啟境汽車旗下第二款車型，定位大五座SUV。"
-    },
-    {
-      "id": "5095427",
-      "time": "2026-09-15 20:35:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豪恩汽電：特定股東盈華佳擬減持不超0.3737%公司股份】豪恩汽電公告，持股3.7372%的特定股東深圳市盈華佳科技有限公司因自身資金需求，計劃自公告披露之日起15個交易日後的3個月內，透過集中競價方式減持公司股份不超過38萬股，佔公司總股本的0.3737%。盈華佳為公司員工持股平臺，不屬於公司控股股東和實際控制人，本次減持計劃實施不會導致公司控制權發生變更。"
     }
   ]
 }
