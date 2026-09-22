@@ -1,7 +1,153 @@
 {
-  "updated": "2026-09-22 10:12:31",
-  "count": 13358,
+  "updated": "2026-09-22 10:16:20",
+  "count": 13365,
   "items": [
+    {
+      "id": "te:markets:585453",
+      "time": "2026-09-22 10:15:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Futures Rangebound — Platinum futures traded around $1,800 an ounce, moving in a tight range as a firmer US dollar offset easing inflationary pressures from retreating oil prices. Oil prices continued to decline amid signs of increased diplomatic efforts to resolve the conflict and restore energy flows in the Middle East. This eased concerns over inflation and the prospect of further interest rate hikes, lowering the opportunity cost of holding platinum. However, hawkish comments from Federal Reserve officials reinforced expectations for a tighter US interest-rate outlook following last week’s first rate hike in three years. Underlying fundamentals remained supportive, with WPIC forecasting a 5% increase in industrial demand in 2026, partly driven by AI infrastructure, although automotive demand is forecast to fall 4%. Despite a projected 265k oz surplus in 2026, WPIC also expects above-ground stocks to remain at only about 3.4 months of global demand, following the large deficits of previous years."
+    },
+    {
+      "id": "te:markets:585452",
+      "time": "2026-09-22 10:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Rises by 1.01% — Top currency gainer is South Korean Won (1.01%). Biggest loser is Japanese Yen (-0.08%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "5106665",
+      "time": "2026-09-22 10:14:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞稱沙特空襲葉門致多人傷亡】據葉門胡塞武裝控制的馬西拉電視臺今天（9月22日）報道，沙特戰機對葉門塔伊茲省港口城市穆哈發動了3次空襲，造成多人傷亡，“其中包括婦女和兒童”。目前，沙特方面暫未就此作出回應。（CCTV國際時訊）"
+    },
+    {
+      "id": "5106664",
+      "time": "2026-09-22 10:14:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔡崇信：阿里巴巴正堅定投入全棧AI建設】“2026雲棲大會”於9月22日-24日在杭州舉行。阿里巴巴集團董事會主席蔡崇信出席並致辭。蔡崇信在演講中表示，過去幾年，AI不斷拓展人們對技術能力的想象。他表示，AI有著廣闊的發展空間，關鍵在於能在真實場景落地，實現規模化應用。我們已經看到，AI推動了自動駕駛、具身智慧、世界模型等能力發展，進而提升千行百業的生產力。這就是“自研自用”的意義，讓AI從技術突破走向價值創造。“正如大家所見，阿里巴巴正在堅定投入全棧AI建設，持續打造從晶片、雲、模型，到模型服務和智慧體應用的全棧體系。這五層體系彼此協同，構成從技術能力到產業應用的完整路徑，讓每一項技術進步都能更快轉化為產業進步。”他說。（新浪科技）"
+    },
+    {
+      "id": "5106663",
+      "time": "2026-09-22 10:14:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴據悉計劃訓練引數量達 5 萬億至 10 萬億的 AI 模型。"
+    },
+    {
+      "id": "5106662",
+      "time": "2026-09-22 10:14:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.92%，成分股中，摩爾執行緒漲11.33%，瀾起科技漲7.71%，沐曦股份漲5.91%，海光資訊漲5.85%。"
+    },
+    {
+      "id": "mkt:01a0c6e4-48c5-7118-8636-33ec4be0bf7d",
+      "time": "2026-09-22 10:14:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said data show the economic recovery has continued this quarter but remains uneven."
+    },
+    {
+      "id": "5106661",
+      "time": "2026-09-22 10:13:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "佈雷曼：我們預計經濟復甦將進一步增強、範圍進一步擴大。"
+    },
+    {
+      "id": "5106660",
+      "time": "2026-09-22 10:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：資料顯示，本季度經濟復甦仍在持續，但復甦程序依然不均衡。"
+    },
+    {
+      "id": "5106659",
+      "time": "2026-09-22 10:13:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "港口航運板塊持續走低，招商輪船跌超7%，招商南油、中遠海能、國航遠洋跟跌。"
+    },
+    {
+      "id": "mkt:01a0c6e3-583f-7118-8636-2abd7873f1bf",
+      "time": "2026-09-22 10:13:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said he expects the economic recovery to strengthen further and broaden."
+    },
+    {
+      "id": "mkt:01a0c6e3-4977-7118-8636-268fa4d80537",
+      "time": "2026-09-22 10:12:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "A-share CRO sector spiked intraday; Yiqiao Shenzhou rose over 16%, with Nuoweizan, Baihua Pharma, CanSino Biologics, Dian Diagnostics and Tailong Pharma also higher."
+    },
+    {
+      "id": "mkt:01a0c6e3-1715-7118-8636-183c49c517e8",
+      "time": "2026-09-22 10:12:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said the economic outlook still faces significant risks."
+    },
+    {
+      "id": "5106658",
+      "time": "2026-09-22 10:12:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念板塊短線拉昇，義翹神州漲超15%】CRO概念板塊短線拉昇，義翹神州漲超16%，諾唯贊、百花醫藥、康希諾、迪安診斷、太龍藥業跟漲。"
+    },
+    {
+      "id": "5106657",
+      "time": "2026-09-22 10:12:31",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲行長佈雷曼：經濟前景仍面臨重大風險。"
+    },
+    {
+      "id": "mkt:01a0c6e2-c008-7118-8636-1171533b2ad4",
+      "time": "2026-09-22 10:12:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said the bank will assess incoming data and global developments ahead of its October policy decision and will continue to monitor the inflation outlook."
+    },
+    {
+      "id": "5106656",
+      "time": "2026-09-22 10:12:04",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲行長佈雷曼：在10月份做出下一次決策之前，我們將評估最新資料及全球形勢發展，並繼續關注通脹前景。"
+    },
     {
       "id": "mkt:01a0c6e2-3ccd-7118-8636-0d091bc09255",
       "time": "2026-09-22 10:11:50",
@@ -122171,103 +122317,6 @@
         "國際"
       ],
       "text": "五角大樓監督機構釋出報告，列出伊朗戰爭相關開支：美國“史詩之怒”行動截至6月的成本估計為334億美元。截至6月底，美國在伊朗戰爭中消耗了價值223億美元的彈藥。"
-    },
-    {
-      "id": "5094209",
-      "time": "2026-09-15 10:16:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特多地釋出緊急預警】沙特民防部門當地時間9月15日凌晨向延布、吉達、塔伊夫、艾卜哈和吉贊等多座城市釋出緊急預警。近來葉門衝突升級，葉門胡塞武裝和支援葉門政府的沙特頻繁互襲。（央視新聞）"
-    },
-    {
-      "id": "te:economy:583670",
-      "time": "2026-09-15 10:16:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "China Jobless Rate Hits 5-Month High — China’s surveyed urban unemployment rate rose to 5.3% in August 2026 from 5.2% in the previous month, surpassing market expectations of 5.2% and marking the highest reading since March. Among the locally registered labor force, the jobless rate increased to 5.3% from 5.2% in July, while the rate for migrant workers rose to 5.2% from 5.1%. Within the migrant labor force, the unemployment rate for agricultural workers stood at 5.0%, up from 4.9% in the previous month. Across 31 major cities, the surveyed urban unemployment rate increased to 5.3% from 5.2% in July. Employees at enterprises worked an average of 48.2 hours per week. From January to August, the surveyed urban unemployment rate averaged 5.2%, unchanged from the average for the first seven months and the same period last year."
-    },
-    {
-      "id": "5094208",
-      "time": "2026-09-15 10:15:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行：7月現金匯款額為32.4億美元。"
-    },
-    {
-      "id": "te:markets:583669",
-      "time": "2026-09-15 10:15:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Depreciates by 0.39% — Top currency losers are South Korean Won (-0.39%), Japanese Yen (-0.31%) and New Zealand Dollar (-0.30%). Meanwhile Chinese Yuan was little changed."
-    },
-    {
-      "id": "5094207",
-      "time": "2026-09-15 10:14:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2％，成分股中，華海清科漲8.45％，屹唐股份漲6.05％，寒武紀漲4.96％，芯原股份漲4.71％。"
-    },
-    {
-      "id": "te:economy:583666",
-      "time": "2026-09-15 10:14:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Fixed Asset Investment",
-        "Importance 1"
-      ],
-      "text": "China Fixed Investment Falls as Expected — China’s fixed-asset investment declined by 7.2% year-on-year in the January-August 2026 period, matching market expectations and following a 6.7% drop in the first seven months of the year. Property investment remained the biggest drag, slumping 19.9% (vs -19.2% in January-July), amid weak housing demand, falling home prices and persistent financing constraints among developers. Investment in infrastructure (-4% vs -3.6%) and manufacturing (-2.3% vs -1.7%) also dropped further. Investment also continued to fall across all three major industries: the primary sector (-2.4% vs -0.5%), the secondary sector (-2.9% vs -2.1%), and the tertiary sector (-9.9% vs -9.5%). Excluding the property sector, fixed-asset investment fell by 4.2% in the first eight months of the year, after a 3.7% decline in January-July. On a monthly basis, fixed-asset investment decreased by 0.5% in August, slowing from a 1.37% drop in July."
-    },
-    {
-      "id": "mkt:01a0a2d7-90b7-7118-8584-d318d8375ad7",
-      "time": "2026-09-15 10:13:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Nikkei 225 turned positive, rising to 64,000 points, up 0.80% on the day."
-    },
-    {
-      "id": "mkt:01a0a2d7-478b-7118-8584-c86c1c6cae37",
-      "time": "2026-09-15 10:13:32",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share wind-turbine equipment sector rose after intraday volatility; Jixin Technology hit the daily limit, while Dajin Heavy Industry, Tianshun Wind Energy, Tianneng Heavy Industry, Xinqianglian and Zhenhong also gained."
-    },
-    {
-      "id": "5094206",
-      "time": "2026-09-15 10:12:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【風電裝置板塊短線拉昇，吉鑫科技漲停】風電裝置板塊短線拉昇，吉鑫科技漲停，大金重工、天順風能、天能重工、新強聯、振宏股份等紛紛走高。"
-    },
-    {
-      "id": "5094205",
-      "time": "2026-09-15 10:12:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光通訊概念拉昇 通鼎互聯漲停】光通訊概念拉昇，通鼎互聯漲停，浙江眾成漲逾7%，信德新材、正帆科技、興森科技等漲幅居前。"
     }
   ]
 }

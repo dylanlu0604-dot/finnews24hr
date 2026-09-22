@@ -1,7 +1,153 @@
 {
   "date": "2026-09-22",
-  "count": 699,
+  "count": 716,
   "items": [
+    {
+      "id": "te:markets:585453",
+      "time": "2026-09-22 10:15:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Futures Rangebound — Platinum futures traded around $1,800 an ounce, moving in a tight range as a firmer US dollar offset easing inflationary pressures from retreating oil prices. Oil prices continued to decline amid signs of increased diplomatic efforts to resolve the conflict and restore energy flows in the Middle East. This eased concerns over inflation and the prospect of further interest rate hikes, lowering the opportunity cost of holding platinum. However, hawkish comments from Federal Reserve officials reinforced expectations for a tighter US interest-rate outlook following last week’s first rate hike in three years. Underlying fundamentals remained supportive, with WPIC forecasting a 5% increase in industrial demand in 2026, partly driven by AI infrastructure, although automotive demand is forecast to fall 4%. Despite a projected 265k oz surplus in 2026, WPIC also expects above-ground stocks to remain at only about 3.4 months of global demand, following the large deficits of previous years."
+    },
+    {
+      "id": "te:markets:585452",
+      "time": "2026-09-22 10:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Rises by 1.01% — Top currency gainer is South Korean Won (1.01%). Biggest loser is Japanese Yen (-0.08%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "5106665",
+      "time": "2026-09-22 10:14:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞稱沙特空襲葉門致多人傷亡】據葉門胡塞武裝控制的馬西拉電視臺今天（9月22日）報道，沙特戰機對葉門塔伊茲省港口城市穆哈發動了3次空襲，造成多人傷亡，“其中包括婦女和兒童”。目前，沙特方面暫未就此作出回應。（CCTV國際時訊）"
+    },
+    {
+      "id": "5106664",
+      "time": "2026-09-22 10:14:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔡崇信：阿里巴巴正堅定投入全棧AI建設】“2026雲棲大會”於9月22日-24日在杭州舉行。阿里巴巴集團董事會主席蔡崇信出席並致辭。蔡崇信在演講中表示，過去幾年，AI不斷拓展人們對技術能力的想象。他表示，AI有著廣闊的發展空間，關鍵在於能在真實場景落地，實現規模化應用。我們已經看到，AI推動了自動駕駛、具身智慧、世界模型等能力發展，進而提升千行百業的生產力。這就是“自研自用”的意義，讓AI從技術突破走向價值創造。“正如大家所見，阿里巴巴正在堅定投入全棧AI建設，持續打造從晶片、雲、模型，到模型服務和智慧體應用的全棧體系。這五層體系彼此協同，構成從技術能力到產業應用的完整路徑，讓每一項技術進步都能更快轉化為產業進步。”他說。（新浪科技）"
+    },
+    {
+      "id": "5106663",
+      "time": "2026-09-22 10:14:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴據悉計劃訓練引數量達 5 萬億至 10 萬億的 AI 模型。"
+    },
+    {
+      "id": "5106662",
+      "time": "2026-09-22 10:14:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.92%，成分股中，摩爾執行緒漲11.33%，瀾起科技漲7.71%，沐曦股份漲5.91%，海光資訊漲5.85%。"
+    },
+    {
+      "id": "mkt:01a0c6e4-48c5-7118-8636-33ec4be0bf7d",
+      "time": "2026-09-22 10:14:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said data show the economic recovery has continued this quarter but remains uneven."
+    },
+    {
+      "id": "5106661",
+      "time": "2026-09-22 10:13:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "佈雷曼：我們預計經濟復甦將進一步增強、範圍進一步擴大。"
+    },
+    {
+      "id": "5106660",
+      "time": "2026-09-22 10:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行行長佈雷曼：資料顯示，本季度經濟復甦仍在持續，但復甦程序依然不均衡。"
+    },
+    {
+      "id": "5106659",
+      "time": "2026-09-22 10:13:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "港口航運板塊持續走低，招商輪船跌超7%，招商南油、中遠海能、國航遠洋跟跌。"
+    },
+    {
+      "id": "mkt:01a0c6e3-583f-7118-8636-2abd7873f1bf",
+      "time": "2026-09-22 10:13:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said he expects the economic recovery to strengthen further and broaden."
+    },
+    {
+      "id": "mkt:01a0c6e3-4977-7118-8636-268fa4d80537",
+      "time": "2026-09-22 10:12:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "A-share CRO sector spiked intraday; Yiqiao Shenzhou rose over 16%, with Nuoweizan, Baihua Pharma, CanSino Biologics, Dian Diagnostics and Tailong Pharma also higher."
+    },
+    {
+      "id": "mkt:01a0c6e3-1715-7118-8636-183c49c517e8",
+      "time": "2026-09-22 10:12:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said the economic outlook still faces significant risks."
+    },
+    {
+      "id": "5106658",
+      "time": "2026-09-22 10:12:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念板塊短線拉昇，義翹神州漲超15%】CRO概念板塊短線拉昇，義翹神州漲超16%，諾唯贊、百花醫藥、康希諾、迪安診斷、太龍藥業跟漲。"
+    },
+    {
+      "id": "5106657",
+      "time": "2026-09-22 10:12:31",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲行長佈雷曼：經濟前景仍面臨重大風險。"
+    },
+    {
+      "id": "mkt:01a0c6e2-c008-7118-8636-1171533b2ad4",
+      "time": "2026-09-22 10:12:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ Governor Breman said the bank will assess incoming data and global developments ahead of its October policy decision and will continue to monitor the inflation outlook."
+    },
+    {
+      "id": "5106656",
+      "time": "2026-09-22 10:12:04",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲行長佈雷曼：在10月份做出下一次決策之前，我們將評估最新資料及全球形勢發展，並繼續關注通脹前景。"
+    },
     {
       "id": "mkt:01a0c6e2-3ccd-7118-8636-0d091bc09255",
       "time": "2026-09-22 10:11:50",
