@@ -1,7 +1,140 @@
 {
   "date": "2026-09-23",
-  "count": 725,
+  "count": 739,
   "items": [
+    {
+      "id": "mkt:01a0cbe1-5eec-7118-8654-11b60040241b",
+      "time": "2026-09-23 09:28:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Sanae Takaichi said Japan will continue close cooperation with President Erdogan to pursue overall stability in the Middle East."
+    },
+    {
+      "id": "mkt:01a0cbe1-4b6d-7118-8654-0e6c1b6c61ac",
+      "time": "2026-09-23 09:28:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Prime Minister Takaichi said the two sides agreed in talks to deepen cooperation across education, economic and defense sectors and to elevate the bilateral strategic partnership to a new level."
+    },
+    {
+      "id": "mkt:01a0cbe1-3837-7118-8654-0420b487399a",
+      "time": "2026-09-23 09:28:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Recently listed A-share Zhongsu Co. (C) opened down 21.48% at 340 yuan, after a 683.29% rise at yesterday's close."
+    },
+    {
+      "id": "5108766",
+      "time": "2026-09-23 09:28:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首個環島天然氣管網 海南管網累計輸氣超350億立方米】今天（9月23日），從國家管網集團獲悉，我國首個環島天然氣管網——海南管網累計輸氣超350億立方米，為海南自由貿易港建設和清潔能源島建設提供了堅實支撐。"
+    },
+    {
+      "id": "mkt:01a0cbe1-0fe5-7118-8653-fa74a5e35ef5",
+      "time": "2026-09-23 09:28:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Prime Minister Takaichi said President Erdogan supports Japan's position and the two agreed to strengthen close coordination and cooperation."
+    },
+    {
+      "id": "mkt:01a0cbe0-fcaa-7118-8653-f1664fa825cf",
+      "time": "2026-09-23 09:28:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Prime Minister Sanae Takaichi said de‑escalating the Middle East and restoring regional stability is imperative, and it is critical to keep the Strait of Hormuz open and safe for navigation without imposing any additional costs."
+    },
+    {
+      "id": "mkt:01a0cbe0-87ed-7118-8653-e8c9437718d9",
+      "time": "2026-09-23 09:28:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Takaichi said in New York at the United Nations General Assembly she met Turkish President Erdogan today; the face-to-face talks, following an August phone call, further deepened mutual trust."
+    },
+    {
+      "id": "mkt:01a0cbdf-dd45-7118-8653-e456dcec101d",
+      "time": "2026-09-23 09:27:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "At the open on Sept. 23, China’s Shanghai Composite Index fell 0.76 points (-0.02%) to 3,951.37; Shenzhen Composite rose 18.81 points (+0.14%) to 13,742.55. CSI 300 Index added 3.02 points (+0.07%) to 4,547.61; ChiNext Index gained 12.60 points (+0.37%) to 3,412.53; China STAR 50 Index rose 6.73 points (+0.40%) to 1,671.77."
+    },
+    {
+      "id": "mkt:01a0cbdf-74b4-7118-8653-df216809667f",
+      "time": "2026-09-23 09:26:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share debut N Kaida opened up 580.75% and is trading at 29 yuan, versus an issue price of 4.26 yuan."
+    },
+    {
+      "id": "mkt:01a0cbdf-0652-7118-8653-d2f5bd8361d8",
+      "time": "2026-09-23 09:26:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi met his Austrian counterpart Laisinger in New York on the sidelines of the UN General Assembly."
+    },
+    {
+      "id": "5108765",
+      "time": "2026-09-23 09:26:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【凱達重工上市首日開盤大漲超580%】凱達重工上市首日開盤漲580.75%，現報29元，該股發行價為4.26元。"
+    },
+    {
+      "id": "5108764",
+      "time": "2026-09-23 09:25:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤漲跌不一，上證指數跌0.02%，深證成指漲0.14%，創業板指漲0.37%。"
+    },
+    {
+      "id": "mkt:01a0cbde-27c3-7118-8653-cec8e0dab16f",
+      "time": "2026-09-23 09:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China's A-share market opened: Shanghai Composite down 0.02%; Shenzhen Composite Index up 0.14%; ChiNext Index up 0.37%."
+    },
+    {
+      "id": "5108763",
+      "time": "2026-09-23 09:25:25",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.02％，深成指漲0.14％，創業板漲0.37％。"
+    },
     {
       "id": "5108762",
       "time": "2026-09-23 09:25:11",
