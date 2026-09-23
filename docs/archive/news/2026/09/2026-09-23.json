@@ -1,7 +1,181 @@
 {
   "date": "2026-09-23",
-  "count": 739,
+  "count": 758,
   "items": [
+    {
+      "id": "5108778",
+      "time": "2026-09-23 09:33:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.09%，成分股中，戈碧迦漲6.25%，同惠電子漲6.05%，萬源通漲3.24%，銅冠礦建漲2.54%。"
+    },
+    {
+      "id": "mkt:01a0cbe4-dd42-7118-8654-4f8d90a313c5",
+      "time": "2026-09-23 09:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran military criticizes Trump's threats, says US threats 'reflect strategic dilemma'】Iran's General Staff and Khatam al-Anbia Central Command said the US president's hostile remarks and repeated threats from the UN podium serve US domestic political propaganda, defend aggression and create global insecurity and \"piracy\". They said the comments are not grounded in battlefield reality and, amid what they described as US military exhaustion, raising baseless accusations and threats does not signal strength but \"reflects a strategic dilemma\". The statement added the president's rhetoric will not change the balance of power or compensate for US decline in the new world order or its failures against Iran and the Axis of Resistance."
+    },
+    {
+      "id": "5108777",
+      "time": "2026-09-23 09:32:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【印製電路板板塊直線拉昇，滿坤科技漲超10%】印製電路板板塊直線拉昇，滿坤科技漲超10%，澳弘電子、四會富仕、則成電子、協和電子、萬源通等跟漲。"
+    },
+    {
+      "id": "5108776",
+      "time": "2026-09-23 09:32:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中塑股份開盤跌21.48%】9月23日，中塑股份開盤跌21.48%，報340元。"
+    },
+    {
+      "id": "mkt:01a0cbe4-3703-7118-8654-47e6e8e8bca0",
+      "time": "2026-09-23 09:32:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share property sector rallied; Huayuan Holdings hit the daily limit, with Wo Ai Wo Jia, Shilianhang, Xindazheng and Tefa Service also rising."
+    },
+    {
+      "id": "5108775",
+      "time": "2026-09-23 09:32:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【房地產服務板塊短線拉昇，華遠控股漲停】房地產服務板塊短線拉昇，華遠控股漲停，我愛我家、世聯行、新大正、特發服務跟漲。"
+    },
+    {
+      "id": "5108774",
+      "time": "2026-09-23 09:32:01",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲：澳交所清算與結算（CS）設施“遵守”或“基本遵守”相關標準，但在多個關鍵領域仍未達到預期。"
+    },
+    {
+      "id": "5108773",
+      "time": "2026-09-23 09:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風杜鵑致日本9人死4人失蹤】據日本共同社今天（9月23日）報道，今年第25號颱風“杜鵑”目前已在日本造成9人死亡，千葉縣和神奈川縣還有4人失蹤。（ CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0cbe3-88ad-7118-8654-3b50aee6d543",
+      "time": "2026-09-23 09:31:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened: 2-year (TS) most-active contract unchanged; 5-year (TF) unchanged; 10-year (T) unchanged; 30-year (TL) down 0.03%."
+    },
+    {
+      "id": "mkt:01a0cbe3-8014-7118-8654-3365ebaf464d",
+      "time": "2026-09-23 09:31:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI Convertible Bond Index opened 0.06% higher. Top gainers: N Sifang convertible bond, Bairun convertible bond, Xiangjia convertible bond, Weidao convertible bond and Huafeng convertible bond, up 30.00%, 4.10%, 2.61%, 1.68% and 1.42% respectively. Biggest decliners: Jintian convertible bond, Hongtu convertible bond, Aohong convertible bond, Jinyang convertible bond and Shengxun convertible bond, down 2.46%, 1.89%, 1.88%, 0.88% and 0.84% respectively."
+    },
+    {
+      "id": "mkt:01a0cbe3-73b4-7118-8654-28d878a3e176",
+      "time": "2026-09-23 09:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China index futures open slightly higher】At the morning open, CSI 300 index futures (IF) main contract +0.08%; SSE 50 index futures (IH) +0.06%; CSI 500 index futures (IC) +0.23%; CSI 1000 index futures (IM) +0.18%."
+    },
+    {
+      "id": "5108772",
+      "time": "2026-09-23 09:30:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.06%。N四方轉、百潤轉債、湘佳轉債、微導轉債、華峰轉債漲幅居前，分別漲30.00%、4.10%、2.61%、1.68%、1.42%。金田轉債、宏圖轉債、澳弘轉債、金楊轉債、聲迅轉債跌幅居前，分別跌2.46%、1.89%、1.88%、0.88%、0.84%。"
+    },
+    {
+      "id": "mkt:01a0cbe2-f43c-7118-8654-26b2f2890361",
+      "time": "2026-09-23 09:30:43",
+      "tags": [
+        "MKT News",
+        "600825.SS",
+        "Impact bullish"
+      ],
+      "text": "China A-share cultural and media sector showed pockets of strength at the open: Xinhua Media and Tianwei Video hit the daily limit-up; Xinhua Winshare opened 9.75% higher; Yinli Media, Zhidou and Zhidemai also gained."
+    },
+    {
+      "id": "5108771",
+      "time": "2026-09-23 09:30:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅奧診所實驗室投資亞洲病理學控股公司和Lifestrands Genomics，以推進診斷和精準醫療。"
+    },
+    {
+      "id": "5108770",
+      "time": "2026-09-23 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.03%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5108769",
+      "time": "2026-09-23 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.24%， 滬深300指數期貨連續漲0.11%， 中證500指數期貨連續漲0.24%， 上證50指數期貨連續漲0.10%。"
+    },
+    {
+      "id": "5108768",
+      "time": "2026-09-23 09:29:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【文化傳媒板塊區域性高開，新華傳媒三連板】文化傳媒板塊區域性高開，新華傳媒、天威視訊漲停，新華文軒高開9.75%，引力傳媒、智度股份、值得買跟漲。"
+    },
+    {
+      "id": "mkt:01a0cbe1-b719-7118-8654-1a9afb58746d",
+      "time": "2026-09-23 09:29:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hainan island-ring gas network surpasses 35 billion cubic meters】State Pipeline Network Group said China’s first island-ring natural gas network, the Hainan ring, has delivered more than 35 billion cubic meters of gas, supporting Hainan free trade port development and the island’s clean-energy transition. The 899 km network comprises four trunk lines, traverses 14 cities and counties and serves over 10 million people, supplying gas-fired power plants, industrial users and urban gas customers."
+    },
+    {
+      "id": "5108767",
+      "time": "2026-09-23 09:29:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4380美元/盎司，日內漲0.08%。"
+    },
     {
       "id": "mkt:01a0cbe1-5eec-7118-8654-11b60040241b",
       "time": "2026-09-23 09:28:59",

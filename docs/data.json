@@ -1,7 +1,181 @@
 {
-  "updated": "2026-09-23 09:29:39",
-  "count": 13377,
+  "updated": "2026-09-23 09:33:36",
+  "count": 13371,
   "items": [
+    {
+      "id": "5108778",
+      "time": "2026-09-23 09:33:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.09%，成分股中，戈碧迦漲6.25%，同惠電子漲6.05%，萬源通漲3.24%，銅冠礦建漲2.54%。"
+    },
+    {
+      "id": "mkt:01a0cbe4-dd42-7118-8654-4f8d90a313c5",
+      "time": "2026-09-23 09:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran military criticizes Trump's threats, says US threats 'reflect strategic dilemma'】Iran's General Staff and Khatam al-Anbia Central Command said the US president's hostile remarks and repeated threats from the UN podium serve US domestic political propaganda, defend aggression and create global insecurity and \"piracy\". They said the comments are not grounded in battlefield reality and, amid what they described as US military exhaustion, raising baseless accusations and threats does not signal strength but \"reflects a strategic dilemma\". The statement added the president's rhetoric will not change the balance of power or compensate for US decline in the new world order or its failures against Iran and the Axis of Resistance."
+    },
+    {
+      "id": "5108777",
+      "time": "2026-09-23 09:32:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【印製電路板板塊直線拉昇，滿坤科技漲超10%】印製電路板板塊直線拉昇，滿坤科技漲超10%，澳弘電子、四會富仕、則成電子、協和電子、萬源通等跟漲。"
+    },
+    {
+      "id": "5108776",
+      "time": "2026-09-23 09:32:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中塑股份開盤跌21.48%】9月23日，中塑股份開盤跌21.48%，報340元。"
+    },
+    {
+      "id": "mkt:01a0cbe4-3703-7118-8654-47e6e8e8bca0",
+      "time": "2026-09-23 09:32:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share property sector rallied; Huayuan Holdings hit the daily limit, with Wo Ai Wo Jia, Shilianhang, Xindazheng and Tefa Service also rising."
+    },
+    {
+      "id": "5108775",
+      "time": "2026-09-23 09:32:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【房地產服務板塊短線拉昇，華遠控股漲停】房地產服務板塊短線拉昇，華遠控股漲停，我愛我家、世聯行、新大正、特發服務跟漲。"
+    },
+    {
+      "id": "5108774",
+      "time": "2026-09-23 09:32:01",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲：澳交所清算與結算（CS）設施“遵守”或“基本遵守”相關標準，但在多個關鍵領域仍未達到預期。"
+    },
+    {
+      "id": "5108773",
+      "time": "2026-09-23 09:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風杜鵑致日本9人死4人失蹤】據日本共同社今天（9月23日）報道，今年第25號颱風“杜鵑”目前已在日本造成9人死亡，千葉縣和神奈川縣還有4人失蹤。（ CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0cbe3-88ad-7118-8654-3b50aee6d543",
+      "time": "2026-09-23 09:31:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened: 2-year (TS) most-active contract unchanged; 5-year (TF) unchanged; 10-year (T) unchanged; 30-year (TL) down 0.03%."
+    },
+    {
+      "id": "mkt:01a0cbe3-8014-7118-8654-3365ebaf464d",
+      "time": "2026-09-23 09:31:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI Convertible Bond Index opened 0.06% higher. Top gainers: N Sifang convertible bond, Bairun convertible bond, Xiangjia convertible bond, Weidao convertible bond and Huafeng convertible bond, up 30.00%, 4.10%, 2.61%, 1.68% and 1.42% respectively. Biggest decliners: Jintian convertible bond, Hongtu convertible bond, Aohong convertible bond, Jinyang convertible bond and Shengxun convertible bond, down 2.46%, 1.89%, 1.88%, 0.88% and 0.84% respectively."
+    },
+    {
+      "id": "mkt:01a0cbe3-73b4-7118-8654-28d878a3e176",
+      "time": "2026-09-23 09:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China index futures open slightly higher】At the morning open, CSI 300 index futures (IF) main contract +0.08%; SSE 50 index futures (IH) +0.06%; CSI 500 index futures (IC) +0.23%; CSI 1000 index futures (IM) +0.18%."
+    },
+    {
+      "id": "5108772",
+      "time": "2026-09-23 09:30:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.06%。N四方轉、百潤轉債、湘佳轉債、微導轉債、華峰轉債漲幅居前，分別漲30.00%、4.10%、2.61%、1.68%、1.42%。金田轉債、宏圖轉債、澳弘轉債、金楊轉債、聲迅轉債跌幅居前，分別跌2.46%、1.89%、1.88%、0.88%、0.84%。"
+    },
+    {
+      "id": "mkt:01a0cbe2-f43c-7118-8654-26b2f2890361",
+      "time": "2026-09-23 09:30:43",
+      "tags": [
+        "MKT News",
+        "600825.SS",
+        "Impact bullish"
+      ],
+      "text": "China A-share cultural and media sector showed pockets of strength at the open: Xinhua Media and Tianwei Video hit the daily limit-up; Xinhua Winshare opened 9.75% higher; Yinli Media, Zhidou and Zhidemai also gained."
+    },
+    {
+      "id": "5108771",
+      "time": "2026-09-23 09:30:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "梅奧診所實驗室投資亞洲病理學控股公司和Lifestrands Genomics，以推進診斷和精準醫療。"
+    },
+    {
+      "id": "5108770",
+      "time": "2026-09-23 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.03%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5108769",
+      "time": "2026-09-23 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.24%， 滬深300指數期貨連續漲0.11%， 中證500指數期貨連續漲0.24%， 上證50指數期貨連續漲0.10%。"
+    },
+    {
+      "id": "5108768",
+      "time": "2026-09-23 09:29:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【文化傳媒板塊區域性高開，新華傳媒三連板】文化傳媒板塊區域性高開，新華傳媒、天威視訊漲停，新華文軒高開9.75%，引力傳媒、智度股份、值得買跟漲。"
+    },
+    {
+      "id": "mkt:01a0cbe1-b719-7118-8654-1a9afb58746d",
+      "time": "2026-09-23 09:29:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hainan island-ring gas network surpasses 35 billion cubic meters】State Pipeline Network Group said China’s first island-ring natural gas network, the Hainan ring, has delivered more than 35 billion cubic meters of gas, supporting Hainan free trade port development and the island’s clean-energy transition. The 899 km network comprises four trunk lines, traverses 14 cities and counties and serves over 10 million people, supplying gas-fired power plants, industrial users and urban gas customers."
+    },
+    {
+      "id": "5108767",
+      "time": "2026-09-23 09:29:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4380美元/盎司，日內漲0.08%。"
+    },
     {
       "id": "mkt:01a0cbe1-5eec-7118-8654-11b60040241b",
       "time": "2026-09-23 09:28:59",
@@ -121797,251 +121971,6 @@
         "Importance 1"
       ],
       "text": "Stocks in China Hit 6-week Low — SHANGHAI decreased to 3850.00 Index Points, the lowest since August 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 3.16%, and in the last 12 months, it decreased 0.5%."
-    },
-    {
-      "id": "5096296",
-      "time": "2026-09-16 09:33:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【橡膠製品板塊短線走高，黑貓股份、龍星科技漲停】橡膠製品板塊短線走高，黑貓股份、龍星科技漲停，遠翔新材、聯科科技、永東股份、確成股份、陽穀華泰跟漲。"
-    },
-    {
-      "id": "mkt:01a0a7d8-ef67-7118-85a7-4fb3b0f22c0d",
-      "time": "2026-09-16 09:33:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Pan Gongsheng: Credit growth alone not an adequate measure of financial support for the real economy】On Sept. 16 Qiushi published a signed article by PBOC Governor Pan Gongsheng saying credit growth alone cannot measure the strength of financial support for the real economy. He said technological innovation is complex and better served by a diversified financing structure: tech firms typically pass seed, start-up, growth and mature stages with materially different risk profiles and funding needs, requiring a range of markets and financial ecosystems. Early-stage firms rely mainly on private equity and venture capital; in later stages they can finance via bank loans, bonds and equity. Financial markets have an advantage in funding frontier, high-risk/high-return innovation and provide a healthy substitution and diversion from bank lending, and Pan said this structural change will become the norm."
-    },
-    {
-      "id": "5096295",
-      "time": "2026-09-16 09:33:10",
-      "tags": [
-        "觀點",
-        "央行",
-        "其他"
-      ],
-      "text": "【潘功勝：未來一段時間，中國銀行體系仍將佔有較大比重】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，衡量一個國家的金融競爭力和國際金融中心影響力，傳統金融機構的規模固然是一個重要指標，金融市場的發達程度、輻射能力和業態豐富性更加重要。在經濟結構轉型背景下，加快發展金融市場，也是金融業自身轉型和高質量發展的必然要求。各國曆史路徑、銀企關係、法律制度等不同，金融結構沒有統一模式。未來一段時間，中國銀行體系仍將佔有較大比重，但隨著經濟結構轉型、經濟創新更趨活躍、經濟活動複雜程度上升，需要更加註重直接融資與間接融資協調發展，完善金融機構、金融市場、金融產品體系結構，更好發揮金融市場功能。"
-    },
-    {
-      "id": "5096294",
-      "time": "2026-09-16 09:33:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【水電概念異動拉昇，樂山電力漲停】水電概念異動拉昇，樂山電力漲停，閩東電力、湖南發展、廣西能源、贛能股份、西昌電力、華能水電等跟漲。"
-    },
-    {
-      "id": "mkt:01a0a7d8-91ff-7118-85a7-450941fb224a",
-      "time": "2026-09-16 09:33:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Aikewei IPO counseling status changes to 'counseling acceptance'】The CSRC posted that Aikewei Technology (Shanghai) Co., Ltd. has completed its IPO and listing counseling; the company’s IPO counseling status has been updated to 'counseling acceptance'."
-    },
-    {
-      "id": "5096293",
-      "time": "2026-09-16 09:33:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股炭黑板塊異動拉昇】龍星科技、黑貓股份觸及漲停，遠翔新材、永東股份、聯科科技、確成股份跟漲。"
-    },
-    {
-      "id": "5096292",
-      "time": "2026-09-16 09:32:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平致信祝賀吉林大學建校80週年】中共中央總書記、國家主席、中央軍委主席習近平16日致信祝賀吉林大學建校80週年，向全體師生員工和廣大校友致以祝賀。習近平在賀信中強調，新起點上，希望吉林大學以新時代中國特色社會主義思想為指導，傳承紅色基因，發揮綜合優勢，聚焦國家戰略需求，不斷最佳化學科專業佈局，提升教學科研水平，努力培養更多高素質人才，為推動新時代東北全面振興、推進中國式現代化作出更大貢獻。吉林大學始建於1946年。80年來，學校弘揚優良傳統，堅持改革創新，為國家各行各業培養輸送了大批人才。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0a7d8-5611-7118-85a7-3d327ae489c7",
-      "time": "2026-09-16 09:32:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "【Zuckerberg: AI labs can slow development independently when safety requires】Meta CEO Mark Zuckerberg said AI firms do not need an industry-wide pact to slow development when safety risks arise; market pressure will make alignment (ensuring AI systems follow user intent) a competitive advantage. He said trust and alignment are becoming the key differentiators among AI agents and models and warned labs that de-prioritize alignment will fall behind. Zuckerberg cited Meta’s decision to delay the Muse model’s launch by several months to strengthen safety and security measures and said Meta did not ask other firms to do the same."
-    },
-    {
-      "id": "5096291",
-      "time": "2026-09-16 09:32:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【潘功勝：金融總量增速趨緩，有利於保持宏觀槓桿率基本穩定】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，金融總量增速趨緩，有利於保持宏觀槓桿率基本穩定。過去幾年，我國宏觀槓桿率上升較快。一方面是宏觀政策加強逆週期調節，促進經濟平穩增長，金融總量和債務增長一體兩面，推高了債務規模；另一方面是物價處於低位，拖累了名義經濟增速。融資市場由供給約束轉向需求約束，有效融資需求能夠得到充分滿足，社會融資條件仍是相對寬鬆的。對此，要平衡好短期和長期的關係，避免金融總量增長超過實體經濟需要，造成資金空轉淤積，進一步推升宏觀槓桿率，導致落後產能和低效企業難以出清，影響經濟效率。"
-    },
-    {
-      "id": "mkt:01a0a7d7-d5bf-7118-85a7-37ef2fcb6c94",
-      "time": "2026-09-16 09:32:15",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "A-shares short-form drama/gaming sector slid. Guilin Tourism hit limit down; Aoruid fell >6%; Xinju Network dropped >4%; Guangdian Network and Vanward Electric also declined."
-    },
-    {
-      "id": "5096290",
-      "time": "2026-09-16 09:32:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本自民黨作出高層人事調整 多數人留任】據日本時事社報道，日本首相、執政黨自民黨總裁高市早苗16日上午調整自民黨高層人事，多數人留任。（新華社）"
-    },
-    {
-      "id": "mkt:01a0a7d7-4a7c-7118-85a7-28bda09e1e1f",
-      "time": "2026-09-16 09:31:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "AIR.PA",
-        "Impact bullish"
-      ],
-      "text": "【Airbus delivers first aircraft from second China final-assembly line】Airbus has delivered the first aircraft from its second final-assembly line in China — an A320neo handed to China Eastern Airlines. Since 2008 Airbus’s Tianjin final-assembly line began operations, it has delivered more than 800 A320-family aircraft."
-    },
-    {
-      "id": "5096289",
-      "time": "2026-09-16 09:31:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲2%，現報4582.00元。"
-    },
-    {
-      "id": "5096288",
-      "time": "2026-09-16 09:31:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【空客在華第二條總裝線順利交付首架飛機】9月16日，空中客車在華第二條總裝線順利交付首架飛機。這架飛機機型為A320neo，由中國東方航空接收運營。2008年空客天津總裝線投入運營以來，已累計交付超800架A320系列飛機。"
-    },
-    {
-      "id": "mkt:01a0a7d6-c30c-7118-85a7-23ffd1698017",
-      "time": "2026-09-16 09:31:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "03750.HK",
-        "Impact bearish",
-        "300750.SZ"
-      ],
-      "text": "CATL (03750.HK) Hong Kong-listed shares dropped over 5%; CATL A-shares fell over 1%."
-    },
-    {
-      "id": "5096287",
-      "time": "2026-09-16 09:30:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【炭黑概念表現活躍 龍星科技一字漲停】炭黑概念表現活躍，龍星科技一字漲停，黑貓股份、永東股份、聯科科技、遠翔新材跟漲。"
-    },
-    {
-      "id": "5096286",
-      "time": "2026-09-16 09:30:52",
-      "tags": [
-        "觀點",
-        "央行",
-        "其他"
-      ],
-      "text": "【潘功勝：金融對經濟的服務更多體現在結構最佳化、適配度提升上，而不是宏觀金融總量的持續擴張上】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，過去中國金融總量增長較快，主要與經濟的貨幣化程序和高速增長帶來的較大規模貨幣需求有關。改革開放以來，中國從過去的實物分配為主改為貨幣分配，越來越多的商品、住房藉助貨幣來標註價值，以貨幣為媒介進行交易，融資需求也快速增加，金融總量增長較快。當前，我國經濟從高速增長階段轉向高質量發展階段，貨幣化程序已基本結束，金融對經濟的服務更多體現在結構最佳化、適配度提升上，而不是宏觀金融總量的持續擴張上。從總量的數學關係看，增速是增量與全部存量的比值關係。分子是當前的增量，分母是全部的存量。目前，我國社會融資規模存量超過460萬億元，廣義貨幣餘額超過350萬億元，貸款餘額超過280萬億元，宏觀金融總量規模已經很大。隨著存量的擴大，金融總量增速有所下降也是自然的，這與我國經濟發展階段的轉變是一致的。"
-    },
-    {
-      "id": "5096285",
-      "time": "2026-09-16 09:30:44",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【愛科微IPO輔導狀態變更為“輔導驗收”】近日，證監會網站披露愛科微科技（上海）股份有限公司（簡稱“愛科微”）首次公開發行股票並上市輔導工作完成報告。愛科微IPO輔導狀態變更為“輔導驗收”，中信建投為輔導機構。"
-    },
-    {
-      "id": "mkt:01a0a7d6-4cab-7118-85a7-1b435251d537",
-      "time": "2026-09-16 09:30:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share automaker stocks opened lower; Ankai Bus hit the daily limit down, with Zotye Auto, Haima Automobile, Zhongtong Bus, King Long and SERES also falling."
-    },
-    {
-      "id": "mkt:01a0a7d6-2c5f-7118-85a7-15b95192b108",
-      "time": "2026-09-16 09:30:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share grain names extended losses: Xinnong Development and Jinjian Rice hit daily limit-downs; Dunhuang Seed fell over 5%; Guotou Fengle dropped more than 4%; Xinsai Co. also declined."
-    },
-    {
-      "id": "5096284",
-      "time": "2026-09-16 09:30:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤持平。龍星轉債、永東轉2、泰福轉債、特紙轉債、奧普轉債漲幅居前，分別漲6.79%、3.00%、2.91%、0.90%、0.88%。康泰轉2、澳弘轉債、天準轉債、百暢轉債、山石轉債跌幅居前，分別跌2.15%、1.12%、1.07%、0.88%、0.78%。"
-    },
-    {
-      "id": "5096283",
-      "time": "2026-09-16 09:30:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【糧食概念板塊低開延續跌勢，新農開發、金健米業觸及跌停】糧食概念板塊低開延續跌勢，新農開發、金健米業觸及跌停，敦煌種業、國投豐樂、新賽股份、亞聯發展、遠大控股跟跌。"
-    },
-    {
-      "id": "5096282",
-      "time": "2026-09-16 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.02%， 10年期主力合約漲0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "5096281",
-      "time": "2026-09-16 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.24%， 滬深300指數期貨連續基本持平， 中證500指數期貨連續漲0.04%， 上證50指數期貨連續跌0.13%。"
-    },
-    {
-      "id": "mkt:01a0a7d5-cc13-7118-85a7-0bcf80be7c6d",
-      "time": "2026-09-16 09:30:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【Pan Gongsheng: Slower, higher-quality loan growth may become a new macro normal】In a Sept. 16 signed article in Qiu Shi, PBOC Governor Pan Gongsheng said slower but higher-quality loan growth may become a new macro normal. Outstanding loans exceed 280 tln yuan, with a still-large share tied to real estate and local government financing platforms; those exposures are shrinking rather than expanding. From 2025 through 1H 2026, real estate loan balances fell by more than 2 tln yuan cumulatively. Other sectors’ lending must first offset that decline before aggregate credit can rise. As the economy and credit mix transition, the real economy’s demand for credit is changing; maintaining past overall credit growth rates is difficult and unnecessary. Revitalizing inefficient stock loans and new lending serve essentially the same role in supporting growth."
     }
   ]
 }
