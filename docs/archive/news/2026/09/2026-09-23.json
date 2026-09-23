@@ -1,7 +1,63 @@
 {
   "date": "2026-09-23",
-  "count": 2201,
+  "count": 2208,
   "items": [
+    {
+      "id": "5110374",
+      "time": "2026-09-23 23:21:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其航空：將採購 150 架波音 737MAX 飛機，交付時間為 2033 至 2037 年。"
+    },
+    {
+      "id": "mkt:01a0cedb-359e-7118-866c-92744b7e7f49",
+      "time": "2026-09-23 23:21:07",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Turkish Airlines has agreed to buy 150 Boeing (BA.N) 737 MAX aircraft, with deliveries scheduled from 2033 through 2037."
+    },
+    {
+      "id": "mkt:01a0cedb-13ac-7118-866c-8933c7c24012",
+      "time": "2026-09-23 23:20:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Central SOEs meet in Beijing to back high-standard construction of Hainan Free Trade Port】Beijing, Sept 23 — Central state-owned enterprises met in Beijing to coordinate support for high-standard construction of the Hainan Free Trade Port. Hainan officials presented provincial economic development and core FT Port policies; executives from CNPC, CNOOC, Sinochem, General Technology Group, Sinopec, China Huaneng, China Communications Construction and Guoxin Holdings outlined their investment layouts during the \"15th Five-Year\" period and related support measures. Attendees said they will use Hainan’s opening policies, leverage corporate strengths, optimize on-island industry placement and coordinate investments to contribute to the FT Port’s development."
+    },
+    {
+      "id": "mkt:01a0ced9-53ac-7118-866c-842d5851d0d6",
+      "time": "2026-09-23 23:19:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hisense Visual launches two RGB‑Mini LED TV models】Sept 23, 2026 — Hisense TV unveiled two RGB‑Mini LED models at its 2026 autumn launch: imaging flagship U7T Pro and performance flagship E7S Pro+. The company also introduced three scene-specific picture modes for cinema, gaming and animation and a new JUOS smart operating system."
+    },
+    {
+      "id": "te:markets:586196",
+      "time": "2026-09-23 23:18:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Belgium",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Belgium 10Y Bond Yield Hits 14-year High — Belgium 10 Year Government Bond Yield increased to 4.22%, the highest since January 2012. Over the past 4 weeks, Belgium 10Y Bond Yield gained 38.80 basis points, and in the last 12 months, it increased 90.86 basis points."
+    },
+    {
+      "id": "mkt:01a0ced8-74a0-7118-866c-7d763c23bdf0",
+      "time": "2026-09-23 23:18:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said he wants Iran to commit to not possessing nuclear weapons."
+    },
     {
       "id": "mkt:01a0ced8-3d1a-7118-866c-75d6012aed7f",
       "time": "2026-09-23 23:17:52",
@@ -9,6 +65,14 @@
         "MKT News"
       ],
       "text": "The Institute of International Finance said global debt surpassed $365 trillion for the first time in 1H 2026, with the rise driven mainly by emerging markets."
+    },
+    {
+      "id": "5110373",
+      "time": "2026-09-23 23:17:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際金融協會（IIF）： 新興市場債務上半年激增 6.5 萬億美元，總量突破 110 萬億美元。"
     },
     {
       "id": "5110372",

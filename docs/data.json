@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-23 23:18:27",
+  "updated": "2026-09-23 23:22:34",
   "count": 13189,
   "items": [
+    {
+      "id": "5110374",
+      "time": "2026-09-23 23:21:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其航空：將採購 150 架波音 737MAX 飛機，交付時間為 2033 至 2037 年。"
+    },
+    {
+      "id": "mkt:01a0cedb-359e-7118-866c-92744b7e7f49",
+      "time": "2026-09-23 23:21:07",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Turkish Airlines has agreed to buy 150 Boeing (BA.N) 737 MAX aircraft, with deliveries scheduled from 2033 through 2037."
+    },
+    {
+      "id": "mkt:01a0cedb-13ac-7118-866c-8933c7c24012",
+      "time": "2026-09-23 23:20:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Central SOEs meet in Beijing to back high-standard construction of Hainan Free Trade Port】Beijing, Sept 23 — Central state-owned enterprises met in Beijing to coordinate support for high-standard construction of the Hainan Free Trade Port. Hainan officials presented provincial economic development and core FT Port policies; executives from CNPC, CNOOC, Sinochem, General Technology Group, Sinopec, China Huaneng, China Communications Construction and Guoxin Holdings outlined their investment layouts during the \"15th Five-Year\" period and related support measures. Attendees said they will use Hainan’s opening policies, leverage corporate strengths, optimize on-island industry placement and coordinate investments to contribute to the FT Port’s development."
+    },
+    {
+      "id": "mkt:01a0ced9-53ac-7118-866c-842d5851d0d6",
+      "time": "2026-09-23 23:19:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hisense Visual launches two RGB‑Mini LED TV models】Sept 23, 2026 — Hisense TV unveiled two RGB‑Mini LED models at its 2026 autumn launch: imaging flagship U7T Pro and performance flagship E7S Pro+. The company also introduced three scene-specific picture modes for cinema, gaming and animation and a new JUOS smart operating system."
+    },
+    {
+      "id": "te:markets:586196",
+      "time": "2026-09-23 23:18:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Belgium",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Belgium 10Y Bond Yield Hits 14-year High — Belgium 10 Year Government Bond Yield increased to 4.22%, the highest since January 2012. Over the past 4 weeks, Belgium 10Y Bond Yield gained 38.80 basis points, and in the last 12 months, it increased 90.86 basis points."
+    },
+    {
+      "id": "mkt:01a0ced8-74a0-7118-866c-7d763c23bdf0",
+      "time": "2026-09-23 23:18:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said he wants Iran to commit to not possessing nuclear weapons."
+    },
     {
       "id": "mkt:01a0ced8-3d1a-7118-866c-75d6012aed7f",
       "time": "2026-09-23 23:17:52",
@@ -9,6 +65,14 @@
         "MKT News"
       ],
       "text": "The Institute of International Finance said global debt surpassed $365 trillion for the first time in 1H 2026, with the rise driven mainly by emerging markets."
+    },
+    {
+      "id": "5110373",
+      "time": "2026-09-23 23:17:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際金融協會（IIF）： 新興市場債務上半年激增 6.5 萬億美元，總量突破 110 萬億美元。"
     },
     {
       "id": "5110372",
@@ -120221,76 +120285,6 @@
         "其他"
       ],
       "text": "沙烏地阿拉伯東西輸油管道沿線兩座泵站受損，泵站修復時間尚不明朗。"
-    },
-    {
-      "id": "mkt:01a0aacf-de47-7118-85bf-b7bfee8275b5",
-      "time": "2026-09-16 23:22:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "UN Secretary-General GUTERRES said Israel clearly does not accept implementing a peace plan in Gaza."
-    },
-    {
-      "id": "5097925",
-      "time": "2026-09-16 23:21:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國秘書長古特雷斯：對烏克蘭與俄羅斯兩國平民所遭受的苦難感到關切。認為烏克蘭實現停火、為達成公正和平創造條件至關重要。"
-    },
-    {
-      "id": "5097924",
-      "time": "2026-09-16 23:20:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用電氣可再生能源（GE Vernova）股價漲超5%。"
-    },
-    {
-      "id": "mkt:01a0aacd-3f41-7118-85bf-ab597d346bd9",
-      "time": "2026-09-16 23:19:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish",
-        "GOOGL.O",
-        "005930.KS"
-      ],
-      "text": "The U.S. International Trade Commission voted to open an investigation into electronic devices using a specific audio technology; respondents include Apple, Samsung and Google."
-    },
-    {
-      "id": "5097923",
-      "time": "2026-09-16 23:19:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國秘書長古特雷斯：呼籲胡塞武裝與沙特開展對話，以遏制中東局勢急劇升級。"
-    },
-    {
-      "id": "5097922",
-      "time": "2026-09-16 23:19:02",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國際貿易委員會投票決定，對搭載特定音訊技術的部分電子裝置發起調查，被調查方為蘋果、三星與谷歌。"
-    },
-    {
-      "id": "5097921",
-      "time": "2026-09-16 23:18:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：呼籲俄羅斯公民務必參與選舉，作出負責任的決定，讓選舉結果印證社會的成熟度。相信正在執行艱鉅作戰任務的官兵會積極參加選舉。最優秀的候選人、真正的愛國者將贏得選舉。參與選舉，是為俄羅斯的勝利共同出力。"
     }
   ]
 }
