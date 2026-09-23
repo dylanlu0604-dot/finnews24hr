@@ -1,7 +1,72 @@
 {
-  "updated": "2026-09-24 03:17:34",
-  "count": 12917,
+  "updated": "2026-09-24 03:21:25",
+  "count": 12914,
   "items": [
+    {
+      "id": "mkt:01a0cfb5-85de-7118-8670-66668d019681",
+      "time": "2026-09-24 03:19:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CEO Sam Altman said if AI is to be democratic, the most important decisions cannot be made solely by San Francisco labs."
+    },
+    {
+      "id": "5110521",
+      "time": "2026-09-24 03:19:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：若要實現人工智慧民主化，最核心決策絕不能僅由舊金山的實驗室作出。"
+    },
+    {
+      "id": "mkt:01a0cfb4-b4b5-7118-8670-5eff865f88bd",
+      "time": "2026-09-24 03:18:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CEO Sam Altman said the current state of artificial intelligence \"requires extra caution\"."
+    },
+    {
+      "id": "5110520",
+      "time": "2026-09-24 03:18:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：認為安全發展人工智慧存在務實可行的路徑。"
+    },
+    {
+      "id": "5110519",
+      "time": "2026-09-24 03:17:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：呼籲必須將人類置於人工智慧決策的核心位置。"
+    },
+    {
+      "id": "mkt:01a0cfb3-95c5-7118-8670-51fb98e40a0f",
+      "time": "2026-09-24 03:17:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "【Report: TSMC to raise wafer-foundry prices again by about 3–6%】DigiTimes reports Taiwan Semiconductor Manufacturing Co (TSMC) will lift wafer-out prices by about 3–6%, citing supply-chain sources. Sources say 8-inch fab utilization exceeds 100% and nodes below 45nm are fully loaded, with order visibility into 2030. Price adjustments take effect January 2027 by process; increases are larger for advanced nodes, while mature and specialty processes will be negotiated case-by-case by product, utilization and customer. TSMC’s Arizona fab faces high manufacturing costs and will keep premium quotes. TSMC declined to comment."
+    },
+    {
+      "id": "5110518",
+      "time": "2026-09-24 03:17:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：當下人工智慧發展階段需要“極度審慎”。"
+    },
     {
       "id": "5110517",
       "time": "2026-09-24 03:16:58",
@@ -117379,111 +117444,6 @@
         "US10Y"
       ],
       "text": "JP Morgan (JPM.N) said it will raise its prime rate by 25 bps to 7.00%, effective Thursday, Sept. 17 local time."
-    },
-    {
-      "id": "te:markets:584337",
-      "time": "2026-09-17 03:21:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "ProLogis Stock Price Hits 23-week Low — ProLogis shares decreased to 133.08 USD, the lowest since April 2026. Over the past 4 weeks, ProLogis lost 5.28%, and in the last 12 months, it increased 16.95%."
-    },
-    {
-      "id": "5098343",
-      "time": "2026-09-17 03:20:29",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通：摩根大通將把優惠利率上調 25 個基點至 7.00%，自 9 月 17 日（週四）起生效。"
-    },
-    {
-      "id": "5098342",
-      "time": "2026-09-17 03:20:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7101元，較週二夜盤收盤漲11點。成交量404.67億美元。"
-    },
-    {
-      "id": "mkt:01a0aba9-79d0-7118-85c8-0653cea7615a",
-      "time": "2026-09-17 03:20:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Kevin Warsh: Price stability is foundation for economic growth】Federal Reserve Chair Kevin Warsh said price stability is essential for US economic growth after the Fed raised its policy rate by 25bp. He said, \"Price stability is the foundation of economic growth. I believe we took an important step today to achieve that goal,\" and added the move was partly because \"we withdrew some of the easing previously mentioned.\""
-    },
-    {
-      "id": "5098341",
-      "time": "2026-09-17 03:19:30",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根資管：債市已至“最大痛苦點”，開始買入長端債券】 摩根資產管理全球固收主管鮑勃·米歇爾（Bob Michele）表示，其團隊已開始買入美國、日本和澳大利亞的長端債券，稱當前價格“實在太便宜”，市場已達到“最大痛苦點”。米歇爾認為，歐洲央行、美聯儲和日本央行的一系列加息行動，以及中東局勢可能趨穩，將成為債市的支撐因素。他同時指出，近期美債拋售過度，財政部長貝森特的長債回購計劃是重要的穩定力量。"
-    },
-    {
-      "id": "mkt:01a0aba8-cd0e-7118-85c7-fe8d4d8e3f8f",
-      "time": "2026-09-17 03:19:21",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY broke above 156 for the first time since Sept. 7, rising 0.61% on the day."
-    },
-    {
-      "id": "5098340",
-      "time": "2026-09-17 03:19:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "“新美聯儲通訊社”Nick Timiraos：沃什對週三加息的意圖給出了狹義解讀。他表示：“我們收回了一部分寬鬆力度，從而讓金融與信貸環境更貼合我們的最終目標。”\n這種措辭通常意味著，官員們認為即便經過週三的政策調整，貨幣政策依舊偏向寬鬆。當被問及，相較於經濟學家口中既不刺激也不抑制經濟增長的那套不可觀測的利率水平，當前利率處於何種位置時，沃什並不認同上述解讀。他稱，這一學術概念並不能很好地適用於 “我們當下所要做出的各項決策”。"
-    },
-    {
-      "id": "5098339",
-      "time": "2026-09-17 03:18:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1276.50美元/盎司。"
-    },
-    {
-      "id": "mkt:01a0aba7-ba0f-7118-85c7-f00a20314a76",
-      "time": "2026-09-17 03:18:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Nick Timiraos: Asked whether current rates are at the economist-defined neutral rate — an unobservable level that neither stimulates nor restrains growth — Fed chair Kevin Warsh rejected that interpretation, saying the academic concept “does not apply to the decisions we make today.”"
-    },
-    {
-      "id": "te:economy:584336",
-      "time": "2026-09-17 03:17:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Qatar",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Qatar Central Bank Raises Interest Rates — Qatar’s central bank raised its key interest rate by 25 bps to 4.60% in September 2026, mirroring the Federal Reserve’s decision. The move followed the Fed’s announcement that it would raise the target range for the federal funds rate by 25 bps to 3.75%-4%, while a majority of FOMC members projected another hike this year. Qatar’s monetary policy typically aligns with that of the Fed due to the Qatari riyal’s peg to the US dollar. Additionally, the central bank raised its deposit and repo rates by 25 bps to 4.10% and 4.35%, respectively."
     }
   ]
 }

@@ -1,7 +1,72 @@
 {
   "date": "2026-09-24",
-  "count": 182,
+  "count": 189,
   "items": [
+    {
+      "id": "mkt:01a0cfb5-85de-7118-8670-66668d019681",
+      "time": "2026-09-24 03:19:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CEO Sam Altman said if AI is to be democratic, the most important decisions cannot be made solely by San Francisco labs."
+    },
+    {
+      "id": "5110521",
+      "time": "2026-09-24 03:19:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：若要實現人工智慧民主化，最核心決策絕不能僅由舊金山的實驗室作出。"
+    },
+    {
+      "id": "mkt:01a0cfb4-b4b5-7118-8670-5eff865f88bd",
+      "time": "2026-09-24 03:18:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CEO Sam Altman said the current state of artificial intelligence \"requires extra caution\"."
+    },
+    {
+      "id": "5110520",
+      "time": "2026-09-24 03:18:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：認為安全發展人工智慧存在務實可行的路徑。"
+    },
+    {
+      "id": "5110519",
+      "time": "2026-09-24 03:17:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：呼籲必須將人類置於人工智慧決策的核心位置。"
+    },
+    {
+      "id": "mkt:01a0cfb3-95c5-7118-8670-51fb98e40a0f",
+      "time": "2026-09-24 03:17:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "【Report: TSMC to raise wafer-foundry prices again by about 3–6%】DigiTimes reports Taiwan Semiconductor Manufacturing Co (TSMC) will lift wafer-out prices by about 3–6%, citing supply-chain sources. Sources say 8-inch fab utilization exceeds 100% and nodes below 45nm are fully loaded, with order visibility into 2030. Price adjustments take effect January 2027 by process; increases are larger for advanced nodes, while mature and specialty processes will be negotiated case-by-case by product, utilization and customer. TSMC’s Arizona fab faces high manufacturing costs and will keep premium quotes. TSMC declined to comment."
+    },
+    {
+      "id": "5110518",
+      "time": "2026-09-24 03:17:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：當下人工智慧發展階段需要“極度審慎”。"
+    },
     {
       "id": "5110517",
       "time": "2026-09-24 03:16:58",
