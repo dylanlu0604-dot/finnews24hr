@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-24 07:25:00",
-  "count": 12839,
+  "updated": "2026-09-24 07:28:47",
+  "count": 12841,
   "items": [
+    {
+      "id": "5110655",
+      "time": "2026-09-24 07:27:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【科技巨頭搶灘藥物研發 AI製藥進入跨界競合階段】科技巨頭正把AI製藥從模型競賽推向閉環競賽。近期，Anthropic、位元組跳動等加碼AI製藥領域。例如：Anthropic已在美國舊金山灣區建成溼實驗室；位元組跳動旗下AI製藥公司Anew Labs（新生實驗室）以獨立公司身份完成首輪外部融資，規模達2.9億美元；禮來旗下AI製藥平臺Lilly TuneLab牽手金斯瑞、Twist、Ginkgo，完善AI成藥性預測驗證鏈條……記者採訪多家AI製藥上市公司高管及業內人士瞭解到，AI製藥領域的競爭焦點正轉向“誰能建設行業系統性基礎設施”，率先跑通“資料—模型—實驗—再資料”的完整閉環。與之相伴，產業分工正從單打獨鬥走向生態競合。（上海證券報）"
+    },
+    {
+      "id": "5110654",
+      "time": "2026-09-24 07:27:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代理總統羅德里格斯：將舉行選舉。已與反對黨開啟對話。"
+    },
+    {
+      "id": "5110653",
+      "time": "2026-09-24 07:26:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta宣佈推出智慧眼鏡隱私處理方案。"
+    },
+    {
+      "id": "5110652",
+      "time": "2026-09-24 07:26:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滙豐因安全顧慮將本月董事會會議地點從迪拜改成倫敦】據英國《金融時報》援引知情人士報道，出於安全考慮，滙豐將原定於本月在迪拜舉行的董事會會議改在倫敦舉行。該決定是在與提出了安全關切的滙豐迪拜員工討論後作出的。滙豐不予置評。"
+    },
+    {
+      "id": "5110651",
+      "time": "2026-09-24 07:26:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高通擬收購機器人軟體公司PickNik，加強開源機器人及實體AI佈局】當地時間9月23日，高通宣佈已與機器人軟體公司PickNik達成收購協議，交易完成仍需滿足慣例交割條件。PickNik長期維護開源機器人操作框架MoveIt，該框架基於機器人作業系統（ROS），廣泛用於工業自動化、服務機器人及實體AI等領域。高通表示，收購後MoveIt將繼續保持開源，並支援第三方硬體平臺，同時加強與高通Dragonwing機器人平臺的整合。雙方還計劃將MoveIt與Arduino VENTUNO Q開發板結合，以降低機器人開發門檻。"
+    },
+    {
+      "id": "mkt:01a0d097-1400-7118-8672-7fb4e746c6ee",
+      "time": "2026-09-24 07:25:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interim Venezuelan President Rodriguez said Venezuela has begun a democratic process and urged political dialogue to secure freedom and reconciliation."
+    },
+    {
+      "id": "5110650",
+      "time": "2026-09-24 07:25:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿根廷和美國啟動安第斯-大西洋經濟走廊。"
+    },
+    {
+      "id": "5110649",
+      "time": "2026-09-24 07:25:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【加倉意願再度集聚 股票私募倉位兩週連漲】近日，私募基金加倉態勢明顯。私募排排網資料顯示，截至9月18日，股票私募倉位指數（有業績記錄的主觀多頭股票策略私募產品平均倉位水平）連續兩週上漲。從結構來看，截至9月18日，倉位超過八成的私募佔比高達67%以上。在業內人士看來，經過前段時間的估值消化，市場結構性行情大機率將轉向盈利兌現方向，投資機會或進一步擴散。（上海證券報）"
+    },
+    {
+      "id": "te:markets:586256",
+      "time": "2026-09-24 07:24:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Gains on US-Iran Uncertainty — Brent crude held above $102 per barrel on Thursday after rebounding in the previous session, as uncertainty persisted over progress in US-Iran talks. Iranian President Masoud Pezeshkian told the UN General Assembly that Tehran would not bow to threats, adding that the Islamic Republic won’t give up the right to develop nuclear technology for economic development. Pezeshkian also said Iran would not allow freedom of navigation through the Strait of Hormuz as long as sanctions and a US blockade remain in effect. In the US, Energy Secretary Chris Wright said the Trump administration was working with refiners on a voluntary reduction in US diesel exports as an alternative to imposing a formal ban on overseas shipments. Meanwhile, Saudi Arabia is taking steps to resume oil exports through its key East-West pipeline. Ukrainian President Zelenskyy also said he and President Trump had discussed an energy ceasefire."
+    },
+    {
+      "id": "5110648",
+      "time": "2026-09-24 07:24:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉已開啟民主程序。"
+    },
     {
       "id": "5110647",
       "time": "2026-09-24 07:23:51",
@@ -116536,79 +116620,6 @@
         "國際"
       ],
       "text": "美國總統特朗普在北卡羅來納州發表講話。"
-    },
-    {
-      "id": "5098551",
-      "time": "2026-09-17 07:28:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨上漲0.3%，納斯達克100指數期貨反彈。"
-    },
-    {
-      "id": "5098550",
-      "time": "2026-09-17 07:27:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲主席沃什踐行自己的主張 召開了一場創紀錄短的記者會】美聯儲主席凱文·沃什曾表示，政策制定者應該少說話。週三他在例行政策會議後舉行了有記錄以來美聯儲主席最簡短的記者會，以此踐行了自己的建議。沃什在宣佈三年多來首次加息後舉行的例行記者會僅持續了約30分鐘。這是自2011年美聯儲主席開始定期舉行新聞釋出會以來最短的一次。這位主席堅持不預測美聯儲未來的行動，而是專注於本週的會議以及美聯儲官員目前對經濟的看法。美聯儲還調整了簡報室的座位安排。以往各大報紙和通訊社的記者都坐在前排，現在座位改為按媒體名稱字母順序排列。這意味著法新社的記者被安排在了前排，而《華爾街日報》和路透的記者則被安排在了房間後排。另外記者會的未來仍懸而未決。沃什設立的五個特別工作組之一將負責審查溝通機制。該工作組的任務是評估美聯儲如何在“不確定性中傳達政策審議和決定”，這一行動可能包括導致記者會以及其他溝通工具可能被取消。"
-    },
-    {
-      "id": "te:markets:584365",
-      "time": "2026-09-17 07:26:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Extends Decline as Supply Concerns Ease — Brent crude fell to around $105.5 per barrel on Thursday, extending losses for a second consecutive session following reports that Saudi Arabia plans to restore roughly half the capacity of its East-West pipeline within days and bring it back to full operation within six weeks. The key pipeline, which provides an alternative route around the Strait of Hormuz, was damaged in drone attacks last week. In the meantime, Saudi Arabia has stepped up efforts to transport more crude through Hormuz with assistance from the US military. Meanwhile, US Energy Secretary Chris Wright said that 18 million barrels of crude and petroleum products passed through Hormuz earlier this week. In the US, official data showed that crude inventories declined by 640,000 barrels to 423.4 million barrels, although the decrease was smaller than analysts had anticipated. The figures differed sharply from the API’s earlier estimate of a 7.1 million-barrel increase in crude inventories."
-    },
-    {
-      "id": "5098549",
-      "time": "2026-09-17 07:26:38",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【巴西央行降息25個基點至13.75%】當地時間9月16日，巴西央行將基準利率降至13.75%，符合預期。自3月啟動降息以來，累計降幅已達125個基點，這也是巴西央行連續第五次降息。巴西央行在宣告中表示，當前環境存在高度不確定性，通脹預期脫錨，同時基準情景面臨較高風險，因此貨幣政策操作需要保持冷靜和謹慎。委員會將繼續關注形勢發展，使貨幣政策保持足夠的限制性，以確保通脹向目標水平迴歸。"
-    },
-    {
-      "id": "5098548",
-      "time": "2026-09-17 07:26:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國眾議院將員工持股估值法案送交特朗普簽署】一項旨在明確員工持股計劃估值標準的兩黨法案已在美國眾議院獲得透過，現已送交美國總統特朗普簽署生效。眾議院週三以 401 票贊成、14 票反對的表決結果透過《透過持股實現退休法案》（S.2403）（Retire Through Ownership Act）。該投票結果凸顯國會對員工持股計劃（ESOP）的支援，在華盛頓黨派對立的大環境下，推動員工持股成為罕見的兩黨共識領域。法案將解決 “充分對價” 問題，這也是近期多起員工持股計劃相關訴訟的核心爭議點。法案一經簽署生效，將允許員工持股計劃受託人聘請獨立評估師，依據美國國稅局《收入裁定 59-60》開展估值。該裁定是美國國稅局出於稅務核算、股權轉讓及法律糾紛處理目的，用於確定非上市私營企業股份公允市場價值的指導檔案。"
-    },
-    {
-      "id": "te:markets:584364",
-      "time": "2026-09-17 07:25:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Extends Decline as Supply Concerns Ease — Crude oil fell to around $102 per barrel on Thursday, extending losses for a second consecutive session following reports that Saudi Arabia plans to restore roughly half the capacity of its East-West pipeline within days and bring it back to full operation within six weeks. The key pipeline, which provides an alternative route around the Strait of Hormuz, was damaged in drone attacks last week. In the meantime, Saudi Arabia has stepped up efforts to transport more crude through Hormuz with assistance from the US military. Meanwhile, US Energy Secretary Chris Wright said that 18 million barrels of crude and petroleum products passed through Hormuz earlier this week. In the US, official data showed that crude inventories declined by 640,000 barrels to 423.4 million barrels, although the decrease was smaller than analysts had anticipated. The figures differed sharply from the API’s earlier estimate of a 7.1 million-barrel increase in crude inventories."
-    },
-    {
-      "id": "5098547",
-      "time": "2026-09-17 07:25:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多個環節門檻提高 一級市場專項基金迴歸產業投資本源】今年以來，在一級市場，專項基金顯著升溫。由於資金投向確定性強的單一專案、基金規模較小、投資效率較高，專項基金成為不少創業投資和私募股權投資（VC/PE）機構“卡位”優質專案的有力“武器”。證監會近日釋出的《私募投資基金募集監督管理辦法（徵求意見稿）》從投資經驗、資產規模、出資門檻等方面提高了自然人有限合夥人（LP）投資專項基金的門檻。業內人士分析，監管的目標是“扶優限劣”，讓真正懂產業、做投資的機構留下，讓單純靠套利、賺通道差價的機構出局，這是行業共識，也是行業健康發展的關鍵。"
-    },
-    {
-      "id": "5098546",
-      "time": "2026-09-17 07:25:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【土耳其稱伊朗支援土方解散庫爾德工人黨】土耳其內政部16日發表宣告稱，伊朗支援土耳其解散庫爾德工人黨及其分支的相關行動。宣告稱，土耳其內政部長奇夫特奇和伊朗內政部長莫梅尼當天在土首都安卡拉舉行會談。奇夫特奇稱，解散庫爾德工人黨及其在敘利亞和伊拉克的分支，對於地區和平至關重要；同時，將伊朗境內活動的庫爾德斯坦自由生活黨納入這一程序同樣重要。莫梅尼呼籲土耳其、伊拉克、伊朗和敘利亞合作，推動庫爾德工人黨及其分支放下武器，實現庫爾德問題的根本解決。宣告說，雙方還就加強邊境安全合作、共同打擊有組織犯罪、毒品走私和非法移民等議題開展討論。"
     }
   ]
 }

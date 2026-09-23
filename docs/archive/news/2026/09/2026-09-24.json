@@ -1,7 +1,91 @@
 {
   "date": "2026-09-24",
-  "count": 394,
+  "count": 404,
   "items": [
+    {
+      "id": "5110655",
+      "time": "2026-09-24 07:27:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【科技巨頭搶灘藥物研發 AI製藥進入跨界競合階段】科技巨頭正把AI製藥從模型競賽推向閉環競賽。近期，Anthropic、位元組跳動等加碼AI製藥領域。例如：Anthropic已在美國舊金山灣區建成溼實驗室；位元組跳動旗下AI製藥公司Anew Labs（新生實驗室）以獨立公司身份完成首輪外部融資，規模達2.9億美元；禮來旗下AI製藥平臺Lilly TuneLab牽手金斯瑞、Twist、Ginkgo，完善AI成藥性預測驗證鏈條……記者採訪多家AI製藥上市公司高管及業內人士瞭解到，AI製藥領域的競爭焦點正轉向“誰能建設行業系統性基礎設施”，率先跑通“資料—模型—實驗—再資料”的完整閉環。與之相伴，產業分工正從單打獨鬥走向生態競合。（上海證券報）"
+    },
+    {
+      "id": "5110654",
+      "time": "2026-09-24 07:27:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代理總統羅德里格斯：將舉行選舉。已與反對黨開啟對話。"
+    },
+    {
+      "id": "5110653",
+      "time": "2026-09-24 07:26:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta宣佈推出智慧眼鏡隱私處理方案。"
+    },
+    {
+      "id": "5110652",
+      "time": "2026-09-24 07:26:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滙豐因安全顧慮將本月董事會會議地點從迪拜改成倫敦】據英國《金融時報》援引知情人士報道，出於安全考慮，滙豐將原定於本月在迪拜舉行的董事會會議改在倫敦舉行。該決定是在與提出了安全關切的滙豐迪拜員工討論後作出的。滙豐不予置評。"
+    },
+    {
+      "id": "5110651",
+      "time": "2026-09-24 07:26:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高通擬收購機器人軟體公司PickNik，加強開源機器人及實體AI佈局】當地時間9月23日，高通宣佈已與機器人軟體公司PickNik達成收購協議，交易完成仍需滿足慣例交割條件。PickNik長期維護開源機器人操作框架MoveIt，該框架基於機器人作業系統（ROS），廣泛用於工業自動化、服務機器人及實體AI等領域。高通表示，收購後MoveIt將繼續保持開源，並支援第三方硬體平臺，同時加強與高通Dragonwing機器人平臺的整合。雙方還計劃將MoveIt與Arduino VENTUNO Q開發板結合，以降低機器人開發門檻。"
+    },
+    {
+      "id": "mkt:01a0d097-1400-7118-8672-7fb4e746c6ee",
+      "time": "2026-09-24 07:25:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interim Venezuelan President Rodriguez said Venezuela has begun a democratic process and urged political dialogue to secure freedom and reconciliation."
+    },
+    {
+      "id": "5110650",
+      "time": "2026-09-24 07:25:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿根廷和美國啟動安第斯-大西洋經濟走廊。"
+    },
+    {
+      "id": "5110649",
+      "time": "2026-09-24 07:25:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【加倉意願再度集聚 股票私募倉位兩週連漲】近日，私募基金加倉態勢明顯。私募排排網資料顯示，截至9月18日，股票私募倉位指數（有業績記錄的主觀多頭股票策略私募產品平均倉位水平）連續兩週上漲。從結構來看，截至9月18日，倉位超過八成的私募佔比高達67%以上。在業內人士看來，經過前段時間的估值消化，市場結構性行情大機率將轉向盈利兌現方向，投資機會或進一步擴散。（上海證券報）"
+    },
+    {
+      "id": "te:markets:586256",
+      "time": "2026-09-24 07:24:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Gains on US-Iran Uncertainty — Brent crude held above $102 per barrel on Thursday after rebounding in the previous session, as uncertainty persisted over progress in US-Iran talks. Iranian President Masoud Pezeshkian told the UN General Assembly that Tehran would not bow to threats, adding that the Islamic Republic won’t give up the right to develop nuclear technology for economic development. Pezeshkian also said Iran would not allow freedom of navigation through the Strait of Hormuz as long as sanctions and a US blockade remain in effect. In the US, Energy Secretary Chris Wright said the Trump administration was working with refiners on a voluntary reduction in US diesel exports as an alternative to imposing a formal ban on overseas shipments. Meanwhile, Saudi Arabia is taking steps to resume oil exports through its key East-West pipeline. Ukrainian President Zelenskyy also said he and President Trump had discussed an energy ceasefire."
+    },
+    {
+      "id": "5110648",
+      "time": "2026-09-24 07:24:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉已開啟民主程序。"
+    },
     {
       "id": "5110647",
       "time": "2026-09-24 07:23:51",
