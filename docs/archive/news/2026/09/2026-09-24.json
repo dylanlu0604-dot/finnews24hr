@@ -1,7 +1,41 @@
 {
   "date": "2026-09-24",
-  "count": 328,
+  "count": 331,
   "items": [
+    {
+      "id": "mkt:01a0d065-336d-7118-8671-f0db4d4eebd4",
+      "time": "2026-09-24 06:31:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Treasury Secretary Bessent said the current energy shock is temporary and expects oil prices to fall once supply disruptions ease."
+    },
+    {
+      "id": "5110604",
+      "time": "2026-09-24 06:30:10",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 07:00 Meta開發者大會，扎克伯格將發表主題演講；\n② 08:30 日本9月製造業、服務業、綜合PMI初值（因週三休市而較以往/較歐美延後一天釋出）；\n③ 09:30 澳大利亞8月就業報告（含就業人口、失業率）；\n④ 時間待定 國內成品油將開啟新一輪調價視窗；\n⑤ 15:15 歐洲央行執行理事會成員Isabel Schnabel講話；\n⑥ 15:30 瑞士央行公佈政策利率；\n⑦ 16:00 德國9月IFO商業景氣指數，歐洲央行釋出經濟報告，挪威央行公佈利率決議；\n⑧ 16:10 美國紐約聯儲主席威廉姆斯在倫敦宏觀政策論壇講話；\n⑨ 17:00 歐洲央行首席經濟學家Lane講話；\n⑩ 17:30 英國央行貨幣政策委員會（MPC）成員Swati Dhingra講話；\n20:30 美國9月19日當週首次申請失業救濟人數，美國里士滿聯儲主席Barkin（2027年FOMC票委）講話；\n20:50 美國克利夫蘭聯儲主席Hammack在一場關於通脹的會議上講話；\n21:30 英國央行副行長Sarah Breeden講話；\n22:00 美國8月新屋銷售，英國央行副行長Lombardelli講話；\n22:10 美國費城聯儲主席Paulson（2026年FOMC票委）講話。"
+    },
+    {
+      "id": "te:markets:586247",
+      "time": "2026-09-24 06:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Drops by 4.71% — Top commodity losers are Methanol (-4.71%), Heating Oil (-2.27%) and Germany Natural Gas THE (-1.70%). Gains are led by Brent Oil (4.07%), Gasoline (3.28%), Natural gas (2.50%) and Crude Oil (2.28%)."
+    },
     {
       "id": "mkt:01a0d061-fd55-7118-8671-e94501d7effe",
       "time": "2026-09-24 06:27:57",

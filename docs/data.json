@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-24 06:29:00",
-  "count": 12849,
+  "updated": "2026-09-24 06:32:52",
+  "count": 12842,
   "items": [
+    {
+      "id": "mkt:01a0d065-336d-7118-8671-f0db4d4eebd4",
+      "time": "2026-09-24 06:31:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Treasury Secretary Bessent said the current energy shock is temporary and expects oil prices to fall once supply disruptions ease."
+    },
+    {
+      "id": "5110604",
+      "time": "2026-09-24 06:30:10",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 07:00 Meta開發者大會，扎克伯格將發表主題演講；\n② 08:30 日本9月製造業、服務業、綜合PMI初值（因週三休市而較以往/較歐美延後一天釋出）；\n③ 09:30 澳大利亞8月就業報告（含就業人口、失業率）；\n④ 時間待定 國內成品油將開啟新一輪調價視窗；\n⑤ 15:15 歐洲央行執行理事會成員Isabel Schnabel講話；\n⑥ 15:30 瑞士央行公佈政策利率；\n⑦ 16:00 德國9月IFO商業景氣指數，歐洲央行釋出經濟報告，挪威央行公佈利率決議；\n⑧ 16:10 美國紐約聯儲主席威廉姆斯在倫敦宏觀政策論壇講話；\n⑨ 17:00 歐洲央行首席經濟學家Lane講話；\n⑩ 17:30 英國央行貨幣政策委員會（MPC）成員Swati Dhingra講話；\n20:30 美國9月19日當週首次申請失業救濟人數，美國里士滿聯儲主席Barkin（2027年FOMC票委）講話；\n20:50 美國克利夫蘭聯儲主席Hammack在一場關於通脹的會議上講話；\n21:30 英國央行副行長Sarah Breeden講話；\n22:00 美國8月新屋銷售，英國央行副行長Lombardelli講話；\n22:10 美國費城聯儲主席Paulson（2026年FOMC票委）講話。"
+    },
+    {
+      "id": "te:markets:586247",
+      "time": "2026-09-24 06:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Drops by 4.71% — Top commodity losers are Methanol (-4.71%), Heating Oil (-2.27%) and Germany Natural Gas THE (-1.70%). Gains are led by Brent Oil (4.07%), Gasoline (3.28%), Natural gas (2.50%) and Crude Oil (2.28%)."
+    },
     {
       "id": "mkt:01a0d061-fd55-7118-8671-e94501d7effe",
       "time": "2026-09-24 06:27:57",
@@ -116619,109 +116653,6 @@
         "國際"
       ],
       "text": "市場訊息：裝載爆炸物的無人機襲擊伊拉克蘇萊曼尼亞西北部伊朗庫爾德反對派武裝營地，暫無人員傷亡報告。"
-    },
-    {
-      "id": "5098498",
-      "time": "2026-09-17 06:32:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果我們認為接納加拿大作為觀察員國屬於敵對行為，就可能對歐洲徵收高額關稅。"
-    },
-    {
-      "id": "5098497",
-      "time": "2026-09-17 06:31:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：若歐洲採取惡意舉措，美國將徵收關稅。"
-    },
-    {
-      "id": "5098496",
-      "time": "2026-09-17 06:31:18",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週四重要財經資訊提醒（以下均為北京時間）】\n① 06:45 紐西蘭二季度GDP；\n② 時間待定 半導體與電子製造專業盛會Semicon India；\n③ 14:45 歐洲央行管委兼法國央行行長Moulin講話；\n④ 15:00 歐洲央行首席經濟學家Lane講話；\n⑤ 17:00 歐元區8月CPI終值；\n⑥ 18:00 歐洲央行管委Rehn講話；\n⑦ 19:00 英國央行公佈利率決議；\n⑧ 20:30 美國8月新屋開工、營建許可，9月12日當週首次申請失業救濟人數，\n⑨ 22:00 美國8月成屋簽約銷售指數。"
-    },
-    {
-      "id": "mkt:01a0ac57-acd8-7118-85ca-c8080a057d6a",
-      "time": "2026-09-17 06:30:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The U.S. House passed a bill 262-159 to impose sanctions and tariffs on Russia; President Trump is expected to sign it into law."
-    },
-    {
-      "id": "te:markets:584355",
-      "time": "2026-09-17 06:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Liquefied Natural Gas Japan Korea Soars by 8.00% — Top commodity gainers are Liquefied Natural Gas Japan Korea (8%), Germany Natural Gas THE (1.93%) and Gasoline (0.76%). Biggest losers are Crude Oil (-3.74%), Brent Oil (-3.05%) and Natural Gas EU (-2.79%)."
-    },
-    {
-      "id": "5098495",
-      "time": "2026-09-17 06:29:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申伊朗希望達成協議。"
-    },
-    {
-      "id": "mkt:01a0ac57-01c6-7118-85ca-c00db8f75732",
-      "time": "2026-09-17 06:29:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said he hopes the war with Iran is close to ending."
-    },
-    {
-      "id": "5098494",
-      "time": "2026-09-17 06:29:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望伊朗戰事能走向結束。"
-    },
-    {
-      "id": "5098493",
-      "time": "2026-09-17 06:29:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院透過法案，授權特朗普對俄羅斯石油買家徵關稅。"
-    },
-    {
-      "id": "mkt:01a0ac56-8e12-7118-85ca-bdcd9a3107d6",
-      "time": "2026-09-17 06:29:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Trump said the US should set interest rates at the lowest level globally."
     }
   ]
 }
