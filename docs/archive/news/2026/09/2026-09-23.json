@@ -1,7 +1,169 @@
 {
   "date": "2026-09-23",
-  "count": 2223,
+  "count": 2239,
   "items": [
+    {
+      "id": "5110391",
+      "time": "2026-09-23 23:33:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員古爾斯比：最好假定較大的負面供給衝擊會對通脹產生相當持久的影響。"
+    },
+    {
+      "id": "mkt:01a0cee6-a2bc-7118-866c-f4b87e26ac1e",
+      "time": "2026-09-23 23:33:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's Foreign Ministry spokesman said on Tuesday Iran and the United States held another round of information exchange and clarification via Qatari mediators."
+    },
+    {
+      "id": "5110390",
+      "time": "2026-09-23 23:33:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗與美國於週二透過卡達調解人再次交換資訊並進行澄清。"
+    },
+    {
+      "id": "5110389",
+      "time": "2026-09-23 23:33:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：派拉蒙正考慮邀請馬斯克入股。"
+    },
+    {
+      "id": "mkt:01a0cee6-3fb2-7118-866c-ee7a7593d3f8",
+      "time": "2026-09-23 23:33:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 4-month Treasury auction to Sept. 23: share awarded at the stop-out yield 40.67% vs 23.62% previously."
+    },
+    {
+      "id": "mkt:01a0cee6-2e4f-7118-866c-e34ccbe35139",
+      "time": "2026-09-23 23:33:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 4-month Treasury auction on Sept. 23 — stop-out yield 4.135%, prior 4.03%."
+    },
+    {
+      "id": "mkt:01a0cee5-fb08-7118-866c-da5886825612",
+      "time": "2026-09-23 23:32:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Sep.23) | actual 4.135% | previous 4.03%"
+    },
+    {
+      "id": "mkt:01a0cee5-f6f2-7118-866c-d5e261b2e06b",
+      "time": "2026-09-23 23:32:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-month Treasury bill auction through Sept. 23: bid-cover ratio 2.81, prior 2.72."
+    },
+    {
+      "id": "5110388",
+      "time": "2026-09-23 23:32:42",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率4.135%，投標倍數2.81。"
+    },
+    {
+      "id": "mkt:01a0cee5-c229-7118-866c-cfd50ceaf0b6",
+      "time": "2026-09-23 23:32:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Sep.23) | actual 2.81 | previous 2.72"
+    },
+    {
+      "id": "5110387",
+      "time": "2026-09-23 23:32:26",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣兩年期浮息國債（FRNS），貼現利率為0.040%（8月26日為0.055%），投標倍數2.63（前次為3.14%）。"
+    },
+    {
+      "id": "5110386",
+      "time": "2026-09-23 23:31:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：在 Gemini 模型家族新增兩款文字轉語音模型，Gemini 3.8 Flash TTS 與 Gemini 3.8 Flash-Lite TTS。"
+    },
+    {
+      "id": "te:markets:586202",
+      "time": "2026-09-23 23:31:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Portugal",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Portugal 10Y Bond Yield Hits 9-1/2-year High — Portugal 10 Year Government Bond Yield increased to 3.96%, the highest since April 2017. Over the past 4 weeks, Portugal 10Y Bond Yield gained 31.14 basis points, and in the last 12 months, it increased 75.80 basis points."
+    },
+    {
+      "id": "5110385",
+      "time": "2026-09-23 23:31:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.40%，報640.22點。歐元區STOXX 50指數初步收跌0.36%，報6302.04點。富時泛歐績優300指數初步收跌0.35%，報2556.51點。"
+    },
+    {
+      "id": "5110384",
+      "time": "2026-09-23 23:30:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團：如果瑞士聯邦委員會今日的決議獲得確認，瑞士資本金要求將進一步過度收緊。"
+    },
+    {
+      "id": "mkt:01a0cee3-72fb-7118-866c-c66c33b35538",
+      "time": "2026-09-23 23:30:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Short-term spike in crude: WTI rose to $92/bbl, up 2.82% intraday; Brent topped $98/bbl, up 2.76% intraday."
+    },
     {
       "id": "te:markets:586201",
       "time": "2026-09-23 23:30:01",
