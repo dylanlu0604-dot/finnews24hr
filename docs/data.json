@@ -1,7 +1,200 @@
 {
-  "updated": "2026-09-23 09:33:36",
-  "count": 13371,
+  "updated": "2026-09-23 09:37:32",
+  "count": 13379,
   "items": [
+    {
+      "id": "mkt:01a0cbe8-9436-7118-8654-8662324400cc",
+      "time": "2026-09-23 09:36:52",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "China A-share CRO sector jumped; Nanhua Bio hit the daily limit, and Yiqiao Shenzhou, Yinuosi, Aoxiang Pharmaceutical, Inno Laser and Haoyuan Pharmaceutical also advanced."
+    },
+    {
+      "id": "te:markets:585856",
+      "time": "2026-09-23 09:35:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Falls to 2-Week Low — US heating oil prices fell below $4.90 per gallon, the lowest level in two weeks, as expectations of improved supply and progress in diplomatic talks eased immediate supply risks. Saudi Arabia restarted its East-West oil pipeline at a reduced rate after a drone-related shutdown, with Yanbu exports expected to resume. However, full flows could take six to eight weeks to restore as repairs continue. Meanwhile, Iran said it could reopen the Strait of Hormuz within a week if the US eases military pressure and lifts its blockade, while President Trump said US-Iranian officials held a “very productive” meeting. Nevertheless, heating oil demand could strengthen as winter approaches, while refinery maintenance may constrain distillate production. Russia is also set to extend diesel export restrictions through October, adding to already-tight global distillate supplies. Industry data showed distillate inventories fell by 2.2 million barrels in the week ended September 18."
+    },
+    {
+      "id": "5108789",
+      "time": "2026-09-23 09:35:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念板塊衝高，南華生物漲停】CRO概念板塊衝高，南華生物漲停，義翹神州、益諾思、奧翔藥業、英諾鐳射、皓元醫藥跟漲。"
+    },
+    {
+      "id": "mkt:01a0cbe7-1ce3-7118-8654-7fc0d8d77efc",
+      "time": "2026-09-23 09:35:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China Index Academy: New-home sales area in 30 major cities up 1.4% YoY Sept. 1-20】China Index Academy data show new-home sales floor area across 30 major cities rose 1.4% YoY from Sept. 1-20. First-tier cities continued to post growth; the recovery remains concentrated in core, high-quality districts and projects, with ongoing structural divergence. In 20 key cities, second-hand residential transaction volumes (units) rose 13.1% YoY; Beijing and Shanghai recorded YoY volume gains for a seventh consecutive month. Cao Jingjing, GM of the Index Research Department, said the Aug. 28 policy has had limited direct impact on near-term supply rhythm and that subsequent market performance will depend on demand release and project marketing intensity."
+    },
+    {
+      "id": "5108788",
+      "time": "2026-09-23 09:35:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股光通訊股延續漲勢 俊知集團漲超6%】截至發稿，俊知集團(01300.HK)漲6.25%，海光芯正(01191.HK)漲2.31%，華虹宏力(01347.HK)漲1.05%，中際創旭(03308.HK)漲0.82%。"
+    },
+    {
+      "id": "mkt:01a0cbe6-cb63-7118-8654-77f8af25cfe9",
+      "time": "2026-09-23 09:34:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yangtze River Delta rail holiday service starts; 2.28 mln passengers expected today】China Railway Shanghai Group said the Yangtze River Delta’s 16‑day Mid‑Autumn and National Day rail period runs Sept 23–Oct 8, 2026, with the region expected to handle 54.0 mln passenger trips over the holiday and 2.28 mln today. Peak demand is forecast for Oct 1 at 4.40 mln passenger trips, a potential single‑day record. Rail operators will add 65 temporary passenger trains on top of scheduled peak services to match demand."
+    },
+    {
+      "id": "5108787",
+      "time": "2026-09-23 09:34:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念再度走強 大亞聖象4連板】早盤PCB概念再度走強，大亞聖象4連板，滿坤科技漲超10%，四會富仕、協和電子、澳弘電子、威爾高等漲幅靠前。"
+    },
+    {
+      "id": "5108786",
+      "time": "2026-09-23 09:34:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人臉識別板塊盤初走弱，川大智勝跌停】人臉識別板塊盤初走弱，川大智勝跌停，匯頂科技、神思電子、新開普、*ST賽為、立昂技術、新北洋等跟跌。"
+    },
+    {
+      "id": "5108785",
+      "time": "2026-09-23 09:34:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【綠色電力板塊盤初走弱，閩東電力跌停】綠色電力板塊盤初走弱，閩東電力跌停，立新能源、中閩能源、遼寧能源、新能股份、華電遼能、中蘭環保等跟跌。"
+    },
+    {
+      "id": "5108784",
+      "time": "2026-09-23 09:34:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克談AI時代核心競爭力：未來最重要的是會提問】特斯拉CEO埃隆・馬斯克接受央視財經專訪。談及AI時代的教育，馬斯克建議廣泛學習，兼顧人文藝術、科學與工程，夯實通識基礎。想要向機器人下達指令，就要學會組織問題；知識面越廣，越擅長提問，這正是大家所說的給AI寫提示詞。"
+    },
+    {
+      "id": "te:markets:585855",
+      "time": "2026-09-23 09:34:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Prices Drop to 3-Week Low — European natural gas prices fell to around €72/MWh on Wednesday, their lowest level in three weeks, as renewed US-Iran talks revived hopes for a diplomatic resolution. President Donald Trump said US officials had a very good meeting with Iranian representatives on the sidelines of the UN gathering, though no further details were provided. Tehran also reportedly signaled a willingness to reopen the Strait of Hormuz within seven days if Washington eases military pressure and lifts its blockade. Rising numbers of LNG tankers and crude carriers using alternative routes have also alleviated some supply concerns. However, uncertainty surrounding the conflict and the outlook for energy transportation remains. Europe’s gas storage facilities are around 69% full, well below the 85% five-year seasonal average, leaving the market vulnerable ahead of the winter heating season. Norwegian gas exports also remain constrained by maintenance, with bookings falling to 262.5 mcm/day on Tuesday."
+    },
+    {
+      "id": "mkt:01a0cbe6-1da3-7118-8654-6c3795ebeaec",
+      "time": "2026-09-23 09:34:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【U.S. criticizes Australia's social-media algorithm regulation plan】The U.S. embassy in Canberra criticized Australia’s proposed “digital duty of care,” which would compel online services — including social platforms, game companies and AI chatbots — to build products safe for users under 18 and permit Australian users to opt out of algorithmic recommendations. Washington urged Canberra to withdraw any requirement that would force platforms to suppress content based on government-defined, vague safety standards. The unusually sharp U.S. rebuke underscores rising bilateral friction as global regulators tighten rules on Meta and other tech firms and signals a new regulatory and compliance risk for platforms and AI services."
+    },
+    {
+      "id": "5108783",
+      "time": "2026-09-23 09:34:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光學光電子板塊短線拉昇，沃格光電漲停】光學光電子板塊短線拉昇，沃格光電漲停，美迪凱、聯域股份、聚燦光電、彩虹股份、凱盛科技等紛紛走高。"
+    },
+    {
+      "id": "5108782",
+      "time": "2026-09-23 09:34:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長三角鐵路中秋國慶假期運輸今日啟動 預計傳送旅客228萬人次】從中國鐵路上海局集團有限公司（以下簡稱“上鐵集團”）獲悉，長三角史上最長、為期16天的中秋國慶假期運輸今日啟動，當天上鐵集團預計傳送旅客228萬人次，鐵路部門在啟用圖定高峰線的基礎上，計劃增開65列臨時旅客列車，精準匹配客流需求，精心服務旅客出行，努力滿足廣大旅客假期出行需要。"
+    },
+    {
+      "id": "mkt:01a0cbe5-ffa9-7118-8654-63feb1bc0eb2",
+      "time": "2026-09-23 09:34:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said Canada has long supported a two-state solution and that today, alongside the UK, France and Saudi Arabia, he convened partners at the United Nations to discuss creating conditions for a lasting peace that would allow Israelis and Palestinians to live side by side in security and dignity."
+    },
+    {
+      "id": "5108781",
+      "time": "2026-09-23 09:33:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中指研究院：9月1日至20日重點30城新建商品住宅成交面積微增】根據中指研究院資料，9月1日至20日重點30城新建商品住宅成交面積同比微增1.4%，一線城市繼續保持增長，修復仍集中於核心城市優質板塊與專案，結構性分化延續；重點20城二手住宅成交套數同比增長13.1%，北京、上海成交量連續7個月同比增長。中指研究院指數研究部總經理曹晶晶表示，8·28新政對近期供應節奏的直接影響相對有限，後市表現仍取決於需求釋放及專案營銷力度。"
+    },
+    {
+      "id": "mkt:01a0cbe5-9464-7118-8654-5da0f97d90cc",
+      "time": "2026-09-23 09:33:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share printed circuit board sector surged; Mankun Technology rose more than 10%, while Aohong Electronics, Sihui Fushi, Zecheng Electronics, Xiehe Electronics and Wanyuantong also advanced."
+    },
+    {
+      "id": "mkt:01a0cbe5-7668-7118-8654-50c067ff4422",
+      "time": "2026-09-23 09:33:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share recent IPO Century Digital hit the daily down limit at 92.40 yuan; it had closed up 742.37% yesterday."
+    },
+    {
+      "id": "5108780",
+      "time": "2026-09-23 09:33:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【榮耀Magic9系列搭載第六代驍龍8 Soc】9月23日，榮耀宣佈榮耀Magic9系列將搭載第六代驍龍 8旗艦晶片。榮耀Magic9系列配備2億主攝和2億長焦，行業首發CIPA8.0防抖，搭載新一代青海湖電池，將於9月28日釋出。"
+    },
+    {
+      "id": "5108779",
+      "time": "2026-09-23 09:33:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股次新股世紀數碼30CM封板跌停，報92.4元，昨日收漲742.37%。"
+    },
     {
       "id": "5108778",
       "time": "2026-09-23 09:33:02",
@@ -121846,131 +122039,6 @@
         "市場"
       ],
       "text": "【PCB概念再度拉昇 澳弘電子4連板】早盤PCB概念再度拉昇，澳弘電子4連板，威爾高漲超10%，一博科技、金祿電子、中京電子、奧士康等跟漲。"
-    },
-    {
-      "id": "5096300",
-      "time": "2026-09-16 09:37:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【箭元科技完成超23億融資，IDG資本聯合領投】商業火箭公司箭元科技於近日完成B系列輪融資，融資總額超23億元，躋身國內商業航天獨角獸行列。B系列融資由IDG資本、混沌投資、杭州資本等聯合領投，和達投資、嶺瀾資本、華福資本、毅達資本等機構跟投，九智資本、天問時代、錦沙資本等老股東持續加註。"
-    },
-    {
-      "id": "mkt:01a0a7dc-144e-7118-85a7-7d19295a2e39",
-      "time": "2026-09-16 09:36:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Macro & Rates",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【Pan Gongsheng: De-emphasize quantitative targets; treat financial aggregates as observational, reference and forward-looking indicators】In a Sept. 16 Qiushi article, PBOC Governor Pan Gongsheng said China will continue transforming its monetary policy framework to build a scientific, stable system. The central bank will optimize intermediate monetary variables and de-emphasize quantitative targets—especially single-channel loan targets—treating financial aggregates mainly as observational, reference and forward-looking indicators. Pan said policy will shift toward price-based tools: improve market-based interest-rate formation, transmission and short-end rate control; refine policy rates and supporting institutions to strengthen the policy-rate role; and expand deposit and loan pricing options to provide more loan-pricing benchmarks. He called for stronger execution and supervision of interest-rate policy, measures to curb excessive industry competition and idle fund circulation, and institutionalized, credible routine policy communication to guide market expectations."
-    },
-    {
-      "id": "em:qqyh_zgyh:202609163875660587",
-      "time": "2026-09-16 09:36:53",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【潘功勝：金融總量增速趨緩，有利於保持宏觀槓桿率基本穩定】《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，金融總量增速趨緩，有利於保持宏觀槓桿率基本穩定。過去幾年，我國宏觀槓桿率上升較快。一方面是宏觀政策加強逆週期調節，促進經濟平穩增長，金融總量和債務增長一體兩面，推高了債務規模；另一方面是物價處於低位，拖累了名義經濟增速。"
-    },
-    {
-      "id": "5096299",
-      "time": "2026-09-16 09:36:11",
-      "tags": [
-        "觀點",
-        "央行",
-        "其他"
-      ],
-      "text": "【潘功勝：不斷最佳化貨幣政策中間變數，淡化對數量目標的關注】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，持續推進貨幣政策框架轉型，構建科學穩健的貨幣政策體系。不斷最佳化貨幣政策中間變數，淡化對數量目標的關注，特別是對貸款單一渠道的關注，把金融總量更多作為觀測性、參考性、預期性指標。更加註重發揮價格型調控的作用，健全市場化的利率形成、調控和傳導機制。完善短端利率調控機制，進一步最佳化完善政策利率及配套制度建設，增強央行政策利率的作用。完善存貸款利率定價，為經營主體提供更多的貸款定價基準選擇。加強利率政策執行和監督，持續整治金融業“內卷式”競爭、資金空轉。健全可置信、常態化、制度化的政策宣傳和市場溝通機制，以專業、務實的方式方法，做好政策溝通和預期引導。"
-    },
-    {
-      "id": "mkt:01a0a7da-828e-7118-85a7-77557ec8ec64",
-      "time": "2026-09-16 09:35:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China's A-share power sector saw repeated bouts of activity; Leshan Power jumped straight to the daily limit, with Mindong Power, Huayin Power, Topray New Energy and Xichang Power also rising."
-    },
-    {
-      "id": "mkt:01a0a7da-2b8b-7118-85a7-6f39cd3424fe",
-      "time": "2026-09-16 09:34:48",
-      "tags": [
-        "MKT News",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "China A-share duty-free retail sector opened lower; Nanning Department Store fell more than 9%, Zhongbai Group and Ouya Group dropped over 6%, with Caesar Tourism, Wangfujing and Bubugao also declining."
-    },
-    {
-      "id": "mkt:01a0a7da-208f-7118-85a7-6141d2ec2db8",
-      "time": "2026-09-16 09:34:45",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Sanae Takaichi retains key LDP leaders in first personnel change to preserve continuity】Prime Minister Sanae Takaichi on Wednesday kept several senior LDP figures in place in her first party personnel change since taking the helm about a year ago. Former premier Taro Aso remains vice president and Shunichi Suzuki stays as secretary-general; policy research chair Kobayashi also retained. The move aims to preserve continuity ahead of a possible extraordinary Diet session in early October and precedes a planned cabinet reshuffle on Thursday. The session may consider a plan to cut the food consumption tax from 8% to 1% from April for two years and a contentious political-reform bill to reduce parliamentary seats that previously prompted opposition boycotts; the LDP is coordinating with coalition partner the Japan Innovation Party in preparing the agenda."
-    },
-    {
-      "id": "mkt:01a0a7d9-f496-7118-85a7-5ccdd6a896e2",
-      "time": "2026-09-16 09:34:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Aoto Electronics MicroLED smart manufacturing center begins production】Aoto Electronics said its MicroLED smart manufacturing center has commenced production, marking the company’s entry into high-end MicroLED intelligent mass production. The smart workshop targets mass output of P0.3–P1.5 small‑pitch ultra‑HD panels, uses dual advanced packaging processes (COB and COG), achieves chip‑bonding accuracy of ±5 μm, and can flexibly run full Micro and Mini product lines and customized orders."
-    },
-    {
-      "id": "mkt:01a0a7d9-b42d-7118-85a7-57d7cf43e75f",
-      "time": "2026-09-16 09:34:17",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "The Singapore dollar fell to 1.2738 per US dollar, its weakest level since Sept. 2."
-    },
-    {
-      "id": "5096298",
-      "time": "2026-09-16 09:34:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奧拓電子MicroLED智慧製造中心專案正式投產】據奧拓電子訊息，近日，奧拓電子MicroLED智慧製造中心專案竣工投產，這標誌著奧拓電子正式邁入高階MicroLED智慧化量產新階段。此次投產的智慧車間聚焦P0.3-P1.5高階微間距超高畫質面板量產。產線搭載COB、COG雙前沿封裝工藝，晶片繫結精度可達±5μm，可柔性適配Micro、Mini全系列產品量產及定製化訂單需求。"
-    },
-    {
-      "id": "5096297",
-      "time": "2026-09-16 09:33:53",
-      "tags": [
-        "觀點",
-        "央行",
-        "其他"
-      ],
-      "text": "【潘功勝：不能簡單以信貸增速衡量金融支援實體經濟的力度】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷提升金融服務實體經濟適配性》。其中指出，當前科技創新活動複雜多元，與多元化的融資結構更加適配。科技型企業一般會經歷種子期、初創期、成長期、成熟期等不同階段，各階段的風險特徵和金融需求有很大差異，需要適配豐富多樣的金融市場和金融生態。科技型企業在成長的早期，主要從事前期研發，商業前景不明朗，私募股權和創業投資是非常重要的資金提供者。到了中後期，商業模式逐漸成熟，可以透過銀行貸款、債券、股權等多渠道融資。金融市場在為技術前沿、高風險高回報的創新產業提供融資上具有優勢，帶來對貸款的良性替代和分流。這一變化也將成為常態，不能簡單以信貸增速衡量金融支援實體經濟的力度。"
-    },
-    {
-      "id": "te:markets:584036",
-      "time": "2026-09-16 09:33:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in China Hit 6-week Low — SHANGHAI decreased to 3850.00 Index Points, the lowest since August 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 3.16%, and in the last 12 months, it decreased 0.5%."
     }
   ]
 }
