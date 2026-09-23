@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-23 13:47:21",
-  "count": 13297,
+  "updated": "2026-09-23 13:51:16",
+  "count": 13291,
   "items": [
+    {
+      "id": "mkt:01a0ccd0-6d33-7118-8659-1e7e72ee59f7",
+      "time": "2026-09-23 13:50:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ApoBank: Bond outlook improves; current yields offer chance to lock multi-year returns】ApoBank chief portfolio manager Clemens Berendt said in a report that bonds are again serving multiple roles—generating steady income, diversifying risk and boosting portfolio stability. He expects bond investors’ prospects in 2026 to be materially stronger than during the weak 2022 market, and said current yield levels present long-term investors an opportunity to lock in attractive returns over the next several years."
+    },
+    {
+      "id": "mkt:01a0cccf-5df9-7118-8659-134170629d58",
+      "time": "2026-09-23 13:48:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【A-share property stocks keep rallying; industry sources say nationwide subsidy unlikely】A-share real-estate sector continued to rally, with multiple names hitting daily limits. Market chatter points to a possible nationwide mortgage interest-subsidy: Ministry of Finance 20–50bps, local 20–50bps, aggregate relief up to 100bps — which could push first-home loan rates toward 2%. A separate rumour cites a RMB100 billion quota providing a 20bps subsidy targeted at first-home mortgages. Several broker property analysts say the likelihood of a nationwide subsidy is low; one analyst added that a national extension of loan tenors would have a similar interest-cost effect to a subsidy or rate cut."
+    },
+    {
+      "id": "mkt:01a0cccf-2f53-7118-8659-0f1014994a8d",
+      "time": "2026-09-23 13:48:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China property stocks surge; industry sources say nationwide subsidy unlikely】A-share property sector continued to rally, with multiple stocks hitting daily limits, supported by low valuations and rumors of a nationwide mortgage interest subsidy. Market chatter put fiscal subsidy at 20–50bp plus local subsidy 20–50bp, up to 100bp total, which could push first-home mortgage rates toward about 2%. Separate rumors said a 100 billion yuan program with a 20bp subsidy for first-home loans may be announced soon. Several sell-side property analysts said a nationwide subsidy is unlikely; one analyst said, \"At the national level, extending loan terms is roughly equivalent to a subsidy or rate cut in reducing interest costs.\""
+    },
+    {
+      "id": "5109065",
+      "time": "2026-09-23 13:48:05",
+      "tags": [
+        "行業",
+        "市場"
+      ],
+      "text": "【地產股持續大漲，受訪業內人士：全國性政策的可能性不大】A股房地產板塊持續沸騰，多隻個股漲停。市場興奮的背後，除了地產股整體估值偏低之外，關於全國性貼息政策的傳聞也成為重要助力。有市場訊息稱，將有全國性貼息政策落地，其中財政部貼息20-50BP、地方貼息20-50BP，整體貼息力度最高可達100BP，推動首套房貸款利率降至2%的水平。更有傳聞稱房貸貼息將在近期落地，總額度1000億元、貼息20BP，針對首套房。對此傳聞，多個券商房地產行業分析師認為全國性貼息政策落地的可能性不大，有分析師表示，“國家層面上，延長貸款期限其實和貼息/降息減少的利息差不多”。(第一財經)"
+    },
+    {
+      "id": "5109064",
+      "time": "2026-09-23 13:47:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達卯科技完成約2億元新一輪融資】9月23日，算電協同企業達卯科技已完成約2億元新一輪融資，本輪投資方、融資輪次及估值暫未披露。公司CEO簡煜忞表示，融資資金將用於研發投入、模型及平臺升級和產業整合，公司後續還計劃推進一至兩輪融資。"
+    },
     {
       "id": "5109063",
       "time": "2026-09-23 13:45:50",
@@ -121212,123 +121261,6 @@
         "公司"
       ],
       "text": "【海倫哲：預計2027年下半年國內新增儲能消防氣溶膠專案佔比有較高提升】海倫哲(300201)9月15日接受機構調研時表示，隨著《電化學儲能電站設計標準》（GB/T51048-2025）實施的持續影響以及各地驗收標準的更新實施，預計新增儲能專案逐步向氣溶膠消防方案切換。目前公司在手跟蹤氣溶膠儲能專案已明顯增加，預計2027年下半年國內新增儲能消防氣溶膠專案佔比有較高提升，滲透率將快速上行。"
-    },
-    {
-      "id": "5096653",
-      "time": "2026-09-16 13:50:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐南非大使表示，此次簽證限制政策僅是一系列升級措施中的第一步。"
-    },
-    {
-      "id": "mkt:01a0a8c3-e295-7118-85ac-a9026d6179c4",
-      "time": "2026-09-16 13:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100",
-        "DXY"
-      ],
-      "text": "UK August CPI and RPI monthly rates due in 10 minutes."
-    },
-    {
-      "id": "5096652",
-      "time": "2026-09-16 13:49:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【證券板塊短線拉昇，哈投股份漲超8%】證券板塊短線拉昇，哈投股份漲超8%，財通證券、國盛證券、華安證券、錦龍股份跟漲。"
-    },
-    {
-      "id": "mkt:01a0a8c3-75af-7118-85ac-a5a04c107c08",
-      "time": "2026-09-16 13:49:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【Saudi boosts spot sales from outside Strait of Hormuz after East-West pipeline shutdown】Saudi Arabia has sold about 20 million barrels of crude to Asian refiners for liftings outside the Strait of Hormuz in September–October, traders said. Saudi Aramco offered the cargoes to independent refiners and other East Asian buyers after the East‑West pipeline — which routed oil to the Red Sea and allowed bypassing the Strait — was shut following an attack last week; officials have given no restart timetable. Loadings will be carried out via ship‑to‑ship transfers in Oman Bay, meaning buyers take delivery outside the Hormuz transit leg and are not responsible for that segment."
-    },
-    {
-      "id": "5096651",
-      "time": "2026-09-16 13:49:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭國家航空服務局（PANSA）表示，受軍事飛行活動影響臨時關閉的盧布林和熱舒夫機場已恢復航空運營。"
-    },
-    {
-      "id": "mkt:01a0a8c2-8df2-7118-85ac-9aa8cf68b65a",
-      "time": "2026-09-16 13:48:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Houthis say Saudi carried out over 450 airstrikes this week】On Sept 16 the Yemeni Houthi movement said Saudi air force F-15s and Eurofighter Typhoons operating from Khamis Mushait and Taif bases have carried out more than 450 airstrikes since the start of the week across Taiz, Lahj, al-Jawf, Hajjah, Marib, Saada and Al Bayda provinces, causing civilian casualties. The statement said Houthi forces used a homemade surface-to-air missile to shoot down a Saudi F-15 over Marib that it said was supporting Saudi force concentrations."
-    },
-    {
-      "id": "mkt:01a0a8c2-476b-7118-85ac-91d34e85dafc",
-      "time": "2026-09-16 13:48:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "WTI"
-      ],
-      "text": "【Analyst: Speed of inflation's return to target matters more than current level】Felipe Villarroel at TwentyFour Asset Management says the Fed faces a difficult trade-off: inflation remains above target and recent Middle East tensions and higher oil prices add upside risk, while the US economy remains resilient. Markets price a 25bp hike Wednesday; TwentyFour sees that as the most likely outcome. Villarroel says the speed at which inflation returns to target matters more than its current level because a rapid decline is needed to prevent inflation expectations from becoming entrenched. He adds recent comments by Fed chair Kevin Warsh show a strong focus on restoring the Fed's anti-inflation credibility, but this meeting will be the first to show how that concern is reflected in policy."
-    },
-    {
-      "id": "mkt:01a0a8c2-1ace-7118-85ac-88206ad274ad",
-      "time": "2026-09-16 13:48:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "A-share memory-chip sector rallied; several domestic suppliers hit daily limit-ups and peers climbed, lifting sector sentiment. Market sources say SK Hynix is negotiating a cooperation agreement with Intel that could allow SK Hynix to produce memory chips on US soil for the first time."
-    },
-    {
-      "id": "mkt:01a0a8c1-9ea8-7118-85ac-843e90adf628",
-      "time": "2026-09-16 13:47:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Poland's Civil Aviation Authority said Lublin and Rzeszow airports, temporarily closed because of military aviation activity, have resumed operations."
-    },
-    {
-      "id": "5096650",
-      "time": "2026-09-16 13:47:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李家超：“十五五”時期香港肩負發展自身、貢獻國家雙重使命】香港特區行政長官李家超16日在特區立法會公佈香港特區第一個五年規劃。他表示，“十五五”時期是香港主動適應時代潮流，鞏固提升自身優勢、培養髮展新動能、實現經濟社會高質量發展的戰略機遇期，是香港抓住機遇，加快由治及興，增進市民福祉，建設更加美好家園的關鍵五年，是香港在融入和服務國家發展大局中大有可為的五年，肩負著發展自身、貢獻國家的雙重使命。"
-    },
-    {
-      "id": "mkt:01a0a8c1-67c4-7118-85ac-7e103d6a1aa0",
-      "time": "2026-09-16 13:47:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Hong Kong–Zhuhai–Macao Bridge to trial in-vehicle touchless border clearance】Hong Kong SAR Chief Executive John Lee said in his Policy Address the Immigration Department will launch a 'Smart Passage' pilot at the Hong Kong port of the Hong Kong–Zhuhai–Macao Bridge in December, using AI and facial-recognition technology to automatically identify registered eligible cross-border private-car drivers and passengers for in-vehicle touchless clearance."
     }
   ]
 }

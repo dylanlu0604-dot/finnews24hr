@@ -1,7 +1,56 @@
 {
   "date": "2026-09-23",
-  "count": 1156,
+  "count": 1161,
   "items": [
+    {
+      "id": "mkt:01a0ccd0-6d33-7118-8659-1e7e72ee59f7",
+      "time": "2026-09-23 13:50:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ApoBank: Bond outlook improves; current yields offer chance to lock multi-year returns】ApoBank chief portfolio manager Clemens Berendt said in a report that bonds are again serving multiple roles—generating steady income, diversifying risk and boosting portfolio stability. He expects bond investors’ prospects in 2026 to be materially stronger than during the weak 2022 market, and said current yield levels present long-term investors an opportunity to lock in attractive returns over the next several years."
+    },
+    {
+      "id": "mkt:01a0cccf-5df9-7118-8659-134170629d58",
+      "time": "2026-09-23 13:48:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【A-share property stocks keep rallying; industry sources say nationwide subsidy unlikely】A-share real-estate sector continued to rally, with multiple names hitting daily limits. Market chatter points to a possible nationwide mortgage interest-subsidy: Ministry of Finance 20–50bps, local 20–50bps, aggregate relief up to 100bps — which could push first-home loan rates toward 2%. A separate rumour cites a RMB100 billion quota providing a 20bps subsidy targeted at first-home mortgages. Several broker property analysts say the likelihood of a nationwide subsidy is low; one analyst added that a national extension of loan tenors would have a similar interest-cost effect to a subsidy or rate cut."
+    },
+    {
+      "id": "mkt:01a0cccf-2f53-7118-8659-0f1014994a8d",
+      "time": "2026-09-23 13:48:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China property stocks surge; industry sources say nationwide subsidy unlikely】A-share property sector continued to rally, with multiple stocks hitting daily limits, supported by low valuations and rumors of a nationwide mortgage interest subsidy. Market chatter put fiscal subsidy at 20–50bp plus local subsidy 20–50bp, up to 100bp total, which could push first-home mortgage rates toward about 2%. Separate rumors said a 100 billion yuan program with a 20bp subsidy for first-home loans may be announced soon. Several sell-side property analysts said a nationwide subsidy is unlikely; one analyst said, \"At the national level, extending loan terms is roughly equivalent to a subsidy or rate cut in reducing interest costs.\""
+    },
+    {
+      "id": "5109065",
+      "time": "2026-09-23 13:48:05",
+      "tags": [
+        "行業",
+        "市場"
+      ],
+      "text": "【地產股持續大漲，受訪業內人士：全國性政策的可能性不大】A股房地產板塊持續沸騰，多隻個股漲停。市場興奮的背後，除了地產股整體估值偏低之外，關於全國性貼息政策的傳聞也成為重要助力。有市場訊息稱，將有全國性貼息政策落地，其中財政部貼息20-50BP、地方貼息20-50BP，整體貼息力度最高可達100BP，推動首套房貸款利率降至2%的水平。更有傳聞稱房貸貼息將在近期落地，總額度1000億元、貼息20BP，針對首套房。對此傳聞，多個券商房地產行業分析師認為全國性貼息政策落地的可能性不大，有分析師表示，“國家層面上，延長貸款期限其實和貼息/降息減少的利息差不多”。(第一財經)"
+    },
+    {
+      "id": "5109064",
+      "time": "2026-09-23 13:47:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【達卯科技完成約2億元新一輪融資】9月23日，算電協同企業達卯科技已完成約2億元新一輪融資，本輪投資方、融資輪次及估值暫未披露。公司CEO簡煜忞表示，融資資金將用於研發投入、模型及平臺升級和產業整合，公司後續還計劃推進一至兩輪融資。"
+    },
     {
       "id": "5109063",
       "time": "2026-09-23 13:45:50",
