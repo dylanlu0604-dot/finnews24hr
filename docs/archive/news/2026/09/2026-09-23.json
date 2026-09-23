@@ -1,7 +1,81 @@
 {
   "date": "2026-09-23",
-  "count": 700,
+  "count": 708,
   "items": [
+    {
+      "id": "mkt:01a0cbd5-70ba-7118-8653-99872a581db5",
+      "time": "2026-09-23 09:15:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.15% at 25,091, trading 7 points above spot."
+    },
+    {
+      "id": "5108751",
+      "time": "2026-09-23 09:15:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7468，較上日調低9點】人民幣兌美元中間價報6.7468，較上日調低9點。"
+    },
+    {
+      "id": "mkt:01a0cbd4-e919-7118-8653-927b71099b14",
+      "time": "2026-09-23 09:15:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's presidential office said President Lee met U.S. President Trump for 30 minutes."
+    },
+    {
+      "id": "5108750",
+      "time": "2026-09-23 09:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7468元。"
+    },
+    {
+      "id": "5108749",
+      "time": "2026-09-23 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.25%，報25113.80點，高水26.05點。"
+    },
+    {
+      "id": "5108748",
+      "time": "2026-09-23 09:14:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特和美國國務卿魯比奧將出席特朗普與委內瑞拉代總統羅德里格斯的會晤。"
+    },
+    {
+      "id": "te:markets:585848",
+      "time": "2026-09-23 09:14:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Edge Higher — Australian shares rose 17 points or 0.2% to 8,775 on Wednesday morning, extending prior gains after Wall Street hovered near record highs overnight as oil prices eased on progress toward ending the war with Iran. Focus turned to Thursday’s summit between Trump and Xi Jinping, with hopes for signs of progress on trade disputes. However, caution followed flash PMI data showing private-sector activity in Australia grew at the slowest pace in three months, with services cooling and factory output plunging. RBA Assistant Governor Sarah Hunter further weighed on sentiment with a warning that rates may need to rise again if inflation pressures persist, ahead of next week’s policy meeting. Non-energy minerals, industrials, and consumer durables led gains, while communication and commercial services fell. BHP Group jumped 2.1% while Rio Tinto (1.0%) also advanced. Other major gainers were Northern Star Resources (4.0%), Evolution Mining (2.9%), PLS Group (2.8%), and Sandfire Resources (2.7%)."
+    },
+    {
+      "id": "mkt:01a0cbd3-a54f-7118-8653-88f233a073b7",
+      "time": "2026-09-23 09:14:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Market sources: South Korea's Lee to meet US President Trump during the United Nations General Assembly."
+    },
     {
       "id": "5108747",
       "time": "2026-09-23 09:13:44",
