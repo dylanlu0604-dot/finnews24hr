@@ -1,7 +1,34 @@
 {
   "date": "2026-09-23",
-  "count": 2263,
+  "count": 2266,
   "items": [
+    {
+      "id": "5110408",
+      "time": "2026-09-23 23:49:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗證實週二在聯合國大會期間經卡達與美國傳遞資訊。"
+    },
+    {
+      "id": "te:markets:586204",
+      "time": "2026-09-23 23:49:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Futures at Near 1-Week High — Cocoa futures rose toward $5,500 per tonne, the highest level in nearly a week, supported by short covering as forecasts for dry conditions in top grower Côte d’Ivoire raised concerns about the 2026/27 crop. Early surveys also pointed to below-average cherelle formation on cocoa trees, signalling a weaker outlook for the main harvest, which began this month. These concerns come despite a large global surplus in 2025/26 that has kept near-term supplies ample, with inventories remaining at a two-year high of 3.43 million bags. However, the medium-term outlook is more uncertain, with estimates for 2026/27 pointing to weaker crops across West Africa due to weather risks. Côte d’Ivoire’s output is expected to fall about 20% to 1.75 million tonnes, while Ghana’s is forecast to decline 13% to 650,000 tonnes. These risks could be compounded by an unusually strong El Niño, potentially intensifying dry Harmattan winds from around November."
+    },
+    {
+      "id": "5110407",
+      "time": "2026-09-23 23:46:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗原子能組織負責人：國際原子能機構此前獲得了進入伊朗所有地點的許可權，而且他們進行了多次核查，但沒有一份報告顯示伊朗存在不遵守規定的情況。"
+    },
     {
       "id": "mkt:01a0cef0-dbe3-7118-866d-30fd50dd596a",
       "time": "2026-09-23 23:44:46",

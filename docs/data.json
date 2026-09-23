@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-23 23:46:31",
-  "count": 13194,
+  "updated": "2026-09-23 23:50:41",
+  "count": 13186,
   "items": [
+    {
+      "id": "5110408",
+      "time": "2026-09-23 23:49:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗證實週二在聯合國大會期間經卡達與美國傳遞資訊。"
+    },
+    {
+      "id": "te:markets:586204",
+      "time": "2026-09-23 23:49:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Futures at Near 1-Week High — Cocoa futures rose toward $5,500 per tonne, the highest level in nearly a week, supported by short covering as forecasts for dry conditions in top grower Côte d’Ivoire raised concerns about the 2026/27 crop. Early surveys also pointed to below-average cherelle formation on cocoa trees, signalling a weaker outlook for the main harvest, which began this month. These concerns come despite a large global surplus in 2025/26 that has kept near-term supplies ample, with inventories remaining at a two-year high of 3.43 million bags. However, the medium-term outlook is more uncertain, with estimates for 2026/27 pointing to weaker crops across West Africa due to weather risks. Côte d’Ivoire’s output is expected to fall about 20% to 1.75 million tonnes, while Ghana’s is forecast to decline 13% to 650,000 tonnes. These risks could be compounded by an unusually strong El Niño, potentially intensifying dry Harmattan winds from around November."
+    },
+    {
+      "id": "5110407",
+      "time": "2026-09-23 23:46:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗原子能組織負責人：國際原子能機構此前獲得了進入伊朗所有地點的許可權，而且他們進行了多次核查，但沒有一份報告顯示伊朗存在不遵守規定的情況。"
+    },
     {
       "id": "mkt:01a0cef0-dbe3-7118-866d-30fd50dd596a",
       "time": "2026-09-23 23:44:46",
@@ -120232,127 +120259,6 @@
         "其他"
       ],
       "text": "德國經濟部長表示，設定燃料價格上限是錯誤的做法。"
-    },
-    {
-      "id": "te:markets:584276",
-      "time": "2026-09-16 23:50:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises on Lower Oil Prices and Yields — The CAC 40 rose 0.6% to close at 8,141 on Wednesday as oil prices and bond yields paused after their recent surge. Oil prices fell amid signs of rising US inventories and reports that Saudi Arabia is offering additional crude cargoes via Oman. Meanwhile, yields retreated after a global rally in recent weeks weighed on equity markets, as investors fear central banks will keep monetary policy tighter for longer to contain inflationary pressures from soaring energy prices. Luxury stocks gained amid lower risk aversion, with LVMH up 1%, Hermès rising 0.8% and Kering adding 1.3%. Industrial shares also advanced, with Airbus up 1%, Safran adding 1.2%, Legrand up 1.8% and EssilorLuxottica rising 0.8%. STMicroelectronics (+2%) and Schneider Electric (+1.5%) tracked strength in Wall Street chipmakers. In contrast, TotalEnergies shed 0.7% on the oil pullback."
-    },
-    {
-      "id": "mkt:01a0aae8-f898-7118-85c0-8b52542620cf",
-      "time": "2026-09-16 23:49:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Germany's economy minister said temporarily cutting VAT on fuel from 19% to 7% would be prudent."
-    },
-    {
-      "id": "5097956",
-      "time": "2026-09-16 23:49:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國經濟部長表示，將燃油增值稅從19%臨時下調至7%是合理之舉。"
-    },
-    {
-      "id": "mkt:01a0aae8-7230-7118-85c0-82b28eb9d0fc",
-      "time": "2026-09-16 23:49:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "S&P 500 rose 0.5% to an intraday high; the Nasdaq 100 advanced 1%."
-    },
-    {
-      "id": "mkt:01a0aae7-f433-7118-85c0-79ced8e00387",
-      "time": "2026-09-16 23:48:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "WTI and Brent fell about $1.50 intraday to $96.94/bbl and $101.41/bbl, respectively, after reports that Saudi Arabia is seeking to restore half of a key oil pipeline's capacity within days."
-    },
-    {
-      "id": "mkt:01a0aae7-b9eb-7118-85c0-76dad90129af",
-      "time": "2026-09-16 23:48:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "【Diamond Hill: Unclear rate outlook justifies buying short-term bonds】Diamond Hill analyst Henry Song says bond-market uncertainty warrants allocating to short-term assets with attractive yields. He expects today's Fed decision will do little to alter war-driven inflation, leaving the rate outlook unclear, and calls Treasury Secretary BESSENT's efforts to control long yields futile because the market \"has seen through his bluff.\" Song's strategy is to buy \"large amounts of high-current-yield short-term assets\" and stay flexible to redeploy proceeds at maturity if rates rise, saying \"it's like a dance: maintain portfolio yield while preserving optionality.\""
-    },
-    {
-      "id": "5097955",
-      "time": "2026-09-16 23:48:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數上漲0.5%，創盤中新高；納斯達克100指數上漲1%。"
-    },
-    {
-      "id": "mkt:01a0aae7-1259-7118-85c0-68ba5665f3f6",
-      "time": "2026-09-16 23:47:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Market sources say Saudi Arabia seeks to restore half of a key oil pipeline's capacity within days."
-    },
-    {
-      "id": "5097954",
-      "time": "2026-09-16 23:47:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特計劃數日之內恢復東西輸油管道一半的運力。"
-    },
-    {
-      "id": "5097953",
-      "time": "2026-09-16 23:47:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.02%，現報11401.49點。英偉達漲2.09%，博通漲1.03%，美光漲0.33%，英特爾漲5.47%，AMD漲4.26%，高通漲1.00%，臺積電漲1.58%，阿斯麥漲1.12%。"
-    },
-    {
-      "id": "5097952",
-      "time": "2026-09-16 23:46:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長古特雷斯：有能力的國家應就人工智慧建立溝通渠道，設定管控機制。"
     }
   ]
 }
