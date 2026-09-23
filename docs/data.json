@@ -1,7 +1,101 @@
 {
-  "updated": "2026-09-23 13:29:46",
-  "count": 13290,
+  "updated": "2026-09-23 13:37:33",
+  "count": 13291,
   "items": [
+    {
+      "id": "5109050",
+      "time": "2026-09-23 13:36:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金太陽：以晶片拋光液為抓手切入半導體賽道】有投資者向金太陽（GSUN.US）提問，公司投資以及參股一些公司都是半導體相關，是否可以轉型到半導體晶片板塊呢？9月23日，公司回答表示，公司將持續深耕研磨材料主業，以晶片拋光液為抓手切入半導體賽道，加速實現向高階半導體拋光材料/零部件領域轉型的平臺型公司。"
+    },
+    {
+      "id": "mkt:01a0ccc2-c71b-7118-8658-d1f220a1a7c3",
+      "time": "2026-09-23 13:35:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) closed up 357.12 points, or 0.75%, at 48,157.29 on Wednesday, Sept. 23."
+    },
+    {
+      "id": "5109049",
+      "time": "2026-09-23 13:35:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高0.7%報48,157.29。"
+    },
+    {
+      "id": "5109048",
+      "time": "2026-09-23 13:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【圓通與民航企業集中籤約多項物流合作】9月23日，記者在第五屆全球數字貿易博覽會上獲悉，圓通及相關業務主體圍繞國產民機執行保障、貨站運營及生鮮冷鏈航空貨運、飛機維修等領域簽署多項合作協議，完善航空貨運及國際供應鏈服務配套。圓通航空總裁徐家明在採訪中表示，圓通將與國產大飛機合作，包括部件國產化、維修體系國際化、客機改貨機等。圓通還與南航物流簽約，結合幹線運輸和末端配送資源，依託綜保區開展生鮮冷鏈全鏈路合作；同時與GAMECO在嘉興共建大型MRO維修基地。此外，東方天地港二期同日簽約，一期投產執行不到一年即啟動二期建設。(介面新聞 )"
+    },
+    {
+      "id": "5109047",
+      "time": "2026-09-23 13:34:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠茶集團回應二股東“清倉”：已到退出時間】9月23日，針對近期二股東“清倉”，綠茶集團回應稱，二股東已經陪伴公司近10年，基金到了退出的時間，整體投資也取得了不錯的回報；本次交易之後，二股東已經完成了所有股票的出售，解決了市場擔心的拋壓問題，開啟了向上的空間。綠茶集團表示，公司基本面依然穩健，上半年依然取得了近17%的收入和利潤增長，同時新開了131家門店。（介面新聞）"
+    },
+    {
+      "id": "5109046",
+      "time": "2026-09-23 13:32:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬斯克說習主席非常睿智富有遠見】近日，美國特斯拉公司執行長馬斯克在接受人民日報新媒體專訪時表示，“在習主席的領導下，中國的繁榮程度大幅提升。習近平主席非常睿智、富有遠見。”（人民日報）"
+    },
+    {
+      "id": "mkt:01a0ccbf-baaa-7118-8658-cb76d26e6ab2",
+      "time": "2026-09-23 13:31:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Musk: China could close compute gap in about 2-3 years via lithography and chip manufacturing】Tesla CEO Elon Musk said in a Sept. 23 interview that China’s large AI models are overall very strong and that compute-per-unit performance is near the global top. He said he expects China to address its compute shortfall faster than most anticipate, estimating roughly two to three years to close the gap via lithography and chip manufacturing."
+    },
+    {
+      "id": "te:markets:585928",
+      "time": "2026-09-23 13:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Increases by 2.93% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 2.93% increase."
+    },
+    {
+      "id": "5109045",
+      "time": "2026-09-23 13:29:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國信通院政經所釋出《全球數字經貿規則年度觀察報告（2026年）》】9月23日，在第五屆數字貿易法治論壇上，中國資訊通訊研究院（簡稱“中國信通院”）政策與經濟研究所釋出《全球數字經貿規則年度觀察報告（2026年）》。報告核心觀點指出，人工智慧正加快重塑全球數字貿易格局，規則體系建設與協調更趨緊迫。人工智慧相關產品和服務貿易加速興起，2025年全球人工智慧相關產品貿易額達4.18萬億美元，同比增長21.9%，貢獻了當年全球貿易增長總額的42%。與此同時，模型訓練和API呼叫等帶來資料安全、技術主權等新型風險，使相關規則面臨治理滯後、規則碎片化等問題。當前人工智慧治理議題以軟性規則為主，並加快轉向更靈活的新型數字技術與經貿安排，以促進技術合作與監管協調。"
+    },
+    {
+      "id": "mkt:01a0ccbd-c620-7118-8658-c4b888f23ac0",
+      "time": "2026-09-23 13:29:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Al Jazeera cites Kyiv mayor saying Russian attacks across multiple regions injured one person and ignited fires at warehouses, transport facilities and two gas stations."
+    },
     {
       "id": "5109044",
       "time": "2026-09-23 13:29:01",
@@ -121199,96 +121293,6 @@
         "Importance 1"
       ],
       "text": "Kyrgyzstan Industrial Output Contracts in August — Industrial production in Kyrgyzstan fell 9.6% year-on-year in August 2026, reversing a 6.3% increase in the previous month and marking the first decline after ten consecutive months of annual growth. Production dropped in manufacturing (-11.2% vs 0.4% in July), weighed down by declines in food products, textiles, computers, electronic and optical equipment, and other manufacturing, repair, and installation of machinery and equipment. Output also declined in mining and quarrying (-3.6% vs 38.5%), as well as electricity, gas, steam, and air conditioning supply (-9.8% vs 4.7%). Meanwhile, growth eased in water supply, waste treatment, and recovery of secondary raw materials (19.6% vs 20.3%). Over January-August, industrial output expanded 8.8%, slowing from 12.9% in the same period last year."
-    },
-    {
-      "id": "5096640",
-      "time": "2026-09-16 13:36:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺交所加權股價指數收高0.7%報45,848.90點。"
-    },
-    {
-      "id": "mkt:01a0a8b6-415a-7118-85ac-4eca5b53f37e",
-      "time": "2026-09-16 13:35:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index closed up 337.41 points (+0.74%) at 45,848.9 on Wednesday, Sept. 16."
-    },
-    {
-      "id": "mkt:01a0a8b5-c5c9-7118-85ac-44d4e76d5ae8",
-      "time": "2026-09-16 13:34:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【SK Hynix in talks with Intel to produce memory chips in US for first time】Reuters sources say SK Hynix is in exploratory talks with Intel to manufacture memory chips in the US for the first time. Options include leasing part of Intel’s planned Ohio fab or forming a joint venture with Intel and major cloud service providers seeking to secure memory supply. The deal would ease pressure on Intel and represent a win for the Trump administration, but potential pushback from South Korea over sensitive technology is a key obstacle. No decision has been made and it is unclear which SK Hynix products—DRAM for servers/PCs/phones, NAND, or high-bandwidth memory (HBM) for AI processors—would be produced in Ohio."
-    },
-    {
-      "id": "5096639",
-      "time": "2026-09-16 13:34:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CRO概念持續走強 成都先導、近岸蛋白漲超10%】CRO概念持續走強，截至發稿，成都先導、近岸蛋白漲超10%，美迪西、泓博醫藥等跟漲。"
-    },
-    {
-      "id": "5096638",
-      "time": "2026-09-16 13:31:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "據知情人士透露，SK海力士正與英特爾洽談一項協議，計劃首次在美國本土生產記憶體晶片。"
-    },
-    {
-      "id": "mkt:01a0a8b2-9864-7118-85ac-3a56e864bd65",
-      "time": "2026-09-16 13:31:11",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Refinitiv sources say SK Hynix may lease part of Intel’s Ohio facilities and could form a joint venture with Intel and major cloud providers."
-    },
-    {
-      "id": "mkt:01a0a8b2-44ce-7118-85ac-315ff5cf8a90",
-      "time": "2026-09-16 13:30:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "INTC.O",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "Refinitiv, citing sources, says SK Hynix is in talks with Intel on a deal to manufacture memory chips in the United States for the first time."
-    },
-    {
-      "id": "mkt:01a0a8b1-b767-7118-85ac-2dd0ddf760dc",
-      "time": "2026-09-16 13:30:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's state oil company said a US$3 rise in LNG prices could raise Thai electricity tariffs by about 5%."
-    },
-    {
-      "id": "te:markets:584092",
-      "time": "2026-09-16 13:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Rises by 1.06% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.06% increase."
     }
   ]
 }
