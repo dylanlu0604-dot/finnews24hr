@@ -1,7 +1,55 @@
 {
   "date": "2026-09-24",
-  "count": 177,
+  "count": 182,
   "items": [
+    {
+      "id": "5110517",
+      "time": "2026-09-24 03:16:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：全球在人工智慧問題上“面臨選擇”。"
+    },
+    {
+      "id": "mkt:01a0cfb2-df22-7118-8670-4b922d7568e6",
+      "time": "2026-09-24 03:16:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "AI scientist Yoshua Bengio said the dangers of artificial intelligence are real and imminent."
+    },
+    {
+      "id": "mkt:01a0cfb1-0d53-7118-8670-4337fa06cc3b",
+      "time": "2026-09-24 03:14:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "BHP.L",
+        "Impact bearish"
+      ],
+      "text": "BHP says operations at the Escondida mine in Chile have been suspended."
+    },
+    {
+      "id": "5110516",
+      "time": "2026-09-24 03:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於週六觀看得克薩斯大學對陣田納西大學的橄欖球比賽。"
+    },
+    {
+      "id": "5110515",
+      "time": "2026-09-24 03:13:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼在聯合國安理會就人工智慧議題發言。"
+    },
     {
       "id": "5110514",
       "time": "2026-09-24 03:12:52",
