@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-23 09:45:14",
-  "count": 13368,
+  "updated": "2026-09-23 09:49:02",
+  "count": 13362,
   "items": [
+    {
+      "id": "5108806",
+      "time": "2026-09-23 09:47:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【其他酒類板塊走高，古越龍山漲停】其他酒類板塊走高，古越龍山漲停，會稽山、威龍股份、百潤股份、金楓酒業、張裕A等紛紛走高。"
+    },
+    {
+      "id": "5108805",
+      "time": "2026-09-23 09:47:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股地產股走高，萬科企業漲11%，融創中國漲超8%，碧桂園、中國奧園漲近6%。"
+    },
+    {
+      "id": "5108804",
+      "time": "2026-09-23 09:46:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光等成立智算科技公司 含通訊裝置銷售業務】企查查APP顯示，近日，東莞東陽光元智算科技有限公司成立，經營範圍包含雲端計算裝備技術服務；計算機軟硬體及輔助裝置零售；通訊裝置銷售；安防裝置銷售等。企查查股權穿透顯示，該公司由東陽光等共同持股。"
+    },
+    {
+      "id": "5108803",
+      "time": "2026-09-23 09:46:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯會見美國總統特朗普。"
+    },
+    {
+      "id": "5108802",
+      "time": "2026-09-23 09:46:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：委內瑞拉反對派領導人馬查多多次嘗試返回委內瑞拉未果。"
+    },
+    {
+      "id": "5108801",
+      "time": "2026-09-23 09:45:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Physical AI初創公司息壤開物連續完成數億元融資】9月23日，介面新聞獲悉，Physical AI初創公司息壤開物連續完成種子輪及天使輪融資，累計融資金額達數億元，由敦鴻資產領投，華控基金、三花控股、銀杏谷資本、澤然資本、本堅基金、上海天使會、標樸投資等機構跟投。據公司披露，目前其估值達5億美元。息壤開物今年7月成立，由前華為雲大模型CTO李寅創辦，據公司披露，現任華為多模態首席科學家張含望將擔任息壤開物聯合創始人、首席科學家。公司主要研發物理基礎模型LPM，面向機器人等物理智慧場景。"
+    },
+    {
+      "id": "5108800",
+      "time": "2026-09-23 09:45:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：紐西蘭主要銀行保持強勁的競爭地位。"
+    },
+    {
+      "id": "mkt:01a0cbf0-1676-7118-8654-e079e28c8378",
+      "time": "2026-09-23 09:45:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KYODO reported U.S. President Trump met Venezuela's interim president Rodriguez on the 22nd during the United Nations General Assembly. U.S. government officials said the face-to-face talks were the first since U.S. forces attacked Venezuela in January."
+    },
+    {
+      "id": "mkt:01a0cbef-fffe-7118-8654-dc74c272c98d",
+      "time": "2026-09-23 09:44:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02202.HK",
+        "Impact bullish",
+        "03301.HK",
+        "01918.HK"
+      ],
+      "text": "Hong Kong-listed mainland property shares continued to rally: Vanke Enterprises (02202.HK) rose more than 10%, Ronshine China (03301.HK) gained over 7%, SUNAC CHINA (01918.HK) and COUNTRY GARDEN (02007.HK) also climbed."
+    },
     {
       "id": "mkt:01a0cbef-48ee-7118-8654-d579f579e097",
       "time": "2026-09-23 09:44:11",
@@ -121781,139 +121861,6 @@
         "其他"
       ],
       "text": "越南警方稱，河內一處住宅發生火災，造成五人死亡。"
-    },
-    {
-      "id": "5096325",
-      "time": "2026-09-16 09:48:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【戶外露營概念震盪反彈，三夫戶外漲停】戶外露營概念震盪反彈，三夫戶外漲停，通達創智、嘉麟傑、探路者、開潤股份、小崧股份、星徽股份等跟漲。"
-    },
-    {
-      "id": "5096324",
-      "time": "2026-09-16 09:48:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧夏實現首單公募REITs突破】近日，國金嘉澤新能源封閉式基礎設施證券投資基金獲得中國證監會註冊批覆，為寧夏回族自治區首單公募REITs專案。嘉澤新能作為發起人和原始權益人，將旗下位於寧夏回族自治區吳忠市同心縣的焦家畔100MW風電場與新農村17.5MW風電場注入REITs底層，總裝機容量117.5MW。兩專案均於2025年11月納入特高壓靈紹直流配套電源，所發清潔電力主要透過靈紹直流外送浙江省，深度融入“西電東送”大格局。"
-    },
-    {
-      "id": "mkt:01a0a7e6-c274-7118-85a7-f779db102251",
-      "time": "2026-09-16 09:48:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CAAC and National Data Administration issue civil aviation data governance implementation plan】China’s Civil Aviation Administration (CAAC) and the National Data Administration released an implementation plan to build a civil aviation data governance system. Targets for 2027 include progressively完善 data governance rules, materially upgraded industry data-governance capability, basic open sharing of public data in key areas—operations, travel, logistics and supervision—pilots for market-based circulation of data elements, and demonstration high-value data applications and quality data products. Targets for 2030 call for a more complete institutional framework, full open sharing and authorized commercial operation of industry public data, significantly improved data supply and utilization efficiency, a largely formed data-element market and full release of data-element multiplier effects."
-    },
-    {
-      "id": "5096323",
-      "time": "2026-09-16 09:48:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【靈心巧手成立智慧科技新公司】企查查APP顯示，近日，靈心巧手（天津）智慧科技有限公司成立，經營範圍包含人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務；人工智慧硬體銷售；積體電路設計等。企查查股權穿透顯示，該公司由靈心巧手（北京）科技股份有限公司全資持股。"
-    },
-    {
-      "id": "5096322",
-      "time": "2026-09-16 09:48:09",
-      "tags": [
-        "行業",
-        "其他"
-      ],
-      "text": "【中國民航局、國家資料局聯合印發《民航資料治理體系建設實施方案》】近日，民航局、國家資料局聯合印發《民航資料治理體系建設實施方案》。 《實施方案》明確到2027年，民航資料基礎制度逐步完善，行業資料治理能力大幅提升，基本實現執行、出行、物流、監管等重點領域公共資料開放共享，探索資料要素市場化流通試點，形成一批資料高價值應用示範和高質量資料產品；到2030年，民航資料基礎制度體系更加完備，全面實現行業公共資料開放共享與授權運營，資料資源供給和開發利用效能顯著增強，資料要素市場基本形成，資料要素乘數效應全面釋放。"
-    },
-    {
-      "id": "5096321",
-      "time": "2026-09-16 09:47:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凱龍高科等成立科技公司 含AI及機器人業務】企查查APP顯示，近日，凱龍高科技（上海）有限公司成立，經營範圍包含智慧機器人的研發；智慧機器人銷售；人工智慧基礎軟體開發；人工智慧通用應用系統；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由凱龍高科等共同持股。"
-    },
-    {
-      "id": "mkt:01a0a7e6-12c0-7118-85a7-ea4fe8ad4194",
-      "time": "2026-09-16 09:47:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China National Energy Administration chief meets IEA director, signs three-year cooperation plan】Sept 11, Beijing — Wang Hongzhi, director of China’s National Energy Administration, met with International Energy Agency Director Fatih Birol to discuss the international energy situation and bilateral cooperation. The NEA and IEA signed a three-year cooperation plan."
-    },
-    {
-      "id": "5096320",
-      "time": "2026-09-16 09:47:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局主要負責人會見國際能源署署長，共同簽署《三年合作計劃》】9月11日，中國國家能源局局長王宏志在京會見國際能源署（IEA）署長法提赫·比羅爾，雙方圍繞當前國際能源局勢、雙方能源合作等議題交換意見。雙方簽署了《中華人民共和國國家能源局—國際能源署三年合作計劃》。（國家能源局）"
-    },
-    {
-      "id": "5096319",
-      "time": "2026-09-16 09:47:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本製鐵：將在斯洛伐克生產基地新建電弧爐與空分裝置。"
-    },
-    {
-      "id": "5096318",
-      "time": "2026-09-16 09:47:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202609163875760064",
-      "time": "2026-09-16 09:47:17",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【潘功勝：貸款降速提質或將成為宏觀執行的新常態之一】《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷提升金融服務實體經濟適配性》。其中指出，貸款降速提質或將成為宏觀執行的新常態之一。當前超過280萬億元的貸款餘額中，房地產、地方融資平臺的貸款佔比仍然較大，這些領域不僅不再增長，反而還在下降。2025年至2026年上半年，房地產貸款餘額累計下降超2萬億元。"
-    },
-    {
-      "id": "5096317",
-      "time": "2026-09-16 09:47:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇樹科技註冊資本增至4.04億元】企查查 APP 顯示，宇樹科技股份有限公司近日發生工商變更，註冊資本由 3.64億元增至 4.04億元；登記機關由杭州高新技術產業開發區（濱江）市場監督管理局變更為浙江省市場監督管理局。"
-    },
-    {
-      "id": "mkt:01a0a7e5-1a90-7118-85a7-e07840448245",
-      "time": "2026-09-16 09:46:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share lab-grown diamond sector extended gains; Woerde gained more than 4%, Liliang Diamond, Huifeng Diamond and Guoji Jinggong rose over 3%, Sifangda and Huanghe Whirlwind also advanced."
-    },
-    {
-      "id": "te:markets:584040",
-      "time": "2026-09-16 09:45:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Edge Higher — The benchmark KOSPI edged up to around 6,640 on Wednesday, recovering part of the previous session's loss, amid gains in semiconductor and battery stocks. SK hynix rose more than 1%, while both Samsung Electronics and LG Energy Solution gained nearly 1%, helping lift the index despite a cautious broader market backdrop. Meanwhile, surging oil prices remained a key concern as Brent crude climbed above $108 a barrel amid escalating Middle East tensions and disruptions to a key Saudi oil pipeline. Higher energy prices could add to inflation and raise costs for Korean companies, which are heavily reliant on imported energy. At the same time, the US 10-year Treasury yield briefly topped 5% for the first time since 2007, increasing concerns over equity valuations and financial conditions. Investors also remained cautious ahead of the Federal Reserve's policy decision, watching for signals on the path of US interest rates."
-    },
-    {
-      "id": "5096316",
-      "time": "2026-09-16 09:45:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【有機矽概念震盪反彈，新亞強漲停】有機矽概念震盪反彈，新亞強漲停，遠翔新材漲超10%，陽穀華泰、集泰股份、晨光新材、華盛鋰電、新亞製程等跟漲。"
     }
   ]
 }

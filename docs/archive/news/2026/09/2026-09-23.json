@@ -1,7 +1,87 @@
 {
   "date": "2026-09-23",
-  "count": 798,
+  "count": 807,
   "items": [
+    {
+      "id": "5108806",
+      "time": "2026-09-23 09:47:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【其他酒類板塊走高，古越龍山漲停】其他酒類板塊走高，古越龍山漲停，會稽山、威龍股份、百潤股份、金楓酒業、張裕A等紛紛走高。"
+    },
+    {
+      "id": "5108805",
+      "time": "2026-09-23 09:47:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股地產股走高，萬科企業漲11%，融創中國漲超8%，碧桂園、中國奧園漲近6%。"
+    },
+    {
+      "id": "5108804",
+      "time": "2026-09-23 09:46:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東陽光等成立智算科技公司 含通訊裝置銷售業務】企查查APP顯示，近日，東莞東陽光元智算科技有限公司成立，經營範圍包含雲端計算裝備技術服務；計算機軟硬體及輔助裝置零售；通訊裝置銷售；安防裝置銷售等。企查查股權穿透顯示，該公司由東陽光等共同持股。"
+    },
+    {
+      "id": "5108803",
+      "time": "2026-09-23 09:46:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉代總統羅德里格斯會見美國總統特朗普。"
+    },
+    {
+      "id": "5108802",
+      "time": "2026-09-23 09:46:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：委內瑞拉反對派領導人馬查多多次嘗試返回委內瑞拉未果。"
+    },
+    {
+      "id": "5108801",
+      "time": "2026-09-23 09:45:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Physical AI初創公司息壤開物連續完成數億元融資】9月23日，介面新聞獲悉，Physical AI初創公司息壤開物連續完成種子輪及天使輪融資，累計融資金額達數億元，由敦鴻資產領投，華控基金、三花控股、銀杏谷資本、澤然資本、本堅基金、上海天使會、標樸投資等機構跟投。據公司披露，目前其估值達5億美元。息壤開物今年7月成立，由前華為雲大模型CTO李寅創辦，據公司披露，現任華為多模態首席科學家張含望將擔任息壤開物聯合創始人、首席科學家。公司主要研發物理基礎模型LPM，面向機器人等物理智慧場景。"
+    },
+    {
+      "id": "5108800",
+      "time": "2026-09-23 09:45:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：紐西蘭主要銀行保持強勁的競爭地位。"
+    },
+    {
+      "id": "mkt:01a0cbf0-1676-7118-8654-e079e28c8378",
+      "time": "2026-09-23 09:45:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KYODO reported U.S. President Trump met Venezuela's interim president Rodriguez on the 22nd during the United Nations General Assembly. U.S. government officials said the face-to-face talks were the first since U.S. forces attacked Venezuela in January."
+    },
+    {
+      "id": "mkt:01a0cbef-fffe-7118-8654-dc74c272c98d",
+      "time": "2026-09-23 09:44:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02202.HK",
+        "Impact bullish",
+        "03301.HK",
+        "01918.HK"
+      ],
+      "text": "Hong Kong-listed mainland property shares continued to rally: Vanke Enterprises (02202.HK) rose more than 10%, Ronshine China (03301.HK) gained over 7%, SUNAC CHINA (01918.HK) and COUNTRY GARDEN (02007.HK) also climbed."
+    },
     {
       "id": "mkt:01a0cbef-48ee-7118-8654-d579f579e097",
       "time": "2026-09-23 09:44:11",
