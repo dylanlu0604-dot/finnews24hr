@@ -1,7 +1,82 @@
 {
   "date": "2026-09-23",
-  "count": 1800,
+  "count": 1807,
   "items": [
+    {
+      "id": "mkt:01a0cdf9-5512-7118-8662-73fd5de6f144",
+      "time": "2026-09-23 19:14:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【U.S. mortgage rates top 7% for first time in over two years】U.S. mortgage rates hit their highest level in more than two years, adding pressure to a housing market already strained by high prices and weak sales. The Mortgage Bankers Association (MBA) said the contract rate on 30-year fixed mortgages rose 15 bps in the week ended Sept. 18 to 7.12%, the highest since May 2024. The 5-year adjustable-rate mortgage rate fell 13 bps to 6.10%. Rates have trended higher since February after the Iran conflict pushed energy prices and reignited inflation concerns; the Fed last week delivered its first policy-rate increase since 2023. Mortgage demand weakened: the MBA purchase index fell 0.8% to a four-week low and the refinancing index dropped 2.6% to its weakest level since Feb. 2025. A sustained move above 7% could further damp housing demand."
+    },
+    {
+      "id": "mkt:01a0cdf8-ecad-7118-8662-683724d5e10c",
+      "time": "2026-09-23 19:13:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK",
+        "Impact bullish"
+      ],
+      "text": "【Lu Weibing: Xiaomi 18Fold initial retail sales up 300% YoY vs. prior-generation foldable】On Sept 23 at the 18 Pro launch, Xiaomi partner and group president Lu Weibing said initial retail volume for the Xiaomi 18Fold rose 300% YoY versus the previous-generation foldable."
+    },
+    {
+      "id": "5109779",
+      "time": "2026-09-23 19:13:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【布倫特原油看跌期權成交創歷史紀錄】洲際交易所（ICE）最新資料顯示，週二布倫特原油看跌期權成交量約76.4萬張，創歷史紀錄。當天超過11萬張12月70/69美元看跌價差、4萬張11月93/92美元看跌價差以及3.85萬張2月70/69美元看跌價差成交，三類交易合計佔當日總成交量的一半以上。業內人士表示，大量成交集中於窄幅看跌價差，此類交易有時也用於對沖場外二元期權，因此並不意味著所有成交都代表單純的方向性做空。不過，從市場交易結構來看，資金正在明顯降低此前對油價進一步上漲的押注。期權市場交易升溫的背後，是原油基本面和地緣風險溢價的同步變化。（券商中國）"
+    },
+    {
+      "id": "5109778",
+      "time": "2026-09-23 19:12:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北省光合組織產業生態創新中心正式啟動】2026中國國際數字經濟博覽會期間，依託光合組織的產業生態聚合與資源統籌能力，河北省資料和政務服務局與中科曙光簽署戰略合作協議，河北省光合組織產業生態創新中心同步正式啟動。光合組織副秘書長曾超表示，該中心是光合組織布局京津冀的關鍵省級生態載體，將匯入全國算力AI資源賦能河北產業數字化轉型。"
+    },
+    {
+      "id": "mkt:01a0cdf7-30f6-7118-8662-64a68bba5a22",
+      "time": "2026-09-23 19:12:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israeli broadcaster N12 reports investigators uncovered a plot to carry out a series of bomb attacks, abduct an IDF soldier and use an explosive-laden drone to assassinate National Security Minister Itamar Ben-Gvir."
+    },
+    {
+      "id": "5109777",
+      "time": "2026-09-23 19:12:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英洛華：擬零對價受讓5500萬元私募基金份額】英洛華公告稱，公司擬以零對價受讓橫店企服持有的橫店柏暉5500萬元未實繳基金份額，同時作為有限合夥人簽署合夥協議並履行實繳出資義務，認繳出資佔基金總份額的3.33%。本次交易構成關聯交易，不構成重大資產重組。該基金目標認繳規模16.50億元，重點投向科技產業領域優質企業，存續期12年。目前基金處於增資認購階段，尚需完成工商變更及基金業協會備案資訊變更，存在投資收益不達預期等風險。"
+    },
+    {
+      "id": "mkt:01a0cdf7-15e8-7118-8662-5d410ec9156f",
+      "time": "2026-09-23 19:11:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Advisor to Ethiopia's prime minister said Tigrayan forces have launched attacks on government positions in Afar and Amhara regions and seized control of several airports in Tigray."
+    },
     {
       "id": "te:economy:586104",
       "time": "2026-09-23 19:11:44",
