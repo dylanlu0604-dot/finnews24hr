@@ -1,7 +1,100 @@
 {
   "date": "2026-09-23",
-  "count": 2191,
+  "count": 2201,
   "items": [
+    {
+      "id": "mkt:01a0ced8-3d1a-7118-866c-75d6012aed7f",
+      "time": "2026-09-23 23:17:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Institute of International Finance said global debt surpassed $365 trillion for the first time in 1H 2026, with the rise driven mainly by emerging markets."
+    },
+    {
+      "id": "5110372",
+      "time": "2026-09-23 23:17:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際金融協會（IIF）：2026 年上半年全球債務規模創下 365 萬億美元的紀錄，新增債務主要由新興市場推動。"
+    },
+    {
+      "id": "mkt:01a0ced7-f36a-7118-866c-6d00054457ce",
+      "time": "2026-09-23 23:17:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Nikkei reports Japan's JERA plans to propose an LNG-fired power generation project in Hawaii."
+    },
+    {
+      "id": "mkt:01a0ced6-a250-7118-866c-60f3b083f407",
+      "time": "2026-09-23 23:16:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "France sovereign bond risk premium widened to 110bp, the highest level since 2012."
+    },
+    {
+      "id": "5110371",
+      "time": "2026-09-23 23:15:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：特朗普確實認為當下世界並不需要一場 “約旦河西岸危機”，這也是我方立場。"
+    },
+    {
+      "id": "5110370",
+      "time": "2026-09-23 23:15:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首相伯納姆重申英國不應“受制於”債市 稱對全球債市暴露過度】英國首相安迪·伯納姆表示，英國對全球債券市場的“暴露過度”，併為自己去年曾引發投資者擔憂的爭議性言論進行辯護。伯納姆表示，他仍然堅持自己在出任首相前的說法，即英國不應“受制於”債券市場。相關言論後來一度引發擔憂，認為他未來領導的政府可能採取更為寬鬆的財政政策。儘管此後他為安撫市場而承諾嚴守財政紀律，但伯納姆在週三刊登於《新政治家》(New Statesman)雜誌的採訪中表示，自己仍堅持當初的觀點。伯納姆說：“關於債券市場的那一點依然成立。我當時想表達的是，這個國家讓自己處於過度暴露的狀態。”不過，他補充稱，自己主張的是建立一個“更加精簡、更具生產效率的政府體系”。"
+    },
+    {
+      "id": "mkt:01a0ced5-5a37-7118-866c-5cad233fcd2a",
+      "time": "2026-09-23 23:14:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "603160.SS",
+        "Impact bullish"
+      ],
+      "text": "【Xiaomi 18 Pro series adopts Goodix touch, fingerprint and audio solutions】Sept. 23 — Xiaomi launched its 18 Pro series; supply‑chain sources say the phones use Goodix Technology’s next‑generation touch controller, ultrasonic fingerprint sensor and smart audio amplifier."
+    },
+    {
+      "id": "5110369",
+      "time": "2026-09-23 23:14:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國國債風險溢價升至 110 個基點，為 2012 年以來首次。"
+    },
+    {
+      "id": "mkt:01a0ced5-2250-7118-866c-5782ee99599c",
+      "time": "2026-09-23 23:14:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's President Milei said the United Nations is turning a blind eye to the Falkland Islands dispute."
+    },
+    {
+      "id": "mkt:01a0ced4-ef12-7118-866c-4a659b958d21",
+      "time": "2026-09-23 23:14:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reports the FBI is investigating a hack of its recruiting website."
+    },
     {
       "id": "5110368",
       "time": "2026-09-23 23:13:05",
