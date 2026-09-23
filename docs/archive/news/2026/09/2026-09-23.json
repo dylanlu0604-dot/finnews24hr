@@ -1,7 +1,53 @@
 {
   "date": "2026-09-23",
-  "count": 695,
+  "count": 700,
   "items": [
+    {
+      "id": "5108747",
+      "time": "2026-09-23 09:13:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安達科技在貴州成立礦業新公司】企查查APP顯示，近日，貴州安達礦業有限公司成立，經營範圍包含礦物洗選加工；金屬礦石銷售；非金屬礦及製品銷售等。企查查股權穿透顯示，該公司由安達科技全資持股。"
+    },
+    {
+      "id": "mkt:01a0cbd3-3f1b-7118-8653-82d3d2b181f5",
+      "time": "2026-09-23 09:13:34",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Galaxy Securities: AI sector enters rational verification phase】Galaxy Securities said in a Sept. 23 report the Fed hiked 25bps to 3.75%–4.00% on Sept. 16, the first increase since July 2023. A systemic rise in risk-free rates is lifting discount rates beyond the policy rate and compressing equity P/Es, disproportionately hitting high-valuation growth stocks dependent on distant cash flows. The AI narrative remains strong, but pricing is shifting from long‑term visions to near‑term realization. On the first trading day after the hike, storage, CPUs, foundry and optical‑interconnect segments outperformed; strong current earnings and short investment payback make these compute‑hardware nodes less sensitive to higher rates. Valuation differentiation is accelerating: hardware with verified cash flows and earnings (advanced process, memory, optical interconnect, equipment and materials) is benefiting, while narrative‑driven, unprofitable names are being further squeezed."
+    },
+    {
+      "id": "5108746",
+      "time": "2026-09-23 09:12:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北方冷空氣活躍 南方多地悶熱持續需注意防暑】未來三天（9月23日至25日），四川盆地到陝西南部一帶降雨頻繁，局地或現大暴雨，需警惕次生災害的發生。其中，明後天，主雨區將東擴，黃淮、江淮部分地區降雨增強，需注意防範。氣溫方面，月底前北方冷空氣活躍，南方悶熱天氣持續，部分地區還將出現高溫，需注意防暑。"
+    },
+    {
+      "id": "mkt:01a0cbd1-81fe-7118-8653-7f208cb2f1e2",
+      "time": "2026-09-23 09:11:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Omdia: Global AI glasses shipments 1H 2026 at 4.2 mln, up 127% YoY】Omdia data show global AI glasses shipments reached 4.2 mln units in 1H 2026, up 127% YoY. The category remains nascent; as the market expands from a low base growth is gradually stabilizing. Competition among different frame designs is intensifying and user privacy concerns are rising, making the market environment more complex."
+    },
+    {
+      "id": "5108745",
+      "time": "2026-09-23 09:11:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Omdia：上半年全球AI眼鏡出貨量達420萬臺 同比增長127%】據Omdia最新資料，2026年上半年全球AI眼鏡出貨量達到420萬臺，同比增長127%。AI眼鏡仍處於新興品類的發展階段，隨著市場從較低基數持續擴大，增速正逐步趨於穩定。與此同時，不同鏡框設計之間的競爭日益加劇，使用者隱私問題也受到更多關注，市場環境正變得更加複雜。"
+    },
     {
       "id": "5108744",
       "time": "2026-09-23 09:08:20",

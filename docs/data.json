@@ -1,7 +1,53 @@
 {
-  "updated": "2026-09-23 09:10:26",
-  "count": 13378,
+  "updated": "2026-09-23 09:14:16",
+  "count": 13376,
   "items": [
+    {
+      "id": "5108747",
+      "time": "2026-09-23 09:13:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安達科技在貴州成立礦業新公司】企查查APP顯示，近日，貴州安達礦業有限公司成立，經營範圍包含礦物洗選加工；金屬礦石銷售；非金屬礦及製品銷售等。企查查股權穿透顯示，該公司由安達科技全資持股。"
+    },
+    {
+      "id": "mkt:01a0cbd3-3f1b-7118-8653-82d3d2b181f5",
+      "time": "2026-09-23 09:13:34",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Galaxy Securities: AI sector enters rational verification phase】Galaxy Securities said in a Sept. 23 report the Fed hiked 25bps to 3.75%–4.00% on Sept. 16, the first increase since July 2023. A systemic rise in risk-free rates is lifting discount rates beyond the policy rate and compressing equity P/Es, disproportionately hitting high-valuation growth stocks dependent on distant cash flows. The AI narrative remains strong, but pricing is shifting from long‑term visions to near‑term realization. On the first trading day after the hike, storage, CPUs, foundry and optical‑interconnect segments outperformed; strong current earnings and short investment payback make these compute‑hardware nodes less sensitive to higher rates. Valuation differentiation is accelerating: hardware with verified cash flows and earnings (advanced process, memory, optical interconnect, equipment and materials) is benefiting, while narrative‑driven, unprofitable names are being further squeezed."
+    },
+    {
+      "id": "5108746",
+      "time": "2026-09-23 09:12:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北方冷空氣活躍 南方多地悶熱持續需注意防暑】未來三天（9月23日至25日），四川盆地到陝西南部一帶降雨頻繁，局地或現大暴雨，需警惕次生災害的發生。其中，明後天，主雨區將東擴，黃淮、江淮部分地區降雨增強，需注意防範。氣溫方面，月底前北方冷空氣活躍，南方悶熱天氣持續，部分地區還將出現高溫，需注意防暑。"
+    },
+    {
+      "id": "mkt:01a0cbd1-81fe-7118-8653-7f208cb2f1e2",
+      "time": "2026-09-23 09:11:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Omdia: Global AI glasses shipments 1H 2026 at 4.2 mln, up 127% YoY】Omdia data show global AI glasses shipments reached 4.2 mln units in 1H 2026, up 127% YoY. The category remains nascent; as the market expands from a low base growth is gradually stabilizing. Competition among different frame designs is intensifying and user privacy concerns are rising, making the market environment more complex."
+    },
+    {
+      "id": "5108745",
+      "time": "2026-09-23 09:11:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Omdia：上半年全球AI眼鏡出貨量達420萬臺 同比增長127%】據Omdia最新資料，2026年上半年全球AI眼鏡出貨量達到420萬臺，同比增長127%。AI眼鏡仍處於新興品類的發展階段，隨著市場從較低基數持續擴大，增速正逐步趨於穩定。與此同時，不同鏡框設計之間的競爭日益加劇，使用者隱私問題也受到更多關注，市場環境正變得更加複雜。"
+    },
     {
       "id": "5108744",
       "time": "2026-09-23 09:08:20",
@@ -121987,74 +122033,6 @@
         "其他"
       ],
       "text": "【 聯合國：葉門西海岸戰事升級 超10萬人流離失所 】 當地時間15日，聯合國秘書長發言人迪雅裡克在紐約總部表示，葉門西海岸戰事持續升級，已造成超過10萬人在葉門境內流離失所，數千人跨越曼德海峽前往吉布提。聯合國當天宣佈緊急撥款900萬美元用於救助流離失所民眾。"
-    },
-    {
-      "id": "te:markets:584033",
-      "time": "2026-09-16 09:13:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Under Pressure Ahead of Fed Decision — The Australian dollar steadied around $0.71, holding its recent decline near a four-week low as a firmer US dollar and higher Treasury yields weighed on the currency ahead of the Federal Reserve’s policy decision. The greenback strengthened as markets widely expected the Fed to raise interest rates by 25 basis points, its first increase in around three years, while the US 10-year Treasury yield climbed above 5%, its highest level since 2007, as surging oil prices and persistent inflation concerns reinforced expectations for tighter policy. Oil prices held near a four-month peak above $105 a barrel after fresh Houthi attacks on Saudi Arabia and the postponement of Gulf-Iran talks. Domestically, the Reserve Bank of Australia’s hawkish stance continues to provide some support, with markets pricing an 85% probability of a rate increase to 4.60% at its September 29 meeting. Investors now await comments from Governor Bullock, which is scheduled to appear before Parliament on Friday."
-    },
-    {
-      "id": "5096255",
-      "time": "2026-09-16 09:13:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【飛天、精品茅臺聯袂大漲 國窖1573、青花郎顯著回撥】新浪財經“酒價內參”過去24小時收集的資料顯示，9月16日中國白酒業11大單品的終端零售均價五漲五跌一平，漲跌品種數量平分秋色，但上漲端累計漲幅明顯領先。贏家方面，飛天茅臺上漲4元至1798元，前一日回撥後重新走高，平近30天最高價紀錄；精品茅臺大漲8元至2467元，三連漲價格中樞強勢上移；五糧液普五八代大漲10元至806元，終結五連跌，大步跨越800元整數關口；洋河夢之藍M6+上漲3元至611元，收復昨日失地，延續前期震盪走勢；古井貢古20上漲3元至538元，四連陽自近期最低位持續攀升。下跌方面，青花汾20小跌1元至398元，三連陽告終，叩關400元隘口未果；國窖1573下跌5元至872元，二連陰價盤創下近30天最低；習酒君品下跌3元至633元，連續兩日回吐且量能疲弱；青花郎下跌4元至690元，二連漲後觸及阻力線遭遇技術回撥；水晶劍南春小跌1元至407元，保持窄幅震盪態勢。持平方面，五糧液1618終端零售均價維持831元，近期價盤表現穩定，維持在月高區間。\n\n今日11大單品的終端零售總價繼續抬升，輸贏家數量均衡，但贏家漲幅佔優，價盤整體延續上攻狀態。如果11大單品各取一瓶整體打包售賣，今日總售價為10037元，較昨日上漲14元，創下9天以來新高。總價已連續三日回升，進一步鞏固萬元整數關口。"
-    },
-    {
-      "id": "5096254",
-      "time": "2026-09-16 09:12:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【敦煌種業股價波動，近1個月登上龍虎榜15次，公司回應】9月15日，敦煌種業股價再度跌停。此前一個交易日，公司也出現跌停。9月以來，公司股價出現較為明顯的波動。資料顯示，近一個月，敦煌種業登上龍虎榜15次。對此，敦煌種業方面回應中國證券報·中證金牛座記者，種業是農業的前端，受厄爾尼諾氣候變化訊息影響，近期農業板塊受到資金關注。大田玉米種子從8月底開始進入收穫期，收穫期會持續到10月份。對於市場關注的種業預收款問題，敦煌種業董秘張玉財稱，種子行業基本都會有預收款，但每家公司預收的情況不一樣，行業一般是7月份開始進行。種子通常10月份陸續完成加工，會優先給交了預付資金的經銷商安排發貨。經銷商拿到種子後，省級經銷商會先鋪貨到縣級經銷商，縣級經銷商再去農戶做宣傳。如果訂得早，價格會有優惠。且如果有預付，經銷商的銷售壓力會增加，也會及時進行銷售。(中證金牛座)"
-    },
-    {
-      "id": "mkt:01a0a7c4-fe77-7118-85a6-a4d7191a4b7b",
-      "time": "2026-09-16 09:11:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta said it is rolling out parental supervision features for teenage users on Threads in the Asia-Pacific region."
-    },
-    {
-      "id": "mkt:01a0a7c4-b52a-7118-85a6-9b3dd51e6511",
-      "time": "2026-09-16 09:11:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【SCO Development Bank holds fifth multilateral consultations in Hangzhou】The SCO Development Bank held its fifth multilateral consultations in Hangzhou, Zhejiang, on Sept. 14-15, 2026. China's vice finance minister Liao Min and Pakistan's economic minister-counselor to China, Aslam Chaudhry, co-chaired the meeting; Ministry of Finance minister's assistant Chang Junhong attended and spoke."
-    },
-    {
-      "id": "5096253",
-      "time": "2026-09-16 09:11:15",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【上海合作組織開發銀行多邊磋商第五次會議在浙江杭州舉行】2026年9月14日至15日，上海合作組織開發銀行多邊磋商第五次會議在浙江杭州舉行。財政部副部長廖岷與巴基斯坦駐華使館經濟公使阿斯拉姆·喬杜裡共同主持會議，部長助理常軍紅出席會議併發言。（財政部）"
-    },
-    {
-      "id": "5096252",
-      "time": "2026-09-16 09:10:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【平陸運河將於今日通航 “黃金水道”重塑西南物流新格局】全長134.2公里、總投資約727億元的西南“黃金水道”——平陸運河將於今天通航。平路運河不僅將改寫廣西無江海直航的歷史，更將深刻重塑我國西南地區的物流與經濟版圖。 （央視）"
     }
   ]
 }
