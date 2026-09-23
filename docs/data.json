@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-23 18:22:55",
-  "count": 13283,
+  "updated": "2026-09-23 18:26:38",
+  "count": 13279,
   "items": [
+    {
+      "id": "5109691",
+      "time": "2026-09-23 18:23:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中集集團：擬登出2464.56萬股回購A股並減資】中集集團公告稱，公司已審議透過變更2023年11月獲批的A股回購股份用途，由原計劃全部用於出售變更為登出並減少註冊資本。本次登出股份數量為2464.555萬股，登出完成後公司總股本及註冊資本將相應減少。公司已就本次減資通知債權人，債權人可於規定期限內憑有效債權檔案要求公司清償債務或提供相應擔保，逾期未行使權利不影響債權有效性，本次回購登出將按法定程式繼續實施。"
+    },
+    {
+      "id": "5109690",
+      "time": "2026-09-23 18:23:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濱海能源：控股股東擬對子公司增資 公司放棄優先認購權】濱海能源公告稱，公司控股股東旭陽集團擬向子公司內蒙古翔福新能源有限責任公司增資5.07億元，公司放棄本次增資優先認購權。本次增資完成後，公司對翔福新能源持股比例將由63.30%降至51.50%，旭陽控股持股比例為29.86%，旭陽集團持股比例為18.64%。本次交易構成關聯交易，不構成重大資產重組，相關增資協議已簽署，尚需公司股東會批准。"
+    },
+    {
+      "id": "5109689",
+      "time": "2026-09-23 18:23:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據港交所披露檔案，小米於9月23日以6240萬港元回購240萬股B類股份。"
+    },
+    {
+      "id": "mkt:01a0cdca-572f-7118-8661-187b2b94995e",
+      "time": "2026-09-23 18:23:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "01810.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing shows Xiaomi Group (01810.HK) repurchased 2.4 mln Class B shares for HK$62.4 mln on Sept 23."
+    },
+    {
+      "id": "te:economy:586085",
+      "time": "2026-09-23 18:22:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kosovo",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Kosovo Trade Deficit Widens in August — Kosovo’s trade deficit widened to €568 million in August 2026, from €536.8 million in the same month a year earlier. Imports rose 9% to €668.5 million, driven by a 6.6% increase in purchases from EU countries, mainly Germany, which accounted for 13.6% of total imports, followed by Italy (4.2%) and Poland (3.7%). In contrast, imports from CEFTA countries (North Macedonia, Serbia and Albania) declined 2.1%. The main imported products were machinery and transport equipment (23.2% of total), fuel (18.4%), processed goods (16.6%), and food and live animals (14.9%). Meanwhile, exports surged 31.9% to €100.5 million, driven by a 29.8% increase in shipments to EU countries, particularly Germany, which accounted for 10.2% of total exports, followed by Italy (3.0%) and the Netherlands (2.2%). Shipments to CEFTA countries (Albania, North Macedonia, Serbia and Montenegro) also rose 32.2%. The main exported products were processed goods (25.4%), food and live animals (15.7%), and fuel (12.8%)."
+    },
+    {
+      "id": "5109688",
+      "time": "2026-09-23 18:22:57",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【華統股份：副總經理朱文文被採取強制措施】華統股份(002840.SZ)公告稱，公司於2026年9月23日獲悉，副總經理朱文文於9月22日被台州市公安局椒江分局採取強制措施，目前案件尚在偵辦中。公司未收到公安機關任何通知，該事項未對日常經營造成重大不利影響。"
+    },
+    {
+      "id": "5109687",
+      "time": "2026-09-23 18:22:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新華文軒：股票交易異常波動 上半年營收淨利雙降】新華文軒公告稱，公司股票於2026年9月22日、9月23日連續2個交易日收盤價格漲幅偏離值累計達21.33%，屬於股票交易異常波動。2026年9月18日至9月23日公司股票連續4個交易日漲停，9月17日至9月23日股價累計漲幅53.53%，短期漲幅較大，存在非理性炒作風險。2026年上半年公司營業收入50.07億元，同比下降9.42%；歸母淨利潤6.54億元，同比下降23.59%；扣非歸母淨利潤6.28億元，同比下降25.85%。"
+    },
     {
       "id": "5109686",
       "time": "2026-09-23 18:21:51",
@@ -121055,110 +121121,6 @@
         "國際"
       ],
       "text": "【加拿大總理用特朗普送鑰匙形容美加關係】加拿大總理卡尼9月15日表示，加拿大與美國最終仍有可能達成貿易協議，但前提是協議必須符合加拿大經濟利益。他說，加拿大已準備好在合適時機重返談判桌。談及加美關係，卡尼還回憶去年春天訪問白宮時的一段趣事，稱美國總統特朗普曾送給他一個盒子，裡面裝著一把巨大的金色鑰匙。特朗普告訴他，這是白宮的鑰匙，“你只要帶著它，他們就會讓你進去，不過他們也可能會開槍打你。”卡尼表示，這個玩笑某種程度上也反映了加拿大與美國之間複雜的關係——兩國聯絡緊密，但同時存在分歧。他同時強調，如果加拿大來提供進入該國的“鑰匙”，加拿大將選擇歡迎，而非攻擊來者。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0a9c0-cf9b-7118-85b5-9cb8a56160c5",
-      "time": "2026-09-16 18:26:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "UK gilts continued to rise; the 2-year yield fell 8 bps intraday to 4.81%."
-    },
-    {
-      "id": "5097320",
-      "time": "2026-09-16 18:26:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國國債延續漲勢，兩年期國債收益率下跌8個基點至4.81%。"
-    },
-    {
-      "id": "te:economy:584198",
-      "time": "2026-09-16 18:25:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "House Price Index YoY",
-        "Importance 1"
-      ],
-      "text": "Ireland Property Prices Remain at Over 2-Year Low — Residential property prices increased 5.5% year-on-year in July 2026, easing from a 5.6% rise in the previous month and marking the lowest level since January 2024. House price growth eased to 3.7% from 3.9% in July, while apartment prices also eased to 6.8% from 7.0%. By region, annual property price growth in Dublin slowed to 4.4% from 4.6%, while prices outside the capital held steady at 6.4%. Within Dublin, the strongest growth was recorded in Dún Laoghaire-Rathdown at 6.0%, up from 4.9% in the previous month, while Dublin City also slowed to 2.3% from 3.8%. Price levels continued to vary across regions, with Dún Laoghaire-Rathdown recording the highest median dwelling price at €668,411, while the lowest was in Longford at €200,000. On a monthly basis, residential property prices rose 0.8% in August from 0.5% in the previous period and marking the highest increase since September 2025."
-    },
-    {
-      "id": "mkt:01a0a9c0-5259-7118-85b5-94a69e90002a",
-      "time": "2026-09-16 18:25:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the Iran Labour News Agency, the CEO of Iran Export Development Bank told the bank's ordinary shareholders meeting that net profit rose 44% in FY24/25."
-    },
-    {
-      "id": "mkt:01a0a9c0-3e7d-7118-85b5-88978c93a1d8",
-      "time": "2026-09-16 18:25:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Forceful, orderly rollout of new property measures aimed at stabilizing market】Property transactions have stabilized this year, prices are gradually recovering and new-home inventories continue to fall. Through August, national contracted area for second-hand home transactions reached 549 mln sqm, up 10.6% YoY. In August, new-home and resale prices in first-tier cities rose 0.1% MoM; MoM declines in second- and third-tier cities narrowed overall. The market, led by first-tier cities, shows continued resilience after local authorities applied city-specific policy adjustments. In late August central authorities issued a package of systemic property measures to restructure core sales and financing arrangements; Beijing, Shanghai, Chengdu and Xi’an also eased or tweaked local property rules. Momentum toward stabilization is strengthening but remains fragile; authorities stress full on‑the‑ground implementation of new measures to convert policy support into market activity."
-    },
-    {
-      "id": "5097319",
-      "time": "2026-09-16 18:25:38",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【有力有序落地房地產新政 推動市場穩定健康發展】今年以來，房地產市場交易總量趨於穩定、交易價格逐步回穩、新建商品房庫存持續下降，前8個月全國二手房交易網籤面積達5.49億平方米，同比增長10.6%。8月份，一線城市新建商品住宅和二手住宅銷售價格環比分別上漲0.1%；二三線城市商品住宅銷售價格環比降幅總體收窄。一系列訊號表明，以一線城市為“風向標”的房地產市場，繼續保持穩的態勢。市場表現出的較強韌性背後，是今年以來各地區各部門堅持因城施策，調整最佳化房地產政策。8月末，中央集中出臺一攬子系統性房地產新政，從銷售、融資等環節對房地產基礎制度進行重構；北京、上海、成都、西安等地對房地產政策進行了最佳化調整。積極回穩態勢增強的同時也要看到，市場回穩基礎尚需進一步鞏固。把已出臺的各項新政落到實處，確保政策從“紙面”落到“地面”，方能讓政策紅利真正轉化為市場活力。（新華社）"
-    },
-    {
-      "id": "5097318",
-      "time": "2026-09-16 18:25:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧克股份：訴訟執行階段將拍賣嘉業石化所持四川奧克股權】奧克股份公告稱，公司就金石達、嘉業石化未履行對控股子公司四川奧克的溶劑油裝置減值補償義務提起的民事訴訟已進入執行階段。因被執行人未履行生效判決確定的給付4091.83萬元減值補償款及逾期付款損失的義務，遼陽中院裁定拍賣嘉業石化持有的四川奧克12.25%股權，公司享有優先購買權。本案執行結果具有不確定性，不會對公司本期及後續利潤產生不利影響。"
-    },
-    {
-      "id": "5097317",
-      "time": "2026-09-16 18:24:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三鑫醫療：調整股份回購價格上限至14.46元/股】三鑫醫療公告稱，因實施2026年半年度權益分派，公司自2026年9月23日（除權除息日）起將股份回購價格上限由14.56元/股調整為14.46元/股。本次回購資金總額不低於2000萬元、不高於4000萬元，回購股份用於轉換公司發行的可轉換為股票的公司債券，回購實施期限為董事會審議透過回購方案之日起六個月內，除上述調整外，本次回購其他事項無變化。"
-    },
-    {
-      "id": "5097316",
-      "time": "2026-09-16 18:24:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【益豐藥房：半年度權益分派期間益豐轉債停止轉股】益豐藥房公告稱，因實施2026年半年度權益分派，自2026年9月22日至權益分派股權登記日期間，“益豐轉債”將停止轉股，股權登記日後的第一個交易日起恢復轉股；欲享受本次權益分派的可轉債持有人可在2026年9月21日（含當日）之前進行轉股。公司2026年半年度擬向全體股東每股派發現金紅利0.30元（含稅），權益分派實施後將對“益豐轉債”當期轉股價格進行調整。"
-    },
-    {
-      "id": "5097315",
-      "time": "2026-09-16 18:24:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國前國務卿：中東國家對美國的安全承諾感到失望】據美國方面15日訊息，美國前國務卿布林肯在接受訪問時表示，美國在中東地區的盟友對美國保障其安全的能力感到失望。布林肯表示，伊朗不斷襲擊美國位於中東的軍事基地，這向美國在該地區的盟友傳遞了一個訊號：一旦他們自身需要保衛，未必能指望得上美國。這促使地區國家都在尋求與伊朗對話。（央視新聞）"
-    },
-    {
-      "id": "te:economy:584197",
-      "time": "2026-09-16 18:23:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Israel",
-        "GDP Growth Annualized",
-        "Importance 1"
-      ],
-      "text": "Israel Q2 GDP Growth Revised Lower in 2nd Estimates — Israel’s economy grew at an annualized rate of 14.9% in the second quarter of 2026, rebounding sharply from an upwardly revised 1.7% contraction in the first quarter as the impact of the war with Iran eased. The reading was slightly below the first preliminary estimate and market expectations of 15.9%. The downward revision mainly reflected weaker growth in exports of goods and services, excluding startups and diamonds, which rose 16.6% compared with 25.2% in the first estimate, as well as fixed capital formation, which weakened to 4.1% from 6.3%. Still, growth remained elevated, supported by strong gains in private consumption (15% vs 14.7%) and public consumption (22.2% vs 19.5%). The annualized growth rate for the first half of 2026 was revised higher to 3.5% from 1.5%."
     }
   ]
 }
