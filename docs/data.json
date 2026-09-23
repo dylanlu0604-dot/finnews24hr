@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-24 07:06:08",
-  "count": 12820,
+  "updated": "2026-09-24 07:09:52",
+  "count": 12823,
   "items": [
+    {
+      "id": "mkt:01a0d087-1fc4-7118-8672-3cdf4802024c",
+      "time": "2026-09-24 07:08:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "European Council President COSTA urged an end to Iran’s attacks on its neighbors and called for full restoration of freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a0d087-18ef-7118-8672-302889ebc590",
+      "time": "2026-09-24 07:08:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Council President COSTA spoke by phone with Iran's president and urged Iran to resume cooperation with the International Atomic Energy Agency (IAEA)."
+    },
+    {
+      "id": "5110619",
+      "time": "2026-09-24 07:08:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表科斯塔：我呼籲停止伊朗對鄰國的打擊，全面恢復霍爾木茲海峽的航行自由。"
+    },
+    {
+      "id": "5110618",
+      "time": "2026-09-24 07:08:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟官員科斯塔：已與伊朗總統通話，敦促伊朗恢復與國際原子能機構的合作。"
+    },
+    {
+      "id": "5110617",
+      "time": "2026-09-24 07:07:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲國際社會攜手發展共享人權】中國常駐聯合國副代表孫磊23日在第81屆聯合國大會紀念《發展權利宣言》透過40週年高階別會議上發言，呼籲國際社會矢志踐行《發展權利宣言》精神，攜手發展，共享人權。（新華社）"
+    },
+    {
+      "id": "5110616",
+      "time": "2026-09-24 07:05:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平主席抵達華盛頓 美方機場舉行隆重迎接儀式】當地時間9月23日下午，國家主席習近平乘專機抵達華盛頓，應美國總統特朗普邀請，對美國進行國事訪問。 習近平和夫人彭麗媛抵達華盛頓安德魯斯空軍基地時，美方在機場舉行隆重迎接儀式，特朗普和夫人梅拉尼婭熱情迎接。（新華社）"
+    },
+    {
+      "id": "5110615",
+      "time": "2026-09-24 07:03:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "META年度Connect大會在加州門洛帕克開幕。"
+    },
+    {
+      "id": "5110614",
+      "time": "2026-09-24 07:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "出於安全考慮，滙豐將董事會會議從迪拜遷至倫敦。"
+    },
     {
       "id": "5110613",
       "time": "2026-09-24 07:01:06",
@@ -116402,53 +116474,6 @@
         "焦點"
       ],
       "text": "今天《人民日報》頭版的主要內容有：\n1、習近平致信祝賀吉林大學建校80週年\n2、做黨和人民的忠誠衛士——習近平總書記的回信激勵廣大公安幹警堅守為民初心、矢志擔當奉獻\n3、丁薛祥出席平陸運河通航儀式\n4、幹沙灘變成金沙灘，寧夏銀川市閩寧鎮——金沙灘結出文化果\n5、夏糧收購接近尾聲 累計收購小麥1億噸、早秈稻1200萬噸\n6、瀋陽著力為群眾打造高品質生活空間（“十五五”開好局起好步）。"
-    },
-    {
-      "id": "te:markets:584360",
-      "time": "2026-09-17 07:08:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Edges Higher After GDP Data — The NZX 50 rose 8 points, or 0.1%, to 13,631 in Thursday morning trade, extending gains from the previous session following the release of New Zealand’s GDP data. Fresh data showed that New Zealand’s economy grew more than expected, with GDP rising 2.6% year-on-year, while easing to 0.2% quarter-on-quarter, amid elevated oil prices due to the ongoing Middle East conflict. However, the Fed’s decision to hike interest rates by 25 bps limited the gains. Traders continued to monitor developments in the Iran-US war and its impact on oil prices. Financials, healthcare, and utilities mainly drove the index, with top movers including Channel Infrastructure (1.5%), Freightways Group (0.7%), AFT Pharmaceuticals (0.5%), EBOS Group (0.5%), and Gentrack Group (0.5%)."
-    },
-    {
-      "id": "5098530",
-      "time": "2026-09-17 07:08:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【國金證券：光伏玻璃供給加速出清 龍頭盈利修復與份額回升確定性較高】國金證券釋出研報稱，光伏企業中報進一步驗證產業鏈價格、盈利底部夯實，行業持續虧損背景下尾部產能及企業陸續出清，疊加強制國標、成本核算通則等實施，光伏板塊左側夯實。當前二三線企業仍處現金虧損，後續供給仍有下降空間，約3.3萬噸產能可視作實質性出清。頭部企業盈利修復確定性較高，同時有望憑藉盈利及資金優勢維持快於行業的產能增速，實現份額回升。"
-    },
-    {
-      "id": "5098529",
-      "time": "2026-09-17 07:07:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【恒大汽車(00708)釋出2025年度業績 股東應占虧損8.91億元 同比盈轉虧】恒大汽車(00708)釋出截至2025年12月31日止年度全年業績，該集團期內取得收入1301.1萬元(人民幣，下同)，同比減少75.59%;股東應占虧損8.91億元，同比盈轉虧;每股基本虧損8.218分。公告稱，收入減少主要由於提供技術服務的收入從2024年的2537萬元下降至報告期的1287萬元，以及本集團終止物業開發活動後，報告期內並無物業銷售(2024年：2228萬元)。服務歐洲客戶的技術服務業務為本集團於報告期內的主要及經常性收入來源。報告期內，本集團的收入主要來自透過National Electric Vehicle Sweden AB(NEVS，本公司於瑞典註冊成立的間接全資附屬公司)向歐洲客戶提供技術服務(技術服務業務)。本集團亦繼續籌備開展鋰離子電池貿易業務(電池貿易業務)。於本公告日期，本集團不再經營任何汽車製造業務，本集團於中國的所有生產設施已透過相關中國附屬公司的出售或破產程式予以出售或正在出售，而本集團的主要經營活動以輕資產經營模式透過其香港總部及NEVS進行。"
-    },
-    {
-      "id": "mkt:01a0ac78-f1e5-7118-85cb-295b5214b6f7",
-      "time": "2026-09-17 07:06:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【U.S. House passes first bill addressing economic impact of data center expansion】The U.S. House on Wednesday passed the Ratepayer Protection Act to shield households from electricity bill increases linked to data center expansion. The bill would require state utility regulators to consider whether large power users, including data centers, should pay the incremental costs of grid infrastructure serving them. The vote highlights a political split: President Trump backs data center growth as central to AI leadership, while lawmakers across parties face voter pressure over rising bills from surging power demand."
-    },
-    {
-      "id": "5098528",
-      "time": "2026-09-17 07:06:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "小米雷軍：小米澎程首批交付，4天時間，跨越四城，我們為100多位車主順利交付新車。"
     }
   ]
 }

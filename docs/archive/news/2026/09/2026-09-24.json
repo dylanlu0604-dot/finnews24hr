@@ -1,7 +1,79 @@
 {
   "date": "2026-09-24",
-  "count": 352,
+  "count": 360,
   "items": [
+    {
+      "id": "mkt:01a0d087-1fc4-7118-8672-3cdf4802024c",
+      "time": "2026-09-24 07:08:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "European Council President COSTA urged an end to Iran’s attacks on its neighbors and called for full restoration of freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a0d087-18ef-7118-8672-302889ebc590",
+      "time": "2026-09-24 07:08:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Council President COSTA spoke by phone with Iran's president and urged Iran to resume cooperation with the International Atomic Energy Agency (IAEA)."
+    },
+    {
+      "id": "5110619",
+      "time": "2026-09-24 07:08:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表科斯塔：我呼籲停止伊朗對鄰國的打擊，全面恢復霍爾木茲海峽的航行自由。"
+    },
+    {
+      "id": "5110618",
+      "time": "2026-09-24 07:08:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟官員科斯塔：已與伊朗總統通話，敦促伊朗恢復與國際原子能機構的合作。"
+    },
+    {
+      "id": "5110617",
+      "time": "2026-09-24 07:07:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲國際社會攜手發展共享人權】中國常駐聯合國副代表孫磊23日在第81屆聯合國大會紀念《發展權利宣言》透過40週年高階別會議上發言，呼籲國際社會矢志踐行《發展權利宣言》精神，攜手發展，共享人權。（新華社）"
+    },
+    {
+      "id": "5110616",
+      "time": "2026-09-24 07:05:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平主席抵達華盛頓 美方機場舉行隆重迎接儀式】當地時間9月23日下午，國家主席習近平乘專機抵達華盛頓，應美國總統特朗普邀請，對美國進行國事訪問。 習近平和夫人彭麗媛抵達華盛頓安德魯斯空軍基地時，美方在機場舉行隆重迎接儀式，特朗普和夫人梅拉尼婭熱情迎接。（新華社）"
+    },
+    {
+      "id": "5110615",
+      "time": "2026-09-24 07:03:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "META年度Connect大會在加州門洛帕克開幕。"
+    },
+    {
+      "id": "5110614",
+      "time": "2026-09-24 07:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "出於安全考慮，滙豐將董事會會議從迪拜遷至倫敦。"
+    },
     {
       "id": "5110613",
       "time": "2026-09-24 07:01:06",
