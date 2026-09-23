@@ -1,7 +1,110 @@
 {
   "date": "2026-09-23",
-  "count": 822,
+  "count": 833,
   "items": [
+    {
+      "id": "mkt:01a0cbfd-5136-7118-8655-1dc4123884de",
+      "time": "2026-09-23 09:59:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Data show three commodity vessels transited the Strait of Hormuz on Tuesday, below the 10-day moving average of about 15 vessels."
+    },
+    {
+      "id": "5108824",
+      "time": "2026-09-23 09:59:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，週二有三艘大宗商品貨船透過霍爾木茲海峽，而過去10天的日均透過量約為15艘。"
+    },
+    {
+      "id": "mkt:01a0cbfd-04e9-7118-8655-17e4cf333c0d",
+      "time": "2026-09-23 09:59:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Eight foreign ministers urge Israel to halt violations in Gaza】Sept 22 — Foreign ministers of Egypt, Qatar, Jordan, the UAE, Indonesia, Pakistan, Turkey and Saudi Arabia met during the 81st UN General Assembly general debate and expressed deep concern about the humanitarian disaster in Gaza. They urged Israel to immediately implement obligations in the first phase of the Gaza ceasefire agreement, including ensuring safe, unimpeded delivery of humanitarian aid and supplies; to stop all violations and any forced displacement of Palestinians; and to halt settlement expansion and hold settlers accountable for violence. The ministers called for advancing a two-state solution based on the 1967 borders with East Jerusalem as capital and urged sustained U.S. engagement to ensure all parties, including Israel, meet their obligations and commitments."
+    },
+    {
+      "id": "5108823",
+      "time": "2026-09-23 09:59:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴將在芬蘭和荷蘭建設其首批資料中心。"
+    },
+    {
+      "id": "5108822",
+      "time": "2026-09-23 09:58:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴將擴大在德國、法國和阿聯酋的資料中心佈局。"
+    },
+    {
+      "id": "5108821",
+      "time": "2026-09-23 09:58:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿里巴巴將在歐洲和中東建新的資料中心。"
+    },
+    {
+      "id": "mkt:01a0cbfc-4091-7118-8655-0974ee5edbc5",
+      "time": "2026-09-23 09:58:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index fell more than 1% in early trade."
+    },
+    {
+      "id": "5108820",
+      "time": "2026-09-23 09:58:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4393.370點；恒生指數現跌0.921%。"
+    },
+    {
+      "id": "mkt:01a0cbfb-1e91-7118-8655-03f5e4865e14",
+      "time": "2026-09-23 09:57:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "China A-share cultural media sector pulled back; Huamei Holdings hit its daily limit down, while Citic Publishing, China Publishing, Guomai Culture and Wanxin Media also fell."
+    },
+    {
+      "id": "5108819",
+      "time": "2026-09-23 09:56:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊走低，華媒控股跌停】文化傳媒板塊走低，華媒控股跌停，中信出版、中國出版、國脈文化、皖新傳媒跟跌。"
+    },
+    {
+      "id": "5108818",
+      "time": "2026-09-23 09:56:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4340美元/盎司，日內跌0.42%。"
+    },
     {
       "id": "5108817",
       "time": "2026-09-23 09:55:54",
