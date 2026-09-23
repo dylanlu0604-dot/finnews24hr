@@ -1,7 +1,83 @@
 {
   "date": "2026-09-23",
-  "count": 1792,
+  "count": 1800,
   "items": [
+    {
+      "id": "te:economy:586104",
+      "time": "2026-09-23 19:11:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Rate",
+        "Importance 2"
+      ],
+      "text": "US 30-Year Mortgage Rates Climb Above 7% — The average US 30-year fixed mortgage rate rose 15 basis points to 7.12% in the week ended September 18, its highest level since early May 2024, according to the Mortgage Bankers Association. The increase followed a rise in Treasury yields, with the 10-year note remaining near its highest level since 2007, as markets responded to the Federal Reserve’s 25-basis-point rate hike and signals that further increases could follow. Other Fed officials have also struck a hawkish tone, reinforcing expectations of additional tightening. Mortgage rates have risen by more than 100 basis points since the US and Israel began strikes against Iran in late February. Meanwhile, total mortgage applications fell 1.5%, marking a third consecutive weekly decline. Refinancing applications dropped 2.6%, while purchase applications decreased 0.8%."
+    },
+    {
+      "id": "5109776",
+      "time": "2026-09-23 19:11:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "衣索比亞總理顧問：提格雷武裝已對阿法爾州和阿姆哈拉州的政府軍陣地發起進攻，並控制了提格雷地區的多個機場。"
+    },
+    {
+      "id": "mkt:01a0cdf6-2b3d-7118-8662-51c0de3dc5a4",
+      "time": "2026-09-23 19:10:57",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fitch says the Netherlands' 2027 budget proposal indicates a slowdown in fiscal consolidation plans."
+    },
+    {
+      "id": "mkt:01a0cdf5-dfd7-7118-8662-4abc940e6d9a",
+      "time": "2026-09-23 19:10:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. oil executives lobby to block proposed diesel export ban】The Wall Street Journal reports U.S. oil executives are lobbying to block a diesel export ban being considered by President Trump. Industry officials had believed they had persuaded Washington to maintain exports, but Trump told the U.N. General Assembly he is weighing limits, surprising energy executives. Company executives and lobbyists have phoned administration officials and Republican lawmakers to oppose a ban, but Republican senators facing election pressure are urging action, making some form of export restriction appear increasingly likely. Oil companies warn even a temporary curtailment of diesel exports could cost U.S. refiners tens of billions of dollars in revenue. An energy adviser tied to refiners said the whole industry is mobilizing and that Republicans view a temporary export ban as the only way to help win several key Senate races."
+    },
+    {
+      "id": "5109775",
+      "time": "2026-09-23 19:10:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【RCEP正式啟動香港加入程式】9月21日，RCEP生效實施後第五次部長級會議在菲律賓馬尼拉舉行，正式啟動孟加拉國、智利、中國香港、斯里蘭卡四個申請經濟體的加入程式。香港特區政府發表宣告表示歡迎，特區政府商務及經濟發展局局長丘應樺表示：“有關決定是RCEP吸納新成員程序中關鍵的一步。香港將積極配合及參與‘加入工作組’的工作，包括與RCEP成員進行相關的加入談判，以期儘快完成所有所需的程式。”（21世紀經濟報道）"
+    },
+    {
+      "id": "5109774",
+      "time": "2026-09-23 19:09:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【神舟二十號、神舟二十一號航天員授稱頒獎儀式在京舉行】神舟二十號、神舟二十一號航天員授稱頒獎儀式23日在京舉行。中央軍委副主席張升民代表習近平主席和中央軍委，向受褒獎的6名航天員表示熱烈祝賀，向航天戰線全體同志致以誠摯問候。 授稱頒獎儀式在莊嚴的中華人民共和國國歌聲中開始。儀式上宣讀了中共中央、國務院、中央軍委作出的給6名航天員授予榮譽稱號、頒發功勳獎章的決定，張升民向受褒獎的神舟二十號航天員陳冬、陳中瑞、王傑，神舟二十一號航天員張陸、武飛、張洪章頒授獎章證書。儀式在嘹亮的中國人民解放軍軍歌聲中結束。軍委機關有關部門領導，軍事航天部隊官兵、航天戰線參研參試代表等參加儀式。（央視新聞）"
+    },
+    {
+      "id": "5109773",
+      "time": "2026-09-23 19:08:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "德國國防軍下達訂單後，Secunet安全網路公司（SECUNET SECURITY NETWORKS AG，股票程式碼<YSNG.DE>）股價漲幅擴大，當前上漲14.2%，有望創下2025年3月以來最大單日漲幅。"
+    },
+    {
+      "id": "5109772",
+      "time": "2026-09-23 19:08:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德邦科技：變更董秘並聘任張玉峰、許秀紅為高管】德邦科技公告稱，于傑因落實監管規則要求辭去董事會秘書職務，辭任報告自送達董事會之日起生效，辭職後仍擔任公司副總經理、財務總監，其直接持有公司股份92000股。公司於2026年9月23日召開第二屆董事會第二十七次會議，審議透過聘任張玉峰為董事會秘書、聘任許秀紅為副總經理，二人任期均自本次董事會審議透過之日起至第二屆董事會任期屆滿之日止。張玉峰未持有公司股份，許秀紅直接持有公司股份5720股，二者任職資格均符合相關法律法規規定。"
+    },
     {
       "id": "5109771",
       "time": "2026-09-23 19:07:26",
