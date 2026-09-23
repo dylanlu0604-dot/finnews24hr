@@ -1,7 +1,75 @@
 {
-  "updated": "2026-09-23 09:41:23",
-  "count": 13379,
+  "updated": "2026-09-23 09:45:14",
+  "count": 13368,
   "items": [
+    {
+      "id": "mkt:01a0cbef-48ee-7118-8654-d579f579e097",
+      "time": "2026-09-23 09:44:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese Prime Minister TAKAICHI said Japan will continue to work with President Zelenskyy to support Ukraine."
+    },
+    {
+      "id": "mkt:01a0cbef-159c-7118-8654-cd0f1fe5b14d",
+      "time": "2026-09-23 09:43:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Japan's prime minister Takaichi said Japan will stand with Ukraine, cooperate with the international community, and uphold sanctions against Russia."
+    },
+    {
+      "id": "mkt:01a0cbee-ac98-7118-8654-c09157ed9cb9",
+      "time": "2026-09-23 09:43:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister TAKAICHI met Ukrainian President ZELENSKIY in New York during the UN General Assembly high-level week; their first meeting since June in Evian."
+    },
+    {
+      "id": "mkt:01a0cbee-949b-7118-8654-bb5b80838b68",
+      "time": "2026-09-23 09:43:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share bioproducts sector spiked intraday; Yiqiao Shenzhou surged over 10%, with Haofan Bio, Baipusaisi, Zhifei Bio, Watson Bio and Nuoweizan also rising."
+    },
+    {
+      "id": "5108799",
+      "time": "2026-09-23 09:42:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股PCB概念股走強 建滔集團漲超6%】截至發稿，建滔集團(00148.HK)漲6.30%，建滔積層板(01888.HK)漲4.90%，勝宏科技(02476.HK)漲2.95%，大族數控(03200.HK)漲2.20%。"
+    },
+    {
+      "id": "5108798",
+      "time": "2026-09-23 09:42:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【房地產板塊震盪拉昇 中華企業直線漲停】房地產板塊震盪拉昇，中華企業直線漲停，我愛我家3連板，，世聯行、萬科A、特發服務、城投控股、大悅城跟漲。"
+    },
+    {
+      "id": "5108797",
+      "time": "2026-09-23 09:42:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家稅務總局最新發票資料顯示 今年前8個月全國統一大市場建設穩步推進省際貿易銷售額穩步增長】國家稅務總局發票資料顯示，前8個月，全國省際貿易穩步增長，重點區域外銷輻射作用明顯，交通物流和資訊服務穩步增長，先進製造業省際流動加快。——全國省際貿易穩步增長，重點區域外銷輻射作用顯著。前8個月，全國省際貿易銷售額同比增長1.3%，佔全部銷售額的比重為41.4%，較去年同期提高0.5個百分點。全國31個省份中，有20個省份省際銷售額增速同比正增長，增長面達64.5%。重點區域的區域外銷售額增速較快，前8個月，京津冀、長三角地區的區域外銷售額同比分別增長1.6%和1.8%，均高於全國省際貿易銷售額增速。——交通物流和資訊服務跨省穩步增長，推動跨區域交易成本持續降低。發票資料顯示，前8個月，交通運輸倉儲和郵政業省際銷售額同比增長8.2%，特別是多式聯運省際銷售額同比增長9.5%，新模式新業態運輸承載能力逐步增強。全國跨省資訊互通加快發展。資料顯示，前8個月，全國資訊服務省際銷售額同比增長41.1%。——跨省異地銷售穩步增長，先進製造業省際流動加快。一是跨省異地銷售穩步增長。發票資料顯示，前8個月，全國跨省異地銷售的涉稅經營主體戶數同比增長10.7%，佔發生銷售行為戶數的比重為56.5%，較上年同期提高1.9個百分點。二是先進製造業省際流動加快。發票資料顯示，前8個月，積體電路、鋰離子電池、智慧車載、電子專用材料等先進製造領域積極參與國內大迴圈，省際銷售額同比分別增長59.3%、59.7%、39%和74.3%。"
+    },
     {
       "id": "mkt:01a0cbeb-ad25-7118-8654-b59f8a7b0753",
       "time": "2026-09-23 09:40:15",
@@ -121846,196 +121914,6 @@
         "市場"
       ],
       "text": "【有機矽概念震盪反彈，新亞強漲停】有機矽概念震盪反彈，新亞強漲停，遠翔新材漲超10%，陽穀華泰、集泰股份、晨光新材、華盛鋰電、新亞製程等跟漲。"
-    },
-    {
-      "id": "mkt:01a0a7e3-8e72-7118-85a7-d86dff2eb333",
-      "time": "2026-09-16 09:45:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "X.N",
-        "Impact bullish"
-      ],
-      "text": "Nippon Steel said U.S. Steel’s Kosice unit will invest about €900 million."
-    },
-    {
-      "id": "mkt:01a0a7e3-7c65-7118-85a7-d2f02d91ac48",
-      "time": "2026-09-16 09:44:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share agriculture sector rebounded after volatile trading; Wanxiang Denong hit the daily limit, while Fujian Jinsen, Tianshan Bio, Qiule Seed and Shennong Seed also advanced."
-    },
-    {
-      "id": "5096315",
-      "time": "2026-09-16 09:44:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【軍工電子板塊短線拉昇，合眾思壯漲停】軍工電子板塊短線拉昇，合眾思壯漲停，六九一二、中海達、銀河電子、航天南湖、成電光信等紛紛走高。"
-    },
-    {
-      "id": "mkt:01a0a7e3-3af8-7118-85a7-cb790cfdf816",
-      "time": "2026-09-16 09:44:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "03750.HK",
-        "Impact bearish",
-        "01772.HK",
-        "09696.HK"
-      ],
-      "text": "Hong Kong-listed lithium battery stocks extended losses: CATL (03750.HK) fell more than 4%; Ganfeng Lithium (01772.HK) and TTANQT LITHIUM (09696.HK) declined over 2%; 03931.HK dropped over 1%."
-    },
-    {
-      "id": "5096314",
-      "time": "2026-09-16 09:44:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "豆粕連續主力合約日內漲2%，現報3442.00元。"
-    },
-    {
-      "id": "mkt:01a0a7e3-0d34-7118-85a7-c7bf220036ef",
-      "time": "2026-09-16 09:44:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Rep. Thomas Massie files impeachment articles against Defense Secretary Hegseth】Republican Rep. Thomas Massie on Sept. 15 filed articles of impeachment against Defense Secretary Hegseth, accusing him of abuse of power for ordering hostile military action against Iran without congressional approval. The measure is unlikely to pass, but Massie used a privileged motion that forces the House to consider the articles within two legislative days and prevents them being tabled or delayed."
-    },
-    {
-      "id": "5096313",
-      "time": "2026-09-16 09:44:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊區域性走強 閩東電力6連板】電力板塊區域性走強，截至發稿，閩東電力6連板，樂山電力漲停，華銀電力、西昌電力跟漲。"
-    },
-    {
-      "id": "5096312",
-      "time": "2026-09-16 09:44:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【農業板塊震盪回升 萬向德農封漲停】早盤農業板塊震盪回升，萬向德農漲停，福建金森、天山生物、秋樂種業、神農種業等跟漲。"
-    },
-    {
-      "id": "te:markets:584039",
-      "time": "2026-09-16 09:44:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Hong Kong Hit 8-week Low — HK50 decreased to 24570.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) lost 3.42%, and in the last 12 months, it decreased 8.65%."
-    },
-    {
-      "id": "mkt:01a0a7e2-8bde-7118-85a7-bee6238f98ec",
-      "time": "2026-09-16 09:43:56",
-      "tags": [
-        "MKT News",
-        "06082.HK",
-        "Impact bullish",
-        "00981.HK",
-        "06809.HK"
-      ],
-      "text": "Hong Kong-listed semiconductor stocks were active in early trade; Biren Technology (06082.HK) rose over 4%, while Tianshu Zhixin (09903.HK), Lanqi Technology (06809.HK) and SMIC (00981.HK) also advanced."
-    },
-    {
-      "id": "5096311",
-      "time": "2026-09-16 09:43:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電網裝置概念震盪拉昇 太陽電纜漲停】電網裝置概念震盪拉昇，太陽電纜漲停，明陽電氣、西典新能、紅相股份、和順電氣跟漲。"
-    },
-    {
-      "id": "te:markets:584037",
-      "time": "2026-09-16 09:43:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Firms Up Ahead of Fed Decision — The dollar index climbed to around 99.7 on Wednesday, nearing its highest level in a month as investors awaited the latest Federal Reserve policy decision, with the central bank widely expected to deliver its first rate hike in around three years. Markets are currently pricing in roughly a 92% probability of a 25-basis-point rate increase as policymakers seek to contain inflationary pressures. Traders will also look for signals on another potential hike later this year, with expectations building for a move in October or December. Meanwhile, some analysts cautioned that the dollar could weaken sharply if the Fed does not signal further rate increases or opts to keep rates unchanged. The dollar also moved higher alongside Treasury yields amid rising energy costs, intensifying inflation risks, and growing fiscal concerns. The US 10-year Treasury yield briefly topped 5% to the highest levels since 2007."
-    },
-    {
-      "id": "5096310",
-      "time": "2026-09-16 09:43:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【創材深造完成近億元A+輪融資】近日，創材深造（Deep Material）宣佈完成近億元A+輪融資。本輪融資由老股東原始碼資本和新股東金雨茂物聯合領投、億宸資本等跟投。本輪資金將主要用於核心智慧系統M-Loop的持續研發、自動化高通量實驗平臺M-Lab的複製擴產、高質量材料資料集M-Data的持續積累、分散式自驅實驗室網路OPL（One Person Lab）建設，以及頂尖複合型人才引進，將AI研發能力複製到更多材料領域。"
-    },
-    {
-      "id": "5096309",
-      "time": "2026-09-16 09:43:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市指數下跌1%，至5,947.18點。"
-    },
-    {
-      "id": "mkt:01a0a7e1-8b9a-7118-85a7-b749cba757b0",
-      "time": "2026-09-16 09:42:51",
-      "tags": [
-        "MKT News",
-        "01191.HK",
-        "Impact bullish",
-        "06166.HK",
-        "06869.HK"
-      ],
-      "text": "Most Hong Kong-listed optical-communications stocks rose. Haiguang Xinzhen (01191.HK) climbed more than 7%, Cambridge Technology (06166.HK) and Yangtze Optical Fibre & Cable (06869.HK) rose over 3%, and Hua Hong Hongli (01347.HK) gained more than 2%."
-    },
-    {
-      "id": "mkt:01a0a7e0-eb7a-7118-85a7-acfa56c89c13",
-      "time": "2026-09-16 09:42:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent"
-      ],
-      "text": "【Where to Park Small Balances: Cash-Management Yield Snapshot】Tencent Licaitong (demand + 7-day annualized) ranged 0.7590%–1.4490%. WeChat balance fund (7-day annualized) ranged 0.8620%–1.0170%. Alipay Yu’e Bao (7-day annualized) ranged 0.9000%–1.0610%."
-    },
-    {
-      "id": "mkt:01a0a7e0-6c58-7118-85a7-a256c1a34764",
-      "time": "2026-09-16 09:41:37",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share cultural and media sector showed selective strength; Inner Mongolia Xinhua hit its daily limit, while Fengyuzhu, China Publishing and City Media gained."
-    },
-    {
-      "id": "mkt:01a0a7e0-524b-7118-85a7-9a6c92ec215d",
-      "time": "2026-09-16 09:41:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "06821.HK",
-        "Impact bullish",
-        "03759.HK",
-        "03347.HK"
-      ],
-      "text": "Hong Kong-listed pharma outsourcing stocks rallied: 06821.HK up over 4%, 03759.HK up over 3%, 03347.HK and 02359.HK also higher."
     }
   ]
 }
