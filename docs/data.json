@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-23 13:25:29",
-  "count": 13285,
+  "updated": "2026-09-23 13:29:46",
+  "count": 13290,
   "items": [
+    {
+      "id": "5109044",
+      "time": "2026-09-23 13:29:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達3.04%，成分股中，錦華新材漲14.34%，同惠電子漲12.04%，戈碧迦漲10.83%，錦波生物漲6.82%。"
+    },
+    {
+      "id": "5109043",
+      "time": "2026-09-23 13:29:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克驚歎中國AI大模型 “單位算力產出效能幾乎是全球頂尖水平”】特斯拉CEO埃隆・馬斯克接受央視財經專訪。談及中國AI發展，他表示，中國的AI大模型，整體而言非常出色。單位算力產出的效能，幾乎是全球頂尖水平。“我認為中國解決算力問題的速度，會比大多數人預想得更快。粗略估計，大概兩到三年內，中國就能依靠光刻技術與晶片製造補齊算力缺口。”"
+    },
+    {
+      "id": "mkt:01a0ccbd-15c7-7118-8658-bb64b3af0bd0",
+      "time": "2026-09-23 13:28:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Beijing Stock Exchange 50 Index extended gains in the afternoon, rising more than 3% on the day."
+    },
+    {
+      "id": "mkt:01a0ccbb-eaf2-7118-8658-b41cc01280fe",
+      "time": "2026-09-23 13:27:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Fitch: oil market to return to large surplus in 2027】Fitch expects the oil market to return to a large surplus in 2027. The agency still sees prices falling next year but has raised its 2027 price forecast to $70/bbl from $65/bbl, citing a longer-than-expected Middle East conflict and a higher geopolitical risk premium. Analysts Brian Coulton and Alex Muscatelli say forecasts carry high uncertainty; a US–Iran agreement in Q1 2027 could shift price determination back toward supply-demand fundamentals. Upside risk: sustained geopolitical uncertainty could lift next year’s average to $85/bbl; downside risk: rapid supply restoration could push it to $55/bbl."
+    },
+    {
+      "id": "5109042",
+      "time": "2026-09-23 13:27:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：Kakao 反對 Kakao Mobility 的美國 ADR 上市架構。"
+    },
+    {
+      "id": "mkt:01a0ccb9-9ba2-7118-8658-ae515cb54922",
+      "time": "2026-09-23 13:25:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India, France and the UAE held trilateral talks in New York."
+    },
     {
       "id": "te:economy:585927",
       "time": "2026-09-23 13:25:01",
@@ -121232,14 +121289,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: XRP Rises by 1.06% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a 1.06% increase."
-    },
-    {
-      "id": "mkt:01a0a8b0-1f41-7118-85ac-278011eb9f74",
-      "time": "2026-09-16 13:28:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US attorney general says FBI found new information on 2024 shooter in attempt on President Trump】US Attorney General Todd Blanche said on the 15th the FBI has recently uncovered additional information about Thomas Matthew Crooks, the gunman in the 2024 attempt on President Trump, relating to his background and experience; Blanche provided no further details at a White House briefing. A UK source who reviewed the documents said the new material alleges Crooks used the name of the late GOP senator and former presidential candidate Bob Dole to receive parcels, purchased parts and tools from Amazon to modify a rifle, and that after Secret Service agents shot Crooks dead an anonymous party paid to have him cremated."
     }
   ]
 }
