@@ -1,7 +1,45 @@
 {
   "date": "2026-09-24",
-  "count": 229,
+  "count": 233,
   "items": [
+    {
+      "id": "mkt:01a0cfda-343a-7118-8670-df4c94c3a824",
+      "time": "2026-09-24 03:59:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin spokesman PESKOV said Russia welcomed an invitation for President Putin to attend the G20, but his attendance has not yet been decided."
+    },
+    {
+      "id": "5110548",
+      "time": "2026-09-24 03:59:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部裡海秘書處負責人表示，軍事衝突不得蔓延至裡海，裡海應當保持安全空間，供五個沿岸國家開展合作、維護和平以及實現可持續發展。"
+    },
+    {
+      "id": "mkt:01a0cfd7-d994-7118-8670-d2cc9941c7a8",
+      "time": "2026-09-24 03:57:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【GOP leader says Trump not entirely opposed to AI regulation, favors industry self-regulation】Senate GOP leader John Thune said former President Trump is not wholly opposed to AI safety regulation, preferring that tech firms set safety measures rather than direct government intervention. Thune said Trump’s strongest objections were aimed at the 'panic and noise' around AI, while acknowledging the technology poses real risks. Thune is pushing an AI safety bill that would require AI companies to reduce risks from frontier models and report major safety incidents; the bill, co-sponsored with Sen. Amy Klobuchar, is seeking additional Democratic backing. Anthropic CEO Dario Amodei has previously met with Thune to discuss AI safety."
+    },
+    {
+      "id": "te:markets:586239",
+      "time": "2026-09-24 03:56:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "JPMorgan Stock Price Hits 9-week Low — JPMorgan shares decreased to 337.22 USD, the lowest since July 2026. Over the past 4 weeks, J.P. Morgan Chase lost 5.31%, and in the last 12 months, it increased 7.68%."
+    },
     {
       "id": "mkt:01a0cfd6-855d-7118-8670-cce4d7c9c5eb",
       "time": "2026-09-24 03:55:37",

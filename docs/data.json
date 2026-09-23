@@ -1,7 +1,45 @@
 {
-  "updated": "2026-09-24 03:56:14",
+  "updated": "2026-09-24 03:59:59",
   "count": 12906,
   "items": [
+    {
+      "id": "mkt:01a0cfda-343a-7118-8670-df4c94c3a824",
+      "time": "2026-09-24 03:59:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin spokesman PESKOV said Russia welcomed an invitation for President Putin to attend the G20, but his attendance has not yet been decided."
+    },
+    {
+      "id": "5110548",
+      "time": "2026-09-24 03:59:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部裡海秘書處負責人表示，軍事衝突不得蔓延至裡海，裡海應當保持安全空間，供五個沿岸國家開展合作、維護和平以及實現可持續發展。"
+    },
+    {
+      "id": "mkt:01a0cfd7-d994-7118-8670-d2cc9941c7a8",
+      "time": "2026-09-24 03:57:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【GOP leader says Trump not entirely opposed to AI regulation, favors industry self-regulation】Senate GOP leader John Thune said former President Trump is not wholly opposed to AI safety regulation, preferring that tech firms set safety measures rather than direct government intervention. Thune said Trump’s strongest objections were aimed at the 'panic and noise' around AI, while acknowledging the technology poses real risks. Thune is pushing an AI safety bill that would require AI companies to reduce risks from frontier models and report major safety incidents; the bill, co-sponsored with Sen. Amy Klobuchar, is seeking additional Democratic backing. Anthropic CEO Dario Amodei has previously met with Thune to discuss AI safety."
+    },
+    {
+      "id": "te:markets:586239",
+      "time": "2026-09-24 03:56:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "JPMorgan Stock Price Hits 9-week Low — JPMorgan shares decreased to 337.22 USD, the lowest since July 2026. Over the past 4 weeks, J.P. Morgan Chase lost 5.31%, and in the last 12 months, it increased 7.68%."
+    },
     {
       "id": "mkt:01a0cfd6-855d-7118-8670-cce4d7c9c5eb",
       "time": "2026-09-24 03:55:37",
@@ -117240,55 +117278,6 @@
         "Important"
       ],
       "text": "United States | Net LongTerm TIC Flows (Jul) | actual -27900000000B | previous 172700000000B"
-    },
-    {
-      "id": "te:markets:584345",
-      "time": "2026-09-17 03:58:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Weakens After Fed Hike — The Canadian dollar weakened to near 1.40 per USD in mid-September, its lowest level in more than a month after the US Federal Reserve raised interest rates as expected. The Fed raised the target range for the federal funds rate by 25 bps to 3.75%-4%, reinforcing the US dollar’s advantage over the loonie. Updated Fed projections showed that most policymakers expect another hike before the end of 2026, widening the interest-rate differential between the US and Canada. The Bank of Canada kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected. However, it noted that inflation risks had increased, while new tariffs had made the growth outlook more uncertain. The BoC left the future path of monetary policy open, saying it would adjust policy as needed. Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated."
-    },
-    {
-      "id": "mkt:01a0abcc-a985-7118-85c8-e314b2c3e904",
-      "time": "2026-09-17 03:58:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "CIBC Capital Markets strategist Noah Buffam said the Fed's latest dot plot is skewed hawkish, as FOMC members expect the pace of return to the neutral rate to be slower than market expectations—supporting the dollar."
-    },
-    {
-      "id": "mkt:01a0abca-a439-7118-85c8-daa946c038f9",
-      "time": "2026-09-17 03:56:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Von der Leyen said the EU is studying ways to increase computing capacity."
-    },
-    {
-      "id": "mkt:01a0abca-a250-7118-85c8-d6992d7c6813",
-      "time": "2026-09-17 03:56:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【S&P 500 turns lower after Fed speaker's remarks】Following the Fed rate hike and updated rate outlook, the S&P 500 initially rose 0.4% at 14:07 ET; the 10-year U.S. Treasury yield was 4.95%, unchanged from immediately before the Fed decision and slightly below Tuesday's 4.995%. At 14:30 ET, when a Fed speaker began remarks, the S&P was up 0.3%. During the speech the index erased its gains; by 15:01 ET, at the end of the remarks, the S&P had turned down 0.4% and later sank as much as 1%. The 10-year yield, near 4.95% before 14:30 ET, briefly rose above 5% before retreating below 5% and ended the day roughly unchanged."
     }
   ]
 }
