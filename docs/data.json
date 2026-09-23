@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-24 06:21:27",
-  "count": 12860,
+  "updated": "2026-09-24 06:25:11",
+  "count": 12859,
   "items": [
+    {
+      "id": "5110602",
+      "time": "2026-09-24 06:24:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：首都發生爆炸後，已向事發城區派遣應急救援隊伍。"
+    },
+    {
+      "id": "mkt:01a0d05d-ce35-7118-8671-d88bb278298b",
+      "time": "2026-09-24 06:23:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said more than 80-90% of Iranian flights have been suspended."
+    },
     {
       "id": "5110601",
       "time": "2026-09-24 06:19:34",
@@ -116788,36 +116804,6 @@
         "WTI"
       ],
       "text": "Al Arabiya TV reports the Saudi crown prince and the French president discussed efforts to bolster regional security and safeguard freedom of navigation."
-    },
-    {
-      "id": "5098483",
-      "time": "2026-09-17 06:24:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本首相高市早苗的貿易大臣Ryosei Akazawa將留任。"
-    },
-    {
-      "id": "mkt:01a0ac51-4b2b-7118-85ca-91cdb34d213c",
-      "time": "2026-09-17 06:23:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya TV reports Saudi crown prince received a phone call from the French president."
-    },
-    {
-      "id": "mkt:01a0ac4f-b3dd-7118-85ca-8a8acd780eda",
-      "time": "2026-09-17 06:21:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "A majority of U.S. House members have voted to impose sanctions and tariffs on Russia; voting is ongoing."
     }
   ]
 }

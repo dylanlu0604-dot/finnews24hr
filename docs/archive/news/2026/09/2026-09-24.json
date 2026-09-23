@@ -1,7 +1,23 @@
 {
   "date": "2026-09-24",
-  "count": 323,
+  "count": 325,
   "items": [
+    {
+      "id": "5110602",
+      "time": "2026-09-24 06:24:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：首都發生爆炸後，已向事發城區派遣應急救援隊伍。"
+    },
+    {
+      "id": "mkt:01a0d05d-ce35-7118-8671-d88bb278298b",
+      "time": "2026-09-24 06:23:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said more than 80-90% of Iranian flights have been suspended."
+    },
     {
       "id": "5110601",
       "time": "2026-09-24 06:19:34",
