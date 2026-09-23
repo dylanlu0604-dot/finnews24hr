@@ -1,7 +1,62 @@
 {
   "date": "2026-09-24",
-  "count": 233,
+  "count": 238,
   "items": [
+    {
+      "id": "5110552",
+      "time": "2026-09-24 04:01:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "麥當勞股價下跌4.8%，創2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a0cfdb-b29e-7118-8670-e33ba715741e",
+      "time": "2026-09-24 04:01:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Meta Platforms",
+        "Amazon",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7",
+        "BABA.N",
+        "Impact bearish",
+        "BIDU.O",
+        "S&P500"
+      ],
+      "text": "【US stocks close lower; Alibaba falls over 4%】US equities closed lower on Wednesday: Dow -0.68%, S&P 500 -0.75%, Nasdaq -1.10%. SK Hynix (SKHY.O) -3.0%, Meta (META.O) +1.0%, Amazon (AMZN.O) -2.0%. Nasdaq Golden Dragon China Index -1.44%; Alibaba (BABA.N) -4.7%, Baidu (BIDU.O) down nearly 3%."
+    },
+    {
+      "id": "5110551",
+      "time": "2026-09-24 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.68%，標普500指數跌0.75%，納指跌1.14%。沛齊跌8.82%，億客行跌7.79%，愛彼迎跌7.50%，Texas Pacific Land Trust Sub Sha跌5.51%，繽客跌5.12%。“七姐妹”方面：Meta Platforms漲1.05%，微軟漲0.48%，特斯拉漲0.32%，蘋果跌0.86%，英偉達跌1.53%，亞馬遜跌2.22%，谷歌跌3.64%。"
+    },
+    {
+      "id": "5110550",
+      "time": "2026-09-24 04:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.45%】DCX跌29.60%，天演藥業跌8.98%，樂信跌5.87%，晶科能源跌5.39%，阿里巴巴跌4.75%。"
+    },
+    {
+      "id": "5110549",
+      "time": "2026-09-24 04:00:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：心理健康基準資料集（MENTALHEALTHBENCH）涵蓋了涉及成人、青少年、護理人員和臨床醫生的場景，適用於多個語言和地區."
+    },
     {
       "id": "mkt:01a0cfda-343a-7118-8670-df4c94c3a824",
       "time": "2026-09-24 03:59:38",
