@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-23 18:15:23",
-  "count": 13293,
+  "updated": "2026-09-23 18:19:10",
+  "count": 13288,
   "items": [
+    {
+      "id": "mkt:01a0cdc6-312b-7118-8660-e4b4b7aa97ad",
+      "time": "2026-09-23 18:18:32",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bearish"
+      ],
+      "text": "Wells Fargo cut its PT on Micron Technology (MU.O) to $1,400 from $1,525."
+    },
+    {
+      "id": "5109682",
+      "time": "2026-09-23 18:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鍾睒眯在農夫山泉H股持股比例升至64.37%】9月23日，據港交所權益披露，鍾睒眯在農夫山泉H股的持股比例於9月18日從64.36%升至64.37%。"
+    },
+    {
+      "id": "te:markets:586082",
+      "time": "2026-09-23 18:17:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Macedonia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Macedonia Hit 22-month Low — MBI 10 decreased to 8943.00 Index Points, the lowest since November 2024. Over the past 4 weeks, MBI 10 INDEX lost 3.08%, and in the last 12 months, it decreased 14.04%."
+    },
+    {
+      "id": "te:markets:586081",
+      "time": "2026-09-23 18:17:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Fluctuates After 5-Session Losing Streak — Crude oil fluctuated around $90 a barrel on Wednesday after five consecutive sessions of losses, as markets assessed efforts to restore oil flows disrupted by the conflict in the Middle East. Saudi Arabia is preparing to restart exports through its critical East-West pipeline in the coming days, potentially allowing the kingdom to bypass the contested Strait of Hormuz and increase outbound shipments. At the same time, US President Donald Trump said American officials had held a “very productive” meeting with Iranian envoys and indicated that further talks were planned, despite his tough rhetoric toward Tehran during a United Nations speech. Meanwhile, the API reported a 1.8-million-barrel increase in nationwide crude stockpiles, while gasoline and distillate inventories declined. Investors are now awaiting official US Energy Information Administration data later Wednesday for further indications of supply and demand conditions."
+    },
+    {
+      "id": "mkt:01a0cdc3-60d8-7118-8660-d83c3db07ba6",
+      "time": "2026-09-23 18:15:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump again raises sending aircraft carrier to Cuba, jokes about sending Rubio over Cuban roots】At the UN General Assembly, President Trump joked that on the way back from Iran the US could put Rubio aboard \"a very big, beautiful aircraft carrier\" and leave him in Cuba to \"handle the rest,\" noting Rubio's Cuban heritage. He had threatened in May to dispatch the USS Abraham Lincoln to waters near Cuba after any US military action against Iran; this time he made no operational announcement. Trump called Cuba a \"totally failed state\" whose political system would \"collapse,\" prompting the Cuban delegation to walk out, and said Rubio is involved in discussions with Cuba."
+    },
     {
       "id": "5109681",
       "time": "2026-09-23 18:14:39",
@@ -121155,88 +121204,6 @@
         "國際"
       ],
       "text": "【俄羅斯據悉考慮將柴油出口禁令延長至10月底】知情人士稱，隨著烏克蘭襲擊煉油廠導致供應收緊，俄羅斯正考慮將針對大部分柴油出口的禁令再延長一個月至10月底。知情人士並稱，是否延期尚未作出最終決定，有關方面還將討論延長禁令可能導致煉油廠庫存過剩的風險。由於相關討論尚未公開，該人士不願具名。此舉可能進一步擠壓已經出現價格上漲的全球柴油市場。莫斯科7月初首次禁止生產商出口柴油，原本是為滿足國內需求的短期措施，但隨著烏克蘭持續襲擊俄羅斯煉油設施，俄羅斯煉廠原油加工量降至逾20年來最低，禁令隨後被延長。烏克蘭希望透過打擊煉油廠引發俄羅斯國內不滿，並削弱俄羅斯生產和銷售石油產品的能力。"
-    },
-    {
-      "id": "5097302",
-      "time": "2026-09-16 18:18:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯創光電：新增逾期借款本金5.31億元 累計逾期14.39億元】聯創光電公告稱，公司及子公司新增金融機構逾期借款本金合計5.31億元，佔公司最近一期經審計淨資產比例11.90%。截至公告披露日，公司及子公司累計金融機構借款及票據逾期本金合計14.39億元，佔最近一期經審計淨資產比例32.26%，其中借款逾期本金12.74億元、票據逾期本金1.65億元。公司可能面臨支付逾期利息、融資能力下降、訴訟及資產凍結等風險，目前正籌措償債資金、與債權人協商償債方案。"
-    },
-    {
-      "id": "mkt:01a0a9b9-e859-7118-85b5-680c6009584c",
-      "time": "2026-09-16 18:18:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Natural Resources and China Meteorological Administration issue yellow geological-hazard meteorological risk warning at 18:00】At 18:00 the Ministry of Natural Resources and China Meteorological Administration issued a yellow meteorological risk warning for geological hazards. Forecast window: 20:00 Sep 16 to 20:00 Sep 17. Parts of western Hubei, southern Hainan, southeastern Chongqing and southern Tibet face elevated risk. Local governments and relevant agencies are urged to implement emergency plans. The public should monitor alerts and avoid high-risk terrain (gullies, slopes, cliffs)."
-    },
-    {
-      "id": "5097301",
-      "time": "2026-09-16 18:18:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【力諾藥包：股東會審議透過H股發行上市等相關議案】力諾藥包公告稱，公司2026年第四次臨時股東會審議透過發行境外上市股份（H股）並在香港聯交所主機板上市、發行上市方案、募集資金使用計劃、滾存利潤分配方案、授權董事會辦理相關事宜、H股上市後適用的公司章程及相關制度、增選獨立董事、修訂公司章程等多項議案，本次股東會未出現否決提案的情形。"
-    },
-    {
-      "id": "5097300",
-      "time": "2026-09-16 18:18:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄烏繼續互相發動無人機襲擊 烏一巴士遭襲5人死亡】俄羅斯國防部16日釋出通報說，15日晚至16日凌晨，俄軍對烏克蘭的軍事工業企業、港口以及為烏軍服務的輪船發動了無人機襲擊，其中包括基輔市一家生產烏軍特種車輛的企業，及位於敖德薩州切爾諾莫斯克港的一艘為烏軍運送軍用物資的乾貨船。此外，俄防空部隊在布良斯克州、卡盧加州、奧廖爾州、羅斯托夫州、阿斯特拉罕州等多地及黑海上空攔截並擊落了71架烏克蘭無人機。另據烏克蘭國際文傳電訊社16日報道，烏第聶伯羅彼得羅夫斯克州軍事管理局局長甘扎當天在其社交媒體稱，俄軍無人機擊中尼科波爾地區一輛客運巴士，造成5人死亡、至少7人受傷。（新華社）"
-    },
-    {
-      "id": "5097299",
-      "time": "2026-09-16 18:17:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【農業農村部印發《關於加強酸化耕地綜合治理的指導意見》】為進一步加強酸化耕地治理，提升耕地質量，農業農村部近日印發《關於加強酸化耕地綜合治理的指導意見》（以下簡稱《意見》）。 《意見》明確，深入實施藏糧於地、藏糧於技戰略，聚焦酸化耕地重點區域，堅持綜合治理、分割槽施策、科技支撐、多方參與，多措並舉治理酸化耕地，突出酸化耕地重點縣集中連片治理，形成可複製可推廣可持續的綜合模式，建立健全酸化耕地監測體系，持續提升耕地質量，為保障國家糧食安全提供有力支撐。 《意見》提出科學合理施肥、改良培肥土壤、改善耕作條件、加強重點縣治理、開展監測評價等主要任務。針對華南紅壤赤紅壤酸化區、長江中下游紅壤黃壤酸化區、雲貴高原紅壤黃壤酸化區、川渝紫色土酸化區、東北黑土及黃淮海棕壤黃褐土酸化區等不同區域，分別明確了酸化耕地治理技術路徑和具體措施等。同時，要求健全政策銜接、科技支撐、指導服務等工作落實體系和加強組織領導、完善技術規範等保障措施。（農業農村部）"
-    },
-    {
-      "id": "5097298",
-      "time": "2026-09-16 18:16:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部與中國氣象局9月16日18時聯合釋出黃色地質災害氣象風險預警】預計，9月16日20時至17日20時，湖北西部、海南南部、重慶東南部、西藏南部等地部分地區發生地質災害的氣象風險較高（黃色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。黃色預警區內人員，請隨時關注預警資訊變化，注意附近警示標誌，避免在溝谷、斜坡、陡崖（坎）等高風險地帶逗留。"
-    },
-    {
-      "id": "5097297",
-      "time": "2026-09-16 18:16:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "肯亞旅遊局（KTB）設定中東地區訪肯遊客目標為5萬人次。"
-    },
-    {
-      "id": "5097296",
-      "time": "2026-09-16 18:15:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "肯亞旅遊局與阿聯酋航空和卡達航空達成合作，目標是吸引更多遊客，為旅遊業帶來150億肯亞先令的營收增長。"
-    },
-    {
-      "id": "mkt:01a0a9b6-fe0d-7118-85b5-66b17f7dcc5e",
-      "time": "2026-09-16 18:15:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Norway's foreign minister said Oslo welcomes the EU's wish for Norway, the UK, Iceland and Canada to participate."
-    },
-    {
-      "id": "5097295",
-      "time": "2026-09-16 18:15:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "挪威外交大臣：我們對歐盟希望挪威、英國、冰島和加拿大參與其中表示歡迎。"
     }
   ]
 }

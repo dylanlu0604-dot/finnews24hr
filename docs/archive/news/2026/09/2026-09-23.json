@@ -1,7 +1,56 @@
 {
   "date": "2026-09-23",
-  "count": 1651,
+  "count": 1656,
   "items": [
+    {
+      "id": "mkt:01a0cdc6-312b-7118-8660-e4b4b7aa97ad",
+      "time": "2026-09-23 18:18:32",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bearish"
+      ],
+      "text": "Wells Fargo cut its PT on Micron Technology (MU.O) to $1,400 from $1,525."
+    },
+    {
+      "id": "5109682",
+      "time": "2026-09-23 18:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鍾睒眯在農夫山泉H股持股比例升至64.37%】9月23日，據港交所權益披露，鍾睒眯在農夫山泉H股的持股比例於9月18日從64.36%升至64.37%。"
+    },
+    {
+      "id": "te:markets:586082",
+      "time": "2026-09-23 18:17:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Macedonia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Macedonia Hit 22-month Low — MBI 10 decreased to 8943.00 Index Points, the lowest since November 2024. Over the past 4 weeks, MBI 10 INDEX lost 3.08%, and in the last 12 months, it decreased 14.04%."
+    },
+    {
+      "id": "te:markets:586081",
+      "time": "2026-09-23 18:17:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Fluctuates After 5-Session Losing Streak — Crude oil fluctuated around $90 a barrel on Wednesday after five consecutive sessions of losses, as markets assessed efforts to restore oil flows disrupted by the conflict in the Middle East. Saudi Arabia is preparing to restart exports through its critical East-West pipeline in the coming days, potentially allowing the kingdom to bypass the contested Strait of Hormuz and increase outbound shipments. At the same time, US President Donald Trump said American officials had held a “very productive” meeting with Iranian envoys and indicated that further talks were planned, despite his tough rhetoric toward Tehran during a United Nations speech. Meanwhile, the API reported a 1.8-million-barrel increase in nationwide crude stockpiles, while gasoline and distillate inventories declined. Investors are now awaiting official US Energy Information Administration data later Wednesday for further indications of supply and demand conditions."
+    },
+    {
+      "id": "mkt:01a0cdc3-60d8-7118-8660-d83c3db07ba6",
+      "time": "2026-09-23 18:15:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump again raises sending aircraft carrier to Cuba, jokes about sending Rubio over Cuban roots】At the UN General Assembly, President Trump joked that on the way back from Iran the US could put Rubio aboard \"a very big, beautiful aircraft carrier\" and leave him in Cuba to \"handle the rest,\" noting Rubio's Cuban heritage. He had threatened in May to dispatch the USS Abraham Lincoln to waters near Cuba after any US military action against Iran; this time he made no operational announcement. Trump called Cuba a \"totally failed state\" whose political system would \"collapse,\" prompting the Cuban delegation to walk out, and said Rubio is involved in discussions with Cuba."
+    },
     {
       "id": "5109681",
       "time": "2026-09-23 18:14:39",
