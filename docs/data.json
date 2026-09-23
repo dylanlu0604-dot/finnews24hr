@@ -1,7 +1,101 @@
 {
-  "updated": "2026-09-23 18:19:10",
-  "count": 13288,
+  "updated": "2026-09-23 18:22:55",
+  "count": 13283,
   "items": [
+    {
+      "id": "5109686",
+      "time": "2026-09-23 18:21:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港財政司司長陳茂波表示，港元與美元的聯絡匯率制度運作良好，並將繼續維持。"
+    },
+    {
+      "id": "mkt:01a0cdc8-ffd8-7118-8661-1554ce7c4a7b",
+      "time": "2026-09-23 18:21:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【CITIGROUP: U.S. midterms likely to have limited impact on S&P 500 overall】CITIGROUP expects the U.S. midterm elections to have limited impact on S&P 500 fundamentals overall, with effects concentrated at the sector level. Different congressional outcomes could alter policy paths for semiconductors, consumer stocks and energy. A change in control may influence future debates on corporate tax, AI regulation, tariffs and war authorization."
+    },
+    {
+      "id": "mkt:01a0cdc8-b7ae-7118-8661-0c08dc33ddf6",
+      "time": "2026-09-23 18:21:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Citigroup says a shift in control of the U.S. Congress could affect future policy debates on corporate tax, AI regulation, tariffs and war powers."
+    },
+    {
+      "id": "mkt:01a0cdc8-86ed-7118-8661-0305c4b4cf2f",
+      "time": "2026-09-23 18:21:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SOXX.O",
+        "Impact mixed",
+        "XLY.O",
+        "XLE.O"
+      ],
+      "text": "Citigroup says differing outcomes in the US congressional elections could, via policy changes, affect semiconductor, consumer and energy sectors."
+    },
+    {
+      "id": "5109685",
+      "time": "2026-09-23 18:21:04",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【瑞銀遭遇挫折 瑞士議員投票支援提高資本要求】瑞銀集團週三遭遇挫折，瑞士議員以明顯優勢投票支援一項方案，該方案可能最終迫使這家全球財富管理巨頭額外持有數十億美元的資本。瑞士議會上院以29票對16票透過政府監管改革法案的一項修正案，要求瑞銀以高質量股本資本覆蓋其海外子公司價值的最高90%。這只是對政府原先100%覆蓋方案的小幅調整，也是瑞士財政部長Karin Keller-Sutter取得的階段性勝利。過去兩年，她一直推動這家瑞士最大銀行提高資本水平，以確保其海外業務在危機期間能夠安全出售。瑞銀執行長安思傑和董事長Colm Kelleher此前反對90%的方案，而是支援另一項大幅增加可轉換債務使用來實現同一目標的替代方案。"
+    },
+    {
+      "id": "mkt:01a0cdc8-61c2-7118-8660-fa99e15b18ac",
+      "time": "2026-09-23 18:20:56",
+      "tags": [
+        "MKT News",
+        "S&P500"
+      ],
+      "text": "CITIGROUP: US midterm elections have limited overall impact on the S&P 500."
+    },
+    {
+      "id": "mkt:01a0cdc8-1278-7118-8660-f21ee4370cc2",
+      "time": "2026-09-23 18:20:36",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Mitsubishi UFJ: euro faces further depreciation risk】Derek Halpenny, head of FX research at Mitsubishi UFJ Financial Group, said in a note the near-term risk of further euro depreciation is rising. He cited weekend local-election losses for Chancellor Merz’s CDU, elevated energy prices and French political uncertainty as potential additional pressures. Technically the euro is weakening, breaking key levels. Halpenny added that while the move is currently driven more by US dollar strength, if adverse energy terms-of-trade shocks begin to dent corporate confidence the eurozone macro backdrop could deteriorate."
+    },
+    {
+      "id": "5109684",
+      "time": "2026-09-23 18:20:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta Platforms預計將在週三舉行的年度Connect大會上釋出新款智慧眼鏡，其中包括一款不配備攝像頭的產品。"
+    },
+    {
+      "id": "mkt:01a0cdc7-dd08-7118-8660-eaaf516a78b1",
+      "time": "2026-09-23 18:20:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CCPIT vice-chair Lin Honghong meets Gießen–Friedberg chamber president Matthias Leide】Sept. 23, Beijing — Lin Honghong, vice-chair of the China Council for the Promotion of International Trade, met with Matthias Leide, president of the Gießen–Friedberg Chamber of Commerce and Industry. They discussed strengthening institutional exchanges, supporting Sino-German corporate cooperation and deepening international industrial and supply‑chain collaboration."
+    },
+    {
+      "id": "5109683",
+      "time": "2026-09-23 18:19:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中基協：截至8月末私募基金規模為25.75萬億元】據中國證券投資基金業協會9月23日訊息，中國證券投資基金業協會公佈的8月私募基金管理人登記及產品備案月報顯示，2026年8月，在中國證券投資基金業協會資產管理業務綜合報送平臺辦理透過的機構12家，其中，私募證券投資基金管理人2家，私募股權、創業投資基金管理人10家。"
+    },
     {
       "id": "mkt:01a0cdc6-312b-7118-8660-e4b4b7aa97ad",
       "time": "2026-09-23 18:18:32",
@@ -121065,145 +121159,6 @@
         "Importance 1"
       ],
       "text": "Israel Q2 GDP Growth Revised Lower in 2nd Estimates — Israel’s economy grew at an annualized rate of 14.9% in the second quarter of 2026, rebounding sharply from an upwardly revised 1.7% contraction in the first quarter as the impact of the war with Iran eased. The reading was slightly below the first preliminary estimate and market expectations of 15.9%. The downward revision mainly reflected weaker growth in exports of goods and services, excluding startups and diamonds, which rose 16.6% compared with 25.2% in the first estimate, as well as fixed capital formation, which weakened to 4.1% from 6.3%. Still, growth remained elevated, supported by strong gains in private consumption (15% vs 14.7%) and public consumption (22.2% vs 19.5%). The annualized growth rate for the first half of 2026 was revised higher to 3.5% from 1.5%."
-    },
-    {
-      "id": "5097314",
-      "time": "2026-09-16 18:22:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【消費品巨頭利潔時將向美國業務投資至多6億美元】消費品巨頭利潔時9月16日宣佈一項總額最高可達6億美元、為期多年的美國業務轉型計劃，涉及兩個主要基地，旨在加速美國業務長期增長。投資內容包括將商業與研發職能整合並遷至新澤西州的一個園區，以及大幅擴大北卡羅來納州非處方藥生產基地的建設規模。"
-    },
-    {
-      "id": "5097313",
-      "time": "2026-09-16 18:22:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【先正達集團全球種子團隊調研荃銀高科】據“先正達集團中國”公眾號訊息，9月14日—15日，先正達集團CEO、先正達集團全球種子業務總裁覃衡德率領先正達集團有關部門、全球種子業務領導團隊一行調研荃銀高科。調研期間，覃衡德召開荃銀高科班子座談會，會議圍繞公司戰略聚焦、中種集團與荃銀高科深度協同、海外業務協同運營等核心議題深入探討交流，細化雙向協同發展路徑，為依託全球水稻技術創新中心開展常態化全球合作、穩步推進海外專案落地築牢共識。"
-    },
-    {
-      "id": "5097312",
-      "time": "2026-09-16 18:22:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海軍“吉祥方舟”號醫院船訪問茅利塔尼亞】當地時間9月15日上午，執行“和諧使命—2026”任務的海軍“吉祥方舟”號醫院船抵達茅利塔尼亞，開始進行為期7天的友好訪問。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0a9bc-edec-7118-85b5-82246d4881c2",
-      "time": "2026-09-16 18:22:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【Hong Kong unveils first five-year plan; HSBC says city can become regional gold clearing hub, scale RMB‑priced gold products】Hong Kong released its first five-year plan. HSBC co‑CEO for Asia and the Middle East Liao Yijian said measures supporting gold-market development are encouraging and that Hong Kong has the prerequisites to become a regional gold clearing hub and a gateway for global investors. He noted Asia is expected to account for more than 60% of global gold and silver bar demand by 2025 and said Hong Kong’s trading hours bridge Asia, Europe and the US, making it suitable for cross‑timezone spot, forwards and swaps. Liao welcomed government use of tokenization to develop gold products and said a mature hub should support storage, trading, clearing/settlement and enable gold lending, inventory financing and risk‑management products. As the world’s largest offshore RMB center, Hong Kong has a unique advantage to develop RMB‑denominated gold products; Liao urged building a scaled market that meets internationally recognized risk‑control standards."
-    },
-    {
-      "id": "5097311",
-      "time": "2026-09-16 18:21:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特航空：科威特航空與阿聯酋航空透過互惠程式碼共享協議擴大合作伙伴關係。"
-    },
-    {
-      "id": "5097310",
-      "time": "2026-09-16 18:21:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【李學軍獲批升任中郵人壽董事長，曾為該公司首位市場化選聘的總經理】9月16日，中郵人壽保險股份有限公司（下稱中郵人壽）官網更新的董事基本情況顯示，李學軍已於今年9月獲批出任該公司董事長。（澎湃）"
-    },
-    {
-      "id": "5097309",
-      "time": "2026-09-16 18:21:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守99美元/桶，日內跌1.74%。"
-    },
-    {
-      "id": "mkt:01a0a9bc-2865-7118-85b5-7835a2ee7933",
-      "time": "2026-09-16 18:21:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "TASNIM News reported a Houthi armed forces spokesman said a statement will be issued at 14:40 local time Wednesday (19:40 Beijing time) on conducting large-scale military operations inside Saudi Arabia."
-    },
-    {
-      "id": "5097308",
-      "time": "2026-09-16 18:21:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小崧股份：新增擔保涉訴案件 涉案金額3807.33萬元】小崧股份公告稱，公司因參股關聯公司國海建設保理合同糾紛被江西國控保理起訴，涉案金額3807.33萬元，案件已受理尚未開庭，公司作為被告需承擔連帶清償責任。國海建設與江西國控保理已於2026年9月11日簽署《還款協議》，且已支付第一期款項300萬元，江西國控保理將按約定申請撤銷針對公司的訴訟請求。截至公告披露日，公司及控股子公司逾期擔保累計金額為2.31億元，佔最近一期經審計淨資產比例30.41%，均系國海建設貸款逾期所致。目前尚無法判斷本次訴訟對公司利潤的影響。"
-    },
-    {
-      "id": "5097307",
-      "time": "2026-09-16 18:20:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錦龍股份：實控人方面持股比例降至23.67%】錦龍股份公告稱，資訊披露義務人朱鳳廉、楊志茂及一致行動人東莞市新世紀科教拓展有限公司所持公司股份因司法拍賣被動減持，合計持股比例從28.58%下降至23.67%，累計減少4400萬股。其中朱鳳廉1400萬股、楊志茂3000萬股被司法拍賣並完成過戶，新世紀公司持股不變。變動後新世紀公司仍為控股股東，楊志茂仍為實控人。目前三方所持股份多存在質押、凍結情形，未來12個月暫無明確增減持計劃，但剩餘股份存在被司法拍賣的可能。"
-    },
-    {
-      "id": "5097306",
-      "time": "2026-09-16 18:20:41",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【野村釋放交易收入增長放緩訊號】野村控股表示，本季度迄今其全球交易和投資銀行業務的收入“小幅”增長，這意味著較之前兩個季度的兩位數增長有所放緩。根據宣告，本季度截至9月14日，批發業務收入“略高於去年同期水平”。這家總部位於東京的公司表示，與股票產品相關的業務仍然“穩健”，外匯和新興市場業務已經復甦，但利率交易一直“充滿挑戰”。在截至6月30日的第一財季，野村的批發業務淨收入增長41%，與華爾街競爭對手一樣受益於AI和中東戰爭相關押注引發的股市波動。批發業務貢獻了該公司總收益的一半以上，並在上一財年幫助野村創下年度盈利最高紀錄。在輝煌的一年過去後，全球銀行已發出本季業績將出現分化的訊號。摩根大通預計交易收入將增長，美國銀行預計業績會“相對平穩”。野村還指出，批發業務收入的溫和增長“一定程度上反映了日元貶值的影響”。"
-    },
-    {
-      "id": "5097305",
-      "time": "2026-09-16 18:20:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "北交所：2026年9月16日，東莞市騰信精密製造股份有限公司（證券程式碼：920298）在北交所上市。"
-    },
-    {
-      "id": "5097304",
-      "time": "2026-09-16 18:19:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【香港釋出首個五年規劃 滙豐廖宜建：香港具備區域黃金清算樞紐條件 可發力人民幣計價黃金產品】香港釋出首個五年規劃，滙豐亞洲及中東地區聯席行政總裁廖宜建表示，規劃中支援黃金市場發展的相關措施令人鼓舞，香港具備條件成為區域黃金清算樞紐及引入全球投資者的重要門戶。廖宜建指出，2025年亞洲佔全球金銀條需求超過60%，而香港交易時段可有效銜接亞洲、歐洲及美國時區，是跨時區即期、遠期及掉期交易的理想平臺，尤其適合採用全球策略的機構客戶。在產品創新方面，廖宜建對政府運用代幣化技術推動黃金產品開發表示歡迎。他認為，成熟的黃金交易樞紐不僅能支援黃金的儲存、交易、清算及結算，更能帶動黃金貸款、庫存融資及風險管理工具等金融產品生態圈的發展。廖宜建強調，作為全球最大的離岸人民幣中心，香港在發展人民幣計價黃金產品方面具備獨特優勢，期待香港建立一個具備規模、並符合國際認可風險管控標準的黃金市場。"
-    },
-    {
-      "id": "mkt:01a0a9ba-83e2-7118-85b5-77dae1d0eb52",
-      "time": "2026-09-16 18:19:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Bahrain aluminium output at about 80% of pre-war level; exports via Jeddah and Sohar】Bahrain Aluminium CEO Ali Al Baqali told Reuters the company's aluminium output is about 80% of pre-war levels. Exports are being routed through Saudi Red Sea port Jeddah and Oman's Sohar. The firm, which says it is the world's largest single-site smelter, shut Lines 1–3 after supply-chain disruption linked to a Strait of Hormuz closure; the plant was also hit by an Iranian air strike in late March that Al Baqali described as minor. Damage has been repaired. The smelter is operating Lines 4–6, with annual capacity on those lines equivalent to about 1.3 mln tonnes versus roughly 1.6 mln tpy before the conflict."
-    },
-    {
-      "id": "5097303",
-      "time": "2026-09-16 18:19:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【俄羅斯據悉考慮將柴油出口禁令延長至10月底】知情人士稱，隨著烏克蘭襲擊煉油廠導致供應收緊，俄羅斯正考慮將針對大部分柴油出口的禁令再延長一個月至10月底。知情人士並稱，是否延期尚未作出最終決定，有關方面還將討論延長禁令可能導致煉油廠庫存過剩的風險。由於相關討論尚未公開，該人士不願具名。此舉可能進一步擠壓已經出現價格上漲的全球柴油市場。莫斯科7月初首次禁止生產商出口柴油，原本是為滿足國內需求的短期措施，但隨著烏克蘭持續襲擊俄羅斯煉油設施，俄羅斯煉廠原油加工量降至逾20年來最低，禁令隨後被延長。烏克蘭希望透過打擊煉油廠引發俄羅斯國內不滿，並削弱俄羅斯生產和銷售石油產品的能力。"
     }
   ]
 }

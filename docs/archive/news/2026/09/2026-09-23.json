@@ -1,7 +1,101 @@
 {
   "date": "2026-09-23",
-  "count": 1656,
+  "count": 1666,
   "items": [
+    {
+      "id": "5109686",
+      "time": "2026-09-23 18:21:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港財政司司長陳茂波表示，港元與美元的聯絡匯率制度運作良好，並將繼續維持。"
+    },
+    {
+      "id": "mkt:01a0cdc8-ffd8-7118-8661-1554ce7c4a7b",
+      "time": "2026-09-23 18:21:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【CITIGROUP: U.S. midterms likely to have limited impact on S&P 500 overall】CITIGROUP expects the U.S. midterm elections to have limited impact on S&P 500 fundamentals overall, with effects concentrated at the sector level. Different congressional outcomes could alter policy paths for semiconductors, consumer stocks and energy. A change in control may influence future debates on corporate tax, AI regulation, tariffs and war authorization."
+    },
+    {
+      "id": "mkt:01a0cdc8-b7ae-7118-8661-0c08dc33ddf6",
+      "time": "2026-09-23 18:21:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Citigroup says a shift in control of the U.S. Congress could affect future policy debates on corporate tax, AI regulation, tariffs and war powers."
+    },
+    {
+      "id": "mkt:01a0cdc8-86ed-7118-8661-0305c4b4cf2f",
+      "time": "2026-09-23 18:21:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SOXX.O",
+        "Impact mixed",
+        "XLY.O",
+        "XLE.O"
+      ],
+      "text": "Citigroup says differing outcomes in the US congressional elections could, via policy changes, affect semiconductor, consumer and energy sectors."
+    },
+    {
+      "id": "5109685",
+      "time": "2026-09-23 18:21:04",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【瑞銀遭遇挫折 瑞士議員投票支援提高資本要求】瑞銀集團週三遭遇挫折，瑞士議員以明顯優勢投票支援一項方案，該方案可能最終迫使這家全球財富管理巨頭額外持有數十億美元的資本。瑞士議會上院以29票對16票透過政府監管改革法案的一項修正案，要求瑞銀以高質量股本資本覆蓋其海外子公司價值的最高90%。這只是對政府原先100%覆蓋方案的小幅調整，也是瑞士財政部長Karin Keller-Sutter取得的階段性勝利。過去兩年，她一直推動這家瑞士最大銀行提高資本水平，以確保其海外業務在危機期間能夠安全出售。瑞銀執行長安思傑和董事長Colm Kelleher此前反對90%的方案，而是支援另一項大幅增加可轉換債務使用來實現同一目標的替代方案。"
+    },
+    {
+      "id": "mkt:01a0cdc8-61c2-7118-8660-fa99e15b18ac",
+      "time": "2026-09-23 18:20:56",
+      "tags": [
+        "MKT News",
+        "S&P500"
+      ],
+      "text": "CITIGROUP: US midterm elections have limited overall impact on the S&P 500."
+    },
+    {
+      "id": "mkt:01a0cdc8-1278-7118-8660-f21ee4370cc2",
+      "time": "2026-09-23 18:20:36",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Mitsubishi UFJ: euro faces further depreciation risk】Derek Halpenny, head of FX research at Mitsubishi UFJ Financial Group, said in a note the near-term risk of further euro depreciation is rising. He cited weekend local-election losses for Chancellor Merz’s CDU, elevated energy prices and French political uncertainty as potential additional pressures. Technically the euro is weakening, breaking key levels. Halpenny added that while the move is currently driven more by US dollar strength, if adverse energy terms-of-trade shocks begin to dent corporate confidence the eurozone macro backdrop could deteriorate."
+    },
+    {
+      "id": "5109684",
+      "time": "2026-09-23 18:20:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta Platforms預計將在週三舉行的年度Connect大會上釋出新款智慧眼鏡，其中包括一款不配備攝像頭的產品。"
+    },
+    {
+      "id": "mkt:01a0cdc7-dd08-7118-8660-eaaf516a78b1",
+      "time": "2026-09-23 18:20:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CCPIT vice-chair Lin Honghong meets Gießen–Friedberg chamber president Matthias Leide】Sept. 23, Beijing — Lin Honghong, vice-chair of the China Council for the Promotion of International Trade, met with Matthias Leide, president of the Gießen–Friedberg Chamber of Commerce and Industry. They discussed strengthening institutional exchanges, supporting Sino-German corporate cooperation and deepening international industrial and supply‑chain collaboration."
+    },
+    {
+      "id": "5109683",
+      "time": "2026-09-23 18:19:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中基協：截至8月末私募基金規模為25.75萬億元】據中國證券投資基金業協會9月23日訊息，中國證券投資基金業協會公佈的8月私募基金管理人登記及產品備案月報顯示，2026年8月，在中國證券投資基金業協會資產管理業務綜合報送平臺辦理透過的機構12家，其中，私募證券投資基金管理人2家，私募股權、創業投資基金管理人10家。"
+    },
     {
       "id": "mkt:01a0cdc6-312b-7118-8660-e4b4b7aa97ad",
       "time": "2026-09-23 18:18:32",
