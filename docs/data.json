@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-23 23:50:41",
-  "count": 13186,
+  "updated": "2026-09-23 23:54:43",
+  "count": 13185,
   "items": [
+    {
+      "id": "te:markets:586209",
+      "time": "2026-09-23 23:53:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Pull Back — European stocks closed lower on Wednesday amid pressure from a surge in sovereign yields. The Euro STOXX 50 fell 0.4% to 6,300 and the STOXX Europe 600 eased 0.3% to 640.7. Sovereign yields in the Eurozone soared to multi-decade highs as the combination of strong economic growth and higher energy prices consolidated the likelihood that the ECB will continue to raise interest rates this year. The Eurozone's PMI was stronger than expected for both services providers and manufacturers, while the survey confirmed that soaring energy prices in the period were passed on to output charges. Allianz and Deutsche Bank sank 3.8% and 2.6% and Bunds tumbled, while BNP Paribas fell over 1% to set the tone for credit-sensitive financial companies. German auto manufacturers also slipped, with Mercedes Benz and BMW dropping around 3% each."
+    },
+    {
+      "id": "5110411",
+      "time": "2026-09-23 23:52:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評瑞典：預計該國經濟框架維持不變，但能否迴歸預算平衡目標將取決於財政政策選擇。"
+    },
+    {
+      "id": "te:markets:586208",
+      "time": "2026-09-23 23:51:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "NextEra Energy Stock Price Hits 51-week Low — NextEra Energy shares decreased to 77.44 USD, the lowest since October 2025. Over the past 4 weeks, NextEra Energy lost 7.81%, and in the last 12 months, it increased 5.01%."
+    },
+    {
+      "id": "5110410",
+      "time": "2026-09-23 23:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "立陶宛國防部長：立陶宛、拉脫維亞、愛沙尼亞已請求歐盟提供無人機防禦方面的支援。"
+    },
+    {
+      "id": "5110409",
+      "time": "2026-09-23 23:50:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【華工科技：美國FCC草擬新款資料中心光模組進口相關規則的事專案前對公司尚無影響】有投資者問華工科技，近期媒體報道美國FCC在草擬針對新款資料中心光模組進口的相關規則。請問：如果後續海外政策對中國大陸生產的新款光模組進行約束，泰國基地產線生產的產品，是否可以全部承接現有北美客戶的新款訂單？公司針對相關政策風險做了哪些預案？華工科技在互動平臺表示，該事專案前對公司尚無影響，公司將持續密切跟蹤該事項的最新進展，提前做好相應預案，保障各項經營業務平穩開展。"
+    },
     {
       "id": "5110408",
       "time": "2026-09-23 23:49:45",
@@ -120209,56 +120258,6 @@
         "市場"
       ],
       "text": "華爾街多頭Yardeni下調標普500指數目標至7900點。"
-    },
-    {
-      "id": "mkt:01a0aaec-5654-7118-85c0-9e226474ec19",
-      "time": "2026-09-16 23:53:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "California Governor NEWSOM said U.S. Energy Secretary wright's \"complete failure\" to protect U.S. energy security should alarm every American. He noted the DOE oversees the U.S. nuclear weapons stockpile and said wright should resign if he cannot fulfill the basic duties of his office."
-    },
-    {
-      "id": "5097960",
-      "time": "2026-09-16 23:52:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI質疑蘋果與馬斯克之間的秘密協議】在OpenAI試圖獲取馬斯克反壟斷案件中的協議條款後，一名聯邦法官裁定X公司和SpaceXAI必須披露其與蘋果簽訂的協議。X近期已了結針對蘋果的訴訟，但仍在繼續起訴OpenAI。OpenAI主張，這份未公開的蘋果協議可能會影響X向其索要賠償金的訴求。相關協議須於週四提交至法院。"
-    },
-    {
-      "id": "5097959",
-      "time": "2026-09-16 23:51:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利總理梅洛尼：義大利將柴油減稅政策延長至10月5日。"
-    },
-    {
-      "id": "mkt:01a0aaea-cc48-7118-85c0-95e890da2956",
-      "time": "2026-09-16 23:51:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Italy will extend a diesel tax cut until Oct. 5, Prime Minister Meloni said."
-    },
-    {
-      "id": "5097958",
-      "time": "2026-09-16 23:51:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其國有機構將幾乎全面接管一家銀行，該銀行因涉嫌與伊朗存在關聯遭到美國製裁。"
-    },
-    {
-      "id": "5097957",
-      "time": "2026-09-16 23:50:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國經濟部長表示，設定燃料價格上限是錯誤的做法。"
     }
   ]
 }
