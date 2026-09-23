@@ -1,7 +1,128 @@
 {
   "date": "2026-09-23",
-  "count": 1198,
+  "count": 1210,
   "items": [
+    {
+      "id": "5109103",
+      "time": "2026-09-23 14:18:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯、土耳其和敘利亞外長在紐約會晤。"
+    },
+    {
+      "id": "5109102",
+      "time": "2026-09-23 14:18:24",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "美元指數DXY漲至近8周高點，報100.763。"
+    },
+    {
+      "id": "5109101",
+      "time": "2026-09-23 14:18:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特否認購買油輪並推升伊拉克原油運輸成本】沙烏地阿拉伯能源部門22日發表宣告，否認該國購買25艘油輪，稱伊拉克方面有關沙特購買油輪並因此推高伊拉克原油運輸成本的說法不實。據路透社報道，伊拉克一家媒體21日稱，伊拉克石油部長巴西姆·穆罕默德·胡達伊爾·阿巴迪在議會發言時說，沙特購買了25艘油輪，總價值約45億美元，此舉導致伊拉克原油運輸成本大幅上升，運費從每桶約26美元升至約37美元。沙特能源部22日在宣告中說，胡達伊爾關於沙特購買油輪的說法不實，原油運輸成本大幅上漲緣於地區局勢升級、霍爾木茲海峽航運受阻、航運風險和保險費用大幅增加等因素。（新華社）"
+    },
+    {
+      "id": "mkt:01a0cce9-54ae-7118-8659-584568e8ab89",
+      "time": "2026-09-23 14:17:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US dollar index (DXY) rose to an eight-week high of 100.763."
+    },
+    {
+      "id": "5109100",
+      "time": "2026-09-23 14:17:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海部分海域執行軍事任務】大連海事局釋出航行警告，9月24日7時至19時，渤海部分海域執行軍事任務，禁止駛入。"
+    },
+    {
+      "id": "5109099",
+      "time": "2026-09-23 14:17:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昨日股票ETF淨流入超30億元】資料顯示，截至9月22日，全市場1581只股票ETF（含跨境ETF）總規模為3.48萬億元。在股市波動行情中，股票ETF市場淨流入資金達30.01億元。從大型別來看，昨日，債券ETF與寬基ETF淨流入居前，分別達87.49億元和25.56億元；規模變化方面，債券ETF規模上升88.6億元。具體到指數維度，9月22日，AAA科創債指數淨流入居前，達67.42億元。從近5日角度觀測，近期資金流入科創半導體材料裝置指數超46億元，流入中證1000指數超41億元。"
+    },
+    {
+      "id": "mkt:01a0cce9-1428-7118-8659-55ffa7b05787",
+      "time": "2026-09-23 14:17:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Analysis: Oil decline eases yield pressure; European bonds likely to open firmer】With signs of potential US‑Iran diplomatic progress and Saudi Arabia restarting its east–west oil pipeline, oil prices have fallen, easing upward pressure on bond yields and likely supporting a firmer European bond market open. JEFFERIES economist Mohit Kumar said: \"Geopolitics remains the market focus. There is growing optimism that the US and Iran may be moving toward some form of agreement.\""
+    },
+    {
+      "id": "5109098",
+      "time": "2026-09-23 14:16:54",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗：上調渣打目標價至248.4港元，重申“中性/高風險”評級】花旗發表研報指，更新對美聯儲及英國央行的假設，現預期終端利率分別為4.75%及4.25%。該行相應上調渣打2026至2028年每股盈利預測0%至5%，較市場預期高0%至7%，目標價由232.4港元上調至248.4港元，重申“中性/高風險”評級。按9月22日收市價239.4港元計算，預期股價回報3.8%，預期股息收益率2.7%，預期總回報6.5%。"
+    },
+    {
+      "id": "5109097",
+      "time": "2026-09-23 14:15:43",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投竺勁：上海樓市已止跌回穩，深圳、北京、廣州大機率漸次跟上】9月22日，在2026中國房地產企業品牌價值測評成果釋出會暨第十六屆房地產品牌發展高峰論壇上，中信建投證券所長助理、週期組組長、房地產建築及REITs行業首席分析師竺勁指出，中國房地產目前呈“弱復甦、強分化”態勢。一線城市成交量率先止跌，北上廣深二手房價格均上漲，其中上海最穩健：新房與二手房同步去庫存，銷供比大於1，租金也止跌回升；上海還呈現“K型復甦”，低價段漲幅最大，並自4、5月起漲幅向高總價段蔓延。他判斷，上海已止跌回穩，深圳、北京、廣州大機率漸次跟上。"
+    },
+    {
+      "id": "5109096",
+      "time": "2026-09-23 14:15:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【誰會成為特朗普口中的“AI沙皇”？據爆料貝森特是熱門人選】在美國科技圈關於人工智慧監管話題爭論不休之際，美國總統特朗普上週六宣佈了一個重要決定：他將任命一名AI領域的“沙皇（事務主管）”，負責統籌人工智慧監管的相關事務。而據最新爆料，美國財政部長斯科特・貝森特，就是特朗普口中“AI沙皇”一職的熱門人選。不過，特朗普尚未最終敲定AI負責人人選，考慮到他向來青睞黑馬候選人，因此最終候選人也可能出乎眾人意料。該崗位的其他候選人還包括白宮科技政策辦公室主任邁克爾・克拉齊奧斯（Michael Kratsios），他長期為特朗普提供科技事務方面支援；人事管理辦公室主任斯科特・庫普爾（Scott Kupor），他此前就職於科技領域風投機構a16z，後進入政府任職。"
+    },
+    {
+      "id": "te:economy:585934",
+      "time": "2026-09-23 14:14:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Danish Business Morale Rises to 5-Month High — Denmark’s manufacturing confidence indicator rose to 100.5 in September 2026 from 97.9 in the previous month, moving above the long-term average of 100 for the first time since April. It was the highest reading in five months, as production expectations strengthened, climbing to 15 from 13 in August, while employment prospects moved into positive territory, rising to 5 from -9. On the broader front, the composite business confidence indicator, which covers manufacturing, construction, retail, and services, increased to 107.1 from 106.6. Confidence in the construction sector improved to 101.6 from 100.4 a month earlier, while retail confidence edged up by 0.4 to 111.8. In contrast, confidence in services declined to 107.3 from 108.8."
+    },
+    {
+      "id": "5109095",
+      "time": "2026-09-23 14:14:14",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗：上調滙豐控股目標價至172港元，重申“中性”評級】花旗發表研報指，更新美聯儲及英國央行假設，現預期終端利率分別為4.75%及4.25%。該行相應上調滙豐控股2026至2028年每股盈利預測0%至3%，較市場預期高0%至5%，並重申“中性”評級，目標價由165.5港元上調至172港元，預期股價回報8.0%，加上預期股息收益率4.8%，預期總回報12.8%。"
+    },
     {
       "id": "5109094",
       "time": "2026-09-23 14:13:40",
