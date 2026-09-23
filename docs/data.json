@@ -1,7 +1,93 @@
 {
-  "updated": "2026-09-23 14:49:56",
-  "count": 13293,
+  "updated": "2026-09-23 14:54:41",
+  "count": 13302,
   "items": [
+    {
+      "id": "5109163",
+      "time": "2026-09-23 14:54:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【行雲整合完成近8億元A輪融資】天眼查APP顯示：北京行雲積體電路有限公司近日完成近8億元人民幣A輪融資，投資方包括溥泉資本、芯禾資本、春華資本、基石創投，該筆融資於9月21日披露。融資歷程顯示，今年4月，該公司還披露過一筆超4億元人民幣Pre-A+輪融資，投資方包括春華資本、創維集團、佰維儲存等。"
+    },
+    {
+      "id": "5109161",
+      "time": "2026-09-23 14:53:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "衣索比亞航空公司：已臨時暫停飛往提格雷北部地區默克萊、阿克蘇姆與希雷的航班。"
+    },
+    {
+      "id": "5109160",
+      "time": "2026-09-23 14:53:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦外交部：缺乏有效國際回應，以色列將繼續破壞和平程序。"
+    },
+    {
+      "id": "mkt:01a0cd0a-0fc7-7118-8659-f8a88ff8726f",
+      "time": "2026-09-23 14:53:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jordan foreign minister says lack of international response allows Israel to keep undermining peace process】Jordan Deputy Prime Minister and Foreign Minister Ayman Safadi said unless the international community turns broad support for a two-state solution into effective measures that can deter Israel, Israel will continue policies and actions that undermine the peace process. Safadi said Israel has openly signalled it does not care about majority international backing for a two-state outcome because its settlement expansion, land seizures and other actions have gone unpunished and have not faced credible deterrent measures. He urged broader, stronger international action to address settlement expansion, land seizures and the worsening humanitarian crisis in Gaza."
+    },
+    {
+      "id": "5109158",
+      "time": "2026-09-23 14:52:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "舊金山市檢察官David Chiu 9月21日向州法院起訴特朗普媒體，要求叫停Truth Social每月收費最高10萬美元、讓客戶提前幾分之一秒獲得總統等賬號帖文的服務。他表示，這項服務可能讓富裕交易員操縱市場，同時將普通投資者排除在外。"
+    },
+    {
+      "id": "te:markets:585944",
+      "time": "2026-09-23 14:52:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Near Steady at Finish — The ASX 200 ended almost flat at 8,765 on Wednesday, as strength in consumer durables, industries, and non-energy minerals nearly offset declines in energy, tech, and healthcare. Local markets reversed early gains, with traders bracing for Australia's labor market data due Thursday and digesting September flash PMI showing slower services growth and weakness in factory output. Meanwhile, U.S. stock futures edged higher after Wall Street’s near-record close Tuesday, aided by easing oil prices on momentum toward ending the war in the Middle East. Attention turned to Thursday’s bilateral summit between President Trump and China’s Xi Jinping, with hopes for trade progress growing despite fragile ties. BHP jumped 1.4%, and Rio Tinto rose 0.8% on firmer copper as China stocked up ahead of holidays. Other top movers included Northern Star Resources (4.0%), Evolution Mining (2.2%), and Goodman Group (3.0%). Energy stocks dipped, however, weighed by Woodside Energy (-2.0%) and Santos (-1.8%)."
+    },
+    {
+      "id": "mkt:01a0cd08-f0e6-7118-8659-f10caec087a3",
+      "time": "2026-09-23 14:51:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【San Francisco sues to block Trump Media paid priority-access service】San Francisco city attorney David Chiu on Sept. 21 sued Trump Media in state court seeking to halt Truth Social’s paid “Truth API” service, which charges up to $100,000 per month for customers to receive presidential and other accounts’ posts fractions of a second early. The suit says the service could let wealthy traders manipulate markets and exclude ordinary investors; Chiu added Truth Social is selling early access while restricting public access for some news outlets. Trump Media announced Truth API on July 17; Trump has posted thousands of messages on the platform, sometimes dozens a day."
+    },
+    {
+      "id": "5109157",
+      "time": "2026-09-23 14:51:40",
+      "tags": [
+        "行業",
+        "觀點"
+      ],
+      "text": "【馬斯克預測星戰R2D2機器人將成真】9月23日，馬斯克接受央視財經專訪。談及機器人，他展望未來美好圖景：每個人都能擁有專屬機器人，就像《星球大戰》裡的C-3PO和R2D2，它們可以照料年邁的父母，看護孩童，還能擔任孩子的一對一私教，承擔各類工作。未來世界，一個人可以操控成百上千臺，甚至上萬臺實體機器人和數字智慧體。 （央視新聞）"
+    },
+    {
+      "id": "5109156",
+      "time": "2026-09-23 14:50:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【金價正與利率逐步脫鉤 黃金ETF持倉量升至七個月來最高水平】黃金通常在加息週期內表現疲軟，但盛寶銀行大宗商品策略主管Ole Hansen表示，這一傳統關係可能正迎來轉變。Hansen指出，儘管美債十年期收益率日前突破5%，達到20年來的最高水平，但黃金ETF的持倉量卻仍在上升，攀升至七個月來的最高水平。這表明市場對美國財政的擔憂正在改變債券收益率與金價之間的關係，兩者之間日益脫節。他補充稱，從歷史上看，收益率一直被視為判斷黃金走勢的關鍵指標，因為黃金以及白銀、鉑金等其他硬資產不支付利息或股息，因此更高的收益率會使債券相對於持有黃金更具吸引力。傳統上，當實際收益率上升時，黃金價格會面臨下行壓力。"
+    },
+    {
+      "id": "5109155",
+      "time": "2026-09-23 14:49:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏官員說烏方已暫停黑海糧食出口】烏克蘭農業政策與糧食部長塔拉斯·維索茨基22日表示，由於港口遭封鎖，烏克蘭已暫停透過黑海港口出口糧食。據俄新社報道，維索茨基在一段影片中說，“截至今天”，敖德薩地區“已沒有糧食出口，（相關出口）已經停止”。維索茨基說，烏方已從8月開始透過鐵路、內河、公路出口糧食，其中鐵路和內河運輸量佔絕大多數。他介紹，烏方每月需出口至少500萬噸糧食，每年至少6000萬噸，但上述三條途徑的運力僅為所需出口總量的一半。如果烏克蘭試圖進一步擴大陸路出口規模，將推高糧食運輸成本，使出口變得無利可圖。（新華社）"
+    },
     {
       "id": "mkt:01a0cd06-19e6-7118-8659-ed2c496bce3e",
       "time": "2026-09-23 14:48:44",
@@ -121189,17 +121275,6 @@
         "Importance 1"
       ],
       "text": "Sweden Household Spending Stood at 0.7% MoM — Household spending in Sweden rose 0.7% month-on-month in August 2026, unchanged from the previous month. Spending accelerated on transportation (2.1% vs 0.1% in July), housing and utilities (0.4% vs 0.1%), and recreation, sports, and culture (0.5% vs 0.1%), while it rebounded on clothing and footwear (1.1% vs -0.6%), furnishings, household equipment, and routine home maintenance (5.4% vs -1.3%), healthcare (0.4% vs -0.7%), information and communication (1.2% vs -1.5%), restaurants and accommodation (1.7% vs -0.2%), and personal care, social protection, and miscellaneous goods and services (2.4% vs -2.3%). In contrast, spending declined on food and non-alcoholic beverages (-0.1% vs 0.4%) and alcoholic beverages, tobacco, and drugs (-3.4% vs 1.0%). On a yearly basis, household consumption climbed 4.0% in August 2026, remaining at its fastest pace since May 2022 and matching the growth rate recorded in the previous two months."
-    },
-    {
-      "id": "te:markets:584124",
-      "time": "2026-09-16 14:52:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "UK Natgas Hovers Near Multi-Year Highs Amid Supply Concerns — UK natural gas prices hovered around 198 pence per therm on Wednesday, remaining close to 2022 highs as supply concerns persist ahead of the winter heating season. Military tensions have kept the Strait of Hormuz largely inaccessible to commercial shipping, keeping Qatari LNG export flows severely restricted and limiting supplies to Europe. European gas storage facilities are around 68% full, still below the seasonal average at a time when inventories would typically be nearing maximum capacity. Concerns over supply security have been reinforced by JERA Global CEO Yukio Kani, who warned that Europe’s low inventories leave the region vulnerable to prolonged disruptions and stronger competition for LNG cargoes. At the same time, scheduled maintenance at Norwegian gas facilities is temporarily reducing pipeline supplies to Europe, further tightening near-term supply."
     }
   ]
 }
