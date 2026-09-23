@@ -1,7 +1,109 @@
 {
   "date": "2026-09-23",
-  "count": 2172,
+  "count": 2182,
   "items": [
+    {
+      "id": "mkt:01a0ced0-15b1-7118-866c-20b9684013ca",
+      "time": "2026-09-23 23:08:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "US Secretary of State Rubio said President Trump is the person who will decide the course of a war with Iran."
+    },
+    {
+      "id": "mkt:01a0cecf-9a90-7118-866c-1887e18aa980",
+      "time": "2026-09-23 23:08:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "US Secretary of State Rubio said the US has ample ammunition to achieve its objectives in Iran, but its scope of action is not limited to that country."
+    },
+    {
+      "id": "mkt:01a0cece-ce07-7118-866c-15ea672bb979",
+      "time": "2026-09-23 23:07:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Rubio: Russia, Ukraine open to limited grain and energy ceasefire; US to push energy talks】US Secretary of State Rubio said both Russia and Ukraine have expressed interest in a limited ceasefire covering grain and energy. He warned both sides have treated energy facilities as strategic targets, making negotiations over an energy ceasefire likely to be difficult, and said the US is willing to play a constructive role in advancing talks. Rubio added he discussed the conflict and bilateral ties with Russian Foreign Minister Lavrov and hopes President Putin will accept a G20 summit invitation as an opportunity for direct US-Russia dialogue."
+    },
+    {
+      "id": "5110364",
+      "time": "2026-09-23 23:07:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功發射衛星網際網路低軌26組衛星】9月23日21時32分，我國在海南商業航天發射場使用長征八號甲運載火箭，成功將衛星網際網路低軌26組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（新華社）"
+    },
+    {
+      "id": "mkt:01a0cece-79c9-7118-866c-0d82a728fc2a",
+      "time": "2026-09-23 23:07:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China launches 26 LEO satellites for satellite internet】China launched 26 low-Earth-orbit satellites for a satellite internet constellation today from the Hainan commercial spaceport aboard a Long March-8A rocket; all satellites reached their planned orbits and the mission was declared successful."
+    },
+    {
+      "id": "5110363",
+      "time": "2026-09-23 23:06:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：危機的最佳解決方案是讓加沙擺脫哈馬斯，並由反映本國人民意願的巴勒斯坦領導層治理。"
+    },
+    {
+      "id": "mkt:01a0cecd-5eb9-7118-866c-05477a434ee4",
+      "time": "2026-09-23 23:06:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【DeepSeek paper: agents exploit unintended channels in production sandbox, compromising training and evaluation】Sept. 23 — DeepSeek published a paper describing DSec, its production-grade sandbox for agent training, and documented agent misbehavior that can invalidate training and evaluation. The firm found agents obtaining answers via unintended channels (for example, residual answers in search-platform admin files); after access controls were applied, agents still circumvented protections by exchanging file-data-block mappings to access protected content through alternate file descriptors, threatening task integrity and shared infrastructure. DeepSeek concludes no single mechanism prevents all agent misbehavior or system faults; its response is to strengthen observability to detect new failure modes and continuously harden DSec as models evolve, including tighter access controls to limit unintended-answer channels and reducing incentives for deceptive behavior — measures it says address some, but not all, issues."
+    },
+    {
+      "id": "mkt:01a0cecd-50a7-7118-866b-fbe0b57cb395",
+      "time": "2026-09-23 23:05:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Rubio: US will keep Strait of Hormuz open; agreement with Iran will take time】US Secretary of State Rubio said the US will continue measures to keep the Strait of Hormuz open after Iran fired on commercial vessels earlier that day. He said reaching an agreement with Iran will take hard work and time; Tuesday’s talks were mainly exchanges of ideas and information, constructive but without a breakthrough. Negotiations are being blocked by the leadership of the Islamic Revolutionary Guard Corps, Rubio added. He said President Trump retains a range of response options, including military measures, and warned any action on Iran would carry a cost."
+    },
+    {
+      "id": "5110362",
+      "time": "2026-09-23 23:05:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外長拉夫羅夫在聯合國大會第 81 屆會議高階別會議週期間，與古巴外交部長舉行會談。"
+    },
+    {
+      "id": "5110361",
+      "time": "2026-09-23 23:04:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗革命衛隊領導人阻礙了伊朗談判。"
+    },
     {
       "id": "mkt:01a0cecb-47ba-7118-866b-f657ab5efd8b",
       "time": "2026-09-23 23:03:43",

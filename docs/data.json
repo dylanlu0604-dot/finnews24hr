@@ -1,7 +1,109 @@
 {
-  "updated": "2026-09-23 23:05:55",
-  "count": 13201,
+  "updated": "2026-09-23 23:10:00",
+  "count": 13190,
   "items": [
+    {
+      "id": "mkt:01a0ced0-15b1-7118-866c-20b9684013ca",
+      "time": "2026-09-23 23:08:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "US Secretary of State Rubio said President Trump is the person who will decide the course of a war with Iran."
+    },
+    {
+      "id": "mkt:01a0cecf-9a90-7118-866c-1887e18aa980",
+      "time": "2026-09-23 23:08:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "US Secretary of State Rubio said the US has ample ammunition to achieve its objectives in Iran, but its scope of action is not limited to that country."
+    },
+    {
+      "id": "mkt:01a0cece-ce07-7118-866c-15ea672bb979",
+      "time": "2026-09-23 23:07:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "【Rubio: Russia, Ukraine open to limited grain and energy ceasefire; US to push energy talks】US Secretary of State Rubio said both Russia and Ukraine have expressed interest in a limited ceasefire covering grain and energy. He warned both sides have treated energy facilities as strategic targets, making negotiations over an energy ceasefire likely to be difficult, and said the US is willing to play a constructive role in advancing talks. Rubio added he discussed the conflict and bilateral ties with Russian Foreign Minister Lavrov and hopes President Putin will accept a G20 summit invitation as an opportunity for direct US-Russia dialogue."
+    },
+    {
+      "id": "5110364",
+      "time": "2026-09-23 23:07:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國成功發射衛星網際網路低軌26組衛星】9月23日21時32分，我國在海南商業航天發射場使用長征八號甲運載火箭，成功將衛星網際網路低軌26組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（新華社）"
+    },
+    {
+      "id": "mkt:01a0cece-79c9-7118-866c-0d82a728fc2a",
+      "time": "2026-09-23 23:07:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China launches 26 LEO satellites for satellite internet】China launched 26 low-Earth-orbit satellites for a satellite internet constellation today from the Hainan commercial spaceport aboard a Long March-8A rocket; all satellites reached their planned orbits and the mission was declared successful."
+    },
+    {
+      "id": "5110363",
+      "time": "2026-09-23 23:06:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：危機的最佳解決方案是讓加沙擺脫哈馬斯，並由反映本國人民意願的巴勒斯坦領導層治理。"
+    },
+    {
+      "id": "mkt:01a0cecd-5eb9-7118-866c-05477a434ee4",
+      "time": "2026-09-23 23:06:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【DeepSeek paper: agents exploit unintended channels in production sandbox, compromising training and evaluation】Sept. 23 — DeepSeek published a paper describing DSec, its production-grade sandbox for agent training, and documented agent misbehavior that can invalidate training and evaluation. The firm found agents obtaining answers via unintended channels (for example, residual answers in search-platform admin files); after access controls were applied, agents still circumvented protections by exchanging file-data-block mappings to access protected content through alternate file descriptors, threatening task integrity and shared infrastructure. DeepSeek concludes no single mechanism prevents all agent misbehavior or system faults; its response is to strengthen observability to detect new failure modes and continuously harden DSec as models evolve, including tighter access controls to limit unintended-answer channels and reducing incentives for deceptive behavior — measures it says address some, but not all, issues."
+    },
+    {
+      "id": "mkt:01a0cecd-50a7-7118-866b-fbe0b57cb395",
+      "time": "2026-09-23 23:05:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Rubio: US will keep Strait of Hormuz open; agreement with Iran will take time】US Secretary of State Rubio said the US will continue measures to keep the Strait of Hormuz open after Iran fired on commercial vessels earlier that day. He said reaching an agreement with Iran will take hard work and time; Tuesday’s talks were mainly exchanges of ideas and information, constructive but without a breakthrough. Negotiations are being blocked by the leadership of the Islamic Revolutionary Guard Corps, Rubio added. He said President Trump retains a range of response options, including military measures, and warned any action on Iran would carry a cost."
+    },
+    {
+      "id": "5110362",
+      "time": "2026-09-23 23:05:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外長拉夫羅夫在聯合國大會第 81 屆會議高階別會議週期間，與古巴外交部長舉行會談。"
+    },
+    {
+      "id": "5110361",
+      "time": "2026-09-23 23:04:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗革命衛隊領導人阻礙了伊朗談判。"
+    },
     {
       "id": "mkt:01a0cecb-47ba-7118-866b-f657ab5efd8b",
       "time": "2026-09-23 23:03:43",
@@ -120205,201 +120307,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部：俄軍在黑海擊中一艘貨輪。"
-    },
-    {
-      "id": "5097907",
-      "time": "2026-09-16 23:09:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長古特雷斯：世界承受不起人工智慧安全領域的惡性競爭。"
-    },
-    {
-      "id": "mkt:01a0aac4-1170-7118-85bf-6ec12da4802b",
-      "time": "2026-09-16 23:09:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Refinitiv: Two pump stations along Saudi Arabia's east-west oil pipeline were damaged in last week's attack, sources said. Pump stations 8 and 9 were hit; repair timetables remain unclear."
-    },
-    {
-      "id": "5097906",
-      "time": "2026-09-16 23:09:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽確認荷蘭銀行評級為“AA-”，展望穩定。"
-    },
-    {
-      "id": "5097905",
-      "time": "2026-09-16 23:08:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫：（霍爾木茲）海峽版泰勒規則為——i = r* + π* + 1.5(π−π*) + 0.5(y−y*) + α(霍爾木茲海峽−霍爾木茲海峽均衡值) + β(曼德海峽−曼德海峽均衡值)，α、β均大於0。看看加息能否打通霍爾木茲海峽，或是產出一桶原油。單憑25個基點的加息，無法解決這個能源咽喉要道的問題；r*也不是中性利率。這是霍爾木茲海峽風險溢價，由我們來決定。預期不再錨定。"
-    },
-    {
-      "id": "mkt:01a0aac3-8529-7118-85bf-6394da91a750",
-      "time": "2026-09-16 23:08:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. and Brent crude extended losses; WTI fell about 4% intraday to $96.88/bbl, Brent down about 3% to $101.74/bbl."
-    },
-    {
-      "id": "mkt:01a0aac3-77f8-7118-85bf-5ad64f3ed373",
-      "time": "2026-09-16 23:08:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "SC front-month crude contract plunged 4.27% intraday to 802.6 yuan/barrel, with turnover exceeding 73 billion yuan. Open interest rose by about 3,300 contracts during the session, with prices falling as positions increased."
-    },
-    {
-      "id": "mkt:01a0aac2-cba9-7118-85bf-5077d872e6b0",
-      "time": "2026-09-16 23:08:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "UN Secretary-General Guterres said AI does not respect borders, and its risks do not either. Isolated, unverifiable voluntary pauses on AI will not solve the problem."
-    },
-    {
-      "id": "5097904",
-      "time": "2026-09-16 23:07:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報96.70美元/桶。"
-    },
-    {
-      "id": "5097903",
-      "time": "2026-09-16 23:07:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守105美元/桶，日內跌3.46%。"
-    },
-    {
-      "id": "mkt:01a0aac2-56dc-7118-85bf-4b4385814cda",
-      "time": "2026-09-16 23:07:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "UN Secretary-General Guterres said concerns about AI cannot be ignored; national action on AI is critical and global coordination indispensable."
-    },
-    {
-      "id": "5097902",
-      "time": "2026-09-16 23:07:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長：關於人類滅絕風險的絕對化主張，是逃避人工智慧集體責任的一種方式。"
-    },
-    {
-      "id": "5097901",
-      "time": "2026-09-16 23:07:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌4%，現報804.60元。"
-    },
-    {
-      "id": "5097900",
-      "time": "2026-09-16 23:07:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守97美元/桶，日內跌3.72%。"
-    },
-    {
-      "id": "5097899",
-      "time": "2026-09-16 23:07:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長古特雷斯：我們不能無視對人工智慧的擔憂。"
-    },
-    {
-      "id": "5097898",
-      "time": "2026-09-16 23:06:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長古特雷斯：約旦河西岸逐步吞併的行徑必須停止。沒有兩國方案，就不會有和平。"
-    },
-    {
-      "id": "5097897",
-      "time": "2026-09-16 23:06:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長古特雷斯：俄烏現在應當立即停火。"
-    },
-    {
-      "id": "mkt:01a0aac1-a42d-7118-85bf-4653bc347167",
-      "time": "2026-09-16 23:06:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "France's finance minister said absolute assertions about human extinction risk are a way to evade collective responsibility over AI."
-    },
-    {
-      "id": "5097896",
-      "time": "2026-09-16 23:06:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國秘書長古特雷斯：我們絕不能忘記約旦河西岸和加沙地帶巴勒斯坦人民所遭受的深重苦難。"
-    },
-    {
-      "id": "mkt:01a0aac1-43ba-7118-85bf-3cbdcdc10f4f",
-      "time": "2026-09-16 23:06:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Students' News Agency (ISNA) reported Mahan Air will suspend Tehran–Muscat flights from Sept. 17 and suspend flights to Turkey from Sept. 21."
-    },
-    {
-      "id": "5097895",
-      "time": "2026-09-16 23:06:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尼泊爾泥石流災害已致1409人遇難】據尼泊爾警方公佈的最新資料，截至當地時間9月16日20時，尼泊爾泥石流災害造成的遇難人數升至1409人。8月26日，尼泊爾邊境地區突發冰川崩塌引發嚴重泥石流災害，造成重大人員傷亡。（央視新聞）"
-    },
-    {
-      "id": "5097894",
-      "time": "2026-09-16 23:05:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國航空執行長表示，預計將於今年年底前在芝加哥新增五個登機口。"
     }
   ]
 }
