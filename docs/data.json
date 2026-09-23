@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-24 03:21:25",
-  "count": 12914,
+  "updated": "2026-09-24 03:25:12",
+  "count": 12915,
   "items": [
+    {
+      "id": "5110527",
+      "time": "2026-09-24 03:24:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫迪：存在人工智慧模型發展超出人類管控的風險。"
+    },
+    {
+      "id": "5110526",
+      "time": "2026-09-24 03:24:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫迪：如果管理不善，確實認為人工智慧可能會對全人類構成生存風險。"
+    },
+    {
+      "id": "5110525",
+      "time": "2026-09-24 03:24:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫迪：認為存在不法分子利用人工智慧製造生物武器的風險。"
+    },
+    {
+      "id": "5110524",
+      "time": "2026-09-24 03:23:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫迪：人工智慧可能對全人類構成風險。"
+    },
+    {
+      "id": "5110523",
+      "time": "2026-09-24 03:23:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫迪：人工智慧的快速發展推動了健康科學領域的進步。"
+    },
+    {
+      "id": "5110522",
+      "time": "2026-09-24 03:22:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長達里奧·阿莫迪在聯合國安理會就人工智慧議題發言。"
+    },
     {
       "id": "mkt:01a0cfb5-85de-7118-8670-66668d019681",
       "time": "2026-09-24 03:19:34",
@@ -117386,64 +117434,6 @@
         "國際"
       ],
       "text": "【2年期美債收益率觸及兩年來最高 交易員押注美聯儲進一步加息】在美聯儲自2023年以來首次加息，並預計將採取進一步行動遏制通脹後，短期國債國債收益率應聲走高。2年期美債收益率一度升至4.73%，為2024年以來最高，比會議前水平高出逾10個基點。長期美債漲幅相對落後，10年期收益率維持跌勢，報4.97%。此次加息本身已被市場普遍預期，投資者的關注焦點主要集中在季度經濟預測，後者顯示更多決策者支援進一步收緊政策。交易員加大對今年美聯儲再次加息的押注，並幾乎完全消化了到2027年年中前累計加息三次的預期。Aviva Investors利率主管Ed Hutchings表示：“進一步加息顯然應該擺在美聯儲的議程上。就美聯儲維持物價穩定這一使命而言，通脹前景仍然是一個重大關切所在。”"
-    },
-    {
-      "id": "mkt:01a0abac-4076-7118-85c8-21131b4e0352",
-      "time": "2026-09-17 03:23:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Kevin Warsh: I will not provide forward guidance】Kevin Warsh said he will not disclose details of future Federal Open Market Committee (FOMC) rate decisions or provide forward guidance. He called today’s rate decision careful, serious and responsible, and said the Fed had been preparing and deliberating for about 110–120 days. Warsh said the decision was based on the Fed’s assessment of current conditions, employment trends and economic strength, not driven by market forces. He added that markets sometimes try to anticipate policy and that he watches market prices for information, but today’s decision was made independently."
-    },
-    {
-      "id": "mkt:01a0abab-fad5-7118-85c8-1d044e6e15b2",
-      "time": "2026-09-17 03:22:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "The US International Development Finance Corporation (DFC) approved an €85 mln loan to Ukrainian energy firm DTEK to expand battery storage capacity in central Ukraine. The transaction is DFC's largest direct debt financing to a Ukrainian company since the 2022 Russia-Ukraine conflict."
-    },
-    {
-      "id": "5098344",
-      "time": "2026-09-17 03:22:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元指數上漲 0.61%，報 100.28，有望創下 6 月 17 日以來最大單日漲幅。"
-    },
-    {
-      "id": "mkt:01a0abab-3131-7118-85c8-151d924fa87d",
-      "time": "2026-09-17 03:21:58",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "【Wosh: Fed can curb second- and third-round effects of price shocks】Wosh said the Fed cannot influence individual commodity prices such as oil or groceries, but can and will use policy tools to prevent relative price moves from spreading into second- and third‑round inflationary effects. He made the remarks as U.S. diesel prices hit record highs amid the Iran war."
-    },
-    {
-      "id": "mkt:01a0abaa-d944-7118-85c8-09870c0b85f9",
-      "time": "2026-09-17 03:21:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "JP Morgan (JPM.N) said it will raise its prime rate by 25 bps to 7.00%, effective Thursday, Sept. 17 local time."
     }
   ]
 }
