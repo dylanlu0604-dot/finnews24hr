@@ -1,7 +1,42 @@
 {
-  "updated": "2026-09-24 06:40:25",
-  "count": 12837,
+  "updated": "2026-09-24 06:44:14",
+  "count": 12840,
   "items": [
+    {
+      "id": "mkt:01a0d06f-bb2f-7118-8672-237e268c3e06",
+      "time": "2026-09-24 06:42:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's presidential office said President Lee Jae-myung discussed naval shipbuilding with U.S. President Trump."
+    },
+    {
+      "id": "5110609",
+      "time": "2026-09-24 06:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統辦公室稱，總統李在明與美國總統特朗普討論了軍艦建造事宜。"
+    },
+    {
+      "id": "mkt:01a0d06e-014d-7118-8672-196eb7088adc",
+      "time": "2026-09-24 06:41:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bessent: Uncertain how Iran's UN delegates will return home】U.S. Treasury Secretary Bessent, referring to Iranian statements, said Iran’s international flights may have been shut by more than 80–90% and he is unsure how Iran’s representatives at the United Nations will return home."
+    },
+    {
+      "id": "te:markets:586249",
+      "time": "2026-09-24 06:40:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Gains by 2.15% — Top commodity gainers are Cocoa (2.15%), Rice (1.87%) and Barley (1.56%). Biggest losers are Corn (-1.44%) and Wheat (-1.22%)."
+    },
     {
       "id": "mkt:01a0d06b-00ce-7118-8672-11d8718e0930",
       "time": "2026-09-24 06:37:48",
@@ -116591,14 +116626,6 @@
         "Brent"
       ],
       "text": "【U.S. House passes Russia sanctions bill, grants president tariff authority on Russian oil and gas imports】The U.S. House passed a Russia sanctions-and-tariffs bill 262-159; the measure will be sent to President Trump for signature. The bill targets Russian officials, companies and financial institutions that support the war in Ukraine and authorizes the president to impose tariffs on major importers of Russian oil and gas. Tariff authority was a key Democratic objection; Democrats warned it could allow the president to designate any country as aiding evasion and impose tariffs of up to 100% without oversight or a sunset clause."
-    },
-    {
-      "id": "5098508",
-      "time": "2026-09-17 06:43:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【私募五大策略業績分化，量化多頭領跑】8月A股市場震盪反彈，帶動私募產品淨值普遍修復。第三方機構私募排排網資料顯示，截至8月31日，在該平臺有業績記錄的12597只私募產品8月平均收益率達4.53%，今年以來的平均收益率提升至4.99%，超六成產品實現正收益。五大策略表現顯著分化：8月股票策略以5.44%的平均收益率領跑，多資產策略、組合基金策略、期貨及衍生品策略的平均收益率分別為3.84%、3.47%和3.14%，債券策略當月的平均收益率為0.44%。 更值得關注的是股票策略內部的結構性分化——量化多頭單月平均收益率達9.71%，年內收益率由負轉正至6.62%，而主觀多頭8月平均收益率僅3.82%。有私募人士表示，這種分化的本質是各策略貝塔來源不同，並非簡單的“誰強誰弱”。（中證報）"
     }
   ]
 }

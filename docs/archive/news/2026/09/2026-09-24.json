@@ -1,7 +1,42 @@
 {
   "date": "2026-09-24",
-  "count": 340,
+  "count": 344,
   "items": [
+    {
+      "id": "mkt:01a0d06f-bb2f-7118-8672-237e268c3e06",
+      "time": "2026-09-24 06:42:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's presidential office said President Lee Jae-myung discussed naval shipbuilding with U.S. President Trump."
+    },
+    {
+      "id": "5110609",
+      "time": "2026-09-24 06:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統辦公室稱，總統李在明與美國總統特朗普討論了軍艦建造事宜。"
+    },
+    {
+      "id": "mkt:01a0d06e-014d-7118-8672-196eb7088adc",
+      "time": "2026-09-24 06:41:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bessent: Uncertain how Iran's UN delegates will return home】U.S. Treasury Secretary Bessent, referring to Iranian statements, said Iran’s international flights may have been shut by more than 80–90% and he is unsure how Iran’s representatives at the United Nations will return home."
+    },
+    {
+      "id": "te:markets:586249",
+      "time": "2026-09-24 06:40:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Gains by 2.15% — Top commodity gainers are Cocoa (2.15%), Rice (1.87%) and Barley (1.56%). Biggest losers are Corn (-1.44%) and Wheat (-1.22%)."
+    },
     {
       "id": "mkt:01a0d06b-00ce-7118-8672-11d8718e0930",
       "time": "2026-09-24 06:37:48",
