@@ -1,7 +1,52 @@
 {
   "date": "2026-09-24",
-  "count": 331,
+  "count": 336,
   "items": [
+    {
+      "id": "5110606",
+      "time": "2026-09-24 06:35:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在聯合國大會上與各國領導人進行了一些非常棒的對話。"
+    },
+    {
+      "id": "te:markets:586248",
+      "time": "2026-09-24 06:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 3.84% — Top commodity losers are Silver (-3.84%), Platinum (-3.78%) and Gold (-1.74%). Gains are led by Silicon (1.01%), Iron Ore CNY (0.56%) and Lithium Carbonate (0.56%)."
+    },
+    {
+      "id": "mkt:01a0d067-cf08-7118-8672-040682df5fc2",
+      "time": "2026-09-24 06:34:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he expects the U.S. economy to continue growing."
+    },
+    {
+      "id": "mkt:01a0d066-a1dd-7118-8671-fc40f763093b",
+      "time": "2026-09-24 06:33:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cloud computing platform Modal Labs is in talks to raise new financing at about a $15 billion valuation, according to market sources."
+    },
+    {
+      "id": "5110605",
+      "time": "2026-09-24 06:32:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐約AI底層算力初創公司Modal Labs正洽談新一輪融資，估值約150億美元。"
+    },
     {
       "id": "mkt:01a0d065-336d-7118-8671-f0db4d4eebd4",
       "time": "2026-09-24 06:31:28",
