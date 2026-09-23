@@ -1,7 +1,23 @@
 {
   "date": "2026-09-23",
-  "count": 2261,
+  "count": 2263,
   "items": [
+    {
+      "id": "mkt:01a0cef0-dbe3-7118-866d-30fd50dd596a",
+      "time": "2026-09-23 23:44:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Head of Iran's Atomic Energy Organization said the IAEA was previously granted access to all sites in Iran, conducted multiple inspections, and none of its reports indicate any non-compliance by Iran."
+    },
+    {
+      "id": "5110406",
+      "time": "2026-09-23 23:43:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義大利議會透過核能授權法案 為重啟核電鋪平道路】當地時間9月23日，義大利參議院表決透過“可持續核能”授權法案。該法案此前已於今年6月獲得眾議院批准。法案授權義大利政府制定核能領域的整體法律框架，包括制定國家可持續核能發展計劃，規範新建核設施的建設和運營、現有設施退役、放射性廢物和乏燃料管理，並完善相關審批、安全監管和環境保護制度。義大利政府表示，發展新一代核能技術旨在推動能源結構多元化，減少對化石能源的依賴，並提高能源安全。義大利環境與能源安全部部長弗拉廷日前表示，按照目前規劃，義大利最早可能於2033年至2034年實現核能發電。（央視新聞）"
+    },
     {
       "id": "mkt:01a0ceee-2319-7118-866d-2ceac5e9a04a",
       "time": "2026-09-23 23:41:48",
