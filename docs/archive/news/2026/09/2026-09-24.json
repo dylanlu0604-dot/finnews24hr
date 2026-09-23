@@ -1,7 +1,29 @@
 {
   "date": "2026-09-24",
-  "count": 25,
+  "count": 27,
   "items": [
+    {
+      "id": "mkt:01a0cf12-24e9-7118-866d-7e484f67bf38",
+      "time": "2026-09-24 00:21:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Wall Street Journal reports two Anthropic top executives invested in a Peter Thiel-backed startup developing hardware to detect airborne viruses to address AI-related biosafety risks."
+    },
+    {
+      "id": "te:markets:586219",
+      "time": "2026-09-24 00:20:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes Lower — Frankfurt's DAX 40 closed about 0.7% down at 25,427 on Wednesday, lagging its European peers as surging oil prices and higher government bond yields pressured equities. Brent crude rose back above $100 a barrel as uncertainty over the reopening of the Strait of Hormuz kept geopolitical risks elevated. Iran’s President Masoud Pezeshkian, addressing the 81st UN General Assembly, said Tehran would never “bend at the knee” in response to external pressure and blamed the US and Israel for global instability. Meanwhile, higher energy prices, alongside signs of resilient economic growth, strengthened expectations for further ECB rate hikes this year. Germany’s flash services PMI for September added to the positive economic backdrop, coming in above expectations."
+    },
     {
       "id": "mkt:01a0cf0a-1e5a-7118-866d-705edf9a9df2",
       "time": "2026-09-24 00:12:21",
