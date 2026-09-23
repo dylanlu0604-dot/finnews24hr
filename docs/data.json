@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-23 23:38:30",
-  "count": 13202,
+  "updated": "2026-09-23 23:42:28",
+  "count": 13200,
   "items": [
+    {
+      "id": "mkt:01a0ceee-2319-7118-866d-2ceac5e9a04a",
+      "time": "2026-09-23 23:41:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 10-year Treasury yield rose to 5.081%, its highest level since July 17, 2007."
+    },
+    {
+      "id": "5110405",
+      "time": "2026-09-23 23:41:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行將中國聯通評級上調至持有，目標價3.80元。"
+    },
+    {
+      "id": "5110404",
+      "time": "2026-09-23 23:41:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 10 年期國債收益率觸及 5.081%，為 2007 年 7 月 17 日以來最高；最新上漲 10.57 個基點，報 5.073%。"
+    },
+    {
+      "id": "mkt:01a0ceec-fb3e-7118-866d-218f0f2e1167",
+      "time": "2026-09-23 23:40:32",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact mixed"
+      ],
+      "text": "【Paramount weighing Elon Musk as equity investor — Semafor】Paramount has discussed inviting Elon Musk to join an equity investor consortium as the studio seeks fresh capital while digesting its deal with Warner Bros. Discovery, Semafor reported, citing people with knowledge. Sources said Musk is one of several wealthy backers CEO David Ellison has considered. Musk has long-standing ties with Oracle founder Larry Ellison; Larry Ellison personally provided more than $40bn in equity financing guarantees to support Paramount's acquisition of Warner Bros. It was unclear how large any Musk investment would be."
+    },
+    {
+      "id": "5110403",
+      "time": "2026-09-23 23:39:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：短期內北約東部成員國與俄羅斯之間爆發超越混合行動的大規模衝突升級的可能性極低。"
+    },
+    {
+      "id": "5110402",
+      "time": "2026-09-23 23:38:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：北約的存續能力、凝聚力以及集體防禦承諾的可信度存在不確定性。"
+    },
     {
       "id": "5110401",
       "time": "2026-09-23 23:37:44",
@@ -120350,80 +120407,6 @@
         "MKT News"
       ],
       "text": "Cornerstone investors in NSE's IPO subscribed for 37.8 million shares at INR 1,785 apiece; participants include Life Insurance Corporation of India, Abu Dhabi Investment Authority, Fidelity Investments and MAS."
-    },
-    {
-      "id": "5097947",
-      "time": "2026-09-16 23:42:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "吉布提外交部長：本國未記錄到曼德海峽出現任何航運中斷情況。"
-    },
-    {
-      "id": "5097946",
-      "time": "2026-09-16 23:41:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國能源部長賴特暗示，今日將就投向委內瑞拉石油領域的全新私營產業投資，釋出一項重大公告。"
-    },
-    {
-      "id": "mkt:01a0aae1-5af5-7118-85c0-414fd928af3c",
-      "time": "2026-09-16 23:41:30",
-      "tags": [
-        "MKT News",
-        "DOW.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. chemical maker Dow announced global price increases effective in September, including polyethylene products."
-    },
-    {
-      "id": "5097945",
-      "time": "2026-09-16 23:40:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞國家石油公司：原油產量已恢復正常。"
-    },
-    {
-      "id": "5097944",
-      "time": "2026-09-16 23:40:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "陶氏宣佈9月全球漲價，產品包含聚乙烯。"
-    },
-    {
-      "id": "5097943",
-      "time": "2026-09-16 23:39:34",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根大通預判美聯儲決議日行情：美股股指波動幅度或達2%】摩根大通表示，市場普遍預期本次將加息25個基點，美聯儲的表態將決定決議公佈後股市上漲還是下跌。若僅按常規加息、前瞻指引措辭保守，標普500指數或上漲0.25%–0.75%；若加息同時釋放更強抗通脹訊號，股指漲幅可達0.5%–1%。若意外暫停加息，長端收益率上行，股市或將下跌1.25%–1.75%。最大風險場景是，美聯儲釋放訊號表明，為抑制通脹，利率必須維持在顯著更高的水平。摩根大通估算，該情形下標普500指數可能下跌1%–2%，本輪上漲行情或將承壓。"
-    },
-    {
-      "id": "te:economy:584275",
-      "time": "2026-09-16 23:38:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Colombia Retail Sales Growth Slows in July — Colombia’s real retail sales rose 5.3% year over year in July 2026, missing forecasts for an 11.2% increase and slowing from 14.7% growth in June. This marked the slowest growth since September 2024. Fourteen merchandise lines recorded increases in real sales, while five declined. The largest positive contributions came from motor vehicles and motorcycles, mainly for household use (21.8%), other motor vehicles and motorcycles (10.8%), and sound and video equipment and devices (25%). Declines in vehicle fuel sales (-3.6%), spare parts, components, accessories and lubricants for vehicles, mainly for household consumption (-2%), clothing and textiles (-3%), pharmaceutical and medicinal products (-0.7%), and footwear, leather goods and leather substitutes (-0.2%) limited overall retail growth."
-    },
-    {
-      "id": "5097942",
-      "time": "2026-09-16 23:38:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用電氣可再生能源（GE Vernova）表示，有意開展更多併購交易，且幾乎可以肯定交易將圍繞自身核心業務展開。"
     }
   ]
 }
