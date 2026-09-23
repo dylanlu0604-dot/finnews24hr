@@ -1,7 +1,119 @@
 {
   "date": "2026-09-23",
-  "count": 1144,
+  "count": 1156,
   "items": [
+    {
+      "id": "5109063",
+      "time": "2026-09-23 13:45:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯想旗下納遠明志海南創業投資公司增資至9.1億】天眼查App顯示，近日，納遠明志（海南）創業投資有限公司發生工商變更，註冊資本由5.05億元人民幣增至約9.1億元人民幣。該公司成立於2021年11月，法定代表人為林林，經營範圍為創業投資，由聯想知行（天津）科技有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a0cccb-f6ff-7118-8659-012afbb4d45b",
+      "time": "2026-09-23 13:45:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold briefly fell more than $10 to below $4,330/oz, down 0.65% intraday."
+    },
+    {
+      "id": "5109062",
+      "time": "2026-09-23 13:44:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4330美元/盎司，日內跌0.67%。"
+    },
+    {
+      "id": "mkt:01a0cccb-784e-7118-8658-ff7f9d576677",
+      "time": "2026-09-23 13:44:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Survey: India economic activity accelerated in September】HSBC’s preliminary PMI survey showed India’s economic activity accelerated in September, with the services PMI rising to 55.8 from 54.1 and the manufacturing PMI climbing to a seven-month high of 55.7 from 52.8. The composite index reached 56.5, up from 54.3 in August. HSBC said output growth in both manufacturing and services accelerated, goods producers led the latest rise, new orders expanded at a faster pace and employment registered robust growth; the composite index has returned above its long-run average."
+    },
+    {
+      "id": "mkt:01a0cccb-6898-7118-8658-f02a50c625db",
+      "time": "2026-09-23 13:44:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's civil aviation authority said Lublin and Rzeszow airports have resumed operations after temporary closures due to military air activity."
+    },
+    {
+      "id": "mkt:01a0cccb-1cf4-7118-8658-e86f2594fe45",
+      "time": "2026-09-23 13:44:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "【NIO ES9 hits 30,000 deliveries】September 23 — NIO said its flagship SUV ES9 has reached cumulative deliveries of 30,000 vehicles. Founder, chairman and CEO Li Bin personally handed over the milestone vehicle."
+    },
+    {
+      "id": "5109061",
+      "time": "2026-09-23 13:44:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭盧布林（Lublin）和熱舒夫（Rzeszów）的機場在因軍事航空活動而暫時關閉後，現已恢復飛行運營。"
+    },
+    {
+      "id": "5109060",
+      "time": "2026-09-23 13:43:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4370美元/盎司，日內跌0.16%。"
+    },
+    {
+      "id": "te:markets:585931",
+      "time": "2026-09-23 13:43:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Equities End 0.4% Lower — The NZX 50 dropped 54 points, or 0.4%, to close at 13,822 on Wednesday, moving from its highest level since September 7, reached a day earlier, and erasing gains from the previous two sessions, weighed down by declines in tech, utilities, and industrials. Traders continued to assess a warning from RBNZ Governor Anna Breman that inflation could be higher if high oil prices persist. Caution was heightened as higher oil prices raised expectations of an interest rate hike at the upcoming meeting. Traders were also cautious ahead of the Trump-Xi summit, with AI and tariffs expected to be discussed at the meeting. However, further easing in oil prices capped the fall due to eased tensions in the Middle East amid hopes of renewed US- Iran talks. Among the biggest laggards were Gentrack Group (-5.0%), Freightways Group (-3.4%), Mercury NZ (-1.6%), Meridian Energy (-1.6%), Mainfreight (-1.5%), Contact Energy (-1.2%), and EBOS Group (-0.9%)."
+    },
+    {
+      "id": "5109059",
+      "time": "2026-09-23 13:43:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問辦公與SAP中國將探索Agent在企業管理中的應用】千問辦公與SAP中國將共同探索辦公Agent與企業管理系統的協同，意在結合千問辦公的任務規劃與執行能力，以及SAP在企業管理軟體領域的產品與技術能力，探索AI在財務、供應鏈、採購、人力資源、銷售與客戶服務等場景中的應用。（硬AI）"
+    },
+    {
+      "id": "5109058",
+      "time": "2026-09-23 13:42:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026全球治理論壇（雄安）將於10月下旬舉辦】記者23日從中國人民外交學會瞭解到，2026全球治理論壇（雄安）將於今年10月下旬在河北雄安新區舉辦，外交學會作為主辦單位正在與河北省、雄安新區等密切協作，緊鑼密鼓推進論壇籌備工作。（新華社）"
+    },
+    {
+      "id": "5109057",
+      "time": "2026-09-23 13:41:45",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【王東明會見烏茲別克工會聯合會代表團】9月23日，全國人大常委會副委員長、中華全國總工會主席王東明在京會見烏茲別克工會聯合會主席庫德拉提拉·拉菲科夫率領的烏工聯代表團一行。雙方就認真落實兩國元首共識，進一步加強交流合作，更好服務兩國現代化建設等交換意見。（新華社）"
+    },
     {
       "id": "5109056",
       "time": "2026-09-23 13:41:11",
