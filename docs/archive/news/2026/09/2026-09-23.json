@@ -1,7 +1,150 @@
 {
   "date": "2026-09-23",
-  "count": 807,
+  "count": 822,
   "items": [
+    {
+      "id": "5108817",
+      "time": "2026-09-23 09:55:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報6136.00元。"
+    },
+    {
+      "id": "5108816",
+      "time": "2026-09-23 09:55:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌4%，現報5153.00元。"
+    },
+    {
+      "id": "mkt:01a0cbf8-9a35-7118-8654-fbc0545ea12c",
+      "time": "2026-09-23 09:54:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000002.SZ",
+        "Impact bullish"
+      ],
+      "text": "China Vanke A shares continued to rally, locked at the daily limit-up; turnover near CNY2.0 billion."
+    },
+    {
+      "id": "5108815",
+      "time": "2026-09-23 09:53:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【泰勝風能等成立金達空間陸號創投企業】企查查APP顯示，近日，溫州金達空間陸號創業投資合夥企業（有限合夥）成立，經營範圍包含創業投資（限投資未上市企業）；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由泰勝風能等共同出資。"
+    },
+    {
+      "id": "mkt:01a0cbf7-be29-7118-8654-f3366b326878",
+      "time": "2026-09-23 09:53:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China lithium carbonate futures 2701 weakened intraday, with losses widening as much as 1.01%; last 132,160 yuan/ton. Turnover about 10.554 billion yuan; open interest rose by nearly 9,100 contracts on the day — price fell while positions increased."
+    },
+    {
+      "id": "5108814",
+      "time": "2026-09-23 09:53:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "萬科A觸及漲停，成交額18.79億元。"
+    },
+    {
+      "id": "5108813",
+      "time": "2026-09-23 09:52:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交銀國際：擬發行11億元人民幣及1.34億美元次級永續證券】交銀國際9月23日公告，公司就擬發行的本金總額分別為1,100,000,000元人民幣及134,000,000美元之次級永續證券完成定價，已收到交通銀行及其他機構投資者的認購承諾。公司擬將擬發行所得款項淨額用作償還存量負債或增量資產投放，以支援集團的業務發展。"
+    },
+    {
+      "id": "5108812",
+      "time": "2026-09-23 09:52:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5108811",
+      "time": "2026-09-23 09:51:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1465億元。"
+    },
+    {
+      "id": "mkt:01a0cbf5-70a4-7118-8654-e83221add284",
+      "time": "2026-09-23 09:50:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "09988.HK",
+        "Impact bearish",
+        "00700.HK",
+        "09999.HK"
+      ],
+      "text": "Hong Kong internet blue chips weakened in early trade: Alibaba (09988.HK) down over 3%, Tencent Holdings (00700.HK) down over 2%; Weibo (09898.HK), Kuaishou (01024.HK) and NetEase-S (09999.HK) also fell."
+    },
+    {
+      "id": "5108810",
+      "time": "2026-09-23 09:50:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國ITC正式對可穿戴式吸奶器、相關儲奶容器及其元件啟動337調查】9月22日，美國國際貿易委員會（ITC）投票決定對特定可穿戴式吸奶器、相關儲奶容器及其元件（Certain Wearable Breast Pumps, Associated Milk Storage Containers, and Components Thereof）啟動337調查（調查編碼：337-TA-1522）。"
+    },
+    {
+      "id": "te:markets:585868",
+      "time": "2026-09-23 09:50:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rise on Chip Strength — The benchmark KOSPI edged higher to around 7,050 on Wednesday, extending gains for a fourth consecutive session as advances in AI-related and semiconductor stocks on Wall Street bolstered Korean chipmakers. The Nasdaq Composite closed at another record high, while Samsung Electronics and SK hynix rose more than 2% and 1%, respectively. Gains were also seen in SK Square (4.1%), LG Energy Solution (1.1%), SK Inc (2.0%), and SK Innovation (4.8%). Additionally, easing Middle East tensions lifted the broader market as US and Iranian officials held a three-hour meeting, raising hopes for diplomatic progress. Oil prices fell around 1%, easing concerns over energy costs and supply disruptions. At the same time, the Asian Development Bank raised its 2026 growth forecast for South Korea to 3.2% from 2.6%, citing strong exports, corporate earnings and expansionary fiscal policy, while flagging geopolitical tensions, financial-market volatility and potential US tariffs as risks."
+    },
+    {
+      "id": "5108809",
+      "time": "2026-09-23 09:50:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港金管局將與業界合作開發數字債券市場。"
+    },
+    {
+      "id": "5108808",
+      "time": "2026-09-23 09:49:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音工會建議接受公司最新的合同方案。"
+    },
+    {
+      "id": "5108807",
+      "time": "2026-09-23 09:48:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股科網股走低，阿里巴巴跌超3%】港股科網股走低，阿里巴巴-W跌超3%，騰訊控股跌近2%，快手-W、網易跟跌。"
+    },
     {
       "id": "5108806",
       "time": "2026-09-23 09:47:49",
