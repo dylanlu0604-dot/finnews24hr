@@ -1,7 +1,107 @@
 {
-  "updated": "2026-09-23 13:21:21",
-  "count": 13279,
+  "updated": "2026-09-23 13:25:29",
+  "count": 13285,
   "items": [
+    {
+      "id": "te:economy:585927",
+      "time": "2026-09-23 13:25:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Singapore Inflation Rate Hits Over 2-Year High — Singapore’s annual inflation rate edged up to 2.3% in August 2026 from 2.2% in the previous month. It marked the highest reading since July 2024, as prices accelerated for food (2.3% vs 2.2% in July), transport (8.1% vs 7.9%), clothing and footwear (3.1% vs 1.5%), household durables and services (1.2% vs 1%), and miscellaneous goods and services (2.6% vs 1.9%). Moreover, prices were stable for housing and utilities (1.3%) and health (3.3%), while deflation in education slightly eased (-0.7% vs -0.9%). In contrast, inflation ticked down for recreation, sport and culture (1% vs 1.1%). On a monthly basis, consumer prices rebounded 0.6% from a 0.2% decline in July, marking its highest level since February. Core inflation, which excludes accommodation and private transport costs, rose to 2.2% in August from 2% in July, its highest since September 2024. The central bank had earlier said inflation was expected to pick up from July and remain elevated through the first half of next year."
+    },
+    {
+      "id": "5109039",
+      "time": "2026-09-23 13:24:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：印度、法國和阿聯酋部長討論了西亞局勢。"
+    },
+    {
+      "id": "5109038",
+      "time": "2026-09-23 13:23:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD考恩將默沙東目標價從137美元上調至155美元。"
+    },
+    {
+      "id": "mkt:01a0ccb8-0ed8-7118-8658-a378de72de6b",
+      "time": "2026-09-23 13:23:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CAICT Policy and Economics Research Institute releases Annual Observations on Global Digital Trade Rules】Sept 23, 2026 — The China Academy of Information and Communications Technology (CAICT) Policy and Economics Research Institute released its Annual Observations on Global Digital Trade Rules at the 5th Digital Trade Rule of Law Forum. Director Xin Yongfei provided an in-depth briefing. The report, citing rapid AI iteration and major shifts in the international trade landscape, systematically analyzes recent developments and focal issues in digital trade rules and offers a forward-looking assessment of trends."
+    },
+    {
+      "id": "5109037",
+      "time": "2026-09-23 13:23:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度、法國、阿聯酋在紐約舉行三方會談。"
+    },
+    {
+      "id": "mkt:01a0ccb7-b283-7118-8658-9fe45173a48d",
+      "time": "2026-09-23 13:23:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CAICT Policy and Economic Research Institute publishes Digital Inclusion Development Research Report (2026)】To address AI-driven disruption and advance digital inclusion, the China Academy of Information and Communications Technology (CAICT) Policy and Economic Research Institute released the Digital Inclusion Development Research Report (2026) — Technology Inclusion and Practical Exploration for the AI Era. The report reviews definitions, practice, challenges and promotion strategies for AI-era digital inclusion and proposes a \"123\" framework to build broad consensus and participation, accelerate narrowing the AI divide, and steer AI development toward positive social outcomes."
+    },
+    {
+      "id": "mkt:01a0ccb7-92b1-7118-8658-974a2f231a10",
+      "time": "2026-09-23 13:22:57",
+      "tags": [
+        "MKT News",
+        "Copper"
+      ],
+      "text": "US Secretary of State Rubio said in New York he met Argentine President Milei and described US-Argentina bilateral ties as solid, saying close cooperation on energy, critical minerals and agriculture strengthens hemispheric security."
+    },
+    {
+      "id": "mkt:01a0ccb7-1d5e-7118-8658-8af678535338",
+      "time": "2026-09-23 13:22:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's presidential office said the president told the UN secretary-general in New York that tensions between Iran and Ukraine should be reduced."
+    },
+    {
+      "id": "5109036",
+      "time": "2026-09-23 13:22:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芬蘭無人機技術公司Sensofusion計劃在赫爾辛基進行IPO】據報道，芬蘭無人機探測和反無人機公司Sensofusion計劃進行首次公開募股（IPO），並在納斯達克赫爾辛基交易所上市。"
+    },
+    {
+      "id": "mkt:01a0ccb6-a8b3-7118-8658-81b21a2198a8",
+      "time": "2026-09-23 13:21:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share agriculture sector active in afternoon trade; Wanxiang Denong hit daily limit; Jinjian Rice Industry, Dunhuang Seed and COFCO Sugar also advanced."
+    },
+    {
+      "id": "5109035",
+      "time": "2026-09-23 13:21:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "據西班牙Expansión： 西班牙能源巨頭Iberdrola將啟動出售英國風電資產股權。"
+    },
     {
       "id": "mkt:01a0ccb5-634e-7118-8658-7d0bd3b90cf3",
       "time": "2026-09-23 13:20:34",
@@ -121140,51 +121240,6 @@
         "MKT News"
       ],
       "text": "【US attorney general says FBI found new information on 2024 shooter in attempt on President Trump】US Attorney General Todd Blanche said on the 15th the FBI has recently uncovered additional information about Thomas Matthew Crooks, the gunman in the 2024 attempt on President Trump, relating to his background and experience; Blanche provided no further details at a White House briefing. A UK source who reviewed the documents said the new material alleges Crooks used the name of the late GOP senator and former presidential candidate Bob Dole to receive parcels, purchased parts and tools from Amazon to modify a rifle, and that after Secret Service agents shot Crooks dead an anonymous party paid to have him cremated."
-    },
-    {
-      "id": "5096637",
-      "time": "2026-09-16 13:25:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港將為電影業界提供搭景場地】香港特區行政長官李家超今日（16日）公佈《香港特別行政區經濟和社會發展第一個五年規劃（2026—2030年）》，隨即發表《行政長官2026年施政報告》（《施政報告》）。李家超在《施政報告》中宣佈，香港支援電影業發展，將研究為業界提供搭景場地，鼓勵電影在本地取景，透過優質的電影作品更好地向世界宣傳香港。"
-    },
-    {
-      "id": "mkt:01a0a8ab-5991-7118-85ac-19c6aabfff5f",
-      "time": "2026-09-16 13:23:16",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【European media: von der Leyen to propose creation of European Security Council】European Commission President Ursula von der Leyen will deliver her State of the Union address on the 16th (local time) and is set to propose a wholesale overhaul of Europe’s security architecture, a European news site reports. Her speech reportedly calls for establishment of a European Security Council consisting of EU leaders plus leaders of selected non-EU countries, including Ukraine, the UK, Norway and Canada. She will also urge a new Europe-wide “security protocol” modelled on NATO’s Article 4, which allows members to request consultations when they judge their security or territorial integrity threatened."
-    },
-    {
-      "id": "5096636",
-      "time": "2026-09-16 13:22:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【李家超：香港推出組合拳鼓勵生育】香港特區行政長官李家超今日（17日）在香港特區立法會發表新一份施政報告。李家超表示，香港特區政府將進一步推出組合拳措施鼓勵生育，包括：（1）延長初生子女可享額外免稅額的時間，由一年增至兩年。由2026/2027課稅年度起，在每名子女出生後首兩年，納稅人可就該名子女享有雙倍免稅額（即26萬港元）。措施適用於該課稅年度末所有未滿兩歲的子女。（2）進一步加強日間嬰幼兒照顧，未來三年將新增15所資助幼兒中心，合共提供約1500個零至三歲的兒童日間照顧服務名額，比目前規模增加近一倍。社署亦會適當地把較多的服務名額撥作照顧零至兩歲的嬰幼兒。（3）在校課後託管服務方面，在本學年擴充“在校課後託管服務計劃”，名額不再設上限，方便家長外出工作。"
-    },
-    {
-      "id": "5096635",
-      "time": "2026-09-16 13:22:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐媒：馮德萊恩擬呼籲設立歐洲安全理事會】歐洲聯盟委員會主席馮德萊恩定於當地時間16日在歐洲議會發表年度“盟情諮文”。據歐洲動態網站報道，馮德萊恩將提議對歐洲安全架構進行徹底改革，呼籲設立歐洲安全理事會。根據歐洲動態網站所獲馮德萊恩講話稿，歐洲安全理事會將由歐方領導人以及烏克蘭、英國、挪威、加拿大等非歐盟國家領導人組成。（新華社）"
-    },
-    {
-      "id": "5096634",
-      "time": "2026-09-16 13:21:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率下跌3.0個基點，至3.855%。"
     }
   ]
 }

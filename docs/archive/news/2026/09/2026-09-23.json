@@ -1,7 +1,107 @@
 {
   "date": "2026-09-23",
-  "count": 1109,
+  "count": 1120,
   "items": [
+    {
+      "id": "te:economy:585927",
+      "time": "2026-09-23 13:25:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Singapore Inflation Rate Hits Over 2-Year High — Singapore’s annual inflation rate edged up to 2.3% in August 2026 from 2.2% in the previous month. It marked the highest reading since July 2024, as prices accelerated for food (2.3% vs 2.2% in July), transport (8.1% vs 7.9%), clothing and footwear (3.1% vs 1.5%), household durables and services (1.2% vs 1%), and miscellaneous goods and services (2.6% vs 1.9%). Moreover, prices were stable for housing and utilities (1.3%) and health (3.3%), while deflation in education slightly eased (-0.7% vs -0.9%). In contrast, inflation ticked down for recreation, sport and culture (1% vs 1.1%). On a monthly basis, consumer prices rebounded 0.6% from a 0.2% decline in July, marking its highest level since February. Core inflation, which excludes accommodation and private transport costs, rose to 2.2% in August from 2% in July, its highest since September 2024. The central bank had earlier said inflation was expected to pick up from July and remain elevated through the first half of next year."
+    },
+    {
+      "id": "5109039",
+      "time": "2026-09-23 13:24:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：印度、法國和阿聯酋部長討論了西亞局勢。"
+    },
+    {
+      "id": "5109038",
+      "time": "2026-09-23 13:23:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD考恩將默沙東目標價從137美元上調至155美元。"
+    },
+    {
+      "id": "mkt:01a0ccb8-0ed8-7118-8658-a378de72de6b",
+      "time": "2026-09-23 13:23:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CAICT Policy and Economics Research Institute releases Annual Observations on Global Digital Trade Rules】Sept 23, 2026 — The China Academy of Information and Communications Technology (CAICT) Policy and Economics Research Institute released its Annual Observations on Global Digital Trade Rules at the 5th Digital Trade Rule of Law Forum. Director Xin Yongfei provided an in-depth briefing. The report, citing rapid AI iteration and major shifts in the international trade landscape, systematically analyzes recent developments and focal issues in digital trade rules and offers a forward-looking assessment of trends."
+    },
+    {
+      "id": "5109037",
+      "time": "2026-09-23 13:23:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度、法國、阿聯酋在紐約舉行三方會談。"
+    },
+    {
+      "id": "mkt:01a0ccb7-b283-7118-8658-9fe45173a48d",
+      "time": "2026-09-23 13:23:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CAICT Policy and Economic Research Institute publishes Digital Inclusion Development Research Report (2026)】To address AI-driven disruption and advance digital inclusion, the China Academy of Information and Communications Technology (CAICT) Policy and Economic Research Institute released the Digital Inclusion Development Research Report (2026) — Technology Inclusion and Practical Exploration for the AI Era. The report reviews definitions, practice, challenges and promotion strategies for AI-era digital inclusion and proposes a \"123\" framework to build broad consensus and participation, accelerate narrowing the AI divide, and steer AI development toward positive social outcomes."
+    },
+    {
+      "id": "mkt:01a0ccb7-92b1-7118-8658-974a2f231a10",
+      "time": "2026-09-23 13:22:57",
+      "tags": [
+        "MKT News",
+        "Copper"
+      ],
+      "text": "US Secretary of State Rubio said in New York he met Argentine President Milei and described US-Argentina bilateral ties as solid, saying close cooperation on energy, critical minerals and agriculture strengthens hemispheric security."
+    },
+    {
+      "id": "mkt:01a0ccb7-1d5e-7118-8658-8af678535338",
+      "time": "2026-09-23 13:22:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's presidential office said the president told the UN secretary-general in New York that tensions between Iran and Ukraine should be reduced."
+    },
+    {
+      "id": "5109036",
+      "time": "2026-09-23 13:22:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芬蘭無人機技術公司Sensofusion計劃在赫爾辛基進行IPO】據報道，芬蘭無人機探測和反無人機公司Sensofusion計劃進行首次公開募股（IPO），並在納斯達克赫爾辛基交易所上市。"
+    },
+    {
+      "id": "mkt:01a0ccb6-a8b3-7118-8658-81b21a2198a8",
+      "time": "2026-09-23 13:21:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share agriculture sector active in afternoon trade; Wanxiang Denong hit daily limit; Jinjian Rice Industry, Dunhuang Seed and COFCO Sugar also advanced."
+    },
+    {
+      "id": "5109035",
+      "time": "2026-09-23 13:21:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "據西班牙Expansión： 西班牙能源巨頭Iberdrola將啟動出售英國風電資產股權。"
+    },
     {
       "id": "mkt:01a0ccb5-634e-7118-8658-7d0bd3b90cf3",
       "time": "2026-09-23 13:20:34",
