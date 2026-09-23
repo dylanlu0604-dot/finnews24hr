@@ -1,7 +1,44 @@
 {
   "date": "2026-09-24",
-  "count": 206,
+  "count": 210,
   "items": [
+    {
+      "id": "mkt:01a0cfc4-1bfb-7118-8670-91dc1c51066e",
+      "time": "2026-09-24 03:35:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IDF to conduct a military exercise in the Zikim coastal area on Wednesday local time; gunfire and explosions may be heard. The IDF said the drill is part of its annual training plan and not a security incident."
+    },
+    {
+      "id": "mkt:01a0cfc3-758a-7118-8670-8aa818210f39",
+      "time": "2026-09-24 03:34:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Global oil prices rose on the 23rd】By the close, NYMEX WTI November-delivery futures rose $1.64 to $92.16/bbl, up 1.81%; ICE Brent November-delivery futures rose $3.83 to $103.08/bbl, up 3.86%."
+    },
+    {
+      "id": "5110535",
+      "time": "2026-09-24 03:33:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價23日上漲】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格上漲1.64美元，收於每桶92.16美元，漲幅為1.81%；11月交貨的倫敦布倫特原油期貨價格上漲3.83美元，收於每桶103.08美元，漲幅為3.86%。"
+    },
+    {
+      "id": "mkt:01a0cfc1-5f64-7118-8670-827c29ca90f5",
+      "time": "2026-09-24 03:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the New York Times, U.S. Energy Secretary Wright denied reports the Trump administration was preparing a blanket ban on U.S. diesel exports, saying \"no one is discussing an outright ban or zero diesel exports\"."
+    },
     {
       "id": "mkt:01a0cfbf-9033-7118-8670-786630bf48d4",
       "time": "2026-09-24 03:30:32",

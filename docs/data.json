@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-24 03:33:15",
-  "count": 12911,
+  "updated": "2026-09-24 03:37:02",
+  "count": 12910,
   "items": [
+    {
+      "id": "mkt:01a0cfc4-1bfb-7118-8670-91dc1c51066e",
+      "time": "2026-09-24 03:35:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IDF to conduct a military exercise in the Zikim coastal area on Wednesday local time; gunfire and explosions may be heard. The IDF said the drill is part of its annual training plan and not a security incident."
+    },
+    {
+      "id": "mkt:01a0cfc3-758a-7118-8670-8aa818210f39",
+      "time": "2026-09-24 03:34:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Global oil prices rose on the 23rd】By the close, NYMEX WTI November-delivery futures rose $1.64 to $92.16/bbl, up 1.81%; ICE Brent November-delivery futures rose $3.83 to $103.08/bbl, up 3.86%."
+    },
+    {
+      "id": "5110535",
+      "time": "2026-09-24 03:33:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價23日上漲】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格上漲1.64美元，收於每桶92.16美元，漲幅為1.81%；11月交貨的倫敦布倫特原油期貨價格上漲3.83美元，收於每桶103.08美元，漲幅為3.86%。"
+    },
+    {
+      "id": "mkt:01a0cfc1-5f64-7118-8670-827c29ca90f5",
+      "time": "2026-09-24 03:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the New York Times, U.S. Energy Secretary Wright denied reports the Trump administration was preparing a blanket ban on U.S. diesel exports, saying \"no one is discussing an outright ban or zero diesel exports\"."
+    },
     {
       "id": "mkt:01a0cfbf-9033-7118-8670-786630bf48d4",
       "time": "2026-09-24 03:30:32",
@@ -117327,60 +117364,6 @@
         "市場"
       ],
       "text": "【國際油價16日顯著下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌3.40美元，收於每桶102.43美元，跌幅為3.21%；11月交貨的倫敦布倫特原油期貨價格下跌2.92美元，收於每桶105.83美元，跌幅為2.69%。"
-    },
-    {
-      "id": "te:economy:584343",
-      "time": "2026-09-17 03:34:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "US 10-Year Yield Rises to 19-Year High — The yield on the 10-year US Treasury note rose to above 5.01% on Wednesday, the highest in 19 years, after the Federal Reserve raised interest rates by 25bps. The move was largely expected by financial markets after recent data pointed to high inflation, low unemployment, and strong consumer spending. Projections by FOMC members pointed to one or two additional rate hikes by next year, consistent with upward revisions to forecasts on inflation and downward revisions to unemployment. Besides higher inflation due to soaring energy prices, the Chairman Warsh also acknowledged that Treasuries have been pressured by competing for capital allocation with soaring corporate debt supply. Still, longer-term maturities rose less than the shorter part of the curve as confidence that the Fed unanimously raised rates to fight inflation restored some credibility for the central bank, after Chairman Warsh had earlier downplayed the urgency of a higher funds rate to reign in price growth."
-    },
-    {
-      "id": "5098359",
-      "time": "2026-09-17 03:34:34",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【比利時法院裁定比財政部無權拒絕解凍俄BCS銀行資產】比利時最高行政法院近日裁定，比利時財政部缺乏相應法律許可權，無權拒絕解凍俄羅斯BCS銀行被凍結在歐洲清算銀行的資產。但裁決未要求立即解凍BCS銀行被凍結資產，目前尚不明確該銀行是否可以取回相關資產。（央視新聞）"
-    },
-    {
-      "id": "te:markets:584342",
-      "time": "2026-09-17 03:34:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Costco Wholesale Stock Price Hits 36-week Low — Costco Wholesale shares decreased to 893.50 USD, the lowest since January 2026. Over the past 4 weeks, Costco Wholesale lost 6.24%, and in the last 12 months, it decreased 7.17%."
-    },
-    {
-      "id": "mkt:01a0abb5-ecd3-7118-85c8-4bafb0f1aa49",
-      "time": "2026-09-17 03:33:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "Gundlach said he would consider buying aggressively if the 30-year U.S. Treasury yield rose to 6.5% for any reason."
-    },
-    {
-      "id": "5098358",
-      "time": "2026-09-17 03:33:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "“新債王”岡拉克：如果 30 年期美國國債收益率因某種原因升至 6.5%，我會考慮大舉買入。"
     }
   ]
 }
