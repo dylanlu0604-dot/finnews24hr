@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-24 03:37:02",
-  "count": 12910,
+  "updated": "2026-09-24 03:40:49",
+  "count": 12906,
   "items": [
+    {
+      "id": "5110537",
+      "time": "2026-09-24 03:39:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部長：國際社會需建立共同框架以管控人工智慧風險。"
+    },
+    {
+      "id": "5110536",
+      "time": "2026-09-24 03:37:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院撥款委員會主席柯林斯稱，白宮已放棄將衛生研究撥款政治化的相關計劃。"
+    },
     {
       "id": "mkt:01a0cfc4-1bfb-7118-8670-91dc1c51066e",
       "time": "2026-09-24 03:35:30",
@@ -117306,64 +117322,6 @@
         "Brent"
       ],
       "text": "Tasnim reported a major fire at an oil facility in Kirkuk province, northern Iraq; an oil-products storage warehouse caught fire and emergency crews are battling the blaze."
-    },
-    {
-      "id": "mkt:01a0abbc-64c8-7118-85c8-6143c0205c4d",
-      "time": "2026-09-17 03:40:45",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index up 0.64% on 16th to 100.252】The dollar index, which measures the US dollar against six major currencies, rose 0.64% to 100.252 at the New York close. EUR/USD fell to 1.1470 from 1.1543; GBP/USD fell to 1.3382 from 1.3481. USD/JPY rose to 155.92 from 155.09; USD/CHF rose to 0.8250 from 0.8185; USD/CAD rose to 1.3994 from 1.3917; USD/SEK rose to 9.8598 from 9.7773."
-    },
-    {
-      "id": "5098362",
-      "time": "2026-09-17 03:40:06",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【多家銀行向黑石集團與谷歌母公司Alphabet提供220億美元與晶片相關的貸款】知情人士透露，由 10 家銀行組成的財團將提供一筆 220 億美元晶片貸款，用以支援黑石集團和谷歌母公司Alphabet新設立的雲業務企業 Crux AI。這是 AI 競賽中，為採購核心高價處理器推出的又一筆鉅額融資交易。據知情人士介紹，貸款資金將用於採購谷歌自研晶片 —— 張量處理器（TPU），貸款擔保物為這批晶片的資產價值以及 Crux AI 的客戶合同。 訊息人士稱，參與本次貸款的銀行包括高盛集團、三井住友銀行、巴克萊銀行、法國巴黎銀行以及加拿大豐業銀行。訊息人士補充，該銀行團正透過銀團分銷引入更多出資方，分攤信貸風險。這筆債務未來有可能置換為投資級債券市場機構投資者提供的長期融資。另有訊息人士稱，部分銀行還將單獨配套提供 10 億美元迴圈信貸額度。"
-    },
-    {
-      "id": "mkt:01a0abbb-5317-7118-85c8-5d370292d37d",
-      "time": "2026-09-17 03:39:35",
-      "tags": [
-        "MKT News",
-        "GOOGL.O",
-        "BX.O"
-      ],
-      "text": "Syndicate raises $22 billion to fund a chip loan linked to Blackstone and Alphabet."
-    },
-    {
-      "id": "mkt:01a0abba-261c-7118-85c8-5052347f2750",
-      "time": "2026-09-17 03:38:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【White House calls Fed rate hike \"regrettable\"】White House spokesman Kush Desai called the Fed's rate increase \"regrettable,\" saying the president has been clear on his preferred rate path and that, from the government's perspective, the decision lacks particularly persuasive economic justification. Desai added \"this is not the Biden era,\" arguing the president and Republicans did not deploy the trillions in COVID-era stimulus that Democrats and Joe Biden did and therefore there is no runaway aggregate demand that would need to be reined in by higher rates."
-    },
-    {
-      "id": "5098361",
-      "time": "2026-09-17 03:38:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "多家銀行籌備總額 220 億美元的晶片行業貸款，該筆貸款與黑石集團、 Alphabet 相關。"
-    },
-    {
-      "id": "5098360",
-      "time": "2026-09-17 03:37:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價16日顯著下跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌3.40美元，收於每桶102.43美元，跌幅為3.21%；11月交貨的倫敦布倫特原油期貨價格下跌2.92美元，收於每桶105.83美元，跌幅為2.69%。"
     }
   ]
 }
