@@ -1,7 +1,83 @@
 {
   "date": "2026-09-23",
-  "count": 2208,
+  "count": 2216,
   "items": [
+    {
+      "id": "5110379",
+      "time": "2026-09-23 23:25:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌釋出 Gemini 3.8 Flash 文字轉語音音訊模型。"
+    },
+    {
+      "id": "5110378",
+      "time": "2026-09-23 23:25:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外長巴羅：俄羅斯正在襲擊整個歐洲。"
+    },
+    {
+      "id": "5110377",
+      "time": "2026-09-23 23:23:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：伊朗外長阿拉格奇與特朗普特使史蒂夫・維特科夫的接觸，並未得到伊朗最高國家安全委員會等相關決策機構的授權。"
+    },
+    {
+      "id": "mkt:01a0cedd-3e82-7118-866c-afcab620cc4c",
+      "time": "2026-09-23 23:23:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. energy secretary: diesel export curbs to be voluntary, not blanket ban】U.S. Energy Secretary Wright said the Trump administration will not impose a blanket ban on diesel exports but intends to pursue voluntary export limits. He said the government will not stop all exports and seeks to preserve global diesel supplies while reining in domestic price trends; measures will be voluntary. Wright added officials want to avoid heavy‑handed policy and recognize refinery complexity. Trump’s earlier comment that the government was considering diesel export limits has raised industry concern; refiners warn a ban could tighten U.S. diesel and gasoline availability and push prices sharply higher."
+    },
+    {
+      "id": "mkt:01a0cedc-82f0-7118-866c-a39278f469cc",
+      "time": "2026-09-23 23:22:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Secretary of State Rubio said President Trump will not leave the Iran crisis unresolved and that any solution will be sustainable, not merely for the next five years."
+    },
+    {
+      "id": "5110376",
+      "time": "2026-09-23 23:22:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【俄稱歐盟正計劃竊取俄被凍結資產】俄羅斯對外情報局9月22日稱，歐盟目前正在計劃“竊取”被凍結在歐盟的俄羅斯主權資產，從而為烏克蘭提供資金。《今日俄羅斯》電視臺報道稱，2022年俄烏衝突爆發後，烏克蘭的西方支持者凍結了約3000億美元的俄羅斯主權資產。其中約2400億美元存在總部位於比利時的歐洲清算銀行。俄對外情報局稱，歐盟正在考慮建立一個機構，試圖藉此管控從比利時司法管轄範圍內轉出的俄羅斯央行資金。（CCTV國際時訊）"
+    },
+    {
+      "id": "5110375",
+      "time": "2026-09-23 23:22:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "麥當勞股價跌幅擴大，最新下跌 5.2%。"
+    },
+    {
+      "id": "mkt:01a0cedc-2ee9-7118-866c-9d1e5e21cb52",
+      "time": "2026-09-23 23:22:11",
+      "tags": [
+        "MKT News",
+        "MCD.N",
+        "Impact bearish"
+      ],
+      "text": "McDonald's (MCD.N) shares fell more than 5%."
+    },
     {
       "id": "5110374",
       "time": "2026-09-23 23:21:09",

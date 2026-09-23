@@ -1,7 +1,83 @@
 {
-  "updated": "2026-09-23 23:22:34",
-  "count": 13189,
+  "updated": "2026-09-23 23:26:29",
+  "count": 13191,
   "items": [
+    {
+      "id": "5110379",
+      "time": "2026-09-23 23:25:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌釋出 Gemini 3.8 Flash 文字轉語音音訊模型。"
+    },
+    {
+      "id": "5110378",
+      "time": "2026-09-23 23:25:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外長巴羅：俄羅斯正在襲擊整個歐洲。"
+    },
+    {
+      "id": "5110377",
+      "time": "2026-09-23 23:23:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：伊朗外長阿拉格奇與特朗普特使史蒂夫・維特科夫的接觸，並未得到伊朗最高國家安全委員會等相關決策機構的授權。"
+    },
+    {
+      "id": "mkt:01a0cedd-3e82-7118-866c-afcab620cc4c",
+      "time": "2026-09-23 23:23:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. energy secretary: diesel export curbs to be voluntary, not blanket ban】U.S. Energy Secretary Wright said the Trump administration will not impose a blanket ban on diesel exports but intends to pursue voluntary export limits. He said the government will not stop all exports and seeks to preserve global diesel supplies while reining in domestic price trends; measures will be voluntary. Wright added officials want to avoid heavy‑handed policy and recognize refinery complexity. Trump’s earlier comment that the government was considering diesel export limits has raised industry concern; refiners warn a ban could tighten U.S. diesel and gasoline availability and push prices sharply higher."
+    },
+    {
+      "id": "mkt:01a0cedc-82f0-7118-866c-a39278f469cc",
+      "time": "2026-09-23 23:22:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. Secretary of State Rubio said President Trump will not leave the Iran crisis unresolved and that any solution will be sustainable, not merely for the next five years."
+    },
+    {
+      "id": "5110376",
+      "time": "2026-09-23 23:22:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【俄稱歐盟正計劃竊取俄被凍結資產】俄羅斯對外情報局9月22日稱，歐盟目前正在計劃“竊取”被凍結在歐盟的俄羅斯主權資產，從而為烏克蘭提供資金。《今日俄羅斯》電視臺報道稱，2022年俄烏衝突爆發後，烏克蘭的西方支持者凍結了約3000億美元的俄羅斯主權資產。其中約2400億美元存在總部位於比利時的歐洲清算銀行。俄對外情報局稱，歐盟正在考慮建立一個機構，試圖藉此管控從比利時司法管轄範圍內轉出的俄羅斯央行資金。（CCTV國際時訊）"
+    },
+    {
+      "id": "5110375",
+      "time": "2026-09-23 23:22:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "麥當勞股價跌幅擴大，最新下跌 5.2%。"
+    },
+    {
+      "id": "mkt:01a0cedc-2ee9-7118-866c-9d1e5e21cb52",
+      "time": "2026-09-23 23:22:11",
+      "tags": [
+        "MKT News",
+        "MCD.N",
+        "Impact bearish"
+      ],
+      "text": "McDonald's (MCD.N) shares fell more than 5%."
+    },
     {
       "id": "5110374",
       "time": "2026-09-23 23:21:09",
@@ -120232,59 +120308,6 @@
         "MKT News"
       ],
       "text": "【Qingtianzu targets 10 bln yuan revenue over three years, to connect with 20+ robot OEMs】Qingtianzu said on Sept. 16 it aims for cumulative platform revenue of 10 bln yuan over the next three years and plans to connect with more than 20 robot OEMs and 100 secondary-development partners. The company targets building 300 city operation centers and 3,000 authorized city centers, training over 2,000 FDE engineers and signing 100+ industry benchmark clients. The robot-leasing platform currently has more than 4,000 deployable robots, reported nearly 3.5 bln yuan of GMV in the past year, has linked 257 ecosystem partners and expects its fleet to reach 6,000–10,000 units by year-end."
-    },
-    {
-      "id": "mkt:01a0aad3-5741-7118-85bf-c0e1ac7cef76",
-      "time": "2026-09-16 23:26:12",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "UN Secretary-General Guterres said peace in the Middle East cannot be achieved without resolving the Palestinian crisis, and peace in the Horn of Africa cannot be achieved without resolving the Sudan situation."
-    },
-    {
-      "id": "5097929",
-      "time": "2026-09-16 23:25:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門親政府的南方巨人武裝稱，其在曼德海峽附近的衝突中給胡塞武裝造成重大傷亡。"
-    },
-    {
-      "id": "5097928",
-      "time": "2026-09-16 23:23:57",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【寧德時代：2022年激勵計劃首次及預留授予第四個行權期行權條件已經成就】寧德時代公告，公司2022年股票期權與限制性股票激勵計劃首次及預留授予第四個行權期行權條件已經成就，採用自主行權方式行權。本次可行權的激勵物件人數22人，行權數量35.39萬份，行權價格（調整後）為270.53元/份。"
-    },
-    {
-      "id": "5097927",
-      "time": "2026-09-16 23:23:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國秘書長古特雷斯：以色列的E1定居點計劃完全違反國際法，對和平構成嚴重威脅。現在必須叫停，停止一切趨於種族清洗的行動。"
-    },
-    {
-      "id": "mkt:01a0aad0-ce28-7118-85bf-b9b7b2f3dd6f",
-      "time": "2026-09-16 23:23:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USGS reported a magnitude-5.0 earthquake 5 km northeast of Mitsukaido, Japan."
-    },
-    {
-      "id": "5097926",
-      "time": "2026-09-16 23:23:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯東西輸油管道沿線兩座泵站受損，泵站修復時間尚不明朗。"
     }
   ]
 }
