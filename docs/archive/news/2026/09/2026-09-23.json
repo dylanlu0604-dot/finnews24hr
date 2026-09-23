@@ -1,7 +1,68 @@
 {
   "date": "2026-09-23",
-  "count": 1169,
+  "count": 1176,
   "items": [
+    {
+      "id": "5109076",
+      "time": "2026-09-23 14:01:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "中國人民銀行於本週三（9月23日）透過香港金融管理局債務工具中央結算系統（CMU）債券投標平臺，以利率招標方式發行了2026年第九期央行票據。"
+    },
+    {
+      "id": "mkt:01a0ccda-c29f-7118-8659-32a8f18a13e2",
+      "time": "2026-09-23 14:01:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PBOC on Wednesday (Sept. 23) issued the ninth tranche of its 2026 central bank bills via the Hong Kong Monetary Authority’s Central Moneymarkets Unit (CMU) bond tender platform in a rate tender."
+    },
+    {
+      "id": "5109075",
+      "time": "2026-09-23 14:00:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯托克50指數期貨上漲0.31%，德國DAX指數期貨上漲0.35%，富時指數期貨上漲0.36%。"
+    },
+    {
+      "id": "5109074",
+      "time": "2026-09-23 14:00:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭海港管理局：俄羅斯在黑海襲擊懸掛外國旗幟的船隻，導致船長遇難。"
+    },
+    {
+      "id": "5109073",
+      "time": "2026-09-23 13:59:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：繼7月在安卡拉會晤後，時隔兩個多月再次與特朗普總統會面。透過最近的激烈談判，韓美兩國關於“戰略投資”專案的討論取得了重大進展。除此之外，我們還就加強兩國在核潛艇燃料及民用濃縮·再處理、造船合作、戰時作戰指揮權移交等廣泛領域的合作方案進行了深入討論。期待能在年底於邁阿密舉行的G20峰會再次相會，繼續未盡的對話。"
+    },
+    {
+      "id": "te:markets:585932",
+      "time": "2026-09-23 13:58:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks End Above 48,000 as Tech Stocks Rally — The TAIEX, Taiwan’s benchmark stock index, rose 286 points, or 0.6%, to close at 48,086 on Wednesday, gaining for the sixth straight session and hitting a record high, mainly buoyed by gains in electronic technology amid optimism over AI infrastructure investment. The index surpassed the 48,000 mark for the first time at close. Electronic technology climbed 1.2%, with TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, advancing 1.4% after falling on Tuesday. Meanwhile, Nanya Technology and Unimicron Technology jumped 3.8% and 3.6%, respectively. The broader index rose after the tech-heavy Nasdaq Composite on Wall Street hit a record high, buoyed by solid gains in AI-related companies. Further easing in oil prices and US Treasury yields also fueled sentiment. Optimism over the Trump-Xi summit this week also lifted sentiment, as AI and tariffs are expected to be discussed at the meeting."
+    },
+    {
+      "id": "5109072",
+      "time": "2026-09-23 13:56:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓參議院：降低彈劾審判中定罪副總統杜特爾特所需票數。"
+    },
     {
       "id": "5109071",
       "time": "2026-09-23 13:56:17",
