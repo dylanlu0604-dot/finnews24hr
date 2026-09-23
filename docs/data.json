@@ -1,7 +1,91 @@
 {
-  "updated": "2026-09-24 00:11:07",
-  "count": 13180,
+  "updated": "2026-09-24 00:15:08",
+  "count": 13186,
   "items": [
+    {
+      "id": "mkt:01a0cf0a-1e5a-7118-866d-705edf9a9df2",
+      "time": "2026-09-24 00:12:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LAVROV: Both sides have reached an agreement and will continue consultations."
+    },
+    {
+      "id": "te:markets:586218",
+      "time": "2026-09-24 00:12:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.21% Lower — The FTSE MIB Index fell 108 points or 0.21 percent on Wednesday to close at 51987 points. Leading the losses are Unipol Gruppo (-2.49%), Assicurazioni Generali (-2.30%) and Prysmian (-1.86%). Top gainers were Eni (2.82%), Brunello Cucinelli (1.75%) and Amplifon (1.50%)."
+    },
+    {
+      "id": "te:markets:586217",
+      "time": "2026-09-24 00:12:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Lower — The FTSE MIB fell 0.2% to 51,987 on Wednesday, amid merger talks in Milan, while concerns over the country’s budget deficit weighed on the index. Italy’s budget deficit was confirmed at 3.1% in 2025, above the EU’s ceiling, raising concerns over increased spending on defense and energy. However, Italy plans to confirm a commitment to bring its deficit below 3% this year. Meanwhile, sovereign yields increased following stronger-than-expected PMI data, raising bets of an ECB rate hike. Financials were mixed following reports that Italy will abstain from a vote at an MPS (0.4%) shareholder meeting to approve the defensive acquisitions of Generali-controlled (2.3%) Banca Generali and Banco BPM (1.2%). Intesa slipped 0.4%. On the upside, as global oil prices snapped a streak of consecutive declines, energy stocks advanced, led by Eni (2.8%). Defense Leonardo (1.1%) and Fincantieri (0.2%) outperformed. Avio rose 1.9% following upbeat revenue estimates from Intesa."
+    },
+    {
+      "id": "5110428",
+      "time": "2026-09-24 00:11:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部：雙方已達成共識，將繼續開展磋商。"
+    },
+    {
+      "id": "te:markets:586216",
+      "time": "2026-09-24 00:11:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.66% Lower — The DAX Index dropped 168 points or 0.66 percent on Wednesday to close at 25411 points. Losses were led by Allianz (-3.97%), Scout24 (-3.75%) and Porsche Automobil (-3.70%). Offsetting the fall, top gainers were Rheinmetall (3.60%), SAP (2.36%) and Fresenius (1.47%)."
+    },
+    {
+      "id": "5110427",
+      "time": "2026-09-24 00:11:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外長拉夫羅夫強調，需儘快恢復雙邊關係。"
+    },
+    {
+      "id": "mkt:01a0cf08-ebb2-7118-866d-6cc27ab17777",
+      "time": "2026-09-24 00:11:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: Russian Foreign Minister Lavrov said bilateral relations should be restored as soon as possible."
+    },
+    {
+      "id": "mkt:01a0cf08-b9f7-7118-866d-664d7db14a07",
+      "time": "2026-09-24 00:10:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Russian Foreign Minister Lavrov and U.S. Secretary of State Rubio discussed developments in the Middle East, the South Caucasus, Latin America and the Caribbean."
+    },
+    {
+      "id": "5110426",
+      "time": "2026-09-24 00:10:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外長拉夫羅夫與美國國務卿魯比奧討論了中東、外高加索、拉美及加勒比地區局勢。"
+    },
     {
       "id": "te:markets:586215",
       "time": "2026-09-24 00:10:16",
@@ -120163,38 +120247,6 @@
         "國際"
       ],
       "text": "美國證券交易委員會主席阿特金斯：將採取行動，為加密貨幣領域投資者提供確定性監管規則。"
-    },
-    {
-      "id": "5097981",
-      "time": "2026-09-17 00:14:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馮德萊恩“盟情諮文”聚焦競爭力與能源安全】歐盟委員會主席馮德萊恩16日在歐洲議會全會發表2026年“盟情諮文”時表示，重振經濟是歐盟當前的首要任務。歐盟將加快推進單一市場改革，降低能源成本和行政負擔，以提升經濟競爭力。（新華社）"
-    },
-    {
-      "id": "te:markets:584287",
-      "time": "2026-09-17 00:12:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.80% Higher — The FTSE MIB Index rose 414 points or 0.80 percent on Wednesday to close at 51969 points. Leading the gains are Prysmian (3.55%), Italgas (2.42%) and Brunello Cucinelli (2.22%). Top losers were Stellantis N.V. (-2.99%), Nexi (-1.19%) and Eni (-0.80%)."
-    },
-    {
-      "id": "te:markets:584284",
-      "time": "2026-09-17 00:11:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.53% Higher — The DAX Index gained 135 points or 0.53 percent on Wednesday to close at 25538 points. Gains were led by Hochtief (3.54%), Siemens Energy (3.10%) and RWE (2.81%). Biggest losers were Mercedes-Benz AG (-2.57%), Commerzbank (-2.40%) and Volkswagen (-2.27%)."
     }
   ]
 }
