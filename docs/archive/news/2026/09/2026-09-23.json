@@ -1,7 +1,71 @@
 {
   "date": "2026-09-23",
-  "count": 1274,
+  "count": 1281,
   "items": [
+    {
+      "id": "mkt:01a0cd06-19e6-7118-8659-ed2c496bce3e",
+      "time": "2026-09-23 14:48:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Saudi denies buying 25 tankers; rejects claim purchases raised Iraq crude shipping costs】The Saudi energy ministry said on the 22nd (local time) it did not buy 25 tankers and called Iraq’s claim that Saudi purchases pushed up Iraqi crude shipping costs false. The ministry said the sharp rise in crude transport costs reflects regional tensions, disruptions to shipping in the Strait of Hormuz and higher shipping risk and insurance premiums, not Saudi tanker purchases."
+    },
+    {
+      "id": "5109154",
+      "time": "2026-09-23 14:47:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【大摩：維持阿里巴巴“增持”評級及目標價180美元，視為首選股】摩根士丹利發表報告指，阿里於2026雲棲大會釋出重點，該行認為2032年全球雲端產能逾20吉瓦，可提供通往約2400億美元雲端收入產能的路徑；同時通義千問快速變現支援需求，以及平頭哥滲透率上升，應有助產能擴張及利潤率上行。該行維持阿里巴巴美股“增持”評級及目標價180美元，並視為首選股。"
+    },
+    {
+      "id": "5109153",
+      "time": "2026-09-23 14:46:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯已在紅海的關鍵港口延布Al Muajjiz終端恢復了石油裝載。"
+    },
+    {
+      "id": "mkt:01a0cd04-1a26-7118-8659-e12707d53974",
+      "time": "2026-09-23 14:46:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Satellite imagery shows Saudi Arabia has resumed oil loading at the Al Muajjiz terminal in Yanbu, a key Red Sea port."
+    },
+    {
+      "id": "mkt:01a0cd03-527c-7118-8659-db15db62894a",
+      "time": "2026-09-23 14:45:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "2018.HK"
+      ],
+      "text": "【CLSA: iPhone 18 Pro/Pro Max wait times extend YoY and WoW; keeps Apple Outperform】CLSA said its Sept. 21 data check shows iPhone 18 Pro and 18 Pro Max wait times are roughly one week longer year-on-year versus iPhone 17 Pro/Pro Max and 1–2 weeks longer week-on-week. Week-on-week, iPhone 18 Pro waits rose about 1–2 weeks, with China and the UK each up about two weeks; iPhone 18 Pro Max waits were roughly one week longer overall, with the UK up two weeks. CLSA rates Apple Outperform, PT $405; AAC Technologies High-conviction Outperform, PT HK$54.4; BYD Electronic and Lens Technology both Outperform, PTs HK$29.0 and HK$30.7 respectively."
+    },
+    {
+      "id": "5109152",
+      "time": "2026-09-23 14:45:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普披露7月逾1100筆交易，單筆出售微軟、亞馬遜股票最高各2500萬美元】當地時間週二披露的檔案顯示，特朗普名下賬戶7月完成1156筆證券交易，總規模區間為7900萬—2.7億美元，買入至少4360萬美元，賣出至少3560萬美元，投資組合迎來大規模調倉。7月20日，賬戶分別賣出500萬至2500萬美元微軟、亞馬遜股票，為當月最大單筆交易。同日賣出100萬至500萬美元甲骨文股票，並買入50.001萬至100萬美元英偉達股票。三天後賬戶小幅回補微軟、亞馬遜倉位。此外，特朗普當月還交易了馬斯克旗下SpaceX、特斯拉相關標的。"
+    },
     {
       "id": "5109151",
       "time": "2026-09-23 14:44:06",
@@ -77,6 +141,15 @@
         "Impact bearish"
       ],
       "text": "S&P says AI-related investment will boost tech exports in the Asia-Pacific, and an energy shock is unlikely to slow the region's economic expansion."
+    },
+    {
+      "id": "5109147",
+      "time": "2026-09-23 14:42:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美伊談判提振霍爾木茲海峽通航預期，歐洲天然氣價格下跌】美國釋放與伊朗外交談判取得進展的訊號後，歐洲天然氣價格隨油價一同走低。基準期貨週三最大跌幅達3.7%，在約三週低位附近震盪。歐洲天然氣庫存填充率略超70%，而季節性正常水平為86%。"
     },
     {
       "id": "em:qqyh_mlc:202609233882395083",
