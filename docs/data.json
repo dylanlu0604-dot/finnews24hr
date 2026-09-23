@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-24 03:06:00",
-  "count": 12951,
+  "updated": "2026-09-24 03:09:54",
+  "count": 12936,
   "items": [
+    {
+      "id": "5110512",
+      "time": "2026-09-24 03:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "人工智慧科學家約書亞·本吉奧在聯合國安理會會議上率先發言，稱人工智慧的風險真實且迫在眉睫。"
+    },
+    {
+      "id": "mkt:01a0cfa9-91a1-7118-8670-3e81f72c5daa",
+      "time": "2026-09-24 03:06:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Russian presidential envoy Dmitriev will travel to the United States to hold a new round of talks with members of the Trump administration."
+    },
+    {
+      "id": "5110511",
+      "time": "2026-09-24 03:06:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國安理會召開人工智慧相關會議。"
+    },
+    {
+      "id": "5110510",
+      "time": "2026-09-24 03:06:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯總統特使德米特里耶夫將前往美國，與特朗普政府官員展開新一輪會談。"
+    },
+    {
+      "id": "5110509",
+      "time": "2026-09-24 03:05:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格奇在第81屆聯合國大會期間會見韓國外長趙顯，兩國外長簽署被判刑人員移交協議。"
+    },
     {
       "id": "5110508",
       "time": "2026-09-24 03:03:31",
@@ -117656,212 +117697,6 @@
         "Importance 1"
       ],
       "text": "Saudi Central Bank Raises Benchmark Rate — The Saudi Central Bank raised its benchmark repo rate by 25 bps to 4.50% in September 2026, mirroring the Federal Reserve’s decision. The move followed the Fed’s announcement that it would raise the target range for the federal funds rate by 25 bps to 3.75%-4% at its meeting, while a majority of FOMC members projected another hike this year. The decision reflects Saudi Arabia’s practice of aligning its monetary policy with that of the US, given the riyal’s peg to the dollar."
-    },
-    {
-      "id": "5098324",
-      "time": "2026-09-17 03:09:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "賽富時稱此前的服務故障現已修復。"
-    },
-    {
-      "id": "5098323",
-      "time": "2026-09-17 03:09:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌1%，現報4250.79美元/盎司。"
-    },
-    {
-      "id": "5098322",
-      "time": "2026-09-17 03:09:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4288.89美元/盎司。"
-    },
-    {
-      "id": "5098321",
-      "time": "2026-09-17 03:09:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4290美元/盎司，日內跌1.01%。"
-    },
-    {
-      "id": "mkt:01a0ab9f-afcd-7118-85c7-9ff5958bb721",
-      "time": "2026-09-17 03:09:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Fed chair Kevin Warsh: inflation too high, persistent; summer data shows no clear improvement】Fed chair Kevin Warsh opened his press conference saying he and other policymakers are dissatisfied with the current pace of inflation. He said price stability is their primary focus and that \"inflation is too high and has persisted too long,\" adding this summer's data has not shown a meaningful improvement in trend. Warsh flagged that recent CPI and PPI releases include too many categories with six- and 12-month gains above 3 pct. He reiterated the FOMC's remit to achieve full employment and price stability and to support a robust US economy."
-    },
-    {
-      "id": "mkt:01a0ab9f-8d6b-7118-85c7-965030ce27a9",
-      "time": "2026-09-17 03:09:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "White House spokesman says President Trump still believes in the Federal Reserve's independence."
-    },
-    {
-      "id": "5098320",
-      "time": "2026-09-17 03:09:07",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "白宮發言人：特朗普仍然相信美聯儲的獨立性。"
-    },
-    {
-      "id": "mkt:01a0ab9f-019c-7118-85c7-8d9cf710f020",
-      "time": "2026-09-17 03:08:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "White House spokesman says higher interest rates will not change oil prices."
-    },
-    {
-      "id": "mkt:01a0ab9e-b3a1-7118-85c7-872830e68dac",
-      "time": "2026-09-17 03:08:19",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Gundlach said he was not surprised markets weakened during the press conference because he viewed the remarks as limited."
-    },
-    {
-      "id": "5098319",
-      "time": "2026-09-17 03:07:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮發言人：利率上升不會改變油價。"
-    },
-    {
-      "id": "mkt:01a0ab9e-2416-7118-85c7-7e7b364b9f43",
-      "time": "2026-09-17 03:07:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "White House spokesperson says Fed rate hikes are \"quite regrettable\"."
-    },
-    {
-      "id": "5098318",
-      "time": "2026-09-17 03:07:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "“新債王”岡拉克：市場在新聞釋出會期間走弱，我並不意外，因為我認為釋出會內容相當空洞。"
-    },
-    {
-      "id": "5098317",
-      "time": "2026-09-17 03:07:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報62.93美元/盎司。"
-    },
-    {
-      "id": "mkt:01a0ab9d-c742-7118-85c7-72863def6f60",
-      "time": "2026-09-17 03:07:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【Kevin Warsh on most disadvantaged Americans】Kevin Warsh said at a press briefing that the most disadvantaged Americans stand to gain most from a durable economic expansion, a robust labor market and stable prices. Economists broadly view the US recovery as K-shaped, with post‑pandemic divergence between high- and low-income groups. University of Michigan consumer survey data show persistently weaker confidence among lower-income households."
-    },
-    {
-      "id": "te:markets:584328",
-      "time": "2026-09-17 03:07:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Silver Eases to 6-Week Low — Silver prices were around the $63 per ounce mark on Wednesday, testing their lowest in over one month, after the Federal Reserve delivered a 25bps rate hike. The decision by the US central bank was widely expected following data that reflected high consumer and producer prices, in addition to robust economic growth and low unemployment. Additionally, most FOMC members projected another rate hike this year. Shorter-maturity yields rose to multi-year highs, pressuring bullion prices as markets favor securities that bear yield. Meanwhile, the Bank of Japan is also due to hike its rates this week. In turn, metals with exposure to datacenter development came under pressure as AI model executives voiced concerns over the safety of more intelligent models, risking the speculative demand for compute infrastructure."
-    },
-    {
-      "id": "5098316",
-      "time": "2026-09-17 03:07:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "白宮發言人：美聯儲加息“相當不幸”。"
-    },
-    {
-      "id": "mkt:01a0ab9d-693d-7118-85c7-6e88b09a800a",
-      "time": "2026-09-17 03:06:54",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bearish"
-      ],
-      "text": "Boeing says delivery issues reduce the likelihood that free cash flow will exceed $2.0 billion."
-    },
-    {
-      "id": "mkt:01a0ab9d-39aa-7118-85c7-6232e6f3e781",
-      "time": "2026-09-17 03:06:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "BA.N",
-        "Impact bearish",
-        "Dow"
-      ],
-      "text": "Boeing (BA.N) shares extended intraday decline to about 5%, hitting a fresh intraday low."
-    },
-    {
-      "id": "mkt:01a0ab9d-2ccb-7118-85c7-5c8664ca7c33",
-      "time": "2026-09-17 03:06:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Gundlach said if he were a Federal Reserve governor he would vote no today and support a 50bp rate hike."
-    },
-    {
-      "id": "5098315",
-      "time": "2026-09-17 03:06:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "白宮發言人：美聯儲加息 “相當令人遺憾”。"
     }
   ]
 }
