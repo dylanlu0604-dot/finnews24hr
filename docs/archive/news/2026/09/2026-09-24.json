@@ -1,7 +1,645 @@
 {
   "date": "2026-09-24",
-  "count": 247,
+  "count": 319,
   "items": [
+    {
+      "id": "mkt:01a0d056-700d-7118-8671-c8f962db8224",
+      "time": "2026-09-24 06:15:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said reports he might be appointed as Trump’s AI czar are likely fake news."
+    },
+    {
+      "id": "te:markets:586246",
+      "time": "2026-09-24 06:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Drops by 1.44% — Top currency losers are Mexican Peso (-1.44%), Brazilian Real (-1.28%), Polish Zloty (-1.12%), British Pound (-0.78%), Japanese Yen (-0.59%) and Euro (-0.56%). Gains are led by Dollar Index (0.51%)."
+    },
+    {
+      "id": "5110597",
+      "time": "2026-09-24 06:15:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：有時每日有高達1700萬桶原油從霍爾木茲海峽運出。"
+    },
+    {
+      "id": "mkt:01a0d055-e538-7118-8671-c6710fa37748",
+      "time": "2026-09-24 06:14:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthis say over 400 commercial vessels transited Bab al‑Mandeb recently】Yemen's Houthi rebels said on Sept. 23 that despite ongoing fighting near the strategic Bab al‑Mandeb strait linking the Red Sea and Gulf of Aden, 408 commercial vessels transited the waterway between Sept. 11-21, according to Houthi-controlled Masirah TV citing a group statement. Of those, 196 sailed north into the Red Sea and 212 south into the Gulf of Aden; the tally included container ships. The report added that \"except for Saudi vessels, international shipping continues normally and safely.\" The figure exceeded the 393 transits recorded Sept. 1-10, when 199 moved north and 194 moved south."
+    },
+    {
+      "id": "5110596",
+      "time": "2026-09-24 06:14:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：有關可能出任特朗普人工智慧主管的報道\"很可能是假新聞\"；只有一個人工智慧“沙皇”，就是特朗普總統。"
+    },
+    {
+      "id": "5110595",
+      "time": "2026-09-24 06:12:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝：近期逾400艘商船透過曼德海峽】葉門胡塞武裝23日稱，儘管連線紅海與亞丁灣的重要水道曼德海峽附近戰事持續，近期仍有超過400艘商船透過這一戰略水道。（新華社）"
+    },
+    {
+      "id": "mkt:01a0d050-9abc-7118-8671-be7ab48b340e",
+      "time": "2026-09-24 06:08:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Chinese President Xi Jinping arrives in Washington for state visit】Local afternoon Sept. 23, Chinese President Xi Jinping arrived in Washington, D.C., to begin a state visit to the United States at the invitation of U.S. President Donald Trump. Xi and his wife Peng Liyuan were met on arrival at Andrews Air Force Base by President Trump and First Lady Melania Trump."
+    },
+    {
+      "id": "5110594",
+      "time": "2026-09-24 06:02:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲10月加息的機率抬升至69.7%】據CME“美聯儲觀察”：美聯儲10月會議維持利率在3.75%-4.00%不變的機率為30.3%，加息25個基點的機率為69.7%。美聯儲到12月維持利率在3.75%-4.00%不變的機率為6.5%，累計加息25個基點的機率為38.7%，累計加息50個基點的機率為54.8%。"
+    },
+    {
+      "id": "5110593",
+      "time": "2026-09-24 06:02:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普總統赴機場 歡迎習近平主席到訪】當地時間9月23日下午，國家主席習近平和夫人彭麗媛乘專機抵達華盛頓安德魯斯空軍基地。美國總統特朗普和夫人梅拉尼婭專程來到機場，歡迎習近平主席夫婦。（央視新聞）"
+    },
+    {
+      "id": "5110592",
+      "time": "2026-09-24 06:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲俄烏早日實現停火止戰】中國常駐聯合國代表傅聰23日在安理會烏克蘭問題高階別會議上發言，呼籲早日實現停火止戰。（新華社）"
+    },
+    {
+      "id": "mkt:01a0d040-8450-7118-8671-b6b1caae4a2c",
+      "time": "2026-09-24 05:51:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan government said Prime Minister Sharif met ECB executive board member Costa and European Commission President Von der Leyen on the sidelines of the UN General Assembly."
+    },
+    {
+      "id": "5110591",
+      "time": "2026-09-24 05:50:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【華盛頓：機場迎接儀式準備中 迎候習近平主席到訪】當地時間9月23日下午，國家主席習近平乘專機將抵達美國首都華盛頓。在安德魯斯空軍基地，迎接儀式準備工作正在進行中，迎候習近平主席到訪。（央視新聞）"
+    },
+    {
+      "id": "5110590",
+      "time": "2026-09-24 05:39:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：已於9月10日就該事件通報澳大利亞服務部門。"
+    },
+    {
+      "id": "mkt:01a0d035-364d-7118-8671-a96690a5816d",
+      "time": "2026-09-24 05:39:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said that while reviewing instances of models deviating from expected behavior, it only discovered in August that an AI agent had been active in Australia."
+    },
+    {
+      "id": "mkt:01a0d035-2e76-7118-8671-a6a6727c08c4",
+      "time": "2026-09-24 05:39:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI notified Australian service providers of the incident on Sept. 10."
+    },
+    {
+      "id": "5110589",
+      "time": "2026-09-24 05:38:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：我們直到8月才知悉澳大利亞的代理活動，該事件出自對OpenAI未對齊模型活動的持續審查之中。"
+    },
+    {
+      "id": "mkt:01a0d033-80af-7118-8671-99b7b1767710",
+      "time": "2026-09-24 05:37:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【CHINA arrives in Washington to begin state visit to the United States】On the afternoon of Sept. 23 local time, CHINA arrived in Washington to begin a state visit to the United States."
+    },
+    {
+      "id": "5110588",
+      "time": "2026-09-24 05:36:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI就澳大利亞事件發聲：我們的模型做出了非我們預設的行為。"
+    },
+    {
+      "id": "mkt:01a0d032-e2d8-7118-8671-91ff73e4b607",
+      "time": "2026-09-24 05:36:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said one of its models took actions the company had not anticipated."
+    },
+    {
+      "id": "5110587",
+      "time": "2026-09-24 05:36:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平抵達美國首都華盛頓】當地時間9月23日下午，國家主席習近平乘專機抵達華盛頓。應美利堅合眾國總統特朗普邀請，國家主席習近平於9月23日至25日對美國進行國事訪問。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0d032-947f-7118-8671-8f39cc0282bd",
+      "time": "2026-09-24 05:36:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said a review found that the model, when attempting to query answers, accessed multiple Australian government websites and services."
+    },
+    {
+      "id": "mkt:01a0d032-19f8-7118-8671-82677e8a6c7c",
+      "time": "2026-09-24 05:35:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI says it is conducting a comprehensive review of unauthorized access to the Australian government's Medicare statistics website."
+    },
+    {
+      "id": "mkt:01a0d030-ae47-7118-8671-7c632781ad4a",
+      "time": "2026-09-24 05:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said its AI agent improperly accessed Australian government documents; there is currently no evidence that patient medical records were accessed."
+    },
+    {
+      "id": "5110586",
+      "time": "2026-09-24 05:33:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI就澳大利亞事件發聲：仍在開展全面調查。"
+    },
+    {
+      "id": "5110585",
+      "time": "2026-09-24 05:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI表示，其人工智慧代理不當訪問了澳大利亞政府檔案，暫無證據顯示病患記錄遭到獲取。"
+    },
+    {
+      "id": "mkt:01a0d02d-d070-7118-8671-771d1ce56c25",
+      "time": "2026-09-24 05:30:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK tightens sanctions on Iranian banks, joins US economic pressure】The UK will automatically refuse new UK licence applications from designated Iranian banks and will not renew an existing general licence permitting limited business after it expires next month. Affected banks include Sepah Bank, the UK branch of Bank Melli Iran, Saderat Bank, Persia International Bank and Tejarat (Commercial) Bank. The move aligns the UK with a US-led economic pressure campaign initiated by Treasury Secretary Bessent to curb Iran’s links to the global trading system; UK officials say the steps tighten existing sanctions rather than introduce new ones."
+    },
+    {
+      "id": "5110584",
+      "time": "2026-09-24 05:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客獲得法國武器裝備總署（DGA）PARACOM專案為期25年的網路安全合同。"
+    },
+    {
+      "id": "mkt:01a0d029-3611-7118-8671-6ee1cce36c82",
+      "time": "2026-09-24 05:25:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MILEI: will defend Malvinas sovereignty in \"peaceful, pragmatic and effective manner\"】Argentine President MILEI said on the 23rd he will defend sovereignty over the Malvinas (Falkland Islands) \"in a peaceful, pragmatic and effective manner.\" The government has taken a tougher line on the islands' sovereignty. In a nationwide televised address on the evening of the 3rd MILEI said his administration will increase sanctions on foreign companies extracting natural resources in the islands and adjacent disputed waters. Sanctions procedures have been opened against 60 foreign companies and individuals."
+    },
+    {
+      "id": "5110583",
+      "time": "2026-09-24 05:24:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【米萊：將以“和平、務實和有效的方式”捍衛馬島主權】阿根廷總統米萊23日表示將以“和平、務實和有效的方式”捍衛馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）主權。（央視新聞）"
+    },
+    {
+      "id": "5110582",
+      "time": "2026-09-24 05:19:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國秘書長古特雷斯呼籲加快能源轉型】當地時間9月23日，聯合國秘書長古特雷斯在第81屆聯合國大會高階別週期間舉行的氣候問題高階別會議上發言指出，全球氣候危機正在加速，必須立即採取更有力的行動。古特雷斯呼籲各國加快能源轉型，擴大可再生能源使用規模、提高能源效率、減少甲烷排放，逐步擺脫化石燃料。（央視新聞）"
+    },
+    {
+      "id": "5110581",
+      "time": "2026-09-24 05:15:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.50%，報14462點。"
+    },
+    {
+      "id": "mkt:01a0d01c-e6ca-7118-8671-613b9ceccfb3",
+      "time": "2026-09-24 05:12:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Executive Board approved a statement of principles governing the Fund's cooperation with external partners."
+    },
+    {
+      "id": "5110580",
+      "time": "2026-09-24 05:12:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：執董會批准了基金組織與外部夥伴合作的原則宣告。"
+    },
+    {
+      "id": "mkt:01a0d018-254f-7118-8671-5b805bb6e49a",
+      "time": "2026-09-24 05:07:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Dozens of U.S. refiners and trade groups wrote to Trump urging him to reject any measures to impose a diesel export ban."
+    },
+    {
+      "id": "5110579",
+      "time": "2026-09-24 05:06:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "數十家美國煉油及商業團體致信特朗普，敦促其反對任何實施柴油出口禁令的舉措。"
+    },
+    {
+      "id": "mkt:01a0d014-4973-7118-8671-5303d0da9b34",
+      "time": "2026-09-24 05:03:05",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "The Financial Times reports the UK Treasury is prepared to accept a smaller fiscal buffer to reduce the scale of tax increases."
+    },
+    {
+      "id": "5110578",
+      "time": "2026-09-24 05:03:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普總統抵達機場，迎接習近平主席到訪】當地時間9月23日下午，國家主席習近平乘專機將抵達美國首都華盛頓。美國總統特朗普來到安德魯斯空軍基地，迎接習近平主席到訪。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0d014-3030-7118-8671-4aa0c4000d28",
+      "time": "2026-09-24 05:02:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【President Trump greets President Xi Jinping at Andrews as Xi arrives in Washington】President Xi Jinping is due to arrive in Washington on the afternoon of Sept. 23 by special flight; President Trump traveled to Joint Base Andrews to welcome him on arrival."
+    },
+    {
+      "id": "5110577",
+      "time": "2026-09-24 05:02:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "市場資訊：英國財政部願意接受較小財政空間以換取減稅增規模。"
+    },
+    {
+      "id": "5110576",
+      "time": "2026-09-24 05:00:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際金價跌1.7%，白銀跌超3.9%】週三（9月23日）紐約尾盤，現貨黃金跌1.71%，報4286.30美元/盎司，亞太盤初大致持平——交投於4360美元附近，北京時間08:02重新整理日高至4369.45美元，之後持續下跌、22:00以來持續低位窄幅震盪。現貨白銀跌3.95%，報64.4326美元/盎司。COMEX銅期貨跌0.73%，報6.7860美元/磅，07:30曾達到6.920美元。在美股時段交易的費城金銀指數收跌4.13%，報386.98點。在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌3.41%，報2692.07點，美股開盤之前大致持平、形成日內頂部，之後跳空“低開”之際接近日低2673.94點的水平——持續低位震盪。在美股時段交易的原材料指數收跌1.40%，金屬與礦業指數收跌1.32%。State Street金屬與礦業ETF收跌2.11%，報109.58美元。"
+    },
+    {
+      "id": "5110575",
+      "time": "2026-09-24 04:57:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平將抵達美國首都華盛頓】當地時間9月23日下午，國家主席習近平乘專機將抵達美國首都華盛頓。應美利堅合眾國總統特朗普邀請，國家主席習近平於9月23日至25日對美國進行國事訪問。(央視新聞)"
+    },
+    {
+      "id": "5110574",
+      "time": "2026-09-24 04:56:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：英國投資3.31億英鎊，應對氣候驅動的不穩定局勢，保護弱勢社群。"
+    },
+    {
+      "id": "te:markets:586245",
+      "time": "2026-09-24 04:53:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Nears Three-Year High — Canada’s 10-year government bond yield rose to around 3.95% in September, nearing a three-year high as energy-driven inflation concerns persisted. Oil prices rose after a five-week halt in the rally that followed the US-Iran war, amid uncertainty over diplomatic efforts to end the conflict and reopen the Strait of Hormuz. Strong US economic data also strengthened expectations that the Fed could deliver another rate hike this year. US Treasury yields soared to multi-decade highs, further pressuring Canadian bonds as domestic yields tend to track US rates. Fed projections showed that most policymakers expect another hike before the end of 2026. The Bank of Canada kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected. However, it noted that inflation risks had increased, while new tariffs had made the growth outlook more uncertain. Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated."
+    },
+    {
+      "id": "mkt:01a0d007-a697-7118-8671-44c207c8276b",
+      "time": "2026-09-24 04:49:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ALBANESE: OpenAI agent accessed Australian government site; notification was too late】In June an OpenAI-developed AI agent accessed an Australian government Medicare statistics website without authorization, entering a public portal run by Services Australia and retrieving public documents plus some data that should not have been public. Investigations so far indicate Services Australia’s networks were not more broadly compromised, but the incident is “clearly unacceptable.” ALBANESE said he spoke with OpenAI CEO Altman, conveyed serious concern, and criticised OpenAI’s delay and manner of notifying the government as “unacceptable.”"
+    },
+    {
+      "id": "5110573",
+      "time": "2026-09-24 04:47:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯特蘭蒂斯北美總部暫停白領招聘。"
+    },
+    {
+      "id": "te:markets:586244",
+      "time": "2026-09-24 04:43:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Political and Inflation Concerns — The Ibovespa fell 0.9% to close at 185,814 on Wednesday following new election polls and a rebound in oil prices. An AtlasIntel poll for October’s presidential election showed President Lula regaining a numerical lead over Senator Flávio Bolsonaro in a potential second-round runoff, although the candidates remain in a statistical tie. Oil prices rose amid uncertainty over diplomatic efforts to end the US-Iran war and reopen the Strait of Hormuz. Energy-driven inflation concerns persisted. In addition, Copom’s minutes from its latest meeting, released yesterday, were more hawkish than expected. Financials weighed on the index, with Itaú down 1.9%, Bradesco and Banco do Brasil both falling 2.2%, and Itaúsa shedding 1.9%. Utilities also traded lower, with Sabesp losing nearly 2.8%. Vale fell 1.8% amid weak profitability among Chinese steelmakers. Petrobras gained 2.6% on rising oil prices."
+    },
+    {
+      "id": "mkt:01a0d002-11b8-7118-8671-3c234f06c640",
+      "time": "2026-09-24 04:43:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FAA Administrator Bedford said on Sunday an erroneous signal on a telecom line prompted the agency to switch to a backup fiber line before a system outage that affected thousands of flights."
+    },
+    {
+      "id": "5110572",
+      "time": "2026-09-24 04:40:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局(FAA)局長貝德福德表示，週日電信線路發出的錯誤資訊促使該機構在系統中斷導致數千航班延誤之前，切換至備用光纖線路。"
+    },
+    {
+      "id": "5110571",
+      "time": "2026-09-24 04:40:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳總理：一款OpenAI智慧體侵入聯邦政府網站】澳大利亞總理安東尼·阿爾巴尼斯披露，一款OpenAI智慧體侵入聯邦政府網站，實現了未授權訪問。阿爾巴尼斯在紐約發表講話表示，該事件發生於今年6月，涉及澳大利亞服務局運營的聯邦醫療保險統計報告服務門戶。“現階段據信沒有個人資訊遭到訪問，但相關調查仍在進行，”阿爾巴尼斯稱。“現有證據表明，澳大利亞服務局的整體網路並未遭到更大範圍破壞。”阿爾巴尼斯表示，他已與OpenAI執行長奧特曼通話，就這起“不可接受”的事件進行交涉。“我同時對該公司過了太久才向澳政府通報此事表達不滿，”他說。“而且其通報事件的方式同樣令人無法接受。”"
+    },
+    {
+      "id": "mkt:01a0cffd-aca3-7118-8671-336f35d4cb3e",
+      "time": "2026-09-24 04:38:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Germany's Berlin Brandenburg Airport briefly suspended takeoffs and landings after a suspected drone sighting."
+    },
+    {
+      "id": "5110570",
+      "time": "2026-09-24 04:37:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【發現疑似無人機 德國柏林勃蘭登堡機場一度暫停航班起降】當地時間9月23日晚，德國柏林勃蘭登堡機場因發現疑似無人機，航班起降一度全面暫停，持續約45分鐘。當地機場方面及德國聯邦警察證實，發現無人機後，北跑道於20時左右首先關閉，20時20分南跑道也停止起降，21時05分解除限制，機場航班執行隨後恢復正常。（央視新聞）"
+    },
+    {
+      "id": "te:markets:586243",
+      "time": "2026-09-24 04:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.69% Lower — The Dow Jones Index fell 360 points or 0.69 percent on Wednesday to close at 51503 points. Leading the losses are McDonalds (-4.89%), Alphabet (-4.68%) and Home Depot (-2.80%). Top gainers were Salesforce (1.84%), Chevron (1.38%) and Boeing (0.95%)."
+    },
+    {
+      "id": "5110569",
+      "time": "2026-09-24 04:34:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI智慧體訪問了澳大利亞聯邦醫療保險統計資料，這起事件發生於6月。"
+    },
+    {
+      "id": "mkt:01a0cff9-9a11-7118-8671-2d63e24bc6b9",
+      "time": "2026-09-24 04:33:56",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UK Chancellor Healy spoke today with U.S. Treasury Secretary Bessent about steps to increase pressure on Iran and about coordinated measures to support economic growth in both countries."
+    },
+    {
+      "id": "5110568",
+      "time": "2026-09-24 04:33:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：OpenAI智慧體訪問了澳大利亞聯邦醫療保險統計資料。"
+    },
+    {
+      "id": "5110567",
+      "time": "2026-09-24 04:33:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破93美元/桶，日內漲2.76%。"
+    },
+    {
+      "id": "te:markets:586242",
+      "time": "2026-09-24 04:32:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slides as Yields Hit Multi-Year Highs — The S&P/TSX Composite Index fell 1.6% to close at 35,751 on Wednesday as yields reached multi-year highs. Bond yields rose sharply as energy-driven inflation concerns persisted, with oil prices moving higher amid uncertainty over diplomatic efforts to end the US-Iran war and reopen the Strait of Hormuz. Strong US economic data also strengthened expectations that the Fed could deliver another rate hike this year. US Treasury yields soared to multi-decade highs, further pressuring Canadian bonds as domestic yields tend to track US rates. Major banks posted losses, with RBC down 2%, TD Bank falling 2.4%, BMO shedding 2%, and Scotiabank retreating 1.6%. Gold, silver, and copper extended their declines, pressuring miners. Agnico Eagle fell 3.9%, Barrick declined 3.2%, and WPM tumbled 5.4%."
+    },
+    {
+      "id": "5110566",
+      "time": "2026-09-24 04:32:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國財政大臣希利：已與貝森特就加大對伊朗施壓一事進行溝通。"
+    },
+    {
+      "id": "5110565",
+      "time": "2026-09-24 04:29:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局局長貝德福德稱，針對特朗普提議建造的拱門專案的審查不存在政治干預。"
+    },
+    {
+      "id": "mkt:01a0cff5-7f0e-7118-8671-21e7968995fb",
+      "time": "2026-09-24 04:29:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FAA Administrator Bedford said there was no political interference in the review of Trump's \"Triumphal Arch\"."
+    },
+    {
+      "id": "5110564",
+      "time": "2026-09-24 04:25:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文：計劃在2027財年擴充套件甲骨文數字資產資料樞紐。"
+    },
+    {
+      "id": "mkt:01a0cff1-8d8d-7118-8671-1b292f8b946e",
+      "time": "2026-09-24 04:25:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan Prime Minister Sharif met IMF Managing Director Kristalina Georgieva in New York this morning to discuss Pakistan's upcoming IMF program review."
+    },
+    {
+      "id": "5110563",
+      "time": "2026-09-24 04:24:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理謝里夫：今日晨間在紐約會見了國際貨幣基金組織總裁格奧爾基耶娃，雙方討論了巴基斯坦即將開展的IMF專案審議工作。"
+    },
+    {
+      "id": "mkt:01a0cfef-d899-7118-8671-16b827e0fa0b",
+      "time": "2026-09-24 04:23:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge has concluded hearings in the White House media ban case but gave no timetable for a ruling."
+    },
+    {
+      "id": "5110562",
+      "time": "2026-09-24 04:20:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "富國銀行：首席風險官德里克·弗勞爾斯卸任，營運長斯科特·鮑威爾將接任首席風險官一職。"
+    },
+    {
+      "id": "5110561",
+      "time": "2026-09-24 04:20:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "阿聯酋央行對伊朗國民銀行的阿聯酋分支機構實施制裁，指控其違反當地有關洗錢、恐怖主義融資和武器擴散融資的相關法律。"
+    },
+    {
+      "id": "5110560",
+      "time": "2026-09-24 04:19:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國美國特使：美國反對任何構建全球人工智慧體系的企圖。"
+    },
+    {
+      "id": "mkt:01a0cfec-6675-7118-8671-0aa59e344cd4",
+      "time": "2026-09-24 04:19:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US special envoy Kratsios said there is no reason to pause rapidly developing artificial intelligence and no need to limit it through global governance."
+    },
+    {
+      "id": "mkt:01a0cfec-6312-7118-8671-00edf7cbb14c",
+      "time": "2026-09-24 04:19:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UAE sanctions Bank Melli's UAE branch】The UAE Central Bank said on Wednesday it has sanctioned the UAE branch of Iran's Bank Melli, accusing the bank of breaching local laws on money‑laundering, terrorist financing and proliferation financing. The central bank said it has prohibited all financial transactions between Bank Melli branches operating in the UAE and Iran, including trade finance and funds transfers. The measures were imposed for failure to comply with UAE regulations and legal requirements on AML, CFT and proliferation financing; last month the UAE suspended trade and financial ties with Tehran."
+    },
+    {
+      "id": "5110559",
+      "time": "2026-09-24 04:19:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國美國特使：沒有理由叫停快速發展的人工智慧，也沒有理由透過全球治理對其加以約束。"
+    },
+    {
+      "id": "5110558",
+      "time": "2026-09-24 04:18:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達成美國信用違約互換最活躍標的之一 對沖需求飆升】與英偉達掛鉤的衍生品如今已成為美國信用違約互換（CDS）市場交易最活躍的品種之一，投資者正積極利用該工具對沖該公司債券的風險敞口。由於市場參與者對英偉達債券的信用保護交易激增，英偉達被納入CDX投資級指數。過去六個月內，市場參與者交易的信用保護名義本金達69億美元。在英偉達大舉借債以及公司宣佈一系列AI相關基礎設施交易後，對沖英偉達債券違約的成本今年已翻倍。"
+    },
+    {
+      "id": "mkt:01a0cfeb-b032-7118-8670-fd4b9e5fe7e6",
+      "time": "2026-09-24 04:18:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【HASSETT criticizes Fed officials' recent support for more hikes, urges restoration of independence】White House NEC Director HASSETT on Wednesday criticized recent Federal Reserve officials advocating further rate hikes, saying additional tightening is worrying with core inflation near 2% and asking “why raise rates.” He questioned comments from officials not appointed by Trump and said Fed Chair KEVIN WARSH is running a “highly politicized” Fed, calling restoration of the central bank’s independence a key priority. HASSETT also criticized senior Fed officials remaining in post after leaving leadership roles, naming Powell and Barr as departures from past transition norms. Several Fed officials have sent hawkish signals recently: Barr said further hikes may be needed to bring inflation back to 2%, and Collins and Musallam also expressed support for additional tightening. The Fed’s latest projections show 16 officials expect at least one more rate hike this year."
+    },
     {
       "id": "te:economy:586241",
       "time": "2026-09-24 04:18:22",
