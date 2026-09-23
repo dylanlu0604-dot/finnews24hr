@@ -1,7 +1,91 @@
 {
   "date": "2026-09-23",
-  "count": 2182,
+  "count": 2191,
   "items": [
+    {
+      "id": "5110368",
+      "time": "2026-09-23 23:13:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷總統米萊：聯合國在福克蘭群島問題上選擇視而不見。"
+    },
+    {
+      "id": "5110367",
+      "time": "2026-09-23 23:12:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報稱，俄軍日間打擊了烏克蘭武裝部隊使用的資料中心、後勤設施以及倉庫碼頭。"
+    },
+    {
+      "id": "mkt:01a0ced2-cd9b-7118-866c-45d77dff4fc4",
+      "time": "2026-09-23 23:11:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's President Milei said the United Nations has become a 'useless organization'."
+    },
+    {
+      "id": "mkt:01a0ced2-c075-7118-866c-395d7ab11a0b",
+      "time": "2026-09-23 23:11:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck data centers, logistics sites and warehouse terminals used by the Ukrainian Armed Forces."
+    },
+    {
+      "id": "5110366",
+      "time": "2026-09-23 23:11:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷總統米萊：聯合國已成一個 “毫無用處的組織”。"
+    },
+    {
+      "id": "5110365",
+      "time": "2026-09-23 23:10:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：伊朗違反諒解備忘錄，並襲擊其鄰國。"
+    },
+    {
+      "id": "mkt:01a0ced1-69cb-7118-866c-320bb6deea90",
+      "time": "2026-09-23 23:10:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iran violated a memorandum of understanding and attacked its neighbor."
+    },
+    {
+      "id": "mkt:01a0ced1-1741-7118-866c-2daab71e4bb5",
+      "time": "2026-09-23 23:10:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Netanyahu said he is departing for New York to speak at the United Nations to defend the State of Israel and the Israel Defense Forces, that terrible lies about them are being spread there and elsewhere, and that he will confront those lies and stand for the truth about Israel and its soldiers."
+    },
+    {
+      "id": "te:markets:586195",
+      "time": "2026-09-23 23:09:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Hits 26-month High — Rice increased to 16.17 USD/cwt, the highest since July 2024. Over the past 4 weeks, Rice gained 11.1%, and in the last 12 months, it increased 41.43%."
+    },
     {
       "id": "mkt:01a0ced0-15b1-7118-866c-20b9684013ca",
       "time": "2026-09-23 23:08:58",
