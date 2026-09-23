@@ -1,7 +1,101 @@
 {
   "date": "2026-09-23",
-  "count": 715,
+  "count": 725,
   "items": [
+    {
+      "id": "5108762",
+      "time": "2026-09-23 09:25:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【尹濤出任德邦證券黨委書記、董事長】9月22日，德邦證券召開第五屆董事會第二十一次會議，選舉尹濤為公司第五屆董事會董事長。德邦證券表示，本次董事長變更為正常管理層接續。公司既定發展戰略、經營導向以及股東支援力度保持不變，經營格局平穩延續，各項業務執行正常有序。"
+    },
+    {
+      "id": "mkt:01a0cbdd-3c7c-7118-8653-c665d613e085",
+      "time": "2026-09-23 09:24:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's presidential office said Lee Jae-myung and Trump reiterated commitment to deepen cooperation on nuclear submarines, spent-fuel reprocessing, shipbuilding and the transfer of wartime operational control."
+    },
+    {
+      "id": "5108761",
+      "time": "2026-09-23 09:24:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：當地時間22日13時過後，與特朗普總統)舉行了日美首腦會談，就廣泛領域的合作以及地區形勢進行了紮實的討論。關於日美兩國共同高度重視並推進的經濟安全保障，在AI、半導體、重要礦物等領域，確認了為贏得技術競爭、提升韌性而開展合作的決心，並決定進一步加強這一合作。此外，關於關稅相關的日美間協議，再次確認了穩步實施的重要性，並一致同意雙方推進合作。"
+    },
+    {
+      "id": "5108760",
+      "time": "2026-09-23 09:23:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統辦公室：李在明與特朗普確認深化核潛艇、核燃料再處理、造船合作及戰時指揮權移交的承諾。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609233882087395",
+      "time": "2026-09-23 09:22:37",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展80億元7天逆回購操作】9月23日訊息，央行今日開展80億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:01a0cbda-e047-7118-8653-bea8ae80b54f",
+      "time": "2026-09-23 09:21:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong indices opened mixed on Sept 23: HSI opened down 22.91 points, or 0.09%, at 25,064.84; Hang Seng Tech Index opened up 0.65 point, or 0.01%, at 4,438.86; Hang Seng China Enterprises Index (HSCEI) opened down 6.05 points, or 0.07%, at 8,356.55; Red Chip Index opened up 4.28 points, or 0.11%, at 4,034.25."
+    },
+    {
+      "id": "5108759",
+      "time": "2026-09-23 09:21:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠1,020.0億元人民幣。"
+    },
+    {
+      "id": "mkt:01a0cbda-b5e0-7118-8653-b530dce4946e",
+      "time": "2026-09-23 09:21:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "06809.HK",
+        "Impact bullish",
+        "03223.HK"
+      ],
+      "text": "Hong Kong stocks opened: Hang Seng Index down 0.09%, Hang Seng Tech Index up 0.01%. Semiconductor names led gains: Lanqi Technology (06809.HK) +3.36%, Junzheng Co. (03223.HK) +3.07% at the open."
+    },
+    {
+      "id": "5108758",
+      "time": "2026-09-23 09:21:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科泰電源等在寧德成立智慧裝置公司】企查查APP顯示，近日，科泰智慧裝置（寧德）有限公司成立，經營範圍包含發電機及發電機組製造；集裝箱製造；集裝箱銷售；集裝箱維修；配電開關控制裝置製造等。企查查股權穿透顯示，該公司由科泰電源等共同持股。"
+    },
+    {
+      "id": "5108757",
+      "time": "2026-09-23 09:21:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與李在明重申深化核潛艇領域合作的意願。"
+    },
     {
       "id": "5108756",
       "time": "2026-09-23 09:21:15",
