@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-24 04:11:23",
-  "count": 12898,
+  "updated": "2026-09-24 04:15:10",
+  "count": 12895,
   "items": [
+    {
+      "id": "mkt:01a0cfe7-f537-7118-8670-f611ed8f6ac7",
+      "time": "2026-09-24 04:14:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK foreign secretary says warnings from leaders in artificial intelligence must not be ignored."
+    },
+    {
+      "id": "5110556",
+      "time": "2026-09-24 04:14:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣表示，不能忽視人工智慧領域領軍者發出的警告。"
+    },
     {
       "id": "mkt:01a0cfe2-544b-7118-8670-ece599ee28f9",
       "time": "2026-09-24 04:08:31",
@@ -117141,65 +117157,6 @@
         "觀點"
       ],
       "text": "花旗集團：花旗銀行將基本貸款利率上調至 7.00%，自 2026 年 9 月 17 日起生效。"
-    },
-    {
-      "id": "5098392",
-      "time": "2026-09-17 04:14:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：小企業破產法案在眾議院獲得透過，該法案提高可申請破產救濟的債務上限。"
-    },
-    {
-      "id": "mkt:01a0abda-bbf6-7118-85c9-43d1bc3d809f",
-      "time": "2026-09-17 04:13:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Market news: US small-business bankruptcy bill passed the House."
-    },
-    {
-      "id": "mkt:01a0abd9-3301-7118-85c9-3a9ccf28b9f1",
-      "time": "2026-09-17 04:12:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【India cuts export windfall tax on gasoline, diesel and jet fuel】India's government lowered the export windfall tax on petroleum products, effective Sept. 16: gasoline from 1.5 rupee per litre to 0.5 rupee per litre; jet fuel (aviation turbine fuel) from 19 rupee per litre to 15 rupee per litre; diesel from 25 rupee per litre to 20 rupee per litre."
-    },
-    {
-      "id": "te:markets:584347",
-      "time": "2026-09-17 04:11:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips After Fed Rate Hike — The TSX shed 0.3% to close at 35,491 on Wednesday following the US Fed’s widely expected decision to raise its benchmark rate by 25 bps to a 3.75%-4% range. Major banks were mostly lower, with RBC down 0.5%. Gold prices fell following the FOMC decision. Miners also traded mostly lower, with WPM erasing earlier gains to fall 1.9%, while Franco-Nevada shed 1.1%. Energy stocks weighed on the index as oil prices retreated, with Canadian Natural down 3.3% and Suncor off 3.6%. Elsewhere, European Commission President von der Leyen said the EU is opening the door for Canada to become its first “associate member,” with cooperation across manufacturing, AI, critical minerals and energy. The move comes amid an escalation in the US-Canada trade war after talks collapsed last month."
-    },
-    {
-      "id": "mkt:01a0abd8-9b32-7118-85c9-368207e5cb2a",
-      "time": "2026-09-17 04:11:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Japan & APAC",
-        "Europe & UK",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【China, Japan trimmed U.S. Treasury holdings in July; UK added】U.S. Treasury data show Japan held $1.104 tln in U.S. Treasuries in July, down $13 bln from June; China held $618 bln, down $15 bln; the UK held $998 bln, up $58 bln."
     }
   ]
 }
