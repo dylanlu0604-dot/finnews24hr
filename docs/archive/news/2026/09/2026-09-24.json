@@ -1,7 +1,35 @@
 {
   "date": "2026-09-24",
-  "count": 212,
+  "count": 215,
   "items": [
+    {
+      "id": "mkt:01a0cfc9-dea0-7118-8670-a31de58b43f8",
+      "time": "2026-09-24 03:41:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N",
+        "Impact bullish"
+      ],
+      "text": "Market sources say Shell (SHEL.N) and partners are preparing to approve a plan to double the capacity of a Canadian LNG project."
+    },
+    {
+      "id": "mkt:01a0cfc9-d62a-7118-8670-9ed727ef08c6",
+      "time": "2026-09-24 03:41:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's foreign minister said the international community needs a common framework to manage AI risks."
+    },
+    {
+      "id": "5110538",
+      "time": "2026-09-24 03:40:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官就CNN、MS NOW以及Politico針對特朗普實施的白宮媒體採訪禁令提起的憲法第一修正案相關訴訟舉行聽證。"
+    },
     {
       "id": "5110537",
       "time": "2026-09-24 03:39:54",

@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-24 03:40:49",
+  "updated": "2026-09-24 03:44:35",
   "count": 12906,
   "items": [
+    {
+      "id": "mkt:01a0cfc9-dea0-7118-8670-a31de58b43f8",
+      "time": "2026-09-24 03:41:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SHEL.N",
+        "Impact bullish"
+      ],
+      "text": "Market sources say Shell (SHEL.N) and partners are preparing to approve a plan to double the capacity of a Canadian LNG project."
+    },
+    {
+      "id": "mkt:01a0cfc9-d62a-7118-8670-9ed727ef08c6",
+      "time": "2026-09-24 03:41:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's foreign minister said the international community needs a common framework to manage AI risks."
+    },
+    {
+      "id": "5110538",
+      "time": "2026-09-24 03:40:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官就CNN、MS NOW以及Politico針對特朗普實施的白宮媒體採訪禁令提起的憲法第一修正案相關訴訟舉行聽證。"
+    },
     {
       "id": "5110537",
       "time": "2026-09-24 03:39:54",
@@ -117284,44 +117312,6 @@
         "MKT News"
       ],
       "text": "Zelenskiy says Ukraine is preparing talks with partners in the US on advancing peace negotiations and on energy, food security and arms; Kyiv will receive a new support package focused on strengthening air-defense capabilities."
-    },
-    {
-      "id": "te:economy:584344",
-      "time": "2026-09-17 03:42:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kuwait",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Kuwait Central Bank Holds Key Rate at 3.50% — The Central Bank of Kuwait held its key discount rate at 3.50% in September 2026, stating that current data reflected “the soundness and strength of monetary and financial stability” in the country. Gulf oil and gas exporters generally follow the Fed’s lead on rate moves, as most regional currencies are pegged to the US dollar. The Kuwaiti dinar is the exception, as it is pegged to a basket of currencies that includes the dollar. Most central banks in the Gulf Cooperation Council raised key interest rates following the US Federal Reserve’s decision to hike. Kuwait’s economy is expected to contract 8.1% this year, as the Iran war disrupted energy shipments through the effective closure of the Strait of Hormuz, damaged energy production facilities, and reduced traffic, affecting tourism and business across the Gulf region."
-    },
-    {
-      "id": "mkt:01a0abbc-98c6-7118-85c8-7183634012f6",
-      "time": "2026-09-17 03:40:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International oil prices fell sharply on the 16th】At the close on the 16th, NYMEX October light crude futures fell $3.40 to $102.43 a barrel, down 3.21%. ICE Brent November futures fell $2.92 to $105.83 a barrel, down 2.69%."
-    },
-    {
-      "id": "mkt:01a0abbc-878b-7118-85c8-6977e2d7493d",
-      "time": "2026-09-17 03:40:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Tasnim reported a major fire at an oil facility in Kirkuk province, northern Iraq; an oil-products storage warehouse caught fire and emergency crews are battling the blaze."
     }
   ]
 }
