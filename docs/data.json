@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-24 04:15:10",
+  "updated": "2026-09-24 04:18:59",
   "count": 12895,
   "items": [
+    {
+      "id": "te:economy:586241",
+      "time": "2026-09-24 04:18:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Argentina Retail Sales Growth Accelerates — Argentina’s retail sales surged 23% year-on-year to ARS 707.8 billion in July 2026, accelerating from a 13.4% increase in June. Sales of furniture, home décor, and household textiles rose the most, at 51.7%, followed by sportswear and accessories (46.3%), entertainment and leisure (45.1%), food courts, food outlets, and kiosks (29.3%), and bookstores and stationery (24.3%). Sales increased 26% in Buenos Aires and 23.9% across the 24 districts of Greater Buenos Aires. Meanwhile, sales in the Pampean Region rose 17.6%, while the Cuyo Region recorded a 17% increase. Sales in the Northern and Patagonia regions increased 22.9% and 30.8%, respectively."
+    },
+    {
+      "id": "5110557",
+      "time": "2026-09-24 04:17:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮經濟顧問哈塞特抨擊近期呼籲加息的美聯儲官員。"
+    },
     {
       "id": "mkt:01a0cfe7-f537-7118-8670-f611ed8f6ac7",
       "time": "2026-09-24 04:14:40",
@@ -117140,23 +117161,6 @@
         "MKT News"
       ],
       "text": "New York Mayor Mandani said he will not participate in protests against Netanyahu's visit to New York."
-    },
-    {
-      "id": "5098394",
-      "time": "2026-09-17 04:16:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "Zipline洽談按200億美元估值融資大約10億美元。"
-    },
-    {
-      "id": "5098393",
-      "time": "2026-09-17 04:15:37",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團：花旗銀行將基本貸款利率上調至 7.00%，自 2026 年 9 月 17 日起生效。"
     }
   ]
 }
