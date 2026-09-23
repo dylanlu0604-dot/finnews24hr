@@ -1,7 +1,52 @@
 {
   "date": "2026-09-23",
-  "count": 1673,
+  "count": 1678,
   "items": [
+    {
+      "id": "mkt:01a0cdcf-71b5-7118-8661-2111677df209",
+      "time": "2026-09-23 18:28:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【BofA Securities: China AI shifting from policy vision to commercial rollout】BofA Securities says China’s AI development is moving from policy vision to commercial reality. The bank notes that, despite gaps in advanced hardware, domestic tech capability and application adoption are rising. Gains in model efficiency and system optimization could enable commercial deployment ahead of full technological self-sufficiency. BofA adds that technological progress and high-profile listings may broaden China’s investable AI universe, creating diversified commercial opportunities for the domestic AI sector and global supply chains."
+    },
+    {
+      "id": "5109695",
+      "time": "2026-09-23 18:28:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五礦資本：擬與實控人簽訂21億元永續債協議】五礦資本公告稱，公司擬與實際控制人中國五礦簽訂《永續債協議》，由中國五礦向公司進行永續債權投資，金額為21億元，期限為5+N年，初始年利率2.98%，滿5年跳息上調80BP後不再調整。本次交易構成關聯交易，尚需公司股東會審議透過。交易完成後公司負債減少、淨資產增加，資產負債率有所降低，對淨利潤不構成重大影響。"
+    },
+    {
+      "id": "5109694",
+      "time": "2026-09-23 18:27:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海天味業：9月23日回購A股及H股股份】海天味業公告稱，2026年9月23日，公司在上交所回購A股24.9952萬股，回購價區間為34.23元-34.30元/股，成交總金額856.67萬元，該部分股份擬持作庫存股，用於登出減資及/或員工持股計劃或股權激勵；同日在港交所回購H股10萬股，回購價區間為27.14港元-27.46港元/股，成交總金額273.16萬港元，該部分股份擬登出。截至2026年9月23日，公司H股累計回購717.16萬股，佔購回授權獲批日已發行H股的2.4626%，購回授權下可回購H股總數為2912.244萬股。"
+    },
+    {
+      "id": "5109693",
+      "time": "2026-09-23 18:27:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：Vulcan將為美國軍方無人機發展計劃供應稀土磁鐵。"
+    },
+    {
+      "id": "5109692",
+      "time": "2026-09-23 18:26:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同濟科技：全資子公司聯合中標8.10億元工程總承包專案】同濟科技公告稱，公司全資子公司上海同濟建設有限公司與上海天華建築設計有限公司聯合中標金山新城JSC1-0403單元3-02-01地塊商品房專案-工程總承包專案，中標價格8.10億元，其中施工價格7.98億元，施工週期750天。該專案為新建商品房專案，總建築面積約12.32萬平方米。截至公告披露日，上海同濟建設有限公司已完成合同簽署，專案工期較長，預計對公司當期營業收入、利潤影響有限。"
+    },
     {
       "id": "5109691",
       "time": "2026-09-23 18:23:27",
