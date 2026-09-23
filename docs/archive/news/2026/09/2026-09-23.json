@@ -1,7 +1,131 @@
 {
   "date": "2026-09-23",
-  "count": 778,
+  "count": 791,
   "items": [
+    {
+      "id": "mkt:01a0cbeb-ad25-7118-8654-b59f8a7b0753",
+      "time": "2026-09-23 09:40:15",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share photovoltaic processing-equipment sector rose; Jinchen hit the daily limit, while Laplace, Aotewi, Jiejia Weichuang, Gaoce and Liancheng CNC also advanced."
+    },
+    {
+      "id": "mkt:01a0cbeb-8104-7118-8654-a8aa0fe23a56",
+      "time": "2026-09-23 09:40:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share vehicle manufacturers sector rallied; Ankai Bus hit the daily limit, while Zotye Auto, Haima Automobile, JAC Motors, BAIC BluePark and King Long Motor advanced."
+    },
+    {
+      "id": "5108795",
+      "time": "2026-09-23 09:39:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CRO概念反覆活躍 義翹神州漲超10%】CRO概念反覆活躍，義翹神州漲超10%，南華生物觸及漲停，益諾思、奧翔藥業、博騰股份、和元生物跟漲。"
+    },
+    {
+      "id": "mkt:01a0cbeb-2164-7118-8654-a1d6ef4b10af",
+      "time": "2026-09-23 09:39:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign minister said he expressed hope for a rapid restoration of peace and stability in the Middle East, and that he and UAE Foreign Minister Abdullah agreed to maintain close communication to ensure last November's state visit by South Korea's president to the UAE yields substantive results."
+    },
+    {
+      "id": "mkt:01a0cbea-f3a8-7118-8654-9db4feecfd20",
+      "time": "2026-09-23 09:39:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Alibaba Cloud launches enterprise-grade Agent platform AgentCore】Alibaba Cloud said at its Yunqi Conference it launched AgentCore, an enterprise-grade Agent platform designed to boost enterprise productivity via more native human–AI collaboration and expanded Agent-building and governance capabilities."
+    },
+    {
+      "id": "te:markets:585859",
+      "time": "2026-09-23 09:39:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Prices Drop Amid US-Iran Diplomacy Hopes — UK natural gas prices dropped below 180 pence per therm on Wednesday, their lowest since September 4th, as renewed US-Iran talks revived hopes for a diplomatic resolution. President Donald Trump said US officials had a very good meeting with Iranian representatives on the sidelines of the UN gathering, though no further details were provided. Tehran also reportedly signaled a willingness to reopen the Strait of Hormuz within seven days if Washington eases military pressure and lifts its blockade. Rising numbers of LNG tankers and crude carriers using alternative routes have also alleviated some supply concerns. However, uncertainty surrounding the conflict and the outlook for energy transportation remains. Europe’s gas storage facilities are around 69% full, well below the 85% five-year seasonal average, leaving the market vulnerable ahead of the winter heating season."
+    },
+    {
+      "id": "mkt:01a0cbea-bbb4-7118-8654-959be04053e9",
+      "time": "2026-09-23 09:39:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean foreign minister Zhao Xian met UAE foreign minister Abdullah in New York today; Abdullah said he hopes to expand cooperation with South Korea in defense, health, culture and trade."
+    },
+    {
+      "id": "5108794",
+      "time": "2026-09-23 09:39:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【汽車整車板塊直線拉昇，安凱客車漲停】汽車整車板塊直線拉昇，安凱客車漲停，眾泰汽車、海馬汽車、江淮汽車、北汽藍谷、金龍汽車等紛紛走高。"
+    },
+    {
+      "id": "5108793",
+      "time": "2026-09-23 09:39:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "5500個五年期澳門私家車往來港澳常規配額9月24日起申請。（大灣區之聲）"
+    },
+    {
+      "id": "5108792",
+      "time": "2026-09-23 09:39:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股房地產板塊異動拉昇】華遠控股、我愛我家觸及漲停，中華企業、華麗家族、世聯行、萬科A、特發服務跟漲。"
+    },
+    {
+      "id": "5108791",
+      "time": "2026-09-23 09:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲釋出企業級Agent平臺AgentCore】雲棲大會期間，阿里雲釋出了企業級Agent平臺AgentCore，旨在透過更加原生的人機協作方式，以及更完整的Agent構建和治理的平臺能力，提升企業的生產力。"
+    },
+    {
+      "id": "mkt:01a0cbe9-c60b-7118-8654-8d463bb73789",
+      "time": "2026-09-23 09:38:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Tesla"
+      ],
+      "text": "【Musk: Asking Questions Will Be Core Competitive Skill in AI Era】Sept 23 — Tesla CEO Elon Musk said in an interview that education for the AI era should be broad, combining humanities and arts with science and engineering to build a solid general-knowledge foundation. He added that to instruct robots people must learn to structure questions; broader knowledge improves one’s ability to ask questions — essentially prompt engineering."
+    },
+    {
+      "id": "5108790",
+      "time": "2026-09-23 09:38:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北汽福田與濰柴動力簽署專項戰略合作協議】9月21日，北汽福田與濰柴動力簽署專項戰略合作協議。根據協議，雙方將在核心零部件配套協同、新能源產品聯合研發、智慧網聯技術融合等關鍵領域開展全方位、深層次務實合作。"
+    },
     {
       "id": "mkt:01a0cbe8-9436-7118-8654-8662324400cc",
       "time": "2026-09-23 09:36:52",

@@ -1,7 +1,131 @@
 {
-  "updated": "2026-09-23 09:37:32",
+  "updated": "2026-09-23 09:41:23",
   "count": 13379,
   "items": [
+    {
+      "id": "mkt:01a0cbeb-ad25-7118-8654-b59f8a7b0753",
+      "time": "2026-09-23 09:40:15",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share photovoltaic processing-equipment sector rose; Jinchen hit the daily limit, while Laplace, Aotewi, Jiejia Weichuang, Gaoce and Liancheng CNC also advanced."
+    },
+    {
+      "id": "mkt:01a0cbeb-8104-7118-8654-a8aa0fe23a56",
+      "time": "2026-09-23 09:40:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share vehicle manufacturers sector rallied; Ankai Bus hit the daily limit, while Zotye Auto, Haima Automobile, JAC Motors, BAIC BluePark and King Long Motor advanced."
+    },
+    {
+      "id": "5108795",
+      "time": "2026-09-23 09:39:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CRO概念反覆活躍 義翹神州漲超10%】CRO概念反覆活躍，義翹神州漲超10%，南華生物觸及漲停，益諾思、奧翔藥業、博騰股份、和元生物跟漲。"
+    },
+    {
+      "id": "mkt:01a0cbeb-2164-7118-8654-a1d6ef4b10af",
+      "time": "2026-09-23 09:39:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign minister said he expressed hope for a rapid restoration of peace and stability in the Middle East, and that he and UAE Foreign Minister Abdullah agreed to maintain close communication to ensure last November's state visit by South Korea's president to the UAE yields substantive results."
+    },
+    {
+      "id": "mkt:01a0cbea-f3a8-7118-8654-9db4feecfd20",
+      "time": "2026-09-23 09:39:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Alibaba Cloud launches enterprise-grade Agent platform AgentCore】Alibaba Cloud said at its Yunqi Conference it launched AgentCore, an enterprise-grade Agent platform designed to boost enterprise productivity via more native human–AI collaboration and expanded Agent-building and governance capabilities."
+    },
+    {
+      "id": "te:markets:585859",
+      "time": "2026-09-23 09:39:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Prices Drop Amid US-Iran Diplomacy Hopes — UK natural gas prices dropped below 180 pence per therm on Wednesday, their lowest since September 4th, as renewed US-Iran talks revived hopes for a diplomatic resolution. President Donald Trump said US officials had a very good meeting with Iranian representatives on the sidelines of the UN gathering, though no further details were provided. Tehran also reportedly signaled a willingness to reopen the Strait of Hormuz within seven days if Washington eases military pressure and lifts its blockade. Rising numbers of LNG tankers and crude carriers using alternative routes have also alleviated some supply concerns. However, uncertainty surrounding the conflict and the outlook for energy transportation remains. Europe’s gas storage facilities are around 69% full, well below the 85% five-year seasonal average, leaving the market vulnerable ahead of the winter heating season."
+    },
+    {
+      "id": "mkt:01a0cbea-bbb4-7118-8654-959be04053e9",
+      "time": "2026-09-23 09:39:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean foreign minister Zhao Xian met UAE foreign minister Abdullah in New York today; Abdullah said he hopes to expand cooperation with South Korea in defense, health, culture and trade."
+    },
+    {
+      "id": "5108794",
+      "time": "2026-09-23 09:39:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【汽車整車板塊直線拉昇，安凱客車漲停】汽車整車板塊直線拉昇，安凱客車漲停，眾泰汽車、海馬汽車、江淮汽車、北汽藍谷、金龍汽車等紛紛走高。"
+    },
+    {
+      "id": "5108793",
+      "time": "2026-09-23 09:39:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "5500個五年期澳門私家車往來港澳常規配額9月24日起申請。（大灣區之聲）"
+    },
+    {
+      "id": "5108792",
+      "time": "2026-09-23 09:39:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股房地產板塊異動拉昇】華遠控股、我愛我家觸及漲停，中華企業、華麗家族、世聯行、萬科A、特發服務跟漲。"
+    },
+    {
+      "id": "5108791",
+      "time": "2026-09-23 09:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲釋出企業級Agent平臺AgentCore】雲棲大會期間，阿里雲釋出了企業級Agent平臺AgentCore，旨在透過更加原生的人機協作方式，以及更完整的Agent構建和治理的平臺能力，提升企業的生產力。"
+    },
+    {
+      "id": "mkt:01a0cbe9-c60b-7118-8654-8d463bb73789",
+      "time": "2026-09-23 09:38:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Tesla"
+      ],
+      "text": "【Musk: Asking Questions Will Be Core Competitive Skill in AI Era】Sept 23 — Tesla CEO Elon Musk said in an interview that education for the AI era should be broad, combining humanities and arts with science and engineering to build a solid general-knowledge foundation. He added that to instruct robots people must learn to structure questions; broader knowledge improves one’s ability to ask questions — essentially prompt engineering."
+    },
+    {
+      "id": "5108790",
+      "time": "2026-09-23 09:38:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北汽福田與濰柴動力簽署專項戰略合作協議】9月21日，北汽福田與濰柴動力簽署專項戰略合作協議。根據協議，雙方將在核心零部件配套協同、新能源產品聯合研發、智慧網聯技術融合等關鍵領域開展全方位、深層次務實合作。"
+    },
     {
       "id": "mkt:01a0cbe8-9436-7118-8654-8662324400cc",
       "time": "2026-09-23 09:36:52",
@@ -121912,133 +122036,6 @@
         "03347.HK"
       ],
       "text": "Hong Kong-listed pharma outsourcing stocks rallied: 06821.HK up over 4%, 03759.HK up over 3%, 03347.HK and 02359.HK also higher."
-    },
-    {
-      "id": "5096308",
-      "time": "2026-09-16 09:40:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【文化傳媒板塊區域性走高，內蒙新華觸及漲停】文化傳媒板塊區域性走高，內蒙新華觸及漲停，風語築、中國出版、城市傳媒跟漲。"
-    },
-    {
-      "id": "5096307",
-      "time": "2026-09-16 09:40:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "40年期日本國債收益率上升1.0個基點，至4.220%。"
-    },
-    {
-      "id": "mkt:01a0a7de-f970-7118-85a7-96f61693afb0",
-      "time": "2026-09-16 09:40:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share CPO sector firmed after choppy trading; Zhongci Electronics and Aohong Electronics both hit daily trading limits, Weiergao advanced more than 12%, Yongding Co. rose over 8%, and Alade gained over 5%."
-    },
-    {
-      "id": "em:qqyh_zgyh:202609163875690495",
-      "time": "2026-09-16 09:39:50",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【潘功勝：豐富宏觀審慎管理的工具箱 維護股市、債市、匯市等金融市場平穩執行】《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷提升金融服務實體經濟適配性》。其中指出，健全覆蓋全面的宏觀審慎管理體系，進一步提升金融體系的穩定性和韌性。在宏觀層面把握好經濟增長、經濟結構調整和金融風險防範的動態平衡。穩妥化解重點領域風險。繼續做好金融支援地方政府融資平臺債務風險化解工作。"
-    },
-    {
-      "id": "5096306",
-      "time": "2026-09-16 09:39:49",
-      "tags": [
-        "觀點",
-        "央行",
-        "其他"
-      ],
-      "text": "【潘功勝：拓展中央銀行宏觀審慎和金融穩定功能，維護股市、債市、匯市等金融市場平穩執行】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，健全覆蓋全面的宏觀審慎管理體系，進一步提升金融體系的穩定性和韌性。在宏觀層面把握好經濟增長、經濟結構調整和金融風險防範的動態平衡。穩妥化解重點領域風險。繼續做好金融支援地方政府融資平臺債務風險化解工作。穩妥有序推進重點地區和重點機構風險化解，嚴肅財經紀律、市場紀律和監管規則。健全金融穩定保障體系。強化系統性金融風險的監測、評估和預警。拓展中央銀行宏觀審慎和金融穩定功能，豐富宏觀審慎管理的工具箱，維護股市、債市、匯市等金融市場平穩執行。"
-    },
-    {
-      "id": "5096305",
-      "time": "2026-09-16 09:39:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股光通訊股走強 海光芯正漲近6%】截至發稿，海光芯正(01191.HK)漲5.87%，劍橋科技(06166.HK)漲2.47%，長飛光纖光纜(06869.HK)漲2.14%。"
-    },
-    {
-      "id": "5096304",
-      "time": "2026-09-16 09:39:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華曙高科：金屬3D列印技術助力平陸運河攻克船閘緩衝難題】華曙高科官微訊息，9月16日，平陸運河正式通航。據悉，在該項世紀工程建設中，武漢理工大學陳雲教授團隊實現水利工程領域技術突破，首次將金屬3D列印技術應用在船閘油缸迷宮式緩衝套上。其中，該緩衝套分為兩款規格，依託華曙高科4鐳射FS350M裝置，歷經165小時連續列印一體成形，該技術已於2025年透過驗收，攻克高速過載船閘閥門啟閉緩衝難題。此次金屬3D列印技術在迷宮式緩衝套製造中的成功應用，是增材製造技術在水利工程高階裝備領域的里程碑式突破。"
-    },
-    {
-      "id": "5096303",
-      "time": "2026-09-16 09:39:03",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行"
-      ],
-      "text": "【潘功勝：發展中國的財富管理市場，支援資管行業健康有序發展】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，聚焦服務經濟結構轉型升級需要，持續建設規範、開放、有活力、有韌性的現代化金融市場。建設和發展多類別、多層次的金融市場體系，進一步豐富金融市場業態。發展股權市場和債券市場“科技板”。發展中國的財富管理市場，支援資管行業健康有序發展。推動金融市場基礎設施互聯互通，穩妥發展利率、匯率衍生品，促進市場流動性提升和價格形成。強化國債收益率曲線的基準作用。健全金融市場法治體系，推進發行交易、登記結算、稅收等制度最佳化完善，維護金融市場秩序，培育良好的市場生態。穩步推進金融領域制度型開放，進一步提升中國金融市場的國際化水平。建設並完善多渠道、廣覆蓋的跨境支付體系。統籌發展離岸人民幣市場。支援上海提升跨境金融、離岸金融服務能力。鞏固香港離岸人民幣業務樞紐地位。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202609163875676246",
-      "time": "2026-09-16 09:38:09",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【潘功勝：持續推進貨幣政策框架轉型 構建科學穩健的貨幣政策體系】《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷提升金融服務實體經濟適配性》。其中指出，持續推進貨幣政策框架轉型，構建科學穩健的貨幣政策體系。不斷最佳化貨幣政策中間變數，淡化對數量目標的關注，特別是對貸款單一渠道的關注，把金融總量更多作為觀測性、參考性、預期性指標。更加註重發揮價格型調控的作用，健全市場化的利率形成、調控和傳導機制。"
-    },
-    {
-      "id": "mkt:01a0a7dd-24be-7118-85a7-8eb6a9b72df0",
-      "time": "2026-09-16 09:38:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-shares fiber-optic sector surged; Huamai Technology hit the daily limit. Zhishang Technology rose over 11%, Jiepute gained more than 7%, Yongding Co. and Jiuzhou Yiguai climbed over 5%, while Changxin Bochuang and Tefa Information also advanced."
-    },
-    {
-      "id": "mkt:01a0a7dd-0b60-7118-85a7-81dbad5fb180",
-      "time": "2026-09-16 09:37:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【Pan Gongsheng: Slower growth in financial aggregates helps keep macro leverage broadly stable】PBOC Governor Pan Gongsheng wrote in Qiushi that growth in China’s financial aggregates has slowed, which supports keeping macro leverage broadly stable. He said the recent rapid rise in macro leverage reflected countercyclical policy that boosted financial aggregate and debt growth while low inflation weighed on nominal GDP. The financing market has shifted from supply constraints to demand constraints; effective financing demand can be met and social financing conditions remain relatively loose. He urged balancing short- and long-term aims and warned against financial aggregate growth outpacing real-economy demand, which could create idle funds, lift macro leverage further, impede clearance of excess capacity and inefficient firms, and hurt economic efficiency."
-    },
-    {
-      "id": "5096302",
-      "time": "2026-09-16 09:37:50",
-      "tags": [
-        "觀點",
-        "央行",
-        "其他"
-      ],
-      "text": "【潘功勝：強化政策協同配合，提升對國民經濟重點領域和薄弱環節的金融服務質效】9月16日，《求是》刊發央行行長潘功勝的署名文章，題為《深刻認識中國金融結構變遷 提升金融服務實體經濟適配性》。其中指出，強化政策協同配合，提升對國民經濟重點領域和薄弱環節的金融服務質效。加強金融“五篇大文章”工作統籌，指導金融機構提升服務能力，豐富金融產品，強化資訊科技支撐，最佳化金融資源配置。加快構建與科技創新相適應的體制機制，探索科技金融領域資訊開放共享和資料融合運用，提升金融支援科技創新的效能。最佳化結構性貨幣政策工具設計和管理，堅持聚焦重點、合理適度、有進有退，以市場化方式激勵引導金融機構最佳化資金投向。加強政策協同配合，聚焦融資擔保、風險分擔等方向，放大政策激勵效能。加強與產業政策協同，引導金融機構科學評估風險，分類施策、有扶有控，抑制部分行業“內卷式”競爭。"
-    },
-    {
-      "id": "5096301",
-      "time": "2026-09-16 09:37:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【PCB概念再度拉昇 澳弘電子4連板】早盤PCB概念再度拉昇，澳弘電子4連板，威爾高漲超10%，一博科技、金祿電子、中京電子、奧士康等跟漲。"
     }
   ]
 }
