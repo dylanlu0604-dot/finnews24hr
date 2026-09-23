@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-24 06:48:00",
+  "updated": "2026-09-24 06:51:43",
   "count": 12834,
   "items": [
+    {
+      "id": "mkt:01a0d075-4d9c-7118-8672-2f0345638e07",
+      "time": "2026-09-24 06:49:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's presidential office said President Lee stated Hanwha Group's Philadelphia shipyard will build warships for the United States."
+    },
     {
       "id": "5110610",
       "time": "2026-09-24 06:45:54",
@@ -116565,14 +116573,6 @@
         "國際"
       ],
       "text": "美國眾議院已獲得足夠票數透過資料中心成本法案，投票仍在進行。"
-    },
-    {
-      "id": "5098512",
-      "time": "2026-09-17 06:49:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "賽富時給出 2030 財年 630 億美元的營收預測。"
     }
   ]
 }

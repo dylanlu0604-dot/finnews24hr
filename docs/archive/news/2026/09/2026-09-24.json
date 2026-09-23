@@ -1,7 +1,15 @@
 {
   "date": "2026-09-24",
-  "count": 347,
+  "count": 348,
   "items": [
+    {
+      "id": "mkt:01a0d075-4d9c-7118-8672-2f0345638e07",
+      "time": "2026-09-24 06:49:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's presidential office said President Lee stated Hanwha Group's Philadelphia shipyard will build warships for the United States."
+    },
     {
       "id": "5110610",
       "time": "2026-09-24 06:45:54",
