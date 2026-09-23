@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-23 13:37:33",
-  "count": 13291,
+  "updated": "2026-09-23 13:41:55",
+  "count": 13297,
   "items": [
+    {
+      "id": "5109056",
+      "time": "2026-09-23 13:41:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌3%，現報4952.00元。"
+    },
+    {
+      "id": "5109055",
+      "time": "2026-09-23 13:40:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "EQT推出中東平臺，開設阿布扎比辦事處。"
+    },
+    {
+      "id": "mkt:01a0ccc7-9b7b-7118-8658-e5f942515ea5",
+      "time": "2026-09-23 13:40:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Spain is considering capping natural gas prices to curb electricity bills, market sources said."
+    },
+    {
+      "id": "5109054",
+      "time": "2026-09-23 13:39:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "蔚來汽車：9月23日，科技行政旗艦SUV——蔚來ES9完成了第30,000臺新車交付。蔚來創始人、董事長、CEO李斌親自向ES9第30,000臺使用者——蘇州蘇映檢視像軟體科技有限公司董事長何銀軍先生交付新車。"
+    },
+    {
+      "id": "mkt:01a0ccc6-bdc5-7118-8658-d8cc0325b844",
+      "time": "2026-09-23 13:39:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【China's Jin Taiyang targets semiconductor market with CMP slurry】On Sept. 23, China's Jin Taiyang said it will continue focusing on its polishing-materials business and use CMP slurry to enter the semiconductor sector, accelerating a shift toward a platform company in high-end semiconductor polishing materials and components."
+    },
+    {
+      "id": "5109053",
+      "time": "2026-09-23 13:39:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三暉電氣等在岳陽新設具身智慧產投基金】企查查APP顯示，近日，岳陽三暉具身智慧產業投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由三暉電氣等共同出資。"
+    },
+    {
+      "id": "5109052",
+      "time": "2026-09-23 13:38:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙考慮限制天然氣價格以抑制電費。"
+    },
+    {
+      "id": "5109051",
+      "time": "2026-09-23 13:37:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【碩貝德：持續關注提前開發XPO、NPO、CPO等新的散熱產品】有投資者向碩貝德（300322.SZ）提問，9月17日在華為全聯接大會2026上，華為輪值董事長汪濤表示，華為昇騰960超節點將是業界首個採用NPO的超節點，其中Atlas960液冷超節點計劃2027年Q3上市請問公司的液冷產品有供應華為客戶嗎？NPO超節點專案公司有接觸客戶麼？9月23日，公司回答表示，公司持續關注提前開發XPO、NPO、CPO等新的散熱產品。"
+    },
     {
       "id": "5109050",
       "time": "2026-09-23 13:36:53",
@@ -121273,26 +121342,6 @@
         "S&P500"
       ],
       "text": "【Indian bond traders uneasy as Reserve Bank of India liquidity withdrawal risks prolonging slump】ICICI Securities' primary dealers and IDFC First Bank forecast India's benchmark 10-year government bond yield could breach its May 2026 high and rise to 7.25% by Dec 31, a three-year peak. Citigroup has moved up its expectation for a Reserve Bank of India rate hike from December to October. Traders warn the RBI's withdrawal of excess system cash, alongside rising inflation and a global bond-market selloff, could trigger a sustained downturn. Ashhish Vaidya, head of funds for DBS Group in Mumbai, said: \"The outlook is chaotic; it's hard to judge the yield peak. Conditions have clearly changed; traders are repositioning for tougher supply and higher inflation.\""
-    },
-    {
-      "id": "5096643",
-      "time": "2026-09-16 13:40:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加沙城一建築倒塌致至少9人死亡】卡達半島電視臺16日報道，巴勒斯坦加沙地帶加沙城一棟建築倒塌，造成至少9人死亡、近100人失蹤。（新華社）"
-    },
-    {
-      "id": "te:economy:584093",
-      "time": "2026-09-16 13:40:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kyrgyzstan",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Kyrgyzstan Industrial Output Contracts in August — Industrial production in Kyrgyzstan fell 9.6% year-on-year in August 2026, reversing a 6.3% increase in the previous month and marking the first decline after ten consecutive months of annual growth. Production dropped in manufacturing (-11.2% vs 0.4% in July), weighed down by declines in food products, textiles, computers, electronic and optical equipment, and other manufacturing, repair, and installation of machinery and equipment. Output also declined in mining and quarrying (-3.6% vs 38.5%), as well as electricity, gas, steam, and air conditioning supply (-9.8% vs 4.7%). Meanwhile, growth eased in water supply, waste treatment, and recovery of secondary raw materials (19.6% vs 20.3%). Over January-August, industrial output expanded 8.8%, slowing from 12.9% in the same period last year."
     }
   ]
 }
