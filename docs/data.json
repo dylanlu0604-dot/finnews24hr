@@ -1,7 +1,54 @@
 {
-  "updated": "2026-09-24 03:48:22",
-  "count": 12906,
+  "updated": "2026-09-24 03:52:09",
+  "count": 12908,
   "items": [
+    {
+      "id": "5110544",
+      "time": "2026-09-24 03:51:28",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "菲利普莫里斯公司與奧馳亞集團股價上漲。"
+    },
+    {
+      "id": "5110543",
+      "time": "2026-09-24 03:50:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國監管機構計劃加快菸草口含袋產品的審批。"
+    },
+    {
+      "id": "5110542",
+      "time": "2026-09-24 03:50:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國監管機構計劃加快新型電子煙產品的審批流程。"
+    },
+    {
+      "id": "mkt:01a0cfd0-a685-7118-8670-bb83fc1f32bb",
+      "time": "2026-09-24 03:49:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.49% to 101.096 on 23rd】Broad dollar (DXY) rose 0.49% to 101.096 on the 23rd. EUR/USD fell to 1.1387 from 1.1442; GBP/USD fell to 1.3243 from 1.3335. USD/JPY rose to 158.27 from 157.50; USD/CHF to 0.8244 from 0.8212; USD/CAD to 1.4097 from 1.4068; USD/SEK to 9.9169 from 9.8487."
+    },
+    {
+      "id": "5110541",
+      "time": "2026-09-24 03:48:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【圖恩認為特朗普願意聽取有關AI監管護欄的意見】美國參議院多數黨領袖圖恩表示，儘管特朗普公開反對限制人工智慧技術，但他在該問題上並未固執己見。圖恩表示，幾周前AI議題熱度很高時，他曾與特朗普私下交談。他認為特朗普很多強硬的反對言論，針對的是圍繞該話題出現的恐慌情緒與不實言論。圖恩理解特朗普的立場，更傾向由企業自行搭建系統安全方案，而非由國會或政府出手監管，依靠專家提供指導。"
+    },
     {
       "id": "mkt:01a0cfce-a4cd-7118-8670-b730f6c5cb55",
       "time": "2026-09-24 03:47:01",
@@ -117279,34 +117326,6 @@
         "其他"
       ],
       "text": "【胡塞武裝釋出擊落沙特F15戰機影片】當地時間9月16日晚，葉門胡塞武裝控制的馬西拉電視臺釋出影片，據稱內容為當天胡塞武裝擊落沙特一架F-15戰鬥機。胡塞武裝當天早些時候稱，在葉門東北部馬裡卜省，用一枚自制地對空導彈，擊落一架正在執行“敵對行動”的沙特F-15戰鬥機。據稱兩批沙特F-15和“颱風”戰鬥機隨後進入馬裡卜領空搜尋被擊落戰機的殘骸，胡塞武裝再次發射防空導彈，迫使這些戰機撤離。（CCTV國際時訊）"
-    },
-    {
-      "id": "5098369",
-      "time": "2026-09-17 03:50:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：一位瞭解相關情況的地區訊息人士證實，美國外交官上週末在阿曼的美國大使館與胡塞武裝代表會面，討論了紅海局勢緊張問題。"
-    },
-    {
-      "id": "mkt:01a0abc4-b39a-7118-85c8-9def02d8162d",
-      "time": "2026-09-17 03:49:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Wash's 28-minute press conference; predecessors averaged 54 minutes】A 2021 Federal Reserve study covering the Bernanke, Yellen and Powell eras found FOMC press conferences averaged about 54 minutes total, with roughly 10 minutes of opening remarks, about 44 minutes of media Q&A and an average of ~22 questions including follow-ups. A separate Fed study noted press conferences that begin ~30 minutes after the FOMC statement typically run about one hour. Wash's first press conference after taking office in 2026 lasted about 42 minutes; his latest in September ran roughly 28 minutes."
-    },
-    {
-      "id": "mkt:01a0abc4-81cf-7118-85c8-924e41c9e643",
-      "time": "2026-09-17 03:49:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Chris Zaccarelli, CIO of Northlight Asset Management, said history shows that once the Fed begins raising rates it typically follows with multiple hikes, but it is unclear whether the Fed will raise at consecutive meetings or pause and keep rates unchanged at some meetings between hikes."
     }
   ]
 }
