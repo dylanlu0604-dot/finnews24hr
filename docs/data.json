@@ -1,7 +1,187 @@
 {
-  "updated": "2026-09-23 18:56:57",
-  "count": 13243,
+  "updated": "2026-09-23 19:00:48",
+  "count": 13241,
   "items": [
+    {
+      "id": "mkt:01a0cdec-8236-7118-8662-05c23ffd442f",
+      "time": "2026-09-23 19:00:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HSBC sets STOXX Europe 600 target at 760 for end-2027."
+    },
+    {
+      "id": "5109759",
+      "time": "2026-09-23 19:00:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：日本現政權已成為威脅地區和平穩定突出因素】外交部發言人郭嘉昆23日表示，日本現政權不僅否認侵略歷史、美化戰爭罪行，還持續強軍擴武，加速“再軍事化”，圖謀拋棄“無核三原則”，修改“和平憲法”，公然挑戰戰後國際秩序，已經成為威脅地區和平穩定的突出因素。當日例行記者會上，有記者問：當地時間9月22日，日本首相高市早苗在聯合國大會發言稱，日本作為和平國家堅持專守防衛政策，為國際社會的和平與繁榮貢獻力量，將推進“無核武器世界”，呼籲刪除《聯合國憲章》中“敵國條款”。請問中方對此有何評論？“相比日方怎麼說，國際社會更關注日方怎麼做。”郭嘉昆說。他表示，戰後日本“和平國家”理念是建立在深刻反省歷史、徹底同軍國主義切割的基礎之上。但事實上，日本現政權不僅否認侵略歷史、美化戰爭罪行，還持續強軍擴武，加速“再軍事化”，圖謀拋棄“無核三原則”，修改“和平憲法”，公然挑戰戰後國際秩序，已經成為威脅地區和平穩定的突出因素。（新華社）"
+    },
+    {
+      "id": "mkt:01a0cdec-561d-7118-8661-fd88738cb701",
+      "time": "2026-09-23 19:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA mortgage purchase index for the week ended Sep 18 fell to 154.9 from 156.2 the prior week."
+    },
+    {
+      "id": "mkt:01a0cdec-4b25-7118-8661-f68f2940eb11",
+      "time": "2026-09-23 19:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA 30-year fixed mortgage rate rose to 7.12% in the week ended Sept. 18 from 6.97% the previous week."
+    },
+    {
+      "id": "mkt:01a0cdec-4614-7118-8661-e7dea20b6607",
+      "time": "2026-09-23 19:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. MBA mortgage applications index fell to 227.3 in the week to Sep 18 from 230.8 a week earlier."
+    },
+    {
+      "id": "mkt:01a0cdec-4615-7118-8661-eb572f8dbdaf",
+      "time": "2026-09-23 19:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MBA mortgage refinance index for the week ended Sept. 18: 611, down from 627.1 the prior week."
+    },
+    {
+      "id": "mkt:01a0cdec-2495-7118-8661-c5f4afae53e6",
+      "time": "2026-09-23 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Purchase Index (Sep.18) | actual 154.9 | previous 156.2"
+    },
+    {
+      "id": "mkt:01a0cdec-2498-7118-8661-ccfe80854672",
+      "time": "2026-09-23 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Refinance Index (Sep.18) | actual 611 | previous 627.1"
+    },
+    {
+      "id": "mkt:01a0cdec-2499-7118-8661-d5382ef78a0b",
+      "time": "2026-09-23 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Applications Composite Index (Sep.18) | actual 227.3 | previous 230.8"
+    },
+    {
+      "id": "mkt:01a0cdec-249c-7118-8661-dad0b9ae4145",
+      "time": "2026-09-23 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA 30-Year Mortgage Rate (Sep.18) | actual 7.12% | previous 6.97%"
+    },
+    {
+      "id": "mkt:01a0cdeb-e5c0-7118-8661-bc6a41ee67f4",
+      "time": "2026-09-23 18:59:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Report showed Ghana's 2025/26 cocoa output reached 771,000 tonnes, above a prior estimate of 650,000 tonnes."
+    },
+    {
+      "id": "te:markets:586101",
+      "time": "2026-09-23 18:59:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Urals Oil Prices Fall — Russian Urals crude fell to around $107 a barrel, down from above $120 on September 16, as weaker shipments, new US sanctions and the gradual restoration of Saudi Arabian oil flows increase competition in key markets. Russia’s overseas crude exports averaged 3.53 million barrels a day in the four weeks through September 20, while weekly shipments fell more sharply following a halt in cargoes from the Black Sea port of Novorossiysk. Saudi Arabia’s efforts to restart its East-West pipeline have also pressured Russian grades by increasing alternative supplies. Meanwhile, President Donald Trump signed legislation allowing tariffs of up to 100% on imports from Russia’s five largest energy customers, raising concerns among Indian refiners. India could reduce Russian crude imports to 20%-30% of total purchases, potentially cutting demand by more than 1 million barrels a day. At the same time, attacks on Russian refineries have disrupted nearly 1 million barrels a day of processing capacity."
+    },
+    {
+      "id": "5109758",
+      "time": "2026-09-23 18:59:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "滙豐銀行將2027年年末的斯托克歐洲600指數目標點位設定為760點。"
+    },
+    {
+      "id": "5109757",
+      "time": "2026-09-23 18:58:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "香港特區政府預計，10月“黃金週”期間將有129萬內地旅客訪港。"
+    },
+    {
+      "id": "5109756",
+      "time": "2026-09-23 18:58:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "中遠海運：與上海郵政攜手打造的跨國郵政海運業務正式落地，從上海出發到達秘魯的官方郵政海運新通道也全面打通。這條直航快線，全程海運僅需約28天，比過去快了20天以上。"
+    },
+    {
+      "id": "5109755",
+      "time": "2026-09-23 18:57:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信諾維：擬用5.10億元募集資金向兩家全資子公司增資】信諾維公告稱，為保障新藥研發募投專案順利推進，公司擬使用募集資金向兩家全資子公司增資，其中向上海信諾維生物醫藥有限公司增資5.00億元，向山東信諾維醫藥科技有限公司增資1000萬元，合計5.10億元，增資資金僅限用於相應募投專案，不得挪作他用。本次增資不涉及關聯交易，不構成重大資產重組，不會改變公司合併報表範圍。本次增資事項已經公司董事會審議透過，無需提交股東會審議。"
+    },
+    {
+      "id": "5109754",
+      "time": "2026-09-23 18:57:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "滙豐將2026年末斯托克600指數目標點位從670上調至680點。"
+    },
+    {
+      "id": "5109753",
+      "time": "2026-09-23 18:57:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "JD Sports股價回吐業績公佈後漲幅，轉為下跌3%。"
+    },
+    {
+      "id": "5109752",
+      "time": "2026-09-23 18:57:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普帶馬克龍逛紐約私人公寓，滿屋金燦燦】9月21日，特朗普在自己位於紐約特朗普大廈的公寓接待了抵美參加聯合國大會的法國總統馬克龍，特朗普的公寓佈滿金色裝飾，從天花板、立柱到各類傢俱，隨處可見。"
+    },
+    {
+      "id": "mkt:01a0cde9-5cbc-7118-8661-b6894c1eb061",
+      "time": "2026-09-23 18:56:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ethiopia's Tigray regional government said its forces have entered a state of defensive war."
+    },
+    {
+      "id": "mkt:01a0cde9-277b-7118-8661-ab2a5adb9940",
+      "time": "2026-09-23 18:56:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AMAC: 1,890 new private funds filed in August; new filings 72.402 bln yuan】Asset Management Association of China (AMAC) data show 1,890 private funds were newly filed in August 2026, totaling 72.402 bln yuan. As of end‑August 2026, 145,219 private funds were active, with combined AUM of 25.75 tln yuan."
+    },
     {
       "id": "5109751",
       "time": "2026-09-23 18:56:17",
@@ -120612,219 +120792,6 @@
         "XAUUSD"
       ],
       "text": "Refinitiv, citing sources, said US officials held talks with Houthi representatives in Oman last weekend after Houthi forces seized a strategic area on the Red Sea coast."
-    },
-    {
-      "id": "em:jjsj_mgsj:202609163876180827",
-      "time": "2026-09-16 19:00:41",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國MBA抵押貸款申請指數上週下降4.1%。"
-    },
-    {
-      "id": "5097420",
-      "time": "2026-09-16 19:00:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "安德龍（Anderon）獲得 10 億美元晶片法案獎勵資金。"
-    },
-    {
-      "id": "5097419",
-      "time": "2026-09-16 19:00:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST應急：申請撤銷其他風險警示】ST應急(300527)9月16日公告，公司於2026年9月16日召開第四屆董事會第四次會議，同意公司向深交所申請撤銷股票交易其他風險警示。"
-    },
-    {
-      "id": "5097418",
-      "time": "2026-09-16 19:00:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守107美元/桶，日內跌1.74%。"
-    },
-    {
-      "id": "mkt:01a0a9df-de25-7118-85b6-cb27d53f9388",
-      "time": "2026-09-16 19:00:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "XHB",
-        "Impact bearish"
-      ],
-      "text": "US MBA 30-year fixed mortgage rate rose to 6.97% in the week to Sept. 11 from 6.85% the prior week."
-    },
-    {
-      "id": "5097417",
-      "time": "2026-09-16 19:00:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非7月零售額同比增長3.4%；此前預期為增長1.0%。"
-    },
-    {
-      "id": "5097416",
-      "time": "2026-09-16 19:00:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4350美元/盎司，日內漲1.31%。"
-    },
-    {
-      "id": "mkt:01a0a9df-c807-7118-85b6-c7df70901cfa",
-      "time": "2026-09-16 19:00:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. MBA Refinance Index for the week ended Sept. 11: 627.1, prior 687.3."
-    },
-    {
-      "id": "5097415",
-      "time": "2026-09-16 19:00:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至9月11日當週MBA30年期固定抵押貸款利率 6.97%，前值6.85%。美國至9月11日當週MBA抵押貸款購買指數 156.2，前值157.5。美國至9月11日當週MBA抵押貸款申請活動指數 230.8，前值240.6。美國至9月11日當週MBA抵押貸款再融資活動指數 627.1，前值687.3。"
-    },
-    {
-      "id": "mkt:01a0a9df-c655-7118-85b6-bc41facb3a7f",
-      "time": "2026-09-16 19:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US MBA mortgage purchase index for week to Sep 11: 156.2, prior 157.5."
-    },
-    {
-      "id": "mkt:01a0a9df-c5c2-7118-85b6-b4ad318ee2ec",
-      "time": "2026-09-16 19:00:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US MBA mortgage applications index for the week ending Sep 11 was 230.8, down from 240.6 the prior week."
-    },
-    {
-      "id": "5097414",
-      "time": "2026-09-16 19:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報98.68美元/桶。"
-    },
-    {
-      "id": "mkt:01a0a9df-a0e4-7118-85b6-9d741bd2007d",
-      "time": "2026-09-16 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Purchase Index (Sep.11) | actual 156.2 | previous 157.5"
-    },
-    {
-      "id": "mkt:01a0a9df-a0e5-7118-85b6-a4ba7ce9c9cb",
-      "time": "2026-09-16 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA 30-Year Mortgage Rate (Sep.11) | actual 6.97% | previous 6.85%"
-    },
-    {
-      "id": "mkt:01a0a9df-a0e9-7118-85b6-a851f4c68e1f",
-      "time": "2026-09-16 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Applications Composite Index (Sep.11) | actual 230.8 | previous 240.6"
-    },
-    {
-      "id": "mkt:01a0a9df-a0dc-7118-85b6-965593afba80",
-      "time": "2026-09-16 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Refinance Index (Sep.11) | actual 627.1 | previous 687.3"
-    },
-    {
-      "id": "5097413",
-      "time": "2026-09-16 18:59:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "Salesforce：已在測試例項上驗證修復方案生效。"
-    },
-    {
-      "id": "5097412",
-      "time": "2026-09-16 18:59:51",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根大通：美聯儲若維持利率不變，有可能對市場造成“衝擊”】摩根大通資產管理國際固定收益首席投資官伊恩・斯特利表示，美聯儲若在週三會議上選擇維持利率不變，有可能對市場造成 “衝擊”。斯特利稱，交易員幾乎篤定美聯儲會加息，如果選擇按兵不動，美債大機率會遭遇拋售。斯特利週三表示：“如果美聯儲不加息，顯然會給市場帶來巨大沖擊，長端收益率曲線對此絕對不會友好。”利率互換市場當前定價顯示，週三美聯儲加息機率為 95%，市場還計價年內將迎來第二次加息。他表示，更大的問題在於，市場會解讀為美聯儲將長期維持利率不變，還是新一輪加息週期開啟。"
-    },
-    {
-      "id": "5097411",
-      "time": "2026-09-16 18:59:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "百時美施貴寶公司宣佈，派發季度股息，每股派0.63美元。"
-    },
-    {
-      "id": "mkt:01a0a9de-49de-7118-85b6-88ed8114efce",
-      "time": "2026-09-16 18:58:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say PwC will cut bonuses at its Swiss unit to address AI-related and cost pressures."
-    },
-    {
-      "id": "mkt:01a0a9de-3e9a-7118-85b6-860382c13b05",
-      "time": "2026-09-16 18:58:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "【UK prime minister Burnham says ready to take tough decisions to keep economy stable】UK prime minister Burnham said on Wednesday he is prepared to take tough decisions after inflation rose to a five-month high of 3.1% in August, which he attributed to the Iran war. He said the increase was worrying but the broader economy remained resilient."
-    },
-    {
-      "id": "5097410",
-      "time": "2026-09-16 18:58:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "普華永道瑞士分部受人工智慧衝擊與收費壓力影響，擬削減獎金。"
-    },
-    {
-      "id": "5097409",
-      "time": "2026-09-16 18:57:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江淮表示堅定與華為聚力造好車】9月16日下午，尊界S800典藏大觀與尊界V800安徽首批交付儀式在尊界超級工廠體驗中心舉行。 江汽集團董事長項興初為不同領域的6位企業家車主交付新車，並表示：“今天的交付儀式不是終點，而是全新的起點，尊界在超豪華賽道的長期投入不會止步。後續我們還將持續加大產品矩陣佈局，覆蓋SUV、運動豪華等更多細分場景。我們將堅定跟華為、供應鏈夥伴一起造好車、賣好車、服務好車主，持續為大家帶來更多超出期待的產品。”"
     }
   ]
 }
