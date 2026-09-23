@@ -1,7 +1,27 @@
 {
   "date": "2026-09-24",
-  "count": 348,
+  "count": 350,
   "items": [
+    {
+      "id": "te:markets:586254",
+      "time": "2026-09-24 06:54:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Trade Slightly Higher — The NZX 50 gained 14 points, or 0.1%, to 13,836 in Thursday morning trade, erasing losses from the previous session, mainly buoyed by financials, consumer staples, and utilities. Optimism over the Trump-Xi summit lifted sentiment as AI and tariffs were expected to be discussed at the meeting. However, higher oil prices capped the gain due to escalating tensions in the Middle East after Iran's president vowed never to surrender. In the US, Wall Street closed in the red as a surge in Treasury yields drove a market sell-off and raised expectations for a Fed interest rate hike. Among early gainers were Briscoe Group (0.9%), Contact Energy (0.9%), Hallenstein Glasson (0.8%), Infratil (0.7%), and EBOS Group (0.6%). Meanwhile, Fonterra Shareholders' Fund rose 1.4% after posting a full-year profit following the sale of its Mainland brands to French dairy giant Lactalis."
+    },
+    {
+      "id": "5110611",
+      "time": "2026-09-24 06:53:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特預測：這一次，如果（和伊朗）達成協議，我保證他們會遵守協議。"
+    },
     {
       "id": "mkt:01a0d075-4d9c-7118-8672-2f0345638e07",
       "time": "2026-09-24 06:49:03",

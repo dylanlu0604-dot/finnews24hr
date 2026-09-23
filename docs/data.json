@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-24 06:51:43",
-  "count": 12834,
+  "updated": "2026-09-24 06:55:30",
+  "count": 12831,
   "items": [
+    {
+      "id": "te:markets:586254",
+      "time": "2026-09-24 06:54:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Trade Slightly Higher — The NZX 50 gained 14 points, or 0.1%, to 13,836 in Thursday morning trade, erasing losses from the previous session, mainly buoyed by financials, consumer staples, and utilities. Optimism over the Trump-Xi summit lifted sentiment as AI and tariffs were expected to be discussed at the meeting. However, higher oil prices capped the gain due to escalating tensions in the Middle East after Iran's president vowed never to surrender. In the US, Wall Street closed in the red as a surge in Treasury yields drove a market sell-off and raised expectations for a Fed interest rate hike. Among early gainers were Briscoe Group (0.9%), Contact Energy (0.9%), Hallenstein Glasson (0.8%), Infratil (0.7%), and EBOS Group (0.6%). Meanwhile, Fonterra Shareholders' Fund rose 1.4% after posting a full-year profit following the sale of its Mainland brands to French dairy giant Lactalis."
+    },
+    {
+      "id": "5110611",
+      "time": "2026-09-24 06:53:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特預測：這一次，如果（和伊朗）達成協議，我保證他們會遵守協議。"
+    },
     {
       "id": "mkt:01a0d075-4d9c-7118-8672-2f0345638e07",
       "time": "2026-09-24 06:49:03",
@@ -116533,46 +116553,6 @@
         "其他"
       ],
       "text": "【胡塞武裝：沙特40次空襲葉門 兩批戰機遭攔截後撤退】葉門胡塞武裝16日說，過去24小時內，沙烏地阿拉伯戰機對葉門3個省份發動40次空襲。胡塞武裝軍事發言人葉海亞·薩雷亞當日在社交媒體平臺發表宣告說，F-15戰鬥機從沙特西南部城市海米斯穆謝特的空軍基地起飛，對葉門西南部塔伊茲省、東北部馬裡卜省和西北部哈傑省發動上述空襲。此外，薩雷亞當晚在電視臺發表宣告說，胡塞武裝“不久前擊落一架沙特的武裝偵察無人機”，當時這架無人機正在馬裡卜省上空執行“敵對行動”。薩雷亞還說，當地時間18時40分，兩批F-15戰鬥機進入葉門西部沿海的塔伊茲省穆哈上空，胡塞武裝使用數枚自行製造的地對空導彈實施攔截，迫使這些戰機撤退。沙特方面尚未就胡塞武裝的說法作出回應。（新華社）"
-    },
-    {
-      "id": "5098516",
-      "time": "2026-09-17 06:55:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加總理訪歐 欲向美國傳遞訊號】歐盟委員會主席馮德萊恩16日在歐洲議會上發表2026年度“盟情諮文”時表示，願同到訪的加拿大總理馬克·卡尼就加拿大成為歐盟首個“聯席成員”一同努力。加拿大總理卡尼此次訪問歐洲，提出加拿大正尋求與歐盟建立一種 “獨特的聯盟關係”。專家分析指出，在美加貿易爭端持續的背景下，加拿大此舉既是主動調整戰略、推進對外關係多元化，也是向美國釋放訊號，以此增加未來美加貿易談判的主動權。（央視新聞）"
-    },
-    {
-      "id": "5098515",
-      "time": "2026-09-17 06:53:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院透過法案，旨在將電網升級成本轉嫁給資料中心。"
-    },
-    {
-      "id": "mkt:01a0ac6c-2f7b-7118-85cb-1c2be405173e",
-      "time": "2026-09-17 06:52:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. House has secured sufficient votes to pass a data-center cost bill; voting remains underway."
-    },
-    {
-      "id": "5098514",
-      "time": "2026-09-17 06:52:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【農商銀行增資擴股提速，資本補充夯實發展根基】近日，四川、山西、湖南多地農商銀行獲批增加註冊資本。金融監管總局資料顯示，截至二季度末，農商銀行整體資本充足率12.91%，低於15.26%的銀行業整體水平，部分地區農商銀行資本充足率顯著承壓。透過增資擴股等方式補充核心一級資本，已成為不少農商銀行最佳化股權結構、增強風險抵禦能力的重要手段。（中證報）"
-    },
-    {
-      "id": "5098513",
-      "time": "2026-09-17 06:52:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院已獲得足夠票數透過資料中心成本法案，投票仍在進行。"
     }
   ]
 }
