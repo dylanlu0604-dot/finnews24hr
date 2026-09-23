@@ -1,7 +1,43 @@
 {
   "date": "2026-09-24",
-  "count": 319,
+  "count": 323,
   "items": [
+    {
+      "id": "5110601",
+      "time": "2026-09-24 06:19:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國柴油價格上漲1.2%，交易員正在權衡美國可能限制出口的情況。"
+    },
+    {
+      "id": "mkt:01a0d05a-1788-7118-8671-d00057c04ccd",
+      "time": "2026-09-24 06:19:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said there is only one \"czar\" in artificial intelligence: President Trump."
+    },
+    {
+      "id": "5110600",
+      "time": "2026-09-24 06:17:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國正考慮推出一項舉措，在海外推廣由美元儲備支撐的穩定幣。"
+    },
+    {
+      "id": "5110598",
+      "time": "2026-09-24 06:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗約80%至90%的國際航班已停航。"
+    },
     {
       "id": "mkt:01a0d056-700d-7118-8671-c8f962db8224",
       "time": "2026-09-24 06:15:20",
