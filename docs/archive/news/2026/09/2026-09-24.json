@@ -1,7 +1,46 @@
 {
   "date": "2026-09-24",
-  "count": 336,
+  "count": 340,
   "items": [
+    {
+      "id": "mkt:01a0d06b-00ce-7118-8672-11d8718e0930",
+      "time": "2026-09-24 06:37:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Bessent: oil to ease once supply restored】U.S. Treasury Secretary Bessent told Fox News the Iran-related conflict has triggered an energy supply shock but he expects oil prices to fall once supply disruptions ease. He addressed inflation and said the private sector has added more than 1 mln jobs and real wages have risen, and he expects the economy to continue growing."
+    },
+    {
+      "id": "mkt:01a0d06a-bb69-7118-8672-0fdcafcd79e6",
+      "time": "2026-09-24 06:37:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the UAE has been a close partner, assisting in the closure of a branch of Egypt’s second-largest bank suspected of transferring $1.8 billion to Iran."
+    },
+    {
+      "id": "5110608",
+      "time": "2026-09-24 06:37:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們的阿聯酋合作伙伴十分配合；在這家埃及第二大銀行的分支機構向伊朗輸送18億美元資金後，阿聯酋方面協助我們關停了這些分行。"
+    },
+    {
+      "id": "5110607",
+      "time": "2026-09-24 06:36:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：全美科技界與銀行業巨頭明天將出席晚宴。"
+    },
     {
       "id": "5110606",
       "time": "2026-09-24 06:35:56",

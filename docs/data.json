@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-24 06:36:37",
-  "count": 12836,
+  "updated": "2026-09-24 06:40:25",
+  "count": 12837,
   "items": [
+    {
+      "id": "mkt:01a0d06b-00ce-7118-8672-11d8718e0930",
+      "time": "2026-09-24 06:37:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Bessent: oil to ease once supply restored】U.S. Treasury Secretary Bessent told Fox News the Iran-related conflict has triggered an energy supply shock but he expects oil prices to fall once supply disruptions ease. He addressed inflation and said the private sector has added more than 1 mln jobs and real wages have risen, and he expects the economy to continue growing."
+    },
+    {
+      "id": "mkt:01a0d06a-bb69-7118-8672-0fdcafcd79e6",
+      "time": "2026-09-24 06:37:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the UAE has been a close partner, assisting in the closure of a branch of Egypt’s second-largest bank suspected of transferring $1.8 billion to Iran."
+    },
+    {
+      "id": "5110608",
+      "time": "2026-09-24 06:37:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我們的阿聯酋合作伙伴十分配合；在這家埃及第二大銀行的分支機構向伊朗輸送18億美元資金後，阿聯酋方面協助我們關停了這些分行。"
+    },
+    {
+      "id": "5110607",
+      "time": "2026-09-24 06:36:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：全美科技界與銀行業巨頭明天將出席晚宴。"
+    },
     {
       "id": "5110606",
       "time": "2026-09-24 06:35:56",
@@ -116560,36 +116599,6 @@
         "市場"
       ],
       "text": "【私募五大策略業績分化，量化多頭領跑】8月A股市場震盪反彈，帶動私募產品淨值普遍修復。第三方機構私募排排網資料顯示，截至8月31日，在該平臺有業績記錄的12597只私募產品8月平均收益率達4.53%，今年以來的平均收益率提升至4.99%，超六成產品實現正收益。五大策略表現顯著分化：8月股票策略以5.44%的平均收益率領跑，多資產策略、組合基金策略、期貨及衍生品策略的平均收益率分別為3.84%、3.47%和3.14%，債券策略當月的平均收益率為0.44%。 更值得關注的是股票策略內部的結構性分化——量化多頭單月平均收益率達9.71%，年內收益率由負轉正至6.62%，而主觀多頭8月平均收益率僅3.82%。有私募人士表示，這種分化的本質是各策略貝塔來源不同，並非簡單的“誰強誰弱”。（中證報）"
-    },
-    {
-      "id": "te:markets:584357",
-      "time": "2026-09-17 06:40:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Barley Rises by 3.99% — Top commodity gainers are Barley (3.99%), Oat (2.88%) and Butter (0.83%). Biggest losers are Lumber (-1.60%) and Coffee (-1.41%)."
-    },
-    {
-      "id": "5098507",
-      "time": "2026-09-17 06:39:02",
-      "tags": [
-        "公司",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【花旗退出做空美元兌加元建議 稱對美聯儲判斷有誤】花旗集團策略師週三在研報中表示，在美聯儲立場似乎比預期更偏鷹後，他們已止損退出此前做空美元兌加元的建議。“我們最初於9月2日建倉這一交易，當時預計美聯儲的鷹派程度不會超過市場定價，而當時加拿大央行的表態則顯得更為鷹派，“以Daniel Tobon為首的策略師表示，“但我們對美聯儲的判斷有誤，今天的會議令市場對進一步加息的預期升溫，推動美元走高”。9月2日，該團隊表示在1.3854做空美元/加元，目標位為1.35，止損位為1.3990；週三紐約午後，美元兌加元報1.3990左右，日內漲0.5%。"
-    },
-    {
-      "id": "5098506",
-      "time": "2026-09-17 06:38:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：馬克・沃爾特與託德・博利以 9.5 億英鎊出售切爾西足球俱樂部股份。"
     }
   ]
 }
