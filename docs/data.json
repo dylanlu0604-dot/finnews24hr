@@ -1,7 +1,93 @@
 {
-  "updated": "2026-09-23 14:25:09",
-  "count": 13254,
+  "updated": "2026-09-23 14:30:17",
+  "count": 13250,
   "items": [
+    {
+      "id": "te:markets:585937",
+      "time": "2026-09-23 14:29:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Higher Open — European equity markets were set to open higher on Wednesday as oil prices extended their decline on signs of progress in renewed US-Iran talks, easing concerns over higher inflation and interest rates. President Donald Trump said US officials had a “very good” meeting with Iranian envoys, while Tehran said it could reopen the Strait of Hormuz within seven days if the US eases military pressure and lifts its blockade of Iranian ports. Sentiment was also supported by optimism surrounding Thursday’s upcoming US-China summit, which could produce new trade agreements, as well as a rally in technology stocks fueled by renewed interest in the AI trade. In Europe, investors will assess September manufacturing activity data from the Eurozone, Germany, France and the UK, while no major earnings reports are scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both up around 0.3%."
+    },
+    {
+      "id": "5109122",
+      "time": "2026-09-23 14:29:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鐵路中秋國慶假期運輸今日啟動 已累計發售車票9621萬張】記者從中國國家鐵路集團有限公司獲悉，截至今日8時，鐵路12306已累計發售中秋國慶假期運輸車票9621萬張。（上證報）"
+    },
+    {
+      "id": "5109121",
+      "time": "2026-09-23 14:28:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "法蘭克福上市的Verve Group Media股票在法蘭克福早盤交易中下跌3%。"
+    },
+    {
+      "id": "mkt:01a0ccf3-4c59-7118-8659-7c3bfddf6689",
+      "time": "2026-09-23 14:28:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Doubao Work updates task modes, adds Goal and Plan modes】Doubao Work upgraded its task-mode feature, introducing Goal and Plan modes to meet more granular productivity needs."
+    },
+    {
+      "id": "5109120",
+      "time": "2026-09-23 14:28:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "希臘能源部在一份宣告中表示，雪佛龍公司在訪問美國期間向希臘能源部長斯塔夫羅斯·帕帕斯塔夫魯證實，該公司將於 2026 年底前在希臘近海開始地震勘測。"
+    },
+    {
+      "id": "5109118",
+      "time": "2026-09-23 14:26:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普冉股份：2Mbit EEPROM已有產品批次應用於高速寬頻通訊和資料中心】近日，普冉股份（688766.SH）釋出投資者關係活動記錄表。其中提到，AI相關需求已經在公司多個產品和應用領域逐步體現。從公司產品來看，2Mbit EEPROM已有產品批次應用於高速寬頻通訊和資料中心；256Mbit~1Gbit 大容量 NOR Flash已加速匯入 PC、伺服器等大客戶，後續將推廣和應用於智慧音訊/音響、傳統/AI伺服器、新能源車智慧駕駛、ADAS系統、中央域控等場景。此外，大容量 NOR Flash 和 2D NAND 也在向 5G基站、汽車座艙及控制單元、工業自動化控制器、邊緣 AI等場景拓展。"
+    },
+    {
+      "id": "5109117",
+      "time": "2026-09-23 14:26:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國電南自：預計下半年儲能、虛擬電廠業務將實現更大幅度增長】國電南自(600268)在9月23日召開的2026年半年度業績說明會上表示，公司上半年儲能訂單實現較大幅度增長，虛擬電廠業務穩步推進，預計下半年儲能、虛擬電廠業務將實現更大幅度增長。"
+    },
+    {
+      "id": "5109116",
+      "time": "2026-09-23 14:26:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豆包工作功能更新，新增“目標模式”與“計劃模式”】豆包工作升級任務模式功能，新增“目標”與“計劃”兩種模式，以滿足使用者更細分的生產力需求。"
+    },
+    {
+      "id": "5109115",
+      "time": "2026-09-23 14:25:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【傑富瑞：首予中海油田服務“買入”評級，H股目標價11港元】傑富瑞發表報告，首次覆蓋中海油田服務，給予“買入”評級，H股目標價11港元，A股目標價18元。A股目標價基於預測2027年企業價值對EBITDA比率約7.7倍(歷史五年平均值，較鑽井/服務同業保守)與現金流折現的對等權重混合；H股目標價則基於較A股47%的折讓(當前隱含折讓)。該行認為，市場低估了離岸上升週期的持續性，即使其油田服務主導盈利模式日益增長，仍持續將中海油田服務視為鑽井公司。深水增長及液化天然氣帶動的投資支援離岸支出，加上公司對中東波動的免疫性、強勁的裝置利用率及自由現金流產生能力，使其成為結構性的離岸投資標的。"
+    },
+    {
+      "id": "5109114",
+      "time": "2026-09-23 14:24:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯亞旅遊局（KTB）計劃與利益相關方達成合作，以釋放肯亞國內旅遊業的發展潛力。"
+    },
     {
       "id": "5109113",
       "time": "2026-09-23 14:24:32",
@@ -120724,139 +120810,6 @@
         "美聯儲"
       ],
       "text": "【邢自強：9月加息不代表新一輪緊縮起點】邢自強表示，即使9月份加息，加25個基點，更像一種向市場預期妥協的防禦性、風險管控式加息，而不代表新一輪顯著的加息週期的開啟、新一輪大幅緊縮的起點。"
-    },
-    {
-      "id": "te:markets:584113",
-      "time": "2026-09-16 14:30:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.40% Higher — The Nikkei 225 Index rose 257 points or 0.40 percent on Wednesday to close at 63741 points. Leading the gains are JX Holdings (4.67%), Idemitsu Kosan (4.37%) and Screen Holdings (4.12%). Top losers were Mercari Inc (-5.48%), Otsuka Holdings (-4.60%) and Sumitomo Dainippon (-4.20%)."
-    },
-    {
-      "id": "5096703",
-      "time": "2026-09-16 14:29:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南海三高速屯昌段小轎車與重型貨車碰撞致5人死亡，調查報告公佈】4月26日4時32分許，在屯昌縣境內G9811海三高速公路59公里處路段，發生一起小型普通客車與重型倉柵貨車碰撞的較大交通事故，事故共造成5人死亡。9月15日，海南省應急管理廳官網公佈《海三高速屯昌段“4·26”較大道路運輸事故調查報告》。調查報告顯示，經調查認定，海三高速屯昌段“4·26”較大道路運輸事故是一起因貨車嚴重超載、駕駛人分心駕駛、事故後未按規定設定警示標誌，疊加小型客車非法營運等多重違法行為、多環節安全監管缺位共同引發的較大道路交通生產安全責任事故。"
-    },
-    {
-      "id": "te:markets:584111",
-      "time": "2026-09-16 14:29:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Higher Open — European equity markets were poised to open higher on Wednesday as the recent surge in oil prices and global bond yields lost steam, providing some relief for stocks. Oil prices eased from multi-month highs after US crude inventories unexpectedly increased, while bond yields stabilized following their recent climb as investors turned their focus to key central bank decisions this week. The US Federal Reserve is widely expected to raise interest rates later today, which would mark its first hike in roughly three years. Meanwhile, the Bank of England is expected to keep rates unchanged on Thursday, despite fresh data showing UK consumer inflation accelerated to 3.1% in August, its highest level in five months. Elsewhere, markets will await Italy’s final August inflation figures, along with the latest Eurozone data on industrial production and wages. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures gained 0.4% and 0.3%, respectively."
-    },
-    {
-      "id": "5096702",
-      "time": "2026-09-16 14:29:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智界RX獲批L3級自動駕駛道路測試牌照】9月16日，@智界汽車發文稱，智界RX獲批L3級自動駕駛道路測試牌照。"
-    },
-    {
-      "id": "mkt:01a0a8e7-c779-7118-85ae-6aee6b8999c4",
-      "time": "2026-09-16 14:29:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Vietnam advances strategy to mollify Washington; up to 29 deals may be unveiled Sept. 23】Two internal documents and a Reuters report show Vietnam’s leader will visit New York next week and US and Vietnamese firms plan to announce a package of energy, technology, aviation and financial agreements, many of them non-binding. An internal plan lists 29 deals potentially to be unveiled at a Sept. 23 business event attended by the leader; US firms Murphy Oil and Chevron are expected to sign accords with state oil firm PetroVietnam, and ExxonMobil with Vietnam Refining and Petrochemical Company, the country’s second-largest refiner. The trip is intended to advance US-Vietnam trade talks and could finalize a trade deal negotiated for more than a year, but a meeting with President Trump is not confirmed, the White House said."
-    },
-    {
-      "id": "5096701",
-      "time": "2026-09-16 14:29:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度BMW Ventures獲塔塔專案7.29億盧比鋼材供應訂單】9月16日，印度鋼鐵企業BMW Ventures披露，公司從塔塔專案（Tata Projects）獲得兩份採購訂單，合同總金額約7.29億盧比（含稅），將供應FE-550D級熱軋帶肋鋼筋（TMT Steel）。公告顯示，相關鋼材將用於阿達尼集團USCTPP專案的3×800兆瓦電力機組建設。"
-    },
-    {
-      "id": "5096700",
-      "time": "2026-09-16 14:27:30",
-      "tags": [
-        "市場",
-        "觀點",
-        "其他"
-      ],
-      "text": "瑞銀分析師表示，無需對本次預期中的加息過度恐慌，歷史資料顯示，加息週期正式啟動後，股市往往具備較強韌性。"
-    },
-    {
-      "id": "mkt:01a0a8e6-10cc-7118-85ae-6527764fc8e7",
-      "time": "2026-09-16 14:27:24",
-      "tags": [
-        "MKT News",
-        "VJC.VN",
-        "Impact bullish"
-      ],
-      "text": "Documents show Vietjet Airlines is nearing agreement to lease 22 aircraft and has signed an in‑flight internet service contract with SpaceX."
-    },
-    {
-      "id": "mkt:01a0a8e5-c860-7118-85ae-59401b36230d",
-      "time": "2026-09-16 14:27:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Documents show US and Vietnamese companies are expected to announce 29 agreements in New York next week, covering energy, technology, aviation and finance; many are expected to be non-binding. Chevron, ExxonMobil, Citigroup and Qualcomm are among US firms expected to sign deals with Vietnamese partners."
-    },
-    {
-      "id": "5096699",
-      "time": "2026-09-16 14:26:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "檔案顯示，美國與越南企業預計將於下週在紐約簽署29項協議。"
-    },
-    {
-      "id": "5096698",
-      "time": "2026-09-16 14:26:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "檔案顯示，越捷航空即將達成22架飛機的租賃協議，並將與SpaceX簽署飛機網際網路服務合同。"
-    },
-    {
-      "id": "5096695",
-      "time": "2026-09-16 14:26:09",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "檔案顯示，雪佛龍、埃克森美孚、花旗銀行、高通等美國企業預計將與越南合作方簽署協議。"
-    },
-    {
-      "id": "5096694",
-      "time": "2026-09-16 14:25:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海辰儲能釋出新一代鈉電儲能系統 CTO 易梓琦：成本目標至少要和鋰電池相當】海辰儲能今天釋出新一代鈉電儲能一體化解決方案∞Power N4.0MWh，並計劃在2027年正式開啟全鏈條量產交付。海辰儲能董事、技術長易梓琦表示：“鈉電跨越普惠性和可及性兩大門檻，具備了成為能源基礎設施的條件。海辰儲能對新一代鈉電儲能系統設定的成本目標是至少要做到和碳酸鋰價格在 15 萬元一噸時的鋰電池相當。我們希望鈉電能推動電化學儲能從產品變成“新基建”，進入“一毛錢一度電”的時代。“（新浪科技）"
-    },
-    {
-      "id": "mkt:01a0a8e4-39e9-7118-85ae-5598c44566e8",
-      "time": "2026-09-16 14:25:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【SEBI eases arbitrage fund limits, allows temporary unhedged holdings up to 1%】SEBI has relaxed position limits for arbitrage mutual funds, permitting them to hold temporarily up to 1% of a scheme's assets unhedged. The change aims to inject liquidity into the closing auction, which has struggled to attract sufficient participation since its launch on Aug 3. Assets under management in arbitrage funds stood at 3 tln rupees (USD 31bn) at end-August. Previously, funds were required to remain fully hedged, limiting auction participation; under the prior framework price moves in the final 30 minutes created dislocations between spot and futures that arbitrageurs could close, and the shortened closing auction narrowed that intervention window, raising the risk of temporary mismatches."
     }
   ]
 }

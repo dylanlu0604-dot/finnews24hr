@@ -1,7 +1,93 @@
 {
   "date": "2026-09-23",
-  "count": 1222,
+  "count": 1232,
   "items": [
+    {
+      "id": "te:markets:585937",
+      "time": "2026-09-23 14:29:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Higher Open — European equity markets were set to open higher on Wednesday as oil prices extended their decline on signs of progress in renewed US-Iran talks, easing concerns over higher inflation and interest rates. President Donald Trump said US officials had a “very good” meeting with Iranian envoys, while Tehran said it could reopen the Strait of Hormuz within seven days if the US eases military pressure and lifts its blockade of Iranian ports. Sentiment was also supported by optimism surrounding Thursday’s upcoming US-China summit, which could produce new trade agreements, as well as a rally in technology stocks fueled by renewed interest in the AI trade. In Europe, investors will assess September manufacturing activity data from the Eurozone, Germany, France and the UK, while no major earnings reports are scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both up around 0.3%."
+    },
+    {
+      "id": "5109122",
+      "time": "2026-09-23 14:29:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鐵路中秋國慶假期運輸今日啟動 已累計發售車票9621萬張】記者從中國國家鐵路集團有限公司獲悉，截至今日8時，鐵路12306已累計發售中秋國慶假期運輸車票9621萬張。（上證報）"
+    },
+    {
+      "id": "5109121",
+      "time": "2026-09-23 14:28:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "法蘭克福上市的Verve Group Media股票在法蘭克福早盤交易中下跌3%。"
+    },
+    {
+      "id": "mkt:01a0ccf3-4c59-7118-8659-7c3bfddf6689",
+      "time": "2026-09-23 14:28:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Doubao Work updates task modes, adds Goal and Plan modes】Doubao Work upgraded its task-mode feature, introducing Goal and Plan modes to meet more granular productivity needs."
+    },
+    {
+      "id": "5109120",
+      "time": "2026-09-23 14:28:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "希臘能源部在一份宣告中表示，雪佛龍公司在訪問美國期間向希臘能源部長斯塔夫羅斯·帕帕斯塔夫魯證實，該公司將於 2026 年底前在希臘近海開始地震勘測。"
+    },
+    {
+      "id": "5109118",
+      "time": "2026-09-23 14:26:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普冉股份：2Mbit EEPROM已有產品批次應用於高速寬頻通訊和資料中心】近日，普冉股份（688766.SH）釋出投資者關係活動記錄表。其中提到，AI相關需求已經在公司多個產品和應用領域逐步體現。從公司產品來看，2Mbit EEPROM已有產品批次應用於高速寬頻通訊和資料中心；256Mbit~1Gbit 大容量 NOR Flash已加速匯入 PC、伺服器等大客戶，後續將推廣和應用於智慧音訊/音響、傳統/AI伺服器、新能源車智慧駕駛、ADAS系統、中央域控等場景。此外，大容量 NOR Flash 和 2D NAND 也在向 5G基站、汽車座艙及控制單元、工業自動化控制器、邊緣 AI等場景拓展。"
+    },
+    {
+      "id": "5109117",
+      "time": "2026-09-23 14:26:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國電南自：預計下半年儲能、虛擬電廠業務將實現更大幅度增長】國電南自(600268)在9月23日召開的2026年半年度業績說明會上表示，公司上半年儲能訂單實現較大幅度增長，虛擬電廠業務穩步推進，預計下半年儲能、虛擬電廠業務將實現更大幅度增長。"
+    },
+    {
+      "id": "5109116",
+      "time": "2026-09-23 14:26:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豆包工作功能更新，新增“目標模式”與“計劃模式”】豆包工作升級任務模式功能，新增“目標”與“計劃”兩種模式，以滿足使用者更細分的生產力需求。"
+    },
+    {
+      "id": "5109115",
+      "time": "2026-09-23 14:25:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【傑富瑞：首予中海油田服務“買入”評級，H股目標價11港元】傑富瑞發表報告，首次覆蓋中海油田服務，給予“買入”評級，H股目標價11港元，A股目標價18元。A股目標價基於預測2027年企業價值對EBITDA比率約7.7倍(歷史五年平均值，較鑽井/服務同業保守)與現金流折現的對等權重混合；H股目標價則基於較A股47%的折讓(當前隱含折讓)。該行認為，市場低估了離岸上升週期的持續性，即使其油田服務主導盈利模式日益增長，仍持續將中海油田服務視為鑽井公司。深水增長及液化天然氣帶動的投資支援離岸支出，加上公司對中東波動的免疫性、強勁的裝置利用率及自由現金流產生能力，使其成為結構性的離岸投資標的。"
+    },
+    {
+      "id": "5109114",
+      "time": "2026-09-23 14:24:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯亞旅遊局（KTB）計劃與利益相關方達成合作，以釋放肯亞國內旅遊業的發展潛力。"
+    },
     {
       "id": "5109113",
       "time": "2026-09-23 14:24:32",
