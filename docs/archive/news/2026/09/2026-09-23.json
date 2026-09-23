@@ -1,7 +1,150 @@
 {
   "date": "2026-09-23",
-  "count": 2239,
+  "count": 2255,
   "items": [
+    {
+      "id": "5110401",
+      "time": "2026-09-23 23:37:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗提出的條件還包括美國停止相關行動，解除海上封鎖、結束戰爭並釋放被凍結資產。"
+    },
+    {
+      "id": "5110400",
+      "time": "2026-09-23 23:37:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金跌幅擴大，最新下跌 5%，報每盎司 1741.31 美元。"
+    },
+    {
+      "id": "mkt:01a0ceea-27b9-7118-866d-19038bb969f4",
+      "time": "2026-09-23 23:37:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "Major European equity indices closed Sep 23: Germany's DAX down 188.16 pts (-0.73%) at 25,411.85; Britain's FTSE 100 up 1.92 pts (+0.02%) at 10,710.25; France's CAC 40 down 31.50 pts (-0.39%) at 8,123.41; Euro STOXX 50 down 23.87 pts (-0.38%) at 6,300.85; Spain's IBEX 35 down 160.47 pts (-0.81%) at 19,631.33; Italy's FTSE MIB down 79.33 pts (-0.15%) at 52,016.50."
+    },
+    {
+      "id": "5110399",
+      "time": "2026-09-23 23:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：美歐再度加徵關稅的風險仍然顯著。"
+    },
+    {
+      "id": "5110398",
+      "time": "2026-09-23 23:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評美丹格陵蘭協議：協議執行存在複雜化風險，美國仍有可能再度提出對該島實施更直接管控的要求。"
+    },
+    {
+      "id": "5110397",
+      "time": "2026-09-23 23:36:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：美歐之間持續緊張的關係，不斷引發市場對美國對歐洲安全承諾可靠性的質疑。"
+    },
+    {
+      "id": "5110396",
+      "time": "2026-09-23 23:36:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：相關條件包括接受霍爾木茲海峽安全航道，沿岸兩國已就此達成共識。"
+    },
+    {
+      "id": "mkt:01a0cee9-6bdf-7118-866d-110bf483776c",
+      "time": "2026-09-23 23:36:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry spokesman said conditions include accepting a secure shipping-lane arrangement for the Strait of Hormuz, an arrangement he said has been agreed by littoral states on both shores."
+    },
+    {
+      "id": "5110395",
+      "time": "2026-09-23 23:35:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債延續跌勢；英國10年期國債收益率上漲10個基點至5.34%。"
+    },
+    {
+      "id": "5110394",
+      "time": "2026-09-23 23:35:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員古爾斯比：關稅、新冠疫情時期就是這種情況，當前石油領域或許也正在發生類似現象，“我們必須保持謹慎”。"
+    },
+    {
+      "id": "mkt:01a0cee7-c9ea-7118-866d-0c66883976f1",
+      "time": "2026-09-23 23:34:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said a two-hour communication with the United States outlined Tehran's conditions for restoring diplomatic relations."
+    },
+    {
+      "id": "mkt:01a0cee7-c5dc-7118-866d-00eae7b44224",
+      "time": "2026-09-23 23:34:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Federal Reserve official Goolsbee said the pattern seen during tariffs and the COVID shock appears to be playing out in oil markets now, and we should remain cautious."
+    },
+    {
+      "id": "5110393",
+      "time": "2026-09-23 23:34:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：伊朗在這場持續兩小時的溝通中向美方闡明瞭恢復外交的條件。"
+    },
+    {
+      "id": "mkt:01a0cee7-4ac3-7118-866c-fba012e07929",
+      "time": "2026-09-23 23:34:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Goolsbee said a better approach is to assume larger negative supply shocks may have a fairly persistent effect on inf."
+    },
+    {
+      "id": "5110392",
+      "time": "2026-09-23 23:34:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報98.28美元/桶。"
+    },
     {
       "id": "5110391",
       "time": "2026-09-23 23:33:49",
@@ -63,6 +206,15 @@
         "S&P500"
       ],
       "text": "US 4-month Treasury auction on Sept. 23 — stop-out yield 4.135%, prior 4.03%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202609233882797741",
+      "time": "2026-09-23 23:33:03",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國財政部四個月期國庫券中標利率4.135%，投標倍數2.81。"
     },
     {
       "id": "mkt:01a0cee5-fb08-7118-866c-da5886825612",
