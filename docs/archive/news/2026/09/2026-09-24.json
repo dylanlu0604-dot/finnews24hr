@@ -1,7 +1,38 @@
 {
   "date": "2026-09-24",
-  "count": 344,
+  "count": 347,
   "items": [
+    {
+      "id": "5110610",
+      "time": "2026-09-24 06:45:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國總統辦公室表示，總統李在明稱韓華集團費城造船廠將為美國建造軍艦。"
+    },
+    {
+      "id": "te:markets:586252",
+      "time": "2026-09-24 06:45:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Heating Oil Plunges on Export Ban Reports — US heating oil futures sank 2.7% to $4.80 per gallon on Wednesday despite a surge in crude oil prices after reports stated that the Trump administration could ban diesel exports for 90 days. The proposal faces divisions within the administration and the oil industry as market fundamentals clash against high diesel prices ahead of mid-term elections. The US exports around 20% of global diesel, flooding the domestic market with fuel in the short term should the ban pass. Still, should stocks of distillate fuel be refilled, the ban would cut refining capacity at a time that crack spreads continue to extend record highs. Distillate fuel prices had surged to record highs this month as low crude oil supplies from the Middle East and strikes on Russian refineries dampened global availability of fuel. The potential for an export ban from the US were combined with President Trump attempting to orchestrate an energy infrastructure ceasefire between Russia and Ukraine."
+    },
+    {
+      "id": "te:markets:586251",
+      "time": "2026-09-24 06:45:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 4.53% — Top crypto losers are XRP (-4.53%), Binance (-2.74%), Ether (-2.46%) and Bitcoin (-1.97%)."
+    },
     {
       "id": "mkt:01a0d06f-bb2f-7118-8672-237e268c3e06",
       "time": "2026-09-24 06:42:58",

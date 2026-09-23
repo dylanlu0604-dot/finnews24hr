@@ -1,7 +1,38 @@
 {
-  "updated": "2026-09-24 06:44:14",
-  "count": 12840,
+  "updated": "2026-09-24 06:48:00",
+  "count": 12834,
   "items": [
+    {
+      "id": "5110610",
+      "time": "2026-09-24 06:45:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國總統辦公室表示，總統李在明稱韓華集團費城造船廠將為美國建造軍艦。"
+    },
+    {
+      "id": "te:markets:586252",
+      "time": "2026-09-24 06:45:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Heating Oil Plunges on Export Ban Reports — US heating oil futures sank 2.7% to $4.80 per gallon on Wednesday despite a surge in crude oil prices after reports stated that the Trump administration could ban diesel exports for 90 days. The proposal faces divisions within the administration and the oil industry as market fundamentals clash against high diesel prices ahead of mid-term elections. The US exports around 20% of global diesel, flooding the domestic market with fuel in the short term should the ban pass. Still, should stocks of distillate fuel be refilled, the ban would cut refining capacity at a time that crack spreads continue to extend record highs. Distillate fuel prices had surged to record highs this month as low crude oil supplies from the Middle East and strikes on Russian refineries dampened global availability of fuel. The potential for an export ban from the US were combined with President Trump attempting to orchestrate an energy infrastructure ceasefire between Russia and Ukraine."
+    },
+    {
+      "id": "te:markets:586251",
+      "time": "2026-09-24 06:45:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 4.53% — Top crypto losers are XRP (-4.53%), Binance (-2.74%), Ether (-2.46%) and Bitcoin (-1.97%)."
+    },
     {
       "id": "mkt:01a0d06f-bb2f-7118-8672-237e268c3e06",
       "time": "2026-09-24 06:42:58",
@@ -116542,90 +116573,6 @@
         "其他"
       ],
       "text": "賽富時給出 2030 財年 630 億美元的營收預測。"
-    },
-    {
-      "id": "5098511",
-      "time": "2026-09-17 06:47:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美眾議院透過一項針對俄羅斯和伊朗的制裁法案】當地時間9月16日獲悉，美國國會眾議院當天透過一項針對俄羅斯和伊朗的制裁法案，並將其送交美國總統特朗普簽署。該法案名為《2026年林賽·格雷厄姆制裁俄羅斯和伊朗法案》，此前已於8月在參議院獲得透過。據悉，該法案主要針對俄羅斯能源行業，透過對俄羅斯石油和天然的主要購買國採取措施，以削減俄羅斯從能源出口中獲得的收入。此外，應特朗普要求，法案還擴大了針對伊朗武器和能源行業資金來源的制裁授權。（央視新聞）"
-    },
-    {
-      "id": "5098510",
-      "time": "2026-09-17 06:46:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭第二季度GDP超出預期，紐西蘭元兌美元小幅走高。"
-    },
-    {
-      "id": "5098509",
-      "time": "2026-09-17 06:45:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭二季度GDP季環比 0.2%，預期 0.1%，前值 0.8%。\n紐西蘭二季度GDP同比 2.6%，預期 2.2%，前值 1.5%。"
-    },
-    {
-      "id": "mkt:01a0ac65-36f6-7118-85cb-11c43952cf30",
-      "time": "2026-09-17 06:45:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand Q2 GDP YoY 2.6% vs. 2.2% expected; prior revised up to 1.7% from 1.5%."
-    },
-    {
-      "id": "mkt:01a0ac65-31a8-7118-85cb-0b8ddd82b161",
-      "time": "2026-09-17 06:45:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "New Zealand Q2 GDP QoQ 0.2% vs 0.1% expected; prior quarter revised up from 0.8% to 0.9%."
-    },
-    {
-      "id": "mkt:01a0ac65-154a-7118-85ca-ff21f73901d1",
-      "time": "2026-09-17 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | GDP (YoY) (Q2) | actual 2.6% | consensus 2.2% | previous 1.50%"
-    },
-    {
-      "id": "mkt:01a0ac65-154b-7118-85cb-0737ef75d2ea",
-      "time": "2026-09-17 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | GDP (QoQ) (Q2) | actual 0.2% | consensus 0.10% | previous 0.80%"
-    },
-    {
-      "id": "mkt:01a0ac64-995e-7118-85ca-f1423a98c744",
-      "time": "2026-09-17 06:44:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Trump urges Fed chair Kevin Warsh to vote with the Fed board】President Trump said he told Fed Chair Kevin Warsh to vote with the Federal Reserve Board because it 'doesn't matter,' calling the board 'very hostile' and 'very politicized.'"
-    },
-    {
-      "id": "mkt:01a0ac64-864d-7118-85ca-eb96929eca99",
-      "time": "2026-09-17 06:44:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【U.S. House passes Russia sanctions bill, grants president tariff authority on Russian oil and gas imports】The U.S. House passed a Russia sanctions-and-tariffs bill 262-159; the measure will be sent to President Trump for signature. The bill targets Russian officials, companies and financial institutions that support the war in Ukraine and authorizes the president to impose tariffs on major importers of Russian oil and gas. Tariff authority was a key Democratic objection; Democrats warned it could allow the president to designate any country as aiding evasion and impose tariffs of up to 100% without oversight or a sunset clause."
     }
   ]
 }
