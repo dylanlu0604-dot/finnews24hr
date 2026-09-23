@@ -1,7 +1,72 @@
 {
   "date": "2026-09-24",
-  "count": 5,
+  "count": 12,
   "items": [
+    {
+      "id": "5110423",
+      "time": "2026-09-24 00:06:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼海事安全中心：商船 “CAPE DAO” 號遇襲後，該中心已撤離船上船員。此次襲擊造成一名船員遇難。"
+    },
+    {
+      "id": "mkt:01a0cf04-5444-7118-866d-5da140f40bad",
+      "time": "2026-09-24 00:06:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman Maritime Security Centre said one crew member was killed in an attack."
+    },
+    {
+      "id": "mkt:01a0cf04-2c19-7118-866d-50b9f3f2679b",
+      "time": "2026-09-24 00:05:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman Maritime Security Centre says crew of merchant vessel \"CAPE DAO\" were evacuated after the ship was attacked."
+    },
+    {
+      "id": "te:markets:586213",
+      "time": "2026-09-24 00:05:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips on Soaring Yields — The CAC 40 fell 0.4% to close at 8,123 on Wednesday as higher oil prices stoked concerns about inflationary pressures, driving yields higher. Eurozone sovereign yields, including French yields, soared to multi-decade highs as strong economic growth and higher energy prices reinforced expectations that the ECB will continue raising interest rates this year. The Eurozone’s PMI was stronger than expected for both services and manufacturing, while the survey confirmed that soaring energy prices were passed through to output charges. Domestically, flash data showed France’s Composite PMI jumping to 51.2 in September from 48.5 in August, marking its strongest reading since August 2024. Financials closed lower, with BNP Paribas down 1.1% and AXA losing 1.6%. Luxury stocks also weighed, with L’Oreal down 2.3% and LVMH shedding 2.3%. Industrials closed mixed. TotalEnergies rose 1.9% on the oil rebound."
+    },
+    {
+      "id": "5110422",
+      "time": "2026-09-24 00:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統：願意談判合作 不接受強權威脅】當地時間9月23日，伊朗總統佩澤希齊揚在第81屆聯合國大會一般性辯論上發表講話。他表示，伊朗願意談判與合作，但不會接受以強權、制裁或軍事威脅迫使其讓步，和平必須建立在公平、正義、尊嚴和各國平等權利的基礎上。佩澤希齊揚強調，伊朗維護國家安全、主權和和平利用核技術的立場，認為自身防禦力量是避免外部威脅的重要保障，同時否認以霸權方式追求安全。佩澤希齊揚批評一些國家在伊朗核問題、以色列及巴勒斯坦問題上的“雙重標準”，認為持續佔領、侵略和不公會加劇地區衝突。佩澤希齊揚表示，戰爭和軍事力量不能取代國際法、外交與政治對話，他呼籲透過地區合作實現共同安全。（央視新聞）"
+    },
+    {
+      "id": "5110421",
+      "time": "2026-09-24 00:03:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "Experian：成為首款接入谷歌 Gemini 的個人金融應用。"
+    },
+    {
+      "id": "mkt:01a0cf01-8777-7118-866d-4f392b728c90",
+      "time": "2026-09-24 00:02:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Experian said it has become the first personal finance app integrated with Google (GOOG.O)'s Gemini."
+    },
     {
       "id": "mkt:01a0cf00-6656-7118-866d-43c2857256db",
       "time": "2026-09-24 00:01:44",
