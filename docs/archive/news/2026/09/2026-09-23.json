@@ -1,7 +1,86 @@
 {
   "date": "2026-09-23",
-  "count": 1176,
+  "count": 1185,
   "items": [
+    {
+      "id": "mkt:01a0cce0-6917-7118-8659-4763cde411e8",
+      "time": "2026-09-23 14:07:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US DOJ defends Trump's ban on three media outlets, says White House access 'a privilege, not a right'】According to CNBC, the US Department of Justice urged a federal judge not to block Trump's decision to bar MS NOW, CNN and Politico from the White House, saying in a court filing that access 'is a privilege, not a right' and that the Friday ban was prompted by national security concerns. The filing was submitted ahead of a telephonic hearing on Wednesday in the U.S. District Court for the District of Columbia before Judge Timothy Kelly, where the three outlets seek an injunction."
+    },
+    {
+      "id": "5109082",
+      "time": "2026-09-23 14:07:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【機構：美國柴油出口禁令將造成供應短缺、推高油價】能源資料機構Kpler表示，如果美國實施柴油出口禁令，全球柴油供應將陷入緊缺，並立刻推高歐洲、拉美以及美國西海岸的柴油價格。餾分油高階研究分析師戴維·託尼安在9月22日的報告中稱：“美國龐大的出口量暫無替代來源。”他表示，出臺禁令的可能性仍然“不大”，“會讓美國煉油行業蒙受數百萬美元收入損失，還會帶來效率損耗”。Kpler指出，這項潛在出口限制將切斷拉美與西北歐最主要的柴油供應來源。"
+    },
+    {
+      "id": "5109081",
+      "time": "2026-09-23 14:06:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【擬溢價近40%收購控股股東旗下虧損資產 東莞控股回應】東莞控股釋出公告稱，擬以605.42萬元的價格，收購控股股東交控集團持有的東莞市低空經濟發展有限公司65%股權。針對資產虧損卻採用收益法溢價評估的合理性，東莞控股證券事務代表周曉敏在接受記者以投資者身份諮詢時表示，標的公司屬於新興行業，前期佈局與投入較大導致暫時性虧損。其強調，低空經濟公司是東莞市唯一的低空經濟國有控股平臺，擁有經過批覆的航線資源，這類無形資產無法透過資產基礎法顯現，只能透過收益法來體現其未來價值。 (每經)"
+    },
+    {
+      "id": "5109080",
+      "time": "2026-09-23 14:05:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "AIRTEL MONEY宣佈擬赴倫敦上市。"
+    },
+    {
+      "id": "mkt:01a0ccdd-f19c-7118-8659-39ceb25dc248",
+      "time": "2026-09-23 14:04:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300"
+      ],
+      "text": "China A-share dairy sector extended afternoon losses; Yiming Foods hit the daily limit down, and Tianshan Bio, Wanchen Group, Huanlejia, Ketuo Bio and Qishi Dairy also fell."
+    },
+    {
+      "id": "5109079",
+      "time": "2026-09-23 14:03:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【乳業板塊持續走低，一鳴食品觸及跌停】乳業板塊持續走低，一鳴食品觸及跌停，天山生物、萬辰集團、歡樂家、科拓生物、騎士乳業跟跌。"
+    },
+    {
+      "id": "5109078",
+      "time": "2026-09-23 14:03:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【安聯首席：加息不該是抗通脹最佳工具，市場“緊逼”恐適得其反】自美聯儲上週加息以來，市場一直相對平靜，但安聯首席經濟顧問、PIMCO前首席投資官穆罕默德•埃爾-埃利安（Mohamed El-Erian）警告稱，市場可能正在迫使世界各地的央行提高利率。作為背景，美聯儲上週加息後，金融市場迅速轉向更鷹派的定價，目前甚至計入了截至明年年中再加息3次的可能性。英國央行等其他主要央行的利率預期也呈現類似方向，儘管英國央行是9月唯一沒有加息的主要央行。在最新發布的一篇評論文章中，埃爾-埃利安闡述瞭如果美聯儲和其他央行繼續收緊貨幣政策，他認為會出現哪些新的問題。他警告稱，如果這種更激進的貨幣政策路徑最終兌現，市場和經濟都可能面臨不必要的壓力。"
+    },
+    {
+      "id": "5109077",
+      "time": "2026-09-23 14:02:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【松延動力入股人形機器人通用系統研發商橡樹清溪】企查查APP顯示，近日，北京橡樹清溪科技有限公司發生工商變更，新增北京松延動力科技集團股份有限公司等為股東。公開資訊顯示，橡樹清溪致力於打造人形機器人通用系統及應用平臺。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202609233882330156",
+      "time": "2026-09-23 14:02:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【8月全社會用電量再破萬億背後 藏著用電結構的“新”與“變”】用電資料以最直觀的方式印證了產業升級的真實進度。充換電服務業超過50%的增速，直接對映出新能源汽車保有量的持續攀升與充電基礎設施的加速覆蓋。當新能源車整車製造用電增長22.2%與充換電服務用電增長51.2%同時出現，一條從生產到消費的綠色交通產業鏈正在以電力資料的形式完整呈現。網際網路資料服務近四成的增速，則指向人工智慧訓練與推理需求的爆發式增長。算力的盡頭是電力，這一判斷正在被資料反覆驗證。"
+    },
     {
       "id": "5109076",
       "time": "2026-09-23 14:01:26",
