@@ -1,7 +1,75 @@
 {
   "date": "2026-09-23",
-  "count": 1705,
+  "count": 1712,
   "items": [
+    {
+      "id": "mkt:01a0cdde-8a7e-7118-8661-534d6273de53",
+      "time": "2026-09-23 18:45:08",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Beijing to implement AI+ action to accelerate manufacturing digital transformation】Sept. 23 — The Beijing municipal party committee standing committee called for technology‑driven manufacturing growth, prioritizing original innovation and R&D on key core technologies and faster commercialization of results. It ordered implementation of an AI+ action to speed digital transformation in manufacturing and deeper integration of advanced manufacturing with modern services, including expansion of servitized manufacturing, flexible customization and product‑service business models. The committee directed accelerated innovation and deployment of green manufacturing equipment to deliver energy savings, carbon reduction and pollution cuts in key manufacturing areas; support for leading manufacturers to act as supply‑chain anchors and for the cultivation of unicorns and specialized 'little‑giant' firms; faster development of Zhongguancun into a world‑leading tech park and coordinated 'three cities and one district' development; and strengthened financial‑service and intellectual‑property policy mechanisms to improve the ecosystem for advanced manufacturing."
+    },
+    {
+      "id": "mkt:01a0cdde-8832-7118-8661-4a86ae15f0be",
+      "time": "2026-09-23 18:45:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of America expects the Bank of England to deliver 25bps hikes in Nov 2026 and Feb 2027, versus a prior forecast that rates would remain on hold until Nov 2027."
+    },
+    {
+      "id": "5109725",
+      "time": "2026-09-23 18:44:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武商集團：第一大股東武商聯增持計劃時間過半，已增持0.53%股份】武商集團公告，第一大股東武漢商聯（集團）股份有限公司計劃自2026年6月27日公告披露之日起6個月內，透過集中競價交易增持公司股份，金額不低於人民幣3000萬元、不超過人民幣6000萬元。截至2026年9月23日，增持計劃實施時間過半，武商聯已累計增持407.02萬股，佔總股本的0.53%，累計增持金額約人民幣2999.57萬元；後續將繼續增持。"
+    },
+    {
+      "id": "mkt:01a0cdde-4560-7118-8661-43a69be607a3",
+      "time": "2026-09-23 18:44:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Morgan Stanley remains overweight banks, semiconductors and capital goods; among major European equity markets, France’s CAC 40 shows the strongest positive correlation with a reopening of the Strait of Hormuz."
+    },
+    {
+      "id": "5109724",
+      "time": "2026-09-23 18:44:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "美銀全球研究預計英國央行將分別在2026年11月和2027年2月各加息25個基點，此前該機構的預測為英國央行利率將維持不變，直至2027年11月啟動降息。"
+    },
+    {
+      "id": "mkt:01a0cdde-1fb4-7118-8661-39b74e366f89",
+      "time": "2026-09-23 18:44:41",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Morgan Stanley says European equities are most sensitive to a potential reopening of the Strait of Hormuz as U.S.-Iran diplomacy progresses."
+    },
+    {
+      "id": "5109721",
+      "time": "2026-09-23 18:42:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【期鋼飄綠，鋼價窄幅調整】9月23日，國內鋼材市場漲跌互現，唐山遷安普方坯出廠含稅穩報3010元/噸。國慶假期臨近，下游終端存有一定備貨需求，低位資源成交有所釋放，但由於期螺震盪下跌，市場觀望情緒漸濃，整體成交表現不佳。（我的鋼鐵網）"
+    },
     {
       "id": "5109720",
       "time": "2026-09-23 18:40:21",
