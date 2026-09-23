@@ -1,7 +1,41 @@
 {
   "date": "2026-09-24",
-  "count": 240,
+  "count": 243,
   "items": [
+    {
+      "id": "mkt:01a0cfe2-544b-7118-8670-ece599ee28f9",
+      "time": "2026-09-24 04:08:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average fell 351.27 points, or 0.68%, to 51,512.42 at Wednesday's close (Sept. 23); the S&P 500 dropped 58.25 points, or 0.75%, to 7,706.39; the Nasdaq Composite declined 308.24 points, or 1.13%, to 26,936.04."
+    },
+    {
+      "id": "5110555",
+      "time": "2026-09-24 04:08:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：愛彼迎正擴大其工程與產品開發團隊對OpenAI前沿模型的使用許可權，其中包括GPT‑6 Astra。"
+    },
+    {
+      "id": "te:markets:586240",
+      "time": "2026-09-24 04:07:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall as Yields Hit Multi-Decade Highs — US stock indices closed lower on Wednesday as strong economic data, a weak Treasury auction, and energy-driven inflation concerns pushed Treasury yields to multi-decade highs. The S&P 500 fell 0.7%, the Dow shed 351 points, and the Nasdaq 100 retreated 0.8% from its record high. Rising oil prices drove yields higher, stoking inflation concerns. The yields rise intensified after S&P Global PMI data showed strong new orders and multi-year highs in input and output price inflation, raising expectations of another Fed rate hike this year. The bond selloff accelerated after a five-year Treasury auction drew surprisingly weak demand. Credit-sensitive AI hyperscalers, which are undergoing record levels of debt issuance, were mostly lower, with Alphabet down 3.8%, Oracle shedding 3.1%, and Amazon falling 2.2%. Major banks also posted losses. Chipmakers fell as investors took profits after this week’s rally, with Nvidia down 1.5%, Broadcom losing 2.6%, and Micron shedding 2.2%."
+    },
     {
       "id": "5110554",
       "time": "2026-09-24 04:05:39",
