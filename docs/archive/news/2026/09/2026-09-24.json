@@ -1,7 +1,41 @@
 {
   "date": "2026-09-24",
-  "count": 215,
+  "count": 219,
   "items": [
+    {
+      "id": "mkt:01a0cfce-a4cd-7118-8670-b730f6c5cb55",
+      "time": "2026-09-24 03:47:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios: Sen. John Thune said President Trump \"is not really firmly opposed\" to setting regulatory guardrails on AI."
+    },
+    {
+      "id": "5110540",
+      "time": "2026-09-24 03:45:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數23日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.49%，在匯市尾市收於101.096。截至紐約匯市尾市，1歐元兌換1.1387美元，低於前一交易日的1.1442美元；1英鎊兌換1.3243美元，低於前一交易日的1.3335美元。1美元兌換158.27日元，高於前一交易日的157.50日元；1美元兌換0.8244瑞士法郎，高於前一交易日的0.8212瑞士法郎；1美元兌換1.4097加元，高於前一交易日的1.4068加元；1美元兌換9.9169瑞典克朗，高於前一交易日的9.8487瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a0cfcc-a652-7118-8670-ac47a8001310",
+      "time": "2026-09-24 03:44:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ethiopia's president said that, despite continued interference by hostile forces in the country's internal affairs, the country has exercised considerable restraint."
+    },
+    {
+      "id": "5110539",
+      "time": "2026-09-24 03:44:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "衣索比亞總統：儘管敵對勢力持續干涉我國內政，我方始終保持了極大剋制。儘管存在魯莽的外部勢力干涉，衣索比亞仍與多個鄰國一道取得了顯著進展。我們向破壞與混亂勢力發出的資訊清晰響亮，我們敦促他們尊重非洲之角人民享有和平生活的神聖權利。"
+    },
     {
       "id": "mkt:01a0cfc9-dea0-7118-8670-a31de58b43f8",
       "time": "2026-09-24 03:41:48",

@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-24 03:44:35",
+  "updated": "2026-09-24 03:48:22",
   "count": 12906,
   "items": [
+    {
+      "id": "mkt:01a0cfce-a4cd-7118-8670-b730f6c5cb55",
+      "time": "2026-09-24 03:47:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios: Sen. John Thune said President Trump \"is not really firmly opposed\" to setting regulatory guardrails on AI."
+    },
+    {
+      "id": "5110540",
+      "time": "2026-09-24 03:45:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數23日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.49%，在匯市尾市收於101.096。截至紐約匯市尾市，1歐元兌換1.1387美元，低於前一交易日的1.1442美元；1英鎊兌換1.3243美元，低於前一交易日的1.3335美元。1美元兌換158.27日元，高於前一交易日的157.50日元；1美元兌換0.8244瑞士法郎，高於前一交易日的0.8212瑞士法郎；1美元兌換1.4097加元，高於前一交易日的1.4068加元；1美元兌換9.9169瑞典克朗，高於前一交易日的9.8487瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a0cfcc-a652-7118-8670-ac47a8001310",
+      "time": "2026-09-24 03:44:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ethiopia's president said that, despite continued interference by hostile forces in the country's internal affairs, the country has exercised considerable restraint."
+    },
+    {
+      "id": "5110539",
+      "time": "2026-09-24 03:44:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "衣索比亞總統：儘管敵對勢力持續干涉我國內政，我方始終保持了極大剋制。儘管存在魯莽的外部勢力干涉，衣索比亞仍與多個鄰國一道取得了顯著進展。我們向破壞與混亂勢力發出的資訊清晰響亮，我們敦促他們尊重非洲之角人民享有和平生活的神聖權利。"
+    },
     {
       "id": "mkt:01a0cfc9-dea0-7118-8670-a31de58b43f8",
       "time": "2026-09-24 03:41:48",
@@ -117273,45 +117307,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Chris Zaccarelli, CIO of Northlight Asset Management, said history shows that once the Fed begins raising rates it typically follows with multiple hikes, but it is unclear whether the Fed will raise at consecutive meetings or pause and keep rates unchanged at some meetings between hikes."
-    },
-    {
-      "id": "5098368",
-      "time": "2026-09-17 03:48:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "西南航空CFO：公司尚未決定開通國際長途航線，但 “絕對在考慮” 這件事。"
-    },
-    {
-      "id": "mkt:01a0abc2-8245-7118-85c8-8dfb8dd16f49",
-      "time": "2026-09-17 03:47:26",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Strategist: Doves forced to shift, Fed may hike at least once more】Seema Shah, chief global strategist at Principal Asset Management, said the market debate has shifted from whether rates will rise again to how many more hikes will follow. She said the Fed's unanimous vote on the recent decision shows rising energy prices and persistent inflation have forced doves to join hawks, making a one-and-done outcome unlikely, and added that with markets pricing multiple hikes policymakers may need at least one more to preserve credibility."
-    },
-    {
-      "id": "mkt:01a0abc2-4d9e-7118-85c8-83a04bf38340",
-      "time": "2026-09-17 03:47:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Warsh: Fed can achieve DISINFLATION without damaging labor market】Fed Chair Kevin Warsh said at a press briefing the Fed can achieve DISINFLATION without harming the labor market, noting the current unemployment rate is broadly consistent with full employment. He added that securing price stability will help sustain longer-term economic growth."
-    },
-    {
-      "id": "mkt:01a0abc1-442e-7118-85c8-794733d736ab",
-      "time": "2026-09-17 03:46:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy says Ukraine is preparing talks with partners in the US on advancing peace negotiations and on energy, food security and arms; Kyiv will receive a new support package focused on strengthening air-defense capabilities."
     }
   ]
 }
