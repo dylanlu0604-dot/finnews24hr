@@ -1,7 +1,74 @@
 {
-  "updated": "2026-09-23 23:26:29",
-  "count": 13191,
+  "updated": "2026-09-23 23:30:31",
+  "count": 13195,
   "items": [
+    {
+      "id": "te:markets:586201",
+      "time": "2026-09-23 23:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Italy 10Y Bond Yield Gains by 14 bps — Government bonds yields are higher on Wednesday. Top gainers are Italy 10Y (14.42bps), United Kingdom 10Y (11.96bps), US 10Y (11.10bps) and Germany 10Y (9.35bps)."
+    },
+    {
+      "id": "5110383",
+      "time": "2026-09-23 23:29:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩洛哥議會選舉開始投票】摩洛哥議會選舉23日上午開始投票。此次選舉將產生新一屆眾議院。（新華社）"
+    },
+    {
+      "id": "5110382",
+      "time": "2026-09-23 23:29:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破98美元/桶，日內漲2.76%。"
+    },
+    {
+      "id": "5110381",
+      "time": "2026-09-23 23:28:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報92.33美元/桶。"
+    },
+    {
+      "id": "mkt:01a0cee1-54eb-7118-866c-ba4e5d4b17df",
+      "time": "2026-09-23 23:27:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iranian media: Alaghezi’s contact with Witkoff was unauthorized, must explain】Iranian media reported Foreign Minister Alaghezi’s interaction with one of Trump’s negotiators, Witkoff, was not coordinated with or approved by relevant decision-making bodies, including the Supreme National Security Council, and claims the action was coordinated are false. SNSC Secretary Rezaei said in a TV interview the original plan was to relay Iran’s seven conditions via intermediaries, implying Alaghezi lacked authorization to deal directly with Witkoff. Alaghezi is being asked to explain the allegedly improper contact to relevant bodies and to the Iranian public."
+    },
+    {
+      "id": "mkt:01a0cee0-43d0-7118-866c-b6559a2c467c",
+      "time": "2026-09-23 23:26:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) launched GEMINI 3.8 Flash TTS audio model."
+    },
+    {
+      "id": "5110380",
+      "time": "2026-09-23 23:26:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：敘利亞外長在聯合國大會會議期間，與亞美尼亞外長舉行會晤。"
+    },
     {
       "id": "5110379",
       "time": "2026-09-23 23:25:49",
@@ -120284,30 +120351,6 @@
         "其他"
       ],
       "text": "陶氏預計第三季度盈利15億至16億美元，低於此前預期。"
-    },
-    {
-      "id": "5097930",
-      "time": "2026-09-16 23:28:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜再次取消眾議院一日會議。"
-    },
-    {
-      "id": "mkt:01a0aad4-948b-7118-85bf-d23fe02ebcdc",
-      "time": "2026-09-16 23:27:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Israeli media, President Herzog said he will do everything to avoid another election and that pardons or plea bargains are not ruled out."
-    },
-    {
-      "id": "mkt:01a0aad4-5896-7118-85bf-cac448d1a051",
-      "time": "2026-09-16 23:27:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qingtianzu targets 10 bln yuan revenue over three years, to connect with 20+ robot OEMs】Qingtianzu said on Sept. 16 it aims for cumulative platform revenue of 10 bln yuan over the next three years and plans to connect with more than 20 robot OEMs and 100 secondary-development partners. The company targets building 300 city operation centers and 3,000 authorized city centers, training over 2,000 FDE engineers and signing 100+ industry benchmark clients. The robot-leasing platform currently has more than 4,000 deployable robots, reported nearly 3.5 bln yuan of GMV in the past year, has linked 257 ecosystem partners and expects its fleet to reach 6,000–10,000 units by year-end."
     }
   ]
 }
