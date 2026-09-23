@@ -1,7 +1,82 @@
 {
-  "updated": "2026-09-23 13:51:16",
-  "count": 13291,
+  "updated": "2026-09-23 13:56:55",
+  "count": 13294,
   "items": [
+    {
+      "id": "5109071",
+      "time": "2026-09-23 13:56:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國信通院政經所釋出《數字包容發展研究報告（2026年）》】近日，中國信通院政策與經濟研究所正式釋出《數字包容發展研究報告（2026年）——面向人工智慧時代的技術普惠與實踐探索》。報告核心觀點指出，人工智慧技術浪潮推動數字包容內涵演進。以大模型為代表的新一輪人工智慧技術創新，在數學推理、多模態理解、博士級科學問答等基準上已接近甚至超越人類基線，作用物件轉向人類“認知”本身，在擴散速度、涉及領域、影響深度上較以往技術變革更為劇烈，對經濟社會包容發展的衝擊加大。"
+    },
+    {
+      "id": "mkt:01a0ccd6-0dda-7118-8659-2fcc9f31e1e8",
+      "time": "2026-09-23 13:56:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02513.HK",
+        "Impact bearish",
+        "00268.HK",
+        "01357.HK"
+      ],
+      "text": "Hong Kong AI application stocks extended afternoon losses: Zhipu (02513.HK) fell more than 10%, Kingdee International (00268.HK) dropped over 7%, Meitu (01357.HK) and MINIMAX-W (00100.HK) also declined."
+    },
+    {
+      "id": "5109070",
+      "time": "2026-09-23 13:55:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【智譜跌幅擴大至10%】恒生科技指數午後持續低迷，智譜跌幅擴大至10%，MINIMAX-W跌超5%。"
+    },
+    {
+      "id": "5109069",
+      "time": "2026-09-23 13:54:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內跌4%，現報4901.00元。"
+    },
+    {
+      "id": "mkt:01a0ccd3-9c06-7118-8659-24662e5459d5",
+      "time": "2026-09-23 13:53:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Market sources: UK Prime Minister Burnham spoke with Ukrainian President Zelenskiy about an energy ceasefire proposal."
+    },
+    {
+      "id": "5109068",
+      "time": "2026-09-23 13:52:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念持續走強 澳弘電子9天7板續創歷史新高】午後PCB概念持續走強，澳弘電子9天7板，續創歷史新高，此前大亞聖象4連板，中一科技、依頓電子、江南新材漲停，泰金新能、威貿電子均漲超10%。"
+    },
+    {
+      "id": "5109067",
+      "time": "2026-09-23 13:52:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆與烏克蘭總統澤連斯基在聯合國大會期間會談，討論了關於能源停火的提議。"
+    },
+    {
+      "id": "5109066",
+      "time": "2026-09-23 13:51:12",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【馬斯克說中美貿易像連體雙胞胎，強行分開會極度危險】近日，美國特斯拉公司執行長馬斯克在接受人民日報新媒體專訪時表示，中美貿易“好比一對連體雙胞胎，幾乎共享一個身體，強行把他們分開，會極度危險。”（人民日報）"
+    },
     {
       "id": "mkt:01a0ccd0-6d33-7118-8659-1e7e72ee59f7",
       "time": "2026-09-23 13:50:06",
@@ -121218,49 +121293,6 @@
         "國際"
       ],
       "text": "【馮德萊恩擬呼籲設立歐洲安全理事會】歐洲聯盟委員會主席馮德萊恩定於當地時間16日在歐洲議會發表年度“盟情諮文”。訊息稱，馮德萊恩將提議對歐洲安全架構進行徹底改革，呼籲設立歐洲安全理事會。馮德萊恩講話稿顯示，歐洲安全理事會將由歐方領導人以及烏克蘭、英國、挪威、加拿大等非歐盟國家領導人組成。馮德萊恩還將呼籲參照北大西洋公約第四條，為歐洲制定一份新的“安全議定書”。該條款允許北約成員國在認為自身安全或領土完整受到威脅時請求所有成員國舉行磋商。"
-    },
-    {
-      "id": "5096656",
-      "time": "2026-09-16 13:56:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【電動車閃充技術有望落地香港】香港特區行政長官李家超今日（9月16日）公佈《香港特別行政區經濟和社會發展第一個五年規劃（2026—2030年）》，隨即發表《行政長官2026年施政報告》。李家超在《施政報告》中指出，國家創新充電技術領先全球，利用兆瓦級別的閃充技術，九分鐘內可完成私家車充電，換電技術最快約100秒完成補能。在特區政府推動下，有關專案有望短期內落地香港。環境及生態局亦與國家能源局合作，2027年在港建成首個ChaoJi充電技術示範站，展示其相容國家和歐洲充電標準的特性。"
-    },
-    {
-      "id": "mkt:01a0a8c9-352c-7118-85ac-b867e405dad4",
-      "time": "2026-09-16 13:55:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Hang Seng Index"
-      ],
-      "text": "【Megawatt EV flash-charging poised for Hong Kong deployment】Hong Kong Chief Executive John Lee said in the policy address that China’s megawatt-level flash-charging technology can fully recharge passenger cars in about nine minutes and battery-swap systems can replenish energy in roughly 100 seconds. With Hong Kong government support, related projects are expected to be implemented locally in the near term. The Environment and Ecology Bureau, together with China’s National Energy Administration, plans to build Hong Kong’s first ChaoJi charging-technology demonstration station by 2027 to showcase compatibility with Chinese and European charging standards."
-    },
-    {
-      "id": "5096655",
-      "time": "2026-09-16 13:52:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "檔案顯示，陷入困境的澳大利亞建築商Bathla欠40多家貸款機構20億美元。"
-    },
-    {
-      "id": "mkt:01a0a8c5-c0ae-7118-85ac-b20116fee50a",
-      "time": "2026-09-16 13:52:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share brokerage stocks firmed in choppy trading; Hatou Co. jumped over 7%, Zhinanzhen rose more than 4%, while Caitong Securities, Guosheng Securities and Huaan Securities also gained."
-    },
-    {
-      "id": "5096654",
-      "time": "2026-09-16 13:51:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海倫哲：預計2027年下半年國內新增儲能消防氣溶膠專案佔比有較高提升】海倫哲(300201)9月15日接受機構調研時表示，隨著《電化學儲能電站設計標準》（GB/T51048-2025）實施的持續影響以及各地驗收標準的更新實施，預計新增儲能專案逐步向氣溶膠消防方案切換。目前公司在手跟蹤氣溶膠儲能專案已明顯增加，預計2027年下半年國內新增儲能消防氣溶膠專案佔比有較高提升，滲透率將快速上行。"
     }
   ]
 }
