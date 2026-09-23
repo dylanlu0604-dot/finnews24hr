@@ -1,7 +1,25 @@
 {
   "date": "2026-09-24",
-  "count": 204,
+  "count": 206,
   "items": [
+    {
+      "id": "mkt:01a0cfbf-9033-7118-8670-786630bf48d4",
+      "time": "2026-09-24 03:30:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Politico, citing people familiar with the matter, reports that as Republican midterm worries grow a small number of White House officials are discussing whether to roll back Trump’s earlier decision to increase foreign beef imports."
+    },
+    {
+      "id": "5110534",
+      "time": "2026-09-24 03:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特重申，柴油出口禁令並未進入討論議程。"
+    },
     {
       "id": "5110533",
       "time": "2026-09-24 03:28:16",
