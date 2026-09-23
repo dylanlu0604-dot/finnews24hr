@@ -1,7 +1,86 @@
 {
   "date": "2026-09-24",
-  "count": 195,
+  "count": 204,
   "items": [
+    {
+      "id": "5110533",
+      "time": "2026-09-24 03:28:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國拒絕了伊朗提出的開放霍爾木茲海峽的提議。"
+    },
+    {
+      "id": "5110532",
+      "time": "2026-09-24 03:28:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室不同意削減牛肉進口。"
+    },
+    {
+      "id": "mkt:01a0cfbc-19c5-7118-8670-71b60be40d3b",
+      "time": "2026-09-24 03:26:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic CEO Dario said the firm will slow AI development as needed for safety reasons."
+    },
+    {
+      "id": "5110531",
+      "time": "2026-09-24 03:26:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫迪：支援全球共同行動，防止人工智慧被用於製造生物武器。"
+    },
+    {
+      "id": "5110530",
+      "time": "2026-09-24 03:26:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫迪：呼籲各國開展人工智慧監管領域的全球合作。"
+    },
+    {
+      "id": "te:markets:586238",
+      "time": "2026-09-24 03:26:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "US Heating Oil Falls on Diesel Export Ban — US heating oil prices fell to around $4.80 per gallon, retreating further from last week’s record high above $5.20, after reports that the Trump administration is preparing a plan to ban diesel exports for 90 days. The proposal faces divisions within the administration and the oil industry as Washington seeks to bring down energy prices. Meanwhile, Ukrainian President Volodymyr Zelenskyy called on President Trump to organize a trilateral meeting with Russian President Vladimir Putin, saying the leaders need to move “as quickly as possible” to end the war. Zelenskyy also said he and Trump discussed an energy ceasefire. Trump said Moscow has “unfortunately lost control” of its diesel industry due to the war and has previously urged Zelenskyy to stop targeting Russian oil refineries with drone strikes. Meanwhile, Saudi Arabia’s partial restoration of its East-West pipeline is helping ease some supply concerns despite uncertainty over Middle East peace prospects."
+    },
+    {
+      "id": "5110529",
+      "time": "2026-09-24 03:25:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府官員正在考慮取消牛肉進口。"
+    },
+    {
+      "id": "mkt:01a0cfbb-19ea-7118-8670-6e5491845bd2",
+      "time": "2026-09-24 03:25:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic CEO Dario Amodei said if mismanaged, AI could pose a risk to humanity."
+    },
+    {
+      "id": "5110528",
+      "time": "2026-09-24 03:24:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫迪：Anthropic會出於安全考量，在必要時放緩人工智慧研發進度。"
+    },
     {
       "id": "5110527",
       "time": "2026-09-24 03:24:38",
