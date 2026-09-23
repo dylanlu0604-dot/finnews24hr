@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-24 06:59:19",
-  "count": 12827,
+  "updated": "2026-09-24 07:06:08",
+  "count": 12820,
   "items": [
+    {
+      "id": "5110613",
+      "time": "2026-09-24 07:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀擬發行約111億美元優先票據，到期時間為2030至2034年。"
+    },
     {
       "id": "5110612",
       "time": "2026-09-24 06:55:03",
@@ -116441,81 +116449,6 @@
         "其他"
       ],
       "text": "小米雷軍：小米澎程首批交付，4天時間，跨越四城，我們為100多位車主順利交付新車。"
-    },
-    {
-      "id": "5098526",
-      "time": "2026-09-17 07:05:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【加拿大石油重鎮：成立國有天然氣管道公司屬“最後手段”】加拿大Alberta省能源部長表示，成立一家國有公司來建設天然氣管道將是吸引資料中心的“最後一步”。阿爾伯塔省擁有豐富的天然氣資源，正利用這一資源吸引資料中心落戶該地區。但該省沒有足夠的基礎設施來運輸這些天然氣，能源部長布萊恩·讓（Brian Jean）週三在麥克默裡堡的油砂博覽會上表示。"
-    },
-    {
-      "id": "5098524",
-      "time": "2026-09-17 07:01:53",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "香港金管局將基準利率上調25個基點至4.25%，與美聯儲的加息舉措保持一致。"
-    },
-    {
-      "id": "mkt:01a0ac74-61ae-7118-85cb-230ca1ed5a7f",
-      "time": "2026-09-17 07:01:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong Monetary Authority raised its base rate by 25 bps to 4.25%, following the Federal Reserve's rate hike."
-    },
-    {
-      "id": "5098523",
-      "time": "2026-09-17 07:01:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東方：為努比亞NaviX Ultra獨供AI原生旗艦螢幕】9月17日，據京東方訊息，京東方為努比亞NaviX Ultra獨供AI原生旗艦螢幕。針對AI圖文生成、智慧剪輯等創作場景，京東方為努比亞NaviX Ultra定製了100% DCI-P3廣色域1.5K超高畫質旗艦螢幕。"
-    },
-    {
-      "id": "5098522",
-      "time": "2026-09-17 07:01:03",
-      "tags": [
-        "央行"
-      ],
-      "text": "國際貨幣基金組織敦促澳洲聯儲保持鷹派，對通脹上行風險提出警告。"
-    },
-    {
-      "id": "5098521",
-      "time": "2026-09-17 07:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：重大稅制改革或將刺激澳大利亞經濟增長，並有助於其財政狀況。"
-    },
-    {
-      "id": "te:economy:584359",
-      "time": "2026-09-17 07:00:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "New Zealand Q2 GDP Annual Growth Hits 3-Year High — New Zealand’s economy expanded by 2.6% year-on-year in the three months to June 2026, following an upwardly revised 1.7% increase in the previous quarter and exceeding expectations of 2.3% growth. It was the fourth consecutive quarter of annual growth and the fastest pace since Q2 2023, as all sectors expanded. Goods-producing industries expanded faster (4.4% vs 0.1% in Q1), boosted by manufacturing (5.4%), construction (3.7%), and electricity, gas, water, and waste services (3.6%). Service industries grew 2.1% (unchanged from Q1), due mainly to higher wholesale trade (7.4%), public administration and safety (4.0%), retail trade and accommodation (2.6%), and healthcare and social assistance (2.4%). Primary industries also continued to grow (0.3% vs 0.6%), driven by agriculture, forestry, and fishing (1.7%). On a quarterly basis, the economy advanced 0.2% in Q2, slowing from an upwardly revised 0.9% growth in Q1 but surpassing forecasts of 0.1%."
-    },
-    {
-      "id": "5098520",
-      "time": "2026-09-17 07:00:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：澳大利亞需要更雄心勃勃的生產力改革計劃。"
     }
   ]
 }
