@@ -1,7 +1,40 @@
 {
   "date": "2026-09-24",
-  "count": 325,
+  "count": 328,
   "items": [
+    {
+      "id": "mkt:01a0d061-fd55-7118-8671-e94501d7effe",
+      "time": "2026-09-24 06:27:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "KYIV MAYOR KLITSCHKO said emergency rescue teams have been dispatched to affected districts after an explosion in Kyiv."
+    },
+    {
+      "id": "5110603",
+      "time": "2026-09-24 06:27:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗約80%至90%的國際航班已停航，我不確定伊朗駐聯合國代表要如何回國。"
+    },
+    {
+      "id": "mkt:01a0d061-3da5-7118-8671-e707489057ce",
+      "time": "2026-09-24 06:27:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "A series of explosions reported in Kyiv after local authorities issued an air-raid alert warning of missile strikes by Russian forces."
+    },
     {
       "id": "5110602",
       "time": "2026-09-24 06:24:35",

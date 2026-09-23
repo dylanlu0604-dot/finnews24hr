@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-24 06:25:11",
-  "count": 12859,
+  "updated": "2026-09-24 06:29:00",
+  "count": 12849,
   "items": [
+    {
+      "id": "mkt:01a0d061-fd55-7118-8671-e94501d7effe",
+      "time": "2026-09-24 06:27:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "KYIV MAYOR KLITSCHKO said emergency rescue teams have been dispatched to affected districts after an explosion in Kyiv."
+    },
+    {
+      "id": "5110603",
+      "time": "2026-09-24 06:27:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗約80%至90%的國際航班已停航，我不確定伊朗駐聯合國代表要如何回國。"
+    },
+    {
+      "id": "mkt:01a0d061-3da5-7118-8671-e707489057ce",
+      "time": "2026-09-24 06:27:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "A series of explosions reported in Kyiv after local authorities issued an air-raid alert warning of missile strikes by Russian forces."
+    },
     {
       "id": "5110602",
       "time": "2026-09-24 06:24:35",
@@ -116689,121 +116722,6 @@
         "S&P500"
       ],
       "text": "Trump said the US should set interest rates at the lowest level globally."
-    },
-    {
-      "id": "5098492",
-      "time": "2026-09-17 06:28:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沃什面對的理事會抱有敵意。"
-    },
-    {
-      "id": "mkt:01a0ac56-1964-7118-85ca-b49ff41de644",
-      "time": "2026-09-17 06:28:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "President Trump said he hopes Federal Reserve Chair Kevin Warsh will remain independent."
-    },
-    {
-      "id": "5098491",
-      "time": "2026-09-17 06:28:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我希望沃什保持獨立。"
-    },
-    {
-      "id": "5098490",
-      "time": "2026-09-17 06:28:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：應當實行全球最低水平的利率。"
-    },
-    {
-      "id": "5098489",
-      "time": "2026-09-17 06:27:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【諾基亞加速推進AI-RAN測試，與英偉達推進平臺開發】9月16日，諾基亞宣佈，AI-RAN正在全球範圍內加快推進，北美、歐洲、亞太和中東地區多家運營商正推動AI-RAN從早期評估進入實驗室測試和現網試驗階段，參與者包括A1集團、中華電信、du、e&、Mobily、stc、TPG Telecom和沙特Zain。此前公佈的NTT DOCOMO測試專案也在推進。諾基亞表示，公司此前已推出商用AI原生RAN平臺，並與T-Mobile、軟銀、Indosat Ooredoo Hutchison開展評估，同時擴大OEM合作伙伴陣容，深化與英偉達在AI-RAN平臺及軟體開發工具方面的合作。（介面新聞）"
-    },
-    {
-      "id": "5098488",
-      "time": "2026-09-17 06:27:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我告訴沃什可以按他自己的想法行事。"
-    },
-    {
-      "id": "mkt:01a0ac55-5388-7118-85ca-ad2b00951c63",
-      "time": "2026-09-17 06:27:48",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "President Trump said Washington has a difficult council and that interest rates are too high."
-    },
-    {
-      "id": "5098487",
-      "time": "2026-09-17 06:27:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已與沃什交談。"
-    },
-    {
-      "id": "5098486",
-      "time": "2026-09-17 06:26:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：利率太高。"
-    },
-    {
-      "id": "5098485",
-      "time": "2026-09-17 06:26:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沃什有個難搞的理事會。"
-    },
-    {
-      "id": "mkt:01a0ac54-2772-7118-85ca-a7e56a184156",
-      "time": "2026-09-17 06:26:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "U.S. President Trump said he continues to have full confidence in Federal Reserve Chair Kevin Warsh."
-    },
-    {
-      "id": "5098484",
-      "time": "2026-09-17 06:26:22",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：仍對美聯儲主席沃什抱有信心。"
-    },
-    {
-      "id": "mkt:01a0ac53-31eb-7118-85ca-9f57c4d1fdfc",
-      "time": "2026-09-17 06:25:28",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Al Arabiya TV reports the Saudi crown prince and the French president discussed efforts to bolster regional security and safeguard freedom of navigation."
     }
   ]
 }
