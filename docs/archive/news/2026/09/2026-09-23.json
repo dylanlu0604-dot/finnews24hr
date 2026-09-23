@@ -1,7 +1,51 @@
 {
   "date": "2026-09-23",
-  "count": 666,
+  "count": 671,
   "items": [
+    {
+      "id": "5108726",
+      "time": "2026-09-23 08:57:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【384股獲融資買入超億元，中際旭創穫買入35.49億元居首】A股9月22日共有3858只個股獲融資資金買入，有384股買入金額超億元。其中，中際旭創、兆易創新、勝宏科技融資買入金額排名前三，分別獲買入35.49億元、25.02億元、19.22億元。從融資買入額佔當日總成交金額比重來看，有6只個股融資買入額佔比超30%。其中禾盛新材、浦東建設、鐵龍物流融資買入額佔成交額比重排名前三，分別為50.79%、40.77%、36.01%。從融資淨買入金額來看，有25只個股獲融資淨買入超億元。其中，中際旭創、勝宏科技、江淮汽車融資淨買入金額排名前三，分別獲淨買入10.04億元、5.78億元、3.73億元。"
+    },
+    {
+      "id": "5108725",
+      "time": "2026-09-23 08:56:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西航空工業公司： 某些機型，包括E2，受到GPS不穩定的影響。 事件可能擾亂航空公司航班時刻表，但飛行安全未受影響。正在提供技術支援，並採取必要行動來解決該問題。正與運營商和裝置製造商密切協調，密切關注局勢。"
+    },
+    {
+      "id": "5108724",
+      "time": "2026-09-23 08:56:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報告：預計2026年中國智慧算力規模同比增長87.9%】國際資料公司（IDC）與浪潮資訊聯合釋出《2026年中國人工智慧計算力發展評估報告》（以下簡稱《報告》）。《報告》指出，智慧體（Agent）正在重塑算力基礎設施，以乘數效應推動Token（詞元）消耗激增，帶動中國智慧算力規模斜率大幅上調，算力躍升為與水利、電網、鐵路等同等級的國家戰略基礎設施。《報告》預計，智慧體數量與Token消耗的快速增長，正帶動算力需求持續攀升。2026年中國智慧算力規模預計達到2576.5 EFLOPS，同比增長87.9%，到2030年將進一步達到10524.3 EFLOPS；2025-2030年中國智慧算力規模複合增長率由上一版本預測的46.2%提升至50.3%。"
+    },
+    {
+      "id": "mkt:01a0cbc3-5c8b-7118-8653-47919e672111",
+      "time": "2026-09-23 08:56:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister said Riyadh welcomed moves by France, the UK and Canada to recognise Palestine, and said Gaza is an indivisible part of the occupied Palestinian territory."
+    },
+    {
+      "id": "te:economy:585841",
+      "time": "2026-09-23 08:55:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "News",
+        "Importance 1"
+      ],
+      "text": "ADB Raises South Korea's 2026 GDP Growth Forecast to 3.2% — The Asian Development Bank (ADB) on Wednesday raised its 2026 South Korea economic growth projection to 3.2% from 2.6% projected in July, due to strong exports and corporate earnings, supported by the artificial intelligence boom. However, the agency warned of potential risks, including rising geopolitical tensions, increased volatility in global financial markets, and additional US tariff hikes, which could affect exports and investment. The ADB also revised up its 2027 growth outlook by 0.3 percentage point to 2.3%. The ADB added that expansionary fiscal policy and robust corporate earnings are contributing to a gradual recovery in private consumption. On the inflation side, the ADB maintained its forecasts at 2.7% in 2026 and 2.2% in 2027. Previously, the Ministry of Finance and Economy revised up South Korea's GDP growth forecast by 1 percentage point to 3% in its second-half policy report."
+    },
     {
       "id": "5108723",
       "time": "2026-09-23 08:54:10",
