@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-24 03:52:09",
-  "count": 12908,
+  "updated": "2026-09-24 03:56:14",
+  "count": 12906,
   "items": [
+    {
+      "id": "mkt:01a0cfd6-855d-7118-8670-cce4d7c9c5eb",
+      "time": "2026-09-24 03:55:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say 1789 Capital, the venture firm linked to Trump’s son, is in talks to raise $3 billion."
+    },
+    {
+      "id": "5110547",
+      "time": "2026-09-24 03:54:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫：俄羅斯對普京收到G20峰會參會邀請表示感謝與認可；俄方將確定自身立場，並透過外交渠道處理此事。"
+    },
+    {
+      "id": "mkt:01a0cfd5-8e82-7118-8670-c7698f7cc7c5",
+      "time": "2026-09-24 03:54:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports U.S. regulators plan to accelerate approvals for novel e-cigarettes and tobacco pouch products."
+    },
+    {
+      "id": "5110546",
+      "time": "2026-09-24 03:53:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普之子小特朗普旗下1789資本正在洽談募資30億美元。"
+    },
+    {
+      "id": "5110545",
+      "time": "2026-09-24 03:51:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局預計將在未來幾天宣佈，將重新審議2021年一項規定了新型菸草產品上市申請要求的監管規則。"
+    },
     {
       "id": "5110544",
       "time": "2026-09-24 03:51:28",
@@ -117249,83 +117289,6 @@
         "US10Y"
       ],
       "text": "【S&P 500 turns lower after Fed speaker's remarks】Following the Fed rate hike and updated rate outlook, the S&P 500 initially rose 0.4% at 14:07 ET; the 10-year U.S. Treasury yield was 4.95%, unchanged from immediately before the Fed decision and slightly below Tuesday's 4.995%. At 14:30 ET, when a Fed speaker began remarks, the S&P was up 0.3%. During the speech the index erased its gains; by 15:01 ET, at the end of the remarks, the S&P had turned down 0.4% and later sank as much as 1%. The 10-year yield, near 4.95% before 14:30 ET, briefly rose above 5% before retreating below 5% and ended the day roughly unchanged."
-    },
-    {
-      "id": "mkt:01a0abca-540b-7118-85c8-c8e03383829d",
-      "time": "2026-09-17 03:55:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Economist: Fed has done what's required; BUZZ shifts to magnitude of improvement】LPL Financial chief economist Jeffrey Roach said Fed Chair KEVIN WARSH and other C.BANK members have built a reputation for focusing on curbing inf. Given current economic conditions, the C.BANK has done what was required. If geopolitical tensions ease, discussion of inf may shift to the degree of improvement."
-    },
-    {
-      "id": "mkt:01a0abc9-802e-7118-85c8-c58aec0800c9",
-      "time": "2026-09-17 03:55:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "JPM.N"
-      ],
-      "text": "【Major U.S. banks raise prime rate to 7%】Following recent Fed rate hikes, JP Morgan, KeyCorp and BNY Mellon raised the U.S. prime rate to 7.00% from 6.75%, effective Thursday. The prime rate typically tracks the federal funds rate and is a reference for credit cards, personal and business loans, implying higher borrowing costs for consumers and companies."
-    },
-    {
-      "id": "5098376",
-      "time": "2026-09-17 03:54:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "西南航空CFO：儘管燃油成本上升，但營收表現強勁，公司有能力達成第三季度每股收益指引。"
-    },
-    {
-      "id": "mkt:01a0abc8-7fc0-7118-85c8-ba5a21be2127",
-      "time": "2026-09-17 03:53:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "LUV.N",
-        "Impact bearish"
-      ],
-      "text": "Southwest Airlines (LUV.N) said it may cut capacity if jet fuel prices remain elevated."
-    },
-    {
-      "id": "5098375",
-      "time": "2026-09-17 03:53:42",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【非美貨幣在美聯儲宣佈加息後普遍下跌】週三（9月16日）紐約尾盤，歐元兌美元跌0.63%，重新整理日低至1.1463，北京時間02:00美聯儲宣佈加息、披露點陣圖以來顯著下跌——打破日內稍早持續的高位窄幅震盪狀態。英鎊兌美元跌0.70%，重新整理日低至1.3372。美元兌瑞郎漲0.73%，報0.8257。商品貨幣對中，澳元兌美元跌0.64%，紐元兌美元跌0.8%，美元兌加元漲0.50%。瑞典克朗兌美元跌0.83%，挪威克朗兌美元跌0.92%，丹麥克朗兌美元跌0.63%。波蘭茲羅提兌美元跌1.15%，美元兌匈牙利福林漲0.73%。土耳其里拉兌美元跌0.07%——亞太盤初顯著走低、07:47跌至48.6679里拉、之後持續低位窄幅震盪，南非蘭特兌美元跌0.76%，墨西哥比索兌美元跌0.6%，巴西雷亞爾兌美元漲0.04%。"
-    },
-    {
-      "id": "5098374",
-      "time": "2026-09-17 03:53:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "牛津經濟研究院預計加拿大央行將於 10 月、12 月加息。"
-    },
-    {
-      "id": "5098373",
-      "time": "2026-09-17 03:53:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝釋出擊落沙特F15戰機影片】當地時間9月16日晚，葉門胡塞武裝控制的馬西拉電視臺釋出影片，據稱內容為當天胡塞武裝擊落沙特一架F-15戰鬥機。胡塞武裝當天早些時候稱，在葉門東北部馬裡卜省，用一枚自制地對空導彈，擊落一架正在執行“敵對行動”的沙特F-15戰鬥機。據稱兩批沙特F-15和“颱風”戰鬥機隨後進入馬裡卜領空搜尋被擊落戰機的殘骸，胡塞武裝再次發射防空導彈，迫使這些戰機撤離。（CCTV國際時訊）"
     }
   ]
 }

@@ -1,7 +1,47 @@
 {
   "date": "2026-09-24",
-  "count": 224,
+  "count": 229,
   "items": [
+    {
+      "id": "mkt:01a0cfd6-855d-7118-8670-cce4d7c9c5eb",
+      "time": "2026-09-24 03:55:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say 1789 Capital, the venture firm linked to Trump’s son, is in talks to raise $3 billion."
+    },
+    {
+      "id": "5110547",
+      "time": "2026-09-24 03:54:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫：俄羅斯對普京收到G20峰會參會邀請表示感謝與認可；俄方將確定自身立場，並透過外交渠道處理此事。"
+    },
+    {
+      "id": "mkt:01a0cfd5-8e82-7118-8670-c7698f7cc7c5",
+      "time": "2026-09-24 03:54:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports U.S. regulators plan to accelerate approvals for novel e-cigarettes and tobacco pouch products."
+    },
+    {
+      "id": "5110546",
+      "time": "2026-09-24 03:53:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普之子小特朗普旗下1789資本正在洽談募資30億美元。"
+    },
+    {
+      "id": "5110545",
+      "time": "2026-09-24 03:51:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局預計將在未來幾天宣佈，將重新審議2021年一項規定了新型菸草產品上市申請要求的監管規則。"
+    },
     {
       "id": "5110544",
       "time": "2026-09-24 03:51:28",
