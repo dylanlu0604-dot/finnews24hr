@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-24 18:53:37",
-  "count": 12867,
+  "updated": "2026-09-24 18:57:41",
+  "count": 12875,
   "items": [
+    {
+      "id": "mkt:01a0d30f-c0f9-7118-8684-09fea4027734",
+      "time": "2026-09-24 18:56:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Air-raid alert in Kyiv lifted."
+    },
+    {
+      "id": "5111845",
+      "time": "2026-09-24 18:56:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克：預計產生3億美元重組費用，其中包括2億美元現金支出。"
+    },
+    {
+      "id": "mkt:01a0d30f-9c46-7118-8684-0660e69e65fa",
+      "time": "2026-09-24 18:56:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Basra Oil Company head said Iraq has averaged about 2.6 mln bpd of oil exports via southern ports so far in September."
+    },
+    {
+      "id": "mkt:01a0d30f-68b1-7118-8683-f90adbc31263",
+      "time": "2026-09-24 18:56:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia's finance minister said Q3 and Q4 GDP growth is expected to exceed 5.5%, but the government aims for 6%."
+    },
+    {
+      "id": "5111844",
+      "time": "2026-09-24 18:56:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼財長：預計第三至第四季GDP增長率將超過5.5%，但我們期望達到6%。"
+    },
+    {
+      "id": "5111843",
+      "time": "2026-09-24 18:55:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星湖科技：董事、總經理閆曉林因個人原因辭任】星湖科技公告稱，公司董事會於2026年9月24日收到董事、總經理閆曉林的辭職報告，閆曉林因個人原因辭去公司董事、總經理、董事會戰略發展與ESG委員會委員、董事會提名委員會委員職務，辭任後不在公司及控股子公司擔任任何職務，辭職報告自送達董事會之日起生效。在新任總經理聘任完成前，由董事陳武代為履行總經理職責。閆曉林不存在未履行完畢的公開承諾，其辭職不會影響公司董事會正常執行，亦不會對公司日常運營產生不利影響。"
+    },
+    {
+      "id": "5111842",
+      "time": "2026-09-24 18:55:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合康新能：子公司收到政府補助4000萬元】合康新能(300048)9月24日公告，公司下屬子公司安徽美的合康電力工程有限公司近日收到政府補助款4000萬元，上述政府補助與收益相關，補助金額佔公司最近一期經審計歸屬於上市公司股東淨利潤的64.50%，預計將增加公司2026年度利潤總額3200萬元。"
+    },
+    {
+      "id": "mkt:01a0d30d-f088-7118-8683-f2b3cae3402c",
+      "time": "2026-09-24 18:55:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Sept. 21-27: Four online hiring sessions post 173,000 vacancies】China's Ministry of Human Resources and Social Security said that from Sept. 21–27 its 100-day, 10-million recruitment campaign ran four online sector hiring sessions—artificial intelligence, new energy, low‑altitude economy and light industry—organized by industry associations and HR service firms. More than 11,000 employers participated and recruitment demand totaled about 173,000 positions."
+    },
+    {
+      "id": "5111841",
+      "time": "2026-09-24 18:54:13",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【“中國黃金進口，創歷史新高”】據英國《金融時報》網站9月22日報道，中國今年支出了創紀錄的資金，進口黃金逾1000噸。在海外地緣政治緊張局勢加劇的背景下，中國央行和國內投資者紛紛將資金投向黃金。報道稱，今年前8個月，這個世界第二大經濟體在黃金上支出了1588億美元。相比之下，中國在2025年支出965億美元購買了886噸黃金。（參考訊息）"
+    },
+    {
+      "id": "5111840",
+      "time": "2026-09-24 18:54:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科飛測：預計全年收入有望保持較高增長水平】9月24日，在半年度業績會上，中科飛測董事長、總經理陳魯表示，公司上半年量測裝置收入增速低於平均增速，主要受正常季節性波動以及客戶驗收、收入確認節奏影響。結合當前在手訂單情況及新產品驗證進展，預計全年收入有望保持較高增長水平。談及下半年行業趨勢，他分析，半導體裝置行業作為支撐半導體產業發展的上游行業之一，其市場發展與半導體產業景氣度緊密相關。得益於AI基礎設施投資的加速，以及支援更高計算密度、HBM相關投資和日益複雜的器件架構所需的前沿邏輯、先進儲存和先進封裝投資的增加，預計2026年全年全球以及中國大陸半導體檢測與量測裝置需求仍將同比增長。"
+    },
     {
       "id": "5111839",
       "time": "2026-09-24 18:52:53",
@@ -117082,30 +117172,6 @@
         "英國央行"
       ],
       "text": "英國央行以6比3的投票結果將基準利率維持在3.75%不變，符合市場預期。"
-    },
-    {
-      "id": "te:economy:584570",
-      "time": "2026-09-17 18:56:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Iceland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Iceland 10Y Bond Yield Hits 24-month High — Iceland 10 Year Government Bond Yield increased to 7.17%, the highest since August 2024. Over the past 4 weeks, Iceland 10Y Bond Yield gained 15.00 basis points, and in the last 12 months, it increased 36.90 basis points."
-    },
-    {
-      "id": "te:economy:584569",
-      "time": "2026-09-17 18:56:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Moldova",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Moldova Central Bank Raises Policy Rate to 9% — The National Bank of Moldova raised its benchmark interest rate by 250 basis points to 9% in September 2026, lifting borrowing costs to their highest level since 2023, citing economic uncertainty and volatility in energy markets. Headline inflation accelerated to 6.96% in August, remaining near the upper limit of the central bank’s 5 ± 1.5% target range, reflecting the impact of higher international oil prices on inflationary pressures. However, inflation was lower than expected due to the delayed adjustment of natural gas tariffs. Meanwhile, economic activity accelerated to 0.9% in the second quarter, supported by industry, agriculture, financial and insurance activities, and trade. Looking ahead, inflation is expected to continue rising relatively quickly through the end of 2026, although the outlook will depend on energy and food prices, external financing, the fiscal impulse, and the implementation of the new fiscal policy for 2027. After 2026, policymakers expect disinflation."
     }
   ]
 }
