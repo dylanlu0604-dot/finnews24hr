@@ -1,7 +1,50 @@
 {
   "date": "2026-09-24",
-  "count": 988,
+  "count": 992,
   "items": [
+    {
+      "id": "mkt:01a0d1e4-7416-7118-8678-5ced445a0d46",
+      "time": "2026-09-24 13:30:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Goldman Sachs Asset Management: Fed unlikely to enter sustained rate-hiking cycle】Goldman Sachs Asset Management said it still does not expect the Federal Reserve to enter a sustained rate-hiking cycle, citing tariff- and energy-driven price pressures that may fade, little sign of economic overheating, and anchored inflation expectations. The Fed's dot plot from last week's meeting shows one more hike this year. LSEG money-market pricing implies 37bp of tightening across the Fed's two remaining meetings this year."
+    },
+    {
+      "id": "te:markets:586366",
+      "time": "2026-09-24 13:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 1.05% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.05% increase."
+    },
+    {
+      "id": "5111064",
+      "time": "2026-09-24 13:29:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微信支付面向海外短期來華旅客推出支付APP】9月24日，微信支付宣佈推出TenPayGo APP，面向海外短期來華旅客。無需手機號碼、中國境內銀行卡，使用者可透過郵箱快速註冊登入，在TenPayGo上快速繫結與微信支付合作的國際銀行卡、境外錢包或ApplePay等境外主流支付方式。據介紹，微信支付此前在“跨境二維碼統一閘道器”連線的海外錢包將逐步接入TenPayGo，首批包括ShopeePay、Starryblu等，預計年底接入約60家。"
+    },
+    {
+      "id": "5111063",
+      "time": "2026-09-24 13:29:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【VNA儀器概念持續走強 電科思儀逼近20cm漲停創上市新高】午後VNA儀器概念持續走強，電科思儀逼近20cm漲停，創上市新高，此前東方中科2連板，山科智慧、羅博特科、威星智慧、創遠信科、同惠電子均漲超7%。"
+    },
     {
       "id": "5111062",
       "time": "2026-09-24 13:25:47",
