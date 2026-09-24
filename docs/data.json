@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-25 03:28:28",
-  "count": 12818,
+  "updated": "2026-09-25 03:32:17",
+  "count": 12817,
   "items": [
+    {
+      "id": "te:economy:586656",
+      "time": "2026-09-25 03:29:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Banxico Holds Key Rate at 6.50% in September — Mexico’s central bank left its benchmark interest rate unchanged at 6.50% at its September meeting, in line with market expectations. The governing board said it assessed the inflation outlook considering exchange-rate developments, differences in the economic cycles of Mexico and the US, the absence of demand pressures in Mexico, and the degree of monetary restriction in place. The headline inflation forecast for the third quarter of 2026 was revised downward due to lower-than-expected non-core inflation, while the core inflation forecast was revised slightly upward. The balance of risks around the inflation outlook remains tilted to the upside. Changes in US economic policy and prolonged geopolitical conflicts continue to add uncertainty. Meanwhile, the Mexican economy is estimated to have moderated in the third quarter, with slack conditions expected throughout the forecast horizon and downside risks to economic activity persisting."
+    },
+    {
+      "id": "mkt:01a0d4e4-e379-7118-8690-304b3cb3b9f1",
+      "time": "2026-09-25 03:29:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "NATO Secretary General Rutte said European countries can back US efforts to advance peace talks on Ukraine."
+    },
+    {
+      "id": "5112673",
+      "time": "2026-09-25 03:29:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 FDA 批准一款腎病藥物後，默沙東股價持平但成交量激增，最新上漲 0.50%，報 148.81 美元。"
+    },
     {
       "id": "5112671",
       "time": "2026-09-25 03:26:25",
@@ -116575,39 +116609,6 @@
         "國際"
       ],
       "text": "美國投資公司協會資料：美國貨幣市場基金資產降至 7.92 萬億美元。"
-    },
-    {
-      "id": "5100596",
-      "time": "2026-09-18 03:30:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室：據報船員安全，未造成環境影響。"
-    },
-    {
-      "id": "mkt:01a0b0d9-73eb-7118-85e9-1fa9f378cfc1",
-      "time": "2026-09-18 03:30:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UKMTO said it received a report of a security incident in the Strait of Hormuz, 16 nm northeast of Khasab, Oman. Crew safe; no environmental impact."
-    },
-    {
-      "id": "5100595",
-      "time": "2026-09-18 03:29:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室：收到一則安全事件報告，事發地點位於阿曼海塞卜東北方向 16 海里的霍爾木茲海峽。"
-    },
-    {
-      "id": "5100594",
-      "time": "2026-09-18 03:29:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會稱，聯邦法院認定 Fleetcor 收取未經授權費用，違反《聯邦貿易委員會法》，該公司同意支付 1 億美元了結這起行政訴訟。"
     }
   ]
 }
