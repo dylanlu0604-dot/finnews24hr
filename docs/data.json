@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-25 03:47:34",
-  "count": 12817,
+  "updated": "2026-09-25 03:51:26",
+  "count": 12815,
   "items": [
+    {
+      "id": "5112687",
+      "time": "2026-09-25 03:49:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統辛鮑姆：墨西哥將與韓國在人工智慧、電動出行領域開展合作。"
+    },
+    {
+      "id": "5112686",
+      "time": "2026-09-25 03:48:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：韓國將對虛假、非法進口商品開展監測。"
+    },
     {
       "id": "mkt:01a0d4f2-4bf5-7118-8690-5ccabd9bc5ec",
       "time": "2026-09-25 03:44:03",
@@ -116574,44 +116590,6 @@
         "國際"
       ],
       "text": "【花旗勢將透過該行歷來最大規模美元債發行籌集120億美元】花旗擬透過其史上規模最大的美元債發行籌集120億美元。信用市場在美聯儲週三加息後走強，該行抓住這一時機發債融資。據知情人士透露，這家華爾街大型銀行週四的債券發行吸引的認購需求峰值約為400億美元，相當於發行規模的約3.3倍。"
-    },
-    {
-      "id": "mkt:01a0b0eb-e75b-7118-85e9-5dfdd7a96716",
-      "time": "2026-09-18 03:50:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI appointed Brian McCarthy as vice president of global sales; he previously worked at SpaceX (SPCX.O)."
-    },
-    {
-      "id": "5100614",
-      "time": "2026-09-18 03:50:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：一架德克薩斯州的F-16戰機訓練時在密歇根州鄉村地區墜毀，軍方稱F-16飛行員在墜機後安全彈射逃生。"
-    },
-    {
-      "id": "mkt:01a0b0e9-34f5-7118-85e9-50ecdf475e51",
-      "time": "2026-09-18 03:47:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Prime Minister Netanyahu said had Israel not acted promptly against Iran, it would not be meeting here today and the State of Israel might already have ceased to exist."
-    },
-    {
-      "id": "mkt:01a0b0e9-2abd-7118-85e9-48968f8f9127",
-      "time": "2026-09-18 03:47:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel has many friends and supporters and must know how to influence them, and that he is working to preserve and even strengthen cooperation with the United States."
     }
   ]
 }
