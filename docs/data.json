@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-24 13:54:29",
-  "count": 12886,
+  "updated": "2026-09-24 13:58:14",
+  "count": 12890,
   "items": [
+    {
+      "id": "mkt:01a0d1fd-e810-7118-8678-bf56072539b9",
+      "time": "2026-09-24 13:57:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's Board of Investment targets $80 bln in semiconductor investment by 2050."
+    },
+    {
+      "id": "5111097",
+      "time": "2026-09-24 13:56:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國投資促進委員會：泰國目標到2050年吸引800億美元半導體投資。"
+    },
+    {
+      "id": "mkt:01a0d1fb-3393-7118-8678-b66bb396c0a1",
+      "time": "2026-09-24 13:54:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-shares shipbuilding names tied to China State Shipbuilding Corporation (CSSC) extended gains; Kun Chuan Intelligent neared the daily limit, while CSSC Hanguang, CSSC Technology and China Haifang also advanced."
+    },
+    {
+      "id": "5111096",
+      "time": "2026-09-24 13:54:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中船系板塊持續拉昇，昆船智慧逼近漲停】中船系板塊持續拉昇，昆船智慧逼近漲停，中船漢光、中船科技、中國海防跟漲。"
+    },
     {
       "id": "5111095",
       "time": "2026-09-24 13:52:03",
