@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-25 07:04:55",
-  "count": 12822,
+  "updated": "2026-09-25 07:10:18",
+  "count": 12823,
   "items": [
+    {
+      "id": "5112804",
+      "time": "2026-09-25 07:07:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球債券指數收益率自2007年以來首次達到4%。"
+    },
+    {
+      "id": "te:economy:586670",
+      "time": "2026-09-25 07:07:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "UK Consumer Confidence Hits More Than 2-Year High — The UK GfK Consumer Confidence Index rose to -13 in September 2026 from -14 in the previous month, unexpectedly reaching its highest level since August 2024 as households became more optimistic about their personal finances and the economic outlook. The reading came above the Reuters poll forecast of -16, adding to recent signs of resilience in the UK economy. Confidence in the economic outlook climbed to its highest level since August 2024, while the mood around personal finances reached an eight-month high. Separate YouGov/Cebr and LSEG/Ipsos surveys also recorded their strongest readings since February. However, GfK warned that confidence remains firmly in negative territory, while rising inflation, energy and fuel prices could weigh on households and cause sentiment to falter in the months ahead."
+    },
+    {
+      "id": "5112803",
+      "time": "2026-09-25 07:06:36",
+      "tags": [
+        "央行",
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【GfK：英國消費者信心的提振勢頭正在減弱】英國消費者信心在9月僅微幅上升，這表明由安迪·伯納姆（Andy Burnham）出任首相所引發的樂觀情緒，正隨著人們對生活成本擔憂的加劇而開始消退。捷孚凱（GfK）表示，其消費者信心指數僅上升了1個百分點至-13，而在前兩個月該指數曾大幅飆升了9個百分點。消費者同時表示，他們購買大件商品的意願有所下降。捷孚凱消費者洞察總監尼爾·貝拉米（Neil Bellamy）在接受電話採訪時表示：“這是一個臨界點。人們正在展望未來，並對能源價格的走勢感到擔憂。”伯納姆於7月接替基爾·斯塔默（Keir Starmer）出任首相，並立即宣佈了一系列旨在幫助民眾應對生活成本危機的措施。然而，這種被稱為“伯納姆反彈”的樂觀情緒似乎正在耗盡動力，因為消費者正在承受伊朗戰爭帶來的全面衝擊。燃料和能源成本的不斷上漲正在推高通脹，並增加了英國央行加息的壓力。與此同時，外界越來越猜測，財政大臣約翰·希利（John Healey）將在下個月的預算案中提高稅收，以彌補近期債券市場動盪對公共財政造成的損害。彭博經濟研究的一項分析發現，隨著1月份價格上限的重新調整，家庭能源賬單可能會再上漲25%——這一漲幅將推動2027年的消費者物價指數（CPI）通脹率升至4%以上。"
+    },
+    {
+      "id": "mkt:01a0d5a9-59ec-7118-8692-465f67fbf0c3",
+      "time": "2026-09-25 07:04:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【UK September consumer confidence at highest in over two years】GfK’s consumer confidence index rose to -13 in September, up one point from August and the strongest reading since August 2024. Households reported greater optimism on personal finances and the economic outlook reached its highest level since August 2024; views on personal finances hit an eight-month high. GfK director Neil Bellamy warned worsening inflation expectations could begin to pressure households, noting the index remains in negative territory and rising inflation, energy and fuel prices pose a risk to sentiment."
+    },
+    {
+      "id": "5112802",
+      "time": "2026-09-25 07:03:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI將在數日內預覽GPT-6 Cyber】據媒體援引多位知情人士的訊息報道，OpenAI 將在數日內預覽一款專注於網路安全的人工智慧模型 GPT-6 Cyber，並推出一款旨在幫助客戶更安全、更自動化地部署該模型的新產品。"
+    },
+    {
+      "id": "te:markets:586669",
+      "time": "2026-09-25 07:02:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "NZ 10Y Bond Yield Hits 34-month High — NZ 10 Year Government Bond Yield increased to 5.12%, the highest since November 2023. Over the past 4 weeks, New Zealand 10Y Bond Yield gained 34.47 basis points, and in the last 12 months, it increased 84.71 basis points."
+    },
     {
       "id": "mkt:01a0d5a6-ae63-7118-8692-3e36f434c65d",
       "time": "2026-09-25 07:01:05",
@@ -116604,53 +116668,6 @@
         "Impact bullish"
       ],
       "text": "ASUS has partnered with Poesis to develop autonomous trading agents using NVIDIA (NVDA.O) technology."
-    },
-    {
-      "id": "5100732",
-      "time": "2026-09-18 07:09:41",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、國務院辦公廳印發《關於進一步加強煙花爆竹全鏈條安全監管的意見》\n2、打通新技術新產品走向臨床的“關鍵一公里” 價格預立項，加速創新醫療技術落地（政策解讀）\n3、兩部門明確重要工業品低價無序競爭成本核算有關事項\n4、加快推動廣電視聽高質量發展（權威釋出·開局起步“十五五”）\n5、從下沉市場看消費潛力（縱橫）\n6、《全國種植業發展“十五五”規劃》印發\n7、《統計改革發展“十五五”規劃》釋出\n8、三項網路安全標準實踐指南釋出\n9、海南首臺“華龍一號”核電機組投產商運\n10、國內首款罕見病氨基酸元件類特醫食品獲批註冊\n11、《全國碳市場發展報告（2026）》釋出 全國碳市場累計成交量9.61億噸。"
-    },
-    {
-      "id": "em:qqyh_mlc:202609183877683465",
-      "time": "2026-09-18 07:09:39",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【時隔三年多再加息 美聯儲政策影響幾何】北京時間9月17日凌晨，美聯儲宣佈加息25個基點，將聯邦基金利率目標區間上調到3.75%至4%。同步更新的點陣圖顯示，在18名提供利率預測的官員中，有16名官員預計今年美聯儲至少還有1次加息。芝商所美聯儲觀察工具顯示，市場目前預期美聯儲在10月加息的機率略超50%。"
-    },
-    {
-      "id": "5100730",
-      "time": "2026-09-18 07:09:30",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平就發展先進製造業作出重要指示強調 持續做大做強先進製造業 為推進中國式現代化提供有力支撐 李強出席全國先進製造業大會並講話\n2、堅定不移建設製造強國——習近平總書記重要指示激勵廣大幹部群眾在先進製造業發展道路上攀高逐新、爭先致遠\n3、聚焦國家戰略需求 努力培養更多高素質人才——習近平總書記對吉林大學建校80週年的賀信激勵青年學子和教育科技工作者奮進擔當\n4、丁薛祥出席第23屆中國—東盟博覽會開幕式並會見與會外國政要\n5、讓中國製造的根扎得更深（今日談）\n6、湖南大力弘揚偉大長征精神——枝葉總關情 初心暖山鄉（賡續長征精神 奮進復興征程）\n7、凝聚起中華民族偉大復興的磅礴力量——新時代以來我國民族團結進步事業取得歷史性成就、發生歷史性變革。"
-    },
-    {
-      "id": "te:markets:584732",
-      "time": "2026-09-18 07:08:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Equities Head for Weekly Gain — The NZX 50 advanced 29 points, or 0.2%, to 13,785 in Friday morning trade, up for the third straight session, tracking gains on Wall Street overnight as easing oil prices softened Treasury yields, while the Fed’s rate hike reaffirmed the central bank’s commitment to contain inflation. Thursday’s data continued to lift sentiment after New Zealand’s GDP grew faster than expected in Q2. However, traders awaited China’s interest rate decision and US PMI data next week for clues about the economic outlook in the two countries. On the data front, New Zealand’s trade deficit narrowed in August from July, as exports rose more than imports, while food inflation stayed at a 19-month low. Real estate, consumer discretionary, and financials mainly drove the index, with notable gains including Port of Tauranga (1.0%), Chorus (0.8%), Hallenstein Glasson (0.8%), and Auckland International Airport (0.5%)."
-    },
-    {
-      "id": "5100727",
-      "time": "2026-09-18 07:06:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "世界銀行：集團執行董事會討論了泰國2027財年至2032財年新版國傢伙伴關係框架（CPF）。"
     }
   ]
 }

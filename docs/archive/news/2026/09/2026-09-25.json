@@ -1,7 +1,71 @@
 {
   "date": "2026-09-25",
-  "count": 479,
+  "count": 485,
   "items": [
+    {
+      "id": "5112804",
+      "time": "2026-09-25 07:07:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "全球債券指數收益率自2007年以來首次達到4%。"
+    },
+    {
+      "id": "te:economy:586670",
+      "time": "2026-09-25 07:07:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "UK Consumer Confidence Hits More Than 2-Year High — The UK GfK Consumer Confidence Index rose to -13 in September 2026 from -14 in the previous month, unexpectedly reaching its highest level since August 2024 as households became more optimistic about their personal finances and the economic outlook. The reading came above the Reuters poll forecast of -16, adding to recent signs of resilience in the UK economy. Confidence in the economic outlook climbed to its highest level since August 2024, while the mood around personal finances reached an eight-month high. Separate YouGov/Cebr and LSEG/Ipsos surveys also recorded their strongest readings since February. However, GfK warned that confidence remains firmly in negative territory, while rising inflation, energy and fuel prices could weigh on households and cause sentiment to falter in the months ahead."
+    },
+    {
+      "id": "5112803",
+      "time": "2026-09-25 07:06:36",
+      "tags": [
+        "央行",
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【GfK：英國消費者信心的提振勢頭正在減弱】英國消費者信心在9月僅微幅上升，這表明由安迪·伯納姆（Andy Burnham）出任首相所引發的樂觀情緒，正隨著人們對生活成本擔憂的加劇而開始消退。捷孚凱（GfK）表示，其消費者信心指數僅上升了1個百分點至-13，而在前兩個月該指數曾大幅飆升了9個百分點。消費者同時表示，他們購買大件商品的意願有所下降。捷孚凱消費者洞察總監尼爾·貝拉米（Neil Bellamy）在接受電話採訪時表示：“這是一個臨界點。人們正在展望未來，並對能源價格的走勢感到擔憂。”伯納姆於7月接替基爾·斯塔默（Keir Starmer）出任首相，並立即宣佈了一系列旨在幫助民眾應對生活成本危機的措施。然而，這種被稱為“伯納姆反彈”的樂觀情緒似乎正在耗盡動力，因為消費者正在承受伊朗戰爭帶來的全面衝擊。燃料和能源成本的不斷上漲正在推高通脹，並增加了英國央行加息的壓力。與此同時，外界越來越猜測，財政大臣約翰·希利（John Healey）將在下個月的預算案中提高稅收，以彌補近期債券市場動盪對公共財政造成的損害。彭博經濟研究的一項分析發現，隨著1月份價格上限的重新調整，家庭能源賬單可能會再上漲25%——這一漲幅將推動2027年的消費者物價指數（CPI）通脹率升至4%以上。"
+    },
+    {
+      "id": "mkt:01a0d5a9-59ec-7118-8692-465f67fbf0c3",
+      "time": "2026-09-25 07:04:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【UK September consumer confidence at highest in over two years】GfK’s consumer confidence index rose to -13 in September, up one point from August and the strongest reading since August 2024. Households reported greater optimism on personal finances and the economic outlook reached its highest level since August 2024; views on personal finances hit an eight-month high. GfK director Neil Bellamy warned worsening inflation expectations could begin to pressure households, noting the index remains in negative territory and rising inflation, energy and fuel prices pose a risk to sentiment."
+    },
+    {
+      "id": "5112802",
+      "time": "2026-09-25 07:03:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI將在數日內預覽GPT-6 Cyber】據媒體援引多位知情人士的訊息報道，OpenAI 將在數日內預覽一款專注於網路安全的人工智慧模型 GPT-6 Cyber，並推出一款旨在幫助客戶更安全、更自動化地部署該模型的新產品。"
+    },
+    {
+      "id": "te:markets:586669",
+      "time": "2026-09-25 07:02:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "NZ 10Y Bond Yield Hits 34-month High — NZ 10 Year Government Bond Yield increased to 5.12%, the highest since November 2023. Over the past 4 weeks, New Zealand 10Y Bond Yield gained 34.47 basis points, and in the last 12 months, it increased 84.71 basis points."
+    },
     {
       "id": "mkt:01a0d5a6-ae63-7118-8692-3e36f434c65d",
       "time": "2026-09-25 07:01:05",
