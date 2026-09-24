@@ -1,7 +1,121 @@
 {
   "date": "2026-09-24",
-  "count": 1672,
+  "count": 1684,
   "items": [
+    {
+      "id": "mkt:01a0d321-9ca1-7118-8684-66d2ef08a281",
+      "time": "2026-09-24 19:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say Russian, Ukrainian and US envoys will meet in New York."
+    },
+    {
+      "id": "5111884",
+      "time": "2026-09-24 19:15:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯、烏克蘭、美國特使將在紐約舉行會議。"
+    },
+    {
+      "id": "mkt:01a0d320-e475-7118-8684-582a6037c53e",
+      "time": "2026-09-24 19:15:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A UK government spokesman said London is seeking international consensus to protect freedom of navigation."
+    },
+    {
+      "id": "mkt:01a0d320-1e2a-7118-8684-5527e309d0e7",
+      "time": "2026-09-24 19:14:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Basra Oil Company head says Iraq is trucking about 250,000 bpd of Basra crude to Kirkuk for export via Turkey's Ceyhan port."
+    },
+    {
+      "id": "5111883",
+      "time": "2026-09-24 19:14:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【洽洽食品：擬以人民幣5000萬元-人民幣1億元回購公司股份】洽洽食品公告，擬使用自有資金以集中競價交易方式回購公司股份，回購價格不超過人民幣28.03元/股，股份擬用於後期實施股權激勵計劃或員工持股計劃；預計回購178.38萬股—356.76萬股，佔公司總股本的0.35%—0.71%，實施期限為董事會審議透過方案之日起12個月內。"
+    },
+    {
+      "id": "5111882",
+      "time": "2026-09-24 19:14:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅創電子：子公司擬4760萬美元收購永佳實業70%股權】雅創電子公告稱，公司全資子公司香港臺信擬以現金4760萬美元受讓龍啟宇持有的永佳實業(國際)有限公司70%股權，交易完成後永佳實業將成為公司控股子公司，納入合併報表範圍。本次交易不構成關聯交易及重大資產重組，已經公司董事會審議透過，無需提交股東會批准。交易對方承諾標的公司2026-2028年每年扣非歸母淨利潤不低於850萬美元，累計不低於2550萬美元，未達標將予以現金補償或股權回購。本次交易存在收購整合、商譽減值等風險。"
+    },
+    {
+      "id": "5111881",
+      "time": "2026-09-24 19:14:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴士拉石油公司負責人：伊拉克正透過公路將約每日25萬桶巴士拉原油運往基爾庫克，經土耳其傑伊漢港出口。"
+    },
+    {
+      "id": "mkt:01a0d31f-a944-7118-8684-4a73f30544ed",
+      "time": "2026-09-24 19:14:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi-led coalition in Yemen said it intercepted six ballistic missiles fired by Iran-backed Houthi forces."
+    },
+    {
+      "id": "mkt:01a0d31f-8d34-7118-8684-4757e8ae98cb",
+      "time": "2026-09-24 19:14:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【European EV sales jump 50% YoY as fuel prices surge】European electric vehicle sales rose over 50% YoY last month as surging fuel prices prompted consumers to shift away from internal-combustion cars. EVs now account for nearly one-third of sales on the continent. Luxury marques are transitioning: Bentley launched its first battery-electric model. Fuel costs have climbed this year amid the Ukraine war and a Gulf conflict, accelerating EV adoption in other regions. In the US, the Trump administration has canceled clean-energy tax incentives, but US EV sales are still expected to grow sharply. South Africa, Africa’s largest vehicle producer, is accelerating a shift from internal-combustion to electric-vehicle manufacturing."
+    },
+    {
+      "id": "5111880",
+      "time": "2026-09-24 19:14:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特領導的葉門聯盟：攔截了伊朗支援的胡塞武裝發射的6枚彈道導彈。"
+    },
+    {
+      "id": "5111879",
+      "time": "2026-09-24 19:14:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外長與伊朗外長阿拉格齊在紐約會面。"
+    },
+    {
+      "id": "mkt:01a0d31f-3a61-7118-8684-3dd1b4206d72",
+      "time": "2026-09-24 19:13:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank said El Nifio is elevating climate risks above normal levels."
+    },
     {
       "id": "5111878",
       "time": "2026-09-24 19:12:03",
