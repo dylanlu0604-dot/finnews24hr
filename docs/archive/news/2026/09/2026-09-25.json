@@ -1,7 +1,27 @@
 {
   "date": "2026-09-25",
-  "count": 366,
+  "count": 368,
   "items": [
+    {
+      "id": "te:markets:586659",
+      "time": "2026-09-25 04:17:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Costco Wholesale earnings above expectations at 6.75 USD — Costco Wholesale (COST) released earnings per share at 6.75 USD, compared to market expectations of 6.57 USD."
+    },
+    {
+      "id": "5112717",
+      "time": "2026-09-25 04:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "開市客第四季度每股收益6.75美元，上年同期5.87美元，預估6.53美元。"
+    },
     {
       "id": "mkt:01a0d50d-8630-7118-8690-d25a620326f9",
       "time": "2026-09-25 04:13:48",

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-25 04:14:32",
+  "updated": "2026-09-25 04:18:21",
   "count": 12826,
   "items": [
+    {
+      "id": "te:markets:586659",
+      "time": "2026-09-25 04:17:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Costco Wholesale earnings above expectations at 6.75 USD — Costco Wholesale (COST) released earnings per share at 6.75 USD, compared to market expectations of 6.57 USD."
+    },
+    {
+      "id": "5112717",
+      "time": "2026-09-25 04:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "開市客第四季度每股收益6.75美元，上年同期5.87美元，預估6.53美元。"
+    },
     {
       "id": "mkt:01a0d50d-8630-7118-8690-d25a620326f9",
       "time": "2026-09-25 04:13:48",
@@ -116679,23 +116699,6 @@
         "Importance 1"
       ],
       "text": "Argentina Jobless Rate Edges Higher in Q2 — Argentina’s unemployment rate rose to 7.9% in the second quarter of 2026, up from 7.8% in the previous quarter. The employment rate edged up to 45.0% from 44.8%, while labor force participation increased to 48.9% from 48.6%. By region, unemployment was highest in the Pampas region at 9.7%, followed by Greater Buenos Aires at 8.2%. The jobless rate stood at 8.4% for women and 7.5% for men. Unemployment among women aged 14 to 29 reached 17.1%, while the rate for men in the same age group stood at 14.1%. By education level, the largest share of unemployment was among those with completed secondary education at 2.8% of the labor force. Regarding job-search duration, 2.4% of the labor force had been looking for work for more than a year. Meanwhile, unemployment in urban areas outside Greater Buenos Aires rose significantly, from 6.8% to 7.6%."
-    },
-    {
-      "id": "5100627",
-      "time": "2026-09-18 04:15:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國五角大樓考慮從歐洲撤出近三分之一的美軍。"
-    },
-    {
-      "id": "mkt:01a0b101-c17f-7118-85e9-92b77fcf1b1f",
-      "time": "2026-09-18 04:14:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "According to MSNBC, the Pentagon is considering withdrawing nearly one-third of U.S. forces from Europe."
     }
   ]
 }
