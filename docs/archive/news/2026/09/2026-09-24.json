@@ -1,7 +1,156 @@
 {
   "date": "2026-09-24",
-  "count": 1125,
+  "count": 1141,
   "items": [
+    {
+      "id": "5111167",
+      "time": "2026-09-24 14:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市收盤】日經225指數收盤上漲0.8%，至65,513.99點。韓股今日休市。"
+    },
+    {
+      "id": "5111166",
+      "time": "2026-09-24 14:31:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.01%，成分股中，艾力斯醫藥科技跌7.15%，科大國盾量子跌5.92%，佰維儲存跌5.10%，四川華豐科技跌4.79%。"
+    },
+    {
+      "id": "5111165",
+      "time": "2026-09-24 14:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月24日：“農產品批發價格200指數”比昨天下降0.36個點】據農業農村部監測，9月24日“農產品批發價格200指數”為115.97，比昨天下降0.36個點，“菜籃子”產品批發價格指數為116.55，比昨天下降0.35個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.34元/公斤，比昨天下降0.5%；牛肉72.38元/公斤，比昨天上升1.1%；羊肉67.24元/公斤，比昨天上升1.2%；雞蛋11.01元/公斤，比昨天下降0.9%；白條雞17.37元/公斤，比昨天上升0.9%。重點監測的28種蔬菜平均價格為4.50元/公斤，比昨天下降0.7%；重點監測的6種水果平均價格為6.61元/公斤，比昨天下降0.6%。鯽魚19.43元/公斤，比昨天下降0.8%；鯉魚13.73元/公斤，比昨天下降1.1%；白鰱魚9.96元/公斤，比昨天下降0.2%；大帶魚42.20元/公斤，比昨天下降1.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是西瓜、冬瓜、蓮藕、白蘿蔔和菠蘿，幅度分別為5.4%、2.9%、2.7%、2.2%和1.2%；價格降幅前五名的是菠菜、蔥頭、芹菜、富士蘋果和菜花，幅度分別為3.7%、3.0%、2.5%、2.5%和2.3%。"
+    },
+    {
+      "id": "mkt:01a0d21c-2cab-7118-8679-92f581eaa308",
+      "time": "2026-09-24 14:30:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US media reported Venezuelan acting president Delcy Rodriguez, speaking at UN headquarters on Sept 23, 2026, pledged to hold timely elections and said the people would decide 'the appropriate time'."
+    },
+    {
+      "id": "5111164",
+      "time": "2026-09-24 14:30:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲5%，現報5239.00元。"
+    },
+    {
+      "id": "te:markets:586384",
+      "time": "2026-09-24 14:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.13% Higher — The Nikkei 225 Index went up by 734 points or 1.13 percent on Thursday to close at 65752 points. The rise was led by Resonac Holdings (6.91%), Nikon Corporation (6.82%) and Tokai Carbon (6.39%)."
+    },
+    {
+      "id": "5111163",
+      "time": "2026-09-24 14:30:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家郵政局：“兩節”期間寄遞服務需求旺盛，各企業要科學研判假期業務量峰值和流向流量】近日，國家郵政局印發通知，部署2026年中秋和國慶假期郵政快遞業安全生產和服務保障工作。通知指出，“兩節”期間人流、物流、車流高度集中，寄遞服務需求旺盛，各類安全風險交織疊加。各級郵政管理部門和各企業要深刻汲取近期全國重大生產安全事故教訓，嚴格落實部門監管責任和企業主體責任，加強風險研判，做到早發現、早預警、早處置，牢牢守住安全底線紅線。通知要求，各企業要科學研判假期業務量峰值和流向流量，精準儲備人力、物力、運力，確保郵件快件收投有序、運遞暢通；切實保障重點物資和民生物資寄遞服務，嚴格履行服務承諾，及時妥善處理延誤、丟失損毀、賠償等服務質量異議；郵政集團要確保郵政普遍服務持續提供。通知要求，各地各企業要完善矛盾糾紛排查化解機制，健全快遞員訴求直達機制，維護快遞員群體合法權益。"
+    },
+    {
+      "id": "mkt:01a0d21b-54ec-7118-8679-8968c1fb8472",
+      "time": "2026-09-24 14:30:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's Kharkiv regional governor said Russian strikes killed six people in the Kharkiv region."
+    },
+    {
+      "id": "mkt:01a0d21b-4941-7118-8679-81d35efa0f35",
+      "time": "2026-09-24 14:29:58",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share shipping and ports sector rebounded; Xiamen Port jumped over 7%, with peers including COSCO Shipping Energy and China Merchants Port also rising."
+    },
+    {
+      "id": "5111162",
+      "time": "2026-09-24 14:29:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "A股航運港口板塊回升，廈門港務漲超7%，海峽股份、國航遠洋、中遠海能、招商港口等個股跟漲。"
+    },
+    {
+      "id": "5111161",
+      "time": "2026-09-24 14:29:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭州長稱，俄羅斯襲擊造成烏克蘭哈爾科夫州六人死亡。"
+    },
+    {
+      "id": "mkt:01a0d21a-d485-7118-8679-7ab340345331",
+      "time": "2026-09-24 14:29:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "SC crude oil main contract surged 6.00% intraday to 736.90 yuan/barrel."
+    },
+    {
+      "id": "5111160",
+      "time": "2026-09-24 14:29:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【維維回應黑芝麻糊黴菌超標27倍】近日，上海市市場監督管理局公佈食品安全抽檢資訊，維維股份全資子公司維維華山核桃產業有限公司生產的一批次“維維”無新增蔗糖黑芝麻糊，因黴菌指標嚴重超標被判定為不合格。該批次產品規格320克/袋，生產日期2025年8月13日。檢測資料顯示，該批次5份樣品黴菌檢出值全部超過標準限值，最高達2800CFU/g，超出國標限值27倍。9月24日，針對此事，維維官方旗艦店客服回應稱，該批產品公司已第一時間召回並處理完畢，目前市場上已無在售，在售產品均經過嚴格檢測。截至9月23日收盤，維維股份股價報3.09元/股，市值為50億元，今年以來累計跌超9%。（中新經緯）"
+    },
+    {
+      "id": "mkt:01a0d21a-5305-7118-8679-7249a5bf1d75",
+      "time": "2026-09-24 14:28:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Century Huatong boosts AI: in-house decision model closed-loop validated in multiple games】Century Huatong subsidiary Tianyou Software and Chabiyue (Shanghai) Information Technology announced an in-house decision model that has completed closed-loop validation across multiple games. The model cleared 2048 and set a new continuous-record in Temple Run, surpassing 70,000 meters; single-decision latency has been compressed to the millisecond level and parameter count is kept below 50M."
+    },
+    {
+      "id": "5111159",
+      "time": "2026-09-24 14:28:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲6%，現報736.90元。"
+    },
+    {
+      "id": "5111158",
+      "time": "2026-09-24 14:28:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗胡齊斯坦省阿巴丹市傳出巨大爆炸聲，原因是一家煉油廠發生技術故障。"
+    },
     {
       "id": "mkt:01a0d219-904d-7118-8679-6bd3b084efe7",
       "time": "2026-09-24 14:28:05",
