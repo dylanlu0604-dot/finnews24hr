@@ -1,7 +1,125 @@
 {
-  "updated": "2026-09-24 18:34:53",
-  "count": 12821,
+  "updated": "2026-09-24 18:42:18",
+  "count": 12833,
   "items": [
+    {
+      "id": "te:markets:586510",
+      "time": "2026-09-24 18:40:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Remain High Amid Rate Hike Bets — UK 10-year gilt yields were little changed around 5.35%, remaining close to the 19-year highs reached earlier this month, as elevated oil prices and comments from Bank of England policymakers kept monetary policy in focus. Brent extended its recent gains as heightened Middle East tensions clouded prospects for a diplomatic resolution to the US-Iran war. BoE Deputy Governor Clare Lombardelli said rates may need to rise if energy prices remain elevated, unless there is clear evidence of a weaker economy. Meanwhile, MPC member Swati Dhingra said inflation expectations were not yet a source of concern. The latest PMI showed UK business activity continued to expand in September, although growth slowed slightly and fell short of expectations. Markets nevertheless continue to price in a solid chance of a 25-basis-point BoE rate hike in November. In the US, investors also increased bets on further Fed rate hikes following hawkish comments from policymakers and stronger-than-expected PMI data."
+    },
+    {
+      "id": "mkt:01a0d300-88d3-7118-8683-c52ecd0a6200",
+      "time": "2026-09-24 18:40:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【PBOC fines China Guangfa Bank about CNY17.14m for 10 compliance breaches】The People’s Bank of China disclosed an administrative penalty on China Guangfa Bank for 10 violations, including breaches of financial-statistics rules, account and clearing management, bankcard acquiring, data security, anti-counterfeit-currency controls, occupying fiscal deposits/funds, violations of credit-information rules, failure to perform customer ID checks and failure to report large transactions. The PBOC issued a warning, confiscated illegal proceeds of CNY16,200 and imposed a fine of CNY17,124,000, totaling about CNY17.14 million."
+    },
+    {
+      "id": "5111814",
+      "time": "2026-09-24 18:39:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南方致遠混合作為首批固收+產品納入個人養老金】9月24日，根據《關於做好含權二級債基、偏債混合基金納入個人養老金基金產品名錄工作的通知》，含權二級債基與偏債混合基金正式納入個人養老金基金產品名錄。南方基金旗下南方致遠混合增設Y類基金份額（Y份額簡稱：南方致遠混合Y），成為國內首批納入個人養老金的“固收+”產品。"
+    },
+    {
+      "id": "5111813",
+      "time": "2026-09-24 18:39:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天承科技：持股5%以上股東減持觸及1%刻度】天承科技公告稱，公司持股5%以上股東上海青騏企業管理合夥企業（有限合夥）於2026年9月22日至9月24日透過集中競價合計減持公司無限售流通股31.18萬股，佔公司總股本的0.25%。本次變動後，上海青騏持股比例由11.25%降至11.00%，觸及1%刻度。本次權益變動為該股東履行此前披露的減持計劃，不觸及要約收購，不會導致公司控股股東及實控人變化，不存在違反此前承諾的情況。"
+    },
+    {
+      "id": "5111812",
+      "time": "2026-09-24 18:38:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華康潔淨：中標醫療專項分包工程 合同價5400萬元】華康潔淨公告稱，公司中標武漢市新洲區人民醫院整體外遷專案EPC總承包二標段醫療專項專業分包工程，已與武漢建工集團股份有限公司新洲分公司簽署相關分包合同，暫定含稅總價款5400萬元，工期120個日曆天，工程質量需達到“國家優質工程獎”標準。該合同為日常經營合同，不涉及關聯交易，無需提交董事會或股東會審議，若順利履行將對公司未來經營業績產生積極影響，實際結算金額存在不確定性。"
+    },
+    {
+      "id": "5111811",
+      "time": "2026-09-24 18:37:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "L&T科技公司與Cognite就工業人工智慧達成合作。"
+    },
+    {
+      "id": "mkt:01a0d2fe-4745-7118-8683-bc6a83ac069a",
+      "time": "2026-09-24 18:37:54",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "EURUSD",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "【Eurozone bond selloff intensifies; yields hit multi-year highs】Eurozone bonds sold off on Thursday, pushing yields to multi-year highs as rising oil and stronger economic data boosted market bets on further ECB tightening. Germany's 10-year Bund yield rose 3 bps to 3.575%, its highest in more than 17 years. Deutsche Bank rates strategist Hauke Siemssen said the oil rebound was the primary driver. Brent crude climbed above $106/bbl, its highest in over a week, after scant progress in US‑Iran diplomatic talks aimed at ending the conflict."
+    },
+    {
+      "id": "5111810",
+      "time": "2026-09-24 18:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣發銀行被罰沒超1714萬元 涉金融統計、徵信及反洗錢等10項違法行為】中國人民銀行日前披露行政處罰資訊，廣發銀行因違反金融統計、賬戶管理、清算、銀行卡收單、資料安全、反假貨幣等管理規定，以及佔壓財政存款或資金、違反信用資訊管理規定、未按規定履行客戶身份識別義務、未按規定報送大額交易報告等10項違法行為，被警告、沒收違法所得1.62萬元，並罰款1712.4萬元，合計罰沒約1714萬元。"
+    },
+    {
+      "id": "5111809",
+      "time": "2026-09-24 18:37:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門稱麥加、塔伊夫、吉達、延布和塔布克地區的危險已經解除。"
+    },
+    {
+      "id": "mkt:01a0d2fd-7a7a-7118-8683-b18cbfcb94e5",
+      "time": "2026-09-24 18:37:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense said the danger in Mecca, Taif, Jeddah, Yanbu and Tabuk has been lifted."
+    },
+    {
+      "id": "5111808",
+      "time": "2026-09-24 18:37:01",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國人民銀行釋出《銀罰決字〔2026〕104-116號》"
+    },
+    {
+      "id": "5111807",
+      "time": "2026-09-24 18:35:50",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "印尼財政部長：在與央行的會議上，我們討論了政策，但依照我們各自的職責。"
+    },
+    {
+      "id": "5111806",
+      "time": "2026-09-24 18:34:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凌雲光：控股股東姚毅等擬詢價轉讓公司3.6%股份】凌雲光(688400)9月24日公告，公司控股股東、實際控制人之一、董事長兼總經理姚毅及員工持股平臺東臺凌傑企業管理合夥企業（有限合夥）、東臺凌光企業管理合夥企業（有限合夥）擬詢價轉讓公司股份1712.7萬股（佔公司總股本的3.60%）。"
+    },
     {
       "id": "5111805",
       "time": "2026-09-24 18:34:21",
@@ -116686,18 +116804,6 @@
         "Importance 1"
       ],
       "text": "Moldova Central Bank Raises Policy Rate to 9% — The National Bank of Moldova raised its benchmark interest rate by 250 basis points to 9% in September 2026, lifting borrowing costs to their highest level since 2023, citing economic uncertainty and volatility in energy markets. Headline inflation accelerated to 6.96% in August, remaining near the upper limit of the central bank’s 5 ± 1.5% target range, reflecting the impact of higher international oil prices on inflationary pressures. However, inflation was lower than expected due to the delayed adjustment of natural gas tariffs. Meanwhile, economic activity accelerated to 0.9% in the second quarter, supported by industry, agriculture, financial and insurance activities, and trade. Looking ahead, inflation is expected to continue rising relatively quickly through the end of 2026, although the outlook will depend on energy and food prices, external financing, the fiscal impulse, and the implementation of the new fiscal policy for 2027. After 2026, policymakers expect disinflation."
-    },
-    {
-      "id": "te:economy:584561",
-      "time": "2026-09-17 18:41:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Youth Unemployment Rate",
-        "Importance 2"
-      ],
-      "text": "China Youth Jobless Rate Surges to 1-Year High — China's urban youth unemployment rate for people aged 16–24, excluding students, rose for a second consecutive month to 18.9% in August 2026, the highest level in a year, from 17.9% in July, according to the National Bureau of Statistics. This increase mirrored the broader jobless rate, which went up to 5.3% from 5.2%. An estimated 12.7 million university students graduated this summer, marking a record influx of young workers into a labour market already strained by slowing economic growth and the rapid expansion of artificial intelligence. Meanwhile, the unemployment rate for 25–29-year-olds, excluding students, inched up to 7.5% from 7.2%, while the jobless rate for the 30–59 age group remained unchanged at 3.9%."
     }
   ]
 }
