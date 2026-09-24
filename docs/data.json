@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-25 03:36:04",
-  "count": 12818,
+  "updated": "2026-09-25 03:39:55",
+  "count": 12815,
   "items": [
+    {
+      "id": "mkt:01a0d4ee-1ef6-7118-8690-523c56c20089",
+      "time": "2026-09-25 03:39:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York City Mayor Mandani: No lie can change the fact that Netanyahu remains subject to an ICC arrest warrant."
+    },
+    {
+      "id": "mkt:01a0d4ed-fafb-7118-8690-4ea7a2a91609",
+      "time": "2026-09-25 03:39:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York City Mayor Mandani said Netanyahu repeated \"baseless lies\" at the UN and was trying to conceal his \"genocide\" of Palestinians."
+    },
+    {
+      "id": "5112681",
+      "time": "2026-09-25 03:38:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約市長馬姆達尼：任何謊言都無法改變他仍是國際刑事法院逮捕令物件這一事實。"
+    },
+    {
+      "id": "5112680",
+      "time": "2026-09-25 03:38:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐約市長馬姆達尼：內塔尼亞胡借聯合國大會演講重複毫無根據的謊言，企圖為其 “對巴勒斯坦人的種族滅絕” 洗白。"
+    },
     {
       "id": "5112676",
       "time": "2026-09-25 03:33:50",
@@ -427,6 +459,15 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.24%，報24622.78點，低水138.35點。"
+    },
+    {
+      "id": "5112637",
+      "time": "2026-09-25 02:59:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國參議院否決限制特朗普對伊朗戰爭許可權決議】美國參議院以50票對49票否決了一項限制特朗普對伊朗戰爭許可權的決議，該決議要求總統撤回參與對伊朗敵對行動的美軍。投票基本按黨派劃分，共和黨多數議員反對，4名共和黨參議員與民主黨一起支援該措施。此次投票正值美國中期選舉臨近之際，伊朗衝突導致能源價格上漲，汽柴油價格成為共和黨候選人在競選中面臨的壓力點。部分共和黨議員呼籲政府儘快結束戰爭或提出降低能源成本的方案。參議院多數黨領袖約翰·圖恩稱，限制戰爭許可權的投票屬於“政治性投票”，但表示共和黨候選人在中期選舉前可以表達不同於特朗普的立場。部分議員擔憂高能源成本正在增加農民、企業和消費者負擔。"
     },
     {
       "id": "mkt:01a0d4c9-6b0e-7118-868f-be3a0bd991f5",
@@ -116552,78 +116593,6 @@
         "USDJPY"
       ],
       "text": "【Dollar index falls sharply on the 17th】The dollar index, which measures the dollar against six major currencies, closed at 100.248 at the New York close on the 17th. EUR/USD rose to 1.1475 from 1.1470. GBP/USD fell to 1.3353 from 1.3382. USD/JPY climbed to 156.04 from 155.92. USD/CHF eased to 0.8248 from 0.8250. USD/CAD slipped to 1.3992 from 1.3994. USD/SEK declined to 9.8256 from 9.8598."
-    },
-    {
-      "id": "5100608",
-      "time": "2026-09-18 03:39:28",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【KKR上調美國國債收益率預期 認為美聯儲將把高利率維持更久】KKR & Co.上調了對美國長期國債收益率的預測，並表示，預計美聯儲將把基準利率維持在高於此前預期的水平，理由是美聯儲主席凱文·沃什對持續通脹感到擔憂。根據一份發給客戶的報告，這家美國私募股權公司預計，10年期美國國債收益率今年年底將在5.1%，高於此前預測的5.0%；到2027年底將達到4.9%，高於此前預測的4.7%。KKR預計，美聯儲將在12月份、然後3月份再度加息，之後利率將維持不變一直到2029年初，而此前的預期是維持到2028年。以該公司全球宏觀和資產配置主管Henry H. McVey為首的團隊寫道：“我們仍然認為，在名義增長處於高位、財政赤字龐大以及對資本的競爭持續的環境下，收益率曲線長端的投資者將要求獲得合理的期限溢價。”"
-    },
-    {
-      "id": "5100606",
-      "time": "2026-09-18 03:39:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數17日大幅下跌】衡量美元對六種主要貨幣的美元指數當天在匯市尾市收於100.248。截至紐約匯市尾市，1歐元兌換1.1475美元，高於前一交易日的1.1470美元；1英鎊兌換1.3353美元，低於前一交易日的1.3382美元。1美元兌換156.04日元，高於前一交易日的155.92日元；1美元兌換0.8248瑞士法郎，低於前一交易日的0.8250瑞士法郎；1美元兌換1.3992加元，低於前一交易日的1.3994加元；1美元兌換9.8256瑞典克朗，低於前一交易日的9.8598瑞典克朗。"
-    },
-    {
-      "id": "5100605",
-      "time": "2026-09-18 03:38:15",
-      "tags": [
-        "資料"
-      ],
-      "text": "【阿根廷經濟出現2024年以來首次季度收縮】阿根廷經濟在第二季度出現兩年來首次收縮，對總統哈維爾·米萊（Javier Milei）的政府構成挫折。4-6月期間，國內生產總值（GDP）較上一季度下降0.6%，優於彭博社調查分析師的-0.9%中值預估。按年率計算，經濟擴張2%，政府週四公佈的資料顯示。出口是本季度唯一推動增長的類別，同時進口出現回落。政府支出、消費者支出和資本形成均出現季度環比下滑。同期失業率小幅上升至7.9%。根據AtlasIntel 8月的一項民調，失業是阿根廷人最關心的經濟問題。"
-    },
-    {
-      "id": "mkt:01a0b0e0-6bf2-7118-85e9-3e17c9a5df99",
-      "time": "2026-09-18 03:38:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the Senate has advanced a revised Farm Bill and that it will ultimately pass with Republican support."
-    },
-    {
-      "id": "mkt:01a0b0e0-066a-7118-85e9-368c53dc73c6",
-      "time": "2026-09-18 03:37:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International oil prices slipped on 17th】At the close, NYMEX WTI October delivery fell $0.52 to $101.91/bbl, down 0.51%. ICE Brent November delivery fell $1.01 to $104.82/bbl, down 0.95%."
-    },
-    {
-      "id": "5100604",
-      "time": "2026-09-18 03:36:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一架戰機在美國密歇根州墜毀】一架美國F-16戰鬥機當地時間9月17日在密歇根州北部的布萊爾鎮墜毀，地點靠近633號縣道與布萊爾市政廳路交界處。救援人員正趕往墜機現場。目前，633號縣道已封閉。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a0b0df-0f19-7118-85e9-2a2760f4722e",
-      "time": "2026-09-18 03:36:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【F-16 fighter crashes in northern Michigan】On Sept. 17 local time, an F-16 fighter jet crashed in Blair Township in northern Michigan, near the junction of County Road 633 and Blair Township Hall Road. Rescue personnel are en route to the crash site. County Road 633 has been closed."
-    },
-    {
-      "id": "5100603",
-      "time": "2026-09-18 03:36:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價17日微跌】截至當天收盤，紐約商品交易所10月交貨的輕質原油期貨價格下跌52美分，收於每桶101.91美元，跌幅為0.51%；11月交貨的倫敦布倫特原油期貨價格下跌1.01美元，收於每桶104.82美元，跌幅為0.95%。"
     }
   ]
 }
