@@ -1,7 +1,120 @@
 {
-  "updated": "2026-09-24 13:43:07",
-  "count": 12865,
+  "updated": "2026-09-24 13:46:51",
+  "count": 12878,
   "items": [
+    {
+      "id": "5111090",
+      "time": "2026-09-24 13:46:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "SHELLY GROUP：施耐德電氣收購要約對SHELLY GROUP的估值約為12億歐元，較未受影響的參考價格溢價27%。"
+    },
+    {
+      "id": "5111089",
+      "time": "2026-09-24 13:45:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷迪克等在黃山成立機電科技公司，註冊資本1200萬】天眼查App顯示，9月20日，黃山雷迪克機電科技有限公司成立，法定代表人為陸莎莎，註冊資本1200萬人民幣，經營範圍包括軸承、齒輪和傳動部件製造等。股東資訊顯示，該公司由杭州雷迪克節能科技股份有限公司、汪震宇共同持股，其中前者持股62.5%。"
+    },
+    {
+      "id": "5111088",
+      "time": "2026-09-24 13:45:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "科赫爾表示，歐洲央行將在每次會議上評估利率。"
+    },
+    {
+      "id": "5111087",
+      "time": "2026-09-24 13:45:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委科赫爾表示，歐元區經濟依然脆弱。"
+    },
+    {
+      "id": "5111086",
+      "time": "2026-09-24 13:44:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東2026年“雙11”定檔10月12日】京東今年“雙11”將於10月12日全面開啟、現貨開賣。從整體節奏來看，大促期分為起售期、開門紅、專場期、高潮期以及返場期。"
+    },
+    {
+      "id": "5111085",
+      "time": "2026-09-24 13:44:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "科赫爾：必須防止通脹過高並變得根深蒂固。"
+    },
+    {
+      "id": "te:markets:586368",
+      "time": "2026-09-24 13:44:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Finish Nearly Flat — The NZX 50 was little changed at 13,825 at the close on Thursday, after gaining in the morning session and following losses in the previous session, as gains in energy, industrials, and financials were offset by declines in tech stocks, communication services, and real estate. Traders were cautious amid higher oil prices as uncertainty persisted over US-Iran talks. Recently, RBNZ Governor Anna Breman warned that inflation could be higher if high oil prices persist. Caution also prevailed as traders awaited the outcome of the Trump-Xi summit, with AI and tariffs expected to be discussed at the meeting. In the US, Wall Street closed in the red overnight as a surge in Treasury yields drove a market sell-off and raised expectations for a Fed interest rate hike. Briscoe Group plunged 4.2%, Gentrack Group slumped 3.7%, ANZ Group fell 2.5%, and Mainfreight shed 0.7%, while Colonial Motor, Delegat Group, and Freightways Group rose 3.7%, 1.4%, and 0.7%, respectively."
+    },
+    {
+      "id": "5111084",
+      "time": "2026-09-24 13:44:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委科赫爾：歐洲經濟表現出比預期更強的韌性。"
+    },
+    {
+      "id": "5111083",
+      "time": "2026-09-24 13:43:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特7月進口下降15.4%。"
+    },
+    {
+      "id": "mkt:01a0d1f0-d77a-7118-8678-8461c9262ebf",
+      "time": "2026-09-24 13:43:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi government data showed Saudi merchandise exports fell 17.2% YoY in July; oil exports declined 12.8% YoY."
+    },
+    {
+      "id": "5111082",
+      "time": "2026-09-24 13:43:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特7月非石油出口（含轉口）同比下降26.2%。"
+    },
+    {
+      "id": "mkt:01a0d1f0-4023-7118-8678-7ac5fda377b5",
+      "time": "2026-09-24 13:42:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. and Brent crude each rose $0.50 in a short-term uptick, trading at $91.3/bbl and $98.3/bbl respectively."
+    },
     {
       "id": "5111081",
       "time": "2026-09-24 13:42:34",
@@ -17,6 +130,15 @@
         "觀點",
         "央行",
         "國際"
+      ],
+      "text": "【花旗：預計美聯儲將於10月、12月維持利率不變 2027年6月恢復降息】花旗預計，美聯儲將於10月維持利率不變並等候更多資料，以評估政策利率上調25個基點的影響，其後於12月再次按兵不動，屆時一連串較溫和的通脹資料應可提供足夠證據顯示通脹正在放緩，支援美聯儲再次維持利率不變。而隨著通脹持續降溫，花旗預計美聯儲將於2027年6月恢復降息。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609243883585779",
+      "time": "2026-09-24 13:41:06",
+      "tags": [
+        "央行",
+        "美聯儲"
       ],
       "text": "【花旗：預計美聯儲將於10月、12月維持利率不變 2027年6月恢復降息】花旗預計，美聯儲將於10月維持利率不變並等候更多資料，以評估政策利率上調25個基點的影響，其後於12月再次按兵不動，屆時一連串較溫和的通脹資料應可提供足夠證據顯示通脹正在放緩，支援美聯儲再次維持利率不變。而隨著通脹持續降溫，花旗預計美聯儲將於2027年6月恢復降息。"
     },
