@@ -1,7 +1,92 @@
 {
-  "updated": "2026-09-24 09:13:25",
-  "count": 12782,
+  "updated": "2026-09-24 09:17:25",
+  "count": 12779,
   "items": [
+    {
+      "id": "mkt:01a0d0fb-8aa6-7118-8674-00360561b667",
+      "time": "2026-09-24 09:15:40",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures day session opened down 0.62% at 24,660, trading 174 points below the cash index."
+    },
+    {
+      "id": "5110771",
+      "time": "2026-09-24 09:15:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7489，較上日調低21點】人民幣兌美元中間價報6.7489，較上日調低21點。"
+    },
+    {
+      "id": "5110770",
+      "time": "2026-09-24 09:15:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7489元。"
+    },
+    {
+      "id": "5110769",
+      "time": "2026-09-24 09:15:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國向中國返還12件流失文物藝術品】當地時間9月23日，英國向中國返還12件流失文物藝術品的交接儀式在中國駐英國使館舉行。文化和旅遊部副部長、國家文物局局長饒權影片致辭，中國駐英國大使鄭澤光，英國倫敦大都會警察廳，英國外交發展部，英國數字、文化、媒體和體育部，歐洲安全與合作組織代表出席儀式。"
+    },
+    {
+      "id": "5110768",
+      "time": "2026-09-24 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.56%，報24680.60點，低水153.52點。"
+    },
+    {
+      "id": "mkt:01a0d0f9-dd0d-7118-8673-fe2dd345f66b",
+      "time": "2026-09-24 09:13:50",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Bond Connect Southbound marks five years with strong growth】On Sept. 24 Bond Connect Southbound marked its fifth anniversary. Custodial holdings of Southbound infrastructure bonds rose to about 1 trillion yuan by end-August 2026, versus below 10 billion yuan at end-September 2021, roughly a 100-fold increase over five years. After an expansion of participating institutions in July 2025, domestic institutional participation surged; custodial holdings nearly doubled between end-July 2025 and end-August 2026."
+    },
+    {
+      "id": "te:markets:586283",
+      "time": "2026-09-24 09:13:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Fall Sharply Ahead of Labor Data — Australian stocks plunged 116 points or 1.3% to 8,649 in early deals on Thursday, reversing modest gains in the previous three sessions as Wall Street’s overnight losses spilled into local markets. Surging U.S. bond yields, inflation fears, and renewed Middle East tensions that lifted oil prices above USD US103 pressured sentiment. Caution also mounted ahead of August labor data later today after July’s surprise uptick in unemployment and a decline in employment. Meanwhile, RBA Assistant Governor Sarah Hunter warned cash rates may need to rise again if inflation persists, reinforcing expectations from the four major banks that the central bank will hike next week. All sectors retreated, led by manufacturing, non-energy minerals, and financials. The big four banks fell 1.7%–1.9%, while steep losses hit PLS Group (-4.9%), Lynas Rare Earths (-4.6%), and Nextdc (-3.5%). Traders now anticipate a bilateral summit between U.S. President Donald Trump and China's leader Xi Jinping later today."
+    },
+    {
+      "id": "5110767",
+      "time": "2026-09-24 09:13:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿根廷國家石油公司（YPF）：阿根廷液化天然氣專案已收到美國進出口銀行提供的最高60億美元長期融資方案。"
+    },
+    {
+      "id": "mkt:01a0d0f9-063c-7118-8673-f0962b9282de",
+      "time": "2026-09-24 09:12:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GLW.O",
+        "Impact bullish"
+      ],
+      "text": "【Corning to expand Polarcor™ capacity, signs multi-year supply agreement】Sept 24 — Corning will expand Polarcor™ glass polarizer capacity to meet rising demand from AI data centers and computing applications and has signed a multi-year supply agreement with an active photonics technology company. The expansion increases engineered glass polarizer output used in optical isolators and other laser optics, key components in advanced photonic systems. The supply pact secures long-term delivery for a major customer and the added capacity is intended to address rapid market growth."
+    },
     {
       "id": "5110766",
       "time": "2026-09-24 09:12:26",
@@ -115969,115 +116054,6 @@
         "市場"
       ],
       "text": "【我國綠色貿易進出口規模居全球首位】今天（17日），《中國綠色貿易發展報告（2026）》釋出。報告顯示，2025年，我國綠色貿易進出口額達到8022.51億美元，佔全球綠色貿易總額的14.68%，規模居全球首位。節能降碳類和清潔能源類產品合計佔我國綠色產品出口的82.35%，成為綠色出口的兩大主力。"
-    },
-    {
-      "id": "te:economy:584394",
-      "time": "2026-09-17 09:17:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Australia 10Y Yield Trades Near 2011 Highs — Australia’s 10-year government bond yield traded above 5.3%, near its highest level since mid-2011, tracking a surge in global bond yields after the Federal Reserve delivered its first rate hike in three years. The Fed unanimously raised its federal funds rate by 25 basis points to 3.75%-4.00% as expected, citing elevated inflation, while updated projections showed 16 of 18 officials expect at least one more hike this year. Focus now turns to the Reserve Bank of Australia’s September 29 policy decision, with markets pricing an 85% chance of a 25bp increase from the current 4.35% rate and expectations for the cash rate to reach 4.85% by early 2027. The IMF also flagged persistent inflation and rising energy prices as risks that could require further RBA rate hikes. Meanwhile, traders continued to monitor developments in the Iran-US war and its impact on oil prices. Crude remains above $100 per barrel, although prices are easing as Saudi Arabia works to restore pipeline capacity."
-    },
-    {
-      "id": "te:markets:584393",
-      "time": "2026-09-17 09:16:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Rise Further — Australian equities advanced 43 points, or 0.5%, to 8,739 in early Thursday trade, extending prior gains as a rebound in U.S. stock futures lifted sentiment after an overnight retreat on Wall Street following the Federal Reserve’s first rate hike in three years. Bargain hunting persisted following a near ten-week local low earlier this week, with investors weighing sticky inflation and the likelihood of another Reserve Bank move later this month. Meanwhile, Reserve Bank Governor Michele Bullock is scheduled to testify before Parliament on Friday. In top trading partner China, mixed August data spurred hopes of fresh stimulus, offering some support. Financials, tech, and manufacturing led advances, offset by weakness in healthcare and resources. The big four banks rallied alongside insurers QBE (1.9%) and IAG (0.8%), while Qantas (2.2%), Bluescope Steel (2.1%), and Ramsay Health Care (1.2%) also outperformed. Energy lagged, with Woodside down 1.5% and Santos off 2.1%."
-    },
-    {
-      "id": "em:qqyh_mlc:202609173876851279",
-      "time": "2026-09-17 09:16:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【沃什“動真格”！市場定價預計美聯儲到明年年中還將加息三次】利率互換市場的定價顯示，在美聯儲週三自2023年以來首次加息並預測將進一步收緊貨幣政策後，交易員目前已將明年年中前美聯儲再加息三次的預期計入價格，較9月決議公佈前多出一次。"
-    },
-    {
-      "id": "5098706",
-      "time": "2026-09-17 09:16:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "新臺幣兌美元貶值至1美元兌31.958新臺幣，創8月20日以來新低。"
-    },
-    {
-      "id": "em:qqyh_mlc:202609173876926334",
-      "time": "2026-09-17 09:15:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "高盛稱，調整預測，預期美聯儲在10月再次加息。"
-    },
-    {
-      "id": "5098705",
-      "time": "2026-09-17 09:15:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：MANUS首輪融資目標估值40億美元。"
-    },
-    {
-      "id": "5098704",
-      "time": "2026-09-17 09:15:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7580元，較上日調高48點。"
-    },
-    {
-      "id": "5098703",
-      "time": "2026-09-17 09:15:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第23屆中國—東盟博覽會今天開幕】今天，第23屆中國—東盟博覽會在廣西南寧開幕。本屆東博會，有70多個國家和地區的3400多家企業參展，東帝汶首次以共辦方身份亮相，這也是東盟擴容以後11國首次在南寧齊聚。今年的東博會還首次設定東盟國家需求展區，智慧撮合企業精準對接。與此同時，第23屆中國—東盟商務與投資峰會也將於今天開始在廣西南寧舉行。"
-    },
-    {
-      "id": "5098702",
-      "time": "2026-09-17 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.88%，報24471.20點，低水242.58點。"
-    },
-    {
-      "id": "5098701",
-      "time": "2026-09-17 09:13:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【洽洽食品等在雲南成立科技發展新公司】 企查查APP顯示，近日，雲南潤核源科技發展有限公司成立，經營範圍包含科技中介服務；食用農產品批發；初級農產品收購；農副產品銷售等。企查查股權穿透顯示，該公司由洽洽食品等共同持股。"
-    },
-    {
-      "id": "5098700",
-      "time": "2026-09-17 09:13:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "菜粕連續主力合約日內漲2%，現報2420.00元。"
-    },
-    {
-      "id": "5098699",
-      "time": "2026-09-17 09:13:28",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "高盛調整預測，預計美聯儲將在10月額外加息一次。"
     }
   ]
 }

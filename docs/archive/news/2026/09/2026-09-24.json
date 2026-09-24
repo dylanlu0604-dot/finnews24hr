@@ -1,7 +1,92 @@
 {
   "date": "2026-09-24",
-  "count": 572,
+  "count": 581,
   "items": [
+    {
+      "id": "mkt:01a0d0fb-8aa6-7118-8674-00360561b667",
+      "time": "2026-09-24 09:15:40",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures day session opened down 0.62% at 24,660, trading 174 points below the cash index."
+    },
+    {
+      "id": "5110771",
+      "time": "2026-09-24 09:15:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7489，較上日調低21點】人民幣兌美元中間價報6.7489，較上日調低21點。"
+    },
+    {
+      "id": "5110770",
+      "time": "2026-09-24 09:15:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7489元。"
+    },
+    {
+      "id": "5110769",
+      "time": "2026-09-24 09:15:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國向中國返還12件流失文物藝術品】當地時間9月23日，英國向中國返還12件流失文物藝術品的交接儀式在中國駐英國使館舉行。文化和旅遊部副部長、國家文物局局長饒權影片致辭，中國駐英國大使鄭澤光，英國倫敦大都會警察廳，英國外交發展部，英國數字、文化、媒體和體育部，歐洲安全與合作組織代表出席儀式。"
+    },
+    {
+      "id": "5110768",
+      "time": "2026-09-24 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.56%，報24680.60點，低水153.52點。"
+    },
+    {
+      "id": "mkt:01a0d0f9-dd0d-7118-8673-fe2dd345f66b",
+      "time": "2026-09-24 09:13:50",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Bond Connect Southbound marks five years with strong growth】On Sept. 24 Bond Connect Southbound marked its fifth anniversary. Custodial holdings of Southbound infrastructure bonds rose to about 1 trillion yuan by end-August 2026, versus below 10 billion yuan at end-September 2021, roughly a 100-fold increase over five years. After an expansion of participating institutions in July 2025, domestic institutional participation surged; custodial holdings nearly doubled between end-July 2025 and end-August 2026."
+    },
+    {
+      "id": "te:markets:586283",
+      "time": "2026-09-24 09:13:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Fall Sharply Ahead of Labor Data — Australian stocks plunged 116 points or 1.3% to 8,649 in early deals on Thursday, reversing modest gains in the previous three sessions as Wall Street’s overnight losses spilled into local markets. Surging U.S. bond yields, inflation fears, and renewed Middle East tensions that lifted oil prices above USD US103 pressured sentiment. Caution also mounted ahead of August labor data later today after July’s surprise uptick in unemployment and a decline in employment. Meanwhile, RBA Assistant Governor Sarah Hunter warned cash rates may need to rise again if inflation persists, reinforcing expectations from the four major banks that the central bank will hike next week. All sectors retreated, led by manufacturing, non-energy minerals, and financials. The big four banks fell 1.7%–1.9%, while steep losses hit PLS Group (-4.9%), Lynas Rare Earths (-4.6%), and Nextdc (-3.5%). Traders now anticipate a bilateral summit between U.S. President Donald Trump and China's leader Xi Jinping later today."
+    },
+    {
+      "id": "5110767",
+      "time": "2026-09-24 09:13:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿根廷國家石油公司（YPF）：阿根廷液化天然氣專案已收到美國進出口銀行提供的最高60億美元長期融資方案。"
+    },
+    {
+      "id": "mkt:01a0d0f9-063c-7118-8673-f0962b9282de",
+      "time": "2026-09-24 09:12:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GLW.O",
+        "Impact bullish"
+      ],
+      "text": "【Corning to expand Polarcor™ capacity, signs multi-year supply agreement】Sept 24 — Corning will expand Polarcor™ glass polarizer capacity to meet rising demand from AI data centers and computing applications and has signed a multi-year supply agreement with an active photonics technology company. The expansion increases engineered glass polarizer output used in optical isolators and other laser optics, key components in advanced photonic systems. The supply pact secures long-term delivery for a major customer and the added capacity is intended to address rapid market growth."
+    },
     {
       "id": "5110766",
       "time": "2026-09-24 09:12:26",
