@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-24 23:51:26",
-  "count": 12763,
+  "updated": "2026-09-24 23:55:29",
+  "count": 12757,
   "items": [
+    {
+      "id": "5112405",
+      "time": "2026-09-24 23:54:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "智利總統：我們與美國保持著良好關係。"
+    },
+    {
+      "id": "5112404",
+      "time": "2026-09-24 23:53:44",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【全球債券平均收益率為2007年以來的最高水平】美國最長期限國債的收益率攀升至逾二十年來的最高水平，這是受通脹擔憂及政府債務負擔壓力驅動的全球拋售潮中的最新里程碑。週四油價再度跳漲，推動美國5年期至30年期國債收益率在盤中創下多年新高。其中，30年期國債收益率最高上漲6個基點至5.46%，創下2004年以來的最高水平。歐洲國債收益率也普遍走高；日本國債收益率在休市三天後重新開盤時，也觸及了1996年以來的水平。借貸成本的上升令全球股市承壓。彭博全球綜合國債指數顯示，目前全球政府債務的平均收益率已接近4%，為2007年以來的最高水平。這再次提醒人們低收益率時代已經結束，市場正在應對伊朗戰爭帶來的通脹衝擊、美國經濟的強勁表現，以及各國政府和科技公司海量發行債券的壓力。Mount Lucas Management LP的聯席首席投資官Dave Aspell表示：“債券市場出現這樣的走勢非常罕見。”他目前做空英國、德國、加拿大、日本和美國的10年期國債。他補充道：“美聯儲再次加息，通脹顯然未達目標。經濟表現尚可，且政府支出規模龐大。”"
+    },
     {
       "id": "5112403",
       "time": "2026-09-24 23:50:27",
@@ -116130,82 +116149,6 @@
         "Importance 1"
       ],
       "text": "FTSE 100 Rises to Over 1-Week High — The FTSE 100 rose 1.2% to above 10,815 on Thursday, reaching its highest level in more than a week after the Bank of England kept interest rates unchanged at 3.75%, as widely expected. The central bank warned that rates could need to rise if inflationary pressures intensify as a result of the conflict in the Middle East. Six of the nine policymakers, including Governor Andrew Bailey, voted to maintain the current rate, leaving the committee split along the same lines as in July. Gains were broad-based, led by Rolls-Royce, which advanced 2.8%, while HSBC rose 1.8%. Healthcare stocks also performed strongly, with AstraZeneca up 2.2% and GSK gaining 1.9%. Miners were among the biggest risers, with Endeavour and Antofagasta climbing 3.7% and 3.6%, while Anglo American also gained more than 3% and Fresnillo added 2.8%. Next rose 2.8% after raising its full-year guidance. Oil prices fell for a second consecutive session."
-    },
-    {
-      "id": "mkt:01a0b013-dbff-7118-85e6-947019af3c7f",
-      "time": "2026-09-17 23:54:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Justice Department official said the US is considering issuing antitrust guidance on AI safety."
-    },
-    {
-      "id": "mkt:01a0b013-b1be-7118-85e6-8c55df98ce58",
-      "time": "2026-09-17 23:54:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Andrew Ng, founder of DeepLearning.AI, said multiple innovative companies are intensifying fear of AI."
-    },
-    {
-      "id": "5100380",
-      "time": "2026-09-17 23:53:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伍德沃德擔任美國司法部反壟斷部門主管。"
-    },
-    {
-      "id": "5100379",
-      "time": "2026-09-17 23:53:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部官員稱，美方正權衡針對人工智慧安全的反壟斷指引。"
-    },
-    {
-      "id": "te:markets:584681",
-      "time": "2026-09-17 23:53:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises on Lower Yields — The CAC 40 rose 0.6% to close at 8,188 on Thursday, as the recent rally in oil prices lost steam, limiting the rise in bond yields. The moves followed reports that Saudi Arabia aims to restore around half of its East-West pipeline capacity within days and return it to full operation within six weeks. Eurozone annual inflation rose to 3.2% in August, matching May’s more than two-year high but coming in slightly below the preliminary estimate of 3.3%. The rate remained well above the ECB’s 2% target. Meanwhile, the US Federal Reserve delivered an expected 25-bp rate hike. Financial stocks posted gains, with BNP Paribas up 1.4%, AXA rising 1.9%, Crédit Agricole advancing 1.2%, and Société Générale adding 0.7%. Industrials were mixed, with Schneider Electric (+2.8%), Safran (+1.6%), Legrand (+0.7%), and Sanofi (+1.2%) posting gains, while Thales (-1.1%), Air Liquide (-0.7%), and EssilorLuxottica (-2.5%) closed lower. Kering rose 0.7%, while most other luxury stocks closed lower."
-    },
-    {
-      "id": "mkt:01a0b011-decf-7118-85e6-8063f60b728e",
-      "time": "2026-09-17 23:52:36",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact mixed",
-        "FTSE100",
-        "EURUSD"
-      ],
-      "text": "FITCH says the EU and UK will adjust Basel III rules; regulators are increasingly prioritizing AI risks."
-    },
-    {
-      "id": "em:qqyh_ozyh:202609173877664766",
-      "time": "2026-09-17 23:51:57",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "歐洲央行管委齊格曼表示，對增長有很多樂觀預期，沒有看到任何重大二次影響。如果不解決通脹問題，經濟增長將面臨風險；市場押注並不決定歐洲央行的下一步行動。"
-    },
-    {
-      "id": "5100378",
-      "time": "2026-09-17 23:51:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委齊格曼：對增長有很多樂觀預期。我們沒有看到任何重大二次影響。"
     }
   ]
 }
