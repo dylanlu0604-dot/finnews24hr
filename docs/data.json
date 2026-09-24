@@ -1,7 +1,83 @@
 {
-  "updated": "2026-09-24 23:47:25",
-  "count": 12764,
+  "updated": "2026-09-24 23:51:26",
+  "count": 12763,
   "items": [
+    {
+      "id": "5112403",
+      "time": "2026-09-24 23:50:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文：不可抗力通知在此類規模的專案開發中屢見不鮮，通常用於維護專案合作方之間的合同權利。"
+    },
+    {
+      "id": "mkt:01a0d41c-3b11-7118-868c-1c51e560949d",
+      "time": "2026-09-24 23:50:14",
+      "tags": [
+        "MKT News",
+        "ORCL.O"
+      ],
+      "text": "Oracle said force majeure notices are common in developments of this scale and are typically used to preserve contractual rights among project partners."
+    },
+    {
+      "id": "5112402",
+      "time": "2026-09-24 23:49:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "PPL電力公用事業公司獲選參與美國能源部贈款專案，最高可獲資金7150萬美元。"
+    },
+    {
+      "id": "te:markets:586619",
+      "time": "2026-09-24 23:48:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Rises Above $107 — Brent crude extended gains to over $107 a barrel on Thursday, as escalating tensions in the Middle East heightened concerns over regional energy supplies. Yemen’s Houthi group said it had attacked Saudi military sites in Jazan, while Saudi Arabia reported intercepting missiles launched toward the Red Sea port of Yanbu. Traders are closely monitoring Saudi crude shipments amid the renewed attacks. Oil prices had already been rising after Iran threatened to broaden the conflict, further reducing optimism over a potential agreement to reopen the strategically important Strait of Hormuz. A senior Iranian military official said Tehran could expand the conflict to the Indian Ocean if the US or Israel launches another attack, according to Iran’s Fars news agency. The comments weakened hopes for a diplomatic resolution to the nearly seven-month conflict. Tehran has also maintained that it will restrict freedom of navigation through Hormuz while US sanctions and a blockade remain in place."
+    },
+    {
+      "id": "mkt:01a0d41a-1716-7118-868c-10621de433e7",
+      "time": "2026-09-24 23:47:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Odds of Senate passing permitting reform before election fall】Sen. Sheldon Whitehouse, the Senate Democratic lead negotiator, said Thursday that long-sought permitting reform to speed approvals for large energy and infrastructure projects may not reach a vote before the election. The package, a priority for President Trump, would shorten federal approval timelines and environmental reviews, favoring oil and gas developers and potentially aiding renewables by accelerating long-distance transmission to link remote wind and solar to load centers. Two people familiar with the talks said negotiators have agreed language aimed at protecting consumers from power-price increases tied to data-center construction."
+    },
+    {
+      "id": "5112401",
+      "time": "2026-09-24 23:47:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度石油部長：即使美國為緩解國內燃油價格上漲而實施海外柴油出口禁令，印度也沒有計劃採取類似措施。"
+    },
+    {
+      "id": "te:markets:586618",
+      "time": "2026-09-24 23:47:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Extends Gains — Crude oil extended gains to over $96 a barrel on Thursday, as escalating tensions in the Middle East heightened concerns over regional energy supplies. Yemen’s Houthi group said it had attacked Saudi military sites in Jazan, while Saudi Arabia reported intercepting missiles launched toward the Red Sea port of Yanbu. Traders are closely monitoring Saudi crude shipments amid the renewed attacks. Oil prices had already been rising after Iran threatened to broaden the conflict, further reducing optimism over a potential agreement to reopen the strategically important Strait of Hormuz. A senior Iranian military official said Tehran could expand the conflict to the Indian Ocean if the US or Israel launches another attack, according to Iran’s Fars news agency. The comments weakened hopes for a diplomatic resolution to the nearly seven-month conflict. Tehran has also maintained that it will restrict freedom of navigation through Hormuz while US sanctions and a blockade remain in place."
+    },
+    {
+      "id": "5112400",
+      "time": "2026-09-24 23:46:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超7.00%，現報3.374美元/百萬英熱。"
+    },
     {
       "id": "mkt:01a0d418-782b-7118-868c-0bb57d86e617",
       "time": "2026-09-24 23:46:08",
@@ -116130,87 +116206,6 @@
         "國際"
       ],
       "text": "歐洲央行管委齊格曼：對增長有很多樂觀預期。我們沒有看到任何重大二次影響。"
-    },
-    {
-      "id": "5100377",
-      "time": "2026-09-17 23:50:33",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "訊息人士稱，沙烏地阿拉伯東西輸油管道沿線的三座泵站在上週遇襲受損。"
-    },
-    {
-      "id": "5100376",
-      "time": "2026-09-17 23:49:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行齊格曼警告，若通脹問題得不到解決，經濟增長將面臨風險。"
-    },
-    {
-      "id": "5100375",
-      "time": "2026-09-17 23:49:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國漢莎航空公司：波音737 MAX總訂單量增至60架."
-    },
-    {
-      "id": "5100374",
-      "time": "2026-09-17 23:49:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所 10 月柴油期貨結算價為每噸 1490.75 美元。"
-    },
-    {
-      "id": "5100373",
-      "time": "2026-09-17 23:48:59",
-      "tags": [
-        "公司",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【花旗、富國銀行緊隨美聯儲加息之後發行投資級債券】花旗集團和富國銀行正在出售投資級債券，此前美聯儲三年來首次上調政策利率，且信用風險擔憂有所緩解。花旗集團計劃透過一項四部分交易籌集至少100億美元，債券期限從3年到11年不等；富國銀行則計劃透過三批債券發行籌集至少50億美元，債券期限為4年到11年。此次融資緊隨美聯儲加息25個基點之後，美聯儲還暗示今年晚些時候將再次加息，這一舉措幫助緩解了投資者對通脹的擔憂。"
-    },
-    {
-      "id": "5100372",
-      "time": "2026-09-17 23:48:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國產工業母機實現硬核突破】今年上半年，我國裝備製造業、高技術製造業增加值分別增長9.3%和13.3%，前7個月新動能對工業增長貢獻率超50%。中國先進製造，根基越築越牢。 AI全直驅數控機床精度達到4微米，相當於人頭髮直徑的1/15。這臺機器可以連續工作72小時不止，與傳統機床不同，它身上找不到滾珠絲槓、聯軸器、伺服電機這些“標配”。 歷經十年攻關，溫嶺市政府聯合浙江大學團隊今年9月正式推出AI全直驅數控機床，整機綜合效能較國家標準提升30%至60%。AI讓機床能自主感知、決策、執行，還能自主學習，“越用越聰明”。（央視財經）"
-    },
-    {
-      "id": "5100371",
-      "time": "2026-09-17 23:48:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【土耳其稱庫爾德工人黨領導人將參與解除該黨武裝】土耳其總統首席顧問穆罕默德·烏丘姆17日宣佈，被關押的庫爾德工人黨領導人阿卜杜拉·厄賈蘭將在為解除該黨武裝而成立的委員會中擔任職務。(新華社)"
-    },
-    {
-      "id": "5100370",
-      "time": "2026-09-17 23:48:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨：“無條件的跨大西洋友誼” 目前已不復存在。"
-    },
-    {
-      "id": "te:markets:584680",
-      "time": "2026-09-17 23:47:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Moves Higher — The FTSE MIB rose 0.8% to 52,386 on Thursday, amid improved sentiment that reverberated across sectors. Sovereign yields declined as global oil prices fell for a second consecutive session, easing concerns over inflationary pressures and providing relief for banks’ balance sheets. Additionally, eurozone inflation was revised downward from its preliminary estimate. Still, inflation remains well above the central bank’s target, with markets pricing in at least another rate hike by year-end. Financials advanced, led by Mediobanca (1.4%) and Monte Paschi Siena (1.3%). Utilities extended gains as European gas prices continued to decline, led by Hera (2%). Luxury stocks also advanced ahead of Milan’s Fashion Week, with Brunello Cucinelli (1.6%) and Moncler (0.6%) rising. Stellantis gained 2.3% after reports that BYD stated Italy had become a “plan B”, as the Italian automaker remains unwilling to sell any plants."
     }
   ]
 }

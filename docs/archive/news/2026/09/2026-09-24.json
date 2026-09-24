@@ -1,7 +1,83 @@
 {
   "date": "2026-09-24",
-  "count": 2149,
+  "count": 2157,
   "items": [
+    {
+      "id": "5112403",
+      "time": "2026-09-24 23:50:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文：不可抗力通知在此類規模的專案開發中屢見不鮮，通常用於維護專案合作方之間的合同權利。"
+    },
+    {
+      "id": "mkt:01a0d41c-3b11-7118-868c-1c51e560949d",
+      "time": "2026-09-24 23:50:14",
+      "tags": [
+        "MKT News",
+        "ORCL.O"
+      ],
+      "text": "Oracle said force majeure notices are common in developments of this scale and are typically used to preserve contractual rights among project partners."
+    },
+    {
+      "id": "5112402",
+      "time": "2026-09-24 23:49:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "PPL電力公用事業公司獲選參與美國能源部贈款專案，最高可獲資金7150萬美元。"
+    },
+    {
+      "id": "te:markets:586619",
+      "time": "2026-09-24 23:48:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Rises Above $107 — Brent crude extended gains to over $107 a barrel on Thursday, as escalating tensions in the Middle East heightened concerns over regional energy supplies. Yemen’s Houthi group said it had attacked Saudi military sites in Jazan, while Saudi Arabia reported intercepting missiles launched toward the Red Sea port of Yanbu. Traders are closely monitoring Saudi crude shipments amid the renewed attacks. Oil prices had already been rising after Iran threatened to broaden the conflict, further reducing optimism over a potential agreement to reopen the strategically important Strait of Hormuz. A senior Iranian military official said Tehran could expand the conflict to the Indian Ocean if the US or Israel launches another attack, according to Iran’s Fars news agency. The comments weakened hopes for a diplomatic resolution to the nearly seven-month conflict. Tehran has also maintained that it will restrict freedom of navigation through Hormuz while US sanctions and a blockade remain in place."
+    },
+    {
+      "id": "mkt:01a0d41a-1716-7118-868c-10621de433e7",
+      "time": "2026-09-24 23:47:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Odds of Senate passing permitting reform before election fall】Sen. Sheldon Whitehouse, the Senate Democratic lead negotiator, said Thursday that long-sought permitting reform to speed approvals for large energy and infrastructure projects may not reach a vote before the election. The package, a priority for President Trump, would shorten federal approval timelines and environmental reviews, favoring oil and gas developers and potentially aiding renewables by accelerating long-distance transmission to link remote wind and solar to load centers. Two people familiar with the talks said negotiators have agreed language aimed at protecting consumers from power-price increases tied to data-center construction."
+    },
+    {
+      "id": "5112401",
+      "time": "2026-09-24 23:47:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度石油部長：即使美國為緩解國內燃油價格上漲而實施海外柴油出口禁令，印度也沒有計劃採取類似措施。"
+    },
+    {
+      "id": "te:markets:586618",
+      "time": "2026-09-24 23:47:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Extends Gains — Crude oil extended gains to over $96 a barrel on Thursday, as escalating tensions in the Middle East heightened concerns over regional energy supplies. Yemen’s Houthi group said it had attacked Saudi military sites in Jazan, while Saudi Arabia reported intercepting missiles launched toward the Red Sea port of Yanbu. Traders are closely monitoring Saudi crude shipments amid the renewed attacks. Oil prices had already been rising after Iran threatened to broaden the conflict, further reducing optimism over a potential agreement to reopen the strategically important Strait of Hormuz. A senior Iranian military official said Tehran could expand the conflict to the Indian Ocean if the US or Israel launches another attack, according to Iran’s Fars news agency. The comments weakened hopes for a diplomatic resolution to the nearly seven-month conflict. Tehran has also maintained that it will restrict freedom of navigation through Hormuz while US sanctions and a blockade remain in place."
+    },
+    {
+      "id": "5112400",
+      "time": "2026-09-24 23:46:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超7.00%，現報3.374美元/百萬英熱。"
+    },
     {
       "id": "mkt:01a0d418-782b-7118-868c-0bb57d86e617",
       "time": "2026-09-24 23:46:08",
