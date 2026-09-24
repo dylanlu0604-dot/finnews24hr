@@ -1,7 +1,37 @@
 {
   "date": "2026-09-25",
-  "count": 370,
+  "count": 373,
   "items": [
+    {
+      "id": "mkt:01a0d516-6cfe-7118-8690-e5bbaf506582",
+      "time": "2026-09-25 04:23:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Bezos has put $30 bln into Blue Origin; company valued at $140 bln】Jeff Bezos has invested about $30 bln in Blue Origin since founding the company in 2000 to develop rockets, satellite communications and other space businesses. Documents reviewed by the Wall Street Journal show Blue Origin is running its first external funding round, has raised roughly $10 bln and is valued at about $140 bln. The company employs ~15,000 and aims to ramp commercial revenue to ~$800 mln in 2025, ~$1.4 bln in 2026 and more than $30 bln by 2030. Management identifies rocket launches, satellite communications and AI-enabled satellite services as the main growth drivers, and cites the heavy reusable New Glenn rocket as central to narrowing the gap with SpaceX."
+    },
+    {
+      "id": "5112730",
+      "time": "2026-09-25 04:23:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司（MSCI）：將加拿大證券交易所納入 MSCI 全球可投資市場指數編制方法中加拿大的合格證券交易所名單。"
+    },
+    {
+      "id": "te:markets:586660",
+      "time": "2026-09-25 04:23:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Lower as Mining Stocks Weigh — The S&P/TSX Composite Index edged 0.1% lower to close at 35,706 on Thursday as mining losses and a subdued financial sector weighed on the index. Canada’s 10-year yield reached a three-year high as energy-driven inflation concerns persisted and US Treasury yields soared to multi-decade highs. Crude oil and global yields were volatile late in the session, with an upward trend. Financial stocks traded mostly near flat. Gold prices fell, pressuring mining stocks, with Agnico Eagle down 0.6% and WPM shedding 0.7%. Kinross plunged 11.3% after lowering its production outlook for 2026 and 2027. Meanwhile, energy shares gained on higher oil prices. Retailers rose as estimates showed retail sales likely rebounded in August, marking their strongest gain since January. Tech stocks were mostly higher, with Shopify up 2.4%, tracking Meta’s gains amid their partnership to enable purchases through Meta’s Muse AI agent using Shop Pay. BlackBerry shed 3.9% despite its strong 2Q26 results."
+    },
     {
       "id": "mkt:01a0d514-ba4b-7118-8690-dcc1246315ea",
       "time": "2026-09-25 04:21:40",
