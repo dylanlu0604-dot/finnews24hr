@@ -1,7 +1,76 @@
 {
   "date": "2026-09-24",
-  "count": 1047,
+  "count": 1054,
   "items": [
+    {
+      "id": "5111108",
+      "time": "2026-09-24 14:04:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱，其部隊在週三對加沙南部汗尤尼斯的一次襲擊中擊斃了哈馬斯財務部門負責人穆罕默德·阿布·阿爾萬。軍方進一步聲稱，在他的指示下，超過10億謝克爾（約3.3億美元）被轉移用於資助哈馬斯的活動。"
+    },
+    {
+      "id": "mkt:01a0d204-2875-7118-8678-dfcf1b117dd2",
+      "time": "2026-09-24 14:04:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Israeli military says it killed Hamas finance chief】The Israeli military said its forces killed Mohammed Abu Alwan, head of Hamas’s finance department, in a Wednesday strike on Khan Younis in southern Gaza. In a Thursday statement the military said Abu Alwan had operated in the area for about ten years, helped prepare budgets for all Hamas branches and directed transfers of more than 1 billion shekels (about $330m) to fund Hamas activities, playing a decisive role in sustaining Hamas’s rule."
+    },
+    {
+      "id": "5111107",
+      "time": "2026-09-24 14:03:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.4%。"
+    },
+    {
+      "id": "5111106",
+      "time": "2026-09-24 14:03:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌幅擴大至盤中低點0.6%。"
+    },
+    {
+      "id": "mkt:01a0d202-887b-7118-8678-d589d4d6866d",
+      "time": "2026-09-24 14:02:56",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member Kocher said, when asked about the interest-rate outlook, the ECB will assess conditions at each meeting."
+    },
+    {
+      "id": "mkt:01a0d202-3ab6-7118-8678-cedb57078d8d",
+      "time": "2026-09-24 14:02:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 2-year government bond yield rose 6.0 bps to 1.900%, the highest level since April 1995."
+    },
+    {
+      "id": "5111105",
+      "time": "2026-09-24 14:02:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本兩年期國債收益率上漲6個基點，至1.900%，創下1995年4月以來的最高水平。"
+    },
     {
       "id": "5111104",
       "time": "2026-09-24 14:01:15",
