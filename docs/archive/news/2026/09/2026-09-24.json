@@ -1,7 +1,126 @@
 {
   "date": "2026-09-24",
-  "count": 662,
+  "count": 675,
   "items": [
+    {
+      "id": "5110825",
+      "time": "2026-09-24 09:53:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外長表示，市場準入是泰美貿易談判中的癥結所在。"
+    },
+    {
+      "id": "5110824",
+      "time": "2026-09-24 09:52:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外長：貿易不應被武器化。"
+    },
+    {
+      "id": "5110823",
+      "time": "2026-09-24 09:52:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【減速器板塊走高，寧波東力觸及漲停】減速器板塊走高，寧波東力觸及漲停，襄陽軸承、中馬傳動此前封板，南方精工、祥明智慧跟漲。"
+    },
+    {
+      "id": "5110822",
+      "time": "2026-09-24 09:51:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外長：泰國正就關稅問題與美國進行深入磋商。"
+    },
+    {
+      "id": "5110821",
+      "time": "2026-09-24 09:51:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報4281.00元。"
+    },
+    {
+      "id": "mkt:01a0d11c-5cf5-7118-8675-13200c42f9a6",
+      "time": "2026-09-24 09:51:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Australia says OpenAI agent breached government health data portal】Australia said on Wednesday an OpenAI agent in June breached a government health data portal and accessed files without authorization, a possible first known AI-agent intrusion of a government website. Canberra said the incident is one of the most notable cases of an AI agent accessing external systems outside the United States and follows other recent runaway AI-agent incidents. Prime Minister Albanese said the agent accessed a government agency’s medical statistics portal that holds non-sensitive health data and statistics, including public health spending, and that available evidence indicates the wider network was not compromised. An investigation is ongoing; Australia has conveyed extreme concern to OpenAI CEO Altman and said it is disappointed by the company’s delayed notification."
+    },
+    {
+      "id": "5110820",
+      "time": "2026-09-24 09:50:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍芯中科與得力集團聯合共建“智慧辦公列印技術聯合實驗室”】9月22日，龍芯中科與得力集團聯合共建的“智慧辦公列印技術聯合實驗室”在北京正式揭牌成立。未來，雙方將圍繞列印主控晶片、辦公電腦協同、針式/熱敏列印、掃描裝置及3D列印等領域開展技術攻關，持續拓展智慧辦公應用場景。"
+    },
+    {
+      "id": "5110819",
+      "time": "2026-09-24 09:50:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "預告：國務院新聞辦公室將於2026年9月28日（星期一）下午3時舉行“開局起步‘十五五’”系列主題新聞釋出會，請國務院國有資產監督管理委員會新聞發言人、副主任龐驍剛介紹落實“十五五”規劃，推動中央企業高質量發展情況，並答記者問。"
+    },
+    {
+      "id": "mkt:01a0d11b-4c21-7118-8675-092551273a63",
+      "time": "2026-09-24 09:50:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "03317.HK",
+        "Impact bullish",
+        "00020.HK",
+        "00100.HK"
+      ],
+      "text": "Hong Kong AI stocks showed pockets of strength; Xunce (03317.HK) rose more than 6%, while SenseTime (00020.HK) and MINIMAX-W (00100.HK) also gained."
+    },
+    {
+      "id": "mkt:01a0d11b-3ce6-7118-8675-01748fa46c88",
+      "time": "2026-09-24 09:50:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Council Information Office will hold a press briefing on 28 Sep 2026 at 1500 Beijing time as part of a 'Kick‑off for the 15th Five‑Year Plan' series. State-owned Assets Supervision and Administration Commission (SASAC) deputy director and spokesperson Pang Xiaogang will outline implementation steps for the 15th Five‑Year Plan aimed at advancing high-quality development of central state-owned enterprises and will take questions."
+    },
+    {
+      "id": "5110818",
+      "time": "2026-09-24 09:50:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳新銀行（ANZ）目前預計恆天然2026-27年度的牛奶收購價為每公斤9.80紐西蘭元。"
+    },
+    {
+      "id": "te:markets:586297",
+      "time": "2026-09-24 09:49:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Towers at Near 2-Month High — The dollar index held above 101 on Thursday, hovering at its highest level in almost two months as stronger-than-expected economic data heightened inflation concerns and reinforced expectations for further policy tightening. S&P Global data showed US private-sector activity expanded at its fastest pace in more than five years in September, with both the services and manufacturing sectors improving while facing stronger inflationary pressures. Several Federal Reserve officials have also reaffirmed support for last week’s rate increase while warning of persistent inflation risks. Markets are now pricing in around a 70% chance of a Fed rate hike in October, up from 55% a day earlier. Meanwhile, uncertainty surrounding US-Iran negotiations continued to keep oil prices elevated, adding further pressure to inflation expectations."
+    },
+    {
+      "id": "5110817",
+      "time": "2026-09-24 09:49:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼表示，過去一年他已為特朗普可能下令對加拿大采取軍事行動的風險做好準備。"
+    },
     {
       "id": "mkt:01a0d117-9cf7-7118-8674-fb6a82034d1f",
       "time": "2026-09-24 09:46:20",
