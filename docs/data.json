@@ -1,7 +1,73 @@
 {
-  "updated": "2026-09-25 07:25:32",
-  "count": 12822,
+  "updated": "2026-09-25 07:29:16",
+  "count": 12823,
   "items": [
+    {
+      "id": "mkt:01a0d5c0-2dd4-7118-8692-5ccf5b6f4808",
+      "time": "2026-09-25 07:28:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu says striking Iran was 'one of the easiest decisions'】On Sept. 24 local time (early Sept. 25 Beijing), Israeli Prime Minister Netanyahu, speaking at the UN General Assembly general debate, defended Israel's so-called \"seven-front war\" and said ordering an attack on Iran was \"one of the easiest decisions I've made,\" framing it as self-defense and to protect other countries. He dismissed allegations of genocide in Gaza as \"the biggest lie of the century,\" accused Qatar and Turkey of spreading falsehoods on social media, and accused New York City mayor Mamdani of antisemitism."
+    },
+    {
+      "id": "5112822",
+      "time": "2026-09-25 07:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯就吉贊地區的潛在安全威脅釋出警報."
+    },
+    {
+      "id": "5112821",
+      "time": "2026-09-25 07:28:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡稱打伊朗是最容易決定】當地時間9月24日下午，北京時間今天（9月25日）凌晨，以色列總理內塔尼亞胡在第81屆聯大一般性辯論發表講話，為以色列的所謂“七線戰爭”辯護，稱對伊朗發動襲擊是他“作出過的最容易的決定之一”，是為了“自衛及保護其他國家”。他還辯稱有關以色列在加沙實施種族滅絕的指控是“本世紀最大的謊言”，指責卡達、土耳其等國在社交媒體上“散佈關於以色列的謊言”，同時指責紐約市長馬姆達尼反猶。 內塔尼亞胡在發言過程中還接連拿出尋呼機和“星鏈”終端裝置，承認以色列實施了2024年9月針對黎巴嫩真主黨的“尋呼機爆炸襲擊”，並煽動伊朗民眾利用偷運入境的“星鏈”終端獲取資訊，推翻現政權。"
+    },
+    {
+      "id": "5112820",
+      "time": "2026-09-25 07:27:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【馬克龍稱將派兵保護沙特延布石油設施 】法國總統馬克龍24日說，法國將派兵保護沙烏地阿拉伯西海岸延布港的石油設施免受葉門胡塞武裝襲擊，以穩定石油供給、控制油價上漲。 馬克龍在接受兩家法國電視臺聯合採訪時說，法國已與沙特完成相關討論，法方將派出士兵並部署雷達、防禦系統等軍事力量，同時視局勢變化調動駐紮在中東地區的空軍力量。他強調，此舉是為了保護延布的石油設施，而不是參與相關衝突。"
+    },
+    {
+      "id": "te:economy:586675",
+      "time": "2026-09-25 07:27:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "El Salvador Trade Gap Widens in August — El Salvador’s trade deficit widened to $1.15 billion in August 2026 from $875.4 million a year earlier, as imports rose while exports declined. Imports increased 17.5% year-on-year to $1.64 billion, compared with $1.40 billion in August 2025, while exports fell 6% to $492.6 million from $523.8 million. Import growth was broad-based, led by consumer goods, which rose about 23%, and intermediate goods, up nearly 19%, while capital-goods imports increased about 5%. Exports were weighed by non-maquila shipments, which fell about 8%, partly offset by a roughly 8% increase in maquila exports. Coffee exports were about $12 million in August, little changed from a year earlier, while sugar exports fell to about $8.5 million from $14.7 million."
+    },
+    {
+      "id": "5112818",
+      "time": "2026-09-25 07:26:39",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【Anthropic擬效仿Palantir模式，讓七位聯合創始人掌握投票權，為上市鋪路】據知情人士透露，Anthropic 正提請股東批准一套新公司架構，授予執行長達里奧・阿莫代伊及其餘六位聯合創始人特殊類別股份，使其在多數公司事務上擁有集體投票控制權。其中一位訊息人士稱，這套效仿帕蘭提爾（Palantir）創始人控股模式的新安排，只要七位聯合創始人中有三人持有公司最低限額股份，全體創始人合計便可掌握 50.1% 的投票權。這將大幅改變 Anthropic 本就特殊的治理架構，在公司上市後抵禦外部股東壓力，鞏固持股比例相對不高的創始團隊的影響力。創始人控制權存在一項重要例外：Anthropic 董事會席位共 7 席，目前尚有 1 席空缺，董事會多數席位的任命權歸屬於公司長期利益信託。該信託成員並非公司股東，其中包含前美聯儲主席本・伯南克，負責就安全與社會議題向公司提供建議。在擬議的新架構下，該信託將繼續保有這項權力。創始人目前可任命兩名董事。但在新公司架構下，這一名額將增至三名。公司正提請股東在未來數日內批准該擬議方案。"
+    },
+    {
+      "id": "te:markets:586674",
+      "time": "2026-09-25 07:26:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Halts Rally on Talks of a Phased Deal — Brent crude steadied near $106 per barrel on Friday, pausing its recent rally amid reports that the US and Iran were considering a phased deal that could reopen the Strait of Hormuz and lift a US blockade on Iranian ports. Efforts to reach a breakthrough were reportedly underway on the sidelines of the UN General Assembly, with Qatari officials mediating the talks. Iran has maintained that it must retain control over Hormuz and would not accept a deal unless the US eases military pressure and removes its blockade. Meanwhile, a White House official said President Donald Trump remained open to talks with Iran but stressed that the US had little need to negotiate given its strong position following the sanctions campaign and blockade. Elsewhere, tensions in the Middle East escalated after Iran-aligned Houthi militants in Yemen launched missiles toward Saudi cities, including Yanbu and Taif. Brent prices are on track to gain more than 2% for the week."
+    },
     {
       "id": "te:markets:586673",
       "time": "2026-09-25 07:24:26",
@@ -116602,64 +116668,6 @@
         "Important"
       ],
       "text": "Japan | Core CPI (YoY) (Aug) | actual 1.7% | consensus 1.80% | previous 1.80%"
-    },
-    {
-      "id": "5100749",
-      "time": "2026-09-18 07:28:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【供應擔憂緩解、伊朗外交取得進展，油價下跌】原油價格連續第三日走低，市場對供應的憂慮有所緩和，交易員聚焦將影響美伊戰爭走向的新一輪外交磋商。西德克薩斯中質原油（WTI）回落至每桶 101 美元附近，前兩個交易日累計下跌近 4%；布倫特原油收於每桶 105 美元下方。中東方面，沙特正著手修復受損的東西輸油管道，該管道通往紅海沿岸，計劃在數日之內恢復約一半輸送能力。與此同時，部分油輪仍在穿越局勢緊張的霍爾木茲海峽。美國總統唐納德・特朗普表示，他即將作出一項 “重大決定”，判斷是否升級對德黑蘭的打擊行動。下週他將在紐約聯合國大會期間，與波斯灣國家舉行場外會晤。10 月交割的 WTI 原油下跌 0.8%，報每桶 101.12 美元。11 月交割的布倫特原油下跌 1%，收於每桶 104.82 美元。"
-    },
-    {
-      "id": "5100748",
-      "time": "2026-09-18 07:27:35",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【國際金價坐上“過山車” 多因素仍支撐中長期黃金配置】全球黃金市場在美聯儲議息結果公佈前後經歷了戲劇性的一幕。在當地時間9月16日美聯儲利率決議公佈前，國際金價一度衝高至4360美元/盎司上方，日內漲幅逾1%；在加息“靴子”落地後，金價迅速跳水，最終收跌0.7%至4263.13美元/盎司，為近四周低位。黃金不生息的特性，在利率上行環境中再次暴露其脆弱的一面。A股貴金屬板塊同樣反應劇烈。北京時間9月17日，該板塊領跌，收跌超過5%。然而當日亞歐交易時段，倫敦現貨黃金價格卻震盪攀升，重新站上4300美元/盎司。截至記者發稿時，倫敦金報4326.9美元/盎司，漲1.5%。市場原本預期這會是一次“鴿派”加息，實際落地時卻亮出“鷹爪”——美聯儲不僅時隔三年多首次加息，還釋放出年內或進一步收緊貨幣政策的訊號。受訪人士認為，金價仍以區間震盪為主，短期走強可視為利空出盡，中期美國財政壓力和美元信用擔憂等仍支撐黃金配置。（上海證券報）"
-    },
-    {
-      "id": "te:markets:584740",
-      "time": "2026-09-18 07:27:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Slides for Third Session — Brent crude fell to around $104 per barrel on Friday, extending its decline for a third consecutive session as concerns over supply disruptions in the Middle East eased and hopes grew for renewed diplomatic efforts to end the conflict and restore energy flows. Saudi Arabia is targeting the recovery of around half the capacity of its East-West pipeline within days, with a return to full operations expected within six weeks. In the meantime, the kingdom is rerouting some crude exports through the Strait of Hormuz. Shuttle vessels transport crude through Hormuz before loading tankers waiting outside the strait, limiting their exposure to potential Iranian attacks. Reports also suggested that China had urged Iran to help curb Houthi militants after an appeal from Riyadh, as the rebel group intensified attacks on Saudi energy infrastructure. Meanwhile, President Donald Trump said he was weighing whether to resume attacks on Iran ahead of a meeting with Gulf leaders in New York next week."
-    },
-    {
-      "id": "te:markets:584739",
-      "time": "2026-09-18 07:25:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Slides for Third Session — Crude oil fell toward $101 per barrel on Friday, extending its decline for a third consecutive session as concerns over supply disruptions in the Middle East eased and hopes grew for renewed diplomatic efforts to end the conflict and restore energy flows. Saudi Arabia is targeting the recovery of around half the capacity of its East-West pipeline within days, with a return to full operations expected within six weeks. In the meantime, the kingdom is rerouting some crude exports through the Strait of Hormuz. Shuttle vessels transport crude through Hormuz before loading tankers waiting outside the strait, limiting their exposure to potential Iranian attacks. Reports also suggested that China had urged Iran to help curb Houthi militants after an appeal from Riyadh, as the rebel group intensified attacks on Saudi energy infrastructure. Meanwhile, President Donald Trump said he was weighing whether to resume attacks on Iran ahead of a meeting with Gulf leaders in New York next week."
-    },
-    {
-      "id": "5100747",
-      "time": "2026-09-18 07:25:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8000億元新型政策性金融工具資金加快投放】近日，今年新型政策性金融工具首批資金已啟動投放，一批智慧製造和基礎設施專案相繼獲得首批資金支援，正加快推進實施，推動擴大有效投資。新型政策性金融工具是國家為支援重大戰略、補充重點專案資本金而創設的金融工具，透過資本金槓桿放大投資總量，最佳化投資結構，由國家開發銀行、農業發展銀行、進出口銀行負責投放。目前，新型政策性金融工具已在雲南、福建、四川等多地加快投放，今年的總投資規模從去年的5000億元增加到8000億元，據測算，預計將撬動專案總投資規模約10萬億元。（央視新聞）"
-    },
-    {
-      "id": "5100746",
-      "time": "2026-09-18 07:25:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【 美駐墨西哥使館以“墨西哥萬歲，中國製造”調侃墨西哥國慶，中使館發表嚴正宣告 】 9月18日，中國駐墨西哥大使館發表嚴正宣告：9月15日，墨西哥獨立日前夕，美國駐墨西哥使館在社交媒體平臺發文，稱墨西哥用於慶祝活動的煙花等“並非墨西哥製造”，以“墨西哥萬歲，中國製造”調侃墨西哥國慶，並藉機抹黑中墨經貿合作。在駐在國最莊嚴的國慶紀念日，一國使館不思道賀，反而拿節日大做文章、攻擊第三國。此舉有違最基本的外交禮儀，更缺乏對墨西哥人民起碼的尊重。中國駐墨西哥使館對此表示強烈不滿和堅決反對。一國獨立日屬於該國人民，如何慶祝、用什麼慶祝，人民自己說了算。“中國製造”在墨西哥並不新鮮。四百多年前，“中國船”讓東方的絲綢瓷器與墨西哥的白銀在太平洋兩岸間流動，商品往來的背後是文明的交流互鑑。今天，中國產品走進墨西哥市場，墨西哥的牛油果、龍舌蘭酒也走進中國千家萬戶，緊密的貿易聯絡正是全球化的生動體現。一個主權獨立的國家，有權自主選擇合作伙伴。中墨合作沒有地緣算計，不針對第三方，也不應受到第三方干擾。美使館把駐在國的節日當作攻擊第三國的舞臺和地緣博弈的籌碼，對別國指手畫腳，唯我獨尊的霸權心態暴露無遺。此等做法，國際社會看得一清二楚。不少網友質問美方，為何要在別人的節日裡“噴灑毒液”。我們奉勸美國駐墨西哥使館，把精力多用在尊重駐在國、增進兩國人民友好上，而不是挑撥離間、搬弄是非。這樣的表演騙不了任何人，只會搬起石頭砸自己的腳。"
     }
   ]
 }

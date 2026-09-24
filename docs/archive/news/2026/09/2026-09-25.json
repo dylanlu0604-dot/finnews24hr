@@ -1,7 +1,73 @@
 {
   "date": "2026-09-25",
-  "count": 500,
+  "count": 507,
   "items": [
+    {
+      "id": "mkt:01a0d5c0-2dd4-7118-8692-5ccf5b6f4808",
+      "time": "2026-09-25 07:28:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu says striking Iran was 'one of the easiest decisions'】On Sept. 24 local time (early Sept. 25 Beijing), Israeli Prime Minister Netanyahu, speaking at the UN General Assembly general debate, defended Israel's so-called \"seven-front war\" and said ordering an attack on Iran was \"one of the easiest decisions I've made,\" framing it as self-defense and to protect other countries. He dismissed allegations of genocide in Gaza as \"the biggest lie of the century,\" accused Qatar and Turkey of spreading falsehoods on social media, and accused New York City mayor Mamdani of antisemitism."
+    },
+    {
+      "id": "5112822",
+      "time": "2026-09-25 07:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯就吉贊地區的潛在安全威脅釋出警報."
+    },
+    {
+      "id": "5112821",
+      "time": "2026-09-25 07:28:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡稱打伊朗是最容易決定】當地時間9月24日下午，北京時間今天（9月25日）凌晨，以色列總理內塔尼亞胡在第81屆聯大一般性辯論發表講話，為以色列的所謂“七線戰爭”辯護，稱對伊朗發動襲擊是他“作出過的最容易的決定之一”，是為了“自衛及保護其他國家”。他還辯稱有關以色列在加沙實施種族滅絕的指控是“本世紀最大的謊言”，指責卡達、土耳其等國在社交媒體上“散佈關於以色列的謊言”，同時指責紐約市長馬姆達尼反猶。 內塔尼亞胡在發言過程中還接連拿出尋呼機和“星鏈”終端裝置，承認以色列實施了2024年9月針對黎巴嫩真主黨的“尋呼機爆炸襲擊”，並煽動伊朗民眾利用偷運入境的“星鏈”終端獲取資訊，推翻現政權。"
+    },
+    {
+      "id": "5112820",
+      "time": "2026-09-25 07:27:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【馬克龍稱將派兵保護沙特延布石油設施 】法國總統馬克龍24日說，法國將派兵保護沙烏地阿拉伯西海岸延布港的石油設施免受葉門胡塞武裝襲擊，以穩定石油供給、控制油價上漲。 馬克龍在接受兩家法國電視臺聯合採訪時說，法國已與沙特完成相關討論，法方將派出士兵並部署雷達、防禦系統等軍事力量，同時視局勢變化調動駐紮在中東地區的空軍力量。他強調，此舉是為了保護延布的石油設施，而不是參與相關衝突。"
+    },
+    {
+      "id": "te:economy:586675",
+      "time": "2026-09-25 07:27:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "El Salvador Trade Gap Widens in August — El Salvador’s trade deficit widened to $1.15 billion in August 2026 from $875.4 million a year earlier, as imports rose while exports declined. Imports increased 17.5% year-on-year to $1.64 billion, compared with $1.40 billion in August 2025, while exports fell 6% to $492.6 million from $523.8 million. Import growth was broad-based, led by consumer goods, which rose about 23%, and intermediate goods, up nearly 19%, while capital-goods imports increased about 5%. Exports were weighed by non-maquila shipments, which fell about 8%, partly offset by a roughly 8% increase in maquila exports. Coffee exports were about $12 million in August, little changed from a year earlier, while sugar exports fell to about $8.5 million from $14.7 million."
+    },
+    {
+      "id": "5112818",
+      "time": "2026-09-25 07:26:39",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【Anthropic擬效仿Palantir模式，讓七位聯合創始人掌握投票權，為上市鋪路】據知情人士透露，Anthropic 正提請股東批准一套新公司架構，授予執行長達里奧・阿莫代伊及其餘六位聯合創始人特殊類別股份，使其在多數公司事務上擁有集體投票控制權。其中一位訊息人士稱，這套效仿帕蘭提爾（Palantir）創始人控股模式的新安排，只要七位聯合創始人中有三人持有公司最低限額股份，全體創始人合計便可掌握 50.1% 的投票權。這將大幅改變 Anthropic 本就特殊的治理架構，在公司上市後抵禦外部股東壓力，鞏固持股比例相對不高的創始團隊的影響力。創始人控制權存在一項重要例外：Anthropic 董事會席位共 7 席，目前尚有 1 席空缺，董事會多數席位的任命權歸屬於公司長期利益信託。該信託成員並非公司股東，其中包含前美聯儲主席本・伯南克，負責就安全與社會議題向公司提供建議。在擬議的新架構下，該信託將繼續保有這項權力。創始人目前可任命兩名董事。但在新公司架構下，這一名額將增至三名。公司正提請股東在未來數日內批准該擬議方案。"
+    },
+    {
+      "id": "te:markets:586674",
+      "time": "2026-09-25 07:26:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Halts Rally on Talks of a Phased Deal — Brent crude steadied near $106 per barrel on Friday, pausing its recent rally amid reports that the US and Iran were considering a phased deal that could reopen the Strait of Hormuz and lift a US blockade on Iranian ports. Efforts to reach a breakthrough were reportedly underway on the sidelines of the UN General Assembly, with Qatari officials mediating the talks. Iran has maintained that it must retain control over Hormuz and would not accept a deal unless the US eases military pressure and removes its blockade. Meanwhile, a White House official said President Donald Trump remained open to talks with Iran but stressed that the US had little need to negotiate given its strong position following the sanctions campaign and blockade. Elsewhere, tensions in the Middle East escalated after Iran-aligned Houthi militants in Yemen launched missiles toward Saudi cities, including Yanbu and Taif. Brent prices are on track to gain more than 2% for the week."
+    },
     {
       "id": "te:markets:586673",
       "time": "2026-09-25 07:24:26",
