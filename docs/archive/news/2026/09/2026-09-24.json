@@ -1,7 +1,61 @@
 {
   "date": "2026-09-24",
-  "count": 519,
+  "count": 525,
   "items": [
+    {
+      "id": "5110734",
+      "time": "2026-09-24 08:42:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4330美元/盎司，日內漲0.27%。"
+    },
+    {
+      "id": "5110733",
+      "time": "2026-09-24 08:42:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "Amaero Inc. 宣佈推遲其在美國的首次公開募股（IPO）計劃 。"
+    },
+    {
+      "id": "5110732",
+      "time": "2026-09-24 08:41:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【早間公告：山東墨龍擬配售新H股 募資淨額約1.15億港元】早間公告①震安科技：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。②民德電子：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。③山東墨龍：擬根據一般性授權在香港聯合交易所有限公司主機板配售新H股，並作出相應授權。公司及配售代理同意根據《配售協議》促使不少於六名承配人認購3361.56萬股配售股份，配售價格為每股3.5港元。配售事項所得款項淨額總額預計約為11489萬港元，擬用於償還借款，結付日常業務營運產生的應付款項，包括採購原材料的付款，營運資金及一般企業用途。"
+    },
+    {
+      "id": "5110731",
+      "time": "2026-09-24 08:40:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新加坡禁止公共交通上音影片擾民 最高罰款約2600元】隨著短影片和流媒體普及，公共交通工具上的音影片外放問題受到更多關注，海外部分地區開始透過明確的處罰措施約束此類滋擾行為。自9月23日起，在新加坡公交車、公交換乘站及總站以大音量外放音樂或影片、滋擾他人的乘客，最高可被罰款500新元（約合人民幣2600元），車內飲食、亂丟垃圾、把腳放在座位上等行為，也被納入處罰範圍。（財新網）"
+    },
+    {
+      "id": "em:jjsj_rbsj:202609243883095857",
+      "time": "2026-09-24 08:40:25",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本9月製造業採購經理人指數(PMI)初值為54.1，上月為54.9。"
+    },
+    {
+      "id": "te:markets:586274",
+      "time": "2026-09-24 08:40:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Climb in Post-Holiday Trade — The Nikkei 225 Index jumped 1.6% to above 66,000 on Thursday as the market reopened following an extended holiday, with technology and artificial intelligence stocks leading gains as they caught up with global peers. Global tech and AI shares outperformed in recent sessions after Meta’s Muse personal AI agent rekindled investor interest in the sector and boosted demand for AI infrastructure stocks. Notable gainers in Japan included Kioxia Holdings (3.2%), Ibiden Co (5.9%), Advantest (1%), SoftBank Group (5.4%) and Tokyo Electron (0.8%). Meanwhile, investors remained cautious as Wall Street came under pressure on Wednesday after strong US economic data and a rebound in oil prices fueled inflation concerns and reinforced expectations for further Federal Reserve rate hikes, pushing the dollar and Treasury yields higher. Investors also continued to monitor developments in US-China talks that could lead to new trade agreements."
+    },
     {
       "id": "5110730",
       "time": "2026-09-24 08:39:00",
