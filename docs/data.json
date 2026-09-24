@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-24 13:46:51",
-  "count": 12878,
+  "updated": "2026-09-24 13:50:38",
+  "count": 12883,
   "items": [
+    {
+      "id": "5111092",
+      "time": "2026-09-24 13:49:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬魯蒂鈴木在馬尼薩爾工廠投產300千瓦綠氫試點專案。"
+    },
+    {
+      "id": "mkt:01a0d1f4-a066-7118-8678-9b52e31056a0",
+      "time": "2026-09-24 13:47:44",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "【UBS: Australian unemployment likely must rise further to curb inflation】UBS Australia chief economist George Tharenou said the labour market is cooling but remains slightly tight; to slow inflation to the Reserve Bank of Australia’s 2.5% target, unemployment may need to rise from 4.6% in August to around 5%. With upside inflation risks materialising, UBS still expects the Reserve Bank of Australia to raise the cash rate by 25bps next week to 4.60%. Tharenou expects a further hike in November once third‑quarter inflation is confirmed above the Reserve Bank of Australia’s expectations."
+    },
+    {
+      "id": "mkt:01a0d1f4-4cdc-7118-8678-970459a0f5d0",
+      "time": "2026-09-24 13:47:23",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "ECB executive board member Kocher said since the summer there have been signs of somewhat stronger economic momentum in the euro area."
+    },
+    {
+      "id": "mkt:01a0d1f4-0fb4-7118-8678-8f325d50c64b",
+      "time": "2026-09-24 13:47:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Executive Board member Kocher said the euro-area economy remains fragile."
+    },
+    {
+      "id": "5111091",
+      "time": "2026-09-24 13:46:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委科赫爾：今年夏天以來，歐元區增長勢頭略有增強跡象。"
+    },
     {
       "id": "5111090",
       "time": "2026-09-24 13:46:21",
