@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-25 03:51:26",
-  "count": 12815,
+  "updated": "2026-09-25 03:55:12",
+  "count": 12816,
   "items": [
+    {
+      "id": "mkt:01a0d4fb-d4a2-7118-8690-72d418acc02e",
+      "time": "2026-09-25 03:54:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Plaintiffs' lawyers said the Trump administration has asked the US Supreme Court to intervene to allow continued deportation of immigrants to countries other than their country of origin."
+    },
+    {
+      "id": "5112688",
+      "time": "2026-09-25 03:53:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "原告方律師：特朗普政府請求美國最高法院介入，以繼續將移民遣送至其原籍以外的國家。"
+    },
+    {
+      "id": "mkt:01a0d4f9-440c-7118-8690-6df3437a1685",
+      "time": "2026-09-25 03:51:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA'S LEE said Seoul will tighten regulation and oversight of counterfeit and illegally imported goods."
+    },
+    {
+      "id": "mkt:01a0d4f9-0362-7118-8690-641009951930",
+      "time": "2026-09-25 03:51:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's President Sheinbaum said Mexico and South Korea will deepen cooperation on artificial intelligence and electric vehicles."
+    },
     {
       "id": "5112687",
       "time": "2026-09-25 03:49:03",
@@ -116559,37 +116593,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收漲0.16%】海川證券漲27.92%，天演藥業漲6.31%，大全新能源漲5.48%，小馬智行漲5.11%，燃石醫學漲4.79%。"
-    },
-    {
-      "id": "mkt:01a0b0ee-b149-7118-85e9-631c99f9c902",
-      "time": "2026-09-18 03:53:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said we must carry the mission through to the end and overthrow the Iranian regime."
-    },
-    {
-      "id": "5100619",
-      "time": "2026-09-18 03:53:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡在競選活動啟動儀式上表示：我們必須將任務進行到底，推翻伊朗政權。"
-    },
-    {
-      "id": "5100618",
-      "time": "2026-09-18 03:53:03",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【花旗勢將透過該行歷來最大規模美元債發行籌集120億美元】花旗擬透過其史上規模最大的美元債發行籌集120億美元。信用市場在美聯儲週三加息後走強，該行抓住這一時機發債融資。據知情人士透露，這家華爾街大型銀行週四的債券發行吸引的認購需求峰值約為400億美元，相當於發行規模的約3.3倍。"
     }
   ]
 }

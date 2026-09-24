@@ -1,7 +1,41 @@
 {
   "date": "2026-09-25",
-  "count": 339,
+  "count": 343,
   "items": [
+    {
+      "id": "mkt:01a0d4fb-d4a2-7118-8690-72d418acc02e",
+      "time": "2026-09-25 03:54:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Plaintiffs' lawyers said the Trump administration has asked the US Supreme Court to intervene to allow continued deportation of immigrants to countries other than their country of origin."
+    },
+    {
+      "id": "5112688",
+      "time": "2026-09-25 03:53:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "原告方律師：特朗普政府請求美國最高法院介入，以繼續將移民遣送至其原籍以外的國家。"
+    },
+    {
+      "id": "mkt:01a0d4f9-440c-7118-8690-6df3437a1685",
+      "time": "2026-09-25 03:51:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SOUTH KOREA'S LEE said Seoul will tighten regulation and oversight of counterfeit and illegally imported goods."
+    },
+    {
+      "id": "mkt:01a0d4f9-0362-7118-8690-641009951930",
+      "time": "2026-09-25 03:51:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's President Sheinbaum said Mexico and South Korea will deepen cooperation on artificial intelligence and electric vehicles."
+    },
     {
       "id": "5112687",
       "time": "2026-09-25 03:49:03",
