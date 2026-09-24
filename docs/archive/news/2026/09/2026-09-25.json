@@ -1,7 +1,24 @@
 {
   "date": "2026-09-25",
-  "count": 352,
+  "count": 354,
   "items": [
+    {
+      "id": "mkt:01a0d508-c0d0-7118-8690-a687da5faacb",
+      "time": "2026-09-25 04:08:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli prime minister Netanyahu's UN General Assembly speech prompts multiple delegations to walk out】On Sept. 24 local time (early Sept. 25 Beijing time), Israeli prime minister Netanyahu spoke at the 81st UN General Assembly general debate. Numerous country delegations walked out in protest while the Israeli delegation applauded. Netanyahu called the departing representatives \"cowards.\""
+    },
+    {
+      "id": "mkt:01a0d507-8053-7118-8690-9fda5a6ff9f0",
+      "time": "2026-09-25 04:07:13",
+      "tags": [
+        "MKT News",
+        "AUDUSD"
+      ],
+      "text": "Reuters survey: 26 of 31 economists expect the Reserve Bank of Australia to keep the cash rate at 4.60% at end-December this year."
+    },
     {
       "id": "mkt:01a0d506-8d77-7118-8690-910d5b433f1c",
       "time": "2026-09-25 04:06:11",
