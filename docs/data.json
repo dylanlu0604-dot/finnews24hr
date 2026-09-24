@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-25 03:59:07",
-  "count": 12816,
+  "updated": "2026-09-25 04:02:57",
+  "count": 12812,
   "items": [
+    {
+      "id": "5112692",
+      "time": "2026-09-25 04:01:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Gen Digital收跌12%，創2022年以來最大單日跌幅。"
+    },
+    {
+      "id": "5112691",
+      "time": "2026-09-25 04:00:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.31%，標普500指數跌0.02%，納指漲0.01%。Genesis Healthcare  Inc.跌12.05%，美高梅跌11.01%，第一太陽能跌10.32%，Arm Holdings Plc跌7.88%，NBIS漲7.44%，Moderna漲6.98%，查爾斯河實驗室漲6.18%。“七姐妹”方面：Meta Platforms漲4.48%，谷歌漲1.19%，亞馬遜漲0.04%，蘋果跌0.34%，英偉達跌0.41%，特斯拉跌0.57%，微軟跌0.61%。"
+    },
+    {
+      "id": "5112690",
+      "time": "2026-09-25 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.64%】DCX跌17.85%，海川證券跌13.73%，AIFU跌12.59%，逸仙電商跌11.23%，MAAS跌6.51%。"
+    },
     {
       "id": "mkt:01a0d4fb-d4a2-7118-8690-72d418acc02e",
       "time": "2026-09-25 03:54:28",
@@ -116521,78 +116547,6 @@
         "其他"
       ],
       "text": "OpenAI 推出法律人工智慧平臺 Astra for Law。"
-    },
-    {
-      "id": "te:economy:584711",
-      "time": "2026-09-18 04:02:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Argentina GDP Growth Slows in Q2 — Argentina’s economy grew 2.0% year-on-year in the second quarter of 2026, slowing from a 2.3% increase in the previous quarter, but beating forecasts of a 1.6% expansion. The strongest sector gains came from fishing (44.7%), mining and quarrying (16.4%), and agriculture, livestock, hunting and forestry (6.9%). Other notable expansions were recorded in electricity, gas and water (5.0%), financial intermediation (4.8%), and hotels and restaurants (1.6%). In contrast, manufacturing contracted 2.1%, while public administration and defense declined 1.4%, marking the weakest performances. On the demand side, exports rose 13.7% year-on-year, leading growth, while private consumption increased 0.4% and public consumption fell 4.1%. Gross fixed capital formation contracted 11.1%, while imports of goods and services fell 8.6%. On a quarter-on-quarter basis, the economy contracted 0.6% in seasonally adjusted terms."
-    },
-    {
-      "id": "5100623",
-      "time": "2026-09-18 04:01:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家廣播電視臺（IRIB）：暫無確認報道稱在指定時間內哈爾格島附近發生爆炸。"
-    },
-    {
-      "id": "mkt:01a0b0f5-94b3-7118-85e9-77d3a0ef77df",
-      "time": "2026-09-18 04:01:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "S&P500",
-        "Impact bullish",
-        "NVDA.O",
-        "INTC.O"
-      ],
-      "text": "【U.S. close: major indices higher as chip stocks lead】U.S. stocks closed higher Thursday: Dow Jones +0.6%, S&P 500 +1.1%, Nasdaq Composite +1.69%. Semiconductors led gains—SK Hynix (SKHY.O) +4.6%, NVIDIA (NVDA.O) +2.5%, AMD (AMD.O) +6.0%, Intel (INTC.O) up about 7.6%. Nasdaq Golden Dragon China Index +0.16%; Alibaba (BABA.N) +1.0%, Bilibili (BILI.O) -3.0%."
-    },
-    {
-      "id": "mkt:01a0b0f5-8776-7118-85e9-6bd7e506ad73",
-      "time": "2026-09-18 04:01:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia's 9th State Duma election begins】Voting for Russia's 9th State Duma (lower house) began on Sept. 18 at 08:00 local time in Kamchatka Krai and Chukotka Autonomous Okrug. It is the first nationwide parliamentary election since Russia launched its special military operation in Ukraine in 2022."
-    },
-    {
-      "id": "5100622",
-      "time": "2026-09-18 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.62%，標普500指數漲1.14%，納指漲1.68%。Generac控股漲18.33%，超微電腦漲9.48%，Astera Labs Inc漲9.08%，Arm Holdings Plc漲8.57%，Moderna漲8.55%，慧與漲8.00%，英特爾漲7.61%。“七姐妹”方面：英偉達漲2.55%，特斯拉漲2.27%，亞馬遜漲2.12%，微軟漲1.52%，蘋果漲1.38%，Meta Platforms漲1.32%，谷歌漲1.28%。"
-    },
-    {
-      "id": "5100621",
-      "time": "2026-09-18 04:00:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯第九屆國家杜馬（議會下院）選舉開始】俄羅斯第九屆國家杜馬（議會下院）選舉於當地時間9月18日8時在堪察加邊疆區和楚科奇自治州率先開始投票。這是俄羅斯自2022年對烏克蘭開展特別軍事行動以來首次舉行全國性議會選舉。根據俄中央選舉委員會發布的資訊，本次選舉投票時間為9月18日至20日，9月20日為全俄統一投票日。為適應俄羅斯橫跨11個時區的國土特點，各地投票時段將因地錯峰展開，同時開通遠端電子投票渠道。選舉還將開設319個境外投票點，境外選民人數超過181.6萬人。（央視新聞）"
-    },
-    {
-      "id": "5100620",
-      "time": "2026-09-18 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.16%】海川證券漲27.92%，天演藥業漲6.31%，大全新能源漲5.48%，小馬智行漲5.11%，燃石醫學漲4.79%。"
     }
   ]
 }
