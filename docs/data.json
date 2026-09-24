@@ -1,7 +1,133 @@
 {
-  "updated": "2026-09-24 23:55:29",
-  "count": 12757,
+  "updated": "2026-09-24 23:59:27",
+  "count": 12766,
   "items": [
+    {
+      "id": "5112416",
+      "time": "2026-09-24 23:58:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利總統：我們已基本實現了對邊境的全面管控。"
+    },
+    {
+      "id": "mkt:01a0d423-f1a9-7118-868c-2a94b2f28e88",
+      "time": "2026-09-24 23:58:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 30-year Treasury yield rose to 5.4583%, a 22-year high. The 2-year Treasury yield increased 0.85 bps to 4.904%."
+    },
+    {
+      "id": "te:markets:586623",
+      "time": "2026-09-24 23:57:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Thursday — The FTSE 100 fell on Thursday, as a sharp rise in oil prices and renewed selling in global bonds heightened concerns over inflation and interest rates. UK 10-year gilt yields were at around 5.35%, close to the 19-year highs reached earlier this month. Brent crude jumped toward $108 a barrel after an adviser to Iran’s Supreme Leader said the conflict with the US could expand to the Indian Ocean in a subsequent phase. Energy stocks were the strongest performers, with Shell rising 1.7% and BP gaining 2.6% as higher oil prices supported the sector. Banks moved lower, with HSBC down 0.8% and Barclays and Lloyds Banking Group each losing around 0.5%. Defence stocks also weakened, with Rolls-Royce falling 1.4% and BAE Systems declining 1.6%. Miners were under pressure, with Rio Tinto down 1.7% and Glencore 0.6% lower."
+    },
+    {
+      "id": "5112415",
+      "time": "2026-09-24 23:57:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率最新上漲0.85個基點，報4.904%。"
+    },
+    {
+      "id": "5112414",
+      "time": "2026-09-24 23:57:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週四（9月24日）歐市尾盤，ICE英國天然氣期貨漲5.70%，報190.050便士/千卡，北京時間22:00以來顯著擴大漲幅。TTF基準荷蘭天然氣期貨漲2.50%，報76.171歐元/兆瓦時。ICE歐盟碳排放交易許可（期貨價格）漲1.05%，報86.36歐元/噸。"
+    },
+    {
+      "id": "5112413",
+      "time": "2026-09-24 23:57:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率觸及22年新高，報5.4583%；最新上漲4.85個基點，報5.451%。"
+    },
+    {
+      "id": "5112412",
+      "time": "2026-09-24 23:57:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利總統：我們對經濟前景非常樂觀。"
+    },
+    {
+      "id": "mkt:01a0d422-6da4-7118-868c-224f96587a8a",
+      "time": "2026-09-24 23:57:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say the US is seeking to join Elon Musk's court fight with the EU over fines related to social media platform X."
+    },
+    {
+      "id": "5112411",
+      "time": "2026-09-24 23:56:11",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【穆迪維持百度A3評級，花旗持有百度好倉增持至5.04%】9月24日，穆迪確認百度A3評級，並表示，百度公司流動性“極佳”，經營現金流足以覆蓋資本支出需求。預計未來12至18個月，百度AI商業化將繼續取得進展。"
+    },
+    {
+      "id": "5112410",
+      "time": "2026-09-24 23:56:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出搭載實時虛擬形象功能的 Gemini 3.8 Live。"
+    },
+    {
+      "id": "5112409",
+      "time": "2026-09-24 23:55:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利總統：我們在可再生能源領域正取得巨大進展。"
+    },
+    {
+      "id": "5112408",
+      "time": "2026-09-24 23:55:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟全國廣播公司(MSNBC)節目製作人獲准進入白宮。"
+    },
+    {
+      "id": "5112407",
+      "time": "2026-09-24 23:55:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利總統：我們對外國投資持開放態度。"
+    },
+    {
+      "id": "5112406",
+      "time": "2026-09-24 23:54:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍貓頭鷹資本發言人表示：藍貓頭鷹資本、斯塔克基礎設施與甲骨文三方在“木星計劃”上仍保持完全一致。"
+    },
     {
       "id": "5112405",
       "time": "2026-09-24 23:54:44",
@@ -116105,50 +116231,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織：工作人員與辛巴威就工作人員監測計劃項下第二次審查達成工作人員層面協議。"
-    },
-    {
-      "id": "mkt:01a0b016-2a93-7118-85e6-a544822560b6",
-      "time": "2026-09-17 23:57:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources said Glencore's head of iron ore, Hill, has been suspended amid a review of Radiant World."
-    },
-    {
-      "id": "5100382",
-      "time": "2026-09-17 23:57:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "嘉能可鐵礦石業務負責人希爾因 Radiant World 相關調查遭到停職。"
-    },
-    {
-      "id": "5100381",
-      "time": "2026-09-17 23:57:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國加州州長紐森：威斯康星州的汽油價格一夜之間暴漲 23 美分，特朗普幹得可真 “漂亮”。"
-    },
-    {
-      "id": "mkt:01a0b014-fcc2-7118-85e6-9c652284c3d1",
-      "time": "2026-09-17 23:56:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India denies the allegations contained in a report by a short-seller."
-    },
-    {
-      "id": "te:markets:584682",
-      "time": "2026-09-17 23:55:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises to Over 1-Week High — The FTSE 100 rose 1.2% to above 10,815 on Thursday, reaching its highest level in more than a week after the Bank of England kept interest rates unchanged at 3.75%, as widely expected. The central bank warned that rates could need to rise if inflationary pressures intensify as a result of the conflict in the Middle East. Six of the nine policymakers, including Governor Andrew Bailey, voted to maintain the current rate, leaving the committee split along the same lines as in July. Gains were broad-based, led by Rolls-Royce, which advanced 2.8%, while HSBC rose 1.8%. Healthcare stocks also performed strongly, with AstraZeneca up 2.2% and GSK gaining 1.9%. Miners were among the biggest risers, with Endeavour and Antofagasta climbing 3.7% and 3.6%, while Anglo American also gained more than 3% and Fresnillo added 2.8%. Next rose 2.8% after raising its full-year guidance. Oil prices fell for a second consecutive session."
     }
   ]
 }
