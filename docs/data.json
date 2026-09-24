@@ -1,7 +1,100 @@
 {
-  "updated": "2026-09-24 23:39:09",
-  "count": 12753,
+  "updated": "2026-09-24 23:43:26",
+  "count": 12761,
   "items": [
+    {
+      "id": "5112393",
+      "time": "2026-09-24 23:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理抵達紐約】當地時間9月24日上午，以色列總理內塔尼亞胡抵達美國紐約，準備在第81屆聯合國大會一般性辯論上發表講話。內塔尼亞胡此次赴美行程異常短暫，與他去年9月為期一週的訪美行程形成鮮明對比。據兩名以色列官員透露，內塔尼亞胡預計在紐約停留不到8小時就將返回以色列。 以色列總理辦公室表示，內塔尼亞胡將與9位外國領導人會晤，其中5位來自拉美國家。目前暫不清楚內塔尼亞胡是否還將與美國官員會晤。"
+    },
+    {
+      "id": "te:markets:586617",
+      "time": "2026-09-24 23:41:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Hits 18-week High — Gasoline increased to 3.64 USD/Gal, the highest since May 2026. Over the past 4 weeks, Gasoline gained 11.79%, and in the last 12 months, it increased 81.62%."
+    },
+    {
+      "id": "mkt:01a0d413-568e-7118-868b-fda6be8dbcd7",
+      "time": "2026-09-24 23:40:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PBR.O",
+        "Impact bullish"
+      ],
+      "text": "Petrobras CEO said the company is nearing 3 million barrels per day of production."
+    },
+    {
+      "id": "mkt:01a0d412-d6f6-7118-868b-f75b207a9ceb",
+      "time": "2026-09-24 23:39:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Xi holds brief Oval Office exchange with Trump】On the morning of Sept. 24 (local time), Chinese President Xi met U.S. President Trump for a brief private exchange in the White House Oval Office."
+    },
+    {
+      "id": "5112392",
+      "time": "2026-09-24 23:39:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司執行長：公司石油產量即將達到300萬桶/日。"
+    },
+    {
+      "id": "mkt:01a0d412-9a3b-7118-868b-ea603f08cba6",
+      "time": "2026-09-24 23:39:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【India will keep diesel exports despite US ban prospects, oil minister says】India's oil minister Puri said India has no plans to impose diesel export restrictions even if the US moves to curb overseas diesel shipments to ease domestic fuel prices. \"We will stand by our commitments,\" he said, citing recent refinery expansions and ongoing capacity-boosting investment. Kpler data show India has surpassed Russia to become the world's second-largest seaborne diesel exporter year-to-date, supplying roughly 10% of seaborne diesel exports and increasingly filling global supply gaps amid disruptions elsewhere."
+    },
+    {
+      "id": "5112391",
+      "time": "2026-09-24 23:39:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平同美國總統特朗普小範圍交流】當地時間9月24日上午，國家主席習近平同美國總統特朗普在白宮橢圓形辦公室小範圍交流。（央視新聞）"
+    },
+    {
+      "id": "5112390",
+      "time": "2026-09-24 23:39:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "南非提議與美國組建關鍵礦產工作組。"
+    },
+    {
+      "id": "5112389",
+      "time": "2026-09-24 23:39:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑莓執行長約翰·賈馬泰奧認為汽車軟體市場正持續增長。"
+    },
+    {
+      "id": "5112388",
+      "time": "2026-09-24 23:39:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國正尋求推翻歐盟對馬斯克X平臺的1.2億歐元罰款】美國正尋求加入埃隆·馬斯克提起的法律訴訟，以推翻歐盟因社交媒體平臺X違反網路規則而對其開出的1.2億歐元（約合1.365億美元）罰款。唐納德·特朗普政府已向歐盟普通法院提交申請，支援X撤銷這一標誌性案件的努力。該罰款由歐盟委員會去年12月開出，此後已成為日益緊張的跨大西洋關係中的一個爆發點。該裁決指控X違反了透明度要求，並透過其驗證計劃的設計欺騙了使用者。X、歐盟以及歐盟下級法院的代表均未立即回應置評請求。"
+    },
     {
       "id": "5112387",
       "time": "2026-09-24 23:37:54",
@@ -116095,22 +116188,6 @@
         "市場"
       ],
       "text": "洲際交易所英國 10 月天然氣期貨結算價為 190.73 便士 / 熱量單位。"
-    },
-    {
-      "id": "5100363",
-      "time": "2026-09-17 23:42:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX討論從倒閉初創企業收購資料，用於訓練人工智慧模型。"
-    },
-    {
-      "id": "5100362",
-      "time": "2026-09-17 23:40:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國地球科學研究中心：阿留申群島福克斯群島發生 6.49 級地震。"
     }
   ]
 }
