@@ -1,7 +1,72 @@
 {
   "date": "2026-09-24",
-  "count": 560,
+  "count": 567,
   "items": [
+    {
+      "id": "5110761",
+      "time": "2026-09-24 09:07:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報97.13美元/桶。"
+    },
+    {
+      "id": "mkt:01a0d0f3-eb77-7118-8673-e9fbe8c5ec8c",
+      "time": "2026-09-24 09:07:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【China Mid-Autumn holiday highway traffic expected at about 41 million vehicles daily】The 2026 Mid-Autumn Festival holiday runs Sept. 25-27 (three days). Highways will charge normal tolls; nationwide daily highway traffic during the holiday is expected at roughly 41 million vehicles."
+    },
+    {
+      "id": "5110760",
+      "time": "2026-09-24 09:06:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中秋假期預計全國高速公路日均總流量約為4100萬輛】2026年中秋節假期從明天（25日）到9月27日，共計3天。高速公路正常收費，中秋節假期全國高速公路日均總流量預計約為4100萬輛，記者從交通運輸部路網中心瞭解到，今年中秋路網執行在流量時段上將呈現多個特徵。中秋國慶短間隔，形成多波接續車流。預計公路網形成“中秋短途團聚、國慶集中長線出遊”的多波接續車流，路網高負荷執行視窗拉長，節假日與工作日邊界模糊，兩節間隙工作日省際通道、長線景區周邊可能有階段性旅遊車流。高速公路流量首尾集中。中秋節假期，預計全國高速公路日均總流量約為4100萬輛。總流量峰值出現在今天（24日），約4250萬輛。中秋假期出行以家庭團聚、近郊自駕出行為主。普通公路執行整體平穩。中秋節假期，日均交通量相對較為平緩，高峰現象不明顯。"
+    },
+    {
+      "id": "5110759",
+      "time": "2026-09-24 09:05:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊QClaw將於12月24日停止運營】9月24日，騰訊QClaw團隊釋出公告稱，因業務發展調整，QClaw將於2026年12月24日00:00正式停止運營。自公告之日起，停止新使用者註冊，停止訂閱服務購買與續費。自公告之日起，如使用者賬號記憶體在已購買但尚未使用完畢的有效訂閱服務，且希望提前終止使用，使用者可自主申請退款。自公告發布之日起，使用者可透過QClaw官網頂部“遷移到WorkBuddy”入口，將QClaw中的資料快速遷移至WorkBuddy。"
+    },
+    {
+      "id": "5110758",
+      "time": "2026-09-24 09:05:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風杜鵑致日本11死4失蹤】據日本總務省消防廳訊息，截至日本時間今天（9月24日）上午9時，受第25號颱風“杜鵑”影響，日本千葉縣、神奈川縣和宮崎縣共有11人死亡、4人失蹤。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0d0f1-e624-7118-8673-e0ad959c4992",
+      "time": "2026-09-24 09:05:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XOM.O",
+        "Impact bullish",
+        "CVX.O",
+        "PSX.O"
+      ],
+      "text": "Wall Street Journal, citing sources, reports oil and gas industry lobbying groups are mounting a coordinated campaign to oppose a diesel export ban; executives from ExxonMobil, Chevron and Phillips 66 participated."
+    },
+    {
+      "id": "5110757",
+      "time": "2026-09-24 09:04:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞國防部長：OpenAI網路攻擊是一起“嚴重事件” 】澳大利亞國防部長Marles：OpenAI安全事件“絕不可接受”。事件程度較輕，未有個人資料被訪問。OpenAI正就該事件與澳大利亞方面展開合作。該事件是對人工智慧發展的一次警示。OpenAI網路攻擊是一起“嚴重事件”。"
+    },
     {
       "id": "mkt:01a0d0f0-5dff-7118-8673-dfccefb32f3a",
       "time": "2026-09-24 09:03:28",
