@@ -1,7 +1,322 @@
 {
   "date": "2026-09-24",
-  "count": 2090,
+  "count": 2121,
   "items": [
+    {
+      "id": "mkt:01a0d40d-adfb-7118-868b-c41c2a8be02c",
+      "time": "2026-09-24 23:34:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US is seeking to join the legal case between Musk and the EU over fines tied to the X platform."
+    },
+    {
+      "id": "te:markets:586613",
+      "time": "2026-09-24 23:34:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10Y Bond Yield Hits 34-month High — Canada 10 Year Government Bond Yield increased to 3.99%, the highest since November 2023. Over the past 4 weeks, Canada 10Y Bond Yield gained 36.30 basis points, and in the last 12 months, it increased 75.40 basis points."
+    },
+    {
+      "id": "mkt:01a0d40d-628a-7118-868b-b9a2af7914a8",
+      "time": "2026-09-24 23:34:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE data show UK front-month gas up 5.55% at 189.45 pence/therm."
+    },
+    {
+      "id": "mkt:01a0d40d-2575-7118-868b-b76c621da4e0",
+      "time": "2026-09-24 23:33:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE data showed Dutch front-month wholesale natural gas rose 5.5% to €76.00/MWh."
+    },
+    {
+      "id": "5112381",
+      "time": "2026-09-24 23:33:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）資料顯示，荷蘭近月批發天然氣價格上漲5.5%，至每兆瓦時76.00歐元。"
+    },
+    {
+      "id": "5112380",
+      "time": "2026-09-24 23:33:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國至9月24日4周國債競拍-得標利率配置百分比 54.97%，前值69.59%。\n美國至9月24日4周國債競拍-投標倍數 2.61，前值3.02。\n美國至9月24日4周國債競拍-得標利率 3.85%，前值3.82%。\n\n美國至9月24日8周國債競拍-投標倍數 2.76，前值2.94。\n美國至9月24日8周國債競拍-得標利率 3.99%，前值3.92%。\n美國至9月24日8周國債競拍-得標利率配置百分比 23.84%，前值2.93%。"
+    },
+    {
+      "id": "mkt:01a0d40c-cc25-7118-868b-ab2df465d013",
+      "time": "2026-09-24 23:33:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US 8‑week Treasury bill auction on Sep 24: 23.84% of the award at the stop-out rate, versus 2.93% previously."
+    },
+    {
+      "id": "5112379",
+      "time": "2026-09-24 23:33:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國尋求加入馬斯克陣營，在法庭上對抗歐盟針對X平臺的罰款。"
+    },
+    {
+      "id": "5112378",
+      "time": "2026-09-24 23:33:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滙豐銀行將取消香港銀行家2.6萬美元的私人會所入會補貼】滙豐據悉將停止一項對銀行員工加入香港會員制會所的補貼。這項價值約2.6萬美元的福利將從明年1月起取消。一名知情人士稱，滙豐此舉旨在使銀行家與旗下恒生銀行的員工福利一致。"
+    },
+    {
+      "id": "5112377",
+      "time": "2026-09-24 23:33:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）資料顯示，英國近月天然氣價格上漲5.55%，至每熱值單位189.45便士。"
+    },
+    {
+      "id": "mkt:01a0d40c-9041-7118-868b-a3d537e8df9b",
+      "time": "2026-09-24 23:33:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US 8-week Treasury bill auction on Sep 24: stop-out yield 3.99% versus 3.92% at the prior auction."
+    },
+    {
+      "id": "mkt:01a0d40c-7284-7118-868b-9a2e08eefc00",
+      "time": "2026-09-24 23:33:00",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 8-week Treasury bill auction bid-cover ratio 2.76 on Sept. 24; prior 2.94."
+    },
+    {
+      "id": "mkt:01a0d40c-6b35-7118-868b-951c41dc68a8",
+      "time": "2026-09-24 23:32:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Sep.24) | actual 3.99% | previous 3.92%"
+    },
+    {
+      "id": "mkt:01a0d40c-4539-7118-868b-8ba4bd5b7890",
+      "time": "2026-09-24 23:32:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Sep.24) | actual 2.76 | previous 2.94"
+    },
+    {
+      "id": "mkt:01a0d40c-2576-7118-868b-85c44763e0dd",
+      "time": "2026-09-24 23:32:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures rose 6.00% intraday to $3.343 per MMBtu."
+    },
+    {
+      "id": "mkt:01a0d40b-e9bc-7118-868b-7c0879d68996",
+      "time": "2026-09-24 23:32:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Pakistan's deputy prime minister and foreign minister stressed Pakistan will continue working with other regional states to promote regional peace and stability."
+    },
+    {
+      "id": "mkt:01a0d40b-dd1d-7118-868b-74e51c1c6692",
+      "time": "2026-09-24 23:32:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Araghchi warned that ongoing killings of Palestinians and Israel's expanding occupation in the occupied Palestinian territories require Islamic states and the Organisation of Islamic Cooperation to take concrete action to assist Palestinians and respond to Israeli actions."
+    },
+    {
+      "id": "mkt:01a0d40b-d84b-7118-868b-6b157d3bac8f",
+      "time": "2026-09-24 23:32:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US 4-week Treasury auction bid-cover ratio 2.61, down from 3.02 previously."
+    },
+    {
+      "id": "mkt:01a0d40b-d838-7118-868b-61f82b697444",
+      "time": "2026-09-24 23:32:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 4-week Treasury auction through Sept. 24 — percentage of allotment at the stop-out yield 54.97%, prior 69.59%."
+    },
+    {
+      "id": "mkt:01a0d40b-d07e-7118-868b-587791fed3ce",
+      "time": "2026-09-24 23:32:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. 4-week Treasury bill auction stop-out yield 3.85%, up 3bps from 3.82% at the prior auction."
+    },
+    {
+      "id": "mkt:01a0d40b-badc-7118-868b-51a429a303f6",
+      "time": "2026-09-24 23:32:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's Foreign Ministry said Araghchi briefed Pakistan's foreign minister on progress in an Iran-Oman understanding to identify appropriate routes for safe vessel passage through the Strait of Hormuz, and on Iran's interactions with the U.S. via Qatar."
+    },
+    {
+      "id": "mkt:01a0d40b-997e-7118-868b-48b0888d4847",
+      "time": "2026-09-24 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Sep.24) | actual 3.85% | previous 3.82%"
+    },
+    {
+      "id": "mkt:01a0d40b-996a-7118-868b-47899e827397",
+      "time": "2026-09-24 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Sep.24) | actual 54.97% | previous 69.59%"
+    },
+    {
+      "id": "mkt:01a0d40b-9969-7118-868b-389f3e1f784c",
+      "time": "2026-09-24 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Sep.24) | actual 2.61 | previous 3.02"
+    },
+    {
+      "id": "mkt:01a0d40b-8df1-7118-868b-360b2023c9ff",
+      "time": "2026-09-24 23:32:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry said Iran's foreign minister thanked Pakistan for a constructive mediation role in US‑Iran talks and accused the United States of repeatedly breaching commitments that have undermined the mediation mechanism. He said US violations of the Islamabad understanding have heightened regional insecurity and tensions and that Washington should be held responsible for the resulting consequences."
+    },
+    {
+      "id": "mkt:01a0d40b-84e5-7118-868b-2e22df65fea0",
+      "time": "2026-09-24 23:31:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi met Pakistan’s deputy prime minister and foreign minister Dar to discuss bilateral ties and key regional and international issues."
+    },
+    {
+      "id": "5112376",
+      "time": "2026-09-24 23:31:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超6.00%，現報3.343美元/百萬英熱。"
+    },
+    {
+      "id": "5112375",
+      "time": "2026-09-24 23:31:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅賽德斯-賓士與輝能科技已簽署聯合測試協議，其中包括對輝能科技最新第四代超流態全無機固態電池電芯技術進行初步技術評估。"
+    },
+    {
+      "id": "5112374",
+      "time": "2026-09-24 23:30:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲天然氣價格上漲幅度高達5.3%，達到75.80歐元/兆瓦時。"
+    },
+    {
+      "id": "5112373",
+      "time": "2026-09-24 23:30:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "英國富時100指數下跌0.23%；德國DAX指數下跌0.61%。法國CAC 40指數下跌0.49%；西班牙IBEX指數下跌0.31%。歐洲斯托克指數下跌0.52%；歐元區藍籌股指數下跌0.4%。"
+    },
+    {
+      "id": "5112372",
+      "time": "2026-09-24 23:30:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據阿聯酋通訊社報道，阿聯酋民航局24日宣佈，自當天起暫停所有伊朗航空公司往返阿聯酋的航班，直至另行通知。（新華社）"
+    },
     {
       "id": "te:markets:586611",
       "time": "2026-09-24 23:30:17",
