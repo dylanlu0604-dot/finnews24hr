@@ -1,7 +1,83 @@
 {
   "date": "2026-09-25",
-  "count": 346,
+  "count": 352,
   "items": [
+    {
+      "id": "mkt:01a0d506-8d77-7118-8690-910d5b433f1c",
+      "time": "2026-09-25 04:06:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "REUTERS SURVEY: 33 of 34 economists expect the Reserve Bank of Australia to raise the cash rate by 25 bps to 4.60% on Sept. 29."
+    },
+    {
+      "id": "mkt:01a0d505-c663-7118-8690-8ab7f7f13c99",
+      "time": "2026-09-25 04:05:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AKAM.O",
+        "Impact bullish"
+      ],
+      "text": "ANTHROPIC strikes $12 bln AI-compute partnership with Akamai."
+    },
+    {
+      "id": "te:markets:586657",
+      "time": "2026-09-25 04:04:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Mixed as Yields and Oil Stay Volatile — US stock indices closed mixed on Thursday amid renewed bond and oil volatility. The S&P 500 and Nasdaq were near flat, while the Dow shed 162 points. The 10-year US Treasury yield topped 5.15% before retreating to around 5.1%, remaining at 2007 highs. The 30-year yield climbed to its highest level since 2004. Borrowing costs rose as oil prices increased amid heightened US-Iran tensions. However, reports suggested US and Iranian negotiators were closer to an agreement to restore tanker flows through the Strait of Hormuz. Oil trimmed gains, easing yields on shorter-dated maturities. AI hyperscalers closed mixed, with Alphabet up 1.3% and Meta adding 4.5% following positive feedback on its AI agent software and gadget releases. Microsoft shed 0.5%, while Amazon was flat. Oracle fell 3.5% after declaring force majeure over setbacks to a data center development in New Mexico. Chipmakers were also mixed amid heavy debt issuance for AI infrastructure."
+    },
+    {
+      "id": "mkt:01a0d504-ac69-7118-8690-8734725d49d1",
+      "time": "2026-09-25 04:04:08",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "At Thursday close Sept 24, the Dow Jones Industrial Average fell 161.31 points, or 0.31%, to 51,350.28; the S&P 500 slipped 1.67 points, or 0.02%, to 7,704.36; the Nasdaq Composite rose 3.34 points, or 0.01%, to 26,939.37."
+    },
+    {
+      "id": "5112695",
+      "time": "2026-09-25 04:03:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 與Akamai達成 120 億美元 AI 算力合作協議。"
+    },
+    {
+      "id": "mkt:01a0d503-6ca5-7118-8690-790e16d76cb0",
+      "time": "2026-09-25 04:02:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Alibaba",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish",
+        "ARM.O",
+        "Impact bearish",
+        "INTC.O"
+      ],
+      "text": "【US stocks close mixed; Meta up 4.5%】US equities closed mixed on Thursday: the Dow fell 0.31%, the S&P 500 dipped 0.02% and the Nasdaq rose 0.01%. Notable movers included Arm (ARM.O) -7.88%, SanDisk (SNDK.O) -3.47% and Oracle (ORCL.N) -3.49%; Meta Platforms (META.O) +4.5% and Intel (INTC.O) +3.91%. The Nasdaq Golden Dragon China Index fell 0.67%; Baidu (BIDU.O) -1.89% and Alibaba (BABA.N) -0.14%."
+    },
     {
       "id": "5112692",
       "time": "2026-09-25 04:01:05",
