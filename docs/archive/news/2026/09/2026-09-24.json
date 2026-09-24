@@ -1,7 +1,75 @@
 {
   "date": "2026-09-24",
-  "count": 629,
+  "count": 636,
   "items": [
+    {
+      "id": "mkt:01a0d10d-ff91-7118-8674-b227d1a6c311",
+      "time": "2026-09-24 09:35:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI Convertible Bond Index opened +0.01%; Shanlu CB, Sanjiang CB, Sifang CB up 8.75%, 0.95%, 0.91% respectively; Lianrui CB, Yitian CB, Dinglong CB down 1.78%, 1.44%, 1.12%."
+    },
+    {
+      "id": "mkt:01a0d10d-a560-7118-8674-aaa215f5aebf",
+      "time": "2026-09-24 09:35:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share VNA (vector network analyzer) instrument sector strengthened for consecutive sessions; Dongfang Zhongke posted a second straight daily limit-up, while Dianke Siyi, Chuangyuan Xinke, Tonghui Electronics and Weixing Intelligent also advanced."
+    },
+    {
+      "id": "5110802",
+      "time": "2026-09-24 09:34:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多家品牌金飾價格下調，老廟黃金克價1293元】9月24日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所調整，老鳳祥報價1300元/克，較前一日跌17元；老廟黃金報價1293元/克，較前一日跌17元；周生生報價1297元/克，前一日跌12元。"
+    },
+    {
+      "id": "te:markets:586290",
+      "time": "2026-09-24 09:34:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Rebounds on Middle East Uncertainty — European natural gas prices rose toward €74/MWh on Thursday, rebounding from a three-week low amid uncertainty over a diplomatic resolution to the Middle East conflict that could reopen the Strait of Hormuz. Iranian President Masoud Pezeshkian that Tehran would never surrender to the US but remained open to dialogue and diplomacy, while setting conditions for a return to negotiations. The Strait remains largely closed, impeding LNG flows from the Persian Gulf. Europe’s gas storage position remains a key concern as the winter heating season approaches. Storage facilities are around 70% full, still below the five-year seasonal average and the region’s 80% target. Goldman Sachs reiterated upside risks to gas prices, warning that European gas prices could rise above €100/MWh in peak winter if Gulf LNG exports do not increase."
+    },
+    {
+      "id": "5110801",
+      "time": "2026-09-24 09:34:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【VNA儀器概念延續強勢 東方中科2連板】VNA儀器概念延續昨日強勢，東方中科2連板，電科思儀、創遠信科、同惠電子、威星智慧跟漲。"
+    },
+    {
+      "id": "mkt:01a0d10b-b28f-7118-8674-a432544058a8",
+      "time": "2026-09-24 09:33:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share textile manufacturing sector opened stronger: Huamao Co. hit the daily trading limit, Huasheng Co. rose over 9%; Wanshili, Huasheng Technology, Yingfeng Co. and Huafang Co. also advanced."
+    },
+    {
+      "id": "5110800",
+      "time": "2026-09-24 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股出版板塊異動拉昇】新華傳媒、新華文軒觸及漲停，粵傳媒、內蒙新華、皖新傳媒、讀者傳媒、果麥文化跟漲。"
+    },
     {
       "id": "5110799",
       "time": "2026-09-24 09:32:47",

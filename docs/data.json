@@ -1,7 +1,75 @@
 {
-  "updated": "2026-09-24 09:33:37",
-  "count": 12800,
+  "updated": "2026-09-24 09:37:44",
+  "count": 12798,
   "items": [
+    {
+      "id": "mkt:01a0d10d-ff91-7118-8674-b227d1a6c311",
+      "time": "2026-09-24 09:35:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI Convertible Bond Index opened +0.01%; Shanlu CB, Sanjiang CB, Sifang CB up 8.75%, 0.95%, 0.91% respectively; Lianrui CB, Yitian CB, Dinglong CB down 1.78%, 1.44%, 1.12%."
+    },
+    {
+      "id": "mkt:01a0d10d-a560-7118-8674-aaa215f5aebf",
+      "time": "2026-09-24 09:35:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share VNA (vector network analyzer) instrument sector strengthened for consecutive sessions; Dongfang Zhongke posted a second straight daily limit-up, while Dianke Siyi, Chuangyuan Xinke, Tonghui Electronics and Weixing Intelligent also advanced."
+    },
+    {
+      "id": "5110802",
+      "time": "2026-09-24 09:34:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多家品牌金飾價格下調，老廟黃金克價1293元】9月24日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所調整，老鳳祥報價1300元/克，較前一日跌17元；老廟黃金報價1293元/克，較前一日跌17元；周生生報價1297元/克，前一日跌12元。"
+    },
+    {
+      "id": "te:markets:586290",
+      "time": "2026-09-24 09:34:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Rebounds on Middle East Uncertainty — European natural gas prices rose toward €74/MWh on Thursday, rebounding from a three-week low amid uncertainty over a diplomatic resolution to the Middle East conflict that could reopen the Strait of Hormuz. Iranian President Masoud Pezeshkian that Tehran would never surrender to the US but remained open to dialogue and diplomacy, while setting conditions for a return to negotiations. The Strait remains largely closed, impeding LNG flows from the Persian Gulf. Europe’s gas storage position remains a key concern as the winter heating season approaches. Storage facilities are around 70% full, still below the five-year seasonal average and the region’s 80% target. Goldman Sachs reiterated upside risks to gas prices, warning that European gas prices could rise above €100/MWh in peak winter if Gulf LNG exports do not increase."
+    },
+    {
+      "id": "5110801",
+      "time": "2026-09-24 09:34:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【VNA儀器概念延續強勢 東方中科2連板】VNA儀器概念延續昨日強勢，東方中科2連板，電科思儀、創遠信科、同惠電子、威星智慧跟漲。"
+    },
+    {
+      "id": "mkt:01a0d10b-b28f-7118-8674-a432544058a8",
+      "time": "2026-09-24 09:33:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share textile manufacturing sector opened stronger: Huamao Co. hit the daily trading limit, Huasheng Co. rose over 9%; Wanshili, Huasheng Technology, Yingfeng Co. and Huafang Co. also advanced."
+    },
+    {
+      "id": "5110800",
+      "time": "2026-09-24 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股出版板塊異動拉昇】新華傳媒、新華文軒觸及漲停，粵傳媒、內蒙新華、皖新傳媒、讀者傳媒、果麥文化跟漲。"
+    },
     {
       "id": "5110799",
       "time": "2026-09-24 09:32:47",
@@ -116193,85 +116261,6 @@
         "市場"
       ],
       "text": "任天堂股價上漲4.3%。"
-    },
-    {
-      "id": "te:markets:584397",
-      "time": "2026-09-17 09:37:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Towers on Hawkish Fed View — The dollar index held around 100.3 on Thursday following a sharp gain in the previous session, hovering at seven-week highs after the Federal Reserve raised interest rates for the first time in three years and signaled further tightening this year to contain inflation. The FOMC increased the fed funds rate by 25 basis points to 3.75%-4%, as expected, in a unanimous decision. Fed Chair Kevin Warsh also said inflation remains too high, while data released last week showed core US inflation rose more than anticipated in August. Meanwhile, President Donald called for rates to be quickly lowered to 1% or below in a social media post, though he stopped short of criticizing Warsh. Elsewhere, the Bank of England is expected to keep rates unchanged today, while the Bank of Japan is scheduled to raise rates on Friday. On the geopolitical front, oil prices eased amid hopes that Saudi Arabia can restore energy flows through its East-West pipeline."
-    },
-    {
-      "id": "5098738",
-      "time": "2026-09-17 09:37:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.04%，現報3345.807點；上證指數漲0.15%，現報3897.530點；深證成指漲0.68%，現報13545.877點。"
-    },
-    {
-      "id": "5098737",
-      "time": "2026-09-17 09:36:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲1%，現報7560.00點。"
-    },
-    {
-      "id": "5098736",
-      "time": "2026-09-17 09:36:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電子化學品板塊直線拉昇，西隴科學漲停】電子化學品板塊直線拉昇，西隴科學漲停，宏昌電子、嘉德利、萊特光電、宏和科技、萊爾科技等跟漲。"
-    },
-    {
-      "id": "5098735",
-      "time": "2026-09-17 09:35:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥板塊短線走高，金石亞藥觸及20cm漲停】創新藥板塊短線走高，金石亞藥觸及20cm漲停，萬邦醫藥、新贛江、隴神戎發跟漲。"
-    },
-    {
-      "id": "5098734",
-      "time": "2026-09-17 09:35:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【福建本地股震盪下挫 閩東電力封跌停】早盤福建本地股震盪下挫，閩東電力封跌停，中煤能源逼近跌停，福建金森、福建水泥、漳州發展、海峽創新跌幅靠前。"
-    },
-    {
-      "id": "5098733",
-      "time": "2026-09-17 09:35:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【光學光電子板塊異動拉昇，實益達直線漲停】光學光電子板塊異動拉昇，實益達直線漲停，聯域股份、美迪凱、京東方Ａ、光莆股份、久量股份、華燦光電等跟漲。"
-    },
-    {
-      "id": "5098732",
-      "time": "2026-09-17 09:34:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【房地產板塊區域性活躍 世聯行2連板】房地產板塊區域性活躍，世聯行2連板，渝開發、我愛我家、特發服務跟漲。"
-    },
-    {
-      "id": "5098731",
-      "time": "2026-09-17 09:33:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【半導體板塊短線衝高，中晶科技3連板】半導體板塊短線衝高，中晶科技3連板，有研矽、恆坤新材、新潔能、金海通、聖邦股份跟漲。"
     }
   ]
 }
