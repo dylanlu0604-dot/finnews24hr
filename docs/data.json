@@ -1,7 +1,120 @@
 {
-  "updated": "2026-09-24 18:27:12",
-  "count": 12801,
+  "updated": "2026-09-24 18:31:05",
+  "count": 12812,
   "items": [
+    {
+      "id": "te:markets:586508",
+      "time": "2026-09-24 18:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 1.48% Lower — The SENSEX Index fell 1108 points or 1.48 percent on Thursday to close at 73720 points. Leading the losses are Bajaj Finance (-5.87%), Bajaj Finserv (-4.33%) and Indusind Bank (-4.20%)."
+    },
+    {
+      "id": "5111798",
+      "time": "2026-09-24 18:29:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩爾執行緒打通Protenix-v2全鏈路】近日，摩爾執行緒基於自主MUSA軟體棧，在訓推一體智算卡MTT S5000上，正式完成了開源生物分子結構預測模型Protenix-v2的全鏈路推理支援。實測顯示，S5000端到端推理效能較國際主流GPU平均提速約26%，且三維構象預測精度高度對齊。據瞭解，Protenix-v2由位元組跳動Seed團隊研發，於2026年4月正式釋出。它打破了海外頂尖模型權重不完全開放、無法私有化部署的限制，是目前全球少數能夠對蛋白質、DNA、RNA及小分子配體複合物進行高精度端到端預測的開源基座。（證券時報）"
+    },
+    {
+      "id": "mkt:01a0d2f6-9991-7118-8683-9e17141c4e13",
+      "time": "2026-09-24 18:29:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Moore Threads enables full‑stack Protenix‑v2 inference on MTT S5000】Moore Threads has completed full‑stack inference support for the open‑source biomolecular structure model Protenix‑v2 on its MTT S5000 inference card using the in‑house MUSA software stack. Benchmarks show the S5000 delivers roughly 26% average end‑to‑end inference speedup versus mainstream international GPUs, with 3D conformation prediction accuracy closely aligned. Protenix‑v2, developed by ByteDance’s Seed team and released in April 2026, is an open‑source foundation model capable of high‑accuracy end‑to‑end prediction for protein, DNA, RNA and small‑molecule ligand complexes and removes limits on non‑open overseas model weights and private deployment."
+    },
+    {
+      "id": "mkt:01a0d2f6-97e3-7118-8683-9441dcfb2b4b",
+      "time": "2026-09-24 18:29:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank Indonesia governor said he met with the finance minister to discuss liquidity, government bond issuance strategy and Bank Indonesia securities."
+    },
+    {
+      "id": "mkt:01a0d2f6-662d-7118-8683-88f684a523e1",
+      "time": "2026-09-24 18:29:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Fundraising nearly triple year-ago; Deloitte says mainland A-share IPO market accelerates】Deloitte China says Jan–Sep A-share market saw 122 IPOs raising 212.3 bln yuan, versus 78 IPOs raising 77.2 bln yuan in the same period last year — new listings +56%, funds raised +175%. About 70 IPOs raised 69.3 bln yuan in 1H, with the remaining 52 completed in Q3, signalling a step-up in issuance pace. Six mega listings from AI and robotics firms accounted for a large share of the fundraising surge. Deloitte attributes the momentum to ongoing market reforms, materially faster regulatory approvals and strategic support under the national 15th Five-Year Plan, and says these factors alongside large new listings should lift full-year 2026 A-share market performance above 2025."
+    },
+    {
+      "id": "5111797",
+      "time": "2026-09-24 18:28:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華住集團：中秋國慶長假預訂間夜量同比增長22%】中秋國慶假期臨近，住宿市場進入預訂熱潮。9月24日，華住集團釋出資料顯示，今年9月25日至10月7日期間，酒店整體預訂率較去年同期（9月26日—10月8日）提升約2個百分點，預訂間夜量同比增長22%，長假出行市場活力十足。"
+    },
+    {
+      "id": "5111796",
+      "time": "2026-09-24 18:28:50",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【融資規模是去年同期的近三倍，德勤：內地新股市場顯著加速】德勤中國今天釋出的最新報告預計，前三季度A股市場迎來122只新股，融資總額2123億元；去年同期為78只新股融資772億元，新股數量增長56%，融資規模增長175%。三條曲線同時在往上走。新股數量從78只到122只，融資額從772億元到2123億元，融資規模增幅是數量增幅的三倍多。上半年A股約有70只新股融資693億元，餘下的52只在第三季度完成，節奏明顯加快。撐起這輪增長的是6只來自AI和機器人企業的超大型新股。報告認為，勢頭主要受惠於持續推進的市場改革、顯著加快的監管審批流程，以及國家“十五五”規劃的戰略支援；這些因素配合多隻備受矚目的巨型新股登場，將推動A股市場2026年的全年表現超越2025年水平。"
+    },
+    {
+      "id": "5111795",
+      "time": "2026-09-24 18:28:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海天味業：9月24日回購A股20萬股、H股10萬股】海天味業公告稱，2026年9月24日，公司在上交所回購A股20萬股，回購價區間為33.91元-34.09元/股，成交總額679.76萬元，該部分股份擬持作庫存股，用於登出減資及/或員工持股計劃或股權激勵；在港交所回購H股10萬股，回購價區間為27.12港元-27.56港元/股，成交總額274.41萬港元，該部分股份擬登出。公司H股回購授權於2026年7月14日審議透過，授權回購上限為2912.24萬股，截至2026年9月24日累計回購H股727.16萬股，佔授權透過日已發行H股的2.50%，本次回購後新股發行及庫存股處置的暫止期截至2026年10月24日。"
+    },
+    {
+      "id": "5111794",
+      "time": "2026-09-24 18:28:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人壽：擬出資不超45億元參與設立股權投資合夥企業】中國人壽公告稱，公司擬與關聯方國壽成達、國壽無錫基金及其他投資者共同成立青島城鑫致達股權投資中心（有限合夥），合夥企業認繳出資總額不超過60億元，其中公司擬認繳出資不超過45億元。本次交易構成關聯交易，未構成重大資產重組，無需提交股東會審議。合夥企業經營期限6年，重點投資人工智慧和半導體領域優質未上市股權。預計公司將於2026年12月31日前訂立相關協議，本次投資存在市場競爭、投後管理及退出等風險。"
+    },
+    {
+      "id": "mkt:01a0d2f5-39b3-7118-8683-83ef600ff0da",
+      "time": "2026-09-24 18:28:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【PBOC warns, rebukes and fines Postal Savings Bank of China 17.433 million yuan】The People’s Bank of China (PBOC) issued administrative penalty decision No. [2026]88, warning, publicly rebuking and fining Postal Savings Bank of China Co., Ltd. 17.433 million yuan and confiscating illegal gains of 290.2 yuan. The penalty cites violations including breaches of financial-statistics and account-management rules, deficiencies in bank-card acquiring and data security, lapses in anti-counterfeit-currency controls, improperly withholding fiscal deposits or funds, failure to perform required customer identity checks (KYC), failure to file large-value or suspicious transaction reports, and transactions with unidentified customers."
+    },
+    {
+      "id": "5111793",
+      "time": "2026-09-24 18:27:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "保加利亞總統拉德夫：歐洲爆發更大範圍衝突的風險正在上升。"
+    },
+    {
+      "id": "5111792",
+      "time": "2026-09-24 18:27:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "保加利亞總理：烏克蘭正演變為一場消耗戰。"
+    },
     {
       "id": "5111791",
       "time": "2026-09-24 18:26:18",
@@ -116501,18 +116614,6 @@
         "Importance 2"
       ],
       "text": "China Youth Jobless Rate Surges to 1-Year High — China's urban youth unemployment rate for people aged 16–24, excluding students, rose for a second consecutive month to 18.9% in August 2026, the highest level in a year, from 17.9% in July, according to the National Bureau of Statistics. This increase mirrored the broader jobless rate, which went up to 5.3% from 5.2%. An estimated 12.7 million university students graduated this summer, marking a record influx of young workers into a labour market already strained by slowing economic growth and the rapid expansion of artificial intelligence. Meanwhile, the unemployment rate for 25–29-year-olds, excluding students, inched up to 7.5% from 7.2%, while the jobless rate for the 30–59 age group remained unchanged at 3.9%."
-    },
-    {
-      "id": "te:markets:584560",
-      "time": "2026-09-17 18:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 0.03% Lower — The SENSEX Index fell 22 points or 0.03 percent on Thursday to close at 74315 points. Leading the losses are Titan Company (-1.30%), HCL Tech (-0.77%) and HDFC Bank (-0.75%). Top gainers were Tata Motors (4.58%), Eternal Limited (2.73%) and Tata Steel (2.27%)."
     }
   ]
 }
