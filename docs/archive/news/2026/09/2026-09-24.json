@@ -1,7 +1,117 @@
 {
   "date": "2026-09-24",
-  "count": 2121,
+  "count": 2131,
   "items": [
+    {
+      "id": "5112387",
+      "time": "2026-09-24 23:37:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收跌】德國DAX30指數跌0.66%；英國富時100指數跌0.25%；法國CAC40指數跌0.52%；歐洲斯托克50指數跌0.44%；西班牙IBEX35指數跌0.31%；義大利富時MIB指數跌0.83%。"
+    },
+    {
+      "id": "mkt:01a0d410-2cab-7118-868b-e6b63b6c455a",
+      "time": "2026-09-24 23:37:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Citigroup has closed its emerging-market arbitrage basket amid severe volatility in the rates market."
+    },
+    {
+      "id": "mkt:01a0d40f-fcb1-7118-868b-df03e67fc8e6",
+      "time": "2026-09-24 23:36:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US Treasury yields continued to rise; the US 10-year Treasury yield briefly hit 5.1685%, its highest since July 2007, and was last at 5.166%, up 5.24 bps."
+    },
+    {
+      "id": "mkt:01a0d40f-dfb2-7118-868b-d62492a020e3",
+      "time": "2026-09-24 23:36:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "CAC40"
+      ],
+      "text": "European equities closed lower on Sep 24: Germany's DAX 30 fell 168.99 points (-0.66%) to 25,257.80; Britain's FTSE 100 dropped 26.36 points (-0.25%) to 10,678.90; France's CAC 40 slid 41.98 points (-0.52%) to 8,081.43; the Euro Stoxx 50 declined 27.42 points (-0.44%) to 6,272.40; Spain's IBEX 35 eased 61.84 points (-0.31%) to 19,570.36; Italy's FTSE MIB fell 433.99 points (-0.83%) to 51,553.50."
+    },
+    {
+      "id": "5112386",
+      "time": "2026-09-24 23:36:35",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率觸及盤中高點5.1685%，為2007年7月以來最高水平；10年期國債收益率最新上行5.24個基點，報5.166%。"
+    },
+    {
+      "id": "5112385",
+      "time": "2026-09-24 23:36:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗在利率市場高波動之際關閉新興市場套利組合。"
+    },
+    {
+      "id": "mkt:01a0d40f-3ed8-7118-868b-cf28e820146d",
+      "time": "2026-09-24 23:36:03",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Market sources: South Africa proposed to U.S. investors the establishment of a critical minerals platform."
+    },
+    {
+      "id": "5112384",
+      "time": "2026-09-24 23:35:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "南非向美國投資者提議建立關鍵礦產平臺。"
+    },
+    {
+      "id": "5112383",
+      "time": "2026-09-24 23:35:44",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "美元兌日元USD/JPY站上159，日內漲0.45%。"
+    },
+    {
+      "id": "5112382",
+      "time": "2026-09-24 23:34:43",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【阿波羅將軟銀淨資產貸款增至92億美元，以支援其人工智慧投資】據知情人士透露，阿波羅全球管理公司（Apollo Global Management Inc.）已將提供給軟銀集團的貸款規模擴大至92億美元。此舉為這家日本投資巨頭提供了更多資金，以支援其加大對ChatGPT開發商OpenAI的投資。該筆融資以“願景基金2號”（Vision Fund 2）的資產作為擔保。在此次增加額度之前，它就已經是全球規模最大的所謂“淨資產價值（NAV）貸款”。該貸款最初於2021年提供，去年規模已增至54億美元。知情人士稱，阿波羅牽頭了此次融資，並引入了包括摩根大通（JPMorgan Chase & Co.）、三井住友銀行（SMBC）、高盛集團（Goldman Sachs Group Inc.）和巴克萊銀行（Barclays Plc）在內的多家銀行協助完成交易。這些知情人士因討論機密資訊而要求匿名。"
+    },
     {
       "id": "mkt:01a0d40d-adfb-7118-868b-c41c2a8be02c",
       "time": "2026-09-24 23:34:21",
