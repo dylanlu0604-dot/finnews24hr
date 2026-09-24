@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-25 04:18:21",
-  "count": 12826,
+  "updated": "2026-09-25 04:22:14",
+  "count": 12827,
   "items": [
+    {
+      "id": "mkt:01a0d514-ba4b-7118-8690-dcc1246315ea",
+      "time": "2026-09-25 04:21:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "【Xi Jinping meets U.S. President Trump at White House】On the morning of Sept. 24 at the White House, President Xi Jinping said China and U.S. economic and trade teams held a new round of consultations and reached a new joint arrangement, which he described as positive for both countries' industries, consumers and the global economy. Xi said stabilising China-U.S. economic ties requires expanding the cooperation agenda and narrowing the list of outstanding issues; maintaining equality, mutual respect and reciprocity will enable solutions. He said he hopes both sides will move toward each other, adhere to a win‑win orientation, and help bilateral economic and trade relations continue to stabilise and improve."
+    },
+    {
+      "id": "5112723",
+      "time": "2026-09-25 04:19:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝稱再襲沙特首都】當地時間9月24日晚，葉門胡塞武裝發言人葉海亞·薩雷亞釋出影片宣告稱，胡塞武裝使用多枚彈道導彈、巡航導彈以及無人機，襲擊了沙特首都利雅得的一個“敏感目標”，以及紅海沿岸城市延布的沙特阿美石油公司設施。沙特方面稍早前稱攔截了胡塞武裝向南部塔伊夫和延布發射的6枚彈道導彈，不過未證實利雅得遭襲，也未證實塔伊夫和延布有人員傷亡或財產損失。 薩雷亞當天早些時候還曾釋出影片宣告稱，胡塞武裝使用數十枚彈道導彈和無人機，對沙特西南部吉贊地區多處軍事目標發動大規模襲擊。（CCTV國際時訊）"
+    },
     {
       "id": "te:markets:586659",
       "time": "2026-09-25 04:17:44",
@@ -116687,18 +116709,6 @@
         "MKT News"
       ],
       "text": "【NBC: Pentagon weighing withdrawal of about 25,000 U.S. troops from Europe】NBC, citing seven current and former U.S. and Western officials, reports the Pentagon is assessing a significant drawdown of U.S. forces in Europe that could withdraw roughly 25,000 troops—about one-third of the roughly 80,000 currently stationed there—and could extend to as many as 40,000. The Pentagon launched a six-month review in June; an assessment is expected to be submitted to the defense secretary soon. Options under consideration include cuts to air, naval and ground personnel or relocation of some units. Officials say the review aims to align deployments with the \"America First\" strategy. Some European governments and U.S. lawmakers warn a large-scale withdrawal could weaken NATO deterrence; supporters argue for rebalancing overseas forces and shifting greater defense burden to European allies. No decision has been made; any withdrawal would require presidential approval."
-    },
-    {
-      "id": "te:economy:584714",
-      "time": "2026-09-18 04:20:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Argentina Jobless Rate Edges Higher in Q2 — Argentina’s unemployment rate rose to 7.9% in the second quarter of 2026, up from 7.8% in the previous quarter. The employment rate edged up to 45.0% from 44.8%, while labor force participation increased to 48.9% from 48.6%. By region, unemployment was highest in the Pampas region at 9.7%, followed by Greater Buenos Aires at 8.2%. The jobless rate stood at 8.4% for women and 7.5% for men. Unemployment among women aged 14 to 29 reached 17.1%, while the rate for men in the same age group stood at 14.1%. By education level, the largest share of unemployment was among those with completed secondary education at 2.8% of the labor force. Regarding job-search duration, 2.4% of the labor force had been looking for work for more than a year. Meanwhile, unemployment in urban areas outside Greater Buenos Aires rose significantly, from 6.8% to 7.6%."
     }
   ]
 }
