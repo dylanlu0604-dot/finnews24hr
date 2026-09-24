@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-25 07:36:51",
-  "count": 12824,
+  "updated": "2026-09-25 07:40:40",
+  "count": 12803,
   "items": [
+    {
+      "id": "5112833",
+      "time": "2026-09-25 07:39:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【休市提醒】今日滬深及北交所、國內期貨交易所因中秋節休市。香港交易所因中秋節休市一日，南、北向交易關閉。 中國臺灣證券交易所因中秋節休市一日。韓國首爾證券交易所因中秋節休市一日。"
+    },
+    {
+      "id": "5112832",
+      "time": "2026-09-25 07:37:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股票私募倉位兩連升，滿倉佔比近七成】股票私募倉位連續第二週回升。私募排排網最新資料顯示，截至9月18日（因資訊披露合規等原因，私募淨值及倉位測算資料相對滯後），股票私募倉位指數（指有業績記錄的主觀多頭股票策略私募產品平均倉位水平）為82.73%，較前一週上漲1.43個百分點，實現連續第二週回升。從倉位分佈來看，股票私募整體維持高倉位執行。其中，67.62%的股票私募處於滿倉水平（大於80%），佔據絕對主導。百億私募倉位持續回升，截至9月18日，百億私募倉位指數為80.66%，較前一週上漲2.04個百分點，這已是百億私募連續第2周加倉。"
+    },
     {
       "id": "5112831",
       "time": "2026-09-25 07:36:15",
@@ -116449,226 +116466,6 @@
         "國際"
       ],
       "text": "【日本8月份全國消費者價格指數增速放緩 低於預期 日本央行利率加息預期保持不變】日本 8月份全國消費者價格指數（不含生鮮食品）核心CPI同比漲幅四個月來首次回落。儘管低於市場預期，但不太可能對日本央行加息預期產生影響。根據日本總務省18日釋出的公告，日本8月核心CPI同比上漲1.7%，較上月的1.8%有所放緩，市場預期為1.8%。這是CPI連續第七個月低於日本央行2%的目標值。"
-    },
-    {
-      "id": "mkt:01a0b1be-1983-7118-85eb-55efc3df354c",
-      "time": "2026-09-18 07:40:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said a key question is whether monetary policy tightening so far is sufficient to return inflation to target within a reasonable timeframe. Lowering inflation is critical."
-    },
-    {
-      "id": "mkt:01a0b1be-1029-7118-85eb-4ab9f06b4a20",
-      "time": "2026-09-18 07:40:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said inflation may remain elevated for some time."
-    },
-    {
-      "id": "mkt:01a0b1be-0b15-7118-85eb-42f42ff7ad31",
-      "time": "2026-09-18 07:40:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "RBA Governor Bullock said monetary policy is prepared to respond to developments and remains focused on achieving price stability and full employment."
-    },
-    {
-      "id": "5100762",
-      "time": "2026-09-18 07:40:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大黃金ETFSPDR Gold Trust持倉較前一日增加0.856噸】截至9月17日，全球最大黃金ETF——SPDR Gold Trust持倉較前一日增加0.856噸，當前持倉量為1052.844噸。"
-    },
-    {
-      "id": "5100761",
-      "time": "2026-09-18 07:40:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新股提示：力勤資源今日申購】今日可申購深市主機板力勤資源。力勤資源發行總數172890000股，發行市盈率12.98倍，申購程式碼為：001246，申購價格：21.23元，申購上限51500股。"
-    },
-    {
-      "id": "5100760",
-      "time": "2026-09-18 07:40:00",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "【日本8月核心CPI同比上漲1.7% 預估為上漲1.8%】日本總務省公佈的資料顯示，日本8月核心消費者價格指數(CPI)同比上漲1.7%，預估中值為上漲1.8%（27位經濟學家的預測介於上漲1.7%至2%）。  核心CPI剔除了波動較大的生鮮食品價格。整體CPI同比上漲1.9%，預估為上漲2%。不包括能源和生鮮食品價格的CPI同比上漲1.9%，預估為上漲2%。"
-    },
-    {
-      "id": "mkt:01a0b1bd-7b5e-7118-85eb-390c9dd28ae0",
-      "time": "2026-09-18 07:39:40",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said recent data are broadly in line with expectations that demand growth will ease in 1H 2026."
-    },
-    {
-      "id": "te:economy:584747",
-      "time": "2026-09-18 07:39:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Japan Inflation Rate Stays at 7-Month High — Japan's annual inflation rate held at 1.9% in August 2026, unchanged from the previous month and remaining at its highest level since December 2025. Core inflation, which excludes fresh food, eased to 1.7% from 1.8% in July, remaining below the Bank of Japan's 2% target for a seventh consecutive month."
-    },
-    {
-      "id": "5100759",
-      "time": "2026-09-18 07:39:29",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲主席布洛克：貨幣政策已做好充分準備應對形勢變化，我們將聚焦於實現物價穩定與充分就業的法定目標。"
-    },
-    {
-      "id": "mkt:01a0b1bd-28cb-7118-85eb-34b691bd36c7",
-      "time": "2026-09-18 07:39:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "AUDUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said housing market conditions have softened and that policy easing beyond expectations could pose a downside risk to economic activity."
-    },
-    {
-      "id": "5100758",
-      "time": "2026-09-18 07:39:04",
-      "tags": [
-        "市場",
-        "央行"
-      ],
-      "text": "澳洲聯儲主席布洛克：油價上漲將直接加劇通脹。"
-    },
-    {
-      "id": "mkt:01a0b1bc-e57e-7118-85eb-2e32bb609e8f",
-      "time": "2026-09-18 07:39:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said liaison contacts indicate many firms are passing higher input costs through."
-    },
-    {
-      "id": "mkt:01a0b1bc-d995-7118-85eb-231d93e15141",
-      "time": "2026-09-18 07:38:58",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said developments since then suggest that, despite a slowdown in Australia's economic growth, some upside risks to inflation appear to be emerging."
-    },
-    {
-      "id": "5100757",
-      "time": "2026-09-18 07:38:46",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲主席布洛克：降低通脹至關重要。"
-    },
-    {
-      "id": "mkt:01a0b1bc-8331-7118-85eb-1d45406f2642",
-      "time": "2026-09-18 07:38:36",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "Reserve Bank of Australia Governor BULLOCK said at the August meeting we assessed that risks to the employment outlook were tilted to the upside."
-    },
-    {
-      "id": "mkt:01a0b1bc-33ed-7118-85eb-1056e65b786d",
-      "time": "2026-09-18 07:38:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said indicators continue to show the labour market is close to, but slightly tighter than, a level consistent with full employment."
-    },
-    {
-      "id": "5100756",
-      "time": "2026-09-18 07:38:14",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲主席布洛克：通脹上行風險似乎正在成為現實。"
-    },
-    {
-      "id": "mkt:01a0b1bb-df64-7118-85eb-0eb7de71444d",
-      "time": "2026-09-18 07:37:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan nationwide non-seasonally adjusted CPI MoM +0.1% in Aug; prior +0.4%."
-    },
-    {
-      "id": "em:qqyh_ozlc:202609183877779252",
-      "time": "2026-09-18 07:37:54",
-      "tags": [
-        "央行",
-        "澳洲聯儲"
-      ],
-      "text": "澳大利亞央行稱，通脹可能在一段時間內保持高位。"
-    },
-    {
-      "id": "mkt:01a0b1bb-badd-7118-85eb-038a34a16515",
-      "time": "2026-09-18 07:37:45",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | CPI (MoM) (Aug) | actual 0.1% | previous 0.4%"
-    },
-    {
-      "id": "5100755",
-      "time": "2026-09-18 07:37:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行行長布洛克：多項指標持續顯示，勞動力市場狀況仍接近充分就業，但略偏緊。"
-    },
-    {
-      "id": "te:economy:584745",
-      "time": "2026-09-18 07:37:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Core Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Japan Core Inflation Falls Below Forecasts — Japan’s core consumer price index, which excludes fresh food but includes energy, increased 1.7% year-on-year in August 2026, after a 1.8% rise in July. The latest reading slowed from the highest rate in six months, touched a month earlier, and was below the market forecast of 1.8%. Still, the latest reading remained below the Bank of Japan’s 2% target for an eighth straight month, as government fuel subsidies helped offset price pressures from higher oil costs linked to the Middle East conflict."
-    },
-    {
-      "id": "5100754",
-      "time": "2026-09-18 07:36:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞儲備銀行行長布洛克：通脹可能在一段時間內保持高位。"
     }
   ]
 }
