@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-25 07:44:25",
-  "count": 12794,
+  "updated": "2026-09-25 07:48:10",
+  "count": 12791,
   "items": [
+    {
+      "id": "5112835",
+      "time": "2026-09-25 07:47:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛資產管理低配大型雲服務商 預計發債潮將持續】高盛資產管理認為，隨著大量新債湧入市場，該公司目前低配人工智慧(AI)領域借債規模最大的企業，預計超大規模雲服務商還將大舉發債。高盛資產管理多行業固定收益投資主管Lindsay Rosner週四接受媒體電視採訪時表示：“我們認為超大規模雲服務商會發行大量債券。我們整體低配這個板塊，因為知道還會有更多債券供給。”Rosner表示：“這種情況貫穿了今年全年，新發行債券正在取代現有債券。”Rosner表示，低配主要是因為預計債券供給將保持高位，而不是因為對AI前景悲觀。她說，其團隊仍然看好“AI敘事”，但也意識到更多發債可能促使市場重新定價。"
+    },
+    {
+      "id": "te:markets:586678",
+      "time": "2026-09-25 07:46:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower as Bond Yields Weigh — US stock futures edged lower on Friday as surging Treasury yields continued to weigh on equities, with the Dow on track for its fourth consecutive weekly decline. Futures tied to the Dow, S&P 500 and Nasdaq 100 were each down around 0.1%. In regular trading on Thursday, the Dow slipped 0.31%, while the S&P 500 and Nasdaq Composite finished little changed. The moves came as the 10-year US Treasury yield jumped to 5.2%, its highest level since 2007, while the 30-year yield climbed to 5.5%, its highest since 2004. Oil-market volatility also pressured sentiment as investors weighed reports that the US and Iran were discussing a phased deal that could reopen the Strait of Hormuz and lift a US blockade on Iranian ports. Investors now await the University of Michigan consumer sentiment report and durable goods data due Friday, with no major earnings releases scheduled."
+    },
     {
       "id": "5112834",
       "time": "2026-09-25 07:43:52",
@@ -116336,53 +116357,6 @@
         "國際"
       ],
       "text": "高盛：儘管美聯儲昨日加息，我們仍維持2027年末金價每盎司5400美元的預測。"
-    },
-    {
-      "id": "5100775",
-      "time": "2026-09-18 07:47:20",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本通脹率四個月來首次回落 日本央行即將公佈利率決策】日本通脹率四個月來首次回落，主要反映政府補貼的影響。在消費者價格(CPI)資料公佈數小時後，日本央行將公佈利率決策。日本政府週五公佈，8月不含生鮮食品的CPI同比上漲1.7%，低於7月的1.8%。經濟學家此前預計漲幅持平。作為日本央行密切關注的通脹指標，剔除生鮮食品和能源的CPI同比上漲1.9%。整體CPI亦上漲1.9%。接受媒體調查的經濟學家一致預計，日本央行週五將加息25個基點至1.25%。這將是該央行三個月內第二次加息，緊縮步伐勢創1990年以來最快。"
-    },
-    {
-      "id": "5100773",
-      "time": "2026-09-18 07:46:10",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：歐洲天然氣價格持續走高 LNG售價或維持高位】中信建投證券研報稱，歐洲天然氣價格持續上漲，2026年9月10日，荷蘭天然氣期貨結算價升至82歐元/兆瓦時，同比增長147.7%，環比增長14.3%。歐洲天然氣價格持續走高主要受美伊衝突持續，霍爾木茲海峽輸運受阻等因素的影響。在庫存方面，歐洲近期天然氣庫存水平約為65.83%，同比下降約12.7個百分點，系近年來最低水平。伴隨冬季採暖季的到來，歐盟較為剛性的補庫需求或推動歐亞LNG價格進一步上行。"
-    },
-    {
-      "id": "5100772",
-      "time": "2026-09-18 07:45:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤上漲0.1點。"
-    },
-    {
-      "id": "5100771",
-      "time": "2026-09-18 07:45:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數期貨早盤上漲1.0%。"
-    },
-    {
-      "id": "5100770",
-      "time": "2026-09-18 07:45:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨在新加坡交易所開盤上漲555點，報64745點。"
     }
   ]
 }

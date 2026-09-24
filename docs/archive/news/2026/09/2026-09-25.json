@@ -1,7 +1,28 @@
 {
   "date": "2026-09-25",
-  "count": 521,
+  "count": 523,
   "items": [
+    {
+      "id": "5112835",
+      "time": "2026-09-25 07:47:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛資產管理低配大型雲服務商 預計發債潮將持續】高盛資產管理認為，隨著大量新債湧入市場，該公司目前低配人工智慧(AI)領域借債規模最大的企業，預計超大規模雲服務商還將大舉發債。高盛資產管理多行業固定收益投資主管Lindsay Rosner週四接受媒體電視採訪時表示：“我們認為超大規模雲服務商會發行大量債券。我們整體低配這個板塊，因為知道還會有更多債券供給。”Rosner表示：“這種情況貫穿了今年全年，新發行債券正在取代現有債券。”Rosner表示，低配主要是因為預計債券供給將保持高位，而不是因為對AI前景悲觀。她說，其團隊仍然看好“AI敘事”，但也意識到更多發債可能促使市場重新定價。"
+    },
+    {
+      "id": "te:markets:586678",
+      "time": "2026-09-25 07:46:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower as Bond Yields Weigh — US stock futures edged lower on Friday as surging Treasury yields continued to weigh on equities, with the Dow on track for its fourth consecutive weekly decline. Futures tied to the Dow, S&P 500 and Nasdaq 100 were each down around 0.1%. In regular trading on Thursday, the Dow slipped 0.31%, while the S&P 500 and Nasdaq Composite finished little changed. The moves came as the 10-year US Treasury yield jumped to 5.2%, its highest level since 2007, while the 30-year yield climbed to 5.5%, its highest since 2004. Oil-market volatility also pressured sentiment as investors weighed reports that the US and Iran were discussing a phased deal that could reopen the Strait of Hormuz and lift a US blockade on Iranian ports. Investors now await the University of Michigan consumer sentiment report and durable goods data due Friday, with no major earnings releases scheduled."
+    },
     {
       "id": "5112834",
       "time": "2026-09-25 07:43:52",
