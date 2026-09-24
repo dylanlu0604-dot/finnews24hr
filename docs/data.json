@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-25 00:23:45",
-  "count": 12787,
+  "updated": "2026-09-25 00:27:36",
+  "count": 12782,
   "items": [
+    {
+      "id": "5112452",
+      "time": "2026-09-25 00:23:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門賽爾特電子股份有限公司啟動上市輔導】據證監會官網顯示，廈門賽爾特電子股份有限公司於2026年9月24日正式啟動上市輔導，興業證券擔任輔導機構。"
+    },
     {
       "id": "mkt:01a0d43a-2308-7118-868c-79b8edd500c3",
       "time": "2026-09-25 00:22:54",
@@ -116368,65 +116376,6 @@
         "國際"
       ],
       "text": "訊息人士稱，俄羅斯雅羅斯拉夫爾地區一座煉油廠在遭無人機襲擊後停止原油加工。"
-    },
-    {
-      "id": "5100410",
-      "time": "2026-09-18 00:26:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱已襲擊烏克蘭喬爾諾莫爾斯克港的船隻。"
-    },
-    {
-      "id": "5100409",
-      "time": "2026-09-18 00:25:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國總理： 目標是將法國2027年赤字控制在國內生產總值的 5%。"
-    },
-    {
-      "id": "5100405",
-      "time": "2026-09-18 00:24:48",
-      "tags": [
-        "央行",
-        "公司",
-        "市場"
-      ],
-      "text": "【三菱日聯：英國央行量化緊縮改革設定高標準，QT轉為“後臺自動化操作”】三菱日聯金融集團策略師李·哈德曼表示，英國央行對其量化緊縮（QT）框架的改革標誌著從年度審查轉向預先公佈的多年期退出計劃，併為未來調整退出路徑設定了“非常高的門檻”。哈德曼指出，只有在銀行利率不足以實現通脹目標或英國國債市場面臨嚴重壓力時，才會重新考慮退出機制。他認為，此次改革使量化緊縮成為一個漸進、可預測且基本自動化的過程，實質上已將其視為一項“後臺資產負債表操作”，而非積極的政策工具。相比以往側重於縮錶速度的年度決策，新框架體現了更強的承諾，並更關注資產負債表的最終目標狀態。"
-    },
-    {
-      "id": "te:markets:584695",
-      "time": "2026-09-18 00:24:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Finishes on Higher Note — Frankfurt’s DAX 40 closed about 0.7% firmer at 25,717 on Thursday, it highest in more than a week, marking the second straight session of gains. The continued decline in oil prices and the easing in global bond yields lifted market sentiment. The Federal Reserve’s rate hike and hawkish stance a day earlier also reassured investors of its commitment to containing inflation while defending its policy credibility. Meanwhile, President Trump threatened the EU with “very serious tariffs” or trade restrictions over Ursula von der Leyen’s proposal to allow Canada to become the bloc’s first “associate member.” Most sectors recorded gains, particularly autos, industrials, banks and utilities. Qiagen NV led the way, surging 3.8%, amid rumors of renewed private equity interest for aquisition. Siemens Energy added 3.5%. Automotive stocks also saw strong buying, with shares of Volkswagen, BMW and Mercedes-Benz rising 2.7%, 1.9% and 1.3%."
-    },
-    {
-      "id": "mkt:01a0b02e-c849-7118-85e6-d3d3c8250e04",
-      "time": "2026-09-18 00:24:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) launched Expert Intelligence to integrate professional content into GEMINI Notebook."
-    },
-    {
-      "id": "5100404",
-      "time": "2026-09-18 00:23:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國加州州長紐森：印第安納州汽油價格一夜暴漲 17 美分，真是好一齣好戲啊特朗普！"
     }
   ]
 }
