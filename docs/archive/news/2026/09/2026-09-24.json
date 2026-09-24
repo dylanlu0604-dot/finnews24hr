@@ -1,7 +1,133 @@
 {
   "date": "2026-09-24",
-  "count": 540,
+  "count": 553,
   "items": [
+    {
+      "id": "mkt:01a0d0ed-7048-7118-8673-b0d3e8588444",
+      "time": "2026-09-24 09:00:16",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures opened down 0.39%."
+    },
+    {
+      "id": "mkt:01a0d0ed-6763-7118-8673-a86af0a36961",
+      "time": "2026-09-24 09:00:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the open, China's main commodity futures contracts were mixed. Shanghai crude (SC) rose over 4%; synthetic rubber, fuel oil and low-sulfur fuel oil (LU) gained more than 3%; styrene (EB) climbed nearly 3%; benzene, 20# rubber and bottle-grade PET chip were up over 2%. On the downside, platinum fell nearly 3%; Shanghai silver and palladium dropped over 2%; lithium carbonate, polysilicon, stainless steel (SS), coking coal and eggs were down more than 1%."
+    },
+    {
+      "id": "5110754",
+      "time": "2026-09-24 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.2%報48,075.39。"
+    },
+    {
+      "id": "5110753",
+      "time": "2026-09-24 09:00:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報723.20元。"
+    },
+    {
+      "id": "5110752",
+      "time": "2026-09-24 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲2%，現報9580.00元。"
+    },
+    {
+      "id": "5110751",
+      "time": "2026-09-24 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報4243.00元。"
+    },
+    {
+      "id": "5110750",
+      "time": "2026-09-24 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續漲4.04%，丁二烯橡膠連續漲3.47%，燃料油連續漲3.11%，低硫燃料油連續漲3.04%，苯乙烯連續漲2.77%。"
+    },
+    {
+      "id": "mkt:01a0d0ed-3ce6-7118-8673-a3d18cba821b",
+      "time": "2026-09-24 09:00:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Australian defense minister said OpenAI is currently cooperating with an Australian government investigation."
+    },
+    {
+      "id": "5110749",
+      "time": "2026-09-24 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.43%。"
+    },
+    {
+      "id": "te:markets:586280",
+      "time": "2026-09-24 08:59:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Falls to 5-Week Low — Platinum futures held below $1,760 an ounce after dropping more than 4% in the previous session to a five-week low, as higher Treasury yields and dollar strength reduced demand for the non-yielding metal. The selloff followed stronger-than-expected US business activity data, reinforcing expectations for higher interest rates. The 10-year US Treasury yield climbed to its highest level since 2007, while the dollar strengthened as markets raised bets on another Federal Reserve rate hike at the October meeting. Rising oil prices also added to inflation concerns, after Iran's President said Tehran would keep the Strait of Hormuz closed while US sanctions and the blockade remain. Still, platinum's fundamentals remain supportive, with above-ground stocks forecast to cover just 3.4 months of demand by year-end despite a projected 265,000-ounce surplus in 2026. Industrial demand is expected to rise 5%, driven partly by AI-related glass and electrical applications."
+    },
+    {
+      "id": "5110748",
+      "time": "2026-09-24 08:57:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元匯率走強，一度漲至157.91。"
+    },
+    {
+      "id": "mkt:01a0d0ea-a255-7118-8673-9e68cef34683",
+      "time": "2026-09-24 08:57:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "【Meta's Muse upgrade set to add real-time video chat and voice customization】Meta's Chief AI Officer Alexandr Wang posted that Muse will soon support video chats with real-time voice interaction and let users customize the assistant's voice style. He added that iPhone screen recording does not capture audio, so users will need to use their Muse device to experience actual voice output."
+    },
+    {
+      "id": "mkt:01a0d0ea-3970-7118-8673-945005ae4c3e",
+      "time": "2026-09-24 08:56:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Australia's defense minister said leaks from OpenAI have had limited impact."
+    },
     {
       "id": "mkt:01a0d0e8-6749-7118-8673-8d74042e70e3",
       "time": "2026-09-24 08:54:46",
