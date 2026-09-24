@@ -1,7 +1,106 @@
 {
   "date": "2026-09-25",
-  "count": 469,
+  "count": 479,
   "items": [
+    {
+      "id": "mkt:01a0d5a6-ae63-7118-8692-3e36f434c65d",
+      "time": "2026-09-25 07:01:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK September GfK consumer confidence index -13, vs. -16 expected and -14 prior."
+    },
+    {
+      "id": "mkt:01a0d5a6-9a05-7118-8692-3434426448a1",
+      "time": "2026-09-25 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GfK Consumer Confidence Index (Sep) | actual -13 | consensus -16 | previous -14"
+    },
+    {
+      "id": "5112801",
+      "time": "2026-09-25 07:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前8月672家首店落地京城】672家首店紛紛落戶，738場首發、首秀、首展、首演活動輪番上演——這是今年1至8月北京首店經濟的亮眼成績單。今年以來，北京持續吸引國內外知名品牌來京開設首店，來自20多個國家和地區的國際品牌首店紛紛入駐京城，為消費市場注入強勁動能。北京市商務局相關負責人介紹，北京將持續用好消費新業態新模式新場景試點建設資金，支援商場、商街、文博場館、體育場館、文創園區、公園景區等，推出集品牌展示、首發首秀、體驗消費於一體的首發空間；支援商場、商街、商圈集聚國內外品牌首店、旗艦店、創新概念店，形成品牌雲集、業態多元、彰顯時尚魅力的首店集聚商業載體。（北京日報）"
+    },
+    {
+      "id": "mkt:01a0d5a5-9d9d-7118-8692-2d6c7d899ddb",
+      "time": "2026-09-25 06:59:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia says it holds multiple settlements; Ukraine reports downing hundreds of drones and missiles】Russian Defence Ministry’s 24-hour report on the 24th said Russian forces control multiple settlements in Donetsk, Kharkiv and Zaporizhia regions. The ministry said Russian air defenses shot down more than 200 fixed‑wing UAVs, the Black Sea Fleet destroyed one unmanned surface vessel, and it assessed Ukrainian losses of over 1,200 personnel across combat directions. Ukraine said that as of 08:00 local time on the 24th it had shot down or suppressed four Zircon hypersonic missiles, three Iskander‑M missiles and about 220 drones. Kyiv added that overnight from the evening of the 23rd to early 24th Russian forces launched multiple missiles and in excess of 200 drones, with major attacks focused on Odesa and Kyiv regions."
+    },
+    {
+      "id": "mkt:01a0d5a4-f7b1-7118-8692-21ebda145fdc",
+      "time": "2026-09-25 06:59:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian President PEZESHKIAN said Trump repeatedly says \"I want to give the Iranian people a gift,\" but what they give us are guided missiles, heavy weapons and destruction."
+    },
+    {
+      "id": "5112800",
+      "time": "2026-09-25 06:58:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱控制多個定居點，烏稱擊落多架無人機】根據俄羅斯國防部24日釋出的24小時戰報顯示，俄軍控制了位於頓涅茨克、哈爾科夫以及扎波羅熱的多個定居點。此外，俄防空系統擊落200多架固定翼無人機，俄黑海艦隊摧毀1艘無人艇。俄國防部稱，烏軍在各作戰方向損失超1200人。烏克蘭方面24日稱，截至當地時間24日8時，烏方已擊落和壓制4枚“鋯石”高超音速導彈、3枚“伊斯坎德爾-M”導彈及220架無人機。此外，烏方稱，23日晚至24日凌晨，俄軍向烏境內發射多枚導彈和超200架無人機，襲擊主要方向是敖德薩州和基輔州。（央視）"
+    },
+    {
+      "id": "mkt:01a0d5a4-8d00-7118-8692-1fe14bd70fa8",
+      "time": "2026-09-25 06:58:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar said Israeli Prime Minister Netanyahu's repeated attacks can only be interpreted as an attempt to deflect attention from his political responsibility for local policy."
+    },
+    {
+      "id": "5112799",
+      "time": "2026-09-25 06:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達：內塔尼亞胡的多次攻擊只能被理解為試圖轉移視線，逃避其對當地政策所應承擔的政治責任。"
+    },
+    {
+      "id": "te:markets:586668",
+      "time": "2026-09-25 06:58:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Falls but Heads for 2nd Weekly Gain — The NZX 50 dropped 35 points, or 0.3%, to 13,789 in Friday morning trade, after being flat in the previous session, mainly weighed down by financials, utilities, and healthcare. Traders were cautious as high oil prices persisted amid ongoing Gulf shipping disruptions. Recently, RBNZ Governor Anna Breman warned that inflation could be higher if high oil prices persist. In the US, Wall Street was almost flat due to a surge in Treasury yields and increased expectations for a Fed interest rate hike. Traders also anticipated the release of China’s PMI data, New Zealand’s top trading partner, as well as the US PCE Index and jobs data due next week, which could provide clues about the Fed’s monetary policy decision at its upcoming meeting. Among the early losers were Meridian Energy (-1.5%), Westpac Banking Corp. (-1.2%), Ryman Healthcare (-0.8%), FC Investment (-0.7%), and Infratil (-0.5%). For the week, the index rose 0.4%, which would mark its second straight weekly gain."
+    },
+    {
+      "id": "mkt:01a0d5a3-a42a-7118-8692-149c20de53fd",
+      "time": "2026-09-25 06:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar firmly rejected Israel’s prime minister NETANYAHU’s accusation that Doha is attempting to influence public opinion against Israel."
+    },
     {
       "id": "mkt:01a0d5a3-34d0-7118-8692-09e769fd4abd",
       "time": "2026-09-25 06:57:17",

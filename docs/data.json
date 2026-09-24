@@ -1,7 +1,106 @@
 {
-  "updated": "2026-09-25 06:57:53",
-  "count": 12818,
+  "updated": "2026-09-25 07:04:55",
+  "count": 12822,
   "items": [
+    {
+      "id": "mkt:01a0d5a6-ae63-7118-8692-3e36f434c65d",
+      "time": "2026-09-25 07:01:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK September GfK consumer confidence index -13, vs. -16 expected and -14 prior."
+    },
+    {
+      "id": "mkt:01a0d5a6-9a05-7118-8692-3434426448a1",
+      "time": "2026-09-25 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GfK Consumer Confidence Index (Sep) | actual -13 | consensus -16 | previous -14"
+    },
+    {
+      "id": "5112801",
+      "time": "2026-09-25 07:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前8月672家首店落地京城】672家首店紛紛落戶，738場首發、首秀、首展、首演活動輪番上演——這是今年1至8月北京首店經濟的亮眼成績單。今年以來，北京持續吸引國內外知名品牌來京開設首店，來自20多個國家和地區的國際品牌首店紛紛入駐京城，為消費市場注入強勁動能。北京市商務局相關負責人介紹，北京將持續用好消費新業態新模式新場景試點建設資金，支援商場、商街、文博場館、體育場館、文創園區、公園景區等，推出集品牌展示、首發首秀、體驗消費於一體的首發空間；支援商場、商街、商圈集聚國內外品牌首店、旗艦店、創新概念店，形成品牌雲集、業態多元、彰顯時尚魅力的首店集聚商業載體。（北京日報）"
+    },
+    {
+      "id": "mkt:01a0d5a5-9d9d-7118-8692-2d6c7d899ddb",
+      "time": "2026-09-25 06:59:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia says it holds multiple settlements; Ukraine reports downing hundreds of drones and missiles】Russian Defence Ministry’s 24-hour report on the 24th said Russian forces control multiple settlements in Donetsk, Kharkiv and Zaporizhia regions. The ministry said Russian air defenses shot down more than 200 fixed‑wing UAVs, the Black Sea Fleet destroyed one unmanned surface vessel, and it assessed Ukrainian losses of over 1,200 personnel across combat directions. Ukraine said that as of 08:00 local time on the 24th it had shot down or suppressed four Zircon hypersonic missiles, three Iskander‑M missiles and about 220 drones. Kyiv added that overnight from the evening of the 23rd to early 24th Russian forces launched multiple missiles and in excess of 200 drones, with major attacks focused on Odesa and Kyiv regions."
+    },
+    {
+      "id": "mkt:01a0d5a4-f7b1-7118-8692-21ebda145fdc",
+      "time": "2026-09-25 06:59:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian President PEZESHKIAN said Trump repeatedly says \"I want to give the Iranian people a gift,\" but what they give us are guided missiles, heavy weapons and destruction."
+    },
+    {
+      "id": "5112800",
+      "time": "2026-09-25 06:58:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱控制多個定居點，烏稱擊落多架無人機】根據俄羅斯國防部24日釋出的24小時戰報顯示，俄軍控制了位於頓涅茨克、哈爾科夫以及扎波羅熱的多個定居點。此外，俄防空系統擊落200多架固定翼無人機，俄黑海艦隊摧毀1艘無人艇。俄國防部稱，烏軍在各作戰方向損失超1200人。烏克蘭方面24日稱，截至當地時間24日8時，烏方已擊落和壓制4枚“鋯石”高超音速導彈、3枚“伊斯坎德爾-M”導彈及220架無人機。此外，烏方稱，23日晚至24日凌晨，俄軍向烏境內發射多枚導彈和超200架無人機，襲擊主要方向是敖德薩州和基輔州。（央視）"
+    },
+    {
+      "id": "mkt:01a0d5a4-8d00-7118-8692-1fe14bd70fa8",
+      "time": "2026-09-25 06:58:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar said Israeli Prime Minister Netanyahu's repeated attacks can only be interpreted as an attempt to deflect attention from his political responsibility for local policy."
+    },
+    {
+      "id": "5112799",
+      "time": "2026-09-25 06:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達：內塔尼亞胡的多次攻擊只能被理解為試圖轉移視線，逃避其對當地政策所應承擔的政治責任。"
+    },
+    {
+      "id": "te:markets:586668",
+      "time": "2026-09-25 06:58:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Falls but Heads for 2nd Weekly Gain — The NZX 50 dropped 35 points, or 0.3%, to 13,789 in Friday morning trade, after being flat in the previous session, mainly weighed down by financials, utilities, and healthcare. Traders were cautious as high oil prices persisted amid ongoing Gulf shipping disruptions. Recently, RBNZ Governor Anna Breman warned that inflation could be higher if high oil prices persist. In the US, Wall Street was almost flat due to a surge in Treasury yields and increased expectations for a Fed interest rate hike. Traders also anticipated the release of China’s PMI data, New Zealand’s top trading partner, as well as the US PCE Index and jobs data due next week, which could provide clues about the Fed’s monetary policy decision at its upcoming meeting. Among the early losers were Meridian Energy (-1.5%), Westpac Banking Corp. (-1.2%), Ryman Healthcare (-0.8%), FC Investment (-0.7%), and Infratil (-0.5%). For the week, the index rose 0.4%, which would mark its second straight weekly gain."
+    },
+    {
+      "id": "mkt:01a0d5a3-a42a-7118-8692-149c20de53fd",
+      "time": "2026-09-25 06:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar firmly rejected Israel’s prime minister NETANYAHU’s accusation that Doha is attempting to influence public opinion against Israel."
+    },
     {
       "id": "mkt:01a0d5a3-34d0-7118-8692-09e769fd4abd",
       "time": "2026-09-25 06:57:17",
@@ -116552,65 +116651,6 @@
         "國際"
       ],
       "text": "世界銀行：集團執行董事會討論了泰國2027財年至2032財年新版國傢伙伴關係框架（CPF）。"
-    },
-    {
-      "id": "te:economy:584731",
-      "time": "2026-09-18 07:03:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Food Inflation",
-        "Importance 1"
-      ],
-      "text": "New Zealand Food Inflation Stays at 19-Month Low — Annual food inflation in New Zealand stood at 1.9% in August 2026, unchanged from the previous month, which was the softest increase since December 2024. Prices for meat, poultry, and fish increased by 3.4% (vs 3.2% in July), after marking the slowest rate since at least June 2025 in July, and remained the largest contributor to the annual increase in food prices. Grocery food prices also accelerated (1.7% vs 1.6% in July), while fruit and vegetable prices fell at a faster rate, declining 1.6%, following a 1.0% drop in July."
-    },
-    {
-      "id": "5100726",
-      "time": "2026-09-18 07:02:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：激進對沖基金 Jana Partners 要求隱形眼鏡製造商庫博光學更換執行長，並評估出售其核心業務。"
-    },
-    {
-      "id": "5100725",
-      "time": "2026-09-18 07:01:31",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【韓國將燃油稅減免政策延長至 11 月底】韓國財政部週五表示，將把燃油稅減免措施再度延長兩個月，執行至 11 月底。 財政部稱，為緩解中東局勢引發油價波動帶來的燃油成本壓力，將繼續維持汽油 15%、柴油與丁烷 25% 的燃油稅減免幅度。"
-    },
-    {
-      "id": "mkt:01a0b199-b222-7118-85ea-bcb7060ec85f",
-      "time": "2026-09-18 07:00:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance ministry said it will extend the fuel tax relief for two months, through the end of November."
-    },
-    {
-      "id": "te:economy:584729",
-      "time": "2026-09-18 07:00:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Imports",
-        "Importance 1"
-      ],
-      "text": "New Zealand Imports Climbs 13% in August — Imports to New Zealand rose 13.1% year-on-year to NZD 8.0 billion in August 2026, following a 28.4% jump in the previous month. The increase in imports was mainly driven by higher purchases of petroleum and petroleum products (up 43%), vehicles, parts, and accessories (up 30%), electrical machinery and equipment (up 25%), and mechanical machinery and equipment (up 15%)."
-    },
-    {
-      "id": "5100724",
-      "time": "2026-09-18 06:59:25",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【富國銀行建議拋售日元 指日本央行或令鷹派失望】富國銀行建議在日本央行做出決定前賣出日元兌美元，因為它不太可能達到甚至超過鷹派的市場預期。“我們仍然懷疑日本央行能比市場已經隱含的激進緊縮路徑更鷹派，” 亞太宏觀策略主管Chidu Narayanan在一份報告中寫道。市場預期已隱含在2027年7月之前，每隔一次會議都將加息25個基點。“日本央行要滿足這些預期的門檻很高，要超越更難”。建議買入美元/日元，目標位159，止損位在153.40。"
     }
   ]
 }
