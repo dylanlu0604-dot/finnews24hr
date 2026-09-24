@@ -1,7 +1,116 @@
 {
   "date": "2026-09-24",
-  "count": 1104,
+  "count": 1115,
   "items": [
+    {
+      "id": "mkt:01a0d215-6cd1-7118-8679-57eef0af2464",
+      "time": "2026-09-24 14:23:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Information reported DeepSeek raised $7.5 billion in financing, valuing the company at $75 billion."
+    },
+    {
+      "id": "5111148",
+      "time": "2026-09-24 14:23:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲4%，現報6655.00元。"
+    },
+    {
+      "id": "5111147",
+      "time": "2026-09-24 14:22:37",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：DeepSeek完成75億美元融資，年化營收突破10億美元。"
+    },
+    {
+      "id": "5111146",
+      "time": "2026-09-24 14:22:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【海峽兩岸板塊異動拉昇，海峽創新漲超10%】海峽兩岸板塊異動拉昇，海峽創新漲超10%，福建水泥、合富中國、平潭發展、漳州發展紛紛走高。"
+    },
+    {
+      "id": "mkt:01a0d214-1b10-7118-8679-4995e494088d",
+      "time": "2026-09-24 14:22:08",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian Defense Ministry said Russian forces struck two logistics centers in Odesa storing military and dual-use supplies shipped from Europe to Ukraine."
+    },
+    {
+      "id": "mkt:01a0d213-cd19-7118-8679-4533f68f24c6",
+      "time": "2026-09-24 14:21:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russia's foreign ministry said it will take appropriate response measures if the United States or other parties to the Comprehensive Nuclear-Test-Ban Treaty (CTBT) carry out nuclear tests."
+    },
+    {
+      "id": "5111145",
+      "time": "2026-09-24 14:21:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲5%，現報4322.00元。"
+    },
+    {
+      "id": "mkt:01a0d213-5ff1-7118-8679-3cce97be3f5c",
+      "time": "2026-09-24 14:21:20",
+      "tags": [
+        "MKT News",
+        "XJO.AX",
+        "Impact bearish"
+      ],
+      "text": "Australia's S&P/ASX 200 closed down 66.00 points, or 0.75%, at 8,699.30 on Thursday, Sept. 24."
+    },
+    {
+      "id": "5111144",
+      "time": "2026-09-24 14:21:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報5634.00元。"
+    },
+    {
+      "id": "5111143",
+      "time": "2026-09-24 14:21:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國股指期貨下跌，美債收益率因市場押注美聯儲加息走高】美國經濟資料強勁，推升美聯儲加息預期，全球債券收益率上行，美國股指期貨隨之走低。標普500期貨最大跌幅0.4%，納斯達克100期貨最大跌幅0.7%；歐洲股指期貨同樣下跌。債券拋售加劇，全球國債平均收益率逼近4%，該水平自2007年以來未曾出現。"
+    },
+    {
+      "id": "mkt:01a0d212-f5c0-7118-8679-332df87eb44d",
+      "time": "2026-09-24 14:20:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian Defense Ministry said Russian forces struck a Kyiv company producing drone components and preparing to deploy ground robot systems."
+    },
     {
       "id": "5111142",
       "time": "2026-09-24 14:20:23",
