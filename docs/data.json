@@ -1,7 +1,53 @@
 {
-  "updated": "2026-09-24 09:41:48",
+  "updated": "2026-09-24 09:45:53",
   "count": 12806,
   "items": [
+    {
+      "id": "5110812",
+      "time": "2026-09-24 09:44:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5110811",
+      "time": "2026-09-24 09:43:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外交部長表示，他已與伊朗外交部長就降低局勢緊張程度進行了討論。"
+    },
+    {
+      "id": "mkt:01a0d113-f38a-7118-8674-f0cffbbaad60",
+      "time": "2026-09-24 09:42:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01989.HK",
+        "Impact bearish",
+        "01888.HK",
+        "00148.HK"
+      ],
+      "text": "Hong Kong PCB stocks slid: Guanghe Technology (01989.HK) down over 7%, Kingboard Laminates (01888.HK) down over 4%; peers Kingboard Holdings (00148.HK), Shenghong Technology (02476.HK), Dingtai High-Tech (01377.HK) and Dazhu CNC (03200.HK) also fell."
+    },
+    {
+      "id": "mkt:01a0d113-5f7d-7118-8674-ede8185df619",
+      "time": "2026-09-24 09:41:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Canadian PM Carney says he has considered 'extreme tail risk' of U.S. invasion】Canadian prime minister Carney said he has considered the 'extreme tail risk' of U.S. military action and is pursuing economic and strategic diversification to reduce dependence on the United States, including cutting reliance on SpaceX satellite broadband. He expects Trump-era policies to increase demand for dollar alternatives and said a multipolar reserve-currency system would offer more flexibility. Carney added a U.S. invasion is not the baseline scenario but that failing to prepare would be irresponsible, describing such planning as risk management."
+    },
     {
       "id": "mkt:01a0d112-e1ed-7118-8674-e1f8a781ea80",
       "time": "2026-09-24 09:41:10",
@@ -9,6 +55,15 @@
         "MKT News"
       ],
       "text": "A-shares coal mining and processing sector rallied, with Yunmei Energy hitting the daily limit; Antai Group, Dayou Energy, Liaoning Energy, Shaanxi Black Cat and Zhengzhou Coal & Power also advanced."
+    },
+    {
+      "id": "5110810",
+      "time": "2026-09-24 09:41:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採加工板塊直線拉昇，雲煤能源漲停】煤炭開採加工板塊直線拉昇，雲煤能源漲停，安泰集團、大有能源、遼寧能源、陝西黑貓、鄭州煤電等紛紛走高。"
     },
     {
       "id": "mkt:01a0d112-be1a-7118-8674-de0751d0d4d2",
@@ -116293,50 +116348,6 @@
         "宏觀"
       ],
       "text": "【網路食品銷售風險管控清單釋出】市場監管總局印發網路食品銷售相關《食品安全風險管控清單》，聚焦直播電商平臺經營者、網路食品交易第三方平臺提供者、入網食品銷售企業三類主體，逐一明確風險控制環節、風險點、管控措施、管控目標和管控頻次，為網路食品銷售企業精準防控食品安全風險提供操作指南。這是市場監管總局落實《直播電商經營者落實食品安全主體責任監督管理規定》《網路食品銷售經營者落實食品安全主體責任監督管理規定》兩部部門規章的重要配套檔案，標誌著網路食品安全監管從“底線防守”向“精準防控”深化。此次釋出的風險管控清單，堅持風險導向、底線思維、精準施策，將網路食品銷售全鏈條拆解為最小工作單元，推動網路食品銷售企業從“被動應付檢查”向“主動防控風險”轉變。"
-    },
-    {
-      "id": "5098750",
-      "time": "2026-09-17 09:44:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻璃基板概念震盪拉昇 沃格光電觸及漲停】玻璃基板概念震盪拉昇，沃格光電觸及漲停，力諾藥包、京東方A、彩虹股份、紅星發展跟漲。"
-    },
-    {
-      "id": "5098749",
-      "time": "2026-09-17 09:43:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【液冷伺服器概念震盪拉昇 沃頓科技漲停】早盤液冷伺服器概念震盪拉昇，沃頓科技漲停，集智科技漲超10%，萬訊自控、申菱環境、泰福泵業、冰輪環境漲幅靠前。"
-    },
-    {
-      "id": "5098748",
-      "time": "2026-09-17 09:42:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【摺疊屏板塊走高，科森科技漲停】摺疊屏板塊走高，科森科技漲停，沃格光電、雷曼光電、東睦股份、凱盛科技跟漲。"
-    },
-    {
-      "id": "5098747",
-      "time": "2026-09-17 09:42:38",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美媒：特朗普下週與海灣國家領導人會晤討論伊朗局勢】據美國阿克西奧斯新聞網站16日援引訊息人士的話報道，美國總統特朗普預計將在22日紐約聯合國大會期間與海灣國家領導人舉行會晤，討論對伊朗戰事的下一步行動。報道說，預計此次會晤將重點討論美方提出的戰後戰略構想。特朗普及其團隊正在制訂相關計劃，預計該計劃將在美國國會中期選舉結束後最終敲定。沙烏地阿拉伯、阿聯酋、卡達、巴林、科威特和阿曼的領導人或外長將與會。會晤範圍也有可能會擴大，納入其他阿拉伯和伊斯蘭國家領導人。美國國務院已於16日發出了初步邀請。目前，美國白宮尚未就上述內容釋出相關訊息。此外，特朗普16日在回答記者有關伊朗戰事目前所處階段的提問時說，“希望我們正接近戰爭的尾聲”。他再次聲稱伊朗方面“非常渴望”達成協議，並表示美國是直接從伊朗那裡獲悉這一訊息的。（新華社）"
-    },
-    {
-      "id": "5098746",
-      "time": "2026-09-17 09:42:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
     }
   ]
 }

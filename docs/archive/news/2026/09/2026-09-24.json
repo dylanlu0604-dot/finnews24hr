@@ -1,7 +1,53 @@
 {
   "date": "2026-09-24",
-  "count": 652,
+  "count": 657,
   "items": [
+    {
+      "id": "5110812",
+      "time": "2026-09-24 09:44:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5110811",
+      "time": "2026-09-24 09:43:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外交部長表示，他已與伊朗外交部長就降低局勢緊張程度進行了討論。"
+    },
+    {
+      "id": "mkt:01a0d113-f38a-7118-8674-f0cffbbaad60",
+      "time": "2026-09-24 09:42:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01989.HK",
+        "Impact bearish",
+        "01888.HK",
+        "00148.HK"
+      ],
+      "text": "Hong Kong PCB stocks slid: Guanghe Technology (01989.HK) down over 7%, Kingboard Laminates (01888.HK) down over 4%; peers Kingboard Holdings (00148.HK), Shenghong Technology (02476.HK), Dingtai High-Tech (01377.HK) and Dazhu CNC (03200.HK) also fell."
+    },
+    {
+      "id": "mkt:01a0d113-5f7d-7118-8674-ede8185df619",
+      "time": "2026-09-24 09:41:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Canadian PM Carney says he has considered 'extreme tail risk' of U.S. invasion】Canadian prime minister Carney said he has considered the 'extreme tail risk' of U.S. military action and is pursuing economic and strategic diversification to reduce dependence on the United States, including cutting reliance on SpaceX satellite broadband. He expects Trump-era policies to increase demand for dollar alternatives and said a multipolar reserve-currency system would offer more flexibility. Carney added a U.S. invasion is not the baseline scenario but that failing to prepare would be irresponsible, describing such planning as risk management."
+    },
     {
       "id": "mkt:01a0d112-e1ed-7118-8674-e1f8a781ea80",
       "time": "2026-09-24 09:41:10",
@@ -9,6 +55,15 @@
         "MKT News"
       ],
       "text": "A-shares coal mining and processing sector rallied, with Yunmei Energy hitting the daily limit; Antai Group, Dayou Energy, Liaoning Energy, Shaanxi Black Cat and Zhengzhou Coal & Power also advanced."
+    },
+    {
+      "id": "5110810",
+      "time": "2026-09-24 09:41:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採加工板塊直線拉昇，雲煤能源漲停】煤炭開採加工板塊直線拉昇，雲煤能源漲停，安泰集團、大有能源、遼寧能源、陝西黑貓、鄭州煤電等紛紛走高。"
     },
     {
       "id": "mkt:01a0d112-be1a-7118-8674-de0751d0d4d2",
