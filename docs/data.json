@@ -1,7 +1,100 @@
 {
-  "updated": "2026-09-24 23:59:27",
-  "count": 12766,
+  "updated": "2026-09-25 00:03:56",
+  "count": 12770,
   "items": [
+    {
+      "id": "te:markets:586627",
+      "time": "2026-09-25 00:01:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Falls as Financials Slide — The FTSE MIB fell 0.9% to 51,543 on Thursday, as heavyweight financials led losses amid growing expectations of higher-for-longer interest rates. A worsening global selloff is pushing the average yield on global government debt closer to 4%, according to Bloomberg, a level not seen since 2007. In Milan, the yield at the auction of two-year government bonds rose to 3.64%, its highest level since October 2023. Financials underperformed, with MPS falling 0.7% as investors backed its defense strategy against Intesa (0.3%). Tech stocks also declined, led by Technoprobe (-4.8%). Defense stocks Leonardo (-2.3%) and Fincantieri (-5.5%) fell after winning a joint venture with OCCAR. Stellantis dropped 4.3% as the group underperformed in the European auto market in August, according to ACEA. On the upside, Eni (1.4%) extended gains after Italy approved nuclear power generation, ending a nearly four-decade ban in an effort to mitigate the impact of surging energy prices."
+    },
+    {
+      "id": "mkt:01a0d426-7f1e-7118-868c-30646fb37092",
+      "time": "2026-09-25 00:01:27",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fannie Mae: For the week ending Sept. 24, the U.S. 30-year fixed-rate mortgage averaged 7.03%, the highest since Jan. 16, 2025, up from 6.95% the prior week."
+    },
+    {
+      "id": "5112420",
+      "time": "2026-09-25 00:01:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行與谷歌雲簽署五年協議，拓展巴黎銀行對谷歌雲人工智慧基礎設施及Gemini大模型的使用許可權。"
+    },
+    {
+      "id": "te:markets:586626",
+      "time": "2026-09-25 00:01:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Closes at 2-Month Low — Frankfurt's DAX 40 closed about 0.6% down at 25,256 on Thursday, reaching the lowest since July 24, in line with broader weakness across European markets. Oil prices climbed further, adding to pressure on sovereign bonds amid heightened tensions in the Middle East. The Houthis reportedly fired missiles at Saudi Arabia, while an adviser to Iran’s Supreme Leader warned against opening a new front in response to a potential US attack. Traders also eyed high-stakes summit between US President Trump and Chinese leader Xi Jinping, with trade, AI and the Middle East war among the key issues on the agenda. Several sectors faced pressure, particularly tech, alongside autos, banks, retailers and industrials. Infineon Technologies led losses, dropping 3.9%, followed by Rheinmetall, Scout24, Volkswagen, BMW and Deutsche Bank, down between 2% and 3.4%."
+    },
+    {
+      "id": "te:markets:586625",
+      "time": "2026-09-25 00:00:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Slovakia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Slovakia 10Y Bond Yield Hits 15-1/2-year High — Slovakia 10 Year Government Bond Yield increased to 4.38%, the highest since March 2011. Over the past 4 weeks, Slovakia 10Y Bond Yield gained 45.20 basis points, and in the last 12 months, it increased 78.60 basis points."
+    },
+    {
+      "id": "5112419",
+      "time": "2026-09-25 00:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行與谷歌雲宣佈達成智慧代理人工智慧與雲創新領域新合作關係。"
+    },
+    {
+      "id": "5112418",
+      "time": "2026-09-25 00:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國抵押貸款利率自2025年初以來首次升至7%以上。"
+    },
+    {
+      "id": "te:markets:586624",
+      "time": "2026-09-24 23:59:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls Amid Yield Spike — The CAC 40 fell 0.5% to close at 8,081 on Thursday, as a sharp rise in global government bond yields weighed on stock markets. The Euro Area 10-year bond yield reached its highest level since late 2011, while France’s 10-year OAT yield rose to a new 18-year high as energy-driven inflation concerns persisted. Crude oil rose amid heightened Middle East tensions, while strong US economic data released yesterday drove US yields higher, intensifying the global move amid expectations of another Fed hike this year. Financial stocks were mostly lower, with Société Générale falling 3.3%. Industrials also posted sharp losses, with Schneider Electric shedding 1.2%, EssilorLuxottica falling 3.5%, Thales down 2.7%, and STMicroelectronics losing 2.7%. Heavyweight luxury stocks were mostly muted. In contrast, TotalEnergies rose 1.8%. France’s consumer confidence index held steady at 86 in September, above forecasts of 85 but remaining below its long-term average of 100."
+    },
+    {
+      "id": "5112417",
+      "time": "2026-09-24 23:59:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總理科列茨基（Koretskyi）與美國代辦就液化天然氣（LNG）供應事宜進行討論。"
+    },
     {
       "id": "5112416",
       "time": "2026-09-24 23:58:47",
@@ -116182,55 +116275,6 @@
         "公司"
       ],
       "text": "【錦好醫療：2026年上半年助聽器自有品牌收入佔比達到約30%】錦好醫療釋出投資者關係活動記錄表，公司持續深耕自有品牌戰略，2026年上半年助聽器自有品牌收入佔比達到約30%，且自有品牌線上C端業務取得了長足的進步，BTC、DTC等主要線上渠道自有品牌業務較上年同期增長超過60%，未來公司將持續堅定加大對自有品牌的投入力度。"
-    },
-    {
-      "id": "te:markets:584683",
-      "time": "2026-09-18 00:03:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Sugar Futures at Near 1-Month Low — US sugar futures have been under pressure, trading near one-month lows of 18.4 cents per pound, mainly pressured by lower oil prices. Softer crude oil prices reduce the competitiveness of ethanol, encouraging mills to allocate a smaller share of sugarcane to biofuel production. Meanwhile, the global sugar supply outlook remains tight, with recent estimates pointing to a potential deficit in 2026/27 as production is expected to decline among key suppliers. El Niño poses an additional risk to global sugar production, with a strong event potentially bringing drier conditions to major producers such as Brazil, India and Thailand. In Brazil, the world’s largest producer and exporter, crop conditions and the split of sugarcane between sugar and ethanol remain important drivers of prices. Ethanol prices at mills in São Paulo state rose more than 2% last week as heavy rains delayed crushing and raised concerns about the volume of cane that can be processed during the 2026/27 season."
-    },
-    {
-      "id": "5100385",
-      "time": "2026-09-18 00:01:29",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【問界將撤出華為專賣店？賽力斯回應訊息不實】9月17日，有訊息稱，已有多位經銷商接到華為方面告知，明年1月1日開始，問界正式撤出鴻蒙智行和華為專賣店。對此，賽力斯方面向記者回應稱，該訊息不實。記者從知情人士處獲悉，賽力斯與華為將進一步深化合作，沿著全球高階豪華品牌的成長路徑，全面推進問界“專屬專營”，並且問界仍在鴻蒙智行體系中。其中，“專屬經營”是指2027年1月1日起，華為專營店將正式分成兩種，一種專賣問界，另一種則是銷售尊界、享界、智界和尚界；將於1月1日正式完成劃分。(新京報)"
-    },
-    {
-      "id": "mkt:01a0b019-13e0-7118-85e6-ad8f903614d3",
-      "time": "2026-09-18 00:00:28",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Freddie Mac said the U.S. 30-year fixed-rate mortgage averaged 6.95% in the week of Sept. 17, the highest since Jan. 30, 2025, up from 6.76% the prior week."
-    },
-    {
-      "id": "5100384",
-      "time": "2026-09-18 00:00:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "房地美：美國上週30年期按揭貸款/抵押貸款利率6.95%，連漲四周，前值6.76%（為2025年6月以來最高）。"
-    },
-    {
-      "id": "5100383",
-      "time": "2026-09-17 23:59:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：工作人員與辛巴威就工作人員監測計劃項下第二次審查達成工作人員層面協議。"
     }
   ]
 }

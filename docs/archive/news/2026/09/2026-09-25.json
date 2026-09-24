@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-25",
+  "count": 7,
+  "items": [
+    {
+      "id": "te:markets:586627",
+      "time": "2026-09-25 00:01:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Falls as Financials Slide — The FTSE MIB fell 0.9% to 51,543 on Thursday, as heavyweight financials led losses amid growing expectations of higher-for-longer interest rates. A worsening global selloff is pushing the average yield on global government debt closer to 4%, according to Bloomberg, a level not seen since 2007. In Milan, the yield at the auction of two-year government bonds rose to 3.64%, its highest level since October 2023. Financials underperformed, with MPS falling 0.7% as investors backed its defense strategy against Intesa (0.3%). Tech stocks also declined, led by Technoprobe (-4.8%). Defense stocks Leonardo (-2.3%) and Fincantieri (-5.5%) fell after winning a joint venture with OCCAR. Stellantis dropped 4.3% as the group underperformed in the European auto market in August, according to ACEA. On the upside, Eni (1.4%) extended gains after Italy approved nuclear power generation, ending a nearly four-decade ban in an effort to mitigate the impact of surging energy prices."
+    },
+    {
+      "id": "mkt:01a0d426-7f1e-7118-868c-30646fb37092",
+      "time": "2026-09-25 00:01:27",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fannie Mae: For the week ending Sept. 24, the U.S. 30-year fixed-rate mortgage averaged 7.03%, the highest since Jan. 16, 2025, up from 6.95% the prior week."
+    },
+    {
+      "id": "5112420",
+      "time": "2026-09-25 00:01:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行與谷歌雲簽署五年協議，拓展巴黎銀行對谷歌雲人工智慧基礎設施及Gemini大模型的使用許可權。"
+    },
+    {
+      "id": "te:markets:586626",
+      "time": "2026-09-25 00:01:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Closes at 2-Month Low — Frankfurt's DAX 40 closed about 0.6% down at 25,256 on Thursday, reaching the lowest since July 24, in line with broader weakness across European markets. Oil prices climbed further, adding to pressure on sovereign bonds amid heightened tensions in the Middle East. The Houthis reportedly fired missiles at Saudi Arabia, while an adviser to Iran’s Supreme Leader warned against opening a new front in response to a potential US attack. Traders also eyed high-stakes summit between US President Trump and Chinese leader Xi Jinping, with trade, AI and the Middle East war among the key issues on the agenda. Several sectors faced pressure, particularly tech, alongside autos, banks, retailers and industrials. Infineon Technologies led losses, dropping 3.9%, followed by Rheinmetall, Scout24, Volkswagen, BMW and Deutsche Bank, down between 2% and 3.4%."
+    },
+    {
+      "id": "te:markets:586625",
+      "time": "2026-09-25 00:00:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Slovakia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Slovakia 10Y Bond Yield Hits 15-1/2-year High — Slovakia 10 Year Government Bond Yield increased to 4.38%, the highest since March 2011. Over the past 4 weeks, Slovakia 10Y Bond Yield gained 45.20 basis points, and in the last 12 months, it increased 78.60 basis points."
+    },
+    {
+      "id": "5112419",
+      "time": "2026-09-25 00:00:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行與谷歌雲宣佈達成智慧代理人工智慧與雲創新領域新合作關係。"
+    },
+    {
+      "id": "5112418",
+      "time": "2026-09-25 00:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國抵押貸款利率自2025年初以來首次升至7%以上。"
+    }
+  ]
+}
