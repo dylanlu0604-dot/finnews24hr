@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-24 09:45:53",
-  "count": 12806,
+  "updated": "2026-09-24 09:50:00",
+  "count": 12801,
   "items": [
+    {
+      "id": "mkt:01a0d117-9cf7-7118-8674-fb6a82034d1f",
+      "time": "2026-09-24 09:46:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share wind-power equipment sector rose; Luozhou Co Ltd hit the daily limit-up, while Xin Qianglian, Xihua Technology, Dajin Heavy Industry, Jixin Technology and Zhenhong Co. also advanced."
+    },
+    {
+      "id": "5110816",
+      "time": "2026-09-24 09:45:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "基準大阪橡膠期貨上漲5.25%，創下15年新高。"
+    },
+    {
+      "id": "5110815",
+      "time": "2026-09-24 09:45:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【風電裝置板塊走高，洛軸股份觸及漲停】風電裝置板塊走高，洛軸股份觸及漲停，新強聯、錫華科技、大金重工、吉鑫科技、振宏股份跟漲。"
+    },
+    {
+      "id": "5110814",
+      "time": "2026-09-24 09:45:15",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【馬三三乳業董事長馬良：“清水牛奶”同批次共銷售674單】9月24日凌晨，馬三三乳業的董事長馬良在其抖音號釋出道歉影片。影片中他稱，“牛奶倒出清水問題源於其公司灌裝機引數調整，把用於檢測包裝密封性的測試水包混入了成品流出導致的測試水包，為無菌水。這個問題的出現暴露了他們在生產管理環節確實存在漏洞，是無可推卸的責任。”同時，馬良表示，“同批次共銷售674單，我們正在逐一聯絡這批次的消費者進行回訪，對購買該批次產品的消費者做僅退款不退貨處理。目前市場監管部門也已進駐企業展開調查，我們全力配合，主動接受監督。”"
+    },
+    {
+      "id": "5110813",
+      "time": "2026-09-24 09:45:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
     {
       "id": "5110812",
       "time": "2026-09-24 09:44:22",
@@ -116260,94 +116305,6 @@
         "SZSE Component"
       ],
       "text": "A-share vehicle OEM sector staged a short-term rally; Ankai Bus hit the daily limit, while Zotye Auto, Zhongtong Bus, CIMC Vehicles and Haowen Qidian also rose."
-    },
-    {
-      "id": "5098758",
-      "time": "2026-09-17 09:49:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【汽車整車板塊短線衝高，安凱客車漲停】汽車整車板塊短線衝高，安凱客車漲停，眾泰汽車、中通客車、中集車輛、千里科技、金龍汽車跟漲。"
-    },
-    {
-      "id": "em:qqyh_mlc:202609173877046257",
-      "time": "2026-09-17 09:49:18",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲主席稱通脹長時間過高宣佈加息】美國聯邦儲備委員會當地時間9月16日宣佈3年多來首次加息，並預測年內還將有一次加息。聯邦公開市場委員會全票透過加息決定，新任美聯儲主席凱文·沃什也投票贊成加息。這是他上任後的首次政策轉向。沃什於5月下旬就職。美國總統特朗普提名他時曾寄望於他會降息。"
-    },
-    {
-      "id": "5098757",
-      "time": "2026-09-17 09:48:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞晨環保等在內蒙古成立環保節能工程公司】企查查APP顯示，近日，瑞晨（內蒙古）環保節能工程有限公司成立，經營範圍包含新能源原動裝置銷售；發電機及發電機組銷售；機械裝置銷售等。企查查股權穿透顯示，該公司由瑞晨環保等共同持股。"
-    },
-    {
-      "id": "5098756",
-      "time": "2026-09-17 09:48:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量1246億元。"
-    },
-    {
-      "id": "5098755",
-      "time": "2026-09-17 09:47:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海南省與中國華能集團舉行工作會談】據海南日報，9月16日，海南省委書記馮飛在海口與中國華能集團有限公司董事長白勇一行舉行工作會談。馮飛表示，中國華能發展戰略與海南高度契合，希望雙方在已有合作基礎上加強優勢互補，聚焦新型能源體系構建、清潔能源開發利用、零碳產業園建設等領域深化交流合作，形成更多實質性成果，實現更高水平互利共贏發展。"
-    },
-    {
-      "id": "te:markets:584403",
-      "time": "2026-09-17 09:47:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Extend Gains — The benchmark KOSPI edged up to around 6,755 on Thursday, extending gains from the previous session as the Fed’s rate hike was largely priced in. The Fed raised its policy rate by 25bp to 3.75%-4.00%, its first increase since 2023, and signaled another hike could come later this year. The move widened the US-Korea rate gap to as much as 1 percentage point, although Korean authorities said its market impact should be limited as the decision was already reflected in asset prices. At the same time, easing oil prices after the US said Saudi Arabia’s damaged East-West pipeline could resume operations within days reduced inflation concerns following the recent surge in crude prices. Additionally, stabilization in global AI and semiconductor shares helped lift technology stocks after recent declines, with Samsung Electronics and SK hynix edging higher. Other gainers included KB Financial Group (2.0%), Doosan Enerbility (2.3%), Hanwha Aerospace (2.9%), and HD Hyundai Heavy Industries (6.9%)."
-    },
-    {
-      "id": "5098754",
-      "time": "2026-09-17 09:47:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力晶片概念震盪反彈 摩爾執行緒漲超9%】早盤算力晶片概念震盪反彈，摩爾執行緒漲超9%，沐曦股份、芯原股份、國科微、科德教育、雲天勵飛漲幅靠前。"
-    },
-    {
-      "id": "5098753",
-      "time": "2026-09-17 09:46:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻璃概念震盪反彈，三峽新材漲停】玻璃概念震盪反彈，三峽新材漲停，中國巨石、戈碧迦、力諾藥包、北玻股份、山東玻纖、長海股份等跟漲。"
-    },
-    {
-      "id": "5098752",
-      "time": "2026-09-17 09:46:17",
-      "tags": [
-        "央行"
-      ],
-      "text": "【IMF敦促澳洲聯儲保持鷹派，警告通脹上行風險或需加息】國際貨幣基金組織（IMF）釋出的2026年第四條協議磋商宣告，對澳大利亞貨幣政策取向提出明確建議：“將通脹率拉回目標區間應是近期優先事項。貨幣政策應繼續專注於遏制通脹風險。”IMF指出，鑑於基礎通脹壓力持續存在，且金融條件是否足夠具有緊縮性仍面臨巨大不確定性，澳洲聯儲（RBA）應準備好在必要時加息。（新華財經）"
-    },
-    {
-      "id": "5098751",
-      "time": "2026-09-17 09:45:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【網路食品銷售風險管控清單釋出】市場監管總局印發網路食品銷售相關《食品安全風險管控清單》，聚焦直播電商平臺經營者、網路食品交易第三方平臺提供者、入網食品銷售企業三類主體，逐一明確風險控制環節、風險點、管控措施、管控目標和管控頻次，為網路食品銷售企業精準防控食品安全風險提供操作指南。這是市場監管總局落實《直播電商經營者落實食品安全主體責任監督管理規定》《網路食品銷售經營者落實食品安全主體責任監督管理規定》兩部部門規章的重要配套檔案，標誌著網路食品安全監管從“底線防守”向“精準防控”深化。此次釋出的風險管控清單，堅持風險導向、底線思維、精準施策，將網路食品銷售全鏈條拆解為最小工作單元，推動網路食品銷售企業從“被動應付檢查”向“主動防控風險”轉變。"
     }
   ]
 }
