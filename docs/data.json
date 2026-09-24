@@ -1,7 +1,121 @@
 {
-  "updated": "2026-09-25 04:10:41",
-  "count": 12815,
+  "updated": "2026-09-25 04:14:32",
+  "count": 12826,
   "items": [
+    {
+      "id": "mkt:01a0d50d-8630-7118-8690-d25a620326f9",
+      "time": "2026-09-25 04:13:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports Blue Origin expects revenue of about $1.4 bln this year, rising to more than $30 bln by 2030."
+    },
+    {
+      "id": "mkt:01a0d50c-b466-7118-8690-ccf844302862",
+      "time": "2026-09-25 04:12:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US 10-year Treasury yield rose to 5.20%, its highest level since 2007."
+    },
+    {
+      "id": "5112711",
+      "time": "2026-09-25 04:12:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：藍色起源2025年營收8億美元，2026年迄今收入估計為14億美元。預計2030年收入將超過300億美元。關於藍色起源的檔案顯示，貝佐斯自從2000年以來對其投資達到300億美元。"
+    },
+    {
+      "id": "mkt:01a0d50b-b44a-7118-8690-c0a10b6ab934",
+      "time": "2026-09-25 04:11:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports that since Blue Origin's founding in 2000, Jeff Bezos has invested $30 billion in the company."
+    },
+    {
+      "id": "5112706",
+      "time": "2026-09-25 04:11:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行稱已批准 2 億美元追加資金，用於幫助哥倫比亞從 8 月 10 日地震中災後重建。"
+    },
+    {
+      "id": "mkt:01a0d50b-18fe-7118-8690-bd8e1bd096d1",
+      "time": "2026-09-25 04:11:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG approved an additional $200 mln in financing to Colombia to support recovery from the Aug. 10 earthquake."
+    },
+    {
+      "id": "5112705",
+      "time": "2026-09-25 04:10:49",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率升至5.2%，為2007年以來最高水平。"
+    },
+    {
+      "id": "5112704",
+      "time": "2026-09-25 04:10:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列總理聯大發言，多國代表集體退場】當地時間9月24日下午，北京時間今天（9月25日）凌晨，以色列總理內塔尼亞胡在第81屆聯合國大會一般性辯論發表講話。現場大多數國家代表離場以示抗議，而以色列代表團等則大聲鼓掌歡呼。內塔尼亞胡則將離場代表稱為“懦夫”。（央視）"
+    },
+    {
+      "id": "mkt:01a0d50a-a240-7118-8690-b072a303beb4",
+      "time": "2026-09-25 04:10:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AKAM.O",
+        "Impact bullish"
+      ],
+      "text": "Akamai (AKAM.O) jumped 17% in after-hours trading after the company said it had struck a deal with Anthropic."
+    },
+    {
+      "id": "mkt:01a0d50a-937b-7118-8690-af7454e52405",
+      "time": "2026-09-25 04:10:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Department of Justice filed a motion to intervene in litigation by Elon Musk and X Corp seeking to overturn a European Commission decision; DOJ coordinated with the State Department before filing."
+    },
+    {
+      "id": "te:economy:586658",
+      "time": "2026-09-25 04:10:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "Paraguay Producer Prices Extend Decline — Paraguay’s Producer Price Index fell 1.7% year over year in August 2025, following a 1.5% decline in July and marking its seventh consecutive annual decrease. By product grouping, both domestic and imported products made negative contributions to the overall result. The decline was mainly driven by negative contributions from domestic agriculture and horticultural products, as well as imported metallic products, machinery and equipment, and food, beverages and tobacco, textiles, and leather products. Other sections, particularly domestic non-metallic transportable goods and other manufactured products, helped mitigate the decline. The PPI was unchanged on a monthly basis, while the cumulative change in the first eight months of the year stood at -0.7%."
+    },
+    {
+      "id": "5112702",
+      "time": "2026-09-25 04:10:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：藍色起源完成首輪外部融資，募資 100 億美元， 估值達 1400 億美元。貝佐斯在本輪融資中向藍色起源投入 20 億美元。"
+    },
     {
       "id": "mkt:01a0d508-c0d0-7118-8690-a687da5faacb",
       "time": "2026-09-25 04:08:35",
@@ -116582,16 +116696,6 @@
         "Important"
       ],
       "text": "According to MSNBC, the Pentagon is considering withdrawing nearly one-third of U.S. forces from Europe."
-    },
-    {
-      "id": "mkt:01a0b0ff-5f49-7118-85e9-8b4f5f760259",
-      "time": "2026-09-18 04:12:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI launches a new AI model targeted at law firms."
     }
   ]
 }
