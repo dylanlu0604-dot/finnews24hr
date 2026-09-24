@@ -1,7 +1,40 @@
 {
   "date": "2026-09-25",
-  "count": 497,
+  "count": 500,
   "items": [
+    {
+      "id": "te:markets:586673",
+      "time": "2026-09-25 07:24:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Halts Rally on Talks of a Phased Deal — Crude oil steadied near $94 per barrel on Friday, pausing its recent rally amid reports that the US and Iran were considering a phased deal that could reopen the Strait of Hormuz and lift a US blockade on Iranian ports. Efforts to reach a breakthrough were reportedly underway on the sidelines of the UN General Assembly, with Qatari officials mediating the talks. Iran has maintained that it must retain control over Hormuz and would not accept a deal unless the US eases military pressure and removes its blockade. Meanwhile, a White House official said President Donald Trump remained open to talks with Iran but stressed that the US had little need to negotiate given its strong position following the sanctions campaign and blockade. Elsewhere, tensions in the Middle East escalated after Iran-aligned Houthi militants in Yemen launched missiles toward Saudi cities, including Yanbu and Taif. Despite recent gains, the US oil benchmark remains on track to decline about 2% for the week."
+    },
+    {
+      "id": "5112817",
+      "time": "2026-09-25 07:24:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴總理會見伊朗總統 強調落實美伊諒解備忘錄 】巴基斯坦總理辦公室24日發表宣告說，巴總理夏巴茲當天在美國紐約舉行的第81屆聯合國大會期間會見伊朗總統佩澤希齊揚，強調落實美伊諒解備忘錄，重申巴方將繼續發揮建設性作用，支援地區和平與穩定。 宣告說，雙方就不斷變化的地區局勢交換意見。夏巴茲對持續不斷的地區衝突深表關切，呼籲有關各方保持克制、為緊張局勢降溫並持續開展外交接觸，以實現該地區的持久和平與穩定。他強調，伊斯蘭堡諒解備忘錄應當得到落實。 宣告說，佩澤希齊揚讚賞巴方為地區和平與安全所作的努力，重申伊方願進一步深化雙方全方位合作。"
+    },
+    {
+      "id": "mkt:01a0d5ba-d7ce-7118-8692-52d10f0ca6f8",
+      "time": "2026-09-25 07:23:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Reuters survey: RBA likely to lift cash rate to 4.60% next week; tightening seen near end】In a Reuters survey of 34 economists conducted Sep 17-24, 33 forecast the Reserve Bank of Australia will raise the cash rate by 25bps to 4.60% at its Sep 29 meeting, the highest since late 2011. It would be the fourth hike this year, bringing cumulative tightening to 100bps. Persistent inflation and resilient growth were cited as reasons for further tightening, but most respondents view September as likely the final hike in this cycle; a minority expect rates to reach 4.85% by year-end. The poll marks a notable shift from a month earlier, when nearly all economists expected the RBA to hold and the median peak was 4.35%."
+    },
     {
       "id": "5112816",
       "time": "2026-09-25 07:20:56",
