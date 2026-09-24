@@ -1,7 +1,49 @@
 {
   "date": "2026-09-25",
-  "count": 323,
+  "count": 327,
   "items": [
+    {
+      "id": "5112676",
+      "time": "2026-09-25 03:33:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價24日上漲】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格上漲2.45美元，收於每桶94.61美元，漲幅為2.66%；11月交貨的倫敦布倫特原油期貨價格上漲3.52美元，收於每桶106.60美元，漲幅為3.41%。"
+    },
+    {
+      "id": "mkt:01a0d4e8-74a2-7118-8690-46214eda14c4",
+      "time": "2026-09-25 03:33:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International oil prices rose on the 24th】As of the close on the 24th, NYMEX November WTI crude futures rose $2.45 to $94.61/bbl, up 2.66%. ICE Brent November futures rose $3.52 to $106.60/bbl, up 3.41%."
+    },
+    {
+      "id": "mkt:01a0d4e8-2df5-7118-8690-3bacc4ae4bd1",
+      "time": "2026-09-25 03:33:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index rises on the 24th】The dollar index, measuring the U.S. dollar against six major currencies, rose 0.19% to 101.285 at the New York close on the 24th. At the close, €1 = $1.1374 (prev. $1.1387); £1 = $1.3217 (prev. $1.3243); $1 = ¥158.85 (prev. ¥158.27); $1 = 0.8282 Swiss franc (prev. 0.8244); $1 = 1.4141 Canadian dollars (prev. 1.4097); $1 = 9.9224 Swedish kronor (prev. 9.9169)."
+    },
+    {
+      "id": "5112674",
+      "time": "2026-09-25 03:32:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數24日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.19%，在匯市尾市收於101.285。截至紐約匯市尾市，1歐元兌換1.1374美元，低於前一交易日的1.1387美元；1英鎊兌換1.3217美元，低於前一交易日的1.3243美元。1美元兌換158.85日元，高於前一交易日的158.27日元；1美元兌換0.8282瑞士法郎，高於前一交易日的0.8244瑞士法郎；1美元兌換1.4141加元，高於前一交易日的1.4097加元；1美元兌換9.9224瑞典克朗，高於前一交易日的9.9169瑞典克朗。"
+    },
     {
       "id": "te:economy:586656",
       "time": "2026-09-25 03:29:28",
