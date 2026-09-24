@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-24 19:09:08",
-  "count": 12904,
+  "updated": "2026-09-24 19:13:13",
+  "count": 12907,
   "items": [
+    {
+      "id": "5111878",
+      "time": "2026-09-24 19:12:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：指出厄爾尼諾現象帶來高於正常水平的氣候風險。"
+    },
+    {
+      "id": "mkt:01a0d31c-b170-7118-8684-3315c22709ad",
+      "time": "2026-09-24 19:11:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NSE completes IPO, valued at $46.9 billion】India’s National Stock Exchange (NSE) listed Thursday, closing up 1.85% at 1,818 rupees after an intraday high about 5%, valuing the exchange at 4.5 tln rupees (≈$46.9 bln). The 225.6 bln-rupee IPO (≈$2.3 bln) is India’s second-largest on record after Hyundai Motor India’s 2024 listing. NSE is now among the world’s top-10 listed exchanges by market cap. Market participants note the exchange’s recent growth was driven mainly by rising derivatives volumes over the past four years, but that derivatives momentum has eased, shifting focus to where future growth will come from."
+    },
+    {
+      "id": "5111877",
+      "time": "2026-09-24 19:10:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優信集團：二季度二手車總交易量21899輛 同比增長88.7%】北京時間9月24日，二手車零售商優信集團（納斯達克：UXIN）釋出截至2026年6月30日的未經審計的季度業績報告。財報顯示，公司第二季度實現總收入11.51億元，同比增長74.9%，環比增長7.2%；調整後EBITDA虧損1.2億元。該季度公司二手車總交易量為21899輛，同比增長88.7%，環比增長20.3%，其中零售交易量19610輛，同比增長88.8%，環比增長18.6%。"
+    },
+    {
+      "id": "5111876",
+      "time": "2026-09-24 19:09:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "NYKAA和歐萊雅共同投資印度美妝品牌。"
+    },
+    {
+      "id": "5111875",
+      "time": "2026-09-24 19:09:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑莓第二季度營收1.63億美元，預估1.46億美元】黑莓第二季度營收1.63億美元，預估1.46億美元。第二季度經調整基本每股收益0.070美元，預估0.04美元。黑莓預計全年調整後EBITDA 1.41億美元至1.58億美元。黑莓預計全年經調整基本每股收益0.19美元至0.22美元，市場預估0.19美元。"
+    },
     {
       "id": "5111874",
       "time": "2026-09-24 19:07:19",
@@ -117396,30 +117437,6 @@
         "Importance 1"
       ],
       "text": "Gilt Yields Slide as BoE Holds Rates and Pauses Bond Sales — UK 10-year gilt yields fell further toward 5.2%, retreating from 19-year highs, after the Bank of England held rates and announced a six-month pause in bond sales under its quantitative tightening programme. UK policymakers voted 6-3 to keep Bank Rate at 3.75% and warned that rates could rise if inflationary pressures intensify due to the conflict in the Middle East. The MPC also unanimously voted to reduce its stock of government bond purchases to zero through a multi-year programme, with sales and maturities averaging £46 billion a year through 2034, below the £50 billion pace expected by markets. The BoE expects inflation to reach twice its 2% target early next year, while raising its third-quarter GDP growth forecast to 0.4%. Meanwhile, the Fed raised rates by 25 basis points yesterday, its first hike since July 2023, and signaled another increase later this year. Oil prices fell for a second consecutive session but remained elevated amid continued uncertainty over the Middle East."
-    },
-    {
-      "id": "te:markets:584573",
-      "time": "2026-09-17 19:11:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Sterling Holds Near Two-Month Low as BoE Keeps Rates Steady — The British pound held just below $1.34, near its weakest level since late July, after the Bank of England kept rates at 3.75% in a 6-3 vote, and warned that rates could need to rise if inflationary pressures intensify due to the conflict in the Middle East. In prepared remarks, Governor Andrew Bailey said the global energy shock has so far had a limited impact on UK prices and wages, but warned that prolonged volatility could put greater pressure on inflation and increase the need for a rate hike. The MPC also unanimously voted to reduce its stock of UK government bond purchases to zero through a multi-year programme, with an average annual pace of £46 billion through 2034, slower than previously and below the £50 billion expected by markets. The BoE now expects inflation to reach twice its 2% target early next year, while raising its third-quarter GDP forecast to 0.4%. Meanwhile, the Fed raised rates by 25 basis points yesterday and signaled another hike later this year."
-    },
-    {
-      "id": "te:economy:584572",
-      "time": "2026-09-17 19:09:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "Treasury Yields Fall After Fed — The yield on the US 10-year Treasury note fell to 4.95% on Thursday, below the 2007 high of 5.04% reached earlier in the week. The decline came after the Fed raised interest rates and Chair Warsh reaffirmed the central bank’s commitment to tackling inflation, reassuring investors about its policy credibility and determination to contain price pressures. The central bank raised the target range for the federal funds rate by 25bps, marking its first rate hike since July 2023, and signalled at least one further increase in borrowing costs this year. While the move had been fully priced in ahead of the decision, investors had been concerned that a surprise decision to hold rates could trigger a surge in market volatility. Meanwhile, the yield on the 2-year Treasury note, which is more sensitive to near-term Federal Reserve policy, edged down to 4.73%, while the yield on 30-year Treasury bonds, which are more sensitive to longer-term inflation and geopolitical risks, fell to 5.34%."
     }
   ]
 }
