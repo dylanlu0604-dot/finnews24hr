@@ -1,7 +1,92 @@
 {
   "date": "2026-09-25",
-  "count": 55,
+  "count": 64,
   "items": [
+    {
+      "id": "5112458",
+      "time": "2026-09-25 00:30:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "Letterboxd引發收購意向。紐約時報公司、索尼影業、A24均在競購者之列。"
+    },
+    {
+      "id": "mkt:01a0d441-27bb-7118-868c-951babe3ea28",
+      "time": "2026-09-25 00:30:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xi meets US President Trump at White House】On the morning of Sept. 24 local time, Chinese President Xi met U.S. President Trump in the Oval Office. Xi said the two leaders completed mutual visits within six months and said he was willing to maintain communication through various channels with Trump to jointly steer bilateral ties toward a more stable, healthy and sustainable trajectory."
+    },
+    {
+      "id": "5112457",
+      "time": "2026-09-25 00:29:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Politico已獲准進入白宮。"
+    },
+    {
+      "id": "mkt:01a0d440-0d91-7118-868c-8922e1a9579f",
+      "time": "2026-09-25 00:29:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. crude futures gave back earlier gains and U.S. heating oil futures briefly fell as the U.S. and Iran discuss a phased agreement to reopen the Strait of Hormuz and end the blockade."
+    },
+    {
+      "id": "5112456",
+      "time": "2026-09-25 00:29:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨表示，以色列海軍第六艘潛艇“德拉肯”號（INS \"Drakon\"）今晚抵達，是對伊朗發出的一個訊號。"
+    },
+    {
+      "id": "5112455",
+      "time": "2026-09-25 00:29:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲官員哈馬克：經濟面臨接連不斷的衝擊 加劇了通脹心態固化風險】克利夫蘭聯邦儲備銀行行長貝絲·哈馬克表示，美國經濟正面臨一系列供應衝擊，這加大了通脹心態固化的風險。哈馬克週四在克利夫蘭聯儲主辦的一場會議上表示：“通脹前景仍然高度不確定，風險偏向上行。”她說：“貨幣政策當前面臨的一個尤其棘手的問題，是近期接連不斷出現的衝擊，既包括關稅和油價帶來的供給側衝擊，也包括人工智慧相關資本支出熱潮所引發的需求側衝擊。”“傳統觀點認為，貨幣政策應該忽略供給衝擊，”哈馬克表示，“但如果經濟環境更容易受到衝擊，或者在通脹已經連續多年高企的情況下，各類衝擊接踵而至，那麼通脹心態固化的風險就會更高”。她表示：“高通脹持續的時間越長，要將其重新壓低就可能越困難，代價也越大。”"
+    },
+    {
+      "id": "mkt:01a0d43e-ee7f-7118-868c-80f3adacef02",
+      "time": "2026-09-25 00:28:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources say the U.S. and Iran are discussing a phased agreement to reopen the Strait of Hormuz and end the U.S. blockade."
+    },
+    {
+      "id": "5112454",
+      "time": "2026-09-25 00:28:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平同美國總統特朗普會談】當地時間9月24日上午，國家主席習近平同美國總統特朗普在白宮橢圓形辦公室舉行會談。習近平指出，中美兩國元首在不到半年時間裡實現互訪，在中美關係史上前所未有。我願同特朗普總統透過各種方式保持溝通，共同為中美關係這艘大船領航掌舵，開創中美關係更加穩定、健康、可持續的未來。（央視新聞）"
+    },
+    {
+      "id": "5112453",
+      "time": "2026-09-25 00:27:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "原油期貨漲幅重新擴大。"
+    },
     {
       "id": "5112452",
       "time": "2026-09-25 00:23:46",

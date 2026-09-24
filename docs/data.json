@@ -1,7 +1,92 @@
 {
-  "updated": "2026-09-25 00:27:36",
-  "count": 12782,
+  "updated": "2026-09-25 00:31:34",
+  "count": 12787,
   "items": [
+    {
+      "id": "5112458",
+      "time": "2026-09-25 00:30:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "Letterboxd引發收購意向。紐約時報公司、索尼影業、A24均在競購者之列。"
+    },
+    {
+      "id": "mkt:01a0d441-27bb-7118-868c-951babe3ea28",
+      "time": "2026-09-25 00:30:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xi meets US President Trump at White House】On the morning of Sept. 24 local time, Chinese President Xi met U.S. President Trump in the Oval Office. Xi said the two leaders completed mutual visits within six months and said he was willing to maintain communication through various channels with Trump to jointly steer bilateral ties toward a more stable, healthy and sustainable trajectory."
+    },
+    {
+      "id": "5112457",
+      "time": "2026-09-25 00:29:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Politico已獲准進入白宮。"
+    },
+    {
+      "id": "mkt:01a0d440-0d91-7118-868c-8922e1a9579f",
+      "time": "2026-09-25 00:29:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. crude futures gave back earlier gains and U.S. heating oil futures briefly fell as the U.S. and Iran discuss a phased agreement to reopen the Strait of Hormuz and end the blockade."
+    },
+    {
+      "id": "5112456",
+      "time": "2026-09-25 00:29:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨表示，以色列海軍第六艘潛艇“德拉肯”號（INS \"Drakon\"）今晚抵達，是對伊朗發出的一個訊號。"
+    },
+    {
+      "id": "5112455",
+      "time": "2026-09-25 00:29:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲官員哈馬克：經濟面臨接連不斷的衝擊 加劇了通脹心態固化風險】克利夫蘭聯邦儲備銀行行長貝絲·哈馬克表示，美國經濟正面臨一系列供應衝擊，這加大了通脹心態固化的風險。哈馬克週四在克利夫蘭聯儲主辦的一場會議上表示：“通脹前景仍然高度不確定，風險偏向上行。”她說：“貨幣政策當前面臨的一個尤其棘手的問題，是近期接連不斷出現的衝擊，既包括關稅和油價帶來的供給側衝擊，也包括人工智慧相關資本支出熱潮所引發的需求側衝擊。”“傳統觀點認為，貨幣政策應該忽略供給衝擊，”哈馬克表示，“但如果經濟環境更容易受到衝擊，或者在通脹已經連續多年高企的情況下，各類衝擊接踵而至，那麼通脹心態固化的風險就會更高”。她表示：“高通脹持續的時間越長，要將其重新壓低就可能越困難，代價也越大。”"
+    },
+    {
+      "id": "mkt:01a0d43e-ee7f-7118-868c-80f3adacef02",
+      "time": "2026-09-25 00:28:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources say the U.S. and Iran are discussing a phased agreement to reopen the Strait of Hormuz and end the U.S. blockade."
+    },
+    {
+      "id": "5112454",
+      "time": "2026-09-25 00:28:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平同美國總統特朗普會談】當地時間9月24日上午，國家主席習近平同美國總統特朗普在白宮橢圓形辦公室舉行會談。習近平指出，中美兩國元首在不到半年時間裡實現互訪，在中美關係史上前所未有。我願同特朗普總統透過各種方式保持溝通，共同為中美關係這艘大船領航掌舵，開創中美關係更加穩定、健康、可持續的未來。（央視新聞）"
+    },
+    {
+      "id": "5112453",
+      "time": "2026-09-25 00:27:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "原油期貨漲幅重新擴大。"
+    },
     {
       "id": "5112452",
       "time": "2026-09-25 00:23:46",
@@ -116335,47 +116420,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部稱，俄軍在敖德薩州擊中了烏克蘭方兩艘裝載軍用物資的乾貨船。"
-    },
-    {
-      "id": "mkt:01a0b034-b1dc-7118-85e6-e5c543e9c5dc",
-      "time": "2026-09-18 00:30:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【French prime minister proposes €54bln fiscal consolidation to curb deficit widening】French Prime Minister Sébastien Lecornu proposed a roughly €54 billion fiscal consolidation plan to restrain budget spending growth through 2027 and prevent further deficit widening. He warned that if next year’s finance bill fails to curb persistent spending growth, the deficit could rise from 5.1% of GDP in 2025 to as much as 6.5%. France faces slowing growth, a split parliament and rising resistance to spending cuts ahead of a presidential election in about seven months, with the opposition unwilling to cooperate. A recent global bond sell-off has pushed the French 10-year OAT spread over German Bunds to about 96 bps, near euro-area crisis highs. The government has cut this year’s growth forecast to 0.5%, below the 0.9% assumed in the 2026 budget; Finance Minister Roland Lescure said the original 5% of GDP deficit target “is no longer feasible.”"
-    },
-    {
-      "id": "5100412",
-      "time": "2026-09-18 00:30:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍稱擊斃一名參與 10 月 7 日襲擊的哈馬斯指揮官。"
-    },
-    {
-      "id": "mkt:01a0b033-f948-7118-85e6-d8bfd9d241af",
-      "time": "2026-09-18 00:29:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Sources said a refinery in Russia's Yaroslavl region has suspended crude processing after a drone strike."
-    },
-    {
-      "id": "5100411",
-      "time": "2026-09-18 00:29:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，俄羅斯雅羅斯拉夫爾地區一座煉油廠在遭無人機襲擊後停止原油加工。"
     }
   ]
 }
