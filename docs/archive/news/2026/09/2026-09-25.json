@@ -1,7 +1,30 @@
 {
   "date": "2026-09-25",
-  "count": 335,
+  "count": 337,
   "items": [
+    {
+      "id": "mkt:01a0d4f2-4bf5-7118-8690-5ccabd9bc5ec",
+      "time": "2026-09-25 03:44:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "ICI: U.S. money market fund assets increased to $7.94 trillion."
+    },
+    {
+      "id": "5112685",
+      "time": "2026-09-25 03:43:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "巴拉圭總統：摩根大通與羅賓遜集團將向巴拉圭投資 2 億美元。"
+    },
     {
       "id": "5112684",
       "time": "2026-09-25 03:42:41",
