@@ -1,7 +1,69 @@
 {
-  "updated": "2026-09-24 08:44:45",
-  "count": 12812,
+  "updated": "2026-09-24 08:48:55",
+  "count": 12806,
   "items": [
+    {
+      "id": "mkt:01a0d0e2-27ee-7118-8673-871a49a817f5",
+      "time": "2026-09-24 08:47:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China margin financing balances down 1.059 bln yuan】As of Sep 23, Shanghai Stock Exchange margin financing balance was 1,340.782 bln yuan, down 0.015 bln yuan from the previous session; Shenzhen Stock Exchange 1,276.028 bln yuan, down 1.044 bln yuan; combined mainland margin balance 2,616.81 bln yuan, down 1.059 bln yuan."
+    },
+    {
+      "id": "5110738",
+      "time": "2026-09-24 08:47:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少10.59億元】截至9月23日，上交所融資餘額報13407.82億元，較前一交易日減少0.15億元；深交所融資餘額報12760.28億元，較前一交易日減少10.44億元；兩市合計26168.1億元，較前一交易日減少10.59億元。"
+    },
+    {
+      "id": "5110737",
+      "time": "2026-09-24 08:47:43",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【越疆、凡拓數創等入股廣東省具身智慧科技公司】企查查APP顯示，近日，廣東省具身智慧科技有限公司發生工商變更，新增越疆、凡拓數創、中金嶺南等多名股東，同時註冊資本增至3億元。企查查資訊顯示，該公司成立於2025年，經營範圍包含人工智慧應用軟體開發；人工智慧基礎軟體開發；人工智慧理論與演算法軟體開發；網際網路資料服務等。"
+    },
+    {
+      "id": "mkt:01a0d0e1-53cb-7118-8673-7dfdb9aea096",
+      "time": "2026-09-24 08:47:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Brent"
+      ],
+      "text": "【Japan September manufacturing expansion slows; AI, chip demand underpin outlook】S&P Global preliminary manufacturing PMI fell to 54.1 in September from 54.9 in August, indicating slower but still robust expansion. Output growth slipped to a near three-month low and new orders growth eased to a four-month low, though both remained in expansion for a ninth consecutive month. New export orders stayed strong, leaving overseas demand supportive. Business confidence rose to its highest since February, driven by demand in AI, semiconductors, defence and autos. Employment continued to increase, lifting private‑sector employment growth to a seven‑month high. Firms said cost pressures eased slightly overall but flagged weak yen, Middle East tensions pushing up energy and commodity prices, and rising labour and transport costs."
+    },
+    {
+      "id": "5110736",
+      "time": "2026-09-24 08:45:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星移聯信連續完成A+、A++輪融資，合計融資數億元】9月23日，星移聯信航天科技（無錫）有限公司宣佈連續完成A+輪及A++輪融資，兩輪合計融資額數億元。A+輪由梁溪科創母基金二期（博華產投管理）領投，宇跡投資、清悅資本、松禾創投跟投；A++輪由國科投資領投，梅花創投、中車國創、創享投資、卓璞投資跟投。本輪融資將重點投向衛星通訊載荷產品迭代、衛星有效載荷系統總體能力提升、產能擴大和衛星應用業務拓展等。"
+    },
+    {
+      "id": "5110735",
+      "time": "2026-09-24 08:44:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【由於市場環境不利 Amaero推遲了其在美國的IPO】Amaero Inc. 已於當地時間2026年9月23日宣佈推遲其在美國的首次公開募股（IPO）計劃。公司表示，此次推遲主要是受到不利的市場條件影響。Amaero Inc. 是一家總部位於美國田納西州麥克唐納（McDonald）的專業材料製造商，專注於為增材製造（3D列印）及先進製造生產高價值的耐火金屬、鈦合金及特種合金球形粉末。"
+    },
     {
       "id": "5110734",
       "time": "2026-09-24 08:42:49",
@@ -116234,122 +116296,6 @@
         "國際"
       ],
       "text": "交易員表示，在美聯儲公佈利率決議後，對沖基金週三繼續平倉美元/日元空頭頭寸。"
-    },
-    {
-      "id": "5098656",
-      "time": "2026-09-17 08:48:46",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根士丹利表示，由於淨實現利潤上升和成品油裂解價差走強，泰國煉油商2026-2027年的盈利有望增長40%。"
-    },
-    {
-      "id": "mkt:01a0acd6-08da-7118-85cc-bd9d69ed0872",
-      "time": "2026-09-17 08:48:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Crude ETF holdings: Brent nominal exposure up for fourth straight day】Sept 16 — WTI (USO) nominal exposure about 21.25 mln barrels, up 0.64 mln barrels on the day; Brent (BNO) futures-linked holdings about 7.28 mln barrels, up 0.27 mln barrels. Full holdings available to track fund flows beyond crude price moves."
-    },
-    {
-      "id": "5098655",
-      "time": "2026-09-17 08:47:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報96.52美元/桶。"
-    },
-    {
-      "id": "5098654",
-      "time": "2026-09-17 08:47:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：市場對寧德時代的擔憂多已反映在股價 風險回報正具吸引力】Jefferies稱，受行業需求前景、市場份額和盈利能力的擔憂拖累，寧德時代股價下跌，但這些擔憂大部分已反映在股價中，當前風險回報正在變得有吸引力。儘管市場討論中國國內整車廠正在推動電池供應多元化，但寧德時代的全球市場份額仍在提升，且在質量和技術方面領先。"
-    },
-    {
-      "id": "mkt:01a0acd4-caa0-7118-85cc-b71a1b11e500",
-      "time": "2026-09-17 08:47:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Combined margin financing balance rises 9.18 bln yuan】As of Sept 16, Shanghai Stock Exchange margin financing stood at 1.3332 tln yuan, up 4.756 bln yuan from the previous trading day; Shenzhen margin financing was 1.2660 tln yuan, up 4.424 bln yuan; combined balance 2.5992 tln yuan, up 9.18 bln yuan."
-    },
-    {
-      "id": "5098653",
-      "time": "2026-09-17 08:46:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額增加91.8億元】截至9月16日，上交所融資餘額報13331.97億元，較前一交易日增加47.56億元；深交所融資餘額報12659.92億元，較前一交易日增加44.24億元；兩市合計25991.89億元，較前一交易日增加91.8億元。"
-    },
-    {
-      "id": "te:markets:584384",
-      "time": "2026-09-17 08:46:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Rise After Fed Decision — The Nikkei 225 Index climbed 0.5% to above 64,200, while the broader Topix Index advanced 1% to 4,100 on Thursday, extending gains from the previous session even after the US Federal Reserve raised interest rates and signaled further tightening to contain inflation. The yen weakened against the dollar following the Fed’s decision, improving the earnings outlook for Japan’s export-focused industries. Japanese equities also benefited from declining oil prices amid expectations that crude flows through Saudi Arabia’s East-West pipeline could resume soon, easing pressure on the country’s oil-dependent economy. Gains were broad-based, with notable performances from index heavyweights such as SoftBank Group (1.2%), Mitsubishi UFJ (0.6%), Fujikura (2.7%), Mitsubishi Heavy Industries (3.1%) and Nintendo (3.3%)."
-    },
-    {
-      "id": "te:economy:584383",
-      "time": "2026-09-17 08:45:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macau",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Macau Hikes Base Rate to 4.25% after Fed Move — The Macau Monetary Authority lifted the base rate by 25 bps to 4.25% on September 17, 2026, mirroring the decision of its Hong Kong counterpart after the US Federal Reserve delivered the expected 25 bps hike on September 16. It was the first interest rate hike since July 2023 in the Chinese special administrative region. The move comes amid easing GDP growth and slowing inflation. The latest data showed that Macau’s economy grew 0.3% year-on-year in Q2 2026, slowing sharply from a 7.1% expansion in Q1, while inflation eased for the second straight month to 1.12% in July 2026. Under the linked exchange rate system, Macau’s base rate is set at par with Hong Kong’s base rate, which is typically 50 basis points above the lower end of the target range for the US federal funds rate."
-    },
-    {
-      "id": "5098652",
-      "time": "2026-09-17 08:45:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【12306客服回應新增瀘州東站購票彈窗提醒】近日，多家媒體報道旅客建議將距離瀘州市區約30公里的瀘州東站改名一事，引發熱議。9月16日，在12306購買前往瀘州東站的車票過程中，新增一項彈窗頁面，提示稱“您所選‘瀘州東站’位於瀘縣雲錦鎮。請您仔細核對出行目的地，合理規劃行程。”對此，12306客服表示，該功能為近期新增。客服表示，“瀘州東站剛建成不久，旅客對其位置尚不熟悉，此前也無相關提示，故對此進行最佳化。”據此前報道，瀘州站、瀘州東站儘管只有一字之差，但後者距離瀘州市區約30公里。自渝昆高鐵渝宜段2024年開通以來，已有不少誤認為瀘州東站位於市區而“買錯票”“下錯站”的旅客建議修改站名。（中新經緯）"
-    },
-    {
-      "id": "5098651",
-      "time": "2026-09-17 08:45:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【茂業國際：2026年9月17日9時起短暫停牌】茂業國際公告，應公司要求，公司股份自2026年9月17日上午九時正（香港時間）起在香港聯合交易所有限公司短暫停牌，待根據收購守則發出構成內幕訊息的公告。"
-    },
-    {
-      "id": "5098649",
-      "time": "2026-09-17 08:44:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金博股份獲國內新能源一線新勢力主機廠碳陶製動盤定點】金博股份訊息，近日，金博股份再度收到國內新能源一線新勢力主機廠碳陶製動盤定點通知書，將為其專屬品牌開發、批次供應高階碳陶製動盤產品。截至2026年9月，金博股份汽車碳陶製動盤業務已累計獲得近20個定點及專案開發訂單。"
-    },
-    {
-      "id": "mkt:01a0acd2-dace-7118-85cc-ab8d75dfff86",
-      "time": "2026-09-17 08:44:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said if we win the U.S. midterm elections, we will give you $5,000."
     }
   ]
 }

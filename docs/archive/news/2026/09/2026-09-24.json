@@ -1,7 +1,69 @@
 {
   "date": "2026-09-24",
-  "count": 525,
+  "count": 531,
   "items": [
+    {
+      "id": "mkt:01a0d0e2-27ee-7118-8673-871a49a817f5",
+      "time": "2026-09-24 08:47:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China margin financing balances down 1.059 bln yuan】As of Sep 23, Shanghai Stock Exchange margin financing balance was 1,340.782 bln yuan, down 0.015 bln yuan from the previous session; Shenzhen Stock Exchange 1,276.028 bln yuan, down 1.044 bln yuan; combined mainland margin balance 2,616.81 bln yuan, down 1.059 bln yuan."
+    },
+    {
+      "id": "5110738",
+      "time": "2026-09-24 08:47:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少10.59億元】截至9月23日，上交所融資餘額報13407.82億元，較前一交易日減少0.15億元；深交所融資餘額報12760.28億元，較前一交易日減少10.44億元；兩市合計26168.1億元，較前一交易日減少10.59億元。"
+    },
+    {
+      "id": "5110737",
+      "time": "2026-09-24 08:47:43",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【越疆、凡拓數創等入股廣東省具身智慧科技公司】企查查APP顯示，近日，廣東省具身智慧科技有限公司發生工商變更，新增越疆、凡拓數創、中金嶺南等多名股東，同時註冊資本增至3億元。企查查資訊顯示，該公司成立於2025年，經營範圍包含人工智慧應用軟體開發；人工智慧基礎軟體開發；人工智慧理論與演算法軟體開發；網際網路資料服務等。"
+    },
+    {
+      "id": "mkt:01a0d0e1-53cb-7118-8673-7dfdb9aea096",
+      "time": "2026-09-24 08:47:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Brent"
+      ],
+      "text": "【Japan September manufacturing expansion slows; AI, chip demand underpin outlook】S&P Global preliminary manufacturing PMI fell to 54.1 in September from 54.9 in August, indicating slower but still robust expansion. Output growth slipped to a near three-month low and new orders growth eased to a four-month low, though both remained in expansion for a ninth consecutive month. New export orders stayed strong, leaving overseas demand supportive. Business confidence rose to its highest since February, driven by demand in AI, semiconductors, defence and autos. Employment continued to increase, lifting private‑sector employment growth to a seven‑month high. Firms said cost pressures eased slightly overall but flagged weak yen, Middle East tensions pushing up energy and commodity prices, and rising labour and transport costs."
+    },
+    {
+      "id": "5110736",
+      "time": "2026-09-24 08:45:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星移聯信連續完成A+、A++輪融資，合計融資數億元】9月23日，星移聯信航天科技（無錫）有限公司宣佈連續完成A+輪及A++輪融資，兩輪合計融資額數億元。A+輪由梁溪科創母基金二期（博華產投管理）領投，宇跡投資、清悅資本、松禾創投跟投；A++輪由國科投資領投，梅花創投、中車國創、創享投資、卓璞投資跟投。本輪融資將重點投向衛星通訊載荷產品迭代、衛星有效載荷系統總體能力提升、產能擴大和衛星應用業務拓展等。"
+    },
+    {
+      "id": "5110735",
+      "time": "2026-09-24 08:44:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【由於市場環境不利 Amaero推遲了其在美國的IPO】Amaero Inc. 已於當地時間2026年9月23日宣佈推遲其在美國的首次公開募股（IPO）計劃。公司表示，此次推遲主要是受到不利的市場條件影響。Amaero Inc. 是一家總部位於美國田納西州麥克唐納（McDonald）的專業材料製造商，專注於為增材製造（3D列印）及先進製造生產高價值的耐火金屬、鈦合金及特種合金球形粉末。"
+    },
     {
       "id": "5110734",
       "time": "2026-09-24 08:42:49",
