@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25 04:26:05",
-  "count": 12827,
+  "updated": "2026-09-25 04:29:55",
+  "count": 12820,
   "items": [
     {
       "id": "mkt:01a0d516-6cfe-7118-8690-e5bbaf506582",
@@ -116655,66 +116655,6 @@
         "Important"
       ],
       "text": "United States | US Treasuries held by Foreign Central Banks (Sep.11) | actual 18726000000B | previous -11146000000B"
-    },
-    {
-      "id": "te:markets:584715",
-      "time": "2026-09-18 04:29:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Closes Higher on Oil Pullback — Argentina’s unemployment rate rose to 7.9% in the second quarter of 2026, up from 7.8% in the previous quarter, although the change was not statistically significant. The employment rate edged up to 45.0% from 44.8%, while labor force participation increased to 48.9% from 48.6%. By region, unemployment was highest in the Pampas region at 9.7%, followed by Greater Buenos Aires at 8.2%. The jobless rate stood at 8.4% for women and 7.5% for men. Unemployment among women aged 14 to 29 reached 17.1%, while the rate for men in the same age group stood at 14.1%. By education level, the largest share of unemployment was among those with completed secondary education at 2.8% of the labor force. Regarding job-search duration, 2.4% of the labor force had been looking for work for more than a year. Meanwhile, unemployment in urban areas outside Greater Buenos Aires rose significantly, from 6.8% to 7.6%."
-    },
-    {
-      "id": "5100647",
-      "time": "2026-09-18 04:29:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國返還中方兩批64件文物藝術品和古生物化石】中國國家文物局16日和17日分別在中國駐美國大使館、中國駐紐約總領事館接收美方返還的兩批共64件（套）文物藝術品和古生物化石。（新華社）"
-    },
-    {
-      "id": "5100646",
-      "time": "2026-09-18 04:29:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家廣播電視臺否認了週四晚間哈爾克島附近發生爆炸的相關報道。"
-    },
-    {
-      "id": "5100645",
-      "time": "2026-09-18 04:28:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Claude 不會完全自主開展人工智慧研發工作。希望透過公開各項指標，樹立模型透明度標杆。達到或高於 “AI 協同” 標準的工作佔比超過 90%。"
-    },
-    {
-      "id": "5100644",
-      "time": "2026-09-18 04:27:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic 發現，僅有 0.002% 的智慧體決策被監控系統攔截。"
-    },
-    {
-      "id": "5100643",
-      "time": "2026-09-18 04:27:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：被停職的嘉能可高管曾敦促 Radiant 不要透過郵件溝通。"
-    },
-    {
-      "id": "5100642",
-      "time": "2026-09-18 04:26:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：設有一套系統，用以監督並干預智慧體的行為。  力求縮小前沿實驗室與公眾之間的認知差距，致力於完善人工智慧發展水平的衡量方式。約 3 萬個智慧體正在開展研究與工程工作。"
     }
   ]
 }
