@@ -1,7 +1,41 @@
 {
   "date": "2026-09-25",
-  "count": 73,
+  "count": 77,
   "items": [
+    {
+      "id": "mkt:01a0d448-9f22-7118-868c-b161254ba736",
+      "time": "2026-09-25 00:38:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Musk says SpaceX accelerating AI development, could reach leading position in ~6 months if growth persists】Musk said SpaceX will accelerate AI development and, if current growth persists, could reach a leading position in the field in about six months. He noted SpaceX's AI effort spans roughly three years versus Anthropic's six and OpenAI's ten, but said the company can still close the gap given its infrastructure strength. Musk flagged hardware and compute as the principal constraints on AI progress, saying rapid deployment of large-scale compute is difficult and that SpaceX will continue expanding its infrastructure. He added incremental gains in AI capability have limited value once they exceed task requirements."
+    },
+    {
+      "id": "5112467",
+      "time": "2026-09-25 00:38:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股走高 標普500指數率先轉漲】美股走高，標普500指數率先轉漲。截至目前，道瓊斯指數跌0.23%，標普500指數漲0.02%，納斯達克綜合指數跌0.09%。"
+    },
+    {
+      "id": "5112466",
+      "time": "2026-09-25 00:37:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Accel將牽頭Modal Labs新一輪融資，估值達150億美元。"
+    },
+    {
+      "id": "5112465",
+      "time": "2026-09-25 00:35:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克：我們的AI研發才進行了3年 迅速上線龐大算力極其困難】馬斯克發文稱：我們會持續加速。我們的AI研發才進行了3年，而Anthropic和OpenAI已經做了6到10年。如果我們的加速度（二階導數）保持強勁，SpaceX大約6個月後就能佔據領跑位置。他表示，一旦智慧水平遠超某類任務所需的標準，再增加智慧就毫無意義了。你不需要（把牛頓級別的智慧塞進烤麵包機裡也是件殘忍的事！）他還表示，硬體很難。迅速上線龐大的算力極其困難。SpaceX在這方面已經展現了卓越的能力，而且未來只會做得更好。"
+    },
     {
       "id": "5112464",
       "time": "2026-09-25 00:33:57",
