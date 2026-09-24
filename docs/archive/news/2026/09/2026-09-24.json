@@ -1,7 +1,248 @@
 {
   "date": "2026-09-24",
-  "count": 603,
+  "count": 629,
   "items": [
+    {
+      "id": "5110799",
+      "time": "2026-09-24 09:32:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【紡織製造板塊直線拉昇，華茂股份漲停】紡織製造板塊直線拉昇，華茂股份漲停，華生科技、迎豐股份、萬事利、華紡股份、諾邦股份等跟漲。"
+    },
+    {
+      "id": "5110798",
+      "time": "2026-09-24 09:32:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：9月中旬液化石油氣為7488.8元/噸，環比增長9.3%】據國家統計局，9月中旬流通領域重要生產資料市場價格中液化石油氣為7488.8元/噸，環比增長9.3%；液化天然氣為6222.6元/噸，環比增長3.0%；生豬（外三元）為10.7元/千克，環比下降2.7%；電解銅為108770.0元/噸，環比下降1.6%；螺紋鋼為3165.1元/噸，環比下降0.6%；複合肥為3610.6元/噸，環比下降0.2%。"
+    },
+    {
+      "id": "5110797",
+      "time": "2026-09-24 09:32:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞標普/ASX 200指數在就業資料公佈後跌幅收窄至1.1%。"
+    },
+    {
+      "id": "5110796",
+      "time": "2026-09-24 09:32:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省發展改革委召開服務業重點工作推進會】9月23日下午，浙江省發展改革委召開服務業重點工作推進會。會議強調，要突出重點特色，用好“二八定律”，因地制宜打造重點賽道、特色賽道。要聚焦主體和平臺，用好專業市場、數字經濟平臺等重要載體，推動發揮集聚示範引領作用。要堅持抓具體、具體抓，加快形成清晰具體的工作清單。要注重統分結合，加快謀劃推進一批標誌性成果。"
+    },
+    {
+      "id": "5110795",
+      "time": "2026-09-24 09:32:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【房地產板塊盤初走弱，華麗家族跌停】房地產板塊盤初走弱，華麗家族跌停，華遠控股、中天服務、香江控股、萬科Ａ、綠地控股、特發服務等跟跌。"
+    },
+    {
+      "id": "5110793",
+      "time": "2026-09-24 09:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳元在8月就業資料公佈後維持跌勢。"
+    },
+    {
+      "id": "mkt:01a0d109-2932-7118-8674-9acee6fc9b4e",
+      "time": "2026-09-24 09:30:33",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Australia Aug part-time employment +45.8k, previous -32.2k."
+    },
+    {
+      "id": "mkt:01a0d109-1028-7118-8674-97a64aa57788",
+      "time": "2026-09-24 09:30:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Part-Time Employment (Aug) | actual 45800K | previous -32200.000000000004K"
+    },
+    {
+      "id": "5110792",
+      "time": "2026-09-24 09:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞8月失業率為4.6%；預期為4.5%。"
+    },
+    {
+      "id": "mkt:01a0d108-e1c2-7118-8674-8e0e9754f696",
+      "time": "2026-09-24 09:30:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia August full-time employment -6,300; previous +16,300."
+    },
+    {
+      "id": "mkt:01a0d108-d97c-7118-8674-828e8e8c6699",
+      "time": "2026-09-24 09:30:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia August employment +39.5k; expected +20.0k; previous -15.8k."
+    },
+    {
+      "id": "5110791",
+      "time": "2026-09-24 09:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞8月就業人數環比增加39500人；預計增加20000人。"
+    },
+    {
+      "id": "mkt:01a0d108-d096-7118-8674-7bb9ba73bc03",
+      "time": "2026-09-24 09:30:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia August seasonally adjusted labour force participation rate 67.1% (expected 66.9%; prior 66.9%)."
+    },
+    {
+      "id": "mkt:01a0d108-d038-7118-8674-731cc3bd63b6",
+      "time": "2026-09-24 09:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia August seasonally adjusted unemployment rate 4.6% (expected 4.50%; prior 4.50%)."
+    },
+    {
+      "id": "5110790",
+      "time": "2026-09-24 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.21%， 10年期主力合約漲0.03%， 5年期主力合約漲0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5110789",
+      "time": "2026-09-24 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.49%， 滬深300指數期貨連續跌0.54%， 中證500指數期貨連續跌0.49%， 上證50指數期貨連續跌0.42%。"
+    },
+    {
+      "id": "mkt:01a0d108-abd1-7118-8674-69473dfc4bf2",
+      "time": "2026-09-24 09:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Full-Time Employment (Aug) | actual -6300K | previous 16299.999999999998K"
+    },
+    {
+      "id": "mkt:01a0d108-abcc-7118-8674-6311b4e1f207",
+      "time": "2026-09-24 09:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Labour Force Participation Rate SA (Aug) | actual 67.1% | consensus 66.90% | previous 66.90%"
+    },
+    {
+      "id": "mkt:01a0d108-abc7-7118-8674-5fe7c75ff956",
+      "time": "2026-09-24 09:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Employment (Aug) | actual 39500K | consensus 20000K | previous -15800K"
+    },
+    {
+      "id": "mkt:01a0d108-abc5-7118-8674-56ddda9c2acc",
+      "time": "2026-09-24 09:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Unemployment Rate SA (Aug) | actual 4.6% | consensus 4.50% | previous 4.50%"
+    },
+    {
+      "id": "mkt:01a0d108-aafd-7118-8674-4a5be4182167",
+      "time": "2026-09-24 09:30:01",
+      "tags": [
+        "MKT News",
+        "0992.HK",
+        "Impact mixed"
+      ],
+      "text": "【Omdia: Mainland China Q2 PC shipments +11% YoY to 11.4 mln】Omdia data show mainland China PC shipments rose 11% YoY in Q2 2026 to 11.4 mln units. Desktop shipments jumped 42% YoY to 4.3 mln, offsetting a 2% decline in notebook shipments to 7.1 mln. Tablet shipments fell 13% YoY to 8.0 mln, weighed by weak demand and ongoing supply challenges."
+    },
+    {
+      "id": "mkt:01a0d108-aae9-7118-8674-40cb02ddf80b",
+      "time": "2026-09-24 09:30:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share cultural and media sector opened with pockets of strength; Xinhua Media and Xinhua Winshare opened at limit-up, while Tianwei Video, Shiyibao and Inner Mongolia Xinhua opened higher."
+    },
+    {
+      "id": "5110788",
+      "time": "2026-09-24 09:30:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.01%。山路轉債、三江轉債、四方轉債、豪美轉債、麗島轉債漲幅居前，分別漲8.75%、0.95%、0.91%、0.90%、0.88%。聯瑞轉債、億田轉債、鼎龍轉債、優彩轉債、強達轉債跌幅居前，分別跌1.78%、1.44%、1.12%、0.89%、0.88%。"
+    },
+    {
+      "id": "5110787",
+      "time": "2026-09-24 09:29:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Omdia：二季度中國大陸PC出貨量同比增長11%至1140萬臺】Omdia最新資料，2026年第二季度，中國大陸PC出貨量同比增長11%，達到1140萬臺。其中，桌上型電腦出貨量大幅增長42%，抵消了膝上型電腦出貨量2%的下降，二者出貨量分別為430萬臺和710萬臺。與此同時，受需求疲軟及持續的供應挑戰影響，中國大陸平板電腦出貨量同比下降13%，至800萬臺。"
+    },
+    {
+      "id": "5110786",
+      "time": "2026-09-24 09:29:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊區域性高開，新華傳媒四連板】文化傳媒板塊區域性高開，新華傳媒、新華文軒漲停價開盤，天威視訊、生意寶、內蒙新華高開。"
+    },
+    {
+      "id": "5110785",
+      "time": "2026-09-24 09:29:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澳門特區立法會對歐盟發表《2025年澳門特區年度報告》表示強烈不滿和堅決反對】歐盟日前發表所謂《2025年澳門特區年度報告》，對第八屆立法會選舉等澳門特區事務妄加評論，澳門特區立法會對此表示強烈不滿和堅決反對。 澳門迴歸祖國以來，在中央政府的堅定支援和社會各界的共同努力下，“一國兩制”成功實踐取得的成就有目共睹。澳門特區第八屆立法會選舉在依法、公平、公正、廉潔的環境下順利舉行，廣大選民踴躍投票參與選舉。新一屆立法會與特區政府各司其職、密切溝通、相互配合，立法會議員依法積極履職，共同為澳門市民服務。 特區立法會選舉管理委員會就部分參選人作出不符合候選人資格的決定，是行使《立法會選舉法》所賦予的權力及落實“愛國者治澳”原則的體現。澳門特區居民的基本權利，包括選舉和被選舉的權利，受到澳門基本法及相關法律的充分保障。 特區立法會敦促歐盟恪守國際法原則和國際關係基本準則，停止干涉中國內政和澳門特區事務，以實際行動促進雙方關係穩定健康發展。（大灣區之聲）"
+    },
     {
       "id": "5110784",
       "time": "2026-09-24 09:28:24",
