@@ -1,7 +1,124 @@
 {
-  "updated": "2026-09-25 00:11:50",
-  "count": 12774,
+  "updated": "2026-09-25 00:15:45",
+  "count": 12779,
   "items": [
+    {
+      "id": "te:markets:586635",
+      "time": "2026-09-25 00:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Fall Further — European stocks closed lower on Thursday as soaring energy prices lifted benchmark rates. The Euro STOXX 50 fell 0.4% to 6,275, and the STOXX Europe 600 fell 0.5% to 637. Fuel and natural gas prices surged amid signs that the naval blockade in the Persian Gulf could be prolonged, in addition to signals from the US presidential administration that diesel exports could be banned. Sovereign yields extended their surge this week, weighing on the corporate sector. Infineon sank 4.2% and Siemens Energy dropped 1.7%, tracking the negative AI trade in North America. On top of that, banks were also mostly lower, with UniCredit and Deutsche Bank losing 1.6% and 2.3%, respectively. Meanwhile, Dior surged 16% after the Arnault family group announced a €469-per-share cash offer. Outside the eurozone, the SNB held rates as expected and pushed back against franc intervention, steadying Swiss banks. On the other hand, the Riksbank delivered a hawkish hold, and Norges Bank lifted its policy rate."
+    },
+    {
+      "id": "mkt:01a0d432-9b3f-7118-868c-74d51b209eb5",
+      "time": "2026-09-25 00:14:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources said Russia's Kuybyshev refinery has suspended crude processing after a drone strike on Sept. 22."
+    },
+    {
+      "id": "5112436",
+      "time": "2026-09-25 00:14:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯古比雪夫煉油廠自9月22日遭受無人機襲擊後，已暫停原油加工。"
+    },
+    {
+      "id": "mkt:01a0d431-d33e-7118-868c-6c580ac50ecd",
+      "time": "2026-09-25 00:13:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Google (GOOG.O): GKE intelligent-agent migration tool can convert Amazon Web Services' (AMZN.O) EKS infrastructure-as-code into GKE configuration by automatically creating pull requests."
+    },
+    {
+      "id": "5112435",
+      "time": "2026-09-25 00:13:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長：經濟放緩符合預期。"
+    },
+    {
+      "id": "5112434",
+      "time": "2026-09-25 00:12:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：GKE智慧遷移工具透過自動拉取請求，將AWS EKS基礎設施即程式碼轉換為GKE格式。"
+    },
+    {
+      "id": "5112433",
+      "time": "2026-09-25 00:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列訊息人士：對伊朗發動新一輪打擊似乎只是時間問題；若德黑蘭越過紅線，以色列將再次打擊其核設施。"
+    },
+    {
+      "id": "te:markets:586634",
+      "time": "2026-09-25 00:12:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.85% Lower — The FTSE MIB Index decreased 444 points or 0.85 percent on Thursday to close at 51543 points. The decline was led by Fincantieri (-5.47%), Prysmian (-3.83%) and Stellantis N.V. (-3.60%). On the upside, the strongest performers were Eni (1.39%), Poste Italiane (1.04%) and Tenaris (0.87%)."
+    },
+    {
+      "id": "mkt:01a0d430-5415-7118-868c-674dd3dc3764",
+      "time": "2026-09-25 00:12:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Two sources said Vitol became a major buyer of Iraqi crude in September, purchasing at least 25 million barrels."
+    },
+    {
+      "id": "mkt:01a0d42f-e1fe-7118-868c-5f4a9d57917f",
+      "time": "2026-09-25 00:11:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google (GOOG.O) announced an open-source migration tool for agents on GKE (Google Kubernetes Engine)."
+    },
+    {
+      "id": "5112432",
+      "time": "2026-09-25 00:11:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：宣佈推出開源GKE智慧遷移工具。"
+    },
     {
       "id": "te:economy:586633",
       "time": "2026-09-25 00:11:17",
@@ -116253,65 +116370,6 @@
         "國際"
       ],
       "text": "美國聯邦航空管理局批准波音公司請求，允許其額外銷售最多35架777F貨機。"
-    },
-    {
-      "id": "5100397",
-      "time": "2026-09-18 00:15:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【秘魯智庫稱2026年上半年非法黃金產量或首超合法產量，全年非法出口額恐達160億美元】利馬智庫IPE負責人卡洛斯·加拉多表示，根據港口出貨量與企業申報產量對比測算，2026年上半年秘魯非法黃金產量可能比合法產量高出8.7噸，系該國首次出現非法產量反超合法產量的情況。資料顯示，今年1月至6月秘魯合法黃金產量同比下降5.6%，而非法產量同期飆升19.4%。加拉多指出，作為南美最大黃金生產國，秘魯今年非法黃金出口額可能超過160億美元，約佔該國國內生產總值的3%至4%。"
-    },
-    {
-      "id": "te:economy:584693",
-      "time": "2026-09-18 00:14:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US 30-Year Mortgage Rate Rises Further — The US 30-year fixed-rate mortgage averaged 6.95% as of September 17th, 2026, rising for a fourth consecutive week and up from 6.76% in the previous week. The rate remains at its highest level since January 2025 and is inching closer to the 7% mark. A year ago, the 30-year fixed-rate mortgage averaged 6.26%. Following the Federal Reserve’s hike in its benchmark rate, borrowing costs show little sign of easing, weighing on prospective homebuyers. Meanwhile, the 15-year fixed-rate mortgage averaged 6.26%, also its highest level since January 2025, up from 6.09% last week and 5.41% a year earlier."
-    },
-    {
-      "id": "5100396",
-      "time": "2026-09-18 00:13:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "通用電氣航空首席財務官表示，預計新款GE9X發動機將在未來幾個月獲得美國聯邦航空管理局（FAA）的中期密封認證。"
-    },
-    {
-      "id": "5100395",
-      "time": "2026-09-18 00:13:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【佛州共和黨眾議員警告特朗普移民政策過激，拉美裔選區席位面臨挑戰】代表邁阿密的共和黨眾議員瑪麗亞·埃爾維拉·薩拉薩爾公開警告總統特朗普，稱其部分移民政策“做得太過分”，正疏遠曾助其勝選的拉美裔支持者。薩拉薩爾指出，7月被拘留的5萬人中約半數無犯罪記錄，強硬執法已令當地古巴裔和委內瑞拉裔社群感到被背叛，並重創地方經濟。資料顯示，6月至7月佛州移民逮捕約1.26萬人，其中僅16%有定罪記錄。儘管該選區在2024年大選中以15個百分點優勢支援特朗普，且被《庫克政治報告》評為“共和黨穩贏”，但薩拉薩爾目前面臨同為拉美裔的民主黨新人埃利奧特·羅德里格斯挑戰，內部民調顯示雙方支援率均約為45%，選情趨緊。薩拉薩爾強調並非要求赦免非法移民，而是呼籲更有尊嚴的執法方式，並警告若繼續當前政策，共和黨或在中期選舉中重演去年邁阿密市長選舉失利的局面。"
-    },
-    {
-      "id": "te:markets:584692",
-      "time": "2026-09-18 00:12:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.80% Higher — The FTSE MIB Index went up by 416 points or 0.80 percent on Thursday to close at 52386 points. The rise was led by Poste Italiane (3.55%), Telecom Italia (2.80%) and Stellantis N.V. (2.54%). On the downside, the weakerst performers were Davide Campari-Milano (-1.56%), Buzzi Unicem (-0.91%) and Tenaris (-0.71%)."
-    },
-    {
-      "id": "mkt:01a0b023-a464-7118-85e6-b9b89b626d5f",
-      "time": "2026-09-18 00:12:00",
-      "tags": [
-        "MKT News",
-        "GE.O",
-        "Impact bullish",
-        "BA.N"
-      ],
-      "text": "GE Aviation CFO said deliveries of GE9X engines fitted with newly improved intermediate seals to Boeing (BA.N) will begin in Q3."
     }
   ]
 }

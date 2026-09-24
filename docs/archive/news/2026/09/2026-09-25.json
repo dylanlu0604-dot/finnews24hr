@@ -1,7 +1,124 @@
 {
   "date": "2026-09-25",
-  "count": 27,
+  "count": 38,
   "items": [
+    {
+      "id": "te:markets:586635",
+      "time": "2026-09-25 00:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Fall Further — European stocks closed lower on Thursday as soaring energy prices lifted benchmark rates. The Euro STOXX 50 fell 0.4% to 6,275, and the STOXX Europe 600 fell 0.5% to 637. Fuel and natural gas prices surged amid signs that the naval blockade in the Persian Gulf could be prolonged, in addition to signals from the US presidential administration that diesel exports could be banned. Sovereign yields extended their surge this week, weighing on the corporate sector. Infineon sank 4.2% and Siemens Energy dropped 1.7%, tracking the negative AI trade in North America. On top of that, banks were also mostly lower, with UniCredit and Deutsche Bank losing 1.6% and 2.3%, respectively. Meanwhile, Dior surged 16% after the Arnault family group announced a €469-per-share cash offer. Outside the eurozone, the SNB held rates as expected and pushed back against franc intervention, steadying Swiss banks. On the other hand, the Riksbank delivered a hawkish hold, and Norges Bank lifted its policy rate."
+    },
+    {
+      "id": "mkt:01a0d432-9b3f-7118-868c-74d51b209eb5",
+      "time": "2026-09-25 00:14:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources said Russia's Kuybyshev refinery has suspended crude processing after a drone strike on Sept. 22."
+    },
+    {
+      "id": "5112436",
+      "time": "2026-09-25 00:14:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯古比雪夫煉油廠自9月22日遭受無人機襲擊後，已暫停原油加工。"
+    },
+    {
+      "id": "mkt:01a0d431-d33e-7118-868c-6c580ac50ecd",
+      "time": "2026-09-25 00:13:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "Google (GOOG.O): GKE intelligent-agent migration tool can convert Amazon Web Services' (AMZN.O) EKS infrastructure-as-code into GKE configuration by automatically creating pull requests."
+    },
+    {
+      "id": "5112435",
+      "time": "2026-09-25 00:13:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行行長：經濟放緩符合預期。"
+    },
+    {
+      "id": "5112434",
+      "time": "2026-09-25 00:12:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：GKE智慧遷移工具透過自動拉取請求，將AWS EKS基礎設施即程式碼轉換為GKE格式。"
+    },
+    {
+      "id": "te:markets:586634",
+      "time": "2026-09-25 00:12:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.85% Lower — The FTSE MIB Index decreased 444 points or 0.85 percent on Thursday to close at 51543 points. The decline was led by Fincantieri (-5.47%), Prysmian (-3.83%) and Stellantis N.V. (-3.60%). On the upside, the strongest performers were Eni (1.39%), Poste Italiane (1.04%) and Tenaris (0.87%)."
+    },
+    {
+      "id": "mkt:01a0d430-5415-7118-868c-674dd3dc3764",
+      "time": "2026-09-25 00:12:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Two sources said Vitol became a major buyer of Iraqi crude in September, purchasing at least 25 million barrels."
+    },
+    {
+      "id": "5112433",
+      "time": "2026-09-25 00:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列訊息人士：對伊朗發動新一輪打擊似乎只是時間問題；若德黑蘭越過紅線，以色列將再次打擊其核設施。"
+    },
+    {
+      "id": "mkt:01a0d42f-e1fe-7118-868c-5f4a9d57917f",
+      "time": "2026-09-25 00:11:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google (GOOG.O) announced an open-source migration tool for agents on GKE (Google Kubernetes Engine)."
+    },
+    {
+      "id": "5112432",
+      "time": "2026-09-25 00:11:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：宣佈推出開源GKE智慧遷移工具。"
+    },
     {
       "id": "te:economy:586633",
       "time": "2026-09-25 00:11:17",
