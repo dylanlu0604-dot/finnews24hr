@@ -1,7 +1,100 @@
 {
   "date": "2026-09-25",
-  "count": 7,
+  "count": 17,
   "items": [
+    {
+      "id": "mkt:01a0d42b-d69a-7118-868c-457e496cdba9",
+      "time": "2026-09-25 00:07:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports it has been granted entry to the White House."
+    },
+    {
+      "id": "te:markets:586630",
+      "time": "2026-09-25 00:07:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.23% Lower — The FTSE 100 Index decreased 24 points or 0.23 percent on Thursday to close at 10681 points. The decline was led by Standard Life (-4.54%), Rentokil Initial (-3.84%) and St. Jamess (-3.42%). On the upside, the strongest performers were JD Sports Fashion (4.37%), BP (2.62%) and Shell (1.73%)."
+    },
+    {
+      "id": "5112426",
+      "time": "2026-09-25 00:06:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行官員皮切蒂：2027年沒有出現重大衰退的前景。"
+    },
+    {
+      "id": "5112425",
+      "time": "2026-09-25 00:06:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司（Petrobras）CEO：公司無意增持巴西化工公司（Braskem）的股份。"
+    },
+    {
+      "id": "5112424",
+      "time": "2026-09-25 00:05:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "羅斯正在洽談出售F1邁阿密大獎賽20%的股份。"
+    },
+    {
+      "id": "5112423",
+      "time": "2026-09-25 00:05:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：CNN和MSNOW的記者現在已經重新進入了白宮園區。"
+    },
+    {
+      "id": "5112422",
+      "time": "2026-09-25 00:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "雷諾計劃推出五款新車型。"
+    },
+    {
+      "id": "te:markets:586628",
+      "time": "2026-09-25 00:04:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Oil is up by 5% — Brent Oil increased 5% to 108.232 USD/Bbl"
+    },
+    {
+      "id": "5112421",
+      "time": "2026-09-25 00:03:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲5%，現報96.77美元/桶。"
+    },
+    {
+      "id": "mkt:01a0d428-7f90-7118-868c-399af3350063",
+      "time": "2026-09-25 00:03:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BNP.PA",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "BNP Paribas signs five-year AI agreement with Google Cloud."
+    },
     {
       "id": "te:markets:586627",
       "time": "2026-09-25 00:01:56",

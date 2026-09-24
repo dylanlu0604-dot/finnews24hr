@@ -1,7 +1,100 @@
 {
-  "updated": "2026-09-25 00:03:56",
-  "count": 12770,
+  "updated": "2026-09-25 00:07:55",
+  "count": 12773,
   "items": [
+    {
+      "id": "mkt:01a0d42b-d69a-7118-868c-457e496cdba9",
+      "time": "2026-09-25 00:07:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports it has been granted entry to the White House."
+    },
+    {
+      "id": "te:markets:586630",
+      "time": "2026-09-25 00:07:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.23% Lower — The FTSE 100 Index decreased 24 points or 0.23 percent on Thursday to close at 10681 points. The decline was led by Standard Life (-4.54%), Rentokil Initial (-3.84%) and St. Jamess (-3.42%). On the upside, the strongest performers were JD Sports Fashion (4.37%), BP (2.62%) and Shell (1.73%)."
+    },
+    {
+      "id": "5112426",
+      "time": "2026-09-25 00:06:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行官員皮切蒂：2027年沒有出現重大衰退的前景。"
+    },
+    {
+      "id": "5112425",
+      "time": "2026-09-25 00:06:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司（Petrobras）CEO：公司無意增持巴西化工公司（Braskem）的股份。"
+    },
+    {
+      "id": "5112424",
+      "time": "2026-09-25 00:05:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "羅斯正在洽談出售F1邁阿密大獎賽20%的股份。"
+    },
+    {
+      "id": "5112423",
+      "time": "2026-09-25 00:05:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：CNN和MSNOW的記者現在已經重新進入了白宮園區。"
+    },
+    {
+      "id": "5112422",
+      "time": "2026-09-25 00:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "雷諾計劃推出五款新車型。"
+    },
+    {
+      "id": "te:markets:586628",
+      "time": "2026-09-25 00:04:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Oil is up by 5% — Brent Oil increased 5% to 108.232 USD/Bbl"
+    },
+    {
+      "id": "5112421",
+      "time": "2026-09-25 00:03:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲5%，現報96.77美元/桶。"
+    },
+    {
+      "id": "mkt:01a0d428-7f90-7118-868c-399af3350063",
+      "time": "2026-09-25 00:03:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BNP.PA",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "BNP Paribas signs five-year AI agreement with Google Cloud."
+    },
     {
       "id": "te:markets:586627",
       "time": "2026-09-25 00:01:56",
@@ -116214,67 +116307,6 @@
         "其他"
       ],
       "text": "通用電氣航空首席財務官表示，有信心GE9X發動機的中封問題不會影響我們推進波音777X明年投入運營的計劃。"
-    },
-    {
-      "id": "te:markets:584687",
-      "time": "2026-09-18 00:07:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 1.20% Higher — The FTSE 100 Index went up by 129 points or 1.20 percent on Thursday to close at 10817 points. The rise was led by Endeavour (3.66%), SSE (3.64%) and Anglo American (3.58%)."
-    },
-    {
-      "id": "5100390",
-      "time": "2026-09-18 00:07:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "軟貓公司（Softcat）將以10.5億美元（合7.85億英鎊）企業價值收購GDT。"
-    },
-    {
-      "id": "5100389",
-      "time": "2026-09-18 00:06:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用電氣首席財務官：公司將與供應商合作共同提升產能。"
-    },
-    {
-      "id": "5100388",
-      "time": "2026-09-18 00:05:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【喀麥隆極北大區發生襲擊致13人死亡】喀麥隆極北大區17日凌晨發生武裝襲擊事件，已造成13人死亡。“博科聖地”武裝分子於17日凌晨2時左右入侵洛貢-沙裡州的馬代瓜村發動襲擊。多年來，“博科聖地”等恐怖組織頻繁在查德湖地區製造針對平民和軍人的襲擊，對奈及利亞、喀麥隆和查德等國構成安全威脅。（新華社）"
-    },
-    {
-      "id": "5100387",
-      "time": "2026-09-18 00:05:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑理科技：公司在智慧穿戴晶片和物聯晶片領域均有多年的佈局】傑理科技釋出投資者關係活動記錄表，公司在智慧穿戴晶片和物聯晶片領域均有多年的佈局，已經推出AC701N、AC707N、AC791N、AC792N等多款受市場歡迎的晶片。公司將繼續加大研發投入，豐富研發技術，發掘產品應用場景，透過研發創新持續推出貼合市場需求的新產品，拓寬物聯網終端裝置的應用領域。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202609183877666774",
-      "time": "2026-09-18 00:04:54",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "房利美資料顯示，美國30年期固定利率抵押貸款在9月17日當週平均為6.95%，為2025年1月30日以來的最高水平，較前一週的6.76%上升。"
-    },
-    {
-      "id": "5100386",
-      "time": "2026-09-18 00:04:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錦好醫療：2026年上半年助聽器自有品牌收入佔比達到約30%】錦好醫療釋出投資者關係活動記錄表，公司持續深耕自有品牌戰略，2026年上半年助聽器自有品牌收入佔比達到約30%，且自有品牌線上C端業務取得了長足的進步，BTC、DTC等主要線上渠道自有品牌業務較上年同期增長超過60%，未來公司將持續堅定加大對自有品牌的投入力度。"
     }
   ]
 }
