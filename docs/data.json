@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-24 09:54:05",
-  "count": 12812,
+  "updated": "2026-09-24 09:58:05",
+  "count": 12808,
   "items": [
+    {
+      "id": "mkt:01a0d120-d5ea-7118-8675-27e78dab4008",
+      "time": "2026-09-24 09:56:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "000001.SS"
+      ],
+      "text": "China A-share semiconductor stocks rebounded: Xiandao Jidian hit the daily trading limit, Fulede rose more than 6%, and Kangqiang Electronics, Botong Integration and Suiyuan Technology‑U also advanced. Supply‑chain sources say TSMC will adjust wafer‑out prices by process from January 2027, lifting them about 3–6%."
+    },
+    {
+      "id": "em:jjsj_ozsj:202609243883441872",
+      "time": "2026-09-24 09:55:48",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "【澳大利亞8月失業率升至4.6% 就業人數增加3.9萬人】9月24日，澳大利亞統計局公佈資料顯示，澳大利亞8月季調失業率升至4.6%。當月就業人數增加3.9萬人，其中兼職就業增加4.6萬人，全職就業減少6000人。"
+    },
+    {
+      "id": "5110829",
+      "time": "2026-09-24 09:55:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外長：泰國仍希望就海洋權益主張與柬埔寨舉行會談。"
+    },
+    {
+      "id": "5110828",
+      "time": "2026-09-24 09:55:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量619億元。"
+    },
+    {
+      "id": "5110827",
+      "time": "2026-09-24 09:54:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【總重量超3500噸 我國最大直徑雙護盾硬巖掘進機下線】今天（24日），我國自主研製的最大直徑雙護盾硬巖掘進機“越喜號”在四川下線，它的開挖直徑達13.01米，整機總重量超3500噸，搭載全流程智慧建造體系，能靈活應對軟巖大變形、斷層破碎帶等複雜工況，將投入金口河至西昌高速公路越喜隧道施工。"
+    },
+    {
+      "id": "5110826",
+      "time": "2026-09-24 09:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦稱打擊阿富汗境內無人機設施】巴基斯坦新聞與廣播部長阿陶拉·塔拉爾24日在社交媒體上發文說，巴方對阿富汗境內10個用於發射和儲存無人機的地點實施了空襲。另據法新社當天援引阿富汗南部坎大哈市居民的話報道說，當天聽到飛機聲後，又聽到巨大爆炸聲，看到市中心燃起大火。"
+    },
+    {
+      "id": "mkt:01a0d11e-3c72-7118-8675-1a07267c8ba9",
+      "time": "2026-09-24 09:53:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share satellite-internet sector rallied intraday after China successfully launched 26 low-Earth-orbit (LEO) satellites for a satellite internet network. Leike Defense rose more than 9%; Guoci Materials, Lian Micro, Tianyin Electromechanical and Chuangyuan Xinke also advanced."
+    },
     {
       "id": "5110825",
       "time": "2026-09-24 09:53:02",
@@ -116307,104 +116376,6 @@
         "其他"
       ],
       "text": "【8部影片定檔2026國慶檔】電影《什麼意思夫婦》官宣定檔10月1日上映，據貓眼專業版上映日曆顯示，截至當前共8部影片定檔國慶檔上映。"
-    },
-    {
-      "id": "5098766",
-      "time": "2026-09-17 09:58:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股醫療、港股創新藥ETF佔據漲幅榜前10】ETF漲幅榜前10全部為港股創新藥ETF與港股醫療ETF，多隻港股創新藥ETF與港股醫療ETF漲超2%。"
-    },
-    {
-      "id": "5098765",
-      "time": "2026-09-17 09:57:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.03%，成分股中，惠豐鑽石跌5.47%，萬源通跌5.35%，科力股份跌4.58%，蘅東光跌4.52%。"
-    },
-    {
-      "id": "mkt:01a0ad13-c756-7118-85ce-8bcd0063f808",
-      "time": "2026-09-17 09:55:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Preview: State Council Information Office to brief on 140th Canton Fair on Sept. 18】State Council Information Office will hold a press briefing at 2:00 p.m. Beijing time on Sept. 18, 2026; MOFCOM assistant to the minister Zhang Li and Guangdong and Guangzhou officials will outline the 140th China Import and Export Fair (Canton Fair) and answer questions."
-    },
-    {
-      "id": "5098764",
-      "time": "2026-09-17 09:55:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【金飾克價微漲，老鳳祥克價1300元】9月17日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所上調，老鳳祥報價1300元/克，較前一日上漲5元；老廟黃金報價1293元/克，較前一日上漲3元；周生生報價1299元/克，前一日上漲4元。"
-    },
-    {
-      "id": "mkt:01a0ad13-02fa-7118-85ce-83cc1e92d3cd",
-      "time": "2026-09-17 09:54:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "300413.SZ",
-        "Impact bullish"
-      ],
-      "text": "A-share media sector strengthened in choppy trade; Inner Mongolia Xinhua hit the daily limit-up, while Xinhua Winshare, Mango Excellent Media, Longban Media and Chuanwang Media also rose."
-    },
-    {
-      "id": "5098762",
-      "time": "2026-09-17 09:54:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浪潮資訊成立元級智慧科技公司】企查查APP顯示，近日，浙江元級智慧科技有限公司成立，經營範圍包含資訊科技諮詢服務；網路技術服務；計算機軟硬體及輔助裝置批發；計算機軟硬體及輔助裝置零售等。企查查股權穿透顯示，該公司由浪潮資訊全資持股。"
-    },
-    {
-      "id": "te:markets:584405",
-      "time": "2026-09-17 09:54:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "HSBC Holdings Stock Price Hits 6-week Low — HSBC Holdings shares decreased to 158.70 HKD, the lowest since August 2026. Over the past 4 weeks, HSBC Holdings lost 1.91%, and in the last 12 months, it increased 48.32%."
-    },
-    {
-      "id": "5098761",
-      "time": "2026-09-17 09:54:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【8月訪日中國大陸游客暴減59%】日本國家旅遊局16日釋出估算資料稱，8月訪日外國人為309.89萬人次，較上年同期減少9.6%，時隔一個月同比減少。從國家和地區來看，人數最多的是韓國的85.05萬人次，增長28.7%。中國大陸游客為41.8萬人次，大減59.0%，連續9個月同比下滑。1至8月的訪日外國人累計為2762.63萬人次，較上年同期減少2.7%。（中國僑網）"
-    },
-    {
-      "id": "mkt:01a0ad12-55c6-7118-85ce-7eb51abe872e",
-      "time": "2026-09-17 09:54:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "【Where to Park Spare Cash? Money-market Yield Tracker】Tencent's Licaitong (Current+) 7-day annualized yield ranged 0.7140%–1.490%; WeChat Wallet's Lingqiantong 7-day annualized yield ranged 0.8670%–0.9990%; Alipay's Yu'ebao 7-day annualized yield ranged 0.9010%–1.0640%."
-    },
-    {
-      "id": "5098760",
-      "time": "2026-09-17 09:54:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【傳媒板塊震盪走強 內蒙新華漲停】傳媒板塊震盪走強，截至發稿，內蒙新華漲停，新華文軒、芒果超媒、龍版傳媒、川網傳媒等跟漲。"
-    },
-    {
-      "id": "5098759",
-      "time": "2026-09-17 09:54:05",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【預告：國新辦將於9月18日就第140屆廣交會有關情況舉行新聞釋出會】國務院新聞辦公室將於2026年9月18日（星期五）下午2時舉行新聞釋出會，請商務部部長助理張力和廣東省、廣州市有關負責人介紹第140屆中國進出口商品交易會（廣交會）有關情況，並答記者問。"
     }
   ]
 }

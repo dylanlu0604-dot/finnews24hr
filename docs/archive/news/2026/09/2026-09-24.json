@@ -1,7 +1,76 @@
 {
   "date": "2026-09-24",
-  "count": 675,
+  "count": 682,
   "items": [
+    {
+      "id": "mkt:01a0d120-d5ea-7118-8675-27e78dab4008",
+      "time": "2026-09-24 09:56:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "000001.SS"
+      ],
+      "text": "China A-share semiconductor stocks rebounded: Xiandao Jidian hit the daily trading limit, Fulede rose more than 6%, and Kangqiang Electronics, Botong Integration and Suiyuan Technology‑U also advanced. Supply‑chain sources say TSMC will adjust wafer‑out prices by process from January 2027, lifting them about 3–6%."
+    },
+    {
+      "id": "em:jjsj_ozsj:202609243883441872",
+      "time": "2026-09-24 09:55:48",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "【澳大利亞8月失業率升至4.6% 就業人數增加3.9萬人】9月24日，澳大利亞統計局公佈資料顯示，澳大利亞8月季調失業率升至4.6%。當月就業人數增加3.9萬人，其中兼職就業增加4.6萬人，全職就業減少6000人。"
+    },
+    {
+      "id": "5110829",
+      "time": "2026-09-24 09:55:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國外長：泰國仍希望就海洋權益主張與柬埔寨舉行會談。"
+    },
+    {
+      "id": "5110828",
+      "time": "2026-09-24 09:55:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量619億元。"
+    },
+    {
+      "id": "5110827",
+      "time": "2026-09-24 09:54:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【總重量超3500噸 我國最大直徑雙護盾硬巖掘進機下線】今天（24日），我國自主研製的最大直徑雙護盾硬巖掘進機“越喜號”在四川下線，它的開挖直徑達13.01米，整機總重量超3500噸，搭載全流程智慧建造體系，能靈活應對軟巖大變形、斷層破碎帶等複雜工況，將投入金口河至西昌高速公路越喜隧道施工。"
+    },
+    {
+      "id": "5110826",
+      "time": "2026-09-24 09:54:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦稱打擊阿富汗境內無人機設施】巴基斯坦新聞與廣播部長阿陶拉·塔拉爾24日在社交媒體上發文說，巴方對阿富汗境內10個用於發射和儲存無人機的地點實施了空襲。另據法新社當天援引阿富汗南部坎大哈市居民的話報道說，當天聽到飛機聲後，又聽到巨大爆炸聲，看到市中心燃起大火。"
+    },
+    {
+      "id": "mkt:01a0d11e-3c72-7118-8675-1a07267c8ba9",
+      "time": "2026-09-24 09:53:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share satellite-internet sector rallied intraday after China successfully launched 26 low-Earth-orbit (LEO) satellites for a satellite internet network. Leike Defense rose more than 9%; Guoci Materials, Lian Micro, Tianyin Electromechanical and Chuangyuan Xinke also advanced."
+    },
     {
       "id": "5110825",
       "time": "2026-09-24 09:53:02",
