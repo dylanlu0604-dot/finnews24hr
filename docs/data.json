@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-25 04:33:43",
-  "count": 12817,
+  "updated": "2026-09-25 04:37:34",
+  "count": 12818,
   "items": [
+    {
+      "id": "te:markets:586661",
+      "time": "2026-09-25 04:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.31% Lower — The Dow Jones Index decreased 162 points or 0.31 percent on Thursday to close at 51350 points. The decline was led by Walmart (-2.67%), IBM (-2.44%) and Sherwin-Williams (-1.90%). On the upside, the strongest performers were Walt Disney (2.03%), Visa (1.79%) and American Express (1.11%)."
+    },
+    {
+      "id": "5112737",
+      "time": "2026-09-25 04:33:15",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至9月18日當週外國央行持有美國國債 -113.7億美元，前值187.26億美元。"
+    },
     {
       "id": "mkt:01a0d51f-4136-7118-8690-f631356a66f8",
       "time": "2026-09-25 04:33:10",
@@ -116619,18 +116641,6 @@
         "AI Revolution"
       ],
       "text": "ANTHROPIC: As of August 2026, Claude accounted for 26% of AI R&D usage."
-    },
-    {
-      "id": "te:markets:584716",
-      "time": "2026-09-18 04:35:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.65% Higher — The Dow Jones Index went up by 335 points or 0.65 percent on Thursday to close at 51797 points. The rise was led by Nvidia (2.55%), Cisco Systems (2.30%) and Amazon (2.17%). On the downside, the weakerst performers were Salesforce (-3.07%), Boeing (-2.41%) and Walt Disney (-1.43%)."
     }
   ]
 }

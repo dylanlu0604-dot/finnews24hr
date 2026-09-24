@@ -1,7 +1,29 @@
 {
   "date": "2026-09-25",
-  "count": 375,
+  "count": 377,
   "items": [
+    {
+      "id": "te:markets:586661",
+      "time": "2026-09-25 04:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.31% Lower — The Dow Jones Index decreased 162 points or 0.31 percent on Thursday to close at 51350 points. The decline was led by Walmart (-2.67%), IBM (-2.44%) and Sherwin-Williams (-1.90%). On the upside, the strongest performers were Walt Disney (2.03%), Visa (1.79%) and American Express (1.11%)."
+    },
+    {
+      "id": "5112737",
+      "time": "2026-09-25 04:33:15",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至9月18日當週外國央行持有美國國債 -113.7億美元，前值187.26億美元。"
+    },
     {
       "id": "mkt:01a0d51f-4136-7118-8690-f631356a66f8",
       "time": "2026-09-25 04:33:10",
