@@ -1,7 +1,61 @@
 {
   "date": "2026-09-25",
-  "count": 523,
+  "count": 529,
   "items": [
+    {
+      "id": "5112840",
+      "time": "2026-09-25 07:51:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "據英國金融時報報道，甲骨文已為投資者在新墨西哥州資料中心專案做出承諾：即便該專案在投運前無法確保獲得電力供應，甲骨文仍會向投資者足額支付投資回報。"
+    },
+    {
+      "id": "5112839",
+      "time": "2026-09-25 07:50:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "基因療法後期研發企業ADARx Pharmaceuticals Inc. 正式公佈調高規模的首次公開募股（IPO）定價，成功募得 4.463 億美元。此項發售最終以其原定市場指導區間 15 至 17 美元的上限——即每股 17 美元 進行定價。"
+    },
+    {
+      "id": "5112838",
+      "time": "2026-09-25 07:48:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.12點。"
+    },
+    {
+      "id": "5112837",
+      "time": "2026-09-25 07:48:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤下跌0.1%。"
+    },
+    {
+      "id": "5112836",
+      "time": "2026-09-25 07:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓旗下智利埃斯康迪達銅礦：繼續評估逐步恢復採礦活動的條件。評估工作仍在推進，生產活動正逐步恢復。"
+    },
+    {
+      "id": "te:economy:586679",
+      "time": "2026-09-25 07:48:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Monthly GDP YoY",
+        "Importance 0"
+      ],
+      "text": "Argentina Economic Activity Falls in July — Argentina’s economic activity fell 1.4% year-over-year in July 2026, following an upwardly revised 3.1% increase in June, marking the first annual contraction since February. Seven of the 15 sectors surveyed recorded growth, led by fishing, which surged 424.5%, and mining and quarrying, which rose 8.4%. Agriculture, livestock, hunting and forestry increased 0.7%, while electricity, gas and water rose 1.9% and hotels and restaurants gained 2.5%. In contrast, wholesale and retail trade and repairs fell 5.1%, while manufacturing declined 4.6%, together subtracting 1.3 percentage points from overall growth. Construction dropped 3.3%, administration and defense fell 1.5%, and transport and communications decreased 1.5%. On a monthly basis, the EMAE fell 2.9% in seasonally adjusted terms, while the trend-cycle component increased 0.2%.The figures are from Argentina’s INDEC preliminary July 2026 report."
+    },
     {
       "id": "5112835",
       "time": "2026-09-25 07:47:33",
