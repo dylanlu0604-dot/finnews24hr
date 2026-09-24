@@ -1,7 +1,57 @@
 {
   "date": "2026-09-25",
-  "count": 457,
+  "count": 462,
   "items": [
+    {
+      "id": "te:markets:586667",
+      "time": "2026-09-25 06:45:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 2.09% — Top crypto gainers are XRP (2.09%) and Binance (1.31%). Biggest losers are Bitcoin (-0.33%) and Ether (-0.16%)."
+    },
+    {
+      "id": "mkt:01a0d597-8a4c-7118-8691-f239e2c57748",
+      "time": "2026-09-25 06:44:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell 3% intraday to $3.268/MMBtu."
+    },
+    {
+      "id": "mkt:01a0d596-0a5a-7118-8691-e937a15cc720",
+      "time": "2026-09-25 06:42:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "Fortune reports OpenAI plans to launch a product to help clients deploy GPT-6 Cyber more securely and with greater automation."
+    },
+    {
+      "id": "mkt:01a0d595-9431-7118-8691-e622ca380641",
+      "time": "2026-09-25 06:42:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fortune reports OpenAI is preparing to preview GPT-6 Cyber, a cybersecurity-dedicated model, in the coming days."
+    },
+    {
+      "id": "5112794",
+      "time": "2026-09-25 06:42:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 還將釋出一款新產品，幫助客戶以更安全、自動化的方式部署 GPT-6 Cyber。"
+    },
     {
       "id": "5112793",
       "time": "2026-09-25 06:41:38",

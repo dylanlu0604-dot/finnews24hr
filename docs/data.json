@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-25 06:42:35",
-  "count": 12833,
+  "updated": "2026-09-25 06:46:24",
+  "count": 12823,
   "items": [
+    {
+      "id": "te:markets:586667",
+      "time": "2026-09-25 06:45:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 2.09% — Top crypto gainers are XRP (2.09%) and Binance (1.31%). Biggest losers are Bitcoin (-0.33%) and Ether (-0.16%)."
+    },
+    {
+      "id": "mkt:01a0d597-8a4c-7118-8691-f239e2c57748",
+      "time": "2026-09-25 06:44:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures fell 3% intraday to $3.268/MMBtu."
+    },
+    {
+      "id": "mkt:01a0d596-0a5a-7118-8691-e937a15cc720",
+      "time": "2026-09-25 06:42:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "Fortune reports OpenAI plans to launch a product to help clients deploy GPT-6 Cyber more securely and with greater automation."
+    },
+    {
+      "id": "mkt:01a0d595-9431-7118-8691-e622ca380641",
+      "time": "2026-09-25 06:42:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fortune reports OpenAI is preparing to preview GPT-6 Cyber, a cybersecurity-dedicated model, in the coming days."
+    },
+    {
+      "id": "5112794",
+      "time": "2026-09-25 06:42:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 還將釋出一款新產品，幫助客戶以更安全、自動化的方式部署 GPT-6 Cyber。"
+    },
     {
       "id": "5112793",
       "time": "2026-09-25 06:41:38",
@@ -116607,149 +116657,6 @@
         "其他"
       ],
       "text": "白宮撤回前達美航空飛行員傑弗裡・安德森擔任重要國際航空職位的提名。"
-    },
-    {
-      "id": "5100716",
-      "time": "2026-09-18 06:46:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美方稱沙特遭襲輸油管道將較快恢復執行】 當地時間17日，據美國方面訊息，美國能源部長賴特表示，日前遭無人機襲擊受損的沙烏地阿拉伯東西輸油管道預計將“相對較快”地恢復執行。沙特東西輸油管道10日遭無人機襲擊後被迫停運，該管道可幫助沙特繞開霍爾木茲海峽向外出口石油。此前有訊息稱，這條管道可能需要長達5周的修復後才能恢復執行。賴特對此表示，管道有3座泵站遭到襲擊，其中兩座受損較輕，預計這條管道會“相對較快”地恢復執行。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0b18c-694e-7118-85ea-9ccc2550ca8f",
-      "time": "2026-09-18 06:46:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand food price index Aug YoY 1.9%, unchanged from prior 1.9%."
-    },
-    {
-      "id": "mkt:01a0b18c-4caa-7118-85ea-90b07d4946a1",
-      "time": "2026-09-18 06:45:56",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Food Price Index (YoY) (Aug) | actual 1.9% | previous 1.9%"
-    },
-    {
-      "id": "5100715",
-      "time": "2026-09-18 06:45:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭8月12個月貿易帳 -54.42億紐元，前值 -52.36億紐元。\n紐西蘭8月進口 80億紐元，前值 93.4億紐元。\n紐西蘭8月出口 66.6億紐元，前值 73.9億紐元。\n紐西蘭8月貿易帳 -13.49億紐元，前值 -19.49億紐元。"
-    },
-    {
-      "id": "mkt:01a0b18b-bd87-7118-85ea-8c648c5aa031",
-      "time": "2026-09-18 06:45:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand August imports NZ$8.0 bln; prior figure revised from NZ$9.34 bln to NZ$9.33 bln."
-    },
-    {
-      "id": "te:markets:584726",
-      "time": "2026-09-18 06:45:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Rises by 1.26% — Top crypto gainers are Binance (1.26%), Ether (1.13%) and Bitcoin (0.28%)."
-    },
-    {
-      "id": "mkt:01a0b18b-b1bf-7118-85ea-87b5413b4ca8",
-      "time": "2026-09-18 06:45:17",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "New Zealand August trade balance -NZD1.349bn; July revised from -NZD1.949bn to -NZD2.118bn."
-    },
-    {
-      "id": "mkt:01a0b18b-af0c-7118-85ea-782b04336c97",
-      "time": "2026-09-18 06:45:16",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "New Zealand 12-month trade balance to August: NZD -5.44 bln; prior revised from NZD -5.236 bln to NZD -5.41 bln."
-    },
-    {
-      "id": "mkt:01a0b18b-9fb9-7118-85ea-77c584f885b4",
-      "time": "2026-09-18 06:45:12",
-      "tags": [
-        "MKT News",
-        "NZDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "New Zealand August food price index MoM 0.3%, prior 0.10%."
-    },
-    {
-      "id": "mkt:01a0b18b-9f88-7118-85ea-6d2b4406bee0",
-      "time": "2026-09-18 06:45:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand August exports NZD 6.66 bln; prior figure revised down from NZD 7.39 bln to NZD 7.22 bln."
-    },
-    {
-      "id": "mkt:01a0b18b-71f8-7118-85ea-640aa8fab37e",
-      "time": "2026-09-18 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Imports (Aug) | actual 8000000000B | previous 9340000000B"
-    },
-    {
-      "id": "mkt:01a0b18b-71ef-7118-85ea-58b0d8caaa4a",
-      "time": "2026-09-18 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Exports (Aug) | actual 6659999999.999999B | previous 7390000000.000001B"
-    },
-    {
-      "id": "mkt:01a0b18b-71ee-7118-85ea-54c8abe0138b",
-      "time": "2026-09-18 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | 12-Month Trade Balance (Aug) | actual -5440000000B | previous -5236000000B"
-    },
-    {
-      "id": "mkt:01a0b18b-71e5-7118-85ea-4eebc2cafcdb",
-      "time": "2026-09-18 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Trade Balance (Aug) | actual -1349000000B | previous -1949000000B"
-    },
-    {
-      "id": "mkt:01a0b18b-71df-7118-85ea-4508990178ad",
-      "time": "2026-09-18 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Food Price Index (MoM) (Aug) | actual 0.3% | previous 0.10%"
     }
   ]
 }
