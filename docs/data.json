@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-25 06:46:24",
-  "count": 12823,
+  "updated": "2026-09-25 06:50:12",
+  "count": 12824,
   "items": [
+    {
+      "id": "5112796",
+      "time": "2026-09-25 06:47:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨下跌 4%，交易價格接近 3.156 美元。"
+    },
+    {
+      "id": "5112795",
+      "time": "2026-09-25 06:46:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普、眾議院議長約翰遜將於9月29日與科技界CEO們開會，討論AI問題。"
+    },
+    {
+      "id": "mkt:01a0d599-426c-7118-8691-f82d72a6d958",
+      "time": "2026-09-25 06:46:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios reports President Trump, House Speaker Johnson and tech CEOs are set to meet on Sept. 29 to discuss artificial intelligence."
+    },
     {
       "id": "te:markets:586667",
       "time": "2026-09-25 06:45:00",
@@ -116641,22 +116669,6 @@
         "Impact bullish"
       ],
       "text": "YONHAP reports South Korea's foreign minister will meet U.S. Secretary of State Rubio today; discussions are expected to cover Seoul's investment projects in the United States and security issues including the Strait of Hormuz."
-    },
-    {
-      "id": "5100718",
-      "time": "2026-09-18 06:49:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞馬遜加入AI安全討論 呼籲模型釋出前嚴格測試】亞馬遜表示，人工智慧模型只有在經過嚴格測試後才應釋出。在多家頂尖AI實驗室因安全漏洞呼籲放慢開發速度後，該公司也加入了有關AI發展步伐的討論。“我們並不認為進步與安全之間只能二選一，”亞馬遜發言人Tom Parnell在電子郵件中表示。“模型應當在準備就緒並能夠安全使用時才釋出，而這需要嚴格測試和強有力的防護措施。如果不能共同做到這一點，就會存在風險。我們相信，作為一個行業，在與政府合作之下，我們將共同確立恰當的保護措施。”亞馬遜是多家領先AI公司的合作伙伴和投資者，其中包括OpenAI和Anthropic PBC。這些公司的高管已呼籲放慢尖端AI的開發步伐，以評估這項技術的安全性。"
-    },
-    {
-      "id": "5100717",
-      "time": "2026-09-18 06:46:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮撤回前達美航空飛行員傑弗裡・安德森擔任重要國際航空職位的提名。"
     }
   ]
 }

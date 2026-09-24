@@ -1,7 +1,35 @@
 {
   "date": "2026-09-25",
-  "count": 462,
+  "count": 465,
   "items": [
+    {
+      "id": "5112796",
+      "time": "2026-09-25 06:47:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨下跌 4%，交易價格接近 3.156 美元。"
+    },
+    {
+      "id": "5112795",
+      "time": "2026-09-25 06:46:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普、眾議院議長約翰遜將於9月29日與科技界CEO們開會，討論AI問題。"
+    },
+    {
+      "id": "mkt:01a0d599-426c-7118-8691-f82d72a6d958",
+      "time": "2026-09-25 06:46:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios reports President Trump, House Speaker Johnson and tech CEOs are set to meet on Sept. 29 to discuss artificial intelligence."
+    },
     {
       "id": "te:markets:586667",
       "time": "2026-09-25 06:45:00",
