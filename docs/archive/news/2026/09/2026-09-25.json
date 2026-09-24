@@ -1,7 +1,34 @@
 {
   "date": "2026-09-25",
-  "count": 454,
+  "count": 457,
   "items": [
+    {
+      "id": "5112793",
+      "time": "2026-09-25 06:41:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 正準備在未來幾天預覽其最新的網路安全專用模型 GPT-6 Cyber。"
+    },
+    {
+      "id": "te:markets:586666",
+      "time": "2026-09-25 06:40:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Rises by 3.23% — Top commodity gainers are Rubber (3.23%), Rice (1.50%) and Barley (1.46%). Biggest losers are Sunflower Oil (-1.82%) and Butter (-1.16%)."
+    },
+    {
+      "id": "5112792",
+      "time": "2026-09-25 06:38:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚： 我們從未謀求戰爭，現在也不想要戰爭。我深信人類不應互相殘殺。但凡可以透過對話解決問題，就不該訴諸殺戮。但在以色列的煽動之下，這場戰爭被強加於我們。我們並不希望戰事持續。是否結束衝突，決定權在美國。"
+    },
     {
       "id": "5112791",
       "time": "2026-09-25 06:37:50",
