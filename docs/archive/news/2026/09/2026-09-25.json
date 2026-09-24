@@ -1,7 +1,104 @@
 {
   "date": "2026-09-25",
-  "count": 17,
+  "count": 27,
   "items": [
+    {
+      "id": "te:economy:586633",
+      "time": "2026-09-25 00:11:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US 30-Year Mortgage Rate Climbs Above 7% — The US 30-year fixed-rate mortgage averaged 7.03% as of September 24th, 2026, rising above 7% for the first time since January 2025 and up from 6.95% in the previous week. Following increasing concerns over inflationary pressures, broader selloffs in the global government debt market pushed the 10-Year Treasury note above 5% to the highest level in nearly two decades. As a result, a climb in mortgage rates continues to weigh on prospective homebuyers. A year ago, the the 30-year fixed-rate mortgage averaged 6.3%. Meanwhile, the 15-year fixed-rate mortgage averaged 6.42%, its highest level since May 2024, up from 6.26% last week."
+    },
+    {
+      "id": "te:markets:586632",
+      "time": "2026-09-25 00:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.57% Lower — The DAX Index fell 144 points or 0.57 percent on Thursday to close at 25267 points. Leading the losses are Infineon (-4.25%), Rheinmetall (-3.19%) and Volkswagen (-2.77%). Top gainers were Beiersdorf (2.98%), Munich RE (1.79%) and Hannover Rueck (1.74%)."
+    },
+    {
+      "id": "5112431",
+      "time": "2026-09-25 00:11:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "參議員沃倫與布盧門塔爾就“阿達尼100億美元利益交換”一事向美國司法部施壓。"
+    },
+    {
+      "id": "te:markets:586631",
+      "time": "2026-09-25 00:10:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.51% Lower — The CAC 40 Index dropped 42 points or 0.51 percent on Thursday to close at 8082 points. Losses were led by Stellantis NV (-3.56%), Societe Generale (-3.54%) and Essilor (-2.83%). Offsetting the fall, top gainers were Eurofins Scientific SE (2.05%), TotalEnergies SE (2.03%) and AXA (1.18%)."
+    },
+    {
+      "id": "mkt:01a0d42e-05e0-7118-868c-50c45b16cf9d",
+      "time": "2026-09-25 00:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Brazil central bank official said there is no significant prospect of a recession in 2027."
+    },
+    {
+      "id": "5112430",
+      "time": "2026-09-25 00:08:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國：宣佈為加沙地帶的人道主義救援與戰後初期重建推出大規模援助方案  。"
+    },
+    {
+      "id": "mkt:01a0d42c-c19a-7118-868c-4fe156ab0603",
+      "time": "2026-09-25 00:08:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures jumped 5.00% intraday to $96.77/bbl."
+    },
+    {
+      "id": "5112429",
+      "time": "2026-09-25 00:08:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐萊雅BOLD基金與Nykaa將入股美妝初創企業（取得少數股權）。"
+    },
+    {
+      "id": "5112428",
+      "time": "2026-09-25 00:07:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中設諮詢：公司海外拓展的總體思路是“穩步探索”】中設諮詢釋出投資者關係活動記錄表，公司海外拓展的總體思路是“穩步探索”，依託工程諮詢全鏈條服務能力和成熟技術標準體系，以專案為載體深化區域市場合作。在風險管理方面，公司對境外專案嚴格執行合同評審與履約管控，綜合評估履約風險。目前未針對境外專案單獨設定明確的盈利或現金回收量化門檻。海外業務推進存在不確定性，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "5112427",
+      "time": "2026-09-25 00:07:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "Nykaa與歐萊雅BOLD基金將聯合投資印度美妝品牌。"
+    },
     {
       "id": "mkt:01a0d42b-d69a-7118-868c-457e496cdba9",
       "time": "2026-09-25 00:07:17",

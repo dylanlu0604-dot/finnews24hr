@@ -1,7 +1,104 @@
 {
-  "updated": "2026-09-25 00:07:55",
-  "count": 12773,
+  "updated": "2026-09-25 00:11:50",
+  "count": 12774,
   "items": [
+    {
+      "id": "te:economy:586633",
+      "time": "2026-09-25 00:11:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US 30-Year Mortgage Rate Climbs Above 7% — The US 30-year fixed-rate mortgage averaged 7.03% as of September 24th, 2026, rising above 7% for the first time since January 2025 and up from 6.95% in the previous week. Following increasing concerns over inflationary pressures, broader selloffs in the global government debt market pushed the 10-Year Treasury note above 5% to the highest level in nearly two decades. As a result, a climb in mortgage rates continues to weigh on prospective homebuyers. A year ago, the the 30-year fixed-rate mortgage averaged 6.3%. Meanwhile, the 15-year fixed-rate mortgage averaged 6.42%, its highest level since May 2024, up from 6.26% last week."
+    },
+    {
+      "id": "5112431",
+      "time": "2026-09-25 00:11:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "參議員沃倫與布盧門塔爾就“阿達尼100億美元利益交換”一事向美國司法部施壓。"
+    },
+    {
+      "id": "te:markets:586632",
+      "time": "2026-09-25 00:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.57% Lower — The DAX Index fell 144 points or 0.57 percent on Thursday to close at 25267 points. Leading the losses are Infineon (-4.25%), Rheinmetall (-3.19%) and Volkswagen (-2.77%). Top gainers were Beiersdorf (2.98%), Munich RE (1.79%) and Hannover Rueck (1.74%)."
+    },
+    {
+      "id": "te:markets:586631",
+      "time": "2026-09-25 00:10:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.51% Lower — The CAC 40 Index dropped 42 points or 0.51 percent on Thursday to close at 8082 points. Losses were led by Stellantis NV (-3.56%), Societe Generale (-3.54%) and Essilor (-2.83%). Offsetting the fall, top gainers were Eurofins Scientific SE (2.05%), TotalEnergies SE (2.03%) and AXA (1.18%)."
+    },
+    {
+      "id": "mkt:01a0d42e-05e0-7118-868c-50c45b16cf9d",
+      "time": "2026-09-25 00:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Brazil central bank official said there is no significant prospect of a recession in 2027."
+    },
+    {
+      "id": "5112430",
+      "time": "2026-09-25 00:08:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國：宣佈為加沙地帶的人道主義救援與戰後初期重建推出大規模援助方案  。"
+    },
+    {
+      "id": "mkt:01a0d42c-c19a-7118-868c-4fe156ab0603",
+      "time": "2026-09-25 00:08:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures jumped 5.00% intraday to $96.77/bbl."
+    },
+    {
+      "id": "5112429",
+      "time": "2026-09-25 00:08:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐萊雅BOLD基金與Nykaa將入股美妝初創企業（取得少數股權）。"
+    },
+    {
+      "id": "5112428",
+      "time": "2026-09-25 00:07:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中設諮詢：公司海外拓展的總體思路是“穩步探索”】中設諮詢釋出投資者關係活動記錄表，公司海外拓展的總體思路是“穩步探索”，依託工程諮詢全鏈條服務能力和成熟技術標準體系，以專案為載體深化區域市場合作。在風險管理方面，公司對境外專案嚴格執行合同評審與履約管控，綜合評估履約風險。目前未針對境外專案單獨設定明確的盈利或現金回收量化門檻。海外業務推進存在不確定性，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "5112427",
+      "time": "2026-09-25 00:07:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "Nykaa與歐萊雅BOLD基金將聯合投資印度美妝品牌。"
+    },
     {
       "id": "mkt:01a0d42b-d69a-7118-868c-457e496cdba9",
       "time": "2026-09-25 00:07:17",
@@ -116215,98 +116312,6 @@
         "BA.N"
       ],
       "text": "GE Aviation CFO said deliveries of GE9X engines fitted with newly improved intermediate seals to Boeing (BA.N) will begin in Q3."
-    },
-    {
-      "id": "te:markets:584691",
-      "time": "2026-09-18 00:11:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.70% Higher — The DAX Index rose 179 points or 0.70 percent on Thursday to close at 25717 points. Leading the gains are Porsche Automobil (4.32%), Qiagen NV (3.82%) and Siemens Energy (3.41%). Top losers were Fresenius Medical Care (-2.57%), Deutsche Telekom (-1.87%) and Adidas (-1.56%)."
-    },
-    {
-      "id": "te:economy:584690",
-      "time": "2026-09-18 00:11:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Yield Falls After Selic Cut — Brazil's 10-year government bond yield fell to 14.25% from the two-week high of 14.5% on September 15th amid a pullback in energy prices and rate cut by the Central Bank of Brazil. The BCB cut its rate by 25bps to 13.75% and left its next steps open, saying that the current environment of uncertainty calls for composure and caution in the conduct of monetary policy. It was the final monetary policy meeting before the presidential election in October. Yields were also pressured by a pullback in oil prices, limiting the risks of a hawkish turn by the central bank. Meanwhile, gains by Flávio Bolsonaro in recent presidential election polls have supported Brazilian bonds, as markets view Bolsonaro as fiscally restrictive, while elevated domestic yields and weak business activity continue to weigh on the economic outlook."
-    },
-    {
-      "id": "te:markets:584689",
-      "time": "2026-09-18 00:10:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Cocoa Hits 4-week Low — Cocoa decreased to 5711.00 USD/T, the lowest since August 2026. Over the past 4 weeks, Cocoa lost 2.62%, and in the last 12 months, it decreased 20.31%."
-    },
-    {
-      "id": "5100394",
-      "time": "2026-09-18 00:10:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美中央司令部稱已改道104艘商船】當地時間9月17日，美國中央司令部發布照片表示，一架 F/A-18F“超級大黃蜂”戰鬥機從“喬治·H·W·布什”號航空母艦的飛行甲板上起飛；該艦目前在相關海域航行，繼續支援執行美國針對伊朗的封鎖行動。截至9月17日，美國中央司令部已引導104艘商船改變航向，以確保其嚴格遵守相關規定。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0b022-0364-7118-85e6-b6832db9bd32",
-      "time": "2026-09-18 00:10:14",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UK Maritime Trade Operations said it received a report of an incident 75 nm east of Aden, Yemen. A westbound tanker reported a small boat chased it and attempted to intercept the vessel."
-    },
-    {
-      "id": "te:markets:584688",
-      "time": "2026-09-18 00:10:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.60% Higher — The CAC 40 Index gained 48 points or 0.60 percent on Thursday to close at 8189 points. Gains were led by Schneider Electric (3.03%), Eurofins Scientific SE (2.92%) and Stellantis NV (2.63%). Biggest losers were Essilor (-2.74%), Dassault Systemes (-1.53%) and Bureau Veritas (-1.08%)."
-    },
-    {
-      "id": "5100393",
-      "time": "2026-09-18 00:09:51",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）：一艘西行油輪報告稱，一艘小艇追蹤並試圖攔截該船。"
-    },
-    {
-      "id": "5100392",
-      "time": "2026-09-18 00:09:02",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英國海上貿易行動辦公室：收到一則事件報告，事發地點位於葉門亞丁以東 75 海里處。"
-    },
-    {
-      "id": "5100391",
-      "time": "2026-09-18 00:08:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用電氣航空首席財務官表示，有信心GE9X發動機的中封問題不會影響我們推進波音777X明年投入運營的計劃。"
     }
   ]
 }
