@@ -1,7 +1,81 @@
 {
-  "updated": "2026-09-25 00:19:43",
-  "count": 12783,
+  "updated": "2026-09-25 00:23:45",
+  "count": 12787,
   "items": [
+    {
+      "id": "mkt:01a0d43a-2308-7118-868c-79b8edd500c3",
+      "time": "2026-09-25 00:22:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported the Iranian and Jordanian foreign ministers met on the sidelines of the 81st UN General Assembly to discuss related issues."
+    },
+    {
+      "id": "5112451",
+      "time": "2026-09-25 00:22:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普政府表示，媒體進入白宮的許可權已恢復。"
+    },
+    {
+      "id": "5112450",
+      "time": "2026-09-25 00:22:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "法官曾臨時解除特朗普對CNN、MS NOW及Politico的禁令。"
+    },
+    {
+      "id": "5112449",
+      "time": "2026-09-25 00:22:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "新聞機構此前曾向法庭表示，他們在週四被拒絕入內。"
+    },
+    {
+      "id": "5112448",
+      "time": "2026-09-25 00:21:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽重開談判報道引發市場風險偏好回升】有報道稱美國和伊朗正探討分階段達成協議以重新開放霍爾木茲海峽後，市場突然出現一波風險偏好回升的浪潮。標普500指數大幅收窄跌幅，而原油價格和收益率則從早間高點回落，其中兩年期品種領跌。彭博美元現貨指數也從盤中高點回落。"
+    },
+    {
+      "id": "5112447",
+      "time": "2026-09-25 00:20:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰克曼（南京）安防技術股份有限公司啟動上市輔導】據證監會官網顯示，泰克曼（南京）安防技術股份有限公司於2026年9月24日正式啟動上市輔導，廣發證券擔任輔導機構。"
+    },
+    {
+      "id": "5112446",
+      "time": "2026-09-25 00:20:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：美伊雙方都不願率先放棄手中的籌碼。"
+    },
+    {
+      "id": "5112445",
+      "time": "2026-09-25 00:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "新興市場外匯指數收窄跌幅，美元和原油價格收窄漲幅。"
+    },
+    {
+      "id": "5112444",
+      "time": "2026-09-25 00:19:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥斯大黎加總統勞拉·費爾南德斯解除外交部長曼努埃爾·託瓦爾的職務。"
+    },
     {
       "id": "5112443",
       "time": "2026-09-25 00:19:03",
@@ -116353,54 +116427,6 @@
         "國際"
       ],
       "text": "美國加州州長紐森：印第安納州汽油價格一夜暴漲 17 美分，真是好一齣好戲啊特朗普！"
-    },
-    {
-      "id": "mkt:01a0b02e-543d-7118-85e6-cd7a7c5a14f8",
-      "time": "2026-09-18 00:23:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【US 30-year mortgage rate rises for fourth week, nears 7%】Freddie Mac said Thursday the average 30-year fixed mortgage rate rose to 6.95% from 6.76% a week earlier, the highest level since January 2025 and up from 6.26% a year ago. The increase follows the Fed’s 25bp rate hike on Wednesday and bolsters market expectations that borrowing costs may not fall in the near term, hitting prospective buyers who had expected relief in 2026. Intercontinental Exchange estimates mortgage payments on a dlr440,000 home now consume 31% of median household income, the most since July 2025. NAHB builder confidence plunged to a one-year low this month. The Trump administration is attempting to support housing via bond purchases and deregulation, but a rapid market recovery appears increasingly unlikely."
-    },
-    {
-      "id": "5100403",
-      "time": "2026-09-18 00:21:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：在 Gemini Notebook 中推出專家智慧功能。"
-    },
-    {
-      "id": "5100402",
-      "time": "2026-09-18 00:21:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心(CMS)：特朗普政府宣佈撥款1.67億美元，用於在南卡羅來納州建設農村醫療站點並升級醫療技術。"
-    },
-    {
-      "id": "5100401",
-      "time": "2026-09-18 00:20:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【俄股週四跌穿2250點關口，受油價下跌及制裁風險拖累】俄羅斯股市週四延續跌勢，莫斯科交易所指數收報2248.87點，跌幅1.6%，盤中一度下探至2236.4點，跌破2250點區域性支撐位；RTS指數同步下挫2%至838.3點。市場承壓主要受國際油價走低、烏克蘭問題談判缺乏新進展以及美國潛在制裁風險等多重因素影響。個股方面，即將於9月18日被剔除出指數的Lenta和Mosenergo領跌，分別下挫6.1%和4.2%；MTS、盧克石油及莫斯科交易所股價亦分別下跌4.8%、3.4%和3%。"
-    },
-    {
-      "id": "5100400",
-      "time": "2026-09-18 00:19:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "為大型工業企業運營提供人工智慧數字員工的Magentic公司完成1800萬美元A輪融資。"
     }
   ]
 }
