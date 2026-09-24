@@ -1,7 +1,32 @@
 {
-  "updated": "2026-09-25 03:39:55",
+  "updated": "2026-09-25 03:43:45",
   "count": 12815,
   "items": [
+    {
+      "id": "5112684",
+      "time": "2026-09-25 03:42:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司協會（ICI）：美國貨幣市場基金資產規模增至 7.94 萬億美元。"
+    },
+    {
+      "id": "5112683",
+      "time": "2026-09-25 03:42:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度阿卡莎航空正在洽談採購 200 架波音 737 MAX 客機。"
+    },
+    {
+      "id": "5112682",
+      "time": "2026-09-25 03:41:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團預計特斯拉三季度車輛銷售/交付47萬輛。"
+    },
     {
       "id": "mkt:01a0d4ee-1ef6-7118-8690-523c56c20089",
       "time": "2026-09-25 03:39:30",
@@ -116564,35 +116589,6 @@
         "MKT News"
       ],
       "text": "Israeli Prime Minister Netanyahu said Israel has many friends and supporters and must know how to influence them, and that he is working to preserve and even strengthen cooperation with the United States."
-    },
-    {
-      "id": "5100612",
-      "time": "2026-09-18 03:42:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：OpenAI 聘請 SpaceX 的麥卡錫擔任全球銷售副總裁。"
-    },
-    {
-      "id": "5100609",
-      "time": "2026-09-18 03:41:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西農業部：巴西中南部 8 月下旬食糖產量同比下降 4.8%，至 372 萬噸。乙醇總產量同比增長 3.5%，至 25.5 億升。甘蔗壓榨量同比增長 3.3%，至 5200 萬噸。"
-    },
-    {
-      "id": "mkt:01a0b0e2-7892-7118-85e9-40baa54b1b26",
-      "time": "2026-09-18 03:40:26",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index falls sharply on the 17th】The dollar index, which measures the dollar against six major currencies, closed at 100.248 at the New York close on the 17th. EUR/USD rose to 1.1475 from 1.1470. GBP/USD fell to 1.3353 from 1.3382. USD/JPY climbed to 156.04 from 155.92. USD/CHF eased to 0.8248 from 0.8250. USD/CAD slipped to 1.3992 from 1.3994. USD/SEK declined to 9.8256 from 9.8598."
     }
   ]
 }
