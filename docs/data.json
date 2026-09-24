@@ -1,7 +1,117 @@
 {
-  "updated": "2026-09-24 14:13:26",
-  "count": 12935,
+  "updated": "2026-09-24 14:17:13",
+  "count": 12945,
   "items": [
+    {
+      "id": "5111137",
+      "time": "2026-09-24 14:16:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【近端次新概念持續下挫 世紀數碼連續2日30cm跌停】午後近端次新概念跌勢擴大，世紀數碼連續2日30cm跌停，股價自9月22日高點回落超56%，此前凱達重工、沈鼓集團跌停，視涯科技、信諾維、百邁科、C中塑跌幅靠前。"
+    },
+    {
+      "id": "5111136",
+      "time": "2026-09-24 14:16:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "北京市廣播電視局印發《北京市促進“人工智慧+視聽”產業高質量發展重點專案支援管理辦法 （2026—2029年）》。"
+    },
+    {
+      "id": "mkt:01a0d20e-0df3-7118-8679-1cd849358eed",
+      "time": "2026-09-24 14:15:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Tencent Hunyuan launches Tencent Hy Translation app】Tencent's Hunyuan unit has launched the Tencent Hy Translation app across mobile, mini-program, plug-in and PC platforms. Built on the Hy-MT2 translation model, the app supports translation across 33 languages, covers five Chinese minority languages and dialects, and offers voice, photo and offline translation modes."
+    },
+    {
+      "id": "5111135",
+      "time": "2026-09-24 14:15:05",
+      "tags": [
+        "資料",
+        "其他"
+      ],
+      "text": "【沙特7月石油出口額同比下降12.8%】沙烏地阿拉伯統計局資料顯示，該國7月石油出口額同比下降12.8%，6月為下降2.3%。石油出口額由6月的631.77億沙特里亞爾降至598.88億沙特里亞爾。石油出口佔總出口比重從修正後的6月71.7%降至71%。貿易順差從修正後的6月166.26億沙特里亞爾收窄至143.63億沙特里亞爾。"
+    },
+    {
+      "id": "te:economy:586376",
+      "time": "2026-09-24 14:14:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Norway Loan Debt Rises 4.5% in August — Norway’s general public domestic loan debt rose by 4.5% year-on-year to NOK 8.05 trillion at the end of August 2026, following an eight-month low of 4.3% growth in the previous month. Lending growth to non-financial corporations increased to 4.8% from 4.0%, reaching NOK 2.42 trillion, while household loan growth remained steady at 4.6%, totaling NOK 4.79 trillion. In contrast, municipal government loan debt growth eased to 3.0% from 3.4% a month earlier, reaching NOK 8.38 billion. On a seasonally adjusted annualized one-month basis, total loan debt for the general public grew by 5.3%, following a 3.8% increase in the prior period."
+    },
+    {
+      "id": "5111134",
+      "time": "2026-09-24 14:14:04",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本5年期國債收益率升至2.38%的歷史新高。"
+    },
+    {
+      "id": "te:markets:586374",
+      "time": "2026-09-24 14:13:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Lower Open — European equity markets were set for a lower open on Thursday, extending losses from the previous session as strong US economic data heightened inflation concerns and raised expectations for further interest rate hikes, sending Treasury yields sharply higher. Investors also faced renewed pressure from a rebound in oil prices, which added to inflation risks as uncertainty persisted over US-Iran negotiations. In Europe, investors will assess the latest German business sentiment survey, along with French business and consumer confidence data. In corporate news, French firm Schneider Electric agreed to acquire Bulgarian company Shelly Group, a maker of smart home devices, in a deal valuing the latter at around $1.4 billion. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were down 0.6% and 0.5%, respectively."
+    },
+    {
+      "id": "5111133",
+      "time": "2026-09-24 14:13:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥概念持續走弱 諾誠健華跌超10%】創新藥概念持續走弱，諾誠健華午後一度衝高翻紅後快速跳水回落，現跌超10%，此前哈藥股份跌停，誠達藥業、美迪西、百普賽斯、艾力斯、益諾思、科倫藥業等多股跌超6%。"
+    },
+    {
+      "id": "5111132",
+      "time": "2026-09-24 14:13:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.7%，至8702點。"
+    },
+    {
+      "id": "mkt:01a0d20c-03a7-7118-8679-108a9da5c937",
+      "time": "2026-09-24 14:13:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's 5-year government bond yield rose to a record high of 2.38%."
+    },
+    {
+      "id": "5111131",
+      "time": "2026-09-24 14:13:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯7月貿易順差為143.63億沙特里亞爾。"
+    },
     {
       "id": "5111130",
       "time": "2026-09-24 14:12:56",
@@ -117500,18 +117610,6 @@
         "Importance 2"
       ],
       "text": "Swiss Trade Surplus Narrows in August — Switzerland’s trade surplus narrowed to CHF 5.6 billion in August 2026 from a record CHF 8.1 billion in the previous month. Imports fell 11.6% month-on-month to a one-year low of CHF 17.4 billion, almost entirely due to a sharp drop in purchases of chemical and pharmaceutical products (-35.8%), led by medicinal products, antisera and vaccines. Imports from Europe recorded the steepest decline at 7.5%, led by a sharp 49.9% drop in imports from Slovenia. Elsewhere, purchases from Asia (-1.2%) and North America (-2.7%) also fell. Meanwhile, exports dropped 17.2% from a month earlier to a four-month low of CHF 23.1 billion, weighed down by lower shipments of chemical and pharmaceutical products (-32.2%) and watches (-7.2%). Exports to North America slumped 31%, led by a 31.2% drop in shipments to the US. Shipments to Asia (-18.9%) and Europe (-9.1%) also declined."
-    },
-    {
-      "id": "te:markets:584462",
-      "time": "2026-09-17 14:15:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Head for Higher Open — European equity markets were set for a higher open on Thursday after the US Federal Reserve delivered a widely anticipated interest rate hike, although the central bank signaled that further tightening may be needed to contain inflation. Stocks also gained support from lower oil prices, which eased concerns over inflation, following reports that Saudi Arabia aims to restore around half of its East-West pipeline capacity within days and return the system to full operation within six weeks. Meanwhile, investors awaited the Bank of England’s policy decision, with rates widely expected to remain unchanged, though policymakers could signal a potential move later this year amid rising energy costs. Final Eurozone inflation figures for August will also draw attention, while no major corporate earnings are scheduled for release in Europe today. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both up around 0.2%."
     }
   ]
 }
