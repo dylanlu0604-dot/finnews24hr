@@ -1,7 +1,97 @@
 {
   "date": "2026-09-24",
-  "count": 1115,
+  "count": 1125,
   "items": [
+    {
+      "id": "mkt:01a0d219-904d-7118-8679-6bd3b084efe7",
+      "time": "2026-09-24 14:28:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Saudi media Alhadath reported a loud explosion in Abadan, Khuzestan province, Iran, attributed to a technical fault at a refinery."
+    },
+    {
+      "id": "te:markets:586380",
+      "time": "2026-09-24 14:27:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natgas Prices Advance on Middle East Uncertainty — UK natural gas prices rose to 186 pence per therm Thursday, recovering from a three-week low amid uncertainty over a diplomatic resolution to the Middle East conflict that could reopen the Strait of Hormuz. Iranian President Masoud Pezeshkian said that Tehran would never surrender to the US but remained open to dialogue and diplomacy, while setting conditions for a return to negotiations. The key waterway remains largely closed, impeding LNG flows from the Persian Gulf. Europe’s gas storage position remains a key concern as the winter heating season approaches. Storage facilities are around 70% full, still below the five-year seasonal average and the region’s 80% target. Goldman Sachs expects European and Asian gas prices to rise sharply if Gulf LNG exports remain constrained."
+    },
+    {
+      "id": "5111156",
+      "time": "2026-09-24 14:27:30",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【DeepSeek完成75億美元融資年化營收突破10億美元】據兩名知情人士透露，DeepSeek當前年化營收執行率已達10億美元。短短數月前，該公司這一指標尚不足5億美元。營收增長一方面得益於近期上調API定價，另一方面也源於其大模型持續受到市場熱捧。DeepSeek CEO梁文鋒在近期投資者會議上披露了上述最新營收資料。公司正推進第二輪融資，並籌備在上交所上市，這一營收表現有望提振投資者信心。DeepSeek計劃在10月底前完成本輪融資，目標募資500億元人民幣（約合75億美元），估值目標5000億元人民幣。知情人士稱，DeepSeek營收增長部分來自上月的調價動作：模型呼叫價格上調至原來的2.3倍至4.5倍。梁文鋒在會上表示，調價並未造成客戶流失，使用者需求依舊強勁。知情人士轉述，梁文鋒向投資者透露，DeepSeek持續將大部分資源投入新模型研發。公司把70%以上算力分配給模型訓練，留給已有模型推理執行的算力不足30%。梁文鋒還向投資者表示，內部測試顯示，公司輕量化模型可在遊戲顯示卡上穩定執行，能夠處理使用者絕大多數日常任務。"
+    },
+    {
+      "id": "mkt:01a0d218-6dc2-7118-8679-62be959bf6d9",
+      "time": "2026-09-24 14:26:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Pakistan strikes targets in Afghanistan after accusing Kabul of drone attacks】Pakistan said it repelled attacks launched from Afghanistan, detecting, tracking and intercepting inbound unmanned aerial vehicles before they reached intended targets, then carried out air and drone strikes on 10 locations inside Afghanistan. Islamabad said it does not seek escalation but will respond immediately to any violation of its sovereignty. An Afghan government spokesman said the strikes hit desert areas near Kandahar with no reported casualties or damage."
+    },
+    {
+      "id": "5111155",
+      "time": "2026-09-24 14:26:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：擊斃一名曾協助扣押7名以色列人質的哈馬斯指揮官。"
+    },
+    {
+      "id": "mkt:01a0d217-96a4-7118-8679-588075c5596a",
+      "time": "2026-09-24 14:25:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports Deepseek's annualized revenue at $1 billion."
+    },
+    {
+      "id": "5111154",
+      "time": "2026-09-24 14:25:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄國防部：在基輔擊中了生產無人機配件和準備應用地面機器人系統的企業】俄國防部：俄軍在基輔擊中了生產無人機配件和準備應用地面機器人系統的企業。一旦美國或《全面禁止核試驗條約》其他締約國進行核試驗，俄方將採取應有的回應措施。俄軍在敖德薩市擊中兩個存放從歐洲運往烏克蘭的軍用和兩用物資的後勤中心。"
+    },
+    {
+      "id": "5111153",
+      "time": "2026-09-24 14:25:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遊戲公司加碼AI：世紀華通宣佈自研決策模型，在多款遊戲中已閉環驗證】頭部遊戲公司世紀華通（002602）旗下子公司天遊軟體聯合查比曰（上海）資訊科技有限公司宣佈自研決策模型，並在多款遊戲中完成閉環驗證——該模型不僅通關了《2048》遊戲，還在《神廟逃亡》遊戲中持續創造新的紀錄，目前已超過70000米，而且模型單次決策延遲壓縮到毫秒級，引數量控制在50M以內。（澎湃新聞）"
+    },
+    {
+      "id": "5111152",
+      "time": "2026-09-24 14:25:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股平潭實驗區板塊異動拉昇】平潭發展、福建水泥觸及漲停，漳州發展、新華都、廈門港務、福建高速、ST三木跟漲。"
+    },
+    {
+      "id": "5111150",
+      "time": "2026-09-24 14:24:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為雲碼道上線鴻蒙編碼大模型，面向鴻蒙開發者全面升級】華為雲碼道CodeArts程式碼智慧體面向鴻蒙開發者進行全面升級，上線“鴻蒙編碼大模型+碼道鴻蒙智慧體+鴻蒙開發者實踐中心”三大核心能力，打造全球首個且唯一專為鴻蒙生態打造的AI編碼智慧體。（新浪科技）"
+    },
     {
       "id": "mkt:01a0d215-6cd1-7118-8679-57eef0af2464",
       "time": "2026-09-24 14:23:34",
