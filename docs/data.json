@@ -1,7 +1,30 @@
 {
-  "updated": "2026-09-25 04:29:55",
-  "count": 12820,
+  "updated": "2026-09-25 04:33:43",
+  "count": 12817,
   "items": [
+    {
+      "id": "mkt:01a0d51f-4136-7118-8690-f631356a66f8",
+      "time": "2026-09-25 04:33:10",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Foreign central banks' holdings of US Treasuries fell $11.37 bln in the week to Sept. 18, versus a $18.726 bln increase in the prior week."
+    },
+    {
+      "id": "mkt:01a0d51f-1639-7118-8690-efea5f94a87d",
+      "time": "2026-09-25 04:32:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Sep.18) | actual -11370000000B | previous 18726000000B"
+    },
     {
       "id": "mkt:01a0d516-6cfe-7118-8690-e5bbaf506582",
       "time": "2026-09-25 04:23:31",
@@ -116608,53 +116631,6 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Closes 0.65% Higher — The Dow Jones Index went up by 335 points or 0.65 percent on Thursday to close at 51797 points. The rise was led by Nvidia (2.55%), Cisco Systems (2.30%) and Amazon (2.17%). On the downside, the weakerst performers were Salesforce (-3.07%), Boeing (-2.41%) and Walt Disney (-1.43%)."
-    },
-    {
-      "id": "5100653",
-      "time": "2026-09-18 04:31:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：本田汽車將提高下一代混合動力車型的生產。"
-    },
-    {
-      "id": "5100652",
-      "time": "2026-09-18 04:30:56",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "美國至9月11日當週外國央行持有美國國債 187.26億美元，前值-111.46億美元。"
-    },
-    {
-      "id": "mkt:01a0b110-aa61-7118-85e9-aa3eadd54e38",
-      "time": "2026-09-18 04:30:54",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Foreign central banks' holdings of US Treasuries rose $18.726 billion in the week to Sept. 11, versus a $11.146 billion decline the previous week."
-    },
-    {
-      "id": "5100651",
-      "time": "2026-09-18 04:30:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Meta關聯資料中心首次涉足美國垃圾債市場】CleanSpark Inc. 正尋求透過首次垃圾債發行籌集約22.3億美元，用於建設與 Meta Platforms Inc. 相關聯的人工智慧基礎設施。據知情人士透露，這批五年期票據的初步定價討論收益率約為8.5%，比彭博社追蹤的BB評級公司發債平均收益率高出約2個百分點，因為投資者對資料中心融資要求更高的風險溢價。在該交易週四啟動時，投資者的訂單規模已與發行規模相當。據彙編的資料，這是首筆與 Meta 資料中心相關的垃圾債發行。"
-    },
-    {
-      "id": "mkt:01a0b110-7cfc-7118-85e9-a12403a48e28",
-      "time": "2026-09-18 04:30:42",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (Sep.11) | actual 18726000000B | previous -11146000000B"
     }
   ]
 }

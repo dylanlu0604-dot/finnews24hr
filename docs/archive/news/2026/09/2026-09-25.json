@@ -1,7 +1,30 @@
 {
   "date": "2026-09-25",
-  "count": 373,
+  "count": 375,
   "items": [
+    {
+      "id": "mkt:01a0d51f-4136-7118-8690-f631356a66f8",
+      "time": "2026-09-25 04:33:10",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Foreign central banks' holdings of US Treasuries fell $11.37 bln in the week to Sept. 18, versus a $18.726 bln increase in the prior week."
+    },
+    {
+      "id": "mkt:01a0d51f-1639-7118-8690-efea5f94a87d",
+      "time": "2026-09-25 04:32:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Sep.18) | actual -11370000000B | previous 18726000000B"
+    },
     {
       "id": "mkt:01a0d516-6cfe-7118-8690-e5bbaf506582",
       "time": "2026-09-25 04:23:31",
