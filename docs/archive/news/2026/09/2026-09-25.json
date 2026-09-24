@@ -1,7 +1,23 @@
 {
   "date": "2026-09-25",
-  "count": 467,
+  "count": 469,
   "items": [
+    {
+      "id": "mkt:01a0d5a3-34d0-7118-8692-09e769fd4abd",
+      "time": "2026-09-25 06:57:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President PEZESHKIAN said anyone may lodge protests."
+    },
+    {
+      "id": "5112798",
+      "time": "2026-09-25 06:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達：斷然拒絕內塔尼亞胡關於卡達正在開展輿論活動、煽動公眾反對以色列的指控。"
+    },
     {
       "id": "5112797",
       "time": "2026-09-25 06:52:31",
