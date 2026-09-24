@@ -1,7 +1,74 @@
 {
   "date": "2026-09-24",
-  "count": 586,
+  "count": 593,
   "items": [
+    {
+      "id": "5110778",
+      "time": "2026-09-24 09:24:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一汽奔騰小馬新增兩款搭載寧德時代電池車型】9月24日，一汽奔騰小馬新增兩款搭載寧德時代電池的新車型——開心馬、幸運馬，官方指導價分別為4.19萬元、4.59萬元。"
+    },
+    {
+      "id": "5110777",
+      "time": "2026-09-24 09:22:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行逆回購今日淨回籠1,105億元人民幣。"
+    },
+    {
+      "id": "mkt:01a0d100-b1fb-7118-8674-23ad2ee6497e",
+      "time": "2026-09-24 09:21:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong HSI opened down 184.67 points (-0.74%) at 24,649.45 on Sept 24. Hang Seng TECH opened down 34.22 points (-0.78%) at 4,344.85. China Enterprises Index (HSCEI) opened down 58.26 points (-0.70%) at 8,215.55. Red-Chip Index opened down 19.15 points (-0.48%) at 4,008.06."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609243883300340",
+      "time": "2026-09-24 09:21:15",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展515億元7天逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:01a0d100-7c17-7118-8674-1e844b79d983",
+      "time": "2026-09-24 09:21:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index"
+      ],
+      "text": "Hong Kong stocks opened lower; HSI down 0.74% and Hang Seng Tech Index down 0.78%. Gold miners led losses while select marquee internet and tech names showed pockets of buying."
+    },
+    {
+      "id": "5110776",
+      "time": "2026-09-24 09:21:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥表示，第四輪美墨貿易談判已推遲，或於10月舉行。"
+    },
+    {
+      "id": "5110775",
+      "time": "2026-09-24 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.74%，恒生科技指數跌0.78%】洛陽鉬業跌1.72%，理想汽車-W跌1.73%，信義光能跌1.77%，華潤置地跌2.03%，MINIMAX-W跌2.55%，創科實業跌3.32%，天數智芯跌3.38%。"
+    },
     {
       "id": "mkt:01a0d100-3ae8-7118-8674-15fb2133c40d",
       "time": "2026-09-24 09:20:48",
