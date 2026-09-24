@@ -1,7 +1,83 @@
 {
   "date": "2026-09-24",
-  "count": 2082,
+  "count": 2090,
   "items": [
+    {
+      "id": "te:markets:586611",
+      "time": "2026-09-24 23:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: New Zealand 10Y Bond Yield Rises by 15 bps — Government bonds yields are higher on Thursday. Top gainers are New Zealand 10Y (15.05bps), Australia 10Y (12.60bps), Greece 10Y (10.40bps), Japan 10Y (9.50bps), Germany 10Y (6.13bps) and US 10Y (3.70bps)."
+    },
+    {
+      "id": "mkt:01a0d408-05ab-7118-868b-23eddf22538e",
+      "time": "2026-09-24 23:28:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Xi to meet US President Trump at White House】On the morning of Sept 24 local time, President Xi Jinping will meet US President Trump at the White House."
+    },
+    {
+      "id": "5112371",
+      "time": "2026-09-24 23:27:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【習近平將同美國總統特朗普會談】當地時間9月24日上午，國家主席習近平將在白宮同美國總統特朗普舉行會談。（央視新聞）"
+    },
+    {
+      "id": "5112370",
+      "time": "2026-09-24 23:27:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報102.07美元/桶。"
+    },
+    {
+      "id": "5112369",
+      "time": "2026-09-24 23:27:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破102美元/桶，日內漲4.03%。"
+    },
+    {
+      "id": "5112368",
+      "time": "2026-09-24 23:27:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部表示：9月24日，應約旦駐莫斯科大使哈立德·沙瓦布卡的要求，俄羅斯聯邦外交部副部長博裡森科與其舉行會晤。會晤期間，雙方就進一步深化雙邊務實合作的當前議題進行了討論，其中包括落實9月9日至10日在莫斯科舉行的俄約貿易、經濟和科技合作政府間委員會第七次會議所作決定的相關議題。"
+    },
+    {
+      "id": "mkt:01a0d406-d47b-7118-868b-198696da8141",
+      "time": "2026-09-24 23:26:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said Russian armed forces struck a drone depot in Novobilyari in the Odesa region."
+    },
+    {
+      "id": "5112367",
+      "time": "2026-09-24 23:26:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯國防部通報，俄武裝部隊已打擊位於敖德薩州新貝利亞雷的一處無人機倉庫。"
+    },
     {
       "id": "5112366",
       "time": "2026-09-24 23:25:40",
