@@ -1,7 +1,243 @@
 {
   "date": "2026-09-24",
-  "count": 1634,
+  "count": 1661,
   "items": [
+    {
+      "id": "5111868",
+      "time": "2026-09-24 19:04:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "TD SYNNEX股價盤前上漲3.2%，此前公司預計第四季度調整後利潤高於預期。"
+    },
+    {
+      "id": "5111867",
+      "time": "2026-09-24 19:04:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：第三季度早期指標顯示經濟活動走弱。"
+    },
+    {
+      "id": "5111866",
+      "time": "2026-09-24 19:03:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行預計2029年第一季度年通脹率為3.1%，為其最終預測期限。"
+    },
+    {
+      "id": "5111865",
+      "time": "2026-09-24 19:03:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯芸科技：推出AI SSD方案】聯芸科技高管在第五屆GMIF2026創新峰會上表示介紹，針對端側推理記憶體容量牆問題，公司聯合寅譜推出AI SSD方案，實現記憶體佔用幾乎減半，TTFT（首Token到達時間）降低90%，TPS（每秒生成Token數）提升300%，支援通用主流筆記本執行大模型。"
+    },
+    {
+      "id": "5111864",
+      "time": "2026-09-24 19:03:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿卡迪亞：remlifanserin未達到ADP主要終點。"
+    },
+    {
+      "id": "5111863",
+      "time": "2026-09-24 19:02:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "IBM：將收購英國網路安全公司Logiq Consulting。"
+    },
+    {
+      "id": "5111862",
+      "time": "2026-09-24 19:02:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳創視訊：股東協議轉讓5.0017%股份完成過戶】佳創視訊公告稱，公司控股股東、實控人陳坤江及股東隋湘、羅偉與上海凌穹崑崙科技合夥企業（有限合夥）的股份協議轉讓已完成過戶登記，過戶日期為2026年9月22日，過戶股份2155萬股，佔公司總股本的5.0017%，交易總價款1.58億元。過戶完成後，陳坤江持股比例降至13.9837%，凌穹崑崙持股比例為5.0017%。凌穹崑崙承諾自股份變更登記之日起12個月內不減持本次受讓股份。本次轉讓不觸及要約收購，不會導致公司控股股東及實控人變化。"
+    },
+    {
+      "id": "5111861",
+      "time": "2026-09-24 19:02:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳創視訊：控股股東陳坤江豁免公司3500萬元債務】佳創視訊公告稱，公司控股股東、實際控制人、董事長陳坤江決定豁免公司合計3500萬元的借款本金債務，該豁免不附帶任何條件，一經作出不可變更、撤銷，公司無需履行償還義務。本次交易構成關聯交易，已經公司第七屆董事會第三次會議審議透過，關聯董事陳坤江迴避表決，無需提交股東會審議，不構成重大資產重組。本次交易有助於緩解公司債務壓力，降低財務負擔。截至公告披露日，陳坤江持有公司股份6024.98萬股，佔公司總股本的13.98%。"
+    },
+    {
+      "id": "mkt:01a0d314-6da0-7118-8684-2d016b484840",
+      "time": "2026-09-24 19:02:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank projects 2026 foreign direct investment (FDI) inflows at $75 bln, unchanged from its prior forecast."
+    },
+    {
+      "id": "5111860",
+      "time": "2026-09-24 19:01:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "黑莓股價盤前上漲5.4%，此前該公司上調了全年營收預期。"
+    },
+    {
+      "id": "5111859",
+      "time": "2026-09-24 19:01:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行預測2026年外國直接投資流入額為750億美元（此前預測為750億美元）。"
+    },
+    {
+      "id": "5111858",
+      "time": "2026-09-24 19:01:29",
+      "tags": [
+        "資料"
+      ],
+      "text": "巴西9月消費者信心指數為84.2。"
+    },
+    {
+      "id": "5111857",
+      "time": "2026-09-24 19:01:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行預測2026年經常帳餘額為逆差600億美元（先前預測為逆差560億美元）。"
+    },
+    {
+      "id": "5111856",
+      "time": "2026-09-24 19:01:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行預測2027年國內生產總值增長1.4%。"
+    },
+    {
+      "id": "5111855",
+      "time": "2026-09-24 19:01:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數收盤下跌1%，報170,499點。"
+    },
+    {
+      "id": "mkt:01a0d313-708c-7118-8684-2296ff1b3fcf",
+      "time": "2026-09-24 19:01:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BofA to invest $150 million in U.S. workforce development."
+    },
+    {
+      "id": "5111854",
+      "time": "2026-09-24 19:00:51",
+      "tags": [
+        "宏觀",
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗說對美提出的條件不會改變】當地時間9月23日，伊朗最高國家安全委員會秘書穆赫辛·雷扎伊在接受伊朗國家電視臺採訪時表示，如果美國不滿足伊朗提出的條件，伊朗將不會重新開放霍爾木茲海峽，也不會進行談判。雷扎伊同時警告鄰國，不要配合美國對伊朗航班關閉領空，如果有國家加入美國的“冒險”行動，伊朗將使這些國家的機場無法正常運營。美國財政部長貝森特此前表示，美國將透過對航空服務供應商實施二級制裁，迫使伊朗航空公司停止運營。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5111853",
+      "time": "2026-09-24 19:00:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行：將在五年內投資1.5億美元用於勞動力發展。"
+    },
+    {
+      "id": "5111852",
+      "time": "2026-09-24 19:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Parallax籌資1.17億美元。"
+    },
+    {
+      "id": "5111850",
+      "time": "2026-09-24 18:58:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國商業銀行CEO：備選方案之一是以換股方式收購裕信銀行旗下德國機構HVB。"
+    },
+    {
+      "id": "mkt:01a0d311-3591-7118-8684-195c265a9da2",
+      "time": "2026-09-24 18:58:35",
+      "tags": [
+        "MKT News",
+        "SBUX.O",
+        "Impact mixed"
+      ],
+      "text": "Starbucks Corp (SBUX.O) said it will close 250 stores in North America, incur about $300 mln of restructuring charges including roughly $200 mln of cash costs, and expects about 440 net new global store openings in fiscal 2026."
+    },
+    {
+      "id": "te:markets:586517",
+      "time": "2026-09-24 18:58:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Falls to Seven-Week Low — Palladium futures held near $1,270 per ounce, its lowest level since early August, amid surging sovereign yields. Stronger-than-expected economic data from the Eurozone and the US raised bets of further hikes in the major economies, while underlying evidence of inflationary pressures raised concerns over the impact of persistent disruptions to energy shipments in the Middle East. Hawkish remarks from several Fed officials also increased the opportunity cost of holding non-yielding assets such as palladium. Meanwhile, UBS forecasts a market surplus for the metal, as increased recycling and weaker consumption of catalytic converters are expected to more than offset lower mining output compared with last year. Persistent supply vulnerabilities in South Africa, linked to elevated operating costs and power grid instability, continued to raise concerns over mined output, while ongoing trade and geopolitical risks affecting Russian palladium also provided a supportive backdrop for prices."
+    },
+    {
+      "id": "5111849",
+      "time": "2026-09-24 18:57:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "全球基金在交易日前淨買入價值722億盧比的印度股票。"
+    },
+    {
+      "id": "5111848",
+      "time": "2026-09-24 18:57:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "星巴克向美國證交會提交的檔案顯示，將關閉北美約1%的門店。"
+    },
+    {
+      "id": "mkt:01a0d30f-f798-7118-8684-130ca73cc0b7",
+      "time": "2026-09-24 18:57:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Head of Iraq's Basra Oil Company says southern Iraqi oilfields are producing over 3 million barrels per day."
+    },
+    {
+      "id": "5111847",
+      "time": "2026-09-24 18:57:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "伊拉克巴士拉石油公司負責人表示，伊拉克南部油田日產量已超過300萬桶。"
+    },
+    {
+      "id": "5111846",
+      "time": "2026-09-24 18:57:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "星巴克：預計2026財年全球淨新開咖啡店約440家。"
+    },
     {
       "id": "mkt:01a0d30f-c0f9-7118-8684-09fea4027734",
       "time": "2026-09-24 18:56:59",
