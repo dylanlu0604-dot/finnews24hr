@@ -1,7 +1,77 @@
 {
   "date": "2026-09-24",
-  "count": 1096,
+  "count": 1104,
   "items": [
+    {
+      "id": "5111142",
+      "time": "2026-09-24 14:20:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外長韋斯特法勒就烏克蘭問題安理會會議表示：我們需要立即實現全面停火，從黑海地區開始，以保障糧食至關重要的運輸暢通。"
+    },
+    {
+      "id": "5111141",
+      "time": "2026-09-24 14:18:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯光界五輪融資超10億，角力NPO量產】成立不足5個月，國內光互連初創公司芯光界已經完成五輪融資。五輪融資過後，芯光界累計融資額已超過10億元。第六輪融資已在近期啟動，完成後公司將暫緩融資，直至產品正式進入量產階段。據悉，芯光界正推進一款3.2T NPO（近封裝光學）光引擎的量產，面向一家國內GPU和交換機龍頭企業，雙方正聯合研發，共享部分上下游產業鏈資源，推動技術方案對接和驗證，預計最遲於2027年年中進入量產階段。（36氪）"
+    },
+    {
+      "id": "te:markets:586379",
+      "time": "2026-09-24 14:18:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Slovenia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Slovenia 10Y Bond Yield Hits 12-year High — Slovenia 10 Year Government Bond Yield increased to 3.97%, the highest since April 2014. Over the past 4 weeks, Slovenia 10Y Bond Yield gained 30.70 basis points, and in the last 12 months, it increased 85.00 basis points."
+    },
+    {
+      "id": "5111140",
+      "time": "2026-09-24 14:18:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【以媒披露美伊間接接觸細節 美伊透過卡達傳遞資訊 霍爾木茲海峽議題未達共識】據以色列媒體報道，美國談判人員在紐約聯合國大會期間舉行的間接會談中，拒絕了伊朗提出重新開放霍爾木茲海峽的提議，並告知德黑蘭，伊朗並不控制該水道，同時質疑其提出這一提議的資格。第12頻道進一步披露了會談細節，稱美國特使史蒂夫·威特科夫和賈裡德·庫什納在一個房間內，而伊朗外長阿巴斯·阿拉格齊則在另一個房間內，雙方透過卡達調解人員往返傳遞資訊。據第 12 頻道援引知情人士的訊息報道，在聯合國大會閉幕之前，可能會舉行更多間接會談，但調解人正在等待特朗普決定是否繼續這一程序或採取其他途徑。"
+    },
+    {
+      "id": "mkt:01a0d210-6458-7118-8679-2a6543e0bb66",
+      "time": "2026-09-24 14:18:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish military says Poland again carried out preventive air operations in response to Russian strikes on Ukraine."
+    },
+    {
+      "id": "mkt:01a0d210-56e1-7118-8679-26699422dd3a",
+      "time": "2026-09-24 14:18:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Israel’s Channel 12 says US rejected Iran’s Strait of Hormuz proposal in indirect UN talks; Qatar relayed messages】Israel’s Channel 12 reports US negotiators during indirect talks in New York around the UN General Assembly rejected Iran’s proposal to reopen the Strait of Hormuz, telling Tehran it does not control the waterway and questioning Iran’s standing to make the proposal. Channel 12 said US envoys Steve Witkoff and Jared Kushner were in one room while Iranian foreign minister Abbas Araghchi was in another, with messages shuttled by Qatari intermediaries. More indirect talks may occur before the UNGA ends, but mediators are awaiting President Trump’s decision on whether to continue the process or pursue other options."
+    },
+    {
+      "id": "5111139",
+      "time": "2026-09-24 14:17:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "北京市廣播電視局印發《北京市促進“人工智慧+視聽”產業高質量發展重點專案支援管理辦法 （2026—2029年）》。其中指出，支援視聽大模型、智慧體等在廣電視聽領域的研發應用，包括音影片內容生成大模型、內容生成智慧體、內容生成多模型整合平臺、創作輔助、虛擬製作、智慧剪輯、智慧修復/增強/替換、智慧譯製與配音等創新技術與系統。依照技術先進性和應用效果等進行評審，單個專案支援金額最高不超過300萬元。"
+    },
+    {
+      "id": "5111138",
+      "time": "2026-09-24 14:17:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭陸軍在社交平臺X上表示，在俄羅斯對烏克蘭發動打擊後，波蘭再次開展預防性空中行動。"
+    },
     {
       "id": "5111137",
       "time": "2026-09-24 14:16:25",
