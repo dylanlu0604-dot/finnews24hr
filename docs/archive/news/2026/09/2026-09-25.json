@@ -1,7 +1,55 @@
 {
   "date": "2026-09-25",
-  "count": 1514,
+  "count": 1519,
   "items": [
+    {
+      "id": "5113559",
+      "time": "2026-09-25 19:59:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴基斯坦、沙烏地阿拉伯和土耳其計劃召開軍方高層緊急會議。"
+    },
+    {
+      "id": "5113558",
+      "time": "2026-09-25 19:59:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，熱帶風暴貢薩洛位於維德角群島最南端以東約120英里（195公里）處，最大持續風速為每小時50英里（85公里/小時）。"
+    },
+    {
+      "id": "mkt:01a0d86e-da5a-7118-869a-da7bb5e521c3",
+      "time": "2026-09-25 19:58:58",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "EU high representative for foreign affairs and security policy Kallas said the EU will allocate €900 mln to military assistance for Ukraine and €1 bln to fund a new joint equipment procurement."
+    },
+    {
+      "id": "5113557",
+      "time": "2026-09-25 19:57:57",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "花旗：繼續看好美國股市，維持美股超配觀點，將在市場出現回撥時增加投資敞口。儘管油價上漲、利率走高以及美聯儲政策不確定性增加，股市仍表現出韌性。人工智慧仍將是推動美國股市表現的關鍵因素。歷史上市場往往會在美聯儲首次加息後以及中期選舉前走弱，隨後在年底前逐步恢復。"
+    },
+    {
+      "id": "5113556",
+      "time": "2026-09-25 19:56:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡拉斯：歐盟國家就66億歐元烏克蘭資金達成條款。"
+    },
     {
       "id": "mkt:01a0d86c-84f6-7118-869a-d7c1ada120ea",
       "time": "2026-09-25 19:56:25",
