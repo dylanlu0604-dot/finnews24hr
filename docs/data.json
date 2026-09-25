@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-26 03:52:38",
-  "count": 12098,
+  "updated": "2026-09-26 03:56:32",
+  "count": 12096,
   "items": [
+    {
+      "id": "5113930",
+      "time": "2026-09-26 03:54:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期美國國債收益率最新下跌0.57個基點，報5.156%。"
+    },
+    {
+      "id": "5113929",
+      "time": "2026-09-26 03:54:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【紐約聯儲部落格：美聯儲採用“證券主導”的儲備管理方式】美國紐約聯儲部落格欄目“Teller Window”發表文章稱，在全球央行管理銀行體系準備金的方式上，美聯儲與英國央行及歐洲央行之間存在明顯差異。美聯儲採取“證券主導”的方式提供邊際準備金，而歐洲央行和英國央行則採用“回購主導”的方式。"
+    },
+    {
+      "id": "5113927",
+      "time": "2026-09-26 03:53:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Meta在劍橋分析醜聞相關新墨西哥州訴訟中敗訴】美國新墨西哥州一家州法院的陪審團週五裁定，Meta Platforms Inc.在劍橋分析醜聞期間就其內容稽核政策和資料隱私政策誤導公眾，違反了新墨西哥州法律。案件現在將交由法官裁決。聖菲第一司法巡迴法院法官Francis Mathew將確定民事處罰金額，每項違規最高可處以5000美元罰款。"
+    },
+    {
+      "id": "mkt:01a0da20-f97b-7118-86a2-ee50e9723395",
+      "time": "2026-09-26 03:53:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said an interceptor missile fired earlier on Friday at a suspicious airborne object over southern Lebanon was, on preliminary assessment, launched in error due to misidentification. The incident is under investigation."
+    },
     {
       "id": "5113926",
       "time": "2026-09-26 03:51:42",
@@ -110134,64 +110168,6 @@
         "The Trump Trade"
       ],
       "text": "Fox News reported President Trump announced a new plan to pass 'most-favored-nation' drug price discounts directly to state Medicaid programs covering about 70 million Americans."
-    },
-    {
-      "id": "mkt:01a0b617-38de-7118-860b-203a64d1901e",
-      "time": "2026-09-19 03:56:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NScale enters unsecured convertible loan agreement with NVIDIA (NVDA.O)."
-    },
-    {
-      "id": "5102720",
-      "time": "2026-09-19 03:55:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普宣佈全美50州醫療補助計劃納入最惠國藥品定價 未來十年預計節省643億美元】白宮9月18日發表事實清單稱，特朗普總統宣佈全美50個州的醫療補助計劃（Medicaid）將納入“最惠國”（MFN）處方藥定價體系，製藥商需透過回扣確保醫療補助最終支付價格不高於其他發達國家最低價格。該模式覆蓋數百種品牌藥，涉及腫瘤、糖尿病、哮喘等主要藥物類別，醫療補助計劃已因此獲得100萬份免費心臟病藥物Eliquis處方。白宮經濟顧問委員會（CEA）估計，未來十年該政策將為全美醫療補助計劃節省643億美元藥品成本，其中聯邦政府節省366億美元、州政府節省276億美元；CEA同時估計，MFN協議在未來十年帶來的總儲蓄將達到6000億美元。"
-    },
-    {
-      "id": "mkt:01a0b615-66a2-7118-860b-1eea79fe8247",
-      "time": "2026-09-19 03:54:10",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index dips 0.03% to 100.222 on 18th】The dollar index, which measures the US dollar against six major currencies, fell 0.03% to 100.222 at the New York close. EUR/USD 1.1483 (prev. 1.1475); GBP/USD 1.3391 (1.3353); USD/JPY 156.68 (156.04); USD/CHF 0.8221 (0.8248); USD/CAD 1.3993 (1.3992); USD/SEK 9.8333 (9.8256)."
-    },
-    {
-      "id": "5102719",
-      "time": "2026-09-19 03:54:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Nscale：與英偉達已經達成無擔保可轉換貸款票據協議。"
-    },
-    {
-      "id": "mkt:01a0b614-eeaf-7118-860b-176856c6aaee",
-      "time": "2026-09-19 03:53:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NScale said it signed a subscription agreement on Sept. 15 for a minimum total principal of $3.1 billion."
-    },
-    {
-      "id": "5102718",
-      "time": "2026-09-19 03:53:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "NSCALE：於9月15日簽署認購協議，認購本金總額至少為31億美元。"
     }
   ]
 }
