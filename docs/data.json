@@ -1,7 +1,40 @@
 {
-  "updated": "2026-09-26 03:48:47",
-  "count": 12101,
+  "updated": "2026-09-26 03:52:38",
+  "count": 12098,
   "items": [
+    {
+      "id": "5113926",
+      "time": "2026-09-26 03:51:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普要求澤連斯基赴莫斯科與普京會談，澤連斯基回覆：“坐導彈去”】美國總統唐納德·特朗普本週再次敦促烏克蘭總統弗拉基米爾·澤連斯基前往莫斯科與俄羅斯總統弗拉基米爾·普京會面，儘管澤連斯基此前已多次拒絕。此舉正值美國試圖重燃俄烏和平談判之際。澤連斯基在聯合國與這位美國領導人會晤時拒絕了這一提議。熟悉澤連斯基立場的人士稱，特朗普重提此事令其感到不滿。當記者問及他何時會訪問莫斯科時，澤連斯基回答：“坐導彈去”，隨後爆出一句粗口。一名美國高階官員對這一說法表示異議，但拒絕進一步說明。"
+    },
+    {
+      "id": "5113925",
+      "time": "2026-09-26 03:51:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部：繼早些時候針對黎巴嫩南部疑似空中目標發射攔截導彈的通知，初步調查顯示，這是一次誤報。"
+    },
+    {
+      "id": "5113924",
+      "time": "2026-09-26 03:50:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.00%，現報51864.762點；納指漲0.58%，現報27096.216點；標普500指數漲0.61%，現報7751.050點。"
+    },
+    {
+      "id": "5113923",
+      "time": "2026-09-26 03:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥倫比亞國家警方訊息人士稱，哥倫比亞已將一名被控販毒的哥倫比亞革命武裝力量異見運動領導人引渡至美國。"
+    },
     {
       "id": "mkt:01a0da1b-b88c-7118-86a2-e5de3e6bcd40",
       "time": "2026-09-26 03:47:24",
@@ -110159,69 +110192,6 @@
         "其他"
       ],
       "text": "NSCALE：於9月15日簽署認購協議，認購本金總額至少為31億美元。"
-    },
-    {
-      "id": "mkt:01a0b612-ae02-7118-860b-0f32aa4f7288",
-      "time": "2026-09-19 03:51:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Sumy regional governor said a Russian glide-guided bomb struck an apartment building in the northern Ukrainian city of Sumy, killing 2 people and wounding 7."
-    },
-    {
-      "id": "5102717",
-      "time": "2026-09-19 03:50:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：NSCALE目標融資規模達數十億美元，估值約為300億美元。"
-    },
-    {
-      "id": "5102716",
-      "time": "2026-09-19 03:50:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.00%，現報11831.59點。英偉達漲0.23%，博通漲2.91%，美光漲3.51%，英特爾漲0.30%，AMD漲1.23%，高通跌5.66%，臺積電漲0.14%，阿斯麥漲1.59%。"
-    },
-    {
-      "id": "5102715",
-      "time": "2026-09-19 03:49:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯北部烏克蘭蘇梅地區州長稱，一枚俄羅斯滑翔炸彈擊中一棟公寓樓，造成兩人死亡、七人受傷。"
-    },
-    {
-      "id": "mkt:01a0b611-7c3a-7118-860b-0206ea95c2c8",
-      "time": "2026-09-19 03:49:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "NScale said on Aug. 25, 2026 it signed a series of GPU service agreements with Anthropic PBC. Under the Anthropic agreements, total payments to NScale could reach about $44.6 billion."
-    },
-    {
-      "id": "5102714",
-      "time": "2026-09-19 03:49:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "Nscale：截至 8 月 31 日，現有在執行規模約 26 億美元；與客戶簽訂的長期照付不議合同下，在執行及已簽約總合同價值（TCV）達 1034 億美元。"
-    },
-    {
-      "id": "mkt:01a0b610-ce30-7118-860a-fdec8283f869",
-      "time": "2026-09-19 03:49:09",
-      "tags": [
-        "MKT News",
-        "GS.N",
-        "JPM.N",
-        "MS.N"
-      ],
-      "text": "Goldman Sachs (GS.N), JP Morgan (JPM.N) and Morgan Stanley (MS.N) are named lead underwriters on NScale's IPO, according to a U.S. Securities and Exchange Commission filing."
     }
   ]
 }
