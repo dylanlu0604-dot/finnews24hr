@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-26 04:50:43",
-  "count": 12099,
+  "updated": "2026-09-26 04:54:32",
+  "count": 12096,
   "items": [
+    {
+      "id": "5114033",
+      "time": "2026-09-26 04:53:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：在我們的研究環境中，部分 AI 智慧體在本不應對外傳輸的情況下，將訓練與評估資料傳送給了第三方服務。絕大部分相關資料並非來自普通使用者。我們共發現 53 起事件：使用者上傳的圖片以非公開連結的形式被髮布至圖片託管網站。"
+    },
+    {
+      "id": "5114032",
+      "time": "2026-09-26 04:52:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "應用數字公司（APPLIED DIGITAL CORP）總裁傑森·張2026財年總薪酬為1.0004億美元，其中包含9933萬美元的股票獎勵。"
+    },
+    {
+      "id": "5114031",
+      "time": "2026-09-26 04:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國健康聯盟申請推遲釋出10-K年度報告。"
+    },
     {
       "id": "5114030",
       "time": "2026-09-26 04:49:20",
@@ -110138,61 +110162,6 @@
         "其他"
       ],
       "text": "TREX BIO：提交首次公開募股申請。"
-    },
-    {
-      "id": "mkt:01a0b64c-7661-7118-860c-41051811986d",
-      "time": "2026-09-19 04:54:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF says staff have concluded a visit to Lebanon."
-    },
-    {
-      "id": "mkt:01a0b64b-5bd9-7118-860c-3d3e2dd3e1db",
-      "time": "2026-09-19 04:53:07",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "South Korea's foreign minister said Seoul is willing to contribute to restoring freedom of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:01a0b64a-a500-7118-860c-30b039ff14b3",
-      "time": "2026-09-19 04:52:20",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bearish"
-      ],
-      "text": "Financial Times reports Oracle (ORCL.N) faces challenge to about $18 bln of data-center debt amid local opposition."
-    },
-    {
-      "id": "5102786",
-      "time": "2026-09-19 04:52:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Anthropic與埃森哲合作部署嵌入式AI安全評估員 未來五年各投至少10億美元】9月18日，Anthropic宣佈與埃森哲達成合作，將在其內部部署嵌入式評估團隊，對前沿AI模型進行紅隊測試、安全護欄驗證及對齊評估，確保技術符合人類目標。雙方各計劃在未來五年內投入至少10億美元建設相關能力。埃森哲評估員將獲得與Anthropic員工同等的內部訪問許可權，可實時追蹤模型訓練演進並觀察幕後決策流程。Anthropic稱，此舉旨在核查其安全承諾落實情況、識別盲點，並向公眾提供更透明的風險評估。"
-    },
-    {
-      "id": "te:markets:585128",
-      "time": "2026-09-19 04:51:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Falls Below $100 as Supply Fears Ease — Crude oil prices tumbled below $100 a barrel on Friday, erasing gains after a volatile session and falling for a third consecutive session. Markets expect the closure of Saudi Arabia’s key pipeline to have a smaller impact on supplies than initially feared. Satellite imagery suggests Saudi Arabia moved 2.8 million bpd through the Strait of Hormuz over the past six days, compared with just 700,000 bpd in August. Saudi Arabia has reportedly sold as many as 60 million barrels of crude from the Persian Gulf port of Ras Tanura for September and October loadings outside the strait through ship-to-ship transfers. Reports that Aramco expects to restore half of the pipeline’s daily flows also eased supply concerns. Still, only four commodity vessels were detected moving through Hormuz on Thursday. Volumes from Hormuz are being picked up mostly by refiners in China and South Korea. China exported 6.01 million tons of refined fuels in August, up 12.7% yearly. Oil prices fell 0.5% on the week."
-    },
-    {
-      "id": "5102785",
-      "time": "2026-09-19 04:50:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：甲骨文180億美後設資料中心債務承壓 因地方反對聲浪加劇。"
     }
   ]
 }
