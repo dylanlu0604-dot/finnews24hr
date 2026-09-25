@@ -1,7 +1,114 @@
 {
   "date": "2026-09-26",
-  "count": 266,
+  "count": 278,
   "items": [
+    {
+      "id": "mkt:01a0da2e-019b-7118-86a3-46d35ea1e36d",
+      "time": "2026-09-26 04:07:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P raises Czech Republic outlook to Positive; affirms foreign-currency rating AA-/A-1+ and local-currency rating AA/A-1+."
+    },
+    {
+      "id": "mkt:01a0da2d-d371-7118-86a3-3f3340f047c5",
+      "time": "2026-09-26 04:07:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "S&P: Oman retains a marked advantage among Gulf peers because its hydrocarbon exports do not rely on the Strait of Hormuz."
+    },
+    {
+      "id": "5113953",
+      "time": "2026-09-26 04:06:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認迦納信用評級為“B-/B”；展望穩定。"
+    },
+    {
+      "id": "5113952",
+      "time": "2026-09-26 04:06:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍爾泰克核能撤回 IPO 註冊申請檔案。"
+    },
+    {
+      "id": "5113950",
+      "time": "2026-09-26 04:06:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：捷克共和國評級展望上調至正面，外幣評級“AA-/A-1+”，本幣評級“AA/A-1+”得到確認。"
+    },
+    {
+      "id": "5113949",
+      "time": "2026-09-26 04:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Circle啟動下一任首席財務官遴選工作。"
+    },
+    {
+      "id": "mkt:01a0da2c-5219-7118-86a3-31f2ce25814a",
+      "time": "2026-09-26 04:05:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P affirms Oman's sovereign rating at 'BBB-/A-3'; outlook stable."
+    },
+    {
+      "id": "5113948",
+      "time": "2026-09-26 04:05:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "Circle網際網路集團：傑里米·福克斯-格林將卸任首席財務官一職。"
+    },
+    {
+      "id": "5113947",
+      "time": "2026-09-26 04:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Circle宣佈首席財務官過渡計劃。"
+    },
+    {
+      "id": "mkt:01a0da2b-bae3-7118-86a3-2ea1b1448ac6",
+      "time": "2026-09-26 04:04:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed higher on Friday Sep 25: Dow Jones Industrial Average +478.61 pts (+0.93%) to 51,828.59; S&P 500 +39.38 pts (+0.51%) to 7,743.51; Nasdaq Composite +129.34 pts (+0.48%) to 27,068.72."
+    },
+    {
+      "id": "5113946",
+      "time": "2026-09-26 04:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認阿曼“BBB-/A-3”評級；展望穩定。"
+    },
+    {
+      "id": "5113945",
+      "time": "2026-09-26 04:04:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：莫三比克外幣信用評級下調至“CCC”，展望為負面；本幣信用評級維持“SD”不變。"
+    },
     {
       "id": "5113944",
       "time": "2026-09-26 04:02:43",

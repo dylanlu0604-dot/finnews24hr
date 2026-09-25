@@ -1,7 +1,114 @@
 {
-  "updated": "2026-09-26 04:04:15",
-  "count": 12097,
+  "updated": "2026-09-26 04:08:07",
+  "count": 12098,
   "items": [
+    {
+      "id": "mkt:01a0da2e-019b-7118-86a3-46d35ea1e36d",
+      "time": "2026-09-26 04:07:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P raises Czech Republic outlook to Positive; affirms foreign-currency rating AA-/A-1+ and local-currency rating AA/A-1+."
+    },
+    {
+      "id": "mkt:01a0da2d-d371-7118-86a3-3f3340f047c5",
+      "time": "2026-09-26 04:07:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "S&P: Oman retains a marked advantage among Gulf peers because its hydrocarbon exports do not rely on the Strait of Hormuz."
+    },
+    {
+      "id": "5113953",
+      "time": "2026-09-26 04:06:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認迦納信用評級為“B-/B”；展望穩定。"
+    },
+    {
+      "id": "5113952",
+      "time": "2026-09-26 04:06:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍爾泰克核能撤回 IPO 註冊申請檔案。"
+    },
+    {
+      "id": "5113950",
+      "time": "2026-09-26 04:06:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：捷克共和國評級展望上調至正面，外幣評級“AA-/A-1+”，本幣評級“AA/A-1+”得到確認。"
+    },
+    {
+      "id": "5113949",
+      "time": "2026-09-26 04:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Circle啟動下一任首席財務官遴選工作。"
+    },
+    {
+      "id": "mkt:01a0da2c-5219-7118-86a3-31f2ce25814a",
+      "time": "2026-09-26 04:05:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P affirms Oman's sovereign rating at 'BBB-/A-3'; outlook stable."
+    },
+    {
+      "id": "5113948",
+      "time": "2026-09-26 04:05:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "Circle網際網路集團：傑里米·福克斯-格林將卸任首席財務官一職。"
+    },
+    {
+      "id": "5113947",
+      "time": "2026-09-26 04:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Circle宣佈首席財務官過渡計劃。"
+    },
+    {
+      "id": "mkt:01a0da2b-bae3-7118-86a3-2ea1b1448ac6",
+      "time": "2026-09-26 04:04:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed higher on Friday Sep 25: Dow Jones Industrial Average +478.61 pts (+0.93%) to 51,828.59; S&P 500 +39.38 pts (+0.51%) to 7,743.51; Nasdaq Composite +129.34 pts (+0.48%) to 27,068.72."
+    },
+    {
+      "id": "5113946",
+      "time": "2026-09-26 04:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認阿曼“BBB-/A-3”評級；展望穩定。"
+    },
+    {
+      "id": "5113945",
+      "time": "2026-09-26 04:04:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：莫三比克外幣信用評級下調至“CCC”，展望為負面；本幣信用評級維持“SD”不變。"
+    },
     {
       "id": "5113944",
       "time": "2026-09-26 04:02:43",
@@ -110068,104 +110175,6 @@
         "DXY"
       ],
       "text": "U.S. President Trump said the war with Iran will end soon."
-    },
-    {
-      "id": "5102742",
-      "time": "2026-09-19 04:07:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic 表示，埃森哲將評估其前沿人工智慧。"
-    },
-    {
-      "id": "5102741",
-      "time": "2026-09-19 04:06:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：埃森哲將與其他人工智慧開發商開展合作。"
-    },
-    {
-      "id": "mkt:01a0b620-f11e-7118-860b-502776c52445",
-      "time": "2026-09-19 04:06:47",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "DBRS Morningstar cut France's credit rating outlook to negative and affirmed the country's AA rating."
-    },
-    {
-      "id": "5102740",
-      "time": "2026-09-19 04:06:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普就塞普勒斯問題表示：認為中東戰爭對塞普勒斯的影響有限，但相關干擾可能會持續到2027年。"
-    },
-    {
-      "id": "5102739",
-      "time": "2026-09-19 04:05:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic 與埃森哲達成協議，在實驗室內部署 AI 評估人員。"
-    },
-    {
-      "id": "5102738",
-      "time": "2026-09-19 04:05:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： Anthropic 預計本年度年化營收超 1000 億美元。"
-    },
-    {
-      "id": "mkt:01a0b61f-8155-7118-860b-4caf660c6004",
-      "time": "2026-09-19 04:05:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "DBRS Morningstar affirmed the United States' sovereign credit rating at AAA and kept the rating outlook stable."
-    },
-    {
-      "id": "5102737",
-      "time": "2026-09-19 04:04:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "人工智慧公司Anthropic與埃森哲計劃在五年內各投入10億美元建設人工智慧評測能力。"
-    },
-    {
-      "id": "5102736",
-      "time": "2026-09-19 04:04:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic 推進 IPO 計劃。"
-    },
-    {
-      "id": "mkt:01a0b61e-d15b-7118-860b-41a4015221a8",
-      "time": "2026-09-19 04:04:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said we will recommend that drugmakers produce lower-dose vaccines."
-    },
-    {
-      "id": "5102735",
-      "time": "2026-09-19 04:04:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普將塞普勒斯評級上調至“A/A-1”；展望正面。"
     }
   ]
 }
