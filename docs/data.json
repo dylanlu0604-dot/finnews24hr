@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-26 04:46:54",
-  "count": 12100,
+  "updated": "2026-09-26 04:50:43",
+  "count": 12099,
   "items": [
+    {
+      "id": "5114030",
+      "time": "2026-09-26 04:49:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據美國證券交易委員會（SEC）檔案顯示：應用數字公司（APPLIED DIGITAL CORP）執行長韋斯·卡明斯（Wes Cummins）2026財年總薪酬為1.8922億美元，其中包含1.859億美元的股權激勵。"
+    },
     {
       "id": "5114028",
       "time": "2026-09-26 04:45:12",
@@ -110184,24 +110193,6 @@
         "其他"
       ],
       "text": "市場訊息：甲骨文180億美後設資料中心債務承壓 因地方反對聲浪加劇。"
-    },
-    {
-      "id": "5102784",
-      "time": "2026-09-19 04:50:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "BASTION獲得美國貨幣監理署有條件批准，可取得全國性信託銀行牌照。"
-    },
-    {
-      "id": "mkt:01a0b648-c866-7118-860c-2d7fa7ab5952",
-      "time": "2026-09-19 04:50:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI CEO Sam Altman to brief UN Security Council on AI safety next week】OpenAI CEO Sam Altman will brief the UN Security Council next week during the UN General Assembly in New York. The Security Council is scheduled to hold an open meeting on AI and international security on Wednesday. OpenAI said Altman will outline the company’s measures to secure AI, efforts to ensure the technology benefits broadly, and the need for international coordination and common safety standards. The meeting comes as several AI industry figures urge coordinated slowdowns in advanced AI development, warning rapid capability gains could create risks beyond human control. Altman has previously warned of AI risks, including a 2015 article saying superintelligence could be among humanity’s largest threats."
     }
   ]
 }
