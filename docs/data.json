@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-25 23:55:00",
-  "count": 12088,
+  "updated": "2026-09-25 23:59:01",
+  "count": 12084,
   "items": [
+    {
+      "id": "5113750",
+      "time": "2026-09-25 23:57:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 10 月柴油期貨結算價為每噸 1460.75 美元。"
+    },
+    {
+      "id": "te:markets:586984",
+      "time": "2026-09-25 23:55:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound — European stocks closed higher on Friday as energy prices moderated and softened the recent surge in inflationary risks. The Euro STOXX 50 added 0.4% to 6,296 and the STOXX Europe 600 gained 0.3% to 638.5. Sovereign yields held off from extending their surges from the week as a pullback in natural gas prices limited risks of worsening inflationary pressures at the turn of the fourth quarter. Banks rebounded after underperforming in the last sessions, with UniCredit, Deutsche Bank, and ING gaining between 3% and 1%. To add, stocks with exposure to AI software and infrastructure also rebounded, tracking the long momentum in the US with ASML, Infineon, and Prosus jumping more than 1.5%. On the economic data front, German consumer sentiment deteriorated more sharply than expected heading into October, as higher energy prices weighed on households’ income expectations."
+    },
     {
       "id": "mkt:01a0d945-5eb6-7118-869e-f91727fd3019",
       "time": "2026-09-25 23:53:17",
@@ -110006,69 +110026,6 @@
         "國際"
       ],
       "text": "【比特幣升逾8萬美元 投資者消化美國加密貨幣法案受挫及美聯儲加息】加密貨幣週五上漲，市場風險偏好上升，投資者消化了美國加密貨幣法案未獲透過以及美聯儲三年多來首次加息的影響。最大的加密貨幣比特幣一度上漲5.2%，報約80,443美元，收復本週早些時候的部分失地。第二大加密貨幣以太幣一度上漲5.1%，至約2,576美元。XRP、Solana和Monero等規模較小的加密貨幣也上漲。此次上漲表明，數字資產投資者已經消化了過去一週的大部分利空訊息。美國一項重要的加密貨幣監管法案《Clarity Act》週二在程式性投票中未能透過，此前市場已認為該法案不太可能在參議院過關；而美聯儲週三加息25個基點也符合市場普遍預期。"
-    },
-    {
-      "id": "5102594",
-      "time": "2026-09-18 23:58:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京： 將高質量資料集及場景資訊、合規要求等關鍵資料知識有機融合創新，形成大模型可使用的資料產品或服務 】北京市經濟和資訊化局、北京市發展和改革委員會關於印發《北京市加快詞元經濟發展的行動方案（2026—2028年）》。其中提到，將高質量資料集及場景資訊、合規要求等關鍵資料知識有機融合創新，形成大模型可使用的資料產品或服務。支援軟體和資訊服務業企業、工業企業先行先試，將行業知識、工藝引數、裝置資料等封裝形成資料產品，探索新型資料生產正規化、合作機制及商業模式，加速製造業數字化轉型與智慧化升級，相關成果納入高質量資料集獎勵支援範疇。"
-    },
-    {
-      "id": "5102593",
-      "time": "2026-09-18 23:58:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京： 提升詞元技術海外服務能力 】北京市經濟和資訊化局、北京市發展和改革委員會關於印發《北京市加快詞元經濟發展的行動方案（2026—2028年）》。其中提到，依託詞元工程技術優勢，高水平建設中國—上合組織國家人工智慧應用合作中心，面向共建“一帶一路”國家和全球新興市場，提供開源模型適配、智慧體部署、開發工具鏈和算力服務一體化方案。用好中國國際服務貿易交易會、全球數字經濟大會等平臺，開展技術成果釋出、國際專題研討與供需對接；依託全球數字經濟城市聯盟國際合作網路、北京出海平臺專項服務通道、人工智慧出海服務站等載體，推動多語種詞元技術方案落地。圍繞目標市場資料與內容合規、多語種調優、海外運維支援等方向，完善服務清單，培育海外開發者生態。"
-    },
-    {
-      "id": "mkt:01a0b53b-cec1-7118-8608-1e9158e76bb3",
-      "time": "2026-09-18 23:56:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Beijing to implement AI-agent control upgrade project to build secure, controllable software stack】Beijing Municipal Bureau of Economy and Information Technology and the Beijing Development and Reform Commission issued the Action Plan to Accelerate Token Economy Development (2026–2028). The plan calls for building a core software ecosystem for AI agents, implementing an AI-agent control upgrade project to develop a secure, controllable tech stack and strengthen end-to-end task-execution safety; it targets breakthroughs in memory management, security permission control and efficient inter-component communication, and aims to cultivate a cohort of AI-agent operating systems and new software tooling firms to upgrade the software and information services sector."
-    },
-    {
-      "id": "mkt:01a0b53b-127c-7118-8608-11cdfee457a5",
-      "time": "2026-09-18 23:55:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Beijing to back firms building general-purpose agents for retail and institutional clients】Beijing Municipal Commission of Economy and Information Technology and the Beijing Development and Reform Commission issued the Action Plan to Accelerate Development of the Token Economy (2026–2028). The plan calls for cultivating general-purpose and vertical-domain intelligent agents, supporting firms to develop agent products for individual and institutional clients, and encouraging internet platforms and agent service providers to collaborate to scale deployments in information consulting, commercial services and lifestyle services. It targets industrial manufacturing, scientific research, biopharma and education, seeks to open application scenarios, seed representative flagship projects and promote industry token-application services."
-    },
-    {
-      "id": "mkt:01a0b53a-b9ec-7118-8608-0929a10bcff2",
-      "time": "2026-09-18 23:55:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Beijing to back software and information-service firms building token distribution platforms benchmarked to international best practice】Beijing’s municipal industry and information technology bureau and development and reform commission issued the Action Plan to Accelerate Token Economy Development (2026–2028), directing support for software and information-service firms to build token distribution platforms benchmarked to international best practice. The plan targets improved cross-model, cross‑modal and cross‑region platform access, unified APIs, model aggregation, token metering and settlement services; it calls for cultivating leading firms with strong upstream/downstream spillovers and for including token distribution platforms in new-infrastructure planning as efficient service entry points for the intelligent economy."
-    },
-    {
-      "id": "mkt:01a0b53a-6f7a-7118-8608-0434fcdb2748",
-      "time": "2026-09-18 23:55:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Crypto Concepts"
-      ],
-      "text": "【Beijing backs software and information‑service firms to build token testing platform with third‑party evaluators】Beijing Municipal Commission of Economy and Information Technology and the Beijing Development and Reform Commission issued the Action Plan to Accelerate the Token Economy (2026–2028). The plan supports software and information‑service firms partnering with third‑party evaluation agencies to pilot token (AI model token) testing platforms, and encourages value‑added services such as model intelligent‑routing and evaluation consulting to form sustainable operating models. It also calls for objective, impartial token performance and quality standards to inform token pricing and model routing."
     }
   ]
 }

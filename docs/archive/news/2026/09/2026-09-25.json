@@ -1,7 +1,27 @@
 {
   "date": "2026-09-25",
-  "count": 1816,
+  "count": 1818,
   "items": [
+    {
+      "id": "5113750",
+      "time": "2026-09-25 23:57:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所 10 月柴油期貨結算價為每噸 1460.75 美元。"
+    },
+    {
+      "id": "te:markets:586984",
+      "time": "2026-09-25 23:55:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound — European stocks closed higher on Friday as energy prices moderated and softened the recent surge in inflationary risks. The Euro STOXX 50 added 0.4% to 6,296 and the STOXX Europe 600 gained 0.3% to 638.5. Sovereign yields held off from extending their surges from the week as a pullback in natural gas prices limited risks of worsening inflationary pressures at the turn of the fourth quarter. Banks rebounded after underperforming in the last sessions, with UniCredit, Deutsche Bank, and ING gaining between 3% and 1%. To add, stocks with exposure to AI software and infrastructure also rebounded, tracking the long momentum in the US with ASML, Infineon, and Prosus jumping more than 1.5%. On the economic data front, German consumer sentiment deteriorated more sharply than expected heading into October, as higher energy prices weighed on households’ income expectations."
+    },
     {
       "id": "mkt:01a0d945-5eb6-7118-869e-f91727fd3019",
       "time": "2026-09-25 23:53:17",
