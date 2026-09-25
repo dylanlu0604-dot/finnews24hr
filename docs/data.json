@@ -1,7 +1,50 @@
 {
-  "updated": "2026-09-25 09:51:21",
-  "count": 12677,
+  "updated": "2026-09-25 09:55:07",
+  "count": 12673,
   "items": [
+    {
+      "id": "te:markets:586708",
+      "time": "2026-09-25 09:54:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Set for Second Weekly Gain — The dollar index held above 101 on Friday after rising for four straight sessions, trading at its strongest levels in nearly two months and on track to advance for the second consecutive week. The greenback strengthened as elevated oil prices and robust US economic data stoked inflation concerns, reinforcing expectations that the Fed may tighten policy further. Markets are currently pricing in roughly a 67% probability of a Fed rate hike in October, following last week's increase. New York Fed's John Williams said the central bank still has a lot of work to do to bring inflation under control, while Philadelphia Fed's Anna Paulson said some modest additional policy tightening could be warranted. On the data front, US weekly initial jobless claims unexpectedly fell by 1,000 to a two-month low of 197,000, pointing to continued labor-market resilience. Investors now await consumer sentiment and durable goods data on Friday for further clues about the economy."
+    },
+    {
+      "id": "mkt:01a0d644-db40-7118-8693-b3a28f0e3534",
+      "time": "2026-09-25 09:53:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Themes",
+        "AI Revolution",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "【Citigroup: Tencent's Xiaowei poised to become China's preferred agent-style AI assistant】Citigroup says Tencent's Xiaowei could become China's leading agent-style AI assistant by leveraging WeChat's large user base, social graph and mature mini-program commerce ecosystem. As AI agent commercialization accelerates, Citigroup sees Xiaowei monetizing via transaction-sharing and advertising, expanding long-term revenue potential. Citigroup maintains a Buy rating on Tencent with a PT of HK$765, implying notable upside to Thursday's close."
+    },
+    {
+      "id": "5112946",
+      "time": "2026-09-25 09:52:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾克價跌至1289元】9月25日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所調整，老廟黃金報價1289元/克，較前一日跌4元；周生生報價1296元/克，較前一日跌1元；周大福報價1292元/克，較前一日跌7元；老鳳祥報價1295元/克，較前一日跌5元。"
+    },
+    {
+      "id": "5112945",
+      "time": "2026-09-25 09:51:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度Nityas珠寶公司IPO定價區間設為每股70-75盧比。"
+    },
     {
       "id": "mkt:01a0d641-6428-7118-8693-a9288d01b01b",
       "time": "2026-09-25 09:50:04",
@@ -115188,84 +115231,6 @@
         "SSE Composite"
       ],
       "text": "China A-share wind-power equipment sector spiked briefly; Xihua Technology hit the daily limit, while Zhenhong, Luozhou, Yunda, Taisheng Wind Energy and Mingyang Smart Energy also rallied."
-    },
-    {
-      "id": "5100954",
-      "time": "2026-09-18 09:54:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【風電裝置板塊短線拉昇，錫華科技漲停】風電裝置板塊短線拉昇，錫華科技漲停，振宏股份、洛軸股份、運達股份、泰勝風能、明陽智慧等跟漲。"
-    },
-    {
-      "id": "5100953",
-      "time": "2026-09-18 09:54:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加強涉企侵權資訊管理 中央網信辦要求平臺主動清理五大類】中央網信辦釋出《關於加強涉企侵權資訊管理 持續推動營商網路環境最佳化的通知》，通知明確處置範圍，內容如下：處置涉企侵權資訊，事關企業、企業家切身利益，事關人民群眾切身權益。經過一段時間實踐，各方對處置涉企侵權資訊已形成共識。網站平臺對以下涉企侵權資訊，應當積極主動清理處置。1.個人資訊類。包括洩露企業家身份證、護照、戶籍檔案、家庭住址、電話號碼等個人身份及聯絡資訊，以及生物識別、醫療健康、金融賬戶、行蹤軌跡等敏感個人資訊。2.侮辱貶損類。包括侮辱謾罵企業、企業家，惡搞醜化企業標識、產品和企業家肖像，將企業、企業家與色情低俗話題惡意關聯，使用汙名化詞彙詆譭企業、企業家或特定品牌使用者。3.假冒仿冒類。包括假冒仿冒新聞單位制作釋出的涉企監督資訊，假借企業或企業家名義釋出的資訊，在公眾賬號名稱、頭像、簡介中，擅自使用與企業相同或相似的名稱標識或企業家姓名肖像。4.虛假誤導類。包括斷章取義、歪曲解讀企業家過往言論，呈現與事實不符的搜尋關鍵詞聯想、搜尋落地頁結果，已經權威闢謠、澄清的不實資訊，與企業、企業家在超大平臺上的官方賬號釋出的公開宣告不符資訊。5.其他類。包括涉企拉踩引戰資訊，集納翻炒的企業舊聞舊事、負面資訊，已被本平臺處置過的涉企侵權資訊，機器人賬號、網路水軍賬號釋出的涉企評論資訊，明顯違背公序良俗抹黑詆譭企業、企業家資訊。網站平臺應當根據本通知要求，健全資訊內容管理制度，完善最佳化平臺社群規則，將涉企資訊納入日常內容稽核處置範圍，強化賬號、MCN機構管理，切實增強工作主動性、針對性和實效性。網信部門要落實屬地管理責任，指導所在地網站平臺完善制度，加強涉企資訊內容管理，及時清理涉企侵權資訊。對重視程度不足、落實力度不夠特別是網民反映問題集中的網站平臺，依法依規從嚴處理。"
-    },
-    {
-      "id": "mkt:01a0b237-5b8e-7118-85ee-1981dc78108e",
-      "time": "2026-09-18 09:52:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China A-share retail sector surged intraday; Guoguang Chain hit the daily limit. Shanghai 900, Maoye Commercial, Guofang Group, Central Department Store and Xujiahui also rallied."
-    },
-    {
-      "id": "mkt:01a0b237-1865-7118-85ee-1403a9bb7bb7",
-      "time": "2026-09-18 09:52:30",
-      "tags": [
-        "MKT News",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Shenzhen-listed firms' 1H R&D spend 103.86 bln yuan, second to Beijing】In 1H 2026, 407 Shenzhen-listed companies reported combined R&D spending of 103.86 bln yuan, ranking only behind Beijing. R&D intensity exceeded 10% at 90 firms. Fifteen firms spent more than 1 bln yuan on R&D; two surpassed 10 bln yuan."
-    },
-    {
-      "id": "5100952",
-      "time": "2026-09-18 09:52:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳上市公司上半年研發投入破千億】2026年上半年，深圳407家上市公司交出這樣一份成績單：研發費用合計1038.57億元，規模僅次於北京，90家企業研發強度超過10%，15家研發費用在10億元以上，2家在100億元以上。（深圳釋出）"
-    },
-    {
-      "id": "5100951",
-      "time": "2026-09-18 09:52:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【零售板塊短線拉昇，國光連鎖漲停】零售板塊短線拉昇，國光連鎖漲停，上海九百、茂業商業、國芳集團、中央商場、徐家彙等紛紛走高。"
-    },
-    {
-      "id": "5100950",
-      "time": "2026-09-18 09:52:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "李在明表示公眾永遠是對的，一切都是自己的不足所致。"
-    },
-    {
-      "id": "te:economy:584789",
-      "time": "2026-09-18 09:51:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Retreats from 2011 Highs — Australia’s 10-year government bond yield fell below 5.3%, pulling back from mid-2011 highs and tracking lower global yields as easing concerns over Middle East supply disruptions reduced inflation pressures. Oil prices retreated after Saudi Arabia worked to restore flows through its East-West pipeline, while President Trump is set to meet Gulf leaders next week. In Australia, hawkish comments from the Reserve Bank’s top official reinforced expectations for further policy tightening. Governor Michele Bullock said upside inflation risks were materializing and warned that higher costs could make inflation more persistent. Her remarks follow statements over the past month by senior RBA officials that inflation remains elevated and needs to ease further. Markets now priced at least two more rate hikes by the February meeting, with a roughly 87% chance the first occurs on September 29. That marks a notable shift from the start of September, when traders were pricing just one further hike."
     }
   ]
 }

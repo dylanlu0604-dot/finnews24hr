@@ -1,7 +1,50 @@
 {
   "date": "2026-09-25",
-  "count": 677,
+  "count": 681,
   "items": [
+    {
+      "id": "te:markets:586708",
+      "time": "2026-09-25 09:54:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Set for Second Weekly Gain — The dollar index held above 101 on Friday after rising for four straight sessions, trading at its strongest levels in nearly two months and on track to advance for the second consecutive week. The greenback strengthened as elevated oil prices and robust US economic data stoked inflation concerns, reinforcing expectations that the Fed may tighten policy further. Markets are currently pricing in roughly a 67% probability of a Fed rate hike in October, following last week's increase. New York Fed's John Williams said the central bank still has a lot of work to do to bring inflation under control, while Philadelphia Fed's Anna Paulson said some modest additional policy tightening could be warranted. On the data front, US weekly initial jobless claims unexpectedly fell by 1,000 to a two-month low of 197,000, pointing to continued labor-market resilience. Investors now await consumer sentiment and durable goods data on Friday for further clues about the economy."
+    },
+    {
+      "id": "mkt:01a0d644-db40-7118-8693-b3a28f0e3534",
+      "time": "2026-09-25 09:53:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Themes",
+        "AI Revolution",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "【Citigroup: Tencent's Xiaowei poised to become China's preferred agent-style AI assistant】Citigroup says Tencent's Xiaowei could become China's leading agent-style AI assistant by leveraging WeChat's large user base, social graph and mature mini-program commerce ecosystem. As AI agent commercialization accelerates, Citigroup sees Xiaowei monetizing via transaction-sharing and advertising, expanding long-term revenue potential. Citigroup maintains a Buy rating on Tencent with a PT of HK$765, implying notable upside to Thursday's close."
+    },
+    {
+      "id": "5112946",
+      "time": "2026-09-25 09:52:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金飾克價跌至1289元】9月25日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所調整，老廟黃金報價1289元/克，較前一日跌4元；周生生報價1296元/克，較前一日跌1元；周大福報價1292元/克，較前一日跌7元；老鳳祥報價1295元/克，較前一日跌5元。"
+    },
+    {
+      "id": "5112945",
+      "time": "2026-09-25 09:51:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度Nityas珠寶公司IPO定價區間設為每股70-75盧比。"
+    },
     {
       "id": "mkt:01a0d641-6428-7118-8693-a9288d01b01b",
       "time": "2026-09-25 09:50:04",
