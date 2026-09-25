@@ -1,7 +1,131 @@
 {
-  "updated": "2026-09-25 20:19:47",
+  "updated": "2026-09-25 20:23:38",
   "count": 12260,
   "items": [
+    {
+      "id": "5113587",
+      "time": "2026-09-25 20:22:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "米佐塔基斯：堅決致力於遵守歐盟財政規則。"
+    },
+    {
+      "id": "mkt:01a0d884-443f-7118-869b-8a17448f525e",
+      "time": "2026-09-25 20:22:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU energy commissioner signals a delay to the implementation of methane import rules."
+    },
+    {
+      "id": "5113586",
+      "time": "2026-09-25 20:21:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟能源負責人暗示將推遲進口甲烷規則。"
+    },
+    {
+      "id": "5113585",
+      "time": "2026-09-25 20:21:21",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛：美國五大超大規模雲服務商將在2027年將人工智慧基礎設施支出提高54%，達到1.2萬億美元，高於華爾街預期。預計亞馬遜、谷歌母公司Alphabet、微軟、甲骨文和Meta今年人工智慧基礎設施支出將達到8000億美元。超大規模雲服務商每年需要約3000億美元的人工智慧收入才能實現盈虧平衡。不過，融資需求上升以及基礎設施限制可能拖累未來支出增長速度。"
+    },
+    {
+      "id": "mkt:01a0d882-7571-7118-869b-83e5ee827b1f",
+      "time": "2026-09-25 20:20:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bearish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "Goldman Sachs says hyperscale cloud providers need roughly $300 billion of annual AI revenue to reach breakeven; rising funding requirements and infrastructure constraints could dampen future spending growth."
+    },
+    {
+      "id": "mkt:01a0d882-5e8e-7118-869b-7f61130a4a61",
+      "time": "2026-09-25 20:20:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "Alphabet",
+        "Microsoft",
+        "Meta Platforms",
+        "MSFT.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "Goldman Sachs expects Amazon, Alphabet, Microsoft, Oracle and Meta to spend $800 billion on AI infrastructure this year."
+    },
+    {
+      "id": "5113584",
+      "time": "2026-09-25 20:20:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘總理米佐塔基斯：希臘反對在紅海徵收任何通行費。"
+    },
+    {
+      "id": "mkt:01a0d882-27e4-7118-869b-77d3b0df466b",
+      "time": "2026-09-25 20:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "US Aug durable goods orders MoM to be released in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0d882-11c9-7118-869b-6a0d3c50b882",
+      "time": "2026-09-25 20:19:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Wall Street (US)",
+        "MSFT.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "Goldman Sachs projects the five largest US hyperscale cloud providers will increase AI infrastructure spending 54% by 2027 to $1.2 trillion, above Wall Street expectations."
+    },
+    {
+      "id": "5113583",
+      "time": "2026-09-25 20:19:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司收到新一筆柴油補貼分期付款。"
+    },
+    {
+      "id": "5113582",
+      "time": "2026-09-25 20:19:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普下週將在俄克拉荷馬州和阿拉巴馬州進行競選活動。"
+    },
     {
       "id": "mkt:01a0d881-872d-7118-869b-632140fdb722",
       "time": "2026-09-25 20:19:22",
@@ -111456,107 +111580,6 @@
         "公司"
       ],
       "text": "【大模型初創公司Naive AI估值達14億美元】據知情人士透露，一家今年2月創立、處於保密運營狀態的AI模型初創公司，在完成三輪融資合計 4 億美元后，目前估值已超 14 億美元，投資方包括騰訊。這名知情人士稱，Naive AI最早將於本月推出首款大語言模型，以新入局者的身份，投身激烈的大模型賽道競爭。該初創企業計劃以開源權重模型的形式釋出產品，與深度求索、月之暗面的同類產品類似，使用者可免費下載並按需進行二次定製。據知情人士透露，Naive AI的投資方包括騰訊、IDG資本、經緯創投以及紅杉。知情人士稱，公司首輪融資1億美元，第二輪融資1.8億美元，近期完成第三輪融資1.2億美元，投後估值達14.2億美元。知情人士表示，Naive AI沒有選擇成本高昂的從零預訓練路線，而是基於一款國內已有的開源權重模型來搭建自家同名大模型Naive。目前尚無法確認其具體採用哪一款基座模型。"
-    },
-    {
-      "id": "5102289",
-      "time": "2026-09-18 20:22:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華軟科技：公司不生產光刻膠產品，僅有少量光引發劑產品】華軟科技9月18日公告，公司關注到近期“光刻膠”概念受市場關注度較高，目前公司的主要業務為精細化工產品以及工業安全防護感測器及安全控制產品的研發、生產與銷售。關於光刻膠基材業務，公司現有光引發劑產品，按客戶訂單小批次生產銷售，2025年該產品收入佔公司總營收約不到4%，2026年半年度該產品收入佔公司總營收不到1%，連續多年對公司的經營業績影響較小，未來銷售情況受多種因素影響存在較大不確定性。公司不生產光刻膠產品，僅有少量光引發劑產品。敬請廣大投資者注意投資風險，理性投資。"
-    },
-    {
-      "id": "mkt:01a0b477-3a77-7118-8602-507f8cad92a7",
-      "time": "2026-09-18 20:21:47",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "REUTERS SURVEY: UK house prices are forecast to rise 1.3% in 2026, 2.0% in 2027 and 3.3% in 2028, versus second-quarter survey forecasts of 1.8%, 3.0% and 3.0%. London house prices are forecast to fall 1.4% in 2026, then rise 0.9% in 2027 and 2.5% in 2028, versus second-quarter forecasts of -0.3%, 2.0% and 3.0%."
-    },
-    {
-      "id": "5102288",
-      "time": "2026-09-18 20:21:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今日特朗普行程】\n9月18日20:00（北京時間，下同）：在白宮安排行政時間，閉門進行。\n9月18日21:00：在白宮，本地媒體池記者集合待命。\n9月18日23:00：在白宮橢圓形辦公室參加政策會議，閉門進行。\n9月19日01:30：在白宮橢圓形辦公室會見“百萬美元創意競賽”（Million Dollar Pitch Competition）決賽選手，閉門進行。\n9月19日02:30：在白宮橢圓形辦公室就醫療保健事項發表宣告，白宮媒體池開放採訪。\n9月19日04:00：在白宮橢圓形辦公室參加拍照環節，閉門進行。\n9月19日04:30：在白宮橢圓形辦公室進行檔案簽署，閉門進行。\n9月19日06:30：在特朗普國家高爾夫俱樂部華盛頓特區店參加MAGA Inc.會議，閉門進行。\n9月19日07:15：在特朗普國家高爾夫俱樂部華盛頓特區店參加MAGA Inc.晚宴，本地媒體池隨行採訪。\n以上活動結束後，特朗普將前往戴維營，具體啟程和抵達時間暫未公佈。"
-    },
-    {
-      "id": "mkt:01a0b476-5c16-7118-8602-49778a3dd8b5",
-      "time": "2026-09-18 20:20:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Maersk expects the vessels to be delivered in 2029 and 2030."
-    },
-    {
-      "id": "mkt:01a0b476-4af9-7118-8602-46899e51aef3",
-      "time": "2026-09-18 20:20:46",
-      "tags": [
-        "MKT News",
-        "MAERSK-B.CO",
-        "Impact bullish"
-      ],
-      "text": "Maersk has ordered 26 large container vessels as part of its ongoing fleet renewal. Each vessel will have 18,600 TEU capacity and be fitted with dual-fuel engines capable of running on liquefied natural gas (LNG)."
-    },
-    {
-      "id": "5102287",
-      "time": "2026-09-18 20:20:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬士基：這些船舶的裝箱容量為18600標準箱，將配備可使用液化天然氣執行的雙燃料發動機。這些船舶預計將於2029年和2030年交付。"
-    },
-    {
-      "id": "5102286",
-      "time": "2026-09-18 20:20:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報喜鳥：董事吳利亞減持計劃實施完畢，減持35萬股】報喜鳥公告，公司此前披露董事吳利亞擬於2026年6月18日至2026年9月17日透過集中競價減持不超過35.16萬股。截至2026年9月17日，減持期間屆滿，吳利亞實際減持35萬股，減持均價3.88元/股，佔總股本0.02%，實施情況與此前披露計劃一致。"
-    },
-    {
-      "id": "5102285",
-      "time": "2026-09-18 20:20:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國林科技：擬集中競價出售已回購股份不超過240.5萬股】國林科技公告，公司擬自2026年10月20日至2027年4月19日以集中競價方式出售已回購股份不超過240.5萬股，約佔公司當前總股本的1.3069%，出售價格視出售時二級市場價格確定，所得資金將用於補充公司流動資金。"
-    },
-    {
-      "id": "5102284",
-      "time": "2026-09-18 20:20:17",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美債跌出機會 5%收益率吸引資金入場】儘管焦慮情緒籠罩著全球最大的債券市場，但一些投資者仍看到了一個頗具吸引力的買入理由：收益。美國國債持續數月的拋售本週再迎一個標誌性節點。在高通脹、不斷擴大的預算赤字以及企業債發行潮推動下，基準10年期美國國債收益率近三年來首次突破5%，隨後隨著全球供應風險升溫推動油價上漲，收益率進一步升至2007年以來最高水平。長期借貸成本持續攀升的勢頭至少暫時得到喘息。美聯儲為遏制通脹實施了三年多來的首次加息。不過，收益率此前的上漲已經給投資者造成不小損失，主要債券指數今年以來錄得虧損，拉長至五年期來看同樣如此。"
-    },
-    {
-      "id": "mkt:01a0b475-d2c2-7118-8602-385856e66c7c",
-      "time": "2026-09-18 20:20:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "EURUSD"
-      ],
-      "text": "STOXX Europe 600 extended losses to 1%, hitting an intraday low."
-    },
-    {
-      "id": "5102283",
-      "time": "2026-09-18 20:20:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數跌幅擴大至1%，創盤中新低。"
     }
   ]
 }

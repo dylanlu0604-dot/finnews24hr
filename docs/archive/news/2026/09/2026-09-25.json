@@ -1,7 +1,131 @@
 {
   "date": "2026-09-25",
-  "count": 1560,
+  "count": 1571,
   "items": [
+    {
+      "id": "5113587",
+      "time": "2026-09-25 20:22:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "米佐塔基斯：堅決致力於遵守歐盟財政規則。"
+    },
+    {
+      "id": "mkt:01a0d884-443f-7118-869b-8a17448f525e",
+      "time": "2026-09-25 20:22:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU energy commissioner signals a delay to the implementation of methane import rules."
+    },
+    {
+      "id": "5113586",
+      "time": "2026-09-25 20:21:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟能源負責人暗示將推遲進口甲烷規則。"
+    },
+    {
+      "id": "5113585",
+      "time": "2026-09-25 20:21:21",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛：美國五大超大規模雲服務商將在2027年將人工智慧基礎設施支出提高54%，達到1.2萬億美元，高於華爾街預期。預計亞馬遜、谷歌母公司Alphabet、微軟、甲骨文和Meta今年人工智慧基礎設施支出將達到8000億美元。超大規模雲服務商每年需要約3000億美元的人工智慧收入才能實現盈虧平衡。不過，融資需求上升以及基礎設施限制可能拖累未來支出增長速度。"
+    },
+    {
+      "id": "mkt:01a0d882-7571-7118-869b-83e5ee827b1f",
+      "time": "2026-09-25 20:20:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bearish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "Goldman Sachs says hyperscale cloud providers need roughly $300 billion of annual AI revenue to reach breakeven; rising funding requirements and infrastructure constraints could dampen future spending growth."
+    },
+    {
+      "id": "mkt:01a0d882-5e8e-7118-869b-7f61130a4a61",
+      "time": "2026-09-25 20:20:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "Alphabet",
+        "Microsoft",
+        "Meta Platforms",
+        "MSFT.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "Goldman Sachs expects Amazon, Alphabet, Microsoft, Oracle and Meta to spend $800 billion on AI infrastructure this year."
+    },
+    {
+      "id": "5113584",
+      "time": "2026-09-25 20:20:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "希臘總理米佐塔基斯：希臘反對在紅海徵收任何通行費。"
+    },
+    {
+      "id": "mkt:01a0d882-27e4-7118-869b-77d3b0df466b",
+      "time": "2026-09-25 20:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "US Aug durable goods orders MoM to be released in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0d882-11c9-7118-869b-6a0d3c50b882",
+      "time": "2026-09-25 20:19:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Wall Street (US)",
+        "MSFT.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "Goldman Sachs projects the five largest US hyperscale cloud providers will increase AI infrastructure spending 54% by 2027 to $1.2 trillion, above Wall Street expectations."
+    },
+    {
+      "id": "5113583",
+      "time": "2026-09-25 20:19:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司收到新一筆柴油補貼分期付款。"
+    },
+    {
+      "id": "5113582",
+      "time": "2026-09-25 20:19:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普下週將在俄克拉荷馬州和阿拉巴馬州進行競選活動。"
+    },
     {
       "id": "mkt:01a0d881-872d-7118-869b-632140fdb722",
       "time": "2026-09-25 20:19:22",
