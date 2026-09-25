@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-25 23:59:01",
-  "count": 12084,
+  "updated": "2026-09-26 00:03:16",
+  "count": 12085,
   "items": [
+    {
+      "id": "te:markets:586986",
+      "time": "2026-09-26 00:01:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Inches Higher — The FTSE MIB rose 0.6% to 51,867 on Friday, amid increasingly intertwined merger talks in Italy’s financial sector. UniCredit rose 2.2% after indicating it could buy branches from Banco BPM (1.1%) if Credit Agricole were to take over the lender, and similarly from MPS (1.3%) if Intesa’s (1%) takeover bid goes through. The news adds further complexity to Milan's banking game, as Unipol (0.7%) had been set to receive a large portion of MPS’s branches if Intesa’s bid succeeds, while MPS had launched counterbids for Banca Generali and Banco BPM. Tech stocks STMicroelectronics (0.5%), Technoprobe (2.2%) and Prysmian advanced, tracking upbeat sentiment across the sector. Meanwhile energy stocks Eni (-1.2%), Tenaris (-1.9%) and Saipem (-0.3%) underperformed, however, tracking lower oil prices. Italy’s government is set to meet with refiners next month to discuss boosting production in an effort to lower fuel prices. It had previously extended its tax cuts on diesel through October."
+    },
+    {
+      "id": "5113751",
+      "time": "2026-09-26 00:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數跌破100關口，日內跌0.27%。"
+    },
     {
       "id": "5113750",
       "time": "2026-09-25 23:57:24",
@@ -110016,16 +110037,6 @@
         "Importance 0"
       ],
       "text": "Cheese Hits 32-week Low — Cheese decreased to 1.51 USD/Lbs, the lowest since February 2026. Over the past 4 weeks, Cheese lost 8.37%, and in the last 12 months, it decreased 16.67%."
-    },
-    {
-      "id": "5102595",
-      "time": "2026-09-19 00:01:37",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【比特幣升逾8萬美元 投資者消化美國加密貨幣法案受挫及美聯儲加息】加密貨幣週五上漲，市場風險偏好上升，投資者消化了美國加密貨幣法案未獲透過以及美聯儲三年多來首次加息的影響。最大的加密貨幣比特幣一度上漲5.2%，報約80,443美元，收復本週早些時候的部分失地。第二大加密貨幣以太幣一度上漲5.1%，至約2,576美元。XRP、Solana和Monero等規模較小的加密貨幣也上漲。此次上漲表明，數字資產投資者已經消化了過去一週的大部分利空訊息。美國一項重要的加密貨幣監管法案《Clarity Act》週二在程式性投票中未能透過，此前市場已認為該法案不太可能在參議院過關；而美聯儲週三加息25個基點也符合市場普遍預期。"
     }
   ]
 }
