@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-25 23:51:11",
-  "count": 12091,
+  "updated": "2026-09-25 23:55:00",
+  "count": 12088,
   "items": [
+    {
+      "id": "mkt:01a0d945-5eb6-7118-869e-f91727fd3019",
+      "time": "2026-09-25 23:53:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xi and Trump visit U.S. National Archives with their spouses】On Sept. 25 local time, Chinese President Xi Jinping and his wife Peng Liyuan, accompanied by U.S. President Donald Trump and First Lady Melania Trump, toured the U.S. National Archives."
+    },
+    {
+      "id": "5113749",
+      "time": "2026-09-25 23:52:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中美兩國元首夫婦共同參觀美國國家檔案館】當地時間9月25日，國家主席習近平和夫人彭麗媛在美國總統特朗普和夫人梅拉尼婭陪同下參觀美國國家檔案館。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0d944-7f2c-7118-869e-f62fc77361d5",
+      "time": "2026-09-25 23:52:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Schmid said policymakers will monitor equity valuations and economic performance but will not be 'overly granular' in their observations."
+    },
+    {
+      "id": "te:markets:586978",
+      "time": "2026-09-25 23:52:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Pares Losses — Brent crude pared earlier losses to trade around $106 a barrel on Friday as investors remained cautious over the prospects for a US-Iran agreement, given that previous negotiations have repeatedly appeared close to a breakthrough before collapsing. US and Iranian negotiators have been exploring a phased arrangement that could reopen the Strait of Hormuz, potentially involving Tehran restoring access through the strategic waterway while Washington lifts its blockade of Iranian ports. However, a White House official said President Donald Trump remained open to talks but maintained that the US was under no pressure to negotiate, citing the strength of its sanctions campaign and blockade. Brent crude remained more than 2% higher for the week, reflecting continued supply concerns linked to the conflict."
+    },
     {
       "id": "5113748",
       "time": "2026-09-25 23:50:24",
@@ -110032,87 +110069,6 @@
         "Crypto Concepts"
       ],
       "text": "【Beijing backs software and information‑service firms to build token testing platform with third‑party evaluators】Beijing Municipal Commission of Economy and Information Technology and the Beijing Development and Reform Commission issued the Action Plan to Accelerate the Token Economy (2026–2028). The plan supports software and information‑service firms partnering with third‑party evaluation agencies to pilot token (AI model token) testing platforms, and encourages value‑added services such as model intelligent‑routing and evaluation consulting to form sustainable operating models. It also calls for objective, impartial token performance and quality standards to inform token pricing and model routing."
-    },
-    {
-      "id": "5102592",
-      "time": "2026-09-18 23:54:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：制定北京市詞元工廠分級評價標準 覆蓋模型適配數量、詞元吞吐速度、首字延遲、快取命中率、電能利用效率（PUE）等核心技術指標】北京市經濟和資訊化局、北京市發展和改革委員會關於印發《北京市加快詞元經濟發展的行動方案（2026—2028年）》。其中提到，高標準建設詞元工廠。制定北京市詞元工廠分級評價標準，覆蓋模型適配數量、詞元吞吐速度、首字延遲、快取命中率、電能利用效率（PUE）等核心技術指標，最佳化土地資源、能耗指標、通訊網路等要素保障，對具有行業引領力的詞元工廠給予支援。"
-    },
-    {
-      "id": "mkt:01a0b539-a193-7118-8607-fc465bafba7b",
-      "time": "2026-09-18 23:54:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【Beijing backs model–chip co‑optimization, inference chips and edge deployment】Beijing’s municipal economic and information bureau and development and reform commission issued an action plan (2026–2028) to accelerate the token economy. The plan calls for faster iteration of foundational models to raise model capability ceilings, mandates model–chip adaptation and tuning, and supports R&D for inference‑dedicated chips, model lightweighting and edge deployment. It also directs high‑level construction and coordinated use of intelligent computing resources to boost token production capacity."
-    },
-    {
-      "id": "mkt:01a0b539-100d-7118-8607-f2e3777d98da",
-      "time": "2026-09-18 23:53:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Beijing to set graded evaluation standards for token factories covering model support, token throughput and other core technical metrics】Beijing’s municipal bureau of economy and informatization and the municipal development and reform commission today issued the Action Plan for Accelerating the Token Economy (2026–2028). The plan mandates high-standard construction of token factories and establishes graded evaluation standards covering number of supported/adapted models, token throughput, time-to-first-token latency, cache hit rate, power usage effectiveness (PUE) and other core technical metrics. It calls for optimizing land allocation, energy-consumption indicators and telecommunications networks to support these facilities and pledges support for industry-leading token factories."
-    },
-    {
-      "id": "te:markets:585088",
-      "time": "2026-09-18 23:53:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close Sharply Lower — European stocks closed sharply lower on Friday, tracking a negative session for global stocks as a worsening macroeconomic backdrop threatened earnings projections. The Euro STOXX 50 fell 1.5% to 6,229, its lowest in nearly two months, and the STOXX Europe 600 fell 1.2% to 635.3. Natural gas and fuel prices rebounded amid signs of escalation in the Iran war and Saudi Arabia's warning that it does not have enough oil supply for European refineries next month. Sovereign yields rose sharply amid consolidated bets that the European Central Bank will continue to raise interest rates. Credit sensitive sectors hence booked losses, with Santander, BNP Paribas, and Deutsche Bank slipping over 3% each. German automakers also dropped, with Mercedes Benz, Volkswagen, and BMW sliding 5% each. On the other hand, global respite for AI infrastructure stocks lifted ASML and Infineon by 1.5% and 2.5%, respectively."
-    },
-    {
-      "id": "5102591",
-      "time": "2026-09-18 23:53:11",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【北京：支援金融機構面向算力基礎設施建設和詞元消費場景開發專項金融產品 為企業提供中長期信貸支援】北京市經濟和資訊化局、北京市發展和改革委員會關於印發《北京市加快詞元經濟發展的行動方案（2026—2028年）》。其中提到，創新算力與詞元金融工具。支援金融機構面向算力基礎設施建設和詞元消費場景開發專項金融產品，為企業提供中長期信貸支援。實施詞元工程師再技能化培訓。統籌產教融合、超級經濟個體（OPC）產業實訓等政策資源，支援詞元工廠、數字產業園區和線上培訓平臺，對軟體工程師開展模型調優、推理加速、平臺運維、安全合規等培訓，培育詞元工程化人才梯隊。"
-    },
-    {
-      "id": "mkt:01a0b537-4ac4-7118-8607-ea838d65e402",
-      "time": "2026-09-18 23:51:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Fed's Schmid said he agrees with Chair Wash's framework that rising bond yields reflect economic growth, capital demand from AI investment and geopolitical challenges."
-    },
-    {
-      "id": "5102590",
-      "time": "2026-09-18 23:51:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：我認同沃什主席關於債券收益率上行原因的分析框架，即經濟增長、人工智慧投資帶來的資本需求以及地緣政治挑戰。"
     }
   ]
 }

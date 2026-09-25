@@ -1,7 +1,44 @@
 {
   "date": "2026-09-25",
-  "count": 1812,
+  "count": 1816,
   "items": [
+    {
+      "id": "mkt:01a0d945-5eb6-7118-869e-f91727fd3019",
+      "time": "2026-09-25 23:53:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xi and Trump visit U.S. National Archives with their spouses】On Sept. 25 local time, Chinese President Xi Jinping and his wife Peng Liyuan, accompanied by U.S. President Donald Trump and First Lady Melania Trump, toured the U.S. National Archives."
+    },
+    {
+      "id": "mkt:01a0d944-7f2c-7118-869e-f62fc77361d5",
+      "time": "2026-09-25 23:52:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Schmid said policymakers will monitor equity valuations and economic performance but will not be 'overly granular' in their observations."
+    },
+    {
+      "id": "5113749",
+      "time": "2026-09-25 23:52:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中美兩國元首夫婦共同參觀美國國家檔案館】當地時間9月25日，國家主席習近平和夫人彭麗媛在美國總統特朗普和夫人梅拉尼婭陪同下參觀美國國家檔案館。（央視新聞）"
+    },
+    {
+      "id": "te:markets:586978",
+      "time": "2026-09-25 23:52:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Pares Losses — Brent crude pared earlier losses to trade around $106 a barrel on Friday as investors remained cautious over the prospects for a US-Iran agreement, given that previous negotiations have repeatedly appeared close to a breakthrough before collapsing. US and Iranian negotiators have been exploring a phased arrangement that could reopen the Strait of Hormuz, potentially involving Tehran restoring access through the strategic waterway while Washington lifts its blockade of Iranian ports. However, a White House official said President Donald Trump remained open to talks but maintained that the US was under no pressure to negotiate, citing the strength of its sanctions campaign and blockade. Brent crude remained more than 2% higher for the week, reflecting continued supply concerns linked to the conflict."
+    },
     {
       "id": "5113748",
       "time": "2026-09-25 23:50:24",
