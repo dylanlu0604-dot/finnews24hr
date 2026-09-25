@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-26 00:34:42",
-  "count": 12089,
+  "updated": "2026-09-26 00:38:31",
+  "count": 12090,
   "items": [
+    {
+      "id": "5113773",
+      "time": "2026-09-26 00:37:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會主席：只要我擔任主席，就會持續抵制對這類（AI 智慧體）工具進行擬人化描述的做法。"
+    },
+    {
+      "id": "mkt:01a0d96b-ca19-7118-869f-62f7fdaa95c7",
+      "time": "2026-09-26 00:35:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv: A senior Iranian official said the Strait of Hormuz will remain closed until Iran's conditions are met, and Tehran will only enter nuclear talks with the United States once those conditions are satisfied."
+    },
+    {
+      "id": "5113772",
+      "time": "2026-09-26 00:34:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗高階官員表示，霍爾木茲海峽將保持關閉，在伊朗的條件得到滿足前，不會與美國舉行核談判。伊朗不會在核計劃問題上做出任何讓步。"
+    },
+    {
+      "id": "mkt:01a0d96b-3a32-7118-869f-598c6e46c900",
+      "time": "2026-09-26 00:34:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv reports a senior Iranian official says Iran will make no concessions on its nuclear program."
+    },
     {
       "id": "5113771",
       "time": "2026-09-26 00:33:29",
@@ -110072,35 +110112,6 @@
         "國際"
       ],
       "text": "美聯儲施密德：在主持會議、對接理事會以及國會方面，鮑威爾的行事風格與沃什有所不同。"
-    },
-    {
-      "id": "mkt:01a0b561-1b01-7118-8608-89eafe6bed5f",
-      "time": "2026-09-19 00:37:14",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Kyiv mayor says Kyiv is under missile attack."
-    },
-    {
-      "id": "mkt:01a0b560-cce8-7118-8608-833a540d8f7c",
-      "time": "2026-09-19 00:36:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "NewsNation reported President Trump said on whether to \"eliminate\" Iran, \"we'll wait and see.\""
-    },
-    {
-      "id": "5102612",
-      "time": "2026-09-19 00:35:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔市長：首都防空系統正在運轉。基輔正遭受彈道導彈襲擊，請留在避難所內！"
     }
   ]
 }

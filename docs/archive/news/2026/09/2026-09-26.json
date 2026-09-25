@@ -1,7 +1,47 @@
 {
   "date": "2026-09-26",
-  "count": 40,
+  "count": 44,
   "items": [
+    {
+      "id": "5113773",
+      "time": "2026-09-26 00:37:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會主席：只要我擔任主席，就會持續抵制對這類（AI 智慧體）工具進行擬人化描述的做法。"
+    },
+    {
+      "id": "mkt:01a0d96b-ca19-7118-869f-62f7fdaa95c7",
+      "time": "2026-09-26 00:35:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv: A senior Iranian official said the Strait of Hormuz will remain closed until Iran's conditions are met, and Tehran will only enter nuclear talks with the United States once those conditions are satisfied."
+    },
+    {
+      "id": "5113772",
+      "time": "2026-09-26 00:34:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗高階官員表示，霍爾木茲海峽將保持關閉，在伊朗的條件得到滿足前，不會與美國舉行核談判。伊朗不會在核計劃問題上做出任何讓步。"
+    },
+    {
+      "id": "mkt:01a0d96b-3a32-7118-869f-598c6e46c900",
+      "time": "2026-09-26 00:34:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv reports a senior Iranian official says Iran will make no concessions on its nuclear program."
+    },
     {
       "id": "5113771",
       "time": "2026-09-26 00:33:29",
