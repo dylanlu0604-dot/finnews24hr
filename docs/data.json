@@ -1,7 +1,71 @@
 {
-  "updated": "2026-09-25 09:47:30",
-  "count": 12689,
+  "updated": "2026-09-25 09:51:21",
+  "count": 12677,
   "items": [
+    {
+      "id": "mkt:01a0d641-6428-7118-8693-a9288d01b01b",
+      "time": "2026-09-25 09:50:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Changan Automobile aims for humanoid-robot mass production by 2028】At a recent roadshow Changan Automobile said it will accelerate development and industrialization of embodied‑intelligence humanoid robots and flying cars, strives to achieve humanoid‑robot mass production in 2028 and to introduce commercial air‑route flying cars by 2030; R&D is proceeding as planned and specific progress will be announced via official releases."
+    },
+    {
+      "id": "5112944",
+      "time": "2026-09-25 09:49:38",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗：維持騰訊“買入”評級和目標價765港元】花旗稱，騰訊將原生人工智慧(AI)助手小微嵌入微信，能利用其龐大的每月活躍使用者數(MAU)、專有的社交圖譜及成熟且經過驗證的小程式商業生態。該行認為，隨著智慧體商業在中國興起，小微未來有望透過交易抽成和廣告開啟巨大的長期變現空間。分析師Alicia Yap等人在報告中表示，微信的中立平臺定位及已建立的垂直領域合作伙伴關係，有望為其提供分發和交易護城河。維持“買入”評級和目標價765港元，較週四收盤價有74%的上漲空間。"
+    },
+    {
+      "id": "te:markets:586707",
+      "time": "2026-09-25 09:48:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Mobile Stock Price Hits 10-week Low — China Mobile shares decreased to 78.35 HKD, the lowest since July 2026. Over the past 4 weeks, China Mobile lost 2.12%, and in the last 12 months, it decreased 7.76%."
+    },
+    {
+      "id": "5112943",
+      "time": "2026-09-25 09:48:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【印度允許規模4630億美元的財富管理基金出海投資】印度市場監管機構將允許規模達4630億美元的投資組合管理行業板塊投資境外證券，並開展股票期權賣空交易。 監管機構同時允許該類基金投資非上市債務證券，交易所衍生品持倉最高可達客戶資產規模的1.25倍。 此次調整大幅拓寬了該行業的投資範圍。截至8月，該行業管理資產規模約44.4萬億盧比。"
+    },
+    {
+      "id": "mkt:01a0d63f-6f11-7118-8693-a22a4504bae5",
+      "time": "2026-09-25 09:47:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Porsche says pilot produced battery cell cathode from 100% recycled materials】On Sept 24 in Germany, Porsche said a pilot with German recycler cylib has, for the first time, produced cathode active material for a new high-voltage battery cell using 100% recycled materials recovered from retired Porsche high-voltage batteries."
+    },
+    {
+      "id": "5112942",
+      "time": "2026-09-25 09:47:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海航運交易所資料顯示，截至9月24日，上海出口集裝箱運價指數（綜合指數）SCFI報3686.62點，與上期相比下跌1.21點。中國出口集裝箱運價綜合指數CCFI報1917.68點，與上期相比漲1.1%。"
+    },
+    {
+      "id": "5112941",
+      "time": "2026-09-25 09:47:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前外交官吉姆•賈特拉斯認為，美國可能需要等待數年才能獲得格陵蘭當局對開發該島自然資源的許可，而且目前尚不清楚華盛頓能否從這些資源的開發中獲益。"
+    },
     {
       "id": "mkt:01a0d63e-3e9b-7118-8693-9d0a00b5615c",
       "time": "2026-09-25 09:46:38",
@@ -115202,182 +115266,6 @@
         "Importance 1"
       ],
       "text": "Australia 10Y Yield Retreats from 2011 Highs — Australia’s 10-year government bond yield fell below 5.3%, pulling back from mid-2011 highs and tracking lower global yields as easing concerns over Middle East supply disruptions reduced inflation pressures. Oil prices retreated after Saudi Arabia worked to restore flows through its East-West pipeline, while President Trump is set to meet Gulf leaders next week. In Australia, hawkish comments from the Reserve Bank’s top official reinforced expectations for further policy tightening. Governor Michele Bullock said upside inflation risks were materializing and warned that higher costs could make inflation more persistent. Her remarks follow statements over the past month by senior RBA officials that inflation remains elevated and needs to ease further. Markets now priced at least two more rate hikes by the February meeting, with a roughly 87% chance the first occurs on September 29. That marks a notable shift from the start of September, when traders were pricing just one further hike."
-    },
-    {
-      "id": "mkt:01a0b235-fe18-7118-85ee-0890914d5fd9",
-      "time": "2026-09-18 09:51:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Recently listed stock C ShenGu rebounded; after an initial fall of over 27% at the open, its decline narrowed to 11.54%."
-    },
-    {
-      "id": "mkt:01a0b235-edae-7118-85ee-024cf2e1dd07",
-      "time": "2026-09-18 09:51:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's President Lee said he has never considered seeking re-election."
-    },
-    {
-      "id": "5100949",
-      "time": "2026-09-18 09:51:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "滬指站上3900點，現漲0.66%。"
-    },
-    {
-      "id": "mkt:01a0b235-c767-7118-85ed-fffa87b062b0",
-      "time": "2026-09-18 09:51:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Lee says he will establish separate economic and political capitals."
-    },
-    {
-      "id": "mkt:01a0b235-7c66-7118-85ed-f6011db134c4",
-      "time": "2026-09-18 09:50:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan 20-year bond yield down 4.5bps at 3.79%."
-    },
-    {
-      "id": "mkt:01a0b235-34ac-7118-85ed-efacfede3e05",
-      "time": "2026-09-18 09:50:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share helium sector active: Heyuan Gas rises over 6%, with Guanggang Gas, Baoguang Co., Shudao Equipment, Jinhong Gas and Kaimite Gas also trading higher."
-    },
-    {
-      "id": "mkt:01a0b234-a03e-7118-85ed-e2363e97b3d9",
-      "time": "2026-09-18 09:49:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "【Channel signatory change takes effect; SERES says Huawei stores will retain some AITO models】From Sept. 16, 2026 the signing party for AITO’s authorized dealer comprehensive service cooperation agreement switches from Huawei Terminal Co. to an affiliate of SERES Automotive; the prior agreement is automatically terminated. SERES denied reports that AITO will be pulled from Huawei stores in 2027, saying some HarmonyOS and Huawei-branded retail outlets will continue to sell AITO models. SERES added Huawei has not withdrawn from AITO: AITO remains a HarmonyOS member, Huawei’s technical supply and equity links persist, and AITO will remain available in Huawei consumer retail outlets largely operated by Huawei’s digital channel partners."
-    },
-    {
-      "id": "5100948",
-      "time": "2026-09-18 09:49:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "李在明：我從未考慮過尋求連任。"
-    },
-    {
-      "id": "5100947",
-      "time": "2026-09-18 09:49:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電網裝置板塊異動拉昇 太陽電纜直線漲停】早盤電網裝置板塊異動拉昇，太陽電纜直線漲停，順鈉股份、中超控股、紅相股份、漢纜股份跟漲。"
-    },
-    {
-      "id": "5100946",
-      "time": "2026-09-18 09:49:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【航天系概念持續走強，航天動力漲停】航天系概念持續走強，航天動力漲停，航天機電、航天發展、中國衛星、航天電子、航天智裝、航天科技等跟漲。"
-    },
-    {
-      "id": "5100945",
-      "time": "2026-09-18 09:49:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨漲超1%。"
-    },
-    {
-      "id": "mkt:01a0b233-eddf-7118-85ed-dffb07ee8bf8",
-      "time": "2026-09-18 09:49:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "FTSE China A50 index futures rose more than 1%."
-    },
-    {
-      "id": "mkt:01a0b233-e013-7118-85ed-d09077b0609f",
-      "time": "2026-09-18 09:48:59",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "S&P500",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Goldman Sachs now expects total debt issuance by mega-cap corporates to reach $420bn in 2027, driven by an upward revision to its capex forecasts — more than a 60% increase from its $250bn full-year 2026 estimate."
-    },
-    {
-      "id": "5100944",
-      "time": "2026-09-18 09:48:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "李在明：誓言穩定樓市。"
-    },
-    {
-      "id": "mkt:01a0b233-c52e-7118-85ed-cb3c4c9d54e4",
-      "time": "2026-09-18 09:48:52",
-      "tags": [
-        "MKT News",
-        "01548.HK",
-        "Impact bullish",
-        "09688.HK",
-        "02359.HK"
-      ],
-      "text": "Hong Kong-listed biopharma stocks rallied after ten Chinese ministries issued the pharmaceutical industry \"15th Five-Year Plan.\" GenScript Biotech (01548.HK) rose over 5%, Zai Lab (09688.HK) gained nearly 5%; Junshi Biosciences (01877.HK), Henlius Biotech (02696.HK), Tigermed (03347.HK) and WuXi AppTec (02359.HK) also moved higher."
-    },
-    {
-      "id": "5100943",
-      "time": "2026-09-18 09:48:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "李在明：將打造分立的經濟首都與政治首都。"
-    },
-    {
-      "id": "5100942",
-      "time": "2026-09-18 09:48:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【問界渠道換籤落地，賽力斯稱華為門店部分保留問界車型】有媒體報道稱，自2026年9月16日起，問界“授權經銷夥伴綜合服務合作協議”簽署主體正式由華為終端有限公司換籤為賽力斯汽車有限公司的關聯公司，前序協議自動終止。針對“2027年問界撤出華為門店”的傳聞，賽力斯方面已向媒體明確否認，表示“有部分門店是保留的”，即有部分鴻蒙智行和華為專賣店會繼續銷售問界車型。賽力斯進一步說明，華為沒有撤出問界，問界仍是鴻蒙智行成員，華為的技術供應和股權聯絡仍然存在；華為商超門店裡還會有問界，鑑於商超門店大部分為華為數碼渠道商，這部分主導權仍在華為。(21世紀經濟報道)"
-    },
-    {
-      "id": "5100941",
-      "time": "2026-09-18 09:47:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【禾川科技：靈巧手仍處於手工裝配的小批次階段】禾川科技(688320)在9月18日召開的2026年半年度業績說明會上表示，當前第三代無框力矩電機依託禾川母公司成熟產品平臺及既有自動化產線，已具備規模化量產與快速爬坡能力，但受訂單規模製約，產能尚未充分釋放；靈巧手仍處於手工裝配的小批次階段，產能彈性有限，後續若市場訂單放量，可依託公司自動化產線能力迅速擴產。"
-    },
-    {
-      "id": "5100940",
-      "time": "2026-09-18 09:47:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量59億元。"
     }
   ]
 }

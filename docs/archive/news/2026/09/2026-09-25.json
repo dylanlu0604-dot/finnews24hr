@@ -1,7 +1,71 @@
 {
   "date": "2026-09-25",
-  "count": 670,
+  "count": 677,
   "items": [
+    {
+      "id": "mkt:01a0d641-6428-7118-8693-a9288d01b01b",
+      "time": "2026-09-25 09:50:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Changan Automobile aims for humanoid-robot mass production by 2028】At a recent roadshow Changan Automobile said it will accelerate development and industrialization of embodied‑intelligence humanoid robots and flying cars, strives to achieve humanoid‑robot mass production in 2028 and to introduce commercial air‑route flying cars by 2030; R&D is proceeding as planned and specific progress will be announced via official releases."
+    },
+    {
+      "id": "5112944",
+      "time": "2026-09-25 09:49:38",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗：維持騰訊“買入”評級和目標價765港元】花旗稱，騰訊將原生人工智慧(AI)助手小微嵌入微信，能利用其龐大的每月活躍使用者數(MAU)、專有的社交圖譜及成熟且經過驗證的小程式商業生態。該行認為，隨著智慧體商業在中國興起，小微未來有望透過交易抽成和廣告開啟巨大的長期變現空間。分析師Alicia Yap等人在報告中表示，微信的中立平臺定位及已建立的垂直領域合作伙伴關係，有望為其提供分發和交易護城河。維持“買入”評級和目標價765港元，較週四收盤價有74%的上漲空間。"
+    },
+    {
+      "id": "te:markets:586707",
+      "time": "2026-09-25 09:48:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Mobile Stock Price Hits 10-week Low — China Mobile shares decreased to 78.35 HKD, the lowest since July 2026. Over the past 4 weeks, China Mobile lost 2.12%, and in the last 12 months, it decreased 7.76%."
+    },
+    {
+      "id": "5112943",
+      "time": "2026-09-25 09:48:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【印度允許規模4630億美元的財富管理基金出海投資】印度市場監管機構將允許規模達4630億美元的投資組合管理行業板塊投資境外證券，並開展股票期權賣空交易。 監管機構同時允許該類基金投資非上市債務證券，交易所衍生品持倉最高可達客戶資產規模的1.25倍。 此次調整大幅拓寬了該行業的投資範圍。截至8月，該行業管理資產規模約44.4萬億盧比。"
+    },
+    {
+      "id": "mkt:01a0d63f-6f11-7118-8693-a22a4504bae5",
+      "time": "2026-09-25 09:47:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Porsche says pilot produced battery cell cathode from 100% recycled materials】On Sept 24 in Germany, Porsche said a pilot with German recycler cylib has, for the first time, produced cathode active material for a new high-voltage battery cell using 100% recycled materials recovered from retired Porsche high-voltage batteries."
+    },
+    {
+      "id": "5112942",
+      "time": "2026-09-25 09:47:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海航運交易所資料顯示，截至9月24日，上海出口集裝箱運價指數（綜合指數）SCFI報3686.62點，與上期相比下跌1.21點。中國出口集裝箱運價綜合指數CCFI報1917.68點，與上期相比漲1.1%。"
+    },
+    {
+      "id": "5112941",
+      "time": "2026-09-25 09:47:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前外交官吉姆•賈特拉斯認為，美國可能需要等待數年才能獲得格陵蘭當局對開發該島自然資源的許可，而且目前尚不清楚華盛頓能否從這些資源的開發中獲益。"
+    },
     {
       "id": "mkt:01a0d63e-3e9b-7118-8693-9d0a00b5615c",
       "time": "2026-09-25 09:46:38",
