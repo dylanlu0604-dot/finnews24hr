@@ -1,7 +1,71 @@
 {
   "date": "2026-09-25",
-  "count": 692,
+  "count": 700,
   "items": [
+    {
+      "id": "5112961",
+      "time": "2026-09-25 10:05:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣：相信加息是為了實現物價穩定目標。"
+    },
+    {
+      "id": "5112960",
+      "time": "2026-09-25 10:05:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財政大臣：預計日本央行將在與政府協調的前提下，實施恰當的貨幣政策。"
+    },
+    {
+      "id": "5112958",
+      "time": "2026-09-25 10:04:27",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美元連漲五個交易日後保持平穩】受美聯儲鷹派表態與美國高收益率支撐，美元指數基本持平，本週有望錄得1%的周漲幅。 美元即期指數微跌0.1%，此前連續五個交易日收漲。10年期美債收益率下跌1個基點，報5.19%。 華僑銀行外匯策略師沈銘松表示：“更高的收益率、高企的能源價格以及持續的通脹擔憂，支撐市場對美元的需求。” 他補充道：“下週非農就業報告或將決定美元能否延續本輪漲勢。”"
+    },
+    {
+      "id": "5112957",
+      "time": "2026-09-25 10:04:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣：具體貨幣政策工具由日本央行決定。"
+    },
+    {
+      "id": "5112956",
+      "time": "2026-09-25 10:04:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本官員：貨幣寬鬆、靈活財政支出階段結束。"
+    },
+    {
+      "id": "te:markets:586715",
+      "time": "2026-09-25 10:03:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Lithuania",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Lithuania 10Y Bond Yield Hits 34-month High — Lithuania 10 Year Government Bond Yield increased to 4.44%, the highest since November 2023. Over the past 4 weeks, Lithuania 10Y Bond Yield gained 47.90 basis points, and in the last 12 months, it increased 73.60 basis points."
+    },
+    {
+      "id": "mkt:01a0d64d-d850-7118-8693-c00fa7dab761",
+      "time": "2026-09-25 10:03:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HKEX lists two new ETFs today】HKEX said two ETFs listed today: China Southern Pioneer Technology ETF and Value Partners Optical Communications Active ETF."
+    },
     {
       "id": "5112955",
       "time": "2026-09-25 10:01:58",
@@ -9,6 +73,14 @@
         "國際"
       ],
       "text": "日本內閣官房長官：現在還不是實施貨幣寬鬆政策的時候。"
+    },
+    {
+      "id": "5112954",
+      "time": "2026-09-25 10:01:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本官員：現在還不是實施貨幣寬鬆政策的時候。"
     },
     {
       "id": "5112953",
