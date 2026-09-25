@@ -1,7 +1,49 @@
 {
   "date": "2026-09-25",
-  "count": 1450,
+  "count": 1454,
   "items": [
+    {
+      "id": "mkt:01a0d849-f892-7118-869a-264cfa4190fc",
+      "time": "2026-09-25 19:18:41",
+      "tags": [
+        "MKT News",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Deutsche Bank raised its target price on Meta to $820 from $750."
+    },
+    {
+      "id": "te:markets:586913",
+      "time": "2026-09-25 19:18:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Zinc Market Holds Tight as Supply Disruptions Persist — Zinc held above $3,900 a ton, remaining close to the $4,037 reached on September 9, its highest level since April 2022, supported by tightening supply and disruptions across major producing regions. Middle East tensions have restricted Iranian ore supplies, while mine disruptions have further constrained availability. China’s zinc output fell 1.8% year-on-year in August, marking its first annual decline in nearly a year and the lowest level since May 2025. Output has also been affected at major mines including Peru’s Antamina and Alaska’s Red Dog, where producers are working through lower-grade ore sections. Meanwhile, LME inventories remain historically low, particularly in Western markets. Warehouse stocks remain below 100,000 tons, with around 30,000 tons already earmarked for withdrawal. An industrial accident was also reported at Korea Zinc’s Onsan smelter, although no production cuts or shutdowns have been announced."
+    },
+    {
+      "id": "5113518",
+      "time": "2026-09-25 19:15:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴斯夫股價走低，現跌2.2%，此前有報道稱該公司提議與贏創合併。"
+    },
+    {
+      "id": "mkt:01a0d847-2f06-7118-869a-1856bef49472",
+      "time": "2026-09-25 19:15:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "COALINDIA.NS",
+        "Impact bullish",
+        "SAIL.NS"
+      ],
+      "text": "Steel Authority of India and Coal India Ltd. signed an agreement to raise domestic coal output."
+    },
     {
       "id": "5113517",
       "time": "2026-09-25 19:14:03",
