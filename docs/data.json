@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-25 20:16:00",
+  "updated": "2026-09-25 20:19:47",
   "count": 12260,
   "items": [
+    {
+      "id": "mkt:01a0d881-872d-7118-869b-632140fdb722",
+      "time": "2026-09-25 20:19:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Washington Post reports U.S. President Trump is scheduled to campaign in Oklahoma and Alabama next week."
+    },
+    {
+      "id": "mkt:01a0d881-5c02-7118-869b-5f26ce0c33a0",
+      "time": "2026-09-25 20:19:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【U.S. equity futures rise as oil, Treasuries retreat, easing market pressure】U.S. equity futures rose as oil prices and U.S. Treasury yields pulled back from recent gains while markets await key inflation data. Subadra Rajappa, head of U.S. research at SOCGEN, said markets remain relatively resilient and there has not been any meaningful tightening in financial conditions. The U.S. 10-year Treasury yield pared gains after sharp rises on Wednesday and Thursday. Oil fell after reports the U.S. and Iran are discussing a phased agreement that could reopen the Strait of Hormuz and lead Washington to lift its blockade of Iranian ports. Sevens Report founder Tom Essaye said in a client note the oil decline and Treasury yield retreat provided relief for investors."
+    },
+    {
+      "id": "5113581",
+      "time": "2026-09-25 20:17:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CoreCivic股價盤前下跌3.5%；帕特里克·D·斯溫德爾辭去總裁兼執行長職務。"
+    },
+    {
+      "id": "mkt:01a0d87f-d656-7118-869b-56c17eeab688",
+      "time": "2026-09-25 20:17:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Italy to meet refiners on Oct 8 to discuss boosting refinery output】The Italian government will meet domestic refiners on Oct 8 to discuss raising refinery output as surging diesel and fuel prices heighten inflation concerns. Diesel markets are highly tight after a sharp fall in European fuel imports and years of declining regional refining capacity; markets worry US supply could drop further and reductions from the Middle East and Russia have trimmed available resources. Italy has extended diesel tax relief through early October to help lower consumer costs."
+    },
+    {
+      "id": "5113580",
+      "time": "2026-09-25 20:17:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔鋼鐵與荷蘭政府延長可持續發展協議截止期限。"
+    },
+    {
+      "id": "te:markets:586930",
+      "time": "2026-09-25 20:15:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Slightly Firmer — The South African rand edged up to around 16.3 per USD, benefiting from falling oil prices, a softer US dollar and rising prices of precious metals, particularly gold. Oil prices decreased amid reports of a possible phased agreement between US and Iranian negotiators to reopen the Strait of Hormuz, though uncertainty remains elevated. Meanwhile, the South African Reserve Bank, in an expected move, raised its key repo rate to 7.25%, following similar decisions by the Federal Reserve and the ECB. Policymakers cited renewed upside risks following the escalation of the Iran war, which pushed up oil prices and dampened the global economic outlook. Governor Lesetja Kganyago stressed the need to bring inflation back to the SARB’s 3% target, reaffirming its commitment to price stability. Headline inflation ticked up to 4.4% in August from 4.3% in July, but rising fuel prices could push it higher again in September and October."
+    },
     {
       "id": "5113579",
       "time": "2026-09-25 20:14:44",
@@ -111494,64 +111557,6 @@
         "國際"
       ],
       "text": "歐洲斯托克600指數跌幅擴大至1%，創盤中新低。"
-    },
-    {
-      "id": "5102282",
-      "time": "2026-09-18 20:19:40",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【荷蘭國際：能源價格衝擊或促使美聯儲與歐央行 12 月各加息 25 個基點】荷蘭國際集團策略師預計，美聯儲與歐洲央行將在 12 月各加息 25 個基點，政策制定者意在阻止能源價格上漲傳導至更廣範圍的通脹。由卡斯滕・布熱斯基牽頭的策略師團隊在週五研報中寫道，兩家央行正面臨 “能源價格飆升引發的供給側衝擊，目前該衝擊對整體經濟的連鎖影響尚且有限”。他們預測，歐央行將實施一次 “防禦性加息”，利率升至 2.75%；美聯儲加息至 4.25%，美國央行將更聚焦於把通脹拉回 2% 的目標。"
-    },
-    {
-      "id": "mkt:01a0b474-c957-7118-8602-33042268c03e",
-      "time": "2026-09-18 20:19:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "French President Macron said he is considering options to release strategic energy reserves."
-    },
-    {
-      "id": "5102281",
-      "time": "2026-09-18 20:18:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬克龍：正在考量釋放戰略能源儲備的各項方案。"
-    },
-    {
-      "id": "5102280",
-      "time": "2026-09-18 20:17:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山河智慧：持股5%以上股東及高管擬減持股份】山河智慧公告稱，持股5%以上股東何清華（持股6.027%）擬於2026年10月20日至2027年1月19日，以集中競價方式減持不超1074.62萬股，佔公司總股本1%；公司副總經理朱建新擬同期以集中競價方式減持不超33.13萬股，佔公司總股本0.0308%。二者減持原因均為個人資金需求，合計擬減持不超公司總股本1.0308%，減持計劃實施存在不確定性。"
-    },
-    {
-      "id": "5102279",
-      "time": "2026-09-18 20:17:54",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【昂跑據稱簽約姆巴佩 耐克暫未置評】瑞士運動品牌昂跑（On）宣佈進軍足球領域，簽下基利安·姆巴佩作為足球業務的領軍代言人，這對老對手耐克構成重大打擊。據知情人士透露，昂跑計劃2027年推出首款足球戰靴，後續再開發球衣，最終拓展休閒服飾與訓練鞋產品線。昂跑計劃推出輕量化足球鞋，稱該設計能讓球員更好地感知足球。其LightSpray技術依靠機器人噴射連續長絲，直接成型鞋身。 知情人士稱，該技術可在數月內搭建生產基地，讓昂跑能夠較快擴充產能。 這家總部位於蘇黎世的企業，計劃與姆巴佩達成長期合作，部分參照其與費德勒的合作模式。瑞士網球名將費德勒2019年成為昂跑投資人，後續深度參與產品研發，助力品牌拓展網球業務。 耐克暫未對此置評。"
-    },
-    {
-      "id": "mkt:01a0b472-71cd-7118-8602-2ec88c0944a7",
-      "time": "2026-09-18 20:16:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc said a magnitude 3.6 earthquake struck Xinlong County, Ganzi Prefecture, Sichuan at 20:09 on Sept 18 (30.90N, 99.90E); hypocenter depth 15 km."
     }
   ]
 }

@@ -1,7 +1,70 @@
 {
   "date": "2026-09-25",
-  "count": 1554,
+  "count": 1560,
   "items": [
+    {
+      "id": "mkt:01a0d881-872d-7118-869b-632140fdb722",
+      "time": "2026-09-25 20:19:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Washington Post reports U.S. President Trump is scheduled to campaign in Oklahoma and Alabama next week."
+    },
+    {
+      "id": "mkt:01a0d881-5c02-7118-869b-5f26ce0c33a0",
+      "time": "2026-09-25 20:19:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【U.S. equity futures rise as oil, Treasuries retreat, easing market pressure】U.S. equity futures rose as oil prices and U.S. Treasury yields pulled back from recent gains while markets await key inflation data. Subadra Rajappa, head of U.S. research at SOCGEN, said markets remain relatively resilient and there has not been any meaningful tightening in financial conditions. The U.S. 10-year Treasury yield pared gains after sharp rises on Wednesday and Thursday. Oil fell after reports the U.S. and Iran are discussing a phased agreement that could reopen the Strait of Hormuz and lead Washington to lift its blockade of Iranian ports. Sevens Report founder Tom Essaye said in a client note the oil decline and Treasury yield retreat provided relief for investors."
+    },
+    {
+      "id": "5113581",
+      "time": "2026-09-25 20:17:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CoreCivic股價盤前下跌3.5%；帕特里克·D·斯溫德爾辭去總裁兼執行長職務。"
+    },
+    {
+      "id": "mkt:01a0d87f-d656-7118-869b-56c17eeab688",
+      "time": "2026-09-25 20:17:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Italy to meet refiners on Oct 8 to discuss boosting refinery output】The Italian government will meet domestic refiners on Oct 8 to discuss raising refinery output as surging diesel and fuel prices heighten inflation concerns. Diesel markets are highly tight after a sharp fall in European fuel imports and years of declining regional refining capacity; markets worry US supply could drop further and reductions from the Middle East and Russia have trimmed available resources. Italy has extended diesel tax relief through early October to help lower consumer costs."
+    },
+    {
+      "id": "5113580",
+      "time": "2026-09-25 20:17:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔鋼鐵與荷蘭政府延長可持續發展協議截止期限。"
+    },
+    {
+      "id": "te:markets:586930",
+      "time": "2026-09-25 20:15:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Slightly Firmer — The South African rand edged up to around 16.3 per USD, benefiting from falling oil prices, a softer US dollar and rising prices of precious metals, particularly gold. Oil prices decreased amid reports of a possible phased agreement between US and Iranian negotiators to reopen the Strait of Hormuz, though uncertainty remains elevated. Meanwhile, the South African Reserve Bank, in an expected move, raised its key repo rate to 7.25%, following similar decisions by the Federal Reserve and the ECB. Policymakers cited renewed upside risks following the escalation of the Iran war, which pushed up oil prices and dampened the global economic outlook. Governor Lesetja Kganyago stressed the need to bring inflation back to the SARB’s 3% target, reaffirming its commitment to price stability. Headline inflation ticked up to 4.4% in August from 4.3% in July, but rising fuel prices could push it higher again in September and October."
+    },
     {
       "id": "5113579",
       "time": "2026-09-25 20:14:44",
