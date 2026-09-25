@@ -1,7 +1,29 @@
 {
   "date": "2026-09-26",
-  "count": 22,
+  "count": 24,
   "items": [
+    {
+      "id": "mkt:01a0d95c-4010-7118-869f-28c271cb6832",
+      "time": "2026-09-26 00:18:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S.-Iran talks reportedly enter technical phase; oil prices extend decline】Global crude extended losses after reports that U.S.-Iran negotiations have entered a technical consultation phase. WTI fell about 3.5% to $90.54/bbl; Brent dropped over 4% to $96.56/bbl. Markets priced in a possible easing of supply-side pressure, weighing on oil."
+    },
+    {
+      "id": "5113760",
+      "time": "2026-09-26 00:16:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府問責局（GAO）在一份報告中估計，2018-24年間，聯邦政府每年因稅務欺詐造成的損失在1160億-3040億美元之間，約佔政府預估應納稅額的2%-6%。"
+    },
     {
       "id": "mkt:01a0d957-dc93-7118-869f-271d3cf91bbe",
       "time": "2026-09-26 00:13:28",

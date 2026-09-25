@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-26 00:15:09",
-  "count": 12089,
+  "updated": "2026-09-26 00:19:07",
+  "count": 12084,
   "items": [
+    {
+      "id": "mkt:01a0d95c-4010-7118-869f-28c271cb6832",
+      "time": "2026-09-26 00:18:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S.-Iran talks reportedly enter technical phase; oil prices extend decline】Global crude extended losses after reports that U.S.-Iran negotiations have entered a technical consultation phase. WTI fell about 3.5% to $90.54/bbl; Brent dropped over 4% to $96.56/bbl. Markets priced in a possible easing of supply-side pressure, weighing on oil."
+    },
+    {
+      "id": "5113760",
+      "time": "2026-09-26 00:16:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國政府問責局（GAO）在一份報告中估計，2018-24年間，聯邦政府每年因稅務欺詐造成的損失在1160億-3040億美元之間，約佔政府預估應納稅額的2%-6%。"
+    },
     {
       "id": "mkt:01a0d957-dc93-7118-869f-271d3cf91bbe",
       "time": "2026-09-26 00:13:28",
@@ -110022,70 +110044,6 @@
         "國際"
       ],
       "text": "【歐盟擬推未成年人社媒禁令】歐盟委員會9月17日正式公佈了《歐盟兒童法案》提案文字，準備重新規定歐盟未成年人使用社交媒體的年齡限制：13歲以下禁用，滿15歲才能獨立開號。不過，不管是年齡核驗，還是責任落地，歐盟的這一提案仍面臨多重挑戰。 (CCTV國際時訊)"
-    },
-    {
-      "id": "5102605",
-      "time": "2026-09-19 00:18:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "以太坊升破2600美元，日內漲6.27%。"
-    },
-    {
-      "id": "5102604",
-      "time": "2026-09-19 00:18:48",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行：預計 2026 年私人投資將增長 14%。"
-    },
-    {
-      "id": "5102603",
-      "time": "2026-09-19 00:18:40",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【英國兩年期國債收益率週五漲超10個基點】週五（9月18日）歐市尾盤，英國10年期國債收益率漲7.3個基點，報5.295%，本週累計下跌4.8個基點，9月15-17日持續下跌，期間美聯儲宣佈加息、英國央行決定按兵不動。兩年期英債收益率漲10.3個基點，報4.839%，本週累漲2.6個基點，整體呈現出V形走勢30年期英債收益率漲2.2個基點，50年期英債收益率跌5.6個基點。2/10年期英債收益率利差跌3.046個基點，報+45.504個基點。"
-    },
-    {
-      "id": "mkt:01a0b550-04c4-7118-8608-511db9f931db",
-      "time": "2026-09-19 00:18:35",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "Peru's central bank governor said economic growth has slowed due to El Nifio."
-    },
-    {
-      "id": "mkt:01a0b54e-c771-7118-8608-4b169c1d67dd",
-      "time": "2026-09-19 00:17:13",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "NASA has awarded SpaceX (SPCX.O) three crewed missions to the International Space Station."
-    },
-    {
-      "id": "5102602",
-      "time": "2026-09-19 00:16:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局授予SpaceX三次前往空間站的載人飛行任務，合同修訂金額為 9.46 億美元。"
-    },
-    {
-      "id": "mkt:01a0b54d-7e0e-7118-8608-46f7b3970255",
-      "time": "2026-09-19 00:15:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Security Council completes third indicative vote in UN secretary-general selection】On Sept 18, Jerome Bonnafont, France’s UN permanent representative and the Security Council’s president for the month, said the Council had held a third indicative vote in the selection of the next UN secretary-general. Results will not be published and will be communicated to candidates via their nominating countries."
     }
   ]
 }
