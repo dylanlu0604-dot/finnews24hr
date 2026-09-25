@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-26 00:03:16",
-  "count": 12085,
+  "updated": "2026-09-26 00:07:25",
+  "count": 12092,
   "items": [
+    {
+      "id": "mkt:01a0d94f-3024-7118-869f-087a95b55c8a",
+      "time": "2026-09-26 00:04:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude dropped 4.00% intraday to $96.71/bbl."
+    },
+    {
+      "id": "5113757",
+      "time": "2026-09-26 00:03:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "半島電視臺德黑蘭分社社長週五報道：伊朗與美國在紐約舉行的談判已從初步外交接觸階段轉入更為細緻的技術階段，德黑蘭方面訊息人士稱談判氛圍日趨積極。"
+    },
+    {
+      "id": "mkt:01a0d94e-fda9-7118-869f-00e830ba232f",
+      "time": "2026-09-26 00:03:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Jazeera reports US-Iran talks have moved into technical consultations."
+    },
+    {
+      "id": "te:markets:586988",
+      "time": "2026-09-26 00:03:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Enbridge Stock Price Hits 33-week Low — Enbridge shares decreased to 66.05 CAD, the lowest since February 2026. Over the past 4 weeks, Enbridge lost 5.3%, and in the last 12 months, it decreased 4.33%."
+    },
+    {
+      "id": "5113756",
+      "time": "2026-09-26 00:03:17",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "半島電視臺：伊美談判進入技術磋商階段。"
+    },
+    {
+      "id": "5113755",
+      "time": "2026-09-26 00:03:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報91.76美元/桶。"
+    },
+    {
+      "id": "5113754",
+      "time": "2026-09-26 00:02:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守97美元/桶，日內跌3.23%。"
+    },
+    {
+      "id": "5113753",
+      "time": "2026-09-26 00:02:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守92美元/桶，日內跌2.77%。"
+    },
+    {
+      "id": "5113752",
+      "time": "2026-09-26 00:02:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報97.20美元/桶。"
+    },
     {
       "id": "te:markets:586986",
       "time": "2026-09-26 00:01:01",
@@ -110014,29 +110101,6 @@
         "MKT News"
       ],
       "text": "Peru's central bank expects 2026 GDP growth of 3.2%, down from its prior 3.4% forecast."
-    },
-    {
-      "id": "te:markets:585092",
-      "time": "2026-09-19 00:07:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 1.51% Lower — The FTSE 100 Index dropped 164 points or 1.51 percent on Friday to close at 10652 points. Losses were led by Airtel Africa (-11.27%), Coca-Cola (-7.94%) and Entain (-5.63%)."
-    },
-    {
-      "id": "te:markets:585090",
-      "time": "2026-09-19 00:04:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Cheese Hits 32-week Low — Cheese decreased to 1.51 USD/Lbs, the lowest since February 2026. Over the past 4 weeks, Cheese lost 8.37%, and in the last 12 months, it decreased 16.67%."
     }
   ]
 }
