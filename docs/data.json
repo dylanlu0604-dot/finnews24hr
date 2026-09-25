@@ -1,7 +1,300 @@
 {
-  "updated": "2026-09-25 17:09:20",
-  "count": 12408,
+  "updated": "2026-09-25 17:25:50",
+  "count": 12438,
   "items": [
+    {
+      "id": "5113394",
+      "time": "2026-09-25 17:12:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行：通脹目標為2.5%、浮動區間正負1個百分點的中期通脹目標策略將繼續沿用。"
+    },
+    {
+      "id": "5113393",
+      "time": "2026-09-25 17:12:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）資料顯示，近月荷蘭批發天然氣價格下跌5.07%，報每兆瓦時71.30歐元。"
+    },
+    {
+      "id": "mkt:01a0d7d5-5718-7118-8698-29b61fef66bc",
+      "time": "2026-09-25 17:11:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【Indian Oil buys 1 mln barrels of Iraqi crude for October loading】India's largest refiner Indian Oil Corp (IOC) bought 1.0 mln barrels of Iraqi crude for October loading via a tender from Iraq's state marketer SOMO at FOB, about $23-28 per barrel below the Dubai benchmark, two trade sources said. IOC is also seeking to buy up to 2.0 mln barrels of Basrah Medium and Basrah Heavy for Oct. 21-31 loading, priced against the October Dubai benchmark; that tender closes late on Friday, the sources added."
+    },
+    {
+      "id": "5113392",
+      "time": "2026-09-25 17:11:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯天然氣工業股份公司恢復向亞美尼亞供應天然氣。"
+    },
+    {
+      "id": "5113391",
+      "time": "2026-09-25 17:10:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行：貨幣政策將為經濟持續增長與金融體系穩定提供支援。"
+    },
+    {
+      "id": "5113390",
+      "time": "2026-09-25 17:09:15",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利在中際旭創H股的持股比例於09月22日從4.41%升至5.18%】香港交易所資訊顯示，摩根士丹利在中際旭創H股的持股比例於09月22日從4.41%升至5.18%。"
+    },
+    {
+      "id": "5113389",
+      "time": "2026-09-25 17:09:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "波蘭央行：確保物價穩定仍是2027年貨幣政策的首要目標。"
+    },
+    {
+      "id": "mkt:01a0d7d3-5dae-7118-8698-27e6040f306a",
+      "time": "2026-09-25 17:09:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's central bank says ensuring price stability remains the primary objective of monetary policy in 2027."
+    },
+    {
+      "id": "5113388",
+      "time": "2026-09-25 17:09:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽首次授予印尼SEABANK“AA+(IDN)”評級；展望穩定。"
+    },
+    {
+      "id": "5113387",
+      "time": "2026-09-25 17:08:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "美銀環球研究將陽獅集團 目標股價從113歐元上調至118歐元。"
+    },
+    {
+      "id": "5113386",
+      "time": "2026-09-25 17:08:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "香港交易所資訊顯示，貝萊德（BlackRock）在比亞迪股份H股的持股比例於09月22日從7.05%降至6.74%。在恆瑞醫藥H股的持股比例於09月22日從6.56%升至7.32%。工商銀行H股的持股比例於09月22日從5.01%降至4.94%。"
+    },
+    {
+      "id": "5113385",
+      "time": "2026-09-25 17:08:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利在瀾起科技H股的持股比例降至4.21%】香港交易所資訊顯示，摩根士丹利在瀾起科技H股的持股比例於09月22日從5.21%降至4.21%。"
+    },
+    {
+      "id": "5113384",
+      "time": "2026-09-25 17:07:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "香港交易所資訊顯示，貝萊德（BlackRock）在小米集團-WH股的持股比例於09月22日從5.01%降至4.98%，賣出的平均股價為26.4908港元。"
+    },
+    {
+      "id": "5113383",
+      "time": "2026-09-25 17:07:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄通報國家杜馬選舉最終結果】俄羅斯中央選舉委員會主席帕姆菲洛娃今天（9月25日）召開新聞釋出會，通報第九屆俄羅斯國家杜馬（議會下院）最終選舉結果：執政的統一俄羅斯黨獲得349個議會席位，俄羅斯聯邦共產黨獲37席，自由民主黨23席，新人黨19席，公正俄羅斯黨17席，祖國黨1席，4名自薦候選人各獲1席。9月18日至20日，俄國家杜馬選舉進行投票。國家杜馬是俄羅斯常設立法機構，由450名代表組成。本屆選舉席位設定延續傳統模式，450個議席中，225席依據政黨名單按比例分配，剩餘225席透過全國單席位選區以相對多數投票制產生。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0d7d1-913e-7118-8698-1bbb5854f448",
+      "time": "2026-09-25 17:07:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia announces final State Duma election results】At a Sept. 25 press conference, Russia's Central Election Commission chair Pamfilova released final results for the 9th State Duma: United Russia 349 seats, Communist Party 37, Liberal Democratic Party 23, New People 19, A Just Russia 17, Motherland 1, and four independents one seat each. Voting was held Sept. 18-20; the 450-seat Duma is composed of 225 party-list proportional seats and 225 single-member districts elected by plurality."
+    },
+    {
+      "id": "5113382",
+      "time": "2026-09-25 17:06:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【通航換解封，美伊被曝探討階段性協議】伊朗外交部長阿拉格齊9月24日在聯合國大會一般性辯論期間對媒體說，伊朗方面已向美國遞交一份新的談判草案，將“重開”霍爾木茲海峽並重啟談判。另有知情人士告訴路透社，美伊談判代表正在紐約探討階段性協議，內容包括伊朗“重開”霍爾木茲海峽，以換取美國解除對伊經濟封鎖。阿拉格齊拒絕透露草案具體內容，只表示談判條件無外乎雙方6月所達成諒解備忘錄中的內容。（新華社）"
+    },
+    {
+      "id": "5113381",
+      "time": "2026-09-25 17:06:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級確認斐濟的 B1 信用評級，並維持穩定展望。"
+    },
+    {
+      "id": "5113380",
+      "time": "2026-09-25 17:06:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞KLCI指數收盤微幅波動，報1,671.62點。"
+    },
+    {
+      "id": "mkt:01a0d7d0-938f-7118-8698-10d8b94cfd1c",
+      "time": "2026-09-25 17:06:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【US-Iran ceasefire talks lift market hopes; oil slips but supply risk remains】Oil fell on Friday as markets weighed US-Iran ceasefire talks against continuing risks from escalating Houthi attacks on Saudi Arabia that could disrupt supplies. Sources said negotiators met in New York this week and discussed a phased end to the conflict, including Tehran reopening the Strait of Hormuz and Washington lifting US economic sanctions on Iran. Iranian president PEZESHKIAN said Thursday the war’s end depends on US decisions. Refinitiv ship-tracking data show physical supply remains fragile: 10 bulk carriers transited the Strait of Hormuz on Wednesday, up from seven the day before but well below a ten-day average of about 17. Diplomatic progress could trim some geopolitical premium, but shipping flows indicate normalization remains some way off."
+    },
+    {
+      "id": "5113379",
+      "time": "2026-09-25 17:06:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國政府將為國防及基礎設施行業的執行長們（CEOs）提供情況簡報。"
+    },
+    {
+      "id": "5113378",
+      "time": "2026-09-25 17:05:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：美國提議在阿聯酋舉行新一輪美烏俄三方會談】烏克蘭總統澤連斯基表示，美國提議在阿聯酋舉行烏克蘭、俄羅斯和美國之間新一輪技術層面的三方和平談判。澤連斯基在答問中表示，美方是在本週紐約聯合國大會期間舉行的美烏會談中提出這一建議的。他說，目前正在等待有關會談日期的提議。澤連斯基表示，黑海海上停火也是紐約會談討論的議題之一。會上還提出實施相互停火，以恢復經黑海的運輸，尤其是糧食運輸。澤連斯基還表示，美國總統唐納德·特朗普已做出最終決定，烏克蘭將獲得生產愛國者導彈的許可，但他沒有詳細說明時間安排。"
+    },
+    {
+      "id": "mkt:01a0d7cf-a6e9-7118-8698-0a50619c2871",
+      "time": "2026-09-25 17:05:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "FOMC permanent voting member and New York Fed President Williams to speak in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0d7ce-081f-7118-8698-04ac2aefd234",
+      "time": "2026-09-25 17:03:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ZELENSKIY said Ukraine struck two Russian oil refineries in the past day."
+    },
+    {
+      "id": "5113377",
+      "time": "2026-09-25 17:03:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，烏克蘭過去一日襲擊了俄羅斯兩座煉油廠。"
+    },
+    {
+      "id": "5113376",
+      "time": "2026-09-25 17:02:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨漲0.6%，報30950.11點，至盤中高點。"
+    },
+    {
+      "id": "5113375",
+      "time": "2026-09-25 17:01:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "富時馬來西亞吉隆坡綜合指數收平，報1671.62點。"
+    },
+    {
+      "id": "5113374",
+      "time": "2026-09-25 17:01:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "科倫坡全股指數收盤微幅波動，報 21,064.44 點。"
+    },
+    {
+      "id": "5113373",
+      "time": "2026-09-25 17:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行宣佈任命伊麗莎白·艾莉森·普拉特為獨立非執行董事，自2026年10月1日起生效。"
+    },
+    {
+      "id": "te:markets:586873",
+      "time": "2026-09-25 17:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Increases by 0.84% — Top currency gainers are South Korean Won (0.84%), Japanese Yen (0.46%), Mexican Peso (0.34%), British Pound (0.11%) and Euro (0.10%). Biggest losers are Turkish Lira (-0.50%) and Dollar Index (-0.17%)."
+    },
+    {
+      "id": "mkt:01a0d7ca-11eb-7118-8697-ff2538381283",
+      "time": "2026-09-25 16:58:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Morgan Stanley sees Bank of England hiking 25bps in November and February】Morgan Stanley on Friday revised its Bank of England outlook, now expecting 25bps hikes in November and again in February after previously forecasting no rate moves in the foreseeable future. The bank said it has formally shifted to two quarter-point increases and flagged tighter fiscal policy as the key potential catalyst. Analysts expect growth to slow at the start of next year but judge near-term risks balanced given strong global growth. The Bank of England last week held rates, warned a prolonged Iran war could force further tightening, and projected inflation above 4% in early next year."
+    },
+    {
+      "id": "5113372",
+      "time": "2026-09-25 16:57:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守98美元/桶，日內跌2.22%。"
+    },
+    {
+      "id": "mkt:01a0d7c8-99d5-7118-8697-f0361dfcb0ed",
+      "time": "2026-09-25 16:57:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude slipped below $98.00 a barrel, down 2.74% intraday."
+    },
     {
       "id": "5113371",
       "time": "2026-09-25 16:55:52",
@@ -112665,30 +112958,6 @@
         "國際"
       ],
       "text": "克里姆林宮就雀巢、歐尚資產被引入臨時管理一事表態：原因之一是兩家企業的所有者來自不友好國家，且參與基輔對民用目標的打擊。"
-    },
-    {
-      "id": "te:economy:584992",
-      "time": "2026-09-18 17:16:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Euro Area",
-        "Construction Output",
-        "Importance 1"
-      ],
-      "text": "Eurozone Construction Output Falls the Most in 5 Months — Eurozone construction output dropped by 2% year-on-year in July 2026, the steepest decline since February, following an upwardly revised 1.4% decrease in June. Building activity continued to contract (-6.4% vs -7.4% in June), while specialised construction activities also remained under pressure (-1.6% vs -0.4%). Meanwhile, civil engineering rose by 0.6%, after being flat in the previous month. Among major economies, output fell in Spain (-9.7%), France (-5%) and Italy (-1.2%), but increased in Germany (1%). On a monthly basis, construction output was flat, after an upwardly revised 1.5% slump in June. In the broader European Union, construction activity shrank by 1.8% on a yearly basis and fell by 0.3% from the previous month."
-    },
-    {
-      "id": "te:economy:584991",
-      "time": "2026-09-18 17:11:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bulgaria",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Bulgaria Current Account Deficit Narrows in July — Bulgaria's current account deficit narrowed to EUR 269.0 million in July 2026 from EUR 303.7 million in the same month a year earlier. The improvement came despite a wider goods deficit of EUR 853.1 million, compared with EUR 752.4 million, as the primary income deficit narrowed to EUR 532.0 million from EUR 617.4 million and the secondary income surplus increased to EUR 240.8 million from EUR 149.9 million. Meanwhile, the services surplus edged down to EUR 875.2 million from EUR 916.2 million, leaving the combined goods and services balance at a surplus of EUR 22.2 million, down from EUR 163.8 million. In January-July 2026, the current account recorded a deficit of EUR 5,426.8 million, compared with a deficit of EUR 2,470.6 million in the corresponding period of 2025."
     }
   ]
 }
