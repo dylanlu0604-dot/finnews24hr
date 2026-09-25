@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-26 04:43:01",
-  "count": 12099,
+  "updated": "2026-09-26 04:46:54",
+  "count": 12100,
   "items": [
+    {
+      "id": "5114028",
+      "time": "2026-09-26 04:45:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：樂觀展望反映多哥政府債務負擔將持續逐步下降的前景。"
+    },
+    {
+      "id": "mkt:01a0da50-7637-7118-86a3-cd9fd79bf761",
+      "time": "2026-09-26 04:45:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Cleveland Fed president Beth Harnack: Treasury yields rise not due to loss of confidence in disinflation】Cleveland Fed president Beth Harnack said the recent sharp rise in U.S. Treasury yields is not driven by a loss of confidence in disinflation but primarily by higher real rates, a stronger growth outlook, fiscal policy and competition for investor funds. She said inflation expectations remain basically well-anchored, but inflation persistently above the Fed's 2% target imposes real costs and could affect business planning and wage pressures. The biggest inflation risk is an emergence of an \"inflation mindset\"—public expectations that higher inflation will persist. Harnack said the Fed needs to keep policy restrictive to push inflation back toward 2%. On the bond market, she said yield increases partly reflect repricing of Fed policy and government fiscal policy, and that heavy investment demand from AI and technology is competing with bonds for capital. She added that the current U.S. fiscal path is unsustainable."
+    },
+    {
+      "id": "te:markets:587012",
+      "time": "2026-09-26 04:44:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Eases From 3-Year High — Canada’s 10-year government bond yield eased to around 3.92% after touching a near three-year high of 4% on September 24th, as falling oil prices halted a sharp sell-off in global bonds. Lower oil prices tempered inflation concerns, pausing the broader bond-market selloff. Expectations that diplomatic efforts involving Iran and the US could make progress toward reopening the Strait of Hormuz drove oil lower. The latest decline in the 10-year yield therefore marks a partial reversal of the week’s bond-market selloff, although yields remain substantially above levels seen earlier in September. The BoC also faces inflation concerns as energy prices remain elevated. Meanwhile, Canadian retail sales likely increased 1.3% month over month in August, rebounding from a decline in July, according to estimates. This would mark the strongest gain since January. Stronger retail sales could signal resilient domestic demand, adding further upward pressure on yields."
+    },
+    {
+      "id": "5114027",
+      "time": "2026-09-26 04:43:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：評級確認反映安哥拉經濟依賴石油，儘管宏觀經濟管理有所改善，但石油依賴仍是其脆弱性的來源。"
+    },
+    {
+      "id": "5114026",
+      "time": "2026-09-26 04:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：對南部非洲關稅同盟轉移支付的依賴使得財政狀況進一步受外部形勢衝擊，而這些形勢基本不在波札那政府的掌控範圍內。"
+    },
+    {
+      "id": "5114025",
+      "time": "2026-09-26 04:42:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "PATRIA AGRONEGOCIOS：巴西農戶已完成2026年度大豆種植面積的4.39%，去年同期為4.15%。"
+    },
     {
       "id": "5114024",
       "time": "2026-09-26 04:42:28",
@@ -110142,46 +110202,6 @@
         "AI Revolution"
       ],
       "text": "【OpenAI CEO Sam Altman to brief UN Security Council on AI safety next week】OpenAI CEO Sam Altman will brief the UN Security Council next week during the UN General Assembly in New York. The Security Council is scheduled to hold an open meeting on AI and international security on Wednesday. OpenAI said Altman will outline the company’s measures to secure AI, efforts to ensure the technology benefits broadly, and the need for international coordination and common safety standards. The meeting comes as several AI industry figures urge coordinated slowdowns in advanced AI development, warning rapid capability gains could create risks beyond human control. Altman has previously warned of AI risks, including a 2015 article saying superintelligence could be among humanity’s largest threats."
-    },
-    {
-      "id": "5102783",
-      "time": "2026-09-19 04:45:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI新興市場股票指數漲1.4%，發展中國家外匯指數漲0.1%。"
-    },
-    {
-      "id": "5102782",
-      "time": "2026-09-19 04:45:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "CNN釋出宣告：CNN 全力支援其白宮報道團隊以及他們公正準確的報道。依據美國憲法，我們有權開展此類報道，不受政府的阻礙或干預。如果特朗普總統所威脅的這項禁令付諸實施，將是對這項受憲法保護的基本權利的非法侵犯。 （此前特朗普宣稱將禁止CNN等三家媒體進入白宮）"
-    },
-    {
-      "id": "5102781",
-      "time": "2026-09-19 04:43:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "CNN稱，這項禁令將構成對憲法權利的非法侵犯。"
-    },
-    {
-      "id": "5102780",
-      "time": "2026-09-19 04:43:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "CNN表示將全力支援本公司的白宮團隊。"
-    },
-    {
-      "id": "mkt:01a0b642-3726-7118-860c-278ab78c362f",
-      "time": "2026-09-19 04:43:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Moody's downgraded Poland's sovereign rating to A3 and assigned a stable outlook."
     }
   ]
 }
