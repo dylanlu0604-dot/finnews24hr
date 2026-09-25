@@ -1,7 +1,99 @@
 {
   "date": "2026-09-26",
-  "count": 256,
+  "count": 266,
   "items": [
+    {
+      "id": "5113944",
+      "time": "2026-09-26 04:02:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "GEN Digital周跌幅達25%，創六年多來最大單週跌幅。"
+    },
+    {
+      "id": "mkt:01a0da29-3dba-7118-86a3-26bcf1219cb9",
+      "time": "2026-09-26 04:02:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "DELL.N"
+      ],
+      "text": "【US close: major indices higher; Dell up >5%】US stocks closed higher on Friday: Dow Jones rose 0.93%, S&P 500 gained 0.51%, Nasdaq Composite advanced 0.48%. Dell (DELL.N) climbed 5.02%, Qualcomm (QCOM.O) +3.97%, Microsoft (MSFT.O) +3.66%, SK Hynix (SKHY.O) +2.78%; Intel (INTC.O) -3.45%, Meta Platforms (META.O) -3.33%. Nasdaq Golden Dragon China Index fell 0.64%; NetEase (NTES.O) -1.83%, Baidu (BIDU.O) -0.85%."
+    },
+    {
+      "id": "5113943",
+      "time": "2026-09-26 04:01:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週非官方資料顯示，標普500指數上漲1.22%，納斯達克指數攀升2.06%，道瓊斯工業指數上揚0.28%。"
+    },
+    {
+      "id": "5113942",
+      "time": "2026-09-26 04:01:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "BLOOM ENERGY股價收盤上漲8.7%，創6月以來新高。"
+    },
+    {
+      "id": "5113941",
+      "time": "2026-09-26 04:01:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "西斯科公司宣佈完成15億加元優先票據發行。"
+    },
+    {
+      "id": "5113940",
+      "time": "2026-09-26 04:01:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "ZSCALER股價收盤下跌10%，創5月27日以來最大單日跌幅。"
+    },
+    {
+      "id": "5113939",
+      "time": "2026-09-26 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.93%，標普500指數漲0.51%，納指漲0.47%。BE漲8.25%，ON SEMICONDUCTOR漲5.51%，微芯科技漲5.29%，Generac控股漲5.09%，戴爾漲5.01%，加特納漲4.78%。“七姐妹”方面：微軟漲3.64%，蘋果漲1.50%，谷歌漲0.60%，英偉達漲0.22%，亞馬遜漲0.12%，特斯拉跌1.54%，Meta Platforms跌3.40%。"
+    },
+    {
+      "id": "mkt:01a0da27-9871-7118-86a3-1a48930d7bba",
+      "time": "2026-09-26 04:00:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan military says chiefs of staff from Pakistan, Saudi Arabia and Turkey reviewed the security situation and threats facing Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a0da27-753b-7118-86a3-123e4a124e7b",
+      "time": "2026-09-26 04:00:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan military says military chiefs from Pakistan, Saudi Arabia and Turkey discussed strengthening intelligence sharing, operational coordination and integration of military capabilities."
+    },
+    {
+      "id": "5113938",
+      "time": "2026-09-26 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.61%】DCX跌19.57%，虎虎科技跌10.99%，海川證券跌9.56%，陸金所控股跌7.78%，小牛電動跌4.65%。"
+    },
     {
       "id": "mkt:01a0da26-c87d-7118-86a3-09c86294852c",
       "time": "2026-09-26 03:59:29",
