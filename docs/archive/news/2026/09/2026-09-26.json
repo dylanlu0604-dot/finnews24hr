@@ -1,7 +1,53 @@
 {
   "date": "2026-09-26",
-  "count": 46,
+  "count": 51,
   "items": [
+    {
+      "id": "mkt:01a0d974-d2ca-7118-869f-8b6f183b4076",
+      "time": "2026-09-26 00:45:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N"
+      ],
+      "text": "Palantir (PLTR.N) co-founder backs Dalio to lead ANTHROPIC, saying he is a suitable choice."
+    },
+    {
+      "id": "5113775",
+      "time": "2026-09-26 00:43:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會主席：若企業在提供產品或服務時，大規模使用非傳統途徑獲取的個人資料，就應當告知消費者這一情況。"
+    },
+    {
+      "id": "mkt:01a0d973-23e8-7118-869f-82c7012ca19e",
+      "time": "2026-09-26 00:43:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTC chair said firms that use large amounts of personal data to deliver a product or service, where such use was not previously routine, should notify users."
+    },
+    {
+      "id": "mkt:01a0d972-757e-7118-869f-7e6fc6c44a92",
+      "time": "2026-09-26 00:42:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N"
+      ],
+      "text": "Palantir Technologies (PLTR.N) co-founder said AI policies promoted by OpenAI and ANTHROPIC are \"extremely dangerous\"."
+    },
+    {
+      "id": "5113774",
+      "time": "2026-09-26 00:42:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "Palantir聯合創始人Joe Lonsdale： OpenAI 與 Anthropic 推動的 AI 政策主張 “極具危險性”。"
+    },
     {
       "id": "mkt:01a0d970-5fb3-7118-869f-72792b3a5981",
       "time": "2026-09-26 00:40:15",

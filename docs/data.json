@@ -1,7 +1,53 @@
 {
-  "updated": "2026-09-26 00:42:22",
-  "count": 12084,
+  "updated": "2026-09-26 00:46:11",
+  "count": 12085,
   "items": [
+    {
+      "id": "mkt:01a0d974-d2ca-7118-869f-8b6f183b4076",
+      "time": "2026-09-26 00:45:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N"
+      ],
+      "text": "Palantir (PLTR.N) co-founder backs Dalio to lead ANTHROPIC, saying he is a suitable choice."
+    },
+    {
+      "id": "5113775",
+      "time": "2026-09-26 00:43:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會主席：若企業在提供產品或服務時，大規模使用非傳統途徑獲取的個人資料，就應當告知消費者這一情況。"
+    },
+    {
+      "id": "mkt:01a0d973-23e8-7118-869f-82c7012ca19e",
+      "time": "2026-09-26 00:43:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTC chair said firms that use large amounts of personal data to deliver a product or service, where such use was not previously routine, should notify users."
+    },
+    {
+      "id": "mkt:01a0d972-757e-7118-869f-7e6fc6c44a92",
+      "time": "2026-09-26 00:42:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N"
+      ],
+      "text": "Palantir Technologies (PLTR.N) co-founder said AI policies promoted by OpenAI and ANTHROPIC are \"extremely dangerous\"."
+    },
+    {
+      "id": "5113774",
+      "time": "2026-09-26 00:42:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "Palantir聯合創始人Joe Lonsdale： OpenAI 與 Anthropic 推動的 AI 政策主張 “極具危險性”。"
+    },
     {
       "id": "mkt:01a0d970-5fb3-7118-869f-72792b3a5981",
       "time": "2026-09-26 00:40:15",
@@ -110019,48 +110065,6 @@
         "XAUUSD"
       ],
       "text": "Sources told the Iranian Students' News Agency that a Saudi senior security and military delegation met with Mossad and Israeli military intelligence leaders under CENTCOM supervision to seek support in responding to Houthi armed actions."
-    },
-    {
-      "id": "mkt:01a0b568-5a4c-7118-8608-bcf172bf1106",
-      "time": "2026-09-19 00:45:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump says whether to 'destroy' Iran remains to be seen】NewsNation quoted President Trump saying he is weighing further military action against Tehran and that Iran is seeking a deal with the United States. Asked about earlier comments that he was considering whether to 'destroy' Iran, Trump said, \"we'll see.\" He added Tehran is 'losing on all fronts' economically and militarily and said he would not pursue a deal he deemed unfavorable."
-    },
-    {
-      "id": "mkt:01a0b567-3f9d-7118-8608-b3c721f9b487",
-      "time": "2026-09-19 00:43:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Al Jazeera cited U.S. officials saying about 60 million barrels of Iranian or suspected-Iranian oil are currently held on vessels under sanctions."
-    },
-    {
-      "id": "5102617",
-      "time": "2026-09-19 00:43:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯庫爾斯克核電站否認冷卻塔遭無人機襲擊】據俄羅斯方面9月18日訊息稱，針對國際原子能機構表示“已獲悉俄庫爾斯克核電站冷卻塔於17日遭無人機襲擊”一事，庫爾斯克核電站新聞部門負責人亞歷山大·普雷特科夫表示：“沒有發生襲擊事件。該核電站一切正常，一切平靜。”當日，國際原子能機構表示，已獲悉庫爾斯克核電站一個反應堆機組的冷卻塔於前一日被無人機擊中。（央視新聞）"
-    },
-    {
-      "id": "em:qqyh_mlc:202609193878930139",
-      "time": "2026-09-19 00:42:32",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲施密德稱，美國經濟強勁，持續增長；正處於一個相當正常化的狀態。"
     }
   ]
 }
