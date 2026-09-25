@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-26 04:27:36",
-  "count": 12097,
+  "updated": "2026-09-26 04:31:26",
+  "count": 12094,
   "items": [
+    {
+      "id": "5114002",
+      "time": "2026-09-26 04:30:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐約時報公司宣佈A類和B類普通股季度股息為每股0.23美元。"
+    },
+    {
+      "id": "mkt:01a0da41-befc-7118-86a3-91f270db00d8",
+      "time": "2026-09-26 04:28:56",
+      "tags": [
+        "MKT News",
+        "ORCL.N"
+      ],
+      "text": "Oracle (ORCL.N) said in an SEC filing that director and CEO Clayton M. Magouyrk’s total compensation for 2026 is $627.5 million."
+    },
+    {
+      "id": "te:markets:587010",
+      "time": "2026-09-26 04:28:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Energy Stocks Weigh — The Ibovespa fell 0.3% to close at 184,477 on Friday as losses in the energy sector weighed on the index. Oil prices fell amid reports that the US and Iran were considering a deal that could reopen the Strait of Hormuz and lift the US blockade on Iranian ports. Petrobras fell 2.4%. The pullback in oil offered some respite to credit-sensitive sectors that have been under pressure from energy-driven inflation concerns. Brazil’s mid-month inflation data limited gains, coming in above forecasts. Financials closed higher. Utilities also rose, with Axia edging up after approving an additional capital allocation of up to R$4 billion, related to second-quarter results, for the redemption of Class C preferred shares. Magazine Luiza rose 7.3% after S&P reaffirmed its brAA- rating. WEG added 0.6% after announcing an expansion of its project for a new battery energy storage systems plant in southern Brazil. The index fell 0.9% on the week."
+    },
+    {
+      "id": "5113999",
+      "time": "2026-09-26 04:27:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司在提交給美國證券交易委員會（SEC）的檔案中表示，執行董事長兼技術長勞倫斯·J·埃裡森2026年總薪酬為1.31億美元。"
+    },
     {
       "id": "mkt:01a0da3e-f122-7118-86a3-8c5591e98873",
       "time": "2026-09-26 04:25:53",
@@ -110101,68 +110138,6 @@
         "國際"
       ],
       "text": "特朗普被問及小特朗普婚禮相關捐款一事時表示：這完全合規。"
-    },
-    {
-      "id": "mkt:01a0b637-62e3-7118-860b-e802e8fcc1fa",
-      "time": "2026-09-19 04:31:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense warns ABHA and JIZAN may be at risk."
-    },
-    {
-      "id": "mkt:01a0b636-9965-7118-860b-e345ca90fe15",
-      "time": "2026-09-19 04:30:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi civil defense said the risk in Al-Ula province has been lifted."
-    },
-    {
-      "id": "mkt:01a0b636-457c-7118-860b-da5c01de71b8",
-      "time": "2026-09-19 04:30:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Sources: Anthropic annualized revenue may exceed $100 billion; IPO valuation eyed at $2 trillion】The New York Times, citing four people, reports Anthropic’s annualized revenue could top $100 billion this year, up from about $65 billion in July. Investors preparing to join a potential IPO are using the rapid revenue growth to justify valuations around $2 trillion. Sources say Anthropic could file IPO documents within weeks and could begin trading as early as November, though timing remains subject to investor sentiment and market volatility. Separate sources expect Anthropic to reach roughly 5 GW of compute capacity by year-end and to double that by the end of next year, approaching OpenAI’s scale. The company recently hosted about 100 VC investors at its San Francisco headquarters and management and banks have begun outreach to potential IPO investors."
-    },
-    {
-      "id": "5102767",
-      "time": "2026-09-19 04:29:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門釋出宣告，提醒阿卜哈和吉贊地區存在潛在危險。"
-    },
-    {
-      "id": "5102766",
-      "time": "2026-09-19 04:28:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 湖人收購方預計湖人隊十年後估值將達 300 億美元。"
-    },
-    {
-      "id": "5102765",
-      "time": "2026-09-19 04:28:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談肯尼迪中心：準備好解決問題了，我們有位敵對的法官。"
-    },
-    {
-      "id": "5102764",
-      "time": "2026-09-19 04:28:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門稱，尤拉省的危險已經解除。"
     }
   ]
 }
