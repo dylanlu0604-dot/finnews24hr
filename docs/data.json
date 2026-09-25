@@ -1,7 +1,80 @@
 {
-  "updated": "2026-09-26 00:07:25",
-  "count": 12092,
+  "updated": "2026-09-26 00:11:17",
+  "count": 12093,
   "items": [
+    {
+      "id": "mkt:01a0d955-7fbb-7118-869f-1efc0acb2c87",
+      "time": "2026-09-26 00:10:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative GREER said the G20 trade ministers' meeting is scheduled to take place Sept. 29- Oct. 1 (local time)."
+    },
+    {
+      "id": "te:markets:586992",
+      "time": "2026-09-26 00:10:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.12% Lower — The CAC 40 Index fell 10 points or 0.12 percent on Friday to close at 8072 points. Leading the losses are TotalEnergies SE (-1.06%), Airbus (-1.02%) and Danone (-0.96%). Top gainers were Societe Generale (3.44%), Accor (1.48%) and Stellantis NV (1.47%)."
+    },
+    {
+      "id": "mkt:01a0d954-8b58-7118-869f-1333b9f16d52",
+      "time": "2026-09-26 00:09:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer will travel to Wisconsin next week to attend a G20 meeting."
+    },
+    {
+      "id": "te:markets:586991",
+      "time": "2026-09-26 00:08:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Finishes on Higher Note — Frankfurt's DAX 40 closed about 0.5% firmer at 25,396 on Friday, halting a two-day losing streak and booking a 0.4% weekly gain. Optimism surrounding a potential peace agreement to reopen the Strait of Hormuz pushed oil prices lower, although uncertainties persisted. Meanwhile, the US-China talks secured a two-month extension of the fragile trade truce ahead of its November expiry, marking the biggest achievement so far. However, little progress was made on other key issues, including AI, Iran and Taiwan. On the domestic data front, German consumer sentiment weakened more than expected heading into October. Most sectors recorded gains, led by banks, travel-related srocks, tech and industrials. Adidas led gains among stocks, surging about 3%, after Metzler Capital Markets reaffirmed its 'buy' rating. Bank stocks were also in strong demand, with Commerzbank and Deutsche Bank rising around 2.7% each. Conversely, BASF fell 3.6% after Evonik confirmed talks on a potential takeover."
+    },
+    {
+      "id": "5113758",
+      "time": "2026-09-26 00:08:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾下週將前往威斯康星州出席二十國集團會議。"
+    },
+    {
+      "id": "te:markets:586990",
+      "time": "2026-09-26 00:07:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Little Changed as Luxury Stocks Weigh — The CAC 40 closed little changed at 8,078 on Friday as lower oil prices and calmer bond markets supported equities, while losses in the luxury sector weighed on the index. Reports that the US and Iran were exploring a agreement that could lead to the reopening of the Strait of Hormuz eased concerns over energy supply disruptions. The pullback in oil offered respite to credit-sensitive sectors that have been under pressure from energy-driven inflation concerns. Financial stocks rose, with BNP Paribas adding 0.9%, Crédit Agricole rising 1.4%, and Société Générale advancing 3.5%. Meanwhile, luxury stocks closed lower amid renewed pressure from weaker Chinese demand, subdued consumer confidence, and softer earnings expectations. Hermès shed 0.5%, while Kering lost 1.1%. Industrials closed mixed, with Airbus (-1%) and Thales (-1.2%) down, while Schneider Electric (+0.4%) and STMicroelectronics (+0.5%) gained, tracking gains from US chipmakers. On the week, the CAC 40 shed 0.7%."
+    },
+    {
+      "id": "te:markets:586989",
+      "time": "2026-09-26 00:07:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.14% Higher — The FTSE 100 Index gained 15 points or 0.14 percent on Friday to close at 10695 points. Gains were led by Computacenter (3.72%), Standard Chartered (2.33%) and Smiths (2.03%). Biggest losers were BP (-2.22%), Bunzl (-1.86%) and Imperial Brands (-1.64%)."
+    },
     {
       "id": "mkt:01a0d94f-3024-7118-869f-087a95b55c8a",
       "time": "2026-09-26 00:04:00",
@@ -110043,64 +110116,6 @@
         "MKT News"
       ],
       "text": "Peru's central bank expects GDP to grow 3.0% in 2027."
-    },
-    {
-      "id": "te:markets:585094",
-      "time": "2026-09-19 00:11:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.60% Lower — The DAX Index decreased 413 points or 1.60 percent on Friday to close at 25304 points. The decline was led by Volkswagen (-5.97%), Porsche Automobil (-5.19%) and Mercedes-Benz AG (-4.76%)."
-    },
-    {
-      "id": "5102598",
-      "time": "2026-09-19 00:10:19",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行預計 2026 年財政赤字為國內生產總值的 1.5%，此前預估為 1.8%。"
-    },
-    {
-      "id": "te:markets:585093",
-      "time": "2026-09-19 00:10:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 1.62% Lower — The CAC 40 Index fell 133 points or 1.62 percent on Friday to close at 8054 points. Leading the losses are Stellantis NV (-6.22%), Renault (-5.53%) and Orange (-5.47%)."
-    },
-    {
-      "id": "5102597",
-      "time": "2026-09-19 00:10:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安理會完成聯合國秘書長遴選第三輪意向性投票】當地時間9月18日，安理會當月輪值主席、法國常駐聯合國代表傑羅姆·博納豐宣佈，安理會當日已就下一任秘書長遴選完成第三輪意向性投票。意向性投票結果不對外公佈，將透過候選人推舉國通知各候選人。（央視新聞）"
-    },
-    {
-      "id": "5102596",
-      "time": "2026-09-19 00:08:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行預計2026年國內生產總值增長率為3.2%，低於之前預估的3.4%。預計 2027 年國內生產總值增速為 3.0%。"
-    },
-    {
-      "id": "mkt:01a0b546-5cab-7118-8608-216bdafb5ff9",
-      "time": "2026-09-19 00:08:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Peru's central bank expects 2026 GDP growth of 3.2%, down from its prior 3.4% forecast."
     }
   ]
 }
