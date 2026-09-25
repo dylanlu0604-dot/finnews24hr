@@ -1,7 +1,44 @@
 {
-  "updated": "2026-09-25 09:09:49",
-  "count": 12748,
+  "updated": "2026-09-25 09:13:34",
+  "count": 12743,
   "items": [
+    {
+      "id": "mkt:01a0d61f-9b6b-7118-8693-289d49efbb38",
+      "time": "2026-09-25 09:13:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee says cooperation that began with automobiles and home appliances has expanded into materials, components, infrastructure, cosmetics and food, and he expects greater results in AI, next-generation vehicles, aerospace, supply chain and energy."
+    },
+    {
+      "id": "mkt:01a0d61e-412b-7118-8693-242001356198",
+      "time": "2026-09-25 09:11:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's President Lee said bilateral trade with Mexico is about 28 tln won and South Korean investment in Mexico exceeds 18 tln won, calling the two countries indispensable partners. Lee met Mexican business leaders during a visit to the presidential office."
+    },
+    {
+      "id": "5112905",
+      "time": "2026-09-25 09:10:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4320美元/盎司，日內漲0.51%。"
+    },
+    {
+      "id": "te:markets:586692",
+      "time": "2026-09-25 09:10:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "New Zealand 10Y Yield Climbs to Nearly 3-Year High — New Zealand’s 10-year government bond yield surged to an intraday high of 5.11% in late September, its highest level since November 2023, tracking a global bond selloff as elevated oil prices stoked inflation concerns. The intensifying selloff pushed US Treasury yields to multi-year highs, as markets raised expectations for a higher-for-longer path from the Federal Reserve. The rise in global yields added to upward pressure on New Zealand’s long-term borrowing costs, alongside rising expectations for further tightening by the Reserve Bank of New Zealand. Markets are now pricing in about a 75% chance of a third hike in October, up sharply from earlier this month. This follows Governor Anna Breman’s warning that sustained oil price increases could push near-term inflation above the central bank’s latest forecast. However, her emphasis on an uneven economic recovery highlighted the challenge of addressing inflation risks while supporting still-fragile domestic growth."
+    },
     {
       "id": "5112904",
       "time": "2026-09-25 09:08:34",
@@ -115832,85 +115869,6 @@
         "公司"
       ],
       "text": "【SK集團將三名副董事長調往SK海力士】9月18日，據報道，業內人士透露，SK集團旗下控股公司SK Inc.已將其四名副董事長中的三名調往SK海力士。這三名高管分別是Seo Jin-Woo、Yu Jeong-Joon和Lee Hyung-Hee，他們此前負責領導集團的全球業務和對外合作。SK集團表示，此次人事調動考量了半導體行業日益加劇的地緣政治不確定性。一位公司官員解釋說：“目的是讓具備全球經驗和專業知識的資深高管為SK海力士的整體經營提供建議，並支援中長期願景的制定。”為此，這三位副董事長近期已開始與SK海力士全體高管進行一對一的深入訪談。此外，報道稱，SK集團的職業經理人副董事長團隊也已同時進駐SK海力士。"
-    },
-    {
-      "id": "mkt:01a0b213-2f90-7118-85ec-cb1a70e8afe8",
-      "time": "2026-09-18 09:13:16",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Ten ministries, including MIIT and NDRC, back pharma firms targeting frontier science to develop FIC and BIC】Ten ministries, led by the Ministry of Industry and Information Technology and the National Development and Reform Commission, today issued the Pharmaceutical Industry “15th Five-Year Plan”, directing stronger original innovation. The plan prioritizes major infectious diseases, major chronic diseases, rare diseases and pediatric medicines, strengthens firms’ role as innovation drivers, and calls for accelerating R&D toward first-in-class, breakthrough and disruptive therapies. It supports pharmaceutical companies in targeting frontier biomedical science to develop new targets, new mechanisms and new drug types — first-in-class (FIC) and best-in-class (BIC) — and urges faster R&D and application of frontier, leading high-end medical devices."
-    },
-    {
-      "id": "mkt:01a0b213-034c-7118-85ec-c2db314bae61",
-      "time": "2026-09-18 09:13:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia deputy governor Hauser said the board is fully committed to achieving the inflation target."
-    },
-    {
-      "id": "mkt:01a0b212-38e9-7118-85ec-bbff15775bc3",
-      "time": "2026-09-18 09:12:13",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said persistent inflation shocks are hard to ignore."
-    },
-    {
-      "id": "5100871",
-      "time": "2026-09-18 09:11:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【醫藥工業發展“十五五”規劃：加快人工智慧、量子計算、超級計算等新技術賦能藥物研發】工業和資訊化部等十部門印發《醫藥工業發展“十五五”規劃》。規劃提出，加快佈局前沿技術和產品。強化跨學科交叉融合與前沿技術供給，支援醫藥工業企業、高校、科研院所、醫療機構等聯合攻關。加快人工智慧、量子計算、超級計算、計算醫學等新技術賦能藥物研發，探索超限制造、太空製藥、生物製造等藥械生產新模式，深化基因編輯、分子精準遞送、細胞程式設計與調控、先進組學、新一代腦機介面等前沿技術應用，突破人工生命體系合成、類器官與器官晶片、通用型細胞治療、複雜再生器官、診療一體化放射性藥物、異種移植器官等關鍵技術，培育若干新增長點。"
-    },
-    {
-      "id": "5100870",
-      "time": "2026-09-18 09:11:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【十部門：加快構建化學原料藥、高階製劑、疫苗、抗體藥物、中藥、醫療器械等領域優勢】工信部等十部門印發《醫藥工業發展“十五五”規劃》。其中提到，加快構建化學原料藥、高階製劑、疫苗、抗體藥物、中藥、醫療器械等領域優勢。完善醫藥領域跨境技術與服務體系，提升面向國際市場的全鏈條醫藥研發生產服務（CRO/CDMO）專業能力。支援國內企業透過共同研發、共同商業化等方式積極參與全球醫藥創新分工合作，強化智慧財產權保護與運用，助力創新藥械走向國際市場。加強藥品監管國際合作，推動國內外監管規則、標準等有效銜接，強化監管協調，提升我國醫藥產品的國際認可度與影響力。"
-    },
-    {
-      "id": "mkt:01a0b211-4a00-7118-85ec-b5944861c91c",
-      "time": "2026-09-18 09:11:12",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "RBA Governor Bullock said inflation risks are tilted to the upside."
-    },
-    {
-      "id": "mkt:01a0b211-241d-7118-85ec-aa0269646225",
-      "time": "2026-09-18 09:11:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's 30-year government bond yield fell 4.5 bps to 4.03%."
-    },
-    {
-      "id": "5100869",
-      "time": "2026-09-18 09:10:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【十部門：推動中醫藥文化傳承創新，加強中醫藥古籍整理與經典名方開發】工信部等十部門印發《醫藥工業發展“十五五”規劃》。其中提到，推動中醫藥文化傳承創新，加強中醫藥古籍整理與經典名方開發，展示中醫藥傳統文化與發展成就。鼓勵中藥原料生產基地、中藥企業開展農文旅融合的科普研學活動。培育現代醫藥產業文化，開發權威科普資源，強化公眾對醫藥產業創新、科技創新的認知與瞭解。提升文化軟實力，推動醫藥文化融入國民教育，在中小學開展中醫藥文化、生命科學教育，支援醫藥題材文藝創作，講好醫藥領域中國故事。"
-    },
-    {
-      "id": "5100868",
-      "time": "2026-09-18 09:10:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【醫藥工業發展“十五五”規劃：加快推動我國創新藥械研發向首創性、突破性、顛覆性升級】工業和資訊化部等十部門印發《醫藥工業發展“十五五”規劃》。規劃提出，增強原始創新能力。聚焦重大傳染病、重大慢性病、罕見病、兒童用藥等重點領域，強化企業創新主體地位，加快推動我國創新藥械研發向首創性、突破性、顛覆性升級。支援醫藥工業企業瞄準醫藥前沿科技，開發一批新靶點、新機制、新藥物型別的首創新藥（FIC）和同類最優藥物（BIC）。加快研發應用一批前沿性、引領性高階醫療器械。"
     }
   ]
 }

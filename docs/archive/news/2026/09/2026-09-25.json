@@ -1,7 +1,44 @@
 {
   "date": "2026-09-25",
-  "count": 617,
+  "count": 621,
   "items": [
+    {
+      "id": "mkt:01a0d61f-9b6b-7118-8693-289d49efbb38",
+      "time": "2026-09-25 09:13:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee says cooperation that began with automobiles and home appliances has expanded into materials, components, infrastructure, cosmetics and food, and he expects greater results in AI, next-generation vehicles, aerospace, supply chain and energy."
+    },
+    {
+      "id": "mkt:01a0d61e-412b-7118-8693-242001356198",
+      "time": "2026-09-25 09:11:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's President Lee said bilateral trade with Mexico is about 28 tln won and South Korean investment in Mexico exceeds 18 tln won, calling the two countries indispensable partners. Lee met Mexican business leaders during a visit to the presidential office."
+    },
+    {
+      "id": "5112905",
+      "time": "2026-09-25 09:10:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4320美元/盎司，日內漲0.51%。"
+    },
+    {
+      "id": "te:markets:586692",
+      "time": "2026-09-25 09:10:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "New Zealand 10Y Yield Climbs to Nearly 3-Year High — New Zealand’s 10-year government bond yield surged to an intraday high of 5.11% in late September, its highest level since November 2023, tracking a global bond selloff as elevated oil prices stoked inflation concerns. The intensifying selloff pushed US Treasury yields to multi-year highs, as markets raised expectations for a higher-for-longer path from the Federal Reserve. The rise in global yields added to upward pressure on New Zealand’s long-term borrowing costs, alongside rising expectations for further tightening by the Reserve Bank of New Zealand. Markets are now pricing in about a 75% chance of a third hike in October, up sharply from earlier this month. This follows Governor Anna Breman’s warning that sustained oil price increases could push near-term inflation above the central bank’s latest forecast. However, her emphasis on an uneven economic recovery highlighted the challenge of addressing inflation risks while supporting still-fragile domestic growth."
+    },
     {
       "id": "5112904",
       "time": "2026-09-25 09:08:34",
