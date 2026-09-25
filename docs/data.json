@@ -1,7 +1,357 @@
 {
-  "updated": "2026-09-25 19:05:04",
-  "count": 12307,
+  "updated": "2026-09-25 19:15:15",
+  "count": 12329,
   "items": [
+    {
+      "id": "5113517",
+      "time": "2026-09-25 19:14:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "贏創工業集團股價走高，現漲4.8%，此前報道巴斯夫提議合併。"
+    },
+    {
+      "id": "5113516",
+      "time": "2026-09-25 19:12:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "阿爾蒙蒂工業公司盤前上漲3.2%，此前Stifel首次覆蓋給予買入評級。"
+    },
+    {
+      "id": "5113515",
+      "time": "2026-09-25 19:12:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Trophy Games將以225萬歐元預付款從Paradox手中收購Playrion。"
+    },
+    {
+      "id": "5113514",
+      "time": "2026-09-25 19:12:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度鋼鐵管理局與印度煤炭公司簽署協議，以提高國內煤炭產量。"
+    },
+    {
+      "id": "5113513",
+      "time": "2026-09-25 19:11:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國民航局：公佈對2026年9月8日NATS技術事件的獨立審查職權範圍。"
+    },
+    {
+      "id": "5113512",
+      "time": "2026-09-25 19:09:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國路德維希港的巴斯夫近日向贏創及其最大股東提出合併提議。"
+    },
+    {
+      "id": "5113511",
+      "time": "2026-09-25 19:09:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超4.00%，現報3.235美元/百萬英熱。"
+    },
+    {
+      "id": "5113510",
+      "time": "2026-09-25 19:08:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：伊朗外長阿拉格齊向俄羅斯外長通報了伊朗與阿曼就霍爾木茲海峽進行談判及達成諒解的最新進展。"
+    },
+    {
+      "id": "mkt:01a0d840-a143-7118-869a-17be9cf64da7",
+      "time": "2026-09-25 19:08:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry says FM Araghchi briefed his Russian counterpart on the latest progress in Iran-Oman talks and an understanding reached on the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a0d840-4b9b-7118-869a-0cad07dd138d",
+      "time": "2026-09-25 19:08:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures climbed 1.21% intraday to break above $4,350 per ounce."
+    },
+    {
+      "id": "5113509",
+      "time": "2026-09-25 19:07:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4350美元/盎司，日內漲1.21%。"
+    },
+    {
+      "id": "5113508",
+      "time": "2026-09-25 19:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將PayPal <PYPL.O>的目標價從60美元下調至55美元。"
+    },
+    {
+      "id": "mkt:01a0d83f-95e2-7118-869a-00d5bf8fff90",
+      "time": "2026-09-25 19:07:20",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bearish"
+      ],
+      "text": "Deutsche Bank cuts PayPal price target to $55 from $60."
+    },
+    {
+      "id": "5113507",
+      "time": "2026-09-25 19:07:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破85000美元，日內漲0.72%。"
+    },
+    {
+      "id": "mkt:01a0d83e-bfa7-7118-8699-f9324ba335f3",
+      "time": "2026-09-25 19:06:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "The dollar index (DXY) slipped below 101, down 0.24% intraday."
+    },
+    {
+      "id": "5113505",
+      "time": "2026-09-25 19:06:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數跌破100關口，日內跌0.24%。"
+    },
+    {
+      "id": "te:markets:586907",
+      "time": "2026-09-25 19:04:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Finishes Higher, Still Posts Weekly Loss — India’s BSE Sensex closed about 0.4% up at 73895.7 on Friday, partially recovering from previous session's losses, helped by moderating oil prices on fresh hopes for a solution to the Middle East conflict. Still, sentiment remained fragile amid elevated geopolitical uncertainty and continued foreign outflows. US and Iranian negotiators were reportedly exploring a phased deal that would see Tehran reopen the Strait of Hormuz and Washington lift its blockade of Iranian ports. Selective buying emerged in key stocks, with Axis Bank (2.8%), M&M (2.2%), Asian Paints (1.9%), Bajaj Finance (1.2%) and HCL Tech (1.2%) among the top gainers. On the flip side, Trent (-1.4%), Infosys (-0.8%) and Kotak Bank (-0.5%) were the biggest laggards. For the week, the benchmark index lost about 0.5%."
+    },
+    {
+      "id": "mkt:01a0d83c-7836-7118-8699-f54acf3bc237",
+      "time": "2026-09-25 19:03:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WTO dispute settlement body accepted Russia’s request to establish a panel to review the EU’s carbon border adjustment mechanism (CBAM)."
+    },
+    {
+      "id": "5113504",
+      "time": "2026-09-25 19:03:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "Nektar表示，陪審團在禮來案中判給該公司9000萬美元外加利息。"
+    },
+    {
+      "id": "5113503",
+      "time": "2026-09-25 19:03:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "世貿組織爭端解決機構同意俄羅斯的請求，設立專家組審查歐盟碳邊境調節機制。"
+    },
+    {
+      "id": "5113502",
+      "time": "2026-09-25 19:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "據監管檔案顯示，陪審團認定禮來在許可協議中違反了善意默示約定。"
+    },
+    {
+      "id": "5113501",
+      "time": "2026-09-25 19:02:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生：CARVYKTI在早期復發或難治性多發性骨髓瘤患者中，50%的患者實現五年無治療緩解。"
+    },
+    {
+      "id": "5113500",
+      "time": "2026-09-25 19:01:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "宏利：預計加拿大央行將在10月和12月加息。"
+    },
+    {
+      "id": "5113499",
+      "time": "2026-09-25 19:01:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西9月建築價格環比上漲0.25%；預期上漲0.32%。"
+    },
+    {
+      "id": "5113498",
+      "time": "2026-09-25 19:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大航空將回購至多約8億加元的股票。"
+    },
+    {
+      "id": "5113497",
+      "time": "2026-09-25 19:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026中秋檔首日票房破億】據燈塔專業版，截至今日18時55分，2026年中秋節（9月25日）票房突破1億！《復仇者聯盟4：終局之戰（加碼臻享版）》《歡迎來龍餐館》《八仙！》暫列票房前三。"
+    },
+    {
+      "id": "5113496",
+      "time": "2026-09-25 19:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "AIXIA獲得新全球客戶的資料安全訂單，價值160萬瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a0d838-8d99-7118-8699-efbe42449525",
+      "time": "2026-09-25 18:59:39",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Russia’s ambassador to Germany said abandoning cheap Russian energy supplies is accelerating Germany’s energy strain."
+    },
+    {
+      "id": "5113495",
+      "time": "2026-09-25 18:56:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度衛生部信函顯示，印度已下令在全國範圍內打擊尼古丁袋，稱其存在健康風險。"
+    },
+    {
+      "id": "mkt:01a0d835-4516-7118-8699-e424a3a0940f",
+      "time": "2026-09-25 18:56:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pope Leo urged the world not to become indifferent to the 'scourge' of war."
+    },
+    {
+      "id": "5113494",
+      "time": "2026-09-25 18:55:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "教宗利奧重申禁止核武器的呼籲，稱其提供的安全感是\"錯誤信念\"。"
+    },
+    {
+      "id": "mkt:01a0d834-e541-7118-8699-d9c0e5184dac",
+      "time": "2026-09-25 18:55:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,310/oz, up 0.83% on the day."
+    },
+    {
+      "id": "5113493",
+      "time": "2026-09-25 18:55:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4310美元/盎司，日內漲0.85%。"
+    },
+    {
+      "id": "mkt:01a0d834-0b4a-7118-8699-d1c919533510",
+      "time": "2026-09-25 18:54:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian president met with the Qatari prime minister in New York."
+    },
+    {
+      "id": "5113492",
+      "time": "2026-09-25 18:54:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "教皇利奧在法國呼籲，世界不要對戰爭的“禍害”變得漠不關心。"
+    },
+    {
+      "id": "5113491",
+      "time": "2026-09-25 18:54:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統與卡達首相討論了緩和局勢的努力。"
+    },
+    {
+      "id": "5113490",
+      "time": "2026-09-25 18:52:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統在紐約會見卡達首相。"
+    },
+    {
+      "id": "5113489",
+      "time": "2026-09-25 18:52:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所披露檔案顯示，小米於9月25日回購190萬股B類股份，耗資5010萬港元。"
+    },
+    {
+      "id": "mkt:01a0d832-1b7a-7118-8699-cc2270b96dcf",
+      "time": "2026-09-25 18:52:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1810.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing: Xiaomi Group repurchased 1.9 million Class B shares on Sept 25 for HK$50.1 million."
+    },
     {
       "id": "mkt:01a0d82f-e013-7118-8699-c2c745ccbaaa",
       "time": "2026-09-25 18:50:11",
@@ -500,6 +850,15 @@
       "text": "【Sources: Fed plans to raise asset thresholds that trigger stricter bank regulation】Four people familiar with the matter said the Federal Reserve is planning to raise asset-size thresholds that trigger enhanced supervision of large banks. The change would spare some lenders from costly additional oversight and could accelerate industry consolidation. Sources said the Fed expects to soon propose recalibrating the thresholds that determine when banks face balance-sheet stress tests, liquidity, capital and other stricter rules to reflect inflation and economic growth; three of the sources said proposals are expected later this year. Current rules tighten oversight at $100bn in assets and further increase requirements at $250bn and $700bn. Banks say the thresholds, set in 2019, have not kept pace with economic growth and have made regulation stricter than the risks warrant."
     },
     {
+      "id": "em:qqyh_mlc:202609253884304261",
+      "time": "2026-09-25 18:04:54",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "四位知情人士表示，美聯儲正在制定一項計劃，擬提高觸發對大型銀行實施更嚴格監管的資產門檻，此舉將使部分貸款機構免於承擔昂貴的額外監管成本，並可能推動行業整合。"
+    },
+    {
       "id": "5113457",
       "time": "2026-09-25 18:04:12",
       "tags": [
@@ -758,6 +1117,15 @@
       "text": "印度國家證券交易所Nifty 50指數的指示性水平上漲0.5%，將盤前集合競價階段0.28%的漲幅進一步擴大。"
     },
     {
+      "id": "em:qqyh_mlc:202609253884303532",
+      "time": "2026-09-25 17:50:57",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲威廉姆斯表示，美聯儲應確保衝擊不會變得根深蒂固。"
+    },
+    {
       "id": "5113435",
       "time": "2026-09-25 17:50:32",
       "tags": [
@@ -914,6 +1282,15 @@
       "text": "Treasury Yields Edge Lower But Remain at Multi-Year Highs — The yield on the 10-year US Treasury note fell to 5.17% on Friday, following a sharp sell-off over the previous three sessions that pushed the benchmark yield up 23bps to around 5.20%. A decline in oil prices, amid signs that US and Iranian negotiators may be exploring a phased agreement to reopen the Strait of Hormuz, provided some relief to the bond market. Despite the modest pullback, borrowing costs remain at 2007 highs, as markets continue to price in expectations that the Federal Reserve will need to tighten monetary policy further. The odds of another 25bps rate hike at the Fed’s next meeting currently stand at around 70%, while swaps are pricing in three additional quarter-point rate increases over the next year. Strong economic activity and concerns over the fiscal outlook have also weighed on Treasuries. While demand at Tuesday’s 2-year Treasury auction was robust, the 5-year Treasury auction drew unexpectedly weak demand."
     },
     {
+      "id": "em:qqyh_mlc:202609253884301396",
+      "time": "2026-09-25 17:43:50",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "紐約聯儲行長WILLIAMS表示不能忽視持續的供應衝擊。"
+    },
+    {
       "id": "mkt:01a0d7f2-fd8c-7118-8698-d020a7f81d2f",
       "time": "2026-09-25 17:43:41",
       "tags": [
@@ -967,6 +1344,15 @@
       "text": "Swiss National Bank Chair Schlegel said the bank cannot wait for full evidence of second-round inflation effects to emerge."
     },
     {
+      "id": "em:qqyh_ygyh:202609253884300747",
+      "time": "2026-09-25 17:38:58",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "英國央行總裁貝利稱，能源價格高企持續的時間越長，就越難維持不加息的立場。"
+    },
+    {
       "id": "mkt:01a0d7ed-f064-7118-8698-bdc9a2bca7c1",
       "time": "2026-09-25 17:38:09",
       "tags": [
@@ -1014,6 +1400,15 @@
         "Importance 0"
       ],
       "text": "Philippines Business Confidence Less Pessimistic in August — The Business Confidence Index in the Philippines improved to -10.9 in August 2026 from -20.3 in July, as firms became less pessimistic, with the improvement attributed mainly to higher demand for goods and services. Current-month indicators strengthened, with business activity rising to 7.0 from -0.1, total orders to 12.4 from -0.7, and financial conditions improving to -24.9 from -31.4. Meanwhile, access to credit was slightly tighter at -7.2 from -7.0, while average capacity utilization increased marginally to 69.0% from 68.6%. Three-month confidence rose to 24.6 from 3.7, while 12-month confidence increased to 36.4 from 29.4. Firms also raised expectations for business activity and hiring over the next three months and 12 months, although the share of firms planning to expand operations over the next 12 months declined to 17.1% from 20.8%. Year-ahead inflation expectations eased to 5.4% from 5.6%, but remained above the Bangko Sentral ng Pilipinas’ 4.0% upper bound."
+    },
+    {
+      "id": "em:qqyh_ygyh:202609253884294542",
+      "time": "2026-09-25 17:35:37",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "英國央行總裁貝利稱，目前我們看到，能源價格的傳導效應相當有限，但現在下結論還為時過早。"
     },
     {
       "id": "5113422",
@@ -2126,6 +2521,15 @@
       "text": "歐盟委員會：天然氣供應保持穩定。"
     },
     {
+      "id": "em:qqyh_ygyh:202609253884285837",
+      "time": "2026-09-25 16:32:05",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "摩根士丹利將英國央行的加息預期從之前的零次調整為預計在11月和2月各加息一次。"
+    },
+    {
       "id": "5113344",
       "time": "2026-09-25 16:32:00",
       "tags": [
@@ -2659,6 +3063,15 @@
       "text": "Eurozone | 3-mo M3 Money Supply (YoY) (Aug) | actual 3.4% | previous 3.2%"
     },
     {
+      "id": "em:qqyh_ozyh:202609253884281495",
+      "time": "2026-09-25 16:02:13",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行稱，8月對企業的貸款增長4.2%，7月增長4.4%。"
+    },
+    {
       "id": "5113266",
       "time": "2026-09-25 16:01:55",
       "tags": [
@@ -2734,6 +3147,15 @@
         "市場"
       ],
       "text": "【美股盤前：“七姐妹”普漲】英偉達漲0.32%，蘋果漲0.02%，微軟跌0.14%，谷歌漲0.02%，亞馬遜漲0.44%，Meta跌0.07%，特斯拉漲0.70%。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202609253884281661",
+      "time": "2026-09-25 16:00:45",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "歐元區8月貨幣供應M3同比增長3.5%，預期3.50%，前值3.40%。"
     },
     {
       "id": "5113258",
@@ -3603,6 +4025,15 @@
       "text": "空客股價小幅下跌1.3%，位列CAC 40指數跌幅榜首位，此前該公司發現A321neo存在質量缺陷，但不存在安全風險。"
     },
     {
+      "id": "em:jjsj_oyqsj:202609253884274094",
+      "time": "2026-09-25 15:03:29",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "西班牙第二季度GDP同比增長2.6%，市場預估為2.7%。"
+    },
+    {
       "id": "5113186",
       "time": "2026-09-25 15:03:27",
       "tags": [
@@ -3617,6 +4048,15 @@
         "市場"
       ],
       "text": "西班牙IBEX 35指數開盤交易上漲0.7%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609253884272329",
+      "time": "2026-09-25 15:02:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行一日開出4張大額罰單，廣發銀行、渤海銀行等4家銀行領罰】9月24日，央行披露了4則大額罰單，郵儲銀行、廣發銀行、渤海銀行、江蘇銀行等4家銀行領罰。作出行政處罰決定日期均為9月8日。"
     },
     {
       "id": "5113184",
@@ -6088,6 +6528,15 @@
         "Importance 1"
       ],
       "text": "Yen Remains on Intervention Watch — The Japanese yen traded around 158.5 per dollar on Friday, staying near two-week lows and close to the key 160 level that could test Tokyo’s tolerance for further yen weakness. The currency also remained under pressure from a stronger dollar and surging Treasury yields as expectations grew that the Federal Reserve will tighten policy further to curb inflation. Moreover, the yen weakened as the Bank of Japan’s rate hike last week was viewed as insufficiently hawkish, with two officials dissenting from the decision. Meanwhile, former board member Makoto Sakurai said the central bank is expected to raise interest rates roughly once every three months, potentially lifting them to 2% by around June next year as it seeks to tackle mounting inflationary pressures."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609253884248169",
+      "time": "2026-09-25 10:45:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行三季度例會內容釋出 這個提法首次出現】與二季度例會相比，本次例會在表述上有幾處調整：將“加大逆週期和跨週期調節力度”改為“加大逆週期調節力度”；新增“綜合運用並適時調整貨幣政策工具”的提法，並強調要“推動貨幣政策操作框架改革完善”；同時，首次將“六張網”建設列為重點支援領域，並提出匯率市場要“防範市場‘羊群效應’和非理性預期的自我強化”。"
     },
     {
       "id": "5112990",
@@ -111693,263 +112142,6 @@
         "其他"
       ],
       "text": "【廣州二手房按揭比例降至35.6%】隨著居民部門槓桿率持續下行，當前全款買房或者少貸款的人越來越多。 廣州市房地產中介協會近期釋出的資料，今年6月以來，廣州二手房按揭付款的比例逐漸降低，6月按揭付款的比例為45.08%，7月當月按揭付款比例下降至38.85%，8月則進一步下降至35.6%。 深圳貝殼研究院資料顯示，上半年深圳二手房全款成交佔比達25.3%，同比擴大6.3個百分點。 （第一財經）"
-    },
-    {
-      "id": "5102161",
-      "time": "2026-09-18 19:14:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度工程公司高管：正與沙烏地阿拉伯、阿聯酋商談霍爾木茲海峽繞開基礎設施建設專案。"
-    },
-    {
-      "id": "mkt:01a0b439-c034-7118-8600-80489ab73d81",
-      "time": "2026-09-18 19:14:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Report: ARAMCO suspends next month's crude allocations to European customers】Foreign media, citing sources, report ARAMCO has told at least two European refiners they will receive no Saudi crude allocations next month after a drone attack forced closure of a key pipeline to the Red Sea. The east‑west pipeline was shut following the strike; sources say partial flow could resume in days and full restoration may take up to six weeks. European refiners typically lift Saudi crude from Sidi Kerir on Egypt's Mediterranean coast via a pipeline linked to the Red Sea; the outage has prompted panic buying — Poland's Orlen SA has issued more than 10 tenders since Friday seeking replacement supply."
-    },
-    {
-      "id": "mkt:01a0b438-eb31-7118-8600-7df9bff6a8c4",
-      "time": "2026-09-18 19:13:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【State Council backs stronger protection and promotion of traditional Chinese medicine; legal amendments sent to NPC Standing Committee】A State Council executive meeting chaired by Premier Li Qiang called for stepped-up protection and management of traditional Chinese medicine (TCM) traditional knowledge, coordinated protection and utilization of TCM resources, deeper research into TCM theory, diagnostics and mechanisms, and expanded promotion and application domestically and internationally to raise TCM’s global influence. The meeting gave in-principle approval to draft amendments to 15 laws, including a revision of the Emergency Response Law, and decided to submit the draft to the National People’s Congress Standing Committee for review."
-    },
-    {
-      "id": "5102160",
-      "time": "2026-09-18 19:13:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度工程公司：中東訂單出現放緩跡象。"
-    },
-    {
-      "id": "mkt:01a0b438-31d3-7118-8600-73b7e58f21f6",
-      "time": "2026-09-18 19:12:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【State Council executive meeting: strengthen primary-level medical rehabilitation and nursing system to improve urban-rural access】Li Qiang chaired the State Council executive meeting, which directed building a medical rehabilitation and nursing system centered on primary care and extending resources into communities and homes to improve urban and rural access. The meeting called for leveraging technological innovation to raise rehabilitation and nursing standards, develop more intelligent rehabilitation technologies and devices, and broaden service scenarios. It also ordered stronger support measures: dynamically adjust the catalog of rehabilitation medical and long-term care services, deepen price reform for rehabilitation and nursing services, and improve talent training and recruitment policies to enhance occupational attractiveness."
-    },
-    {
-      "id": "5102159",
-      "time": "2026-09-18 19:12:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽將泰國評級展望上調至穩定，理由是債務風險有所緩解。"
-    },
-    {
-      "id": "mkt:01a0b437-bc1d-7118-8600-68263843f072",
-      "time": "2026-09-18 19:12:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russia's Agriculture Ministry said supplies of fuel and lubricants to agricultural producers have not been interrupted and the situation is being continuously monitored."
-    },
-    {
-      "id": "mkt:01a0b437-b7e5-7118-8600-644d2bbdc82c",
-      "time": "2026-09-18 19:12:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【State Council executive meeting urges expansion of high-quality sports events and integration with culture, tourism and commerce】Li Qiang chaired a State Council executive meeting that directed authorities to increase supply of high-quality sports events and better utilize sports venues and event resources. The meeting called for coordinated development of competitive, professional and mass events and for integrating sports events with culture, tourism and commerce to improve spectator experience and amplify broader economic effects. It also ordered stronger event management and safety, the cultivation of professional event operators, and improvement of venue, personnel and institutional management systems."
-    },
-    {
-      "id": "5102158",
-      "time": "2026-09-18 19:12:19",
-      "tags": [
-        "行業"
-      ],
-      "text": "【崔東樹： 2026年的區域市場並未呈現入門級車、低線級的增長表現，因此車市暫時低迷 】乘聯分會崔東樹：2026年受到政策調整與消費不旺的雙重影響，國內新能源市場呈現相對較弱的走勢，私人消費弱於單位用車市場，私人新能源購車分化，低線級區域市場增長也面臨較大的壓力。車市增長的主要動力本應是新能源的小城縣鄉市場的增長，但2026年的區域市場並未呈現入門級車、低線級的增長表現，因此車市暫時低迷。"
-    },
-    {
-      "id": "mkt:01a0b437-1484-7118-8600-5d9ff69b6d22",
-      "time": "2026-09-18 19:11:43",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【State Council: deepen national strategy to proactively address population aging, advance comprehensive eldercare development】Li Qiang presided over a State Council meeting urging full, objective recognition of population aging and deeper implementation of the national strategy to address it. Policy directives focus on raising elderly service and protection standards across eldercare, health promotion and social security; strengthening a multi-tier, multi-pillar pension system; linking home, community and institutional care delivery; expanding inclusive elderly services; and developing products, services and new consumption scenarios targeted at older adults to better meet demand."
-    },
-    {
-      "id": "mkt:01a0b436-1a13-7118-8600-572bce1d8dbf",
-      "time": "2026-09-18 19:10:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India and the UAE reiterated their commitment to promoting peace in West Asia."
-    },
-    {
-      "id": "5102157",
-      "time": "2026-09-18 19:10:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度與阿聯酋重申致力於推動西亞地區和平。"
-    },
-    {
-      "id": "5102156",
-      "time": "2026-09-18 19:10:00",
-      "tags": [
-        "宏觀",
-        "兩會"
-      ],
-      "text": "李強主持召開國務院常務會議，會議討論並原則透過《（中華人民共和國突發事件應對法）等15部法律的修正案（草案）》，決定將草案提請全國人大常委會審議。（央視）"
-    },
-    {
-      "id": "mkt:01a0b435-82bd-7118-8600-4e9fe9f5b73a",
-      "time": "2026-09-18 19:10:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CCTV reports Li Qiang chaired a State Council executive meeting that discussed and in principle approved draft amendments to 15 laws, including the PRC Emergency Response Law, and decided to submit the draft to the National People’s Congress Standing Committee for review."
-    },
-    {
-      "id": "mkt:01a0b434-ed44-7118-8600-478ee0004582",
-      "time": "2026-09-18 19:09:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indian and UAE leaders discussed measures to deepen their partnership."
-    },
-    {
-      "id": "mkt:01a0b434-b04e-7118-8600-38430821687a",
-      "time": "2026-09-18 19:09:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CCTV reported Li Qiang chaired a State Council executive meeting calling for increased supply of high-quality sports events, activation and better use of sports venues and event resources, and promotion of integration between sports events and culture, tourism and commerce."
-    },
-    {
-      "id": "5102155",
-      "time": "2026-09-18 19:09:05",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "李強主持召開國務院常務會議，要增加高質量體育賽事供給，盤活用好各類體育場地設施和賽事資源，要推動體育賽事與文化、旅遊、商務等融合發展。（央視）"
-    },
-    {
-      "id": "5102154",
-      "time": "2026-09-18 19:08:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "NSDL：全球基金在前一交易日淨賣出價值316億盧比的印度股票。"
-    },
-    {
-      "id": "mkt:01a0b434-6624-7118-8600-339c0a16ae95",
-      "time": "2026-09-18 19:08:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's Prime Minister Modi received a call from the UAE president."
-    },
-    {
-      "id": "5102153",
-      "time": "2026-09-18 19:08:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理莫迪接到阿聯酋總統的電話，商討深化夥伴關係的相關舉措。"
-    },
-    {
-      "id": "mkt:01a0b433-cf1b-7118-8600-2f76fbb9e656",
-      "time": "2026-09-18 19:08:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Market news: EU condemns Russia for holding elections."
-    },
-    {
-      "id": "5102152",
-      "time": "2026-09-18 19:07:49",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "李強主持召開國務院常務會議，深入實施積極應對人口老齡化國家戰略，推動老齡事業全面發展進步。（央視）"
-    },
-    {
-      "id": "mkt:01a0b433-7ac3-7118-8600-272593177aa7",
-      "time": "2026-09-18 19:07:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CCTV reported Premier Li Qiang chaired a State Council executive meeting to deepen implementation of the national strategy for actively responding to population aging and to advance comprehensive development of the eldercare sector."
-    },
-    {
-      "id": "5102151",
-      "time": "2026-09-18 19:07:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【沙特東西管道遇襲，沙特阿美暫停向歐洲客戶下月原油供應】知情人士稱，沙特阿美告知至少兩家歐洲煉油客戶，由於該國通往紅海的關鍵管道遇襲，下月將不予分配原油。這些歐洲客戶原本依據長期合同採購沙特原油，保障每月穩定供油。知情人士表示，下月相關交付將暫停。因資訊尚未公開，相關人士要求匿名。該安排適用於全部歐洲採購方。沙特阿美尚未立刻回應置評請求。上週，沙特東西輸油管道遭無人機襲擊後被迫關停。一名知情人士週三稱，這條管道預計數日之內部分重啟，六週內全面恢復運營。歐洲煉油廠通常從埃及地中海沿岸的西迪基里爾港提取沙特原油，該港口透過管道與紅海相連。"
-    },
-    {
-      "id": "mkt:01a0b432-9df4-7118-8600-1bbd2caad592",
-      "time": "2026-09-18 19:06:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. and Brent crude each rose about $0.90 intraday, trading at $95.8/bbl and $99.8/bbl respectively."
-    },
-    {
-      "id": "mkt:01a0b432-010a-7118-8600-1275b8846115",
-      "time": "2026-09-18 19:06:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Market sources said the Saudi side told European refiners they will not receive crude supplies next month."
-    },
-    {
-      "id": "5102150",
-      "time": "2026-09-18 19:05:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯方面告訴歐洲煉油商，下個月他們將無法獲得原油供應。"
-    },
-    {
-      "id": "mkt:01a0b431-097d-7118-8600-0cfb14cabec6",
-      "time": "2026-09-18 19:05:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India will work with industry to address the impact of sanctions."
     }
   ]
 }
