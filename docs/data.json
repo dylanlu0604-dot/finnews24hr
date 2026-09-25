@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-25 23:43:18",
-  "count": 12095,
+  "updated": "2026-09-25 23:47:13",
+  "count": 12094,
   "items": [
+    {
+      "id": "5113745",
+      "time": "2026-09-25 23:45:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國天然氣 10 月期貨結算價為 179.80 便士 / 撒姆。"
+    },
+    {
+      "id": "te:markets:586977",
+      "time": "2026-09-25 23:44:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Ekes Out Small Gain — The FTSE 100 edged higher on Friday as gains in banking and mining stocks offset weakness among energy companies. HSBC Holdings, Barclays and Lloyds advanced between 0.8% and 1.8%, while Glencore rose 1.6% and Anglo American gained 1.8%. United Utilities also moved slightly higher after the water company said its operational performance remained in line with expectations and that it was seeking support for £1 billion of investment in its network. Oil majors underperformed, with BP falling more than 2% and Shell declining 0.8% as crude prices weakened. Oil markets continued to weigh the possibility of a US-Iran truce against concerns that escalating Houthi attacks on Saudi Arabia could disrupt supplies from the key Middle Eastern producer. Meanwhile, UK consumer confidence improved for a third consecutive month, according to GfK, although the survey pointed to continued caution among households. The FTSE 100 was around 0.3% higher over the week."
+    },
     {
       "id": "5113744",
       "time": "2026-09-25 23:42:16",
@@ -110128,34 +110148,6 @@
         "DXY"
       ],
       "text": "Nikkei reports the Bank of Japan may have conducted interest-rate checks in the foreign-exchange market."
-    },
-    {
-      "id": "5102585",
-      "time": "2026-09-18 23:46:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【豆包AI助手推出SAEP協議：第三方應用可自主宣告操作邊界】今年9月14日，豆包手機助手消費者版本正式釋出。豆包手機助手以豆包App為基礎，與手機廠商在系統層面展開合作，圍繞互動、任務執行、本地記憶及檢索等核心體驗，進一步探索AI在手機中的應用。據官方影片介紹，相較於去年底推出的技術預覽版，這次的消費者版本更強調穩定性和日常可用性。此前釋出的技術預覽版中備受關注的手機操作功能（GUI技術），此次以Beta版形式開放。豆包方面表示，圖形介面智慧體仍是一項快速發展的前沿能力，豆包手機助手期望與合作伙伴共同構建開放、規範的手機AI應用生態。為此，豆包手機助手推出螢幕自動化操作宣告協議（SAEP），並同步啟動為期30天的規則公示。根據協議，第三方應用可自主宣告操作邊界，明確允許或拒絕AI助手在本應用內進行螢幕自動化操作。豆包手機助手方面表示，將充分尊重開發者意願，對明確拒絕相關操作的第三方應用不會進行自動化操作。圍繞該協議，業內專家表示，豆包手機助手公佈了SAEP三方應用接入協議並公示，以公開規則降低協作成本，並明確了尊重應用邊界。此規則分類分級管理，有利於避免“一刀切”，並明確了安全機制和責任劃分。在“AI+手機”創新發展的趨勢下，該規則是一種現實、透明且可執行的治理方案探索路徑。(證券時報)"
-    },
-    {
-      "id": "te:markets:585085",
-      "time": "2026-09-18 23:46:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Drops Sharply on Friday — The FTSE MIB plunged 1.7% to 51,545 on Friday amid broad selling as energy-supply concerns weighed on the index. Eurozone sovereign yields rebounded after reports that Saudi Arabia would not supply oil to European buyers next month, raising fears of further inflationary pressure. In Milan, worries over Italy's swelling public debt also weighed, with the latest budget plan projecting debt near 139% of GDP, replacing Greece at the eurozone's bottom. Higher bond yields pressured bank balance sheets, with Unipol, UniCredit, Banco BPM and BPER Banca all falling more than 2%. Defense stocks underperformed, led by Fincantieri (-1%). Utilities reversed recent gains as European gas prices rebounded, led by A2A (-3.2%). Stellantis plunged 5.2% after reports it plans to sell its Toronto facility, citing \"no long-term business case\" for auto manufacturing there amid unpredictable US–Canada trade policies."
-    },
-    {
-      "id": "5102584",
-      "time": "2026-09-18 23:46:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘇丹主權委員會主席兼武裝部隊總司令布林漢：蘇丹的問題必須透過內部對話解決。"
     }
   ]
 }

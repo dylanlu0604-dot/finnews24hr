@@ -1,7 +1,27 @@
 {
   "date": "2026-09-25",
-  "count": 1807,
+  "count": 1809,
   "items": [
+    {
+      "id": "5113745",
+      "time": "2026-09-25 23:45:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國天然氣 10 月期貨結算價為 179.80 便士 / 撒姆。"
+    },
+    {
+      "id": "te:markets:586977",
+      "time": "2026-09-25 23:44:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Ekes Out Small Gain — The FTSE 100 edged higher on Friday as gains in banking and mining stocks offset weakness among energy companies. HSBC Holdings, Barclays and Lloyds advanced between 0.8% and 1.8%, while Glencore rose 1.6% and Anglo American gained 1.8%. United Utilities also moved slightly higher after the water company said its operational performance remained in line with expectations and that it was seeking support for £1 billion of investment in its network. Oil majors underperformed, with BP falling more than 2% and Shell declining 0.8% as crude prices weakened. Oil markets continued to weigh the possibility of a US-Iran truce against concerns that escalating Houthi attacks on Saudi Arabia could disrupt supplies from the key Middle Eastern producer. Meanwhile, UK consumer confidence improved for a third consecutive month, according to GfK, although the survey pointed to continued caution among households. The FTSE 100 was around 0.3% higher over the week."
+    },
     {
       "id": "5113744",
       "time": "2026-09-25 23:42:16",
