@@ -1,7 +1,80 @@
 {
   "date": "2026-09-25",
-  "count": 1456,
+  "count": 1464,
   "items": [
+    {
+      "id": "te:markets:586915",
+      "time": "2026-09-25 19:25:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Rally Pauses on Friday — The dollar index fell below 101 on Friday, pausing a five-session rally that had taken the greenback to July highs. A modest decline in oil prices, amid signs that US and Iranian negotiators may be exploring a phased agreement to reopen the Strait of Hormuz, provided some relief to investors concerned about inflationary pressures. Nevertheless, the dollar gained around 1% on the week, marking a second consecutive week of gains. The move was supported by expectations of further monetary policy tightening by the Fed, continued uncertainty in the Middle East, the sequential rise in oil prices, and resilient US economic activity. The greenback was mostly lower against the yen on Friday after Japanese authorities said Tokyo and Washington remain committed to the stance underpinning July’s joint interventions. Finance Minister Katayama also said that President Trump had expressed concerns about the yen during a meeting with Prime Minister Sanae Takaichi earlier this week."
+    },
+    {
+      "id": "mkt:01a0d84f-b821-7118-869a-40823c1a26fd",
+      "time": "2026-09-25 19:24:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Ukraine has provided aid to multiple countries, prioritizing those that assisted Ukraine during the war. He said drone agreements cover not only sales of drones or missiles but also joint production and experience sharing, with experience exchange an integral component."
+    },
+    {
+      "id": "mkt:01a0d84f-a1e5-7118-869a-3d25c9692926",
+      "time": "2026-09-25 19:24:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia's actions and choices point to continued escalation. He warned Russia will continue launching hybrid attacks against multiple European countries, not limited to NATO members. Moldova, which is not an EU or NATO member, has been hit by hybrid attacks and drone strikes, and Germany and Romania face similar threats."
+    },
+    {
+      "id": "5113525",
+      "time": "2026-09-25 19:24:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加碼中國本土運營 維密上海淮海旗艦店開業】9月25日晚間訊息，維多利亞的秘密（以下簡稱“維密”）上海淮海旗艦店正式開業。作為維密中國旗艦店，該店以品牌全新門店形象亮相，集中呈現煥新視覺表達與全品類產品矩陣。"
+    },
+    {
+      "id": "5113524",
+      "time": "2026-09-25 19:24:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我們與特朗普舉行了會晤，討論了總體事項。協議內容如下：我們將向歐洲方面通報並討論細節，美方將與“俄羅斯人”溝通關於烏克蘭—美國—俄羅斯三方會議：美方已提議籌備並在技術層面舉行會晤。我們正在等待美方關於日期的提議。美國已提議阿聯酋作為會晤地點。關於“愛國者”許可證有具體協議。特朗普總統在與我的這次會晤中強調，他已作出最終決定：烏克蘭將獲得生產“愛國者”導彈的許可證。"
+    },
+    {
+      "id": "5113523",
+      "time": "2026-09-25 19:23:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "勒龐所屬政黨表示，法國沒有也不會擁有資助烏克蘭的資金。"
+    },
+    {
+      "id": "mkt:01a0d84e-5690-7118-869a-3069db5268f9",
+      "time": "2026-09-25 19:23:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said the US proposed preparatory steps for tripartite talks with Russia, including an initial technical-level meeting; Kyiv is awaiting a confirmed date and the UAE has been suggested as the venue."
+    },
+    {
+      "id": "mkt:01a0d84e-2b31-7118-869a-28da9537249a",
+      "time": "2026-09-25 19:23:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said under the agreement Ukraine will consult with European counterparts, the US will engage with Russia, and parties will resume talks in 10 days \"with prospects or outcomes\"."
+    },
     {
       "id": "5113521",
       "time": "2026-09-25 19:22:11",

@@ -1,7 +1,80 @@
 {
-  "updated": "2026-09-25 19:22:55",
-  "count": 12310,
+  "updated": "2026-09-25 19:26:42",
+  "count": 12304,
   "items": [
+    {
+      "id": "te:markets:586915",
+      "time": "2026-09-25 19:25:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Rally Pauses on Friday — The dollar index fell below 101 on Friday, pausing a five-session rally that had taken the greenback to July highs. A modest decline in oil prices, amid signs that US and Iranian negotiators may be exploring a phased agreement to reopen the Strait of Hormuz, provided some relief to investors concerned about inflationary pressures. Nevertheless, the dollar gained around 1% on the week, marking a second consecutive week of gains. The move was supported by expectations of further monetary policy tightening by the Fed, continued uncertainty in the Middle East, the sequential rise in oil prices, and resilient US economic activity. The greenback was mostly lower against the yen on Friday after Japanese authorities said Tokyo and Washington remain committed to the stance underpinning July’s joint interventions. Finance Minister Katayama also said that President Trump had expressed concerns about the yen during a meeting with Prime Minister Sanae Takaichi earlier this week."
+    },
+    {
+      "id": "mkt:01a0d84f-b821-7118-869a-40823c1a26fd",
+      "time": "2026-09-25 19:24:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Ukraine has provided aid to multiple countries, prioritizing those that assisted Ukraine during the war. He said drone agreements cover not only sales of drones or missiles but also joint production and experience sharing, with experience exchange an integral component."
+    },
+    {
+      "id": "mkt:01a0d84f-a1e5-7118-869a-3d25c9692926",
+      "time": "2026-09-25 19:24:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia's actions and choices point to continued escalation. He warned Russia will continue launching hybrid attacks against multiple European countries, not limited to NATO members. Moldova, which is not an EU or NATO member, has been hit by hybrid attacks and drone strikes, and Germany and Romania face similar threats."
+    },
+    {
+      "id": "5113525",
+      "time": "2026-09-25 19:24:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加碼中國本土運營 維密上海淮海旗艦店開業】9月25日晚間訊息，維多利亞的秘密（以下簡稱“維密”）上海淮海旗艦店正式開業。作為維密中國旗艦店，該店以品牌全新門店形象亮相，集中呈現煥新視覺表達與全品類產品矩陣。"
+    },
+    {
+      "id": "5113524",
+      "time": "2026-09-25 19:24:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我們與特朗普舉行了會晤，討論了總體事項。協議內容如下：我們將向歐洲方面通報並討論細節，美方將與“俄羅斯人”溝通關於烏克蘭—美國—俄羅斯三方會議：美方已提議籌備並在技術層面舉行會晤。我們正在等待美方關於日期的提議。美國已提議阿聯酋作為會晤地點。關於“愛國者”許可證有具體協議。特朗普總統在與我的這次會晤中強調，他已作出最終決定：烏克蘭將獲得生產“愛國者”導彈的許可證。"
+    },
+    {
+      "id": "5113523",
+      "time": "2026-09-25 19:23:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "勒龐所屬政黨表示，法國沒有也不會擁有資助烏克蘭的資金。"
+    },
+    {
+      "id": "mkt:01a0d84e-5690-7118-869a-3069db5268f9",
+      "time": "2026-09-25 19:23:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said the US proposed preparatory steps for tripartite talks with Russia, including an initial technical-level meeting; Kyiv is awaiting a confirmed date and the UAE has been suggested as the venue."
+    },
+    {
+      "id": "mkt:01a0d84e-2b31-7118-869a-28da9537249a",
+      "time": "2026-09-25 19:23:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said under the agreement Ukraine will consult with European counterparts, the US will engage with Russia, and parties will resume talks in 10 days \"with prospects or outcomes\"."
+    },
     {
       "id": "5113521",
       "time": "2026-09-25 19:22:11",
@@ -111847,131 +111920,6 @@
         "Impact bullish"
       ],
       "text": "【Inbound travel heats up over Mid‑Autumn/Golden Week; source markets and destinations broaden】Multiple travel platforms show inbound tourism continued to grow during the Mid‑Autumn/Golden Week combined holiday, with Ctrip reporting double‑digit YoY growth in inbound arrivals. Russia surged 173% to become the top source market; the UK, Malaysia and Canada each rose more than 50%. Source markets are expanding beyond traditional East Asian neighbors toward Europe and Oceania. The \"ChinaTravel\" topic trending on global social media has amplified reach. Industry participants say growth is shifting from policy‑driven to a policy+content model; localities’ ability to convert cultural assets into experience‑based, shareable tourism products will determine competitiveness in the inbound market."
-    },
-    {
-      "id": "5102188",
-      "time": "2026-09-18 19:26:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【艾華集團：取消登出全資子公司湖南晟朗科技】艾華集團公告稱，公司第六屆董事會第十二次會議審議透過議案，同意取消登出全資子公司湖南晟朗科技有限公司（原益陽艾華富賢電子有限公司）。該子公司註冊資本9000萬元，公司持股100%。此前因該子公司營業期限即將屆滿，公司曾於2025年11月審議透過對其解散清算登出的議案，當前基於公司未來發展戰略及整體經營規劃需要，決定取消登出，該子公司將繼續經營。本次取消登出事項不會對公司整體業務發展、經營管理及財務狀況造成不利影響。"
-    },
-    {
-      "id": "mkt:01a0b444-18aa-7118-8600-da40fb95562d",
-      "time": "2026-09-18 19:25:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "A Swedish bank said it will book about SEK 500m of credit-loss revaluation in Q3."
-    },
-    {
-      "id": "mkt:01a0b443-c106-7118-8600-d75805fde08b",
-      "time": "2026-09-18 19:25:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "A Swedish bank has agreed to sell non-performing loans. The sale will reduce annual net interest income by about SEK 1 billion and is expected to lift capital by about 3-5 bps on completion."
-    },
-    {
-      "id": "5102186",
-      "time": "2026-09-18 19:25:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【艾華集團：擬定增募資不超過人民幣18.8億元用於高階電容產能擴建】艾華集團公告，公司擬向不超過35名（含本數）的特定投資者發行A股股票，募集資金總額不超過人民幣18.8億元（含本數），其中15億元用於艾華集團一體化高階電容產能擴建專案，3.8億元用於補充流動資金。本次發行尚需股東會審議透過、上交所稽核透過並經中國證監會同意註冊。"
-    },
-    {
-      "id": "5102185",
-      "time": "2026-09-18 19:25:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞典銀行：出售交易完成後資本將獲得約3至5個基點的收益。"
-    },
-    {
-      "id": "5102184",
-      "time": "2026-09-18 19:24:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞典銀行：本次出售將導致預期信貸損失產生約5億瑞典克朗的正向重估，該金額將計入第三季度業績。"
-    },
-    {
-      "id": "5102183",
-      "time": "2026-09-18 19:24:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞典銀行：不良資產組合規模約為40億瑞典克朗。"
-    },
-    {
-      "id": "mkt:01a0b442-3dd4-7118-8600-cff9c37a6f84",
-      "time": "2026-09-18 19:23:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Traders and market data show Russia's ESPO blend crude has climbed above $120/bbl, driven by strong demand and rising Brent prices."
-    },
-    {
-      "id": "5102182",
-      "time": "2026-09-18 19:23:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【透景生命：江西透景、脈示生物取得2項醫療器械註冊證】透景生命公告，控股子公司江西透景、脈示生物於近日分別取得江西省藥品監督管理局、上海市藥品監督管理局頒發的醫療器械註冊證，涉及全自動流式熒光發光免疫分析儀和四項抗癲癇藥物濃度測定試劑盒，註冊證有效期分別至2031年09月03日、2031年09月16日。"
-    },
-    {
-      "id": "5102181",
-      "time": "2026-09-18 19:23:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "據交易員稱及資料顯示，受高需求以及布倫特原油價格走強影響，俄羅斯ESPO混合原油價格跳漲至每桶120美元上方。"
-    },
-    {
-      "id": "mkt:01a0b441-bcdd-7118-8600-c52aece75eb1",
-      "time": "2026-09-18 19:23:22",
-      "tags": [
-        "MKT News",
-        "VOLCAR-B.ST",
-        "Impact bearish"
-      ],
-      "text": "Volvo Cars shares fell 5%, hitting their lowest level since June 2025."
-    },
-    {
-      "id": "5102180",
-      "time": "2026-09-18 19:23:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "融信中國8月合約銷售額1.824億元人民幣。"
-    },
-    {
-      "id": "5102179",
-      "time": "2026-09-18 19:23:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "沃爾沃汽車股價下跌5%，創下2025年6月以來的最低點位。"
-    },
-    {
-      "id": "5102178",
-      "time": "2026-09-18 19:22:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【錫華科技：股票交易異常波動 無應披露未披露重大事項】錫華科技公告稱，公司股票2026年9月17日、9月18日連續兩個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形；9月15日至9月18日連續四個交易日漲停，累計上漲46.42%，存在市場情緒過熱、非理性炒作風險。經自查並向控股股東及實控人核實，不存在應披露而未披露的重大事項，董監高、控股股東及實控人在異動期間未買賣公司股票。2026年上半年公司營收5.89億元，同比增長1.46%；歸母淨利潤5950.99萬元，同比下降37.33%。截至9月18日，公司靜態市盈率、市淨率均高於同行業平均水平，敬請投資者注意投資風險。"
     }
   ]
 }
