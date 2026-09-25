@@ -1,7 +1,15 @@
 {
   "date": "2026-09-25",
-  "count": 1454,
+  "count": 1456,
   "items": [
+    {
+      "id": "5113521",
+      "time": "2026-09-25 19:22:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "贏創股價在停牌後一度上漲11%。"
+    },
     {
       "id": "mkt:01a0d849-f892-7118-869a-264cfa4190fc",
       "time": "2026-09-25 19:18:41",
@@ -11,6 +19,14 @@
         "Impact bullish"
       ],
       "text": "Deutsche Bank raised its target price on Meta to $820 from $750."
+    },
+    {
+      "id": "5113519",
+      "time": "2026-09-25 19:18:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將META <META.O>的目標價從750美元上調至820美元。"
     },
     {
       "id": "te:markets:586913",
