@@ -1,7 +1,52 @@
 {
   "date": "2026-09-26",
-  "count": 18,
+  "count": 22,
   "items": [
+    {
+      "id": "mkt:01a0d957-dc93-7118-869f-271d3cf91bbe",
+      "time": "2026-09-26 00:13:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US-Iran talks move to technical stage; Iran offers 7-day plan to reopen Strait of Hormuz】US and Iranian delegations in New York have moved from initial diplomatic contact to technical-level consultations, with technical experts joining after first-round meetings between US envoys Steve Witkoff and Jared Kushner, sources told Al Jazeera. Qatar has mediated the talks for months. Iran has proposed a conditional “7-day” plan: if the US lifts its blockade, Iran would reopen the Strait of Hormuz — an accelerated alternative to a previously discussed 60-day process. Core issues under discussion are sanctions relief, relaxation of limits on Iranian oil exports, unfreezing Iranian assets, and future management of the Strait of Hormuz, including whether Iran and Oman could resume some form of joint management within a framework involving the US and regional states and specific rules for US naval transits. Iranian delegates were initially denied US visas but were later allowed to enter; sources say disagreements remain but talks are making some progress and continue."
+    },
+    {
+      "id": "te:markets:586994",
+      "time": "2026-09-26 00:12:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.63% Higher — The FTSE MIB Index gained 323 points or 0.63 percent on Friday to close at 51867 points. Gains were led by Technoprobe (3.32%), Avio (2.29%) and Bper Banca (2.06%). Biggest losers were Telecom Italia (-2.78%), Tenaris (-1.71%) and Amplifon (-1.25%)."
+    },
+    {
+      "id": "te:markets:586993",
+      "time": "2026-09-26 00:11:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.56% Higher — The DAX Index went up by 142 points or 0.56 percent on Friday to close at 25409 points. The rise was led by Adidas (2.99%), Commerzbank (2.73%) and Deutsche Bank (2.68%). On the downside, the weakerst performers were BASF (-3.59%), BMW (-1.31%) and Rheinmetall (-1.07%)."
+    },
+    {
+      "id": "5113759",
+      "time": "2026-09-26 00:10:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【報道：美伊談判進入技術磋商階段】半島電視臺駐德黑蘭分社社長努爾丁・德蓋爾週五報道，在紐約舉行的美伊談判已從初步外交接觸，進入更細緻的技術磋商階段；德黑蘭方面訊息人士稱，談判氛圍日趨積極。這家卡達國有媒體表示，在美國特使史蒂夫・維特科夫、賈裡德・庫什納完成首輪會談後，技術專家現已加入紐約的談判。德蓋爾稱，伊朗代表團簽證起初未獲美國政府批准，但後續很快辦妥，伊朗談判團隊得以參會。美國官員尚未立刻證實談判已推進至技術層面，也未確認已有更多伊朗官員獲准入境美國。數月以來，卡達官員一直擔任美伊雙方的調停人。據德蓋爾介紹，伊朗提出一項七日方案：若美國解除封鎖，伊朗將重新開放霍爾木茲海峽。該方案是此前商議的 60 天流程的加速版本，其中包含緊急舉措，推動兩國重回伊朗核問題的直接談判軌道。正在磋商的伊朗核心訴求包括：解除制裁、取消石油出口限制、解凍伊朗被凍結資產。雙方還在繼續商討霍爾木茲海峽的管理安排，議題包括伊朗與阿曼能否在一套由地區國家及美國共同參與的商定框架下，恢復某種形式的聯合管理，以及美國艦船通行的相關規則。德蓋爾表示，儘管仍存在諸多待解決分歧，他在德黑蘭的訊息源認為談判已取得一定進展，會談仍在繼續，卡達正努力彌合雙方分歧。"
+    },
     {
       "id": "mkt:01a0d955-7fbb-7118-869f-1efc0acb2c87",
       "time": "2026-09-26 00:10:54",
