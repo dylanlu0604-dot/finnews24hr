@@ -1,7 +1,333 @@
 {
   "date": "2026-09-25",
-  "count": 1153,
+  "count": 1189,
   "items": [
+    {
+      "id": "5113355",
+      "time": "2026-09-25 16:38:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭8月份M3貨幣供應量環比增長0.2%。"
+    },
+    {
+      "id": "5113354",
+      "time": "2026-09-25 16:38:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭8月份M3貨幣供應量同比增長15.6%。"
+    },
+    {
+      "id": "mkt:01a0d7b7-78f1-7118-8697-a587d413eb4d",
+      "time": "2026-09-25 16:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli drone explodes after crash in Gaza; two soldiers killed】The Times of Israel reported that on the afternoon of the 24th a small military drone crashed in the Gaza Strip for unknown reasons and exploded when two Israeli reserve soldiers picked it up, killing both. The Israel Defense Forces confirmed in a statement on the 25th that two reserve soldiers died in northern Gaza on the 24th."
+    },
+    {
+      "id": "5113353",
+      "time": "2026-09-25 16:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【具身智慧資料標註基地協同機制啟動】第五屆全球數字貿易博覽會9月23日至27日在杭州舉行。在資料要素治理與市場化交流活動上，經國家資料局統籌，浙江杭州、貴州貴陽、上海浦東、重慶永川、河北保定五地入選資料標註先行先試工作城市，並聯合啟動具身智慧資料標註基地協同機制。"
+    },
+    {
+      "id": "5113352",
+      "time": "2026-09-25 16:38:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Gordon Brothers 正在為 Poundland 尋求 3000 萬英鎊資金。"
+    },
+    {
+      "id": "mkt:01a0d7b6-9f5f-7118-8697-9e96c5ec6166",
+      "time": "2026-09-25 16:37:44",
+      "tags": [
+        "MKT News",
+        "STAN.L",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing: Standard Chartered repurchased 363,360 shares on other exchanges on Sept 24 for £8.2 mln."
+    },
+    {
+      "id": "mkt:01a0d7b6-41e4-7118-8697-94fd53ad3d97",
+      "time": "2026-09-25 16:37:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said the EU and the IMF are clear on the importance of providing assistance to Ukraine to fill its budget gap."
+    },
+    {
+      "id": "mkt:01a0d7b6-1871-7118-8697-8ef816dcf80d",
+      "time": "2026-09-25 16:37:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia's hybrid attacks on Europe will continue."
+    },
+    {
+      "id": "mkt:01a0d7b5-fc4e-7118-8697-85d387b9f85c",
+      "time": "2026-09-25 16:37:03",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "Zelenskiy said Trump had guaranteed Ukraine would receive a production license for the Patriot air-defense system."
+    },
+    {
+      "id": "5113351",
+      "time": "2026-09-25 16:37:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱俄羅斯對歐洲的混合攻擊將持續。"
+    },
+    {
+      "id": "mkt:01a0d7b5-d5a0-7118-8697-7bc402464db7",
+      "time": "2026-09-25 16:36:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said his government team will shortly hold detailed talks in Ukraine or Brussels on financing for Ukraine."
+    },
+    {
+      "id": "mkt:01a0d7b5-9a37-7118-8697-76a262c993e3",
+      "time": "2026-09-25 16:36:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "European Commission says natural gas supplies remain stable."
+    },
+    {
+      "id": "mkt:01a0d7b5-78ab-7118-8697-6d18b63b7d6c",
+      "time": "2026-09-25 16:36:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU gas coordination group to reconvene on Oct 8."
+    },
+    {
+      "id": "5113350",
+      "time": "2026-09-25 16:36:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "渣打銀行於9月24日在其他交易所回購363360股股份，斥資820萬英鎊，出自港交所檔案。"
+    },
+    {
+      "id": "5113349",
+      "time": "2026-09-25 16:36:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：哈薩克在軍演發生軍人死亡事件後拘留海軍第一副司令與四名部隊指揮官。"
+    },
+    {
+      "id": "5113348",
+      "time": "2026-09-25 16:36:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "RobotPhoenix 與 CAS Space 簽署為期三年的合作協議，共同推進航空航天製造框架合作。"
+    },
+    {
+      "id": "5113347",
+      "time": "2026-09-25 16:35:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟天然氣協調小組將於10月8日再次召開會議。"
+    },
+    {
+      "id": "5113346",
+      "time": "2026-09-25 16:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "大塚食品將上調部分即食包裝產品的價格。"
+    },
+    {
+      "id": "5113345",
+      "time": "2026-09-25 16:34:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：天然氣供應保持穩定。"
+    },
+    {
+      "id": "5113344",
+      "time": "2026-09-25 16:32:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "淡馬錫任命貝萊德聯合創始人瓦格納為董事會成員。"
+    },
+    {
+      "id": "5113343",
+      "time": "2026-09-25 16:31:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "義大利財政部將於10月19日至10月23日發售新發雙檔零售債券。"
+    },
+    {
+      "id": "mkt:01a0d7b1-139f-7118-8697-617a481b5432",
+      "time": "2026-09-25 16:31:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Ukraine's government team will soon discuss further details of financing either in Ukraine or in Brussels."
+    },
+    {
+      "id": "mkt:01a0d7b0-f789-7118-8697-5c330a81c4dd",
+      "time": "2026-09-25 16:31:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Morgan Stanley has revised its Bank of England rate-hike forecast from zero to two, now expecting one increase in November and another in February."
+    },
+    {
+      "id": "5113342",
+      "time": "2026-09-25 16:31:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報64.64美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0d7b0-be73-7118-8697-51ff7bb18250",
+      "time": "2026-09-25 16:31:19",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Zelenskiy said the EU and IMF recognize the need to help Ukraine close its budget gap."
+    },
+    {
+      "id": "mkt:01a0d7b0-49ef-7118-8697-4cdde5272589",
+      "time": "2026-09-25 16:30:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【European defense ministers to discuss boosting Aspides fleet capability in Red Sea】Saudi outlet Alhadath cited a European diplomat saying European defense ministers will meet on Monday to discuss enhancing the Aspides fleet’s operational capability in the Red Sea. The diplomat said now is an appropriate time to boost the fleet’s capability."
+    },
+    {
+      "id": "5113341",
+      "time": "2026-09-25 16:30:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，烏克蘭政府團隊近期將在烏克蘭或布魯塞爾就烏克蘭融資事宜展開更詳細的討論。"
+    },
+    {
+      "id": "5113340",
+      "time": "2026-09-25 16:30:22",
+      "tags": [
+        "央行",
+        "觀點",
+        "焦點"
+      ],
+      "text": "摩根士丹利調整了對英國央行利率的預測，此前預測不會加息，現在預測英國央行將在11月和2月各加息一次。"
+    },
+    {
+      "id": "5113339",
+      "time": "2026-09-25 16:30:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：特朗普保證烏克蘭將獲得\"愛國者\"防空系統的生產許可。"
+    },
+    {
+      "id": "5113338",
+      "time": "2026-09-25 16:30:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，歐盟與國際貨幣基金組織清楚向烏克蘭提供援助以填補其預算缺口的重要性。"
+    },
+    {
+      "id": "5113337",
+      "time": "2026-09-25 16:29:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基認為歐盟和國際貨幣基金組織（IMF）對其資金請求作出了積極回應。"
+    },
+    {
+      "id": "5113333",
+      "time": "2026-09-25 16:25:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "業內訊息人士稱，空客A321neo存在生產質量缺陷，該缺陷涉及分包商供應給義大利萊昂納多<LDOF.MI>的塗料，萊昂納多拒絕對此置評。"
+    },
+    {
+      "id": "5113332",
+      "time": "2026-09-25 16:25:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國經濟部長：徵用與國有化的臆想在德國沒有容身之地。"
+    },
+    {
+      "id": "5113331",
+      "time": "2026-09-25 16:25:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：新加坡警方在危機爆發前數月就已收到關於 Radiant 的欺詐報告。"
+    },
+    {
+      "id": "te:economy:586864",
+      "time": "2026-09-25 16:24:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Eurozone Lending Rises Less than Expected — Bank lending to Eurozone households rose 3.1% year-on-year to €7.26 trillion in August 2026, the same as in July and missing market expectations of 3.2%. Business lending also slowed to 4.2% from 4.4%. Overall private-sector credit growth, covering households and non-financial corporations, accelerated to 4.3% from 4.1% in July, reaching its highest level since February 2023."
+    },
+    {
+      "id": "5113329",
+      "time": "2026-09-25 16:24:32",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利轉向看多美元，預計美元兌歐元將上漲3%】摩根士丹利轉而看多美元，目前預計，受美國利率上升及經濟強勁增長的推動，美元兌歐元匯率到2027年年中將上漲約3%。由大衛·亞當斯領導的摩根士丹利外匯策略團隊在一份報告中寫道：“我們原本以為美元在2026年下半年會繼續走弱，但我們錯了。我們現在預測，由於美元與世界其他地區的利差擴大、美國經濟強勁增長，以及歐洲風險溢價上升提振了美元，美元的強勢將延續至年底並貫穿2027年。”這家美國投行預計，歐元兌美元匯率將在明年年中降至1.10，此前的預期為1.16；同時，該行將今年年底的歐元匯率預期從1.20下調至1.12。不過，該行對美元仍保持戰術性中立，理由是“存在政策驅動導致美元負面風險溢價上升的風險，這可能使歐元和日元成為更安全的套息交易融資貨幣”。"
+    },
     {
       "id": "mkt:01a0d7a8-b00d-7118-8697-45038a782c81",
       "time": "2026-09-25 16:22:31",
