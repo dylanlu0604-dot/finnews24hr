@@ -1,7 +1,77 @@
 {
   "date": "2026-09-26",
-  "count": 306,
+  "count": 314,
   "items": [
+    {
+      "id": "mkt:01a0da3c-1e7e-7118-86a3-87491b49036d",
+      "time": "2026-09-26 04:22:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's foreign minister said Tehran could accept the seven-day plan and that the Strait of Hormuz will ultimately be reopened."
+    },
+    {
+      "id": "5113993",
+      "time": "2026-09-26 04:22:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部長：美國方面可以接受這份七天計劃，霍爾木茲海峽最終將恢復通航。"
+    },
+    {
+      "id": "mkt:01a0da3b-b0a6-7118-86a3-783d19c86c6e",
+      "time": "2026-09-26 04:22:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister said the measures the US must take are not new and are already included in the memorandum of understanding."
+    },
+    {
+      "id": "5113991",
+      "time": "2026-09-26 04:21:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：美國應採取的舉措並非新要求，全部已列入諒解備忘錄。"
+    },
+    {
+      "id": "mkt:01a0da3a-d24d-7118-86a3-77eb9019cd68",
+      "time": "2026-09-26 04:21:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's foreign minister says Tehran has delivered a specific 7-day plan to the U.S.; the decision now rests with Washington. Iran said it will not relinquish sovereign rights under pressure. The 7-day period will begin only after the U.S. accepts the proposal."
+    },
+    {
+      "id": "5113990",
+      "time": "2026-09-26 04:21:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長：美國接受該計劃後，七天倒計時將開始。"
+    },
+    {
+      "id": "5113989",
+      "time": "2026-09-26 04:20:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長表示：伊朗不會在壓力下放棄自身主權權利。"
+    },
+    {
+      "id": "5113986",
+      "time": "2026-09-26 04:19:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長稱，伊朗已向美國遞交了一份為期七天的具體方案  。"
+    },
     {
       "id": "5113984",
       "time": "2026-09-26 04:18:54",
