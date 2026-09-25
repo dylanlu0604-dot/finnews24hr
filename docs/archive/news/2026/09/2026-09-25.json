@@ -1,7 +1,58 @@
 {
   "date": "2026-09-25",
-  "count": 1477,
+  "count": 1482,
   "items": [
+    {
+      "id": "5113537",
+      "time": "2026-09-25 19:36:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：截至9月15日，印度貨幣供應同比增幅<INM3MS=ECI>為16.6%。"
+    },
+    {
+      "id": "5113536",
+      "time": "2026-09-25 19:35:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍發言人：不久前，在以色列國防軍在黎巴嫩南部行動的區域發現一個疑似空中目標，隨即發射一枚攔截彈，目前正在核查細節。根據政策，各地未啟動警報。"
+    },
+    {
+      "id": "mkt:01a0d859-000f-7118-869a-68c34a40f215",
+      "time": "2026-09-25 19:35:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany's Bundestag approved a fuel-discount scheme for Oct–Dec that cuts diesel and gasoline by €0.17 per liter to offset high oil prices linked to the Middle East war; the Bundesrat is expected to approve it on Friday."
+    },
+    {
+      "id": "mkt:01a0d858-bd31-7118-869a-65ce93bbf024",
+      "time": "2026-09-25 19:34:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Reserve Bank of India: as of Sept. 18, India's gold reserves stood at $111.29 billion."
+    },
+    {
+      "id": "5113535",
+      "time": "2026-09-25 19:33:51",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：截至9月18日，印度黃金儲備為1112.9億美元。"
+    },
     {
       "id": "5113534",
       "time": "2026-09-25 19:32:32",
