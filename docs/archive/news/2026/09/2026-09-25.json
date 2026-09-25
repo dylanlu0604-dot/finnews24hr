@@ -1,7 +1,43 @@
 {
   "date": "2026-09-25",
-  "count": 604,
+  "count": 608,
   "items": [
+    {
+      "id": "5112896",
+      "time": "2026-09-25 08:57:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "鈴木：下一代EAXLE發動機將不含大量稀土元素，以避免地緣政治風險。"
+    },
+    {
+      "id": "mkt:01a0d610-a255-7118-8693-141ca5cfc13c",
+      "time": "2026-09-25 08:56:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Sources: Trump, House Speaker Johnson to meet AI executives next Tuesday】Two sources said President Trump and House Speaker Johnson will meet top AI company executives at the White House next Tuesday. The meeting comes as Congress faces rising pressure to impose federal safeguards on AI amid warnings the technology could pose existential risks by the end of the decade. Johnson has urged a private discussion between Trump and AI CEOs but has not backed major legislation; Trump has resisted government regulation, citing concerns about falling behind."
+    },
+    {
+      "id": "5112895",
+      "time": "2026-09-25 08:56:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：歌爾科技和舜宇光學將受益於Meta VR眼鏡。"
+    },
+    {
+      "id": "5112894",
+      "time": "2026-09-25 08:54:08",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【菲律賓交易所資訊披露網站遭遇故障】菲律賓證券交易所（Philippine Stock Exchange）用於釋出企業資訊披露的網站，在股市開盤前出現了故障。該網頁顯示：“網路伺服器返回未知錯誤（unknown error）。”該交易所運營商未立即回應置評請求。"
+    },
     {
       "id": "5112893",
       "time": "2026-09-25 08:52:34",

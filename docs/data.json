@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-25 08:54:16",
-  "count": 12780,
+  "updated": "2026-09-25 08:58:05",
+  "count": 12781,
   "items": [
+    {
+      "id": "5112896",
+      "time": "2026-09-25 08:57:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "鈴木：下一代EAXLE發動機將不含大量稀土元素，以避免地緣政治風險。"
+    },
+    {
+      "id": "mkt:01a0d610-a255-7118-8693-141ca5cfc13c",
+      "time": "2026-09-25 08:56:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Sources: Trump, House Speaker Johnson to meet AI executives next Tuesday】Two sources said President Trump and House Speaker Johnson will meet top AI company executives at the White House next Tuesday. The meeting comes as Congress faces rising pressure to impose federal safeguards on AI amid warnings the technology could pose existential risks by the end of the decade. Johnson has urged a private discussion between Trump and AI CEOs but has not backed major legislation; Trump has resisted government regulation, citing concerns about falling behind."
+    },
+    {
+      "id": "5112895",
+      "time": "2026-09-25 08:56:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：歌爾科技和舜宇光學將受益於Meta VR眼鏡。"
+    },
+    {
+      "id": "5112894",
+      "time": "2026-09-25 08:54:08",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【菲律賓交易所資訊披露網站遭遇故障】菲律賓證券交易所（Philippine Stock Exchange）用於釋出企業資訊披露的網站，在股市開盤前出現了故障。該網頁顯示：“網路伺服器返回未知錯誤（unknown error）。”該交易所運營商未立即回應置評請求。"
+    },
     {
       "id": "5112893",
       "time": "2026-09-25 08:52:34",
@@ -116203,30 +116239,6 @@
         "國際"
       ],
       "text": "【花旗韓國交易主管：美元兌韓元接近1400時可買入韓元】花旗一名交易員表示，韓國晶片產業拉動經濟增長，韓元近期的走弱可能只是暫時現象，年底前韓元有望兌美元回升。花旗韓國交易主管 Lee Sanghun在週三晚間接受採訪時稱：“受美聯儲鷹派立場、油價上漲引發通脹擔憂等外部因素影響，韓元短期記憶體在跌破1美元兌1400韓元的風險。但我認為韓元不會長期維持如此弱勢，因此在1美元兌1400韓元附近，會是賣出美元、買入韓元的良好時機。”韓元此前經歷兩個月上漲，成為亞洲表現最佳的貨幣。但週四韓元連續第四個交易日下跌，最低觸及1美元兌1388.25韓元。美聯儲偏鷹的政策壓制韓元，美國加息擴大了美韓利差，或將削弱韓國本土資產的吸引力。週五早盤，韓元開盤平穩，匯率維持在1美元兌1381.00韓元附近。"
-    },
-    {
-      "id": "5100839",
-      "time": "2026-09-18 08:57:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【本田將在電動汽車戰略調整中提前生產下一代混合動力車型】9月18日，據報道，本田汽車計劃將下一代混合動力車型的大規模生產提前數月，目標是最早在2027年2月於北美開始生產混合動力版CR-V運動型多用途車。"
-    },
-    {
-      "id": "5100838",
-      "time": "2026-09-18 08:55:33",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲副主席豪瑟：我認為我們更接近全球利率的正常水平了。"
-    },
-    {
-      "id": "5100837",
-      "time": "2026-09-18 08:54:18",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲布洛克：澳大利亞儲備銀行擁有充足的資產負債表和外匯儲備，以應對任何市場動盪。"
     }
   ]
 }
