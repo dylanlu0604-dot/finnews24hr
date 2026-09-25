@@ -1,7 +1,317 @@
 {
   "date": "2026-09-25",
-  "count": 1038,
+  "count": 1070,
   "items": [
+    {
+      "id": "mkt:01a0d77b-5e2f-7118-8696-9ab63d32d0c7",
+      "time": "2026-09-25 15:33:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "India's chief economic adviser said the economy faces short-term headwinds from unstable relations with the United States, global energy-price volatility and India's lack of a domestic AI industry."
+    },
+    {
+      "id": "5113230",
+      "time": "2026-09-25 15:32:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度首席經濟顧問：印度經濟短期內面臨多重逆風，分別來自印美關係不穩、全球能源價格波動，以及印度尚未在人工智慧領域佈局。"
+    },
+    {
+      "id": "te:markets:586832",
+      "time": "2026-09-25 15:32:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.54% Higher — The FTSE 100 Index is gaining 58 points or 0.54 percent on Friday. Leading the gains are Smiths (2.39%), Glencore (2.17%) and Endeavour (1.92%). Top losers are BP (-1.98%), Babcock International (-0.81%) and British American Tobacco (-0.70%)."
+    },
+    {
+      "id": "te:markets:586829",
+      "time": "2026-09-25 15:30:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.78% Higher — The DAX Index is picking up 198 points or 0.78 percent on Friday. Gains are led by Commerzbank (2.31%), Adidas (2.28%) and Siemens Energy (2.11%). Biggest losers are Airbus (-1.51%), Porsche Automobil (-0.39%) and BASF (-0.34%)."
+    },
+    {
+      "id": "5113229",
+      "time": "2026-09-25 15:30:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：截至9月18日，泰國淨遠期頭寸為246億美元，9月11日時為249億美元。"
+    },
+    {
+      "id": "5113228",
+      "time": "2026-09-25 15:30:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行公佈，截至9月18日泰國國際儲備規模為2801億美元，截至9月11日為2810億美元。"
+    },
+    {
+      "id": "5113227",
+      "time": "2026-09-25 15:30:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：（俄烏衝突中）要讓外交發揮作用，美國必須實施制裁，歐洲也必須加強制裁。"
+    },
+    {
+      "id": "te:markets:586827",
+      "time": "2026-09-25 15:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.30% Higher — The CAC 40 Index is up by 24 points or 0.30 percent on Friday. Top gainers are Societe Generale (2.96%), STMicroelectronics (2.23%) and Legrand (1.93%). Biggest losses came from Airbus (-1.53%), Essilor (-0.93%) and Thales (-0.69%)."
+    },
+    {
+      "id": "5113225",
+      "time": "2026-09-25 15:28:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度阿卡薩航空正與波音公司洽談訂購200架737 MAX客機事宜】據知情人士透露，印度最年輕的航空公司阿卡薩航空正與波音公司洽談，計劃訂購逾200架737 Max客機。該航司希望透過鎖定未來十年的飛機交付量，進一步擴大其在航空市場中的份額。知情人士透露，關於新訂單的決定可能會在明年初作出，相關條款預計將於2027年下半年最終敲定。不過他們也提醒，目前談判仍處於早期階段，最終仍有可能無法達成購買協議。"
+    },
+    {
+      "id": "te:markets:586826",
+      "time": "2026-09-25 15:28:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Slips to Two-Month Low — The euro ended the week below the $1.14 threshold, marking its weakest level in two months, as the US dollar remained supported by growing expectations of further Federal Reserve rate hikes this year. Hawkish remarks from Fed officials, coupled with a string of economic data pointing to robust growth and a resilient labor market, reinforced expectations of tighter US monetary policy. Meanwhile, in Europe, the US-Iran conflict and recent energy-price developments continued to stoke concerns over renewed inflationary pressure. Money markets are pricing in roughly 100 basis points of interest-rate hikes by the end of October 2027. On the economic data front, German consumer sentiment deteriorated more sharply than expected heading into October, as rising energy prices weighed on households’ income expectations."
+    },
+    {
+      "id": "5113224",
+      "time": "2026-09-25 15:28:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數轉跌，最新報跌0.15%。"
+    },
+    {
+      "id": "5113223",
+      "time": "2026-09-25 15:27:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "西門子股份：貝內克斯公司授予西門子Mainfranken路網56列區域列車供應合同。將總計交付56列區域列車：其中包括26列四編組Desiro高容量列車，以及30列三編組Mireo列車。"
+    },
+    {
+      "id": "5113222",
+      "time": "2026-09-25 15:27:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界資料組織資料開源社群專業委員會落地杭州蕭山】第五屆全球數字貿易博覽會9月23日至27日在杭州舉行。在資料要素治理與市場化交流活動上，世界資料組織資料開源社群專業委員會落地杭州蕭山。作為人工智慧資料開源領域的國際性專業協作平臺，專委會深度踐行世界資料組織“彌合資料鴻溝、釋放資料價值、繁榮數字經濟”的核心宗旨，已匯聚首批會員單位100餘家，覆蓋全球20餘個國家和地區。未來，專委會將持續完善資料開源基礎設施，深度參與全球資料治理標準共建，全力打造具有全球影響力的資料開源協作高地。"
+    },
+    {
+      "id": "5113221",
+      "time": "2026-09-25 15:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哈薩克裡海軍演事故死亡人數上升至14人】當地時間9月25日，哈薩克國防部發布訊息稱，救援人員在曼格斯套州里海沿岸又找到了兩名落水軍人的屍體，此次軍事演習事故中的死亡人數已上升至14人，搜尋工作目前已經結束。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0d774-fc98-7118-8696-942fc04ed810",
+      "time": "2026-09-25 15:26:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Iran foreign minister Araghchi meets UK foreign secretary Ed Miliband on regional security】Iran foreign minister Araghchi met UK foreign secretary Ed Miliband on Thursday. Araghchi said current insecurity in the region and in the Strait of Hormuz is a consequence of US and Israeli military actions, which he accused some European states of supporting, and that these actions have had serious effects on Iran, the region and global stability. He said long-term regional stability requires ending occupation and securing Palestinian peoples’ legitimate rights, notably self-determination, and argued the UK and certain European countries should bear responsibility for their roles in the region. He urged those European states to reverse what he called unconstructive and irresponsible policies toward Iran and warned against interference in domestic affairs and the instrumental use of human-rights rhetoric."
+    },
+    {
+      "id": "5113220",
+      "time": "2026-09-25 15:24:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長阿拉格齊會見埃及外長，討論雙邊關係及巴勒斯坦局勢】伊朗外長阿拉格齊於週四下午與埃及外交部長巴德爾·阿卜杜勒阿提舉行會談。雙方就伊朗與埃及雙邊關係以及地區局勢，尤其是巴勒斯坦問題進行了討論。阿拉格齊表示，所有國家，特別是伊斯蘭國家，都承擔著阻止巴勒斯坦民眾遭受大規模傷害的道德和國際法律責任。阿拉格齊還提到以色列針對黎巴嫩、敘利亞以及其他地區國家的行動，並強調，地區國家需要加強協調，包括在聯合國和伊斯蘭合作組織框架下開展合作，以應對以色列擴大影響和危及地區安全穩定的行為。雙方還就加強伊朗與埃及之間的雙邊關係與合作進行了交流。"
+    },
+    {
+      "id": "mkt:01a0d773-08a2-7118-8696-894fdc28e22e",
+      "time": "2026-09-25 15:23:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GLE.PA",
+        "Impact bullish"
+      ],
+      "text": "Shares of Societe Generale rose nearly 3%, leading gains on France's CAC 40 index."
+    },
+    {
+      "id": "5113218",
+      "time": "2026-09-25 15:23:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國興業銀行股價上漲近3%，領漲法國CAC40指數。"
+    },
+    {
+      "id": "mkt:01a0d772-d65b-7118-8696-81fa5ebea958",
+      "time": "2026-09-25 15:23:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran FM Araghchi meets Egypt counterpart Badr Abdelatty to discuss Palestine, regional security】Iranian Foreign Minister Araghchi met Egypt’s Foreign Minister Badr Abdelatty on Thursday afternoon to discuss bilateral ties and regional developments, with a focus on the Palestinian situation. Araghchi said all countries, particularly Islamic states, have a moral and international-legal responsibility to prevent large-scale harm to Palestinians. He cited Israeli actions against Lebanon, Syria and other countries, and called for stronger regional coordination — including within the United Nations and the Organisation of Islamic Cooperation — to counter Israel’s expanding influence and actions that threaten regional security and stability. The two ministers also discussed strengthening Iran–Egypt bilateral cooperation."
+    },
+    {
+      "id": "te:markets:586823",
+      "time": "2026-09-25 15:23:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises on Friday — The FTSE 100 rose around 0.5% on Friday, led by strong gains among mining stocks. Glencore climbed more than 3%, while Anglo American gained nearly 3%, and Antofagasta and Fresnillo advanced more than 2% each. Endeavour Mining also rose around 2%. United Utilities added 0.6% after the water company said its operational performance remained in line with expectations and that it was seeking support for £1 billion of investment in its network. Oil majors moved in the opposite direction, with BP falling more than 2% and Shell down over 1%. Oil prices declined as markets weighed the possibility of a US-Iran truce against concerns that intensifying Houthi attacks on Saudi Arabia could disrupt supplies from the key Middle Eastern producer. On the data front, UK consumer confidence improved for a third consecutive month, according to GfK, although the survey continued to highlight persistent caution among households. The FTSE 100 was up around 0.7% for the week."
+    },
+    {
+      "id": "5113216",
+      "time": "2026-09-25 15:23:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元勢創逾兩週來最大單日漲幅 此前日本財務大臣發表匯率言論】在日本財務大臣片山皋月就日元發表的最新評論使得交易員們對干預風險保持警惕後，日元勢創逾兩週來最大單日漲幅。週五，日元一度上漲0.6%至1美元兌157.95日元，在G10貨幣中表現最佳。片山皋月表示，美國總統特朗普本週早些時候在紐約與日本首相高市早苗會晤期間，對日元走軟表達了關切，從而在近期美元再度走強並將日元推向160這一關鍵心理關口之際，為市場情緒帶來了一些緩和。這位財務大臣還表示她將繼續與美國財長貝森特進行協調。此番言論可能令交易員在押注日元空頭時更加謹慎，從而強化了如果日元持續疲軟，當局可能再次干預的威脅。“干預風險應會為日元進一步走弱設定上限，”華僑銀行策略師Moh Siong Sim表示。“更重要的是，日元可能正接近一個轉折點，因為特朗普對日元疲軟的關切預示著美日雙方將加強協調以支撐日元。”"
+    },
+    {
+      "id": "mkt:01a0d771-9971-7118-8696-7a82aa25e084",
+      "time": "2026-09-25 15:22:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Egypt minister invites Chinese investment, seeks deeper cooperation in desalination, AI, digital services】Egypt Investment and Foreign Trade Minister Mohammed Farid Saleh said in Cairo on the 24th that Egypt welcomes Chinese firms to invest and expects expanded cooperation with China in seawater desalination, artificial intelligence and digital services. He praised Chinese companies for entering sectors previously absent in Egypt and said they have made a positive contribution to the country’s industrial development."
+    },
+    {
+      "id": "5113214",
+      "time": "2026-09-25 15:21:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【特斯拉中國宣佈“降價”】9月25日，特斯拉中國宣佈，2026年10月31日（含）前下單，Model 3 全系限時尾款立減5000元，Model Y 部分車型限時尾款立減7000元。疊加5年0息等政策優惠後，Model 3售價222500元起，首付7.99萬元，月供低至約2377元；Model Y售價256500元起，首付7.99萬元，月供低至2944元。"
+    },
+    {
+      "id": "mkt:01a0d770-8b93-7118-8696-7206a7690e8b",
+      "time": "2026-09-25 15:21:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Tesla India top executive says the company currently has eight service centers and body repair shops in India."
+    },
+    {
+      "id": "5113212",
+      "time": "2026-09-25 15:20:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉印度高管：目前我們已在印度開設8家服務中心及車身維修車間。"
+    },
+    {
+      "id": "te:markets:586821",
+      "time": "2026-09-25 15:20:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Equities Gain as Falling Oil Prices Offer Relief — European stocks traded higher on Friday as easing oil prices and a moderation in the global bond selloff provided some relief to investors. The STOXX 50 rose 0.9% to 6,320 points, while the broader STOXX 600 gained 0.7%. Brent crude ended a two-day rally following reports that the US and Iran were exploring a phased agreement that could reopen the Strait of Hormuz and lift the US blockade on Iranian ports. Meanwhile, Presidents Donald Trump and Xi Jinping concluded their bilateral talks in Washington, with Trump describing the meeting as “great.” On the economic data front, German consumer sentiment deteriorated more sharply than expected heading into October, as higher energy prices weighed on households’ income expectations. Meanwhile, UK consumer confidence unexpectedly hit an over two-year high in September, adding to recent signs of resilience in the UK economy."
+    },
+    {
+      "id": "5113211",
+      "time": "2026-09-25 15:19:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【獨家｜光儲龍頭陽光電源籌建戶儲事業部，子公司海外戶儲電站業務被叫停】9月21日訊息，據訊息人士透露，光儲龍頭陽光電源已籌建單獨的戶儲事業部，陽光電源高階副總裁兼光儲集團全球營銷總裁吳家貌，擔任該業務負責人。與此同時，為避免業務板塊之間相互競爭，子公司陽光新能源的海外戶儲電站業務目前已暫停。"
+    },
+    {
+      "id": "5113210",
+      "time": "2026-09-25 15:19:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長阿拉格齊會見葡萄牙外長，呼籲歐洲採取獨立立場處理中東局勢】伊朗外長阿拉格齊與葡萄牙外交部長保羅·蘭熱爾週四下午在紐約聯合國大會第81屆會議期間舉行會談。雙方就當前重要國際局勢以及兩國共同關注的雙邊議題交換了意見。阿拉格齊在介紹地區最新局勢時表示，當前霍爾木茲海峽的不安全域性勢以及航運受阻，是美國和以色列“侵略性行動”直接導致的結果。他強調，恢復地區航運安全，需要停止製造不穩定的行動以及美國的“經濟恐怖主義”。阿拉格齊指出，歐盟及其成員國應在西亞地區局勢問題上採取獨立、負責任並符合國際法原則的立場。"
+    },
+    {
+      "id": "mkt:01a0d76e-37da-7118-8696-6d6758975859",
+      "time": "2026-09-25 15:18:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "India's chief economic adviser said India faces a challenge from rising global crude oil prices."
+    },
+    {
+      "id": "mkt:01a0d76e-19d8-7118-8696-62b7290904fa",
+      "time": "2026-09-25 15:18:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran FM Araghchi urges EU to adopt independent stance on Middle East amid Strait of Hormuz tensions】Iran foreign minister Araghchi told Portugal foreign minister Paulo Rangel at a UN General Assembly meeting that insecurity in the Strait of Hormuz and disruptions to shipping are a direct result of U.S. and Israeli \"aggressive actions.\" He said restoring maritime security requires halting destabilizing acts and U.S. \"economic terrorism,\" and urged the EU and its member states to take an independent, responsible stance consistent with international law on the West Asia situation."
+    },
+    {
+      "id": "5113209",
+      "time": "2026-09-25 15:18:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度首席經濟顧問：印度正面臨全球原油價格高企帶來的挑戰。。"
+    },
+    {
+      "id": "5113208",
+      "time": "2026-09-25 15:18:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "金磚國家新開發銀行與南非簽署2億美元水專案貸款協議。"
+    },
     {
       "id": "mkt:01a0d76c-b14d-7118-8696-5b4d5734c68f",
       "time": "2026-09-25 15:16:59",
