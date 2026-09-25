@@ -1,7 +1,269 @@
 {
-  "updated": "2026-09-25 16:52:46",
-  "count": 12382,
+  "updated": "2026-09-25 17:09:20",
+  "count": 12408,
   "items": [
+    {
+      "id": "5113371",
+      "time": "2026-09-25 16:55:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "日立能源與法國埃內迪斯（Enedis）簽署 3.5 億歐元的法國能源協議。"
+    },
+    {
+      "id": "5113370",
+      "time": "2026-09-25 16:55:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報98.06美元/桶。"
+    },
+    {
+      "id": "mkt:01a0d7c5-2697-7118-8697-eb8ec841e7a6",
+      "time": "2026-09-25 16:53:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A European diplomat said the Red Sea situation has become more complex, posing risks to the global economy and to our operations."
+    },
+    {
+      "id": "te:economy:586872",
+      "time": "2026-09-25 16:52:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macau",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Macau Inflation Rate Rises in August — The annual inflation rate in Macau rose to 1.29% in August 2026 from 1.12% in July, ending two consecutive months of slowdown and reaching its highest level since May. The increase was mainly driven by faster price growth for food and non-alcoholic beverages (1.37% vs 1.22%), transport (3.08% vs 2.29%), and housing and fuels (0.66% vs 0.48%). Inflation also picked up for miscellaneous goods and services (3.09% vs 2.38%), information and communication (1.86% vs 1.44%), and clothing and footwear (2.64% vs 2.61%). Meanwhile, prices for alcoholic beverages and tobacco fell 1.21%, following a 1.28% decline in July. In contrast, inflation eased for household furnishings and services (0.31% vs 0.79%) and health (0.83% vs 0.94%), while prices for recreation, sport and culture fell 0.32%, reversing a 1.07% increase in the previous month. On a monthly basis, consumer prices rose 0.28% in August, rebounding from a 0.01% decline in July and marking the strongest monthly increase since April."
+    },
+    {
+      "id": "mkt:01a0d7c2-f987-7118-8697-e01ae1d270e1",
+      "time": "2026-09-25 16:51:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's Najaf airport suspended all flights to and from Iran, Iraqi state news agency reported."
+    },
+    {
+      "id": "5113369",
+      "time": "2026-09-25 16:51:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱烏克蘭正要求歐盟加快發放其900億歐元貸款的第二筆分期資金。"
+    },
+    {
+      "id": "mkt:01a0d7c2-b97d-7118-8697-d966f9f56aff",
+      "time": "2026-09-25 16:50:57",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "President ZELENSKIY said Ukraine has asked the EU to accelerate disbursement of the second tranche of a €90 billion loan."
+    },
+    {
+      "id": "5113368",
+      "time": "2026-09-25 16:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克媒體：伊拉克納傑夫機場暫停往返伊朗的所有航班。"
+    },
+    {
+      "id": "mkt:01a0d7c2-a2f5-7118-8697-d50fc61a5e1e",
+      "time": "2026-09-25 16:50:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said the $27 bln Ukraine needs for January–February next year will be largely for defense spending on drones and missiles."
+    },
+    {
+      "id": "5113367",
+      "time": "2026-09-25 16:50:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，所需的270億美元國防開支中，大部分將用於採購明年1月和2月所需的無人機與導彈。"
+    },
+    {
+      "id": "te:economy:586871",
+      "time": "2026-09-25 16:50:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macau",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Macau Unemployment Rate Hits 1-Year High — Macau’s unemployment rate rose to 2.0% in August 2026 from 1.9% in the previous month, reaching the highest level since August 2025. The number of unemployed people fell by around 500 month-on-month to 5,900, while total employment also declined by 800 to 375,900. The labour force participation rate edged down to 66.7% from 66.8%, as the labour force decreased by 400 to 383,400. Meanwhile, the general underemployment rate edged down to 1.5% from 1.7% in July. By sector, gaming remained the largest source of employment, accounting for 61.7% of employed residents, followed by wholesale and retail trade (35.6%), real estate and business activities (23.5%), hotels and similar activities (18.4%), and transport and storage (16.1%)."
+    },
+    {
+      "id": "5113366",
+      "time": "2026-09-25 16:48:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：尋求資金以避免2027年初出現無人機短缺。"
+    },
+    {
+      "id": "5113365",
+      "time": "2026-09-25 16:47:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX指數日內漲幅達1.00%。"
+    },
+    {
+      "id": "mkt:01a0d7bf-809d-7118-8697-cb02d1f184dc",
+      "time": "2026-09-25 16:47:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European diplomats said they reject describing their policy toward Iran as 'appeasement'."
+    },
+    {
+      "id": "5113364",
+      "time": "2026-09-25 16:47:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "香港證監會稱暫停銀建國際0171.HK的股份交易，因公司逾10億港元款項流向主要股東及關連方。"
+    },
+    {
+      "id": "mkt:01a0d7bf-5fa6-7118-8697-c7d9c5d91dae",
+      "time": "2026-09-25 16:47:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "Germany's DAX up 1.00% intraday."
+    },
+    {
+      "id": "5113363",
+      "time": "2026-09-25 16:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年中秋檔票房突破1億元】據燈塔專業版，截至9月25日16時30分，2026年中秋檔檔期（9月25日—9月27日）票房突破1億元，《復仇者聯盟4：終局之戰（加碼臻享版）》《歡迎來龍餐館》《八仙！》暫列檔期票房前三。"
+    },
+    {
+      "id": "5113362",
+      "time": "2026-09-25 16:45:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滙豐控股(00005)9月24日斥資1.34億港元回購85.08萬股】滙豐控股(00005)釋出公告，該公司於2026年9月24日斥資1.34億港元回購85.08萬股股份，每股回購價格為156.3-158.4港元。"
+    },
+    {
+      "id": "mkt:01a0d7bc-e939-7118-8697-b8147dec560d",
+      "time": "2026-09-25 16:44:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures touched $65/oz, up 1.56% on the day."
+    },
+    {
+      "id": "te:economy:586869",
+      "time": "2026-09-25 16:44:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovenia",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Slovenia Tourist Arrivals Reach Record in August — Tourist arrivals in Slovenia rose by 6.0% year-on-year to 1,286 million in August 2026 from an eleven-month high of 10.6% growth in the previous month. This marked the highest number of arrivals on record. Foreign tourist arrivals increased by 7.6% to 1,116 million, with visitors mainly coming from the Czech Republic (8.6%), Italy (8.3%), and Germany (6.7%), offsetting the declines in the Netherlands (-3.6%) and France (-4.5%). Meanwhile, domestic tourism fell by 3.5% to 169.8 thousand. Overnight stays went up by 5.8% to 3,537 million, with most tourists staying in mountain municipalities (7.7%), urban municipalities (6.4%), the capital (5.5%), and health resorts (5.4%). For the January–August period, tourist arrivals grew by 6.4% year-on-year to 5,390.5 million, while overnight stays also rose by 6.4% to 14,078.4 million."
+    },
+    {
+      "id": "5113361",
+      "time": "2026-09-25 16:43:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "喬治亞8月M3貨幣供應量同比增長17.497%。"
+    },
+    {
+      "id": "mkt:01a0d7bb-bcbf-7118-8697-b5a585aee3f8",
+      "time": "2026-09-25 16:43:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1.00% intraday at $64.49/oz."
+    },
+    {
+      "id": "5113360",
+      "time": "2026-09-25 16:43:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報64.47美元/盎司。"
+    },
+    {
+      "id": "te:economy:586868",
+      "time": "2026-09-25 16:43:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Turkey Tourist Arrivals Almost Flat YoY in August — The number of foreign visitors to Turkey remained broadly flat year-on-year at around 7 million in August 2026, following a 0.3% decrease in the previous month. Among the five largest source markets, arrivals from Germany, the United Kingdom, and Poland fell by 0.8%, 7.5%, and 0.4%, respectively, while visitors from Russia and Iran rose by 6.2% and 15.1%. Antalya accounted for the largest share of tourist arrivals at 36.24%, with 2.52 million visitors, followed by Istanbul at 27.71% with 1.93 million. Mugla, Edirne and Izmir accounted for 9.23%, 6.97% and 3.45%, respectively. In the January-August 2026 period, the number of foreign visitors arrived declined by 1.8% compared to the previous year."
+    },
+    {
+      "id": "mkt:01a0d7bb-5224-7118-8697-aa1b3006541d",
+      "time": "2026-09-25 16:42:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC says tropical-storm conditions are expected today in the Cape Verde islands."
+    },
+    {
+      "id": "5113359",
+      "time": "2026-09-25 16:41:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞聲科技：9月25日斥資785.77萬港元回購20萬股】瑞聲科技（02018.HK）釋出翌日披露報表，9月25日公司回購20萬股，每股最高回購價為39.5港元，每股最低迴購價為38.9港元，付出的總代價為785.77萬港元。本次回購股份擬持作庫存股份，擬登出數目為0。"
+    },
+    {
+      "id": "5113358",
+      "time": "2026-09-25 16:41:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "香港證監會（SFC）將自9月25日起暫停 Silver Grant 股份的買賣。"
+    },
+    {
+      "id": "5113357",
+      "time": "2026-09-25 16:40:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IMF：2026年全球AI投資規模或突破2萬億美元 債務融資依賴同步擴大】國際貨幣基金組織(IMF)釋出最新年度報告，引述外部估計指出，今年由私人部門主導的全球人工智慧(AI)投資規模可能突破2萬億美元，成為近年來推動經濟增長的最強勁動力之一。報告指出，與AI相關的技術投資，估計帶動美國2025年GDP增速提高0.5個百分點，而美國近年生產率增速加快，某程度上亦反映出AI應用的早期正面影響。不過，報告同時提出警告，指AI投資熱潮背後潛藏隱憂。隨著相關基建及專案規模持續擴大，部分高成本投資越來越依賴債務融資。一旦未來回報未能達到預期，恐會引發資產估值顯著調整、財富縮水及企業裁員等連鎖效應。"
+    },
+    {
+      "id": "5113356",
+      "time": "2026-09-25 16:39:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦將諾基亞目標股價從每股5.54歐元上調至每股9.53歐元。"
+    },
     {
       "id": "5113355",
       "time": "2026-09-25 16:38:58",
@@ -112427,40 +112689,6 @@
         "Importance 1"
       ],
       "text": "Bulgaria Current Account Deficit Narrows in July — Bulgaria's current account deficit narrowed to EUR 269.0 million in July 2026 from EUR 303.7 million in the same month a year earlier. The improvement came despite a wider goods deficit of EUR 853.1 million, compared with EUR 752.4 million, as the primary income deficit narrowed to EUR 532.0 million from EUR 617.4 million and the secondary income surplus increased to EUR 240.8 million from EUR 149.9 million. Meanwhile, the services surplus edged down to EUR 875.2 million from EUR 916.2 million, leaving the combined goods and services balance at a surplus of EUR 22.2 million, down from EUR 163.8 million. In January-July 2026, the current account recorded a deficit of EUR 5,426.8 million, compared with a deficit of EUR 2,470.6 million in the corresponding period of 2025."
-    },
-    {
-      "id": "te:markets:584983",
-      "time": "2026-09-18 17:00:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Japanese Yen Depreciates by 1.17% — Top currency losers are Japanese Yen (-1.17%), Turkish Lira (-0.75%) and South Korean Won (-0.32%). Gains are led by Dollar Index (0.10%) and British Pound (0.08%). Meanwhile Euro was little changed."
-    },
-    {
-      "id": "te:markets:584982",
-      "time": "2026-09-18 16:53:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Lithium Falls to 8-Month Low — Lithium carbonate prices in China fell under CNY 135,000 per tonne in September, the lowest year-to-date, after an upward revision to stockpiles drove markets to price a more comfortable supply backdrop. Industry group SMM changed their methodology to compile inventory data that prompted a 175,000-ton increase in Chinese stockpiles, double the earlier estimates. This was combined with a strong outlook for Australian producers. Mineral Resources restarted Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project. A sharper pullback was prevented by more disruption in CATL's Jianxiawo mine, China's largest by capacity and responsible for 4% of global supply. Chinese authorities revoked their environmental approvals for the mine to extend the period of permit hurdles for over one year, coinciding with Beijing's anti-involution campaign and efforts to combat producer overcapacity."
-    },
-    {
-      "id": "te:economy:584981",
-      "time": "2026-09-18 16:52:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macau",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "Macau Tourist Arrivals Climb to Record High — The number of tourist arrivals in Macau rose by 6.1% year-on-year to 4.478 million in August 2026, following a 2.4% gain in the previous month. This marked the highest number of arrivals on record, as same-day visitors jumped by 11.7% to 2.853 million, while overnight visitors fell by 2.4% to 1.625 million. In addition, the average length of stay shortened by 0.1 day from a year earlier to 1.0 day, while the average stay of overnight visitors remained unchanged at 2.3 days. By source market, arrivals from China increased by 9.3% to 3.562 million, with visitors traveling under the Individual Visit Scheme rising by 12.7% to 2.020 million. Arrivals from Taiwan (101,282) and Malaysia (8,161) also increased by 13.7% and 2.1%, respectively. In contrast, visitor arrivals from Hong Kong (643,445), the Philippines (31,282), and Indonesia (11,106) declined by 5.6%, 18.5%, and 16.9%, respectively. In the January–August period, total visitor arrivals rose by 7.7% to 28.964 million."
     }
   ]
 }
