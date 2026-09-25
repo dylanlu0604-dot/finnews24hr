@@ -1,7 +1,55 @@
 {
   "date": "2026-09-26",
-  "count": 339,
+  "count": 345,
   "items": [
+    {
+      "id": "5114024",
+      "time": "2026-09-26 04:42:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評波札那：儘管政策應對持續推進，但鑽石相關收入下滑仍可能推動債務繼續攀升。"
+    },
+    {
+      "id": "5114023",
+      "time": "2026-09-26 04:42:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：波札那的金融緩衝已基本耗盡，預計大額財政赤字將持續存在。"
+    },
+    {
+      "id": "5114022",
+      "time": "2026-09-26 04:41:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：將評級下調至BAA2，反映出波札那公共財政預計將出現惡化。"
+    },
+    {
+      "id": "5114021",
+      "time": "2026-09-26 04:40:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪將波札那的信用評級從Baa1下調至BAA2，展望調整為穩定。"
+    },
+    {
+      "id": "mkt:01a0da4b-3be5-7118-86a3-c57f875bdd50",
+      "time": "2026-09-26 04:39:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moody's upgraded Montenegro's sovereign rating to BA2 and maintained a positive outlook."
+    },
+    {
+      "id": "mkt:01a0da4b-0500-7118-86a3-bcc3937aea65",
+      "time": "2026-09-26 04:39:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MOODY'S affirms Iceland's A1 rating, maintains stable outlook."
+    },
     {
       "id": "5114017",
       "time": "2026-09-26 04:38:00",
