@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-25 09:32:27",
-  "count": 12716,
+  "updated": "2026-09-25 09:36:14",
+  "count": 12713,
   "items": [
+    {
+      "id": "5112934",
+      "time": "2026-09-25 09:34:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【梁惠江獲批擔任中信信託董事長】9月24日，北京金融監管局網站釋出批覆，核准梁惠江中信信託有限責任公司董事、董事長的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。"
+    },
+    {
+      "id": "mkt:01a0d632-d5e9-7118-8693-740a9ab9c5bf",
+      "time": "2026-09-25 09:34:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "Alibaba",
+        "Meituan",
+        "JD.com",
+        "Xiaomi",
+        "Market Regions",
+        "Greater China",
+        "09988.HK",
+        "Impact bearish",
+        "01810.HK",
+        "03690.HK"
+      ],
+      "text": "Hang Seng Tech Index widens losses to 2% as Alibaba (09988.HK) and Xiaomi Group (01810.HK) fall over 3%; Meituan (03690.HK), Baidu (09888.HK) and JD.com (09618.HK) drop more than 2%."
+    },
+    {
+      "id": "5112933",
+      "time": "2026-09-25 09:34:05",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【甲骨文日本公司股價上漲，雲業務收入拉動一季度利潤增長】甲骨文日本公司股價最高上漲9.8%，創下2025年3月以來最大漲幅。此前這家日本軟體企業公佈一季度非合併營業利潤增長23%，雲服務收入表現強勁。SMBC日興證券分析師菊池悟在研報中寫道，業績表現穩健，增長動力不僅來自雲服務收入，也受益於新軟體許可銷售收入以及人力成本下降。隨著NTT資料、富士通等企業開始提供基於甲骨文雲基礎設施的Alloy資料中心服務，甲骨文的收入“有望持續增長”。"
+    },
+    {
+      "id": "5112932",
+      "time": "2026-09-25 09:33:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀將於9月25日開售Meta第三代雷朋智慧眼鏡。"
+    },
+    {
+      "id": "mkt:01a0d631-f135-7118-8693-692175b9e4fc",
+      "time": "2026-09-25 09:33:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "A Tesla top executive said deliveries of the Semi begin this week; DHL, PepsiCo and US Foods are among the customers."
+    },
+    {
+      "id": "5112931",
+      "time": "2026-09-25 09:32:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特斯拉高管：百事公司、美國食品公司均為Semi電動半掛卡車的客戶。"
+    },
+    {
+      "id": "5112930",
+      "time": "2026-09-25 09:32:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4330美元/盎司，日內漲0.75%。"
+    },
     {
       "id": "5112929",
       "time": "2026-09-25 09:31:55",
@@ -115502,97 +115581,6 @@
         "市場"
       ],
       "text": "【人形機器人概念表現活躍 萬向錢潮逼近漲停】人形機器人概念表現活躍，萬向錢潮逼近漲停，拓普集團、三花智控、方正電機、豐光精密跟漲。"
-    },
-    {
-      "id": "mkt:01a0b227-f293-7118-85ed-81034eec2076",
-      "time": "2026-09-18 09:35:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guoyao Yizhi says store opening/closure cycle has normalized this year】As of 1H the company operated 7,975 retail outlets nationwide. Management said market-driven closures occurred this year but openings and closures have returned to a normal cadence and selective openings continue. The company will align with local policies, assess single-store quality and trade-area shifts, and may close stores in adversely affected trade areas; it will continue routine openings in advantaged regions, policy-favored locations and high-footfall areas to support orderly operations."
-    },
-    {
-      "id": "mkt:01a0b227-8f55-7118-85ed-7ba14e3651d8",
-      "time": "2026-09-18 09:35:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Retail cash parking: short-term money-market yield snapshot】Tencent Licaitong on-demand + 7‑day annualized yields ranged 0.7130%–1.4640%. WeChat Wallet 7‑day annualized yields ranged 0.8620%–1.01600%. Alipay Yu’e Bao 7‑day annualized yields ranged 0.9000%–1.0700%."
-    },
-    {
-      "id": "5100911",
-      "time": "2026-09-18 09:35:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國藥一致：今年已進入正常開關店節奏】國藥一致(000028)昨日在業績說明會上介紹，截至上半年，公司全國零售門店總數7975家。雖然今年存在市場因素影響閉店，但已進入正常開關店節奏，同時保持部分開店。後續會結合各地市場政策，評估單店質量、商圈變化，對商圈受影響的門店不排除閉店；在優勢區域、政策利好、人流集中區域常態化開店，保障經營有序發展。"
-    },
-    {
-      "id": "mkt:01a0b227-89d0-7118-85ed-71b142784cdf",
-      "time": "2026-09-18 09:35:30",
-      "tags": [
-        "MKT News",
-        "02476.HK",
-        "Impact bullish",
-        "01989.HK",
-        "01377.HK"
-      ],
-      "text": "Hong Kong PCB sector active; Shenghong Technology (02476.HK) up over 4%, Guanghe Technology (01989.HK), Dingtai High-Tech (01377.HK) and Dazhu CNC (03200.HK) also advanced."
-    },
-    {
-      "id": "5100910",
-      "time": "2026-09-18 09:35:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿里巴巴港股漲3%。"
-    },
-    {
-      "id": "5100909",
-      "time": "2026-09-18 09:34:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸、離岸人民幣兌美元雙雙升破6.7，創2023年以來新高。"
-    },
-    {
-      "id": "mkt:01a0b226-8834-7118-85ed-6a3eb8644a06",
-      "time": "2026-09-18 09:34:24",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "China A-share glass and fiberglass sector tumbled at the open; China Jushi fell over 3%, with Changhai Co., International Composite, Three Gorges New Materials and North Glass also sliding."
-    },
-    {
-      "id": "5100908",
-      "time": "2026-09-18 09:34:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.03%，成分股中，同惠電子漲10.39%，鼎智科技漲5.07%，艾融軟體漲3.85%，五新智慧漲2.65%。"
-    },
-    {
-      "id": "5100907",
-      "time": "2026-09-18 09:33:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫療服務板塊直線拉昇，南華生物、貝瑞基因漲停】醫療服務板塊直線拉昇，南華生物、貝瑞基因漲停，海特生物、成都先導、畢得醫藥、奧浦邁、金域醫學跟漲。"
-    },
-    {
-      "id": "te:markets:584773",
-      "time": "2026-09-18 09:32:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Shares Inch Higher, Weekly Picture Muted — Australian stocks edged up 14 points, or 0.2%, to 8,747 in early Friday trade, extending gains for a third straight session after Wall Street rebounded overnight as easing oil prices and softer Treasury yields helped calm nerves after the Fed’s rate-hike shock. Strength came from tech, non-energy minerals, and consumer durables, though losses in healthcare, energy minerals, and retail trade capped the upside. Gold miners advanced, with Northern Star Resources up 2.7% and Evolution Mining rising 3.0%, while Lynas Rare Earths, Perseus Mining, and South32 each added over 2%. For the week, the market was little changed, stabilizing after recent declines as traders weighed remarks from RBA Governor Michele Bullock, who warned that upside inflation risks are emerging amid surging global energy costs from the prolonged Middle East conflict, compounded by pressures from the AI data-centre boom and extreme weather."
     }
   ]
 }

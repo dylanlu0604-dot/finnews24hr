@@ -1,7 +1,86 @@
 {
   "date": "2026-09-25",
-  "count": 650,
+  "count": 657,
   "items": [
+    {
+      "id": "5112934",
+      "time": "2026-09-25 09:34:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【梁惠江獲批擔任中信信託董事長】9月24日，北京金融監管局網站釋出批覆，核准梁惠江中信信託有限責任公司董事、董事長的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。"
+    },
+    {
+      "id": "mkt:01a0d632-d5e9-7118-8693-740a9ab9c5bf",
+      "time": "2026-09-25 09:34:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "Alibaba",
+        "Meituan",
+        "JD.com",
+        "Xiaomi",
+        "Market Regions",
+        "Greater China",
+        "09988.HK",
+        "Impact bearish",
+        "01810.HK",
+        "03690.HK"
+      ],
+      "text": "Hang Seng Tech Index widens losses to 2% as Alibaba (09988.HK) and Xiaomi Group (01810.HK) fall over 3%; Meituan (03690.HK), Baidu (09888.HK) and JD.com (09618.HK) drop more than 2%."
+    },
+    {
+      "id": "5112933",
+      "time": "2026-09-25 09:34:05",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【甲骨文日本公司股價上漲，雲業務收入拉動一季度利潤增長】甲骨文日本公司股價最高上漲9.8%，創下2025年3月以來最大漲幅。此前這家日本軟體企業公佈一季度非合併營業利潤增長23%，雲服務收入表現強勁。SMBC日興證券分析師菊池悟在研報中寫道，業績表現穩健，增長動力不僅來自雲服務收入，也受益於新軟體許可銷售收入以及人力成本下降。隨著NTT資料、富士通等企業開始提供基於甲骨文雲基礎設施的Alloy資料中心服務，甲骨文的收入“有望持續增長”。"
+    },
+    {
+      "id": "mkt:01a0d631-f135-7118-8693-692175b9e4fc",
+      "time": "2026-09-25 09:33:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "A Tesla top executive said deliveries of the Semi begin this week; DHL, PepsiCo and US Foods are among the customers."
+    },
+    {
+      "id": "5112932",
+      "time": "2026-09-25 09:33:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀將於9月25日開售Meta第三代雷朋智慧眼鏡。"
+    },
+    {
+      "id": "5112931",
+      "time": "2026-09-25 09:32:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特斯拉高管：百事公司、美國食品公司均為Semi電動半掛卡車的客戶。"
+    },
+    {
+      "id": "5112930",
+      "time": "2026-09-25 09:32:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4330美元/盎司，日內漲0.75%。"
+    },
     {
       "id": "5112929",
       "time": "2026-09-25 09:31:55",
