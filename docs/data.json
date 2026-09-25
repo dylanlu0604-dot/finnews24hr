@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-25 09:21:06",
-  "count": 12741,
+  "updated": "2026-09-25 09:24:54",
+  "count": 12731,
   "items": [
+    {
+      "id": "mkt:01a0d629-60a9-7118-8693-4c736c629da5",
+      "time": "2026-09-25 09:23:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Hang Seng Index",
+        "Impact bearish",
+        "9988.HK",
+        "9999.HK"
+      ],
+      "text": "Hong Kong equities opened lower: Hang Seng Index (HSI) down 0.96% and Hang Seng Tech Index down 0.99% at the open. Alibaba Group (09988.HK) and NetEase-S (09999.HK) fell more than 2%."
+    },
+    {
+      "id": "5112915",
+      "time": "2026-09-25 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.96%，恒生科技指數跌0.98%】長江基建集團跌1.83%，舜宇光學科技跌1.84%，創科實業跌1.87%，網易跌2.14%，友邦保險跌2.51%，阿里巴巴-W跌2.55%，中通快遞-W跌2.75%。"
+    },
     {
       "id": "5112912",
       "time": "2026-09-25 09:17:43",
@@ -115729,124 +115753,6 @@
         "市場"
       ],
       "text": "離岸人民幣兌美元漲至6.6967元，為2022年7月來盤中新高。"
-    },
-    {
-      "id": "5100887",
-      "time": "2026-09-18 09:24:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧股走強 壁仞科技漲近5%】截至發稿，壁仞科技(06082.HK)漲4.73%，傅立葉(03625.HK)漲4.01%，MINIMAX-W(00100.HK)漲4%，劍橋科技(06166.HK)漲3.53%。"
-    },
-    {
-      "id": "mkt:01a0b21c-5706-7118-85ed-0479255e3099",
-      "time": "2026-09-18 09:23:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China",
-        "02431.HK",
-        "Impact bullish",
-        "00100.HK",
-        "02513.HK"
-      ],
-      "text": "Hong Kong-listed AI stocks opened higher: Youjia Innovation (02431.HK) rose more than 6%, MINIMAX-W (00100.HK) rose nearly 4%, and Zhipu (02513.HK) rose more than 3%."
-    },
-    {
-      "id": "em:qqyh_zgyh:202609183878150069",
-      "time": "2026-09-18 09:23:13",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日以固定利率、數量招標方式開展了4633億元7天期逆回購操作，全額滿足了一級交易商需求。同時，以固定數量、利率招標、多重價位中標方式開展了1000億元14天期逆回購操作。"
-    },
-    {
-      "id": "5100886",
-      "time": "2026-09-18 09:22:56",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨回籠407億元人民幣。"
-    },
-    {
-      "id": "5100885",
-      "time": "2026-09-18 09:22:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行進行 1,000 億元 14 天期逆回購操作。"
-    },
-    {
-      "id": "mkt:01a0b21b-983e-7118-85ec-fbc54fc5276a",
-      "time": "2026-09-18 09:22:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "PBOC conducted CNY 463.3 bln 7-day reverse repos today; bid amount CNY 463.3 bln, allotment CNY 463.3 bln, operation rate 1.40%."
-    },
-    {
-      "id": "5100884",
-      "time": "2026-09-18 09:22:14",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "央行公告稱，開展4633億元人民幣7天期逆回購操作，利率1.40%，與上次持平。"
-    },
-    {
-      "id": "5100883",
-      "time": "2026-09-18 09:22:09",
-      "tags": [],
-      "text": "港股恒指高開漲0.49％，恒生科技指數開漲0.41%。人工智慧、生物醫藥、貴金屬等板塊漲幅居前。"
-    },
-    {
-      "id": "5100882",
-      "time": "2026-09-18 09:22:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【醫藥工業發展“十五五”規劃：培育醫藥工業文化價值 推動中醫藥文化傳承創新】工業和資訊化部等十部門印發《醫藥工業發展“十五五”規劃》。規劃提出，培育醫藥工業文化價值。推動中醫藥文化傳承創新，加強中醫藥古籍整理與經典名方開發，展示中醫藥傳統文化與發展成就。鼓勵中藥原料生產基地、中藥企業開展農文旅融合的科普研學活動。培育現代醫藥產業文化，開發權威科普資源，強化公眾對醫藥產業創新、科技創新的認知與瞭解。提升文化軟實力，推動醫藥文化融入國民教育，在中小學開展中醫藥文化、生命科學教育，支援醫藥題材文藝創作，講好醫藥領域中國故事。"
-    },
-    {
-      "id": "5100881",
-      "time": "2026-09-18 09:21:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大對進口罐裝蔬菜產品作出保障措施終裁】近日，WTO保障措施委員會發布加拿大代表團向其提交的保障措施通報。加拿大國際貿易法庭（CITT）於2026年9月9日對進口罐頭蔬菜產品（Canned Vegetable Goods）作出保障措施肯定性終裁，認定進口增加是造成國內產業嚴重損害的主要原因，建議以關稅配額形式實施保障措施。具體如下：第1年配額為13,000,000公斤，超配額附加稅為50%；第2年配額為13,260,000公斤，超配額附加稅為45%；第3年配額為13,525,200公斤，超配額附加稅為40%。措施建議實施3年，至2030年1月5日。"
-    },
-    {
-      "id": "mkt:01a0b21a-a96e-7118-85ec-f071685f88f2",
-      "time": "2026-09-18 09:21:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong indices opened higher on Friday Sept 18: HSI +119.56 pts (+0.49%) at 24,723.85; Hang Seng Tech +17.67 pts (+0.41%) at 4,328.41; H-share index +27.42 pts (+0.34%) at 8,202.78; Red-chip index +11.41 pts (+0.28%) at 4,052.26."
-    },
-    {
-      "id": "mkt:01a0b21a-a5f3-7118-85ec-eb90919283ab",
-      "time": "2026-09-18 09:21:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "00100.HK",
-        "Impact bullish",
-        "XAUUSD",
-        "Hang Seng Index"
-      ],
-      "text": "Hong Kong equities opened higher; HSI up 0.49%, Hang Seng Tech Index up 0.41%. AI, biotech and precious metals led gains. MINIMAX-W (00100.HK) up nearly 4%."
     }
   ]
 }
