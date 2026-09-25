@@ -1,7 +1,38 @@
 {
   "date": "2026-09-26",
-  "count": 24,
+  "count": 27,
   "items": [
+    {
+      "id": "mkt:01a0d960-095e-7118-869f-338a0065c6bc",
+      "time": "2026-09-26 00:22:24",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "【China, U.S. agree to build ‘constructive strategic stable relationship’ based on respect, fairness and reciprocity】On Sept 25 the leaders met at the White House; Chinese President Xi and U.S. President Trump agreed to further refine the positioning of China–U.S. relations and to jointly build a \"constructive strategic stable relationship based on respect, fairness and reciprocity.\""
+    },
+    {
+      "id": "5113762",
+      "time": "2026-09-26 00:21:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中美同意共同構建“基於尊重、公平、對等的建設性戰略穩定關係”】當地時間9月25日上午，國家主席習近平和夫人彭麗媛同美國總統特朗普和夫人梅拉尼婭在白宮舉行茶敘。兩國元首同意進一步豐富中美關係定位的內涵，共同構建“基於尊重、公平、對等的建設性戰略穩定關係”。（央視新聞）"
+    },
+    {
+      "id": "5113761",
+      "time": "2026-09-26 00:19:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（9月24日）擔保隔夜融資利率（SOFR）報3.88%，之前一天報3.87%。上個交易日有效的聯邦基金利率報3.88%，之前一天報3.88%。"
+    },
     {
       "id": "mkt:01a0d95c-4010-7118-869f-28c271cb6832",
       "time": "2026-09-26 00:18:16",
