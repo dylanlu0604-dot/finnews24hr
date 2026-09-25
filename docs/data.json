@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-26 04:23:41",
-  "count": 12103,
+  "updated": "2026-09-26 04:27:36",
+  "count": 12097,
   "items": [
+    {
+      "id": "mkt:01a0da3e-f122-7118-86a3-8c5591e98873",
+      "time": "2026-09-26 04:25:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oracle (ORCL.N) said in an SEC filing that Executive Chairman and CTO Lawrence J. Ellison’s total compensation for 2026 was $131 mln."
+    },
+    {
+      "id": "5113996",
+      "time": "2026-09-26 04:25:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "甲骨文公司在提交給美國證券交易委員會（SEC）的檔案中表示，執行董事長兼技術長勞倫斯·J·埃裡森2026年總薪酬為1.31億美元。"
+    },
+    {
+      "id": "te:markets:587009",
+      "time": "2026-09-26 04:23:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Global Yield Surge Pauses — The S&P/TSX Composite Index added 0.3% to close at 35,801 on Friday, paring earlier losses as easing oil prices halted the surge in global yields. Oil and fuel prices pulled back following news that the US and Iran had moved closer to an agreement to lift naval blockades on tankers in the Persian Gulf and ease economic measures against Tehran. Benchmark borrowing costs eased after reaching multi-year highs on Thursday. Major banks closed higher, with RBC and TD Bank up 1.2% each, BMO rising 0.8%, Scotiabank gaining 1.5%, and CIBC advancing 2%. Mining stocks were mixed as gold prices rose on the session but posted a weekly loss. Barrick gained 1.5%, while Kinross rose 2.8%, rebounding after a more than 10% slump on Thursday following a lower production outlook for 2026 and 2027. WPM and Franco-Nevada shed 0.7% each. Energy heavyweights fell amid lower oil prices. The index ended the week nearly flat."
+    },
     {
       "id": "mkt:01a0da3c-1e7e-7118-86a3-87491b49036d",
       "time": "2026-09-26 04:22:48",
@@ -110134,83 +110163,6 @@
         "其他"
       ],
       "text": "沙特民防部門稱，尤拉省的危險已經解除。"
-    },
-    {
-      "id": "mkt:01a0b633-8edb-7118-860b-d6c9ad4c0a7b",
-      "time": "2026-09-19 04:27:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says threats in Yanbu and Taif have been neutralized."
-    },
-    {
-      "id": "5102763",
-      "time": "2026-09-19 04:26:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門表示，吉達、延布和塔伊夫三地的險情已解除。"
-    },
-    {
-      "id": "te:markets:585108",
-      "time": "2026-09-19 04:26:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips as Yields Rise — The S&P/TSX Composite Index fell 0.2% to close at 35,807 on Friday as Canadian bond yields edged higher amid persistent energy-driven inflation concerns, raising borrowing costs worries and pressuring equities. Financials closed mixed, with Fairfax Financial losing 2.6% and RBC edging 0.2% lower, while TD Bank rose 0.6%. Miners posted losses after closing sharply higher on Thursday, despite higher gold prices. Agnico Eagle lost 1.1%, Barrick shed 1.5%, and WPM fell 1%. Technology stocks were mixed, with Shopify down 0.4% amid weakness in US hyperscalers, while Celestica rose 0.7% and Constellation Software added 0.5% amid strength in Wall Street chipmakers. The S&P/TSX Composite Index gained 0.4% on the week."
-    },
-    {
-      "id": "5102762",
-      "time": "2026-09-19 04:26:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：白宮將不再陳列《紐約時報》與《華盛頓郵報》。"
-    },
-    {
-      "id": "mkt:01a0b651-3849-7118-860c-5278b8736c69",
-      "time": "2026-09-19 04:26:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says danger in Al-Ula province has been cleared."
-    },
-    {
-      "id": "5102761",
-      "time": "2026-09-19 04:26:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：美國上週銀行存款19.657萬億美元，之前一週19.566萬億美元。"
-    },
-    {
-      "id": "5102760",
-      "time": "2026-09-19 04:26:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普批評《紐約時報》與《華盛頓郵報》兩家媒體，稱其很“噁心”。"
-    },
-    {
-      "id": "mkt:01a0b631-0560-7118-860b-c8afed04e3ed",
-      "time": "2026-09-19 04:24:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Civil Defense says danger in Jeddah province has been lifted."
-    },
-    {
-      "id": "mkt:01a0b630-d48b-7118-860b-c60fa28b881f",
-      "time": "2026-09-19 04:24:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says threat to Khamis Mushait has been eliminated."
     }
   ]
 }

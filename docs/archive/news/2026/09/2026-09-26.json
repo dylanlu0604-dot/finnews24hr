@@ -1,7 +1,36 @@
 {
   "date": "2026-09-26",
-  "count": 314,
+  "count": 317,
   "items": [
+    {
+      "id": "mkt:01a0da3e-f122-7118-86a3-8c5591e98873",
+      "time": "2026-09-26 04:25:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oracle (ORCL.N) said in an SEC filing that Executive Chairman and CTO Lawrence J. Ellison’s total compensation for 2026 was $131 mln."
+    },
+    {
+      "id": "5113996",
+      "time": "2026-09-26 04:25:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "甲骨文公司在提交給美國證券交易委員會（SEC）的檔案中表示，執行董事長兼技術長勞倫斯·J·埃裡森2026年總薪酬為1.31億美元。"
+    },
+    {
+      "id": "te:markets:587009",
+      "time": "2026-09-26 04:23:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Global Yield Surge Pauses — The S&P/TSX Composite Index added 0.3% to close at 35,801 on Friday, paring earlier losses as easing oil prices halted the surge in global yields. Oil and fuel prices pulled back following news that the US and Iran had moved closer to an agreement to lift naval blockades on tankers in the Persian Gulf and ease economic measures against Tehran. Benchmark borrowing costs eased after reaching multi-year highs on Thursday. Major banks closed higher, with RBC and TD Bank up 1.2% each, BMO rising 0.8%, Scotiabank gaining 1.5%, and CIBC advancing 2%. Mining stocks were mixed as gold prices rose on the session but posted a weekly loss. Barrick gained 1.5%, while Kinross rose 2.8%, rebounding after a more than 10% slump on Thursday following a lower production outlook for 2026 and 2027. WPM and Franco-Nevada shed 0.7% each. Energy heavyweights fell amid lower oil prices. The index ended the week nearly flat."
+    },
     {
       "id": "mkt:01a0da3c-1e7e-7118-86a3-87491b49036d",
       "time": "2026-09-26 04:22:48",
