@@ -1,7 +1,48 @@
 {
   "date": "2026-09-25",
-  "count": 1464,
+  "count": 1468,
   "items": [
+    {
+      "id": "te:markets:586916",
+      "time": "2026-09-25 19:29:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Equity Futures Rebound — US equity futures rose on Friday as the surge in Treasury yields paused, offering some respite from the tight financial conditions facing the corporate sector. Contracts for the S&P 500, Dow, and Nasdaq 100 rose around 0.5%. Oil and fuel prices pulled back during the session following news that the US and Iran moved closer to an agreement that would lift naval blockades on tankers in the Persian Gulf and ease economic measures against Tehran. Accordingly, benchmark borrowing costs halted their surge after peaking at multi-decade highs yesterday. AI stocks advanced, especially across hardware, with Marvell, AMD, SanDisk, and Applied Materials adding more than 2% premarket. Meanwhile, GE Vernova jumped 2% on its exposure to data center development. Lastly, Meta was set to close the week up nearly 17% as it followed up on its Muse AI agents with a series of hardware releases, ranging from wearable agent controllers to new VR headsets and smart glasses."
+    },
+    {
+      "id": "mkt:01a0d853-5a78-7118-869a-4e6888f00630",
+      "time": "2026-09-25 19:28:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Lebanese media reported Israeli warplanes struck the town of Bani Hayyan in Marjayoun district, southern Lebanon."
+    },
+    {
+      "id": "5113527",
+      "time": "2026-09-25 19:28:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯頂科技回應是否向蘋果摺疊屏手機供貨】在回答投資者關於“蘋果摺疊屏手機有沒有在公司的供貨名單中”的問題時，匯頂科技9月24日在互動平臺上表示，公司始終秉持開放合作的態度，積極拓展全球優質客戶資源。目前，公司已與三星、戴爾、vivo、OPPO、小米、榮耀、聯想等眾多知名品牌建立了長期穩定的合作關係，相關商用情況及合作品牌資訊請見公司官網及定期財務報告。公司將持續深耕技術創新與市場拓展，未來如有新的商用進展或合作動態，將及時透過官方渠道與投資者分享。"
+    },
+    {
+      "id": "5113526",
+      "time": "2026-09-25 19:28:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【範波會見沃爾瑪中國總裁朱曉靜一行】9月25日，蘇州市委書記範波會見沃爾瑪中國總裁及執行長朱曉靜一行。範波代表市委、市政府對朱曉靜一行的到來表示歡迎，他說，沃爾瑪是全球領先的連鎖零售商，蘇州正大力實施消費投資擴容增效工程，雙方合作基礎紮實、深化合作空間廣闊。希望沃爾瑪持續擴大在蘇投資佈局，加快推進社群店等專案建設，匯入更多山姆會員店、中型店、社群店等增量專案，豐富拓展即時零售、跨境電商等新場景，積極推動更多蘇州名優產品進入沃爾瑪全球渠道，實現雙向賦能、互利共贏。蘇州將深入開展“三服務”專項行動，著力打造“有呼必應、事事閉環”營商環境品牌，全方位服務專案加快建設、企業深耕發展。蘇州市領導萬利、季晶，蘇州工業園區主要負責同志參加會見。（蘇州日報）"
+    },
     {
       "id": "te:markets:586915",
       "time": "2026-09-25 19:25:31",

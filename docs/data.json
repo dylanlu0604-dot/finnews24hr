@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-25 19:26:42",
-  "count": 12304,
+  "updated": "2026-09-25 19:30:28",
+  "count": 12302,
   "items": [
+    {
+      "id": "te:markets:586916",
+      "time": "2026-09-25 19:29:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Equity Futures Rebound — US equity futures rose on Friday as the surge in Treasury yields paused, offering some respite from the tight financial conditions facing the corporate sector. Contracts for the S&P 500, Dow, and Nasdaq 100 rose around 0.5%. Oil and fuel prices pulled back during the session following news that the US and Iran moved closer to an agreement that would lift naval blockades on tankers in the Persian Gulf and ease economic measures against Tehran. Accordingly, benchmark borrowing costs halted their surge after peaking at multi-decade highs yesterday. AI stocks advanced, especially across hardware, with Marvell, AMD, SanDisk, and Applied Materials adding more than 2% premarket. Meanwhile, GE Vernova jumped 2% on its exposure to data center development. Lastly, Meta was set to close the week up nearly 17% as it followed up on its Muse AI agents with a series of hardware releases, ranging from wearable agent controllers to new VR headsets and smart glasses."
+    },
+    {
+      "id": "mkt:01a0d853-5a78-7118-869a-4e6888f00630",
+      "time": "2026-09-25 19:28:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Lebanese media reported Israeli warplanes struck the town of Bani Hayyan in Marjayoun district, southern Lebanon."
+    },
+    {
+      "id": "5113527",
+      "time": "2026-09-25 19:28:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯頂科技回應是否向蘋果摺疊屏手機供貨】在回答投資者關於“蘋果摺疊屏手機有沒有在公司的供貨名單中”的問題時，匯頂科技9月24日在互動平臺上表示，公司始終秉持開放合作的態度，積極拓展全球優質客戶資源。目前，公司已與三星、戴爾、vivo、OPPO、小米、榮耀、聯想等眾多知名品牌建立了長期穩定的合作關係，相關商用情況及合作品牌資訊請見公司官網及定期財務報告。公司將持續深耕技術創新與市場拓展，未來如有新的商用進展或合作動態，將及時透過官方渠道與投資者分享。"
+    },
+    {
+      "id": "5113526",
+      "time": "2026-09-25 19:28:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【範波會見沃爾瑪中國總裁朱曉靜一行】9月25日，蘇州市委書記範波會見沃爾瑪中國總裁及執行長朱曉靜一行。範波代表市委、市政府對朱曉靜一行的到來表示歡迎，他說，沃爾瑪是全球領先的連鎖零售商，蘇州正大力實施消費投資擴容增效工程，雙方合作基礎紮實、深化合作空間廣闊。希望沃爾瑪持續擴大在蘇投資佈局，加快推進社群店等專案建設，匯入更多山姆會員店、中型店、社群店等增量專案，豐富拓展即時零售、跨境電商等新場景，積極推動更多蘇州名優產品進入沃爾瑪全球渠道，實現雙向賦能、互利共贏。蘇州將深入開展“三服務”專項行動，著力打造“有呼必應、事事閉環”營商環境品牌，全方位服務專案加快建設、企業深耕發展。蘇州市領導萬利、季晶，蘇州工業園區主要負責同志參加會見。（蘇州日報）"
+    },
     {
       "id": "te:markets:586915",
       "time": "2026-09-25 19:25:31",
@@ -111866,60 +111907,6 @@
         "MKT News"
       ],
       "text": "【Zhongjuxin: WF6 capacity expansion in internal decision stage】On Sept. 18 Zhongjuxin said in an investor-relations note that tungsten hexafluoride (WF6) demand should rise as integrated-circuit process nodes advance. Its WF6 product is 6N purity and is manufactured via a joint venture with Japan’s Central Glass, with both partners supplying production technology. A jointly owned sales company, majority-held by the Japanese partner, handles distribution. The JV is internally considering expanding annual WF6 capacity from 600 tonnes to 800 tonnes; implementation is not final and, if approved, could create short-term depreciation pressure on Zhongjuxin’s profits depending on market conditions."
-    },
-    {
-      "id": "5102192",
-      "time": "2026-09-18 19:30:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數盤中暫漲1.2%，報171036.70點。"
-    },
-    {
-      "id": "5102191",
-      "time": "2026-09-18 19:29:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST交昂：公司被警告並罰款400萬元】ST交昂公告，公司於2025年7月11日因涉嫌資訊披露違法違規被立案調查，2026年9月18日收到《行政處罰決定書》。公司被責令改正、給予警告並罰款400萬元；嵇敏、嵇霖、曹毅分別被罰100萬元、200萬元、100萬元。經認定，公司2023年會計差錯更正公告及2024年年度報告存在虛假記載。"
-    },
-    {
-      "id": "5102190",
-      "time": "2026-09-18 19:28:48",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【貝森特深陷“不可能三角” Andromeda稱債券持有人如泰坦尼克號乘客】Andromeda Capital Management UK LLP聯合創始人Alberto Gallo表示，信貸市場正顯現出極度自滿的跡象，信用利差處於歷史低位，未能反映潛在風險。他警告稱，隨著風險從股票和實物資產結構性地向固定收益資產轉移，債券持有人正走向虧損，而這一趨勢受到歷史性的投資熱潮和政府支出激增推動，並且正在加速。Gallo指出，美國財政部長斯科特·貝森特面臨一個“不可能三角”：既要控制收益率曲線，又不削減財政赤字，同時還要維持強勢美元。他警告稱，這三個目標中必有一個需要讓步，而美元貶值最可能成為釋放壓力的出口。“貝森特是船長，債券持有人則是泰坦尼克號上的乘客。冰山撞上泰坦尼克號時，債券持有人——也就是那些乘客——並沒有衝向救生艇，因為他們不相信泰坦尼克號會沉沒，”他表示。"
-    },
-    {
-      "id": "mkt:01a0b446-b12c-7118-8600-e8c75db10705",
-      "time": "2026-09-18 19:28:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "AstraZeneca (AZN.O)'s India unit was fined 188,000 rupees for a late form submission."
-    },
-    {
-      "id": "5102189",
-      "time": "2026-09-18 19:27:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【沈鼓集團：目前短期股價波動加劇 存在快速上漲後大幅回撥的風險】沈鼓集團(601091.SH)釋出風險提示公告，目前公司股價累計漲幅較大，截至2026年9月17日，公司收盤價為20.80元/股，當日漲幅為373.80%；截至2026年9月18日，公司收盤價為57.77元/股，當日漲幅為177.74%，顯著偏離同行業估值水平。根據《國民經濟行業分類》（GB/T4754-2017），公司所屬行業為通用裝置製造業（C34），截至2026年9月18日，公司靜態市盈率、市淨率分別為242.96倍、26.06倍；中證指數有限公司於2026年9月17日釋出的最新靜態市盈率、市淨率分別為41.74倍、3.50倍，公司市盈率、市淨率顯著高於所屬行業平均水平。公司目前短期股價波動加劇，換手率較高，存在快速上漲後大幅回撥的風險。"
-    },
-    {
-      "id": "mkt:01a0b445-574a-7118-8600-e49e587290a5",
-      "time": "2026-09-18 19:27:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "CTRP.O",
-        "Impact bullish"
-      ],
-      "text": "【Inbound travel heats up over Mid‑Autumn/Golden Week; source markets and destinations broaden】Multiple travel platforms show inbound tourism continued to grow during the Mid‑Autumn/Golden Week combined holiday, with Ctrip reporting double‑digit YoY growth in inbound arrivals. Russia surged 173% to become the top source market; the UK, Malaysia and Canada each rose more than 50%. Source markets are expanding beyond traditional East Asian neighbors toward Europe and Oceania. The \"ChinaTravel\" topic trending on global social media has amplified reach. Industry participants say growth is shifting from policy‑driven to a policy+content model; localities’ ability to convert cultural assets into experience‑based, shareable tourism products will determine competitiveness in the inbound market."
     }
   ]
 }
