@@ -1,7 +1,282 @@
 {
-  "updated": "2026-09-25 17:42:18",
-  "count": 12437,
+  "updated": "2026-09-25 17:58:48",
+  "count": 12427,
   "items": [
+    {
+      "id": "5113427",
+      "time": "2026-09-25 17:44:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行行長施萊格爾：不能等到第二輪通脹效應的全部證據顯現。今年仍有可能降息，具體取決於外部環境以及可信的赤字削減路徑。"
+    },
+    {
+      "id": "te:markets:586881",
+      "time": "2026-09-25 17:44:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Edge Lower But Remain at Multi-Year Highs — The yield on the 10-year US Treasury note fell to 5.17% on Friday, following a sharp sell-off over the previous three sessions that pushed the benchmark yield up 23bps to around 5.20%. A decline in oil prices, amid signs that US and Iranian negotiators may be exploring a phased agreement to reopen the Strait of Hormuz, provided some relief to the bond market. Despite the modest pullback, borrowing costs remain at 2007 highs, as markets continue to price in expectations that the Federal Reserve will need to tighten monetary policy further. The odds of another 25bps rate hike at the Fed’s next meeting currently stand at around 70%, while swaps are pricing in three additional quarter-point rate increases over the next year. Strong economic activity and concerns over the fiscal outlook have also weighed on Treasuries. While demand at Tuesday’s 2-year Treasury auction was robust, the 5-year Treasury auction drew unexpectedly weak demand."
+    },
+    {
+      "id": "mkt:01a0d7f2-fd8c-7118-8698-d020a7f81d2f",
+      "time": "2026-09-25 17:43:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Williams said persistent supply shocks cannot be ignored."
+    },
+    {
+      "id": "5113426",
+      "time": "2026-09-25 17:42:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員威廉姆斯表示：不能無視持續的供給衝擊。"
+    },
+    {
+      "id": "mkt:01a0d7f1-adc8-7118-8698-ce91da13c938",
+      "time": "2026-09-25 17:42:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank chairman Schlegel said a rate cut this year remains possible, conditional on the external environment and a credible path to deficit reduction."
+    },
+    {
+      "id": "te:economy:586879",
+      "time": "2026-09-25 17:42:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Namibia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Namibia GDP Growth Picks Up in Q2 — Namibia's annual economic growth accelerated to 4.8% in Q2 2026, its strongest pace since Q1 2024, from the revised 3.1% in the prior period. Tertiary industries remained the main engine of growth, expanding 6.1%, with notable gains in health (17.6%), wholesale and retail trade (9%), and information and communication (8.2%). Primary industries advanced 3%, supported by agriculture and forestry (17.8%) and fishing (2.8%). The crop subsector grew 28.5% on higher maize and millet production, supported by favorable rainfall, while fishing activity benefited from increased fish landings. Meanwhile, secondary industries rose 0.8%, driven by a 3.9% growth in manufacturing. Diamond cutting and polishing surged 76.5%, while leather and leather products (32.9%), paper products, publishing and printing (12.9%), dairy products (12.6%), and meat processing (8.0%) also increased significantly. Conversely, mining contracted 3.1%, reflecting declines in uranium, diamond and metal ore mining."
+    },
+    {
+      "id": "mkt:01a0d7f1-90e6-7118-8698-c381c25a62d8",
+      "time": "2026-09-25 17:42:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Swiss National Bank Chair Schlegel said the bank cannot wait for full evidence of second-round inflation effects to emerge."
+    },
+    {
+      "id": "mkt:01a0d7ed-f064-7118-8698-bdc9a2bca7c1",
+      "time": "2026-09-25 17:38:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Swiss National Bank Chairman Schlegel said inflationary pressure is slightly higher than in June."
+    },
+    {
+      "id": "mkt:01a0d7ed-e6aa-7118-8698-b42f6a61ab79",
+      "time": "2026-09-25 17:38:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank Chairman Schlegel said Swiss inflation rises were mainly driven by gasoline products."
+    },
+    {
+      "id": "5113424",
+      "time": "2026-09-25 17:37:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行行長：預計未來幾個季度瑞士經濟將保持溫和增長。瑞士通脹上升主要由於汽油產品。通脹壓力略高於6月份。"
+    },
+    {
+      "id": "5113423",
+      "time": "2026-09-25 17:35:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示：不能等到第二輪通脹效應的全部證據顯現。"
+    },
+    {
+      "id": "te:economy:586878",
+      "time": "2026-09-25 17:35:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Business Confidence",
+        "Importance 0"
+      ],
+      "text": "Philippines Business Confidence Less Pessimistic in August — The Business Confidence Index in the Philippines improved to -10.9 in August 2026 from -20.3 in July, as firms became less pessimistic, with the improvement attributed mainly to higher demand for goods and services. Current-month indicators strengthened, with business activity rising to 7.0 from -0.1, total orders to 12.4 from -0.7, and financial conditions improving to -24.9 from -31.4. Meanwhile, access to credit was slightly tighter at -7.2 from -7.0, while average capacity utilization increased marginally to 69.0% from 68.6%. Three-month confidence rose to 24.6 from 3.7, while 12-month confidence increased to 36.4 from 29.4. Firms also raised expectations for business activity and hiring over the next three months and 12 months, although the share of firms planning to expand operations over the next 12 months declined to 17.1% from 20.8%. Year-ahead inflation expectations eased to 5.4% from 5.6%, but remained above the Bangko Sentral ng Pilipinas’ 4.0% upper bound."
+    },
+    {
+      "id": "5113422",
+      "time": "2026-09-25 17:34:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行庫拉利：今年仍有可能降息，具體取決於外部環境以及可信的赤字削減路徑。"
+    },
+    {
+      "id": "5113421",
+      "time": "2026-09-25 17:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【以太坊漲至2700美元上方 過去24小時超漲2%】行情顯示，比特幣漲至84709.7美元，過去24小時內漲2.02%；行情顯示，以太坊漲至2708.77美元，過去24小時內漲2.55%。"
+    },
+    {
+      "id": "5113420",
+      "time": "2026-09-25 17:34:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：我們確實將抵押貸款利率上升納入考量。"
+    },
+    {
+      "id": "mkt:01a0d7ea-667e-7118-8698-a9b3288b1374",
+      "time": "2026-09-25 17:34:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England governor Bailey said the central bank has indeed factored in rising mortgage rates."
+    },
+    {
+      "id": "mkt:01a0d7ea-46a2-7118-8698-a65f22f22b68",
+      "time": "2026-09-25 17:34:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says envoy Kirill Dmitriev is holding talks with US negotiating counterparts during a visit to the United States, focusing on potential economic cooperation."
+    },
+    {
+      "id": "mkt:01a0d7ea-1e8f-7118-8698-9e3def3bcfb1",
+      "time": "2026-09-25 17:33:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says a trilateral meeting between the US, Russia and Ukraine could take place in the near future, but no specifics have been provided."
+    },
+    {
+      "id": "5113419",
+      "time": "2026-09-25 17:33:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示：金融環境已經收緊。"
+    },
+    {
+      "id": "mkt:01a0d7e9-f985-7118-8698-91d7f273fb6f",
+      "time": "2026-09-25 17:33:50",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor BAILEY said pass-through from energy prices to inflation is currently quite weak but remains at an early stage."
+    },
+    {
+      "id": "mkt:01a0d7e9-d886-7118-8698-8bea21923cfd",
+      "time": "2026-09-25 17:33:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said persistently high energy prices will make it increasingly difficult to maintain a no-rate-hike stance."
+    },
+    {
+      "id": "5113418",
+      "time": "2026-09-25 17:33:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示：維持當前貨幣政策立場將變得更加困難。"
+    },
+    {
+      "id": "5113417",
+      "time": "2026-09-25 17:32:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：高油價持續時間越久，維持銀行利率不加息的立場就越難。"
+    },
+    {
+      "id": "5113416",
+      "time": "2026-09-25 17:32:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：我們目前觀察到能源價格的傳導效應相當疲弱，但目前仍處於初期階段。"
+    },
+    {
+      "id": "5113413",
+      "time": "2026-09-25 17:30:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮對烏克蘭戰爭老兵當選烏克蘭議會議員表示讚賞，稱這些老兵將深度參與立法工作。"
+    },
+    {
+      "id": "5113412",
+      "time": "2026-09-25 17:30:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮批評歐盟對今日俄羅斯前高管、記者克謝尼婭·費奧多羅娃實施制裁的決定。"
+    },
+    {
+      "id": "5113411",
+      "time": "2026-09-25 17:30:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮表示，特使基里爾·德米特里耶夫正在訪美期間與美方談判代表舉行會談，重點討論潛在經濟合作相關議題。"
+    },
+    {
+      "id": "5113410",
+      "time": "2026-09-25 17:30:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，美國、俄羅斯與烏克蘭三方會談或於近期舉行，但目前尚無相關細節。"
+    },
+    {
+      "id": "5113409",
+      "time": "2026-09-25 17:29:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行行長貝利：在當前負面供給衝擊頻發的時代，人工智慧可能帶來正向衝擊。"
+    },
     {
       "id": "mkt:01a0d7e5-a56e-7118-8698-83f657d46bd2",
       "time": "2026-09-25 17:29:06",
@@ -112650,326 +112925,6 @@
         "公司"
       ],
       "text": "【京城股份：控股子公司北洋天青遭證監會立案】京城股份公告稱，公司控股子公司青島北洋天青數聯智慧有限公司收到中國證監會《立案告知書》，因北洋天青作為資產重組標的，涉嫌在重組過程中提供的資訊存在虛假記載、誤導性陳述或者重大遺漏，中國證監會決定對其立案。目前公司及北洋天青經營情況正常，公司將督促北洋天青配合相關調查工作，關注監管調查進展，履行資訊披露義務，敬請投資者注意投資風險。"
-    },
-    {
-      "id": "5101974",
-      "time": "2026-09-18 17:58:23",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【廣汽集團：籌劃重大資產重組 A股股票繼續停牌】廣汽集團公告稱，公司正在籌劃以發行股份方式購買一汽股份持有的某整車合資公司部分股權並募集配套資金，本次交易預計構成重大資產重組及關聯交易，不構成實際控制人變更、不構成重組上市，交易完成後一汽股份將成為公司第二大戰略股東。公司A股股票自2026年9月14日開市起停牌，預計停牌不超過10個交易日。截至目前本次交易尚處籌劃階段，雙方尚未簽署正式協議，尚需履行審議及監管批准程式，存在不確定性，公司A股股票將繼續停牌。"
-    },
-    {
-      "id": "5101973",
-      "time": "2026-09-18 17:57:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國內首個可輔助糖尿病治療決策的動態血糖儀獲批】9月18日，雅培宣佈，瞬感2代獲國家藥監局整合式持續葡萄糖監測系統（iCGM）批准，成為國內首個也是目前唯一獲此認證的動態血糖儀。瞬感2代早於2023年在國內獲批，身份是輔助式持續葡萄糖監測系統（CGM）。也就是，產品測量結果僅供使用者跟蹤糖值變化趨勢，不作為調整和決定治療方案的依據，資料亦無法進入臨床治療決策環節。當前按新標準獲批則意味著，其測量結果可直接用於成人糖尿病患者的治療輔助決策。截至目前，瞬感2代也是國內唯一可合規用於成人糖尿病治療輔助決策的持續葡萄糖監測系統產品。"
-    },
-    {
-      "id": "5101972",
-      "time": "2026-09-18 17:57:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓校園槍擊案死亡人數更正為3人】當地時間18日，菲律賓社會福利與發展部發文稱，根據17時的最新報告，將當天發生在南哥打巴託省的校園槍擊案的死亡人數更正為3人，另有8人受傷。（央視新聞）"
-    },
-    {
-      "id": "5101971",
-      "time": "2026-09-18 17:57:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金盃汽車：子公司摘牌收購延鋒飾件100%股權獲交易憑證】金盃汽車公告稱，子公司瀋陽金盃延鋒汽車內飾系統有限公司以公開摘牌方式受讓延鋒汽車飾件系統（瀋陽）有限公司100%股權，最終交易價格為1.12億元，已與轉讓方延鋒國際簽署產權交易合同。2026年9月18日，子公司收到上海聯合產權交易所出具的產權交易憑證，本次交易符合程式性要求。交易完成後延鋒飾件將納入公司合併報表範圍，後續還需辦理工商變更登記等手續。"
-    },
-    {
-      "id": "5101970",
-      "time": "2026-09-18 17:56:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：澤連斯基在喀爾巴阡八國峰會上宣佈簽署價值 10 億歐元的多項協議。烏克蘭總統表示：“屆時將有約 550 名商界代表參會。我們已籌備總規模 10 億歐元的投資與貿易協議。這是一個良好的開端。”"
-    },
-    {
-      "id": "5101969",
-      "time": "2026-09-18 17:54:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【洛陽鉬業：更新中期股息外籍個人股東代扣稅政策】洛陽鉬業公告稱，公司向2026年9月8日名列H股股東名冊的H股股東派發截至2026年6月30日止六個月中期股息，每10股人民幣0.95元（含稅），預計9月24日派發。根據2026年9月1日釋出的新規，外籍個人從公司取得的股息紅利所得按20%稅率繳納個人所得稅，公司支付時代扣代繳，原外籍個人相關豁免不再適用，其餘中期股息安排維持不變。"
-    },
-    {
-      "id": "5101968",
-      "time": "2026-09-18 17:54:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【新天地：鹽酸莫西沙星原料藥獲歐洲CEP證書】新天地公告稱，公司近日收到歐洲藥品質量管理局簽發的鹽酸莫西沙星原料藥的歐洲藥典適用性（CEP）證書，證書自2026年9月18日起生效。鹽酸莫西沙星為喹諾酮類抗生素，用於治療敏感病原體引發的感染性疾病。本次獲證表明歐洲規範市場對該原料藥質量的認可，標誌著該原料藥可在歐洲市場及承認CEP證書的其他規範市場銷售，對公司豐富產品、拓展國際市場有積極影響。國際原料藥業務受海外市場環境、匯率波動等影響存在不確定性，敬請投資者注意投資風險。"
-    },
-    {
-      "id": "5101967",
-      "time": "2026-09-18 17:53:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：感謝挪威透過烏克蘭援助機制向烏克蘭提供逾1億美元預算支援。"
-    },
-    {
-      "id": "5101966",
-      "time": "2026-09-18 17:53:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【娃哈哈回應虎林公司員工住房公積金問題】9月18日，娃哈哈釋出關於虎林公司員工住房公積金事宜的說明：近期，虎林公司員工住房公積金問題引發廣泛關注，我們深表歉意。保障員工合法權益是我們的責任和底線，我們誠懇接受批評，絕不推諉。公司高度重視，第一時間開展核查，依法依規推進相關補繳事宜。目前，相關款項已劃入雞西市住房公積金管理中心指定賬戶，正配合辦理逐人入賬手續，確保儘快落實到每一位員工。此次事件反映出我們對各歷史遺留問題的排查不夠徹底，後續我們將對集團員工的權益保障開展專項排查，完善相關管理流程，防止類似情況再次發生。再次向受影響的員工和社會各界致以誠摯歉意！"
-    },
-    {
-      "id": "5101965",
-      "time": "2026-09-18 17:52:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦一清真寺爆炸數十人死傷】巴基斯坦西北部開伯爾-普什圖省一座清真寺今天（9月18日）發生爆炸。當地警方稱，爆炸已造成16人死亡，此外還有數十人受傷。警方與襲擊者仍在交火中。巴基斯坦總理夏巴茲已指示當地政府加快救援行動。目前，尚無任何組織宣稱制造此次襲擊事件。（CCTV國際時訊）"
-    },
-    {
-      "id": "5101964",
-      "time": "2026-09-18 17:52:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陽普醫療：子公司採血針產品獲加拿大衛生部認證】陽普醫療公告稱，公司全資子公司廣州陽普醫療器械有限公司近日收到加拿大衛生部簽發的Ⅱ類醫療器械許可證書，涉及產品為一次性使用防針刺靜脈採血針。該產品獲得認證表明符合加拿大相關要求，具備加拿大市場準入條件，有利於提升公司產品國際競爭力，對未來經營將產生積極影響。產品實際銷售情況存在不確定性，暫無法預測對未來經營業績的具體影響。"
-    },
-    {
-      "id": "5101963",
-      "time": "2026-09-18 17:52:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度Sensex指數參考點位下跌0.54%，回吐了盤前競價階段0.33%的漲幅。"
-    },
-    {
-      "id": "5101962",
-      "time": "2026-09-18 17:51:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【克萊特：已回購73.4萬股，最高21.09元/股最低19.34元/股，支付1475.58萬元】克萊特公告，公司此前擬以3000萬元-6000萬元回購股份，回購價格不超過30元/股，回購股份將用於實施股權激勵或員工持股計劃。截至2026年9月18日，公司已回購股份73.4萬股，佔總股本的1.00%，最高成交價21.09元/股，最低成交價19.34元/股，已支付總金額1475.58萬元（不含印花稅、佣金等交易費用）。"
-    },
-    {
-      "id": "5101961",
-      "time": "2026-09-18 17:51:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局釋出2026年8月中國綠證價格指數】2026年8月，中國綠證價格指數收於202.6點（以2025年1月為基期100點），環比下降9.1%，同比下降17.0%。"
-    },
-    {
-      "id": "5101960",
-      "time": "2026-09-18 17:51:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世聯行：持股5%以上股東協議轉讓股份完成過戶】世聯行公告稱，公司持股5%以上股東世聯中國將其持有的1億股公司股份（佔總股本5.02%）透過協議轉讓方式轉給前海誠域（代表誠域聯盈5號私募證券投資基金），相關股份已於2026年9月17日完成過戶登記。過戶完成後，誠域聯盈5號私募證券投資基金持有公司5.02%股份，成為持股5%以上股東；世聯中國持股比例降至25.25%。本次轉讓總價款為2.08億元，世聯中國已於2026年8月31日收到第一期轉讓款1.04億元。"
-    },
-    {
-      "id": "5101959",
-      "time": "2026-09-18 17:49:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元升至兩週高位158.05日元。"
-    },
-    {
-      "id": "5101958",
-      "time": "2026-09-18 17:49:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【26電投綠能K2：完成發行6億元科技創新公司債券】26電投綠能K2公告稱，公司2026年面向專業機構投資者公開發行科技創新公司債券（第二期）完成發行，最終發行規模6.00億元，期限3年期，票面利率1.58%，認購倍數4.47倍。本期債券採用網下詢價配售方式，網下實際發行6億元，佔發行規模100%；公司董事、高管、持股5%以上股東及關聯方未參與認購；承銷機構及其關聯方合計獲配4.70億元，認購報價公允、程式合規。公司已為本期債券設立募集資金專項賬戶。"
-    },
-    {
-      "id": "5101957",
-      "time": "2026-09-18 17:49:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華為釋出“SCALE”夥伴支援體系，高階副總裁陳雷：推動更多成功經驗走向規模化落地】在華為全聯接大會2026期間，華為公司高階副總裁、企業銷售總裁陳雷發表了“攜手夥伴，讓AI惠及千行百業”的主題演講，分享了華為關於智慧化從標杆走向千行百業的最新思考與實踐，併發布“SCALE”夥伴支援體系，助力夥伴推動客戶智慧化從單點實踐走向規模化落地。（新浪科技）"
-    },
-    {
-      "id": "5101956",
-      "time": "2026-09-18 17:48:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同洲電子：重大侵權責任訴訟處於一審立案階段】同洲電子公告稱，公司作為原告，就共青城獵龍科技發展有限公司投資中的侵權責任糾紛，向江西省九江市中級人民法院提起訴訟，涉案金額包含1.5億元投資款及利息7052.40萬元，合計2.21億元。目前案件處於一審立案階段，公司已聘請專業律師推進訴訟，主張的事實和理由能否得到法院支援存在不確定性，尚未開庭審理，對公司本期及期後利潤的影響存在不確定性。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202609183878681656",
-      "time": "2026-09-18 17:47:01",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【摩根大通預計歐洲央行將在12月加息後於2027年3月再加息25個基點】摩根大通預計歐洲央行將在12月加息後，於2027年3月再加息25個基點，而此前預測為2027年利率維持不變。"
-    },
-    {
-      "id": "5101955",
-      "time": "2026-09-18 17:46:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：美國不能透過退出人權理事會來逃避自身責任。"
-    },
-    {
-      "id": "5101954",
-      "time": "2026-09-18 17:46:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銀座股份：子公司續簽物業租賃合同 構成關聯交易】銀座股份公告稱，公司子公司威海宏圖貿易有限公司與威海幸福家居有限公司續簽《租賃合同》，將位於威海市世昌大道1號、建築面積68354平方米的自有房產出租給對方用於商業經營，租賃期限自2027年1月1日至2029年12月31日，採取固定+浮動的租賃費用計算方式，其中固定租金含稅350萬元/年，浮動部分按承租方對應經營主體利潤總額4:6分成。本次交易構成關聯交易，未構成重大資產重組，無需提交股東會審議。"
-    },
-    {
-      "id": "5101953",
-      "time": "2026-09-18 17:46:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Anthropic與OpenAI尋求小型資料中心交易】據知情人士，Anthropic和OpenAI正尋求規模較小的人工智慧資料中心交易，以加快算力部署。兩家公司過去一年已簽署多項數百兆瓦乃至吉瓦級大型資料中心協議，目前還在尋求20至30兆瓦規模的算力專案。訊息人士稱，Anthropic已在英國及北歐地區接洽相關合作，OpenAI也在北歐探索類似機會，雙方同時就美國市場的同等規模專案進行洽談。業內人士表示，小型算力專案的優勢在於可更快獲得可用容量，尤其適合分散式推理工作負載。相比大模型訓練需要大量晶片緊密協同，AI推理可分散至多個較小叢集。隨著人工智慧應用加速落地，資料中心算力需求正逐步由訓練向推理傾斜。JLL預計，到2027年，全球資料中心用於AI推理的容量佔比將超過訓練。"
-    },
-    {
-      "id": "5101952",
-      "time": "2026-09-18 17:45:58",
-      "tags": [
-        "觀點",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "摩根大通預計，歐洲央行在12月加息後，將於2027年3月再次加息25個基點，此前該行預測歐洲央行2027年利率維持不變。"
-    },
-    {
-      "id": "5101951",
-      "time": "2026-09-18 17:45:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元USD/JPY向上觸及158，日內漲1.33%。"
-    },
-    {
-      "id": "5101950",
-      "time": "2026-09-18 17:45:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京產權交易所掛牌北京金融法院執行資產】記者9月18日從北京產權交易所獲悉，北京金融法院正在透過北京產權交易所網路司法拍賣平臺進行執行資產公開拍賣，上拍專案標的分別為：重慶市江北區海爾路407號附1號至附20號、附22號至附30號；重慶市江北區海爾路601號；重慶市江北區海爾路407號附21號；重慶市江北區海爾路603號。"
-    },
-    {
-      "id": "5101949",
-      "time": "2026-09-18 17:45:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昊海生物科技：9月18日回購6.7萬股H股股份】昊海生物科技公告稱，公司於2026年9月18日透過香港聯交所回購6.7萬股H股股份，每股回購價15.2港元，回購總金額101.84萬港元，所回購股份擬全部登出。本次回購股份佔回購授權決議透過日已發行H股總數的0.0298%。截至2026年9月18日，公司累計透過回購授權回購H股89.88萬股，佔授權可回購總數的2.5842%，回購後新股發行及庫存股處置暫止期至2026年10月18日。"
-    },
-    {
-      "id": "5101948",
-      "time": "2026-09-18 17:45:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【達夢資料：正在研究推進AI for DB與DB for AI技術】達夢資料近日接受機構調研時表示，AI需求的持續爆發，為資料庫行業帶來了全面的變化，對資料廠商而言，既是機遇也是挑戰。在產品研發方面，公司正在研究推進AI for DB（利用AI最佳化資料庫）與DB for AI（資料庫內建AI能力）兩項技術，前者透過機器學習實現智慧運維、SQL最佳化、自動索引推薦與故障自愈；後者讓資料庫原生支援向量檢索、多模資料處理，為AI應用提供資料底座。在生態建設方面，公司持續深化與產業鏈上下游的協同適配，積極構建開放共贏的資料庫生態體系，以更好地服務AI時代的多元化應用需求。"
-    },
-    {
-      "id": "5101945",
-      "time": "2026-09-18 17:44:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛在嗶哩嗶哩<9626.HK>的淡倉持倉比例於9月15日降至2.65%，此前為3.66%。"
-    },
-    {
-      "id": "5101944",
-      "time": "2026-09-18 17:44:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金力永磁：擬增資子公司並參與投資產業基金】金力永磁公告稱，公司擬以自有資金向全資子公司金力寧波投資增資不超過3000萬元，增資完成後其註冊資本由3.50億元增至3.80億元，公司仍持股100%。公司將透過金力寧波投資以本次增資款及自有資金參與投資嘉興金磁智鏈創業投資合夥企業（有限合夥），認購份額5500萬元，佔該基金首次募集認繳規模的43.62%。該基金首次募集認繳規模1.26億元，最終募集規模不超過5億元，主要投資新一代資訊科技、高科技製造行業，執行事務合夥人為建銀創信投資基金管理（北京）有限公司。本次投資不構成關聯交易及重大資產重組，基金募集及投資效益存在不確定性，敬請投資者注意風險。"
-    },
-    {
-      "id": "5101943",
-      "time": "2026-09-18 17:44:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞通股份：全資子公司擬2000萬元設崑山亞申】亞通股份公告稱，公司全資子公司上海亞申數維新能源發展有限公司擬以自有現金出資2000萬元，獨資設立崑山亞申數維綜合能源有限公司（暫定名），佔其註冊資本100%。本次交易已經公司董事會審議透過，無需提交股東會批准，尚需取得國有資產監督管理部門批准，不涉及關聯交易，不構成重大資產重組。"
-    },
-    {
-      "id": "5101942",
-      "time": "2026-09-18 17:44:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【奇安信聯合華為昇騰釋出智慧體安全聯合解決方案】9月17日，華為全聯接大會2026開幕。大會期間，奇安信攜手華為昇騰正式釋出智慧體（Agent）安全聯合解決方案，旨在為政企客戶提供兼顧效能與合規的AI安全底座，護航智慧體從實驗室走向生產系統。"
-    },
-    {
-      "id": "5101941",
-      "time": "2026-09-18 17:44:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "港交所檔案顯示：騰訊於9月18日回購23.7萬股，耗資1.005億港元。"
-    },
-    {
-      "id": "5101940",
-      "time": "2026-09-18 17:43:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智譜推出GLM-5.3-FlashX】9月18日，智譜正式推出GLM-5.3-FlashX，最高生成速度可達200tokens/s。目前，GLM-5.3-FlashX API已正式上線，Model Key為“GLM-5.3-FlashX”。"
-    },
-    {
-      "id": "5101939",
-      "time": "2026-09-18 17:43:29",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛在嗶哩嗶哩<9626.HK>的多頭持倉於9月15日從9.11%降至8.10%。"
-    },
-    {
-      "id": "5101938",
-      "time": "2026-09-18 17:43:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農業部長表示，2025/26榨季烏克蘭葵花籽產量為430萬噸，出口量為400萬噸。"
-    },
-    {
-      "id": "5101937",
-      "time": "2026-09-18 17:42:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國國債下跌，短端領跌；兩年期收益率上行 5 個基點，報 3.28%。"
-    },
-    {
-      "id": "5101936",
-      "time": "2026-09-18 17:42:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貝萊德基金獲批QDII資格】近日，貝萊德基金獲批合格境內機構投資者（QDII）資格。貝萊德基金總經理鬱蓓華表示：“QDII資格的獲批，是我們在華業務發展的又一個重要里程碑。未來，我們將進一步發揮全球平臺與本土團隊的協同優勢，立足中國、連線全球，為中國投資者提供更加多元的投資選擇和資產配置解決方案，助力實現長期投資目標。”"
-    },
-    {
-      "id": "5101935",
-      "time": "2026-09-18 17:42:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海辰藥業：擬收購安慶匯辰25%股權 實現全資控股】海辰藥業公告稱，公司擬以6450.83萬元收購顧玉琴、錢德民、陸士平合計持有的控股子公司安慶匯辰10%股權，以0元收購蔣金元持有的安慶匯辰15%股權，同時承接蔣金元對應7500萬元未實繳出資義務。本次收購完成後，公司對安慶匯辰持股比例將由75%升至100%，安慶匯辰將成為公司全資子公司。本次交易不構成重大資產重組，無需提交股東會審議，尚需辦理工商變更登記。"
     }
   ]
 }

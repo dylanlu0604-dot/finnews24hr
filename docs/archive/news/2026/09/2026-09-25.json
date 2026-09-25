@@ -1,7 +1,282 @@
 {
   "date": "2026-09-25",
-  "count": 1276,
+  "count": 1305,
   "items": [
+    {
+      "id": "5113427",
+      "time": "2026-09-25 17:44:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行行長施萊格爾：不能等到第二輪通脹效應的全部證據顯現。今年仍有可能降息，具體取決於外部環境以及可信的赤字削減路徑。"
+    },
+    {
+      "id": "te:markets:586881",
+      "time": "2026-09-25 17:44:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Edge Lower But Remain at Multi-Year Highs — The yield on the 10-year US Treasury note fell to 5.17% on Friday, following a sharp sell-off over the previous three sessions that pushed the benchmark yield up 23bps to around 5.20%. A decline in oil prices, amid signs that US and Iranian negotiators may be exploring a phased agreement to reopen the Strait of Hormuz, provided some relief to the bond market. Despite the modest pullback, borrowing costs remain at 2007 highs, as markets continue to price in expectations that the Federal Reserve will need to tighten monetary policy further. The odds of another 25bps rate hike at the Fed’s next meeting currently stand at around 70%, while swaps are pricing in three additional quarter-point rate increases over the next year. Strong economic activity and concerns over the fiscal outlook have also weighed on Treasuries. While demand at Tuesday’s 2-year Treasury auction was robust, the 5-year Treasury auction drew unexpectedly weak demand."
+    },
+    {
+      "id": "mkt:01a0d7f2-fd8c-7118-8698-d020a7f81d2f",
+      "time": "2026-09-25 17:43:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Williams said persistent supply shocks cannot be ignored."
+    },
+    {
+      "id": "5113426",
+      "time": "2026-09-25 17:42:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員威廉姆斯表示：不能無視持續的供給衝擊。"
+    },
+    {
+      "id": "mkt:01a0d7f1-adc8-7118-8698-ce91da13c938",
+      "time": "2026-09-25 17:42:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank chairman Schlegel said a rate cut this year remains possible, conditional on the external environment and a credible path to deficit reduction."
+    },
+    {
+      "id": "te:economy:586879",
+      "time": "2026-09-25 17:42:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Namibia",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Namibia GDP Growth Picks Up in Q2 — Namibia's annual economic growth accelerated to 4.8% in Q2 2026, its strongest pace since Q1 2024, from the revised 3.1% in the prior period. Tertiary industries remained the main engine of growth, expanding 6.1%, with notable gains in health (17.6%), wholesale and retail trade (9%), and information and communication (8.2%). Primary industries advanced 3%, supported by agriculture and forestry (17.8%) and fishing (2.8%). The crop subsector grew 28.5% on higher maize and millet production, supported by favorable rainfall, while fishing activity benefited from increased fish landings. Meanwhile, secondary industries rose 0.8%, driven by a 3.9% growth in manufacturing. Diamond cutting and polishing surged 76.5%, while leather and leather products (32.9%), paper products, publishing and printing (12.9%), dairy products (12.6%), and meat processing (8.0%) also increased significantly. Conversely, mining contracted 3.1%, reflecting declines in uranium, diamond and metal ore mining."
+    },
+    {
+      "id": "mkt:01a0d7f1-90e6-7118-8698-c381c25a62d8",
+      "time": "2026-09-25 17:42:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Swiss National Bank Chair Schlegel said the bank cannot wait for full evidence of second-round inflation effects to emerge."
+    },
+    {
+      "id": "mkt:01a0d7ed-f064-7118-8698-bdc9a2bca7c1",
+      "time": "2026-09-25 17:38:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Swiss National Bank Chairman Schlegel said inflationary pressure is slightly higher than in June."
+    },
+    {
+      "id": "mkt:01a0d7ed-e6aa-7118-8698-b42f6a61ab79",
+      "time": "2026-09-25 17:38:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank Chairman Schlegel said Swiss inflation rises were mainly driven by gasoline products."
+    },
+    {
+      "id": "5113424",
+      "time": "2026-09-25 17:37:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行行長：預計未來幾個季度瑞士經濟將保持溫和增長。瑞士通脹上升主要由於汽油產品。通脹壓力略高於6月份。"
+    },
+    {
+      "id": "5113423",
+      "time": "2026-09-25 17:35:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示：不能等到第二輪通脹效應的全部證據顯現。"
+    },
+    {
+      "id": "te:economy:586878",
+      "time": "2026-09-25 17:35:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Business Confidence",
+        "Importance 0"
+      ],
+      "text": "Philippines Business Confidence Less Pessimistic in August — The Business Confidence Index in the Philippines improved to -10.9 in August 2026 from -20.3 in July, as firms became less pessimistic, with the improvement attributed mainly to higher demand for goods and services. Current-month indicators strengthened, with business activity rising to 7.0 from -0.1, total orders to 12.4 from -0.7, and financial conditions improving to -24.9 from -31.4. Meanwhile, access to credit was slightly tighter at -7.2 from -7.0, while average capacity utilization increased marginally to 69.0% from 68.6%. Three-month confidence rose to 24.6 from 3.7, while 12-month confidence increased to 36.4 from 29.4. Firms also raised expectations for business activity and hiring over the next three months and 12 months, although the share of firms planning to expand operations over the next 12 months declined to 17.1% from 20.8%. Year-ahead inflation expectations eased to 5.4% from 5.6%, but remained above the Bangko Sentral ng Pilipinas’ 4.0% upper bound."
+    },
+    {
+      "id": "5113422",
+      "time": "2026-09-25 17:34:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行庫拉利：今年仍有可能降息，具體取決於外部環境以及可信的赤字削減路徑。"
+    },
+    {
+      "id": "5113421",
+      "time": "2026-09-25 17:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【以太坊漲至2700美元上方 過去24小時超漲2%】行情顯示，比特幣漲至84709.7美元，過去24小時內漲2.02%；行情顯示，以太坊漲至2708.77美元，過去24小時內漲2.55%。"
+    },
+    {
+      "id": "mkt:01a0d7ea-667e-7118-8698-a9b3288b1374",
+      "time": "2026-09-25 17:34:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England governor Bailey said the central bank has indeed factored in rising mortgage rates."
+    },
+    {
+      "id": "5113420",
+      "time": "2026-09-25 17:34:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：我們確實將抵押貸款利率上升納入考量。"
+    },
+    {
+      "id": "mkt:01a0d7ea-46a2-7118-8698-a65f22f22b68",
+      "time": "2026-09-25 17:34:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says envoy Kirill Dmitriev is holding talks with US negotiating counterparts during a visit to the United States, focusing on potential economic cooperation."
+    },
+    {
+      "id": "mkt:01a0d7ea-1e8f-7118-8698-9e3def3bcfb1",
+      "time": "2026-09-25 17:33:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says a trilateral meeting between the US, Russia and Ukraine could take place in the near future, but no specifics have been provided."
+    },
+    {
+      "id": "5113419",
+      "time": "2026-09-25 17:33:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示：金融環境已經收緊。"
+    },
+    {
+      "id": "mkt:01a0d7e9-f985-7118-8698-91d7f273fb6f",
+      "time": "2026-09-25 17:33:50",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England Governor BAILEY said pass-through from energy prices to inflation is currently quite weak but remains at an early stage."
+    },
+    {
+      "id": "mkt:01a0d7e9-d886-7118-8698-8bea21923cfd",
+      "time": "2026-09-25 17:33:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Governor Bailey said persistently high energy prices will make it increasingly difficult to maintain a no-rate-hike stance."
+    },
+    {
+      "id": "5113418",
+      "time": "2026-09-25 17:33:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利表示：維持當前貨幣政策立場將變得更加困難。"
+    },
+    {
+      "id": "5113417",
+      "time": "2026-09-25 17:32:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：高油價持續時間越久，維持銀行利率不加息的立場就越難。"
+    },
+    {
+      "id": "5113416",
+      "time": "2026-09-25 17:32:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貝利：我們目前觀察到能源價格的傳導效應相當疲弱，但目前仍處於初期階段。"
+    },
+    {
+      "id": "5113413",
+      "time": "2026-09-25 17:30:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮對烏克蘭戰爭老兵當選烏克蘭議會議員表示讚賞，稱這些老兵將深度參與立法工作。"
+    },
+    {
+      "id": "5113412",
+      "time": "2026-09-25 17:30:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮批評歐盟對今日俄羅斯前高管、記者克謝尼婭·費奧多羅娃實施制裁的決定。"
+    },
+    {
+      "id": "5113411",
+      "time": "2026-09-25 17:30:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮表示，特使基里爾·德米特里耶夫正在訪美期間與美方談判代表舉行會談，重點討論潛在經濟合作相關議題。"
+    },
+    {
+      "id": "5113410",
+      "time": "2026-09-25 17:30:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，美國、俄羅斯與烏克蘭三方會談或於近期舉行，但目前尚無相關細節。"
+    },
+    {
+      "id": "5113409",
+      "time": "2026-09-25 17:29:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行行長貝利：在當前負面供給衝擊頻發的時代，人工智慧可能帶來正向衝擊。"
+    },
     {
       "id": "mkt:01a0d7e5-a56e-7118-8698-83f657d46bd2",
       "time": "2026-09-25 17:29:06",
