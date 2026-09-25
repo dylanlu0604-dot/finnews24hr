@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-25 19:45:37",
-  "count": 12289,
+  "updated": "2026-09-25 19:49:21",
+  "count": 12286,
   "items": [
+    {
+      "id": "5113545",
+      "time": "2026-09-25 19:48:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "MILLENNIUM新募資吸引300億美元客戶需求。"
+    },
+    {
+      "id": "mkt:01a0d863-ca3a-7118-869a-90aa2a954235",
+      "time": "2026-09-25 19:46:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military says the 98th Division has completed operational preparations and assumed command of two brigades in the West Bank."
+    },
+    {
+      "id": "5113544",
+      "time": "2026-09-25 19:46:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE阿拉比卡咖啡 <KCc2> 上漲逾3%，至每磅2.7600美元。"
+    },
+    {
+      "id": "mkt:01a0d863-7f54-7118-869a-88bd714382e3",
+      "time": "2026-09-25 19:46:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Hurricane Bolo has regained Category 5 intensity."
+    },
+    {
+      "id": "5113543",
+      "time": "2026-09-25 19:45:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cipher Digital：將Barber Lake資料中心租約延長至20年。"
+    },
+    {
+      "id": "5113542",
+      "time": "2026-09-25 19:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：波洛恢復五級颶風狀態。"
+    },
     {
       "id": "mkt:01a0d861-3094-7118-869a-803c261c9c2f",
       "time": "2026-09-25 19:44:03",
@@ -111706,88 +111754,6 @@
         "國際"
       ],
       "text": "澤連斯基：兩家企業研發的噴氣式沙希德無人機攔截裝置已順利透過實戰測試。敵方高速飛行的沙希德無人機被成功摧毀。這是一項重大進展。但我們希望拿到全部測試資料，研究如何儘可能加快進度、擴大至量產。我們正與這兩家企業磋商，相關合同已在簽署。"
-    },
-    {
-      "id": "mkt:01a0b459-2d98-7118-8601-44ccbbd966ba",
-      "time": "2026-09-18 19:48:58",
-      "tags": [
-        "MKT News",
-        "TEF.MC",
-        "Impact bearish"
-      ],
-      "text": "Telefonica shares extended losses, down 4.2%, leading IBEX 35 constituents and on track for the largest one-day drop since March 3."
-    },
-    {
-      "id": "mkt:01a0b458-b4b7-7118-8601-3de86b9fe465",
-      "time": "2026-09-18 19:48:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Fitch says Romania's prolonged political crisis may affect its sovereign credit rating."
-    },
-    {
-      "id": "5102222",
-      "time": "2026-09-18 19:48:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "西班牙電信公司股價延續跌勢，目前跌幅已達4.2%，位居IBEX 35指數成分股跌幅榜末位，該股正處於3月3日以來表現最差的單日行情中。"
-    },
-    {
-      "id": "5102221",
-      "time": "2026-09-18 19:48:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗前駐黎巴嫩大使穆傑塔巴·阿馬尼釋出了一張照片，記錄兩年前以色列尋呼機襲擊事件後，他在醫院會見伊朗伊斯蘭革命領袖阿亞圖拉·賽義德·穆傑塔巴·哈梅內伊的場景。"
-    },
-    {
-      "id": "5102220",
-      "time": "2026-09-18 19:47:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【湖北通報長江武漢段傾倒淤泥事件】就網民反映的長江武漢段天興洲附近水域有船隻傾倒黑色泥狀物有關問題，湖北省和武漢市聯合調查組18日公佈調查處理結果。經查，傾倒物為航道清淤疏浚產生的淤泥，屬於“其他固體廢物”，具有汙染特性；拋泥區周邊水域及下游取水點水質均符合地表水Ⅱ類標準；涉事企業因違法傾倒固體廢物被立案查處，11名相關責任人被追責。 （新華社）"
-    },
-    {
-      "id": "5102219",
-      "time": "2026-09-18 19:47:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽表示，一份可信的2027年預算是羅馬尼亞評級的關鍵。"
-    },
-    {
-      "id": "5102218",
-      "time": "2026-09-18 19:47:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽稱羅馬尼亞持續的政治危機對評級構成風險。"
-    },
-    {
-      "id": "mkt:01a0b456-f1d0-7118-8601-31b6b2d12f05",
-      "time": "2026-09-18 19:46:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China energy regulator deputy attends 2026 G20 energy ministers' meeting in Houston】Sept. 14-16 — National Energy Administration Deputy Director Wang Jianbo attended and spoke at the 2026 G20 Energy Ministers' meeting in Houston. China urged respect for natural resource sovereignty and for countries' autonomous choice of energy development models, and called for open, fair, non-discriminatory cooperation to protect global energy industry and supply‑chain stability. The meeting adopted a G20 Energy Resilience Working Group communiqué on critical minerals. China held exchanges with the UK and other delegations."
-    },
-    {
-      "id": "mkt:01a0b456-7ce2-7118-8601-2e9e230a8dc5",
-      "time": "2026-09-18 19:46:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European equities extended intraday losses: STOXX Europe 50, Germany's DAX, France's CAC 40 and Italy's FTSE MIB fell over 1%; the UK's FTSE 100 dropped 0.9%."
     }
   ]
 }
