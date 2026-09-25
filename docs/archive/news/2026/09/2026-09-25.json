@@ -1,7 +1,63 @@
 {
   "date": "2026-09-25",
-  "count": 1530,
+  "count": 1536,
   "items": [
+    {
+      "id": "mkt:01a0d877-165c-7118-869b-0ac11582ac59",
+      "time": "2026-09-25 20:07:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said there have been no specific negotiations on Black Sea security."
+    },
+    {
+      "id": "5113570",
+      "time": "2026-09-25 20:07:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮表示，未就黑海安全問題進行具體談判。"
+    },
+    {
+      "id": "5113569",
+      "time": "2026-09-25 20:07:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "萊斯利公司股價盤前下跌14.5%，報0.29美元，此前有報道稱該公司正準備申請第11章破產保護。"
+    },
+    {
+      "id": "5113568",
+      "time": "2026-09-25 20:06:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長表示，俄羅斯下午對基輔發動的無人機襲擊造成三人死亡。"
+    },
+    {
+      "id": "mkt:01a0d875-ae53-7118-869b-02f6a0074b7f",
+      "time": "2026-09-25 20:06:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "GBPUSD"
+      ],
+      "text": "Russia said it will not rush to appoint ambassadors to the UK and France, citing its relations with London and Paris."
+    },
+    {
+      "id": "5113567",
+      "time": "2026-09-25 20:05:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯表示，鑑於與英國和法國的關係，不會急於向倫敦和巴黎任命大使。"
+    },
     {
       "id": "5113566",
       "time": "2026-09-25 20:03:46",
