@@ -1,7 +1,30 @@
 {
   "date": "2026-09-26",
-  "count": 44,
+  "count": 46,
   "items": [
+    {
+      "id": "mkt:01a0d970-5fb3-7118-869f-72792b3a5981",
+      "time": "2026-09-26 00:40:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "FTC chair said she will continue to resist 'anthropomorphizing' AI agents while she serves as chair."
+    },
+    {
+      "id": "mkt:01a0d96e-8134-7118-869f-6a45091397b9",
+      "time": "2026-09-26 00:38:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says no concession on nuclear issue; Strait of Hormuz reopening depends on US meeting conditions】A senior Iranian official told Refinitiv that even if the US accepts Iran's plan to reopen the Strait of Hormuz, Iran will not make concessions on its nuclear program and the strait will remain closed until the US meets \"all conditions.\" Foreign Minister Araghchi earlier outlined a seven-day proposal that would require an end to hostilities in multiple regions, lifting of the US maritime blockade on Iranian ports, release of frozen assets and removal of oil sanctions in exchange for reopening the waterway."
+    },
     {
       "id": "5113773",
       "time": "2026-09-26 00:37:58",

@@ -1,7 +1,30 @@
 {
-  "updated": "2026-09-26 00:38:31",
-  "count": 12090,
+  "updated": "2026-09-26 00:42:22",
+  "count": 12084,
   "items": [
+    {
+      "id": "mkt:01a0d970-5fb3-7118-869f-72792b3a5981",
+      "time": "2026-09-26 00:40:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "FTC chair said she will continue to resist 'anthropomorphizing' AI agents while she serves as chair."
+    },
+    {
+      "id": "mkt:01a0d96e-8134-7118-869f-6a45091397b9",
+      "time": "2026-09-26 00:38:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says no concession on nuclear issue; Strait of Hormuz reopening depends on US meeting conditions】A senior Iranian official told Refinitiv that even if the US accepts Iran's plan to reopen the Strait of Hormuz, Iran will not make concessions on its nuclear program and the strait will remain closed until the US meets \"all conditions.\" Foreign Minister Araghchi earlier outlined a seven-day proposal that would require an end to hostilities in multiple regions, lifting of the US maritime blockade on Iranian ports, release of frozen assets and removal of oil sanctions in exchange for reopening the waterway."
+    },
     {
       "id": "5113773",
       "time": "2026-09-26 00:37:58",
@@ -110038,80 +110061,6 @@
         "美聯儲"
       ],
       "text": "美聯儲施密德稱，美國經濟強勁，持續增長；正處於一個相當正常化的狀態。"
-    },
-    {
-      "id": "mkt:01a0b563-43cb-7118-8608-a96b4483926c",
-      "time": "2026-09-19 00:39:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed's Schmid said we are in a fairly normalized state."
-    },
-    {
-      "id": "mkt:01a0b562-d29e-7118-8608-a64b63144a00",
-      "time": "2026-09-19 00:39:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Fed official Schmid said the economy is strong and continuing to grow."
-    },
-    {
-      "id": "5102616",
-      "time": "2026-09-19 00:39:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局宣告稱，華盛頓擬建的特朗普凱旋門不會對航空器構成安全隱患。"
-    },
-    {
-      "id": "5102615",
-      "time": "2026-09-19 00:39:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：經濟強勁且保持增長。"
-    },
-    {
-      "id": "mkt:01a0b562-b7f0-7118-8608-9a445d2073fd",
-      "time": "2026-09-19 00:39:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FAA said the proposed Trump triumphal arch in Washington will not pose a safety risk to aircraft."
-    },
-    {
-      "id": "5102614",
-      "time": "2026-09-19 00:38:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：我們目前處於相當正常化的狀態。"
-    },
-    {
-      "id": "mkt:01a0b562-4c2d-7118-8608-926574228098",
-      "time": "2026-09-19 00:38:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Schmid said former Fed chair Powell's style differs from Fed chair Kevin Warsh's in how he convenes meetings, communicates with the board and interacts with Congress."
-    },
-    {
-      "id": "5102613",
-      "time": "2026-09-19 00:38:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：在主持會議、對接理事會以及國會方面，鮑威爾的行事風格與沃什有所不同。"
     }
   ]
 }
