@@ -1,7 +1,223 @@
 {
-  "updated": "2026-09-25 14:56:46",
-  "count": 12357,
+  "updated": "2026-09-25 15:13:37",
+  "count": 12277,
   "items": [
+    {
+      "id": "mkt:01a0d75d-49f5-7118-8696-362a78709226",
+      "time": "2026-09-25 15:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain Q2 final annualised GDP 2.6% YoY, vs 2.7% expected and prior 2.7%."
+    },
+    {
+      "id": "mkt:01a0d75d-430a-7118-8696-2847200e8ea4",
+      "time": "2026-09-25 15:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain Q2 GDP final QoQ +0.7% (expected +0.7%; prior +0.7%)."
+    },
+    {
+      "id": "mkt:01a0d75d-2313-7118-8696-23c18a767982",
+      "time": "2026-09-25 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Final Quarterly GDP (Q2) | actual 0.7% | consensus 0.70% | previous 0.70%"
+    },
+    {
+      "id": "mkt:01a0d75d-230e-7118-8696-1eb34af206e2",
+      "time": "2026-09-25 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | GDP Final (YoY) (Q2) | actual 2.6% | consensus 2.70% | previous 2.70%"
+    },
+    {
+      "id": "te:markets:586811",
+      "time": "2026-09-25 14:59:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Gain as Oil, Yields Retreat — The Nikkei 225 Index rose 1.3% to close at 66,364 on Friday, extending its winning streak to five sessions as oil prices retreated and the global bond selloff eased, offering some relief to equities. Oil prices declined on reports that the US and Iran were exploring a phased agreement that could reopen the Strait of Hormuz and lift a US blockade on Iranian ports. Global bond yields also stabilized after a sharp two-day rally, while Japan’s 10-year government bond yield pulled back slightly from its highest level since 1996. Elsewhere, Presidents Donald Trump and Xi Jinping concluded their bilateral talks in Washington, with Trump describing the meeting as “great.” Technology stocks led the gains, with Kioxia Holdings rising 2.2%, Advantest gaining 2.8% and Ibiden Co advancing 4.2%. Financial stocks also outperformed, including Mitsubishi UFJ, up 4%, Sumitomo Mitsui, up 3.6%, and Mizuho Financial, up 4.2%."
+    },
+    {
+      "id": "mkt:01a0d75c-0e8d-7118-8696-149f4d4e4ba0",
+      "time": "2026-09-25 14:58:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran official rebukes Netanyahu UN speech, says history will judge his war and occupation】Kazem Gharibabadi, Iran’s deputy foreign minister for legal and international affairs, posted that Netanyahu turned the UN General Assembly podium into a platform to glorify war and aggression. He said 77 delegations walked out — a stronger statement than any speech — and that the world will not be deceived by fabricated narratives; history will ultimately judge crimes, occupation and aggression rather than New York publicity."
+    },
+    {
+      "id": "5113175",
+      "time": "2026-09-25 14:58:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本交易所集團（JPX）執行長：應尊重日本金融廳（FSA）對槓桿ETF的觀點。"
+    },
+    {
+      "id": "mkt:01a0d75a-c450-7118-8696-0c2a8783b3ca",
+      "time": "2026-09-25 14:57:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Advanced autonomous driving penetration accelerating, supply chain to benefit】CITIC Securities cites FirstEV data showing urban NOA penetration in China’s passenger car market rose to 20.9% in H1 2026. The firm says this is driving sharp shipment growth for mid-to-high‑compute automated‑driving chips, urban NOA software, lidar and driving domain controllers, with leading suppliers reporting sizable revenue increases. Separately, L4 commercialization is accelerating; several companies have already demonstrated positive economics in flagship projects and are pushing asset‑light business models and global rollouts. CITIC expects the automotive intelligentization supply chain to further advance R&D and product launches in H2 2026, supporting continued sector gains."
+    },
+    {
+      "id": "5113174",
+      "time": "2026-09-25 14:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡聯大發言引發會場激烈對立】內塔尼亞胡24日在時長約40分鐘的演講中闡述了以色列在七條戰線開展行動的情況，包括2月底對伊朗發動的軍事打擊；並現場展示一些物品，比如關聯黎巴嫩真主黨集體遇襲事件的傳呼機、“星鏈”衛星網際網路接收器。內塔尼亞胡甫一開口，會場內就上演了各方激烈對立的一幕：數十名代表退場以示抗議，部分人發出噓聲；旁聽席的支持者起立鼓掌，用希伯來語高呼口號聲援；會議主席則高聲維持秩序。（新華社）"
+    },
+    {
+      "id": "te:economy:586810",
+      "time": "2026-09-25 14:55:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Hungary Current Account Swings to Deficit — Hungary's current account swung to a EUR 0.25 billion deficit in the second quarter of 2026 from a EUR 1.4 billion surplus a year earlier, marking its first shortfall since the third quarter of 2023. The deterioration was driven by a wider goods trade deficit, which increased to EUR 0.93 billion from EUR 0.27 billion, while the primary income deficit widened to EUR 1.7 billion from EUR 1.6 billion. Additionally, the secondary income balance shifted to a EUR 0.64 billion deficit from a EUR 0.37 billion surplus in the same period last year. In contrast, the services surplus expanded to EUR 3.1 billion from EUR 2.9 billion."
+    },
+    {
+      "id": "5113173",
+      "time": "2026-09-25 14:53:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果與高通續簽專利協議】蘋果正在減少對高通基帶晶片的依賴，但雙方的專利關係仍在延續。當地時間9月24日，高通宣佈與蘋果續簽全球專利許可協議，新協議將於2027年4月1日起生效。高通並沒有披露新協議的期限、費率及其他財務條款。這份簡短宣告之所以受到關注，在於蘋果正在推進基帶晶片自研。值得注意的是，此次高通公佈的則是專利許可協議續簽，並未提及新的晶片供應安排。但放在蘋果推進基帶晶片自研的背景下，雙方合作的重心正在從晶片供應進一步轉向專利許可。高通此前也公開承認，蘋果減少採購其晶片將對其晶片業務造成影響。今年7月，高通預計蘋果相關收入的下降將加快，並計劃透過汽車、資料中心等非手機業務的增長，部分彌補蘋果業務減少帶來的影響。"
+    },
+    {
+      "id": "5113172",
+      "time": "2026-09-25 14:52:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀下調任天堂評級至“賣出”，目標價為5500日元。"
+    },
+    {
+      "id": "mkt:01a0d755-48b0-7118-8696-0663505f96aa",
+      "time": "2026-09-25 14:51:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's Defense Ministry said the chief of the general staff will travel to Saudi Arabia to attend a meeting on the Mecca defense pact with Saudi Arabia and Pakistan."
+    },
+    {
+      "id": "5113171",
+      "time": "2026-09-25 14:48:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【通航滿一週 平陸運河全線執行平穩有序】記者從廣西交通運輸廳瞭解到，9月23日，平陸運河通航滿一週。通航首周，運河船舶過閘順暢，全線執行平穩有序，貨運航線雙向啟航，水上客運首發火爆。廣西水運江河海一體化智慧排程平臺自8月25日上線以來，截至9月20日，註冊使用者已達1.8萬人，完成船舶過閘排程2.1萬艘次，日均排程量1000多艘次。（央視新聞）"
+    },
+    {
+      "id": "5113170",
+      "time": "2026-09-25 14:48:35",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：展望2026年下半年，產業鏈各環節料將進一步推進技術研發和產品投放，汽車智慧化產業鏈有望受益】中信證券研報指出，根據第一電動汽車網資料，2026年上半年城市NOA在國內乘用車市場的滲透率已提升至20.9%，正帶動中大算力智駕晶片、城市NOA軟體、鐳射雷達、智駕域控等產品出貨量高增，頭部公司相關收入大幅增長。另一方面，L4自動駕駛商業化加速，多家公司已在標杆專案中兌現經濟效益，正致力於推進輕資產模式商業化與全球市場拓展。展望2026年下半年，產業鏈各環節料將進一步推進技術研發和產品投放，汽車智慧化產業鏈有望受益。"
+    },
+    {
+      "id": "5113169",
+      "time": "2026-09-25 14:48:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其國防部表示，土耳其武裝部隊總參謀長將前往沙烏地阿拉伯，出席與沙特、巴基斯坦共同參與的麥加防務協定會議。"
+    },
+    {
+      "id": "mkt:01a0d750-9683-7118-8695-ff5eb33e9ca3",
+      "time": "2026-09-25 14:46:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France Q2 final non-seasonally adjusted average monthly wages QoQ 0.7% vs 0.5% expected; prior 0.7%."
+    },
+    {
+      "id": "mkt:01a0d750-757b-7118-8695-f54d868f70ee",
+      "time": "2026-09-25 14:46:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Unadjusted Average Monthly Earnings Final (QoQ) (Q2) | actual 0.7% | consensus 0.50% | previous 0.70%"
+    },
+    {
+      "id": "te:economy:586808",
+      "time": "2026-09-25 14:45:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Hungary Unemployment Rate Rises in August — The unemployment rate in Hungary rose to 4.8% in the June to August 2026 period from 4.6% in the corresponding period a year earlier, highest recorded rate since February 2026. The number of unemployed individuals increased by 18.1 thousand from a year ago to 234.7 thousand. Of the total unemployed, 116.5 thousand were men, with an unemployment rate of 4.5%, while 118.2 thousand were women, with an unemployment rate of 5.1%. Moreover, the average time spent looking for a job was 11.7 months. Among unemployed individuals, 42.6% had been seeking work for less than three months, while the share looking for work for more than a year increased by 4.2 percentage points to 33.7%. Meanwhile, the number of employed persons decreased by 24 thousand year-on-year to 4.655 million. Employment among men is at 2.464 million, while employment among women decreased by 18.5 thousand to 2.191 million."
+    },
+    {
+      "id": "5113168",
+      "time": "2026-09-25 14:45:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國第二季度工資終值環比上漲0.7%。"
+    },
+    {
+      "id": "5113167",
+      "time": "2026-09-25 14:44:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞9月1日至25日棕櫚油出口量為763,202噸，環比下降24.30%。"
+    },
+    {
+      "id": "mkt:01a0d74e-402e-7118-8695-efbb18f781d3",
+      "time": "2026-09-25 14:43:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【BlackRock flags Central Asia opportunity; Kazakhstan, Uzbekistan drawing capital】Ben Powell, BlackRock’s chief investment strategist for the Middle East and Asia‑Pacific, said Kazakhstan and Uzbekistan are increasingly on global investors’ radar and are “indeed very attractive,” likening them to Gulf states and India as emerging capital-inflow destinations. He highlighted Kazakhstan’s pension and capital-market reforms as encouraging. Kazakhstan’s economy grew 4.1% YoY in the first eight months, led by manufacturing and construction; Uzbekistan expanded 8.5% in H1. Strong growth, ongoing reforms and rising interest in critical minerals are drawing capital — foreign investors have placed roughly $2bn into Kazakhstan’s tenge‑denominated bond market since the start of the year."
+    },
+    {
+      "id": "5113165",
+      "time": "2026-09-25 14:43:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【車企扎堆落地線控底盤 上車門檻降至20萬元級】“線控底盤是承接L3和L4最佳的物理基礎和技術底座。”近日，在全新一代智己LS6上市釋出媒體溝通會上，智己汽車CTO項嬌向媒體表示，他認為，今年是線控底盤密集上車的元年。"
+    },
     {
       "id": "mkt:01a0d74d-49b1-7118-8695-e7f3609fa6d2",
       "time": "2026-09-25 14:42:41",
@@ -111347,978 +111563,6 @@
         "公司"
       ],
       "text": "【華源證券：首予濰柴動力“買入”評級，AI電力時代公司價值重塑】華源證券研報指出，濰柴動力柴發+氣發+SOFC三輪驅動，AI電力時代公司價值重塑。2020年至今，公司多次重新整理商業化柴油機本體熱效率世界紀錄。2025年M系列大缸徑發動機全年銷量首次突破1萬臺，推出全球首款5兆瓦級高速柴油發電產品20M61。當前公司業務已涵蓋動力系統、商用車、農業裝備、智慧物流、電力能源等多個業務板塊。2026-2030年燃機用於滿足AIDC用電需求的有效供給累計在100GW左右，故非燃機AIDC用電需求缺口預計也在100GW以上，以往復式內燃機/SOFC為代表的其他離網發電形式或大有可為。往復式內燃機在AI發電的應用主要是柴發（備電）與氣發，濰柴產品具備全球競爭力。SOFC可能是中長期最具潛力的離網主電形式，濰柴深度佈局金屬支撐路線。公司作為國內柴發/氣發/SOFC均有較深度佈局的頭部企業，有望充分受益於AI電力需求的持續景氣，首次覆蓋，給予“買入”評級。"
-    },
-    {
-      "id": "5101458",
-      "time": "2026-09-18 15:13:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【辛巴威汽油價格上調4%，至每升2.06美元】辛巴威能源監管機構釋出宣告，辛巴威汽油價格即刻上調，由每升1.99美元漲至2.06美元。辛巴威能源監管局週五稱，柴油零售價從此前每升1.95美元上調至每升2.08美元。"
-    },
-    {
-      "id": "mkt:01a0b35c-90d0-7118-85f8-b9bda81e1a15",
-      "time": "2026-09-18 15:13:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SIMSEK says further measures will be taken in Turkey's non-bank financial sector."
-    },
-    {
-      "id": "5101457",
-      "time": "2026-09-18 15:12:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓美投資機構考慮發行首支債券，落實3500億美元投資承諾】韓美戰略投資公司正考慮首次發行美元債券，發行規模最高可達20億美元。該機構設立的目的，是負責落實韓國對美專案投資，相關投資是韓美貿易協議的組成部分。債券發行或於明年初啟動，承銷銀行的選聘工作最快將於本月底敲定。"
-    },
-    {
-      "id": "mkt:01a0b35c-7ab1-7118-85f8-b6b7aa18f6db",
-      "time": "2026-09-18 15:12:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "BOJ Governor UEDA said wage data show a clear improvement in pay conditions following spring wage negotiations."
-    },
-    {
-      "id": "5101456",
-      "time": "2026-09-18 15:12:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本銀行行長植田和男：薪資資料顯示，春季薪資談判後薪資水平取得了紮實改善。"
-    },
-    {
-      "id": "5101455",
-      "time": "2026-09-18 15:12:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其財政部長：當前階段的應對措施已足夠充分。"
-    },
-    {
-      "id": "mkt:01a0b35c-0b99-7118-85f8-ac9718dc6d86",
-      "time": "2026-09-18 15:12:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SIMSEK said liquidation of investment funds will not put pressure on the Istanbul Stock Exchange."
-    },
-    {
-      "id": "mkt:01a0b35b-eb72-7118-85f8-a0570478c677",
-      "time": "2026-09-18 15:12:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Simsek said Turkey has taken strong measures to prevent risk contagion."
-    },
-    {
-      "id": "mkt:01a0b35b-cdc8-7118-85f8-9cd50a8f67ee",
-      "time": "2026-09-18 15:12:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Simsek says 90% of Turkey's fund market is operating well."
-    },
-    {
-      "id": "5101454",
-      "time": "2026-09-18 15:12:10",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其財政部長：已採取強力措施防範風險蔓延。"
-    },
-    {
-      "id": "mkt:01a0b35b-ba4b-7118-85f8-93880dcf38a3",
-      "time": "2026-09-18 15:12:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkish finance minister Simsek said a small number of funds executed market-disrupting trades and authorities have taken measures in response."
-    },
-    {
-      "id": "te:economy:584914",
-      "time": "2026-09-18 15:12:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovakia",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Slovakia Current Account Deficit Widens in July — Slovakia's current account deficit widened to EUR 1,035.3 million in July 2026 from EUR 575.8 million in the corresponding month of the previous year. The goods account deficit widened to EUR 523.7 million from EUR 204.6 million, while the primary income shortfall increased to EUR 420.8 million from EUR 265.8 million. In contrast, the services surplus increased to EUR 39.9 million from EUR 30.5 million, while the secondary income deficit narrowed to EUR 130.6 million from EUR 136.0 million. In the first seven months of the year, the country's current account deficit totaled EUR 2,418.5 million, down from EUR 3,275.3 million in the corresponding period of 2025."
-    },
-    {
-      "id": "mkt:01a0b35b-6bfc-7118-85f8-8d54ae256a18",
-      "time": "2026-09-18 15:11:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Bank of Japan Governor UEDA said the risk of a deterioration in the Middle East has increased and that the situation there is a factor that raises inflation risk."
-    },
-    {
-      "id": "5101453",
-      "time": "2026-09-18 15:11:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本銀行行長植田和男：在各類風險因素中，中東局勢是推升通脹風險的因素之一。"
-    },
-    {
-      "id": "5101452",
-      "time": "2026-09-18 15:11:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其財長：基金清算不會對股市造成壓力。"
-    },
-    {
-      "id": "5101451",
-      "time": "2026-09-18 15:10:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其財長：土耳其基金市場90%運作良好。"
-    },
-    {
-      "id": "mkt:01a0b35a-753a-7118-85f8-8231959c76a6",
-      "time": "2026-09-18 15:10:44",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan Governor UEDA said the BOJ is at a stage requiring careful analysis, but that does not mean policy should proceed slowly."
-    },
-    {
-      "id": "5101450",
-      "time": "2026-09-18 15:10:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報67.42美元/盎司。"
-    },
-    {
-      "id": "5101449",
-      "time": "2026-09-18 15:10:29",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其財政部長：少數基金實施了擾亂市場的交易，但我們已採取應對措施。"
-    },
-    {
-      "id": "5101448",
-      "time": "2026-09-18 15:09:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：我們在實施貨幣政策時需要審慎評估，但這並不意味著行動會放緩。"
-    },
-    {
-      "id": "mkt:01a0b359-6c7f-7118-85f8-7c4972a17e61",
-      "time": "2026-09-18 15:09:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BANK OF JAPAN Governor UEDA said he wants to hear from counterparts at other central banks about the intentions behind their rate-hike decisions."
-    },
-    {
-      "id": "mkt:01a0b359-4691-7118-85f8-77d09a59a021",
-      "time": "2026-09-18 15:09:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "2330.TW",
-        "Impact bullish",
-        "INTC.O",
-        "Impact bearish"
-      ],
-      "text": "【TrendForce: CoWoS-L expected to remain mainstream AI chip packaging through 2028】TrendForce says as GPU vendors and hyperscale cloud providers develop more powerful, feature-rich AI chips, 2.5D packaging development is focusing on larger package area. TSMC’s CoWoS-L faces competition from Intel’s EMIB-T but, due to greater maturity and yield advantages, is expected to remain the mainstream AI chip packaging solution through 2028."
-    },
-    {
-      "id": "5101447",
-      "time": "2026-09-18 15:09:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛旭股份：義烏技改專案已進入收尾階段 四季度將實質性提供業務助力】愛旭股份(600732)在9月18日舉行的2026年半年度業績說明會上表示，公司已啟動對義烏基地PERC生產線、滁州基地TOPCon生產線向ABC電池生產線的技術改造，其中義烏技改專案目前已進入收尾階段，四季度將實質性提供業務助力；滁州技改專案有望四季度實現投產，明年起提供業務助力。"
-    },
-    {
-      "id": "mkt:01a0b359-231e-7118-85f8-69366bbdc900",
-      "time": "2026-09-18 15:09:18",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Bank of Japan Governor Ueda said overseas rate hikes could affect Japan via multiple channels, including the FX market."
-    },
-    {
-      "id": "mkt:01a0b359-0e18-7118-85f8-678e58fe08ad",
-      "time": "2026-09-18 15:09:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "STLA.O",
-        "Impact bearish"
-      ],
-      "text": "【Stellantis (Shanghai) recalls some imported hybrid vehicles】Stellantis (Shanghai) Automotive Co., Ltd. has filed a recall plan with SAMR under China’s defective vehicle recall regulations (recall no. S2026M0115V). The recall covers 979 imported Jeep Wrangler hybrid vehicles produced 2023-09-05 to 2024-03-26 and 1,178 imported all‑new Grand Cherokee 4xe hybrid vehicles produced 2023-07-19 to 2023-10-09. Some engines may have been contaminated by sand during casting; ingress of sand particles into internal engine components can cause engine failure and, in extreme cases, loss of drive or an engine‑bay fire, creating a safety hazard."
-    },
-    {
-      "id": "5101446",
-      "time": "2026-09-18 15:08:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比亞迪汽車工業有限公司、比亞迪汽車有限公司召回部分國產汽車】日前，比亞迪汽車工業有限公司、比亞迪汽車有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。本次召回範圍內的部分車輛，由於生產製造問題，導致制動踏板限位墊材料批次性異常，長時間使用後，限位墊可能開裂破損。極端情況下，限位墊脫落，造成制動踏板未被踩下時制動燈常亮，向後方傳遞錯誤訊號，存在安全隱患。比亞迪汽車工業有限公司、比亞迪汽車有限公司將委託授權經銷商，為召回範圍內的車輛免費更換改善後的限位墊，以消除安全隱患。因部分車輛此前已更換改善後的限位墊，本次召回此部分車輛無需再次更換。（市場監管總局）"
-    },
-    {
-      "id": "5101445",
-      "time": "2026-09-18 15:08:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶馬（中國）汽車貿易有限公司召回部分進口S1000RR型摩托車】日前，寶馬（中國）汽車貿易有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0118V：自即日起，召回2020年10月27日至2026年4月7日期間生產的部分進口S1000RR型摩托車，共計5593輛。本次召回範圍內的摩托車，由於設計原因，在特定工況下，點火鎖內部元件可能受振動影響發生磨損，造成電氣接觸不良，點火缺火。若出現點火中斷，導致發動機熄火，車燈、組合儀表及各類輔助系統等電氣功能全部失效，存在安全隱患。寶馬（中國）汽車貿易有限公司將委託授權經銷商為召回範圍內的車輛免費進行軟體升級，增加兩級警告機制，並對行駛里程大於1500公里的車輛在軟體升級後進行功能測試，若存在相應故障記錄則更換點火鎖，以消除安全隱患。"
-    },
-    {
-      "id": "mkt:01a0b358-49b9-7118-85f8-5ba2dd6df35b",
-      "time": "2026-09-18 15:08:22",
-      "tags": [
-        "MKT News",
-        "NIO.O",
-        "Impact bearish"
-      ],
-      "text": "【NIO recalls 686 Firefly EVs over potential steering-sensor interference】NIO filed a recall plan with SAMR under recall number S2026M0114V and will immediately recall 686 Firefly pure-electric vehicles produced between Mar 20 and Apr 2, 2026. NIO says manufacturing-process variation may allow the steering-column torque sensor wiring harness to interfere with the sensor rotor; in extreme cases this can cause sensor signal abnormalities, illuminate the electronic power steering (EPS) fault lamp and lead to loss of steering assist, creating a safety hazard."
-    },
-    {
-      "id": "mkt:01a0b358-44c3-7118-85f8-56e59cf04b25",
-      "time": "2026-09-18 15:08:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【BYD Auto Industry Co., Ltd. and BYD Auto Co., Ltd. recall some China-made vehicles】BYD Auto Industry Co., Ltd. and BYD Auto Co., Ltd. filed a recall plan with the State Administration for Market Regulation under China’s defective vehicle recall rules covering certain China-made models. A production batch defect in the brake pedal stop-pad material can cause the pads to crack after prolonged use and, in extreme cases, detach; detachment may leave brake lights illuminated when the pedal is not depressed, creating a safety hazard. BYD will authorize dealers to replace the improved stop pads free of charge; vehicles that have already received the improved part are exempt from the recall."
-    },
-    {
-      "id": "5101444",
-      "time": "2026-09-18 15:08:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【斯泰蘭蒂斯（上海）汽車有限公司召回部分進口混合動力汽車】日前，斯泰蘭蒂斯（上海）汽車有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0115V：自即日起，召回2023年9月5日至2024年3月26日期間生產的部分進口牧馬人混合動力汽車，共計979輛；召回2023年7月19日至2023年10月9日期間生產的部分進口全新大切諾基4xe混合動力汽車，共計1178輛。本次召回範圍內的部分車輛，可能在發動機鑄造過程中受到砂粒汙染。鑄造產生的砂粒會侵入發動機內部零部件，引發發動機故障。極端情況下，可能造成車輛行駛中失去動力或發動機艙內起火，存在安全隱患。斯泰蘭蒂斯（上海）汽車有限公司將為召回範圍內的車輛免費重新整理發動機控制模組軟體，執行發動機運轉測試，如果車輛被檢測出存在發動機軸承故障，則免費更換發動機總成，以消除安全隱患。"
-    },
-    {
-      "id": "5101443",
-      "time": "2026-09-18 15:08:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：我希望向各國央行同行詢問其加息決定背後的意圖。"
-    },
-    {
-      "id": "5101442",
-      "time": "2026-09-18 15:08:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：海外加息或透過包括外匯在內的多種渠道對日本產生影響。"
-    },
-    {
-      "id": "5101441",
-      "time": "2026-09-18 15:07:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其主要指數BIST-100<.XU100>延續跌勢，跌幅達2%。"
-    },
-    {
-      "id": "5101440",
-      "time": "2026-09-18 15:07:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蔚來汽車科技（安徽）有限公司召回部分螢火蟲純電動汽車】日前，蔚來汽車科技（安徽）有限公司根據《缺陷汽車產品召回管理條例》《缺陷汽車產品召回管理條例實施辦法》的要求，向國家市場監督管理總局備案了召回計劃。召回編號S2026M0114V：自即日起，召回2026年3月20日至2026年4月2日期間生產的部分螢火蟲純電動汽車，共計686輛。本次召回範圍內的部分車輛，因製造工藝異常波動，轉向管柱扭矩感測器線束與感測器轉子可能發生干涉，極端情況下，引發感測器訊號異常，電子轉向系統故障燈點亮，轉向助力失效，存在安全隱患。蔚來汽車科技（安徽）有限公司將免費為召回範圍內的車輛檢查轉向管柱扭矩感測器線束與感測器轉子是否干涉，若干涉則更換感測器線束，以消除安全隱患。因部分車輛此前已完成相關檢修，本次召回此部分車輛無需再次檢修。"
-    },
-    {
-      "id": "5101439",
-      "time": "2026-09-18 15:07:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【擎倉機器人程巖：物流供應鏈是具身智慧產業落地最好的切入點】在今日舉辦的2026科技創變者大會上，擎倉機器人創始人程巖表示，物流供應鏈是具身智慧產業落地最好的切入點。他指出，具身智慧時代物流市場至少5000億元。（新浪科技）"
-    },
-    {
-      "id": "mkt:01a0b356-f282-7118-85f8-4d577535fd0d",
-      "time": "2026-09-18 15:06:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "【A-shares close: ChiNext +2.25%; semiconductor chain surges】A-shares closed higher after intraday gains. Shanghai Composite +0.94%, Shenzhen Composite Index +1.72%, ChiNext +2.25%. The semiconductor chain outperformed, led by advanced packaging, lithography equipment and AI-chip segments; multiple semicon names hit daily limit-ups, including HKC and Huatian Technology. PV equipment advanced—Laplace +11%, Amadon hit limit-up. Real estate rallied in the afternoon with Vanke A and Greenland Holdings at limit-up. Other stronger sectors included glass substrate, CPO, retail, controlled nuclear fusion, liquid-cooled servers and MLCC. Lagging sectors were coal, autos, fisheries, planting and shipping & ports. Some recent IPOs spiked: C-Shengu closed +177% (intraday high +297%), C-Xinnuowei +34%. Combined turnover on the Shanghai and Shenzhen bourses was about 2.08 trillion yuan, up roughly 254 billion yuan from yesterday; around 3,900 stocks rose and 1,100 fell."
-    },
-    {
-      "id": "5101438",
-      "time": "2026-09-18 15:06:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：在被問及是否有可能連續加息或加息幅度超過25個基點時，稱不排除任何特定政策選項。"
-    },
-    {
-      "id": "te:markets:584913",
-      "time": "2026-09-18 15:06:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Rise After BOJ Decision — The Nikkei 225 Index advanced 1.38% to finish at 65,019 on Friday, extending its winning streak to three sessions after the Bank of Japan raised its policy rate by 25 basis points to 1.25% in a widely telegraphed move. The decision was not unanimous, however, as board members Toichiro Asada and Ayano Sato opposed the increase, signaling some resistance to a more rapid pace of policy tightening. Despite the dissent, Governor Kazuo Ueda said at the post-meeting press conference that the BOJ remains prepared to raise rates further and adjust the level of monetary easing as economic conditions evolve. Meanwhile, official data showed Japan’s core inflation slowing to 1.7% in August from 1.8% in July, its first decline in four months. Technology and AI-related shares led the market higher after similar gains on Wall Street overnight, with Kioxia (9.4%), SoftBank Group (1.1%), Advantest (6%), Lasertec (8.7%), and Taiyo Yuden (4.2%) among the notable advancers."
-    },
-    {
-      "id": "mkt:01a0b356-a30f-7118-85f8-46e51706a134",
-      "time": "2026-09-18 15:06:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "BANK OF JAPAN Governor UEDA said when asked about a 50bp rate increase or consecutive hikes that multiple outcomes are possible depending on inflation."
-    },
-    {
-      "id": "5101437",
-      "time": "2026-09-18 15:06:19",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：受中東危機影響，第二輪物價上漲正在發生。沙特輸油管道中斷是否會持續尚不確定，將密切關注事態發展。"
-    },
-    {
-      "id": "5101436",
-      "time": "2026-09-18 15:06:14",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男在被問及是否可能加息50個基點或連續加息時表示，後續存在多種可能性，具體取決於通脹形勢。"
-    },
-    {
-      "id": "5101435",
-      "time": "2026-09-18 15:06:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "德意志電信<DTEGn.DE>股價下跌3.3%，在德國藍籌股指數<.GDAXI>中跌幅居前。"
-    },
-    {
-      "id": "5101434",
-      "time": "2026-09-18 15:05:51",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其財政部長：市場波動由少數投資基金的流動性與信貸問題引發。"
-    },
-    {
-      "id": "5101433",
-      "time": "2026-09-18 15:05:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西藏自治區自然資源廳副廳長徐建接受審查調查】中央紀委國家監委網站9月18日通報，據西藏自治區紀委監委訊息：西藏自治區自然資源廳黨組成員、副廳長徐建涉嫌嚴重違紀違法，目前正接受西藏自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5101432",
-      "time": "2026-09-18 15:05:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SOITEC股價下跌3%，此前該公司發行5億歐元2033年9月到期的ORNANE債券。"
-    },
-    {
-      "id": "mkt:01a0b355-ab5c-7118-85f8-39be41ed14eb",
-      "time": "2026-09-18 15:05:31",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "BOJ Governor UEDA said it is uncertain whether the Saudi oil pipeline disruption will persist and that the BOJ will closely monitor developments."
-    },
-    {
-      "id": "5101431",
-      "time": "2026-09-18 15:05:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國大眾汽車集團正在召回部分美國市場車輛，因轉向機殼體可能斷裂導致轉向失控，增加碰撞風險。"
-    },
-    {
-      "id": "5101430",
-      "time": "2026-09-18 15:05:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國大眾汽車集團將召回208,724輛美國市場車輛。"
-    },
-    {
-      "id": "5101429",
-      "time": "2026-09-18 15:05:09",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根士丹利將Orange評級從\"中性\"下調至\"減持\"後，該公司股價下跌3.1%。"
-    },
-    {
-      "id": "5101428",
-      "time": "2026-09-18 15:05:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國大眾汽車集團正在召回部分美國市場車輛，因發動機意外熄火、外部照明或警示燈失效，或後視攝像頭系統故障可能增加碰撞風險。"
-    },
-    {
-      "id": "5101427",
-      "time": "2026-09-18 15:05:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國大眾汽車集團將召回49,958輛美國市場車輛。"
-    },
-    {
-      "id": "5101426",
-      "time": "2026-09-18 15:04:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【就涉伊朗制裁委員會專家小組授權延期決議草案，中俄投反對票，伊朗表態】綜合伊朗伊斯蘭共和國通訊社等媒體報道，伊朗常駐聯合國代表團當地時間17日在社交平臺上發帖，對中國與俄羅斯就有關問題所持原則立場表示讚賞。（環球網）"
-    },
-    {
-      "id": "mkt:01a0b354-cc1c-7118-85f8-3760b16c9b38",
-      "time": "2026-09-18 15:04:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan Governor UEDA said second-round price increases are occurring as a result of the Middle East crisis."
-    },
-    {
-      "id": "5101425",
-      "time": "2026-09-18 15:04:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：美國財長貝森特對“高市經濟學”評價很高。"
-    },
-    {
-      "id": "mkt:01a0b354-4f12-7118-85f8-2b8b6ad93d3b",
-      "time": "2026-09-18 15:04:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister Katayama said U.S. Treasury Secretary Bessent has spoken highly of \"Takaichi economics\"."
-    },
-    {
-      "id": "5101424",
-      "time": "2026-09-18 15:03:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SOITEC股價下跌3%，此前該公司發行5億歐元2033年9月到期的ORNANE債券。"
-    },
-    {
-      "id": "mkt:01a0b353-f6ad-7118-85f8-2545c3606a2a",
-      "time": "2026-09-18 15:03:39",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan Governor Ueda said he will decide on a rate hike based on an assessment of two-sided risks."
-    },
-    {
-      "id": "5101423",
-      "time": "2026-09-18 15:03:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦外匯儲備創歷史新高。"
-    },
-    {
-      "id": "5101422",
-      "time": "2026-09-18 15:03:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "蒂森克虜伯海洋系統股份兩合公司<TKMS.DE>股價上漲2.7%，本地交易員指出，上漲原因是券商首次覆蓋該股票。"
-    },
-    {
-      "id": "mkt:01a0b353-9e2e-7118-85f8-1eaa1bcfc8bc",
-      "time": "2026-09-18 15:03:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "STM.PA",
-        "Impact bullish"
-      ],
-      "text": "STMicroelectronics shares in Europe rose 2.1%."
-    },
-    {
-      "id": "5101421",
-      "time": "2026-09-18 15:03:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "意法半導體米蘭上市股價早盤上漲2.1%。"
-    },
-    {
-      "id": "mkt:01a0b353-7f44-7118-85f8-1230f9895fd0",
-      "time": "2026-09-18 15:03:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China's Shanghai Composite Index closed up 36.27 points, or 0.94 pct, at 3,911.87 on Sept 18 (Fri). Shenzhen Composite Index closed up 230.97 points, or 1.72 pct, at 13,640.87. CSI 300 Index closed up 47.24 points, or 1.06 pct, at 4,507.39. ChiNext Index closed up 74.37 points, or 2.25 pct, at 3,372.68. STAR 50 Index closed up 46.34 points, or 2.88 pct, at 1,652.63."
-    },
-    {
-      "id": "5101420",
-      "time": "2026-09-18 15:02:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【範波會見羅氏診斷全球運營總裁瑞秋·克萊因一行】9月18日，蘇州市委書記範波會見了羅氏診斷全球運營總裁瑞秋·克萊因一行。範波代表市委、市政府對羅氏給予蘇州發展的關心支援表示感謝。他說，蘇州是中國東部地區重要的中心城市，當前正深入學習貫徹習近平總書記就發展先進製造業作出的重要指示精神和全國先進製造業大會部署，強化創新驅動，因地制宜發展新質生產力，最佳化完善“1030”產業體系，縱深開展“人工智慧+製造”行動，建設具有國際競爭力的“智慧製造之城”。生物醫藥及高階醫療器械是蘇州加力佈局的十大重點新興產業之一，羅氏是全球領先的生物醫藥企業，雙方合作基礎深厚、深化合作空間廣闊。希望羅氏持續加大在蘇投資力度，積極匯入更多優質專案、創新技術、先進理念，助力蘇州推動生物醫藥全產業鏈開放創新，共同書寫互利共贏新篇章。蘇州將積極擴大高水平對外開放，深入開展“三服務”專項行動，努力打造“有呼必應、事事閉環”營商環境品牌，更好服務廣大企業紮根蘇州、創新發展。（蘇州日報）"
-    },
-    {
-      "id": "5101419",
-      "time": "2026-09-18 15:02:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "雀巢歐股下跌1.5%，此前該公司表示，在克里姆林宮採取行動沒收其在俄業務之際，正在權衡所有選項。"
-    },
-    {
-      "id": "mkt:01a0b353-1db3-7118-85f8-087a8e879b20",
-      "time": "2026-09-18 15:02:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "NESN.SW",
-        "Impact bearish"
-      ],
-      "text": "Nestlé's European shares fell 1.5% as the Kremlin is considering taking over its Russian operations."
-    },
-    {
-      "id": "mkt:01a0b352-d681-7118-85f8-0784b1cf9f38",
-      "time": "2026-09-18 15:02:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Ueda said the Bank of Japan will continue to conduct appropriate monetary policy operations under the Bank of Japan Act."
-    },
-    {
-      "id": "5101418",
-      "time": "2026-09-18 15:02:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：將繼續根據日本央行的法律進行適當的貨幣政策操作。"
-    },
-    {
-      "id": "mkt:01a0b352-335a-7118-85f7-fa3630323b32",
-      "time": "2026-09-18 15:01:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European equities opened lower on Friday Sept 18: Germany's DAX fell 107.58 points (-0.42%) to 25,625.68; STOXX Europe 50 down 12.05 points (-0.19%) to 6,310.85; Spain's IBEX 35 down 43.76 points (-0.22%) to 19,792.44; Italy's FTSE MIB down 106.00 points (-0.20%) to 52,279.50; UK FTSE 100 down 22.41 points (-0.21%) to 10,793.73; France's CAC 40 down 32.12 points (-0.39%) to 8,154.81."
-    },
-    {
-      "id": "mkt:01a0b352-09cc-7118-85f7-f57193abba23",
-      "time": "2026-09-18 15:01:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai-Shenzhen turnover CNY 2.08 trillion; Zhongji Xuchuang tops list】On Sep 18 Shanghai and Shenzhen posted combined turnover of CNY 2.08 trillion, up CNY 254 billion from the previous session. Shanghai turnover was CNY 994.17 billion (prev. CNY 868.77 billion), trading volume 486 million lots (prev. 453 million). Shenzhen turnover was CNY 1.083 trillion (prev. CNY 954.36 billion), trading volume 597 million lots (prev. 558 million). Top turnover stock was Zhongji Xuchuang at CNY 27.08 billion, followed by Xinyisheng CNY 18.51 billion, China Jushi CNY 17.75 billion, Zhaoyi Innovation CNY 15.79 billion and Hengtong Optoelectronics CNY 15.65 billion."
-    },
-    {
-      "id": "5101417",
-      "time": "2026-09-18 15:01:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "挪威阿克石油英國石油公司股價早盤交易下跌3.5%。"
-    },
-    {
-      "id": "mkt:01a0b351-f49b-7118-85f7-e83c61c7461e",
-      "time": "2026-09-18 15:01:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan Governor Ueda said close coordination with the government is essential."
-    },
-    {
-      "id": "te:markets:584912",
-      "time": "2026-09-18 15:01:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AstraZeneca Stock Price Hits 7-week High — AstraZeneca shares increased to 12480.00 GBp, the highest since July 2026. Over the past 4 weeks, AstraZeneca gained 3.26%, and in the last 12 months, it increased 10.08%."
-    },
-    {
-      "id": "mkt:01a0b351-a74f-7118-85f7-e7c977141c23",
-      "time": "2026-09-18 15:01:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Industrial Metals",
-        "Precious Metals",
-        "WTI",
-        "Impact bearish",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "At midday close, China’s most-active futures were mostly lower. Shanghai crude (SC) fell nearly 10%; coking coal dropped about 8%; coke declined more than 5%. Fuel oil, PET flakes, LPG, p-xylene and short fiber slipped over 4%. On the upside, Shanghai silver rose nearly 4%; palladium, Europe-route container freight, platinum and Shanghai lead gained over 2%; Shanghai tin, egg futures and international copper were up about 2%."
-    },
-    {
-      "id": "5101416",
-      "time": "2026-09-18 15:01:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：地產ETF領漲5.79%，豆粕ETF領跌3.12%】ETF收盤漲跌不一，地產ETF（159707）領漲5.79%，房地產ETF（159768）漲5.76%，積體電路ETF（159546）漲4.72%，豆粕ETF（159985）領跌3.12%，標普油氣ETF（159518）跌2.66%，標普油氣ETF（513350）跌1.93%。"
-    },
-    {
-      "id": "5101415",
-      "time": "2026-09-18 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【滬深兩市今日成交額合計2.08萬億元，中際旭創成交額居首】滬深兩市今日全天成交額合計2.08萬億元，較上一日增量2539.66億元。其中，滬市成交額為9941.69億元（上一交易日為8687.73億元），成交量為4.86億手（上一交易日為4.53億手）；深市成交額為1.08萬億元（上一交易日為9543.61億元），成交量為5.97億手（上一交易日為5.58億手）。中際旭創成交額居首，為270.8億元。其次是新易盛、中國巨石、兆易創新、亨通光電，成交額分別為185.11億元、177.5億元、157.88億元、156.52億元。"
-    },
-    {
-      "id": "5101414",
-      "time": "2026-09-18 15:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.94%，深證成指漲1.72%，創業板指漲2.25%。"
-    },
-    {
-      "id": "5101413",
-      "time": "2026-09-18 15:00:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股收評：雙創指數衝高回落均漲超2%，半導體、儲存晶片板塊漲幅居前】A股三大指數今日集體上漲，截至收盤，上證指數漲0.94%，深證成指漲1.72%，創業板指漲2.25%，北證50漲1.79%，科創50指數漲2.88%。全市場成交額20929億元，較上日放量2564億元，全市場超4200只個股上漲。板塊題材上，新股與次新股、半導體、汽車晶片、儲存晶片、光刻機板塊漲幅居前；汽車整車、煤炭開採加工、養殖業、豬肉、銀行板塊跌幅居前。新股與次新股板塊持續上揚，C沈鼓盤中一度漲近300%，C信諾維一度漲超90%，騰信精密、電科思儀、託倫斯漲停。半導體板塊表現強勢，託倫斯、盛景微、華天科技等股漲停，東微半導、翱捷科技、國民技術漲幅居前。光伏裝置板塊午後走強，亞瑪頓漲停，拉普拉斯、貝特利、愛旭股份、阿特斯漲幅居前。汽車整車板塊全天低迷，眾泰汽車、江鈴汽車、安凱客車跌幅居前。"
-    },
-    {
-      "id": "5101412",
-      "time": "2026-09-18 15:00:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本核汙染水累計排放逾18萬噸】日本東京電力公司18日完成福島第一核電站第23輪核汙染水排海。本輪共排放核汙染水近8000噸，迄今累計排放量超過18萬噸。（新華社）"
-    },
-    {
-      "id": "5101411",
-      "time": "2026-09-18 15:00:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英媒：超強厄爾尼諾形成中 亞洲多國加強應對 】世界氣象組織日前釋出公報稱，厄爾尼諾事件已確認出現，預計將在數月內發展為超強厄爾尼諾事件。據英國《衛報》18日報道，亞洲多國政府正積極採取措施，應對嚴重厄爾尼諾現象所致乾旱、野火、颱風和洪水。（新華社）"
-    },
-    {
-      "id": "mkt:01a0b350-be7f-7118-85f7-dc940749aee5",
-      "time": "2026-09-18 15:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Aiko Solar: Jinan plant's first 3GW module capacity now fully operational】At its Sept. 18, 2026 interim results briefing, Aiko Solar said the Jinan plant's first-phase 3GW PV module capacity is fully in operation. Supporting cell production lines have started partial output and are ramping; the company expects remaining lines to be completed and fully commissioned in Q4."
-    },
-    {
-      "id": "5101410",
-      "time": "2026-09-18 15:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】上海原油連續跌9.57%，焦煤連續跌7.78%，焦炭連續跌5.45%，燃料油連續跌4.63%，瓶片連續跌4.37%。"
-    },
-    {
-      "id": "5101409",
-      "time": "2026-09-18 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲2.14%， 滬深300指數期貨連續漲1.41%， 中證500指數期貨連續漲2.37%， 上證50指數期貨連續漲0.95%。"
-    },
-    {
-      "id": "5101408",
-      "time": "2026-09-18 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤普漲，德國DAX指數漲0.7%，英國富時100指數漲1.19%，法國CAC40指數漲0.57%，歐洲斯托克50指數漲0.9%，義大利富時MIB指數漲0.8%。"
-    },
-    {
-      "id": "mkt:01a0b350-a799-7118-85f7-d1ed00a449af",
-      "time": "2026-09-18 15:00:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Youzu Interactive launches advanced packaging project as AI ecosystem buildout continues】Youzu Interactive co-initiated the launch in Shanghai of Dijiang Technology’s advanced packaging project. The move marks a further deepening of Youzu’s AI ecosystem on the compute-infrastructure side."
-    },
-    {
-      "id": "mkt:01a0b350-6830-7118-85f7-cae3be332a2c",
-      "time": "2026-09-18 14:59:46",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Bank of Japan Governor UEDA said upward risks are not a problem so long as they remain within the price target range, but would become a problem if they exceed that range."
-    },
-    {
-      "id": "mkt:01a0b350-4a2c-7118-85f7-c2e85f10643a",
-      "time": "2026-09-18 14:59:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said maintaining exchange-rate and interest-rate stability is crucial."
-    },
-    {
-      "id": "5101407",
-      "time": "2026-09-18 14:59:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "宕機監測網站DownDetector：使用者反饋顯示Reddit出現故障。"
-    },
-    {
-      "id": "mkt:01a0b34f-e9dc-7118-85f7-b826467afc9c",
-      "time": "2026-09-18 14:59:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan Governor Ueda said interest rates have tightened, but bank lending conditions and asset markets remain loose."
-    },
-    {
-      "id": "5101406",
-      "time": "2026-09-18 14:59:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：只要上行風險處於物價目標區間範圍內，就不會有問題，但如果通脹超出該區間，未來就會成為問題。"
-    },
-    {
-      "id": "5101405",
-      "time": "2026-09-18 14:59:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：維持匯率和利率秩序至關重要。"
-    },
-    {
-      "id": "5101404",
-      "time": "2026-09-18 14:58:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本銀行行長植田和男：目前利率已收緊，但銀行放貸與資產市場仍保持寬鬆態勢。"
-    },
-    {
-      "id": "5101403",
-      "time": "2026-09-18 14:58:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛旭股份：濟南基地首期3GW元件產能已全面投用】愛旭股份(600732)在9月18日舉行的2026年半年度業績說明會上表示，截至目前，濟南基地首期3GW元件產能已全面投用中，配套建設的電池產能部分產線已陸續投產並逐步開始產能爬坡，四季度有望全面收尾並投入使用。"
-    },
-    {
-      "id": "mkt:01a0b34f-46e7-7118-85f7-b66a06f74dd6",
-      "time": "2026-09-18 14:58:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said he will maintain close communication with other countries' financial authorities on FX issues."
-    },
-    {
-      "id": "mkt:01a0b34f-31f3-7118-85f7-afaac1db449c",
-      "time": "2026-09-18 14:58:26",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Ueda said the Bank of Japan will not change its monetary policy formulation to account for which individuals may join the MPC in the future."
-    },
-    {
-      "id": "mkt:01a0b34f-31e4-7118-85f7-a74225d226e6",
-      "time": "2026-09-18 14:58:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【Markets pare ECB rate-hike bets; rising energy prices could weigh on growth】German benchmark Bund yield is set for its first weekly drop since early August after traders on Monday priced the ECB deposit rate at roughly 3.5% by end-2027 and then pared ECB rate-hike bets. Policy-sensitive German 2-year Bund yield is poised for a sixth consecutive weekly rise. Some analysts say Fed rate-hike expectations are overdone and that rising energy prices could drag on growth and help curb inflation and monetary-tightening expectations. French 10-year bond yield rose 0.5bp to 4.45% after touching 4.5531% on Tuesday, its highest since Sept 2008; the spread to German Bunds was 96.50bp after hitting 98.15bp on Tuesday, its widest since July 2012."
-    },
-    {
-      "id": "5101402",
-      "time": "2026-09-18 14:57:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度最高法院允許印度證券交易委員會與印度國家證券交易所透過和解處理所有共址案件。"
-    },
-    {
-      "id": "5101401",
-      "time": "2026-09-18 14:57:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：將與其他國家金融當局就外匯問題保持密切溝通。"
-    },
-    {
-      "id": "5101400",
-      "time": "2026-09-18 14:57:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：不會因考慮未來哪些成員將加入貨幣政策委員會而調整貨幣政策制定。"
-    },
-    {
-      "id": "5101399",
-      "time": "2026-09-18 14:57:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其大盤BIST-100指數<.XU100>早盤下跌1.1%，本土主要銀行指數<.XBANK>下跌0.3%。"
-    },
-    {
-      "id": "5101398",
-      "time": "2026-09-18 14:57:01",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：將毫不猶豫地進行進一步的協調外匯干預。"
-    },
-    {
-      "id": "5101397",
-      "time": "2026-09-18 14:56:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今日特朗普要聞】\n1、據當地時間9月17日報道，美國總統特朗普告訴媒體，他正面臨對伊朗戰事的一個關鍵轉折點，需要決定是否重啟大規模攻勢，以期結束這場衝突。\n2、特朗普正計劃最早於下週，與委內瑞拉臨時總統羅德里格斯舉行首次會晤。\n3、據報道，美國總統特朗普與墨西哥總統辛鮑姆週三通電話，兩國正接近達成一項貿易協議。\n4、據報道，日本首相高市早苗正安排下週會見特朗普。\n5、特朗普：波蘭設立美軍基地獲得重大突破。\n6、當地時間9月17日，美國總統特朗普撤回了提名俄克拉何馬州前州警蘭斯·施羅耶執掌美國移民與海關執法局（ICE）的決定。\n7、特朗普簽署行政令，擴大聯邦土地上的狩獵准入範圍。\n8、美國白宮：特朗普將於週五至週日前往戴維營。"
-    },
-    {
-      "id": "mkt:01a0b34d-c6ca-7118-85f7-9b8f293732de",
-      "time": "2026-09-18 14:56:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's finance minister Katayama said Tokyo will not hesitate to carry out further coordinated foreign-exchange intervention."
-    },
-    {
-      "id": "mkt:01a0b34d-b393-7118-85f7-9375199c35c4",
-      "time": "2026-09-18 14:56:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "BANK OF JAPAN Governor UEDA said today's vote was the result of constructive discussion among committee members."
     }
   ]
 }

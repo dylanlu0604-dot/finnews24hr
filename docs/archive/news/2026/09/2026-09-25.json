@@ -1,7 +1,223 @@
 {
   "date": "2026-09-25",
-  "count": 977,
+  "count": 1000,
   "items": [
+    {
+      "id": "mkt:01a0d75d-49f5-7118-8696-362a78709226",
+      "time": "2026-09-25 15:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain Q2 final annualised GDP 2.6% YoY, vs 2.7% expected and prior 2.7%."
+    },
+    {
+      "id": "mkt:01a0d75d-430a-7118-8696-2847200e8ea4",
+      "time": "2026-09-25 15:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spain Q2 GDP final QoQ +0.7% (expected +0.7%; prior +0.7%)."
+    },
+    {
+      "id": "mkt:01a0d75d-2313-7118-8696-23c18a767982",
+      "time": "2026-09-25 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Final Quarterly GDP (Q2) | actual 0.7% | consensus 0.70% | previous 0.70%"
+    },
+    {
+      "id": "mkt:01a0d75d-230e-7118-8696-1eb34af206e2",
+      "time": "2026-09-25 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | GDP Final (YoY) (Q2) | actual 2.6% | consensus 2.70% | previous 2.70%"
+    },
+    {
+      "id": "te:markets:586811",
+      "time": "2026-09-25 14:59:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Gain as Oil, Yields Retreat — The Nikkei 225 Index rose 1.3% to close at 66,364 on Friday, extending its winning streak to five sessions as oil prices retreated and the global bond selloff eased, offering some relief to equities. Oil prices declined on reports that the US and Iran were exploring a phased agreement that could reopen the Strait of Hormuz and lift a US blockade on Iranian ports. Global bond yields also stabilized after a sharp two-day rally, while Japan’s 10-year government bond yield pulled back slightly from its highest level since 1996. Elsewhere, Presidents Donald Trump and Xi Jinping concluded their bilateral talks in Washington, with Trump describing the meeting as “great.” Technology stocks led the gains, with Kioxia Holdings rising 2.2%, Advantest gaining 2.8% and Ibiden Co advancing 4.2%. Financial stocks also outperformed, including Mitsubishi UFJ, up 4%, Sumitomo Mitsui, up 3.6%, and Mizuho Financial, up 4.2%."
+    },
+    {
+      "id": "mkt:01a0d75c-0e8d-7118-8696-149f4d4e4ba0",
+      "time": "2026-09-25 14:58:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran official rebukes Netanyahu UN speech, says history will judge his war and occupation】Kazem Gharibabadi, Iran’s deputy foreign minister for legal and international affairs, posted that Netanyahu turned the UN General Assembly podium into a platform to glorify war and aggression. He said 77 delegations walked out — a stronger statement than any speech — and that the world will not be deceived by fabricated narratives; history will ultimately judge crimes, occupation and aggression rather than New York publicity."
+    },
+    {
+      "id": "5113175",
+      "time": "2026-09-25 14:58:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本交易所集團（JPX）執行長：應尊重日本金融廳（FSA）對槓桿ETF的觀點。"
+    },
+    {
+      "id": "mkt:01a0d75a-c450-7118-8696-0c2a8783b3ca",
+      "time": "2026-09-25 14:57:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Advanced autonomous driving penetration accelerating, supply chain to benefit】CITIC Securities cites FirstEV data showing urban NOA penetration in China’s passenger car market rose to 20.9% in H1 2026. The firm says this is driving sharp shipment growth for mid-to-high‑compute automated‑driving chips, urban NOA software, lidar and driving domain controllers, with leading suppliers reporting sizable revenue increases. Separately, L4 commercialization is accelerating; several companies have already demonstrated positive economics in flagship projects and are pushing asset‑light business models and global rollouts. CITIC expects the automotive intelligentization supply chain to further advance R&D and product launches in H2 2026, supporting continued sector gains."
+    },
+    {
+      "id": "5113174",
+      "time": "2026-09-25 14:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡聯大發言引發會場激烈對立】內塔尼亞胡24日在時長約40分鐘的演講中闡述了以色列在七條戰線開展行動的情況，包括2月底對伊朗發動的軍事打擊；並現場展示一些物品，比如關聯黎巴嫩真主黨集體遇襲事件的傳呼機、“星鏈”衛星網際網路接收器。內塔尼亞胡甫一開口，會場內就上演了各方激烈對立的一幕：數十名代表退場以示抗議，部分人發出噓聲；旁聽席的支持者起立鼓掌，用希伯來語高呼口號聲援；會議主席則高聲維持秩序。（新華社）"
+    },
+    {
+      "id": "te:economy:586810",
+      "time": "2026-09-25 14:55:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Hungary Current Account Swings to Deficit — Hungary's current account swung to a EUR 0.25 billion deficit in the second quarter of 2026 from a EUR 1.4 billion surplus a year earlier, marking its first shortfall since the third quarter of 2023. The deterioration was driven by a wider goods trade deficit, which increased to EUR 0.93 billion from EUR 0.27 billion, while the primary income deficit widened to EUR 1.7 billion from EUR 1.6 billion. Additionally, the secondary income balance shifted to a EUR 0.64 billion deficit from a EUR 0.37 billion surplus in the same period last year. In contrast, the services surplus expanded to EUR 3.1 billion from EUR 2.9 billion."
+    },
+    {
+      "id": "5113173",
+      "time": "2026-09-25 14:53:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果與高通續簽專利協議】蘋果正在減少對高通基帶晶片的依賴，但雙方的專利關係仍在延續。當地時間9月24日，高通宣佈與蘋果續簽全球專利許可協議，新協議將於2027年4月1日起生效。高通並沒有披露新協議的期限、費率及其他財務條款。這份簡短宣告之所以受到關注，在於蘋果正在推進基帶晶片自研。值得注意的是，此次高通公佈的則是專利許可協議續簽，並未提及新的晶片供應安排。但放在蘋果推進基帶晶片自研的背景下，雙方合作的重心正在從晶片供應進一步轉向專利許可。高通此前也公開承認，蘋果減少採購其晶片將對其晶片業務造成影響。今年7月，高通預計蘋果相關收入的下降將加快，並計劃透過汽車、資料中心等非手機業務的增長，部分彌補蘋果業務減少帶來的影響。"
+    },
+    {
+      "id": "5113172",
+      "time": "2026-09-25 14:52:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀下調任天堂評級至“賣出”，目標價為5500日元。"
+    },
+    {
+      "id": "mkt:01a0d755-48b0-7118-8696-0663505f96aa",
+      "time": "2026-09-25 14:51:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's Defense Ministry said the chief of the general staff will travel to Saudi Arabia to attend a meeting on the Mecca defense pact with Saudi Arabia and Pakistan."
+    },
+    {
+      "id": "5113171",
+      "time": "2026-09-25 14:48:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【通航滿一週 平陸運河全線執行平穩有序】記者從廣西交通運輸廳瞭解到，9月23日，平陸運河通航滿一週。通航首周，運河船舶過閘順暢，全線執行平穩有序，貨運航線雙向啟航，水上客運首發火爆。廣西水運江河海一體化智慧排程平臺自8月25日上線以來，截至9月20日，註冊使用者已達1.8萬人，完成船舶過閘排程2.1萬艘次，日均排程量1000多艘次。（央視新聞）"
+    },
+    {
+      "id": "5113170",
+      "time": "2026-09-25 14:48:35",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：展望2026年下半年，產業鏈各環節料將進一步推進技術研發和產品投放，汽車智慧化產業鏈有望受益】中信證券研報指出，根據第一電動汽車網資料，2026年上半年城市NOA在國內乘用車市場的滲透率已提升至20.9%，正帶動中大算力智駕晶片、城市NOA軟體、鐳射雷達、智駕域控等產品出貨量高增，頭部公司相關收入大幅增長。另一方面，L4自動駕駛商業化加速，多家公司已在標杆專案中兌現經濟效益，正致力於推進輕資產模式商業化與全球市場拓展。展望2026年下半年，產業鏈各環節料將進一步推進技術研發和產品投放，汽車智慧化產業鏈有望受益。"
+    },
+    {
+      "id": "5113169",
+      "time": "2026-09-25 14:48:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其國防部表示，土耳其武裝部隊總參謀長將前往沙烏地阿拉伯，出席與沙特、巴基斯坦共同參與的麥加防務協定會議。"
+    },
+    {
+      "id": "mkt:01a0d750-9683-7118-8695-ff5eb33e9ca3",
+      "time": "2026-09-25 14:46:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "France Q2 final non-seasonally adjusted average monthly wages QoQ 0.7% vs 0.5% expected; prior 0.7%."
+    },
+    {
+      "id": "mkt:01a0d750-757b-7118-8695-f54d868f70ee",
+      "time": "2026-09-25 14:46:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Unadjusted Average Monthly Earnings Final (QoQ) (Q2) | actual 0.7% | consensus 0.50% | previous 0.70%"
+    },
+    {
+      "id": "te:economy:586808",
+      "time": "2026-09-25 14:45:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Hungary Unemployment Rate Rises in August — The unemployment rate in Hungary rose to 4.8% in the June to August 2026 period from 4.6% in the corresponding period a year earlier, highest recorded rate since February 2026. The number of unemployed individuals increased by 18.1 thousand from a year ago to 234.7 thousand. Of the total unemployed, 116.5 thousand were men, with an unemployment rate of 4.5%, while 118.2 thousand were women, with an unemployment rate of 5.1%. Moreover, the average time spent looking for a job was 11.7 months. Among unemployed individuals, 42.6% had been seeking work for less than three months, while the share looking for work for more than a year increased by 4.2 percentage points to 33.7%. Meanwhile, the number of employed persons decreased by 24 thousand year-on-year to 4.655 million. Employment among men is at 2.464 million, while employment among women decreased by 18.5 thousand to 2.191 million."
+    },
+    {
+      "id": "5113168",
+      "time": "2026-09-25 14:45:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國第二季度工資終值環比上漲0.7%。"
+    },
+    {
+      "id": "5113167",
+      "time": "2026-09-25 14:44:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞9月1日至25日棕櫚油出口量為763,202噸，環比下降24.30%。"
+    },
+    {
+      "id": "mkt:01a0d74e-402e-7118-8695-efbb18f781d3",
+      "time": "2026-09-25 14:43:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【BlackRock flags Central Asia opportunity; Kazakhstan, Uzbekistan drawing capital】Ben Powell, BlackRock’s chief investment strategist for the Middle East and Asia‑Pacific, said Kazakhstan and Uzbekistan are increasingly on global investors’ radar and are “indeed very attractive,” likening them to Gulf states and India as emerging capital-inflow destinations. He highlighted Kazakhstan’s pension and capital-market reforms as encouraging. Kazakhstan’s economy grew 4.1% YoY in the first eight months, led by manufacturing and construction; Uzbekistan expanded 8.5% in H1. Strong growth, ongoing reforms and rising interest in critical minerals are drawing capital — foreign investors have placed roughly $2bn into Kazakhstan’s tenge‑denominated bond market since the start of the year."
+    },
+    {
+      "id": "5113165",
+      "time": "2026-09-25 14:43:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【車企扎堆落地線控底盤 上車門檻降至20萬元級】“線控底盤是承接L3和L4最佳的物理基礎和技術底座。”近日，在全新一代智己LS6上市釋出媒體溝通會上，智己汽車CTO項嬌向媒體表示，他認為，今年是線控底盤密集上車的元年。"
+    },
     {
       "id": "mkt:01a0d74d-49b1-7118-8695-e7f3609fa6d2",
       "time": "2026-09-25 14:42:41",
