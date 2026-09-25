@@ -1,7 +1,76 @@
 {
   "date": "2026-09-25",
-  "count": 685,
+  "count": 692,
   "items": [
+    {
+      "id": "5112955",
+      "time": "2026-09-25 10:01:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官：現在還不是實施貨幣寬鬆政策的時候。"
+    },
+    {
+      "id": "5112953",
+      "time": "2026-09-25 10:01:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：願美中兩國人民能有一個更和諧、和平與繁榮的未來】當地時間9月24日晚，國家主席習近平和夫人彭麗媛在白宮出席美國總統特朗普和夫人梅拉尼婭舉行的歡迎宴會。特朗普總統發表致辭。特朗普說：“我邀請大家共同舉杯，向習近平主席和彭麗媛女士致敬，併為美中兩國之間這份跨越數千英里、綿延數百年的深厚友誼乾杯。願美中兩國人民能有一個更和諧、和平與繁榮的未來。”（央視新聞）"
+    },
+    {
+      "id": "5112952",
+      "time": "2026-09-25 10:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數開盤上漲0.3%，至6315.53點。"
+    },
+    {
+      "id": "te:markets:586713",
+      "time": "2026-09-25 10:00:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Extend Losing Streak — The Hang Seng Index slipped 1.7%, or 419 points, to 24,333 on Friday, extending losses for third consecutive sessions as surging global bond yields surged and concerns over inflation and interest rates weighed on risk appetite. The decline came after US Treasury yields climbed sharply on Thursday, with the 10-year yield rising to around 5.20%, its highest level since 2007, while the 30-year yield reached its highest level since 2004, reinforcing expectations that the Federal Reserve could keep rates higher for longer. Brent crude remained above $103 a barrel after a Houthi missile attack on Saudi Arabia revived concerns about potential supply disruptions. Technology and finance stocks led the decline, with Tencent (-1.1%), AIA (-2.2%), Xiaomi (-3.4%), HKEX (-1.4%), and Meituan (-2.5%) among the notable losers. Investors also awaited China’s PMI data and continued to assess the Trump-Xi Jinping summit for signals on trade and economic policy."
+    },
+    {
+      "id": "te:markets:586712",
+      "time": "2026-09-25 10:00:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Falls on Hormuz Deal Hopes — European natural gas prices fell to €74.4 per megawatt-hour on Friday, giving back some of the previous session’s gains amid reports of US-Iran discussions over a phased agreement to reopen the Strait of Hormuz and end the US blockade. The strait remains a major sticking point in efforts to resolve the nearly seven-month conflict, with neither side willing to relinquish control of the key waterway. LNG flows from the Persian Gulf remain severely disrupted, intensifying competition between Europe and Asia for limited global supplies as the region races to rebuild inventories ahead of the winter heating season. European gas storage is currently just over 70% full, below both the seasonal norm and the region’s target, leaving the market vulnerable to further supply disruptions. Maintenance in Norway is also curbing pipeline supplies to Europe, tightening the market further. European gas prices have declined 0.6% over the week."
+    },
+    {
+      "id": "te:markets:586710",
+      "time": "2026-09-25 09:59:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Trade Sideways — Soybean futures traded around $13 per bushel, moving sideways near their highest since December 2023 as traders awaited details from an anticipated US-China summit and signs of renewed Chinese demand for US crops. Markets are looking for China to announce specific purchases of US agricultural products or remove its 10% tariff on US soybeans, while Washington and Beijing agreed to extend a pause in their trade war until January 10. The White House said in May that Beijing had committed to buying at least $17 billion of US agricultural products in 2026, 2027 and 2028, though traders cited limited evidence of follow-through. Meanwhile, a stronger dollar weighed on grain markets, making US agricultural goods more expensive for importers, while renewed diplomatic efforts in the Ukraine war raised hopes for improved Black Sea export flows. Focus now turns to USDA quarterly data due next week, expected to show September 1 soybean stocks at 324 million bushels, only slightly below a year ago."
+    },
+    {
+      "id": "5112951",
+      "time": "2026-09-25 09:59:34",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【傳美伊商討霍爾木茲海峽分階段通航協議，油價回落】有訊息稱美伊談判代表正在磋商一項分階段協議，由德黑蘭方面重啟霍爾木茲海峽通航，油價隨之下跌。截至發稿，美油、布油跌幅均約為2%。 伊朗外長阿巴斯·阿拉格齊向記者表示，伊朗已向美方提交一份新方案，滿足特定條件後將重開霍爾木茲海峽。 一份具備可行性的分階段協議，或將推動布倫特原油快速跌破100美元/桶；若原油出口或物流鏈條再度中斷，油價則有望重返120美元/桶。"
+    },
     {
       "id": "5112950",
       "time": "2026-09-25 09:57:46",

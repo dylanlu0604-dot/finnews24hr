@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-25 09:58:50",
-  "count": 12667,
+  "updated": "2026-09-25 10:02:39",
+  "count": 12664,
   "items": [
+    {
+      "id": "5112955",
+      "time": "2026-09-25 10:01:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官：現在還不是實施貨幣寬鬆政策的時候。"
+    },
+    {
+      "id": "5112953",
+      "time": "2026-09-25 10:01:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：願美中兩國人民能有一個更和諧、和平與繁榮的未來】當地時間9月24日晚，國家主席習近平和夫人彭麗媛在白宮出席美國總統特朗普和夫人梅拉尼婭舉行的歡迎宴會。特朗普總統發表致辭。特朗普說：“我邀請大家共同舉杯，向習近平主席和彭麗媛女士致敬，併為美中兩國之間這份跨越數千英里、綿延數百年的深厚友誼乾杯。願美中兩國人民能有一個更和諧、和平與繁榮的未來。”（央視新聞）"
+    },
+    {
+      "id": "5112952",
+      "time": "2026-09-25 10:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數開盤上漲0.3%，至6315.53點。"
+    },
+    {
+      "id": "te:markets:586713",
+      "time": "2026-09-25 10:00:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Extend Losing Streak — The Hang Seng Index slipped 1.7%, or 419 points, to 24,333 on Friday, extending losses for third consecutive sessions as surging global bond yields surged and concerns over inflation and interest rates weighed on risk appetite. The decline came after US Treasury yields climbed sharply on Thursday, with the 10-year yield rising to around 5.20%, its highest level since 2007, while the 30-year yield reached its highest level since 2004, reinforcing expectations that the Federal Reserve could keep rates higher for longer. Brent crude remained above $103 a barrel after a Houthi missile attack on Saudi Arabia revived concerns about potential supply disruptions. Technology and finance stocks led the decline, with Tencent (-1.1%), AIA (-2.2%), Xiaomi (-3.4%), HKEX (-1.4%), and Meituan (-2.5%) among the notable losers. Investors also awaited China’s PMI data and continued to assess the Trump-Xi Jinping summit for signals on trade and economic policy."
+    },
+    {
+      "id": "te:markets:586712",
+      "time": "2026-09-25 10:00:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Falls on Hormuz Deal Hopes — European natural gas prices fell to €74.4 per megawatt-hour on Friday, giving back some of the previous session’s gains amid reports of US-Iran discussions over a phased agreement to reopen the Strait of Hormuz and end the US blockade. The strait remains a major sticking point in efforts to resolve the nearly seven-month conflict, with neither side willing to relinquish control of the key waterway. LNG flows from the Persian Gulf remain severely disrupted, intensifying competition between Europe and Asia for limited global supplies as the region races to rebuild inventories ahead of the winter heating season. European gas storage is currently just over 70% full, below both the seasonal norm and the region’s target, leaving the market vulnerable to further supply disruptions. Maintenance in Norway is also curbing pipeline supplies to Europe, tightening the market further. European gas prices have declined 0.6% over the week."
+    },
+    {
+      "id": "te:markets:586710",
+      "time": "2026-09-25 09:59:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Trade Sideways — Soybean futures traded around $13 per bushel, moving sideways near their highest since December 2023 as traders awaited details from an anticipated US-China summit and signs of renewed Chinese demand for US crops. Markets are looking for China to announce specific purchases of US agricultural products or remove its 10% tariff on US soybeans, while Washington and Beijing agreed to extend a pause in their trade war until January 10. The White House said in May that Beijing had committed to buying at least $17 billion of US agricultural products in 2026, 2027 and 2028, though traders cited limited evidence of follow-through. Meanwhile, a stronger dollar weighed on grain markets, making US agricultural goods more expensive for importers, while renewed diplomatic efforts in the Ukraine war raised hopes for improved Black Sea export flows. Focus now turns to USDA quarterly data due next week, expected to show September 1 soybean stocks at 324 million bushels, only slightly below a year ago."
+    },
+    {
+      "id": "5112951",
+      "time": "2026-09-25 09:59:34",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【傳美伊商討霍爾木茲海峽分階段通航協議，油價回落】有訊息稱美伊談判代表正在磋商一項分階段協議，由德黑蘭方面重啟霍爾木茲海峽通航，油價隨之下跌。截至發稿，美油、布油跌幅均約為2%。 伊朗外長阿巴斯·阿拉格齊向記者表示，伊朗已向美方提交一份新方案，滿足特定條件後將重開霍爾木茲海峽。 一份具備可行性的分階段協議，或將推動布倫特原油快速跌破100美元/桶；若原油出口或物流鏈條再度中斷，油價則有望重返120美元/桶。"
+    },
     {
       "id": "5112950",
       "time": "2026-09-25 09:57:46",
@@ -115080,103 +115149,6 @@
         "Impact bullish"
       ],
       "text": "HSI rose more than 1%, led by semiconductors, innovative pharmaceuticals and humanoid-robot stocks."
-    },
-    {
-      "id": "mkt:01a0b240-2840-7118-85ee-48347db4aa10",
-      "time": "2026-09-18 10:02:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share perovskite PV cell sector rallied; Yamadun jumped over 8%, with Kuaike Electronics, Laplace, Lushan New Materials, Liansheng Technology and Rongqi Technology also advancing. The State Administration for Market Regulation issued China’s first national standard for perovskite photovoltaics, slated to take effect in 2027."
-    },
-    {
-      "id": "5100968",
-      "time": "2026-09-18 10:02:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【12306回應國慶假期高鐵漲價】9月16日，國慶假期前一天高鐵票開售。有網友稱“準備搶國慶期間的車票，發現車票居然漲價了。”該網友曬出的截圖顯示，9月25日，重慶北至南京南D988次列車票價為446元起，9月30日則為520元起。另有網友分享了廣州至潮汕G6592次列車票價變化，該網友稱，“同個班次，平時價格是279元，中秋漲到298元，國慶漲到302元。”9月18日早間，12306官方客服表示，高鐵票價可能因節假日客流等因素浮動，不同日期優惠折扣不同，並非漲價。具體票價以12306官方顯示為準。對於何時購票更優惠，客服則表示，無法確保某一時段的優惠力度大小。一般情況下，開票期間不會出現較大變化，但也不排除特殊情況。（中新經緯）"
-    },
-    {
-      "id": "5100967",
-      "time": "2026-09-18 10:01:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "Waymo：地圖測繪與適配工作將於2027年開展。"
-    },
-    {
-      "id": "5100966",
-      "time": "2026-09-18 10:01:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "Waymo ：計劃於 2028 年在新加坡提供付費自動駕駛計程車服務。"
-    },
-    {
-      "id": "5100965",
-      "time": "2026-09-18 10:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "資料顯示，週四共有四艘大宗商品貨船駛過霍爾木茲海峽，而十日均值約為16艘。"
-    },
-    {
-      "id": "5100964",
-      "time": "2026-09-18 10:00:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2214.00點。"
-    },
-    {
-      "id": "5100963",
-      "time": "2026-09-18 10:00:24",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局釋出首個鈣鈦礦光伏領域國家標準】市場監管總局釋出首個鈣鈦礦光伏領域國家標準《光伏器件 第12部分：鈣鈦礦光伏電池及元件的電流-電壓（I-V）特性測量方法》，將於2027年正式實施。在“雙碳”目標推動下，鈣鈦礦光伏技術發展迅速，正從實驗室走向吉瓦級大規模量產，電池及元件的測試認證需求不斷增長。但鈣鈦礦器件在光照和電壓變化下效能容易波動，測試結果不夠穩定，面積定義也尚未統一，過去常用於晶矽和薄膜電池的測試方法難以直接套用。簡單來說，該標準要解決的是鈣鈦礦電池和元件到底該怎麼測才能測得準、比得公平。鈣鈦礦器件在光照下效能會變化，不能像傳統晶矽那樣快速一測即可。該標準系統規定了測試裝置、測試前的穩定化處理要求，以及如何測量電流-電壓特性、如何計算面積和發電效率等。針對實驗室研發和規模化生產的不同需要，該標準給出快速測量法，並補充最大功率點追蹤法、十點準穩態擬合法（仲裁法）、漸進法等更貼近真實工作狀態的準穩態測試方法。同時，該標準統一總面積與光闌面積定義及效率計算，讓不同機構測出的結果可以放在同一把標尺上比較，最終形成一套可驗證、可復現的標準化測試流程。該標準構建了科學、可靠、可推廣的鈣鈦礦光伏I-V特性測量方法體系，填補了我國在新興光伏技術標準化測試領域的空白。它將成為檢測認證、產品研發、產線質控和貿易交付的“統一標尺”，為後續標準體系完善、國際標準制定及鈣鈦礦光伏產業化推廣應用提供關鍵技術支撐。"
-    },
-    {
-      "id": "mkt:01a0b23e-4d11-7118-85ee-40575ac0cf75",
-      "time": "2026-09-18 10:00:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Refinitiv shipping data showed four merchant vessels transited the Strait of Hormuz on Thursday, below the 10-day average of about 16."
-    },
-    {
-      "id": "mkt:01a0b23d-d852-7118-85ee-3901e6d660ca",
-      "time": "2026-09-18 09:59:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GOOGL.O",
-        "Impact bullish",
-        "BX.O"
-      ],
-      "text": "【India approves loans of over 30 bln rupees each to four data centers to back AI buildout】India's largest state-owned infrastructure finance institution has approved loans of more than 30 billion rupees (about $313m) apiece to at least four data centers to support AI infrastructure. Managing director Rajkiran Rai G. said the facilities carry a five-year moratorium followed by repayment over the next 10 years. Lender demand underscores rising corporate capex on large data-center projects; global investors from EQT AB and Blackstone to Alphabet, and domestic groups including Adani Group, have pledged billions to build AI compute capacity in India."
-    },
-    {
-      "id": "mkt:01a0b23d-cc58-7118-85ee-34492092f88b",
-      "time": "2026-09-18 09:59:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share pharmaceutical distribution sector rose; Hefu China hit the daily limit-up, while Luyan Pharmaceutical, Runda Medical, Huaren Health, Shuyu Pingmin and Saili Medical also advanced."
     }
   ]
 }
