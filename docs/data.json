@@ -1,7 +1,124 @@
 {
-  "updated": "2026-09-25 20:08:26",
+  "updated": "2026-09-25 20:12:14",
   "count": 12276,
   "items": [
+    {
+      "id": "mkt:01a0d87a-7dbb-7118-869b-46e9c616f3a0",
+      "time": "2026-09-25 20:11:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said three countries affirmed Saudi Arabia's right to defend its security."
+    },
+    {
+      "id": "5113575",
+      "time": "2026-09-25 20:11:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "泰國財政部長：泰國將尋求利基半導體領域的投資。"
+    },
+    {
+      "id": "te:markets:586928",
+      "time": "2026-09-25 20:10:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas is down by 5% — Natural gas decreased 5% to 3.1321 USD/MMBtu"
+    },
+    {
+      "id": "5113574",
+      "time": "2026-09-25 20:10:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "泰國財政部長：泰銖走弱或對經濟更有利，我們不希望匯率出現波動。2026年和2027年通脹率應維持在3%以內。目標是在三年內實現3%的國內生產總值（GDP）增速。2026年消費補貼計劃對GDP增長的拉動將在0.4%-0.5%之間。明年泰國經濟增速有望達到2.5%。"
+    },
+    {
+      "id": "mkt:01a0d878-bfac-7118-869b-3dfbc14e1096",
+      "time": "2026-09-25 20:09:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Kremlin says sanctions must be lifted to end Russia's diesel export ban."
+    },
+    {
+      "id": "5113573",
+      "time": "2026-09-25 20:09:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮：必須取消制裁才能結束柴油出口禁令。"
+    },
+    {
+      "id": "mkt:01a0d878-6354-7118-869b-3201c4ad5782",
+      "time": "2026-09-25 20:09:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Kremlin says it will tie a diesel solution to Black Sea shipping security."
+    },
+    {
+      "id": "5113572",
+      "time": "2026-09-25 20:09:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮稱土耳其已就黑海安全問題提交建議，但尚未展開實質性談判。"
+    },
+    {
+      "id": "mkt:01a0d878-429d-7118-869b-2d402686bed8",
+      "time": "2026-09-25 20:09:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's finance minister said a weaker Thai baht could be more beneficial for the economy but said he does not want exchange-rate volatility."
+    },
+    {
+      "id": "mkt:01a0d878-389f-7118-869b-23b3e9fce85b",
+      "time": "2026-09-25 20:09:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's finance minister said the target is to achieve 3% GDP growth within three years."
+    },
+    {
+      "id": "mkt:01a0d878-2772-7118-869b-1e8f7387b152",
+      "time": "2026-09-25 20:09:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand finance minister says public debt will rise to 68-69% of GDP this year."
+    },
+    {
+      "id": "5113571",
+      "time": "2026-09-25 20:09:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國財長：今年公共債務佔GDP之比將升至68%-69%。"
+    },
+    {
+      "id": "mkt:01a0d877-e98e-7118-869b-126f2cb9e0d5",
+      "time": "2026-09-25 20:08:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's finance minister says the economy may expand 2.5% next year."
+    },
     {
       "id": "mkt:01a0d877-165c-7118-869b-0ac11582ac59",
       "time": "2026-09-25 20:07:58",
@@ -111585,121 +111702,6 @@
         "MKT News"
       ],
       "text": "cenc automatic measurement: 20:09 Sep 18 preliminary M3.8 earthquake near Xinlong County, Ganzi Prefecture, Sichuan (30.92N, 99.89E). Final magnitude pending formal rapid report."
-    },
-    {
-      "id": "mkt:01a0b46e-3fab-7118-8601-cea652d36208",
-      "time": "2026-09-18 20:11:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhao Leji, Wang Huning meet Egyptian Senate President Farid in Beijing, pledge to implement Xi’s Egypt visit agreements】Beijing, Sept 18 — Zhao Leji, chairman of the National People’s Congress Standing Committee, and Wang Huning, chairman of the Chinese People’s Political Consultative Conference, separately met Egyptian Senate President Farid. Both said President Xi’s historic visit to Egypt earlier this month produced broad consensus with Egyptian leaders and pledged to implement the leaders’ important agreements, deepen political trust, strengthen parliamentary exchanges, and expand practical cooperation to advance construction of a China‑Egypt community of shared future."
-    },
-    {
-      "id": "mkt:01a0b46e-147c-7118-8601-c1e6849af562",
-      "time": "2026-09-18 20:11:48",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【China issues '15th Five-Year' cultural industry plan, sets seven priority tasks】China's Ministry of Culture and Tourism issued a '15th Five-Year' plan for cultural industry development, defining overall requirements, seven priority tasks and supporting measures, and assigning responsibilities across the culture and tourism system. The plan aims to, by 2030, materially expand industry scale, overall strength and comprehensive returns; strengthen the industry system and innovation capacity; increase supply of higher-quality cultural products; deepen market activity and cultural consumption; and steadily raise international competitiveness and the sector's pillar-role in the economy. It directs culture and tourism authorities at all levels to implement the plan, enhance interagency and vertical coordination, refine working mechanisms and ensure delivery."
-    },
-    {
-      "id": "5102268",
-      "time": "2026-09-18 20:11:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：09月18日20時09分在四川甘孜州新龍縣附近（北緯30.92度，東經99.89度）發生3.8級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "5102267",
-      "time": "2026-09-18 20:11:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【文旅部：支援量子科技、具身智慧、腦機介面、第六代行動通訊等未來產業技術在文化產業的應用】近日，文化和旅遊部發布《文化產業發展“十五五”規劃》。其中提到，加快推動數字技術全方位全鏈條普及應用，壯大數字文化產業，發展以智慧互動、沉浸體驗為特徵的新型文化業態。推動虛擬現實、高畫質顯示、全息投影、智慧穿戴等創新應用，發展數字動漫、數字演藝、數字娛樂、數字藝術、數字展覽等新業態。推動內容、技術與空間融合，在文博、演藝、文旅融合等領域發展沉浸式新業態。創新發展時尚產業，培育一批彰顯中國審美、中國風格的時尚產品和品牌。支援新能源、新材料在文化產業領域的創新應用，推動綠色低碳發展。支援量子科技、具身智慧、腦機介面、第六代行動通訊等未來產業技術在文化產業的應用。"
-    },
-    {
-      "id": "5102266",
-      "time": "2026-09-18 20:10:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【文旅部：加強對優質文化內容創作生產的扶持引導】近日，文化和旅遊部發布《文化產業發展“十五五”規劃》。其中提到，加強對優質文化內容創作生產的扶持引導，提升文化內容和產品原創能力，完善有利於文化精品持續湧現的生產經營機制，形成健康向上、文質兼美、形式多樣的文化產品體系。深入挖掘優秀文化資源，支援戲劇、曲藝、音樂、舞蹈、美術、動漫等領域創作生產，推動文化精品與市場需求、現代生活有機結合。提升文化創意產品設計開發水平，開發體現傳統文化與當代價值的國潮文創產品。加強對文化企事業單位、內容創作者、網際網路平臺的引導，鼓勵協作共創，繁榮網際網路條件下新大眾文藝。"
-    },
-    {
-      "id": "5102265",
-      "time": "2026-09-18 20:10:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【文旅部：推動人工智慧與內容創作、傳播分發、消費體驗等產業鏈重點環節深度融合】近日，文化和旅遊部發布《文化產業發展“十五五”規劃》（以下簡稱《規劃》）。其中提到，推動人工智慧與內容創作、傳播分發、消費體驗等產業鏈重點環節深度融合。鼓勵文化企業基於人工智慧技術改造提升研發、生產、管理、服務流程。培育面向具體文化場景和細分文化行業的大模型應用產品，支援開發輕量化人工智慧應用。拓展動漫、演藝、創意設計、文博等領域人工智慧應用場景。推動文化場所和設施數字化、智慧化升級。"
-    },
-    {
-      "id": "te:economy:585016",
-      "time": "2026-09-18 20:10:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "House Price Index MoM",
-        "Importance 1"
-      ],
-      "text": "Canada New Housing Prices Extend Monthly Decline — Canada’s new housing prices fell 0.1% month over month in August 2026, matching the decline recorded in July. The drop was also the same as in the previous two months and remained the smallest since prices last increased in February. House-only prices decreased 0.1%, following a 0.2% decline in July, while land prices were unchanged after falling 0.1% in the previous month."
-    },
-    {
-      "id": "mkt:01a0b46c-172b-7118-8601-bc156281a998",
-      "time": "2026-09-18 20:09:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Industry news outlet ShippingWatch reports Maersk has ordered 26 new container ships."
-    },
-    {
-      "id": "5102264",
-      "time": "2026-09-18 20:09:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100期貨上漲0.19%，道指期貨下跌0.19%。"
-    },
-    {
-      "id": "mkt:01a0b46b-da77-7118-8601-b013936e3e7c",
-      "time": "2026-09-18 20:09:22",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Italy's finance minister said the ECB's rate hikes cannot solve inflation."
-    },
-    {
-      "id": "5102263",
-      "time": "2026-09-18 20:09:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "焦爾傑蒂：歐洲央行加息無法解決通脹問題。"
-    },
-    {
-      "id": "5102262",
-      "time": "2026-09-18 20:08:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "航運觀察網訊息：馬士基已訂購26艘新集裝箱船。"
-    },
-    {
-      "id": "mkt:01a0b46b-3870-7118-8601-abe8275ac89d",
-      "time": "2026-09-18 20:08:40",
-      "tags": [
-        "MKT News",
-        "S&P500"
-      ],
-      "text": "S&P 500 futures have erased earlier gains and are trading flat."
     }
   ]
 }

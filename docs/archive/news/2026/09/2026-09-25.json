@@ -1,7 +1,124 @@
 {
   "date": "2026-09-25",
-  "count": 1536,
+  "count": 1549,
   "items": [
+    {
+      "id": "mkt:01a0d87a-7dbb-7118-869b-46e9c616f3a0",
+      "time": "2026-09-25 20:11:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said three countries affirmed Saudi Arabia's right to defend its security."
+    },
+    {
+      "id": "5113575",
+      "time": "2026-09-25 20:11:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "泰國財政部長：泰國將尋求利基半導體領域的投資。"
+    },
+    {
+      "id": "te:markets:586928",
+      "time": "2026-09-25 20:10:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas is down by 5% — Natural gas decreased 5% to 3.1321 USD/MMBtu"
+    },
+    {
+      "id": "5113574",
+      "time": "2026-09-25 20:10:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "泰國財政部長：泰銖走弱或對經濟更有利，我們不希望匯率出現波動。2026年和2027年通脹率應維持在3%以內。目標是在三年內實現3%的國內生產總值（GDP）增速。2026年消費補貼計劃對GDP增長的拉動將在0.4%-0.5%之間。明年泰國經濟增速有望達到2.5%。"
+    },
+    {
+      "id": "mkt:01a0d878-bfac-7118-869b-3dfbc14e1096",
+      "time": "2026-09-25 20:09:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Kremlin says sanctions must be lifted to end Russia's diesel export ban."
+    },
+    {
+      "id": "5113573",
+      "time": "2026-09-25 20:09:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮：必須取消制裁才能結束柴油出口禁令。"
+    },
+    {
+      "id": "mkt:01a0d878-6354-7118-869b-3201c4ad5782",
+      "time": "2026-09-25 20:09:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Kremlin says it will tie a diesel solution to Black Sea shipping security."
+    },
+    {
+      "id": "5113572",
+      "time": "2026-09-25 20:09:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮稱土耳其已就黑海安全問題提交建議，但尚未展開實質性談判。"
+    },
+    {
+      "id": "mkt:01a0d878-429d-7118-869b-2d402686bed8",
+      "time": "2026-09-25 20:09:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's finance minister said a weaker Thai baht could be more beneficial for the economy but said he does not want exchange-rate volatility."
+    },
+    {
+      "id": "mkt:01a0d878-389f-7118-869b-23b3e9fce85b",
+      "time": "2026-09-25 20:09:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's finance minister said the target is to achieve 3% GDP growth within three years."
+    },
+    {
+      "id": "mkt:01a0d878-2772-7118-869b-1e8f7387b152",
+      "time": "2026-09-25 20:09:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand finance minister says public debt will rise to 68-69% of GDP this year."
+    },
+    {
+      "id": "5113571",
+      "time": "2026-09-25 20:09:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國財長：今年公共債務佔GDP之比將升至68%-69%。"
+    },
+    {
+      "id": "mkt:01a0d877-e98e-7118-869b-126f2cb9e0d5",
+      "time": "2026-09-25 20:08:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's finance minister says the economy may expand 2.5% next year."
+    },
     {
       "id": "mkt:01a0d877-165c-7118-869b-0ac11582ac59",
       "time": "2026-09-25 20:07:58",
