@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-26 00:50:10",
-  "count": 12086,
+  "updated": "2026-09-26 00:54:05",
+  "count": 12092,
   "items": [
+    {
+      "id": "5113782",
+      "time": "2026-09-26 00:53:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於週二推出新政府網站。"
+    },
+    {
+      "id": "mkt:01a0d97a-f80c-7118-869f-d3a88e4ee819",
+      "time": "2026-09-26 00:51:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he hopes to retain U.S. Treasury Secretary Bessent."
+    },
+    {
+      "id": "mkt:01a0d97a-9b5d-7118-869f-cab9a039acdd",
+      "time": "2026-09-26 00:51:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said that as of Sept 25 it had guided 122 commercial vessels to alter course to ensure strict enforcement of related measures."
+    },
+    {
+      "id": "5113781",
+      "time": "2026-09-26 00:51:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普：希望貝森特繼續留任財政部。"
+    },
+    {
+      "id": "5113780",
+      "time": "2026-09-26 00:50:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普：貝森特在財政部幹得非常出色，貝森特將不會擔任超級智慧（SI）主管。"
+    },
+    {
+      "id": "mkt:01a0d979-ff5f-7118-869f-c3170f9fce01",
+      "time": "2026-09-26 00:50:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said U.S. Treasury Secretary Bessent has performed very well."
+    },
+    {
+      "id": "mkt:01a0d979-ebd8-7118-869f-bb3342368e56",
+      "time": "2026-09-26 00:50:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Treasury Secretary Bessent will not serve as head of Superintelligence (SI)."
+    },
+    {
+      "id": "mkt:01a0d979-670a-7118-869f-b1fcad640622",
+      "time": "2026-09-26 00:50:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv sources say the Trump administration will fulfill its commitment by Sept. 30 local time and has decided to allocate $400 mln for military aid to Ukraine."
+    },
+    {
+      "id": "mkt:01a0d979-5db8-7118-869f-aa617500f118",
+      "time": "2026-09-26 00:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "US oil drilling rig count for the week to Sep 25 due in 10 minutes."
+    },
+    {
+      "id": "5113779",
+      "time": "2026-09-26 00:49:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士稱，特朗普政府將在 9 月 30 日截止日前完成承諾，落實 4 億美元烏克蘭軍事援助資金。"
+    },
     {
       "id": "5113778",
       "time": "2026-09-26 00:48:59",
@@ -110034,41 +110124,6 @@
         "國際"
       ],
       "text": "美國北約最高指揮官格林凱維奇今日參加線上簡報會，向五角大樓政策負責人科爾比彙報美國歐洲軍力態勢評估的潛在方案。"
-    },
-    {
-      "id": "5102622",
-      "time": "2026-09-19 00:53:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "LME期銅收漲30美元，報14522美元/噸。LME期鋁收跌13美元，報3288美元/噸。LME期鋅收漲38美元，報3920美元/噸。"
-    },
-    {
-      "id": "mkt:01a0b56f-c845-7118-8608-d82d41709ec3",
-      "time": "2026-09-19 00:53:16",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "US Central Command said as of Sept. 18 it has forced 105 commercial vessels to divert to ensure compliance with relevant requirements."
-    },
-    {
-      "id": "5102621",
-      "time": "2026-09-19 00:53:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美國 “拳師” 號兩棲攻擊艦（LHD-4）在阿拉伯海開展飛行作業。拳師號及其搭載的海軍陸戰隊遠征部隊繼續實施美國對伊朗的封鎖。截至 9 月 18 日，美國中央司令部部隊已勒令 105 艘商船改道，以確保嚴格遵守相關規定。"
-    },
-    {
-      "id": "5102620",
-      "time": "2026-09-19 00:50:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：霍爾木茲海峽附近發生爆炸。"
     }
   ]
 }

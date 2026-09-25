@@ -1,7 +1,97 @@
 {
   "date": "2026-09-26",
-  "count": 57,
+  "count": 67,
   "items": [
+    {
+      "id": "5113782",
+      "time": "2026-09-26 00:53:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於週二推出新政府網站。"
+    },
+    {
+      "id": "mkt:01a0d97a-f80c-7118-869f-d3a88e4ee819",
+      "time": "2026-09-26 00:51:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he hopes to retain U.S. Treasury Secretary Bessent."
+    },
+    {
+      "id": "mkt:01a0d97a-9b5d-7118-869f-cab9a039acdd",
+      "time": "2026-09-26 00:51:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said that as of Sept 25 it had guided 122 commercial vessels to alter course to ensure strict enforcement of related measures."
+    },
+    {
+      "id": "5113781",
+      "time": "2026-09-26 00:51:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普：希望貝森特繼續留任財政部。"
+    },
+    {
+      "id": "5113780",
+      "time": "2026-09-26 00:50:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普：貝森特在財政部幹得非常出色，貝森特將不會擔任超級智慧（SI）主管。"
+    },
+    {
+      "id": "mkt:01a0d979-ff5f-7118-869f-c3170f9fce01",
+      "time": "2026-09-26 00:50:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said U.S. Treasury Secretary Bessent has performed very well."
+    },
+    {
+      "id": "mkt:01a0d979-ebd8-7118-869f-bb3342368e56",
+      "time": "2026-09-26 00:50:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Treasury Secretary Bessent will not serve as head of Superintelligence (SI)."
+    },
+    {
+      "id": "mkt:01a0d979-670a-7118-869f-b1fcad640622",
+      "time": "2026-09-26 00:50:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv sources say the Trump administration will fulfill its commitment by Sept. 30 local time and has decided to allocate $400 mln for military aid to Ukraine."
+    },
+    {
+      "id": "mkt:01a0d979-5db8-7118-869f-aa617500f118",
+      "time": "2026-09-26 00:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "US oil drilling rig count for the week to Sep 25 due in 10 minutes."
+    },
+    {
+      "id": "5113779",
+      "time": "2026-09-26 00:49:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士稱，特朗普政府將在 9 月 30 日截止日前完成承諾，落實 4 億美元烏克蘭軍事援助資金。"
+    },
     {
       "id": "5113778",
       "time": "2026-09-26 00:48:59",
