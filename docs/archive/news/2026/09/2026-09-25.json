@@ -1,7 +1,94 @@
 {
   "date": "2026-09-25",
-  "count": 907,
+  "count": 916,
   "items": [
+    {
+      "id": "5113110",
+      "time": "2026-09-25 13:53:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿維塔香港上市今年內還有希望嗎？長安汽車回應】9月23日，長安汽車在路演活動中表示，關於阿維塔與深藍的協同，目前正在有序推進中，關於具體協同整合細節，請以公司官方釋出的資訊為準。針對阿維塔香港上市今年內是否還有希望，長安汽車回覆稱，阿維塔上市計劃的相關資訊請以其官方釋出為準。針對公司鈉電池何時量產，長安汽車稱，公司在鈉離子電池領域已取得階段性進展，鈉離子電池突破高功率極片單點技術，提升極端溫況續航體驗；此外公司深化與寧德時代合作，鈉新換電技術專案立項，共同研發新體系電池。"
+    },
+    {
+      "id": "5113109",
+      "time": "2026-09-25 13:53:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2名以軍在加沙因無人機故障被炸死】據以色列媒體今天（9月25日）援引以色列軍方宣告報道，2名以軍預備役士兵9月24日在巴勒斯坦加沙地帶北部拜特哈嫩附近“因無人機故障墜毀爆炸身亡”。宣告稱，事發時這2名士兵正操作2架無人機，其中一架成功發射，另一架因故障墜入以軍哨所並爆炸。以軍已暫停使用相關型號無人機，並對故障原因展開調查，包括是否涉及通訊干擾等因素。 報道稱，自2023年10月本輪巴以衝突爆發以來，以軍死亡人數已達970人。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0d71f-2a9b-7118-8695-731f81b7f54d",
+      "time": "2026-09-25 13:52:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index trimmed losses to 1.5% after an early-session drop of as much as 2.6%."
+    },
+    {
+      "id": "te:markets:586779",
+      "time": "2026-09-25 13:50:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 0.1% Lower, but Posts 2nd Weekly Gain — The NZX 50 fell 14 points, or 0.1%, to 13,811 on Friday, after being flat in the previous session, as a global bond sell-off amid a surge in US Treasury yields raised expectations of a Fed interest rate hike. Caution was also evident as high oil prices persisted amid ongoing Gulf shipping disruptions. Recently, RBNZ Governor Anna Breman warned that inflation could be higher if high oil prices persist. Traders also anticipated the release of China’s PMI data, New Zealand’s top trading partner, as well as the US PCE Index and jobs data due next week, which could provide clues about the Fed’s monetary policy decision at its upcoming meeting. Financials, real estate, utilities, and communication services mainly weighed on the index, with notable losses from Delegat Group (-4.1%), Infratil (-2.1%), Brisco Group (-1.8%), Ventia Services (-1.5%), Fletcher Building (-0.8%), and F&C Investment (-0.7%). For the week, the index rose 0.5%, marking its second straight weekly gain."
+    },
+    {
+      "id": "mkt:01a0d71d-1c7b-7118-8695-6d4a9d5a0d18",
+      "time": "2026-09-25 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "Germany's October GfK consumer confidence index due in ten minutes."
+    },
+    {
+      "id": "5113108",
+      "time": "2026-09-25 13:48:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【交易商：印度煉廠採購10月船期伊拉克原油】據知情交易商稱，伊拉克國家石油銷售公司（SOMO）完成招標後，印度煉油企業以離岸價（FOB）購入10月裝船的伊拉克原油。印度石油公司購入約100萬桶巴士拉中質原油。這批貨的定價較迪拜基準原油折價約23至28美元/桶。此舉與戰時慣例不同；以往通常由貿易商先裝取伊拉克原油，再轉售給煉油企業。"
+    },
+    {
+      "id": "5113107",
+      "time": "2026-09-25 13:47:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生科技指數跌幅收窄至1.5%，此前一度跌2.6%。"
+    },
+    {
+      "id": "5113106",
+      "time": "2026-09-25 13:38:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：菲律賓2026年經常賬戶赤字將擴大至GDP的4.8%。"
+    },
+    {
+      "id": "5113105",
+      "time": "2026-09-25 13:38:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織預測，菲律賓2026年GDP增長率為3.4%，2027年為5.1%。"
+    },
     {
       "id": "5113104",
       "time": "2026-09-25 13:35:42",
