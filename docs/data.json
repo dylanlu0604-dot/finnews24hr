@@ -1,7 +1,122 @@
 {
-  "updated": "2026-09-25 19:53:12",
-  "count": 12283,
+  "updated": "2026-09-25 19:57:03",
+  "count": 12284,
   "items": [
+    {
+      "id": "mkt:01a0d86c-84f6-7118-869a-d7c1ada120ea",
+      "time": "2026-09-25 19:56:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "EU high representative for foreign affairs and security policy kallas said EU member states have agreed on conditions to provide funding to Ukraine through the European Peace Facility (EPF)."
+    },
+    {
+      "id": "5113555",
+      "time": "2026-09-25 19:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：歐盟各國就烏克蘭歐洲和平基金資金條款達成一致。"
+    },
+    {
+      "id": "mkt:01a0d86c-450d-7118-869a-c9b1a06abf49",
+      "time": "2026-09-25 19:56:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP says AI will remain a key driver of US equity performance. Historically, markets tend to weaken after the Fed’s first rate hike and ahead of midterm elections, then gradually recover toward year‑end."
+    },
+    {
+      "id": "mkt:01a0d86c-1920-7118-869a-c5fb9feb4556",
+      "time": "2026-09-25 19:55:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CITIGROUP says equities have remained resilient despite rising oil prices, higher interest rates and increased Fed policy uncertainty."
+    },
+    {
+      "id": "mkt:01a0d86c-0510-7118-869a-bfb05253dca6",
+      "time": "2026-09-25 19:55:52",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Citigroup remains bullish on US equities, maintains an overweight view and will add exposure on market pullbacks."
+    },
+    {
+      "id": "mkt:01a0d86b-8a8f-7118-869a-b0c46bfe8d59",
+      "time": "2026-09-25 19:55:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iranian Foreign Minister Araghchi told UK Foreign Secretary Ed Miliband that the UK, France and Germany must be held responsible for failing to take a firm stance against the United States and Israel launching a war on Iran."
+    },
+    {
+      "id": "5113554",
+      "time": "2026-09-25 19:55:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數收盤上漲0.2%，報170,765.20點。"
+    },
+    {
+      "id": "mkt:01a0d86a-5463-7118-869a-ab9d32d46c08",
+      "time": "2026-09-25 19:54:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's finance ministry set the H2 financing limit at 500 billion Indian rupees (INR 500 bln)."
+    },
+    {
+      "id": "5113553",
+      "time": "2026-09-25 19:53:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：夏威夷大島週末可能發生災難性且危及生命的突發性洪水。"
+    },
+    {
+      "id": "te:markets:586924",
+      "time": "2026-09-25 19:53:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield at Over 1-Week High — South Africa’s 10-year government bond yield was around 8.90%, its highest since mid-September, as investors continued to assess the South African Reserve Bank’s latest policy decision and Middle East developments. The SARB raised its policy rate by 25 bps on September 23, its second hike this year, and struck a relatively hawkish tone, citing renewed fuel-price pressures and rising global interest rates. The central bank said tighter monetary policy was needed to prevent higher inflation from becoming entrenched. It expects inflation to remain elevated into 2027, driven largely by fuel and services inflation, before returning to its 3% target toward the end of 2027. The inflation rate rose to 4.4% in August from 4.3% in July. The Fed’s 25 bps hike last week has further raised pressure on the SARB to preserve South Africa’s yield advantage over US assets. Meanwhile, the unresolved US-Iran conflict continue to fuel concerns over inflation, despite the recent easing in oil prices."
+    },
+    {
+      "id": "5113552",
+      "time": "2026-09-25 19:53:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部：下半財年預付款限額設定為5000億印度盧比。"
+    },
     {
       "id": "5113551",
       "time": "2026-09-25 19:52:14",
@@ -111637,93 +111752,6 @@
         "MKT News"
       ],
       "text": "French President Macron has called leaders of all parliamentary parties for briefings amid a worsening international situation."
-    },
-    {
-      "id": "mkt:01a0b460-62f6-7118-8601-6018d160e917",
-      "time": "2026-09-18 19:56:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Pakistan's KSE-100 index closed up 1.1% at 170,884.60 points."
-    },
-    {
-      "id": "5102238",
-      "time": "2026-09-18 19:56:38",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【兩部門整治機動車排放檢驗亂象：將嚴重弄虛作假機構清出市場】車輛年檢、尾氣檢測是守護空氣質量的重要關口。為堵住機動車尾氣檢測弄虛作假、檢測不規範等問題，生態環境部、市場監管總局近日聯合印發《關於推進機動車排放檢驗機構監管改革 提升排放檢驗質量的意見》，今後，嚴重弄虛作假機構將被堅決清出市場。\n\n《意見》要求聚焦機動車排放檢驗機構裝置管理、檢驗操作、日常運維、人員技能等薄弱環節，建立健全權責清晰、執行規範、全程可溯、常態監管的全過程管理體系。要堅持源頭嚴管，指導機動車排放檢驗機構按照《生態環境法典》要求落實主體責任，提升檢驗資料質量和檢驗合規水平。\n\n在機構准入和退出管理上，《意見》要求，加強資質認定專家評審，確保排放檢驗裝置和人員符合條件要求，對違法機構和人員依法處罰懲戒，嚴重弄虛作假機構要被堅決清出市場。\n\n在檢驗合規執行方面，要求機構全面依法開展排放檢驗，加強裝置的日常自檢維護，相關過程要納入電子檔案實施全面管理。嚴禁使用具有作弊功能或不符合國家標準要求的軟硬體，鼓勵開展裝置自願性認證和明管明線設定。\n\n在監管方面，全面推行大資料監管模式，建立檢驗異常識別和智慧預警模型，動態識別問題線索，依法查處違法違規行為。要推進檢測線“一線一碼”，自動調取檢驗裝置全流程管理情況。同時完善行業監督和社會監督機制，鼓勵樹立行業標杆，促進檢驗行業健康有序發展，切實築牢移動源汙染防治防線。（央視新聞）"
-    },
-    {
-      "id": "5102237",
-      "time": "2026-09-18 19:56:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑普特：擬定增募資不超13.73億元 投向光互聯等專案】傑普特公告稱，公司擬向特定物件發行A股股票，募集資金總額不超過13.73億元，扣除發行費用後擬投向三大方向：高密度光互聯產品生產建設專案擬投入7.66億元，傑普特總部及研發中心升級建設專案擬投入2.17億元，補充流動資金擬投入3.90億元。若實際募集資金淨額不足，公司將按專案輕重緩急調整投入金額，缺口部分自籌解決。"
-    },
-    {
-      "id": "5102236",
-      "time": "2026-09-18 19:56:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑普特：股東廈門同聚減持0.12%股份 觸及5%整數倍】傑普特公告稱，公司持股5%以上股東廈門市同聚同源諮詢管理合夥企業（有限合夥）於2026年9月17日透過集中競價交易方式減持公司股份11.49萬股，佔公司總股本的0.12%。本次權益變動後，廈門同聚及其一致行動人黃治家、黃淮合計持股比例由35.01%降至34.89%，觸及5%的整數倍。廈門同聚此前披露擬減持不超過95萬股，即不超過公司總股本的1.00%，目前該減持計劃尚未實施完畢。"
-    },
-    {
-      "id": "5102235",
-      "time": "2026-09-18 19:56:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【生態保護助中國成主要魚子醬供應國】由於開展大規模的長江生態保護，中國有效維持了珍稀魚類的種群，並使得魚子醬這一世界聞名的產品能夠合法地大規模生產。這場轉變的足跡可在中國中部湖北省的宜都市看到。這裡的村莊中分佈著大型的工廠養殖基地和人工池塘，飼養著100多萬尾曾經瀕危的鱘魚——生產魚子醬的主要魚類之一。資料顯示，中國生產了全球60%的魚子醬。據清江鱘魚谷特種漁業有限公司總經理季堅義介紹，每天，超過1萬罐宜都魚子醬被運往20多個國家。（新華社）"
-    },
-    {
-      "id": "te:markets:585011",
-      "time": "2026-09-18 19:55:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Inch Higher — US equity futures were marginally higher on Friday, holding the rebound from the previous session as energy prices inched lower and halted the momentum of a worsening macroeconomic backdrop. Contracts for the S&P 500, Dow, and Nasdaq 100 were slightly above the flatline. Treasury yields in the longer end of the curve remained under the multi-decade highs touched earlier in the week as crude oil and product prices held off from stretching their rallies, while a unanimous rate hike by the FOMC tamed recent worries the central bank would be complacent to higher underlying inflation. Alphabet and Meta were 2.5% and 1.5% higher premarket, extending the rebound for AI hyperscalers since benchmark credit costs topped earlier in the week. AI infrastructure shares were also higher, recovering since worries over AI security risks drove markets to reconsider the pace of investment on datacenters and chips. Meanwhile, banks edged lower."
-    },
-    {
-      "id": "5102234",
-      "time": "2026-09-18 19:55:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數收盤上漲1.1%，報170884.60點。"
-    },
-    {
-      "id": "mkt:01a0b45e-ce6f-7118-8601-5f9ab5efcf92",
-      "time": "2026-09-18 19:55:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UK prime minister's office said Prime Minister Burnham and Irish Taoiseach Martin reaffirmed a joint commitment to upholding the Belfast Agreement (Good Friday Agreement)."
-    },
-    {
-      "id": "5102233",
-      "time": "2026-09-18 19:54:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相伯納姆與愛爾蘭總理馬丁重申共同維護《貝爾法斯特協議》的承諾。"
-    },
-    {
-      "id": "5102232",
-      "time": "2026-09-18 19:54:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【多國呼籲歐盟撤回農藥管控提案】包括美國、巴西、日本、印度在內的多個國家呼籲歐盟撤回一項農藥管控提案，該提案或將對農產品進口實施更嚴格限制。這些國家要求歐盟與貿易伙伴開展 “實質性磋商”，並在設定農產品進口農藥殘留限量時遵守國際準則。多數簽署國也已透過世界貿易組織表達了相關關切。"
     }
   ]
 }

@@ -1,7 +1,122 @@
 {
   "date": "2026-09-25",
-  "count": 1503,
+  "count": 1514,
   "items": [
+    {
+      "id": "mkt:01a0d86c-84f6-7118-869a-d7c1ada120ea",
+      "time": "2026-09-25 19:56:25",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "EU high representative for foreign affairs and security policy kallas said EU member states have agreed on conditions to provide funding to Ukraine through the European Peace Facility (EPF)."
+    },
+    {
+      "id": "5113555",
+      "time": "2026-09-25 19:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：歐盟各國就烏克蘭歐洲和平基金資金條款達成一致。"
+    },
+    {
+      "id": "mkt:01a0d86c-450d-7118-869a-c9b1a06abf49",
+      "time": "2026-09-25 19:56:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP says AI will remain a key driver of US equity performance. Historically, markets tend to weaken after the Fed’s first rate hike and ahead of midterm elections, then gradually recover toward year‑end."
+    },
+    {
+      "id": "mkt:01a0d86c-1920-7118-869a-c5fb9feb4556",
+      "time": "2026-09-25 19:55:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CITIGROUP says equities have remained resilient despite rising oil prices, higher interest rates and increased Fed policy uncertainty."
+    },
+    {
+      "id": "mkt:01a0d86c-0510-7118-869a-bfb05253dca6",
+      "time": "2026-09-25 19:55:52",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Citigroup remains bullish on US equities, maintains an overweight view and will add exposure on market pullbacks."
+    },
+    {
+      "id": "mkt:01a0d86b-8a8f-7118-869a-b0c46bfe8d59",
+      "time": "2026-09-25 19:55:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iranian Foreign Minister Araghchi told UK Foreign Secretary Ed Miliband that the UK, France and Germany must be held responsible for failing to take a firm stance against the United States and Israel launching a war on Iran."
+    },
+    {
+      "id": "5113554",
+      "time": "2026-09-25 19:55:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數收盤上漲0.2%，報170,765.20點。"
+    },
+    {
+      "id": "mkt:01a0d86a-5463-7118-869a-ab9d32d46c08",
+      "time": "2026-09-25 19:54:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's finance ministry set the H2 financing limit at 500 billion Indian rupees (INR 500 bln)."
+    },
+    {
+      "id": "5113553",
+      "time": "2026-09-25 19:53:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：夏威夷大島週末可能發生災難性且危及生命的突發性洪水。"
+    },
+    {
+      "id": "te:markets:586924",
+      "time": "2026-09-25 19:53:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield at Over 1-Week High — South Africa’s 10-year government bond yield was around 8.90%, its highest since mid-September, as investors continued to assess the South African Reserve Bank’s latest policy decision and Middle East developments. The SARB raised its policy rate by 25 bps on September 23, its second hike this year, and struck a relatively hawkish tone, citing renewed fuel-price pressures and rising global interest rates. The central bank said tighter monetary policy was needed to prevent higher inflation from becoming entrenched. It expects inflation to remain elevated into 2027, driven largely by fuel and services inflation, before returning to its 3% target toward the end of 2027. The inflation rate rose to 4.4% in August from 4.3% in July. The Fed’s 25 bps hike last week has further raised pressure on the SARB to preserve South Africa’s yield advantage over US assets. Meanwhile, the unresolved US-Iran conflict continue to fuel concerns over inflation, despite the recent easing in oil prices."
+    },
+    {
+      "id": "5113552",
+      "time": "2026-09-25 19:53:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度財政部：下半財年預付款限額設定為5000億印度盧比。"
+    },
     {
       "id": "5113551",
       "time": "2026-09-25 19:52:14",
