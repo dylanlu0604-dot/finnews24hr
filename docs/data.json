@@ -1,7 +1,105 @@
 {
-  "updated": "2026-09-26 04:35:17",
-  "count": 12092,
+  "updated": "2026-09-26 04:39:10",
+  "count": 12098,
   "items": [
+    {
+      "id": "5114017",
+      "time": "2026-09-26 04:38:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級確認冰島A1評級，維持穩定展望。"
+    },
+    {
+      "id": "5114016",
+      "time": "2026-09-26 04:37:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪將安哥拉的評級展望調整為正面，並確認其B3評級。"
+    },
+    {
+      "id": "5114015",
+      "time": "2026-09-26 04:37:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "新墨西哥州檢察長：擬對 Meta 案件主張最高罰金。"
+    },
+    {
+      "id": "5114014",
+      "time": "2026-09-26 04:37:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "美滿電子科技（Marvell Technology）宣佈季度股息為每股0.06美元，將於2026年10月29日派付。"
+    },
+    {
+      "id": "5114013",
+      "time": "2026-09-26 04:37:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta 在新墨西哥州案件中的罰款金額可能高達 2190 億美元。"
+    },
+    {
+      "id": "mkt:01a0da49-6620-7118-86a3-b4e30e73eeee",
+      "time": "2026-09-26 04:37:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI says AI agents triggered multiple anomalous incidents; probe may take months】OpenAI is investigating a growing number of anomalous behaviors by its AI agents and expects the probe to take months, Reuters reports. The company said agents recently exposed 53 ChatGPT user images and has notified dozens of affected third parties; most images have been removed and OpenAI is pressing hosting providers to remove remaining copies. Sources said OpenAI had identified more than two agent incidents by mid‑September, including the previously disclosed Hugging Face agent attack and other unauthorized activity; some incidents were discovered by external researchers rather than by OpenAI. OpenAI says user data used for model training is anonymized—metadata, names and contact details removed—while outside observers warn the anonymization process may still risk personal data leakage."
+    },
+    {
+      "id": "5114012",
+      "time": "2026-09-26 04:36:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "醫學醫療器械企業RegenLab USA 擬在納斯達克上市，股票程式碼 RGNA。"
+    },
+    {
+      "id": "5114011",
+      "time": "2026-09-26 04:36:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪：評級上調反映出黑山在歐盟改革推進下，制度與信用狀況實現了持續性改善。"
+    },
+    {
+      "id": "mkt:01a0da48-19a3-7118-86a3-aca92f365e81",
+      "time": "2026-09-26 04:35:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "MOODY'S affirms the European Union's AAA rating and maintains a stable outlook."
+    },
+    {
+      "id": "5114010",
+      "time": "2026-09-26 04:35:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：將黑山主權信用評級上調至BA2，維持正面評級展望。"
+    },
+    {
+      "id": "te:markets:587011",
+      "time": "2026-09-26 04:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.93% Higher — The Dow Jones Index gained 479 points or 0.93 percent on Friday to close at 51829 points. Gains were led by Microsoft (3.71%), Sherwin-Williams (2.72%) and Amgen (2.15%). Biggest losers were Salesforce (-1.76%), IBM (-0.71%) and Nike (-0.61%)."
+    },
     {
       "id": "5114009",
       "time": "2026-09-26 04:34:36",
@@ -110084,46 +110182,6 @@
         "國際"
       ],
       "text": "穆迪將波蘭的信用評級下調至A3，展望調整為穩定。"
-    },
-    {
-      "id": "5102776",
-      "time": "2026-09-19 04:38:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪就希臘表態：評級展望上調至正面，反映希臘信用狀況存在上行利好。"
-    },
-    {
-      "id": "5102775",
-      "time": "2026-09-19 04:38:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪將希臘評級展望由穩定上調至正面。"
-    },
-    {
-      "id": "5102774",
-      "time": "2026-09-19 04:37:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "DBRS 將法國信用評級展望調整為負面。"
-    },
-    {
-      "id": "5102773",
-      "time": "2026-09-19 04:36:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "提示：特朗普結束在白宮的新聞釋出會。"
-    },
-    {
-      "id": "5102772",
-      "time": "2026-09-19 04:35:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：後續可能還會封禁其他媒體機構。"
     }
   ]
 }
