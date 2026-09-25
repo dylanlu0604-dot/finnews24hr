@@ -1,7 +1,75 @@
 {
   "date": "2026-09-26",
-  "count": 321,
+  "count": 328,
   "items": [
+    {
+      "id": "5114009",
+      "time": "2026-09-26 04:34:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪評級確認歐盟AAA評級，維持穩定展望。"
+    },
+    {
+      "id": "5114008",
+      "time": "2026-09-26 04:34:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，熱帶風暴“費伊”位於亞速爾群島西南偏西約1075英里（1730公里）處；最大持續風速為每小時50英里（85公里）。"
+    },
+    {
+      "id": "5114007",
+      "time": "2026-09-26 04:33:42",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【報道：Anthropic正談判租賃最高1吉瓦算力 投入至少需要400億美元】Anthropic正開展初步談判，擬從阿波羅全球管理控股的資料中心開發商手中租賃最高1吉瓦的算力容量。這是這家AI企業降低對雲服務商依賴的重大舉措。據瞭解談判情況的人士透露，Claude模型的開發方Anthropic探討直接成為Stream Data Centers開發專案的租戶。這家企業已有27年發展歷史，在美國多地佈局資料中心；Anthropic計劃在機房內部署博通與谷歌設計的張量處理單元（TPU）。另有知情人士稱，該批機房也可搭載英偉達GPU等其他AI晶片。英偉達正加大對資料中心相關企業的佈局投入，力求讓自家GPU而非TPU成為大型前沿AI算力設施的主力晶片。資料中心開發商表示，無論最終選用何種晶片方案，1吉瓦算力對應的資本投入至少需要400億美元。當前Anthropic絕大部分算力，都是透過向亞馬遜雲科技、谷歌、SpaceX等雲服務商租用晶片伺服器獲取。Anthropic此前已和由比特幣礦企轉型的Hut 8、TeraWulf簽署小型機房租賃協議。透過直接掌控伺服器硬體，繞開追求利潤的雲服務商，以此為降低算力成本開闢路徑。如果落地，本次與Stream的合作將成為Anthropic迄今為止規模最大的一筆租賃交易。與此同時，其主要競爭對手OpenAI也在推行類似戰略。"
+    },
+    {
+      "id": "mkt:01a0da45-01ee-7118-86a3-a008bf04de70",
+      "time": "2026-09-26 04:32:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "Market sources say Anthropic is negotiating a 1 GW data‑center capacity transaction; related investment is expected to be at least $40 bln."
+    },
+    {
+      "id": "5114004",
+      "time": "2026-09-26 04:31:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic正在洽談一筆最高1吉瓦資料中心容量的交易，該筆投資至少需要400億美元。"
+    },
+    {
+      "id": "mkt:01a0da43-d5af-7118-86a3-9d5690988dde",
+      "time": "2026-09-26 04:31:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran FM: Strait of Hormuz will reopen if US accepts seven-day plan】Iranian foreign minister Araghchi said Tehran has submitted a concrete seven-day plan to the United States and that the next move rests with Washington. He said if the US accepts the plan the Strait of Hormuz will be reopened and a seven-day countdown will start only after US acceptance. Araghchi added the measures sought are not new, were included in a previously discussed memorandum of understanding, and Iran will not relinquish sovereign rights under pressure."
+    },
+    {
+      "id": "5114003",
+      "time": "2026-09-26 04:31:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "默沙東：基於與美國食品藥品監督管理局（FDA）的溝通決定撤項；二期臨床試驗資料未滿足獲批要求。"
+    },
     {
       "id": "5114002",
       "time": "2026-09-26 04:30:46",
