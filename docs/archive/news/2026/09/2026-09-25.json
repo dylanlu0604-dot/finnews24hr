@@ -1,7 +1,76 @@
 {
   "date": "2026-09-25",
-  "count": 662,
+  "count": 668,
   "items": [
+    {
+      "id": "5112939",
+      "time": "2026-09-25 09:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Downdetector：使用者報告顯示摩根大通大通銀行出現故障。"
+    },
+    {
+      "id": "mkt:01a0d63a-67fd-7118-8693-96c45bf48394",
+      "time": "2026-09-25 09:42:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil slips; WTI down 2.0% at $91.94/bbl, Brent down ~1.8% at $98.90/bbl】WTI crude fell 2.00% intraday to $91.94 per barrel. Brent crude declined about 1.8% to $98.90 per barrel."
+    },
+    {
+      "id": "te:markets:586703",
+      "time": "2026-09-25 09:41:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Falls for Third Session — US heating oil futures fell below $4.70 per gallon, declining for a third consecutive session to a two-week low, as uncertainty over US diesel export restrictions persisted. The White House denied reports of a planned 90-day ban, while Energy Secretary Chris Wright said the administration was instead seeking voluntary curbs from major refiners. Still, President Trump earlier said he supported restricting diesel exports, leaving the administration’s approach unclear. Meanwhile, diplomatic hopes between the US and Iran eased some supply concerns, as negotiators reportedly explored a phased path to end the war, including reopening the Strait of Hormuz and lifting Washington’s economic blockade of Iran. However, continued strikes in the Middle East tempered hopes for broader de-escalation. EIA data showed US distillate inventories fell by 400,000 barrels in the week ended September 18, keeping inventories about 12% below the five-year average."
+    },
+    {
+      "id": "mkt:01a0d639-2e98-7118-8693-881e28c19245",
+      "time": "2026-09-25 09:41:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 30-year government bond yield rose 5 bps to 4.210%."
+    },
+    {
+      "id": "5112938",
+      "time": "2026-09-25 09:40:54",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲5個基點，至4.210%。"
+    },
+    {
+      "id": "mkt:01a0d638-e5f4-7118-8693-8275b9a4e61b",
+      "time": "2026-09-25 09:40:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【JGB yields rise after US Treasuries surge】JGB yields rose after US Treasuries jumped overnight on stronger-than-expected US data and firmer Fed rate-hike bets. Greater Fed tightening could accelerate USD/JPY gains, fueling speculation the Bank of Japan might need to tighten to curb upside inflation risk. Investors are monitoring developments in the Middle East and the US-China summit. Curve steepened: 2-year +2 bps to 1.920%, 10-year +3.5 bps to 3.110%, 40-year +5.5 bps to 4.255%."
+    },
     {
       "id": "5112937",
       "time": "2026-09-25 09:39:12",
