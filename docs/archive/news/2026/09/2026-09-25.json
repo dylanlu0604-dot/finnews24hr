@@ -1,7 +1,155 @@
 {
   "date": "2026-09-25",
-  "count": 1363,
+  "count": 1379,
   "items": [
+    {
+      "id": "mkt:01a0d822-5a18-7118-8699-809c1f184296",
+      "time": "2026-09-25 18:35:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin press secretary said Russia-U.S. economic cooperation could have been mutually beneficial but is not currently in place."
+    },
+    {
+      "id": "5113476",
+      "time": "2026-09-25 18:35:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪拜航空（flydubai）開通迪拜至博卡拉（Pokhara）直飛航班。"
+    },
+    {
+      "id": "5113475",
+      "time": "2026-09-25 18:31:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大國家銀行將回購最高達22.5億加元的股票。"
+    },
+    {
+      "id": "5113474",
+      "time": "2026-09-25 18:30:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大國民銀行宣佈擬啟動常規發行人招標。"
+    },
+    {
+      "id": "te:markets:586885",
+      "time": "2026-09-25 18:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.41% Higher — The SENSEX Index went up by 301 points or 0.41 percent on Friday to close at 73881 points. The rise was led by Axis Bank (2.93%), Asian Paints (2.27%) and Mahindra & Mahindra (1.59%). On the downside, the weakerst performers were Tata Motors (-1.68%), Infosys (-1.55%) and Eternal Limited (-1.16%)."
+    },
+    {
+      "id": "5113473",
+      "time": "2026-09-25 18:23:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破65美元/盎司，日內漲1.83%。"
+    },
+    {
+      "id": "mkt:01a0d816-d404-7118-8699-7fc8ee37b879",
+      "time": "2026-09-25 18:22:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver reached $65/oz, up 1.81% intraday."
+    },
+    {
+      "id": "5113472",
+      "time": "2026-09-25 18:21:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中秋假期首日，上海共接待遊客277.38萬人次】9月25日正值中秋節。據上海旅遊大資料監測，當日上海共接待遊客277.38萬人次，賓館旅館平均客房出租率為52.46%。（澎湃）"
+    },
+    {
+      "id": "5113471",
+      "time": "2026-09-25 18:21:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部和中國氣象局聯合釋出橙色山洪災害氣象預警】水利部和中國氣象局9月25日18時聯合釋出橙色山洪災害氣象預警：預計，9月25日20時至9月26日20時，西藏西南部等地部分地區發生山洪災害可能性較大（黃色預警），局地發生山洪災害可能性大（橙色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）"
+    },
+    {
+      "id": "5113470",
+      "time": "2026-09-25 18:20:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：義大利更新了歐盟“歐洲安全行動”（SAFE）防務貸款計劃，金額略高於80億歐元。"
+    },
+    {
+      "id": "5113469",
+      "time": "2026-09-25 18:20:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奕境X9上市24小時大定突破9157臺】9月25日，奕境X9上市24小時大定突破9157臺。新車推出四款車型，限時優惠價27.98萬元起，較預售價格再降2萬元。"
+    },
+    {
+      "id": "mkt:01a0d814-8103-7118-8699-722c624593fe",
+      "time": "2026-09-25 18:20:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iraq cuts Basra medium and heavy crude prices to attract buyers】Iraq’s state oil marketer offered last‑minute Basra medium and heavy crude cargoes at discounted prices in a recent tender to attract buyers, sources said. High freight costs and Iraq’s greater distance from the Strait of Hormuz complicate purchases from the deep Gulf, prompting reliance on trading companies to market and ship cargoes and the use of significant discounts to incentivize purchases."
+    },
+    {
+      "id": "5113468",
+      "time": "2026-09-25 18:19:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級確認福岡市A1評級，展望穩定。"
+    },
+    {
+      "id": "5113467",
+      "time": "2026-09-25 18:19:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元EUR/USD站上1.14，日內漲0.24%。"
+    },
+    {
+      "id": "mkt:01a0d813-9026-7118-8699-69df26355263",
+      "time": "2026-09-25 18:19:15",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "European Commission spokesperson said Hungary is seeking a €5.4 billion loan under the EU's \"European Security Action\" (SAFE) programme."
+    },
+    {
+      "id": "mkt:01a0d813-7c7f-7118-8699-6402130ceeb9",
+      "time": "2026-09-25 18:19:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "EUR/USD rose above 1.14, gaining 0.24% on the day."
+    },
     {
       "id": "te:economy:586884",
       "time": "2026-09-25 18:18:36",
