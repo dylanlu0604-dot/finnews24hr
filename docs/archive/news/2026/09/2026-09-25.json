@@ -1,7 +1,200 @@
 {
   "date": "2026-09-25",
-  "count": 1379,
+  "count": 1400,
   "items": [
+    {
+      "id": "mkt:01a0d82f-e013-7118-8699-c2c745ccbaaa",
+      "time": "2026-09-25 18:50:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Supreme Leader adviser Mokhber warned that if Iran is prevented from operating flights and receiving airport services, other countries in the region would likewise be denied those services."
+    },
+    {
+      "id": "5113488",
+      "time": "2026-09-25 18:49:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問表示，如果伊朗無法獲得航班和機場服務，那麼該地區其他國家也將無法獲得。"
+    },
+    {
+      "id": "mkt:01a0d82e-6229-7118-8699-ba63ac0012d5",
+      "time": "2026-09-25 18:48:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China cross-region travel on first day of Mid-Autumn holiday tops 243 mln person-trips】Data from the Ministry of Transport show cross-region mobility exceeded 243.0 mln person-trips on the holiday's first day, up 6.4% from the previous day. Road, rail, civil aviation and waterborne passenger flows rose notably. Transport authorities increased capacity to ensure orderly travel."
+    },
+    {
+      "id": "5113487",
+      "time": "2026-09-25 18:47:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "教皇利奧告訴法國，生命權是其他一切人權“不可或缺的基礎”。"
+    },
+    {
+      "id": "5113486",
+      "time": "2026-09-25 18:46:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中秋假期第一天 全社會跨區域人員流動量超2.43億人次】來自交通運輸部新資料顯示，中秋假期第一天，全社會跨區域人員流動量預計超2.43億人次，比前一天增長6.4%。公路、鐵路、民航、水運客流增幅明顯，交通部門增加運力，保障旅客有序出行。 (央視新聞)"
+    },
+    {
+      "id": "5113485",
+      "time": "2026-09-25 18:45:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊頓簽署協議收購COL集團，擴大其在歐洲、中東和非洲地區資料中心及公用事業市場的製造產能與能力。"
+    },
+    {
+      "id": "5113484",
+      "time": "2026-09-25 18:45:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局批准WELIREG（貝組替凡）聯合LENVIMA（侖伐替尼）用於某些既往接受過治療的伴有透明細胞成分的晚期腎細胞癌成人患者。"
+    },
+    {
+      "id": "mkt:01a0d82b-6729-7118-8699-b1a37f28ca06",
+      "time": "2026-09-25 18:45:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Pope Leo said there is an urgent need for ethical scrutiny of artificial intelligence to avoid losing our humanity."
+    },
+    {
+      "id": "mkt:01a0d82b-4c7c-7118-8699-ae681664e223",
+      "time": "2026-09-25 18:45:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Pope Leo says AI is creating a 'machine paradise'."
+    },
+    {
+      "id": "5113483",
+      "time": "2026-09-25 18:44:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "教皇利奧：迫切需要對人工智慧進行倫理辨別，“以免喪失我們的人性”。"
+    },
+    {
+      "id": "5113482",
+      "time": "2026-09-25 18:44:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "教皇利奧在週末訪問法國期間首次發表演講，警告人工智慧正在創造“機器天堂”。"
+    },
+    {
+      "id": "5113481",
+      "time": "2026-09-25 18:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統新聞秘書：俄美烏三方會晤或近期舉行】俄羅斯總統新聞秘書佩斯科夫9月25日表示，俄羅斯、美國、烏克蘭三方會晤可能在近期舉行，但目前沒有具體細節。佩斯科夫在評論美方提議在阿聯酋組織三方技術級會晤時作出上述表態。佩斯科夫稱，這一討論發生在近期普京與特朗普的通話期間。此外，佩斯科夫還確認了俄總統特別代表德米特里耶夫訪美的事宜。德米特里耶夫繼續就經濟領域的潛在互動，與美方談判代表威特科夫和庫什納接觸。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0d828-ed04-7118-8699-a7f98e429ea2",
+      "time": "2026-09-25 18:42:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Peskov says Russia–US–Ukraine trilateral meeting may be held soon】Russia presidential press secretary Dmitry Peskov said a trilateral Russia–US–Ukraine meeting could take place in the near term but offered no details. He made the remark after the US proposed a technical-level tripartite meeting in the UAE and said the matter was discussed during a recent Putin–Trump call. Peskov also confirmed that presidential special envoy Dmitriev will visit the United States and is engaging with US negotiating counterparts Witkoff and Kushner on potential economic interactions."
+    },
+    {
+      "id": "mkt:01a0d828-82d6-7118-8699-9a16fdbb4514",
+      "time": "2026-09-25 18:42:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Hong Kong Monetary Authority provided HK$614 mln of liquidity to banks via its discount window."
+    },
+    {
+      "id": "5113480",
+      "time": "2026-09-25 18:42:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：香港金融管理局透過貼現視窗向銀行提供6.14億港元貸款。"
+    },
+    {
+      "id": "mkt:01a0d827-cffc-7118-8699-907f3c05b7bb",
+      "time": "2026-09-25 18:41:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran president says Supreme Leader very healthy】In an interview broadcast by US Fox News on Sept. 24, Iranian President Pezeshkian said he met Supreme Leader Mujtaba Khamenei about a month ago for seven hours and described Khamenei as \"very healthy\" and fully capable of governing, noting that policy guidance comes from him. Pezeshkian said Iran prefers resolving disputes through dialogue and should avoid mutual slaughter, but added that Iran was \"forced into war\" by Israeli provocation, does not want the conflict to continue, and will respond strongly if the other side insists on fighting; he said sustained pressure to force Iran to yield would be impossible."
+    },
+    {
+      "id": "5113479",
+      "time": "2026-09-25 18:41:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統回應美媒稱最高領袖很健康】當地時間9月24日，美國福克斯新聞臺釋出專訪伊朗總統佩澤希齊揚的影片。佩澤希齊揚在採訪中回應有關伊朗最高領袖穆傑塔巴·哈梅內伊近況時說，自己大約一個多月前與他會面，談了七個小時，穆傑塔巴“非常健康，執政完全沒問題”，“伊朗政策的指導方針都是由他下達的”。#伊朗總統強調不願讓戰事延續# 佩澤希齊揚還強調，既然可以透過對話解決問題，就不應訴諸相互殘殺。他指出，“在以色列的挑唆下，伊朗被強加了戰爭，但伊朗不願讓戰事延續——不過，如果對方執意交戰，伊朗將堅決予以強有力的回應；如果對方不斷施壓，迫使伊朗屈服，這也是絕不可能的。” （CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:586886",
+      "time": "2026-09-25 18:40:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Sanofi Stock Price Hits 6-1/2-year Low — Sanofi shares decreased to 71.21 EUR, the lowest since March 2020. Over the past 4 weeks, Sanofi lost 9.02%, and in the last 12 months, it decreased 9.05%."
+    },
+    {
+      "id": "5113478",
+      "time": "2026-09-25 18:38:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，俄羅斯副外長魯登科在接受採訪時表示，俄羅斯正準備放寬與亞洲國家的簽證制度。"
+    },
+    {
+      "id": "mkt:01a0d825-3a02-7118-8699-8c6d490b7e07",
+      "time": "2026-09-25 18:38:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say Russia is preparing to ease its visa regime with Asian countries."
+    },
+    {
+      "id": "5113477",
+      "time": "2026-09-25 18:35:30",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "康卡斯特股價盤前下跌1.4%，此前KeyBanc下調其評級，花旗集團下調目標價。"
+    },
     {
       "id": "mkt:01a0d822-5a18-7118-8699-809c1f184296",
       "time": "2026-09-25 18:35:24",
