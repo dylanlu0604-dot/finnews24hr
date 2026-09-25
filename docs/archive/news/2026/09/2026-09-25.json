@@ -1,7 +1,30 @@
 {
   "date": "2026-09-25",
-  "count": 668,
+  "count": 670,
   "items": [
+    {
+      "id": "mkt:01a0d63e-3e9b-7118-8693-9d0a00b5615c",
+      "time": "2026-09-25 09:46:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russian deputy UN envoy says Zelenskiy trying to draw Europe, NATO into direct war with Russia】Russia's deputy UN ambassador and permanent representative to the OSCE, Dmitry Polyansky, said Ukrainian President Zelenskiy has not stopped provocative actions against Moscow and is attempting to draw Europe and NATO into a direct war with Russia."
+    },
+    {
+      "id": "5112940",
+      "time": "2026-09-25 09:45:31",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【保時捷宣佈實現100%回收原料製造電芯】當地時間9月24日，德國豪華汽車品牌保時捷宣佈在高壓電池迴圈利用領域取得技術進展，其與德國回收企業cylib聯合推進的試點專案中，首次完全使用從保時捷退役高壓電池中提取的回收原料，製造出全新電池電芯的正極活性材料。"
+    },
     {
       "id": "5112939",
       "time": "2026-09-25 09:42:44",
