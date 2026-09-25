@@ -1,7 +1,63 @@
 {
   "date": "2026-09-26",
-  "count": 51,
+  "count": 57,
   "items": [
+    {
+      "id": "5113778",
+      "time": "2026-09-26 00:48:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度儲備銀行（RBI，央行）於7月份在外匯市場淨買入186.5億美元。"
+    },
+    {
+      "id": "5113777",
+      "time": "2026-09-26 00:48:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍在對伊朗封鎖期間已使122艘船隻改變航向。"
+    },
+    {
+      "id": "mkt:01a0d976-f4ee-7118-869f-a489036d1897",
+      "time": "2026-09-26 00:47:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv, citing sources, said Solidigm this week held roadshows with several banks to line up IPO underwriters and related arrangements for a US listing. The US offering could raise about $15 bln."
+    },
+    {
+      "id": "mkt:01a0d976-a62e-7118-869f-9a50d653ad11",
+      "time": "2026-09-26 00:47:06",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Refinitiv sources say SK Hynix unit Solidigm plans an IPO in 2027, with a potential valuation of up to $150 bln."
+    },
+    {
+      "id": "mkt:01a0d975-db3f-7118-869f-92936b3807e7",
+      "time": "2026-09-26 00:46:14",
+      "tags": [
+        "MKT News",
+        "UBER.O",
+        "Impact mixed",
+        "DASH.O",
+        "AAL.O"
+      ],
+      "text": "The chair of the U.S. Federal Trade Commission said they are personally most concerned about food delivery, ride-hailing and airfares."
+    },
+    {
+      "id": "5113776",
+      "time": "2026-09-26 00:46:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士稱，SK 海力士旗下 Solidigm 擬於 2027 年 IPO，估值或達 1500 億美元，赴美上市的IPO 募資額或達 150 億美元。"
+    },
     {
       "id": "mkt:01a0d974-d2ca-7118-869f-8b6f183b4076",
       "time": "2026-09-26 00:45:06",

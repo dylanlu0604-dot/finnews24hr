@@ -1,7 +1,63 @@
 {
-  "updated": "2026-09-26 00:46:11",
-  "count": 12085,
+  "updated": "2026-09-26 00:50:10",
+  "count": 12086,
   "items": [
+    {
+      "id": "5113778",
+      "time": "2026-09-26 00:48:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度儲備銀行（RBI，央行）於7月份在外匯市場淨買入186.5億美元。"
+    },
+    {
+      "id": "5113777",
+      "time": "2026-09-26 00:48:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍在對伊朗封鎖期間已使122艘船隻改變航向。"
+    },
+    {
+      "id": "mkt:01a0d976-f4ee-7118-869f-a489036d1897",
+      "time": "2026-09-26 00:47:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv, citing sources, said Solidigm this week held roadshows with several banks to line up IPO underwriters and related arrangements for a US listing. The US offering could raise about $15 bln."
+    },
+    {
+      "id": "mkt:01a0d976-a62e-7118-869f-9a50d653ad11",
+      "time": "2026-09-26 00:47:06",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Refinitiv sources say SK Hynix unit Solidigm plans an IPO in 2027, with a potential valuation of up to $150 bln."
+    },
+    {
+      "id": "mkt:01a0d975-db3f-7118-869f-92936b3807e7",
+      "time": "2026-09-26 00:46:14",
+      "tags": [
+        "MKT News",
+        "UBER.O",
+        "Impact mixed",
+        "DASH.O",
+        "AAL.O"
+      ],
+      "text": "The chair of the U.S. Federal Trade Commission said they are personally most concerned about food delivery, ride-hailing and airfares."
+    },
+    {
+      "id": "5113776",
+      "time": "2026-09-26 00:46:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士稱，SK 海力士旗下 Solidigm 擬於 2027 年 IPO，估值或達 1500 億美元，赴美上市的IPO 募資額或達 150 億美元。"
+    },
     {
       "id": "mkt:01a0d974-d2ca-7118-869f-8b6f183b4076",
       "time": "2026-09-26 00:45:06",
@@ -110013,58 +110069,6 @@
         "其他"
       ],
       "text": "市場訊息：霍爾木茲海峽附近發生爆炸。"
-    },
-    {
-      "id": "5102619",
-      "time": "2026-09-19 00:50:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "據半島電視臺：一名美國官員透露，有6000 萬桶據信產自伊朗的原油被困在面臨制裁的船舶上。"
-    },
-    {
-      "id": "mkt:01a0b56c-e1db-7118-8608-d12d936d227d",
-      "time": "2026-09-19 00:50:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi outlet Alhadath cites Iranian media saying an explosion occurred near the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:01a0b56c-dc98-7118-8608-cf933a0a7bc3",
-      "time": "2026-09-19 00:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "US oil rig count for week ended Sep 18 due in 10 minutes."
-    },
-    {
-      "id": "5102618",
-      "time": "2026-09-19 00:48:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴勒斯坦訊息人士經伊朗學生通訊社（ISNA）披露：沙特高階安全與軍事代表團會晤摩薩德及以色列軍事情報部門負責人，在美國中央司令部監督下尋求針對胡塞武裝行動的支援。"
-    },
-    {
-      "id": "mkt:01a0b569-6c40-7118-8608-c15f7f019da7",
-      "time": "2026-09-19 00:46:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Sources told the Iranian Students' News Agency that a Saudi senior security and military delegation met with Mossad and Israeli military intelligence leaders under CENTCOM supervision to seek support in responding to Houthi armed actions."
     }
   ]
 }
