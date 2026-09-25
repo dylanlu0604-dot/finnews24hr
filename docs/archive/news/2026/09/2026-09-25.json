@@ -1,7 +1,39 @@
 {
   "date": "2026-09-25",
-  "count": 1485,
+  "count": 1489,
   "items": [
+    {
+      "id": "mkt:01a0d861-3094-7118-869a-803c261c9c2f",
+      "time": "2026-09-25 19:44:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market report: Paraguay is increasing beef exports to the United States."
+    },
+    {
+      "id": "5113541",
+      "time": "2026-09-25 19:43:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴拉圭總統：美國尚未為巴拉圭牛肉出口分配配額。巴拉圭正在增加對美國的牛肉出口。"
+    },
+    {
+      "id": "mkt:01a0d860-7f05-7118-869a-7f4705becf69",
+      "time": "2026-09-25 19:43:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say Israeli Prime Minister Netanyahu has returned to Israel."
+    },
+    {
+      "id": "mkt:01a0d860-233c-7118-869a-718e9f7ed525",
+      "time": "2026-09-25 19:42:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. has not yet allocated import quotas for Paraguayan beef."
+    },
     {
       "id": "5113540",
       "time": "2026-09-25 19:40:07",
