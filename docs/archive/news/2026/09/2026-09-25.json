@@ -1,7 +1,49 @@
 {
   "date": "2026-09-25",
-  "count": 634,
+  "count": 638,
   "items": [
+    {
+      "id": "5112919",
+      "time": "2026-09-25 09:27:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日元波動率偏斜指標釋放干預風險訊號 逼空動能消退】美元兌日元面臨的干預風險正在上升，期權市場顯示市場對日元上漲保護工具的需求增加，預示日元或將出現戰術性反彈，而非持續走強。任何由干預引發的日元升值，其持續性大機率弱於7月行情，因為此前助推日元上漲的頭寸環境已基本回歸常態。 一週期風險逆轉指標擴大至約235個基點，偏向日元看漲期權，為兩週來最高溢價；一月期波動率偏斜指標自9月11日的200基點回升至約220基點。儘管一月期隱含波動率回落至7%至8%附近，期權價格相對已實現波動率的折價幅度達到8月初以來最大，但上述變化仍表明，市場對日元上行對沖工具的需求走高。這一組合現象說明，投資者愈發關注方向性風險，而非大範圍市場動盪。"
+    },
+    {
+      "id": "mkt:01a0d62c-bfe5-7118-8693-5d4138a18b8f",
+      "time": "2026-09-25 09:27:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "HSI opened down 237.63 pts (-0.96%) at 24,523.5; Hang Seng Tech opened down 42.96 pts (-0.99%) at 4,318.17; Hang Seng China Enterprises Index (HSCEI) opened down 93.51 pts (-1.13%) at 8,172.5; Red Chip Index opened down 23.72 pts (-0.59%) at 3,996.4."
+    },
+    {
+      "id": "5112918",
+      "time": "2026-09-25 09:27:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌推出搭載實時虛擬形象功能的Gemini 3.8 Live】當地時間9月24日，谷歌宣佈推出搭載實時虛擬形象（Live Avatar）功能的Gemini 3.8 Live，即日起在Gemini Enterprise中提供。Live Avatar具備原生多語言語音到語音同步功能。該功能可動態調整唇形同步和表情，並能在97種語言之間無縫切換，而不會降低影片保真度或引入視覺漂移。"
+    },
+    {
+      "id": "mkt:01a0d62c-0c73-7118-8693-578bf9f0478c",
+      "time": "2026-09-25 09:26:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "On Friday Sept 25, Hong Kong’s HSI opened down 237.63 points (-0.96%) at 24,523.5; the Hang Seng Tech Index opened down 42.96 points (-0.99%) at 4,318.17; the HSCEI opened down 93.51 points (-1.13%) at 8,172.5; the Red‑Chip Index opened down 23.72 points (-0.59%) at 3,996.4."
+    },
     {
       "id": "mkt:01a0d629-60a9-7118-8693-4c736c629da5",
       "time": "2026-09-25 09:23:50",
