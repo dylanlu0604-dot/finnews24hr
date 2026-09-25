@@ -1,7 +1,336 @@
 {
   "date": "2026-09-25",
-  "count": 1094,
+  "count": 1129,
   "items": [
+    {
+      "id": "5113271",
+      "time": "2026-09-25 16:06:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）鎳倉單庫存增加 6120 噸，為 1 月以來最大增幅。"
+    },
+    {
+      "id": "te:markets:586856",
+      "time": "2026-09-25 16:05:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Drops by 0.75% — Today's Metals commodities market is characterized by modest daily movements, with Copper standing out as the frontrunner with a -0.75% decrease."
+    },
+    {
+      "id": "mkt:01a0d798-83b1-7118-8697-0ceff91d8cdf",
+      "time": "2026-09-25 16:04:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's President Zelenskiy said Egypt, India, Turkey and representatives from the Middle East are participating in talks to lift the Black Sea blockade."
+    },
+    {
+      "id": "te:markets:586855",
+      "time": "2026-09-25 16:04:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Head for Weekly Gains — The CAC 40 edged higher to around 8,092 on Friday and was poised for weekly gains as lower oil prices and calmer bond markets supported equities. Reports emerged that the US and Iran were exploring a phased agreement that could lead to the reopening of the Strait of Hormuz, easing concerns over energy supply disruptions. On the domestic front, private-sector payroll employment fell 0.1% quarter-on-quarter, or 24,300 jobs, to 21 million in the second quarter of 2026, confirming preliminary estimates and following a revised flat reading in the previous quarter. Banking stocks led the gains, with BNP Paribas (0.8%), Crédit Agricole (1.1%), and Société Générale (2.9%) among the strongest performers. Other notable advancers included STMicroelectronics (2.9%), Legrand (1.9%), and Schneider Electric (2.0%)."
+    },
+    {
+      "id": "5113270",
+      "time": "2026-09-25 16:04:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Akamai美股盤前漲21%，此前公司與Anthropic簽署了價值116億美元的雲端計算協議。"
+    },
+    {
+      "id": "mkt:01a0d798-430f-7118-8697-04a56d8ed5e0",
+      "time": "2026-09-25 16:04:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AKAM.O",
+        "Impact bullish"
+      ],
+      "text": "Akamai (AKAM.O) U.S. shares rose 21% in pre-market trading after the company signed a $11.6 bln cloud-computing agreement with ANTHROPIC."
+    },
+    {
+      "id": "5113269",
+      "time": "2026-09-25 16:04:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞9月1日至25日棕櫚油出口量為887,557噸。"
+    },
+    {
+      "id": "5113268",
+      "time": "2026-09-25 16:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，埃及、印度、土耳其以及中東地區的代表將參與打通黑海航道的談判。"
+    },
+    {
+      "id": "mkt:01a0d797-7f9d-7118-8696-fe4ac9ed22a8",
+      "time": "2026-09-25 16:03:45",
+      "tags": [
+        "MKT News",
+        "JNJ.N",
+        "Impact bearish",
+        "MRNA.O",
+        "Impact mixed",
+        "ABBV.N"
+      ],
+      "text": "【US biotech sector down in premarket】US biotech stocks were broadly softer in premarket trading: Johnson & Johnson (JNJ.N) down 0.13%, Moderna (MRNA.O) up 0.99%, Novo Nordisk (NVO.N) down 0.16%, AbbVie (ABBV.N) down 0.23%."
+    },
+    {
+      "id": "5113267",
+      "time": "2026-09-25 16:03:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿布扎比交易所加入環球銀行金融電信協會網路，強化全球市場準入與國際投資者聯接。"
+    },
+    {
+      "id": "te:markets:586854",
+      "time": "2026-09-25 16:03:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Hovers Near Three-Month Low on Strong Dollar — Sterling ended the week just above $1.32, hovering near its lowest level in three months, as the US dollar remained supported by growing expectations of further Federal Reserve rate hikes this year. Investors also assessed recent comments from Bank of England policymakers for clues on the outlook for monetary policy. The US-Iran conflict and elevated energy prices continue to fuel concerns over renewed inflationary pressures, prompting markets to price in a solid probability of a 25bp BoE rate hike in November. BoE Deputy Governor Sarah Breeden said it could become “increasingly appropriate” to respond to rising inflation risks by raising interest rates. Deputy Governor Clare Lombardelli likewise said rates may need to rise if energy prices remain elevated, while MPC member Swati Dhingra, one of the more dovish policymakers, said inflation expectations were not yet a source of concern. Meanwhile, UK consumer confidence reached its highest level in more than two years in September."
+    },
+    {
+      "id": "mkt:01a0d796-5bcd-7118-8696-f02783d3b80a",
+      "time": "2026-09-25 16:02:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Eurozone three-month M3 money supply YoY 3.4% in August, up from 3.2% previously."
+    },
+    {
+      "id": "mkt:01a0d796-3a36-7118-8696-ecfd278a5675",
+      "time": "2026-09-25 16:02:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | 3-mo M3 Money Supply (YoY) (Aug) | actual 3.4% | previous 3.2%"
+    },
+    {
+      "id": "5113266",
+      "time": "2026-09-25 16:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其旅遊部：8月入境外國遊客數量為696萬人次。"
+    },
+    {
+      "id": "5113265",
+      "time": "2026-09-25 16:01:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500迷你股指期貨上漲0.1%，納斯達克100股指期貨上漲0.3%，道指期貨上漲0.1%。"
+    },
+    {
+      "id": "5113264",
+      "time": "2026-09-25 16:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：銅庫存增加325噸，鋁庫存持平，鎳庫存增加6048噸，鋅庫存減少1600噸，錫庫存持平，鉛庫存減少1550噸。"
+    },
+    {
+      "id": "mkt:01a0d794-fbc6-7118-8696-e2a32e417ade",
+      "time": "2026-09-25 16:01:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "London Metal Exchange inventories: copper +325 tonnes; aluminium unchanged; nickel +6,048 tonnes; zinc -1,600 tonnes; tin unchanged; lead -1,550 tonnes."
+    },
+    {
+      "id": "5113263",
+      "time": "2026-09-25 16:00:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至9月18日當週，俄羅斯貨幣基礎升至22.837萬億盧布。"
+    },
+    {
+      "id": "5113262",
+      "time": "2026-09-25 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普漲】Lumentum漲1.34%，康寧漲1.28%，Coherent漲2.24%，應用光電漲2.06%，Ciena漲1.76%，博通漲1.18%，邁威爾科技漲1.79%。"
+    },
+    {
+      "id": "5113261",
+      "time": "2026-09-25 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普漲】美光漲1.12%，閃迪漲1.97%，SK海力士漲1.46%，西部資料漲1.45%，希捷科技漲1.12%。"
+    },
+    {
+      "id": "5113260",
+      "time": "2026-09-25 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普跌】禮來漲0.53%，強生跌0.13%，Moderna漲0.99%，諾和諾德跌0.16%，艾伯維跌0.23%，默沙東跌0.34%。"
+    },
+    {
+      "id": "5113259",
+      "time": "2026-09-25 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”普漲】英偉達漲0.32%，蘋果漲0.02%，微軟跌0.14%，谷歌漲0.02%，亞馬遜漲0.44%，Meta跌0.07%，特斯拉漲0.70%。"
+    },
+    {
+      "id": "5113258",
+      "time": "2026-09-25 16:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其8月份遊客到訪量同比下降0.03%。"
+    },
+    {
+      "id": "5113257",
+      "time": "2026-09-25 16:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元區8月M3貨幣供應同比 3.5%，預期 3.5%，前值 3.4%。歐元區8月三個月貨幣供應M3年率 3.4%，前值3.2%。"
+    },
+    {
+      "id": "5113256",
+      "time": "2026-09-25 16:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元區8月份家庭貸款同比增長3.1%，歐元區8月份企業貸款同比增長4.2%。"
+    },
+    {
+      "id": "mkt:01a0d794-3b84-7118-8696-da25e1ae4d8c",
+      "time": "2026-09-25 16:00:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Euro area M3 money supply YoY for August 3.5% (consensus 3.5%; July 3.4%)."
+    },
+    {
+      "id": "te:markets:586850",
+      "time": "2026-09-25 16:00:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 3.38% — Top commodity losers are Natural gas (-3.38%), Natural Gas EU (-2.40%), Natural Gas UK (-2.27%), Crude Oil (-1.02%) and Brent Oil (-0.38%)."
+    },
+    {
+      "id": "mkt:01a0d794-1e21-7118-8696-d4e53a0946e8",
+      "time": "2026-09-25 16:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | M3 Money Supply (YoY) (Aug) | actual 3.5% | consensus 3.50% | previous 3.40%"
+    },
+    {
+      "id": "mkt:01a0d793-a61b-7118-8696-cf7f707f898c",
+      "time": "2026-09-25 15:59:32",
+      "tags": [
+        "MKT News",
+        "EH.O",
+        "Impact bullish"
+      ],
+      "text": "【EHang forms special working group with CAAT and Phuket government to accelerate unmanned eVTOL deployment】EHang said it was the only eVTOL firm invited on a recent delegation to Phuket led by Thailand Civil Aviation Authority director Manat Chavanaprayoon, and held talks with Phuket governor Chotinrin Kerdsom and provincial officials on green transport and the low‑altitude economy. The parties preliminarily selected Phuket’s first low‑altitude sandbox test site and established a joint working group to coordinate takeoff/landing site surveys, route planning, operating permits, and flight‑safety arrangements to accelerate unmanned eVTOL commercial rollout in Phuket."
+    },
+    {
+      "id": "5113255",
+      "time": "2026-09-25 15:58:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【億航智慧：與泰國民航局、普吉府政府成立專項工作組，加速無人駕駛eVTOL商業落地】9月25日，億航智慧官微發文表示，作為唯一受邀eVTOL企業，於近日隨同泰國民航局（CAAT）局長Manat Chavanaprayoon一行赴普吉島開展交流，與普吉府新任府尹Chotinrin Kerdsom等普吉府各政府部門人員進行普吉島綠能交通與低空經濟專題會議。三方初步選定普吉島首個低空沙盒試驗飛行點位。三方共同成立的專項工作小組，將統籌推進起降點勘定、航線規劃、運營資質許可、飛行安全保障等核心工作，加速推進無人駕駛eVTOL在普吉島的應用落地。"
+    },
+    {
+      "id": "mkt:01a0d792-4326-7118-8696-c69a64d469eb",
+      "time": "2026-09-25 15:58:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Financial Services Agency is tightening scrutiny of financing for AI data centers, market sources said."
+    },
+    {
+      "id": "5113254",
+      "time": "2026-09-25 15:55:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱攔截擊落近六百架烏無人機 多處工業設施遭襲受損】俄羅斯國防部通報稱，莫斯科時間9月24日20時至25日8時，592架烏克蘭固定翼無人機在19地及黑海水域上空被攔截擊落。彼爾姆邊疆區行政長官25日通報，39架無人機在該地區被擊落，一處工業設施遭襲，1人死亡；烏里揚諾夫斯克州州長稱，該州首府遭大規模無人機襲擊，工業和民用基礎設施受損，初步判斷8人受傷；薩馬拉州州長稱，當天一客運列車受損，初步訊息顯示，司機受傷，乘客無傷亡。黑海沿岸的羅斯托夫州州長同日表示，約50架無人機被摧毀，一處煉油廠受損停工。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0d78e-8ba4-7118-8696-b9ca0cb2bd12",
+      "time": "2026-09-25 15:53:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【India weighs resuming imported-domestic coal blending to ease power supply squeeze】India is considering requiring power plants to resume blending imported coal with domestic coal for the first time since 2024 to ease coal supply tightness and reduce upward pressure on electricity prices. Supply strains have pushed monthly spot power prices to their highest since 2022. Traders say imported coal costs are likely to rise further on stronger global demand and higher freight: Indonesian coal is up about 20% since May, Russian coal +14% and South African coal +19%."
+    },
+    {
+      "id": "5113253",
+      "time": "2026-09-25 15:51:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【低糖月餅成今年頂流 火鍋牛肉月餅來了】今年的月餅市場又有了一些新變化，除了傳統的廣式、蘇式等月餅外，更多獨具地域特色的農產品入餡，也為消費者帶來更多新的味蕾感受。在湖南株洲，作為“國家地理標誌認證”的特色農產品——白關絲瓜，如今被加工成細膩的蔬菜凍乾粉，按比例融入月餅餡料，剛上架一週就成了中秋“網紅款”；四川成都則憑藉火鍋牛肉、燈影牛肉月餅等川味月餅，俘獲不少食客。在滿足消費者味蕾的同時，低糖、低油等更健康的月餅也成為今年消費者的追求。電商平臺的資料顯示，“低糖月餅”搜尋量同比漲320%，73%的消費者選購時會翻配料表，優先選擇低糖、零新增的月餅。根據市場調研資料，預計今年我國月餅市場整體規模將達到290億元，消費需求已經從傳統的“節日剛需”轉向“品質享受”。（央視財經）"
+    },
+    {
+      "id": "te:markets:586844",
+      "time": "2026-09-25 15:50:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Advances on Friday — Frankfurt's DAX 40 rose 0.6% to cross 25,400 on Friday, supported by falling oil prices and lower government bond yields amid renewed hopes of a resolution to the Iran conflict. Sentiment was buoyed by speculation about a phased agreement between the US and Iran to reopen the Strait of Hormuz. Meanwhile, the extension of the trade truce between the US and China until January, agreed at the Trump-Xi summit reduces the risk of an immediate escalation. On the economic data front, German consumer sentiment weakened more than expected heading into October, with higher energy prices weighing on households’ income expectations. Most sectors traded in the green, led by banks, tech and travel-related stocks. Commerzbank and Deutsche Bank gained 2.4% and 2%, respectively, ranking among the top performers. Adidas, Siemens Energy, Deutsche Lufthansa, TUI, Siemens and Infineon Technologies also advanced solidly, rising between 1.3% and 2.1%. For the week, the index was on track to advance 0.4%."
+    },
     {
       "id": "te:markets:586838",
       "time": "2026-09-25 15:47:40",
