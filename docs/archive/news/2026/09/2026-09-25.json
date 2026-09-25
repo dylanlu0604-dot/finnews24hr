@@ -1,7 +1,109 @@
 {
   "date": "2026-09-25",
-  "count": 1519,
+  "count": 1530,
   "items": [
+    {
+      "id": "5113566",
+      "time": "2026-09-25 20:03:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海海岬型船運價指數下跌2.79%，至48,954美元。"
+    },
+    {
+      "id": "mkt:01a0d873-256a-7118-869a-f82d70706ee6",
+      "time": "2026-09-25 20:03:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Capesize Index fell 2.79% to $48,954."
+    },
+    {
+      "id": "5113565",
+      "time": "2026-09-25 20:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部表示，巴基斯坦、沙烏地阿拉伯和土耳其軍方參謀長將探討援助沙烏地阿拉伯的途徑。"
+    },
+    {
+      "id": "5113564",
+      "time": "2026-09-25 20:02:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "據媒體報道，以色列外交部證實，俄羅斯無人機襲擊烏克蘭首都基輔後，一名以色列公民死亡。"
+    },
+    {
+      "id": "mkt:01a0d872-4420-7118-869a-f797d86a93bf",
+      "time": "2026-09-25 20:02:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Pakistan foreign ministry: military chiefs of Pakistan, Saudi Arabia and Turkey will meet to discuss ways to assist Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a0d871-5f94-7118-869a-ecd9ad44c200",
+      "time": "2026-09-25 20:01:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Pakistan's Foreign Ministry said Pakistan, Saudi Arabia and Turkey plan an emergency meeting of senior military leaders. The three countries condemned attacks on Mecca and Saudi facilities."
+    },
+    {
+      "id": "5113563",
+      "time": "2026-09-25 20:01:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗代表駁斥以色列總理聯大發言】當地時間9月24日，伊朗常駐聯合國代表團成員阿里·哈吉拉里在第81屆聯合國大會一般性辯論的“答辯”環節，對此前發言的以色列總理內塔尼亞胡進行駁斥。哈吉拉里表示，聯合國成立的初衷是“為使後代免遭戰禍”，然而戰亂的始作俑者竟然能夠在聯合國大會上發言，這對聯合國來說是“極大的恥辱”。哈吉拉里說聯合國的成立旨在維護和平與正義，而非充當戰犯的講臺。以軍向加沙投下了超過20萬噸爆炸物，內塔尼亞胡卻還聲稱殺害巴勒斯坦平民是因為“別無選擇”，標榜以軍是“世界上最道德的軍隊”。哈吉拉里強調，無論內塔尼亞胡如何辯解，也無法洗白其罪行。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0d870-da0d-7118-869a-e20a7a35b80e",
+      "time": "2026-09-25 20:01:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) launched a new Copilot with Home, Code and Autopilot features. Its \"Office in Copilot\" integrates full Word, Excel and PowerPoint functionality into Copilot."
+    },
+    {
+      "id": "5113562",
+      "time": "2026-09-25 20:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nanexa與諾和諾德就長效注射劑達成價值11.65億歐元的全球許可與合作協議。"
+    },
+    {
+      "id": "5113561",
+      "time": "2026-09-25 20:00:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴基斯坦、沙烏地阿拉伯、土耳其譴責針對麥加及沙特設施的襲擊。"
+    },
+    {
+      "id": "5113560",
+      "time": "2026-09-25 20:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟推出全新Copilot，整合Home、Code及Autopilot功能。"
+    },
     {
       "id": "5113559",
       "time": "2026-09-25 19:59:59",
