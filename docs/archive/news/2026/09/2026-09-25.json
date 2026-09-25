@@ -1,7 +1,37 @@
 {
   "date": "2026-09-25",
-  "count": 1571,
+  "count": 1574,
   "items": [
+    {
+      "id": "te:economy:586932",
+      "time": "2026-09-25 20:24:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Mexico Unemployment Edges Higher in August — Mexico’s unemployment rate edged up to 3.0% in August 2026 from 2.9% in July, matching forecasts. The unemployed population totaled 1.9 million. The unemployment rate was 3.1% among women and 2.9% among men. Regarding the duration of unemployment, 43.1% of the unemployed had been without work for one month or less, while 32.5% had been unemployed for more than one month and up to three months. By age group, the largest share of the unemployed was concentrated among people aged 25 to 44, at 47.8%, followed by those aged 15 to 24, at 33.4%. Among the unemployed, 13.6% had not completed secondary education, while 86.3% had attained a higher level of education."
+    },
+    {
+      "id": "mkt:01a0d885-d9b9-7118-869b-9035f89b93e2",
+      "time": "2026-09-25 20:24:05",
+      "tags": [
+        "MKT News",
+        "XOM.O",
+        "BAS.DE"
+      ],
+      "text": "People with knowledge of the matter said ExxonMobil has been in contact with BASF."
+    },
+    {
+      "id": "5113588",
+      "time": "2026-09-25 20:23:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "據知情人士稱，贏創與巴斯夫之間有接觸。"
+    },
     {
       "id": "5113587",
       "time": "2026-09-25 20:22:52",
