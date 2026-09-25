@@ -1,7 +1,367 @@
 {
   "date": "2026-09-25",
-  "count": 1305,
+  "count": 1343,
   "items": [
+    {
+      "id": "5113454",
+      "time": "2026-09-25 18:01:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國競爭與市場管理局（CMA）認為，麥格理與能源資產集團的合併可能會導致英國一個或多個市場的競爭大幅減弱。"
+    },
+    {
+      "id": "5113453",
+      "time": "2026-09-25 18:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《復仇者聯盟4：終局之戰（加碼臻享版）》重映票房突破4000萬。"
+    },
+    {
+      "id": "mkt:01a0d802-c9db-7118-8699-2b3db29fa04b",
+      "time": "2026-09-25 18:00:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan's finance minister Katayama said defense spending at 2% of GDP is \"still not enough\"."
+    },
+    {
+      "id": "mkt:01a0d802-b974-7118-8699-205c647791c6",
+      "time": "2026-09-25 18:00:52",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Japan's finance minister Katayama said Takaichi strongly respects the Bank of Japan's independence."
+    },
+    {
+      "id": "mkt:01a0d802-a7df-7118-8699-1fe313209b39",
+      "time": "2026-09-25 18:00:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Japan's finance minister Satsuki Katayama said rising bond yields are a global trend and temporary."
+    },
+    {
+      "id": "5113452",
+      "time": "2026-09-25 18:00:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國競爭與市場管理局（CMA）批准麥格理與能源資產公司的交易。"
+    },
+    {
+      "id": "mkt:01a0d802-9079-7118-8699-1780bb54c10c",
+      "time": "2026-09-25 18:00:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's finance minister KATAYAMA said he will not hesitate to take decisive action on the yen."
+    },
+    {
+      "id": "5113451",
+      "time": "2026-09-25 18:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY指數初步收盤上漲0.3%，報23,140.50點。"
+    },
+    {
+      "id": "5113450",
+      "time": "2026-09-25 18:00:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Sensex指數初步收盤上漲0.4%，報73,895.74點。"
+    },
+    {
+      "id": "5113449",
+      "time": "2026-09-25 18:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "塞爾維亞7月實際工資同比增長9.0%。"
+    },
+    {
+      "id": "mkt:01a0d801-e7bd-7118-8699-08ddd1d12e97",
+      "time": "2026-09-25 17:59:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's prime minister TAKAICHI said she hopes to be a key driver of domestic investment across 17 strategic sectors, including semiconductors and artificial intelligence."
+    },
+    {
+      "id": "5113448",
+      "time": "2026-09-25 17:59:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：防衛費佔GDP的2%“還不夠”。"
+    },
+    {
+      "id": "5113447",
+      "time": "2026-09-25 17:59:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：在日元問題上，不會猶豫採取果斷行動。"
+    },
+    {
+      "id": "5113446",
+      "time": "2026-09-25 17:58:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：債券收益率上升是全球性趨勢，且是暫時的。"
+    },
+    {
+      "id": "5113445",
+      "time": "2026-09-25 17:58:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：高市非常尊重日本央行的獨立性。"
+    },
+    {
+      "id": "5113444",
+      "time": "2026-09-25 17:58:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：高市“並非再通脹主義者”。"
+    },
+    {
+      "id": "5113443",
+      "time": "2026-09-25 17:57:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【華爾街面對利率新格局 5%美債收益率或成常態甚至下限】隨著美國國債收益率接連突破一個又一個高點，華爾街和華盛頓正越來越清楚地意識到一個現實：這可能不只是一輪債市下跌，而是一次根本性的轉變。"
+    },
+    {
+      "id": "5113442",
+      "time": "2026-09-25 17:57:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "根據港交所披露檔案，中國石化於9月25日回購540萬股H股，涉資2380萬港元。"
+    },
+    {
+      "id": "5113441",
+      "time": "2026-09-25 17:56:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐尼泊爾大使張茂明會見尼泊爾基礎設施發展部長拉姆薩爾】9月25日，中國駐尼泊爾大使張茂明會見尼泊爾基礎設施發展部長蘇尼爾・拉姆薩爾。雙方就中尼關係、災後重建和互聯互通等議題深入交換意見。雙方一致同意加強兩國政府間溝通協調，深化災後重建合作，提升基礎設施互聯互通水平，幫助受災家庭儘快恢復正常生活，推動中尼關係向前發展。"
+    },
+    {
+      "id": "5113440",
+      "time": "2026-09-25 17:55:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本大米平均零售價連續6周下跌】日本農林水產省25日公佈的資料顯示，9月14日至20日，日本5公斤裝大米平均零售價為2934日元（約合125元人民幣），較前一週下降37日元，連續第6周下跌。"
+    },
+    {
+      "id": "5113439",
+      "time": "2026-09-25 17:54:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Epiris 正在就收購 TalkTalk 的批發業務部門 PXC 進行談判，交易金額達 2 億英鎊。"
+    },
+    {
+      "id": "5113438",
+      "time": "2026-09-25 17:53:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：遭美國製裁的油輪“錫布1號”（SIBU 1）於今年8月遭索馬利亞海盜劫持，目前已被營救。"
+    },
+    {
+      "id": "mkt:01a0d7fb-c2e4-7118-8699-065106bf475d",
+      "time": "2026-09-25 17:53:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Puntland Maritime Police Force said the US-sanctioned tanker \"SIBU 1\", seized by Somali pirates in August, has been rescued."
+    },
+    {
+      "id": "5113437",
+      "time": "2026-09-25 17:52:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：必須基於不完整的證據做出判斷。"
+    },
+    {
+      "id": "5113436",
+      "time": "2026-09-25 17:52:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度國家證券交易所Nifty 50指數的指示性水平上漲0.5%，將盤前集合競價階段0.28%的漲幅進一步擴大。"
+    },
+    {
+      "id": "5113435",
+      "time": "2026-09-25 17:50:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳媒稱力拓已確認正擴大第三方金屬貿易能力】礦業巨頭力拓集團已確認正擴大第三方金屬貿易能力，在銷售自身礦山產品的基礎上，進一步探索交易其他生產商生產的金屬商品。"
+    },
+    {
+      "id": "mkt:01a0d7f9-26ac-7118-8698-ffbc837085a0",
+      "time": "2026-09-25 17:50:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Williams said the Fed should ensure the shock does not become entrenched."
+    },
+    {
+      "id": "mkt:01a0d7f9-1ce7-7118-8698-f6f93d096d8e",
+      "time": "2026-09-25 17:50:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Williams: US labor market is not the source of inflationary pressure."
+    },
+    {
+      "id": "5113434",
+      "time": "2026-09-25 17:50:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌瑞郎延續漲勢，上漲0.3%至日內高點0.9451。"
+    },
+    {
+      "id": "mkt:01a0d7f8-f8f8-7118-8698-eb4817afab9f",
+      "time": "2026-09-25 17:50:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve's Williams said tariffs typically do not cause persistent inflation."
+    },
+    {
+      "id": "mkt:01a0d7f8-d21d-7118-8698-e5ec338fc8ec",
+      "time": "2026-09-25 17:50:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said it is too early to discuss the outcome of special envoy Dmitriev's visit to the United States."
+    },
+    {
+      "id": "5113433",
+      "time": "2026-09-25 17:49:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美聯儲應確保衝擊不會變得根深蒂固。"
+    },
+    {
+      "id": "5113432",
+      "time": "2026-09-25 17:49:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：關稅通常不會引發持續性通脹。"
+    },
+    {
+      "id": "5113430",
+      "time": "2026-09-25 17:48:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭打擊了彼爾姆和新沙赫京斯克的煉油廠。"
+    },
+    {
+      "id": "mkt:01a0d7f7-7175-7118-8698-dd2ee5a580a9",
+      "time": "2026-09-25 17:48:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "ZELENSKIY said Ukraine has struck a Russian defence firm in Ulyanovsk."
+    },
+    {
+      "id": "te:economy:586882",
+      "time": "2026-09-25 17:48:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macau",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Macau Trade Gap Widens in August — Macau’s trade deficit widened to MOP 10.1 billion in August 2026, from MOP 8.5 billion in the corresponding month last year. Imports soared 18.4% year-on-year to MOP 11.5 billion, driven by higher purchases of gold jewellery (64.6%), mobile phones (28.6%), watches (22.7%), construction materials (17.0%), and fuels and lubricants (15.8%). Among key trading partners, imports increased notably from China (50.7%), Italy (25.5%), and Hong Kong (25.6%). Meanwhile, exports rose 10.8% to MOP 1.4 billion, supported by increased shipments of diamond and diamond jewellery (45.8%) and machines, apparatus and parts (7.3%). Exports to key destinations increased notably to Hong Kong (29.0%), the United States (40.8%), and India (112.6%). During the January-August period, Macau’s trade deficit rose to MOP 86.0 billion from MOP 70.3 billion in the same period last year."
+    },
+    {
+      "id": "5113429",
+      "time": "2026-09-25 17:47:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，烏克蘭在夜間打擊了俄羅斯兩座煉油廠。"
+    },
+    {
+      "id": "5113428",
+      "time": "2026-09-25 17:47:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美國勞動力市場並非通脹壓力的來源。"
+    },
     {
       "id": "5113427",
       "time": "2026-09-25 17:44:22",
