@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-25 09:13:34",
-  "count": 12743,
+  "updated": "2026-09-25 09:17:23",
+  "count": 12745,
   "items": [
+    {
+      "id": "mkt:01a0d622-c216-7118-8693-4109d3ed2f3b",
+      "time": "2026-09-25 09:16:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xi's toast at welcome banquet hosted by US President Trump】Xi Jinping said President Trump’s May visit to China at his invitation was successful and the two leaders agreed to build a constructive strategic-stability relationship. He noted Trump had invited him to visit the US and that he had come as promised, with reciprocal visits occurring within six months. Xi said he and Trump held candid, in-depth talks and reached a number of new points of consensus that enrich the bilateral constructive strategic-stability relationship and provide new strategic guidance for China-US ties."
+    },
+    {
+      "id": "mkt:01a0d621-f497-7118-8693-3f57e745c7ff",
+      "time": "2026-09-25 09:15:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Spot gold, silver tick higher】Spot gold and silver rose intraday; gold reached $4,290/oz, up 0.36% on the day. Silver climbed above $64/oz, up 0.24%."
+    },
+    {
+      "id": "5112911",
+      "time": "2026-09-25 09:15:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4290美元/盎司，日內漲0.39%。"
+    },
+    {
+      "id": "5112910",
+      "time": "2026-09-25 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.24%，報24622.44點，低水138.69點。"
+    },
+    {
+      "id": "5112909",
+      "time": "2026-09-25 09:14:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報99.21美元/桶。"
+    },
+    {
+      "id": "5112908",
+      "time": "2026-09-25 09:14:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲1%，至4116.29點。"
+    },
+    {
+      "id": "mkt:01a0d61f-d111-7118-8693-3542dc3e62e3",
+      "time": "2026-09-25 09:13:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said rising global economic uncertainty makes it time to deepen cooperation with Mexico."
+    },
+    {
+      "id": "5112907",
+      "time": "2026-09-25 09:13:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉 Semi：這是我們為 Semi 建造的第一座工廠。 年產 50,000 輛 。所有車型在同一條生產線上製造（標準版、長續航版、歐洲規格）。"
+    },
+    {
+      "id": "5112906",
+      "time": "2026-09-25 09:13:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉 Semi：Semi來了。今天，我們正式啟動大批次生產。"
+    },
     {
       "id": "mkt:01a0d61f-9b6b-7118-8693-289d49efbb38",
       "time": "2026-09-25 09:13:10",
@@ -9,6 +88,15 @@
         "MKT News"
       ],
       "text": "South Korea's Lee says cooperation that began with automobiles and home appliances has expanded into materials, components, infrastructure, cosmetics and food, and he expects greater results in AI, next-generation vehicles, aerospace, supply chain and energy."
+    },
+    {
+      "id": "em:qqyh_mlc:202609253884224724",
+      "time": "2026-09-25 09:13:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲再添官員釋放加息訊號 會啟動新一輪加息週期嗎】美聯儲又有兩名官員釋放加息訊號。9月24日，紐約聯儲主席John Williams表示，今年年底前再次加息是合理的。"
     },
     {
       "id": "mkt:01a0d61e-412b-7118-8693-242001356198",
@@ -115793,82 +115881,6 @@
         "其他"
       ],
       "text": "【中央網信辦：加強涉企侵權資訊管理 持續推動營商網路環境最佳化】中央網信辦釋出《關於加強涉企侵權資訊管理 持續推動營商網路環境最佳化的通知》，通知指出，處置涉企侵權資訊，事關企業、企業家切身利益，事關人民群眾切身權益。經過一段時間實踐，各方對處置涉企侵權資訊已形成共識。網站平臺對以下涉企侵權資訊，應當積極主動清理處置。1.個人資訊類。包括洩露企業家身份證、護照、戶籍檔案、家庭住址、電話號碼等個人身份及聯絡資訊，以及生物識別、醫療健康、金融賬戶、行蹤軌跡等敏感個人資訊。2.侮辱貶損類。包括侮辱謾罵企業、企業家，惡搞醜化企業標識、產品和企業家肖像，將企業、企業家與色情低俗話題惡意關聯，使用汙名化詞彙詆譭企業、企業家或特定品牌使用者。3.假冒仿冒類。包括假冒仿冒新聞單位制作釋出的涉企監督資訊，假借企業或企業家名義釋出的資訊，在公眾賬號名稱、頭像、簡介中，擅自使用與企業相同或相似的名稱標識或企業家姓名肖像。4.虛假誤導類。包括斷章取義、歪曲解讀企業家過往言論，呈現與事實不符的搜尋關鍵詞聯想、搜尋落地頁結果，已經權威闢謠、澄清的不實資訊，與企業、企業家在超大平臺上的官方賬號釋出的公開宣告不符資訊。5.其他類。包括涉企拉踩引戰資訊，集納翻炒的企業舊聞舊事、負面資訊，已被本平臺處置過的涉企侵權資訊，機器人賬號、網路水軍賬號釋出的涉企評論資訊，明顯違背公序良俗抹黑詆譭企業、企業家資訊。"
-    },
-    {
-      "id": "te:economy:584771",
-      "time": "2026-09-18 09:15:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10-Year Yield Falls Ahead of BOJ Verdict — Japan’s 10-year government bond yield slipped to around 2.96% on Friday, extending its decline into a third session as markets positioned for the Bank of Japan’s latest policy decision, with markets widely expecting an interest-rate hike. Investors will also watch for signals on further tightening as policymakers navigate rising inflation and wage growth, along with pressure from US Treasury Secretary Scott Bessent to pursue more aggressive rate increases. Meanwhile, Japan’s core inflation eased to 1.7% in August from 1.8% in July, marking its first slowdown in four months. However, expectations that price pressures could strengthen in the coming months continued to support a hawkish BOJ outlook, while disruptions in the Middle East added to inflation risks. Japanese bond yields also followed declines in global yields as falling oil prices helped ease concerns over inflation."
-    },
-    {
-      "id": "mkt:01a0b215-78db-7118-85ec-e1e103259046",
-      "time": "2026-09-18 09:15:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Saudi embassy in Washington said the proposed F-35 arms sale underscores the strength and durability of the Saudi-U.S. strategic partnership."
-    },
-    {
-      "id": "mkt:01a0b215-3fc7-7118-85ec-dc64efd3d383",
-      "time": "2026-09-18 09:15:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures opened the day session up 0.31% at 24,647, trading 43 points above the spot index."
-    },
-    {
-      "id": "5100875",
-      "time": "2026-09-18 09:15:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7521元，較上日調高59點。"
-    },
-    {
-      "id": "mkt:01a0b215-070c-7118-85ec-d1411114e022",
-      "time": "2026-09-18 09:15:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "【SK Group moves three vice chairmen to SK Hynix】SK Inc., the SK Group holding company, has reassigned three of its four vice chairmen—Seo Jin-Woo, Yu Jeong-Joon and Lee Hyung-Hee—to semiconductor unit SK Hynix, industry sources said. The executives previously led the group's global business and external partnerships. SK Group said the move reflects rising geopolitical uncertainty in the semiconductor sector and aims to bring senior global experience to advise SK Hynix’s operations and support its mid-to-long-term strategy. The three have begun one-on-one meetings with SK Hynix executives. SK Group’s professional-manager vice-chairman team has also been placed at SK Hynix."
-    },
-    {
-      "id": "5100874",
-      "time": "2026-09-18 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.37%，報24662.97點，高水58.68點。"
-    },
-    {
-      "id": "5100873",
-      "time": "2026-09-18 09:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特駐美國大使館：擬議中的F-35軍售體現了沙特與美國戰略伙伴關係的堅實根基與持久屬性。"
-    },
-    {
-      "id": "5100872",
-      "time": "2026-09-18 09:14:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SK集團將三名副董事長調往SK海力士】9月18日，據報道，業內人士透露，SK集團旗下控股公司SK Inc.已將其四名副董事長中的三名調往SK海力士。這三名高管分別是Seo Jin-Woo、Yu Jeong-Joon和Lee Hyung-Hee，他們此前負責領導集團的全球業務和對外合作。SK集團表示，此次人事調動考量了半導體行業日益加劇的地緣政治不確定性。一位公司官員解釋說：“目的是讓具備全球經驗和專業知識的資深高管為SK海力士的整體經營提供建議，並支援中長期願景的制定。”為此，這三位副董事長近期已開始與SK海力士全體高管進行一對一的深入訪談。此外，報道稱，SK集團的職業經理人副董事長團隊也已同時進駐SK海力士。"
     }
   ]
 }
