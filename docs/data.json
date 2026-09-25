@@ -1,7 +1,115 @@
 {
-  "updated": "2026-09-25 09:28:43",
-  "count": 12722,
+  "updated": "2026-09-25 09:32:27",
+  "count": 12716,
   "items": [
+    {
+      "id": "5112929",
+      "time": "2026-09-25 09:31:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市開盤上漲0.1%，至5736.03點。"
+    },
+    {
+      "id": "5112928",
+      "time": "2026-09-25 09:31:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉高管：DHL是Semi電動半掛卡車的客戶之一。"
+    },
+    {
+      "id": "5112927",
+      "time": "2026-09-25 09:31:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞部長將與印度官員會晤，商討棕櫚油合作事宜。"
+    },
+    {
+      "id": "5112926",
+      "time": "2026-09-25 09:31:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞種植園部長將於9月27日訪問印度。"
+    },
+    {
+      "id": "5112925",
+      "time": "2026-09-25 09:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉高管：電動半掛卡車將於本週起開始交付。"
+    },
+    {
+      "id": "5112924",
+      "time": "2026-09-25 09:31:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率上升4.0個基點，至3.955%。"
+    },
+    {
+      "id": "mkt:01a0d630-05ca-7118-8693-62cc0b11c7ec",
+      "time": "2026-09-25 09:31:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "Japan's 20-year government bond yield rose 4.0 bps to 3.955%."
+    },
+    {
+      "id": "te:markets:586699",
+      "time": "2026-09-25 09:30:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields Hold at 2-Decade Highs — The yield on the US 10-Year Treasury note held just below 5.2% on Friday, remaining near its highest level since 2007, while the 30-year yield stood around 5.48%, its highest since 2004. Borrowing costs have climbed as elevated oil prices and resilient US economic data fueled inflation concerns, strengthening expectations that the Federal Reserve may tighten policy further. Markets are currently pricing in roughly a 67% probability of a Fed rate hike in October, following the first increase in three years last week. Meanwhile, the US Treasury Department on Thursday repurchased $4.078 billion of 20- and 30-year bonds as part of its ongoing buyback program. The amount fell short of the $10.4678 billion in bonds offered during the operations and was also below the $6 billion in debt the Treasury had said it planned to purchase. Investors now await the University of Michigan consumer sentiment report and durable goods data on Friday for further clues on the strength of the US economy."
+    },
+    {
+      "id": "5112923",
+      "time": "2026-09-25 09:30:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報4272.620點；恒生指數現跌1.549%。"
+    },
+    {
+      "id": "5112922",
+      "time": "2026-09-25 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報24508.400點；恒生科技指數現跌1.178%。"
+    },
+    {
+      "id": "5112921",
+      "time": "2026-09-25 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4316.330點；恒生指數現跌0.905%。"
+    },
+    {
+      "id": "5112920",
+      "time": "2026-09-25 09:29:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美元兌日元一週波動率上行 該期限覆蓋美國非農資料】美元兌日元一週隱含波動率上升0.98個波動率點至8.85，該期權期限現已覆蓋10月2日美國就業資料帶來的事件風險。以美元兌日元當前158.65的價位測算，該水平預示未來一週匯率有78%的機率在156.50至160.64區間波動。隨著即期匯率逐步逼近潛在干預區間，對沖美元兌日元下行風險的期權溢價保持穩定；一週期25德爾塔看跌期權相對看漲期權，享有2.34個波動率點溢價。"
+    },
     {
       "id": "5112919",
       "time": "2026-09-25 09:27:58",
@@ -115485,173 +115593,6 @@
         "Importance 1"
       ],
       "text": "Australia Shares Inch Higher, Weekly Picture Muted — Australian stocks edged up 14 points, or 0.2%, to 8,747 in early Friday trade, extending gains for a third straight session after Wall Street rebounded overnight as easing oil prices and softer Treasury yields helped calm nerves after the Fed’s rate-hike shock. Strength came from tech, non-energy minerals, and consumer durables, though losses in healthcare, energy minerals, and retail trade capped the upside. Gold miners advanced, with Northern Star Resources up 2.7% and Evolution Mining rising 3.0%, while Lynas Rare Earths, Perseus Mining, and South32 each added over 2%. For the week, the market was little changed, stabilizing after recent declines as traders weighed remarks from RBA Governor Michele Bullock, who warned that upside inflation risks are emerging amid surging global energy costs from the prolonged Middle East conflict, compounded by pressures from the AI data-centre boom and extreme weather."
-    },
-    {
-      "id": "mkt:01a0b224-b0ac-7118-85ed-67242e97411b",
-      "time": "2026-09-18 09:32:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share innovative-drug sector jumped at the open; Zhendong Pharmaceutical surged over 8% and peers including Baipusaisi, Haite Bio, Baicheng Pharma and Chengdu Lead also rose. Ten Chinese ministries issued the Pharmaceutical Industry Development 15th Five-Year Plan, targeting the innovative-drug industry to expand at an average annual rate of no less than 20% through 2030."
-    },
-    {
-      "id": "5100906",
-      "time": "2026-09-18 09:32:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Figure釋出Helix 2.5模型 機器人可“自主做家務”】當地時間9月17日，人形機器人公司Figure宣佈正式推出其研發的“最先進”神經網路模型Helix 2.5。此前實驗設計過程中，公司用人類行為資料集Index預訓練Helix 2.5三種行為：整理客廳、折毛巾和整理床鋪，並將搭載Helix 2.5的Figure 03人形機器人放置在陌生環境。結果顯示，機器人能夠在沒有經過任何額外訓練的情況下，實現零樣本全身自主做家務。這意味著具身智慧可以像人類一樣，將自身對物理世界的理解從一個環節遷移至另一個環境，以實時適應動態變化，而不必每次都從頭構建。"
-    },
-    {
-      "id": "5100905",
-      "time": "2026-09-18 09:31:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光刻膠概念繼續活躍 華軟科技2連板】早盤光刻膠概念繼續活躍，華軟科技2連板，西隴科學、聚石化學、肯特催化、久日新材、安集科技漲幅靠前。"
-    },
-    {
-      "id": "mkt:01a0b224-4019-7118-85ed-5b5d5947338a",
-      "time": "2026-09-18 09:31:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Preview: State Council Information Office to brief on market regulation during 15th Five-Year period on Sept 20】China's State Council Information Office will hold a press briefing at 10:00 a.m. on Sept. 20, 2026, as part of the 'Kick-off: 15th Five-Year' series. Shu Wei, spokesperson and deputy director of the State Administration for Market Regulation, and Yang Sheng, deputy director of the National Medical Products Administration, will outline plans to promote high-quality development of market regulation during the 15th Five-Year period and take questions."
-    },
-    {
-      "id": "5100904",
-      "time": "2026-09-18 09:31:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【MLCC概念板塊走高，華瓷股份漲停】MLCC概念板塊走高，華瓷股份漲停，國瓷材料、雅創電子、風華高科跟漲。"
-    },
-    {
-      "id": "5100903",
-      "time": "2026-09-18 09:31:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【十部門：重點發展外骨骼機器人、腦機介面驅動外骨骼、AI步態分析系統等康復醫療器械】工業和資訊化部等十部門印發《醫藥工業發展“十五五”規劃》的通知。其中提到，智慧醫療器械。重點發展高階計算機斷層掃描（CT）、磁共振、多模態AI病理系統等AI輔助診斷產品及關鍵零部件。重點發展高階放射治療系統、多模態AI手術導航定位系統、專科化和輕量化微創介入手術機器人等治療裝置。重點發展AI驅動的閉環胰島素泵、無創連續血壓/血糖監測裝置、多引數居家心衰管理系統等家用醫療器械。重點發展外骨骼機器人、腦機介面驅動外骨骼、AI步態分析系統等康復醫療器械。"
-    },
-    {
-      "id": "5100902",
-      "time": "2026-09-18 09:31:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.11%，成分股中，盛合晶微漲5.52%，中科飛測漲5.05%，芯原微電子漲3.52%，佰維儲存漲3.03%。"
-    },
-    {
-      "id": "mkt:01a0b223-00d0-7118-85ed-54fdb2bbf1ac",
-      "time": "2026-09-18 09:30:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share PCB-related stocks opened higher; Zhongcai Technology hit the daily limit, Zhongyi Technology rose over 5%, and Aiko Optoelectronics, Xinrui Co., International Composite and Baiyin Nonferrous also advanced."
-    },
-    {
-      "id": "5100901",
-      "time": "2026-09-18 09:30:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤上漲0.36%。精測轉2、鼎龍轉債、華峰轉債、勝藍轉02、聯瑞轉債漲幅居前，分別漲3.71%、3.66%、2.64%、2.58%、2.40%。武進轉債、雙箭轉債、合順轉債、希望轉2、科博轉債跌幅居前，分別跌0.19%、0.19%、0.15%、0.13%、0.12%。"
-    },
-    {
-      "id": "5100900",
-      "time": "2026-09-18 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.03%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "5100899",
-      "time": "2026-09-18 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲1.05%， 滬深300指數期貨連續漲0.72%， 中證500指數期貨連續漲1.10%， 上證50指數期貨連續漲0.52%。"
-    },
-    {
-      "id": "5100898",
-      "time": "2026-09-18 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.76%，成分股中，四川華豐科技漲3.16%，佰維儲存漲3.05%，芯原微電子漲3.01%，瀾起科技漲2.90%。"
-    },
-    {
-      "id": "mkt:01a0b222-872c-7118-85ed-4d464f024b23",
-      "time": "2026-09-18 09:30:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of Australia Governor Bullock said forward-looking labour-market indicators remain stable."
-    },
-    {
-      "id": "5100897",
-      "time": "2026-09-18 09:30:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7428.00點。"
-    },
-    {
-      "id": "mkt:01a0b221-b5de-7118-85ed-4126dfdc2092",
-      "time": "2026-09-18 09:29:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share grain sector opened lower; Wanxiang Denong dropped more than 8%, with Qiule Seed, Shennong Seed, Kangnong Seed and Yasheng Group also falling."
-    },
-    {
-      "id": "5100896",
-      "time": "2026-09-18 09:28:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【糧食概念板塊低開調整，萬向德農低開8.57%】糧食概念板塊低開調整，萬向德農低開8.57%，秋樂種業、神農種業、康農種業、亞盛集團跟跌。"
-    },
-    {
-      "id": "mkt:01a0b221-7f2e-7118-85ed-3c5577af0c75",
-      "time": "2026-09-18 09:28:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "A-share compute-capacity stocks strengthened; Xuguang Electronics rose nearly 4%, with Taichen Guang, Mingpu Guangci, Lanqi Technology and FOXCONN INDUSTRIAL also higher. Cloud services provider Nebius said it will raise multiple on‑demand compute prices effective Oct. 1, with NVIDIA GPUs seeing the largest increases. H200 will rise from $4.50 to $5.40 per GPU‑hour (+20%); NVIDIA B300 will rise from $7.85 to $9.50 per GPU‑hour (≈21%)."
-    },
-    {
-      "id": "5100895",
-      "time": "2026-09-18 09:28:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "算力概念走強，旭光電子漲近4%，太辰光、銘普光磁、瀾起科技、工業富聯等個股跟漲。"
     }
   ]
 }
