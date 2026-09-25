@@ -1,7 +1,212 @@
 {
   "date": "2026-09-25",
-  "count": 928,
+  "count": 948,
   "items": [
+    {
+      "id": "te:markets:586799",
+      "time": "2026-09-25 14:25:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natgas Prices Fall on Hormuz Deal Hopes — UK natural gas prices fell below 186 pence per therm on Friday, reversing part of the previous session’s gains amid reports of US-Iran discussions over a phased agreement to reopen the Strait of Hormuz and end the US blockade. The strait remains a major sticking point in efforts to resolve the nearly seven-month conflict, with neither side willing to relinquish control of the key waterway. LNG flows from the Persian Gulf remain severely disrupted, intensifying competition between Europe and Asia for limited global supplies as the region races to rebuild inventories ahead of the winter heating season. European gas storage is currently just over 70% full, below both the seasonal norm and the region’s target, leaving the market vulnerable to further supply disruptions. UK gas prices have fallen more than 6% over the week."
+    },
+    {
+      "id": "5113140",
+      "time": "2026-09-25 14:25:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多家機構大幅上調德國經濟增長預期 財政擴張與外需改善推動經濟回暖】德國五大經濟研究機構24日釋出經濟預測報告，將2026年德國經濟增長預期由春季的0.6%大幅上調至1.3%。此前一天，經濟合作與發展組織也將德國今年經濟增長預期從0.7%上調至1.1%。分析人士認為，權威機構調高德國經濟今年增長預期，主要源於德國聯邦政府財政支出擴大帶來的經濟效應逐漸顯現，同時上半年出口表現迅速改善，支撐了德國經濟階段性回暖，但德國經濟的長期結構性問題仍然明顯。"
+    },
+    {
+      "id": "5113138",
+      "time": "2026-09-25 14:23:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：土耳其在基金調查中逮捕了前央行官員Kilimci。"
+    },
+    {
+      "id": "5113137",
+      "time": "2026-09-25 14:23:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股票指數上漲1.1%，至5791.29點。"
+    },
+    {
+      "id": "mkt:01a0d738-ea34-7118-8695-aa50f32ddcc1",
+      "time": "2026-09-25 14:20:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 closed down 43.40 points, or 0.50%, at 8,658.60 on Friday, Sept. 25."
+    },
+    {
+      "id": "te:economy:586792",
+      "time": "2026-09-25 14:20:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Denmark Retail Sales Growth Slows to 4-Month Low — Retail sales in Denmark grew by 3.7% year-on-year in August 2026, slowing from a 6.7% increase in the previous month and marking the weakest expansion since April. Sales growth moderated across most categories, including supermarkets, department stores and specialized grocery stores (0.8% vs 4.1% in July), household equipment, furniture and building materials (7.5% vs 11.3%), cultural and leisure products (14.3% vs 17.2%), clothing, footwear and jewellery (7.8% vs 12.0%), pharmaceuticals and personal care products (5.6% vs 6.8%), and second-hand goods (10.0% vs 13.3%). At the same time, turnover at liquid fuel filling stations declined faster (-16.9% vs -14.7%). In contrast, revenue growth accelerated for consumer electronics (20.3% vs 17.3%). On a seasonally adjusted monthly basis, retail sales dropped by 0.6% in August, marking the first decline in four months and reversing a downwardly revised 1.0% gain in the preceding period."
+    },
+    {
+      "id": "5113134",
+      "time": "2026-09-25 14:19:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【在支付10億歐元賬單後，荷蘭尋求取消天然氣儲備目標】在斥資近10億歐元用於補充國內天然氣儲備後，荷蘭希望廢除強制性的天然氣儲備目標。荷方認為，現行的歐盟體系迫使政府承擔了本應由市場完成的工作。荷蘭氣候大臣斯廷徹·範·費爾德霍芬在週五致議會的一封信中表示，這些規定也越來越與市場規律相沖突。由於消費量下降，加之“其他歐洲國家政府的大規模採購”，儲氣的經濟效益已經發生扭曲。目前，歐洲儲氣設施的填充率為70%，低於86%的季節性正常水平。而在荷蘭，情況更為嚴峻，其儲氣設施的填充率剛剛超過56%。荷蘭方面認為，現行體系也未能考慮到其作為區域性天然氣樞紐的作用。荷蘭的儲氣設施有助於保障鄰國的供應安全，但政府卻無法向其他歐盟成員國收取保障這些設施注滿的成本費用。"
+    },
+    {
+      "id": "te:markets:586789",
+      "time": "2026-09-25 14:17:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Higher Open — European equity markets were set to open higher on Friday as oil prices eased and the global bond selloff lost momentum, providing some relief to investors. Oil prices declined following reports that the US and Iran were exploring a phased agreement that could reopen the Strait of Hormuz and lift a US blockade on Iranian ports. Global bond yields also stabilized after surging sharply over the previous two sessions. Elsewhere, Presidents Donald Trump and Xi Jinping concluded their bilateral talks in Washington, with Trump describing the meeting as “great.” In Europe, investors will focus on German consumer confidence, French employment and Spanish GDP data, with no major earnings releases scheduled. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were up 0.8% and 0.7%, respectively."
+    },
+    {
+      "id": "5113131",
+      "time": "2026-09-25 14:17:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江：到2030年，全省自然保護地面積佔國土面積比重達到18.5%以上】在24日黑龍江省政府新聞辦舉行的《黑龍江省美麗中國先行區建設實施方案》新聞釋出會上，省林草局副局長邵偉庚就如何發揮龍江生態資源優勢，著力打造生態保護修復樣板區進行了詳細介紹。邵偉庚表示，全省林草系統將立足主責主業，堅持保護優先、系統治理，重點抓好三方面工作。守牢生態家底，構建全域保護大格局。堅持山水林田湖草沙一體化保護和系統治理，加快構築以大小興安嶺、長白山為主的森林生態屏障，讓重要生態系統、自然遺蹟和珍稀物種得到系統性、原真性保護。加快構建以國家公園為主體、自然保護區為基礎、各類自然公園為補充的自然保護地體系，協同推進東北虎豹國家公園建設，健全“天空地”一體化監測網路。到2030年，全省自然保護地面積佔國土面積比重達到18.5%以上，努力讓每一片森林、每一塊溼地、每一片草原都有人管、管得住、護得好。"
+    },
+    {
+      "id": "mkt:01a0d735-6416-7118-8695-a09cee3b2599",
+      "time": "2026-09-25 14:16:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY fell 20 pips intraday to below 158, down 0.53% on the day."
+    },
+    {
+      "id": "mkt:01a0d734-aecc-7118-8695-9f6ef7334107",
+      "time": "2026-09-25 14:15:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "1548.HK",
+        "Impact bullish",
+        "2269.HK",
+        "2359.HK"
+      ],
+      "text": "Hong Kong-listed biotech names rose; GenScript Biotech jumped over 9%, while WuXi Biologics and WuXi AppTec climbed more than 2%."
+    },
+    {
+      "id": "5113130",
+      "time": "2026-09-25 14:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元下跌0.5%，至158.06。"
+    },
+    {
+      "id": "mkt:01a0d734-165c-7118-8695-90b120d2821a",
+      "time": "2026-09-25 14:15:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Middle East tensions lift energy prices; German consumer confidence falls to multi-month low】Energy prices rose amid Middle East tensions, and a Friday survey showed German consumer confidence is set to slip to -30.6 in October from -26.8 in September, the weakest reading since May. Survey head Rolf Birkel said most households expect higher energy costs to erode purchasing power, leaving them more pessimistic about income over the next 12 months. Consumers' income expectations fell to their lowest since April, while reported willingness to save increased."
+    },
+    {
+      "id": "5113129",
+      "time": "2026-09-25 14:13:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞標普/澳證200指數（S&P/ASX 200）收盤下跌0.4%，報8665點。"
+    },
+    {
+      "id": "te:economy:586786",
+      "time": "2026-09-25 14:12:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Producer Prices Change",
+        "Importance 2"
+      ],
+      "text": "Swedish Producer Inflation Accelerates in August — Producer prices in Sweden increased 6.8% year-on-year in August 2026, accelerating from 6.4% in July and marking the sixth consecutive monthly rise. The increase was mainly driven by higher energy prices (25.2% vs 26.0% in July). Meanwhile, prices for capital goods rose at the same pace (1.6%), while the decline in consumer goods prices eased (-1.6% vs -1.7%). Excluding energy-related products, producer prices rose by 3.9%, accelerating from a 3.5% gain in the previous month. On a monthly basis, producer prices rose by 0.9% in August, following a 0.1% rise in July. “Higher prices for refined petroleum products, as well as trade services in electricity, accounted for the largest contributions to the positive monthly change in the producer price index in August,” said Maria Bäckström, price statistician at Statistics Sweden"
+    },
+    {
+      "id": "te:economy:586785",
+      "time": "2026-09-25 14:12:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Swedish Household Lending Growth Holds at Highest Since 2022 — The annual growth rate of lending to Swedish households held at 3.3% in August 2026, unchanged from July and remaining at its highest level since December 2022. Housing loans, which accounted for 83% of total household credit, grew 3.5%, while consumer loans, representing 6%, increased 1.4%. Meanwhile, lending to non-financial corporations expanded 3.9%. Borrowing costs remained broadly lower, with the average interest rate on new housing loan agreements steady at 2.78%, while the average floating mortgage rate edged down to 2.73% from 2.74%. The average fixed rate for new housing loans with maturities of one to five years rose to 3.18% from 3.15%, while rates for maturities above five years increased to 3.34% from 3.21%. Total household deposits edged up to SEK 2,970 billion from SEK 2,967 billion, with demand deposits accounting for 74% of savings at SEK 2,202 billion."
+    },
+    {
+      "id": "5113128",
+      "time": "2026-09-25 14:12:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD Cowen將Meta目標股價從750美元上調至865美元。"
+    },
+    {
+      "id": "mkt:01a0d731-9710-7118-8695-8b11ed68cf5a",
+      "time": "2026-09-25 14:12:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "TD Cowen raises its price target on Meta Platforms (META.O) to $865 from $750."
+    },
+    {
+      "id": "te:economy:586783",
+      "time": "2026-09-25 14:10:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "German Consumer Mood Weakens More Than Expected — Germany's GfK Consumer Climate Indicator fell to -30.6 heading into October 2026 from a revised -26.8 in September, deteriorating more sharply than the expected decline to -27.4. This marked the weakest reading since May, driven primarily by a sharp deterioration in income expectations, which slumped 16.7 points to -15.0, their lowest level since April, as households increasingly feared that elevated energy prices would erode purchasing power. Willingness to save jumped 6 points to 21.5, its highest level since the 2008 financial crisis, while willingness to buy edged down 1 point to -10.8, remaining broadly around the -10 mark for more than three years. In contrast, economic expectations rose 0.5 points to -3.4, extending their improvement to a fifth consecutive month as Germany's economy performed better than expected in the first half of 2026. Price expectations edged down to -0.4 from -0.2."
+    },
+    {
+      "id": "5113126",
+      "time": "2026-09-25 14:10:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股生物醫藥概念走高，金斯瑞生物科技漲超9%】港股生物醫藥概念走高，金斯瑞生物科技漲超9%，藥明生物、藥明康德漲超2%。"
+    },
     {
       "id": "5113125",
       "time": "2026-09-25 14:10:22",
