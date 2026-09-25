@@ -1,7 +1,45 @@
 {
   "date": "2026-09-25",
-  "count": 657,
+  "count": 662,
   "items": [
+    {
+      "id": "5112937",
+      "time": "2026-09-25 09:39:12",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "沙特、土耳其和巴基斯坦將舉行由三國軍方高階指揮官參加的會議，討論根據三國共同防禦協議支援沙特的相關事宜，具體措施暫不清楚。"
+    },
+    {
+      "id": "5112936",
+      "time": "2026-09-25 09:37:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【白宮：各界人士齊聚一堂 熱烈歡迎習主席到訪】當地時間9月24日晚，美國總統特朗普和夫人梅拉尼婭為中國國家主席習近平和夫人彭麗媛在白宮舉行歡迎宴會。美國各界人士代表齊聚一堂。其中，特斯拉執行長馬斯克、亞馬遜創始人貝索斯、英偉達執行長黃仁勳等眾多熟悉的面孔出現在活動現場。（央視新聞）"
+    },
+    {
+      "id": "5112935",
+      "time": "2026-09-25 09:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：印製電路板生產商景旺電子計劃將香港上市發行價定在每股69.88港元的上限，將籌資51億港元。"
+    },
+    {
+      "id": "mkt:01a0d635-30b7-7118-8693-7f1a37e27cdd",
+      "time": "2026-09-25 09:36:44",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Turkey, Pakistan and Saudi military commanders hold emergency meeting】State media reported Saudi Arabia, Turkey and Pakistan will hold a meeting of senior military commanders to discuss supporting Saudi under a trilateral mutual-defense agreement. The Saudi foreign ministry said the meeting follows an attack by Houthi forces in Yemen and that the three countries will back Saudi \"right to self-defense.\" Riyadh described the meeting as \"emergency.\" It is unclear which specific military measures will be considered. The consultations come amid heightened regional security tensions as Saudi seeks closer defense coordination with regional partners."
+    },
     {
       "id": "5112934",
       "time": "2026-09-25 09:34:15",
@@ -230,6 +268,14 @@
         "HSCEI"
       ],
       "text": "On Friday Sept 25, Hong Kong’s HSI opened down 237.63 points (-0.96%) at 24,523.5; the Hang Seng Tech Index opened down 42.96 points (-0.99%) at 4,318.17; the HSCEI opened down 93.51 points (-1.13%) at 8,172.5; the Red‑Chip Index opened down 23.72 points (-0.59%) at 3,996.4."
+    },
+    {
+      "id": "5112916",
+      "time": "2026-09-25 09:25:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：今年到訪北京感受到中國人民的熱情好客 我們希望以同樣的熱情款待各位】當地時間9月24日晚，國家主席習近平和夫人彭麗媛在白宮出席美國總統特朗普和夫人梅拉尼婭舉行的歡迎宴會。特朗普總統發表致辭。特朗普說：“習近平主席、彭麗媛女士，以及中國代表團的各位成員，我和梅拉尼婭非常高興再次在白宮迎接各位的到來。你們都是非常出色、優秀的人。今年早些時候，我到訪北京感受到了中國人民的熱情好客。今晚，在你們十多年後再次到訪華盛頓之際，我們也希望以同樣的熱情款待各位。”（央視新聞）"
     },
     {
       "id": "mkt:01a0d629-60a9-7118-8693-4c736c629da5",
