@@ -1,7 +1,28 @@
 {
   "date": "2026-09-25",
-  "count": 1805,
+  "count": 1807,
   "items": [
+    {
+      "id": "5113744",
+      "time": "2026-09-25 23:42:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "RMX 與 Technologent 簽署算力供貨訂單，採購英偉達 H200 圖形處理器。"
+    },
+    {
+      "id": "mkt:01a0d938-a3dc-7118-869e-ecb959ecbe75",
+      "time": "2026-09-25 23:39:22",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "CAC40",
+        "Impact bearish",
+        "ESTX50"
+      ],
+      "text": "European equities on Sept 25 close: Germany DAX up 143.97 pts (0.57%) at 25,399.89; UK FTSE 100 up 16.18 pts (0.15%) at 10,696.17; France CAC 40 down 3.63 pts (0.04%) at 8,077.80; Euro STOXX 50 up 25.65 pts (0.41%) at 6,298.15; Spain IBEX 35 up 124.69 pts (0.64%) at 19,698.09; Italy FTSE MIB up 314.05 pts (0.61%) at 51,857.50."
+    },
     {
       "id": "5113743",
       "time": "2026-09-25 23:32:42",
