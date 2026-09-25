@@ -1,7 +1,47 @@
 {
   "date": "2026-09-26",
-  "count": 32,
+  "count": 36,
   "items": [
+    {
+      "id": "mkt:01a0d967-3035-7118-869f-521613c4cdc4",
+      "time": "2026-09-26 00:30:13",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Xi-Trump White House meeting: Xi urges stable China‑US trade ties, AI dialogue, supports US‑Iran talks】On Sept. 24 at the White House, Chinese President Xi met US President Trump. Xi said economic and trade cooperation is a central foundation of China‑US ties, that the countries’ interests are deeply intertwined with broad scope for cooperation, and urged both sides to move toward each other, maintain a mutual‑benefit orientation, and push China‑US economic and trade relations to develop steadily and positively. On technology, Xi said both countries are major AI powers that can compete and cooperate, called for continued AI dialogue on risks and benefits, and urged joint efforts to prevent AI misuse. On the Middle East, Xi said China supports the US and Iran returning to the Islamabad memorandum and urged both sides to resume dialogue and negotiations toward a comprehensive agreement, including nuclear issues, to restore peace."
+    },
+    {
+      "id": "mkt:01a0d964-219a-7118-869f-4968c2c13765",
+      "time": "2026-09-26 00:26:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB policymaker Moulin said relying on the ECB to intervene is \"flawed reasoning\"."
+    },
+    {
+      "id": "5113767",
+      "time": "2026-09-26 00:26:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "法國央行行長：寄望歐洲央行出手干預是 “錯誤邏輯”。"
+    },
+    {
+      "id": "5113766",
+      "time": "2026-09-26 00:26:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥外交部長：抵達美墨邊境的芬太尼數量下降 60%，墨西哥境內的安全行動應由墨西哥自行開展。"
+    },
     {
       "id": "mkt:01a0d963-0ea8-7118-869f-43a7d0e48f78",
       "time": "2026-09-26 00:25:42",

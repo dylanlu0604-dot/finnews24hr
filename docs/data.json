@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-26 00:26:54",
-  "count": 12090,
+  "updated": "2026-09-26 00:30:54",
+  "count": 12085,
   "items": [
+    {
+      "id": "mkt:01a0d967-3035-7118-869f-521613c4cdc4",
+      "time": "2026-09-26 00:30:13",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Xi-Trump White House meeting: Xi urges stable China‑US trade ties, AI dialogue, supports US‑Iran talks】On Sept. 24 at the White House, Chinese President Xi met US President Trump. Xi said economic and trade cooperation is a central foundation of China‑US ties, that the countries’ interests are deeply intertwined with broad scope for cooperation, and urged both sides to move toward each other, maintain a mutual‑benefit orientation, and push China‑US economic and trade relations to develop steadily and positively. On technology, Xi said both countries are major AI powers that can compete and cooperate, called for continued AI dialogue on risks and benefits, and urged joint efforts to prevent AI misuse. On the Middle East, Xi said China supports the US and Iran returning to the Islamabad memorandum and urged both sides to resume dialogue and negotiations toward a comprehensive agreement, including nuclear issues, to restore peace."
+    },
+    {
+      "id": "mkt:01a0d964-219a-7118-869f-4968c2c13765",
+      "time": "2026-09-26 00:26:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB policymaker Moulin said relying on the ECB to intervene is \"flawed reasoning\"."
+    },
+    {
+      "id": "5113767",
+      "time": "2026-09-26 00:26:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "法國央行行長：寄望歐洲央行出手干預是 “錯誤邏輯”。"
+    },
+    {
+      "id": "5113766",
+      "time": "2026-09-26 00:26:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥外交部長：抵達美墨邊境的芬太尼數量下降 60%，墨西哥境內的安全行動應由墨西哥自行開展。"
+    },
     {
       "id": "mkt:01a0d963-0ea8-7118-869f-43a7d0e48f78",
       "time": "2026-09-26 00:25:42",
@@ -110028,88 +110068,6 @@
         "國際"
       ],
       "text": "基輔市長：首都防空系統正在運轉。基輔正遭受彈道導彈襲擊，請留在避難所內！"
-    },
-    {
-      "id": "mkt:01a0b55a-4f26-7118-8608-782e148900b1",
-      "time": "2026-09-19 00:29:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "NewsNation reports the U.S. is negotiating with Houthi rebels; the Houthis say they are seeking a deal."
-    },
-    {
-      "id": "em:qqyh_mlc:202609193878927853",
-      "time": "2026-09-19 00:29:44",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲施密德表示，美國財政部回購國債不會讓美聯儲的工作變得更困難或更容易。"
-    },
-    {
-      "id": "mkt:01a0b559-e650-7118-8608-724066e1357f",
-      "time": "2026-09-19 00:29:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank of Peru governor says he will seek an \"appropriate\" time to lower interest rates."
-    },
-    {
-      "id": "5102611",
-      "time": "2026-09-19 00:28:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：胡塞武裝同樣希望達成協議。"
-    },
-    {
-      "id": "5102610",
-      "time": "2026-09-19 00:28:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：美國正在與胡塞武裝對話。"
-    },
-    {
-      "id": "5102609",
-      "time": "2026-09-19 00:28:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行行長表示，未來數月不排除加息可能，將等待合適時機下調利率。"
-    },
-    {
-      "id": "mkt:01a0b558-dc0d-7118-8608-6acb31d78b41",
-      "time": "2026-09-19 00:28:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Peru's central bank governor said the possibility of rate hikes in the coming months cannot be ruled out."
-    },
-    {
-      "id": "5102608",
-      "time": "2026-09-19 00:27:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【大量銅材湧入美國，新奧爾良港口陷入擁堵】賴比瑞亞籍散貨船 “諾德・諾福克” 號正橫渡大西洋駛向新奧爾良，船上裝載價值約 5 億美元的非洲產銅，是資料分析機構 Kpler 有記錄以來，單批次大宗商品貨船市場價值最高的一船貨物。知情人士稱，新奧爾良港是重要金屬中轉口岸，也是芝商所旗下 COMEX 銅倉庫的核心樞紐，目前港口庫容已基本飽和。據悉，9 月和 10 月還將有約 10 萬噸非洲與南美產銅陸續到港。美國銅進口需求旺盛，是推動銅價創紀錄大漲的核心動力。自去年 2 月特朗普首次正式提議對銅徵收關稅以來，倫敦金屬交易所的全球基準銅價上漲約 50%。但近幾周，市場愈發懷疑特朗普最終是否會落實關稅，美國際銅價價差隨之收窄。一項指標顯示，當前套利價差為每噸 169 美元，年內峰值曾達每噸 789 美元。隨著美國倉儲需求激增，倉儲企業正向 COMEX 申請新增庫容。交易所稱，2025 年初至今，已新增 20 座倉庫，銅儲存容量增加近 72.5 萬短噸，約等於美國精煉銅年消費量的 39%。"
-    },
-    {
-      "id": "mkt:01a0b558-9398-7118-8608-615759a7883d",
-      "time": "2026-09-19 00:27:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NASA extended the contract performance period through 2030 and raised the value of its commercial crew transportation contract with SpaceX to $5.92 billion, adding a $946 million modification to cover three missions and related services."
     }
   ]
 }
