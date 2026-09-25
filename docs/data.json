@@ -1,7 +1,99 @@
 {
-  "updated": "2026-09-26 04:08:07",
-  "count": 12098,
+  "updated": "2026-09-26 04:12:03",
+  "count": 12101,
   "items": [
+    {
+      "id": "5113963",
+      "time": "2026-09-26 04:10:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普關於捷克共和國的觀點：預計到2029年，捷克政府債務在全球範圍內仍將保持適中水平。"
+    },
+    {
+      "id": "mkt:01a0da30-d375-7118-86a3-56233b385e70",
+      "time": "2026-09-26 04:10:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P expects the Czech Republic's expansionary fiscal policy will widen its budget deficit."
+    },
+    {
+      "id": "5113962",
+      "time": "2026-09-26 04:10:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "福克斯工廠完成以2.25億美元出售馬魯奇體育；出售所得將用於債務削減。"
+    },
+    {
+      "id": "5113960",
+      "time": "2026-09-26 04:09:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：莫三比克進行我們歸為債務困境類別的歐元債券重組的可能性正在上升。"
+    },
+    {
+      "id": "5113959",
+      "time": "2026-09-26 04:08:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "CIRCLE INTERNET股價盤後下跌2.8%，首席財務官離職。"
+    },
+    {
+      "id": "5113958",
+      "time": "2026-09-26 04:08:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：預計阿曼經濟仍將抵禦住地區地緣政治衝突的衝擊保持韌性。"
+    },
+    {
+      "id": "mkt:01a0da2e-bb20-7118-86a3-48b57c036507",
+      "time": "2026-09-26 04:08:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P: Czech Republic's positive outlook reflects an increased likelihood that the Czech economy will demonstrate resilience amid external headwinds."
+    },
+    {
+      "id": "5113957",
+      "time": "2026-09-26 04:08:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：捷克共和國的正面展望反映出，捷克經濟更有可能經受住外部逆風衝擊、展現韌性。"
+    },
+    {
+      "id": "5113956",
+      "time": "2026-09-26 04:08:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "百思買提交債務證券儲架註冊申請。"
+    },
+    {
+      "id": "te:markets:587008",
+      "time": "2026-09-26 04:08:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise as Oil Pullback Halts Yield Surge — US stock indices closed higher on Friday as easing oil prices halted the surge in Treasury yields. The S&P 500 rose 0.5%, the Dow added 479 points, and the Nasdaq gained 0.4%. Oil prices fell after news that the US and Iran had moved closer to an agreement to lift naval blockades on tankers in the Persian Gulf and ease economic measures against Tehran. Benchmark borrowing costs halted their surge after reaching multi-decade highs on Thursday. AI stocks were mixed. Hardware shares were mostly higher, Applied Materials rose 2.3% and Lam Research added 2.6%. among hyperscalers, Alphabet rose % and Microsoft gained 3.7% after announcing plans to merge its consumer and workplace Copilot AI assistants into a product for corporate customers. Meta fell 3.3%, but gained % on the week after a series of hardware releases following its Muse AI agent. Oracle lost 1.7%. Financials were mostly higher. On a weekly basis, the S&P 500 rose 0.6%, the Nasdaq 100 jumped 2.1%, and the Dow shed 103 points."
+    },
+    {
+      "id": "5113955",
+      "time": "2026-09-26 04:07:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（9月25日），彭博電動汽車價格回報指數跌0.25%，報3200.42點，本週累計下跌1.76%，9月21-22日持續上揚，隨後持續走低。"
+    },
     {
       "id": "mkt:01a0da2e-019b-7118-86a3-46d35ea1e36d",
       "time": "2026-09-26 04:07:23",
@@ -110092,89 +110184,6 @@
         "WTI"
       ],
       "text": "U.S. President Trump said Russia has attacked Ukraine's allies."
-    },
-    {
-      "id": "te:markets:585107",
-      "time": "2026-09-19 04:11:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Close Mixed as Yields Rebound — US stock indices closed mixed on Friday as Treasury yields rebounded, rekindling concerns about a deteriorating macroeconomic backdrop. The S&P 500 inched 0.2% higher and the Dow inched 95 points lower, while the Nasdaq added 0.7%. The 10-year yield rebounded as persistent uncertainty over Middle Eastern oil supplies drove fuel and natural gas prices higher. The threat of energy-driven inflation has affected underlying consumer prices, prompting the Fed to hike rates this week. Most FOMC members saw the need for another hike. Credit-sensitive sectors fell, with banks and asset managers posting losses. Bank of America lost 0.8%, while Goldman Sachs fell 1%. AI hyperscalers were mostly lower amid their debt issuance spree to fund capital expenditures. Meta shed 2.4%, while Oracle lost 2%. Chipmakers were mostly higher, with Broadcom up 3% and Micron rising 3.9%, offsetting losses in the Nasdaq. On the week, the Dow shed 733 points, the Nasdaq rose 2.6% and the S&P 500 gained 0.7%."
-    },
-    {
-      "id": "mkt:01a0b625-5a24-7118-860b-6bfcf35d5b13",
-      "time": "2026-09-19 04:11:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "President Trump said once the war ends U.S. gasoline prices would revert to prior levels and could fall further."
-    },
-    {
-      "id": "5102746",
-      "time": "2026-09-19 04:10:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "Scope 將法國信用評級從 AA - 下調至 A+。"
-    },
-    {
-      "id": "5102745",
-      "time": "2026-09-19 04:10:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普稱，伊朗戰爭將很快結束。"
-    },
-    {
-      "id": "mkt:01a0b623-cb4e-7118-860b-661c0502d550",
-      "time": "2026-09-19 04:09:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "According to the New York Times, people familiar with the matter say ANTHROPIC’s annualized revenue this year is expected to exceed $100 billion, up from roughly $65 billion in July."
-    },
-    {
-      "id": "5102744",
-      "time": "2026-09-19 04:09:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【晨星DBRS確認美國信用評級為AAA 評級趨勢穩定】晨星DBRS確認美國信用評級為AAA，評級趨勢穩定；將法國信用評級展望下調至負面，維持信用評級為AA。"
-    },
-    {
-      "id": "5102743",
-      "time": "2026-09-19 04:09:03",
-      "tags": [
-        "公司",
-        "觀點",
-        "焦點"
-      ],
-      "text": "【Anthropic推進IPO計劃 預計今年年化營收超千億美元】Anthropic正繼續推進其IPO計劃，目標估值約2萬億美元，有望超越SpaceX成為史上最大IPO。公司預計2026年產生超1000億美元年化營收，較7月的650億美元大幅增長。CEO Dario Amodei近期呼籲放緩部分先進AI模型開發速度，但公司IPO程序未受影響。據知情人士透露，Anthropic最早可能在數週內公開披露財務檔案，最快11月掛牌交易，但計劃仍可能因市場波動等因素調整。公司正與摩根士丹利、高盛等投行合作，並接近敲定150億美元迴圈信貸額度。投資者預計公司年底計算能力將達到5吉瓦，明年翻倍，與OpenAI持平。"
-    },
-    {
-      "id": "mkt:01a0b622-f3bd-7118-860b-5ee86ce9a15a",
-      "time": "2026-09-19 04:08:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said the war with Iran will end soon."
     }
   ]
 }
