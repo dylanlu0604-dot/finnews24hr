@@ -1,7 +1,60 @@
 {
-  "updated": "2026-09-26 00:23:03",
-  "count": 12086,
+  "updated": "2026-09-26 00:26:54",
+  "count": 12090,
   "items": [
+    {
+      "id": "mkt:01a0d963-0ea8-7118-869f-43a7d0e48f78",
+      "time": "2026-09-26 00:25:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member Moulin said policymakers must take all measures to avert a sovereign debt crisis."
+    },
+    {
+      "id": "5113765",
+      "time": "2026-09-26 00:25:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長：若法國不解決赤字問題，債務成本將會上升。法國的利差處於 100 個基點，水平過高。"
+    },
+    {
+      "id": "5113764",
+      "time": "2026-09-26 00:24:46",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長：法國必須儘快解決赤字問題。"
+    },
+    {
+      "id": "5113763",
+      "time": "2026-09-26 00:23:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長穆蘭：不擔憂法國政府的自主融資能力。"
+    },
+    {
+      "id": "mkt:01a0d961-25c5-7118-869f-3913c1c17609",
+      "time": "2026-09-26 00:23:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB policymaker Moulin said he has no concerns about France’s ability to finance itself."
+    },
     {
       "id": "mkt:01a0d960-095e-7118-869f-338a0065c6bc",
       "time": "2026-09-26 00:22:24",
@@ -110057,16 +110110,6 @@
         "MKT News"
       ],
       "text": "NASA extended the contract performance period through 2030 and raised the value of its commercial crew transportation contract with SpaceX to $5.92 billion, adding a $946 million modification to cover three missions and related services."
-    },
-    {
-      "id": "5102607",
-      "time": "2026-09-19 00:25:36",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：美國財政部回購操作不會讓美聯儲的工作變得更難或更容易。"
     }
   ]
 }
