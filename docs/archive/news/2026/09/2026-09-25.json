@@ -1,7 +1,267 @@
 {
   "date": "2026-09-25",
-  "count": 948,
+  "count": 977,
   "items": [
+    {
+      "id": "mkt:01a0d74d-49b1-7118-8695-e7f3609fa6d2",
+      "time": "2026-09-25 14:42:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "【Swissquote analyst warns AI narrative underpins US rally; crack could trigger sharp pullback】Swissquote senior analyst Ipek Ozkardeska said broad indices and pension funds are heavily tied to the AI theme: tech comprises roughly 40% of S&P 500 market cap, and three chipmakers account for more than 25% of MSCI Emerging Markets by market-cap weight. She called AI a market “core pillar” and warned that if the AI investment case falters it could trigger a marked equity correction. In the near term she expects the US rally to remain supported by seasonal factors and could extend through year-end, but downside risk would rise sharply if confidence in the AI story slips."
+    },
+    {
+      "id": "5113164",
+      "time": "2026-09-25 14:40:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所主席表示，隨著生態系統已經成熟，現在是考慮自我上市可能性的時候了。"
+    },
+    {
+      "id": "5113163",
+      "time": "2026-09-25 14:40:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大眾與眾09開啟預售】9月25日，大眾宣佈，純電轎跑與眾09現已開啟預售，預售價區間19.99萬-24.99萬元。"
+    },
+    {
+      "id": "5113161",
+      "time": "2026-09-25 14:39:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國移動（海南）資料中心專案（二期）交付使用】近日，由中建三局總承包公司承建的中國移動（海南）資料中心專案（二期）在海口市江東新區正式交付使用。作為海南自貿港重要數字基礎設施，該專案在一期建成基礎上完成機電配套擴容，為資料中心後續業務上線、資料跨境流動和數字經濟發展提供堅實支撐。專案分三期建設，一期工程已建成，本次交付的二期工程進一步完善機電配套，標誌著海南自貿港數字基礎設施建設邁入新階段，為未來10年至15年的通訊網路發展預留充足空間。作為亞太地區大型資料交換中心，該專案是落實“東數西算”戰略部署的重要節點。透過與2條國際海纜、1個國際出入口局形成“2+1+1”佈局，專案構建起“熱點集約、跨區輻射、邊緣覆蓋”的梯次基礎設施能力，服務資料出海、跨境貿易、跨境投資、智慧醫療、邊緣計算等國際數字業務，打造國際資訊基礎設施底座。"
+    },
+    {
+      "id": "5113160",
+      "time": "2026-09-25 14:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所董事長：在印度，交易所自行在自身平臺掛牌上市存在利益衝突的市場認知擔憂。"
+    },
+    {
+      "id": "te:markets:586807",
+      "time": "2026-09-25 14:38:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends Week Down 0.8% as RBA Rate Decision Nears — Australia’s ASX 200 lost 37 points, or 0.4%, to end at 8,665 on Friday, marking a second session of losses as caution grew ahead of next week’s Reserve Bank policy decision. Sticky inflation has fueled expectations of further rate hikes following three moves earlier this year, while August inflation data is also due after July’s reading exceeded forecasts and remained above the central bank’s 2–3% target band. Separately, August labor data showed mixed signals, with the jobless rate rising to a near five-year high of 4.6%, while employment rose more than expected. In the U.S., a summit between President Trump and Chinese leader Xi Jinping failed to produce breakthroughs on key geopolitical issues, despite an extension of their trade truce. Most sectors slid, led by tech, consumer services, and logistics. Mineral Resources (-4.8%), PLS Group (-3.7%), REA Group (-3.2%), and Xero (-2.8%) posted heavy losses. For the week, the index fell 0.8%, marking its fourth straight weekly decline."
+    },
+    {
+      "id": "5113159",
+      "time": "2026-09-25 14:36:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：普京的特使德米特里耶夫目前在紐約，據報將與威特科夫和庫什納會面。"
+    },
+    {
+      "id": "mkt:01a0d747-25d0-7118-8695-d8af08703a1e",
+      "time": "2026-09-25 14:35:59",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "USDJPY"
+      ],
+      "text": "Beijing time Sep 25 22:00 — large FX option expiries including EUR and JPY. Four strikes with notionals exceeding 1 bln each expire; market participants should manage risk."
+    },
+    {
+      "id": "5113158",
+      "time": "2026-09-25 14:35:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所董事長：我們將在未來五年制定中長期戰略，以實現收入來源多元化。"
+    },
+    {
+      "id": "5113157",
+      "time": "2026-09-25 14:35:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，本週經由霍爾木茲海峽的原油出口量為3370萬桶。"
+    },
+    {
+      "id": "mkt:01a0d746-3e13-7118-8695-d1871baca8e7",
+      "time": "2026-09-25 14:34:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Finland's air force said on Thursday Swedish and Finnish fighters scrambled to intercept and identify Russian military aircraft."
+    },
+    {
+      "id": "5113155",
+      "time": "2026-09-25 14:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "芬蘭空軍：瑞典與芬蘭的戰鬥機週四緊急升空，對俄羅斯軍用飛機進行攔截與識別。"
+    },
+    {
+      "id": "5113154",
+      "time": "2026-09-25 14:33:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：當地時間9月24日，芬蘭與瑞典攔截了俄羅斯戰機。"
+    },
+    {
+      "id": "mkt:01a0d743-af6b-7118-8695-cbaf59a6ceb3",
+      "time": "2026-09-25 14:32:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say India does not intend to significantly alter its foreign investor dispute-settlement framework. New proposals would shorten the domestic-exhaustion period to two years before foreign firms can seek international arbitration and would exclude tax disputes from investment-treaty coverage."
+    },
+    {
+      "id": "5113153",
+      "time": "2026-09-25 14:31:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行公佈，該國第二季度經常賬戶餘額為逆差2.45億歐元，調查預期為逆差600萬歐元。"
+    },
+    {
+      "id": "5113152",
+      "time": "2026-09-25 14:30:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日經225指數收漲1.3%，報66366.08點。韓國股市今日休市。"
+    },
+    {
+      "id": "mkt:01a0d742-7079-7118-8695-c51f68930e03",
+      "time": "2026-09-25 14:30:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 closed up 850.21 points (+1.30%) at 66,364.20 on Friday, Sept. 25."
+    },
+    {
+      "id": "5113151",
+      "time": "2026-09-25 14:30:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行7天指數化回購利率利差為負5個基點。"
+    },
+    {
+      "id": "mkt:01a0d742-3a29-7118-8695-ba7a2e3799a1",
+      "time": "2026-09-25 14:30:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Sources said foreign firms operating in India must first pursue local legal remedies before initiating international arbitration."
+    },
+    {
+      "id": "5113150",
+      "time": "2026-09-25 14:30:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，印度政府還計劃將稅收問題排除在投資條約的管轄範圍之外。"
+    },
+    {
+      "id": "5113149",
+      "time": "2026-09-25 14:30:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士透露：在啟動國際仲裁前，需先在印度尋求當地救濟的時限將被縮短，或將從五年縮短至兩年。"
+    },
+    {
+      "id": "5113148",
+      "time": "2026-09-25 14:30:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，印度不計劃大幅調整與外國企業的爭議解決機制。"
+    },
+    {
+      "id": "te:markets:586806",
+      "time": "2026-09-25 14:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 1.26% Higher — The Nikkei 225 Index gained 827 points or 1.26 percent on Friday to close at 66341 points. Gains were led by Komatsu (5.19%), Resona Holdings (4.82%) and Shizuoka Bank (4.68%)."
+    },
+    {
+      "id": "5113147",
+      "time": "2026-09-25 14:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利8月失業率升至4.7%；此前預期為4.6%。"
+    },
+    {
+      "id": "mkt:01a0d741-5955-7118-8695-b75291913d80",
+      "time": "2026-09-25 14:29:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NATO secretary general omits Russia when discussing \"entire Arctic\" plan】NATO Secretary General Mark Rutte omitted Russia when outlining NATO countries' plan for the \"entire Arctic,\" saying he believes NATO members can unilaterally define the region's security architecture. He effectively excluded Moscow despite Russia having the longest Arctic coastline. Rutte named the United States, Canada and five EU states bordering the Arctic as collectively assuming responsibility, framing it as a \"secure Arctic\" vision."
+    },
+    {
+      "id": "5113146",
+      "time": "2026-09-25 14:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所董事長表示，對於該交易所自身股票上市而言，不會在上市首日就實現收益。"
+    },
+    {
+      "id": "5113145",
+      "time": "2026-09-25 14:28:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股三大期指走高，納指期貨日內漲近0.5%。儲存、半導體股夜盤普漲，AMD、英特爾、閃迪均漲2%。"
+    },
+    {
+      "id": "5113143",
+      "time": "2026-09-25 14:28:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南發放“購在海南”中秋國慶消費券】9月25日，海南省商務廳聯合中國銀聯海南分公司推出“購在海南”2026中秋國慶消費券活動，發放餐飲消費券、百貨消費券、超市消費券、加油消費券等四種消費券。此次活動發券時間為9月25日至10月7日（每日10:00-23:00），消費者可透過雲閃付App平臺領取消費券，消費券分“百貨滿200元減10元”“餐飲滿150元減20元”“超市滿100元減10元”“加油滿200元減10元”四種。"
+    },
+    {
+      "id": "5113142",
+      "time": "2026-09-25 14:27:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報告：今夏熱浪預計致德國損失約250億歐元】德國安聯集團24日釋出的研究報告顯示，今年夏季熱浪預計給德國造成約250億歐元經濟損失。報告說，由於缺乏空調等降溫裝置，高溫使員工休息時間延長、缺勤率增加，導致德國生產力下降。受熱浪影響，德國今年經濟增速降低約0.54個百分點，損失約佔全年國內生產總值的0.53%。報告同時顯示，在今夏高溫作用下，30個歐洲國家共損失約1130億歐元，相當於這些國家全年國內生產總值的0.46%，其中義大利、德國、法國損失最為慘重。（新華社）"
+    },
     {
       "id": "te:markets:586799",
       "time": "2026-09-25 14:25:57",
