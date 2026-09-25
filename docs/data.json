@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-25 19:30:28",
-  "count": 12302,
+  "updated": "2026-09-25 19:34:15",
+  "count": 12301,
   "items": [
+    {
+      "id": "5113534",
+      "time": "2026-09-25 19:32:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：截至9月18日當週，印度外匯儲備為7659.0億美元，前一週為7807.8億美元。"
+    },
+    {
+      "id": "5113533",
+      "time": "2026-09-25 19:32:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期指標公債收益率<IN069436G=CC>收報7.1194%；前收盤報7.1067%"
+    },
+    {
+      "id": "5113532",
+      "time": "2026-09-25 19:32:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行資料顯示，截至9月15日的兩週內，印度銀行存款<INDEP=ECI>同比增長17.3%。"
+    },
+    {
+      "id": "5113531",
+      "time": "2026-09-25 19:31:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：萬那杜地區發生5.3級地震。"
+    },
+    {
+      "id": "mkt:01a0d855-dd8e-7118-869a-5a5173881ca7",
+      "time": "2026-09-25 19:31:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli military says it is bolstering troop deployments across multiple fronts."
+    },
+    {
+      "id": "mkt:01a0d855-6e81-7118-869a-52bfaf267252",
+      "time": "2026-09-25 19:31:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India: As of Sept 18, India’s FX reserves were $765.9 bln, down from $780.78 bln the prior week."
+    },
+    {
+      "id": "5113530",
+      "time": "2026-09-25 19:30:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Quantum Cyber將戰略重心聚焦於量子導航、攔截無人機，併發布新的企業投資者演示。"
+    },
+    {
+      "id": "5113529",
+      "time": "2026-09-25 19:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生 - TREMFYA在軸性銀屑病關節炎研究中達到主要及關鍵次要終點。"
+    },
+    {
+      "id": "5113528",
+      "time": "2026-09-25 19:30:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數初值上漲0.4%，報171,123.50點。"
+    },
     {
       "id": "te:markets:586916",
       "time": "2026-09-25 19:29:26",
@@ -111822,91 +111901,6 @@
         "國際"
       ],
       "text": "9月17日海外投資者淨賣出316億印度盧比的印度股票。"
-    },
-    {
-      "id": "5102199",
-      "time": "2026-09-18 19:33:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中秋國慶入境遊持續升溫 客源版圖與目的地縱深同步擴容】多家旅遊平臺資料顯示，今年中秋國慶假期，入境遊市場延續增長態勢，並呈現出客源結構多元化和目的地縱深化的新特徵。目的地結構的變化同樣顯著。航旅縱橫資料顯示，入境熱門目的地前十分別為上海、北京、廣州、成都、深圳、廈門、重慶、青島、杭州和昆明。其中，前往重慶的入境機票預訂量同比增長約40%，前往廈門的入境機票預訂量同比增長約26%，前往北京、廣州、深圳的入境機票預訂量均同比增長約20%。（新華財經）"
-    },
-    {
-      "id": "mkt:01a0b44a-383f-7118-8601-0051d21c829d",
-      "time": "2026-09-18 19:32:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Shanghai Stock Exchange said it will add Junzheng Co. and Xinheng Technology to the list of Hong Kong stocks eligible for southbound trading under the Shanghai-Hong Kong Stock Connect, effective from the next Hong Kong Stock Connect trading day."
-    },
-    {
-      "id": "5102198",
-      "time": "2026-09-18 19:32:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "上交所：將君正股份與新環科技調入滬港通下港股通標的名單，自下一港股通交易日起生效。"
-    },
-    {
-      "id": "5102197",
-      "time": "2026-09-18 19:32:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西省委常委會召開會議，尹弘主持】9月18日，江西省委常委會召開會議，傳達學習習近平總書記近期重要講話重要指示精神，研究我省貫徹落實意見。省委書記尹弘主持會議。會議強調，要認真學習貫徹習近平總書記重要指示精神，按照全國先進製造業大會部署要求，堅持智慧化、綠色化、融合化方向，深化落實“1269”行動計劃，錨定主攻方向、聚焦重點領域，因地制宜、分類施策，加快構建以先進製造業為骨幹的現代化產業體系。要著力提升先進製造業創新力，加大力度培育高新技術企業，持續最佳化先進製造業結構，全力打造新興產業增長點，積極搶抓未來產業新賽道，最佳化提升傳統產業，統籌推進新舊動能平穩轉換，推動先進製造業鏈式叢集發展。要營造良好發展環境，積極培育發展現代服務業，大力發展服務型製造，持續最佳化政策、強化保障，以良好產業生態助推先進製造業提質升級、做大做強。（江西釋出）"
-    },
-    {
-      "id": "5102196",
-      "time": "2026-09-18 19:31:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：Starlink現在常常比電纜更可靠。"
-    },
-    {
-      "id": "mkt:01a0b449-9028-7118-8600-fe9fa4b2e4a5",
-      "time": "2026-09-18 19:31:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Reserve Bank of India: India’s gold reserves were $112.3 bln as of Sept 11, down from $113.82 bln a week earlier."
-    },
-    {
-      "id": "5102195",
-      "time": "2026-09-18 19:30:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中巨芯：六氟化鎢產能擴張正處內部決策階段】9月18日，中巨芯在投資者關係活動記錄表中表示，六氟化鎢產品隨著積體電路製程的發展，將會出現增量機會。公司六氟化鎢產品純度達到6N。該產品透過與日本中央硝子合資的企業博瑞中硝生產，雙方都有提供該產品的生產技術。本著合作共贏、公平的原則，雙方同樣也合資設立銷售公司中硝商貿，銷售公司由日方控股，負責銷售博瑞中硝的六氟化鎢。中巨芯表示，根據市場情況，合資公司目前正在從600噸擴大到800噸的內部決策過程中，後續若確定實施，受市場環境變化，可能也會因短期折舊對公司利潤造成一定影響。"
-    },
-    {
-      "id": "5102194",
-      "time": "2026-09-18 19:30:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ZCode回應程式碼庫資料爭議：相關功能問題已修復 將開原始碼庫並引入第三方審查】今日，針對社群中有關程式碼庫資料上傳的討論，智譜旗下程式設計產品ZCode釋出情況說明稱，公司已第一時間完成自查，相關問題目前已經修復，並向受影響使用者致歉。"
-    },
-    {
-      "id": "5102193",
-      "time": "2026-09-18 19:30:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外匯儲備較前一週減少49.24億美元。"
-    },
-    {
-      "id": "mkt:01a0b448-461e-7118-8600-f6cbae791bab",
-      "time": "2026-09-18 19:30:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhongjuxin: WF6 capacity expansion in internal decision stage】On Sept. 18 Zhongjuxin said in an investor-relations note that tungsten hexafluoride (WF6) demand should rise as integrated-circuit process nodes advance. Its WF6 product is 6N purity and is manufactured via a joint venture with Japan’s Central Glass, with both partners supplying production technology. A jointly owned sales company, majority-held by the Japanese partner, handles distribution. The JV is internally considering expanding annual WF6 capacity from 600 tonnes to 800 tonnes; implementation is not final and, if approved, could create short-term depreciation pressure on Zhongjuxin’s profits depending on market conditions."
     }
   ]
 }
