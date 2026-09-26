@@ -1,7 +1,24 @@
 {
-  "updated": "2026-09-26 09:37:00",
-  "count": 12045,
+  "updated": "2026-09-26 09:40:43",
+  "count": 12043,
   "items": [
+    {
+      "id": "mkt:01a0db5d-8be1-7118-86a5-12a4d0863afd",
+      "time": "2026-09-26 09:38:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【People's Daily editorial urges turning China-US constructive strategic-stability vision into action】People's Daily editorial says this year is critical for both China and the United States and urges both sides to implement leaders' consensus by converting the vision of constructive strategic stability into concrete action, prioritizing cooperation, maintaining calibrated competition, keeping differences controllable and aiming for a peaceful trajectory."
+    },
+    {
+      "id": "5114178",
+      "time": "2026-09-26 09:38:27",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【蘋果零售總設計師約翰遜：iPhone Duo等仍需“親手摸、現場試”體驗】蘋果零售總設計師羅恩·約翰遜（Ron Johnson）在近日關於蘋果零售店（Apple Store）的訪談中提到：雖然釋出會線上觀看量巨大，但像iPhone Duo這類新產品，使用者仍需要“親手摸、現場試”才能理解差異。約翰遜認為，實體店並未過時，在新產品體驗轉化上仍不可替代。"
+    },
     {
       "id": "5114177",
       "time": "2026-09-26 09:32:44",
@@ -109719,39 +109736,6 @@
         "NOC.O"
       ],
       "text": "【U.S. approves USD 2.68 bln air‑defense sale to Ukraine】The U.S. State Department on Sept. 18 approved a USD 2.68 bln arms sale to Ukraine, authorizing equipment and services for development and upgrades of air‑defense systems and notifying Congress. The State Department said the package will further strengthen Ukraine’s air‑defense capabilities."
-    },
-    {
-      "id": "mkt:01a0b751-104d-7118-860d-7e47550e6d7b",
-      "time": "2026-09-19 09:38:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. President Trump's Saturday schedule】20:00 Beijing time Sept 19 — at Camp David handling administrative matters."
-    },
-    {
-      "id": "5102985",
-      "time": "2026-09-19 09:38:02",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國批准對烏克蘭近27億美元軍售】當地時間9月18日，美國國務院宣佈，已批准一項價值26.8億美元的軍售計劃，向烏克蘭出售防空系統研發升級的相關裝置和服務，並已就此通知美國國會。美國國務院表示，這項軍售計劃將進一步增強烏克蘭的防空能力。（央視新聞）"
-    },
-    {
-      "id": "5102984",
-      "time": "2026-09-19 09:37:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "達美航空：不會向人工智慧定價工具提供客戶個人資訊。"
-    },
-    {
-      "id": "5102983",
-      "time": "2026-09-19 09:37:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶跨境電商經營主體超2萬家】9月18日，2026重慶跨境電商交易會在重慶國際會議展覽中心（南坪）開幕。記者從現場瞭解到，截至目前，全市跨境電商經營主體已超2萬家；2025年，全市跨境電商進出口額達368.03億元。 自2016年獲批全國第二批跨境電商綜合試驗區以來，重慶跨境電商政策體系逐步完善，產業生態持續最佳化。今年1—7月，全市跨境電商進出口額達211.8億元，同比增長5.21%。（重慶日報）"
     }
   ]
 }

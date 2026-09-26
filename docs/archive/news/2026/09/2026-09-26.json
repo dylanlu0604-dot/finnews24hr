@@ -1,7 +1,24 @@
 {
   "date": "2026-09-26",
-  "count": 541,
+  "count": 543,
   "items": [
+    {
+      "id": "mkt:01a0db5d-8be1-7118-86a5-12a4d0863afd",
+      "time": "2026-09-26 09:38:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【People's Daily editorial urges turning China-US constructive strategic-stability vision into action】People's Daily editorial says this year is critical for both China and the United States and urges both sides to implement leaders' consensus by converting the vision of constructive strategic stability into concrete action, prioritizing cooperation, maintaining calibrated competition, keeping differences controllable and aiming for a peaceful trajectory."
+    },
+    {
+      "id": "5114178",
+      "time": "2026-09-26 09:38:27",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【蘋果零售總設計師約翰遜：iPhone Duo等仍需“親手摸、現場試”體驗】蘋果零售總設計師羅恩·約翰遜（Ron Johnson）在近日關於蘋果零售店（Apple Store）的訪談中提到：雖然釋出會線上觀看量巨大，但像iPhone Duo這類新產品，使用者仍需要“親手摸、現場試”才能理解差異。約翰遜認為，實體店並未過時，在新產品體驗轉化上仍不可替代。"
+    },
     {
       "id": "5114177",
       "time": "2026-09-26 09:32:44",
