@@ -1,7 +1,39 @@
 {
   "date": "2026-09-26",
-  "count": 537,
+  "count": 540,
   "items": [
+    {
+      "id": "mkt:01a0db52-c504-7118-86a5-0c151ca6b39e",
+      "time": "2026-09-26 09:27:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The Saudi-led coalition said it intercepted a ballistic missile launched by Yemen's Houthi movement aimed at the KHAMIS MUSHAIT region."
+    },
+    {
+      "id": "5114176",
+      "time": "2026-09-26 09:26:41",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "沙特領導的聯軍表示，攔截了一枚由葉門胡塞武裝向海米斯穆謝特發射的彈道導彈。"
+    },
+    {
+      "id": "mkt:01a0db51-66b5-7118-86a5-001b62afc19c",
+      "time": "2026-09-26 09:25:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Navigation warning: Bohai Strait, northern Yellow Sea closed for military tasks】Dalian Maritime Safety Administration issued a navigation warning: parts of the Bohai Strait and northern Yellow Sea will be used for military tasks and are closed to navigation from 16:00 on Sep 27 to 16:00 on Oct 11."
+    },
     {
       "id": "mkt:01a0db4c-7767-7118-86a4-fbf1686e9a0f",
       "time": "2026-09-26 09:20:16",
