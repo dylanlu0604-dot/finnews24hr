@@ -1,7 +1,56 @@
 {
-  "updated": "2026-09-27 03:00:27",
-  "count": 11974,
+  "updated": "2026-09-27 03:04:15",
+  "count": 11979,
   "items": [
+    {
+      "id": "5114466",
+      "time": "2026-09-27 03:03:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國家庭收入達到有記錄以來的最高水平，貧困率降至最低點。美國人賺的錢比以往任何時候都多。"
+    },
+    {
+      "id": "5114464",
+      "time": "2026-09-27 03:01:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京重申，俄羅斯沒有在歐洲準備任何敵對行動的計劃。"
+    },
+    {
+      "id": "mkt:01a0df17-aeaf-7118-86aa-2c240e5b4eb2",
+      "time": "2026-09-27 03:01:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US President Trump said business activity is booming, household incomes have reached unprecedented levels, the poverty rate is at historic lows, and exports are surging."
+    },
+    {
+      "id": "5114461",
+      "time": "2026-09-27 03:00:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統辦公室週六表示，伊朗總統在紐約出席第81屆聯合國大會後已返回德黑蘭。"
+    },
+    {
+      "id": "mkt:01a0df17-345f-7118-86aa-2291e632dbc3",
+      "time": "2026-09-27 03:00:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US President Trump said real median household income has reached a record high and the poverty rate has fallen to its lowest on record. He said US goods exports are expected to hit a new high in 2026 and that trillions of dollars of new investment are flowing into the US."
+    },
     {
       "id": "mkt:01a0df16-1617-7118-86aa-1ad6911b1398",
       "time": "2026-09-27 02:59:21",
