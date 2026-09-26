@@ -1,7 +1,43 @@
 {
   "date": "2026-09-26",
-  "count": 555,
+  "count": 561,
   "items": [
+    {
+      "id": "mkt:01a0db7d-495d-7118-86a5-453616a1041e",
+      "time": "2026-09-26 10:13:36",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Ghana central bank governor to push local‑currency trade settlement with China】Bank of Ghana Governor Johnson Asiamah said on the 24th the central bank will work with China to promote settling bilateral trade in local currencies to remove reliance on third‑party currency conversion. Ghana is building a cedi–renminbi cross‑currency settlement corridor to eliminate double FX conversions and extra fees, and the central bank has approved a pilot direct cedi–RMB settlement system with Stanbic Bank Ghana (Standard Bank’s Ghana unit) and Ghana Commercial Bank. Asiamah said the Bank of Ghana plans to discuss monetary and financial support with the PBOC at the upcoming IMF and World Bank annual meetings to facilitate implementation of China’s zero‑tariff policy for 53 African countries."
+    },
+    {
+      "id": "5114188",
+      "time": "2026-09-26 10:12:49",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "CNN方面確認，白宮禁止CNN於週六搭乘“空軍一號”。"
+    },
+    {
+      "id": "mkt:01a0db7c-3cf5-7118-86a5-3d2797001706",
+      "time": "2026-09-26 10:12:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CNN says White House barred it from accompanying Trump to Tennessee on Saturday】The White House barred CNN from boarding Air Force One for President Trump's Saturday trip to Tennessee, the network confirmed. CNN had been scheduled as part of the White House television pool to cover the president at a college football game. The notice named no replacement outlet, meaning there will be no TV pool coverage for the trip, which CNN said it views as another escalation by the administration against the network and the broader White House press corps."
+    },
+    {
+      "id": "5114187",
+      "time": "2026-09-26 10:11:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【迦納央行行長：將推動與中國貿易本幣結算】迦納央行行長約翰遜·阿西亞馬24日表示，迦納將與中國合作，推動在兩國貿易交易中取消使用第三方貨幣結算。阿西亞馬在當日晚間舉行的貨幣政策委員會新聞釋出會上表示，貿易商希望充分利用中國對53個非洲建交國全面實施零關稅舉措，這一關鍵性的轉變對加強加中雙邊貿易至關重要。（新華社）"
+    },
     {
       "id": "5114186",
       "time": "2026-09-26 10:08:24",
@@ -752,6 +788,23 @@
         "國際"
       ],
       "text": "【歐洲四大聯賽呼籲國際足聯進行“根本性”改革】歐洲四大足球聯賽英超、德甲、西甲和意甲聯賽25日發表聯合宣告，稱國際足聯主席因凡蒂諾近年來“非但未能防範，反而主動推進具有剝削性的方案”，呼籲國際足聯進行“根本性”治理改革。四大聯賽表示，需要建立更加“透明、客觀、均衡和包容”的治理架構。此前，國際足聯推動設立“國際足聯前進公司”的計劃因引發廣泛爭議而被放棄。該計劃涉及引入私人投資者參與國際足聯商業權益。四大聯賽稱，足球界利益相關方最終促使該計劃撤回，但“導致其出現的條件依然存在”，並將相關事件稱為“國際足聯歷史上最大的權力濫用事件之一”。（央視新聞）"
+    },
+    {
+      "id": "5114129",
+      "time": "2026-09-26 07:57:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【知情人士：白宮禁止CNN記者搭乘空軍一號隨行出訪】兩名瞭解此項決定的知情人士透露，白宮禁止CNN記者跟隨特朗普搭乘空軍一號，參加定於週六前往田納西州諾克斯維爾的行程。 這一決定令週五剛剛短暫恢復運作的電視媒體輪換採訪池機制陷入危機。 上週，CNN、MS NOW以及政客新聞網（Politico）被禁止進入白宮園區，但一名聯邦法官於週四早些時候臨時恢復了這三家媒體的採訪准入許可權。 由五大電視網組成的輪換媒體池（成員還包括美國廣播公司ABC、哥倫比亞廣播公司CBS、全國廣播公司NBC以及福克斯新聞）自週五上午起恢復對特朗普的報道。此前，因CNN遭禁，該媒體池暫停報道數日。CNN與白宮暫未對此置評。"
+    },
+    {
+      "id": "5114128",
+      "time": "2026-09-26 07:56:25",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "市場訊息：白宮禁止CNN記者搭乘空軍一號隨行出訪。"
     },
     {
       "id": "5114127",
