@@ -1,7 +1,15 @@
 {
   "date": "2026-09-26",
-  "count": 551,
+  "count": 552,
   "items": [
+    {
+      "id": "mkt:01a0db70-b61f-7118-86a5-37ffdad26fa1",
+      "time": "2026-09-26 09:59:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Catalyst spacecraft LINK fails to complete mission, re-enters atmosphere】Catalyst Space Technologies said on July 25 its spacecraft LINK failed to complete a planned rendezvous with NASA's Neil Gehrels Swift Observatory and departed orbit, reentering Earth's atmosphere that day. LINK launched from the Marshall Islands on July 3; it was intended to rendezvous with and capture Swift and use its propulsion to raise Swift's orbit and extend the observatory's operational life."
+    },
     {
       "id": "5114183",
       "time": "2026-09-26 09:58:27",
