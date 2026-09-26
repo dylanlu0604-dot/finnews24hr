@@ -1,7 +1,33 @@
 {
-  "updated": "2026-09-26 09:40:43",
+  "updated": "2026-09-26 09:44:29",
   "count": 12043,
   "items": [
+    {
+      "id": "mkt:01a0db60-2a52-7118-86a5-22615ccf4563",
+      "time": "2026-09-26 09:41:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-4.5 earthquake strikes Kumamoto Prefecture, Japan】Japan Meteorological Agency said a magnitude-4.5 earthquake struck the Kumamoto area of Kumamoto Prefecture at about 10:31 a.m. local time on the 26th. Maximum JMA seismic intensity 4; hypocenter depth 10 km."
+    },
+    {
+      "id": "mkt:01a0db5f-38f3-7118-86a5-18594ebd3cea",
+      "time": "2026-09-26 09:40:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【Chutianlong wins contract to build digital RMB hardware-wallet management system】Chutianlong said it has won a contract from an unnamed operator to deliver a digital RMB hardware-wallet management system. Scope covers full-stack delivery from hardware supply to issuance, strengthening the firm's end-to-end service capabilities."
+    },
+    {
+      "id": "5114179",
+      "time": "2026-09-26 09:40:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本縣發生4.5級地震】據日本氣象廳訊息，當地時間26日10時31分左右，日本熊本縣熊本地區發生4.5級地震，最大震感為震度4，震源深度10公里。（央視新聞）"
+    },
     {
       "id": "mkt:01a0db5d-8be1-7118-86a5-12a4d0863afd",
       "time": "2026-09-26 09:38:55",
@@ -109708,34 +109734,6 @@
         "市場"
       ],
       "text": "【法國住房價格第二季度環比下降1%】法國國家統計和經濟研究所18日公佈的資料顯示，經季節性調整後，2026年第二季度，法國本土包括新房和二手房在內的的住房價格環比下降1%，降幅高於第一季度的0.2%。 具體來看，此輪房價下跌明顯由二手房價格下降帶動，環比降幅為1%，較第一季度的0.2%進一步擴大；新房價格接近穩定， 環比僅微跌0.1%，第一季度曾環比上漲0.4%。 這一趨勢同樣可以在房價同比資料中得到驗證。資料顯示，第二季度，法國房價同比下跌0.8%，完全由二手房價格下跌所推動。"
-    },
-    {
-      "id": "5102987",
-      "time": "2026-09-19 09:44:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海南：深化體制機制改革 推動產業結構轉型升級 加快推動重點園區高質量發展】9月18日，海南省重點園區發展建設現場會暨2026年市縣和省直單位主要負責人第三次工作交流會在三亞崖州灣科技城高新區召開，觀摩先進找差距，互學互鑑補短板，共同謀劃推動重點園區轉型發展。省委書記馮飛講話，省長劉小明主持會議，省委副書記、政法委書記楊晉柏等省級領匯出席。 與會人員深入深海科技創新公共平臺、招商三亞深海裝備產業園二期、國投生物育種科技（海南）有限公司、科大訊飛海南自貿港總部基地、創新研學谷等地，現場觀摩深海科技產學研融合、生物育種技術創新應用、人工智慧大模型研發落地等發展成效，以及教育、科技、人才一體化協同建設推進情況，學習借鑑產業培育、創新賦能、平臺搭建等領域成熟經驗。（海南日報）"
-    },
-    {
-      "id": "5102986",
-      "time": "2026-09-19 09:41:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 美國常駐聯合國代表邁克・沃爾茲週五向記者表示，美國總統唐納德・特朗普將於下週在聯合國大會發表演講，重點闡述本屆政府對伊朗、加沙等重大國際衝突的應對舉措。特朗普將闡述必須阻止伊朗獲取核武器，並介紹美方所稱其 20 點加沙和平方案取得的進展。"
-    },
-    {
-      "id": "mkt:01a0b752-f2f8-7118-860d-85dcd2acbeec",
-      "time": "2026-09-19 09:41:01",
-      "tags": [
-        "MKT News",
-        "RTX.O",
-        "Impact bullish",
-        "LHX.O",
-        "NOC.O"
-      ],
-      "text": "【U.S. approves USD 2.68 bln air‑defense sale to Ukraine】The U.S. State Department on Sept. 18 approved a USD 2.68 bln arms sale to Ukraine, authorizing equipment and services for development and upgrades of air‑defense systems and notifying Congress. The State Department said the package will further strengthen Ukraine’s air‑defense capabilities."
     }
   ]
 }

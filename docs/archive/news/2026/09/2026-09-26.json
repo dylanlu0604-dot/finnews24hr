@@ -1,7 +1,33 @@
 {
   "date": "2026-09-26",
-  "count": 543,
+  "count": 546,
   "items": [
+    {
+      "id": "mkt:01a0db60-2a52-7118-86a5-22615ccf4563",
+      "time": "2026-09-26 09:41:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-4.5 earthquake strikes Kumamoto Prefecture, Japan】Japan Meteorological Agency said a magnitude-4.5 earthquake struck the Kumamoto area of Kumamoto Prefecture at about 10:31 a.m. local time on the 26th. Maximum JMA seismic intensity 4; hypocenter depth 10 km."
+    },
+    {
+      "id": "mkt:01a0db5f-38f3-7118-86a5-18594ebd3cea",
+      "time": "2026-09-26 09:40:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Crypto Concepts"
+      ],
+      "text": "【Chutianlong wins contract to build digital RMB hardware-wallet management system】Chutianlong said it has won a contract from an unnamed operator to deliver a digital RMB hardware-wallet management system. Scope covers full-stack delivery from hardware supply to issuance, strengthening the firm's end-to-end service capabilities."
+    },
+    {
+      "id": "5114179",
+      "time": "2026-09-26 09:40:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本縣發生4.5級地震】據日本氣象廳訊息，當地時間26日10時31分左右，日本熊本縣熊本地區發生4.5級地震，最大震感為震度4，震源深度10公里。（央視新聞）"
+    },
     {
       "id": "mkt:01a0db5d-8be1-7118-86a5-12a4d0863afd",
       "time": "2026-09-26 09:38:55",
