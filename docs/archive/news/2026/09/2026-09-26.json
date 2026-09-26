@@ -1,7 +1,37 @@
 {
   "date": "2026-09-26",
-  "count": 530,
+  "count": 533,
   "items": [
+    {
+      "id": "mkt:01a0db49-5b57-7118-86a4-eb113ed4c816",
+      "time": "2026-09-26 09:16:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "CNH"
+      ],
+      "text": "【Putin says Russia welcomes US-China leaders meeting】On the 25th, Putin told reporters Russia welcomes a US-China leaders meeting, saying dialogue between the world’s two largest economies and any positive agreements they reach would affect the global economy and Russia’s economy, and Russia would welcome such outcomes."
+    },
+    {
+      "id": "5114172",
+      "time": "2026-09-26 09:16:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告 渤海海峽黃海北部執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，9月27日16時至10月11日16時，渤海海峽黃海北部部分海域執行軍事任務，禁止駛入。"
+    },
+    {
+      "id": "5114171",
+      "time": "2026-09-26 09:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交媒體發圖，再次將霍爾木茲海峽稱為“特朗普海峽”。"
+    },
     {
       "id": "mkt:01a0db46-6913-7118-86a4-e0ac91a32ab5",
       "time": "2026-09-26 09:13:39",
