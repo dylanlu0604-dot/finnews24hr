@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-27 03:31:05",
+  "updated": "2026-09-27 03:34:50",
   "count": 11985,
   "items": [
+    {
+      "id": "mkt:01a0df34-f6b1-7118-86aa-4a7f3b419481",
+      "time": "2026-09-27 03:33:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Saudi foreign minister says freedom of navigation in Strait of Hormuz and key shipping lanes must be ensured】Saudi Foreign Minister Faisal told the UN General Debate that Saudi Arabia and regional states have been hit by attacks from Iran, with security assets and civilian and economic infrastructure targeted. He reiterated Riyadh’s right to defend its security, sovereignty, citizens and resources, and said freedom of navigation must be guaranteed in all international waterways—notably the Strait of Hormuz, Bab al‑Mandeb, the Red Sea and the Gulf of Aden. He added that energy security depends on system resilience; Saudi Arabia is securing supply continuity through long‑term infrastructure investment and oil reserves held outside the region, and supports supply‑route diversification and navigation freedom."
+    },
+    {
+      "id": "5114492",
+      "time": "2026-09-27 03:31:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普發帖：美國汽車工人和購車者的大日子】美國總統特朗普週六在社交媒體上發帖稱：美國汽車工人和購車者的大日子！我剛剛批准了新的燃油經濟性標準，終結了拜登荒謬的電動汽車強制令。那些“蠢主黨人”讓我們偉大的汽車製造商損失了數以十億美元，強迫美國人購買他們根本不想要的汽車，還在從未建成的充電樁上浪費了數十億美元。這些新標準將消除在美國製造汽車過程中的浪費。這意味著價格更低，讓家庭購買一輛嶄新、漂亮而且安全的汽車時節省數千美元——遠遠好過我們此前生產的那些“環保怪物”。從通用汽車到福特再到Stellantis，每一家製造商都打電話給我，表示想在這裡生產汽車，現在他們可以這麼做了！在我的政府執政期間，已有超過1000億美元投資於美國汽車產業，而這僅僅是個開始。工廠正在迴歸，就業崗位正在回到密歇根州、俄亥俄州、印第安納州、南卡羅來納州以及我們國家各地。感謝我們偉大的交通部長達菲和商務部長盧特尼克。美國回來了。"
+    },
     {
       "id": "5114485",
       "time": "2026-09-27 03:23:53",
@@ -109217,22 +109237,6 @@
         "MKT News"
       ],
       "text": "【Turkish foreign minister Fidan says Turkey will not accept Saudi being drawn into US‑Iran conflict】On Sept. 19 local time, Turkish foreign minister Fidan said, in response to questions on clashes between Saudi Arabia and Yemen’s Houthi movement, that Turkey will not accept Saudi being drawn into the current US‑Iran confrontation and that Saudi does not intend to be pulled in. He added recent attacks on Saudi territory, sovereignty and infrastructure have been serious and that proposals to end the fighting have been conveyed to the parties."
-    },
-    {
-      "id": "5103548",
-      "time": "2026-09-20 03:34:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【土耳其外長：不接受沙特被捲入美伊衝突】當地時間9月19日，土耳其外交部長費丹接受採訪。在被問及沙烏地阿拉伯與葉門胡塞武裝之間的衝突時，費丹表示，土方不接受沙特被捲入當前美國與伊朗之間的衝突，沙特自身也無意捲入衝突。他表示，近期針對沙特領土完整、主權和基礎設施的襲擊十分嚴重。費丹稱，旨在結束戰鬥的有關方案已轉達各方。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0bb28-b976-7118-8612-1e64545c5507",
-      "time": "2026-09-20 03:33:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US F-16 fighter jet intercepted an aircraft that breached the Camp David no-fly zone while President Trump was at Camp David."
     }
   ]
 }
