@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-27 02:56:24",
+  "updated": "2026-09-27 03:00:27",
   "count": 11974,
   "items": [
+    {
+      "id": "mkt:01a0df16-1617-7118-86aa-1ad6911b1398",
+      "time": "2026-09-27 02:59:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian President PEZESHKIAN said Iran and Yemen did not take part in the attack on a Saudi oil pipeline, and that the possibility Israel carried out the operation to inflame tensions and provoke disputes cannot be ruled out."
+    },
+    {
+      "id": "mkt:01a0df14-1108-7118-86aa-129129835741",
+      "time": "2026-09-27 02:57:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India foreign minister Jaishankar: Peace is the path】India foreign minister Jaishankar told the UN General Assembly's 81st General Debate that conflict and confrontation remain the international community's primary concern, urging restraint, de‑escalation, protection of civilians, and uninterrupted energy and trade flows. He said escalating Gulf tensions have worsened an already fragile situation and that attacks on commercial vessels and seafarers in international waters are entirely unacceptable, calling for measures to ensure maritime security and safe passage."
+    },
     {
       "id": "5114457",
       "time": "2026-09-27 02:52:06",
@@ -109099,22 +109120,6 @@
         "MKT News"
       ],
       "text": "Iran's Supreme National Security Council secretary Rezaei said Tehran has conveyed seven conditions to the US to begin any negotiations, calling Iran's position \"clear and unambiguous\" and warning Washington it must accept Iran's rights and conditions if it seeks to extricate itself from the current situation and avoid further trouble."
-    },
-    {
-      "id": "mkt:01a0bb0a-817f-7118-8612-0990772bf6e4",
-      "time": "2026-09-20 03:00:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's foreign minister said there are novel ideas to resolve the dispute with the U.S. over Turkey's S-400 long-range air defense system; both sides are cooperating on a solution and expect positive progress."
-    },
-    {
-      "id": "5103546",
-      "time": "2026-09-20 02:59:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外交部長：土耳其就與美國解決S-400防空系統問題存有“創意方案”，目前正與美方合作推動落實特定解決方案，並期待雙方能取得積極進展。"
     }
   ]
 }
