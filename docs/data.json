@@ -1,7 +1,154 @@
 {
-  "updated": "2026-09-27 00:00:44",
-  "count": 11898,
+  "updated": "2026-09-27 00:05:31",
+  "count": 11914,
   "items": [
+    {
+      "id": "mkt:01a0de76-3b03-7118-86a8-72a36e72ab3a",
+      "time": "2026-09-27 00:04:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LAVROV said actions against Iran's nuclear facilities have inflicted an irreparable blow to the authority of the International Atomic Energy Agency (IAEA)."
+    },
+    {
+      "id": "5114386",
+      "time": "2026-09-27 00:04:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫：將伊朗核設施作為打擊目標，對國際原子能機構的權威性造成了無法挽回的打擊。"
+    },
+    {
+      "id": "mkt:01a0de76-0147-7118-86a8-6d5af33a5aca",
+      "time": "2026-09-27 00:04:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Minister Lavrov urged the immediate release of the Venezuelan president and called for measures to prevent similar rights violations from recurring."
+    },
+    {
+      "id": "mkt:01a0de75-9ddf-7118-86a8-60ae1ae176b0",
+      "time": "2026-09-27 00:04:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Minister Lavrov said Russia has launched an initiative to secure peace in the Persian Gulf and resolve the Strait of Hormuz crisis."
+    },
+    {
+      "id": "5114385",
+      "time": "2026-09-27 00:04:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫：必須解決波斯灣的對抗浪潮及霍爾木茲海峽問題。"
+    },
+    {
+      "id": "5114384",
+      "time": "2026-09-27 00:03:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外長拉夫羅夫：歐洲正在盡其所能破壞特朗普政府有意推動的和平談判。"
+    },
+    {
+      "id": "mkt:01a0de75-1a22-7118-86a8-5a76a293f5d5",
+      "time": "2026-09-27 00:03:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Russian Foreign Minister LAVROV said Europe is doing everything it can to thwart peace talks the Trump administration is interested in."
+    },
+    {
+      "id": "5114383",
+      "time": "2026-09-27 00:03:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫表示，俄羅斯認為確保巴勒斯坦建國的時機已經成熟。"
+    },
+    {
+      "id": "mkt:01a0de74-eba4-7118-86a8-5570284c6735",
+      "time": "2026-09-27 00:03:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia's foreign minister Lavrov said Russia is prepared to contribute to stability in the Strait of Hormuz region."
+    },
+    {
+      "id": "mkt:01a0de74-a2ac-7118-86a8-4a3b327c80e6",
+      "time": "2026-09-27 00:03:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's foreign minister Lavrov said it is time to ensure the establishment of a Palestinian state in accordance with UN resolutions."
+    },
+    {
+      "id": "mkt:01a0de73-c89c-7118-86a8-45e250bacef9",
+      "time": "2026-09-27 00:02:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The UN Support Mission in Libya (UNSMIL) warned that continued closure of the Sharara-Zawiya oil pipeline would have economic consequences."
+    },
+    {
+      "id": "mkt:01a0de73-807e-7118-86a8-3ccf7937e32e",
+      "time": "2026-09-27 00:01:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UN mission said attacks on Libya's oil and energy infrastructure could trigger sanctions under a UN Security Council resolution."
+    },
+    {
+      "id": "5114382",
+      "time": "2026-09-27 00:01:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：佛羅里達州為拜倫·唐納茲安排了兩場集會。"
+    },
+    {
+      "id": "5114381",
+      "time": "2026-09-27 00:01:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫：美國必須解除對古巴的“封鎖”以及對古巴貿易的限制。"
+    },
+    {
+      "id": "mkt:01a0de72-b316-7118-86a8-32e4fdd4c040",
+      "time": "2026-09-27 00:00:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Minister Lavrov said the United States must lift its blockade and trade restrictions on Cuba."
+    },
+    {
+      "id": "mkt:01a0de72-a8ef-7118-86a8-2afb0d3b4b25",
+      "time": "2026-09-27 00:00:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【Israel strikes HEZBOLLAH weapons storage in southern Lebanon, military says】On the 26th (local time) the Israel Defense Forces said it carried out an airstrike earlier that day on a HEZBOLLAH weapons storage facility in southern Lebanon. The military said the site held weapons previously used to attack Israeli soldiers operating inside the so-called \"security zone\" and that the strike was intended to eliminate an \"immediate threat.\" The statement warned any use of force from Lebanon aimed at harming Israeli civilians or soldiers will be met with a decisive response, and reiterated the IDF remains committed to implementing agreements between Israel and Lebanon."
+    },
     {
       "id": "5114380",
       "time": "2026-09-26 23:57:47",
