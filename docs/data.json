@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-26 14:48:59",
-  "count": 11966,
+  "updated": "2026-09-26 14:52:58",
+  "count": 11964,
   "items": [
+    {
+      "id": "5114251",
+      "time": "2026-09-26 14:48:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部訊息，俄防空系統一夜間在多地上空共摧毀645架烏克蘭無人機。"
+    },
     {
       "id": "5114250",
       "time": "2026-09-26 14:46:28",
@@ -109100,31 +109108,6 @@
         "公司"
       ],
       "text": "【上海國投在生物醫藥領域投資金額超300億元】在2026 張江藥谷大會暨生物醫藥產業週上海國投專場上，上海國投公司黨委委員、副總裁陸雯介紹，上海國投公司聚焦三大先導產業和未來產業，在生物醫藥領域，透過股權直投和子基金佈局，投資生物醫藥專案超800個，投資金額超300億元，投早投小比例約70%，重點投向創新藥械、細胞與基因治療、腦機介面、合成生物學、AI+，以及產業鏈自主可控的關鍵環節。今年以來，生物醫藥板塊投資金額近40億元，其中子基金13個，直投專案超30個。(第一財經)"
-    },
-    {
-      "id": "mkt:01a0b86f-d445-7118-860e-89e4453d309c",
-      "time": "2026-09-19 14:52:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CITIC Securities: Huawei unveils AIDC energy and thermal products; storage and liquid cooling to accelerate】CITIC Securities reports Huawei used its Sept. 17-18 FullConnect conference to roll out next-generation AIDC energy and thermal-management products — Taishan UPS, Hengshan centralized DC UPS, highest-density Power Module 5.0, Smart Lithium 5.0 and an AI liquid-cooling system. Huawei outlined an AIDC reconfiguration around Watt, Heat, Bit and a “3+1” construction model and a MIMO architecture to enable multi-source input, multi-standard output and multi-tier storage coordination. CITIC says as AIDC scales to the 100MW–GW level and per-rack power rises, traditional data-center power and cooling architectures are being restructured: energy storage is shifting from pure backup toward load smoothing, grid-friendly operation and energy balancing, and liquid cooling is evolving into intelligent thermal-management systems. Storage and liquid cooling are likely to be material incremental segments of AIDC infrastructure."
-    },
-    {
-      "id": "5103138",
-      "time": "2026-09-19 14:50:46",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：華為全聯接大會發布AIDC能源基礎設施新品，儲能與液冷加速升級】中信證券研報指出，9月17-18日，華為召開全聯接大會，17日下午召開AIDC基礎設施峰會，圍繞源網荷儲AIDC進一步釋出新一代能源及熱管理產品，包括泰山UPS、恆山集中式直流UPS、最高密電力模組5.0、智慧鋰電5.0以及AI智慧液冷系統等。華為提出面向AIDC進行Watt、Heat、Bit及建設模式“3+1”重構，並透過MIMO架構實現多電源輸入、多制式輸出及多層級儲能協同。中信證券認為，隨著AIDC向百MW、GW級發展、單櫃功率持續提升，傳統資料中心供電及散熱體系正在加速重構，其中儲能將由傳統備電向負載平滑、電網友好及能源調節升級，液冷亦由單一製冷裝置向智慧熱管理系統升級，儲能及液冷有望成為AIDC基礎設施的重要增量環節。"
-    },
-    {
-      "id": "5103137",
-      "time": "2026-09-19 14:50:01",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：昇騰960釋出提前，競爭步入系統時代】中信證券研報指出，華為2026全聯接大會表明國產算力已從“單卡”升維為“系統級方案”的全棧競爭，國產算力全產業鏈將受益，從稀缺的先進製程能力，到百花齊放的設計公司，再到超節點，均會迎來放量機會，同時先進製程、先進封裝、先進儲存以及配套產業鏈有望迎來強勁增長動能。建議關注：1）AI晶片設計公司。2）上游供應鏈。3）其他。"
     }
   ]
 }
