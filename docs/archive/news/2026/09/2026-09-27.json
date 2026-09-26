@@ -1,7 +1,697 @@
 {
   "date": "2026-09-27",
-  "count": 43,
+  "count": 121,
   "items": [
+    {
+      "id": "5114444",
+      "time": "2026-09-27 02:39:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫談及德國時表示： 德國正竭力爭取成為聯合國安理會常任理事國，可以說是不遺餘力，甚至到了執念的地步。 但它成功的機會為零。"
+    },
+    {
+      "id": "5114443",
+      "time": "2026-09-27 02:39:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫談及德國時表示：默茨總理說——這絕非口誤，他重複了好幾次——“我們的目標是讓德國再次成為歐洲的主要軍事力量。”他明白這句話裡“再次”這個詞的含義嗎？"
+    },
+    {
+      "id": "5114442",
+      "time": "2026-09-27 02:38:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司表示，原油產量將逐步恢復至正常水平。"
+    },
+    {
+      "id": "mkt:01a0df02-819a-7118-86a9-fffa91b41e70",
+      "time": "2026-09-27 02:37:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation said crude flows will gradually return to normal levels."
+    },
+    {
+      "id": "mkt:01a0df01-dc0d-7118-86a9-f596ed13baeb",
+      "time": "2026-09-27 02:37:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation said it reopened valves on the Sharara-Zawiya oil pipeline and has resumed crude flows."
+    },
+    {
+      "id": "5114441",
+      "time": "2026-09-27 02:37:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司：利比亞重新開放沙拉拉-扎維耶輸油管線閥門，恢復原油輸送。"
+    },
+    {
+      "id": "mkt:01a0df00-c604-7118-86a9-edf88e60e751",
+      "time": "2026-09-27 02:36:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude 3.9 earthquake at 02:31 on Sept 27 in Changning County, Yibin, Sichuan, China; focal depth 5 km."
+    },
+    {
+      "id": "mkt:01a0defc-de28-7118-86a9-e55f23802497",
+      "time": "2026-09-27 02:31:48",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "【US media: Boeing 737 MAX software bug may impair navigation】US media report Boeing has identified a software defect in a 737 MAX cockpit software update that can disable some autopilot/navigation functions, potentially when crews change course after a missed approach. Boeing has acknowledged the defect; it was not previously disclosed. In specific cases pilots may need to fly manually with partial autopilot loss, raising safety concerns during landing and increasing pilot workload in low-altitude, high-demand situations such as adverse weather, industry sources said."
+    },
+    {
+      "id": "5114440",
+      "time": "2026-09-27 02:30:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部長：我們堅信，實現持久（加沙地區）和平必須依靠“兩國方案”。"
+    },
+    {
+      "id": "5114439",
+      "time": "2026-09-27 02:23:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：獵鷹9號火箭從加利福尼亞州的4E發射臺成功將USSF-385任務送入軌道。"
+    },
+    {
+      "id": "mkt:01a0def5-4122-7118-86a9-de6192151783",
+      "time": "2026-09-27 02:23:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli strikes hit multiple Gaza sites, cause casualties】Palestinian sources said on the 26th Israeli forces struck multiple locations across the Gaza Strip, killing two Palestinians and wounding several others, including children. Israeli authorities did not immediately comment."
+    },
+    {
+      "id": "5114438",
+      "time": "2026-09-27 02:23:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍襲擊加沙多地 致多人死傷】當地時間26日，據巴勒斯坦方面訊息稱，以軍當天對加沙地帶多地發動襲擊。目前已造成2名巴勒斯坦人死亡，另有多人受傷，傷者中包括兒童。以方對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0def2-72ff-7118-86a9-d4885a8de829",
+      "time": "2026-09-27 02:20:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "The Washington Post reports the U.S. and Russia jointly removed the \"human oversight\" clause from a global AI weapons convention."
+    },
+    {
+      "id": "5114437",
+      "time": "2026-09-27 02:20:18",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【波音737 MAX新軟體故障或導致導航功能中斷】波音公司發現737 MAX存在軟體故障，該故障可能導致自動導航功能在特定著陸場景下失效。據部分業內人士透露，西南航空和聯合航空已告知波音，不希望新交付的737 MAX客機配備存在缺陷的軟體。美國聯邦航空管理局（FAA）正在調查該問題，這可能會影響波音最新款737機型的認證。該公司正為飛行員制定相關操作程式並開發軟體修復方案；美國聯邦航空管理局（FAA）的調查可能會影響新機型獲批。"
+    },
+    {
+      "id": "mkt:01a0def0-fc0e-7118-86a9-cac690e8eda3",
+      "time": "2026-09-27 02:18:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports a senior Federal Aviation Administration official said the agency is probing a software anomaly and assessing whether it could create unsafe flight conditions."
+    },
+    {
+      "id": "mkt:01a0def0-da4e-7118-86a9-c5d1a07f0336",
+      "time": "2026-09-27 02:18:41",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "The Wall Street Journal, citing sources, reported UNITED AIRLINES and Southwest Airlines have told Boeing (BA.N) they want new 737 MAX deliveries fitted with the older software rather than the updated version which sources say is defective."
+    },
+    {
+      "id": "mkt:01a0def0-3666-7118-86a9-be26aa5b9c29",
+      "time": "2026-09-27 02:17:59",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact mixed"
+      ],
+      "text": "The Wall Street Journal reported Boeing said engineers are developing a software update to address the problem."
+    },
+    {
+      "id": "mkt:01a0def0-08f9-7118-86a9-b0b7daa1aca0",
+      "time": "2026-09-27 02:17:47",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "The Wall Street Journal reports a document shows Boeing told 737 MAX operators in August that the software issue did not constitute a safety risk."
+    },
+    {
+      "id": "mkt:01a0deef-d895-7118-86a9-ac1db4022b36",
+      "time": "2026-09-27 02:17:35",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bearish"
+      ],
+      "text": "Wall Street Journal reports a software fault could prevent pilots from using the automatic flight guidance system in certain landing scenarios."
+    },
+    {
+      "id": "mkt:01a0deef-a42d-7118-86a9-a0e1dc94c5f9",
+      "time": "2026-09-27 02:17:22",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "Wall Street Journal reports a new Boeing 737 MAX software glitch has raised safety concerns."
+    },
+    {
+      "id": "mkt:01a0dee9-94ca-7118-86a9-99e3e8546e54",
+      "time": "2026-09-27 02:10:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Lavrov says West has destroyed European security architecture to contain Russia】Russia’s foreign minister Sergei Lavrov told the UN General Assembly in New York that Western efforts to contain Russia have destroyed the European security architecture and are obstructing a peaceful settlement of the Ukraine conflict, undermining prospects for negotiations. He warned Western hopes for a strategic defeat of Russia risked leading the conflict’s instigators into a strategic dead end. Lavrov urged the UN to act to reverse the situation in the Middle East and said restoring trust between Arab states and Iran is a prerequisite for stabilizing the Strait of Hormuz and the Persian Gulf. He described the attack that killed Iran’s former supreme leader Khamenei and other Iranian military-political leaders as an unacceptable act of force, and also called for the immediate release of Venezuelan president Maduro and his wife, the lifting of Cuba’s naval blockade, and economic measures to improve Cuba’s humanitarian conditions."
+    },
+    {
+      "id": "5114436",
+      "time": "2026-09-27 02:07:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長：西方為遏制俄羅斯而摧毀歐洲安全體系】據俄羅斯媒體報道，俄羅斯外交部長拉夫羅夫26日在紐約表示，為了遏制俄羅斯，西方已然親手摧毀歐洲安全體系。拉夫羅夫當天在第81屆聯合國大會一般性辯論發言中談到烏克蘭問題，他說，歐洲正在竭盡全力阻撓烏克蘭問題和平解決，破壞談判前景。他認為，西方幻想讓俄羅斯遭受戰略失敗，但這些幻想最終只會將戰爭挑唆者引入戰略死衚衕。（新華社）"
+    },
+    {
+      "id": "5114435",
+      "time": "2026-09-27 02:05:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本住友生命保險公司將部署人工智慧（AI）以提供量身定製的保險合同。"
+    },
+    {
+      "id": "5114434",
+      "time": "2026-09-27 02:04:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【民調：特朗普的MAGA忠實支持者認為他並不存在\"可負擔性\"問題】《POLITICO》民調的一項新分析顯示，儘管許多美國人認為生活成本是美國面臨的首要議題，但特朗普的MAGA基本盤卻並不總是這麼看。在自認為屬於MAGA運動的選民中，僅有28%的人表示，自特朗普上任以來開支變得更加難以負擔。事實上，MAGA選民更傾向於認為情況有所好轉，而非惡化。"
+    },
+    {
+      "id": "5114433",
+      "time": "2026-09-27 02:01:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆表示，維持公共財政穩定至關重要。"
+    },
+    {
+      "id": "5114432",
+      "time": "2026-09-27 02:00:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美國和古巴會達成協議】美國總統特朗普26日稱，他認為美國和古巴會達成協議，美方“不需要動用軍隊”。特朗普當天在白宮南草坪前往田納西州前對媒體作上述表示。（新華社）"
+    },
+    {
+      "id": "5114431",
+      "time": "2026-09-27 01:59:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：許多情報機構掌握的資訊顯示，俄羅斯想要擴大沖突，將波及更多國家。也許是其他地區。這就是為什麼我們需要共同防禦，預防性地行動。正是為此，我們正在與夥伴們討論更嚴厲的制裁。"
+    },
+    {
+      "id": "5114430",
+      "time": "2026-09-27 01:59:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：9月，俄羅斯發射了超過2730架噴氣動力“沙赫德”，其中超過1500架被擊落或壓制。不幸的是，仍有相當一部分達到了目標。但我們烏克蘭人將一步步加強防禦。"
+    },
+    {
+      "id": "5114429",
+      "time": "2026-09-27 01:58:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：明年，俄羅斯計劃僅用於噴氣動力無人機和巡飛彈藥的生產就花費120億美元。"
+    },
+    {
+      "id": "mkt:01a0dede-5130-7118-86a9-939fdcea90d5",
+      "time": "2026-09-27 01:58:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia plans to spend $12 billion next year solely on production of jet-powered drones and cruise missiles."
+    },
+    {
+      "id": "5114428",
+      "time": "2026-09-27 01:49:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：工作人員結束對加彭的訪問。"
+    },
+    {
+      "id": "5114427",
+      "time": "2026-09-27 01:48:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克政府發言人：新一批美元現金將於近日運抵伊拉克。"
+    },
+    {
+      "id": "mkt:01a0ded4-f231-7118-86a9-8ef04d8597a5",
+      "time": "2026-09-27 01:48:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF said staff completed a visit to Gabon."
+    },
+    {
+      "id": "5114426",
+      "time": "2026-09-27 01:48:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：今天，我們在本國領空及黑海上空攔截並摧毀了105架無人機。"
+    },
+    {
+      "id": "mkt:01a0ded3-9ced-7118-86a9-80517e4dbdf8",
+      "time": "2026-09-27 01:46:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine intercepted 55% of Russian jet-powered drones, President Zelenskiy said."
+    },
+    {
+      "id": "5114425",
+      "time": "2026-09-27 01:45:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，烏克蘭目前攔截了55%俄羅斯發射的噴氣動力無人機。"
+    },
+    {
+      "id": "5114424",
+      "time": "2026-09-27 01:43:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "風暴導致美國東北部超10萬使用者斷電，超400架航班被取消。"
+    },
+    {
+      "id": "mkt:01a0decb-4117-7118-86a9-7b2df03142cd",
+      "time": "2026-09-27 01:37:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said there will be intensive diplomatic activity in the coming days and through October aimed at changing the situation."
+    },
+    {
+      "id": "mkt:01a0decb-14a8-7118-86a9-723262341040",
+      "time": "2026-09-27 01:37:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said the US assessment of the situation aligns with Ukraine’s and urged efforts to change Russia’s will by redirecting funding away from the war toward other sectors to create an incentive for Russia to end the conflict."
+    },
+    {
+      "id": "mkt:01a0deca-a3dd-7118-86a9-68c89a75392a",
+      "time": "2026-09-27 01:36:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukraine President Zelenskiy said Russia currently has no intention of ending the war. He said Putin repeatedly finds excuses to avoid meetings, rejects a trilateral talks mechanism and refuses dialogue, an end to the conflict or to stop the killings."
+    },
+    {
+      "id": "5114423",
+      "time": "2026-09-27 01:36:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：在接下來的幾天和10月份，將會有大量外交活動來改變局勢。"
+    },
+    {
+      "id": "5114422",
+      "time": "2026-09-27 01:36:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：很明顯，俄羅斯人並沒有準備停止衝突。至少現在沒有。"
+    },
+    {
+      "id": "5114421",
+      "time": "2026-09-27 01:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國議員們猛烈抨擊了特朗普的一項計劃，該計劃擬收回政府各部門已獲國會批准的逾8億美元支出。議員們指出，總統無權在聯邦資金的使用方向上違抗國會。"
+    },
+    {
+      "id": "5114420",
+      "time": "2026-09-27 01:28:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國將向首次購房者提供貸款，以提升住房自有率】英國政府將推出一項新的貸款計劃，幫助首次購房者購買新建住房，首付比例低至2.5%，並提供相當於房價20%的權益貸款。該計劃名為“你的第一個家”（Your First Home），資金將透過削減政府其他預算來籌集，財政大臣希利將在下個月的預算案中公佈具體細節。該計劃的預註冊將於2026年底前開放，發放的貸款在初期將享有免息期，同時房地產開發商也將為該計劃的運營提供資金支援。"
+    },
+    {
+      "id": "5114419",
+      "time": "2026-09-27 01:28:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國各界高度評價習近平主席歷史性訪問】國家主席習近平26日圓滿結束對美國的國事訪問回到北京。訪美期間，習近平主席與特朗普總統就中美建設性戰略穩定關係及重大國際地區問題深入交換意見，達成八點成果共識。美國各界人士高度評價習近平主席的美國之行，表示這次訪問進一步豐富了中美關係定位的內涵，並在經貿領域取得互惠互利的成果。他們認為，習近平主席的成功訪問在中美關係發展史上寫下濃墨重彩的一筆，為中美關係巨輪行穩致遠指明航向、注入動力，有利於增進兩國人民福祉、維護世界和平穩定。（新華社）"
+    },
+    {
+      "id": "mkt:01a0dec1-e791-7118-86a9-61b4ebf404ed",
+      "time": "2026-09-27 01:27:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran, Iraq likely to announce new flight arrangements soon, ambassador says】IRNA quoted Iran’s ambassador to Iraq as saying officials are in talks and a new decision on flight arrangements is likely soon. He said roughly 12,000–13,000 passengers travel daily on Iran Air services between the two countries. Earlier reports said Iraq is negotiating with the US for exemptions for some airports from US aviation sanctions targeting firms that do business with Iran Air."
+    },
+    {
+      "id": "5114418",
+      "time": "2026-09-27 01:22:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：在特朗普拒絕伊朗提議後，美國參謀長聯席會議審議下一步行動。"
+    },
+    {
+      "id": "mkt:01a0debd-5369-7118-86a9-5ed10131e460",
+      "time": "2026-09-27 01:22:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli i24News cited a security source saying that after Trump rejected Iran's proposal to reopen the Strait of Hormuz, the US Joint Chiefs of Staff are resuming assessments of possible next steps. The source said this does not indicate preparations for an imminent attack."
+    },
+    {
+      "id": "5114417",
+      "time": "2026-09-27 01:19:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破99美元，日內漲超2.4%。"
+    },
+    {
+      "id": "mkt:01a0deb4-2990-7118-86a9-50ff83cb1d53",
+      "time": "2026-09-27 01:12:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian foreign minister Lavrov said Turkey has not contacted Moscow about moving the S-400 system abroad and that such a move would be impossible without Moscow's consent."
+    },
+    {
+      "id": "5114416",
+      "time": "2026-09-27 01:11:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其並未就S-400防空導彈系統可能向海外轉移一事與俄羅斯進行過接觸；俄外長拉夫羅夫指出，如果沒有莫斯科的同意，此舉是不可能實現的。"
+    },
+    {
+      "id": "5114415",
+      "time": "2026-09-27 01:06:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊與聯合國大會主席卡利勒·拉赫曼舉行了會談。"
+    },
+    {
+      "id": "5114414",
+      "time": "2026-09-27 01:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：舍甫琴科夫斯基區一棟辦公樓遭到無人機襲擊。初步報告顯示未發生火災。救援人員正趕往現場。"
+    },
+    {
+      "id": "5114411",
+      "time": "2026-09-27 00:59:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫：聯合國秘書長一職有幾位候選人均十分勝任，且具備所需的素質。"
+    },
+    {
+      "id": "5114410",
+      "time": "2026-09-27 00:59:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【拉夫羅夫聯大提議波斯灣集體安全框架，主張推動巴勒斯坦建國】俄羅斯外長拉夫羅夫週六在聯合國大會上表示，俄羅斯提出的波斯灣集體安全框架有助於在霍爾木茲海峽危機期間穩定該地區局勢。拉夫羅夫說：“這正是推動我們提出波斯灣集體安全構想的動力。”他補充說，莫斯科已準備好協助穩定該地區局勢。他援引俄羅斯總統普京的話稱，“一個霸權國家的獨裁正在失控”，這顯然是在暗指美國。多年來，俄羅斯一直倡導建立一個更廣泛的波斯灣安全架構，該架構由包括伊朗和阿拉伯國家在內的地區國家共同參與，而非圍繞單一域外大國建立。拉夫羅夫提出這一方案，旨在將其作為緩解緊張局勢、解決地區安全爭端的框架。他還把更廣泛的中東穩定與巴勒斯坦問題聯絡起來，稱現在是時候透過確保巴勒斯坦建國來解決他所說的該地區核心問題了。"
+    },
+    {
+      "id": "mkt:01a0dea7-2958-7118-86a9-4dc2e47a5a75",
+      "time": "2026-09-27 00:58:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi government says it has reached an agreement with the United States to continue shipments of U.S. dollar cash to Iraq."
+    },
+    {
+      "id": "5114409",
+      "time": "2026-09-27 00:56:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克政府：伊拉克與美國達成共識，將繼續運送現金美元。"
+    },
+    {
+      "id": "5114408",
+      "time": "2026-09-27 00:56:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特聯大表態：守航運安全、穩能源格局、力推兩國方案】沙特外交大臣在聯合國大會表態，海灣安全事關全球安全與能源、供應鏈穩定，國際航運通道安全是各國共同責任。沙特反對地區霸權干涉，譴責破壞敘利亞穩定行為、支援伊拉克控武。其重申堅持巴以兩國方案、反對驅逐巴勒斯坦民眾。同時沙特強調自身持續助力全球能源安全與氣候治理，並披露海灣國家曾遭伊朗襲擊。"
+    },
+    {
+      "id": "5114407",
+      "time": "2026-09-27 00:54:28",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國首相伯納姆：首次購房者首付僅需2.5%即可購房。"
+    },
+    {
+      "id": "5114406",
+      "time": "2026-09-27 00:53:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "呼籲保護霍爾木茲海峽和曼德海峽的航行自由。"
+    },
+    {
+      "id": "mkt:01a0dea0-fe5b-7118-86a9-4434213113cf",
+      "time": "2026-09-27 00:51:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【European ministers discuss tighter border controls and accelerated migrant returns】On Saturday 17 interior ministers from EU member states and the UK met to discuss tightening border controls, shortening emergency response times and introducing fast-track return procedures for some migrants. The talks follow an EU migration and asylum pact implemented in June. Germany’s interior minister Dobrindt called for a new European migration-crisis response mechanism, urging rules to define border emergency situations and enable rapid returns after incidents such as the mass arrivals in Ceuta from neighbouring Morocco."
+    },
+    {
+      "id": "5114405",
+      "time": "2026-09-27 00:47:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫：我們看到納粹主義在歐盟和北約成員國中蔓延，包括在德國，這令人感到擔憂。"
+    },
+    {
+      "id": "5114404",
+      "time": "2026-09-27 00:42:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【F1亞塞拜然大獎賽：拉塞爾贏得賽季第三冠】2026賽季世界一級方程式賽車錦標賽（F1）亞塞拜然大獎賽正賽26日在巴庫賽道舉行。梅賽德斯車手拉塞爾奪得冠軍，紅牛車手維斯塔潘和哈賈爾分獲二、三名。（新華社）"
+    },
+    {
+      "id": "mkt:01a0de97-d6db-7118-86a9-39bf6c2ee752",
+      "time": "2026-09-27 00:41:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi foreign minister says Gulf security integral to global security】Saudi foreign minister Faisal told the UN General Assembly that Gulf security is inseparable from regional and global security, that restoring global supply chains is a shared responsibility, and that efforts to restore regional security must not be built on hegemony or coercion."
+    },
+    {
+      "id": "5114403",
+      "time": "2026-09-27 00:38:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗專家會議成員透露：新任最高領袖哈梅內伊曾在醫院遭轟炸後從廢墟中被救出。哈梅內伊在此前的襲擊中受傷，而在其住院治療的訊息傳出後，德黑蘭有三家醫院遭到轟炸。他當時正身處第三家醫院，最終被人從瓦礫下救了出來。"
+    },
+    {
+      "id": "mkt:01a0de91-5a19-7118-86a9-348690c582ad",
+      "time": "2026-09-27 00:34:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister said Saudi Arabia has contributed to the stability of regional and international trade."
+    },
+    {
+      "id": "mkt:01a0de90-a875-7118-86a9-2dc2ba4e7b32",
+      "time": "2026-09-27 00:33:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Saudi foreign minister says Riyadh is committed to global energy security."
+    },
+    {
+      "id": "mkt:01a0de8f-8686-7118-86a9-23e1973d2ece",
+      "time": "2026-09-27 00:32:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister says energy security and climate issues are closely linked."
+    },
+    {
+      "id": "mkt:01a0de8f-4773-7118-86a9-19cc301441a9",
+      "time": "2026-09-27 00:32:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister said a just and lasting peace can only be achieved by implementing a two-state solution and establishing a Palestinian state."
+    },
+    {
+      "id": "5114402",
+      "time": "2026-09-27 00:31:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國希思羅機場表示，規劃中的第三跑道可能推遲至2039年投用。"
+    },
+    {
+      "id": "mkt:01a0de8e-087c-7118-86a9-156f213a16d6",
+      "time": "2026-09-27 00:30:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister says Riyadh rejects any violations that undermine stability in Syria."
+    },
+    {
+      "id": "mkt:01a0de8d-b5f1-7118-86a9-0e23fe937e8b",
+      "time": "2026-09-27 00:30:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said Canada remains predictable, reliable and principled in a world of uncertainty."
+    },
+    {
+      "id": "mkt:01a0de8d-62e3-7118-86a9-05747179466b",
+      "time": "2026-09-27 00:30:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Saudi foreign minister said Riyadh supports the Iraqi government's efforts on weapons control."
+    },
+    {
+      "id": "mkt:01a0de8d-2d95-7118-86a8-fa69ebaf69a4",
+      "time": "2026-09-27 00:29:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham will announce a new home-purchase assistance scheme."
+    },
+    {
+      "id": "mkt:01a0de8c-c66b-7118-86a8-f266006af62c",
+      "time": "2026-09-27 00:29:22",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi foreign minister said risks that threaten international shipping could affect the global economy."
+    },
+    {
+      "id": "mkt:01a0de8b-a8e2-7118-86a8-e83cdfa34441",
+      "time": "2026-09-27 00:28:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister said maintaining international navigation security is a shared responsibility."
+    },
+    {
+      "id": "mkt:01a0de8b-66ef-7118-86a8-e7c22e3ad447",
+      "time": "2026-09-27 00:27:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister said Riyadh rejects any attempts aimed at expelling the Palestinian people."
+    },
+    {
+      "id": "mkt:01a0de88-faaf-7118-86a8-d9999dc95d01",
+      "time": "2026-09-27 00:25:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi foreign minister said Riyadh stresses protecting freedom of navigation in the Strait of Hormuz and Bab al-Mandeb."
+    },
     {
       "id": "mkt:01a0de88-cd72-7118-86a8-d488a918809b",
       "time": "2026-09-27 00:25:02",
