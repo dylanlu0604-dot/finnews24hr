@@ -1,7 +1,435 @@
 {
   "date": "2026-09-26",
-  "count": 476,
+  "count": 524,
   "items": [
+    {
+      "id": "5114165",
+      "time": "2026-09-26 09:01:45",
+      "tags": [
+        "行業",
+        "公司",
+        "其他"
+      ],
+      "text": "【飛天茅臺八連陽茅臺系普漲 國窖1573、洋河夢之藍M6+重跌】新浪財經“酒價內參”過去24小時收集的資料顯示，9月26日中國白酒業12大單品的終端零售均價六漲五跌一平，上漲品種數量和累計漲幅均小幅勝出。贏家方面，飛天茅臺上漲1元至1811元，八連陽持續抬升，連續第七天挺立1800元大關之上，再創近一個月新高；精品茅臺上漲4元至2470元，三連陽亦重新整理30天最高紀錄；茅臺1935上漲2元至685元，平上榜“酒價內參”10天來最高價；五糧液1618上漲1元至830元，持續高位小幅震盪；青花汾20上漲5元至403元，強勢反彈重新站上400元整數關口；水晶劍南春上漲1元至412元，延續近期小步上行走勢，再度重新整理30天新高。下跌方面，五糧液普五八代下跌2元至800元，三連陰回落至整百關口，後市走向值得高度關注；國窖1573大跌4元至876元，連續調整後價格已跌破趨勢線；洋河夢之藍M6+下跌3元至608元，連續兩日回落，前期強勢反彈引發持續回撥；習酒君品下跌1元至637元，延續近期震盪中小幅走弱行情；青花郎下跌3元至677元，繼續在低谷區間震盪。持平方面，古井貢古20終端零售均價維持在516元，此前連續走低後步入低位盤整。\n\n今日12大單品的終端零售總價結束連續兩日回落，整體價盤重心微幅回升，但仍處於近期震盪區間。如果12大單品各取一瓶整體打包售賣，今日總售價為10725元，較昨日僅上漲1元，未來走向難言明確。"
+    },
+    {
+      "id": "mkt:01a0db3b-28ed-7118-86a4-d67e937db4c0",
+      "time": "2026-09-26 09:01:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yangtze River Delta railways to add 106 trains on Sept 26; expects 2.9 mln passengers】China Railway Shanghai Group said Sept 26, the second day of the Mid‑Autumn short holiday, will see sustained high passenger flows on Yangtze River Delta railways with an expected 2.9 mln passengers. The operator plans 106 additional passenger trains, will run 291 EMUs in coupled formation and attach 90 conventional cars to match demand. On Sept 25 the group carried 4.13 mln passengers."
+    },
+    {
+      "id": "5114164",
+      "time": "2026-09-26 09:01:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英偉達系列GPU租賃價格多數下跌】截止9月26日，B200租賃價格最新報8.04美元/小時，日漲0.37%，周漲10.74%，月漲29.26%；Ｈ200租賃價格最新報5.08美元/小時，日跌1.55%，周跌9.29%，月漲19.81%；H100租賃價格最新報2.85美元/小時，日跌2.40%，周跌5.63%，月漲6.34%；A100租賃價格最新報1.02美元/小時，較前日持平，周漲2.00%，月跌3.77%；RTX5090租賃價格最新報0.66美元/小時，日跌1.49%，周跌1.49%，月漲22.22%。"
+    },
+    {
+      "id": "mkt:01a0db3a-61d7-7118-86a4-cabd17c86399",
+      "time": "2026-09-26 09:00:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi-led coalition says it is monitoring missile and drone attacks targeting Saudi Arabia."
+    },
+    {
+      "id": "5114163",
+      "time": "2026-09-26 09:00:31",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "沙特領導的聯軍表示，其攔截了胡塞武裝向利雅得發射的兩架無人機。"
+    },
+    {
+      "id": "5114162",
+      "time": "2026-09-26 09:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱正在監控針對沙特發射的導彈和無人機。"
+    },
+    {
+      "id": "mkt:01a0db3a-12cf-7118-86a4-c3ca219eca35",
+      "time": "2026-09-26 09:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense says danger in the Khamis Mushait region has passed."
+    },
+    {
+      "id": "5114161",
+      "time": "2026-09-26 08:59:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，海米斯穆謝特的危險已經解除。"
+    },
+    {
+      "id": "5114160",
+      "time": "2026-09-26 08:58:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長三角鐵路26日計劃增開列車106列 預計傳送旅客290萬人次】記者從中國鐵路上海局集團有限公司（以下簡稱上鐵集團）獲悉，9月26日是中秋小長假第二天，長三角鐵路客流持續高位執行，預計當日傳送旅客290萬人次。鐵路部門計劃增開106列旅客列車，組織291列動車組列車重聯執行，加掛90輛普速車輛，精準匹配客流需求，精心服務旅客出行。昨天（9月25日），上鐵集團傳送旅客413萬人次。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0db38-0770-7118-86a4-b93e46aff924",
+      "time": "2026-09-26 08:57:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【SK Hynix unit Solidigm reportedly eyeing US IPO as early as 2027】Sources say SK Hynix unit Solidigm is considering a US IPO as early as next year (2027) and has held talks with potential bank advisers on listing its NAND storage business. The company, part of the world’s No.2 memory chip manufacturer, could be valued at up to $100 billion on completion, according to some sources. Discussions are ongoing; timing, valuation and other details remain subject to change."
+    },
+    {
+      "id": "mkt:01a0db37-7a18-7118-86a4-b578e3b3282f",
+      "time": "2026-09-26 08:57:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "【Apple hit with over $5.7 bln verdict for haptic patent infringement】A U.S. federal jury in San Diego found on Friday that Apple (AAPL.O) infringed two Taction Technology patents covering vibration/haptic technology used in iPhone and Apple Watch, awarding Taction more than $5.7 billion. The jury judged the infringement was not willful. Apple said it strongly disagrees with the verdict and amount, will appeal, and maintains its Taptic Engine differs fundamentally from Taction’s technology."
+    },
+    {
+      "id": "mkt:01a0db36-81b4-7118-86a4-af0b837c78c9",
+      "time": "2026-09-26 08:56:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert warning of potential threats to Khamis Mushait and Abha."
+    },
+    {
+      "id": "5114159",
+      "time": "2026-09-26 08:55:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門釋出警報，稱艾卜哈地區存在潛在危險。"
+    },
+    {
+      "id": "5114158",
+      "time": "2026-09-26 08:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯總統表示俄方樂見中美元首會晤】當地時間25日，俄羅斯總統普京在回答媒體提問時表示，俄方樂見中美元首會晤。俄羅斯總統普京：我們歡迎美國與中國之間的對話，因為這是世界上兩個最大的經濟體。兩國如何以及達成何種協議，將對全球經濟產生影響，也將對我們的經濟產生影響。因此，中美達成的任何具有積極意義的協議，我們都是歡迎的。（央視新聞）"
+    },
+    {
+      "id": "5114157",
+      "time": "2026-09-26 08:54:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國核能初創公司‌Deep Fission：駁斥做空報告中的不實指控。"
+    },
+    {
+      "id": "5114156",
+      "time": "2026-09-26 08:53:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高速光互聯與計算技術北京市重點實驗室落地北京經開區】據“北京亦莊”公眾號，近日，2026北京微電子國際研討會暨IC WORLD大會——光電整合前沿技術專題論壇在北京亦莊舉辦。活動現場，高速光互聯與計算技術北京市重點實驗室揭牌落地，北京亦莊積體電路領域再添市級重點實驗室。此次揭牌的高速光互聯與計算技術北京市重點實驗室由北方積體電路技術創新中心（北京）有限公司、北京海光芯誠半導體科技有限公司、啟明光子（北京）科技有限公司和北京大學聯合共建，已獲得北京市科委、中關村管委會正式授牌。該實驗室將重點圍繞異質整合矽光晶片、片上密集波長分波多工、矽光先進封裝三大核心技術方向，構建“器件—晶片—系統—封裝”全鏈條研發體系。"
+    },
+    {
+      "id": "5114155",
+      "time": "2026-09-26 08:53:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門對海米斯穆謝特地區釋出潛在危險警報。"
+    },
+    {
+      "id": "5114154",
+      "time": "2026-09-26 08:51:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1000元一噸 五仁月餅成回收香餑餑】市場上在售月餅的保質期普遍較短，通常在30天至90天左右。過期的月餅，會去哪兒？首先是銷燬。過期月餅還可以進行飼料化應用。9月23日，河北省某飼料廠工作人員介紹，該飼料廠常年回收臨期、過期庫存食品尾貨，包括餅乾、月餅等，進行飼料化原料用途，並承諾不會二次流入市面銷售。該工作人員稱，用作飼料的月餅，不能出現發黴、異味等變質情況；此外，不同餡料的月餅，回收價格也不一樣。“五仁月餅的回收價格高一些，約1000元/噸，果餡、豆沙等其他口味的月餅價格低一些，約800元/噸。”工作人員稱，五仁月餅裡含有大量瓜子、花生等堅果，營養成分高，餡料幹。（中新經緯）"
+    },
+    {
+      "id": "5114153",
+      "time": "2026-09-26 08:50:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於美國東部時間週六中午12點（北京時間週日0點）觀看田納西州對陣德克薩斯州的橄欖球比賽。"
+    },
+    {
+      "id": "5114152",
+      "time": "2026-09-26 08:46:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【10只低估值績優潛力次新股出爐】上市公司股價過高之後，估值往往會偏離行業的整體水平，爆炒後存在迴歸理性的可能性，次新股中，依然有一些績優標的值得關注。據統計，今年內上市的次新股中（8月份以前上市），最新市盈率（正值）低於所屬行業市盈率，且機構一致預測2026年、2027年淨利潤增幅均超過15%的次新股有10只，主要分佈於電子、醫藥生物、基礎化工等行業。按機構一致預測2026年淨利潤增幅排序，居前的有長鑫科技、林平發展、覓睿科技。長鑫科技獲機構一致預測2026年淨利潤增幅有望高達85倍。公司是我國規模最大、技術最先進、佈局最全的DRAM研發設計製造一體化企業，最新市盈率低於47倍，所屬電子行業市盈率超過62倍。林平發展獲機構一致預測2026年淨利潤增幅有望超過45%，公司最新市盈率低於15倍，所屬行業市盈率超過34倍。公司主要從事包裝用瓦楞紙、箱板紙產品的研發、生產和銷售。華金證券表示，伴隨著“以紙代塑”需求的持續釋放，瓦楞紙和箱板紙行業具備良好發展前景。依託良好的區位優勢，公司已成為我國從事瓦楞紙和箱板紙迴圈經濟生產的代表性供應商。從市場表現來看，長鑫科技上市以來累計漲幅低於15%，龍辰科技、銳翔智慧上市以來累計跌幅均超過45%。"
+    },
+    {
+      "id": "5114151",
+      "time": "2026-09-26 08:43:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤白銀跌破58美元/盎司，日內跌幅0.4%。"
+    },
+    {
+      "id": "5114150",
+      "time": "2026-09-26 08:42:25",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "【玻利維亞取消銀行美元賣出匯率限制】玻利維亞央行官網資訊顯示，該國央行出臺新外匯規定，取消金融機構美元賣出匯率上限，這是邁向更靈活貨幣市場的又一步。 新規廢除原有限制：銀行美元賣出價最多隻能比官方匯率高0.10玻利維亞諾。 央行同時調整官方匯率的計算方式。銀行與央行之間的外匯交易將納入匯率計算口徑。檔案稱，這項新規定旨在“進一步提升外匯市場靈活性”。"
+    },
+    {
+      "id": "5114149",
+      "time": "2026-09-26 08:38:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大鉀肥公司（Canpotex）將向溫哥華港碼頭投資5億加元。"
+    },
+    {
+      "id": "5114148",
+      "time": "2026-09-26 08:38:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "哥倫比亞國家石油公司（ECOPETROL）執行長：將尋求與美國建立合作聯盟，以躋身營商環境有利國家之列。"
+    },
+    {
+      "id": "5114146",
+      "time": "2026-09-26 08:38:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "據申報檔案顯示，伯克希爾哈撒韋在9月23日至25日期間收購了約170萬股萊納公司A類股票，以及20675股B類股票。"
+    },
+    {
+      "id": "5114145",
+      "time": "2026-09-26 08:37:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【月底前華西至黃淮一帶仍多降雨 江南華南多地有持續性高溫】今天（9月26日）至月底，華西到黃淮一帶仍多降雨，四川、陝西、河南等地部分地區有大到暴雨，需警惕持續降雨可能引發的滑坡、泥石流等次生災害。同時，江南、華南將持續悶熱天氣，浙江、福建等地部分地區還有持續性高溫，公眾需及時補水降溫。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0db23-5dff-7118-86a4-a4bbdc3a228e",
+      "time": "2026-09-26 08:35:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【WSJ: Trump rejected Iran's seven-day ceasefire offer; told aides he expects to resume strikes after midterms】The Wall Street Journal reports President Trump rejected a seven-day ceasefire proposal from Iran and told aides he expects to resume air strikes after the U.S. midterm elections. Iran offered to reopen the Strait of Hormuz and resume nuclear talks if the U.S. lifted its blockade of Iranian ports; officials say Trump is privately skeptical Iran would comply. U.S. officials say the scale of any strike remains undecided and that Trump is reluctant to restart large-scale operations partly to conserve dwindling munitions for other contingencies. Washington and Tehran continue mediated talks, including on nuclear issues, but U.S.-led efforts to keep tankers transiting despite Iranian threats have reduced the urgency for a deal. U.S. officials have told Iran and mediators Trump does not intend to lift the maritime embargo and expect economic pressure will eventually secure an agreement favorable to Washington and Gulf Arab states."
+    },
+    {
+      "id": "5114144",
+      "time": "2026-09-26 08:34:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞國家石油公司執行長表示：公司將推進常規與非常規油氣專案，實施水力壓裂，並繼續開展海上勘探作業。"
+    },
+    {
+      "id": "5114143",
+      "time": "2026-09-26 08:32:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“全球最快高鐵”CR450動車組模擬駕駛艙亮相柏林】被稱為“全球最快高鐵”的CR450復興號動車組模擬駕駛艙，日前亮相正在德國柏林舉辦的第15屆國際軌道交通技術展覽會，吸引了媒體和觀眾的目光。除CR450外，“人工智慧+鐵路裝備”展區也展示了中國鐵路智慧裝備研製的最新進展。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0db1f-642e-7118-86a4-9d7c57bb9ff2",
+      "time": "2026-09-26 08:31:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Wall Street Journal cites US officials saying President Trump rejected Iran's seven-day ceasefire proposal and told aides he expects to resume bombing Iran after the Nov. midterm elections."
+    },
+    {
+      "id": "5114142",
+      "time": "2026-09-26 08:30:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公安網安部門偵破一起侵犯公民個人資訊案 抓獲涉案人員28名】公民個人資訊事關群眾隱私與財產安全，公安網安部門持續開展“淨網—2026”專項行動，加強公民個人資訊保安保護。近期，山東棗莊公安網安部門偵破一起侵犯公民個人資訊案，一舉打掉犯罪團伙2個，抓獲涉案人員28名，查獲非法獲取、倒賣的公民個人資訊4000餘萬條，查明涉案金額600餘萬元。（央視新聞）"
+    },
+    {
+      "id": "5114141",
+      "time": "2026-09-26 08:30:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普拒絕伊朗“七天停火提議”，預計中期選舉後重啟轟炸行動】美國官員稱，特朗普總統拒絕了伊朗提出的七天停火提議，並告知幕僚，他計劃在11月中期選舉結束後恢復對伊朗的轟炸。 德黑蘭方面的提議內容為：重新開放霍爾木茲海峽、重啟核談判，以此換取美國解除對伊朗港口的封鎖。該封鎖已對伊朗經濟造成嚴重打擊。特朗普公開表示，德黑蘭方面正迫切希望在中期選舉後達成一份拆除其核計劃的協議。 但官員透露，私下裡特朗普對伊朗能否滿足他的要求持懷疑態度，並對下屬表示，重啟轟炸行動可能性很大。 特朗普當前的立場表明，這場處於戰爭與和平之間臨界狀態的衝突，很可能再度滑向敵對態勢。目前尚不清楚特朗普考慮的打擊規模。官員表示，他不願重啟大規模作戰行動，部分原因是美國需要儲備日漸消耗的彈藥，以備其他突發局勢。"
+    },
+    {
+      "id": "5114139",
+      "time": "2026-09-26 08:27:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普拒絕伊朗停火提議，預計中期選舉後重啟轟炸。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609263884370149",
+      "time": "2026-09-26 08:26:13",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【10月加息穩了？“鷹風”席捲美聯儲：三位官員同日警告通脹風險】自美聯儲近日實施三年來首次加息以來，多位官員呼籲進一步收緊政策。僅週五當天，就有三位聯儲官員釋放鷹派訊號，就通脹風險發出警告。克利夫蘭聯儲主席貝絲·哈馬克週五表示，她擔心持續高企的通脹可能會讓美國公眾逐漸將高物價視作常態，而美聯儲絕不能讓這種情況發生。"
+    },
+    {
+      "id": "mkt:01a0db17-eea8-7118-86a4-91191bf96e95",
+      "time": "2026-09-26 08:22:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI confirms models accessed public U.S. government websites】OpenAI confirmed its AI models accessed public information on U.S. government websites, including the SEC, its investor-education site, and the U.S. Census Bureau, during training and technical evaluations. The company said earlier on Friday it had notified \"dozens\" of institutions, including government agencies and universities, that their sites may have been accessed during those evaluations."
+    },
+    {
+      "id": "5114138",
+      "time": "2026-09-26 08:22:10",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "委內瑞拉反對派代表團：委內瑞拉各政黨將推進最高法院改革。"
+    },
+    {
+      "id": "5114137",
+      "time": "2026-09-26 08:21:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：陸軍國民警衛隊昨天完成了2026財年招募37155名警衛隊員的目標。這標誌著陸軍國民警衛隊連續第三年實現這一成就，也是自2013財年以來首次達到這種持續招募成功的水平。"
+    },
+    {
+      "id": "5114136",
+      "time": "2026-09-26 08:20:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龐巴迪CEO：正就加拿大本土生產薩博監視飛機進入深度談判】龐巴迪公司正與瑞典薩博公司深入洽談，計劃在加拿大生產後者的“全球眼”監視飛機。這家總部位於魁北克的私人飛機製造商，正準備大幅擴張其快速發展的國防業務。 “‘全球眼’是我們當下的優先專案。”龐巴迪執行長埃裡克·馬特爾週五表示。他補充，團隊上週再度赴瑞典。馬特爾稱，龐巴迪“致力於在加拿大完成‘全球眼’的製造與總裝工作”。對於兩家聯合研發薩博“鷹獅”戰鬥機一事，馬特爾態度則冷淡許多。渥太華正在評估是否縮減88架美製F-35戰鬥機採購量，轉而採購鷹獅戰機。"
+    },
+    {
+      "id": "5114135",
+      "time": "2026-09-26 08:16:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破98美元，日內跌超1.7%。"
+    },
+    {
+      "id": "mkt:01a0db12-6f45-7118-86a4-8f6b5a182c51",
+      "time": "2026-09-26 08:16:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI's head of Codex said the service is back online and usage limits for Codex and ChatGPT will be reset for all paid users, apologizing for the brief outage."
+    },
+    {
+      "id": "5114134",
+      "time": "2026-09-26 08:16:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "龐巴迪執行長接受採訪時表示，該公司正就加拿大薩布監視飛機制造專案進行深度談判。"
+    },
+    {
+      "id": "5114133",
+      "time": "2026-09-26 08:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI Codex產品負責人：是的，我們重新上線了，將為所有付費使用者重置Codex和ChatGPT的使用限制。抱歉短暫中斷。"
+    },
+    {
+      "id": "5114132",
+      "time": "2026-09-26 08:13:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川宜賓市高縣發生4.4級地震，震源深度5千米】中國地震臺網正式測定：09月26日07時57分在四川宜賓市高縣（北緯28.51度，東經104.66度）發生4.4級地震，震源深度5千米。"
+    },
+    {
+      "id": "mkt:01a0db0e-ee8a-7118-86a4-84c2017cd7f8",
+      "time": "2026-09-26 08:13:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Washington Post reports the White House barred a CNN reporter from boarding Air Force One on an official trip."
+    },
+    {
+      "id": "mkt:01a0db0e-abca-7118-86a4-7e1a1d785ce1",
+      "time": "2026-09-26 08:12:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Europe's big four leagues call for \"fundamental\" FIFA governance reform】Premier League, Bundesliga, LaLiga and Serie A said on the 25th in a joint statement that FIFA president Gianni Infantino has not prevented and has actively advanced what they called exploitative proposals, and they called for \"fundamental\" governance reform at FIFA. The leagues urged a more transparent, objective, balanced and inclusive governance framework. They noted FIFA's plan to create a \"FIFA Forward company\" — which would have introduced private investors into FIFA's commercial rights — was withdrawn after broad controversy. The leagues said stakeholders forced the withdrawal but that the conditions enabling the plan remain, calling the episode one of the biggest abuses of power in FIFA's history."
+    },
+    {
+      "id": "mkt:01a0db0e-0031-7118-86a4-71d288231e3a",
+      "time": "2026-09-26 08:12:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Pakistan premier urges Strait of Hormuz and Bab al‑Mandeb remain open】At the UN General Debate on Sept. 25, Pakistan Prime Minister Shehbaz Sharif urged the Strait of Hormuz and Bab al‑Mandeb remain open, calling them lifelines for the global economy and saying they must not become arenas of confrontation. He said Pakistan helped broker US‑Iran talks in Islamabad after February’s US‑Israel‑Iran clashes that spread across the Middle East, producing an Islamabad meeting and an Islamabad Memorandum of Understanding, and expressed regret at recent renewed regional escalation. He said Pakistan chooses dialogue over confrontation."
+    },
+    {
+      "id": "mkt:01a0db0c-f3b0-7118-86a4-691a46f18078",
+      "time": "2026-09-26 08:10:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude-4.4 earthquake at 07:57 on Sep 26 in Gaoxian County, Yibin, Sichuan (28.51N, 104.66E); focal depth 5 km."
+    },
+    {
+      "id": "mkt:01a0db0c-1b72-7118-86a4-63279a1e8c24",
+      "time": "2026-09-26 08:09:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Han Zheng meets Cyprus President Christodoulides】On Sept. 25, 2026, Chinese Vice President Han Zheng met Cyprus President Nikos Christodoulides in New York on the sidelines of the UN General Assembly. Han said China-Cyprus relations have remained stable under the strategic leadership of President Xi Jinping and President Christodoulides, with advances in pragmatic cooperation and people-to-people exchanges. He noted 2026 marks the 55th anniversary of diplomatic ties and the fifth anniversary of their strategic partnership, and said China is willing to consolidate strategic mutual trust, deepen mutually beneficial cooperation and strengthen multilateral coordination to build a more productive strategic partnership."
+    },
     {
       "id": "mkt:01a0db0b-6fa6-7118-86a4-5d7bddb01606",
       "time": "2026-09-26 08:09:14",

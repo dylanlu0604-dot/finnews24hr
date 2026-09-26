@@ -1,7 +1,435 @@
 {
-  "updated": "2026-09-26 08:10:01",
-  "count": 12052,
+  "updated": "2026-09-26 09:03:11",
+  "count": 12056,
   "items": [
+    {
+      "id": "5114165",
+      "time": "2026-09-26 09:01:45",
+      "tags": [
+        "行業",
+        "公司",
+        "其他"
+      ],
+      "text": "【飛天茅臺八連陽茅臺系普漲 國窖1573、洋河夢之藍M6+重跌】新浪財經“酒價內參”過去24小時收集的資料顯示，9月26日中國白酒業12大單品的終端零售均價六漲五跌一平，上漲品種數量和累計漲幅均小幅勝出。贏家方面，飛天茅臺上漲1元至1811元，八連陽持續抬升，連續第七天挺立1800元大關之上，再創近一個月新高；精品茅臺上漲4元至2470元，三連陽亦重新整理30天最高紀錄；茅臺1935上漲2元至685元，平上榜“酒價內參”10天來最高價；五糧液1618上漲1元至830元，持續高位小幅震盪；青花汾20上漲5元至403元，強勢反彈重新站上400元整數關口；水晶劍南春上漲1元至412元，延續近期小步上行走勢，再度重新整理30天新高。下跌方面，五糧液普五八代下跌2元至800元，三連陰回落至整百關口，後市走向值得高度關注；國窖1573大跌4元至876元，連續調整後價格已跌破趨勢線；洋河夢之藍M6+下跌3元至608元，連續兩日回落，前期強勢反彈引發持續回撥；習酒君品下跌1元至637元，延續近期震盪中小幅走弱行情；青花郎下跌3元至677元，繼續在低谷區間震盪。持平方面，古井貢古20終端零售均價維持在516元，此前連續走低後步入低位盤整。\n\n今日12大單品的終端零售總價結束連續兩日回落，整體價盤重心微幅回升，但仍處於近期震盪區間。如果12大單品各取一瓶整體打包售賣，今日總售價為10725元，較昨日僅上漲1元，未來走向難言明確。"
+    },
+    {
+      "id": "mkt:01a0db3b-28ed-7118-86a4-d67e937db4c0",
+      "time": "2026-09-26 09:01:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yangtze River Delta railways to add 106 trains on Sept 26; expects 2.9 mln passengers】China Railway Shanghai Group said Sept 26, the second day of the Mid‑Autumn short holiday, will see sustained high passenger flows on Yangtze River Delta railways with an expected 2.9 mln passengers. The operator plans 106 additional passenger trains, will run 291 EMUs in coupled formation and attach 90 conventional cars to match demand. On Sept 25 the group carried 4.13 mln passengers."
+    },
+    {
+      "id": "5114164",
+      "time": "2026-09-26 09:01:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英偉達系列GPU租賃價格多數下跌】截止9月26日，B200租賃價格最新報8.04美元/小時，日漲0.37%，周漲10.74%，月漲29.26%；Ｈ200租賃價格最新報5.08美元/小時，日跌1.55%，周跌9.29%，月漲19.81%；H100租賃價格最新報2.85美元/小時，日跌2.40%，周跌5.63%，月漲6.34%；A100租賃價格最新報1.02美元/小時，較前日持平，周漲2.00%，月跌3.77%；RTX5090租賃價格最新報0.66美元/小時，日跌1.49%，周跌1.49%，月漲22.22%。"
+    },
+    {
+      "id": "5114163",
+      "time": "2026-09-26 09:00:31",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "沙特領導的聯軍表示，其攔截了胡塞武裝向利雅得發射的兩架無人機。"
+    },
+    {
+      "id": "mkt:01a0db3a-61d7-7118-86a4-cabd17c86399",
+      "time": "2026-09-26 09:00:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi-led coalition says it is monitoring missile and drone attacks targeting Saudi Arabia."
+    },
+    {
+      "id": "5114162",
+      "time": "2026-09-26 09:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱正在監控針對沙特發射的導彈和無人機。"
+    },
+    {
+      "id": "mkt:01a0db3a-12cf-7118-86a4-c3ca219eca35",
+      "time": "2026-09-26 09:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense says danger in the Khamis Mushait region has passed."
+    },
+    {
+      "id": "5114161",
+      "time": "2026-09-26 08:59:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，海米斯穆謝特的危險已經解除。"
+    },
+    {
+      "id": "5114160",
+      "time": "2026-09-26 08:58:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長三角鐵路26日計劃增開列車106列 預計傳送旅客290萬人次】記者從中國鐵路上海局集團有限公司（以下簡稱上鐵集團）獲悉，9月26日是中秋小長假第二天，長三角鐵路客流持續高位執行，預計當日傳送旅客290萬人次。鐵路部門計劃增開106列旅客列車，組織291列動車組列車重聯執行，加掛90輛普速車輛，精準匹配客流需求，精心服務旅客出行。昨天（9月25日），上鐵集團傳送旅客413萬人次。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0db38-0770-7118-86a4-b93e46aff924",
+      "time": "2026-09-26 08:57:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【SK Hynix unit Solidigm reportedly eyeing US IPO as early as 2027】Sources say SK Hynix unit Solidigm is considering a US IPO as early as next year (2027) and has held talks with potential bank advisers on listing its NAND storage business. The company, part of the world’s No.2 memory chip manufacturer, could be valued at up to $100 billion on completion, according to some sources. Discussions are ongoing; timing, valuation and other details remain subject to change."
+    },
+    {
+      "id": "mkt:01a0db37-7a18-7118-86a4-b578e3b3282f",
+      "time": "2026-09-26 08:57:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "【Apple hit with over $5.7 bln verdict for haptic patent infringement】A U.S. federal jury in San Diego found on Friday that Apple (AAPL.O) infringed two Taction Technology patents covering vibration/haptic technology used in iPhone and Apple Watch, awarding Taction more than $5.7 billion. The jury judged the infringement was not willful. Apple said it strongly disagrees with the verdict and amount, will appeal, and maintains its Taptic Engine differs fundamentally from Taction’s technology."
+    },
+    {
+      "id": "mkt:01a0db36-81b4-7118-86a4-af0b837c78c9",
+      "time": "2026-09-26 08:56:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert warning of potential threats to Khamis Mushait and Abha."
+    },
+    {
+      "id": "5114159",
+      "time": "2026-09-26 08:55:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門釋出警報，稱艾卜哈地區存在潛在危險。"
+    },
+    {
+      "id": "5114158",
+      "time": "2026-09-26 08:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯總統表示俄方樂見中美元首會晤】當地時間25日，俄羅斯總統普京在回答媒體提問時表示，俄方樂見中美元首會晤。俄羅斯總統普京：我們歡迎美國與中國之間的對話，因為這是世界上兩個最大的經濟體。兩國如何以及達成何種協議，將對全球經濟產生影響，也將對我們的經濟產生影響。因此，中美達成的任何具有積極意義的協議，我們都是歡迎的。（央視新聞）"
+    },
+    {
+      "id": "5114157",
+      "time": "2026-09-26 08:54:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國核能初創公司‌Deep Fission：駁斥做空報告中的不實指控。"
+    },
+    {
+      "id": "5114156",
+      "time": "2026-09-26 08:53:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高速光互聯與計算技術北京市重點實驗室落地北京經開區】據“北京亦莊”公眾號，近日，2026北京微電子國際研討會暨IC WORLD大會——光電整合前沿技術專題論壇在北京亦莊舉辦。活動現場，高速光互聯與計算技術北京市重點實驗室揭牌落地，北京亦莊積體電路領域再添市級重點實驗室。此次揭牌的高速光互聯與計算技術北京市重點實驗室由北方積體電路技術創新中心（北京）有限公司、北京海光芯誠半導體科技有限公司、啟明光子（北京）科技有限公司和北京大學聯合共建，已獲得北京市科委、中關村管委會正式授牌。該實驗室將重點圍繞異質整合矽光晶片、片上密集波長分波多工、矽光先進封裝三大核心技術方向，構建“器件—晶片—系統—封裝”全鏈條研發體系。"
+    },
+    {
+      "id": "5114155",
+      "time": "2026-09-26 08:53:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門對海米斯穆謝特地區釋出潛在危險警報。"
+    },
+    {
+      "id": "5114154",
+      "time": "2026-09-26 08:51:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1000元一噸 五仁月餅成回收香餑餑】市場上在售月餅的保質期普遍較短，通常在30天至90天左右。過期的月餅，會去哪兒？首先是銷燬。過期月餅還可以進行飼料化應用。9月23日，河北省某飼料廠工作人員介紹，該飼料廠常年回收臨期、過期庫存食品尾貨，包括餅乾、月餅等，進行飼料化原料用途，並承諾不會二次流入市面銷售。該工作人員稱，用作飼料的月餅，不能出現發黴、異味等變質情況；此外，不同餡料的月餅，回收價格也不一樣。“五仁月餅的回收價格高一些，約1000元/噸，果餡、豆沙等其他口味的月餅價格低一些，約800元/噸。”工作人員稱，五仁月餅裡含有大量瓜子、花生等堅果，營養成分高，餡料幹。（中新經緯）"
+    },
+    {
+      "id": "5114153",
+      "time": "2026-09-26 08:50:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於美國東部時間週六中午12點（北京時間週日0點）觀看田納西州對陣德克薩斯州的橄欖球比賽。"
+    },
+    {
+      "id": "5114152",
+      "time": "2026-09-26 08:46:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【10只低估值績優潛力次新股出爐】上市公司股價過高之後，估值往往會偏離行業的整體水平，爆炒後存在迴歸理性的可能性，次新股中，依然有一些績優標的值得關注。據統計，今年內上市的次新股中（8月份以前上市），最新市盈率（正值）低於所屬行業市盈率，且機構一致預測2026年、2027年淨利潤增幅均超過15%的次新股有10只，主要分佈於電子、醫藥生物、基礎化工等行業。按機構一致預測2026年淨利潤增幅排序，居前的有長鑫科技、林平發展、覓睿科技。長鑫科技獲機構一致預測2026年淨利潤增幅有望高達85倍。公司是我國規模最大、技術最先進、佈局最全的DRAM研發設計製造一體化企業，最新市盈率低於47倍，所屬電子行業市盈率超過62倍。林平發展獲機構一致預測2026年淨利潤增幅有望超過45%，公司最新市盈率低於15倍，所屬行業市盈率超過34倍。公司主要從事包裝用瓦楞紙、箱板紙產品的研發、生產和銷售。華金證券表示，伴隨著“以紙代塑”需求的持續釋放，瓦楞紙和箱板紙行業具備良好發展前景。依託良好的區位優勢，公司已成為我國從事瓦楞紙和箱板紙迴圈經濟生產的代表性供應商。從市場表現來看，長鑫科技上市以來累計漲幅低於15%，龍辰科技、銳翔智慧上市以來累計跌幅均超過45%。"
+    },
+    {
+      "id": "5114151",
+      "time": "2026-09-26 08:43:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤白銀跌破58美元/盎司，日內跌幅0.4%。"
+    },
+    {
+      "id": "5114150",
+      "time": "2026-09-26 08:42:25",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "【玻利維亞取消銀行美元賣出匯率限制】玻利維亞央行官網資訊顯示，該國央行出臺新外匯規定，取消金融機構美元賣出匯率上限，這是邁向更靈活貨幣市場的又一步。 新規廢除原有限制：銀行美元賣出價最多隻能比官方匯率高0.10玻利維亞諾。 央行同時調整官方匯率的計算方式。銀行與央行之間的外匯交易將納入匯率計算口徑。檔案稱，這項新規定旨在“進一步提升外匯市場靈活性”。"
+    },
+    {
+      "id": "5114149",
+      "time": "2026-09-26 08:38:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大鉀肥公司（Canpotex）將向溫哥華港碼頭投資5億加元。"
+    },
+    {
+      "id": "5114148",
+      "time": "2026-09-26 08:38:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "哥倫比亞國家石油公司（ECOPETROL）執行長：將尋求與美國建立合作聯盟，以躋身營商環境有利國家之列。"
+    },
+    {
+      "id": "5114146",
+      "time": "2026-09-26 08:38:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "據申報檔案顯示，伯克希爾哈撒韋在9月23日至25日期間收購了約170萬股萊納公司A類股票，以及20675股B類股票。"
+    },
+    {
+      "id": "5114145",
+      "time": "2026-09-26 08:37:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【月底前華西至黃淮一帶仍多降雨 江南華南多地有持續性高溫】今天（9月26日）至月底，華西到黃淮一帶仍多降雨，四川、陝西、河南等地部分地區有大到暴雨，需警惕持續降雨可能引發的滑坡、泥石流等次生災害。同時，江南、華南將持續悶熱天氣，浙江、福建等地部分地區還有持續性高溫，公眾需及時補水降溫。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0db23-5dff-7118-86a4-a4bbdc3a228e",
+      "time": "2026-09-26 08:35:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【WSJ: Trump rejected Iran's seven-day ceasefire offer; told aides he expects to resume strikes after midterms】The Wall Street Journal reports President Trump rejected a seven-day ceasefire proposal from Iran and told aides he expects to resume air strikes after the U.S. midterm elections. Iran offered to reopen the Strait of Hormuz and resume nuclear talks if the U.S. lifted its blockade of Iranian ports; officials say Trump is privately skeptical Iran would comply. U.S. officials say the scale of any strike remains undecided and that Trump is reluctant to restart large-scale operations partly to conserve dwindling munitions for other contingencies. Washington and Tehran continue mediated talks, including on nuclear issues, but U.S.-led efforts to keep tankers transiting despite Iranian threats have reduced the urgency for a deal. U.S. officials have told Iran and mediators Trump does not intend to lift the maritime embargo and expect economic pressure will eventually secure an agreement favorable to Washington and Gulf Arab states."
+    },
+    {
+      "id": "5114144",
+      "time": "2026-09-26 08:34:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞國家石油公司執行長表示：公司將推進常規與非常規油氣專案，實施水力壓裂，並繼續開展海上勘探作業。"
+    },
+    {
+      "id": "5114143",
+      "time": "2026-09-26 08:32:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“全球最快高鐵”CR450動車組模擬駕駛艙亮相柏林】被稱為“全球最快高鐵”的CR450復興號動車組模擬駕駛艙，日前亮相正在德國柏林舉辦的第15屆國際軌道交通技術展覽會，吸引了媒體和觀眾的目光。除CR450外，“人工智慧+鐵路裝備”展區也展示了中國鐵路智慧裝備研製的最新進展。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0db1f-642e-7118-86a4-9d7c57bb9ff2",
+      "time": "2026-09-26 08:31:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Wall Street Journal cites US officials saying President Trump rejected Iran's seven-day ceasefire proposal and told aides he expects to resume bombing Iran after the Nov. midterm elections."
+    },
+    {
+      "id": "5114142",
+      "time": "2026-09-26 08:30:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公安網安部門偵破一起侵犯公民個人資訊案 抓獲涉案人員28名】公民個人資訊事關群眾隱私與財產安全，公安網安部門持續開展“淨網—2026”專項行動，加強公民個人資訊保安保護。近期，山東棗莊公安網安部門偵破一起侵犯公民個人資訊案，一舉打掉犯罪團伙2個，抓獲涉案人員28名，查獲非法獲取、倒賣的公民個人資訊4000餘萬條，查明涉案金額600餘萬元。（央視新聞）"
+    },
+    {
+      "id": "5114141",
+      "time": "2026-09-26 08:30:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普拒絕伊朗“七天停火提議”，預計中期選舉後重啟轟炸行動】美國官員稱，特朗普總統拒絕了伊朗提出的七天停火提議，並告知幕僚，他計劃在11月中期選舉結束後恢復對伊朗的轟炸。 德黑蘭方面的提議內容為：重新開放霍爾木茲海峽、重啟核談判，以此換取美國解除對伊朗港口的封鎖。該封鎖已對伊朗經濟造成嚴重打擊。特朗普公開表示，德黑蘭方面正迫切希望在中期選舉後達成一份拆除其核計劃的協議。 但官員透露，私下裡特朗普對伊朗能否滿足他的要求持懷疑態度，並對下屬表示，重啟轟炸行動可能性很大。 特朗普當前的立場表明，這場處於戰爭與和平之間臨界狀態的衝突，很可能再度滑向敵對態勢。目前尚不清楚特朗普考慮的打擊規模。官員表示，他不願重啟大規模作戰行動，部分原因是美國需要儲備日漸消耗的彈藥，以備其他突發局勢。"
+    },
+    {
+      "id": "5114139",
+      "time": "2026-09-26 08:27:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普拒絕伊朗停火提議，預計中期選舉後重啟轟炸。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609263884370149",
+      "time": "2026-09-26 08:26:13",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【10月加息穩了？“鷹風”席捲美聯儲：三位官員同日警告通脹風險】自美聯儲近日實施三年來首次加息以來，多位官員呼籲進一步收緊政策。僅週五當天，就有三位聯儲官員釋放鷹派訊號，就通脹風險發出警告。克利夫蘭聯儲主席貝絲·哈馬克週五表示，她擔心持續高企的通脹可能會讓美國公眾逐漸將高物價視作常態，而美聯儲絕不能讓這種情況發生。"
+    },
+    {
+      "id": "mkt:01a0db17-eea8-7118-86a4-91191bf96e95",
+      "time": "2026-09-26 08:22:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI confirms models accessed public U.S. government websites】OpenAI confirmed its AI models accessed public information on U.S. government websites, including the SEC, its investor-education site, and the U.S. Census Bureau, during training and technical evaluations. The company said earlier on Friday it had notified \"dozens\" of institutions, including government agencies and universities, that their sites may have been accessed during those evaluations."
+    },
+    {
+      "id": "5114138",
+      "time": "2026-09-26 08:22:10",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "委內瑞拉反對派代表團：委內瑞拉各政黨將推進最高法院改革。"
+    },
+    {
+      "id": "5114137",
+      "time": "2026-09-26 08:21:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：陸軍國民警衛隊昨天完成了2026財年招募37155名警衛隊員的目標。這標誌著陸軍國民警衛隊連續第三年實現這一成就，也是自2013財年以來首次達到這種持續招募成功的水平。"
+    },
+    {
+      "id": "5114136",
+      "time": "2026-09-26 08:20:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龐巴迪CEO：正就加拿大本土生產薩博監視飛機進入深度談判】龐巴迪公司正與瑞典薩博公司深入洽談，計劃在加拿大生產後者的“全球眼”監視飛機。這家總部位於魁北克的私人飛機製造商，正準備大幅擴張其快速發展的國防業務。 “‘全球眼’是我們當下的優先專案。”龐巴迪執行長埃裡克·馬特爾週五表示。他補充，團隊上週再度赴瑞典。馬特爾稱，龐巴迪“致力於在加拿大完成‘全球眼’的製造與總裝工作”。對於兩家聯合研發薩博“鷹獅”戰鬥機一事，馬特爾態度則冷淡許多。渥太華正在評估是否縮減88架美製F-35戰鬥機採購量，轉而採購鷹獅戰機。"
+    },
+    {
+      "id": "5114135",
+      "time": "2026-09-26 08:16:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破98美元，日內跌超1.7%。"
+    },
+    {
+      "id": "mkt:01a0db12-6f45-7118-86a4-8f6b5a182c51",
+      "time": "2026-09-26 08:16:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI's head of Codex said the service is back online and usage limits for Codex and ChatGPT will be reset for all paid users, apologizing for the brief outage."
+    },
+    {
+      "id": "5114134",
+      "time": "2026-09-26 08:16:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "龐巴迪執行長接受採訪時表示，該公司正就加拿大薩布監視飛機制造專案進行深度談判。"
+    },
+    {
+      "id": "5114133",
+      "time": "2026-09-26 08:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI Codex產品負責人：是的，我們重新上線了，將為所有付費使用者重置Codex和ChatGPT的使用限制。抱歉短暫中斷。"
+    },
+    {
+      "id": "5114132",
+      "time": "2026-09-26 08:13:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川宜賓市高縣發生4.4級地震，震源深度5千米】中國地震臺網正式測定：09月26日07時57分在四川宜賓市高縣（北緯28.51度，東經104.66度）發生4.4級地震，震源深度5千米。"
+    },
+    {
+      "id": "mkt:01a0db0e-ee8a-7118-86a4-84c2017cd7f8",
+      "time": "2026-09-26 08:13:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Washington Post reports the White House barred a CNN reporter from boarding Air Force One on an official trip."
+    },
+    {
+      "id": "mkt:01a0db0e-abca-7118-86a4-7e1a1d785ce1",
+      "time": "2026-09-26 08:12:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Europe's big four leagues call for \"fundamental\" FIFA governance reform】Premier League, Bundesliga, LaLiga and Serie A said on the 25th in a joint statement that FIFA president Gianni Infantino has not prevented and has actively advanced what they called exploitative proposals, and they called for \"fundamental\" governance reform at FIFA. The leagues urged a more transparent, objective, balanced and inclusive governance framework. They noted FIFA's plan to create a \"FIFA Forward company\" — which would have introduced private investors into FIFA's commercial rights — was withdrawn after broad controversy. The leagues said stakeholders forced the withdrawal but that the conditions enabling the plan remain, calling the episode one of the biggest abuses of power in FIFA's history."
+    },
+    {
+      "id": "mkt:01a0db0e-0031-7118-86a4-71d288231e3a",
+      "time": "2026-09-26 08:12:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Pakistan premier urges Strait of Hormuz and Bab al‑Mandeb remain open】At the UN General Debate on Sept. 25, Pakistan Prime Minister Shehbaz Sharif urged the Strait of Hormuz and Bab al‑Mandeb remain open, calling them lifelines for the global economy and saying they must not become arenas of confrontation. He said Pakistan helped broker US‑Iran talks in Islamabad after February’s US‑Israel‑Iran clashes that spread across the Middle East, producing an Islamabad meeting and an Islamabad Memorandum of Understanding, and expressed regret at recent renewed regional escalation. He said Pakistan chooses dialogue over confrontation."
+    },
+    {
+      "id": "mkt:01a0db0c-f3b0-7118-86a4-691a46f18078",
+      "time": "2026-09-26 08:10:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude-4.4 earthquake at 07:57 on Sep 26 in Gaoxian County, Yibin, Sichuan (28.51N, 104.66E); focal depth 5 km."
+    },
+    {
+      "id": "mkt:01a0db0c-1b72-7118-86a4-63279a1e8c24",
+      "time": "2026-09-26 08:09:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Han Zheng meets Cyprus President Christodoulides】On Sept. 25, 2026, Chinese Vice President Han Zheng met Cyprus President Nikos Christodoulides in New York on the sidelines of the UN General Assembly. Han said China-Cyprus relations have remained stable under the strategic leadership of President Xi Jinping and President Christodoulides, with advances in pragmatic cooperation and people-to-people exchanges. He noted 2026 marks the 55th anniversary of diplomatic ties and the fifth anniversary of their strategic partnership, and said China is willing to consolidate strategic mutual trust, deepen mutually beneficial cooperation and strengthen multilateral coordination to build a more productive strategic partnership."
+    },
     {
       "id": "mkt:01a0db0b-6fa6-7118-86a4-5d7bddb01606",
       "time": "2026-09-26 08:09:14",
@@ -109406,384 +109834,6 @@
         "公司"
       ],
       "text": "【整治惡意炒作涉企資訊 國家網信辦曝光第二批典型案例】近期，國家網信辦組織開展“清朗·最佳化營商網路環境 整治惡意炒作涉企資訊”專項行動，對惡意詆譭抹黑企業、集納炒作涉企負面資訊、借監督之名牟取非法利益等問題進行集中整治。同時，有針對性治理企業“內卷式”競爭，從嚴處置一批散佈涉企不實資訊、挑動消費群體對立的賬號。專項行動期間，各級網信部門和重點商業網站平臺清理涉企侵權資訊156萬餘條，處置違法違規賬號2.6萬餘個。現將部分典型案例通報如下：\n\n1.“觀瀾FinResearch”等賬號釋出涉企負面不實資訊，牟取非法利益。小紅書賬號“觀瀾FinResearch”、今日頭條賬號“康子”、微博賬號“天天觀C”、搜狐號“天下G查”釋出涉企負面不實資訊。在企業與其溝通刪除不實資訊時，要挾開展商務合作，支付所謂“宣傳費”。涉及的賬號已被依法依約關閉。\n\n2.“趙亦雷”等賬號持續散佈貶損企業資訊，挑動消費群體對立。抖音賬號“趙亦雷”、微信影片號“快快變小胖哥”、小紅書賬號“周章”等賬號運營主體在被有關部門行政處罰後拒不改正，仍舊透過上述賬號釋出攻擊貶損企業產品資訊，蓄意挑動消費群體對立。涉及的賬號已被依法依約關閉。\n\n3.“車市博覽”等賬號釋出虛假不實資訊，抹黑詆譭企業商譽。今日頭條賬號“車市博覽”、嗶哩嗶哩賬號“1號車盟”、微博賬號“造車局”，頻繁在企業新品上市釋出等節點，捏造散佈企業經營困難、產品質量不佳等虛假資訊，抹黑企業形象聲譽。涉及的賬號已被依法依約採取處置措施。\n\n4.“菜鄉之劍”等賬號惡意集納企業負面資訊，翻炒企業舊聞舊事。新浪微博賬號“菜鄉之劍”、今日頭條賬號“糊塗大師”、微信影片號“探索第一現場”，惡意集納涉企負面資訊，頻繁炒作企業舊聞舊事，持續唱衰企業發展前景。涉及的賬號已被依法依約採取處置措施。（央視新聞）"
-    },
-    {
-      "id": "5102960",
-      "time": "2026-09-19 09:01:17",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲加息落地後金價反彈 中長期配置價值仍具支撐】近期，美聯儲加息靴子落地，國際金價在前期震盪調整後迎來反彈。9月17日，現貨黃金（倫敦金現）價格上漲1.82%；9月18日，黃金延續上漲趨勢，截至記者發稿，現貨黃金價格上漲1.04%，報4383.35美元/盎司。在利率預期與配置需求交織之下，黃金後續走勢成為市場關注焦點。分析人士認為，美聯儲加息本身的衝擊有限，黃金後續走勢取決於美國經濟過熱敘事與債務不可持續敘事的相對強弱。中長期維度，美元信用弱化推動金價中樞上行的核心邏輯並未改變。（中證金牛座）"
-    },
-    {
-      "id": "5102959",
-      "time": "2026-09-19 08:58:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱長子將償還俄羅斯寡頭資助的婚禮派對費用，民主黨議員就此發起調查】美國總統唐納德・特朗普當地時間週五表示，其子小唐納德・特朗普告訴他，將會償還一名俄羅斯寡頭。這位寡頭出資，資助了小特朗普5月在巴哈馬舉辦的婚禮慶祝活動。美國國會民主黨議員本週啟動調查，有報道稱，俄羅斯富商、國際拳擊協會主席烏馬爾・克雷姆列夫為這場婚禮慶典支付了數十萬美元。特朗普週五對記者表示，當他向兒子問及相關報道時，兒子答覆：“‘爸爸，我會把錢還回去。’這事已經有一段時間了。所以我聽說他正在安排還款。” 一名知情人士證實，小特朗普計劃向克雷姆列夫償還這筆款項。"
-    },
-    {
-      "id": "5102958",
-      "time": "2026-09-19 08:57:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【小鵬G9L正式上市，23.18萬元起】近日，小鵬G9L在中國市場正式上市，官方限時售價23.18萬元起。新車定位為黃金大五座科技旗艦，擁有純電、超級增程兩種動力系統，共6個版本。其中，純電702 兩驅 Max版 23.18萬元、660 四驅 Ultra SE版 24.98萬元、660 四驅 Ultra版 27.98萬元、755四驅 Ultra 旗艦版 30.98萬元；超級增程1602 四驅 Ultra SE版 24.98萬元、1602 四驅 Ultra 旗艦版 29.98萬元。（新浪科技）"
-    },
-    {
-      "id": "5102957",
-      "time": "2026-09-19 08:56:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【楚江新材：金剛石複合熱沉材料相關業務目前處於研發階段】 楚江新材(002171)9月19日在互動平臺表示，裝置方面，公司自主研發的壓力溶滲爐、壓力浸漬爐、真空擴散焊爐、真空熱壓爐、滲矽爐等特種熱工裝備，已廣泛應用於金剛石散熱領域；材料方面，公司金剛石複合熱沉材料相關業務目前處於研發階段。"
-    },
-    {
-      "id": "5102956",
-      "time": "2026-09-19 08:56:01",
-      "tags": [
-        "市場",
-        "焦點",
-        "原創"
-      ],
-      "text": "【飛天茅臺、洋河夢之藍M6+領漲 青花汾20、青花郎、古井貢古20大幅走低】新浪財經“酒價內參”過去24小時收集的資料顯示，9月19日中國白酒業12大單品的終端零售均價三漲八跌一平，下跌品種的數量明顯佔優，累計跌幅也顯著超出。贏家方面，飛天茅臺上漲2元至1798元，價盤再度逼近1800元關口；五糧液1618上漲2元至831元，結束平盤後小幅上漲；洋河夢之藍M6+上漲5元至613元，二連陽結束振盪走勢。下跌方面，茅臺1935下跌2元至682元，連續兩日平盤後小幅回落；五糧液普五八代下跌4元至798元，800元整數關口再度失守；青花汾20大幅下跌6元至387元，四連陰價格中樞持續下移，隱隱有破位風險；國窖1573小跌1元至876元，二連陽暫告收尾；習酒君品下跌2元至634元，二連漲後迎來小幅回撥；青花郎下跌6元至672元，連續四日下探，創下近30天新低；古井貢古20大跌7元至517元，三連陰賣壓沉重，亦跌至近一個月來最低點；水晶劍南春下跌2元至405元，窄幅震盪後持續走低。持平方面，精品茅臺終端零售均價維持2465元，處於近一個月的高位區間。\n\n今日12大單品的終端零售總價繼續回落，上漲品種僅有三款，輸家數量和跌幅均佔據明顯優勢，整體價盤重心進一步下移。如果12大單品各取一瓶整體打包售賣，今日總售價為10699元，跌破10700元整數關口，較昨日大幅下跌21元，創下3天以來新低。"
-    },
-    {
-      "id": "5102955",
-      "time": "2026-09-19 08:54:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【收緊各類簽證，嚴控移民人數，澳大利亞宣佈禁止留學生家屬陪讀】據澳大利亞廣播公司17日報道，澳大利亞內政部長託尼·伯克當天在澳國家新聞俱樂部發表講話，宣佈政府對移民制度進行全面改革。他公佈了一系列措施，包括驅逐非法滯留的非公民，基本禁止留學生家庭成員的簽證申請，收緊臨時移民簽證轉換規定。這些措施旨在2027-2028財年將澳大利亞淨海外移民人數從截至2025年6月的30.6萬人減至22.5萬人。 （環球網）"
-    },
-    {
-      "id": "5102954",
-      "time": "2026-09-19 08:52:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川：到2030年，鋰礦年開採量達350萬噸以上】記者從四川省人民政府網站獲悉，《四川省自然資源保護利用“十五五”規劃》於近日印發，明確未來五年四川自然資源保護利用目標任務：到2030年，耕地保有量保持在7542.57萬畝以上，永久基本農田保護面積保持在6306.88萬畝以上，生態保護紅線面積保持在14.85萬平方千米以上。 礦產勘查開發方面，四川將紮實推動新一輪找礦突破戰略行動，到2030年，新發現大中型戰略性礦產資源礦產地10處，釩鈦磁鐵礦年開採量達5000萬噸以上，鋰礦年開採量達350萬噸以上。（四川日報）"
-    },
-    {
-      "id": "5102953",
-      "time": "2026-09-19 08:51:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四川省與中國兵器工業集團、中國融通集團、新興際華集團簽署戰略合作框架協議】9月18日，四川省人民政府與中國兵器工業集團、中國融通集團、新興際華集團在成都簽署戰略合作框架協議。省委書記、省人大常委會主任王曉暉，省委副書記、省長施小琳，會見中國兵器工業集團董事長周治平、中國融通集團董事長李文清、新興際華集團董事長周群，並共同見證協議簽署。"
-    },
-    {
-      "id": "5102952",
-      "time": "2026-09-19 08:48:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "盧森堡機場：因偵測到無人航空系統而臨時暫停的盧森堡機場航班運營現已恢復。"
-    },
-    {
-      "id": "5102951",
-      "time": "2026-09-19 08:44:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全球首次！中國團隊牽頭，數十年的科學猜想有了關鍵證據】記者18日從清華大學獲悉，清華大學天文系主任李菂教授團隊牽頭的國際合作研究，依託“中國天眼”（FAST）與美國卡爾·央斯基甚大陣列（JVLA）聯合觀測，在仙女座星系識別出118箇中性氫超泡，透過直接觀測定量證明，星團持續超新星爆發足以維持星系尺度星際氣體湍流，這是全球首次為這項延續數十年的科學猜想提供關鍵實證。相關研究成果線上發表在最新一期的《自然·天文》上。（科技日報）"
-    },
-    {
-      "id": "5102950",
-      "time": "2026-09-19 08:44:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國：剛果（金）東部衝突加劇，超7萬人流離失所】當地時間9月18日，聯合國人道主義事務協調廳通報，剛果（金）北基伍、南基伍兩省武裝衝突持續升級，引發民眾大規模流離失所，當地民生與社群承壓持續加重。"
-    },
-    {
-      "id": "mkt:01a0b71e-b616-7118-860d-49a45161d4eb",
-      "time": "2026-09-19 08:43:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【Shaanxi industrial value added of enterprises above designated size up 4.6% YoY in Jan–Aug】Shaanxi statistics bureau said industrial value added of enterprises above designated size rose 4.6% YoY in Jan–Aug, accelerating 0.5ppt versus Jan–Jul. By category, mining value added climbed 7.7% YoY, manufacturing 1.5% and electricity/heat/gas/water supply 2.5%. Key sectors: coal mining and washing value added +9.0% YoY; oil and natural gas extraction +9.7%. Output: raw coal production +3.8% YoY; natural gas production +7.3%."
-    },
-    {
-      "id": "5102949",
-      "time": "2026-09-19 08:40:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "胡塞武裝向沙烏地阿拉伯利雅得發射彈道導彈。"
-    },
-    {
-      "id": "5102948",
-      "time": "2026-09-19 08:39:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國聯邦上訴法院裁定特朗普政府第三國遣返移民政策違法】美國一家聯邦上訴法院於當地時間週五裁定，特朗普政府將移民遣送至第三國的政策屬於非法。這項裁決可能叫停一個專案，該專案已將數千人遣送到並非其原籍的國家。 美國第一巡迴上訴法院的三名法官組成合議庭，一致支援下級法院法官今年2月作出的判決：國土安全部的這項政策侵犯了正當程式權利，沒有向移民提供充分告知，也沒有給予他們提出基於恐懼的訴求、對被遣往第三國的決定提出抗辯的機會。 這份上訴法院裁決對特朗普政府而言是一次重大挫折。政府一直試圖把第三國遣返制度打造為特朗普大規模驅逐移民行動的核心環節。公開記錄顯示，自特朗普去年上任以來，國土安全部已將超過25000名移民遣送至第三國，目的地大多位於拉丁美洲與非洲。"
-    },
-    {
-      "id": "5102947",
-      "time": "2026-09-19 08:38:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陝西前8月規模以上工業增加值同比增長4.6%】陝西省統計局釋出前8月全省經濟執行情況：工業生產穩步回升，消費需求持續釋放，經濟執行呈現穩中向好發展態勢。 省統計局相關人員表示，前8月，規模以上工業增加值同比增長4.6%，增速較前7月加快0.5個百分點。工業生產穩步回升，產品產量穩定增長。 從三大門類看，採礦業增加值同比增長7.7%，製造業增加值同比增長1.5%，電力、熱力、燃氣及水的生產供應業增加值同比增長2.5%。重點行業發展較好，煤炭開採和洗選業增加值同比增長9.0%，石油和天然氣開採業增加值同比增長9.7%。產品產量穩定增長，原煤產量同比增長3.8%，天然氣產量同比增長7.3%。 （陝西釋出）"
-    },
-    {
-      "id": "5102946",
-      "time": "2026-09-19 08:35:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州市召開全市服務業大會】會議強調，要錨定現代服務業出新出彩目標，堅持工商並舉、兩業融合，加快打造具有全球影響力的服務經濟中心城市。要突出功能躍升、品質提升，圍繞國家賦予廣州的核心功能，用好廣交會平臺資源，以廣州國際商業港建設為牽引，加快商貿、會展等行業創新發展，推動資訊軟體、航空航運、現代金融等生產性服務業向專業化和價值鏈高階延伸，聚焦“一老一小”“衣食住行”推動生活性服務業高品質多樣化便利化發展。要突出業態融合、場景創新，圍繞生產製造共性場景和企業需求，完善科技成果轉化、供應鏈管理等服務配套，推動工業設計、商務服務等深度融入傳統制造產業，增創兩業融合發展新優勢。要突出數智賦能、創新突破，做實亞太人工智慧賦能中小企業發展合作中心，推進垂類行業模型開發應用，加大對資料、算力、晶片、能源等基礎領域支援力度，積極搶佔智慧經濟新高地。要突出流量驅動、平臺聚能，加強策劃式招商、場景招商，支援平臺總部、龍頭企業、鏈主企業做大做強，打造聚鏈成群的企業主體新矩陣，深化服務標準體系建設，塑造更多全國全球行業標杆企業和品牌。要突出科學規劃、合理佈局，因地制宜打造中央商務核心區、樞紐經濟集聚區、科創服務引領區、品質消費活力區，建設集聚高效的創新發展新空間。要突出深化改革、擴大開放，積極融入全國統一大市場建設，深入實施“最佳化營商環境30條”，深化要素市場化配置改革，推進服務業擴大開放綜合試點，營造近悅遠來的企業服務新生態。（廣州日報）"
-    },
-    {
-      "id": "5102945",
-      "time": "2026-09-19 08:31:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武漢腦機介面兩大科創平臺揭牌】據湖北日報，9月18日，武漢市腦機介面概念驗證中心、武漢市未來產業技術創新場景實驗室在華中科技大學同濟醫學院附屬同濟醫院正式揭牌。概念驗證中心主要承擔動物實驗、研究者發起研究、多中心隨機雙盲GCP試驗等技術驗證工作，築牢腦機介面技術安全與應用實效基礎。未來產業技術創新場景實驗室以臨床應用為核心牽引，推動腦機介面技術向娛樂、教育、高危行業等多領域拓展，構建基礎研究、技術轉化、產業落地的完整閉環。"
-    },
-    {
-      "id": "5102944",
-      "time": "2026-09-19 08:31:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新能源車消費者研究報告：續航真實性是最大槽點】近日，尼爾森IQ釋出《2026年全球新能源車消費者研究報告》。這份覆蓋全球上萬新能源汽車使用者及潛在客戶的調研揭開了一個全新的行業現象：藏在整車底盤的動力電池，正從幕後走向臺前，成為消費者選車購車時的關鍵決策因素。對車企而言，電池不僅決定著整車的安全與體驗，更直接左右銷量的轉化。 報告顯示，不同地區的消費者，買車時的側重點大相徑庭。中國使用者更願意把汽車當成家庭專屬“移動第三空間”，看重車內空間，優先考慮全家出行；北歐使用者買車，會為攜帶寵物出遊、環保生活理念買單；東南亞消費者，把新能源車看作收入上漲、實現階層提升的標誌；英國使用者更加精打細算，看重用車成本；日韓的購車需求，常常和搬家、換新工作的通勤變化緊緊繫結。（新京報）"
-    },
-    {
-      "id": "5102943",
-      "time": "2026-09-19 08:29:43",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【深圳梅州達成多項產業合作意向】9月17日，深圳市人大常委會以行業和產業聯絡點為紐帶，組織各級人大代表和企業代表赴梅州調研，開展產業資源對接，現場促成茶產業、糧食產業及人工智慧賦能玩具產業等3個產業專案正式簽約，並在低空經濟、國防研學等領域達成多項初步合作意向，探索形成“基地出場景、深圳出技術、雙向促發展”的深梅協作新模式。"
-    },
-    {
-      "id": "mkt:01a0b710-f5a9-7118-860d-464dc21d8402",
-      "time": "2026-09-19 08:28:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shenzhen rail to carry over 5.7 mln passengers during Mid‑Autumn/National Day holidays】Shenzhen rail authorities expect to carry 5.73 mln passengers over the 16‑day Mid‑Autumn and National Day holiday from Sep 23 to Oct 8, averaging 358,200 passengers per day, up 6.4% year‑on‑year (≈+21,500 daily). Shenzhen North station is forecast to handle 3.86 mln passengers, 241,000 per day, up 4.3% year‑on‑year (≈+10,400 daily)."
-    },
-    {
-      "id": "5102942",
-      "time": "2026-09-19 08:28:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉反對派領導人馬查多稱已準備回國，具體日期未定。"
-    },
-    {
-      "id": "mkt:01a0b710-524b-7118-860d-380dd0c57449",
-      "time": "2026-09-19 08:28:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Crude ETF holdings: Brent nominal exposure up six consecutive days】Sept 18 — Brent nominal exposure rose for a sixth consecutive day. WTI (USO) nominal exposure ~21.9028 mln bbls, +0.6480 mln bbls on the day. Brent (BNO) futures holdings ~7.4550 mln bbls, +0.0850 mln bbls on the day. Full holdings dataset captures fund-flow changes beyond oil-price moves."
-    },
-    {
-      "id": "5102941",
-      "time": "2026-09-19 08:28:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中秋國慶“雙節”深圳鐵路預計傳送旅客逾570萬人次】從深圳鐵路部門獲悉，今年中秋、國慶假期鐵路運輸自9月23日開始至10月8日結束，為期16天。深圳鐵路預計傳送旅客573.12萬人次，日均35.82萬人次，較去年日均增加2.15萬人次，增幅6.39%，創歷史同期新高。其中，深圳北站預計傳送旅客385.6萬人次，日均24.1萬人次，較去年日均增加1.04萬人次，增幅4.3%。"
-    },
-    {
-      "id": "5102940",
-      "time": "2026-09-19 08:27:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳A股上市公司上半年營收同比增長近16%】從深圳證監局獲悉，深圳共有432家A股上市公司，家數佔全國7.78%，在全國大中城市排名第三，僅次於北京484家、上海449家。截至8月31日，深圳A股上市公司總市值達12.09萬億元，佔A股上市公司總市值10.37%，居全國大中城市的第二位；其中千億市值以上公司24家，百億市值以上公司175家。"
-    },
-    {
-      "id": "mkt:01a0b70f-4d52-7118-860d-376baeb58fec",
-      "time": "2026-09-19 08:27:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Macron: US and Iran unlikely to reach Strait of Hormuz agreement in short term】French President Emmanuel Macron said on Sept. 18 he will push the EU to act on energy after a sharp rise in fuel prices in recent weeks has pushed pump prices to record highs and hit households' purchasing power. He described gas prices and the broader energy situation as worrying, attributing the increases to the war and international tensions. Macron said he will raise the matter with the European Commission President and that a US-Iran deal on the Strait of Hormuz is unlikely in the near term."
-    },
-    {
-      "id": "5102939",
-      "time": "2026-09-19 08:26:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【原產地證書助力深圳企業開拓東盟市場 前8月享惠貨值超400億元】作為對外開放前沿視窗，深圳與東盟經貿往來加速升溫。深圳海關9月18日釋出資料顯示，今年前8個月，深圳海關共簽發中國‑東盟自貿協定原產地證書12.24萬份，同比增長0.90%，享惠貨值423.25億元，同比增長2.88%。自貿協定紅利持續釋放，為深圳企業深耕東盟市場減負增效。（深圳特區報）"
-    },
-    {
-      "id": "mkt:01a0b70e-9ed2-7118-860d-28c5350c74a4",
-      "time": "2026-09-19 08:26:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: military training in Beibu Gulf, China】Yangpu Maritime Safety Administration issued a navigation warning: Sept 19–20, daily 0900–1200, parts of the Beibu Gulf (Gulf of Tonkin) will be closed for military training; vessels are prohibited from entering."
-    },
-    {
-      "id": "5102938",
-      "time": "2026-09-19 08:25:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【2026年亞太經濟合作組織教育網路會議舉辦】9月16日至18日，第43屆亞太經濟合作組織（APEC）人力資源開發工作組教育網路會議在江蘇南京舉辦。教育部黨組成員、副部長任友群發表影片致辭。 會議指出，APEC是亞太地區層級最高、領域最廣、影響力最大的經濟合作機制，教育網路已成為亞太地區開展教育政策對話、加強交流互鑑、深化務實合作的重要平臺。當前科技革命和產業變革加速演進，世界進入新的動盪變革期。亞太地區作為全球重要增長引擎，更需要各經濟體團結一致，共迎挑戰、共促發展。會議強調，今年是APEC中國年，中方願同各方一道，以創新理念為引領，深化機制互聯互通；以智慧教育為引擎，共促教育公平發展；以終身學習為目標，促進人的全面發展。（教育部）"
-    },
-    {
-      "id": "5102937",
-      "time": "2026-09-19 08:23:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鐵路上海站將加開列車146對 預計雙節假期傳送旅客853萬人次】記者昨天從鐵路上海站獲悉，2026年鐵路中秋國慶假期運輸期限自9月23日至10月8日止，為期16天。其間，鐵路上海站預計傳送旅客853萬人次，日均傳送旅客53.3萬人次，較去年同比增長8.03%。為最大限度滿足廣大旅客的出行需求，鐵路上海站在實行高峰執行圖的基礎上，向湖南、湖北、江西、福建、山東等熱門方向加開旅客列車146對，相較去年增加24對。（文匯報）"
-    },
-    {
-      "id": "5102934",
-      "time": "2026-09-19 08:21:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海生物醫藥產業多項指標全國領跑】今年1至8月，上海生物醫藥產業整體呈現“穩增長、強創新、優結構、高活力”的高質量發展態勢。記者昨天從正在舉行的2026張江藥谷大會暨上海國際生物醫藥產業週上獲悉，上海的高階創新器械獲批數量、產業融資規模、生物醫藥BD（商務拓展）交易數量三大行業核心指標均實現全國領跑。生物醫藥製造業產值方面，1至8月，上海累計實現產值1381.65億元，可比增長8.2%。產業結構持續最佳化，創新藥械企業產值佔比24.3%，較“十三五”末8.1%、“十四五”末20.9%實現大幅躍升。創新藥械企業產值可比增長32.0%，較全市產業平均增速高出23.8個百分點，直接拉動全市生物醫藥產值提升6.5個百分點，成為產業增長的核心引擎。其中，創新器械可比增長37.7%，創新藥可比增長26.6%。（解放日報）"
-    },
-    {
-      "id": "5102933",
-      "time": "2026-09-19 08:19:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【丹麥和格陵蘭島將與美籤安全協議】據CCTV國際時訊，當地時間9月18日晚，丹麥政府在社交媒體平臺上釋出宣告稱，（丹麥自治領地）格陵蘭島、丹麥和美國預計將在下週第81屆聯合國大會會議期間簽署一項協議，以加強北極及北大西洋地區的安全。該協議簽署後，還需要經過必要的議會程式才能正式生效。"
-    },
-    {
-      "id": "5102932",
-      "time": "2026-09-19 08:18:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【全球債市再遇拋售 市場關注全球緊縮週期升級可能性】週五，全球主要公債收益率再度走高，拋售潮捲土重來。本週美聯儲與日本央行雙雙加息，隨著通脹擔憂高燒不退，資金正在關注一輪全新的全球緊縮週期升級的可能性。近期各大央行正在加大抗通脹力度：繼歐洲央行加息之後，美聯儲在週三加息25個基點，並釋放今年還會再加息一次的訊號，這讓市場確信美聯儲對抗通脹的決心。但推高債券收益率的底層因素並未消失：油價長期維持高位的風險、政府高債務規模，以及人工智慧相關企業帶來的資金競爭。Capital高階市場分析師丹妮拉·哈索恩表示：“美聯儲確實強化了抗通脹公信力，但鉅額政府發債、走高的期限溢價，加上私營部門資本爭奪加劇，意味著長端收益率的支撐力量，單靠貨幣政策很難化解。”（第一財經）"
-    },
-    {
-      "id": "mkt:01a0b707-4f30-7118-860d-257b1695a96f",
-      "time": "2026-09-19 08:18:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Riyadh struck in early-morning air attack】Early on the 19th local time, Riyadh came under an air attack; sounds of missile interceptions were heard overhead."
-    },
-    {
-      "id": "mkt:01a0b705-a5bd-7118-860d-1a32cd2646fb",
-      "time": "2026-09-19 08:16:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Civil Defense said the danger in the Ha'il region has been lifted."
-    },
-    {
-      "id": "mkt:01a0b705-6c5e-7118-860d-17916e636997",
-      "time": "2026-09-19 08:16:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says New York Times and Washington Post may be barred from White House access】On Sept. 18, President Trump reiterated a prior social-media announcement banning CNN and three other \"fake news media\" from the White House, and named the New York Times and the Washington Post as \"fake news media\" that may also be added to the ban list."
-    },
-    {
-      "id": "5102931",
-      "time": "2026-09-19 08:16:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【上半年新增24家 總數達145家 北京站穩“獨角獸第一城”】記者日前從創業邦旗下睿獸分析獲悉，據其最新發布的《2026年上半年全球獨角獸企業觀察報告》（簡稱《報告》），2026年上半年，全球新晉獨角獸企業179家，同比增長250.98%。其中，美國81家，同比增長179.31%；中國68家，同比增長近6倍。截至6月30日，北京獨角獸企業總數達145家，居全國首位，站穩“獨角獸第一城”。（北京日報）"
-    },
-    {
-      "id": "5102930",
-      "time": "2026-09-19 08:15:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普點名紐時華郵或也將禁入白宮】當地時間9月18日下午，美國總統特朗普在白宮向媒體重申了他稍早前在社交媒體平臺發帖宣佈的“禁止CNN等3家‘假新聞媒體’進入白宮”。在回答記者提問時，特朗普還點名《紐約時報》和《華盛頓郵報》，稱這兩家也是“假新聞媒體”，可能也將上禁令名單。特朗普稍早前發帖稱將禁止美國有線電視新聞網（CNN）、MS Now新聞頻道（此前的美國微軟—全國廣播公司MSNBC）、美國《政治報》進入白宮。（CCTV國際時訊）"
-    },
-    {
-      "id": "5102929",
-      "time": "2026-09-19 08:15:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！北部灣水域軍事訓練】據中國海事局網站訊息，洋浦海事局釋出航行警告，9月19日至20日，每天9時至12時，北部灣部分水域進行軍事訓練，禁止駛入。"
-    },
-    {
-      "id": "5102928",
-      "time": "2026-09-19 08:12:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海電氣  與中信集團簽署戰略合作協議】9月18日上午，上海電氣集團與中國中信集團有限公司（簡稱“中信集團”）舉行戰略合作簽約儀式。根據協議，雙方將在高階裝備、綠色能源開發、高階材料、智慧基礎設施建設、國際化合作、多元化綜合金融等多領域開展深層合作，共同構建“金融+產業+科技+國際”協同生態。會上，上海發那科機器人有限公司還與中信重工機械股份有限公司代表簽署合作協議，雙方將立足各自產業優勢，在裝備智慧製造、特種機器人應用、智慧產線改造等領域開展全方位深度合作，助力我國重型裝備製造業數字化、智慧化轉型升級。"
-    },
-    {
-      "id": "mkt:01a0b701-b6dd-7118-860d-0d0984cb5f82",
-      "time": "2026-09-19 08:12:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense says danger alert in Riyadh has been lifted."
-    },
-    {
-      "id": "5102927",
-      "time": "2026-09-19 08:11:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門表示利雅得危險已解除。"
-    },
-    {
-      "id": "5102926",
-      "time": "2026-09-19 08:11:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "AMD暗盤突破560美元，日內漲3.7%。"
-    },
-    {
-      "id": "5102925",
-      "time": "2026-09-19 08:11:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川、重慶等地部分地區將有暴雨 西北東北迎明顯降溫】今起三天（9月19日至21日），較強降雨將集中在四川東部、重慶、陝西南部、湖北西北部一帶，部分地區將有大到暴雨。隨著冷空氣影響展開，內蒙古東部至東北地區也將迎來降雨，西北、東北降溫明顯，不少地方最高氣溫將創立秋以來新低。而江南、華南等地暑熱猶盛，最高氣溫將達33℃左右，局地還有高溫。"
-    },
-    {
-      "id": "5102924",
-      "time": "2026-09-19 08:11:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "特阿拉伯首都利雅得19日凌晨傳出爆炸聲。當地居民收到經由手機程式釋出的防空警報。（新華社）"
     }
   ]
 }
