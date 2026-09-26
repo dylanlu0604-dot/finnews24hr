@@ -1,7 +1,15 @@
 {
   "date": "2026-09-26",
-  "count": 647,
+  "count": 648,
   "items": [
+    {
+      "id": "mkt:01a0dc71-3b80-7118-86a6-50399f3edd29",
+      "time": "2026-09-26 14:40:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【2026 Private Enterprises Investment and Financing Conference signs RMB 26.929 bln in projects】Sept. 23 — At the 2026 China Private Enterprises Investment and Financing Negotiation Conference, a centralized signing ceremony completed 81 project agreements totaling RMB 26.929 bln. Industrial cooperation comprised 63 projects worth RMB 7.76 bln; financing cooperation comprised 18 projects worth RMB 19.169 bln. Projects target 12 Tianjin priority industrial chains and cover robotics, smart manufacturing, biopharma, high-end equipment, new energy and advanced materials."
+    },
     {
       "id": "mkt:01a0dc61-a66b-7118-86a6-4f426896870e",
       "time": "2026-09-26 14:23:02",
