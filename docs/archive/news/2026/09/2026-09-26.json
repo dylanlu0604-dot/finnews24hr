@@ -1,7 +1,17 @@
 {
   "date": "2026-09-26",
-  "count": 646,
+  "count": 647,
   "items": [
+    {
+      "id": "mkt:01a0dc61-a66b-7118-86a6-4f426896870e",
+      "time": "2026-09-26 14:23:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Han Zheng meets Kiribati President Taneti Maamau】On Sept. 25 in New York during the UN General Assembly, Chinese Vice President Han Zheng met Kiribati President Taneti Maamau. Han said that since diplomatic ties were resumed in 2019 bilateral relations have developed rapidly; China values the relationship and will work with Kiribati to consolidate the political foundation, expand practical cooperation, strengthen coordination in multilateral affairs, and raise bilateral ties to a higher level to benefit both peoples."
+    },
     {
       "id": "5114248",
       "time": "2026-09-26 14:19:36",

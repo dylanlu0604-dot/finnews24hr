@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-26 14:21:47",
-  "count": 11980,
+  "updated": "2026-09-26 14:25:35",
+  "count": 11979,
   "items": [
+    {
+      "id": "mkt:01a0dc61-a66b-7118-86a6-4f426896870e",
+      "time": "2026-09-26 14:23:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Han Zheng meets Kiribati President Taneti Maamau】On Sept. 25 in New York during the UN General Assembly, Chinese Vice President Han Zheng met Kiribati President Taneti Maamau. Han said that since diplomatic ties were resumed in 2019 bilateral relations have developed rapidly; China values the relationship and will work with Kiribati to consolidate the political foundation, expand practical cooperation, strengthen coordination in multilateral affairs, and raise bilateral ties to a higher level to benefit both peoples."
+    },
     {
       "id": "5114248",
       "time": "2026-09-26 14:19:36",
@@ -109227,27 +109237,6 @@
         "AI Revolution"
       ],
       "text": "【CITIC Securities: Diamond-based cooling poised to enter industrialization year】CITIC Securities says three forces — sharply higher AI chip power draw, traditional metal heatsinks approaching physical limits, and improving diamond fabrication processes — could push diamond thermal management into its first year of industrialization. The note recommends two investment themes: focus on industry leaders that have begun small-batch heatsink deliveries, possess in‑house equipment R&D and scalable capacity; and target process leaders with large‑size manufacturing, full‑chain capabilities and accelerating capacity expansion."
-    },
-    {
-      "id": "5103124",
-      "time": "2026-09-19 14:25:21",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：極致散熱登場，金剛石迎來產業化元年】中信證券研報稱，在AI晶片功耗陡峭攀升、傳統金屬散熱逼近物理極限及金剛石製備技術工藝持續最佳化三重因素驅動下，金剛石散熱行業有望迎來產業化元年的投資機遇。中信證券建議圍繞率先商用交付和產能量產卡位顯著兩條主線佈局：一、聚焦行業頭部，率先實現散熱片小批次供貨、裝備自研與產能規模領跑的企業有望充分受益於需求放量；二、關注工藝領先，具備大尺寸製造與全產業鏈能力，且加速擴產佈局的相關企業。"
-    },
-    {
-      "id": "mkt:01a0b854-a963-7118-860e-68ca9fa97cd6",
-      "time": "2026-09-19 14:22:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【Cui Dongshu: Chinese autos to lead high-quality export growth in 2026】China's Customs reported Jan-Aug 2026 goods exports of $2.926 tln, up 19% YoY; August exports reached a record $401.4 bln. Vehicle exports totaled $129.1 bln Jan-Aug, up 53% YoY; August vehicle exports were $18.3 bln, up 43%. Auto parts exports were $69.8 bln Jan-Aug, up 8%; August parts exports $9.1 bln, up 7% — China’s auto parts sector faces significant pressure. Motorcycle exports reached $15.5 bln Jan-Aug, up 26%; August $2.1 bln, up 28%, with fuel motorcycle shipments slowing on high oil prices and electric motorcycles surging. Cui Dongshu said domestic OEMs should lead overseas expansion and reduce reliance on Europe/US after-sales networks."
     }
   ]
 }
