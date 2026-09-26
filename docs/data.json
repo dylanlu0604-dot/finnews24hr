@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-26 19:56:59",
-  "count": 11926,
+  "updated": "2026-09-26 20:01:01",
+  "count": 11924,
   "items": [
+    {
+      "id": "5114316",
+      "time": "2026-09-26 20:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-1269.57億元，商用車、煤炭開採板塊淨流入居前，個股勝宏科技、江淮汽車淨流入最多。"
+    },
+    {
+      "id": "mkt:01a0dd93-d0a7-7118-86a7-72ba7e0c0de2",
+      "time": "2026-09-26 19:57:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Shanxi governor urges accelerated reversal of falling coal output】Shanxi Governor Lu Dongliang chaired a provincial meeting on coal safety and stable production and supply, urging accelerated resumption of operations and stabilization of output and deliveries while strictly upholding safety standards. He called for reversing the recent decline in coal production and rebuilding the province’s coal-industry ecosystem to support national energy security and meet household energy demand."
+    },
     {
       "id": "5114315",
       "time": "2026-09-26 19:54:11",
@@ -108723,42 +108741,6 @@
         "國際"
       ],
       "text": "歐洲央行管委斯圖納拉斯：歐洲央行不能忽視持續的供應衝擊。"
-    },
-    {
-      "id": "5103229",
-      "time": "2026-09-19 20:00:21",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【9月19日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】大河潤華夏； 2.【賡續長征精神 奮進復興征程】湖南：紅色熱土 向新而行； 3.我國製造業高階化轉型加速； 4.前8個月全國一般公共預算收入同比增長5.7%； 5.前8個月全國完成水利建設投資近7000億元； 6.各地開展形式多樣的群眾性國防教育活動； 7.我國航天健康保障體系達到國際先進水平； 8.【文化中國行】朱熹園：文脈活水 流潤今朝； 9.第二十屆亞運會今天開幕； 10.國內聯播快訊： （1）《文化產業發展“十五五”規劃》釋出； （2）1至8月全國鐵路傳送旅客33.2億人次； （3）我國推出新舉措加快數字經濟領域複合型人才培養； （4）保障未成年人健康安全使用網路的規定公開徵求意見； 11.俄羅斯要求日方撤出在日部署的“堤豐”導彈系統； 12.葉門胡塞武裝稱遭沙特密集空襲 沙特首都發布本輪衝突首次防空警報； 13.國際聯播快訊： （1）中方強調聯合國維和行動要服務政治程序； （2）丹麥及其自治領地格陵蘭島與美達成協議； （3）俄稱“三位一體”核力量仍是俄主權保障； （4）義大利西尼羅病毒傳播加劇。"
-    },
-    {
-      "id": "5103228",
-      "time": "2026-09-19 20:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週大盤主力資金累計淨流入2.21億元，半導體、通訊裝置板塊淨流入居前，個股沐曦股份、京東方A淨流入最多。"
-    },
-    {
-      "id": "5103227",
-      "time": "2026-09-19 19:59:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界最大鹽穴壓縮空氣儲能專案機組啟動】近日，中國電建參建的江蘇金壇鹽穴壓縮空氣儲能發電二期專案2號機組完成整組啟動。專案位於江蘇省常州市金壇區，是目前世界上單機功率最大、總容量最大、綜合效率最高的鹽穴壓縮空氣儲能電站。專案規劃建設兩套350兆瓦非補燃式壓縮空氣儲能機組，儲能8小時，發電4小時，能量轉化效率超70%，一次充電可儲存280萬度電。建成投產後，核心裝備實現100%國產化。"
-    },
-    {
-      "id": "mkt:01a0b987-8920-7118-8610-2c96eac56f9e",
-      "time": "2026-09-19 19:57:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【MOFCOM spokesperson on US signing 2026 Graham sanctions bill targeting Russia and Iran】MOFCOM said China opposes unilateral sanctions without UN authorization or an international-law basis and opposes so-called secondary sanctions against third parties. It reiterated that Chinese economic and trade cooperation is conducted on an equal, mutually beneficial basis, is not aimed at third parties and will not accept third-party interference or coercion. MOFCOM said it will closely monitor US follow-up measures and reserves the right to take all necessary actions to safeguard China’s sovereignty, development interests and the legitimate rights of Chinese firms. It urged the US to address differences through dialogue and consultation to keep bilateral trade stable and to help maintain the global trade order and supply-chain security."
     }
   ]
 }

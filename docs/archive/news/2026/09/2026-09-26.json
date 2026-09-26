@@ -1,7 +1,25 @@
 {
   "date": "2026-09-26",
-  "count": 749,
+  "count": 751,
   "items": [
+    {
+      "id": "5114316",
+      "time": "2026-09-26 20:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-1269.57億元，商用車、煤炭開採板塊淨流入居前，個股勝宏科技、江淮汽車淨流入最多。"
+    },
+    {
+      "id": "mkt:01a0dd93-d0a7-7118-86a7-72ba7e0c0de2",
+      "time": "2026-09-26 19:57:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Shanxi governor urges accelerated reversal of falling coal output】Shanxi Governor Lu Dongliang chaired a provincial meeting on coal safety and stable production and supply, urging accelerated resumption of operations and stabilization of output and deliveries while strictly upholding safety standards. He called for reversing the recent decline in coal production and rebuilding the province’s coal-industry ecosystem to support national energy security and meet household energy demand."
+    },
     {
       "id": "5114315",
       "time": "2026-09-26 19:54:11",
