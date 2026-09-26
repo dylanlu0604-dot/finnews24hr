@@ -1,7 +1,259 @@
 {
   "date": "2026-09-27",
-  "count": 151,
+  "count": 179,
   "items": [
+    {
+      "id": "mkt:01a0dfa3-5c73-7118-86aa-ab6d6f4ab2b6",
+      "time": "2026-09-27 05:33:40",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iran's Persian Gulf Straits Authority warned shipowners to beware of certain charterers' illegal conduct. If verified, those charterers will be placed on a non‑compliant list and all vessels under their name will face restrictions transiting the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a0dfa2-b0c8-7118-86aa-a354996b1616",
+      "time": "2026-09-27 05:32:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Persian Gulf Strait Authority said a report shows some charterers are forcing vessels to use \"illegal routes\", exposing ships, owners, masters and crew to financial loss and life-safety risk, and said the practice will severely limit affected vessels' future ability to transit the Strait of Hormuz."
+    },
+    {
+      "id": "5114539",
+      "time": "2026-09-27 05:27:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國南方司令部：多諾萬司令在邁阿密會見巴拉圭總統。"
+    },
+    {
+      "id": "mkt:01a0df94-0ffd-7118-86aa-9a25b93b40d1",
+      "time": "2026-09-27 05:16:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi said only a negotiated solution can break the deadlock, saying that is Iran's position."
+    },
+    {
+      "id": "5114538",
+      "time": "2026-09-27 05:16:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊：與華盛頓的問題唯有透過公正的談判解決，並確保我國人民的權利、滿足其合理訴求。"
+    },
+    {
+      "id": "mkt:01a0df91-ead2-7118-86aa-97c3cd837f4b",
+      "time": "2026-09-27 05:14:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Iranian Foreign Minister Araghchi said Iran's conditions are clear and any reopening of the Strait of Hormuz depends on those conditions being met."
+    },
+    {
+      "id": "5114536",
+      "time": "2026-09-27 05:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：我方條件明確，霍爾木茲海峽重新開放的任何行動都需以這些條件得到滿足為前提。"
+    },
+    {
+      "id": "mkt:01a0df91-a1ce-7118-86aa-8de58525705a",
+      "time": "2026-09-27 05:14:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian foreign minister Araghchi said Tehran has seen an initial response from the US president to Iran's proposal, but mediators have not conveyed any message to Iran. Tehran is awaiting mediators' definitive position and will decide accordingly."
+    },
+    {
+      "id": "5114535",
+      "time": "2026-09-27 05:13:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊：我們正在等待調停方向我方轉達各方最終意見，我方將據此作出決定。"
+    },
+    {
+      "id": "5114534",
+      "time": "2026-09-27 05:13:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊：我們已經看到美國總統對伊朗提議作出初步回應，但調解方尚未向我方轉達任何正式內容。"
+    },
+    {
+      "id": "5114533",
+      "time": "2026-09-27 05:06:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍高階指揮官向特朗普發出挑戰，要求美方派遣軍艦靠近霍爾木茲海峽，以證明美國對該水道的控制權。他表示：“如果再次爆發戰爭，我們毫無疑問會打擊他們的船隻和驅逐艦，哪怕是在印度洋。”"
+    },
+    {
+      "id": "mkt:01a0df82-cd28-7118-86aa-82785cd31f6f",
+      "time": "2026-09-27 04:58:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Carney said Vietnam is Canada’s largest ASEAN trading partner and that this week Canada further deepened the partnership to expand market access for Canadian firms in one of the world’s fastest‑growing consumer markets."
+    },
+    {
+      "id": "5114532",
+      "time": "2026-09-27 04:43:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊發言人：霍爾木茲海峽處於伊朗的控制之下。任何試圖在伊朗指定航線之外通行的船隻，均無法獲得安全保障。"
+    },
+    {
+      "id": "5114531",
+      "time": "2026-09-27 04:42:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方：戰後將持續追捕特朗普與內塔尼亞胡】伊朗武裝部隊高階發言人謝卡爾希表示，即便戰爭結束，伊朗軍方也將繼續追捕美國總統特朗普和以色列總理內塔尼亞胡，稱他們為“殺人犯”並必將受到懲罰。他表示：“即便戰爭結束，我們也不會放過特朗普、內塔尼亞胡及其同謀。無論他們是否仍在掌權，都必須為自己的行為付出代價。”謝卡爾希稱，德黑蘭絕不會允許美國在新興世界秩序中恢復其昔日的地位。他補充道，美軍除了撤出中東之外別無安全之路，而且他們撤離得越快，遭受的損失就越少。他說：“美國人可以夢想幹預霍爾木茲海峽。但如果他們敢插手霍爾木茲海峽，必將遭到狠狠一記耳光。”"
+    },
+    {
+      "id": "5114528",
+      "time": "2026-09-27 04:38:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國聖路易斯聯儲：截至9月18日的一週內，金融市場的壓力較前一週略有下降。聖路易斯聯儲金融壓力指數錄得-0.91，而前一週為-0.85。（0代表金融市場處於正常狀況；數值低於0表明壓力低於平均水平）"
+    },
+    {
+      "id": "mkt:01a0df70-8cfa-7118-86aa-798f52a9b72e",
+      "time": "2026-09-27 04:38:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "St. Louis Fed: In the week to Sep 18 the Financial Stress Index fell to -0.91 from -0.85 a week earlier; 0 indicates normal conditions and negative values indicate below-average stress."
+    },
+    {
+      "id": "mkt:01a0df6e-6c49-7118-86aa-70f39fbee47b",
+      "time": "2026-09-27 04:35:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hungary may require ultra-rich to pay higher wealth tax】Prime Minister Magyar said the government’s planned wealth tax could impose a rate above the previously proposed 1% on Hungary’s richest households. The government aims to have the tax in place before January. Magyar said the party proposal levies 1% on wealth over 1 billion forint (about $3.1m) but that super-rich individuals could face higher rates. He added the government faces pressure to cut the budget deficit by 2030; this year’s deficit may reach about 7.5% of GDP versus a euro-area 3% limit."
+    },
+    {
+      "id": "5114524",
+      "time": "2026-09-27 04:32:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：在談判期間兩次遭襲後，伊朗“不再”信任美國。"
+    },
+    {
+      "id": "mkt:01a0df68-6341-7118-86aa-6bc9e1611356",
+      "time": "2026-09-27 04:29:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Germany, Russia foreign ministers hold first talks in four years; Lavrov says no new progress】German and Russian foreign ministers met on Saturday during the UN General Assembly — their first face-to-face talks since the 2022 Russia-Ukraine conflict began. Germany's foreign minister Wadephul urged Moscow to abandon a \"dangerous escalation\" toward Germany, Europe and NATO and said Berlin is open to improving ties only if Russia shows genuine willingness to end the Ukraine conflict. The meeting follows a recent deterioration in ties after an attempted drone attack at Leipzig airport last month, which Germany blamed on Russia, and reciprocal measures. Russia's foreign minister Lavrov said there was \"no new progress\" from the talks."
+    },
+    {
+      "id": "5114522",
+      "time": "2026-09-27 04:26:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利：正在傾聽各方對燃油價格飆升的擔憂。"
+    },
+    {
+      "id": "5114521",
+      "time": "2026-09-27 04:24:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗與俄羅斯在俄舉行第三次文化委員會會議。"
+    },
+    {
+      "id": "5114516",
+      "time": "2026-09-27 04:22:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統抵達德黑蘭時表示，他的飛機被迫在阿爾及利亞降落加油，在那裡停留了約兩個小時後，才繼續飛往紐約。"
+    },
+    {
+      "id": "5114515",
+      "time": "2026-09-27 04:21:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：馮德萊恩主席宣佈撥款7.1億歐元，用於援助非洲流離失所者及全球危機救援。"
+    },
+    {
+      "id": "mkt:01a0df5f-63e6-7118-86aa-62bbe17b4eec",
+      "time": "2026-09-27 04:19:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President Von der Leyen announced €710m in aid for displaced people in Africa and global crisis relief."
+    },
+    {
+      "id": "mkt:01a0df56-dcf4-7118-86aa-5b617375def3",
+      "time": "2026-09-27 04:10:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of Transportation Duffy said a major victory for U.S. autoworkers will be announced on Monday."
+    },
+    {
+      "id": "5114506",
+      "time": "2026-09-27 04:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部長達菲稱，汽車工人將迎來“重大勝利”，時間就在週一。"
+    },
+    {
+      "id": "5114504",
+      "time": "2026-09-27 04:04:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "剛果西南部發生空難，造成17人死亡，死者中包括該國兩名最高階別的軍事司法官員。"
+    },
+    {
+      "id": "5114501",
+      "time": "2026-09-27 04:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊藤忠商事與愛奧伊保險將開發針對美國市場的自動駕駛計程車（Robotaxi）保險產品。"
+    },
     {
       "id": "5114497",
       "time": "2026-09-27 03:52:50",
