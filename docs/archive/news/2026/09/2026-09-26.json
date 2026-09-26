@@ -1,7 +1,50 @@
 {
   "date": "2026-09-26",
-  "count": 533,
+  "count": 537,
   "items": [
+    {
+      "id": "mkt:01a0db4c-7767-7118-86a4-fbf1686e9a0f",
+      "time": "2026-09-26 09:20:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi authorities said they intercepted two drones launched by Houthi militants targeting Riyadh."
+    },
+    {
+      "id": "mkt:01a0db4c-4ad8-7118-86a4-f7be3265810e",
+      "time": "2026-09-26 09:20:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China's first 10‑GW‑class desert/Gobi wind‑solar base reaches key construction milestone】On the 26th, China Three Gorges Corp said four cooling towers for the supporting coal-fired power project at the Kubuqi Zhongbei new-energy base — China's first 10‑GW‑class desert/Gobi wind‑solar complex — have topped out, accelerating progress toward unit commissioning. Wind, utility-scale PV, concentrated solar, supporting storage and UHV DC transmission are being built in parallel. Once complete the base could deliver about 40 bln kWh/year to the Beijing‑Tianjin‑Hebei region, supporting the area's green transition."
+    },
+    {
+      "id": "5114174",
+      "time": "2026-09-26 09:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普發圖，“看看誰治下的油價低”】特朗普在社交媒體發圖，內容為近4任美國總統任期內油價高於100美元的天數統計。圖片顯示，奧巴馬、拜登任期內，該數字分別為308天、83天；而特朗普第一任期為0天，本任期目前為24天。"
+    },
+    {
+      "id": "5114173",
+      "time": "2026-09-26 09:17:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤日內跌超1%，現報3.2351美元。"
+    },
     {
       "id": "mkt:01a0db49-5b57-7118-86a4-eb113ed4c816",
       "time": "2026-09-26 09:16:52",

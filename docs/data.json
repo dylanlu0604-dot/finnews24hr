@@ -1,7 +1,50 @@
 {
-  "updated": "2026-09-26 09:18:17",
+  "updated": "2026-09-26 09:22:02",
   "count": 12049,
   "items": [
+    {
+      "id": "mkt:01a0db4c-7767-7118-86a4-fbf1686e9a0f",
+      "time": "2026-09-26 09:20:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi authorities said they intercepted two drones launched by Houthi militants targeting Riyadh."
+    },
+    {
+      "id": "mkt:01a0db4c-4ad8-7118-86a4-f7be3265810e",
+      "time": "2026-09-26 09:20:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【China's first 10‑GW‑class desert/Gobi wind‑solar base reaches key construction milestone】On the 26th, China Three Gorges Corp said four cooling towers for the supporting coal-fired power project at the Kubuqi Zhongbei new-energy base — China's first 10‑GW‑class desert/Gobi wind‑solar complex — have topped out, accelerating progress toward unit commissioning. Wind, utility-scale PV, concentrated solar, supporting storage and UHV DC transmission are being built in parallel. Once complete the base could deliver about 40 bln kWh/year to the Beijing‑Tianjin‑Hebei region, supporting the area's green transition."
+    },
+    {
+      "id": "5114174",
+      "time": "2026-09-26 09:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普發圖，“看看誰治下的油價低”】特朗普在社交媒體發圖，內容為近4任美國總統任期內油價高於100美元的天數統計。圖片顯示，奧巴馬、拜登任期內，該數字分別為308天、83天；而特朗普第一任期為0天，本任期目前為24天。"
+    },
+    {
+      "id": "5114173",
+      "time": "2026-09-26 09:17:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤日內跌超1%，現報3.2351美元。"
+    },
     {
       "id": "mkt:01a0db49-5b57-7118-86a4-eb113ed4c816",
       "time": "2026-09-26 09:16:52",
@@ -109736,39 +109779,6 @@
         "其他"
       ],
       "text": "【國際移民組織：葉門戰事持續 流離失所者超11.2萬】國際移民組織18日表示，受戰事持續的影響，葉門人道主義局勢急劇惡化。葉門境內有超過11.2萬人流離失所。此外，數千人被迫乘船穿越曼德海峽逃往吉布提尋求庇護。（央視）"
-    },
-    {
-      "id": "em:jjsj_rbsj:202609193879159680",
-      "time": "2026-09-19 09:21:40",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "【日本核心CPI連續60個月上漲】日本總務省18日公佈的資料顯示，剔除生鮮食品後，日本8月核心消費者價格指數CPI同比上漲1.7%。至此，日本核心CPI已連續60個月同比上漲。"
-    },
-    {
-      "id": "5102975",
-      "time": "2026-09-19 09:21:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【劉浩任宿遷市委書記】江蘇省委決定：劉浩同志任宿遷市委書記。（江蘇新聞）"
-    },
-    {
-      "id": "5102974",
-      "time": "2026-09-19 09:21:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "以軍在黎巴嫩南部實施新一輪拆除行動。"
-    },
-    {
-      "id": "5102973",
-      "time": "2026-09-19 09:20:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特首都傳出爆炸聲 民防總局稱“危險已解除”】沙烏地阿拉伯首都利雅得19日凌晨傳出爆炸聲。當地居民收到經由手機程式釋出的防空警報。沙特民防總局當天凌晨在社交媒體上說，沙特國家預警平臺已向利雅得市釋出警報，提醒有危險。約十分鐘後，該部門在社交媒體上說，“利雅得的危險已解除”。目前，沒有關於爆炸的更多資訊。近期，葉門胡塞武裝多次對沙特發動導彈和無人機襲擊，但利雅得釋出防空警報還是第一次。"
     }
   ]
 }
