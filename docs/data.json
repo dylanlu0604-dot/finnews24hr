@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-26 14:10:17",
+  "updated": "2026-09-26 14:14:11",
   "count": 11977,
   "items": [
+    {
+      "id": "mkt:01a0dc57-adda-7118-86a6-307a3718834d",
+      "time": "2026-09-26 14:12:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan PM says water must not be 'weaponized'】At the 81st UN General Assembly general debate on Sept. 25, Pakistan Prime Minister Shehbaz Sharif said Pakistan opposes the 'weaponization' of water and called the Indus river system a lifeline for Pakistan and the region. He accused India of unilaterally suspending implementation of the Indus Waters Treaty, saying that step has no legal basis and that international legal mechanisms uphold Pakistan's position that the treaty remains in force. He warned any attempt to stop, obstruct or alter Pakistan's entitled river water share would be treated as an act of war."
+    },
+    {
+      "id": "mkt:01a0dc56-eddd-7118-86a6-2d03044e14b7",
+      "time": "2026-09-26 14:11:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Iraq's government called for de‑escalation of regional tensions and warned a prolonged crisis would further complicate the situation."
+    },
+    {
+      "id": "mkt:01a0dc55-f833-7118-86a6-2585297adc3b",
+      "time": "2026-09-26 14:10:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera quoted the Iraqi government as urging all parties to seek a resolution to the current crisis and conflict through dialogue and negotiations."
+    },
     {
       "id": "mkt:01a0dc55-14e6-7118-86a6-1dfdb04c0885",
       "time": "2026-09-26 14:09:18",
@@ -109199,36 +109223,6 @@
         "國際"
       ],
       "text": "伊朗司法機構網站：伊朗處決一名在戰爭期間向以色列傳遞導彈陣地情報的定罪男子。"
-    },
-    {
-      "id": "5103120",
-      "time": "2026-09-19 14:13:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄防空系統夜間在俄上空摧毀344架烏克蘭無人機。"
-    },
-    {
-      "id": "mkt:01a0b84c-7d82-7118-860e-5df898fde3db",
-      "time": "2026-09-19 14:13:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia's Defence Ministry says air defences destroyed 344 Ukrainian drones overnight over Russian airspace】Russia's Defence Ministry said its air-defence systems intercepted and destroyed 344 Ukrainian fixed-wing UAVs overnight over Russian airspace, across multiple regions including Leningrad, Novgorod, Bryansk, Kursk, Belgorod, Oryol, Kaluga, Tula, Ryazan, Lipetsk, Vladimir, Rostov, Krasnodar Krai, Moscow region, Yamalo-Nenets Autonomous Okrug, Dagestan and over the Black Sea."
-    },
-    {
-      "id": "mkt:01a0b84c-0657-7118-860e-52cedc683e0c",
-      "time": "2026-09-19 14:13:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Washington Post: Nearly all indicators show US at disadvantage in Iran conflict】The Washington Post reports that almost all indicators point to a strategic disadvantage for the US in its conflict with Iran. President Trump declared in early March the US had “won” but still needed to “finish the job”; the paper says that task remains incomplete and prospects are poor. The conflict has exposed US force vulnerabilities and dispersed deployments, cost roughly $38.1bn to date, and contributed to a global energy squeeze. US military gains are limited and the campaign is politically unpopular at home, with growing congressional Republican support for ending the conflict and at least one Republican lawmaker proposing impeachment of the defense secretary over the war. Key strategic objectives have largely failed, the paper says: Iran’s proxy network remains intact; Houthi forces in Yemen recently seized Mocha port and Perim Island, effectively controlling the Bab al-Mandeb; Iranian missile and drone capabilities continue to be used against regional targets despite US claims in April that Iran’s missile program had been destroyed, and Iran has resumed ballistic missile production in underground facilities; regime-change aims have backfired—despite the killing of senior figures including Khamenei, Tehran’s leadership is intact and more consolidated; and Iran still holds about 440 kg of highly enriched uranium, location uncertain. The contest has shifted to control of key straits: flows through the Strait of Hormuz have fallen from roughly 20 mln bpd pre-conflict to about 10 mln bpd, and Iran has demonstrated the ability to close the strait for extended periods."
     }
   ]
 }
