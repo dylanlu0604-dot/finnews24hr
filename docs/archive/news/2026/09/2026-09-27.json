@@ -1,7 +1,23 @@
 {
   "date": "2026-09-27",
-  "count": 148,
+  "count": 150,
   "items": [
+    {
+      "id": "mkt:01a0df3b-2150-7118-86aa-55b67ec91589",
+      "time": "2026-09-27 03:39:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bangladesh plans first sovereign bond issuance, targeting up to $1 bln in proceeds."
+    },
+    {
+      "id": "5114495",
+      "time": "2026-09-27 03:38:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "孟加拉國首次發行主權債券，目標融資最高10億美元。"
+    },
     {
       "id": "5114494",
       "time": "2026-09-27 03:35:24",
