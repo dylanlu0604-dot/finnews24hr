@@ -1,7 +1,27 @@
 {
   "date": "2026-09-26",
-  "count": 754,
+  "count": 756,
   "items": [
+    {
+      "id": "5114320",
+      "time": "2026-09-26 20:18:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在“真實社交”（Truth Social）上重申，伊朗不得擁有核武器。"
+    },
+    {
+      "id": "mkt:01a0dda7-2acd-7118-86a7-79e6a3bcb178",
+      "time": "2026-09-26 20:18:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said Iran must not be allowed to possess nuclear weapons."
+    },
     {
       "id": "5114319",
       "time": "2026-09-26 20:14:55",
