@@ -1,7 +1,28 @@
 {
   "date": "2026-09-27",
-  "count": 181,
+  "count": 183,
   "items": [
+    {
+      "id": "mkt:01a0dfb3-facc-7118-86aa-b30df1b515fe",
+      "time": "2026-09-27 05:51:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign minister says Strait of Hormuz reopening hinges on Iran's conditions】On the 27th (local time) Iran foreign minister Araghchi said Tehran will not yield on its conditions and reopening the Strait of Hormuz depends on those conditions being met; any progress is conditional and Iran will not compromise. Araghchi said Iran has noted an initial US response to the reopening proposal but has not received detailed positions from the mediator and is awaiting the mediator's final stance before deciding. US President Trump said on the 26th he rejected Iran's proposal to reopen the Strait of Hormuz."
+    },
+    {
+      "id": "5114542",
+      "time": "2026-09-27 05:51:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長： 霍爾木茲海峽開放取決於伊方條件是否滿足】當地時間27日，伊朗外長阿拉格齊表示，伊朗不會在既定條件上向美國讓步，霍爾木茲海峽的開放取決於伊朗提出的條件是否得到滿足，任何關於開放霍爾木茲海峽的進展都取決於這些條件能否落實，伊朗絕不會在這些問題上妥協。阿拉格齊表示，伊方已獲悉美方對於重開霍爾木茲海峽提議的初步反應，但尚未收到調解方傳達的任何具體資訊。伊朗正等待調解方轉達最終立場，並將據此做出決定。美國總統特朗普當地時間26日稱，他拒絕了伊朗提出的重開霍爾木茲海峽的提議。（央視新聞）"
+    },
     {
       "id": "5114541",
       "time": "2026-09-27 05:48:22",
