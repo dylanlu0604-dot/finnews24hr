@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-27 02:41:06",
-  "count": 11969,
+  "updated": "2026-09-27 02:44:59",
+  "count": 11970,
   "items": [
+    {
+      "id": "5114449",
+      "time": "2026-09-27 02:44:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：週日將前往芝加哥地區出席總統盃高爾夫賽。"
+    },
+    {
+      "id": "5114448",
+      "time": "2026-09-27 02:42:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：計劃未來數週與加彭舉行更多會談。"
+    },
     {
       "id": "5114444",
       "time": "2026-09-27 02:39:36",
@@ -109068,15 +109084,6 @@
         "MKT News"
       ],
       "text": "【Russia's Progress MS-35 cargo ship docks with International Space Station】Roscosmos said on its website on Sept. 19 that the Progress MS-35 cargo spacecraft completed a manual docking with the Russian segment's Nauka laboratory on the International Space Station. The spacecraft launched on Sept. 16 Moscow time aboard a Soyuz-2.1b rocket from Baikonur Cosmodrome, Kazakhstan, and reached its planned orbit."
-    },
-    {
-      "id": "5103543",
-      "time": "2026-09-20 02:44:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄羅斯“進步MS-35”貨運飛船與國際空間站對接】俄羅斯國家航天集團19日在官網通報說，俄“進步MS-35”貨運飛船當天與國際空間站俄羅斯艙段“探索”號實驗艙完成手動對接。莫斯科時間9月16日，“進步MS-35”貨運飛船搭乘“聯盟-2.1b”運載火箭從哈薩克境內的拜科努爾航天發射場發射升空，隨後成功進入預定軌道。（新華社）"
     }
   ]
 }
