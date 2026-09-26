@@ -1,7 +1,196 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-09-27 03:19:34_
-_本檔包含 2079 則快訊，約 462069 字_
+_更新時間：2026-09-27 06:10:46_
+_本檔包含 2069 則快訊，約 461945 字_
+
+---
+
+### 2026-09-21 20:47:05  #其他
+
+【2025年全球售出約7000臺人形機器人】國際機器人聯合會擬於近期釋出的統計資料顯示，2025年全球人形機器人銷售量約為7000臺。這一資料僅覆蓋應用於工業和專業服務領域的人形機器人，不包含消費級、軍用和醫用機器人。據路透社21日報道，國際機器人聯合會近30年來一直收集併發布傳統工業機器人和服務機器人市場資料，2025年相關資料定於24日釋出，該組織同時將首次專門釋出人形機器人銷量。根據該組織標準，人形機器人必須外形似人，可以沒有腿，但應能在為人類而設計的環境中自主工作。聯合會秘書長蘇珊·比勒說，2025年所售人形機器人中，許多並不從事生產性工作，而是被研究機構和企業用於生成資料，以完善人工智慧模型。（新華社）
+
+---
+
+### 2026-09-21 20:46:36  #MKT News #Brent #Impact bearish #WTI
+
+【Russian foreign ministry says working closely with Turkey to secure Black Sea shipping】Interfax reported on Monday that Russian Foreign Ministry spokeswoman Zakharova said Russia is working closely with Turkey to secure Black Sea shipping. Turkish foreign minister Hakan Fidan said Ankara has submitted a proposal to Moscow to end hostile actions in the Black Sea and is awaiting a response. Zakharova said the work is being carried out in close contact with Ankara.
+
+---
+
+### 2026-09-21 20:45:43  #其他
+
+安尼克薩生物科學的乳腺癌疫苗獲得澳大利亞專利。
+
+---
+
+### 2026-09-21 20:44:49  #公司 #國際
+
+【聯合國人工智慧小組評估美國智慧體“越界”事件】聯合國“人工智慧獨立國際科學小組”21日發表專題簡報，評估美國開放人工智慧研究中心（OpenAI）的人工智慧體今年7月在測試中“越界”，侵入美國“抱抱臉”公司系統的事件。
+
+---
+
+### 2026-09-21 20:43:29  #其他
+
+【力勤資源中籤號出爐 共約24.2萬個】力勤資源(001246)9月21日晚間披露首次公開發行股票網上中籤結果，中籤號碼共約24.2萬個，每個中籤號碼只能認購500股力勤資源股票。
+
+---
+
+### 2026-09-21 20:43:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. Trade Representative Greer said no options are off the table on sanctions related to Iran.
+
+---
+
+### 2026-09-21 20:42:38  #國際
+
+9月21日，全球基金淨賣出57.6億印度盧比的印度股票。
+
+---
+
+### 2026-09-21 20:42:31  #其他
+
+【國軒高科2026年將聯合生態夥伴共建2000公里歐非零碳物流通道】9月21日，國軒高科在2026世界製造業大會期間釋出中歐非新能源物流運輸一體化解決方案，方案核心載體為“電啦啦”移動儲充換一體化系統，可實現電動重卡2分15秒快速換電，無需土建施工，能夠靈活低成本完成場站部署。面向全球化佈局，國軒高科2026年將聯合GPM等生態合作伙伴，共建2000公里歐非零碳物流通道。
+
+---
+
+### 2026-09-21 20:42:15  #國際
+
+9月21日，印度國內基金淨買入280億印度盧比的印度股票。
+
+---
+
+### 2026-09-21 20:42:04  #其他
+
+【安徽涇縣一宣紙生產企業違規標註“中國馳名商標”等字樣被罰】9月20日，安徽省宣城市涇縣涇川鎮一宣紙生產企業因在電商平臺銷售的紀念宣紙外包裝袋及產品本體均違規標註“中國馳名商標”等字樣，違反《廣告法》相關規定，被處以10萬元罰款。（澎湃）
+
+---
+
+### 2026-09-21 20:41:46  #國際
+
+格里爾稱，針對伊朗相關制裁，一切選項均有可能。
+
+---
+
+### 2026-09-21 20:40:55  #其他
+
+AMC娛樂宣佈對全部未償債務發起要約收購，要約將於2026年9月30日到期。
+
+---
+
+### 2026-09-21 20:40:17  #央行 #市場 #國際
+
+【美股盤前要聞速遞】
+①美股三大股指期貨齊漲，道指期貨漲0.84%，標普500指數期貨漲0.66%，納指期貨漲1.05%。
+②德國DAX指數漲1.14%，英國富時100指數漲0.98%，法國CAC40指數漲1%，歐洲斯托克50指數漲1.35%。
+③WTI原油跌2.79%，報93.40美元/桶。布倫特原油跌2.75%，報101.01美元/桶。
+④中美經貿磋商在美國紐約舉行。
+⑤美國柴油價格創新高，全球供應緊張加劇。
+⑥芝加哥聯儲主席古爾斯比：需求或推升通脹，政策需保持警惕。
+⑦Greenland Energy盤前漲160%，Greenland Mines上漲超過90%，Critical Metals Corp盤前漲幅超24%，美國、丹麥和格陵蘭即將在本週二簽署新的格陵蘭安全協議。
+⑧英特爾盤前漲5.4%，攜手友達佈局Micro LED先進封裝。
+⑨Strategy盤前續漲超6%，比特幣浮盈擴大至50.2億美元，塞勒暗示或結束購幣空窗期。
+
+---
+
+### 2026-09-21 20:40:15  #MKT News
+
+U.S. Trade Representative Greer said the U.S. is working with Mexico to develop rules of origin.
+
+---
+
+### 2026-09-21 20:40:05  #MKT News
+
+【Traders: Russia sharply boosts August diesel exports to Central Asia】Traders said Russia sharply increased diesel shipments to Central Asia in August despite a ban on diesel exports to most overseas markets, driven by a recovery in production. August exports to Kazakhstan, Kyrgyzstan, Mongolia and Tajikistan more than doubled from July, totaling over 370,000 tonnes: Mongolia about 215,000 tonnes (vs 124,000 in July); Kyrgyzstan rose from 4,400 tonnes to more than 72,000 tonnes; Tajikistan from 16,000 tonnes to over 56,000 tonnes; Kazakhstan imported roughly 28,000 tonnes in August after zero in July. Jan–Aug exports to Central Asia and Afghanistan were about 2.50 mln tonnes, slightly below 2.60 mln tonnes in the same period of 2025. Traders said Russian diesel output has recovered to roughly 170,000 tonnes/day but remains insufficient for a return to large-scale exports; domestic diesel supply fell to about 4.70 mln tonnes in August from 5.00 mln tonnes in July.
+
+---
+
+### 2026-09-21 20:40:04  #公司
+
+【Strive過去一週增持1355枚比特幣，持倉達26355枚】據SEC檔案，比特幣儲備公司Strive（由Vivek Ramaswamy旗下資管公司與上市殼公司Asset Entities合併而來）9月14日至18日購入1355枚比特幣，均價約7.9475萬美元/枚（含手續費），持倉由2.5萬枚增至26355枚；同期現金儲備增加2540萬美元至2.296億美元。
+
+---
+
+### 2026-09-21 20:39:27  #MKT News #002074.SZ
+
+【Guoxuan High‑Tech unveils Xingchen high‑power battery for low‑altitude flight】On Sept. 21 at the 2026 World Manufacturing Conference, Guoxuan High‑Tech launched the Xingchen high‑power battery tailored for low‑altitude flight scenarios. Cell‑level energy density is 330 Wh/kg and 850 Wh/L; the pack supports fast‑charge and battery‑swap dual modes.
+
+---
+
+### 2026-09-21 20:38:34  #其他
+
+【國軒高科釋出低空飛行高功率星晨電池】9月21日，國軒高科在2026世界製造業大會期間釋出低空飛行高功率星晨電池。該電池面向低空場景定製化開發，電池電芯單體能量密度達330Wh/kg、850Wh/L；支援快充、換電雙模式。
+
+---
+
+### 2026-09-21 20:38:31  #國際
+
+【交通運輸部部長劉偉分別會見馬來西亞、澳大利亞、柬埔寨客人】在全球可持續交通高峰論壇（2026）和亞太經合組織（APEC）第十二屆運輸部長會議召開之際，9月21日，交通運輸部部長劉偉在京分別會見馬來西亞交通部部長陸兆福，澳大利亞基礎設施、交通、區域發展和地方政府部部長凱瑟琳·金，柬埔寨公共工程與運輸部大臣賓波尼，對各方率團來華出席活動表示熱烈歡迎。會談期間，中方分別與馬方、柬方簽署有關合作檔案。
+
+---
+
+### 2026-09-21 20:38:22  #國際
+
+【伊朗3至6月經濟同比萎縮逾10%】伊朗官方機構釋出的最新資料顯示，該國今年3月下旬至6月下旬的一個季度國內生產總值(GDP)同比下滑逾10%。法新社等媒體報道，伊朗統計中心20日釋出該國波斯歷一季度（3月21日至6月20日）的經濟資料。資料顯示，在這一時期，伊朗包含油氣行業在內的GDP同比萎縮10.1%；如果不計入油氣行業，GDP同比下降4.6%。從具體領域來看，伊朗油氣行業產值降幅最大，同比驟降26.4%；工業和礦業的產值同比下降14.7%。（新華社）
+
+---
+
+### 2026-09-21 20:38:07  #MKT News #MU.O
+
+Micron Technology (MU.O) will hold the next round of mediation with the union on Oct. 22.
+
+---
+
+### 2026-09-21 20:37:56  #MKT News #MU.O #Impact bearish
+
+Micron Technology (MU.O) said its request to continue mediation with the Taoyuan union in Taiwan was denied.
+
+---
+
+### 2026-09-21 20:37:51  #國際
+
+格里爾稱，美國正與墨西哥共同制定原產地規則。
+
+---
+
+### 2026-09-21 20:37:28  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
+
+【Ministry of Industry and Information Technology to optimize radio spectrum allocation】China’s Ministry of Industry and Information Technology (MIIT) said it will optimise radio spectrum allocation to drive wireless technology innovation, support the wireless industry and strengthen the industrial base. Speaking at the 2026 China Radio Conference, which opened on the 21st in Xiong'an New Area, Hebei, an MIIT official said the ministry will pursue scientific spectrum planning, precise supply, rational development and efficient use to accelerate construction of a modern industrial system anchored by advanced manufacturing. The ministry also pledged to build innovation platforms to link radio R&D with industrial application; enhance radio governance by improving laws, regulations and standards, expanding monitoring and interference enforcement, and cracking down on illegal spectrum use and unauthorised stations; and deepen international cooperation, including hosting the ITU 2027 World Radiocommunication Conference.
+
+---
+
+### 2026-09-21 20:37:17  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【U.S. Treasury Secretary Bessent says he and President Trump back Fed Chair Kevin Warsh】Treasury Secretary Bessent said he and President Trump have confidence in Fed Chair Kevin Warsh. He added core inf has not risen, all indicators are unchanged, and they will continue to monitor the energy sector for potential supply shocks.
+
+---
+
+### 2026-09-21 20:37:06  #公司
+
+【鴻富誠：披露首次公開發行股票並在創業板上市發行結果】鴻富誠公告稱，公司首次公開發行股票並在創業板上市，發行價格76.86元/股，發行數量1873.0606萬股，全部為公開發行新股。本次發行最終戰略配售數量561.9181萬股，佔發行總量30%；啟動回撥後，網下、網上最終發行數量均為655.5925萬股、655.5500萬股，各佔扣除戰略配售後發行數量的50%，網上中籤率0.0141%。網上投資者放棄認購2.4375萬股，由華源證券包銷，包銷金額187.35萬元，包銷股份佔總發行數量的0.13%。本次發行費用總額1.43億元。
+
+---
+
+### 2026-09-21 20:37:01  #MKT News
+
+【China transport minister Liu Wei meets Malaysian, Australian and Cambodian counterparts】On Sept. 21 in Beijing, Transport Minister Liu Wei met separately with Malaysia’s transport minister Anthony Loke, Australia’s infrastructure and transport minister Catherine King, and Cambodia’s public works and transport minister. China signed cooperation agreements with Malaysia and Cambodia during the meetings.
+
+---
+
+### 2026-09-21 20:36:54  #公司
+
+【慧博雲通：擬5470萬元收購南京金信49%股權】慧博雲通9月21日公告，公司擬以現金方式收購卞雯麗持有的南京慧博金信科技有限公司49.00%股權，交易對價合計為人民幣5470萬元。本次交易完成後，公司持有南京金信的股權比例將由51.00%上升至100.00%，南京金信將成為公司全資子公司。
+
+---
+
+### 2026-09-21 20:36:44  #公司
+
+【北京君正：9月21日回購37萬股A股 擬用於員工持股計劃】北京君正公告稱，公司於2026年9月21日透過深圳證券交易所回購A股股份370,000股，佔事件前已發行股份總數的0.0765%，回購價格區間為每股145.12元-148.53元，成交總金額為5420.65萬元，本次回購股份擬持作庫存股，用於員工持股計劃的未來運作。截至2026年9月21日，公司已發行股份總數為483,664,367股，庫存股份數量為370,000股。
+
+---
+
+### 2026-09-21 20:36:38  #Trading Economics #Economy #United States #Chicago Fed National Activity Index #Importance 2
+
+Chicago Fed Activity Index Down in August — The Chicago Fed National Activity Index in the US decreased to -0.04 in August 2026 from an upwardly revised +0.08 in July, suggesting economic growth decreased. Production-related indicators contributed -0.07, down from 0.00 in July. The sales, orders, and inventories category's contribution was 0.00 in August, down from +0.15 in July. On the other hand, employment-related indicators contributed +0.01, up from -0.01 in July. The personal consumption and housing category's contribution was +0.01 in August, up from -0.06 in July. The index's three-month moving average, CFNAI-MA3, increased to +0.01 in August from -0.01 in July.
 
 ---
 
@@ -12314,245 +12503,5 @@ U.S. military said it struck a vessel suspected of drug trafficking in the Carib
 ### 2026-09-20 06:17:39  #焦點 #國際
 
 美國敦促在伊拉克、巴林、阿曼、沙烏地阿拉伯、伊朗、卡達、黎巴嫩、科威特和約旦的該國公民保持謹慎，並警告沙特與胡塞武裝之間的衝突可能“快速升級”。
-
----
-
-### 2026-09-20 06:05:04  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-US embassies and consulates in Iran, Iraq, Lebanon, Kuwait, Bahrain and Jordan issued security alerts in recent days, warning that persistent Middle East tensions and a complex regional security environment leave open the possibility of further escalation.
-
----
-
-### 2026-09-20 06:04:59  #國際
-
-法國總統埃馬克龍表示，美國、丹麥與格陵蘭達成的協議有助於“重申丹麥對這片北極領土擁有主權”。
-
----
-
-### 2026-09-20 05:59:14  #其他
-
-土耳其外長：土耳其與其他國家正在提交相關方案，並盡一切努力促成美伊談判取得成果。
-
----
-
-### 2026-09-20 05:58:12  #國際
-
-【美戰機攔截闖入特朗普度假地飛機】據美國媒體報道，當地時間9月19日上午，一架飛機進入馬里蘭州總統度假地戴維營上空的限制空域。北美防空司令部出動一架F-16戰鬥機進行攔截。事發時，美國總統特朗普正在戴維營。類似的事情此前也曾多次發生。今年8月9日，至少三架飛機在新澤西州貝德明斯特附近違反臨時飛行限制，被緊急升空的美軍戰機攔截或驅離。當時特朗普正在當地度週末。 （CCTV國際時訊）
-
----
-
-### 2026-09-20 05:54:13  #市場 #國際
-
-【北卡大學捐贈基金收益率大漲37.8%，早期SpaceX投資功不可沒】截至6月的財年，美國北卡羅來納大學捐贈基金取得37.8%的回報率，憑藉對SpaceX的投資跑贏同類機構。該業績是威爾希爾信託全球對比服務估算同期規模超5億美元捐贈基金費用前18.9%回報率中位數的兩倍。北卡羅來納大學捐贈基金仍持有價值超10億美元的SpaceX股票，這筆投資收益將幫助學校緩解聯邦科研經費削減和生源下降帶來的財務壓力。
-
----
-
-### 2026-09-20 05:48:08  #國際
-
-美國駐馬斯喀特大使館釋出新警報，提醒在阿曼的美國公民做好準備，防範航班取消、空域關閉以及出行受阻等情況。
-
----
-
-### 2026-09-20 05:43:05  #其他
-
-【沙特主導聯軍稱攔截一枚射向利雅得的胡塞武裝導彈】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基19日說，沙特防空部隊當天凌晨攔截了一枚葉門胡塞武裝向沙特首都利雅得發射的彈道導彈。（新華社）
-
----
-
-### 2026-09-20 05:31:43  #MKT News
-
-【Iran sets seven conditions for talks with US】On the evening of Sept. 19, Mohsen Rezaei, secretary of Iran’s Supreme National Security Council, said Tehran has presented seven conditions the US must meet to open negotiations. Rezaei said Qatar, acting as mediator, has conveyed the conditions to Washington and is awaiting a response from President Trump. He said Iran’s demands include an end to all US hostilities against Iran, unfreezing Iran’s frozen assets and lifting a maritime blockade; Tehran’s message is that the US has no way out except by accepting these terms if it seeks to avoid deeper entanglement.
-
----
-
-### 2026-09-20 05:30:49  #公司
-
-【派拉蒙併購案和解談判進展，擬承諾留在加州、每年院線發行30部電影】派拉蒙天舞公司與加州官員的和解談判中，包含該公司承諾留在加州的條款。其他正在商議的條款包括設立編輯委員會監督CNN、派拉蒙每年在院線發行30部電影，以及出售部分有線電影片道。任何和解方案大機率需要全部12個發起訴訟阻止本次併購的民主黨州以及編劇工會的支援。
-
----
-
-### 2026-09-20 05:29:32  #MKT News #PSKY.O
-
-Sources say Paramount (PSKY.O) settlement talks include a commitment to remain in California.
-
----
-
-### 2026-09-20 05:28:36  #焦點 #國際
-
-【伊朗向美國開出7項談判條件】當地時間9月19日晚，伊朗最高國家安全委員會秘書穆赫辛·雷扎伊表示，伊朗已向美國政府列出了開啟任何談判所需的7項條件。伊朗發出的資訊明確，即“如果美國希望擺脫其一手造成的困境，並避免越陷越深，那麼除了接受伊朗的條件外，別無他途”。雷扎伊當天接受採訪時證實，卡達作為調解方已向美國方面轉達伊朗的談判條件，正等待美國總統特朗普的回應。雷扎伊說，伊朗提出的談判條件是美國結束所有針對伊朗的戰事、解凍被凍結的伊朗資產並結束海上封鎖等。（CCTV國際時訊）
-
----
-
-### 2026-09-20 05:27:33  #其他
-
-市場資訊：派拉蒙承諾繼續留在加州運營，不把業務遷出該州，以此換取推進併購的和解條件。
-
----
-
-### 2026-09-20 05:15:09  #MKT News
-
-【Former Chilean president withdraws from UN secretary-general race】Former Chilean president Michelle Bachelet on Sept. 19 said via social media she has withdrawn from contention for the next UN secretary-general. The selection process, which began in November, originally included eight candidates. The UN Security Council held a third round of indicative, closed-door voting on Sept. 18; results are not officially recorded or published. Media leaks from the polls indicate Costa Rica’s Rebeca Grynspan, current UN Conference on Trade and Development (UNCTAD) secretary-general, and Guyana’s UN ambassador Carolyn Rodrigues-Birkett were leading. Incumbent António Guterres of Portugal took office in Jan. 2017, was reappointed in 2021, and his term runs through Dec. 31 this year.
-
----
-
-### 2026-09-20 05:12:26  #其他
-
-【智利前總統退出聯合國秘書長遴選】當地時間9月19日，智利前總統米歇爾·巴切萊特透過社交媒體平臺宣佈，放棄繼續競選下一任聯合國秘書長。 下任聯合國秘書長遴選於去年11月啟動。除巴切萊特外，還有7名候選人。9月18日，安理會就此舉行第三輪意向性投票。意向性投票採取閉門方式，只有安理會成員代表在場，投票結果不作官方記錄、不對外公佈。但從媒體透露出來的三輪意向性投票結果來看，來自哥斯大黎加的現任聯合國貿易和發展會議秘書長蕾韋卡·格林斯潘、蓋亞那現任常駐聯合國代表卡羅琳·羅德里格斯－伯基特排名靠前。 現任聯合國秘書長古特雷斯來自葡萄牙，2017年1月上任，2021年獲得連任，任期至今年12月31日。（CCTV國際時訊）
-
----
-
-### 2026-09-20 05:06:39  #MKT News #WTI #Impact bullish #Brent
-
-【Turkish FM says Turkey may provide military-technical aid to Saudi Arabia】Turkish Foreign Minister Hakan Fidan said on the 19th that, following recent attacks on Saudi Arabia, Turkey will honor the Makkah Joint Defense Agreement and may provide Saudi Arabia with military-technical assistance. He said signatories are closely monitoring Houthi attacks from Yemen and condemned strikes on oil infrastructure, adding Saudi requests for aid would likely be technical areas Turkey can meet. Fidan dismissed claims the pact’s substantive progress has been slow.
-
----
-
-### 2026-09-20 05:04:57  #其他
-
-【土外長稱土耳其或給予沙特軍事技術援助】土耳其外長費丹19日表示，針對沙烏地阿拉伯近期遭受襲擊，土耳其將信守《麥加共同防務協議》承諾，並可能給予沙特軍事技術方面的援助。 費丹在參加土耳其NTV電視臺節目時表示，協議簽署國正在密切關注葉門胡塞武裝對沙特的襲擊。他說：“我們在這個問題上團結一致。協議中包含相關條款，我們將信守承諾。”他特別譴責針對石油基礎設施的襲擊。（新華社）
-
----
-
-### 2026-09-20 05:01:19  #國際
-
-伊朗外交部表示，不期待巴基斯坦內政部長在週日的會談中代為傳遞來自美國的訊息。
-
----
-
-### 2026-09-20 04:44:51  #市場 #焦點
-
-暗盤白銀突破62美元/盎司，日內漲幅4%。
-
----
-
-### 2026-09-20 04:44:04  #公司 #焦點
-
-【胡塞武裝稱襲擊沙特首都敏感目標】當地時間9月19日晚，葉門胡塞武裝發言人葉海亞·薩雷亞釋出影片宣告稱，為回應沙特對葉門的空襲，胡塞武裝當天發動兩次軍事行動，發射大量導彈和無人機，襲擊了沙特首都利雅得的“敏感目標”以及沙特阿美石油公司位於延布的設施。（CCTV國際時訊）
-
----
-
-### 2026-09-20 04:33:46  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Australian Prime Minister ALBANESE met with Apple (AAPL.O) executive chairman Cook at Apple headquarters to discuss protecting children from online harm.
-
----
-
-### 2026-09-20 04:29:58  #其他
-
-澳大利亞總理：與庫克討論了兒童網路安全問題。
-
----
-
-### 2026-09-20 04:28:35  #其他
-
-澳大利亞總理：今日在蘋果總部會見蒂姆·庫克。
-
----
-
-### 2026-09-20 04:25:40  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Jordan's foreign ministry condemned the Houthi launch of ballistic missiles at Saudi capital Riyadh.
-
----
-
-### 2026-09-20 04:18:08  #其他
-
-沙烏地阿拉伯證實胡塞武裝企圖襲擊首都。
-
----
-
-### 2026-09-20 04:13:56  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-【Saudi says air defences intercepted ballistic missile fired toward Riyadh】Saudi Arabia's defense ministry said air defence forces intercepted and destroyed a ballistic missile fired by Houthi militants toward Riyadh in the early hours of Sept. 19 local time. Saudi-led coalition spokesman Turki al-Maliki said Houthis also attempted strikes on Bish, Taif, Farasan and Yanbu, and that those attacks were intercepted by Saudi air defences. Maliki accused the Houthis of sustained attacks on Saudi cities and civilian infrastructure and said the coalition would take measures it deems necessary in response.
-
----
-
-### 2026-09-20 04:10:30  #MKT News
-
-The Information, citing an insider, reports OpenAI is close to solving the Hodge Conjecture, one of the seven Millennium Prize Problems.
-
----
-
-### 2026-09-20 04:09:40  #市場 #焦點
-
-美銅暗盤跌破6.7美元，日內跌幅0.6%。
-
----
-
-### 2026-09-20 04:09:06  #公司 #市場 #焦點
-
-【OpenAI即將攻克又一道千禧年大獎數學難題】據瞭解該研究進展的知情人士透露，事實證明，OpenAI距離攻克千禧年大獎難題中的另一道題目已近在咫尺，此前那道難題是納維‑斯托克斯方程解的存在性與光滑性問題。該知情人士表示，公司內部員工預計，下一個待攻克難題，霍奇猜想，很快就將得到解決。克雷數學研究所提出的霍奇猜想探討：由多項式方程定義的幾何體，其特定幾何特徵是否始終可以用更簡單的代陣列件來描述。知情人士同時稱，不過OpenAI可能會花費更長時間才對外公佈該結果。公司正研究如何與數學界協作釋出這項成果，避免再次上演一場公關危機。
-
----
-
-### 2026-09-20 04:07:50  #其他
-
-據知情人士透露，OpenAI即將攻克七大千禧年大獎難題中的另一道——霍奇猜想。
-
----
-
-### 2026-09-20 03:58:22  #其他
-
-【央視曝光迴流藥黑色產業鏈：司美格魯肽成變質迴流藥重災區】在網路售藥平臺，不少在售的藥品價格遠低於實體門店，實際暗含“迴流藥”風險。廣州醫保部門依託“藥品追溯碼”大資料模型預警，對可疑人員就醫軌跡深入研判，經過縝密摸排、連續蹲守，聯合公安機關開展專項行動，成功打掉一個收藥倒藥的犯罪團伙。據瞭解，這一系列案件中，涉案金額最大的藥品就是司美格魯肽。目前，警方已查獲多處涉案藥品倉儲窩點，當場扣押8000餘盒涉案藥品。
-
----
-
-### 2026-09-20 03:49:22  #MKT News
-
-【General aviation plane enters temporary restricted airspace near Camp David during Trump's visit; NORAD scrambles F-16s】NORAD said at about 7:50 a.m. local time on Sept. 19 (19:50 Beijing time) a general aviation aircraft entered a temporary flight restriction near Thurmont, Maryland, while President Trump was at Camp David. NORAD dispatched F-16s to intercept and released flares to alert the pilot; the aircraft left the restricted area under fighter escort. NORAD said the flares burned out quickly and posed no danger to people on the ground.
-
----
-
-### 2026-09-20 03:39:49  #其他
-
-沙特領導的聯軍稱挫敗了胡塞武裝對沙特城市比什、塔伊夫、法拉桑和延布平民的襲擊。
-
----
-
-### 2026-09-20 03:39:46  #MKT News
-
-Saudi-led coalition said it foiled Houthi attacks targeting civilian sites in the Saudi cities of Bish, Taif, Farasan and Yanbu.
-
----
-
-### 2026-09-20 03:38:46  #其他
-
-沙特領導的聯軍表示，週六攔截並摧毀了葉門胡塞武裝向利雅得發射的一枚彈道導彈。
-
----
-
-### 2026-09-20 03:38:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi-led coalition said it intercepted and destroyed a ballistic missile launched at Riyadh on Saturday by Yemen’s Houthi movement.
-
----
-
-### 2026-09-20 03:37:13  #國際
-
-伊朗最高國家安全委員會秘書雷扎伊：伊朗已向美國政府公佈開啟任何談判的七項條件。德黑蘭的訊息清晰明確，如果華盛頓想要擺脫自身製造的泥潭、避免進一步深陷其中，就必須接受伊朗的權利與條件。
-
----
-
-### 2026-09-20 03:34:52  #MKT News
-
-【Turkish foreign minister Fidan says Turkey will not accept Saudi being drawn into US‑Iran conflict】On Sept. 19 local time, Turkish foreign minister Fidan said, in response to questions on clashes between Saudi Arabia and Yemen’s Houthi movement, that Turkey will not accept Saudi being drawn into the current US‑Iran confrontation and that Saudi does not intend to be pulled in. He added recent attacks on Saudi territory, sovereignty and infrastructure have been serious and that proposals to end the fighting have been conveyed to the parties.
-
----
-
-### 2026-09-20 03:34:01  #國際
-
-【土耳其外長：不接受沙特被捲入美伊衝突】當地時間9月19日，土耳其外交部長費丹接受採訪。在被問及沙烏地阿拉伯與葉門胡塞武裝之間的衝突時，費丹表示，土方不接受沙特被捲入當前美國與伊朗之間的衝突，沙特自身也無意捲入衝突。他表示，近期針對沙特領土完整、主權和基礎設施的襲擊十分嚴重。費丹稱，旨在結束戰鬥的有關方案已轉達各方。（央視新聞）
-
----
-
-### 2026-09-20 03:33:23  #MKT News
-
-US F-16 fighter jet intercepted an aircraft that breached the Camp David no-fly zone while President Trump was at Camp David.
-
----
-
-### 2026-09-20 03:28:11  #國際
-
-斯洛伐克總理菲佐稱，西方部分勢力企圖挑起俄羅斯與北約之間的戰爭。
 
 ---
