@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-27 00:17:42",
-  "count": 11931,
+  "updated": "2026-09-27 00:21:41",
+  "count": 11934,
   "items": [
+    {
+      "id": "mkt:01a0de85-3b4d-7118-86a8-b67395ea8df6",
+      "time": "2026-09-27 00:21:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces said it killed a Nukhba (Hamas elite) platoon commander and another Hamas operative."
+    },
+    {
+      "id": "5114400",
+      "time": "2026-09-27 00:20:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿曼外交大臣：已在紐約與伊朗外長就緩解緊張局勢及確保霍爾木茲海峽航行安全的努力進行了探討。"
+    },
+    {
+      "id": "5114399",
+      "time": "2026-09-27 00:17:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫：美國和以色列的侵略行動將矛頭對準了民用基礎設施以及受國際原子能機構（IAEA）保障監督的伊朗核設施。"
+    },
     {
       "id": "5114398",
       "time": "2026-09-27 00:16:59",
