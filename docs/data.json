@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-27 06:14:33",
-  "count": 11989,
+  "updated": "2026-09-27 06:18:21",
+  "count": 11990,
   "items": [
+    {
+      "id": "5114548",
+      "time": "2026-09-27 06:17:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門政府軍指控胡塞武裝使用伊朗提供的防空武器，對紅海上空的民用和軍用飛機構成威脅。"
+    },
+    {
+      "id": "mkt:01a0dfca-fac6-7118-86aa-beb484f65139",
+      "time": "2026-09-27 06:16:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. to lower vehicle fuel-economy standards; fuel use and emissions likely to rise】U.S. officials said on Saturday the U.S. Transportation Department (DOT) will on Monday finalize a rule sharply lowering vehicle fuel-economy standards applicable through 2031. The move reverses the Biden-era push to steer automakers toward more electric vehicles. President Trump said he has approved the new car and truck fuel-economy standards and that they will reduce new-vehicle prices. Transportation Secretary Duffy said, \"American auto workers will welcome a major victory on Monday.\" DOT's own estimates show the rule would cut new-car costs but raise fuel consumption and CO2 emissions over the coming decades."
+    },
     {
       "id": "5114547",
       "time": "2026-09-27 06:06:17",
@@ -109260,15 +109279,6 @@
         "國際"
       ],
       "text": "白宮隨行記者：特朗普定於今晚從戴維營返回白宮。"
-    },
-    {
-      "id": "5103573",
-      "time": "2026-09-20 06:17:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國敦促在伊拉克、巴林、阿曼、沙烏地阿拉伯、伊朗、卡達、黎巴嫩、科威特和約旦的該國公民保持謹慎，並警告沙特與胡塞武裝之間的衝突可能“快速升級”。"
     }
   ]
 }
