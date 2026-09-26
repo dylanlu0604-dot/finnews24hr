@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-26 15:20:22",
-  "count": 11966,
+  "updated": "2026-09-26 15:24:11",
+  "count": 11967,
   "items": [
+    {
+      "id": "5114261",
+      "time": "2026-09-26 15:20:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【火車票預約購票試點服務調整預約日期範圍】從中國國家鐵路集團有限公司客運中心獲悉，9月26日起，鐵路部門對京滬高鐵、京滬鐵路試點的火車票預約購票服務的可預約日期範圍從開車前第60天至第17天，逐步調整為開車前第30天至第17天。旅客透過鐵路12306手機客戶端“預約購票”專區填報預約需求，9月26日當天可預約11月24日前車票；9月27日至10月26日為調整過渡期，最遠可預約11月24日的車票；10月27日起，可常態化預約開車前第30天至第17天的火車票。國鐵集團客運中心負責人介紹，自7月20日試點火車票預約購票服務以來，為不斷提升旅客購票體驗，更好地匹配運能與需求關係，鐵路部門對預約訂單的相關資料進行了認真分析，廣泛收集梳理了使用者反饋的意見建議，並對系統進行了最佳化，從9月26日起，將預約購票服務的最遠預約日期由60天逐步調整為30天，方便旅客合理規劃行程。該負責人表示，目前在京滬高鐵、京滬鐵路試點的火車票預約購票服務，除預約日期範圍調整外，預約車票的兌現、退票、改簽等其他各項服務及規則保持不變。（新華社）"
+    },
+    {
+      "id": "mkt:01a0dc96-1184-7118-86a6-8788fb627b81",
+      "time": "2026-09-26 15:20:17",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bearish"
+      ],
+      "text": "Ford (F.N) is recalling 11,405 vehicles in the US after rearview camera images may fail to display, reducing rearward visibility and increasing collision risk."
+    },
     {
       "id": "5114260",
       "time": "2026-09-26 15:18:31",
@@ -109111,14 +109129,6 @@
         "Brent"
       ],
       "text": "【IRNA: Trump rhetoric fails to mask trouble; war's economic toll raises midterm stakes, GOP war‑weariness grows】Iranian state news agency IRNA said Trump told News Nation that Iran wants a deal but offered only \"we'll see what happens.\" IRNA said the economic cost of the conflict with Iran is intensifying pressure on Trump ahead of the midterms, and that he is facing domestic and international criticism. It added some Republicans are growing war‑weary and increasingly worried prolonged hostilities could lift oil prices and hurt GOP midterm prospects."
-    },
-    {
-      "id": "5103148",
-      "time": "2026-09-19 15:23:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鑽爆法隧道智慧建造解決方案發布】記者19日從中國中鐵股份有限公司獲悉，由中鐵隧道局等單位共同打造的鑽爆法隧道智慧建造解決方案正式釋出，標誌著我國鑽爆法隧道施工跨入智慧建造時代。據中鐵隧道局有關負責人介紹，該方案聚焦隧道及地下工程智慧建造場景，構建“掌子面—專案部—企業”三級數智化架構，打造“現場感知、邊緣計算、雲端決策”的智慧建造體系，實現隧道建造多工序智慧化作業、專案全業務協同管理、企業多系統快速決策。目前，上述成果正在長贛高鐵等專案常態化應用，為隧道及地下工程領域打造一條可複製、可推廣的智慧建造創新實踐路徑。這位負責人表示，當前，人工智慧技術加速演進，隧道工程行業數字化、智慧化變革持續深化。中鐵隧道局將持續推進跨界融合、創新攻關，助力隧道及地下工程建設數智化轉型升級。（新華社）"
     }
   ]
 }
