@@ -1,7 +1,31 @@
 {
   "date": "2026-09-26",
-  "count": 650,
+  "count": 653,
   "items": [
+    {
+      "id": "mkt:01a0dc7d-6414-7118-86a6-64b3bea57dbb",
+      "time": "2026-09-26 14:53:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russian air-defence systems destroyed 645 Ukrainian drones overnight across multiple locations."
+    },
+    {
+      "id": "5114252",
+      "time": "2026-09-26 14:53:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "昨天（9月25日），中秋假期首日，廣東全省高速公路網單日車流量約820.77萬車次。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0dc7d-2bb6-7118-86a6-5a58e4b6bfec",
+      "time": "2026-09-26 14:53:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangdong highways record about 8.21 mln vehicle trips on first day of Mid‑Autumn holiday】On Sept 25, Guangdong provincial transport department said highway traffic on the first day of the Mid‑Autumn holiday totaled about 8.2077 million vehicle trips, with Greater Bay Area highways accounting for roughly 6.7667 million. Bridge counts: Hong Kong–Zhuhai–Macao Bridge ~16,800; Shenzhen–Zhongshan Link ~122,700; Humen Bridge ~115,400; Nansha Bridge ~140,700; Huangpu Bridge ~129,700. Key waterways: Qiongzhou Strait ferries handled 36,000 passengers and 10,100 vehicle entries/exits; Pearl River passenger traffic ~16,800."
+    },
     {
       "id": "5114251",
       "time": "2026-09-26 14:48:51",

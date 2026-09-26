@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-26 14:52:58",
-  "count": 11964,
+  "updated": "2026-09-26 14:56:49",
+  "count": 11966,
   "items": [
+    {
+      "id": "mkt:01a0dc7d-6414-7118-86a6-64b3bea57dbb",
+      "time": "2026-09-26 14:53:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said Russian air-defence systems destroyed 645 Ukrainian drones overnight across multiple locations."
+    },
+    {
+      "id": "5114252",
+      "time": "2026-09-26 14:53:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "昨天（9月25日），中秋假期首日，廣東全省高速公路網單日車流量約820.77萬車次。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0dc7d-2bb6-7118-86a6-5a58e4b6bfec",
+      "time": "2026-09-26 14:53:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangdong highways record about 8.21 mln vehicle trips on first day of Mid‑Autumn holiday】On Sept 25, Guangdong provincial transport department said highway traffic on the first day of the Mid‑Autumn holiday totaled about 8.2077 million vehicle trips, with Greater Bay Area highways accounting for roughly 6.7667 million. Bridge counts: Hong Kong–Zhuhai–Macao Bridge ~16,800; Shenzhen–Zhongshan Link ~122,700; Humen Bridge ~115,400; Nansha Bridge ~140,700; Huangpu Bridge ~129,700. Key waterways: Qiongzhou Strait ferries handled 36,000 passengers and 10,100 vehicle entries/exits; Pearl River passenger traffic ~16,800."
+    },
     {
       "id": "5114251",
       "time": "2026-09-26 14:48:51",
@@ -109100,14 +109124,6 @@
         "國際"
       ],
       "text": "【玉淵譚天：3年13次修改使用者隱私協議，Anthropic將全球使用者資料交給美情報機構】9月12日，Anthropic執行長達里奧·阿莫代伊、OpenAI執行長薩姆·奧爾特曼和xAI創始人埃隆·馬斯克在美國深夜罕見地公開達成共識，認為AI發展需要降速。\n\n弔詭的是，高喊AI安全的阿莫代伊，現實行動卻與之相悖。\n\n9月14日，外媒披露，英偉達等多家美國企業已經開始限制或停止使用Anthropic的前沿模型。美國企業開始不再使用美國大模型，導火索之一就是Anthropic單方面修改資料留存協議：強制留存使用者互動資料30天，用於安全審查，且使用者無權拒絕。這不是它第一次修改使用者資料協議。\n\n譚主梳理了自2023年Anthropic釋出首版《隱私政策》以來的13次版本修訂，並將其與隱私資訊管理體系標準ISO/IEC 27701進行對比，發現Anthropic使用者隱私資料安全風險越來越高。\n\n要成為情報中心，光有資料不夠，還要有人。2026年7月，Anthropic官網釋出了三個“威脅情報經理”崗位。其中兩個崗位優先考慮以下條件：流利掌握普通話或俄語等語言，具備在政府或軍事環境下進行情報分析的經驗，並持有美國“最高機密安全許可”，分別負責調查使用者互動資料中是否有外國政府支援的輿論操縱或模型“蒸餾”。\n\n到了9月10日，一份與7月招聘崗位職責內容高度一致的Anthropic威脅情報報告發布，分析了約2億次使用者與Claude模型之間涉嫌所謂“蒸餾”的互動資料。\n\n先從全世界收集資料定義“威脅”，再招募“自己人”分析資料，然後把公司安全標準變成美國標準。當美國標準再被推向全世界時，阿莫代伊口中的“AI發展風險”自然也就不存在了。"
-    },
-    {
-      "id": "5103139",
-      "time": "2026-09-19 14:53:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海國投在生物醫藥領域投資金額超300億元】在2026 張江藥谷大會暨生物醫藥產業週上海國投專場上，上海國投公司黨委委員、副總裁陸雯介紹，上海國投公司聚焦三大先導產業和未來產業，在生物醫藥領域，透過股權直投和子基金佈局，投資生物醫藥專案超800個，投資金額超300億元，投早投小比例約70%，重點投向創新藥械、細胞與基因治療、腦機介面、合成生物學、AI+，以及產業鏈自主可控的關鍵環節。今年以來，生物醫藥板塊投資金額近40億元，其中子基金13個，直投專案超30個。(第一財經)"
     }
   ]
 }
