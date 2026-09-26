@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-26 20:20:20",
-  "count": 11916,
+  "updated": "2026-09-26 20:24:32",
+  "count": 11910,
   "items": [
+    {
+      "id": "5114321",
+      "time": "2026-09-26 20:22:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱飛往土耳其和巴基斯坦的航班已恢復運營。"
+    },
     {
       "id": "5114320",
       "time": "2026-09-26 20:18:37",
@@ -108597,72 +108605,6 @@
         "MKT News"
       ],
       "text": "【Shenghong Technology responds to investor question on 50% YoY equity-incentive target】In response to an investor asking whether this year’s equity-incentive target represents a 50% YoY increase, Shenghong Technology said management set performance targets after weighing industry trends, market competition, the company’s development plan and customer order visibility. The company said the targets reflect confidence while remaining challenging; management and the core team are firmly confident of meeting them and will pursue measures — optimizing product mix, improving product yields and delivery capability, and diversifying the customer base — to drive sustained improvement in operating quality and results."
-    },
-    {
-      "id": "5103244",
-      "time": "2026-09-19 20:24:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公司股權激勵的目標是今年要比去年增長50%？勝宏科技回應】針對投資者提問“公司股權激勵的目標是今年要比去年增長50%，可以實現嗎？”勝宏科技表示，公司股權激勵的業績考核目標是管理層綜合考慮了行業發展狀況、市場競爭情況、公司未來的發展規劃以及客戶訂單能見度等因素設定，既體現了公司對未來成長的信心，也兼顧了目標的挑戰性與可實現性。管理層及核心團隊對完成本次激勵計劃設定的考核目標有堅定信心，並將透過進一步最佳化產品結構、提升產品良率與交付能力、多元化客戶結構等措施，全力以赴推動公司經營質量和業績持續提升。"
-    },
-    {
-      "id": "5103243",
-      "time": "2026-09-19 20:23:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟經濟事務專員東布羅夫斯基斯：烏克蘭滿足改革要求是獲得資金的關鍵。"
-    },
-    {
-      "id": "mkt:01a0b99f-5b71-7118-8610-4975352e9555",
-      "time": "2026-09-19 20:23:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Shenghong Technology: mSAP capacity demand strong; will allocate capacity to customer needs】On Sept. 18 Shenghong Technology said its Huizhou mSAP workshop is producing 1.6T optical modules, with orders on hand full and capacity utilization at healthy levels. Demand for mSAP capacity remains strong; the company is in close contact with customers and will allocate future capacity around customer requirements."
-    },
-    {
-      "id": "5103242",
-      "time": "2026-09-19 20:23:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勝宏科技：目前mSAP產能需求旺盛 將圍繞客戶需求進行產能佈局】勝宏科技9月18日在現場參觀時表示，公司在惠州配置了mSAP車間，該產能目前用於滿足1.6T光模組的生產需求，當前在手訂單飽滿，產能利用率處於良好水平。目前mSAP產能需求旺盛，公司與相關客戶保持密切溝通，將圍繞客戶需求進行產能佈局。"
-    },
-    {
-      "id": "mkt:01a0b99e-cdc3-7118-8610-4086df026fe6",
-      "time": "2026-09-19 20:23:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC said an automatic determination recorded an about magnitude-4.2 earthquake at 20:19 on Sept 19 near Shenza County, Nagqu, Tibet (32.03N, 89.29E). Final parameters await the official rapid bulletin."
-    },
-    {
-      "id": "mkt:01a0b99d-c0aa-7118-8610-3f56367de874",
-      "time": "2026-09-19 20:21:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【ECB policymaker Stournaras warns on upside inflation risk, says no rush to act】ECB board member Stournaras said the bank must remain vigilant to upside inflation risks but should not act hastily. He sees no second-round, wage-driven inflation effects yet but cautioned that could change amid persistent supply shocks and stronger demand from fiscal expansion and AI investment. With just over a month until the next policy decision he has not decided and will look to ECB staff projections. If September brings an inflation spike or a rise in energy costs that moves the outlook into an adverse scenario, an October rate hike cannot be ruled out; conversely, doubts would argue for waiting for the next projections. He added that this week’s Fed rate increase bolsters Fed and global monetary policy credibility and also helps the ECB."
-    },
-    {
-      "id": "5103241",
-      "time": "2026-09-19 20:21:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄軍夜襲基輔州物流設施 該設施被用於存放來自歐洲的軍用物資】9月19日，俄羅斯國防部發布通報稱，俄軍夜間對烏克蘭多個物流中心、港口及交通基礎設施發動打擊。 通報稱，俄軍打擊了位於基輔州的一處海關物流中心，該設施被用於存放來自歐洲的軍用物資。（參考訊息）"
     }
   ]
 }
