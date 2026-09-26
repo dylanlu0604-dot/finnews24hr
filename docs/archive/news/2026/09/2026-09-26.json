@@ -1,7 +1,31 @@
 {
   "date": "2026-09-26",
-  "count": 527,
+  "count": 530,
   "items": [
+    {
+      "id": "mkt:01a0db46-6913-7118-86a4-e0ac91a32ab5",
+      "time": "2026-09-26 09:13:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Blue House said South Korea's Lee urged Seoul and Mexico to conclude a free trade agreement."
+    },
+    {
+      "id": "mkt:01a0db46-299e-7118-86a4-dd8f3bf51de7",
+      "time": "2026-09-26 09:13:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense said the danger in ABHA has passed."
+    },
+    {
+      "id": "5114170",
+      "time": "2026-09-26 09:12:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統呼籲韓國與墨西哥簽署自由貿易協定。"
+    },
     {
       "id": "5114169",
       "time": "2026-09-26 09:08:30",
