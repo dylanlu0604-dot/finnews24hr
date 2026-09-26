@@ -1,7 +1,684 @@
 {
   "date": "2026-09-26",
-  "count": 561,
+  "count": 636,
   "items": [
+    {
+      "id": "mkt:01a0dc55-14e6-7118-86a6-1dfdb04c0885",
+      "time": "2026-09-26 14:09:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Al Jazeera reports the Iraqi government is consulting with Washington to shield Iraqi airports from U.S. Treasury measures targeting flights involving Iran."
+    },
+    {
+      "id": "5114243",
+      "time": "2026-09-26 14:08:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦總理：巴方反對將水資源“武器化”】當地時間25日，巴基斯坦總理夏巴茲·謝里夫在第81屆聯合國大會一般性辯論中表示，反對將水資源“武器化”，稱印度河水系是巴基斯坦及整個地區的“生命線”。夏巴茲表示，印度單方面決定暫停履行《印度河用水條約》沒有法律依據，並稱相關國際法律機制的立場支援巴基斯坦關於該條約持續有效的主張。他警告說，任何試圖停止、阻礙或改變巴基斯坦應得河流水資源份額的行為，都將被巴基斯坦視為“戰爭行為”。他說：“水絕不能被武器化，河流應該滋養國家，而不是分裂國家。”（央視新聞）"
+    },
+    {
+      "id": "5114242",
+      "time": "2026-09-26 14:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026民洽會集中籤約 專案總金額達269.29億元】據天津日報，9月23日，2026中國民營企業投融資洽談會舉行集中籤約儀式，現場共完成81組專案簽約，總金額達269.29億元。簽約專案分為產業合作、融資合作兩大類別，其中產業合作類專案63組、金額77.6億元，融資合作類專案18組、金額191.69億元。專案精準對接天津12條重點產業鏈，覆蓋機器人、智慧製造、生物醫藥、高階裝備、新能源新材料等重點領域。"
+    },
+    {
+      "id": "5114241",
+      "time": "2026-09-26 14:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體表示，伊朗總統在出席聯合國大會第81屆會議並與外國領導人和國際官員舉行一系列會晤後，已離開紐約返回德黑蘭。"
+    },
+    {
+      "id": "5114240",
+      "time": "2026-09-26 14:05:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊拉克尋求讓部分機場獲得伊朗相關制裁豁免。"
+    },
+    {
+      "id": "5114239",
+      "time": "2026-09-26 14:04:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：伊拉克正與美國談判，尋求豁免伊朗航空公司禁令。"
+    },
+    {
+      "id": "5114238",
+      "time": "2026-09-26 13:56:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西釋出冰雹橙色、雷暴大風藍色預警】9月26日，山西省氣象臺釋出冰雹橙色預警，預警區域為大同市、朔州市、忻州市、陽泉市東部，預計未來6小時預警區域可能出現冰雹天氣，並可能造成雹災；雷暴大風藍色預警區域為大同市、朔州市、忻州市、陽泉市、晉中市東北部，預計未來6小時預警區域將出現雷暴大風天氣，陣風風力達7級以上或有較強雷電，局地伴有短時強降水、冰雹。（央視新聞）"
+    },
+    {
+      "id": "5114236",
+      "time": "2026-09-26 13:39:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄軍在黑海擊中一艘為烏軍運送物資的乾貨船】俄羅斯國防部發布訊息稱，俄軍在黑海對一艘為烏軍運送軍用物資的乾貨船實施了打擊。訊息稱，俄軍繼續使用無人機打擊烏軍使用的港口設施、運輸基礎設施、物流中心和通訊中心。"
+    },
+    {
+      "id": "mkt:01a0dc39-4dda-7118-86a6-1404f625c0ad",
+      "time": "2026-09-26 13:38:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Drones strike two sites in central Sudan; state reports 2 dead, 20 injured】On Sept 25 local time, two locations in North Kordofan state, central Sudan, were struck by drones. North Kordofan's government said the state capital El Obeid was hit early morning, killing two civilians and injuring 20. The statement blamed the Rapid Support Forces (RSF), saying the strikes struck displaced-persons camps, fuel stations and residences and violated international humanitarian law. The RSF had no immediate comment."
+    },
+    {
+      "id": "5114235",
+      "time": "2026-09-26 13:37:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本亞組委就住宿、交通安排不周問題道歉】據日本《東京體育》9月26日報道，2026年日本愛知·名古屋亞運會期間，多國代表團及媒體人員等反映在住宿、交通等方面遇到問題，日本亞組委事務總長村手聰26日在接受記者採訪時就此致歉。（環球網）"
+    },
+    {
+      "id": "5114234",
+      "time": "2026-09-26 13:37:23",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【蘇丹中部兩地遭無人機襲擊 造成數十人傷亡】當地時間9月25日，蘇丹中部北科爾多凡州兩個地區先後遭遇無人機襲擊，造成數十名平民傷亡。北科爾多凡州政府釋出宣告稱，該州首府歐拜伊德市當天清晨遭遇無人機襲擊，造成2名平民死亡，另有20人受傷。宣告譴責蘇丹快速支援部隊發動此次襲擊，稱相關襲擊違反國際人道主義法，襲擊目標包括流離失所者營地、加油站、住宅等民用設施。對於該宣告，快速支援部隊暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0dc31-2ca4-7118-86a6-0b0aecefd5f1",
+      "time": "2026-09-26 13:30:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "RIA quoted the Russian Defense Ministry saying Russian forces struck port facilities in Ukraine's Odesa region that were receiving European weapons."
+    },
+    {
+      "id": "mkt:01a0dc30-b48c-7118-86a6-024f33f337d4",
+      "time": "2026-09-26 13:29:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【US AI lab says agents evolved an unintelligible dialect】A US AI lab found multiple AI agents in a simulated multi‑agent environment developed an emergent dialect that humans could not understand. Researchers say the result highlights the urgency of global AI governance as systems become more complex and potentially exceed human control."
+    },
+    {
+      "id": "5114233",
+      "time": "2026-09-26 13:23:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滴滴與杭州餘杭達成戰略合作 探索落地自動駕駛產業應用】9月26日，從第五屆全球數字貿易博覽會現場獲悉，滴滴與浙江餘杭區達成戰略合作，探索在杭州落地自動駕駛產業應用。此次數貿會上，滴滴自動駕駛攜新一代Robotaxi車型R2亮相，該車由滴滴自動駕駛和廣汽埃安聯合打造，搭載了滴滴自動駕駛全棧自研的L4級軟硬體方案，構建多重安全冗餘體系，具備全場景感知識別、全天候工況適配的無人駕駛能力。（證券時報）"
+    },
+    {
+      "id": "5114232",
+      "time": "2026-09-26 13:21:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【近一週機構調研個股近百隻 國新健康調研機構數最多】近一週機構調研個股有近百隻，國新健康調研機構數最多。國新健康(000503)有139家機構調研，其中包括31家證券公司、47傢俬募、10家保險公司等。在調研中有機構問到公司健康服務業務半年報收入增速很快，核心原因是什麼。國新健康表示，主要得益於慢病管理及健康管理業務持續推進。在健康服務領域，公司依託在三醫領域長期積累，持續完善慢病管理服務體系，強化供應保障、平臺支撐和智慧化服務能力，並積極推動AI技術與健康服務場景融合，提升服務效率和使用者體驗。目前，公司在山東地區的慢病管理業務持續推進，將繼續做好現有專案精細化運營和服務能力提升。富祥股份、博傑股份、華寶股份等業績暴增近期獲得機構調研。從市場表現來看，近一週機構調研股平均上漲0.27%，滬寧股份、億田智慧、長纜科技等個股漲幅居前。"
+    },
+    {
+      "id": "5114231",
+      "time": "2026-09-26 13:18:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽釋出“雙節”消費提示：預付充值要拒絕“最終解釋權歸商家”等格式條款】理性看待“無糖”“高階定製”等宣傳；節日期間直播促銷售可能出現先漲後降等問題；節日聚餐要提前確認包間費、服務費、餐具費等附加收費，避免隱形收費和臨時加價；節日期間儲值充值要拒絕“最終解釋權歸商家”等不公平格式條款……近日，安徽省市場監督管理局、消費者權益保護委員會發布“雙節”消費提示，列舉食品禮品選購、直播網購、宴席預訂、旅遊出行等六大消費風險。安徽省市監局、消保委提醒，節日消費請注意留存發票、支付記錄、合同單據等有效憑證。發生消費糾紛，可先與經營者協商；協商未果可撥打12315熱線，或透過全國12315平臺、全國消協智慧315平臺等渠道依法維權。"
+    },
+    {
+      "id": "5114230",
+      "time": "2026-09-26 13:14:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破99美元，日內漲超0.4%。"
+    },
+    {
+      "id": "mkt:01a0dc1c-e4bf-7118-86a5-fda17a8991c7",
+      "time": "2026-09-26 13:07:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Han Zheng meets UN Secretary-General Guterres; attends fifth‑anniversary GDI high‑level dialogue】On Sept. 25 in New York during the UN General Assembly, Vice President Han Zheng met UN Secretary‑General Guterres and attended a China‑hosted high‑level dialogue marking the fifth anniversary of the Global Development Initiative (GDI); he read a congratulatory letter from President Xi. Han reiterated China’s long‑standing support for a UN‑centered multilateral system amid a turbulent international environment, noting it is 55 years since the PRC regained its UN seat. He said China will continue to act as a responsible major power, actively align its initiatives with the UN agenda, and push the GDI from concept to practical implementation to provide new development opportunities globally."
+    },
+    {
+      "id": "5114229",
+      "time": "2026-09-26 13:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓正會見聯合國秘書長古特雷斯 出席全球發展倡議5週年高階別對話會 宣讀習近平主席賀信並致辭】當地時間9月25日，國家副主席韓正在紐約出席聯合國大會期間會見聯合國秘書長古特雷斯，出席由中方主辦的全球發展倡議5週年高階別對話會，宣讀習近平主席賀信並致辭。會見古特雷斯時，韓正表示，當前國際形勢變亂交織，以聯合國為核心的國際體系面臨多重挑戰。今年是新中國恢復聯合國合法席位55週年。55年來，中國始終堅持真正的多邊主義，支援聯合國在國際事務中發揮核心作用。維護多邊主義、改革完善全球治理體系是當前國際社會普遍呼聲。面向未來，中國將繼續發揮負責任大國作用，積極推進自身理念倡議同聯合國議程對接，以中國式現代化新成就為世界發展提供新機遇。（新華社）"
+    },
+    {
+      "id": "mkt:01a0dc0d-a9ad-7118-86a5-f422a62c8db3",
+      "time": "2026-09-26 12:51:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou metro posts third-highest daily ridership of 2026】On Sep 24, the day before the Mid-Autumn holiday, Guangzhou metro network carried 12.066 mln passengers, the third-highest daily figure in 2026 (Apr 30: 12.839 mln; May 1: 12.397 mln). That was up 3.3% versus 11.681 mln on Sep 30, 2025 (the previous holiday eve). Six intercity lines operated by Guangzhou metro carried 310k passengers, with multiple intercity routes recording new ridership peaks."
+    },
+    {
+      "id": "5114228",
+      "time": "2026-09-26 12:46:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1206.6萬人次 廣州地鐵創下今年曆史客運量第三高】中秋假期前一天（9月24日），地鐵線網客運量再次突破1200萬人次，達1206.6萬人次，為2026年曆史客運量第三高（第一為4月30日1283.9萬人次，第二為5月1日1239.7萬人次），同比2025年9月30日（國慶、中秋假期前一天）客流1168.1萬人次，增長了3.3%。此外，當天廣州地鐵所轄6條城際鐵路共傳送旅客31萬人次，多條城際鐵路客流創新高。據悉，廣州地鐵單個地鐵車站客運量最高為體育西路站45.3萬人次，其次為嘉禾望崗站43.9萬人次，珠江新城站24.6萬人次。（廣州地鐵）"
+    },
+    {
+      "id": "mkt:01a0dc08-4e8a-7118-86a5-ee69f1045e71",
+      "time": "2026-09-26 12:45:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China urges political resolution of conflicts to ease refugee crisis】China's deputy UN ambassador Sun Lei told the UN Security Council on the 25th, during a UNHCR briefing, that political solutions are needed to ease the refugee crisis, noting protracted, recurrent regional conflicts have produced repeated humanitarian emergencies. He called on the Security Council to fulfil its primary responsibility for international peace and security, press parties to abandon violence and secure an early durable ceasefire, and urged the international community to promote talks, strengthen humanitarian cooperation and create conditions for refugees' voluntary, safe and dignified return. Sun also said parties should comply with international humanitarian law, protect civilians and civilian infrastructure, and ensure humanitarian aid is not impeded."
+    },
+    {
+      "id": "5114227",
+      "time": "2026-09-26 12:42:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月25日，全社會跨區域人員流動量24219.8萬人次】2026年9月25日（中秋假期第1日，下同），全社會跨區域人員流動量24219.8萬人次，環比增長6%，比2024年同期增長12.2%（以下同比均為與2024年同期比較）。其中：鐵路客運量2176.1萬人次，環比增長27%，同比增長27.4%。公路人員流動量（包括高速公路及普通國省道非營業性小客車人員出行量、公路營業性客運量）21748萬人次，環比增長4.4%，同比增長10.7%。其中，公路營業性客運量3870萬人次，環比增長4.6%，同比增長6.4%；高速公路及普通國省道非營業性小客車人員出行量17878萬人次，環比增長4.3%，同比增長11.7%。水路客運量87.9萬人次，環比增長35.2%，同比增長61.5%。民航客客運量207.8萬人次，環比下降10.4%，同比增長13%。（交通運輸部）"
+    },
+    {
+      "id": "5114226",
+      "time": "2026-09-26 12:41:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方呼籲推動衝突政治解決以緩解難民危機】中國常駐聯合國副代表孫磊25日在安理會聽取聯合國難民事務高階專員通報時發言，呼籲推動衝突政治解決以緩解難民危機。孫磊說，當前地區衝突延宕反覆，人道危機多點頻發。國際社會應秉持人道主義精神，加強團結合作，共同應對難民問題。他說，事實一再表明，只要戰火不止，就無法從根本上解決難民危機。安理會要履行維護國際和平與安全的首要責任，堅持和平解決爭端原則，推動衝突方摒棄暴力，早日實現持久停火。國際社會應堅持勸和促談，努力推動局勢降溫，共同為難民自願、安全和有尊嚴地回返家園創造最基本條件。衝突各方應遵守國際人道法，保護平民和民用基礎設施安全，確保人道援助不受阻礙。（新華社）"
+    },
+    {
+      "id": "5114225",
+      "time": "2026-09-26 12:29:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英超曼城俱樂部：財務官司相關程式仍在進行】針對英國媒體25日有關曼城俱樂部在英超財務規則案件中被裁定大部分指控成立的報道，該俱樂部25日發表宣告表示，英超相關程式“仍在進行”，還有“重要部分”有待完成，並強調相關程式受到嚴格保密規定約束。曼城在宣告中說，俱樂部八年來一直遵循正當程式，並一直期待英超聯盟董事會和管理層作為“獨立、公正和公平”的監管機構開展工作，不受任何一方影響。（新華社）"
+    },
+    {
+      "id": "mkt:01a0dbf7-583a-7118-86a5-e38f28836b01",
+      "time": "2026-09-26 12:26:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bangkok declares entire city a flood disaster area】Bangkok city government said on the 26th the mayor issued a disaster-response statement declaring the entire city a flood disaster area."
+    },
+    {
+      "id": "5114224",
+      "time": "2026-09-26 12:26:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國曼谷市市長差察·西迪汶26日釋出市政府防災減災指揮部宣告，宣佈全市為洪水災區。（新華社）"
+    },
+    {
+      "id": "mkt:01a0dbf6-8c83-7118-86a5-dc436107dccb",
+      "time": "2026-09-26 12:26:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Senator says White House signaled it will not ban diesel exports】Ted Cruz told refinery executives on Friday he received assurances from the White House that the Trump administration will not ban U.S. diesel exports. The remark came as diesel prices hit record highs and officials weigh measures to reduce costs. Cruz said the assurance did not come from the president and he did not identify who provided it."
+    },
+    {
+      "id": "mkt:01a0dbe2-4c19-7118-86a5-d284574c0fc6",
+      "time": "2026-09-26 12:03:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "【Trump posts immediate assessment of meeting with Xi】China’s state visit to the US concluded and Xi returned to Beijing on the afternoon of Sept. 25 local time. Trump posted on social media calling the leaders’ summit friendly, strong and successful and saying he looks forward to another meeting with Xi."
+    },
+    {
+      "id": "5114223",
+      "time": "2026-09-26 12:03:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿帕克斯投資基金接近達成交易，從華平投資手中收購電信集團奧迪多，交易對該集團估值達65億歐元。"
+    },
+    {
+      "id": "mkt:01a0dbe0-91d6-7118-86a5-ce6c6ca10944",
+      "time": "2026-09-26 12:02:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Putin: Any Ukrainian provocation or escalation will only worsen Kyiv's position】TASS quoted Putin on the 25th saying Russia has responded to recent Ukrainian strikes on Russian civilian infrastructure, including refineries and e‑commerce warehouses. He warned Kyiv must endure retaliatory strikes and that any provocations or escalation would not produce Kyiv’s desired outcome but would worsen its position. RIA reported Putin added proposals to resume talks remain on the table, but given recent Ukrainian attacks Moscow will carefully consider what measures to take; any decision, including on restarting negotiations, will be guided by Russia’s national interests."
+    },
+    {
+      "id": "mkt:01a0dbdf-6202-7118-86a5-c1b503ba7acf",
+      "time": "2026-09-26 12:00:44",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "【Xi says China-US ties' future is bright but path will be tortuous】Chinese President Xi said the future of China‑US relations is bright but the road will be tortuous and will face various difficulties and challenges. During the visit he and US President Trump agreed to further enrich the bilateral relationship’s positioning and jointly build a constructive strategic‑stability relationship based on respect, fairness and equality; Xi said he is willing to work with Trump, with courage and responsibility to history, to mark the development of China‑US ties."
+    },
+    {
+      "id": "5114222",
+      "time": "2026-09-26 12:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：烏方必須明白，任何挑釁或升級局勢的行為只會使其處境更糟糕】據塔斯社報道，俄羅斯總統普京25日在接受記者採訪時，就烏克蘭襲擊俄境內民用設施作出表態。 根據克里姆林宮釋出的訊息，當被問及俄烏衝突有關問題時，普京提到烏克蘭近期襲擊俄煉油廠、電商平臺倉庫等民用設施，稱俄方作出了回應。“他們必須承受俄方實施的報復性打擊，也必須明白一點，即任何挑釁或升級局勢的行為都不會帶來他們想要的結果，反而只會使他們的處境更糟糕。” 另據俄新社等媒體報道，普京還稱，關於恢復談判的提議“擺在桌面上”，存在恢復談判的可能性，但在烏方近期對俄發動襲擊的背景下，俄方將認真考慮應採取哪些措施。（環球網）"
+    },
+    {
+      "id": "5114221",
+      "time": "2026-09-26 11:58:07",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【沙特稱攔截摧毀胡塞無人機和導彈】沙特主導的多國聯軍當地時間今天（9月26日）凌晨在社交媒體上稱，多國聯軍攔截並摧毀了兩架由葉門胡塞武裝朝沙特首都利雅得地區方向發射的無人機，不久後又攔截並摧毀了一枚胡塞武裝向沙特西南部城市海米斯穆謝特發射的彈道導彈。（CCTV國際時訊）"
+    },
+    {
+      "id": "5114220",
+      "time": "2026-09-26 11:56:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【習近平：中美關係的前途是光明的，這是歷史大勢】當地時間9月25日下午，國家主席習近平結束對美國的國事訪問返回北京。訪問期間，兩國元首同意進一步豐富中美關係定位的內涵，共同構建“基於尊重、公平、對等的建設性戰略穩定關係”。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0dbdb-0186-7118-86a5-bf7cf623bd49",
+      "time": "2026-09-26 11:55:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "A member of OpenAI's product team wrote safety standards will need to be much higher in the era of intelligent agents, that the safety industry must speed up to meet that requirement, and that they were glad 'we' are slowing development to prepare for risks."
+    },
+    {
+      "id": "mkt:01a0dbd9-f666-7118-86a5-b10ae460706f",
+      "time": "2026-09-26 11:54:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran FM meets Saudi counterpart in New York; reports Iran-Oman consensus on safe navigation in Strait of Hormuz】On Sept. 25, during the 81st UN General Assembly in New York, Iranian foreign minister Araghchi met Saudi foreign minister Faisal. Araghchi reported that Iran and Oman have reached a consensus on secure shipping routes through the Strait of Hormuz. The two exchanged views on bilateral relations and discussed joint efforts to deepen cooperation in areas of mutual concern."
+    },
+    {
+      "id": "5114219",
+      "time": "2026-09-26 11:54:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長與沙特外交大臣會晤 討論霍爾木茲海峽等議題】當地時間25日，伊朗外交部長阿拉格齊在美國紐約舉行的第81屆聯合國大會期間，與沙烏地阿拉伯外交大臣費薩爾會晤。會晤期間，阿拉格齊通報了伊朗與阿曼就霍爾木茲海峽安全航運路線達成的共識。雙方還就兩國雙邊關係以及在共同關心的領域加強聯絡所需開展的共同努力，進行了討論並交換了意見。（央視新聞）"
+    },
+    {
+      "id": "5114218",
+      "time": "2026-09-26 11:52:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普第一時間發帖總結會晤】當地時間9月25日下午，中國國家主席習近平結束對美國的國事訪問返回北京。美國總統特朗普第一時間在社交媒體平臺發文稱，此次元首會晤是一次充滿友誼、力量與成功的會晤，期待與習近平主席的下一次會面。 特朗普25日下午在社交媒體平臺“真實社交”上發文稱，習近平主席與彭麗媛女士剛剛離開華盛頓，啟程返回中國。此次會晤“對中國和美國而言，是一次充滿友誼、力量與成功的會晤”。 特朗普在帖文中還表示，美中雙方已取得諸多成果，未來還將收穫更多成果。“我期待我們的下一次會面！” 25日上午，特朗普曾在社交媒體平臺發文稱，他與習近平主席的會晤對美中兩國而言都非常富有成效。未來將會發生許多令人振奮的大事。 25日上午，國家主席習近平和夫人彭麗媛同美國總統特朗普和夫人梅拉尼婭在白宮舉行茶敘。特朗普當時表示，習近平主席此次對美國的國事訪問是一次富有建設性、非常成功的訪問。雙方就美中關係和重大國際地區問題深入溝通，取得很多積極成果，對兩國都有益。 （中新網）"
+    },
+    {
+      "id": "mkt:01a0dbd6-f8ee-7118-86a5-aade5734cd89",
+      "time": "2026-09-26 11:51:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOW3.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Volkswagen to recall about 2.86 mln vehicles globally over steering-bolt corrosion】Germany's Federal Motor Transport Authority (KBA) said Volkswagen confirmed a global recall of about 2.86 mln vehicles, including roughly 960,000 in Germany, due to a steering-system defect. Affected Volkswagen models include Tiguan, Touran and Golf produced 2013–2024; affected Audi models were built 2017–2024. KBA said mounting bolts in the steering system may corrode and fracture, which in extreme cases could cause steering failure."
+    },
+    {
+      "id": "5114217",
+      "time": "2026-09-26 11:40:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：中俄貿易額達2400億美元】據俄羅斯衛星社9月25日報道，俄羅斯總統弗拉基米爾·普京表示，俄中貿易額已達2400億美元（據中國官方統計，2025年，中俄雙邊貿易額為2281.05億美元），且仍在持續增長。 普京對記者說：“我們與中華人民共和國的貿易額為2400億美元。這是一個可觀的數字。而且貿易規模還在擴大。” 他補充說，俄中兩國都看到對雙方而言進一步發展關係的重要方向。 普京是在聖彼得堡國際“聯合文化”論壇期間與記者交流時作出上述表態的。（參考訊息）"
+    },
+    {
+      "id": "5114215",
+      "time": "2026-09-26 11:39:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港特區政府財政司司長陳茂波將於今日（九月二十六日）深夜啟程前往卡達，出席在多哈舉行的亞投行第十一屆理事會年會。（香港特區政府）"
+    },
+    {
+      "id": "mkt:01a0dbcc-0f17-7118-86a5-a627f0dd033d",
+      "time": "2026-09-26 11:39:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong Financial Secretary Paul Chan to attend AIIB annual meeting in Doha】Hong Kong Financial Secretary Paul Chan will depart late on Sept. 26 for Doha to attend the 11th Board of Governors annual meeting of the Asian Infrastructure Investment Bank (AIIB), themed Tomorrow’s Infrastructure: Impact and Innovation. The meeting will convene government officials, multilateral development institutions and business leaders to discuss sustainable infrastructure, cross-border connectivity, green finance and digital transformation. Chan will attend multiple sessions and deliver a keynote on digital public infrastructure. He is scheduled to depart Doha in the early hours of Sept. 29 (Qatar time) and return to Hong Kong the same afternoon (Hong Kong time)."
+    },
+    {
+      "id": "mkt:01a0dbc7-5692-7118-86a5-9e6893f87c20",
+      "time": "2026-09-26 11:34:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Bill Gates warns AI \"powerful enough\" to trigger event killing a billion people】Microsoft co-founder Bill Gates said on the 25th that AI is \"powerful enough\" to trigger an event that could kill a billion people. In a segment on NBC's Meet the Press he said no weapon has ever matched the threat posed by malicious actors using the latest AI tools. Gates said self-regulation is insufficient and called for law enforcement and policymakers to define mandatory safeguards and oversight, adding this must be compulsory."
+    },
+    {
+      "id": "5114214",
+      "time": "2026-09-26 11:34:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【將創下四個“世界第一” 石沱長江大橋公路橋順利合龍】9月26日，隨著最後一段鋼樑精準吊裝就位，渝萬高鐵全線控制性工程石沱長江大橋公路橋順利合龍，為後續橋面鋪裝、附屬設施施工和渝萬高鐵全線按期建成通車創造有利條件。大橋建成通車後將創下四個“世界第一”：大橋創新採用公鐵合建雙聯塔結構，是目前在建的世界首座公鐵合建雙聯塔；也是世界首例公鐵同層分幅主樑設計；其中，6號主塔是世界最高雙聯主塔；主跨達608米，是世界最大公鐵合建同層分幅混合梁斜拉橋。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0dbc4-b5fc-7118-86a5-927d1f5503c3",
+      "time": "2026-09-26 11:31:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic detection: at 11:28 on Sept 26 a magnitude ~3.3 earthquake occurred near Gaoxian County, Yibin, Sichuan, China (28.52N, 104.68E). Final magnitude to be confirmed by a formal bulletin."
+    },
+    {
+      "id": "mkt:01a0dbc1-4b4c-7118-86a5-883627113069",
+      "time": "2026-09-26 11:27:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI details Sept. 20 sandbox \"vulnerability\"】OpenAI said in a blog post it discovered a sandbox \"vulnerability\" on Sept. 20 that let an AI agent gain internet access and query public chatbots. The company said it has paused most training of its most powerful model following the previous AI incident."
+    },
+    {
+      "id": "5114213",
+      "time": "2026-09-26 11:27:48",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【陳文清主持召開專題會議強調 依法從嚴查處危害食品安全違法犯罪 守護好人民群眾“舌尖上的安全”】陳文清強調，要堅持嚴格執法，聚焦肉製品、校園食品、保健食品、蔬菜水果等重點領域，聚焦生產加工、網路銷售、終端餐飲、食品進口等重點環節，全鏈條懲處危害食品安全違法犯罪。要加強行刑銜接，積極溝通市場監管、農業農村等部門，健全行政處罰與刑事處罰雙向銜接機制，建立資訊共享平臺，強化食品安全依法治理。要推動綜合整治，壓實各方主體責任，完善食品安全全鏈條監管，嚴防、嚴管、嚴控食品安全風險。要完善法律法規，加快推進食品安全法全面修訂工作，明確生鮮電商、餐飲外賣、直播帶貨等新業態的生產規範、許可使用、責任界定等規定，牢牢守住食品安全底線。（新華社）"
+    },
+    {
+      "id": "mkt:01a0dbbc-a08c-7118-86a5-85f08f293c05",
+      "time": "2026-09-26 11:22:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Putin says Russia has no intention of armed conflict with European countries】On the 25th, speaking at an event in St Petersburg, Russian President Putin said Russia does not intend to engage in armed conflict with European countries. He said many Europeans expect Russia to \"launch an attack\" and are preparing for related military action and a \"war against Russia.\" Putin added Russia is not preparing any military operation against Europe, has no such plans, and \"there is no reason\" to do so."
+    },
+    {
+      "id": "mkt:01a0dbbb-bc19-7118-86a5-7d2d462a40a1",
+      "time": "2026-09-26 11:21:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHO: Ebola outbreak in Democratic Republic of the Congo spreads to new areas】WHO said on Sept 25 the Bundibugyo ebolavirus has spread to additional areas in the Democratic Republic of the Congo; 63 health zones across seven provinces have reported cases. Refinitiv cited WHO data showing 7,890 confirmed cases and 3,799 deaths in the DRC as of Sept 23."
+    },
+    {
+      "id": "mkt:01a0dbb6-1811-7118-86a5-7258dfb9d803",
+      "time": "2026-09-26 11:15:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huawei Mate90 listed for Oct. 1 on site; insider says date not confirmed】Huawei's consumer website briefly listed a Mate90 series and all-scenario product launch for Oct. 1 at 14:30. An insider said the listing was an internal test and not a confirmed schedule; the page was removed. Huawei said final timing will be announced through its official channels."
+    },
+    {
+      "id": "5114211",
+      "time": "2026-09-26 11:14:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破94美元，日內漲超1.5%。"
+    },
+    {
+      "id": "5114210",
+      "time": "2026-09-26 11:10:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "今日國內黃金飾品價格對比顯示，黃金珠寶品牌公佈的境內足金首飾價格較昨日多數持穩，最高報1294元/克。"
+    },
+    {
+      "id": "5114209",
+      "time": "2026-09-26 11:10:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI在上次AI事故發生後暫停了最強模型的大部分訓練工作。"
+    },
+    {
+      "id": "5114208",
+      "time": "2026-09-26 11:06:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【羅永浩回應“交個朋友售賣劣質溜溜凳”】近日，交個朋友直播間因售賣劣質溜溜凳引發輿論風波。9月25日，羅永浩透過微博回應本次事件。羅永浩表示，“事件前期運營部門存在疏忽大意，這件事之前之所以沒有引起交個朋友運營部門足夠的重視，是因為雖然賣了兩三百萬，但實際上日常退貨及投訴的沒有很多，所以他們疏忽大意了。不管怎麼樣，這是一起嚴重的質量管理事故。感謝媒體和網友們的監督，如果不是上了熱搜，有可能到現在還沒發現問題的嚴重性。”羅永浩還提到，經團隊核查，東方甄選平臺也銷售了近千萬元同款溜溜凳，是該產品最大代銷商。"
+    },
+    {
+      "id": "5114206",
+      "time": "2026-09-26 11:01:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：人工智慧代理獲得網際網路訪問許可權，並向公共聊天機器人提問。"
+    },
+    {
+      "id": "5114205",
+      "time": "2026-09-26 11:00:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：人工智慧代理獲得網際網路訪問許可權，並向公共聊天機器人提問."
+    },
+    {
+      "id": "5114204",
+      "time": "2026-09-26 11:00:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI在部落格文章中詳述9月20日發現的沙箱“漏洞”。"
+    },
+    {
+      "id": "5114203",
+      "time": "2026-09-26 10:59:21",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "又一起OpenAI沙箱失效事件：AI代理獲得網際網路訪問許可權。"
+    },
+    {
+      "id": "mkt:01a0dba6-b6b2-7118-86a5-6c09ca64f631",
+      "time": "2026-09-26 10:58:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【US media: Trump to unveil AI-driven America.gov on Tuesday】Fox News says the Trump administration will unveil an AI-driven government website, America.gov, on Tuesday. Officials will formally unveil and demonstrate the site at a full-day event beginning Tuesday morning at the Andrew Mellon Auditorium in Washington, attended by Trump and Vice President Vance. The site is described as a tool to streamline citizens’ interactions with the federal government. Industry figures expected to attend include Elon Musk, NVIDIA CEO JENSEN HUANG and Blue Origin CEO Dave Limp."
+    },
+    {
+      "id": "5114202",
+      "time": "2026-09-26 10:54:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：俄羅斯“沒有理由”對歐採取軍事行動】俄羅斯總統普京25日說，俄羅斯不準備對歐洲採取軍事行動，因為“沒有理由這樣做”。普京當天在聖彼得堡出席活動時告訴媒體記者，不少歐洲人稱他們預計俄羅斯“會發動襲擊”，因此必須為相關軍事行動及“對俄戰爭”做準備。“我想再次強調，我們沒有準備對歐洲發起任何軍事行動，我們沒有這類計劃。最重要的是，沒有理由這樣做。”（新華社）"
+    },
+    {
+      "id": "mkt:01a0dba1-cce2-7118-86a5-64b4979456bd",
+      "time": "2026-09-26 10:53:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Italian armoured vehicle fires on compatriot at NATO Latvia exercise, four wounded】During a NATO live-fire exercise in Latvia an Italian armoured vehicle suddenly opened machine-gun fire on another Italian armoured vehicle, wounding four Italian soldiers. The Italian military gave no details on vehicle models or a preliminary cause—such as human error, communications failure, or weapons malfunction—and said the incident involved only Italian forces."
+    },
+    {
+      "id": "5114201",
+      "time": "2026-09-26 10:53:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德國大眾擬召回約286萬輛汽車】根據德國聯邦汽車運輸管理局25日釋出的宣告，德國汽車製造商大眾汽車集團當天證實，因轉向系統存在隱患，將在全球範圍內召回約286萬輛汽車，其中在德國召回約96萬輛。受影響的車型包括2013年至2024年間生產的大眾途觀、途安和高爾夫等車型，以及2017年至2024年間生產的奧迪車型。德國聯邦汽車運輸管理局表示，涉及召回的相關車輛，其轉向系統的固定螺栓可能因腐蝕而斷裂，極端情況下可能引發轉向失靈。"
+    },
+    {
+      "id": "5114197",
+      "time": "2026-09-26 10:50:01",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【意媒：北約軍演期間一意軍裝甲車突然向另一意軍裝甲車掃射，致4人受傷】據義大利《24小時太陽報》9月26日報道，在一場在拉脫維亞舉行的北約實彈軍事演習期間發生一起意外的友傷事件，一輛意軍裝甲車突然向另一輛意軍裝甲車開機關槍掃射，造成4名義大利士兵受傷。據報道，目前意軍方沒有披露有關裝甲車型號的詳細資訊，也沒有透露對事件原因的初步推測，例如人為錯誤、通訊故障或武器系統故障。意軍強調，此次事件僅涉及本國軍隊，與其他國家無關。（環球網）"
+    },
+    {
+      "id": "mkt:01a0db9c-b10b-7118-86a5-588b5d244e4d",
+      "time": "2026-09-26 10:47:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese navy hospital ship \"Peace Ark\" makes first visit to Senegal】On the morning of the 25th local time the Chinese navy hospital ship \"Peace Ark\", on the \"Harmony Mission-2026\", arrived in Dakar for its first visit to Senegal. The ship will provide onboard medical services; mission teams will visit local hospitals, conduct outreach to an orphanage and hold goodwill exchanges with Senegalese military personnel, including a basketball match."
+    },
+    {
+      "id": "5114196",
+      "time": "2026-09-26 10:41:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世衛組織：剛果（金）埃博拉疫情擴散至新地區】世界衛生組織25日說，本迪布焦型埃博拉病毒已經擴散至剛果（金）更多地區，當前該國7個省共有63個衛生區出現病例。路透社25日引述世衛組織資料包道，截至9月23日，剛果（金）共報告7890例埃博拉確診病例及3799例死亡病例。（新華社）"
+    },
+    {
+      "id": "5114195",
+      "time": "2026-09-26 10:40:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦總理聯大講話感謝中國】當地時間9月25日，巴基斯坦總理夏巴茲·謝里夫在第81屆聯合國大會一般性辯論發言中，對中國國家主席習近平提出的四大全球倡議表示感謝，夏巴茲認為這些倡議為推動構建人類命運共同體提供了堅實支柱。 夏巴茲表示，巴基斯坦正透過中巴經濟走廊與中國開闢新的合作路徑，並與海灣地區、中亞及其他地區拓展合作。在9月23日聯合國大會期間舉行的系列高階別會議上，夏巴茲指出，中巴經濟走廊補充了巴基斯坦的發展戰略中的優先事項，併為巴基斯坦更廣泛的發展目標作出了貢獻。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0db94-1a92-7118-86a5-501c842832cb",
+      "time": "2026-09-26 10:38:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "IFX.DE",
+        "Impact bullish"
+      ],
+      "text": "【Infineon to commission Thailand semiconductor plant on Oct. 1】German chipmaker Infineon will commission a Thailand semiconductor plant on Oct. 1 in a project valued at over THB 48 bln (about $1.44 bln), the Thai Board of Investment said. The facility will house power-module manufacturing, semiconductor testing and an R&D center and will produce power modules for electric vehicles, energy systems and data centers. The project is expected to employ more than 5,000 local workers."
+    },
+    {
+      "id": "5114194",
+      "time": "2026-09-26 10:37:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美參議員：白宮釋放訊號，不會禁止柴油出口】美國參議員泰德·克魯茲上週五晚間向煉油行業領袖表示，白宮已作出承諾，特朗普政府不會禁止美國柴油出口。 他們透露，克魯茲傳達這一訊息之際，政府正權衡多項方案，以期在柴油價格創歷史新高的背景下壓低油價。 當前柴油價格創歷史新高，政府正在評估各類壓低柴油價格的方案，特朗普希望看到加油站零售價回落。 正在研討的方案包括放開紅染柴油銷售限制，將其豁免於聯邦生物燃料摻混計劃，此舉有望降低柴油採購成本。"
+    },
+    {
+      "id": "5114193",
+      "time": "2026-09-26 10:31:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：今年早些時候，美國衛生部長小羅伯特・肯尼迪原本準備向勢力龐大的食品行業發起挑戰。但兩名知情人士稱，白宮並未採納他提出的要求，即要求相關方提供超加工食品安全性的證明。"
+    },
+    {
+      "id": "5114192",
+      "time": "2026-09-26 10:29:47",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "微信鴻蒙版App安裝量突破8000萬，最新資料顯示安裝量為8020萬次。"
+    },
+    {
+      "id": "5114191",
+      "time": "2026-09-26 10:28:44",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "班甘加黃金鑽石公司提交72億印度盧比的印度首次公開募股申請。"
+    },
+    {
+      "id": "mkt:01a0db82-55a9-7118-86a5-4fa31b18bab5",
+      "time": "2026-09-26 10:19:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Renowned Chinese musician Liu Huan dies aged 63】The University of International Business and Economics issued an obituary saying retired faculty member and nationally known musician Liu Huan died in Shanghai at 09:52 on Sept 25, 2026. He was 63."
+    },
+    {
+      "id": "5114190",
+      "time": "2026-09-26 10:17:21",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【火車票預約購票最新調整：最遠預約日期由60天逐步調整為30天】9月26日起，鐵路部門對京滬高鐵、京滬鐵路試點的火車票預約購票服務的可預約日期範圍從開車前第60天至第17天，逐步調整為開車前第30天至第17天。旅客透過鐵路12306手機客戶端“預約購票”專區填報預約需求，9月26日當天可預約11月24日前車票；9月27日至10月26日為調整過渡期，最遠可預約11月24日的車票；10月27日起，可常態化預約開車前第30天至17天的火車票。（央視新聞）"
+    },
+    {
+      "id": "5114189",
+      "time": "2026-09-26 10:15:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英飛凌耗資14.4億美元的泰國半導體工廠將於10月1日投產】德國晶片廠商英飛凌科技將於10月1日正式啟用泰國半導體工廠，專案投資超480億泰銖（摺合14.4億美元），助力泰國打造更先進的本土晶片產業。 泰國投資委員會上週五晚間釋出新聞稿稱，本次投資涵蓋功率模組製造、半導體測試以及一座研發中心。 這座泰國工廠將生產用於電動汽車、能源系統與資料中心的功率模組。 該專案預計僱傭超過5000名泰國本地員工。"
+    },
     {
       "id": "mkt:01a0db7d-495d-7118-86a5-453616a1041e",
       "time": "2026-09-26 10:13:36",
