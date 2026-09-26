@@ -1,7 +1,19 @@
 {
   "date": "2026-09-26",
-  "count": 757,
+  "count": 758,
   "items": [
+    {
+      "id": "mkt:01a0ddac-6005-7118-86a7-83547de50400",
+      "time": "2026-09-26 20:24:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "【NIO completes Silk Road battery-swap route】Sept 26 — NIO opened its 4,125th battery-swap station at Sailimu Lake in China, completing its Silk Road battery-swap route."
+    },
     {
       "id": "5114321",
       "time": "2026-09-26 20:22:56",
