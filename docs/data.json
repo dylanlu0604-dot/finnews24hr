@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-27 00:13:44",
-  "count": 11930,
+  "updated": "2026-09-27 00:17:42",
+  "count": 11931,
   "items": [
+    {
+      "id": "5114398",
+      "time": "2026-09-27 00:16:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長拉夫羅夫：使用武力殺害伊朗最高領袖阿里·哈梅內伊及其家人是不可接受的。"
+    },
+    {
+      "id": "5114397",
+      "time": "2026-09-27 00:14:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“張雪機車”車手德比斯義大利站首回合排名第四】2026世界超級摩托車錦標賽（WSBK）義大利站WorldSSP組別首回合正賽26日在克雷莫納賽道舉行。中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯最終獲得第四名，以0.134秒之差與領獎臺擦肩而過。（新華社）"
+    },
+    {
+      "id": "5114396",
+      "time": "2026-09-27 00:13:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦西北部一檢查站遭襲致11死18傷】巴基斯坦警方訊息人士26日說，該國西北部開伯爾－普什圖省一處警察檢查站當天下午發生爆炸，造成至少11人死亡、18人受傷。（新華社）"
+    },
     {
       "id": "5114395",
       "time": "2026-09-27 00:10:55",
@@ -108737,27 +108761,6 @@
         "國際"
       ],
       "text": "俄羅斯國防部：打擊了一艘向烏克蘭西南部敖德薩地區烏軍運送燃料的船隻。"
-    },
-    {
-      "id": "5103453",
-      "time": "2026-09-20 00:14:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤跌破99美元，日內跌超1%。"
-    },
-    {
-      "id": "mkt:01a0ba71-f1ae-7118-8611-391bc608686a",
-      "time": "2026-09-20 00:13:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran says Qatar has relayed three terms to Washington, awaiting Trump response】Iran’s Supreme National Security Council secretary said Tehran has communicated three conditions to Washington via Qatar and Pakistan and is awaiting US President Trump’s reply. The conditions to halt hostilities are: end fighting on all fronts, release frozen assets and lift the maritime blockade. He said US acceptance would be in Washington’s interest and that threats would not work. On nuclear policy, he warned US and Israeli actions give Iran grounds to withdraw from the NPT but Tehran has made no decision and will base any move on Washington’s behavior; he added Iran still observes the late supreme leader’s nuclear ban. He also said Iran wants an end to the Saudi–Houthi conflict and warned it would strike US bases and interests in the Middle East if attacked."
     }
   ]
 }
