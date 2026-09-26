@@ -1,7 +1,22 @@
 {
-  "updated": "2026-09-27 03:11:50",
-  "count": 11979,
+  "updated": "2026-09-27 03:15:42",
+  "count": 11980,
   "items": [
+    {
+      "id": "mkt:01a0df22-ee6f-7118-86aa-32789f0ced97",
+      "time": "2026-09-27 03:13:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Trump says U.S. economy 'best ever'; cites record real income, low poverty, rising exports】Trump cited an S&P Global report this week saying U.S. business growth is at its highest in more than five years. He said inflation-adjusted median household income is at a record high, the U.S. poverty rate is at a record low, 2026 goods exports are expected to reach a record high, and trillions of dollars of new investment are flowing into the U.S."
+    },
     {
       "id": "5114466",
       "time": "2026-09-27 03:03:15",
