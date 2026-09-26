@@ -1,7 +1,51 @@
 {
   "date": "2026-09-27",
-  "count": 38,
+  "count": 43,
   "items": [
+    {
+      "id": "mkt:01a0de88-cd72-7118-86a8-d488a918809b",
+      "time": "2026-09-27 00:25:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister said security in the Gulf region is closely linked to energy security and the continuity of supply chains."
+    },
+    {
+      "id": "mkt:01a0de88-60ae-7118-86a8-cb4a1eca5dce",
+      "time": "2026-09-27 00:24:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi foreign minister says Saudi Arabia and other regional states were attacked by Iran."
+    },
+    {
+      "id": "mkt:01a0de87-be2b-7118-86a8-c12f7059f8ba",
+      "time": "2026-09-27 00:23:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister said there is an urgent need to uphold the UN Charter."
+    },
+    {
+      "id": "mkt:01a0de87-9e5e-7118-86a8-b86d493c7279",
+      "time": "2026-09-27 00:23:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign minister says world faces unprecedented challenges."
+    },
+    {
+      "id": "5114401",
+      "time": "2026-09-27 00:21:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：在過去24小時內，沙特戰機從海米斯穆謝特和塔伊夫空軍基地起飛，使用F-15和颱風戰鬥機發動了27次空襲。這些空襲針對了塔伊茲、馬裡卜、薩達、阿姆蘭、伊卜和哈傑等省份的橋樑、道路等民用設施。自本輪局勢升級以來，沙特主導的聯軍發動的空襲和導彈打擊總數已達1059次。"
+    },
     {
       "id": "mkt:01a0de85-3b4d-7118-86a8-b67395ea8df6",
       "time": "2026-09-27 00:21:08",
