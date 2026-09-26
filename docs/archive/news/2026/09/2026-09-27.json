@@ -1,7 +1,34 @@
 {
   "date": "2026-09-27",
-  "count": 138,
+  "count": 141,
   "items": [
+    {
+      "id": "5114478",
+      "time": "2026-09-27 03:16:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：新標準將終結拜登政府時期的電動車強制令。"
+    },
+    {
+      "id": "mkt:01a0df25-41b3-7118-86aa-3fdd752390b1",
+      "time": "2026-09-27 03:15:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump approved new fuel-economy standards and rescinded the Biden administration's electric-vehicle mandate."
+    },
+    {
+      "id": "5114477",
+      "time": "2026-09-27 03:15:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我已批准新的燃油經濟性標準。"
+    },
     {
       "id": "mkt:01a0df22-ee6f-7118-86aa-32789f0ced97",
       "time": "2026-09-27 03:13:23",
