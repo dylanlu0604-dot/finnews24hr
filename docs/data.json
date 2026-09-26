@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-27 03:19:34",
-  "count": 11982,
+  "updated": "2026-09-27 03:23:25",
+  "count": 11985,
   "items": [
+    {
+      "id": "5114484",
+      "time": "2026-09-27 03:22:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：超過1000億美元正投資於美國汽車行業。"
+    },
+    {
+      "id": "5114481",
+      "time": "2026-09-27 03:20:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊網路部隊：在霍爾木茲海峽聽到爆炸聲。"
+    },
+    {
+      "id": "mkt:01a0df28-5c76-7118-86aa-4659fc40c33a",
+      "time": "2026-09-27 03:19:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "GM.N",
+        "Impact bullish",
+        "F.N",
+        "WTI"
+      ],
+      "text": "【Trump approves new fuel-economy standards, rescinds Biden-era EV mandate】President Trump said he has approved new fuel-economy standards and rescinded a Biden-era electric-vehicle mandate. He said the changes will eliminate waste in U.S. vehicle production, lower consumer prices and save buyers thousands of dollars. Trump added that automakers including GM, Ford and Stellantis contacted his administration seeking to expand U.S. production, and that auto-sector investment has topped $100 billion under his government."
+    },
     {
       "id": "5114478",
       "time": "2026-09-27 03:16:09",
