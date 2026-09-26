@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-26 20:32:07",
+  "updated": "2026-09-26 20:36:00",
   "count": 11907,
   "items": [
+    {
+      "id": "mkt:01a0ddb6-204e-7118-86a7-8becf32f7584",
+      "time": "2026-09-26 20:34:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said the White House should not tolerate fake news, calling it long-standing and costly to the country."
+    },
     {
       "id": "5114322",
       "time": "2026-09-26 20:29:33",
@@ -108575,14 +108585,6 @@
         "國際"
       ],
       "text": "美國能源部長賴特下令維持印第安納州兩座燃煤電廠的運營。"
-    },
-    {
-      "id": "mkt:01a0b9a8-fef5-7118-8610-624935bab926",
-      "time": "2026-09-19 20:34:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC said a magnitude-4.0 earthquake occurred at 20:19 on Sept. 19 in Shenza County, Nagqu, Tibet (31.99°N, 89.26°E). Hypocentral depth 10 km."
     }
   ]
 }

@@ -1,7 +1,17 @@
 {
   "date": "2026-09-26",
-  "count": 759,
+  "count": 760,
   "items": [
+    {
+      "id": "mkt:01a0ddb6-204e-7118-86a7-8becf32f7584",
+      "time": "2026-09-26 20:34:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said the White House should not tolerate fake news, calling it long-standing and costly to the country."
+    },
     {
       "id": "5114322",
       "time": "2026-09-26 20:29:33",
