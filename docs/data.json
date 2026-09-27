@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-27 08:30:23",
+  "updated": "2026-09-27 08:34:15",
   "count": 11995,
   "items": [
+    {
+      "id": "5114577",
+      "time": "2026-09-27 08:31:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗武裝部隊發言人警告美國不要干涉霍爾木茲海峽，並表示如果美方執意如此，必將遭到“狠狠反擊”。"
+    },
     {
       "id": "mkt:01a0e043-7ccb-7118-86aa-f26634479169",
       "time": "2026-09-27 08:28:34",
@@ -109324,19 +109332,6 @@
         "公司"
       ],
       "text": "【廣和通、鯤鵬資本等成立AI終端與應用產業私募基金】企查查APP顯示，近日，深圳前海鯤鵬人工智慧終端與應用產業私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由深圳市鯤鵬股權投資有限公司、廣和通（300638）全資子公司深圳市廣和通投資發展有限公司等共同出資。"
-    },
-    {
-      "id": "mkt:01a0bc3a-cc53-7118-8612-a23c3791b5fa",
-      "time": "2026-09-20 08:32:44",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Northeast Securities: Fed hike delivered — what next for assets?】Northeast Securities said in a Sept. 20 research note the Fed’s September hike has been delivered; the dot plot shows Fed officials generally expect one more hike in 2026, then a period of unchanged policy. With the US economy not overheating, the firm views recent moves as precautionary and warns the risk of a December hike should not be underestimated under current guidance. Based on US wage growth and housing, Northeast Securities sees limited endogenous inflation pressure and does not expect a sustained, rapid hiking cycle—favoring a 2016-style outcome of a modest move followed by an extended pause."
     }
   ]
 }
