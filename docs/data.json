@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-27 08:41:56",
+  "updated": "2026-09-27 08:45:47",
   "count": 11995,
   "items": [
+    {
+      "id": "5114581",
+      "time": "2026-09-27 08:42:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黑河（步行）口岸對外開放透過國家驗收】據黑龍江日報，日前，由國家口岸管理辦公室、外交部、海關總署、國家移民管理局、軍委聯合參謀部等單位組成的驗收組，對黑河（步行）口岸對外開放準備工作進行全面“體檢”。經過嚴格評審，驗收組正式同意黑河（步行）口岸對外開放透過國家驗收。"
+    },
     {
       "id": "5114580",
       "time": "2026-09-27 08:36:54",
@@ -109324,14 +109332,6 @@
         "Impact bearish"
       ],
       "text": "【Acer: storage shortages partly easing; PC prices may only reverse in H2 2027】Acer chairman Chen Junsheng said on the 19th supply tightness for storage and CPUs remains limited to a few specifications, while shortages for other specs are easing. He said elevated, volatile component prices mean end-market PC prices will likely keep rising in Q4, averaging a 5-20% increase, and may not reverse until H2 2027."
-    },
-    {
-      "id": "5103606",
-      "time": "2026-09-20 08:45:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【宏碁：儲存短缺部分緩解 2027年下半年PC價格或將反轉】宏碁董事長陳俊聖19日表示，目前儲存及CPU除少數規格供貨吃緊，其他規格缺料正在緩解，不過因零部件價格高位震盪，預估今年第四季度終端PC產品將持續漲價，平均幅度可能達5-20%，要到2027年下半年價格才有機會反轉。"
     }
   ]
 }
