@@ -1,7 +1,31 @@
 {
   "date": "2026-09-27",
-  "count": 466,
+  "count": 469,
   "items": [
+    {
+      "id": "mkt:01a0e222-c6d2-7118-86ac-7a90c8e88c5b",
+      "time": "2026-09-27 17:12:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Afghanistan's defense ministry said 28 militants were killed after crossing from Pakistan into eastern Afghanistan; most were former Afghan security personnel."
+    },
+    {
+      "id": "5114774",
+      "time": "2026-09-27 17:12:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【問界新M8於9月30日開啟預售，賽力斯與華為雙方聯合設計與開發】9月27日，記者獲悉，問界新M8將於9月30日開啟預售，全系標配面向L3級自動駕駛的架構設計，搭載華為乾崑智駕®ADS 5、新一代全向立體融合感知系統。問界汽車方面表示，問界仍然是鴻蒙智行成員之一；問界新M8由賽力斯與華為雙方聯合設計與開發。"
+    },
+    {
+      "id": "5114773",
+      "time": "2026-09-27 17:09:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度北方邦暴雨已致56人死亡】據印度北方邦災害管理部門27日訊息，過去3天，該邦遭遇強降雨和暴風天氣，已造成至少56人死亡。（新華社）"
+    },
     {
       "id": "5114771",
       "time": "2026-09-27 17:06:21",
