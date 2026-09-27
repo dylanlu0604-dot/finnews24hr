@@ -1,7 +1,35 @@
 {
   "date": "2026-09-28",
-  "count": 114,
+  "count": 117,
   "items": [
+    {
+      "id": "mkt:01a0e503-d78a-7118-86af-4f7eddf237fb",
+      "time": "2026-09-28 06:37:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's foreign minister Sa'ar said on the 27th that Israel has decided to stop recognizing the diplomatic status of staff at the Dutch representative office in Ramallah; their diplomatic privileges and immunities will expire in seven days."
+    },
+    {
+      "id": "5115046",
+      "time": "2026-09-28 06:36:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列取消荷蘭駐拉姆安拉外交人員外交豁免】以色列外交部長薩爾27日說，以方決定不再承認荷蘭駐拉姆安拉代表處外交人員的外交身份，相關人員享有的外交特權與豁免權將在7天后到期。（新華社）"
+    },
+    {
+      "id": "mkt:01a0e502-adad-7118-86af-42d6499e3199",
+      "time": "2026-09-28 06:35:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell 0.5% intraday to $4,264/oz."
+    },
     {
       "id": "mkt:01a0e500-5ef4-7118-86af-3d16d591be3f",
       "time": "2026-09-28 06:33:21",
