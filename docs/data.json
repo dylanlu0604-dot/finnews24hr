@@ -1,7 +1,53 @@
 {
-  "updated": "2026-09-27 23:02:45",
-  "count": 11730,
+  "updated": "2026-09-27 23:06:39",
+  "count": 11726,
   "items": [
+    {
+      "id": "mkt:01a0e366-5362-7118-86ad-b0dbef83690e",
+      "time": "2026-09-27 23:05:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "【Trump says more US-Iran talks likely this week; indirect talks could start Monday】Axios reports that after rejecting Iran's proposal to end the war, Trump said he expects US negotiators to hold additional talks with Iran this week. Qatar and other regional mediators are working to restart negotiations, but key gaps remain: Iran wants to focus on the Strait of Hormuz and a US maritime blockade, while the US is demanding concessions on the nuclear file. Two regional sources said indirect US‑Iran talks could begin as early as Monday, though it is unclear whether differences can be bridged. Trump said he expects more talks this week and that Iran “wants a deal, but not one I want,” adding their demands are excessive and reflect a misreading of the situation."
+    },
+    {
+      "id": "5114940",
+      "time": "2026-09-27 23:03:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月27日23時00分在新疆喀什地區塔什庫爾幹縣附近（北緯36.99度，東經74.87度）發生4.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5114939",
+      "time": "2026-09-27 23:03:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達正分別與伊朗和美國談判代表進行磋商。"
+    },
+    {
+      "id": "5114938",
+      "time": "2026-09-27 23:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達正持續進行穿梭外交，以促成美伊達成協議。"
+    },
+    {
+      "id": "5114937",
+      "time": "2026-09-27 23:02:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【拒絕伊朗提議後，特朗普預計本週將舉行談判】在拒絕伊朗提出的一項旨在結束戰爭的提議一天後，特朗普週日表示，他預計美國談判代表本週將與伊朗進行更多會談。伊朗希望將任何會談的重點放在霍爾木茲海峽和美國海上封鎖問題上，而特朗普政府則要求伊朗同意在核問題上做出讓步。兩名地區訊息人士證實了特朗普關於本週將有更多會談的說法。他們表示，預計最早在週一，美伊之間將開啟新一輪間接對話。但目前尚不清楚雙方的分歧能否彌合。"
+    },
     {
       "id": "5114936",
       "time": "2026-09-27 23:00:03",
@@ -106900,85 +106946,6 @@
         "公司"
       ],
       "text": "卡達能源公司執行長：因霍爾木茲海峽危機無法運抵卡達的關鍵裝置，可能導致公司部分擴建專案延期。"
-    },
-    {
-      "id": "mkt:01a0bf5a-72a6-7118-8617-9ab8101e1ae0",
-      "time": "2026-09-20 23:06:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "QatarEnergy CEO said the company's LNG supply is substantial, and once the Strait of Hormuz crisis ends buyers will find it hard to ignore QatarEnergy."
-    },
-    {
-      "id": "5104136",
-      "time": "2026-09-20 23:05:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "卡達能源公司執行長：卡達液化天然氣產能規模極大，霍爾木茲危機結束後，買家很難忽視卡達能源公司的供應。"
-    },
-    {
-      "id": "mkt:01a0bf59-7f12-7118-8617-943e83bfe3b5",
-      "time": "2026-09-20 23:05:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Qatar Energy's CEO said some LNG trains from the North Field East (NFE) expansion will enter service in 2027, and the North Field South (NFS) expansion will begin producing gas in 2028."
-    },
-    {
-      "id": "5104135",
-      "time": "2026-09-20 23:04:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：希望地區衝突消退，經濟增長與通脹回落成為主線。"
-    },
-    {
-      "id": "5104134",
-      "time": "2026-09-20 23:04:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：通脹存在於經濟各個領域，遠不止石油。"
-    },
-    {
-      "id": "5104133",
-      "time": "2026-09-20 23:03:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "卡達能源公司執行長：卡達能源正認真考慮與合作伙伴共同進入委內瑞拉市場。"
-    },
-    {
-      "id": "5104132",
-      "time": "2026-09-20 23:03:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：勞動力市場“相當強勁”，失業率為4.1%。"
-    },
-    {
-      "id": "mkt:01a0bf57-cd9b-7118-8617-8dac96e44254",
-      "time": "2026-09-20 23:03:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "QatarEnergy CEO said the company is seriously considering entering the Venezuelan market alongside partners."
-    },
-    {
-      "id": "5104131",
-      "time": "2026-09-20 23:03:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "卡達能源公司執行長：北部油田東擴專案（NFE）的數條液化天然氣生產線將於2027年投產，北部油田南擴專案（NFS）將於2028年投產。"
     }
   ]
 }

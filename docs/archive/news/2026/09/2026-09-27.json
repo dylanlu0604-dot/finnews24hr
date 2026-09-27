@@ -1,7 +1,53 @@
 {
   "date": "2026-09-27",
-  "count": 633,
+  "count": 638,
   "items": [
+    {
+      "id": "mkt:01a0e366-5362-7118-86ad-b0dbef83690e",
+      "time": "2026-09-27 23:05:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "【Trump says more US-Iran talks likely this week; indirect talks could start Monday】Axios reports that after rejecting Iran's proposal to end the war, Trump said he expects US negotiators to hold additional talks with Iran this week. Qatar and other regional mediators are working to restart negotiations, but key gaps remain: Iran wants to focus on the Strait of Hormuz and a US maritime blockade, while the US is demanding concessions on the nuclear file. Two regional sources said indirect US‑Iran talks could begin as early as Monday, though it is unclear whether differences can be bridged. Trump said he expects more talks this week and that Iran “wants a deal, but not one I want,” adding their demands are excessive and reflect a misreading of the situation."
+    },
+    {
+      "id": "5114940",
+      "time": "2026-09-27 23:03:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月27日23時00分在新疆喀什地區塔什庫爾幹縣附近（北緯36.99度，東經74.87度）發生4.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5114939",
+      "time": "2026-09-27 23:03:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達正分別與伊朗和美國談判代表進行磋商。"
+    },
+    {
+      "id": "5114938",
+      "time": "2026-09-27 23:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達正持續進行穿梭外交，以促成美伊達成協議。"
+    },
+    {
+      "id": "5114937",
+      "time": "2026-09-27 23:02:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【拒絕伊朗提議後，特朗普預計本週將舉行談判】在拒絕伊朗提出的一項旨在結束戰爭的提議一天後，特朗普週日表示，他預計美國談判代表本週將與伊朗進行更多會談。伊朗希望將任何會談的重點放在霍爾木茲海峽和美國海上封鎖問題上，而特朗普政府則要求伊朗同意在核問題上做出讓步。兩名地區訊息人士證實了特朗普關於本週將有更多會談的說法。他們表示，預計最早在週一，美伊之間將開啟新一輪間接對話。但目前尚不清楚雙方的分歧能否彌合。"
+    },
     {
       "id": "5114936",
       "time": "2026-09-27 23:00:03",
