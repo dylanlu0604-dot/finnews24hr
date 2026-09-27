@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27 09:09:17",
-  "count": 11992,
+  "updated": "2026-09-27 09:13:09",
+  "count": 11988,
   "items": [
     {
       "id": "5114587",
@@ -109262,42 +109262,6 @@
         "國際"
       ],
       "text": "美國地質調查局測定：雷克雅內斯海嶺發生 5.3 級地震。"
-    },
-    {
-      "id": "mkt:01a0bc5d-7912-7118-8612-dd91fa78929b",
-      "time": "2026-09-20 09:10:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's five-year loan prime rate (LPR) unchanged at 3.50% as of Sept 21; expected 3.50%, prior 3.50%."
-    },
-    {
-      "id": "mkt:01a0bc5d-58db-7118-8612-d586f6b29fcf",
-      "time": "2026-09-20 09:10:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China one-year loan prime rate (LPR) 3.00% on Sept. 21; expected 3.00%; prior 3.00%."
-    },
-    {
-      "id": "mkt:01a0bc5d-56f6-7118-8612-ca396296586b",
-      "time": "2026-09-20 09:10:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "China | 5-Year Loan Prime Rate (Sep.21) | actual 3.5% | consensus 3.50% | previous 3.50%"
-    },
-    {
-      "id": "mkt:01a0bc5d-329a-7118-8612-c50c85300741",
-      "time": "2026-09-20 09:10:19",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | 1-Year Loan Prime Rate (Sep.21) | actual 3% | consensus 3.00% | previous 3.00%"
     }
   ]
 }
