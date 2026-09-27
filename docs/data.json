@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-28 06:08:56",
+  "updated": "2026-09-28 06:12:41",
   "count": 11687,
   "items": [
+    {
+      "id": "5115043",
+      "time": "2026-09-28 06:11:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：日本電產（Nidec）或因會計問題計提約1萬億日元的費用。"
+    },
     {
       "id": "5115042",
       "time": "2026-09-28 06:03:07",
@@ -106609,18 +106617,6 @@
         "國際"
       ],
       "text": "【A股反彈視窗有望延續 三季報或是下一個關鍵時點】上週，美聯儲如期加息25個基點，全球主要市場隨後走出“利空出盡”走勢，科技板塊成為領漲主力。本週券商策略展望報告認為，隨著海外主要央行加息“靴子落地”，市場對宏觀訊息面擾動逐步脫敏，產業定價有望迴歸，有業績支撐的科技權重股或迎來補漲。綜合來看，短期市場將延續結構性反彈，三季報業績披露或是更大級別行情的催化劑。"
-    },
-    {
-      "id": "te:economy:585137",
-      "time": "2026-09-21 06:09:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Interest Rate",
-        "Importance 2"
-      ],
-      "text": "China Keeps LPR Rates at Record Lows for 16th Month — The People's Bank of China left its key lending rates at record lows for a 16th straight month in September 2026, in line with market expectations. The move reflected caution over the impact of the conflict in the Middle East, although exports remained strongly supported by AI-related demand. The one-year loan prime rate (LPR), the benchmark for most corporate and household borrowing, was kept at 3.0%, while the five-year LPR, a reference rate for mortgages, remained at 3.5%. Meanwhile, industrial production grew more than expected, while retail sales growth eased and was softer than estimated. At the same time, new yuan loans extended returned to growth in August, though below forecasts, as weak demand from the household and corporate sectors continued to weigh on credit growth. Meanwhile, housing prices continued to decline in August, though the pace of contraction was the softest in eight months, supported by government measures."
     }
   ]
 }
