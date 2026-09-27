@@ -1,7 +1,20 @@
 {
   "date": "2026-09-28",
-  "count": 110,
+  "count": 111,
   "items": [
+    {
+      "id": "mkt:01a0e4fc-6d6d-7118-86af-335ed7a689b7",
+      "time": "2026-09-28 06:29:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump rejects Iran proposal; oil jumps at open】Trump rejected Iran's seven-day proposal to reopen the Strait of Hormuz, raising the prospect of further delays to reopening the chokepoint. WTI and Brent crude rose more than 1% at the open. Traders will continue to monitor actual flows through the Strait of Hormuz. Trump said a \"record\" amount of oil was taken from the strait on Saturday night. Regional tensions remain elevated: the Saudi-led coalition in Yemen said it intercepted a Houthi drone bound for Riyadh and a missile aimed at Khamis Mushait on Saturday; alerts were issued in Abha and Jazan, locations of Saudi Aramco energy facilities."
+    },
     {
       "id": "5115043",
       "time": "2026-09-28 06:11:34",
