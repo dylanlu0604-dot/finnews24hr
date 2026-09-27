@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-28 02:39:35",
-  "count": 11686,
+  "updated": "2026-09-28 02:43:20",
+  "count": 11684,
   "items": [
+    {
+      "id": "5114998",
+      "time": "2026-09-28 02:39:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院釋出安全提示：美國駐英國大使館獲悉，在英國費爾福德皇家空軍基地附近，有多人因涉嫌籌備恐怖主義行為被捕。建議美國公民提高警惕，注意個人安全。請美國公民務必聽從當地相關部門的指示。"
+    },
     {
       "id": "5114997",
       "time": "2026-09-28 02:36:14",
@@ -106579,32 +106588,6 @@
         "國際"
       ],
       "text": "【特朗普政府準備對國際刑事法院實施制裁】據美國官員透露，特朗普政府正準備對國際刑事法院實施大範圍制裁。在該法院對以色列總理內塔尼亞胡發出逮捕令後，華盛頓方面加大力度，意圖削弱這一國際機構。制裁設定6‑7個月寬限期，寬限期結束後將禁止與國際刑事法院開展大部分交易。該措施或將令法院難以運轉：禁止其使用美元開展業務，切斷其與全球大部分金融體系的聯絡。目前尚不清楚美方何時將做出最終決定並對外宣佈，但部分美國官員表示，相關措施最快可能於本週聯合國大會期間或之後數日內敲定。"
-    },
-    {
-      "id": "mkt:01a0c020-46de-7118-8619-1acfe4aed03d",
-      "time": "2026-09-21 02:42:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Zelenskiy says he spoke with Trump; both agreed to meet in New York】On Sept. 20 local time, Ukrainian President Zelenskiy said he spoke with US President Trump and the two agreed to meet in New York. Zelenskiy said the meeting \"could bring important change\" and that the diplomatic process is progressing."
-    },
-    {
-      "id": "mkt:01a0c01f-df65-7118-8619-100fb1d84b94",
-      "time": "2026-09-21 02:41:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump administration plans wider sanctions on International Criminal Court】The Trump administration is preparing broader sanctions on the International Criminal Court that could, after a 6–7 month grace period, bar most transactions with the ICC and potentially restrict its use of the US dollar, curbing the court’s access to the global financial system. Final decisions and timing are undecided; officials said an announcement could come during or shortly after the UN General Assembly. The State Department declined to detail measures; Secretary of State Rubio has described the ICC as a threat to US sovereignty. Washington has already sanctioned several ICC officials, including former chief prosecutor Karim Khan, ICC president Tomoko Akane and multiple judges and prosecutors; the new measures would expand targeting from individuals to the court’s transactions. The escalation follows the ICC’s 2024 arrest warrants for Israeli prime minister Netanyahu and former defense minister Yoav Gallant."
-    },
-    {
-      "id": "5104356",
-      "time": "2026-09-21 02:41:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱與特朗普通話 雙方商定在紐約會晤】當地時間9月20日，烏克蘭總統澤連斯基表示，他當天與美國總統特朗普通話，雙方商定在美國紐約舉行會晤。澤連斯基說，這次會晤“可能帶來重要改變”，目前外交程序正在推進。（央視新聞）"
     }
   ]
 }
