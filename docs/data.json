@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27 22:27:32",
-  "count": 11767,
+  "updated": "2026-09-27 22:31:22",
+  "count": 11764,
   "items": [
     {
       "id": "mkt:01a0e341-4c37-7118-86ad-86ba742bc2b0",
@@ -107308,36 +107308,6 @@
         "其他"
       ],
       "text": "卡達首相稱，正與人工智慧企業合作開展負責任的投資。"
-    },
-    {
-      "id": "5104095",
-      "time": "2026-09-20 22:31:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【古爾曼：蘋果最早將於下月推出智慧家居螢幕裝置】知名科技記者馬克·古爾曼撰文稱，蘋果(AAPL.O)預計最早將於下月推出智慧家居螢幕裝置。這款產品將成為特努斯執掌蘋果初期最受期待的釋出之一，將整合所有聯網裝置控制、視訊通話、對講功能和媒體內容，同時讓使用者訪問蘋果服務和應用。裝置內部代號為J490，將搭載一套圍繞Siri AI打造的新作業系統，目前正在蘋果員工家庭中進行廣泛測試。裝置螢幕大約呈方形，可以放置在底座上，外觀類似於被切成兩半的HomePod mini，也可以安裝在牆上。裝置的一項主要功能是透過前置攝像頭系統實現面部識別，並根據使用者身份個性化顯示內容。蘋果能夠在沒有Face ID級深度感測器的情況下實現這一功能，說明未來可能也能在iPhone Duo上實現面部識別（目前依賴Touch ID），而無需傳統面部識別所需要的物理空間。"
-    },
-    {
-      "id": "mkt:01a0bf38-8eb2-7118-8617-02ade35e1fea",
-      "time": "2026-09-20 22:29:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "【Gurman: Apple may launch smart-home screen as early as next month】Mark Gurman reports Apple (AAPL.O) could launch as early as next month a smart-home screen device, internal codename J490. Positioned as one of the first major releases under Ternus, the device will integrate control of connected home devices, video calls, intercom, media playback and access to Apple services and apps, and will run a new Siri-AI–centred operating system now being widely tested in employees’ homes. The display is roughly square, sits on a base or can be wall-mounted and is visually likened to a halved HomePod mini. A key feature is front-camera face recognition that personalizes the display by user identity; Gurman says Apple can achieve this without a Face ID–class depth sensor, which could enable similar face recognition on an iPhone Duo (currently reliant on Touch ID) without the physical space required by traditional Face ID systems."
-    },
-    {
-      "id": "5104094",
-      "time": "2026-09-20 22:28:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達首相稱，胡塞武裝的升級行動 “不負責任”。"
     }
   ]
 }
