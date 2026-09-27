@@ -1,7 +1,24 @@
 {
   "date": "2026-09-27",
-  "count": 631,
+  "count": 633,
   "items": [
+    {
+      "id": "5114936",
+      "time": "2026-09-27 23:00:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：預計美國談判代表將於本週與伊朗開展新一輪談判。"
+    },
+    {
+      "id": "mkt:01a0e360-f929-7118-86ad-ab17d2a0c9ed",
+      "time": "2026-09-27 22:59:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Axios: President Trump said U.S. negotiators are expected to hold further talks with Iran this week."
+    },
     {
       "id": "5114934",
       "time": "2026-09-27 22:58:08",
