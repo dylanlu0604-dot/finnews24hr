@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-27 16:42:15",
+  "updated": "2026-09-27 16:46:06",
   "count": 11845,
   "items": [
+    {
+      "id": "5114754",
+      "time": "2026-09-27 16:41:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華數傳媒：獲准註冊20億元超短期融資券】華數傳媒(000156.SZ)公告稱，公司近日收到中國銀行間市場交易商協會出具的《接受註冊通知書》，同意接受公司超短期融資券註冊，註冊金額為20億元，註冊額度自通知書落款之日起2年內有效。"
+    },
     {
       "id": "5114753",
       "time": "2026-09-27 16:40:29",
@@ -108029,17 +108038,6 @@
         "其他"
       ],
       "text": "【我國牽頭編制的IEC抽水蓄能趨勢白皮書正式釋出】由我國牽頭編制的首項以抽水蓄能為主題的《抽水蓄能的未來：技術創新與標準化趨勢（2025—2035）》IEC社會與技術趨勢白皮書近日正式釋出。該白皮書的釋出標誌著我國在抽水蓄能國際前沿技術與標準化研究中實現新突破。該白皮書系統梳理全球抽水蓄能技術發展、工程實踐和標準化需求，介紹了雅礱江流域水風光一體化基地、豐寧抽蓄電站變速機組、烏海抽蓄電站等我國標杆性重大示範工程成果，展現了我國在新能源基地協同開發、變速機組應用和數字化建設方面的探索成果。 (央視財經)"
-    },
-    {
-      "id": "mkt:01a0bdfb-d90f-7118-8614-e52416748863",
-      "time": "2026-09-20 16:43:13",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "【Berlin, Mecklenburg-Vorpommern votes put MERZ at risk after AfD surge】State elections in Berlin and Mecklenburg‑Vorpommern are scheduled for the 20th. A ZDF poll on the 17th put CDU support in Mecklenburg‑Vorpommern at 6%, just above the 5% threshold for parliamentary representation; falling below 5% would be \"a nightmare\" and could be the final straw to topple MERZ. The risk follows AfD's roughly 44% win in Saxony‑Anhalt two weeks ago, where the CDU's vote share plunged to about 17%."
     }
   ]
 }
