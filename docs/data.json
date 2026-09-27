@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-28 02:32:03",
-  "count": 11690,
+  "updated": "2026-09-28 02:35:47",
+  "count": 11686,
   "items": [
+    {
+      "id": "5114996",
+      "time": "2026-09-28 02:33:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月28日02時29分在雲南麗江市寧蒗縣附近（北緯27.80度，東經100.59度）發生3.8級左右地震，最終結果以正式速報為準。"
+    },
     {
       "id": "mkt:01a0e417-76d8-7118-86ae-9cf0e666e987",
       "time": "2026-09-28 02:18:57",
@@ -106597,46 +106605,6 @@
         "MKT News"
       ],
       "text": "【Trump to meet New York mayor on Monday】Trump will meet New York City Mayor Mamdani at Gracie Mansion on Monday to discuss issues affecting the city and residents, the mayor’s office said. No agenda or schedule was released. The White House confirmed the meeting. It is the mayor’s third face-to-face meeting with Trump since taking office."
-    },
-    {
-      "id": "5104355",
-      "time": "2026-09-21 02:34:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國針對國際刑事法院的制裁將設定6至7個月的寬限期。"
-    },
-    {
-      "id": "mkt:01a0c018-2824-7118-8619-04274add1056",
-      "time": "2026-09-21 02:33:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's Central Election Commission chair said the final election results will be published before Sept. 25."
-    },
-    {
-      "id": "mkt:01a0c017-af23-7118-8618-fcfcee259319",
-      "time": "2026-09-21 02:32:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal reports the Trump administration is preparing to impose sanctions on the International Criminal Court."
-    },
-    {
-      "id": "5104354",
-      "time": "2026-09-21 02:32:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國擬實施的制裁將禁止與國際刑事法院開展大部分交易。"
-    },
-    {
-      "id": "5104353",
-      "time": "2026-09-21 02:32:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國準備對國際刑事法院實施制裁。"
     }
   ]
 }
