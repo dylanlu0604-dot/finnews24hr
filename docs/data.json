@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-27 10:50:32",
-  "count": 11922,
+  "updated": "2026-09-27 10:54:18",
+  "count": 11918,
   "items": [
+    {
+      "id": "5114610",
+      "time": "2026-09-27 10:52:01",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【報道：韓國稅收盈餘預計將超50萬億韓元】據報道，受半導體週期強於預期等因素影響，韓國今年的稅收盈餘可能超過50萬億韓元（約合370億美元）。媒體測算顯示，這一盈餘可能使“未來應對基金”的規模超過200萬億韓元。該基金是韓國政府將稅收盈餘用於戰略投資和財政儲備的一項工具。報道稱，韓國企劃財政部預計將於本月晚些時候公佈修訂後的2026年國家稅收收入預估資料。這筆意外之財將為政府在不增加相應借款的情況下擴大支出提供更多空間。在2027年預算提案中，由半導體產業帶動的大部分稅收盈餘將被用於資助人工智慧、晶片產業及青年支援專案，同時限制債券發行並建立財政緩衝。韓國企劃財政部在週日的一份宣告中表示，關於今年國家稅收收入的修訂預估資料尚未最終敲定。"
+    },
     {
       "id": "5114609",
       "time": "2026-09-27 10:49:33",
@@ -108684,46 +108693,6 @@
         "CNH"
       ],
       "text": "【China NMPA to introduce market exclusivity for pediatric and rare-disease drugs, strengthen data protection】Sept. 20 — China’s National Medical Products Administration deputy director Yang Sheng told a State Council press briefing the agency will implement drug trial data protection and establish market exclusivity periods for pediatric medicines and rare-disease treatments to better safeguard firms’ R&D investment. The NMPA will improve early-stage R&D communication, providing stronger pre-submission guidance for drugs with new targets or novel mechanisms. It will also expand a Spring Rain initiative to accelerate clinical translation of medical-device innovation and issue clinical trial and review guidance for frontier areas such as brain–computer interfaces to lay groundwork for future industry development."
-    },
-    {
-      "id": "5103694",
-      "time": "2026-09-20 10:54:04",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【廖岷會見肯亞財政部常務副部長基普託】2026年9月18日，廖岷副部長在北京會見肯亞財政部常務副部長基普託，雙方就中肯關係、財金和投融資合作等問題交換意見。國家開發銀行副行長王克冰、進出口銀行副行長王康，肯亞交通部副部長穆罕默德·達噶爾、道路部副部長約瑟夫·姆布古瓦、水利部副部長朱利斯·科瑞爾、肯亞駐華大使威利·貝特等參加會見。 （財政部）"
-    },
-    {
-      "id": "5103692",
-      "time": "2026-09-20 10:52:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東風汽車推多項計劃，人形機器人年底將小批次試製】日前，東風汽車第十屆科技創新周開幕，“天淨零碳”計劃、具身智慧汽車全域守護計劃、“天際揚帆”計劃等集中釋出。 其中，在具身智慧方面，東風人形機器人、機器狗成為焦點。東風汽車智慧化技術首席總工程師張振林表示，東風人形機器人將於今年10月份進入工廠，主要面向生產製造領域，進行分揀、質檢等工作。今年年底，東風人形機器人將進行小批次、小點位的試製，計劃在明年年底能力與真人持平。（一財）"
-    },
-    {
-      "id": "mkt:01a0bcba-9b91-7118-8613-85c151bbdfb3",
-      "time": "2026-09-20 10:52:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX has confirmed deployment of 27 Starlink satellites."
-    },
-    {
-      "id": "5103691",
-      "time": "2026-09-20 10:51:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX： 27 顆星鏈衛星的部署工作已得到確認。"
-    },
-    {
-      "id": "5103690",
-      "time": "2026-09-20 10:51:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家藥監局：對新靶點、新機制創新藥加強前置指導】國家藥監局副局長楊勝在20日國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，國家藥監局將推進藥品試驗資料保護制度落地，建立兒童藥品、罕見病用藥等領域市場獨佔期，讓企業研發投入更有保障。完善早期研發溝通交流機制，對新靶點、新機制創新藥（886015）加強前置指導，讓企業研發少走彎路。拓展醫療器械（881144）臨床創新成果轉化“春雨行動”，在腦機介面（886047）等前沿領域，制定臨床試驗和審評指導原則，為未來產業鋪路。(新華社)"
     }
   ]
 }
