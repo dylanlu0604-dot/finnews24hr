@@ -1,7 +1,27 @@
 {
   "date": "2026-09-27",
-  "count": 469,
+  "count": 471,
   "items": [
+    {
+      "id": "5114775",
+      "time": "2026-09-27 17:17:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【2連板康強電子：原材料成本對公司營業收入影響較大】2連板康強電子(002119)9月27日釋出股票交易異常波動公告，公司主營業務為引線框架、鍵合絲等半導體封裝材料的製造和銷售，公司主要產品生產所需主要材料為黃金、銅、銀、鋅等金屬原材料，原材料成本對公司營業收入影響較大，未來出現原材料價格調整的情況會對公司營業收入、淨利潤形成壓力。"
+    },
+    {
+      "id": "mkt:01a0e226-dff6-7118-86ac-84f04cd22609",
+      "time": "2026-09-27 17:16:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "China Tech Giants"
+      ],
+      "text": "【AITO new M8 to begin pre-sales Sept 30; full range L3-ready with Huawei ADS 5】AITO’s new M8 will open pre-sales on Sept 30. The entire lineup uses an architecture designed for L3 autonomous driving and is equipped with Huawei QianKun Drive ADS 5 and a next‑generation omnidirectional stereoscopic fusion perception system. AITO remains part of Huawei’s HarmonyOS intelligent driving ecosystem. The M8 was jointly designed and developed by SERES and Huawei."
+    },
     {
       "id": "mkt:01a0e222-c6d2-7118-86ac-7a90c8e88c5b",
       "time": "2026-09-27 17:12:04",

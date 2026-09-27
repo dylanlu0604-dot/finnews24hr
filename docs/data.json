@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-27 17:16:35",
-  "count": 11836,
+  "updated": "2026-09-27 17:20:25",
+  "count": 11834,
   "items": [
+    {
+      "id": "5114775",
+      "time": "2026-09-27 17:17:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【2連板康強電子：原材料成本對公司營業收入影響較大】2連板康強電子(002119)9月27日釋出股票交易異常波動公告，公司主營業務為引線框架、鍵合絲等半導體封裝材料的製造和銷售，公司主要產品生產所需主要材料為黃金、銅、銀、鋅等金屬原材料，原材料成本對公司營業收入影響較大，未來出現原材料價格調整的情況會對公司營業收入、淨利潤形成壓力。"
+    },
+    {
+      "id": "mkt:01a0e226-dff6-7118-86ac-84f04cd22609",
+      "time": "2026-09-27 17:16:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "China Tech Giants"
+      ],
+      "text": "【AITO new M8 to begin pre-sales Sept 30; full range L3-ready with Huawei ADS 5】AITO’s new M8 will open pre-sales on Sept 30. The entire lineup uses an architecture designed for L3 autonomous driving and is equipped with Huawei QianKun Drive ADS 5 and a next‑generation omnidirectional stereoscopic fusion perception system. AITO remains part of Huawei’s HarmonyOS intelligent driving ecosystem. The M8 was jointly designed and developed by SERES and Huawei."
+    },
     {
       "id": "mkt:01a0e222-c6d2-7118-86ac-7a90c8e88c5b",
       "time": "2026-09-27 17:12:04",
@@ -107926,38 +107946,6 @@
         "Greater China"
       ],
       "text": "【Nanjing permits housing provident fund withdrawals for renovation and property fees】Nanjing municipal authorities issued a notice allowing housing provident fund withdrawals for owner-occupied home renovations and annual property-management fees. Effective Sept 20, 2026 (inclusive), contributors and their spouses who renovate owner-occupied housing within Nanjing may withdraw against renovation invoices: up to 1,000 yuan per sqm, up to 150,000 yuan per household, application required within one year of invoice issuance; one renovation withdrawal per household and one per dwelling. For property-management fees, contributors and their spouses owning owner-occupied housing in Nanjing may withdraw for the current year’s fees: if providing invoices, withdrawals equal the invoice amount with a household annual cap of 5,000 yuan; without invoices, household annual cap is 1,000 yuan. Each household may apply for property-fee withdrawal once per calendar year."
-    },
-    {
-      "id": "5103937",
-      "time": "2026-09-20 17:18:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【跨國公司本外幣跨境資金集中運營業務全國推廣，滙豐中國成為首批參與外資銀行】隨著跨國公司本外幣跨境資金集中運營業務推廣至全國，滙豐銀行（中國）有限公司今日宣佈，已為兩家跨國公司順利開展本外幣跨境資金池業務，由此成為該業務全國推廣後首批參與的外資銀行。根據中國人民銀行、國家外匯管理局日前聯合釋出的通知，跨國公司本外幣跨境資金集中運營試點政策自9月14日起正式從北京、廣東（含深圳）兩個試點地區推廣至全國。這一舉措將幫助更多符合條件的跨國企業集團打破資金壁壘，實現全球資源的最佳化配置，進一步釋放跨境資金流動的政策紅利。"
-    },
-    {
-      "id": "5103936",
-      "time": "2026-09-20 17:18:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦正義運動黨（PTI）旁遮普省發言人：被監禁的巴基斯坦前總理伊姆蘭·汗的姐姐阿利瑪·汗，在PTI定於9月27日舉行的長途遊行之前被捕。"
-    },
-    {
-      "id": "5103935",
-      "time": "2026-09-20 17:18:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦正義運動黨旁遮普省發言人表示，警方在拉合爾的住所逮捕了在獄前巴基斯坦總理伊姆蘭・汗的姐姐阿莉瑪・汗。"
-    },
-    {
-      "id": "mkt:01a0be1b-a4bd-7118-8615-1046cc015126",
-      "time": "2026-09-20 17:17:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Police arrested Imran Khan's sister, Alima Khan, at the imprisoned former prime minister's Lahore residence, the Punjab spokesperson for Pakistan Tehreek-e-Insaf said."
     }
   ]
 }
