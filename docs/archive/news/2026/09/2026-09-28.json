@@ -1,7 +1,96 @@
 {
   "date": "2026-09-28",
-  "count": 101,
+  "count": 109,
   "items": [
+    {
+      "id": "5115042",
+      "time": "2026-09-28 06:03:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4300美元/盎司，日內跌0.47%。"
+    },
+    {
+      "id": "5115041",
+      "time": "2026-09-28 06:02:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破99美元/桶，日內漲1.62%。"
+    },
+    {
+      "id": "5115040",
+      "time": "2026-09-28 06:02:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500股指期貨下跌0.1%，納斯達克股指期貨下跌0.1%。"
+    },
+    {
+      "id": "5115039",
+      "time": "2026-09-28 06:02:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債期貨下跌5個基點，布倫特原油價格上漲1.4%。"
+    },
+    {
+      "id": "mkt:01a0e4e3-9987-7118-86af-2b41f354389b",
+      "time": "2026-09-28 06:01:56",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. equity futures opened lower on Monday, down about 0.1%."
+    },
+    {
+      "id": "mkt:01a0e4e3-89dc-7118-86af-2564458bac05",
+      "time": "2026-09-28 06:01:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. 30-year Treasury futures fell 5 points."
+    },
+    {
+      "id": "mkt:01a0e4e2-e3de-7118-86af-1949e23d9136",
+      "time": "2026-09-28 06:01:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold opened down $10, at $4,266/oz."
+    },
+    {
+      "id": "mkt:01a0e4e2-b8d7-7118-86af-1113f523f952",
+      "time": "2026-09-28 06:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Brent crude opened nearly 1% higher, trading at $98.38/bbl."
+    },
     {
       "id": "mkt:01a0e4e2-6691-7118-86af-0cb7b1dae32e",
       "time": "2026-09-28 06:00:37",

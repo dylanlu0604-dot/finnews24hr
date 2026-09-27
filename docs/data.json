@@ -1,7 +1,96 @@
 {
-  "updated": "2026-09-28 06:01:26",
-  "count": 11688,
+  "updated": "2026-09-28 06:05:11",
+  "count": 11690,
   "items": [
+    {
+      "id": "5115042",
+      "time": "2026-09-28 06:03:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4300美元/盎司，日內跌0.47%。"
+    },
+    {
+      "id": "5115041",
+      "time": "2026-09-28 06:02:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破99美元/桶，日內漲1.62%。"
+    },
+    {
+      "id": "5115040",
+      "time": "2026-09-28 06:02:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500股指期貨下跌0.1%，納斯達克股指期貨下跌0.1%。"
+    },
+    {
+      "id": "5115039",
+      "time": "2026-09-28 06:02:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債期貨下跌5個基點，布倫特原油價格上漲1.4%。"
+    },
+    {
+      "id": "mkt:01a0e4e3-9987-7118-86af-2b41f354389b",
+      "time": "2026-09-28 06:01:56",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. equity futures opened lower on Monday, down about 0.1%."
+    },
+    {
+      "id": "mkt:01a0e4e3-89dc-7118-86af-2564458bac05",
+      "time": "2026-09-28 06:01:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. 30-year Treasury futures fell 5 points."
+    },
+    {
+      "id": "mkt:01a0e4e2-e3de-7118-86af-1949e23d9136",
+      "time": "2026-09-28 06:01:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold opened down $10, at $4,266/oz."
+    },
+    {
+      "id": "mkt:01a0e4e2-b8d7-7118-86af-1113f523f952",
+      "time": "2026-09-28 06:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Brent crude opened nearly 1% higher, trading at $98.38/bbl."
+    },
     {
       "id": "mkt:01a0e4e2-6691-7118-86af-0cb7b1dae32e",
       "time": "2026-09-28 06:00:37",
@@ -106563,66 +106652,6 @@
         "國際"
       ],
       "text": "【油價上漲，交易員關注中東供應風險與外交動向】本週，圍繞美伊戰爭的外交活動將趨於密集，交易員持續追蹤中東供應風險，原油價格走高。布倫特原油向每桶105美元靠攏，WTI接近每桶101美元。週末，沙特首都利雅得釋出空襲警報，這是今年三四月衝突高峰期之後利雅得首次拉響警報，紅海沿岸的延布等港口也同步釋出預警。沙特正面臨葉門胡塞武裝的襲擊威脅。卡達外交部發言人表示，斡旋人員正在多國首都之間穿梭，交換方案，推動美伊重啟談判。"
-    },
-    {
-      "id": "5104389",
-      "time": "2026-09-21 06:05:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4420美元/盎司，日內跌0.13%。"
-    },
-    {
-      "id": "5104388",
-      "time": "2026-09-21 06:04:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4380美元/盎司，日內漲0.02%。"
-    },
-    {
-      "id": "5104387",
-      "time": "2026-09-21 06:03:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲10月加息的機率為56.5%】據CME“美聯儲觀察”：美聯儲10月會議維持利率在3.75%-4.00%不變的機率為43.5%，加息25個基點的機率為56.5%。美聯儲到12月維持利率在3.75%-4.00%不變的機率為10.2%%，累計加息25個基點的機率為46.6%，累計加息50個基點的機率為33.3%。"
-    },
-    {
-      "id": "5104386",
-      "time": "2026-09-21 06:01:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油開盤上漲1%，供應風險和外交局勢成為關注焦點。"
-    },
-    {
-      "id": "mkt:01a0c0d7-1d65-7118-8619-c50a76517850",
-      "time": "2026-09-21 06:01:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold opened slightly lower on Monday at $4,373.75/oz."
-    },
-    {
-      "id": "mkt:01a0c0d6-e092-7118-8619-bd7e3f977d8d",
-      "time": "2026-09-21 06:01:42",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Futures for the three major U.S. stock indexes opened slightly higher on Monday."
     }
   ]
 }
