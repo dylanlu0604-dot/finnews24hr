@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-27 17:20:25",
+  "updated": "2026-09-27 17:24:13",
   "count": 11834,
   "items": [
+    {
+      "id": "5114777",
+      "time": "2026-09-27 17:23:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及：埃及正努力推動小麥進口來源多元化。"
+    },
+    {
+      "id": "5114776",
+      "time": "2026-09-27 17:21:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【尼泊爾發生雪崩致多人失聯】據尼泊爾當地登山探險公司訊息，位於尼泊爾北部默嫩縣的希姆隆峰27日上午發生雪崩，數名尼泊爾登山向導及後勤人員失聯。（新華社）"
+    },
     {
       "id": "5114775",
       "time": "2026-09-27 17:17:55",
@@ -107928,24 +107944,6 @@
         "其他"
       ],
       "text": "德國地學研究中心（GFZ）：巴布亞紐幾內亞地區發生6.18級地震。"
-    },
-    {
-      "id": "5103938",
-      "time": "2026-09-20 17:23:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南京：支援裝修提取住房公積金 支援支付物業費提取住房公積金】南京釋出《關於開展自住住房裝修和物業費提取住房公積金業務的通知》。支援裝修提取住房公積金。2026年9月20日（含）以後，繳存人及其配偶在南京市行政區域內裝修自住住房，可申請提取住房公積金。提取額度按裝修發票金額核定，每平方米不超過1000元，家庭提取總額最高不超過15萬元。申請時限為自裝修發票開具之日起1年內。同一家庭限申請一次裝修提取，同一套住房限辦理一次裝修提取業務。支援支付物業費提取住房公積金。繳存人及其配偶在南京市行政區域內擁有自住住房，可提取住房公積金用於支付當年度物業費。能夠提供物業費發票的，提取額度按當年度實際支付的住房物業費發票金額核定，家庭年度提取總額不超過5000元；無法提供物業費發票的，家庭年度提取總額不超過1000元。同一家庭每自然年度限申請一次物業費提取。（南京釋出）"
-    },
-    {
-      "id": "mkt:01a0be20-5528-7118-8615-1d65e0f98824",
-      "time": "2026-09-20 17:23:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Nanjing permits housing provident fund withdrawals for renovation and property fees】Nanjing municipal authorities issued a notice allowing housing provident fund withdrawals for owner-occupied home renovations and annual property-management fees. Effective Sept 20, 2026 (inclusive), contributors and their spouses who renovate owner-occupied housing within Nanjing may withdraw against renovation invoices: up to 1,000 yuan per sqm, up to 150,000 yuan per household, application required within one year of invoice issuance; one renovation withdrawal per household and one per dwelling. For property-management fees, contributors and their spouses owning owner-occupied housing in Nanjing may withdraw for the current year’s fees: if providing invoices, withdrawals equal the invoice amount with a household annual cap of 5,000 yuan; without invoices, household annual cap is 1,000 yuan. Each household may apply for property-fee withdrawal once per calendar year."
     }
   ]
 }
