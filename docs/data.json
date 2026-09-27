@@ -1,7 +1,36 @@
 {
-  "updated": "2026-09-27 16:38:17",
-  "count": 11844,
+  "updated": "2026-09-27 16:42:15",
+  "count": 11845,
   "items": [
+    {
+      "id": "5114753",
+      "time": "2026-09-27 16:40:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方發言人表示，美國可能因其\"糟糕的地區處境\"而發動新一輪攻擊。德黑蘭已做好對抗準備，並將對美國造成更大損害。"
+    },
+    {
+      "id": "mkt:01a0e205-7f07-7118-86ac-6860b77d3329",
+      "time": "2026-09-27 16:40:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian state media quoted an Iranian military spokesman saying the US may launch a new round of strikes because of its \"poor situation\". The spokesman said Iran is prepared to resist and will inflict greater damage on the US."
+    },
+    {
+      "id": "5114752",
+      "time": "2026-09-27 16:39:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄國防部稱打擊烏克蘭海軍基地】俄羅斯國防部27日釋出通報稱，26日深夜至27日凌晨，俄軍打擊了位於烏克蘭基利亞港的烏克蘭“東方”海軍基地司令部、烏克蘭國家邊防局基地、4座存放烏軍裝備的倉庫及泊位設施等。 通報稱，俄軍繼續使用無人機打擊了烏克蘭物流中心、港口和交通基礎設施，以及為烏軍服務的通訊中心和船隻。 通告稱，位於基輔市的沃達豐公司資料處理中心遭到打擊，該中心是為烏軍提供行動通訊、高速網際網路和情報資料傳輸的主要服務商之一。俄軍還打擊了基輔州一處儲存和分發西方援烏軍事物資的後勤物流中心及一艘前往敖德薩港的軍用物資運輸船等。(新華社)"
+    },
     {
       "id": "5114751",
       "time": "2026-09-27 16:36:14",
@@ -108011,22 +108040,6 @@
         "DAX"
       ],
       "text": "【Berlin, Mecklenburg-Vorpommern votes put MERZ at risk after AfD surge】State elections in Berlin and Mecklenburg‑Vorpommern are scheduled for the 20th. A ZDF poll on the 17th put CDU support in Mecklenburg‑Vorpommern at 6%, just above the 5% threshold for parliamentary representation; falling below 5% would be \"a nightmare\" and could be the final straw to topple MERZ. The risk follows AfD's roughly 44% win in Saxony‑Anhalt two weeks ago, where the CDU's vote share plunged to about 17%."
-    },
-    {
-      "id": "5103910",
-      "time": "2026-09-20 16:41:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【二手車鑑定評估將新增泡水、火燒事故專項鑑定標準】由中國汽車流通協會主辦的《二手車鑑定評估技術規範》國家標準修訂研討會暨鑑定評估技術交流會在浙江杭州舉行。據悉，本次修訂工作將圍繞五大維度展開，包括重構事故車判定邏輯與分級體系，新增泡水、火燒事故專項鑑定標準及新能源汽車三電系統鑑定內容等。懂車帝與來自主機廠、汽車經銷商集團、二手車交易市場、二手車經銷商、鑑定評估機構、職業院校、法院系統等的代表近30人參與了此次研討。"
-    },
-    {
-      "id": "5103907",
-      "time": "2026-09-20 16:39:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電視越買越大？海信視像科技總裁李煒：未來五年120英寸鐳射電視將成為行業主流】9月20日，第7屆鐳射顯示技術與產業發展大會在北京舉辦。會上，海信視像科技總裁李煒稱，從行業迭代規律來看，電視從55英寸迭代至65英寸用了七年時間；從65英寸迭代至75英寸僅用了一年時間。在過去四年時間裡，85英寸的大屏銷量增長了441%，百英寸以上的大屏銷量則上漲了890%。李煒稱，大尺寸電視已經成為不可逆的消費升級趨勢。然而，從技術壁壘和成本結構的角度看，超過100英寸的液晶電視，其成本會隨著尺寸的增長呈現指數級的增長。目前116英寸大屏電視已經實現批次生產，但價格仍居高不下，難以普及。同時，OLED受工藝限制，超過100英寸（電視）也很難落地量產。與之相比，鐳射大尺寸的成本相對可控，還可以摺疊屏形式降低入戶難度。在他看來，未來五年，120英寸鐳射電視將成為行業主流。"
     }
   ]
 }
