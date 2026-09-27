@@ -1,7 +1,46 @@
 {
-  "updated": "2026-09-27 23:06:39",
-  "count": 11726,
+  "updated": "2026-09-27 23:10:35",
+  "count": 11728,
   "items": [
+    {
+      "id": "5114942",
+      "time": "2026-09-27 23:09:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞士公投否決更嚴格中立原則】瑞士在今天（9月27日）的公投中，否決了一項旨在採取更嚴格中立原則的提案。該提案若獲透過，將禁止瑞士實施經濟制裁或與北約進行合作。瑞士聯邦統計局公佈的結果顯示，瑞士所有州以及約70%的選民都反對將嚴格定義的中立條款寫入瑞士憲法。 該提案原本希望憲法規定，除非遭到攻擊，否則瑞士不得加入或配合任何軍事或防禦聯盟，並且除非獲得聯合國批准，否則不得參與任何制裁。 瑞士從1815年開始奉行中立政策，在兩次世界大戰中未支援任何一方。近年來，隨著國際局勢不斷變化，瑞士“永久中立”政策出現鬆動。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0e369-5cd5-7118-86ad-c4bf615c9095",
+      "time": "2026-09-27 23:08:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Swiss referendum rejects stricter neutrality clause】Sept 27 — Swiss voters rejected a proposal to enshrine a stricter neutrality clause in the constitution, the Federal Statistical Office said, with all cantons and roughly 70% of voters opposed. The amendment would have prohibited Switzerland from imposing economic sanctions or cooperating with NATO, barred joining or cooperating with military or defense alliances unless Switzerland were attacked, and prevented participation in sanctions without UN approval. Switzerland has observed formal neutrality since 1815; in recent years that policy has shown signs of loosening."
+    },
+    {
+      "id": "5114941",
+      "time": "2026-09-27 23:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中秋假期北京累計接待遊客878.3萬人次】中秋假期，北京秋高氣爽、景緻宜人，北京文旅活動供給豐富，特色場景火熱出圈，熱門打卡地人氣集聚，累計接待遊客878.3萬人次，實現旅遊總花費115.4億元。其中，接待入境遊客8.3萬人次，實現入境遊客花費7.8億元。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0e368-4e40-7118-86ad-bd672365ae09",
+      "time": "2026-09-27 23:07:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says he has been considering resuming strikes on Iran】Per Axios, President Trump said he has been considering resuming strikes on Iran. He said US forces are assisting large oil transits through the Strait of Hormuz and that last weekend’s flows were the highest since the outbreak of the war — over 20 mln barrels. A US defense official confirmed about 22 mln barrels were exported via the strait on Friday night."
+    },
     {
       "id": "mkt:01a0e366-5362-7118-86ad-b0dbef83690e",
       "time": "2026-09-27 23:05:29",
@@ -106925,27 +106964,6 @@
         "其他"
       ],
       "text": "白宮經濟顧問哈塞特：看到價格朝著正確的方向發展。"
-    },
-    {
-      "id": "mkt:01a0bf5c-71ac-7118-8617-a55aa53fcec1",
-      "time": "2026-09-20 23:08:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "QatarEnergy CEO said some expansion projects may be delayed after key equipment shipments could not reach Qatar due to the Strait of Hormuz crisis."
-    },
-    {
-      "id": "5104137",
-      "time": "2026-09-20 23:07:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "卡達能源公司執行長：因霍爾木茲海峽危機無法運抵卡達的關鍵裝置，可能導致公司部分擴建專案延期。"
     }
   ]
 }
