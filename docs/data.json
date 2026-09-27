@@ -1,7 +1,45 @@
 {
-  "updated": "2026-09-28 05:57:27",
-  "count": 11687,
+  "updated": "2026-09-28 06:01:26",
+  "count": 11688,
   "items": [
+    {
+      "id": "mkt:01a0e4e2-6691-7118-86af-0cb7b1dae32e",
+      "time": "2026-09-28 06:00:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude opened 0.7% higher at $92/bbl."
+    },
+    {
+      "id": "5115038",
+      "time": "2026-09-28 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報93.50美元/桶。"
+    },
+    {
+      "id": "5115037",
+      "time": "2026-09-28 06:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報3.125美元/百萬英熱。"
+    },
+    {
+      "id": "5115036",
+      "time": "2026-09-28 06:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報98.65美元/桶。"
+    },
     {
       "id": "5115035",
       "time": "2026-09-28 05:55:41",
@@ -106585,38 +106623,6 @@
         "Dow"
       ],
       "text": "Futures for the three major U.S. stock indexes opened slightly higher on Monday."
-    },
-    {
-      "id": "mkt:01a0c0d6-6d86-7118-8619-b607c9ab9ec1",
-      "time": "2026-09-21 06:01:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "At Monday's open, WTI crude rose 1.24% to $96.50/bbl; Brent rose just over 1% to $100.94/bbl."
-    },
-    {
-      "id": "5104385",
-      "time": "2026-09-21 06:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破97美元/桶，日內漲0.78%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202609213879505338",
-      "time": "2026-09-21 05:58:45",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲10月加息的機率為56.5%】據CME“美聯儲觀察”：美聯儲10月會議維持利率在3.75%-4.00%不變的機率為43.5%，加息25個基點的機率為56.5%。美聯儲到12月維持利率在3.75%-4.00%不變的機率為10.2%，累計加息25個基點的機率為46.6%，累計加息50個基點的機率為33.3%。"
     }
   ]
 }
