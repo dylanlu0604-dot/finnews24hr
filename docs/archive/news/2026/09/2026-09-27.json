@@ -1,7 +1,29 @@
 {
   "date": "2026-09-27",
-  "count": 212,
+  "count": 214,
   "items": [
+    {
+      "id": "mkt:01a0e02f-a178-7118-86aa-c13aca4ad145",
+      "time": "2026-09-27 08:06:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【PLA Southern Theater Command conducts sea‑air drills around Scarborough Shoal】Sept. 27 — The PLA Southern Theater Command held joint sea‑and‑air drills around Scarborough Shoal in the South China Sea, describing the exercise as a necessary response to actions by unspecified countries perceived as undermining regional stability and saying it aimed to test and enhance forces' real‑combat capability to defend China’s territorial sovereignty and maritime rights."
+    },
+    {
+      "id": "5114571",
+      "time": "2026-09-27 08:03:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【南向資金連續五週淨買入 騰訊控股近一週獲淨買入16.95億港元】市場回撥之際，本週（9月21日至25日）南向資金合計成交淨買入231.13億港元，連續五週為淨買入。從本週上榜成交活躍股名單來看，本週共有18只個股上榜，騰訊控股本週港股通合計買賣總額最高，達到286.9億港元；智譜緊隨其後，為211.41億港元；其他還有阿里巴巴-W、長飛光纖光纜、建滔積層板，本週港股通買賣總額均超過100億港元。從成交淨買入金額來看，騰訊控股獲南向資金淨買入16.95億港元。本週南向資金對網際網路科技巨頭以買入為主，阿里巴巴-W獲淨買入12.4億港元，小米集團-W獲淨買入0.64億港元。其他個股方面，建滔積層板、建滔集團分別獲淨賣出16.18億港元、3.52億港元。從持股量變化來看，本週15股獲得南向資金持股量環比增長超10%（剔除9月新納入港股通的個股）。天數智芯居首，環比增長217.19%，其他還有健康160、大金重工、勁方醫藥-B持股量環比增幅居前，持股量環比增幅分別為121.38%、30.21%、26.36%。"
+    },
     {
       "id": "5114570",
       "time": "2026-09-27 07:56:40",
