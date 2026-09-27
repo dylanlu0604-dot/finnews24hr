@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28 02:28:16",
-  "count": 11693,
+  "updated": "2026-09-28 02:32:03",
+  "count": 11690,
   "items": [
     {
       "id": "mkt:01a0e417-76d8-7118-86ae-9cf0e666e987",
@@ -106637,30 +106637,6 @@
         "國際"
       ],
       "text": "美國準備對國際刑事法院實施制裁。"
-    },
-    {
-      "id": "5104352",
-      "time": "2026-09-21 02:30:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯中央選舉委員會主席帕姆菲洛娃稱，本次選舉最終結果將於9月25日才會公佈。"
-    },
-    {
-      "id": "5104351",
-      "time": "2026-09-21 02:29:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "斯洛伐克總理菲佐：我現在不會、將來也絕不會成為尋找藉口挑起北約與俄羅斯戰爭的人。"
-    },
-    {
-      "id": "mkt:01a0c013-a5d5-7118-8618-f69661541c89",
-      "time": "2026-09-21 02:28:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Slovak Prime Minister Robert Fico said he will not support any action that would lead NATO into conflict with Russia."
     }
   ]
 }
