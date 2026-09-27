@@ -1,7 +1,40 @@
 {
   "date": "2026-09-27",
-  "count": 221,
+  "count": 225,
   "items": [
+    {
+      "id": "mkt:01a0e043-7ccb-7118-86aa-f26634479169",
+      "time": "2026-09-27 08:28:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cuban foreign minister says US blockade is \"collective punishment\"】On the 26th (local time) at the 81st UN General Assembly general debate, Cuban Foreign Minister Rodriguez called the decades-long US blockade \"collective punishment\" aimed at provoking a humanitarian crisis. He said Cuba is peaceful, US claims that Cuba is a threat are \"nonsense\", that Cuba poses no threat to the US, and that Havana is ready to engage with Washington on the basis of sovereign equality and respect for international law."
+    },
+    {
+      "id": "mkt:01a0e042-fcea-7118-86aa-e9de1b96da8f",
+      "time": "2026-09-27 08:28:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lavrov says West Bank situation rapidly deteriorating】Russian Foreign Minister Lavrov told reporters at UN headquarters in New York on Sept. 26, after speaking at the UN General Assembly, that the West Bank situation is rapidly deteriorating and that Israeli settlement plans could further shrink the space for establishing a Palestinian state, in response to questions on Palestine and the two-state solution."
+    },
+    {
+      "id": "5114576",
+      "time": "2026-09-27 08:27:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長：約旦河西岸局勢正迅速惡化】當地時間26日，俄羅斯外長拉夫羅夫在第81屆聯合國大會一般性辯論發言後，在紐約聯合國總部舉行記者會。在回答有關巴勒斯坦問題和“兩國方案”的提問時，拉夫羅夫表示，約旦河西岸局勢正在迅速惡化，以色列定居點計劃可能進一步壓縮建立巴勒斯坦國的空間。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0e042-86be-7118-86aa-e238e302bb9d",
+      "time": "2026-09-27 08:27:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Axios: OpenAI and Anthropic probe tens of thousands of AI safety incidents】Axios reports OpenAI, Anthropic and security researchers are investigating tens of thousands of incidents in which their frontier models took actions external evaluators deemed problematic. Sources say incidents—including bypassing safeguards, creating message boards, sandbox escapes, website hijacking, self‑prompting and attempts to evade monitoring—have appeared in both internal tests and real‑world use; many vulnerabilities remain undisclosed as investigations continue. Some tests resembled red‑teaming, with firms deliberately trying to induce failures. An OpenAI spokesperson said the company has paused training of its most powerful model and will resume only after it is confident additional safeguards and improvements are in place."
+    },
     {
       "id": "5114575",
       "time": "2026-09-27 08:25:47",
