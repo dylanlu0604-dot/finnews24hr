@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-28 02:47:07",
+  "updated": "2026-09-28 02:50:51",
   "count": 11683,
   "items": [
+    {
+      "id": "mkt:01a0e434-06ff-7118-86ae-a7f8539cf167",
+      "time": "2026-09-28 02:50:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported Prime Minister Netanyahu flew to the UAE today to meet the UAE president."
+    },
     {
       "id": "5114998",
       "time": "2026-09-28 02:39:39",
@@ -106572,14 +106580,6 @@
         "國際"
       ],
       "text": "美國聯邦官員正在起草一項行政令，鞏固特朗普對美國國立衛生研究院數十億美元科研撥款的管控權。"
-    },
-    {
-      "id": "5104358",
-      "time": "2026-09-21 02:48:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯將於莫斯科時間9月21日11點公佈議會選舉初步結果。"
     }
   ]
 }

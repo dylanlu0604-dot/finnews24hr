@@ -1,7 +1,15 @@
 {
   "date": "2026-09-28",
-  "count": 48,
+  "count": 49,
   "items": [
+    {
+      "id": "mkt:01a0e434-06ff-7118-86ae-a7f8539cf167",
+      "time": "2026-09-28 02:50:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media reported Prime Minister Netanyahu flew to the UAE today to meet the UAE president."
+    },
     {
       "id": "5114998",
       "time": "2026-09-28 02:39:39",
