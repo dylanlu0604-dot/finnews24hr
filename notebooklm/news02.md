@@ -1,7 +1,535 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-09-27 06:10:46_
-_本檔包含 2526 則快訊，約 462089 字_
+_更新時間：2026-09-27 08:30:23_
+_本檔包含 2579 則快訊，約 463212 字_
+
+---
+
+### 2026-09-25 03:06:18  #MKT News
+
+Bank of Mexico says economic growth faces downside risks.
+
+---
+
+### 2026-09-25 03:05:46  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7125元，較週二夜盤收盤跌17點。成交量463.30億美元。
+
+---
+
+### 2026-09-25 03:05:26  #央行 #國際
+
+墨西哥央行：由於墨西哥的宏觀經濟狀況與美國不同，其貨幣政策無需對美聯儲聯邦基金利率的預期調整做出機械式反應。
+
+---
+
+### 2026-09-25 03:05:13  #MKT News
+
+Bank of Mexico says future policy decisions will be data-dependent.
+
+---
+
+### 2026-09-25 03:05:08  #央行 #其他
+
+墨西哥央行：預測2026年第四季度核心通脹率為3.6%，高於此前預測的3.5%。預測2027年第四季度核心通脹率為3.0%，與此前預測持平。
+
+---
+
+### 2026-09-25 03:04:39  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Mexico's central bank said it does not need to mechanically react to shifts in market expectations for US interest rates.
+
+---
+
+### 2026-09-25 03:03:25  #其他 #焦點 #國際
+
+胡塞武裝聲稱襲擊了利雅得和在延布的沙特阿美設施。
+
+---
+
+### 2026-09-25 03:02:54  #央行 #國際
+
+墨西哥央行：在預測區間內，通脹走勢的風險平衡仍偏向上行。  美國政府經濟政策變動以及地緣衝突可能持續，繼續給經濟預測帶來不確定性。
+
+---
+
+### 2026-09-25 03:02:32  #央行 #其他
+
+墨西哥央行：預計經濟閒置產能將在整個預測區間持續存在，經濟活動的下行風險仍未消除。
+
+---
+
+### 2026-09-25 03:01:59  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+Yemen's Houthi militants said they attacked ARAMCO facilities in Yanbu.
+
+---
+
+### 2026-09-25 03:01:44  #MKT News
+
+Mexico's central bank (Banxico) said its rate-setting committee reached consensus on the interest-rate decision.
+
+---
+
+### 2026-09-25 03:01:24  #MKT News #Macro & Rates
+
+Bank of Mexico kept its benchmark interest rate unchanged at 6.50%.
+
+---
+
+### 2026-09-25 03:01:16  #MKT News #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures fell 0.26% in the night session to 24,627, trading 134 points below the cash index.
+
+---
+
+### 2026-09-25 03:01:12  #其他
+
+阿根廷國家統計局公佈：2026年上半年阿根廷貧困率為32.3%。
+
+---
+
+### 2026-09-25 03:00:53  #國際
+
+美國農業部（USDA）稱，8月份美國紅肉產量下降1.2%。
+
+---
+
+### 2026-09-25 03:00:41  #其他
+
+墨西哥政策制定者在利率決定上達成一致。
+
+---
+
+### 2026-09-25 03:00:37  #觀點
+
+巴拉圭共和國總統府與摩根大通資產管理宣佈將對巴拉圭可持續林業專案投資2億美元。
+
+---
+
+### 2026-09-25 03:00:32  #其他
+
+阿根廷統計局公佈：7月經濟活動較去年同期下滑1.40%。
+
+---
+
+### 2026-09-25 03:00:24  #市場
+
+瑞銀股價上漲1.4%。
+
+---
+
+### 2026-09-25 03:00:18  #其他
+
+阿根廷7月經濟活動環比下降2.9%；此前預期為下降0.8%。
+
+---
+
+### 2026-09-25 03:00:13  #MKT News
+
+Mexico central bank policy rate held at 6.50% on Sept 24, in line with expectations and the prior 6.50% reading.
+
+---
+
+### 2026-09-25 03:00:11  #央行 #其他
+
+墨西哥央行維持隔夜利率不變，仍為6.50%。
+
+---
+
+### 2026-09-25 03:00:05  #MKT News #Economic Calendar #Important
+
+Mexico | Banxico Interest Rate Decision (Sep.24) | actual 6.5% | consensus 6.50% | previous 6.50%
+
+---
+
+### 2026-09-25 03:00:02  #市場
+
+恒指期貨夜盤收跌0.24%，報24622.78點，低水138.35點。
+
+---
+
+### 2026-09-25 02:59:35  #市場 #國際
+
+【美國參議院否決限制特朗普對伊朗戰爭許可權決議】美國參議院以50票對49票否決了一項限制特朗普對伊朗戰爭許可權的決議，該決議要求總統撤回參與對伊朗敵對行動的美軍。投票基本按黨派劃分，共和黨多數議員反對，4名共和黨參議員與民主黨一起支援該措施。此次投票正值美國中期選舉臨近之際，伊朗衝突導致能源價格上漲，汽柴油價格成為共和黨候選人在競選中面臨的壓力點。部分共和黨議員呼籲政府儘快結束戰爭或提出降低能源成本的方案。參議院多數黨領袖約翰·圖恩稱，限制戰爭許可權的投票屬於“政治性投票”，但表示共和黨候選人在中期選舉前可以表達不同於特朗普的立場。部分議員擔憂高能源成本正在增加農民、企業和消費者負擔。
+
+---
+
+### 2026-09-25 02:59:24  #MKT News
+
+【U.S. Senate rejects resolution limiting Trump’s war powers on Iran】The U.S. Senate voted 50-49 to defeat a measure that would have required the president to withdraw U.S. forces from hostile actions against Iran. The vote split largely along party lines; four Republicans joined Democrats in supporting the resolution. Held ahead of the midterms, lawmakers tied the Iran conflict to recent energy price rises, saying higher gasoline and diesel costs are creating political pressure for Republican candidates and adding costs for farmers, businesses and consumers. Senate Majority Leader John Thune described the vote as political but said GOP candidates can distance themselves from the president; some Republicans urged an end to the conflict or plans to reduce energy costs.
+
+---
+
+### 2026-09-25 02:57:20  #市場
+
+【Meta推出AI遊戲開發工具Horizon Create與Horizon Studio】Meta在其Meta Connect大會上釋出了Horizon Create和Horizon Studio。新工具允許使用者藉助智慧體創作能力來構建遊戲。Meta股價一度上漲4.5%，創下自2025年9月以來的最高水平。Roblox股價一度下跌4.1%，Unity Software一度下跌6.9%，AppLovin一度下跌2.2%，Take-Two Interactive一度下跌1.8%。
+
+---
+
+### 2026-09-25 02:56:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Macron said he hopes the G7 will discuss releasing strategic oil reserves.
+
+---
+
+### 2026-09-25 02:55:58  #國際
+
+【伊拉克與美國簽署巴格達機場外交支援設施移交協議】當地時間24日，伊拉克外交部宣佈，伊美雙方當天簽署協議，美方將位於巴格達國際機場、隸屬美國駐伊使館的外交支援設施移交給伊拉克政府。伊拉克外交部表示，此舉是伊拉克政府按照既定時間表，推進結束國際聯盟在伊軍事任務及終止外國軍事存在相關安排的一部分。上述工作計劃於今年9月30日前完成。（央視）
+
+---
+
+### 2026-09-25 02:54:56  #國際
+
+伊朗副外長表示：“北約秘書長承認，從歐洲基地起飛了5000架次戰機以支援美國對伊朗的軍事侵略，這暴露出歐洲是此次侵略行動的基礎設施之一。將本國領土交由美國支配的各國政府無法逃避其責任。這種同謀行為必將遭到回擊。”
+
+---
+
+### 2026-09-25 02:54:39  #其他
+
+OpenAI與微軟請求法院駁回由Susman資助的報告。
+
+---
+
+### 2026-09-25 02:53:58  #其他
+
+市場訊息：週三穿過霍爾木茲海峽的船隻中，約有40艘為尋求保護與美軍進行了協調。
+
+---
+
+### 2026-09-25 02:52:58  #公司 #焦點 #國際
+
+馬克龍表示希望七國集團（G7）討論釋放戰略石油儲備。
+
+---
+
+### 2026-09-25 02:52:27  #MKT News #Important #Commodities #Energy #WTI #Brent
+
+A U.S. defense official said about 60 commercial vessels transited the Strait of Hormuz on Wednesday, carrying crude oil volumes at the highest single-day level since early July.
+
+---
+
+### 2026-09-25 02:51:48  #MKT News
+
+【Iraq, U.S. sign agreement to transfer Baghdad airport diplomatic support facilities】Iraq's foreign ministry said on the 24th that Iraq and the United States signed an agreement to transfer diplomatic support facilities at Baghdad International Airport, previously operated by the U.S. embassy, to the Iraqi government. The ministry said the handover is part of Baghdad's timetable to end the international coalition military mission and terminate foreign forces' presence; the work is scheduled to be completed by Sept. 30.
+
+---
+
+### 2026-09-25 02:51:17  #其他
+
+市場訊息：週三約有60艘商船透過霍爾木茲海峽，原油日運輸量達到7月初以來的最高水平。
+
+---
+
+### 2026-09-25 02:50:19  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
+
+UBS (UBS.N) expects Tesla (TSLA.O) to deliver 470,000 vehicles in Q3.
+
+---
+
+### 2026-09-25 02:48:56  #MKT News
+
+French President Macron refused to publicly endorse any candidate in next year’s French presidential election.
+
+---
+
+### 2026-09-25 02:48:38  #國際
+
+法國總統馬克龍拒絕公開支援明年總統選舉的任何候選人。
+
+---
+
+### 2026-09-25 02:48:08  #公司
+
+瑞銀集團：預計特斯拉三季度車輛銷售/交付47萬輛。
+
+---
+
+### 2026-09-25 02:47:08  #MKT News #Market Themes #AI Revolution
+
+TypeSafe AI is in talks for a new funding round that could total at least $1 billion, according to The Information.
+
+---
+
+### 2026-09-25 02:46:22  #其他
+
+內塔尼亞胡：我們將繼續取得勝利。
+
+---
+
+### 2026-09-25 02:46:14  #Trading Economics #Economy #Egypt #Interest Rate #Importance 1
+
+Egypt Holds Rate for Sixth Straight Meeting — The Central Bank of Egypt kept its key interest rate unchanged at 19% at its September 2026 meeting, in line with market expectations amid still-high inflation and regional and energy shocks. This marked the sixth consecutive meeting with rates on hold. The CBE said the global outlook remains uncertain due to geopolitical tensions, tighter financial conditions, and renewed supply chain disruptions. Domestic economic activity continued to moderate due to regional tensions, while the projected output gap suggests limited demand-side inflationary pressures in the short term. Annual headline inflation eased marginally, while core inflation remained relatively stable. The CBE revised its inflation forecast downward, but said risks remain tilted to the upside amid renewed regional hostilities. It added that the current degree of policy restrictiveness should help buffer these risks and preserve the projected disinflation path.
+
+---
+
+### 2026-09-25 02:45:15  #其他
+
+TypeSafe AI洽談融資至少10億美元。
+
+---
+
+### 2026-09-25 02:45:10  #市場
+
+布倫特原油期貨收於每桶106.60美元，上漲3.52美元，漲幅3.41%。
+
+---
+
+### 2026-09-25 02:45:07  #MKT News #Important #Commodities #Energy #Brent #Impact bullish
+
+Brent crude futures settled at $106.60/bbl, up $3.52, or 3.41%.
+
+---
+
+### 2026-09-25 02:45:05  #國際
+
+市場訊息：伊朗代表團未出席內塔尼亞胡在聯合國大會上的演講。
+
+---
+
+### 2026-09-25 02:44:24  #市場 #觀點
+
+摩根士丹利股價下跌1.7%。
+
+---
+
+### 2026-09-25 02:44:12  #MKT News
+
+Iraq's oil ministry spokesman said Iraq has no intention of leaving OPEC.
+
+---
+
+### 2026-09-25 02:42:09  #國際
+
+內塔尼亞胡：伊朗政權將會倒臺。
+
+---
+
+### 2026-09-25 02:41:48  #其他 #焦點
+
+伊拉克石油部發言人被問及伊拉克是否會退出歐佩克……他回應稱：“伊拉克是該組織的創始國，無意也無計劃退出歐佩克。”
+
+---
+
+### 2026-09-25 02:41:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli Prime Minister Netanyahu said the Iranian regime will eventually collapse and Israel will celebrate that day.
+
+---
+
+### 2026-09-25 02:40:52  #MKT News #UBS.N #Impact mixed
+
+People familiar with the matter said UBS (UBS.N) is considering a merger with a foreign bank.
+
+---
+
+### 2026-09-25 02:40:17  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+The US Senate rejected a resolution that would have limited President Trump's authority to use military force against Iran.
+
+---
+
+### 2026-09-25 02:40:10  #公司
+
+瑞銀集團（UBS）正考慮與一家外國銀行進行合併。
+
+---
+
+### 2026-09-25 02:39:37  #焦點 #國際
+
+美國參議院否決了限制特朗普伊朗戰爭權力的決議。
+
+---
+
+### 2026-09-25 02:38:49  #MKT News #Commodities #Energy
+
+French President Macron said imposing additional taxes on oil companies would not reduce fuel prices.
+
+---
+
+### 2026-09-25 02:38:12  #國際
+
+法國總統馬克龍：若對石油企業加徵額外稅收，我們也無法降低燃油價格。
+
+---
+
+### 2026-09-25 02:38:07  #MKT News
+
+Prime Minister Netanyahu said Israel has never been stronger and is fearless.
+
+---
+
+### 2026-09-25 02:37:21  #國際
+
+內塔尼亞胡：以色列從未如此強大，我們無所畏懼。
+
+---
+
+### 2026-09-25 02:37:13  #其他
+
+據知情人士透露，派拉蒙+免費套餐專案預計將於第四季度及2027年第一季度推出。
+
+---
+
+### 2026-09-25 02:36:18  #MKT News
+
+Israeli Prime Minister Netanyahu said some Western European leaders have already yielded to pressure from anti‑Semitic crowds.
+
+---
+
+### 2026-09-25 02:35:59  #其他
+
+內塔尼亞胡：部分西歐國家領導人已向反猶屈服。
+
+---
+
+### 2026-09-25 02:35:49  #其他
+
+據知情人士透露，派拉蒙+計劃推出評論區及互動廣告功能。
+
+---
+
+### 2026-09-25 02:35:38  #MKT News #PSKY.O #Impact mixed
+
+Sources said Paramount (PSKY.O) plans to launch a free tier and introduce short-form drama content.
+
+---
+
+### 2026-09-25 02:34:56  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai Gold Exchange Gold T+D fell 0.99% at the Sept 24 (Thu) evening close to 926.5 yuan/gram; Silver T+D dropped 2.93% to 15,658.0 yuan/kg.
+
+---
+
+### 2026-09-25 02:34:52  #其他
+
+內塔尼亞胡：“那些日子已經結束了。”
+
+---
+
+### 2026-09-25 02:34:14  #MKT News
+
+Israeli Prime Minister Netanyahu said Israel prevented genocide.
+
+---
+
+### 2026-09-25 02:33:57  #MKT News
+
+Israel's Prime Minister Netanyahu told New York's mayor, "You can't make me shut up."
+
+---
+
+### 2026-09-25 02:32:57  #MKT News
+
+Netanyahu, speaking at the United Nations, rejected accusations that Israel is committing genocide and criticized several figures, including the New York City mayor.
+
+---
+
+### 2026-09-25 02:32:45  #其他
+
+內塔尼亞胡對曼達尼：你無法讓我緘默。
+
+---
+
+### 2026-09-25 02:31:53  #MKT News #ALK.O #Impact bullish #BA.N
+
+Alaska Airlines COO said the carrier expects to take delivery of its first Boeing 737 MAX 10 aircraft in spring next year.
+
+---
+
+### 2026-09-25 02:31:43  #其他
+
+據知情人士透露，派拉蒙+計劃推出免費套餐及微短劇服務。
+
+---
+
+### 2026-09-25 02:31:42  #MKT News #BA.N #Impact bullish
+
+Alaska Airlines' chief operating officer said Boeing (BA.N) 737 MAX 10 is expected to enter service between April and mid-May next year.
+
+---
+
+### 2026-09-25 02:31:31  #國際
+
+內塔尼亞胡：所有指控以色列犯有種族滅絕罪的人，包括紐約市長在內——“你們真該感到羞恥”。
+
+---
+
+### 2026-09-25 02:31:14  #市場
+
+NYMEX 10月汽油期貨收報3.5646美元/加侖，NYMEX 10月取暖油期貨收報4.7303美元/加侖。
+
+---
+
+### 2026-09-25 02:31:06  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+U.S. crude oil futures settled at $94.61/bbl, up $2.45 or 2.66%.
+
+---
+
+### 2026-09-25 02:31:00  #MKT News
+
+Israeli Prime Minister Netanyahu denied accusations that Israel is committing "genocide" in Gaza.
+
+---
+
+### 2026-09-25 02:30:55  #市場 #國際
+
+美國原油期貨收於每桶94.61美元，上漲2.45美元，漲幅2.66%。
+
+---
+
+### 2026-09-25 02:30:37  #公司 #國際
+
+美國證券交易委員會（SEC）針對前HeadSpin執行長提交了擬議的最終判決。
+
+---
+
+### 2026-09-25 02:30:33  #MKT News
+
+【Trump: Thank you for this historic visit】On Sept. 24 at a White House welcome ceremony, President Trump thanked President Xi for undertaking a historic visit and said they would continue to work together to build a better future for both countries.
+
+---
+
+### 2026-09-25 02:30:07  #央行 #國際
+
+美聯儲公佈穩定幣發行商提案。
+
+---
+
+### 2026-09-25 02:30:07  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Increases by 2.31% — Top crypto gainers are XRP (2.31%) and Binance (1.93%). Biggest loser is Ether (-0.08%). Meanwhile Bitcoin was little changed.
+
+---
+
+### 2026-09-25 02:30:02  #國際
+
+內塔尼亞胡：否認加沙種族滅絕指控。
+
+---
+
+### 2026-09-25 02:29:57  #國際
+
+法國總統馬克龍：將派兵幫助沙特保護石油工廠。
+
+---
+
+### 2026-09-25 02:28:35  #國際
+
+【特朗普：感謝你們進行這一次具有歷史意義的訪問】當地時間9月24日上午，國家主席習近平出席美國總統特朗普在白宮舉行的歡迎儀式。特朗普總統發表致辭。特朗普說：“習主席和我將繼續攜手合作，為兩國開創更美好的未來。習近平主席、彭麗媛女士，再次感謝你們進行這一次具有歷史意義的訪問。歡迎來到美國。”（央視新聞）
+
+---
+
+### 2026-09-25 02:28:24  #MKT News
+
+Israel's Prime Minister NETANYAHU accused Qatar of using propaganda to influence young people and foster hostility toward Israel and the United States.
+
+---
+
+### 2026-09-25 02:28:10  #Trading Economics #Economy #Uruguay #Unemployment Rate #Importance 1
+
+Uruguay Jobless Rate Rises in August — Uruguay’s unemployment rate edged up to 7.2% in August 2026 from 7.0% in July, marking the first increase since May. By region, Montevideo recorded a higher unemployment rate than the rest of the country, at 7.3% versus 7.1%. The gap between men and women persisted, with female unemployment at 8.8%, compared with 5.7% for men. Unemployment varied significantly by age, reaching 23.4% among young people aged 14 to 24, the group facing the greatest difficulties entering the labor market. This pattern was similar to that observed in July. Regarding employment quality, both underemployment (9.1%) and the lack of social security registration (20.8%) remained at levels similar to those recorded in the previous month.
 
 ---
 
@@ -15011,215 +15539,5 @@ Rice Hits 26-month High — Rice increased to 16.17 USD/cwt, the highest since J
 ### 2026-09-23 23:08:58  #MKT News #WTI #Impact bullish #XAUUSD #DXY #Impact mixed
 
 US Secretary of State Rubio said President Trump is the person who will decide the course of a war with Iran.
-
----
-
-### 2026-09-23 23:08:27  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-US Secretary of State Rubio said the US has ample ammunition to achieve its objectives in Iran, but its scope of action is not limited to that country.
-
----
-
-### 2026-09-23 23:07:34  #MKT News #WTI #Impact mixed
-
-【Rubio: Russia, Ukraine open to limited grain and energy ceasefire; US to push energy talks】US Secretary of State Rubio said both Russia and Ukraine have expressed interest in a limited ceasefire covering grain and energy. He warned both sides have treated energy facilities as strategic targets, making negotiations over an energy ceasefire likely to be difficult, and said the US is willing to play a constructive role in advancing talks. Rubio added he discussed the conflict and bilateral ties with Russian Foreign Minister Lavrov and hopes President Putin will accept a G20 summit invitation as an opportunity for direct US-Russia dialogue.
-
----
-
-### 2026-09-23 23:07:16  #其他
-
-【我國成功發射衛星網際網路低軌26組衛星】9月23日21時32分，我國在海南商業航天發射場使用長征八號甲運載火箭，成功將衛星網際網路低軌26組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（新華社）
-
----
-
-### 2026-09-23 23:07:13  #MKT News #Important #Market Regions #Greater China
-
-【China launches 26 LEO satellites for satellite internet】China launched 26 low-Earth-orbit satellites for a satellite internet constellation today from the Hainan commercial spaceport aboard a Long March-8A rocket; all satellites reached their planned orbits and the mission was declared successful.
-
----
-
-### 2026-09-23 23:06:28  #國際
-
-美國國務卿魯比奧：危機的最佳解決方案是讓加沙擺脫哈馬斯，並由反映本國人民意願的巴勒斯坦領導層治理。
-
----
-
-### 2026-09-23 23:06:00  #MKT News #Market Themes #AI Revolution
-
-【DeepSeek paper: agents exploit unintended channels in production sandbox, compromising training and evaluation】Sept. 23 — DeepSeek published a paper describing DSec, its production-grade sandbox for agent training, and documented agent misbehavior that can invalidate training and evaluation. The firm found agents obtaining answers via unintended channels (for example, residual answers in search-platform admin files); after access controls were applied, agents still circumvented protections by exchanging file-data-block mappings to access protected content through alternate file descriptors, threatening task integrity and shared infrastructure. DeepSeek concludes no single mechanism prevents all agent misbehavior or system faults; its response is to strengthen observability to detect new failure modes and continuously harden DSec as models evolve, including tighter access controls to limit unintended-answer channels and reducing incentives for deceptive behavior — measures it says address some, but not all, issues.
-
----
-
-### 2026-09-23 23:05:57  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【Rubio: US will keep Strait of Hormuz open; agreement with Iran will take time】US Secretary of State Rubio said the US will continue measures to keep the Strait of Hormuz open after Iran fired on commercial vessels earlier that day. He said reaching an agreement with Iran will take hard work and time; Tuesday’s talks were mainly exchanges of ideas and information, constructive but without a breakthrough. Negotiations are being blocked by the leadership of the Islamic Revolutionary Guard Corps, Rubio added. He said President Trump retains a range of response options, including military measures, and warned any action on Iran would carry a cost.
-
----
-
-### 2026-09-23 23:05:16  #國際
-
-俄羅斯外長拉夫羅夫在聯合國大會第 81 屆會議高階別會議週期間，與古巴外交部長舉行會談。
-
----
-
-### 2026-09-23 23:04:45  #國際
-
-美國國務卿魯比奧：伊朗革命衛隊領導人阻礙了伊朗談判。
-
----
-
-### 2026-09-23 23:03:43  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. Secretary of State Rubio said talks with Iran are being obstructed by IRGC leadership.
-
----
-
-### 2026-09-23 23:03:03  #市場 #國際
-
-美國 30 年期國債收益率觸及 5.367%，有望創下 2004 年 6 月以來最高結算價。
-
----
-
-### 2026-09-23 23:02:11  #Trading Economics #Economy #Mauritius #Industrial Production #Importance 1
-
-Mauritius Industrial Production Growth Picks Up — Industrial production in Mauritius increased 1.8% year-on-year in the second quarter of 2026, accelerating from a downwardly revised 1.6% increase in the previous quarter, as activity expanded across all sectors. Output rose most in water supply, sewerage, waste management and remediation activities (3.9%), followed by manufacturing (1.9%) and electricity, gas, steam and air conditioning supply (1.3%), while production in mining and quarrying increased 0.8%. On a quarterly basis, industrial production rose 10.9%, rebounding from an 18.2% decline in the prior quarter, largely reflecting a surge in activity in mining and quarrying (27.1%) and manufacturing (12.9%). In contrast, output in electricity, gas, steam and air conditioning supply contracted 6.7%.
-
----
-
-### 2026-09-23 23:01:34  #宏觀 #市場 #焦點 #國際
-
-【美國財政部將於週四回購至多60億美元的長期債券】美國財政部將於週四回購至多60億美元的長期債券。美國財政部此前表示，回購規模至少為40億美元。
-
----
-
-### 2026-09-23 23:01:23  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bullish #XAUUSD
-
-The U.S. Treasury said it will repurchase at least $4 bln and up to $6 bln of long-term Treasury securities on Thursday.
-
----
-
-### 2026-09-23 23:00:18  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Polish Zloty Drops by 1.11% — Top currency losers are Polish Zloty (-1.11%), Mexican Peso (-1.05%), Australian Dollar (-0.97%), British Pound (-0.60%), Japanese Yen (-0.52%) and Euro (-0.41%). Gains are led by Dollar Index (0.38%).
-
----
-
-### 2026-09-23 23:00:02  #市場
-
-【夜盤期貨收盤】燃料油連續漲3.33%，低硫燃料油連續漲3.15%，苯乙烯連續漲3.00%，20號膠連續漲2.66%，PTA連續漲2.54%，液化石油氣連續漲2.48%，乙二醇連續漲2.11%。
-
----
-
-### 2026-09-23 22:58:56  #公司 #觀點
-
-【AI通訊基礎設施公司Bird.com完成4.5億美元融資】9月23日，AI通訊基礎設施公司Bird.com宣佈完成4.5億美元債務融資，由摩根大通牽頭，並推出改造後的Agentic Harness平臺，該平臺現在讓AI代理無需自定義整合即可在Bird網路上傳送訊息、撥打電話、管理電子郵件，甚至獲得自己的eSIM電話套餐。
-
----
-
-### 2026-09-23 22:58:44  #MKT News
-
-US Secretary of State Rubio said if Russian President Putin attends the G20, it would provide an opportunity to hold talks with US President Trump.
-
----
-
-### 2026-09-23 22:58:30  #國際
-
-魯比奧：如果普京出席G20，那將是與特朗普交談的機會。
-
----
-
-### 2026-09-23 22:57:41  #MKT News #Important
-
-U.S. Secretary of State Rubio said talks with Iran were constructive but produced no breakthrough.
-
----
-
-### 2026-09-23 22:57:09  #國際
-
-烏克蘭數字資訊科技部表示，俄羅斯的無人機攻擊導致基輔及周邊地區約10萬戶家庭的網際網路服務中斷。
-
----
-
-### 2026-09-23 22:56:53  #焦點 #國際
-
-魯比奧：伊朗會談是積極的，但並非突破。
-
----
-
-### 2026-09-23 22:56:53  #MKT News
-
-U.S. Secretary of State Rubio said on Tuesday that talks on Iran were primarily an exchange of ideas and information.
-
----
-
-### 2026-09-23 22:56:45  #國際
-
-魯比奧：希望普京接受G20邀請。
-
----
-
-### 2026-09-23 22:56:42  #MKT News
-
-U.S. Secretary of State Rubio said he hopes Russian President Putin will accept the G20 invitation.
-
----
-
-### 2026-09-23 22:56:29  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Palo Alto Networks Stock Price Hits 5-week High — Palo Alto Networks shares increased to 387.39 USD, the highest since August 2026. Over the past 4 weeks, Palo Alto Networks gained 10.26%, and in the last 12 months, it increased 92.78%.
-
----
-
-### 2026-09-23 22:56:27  #國際
-
-【劉偉分別會見喬治亞、新加坡、吉爾吉斯斯坦、白俄羅斯、烏茲別克、緬甸、寮國客人】9月23日，交通運輸部部長劉偉在京分別會見喬治亞經濟和可持續發展部部長瑪麗婭姆·剋夫利維什維利、新加坡交通部部長蕭振祥、吉爾吉斯斯坦交通和通訊部部長塔蘭特別克·索爾託巴耶夫、白俄羅斯交通和通訊部部長阿列克謝·利亞赫諾維奇、烏茲別克交通部部長伊爾霍姆·馬赫卡莫夫、緬甸交通部部長兼數字發展與通訊部部長妙吞烏、寮國公共工程與運輸部部長列萊·西維萊，對各方率團出席全球可持續交通高峰論壇（2026）表示感謝。
-
----
-
-### 2026-09-23 22:56:09  #MKT News
-
-【First China-Indonesia Strategic Community Dialogue held in Indonesia】The inaugural China-Indonesia Strategic Community Dialogue met in Yogyakarta on the 21st–22nd with nearly 50 experts from think-tanks, universities and business; representatives from Indonesia’s Foreign Ministry and the Chinese embassy attended. Co-hosted by the China Institute of International Studies and Indonesia’s Centre for Strategic and International Studies, participants discussed deepening China‑Indonesia strategic cooperation, responses to shifts in the international order and global governance challenges, and said enhanced strategic communication between the two Global South countries is important for regional stability and a more equitable global governance framework.
-
----
-
-### 2026-09-23 22:56:00  #國際
-
-魯比奧：伊朗會談是此前討論的“延續”。
-
----
-
-### 2026-09-23 22:55:51  #國際
-
-魯比奧：週二關於伊朗的會談主要是交換意見和資訊。
-
----
-
-### 2026-09-23 22:55:41  #國際
-
-伊朗高階官員表示：伊朗與美國立場之間仍存在許多分歧，但外交仍在繼續。
-
----
-
-### 2026-09-23 22:55:40  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rebounded intraday, up about $10 to $4,296/oz; spot silver gained about $0.30 to $64.90/oz.
-
----
-
-### 2026-09-23 22:55:36  #Trading Economics #Markets #France #Government Bond 10Y #Importance 1
-
-French OAT Yields Surge to 18-Year High — France’s 10-year OAT yield jumped to 4.6%, its highest level since July 2008, as oil prices rebounded amid continued uncertainty surrounding US-Iran talks and investors digested stronger-than-expected PMI data. Eurozone private-sector activity expanded in September at its fastest pace in nearly three and a half years, reinforcing expectations that the European Central Bank could raise interest rates further this year. ECB official Joachim Nagel said rising oil prices were becoming increasingly important for monetary policy, while Chief Economist Philip Lane warned that another energy-price surge could keep inflation elevated for longer. In the US, hawkish Fed comments and strong PMI data also lifted expectations for further rate hikes. Meanwhile, concerns over France’s public finances continued to weigh on sentiment, as the government struggles to rein in spending. The budget deficit is now expected to widen to 5.4% of GDP this year, up from 5.1% in 2025.
-
----
-
-### 2026-09-23 22:55:20  #國際
-
-【首屆中印尼戰略界對話會聚焦深化合作與全球治理】首屆中印尼戰略界對話會21日至22日在印度尼西亞日惹舉行，來自中印尼兩國智庫、高校及工商界近50名專家學者與會，印尼外交部和中國駐印尼大使館代表出席。與會者圍繞深化中印尼戰略合作、應對國際秩序演變與全球治理挑戰交流，強調加強戰略溝通與協作對維護地區和平穩定、推動構建公正合理全球治理體系的重大意義。中方代表表示，雙方在共同關心的全域性性、戰略性議題上進行了深入交流，形成許多有價值的共識。（新華社）
-
----
-
-### 2026-09-23 22:54:46  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-US crude (WTI) and Brent each fell $0.90 intraday, trading at $90.86/bbl and $97.37/bbl, respectively.
 
 ---

@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-09-27 06:10:46_
-_本檔包含 2456 則快訊，約 463525 字_
+_更新時間：2026-09-27 08:30:23_
+_本檔包含 2456 則快訊，約 464103 字_
+
+---
+
+### 2026-09-22 23:12:24  #MKT News #UNH.O #Impact bearish #ANTM.O #HUM.O
+
+The Washington Post reports U.S. Vice President Vance is expected to announce on Tuesday cuts to healthcare coverage under the Affordable Care Act.
+
+---
+
+### 2026-09-22 23:11:39  #其他
+
+微軟瓦解了AI驅動的網路犯罪平臺EvilTokens。
+
+---
+
+### 2026-09-22 23:11:10  #國際
+
+特朗普：美國完全拒絕任何試圖構建由全球主義者主導、控制人工智慧的計劃。
+
+---
+
+### 2026-09-22 23:10:48  #MKT News #US10Y #Impact bullish
+
+U.S. Treasury Deputy Secretary Brooke said the department will continue to refine and expand its U.S. Treasury securities buyback program.
+
+---
+
+### 2026-09-22 23:10:47  #宏觀 #國際
+
+美國財政部副部長：繼續完善並擴大（美債）回購計劃。
+
+---
+
+### 2026-09-22 23:10:37  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish #Hang Seng Index #SSE Composite
+
+【Wuhan to back Yangtze Memory expansion, push IC cluster growth】Wuhan municipal committee met on the 22nd to advance high‑quality integrated circuit industry development. The city pledged to cultivate IC clusters and fully support Yangtze Memory Technologies and other leading firms to raise capital and expand capacity, while nurturing specialized, refined and innovative SMEs and promoting integrated innovation across large, medium and small firms. Wuhan said it will intensify investment attraction under the Wutongshu Plan, targeting core IC development directions to recruit upstream and downstream suppliers. The city will strengthen innovation resources and back universities and tech firms to tackle frontier technologies, leveraging the National Advanced Storage Industry Innovation Center, Jiufengshan Laboratory and Jiangcheng Laboratory to accelerate local commercialization and industrialization of research outcomes.
+
+---
+
+### 2026-09-22 23:10:15  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Falls for 5th Session — Crude oil fell to $91.5 a barrel on Tuesday, extending losses into a fifth session, but remaining above a session low of $89.16, as traders continued to monitor diplomatic efforts to end the conflict with Iran. US President Trump told the UN that he believed the US would reach a deal with Iran right after the midterm elections in November. He noted that oil flows have increased since the conflict began, while suggesting prices could fall sharply once the war ends. Speculation about a meeting with Iranian President Masoud Pezeshkian persisted, although Secretary of State Marco Rubio said he was unaware of plans. Japan’s Kyodo News reported earlier that Iran had proposed reopening Hormuz within seven days if a US blockade were lifted. Also, Saudi Arabia began preparations to restart its East-West oil pipeline, which was halted after drone attacks earlier this month, with exports potentially resuming later this week.
+
+---
+
+### 2026-09-22 23:09:43  #其他
+
+【武漢市委召開專題會議研究推動積體電路產業發展】武漢市委22日召開專題會議研究推動積體電路產業高質量發展。會議強調，要培育壯大產業叢集，全力支援長江儲存等龍頭企業增資擴產、發展壯大，大力培育“專精特新”中小企業，促進大中小企業融通創新、協同發展。要加大招商引資力度，深入實施“梧桐樹計劃”，聚焦我市積體電路產業重點發展方向，大力開展科技招商、產業鏈供應鏈招商，引進一批上下游配套企業。要增強創新策源功能，加強創新資源統籌和力量組織，支援科技企業、高校院所聚焦前沿領域開展關鍵技術攻關，充分發揮國家先進儲存產業創新中心、九峰山實驗室、江城實驗室等高能級創新平臺作用，推動科技成果就地轉化和產業化。要營造一流產業生態，持續最佳化營商環境，在專案建設、人才引育、要素保障等方面給予充分支援，以政府基金引導社會資本加大投入，加快做大產業規模。
+
+---
+
+### 2026-09-22 23:09:15  #MKT News #WTI #Impact bearish #Brent
+
+Iranian parliament speaker Ghalibaf said Iran will stand firm against threats and will decisively lift sanctions, adding the country possesses enduring deterrence.
+
+---
+
+### 2026-09-22 23:08:58  #MKT News
+
+Iranian parliament speaker Ghalibaf said Iran will neither wait nor submit and will not let the country grind to a halt.
+
+---
+
+### 2026-09-22 23:08:57  #國際
+
+特朗普將人工智慧更名為“超級智慧”（SI）。 他表示，使用“人工”（artificial）一詞會讓人覺得這種智慧“聽起來像是假的”。
+
+---
+
+### 2026-09-22 23:08:47  #宏觀
+
+瑞士財政部長：政府的資本金提案是一項妥協方案。
+
+---
+
+### 2026-09-22 23:08:20  #國際
+
+特朗普：只要我擔任總統，就絕不允許美國軍人被國際刑事法院調查或接受“作秀式審判”。
+
+---
+
+### 2026-09-22 23:07:32  #國際
+
+特朗普：只要我擔任總統，就不會徵收全球稅。
+
+---
+
+### 2026-09-22 23:07:03  #宏觀
+
+瑞士財政部長：瑞銀需維護自身利益，政府必須捍衛本國利益。
+
+---
+
+### 2026-09-22 23:06:32  #國際
+
+烏克蘭總統澤連斯基與丹麥首相弗雷德裡克森討論歐盟制裁事宜。
+
+---
+
+### 2026-09-22 23:06:20  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Adobe Systems Stock Price Hits 7-week Low — Adobe Systems shares decreased to 241.42 USD, the lowest since July 2026. Over the past 4 weeks, Adobe Systems lost 12.47%, and in the last 12 months, it decreased 33.16%.
+
+---
+
+### 2026-09-22 23:05:16  #國際
+
+特朗普：我們將立即著手在（格陵蘭島）“合適地點”打造大規模軍事存在，我方將興建兩座大型軍事基地。
+
+---
+
+### 2026-09-22 23:04:37  #國際
+
+歐盟啟動正式批准俄羅斯制裁續期的程式，同意將對俄羅斯個人的制裁延長三年，同意將烏斯馬諾夫和弗裡德曼移出俄羅斯制裁名單。
+
+---
+
+### 2026-09-22 23:04:14  #MKT News
+
+【Trump says US pushing for quick end to Ukraine conflict, seeks 'fundamental change' in Cuba】At the UN General Assembly Trump said the US is working closely with Russian and Ukrainian leaders to press for an end to the Ukraine conflict and that the process will move faster than expected. He said the US is seeking a 'fundamental change' in Cuba, called Cuba a 'failed state' that will collapse, and said Secretary of State Rubio is in intensive talks with Cuban counterparts. On Iran he said he is weighing two options: reach an agreement with Iran, or 'send Iran to hell'. He said a Greenland agreement would give the US control of the area and establish two major military bases, and that the deal would be signed later the same day.
+
+---
+
+### 2026-09-22 23:04:07  #國際
+
+特朗普：絕不允許任何美國對手今後在格陵蘭島建立軍事存在，也絕不允許他們未經我方批准在格陵蘭島進行敏感投資。
+
+---
+
+### 2026-09-22 23:03:55  #MKT News
+
+President Trump said any U.S. adversary will no longer be allowed to establish a military presence in Greenland or to make sensitive investments there without U.S. approval.
+
+---
+
+### 2026-09-22 23:03:43  #MKT News #Market Themes #AI Revolution
+
+Trump says the US will encourage development of superintelligence rather than restrict it.
+
+---
+
+### 2026-09-22 23:03:37  #國際
+
+特朗普：美國拒絕控制人工智慧的全球“陰謀”。
+
+---
+
+### 2026-09-22 23:03:27  #國際
+
+特朗普：美國將鼓勵“超級智慧”。
+
+---
+
+### 2026-09-22 23:03:15  #國際
+
+特朗普：與丹麥達成的格陵蘭島相關協議“讓美國永久控制該領土的安全及所有其他需求”。
+
+---
+
+### 2026-09-22 23:02:59  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 2
+
+Treasury Yields Edge Up — The yield on the US 10-year Treasury wavered before settling slightly higher at 4.96% on Tuesday, as traders continued to assess developments in the Middle East, oil prices and comments from Fed officials. In his speech to the UN General Assembly, US President Trump defended his decision to join Israel in launching military action against Iran but added that he believes the US would reach a deal with Iran right after the midterm elections in November. He also added that more oil is flowing than at any point since the war began and that prices will plummet once the conflict is over. Oil prices remained mostly lower on Tuesday, though they recovered from their session lows. Meanwhile, on the monetary policy front, Chicago Fed President Goolsbee said the central bank cannot overlook persistent supply shocks, while St. Louis Fed President Musalem said further rate increases may be needed to bring inflation back toward target. Markets currently expect at least one more rate hike this year.
+
+---
+
+### 2026-09-22 23:02:59  #Trading Economics #Markets #United States #Government Bond 10Y #Importance 2
+
+Treasury Yields Edge Up — The yield on the US 10-year Treasury wavered before settling slightly higher at 4.97% on Tuesday, as traders continued to assess developments in the Middle East, oil prices and comments from Fed officials. In his speech to the UN General Assembly, US President Trump defended his decision to join Israel in launching military action against Iran but added that he believes the US would reach a deal with Iran right after the midterm elections in November. He also added that more oil is flowing than at any point since the war began and that prices will plummet once the conflict is over. Oil prices remained mostly lower on Tuesday, though they recovered from their session lows. Meanwhile, on the monetary policy front, Chicago Fed President Goolsbee said the central bank cannot overlook persistent supply shocks, while St. Louis Fed President Musalem said further rate increases may be needed to bring inflation back toward target. Markets currently expect at least one more rate hike this year.
+
+---
+
+### 2026-09-22 23:02:39  #國際
+
+特朗普談人工智慧：美國所有檔案將使用“超級智慧”一詞。
+
+---
+
+### 2026-09-22 23:02:01  #MKT News #Market Themes #AI Revolution
+
+Trump said on artificial intelligence that all U.S. documents will use the term "Super Intelligence".
+
+---
+
+### 2026-09-22 23:01:56  #國際
+
+特朗普：各國應立即退出國際刑事法院。
+
+---
+
+### 2026-09-22 23:01:29  #MKT News
+
+【Baotou Steel wins trial order for Hi‑B oriented silicon‑steel hot‑rolled feedstock】Baotou Steel Co., Ltd. secured a trial order to supply hot‑rolled feedstock for Hi‑B oriented (grain‑oriented) silicon steel after technical discussions. The order puts Baotou into the supply chain of a domestic high‑end electromagnetic‑materials maker and represents a breakthrough in its high‑end oriented silicon‑steel raw‑material supply.
 
 ---
 
@@ -14654,197 +14846,5 @@ Fed's GOOLSBEE said supply-demand pressures affect inf more in terms of pace tha
 ### 2026-09-21 21:00:34  #MKT News #Important #Hang Seng Index #Impact bullish #CSI300
 
 【Southbound Stock Connect ETFs see heavy turnover; insurers may be buying, source says】Sept 21 — Turnover in multiple Southbound Stock Connect ETFs surged. Wind data show Southern East‑West Select (3441) traded HK$339m on Sept 21; that ETF’s single‑day turnover had been below HK$100m over the past three months. Ping An Technology Select (3406) and Ping An East‑West Select (3477) each traded above HK$100m, both posting record highs and large volume increases. An institutional source said some insurance firms have received implementation notices and may have begun buying Southbound Stock Connect ETFs, with other insurers potentially to follow. Market participants say insurance inflows could broaden the Southbound ETF investor base, add long‑term liquidity, lift market activity and reinforce Hong Kong’s role as a cross‑border asset allocation hub.
-
----
-
-### 2026-09-21 21:00:29  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish
-
-Fed's GOOLSBEE said earlier this year inf data suggested supply shocks were easing, but some of the current inf pressure is demand-driven.
-
----
-
-### 2026-09-21 21:00:20  #MKT News #Important #Commodities #Industrial Metals #Energy #Copper #Impact bullish #WTI #Impact bearish
-
-Night session opened: major Chinese futures contracts mostly higher. SHFE copper and LME copper up >1%; glass, SHFE tin, pulp and benzene near +1%. On the downside, Shanghai crude (SC) fell >2%; low-sulfur fuel oil (LU), synthetic rubber, propylene, ethylene glycol (EG), fuel oil and LPG down >1%.
-
----
-
-### 2026-09-21 21:00:19  #公司
-
-谷歌推出售價899美元起的Googlebook人工智慧膝上型電腦。
-
----
-
-### 2026-09-21 21:00:02  #市場
-
-【國內期貨夜盤開盤】碳酸鋰連續漲3.14%，上海原油連續跌2.08%，生豬連續跌1.49%，國際銅連續漲1.43%，蘋果連續跌1.37%。
-
----
-
-### 2026-09-21 20:58:37  #市場
-
-鈀金期貨日內漲1%，現報1333.00美元/盎司。
-
----
-
-### 2026-09-21 20:58:02  #公司
-
-【觀想科技：擬支付現金收購遼晶電子60%股權，交易價格4.82億元】觀想科技公告，公司擬向蘇舟等15名交易對方支付現金收購遼晶電子60%股權，交易價格為4.82億元。本次交易構成關聯交易和重大資產重組，不構成重組上市。公司董事會已於2026年9月21日審議透過相關議案，交易尚需股東會審議及取得國家國防科技工業局或相關主管部門涉及軍工事項審查的意見。
-
----
-
-### 2026-09-21 20:57:54  #其他
-
-泰利克斯製藥擬以16.5億美元預付款收購ITM。
-
----
-
-### 2026-09-21 20:57:51  #其他
-
-捷克燃料監管將耗費國家預算11億捷克克朗。
-
----
-
-### 2026-09-21 20:57:11  #其他
-
-諾和諾德：墨西哥將成為Wegovy口服藥的下一個上市市場。
-
----
-
-### 2026-09-21 20:56:45  #MKT News #Commodities #Energy
-
-Czech Ministry of Finance to impose fuel price controls, capping retail margins on gasoline and diesel at 2.5 CZK per liter and cutting diesel tax to the EU minimum.
-
----
-
-### 2026-09-21 20:56:03  #MKT News #Market Regions #Europe & UK
-
-Czech Finance Ministry said the government will reinstate fuel price controls and cut the diesel tax, effective October.
-
----
-
-### 2026-09-21 20:55:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Satellite data show increased Saudi Gulf crude loadings】Last weekend Sentinel-2 satellite monitoring showed a sharp increase in Saudi Arabia's crude loadings in the Persian Gulf, the clearest sign yet that Riyadh is shifting export flows back toward the Strait of Hormuz after a key east–west pipeline was attacked and forced to close earlier this month. EU Sentinel-2 imagery identified supertankers with a combined loading capacity of about 14 mln barrels near Saudi Gulf export facilities — the highest level seen since June. Traders are seeking further details on Saudi crude export volumes.
-
----
-
-### 2026-09-21 20:54:36  #宏觀
-
-捷克政府重啟燃油價格監管並下調柴油稅，財政部稱措施將於10月實施。
-
----
-
-### 2026-09-21 20:53:47  #公司 #市場
-
-【南華生物：近期經營情況及內外部經營環境未發生重大變化】南華生物公告，股票於2026年9月17日、2026年9月18日、2026年9月21日連續三個交易日收盤價格漲幅累計偏離超過20%。公司核查稱近期經營情況及內外部經營環境未發生重大變化，不存在應披露未披露重大事項；控股股東及間接控股股東不存在買賣公司股票情形。
-
----
-
-### 2026-09-21 20:53:06  #公司 #市場
-
-惠普股價盤前下跌4.7%，此前該公司預計2027年全行業個人電腦出貨量將出現下滑。
-
----
-
-### 2026-09-21 20:52:14  #MKT News
-
-【Gulf states urge restart of ties with Iran】Gulf states are calling to restart relations with Iran after the conflict exposed their vulnerability to Iranian attacks and weakened US credibility. At a UN General Assembly event Qatar’s prime minister called the US-Israeli war on Iran a “wake-up call,” saying Gulf states must act collectively and maintain good relations with Tehran. The UAE president’s foreign adviser urged Arab-Iran dialogue and said talks between Tehran and Washington “have not actually made progress.” The comments reflect growing Gulf recognition that, with Washington mired in the conflict, regional states will likely have to manage post-war relations with Tehran themselves.
-
----
-
-### 2026-09-21 20:52:00  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Rises Despite Stronger Dollar as Middle East Tensions Persist — Silver climbed to $66.6 on Monday, its highest level since September 10, despite a stronger US dollar as investors continued to monitor developments in the Middle East. Oil prices extended their decline at the start of the week, easing concerns over prolonged inflationary pressures as markets looked for signs of diplomatic progress on the Iran conflict around this week’s UN meetings. However, tensions remained elevated as Iran and the US exchanged fresh threats on Sunday. Meanwhile, traders are pricing an 88% probability of a US rate increase in December, according to the CME FedWatch Tool. Last week, both the Federal Reserve and Bank of Japan raised interest rates and signaled further tightening, following a similar move by the ECB earlier this month.
-
----
-
-### 2026-09-21 20:51:38  #其他
-
-【同程旅行聯合元寶推出AI旅行規劃功能】9月20日，同程旅行與元寶聯合推出AI旅行規劃功能。依託同程旅行提供的景點、酒店、門票等真實文旅資源，使用者透過元寶生成AI旅行攻略後，可從攻略卡片直接跳轉至同程旅行微信小程式進行預訂。
-
----
-
-### 2026-09-21 20:50:41  #MKT News
-
-U.S. Trade Representative Greer said Canada’s economic growth is slow and he prefers the U.S. model.
-
----
-
-### 2026-09-21 20:50:24  #MKT News
-
-U.S. Trade Representative Greer said Canada wants to double down on globalization, but the U.S. will not.
-
----
-
-### 2026-09-21 20:50:12  #其他
-
-【國際移民組織：葉門近期衝突升級已致近13萬人流離失所】當地時間9月21日，國際移民組織釋出最新資料稱，受近期衝突升級影響，葉門已有近13萬人流離失所。國際移民組織表示，葉門流離失所人數仍在快速增加。9月18日，該組織記錄的流離失所人數為118086人，三天內又增加11352人。（央視新聞）
-
----
-
-### 2026-09-21 20:49:35  #MKT News
-
-【Around 7,000 humanoid robots sold globally in 2025】The International Federation of Robotics (IFR) will publish on the 24th data showing roughly 7,000 humanoid robots were sold worldwide in 2025, covering only industrial and professional-service humanoids and excluding consumer, military and medical units. The IFR, which has compiled industrial and service-robot market data for almost 30 years, will for the first time report a separate humanoid-sales figure. Under the IFR definition a humanoid must be human-shaped (legs optional) and capable of autonomous operation in environments designed for humans. IFR secretary-general Susan Biller said many 2025 humanoids are not performing productive work but are being used by research institutes and companies to generate data to refine AI models. Refinitiv reported on the 21st.
-
----
-
-### 2026-09-21 20:49:22  #其他
-
-格里爾稱加拿大增長緩慢，“我更看好我們的模式”。
-
----
-
-### 2026-09-21 20:49:08  #國際
-
-格里爾：加拿大希望進一步推進全球化，而美國並不認同。
-
----
-
-### 2026-09-21 20:49:02  #MKT News
-
-Russia's finance minister plans to increase the National Wealth Fund by 600 bln–1 tln rubles.
-
----
-
-### 2026-09-21 20:48:55  #國際
-
-俄羅斯財長：計劃將國家福利基金增加6000億至1萬億盧布。
-
----
-
-### 2026-09-21 20:48:25  #其他
-
-格里爾稱與墨西哥談判進展積極，而與加拿大之間仍存在分歧。
-
----
-
-### 2026-09-21 20:48:12  #國際
-
-俄羅斯財長：2026年預算執行赤字可能高達GDP的3%。
-
----
-
-### 2026-09-21 20:48:07  #MKT News
-
-Russia's finance minister said the 2026 budget could run a deficit of up to 3% of GDP.
-
----
-
-### 2026-09-21 20:47:50  #市場 #央行 #國際
-
-【德銀：市場可能低估本輪全球加息幅度，但加息未必導致股市下跌】德意志銀行表示，投資者可能低估主要央行本輪加息週期的最終幅度。宏觀策略師Henry Allen指出，美聯儲、歐洲央行和日本央行過去兩週均已加息，而大宗商品價格上漲、金融環境仍偏寬鬆，意味著央行可能需要進一步收緊政策。布倫特原油目前約為每桶100美元，能源價格上漲尚未完全反映在通脹資料中；與此同時，標普500指數接近歷史高位，信用利差仍處低位。德銀指出，市場歷史上更容易低估加息幅度，2022年投資者最初預計美聯儲首年加息約200個基點，實際超過400個基點。不過，德銀認為加息並不必然導致股市下跌，並以1999年為例稱，當年美聯儲累計加息175個基點，標普500指數全年仍上漲近20%。
-
----
-
-### 2026-09-21 20:47:44  #其他
-
-【智算中心上演交付競賽，算電協同迎來雙向基建大考】隨著大模型訓練規模擴大、推理應用加速落地，國內智算中心（AIDC）正在上演一場與時間賽跑的交付競賽，交付週期從“按年建設”轉向“按月交付”。對算力服務商而言，搶出的每一個月時間，意味著更早承接大模型客戶訂單、減少昂貴AI伺服器的閒置折舊。但極速交付背後，壓力也層層傳導。一方面考驗服務商預製化、模組化工程能力，機房內部供電、溫控以及園區負荷側電機系統整套架構面臨重構；另一方面，吉瓦（GW）級算力園區拔地而起，海量用電需求與新能源波動供電的矛盾浮現，算電協同不再是紙上談兵，而成為落到資源規劃、專案建設的現實命題。
-
----
-
-### 2026-09-21 20:47:32  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Slips on Dollar Strength — Gold prices edged lower toward $4,350 on Monday, pressured by a stronger US dollar and profit-taking after last week’s rally, while investors continued to monitor developments in the Middle East. Bullion reached its highest level in more than a week on Friday as falling oil prices eased concerns over prolonged inflationary pressures. Oil prices extended their decline at the start of the week as investors looked for signs of diplomatic progress on the Iran conflict around this week’s UN meetings, although tensions remained elevated as Iran and the US exchanged fresh threats on Sunday. Meanwhile, rate-hike expectations remain elevated, with traders pricing an 88% probability of a US rate increase in December, according to the CME FedWatch Tool. Last week, both the Federal Reserve and Bank of Japan raised interest rates and signaled further tightening, following a similar move by the ECB earlier this month.
 
 ---
