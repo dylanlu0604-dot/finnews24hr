@@ -1,7 +1,34 @@
 {
   "date": "2026-09-27",
-  "count": 642,
+  "count": 645,
   "items": [
+    {
+      "id": "mkt:01a0e36d-5635-7118-86ad-cddc4f116c2f",
+      "time": "2026-09-27 23:13:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Sources: Qatar continues shuttle diplomacy to try to broker U.S.-Iran deal】Axios reports that during the UN General Assembly in New York on Tuesday U.S. Middle East envoy Witkoff and Kushner held indirect talks with Iranian foreign minister Araghchi, with Qatari officials relaying messages. Araghchi conveyed Iran's conditions: if the U.S. lifts a naval blockade, lifts oil‑sales sanctions and restores a comprehensive regional ceasefire, Iran would reopen the Strait of Hormuz within a week and resume nuclear talks. Trump rejected the proposal on Saturday, but a U.S. official and two regional sources say Qatari mediators continued shuttle diplomacy over the weekend, circulating a compromise text and iterating edits; mediators were expected to meet Araghchi and Witkoff on Monday."
+    },
+    {
+      "id": "5114944",
+      "time": "2026-09-27 23:11:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱不排除繼續打擊伊朗】特朗普稱，伊朗希望達成協議，但“不是我想要的協議”，並表示伊朗“高估了自己的籌碼”。當被問及是否考慮恢復對伊朗發動軍事打擊時，特朗普說：“我一直在考慮。”（CCTV國際時訊）"
+    },
+    {
+      "id": "5114943",
+      "time": "2026-09-27 23:10:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱他一直在考慮對伊朗發動打擊。"
+    },
     {
       "id": "5114942",
       "time": "2026-09-27 23:09:47",
