@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-27 17:24:13",
-  "count": 11834,
+  "updated": "2026-09-27 17:28:01",
+  "count": 11835,
   "items": [
+    {
+      "id": "5114780",
+      "time": "2026-09-27 17:27:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月26日全社會跨區域人員流動量19946.2萬人次】據交通運輸部訊息，2026年9月26日（中秋假期第2日），全社會跨區域人員流動量19946.2萬人次，環比下降17.6%，比2024年同期增長3.4%。"
+    },
+    {
+      "id": "5114779",
+      "time": "2026-09-27 17:26:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【2連板集泰股份：液冷矽油2026年上半年未實現任何銷售，產品目前處於內部應用驗證階段】2連板集泰股份(002909)9月27日釋出股票交易異常波動的公告，2026年上半年，公司新能源領域業務整體銷售收入為2845.45萬元，佔公司營業收入的5.88%，佔比較低。該業務經營情況受下游行業政策及市場需求變化、市場競爭、客戶驗證進度等因素影響，未來業務發展及對公司經營業績的影響存在不確定性。公司液冷矽油2026年上半年未實現任何銷售，產品目前處於內部應用驗證階段，並需同步開展客戶驗證；在相關驗證完成並符合要求後，方可進入小批次生產階段。相關產品的驗證進展及結果、小批次生產進度、客戶匯入、後續訂單獲取及規模化銷售等事項均存在不確定性。"
+    },
+    {
+      "id": "5114778",
+      "time": "2026-09-27 17:23:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【弘宇股份：高階管理人員劉志鴻擬減持公司不超0.59%股份】弘宇股份公告，持股2.53%的高階管理人員劉志鴻計劃在15個交易日後的3個月內，以集中競價交易減持公司股份不超過100萬股（佔公司總股本的0.59%）。"
+    },
     {
       "id": "5114777",
       "time": "2026-09-27 17:23:25",
@@ -107924,26 +107948,6 @@
         "公司"
       ],
       "text": "【建發股份子公司與海通恆信小微簽署戰略合作協議】據建發股份公眾號，9月16日，建發股份全資子公司建發生活資材、建發融資租賃與海通恆信控股子公司海通恆信小微融資租賃（上海）有限公司（下稱“海通恆信小微”）簽署戰略合作協議。建發生活資材、建發融資租賃將攜手海通恆信小微，聚焦紡織、食品、智慧裝置等重點領域，圍繞裝置租賃、原料供應鏈、成品銷售服務等關鍵環節，建立長期、全面的戰略合作關係。"
-    },
-    {
-      "id": "mkt:01a0be22-974c-7118-8615-25c6780ed669",
-      "time": "2026-09-20 17:25:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Ruixin RISC‑V dataflow AI chip to power Qiyuan humanoid robots; partnership deepens domestic compute localization】On Sept. 20 in Shanghai, Suzhou Ruixin Integrated Circuit Technology was named compute ecosystem partner to Qiyuan Robotics. The firms will collaborate on embodied-intelligence edge compute and deploy Ruixin's RISC‑V dataflow hardware AI chips in humanoid-robot applications — a tie-up industry contacts say signals deeper localization of compute across China’s embodied-intelligence supply chain."
-    },
-    {
-      "id": "5103939",
-      "time": "2026-09-20 17:24:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國地學研究中心（GFZ）：巴布亞紐幾內亞地區發生6.18級地震。"
     }
   ]
 }
