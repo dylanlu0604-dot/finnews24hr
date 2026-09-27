@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-27 22:39:13",
-  "count": 11764,
+  "updated": "2026-09-27 22:43:07",
+  "count": 11756,
   "items": [
+    {
+      "id": "5114927",
+      "time": "2026-09-27 22:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：嫌疑人當時企圖對我們的基地造成重大破壞。"
+    },
+    {
+      "id": "5114926",
+      "time": "2026-09-27 22:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：英國的逮捕行動太棒了。"
+    },
+    {
+      "id": "5114925",
+      "time": "2026-09-27 22:39:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：颶風“費伊”正向南偏東南方向移動。"
+    },
     {
       "id": "5114924",
       "time": "2026-09-27 22:36:25",
@@ -107210,108 +107234,6 @@
         "其他"
       ],
       "text": "卡什卡利稱投資需求旺盛，這往往會推高利率。"
-    },
-    {
-      "id": "5104106",
-      "time": "2026-09-20 22:42:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡什卡利表示，希望我們能從政府其他部門及實體經濟中獲得幫助。"
-    },
-    {
-      "id": "mkt:01a0bf44-e016-7118-8617-1898525f53bf",
-      "time": "2026-09-20 22:42:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Fed's Kashkari said he hopes the Fed can secure support from other parts of government and from the real economy."
-    },
-    {
-      "id": "5104105",
-      "time": "2026-09-20 22:42:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達首相稱，以色列並未履行其在加沙問題上作出的承諾。"
-    },
-    {
-      "id": "mkt:01a0bf44-9c96-7118-8617-15f0191a0e25",
-      "time": "2026-09-20 22:42:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "KASHKARI said the Fed's task is to bring inf back to the 2% target. Inf remains too high and is not solely driven by oil-price factors."
-    },
-    {
-      "id": "5104104",
-      "time": "2026-09-20 22:42:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡什卡利稱通脹影響已超越油價範疇。"
-    },
-    {
-      "id": "5104103",
-      "time": "2026-09-20 22:41:55",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "卡什卡利在接受採訪時表示通脹水平仍然過高。"
-    },
-    {
-      "id": "5104102",
-      "time": "2026-09-20 22:40:57",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "明尼阿波利斯聯儲主席卡什卡利表示，美聯儲的工作是讓通脹率回落到2%的目標水平。"
-    },
-    {
-      "id": "5104101",
-      "time": "2026-09-20 22:40:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達首相稱，以色列在加沙的行動是 “魯莽的”。"
-    },
-    {
-      "id": "5104100",
-      "time": "2026-09-20 22:39:56",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：葉門胡塞武裝同意不與美國交戰】美國總統特朗普20日對福克斯新聞頻道說，美國同葉門胡塞武裝保持著溝通，他們同意不與美國交戰。（新華社）"
-    },
-    {
-      "id": "mkt:01a0bf41-f412-7118-8617-081e8e7ce25d",
-      "time": "2026-09-20 22:39:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's prime minister said the economic crisis is an opportunity to trim bloated government spending and refocus state investment on priority areas."
-    },
-    {
-      "id": "5104099",
-      "time": "2026-09-20 22:39:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達首相：卡達經濟面臨的危機是“削減冗餘”的契機，政府支出中該砍的部分必須砍，並將國家投資聚焦於關鍵領域。"
     }
   ]
 }
