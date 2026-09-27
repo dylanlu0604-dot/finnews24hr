@@ -1,7 +1,48 @@
 {
   "date": "2026-09-27",
-  "count": 215,
+  "count": 219,
   "items": [
+    {
+      "id": "mkt:01a0e039-d894-7118-86aa-da5f3cf5d8ae",
+      "time": "2026-09-27 08:18:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Russia says it seized three settlements; Ukraine reports multiple attacks】On the 26th the Russian defence ministry said Russian forces seized three settlements in Sumy and Kharkiv regions in the past 24 hours and struck Ukrainian transport infrastructure, Ukrainian units and temporary deployment points for foreign mercenaries across 152 locations. It said strikes hit a Kyiv data-processing centre that supported the Ukrainian armed forces’ mobile internet and Starlink satellite communications. As of 0800 on the 26th, Russian air defences had shot down 645 Ukrainian drones over Belgorod, Bryansk and the Black Sea. Ukraine’s General Staff reported 205 engagements along the front in the past day; Ukrainian air force, missile and artillery units struck three drone command-and-launch sites, six artillery systems and one ammunition depot, and Kyiv said it launched multiple attacks in the North Slobozhansk, South Slobozhansk and Kursk directions."
+    },
+    {
+      "id": "5114573",
+      "time": "2026-09-27 08:17:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱控制多個居民點 烏稱發動多次進攻】俄羅斯國防部26日釋出戰報稱，過去24小時，俄軍控制了蘇梅地區以及哈爾科夫地區共三處居民點。戰報稱，俄軍在152個區域對烏交通基礎設施目標、烏部隊和外國僱傭兵臨時部署點實施打擊。俄軍還打擊了位於基輔市的一處資料處理中心，該中心為烏武裝部隊提供移動網際網路和“星鏈”衛星通訊系統執行支援。截至26日8時，俄防空部隊在別爾哥羅德州、布良斯克州等地及黑海上空擊落645架烏無人機。烏克蘭武裝部隊總參謀部26日稱，過去一天前線地區共發生205次戰鬥。烏空軍、導彈部隊和炮兵襲擊了俄方3個無人機指揮和發射點、6套火炮系統以及1個彈藥庫。過去一天，在北斯洛博然斯克、南斯洛博然斯克、庫爾斯克等方向對俄軍發動多次進攻。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0e038-819e-7118-86aa-d47e03611f80",
+      "time": "2026-09-27 08:16:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Saudi says Strait of Hormuz must be restored to \"pre-conflict state\"】Saudi foreign minister Faisal told the UN General Assembly on Sept. 26 that the Strait of Hormuz must be restored to its state before Feb. 28 and that no fees or restrictions should be imposed. He said Gulf security is integral to regional and global security, directly affecting global energy supplies, international trade and supply-chain resilience. Faisal called for freedom of navigation in all international waterways—specifically the Strait of Hormuz, Bab al-Mandeb, the Red Sea and the Gulf of Aden—said Saudi opposes using these routes as tools of coercion or to harm other states, and expressed support for peaceful, de-escalatory initiatives."
+    },
+    {
+      "id": "mkt:01a0e037-6dec-7118-86aa-ca2a7a4df04e",
+      "time": "2026-09-27 08:15:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said if Republicans win, every adult would receive a $5,000 payout, and Democrats could not deliver that."
+    },
     {
       "id": "5114572",
       "time": "2026-09-27 08:06:56",
