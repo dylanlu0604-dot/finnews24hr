@@ -1,7 +1,26 @@
 {
   "date": "2026-09-27",
-  "count": 279,
+  "count": 281,
   "items": [
+    {
+      "id": "mkt:01a0e0e6-c033-7118-86ab-6c7481c0eb3c",
+      "time": "2026-09-27 11:26:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "【South Korea excess tax revenue this year may exceed 50 tln won】Excess tax revenue in South Korea could exceed 50 tln won (~$37.0 bln), driven partly by a stronger-than-expected semiconductor cycle, YONHAP reports. That windfall could lift the Future Fund — the vehicle for channeling surplus tax receipts into strategic investment and fiscal reserves — above 200 tln won. The Ministry of Economy and Finance is expected to publish a revised 2026 national tax revenue forecast later this month. Officials say the surprise receipts give the government room to raise spending without matching increases in borrowing; the 2027 budget proposal would direct most of the semiconductor-related windfall to AI, chip support and youth programs while limiting bond issuance and building a fiscal buffer."
+    },
+    {
+      "id": "5114617",
+      "time": "2026-09-27 11:25:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【在軌4個多月 神二十三乘組完成載荷進出艙等多項工作】神舟二十三號乘組航天員朱楊柱、張志遠、黎家盈已經在軌4個多月，上週，在穩步推進站內各項空間科學實（試）驗、常態化開展組合體平臺照料的同時，他們還完成了載荷進出艙相關工作。此次出艙的元器件與元件艙外通用試驗裝置，包含“空芯光子帶隙光纖陀螺”“先進工藝器件”“基於國產AI晶片的遙感目標檢測”等試驗單元，用於開展空間新技術與應用領域試驗。乘組在地面人員的支援配合下完成了材料艙外暴露實驗裝置的回艙工作。這個裝置自2022年11月12日隨天舟五號貨運飛船發射入軌以來，已開展3批次共計16個專案的暴露實驗，創造多項國際首次。當前，正在開展第四次實驗，覆蓋8個科學研究專案、26個單元樣品。上週，艙內各項空間科學實（試）驗有序開展，乘組進行了在軌觸覺感知實驗專案的質量感知及手臂振動實驗測試，研究空間飛行中航天員觸覺感受能力的變化規律。他們還完成了應急決策能力評估和在軌情緒狀態測試，持續積累測試資料。在空間站組合體平臺照料方面，乘組對再生生保系統水氣分離裝置內的元件進行了更換。此外，航天員完成了12導心電圖、無創心功能檢查等醫學檢查，並使用骨丟失對抗儀、神經肌肉刺激儀等裝置對抗失重生理效應。 (央視新聞)"
+    },
     {
       "id": "mkt:01a0e0d8-fa86-7118-86ab-6457a78476b9",
       "time": "2026-09-27 11:11:51",
