@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-27 08:45:47",
+  "updated": "2026-09-27 08:49:37",
   "count": 11995,
   "items": [
+    {
+      "id": "mkt:01a0e053-8326-7118-86aa-fcc028b0c3f3",
+      "time": "2026-09-27 08:46:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Heihe (pedestrian) port passes national acceptance for opening to foreign traffic】A national acceptance team — comprising the National Port Administration Office, Ministry of Foreign Affairs, Customs, National Immigration Administration and the Joint Staff Department of the Central Military Commission — recently conducted a comprehensive inspection of Heihe (pedestrian) port's readiness and formally concluded it has passed national acceptance for opening to foreign traffic."
+    },
     {
       "id": "5114581",
       "time": "2026-09-27 08:42:11",
@@ -109320,18 +109330,6 @@
         "國際"
       ],
       "text": "【李迅雷：科技板塊仍是結構性行情主線 應繼續吸引中長期資金入市】9月19日，在2026年清華五道口首席經濟學家論壇期間，中泰國際首席經濟學家李迅雷接受了媒體採訪。談及資本市場，李迅雷指出，結構性行情的主線仍在科技板塊，對於人工智慧（AI）或科創板相關ETF的配置，他仍持樂觀態度，但個股之間或將出現分化。整體來看，李迅雷認為，要改變科技板塊對市場資金的虹吸效應，必須依靠宏觀政策發力。（證券時報）"
-    },
-    {
-      "id": "mkt:01a0bc48-4188-7118-8612-ad5207f7d3f6",
-      "time": "2026-09-20 08:47:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "2353.TW",
-        "Impact bearish"
-      ],
-      "text": "【Acer: storage shortages partly easing; PC prices may only reverse in H2 2027】Acer chairman Chen Junsheng said on the 19th supply tightness for storage and CPUs remains limited to a few specifications, while shortages for other specs are easing. He said elevated, volatile component prices mean end-market PC prices will likely keep rising in Q4, averaging a 5-20% increase, and may not reverse until H2 2027."
     }
   ]
 }

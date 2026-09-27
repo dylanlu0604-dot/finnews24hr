@@ -1,7 +1,17 @@
 {
   "date": "2026-09-27",
-  "count": 230,
+  "count": 231,
   "items": [
+    {
+      "id": "mkt:01a0e053-8326-7118-86aa-fcc028b0c3f3",
+      "time": "2026-09-27 08:46:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Heihe (pedestrian) port passes national acceptance for opening to foreign traffic】A national acceptance team — comprising the National Port Administration Office, Ministry of Foreign Affairs, Customs, National Immigration Administration and the Joint Staff Department of the Central Military Commission — recently conducted a comprehensive inspection of Heihe (pedestrian) port's readiness and formally concluded it has passed national acceptance for opening to foreign traffic."
+    },
     {
       "id": "5114581",
       "time": "2026-09-27 08:42:11",
