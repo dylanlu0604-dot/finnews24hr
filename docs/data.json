@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-28 02:16:57",
-  "count": 11695,
+  "updated": "2026-09-28 02:20:43",
+  "count": 11694,
   "items": [
+    {
+      "id": "mkt:01a0e417-76d8-7118-86ae-9cf0e666e987",
+      "time": "2026-09-28 02:18:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister's Office said Prime Minister Burnham discussed the Lennahouse Strategic Defense Agreement with the Norwegian prime minister and welcomed an agreement reached between Denmark, Greenland and the United States."
+    },
     {
       "id": "mkt:01a0e40c-356f-7118-86ae-9779ba2e01f4",
       "time": "2026-09-28 02:06:40",
@@ -106664,22 +106672,6 @@
         "WTI"
       ],
       "text": "ZELENSKIY thanked the US president for signing the Lindsey Graham sanctions bill targeting Russia into law."
-    },
-    {
-      "id": "5104341",
-      "time": "2026-09-21 02:18:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部：外長啟程前往紐約出席聯合國大會】伊朗外交部長阿拉格齊於週日晚間離開德黑蘭，前往紐約。伊朗外長將在前往紐約途中於多哈短暫停留，就地區最新局勢舉行磋商。"
-    },
-    {
-      "id": "mkt:01a0c00a-37c9-7118-8618-e6d7b57d8d56",
-      "time": "2026-09-21 02:18:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's president Zelenskiy said he spoke by phone with US president Trump; they agreed to meet in New York, a meeting Zelenskiy said \"could change many things\"."
     }
   ]
 }

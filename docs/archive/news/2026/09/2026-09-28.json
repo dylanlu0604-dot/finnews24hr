@@ -1,7 +1,15 @@
 {
   "date": "2026-09-28",
-  "count": 44,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:01a0e417-76d8-7118-86ae-9cf0e666e987",
+      "time": "2026-09-28 02:18:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister's Office said Prime Minister Burnham discussed the Lennahouse Strategic Defense Agreement with the Norwegian prime minister and welcomed an agreement reached between Denmark, Greenland and the United States."
+    },
     {
       "id": "mkt:01a0e40c-356f-7118-86ae-9779ba2e01f4",
       "time": "2026-09-28 02:06:40",
