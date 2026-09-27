@@ -1,7 +1,37 @@
 {
   "date": "2026-09-27",
-  "count": 628,
+  "count": 631,
   "items": [
+    {
+      "id": "5114934",
+      "time": "2026-09-27 22:58:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：敘利亞開始經巴尼亞斯港向伊拉克運送汽油。"
+    },
+    {
+      "id": "5114933",
+      "time": "2026-09-27 22:57:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普表示，美國將與伊朗進行更多會談。"
+    },
+    {
+      "id": "mkt:01a0e35d-6362-7118-86ad-a0c98af56498",
+      "time": "2026-09-27 22:55:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation said Zawiya refinery's first refining unit and crude pumping through the main Sharara-Zawiya pipeline resumed after Valve 7 was reopened."
+    },
     {
       "id": "5114932",
       "time": "2026-09-27 22:51:37",

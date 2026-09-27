@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-27 22:54:58",
-  "count": 11739,
+  "updated": "2026-09-27 22:58:53",
+  "count": 11735,
   "items": [
+    {
+      "id": "5114934",
+      "time": "2026-09-27 22:58:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：敘利亞開始經巴尼亞斯港向伊拉克運送汽油。"
+    },
+    {
+      "id": "5114933",
+      "time": "2026-09-27 22:57:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普表示，美國將與伊朗進行更多會談。"
+    },
+    {
+      "id": "mkt:01a0e35d-6362-7118-86ad-a0c98af56498",
+      "time": "2026-09-27 22:55:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation said Zawiya refinery's first refining unit and crude pumping through the main Sharara-Zawiya pipeline resumed after Valve 7 was reopened."
+    },
     {
       "id": "5114932",
       "time": "2026-09-27 22:51:37",
@@ -106998,67 +107028,6 @@
         "公司"
       ],
       "text": "卡達能源公司執行長：一旦霍爾木茲海峽重新開放，卡達可在數週內恢復正常天然氣運營。"
-    },
-    {
-      "id": "mkt:01a0bf53-79bc-7118-8617-72bb7019b12f",
-      "time": "2026-09-20 22:58:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "QatarEnergy CEO says the company is currently producing \"very little\" LNG."
-    },
-    {
-      "id": "5104125",
-      "time": "2026-09-20 22:57:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，熱帶風暴費伊在向東北方向移動的過程中增強。"
-    },
-    {
-      "id": "5104124",
-      "time": "2026-09-20 22:57:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿勒卡比稱，霍爾木茲海峽永遠不會失去其重要地位。"
-    },
-    {
-      "id": "mkt:01a0bf51-e778-7118-8617-68cd4ff8cd5a",
-      "time": "2026-09-20 22:56:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【U.S. media: U.S. military will not carry out offensive strikes against Houthis】CNN on the 20th, citing an anonymous U.S. official, reported the U.S. military will not carry out offensive strikes against Houthi forces in Yemen. U.S. support to Saudi Arabia has been limited to intelligence and targeting data for Saudi strikes; Washington says it has recently increased sharing and has provided Riyadh with what it needs to counter the Houthis."
-    },
-    {
-      "id": "5104123",
-      "time": "2026-09-20 22:56:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美軍不會對胡塞武裝發動進攻性打擊】美國有線電視新聞網20日援引一名美國官員的話報道說，美軍不會對葉門胡塞武裝發動“進攻性打擊”。報道稱，據匿名美國官員披露，迄今為止，美國軍方提供的支援僅限於為沙烏地阿拉伯針對胡塞武裝的打擊行動提供情報和目標資料，近期就此加大與沙特的共享力度，美方認為已向沙特提供其對抗胡塞武裝“所需的一切支援”。（新華社）"
-    },
-    {
-      "id": "5104122",
-      "time": "2026-09-20 22:56:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿勒卡比稱，卡達決定不修建霍爾木茲海峽繞行管道。"
-    },
-    {
-      "id": "5104121",
-      "time": "2026-09-20 22:56:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達能源大臣阿勒卡比稱，受霍爾木茲海峽局勢影響，卡達多個專案出現延期。"
     }
   ]
 }
