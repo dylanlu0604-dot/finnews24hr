@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-27 22:43:07",
-  "count": 11756,
+  "updated": "2026-09-27 22:47:06",
+  "count": 11747,
   "items": [
+    {
+      "id": "5114931",
+      "time": "2026-09-27 22:45:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心預測，熱帶低氣壓18E在墨西哥南部沿海近海停留期間將繼續增強。"
+    },
+    {
+      "id": "5114930",
+      "time": "2026-09-27 22:45:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，奧達利斯氣旋正在迅速減弱，預計將於今晚變性為溫帶後氣旋。"
+    },
+    {
+      "id": "5114929",
+      "time": "2026-09-27 22:44:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心就熱帶低氣壓\"費伊\"表示，該低氣壓將緩慢轉向，隨後在本週中期轉向西南偏西方向移動，且前進速度將加快。"
+    },
+    {
+      "id": "mkt:01a0e353-74d7-7118-86ad-9a51ac00541b",
+      "time": "2026-09-27 22:44:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "US President Trump said the suspect intended to cause significant damage to the base."
+    },
+    {
+      "id": "mkt:01a0e352-07cf-7118-86ad-9009e0450677",
+      "time": "2026-09-27 22:43:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP said arrests in the UK near RAF Fairford were a good thing and that the US had long monitored certain suspects and has apprehended them."
+    },
+    {
+      "id": "5114928",
+      "time": "2026-09-27 22:42:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們已對嫌疑人監視了很長時間，並已將其抓獲。"
+    },
     {
       "id": "5114927",
       "time": "2026-09-27 22:42:23",
@@ -107079,161 +107131,6 @@
         "國際"
       ],
       "text": "【駐有美軍的伊拉克埃爾比勒機場附近發生爆炸】據外媒20日報道，伊拉克埃爾比勒機場附近發生爆炸，該機場駐有美軍。（新華社）"
-    },
-    {
-      "id": "mkt:01a0bf47-5d67-7118-8617-57c06a50b0f8",
-      "time": "2026-09-20 22:45:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's Kashkari says the U.S. labor market remains quite strong."
-    },
-    {
-      "id": "5104114",
-      "time": "2026-09-20 22:45:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡什卡利稱勞動力市場相當強勁。"
-    },
-    {
-      "id": "mkt:01a0bf47-3d2d-7118-8617-4eb13eb1d41b",
-      "time": "2026-09-20 22:45:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "KASHKARI: bond market is the responsibility of the U.S. Treasury."
-    },
-    {
-      "id": "5104113",
-      "time": "2026-09-20 22:45:06",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "卡什卡利表示債券市場是財政部的職責。"
-    },
-    {
-      "id": "mkt:01a0bf47-0ea0-7118-8617-47256ee6cad7",
-      "time": "2026-09-20 22:45:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Kashkari said he hopes economic growth can take the lead and help drive disinflation."
-    },
-    {
-      "id": "5104112",
-      "time": "2026-09-20 22:44:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達首相稱，海灣國家必須在伊朗問題上協同行動。"
-    },
-    {
-      "id": "5104111",
-      "time": "2026-09-20 22:44:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡什卡利表示，希望經濟增長能夠接棒，推動通脹回落。"
-    },
-    {
-      "id": "mkt:01a0bf46-69ec-7118-8617-3bb59062c0ee",
-      "time": "2026-09-20 22:44:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Fed President Kashkari said the US economy remains strongly resilient despite the war."
-    },
-    {
-      "id": "mkt:01a0bf46-6531-7118-8617-366f5533188a",
-      "time": "2026-09-20 22:44:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Kashkari says there are some signs of improvement in productivity."
-    },
-    {
-      "id": "5104110",
-      "time": "2026-09-20 22:44:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡什卡利稱生產率顯現一些改善跡象。"
-    },
-    {
-      "id": "mkt:01a0bf46-3966-7118-8617-29b8744992ec",
-      "time": "2026-09-20 22:44:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed's Kashkari said economic growth has been fairly strong."
-    },
-    {
-      "id": "5104109",
-      "time": "2026-09-20 22:44:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡什卡利稱儘管有戰爭，美國經濟仍極具韌性。"
-    },
-    {
-      "id": "5104108",
-      "time": "2026-09-20 22:43:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡什卡利稱經濟增長相當強勁。"
-    },
-    {
-      "id": "mkt:01a0bf45-8be9-7118-8617-202f973fe426",
-      "time": "2026-09-20 22:43:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve's Kashkari said investment demand is very strong, which tends to push up interest rates."
-    },
-    {
-      "id": "5104107",
-      "time": "2026-09-20 22:43:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡什卡利稱投資需求旺盛，這往往會推高利率。"
     }
   ]
 }
