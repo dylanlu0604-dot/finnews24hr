@@ -1,7 +1,30 @@
 {
-  "updated": "2026-09-27 22:15:39",
-  "count": 11768,
+  "updated": "2026-09-27 22:19:43",
+  "count": 11763,
   "items": [
+    {
+      "id": "mkt:01a0e338-b52d-7118-86ad-7f59e033bec0",
+      "time": "2026-09-27 22:15:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said core inf has remained subdued and the Federal Reserve Board should keep an open mind."
+    },
+    {
+      "id": "5114918",
+      "time": "2026-09-27 22:15:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：沃什很清楚美國經濟可能獲得的收益。"
+    },
     {
       "id": "5114917",
       "time": "2026-09-27 22:14:13",
@@ -107277,63 +107300,6 @@
         "國際"
       ],
       "text": "【特朗普稱將對伊朗作出重大決定】美國總統特朗普今天（9月20日）在接受福克斯新聞記者揚斯特電話採訪時表示，美國對伊朗問題正處於“決策階段”，未來“不久”將發生“非常重大的事情”。揚斯特在節目中稱，特朗普表示目前擺在桌面上的選項包括“徹底摧毀伊朗”，讓伊朗經濟繼續惡化，或者達成協議。特朗普還表示，他正在考慮“何時以及是否”對伊朗採取徹底軍事行動。 揚斯特表示，目前尚不清楚特朗普所說的“不久”具體意味著數小時還是數天。報道說，此前特朗普突然提前結束在馬里蘭州戴維營的週末行程並返回白宮，引發外界對美國可能進一步採取軍事行動的猜測。（CCTV國際時訊）"
-    },
-    {
-      "id": "5104092",
-      "time": "2026-09-20 22:19:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 地中海航運（MSC）是德國國有邁爾船廠股權的潛在收購方之一。"
-    },
-    {
-      "id": "mkt:01a0bf2e-50f8-7118-8616-fc824e229bc7",
-      "time": "2026-09-20 22:17:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yibin signs strategic cooperation agreement with China Resources Group】Yibin city and China Resources Group signed a strategic cooperation agreement to deepen practical collaboration across consumer, integrated energy, urban construction and operations, healthcare, industrial finance and technology and emerging industries."
-    },
-    {
-      "id": "5104091",
-      "time": "2026-09-20 22:17:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "新聞人士馬克・古爾曼：據我所知，蘋果公司正準備在10月前終於在印度推出Apple Pay。"
-    },
-    {
-      "id": "mkt:01a0bf2d-fff0-7118-8616-f64843936512",
-      "time": "2026-09-20 22:17:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatari PM says Qatar expects to award roughly $38.5 billion in new infrastructure projects over the next five years."
-    },
-    {
-      "id": "5104090",
-      "time": "2026-09-20 22:16:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達預計未來五年將授出價值 385 億美元的基礎設施專案。"
-    },
-    {
-      "id": "mkt:01a0bf2c-46e2-7118-8616-ec59004cffa7",
-      "time": "2026-09-20 22:15:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Security sources said an air-defence system near Erbil airport in Iraqi Kurdistan shot down a drone."
-    },
-    {
-      "id": "5104089",
-      "time": "2026-09-20 22:15:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達房地產及酒店專案儲備預計將吸引 225 億美元資金。"
     }
   ]
 }

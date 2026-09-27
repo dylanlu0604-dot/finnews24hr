@@ -1,7 +1,30 @@
 {
   "date": "2026-09-27",
-  "count": 608,
+  "count": 610,
   "items": [
+    {
+      "id": "mkt:01a0e338-b52d-7118-86ad-7f59e033bec0",
+      "time": "2026-09-27 22:15:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said core inf has remained subdued and the Federal Reserve Board should keep an open mind."
+    },
+    {
+      "id": "5114918",
+      "time": "2026-09-27 22:15:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：沃什很清楚美國經濟可能獲得的收益。"
+    },
     {
       "id": "5114917",
       "time": "2026-09-27 22:14:13",
