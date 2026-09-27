@@ -1,7 +1,27 @@
 {
   "date": "2026-09-27",
-  "count": 277,
+  "count": 279,
   "items": [
+    {
+      "id": "mkt:01a0e0d8-fa86-7118-86ab-6457a78476b9",
+      "time": "2026-09-27 11:11:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP said SOUTH KOREA'S LEE has ended his US-Mexico trip and departed for home."
+    },
+    {
+      "id": "mkt:01a0e0d7-8463-7118-86ab-5db4bb760ce0",
+      "time": "2026-09-27 11:10:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Foreign Ministry said US President Trump and Japanese Prime Minister Takaichi spoke by phone for about 20 minutes at 1200 GMT Saturday (2000 Beijing time)."
+    },
     {
       "id": "5114616",
       "time": "2026-09-27 11:08:44",
