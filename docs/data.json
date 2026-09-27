@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-28 02:20:43",
-  "count": 11694,
+  "updated": "2026-09-28 02:24:31",
+  "count": 11693,
   "items": [
     {
       "id": "mkt:01a0e417-76d8-7118-86ae-9cf0e666e987",
@@ -106661,17 +106661,6 @@
         "MKT News"
       ],
       "text": "Slovak Prime Minister Robert Fico said he will not support any action that would lead NATO into conflict with Russia."
-    },
-    {
-      "id": "mkt:01a0c00d-60e3-7118-8618-ee31ea8d5678",
-      "time": "2026-09-21 02:21:37",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "ZELENSKIY thanked the US president for signing the Lindsey Graham sanctions bill targeting Russia into law."
     }
   ]
 }
