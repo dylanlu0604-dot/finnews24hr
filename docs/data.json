@@ -1,7 +1,17 @@
 {
-  "updated": "2026-09-27 10:54:18",
-  "count": 11918,
+  "updated": "2026-09-27 10:58:07",
+  "count": 11915,
   "items": [
+    {
+      "id": "mkt:01a0e0c8-dbd5-7118-86ab-50bbdcec8a5d",
+      "time": "2026-09-27 10:54:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Jialing River bridge closed; Langzhong–Yingshan commute to shrink to 40 minutes】The Jialing River mega-bridge on the Langzhong–Yingshan expressway in Nanchong, Sichuan achieved successful closure on the 26th after more than three years of construction. The 1,379m, 32.5m-wide double‑tower, dual‑plane cable‑stayed bridge is the expressway’s key control project; its closure paves the way for the full 103km route to be completed and opened by year‑end. Once operational, travel time between Langzhong and Yingshan is expected to fall from about 2.5 hours to roughly 40 minutes, enabling county‑to‑county highway connectivity across Nanchong. Authorities say the link will strengthen northeast Sichuan’s road network and support regional urban‑industrial integration and the Chengdu–Chongqing twin‑city economic circle."
+    },
     {
       "id": "5114610",
       "time": "2026-09-27 10:52:01",
@@ -108655,44 +108665,6 @@
         "其他"
       ],
       "text": "北京市人民政府關於印發《北京市“十五五”時期最佳化營商環境規劃》的通知。（北京市人民政府）"
-    },
-    {
-      "id": "5103696",
-      "time": "2026-09-20 10:57:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【螞蟻集團入股具身智慧公司天機智慧】企查查APP顯示，近日，廣東天機智慧系統有限公司發生工商變更，新增螞蟻科技集團股份有限公司全資子公司上海雲瑒企業管理諮詢有限公司等為股東，同時註冊資本增至2.44億元。公開資訊顯示，該公司是一傢俱身智慧公司。"
-    },
-    {
-      "id": "5103695",
-      "time": "2026-09-20 10:55:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家藥監局：鼓勵外資將原研藥品和高階醫療裝備引進境內生產】9月20日，國家藥監局副局長楊勝在國新辦釋出會上表示，將支援醫藥產業規模化、集約化、高階化發展。鼓勵醫藥企業建設智慧工廠、綠色工廠，將繼續支援京津冀、長三角、粵港澳大灣區、成渝雙城經濟圈等區域醫藥產業發展，著力培養3—5個具有國際競爭力的生物醫藥產業創新聚集地。將支援醫藥領域擴大對外開放合作，鼓勵外資將原研藥品和高階醫療裝備引進境內生產，也鼓勵中國企業走出去發展，讓中國的藥品器械造福全世界。"
-    },
-    {
-      "id": "mkt:01a0bcbc-b7e3-7118-8613-968c7bbdebc3",
-      "time": "2026-09-20 10:54:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Liao Min meets Kenya Treasury principal secretary Kipto】Beijing, Sept 18, 2026 — Vice Minister Liao Min met Kenya Treasury Principal Secretary Kipto to discuss China-Kenya relations and fiscal, financial and investment cooperation. Attendees included China Development Bank Vice President Wang Kebing, Export-Import Bank Vice President Wang Kang, Kenya Deputy Transport Minister Mohammed Daghar, Deputy Roads Minister Joseph Mbugua, Deputy Water Minister Julius Korir and Kenyan Ambassador to China Willy Bett."
-    },
-    {
-      "id": "mkt:01a0bcbc-664a-7118-8613-89955e6bbda3",
-      "time": "2026-09-20 10:54:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【China NMPA to introduce market exclusivity for pediatric and rare-disease drugs, strengthen data protection】Sept. 20 — China’s National Medical Products Administration deputy director Yang Sheng told a State Council press briefing the agency will implement drug trial data protection and establish market exclusivity periods for pediatric medicines and rare-disease treatments to better safeguard firms’ R&D investment. The NMPA will improve early-stage R&D communication, providing stronger pre-submission guidance for drugs with new targets or novel mechanisms. It will also expand a Spring Rain initiative to accelerate clinical translation of medical-device innovation and issue clinical trial and review guidance for frontier areas such as brain–computer interfaces to lay groundwork for future industry development."
     }
   ]
 }

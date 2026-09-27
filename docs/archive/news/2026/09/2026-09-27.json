@@ -1,7 +1,17 @@
 {
   "date": "2026-09-27",
-  "count": 270,
+  "count": 271,
   "items": [
+    {
+      "id": "mkt:01a0e0c8-dbd5-7118-86ab-50bbdcec8a5d",
+      "time": "2026-09-27 10:54:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Jialing River bridge closed; Langzhong–Yingshan commute to shrink to 40 minutes】The Jialing River mega-bridge on the Langzhong–Yingshan expressway in Nanchong, Sichuan achieved successful closure on the 26th after more than three years of construction. The 1,379m, 32.5m-wide double‑tower, dual‑plane cable‑stayed bridge is the expressway’s key control project; its closure paves the way for the full 103km route to be completed and opened by year‑end. Once operational, travel time between Langzhong and Yingshan is expected to fall from about 2.5 hours to roughly 40 minutes, enabling county‑to‑county highway connectivity across Nanchong. Authorities say the link will strengthen northeast Sichuan’s road network and support regional urban‑industrial integration and the Chengdu–Chongqing twin‑city economic circle."
+    },
     {
       "id": "5114610",
       "time": "2026-09-27 10:52:01",
