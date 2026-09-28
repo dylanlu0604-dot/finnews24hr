@@ -1,7 +1,80 @@
 {
   "date": "2026-09-28",
-  "count": 263,
+  "count": 271,
   "items": [
+    {
+      "id": "5115157",
+      "time": "2026-09-28 08:22:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新奧氫硼聚變商業化取得重大突破 “玄龍-50U”裝置實現氫硼聚變反應】據新奧集團訊息，9月下旬，新奧氫硼聚變商業化取得重大突破：“玄龍-50U”裝置實現氫硼聚變反應。這是全球商業化聚變公司在自有裝置上首次實現氫硼聚變反應，也是我國磁約束聚變裝置首次實現加註先進燃料（氫硼、氘氦3）的清潔無中子聚變反應。本次新奧聚變團隊透過高能中性束注入與射頻波的協同，大幅提高了氫硼反應第一共振峰的非熱平衡快質子份額，實現了大於108/秒的氫硼聚變反應率。"
+    },
+    {
+      "id": "5115156",
+      "time": "2026-09-28 08:22:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國波音公司：737MAX部分飛機著陸系統存在故障】波音737 MAX又出新故障，這一次問題出現在飛機著陸這一關鍵環節。據路透社等媒體27日報道，美國波音公司表示，737 MAX部分飛機的軟體存在故障，該故障可能導致自動導航系統在著陸過程中失效，相關問題已引起美國聯邦航空管理局（FAA）關注。 據美國《華爾街日報》報道，這一此前未公開的軟體故障源於駕駛艙軟體更新，可能會加重飛行員的負擔，尤其是在低空飛行且面臨惡劣天氣等複雜情況時。波音公司8月底已通知737 MAX運營商，在特定著陸場景中，飛行員可能無法使用自動飛行引導功能。 美國哥倫比亞廣播公司（CBS）援引航空業內人士的話稱，這可能會在“最糟糕的時刻”給機組增加干擾。（環球時報）"
+    },
+    {
+      "id": "mkt:01a0e564-39b2-7118-86b0-558e093323c2",
+      "time": "2026-09-28 08:22:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Lanqi Technology begins mass production of DDR5 fifth sub‑generation RCD05 chip】Lanqi Technology said its DDR5 fifth sub‑generation register clock driver chip, RCD05, has entered mass production. The RCD05 is aimed at high‑performance DDR5 RDIMM modules for data centers and AI servers to meet rising demand for higher bandwidth and greater memory reliability."
+    },
+    {
+      "id": "5115155",
+      "time": "2026-09-28 08:21:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "隨著油價反彈，美國國債收益率上升，5年期國債收益率上漲5個基點。"
+    },
+    {
+      "id": "5115154",
+      "time": "2026-09-28 08:21:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲1.0個基點，至4.165%。"
+    },
+    {
+      "id": "te:markets:587040",
+      "time": "2026-09-28 08:21:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Hitachi Stock Price Hits 4-week High — Hitachi shares increased to 5591.00 JPY, the highest since August 2026. Over the past 4 weeks, Hitachi gained 5.03%, and in the last 12 months, it increased 41.51%."
+    },
+    {
+      "id": "5115153",
+      "time": "2026-09-28 08:19:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瀾起科技成功量產DDR5第五子代RCD晶片】瀾起科技今日宣佈，其DDR5第五子代寄存時鐘驅動器晶片（RCD05）已成功實現量產。該產品面向高效能DDR5 RDIMM記憶體模組，旨在滿足資料中心、AI伺服器等應用對高頻寬、高可靠性記憶體系統日益增長的需求。"
+    },
+    {
+      "id": "5115152",
+      "time": "2026-09-28 08:19:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數突破67000點，為8月18日以來首次。"
+    },
     {
       "id": "mkt:01a0e561-57b9-7118-86b0-4b677a3dc1ea",
       "time": "2026-09-28 08:19:16",
