@@ -1,7 +1,142 @@
 {
-  "updated": "2026-09-28 10:55:20",
-  "count": 11798,
+  "updated": "2026-09-28 10:59:07",
+  "count": 11810,
   "items": [
+    {
+      "id": "mkt:01a0e5f3-2ddc-7118-86b4-32b0b0f37370",
+      "time": "2026-09-28 10:58:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "CSI 1000 index futures (IM) main contract slid below 7,100, down 4.15% intraday."
+    },
+    {
+      "id": "5115453",
+      "time": "2026-09-28 10:56:56",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【鎮江市政協黨組書記、主席郭建接受審查調查】江蘇省紀委監委28日通報，鎮江市政協黨組書記、主席郭建涉嫌嚴重違紀違法，主動投案，目前正接受江蘇省紀委監委紀律審查和監察調查。（新華社）"
+    },
+    {
+      "id": "5115452",
+      "time": "2026-09-28 10:56:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國政府中東問題特使翟雋出席2026年“慧眼中國環球論壇”】2026年9月24日至25日，中國政府中東問題特使翟雋應邀出席在新加坡舉行的2026年“慧眼中國環球論壇”。翟雋在論壇開幕式作主題發言，表示本屆論壇的主題是“重塑共識，增強韌性”，當前百年未有之大變局加速演進，中東地緣衝突波及全球，深入影響包括東南亞在內的世界其他區域經濟社會發展，各國需要以共識謀安全、以安全增韌性。習近平主席就促進中東地區共同安全提出四點倡議，為破解中東安全困局提供了可行路徑，明確了努力方向。中方將繼續秉持習近平主席四點倡議精神，同國際社會一道，支援中東地區國家發展睦鄰友好關係，秉持共同、綜合、合作、可持續的安全觀，構建中東安全新架構，並推動在各地區之間架起理解和信任的橋樑，為世界注入更多穩定性和確定性。出席論壇期間，翟雋分別同新加坡副總理兼貿工部長顏金勇、論壇主辦方新加坡通商中國主席李奕賢交流，並出席“世界新格局與中新現代化合作新前景”論壇，就中東局勢及中新關係同與會各方交換意見。（外交部）"
+    },
+    {
+      "id": "5115451",
+      "time": "2026-09-28 10:56:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【富時中國A50指數期貨跌2%】富時中國A50指數期貨跌幅擴大至2%。"
+    },
+    {
+      "id": "mkt:01a0e5f0-dc00-7118-86b4-29ed96153598",
+      "time": "2026-09-28 10:56:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI slipped below 6,900, down 2.58% on the day."
+    },
+    {
+      "id": "mkt:01a0e5f0-d781-7118-86b4-2404868d679f",
+      "time": "2026-09-28 10:56:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures fell 2%."
+    },
+    {
+      "id": "5115450",
+      "time": "2026-09-28 10:55:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【富時中國A50指數期貨跌2%】富時中國A50指數期貨跌幅擴大至2%。"
+    },
+    {
+      "id": "5115449",
+      "time": "2026-09-28 10:55:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4230美元/盎司，日內跌2.11%。"
+    },
+    {
+      "id": "mkt:01a0e5f0-7471-7118-86b4-18f6c917e10a",
+      "time": "2026-09-28 10:55:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold falls below $4,200/oz】Spot gold fell below $4,200/oz for the first time since Aug. 5, down 2% intraday."
+    },
+    {
+      "id": "te:markets:587094",
+      "time": "2026-09-28 10:55:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Singapore",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Singapore Stocks Hit 3-Week High as Banks Rise — The benchmark Straits Times Index (STI) rose 27 points, or 0.5%, to 5,738 in morning trade on Monday, extending gains from the previous session and hitting its highest level since September 8, mainly buoyed by gains in the financial, communication, and tech services sectors. The financial sector gained 0.9%, offsetting concerns over rising global bond yields, with all three local banks advancing: UOB rose 1.6%, OCBC Bank gained 0.6%, and DBS climbed 0.5%. However, traders awaited Singapore’s August industrial output data. Rising oil prices also capped the gains after US President Trump rejected Iran’s proposal to reopen the Strait of Hormuz. Caution also prevailed ahead of the release of China’s PMI data, US jobs data, and the PCE Index due later this week, which could provide clues about the Fed’s interest-rate decision at its upcoming meeting. Other early gainers included Singapore Airlines (1.1%), SATS (1.0%), and Jardine Matheson Holdings (0.7%)."
+    },
+    {
+      "id": "5115448",
+      "time": "2026-09-28 10:55:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4200美元/盎司，日內跌2.03%。"
+    },
+    {
+      "id": "5115447",
+      "time": "2026-09-28 10:55:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報4198.26美元/盎司。"
+    },
+    {
+      "id": "5115446",
+      "time": "2026-09-28 10:55:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度對原產於或進口自中國的孟魯司特鈉‌啟動反傾銷調查】中國貿易救濟資訊網訊息，9月24日，印度商工部發布公告稱，應印度國內企業Morepen Laboratories Limited提交的申請，對原產於或進口自中國的孟魯司特鈉‌啟動反傾銷調查。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609283885011298",
+      "time": "2026-09-28 10:55:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲該換個思路了？“華爾街之狼”：在AI時代加息是個錯誤！】億萬富翁投資者、被譽為“華爾街之狼”的比爾·阿克曼（BillAckman）最新表示，在人工智慧（AI）時代，收緊貨幣政策可能會被證明是一個錯誤。"
+    },
     {
       "id": "mkt:01a0e5ef-d349-7118-86b4-12cbc1536fb4",
       "time": "2026-09-28 10:54:54",
@@ -107668,22 +107803,6 @@
         "市場"
       ],
       "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.75%】TrendForce資料顯示，9月21日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.75%，DDR4 16Gb (2Gx8) 3200現貨均價較上日下跌0.88%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。"
-    },
-    {
-      "id": "5104723",
-      "time": "2026-09-21 10:55:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於週一美國東部時間下午5:35在紐約會見馬克龍。"
-    },
-    {
-      "id": "5104722",
-      "time": "2026-09-21 10:55:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【IMF總裁：世界經濟面臨多重風險】國際貨幣基金組織（IMF）總裁格奧爾基耶娃20日在紐約舉行的一場會議上表示，世界經濟儘管比很多人所預想的更具韌性，但仍然面臨頑固通脹、償債成本升高和人工智慧投資過熱等帶來的風險。“風險處於高位，不確定性是新的常態。”格奧爾基耶娃說，IMF定於10月釋出的最新世界經濟展望報告將反映風險依然處於高位的事實。面臨多重風險，世界經濟增速維持在3%左右“將是一個巨大成就”。（新華社）"
     }
   ]
 }
