@@ -1,7 +1,1785 @@
 {
   "date": "2026-09-28",
-  "count": 1503,
+  "count": 1696,
   "items": [
+    {
+      "id": "5117085",
+      "time": "2026-09-28 23:59:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "力拓集團：將獨家銷售RevoCast在不列顛哥倫比亞省蘭利新投產的鑄造廠生產的鋼坯。"
+    },
+    {
+      "id": "te:markets:587357",
+      "time": "2026-09-28 23:58:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "McDonalds Stock Price Hits Near 4-year Low — McDonalds shares decreased to 234.02 USD, the lowest since October 2022. Over the past 4 weeks, McDonalds lost 11.18%, and in the last 12 months, it decreased 22.75%."
+    },
+    {
+      "id": "5117084",
+      "time": "2026-09-28 23:58:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SPACEX：星艦在關鍵飛行後濺落海洋。"
+    },
+    {
+      "id": "5117083",
+      "time": "2026-09-28 23:57:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "道達爾能源執行長：歐盟油輪可用於在歐盟境外運輸俄羅斯亞馬爾專案的液化天然氣，但相關業務規模有限。"
+    },
+    {
+      "id": "5117082",
+      "time": "2026-09-28 23:56:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總理：魯比奧強調，必須繼續落實三方框架，以實現穩定與安全。"
+    },
+    {
+      "id": "5117081",
+      "time": "2026-09-28 23:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總理：魯比奧重申華盛頓致力於支援黎巴嫩及合法機構，並將繼續支援黎巴嫩軍隊。"
+    },
+    {
+      "id": "5117080",
+      "time": "2026-09-28 23:55:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總理：我們強調美國對黎巴嫩軍隊的支援及其能力提升的重要性，以使其能夠有效維護國家權威。"
+    },
+    {
+      "id": "5117079",
+      "time": "2026-09-28 23:55:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總理：三方框架不僅限於安全安排，還包括支援政府的重建工作。"
+    },
+    {
+      "id": "5117078",
+      "time": "2026-09-28 23:55:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總理：我們強調必須切實落實三方框架，以實現黎巴嫩的主權恢復及以色列撤軍。"
+    },
+    {
+      "id": "5117077",
+      "time": "2026-09-28 23:55:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總理：期待與華盛頓建立與時俱進的夥伴關係，助力國家重建並強化合法機構。"
+    },
+    {
+      "id": "5117076",
+      "time": "2026-09-28 23:53:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗CEO：本行持續追蹤代理人動態。"
+    },
+    {
+      "id": "5117075",
+      "time": "2026-09-28 23:53:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：Z4D虛擬機器現已在部分割槽域開放可用。"
+    },
+    {
+      "id": "5117074",
+      "time": "2026-09-28 23:52:48",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗CEO：銀行業的智慧體人工智慧需要配備妥當的管控機制與身份驗證體系。"
+    },
+    {
+      "id": "5117073",
+      "time": "2026-09-28 23:52:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：Z4D儲存最佳化型機器系列現已在谷歌計算引擎上全面推出。"
+    },
+    {
+      "id": "5117072",
+      "time": "2026-09-28 23:47:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆即將首次以首相身份在工黨大會上發表演講，外界預計他將推動工黨進一步邁向重返歐盟。"
+    },
+    {
+      "id": "5117071",
+      "time": "2026-09-28 23:47:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四條線開通 “八縱八橫”高鐵網主通道建成86%】9月28日，京港高鐵雄安至商丘段、西渝高鐵西安至安康段、宜昌至興山高鐵、哈爾濱至伊春高鐵同日開通運營。從華北平原到秦巴山區，從三峽庫區到小興安嶺，四條高鐵蜿蜒縱橫。至此，我國“八縱八橫”高鐵網主通道已建成86%，為區域經濟社會發展注入交通新動能。（新華社）"
+    },
+    {
+      "id": "5117070",
+      "time": "2026-09-28 23:46:27",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗：花旗代幣服務（Citi Token Services）將全球業務版圖擴充套件至日本和阿聯酋。"
+    },
+    {
+      "id": "5117069",
+      "time": "2026-09-28 23:43:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【快手可靈4.0將於10月正式上線】9月28日，快手可靈AI宣佈，Kling 4.0將於10月正式上線。其中，Kling 4.0 Flash於9月28日率先開放小範圍體驗。據介紹，Kling 4.0支援4K、1080p的10-bit HDR格式輸出；單次輸入最多10張圖片、5段影片及7個主體，在同一生成任務組合使用；支援單次生成影片最長可達30秒，支援長鏡頭與連續敘事。"
+    },
+    {
+      "id": "5117068",
+      "time": "2026-09-28 23:42:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟官員稱歐盟考慮為烏克蘭等四國制定“入盟路線圖”】27日，歐洲方面有訊息顯示，歐盟正考慮為黑山、烏克蘭、摩爾多瓦和阿爾巴尼亞制定專門的“入盟路線圖”，以加快其入盟程序。據兩名參與相關方案制定的歐盟委員會高階官員透露，路線圖將為四國列出明確的改革重點、時間節點，併為完成入盟談判中的關鍵階段設定大致日期。（央視新聞）"
+    },
+    {
+      "id": "5117067",
+      "time": "2026-09-28 23:41:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯一家煙花廠起火 5人死亡】俄羅斯雅羅斯拉夫爾州緊急情況總局9月28日通報，該州一家煙花廠起火，目前火勢已被控制，在清理廢墟時發現5具屍體。通報未說明事故原因。（央視新聞）"
+    },
+    {
+      "id": "te:markets:587352",
+      "time": "2026-09-28 23:41:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Portugal",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Portugal 10Y Bond Yield Hits 9-1/2-year High — Portugal 10 Year Government Bond Yield increased to 4.05%, the highest since March 2017. Over the past 4 weeks, Portugal 10Y Bond Yield gained 35.64 basis points, and in the last 12 months, it increased 92.20 basis points."
+    },
+    {
+      "id": "5117066",
+      "time": "2026-09-28 23:40:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士：美國和伊朗將於今天在紐約舉行由卡達和巴基斯坦斡旋的間接會談。"
+    },
+    {
+      "id": "5117065",
+      "time": "2026-09-28 23:39:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "中非國家銀行維持基準利率在4.5%。"
+    },
+    {
+      "id": "5117064",
+      "time": "2026-09-28 23:39:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【交易員下調歐洲央行加息押注 預計10月加息機率不足40%】交易員降低了對歐洲央行連續加息的預期，目前預計10月加息的機率不到40%。此前歐洲央行行長拉加德表示，自央行上次會議以來走高的債券收益率將拖慢經濟增長並制約通脹。交易員降低了對歐洲央行截至明年2月三次會議的加息押注，對10月會議計入的加息幅度降至9.5個基點。"
+    },
+    {
+      "id": "5117063",
+      "time": "2026-09-28 23:38:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見日本國際貿易促進協會會長巖屋毅】中共中央政治局委員、中央外辦主任王毅28日在北京會見日本國際貿易促進協會會長巖屋毅。王毅表示，日本國貿促是著名民間友好團體之一，成立至今致力於中日友好事業，尤其是在中日關係面臨挑戰、遭受破壞時，仍然能夠秉持對華友好信念，維護中日關係政治基礎。國貿促前任會長河野洋平先生是一個有良知的政治家，敢於直面日本過去的黑暗歷史，勇於反省軍國主義的侵略罪責，贏得了中國及周邊國家人民的尊重。前事不忘，後事之師。切實以史為鑑，才能真正開闢未來。今年是東京審判開庭80週年，日本再次面對歷史的拷問。如果不願汲取歷史教訓，挑戰戰後“和平憲法”，甚至企圖為侵略歷史翻案、替戰爭罪犯招魂，日本就無法面對世界，更談不上開闢未來，也難以有未來。（新華社）"
+    },
+    {
+      "id": "5117062",
+      "time": "2026-09-28 23:38:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮官員：特朗普昨晚與Anthropic執行長舉行了會晤。"
+    },
+    {
+      "id": "5117061",
+      "time": "2026-09-28 23:37:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達與OpenAI公司CEO受邀參加特朗普與約翰遜的人工智慧會議。"
+    },
+    {
+      "id": "5117060",
+      "time": "2026-09-28 23:37:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國戰略石油儲備原油庫存上週降至2.838億桶，為1982年以來最低水平。"
+    },
+    {
+      "id": "5117059",
+      "time": "2026-09-28 23:36:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX：星艦正在重新進入地球大氣層。"
+    },
+    {
+      "id": "5117058",
+      "time": "2026-09-28 23:36:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Meta執行長扎克伯格將出席特朗普與科技執行長的會議。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609283885569132",
+      "time": "2026-09-28 23:35:50",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國戰略石油儲備（SPR）的原油庫存上週降至2.838億桶，創1982年以來最低水平。"
+    },
+    {
+      "id": "5117057",
+      "time": "2026-09-28 23:35:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "波士頓就電動車補貼撥款被撤銷起訴特朗普政府。"
+    },
+    {
+      "id": "5117056",
+      "time": "2026-09-28 23:34:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國眾議院議長表示，特朗普與科技企業執行長的人工智慧會議將聚焦於尋求監管與發展的平衡。"
+    },
+    {
+      "id": "5117055",
+      "time": "2026-09-28 23:34:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧在華盛頓會見沙烏地阿拉伯外交大臣費薩爾·本·法爾漢親王。"
+    },
+    {
+      "id": "te:markets:587350",
+      "time": "2026-09-28 23:34:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Up Slightly — The FTSE 100 edged higher on Monday as strong gains in housebuilders and energy stocks were largely offset by broad weakness across the mining sector. Barratt Redrow jumped 12% and Howden Joinery gained more than 3% after the Labour government announced plans for a new version of the Help-to-Buy equity loan scheme, boosting sentiment toward UK housing-related stocks. Energy companies also advanced, with Shell and BP each rising more than 1% as oil prices strengthened amid the continuing standoff between the US and Iran. Markets remained cautious, however, as hopes for an imminent diplomatic breakthrough in the Middle East conflict faded. Mining stocks came under significant pressure, with Fresnillo falling more than 5% and Endeavour Mining declining over 4% as weaker gold prices weighed on precious-metals producers. Copper prices also fell, adding to pressure across the sector. Antofagasta, Anglo American and Glencore each declined by around 2%, limiting the broader FTSE 100 advance."
+    },
+    {
+      "id": "5117054",
+      "time": "2026-09-28 23:33:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源執行長：關於我們是否應當對液化天然氣宣佈不可抗力，曾存在很大爭議。"
+    },
+    {
+      "id": "5117053",
+      "time": "2026-09-28 23:33:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱，已在黎巴嫩南部城鎮曼蘇里完成了一次摧毀真主黨基礎設施的大規模行動。"
+    },
+    {
+      "id": "5117052",
+      "time": "2026-09-28 23:33:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱打擊烏軍物流通訊基建等目標】俄羅斯國防部28日釋出通報說，俄武裝部隊27日夜間至28日凌晨使用無人機對服務於烏軍的物流和通訊中心、港口基礎設施以及船隻實施打擊。烏克蘭總統澤連斯基28日表示，烏方正持續利用遠端打擊能力回應俄羅斯針對烏克蘭的襲擊。（央視新聞）"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609283885568572",
+      "time": "2026-09-28 23:33:22",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國財政部3個月期國庫券中標利率4.110%，投標倍數2.99。美國財政部6個月期國庫券中標利率4.285%，投標倍數2.64。"
+    },
+    {
+      "id": "5117051",
+      "time": "2026-09-28 23:32:25",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率4.110%，投標倍數2.99。拍賣六個月期國債，得標利率4.285%，投標倍數2.64。"
+    },
+    {
+      "id": "5117050",
+      "time": "2026-09-28 23:31:39",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.12%，歐元斯托克指數上漲0.1%，歐元區藍籌股指數上漲0.11%。英國富時100指數上漲0.05%，德國DAX指數下跌0.01%，法國CAC 40指數上漲0.14%，西班牙IBEX指數下跌0.33%。"
+    },
+    {
+      "id": "5117049",
+      "time": "2026-09-28 23:30:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟作物監測機構預估，2026年歐盟向日葵籽單產為每公頃1.96噸，上月預估為每公頃1.92噸。"
+    },
+    {
+      "id": "5117048",
+      "time": "2026-09-28 23:30:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，虎虎科技漲11.11%，MAAS漲9.69%，AIFU漲6.95%，網易漲5.22%，海川證券漲4.52%。"
+    },
+    {
+      "id": "5117047",
+      "time": "2026-09-28 23:30:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟就如何供烏愛國者導彈存分歧】今天（9月28日），歐盟防長會在布魯塞爾舉行，俄烏衝突仍是熱點議題。圍繞對烏克蘭軍事支援問題，特別是如何向烏克蘭提供更多防空能力、尤其是“愛國者”導彈，歐盟成員國有各自的考量，仍存在不小的分歧。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:587349",
+      "time": "2026-09-28 23:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: South Korea 10Y Bond Yield Rises by 13 bps — Government bonds yields are higher on Monday. Top gainers are South Korea 10Y (13bps), Brazil 10Y (12.50bps), US 10Y (9.70bps), Japan 10Y (2.76bps) and Germany 10Y (2.31bps)."
+    },
+    {
+      "id": "5117046",
+      "time": "2026-09-28 23:29:53",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "印度市場監管機構：已就公眾持股比例違規一案，終結針對阿達尼集團旗下企業及高塔姆·阿達尼的調查程式。"
+    },
+    {
+      "id": "5117045",
+      "time": "2026-09-28 23:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟作物監測機構預計，2026年歐盟穀物玉米單產為每公頃6.50噸，上月預估為每公頃6.61噸。"
+    },
+    {
+      "id": "5117044",
+      "time": "2026-09-28 23:28:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國公路交通氣象業務會商首次開展】氣象、公安交管、交通運輸部門28日首次開展全國公路交通氣象業務會商。經聯合研判，國慶假日期間，預計天氣條件整體適宜全國大部地區公路交通出行。（新華社）"
+    },
+    {
+      "id": "5117043",
+      "time": "2026-09-28 23:26:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶投資諮詢集團原副總經理何文昌嚴重違紀違法被開除黨籍和公職】重慶市紀委監委28日通報，經重慶市委批准，重慶市紀委監委對重慶投資諮詢集團原副總經理何文昌嚴重違紀違法問題進行了立案審查調查。（新華社）"
+    },
+    {
+      "id": "5117042",
+      "time": "2026-09-28 23:25:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）就難以估值的私募資產發出“關鍵”提醒，稱私募信貸估值需“特別審慎”。"
+    },
+    {
+      "id": "5117041",
+      "time": "2026-09-28 23:24:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧在華盛頓會見黎巴嫩總理。"
+    },
+    {
+      "id": "5117040",
+      "time": "2026-09-28 23:22:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "索尼集團將缺席2027年國際消費類電子產品展覽會（CES），此前已連續參展六十年。"
+    },
+    {
+      "id": "5117039",
+      "time": "2026-09-28 23:22:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年我國漁業資源與水域生態環境狀況保持穩定】記者28日從農業農村部獲悉，農業農村部、生態環境部日前聯合釋出《中國漁業生態環境狀況公報（2025）》，公佈2025年中國近海和長江、黃河等重要流域漁業資源與水域生態環境狀況。公報顯示，2025年我國漁業資源與水域生態環境狀況保持穩定。（新華社）"
+    },
+    {
+      "id": "5117038",
+      "time": "2026-09-28 23:20:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國20年期和30年期國債收益率創2002年以來新高。"
+    },
+    {
+      "id": "5117037",
+      "time": "2026-09-28 23:19:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率觸及4.952%，為2024年5月以來最高水平。"
+    },
+    {
+      "id": "te:markets:587347",
+      "time": "2026-09-28 23:18:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil Yields Rise on Election and Higher Inflation Forecasts — Brazil’s 10-year government bond yield rose to around 14.25% in late September following recent election polls showing President Lula widening his lead and a rise in inflation projections. A new poll showed Lula leading by a larger margin in first-round voting intentions and opening a two-point lead over Flávio Bolsonaro in a potential runoff, still within the margin for a technical tie. Bolsonaro is viewed by markets as more fiscally restrictive amid elevated domestic yields and weak business activity. Meanwhile, the BCB’s Focus survey showed that the market raised its 2026 inflation forecast from 4.92% to 4.99%, while the year-end 2026 Selic forecast remained at 13.50%. The 2026 GDP growth forecast fell from 1.88% to 1.86%, marking its third consecutive downward revision. The BCB cut its policy rate by 25 bps to 13.75% at its September meeting and left its next steps open, while Copom’s minutes were more hawkish than expected."
+    },
+    {
+      "id": "5117036",
+      "time": "2026-09-28 23:18:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱襲擊了兩艘駛往敖德薩港的船隻。"
+    },
+    {
+      "id": "5117035",
+      "time": "2026-09-28 23:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普全球資料顯示，iTraxx歐洲交叉信用違約互換指數自4月以來首次觸及300個基點。"
+    },
+    {
+      "id": "5117034",
+      "time": "2026-09-28 23:16:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【王文濤部長與德國聯邦經濟和能源部部長賴歇舉行視訊通話】9月28日，商務部部長王文濤與德國聯邦經濟和能源部部長賴歇舉行視訊通話，雙方就中德、中歐經貿關係交換意見。（商務部網站）"
+    },
+    {
+      "id": "te:markets:587346",
+      "time": "2026-09-28 23:15:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rise for 2nd Session — European stocks extended gains for a second consecutive session on Monday, with the Stoxx 50 rising 0.3% and the Stoxx 600 adding 0.2%. Markets advanced in the UK, Germany and France, although Italy and Spain underperformed. ASML Holding, Linde and L’Oréal gained between 0.8% and 1.3%, while LVMH and Siemens rose around 0.5%. In the broader Stoxx 600, Novartis climbed 1.6% and ASML added 0.8%. British housebuilders were among the strongest performers, with Persimmon, Barratt Redrow, Taylor Wimpey and Vistry Group surging more than 10% after the UK government said it would confirm a new equity-loan programme for first-time buyers in next month’s budget. Banco Santander slipped 0.3%, while Roche fell more than 2%. Fresnillo declined around 5% as weaker gold prices pressured precious-metals miners. Oil prices remained elevated amid a US-Iran stalemate, despite reports that talks on reopening the Strait of Hormuz could continue, with investors cautious after repeated diplomatic setbacks."
+    },
+    {
+      "id": "5117033",
+      "time": "2026-09-28 23:14:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國內政大臣：政府將成立國家警察服務局，將審查地方警察部隊的結構。"
+    },
+    {
+      "id": "5117032",
+      "time": "2026-09-28 23:12:10",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【上海：加強商品房預售管理，有序實施現房銷售】28日，上海市住建委、上海市房屋管理局、上海市規劃和自然資源局、上海金融監管局等4部門聯合印發的《關於貫徹落實〈關於完善商品住房銷售制度的通知〉的實施意見》明確，2026年8月28日後新發布出讓公告的商品住房專案，申請預售的，單體建築應完成主體結構封頂。專案預售資金實行全額、全過程監管；專案綜合竣工驗收後，方可解除資金監管。（新華社）"
+    },
+    {
+      "id": "5117031",
+      "time": "2026-09-28 23:11:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國常駐聯合國副代表：美國反對以色列吞併約旦河西岸。"
+    },
+    {
+      "id": "5117030",
+      "time": "2026-09-28 23:11:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國常駐聯合國副代表：呼籲聯合國支援和平委員會及加沙管理國家委員會的工作。"
+    },
+    {
+      "id": "5117029",
+      "time": "2026-09-28 23:11:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國常駐聯合國副代表：解除哈馬斯武裝至關重要，其不應在加沙的治理中扮演任何角色。"
+    },
+    {
+      "id": "5117028",
+      "time": "2026-09-28 23:11:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國內政大臣：有人稱我移民改革的部分內容不公平。"
+    },
+    {
+      "id": "5117027",
+      "time": "2026-09-28 23:10:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta聘請MongoDB執行長領導全新企業級AI平臺，馬克·扎克伯格稱其為“公司業務的下一個重要支柱”。"
+    },
+    {
+      "id": "5117026",
+      "time": "2026-09-28 23:09:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國內政大臣：英國將重新開放難民安置通道，首批人員將於今年抵達。"
+    },
+    {
+      "id": "5117025",
+      "time": "2026-09-28 23:08:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英國10年期國債收益率升至5.441%，創2007年7月以來新高。"
+    },
+    {
+      "id": "5117024",
+      "time": "2026-09-28 23:07:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國內政大臣：我們必須恢復對英國邊境的管控。"
+    },
+    {
+      "id": "5117023",
+      "time": "2026-09-28 23:06:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達為史上最大規模股票回購計劃追加1500億美元】英偉達於週一表示，將再斥資1500億美元回購自家股票，該公司稱這是史上規模最大的股票回購計劃。此次追加是在四個月前這家AI晶片製造商的董事會為其回購計劃增加800億美元之後進行的。加上此前的回購，剩餘授權回購總額達到2350億美元。英偉達執行長黃仁勳在一份宣告中表示：“英偉達的增長得益於向人工智慧和加速計算轉型這一百年一遇的平臺變革。”他補充道：“強大的現金流生成能力使我們既能投資於推動這一變革的技術，又能向股東返還資本。此次授權反映了我們對未來長期機遇的信心。”"
+    },
+    {
+      "id": "5117022",
+      "time": "2026-09-28 23:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英反恐警察：空軍基地附近被捕5人已獲保釋 仍在接受調查】英國反恐警察發言人當地時間9月28日表示，在英國費爾福德皇家空軍基地事件中被捕的5名男子均已獲保釋。發言人表示，獲保釋並不意味著調查結束，5人受到嚴格的行動和接觸限制，仍在接受調查。警方將從多個方向繼續推進調查。（央視新聞）"
+    },
+    {
+      "id": "5117020",
+      "time": "2026-09-28 23:03:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：星艦正從太空返回地球。"
+    },
+    {
+      "id": "5117019",
+      "time": "2026-09-28 23:02:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：已識別Needymantis惡意軟體家族。"
+    },
+    {
+      "id": "5117018",
+      "time": "2026-09-28 23:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX宣佈已與全部26顆V3衛星建立連線。"
+    },
+    {
+      "id": "te:markets:587343",
+      "time": "2026-09-28 23:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Depreciates by 2.26% — Top currency losers are Mexican Peso (-2.26%), Brazilian Real (-0.64%), Swiss Franc (-0.46%), Euro (-0.24%) and Japanese Yen (-0.19%). Gains are led by Dollar Index (0.26%). Meanwhile British Pound was little changed."
+    },
+    {
+      "id": "5117017",
+      "time": "2026-09-28 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】20號膠連續跌3.72%，天然橡膠連續跌2.24%，菜粕連續跌2.14%，低硫燃料油連續漲1.98%，苯乙烯連續漲1.73%。"
+    },
+    {
+      "id": "te:economy:587342",
+      "time": "2026-09-28 22:59:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Dallas Fed Manufacturing Index",
+        "Importance 2"
+      ],
+      "text": "Dallas Fed’s Manufacturing Activity Index Slips in September — The Dallas Fed’s general business activity index for Texas manufacturing edged down to 9.8 in September 2026 from 11.6 in August. Perceptions of broader business conditions continued to improve, albeit unevenly. The company outlook index improved at a much slower pace, falling to 8.7 from 19.2, while the outlook uncertainty index rose three points to 11.3. Employment growth picked up, with the employment index rising seven points to 15.1 from 8.0, while the hours worked index was little changed at 5.6. Price and wage pressures increased broadly, with the finished goods prices index rising five points to 27.6, the raw materials prices index advancing eight points to 52.2, well above its series average of 28.0, and the wages and benefits index increasing six points to 27.4. Expectations remained positive, with the future production index little changed at 40.3, while the future general business activity index fell to 20.8 from 37.2."
+    },
+    {
+      "id": "te:markets:587341",
+      "time": "2026-09-28 22:58:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10Y Bond Yield Hits 19-year High — UK 10 Year Government Bond Yield increased to 5.44%, the highest since July 2007. Over the past 4 weeks, United Kingdom 10Y Bond Yield gained 29.31 basis points, and in the last 12 months, it increased 73.15 basis points."
+    },
+    {
+      "id": "5117016",
+      "time": "2026-09-28 22:57:53",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率當日上升10個基點，至5.27%。"
+    },
+    {
+      "id": "5117015",
+      "time": "2026-09-28 22:57:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌4%，現報4110.92美元/盎司。"
+    },
+    {
+      "id": "5117014",
+      "time": "2026-09-28 22:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日防衛省推新採購制度吸納尖端技術】日本防衛省近日表示，為吸收和運用尖端技術，將推出一套新採購制度。根據該制度，日本防衛省可同時與多家企業簽約，分階段篩選合作方。專案公開徵集將從10月2日啟動，包括：面向陸上自衛隊和海上自衛隊、儘可能使用國產零部件、可低成本大規模生產的攻擊型小型無人機及相關裝置；面向航空自衛隊、可節省人手的補給倉庫管理系統，以及降低飛機噪音的裝置。（CCTV國際時訊）"
+    },
+    {
+      "id": "5117013",
+      "time": "2026-09-28 22:56:00",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率日內上漲7個基點，報5.57%，重新整理2002年以來新高。"
+    },
+    {
+      "id": "5117012",
+      "time": "2026-09-28 22:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭釋出警報稱，因俄羅斯對烏克蘭發動空襲，波蘭航空已啟動應急響應。"
+    },
+    {
+      "id": "5117011",
+      "time": "2026-09-28 22:52:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯雅羅斯拉夫爾地區一家煙花廠發生火災，造成五人死亡。"
+    },
+    {
+      "id": "5117010",
+      "time": "2026-09-28 22:52:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "道達爾執行長：歐洲必須就美國柴油禁令釋出戰略規劃。"
+    },
+    {
+      "id": "te:markets:587335",
+      "time": "2026-09-28 22:52:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Indian Rupee Hits 9-week Low — The Indian Rupee touched 96.20 against the USD, the lowest since July 2026. Over the past 4 weeks, US Dollar Indian Rupee gained 1.1%, and in the last 12 months, it increased 8.44%."
+    },
+    {
+      "id": "5117009",
+      "time": "2026-09-28 22:52:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債跌勢延續，10年期國債收益率上漲6個基點至日內高點5.42%。"
+    },
+    {
+      "id": "5117008",
+      "time": "2026-09-28 22:51:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國5年期和7年期國債收益率當日上漲10個基點。"
+    },
+    {
+      "id": "5117007",
+      "time": "2026-09-28 22:50:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【水貝金飾爆單斷貨】不少商戶向記者表示，近期他們門店客流明顯增多，尤其婚嫁剛需的顧客下單很果斷，店裡補貨頻率比上個月快了不少，部分熱門款式甚至出現斷貨。有黃金商戶介紹：“相比上個月，這個月銷量環比增長大約20%—30%。國慶節結婚的人比較多，再加上金價下跌，所以這個月生意相對好很多。” （央視財經）"
+    },
+    {
+      "id": "5117006",
+      "time": "2026-09-28 22:49:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "道達爾能源執行長：如果美國柴油禁令生效，除了動用戰略儲備外看不到其他替代方案。"
+    },
+    {
+      "id": "te:markets:587334",
+      "time": "2026-09-28 22:49:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "France 10Y Bond Yield Hits 18-year High — France 10 Year Government Bond Yield increased to 4.77%, the highest since July 2008. Over the past 4 weeks, France 10Y Bond Yield gained 58.59 basis points, and in the last 12 months, it increased 123.28 basis points."
+    },
+    {
+      "id": "5117005",
+      "time": "2026-09-28 22:49:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金<XAU=>跌幅進一步擴大，最新下跌近4%，報每盎司4113.79美元。"
+    },
+    {
+      "id": "te:markets:587333",
+      "time": "2026-09-28 22:49:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Canola Hits 4-week Low — Canola decreased to 806.90 CAD/T, the lowest since August 2026. Over the past 4 weeks, Canola lost 0.72%, and in the last 12 months, it increased 33.4%."
+    },
+    {
+      "id": "5117004",
+      "time": "2026-09-28 22:48:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "道達爾能源執行長：美國禁止柴油出口是個“壞主意”。"
+    },
+    {
+      "id": "5117003",
+      "time": "2026-09-28 22:48:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌4%，現報4148.10美元/盎司。"
+    },
+    {
+      "id": "5117002",
+      "time": "2026-09-28 22:47:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌3%】費城半導體指數日內跌3.00%，現報12288.43點。英偉達漲1.68%，博通跌1.48%，美光跌4.57%，英特爾跌6.11%，AMD跌5.08%，高通跌7.25%，臺積電跌1.54%，阿斯麥跌0.39%。"
+    },
+    {
+      "id": "5117001",
+      "time": "2026-09-28 22:47:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4150美元/盎司，日內跌3.96%。"
+    },
+    {
+      "id": "5117000",
+      "time": "2026-09-28 22:47:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普幣日內下跌7.1%。"
+    },
+    {
+      "id": "5116999",
+      "time": "2026-09-28 22:46:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國長安汽車重大專案集中籤約暨總部辦公場地啟用活動舉行】據重慶日報，9月28日，中國長安汽車重大專案集中籤約暨總部辦公場地啟用活動舉行。此次簽約活動中，6個重大專案集中籤約。按照協議，中國長安汽車及旗下重點企業，將與重慶市有關區縣、部門、企業和金融機構等，圍繞零部件產業佈局、產業基金投資、金融服務、汽車新媒體運營、物流保障和現代供應鏈體系建設等方面深化合作。"
+    },
+    {
+      "id": "5116998",
+      "time": "2026-09-28 22:46:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數下跌1.6%至盤中低點；標普500指數下跌0.9%。"
+    },
+    {
+      "id": "5116997",
+      "time": "2026-09-28 22:46:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達釋出AI安全平臺】當地時間28日，英偉達釋出名為“Open Agent Safety Platform”的AI安全平臺。該系統由OpenShell開源軟體和Sentry參考系統設計組成，能為AI智慧體設定更安全的執行邊界。英偉達表示，該平臺本可以阻止今年7月OpenAI模型攻擊抱抱臉。OpenShell可以在智慧體執行時提供安全邊界，AI代理一旦企圖訪問未授權檔案、發起異常網路連線或執行危險命令，就會被拒絕、記錄，甚至被隔離。該軟體既可部署在英偉達硬體上，也可拓展至安謀、英特爾等第三方平臺。Sentry執行於英偉達硬體上，獨立於智慧體的軟體執行環境，持續監控智慧體行為，AI代理如果試圖越界，能以毫秒級的速度隔離異常代理。 分析認為，英偉達正嘗試將AI安全能力進一步嵌入AI基礎設施，透過許可權控制和異常隔離降低自主代理的安全風險。這也意味著，英偉達的業務觸角正從AI晶片進一步延伸至軟體及安全基礎設施領域。 （央視財經）"
+    },
+    {
+      "id": "te:markets:587331",
+      "time": "2026-09-28 22:46:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures Hit 2-Week High — Arabica coffee futures rose to near $2.9 per pound, their highest level since mid-September, mainly on short covering following weeks of downward pressure. Still, gains remain capped by expectations of ample Brazilian supplies, with the country on track for a record 2026 crop and higher export flows adding to global availability. Brazil’s 2026 harvest is now almost complete, and Conab recently raised its production estimate to 67.6 million bags from 66.7 million previously, marking a 19.6% increase from the 2025 crop. Arabica production is expected to account for most of the increase, reaching 48.2 million bags, up 34.8% yoy, more than offsetting lower Robusta output. Recent weather conditions have also been favorable for the development of the next crop, although El Niño risks remain under close watch. Meanwhile, reports that additional Brazilian Arabica shipments are being prepared for certification at ICE warehouses could help replenish depleted inventories."
+    },
+    {
+      "id": "5116996",
+      "time": "2026-09-28 22:46:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4120美元/盎司，日內跌3.86%。"
+    },
+    {
+      "id": "5116995",
+      "time": "2026-09-28 22:45:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，波洛在逼近下加利福尼亞半島時仍為強颶風，隨著危及生命的大風和山洪預計今天和週二影響南下加利福尼亞州和索諾拉州部分地區，當地狀況將很快惡化。"
+    },
+    {
+      "id": "5116994",
+      "time": "2026-09-28 22:45:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "AI智慧體初創公司Instinct宣佈完成10億美元融資，投後估值達到100億美元。"
+    },
+    {
+      "id": "5116993",
+      "time": "2026-09-28 22:44:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源執行長：我們可更快推進莫三比克專案第二階段的開發進度。"
+    },
+    {
+      "id": "5116992",
+      "time": "2026-09-28 22:43:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌1.04%，現報26786.155點；道指跌0.48%，現報51577.410點；標普500指數跌0.69%，現報7689.820點。"
+    },
+    {
+      "id": "5116991",
+      "time": "2026-09-28 22:43:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國警方：正在考慮此事是否可能由代理人實施。"
+    },
+    {
+      "id": "5116990",
+      "time": "2026-09-28 22:43:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國警方：我們正從各個角度對這一（空軍基地事件）事件展開調查。"
+    },
+    {
+      "id": "5116989",
+      "time": "2026-09-28 22:43:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國警方：對地緣政治影響持開放態度。"
+    },
+    {
+      "id": "5116988",
+      "time": "2026-09-28 22:42:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美星艦入軌後縮短在軌時間】美國太空探索技術公司（SpaceX）最新表示，飛行團隊將在“星艦”入軌3小時後，使其安全脫離地球軌道，濺落在太平洋預先劃定的區域。按照原定計劃，本次試飛，“星艦”將用時10個小時繞地球飛行約6圈。（CCTV國際時訊）"
+    },
+    {
+      "id": "5116987",
+      "time": "2026-09-28 22:41:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源執行長：我們越來越有信心在蘇利南盆地發現更多石油。"
+    },
+    {
+      "id": "5116986",
+      "time": "2026-09-28 22:40:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4160美元/盎司，日內跌3.73%。"
+    },
+    {
+      "id": "5116985",
+      "time": "2026-09-28 22:40:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4130美元/盎司，日內跌3.67%。"
+    },
+    {
+      "id": "te:markets:587330",
+      "time": "2026-09-28 22:40:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Bond Yield Hits 19-year High — US 10 Year Government Bond Yield increased to 5.25%, the highest since June 2007. Over the past 4 weeks, US 10 Year Note Bond Yield gained 48.20 basis points, and in the last 12 months, it increased 109.40 basis points."
+    },
+    {
+      "id": "5116984",
+      "time": "2026-09-28 22:38:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【國泰海通： 我們重點提示美國經濟發生二次加速的可能性】國泰海通釋出研報認為，美債利率的頂點或許還未見到，我們重點提示美國經濟發生二次加速的可能性。從經濟增速的角度來看，美債利率還在追趕經濟增速的階段，Q2美國名義GDP增速達6.5%，Q3讀數可能更高，而在美聯儲退出QE的背景下，美債利率與GDP名義增速的差值還在不斷收窄。從常見貨幣政策規則（如Taylor法則、平衡法則、一階差分法則等）的角度來看，美聯儲可能還需要加息2-4次，但這些規則或許低估了中性利率，因為美國經濟表現出明顯的“無就業增長”特徵，經濟增長並未伴隨失業率下行，就業市場對於利率的承受閾值也在上升。"
+    },
+    {
+      "id": "5116983",
+      "time": "2026-09-28 22:36:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾執行長表示，第三季度液化天然氣業務將“非常好”。"
+    },
+    {
+      "id": "5116982",
+      "time": "2026-09-28 22:36:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞典新一屆議會舉行首次會議 諾倫連任議長】瑞典新一屆議會9月28日舉行首次會議，溫和黨成員、現任議長安德烈亞斯·諾倫在投票中獲勝，連任議長。在當天舉行的無記名投票中，諾倫獲得200票，擊敗獲得146票的社會民主黨候選人約翰娜·哈拉爾德松成功連任。根據瑞典制度安排，議長將負責與各黨就組閣進行磋商，並向議會提名首相候選人。（央視新聞）"
+    },
+    {
+      "id": "5116981",
+      "time": "2026-09-28 22:35:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與將在其全線產品中支援英偉達BlueField-4 DPU。"
+    },
+    {
+      "id": "5116980",
+      "time": "2026-09-28 22:35:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：NTT和軟銀考慮建立將資料留在日本的人工智慧網路安全系統。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609283885525177",
+      "time": "2026-09-28 22:34:07",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行行長拉加德表示，歐洲央行利率處於中性區間上端。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609283885522290",
+      "time": "2026-09-28 22:33:38",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國9月達拉斯聯儲商業活動指數為9.8，預期8.2，前值11.6。"
+    },
+    {
+      "id": "5116979",
+      "time": "2026-09-28 22:33:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "慧與將把英偉達OpenShell整合到私有云AI中。"
+    },
+    {
+      "id": "5116978",
+      "time": "2026-09-28 22:32:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉烈宏赴江蘇省調研資料要素市場化配置改革工作推進情況】2026年9月21日至23日，國家資料局黨組書記、局長劉烈宏一行赴江蘇省蘇州市、泰州市、揚州市調研，前往鎂伽科技、康為世紀、揚子江藥業、復旦大學泰州健康科學研究院、百英生物、泰州市醫療健康數智創新實驗室、樂合資料、中航機載系統、豐尚科技等實地調研並召開座談會，江蘇省資料集團、江蘇交通控股、南京市氣象局、南京大資料集團、無錫資料集團、智慧芽、南銀法巴消費金融、深海技術科學太湖實驗室、常州健康醫療大資料公司等參加座談交流並介紹相關情況。（國家資料局）"
+    },
+    {
+      "id": "5116977",
+      "time": "2026-09-28 22:32:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團：花旗旗下Spring平臺使機構客戶能夠在結賬時接受穩定幣支付。"
+    },
+    {
+      "id": "5116976",
+      "time": "2026-09-28 22:31:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：貨幣政策制定並未以中性利率為參考依據。"
+    },
+    {
+      "id": "5116975",
+      "time": "2026-09-28 22:31:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗與Coinbase擴大合作，為企業和消費者打通數字支付與法幣支付渠道。"
+    },
+    {
+      "id": "5116974",
+      "time": "2026-09-28 22:31:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "拉加德：歐洲央行處於中性利率區間上端。"
+    },
+    {
+      "id": "5116973",
+      "time": "2026-09-28 22:30:38",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "達拉斯聯儲德克薩斯州產出指數9月為29.5，8月為16.1。"
+    },
+    {
+      "id": "5116972",
+      "time": "2026-09-28 22:30:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國9月達拉斯聯儲商業活動指數 9.8，預期8.2，前值11.6。"
+    },
+    {
+      "id": "5116971",
+      "time": "2026-09-28 22:28:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府預測，由於燃油經濟性標準降低，到2031年通用汽車的技術成本將累計減少204億美元。"
+    },
+    {
+      "id": "5116970",
+      "time": "2026-09-28 22:26:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星艦首次軌道飛行成功！"
+    },
+    {
+      "id": "5116969",
+      "time": "2026-09-28 22:25:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊網路部隊駁斥美軍“摧毀伊朗海軍”說法 稱能源價格反映霍爾木茲海峽局勢仍在伊朗影響下 】伊朗伊斯蘭革命衛隊網路部隊發文駁斥美國中央司令部相關言論，稱美方所謂“伊朗對霍爾木茲海峽的控制主張不實、美國已摧毀伊朗海軍”的說法錯誤。該文表示，全球石油及能源市場價格走勢、伊朗各類無人機與無人潛航器的活動能力，以及美軍艦艇為規避風險而與霍爾木茲海峽保持數百公里距離等，均被其視為局勢並未按美方描述發展的依據。"
+    },
+    {
+      "id": "te:markets:587329",
+      "time": "2026-09-28 22:24:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises as US-Iran Talks Lose Momentum — Brent crude rose toward $108 a barrel on Monday, recovering from a 2.1% decline in the previous session, as fading hopes for an imminent diplomatic breakthrough between the US and Iran renewed concerns over Middle East supply disruptions. Tehran and Washington remain divided over a potential ceasefire and the reopening of the Strait of Hormuz, with Iran continuing to support a proposal rejected by US President Donald Trump. Nevertheless, Iranian Foreign Minister Abbas Araghchi was expected to meet mediators in New York, while separate discussions between US and Iranian representatives were reportedly planned for Monday or Tuesday. Meanwhile, Saudi Arabia has resumed crude exports through its East-West pipeline after repairs following drone strikes earlier this month. Around 3.5 million barrels a day was flowing through the route, providing an important alternative for Saudi shipments during the conflict."
+    },
+    {
+      "id": "5116968",
+      "time": "2026-09-28 22:24:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗工業部擬為工礦企業儲備7500萬升柴油 保障冷季生產不中斷 】伊朗工業、礦業和貿易部通用工業事務副部長禮薩·安薩里（Reza Ansari）表示，該國正計劃在冷季月份為國內工業和礦業儲備7500萬升柴油，以避免燃料短缺對生產造成衝擊。安薩里稱，相關部門正努力保障所需燃料供應，從而防止工業生產程序出現中斷。此次儲備安排針對冬季取暖與工業用能需求上升、柴油供應趨緊的時段，意在提前平抑季節性供需缺口，維持礦山與工廠的連續運轉。"
+    },
+    {
+      "id": "5116967",
+      "time": "2026-09-28 22:23:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆：希思羅機場不僅僅是倫敦的事。"
+    },
+    {
+      "id": "5116966",
+      "time": "2026-09-28 22:22:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "法院檔案顯示，在涉及傷害兒童的訴訟中，佛羅里達州請求法院禁止OpenAI在沒有監管的情況下開發新模型。"
+    },
+    {
+      "id": "5116965",
+      "time": "2026-09-28 22:21:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "FBI局長卡什·帕特爾的聯合副局長貝利辭職。"
+    },
+    {
+      "id": "5116964",
+      "time": "2026-09-28 22:21:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：正致力於透過互換額度維護歐元區主權。"
+    },
+    {
+      "id": "5116963",
+      "time": "2026-09-28 22:18:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源下游業務總裁Vincent Stoquart：集團位於亞瑟港的煉油廠今年迄今已產生超過5億美元現金流。"
+    },
+    {
+      "id": "te:markets:587327",
+      "time": "2026-09-28 22:18:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Rises as US-Iran Talks Lose Momentum — Crude oil rose more than 3% to above $95 a barrel on Monday, recovering from a 2.3% decline in the previous session, as fading hopes for an imminent diplomatic breakthrough between the US and Iran renewed concerns over Middle East supply disruptions. Tehran and Washington remain divided over a potential ceasefire and the reopening of the Strait of Hormuz, with Iran continuing to support a proposal rejected by US President Donald Trump. Nevertheless, Iranian Foreign Minister Abbas Araghchi was expected to meet mediators in New York, while separate discussions between US and Iranian representatives were reportedly planned for Monday or Tuesday. Meanwhile, Saudi Arabia has resumed crude exports through its East-West pipeline after repairs following drone strikes earlier this month. Around 3.5 million barrels a day was flowing through the route, providing an important alternative for Saudi shipments during the conflict."
+    },
+    {
+      "id": "5116962",
+      "time": "2026-09-28 22:18:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行拉加德稱收益率上升將拖慢增長並削弱通脹傳導】歐洲央行行長克里斯蒂娜·拉加德表示，債券收益率上升將抑制經濟增長，並限制能源成本上漲向通脹的傳導。“儘管經濟增長保持韌性，但自我們上次會議以來，長期利率已顯著上升，這將拖慢增長，並使價格傳導程度低於我們9月預測時的估計，”拉加德週一表示。她在布魯塞爾對歐洲議員表示，迄今缺乏第二輪效應，這意味著歐洲央行應“酌情采取審慎的應對來控制通脹”。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609283885511895",
+      "time": "2026-09-28 22:16:55",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【交易員減少對歐洲央行加息的押注】交易員減少對歐洲央行加息的押注，認為10月份加息的可能性不足40%。"
+    },
+    {
+      "id": "5116961",
+      "time": "2026-09-28 22:16:36",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SPACEX：星艦將比原計劃提前返回地球。"
+    },
+    {
+      "id": "5116960",
+      "time": "2026-09-28 22:15:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員減少對歐洲央行加息的押注，認為10月份加息的可能性不足40%。"
+    },
+    {
+      "id": "5116959",
+      "time": "2026-09-28 22:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆：如果社會照護體系崩潰，將把國家醫療服務體系（NHS）一併拖垮。"
+    },
+    {
+      "id": "5116958",
+      "time": "2026-09-28 22:14:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱，已擊斃哈馬斯軍事部門一名關鍵資金兌換商。"
+    },
+    {
+      "id": "5116957",
+      "time": "2026-09-28 22:14:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出Open Agent安全平臺，幫助使用者控制AI智慧體可以訪問和操作的範圍。智慧體能夠編寫程式碼、使用工具，並持續數小時甚至數天處理複雜任務，這需要訪問資料和系統，同時對其使用方式設定明確限制。英偉達OpenShell對智慧體的工作執行許可權管理，BlueField-4和DOCA在基礎設施層面增加獨立於智慧體控制範圍的監控和安全控制，Vera CPU為工作負載提供算力支援。"
+    },
+    {
+      "id": "5116956",
+      "time": "2026-09-28 22:12:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆：國防投資計劃將在預算中獲得全額資金支援。"
+    },
+    {
+      "id": "5116955",
+      "time": "2026-09-28 22:12:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.00%，現報12415.34點。英偉達漲2.53%，博通跌0.61%，美光跌3.03%，英特爾跌4.59%，AMD跌3.56%，高通跌7.02%，臺積電跌1.15%，阿斯麥漲0.50%。"
+    },
+    {
+      "id": "5116954",
+      "time": "2026-09-28 22:11:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：英國在國防方面毫無準備的說法站不住腳。"
+    },
+    {
+      "id": "5116953",
+      "time": "2026-09-28 22:10:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數下跌超過1%；標普500指數下跌0.5%。"
+    },
+    {
+      "id": "5116952",
+      "time": "2026-09-28 22:09:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚：蓋亞那Uaru專案預計2026年底前投產；Whiptail專案目標2027年投產，Hammerhead專案目標2029年投產。"
+    },
+    {
+      "id": "5116951",
+      "time": "2026-09-28 22:09:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲監察長指出，一名員工可能攜帶機密資訊離職。"
+    },
+    {
+      "id": "5116950",
+      "time": "2026-09-28 22:08:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【9月28日增減持彙總】9月28日盤後，據不完全統計，包括潤欣科技、信濠光電在內的2家A股上市公司披露擬減持情況，岳陽興長披露擬增持情況。"
+    },
+    {
+      "id": "5116949",
+      "time": "2026-09-28 22:08:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆就空軍基地逮捕事件表態：今日將主持內閣緊急應變小組會議。"
+    },
+    {
+      "id": "5116948",
+      "time": "2026-09-28 22:08:39",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：迄今為止，我們看到各國政府出臺的能源支援措施規模約佔GDP的0.1個百分點區間。"
+    },
+    {
+      "id": "5116947",
+      "time": "2026-09-28 22:08:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：多數政府燃料補貼既非臨時性措施，也非定向援助。"
+    },
+    {
+      "id": "te:markets:587324",
+      "time": "2026-09-28 22:05:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Higher Oil Stokes Inflation Concerns — The S&P/TSX Composite Index fell nearly 1% to below 36,000 on Monday as rising oil prices revived inflation concerns. Oil prices resumed their rally after US President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, renewing concerns that energy-driven inflation shocks could keep interest rates higher for longer. Yields moved higher, pressuring credit-sensitive stocks. Financials posted losses, with CIBC and National Bank down more than 0.5%. Meanwhile, falling gold prices pressured mining shares, with Agnico Eagle tumbling more than 5%, while Barrick, WPM and Franco-Nevada shed about 4% each. Shopify (-3%) and Constellation Software (-1.5%) fell amid weakness in Wall Street tech stocks. In contrast, energy producers gained on the oil rebound, with Canadian Natural, Cenovus and Suncor up about 1%. On the data front, Canadian GDP data due Tuesday could offer cues on economic momentum and the Bank of Canada’s future policy path."
+    },
+    {
+      "id": "te:markets:587323",
+      "time": "2026-09-28 22:00:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Soybeans Hits 4-week Low — Soybeans decreased to 1284.00 USd/Bu, the lowest since August 2026. Over the past 4 weeks, Soybeans gained 0.77%, and in the last 12 months, it increased 27.17%."
+    },
+    {
+      "id": "te:markets:587320",
+      "time": "2026-09-28 21:49:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Bund Yields Hold at 17-Year High as Lagarde Signals Caution, Oil Rises — Germany’s 10-year Bund yield trimmed an early rise to stabilize at 3.62%, its highest level since June 2009, as investors weighed comments from ECB President Christine Lagarde against a renewed rally in oil prices. Lagarde said the inflation outlook for 2027 and 2028 is now higher than policymakers expected a few months ago, mainly due to higher energy prices, but noted there is no evidence yet of energy costs feeding into higher wages. She added that while the shock is too significant to ignore, a measured policy response remains appropriate to keep inflation under control. Meanwhile, oil prices climbed after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz and end the conflict in the Middle East. Money markets are pricing in roughly 100 basis points of ECB rate hikes by the end of 2027, while investors now await key eurozone inflation data due later this week for further clues on the ECB’s monetary policy outlook."
+    },
+    {
+      "id": "te:markets:587319",
+      "time": "2026-09-28 21:46:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips Amid Oil Rebound — The Ibovespa fell nearly 1% to below 182,500 on Monday amid a jump in oil prices and the release of a new Focus survey. Oil prices resumed their rally after US President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, renewing concerns that energy-driven inflation shocks could keep interest rates higher for longer. Yields moved higher, pressuring credit-sensitive stocks. Major banks fell, with Itaú, Bradesco and BB losing about 1%, while utilities also posted losses, with Sabesp shedding nearly 1%. Meanwhile, the BCB’s Focus survey showed that the market raised its 2026 inflation forecast, from 4.92% to 4.99%, while the year-end 2026 Selic forecast remained at 13.50%. A new election poll showed President Lula widening his lead over Flávio Bolsonaro, who is viewed by markets as more fiscally restrictive amid elevated domestic yields and weak business activity. Elsewhere, Vale fell 1% on lower iron ore prices. In contrast, Petrobras rose more than 1%."
+    },
+    {
+      "id": "te:markets:587318",
+      "time": "2026-09-28 21:46:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Parker-Hannifin Stock Price Hits 4-week High — Parker-Hannifin shares increased to 982.17 USD, the highest since August 2026. Over the past 4 weeks, Parker -Hannifin lost 5.69%, and in the last 12 months, it increased 30.59%."
+    },
+    {
+      "id": "te:markets:587316",
+      "time": "2026-09-28 21:44:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10 Year Treasury Note Yield Rises Above 5.2% — The yield on the US 10-year Treasury note continued to climb at the start of the week, rising above 5.2% to reach new high levels since mid-2007. Oil prices resumed their upward trend amid a lack of progress in negotiations between the US and Iran to end the war and reopen the Strait of Hormuz. The renewed inflationary concerns have strengthened expectations of further Fed tightening, with traders now pricing in nearly a 65% probability of a 25bps rate hike next month and a 53% chance of a similar move in December. Meanwhile, investors are bracing for a busy week of key economic releases, including the PCE inflation report and the jobs report, which should provide further insight into the health of the US economy and help shape expectations for the Fed’s next policy moves. Strong economic data, deteriorating fiscal conditions and rising government debt in the US have also weighed on the Treasury market in recent weeks."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609283885469177",
+      "time": "2026-09-28 21:42:49",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長拉加德：尚無跡象顯示更高通脹正在變得根深蒂固】歐洲央行行長拉加德表示，尚無跡象顯示更高通脹正在變得根深蒂固；長期收益率上升勢必會減緩經濟增長；歐洲央行採取適度應對措施是恰當的。"
+    },
+    {
+      "id": "te:markets:587314",
+      "time": "2026-09-28 21:42:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Euro Falls to Three-Month Low on Lagarde's Remarks — The euro weakened toward $1.135, its lowest level since June 26, amid a stronger dollar as investors weighed comments from ECB President Christine Lagarde. Lagarde said the inflation outlook for 2027 and 2028 is now higher than policymakers expected a few months ago, mainly due to higher energy prices, but noted there is no evidence yet of energy costs feeding into higher wages. She added that while the shock is too significant to ignore, a measured policy response remains appropriate to keep inflation under control. Money markets are pricing in roughly 100 basis points of ECB rate hikes by the end of 2027. Investors await key eurozone inflation data later this week for further clues on the ECB’s policy outlook. Meanwhile, the DXY gained as rising US Treasury yields and a hawkish Fed strengthened the case for US rates to remain higher for longer. Also, lack of progress in negotiations to reopen the Strait of Hormuz pushed oil prices higher and boosted safe-haven demand for the dollar."
+    },
+    {
+      "id": "te:markets:587312",
+      "time": "2026-09-28 21:40:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.61% Lower — The Dow Jones Index is falling 319 points. Losses were driven by Salesforce (-4.93%), Boeing (-4.49%) and Microsoft (-2.33%). Biggest rises came from Nvidia (3.16%), Chevron (1.01%) and J&J (0.52%)."
+    },
+    {
+      "id": "te:markets:587309",
+      "time": "2026-09-28 21:37:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Lower — US stocks kicked off the week lower, with the S&P 500 down 0.9%, the Nasdaq falling 1% and the Dow Jones losing around 400 points, amid another rise in oil prices as hopes for a deal between the US and Iran faded. Meanwhile, Treasury yields continued to climb to multi-year highs amid expectations that higher energy prices could put further pressure on inflation and increase the likelihood of additional rate hikes. Key economic data due this week, including the PCE and the jobs report, will provide further insight into the health of the US economy. Communication services, consumer discretionary and materials were the worst-performing sectors, while energy traded in the green. Alphabet (-1%), Microsoft (-1.4%), Amazon (-1.1%), Meta (-4.1%), Tesla (-3.1%) and Micron (-3.8%) were lower. In contrast, Nvidia outperformed and gained 2.3% after the company authorized an additional $150 billion to its share buyback program, taking its total to $235 billion, amid record spending on AI."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609283885464063",
+      "time": "2026-09-28 21:36:28",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長拉加德：歐洲經濟韌性將在第三季度延續】歐洲央行行長拉加德表示，歐洲經濟韌性將在第三季度延續；工資並未對能源衝擊做出實質性反應；前景充滿高度不確定性；仍認為通脹存在上行風險，經濟增長存在下行風險。"
+    },
+    {
+      "id": "te:markets:587308",
+      "time": "2026-09-28 21:36:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Netflix Stock Price Hits 9-week Low — Netflix shares decreased to 70.10 USD, the lowest since July 2026. Over the past 4 weeks, Netflix lost 13.87%, and in the last 12 months, it decreased 42.05%."
+    },
+    {
+      "id": "te:markets:587307",
+      "time": "2026-09-28 21:34:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Euro Hits 8-week Low — EURUSD decreased to 1.14, the lowest since July 2026. Over the past 4 weeks, Euro US Dollar lost 2.19%, and in the last 12 months, it decreased 3.13%."
+    },
+    {
+      "id": "te:markets:587306",
+      "time": "2026-09-28 21:33:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "PepsiCo Stock Price Hits 6-year Low — PepsiCo shares decreased to 126.85 USD, the lowest since June 2020. Over the past 4 weeks, PepsiCo lost 9.43%, and in the last 12 months, it decreased 9.32%."
+    },
+    {
+      "id": "te:markets:587305",
+      "time": "2026-09-28 21:33:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Salesforce Stock Price Hits 4-week Low — Salesforce shares decreased to 224.10 USD, the lowest since August 2026. Over the past 4 weeks, Salesforce Inc gained 9.56%, and in the last 12 months, it decreased 7.46%."
+    },
+    {
+      "id": "te:markets:587304",
+      "time": "2026-09-28 21:32:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is down by 5.02% — Palladium decreased 5.02% to 1212 USD/t.oz"
+    },
+    {
+      "id": "te:markets:587303",
+      "time": "2026-09-28 21:30:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Boeing Stock Price Hits 25-week Low — Boeing shares decreased to 192.35 USD, the lowest since March 2026. Over the past 4 weeks, Boeing lost 9.29%, and in the last 12 months, it decreased 13.05%."
+    },
+    {
+      "id": "te:markets:587302",
+      "time": "2026-09-28 21:30:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gold Hits 7-week Low — Gold decreased to 4141.00 USD/t.oz, the lowest since August 2026. Over the past 4 weeks, Gold lost 6.7%, and in the last 12 months, it increased 8.09%."
+    },
+    {
+      "id": "te:markets:587301",
+      "time": "2026-09-28 21:17:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 25.50 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 1.84%, and in the last 12 months, it increased 56.96%."
+    },
+    {
+      "id": "te:markets:587297",
+      "time": "2026-09-28 21:09:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Down to Near 1-Month Low — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was down for a second session on Monday, dropping about 4.6% to its lowest since September 1 at 3,268 points. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, slipped by 7.5% to 5,351 points, likely influenced by lower iron ore prices due to ample global supply. At the same time, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell by 0.2% to 2,402 points, partly due to lower wheat prices. Amogn smaller vessels, the supramax index rose by 0.2% to 1.790 points."
+    },
+    {
+      "id": "te:markets:587294",
+      "time": "2026-09-28 21:00:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Lower as Oil Rises — Futures tracking Canadian equities edged lower on Monday as rising oil prices revived inflation concerns. Oil prices resumed their rally after US President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, renewing concerns that energy-driven inflation shocks could keep interest rates higher for longer. Yields moved higher, putting pressure on credit-sensitive stocks. Meanwhile falling gold prices pressured mining shares. On the data front, Canadian GDP data due Tuesday could offer cues on economic momentum and the future policy path of the Bank of Canada."
+    },
+    {
+      "id": "te:markets:587291",
+      "time": "2026-09-28 20:51:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rapeseed Hits 4-week Low — Rapeseed decreased to 541.25 EUR/T, the lowest since August 2026. Over the past 4 weeks, Rapeseed lost 0.44%, and in the last 12 months, it increased 16.47%."
+    },
+    {
+      "id": "te:economy:587289",
+      "time": "2026-09-28 20:45:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Mexico Trade Surplus Falls Short of Forecast — Mexico’s trade balance posted a surplus of $605 million in August 2026, widening from $209 million a year earlier but falling well short of forecasts of $1.4 billion. Total merchandise exports reached $78.01 billion, up 40.4% year over year. Manufactured goods exports rose 42.6%, led by electrical and electronic equipment and appliances (122.3%), mining and metallurgical products (50.4%), plastic and rubber products (10.6%), food, beverages and tobacco (10%), and specialized machinery and equipment for various industries (7.2%). Agricultural and fishing exports fell 1.6%, while oil exports declined 2.8%. Merchandise imports totaled $77.40 billion, with consumer goods imports up 8.9%, intermediate goods purchases surging 41.9%, and capital goods imports rising 6.9%. In the first eight months of 2026, the trade balance recorded a $9.86 billion surplus."
+    },
+    {
+      "id": "te:markets:587288",
+      "time": "2026-09-28 20:38:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slumps as Inflation Fears Boost Rate-Hike Bets — Silver fell more than 4% toward $61 an ounce on Monday, its lowest level since August 7, as surging oil prices intensified inflation concerns and bolstered expectations for higher-for-longer interest rates. A stronger US dollar and US Treasury yields near 19-year highs also pressured the non-yielding metal. Brent crude surged to $107 a barrel after President Donald Trump rejected an Iranian peace proposal to resolve the conflict and reopen the Strait of Hormuz, prompting markets to raise bets on further Federal Reserve rate hikes. Markets now see a more than 70% chance of a second hike as soon as October, according to CME’s FedWatch Tool. Cleveland Fed President Beth Hammack said Friday that persistently high inflation risks conditioning the public to accept elevated prices as the norm, adding that the central bank cannot allow that to happen. Focus now turns to this week’s US economic data, including Wednesday’s PCE inflation report and Friday’s nonfarm payrolls figures."
+    },
+    {
+      "id": "te:markets:587285",
+      "time": "2026-09-28 20:35:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Falls as Higher Oil Prices Lift Rate-Hike Bets — Gold fell to $4,150 an ounce on Monday, touching its lowest level since August 5, as surging oil prices fueled inflation concerns and strengthened expectations for higher-for-longer interest rates. A firm US dollar and US Treasury yields near 19-year highs also weighed on the non-yielding metal. Brent crude surged to $107 a barrel after President Donald Trump rejected an Iranian peace proposal aimed at resolving the conflict and reopening the Strait of Hormuz, prompting markets to increase bets on further Federal Reserve rate hikes. Markets now see a more than 70% chance of a second rate hike as soon as October, according to CME’s FedWatch Tool. Cleveland Fed President Beth Hammack said Friday that persistently high inflation risks conditioning the public to accept elevated prices as the norm, adding that the central bank cannot allow that to happen. Focus now turns to this week’s US data, including Wednesday’s PCE inflation report and Friday’s nonfarm payrolls figures."
+    },
+    {
+      "id": "te:markets:587283",
+      "time": "2026-09-28 20:14:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Sterling Gains as Markets Price More BoE Rate Hikes — Sterling edged up to $1.326 as investors priced in a more hawkish Bank of England stance amid renewed inflation pressures, while oil prices rose after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz and end the Middle East conflict. BoE Deputy Governor Dave Ramsden said Monday he would be prepared to raise rates if “upside pressures” on inflation persist, echoing recent warnings from Governor Andrew Bailey and Deputy Governors Sarah Breeden and Clare Lombardelli that higher energy prices could fuel a wage-price spiral. The MPC voted 6-3 earlier this month to hold rates at 3.75%, while warning inflation could peak around 4%. Markets now price in an over 80% chance of a 25bp hike in November, with roughly four hikes priced in by mid-next year. Meanwhile, Chancellor John Healey stressed the need for fiscal discipline ahead of next month’s budget, highlighting the rising cost of servicing the UK’s elevated debt burden and its impact on public services."
+    },
+    {
+      "id": "te:markets:587282",
+      "time": "2026-09-28 20:11:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Gilt Yields Surge as Inflation Risks Raise Rate-Hike Expectations — UK 10-year gilt yields rose to 5.4%, their highest level in nearly two decades, as investors priced in a more hawkish Bank of England policy stance amid renewed inflation pressures. Oil prices climbed after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz and end the conflict in the Middle East. BoE Deputy Governor Dave Ramsden said Monday he would support rate hikes if “upside pressures” on inflation persist, echoing recent warnings from Governor Andrew Bailey and other policymakers that higher energy prices could fuel a wage-price spiral. The MPC recently voted to hold rates at 3.75%, while warning inflation could peak around 4%. Markets are now pricing in an 85% probability of a 25bp rate hike in November, with roughly four increases priced in by the middle of next year. Meanwhile, Chancellor John Healey stressed the need for fiscal discipline in a major speech ahead of next month’s budget, citing the rising cost of servicing the UK’s debt."
+    },
+    {
+      "id": "te:economy:587279",
+      "time": "2026-09-28 19:54:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Foreign Direct Investment",
+        "Importance 1"
+      ],
+      "text": "Brazil FDI Inflows Ease in August — Brazil recorded foreign direct investment (FDI) inflows of $7.4 billion in August 2026, down from $7.7 billion a year earlier. Equity inflows totaled $9.3 billion, including $3.6 billion in non-reinvested equity and $5.7 billion in reinvested earnings, while intercompany lending recorded net outflows of $1.9 billion. Portfolio investment recorded net outflows of $5.2 billion in August 2026, as equity and fund investments posted outflows of $6.5 billion, partly offset by inflows of $1.3 billion in debt securities. Over the 12 months to August, FDI totaled $86.6 billion, equivalent to 3.39% of GDP."
+    },
+    {
+      "id": "te:economy:587276",
+      "time": "2026-09-28 19:45:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Brazil Current Account Deficit Deepens More Than Expected — Brazil’s current account deficit widened to $5.06 billion in August 2026, from $3.78 billion a year earlier, well above market expectations for a $4.9 billion shortfall. The deterioration was driven by a widening of 28.2% of the services deficit to $5.3 billion, largely due to higher net transportation expenses (28.3%), intellectual property costs (52.4%), telecommunications, computing and information services (128.2%), and equipment rental (6.6%). The primary income deficit also widened to $7 billion, driven by higher expenses on profits and dividends. In contrast, the goods trade surplus widened to $6.6 billion, as exports rose 12.1% year-on-year, outpacing 9.4% growth in imports. The secondary income surplus also rose to $528 million. Over the twelve months to August, the current account deficit rose to 2.47% of GDP."
+    },
+    {
+      "id": "te:markets:587267",
+      "time": "2026-09-28 19:24:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand at Near 2-Month Low — The South African rand traded around 16.4 per USD, its weakest level since early August, as stalled US-Iran negotiations pushed oil prices higher, weighing on risk-sensitive currencies in oil-importing economies. At the same time, heightened geopolitical uncertainty boosted safe-haven demand for the greenback, while declines in key precious metals prices removed support for the rand. Locally, the South African Reserve Bank raised its key repo rate to 7.25% on September 23, following similar decisions by the Fed and the ECB. Governor Kganyago cited renewed upside risks to the inflation outlook and stressed the need to bring inflation back to the SARB’s 3% target, reaffirming the central bank’s commitment to price stability. The Reserve Bank noted the global fuel-price shock had intensified recently and raised its near-term inflation forecasts accordingly. Headline inflation ticked up to 4.4% in August from 4.3% in July, but is expected to accelerate in the next few months."
+    },
+    {
+      "id": "em:qqyh_ygyh:202609283885336737",
+      "time": "2026-09-28 19:16:33",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【英國央行副行長Ramsden稱利率可能不得不上調】英國央行副行長Ramsden稱利率可能不得不上調，內部加息呼聲日漸高漲。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609283885327218",
+      "time": "2026-09-28 18:51:52",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國重磅資料本週登場 料強化美聯儲10月加息理由】本週即將公佈的幾項重要經濟資料預計將進一步顯示美國經濟正在走強，從而為多位美聯儲官員有關利率應當進一步上調的主張提供更多依據。"
+    },
+    {
+      "id": "te:economy:587260",
+      "time": "2026-09-28 18:51:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Industrial Production",
+        "Importance 2"
+      ],
+      "text": "India Industrial Output Growth Beats Expectations — India’s industrial production growth accelerated to 8.0% year-on-year in August 2026, up from an upwardly revised 7.4% in July and well above market expectations of 6.5%. Manufacturing output rose 9.0%, accelerating from 8.2% in July, led by electrical equipment (30.9%), motor vehicles (25.2%), rubber and plastics products (21.4%), computer, electronic and optical products (19.3%), fabricated metal products (16.9%), textiles (13.1%), and machinery and equipment (10.3%). Among other major industries, basic metals production increased 2.4% and food products rose 2.8%, while output contracted in coke and refined petroleum products (-0.6%) and chemicals and chemical products (-0.5%). Elsewhere, electricity and gas supply growth accelerated to 12.3% from 8.7% in July, while mining and quarrying output fell 5.6%, following a 0.9% decline in the previous month."
+    },
+    {
+      "id": "te:economy:587243",
+      "time": "2026-09-28 18:22:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macedonia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Macedonia Producer Inflation Hits 1½-Year High — The annual producer inflation rate in North Macedonia rose to 7.1% in August 2026 from 6.5% in the previous month, reaching its highest level since February 2025. Price growth accelerated for intermediate goods excluding energy (6.2% vs 5.3% in July), capital goods (11.9% vs 10.9%), and consumer goods (4.0% vs 3.9%), both durable (4.4% vs 3.8%) and non-durable (4.0% vs 3.9%). Conversely, energy prices eased (10.2% vs 11.3%). By sector and division, costs rose for manufacturing (6.3% vs 5.9%), particularly for food products, textiles, paper and paper products, basic pharmaceutical products and preparations, and machinery and equipment. Costs also climbed in mining and quarrying (21.7% vs 16.4%). Meanwhile, inflation moderated in electricity, gas, steam and air conditioning supply (10.5% vs 11.7%), while it held steady in water supply, sewerage, waste management, and remediation services at 7.4%. On a monthly basis, producer prices edged up 0.4% in August after remaining flat in July."
+    },
     {
       "id": "te:markets:587242",
       "time": "2026-09-28 18:20:51",
