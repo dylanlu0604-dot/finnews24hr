@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-29 02:36:02",
-  "count": 11789,
+  "updated": "2026-09-29 02:39:50",
+  "count": 11787,
   "items": [
+    {
+      "id": "mkt:01a0e950-1bf8-7338-aaf8-ae050179e63e",
+      "time": "2026-09-29 02:38:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude 4.7 earthquake at 02:20 on Sept 29 offshore Hualien County, Taiwan (23.85N, 121.78E); depth 23 km."
+    },
+    {
+      "id": "mkt:01a0e94d-65e3-7338-aaf8-a5c8d491fdb9",
+      "time": "2026-09-29 02:35:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "US Commerce Secretary Lutnick stressed the trade situation around US imports of iron ore pellets from Brazil."
+    },
     {
       "id": "5117257",
       "time": "2026-09-29 02:34:42",
@@ -107390,52 +107408,6 @@
         "MKT News"
       ],
       "text": "【Iran president Pezeshkian meets Pakistan interior minister, pledges deeper bilateral cooperation】On the 21st in Tehran, Iranian president Pezeshkian met visiting Pakistan interior minister Mohsin Naqvi. Pezeshkian said Iran and Pakistan can leverage regional potential to meet mutual needs and expects bilateral cooperation to continue with greater momentum; he added that US actions and pressure have helped drive closer regional integration, citing frequent delegation-level meetings as evidence. Naqvi said Pakistan is determined to expand and deepen ties across trade, economic, tourism, political, cultural and scientific sectors."
-    },
-    {
-      "id": "mkt:01a0c544-3ef2-7118-8631-0a8c2ff95958",
-      "time": "2026-09-22 02:39:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon Web Services (AWS): XAI's Grok 4.6 model is now available on Amazon (AMZN.O) Bedrock."
-    },
-    {
-      "id": "mkt:01a0c543-c396-7118-8631-05cfc7918c0d",
-      "time": "2026-09-22 02:39:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Fed's MUSALEM: Further rate hikes may be needed to curb inflation】Fed governor MUSALEM said on Monday that strong demand and commodity shocks beyond oil may require further rate increases to bring down inflation. He urged acting sooner rather than waiting, saying persistent demand and recurring supply pressures are increasing inflation risk and that, absent further policy action, inflation is likely to be materially above the 2% target in about 18 months. He said policy must meaningfully constrain inflation to allow the Fed to reach its target within roughly a year and a half and give time for tightening to work, adding that earlier, gradual tightening is preferable to later, larger and potentially abrupt moves. MUSALEM warned that inflation \"is not a risk, it is here,\" and that underlying inflation excluding oil and other supply-related factors may be several percentage points above the Fed's target and is moving in the wrong direction."
-    },
-    {
-      "id": "5106283",
-      "time": "2026-09-22 02:38:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統會見巴基斯坦內政部長 期待持續推動雙邊合作】當地時間21日，伊朗總統佩澤希齊揚在首都德黑蘭會見了到訪的巴基斯坦內政部長穆赫辛·納克維。佩澤希齊揚表示，伊朗和巴基斯坦可以透過利用區域潛力來滿足各自的需求。伊朗期待持續推動雙邊合作程序，並希望這些互動能在各領域以更強勁的勢頭繼續開展。伊朗認為，美國的行動和施壓為地區國家加強融合與持續互動鋪平了道路，伊朗和巴基斯坦代表團之間頻繁的會晤與磋商正是這一趨勢的有力例證。穆赫辛·納克維表示，巴方決心在貿易、經濟、旅遊、政治、文化和科學等所有領域，進一步擴大和深化兩國的關係與合作。（央視新聞）"
-    },
-    {
-      "id": "5106282",
-      "time": "2026-09-22 02:37:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Meta智慧體Muse迅速走紅，分析師稱扎克伯格豪賭AI沒有白費】Meta Platforms新推出的人工智慧(AI)智慧體Muse迅速登上移動應用排行榜榜首，顯示這家社交媒體公司正在競爭日益激烈的消費者AI助手市場取得進展。截至週一，Muse位居美國蘋果iOS應用商店和Google Play免費應用榜首位。Sensor Tower的高階分析師Abe Yousef表示，在Meta於9月8日推出Muse後，六天內下載量累計超過90.2萬次，而前一代產品Meta AI上線六天內的下載量為77.3萬次。Muse可以在Meta旗下WhatsApp使用，這意味著除獨立應用下載使用者外，其實際使用者數量可能更多。"
     }
   ]
 }

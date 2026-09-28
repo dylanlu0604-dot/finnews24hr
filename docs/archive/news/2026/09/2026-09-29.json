@@ -1,7 +1,25 @@
 {
   "date": "2026-09-29",
-  "count": 246,
+  "count": 248,
   "items": [
+    {
+      "id": "mkt:01a0e950-1bf8-7338-aaf8-ae050179e63e",
+      "time": "2026-09-29 02:38:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc measured a magnitude 4.7 earthquake at 02:20 on Sept 29 offshore Hualien County, Taiwan (23.85N, 121.78E); depth 23 km."
+    },
+    {
+      "id": "mkt:01a0e94d-65e3-7338-aaf8-a5c8d491fdb9",
+      "time": "2026-09-29 02:35:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "US Commerce Secretary Lutnick stressed the trade situation around US imports of iron ore pellets from Brazil."
+    },
     {
       "id": "5117257",
       "time": "2026-09-29 02:34:42",
