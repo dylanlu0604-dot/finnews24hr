@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-29 02:13:24",
+  "updated": "2026-09-29 02:17:10",
   "count": 11780,
   "items": [
+    {
+      "id": "te:markets:587374",
+      "time": "2026-09-29 02:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 3.84% — Top commodity losers are Natural gas (-3.84%), Gasoline (-1.36%), Natural Gas UK (-1.28%) and Crude Oil (-0.16%). Gains are led by Germany Natural Gas THE (1.82%), Heating Oil (0.98%), Methanol (0.91%) and Brent Oil (0.52%)."
+    },
+    {
+      "id": "mkt:01a0e939-029a-7338-aaf8-020cb505e1d0",
+      "time": "2026-09-29 02:13:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC will shortly release Haiku 5.5, positioned for low-latency, fast-response and high-throughput deployment scenarios."
+    },
     {
       "id": "5117239",
       "time": "2026-09-29 02:12:04",
@@ -107391,25 +107412,6 @@
         "國際"
       ],
       "text": "巴西總統盧拉：已告知特朗普，美國不應干涉巴西大選。"
-    },
-    {
-      "id": "5106270",
-      "time": "2026-09-22 02:16:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "北達科他州石油產量7月較6月增加2000桶/日，升至115.7萬桶/日。"
-    },
-    {
-      "id": "te:markets:585392",
-      "time": "2026-09-22 02:15:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Tumbles by 7.82% — Top commodity losers are Natural Gas UK (-7.82%), Natural Gas EU (-7.36%), Crude Oil (-4.57%) and Brent Oil (-3.54%). Gains are led by Methanol (1.60%)."
     }
   ]
 }

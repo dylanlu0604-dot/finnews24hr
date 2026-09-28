@@ -1,7 +1,28 @@
 {
   "date": "2026-09-29",
-  "count": 204,
+  "count": 206,
   "items": [
+    {
+      "id": "te:markets:587374",
+      "time": "2026-09-29 02:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 3.84% — Top commodity losers are Natural gas (-3.84%), Gasoline (-1.36%), Natural Gas UK (-1.28%) and Crude Oil (-0.16%). Gains are led by Germany Natural Gas THE (1.82%), Heating Oil (0.98%), Methanol (0.91%) and Brent Oil (0.52%)."
+    },
+    {
+      "id": "mkt:01a0e939-029a-7338-aaf8-020cb505e1d0",
+      "time": "2026-09-29 02:13:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC will shortly release Haiku 5.5, positioned for low-latency, fast-response and high-throughput deployment scenarios."
+    },
     {
       "id": "5117239",
       "time": "2026-09-29 02:12:04",
