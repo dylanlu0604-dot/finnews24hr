@@ -1,7 +1,85 @@
 {
-  "updated": "2026-09-28 17:35:58",
-  "count": 11927,
+  "updated": "2026-09-28 17:39:46",
+  "count": 11936,
   "items": [
+    {
+      "id": "te:markets:587229",
+      "time": "2026-09-28 17:37:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Switzerland 10Y Bond Yield Hits 15-month High — Switzerland 10 Year Government Bond Yield increased to 0.69%, the highest since June 2025. Over the past 4 weeks, Switzerland 10Y Bond Yield gained 24.84 basis points, and in the last 12 months, it increased 44.90 basis points."
+    },
+    {
+      "id": "5116247",
+      "time": "2026-09-28 17:37:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金融監管總局 科技部等部門聯合召開科技保險交流推進會 多方協同支援科技創新】金融監管總局、科技部等部門聯合召開科技保險交流推進會，總結地方和保險機構實踐經驗，部署下一步重點工作。會議要求，要聚焦國家重大科技任務和科技型中小企業，擴大保險覆蓋面，推動科技保險進園區、進孵化器、進高新區。要圍繞研發、中試、成果轉化、首試首用、產業化全鏈條最佳化保險產品，把風險評估、監測預警、隱患排查嵌入企業創新流程。保險機構要從政策、產品、團隊、人才、考核等方面，加強自身建設，沉澱科技風險資料，改進精算定價。保險資金要透過債券、基金、股權、資產證券化等方式投早、投小、投長期、投硬科技。金融監管、科技、工信、財政、智慧財產權等部門要強化協調，統籌支援創新與資金安全管理，營造良好發展環境。同時，會議還啟動了科技保險主題宣傳活動，交流了科技保險政策和典型案例。"
+    },
+    {
+      "id": "mkt:01a0e760-0b1a-7338-aaeb-bf3b74f4e7cc",
+      "time": "2026-09-28 17:37:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China financial regulator, Ministry of Science and Technology and other ministries hold tech-insurance promotion meeting】China's Financial Regulatory Administration, the Ministry of Science and Technology and other ministries held a tech-insurance promotion meeting directing insurers to expand coverage for major national science tasks and technology-focused SMEs and to push tech insurance into industrial parks, incubators and high-tech zones. The agencies called for insurance product optimisation across the full innovation chain—R&D, pilot production, pilot trials and first use, commercialization and industrialization—and for embedding risk assessment, monitoring and hazard checks into firms' innovation processes. Insurance firms were told to strengthen policy, product, team, talent and performance systems, accumulate technology-risk data and refine actuarial pricing. Insurance capital should be mobilized to invest early, in smaller tickets, for longer durations and into hard-tech via bonds, funds, equity and asset securitization. Financial regulators, the science ministry, MIIT, the finance ministry and IP authorities were asked to coordinate support for innovation alongside fund-safety management. The meeting also launched a tech-insurance publicity campaign and exchanged policy guidance and typical cases."
+    },
+    {
+      "id": "5116246",
+      "time": "2026-09-28 17:36:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "OTP銀行考慮退出俄羅斯業務，波羅的海交易受到審查。"
+    },
+    {
+      "id": "5116245",
+      "time": "2026-09-28 17:36:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤貝航科：控股股東內部股權結構調整 實控人不變】潤貝航科公告稱，公司收到控股股東嘉侖投資通知，實際控制人劉俊鋒、張奇志於2026年9月24日簽訂《股權轉讓協議書》及《一致行動協議》，劉俊鋒將其持有的嘉侖投資19%股權轉讓給配偶張奇志。調整後劉俊鋒、張奇志、劉宇侖分別持有嘉侖投資61%、29%、10%股權。張奇志作為嘉侖投資股東/董事行使權利時與劉俊鋒保持一致，意見不一致時以劉俊鋒意見為準。本次調整為實控人家族內部調整，不會導致公司控股股東、實控人變化，控股股東持股比例仍為59.46%，不觸及要約收購，尚需辦理工商登記。"
+    },
+    {
+      "id": "5116244",
+      "time": "2026-09-28 17:36:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中原內配：實控人持股比例被動稀釋跨越1%整數倍】中原內配公告稱，因公司實施2026年限制性股票激勵計劃向激勵物件定向發行股票，總股本由58840.96萬股增加至60790.96萬股。2026年9月23日，公司實際控制人薛德龍持有公司股份數量不變，為9524.07萬股，持股比例由16.19%被動稀釋至15.67%，權益變動跨越1%整數倍。本次變動不涉及增減持，不觸及要約收購，不會導致公司實控人變更，不影響公司控制權穩定性。"
+    },
+    {
+      "id": "5116243",
+      "time": "2026-09-28 17:36:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渤海租賃：控股子公司下屬主體擬出售33架飛機租賃資產】渤海租賃公告稱，公司控股子公司Avolon下屬子公司及相關主體於2026年9月28日（都柏林時間）與LAC Ireland 1簽署協議，向其或指定方出售33架附帶租約的飛機租賃資產。該批資產市場價格約16.09億美元，摺合人民幣約109.24億元，實際出售價格由雙方協商確定，所有飛機預計將於2027年3月31日前完成交割。本次交易不構成關聯交易及重大資產重組，無需提交股東會審議，有利於最佳化公司資產結構，對當期及未來年度利潤產生正向影響。"
+    },
+    {
+      "id": "5116242",
+      "time": "2026-09-28 17:36:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【誠邦智芯：涉工程款訴訟一審勝訴 涉案本金1.56億元】誠邦智芯公告稱，公司作為原告起訴赤峰宇恆誠邦兩園建設運營有限公司的工程款糾紛案件已一審判決。法院判令被告於判決生效後十日內支付公司工程款1.56億元，並以該金額為基數，自2026年1月1日起按全國銀行間同業拆借中心公佈的一年期貸款市場報價利率支付利息至款項實際付清之日止；案件受理費、保全費合計83.59萬元由被告負擔。本次判決不會對公司生產經營產生實質性影響，對公司利潤的影響以判決執行情況為準。"
+    },
+    {
+      "id": "5116241",
+      "time": "2026-09-28 17:35:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【萊寶高科：泰國基地先期投產所需生產裝置已完成安裝除錯】9月28日，萊寶高科（002106.SZ）在投資者關係活動中表示，公司於2025年3月在泰國註冊設立全資子公司泰國萊寶並以其為投資主體投資建設海外生產基地，初期主要是滿足海外汽車總成一級廠商客戶對車載蓋板玻璃、車載觸控式螢幕等產品的海外交付需求。"
+    },
     {
       "id": "5116240",
       "time": "2026-09-28 17:34:57",
