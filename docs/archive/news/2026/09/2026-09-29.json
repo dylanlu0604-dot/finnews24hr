@@ -1,7 +1,162 @@
 {
   "date": "2026-09-29",
-  "count": 225,
+  "count": 241,
   "items": [
+    {
+      "id": "mkt:01a0e949-48f9-7338-aaf8-89b85c513ef2",
+      "time": "2026-09-29 02:31:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says U.S. steel production has surpassed Japan's."
+    },
+    {
+      "id": "mkt:01a0e949-1e86-7338-aaf8-84580f1771f2",
+      "time": "2026-09-29 02:31:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night session most-active contracts close】At the 02:30 close, the most-active SHFE gold contract fell 1.57% to 898 yuan/gram; the most-active SHFE silver contract fell 1.63% to 14,930 yuan/kg; the most-active SC crude oil contract fell 3.06% to 712 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a0e949-1c0b-7338-aaf8-7df0d82d43b5",
+      "time": "2026-09-29 02:31:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $92.60/bbl, up $0.19 or 0.21%."
+    },
+    {
+      "id": "5117254",
+      "time": "2026-09-29 02:31:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：09月29日02時20分在臺灣花蓮縣海域（北緯23.85度，東經121.78度）發生4.7級地震，震源深度23千米。"
+    },
+    {
+      "id": "5117253",
+      "time": "2026-09-29 02:30:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶92.60美元，上漲19美分，漲幅0.21%。"
+    },
+    {
+      "id": "mkt:01a0e948-66eb-7338-aaf8-7575ebd17b33",
+      "time": "2026-09-29 02:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed down 1.43% at 894.29 yuan/gram in the Sept. 28 evening session; Silver T+D closed down 1.48% at 14,893.0 yuan/kg."
+    },
+    {
+      "id": "5117252",
+      "time": "2026-09-29 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌3.06%，報711.60元人民幣/桶。滬金夜盤收跌1.57%，滬銀收跌1.63%。"
+    },
+    {
+      "id": "5117251",
+      "time": "2026-09-29 02:30:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國鋼鐵產量已超過日本。"
+    },
+    {
+      "id": "te:markets:587377",
+      "time": "2026-09-29 02:29:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 1.08% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.08% decrease."
+    },
+    {
+      "id": "5117250",
+      "time": "2026-09-29 02:29:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：鋼鐵廠將為我國經濟增加950億美元。"
+    },
+    {
+      "id": "mkt:01a0e947-3ef4-7338-aaf8-6e6879d9d45c",
+      "time": "2026-09-29 02:29:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli media report the Israel Defense Forces are currently striking multiple locations in southern Lebanon."
+    },
+    {
+      "id": "5117249",
+      "time": "2026-09-29 02:28:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌執行長皮查伊將於週二出席特朗普的人工智慧午餐會。"
+    },
+    {
+      "id": "5117248",
+      "time": "2026-09-29 02:28:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：梅薩比金屬公司正在愛荷華州建設鋼鐵廠。"
+    },
+    {
+      "id": "mkt:01a0e946-be27-7338-aaf8-6332f832afb4",
+      "time": "2026-09-29 02:28:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said steel mills will add $95 bln to the US economy."
+    },
+    {
+      "id": "mkt:01a0e946-9482-7338-aaf8-5f049b031be7",
+      "time": "2026-09-29 02:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he expects to create 6,000 new jobs."
+    },
+    {
+      "id": "5117247",
+      "time": "2026-09-29 02:28:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：梅薩比金屬公司每年將生產1000萬噸鋼鐵。"
+    },
     {
       "id": "mkt:01a0e946-0dad-7338-aaf8-54361f087a9b",
       "time": "2026-09-29 02:27:57",
