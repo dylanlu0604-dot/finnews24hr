@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-28 08:50:14",
-  "count": 11714,
+  "updated": "2026-09-28 08:54:04",
+  "count": 11717,
   "items": [
+    {
+      "id": "mkt:01a0e580-894b-7118-86b0-95d5611f24b7",
+      "time": "2026-09-28 08:53:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Margin balances on China's stock exchanges fall 17.30 bln yuan】As of Sept. 24, margin financing on the Shanghai Stock Exchange stood at 1331.84 bln yuan, down 8.94 bln yuan from the prior trading day; Shenzhen stood at 1267.67 bln yuan, down 8.36 bln yuan. Combined margin balance was 2599.51 bln yuan, down 17.30 bln yuan."
+    },
+    {
+      "id": "5115195",
+      "time": "2026-09-28 08:53:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少173.0億元】截至9月24日，上交所融資餘額報13318.42億元，較前一交易日減少89.4億元；深交所融資餘額報12676.68億元，較前一交易日減少83.6億元；兩市合計25995.1億元，較前一交易日減少173.0億元。"
+    },
+    {
+      "id": "5115194",
+      "time": "2026-09-28 08:51:34",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【國家能源局：確保地下儲氣庫滿庫入冬、沿海LNG儲罐處於高液位】9月21日，國家能源局組織召開2026—2027年採暖季天然氣保供形勢研判專題會議，深入貫徹落實黨中央和國務院關於應對中東局勢、保障國家能源安全的決策部署，以及國家發展改革委、國家能源局黨組工作要求，著眼確保人民群眾溫暖過冬，研究今冬明春天然氣供需形勢，細化部署下一階段重點工作。國家能源局黨組成員、副局長汪劍波主持會議並講話。會議要求，油氣企業作為天然氣保供主力軍，要堅持底線思維、問題導向，前瞻謀劃、多措並舉。上游供氣企業要大力增儲上產，立足國內強化增產增供；加快注氣進度，確保地下儲氣庫滿庫入冬、沿海LNG儲罐處於高液位；做細做實應急預案，兜住自身市場保供底線。國家管網集團要抓好重大工程建設，緊盯節點、倒排工期，確保天然氣基礎設施按時投用。河北等省要總結歷年保供經驗教訓，切實承擔保供主體責任，加強供需協調，確保國家相關政策落實。（國家能源局）"
+    },
+    {
+      "id": "5115193",
+      "time": "2026-09-28 08:51:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深南電路新設科技公司 含多項積體電路業務】企查查APP顯示，近日，成都錦興微電科技有限公司成立，經營範圍包含：積體電路設計；積體電路製造；積體電路銷售；機械裝置租賃；貨物進出口等。企查查股權穿透顯示，該公司由深南電路全資持股。"
+    },
+    {
+      "id": "5115192",
+      "time": "2026-09-28 08:51:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深交所：深圳市鴻富誠新材料股份有限公司股票上市交易】深交所公告，深圳市鴻富誠新材料股份有限公司人民幣普通股股票將於2026年9月29日上市。證券簡稱為“鴻富誠”，證券程式碼為“301716”。公司人民幣普通股股份總數為7492.24萬股，其中1245.33萬股股票自上市之日起開始上市交易。"
+    },
+    {
+      "id": "5115191",
+      "time": "2026-09-28 08:50:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技工廠遊、中醫養生、China Haul爆買 入境遊有了新趨勢】今年中秋假期，全國多個口岸迎來出入境客流高峰。據國家移民管理局預測，假期日均出入境旅客達225萬人次。總檯記者昨天從北京市文化和旅遊局瞭解到，中秋假期，北京累計接待遊客878.3萬人次，實現旅遊總花費115.4億元。其中，接待入境遊客8.3萬人次，實現入境遊客花費7.8億元。最近，入境遊的“深度”特色顯得更加鮮明瞭。比如，有遊客支付9000美元參加中國科技工廠的深度遊覽。還有外國遊客把China Haul也就是“中國購物開箱”刷上了境外社交媒體熱搜，“人均三個行李箱來華爆買”成了很多境外遊客的標配。當外國遊客的腳步從傳統景點走到了科技工廠，購物範圍從科技產品拓展到中醫養生。（央視）"
+    },
     {
       "id": "5115190",
       "time": "2026-09-28 08:48:37",
@@ -106903,31 +106960,6 @@
         "Importance 1"
       ],
       "text": "Australian Stocks Slip at Start of Week — Australian shares fell 24 points, or 0.3%, to around 8,705 on Monday morning, marking a second subdued session as oil prices rose after Yemen's Houthis struck Saudi Arabia's capital, Riyadh. Locally, Reserve Bank of Australia Governor Michele Bullock struck a hawkish tone in parliament, warning that inflation remains stubbornly high and upside risks are materialising, keeping the risk of further rate hikes alive. Still, losses were capped by a notable rise in U.S. stock futures, while investors focused on the upcoming bilateral summit between U.S. President Trump and Chinese leader Xi Jinping at the White House Thursday. Healthcare, non-energy minerals and industrials led declines, while gains in consumer durables, utilities and technology provided some offset. Two of the four major banks slipped, while Nextdc Ltd. (-1.6%), Xero Ltd. (-1.5%) and Reece Ltd. (-1.3%) posted notable losses. Investors now await Australia’s flash September PMI and August labour-market data later this week."
-    },
-    {
-      "id": "5104541",
-      "time": "2026-09-21 08:53:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【受颱風“杜鵑”影響 日本超200架次航班取消】受今年第25號颱風“杜鵑”影響，21日，日本航空公司和全日空公司已有188個航班確定取消。日本航空表示，當天下午以後，東京羽田機場和成田機場進出港的120個國內航班取消，預計約1.5萬人受到影響；成田機場另有15個國際航班取消，約2500人受到影響。全日空今天以羽田機場進出港航班為主，取消53個航班，約9700人受到影響。此外，捷星日本航空取消21日成田機場進出港的國內、國際航班共42班，約6200人受到影響，並取消22日抵達成田機場的3個國際航班。(央視新聞)"
-    },
-    {
-      "id": "5104540",
-      "time": "2026-09-21 08:53:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國零售柴油價格已正式突破每加侖 6.50 美元大關 重新整理歷史名義最高紀錄】根據美國汽車協會（AAA）最新發布的資料，全美零售柴油平均價格已飆升至每加侖 6.5050 美元，成為全美柴油價格的全新峰值。"
-    },
-    {
-      "id": "5104539",
-      "time": "2026-09-21 08:50:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國晶片集體突圍】近段時間，中國半導體圈熱鬧非凡——國內半導體裝置龍頭北方華創開發出“兩步迴圈刻蝕”工藝，專攻儲存晶片走向3D堆疊時的諸多難題。這是一次國產裝置廠為本土儲存廠商“繞開光刻機封鎖”鋪路的工程化嘗試，有望幫助長鑫科技等推進先進3D DRAM（動態隨機存取儲存器）自主量產。華為將“韜定律”落地為消費級晶片，正式釋出了高階晶片麒麟9050 Pro。小米18 Fold摺疊屏手機、小米平板9 Pro Max，均首發搭載小米自研晶片玄戒O3…… 從製造端到消費端，技術破圍捷報頻傳。喜悅之外，很多人再次提出那個問題：“中國芯”距離完全擺脫“卡脖子”還有多遠？ 資料顯示，7月份，我國規模以上工業企業積體電路產量達530億塊，相當於日均生產約17億塊晶片；今年前7個月，我國積體電路出口總額達2160億美元，同比增長99.5%，已超2025年全年出口總額。中國半導體產業正迎來新一輪高速增長，“攻守之勢”也正在轉變。 （北京日報）"
     }
   ]
 }
