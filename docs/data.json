@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-29 02:20:55",
-  "count": 11784,
+  "updated": "2026-09-29 02:24:42",
+  "count": 11780,
   "items": [
+    {
+      "id": "5117245",
+      "time": "2026-09-29 02:24:09",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "波音股價跌幅擴大至6.6%，創下2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "5117244",
+      "time": "2026-09-29 02:24:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月29日02時20分在臺灣花蓮縣海域附近（北緯23.88度，東經121.69度）發生4.7級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a0e940-a2d4-7338-aaf8-399f565eb612",
+      "time": "2026-09-29 02:22:02",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "Boeing (BA.N) hit an intraday low and is trading down more than 6%."
+    },
+    {
+      "id": "mkt:01a0e93f-c508-7338-aaf8-375d659e8f50",
+      "time": "2026-09-29 02:21:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP: U.S. revoked visas for multiple Latin American officials, including Bolivia’s attorney general."
+    },
     {
       "id": "mkt:01a0e93f-43bb-7338-aaf8-2df0ca41299c",
       "time": "2026-09-29 02:20:32",
@@ -107334,106 +107370,6 @@
         "ASML.O"
       ],
       "text": "Philadelphia Semiconductor Index extended gains to 4% as chip names rallied: Intel jumped 11.9% (INTC.O), Qualcomm rose 8% (QCOM.O), NVIDIA gained 2.3% (NVDA.O) and ASML added 2.05% (ASML.O)."
-    },
-    {
-      "id": "5106275",
-      "time": "2026-09-22 02:24:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【派拉蒙天舞就收購華納兄弟案與12州達成和解】當地時間9月21日，派拉蒙天舞公司已與美國加利福尼亞州及其他11個州達成和解協議。這些州此前曾提起訴訟，試圖阻止該公司與華納兄弟探索公司之間價值1100億美元的合併交易；此次和解為這兩大好萊塢巨頭的合併掃清了障礙。據悉，加州總檢察長羅布·邦塔當日在洛杉磯舉行的新聞釋出會上宣佈了這一和解訊息。這一決定是派拉蒙天舞公司尋求收購華納兄弟探索公司過程中的最新進展，若交易達成，該聯合體將成為娛樂行業規模最大、實力最強的公司之一。該交易將整合派拉蒙與華納兄弟的製片廠業務，美兩家主要新聞機構，即華納兄弟探索公司控制的美國有線電視新聞網（CNN）和派拉蒙天舞公司控制的美國哥倫比亞廣播公司（CBS）也將置於同一家公司旗下。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0c534-78eb-7118-8630-b1a6f238beee",
-      "time": "2026-09-22 02:22:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed's MUSALEM said business contacts reported they plan to raise prices to 'around 3%'."
-    },
-    {
-      "id": "mkt:01a0c534-0a36-7118-8630-ac59329e3a0b",
-      "time": "2026-09-22 02:21:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "MUSALEM of the Federal Reserve said even excluding supply-related factors, inf remains \"too high\", at about 3%."
-    },
-    {
-      "id": "5106274",
-      "time": "2026-09-22 02:21:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：勞動力市場在充分就業水平附近保持穩定，並非通脹壓力的來源。為抑制由供需雙重因素驅動的通脹，利率可能需進一步上調。"
-    },
-    {
-      "id": "mkt:01a0c533-ce47-7118-8630-a01680426234",
-      "time": "2026-09-22 02:21:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Fed's MUSALEM: rate hikes are preferable \"earlier and gradual\" rather than \"delayed and large\"."
-    },
-    {
-      "id": "5106273",
-      "time": "2026-09-22 02:21:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：若不進一步收緊政策，18個月後通脹或仍遠高於2%目標。其接觸的企業界人士稱，他們正計劃將價格漲幅控制在‘接近3%’的水平。即便剔除供給端相關因素，通脹率仍高達3%。與其晚些時候再大幅加息，不如儘早且逐步加息。大宗商品衝擊不僅限於石油，還包括銅等基礎金屬。"
-    },
-    {
-      "id": "mkt:01a0c533-4d68-7118-8630-98e97a1a92ef",
-      "time": "2026-09-22 02:21:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact mixed"
-      ],
-      "text": "Fed MUSALEM said commodity shocks extend beyond oil to include base metals such as copper."
-    },
-    {
-      "id": "mkt:01a0c533-2fa3-7118-8630-92852f71cd02",
-      "time": "2026-09-22 02:21:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "MUSALEM said the labor market remains stable near levels consistent with full employment and is not a source of inf pressure."
     }
   ]
 }

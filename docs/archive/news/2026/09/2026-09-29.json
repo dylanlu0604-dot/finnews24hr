@@ -1,7 +1,43 @@
 {
   "date": "2026-09-29",
-  "count": 216,
+  "count": 220,
   "items": [
+    {
+      "id": "5117245",
+      "time": "2026-09-29 02:24:09",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "波音股價跌幅擴大至6.6%，創下2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "5117244",
+      "time": "2026-09-29 02:24:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：09月29日02時20分在臺灣花蓮縣海域附近（北緯23.88度，東經121.69度）發生4.7級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a0e940-a2d4-7338-aaf8-399f565eb612",
+      "time": "2026-09-29 02:22:02",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "Boeing (BA.N) hit an intraday low and is trading down more than 6%."
+    },
+    {
+      "id": "mkt:01a0e93f-c508-7338-aaf8-375d659e8f50",
+      "time": "2026-09-29 02:21:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP: U.S. revoked visas for multiple Latin American officials, including Bolivia’s attorney general."
+    },
     {
       "id": "mkt:01a0e93f-43bb-7338-aaf8-2df0ca41299c",
       "time": "2026-09-29 02:20:32",
