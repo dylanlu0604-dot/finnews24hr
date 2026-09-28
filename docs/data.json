@@ -1,7 +1,96 @@
 {
-  "updated": "2026-09-29 02:17:10",
-  "count": 11780,
+  "updated": "2026-09-29 02:20:55",
+  "count": 11784,
   "items": [
+    {
+      "id": "mkt:01a0e93f-43bb-7338-aaf8-2df0ca41299c",
+      "time": "2026-09-29 02:20:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The FAA administrator said software issues will delay certification of Boeing (BA.N)’s 737 MAX 10, and the length of the delay is currently uncertain."
+    },
+    {
+      "id": "5117243",
+      "time": "2026-09-29 02:20:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "波音股價迅速下跌5.5%。"
+    },
+    {
+      "id": "te:markets:587375",
+      "time": "2026-09-29 02:19:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Tumbles by 5.11% — Top commodity losers are Lithium Carbonate (-5.11%), Silver (-4.79%) and Gold (-3.52%)."
+    },
+    {
+      "id": "mkt:01a0e93d-e3a4-7338-aaf8-2665dd9336d0",
+      "time": "2026-09-29 02:19:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources: Colombia has held technical, in-depth consultations with IMF officials in recent weeks, including discussions on accessing IMF financing."
+    },
+    {
+      "id": "5117242",
+      "time": "2026-09-29 02:18:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟官員：歐盟需要為紅海護航行動增派更多力量】歐盟防長會當地時間9月28日在比利時布魯塞爾舉行。歐盟外交與安全政策高階代表卡拉斯在會後表示，霍爾木茲海峽、曼德海峽和黑海都是重要的海上通道，歐盟需要為紅海護航行動增派更多力量，以加強海上安全。俄烏衝突方面，部分成員國呼籲，提前撥付歐盟向烏克蘭提供的援助貸款中原計劃於2027年撥付的部分，以應對烏克蘭當前面臨的資金缺口。歐盟4月正式批准向烏克蘭提供900億歐元貸款，為烏提供2026年至2027年的財政與軍事支援。俄方此前表示，歐洲國家若主張和平解決俄烏衝突，就應當停止對烏克蘭的軍事支援。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0e93d-692e-7338-aaf8-1d5a031cbeb5",
+      "time": "2026-09-29 02:18:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar said OpenAI president Greg Brockman will attend a White House meeting on artificial intelligence."
+    },
+    {
+      "id": "mkt:01a0e93d-1d16-7338-aaf8-160def6589a9",
+      "time": "2026-09-29 02:18:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【EU's kallas says bloc must deploy more forces for Red Sea escorts】EU defense ministers met in Brussels on Sept. 28. EU High Representative kallas said after the meeting that the Strait of Hormuz, Bab al‑Mandeb and the Black Sea are key maritime routes and the EU needs to deploy additional forces for the Red Sea escort operation to strengthen maritime security. Some member states urged advancing portions of an EU loan to Ukraine that are scheduled for 2027 to cover Kyiv’s current funding gap; the EU approved a €90 bln loan package in April to provide fiscal and military support to Ukraine in 2026–27. Russia has said European countries that call for a peaceful settlement should stop military support to Ukraine."
+    },
+    {
+      "id": "5117241",
+      "time": "2026-09-29 02:17:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局局長表示，軟體問題將導致波音737 MAX 10認證延期，目前尚不清楚延期會持續多久。"
+    },
+    {
+      "id": "5117240",
+      "time": "2026-09-29 02:17:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "據知情人士透露，OpenAI總裁格雷格·布洛克曼將出席白宮人工智慧會議。"
+    },
+    {
+      "id": "mkt:01a0e93c-6f6d-7338-aaf8-0a7773b4efcd",
+      "time": "2026-09-29 02:17:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said he met with the prime minister and foreign affairs team to set cooperation priorities with partners for the coming weeks; his top priority is ensuring Ukraine's current defense funding needs are met."
+    },
     {
       "id": "te:markets:587374",
       "time": "2026-09-29 02:15:18",
@@ -107345,73 +107434,6 @@
         "US10Y"
       ],
       "text": "MUSALEM said the labor market remains stable near levels consistent with full employment and is not a source of inf pressure."
-    },
-    {
-      "id": "em:qqyh_mlc:202609223880387665",
-      "time": "2026-09-22 02:20:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲穆薩萊姆：利率可能需要進一步上升 以抑制由需求和供應驅動的通脹】美聯儲穆薩萊姆稱，如果沒有進一步的政策限制，通脹在18個月後仍有可能大幅高於2%的目標。利率可能需要進一步上升，以抑制由需求和供應驅動的通脹。"
-    },
-    {
-      "id": "mkt:01a0c532-ae68-7118-8630-8dc3cbd1703a",
-      "time": "2026-09-22 02:20:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed official Musalem said rates may need to rise further to curb demand- and supply-driven inflation."
-    },
-    {
-      "id": "te:markets:585393",
-      "time": "2026-09-22 02:20:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Copper Gains by 1.32% — Top commodity gainers are Copper (1.32%) and Steel Rebar (0.52%). Biggest losers are Aluminum Alloy (-1.01%) and Gold (-0.74%)."
-    },
-    {
-      "id": "5106272",
-      "time": "2026-09-22 02:20:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內漲4%】費城半導體指數日內漲4.00%，現報12399.01點。英偉達漲2.24%，博通漲1.18%，美光漲2.82%，英特爾漲11.94%，AMD漲8.85%，高通漲8.46%，臺積電漲1.78%，阿斯麥漲1.99%。"
-    },
-    {
-      "id": "mkt:01a0c531-faf9-7118-8630-86800bae4c63",
-      "time": "2026-09-22 02:19:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Fed's MUSALEM said inf could remain well above the 2% target 18 months out absent further policy tightening."
-    },
-    {
-      "id": "5106271",
-      "time": "2026-09-22 02:19:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：已告知特朗普，美國不應干涉巴西大選。"
     }
   ]
 }
