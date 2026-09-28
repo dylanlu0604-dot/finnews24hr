@@ -1,7 +1,116 @@
 {
   "date": "2026-09-29",
-  "count": 263,
+  "count": 275,
   "items": [
+    {
+      "id": "te:markets:587379",
+      "time": "2026-09-29 02:57:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bank Of New York Mellon Stock Price Hits 12-week Low — Bank Of New York Mellon shares decreased to 148.21 USD, the lowest since July 2026. Over the past 4 weeks, Bank Of New York Mellon lost 8.09%, and in the last 12 months, it increased 35.07%."
+    },
+    {
+      "id": "mkt:01a0e960-9b24-7338-aaf9-11bb5984bf50",
+      "time": "2026-09-29 02:56:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Polish military: drone crashes near Poland-Ukraine border】Polish military said on Sept. 28 local time that a jet-powered drone crashed on the Ukrainian side near the Dorohusk–Yahodyn border crossing. Deputy Prime Minister and Defense Minister Kosińiak-Kamysz said the drone fell about 2 km from the Dorohusk crossing and that Polish airspace was not violated."
+    },
+    {
+      "id": "5117270",
+      "time": "2026-09-29 02:56:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞投行第十一屆理事會年會在卡達開幕】亞洲基礎設施投資銀行（亞投行）第十一屆理事會年會28日在卡達首都多哈開幕。亞投行各成員理事、政府高階官員、合作伙伴及相關機構代表等共商可持續基礎設施發展與合作等議程。（央視新聞）"
+    },
+    {
+      "id": "5117269",
+      "time": "2026-09-29 02:56:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：美國官員今日與伊朗調停方舉行了會談。"
+    },
+    {
+      "id": "mkt:01a0e95f-dd5f-7338-aaf9-0b4cc41b32af",
+      "time": "2026-09-29 02:56:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US held talks with Iran today through intermediaries."
+    },
+    {
+      "id": "5117268",
+      "time": "2026-09-29 02:55:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就英國逮捕嫌疑人一事表態：我絕不會釋放他們。"
+    },
+    {
+      "id": "mkt:01a0e95f-4593-7338-aaf9-022eb8c1992d",
+      "time": "2026-09-29 02:55:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said that if it were him, he would never allow the suspect in the Royal Air Force base case to be granted bail."
+    },
+    {
+      "id": "5117267",
+      "time": "2026-09-29 02:55:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普針對英國嫌疑人被捕一事發聲：對他們被釋放感到意外。"
+    },
+    {
+      "id": "mkt:01a0e95e-e047-7338-aaf8-fd599f07e230",
+      "time": "2026-09-29 02:55:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump says polls are fake."
+    },
+    {
+      "id": "5117266",
+      "time": "2026-09-29 02:55:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭軍方：一無人機在波烏邊境附近墜毀】據波蘭軍方當地時間9月28日通報，一架無人機在波蘭與烏克蘭交界的多羅胡斯克-亞霍丁口岸烏克蘭一側墜毀。波蘭副總理兼國防部長科西尼亞克-卡梅什稱，該噴氣式無人機墜毀於距多羅胡斯克口岸約2公里處，波蘭領空未遭侵犯。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0e95e-d1d5-7338-aaf8-f3829bfb9bbe",
+      "time": "2026-09-29 02:55:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Hassett: External factors could impede U.S. 3% growth target】Kevin Hassett, director of the White House National Economic Council, said U.S. growth should be “close to 4%, not 3%” if there is “no interference from the outside world,” and called 4% his “baseline scenario.” He warned external shocks could prevent the Trump administration from achieving its target of sustained 3% GDP growth; private economists typically forecast nearer 2%. Hassett said recent AI investment has supported GDP, while slowing labor-force growth and a weak housing market remain headwinds. He added the administration’s goal to cut the fiscal deficit to 3% of GDP could be affected by “force majeure” factors. On rising U.S. Treasury yields, Hassett said the move partly reflects a more attractive investment backdrop and that higher financing costs have not deterred projects such as data centers — firms continue to borrow and invest, pushing rates up. On the federal debt exceeding $40 trillion, he said part is intra-governmental “debt the government owes itself,” and estimated external debt at about $15 trillion."
+    },
+    {
+      "id": "5117265",
+      "time": "2026-09-29 02:54:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在被問及愛荷華州的民調時，聲稱這些民調是虛假的。"
+    },
     {
       "id": "mkt:01a0e95c-3a97-7338-aaf8-ebcdf20bc5c9",
       "time": "2026-09-29 02:52:10",
