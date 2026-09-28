@@ -1,7 +1,53 @@
 {
   "date": "2026-09-29",
-  "count": 471,
+  "count": 476,
   "items": [
+    {
+      "id": "5117394",
+      "time": "2026-09-29 07:26:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達CEO黃仁勳將於週二出席特朗普的人工智慧會議。"
+    },
+    {
+      "id": "5117393",
+      "time": "2026-09-29 07:26:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門政府軍：過去24小時356次打擊胡塞武裝 】葉門政府軍發言人馬吉德·努扎伊利28日在社交媒體發表宣告稱，過去24小時內，政府軍在多條戰線對胡塞武裝實施356次“精確打擊”。 努扎伊利在宣告中說，打擊行動覆蓋拉赫季省、塔伊茲省等多條戰線，動用多種武器，摧毀或損壞胡塞武裝的指揮控制中心、武器庫、野戰火炮和軍事車輛等。據前線資料，行動造成476名胡塞武裝人員死傷。"
+    },
+    {
+      "id": "5117392",
+      "time": "2026-09-29 07:25:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內跌0.20%。"
+    },
+    {
+      "id": "5117391",
+      "time": "2026-09-29 07:24:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美債收益率飆至20年高點 債市老將六年來首度轉為看多】在基準收益率飆升至20年來的最高點後，華爾街長期關注市場的老將Jim Bianco認為，目前已出現頗具吸引力的進場點，六年來首度轉而看多美國國債。“這是價值投資的機會，”總部位於芝加哥的Bianco Research總裁兼創辦人Bianco表示。“如果收益率開始進一步走高，我會繼續加碼。”"
+    },
+    {
+      "id": "te:markets:587398",
+      "time": "2026-09-29 07:24:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises as US-Iran Uncertainty Persists — Brent crude climbed toward $106 per barrel on Tuesday, extending its gains as ongoing uncertainty surrounding US-Iran negotiations outweighed the resumption of oil flows through Saudi Arabia’s East-West pipeline. Iranian officials have reportedly cast doubt on the possibility of reaching an agreement to end hostilities in the Middle East and reopen the Strait of Hormuz before the US midterm elections in November. Recent US-Iran talks in New York produced limited progress, with President Donald Trump rejecting Tehran’s latest proposal to reopen the strategic waterway. However, Trump is reportedly considering sanctions relief for Iran and the unfreezing of funds if meaningful progress is made toward a nuclear agreement. Meanwhile, Saudi Arabia has reportedly restored oil flows to around 3.5 million barrels per day following repairs to a key pipeline that provides an alternative route around Hormuz."
+    },
     {
       "id": "5117390",
       "time": "2026-09-29 07:23:31",
