@@ -1,7 +1,105 @@
 {
-  "updated": "2026-09-28 11:35:42",
-  "count": 11842,
+  "updated": "2026-09-28 11:40:10",
+  "count": 11849,
   "items": [
+    {
+      "id": "mkt:01a0e618-6c16-7118-86b4-da278cc32c37",
+      "time": "2026-09-28 11:39:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "Ninebot said domestic cumulative shipments of its smart electric vehicles have exceeded 14 million units."
+    },
+    {
+      "id": "5115506",
+      "time": "2026-09-28 11:38:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九號公司：智慧電動車國內累計出貨量突破1400萬臺】9月28日，九號公司(689009)宣佈，九號智慧電動車國內累計出貨量正式突破1400萬臺。"
+    },
+    {
+      "id": "5115505",
+      "time": "2026-09-28 11:37:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科創資訊等成立技術公司 含智慧無人飛行器相關業務】企查查APP顯示，近日，江西梅科飛創技術有限公司成立，法定代表人為黃毓敏，註冊資本為1000萬元，經營範圍包含：通用航空服務，民用航空器駕駛員培訓，智慧無人飛行器製造，智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由科創資訊(300730)旗下墨脫梅科飛創低空科技有限公司、江西卓森新能源有限公司共同持股。"
+    },
+    {
+      "id": "mkt:01a0e617-0e14-7118-86b4-d0b9c47417f8",
+      "time": "2026-09-28 11:37:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Traders say the Reserve Bank of India may be selling U.S. dollars to stem rupee depreciation."
+    },
+    {
+      "id": "mkt:01a0e616-e281-7118-86b4-cd02d2b36f66",
+      "time": "2026-09-28 11:37:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "【China A-shares midday: ChiNext Index down 4.32%; over 4,800 stocks lower】China A-shares opened lower and weakened into the midday session; ChiNext Index fell 4.32% at the break, Shenzhen Composite down 3.37% and Shanghai Composite down 1.74%. Market breadth was weak with more than 4,800 stocks down and half-day turnover above 1.1 trillion yuan. Power stocks outperformed, Zhejiang Xinneng hit the daily limit. Autos strengthened, with JAC Motors and Zotye Auto hitting daily limits. Cybersecurity names moved higher, Yongxin Zhicheng and Zhongxin Saike hit limits. Pork-related shares saw localized gains, Dongrui hit the limit. CPO-related names plunged, Xiangtong Optoelectronics and FiberHome hit limit-down. Telecom equipment, electronic components, semiconductors and non-ferrous metals were among the worst-performing sectors."
+    },
+    {
+      "id": "5115504",
+      "time": "2026-09-28 11:37:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱：印度央行大機率正在拋售美元以遏制盧比貶值。"
+    },
+    {
+      "id": "5115503",
+      "time": "2026-09-28 11:36:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡將於10月起擴大“單位定價”試點計劃的範圍。"
+    },
+    {
+      "id": "5115502",
+      "time": "2026-09-28 11:36:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於週六前往俄亥俄州，為參議員Husted站臺助選。"
+    },
+    {
+      "id": "mkt:01a0e615-607d-7118-86b4-c42f5cd8d6fc",
+      "time": "2026-09-28 11:35:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Huawei open-sources openPangu-2.0 pretraining, SFT and post-training RL code】Huawei has published openPangu-2.0 components — including pretraining, SFT and post-training RL code — to open-source platforms. The release provides reference implementations optimized for Ascend-native training and inference, intended as best-practice resources for running openPangu models on Huawei’s Ascend hardware and to support AI commercialisation and ecosystem development."
+    },
+    {
+      "id": "5115501",
+      "time": "2026-09-28 11:35:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度15年期國債收益率在下半年借款計劃公佈後上漲3個基點。"
+    },
     {
       "id": "5115500",
       "time": "2026-09-28 11:34:40",
@@ -108093,33 +108191,6 @@
         "Importance 1"
       ],
       "text": "Rupiah Holds Near IDR 17,810 as BI Meeting Looms — The Indonesian rupiah was little changed on Monday, hovering near IDR 17,810 per U.S. dollar after a seven-session losing streak, as traders positioned for Bank Indonesia’s policy decision this week. The central bank will begin its two-day meeting Tuesday, after leaving key rates unchanged at 5.75% for a second straight month in August following 100bps of hikes since May. Governor Destry Damayanti recently underscored currency stability as her priority alongside monetary, macroprudential and payment-system measures. Meanwhile, softer oil prices, aided by diplomatic efforts in the Middle East, eased imported inflation concerns, though domestic pressures persisted after August’s annual inflation quickened to 3.19%. Fiscal risks also lingered as lawmakers reportedly debated revising the 3% deficit cap to allow more welfare and development spending. Globally, the dollar index held near 100.2 as investors looked to remarks from Fed officials this week for signals on the policy outlook."
-    },
-    {
-      "id": "5104757",
-      "time": "2026-09-21 11:40:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘋果首款摺疊屏手機iPhone Duo整機良率僅六成？客服回應 】有媒體報道稱，距離正式發售只剩一個多月，蘋果首款摺疊屏手機iPhone Duo的量產爬坡還未完成。報道稱，產業鏈人士表示，目前富士康組裝iPhone Duo的整機良率僅為60%多，首批產量較少。按照蘋果現有的質量標準，整機良率達到成熟水平可能還需要半年甚至一年。針對此事，蘋果客服表示不太清楚，目前產品還未正式發售，要到10月才會有貨。在9月的秋季新品釋出會上，蘋果推出首款摺疊屏智慧手機iPhone Duo，產品提供星光白色和夜空藍色兩種配色，國行版本售價15999元起，將於10月16日開啟預售，10月23日正式發售。（新浪科技）"
-    },
-    {
-      "id": "5104756",
-      "time": "2026-09-21 11:39:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東方證券：全球燃機需求景氣度高 關注國產裝置廠商突破進展】東方證券釋出研報稱，近期，該行看到了全球多家燃機廠商取得積極進展，該行認為這更印證了行業的高景氣度，積極擁抱行業變化、主動佈局燃機裝置的國產廠商，有望在國際市場競爭中取得優勢。全球燃氣輪機的緊缺，正有望降低燃機行業廠商的進入壁壘，給國產燃機鏈廠商帶來更多的出海機遇，國際廠商間的競爭將體現在技術、渠道、產能等綜合的維度，具備強大資源整合能力的國產廠商，有望脫穎而出，取得業績的高速增長。"
-    },
-    {
-      "id": "te:markets:585198",
-      "time": "2026-09-21 11:38:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Gains for Fifth Straight Session — Copper futures climbed to around $6.65 per pound on Monday, extending gains for a fifth consecutive session, supported by signs of stronger demand and expectations of tighter global supply. The Yangshan premium, a key gauge of Chinese copper demand, rose to $121 a ton last week, reaching its highest level since November 2022. Copper also benefited from expectations of sustained long-term consumption driven by data centers and renewable energy projects. On the supply side, major producers including Chile, Indonesia and the Democratic Republic of Congo continued to face disruptions at several key mines due to operational issues, fatal accidents and severe storms, among other factors. Meanwhile, traders are closely watching US copper tariff policy and its potential effects on global trade flows."
     }
   ]
 }

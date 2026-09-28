@@ -1,7 +1,105 @@
 {
   "date": "2026-09-28",
-  "count": 746,
+  "count": 756,
   "items": [
+    {
+      "id": "mkt:01a0e618-6c16-7118-86b4-da278cc32c37",
+      "time": "2026-09-28 11:39:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "Ninebot said domestic cumulative shipments of its smart electric vehicles have exceeded 14 million units."
+    },
+    {
+      "id": "5115506",
+      "time": "2026-09-28 11:38:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九號公司：智慧電動車國內累計出貨量突破1400萬臺】9月28日，九號公司(689009)宣佈，九號智慧電動車國內累計出貨量正式突破1400萬臺。"
+    },
+    {
+      "id": "5115505",
+      "time": "2026-09-28 11:37:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科創資訊等成立技術公司 含智慧無人飛行器相關業務】企查查APP顯示，近日，江西梅科飛創技術有限公司成立，法定代表人為黃毓敏，註冊資本為1000萬元，經營範圍包含：通用航空服務，民用航空器駕駛員培訓，智慧無人飛行器製造，智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由科創資訊(300730)旗下墨脫梅科飛創低空科技有限公司、江西卓森新能源有限公司共同持股。"
+    },
+    {
+      "id": "mkt:01a0e617-0e14-7118-86b4-d0b9c47417f8",
+      "time": "2026-09-28 11:37:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Traders say the Reserve Bank of India may be selling U.S. dollars to stem rupee depreciation."
+    },
+    {
+      "id": "mkt:01a0e616-e281-7118-86b4-cd02d2b36f66",
+      "time": "2026-09-28 11:37:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "【China A-shares midday: ChiNext Index down 4.32%; over 4,800 stocks lower】China A-shares opened lower and weakened into the midday session; ChiNext Index fell 4.32% at the break, Shenzhen Composite down 3.37% and Shanghai Composite down 1.74%. Market breadth was weak with more than 4,800 stocks down and half-day turnover above 1.1 trillion yuan. Power stocks outperformed, Zhejiang Xinneng hit the daily limit. Autos strengthened, with JAC Motors and Zotye Auto hitting daily limits. Cybersecurity names moved higher, Yongxin Zhicheng and Zhongxin Saike hit limits. Pork-related shares saw localized gains, Dongrui hit the limit. CPO-related names plunged, Xiangtong Optoelectronics and FiberHome hit limit-down. Telecom equipment, electronic components, semiconductors and non-ferrous metals were among the worst-performing sectors."
+    },
+    {
+      "id": "5115504",
+      "time": "2026-09-28 11:37:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱：印度央行大機率正在拋售美元以遏制盧比貶值。"
+    },
+    {
+      "id": "5115503",
+      "time": "2026-09-28 11:36:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡將於10月起擴大“單位定價”試點計劃的範圍。"
+    },
+    {
+      "id": "5115502",
+      "time": "2026-09-28 11:36:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於週六前往俄亥俄州，為參議員Husted站臺助選。"
+    },
+    {
+      "id": "mkt:01a0e615-607d-7118-86b4-c42f5cd8d6fc",
+      "time": "2026-09-28 11:35:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Huawei open-sources openPangu-2.0 pretraining, SFT and post-training RL code】Huawei has published openPangu-2.0 components — including pretraining, SFT and post-training RL code — to open-source platforms. The release provides reference implementations optimized for Ascend-native training and inference, intended as best-practice resources for running openPangu models on Huawei’s Ascend hardware and to support AI commercialisation and ecosystem development."
+    },
+    {
+      "id": "5115501",
+      "time": "2026-09-28 11:35:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度15年期國債收益率在下半年借款計劃公佈後上漲3個基點。"
+    },
     {
       "id": "5115500",
       "time": "2026-09-28 11:34:40",
