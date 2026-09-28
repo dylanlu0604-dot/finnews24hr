@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-28 09:09:30",
-  "count": 11727,
+  "updated": "2026-09-28 09:13:19",
+  "count": 11722,
   "items": [
+    {
+      "id": "5115228",
+      "time": "2026-09-28 09:12:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【孚日股份：VC電解液新增劑業務三季度基本達到滿產狀態】 孚日股份9月28日在互動平臺表示，公司家紡毛巾類紡織業務2026年7—9月訂單及出貨情況正常；VC電解液新增劑業務三季度基本達到滿產狀態，公司VC產品對外銷售定價模式是一月一議價。"
+    },
+    {
+      "id": "5115227",
+      "time": "2026-09-28 09:12:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4250美元/盎司，日內跌1.70%。"
+    },
+    {
+      "id": "5115226",
+      "time": "2026-09-28 09:12:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守63美元/盎司，日內跌2.81%。"
+    },
+    {
+      "id": "5115225",
+      "time": "2026-09-28 09:10:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股停牌提示：14股今日停牌】Wind資料顯示，9月28日，瓦軸B、星帥爾、廣汽集團等14只個股停牌。"
+    },
     {
       "id": "5115224",
       "time": "2026-09-28 09:08:47",
@@ -107001,85 +107035,6 @@
         "公司"
       ],
       "text": "【康佳集團冰箱事業部原黨委副書記、副總經理呂劍被查】惠州市紀委監委9月21日通報，康佳集團股份有限公司冰箱事業部原黨委副書記、副總經理呂劍涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐華潤集團紀檢監察組紀律審查和惠東縣監察委員會監察調查。"
-    },
-    {
-      "id": "5104576",
-      "time": "2026-09-21 09:13:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "軟銀髮行100億美元債券和10億歐元票據。"
-    },
-    {
-      "id": "5104575",
-      "time": "2026-09-21 09:13:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌1%，現報5988.00元。"
-    },
-    {
-      "id": "5104574",
-      "time": "2026-09-21 09:12:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌3%，現報4131.00元。"
-    },
-    {
-      "id": "te:markets:585156",
-      "time": "2026-09-21 09:12:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Gains as Oil Prices Decline — Gold held above $4,350 an ounce on Monday after advancing for two consecutive sessions, supported by falling oil prices that eased concerns over rising inflation and the prospect of further interest rate hikes. Oil prices fell for a fourth straight session amid signs of increased diplomatic efforts to resolve the Middle East conflict and restore energy flows from the region. President Donald Trump said he would “probably” be open to meeting Iranian President Masoud Pezeshkian on the sidelines of the United Nations General Assembly this week, where he could also hold talks with other Persian Gulf leaders. Meanwhile, investors are awaiting several appearances by Federal Reserve officials this week after the central bank raised rates last week for the first time in three years. On Sunday, Minneapolis Fed President Neel Kashkari said inflation remains too high and that price pressures have expanded beyond the initial oil-price shock linked to the Iran war."
-    },
-    {
-      "id": "5104573",
-      "time": "2026-09-21 09:11:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為餘承東：智界RX將於9月28日釋出】9月21日，華為常務董事、產品投資評審委員會主任、終端BG董事長餘承東在微博表示，智界RX及鴻蒙智行新品釋出會將於9月28日14:30舉行。同時，家庭智慧旗艦MPV享界V8也將同步開啟預訂。"
-    },
-    {
-      "id": "5104572",
-      "time": "2026-09-21 09:11:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【康龍化成新設醫藥公司 含新化學物質業務】企查查APP顯示，近日，康龍化成（寧波）醫藥有限公司成立，經營範圍包含藥品生產；藥品委託生產；藥品進出口；新化學物質生產；新化學物質進口等。企查查股權穿透顯示，該公司由康龍化成全資持股。"
-    },
-    {
-      "id": "5104571",
-      "time": "2026-09-21 09:11:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【“金九”上海二手房單日成交衝出下半年新高】進入傳統“金九”樓市旺季，上海二手房市場成交持續走高。網上房地產資料顯示，9月19日上海二手房（含商業）單日網籤成交1495套，創2026年下半年以來單日網籤新高；截至9月19日，9月上海二手房累計成交15597套，同比上漲28%。上海易居房地產研究院副院長嚴躍進分析指出，上海二手房成交量延續了今年以來的高位水平。從日度資料看，當前上海樓市表現積極。在其看來，臨近假期，部分網籤資料會因工作日調整出現集中籤約現象，這在一定程度上會放大單日波動，但整體依舊反映出市場成交底盤處於較好水平。滬上頭部中介機構的帶看、客戶諮詢等前端指標亦持續回暖。上海鏈家資料顯示，9月1日至19日，該平臺二手房帶看量較8月同期提升13.4%，客戶諮詢量提升5.4%。（澎湃）"
-    },
-    {
-      "id": "mkt:01a0c183-76c5-7118-861a-ff301dd0ae5a",
-      "time": "2026-09-21 09:10:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【STAR Market broad-based indices diverge; allocation demand to fragment】STAR Market broad-based indices have recently diverged, with STAR 100 and STAR 200 outperforming. ETF flows have not simply tracked index moves — some funds recorded net subscriptions into STAR 50 ETFs during that index's pullback. Market participants say ongoing refinements to the STAR index system are highlighting differences in market-cap tiers, sector exposures and concentration, and will further segment index-based allocation tools."
-    },
-    {
-      "id": "5104570",
-      "time": "2026-09-21 09:09:52",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【花旗：市場對電池需求的擔憂過頭 看好寧德時代A股及中創新航等】花旗稱，對2027年電池需求的擔憂使得近期寧德時代和碳酸鋰相關的股票都遭到拋售。相信市場已對疲軟預期定價並有些過頭。基於估值吸引力看好寧德時代A股，以及正在獲得市場份額的二線參與者，如中創新航和億緯鋰能。分析師Jack Shang等在報告中指出，寧德時代近期遭到拋售主要由於電池供過於求以及競爭格局惡化的擔憂。行業調研顯示電池需求依然穩健，2027年料增長20%-30%，儘管增速較2026年有所放緩。"
     }
   ]
 }
