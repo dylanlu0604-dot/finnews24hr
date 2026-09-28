@@ -1,7 +1,91 @@
 {
   "date": "2026-09-28",
-  "count": 255,
+  "count": 263,
   "items": [
+    {
+      "id": "mkt:01a0e561-57b9-7118-86b0-4b677a3dc1ea",
+      "time": "2026-09-28 08:19:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Euro Stoxx 50 futures up 0.4%; DAX futures up 0.3%; UK FTSE futures up 0.2%."
+    },
+    {
+      "id": "mkt:01a0e561-4275-7118-86b0-45c22f543b2a",
+      "time": "2026-09-28 08:19:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's 3-year government bond futures fell 30 ticks; 10-year futures fell 120 ticks."
+    },
+    {
+      "id": "5115151",
+      "time": "2026-09-28 08:19:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率升至3.095%。"
+    },
+    {
+      "id": "5115150",
+      "time": "2026-09-28 08:18:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上漲0.3%，富時指數期貨上漲0.2%。"
+    },
+    {
+      "id": "5115149",
+      "time": "2026-09-28 08:18:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國三年期國債期貨下跌30個跳動點（ticks），韓國10年期國債期貨下跌120個跳動點（ticks）。"
+    },
+    {
+      "id": "te:markets:587038",
+      "time": "2026-09-28 08:18:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tokyo Electron Stock Price Hits 4-week High — Tokyo Electron shares increased to 56730.00 JPY, the highest since August 2026. Over the past 4 weeks, Tokyo Electron lost 0.12%, and in the last 12 months, it increased 112.68%."
+    },
+    {
+      "id": "te:markets:587037",
+      "time": "2026-09-28 08:17:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Resumes Decline on US-Iran Uncertainty — Silver slipped below $64 an ounce on Monday, resuming its decline as stalled US-Iran negotiations kept oil prices elevated and reinforced expectations for additional Federal Reserve tightening to curb inflation. President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, saying Tehran had overplayed its hand while adding that he expects talks to resume this week. Meanwhile, Iran said it would not soften its conditions for reopening the strategically important waterway. In the US, several Fed officials cited resilient economic growth and a robust labor market as reasons additional rate hikes could be necessary. Cleveland Fed President Beth Hammack said those factors, together with concerns over government debt, are contributing to higher long-term Treasury yields. Investors now await the Fed’s preferred inflation gauge and key US jobs data due this week, which could provide further clues on the path of monetary policy."
+    },
+    {
+      "id": "te:markets:587036",
+      "time": "2026-09-28 08:16:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Extends Losses on US-Iran Uncertainty — Gold slipped to around $4,250 an ounce on Monday, approaching its lowest levels in seven weeks as stalled US-Iran negotiations kept oil prices elevated and reinforced expectations for additional Federal Reserve tightening to curb inflation. President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, saying Tehran had overplayed its hand while adding that he expects talks to resume this week. Meanwhile, Iran said it would not soften its conditions for reopening the strategically important waterway. In the US, several Fed officials cited resilient economic growth and a robust labor market as reasons additional rate hikes could be necessary. Cleveland Fed President Beth Hammack said those factors, together with concerns over government debt, are contributing to higher long-term Treasury yields. Investors now await the Fed’s preferred inflation gauge and key US jobs data due this week, which could provide further clues on the path of monetary policy."
+    },
     {
       "id": "te:economy:587035",
       "time": "2026-09-28 08:15:45",
