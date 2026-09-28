@@ -1,7 +1,189 @@
 {
   "date": "2026-09-28",
-  "count": 322,
+  "count": 342,
   "items": [
+    {
+      "id": "mkt:01a0e587-c28e-7118-86b0-b3fa1af15544",
+      "time": "2026-09-28 09:01:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver slipped below $63/oz, down more than 2% on the day."
+    },
+    {
+      "id": "5115214",
+      "time": "2026-09-28 09:00:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億帆醫藥在研創新藥F-652急性移植物抗宿主病適應症II期臨床試驗完成首例參與者入組給藥】日前，億帆醫藥控股子公司億一生物有限公司自主研發的創新藥重組人白介素22-Fc融合蛋白（簡稱“F-652”）聯合全身用皮質類固醇治療造血幹細胞移植（HSCT）後急性移植物抗宿主病（aGVHD)的II期臨床研究，已成功完成首例參與者入組並給藥。"
+    },
+    {
+      "id": "mkt:01a0e587-3f97-7118-86b0-ac7edcafb2fd",
+      "time": "2026-09-28 09:00:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 1.37% in early trade on Sept. 28 (Monday) to 914.41 yuan/gram. Shanghai Gold Exchange silver T+D fell 1.70% to 15,369.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a0e587-37cb-7118-86b0-a456f0fc516f",
+      "time": "2026-09-28 09:00:39",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.07% lower."
+    },
+    {
+      "id": "5115213",
+      "time": "2026-09-28 09:00:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報900.00元。"
+    },
+    {
+      "id": "5115212",
+      "time": "2026-09-28 09:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多明尼加共和國發生5.2級地震】根據美國地質調查局報告，當地時間9月27日17時49分，多明尼加共和國東南部地區發生5.2級地震，震源深度109公里。目前暫無人員傷亡及財產損失報告。"
+    },
+    {
+      "id": "mkt:01a0e586-ca79-7118-86b0-986f2cf8f350",
+      "time": "2026-09-28 09:00:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At the open, China's main futures front-month contracts were mixed with more winners than losers. Asphalt led gains, up nearly 4%; methanol and benzene rose about 3%; fuel oil, SC crude and low-sulfur fuel oil (LU) advanced over 2%; LPG and propylene gained close to 2%. On the downside, Shanghai silver fell more than 3%; lithium carbonate slid about 2%; live hogs, red dates, platinum, coking coal, Shanghai gold and glass each declined over 1%."
+    },
+    {
+      "id": "5115211",
+      "time": "2026-09-28 09:00:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲6%，現報2928.00點。"
+    },
+    {
+      "id": "5115210",
+      "time": "2026-09-28 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲1%，現報5377.00元。"
+    },
+    {
+      "id": "5115209",
+      "time": "2026-09-28 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報2885.50點。"
+    },
+    {
+      "id": "5115208",
+      "time": "2026-09-28 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】集運指數歐線期貨連續漲4.17%，瀝青連續漲3.54%，燃料油連續漲2.42%，甲醇連續漲2.35%，白銀連續跌2.17%。"
+    },
+    {
+      "id": "5115207",
+      "time": "2026-09-28 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2960.00元。"
+    },
+    {
+      "id": "5115206",
+      "time": "2026-09-28 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲3%，現報5235.00元。"
+    },
+    {
+      "id": "5115205",
+      "time": "2026-09-28 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.10%。"
+    },
+    {
+      "id": "5115204",
+      "time": "2026-09-28 09:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4260美元/盎司，日內跌1.42%。"
+    },
+    {
+      "id": "5115203",
+      "time": "2026-09-28 08:59:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市高溫黃色預警訊號】深圳市氣象臺2026年09月28日09時00分發布全市陸地高溫黃色預警訊號，預計28日我市最高氣溫將升至35℃以上，訊號可能持續3-4天。注意防暑降溫，避免長時間戶外活動。"
+    },
+    {
+      "id": "5115202",
+      "time": "2026-09-28 08:59:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守63美元/盎司，日內跌2.13%。"
+    },
+    {
+      "id": "5115201",
+      "time": "2026-09-28 08:58:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報63.01美元/盎司。"
+    },
+    {
+      "id": "5115200",
+      "time": "2026-09-28 08:58:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4230美元/盎司，日內跌1.29%。"
+    },
+    {
+      "id": "5115199",
+      "time": "2026-09-28 08:57:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報63.48美元/盎司。"
+    },
     {
       "id": "5115198",
       "time": "2026-09-28 08:56:31",
