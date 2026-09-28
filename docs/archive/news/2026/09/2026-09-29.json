@@ -1,7 +1,105 @@
 {
   "date": "2026-09-29",
-  "count": 252,
+  "count": 262,
   "items": [
+    {
+      "id": "5117264",
+      "time": "2026-09-29 02:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果我們不自己生產鋼鐵，就無法保衛自己。"
+    },
+    {
+      "id": "mkt:01a0e95a-f404-7338-aaf8-e0d18c2260dc",
+      "time": "2026-09-29 02:50:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said if the U.S. does not produce its own steel, it cannot defend itself."
+    },
+    {
+      "id": "5117263",
+      "time": "2026-09-29 02:50:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國聯邦航空管理局暫緩批准波音737 Max 10】由於出現新的軟體問題，美國聯邦航空管理局(FAA)將推遲波音對737 Max 10的認證。這款機型原本已進入即將獲批並開始向航空公司交付的最後階段。FAA局長Bryan Bedford在華盛頓附近的一場活動上向記者表示，在確定最近發現的軟體問題是否構成飛行安全隱患之前，FAA將暫緩對波音這一款型號飛機的認證。Bedford發表上述言論後，波音股價跌至盤中低點，一度下跌6.8%。"
+    },
+    {
+      "id": "mkt:01a0e95a-525b-7338-aaf8-dc5c8aebb5cd",
+      "time": "2026-09-29 02:50:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said he will soon win a war with Iran and that oil prices will fall sharply."
+    },
+    {
+      "id": "5117262",
+      "time": "2026-09-29 02:49:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：將很快贏得伊朗戰爭，油價將大幅下跌。"
+    },
+    {
+      "id": "mkt:01a0e959-d4f9-7338-aaf8-d6402e2c23f0",
+      "time": "2026-09-29 02:49:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he received more votes in the last election than anyone in history, that his support has surged across three elections, and that he believes he is more popular now than 18 months ago."
+    },
+    {
+      "id": "5117261",
+      "time": "2026-09-29 02:49:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很快就會贏得伊朗戰爭，戰爭就會結束。"
+    },
+    {
+      "id": "mkt:01a0e959-330b-7338-aaf8-c943ab6050e6",
+      "time": "2026-09-29 02:48:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $105.28/bbl, up $0.96, or 0.92%."
+    },
+    {
+      "id": "5117260",
+      "time": "2026-09-29 02:48:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶105.28美元，上漲96美分，漲幅0.92%。"
+    },
+    {
+      "id": "mkt:01a0e958-c87b-7338-aaf8-c69a646a35f4",
+      "time": "2026-09-29 02:48:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukraine’s foreign minister said Russia has continued strikes on Ukrainian border infrastructure, bringing the conflict closer to NATO’s frontier. A Russian drone again struck near the Yahodyn–Dorohusk border crossing, hitting an old Ukrainian border checkpoint building on the Ukrainian side."
+    },
     {
       "id": "mkt:01a0e957-3873-7338-aaf8-bbd145f8f02f",
       "time": "2026-09-29 02:46:42",
