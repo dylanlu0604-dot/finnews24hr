@@ -1,7 +1,48 @@
 {
   "date": "2026-09-28",
-  "count": 800,
+  "count": 805,
   "items": [
+    {
+      "id": "mkt:01a0e633-d41d-7118-86b5-62f51f3875f3",
+      "time": "2026-09-28 12:09:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federation of Thai Industries: Thailand's auto exports fell 2.04% YoY in August, after a 2.39% YoY rise in July."
+    },
+    {
+      "id": "5115535",
+      "time": "2026-09-28 12:09:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【東南亞跨境煙霾難散 區域致力協同破局】近期，印度尼西亞多地持續受到林火和煙霾影響，部分地區空氣質量達到“危險”級別。煙霾還跨越國境，波及馬來西亞、新加坡等地。專家表示，人為燒荒拓地、泥炭地水分流失以及極端天氣等多重因素疊加引發林火和煙霾，治理思路應從災後應對轉向源頭防控。（新華社）"
+    },
+    {
+      "id": "5115534",
+      "time": "2026-09-28 12:08:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【生物安全初創公司Red Queen Bio 利用AI防範未來的AI大流行病】生物安全初創公司Red Queen Bio利用AI技術預先設計抗體藥物，旨在抵禦未來可能由AI系統設計或改造的未知新型病原體。這家由OpenAI領投的公司表示，目前已籌集3,600萬美元。該公司計劃於明年啟動針對其禽流感及其他流感病毒家族抗體藥物的人體臨床試驗。"
+    },
+    {
+      "id": "mkt:01a0e631-805d-7118-86b5-5c99b47e0f7d",
+      "time": "2026-09-28 12:06:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australia's largest battery storage project enters full operation】Australia's highest-power battery storage project has begun full operation after approval from the Australian Energy Market Operator (AEMO), the New South Wales government said on Monday. The Waratah super battery in NSW has 1,680 MWh of storage and had been in partial operation since August 2025. Officials said the asset provides rapid-response capacity to support the grid as aging coal plants retire and renewable generation expands, bolstering supply resilience and enabling more renewables to flow into the system, NSW Energy Minister Penny Sharpe said."
+    },
+    {
+      "id": "5115533",
+      "time": "2026-09-28 12:06:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【國家能源局：要確保迎峰度冬期間天然氣供應量足價穩】記者今天從國家能源局瞭解到，我國將確保今冬明春天然氣供應量足價穩，確保人民群眾溫暖過冬。國家能源局相關負責人表示，今年迎峰度夏期間，我國天然氣供應平穩有序，有效克服國際市場資源劇烈波動的外部環境影響，但採暖季天然氣保供工作仍面臨中東局勢持續動盪以及自然災害、極端天氣等挑戰。為此，上游供氣企業要大力增儲上產，立足國內強化增產增供；加快注氣進度，確保地下儲氣庫滿庫入冬、沿海LNG儲罐處於高液位；做細做實應急預案，兜住自身市場保供底線。國家管網集團要抓好重大工程建設，確保天然氣基礎設施按時投用。河北等省要加強供需協調，確保迎峰度冬期間天然氣供應量足價穩。（央視）"
+    },
     {
       "id": "mkt:01a0e630-5fa8-7118-86b5-501de6063560",
       "time": "2026-09-28 12:05:24",

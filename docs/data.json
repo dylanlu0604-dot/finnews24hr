@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-28 12:06:15",
-  "count": 11867,
+  "updated": "2026-09-28 12:10:03",
+  "count": 11869,
   "items": [
+    {
+      "id": "mkt:01a0e633-d41d-7118-86b5-62f51f3875f3",
+      "time": "2026-09-28 12:09:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federation of Thai Industries: Thailand's auto exports fell 2.04% YoY in August, after a 2.39% YoY rise in July."
+    },
+    {
+      "id": "5115535",
+      "time": "2026-09-28 12:09:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【東南亞跨境煙霾難散 區域致力協同破局】近期，印度尼西亞多地持續受到林火和煙霾影響，部分地區空氣質量達到“危險”級別。煙霾還跨越國境，波及馬來西亞、新加坡等地。專家表示，人為燒荒拓地、泥炭地水分流失以及極端天氣等多重因素疊加引發林火和煙霾，治理思路應從災後應對轉向源頭防控。（新華社）"
+    },
+    {
+      "id": "5115534",
+      "time": "2026-09-28 12:08:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【生物安全初創公司Red Queen Bio 利用AI防範未來的AI大流行病】生物安全初創公司Red Queen Bio利用AI技術預先設計抗體藥物，旨在抵禦未來可能由AI系統設計或改造的未知新型病原體。這家由OpenAI領投的公司表示，目前已籌集3,600萬美元。該公司計劃於明年啟動針對其禽流感及其他流感病毒家族抗體藥物的人體臨床試驗。"
+    },
+    {
+      "id": "mkt:01a0e631-805d-7118-86b5-5c99b47e0f7d",
+      "time": "2026-09-28 12:06:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australia's largest battery storage project enters full operation】Australia's highest-power battery storage project has begun full operation after approval from the Australian Energy Market Operator (AEMO), the New South Wales government said on Monday. The Waratah super battery in NSW has 1,680 MWh of storage and had been in partial operation since August 2025. Officials said the asset provides rapid-response capacity to support the grid as aging coal plants retire and renewable generation expands, bolstering supply resilience and enabling more renewables to flow into the system, NSW Energy Minister Penny Sharpe said."
+    },
+    {
+      "id": "5115533",
+      "time": "2026-09-28 12:06:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【國家能源局：要確保迎峰度冬期間天然氣供應量足價穩】記者今天從國家能源局瞭解到，我國將確保今冬明春天然氣供應量足價穩，確保人民群眾溫暖過冬。國家能源局相關負責人表示，今年迎峰度夏期間，我國天然氣供應平穩有序，有效克服國際市場資源劇烈波動的外部環境影響，但採暖季天然氣保供工作仍面臨中東局勢持續動盪以及自然災害、極端天氣等挑戰。為此，上游供氣企業要大力增儲上產，立足國內強化增產增供；加快注氣進度，確保地下儲氣庫滿庫入冬、沿海LNG儲罐處於高液位；做細做實應急預案，兜住自身市場保供底線。國家管網集團要抓好重大工程建設，確保天然氣基礎設施按時投用。河北等省要加強供需協調，確保迎峰度冬期間天然氣供應量足價穩。（央視）"
+    },
     {
       "id": "mkt:01a0e630-5fa8-7118-86b5-501de6063560",
       "time": "2026-09-28 12:05:24",
@@ -108329,35 +108370,6 @@
         "公司"
       ],
       "text": "【土耳其監管機構將基金清算期限延長至六個月】土耳其資本市場委員會公告顯示，對於由投資組合管理人管理、無法履行贖回義務的逾百隻土耳其投資基金，委員會將其清算期限由三個月延長至六個月。監管機構表示，此次調整是 “考慮到基金的投資組合結構與市場環境，確保待清算基金能夠以儘可能有利的條件完成處置”。清算工作可視實際情況，在六個月期限內提前完成。"
-    },
-    {
-      "id": "5104785",
-      "time": "2026-09-21 12:08:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國主權基金擬出售10億美元私募股權份額】知情人士透露，韓國投資公司（Korea Investment Corp.）計劃出售價值逾10億美元的部分私募股權份額。知情人士稱，該主權基金已聘請投資顧問PJT Partners負責本次交易。因相關資訊尚未公開，這些人士要求匿名。他們補充道，相關磋商尚處於初步階段，交易細節或有變動。PJT Partners拒絕置評，韓國投資公司暫未回應問詢。截至2025年末，這隻主權財富基金管理資產規模達2320億美元，十年年化收益率為7.07%。其投資組合中，超過78%配置於股票、固收等傳統資產類別，剩餘資金投向私募股權、房地產等另類資產。"
-    },
-    {
-      "id": "te:markets:585203",
-      "time": "2026-09-21 12:08:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Drops as Traders Monitor Middle East Diplomacy — European natural gas prices fell below €79/MWh on Monday after surging in the previous session, as traders monitored diplomatic efforts to end the Middle East conflict. President Donald Trump said he would probably be open to meeting Iranian President Masoud Pezeshkian, who is expected to attend the United Nations General Assembly later this week, though Tehran has yet to respond to the remarks. Any progress toward de-escalation could ease concerns over prolonged LNG supply disruptions. However, supply risks remain elevated, with the conflict continuing to restrict LNG shipments through the Strait of Hormuz. European gas storage facilities were around 68.5% full, still below the seasonal average. The situation is further complicated by intense competition for LNG with Asia and ongoing maintenance work on Norway’s gas infrastructure. With the heating season approaching, the market remains highly sensitive to extended supply disruptions, increasing the risk of further price volatility."
-    },
-    {
-      "id": "5104783",
-      "time": "2026-09-21 12:06:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國主權財富基金KIC擬出售價值10億美元的私募股權股份。"
     }
   ]
 }
