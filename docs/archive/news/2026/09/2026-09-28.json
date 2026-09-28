@@ -1,7 +1,88 @@
 {
   "date": "2026-09-28",
-  "count": 693,
+  "count": 702,
   "items": [
+    {
+      "id": "mkt:01a0e5fe-4c8b-7118-86b4-6d273414f167",
+      "time": "2026-09-28 11:10:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "000660.KS",
+        "Impact mixed",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "【Industry sources: SK Hynix reportedly began preliminary construction on Japan wafer fab】SME Daily on the 28th cited industry sources saying SK Hynix has begun preliminary construction, including foundation work, at a wafer fab site in Japan’s Tohoku region. Sources say it is unclear whether the project would be run independently or in partnership with Kioxia. SK Hynix states the Japan memory-fab project remains under evaluation with no further progress. The company is also asking Korean component suppliers to ramp output to address memory-chip shortages. If confirmed, the site would accelerate deployment of memory capacity in Northeast Japan and, alongside TSMC’s Kyushu and Rapidus’s Hokkaido projects, form a Japan semiconductor production triangle."
+    },
+    {
+      "id": "5115468",
+      "time": "2026-09-28 11:09:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中廣核技全資成立分子科技公司 含重氧水、超輕水等業務】天眼查App顯示，近日，中廣核分子科技（蒼南）有限公司成立，法定代表人為譚睿祺，註冊資本6280萬元，註冊地址位於浙江省溫州市蒼南縣沿浦鎮綠能小鎮，所屬行業為研究和試驗發展，經營範圍包含研發生物試劑，生產和銷售重氧水、超輕水，銷售水處理裝置等。股東資訊顯示，該公司由中廣核核技術發展股份有限公司全資持股。"
+    },
+    {
+      "id": "5115467",
+      "time": "2026-09-28 11:08:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京汽車集團有限公司原黨委書記、董事長徐和誼一審被判死緩】據北京市第三中級人民法院訊息，2026年9月28日，北京市第三中級人民法院依法公開宣判北京汽車集團有限公司原黨委書記、董事長徐和誼受賄、洗錢案，對被告人徐和誼以受賄罪判處死刑，緩期二年執行，剝奪政治權利終身，並處沒收個人全部財產；以洗錢罪判處有期徒刑二年，並處罰金人民幣二十萬元；決定執行死刑，緩期二年執行，剝奪政治權利終身，並處沒收個人全部財產。對被告人徐和誼受賄犯罪所得及孳息予以沒收，上繳國庫。"
+    },
+    {
+      "id": "5115466",
+      "time": "2026-09-28 11:08:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【4連板大牛股盤中直線跳水，按摩器械龍頭回應：市場炒作概念多】9月28日，上週斬獲4連板的全球保健按摩器械龍頭奧佳華開盤再度大漲9.6%，報9.13元/股。但隨後股價直線跳水，截至9時35分，報7.82元/股，跌幅約6.12%，換手率13.49%。記者以投資者身份致電奧佳華，接線工作人員表示：“最近市場情況有點複雜，市場上有很多炒作概念。公司目前整個來說，基本面並沒有明顯的改善。短期的話，包括機器人還有一些其他方面，都還是有很大的不確定性。我們還是希望投資者要注意風險。”事實上，針對市場關注的機器人概念，奧佳華在昨日公告就曾明確澄清，公司健康服務機器人相關業務尚處於探索階段，暫未涉及人形機器人領域，相關情況仍存在不確定性。(21世紀經濟報道)"
+    },
+    {
+      "id": "mkt:01a0e5fb-b9e7-7118-86b4-67dbf955a7a9",
+      "time": "2026-09-28 11:07:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Momentum stock with four straight limit-ups plunges; massage-device leader Aojiahua calls trading speculative】Aojiahua, a global leader in health massage devices that posted four consecutive daily limit-ups last week, opened up 9.6% to 9.13 yuan/share but plunged to 7.82 yuan/share by 09:35, down about 6.12%, with turnover around 13.49%. In response to investor inquiries, company staff said recent trading has been driven by speculative concepts, fundamentals have not materially improved, and short-term prospects — including robot-related initiatives and other areas — remain highly uncertain; they warned investors to watch risks."
+    },
+    {
+      "id": "mkt:01a0e5fb-9861-7118-86b4-5acaad7ad810",
+      "time": "2026-09-28 11:07:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's National Development and Reform Commission will hold a thematic press conference on Tuesday, Sept. 29, 2026 at 10:00 to outline measures to expand and improve service-sector capacity and quality."
+    },
+    {
+      "id": "5115465",
+      "time": "2026-09-28 11:07:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【預告】國家發展改革委定於2026年9月29日（星期二）上午10:00，召開國家發展改革委專題新聞釋出會，介紹推進服務業擴能提質有關情況。"
+    },
+    {
+      "id": "5115464",
+      "time": "2026-09-28 11:07:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【網路安全概念再度拉昇 永信至誠20cm漲停】網路安全概念盤中再度拉昇，永信至誠20cm漲停，此前中新賽克漲停，中孚資訊、任子行、天融信、啟明資訊、麒麟信安均漲超5%。"
+    },
+    {
+      "id": "mkt:01a0e5fa-253f-7118-86b4-5495ca1392cf",
+      "time": "2026-09-28 11:06:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Tongcheng Travel: Shanghai interprovincial bookings during Mid-Autumn holiday up 29% vs Dragon Boat】Tongcheng Travel's 2026 Mid-Autumn holiday report shows Shanghai's interprovincial bookings rose 29% versus this year's Dragon Boat holiday. Top five source regions for cross‑province trips were Jiangsu, Zhejiang, Beijing, Guangdong and Anhui. Shanghai ranked among the top 10 Mid‑Autumn destinations. Nationally, hotel bookings for urban micro‑vacations by consumers born in the 1990s and 2000s rose 24% YoY; the share of stays of two nights or longer increased by 6 percentage points. Shanghai bookings concentrated around major attractions, commercial districts and cultural/museum venues."
+    },
     {
       "id": "5115463",
       "time": "2026-09-28 11:04:41",
