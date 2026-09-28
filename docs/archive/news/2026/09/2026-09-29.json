@@ -1,7 +1,45 @@
 {
   "date": "2026-09-29",
-  "count": 436,
+  "count": 440,
   "items": [
+    {
+      "id": "mkt:01a0ea41-1722-7338-aafb-4dbec1149100",
+      "time": "2026-09-29 07:02:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Samsung will invest $1bln in AI infrastructure firm Helix Digital, backed by KKR and NVIDIA, bringing Helix's total capital commitments to more than $11bln, the Wall Street Journal reports."
+    },
+    {
+      "id": "mkt:01a0ea40-6cf7-7338-aafb-4245ff1f9661",
+      "time": "2026-09-29 07:01:25",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "UK BRC shop price index YoY 1.4% in September, versus 1.5% previously."
+    },
+    {
+      "id": "mkt:01a0ea40-5070-7338-aafb-39bb1b75a5bc",
+      "time": "2026-09-29 07:01:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Shop Price Index (YoY) (Sep) | actual 1.4% | previous 1.50%"
+    },
+    {
+      "id": "mkt:01a0ea3f-0fab-7338-aafb-310b5ce74ecd",
+      "time": "2026-09-29 06:59:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu visits UAE to discuss bilateral ties and regional challenges】Israeli Prime Minister Netanyahu visited the United Arab Emirates and held talks with UAE President Al Nahyan, focusing on strengthening bilateral relations and addressing regional challenges, his office and the UAE state news agency said. Netanyahu and his wife Sara were visiting at the invitation of UAE leaders. He was accompanied by Israel’s national security council chief, the head of Mossad, his military secretary and a foreign policy adviser. The UAE and Israel signed the Abraham Accords in 2020 with US support during Donald Trump’s first term."
+    },
     {
       "id": "5117366",
       "time": "2026-09-29 06:55:10",

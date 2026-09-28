@@ -1,7 +1,45 @@
 {
-  "updated": "2026-09-29 06:58:47",
-  "count": 11761,
+  "updated": "2026-09-29 07:05:06",
+  "count": 11758,
   "items": [
+    {
+      "id": "mkt:01a0ea41-1722-7338-aafb-4dbec1149100",
+      "time": "2026-09-29 07:02:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Samsung will invest $1bln in AI infrastructure firm Helix Digital, backed by KKR and NVIDIA, bringing Helix's total capital commitments to more than $11bln, the Wall Street Journal reports."
+    },
+    {
+      "id": "mkt:01a0ea40-6cf7-7338-aafb-4245ff1f9661",
+      "time": "2026-09-29 07:01:25",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "UK BRC shop price index YoY 1.4% in September, versus 1.5% previously."
+    },
+    {
+      "id": "mkt:01a0ea40-5070-7338-aafb-39bb1b75a5bc",
+      "time": "2026-09-29 07:01:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Shop Price Index (YoY) (Sep) | actual 1.4% | previous 1.50%"
+    },
+    {
+      "id": "mkt:01a0ea3f-0fab-7338-aafb-310b5ce74ecd",
+      "time": "2026-09-29 06:59:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu visits UAE to discuss bilateral ties and regional challenges】Israeli Prime Minister Netanyahu visited the United Arab Emirates and held talks with UAE President Al Nahyan, focusing on strengthening bilateral relations and addressing regional challenges, his office and the UAE state news agency said. Netanyahu and his wife Sara were visiting at the invitation of UAE leaders. He was accompanied by Israel’s national security council chief, the head of Mossad, his military secretary and a foreign policy adviser. The UAE and Israel signed the Abraham Accords in 2020 with US support during Donald Trump’s first term."
+    },
     {
       "id": "5117366",
       "time": "2026-09-29 06:55:10",
@@ -107121,66 +107159,6 @@
         "Impact bearish"
       ],
       "text": "【Fitch: Tesla heavy AI investment may compress margins】Fitch has assigned Tesla Inc (TSLA.O) a BBB long‑term issuer default rating for the first time, with a stable outlook, citing Tesla’s strong position as a global EV leader and its strategic shift toward a physical AI company. Fitch says Tesla’s EV operations should remain profitable, but rapid, large-scale AI investment will likely compress margins, require a sharp rise in capex—forecast to exceed $25 billion in 2026, more than three times 2025—and could push mid-term free cash flow (FCF) negative and increase leverage. Most of the spending will support construction and training of the Cortex 2 AI supercomputer, which underpins Tesla’s FSD, Robotaxi and Optimus programs."
-    },
-    {
-      "id": "5106420",
-      "time": "2026-09-22 07:03:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國遊說團體稱，英國被排除在歐盟\"歐洲製造\"計劃之外，恐危及英國汽車貿易。"
-    },
-    {
-      "id": "5106419",
-      "time": "2026-09-22 07:02:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本擬設新法人機構 加速防衛產業“戰備化”】據日本共同社20日報道，日本政府計劃2027年度設立與防衛密切相關的新法人機構，籌備室已投入工作，相關法案擬明年提交國會。該機構將統籌防衛裝備出口、培育新興企業、強化生產基礎，並管理國有化軍工廠，還擬效仿美國模式從企業購入裝備再出口。此舉遭到日本在野黨質疑，被指令人聯想到二戰前“兵工廠”。專家認為，其實質是推動武器外銷、儲備持久戰產能，推高亞太安全風險。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0c634-7dd9-7118-8633-3ff8cd058535",
-      "time": "2026-09-22 07:02:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "SMMT urged the EU to recognise UK-made vehicles, parts and materials as equivalent to EU products to protect competition, consumer choice and supply chains."
-    },
-    {
-      "id": "mkt:01a0c633-4e1e-7118-8633-34c128b809d8",
-      "time": "2026-09-22 07:00:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kim Jong Un observes N. Korea new weapon test】KCNA reported on the 22nd that the Missile General Bureau successfully tested a new weapon on the 20th, an event observed by Kim Jong Un. Kim said the trial demonstrated advanced defense technology and that acquiring these capabilities is significant for national readiness and long-term force development."
-    },
-    {
-      "id": "5106418",
-      "time": "2026-09-22 07:00:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【朝鮮成功進行新型武器試驗 金正恩現場觀摩】朝鮮導彈總局20日成功進行新型武器試驗。朝鮮勞動黨總書記、國務委員長金正恩觀摩了試驗。金正恩表示，此次試驗顯示了朝鮮尖端國防技術實力，獲取這些技術對國家的備戰狀態和長遠的武力發展具有重大意義。(新華社)"
-    },
-    {
-      "id": "5106417",
-      "time": "2026-09-22 06:59:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商業航天概念板塊業績分化，配套環節率先兌現】9月中旬，商業航天領域接連完成多次成功發射，高密度的組網發射節奏直接提振了市場情緒。Wind資料顯示，9月21日商業航天概念板塊表現活躍，萬得商業航天概念指數上漲1.31%，多隻成分股上漲。人士認為，商業航天板塊正從概念驅動轉向訂單驅動，產業盈利兌現在分化中逐步展開。上游配套企業率先受益於星座組網提速帶來的訂單放量，中下游總體整合與資料應用環節業績有所承壓。隨著可回收火箭技術進入工程驗證深水區，板塊投資邏輯正從事件驅動向業績兌現切換，訂單正加速向配套卡位明確的企業集中。（中證報）"
-    },
-    {
-      "id": "5106416",
-      "time": "2026-09-22 06:59:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【特斯拉人形機器人量產在即，中國產業鏈公司迎合作新機遇】特斯拉正在牽手中國產業鏈公司，為人形機器人Optimus的量產做準備。特斯拉機器人團隊已於近日到拓普集團、三花智控、均勝電子等總部位於浙江寧波的上市公司開啟審廠工作。特斯拉本輪審廠導向人形機器人Optimus的量產，有望向中國供應鏈企業派發相關訂單。業內專家對記者表示，伴隨智慧化的發展，中國多家產業鏈企業此前已經從汽車業務向機器人業務拓展。隨著特斯拉機器人產能的增加，其對於機器人零部件的需求也將大幅增加。在此背景下，特斯拉傾向於牽手既有機器人研製能力又與其在新能源汽車業務上有過合作的中國企業作為量產人形機器人零部件供應商。（上證報）"
     }
   ]
 }
