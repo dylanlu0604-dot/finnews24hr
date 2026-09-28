@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-28 08:12:27",
-  "count": 11715,
+  "updated": "2026-09-28 08:16:13",
+  "count": 11713,
   "items": [
+    {
+      "id": "te:economy:587035",
+      "time": "2026-09-28 08:15:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Philippines Consumer Confidence Improves in Q3 — The consumer confidence indicator in the Philippines rose to -29.8 in the third quarter of 2026 from -42 in the previous quarter, which marked the weakest reading since Q4 2020 during the COVID pandemic. The improvement was driven by expectations of higher earnings, additional sources of income, and more stable employment. All three major component indices became less negative. The overall economic condition index rose to -59.4 from -71.1, while the family financial situation index increased to -20.3 from -36.2 and the family income index increased to -9.7 from -18.7. Meanwhile, the consumer outlook for the next quarter remained negative but moved closer to zero (-0.8 vs -16.3), while the outlook for the next 12 months (9.1 vs 0.2) rose further into positive territory, signaling greater optimism about future economic conditions and household finances."
+    },
+    {
+      "id": "mkt:01a0e55d-5504-7118-86b0-380a532133ad",
+      "time": "2026-09-28 08:14:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Chinese Academy of Sciences' 15th Five-Year plan targets technological high ground】The Chinese Academy of Sciences (CAS) published its 15th Five-Year development plan, prioritizing seizure of the technological high ground. CAS singles out basic research, strategic high-tech and sustainable development as its strategic priorities for the next five years and directs resources toward AI-enabled scientific research, strengthening core scientific infrastructure and optimizing regional R&D capacity. The plan also mandates reforms to build world-class research institutions, including integrated education-and-talent development, creation of a national science-and-technology think tank, research-organization and management reform, technology transfer and commercialization measures, and expanded international scientific cooperation. It explicitly frames rapid AI development as a strategic opportunity."
+    },
+    {
+      "id": "5115148",
+      "time": "2026-09-28 08:14:34",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：預計2026年三季度電子行業在AI趨勢浪潮下整體業績維持高景氣】中信證券預計2026年三季度電子行業在AI趨勢浪潮下整體業績維持高景氣：其中AI通脹方向最佳，PCB/CCL、儲存、AI電源相關公司業績表現強勁，此外受益於AI訂單外溢的半導體制造/封測產業鏈整體訂單趨勢持續景氣；其次自主可控方向趨勢延續，半導體國產裝置及零部件端訂單快速增長、交付偏緊，下游算力荒持續背景下國產算力相關公司收入/訂單保持跨越式增長；消費電子整體仍然需求平淡，其中有AI敞口、獨立成長邏輯的中上游公司表現更優，面板行業有漲價邏輯的公司業績更為強勢。綜合來看，預計三季度業績表現相對亮眼的細分板塊有PCB/CCL、儲存原廠及利基儲存設計、AI電源、CPU鏈、FAB龍頭、裝置龍頭、合封儲存的IC設計公司及新品放量公司等。展望2026年四季度及2027年，中信證券認為，電子行業投資主線仍將繼續圍繞“自主可控、AI算力”兩大方向展開。一方面，國內算力晶片、晶圓製造、裝置和先進封裝正加速形成產業閉環，相關公司訂單及業績有望持續兌現；另一方面，AI伺服器配套零部件需求景氣，相關供應鏈公司業績有望持續兌現。繼續看好基本面強、業績兌現度高且具備國產替代空間的細分方向。"
+    },
+    {
+      "id": "5115147",
+      "time": "2026-09-28 08:13:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《中國科學院“十五五”發展規劃》釋出】記者9月28日從中國科學院獲悉，《中國科學院“十五五”發展規劃》近日正式釋出。規劃聚焦搶佔科技制高點核心任務，明確了“十五五”時期中國科學院科技事業發展的戰略重點，圍繞基礎研究、戰略高技術和可持續發展三大領域體系化部署科技攻關重點方向，著力加強人工智慧賦能科學研究，持續強化科技基礎能力建設，統籌最佳化區域科技佈局，並圍繞國際一流科研機構建設目標，從教育科技人才一體發展、國家科學技術思想庫建設、科研組織變革和管理創新、科技成果轉移轉化、國際科技交流合作等方面，提出一系列改革發展任務。（新華社）"
+    },
+    {
+      "id": "5115146",
+      "time": "2026-09-28 08:12:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國央行稱全球市場不確定性上升 將密切關注市場動態】韓國央行在宣告中表示，由於市場對貨幣政策的預期發生變化，韓國中秋節假期期間主要經濟體的政府債券收益率大幅上升，這導致全球金融市場的不確定性加劇。韓國央行週一召開市場評估會議，由高階副行長權珉秀主持， 評估9月24日至27日假期期間的全球金融市場。權珉秀表示，韓國經濟基本面依然穩健。韓國央行警告稱，國內金融和外匯市場的波動性可能會加劇，這取決於美伊談判的進展、對主要經濟體財政穩健性的擔憂以及對人工智慧行業預期的變化。韓國央行將密切關注市場動態，提高警惕，因為本地金融和外匯市場的波動性可能擴大。"
+    },
     {
       "id": "5115145",
       "time": "2026-09-28 08:11:09",
@@ -106855,66 +106903,6 @@
         "國際"
       ],
       "text": "【摩根大通：其偏鷹的韓國央行3.75%利率預測仍存在上行空間】摩根大通表示，只要信貸與金融市場保持穩定，若半導體拉動的經濟增長推高通脹，其原本就高於市場普遍預期的韓國利率預測還存在進一步上行風險。這家華爾街機構預計，韓國央行將於今年11月、明年2月及5月加息，在本輪緊縮週期中將政策基準利率上調至3.75%。該預測高於媒體經濟學家調查得出的3.5%預期中值，參與調查的經濟學家預計利率將維持在3.5%直至2028年第二季度。摩根大通經濟學家Seok Gil Park 在採訪中稱：“我們給出的預測是3.75%，但現階段要確定利率終點上限還為時過早。我們正經歷一場前所未有的宏觀衝擊。”"
-    },
-    {
-      "id": "5104493",
-      "time": "2026-09-21 08:16:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50股指期貨上漲0.2%，德國DAX股指期貨上漲0.2%，富時股指期貨持平。"
-    },
-    {
-      "id": "5104492",
-      "time": "2026-09-21 08:15:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4400美元/盎司，日內跌0.56%。"
-    },
-    {
-      "id": "5104491",
-      "time": "2026-09-21 08:15:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【神二十三乘組出差近4個月】神二十三乘組已在軌近4個月，承擔的空間科學實（試）驗任務持續推進。近期，航天員開展了病毒與免疫代謝的空間互作規律探究，為長期在軌健康防護積累關鍵資料。同時，3名航天員按計劃完成了個人噪聲暴露劑量測量，以及艙內環境定期清潔及檢查維護等工作。（央視）"
-    },
-    {
-      "id": "5104490",
-      "time": "2026-09-21 08:14:31",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【海南迴應“網購塑膠製品被拒收”：從未禁止普通商品和正常快遞入島】“海南禁塑從來沒有禁止過一般商品進入海南，也沒有禁止過快遞物流正常收發。”針對近期部分消費者反映在電商平臺下單塑膠製品遭遇商家“不發貨”“要求退單”，甚至收貨地址被遮蔽等問題，省生態環境廳於9月18日舉行媒體通氣會進行政策解讀並作出回應。省生態環境廳有關負責人明確表示，海南禁塑名錄禁止的，是特定的一次性不可降解塑膠製品。其中具體包括兩大類：一是含有PE、PP、PS、PVC等非生物降解高分子材料的一次性袋類（如購物袋、日用塑膠袋、垃圾袋等）；二是一次性餐飲具類（如餐盒、碗、飲料杯、吸管等）。省郵政管理局市場監管處處長吳艾寧介紹，對於不屬於禁止名錄內的塑膠製品應正常收寄，發往海南的快遞包裝袋、包裝箱、膠帶、填充物等，其材質不受海南禁塑規定限制，如紙巾的塑膠包裝袋這些“商品預包裝”不屬於海南禁止名錄內的塑膠製品。（三亞日報）"
-    },
-    {
-      "id": "5104489",
-      "time": "2026-09-21 08:14:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國銀行策略師表示，投資者應該為美聯儲可能將基準利率上調至5%以上做準備，這將超出當前市場預期。策略師表示，從沃什關於上週加息實際上是“減少了寬鬆力度”的表態來看，這表明官員們目前並不認為貨幣政策會阻礙美國經濟發展。"
-    },
-    {
-      "id": "5104488",
-      "time": "2026-09-21 08:12:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人民日報聚焦彈窗廣告屢禁不止：根治頑疾需多方協同發力】彈窗廣告屢禁不止，被稱為“數字牛皮癬”，其根源在於技術簡單、成本低廉，相比之下，收益巨大。專家建議，要根治彈窗廣告這一頑疾，需多方協同發力。監管部門應提升違法成本，建立按次處罰、倍數罰款等機制，明確“搖一搖”、假關閉、強制跳轉等行為的判定邊界，將“顯著標明”和“一鍵關閉”轉化為可量化技術標準，在手機作業系統增設“一鍵禁止非主動跳轉”等功能；強化常態化檢測監測，對違規行為依法予以約談、通報、下架；將停車場、快遞櫃、自動售貨機等民生剛需場景納入統一監管標準。“還應當轉變監管方式，從人工巡查轉向技術抽檢。”範世乾說。平臺企業應守住底線，運營者要對軟體內全部廣告內容負總責，嚴格稽核第三方廣告外掛。加快推進適老化改造，在老年模式中預設關閉彈窗誘導跳轉廣告。專家認為，透過全方位設計，可以平衡流量收益和使用者權益，探索不帶套路、合規可持續的盈利模式。"
-    },
-    {
-      "id": "5104487",
-      "time": "2026-09-21 08:12:35",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：煤炭穩供政策落地，供給偏緊緩解或仍需時間】中信證券研報認為，近日多部門聯合部署煤炭安全穩產保供工作，以推動煤礦復產、加快先進產能釋放。我們認為，本次政策旨在推動煤炭產量平穩回升，為旺季需求提供保障，但增產仍受到安全條件、審批程式和月度生產強度的約束。在旺季需求釋放、供應有序修復的背景下，我們預計行業或維持供給整體偏緊、煤價高位執行的格局，建議逢低佈局業績表現好的相關公司。"
     }
   ]
 }
