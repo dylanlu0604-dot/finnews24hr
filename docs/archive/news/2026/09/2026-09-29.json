@@ -1,7 +1,39 @@
 {
   "date": "2026-09-29",
-  "count": 248,
+  "count": 252,
   "items": [
+    {
+      "id": "mkt:01a0e957-3873-7338-aaf8-bbd145f8f02f",
+      "time": "2026-09-29 02:46:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he will visit Iowa."
+    },
+    {
+      "id": "5117259",
+      "time": "2026-09-29 02:46:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特國防部長邀請阿聯酋副總統週二訪問沙烏地阿拉伯。"
+    },
+    {
+      "id": "mkt:01a0e956-a523-7338-aaf8-b4213305b6bc",
+      "time": "2026-09-29 02:46:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state news agency reported the Saudi defense minister invited the UAE vice president to visit Saudi Arabia on Tuesday local time."
+    },
+    {
+      "id": "5117258",
+      "time": "2026-09-29 02:45:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將訪問愛荷華州。"
+    },
     {
       "id": "mkt:01a0e950-1bf8-7338-aaf8-ae050179e63e",
       "time": "2026-09-29 02:38:56",
