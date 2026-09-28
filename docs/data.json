@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-29 07:46:59",
-  "count": 11761,
+  "updated": "2026-09-29 07:50:42",
+  "count": 11758,
   "items": [
+    {
+      "id": "5117416",
+      "time": "2026-09-29 07:48:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲1.0個基點，至3.095%。"
+    },
+    {
+      "id": "5117415",
+      "time": "2026-09-29 07:47:53",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信建投：利潤內生動力仍將集中於新動能領域】中信建投指出，2026年1—8月，工業企業實現利潤同比增長15.7%；8月當月利潤同比增長4.2%，主要受去年同期高基數擾動，但當月毛利潤同比增長7.5%、較上月加快1.9個百分點，盈利質量並未隨總量走弱。結構上，電子行業利潤同比增長1.1倍，對全部規上工業利潤增長的貢獻率超六成，景氣沿算力鏈條向PCB、光纜、電子專用材料等環節擴散；高技術製造業利潤增長54.7%，逆勢加快。原材料製造業受國際大宗價格支撐增長47.3%。往後看，利潤內生動力仍將集中於新動能領域，供強需弱格局下總量彈性有限。對利率債而言，當前基本面組合中性偏多；權益端建議關注盈利高增估值相對低位的板塊。"
+    },
     {
       "id": "5117414",
       "time": "2026-09-29 07:46:30",
@@ -107133,58 +107151,6 @@
         "國際"
       ],
       "text": "馬克龍稱法國準備幫助確保紅海石油出口安全。"
-    },
-    {
-      "id": "te:markets:585422",
-      "time": "2026-09-22 07:50:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Steady After Tech-Led Rally — US stock futures were little changed on Tuesday after the major averages rallied at the start of the week, led by technology and artificial intelligence stocks. Falling oil prices and lower Treasury yields also supported market sentiment, easing concerns over persistent inflationary pressures. Meanwhile, officials expressed optimism about an upcoming summit between Presidents Donald Trump and Xi Jinping this week. In regular trading on Monday, the tech-heavy Nasdaq Composite surged 2.26% to a record close, while the S&P 500 and Dow advanced 1.49% and 0.71%, respectively. Among individual stocks, Meta jumped 11.3% on optimism surrounding its AI offering, Muse. The gains also lifted semiconductor stocks, with AMD and Intel soaring 10% and 12.1%, respectively. Investors now await fresh earnings reports from AutoZone and KB Home on Tuesday, along with speeches from Federal Reserve officials."
-    },
-    {
-      "id": "5106472",
-      "time": "2026-09-22 07:49:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "Coinbase：我們已注意到，使用者可能無法在多項服務中進行買入、賣出、交易操作，也無法檢視賬戶餘額。"
-    },
-    {
-      "id": "te:markets:585421",
-      "time": "2026-09-22 07:48:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Corn Hits 3-year High — Corn increased to 550.00 USd/BU, the highest since July 2023. Over the past 4 weeks, Corn gained 10.48%, and in the last 12 months, it increased 28.75%."
-    },
-    {
-      "id": "5106471",
-      "time": "2026-09-22 07:47:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國擬設50億美元基金 幫助重建在伊朗戰爭中受損的中東基礎設施】特朗普政府提議設立一隻規模50億美元的基金，幫助中東地區重建在伊朗戰爭中受損的關鍵基礎設施。根據媒體看到的檔案，美國國際開發金融公司（DFC）將牽頭成立Partnership for Allied Construction & Trust，以促進中東地區的投資、重建和經濟擴張。DFC在檔案中稱，中東地區遭受了嚴重的戰爭破壞，風險溢價也不斷上升，大量關鍵基礎設施需要重建。這份檔案在某種程度上旨在緩解美國在中東地區的盟友對於特朗普政府戰後安排的擔憂。該檔案列出四類優先專案，包括投資建設繞開霍爾木茲海峽的運輸通道、恢復能源運輸和關鍵材料出口、增強抵禦未來襲擊的能力，以及重建重要基礎設施和進口通道。檔案列舉的“示範性目標投資”包括在沙烏地阿拉伯分階段擴大繞開霍爾木茲海峽的運輸能力，涉及輸油管道和港口工程。"
-    },
-    {
-      "id": "te:markets:585420",
-      "time": "2026-09-22 07:47:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "TE Crack Spread Index Hits 8-week High — TE Crack Spread Index increased to 72.60 Index Points, the highest since July 2026. Over the past 4 weeks, TE Crack Spread Index gained 4.31%, and in the last 12 months, it increased 174.63%."
     }
   ]
 }
