@@ -1,7 +1,15 @@
 {
-  "updated": "2026-09-29 02:51:19",
-  "count": 11799,
+  "updated": "2026-09-29 02:55:08",
+  "count": 11794,
   "items": [
+    {
+      "id": "mkt:01a0e95c-3a97-7338-aaf8-ebcdf20bc5c9",
+      "time": "2026-09-29 02:52:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says Iran will never possess nuclear weapons."
+    },
     {
       "id": "5117264",
       "time": "2026-09-29 02:50:53",
@@ -107469,55 +107477,6 @@
         "MKT News"
       ],
       "text": "Greenland Resources said it has signed binding long-term agreements with several steelmakers, including Outokumpu and SSAB."
-    },
-    {
-      "id": "mkt:01a0c551-cd9f-7118-8631-2f06241f7917",
-      "time": "2026-09-22 02:54:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CDU state chair in Mecklenburg-Western Pomerania resigns after election loss】Daniel Peters, Mecklenburg-Western Pomerania CDU state chair and the party’s top candidate, announced on the 21st he will resign, saying he will take personal responsibility for the “heavy defeat.” In the state election held on the 20th the CDU won 4.9%, failing to clear the 5% threshold and, for the first time, will not enter the state parliament. The Alternative for Germany (AfD) led with 38.2%; the SPD received 35.5%. The CDU state chair role will be temporarily filled by Philipp Amthor, Minister of State at the Federal Chancellery responsible for federal–state relations."
-    },
-    {
-      "id": "5106287",
-      "time": "2026-09-22 02:53:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際足聯主席因凡蒂諾談及該投資提案時表示：該提案現已撤回，將不再推進。"
-    },
-    {
-      "id": "mkt:01a0c550-fa49-7118-8631-267f79166d14",
-      "time": "2026-09-22 02:53:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FIFA president Gianni Infantino said he will propose that the FIFA Council establish a direct, structured, time-limited consultation mechanism with continental confederations, member associations and relevant stakeholders."
-    },
-    {
-      "id": "5106286",
-      "time": "2026-09-22 02:53:14",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【選舉失利 德國梅前州基民盟主席辭職】德國梅前州基民盟主席、此次州議會選舉該黨頭號候選人丹尼爾·彼得斯21日宣佈辭去州黨主席職務。彼得斯表示，他將為這次“慘敗”承擔個人責任。"
-    },
-    {
-      "id": "5106285",
-      "time": "2026-09-22 02:52:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際足聯主席因凡蒂諾在致各成員協會主席的信中表示：我將向理事會提議，就是否委託外部獨立機構對國際足聯當前針對重大戰略舉措的治理框架進行審查一事進行表決。我將提議理事會與各洲際足聯、各成員協會及相關利益攸關方建立直接、結構化且有時限的磋商機制。任何成員協會都不會因為其針對任何提案或機構事務的立場，而受到差別對待。"
-    },
-    {
-      "id": "mkt:01a0c550-7779-7118-8631-19da1ceaf677",
-      "time": "2026-09-22 02:52:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "FIFA president Gianni Infantino said in a letter to national association presidents that he will ask the FIFA Council whether it wishes to commission an independent external review of FIFA's current governance framework to support major strategic initiatives."
     }
   ]
 }

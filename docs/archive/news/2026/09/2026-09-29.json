@@ -1,7 +1,15 @@
 {
   "date": "2026-09-29",
-  "count": 262,
+  "count": 263,
   "items": [
+    {
+      "id": "mkt:01a0e95c-3a97-7338-aaf8-ebcdf20bc5c9",
+      "time": "2026-09-29 02:52:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says Iran will never possess nuclear weapons."
+    },
     {
       "id": "5117264",
       "time": "2026-09-29 02:50:53",
