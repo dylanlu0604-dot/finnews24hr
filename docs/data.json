@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-29 06:51:15",
+  "updated": "2026-09-29 06:55:00",
   "count": 11761,
   "items": [
+    {
+      "id": "mkt:01a0ea39-7887-7338-aafb-2d1708e5c2ea",
+      "time": "2026-09-29 06:53:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Heavy fighting continues in multiple areas of Sudan】Fighting between the Sudan Armed Forces (SAF) and the Rapid Support Forces (RSF) has intensified in central Kordofan, with clashes reported across multiple locations. Since mid-September SAF launched large-scale operations in western and northern North Kordofan, seizing large areas and pushing the front west toward the Kordofan–Darfur border. Both sides are increasingly using drones and long-range strikes; SAF said it shot down more than 110 RSF drones in the first eight months of the year, while the RSF said it had shot down about 80 SAF drones."
+    },
+    {
+      "id": "te:markets:587395",
+      "time": "2026-09-29 06:51:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Track Wall Street Lower — The NZX 50 fell 76 points, or 0.6%, to 13,755 in Tuesday morning trade, halting gains in the previous session and tracking a decline on Wall Street overnight due to a surge in Treasury yields as rising oil prices raised concerns over inflation and expectations of a Fed interest rate hike. Traders also anticipated the release of New Zealand business confidence for September, China’s PMI data, and the US PCE Index and jobs data due this week, which could provide clues about the Fed’s monetary policy decision at its upcoming meeting. The broader index touched its lowest level since September 18, with energy, real estate, and utilities mainly weighing on the index. Among early losers were Freightways Group (-1.9%), Channel Infrastructure (-1.7%), South Port NZ (-1.2%), Briscoe Group (-0.9%), Mercury NZ (-0.8%), Mainfreight (-0.5%), and ANZ Group (-0.5%). By contrast, Hallenstein Glasson jumped 4.6% after posting a 49.9% surge in net profit for the year ended 1 August 2026."
+    },
     {
       "id": "5117365",
       "time": "2026-09-29 06:49:50",
@@ -107161,27 +107181,6 @@
         "公司"
       ],
       "text": "【英國確認：曼徹斯特將主辦2027年G20峰會】英國政府確認，曼徹斯特將主辦二十國集團(G20)峰會，這座城市明年將迎來全球最大經濟體的領導人。英國首相安迪·伯納姆辦公室發表宣告稱，他將在首次前往紐約參加聯合國大會期間宣佈，曼徹斯特將成為G20領導人峰會舉辦地。"
-    },
-    {
-      "id": "5106414",
-      "time": "2026-09-22 06:54:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4400美元/盎司，日內漲0.37%。"
-    },
-    {
-      "id": "te:markets:585415",
-      "time": "2026-09-22 06:54:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks Little Changed in Morning Trade — The NZX 50 was almost flat, trading around 13,823 in Tuesday morning trade, after rising in the previous session, as gains in consumer discretionary, financials, and real estate offset declines in materials, and healthcare. The broader index remained at its highest level since September 7, touched a day earlier, as traders were cautious ahead of the Trump-Xi summit later this week. Caution was also evident as traders continued to monitor developments in the Middle East conflict and the impact on oil prices amid efforts to ease tensions. On a positive note, Wall Street closed in the green overnight, buoyed by strong tech stocks, while oil prices and US Treasury yields eased. Colonial Motor rose 1.7%, Summerset Group climbed 1.2%, Channel Infrastructure gained 1.1%, and Scales Corporation advanced 0.9%, while Fisher & Paykel, Freightways Group, and Mainfreight fell 1.2%, 0.6%, and 0.4%, respectively."
     }
   ]
 }

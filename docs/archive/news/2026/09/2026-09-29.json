@@ -1,7 +1,27 @@
 {
   "date": "2026-09-29",
-  "count": 433,
+  "count": 435,
   "items": [
+    {
+      "id": "mkt:01a0ea39-7887-7338-aafb-2d1708e5c2ea",
+      "time": "2026-09-29 06:53:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Heavy fighting continues in multiple areas of Sudan】Fighting between the Sudan Armed Forces (SAF) and the Rapid Support Forces (RSF) has intensified in central Kordofan, with clashes reported across multiple locations. Since mid-September SAF launched large-scale operations in western and northern North Kordofan, seizing large areas and pushing the front west toward the Kordofan–Darfur border. Both sides are increasingly using drones and long-range strikes; SAF said it shot down more than 110 RSF drones in the first eight months of the year, while the RSF said it had shot down about 80 SAF drones."
+    },
+    {
+      "id": "te:markets:587395",
+      "time": "2026-09-29 06:51:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Track Wall Street Lower — The NZX 50 fell 76 points, or 0.6%, to 13,755 in Tuesday morning trade, halting gains in the previous session and tracking a decline on Wall Street overnight due to a surge in Treasury yields as rising oil prices raised concerns over inflation and expectations of a Fed interest rate hike. Traders also anticipated the release of New Zealand business confidence for September, China’s PMI data, and the US PCE Index and jobs data due this week, which could provide clues about the Fed’s monetary policy decision at its upcoming meeting. The broader index touched its lowest level since September 18, with energy, real estate, and utilities mainly weighing on the index. Among early losers were Freightways Group (-1.9%), Channel Infrastructure (-1.7%), South Port NZ (-1.2%), Briscoe Group (-0.9%), Mercury NZ (-0.8%), Mainfreight (-0.5%), and ANZ Group (-0.5%). By contrast, Hallenstein Glasson jumped 4.6% after posting a 49.9% surge in net profit for the year ended 1 August 2026."
+    },
     {
       "id": "5117365",
       "time": "2026-09-29 06:49:50",
