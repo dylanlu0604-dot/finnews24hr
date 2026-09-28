@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-29 02:24:42",
-  "count": 11780,
+  "updated": "2026-09-29 02:28:28",
+  "count": 11778,
   "items": [
+    {
+      "id": "mkt:01a0e946-0dad-7338-aaf8-54361f087a9b",
+      "time": "2026-09-29 02:27:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said an Iowa steel mill will produce 10 million tonnes of steel a year."
+    },
+    {
+      "id": "5117246",
+      "time": "2026-09-29 02:27:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在白宮發表講話。"
+    },
+    {
+      "id": "mkt:01a0e945-6037-7338-aaf8-4b1ae32172d2",
+      "time": "2026-09-29 02:27:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump: We have some incredible news."
+    },
+    {
+      "id": "mkt:01a0e945-1326-7338-aaf8-46f4c6152d24",
+      "time": "2026-09-29 02:26:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump announced construction of the nation's largest factory in Iowa."
+    },
+    {
+      "id": "te:markets:587376",
+      "time": "2026-09-29 02:24:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Gains by 3.52% — Top commodity gainers are Coffee (3.52%) and Rubber (0.87%). Biggest losers are Soybeans (-2.35%), Canola (-2.32%) and Wheat (-2.18%)."
+    },
     {
       "id": "5117245",
       "time": "2026-09-29 02:24:09",
@@ -107291,85 +107336,6 @@
         "其他"
       ],
       "text": "市場訊息：SB Energy推遲了IPO。"
-    },
-    {
-      "id": "mkt:01a0c539-e91e-7118-8630-d25f7dee97e8",
-      "time": "2026-09-22 02:28:21",
-      "tags": [
-        "MKT News",
-        "WBD.O",
-        "Impact bullish"
-      ],
-      "text": "Warner Bros. Discovery (WBD.O) shares extended gains, last $30.78, up 10.7%."
-    },
-    {
-      "id": "mkt:01a0c539-8269-7118-8630-c80b7ecb336e",
-      "time": "2026-09-22 02:27:55",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact bullish",
-        "WBD.O",
-        "Impact bearish"
-      ],
-      "text": "Business Insider reports Paramount CEO Ellison said the preliminary plan is to complete the deal with Warner Bros. Discovery (WBD.O) in about two weeks."
-    },
-    {
-      "id": "5106277",
-      "time": "2026-09-22 02:27:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "華納兄弟探索公司股價延續漲勢，最新上漲10.7%，報30.78美元。"
-    },
-    {
-      "id": "mkt:01a0c538-8587-7118-8630-c77cd56863fc",
-      "time": "2026-09-22 02:26:50",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact bullish",
-        "WBD.O"
-      ],
-      "text": "【Paramount settles with California and 11 states, clears key hurdle for $110bln Warner Bros. Discovery merger】Paramount reached a settlement with California and 11 other states that had sued to block its $110 billion acquisition of Warner Bros. Discovery, removing a major state-level obstacle to the deal. The agreement, announced by the California attorney general, requires Paramount to increase U.S. film production—adding at least $300 million a year in domestic production spending—and to raise annual theatrical releases after closing. It mandates production of 30 films per year in the first two post-close years and 32 per year in the following three years, with at least four independent films annually and a minimum 20% of releases classified as tentpoles."
-    },
-    {
-      "id": "5106276",
-      "time": "2026-09-22 02:26:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：派拉蒙執行長埃裡森在致員工的備忘錄中表示，初步計劃將在大約兩週後完成對華納兄弟的收購交易。"
-    },
-    {
-      "id": "te:markets:585394",
-      "time": "2026-09-22 02:25:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Corn Rises by 2.84% — Top commodity gainers are Corn (2.84%) and Rice (2.69%). Biggest losers are Coffee (-2.14%) and Palm Oil (-0.84%)."
-    },
-    {
-      "id": "mkt:01a0c536-f4dd-7118-8630-bab20521daa1",
-      "time": "2026-09-22 02:25:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "INTC.O",
-        "Impact bullish",
-        "NVDA.O",
-        "ASML.O"
-      ],
-      "text": "Philadelphia Semiconductor Index extended gains to 4% as chip names rallied: Intel jumped 11.9% (INTC.O), Qualcomm rose 8% (QCOM.O), NVIDIA gained 2.3% (NVDA.O) and ASML added 2.05% (ASML.O)."
     }
   ]
 }

@@ -1,7 +1,52 @@
 {
   "date": "2026-09-29",
-  "count": 220,
+  "count": 225,
   "items": [
+    {
+      "id": "mkt:01a0e946-0dad-7338-aaf8-54361f087a9b",
+      "time": "2026-09-29 02:27:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said an Iowa steel mill will produce 10 million tonnes of steel a year."
+    },
+    {
+      "id": "5117246",
+      "time": "2026-09-29 02:27:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在白宮發表講話。"
+    },
+    {
+      "id": "mkt:01a0e945-6037-7338-aaf8-4b1ae32172d2",
+      "time": "2026-09-29 02:27:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump: We have some incredible news."
+    },
+    {
+      "id": "mkt:01a0e945-1326-7338-aaf8-46f4c6152d24",
+      "time": "2026-09-29 02:26:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump announced construction of the nation's largest factory in Iowa."
+    },
+    {
+      "id": "te:markets:587376",
+      "time": "2026-09-29 02:24:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Gains by 3.52% — Top commodity gainers are Coffee (3.52%) and Rubber (0.87%). Biggest losers are Soybeans (-2.35%), Canola (-2.32%) and Wheat (-2.18%)."
+    },
     {
       "id": "5117245",
       "time": "2026-09-29 02:24:09",
