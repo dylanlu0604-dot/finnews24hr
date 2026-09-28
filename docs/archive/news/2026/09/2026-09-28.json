@@ -1,7 +1,117 @@
 {
   "date": "2026-09-28",
-  "count": 368,
+  "count": 381,
   "items": [
+    {
+      "id": "mkt:01a0e594-ff7b-7118-86b1-362cfe63e6a0",
+      "time": "2026-09-28 09:15:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures (day session) opened down 0.25% at 24,461, trading 49 points below the cash index."
+    },
+    {
+      "id": "te:markets:587047",
+      "time": "2026-09-28 09:15:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Rises After 3-Day Decline — US heating oil futures rose above $4.70 per gallon, halting a three-day decline, as weaker diplomatic hopes in the Middle East outweighed uncertainty over potential US diesel export restrictions. President Donald Trump rejected Iran’s conditional proposal to reopen the Strait of Hormuz, dimming prospects for a quick resumption of traffic through the key waterway, although he said he expects negotiations to resume this week. Separately, Trump said he is still considering “very seriously” a US ban on diesel exports to curb high domestic fuel prices, despite other administration officials pursuing alternatives. Energy Secretary Chris Wright said officials are working with refiners on voluntary export curbs, while oil industry groups called for suspending the federal diesel tax instead. Elsewhere, the onset of winter could boost heating demand and pressure supplies, with US distillate inventories already around 12% below the five-year average, EIA data showed."
+    },
+    {
+      "id": "5115236",
+      "time": "2026-09-28 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣對美元中間價報6.7399，調升90個基點。前一交易日中間價報6.7489。"
+    },
+    {
+      "id": "5115235",
+      "time": "2026-09-28 09:15:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "INTERTEK資料顯示，印尼8月份棕櫚油出口環比增長35%。"
+    },
+    {
+      "id": "5115234",
+      "time": "2026-09-28 09:15:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報121160.00元。"
+    },
+    {
+      "id": "5115233",
+      "time": "2026-09-28 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.25%，報24442.52點，低水67.57點。"
+    },
+    {
+      "id": "5115232",
+      "time": "2026-09-28 09:14:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來李斌：與吉利在很多方面都在進行合作討論】 9月28日，蔚來創始人、董事長、CEO李斌在吉利蔚來充換電合作釋出會後的群訪環節上表示，與吉利在很多方面都在進行合作的討論，充換電領域比較容易算清楚賬，共識相對來說比較容易達成。“即使我們兩家公司也會有些競爭，這個是客觀存在的，良性競爭不是內卷。但我覺得合作領域也非常寬廣，大家不用去把它對立起來，談競爭就沒有合作其實不是一個好的商業邏輯。”小鯨注：同日，蔚來公司與吉利控股集團達成充換電領域全面戰略合作。據協議，吉利控股集團將以其持有的易易互聯100%股權及現金6.4億元入股蔚來能源，交易完成後，吉利控股集團將持有蔚來能源30%股權，易易互聯營運車輛換電業務將併入蔚來能源。在充電領域，蔚來公司將入股吉利控股集團旗下浩瀚能源，交易完成後蔚來公司將持有浩瀚能源10%股權。（藍鯨新聞）"
+    },
+    {
+      "id": "mkt:01a0e593-e16e-7118-86b1-29e4cb7621ad",
+      "time": "2026-09-28 09:14:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China retail money-market 7-day yields: Licaitong, WeChat Lingqiantong, Yu'e Bao】7-day annualized yields on major Chinese retail money-market products: Tencent Licaitong (current+7-day) 0.6540%–1.3420%; WeChat Lingqiantong 0.8760%–0.9740%; Alipay Yu’e Bao 0.9010%–1.0450%."
+    },
+    {
+      "id": "5115231",
+      "time": "2026-09-28 09:13:30",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【江蘇省鎮江市政協黨組書記、主席郭建接受紀律審查和監察調查】 據江蘇省紀委監委訊息：江蘇省鎮江市政協黨組書記、主席郭建涉嫌嚴重違紀違法，主動投案，目前正接受江蘇省紀委監委紀律審查和監察調查"
+    },
+    {
+      "id": "5115230",
+      "time": "2026-09-28 09:13:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報62.85美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0e592-9098-7118-86b1-259057d6339e",
+      "time": "2026-09-28 09:13:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "New York gold futures slipped below $4,250/oz, down 1.65% on the day. New York silver futures fell more than 3.00% on the day to $62.86/oz."
+    },
+    {
+      "id": "5115229",
+      "time": "2026-09-28 09:13:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "INTERTEK資料顯示，印尼8月份棕櫚油出口量增至242萬噸。"
+    },
     {
       "id": "5115228",
       "time": "2026-09-28 09:12:44",
@@ -252,6 +362,14 @@
         "公司"
       ],
       "text": "【金信諾：目前暫無液冷高速連線件相關產品】金信諾9月28日在互動平臺表示，公司目前暫無液冷高速連線件相關產品。"
+    },
+    {
+      "id": "5115216",
+      "time": "2026-09-28 09:01:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【茅臺1935、青花汾20再創月新高 青花郎大漲 飛天茅臺零售均價仍超1800元】新浪財經“酒價內參”過去24小時收集的資料顯示，9月28日中國白酒業12大單品的終端零售均價七漲三跌兩平，上漲品種的數量明顯佔優，累計漲幅也大幅領先。贏家方面，精品茅臺上漲2元至2468元，昨日回撥後重新走升，價盤繼續執行於高位區間；茅臺1935上漲2元至688元，三連陽繼續抬升，迭創近一個月新高；青花汾20上漲3元至408元，三連陽大步攀升兩碼，連續重新整理近30天價格紀錄；國窖1573上漲4元至884元，二連漲持續修復，價格中樞向上突破趨勢線；洋河夢之藍M6+上漲1元至612元，連續兩日溫和回升；古井貢古20大漲6元至526元，三連陽且反彈幅度持續擴大，走出近期低谷可期；青花郎大漲10元至692元，華中地區放量價漲，一舉站上690元關口。下跌方面，飛天茅臺下跌3元至1806元，八連陽後二連跌回撥，但仍連續第九日守在1800元大關之上；五糧液普五八代下跌2元至804元，前一日大漲後迎來技術性回落，仍穩守800元大關；水晶劍南春下跌1元至409元，自近期高位連續兩日小幅回撥。持平方面，五糧液1618終端零售均價維持829元，價盤表現平穩；習酒君品保持634元不變，前期回落後進入平盤修整。今日12大單品的終端零售總價連續兩日回升，整體價盤重心進一步抬升。如果12大單品各取一瓶整體打包售賣，今日總售價為10760元，較昨日上漲22元，創下12天以來新高。"
     },
     {
       "id": "5115215",

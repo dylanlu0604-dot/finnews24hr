@@ -1,7 +1,117 @@
 {
-  "updated": "2026-09-28 09:13:19",
+  "updated": "2026-09-28 09:17:09",
   "count": 11722,
   "items": [
+    {
+      "id": "mkt:01a0e594-ff7b-7118-86b1-362cfe63e6a0",
+      "time": "2026-09-28 09:15:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures (day session) opened down 0.25% at 24,461, trading 49 points below the cash index."
+    },
+    {
+      "id": "te:markets:587047",
+      "time": "2026-09-28 09:15:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Rises After 3-Day Decline — US heating oil futures rose above $4.70 per gallon, halting a three-day decline, as weaker diplomatic hopes in the Middle East outweighed uncertainty over potential US diesel export restrictions. President Donald Trump rejected Iran’s conditional proposal to reopen the Strait of Hormuz, dimming prospects for a quick resumption of traffic through the key waterway, although he said he expects negotiations to resume this week. Separately, Trump said he is still considering “very seriously” a US ban on diesel exports to curb high domestic fuel prices, despite other administration officials pursuing alternatives. Energy Secretary Chris Wright said officials are working with refiners on voluntary export curbs, while oil industry groups called for suspending the federal diesel tax instead. Elsewhere, the onset of winter could boost heating demand and pressure supplies, with US distillate inventories already around 12% below the five-year average, EIA data showed."
+    },
+    {
+      "id": "5115236",
+      "time": "2026-09-28 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣對美元中間價報6.7399，調升90個基點。前一交易日中間價報6.7489。"
+    },
+    {
+      "id": "5115235",
+      "time": "2026-09-28 09:15:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "INTERTEK資料顯示，印尼8月份棕櫚油出口環比增長35%。"
+    },
+    {
+      "id": "5115234",
+      "time": "2026-09-28 09:15:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報121160.00元。"
+    },
+    {
+      "id": "5115233",
+      "time": "2026-09-28 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.25%，報24442.52點，低水67.57點。"
+    },
+    {
+      "id": "5115232",
+      "time": "2026-09-28 09:14:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來李斌：與吉利在很多方面都在進行合作討論】 9月28日，蔚來創始人、董事長、CEO李斌在吉利蔚來充換電合作釋出會後的群訪環節上表示，與吉利在很多方面都在進行合作的討論，充換電領域比較容易算清楚賬，共識相對來說比較容易達成。“即使我們兩家公司也會有些競爭，這個是客觀存在的，良性競爭不是內卷。但我覺得合作領域也非常寬廣，大家不用去把它對立起來，談競爭就沒有合作其實不是一個好的商業邏輯。”小鯨注：同日，蔚來公司與吉利控股集團達成充換電領域全面戰略合作。據協議，吉利控股集團將以其持有的易易互聯100%股權及現金6.4億元入股蔚來能源，交易完成後，吉利控股集團將持有蔚來能源30%股權，易易互聯營運車輛換電業務將併入蔚來能源。在充電領域，蔚來公司將入股吉利控股集團旗下浩瀚能源，交易完成後蔚來公司將持有浩瀚能源10%股權。（藍鯨新聞）"
+    },
+    {
+      "id": "mkt:01a0e593-e16e-7118-86b1-29e4cb7621ad",
+      "time": "2026-09-28 09:14:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China retail money-market 7-day yields: Licaitong, WeChat Lingqiantong, Yu'e Bao】7-day annualized yields on major Chinese retail money-market products: Tencent Licaitong (current+7-day) 0.6540%–1.3420%; WeChat Lingqiantong 0.8760%–0.9740%; Alipay Yu’e Bao 0.9010%–1.0450%."
+    },
+    {
+      "id": "5115231",
+      "time": "2026-09-28 09:13:30",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【江蘇省鎮江市政協黨組書記、主席郭建接受紀律審查和監察調查】 據江蘇省紀委監委訊息：江蘇省鎮江市政協黨組書記、主席郭建涉嫌嚴重違紀違法，主動投案，目前正接受江蘇省紀委監委紀律審查和監察調查"
+    },
+    {
+      "id": "5115230",
+      "time": "2026-09-28 09:13:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報62.85美元/盎司。"
+    },
+    {
+      "id": "mkt:01a0e592-9098-7118-86b1-259057d6339e",
+      "time": "2026-09-28 09:13:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "New York gold futures slipped below $4,250/oz, down 1.65% on the day. New York silver futures fell more than 3.00% on the day to $62.86/oz."
+    },
+    {
+      "id": "5115229",
+      "time": "2026-09-28 09:13:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "INTERTEK資料顯示，印尼8月份棕櫚油出口量增至242萬噸。"
+    },
     {
       "id": "5115228",
       "time": "2026-09-28 09:12:44",
@@ -252,6 +362,14 @@
         "公司"
       ],
       "text": "【金信諾：目前暫無液冷高速連線件相關產品】金信諾9月28日在互動平臺表示，公司目前暫無液冷高速連線件相關產品。"
+    },
+    {
+      "id": "5115216",
+      "time": "2026-09-28 09:01:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【茅臺1935、青花汾20再創月新高 青花郎大漲 飛天茅臺零售均價仍超1800元】新浪財經“酒價內參”過去24小時收集的資料顯示，9月28日中國白酒業12大單品的終端零售均價七漲三跌兩平，上漲品種的數量明顯佔優，累計漲幅也大幅領先。贏家方面，精品茅臺上漲2元至2468元，昨日回撥後重新走升，價盤繼續執行於高位區間；茅臺1935上漲2元至688元，三連陽繼續抬升，迭創近一個月新高；青花汾20上漲3元至408元，三連陽大步攀升兩碼，連續重新整理近30天價格紀錄；國窖1573上漲4元至884元，二連漲持續修復，價格中樞向上突破趨勢線；洋河夢之藍M6+上漲1元至612元，連續兩日溫和回升；古井貢古20大漲6元至526元，三連陽且反彈幅度持續擴大，走出近期低谷可期；青花郎大漲10元至692元，華中地區放量價漲，一舉站上690元關口。下跌方面，飛天茅臺下跌3元至1806元，八連陽後二連跌回撥，但仍連續第九日守在1800元大關之上；五糧液普五八代下跌2元至804元，前一日大漲後迎來技術性回落，仍穩守800元大關；水晶劍南春下跌1元至409元，自近期高位連續兩日小幅回撥。持平方面，五糧液1618終端零售均價維持829元，價盤表現平穩；習酒君品保持634元不變，前期回落後進入平盤修整。今日12大單品的終端零售總價連續兩日回升，整體價盤重心進一步抬升。如果12大單品各取一瓶整體打包售賣，今日總售價為10760元，較昨日上漲22元，創下12天以來新高。"
     },
     {
       "id": "5115215",
@@ -106914,127 +107032,6 @@
         "其他"
       ],
       "text": "【蔚來：全新ES8上市一週年實現累計交付15萬臺】在蔚來全新ES8上市一週年之際，蔚來聯合創始人、總裁秦力洪在北京未來科學城蔚來體驗中心，向第150000臺全新ES8使用者唐立梅交付了新車。"
-    },
-    {
-      "id": "mkt:01a0c189-7680-7118-861b-19efe8745548",
-      "time": "2026-09-21 09:16:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "International crude prices fell: WTI crude dropped more than 2% intraday to $93.31/bbl; Brent slid 1.74% to touch $98.00/bbl."
-    },
-    {
-      "id": "mkt:01a0c188-d18a-7118-861b-121d5c08427f",
-      "time": "2026-09-21 09:16:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng index futures opened the day session down 0.04% at 24,727, trading 31 points below the cash index."
-    },
-    {
-      "id": "5104584",
-      "time": "2026-09-21 09:15:56",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗CEO稱全球企業爭相修補系統漏洞 以防禦人工智慧風險】花旗集團執行長Jane Fraser表示，隨著人工智慧模型變得越來越強大，並有可能引發網路攻擊，各公司正在競相加強防禦。Fraser週日在紐約舉行的卡達經濟論壇上表示，“目前，各公司都在爭分奪秒地捍衛和鞏固自身的所有邊界，全球範圍內正在掀起一波大規模的系統修補浪潮。”今年早些時候，Anthropic PBC釋出了其Mythos模型，並警告稱該系統有可能開啟網路風險的新時代。Fraser在談到AI演變時表示，Mythos的釋出“不是個好兆頭”。"
-    },
-    {
-      "id": "5104583",
-      "time": "2026-09-21 09:15:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報97.29美元/桶。"
-    },
-    {
-      "id": "5104582",
-      "time": "2026-09-21 09:15:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7487，較上日調高34點】人民幣兌美元中間價報6.7487，較上日調高34點。"
-    },
-    {
-      "id": "5104581",
-      "time": "2026-09-21 09:15:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7487元。"
-    },
-    {
-      "id": "5104580",
-      "time": "2026-09-21 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.13%，報24767.72點，高水16.94點。"
-    },
-    {
-      "id": "mkt:01a0c187-a5bb-7118-861b-08a797e4c4a7",
-      "time": "2026-09-21 09:14:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Omdia: 2026 global smartphone volumes to fall 12% as market value rises 12% to $651.6 bln; high-end share expands】Omdia forecasts 2026 global smartphone volumes will decline 12% while market value rises 12% to $651.6 bln. The market is shifting toward higher-price tiers: models under $200 will see a sharp share drop, and devices above $800 will rise to a 28.4% share."
-    },
-    {
-      "id": "te:markets:585158",
-      "time": "2026-09-21 09:14:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Gains for Third Straight Session — Silver rose to around $67 an ounce on Monday, climbing for the third consecutive session, supported by falling oil prices that eased concerns over rising inflation and the prospect of further interest rate hikes. Oil prices fell for a fourth straight session amid signs of increased diplomatic efforts to resolve the Middle East conflict and restore energy flows from the region. President Donald Trump said he would “probably” be open to meeting Iranian President Masoud Pezeshkian on the sidelines of the United Nations General Assembly this week, where he could also hold talks with other Persian Gulf leaders. Meanwhile, investors are awaiting several appearances by Federal Reserve officials this week after the central bank raised rates last week for the first time in three years. On Sunday, Minneapolis Fed President Neel Kashkari said inflation remains too high and that price pressures have expanded beyond the initial oil-price shock linked to the Iran war."
-    },
-    {
-      "id": "5104579",
-      "time": "2026-09-21 09:14:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Omdia：2026年全球智慧手機市場將萎縮12% 市場結構向高價位段傾斜】Omdia最新研究顯示，2026年全球智慧手機市場預計將萎縮12%，但市場總價值增12%達6516億美元。市場將向高階產品傾斜：200美元以下智慧手機佔比大降，800美元以上的高階智慧手機份額升至28.4%。"
-    },
-    {
-      "id": "5104578",
-      "time": "2026-09-21 09:14:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "軟銀美元歐元債券交易將包含5個期限。"
-    },
-    {
-      "id": "mkt:01a0c186-ed11-7118-861b-07f027ea892f",
-      "time": "2026-09-21 09:14:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver extended short-term gains, breaking above $67/oz and rising 1.15% on the day."
-    },
-    {
-      "id": "5104577",
-      "time": "2026-09-21 09:13:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【康佳集團冰箱事業部原黨委副書記、副總經理呂劍被查】惠州市紀委監委9月21日通報，康佳集團股份有限公司冰箱事業部原黨委副書記、副總經理呂劍涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐華潤集團紀檢監察組紀律審查和惠東縣監察委員會監察調查。"
     }
   ]
 }
