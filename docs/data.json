@@ -1,7 +1,26 @@
 {
-  "updated": "2026-09-28 12:17:37",
-  "count": 11873,
+  "updated": "2026-09-28 12:21:26",
+  "count": 11874,
   "items": [
+    {
+      "id": "5115543",
+      "time": "2026-09-28 12:19:56",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "隨著投資者加大押注日本央行將繼續加息，日本兩年期國債收益率正逼近關鍵的2%關口。該收益率對貨幣政策預期較為敏感，週一最高上行4個基點至1.975%，創1995年以來新高。"
+    },
+    {
+      "id": "5115542",
+      "time": "2026-09-28 12:18:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期基準國債收益率觸及2024年5月以來最高水平。"
+    },
     {
       "id": "5115541",
       "time": "2026-09-28 12:16:23",
@@ -25,6 +44,14 @@
         "公司"
       ],
       "text": "【高瀾股份：出售16.9759%參股權獲註冊批覆】高瀾股份公告，公司此前擬將所持東莞矽翔512.84萬元出資額（佔東莞矽翔當前註冊資本的16.9759%）轉讓給愛克股份；近日收到通知，愛克股份已收到中國證監會同意其發行股份購買資產並募集配套資金註冊的批覆，批覆自下發之日起12個月內有效。"
+    },
+    {
+      "id": "mkt:cf5f355f-6cea-48fc-a0b3-5e8291bffeb4",
+      "time": "2026-09-28 12:13:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK press: Russia's 'hybrid war' escalates; EU considers NATO-like joint response mechanism】The Financial Times reports European governments are discussing a new collective mechanism to respond to Russian aggression that falls below the threshold for an armed attack. Some states say existing tools have failed to deter Russia's hybrid tactics—sabotage, arson and measures to foment instability—and while views differ on specific responses, an increasing number favour a coordinated mechanism to act against incidents that would not trigger NATO's Article 5 collective‑defense clause. EU defence commissioner Kubilius said: If we are facing hybrid warfare, we need hybrid defence…we will study how to define the instruments we need to be prepared to use. EU defence ministers meet in Brussels on Monday to consider a Commission proposal for an emergency security pact that could be triggered to coordinate responses; the mechanism would be similar to consultations under NATO's Article 4."
     },
     {
       "id": "5115538",
@@ -108397,22 +108424,6 @@
         "國際"
       ],
       "text": "【韓國總統府秘書室長姜勳植請辭】韓國總統府首席新聞秘書Sung Ki-hong在週一的簡報會上對記者表示，韓國總統府秘書室長姜勳植於週一提出辭職。在本月較早前總統府政策室長金容範離職後，姜勳植緊接著也提出了辭呈。"
-    },
-    {
-      "id": "5104792",
-      "time": "2026-09-21 12:19:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：澳大利亞資料中心運營商Firmus將於10月6日啟動50億美元的首次公開發行。"
-    },
-    {
-      "id": "5104791",
-      "time": "2026-09-21 12:18:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新易盛：客戶未來對可插拔光模組的大規模需求確定且持續】新易盛(300502)在互動平臺表示，公司在可插拔、NPO、CPO等技術領域已有充分佈局，各技術路線並非相互替代關係，不同客戶會根據自身需求進行方案選擇。目前從整個行業發展趨勢來看，客戶未來對可插拔光模組的大規模需求是確定及持續的。"
     }
   ]
 }
