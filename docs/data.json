@@ -1,7 +1,49 @@
 {
-  "updated": "2026-09-29 02:32:14",
-  "count": 11786,
+  "updated": "2026-09-29 02:36:02",
+  "count": 11789,
   "items": [
+    {
+      "id": "5117257",
+      "time": "2026-09-29 02:34:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克大力推介美國從巴西進口鐵礦石球團貿易。"
+    },
+    {
+      "id": "5117256",
+      "time": "2026-09-29 02:34:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果共和黨贏得眾議院和參議院，將向每位成年人發放5000美元。而且我們做得到。 民主黨做不到，因為他們沒有任何收入，而且他們會把我們推向經濟蕭條。他們不會有任何錢。"
+    },
+    {
+      "id": "mkt:01a0e94a-b8e8-7338-aaf8-99c17c47fe9c",
+      "time": "2026-09-29 02:33:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said if Republicans win both the House and Senate, every adult would receive $5,000."
+    },
+    {
+      "id": "5117255",
+      "time": "2026-09-29 02:32:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事庫克：AI無法抵消短期通脹壓力 就業市場能承受再加息】美聯儲理事庫克表示，人工智慧未來帶來的生產率提升可能不足以及時抵消短期價格壓力，其警告這一趨勢可能推高整個經濟的通脹。庫克表示，美聯儲本月早些時候加息是應對高企通脹所必需的，未來政策行動將取決於經濟資料。庫克表示：“目前，我預計未來幾年生產率提升將帶來溫和的通脹放緩。不過，我認為這些影響不會及時出現，無法抵消今年晚些時候正在擴大的通脹壓力。”"
+    },
+    {
+      "id": "mkt:01a0e94a-1f39-7338-aaf8-97286a1d8b08",
+      "time": "2026-09-29 02:32:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports Nippon Electric president Kishida Mitsuya has decided to resign as CEO after losses in the company's EV e-drive axle business; he is expected to submit his resignation as early as Tuesday."
+    },
     {
       "id": "mkt:01a0e949-48f9-7338-aaf8-89b85c513ef2",
       "time": "2026-09-29 02:31:29",
@@ -107394,24 +107436,6 @@
         "國際"
       ],
       "text": "【Meta智慧體Muse迅速走紅，分析師稱扎克伯格豪賭AI沒有白費】Meta Platforms新推出的人工智慧(AI)智慧體Muse迅速登上移動應用排行榜榜首，顯示這家社交媒體公司正在競爭日益激烈的消費者AI助手市場取得進展。截至週一，Muse位居美國蘋果iOS應用商店和Google Play免費應用榜首位。Sensor Tower的高階分析師Abe Yousef表示，在Meta於9月8日推出Muse後，六天內下載量累計超過90.2萬次，而前一代產品Meta AI上線六天內的下載量為77.3萬次。Muse可以在Meta旗下WhatsApp使用，這意味著除獨立應用下載使用者外，其實際使用者數量可能更多。"
-    },
-    {
-      "id": "5106281",
-      "time": "2026-09-22 02:35:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "AWS：xAI的Grok 4.6模型現已在Amazon Bedrock平臺上線。"
-    },
-    {
-      "id": "mkt:01a0c53e-71a5-7118-8630-fd6100cadb40",
-      "time": "2026-09-22 02:33:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures fell 3.00% intraday to $2.824 per MMBtu."
     }
   ]
 }
