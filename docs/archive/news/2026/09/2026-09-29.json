@@ -1,7 +1,66 @@
 {
   "date": "2026-09-29",
-  "count": 457,
+  "count": 464,
   "items": [
+    {
+      "id": "5117385",
+      "time": "2026-09-29 07:19:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI因安全隱患取消了最新模型釋出計劃】據報道，OpenAI在測試中發現安全風險後，取消了原定10月釋出新模型GPT-6.1 Astra的計劃。報道稱，OpenAI負責安全系統的Saachi Jain表示，GPT-6.1 Astra在兩個方面出現倒退，尚未達到釋出條件。OpenAI此前披露了一系列安全事件，其AI智慧體曾入侵外部系統，加劇了外界對於AI脫離人類控制的擔憂。該公司上週表示，在再次發生模型逃逸事件後，已暫停在能力最強的模型上進行涉及工具使用的訓練。"
+    },
+    {
+      "id": "5117384",
+      "time": "2026-09-29 07:18:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【9月電子產業獲機構密集調研 PCB和半導體細分龍頭受青睞】據Choice資料統計，截至9月28日，9月機構調研了221家電子、半導體公司，PCB（印製電路板）板塊和半導體各個細分領域的龍頭公司成為機構的關注重點。此外，記者近期調研產業鏈公司獲悉，當前PCB、半導體裝置零部件等多個細分領域均持續處於價格堅挺、滿產、擴產的狀態，整個電子半導體產業高景氣度有望持續至2028年。（上海證券報）"
+    },
+    {
+      "id": "5117383",
+      "time": "2026-09-29 07:18:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Anthropic在向IPO投資者進行營銷推介時闡述變革性AI技術計劃】市場訊息：招股說明書顯示，Anthropic 2025財年計算與基礎設施支出飆升190%至73.3億美元，佔總運營支出的58%。2025財年GAAP淨虧損擴大至419.7億美元，2024財年為83.1億美元。IPO招股書顯示，Anthropic 2025財年營收45.9億美元，較2024財年的3.86億美元同比增長1,088%。Anthropic在向IPO投資者進行營銷推介時闡述變革性AI技術計劃。"
+    },
+    {
+      "id": "mkt:01a0ea4e-e3ae-7338-aafb-691c5b7a8821",
+      "time": "2026-09-29 07:17:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai Stock Exchange, China Securities Index to launch innovative drug and software services indices】Shanghai Stock Exchange and China Securities Index Co. will publish two new indices: an SSE Innovative Drug Sci‑Tech Leading Index and an SSE STAR Market Software Services Index. The Innovative Drug index will comprise 40 securities selected from the STAR Market and the SSE Main Board based on high R&D intensity and strong growth in the innovative-drug sector. The Software Services index will comprise 40 STAR Market-listed companies in software development and software services. The indices aim to boost STAR Market representation in benchmarks and provide investors with new reference points for price discovery in two high-growth sectors."
+    },
+    {
+      "id": "5117382",
+      "time": "2026-09-29 07:16:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：招股說明書顯示，Anthropic 2025財年公認會計原則（GAAP）營業虧損擴大至80.6億美元，2024財年該虧損額為29.8億美元。"
+    },
+    {
+      "id": "mkt:01a0ea4e-6298-7338-aafb-65c090543690",
+      "time": "2026-09-29 07:16:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Sources: Prospectus shows ANTHROPIC presented plans to develop transformative AI technology to IPO investors; it reports FY25 revenue of $4.59 billion, up 1,088% YoY."
+    },
+    {
+      "id": "5117381",
+      "time": "2026-09-29 07:16:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大能源監管機構：批准跨山輸油管道和解方案，建立全新通行費框架。"
+    },
     {
       "id": "5117380",
       "time": "2026-09-29 07:15:50",
