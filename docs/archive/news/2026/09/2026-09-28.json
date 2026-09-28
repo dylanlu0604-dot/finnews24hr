@@ -1,7 +1,59 @@
 {
   "date": "2026-09-28",
-  "count": 710,
+  "count": 716,
   "items": [
+    {
+      "id": "mkt:01a0e608-c30e-7118-86b4-90da9da0a433",
+      "time": "2026-09-28 11:22:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SFC and AFRC sign MoU extending oversight to licensed firms and fund reporting】The Hong Kong Securities and Futures Commission (SFC) and the Accounting and Financial Reporting Council (AFRC) signed a memorandum of understanding expanding cooperation beyond listed-entity financial reporting and related audits. The MoU covers financial and compliance reporting — and related audit and assurance work by auditors — for licensed corporations, SFC-licensed virtual asset service providers, SFC-authorised funds and registered open-ended fund companies. It also establishes a comprehensive framework for information sharing, case referrals, mutual assistance, and coordinated inspections and investigations on matters of mutual regulatory concern."
+    },
+    {
+      "id": "5115477",
+      "time": "2026-09-28 11:22:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【香港證監會與會財局簽署新諒解備忘錄 將監管合作擴充套件至持牌機構及基金的財務彙報】香港證券及期貨事務監察委員會（香港證監會）與會計及財務彙報局（會財局）今日簽署一份新的《諒解備忘錄》，將雙方的監管合作擴充套件至監察上市實體財務彙報及相關審計工作以外的領域。新的《諒解備忘錄》涵蓋持牌法團、獲證監會發牌的虛擬資產服務提供者、證監會認可基金及獲註冊的開放式基金型公司的財務及合規彙報，以及其核數師所進行的相關審計及鑑證工作。此外，《諒解備忘錄》亦就資訊共享、個案轉介、相互協助，以及與雙方共同關注的監管事宜相關的協調檢查及調查工作訂立全面框架。"
+    },
+    {
+      "id": "5115476",
+      "time": "2026-09-28 11:21:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【稅務部門曝光5起騙取出口退稅及稅務人員違紀違法案】9月28日，湖南、山東、河南、湖北、深圳等地稅務部門集中曝光5起依法查處的騙取出口退稅案件，同步曝光查處案件過程中發現的稅務人員在出口退稅管理中存在執法過錯等違紀違法行為。 出口退稅是我國按照國際慣例出臺的支援外貿穩定發展的重要政策，旨在提升我國商品和服務出口的國際競爭力。 此次稅務部門曝光的騙取出口退稅案中，違法企業主要是透過簽訂虛假買賣合同、虛開增值稅發票、虛假結匯等違法手段騙取出口退稅。相關案件已經移交司法機關。(新華社)"
+    },
+    {
+      "id": "mkt:01a0e607-a010-7118-86b4-8eb66ad8dc38",
+      "time": "2026-09-28 11:20:54",
+      "tags": [
+        "MKT News",
+        "NKE.N",
+        "Impact bearish"
+      ],
+      "text": "Piper Sandler cuts Nike (NKE.N) PT to $38 from $45."
+    },
+    {
+      "id": "5115475",
+      "time": "2026-09-28 11:20:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒將耐克目標股價從45美元下調至38美元。"
+    },
+    {
+      "id": "5115474",
+      "time": "2026-09-28 11:19:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌1%，現報5235.00元。"
+    },
     {
       "id": "5115472",
       "time": "2026-09-28 11:15:53",
