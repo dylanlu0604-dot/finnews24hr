@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-29 02:09:37",
-  "count": 11786,
+  "updated": "2026-09-29 02:13:24",
+  "count": 11780,
   "items": [
+    {
+      "id": "5117239",
+      "time": "2026-09-29 02:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國吊銷27名拉丁美洲官員的簽證。"
+    },
+    {
+      "id": "mkt:01a0e937-49fe-7338-aaf7-ffc300abeca2",
+      "time": "2026-09-29 02:11:49",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "【ANTHROPIC launches Claude Sonnet 5.5; says >30% faster, up to 30% lower execution costs】ANTHROPIC released Claude Sonnet 5.5, a mid-tier model in the Claude 5.5 family aimed at knowledge-work tasks including code repair, documents, presentations and spreadsheets. The firm says Sonnet 5.5 runs more than 30% faster than Sonnet 5 and can cut execution costs by up to 30% due to efficiency gains. Sonnet 5.5 scored 70.6% on Terminal-Bench 4.0 code tests versus Sonnet 5’s 10.3%, and shows improvements in long-context tasks, image understanding and knowledge work. Pricing remains unchanged from Sonnet 5 at $2 per mln input tokens, $10 per mln output tokens and $0.2 per mln cached reads; the model is live on the Claude platform and available via AWS, Google Cloud and Microsoft Azure. ANTHROPIC says the model adds upgraded network security protections to the Sonnet line for the first time."
+    },
     {
       "id": "5117238",
       "time": "2026-09-29 02:08:24",
@@ -107390,71 +107410,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural Gas UK Tumbles by 7.82% — Top commodity losers are Natural Gas UK (-7.82%), Natural Gas EU (-7.36%), Crude Oil (-4.57%) and Brent Oil (-3.54%). Gains are led by Methanol (1.60%)."
-    },
-    {
-      "id": "mkt:01a0c52b-0f48-7118-8630-78f76883d98e",
-      "time": "2026-09-22 02:12:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv/Ipsos poll: only 17% of Americans approve of President Trump's handling of the cost of living."
-    },
-    {
-      "id": "5106269",
-      "time": "2026-09-22 02:11:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西總統盧拉：若無法與美國達成貿易協議，我們將不得不採取對等反制措施。"
-    },
-    {
-      "id": "mkt:01a0c52a-d042-7118-8630-72a947d43eb9",
-      "time": "2026-09-22 02:11:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv/Ipsos poll: Republican backing for Trump dropped to 73% from 82% one week earlier."
-    },
-    {
-      "id": "mkt:01a0c52a-71d9-7118-8630-6fd8d1d5bfef",
-      "time": "2026-09-22 02:11:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Refinitiv/Ipsos poll: U.S. President Trump's approval rating fell to 32%, the lowest of his political career."
-    },
-    {
-      "id": "5106268",
-      "time": "2026-09-22 02:11:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普支援率跌至32%，創政治生涯新低。共和黨人對特朗普的支援率從一週前的82%降至73%。僅17%的美國人對特朗普處理生活成本問題的表現表示認可。"
-    },
-    {
-      "id": "mkt:01a0c52a-292e-7118-8630-66c205e7c030",
-      "time": "2026-09-22 02:11:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump conducted the inaugural flight from a newly completed White House helipad and thanked Lockheed Martin CEO Jim Taiclet for the contribution."
-    },
-    {
-      "id": "5106267",
-      "time": "2026-09-22 02:10:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國編劇工會：仍認為派拉蒙-華納兄弟交易將損害編劇及整個行業。必須在流媒體平臺與傳統製片廠之間實施全行業的結構性拆分，以促進節目製作領域的競爭。"
-    },
-    {
-      "id": "5106266",
-      "time": "2026-09-22 02:09:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普感謝洛克希德·馬丁公司執行長承建直升機停機坪。"
     }
   ]
 }

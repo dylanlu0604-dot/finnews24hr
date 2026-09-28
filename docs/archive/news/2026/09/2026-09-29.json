@@ -1,7 +1,27 @@
 {
   "date": "2026-09-29",
-  "count": 202,
+  "count": 204,
   "items": [
+    {
+      "id": "5117239",
+      "time": "2026-09-29 02:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國吊銷27名拉丁美洲官員的簽證。"
+    },
+    {
+      "id": "mkt:01a0e937-49fe-7338-aaf7-ffc300abeca2",
+      "time": "2026-09-29 02:11:49",
+      "tags": [
+        "MKT News",
+        "MSFT.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "【ANTHROPIC launches Claude Sonnet 5.5; says >30% faster, up to 30% lower execution costs】ANTHROPIC released Claude Sonnet 5.5, a mid-tier model in the Claude 5.5 family aimed at knowledge-work tasks including code repair, documents, presentations and spreadsheets. The firm says Sonnet 5.5 runs more than 30% faster than Sonnet 5 and can cut execution costs by up to 30% due to efficiency gains. Sonnet 5.5 scored 70.6% on Terminal-Bench 4.0 code tests versus Sonnet 5’s 10.3%, and shows improvements in long-context tasks, image understanding and knowledge work. Pricing remains unchanged from Sonnet 5 at $2 per mln input tokens, $10 per mln output tokens and $0.2 per mln cached reads; the model is live on the Claude platform and available via AWS, Google Cloud and Microsoft Azure. ANTHROPIC says the model adds upgraded network security protections to the Sonnet line for the first time."
+    },
     {
       "id": "5117238",
       "time": "2026-09-29 02:08:24",
