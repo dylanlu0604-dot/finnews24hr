@@ -1,7 +1,44 @@
 {
   "date": "2026-09-29",
-  "count": 183,
+  "count": 187,
   "items": [
+    {
+      "id": "5117225",
+      "time": "2026-09-29 01:52:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國正考慮透過減免紅色柴油（染色柴油 / 非道路柴油）稅來降低油價。"
+    },
+    {
+      "id": "mkt:01a0e925-69d1-7338-aaf7-cf881cc021c5",
+      "time": "2026-09-29 01:52:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【White House considering wider use of red-dyed diesel to curb surge in diesel prices】Reuters reports the White House is weighing expanding use of red-dyed diesel — fuel typically exempt from most federal fuel taxes — to help blunt recent diesel price spikes. The measure could allow more consumers to use red-dyed diesel, normally restricted to non‑road uses such as agriculture, and largely exempt from the 24.4¢/gal federal highway fuel tax on regular on‑road diesel. Officials are reviewing the option as an alternative or complement to diesel export limits and assessing whether loosening rules would lower fuel costs for farmers, truckers and businesses. GasBuddy oil analyst Patrick De Haan said farmers already use tax‑exempt red‑dyed diesel, and permitting truckers to use it would reduce tax burdens but would not increase diesel supply or meaningfully lower prices. U.S. retail diesel averages have topped $6/gal, sustaining cost pressure on farmers, hauliers and companies."
+    },
+    {
+      "id": "5117223",
+      "time": "2026-09-29 01:50:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【埃爾多安召集經濟團隊，力保土耳其基金市場】土耳其總統埃爾多安表示，將於週二會見高階經濟官員及相關機構負責人，政府正為應對該國基金市場動盪準備進一步措施。由於資本市場的特殊性，當局正“極為謹慎”地推進相關工作，受影響基金的清算工作也在謹慎進行。政府將迅速推進行政與法律改革，旨在讓資本市場在更穩健的基礎上執行。"
+    },
+    {
+      "id": "te:markets:587373",
+      "time": "2026-09-29 01:50:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Trims Gains as Key Saudi Pipeline Restarts — Brent crude trimmed gains to around $105 a barrel after topping $108.5 on Monday amid reports that Saudi Arabia is ramping up flows through its critical East-West pipeline following repairs. Saudi Arabia is reported to have restored flows to around 3.5 million barrels per day. The pipeline was shut down earlier this month after sustaining damage in a drone strike launched from Iraq. Meanwhile, US President Donald Trump is reportedly open to sanctions relief for Iran and the release of frozen funds if concrete progress is made toward a nuclear deal. Earlier, Trump rejected Iran’s conditional offer to reopen the Strait of Hormuz and told aides he expects US strikes on the country to resume after November’s midterm elections. Fading hopes for an imminent diplomatic breakthrough between the US and Iran had driven crude to session highs. Separately, Yemen’s Saudi-led coalition said on Saturday that it had intercepted projectiles launched by Iran-backed Houthi rebels."
+    },
     {
       "id": "mkt:01a0e922-7acb-7338-aaf7-c4d31701021d",
       "time": "2026-09-29 01:49:05",
