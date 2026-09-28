@@ -1,7 +1,189 @@
 {
   "date": "2026-09-28",
-  "count": 221,
+  "count": 240,
   "items": [
+    {
+      "id": "5115139",
+      "time": "2026-09-28 08:06:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：多名委員表示，目前難以預判未來加息的節奏與時機。"
+    },
+    {
+      "id": "5115138",
+      "time": "2026-09-28 08:05:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.1%，報8,670.50點。"
+    },
+    {
+      "id": "5115137",
+      "time": "2026-09-28 08:05:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國國務卿魯比奧將於週一美東時間上午11:15會見沙特外交大臣。"
+    },
+    {
+      "id": "mkt:01a0e553-f6f9-7118-86b0-1d0b7c9cbd27",
+      "time": "2026-09-28 08:04:40",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Minutes of the Bank of Japan meeting showed one member said the bank must accelerate rate hikes because if inflation risks materialize they would inflict major damage on the economy."
+    },
+    {
+      "id": "5115136",
+      "time": "2026-09-28 08:04:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國國務卿魯比奧將於週一美東時間上午10點會見黎巴嫩總理。"
+    },
+    {
+      "id": "5115135",
+      "time": "2026-09-28 08:03:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要： 一位委員會成員稱，日元當前貶值可能導致通脹壓力進一步加劇。多名成員表示，日本央行正逐步進入新階段，當前工作重心需轉向將核心通脹穩定在2%左右，而非繼續推高通脹。一位委員表示，市場似乎認為日本央行將大約每6個月加息一次，但實際上央行可能以更快步伐加息。一名委員表示，日本央行必須聚焦上行價格風險，靈活調整政策利率。"
+    },
+    {
+      "id": "mkt:01a0e552-bee3-7118-86b0-1381db6c0a08",
+      "time": "2026-09-28 08:03:20",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan minutes: one member said the BOJ must flexibly adjust the policy rate and focus on upside price risks."
+    },
+    {
+      "id": "te:markets:587034",
+      "time": "2026-09-28 08:03:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Japan Hit 4-week High — JP225 increased to 66845.00 Index Points, the highest since August 2026. Over the past 4 weeks, Japan Stock Market Index (JP225) gained 0.52%, and in the last 12 months, it increased 48.19%."
+    },
+    {
+      "id": "mkt:01a0e552-6daf-7118-86b0-0c5a1a9844de",
+      "time": "2026-09-28 08:02:59",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan minutes: one member said markets appear to expect rate hikes roughly every six months, but actual tightening could proceed faster."
+    },
+    {
+      "id": "mkt:01a0e552-5246-7118-86b0-00606a8c079b",
+      "time": "2026-09-28 08:02:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan minutes said several members view the central bank as gradually shifting to a phase of focusing on stabilizing core inflation around 2% rather than trying to push inflation higher."
+    },
+    {
+      "id": "5115134",
+      "time": "2026-09-28 08:02:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和黃醫藥：2026年9月24日HMPL-A830首名患者給藥】和黃醫藥公告，公司啟動HMPL-A830用於治療不可切除的晚期或轉移性實體瘤的全球臨床試驗Ia期部分；首名患者已於2026年9月24日在中國接受首次給藥治療。"
+    },
+    {
+      "id": "mkt:01a0e551-4a93-7118-86af-ffeb8bdd0993",
+      "time": "2026-09-28 08:01:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened down 19.49 points, or 0.28%, at 7061.43 on Monday, Sept. 28."
+    },
+    {
+      "id": "mkt:01a0e550-d3b7-7118-86af-f58e6e02fc7c",
+      "time": "2026-09-28 08:01:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened 205.43 points higher on Sept. 28 (Mon), up 0.31% at 66,569.63."
+    },
+    {
+      "id": "mkt:01a0e550-b9ca-7118-86af-e813d14d1dde",
+      "time": "2026-09-28 08:01:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver down 1.00% intraday at $63.66/oz."
+    },
+    {
+      "id": "mkt:01a0e550-ae12-7118-86af-e53f20119702",
+      "time": "2026-09-28 08:01:04",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "Bank of Japan minutes: one member said the bank must raise the policy rate to preserve policy flexibility, noting the current rate remains below the estimated neutral-rate range."
+    },
+    {
+      "id": "5115133",
+      "time": "2026-09-28 08:00:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公安部網安局釋出拒不履行資訊網路安全管理義務案例】9月28日，公安部網安局披露2起拒不履行資訊網路安全管理義務典型案例。這2起案例分別是江蘇鹽城公安網安部門偵辦的盧某斌案、河南三門峽公安網安部門偵辦的張某東案。經查，2起案件所涉公司違反網路安全法等相關法律、行政法規規定，在未履行身份資訊核驗義務的情況下對外提供伺服器租賃服務，或被詐騙團伙僱傭多次釋出違法有害資訊。在公安機關依法對其進行行政處罰並責令其限期改正後，有關公司仍未按要求進行及時整改，造成不良後果。"
+    },
+    {
+      "id": "5115132",
+      "time": "2026-09-28 08:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.3%，至7057.86點。"
+    },
+    {
+      "id": "5115131",
+      "time": "2026-09-28 08:00:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4290美元/盎司，日內跌0.76%。"
+    },
+    {
+      "id": "5115130",
+      "time": "2026-09-28 08:00:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報66505.94點，漲幅0.21%。"
+    },
     {
       "id": "mkt:01a0e54f-b988-7118-86af-d9924bd7db7a",
       "time": "2026-09-28 08:00:02",
