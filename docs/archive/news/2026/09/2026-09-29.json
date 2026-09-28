@@ -1,7 +1,43 @@
 {
   "date": "2026-09-29",
-  "count": 187,
+  "count": 191,
   "items": [
+    {
+      "id": "mkt:01a0e929-7154-7338-aaf7-db57ab09026f",
+      "time": "2026-09-29 01:56:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netherlands summons Israeli ambassador after Israel revokes diplomatic status of Dutch Ramallah staff】On Sept 28 the Dutch foreign minister summoned Israel’s ambassador to demand an explanation for Israel’s decision to revoke diplomatic status for some staff at the Dutch representative office in Ramallah, calling the expulsions unnecessary and seeking details on the move. The ambassador is due to visit the foreign ministry on Sept 29 to discuss implications."
+    },
+    {
+      "id": "mkt:01a0e928-98ec-7338-aaf7-d25c0c7bc2a2",
+      "time": "2026-09-29 01:55:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "【Poland to allow beyond-visual-range shoot-downs of foreign aircraft, deputy defence minister says】Deputy Defence Minister Cezary Tomczyk said on the 28th Poland will revise fighter and helicopter engagement procedures to permit commanders to order beyond-visual-range shoot-downs of foreign aircraft based on radar detections and other information. Previously in peacetime crews had to visually confirm targets to avoid striking civilian or allied aircraft; under the new rules pilots or commanders may integrate radar returns, no‑fly‑zone entry and information provided by Ukraine to decide whether to use weapons, enabling engagements from greater distance. Tomczyk said such authorities are normally limited to wartime or martial law and that the change is linked to Poland's current security threat environment."
+    },
+    {
+      "id": "5117230",
+      "time": "2026-09-29 01:55:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭將允許軍機依據雷達等資訊超視距擊落外國飛機】波蘭國防部副部長採扎雷·託姆奇克28日表示，波蘭將調整戰鬥機和直升機作戰程式，軍方可依據雷達探測等資訊決定是否超視距擊落外國飛機。託姆奇克說，此前，波蘭軍方在和平時期開火前需要目視確認目標，以避免誤擊民用飛機或盟國軍機。而新程式實施後，飛行員或作戰指揮官可綜合雷達讀數、是否進入禁飛區以及烏克蘭方面提供的資訊等作出判斷，並決定是否使用武器。這將使波蘭軍機能夠從較遠距離打擊目標。（新華社）"
+    },
+    {
+      "id": "5117227",
+      "time": "2026-09-29 01:55:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【荷蘭召見以色列大使 就驅逐外交官一事進行磋商】當地時間9月28日，荷蘭外交大臣貝倫森召見了以色列駐荷蘭大使，要求其到外交部解釋為何撤銷荷蘭駐拉姆安拉代表處部分僱員的外交身份。貝倫森表示，驅逐外交人員“沒有必要”，他希望瞭解相關細節，並討論此舉的影響。以色列駐荷蘭大使將於29日到訪荷蘭外交部。（央視新聞）"
+    },
     {
       "id": "5117225",
       "time": "2026-09-29 01:52:24",
