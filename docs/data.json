@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-28 08:46:29",
-  "count": 11720,
+  "updated": "2026-09-28 08:50:14",
+  "count": 11714,
   "items": [
+    {
+      "id": "5115190",
+      "time": "2026-09-28 08:48:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構資料：中東9月原油出口升至戰爭爆發以來最高】Kpler週一公佈的資料顯示，隨著沙烏地阿拉伯和阿聯酋增加出口，中東主要產油國9月原油出口量回升至1,280萬桶/日，為今年2月美以與伊朗開戰以來的最高水平。資料顯示，該地區最大出口國沙特9月原油出口量有望達到約540萬桶/日，較8月的244.6萬桶/日大幅回升。"
+    },
+    {
+      "id": "te:markets:587044",
+      "time": "2026-09-28 08:47:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japan’s Nikkei Rises for 6th Straight Session — The Nikkei 225 Index advanced 0.9% to above 66,900 on Monday, extending its winning streak to six sessions, with technology and artificial intelligence-related stocks driving the gains. Last week, AI shares outperformed as Meta Platforms’ new Muse AI agent renewed enthusiasm for the sector after earlier warnings from CEOs about rising safety risks associated with AI development. The rally came despite Treasury yields climbing to multi-decade highs amid expectations for additional Federal Reserve rate hikes. Meanwhile, oil prices rose after President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, while Tehran said it would not soften its conditions for reopening the key waterway. Elsewhere, the Chinese government has indicated it could allow some companies to purchase Nvidia Corp.’s new RTX Pro 5500 chips. Leading technology gainers in Japan included SoftBank Group (3.6%), Advantest (3.2%) and Taiyo Yuden (3.5%)."
+    },
+    {
+      "id": "5115189",
+      "time": "2026-09-28 08:46:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神龍科技、Momenta達成全球戰略合作】記者獲悉，神龍科技與Momenta今日正式簽署全球戰略合作協議。根據協議，雙方將圍繞使用者體驗、輔助駕駛及高階自動駕駛開展長期深度合作，在東風汽車與Stellantis集團股東雙方整車能力基礎上，整合智慧座艙與電子電氣架構等技術，並融合神龍科技所運營的標緻、雪鐵龍，以及Stellantis集團Jeep®品牌的底盤調校經驗，共同打造新能源產品。 (財聯社)"
+    },
     {
       "id": "5115188",
       "time": "2026-09-28 08:45:58",
@@ -106900,89 +106928,6 @@
         "其他"
       ],
       "text": "【中國晶片集體突圍】近段時間，中國半導體圈熱鬧非凡——國內半導體裝置龍頭北方華創開發出“兩步迴圈刻蝕”工藝，專攻儲存晶片走向3D堆疊時的諸多難題。這是一次國產裝置廠為本土儲存廠商“繞開光刻機封鎖”鋪路的工程化嘗試，有望幫助長鑫科技等推進先進3D DRAM（動態隨機存取儲存器）自主量產。華為將“韜定律”落地為消費級晶片，正式釋出了高階晶片麒麟9050 Pro。小米18 Fold摺疊屏手機、小米平板9 Pro Max，均首發搭載小米自研晶片玄戒O3…… 從製造端到消費端，技術破圍捷報頻傳。喜悅之外，很多人再次提出那個問題：“中國芯”距離完全擺脫“卡脖子”還有多遠？ 資料顯示，7月份，我國規模以上工業企業積體電路產量達530億塊，相當於日均生產約17億塊晶片；今年前7個月，我國積體電路出口總額達2160億美元，同比增長99.5%，已超2025年全年出口總額。中國半導體產業正迎來新一輪高速增長，“攻守之勢”也正在轉變。 （北京日報）"
-    },
-    {
-      "id": "mkt:01a0c170-c0d9-7118-861a-b0f8f0d0b53b",
-      "time": "2026-09-21 08:49:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai and Shenzhen margin financing balances down 1.25 bln yuan】As of Sept 18, margin financing on the Shanghai Stock Exchange was 1,334.562 bln yuan, up 0.457 bln from the prior trading day; on the Shenzhen Stock Exchange it was 1,265.714 bln yuan, down 1.707 bln; combined balance 2,600.276 bln yuan, down 1.25 bln."
-    },
-    {
-      "id": "mkt:01a0c170-abed-7118-861a-addc66b81f81",
-      "time": "2026-09-21 08:49:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【US retail diesel average hits $6.505/gal, sets record】U.S. retail diesel averaged $6.505 per gallon as of Saturday, the first time above $6.50 and a fresh record, continuing a war-driven rally that is spilling across the economy. AAA data show diesel has accelerated since September, rising more than $0.87 month-to-date with almost daily gains and now well above the 2022 peak; it crossed the $6.00 mark less than 10 days ago."
-    },
-    {
-      "id": "5104538",
-      "time": "2026-09-21 08:49:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尹力、殷勇在昌平區調研：要求打造創新引領的合成生物製造產業高地】據北京釋出訊息，9月20日，北京市委書記尹力在昌平區調研合成生物製造產業發展工作。他強調，合成生物製造作為國家重點佈局的未來產業，是培育發展新質生產力的重要賽道。要緊跟世界科技前沿變革趨勢，緊扣國家戰略需求，加快構建高精尖經濟結構，大力推動合成生物製造技術創新和產業應用，打造創新引領的合成生物製造產業高地。市委副書記、市長殷勇一同調研。"
-    },
-    {
-      "id": "5104537",
-      "time": "2026-09-21 08:49:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深交所：港股通標的證券名單發生調整並自2026年09月21日起生效】深交所公告，港股通標的證券名單發生調整並自2026年09月21日起生效，調入君正股份和星環科技。"
-    },
-    {
-      "id": "5104536",
-      "time": "2026-09-21 08:48:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：不排除與伊朗總統在聯大會面】據鳳凰衛視報道，伊朗與美國再度相互放出威脅訊號。美國總統特朗普9月20日表示，正在對伊朗問題作出重大決策，並警告如果無法達成協議，伊朗將面臨經濟崩潰等嚴重後果。同時，特朗普不排除與伊朗總統佩澤希齊揚會面的可能性。伊朗軍方當天稱，已獲取相關情報，美國或將對伊朗重啟軍事行動；伊朗強調，會對任何新一輪襲擊實施嚴厲報復。 特朗普20日接受美國福克斯新聞採訪時表示，正在對伊朗問題作出決定，不久後將有“非常重大的事情”發生。擺在伊朗面前的選項包括遭到徹底消滅、任其經濟衰敗，或達成協議。他揚言，可以將伊朗夷為平地，敦促對方安分守己。 特朗普還表示，對於本週將赴紐約出席聯合國大會的伊朗總統佩澤希齊揚，他不排除與對方會面。"
-    },
-    {
-      "id": "5104535",
-      "time": "2026-09-21 08:47:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日減少12.51億元】截至9月18日，上交所融資餘額報13345.62億元，較前一交易日增加4.57億元；深交所融資餘額報12657.14億元，較前一交易日減少17.08億元；兩市合計26002.76億元，較前一交易日減少12.51億元。"
-    },
-    {
-      "id": "5104534",
-      "time": "2026-09-21 08:47:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "以太坊升破2700美元，日內漲2.13%。"
-    },
-    {
-      "id": "5104533",
-      "time": "2026-09-21 08:46:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晶泰控股：董事會主席擬增持不超3200萬港元公司股份】晶泰控股（02228.HK）9月21日釋出公告，公司董事會主席、執行董事兼聯合創始人溫書豪計劃於2026年10月末前，以自有資金在二級市場增持公司普通股，此次增持總代價不超過3200萬港元，將按市場價格交易，公司不提供任何財務資助。"
-    },
-    {
-      "id": "5104532",
-      "time": "2026-09-21 08:46:30",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國新辦釋出會丨介紹守住管好“大國糧倉”，保障國家糧食安全有關情況】2026年9月21日10:00，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，請國家發展和改革委員會黨組成員、國家糧食和物資儲備局局長劉煥鑫介紹守住管好“大國糧倉”，保障國家糧食安全有關情況，並答記者問。"
     }
   ]
 }
