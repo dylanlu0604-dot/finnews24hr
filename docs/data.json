@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-28 11:58:16",
-  "count": 11862,
+  "updated": "2026-09-28 12:02:24",
+  "count": 11860,
   "items": [
+    {
+      "id": "5115528",
+      "time": "2026-09-28 12:01:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲0.64%，恒生科技指數跌0.54%】網易漲4.42%，中國石油股份漲4.04%，華潤電力漲3.63%，華潤置地漲2.72%，華虹宏力跌4.80%，天數智芯跌8.04%，MINIMAX-W跌8.87%。"
+    },
+    {
+      "id": "5115527",
+      "time": "2026-09-28 11:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紐西蘭太陽能企業 Lodestone Energy 擬 IPO，目標 10 月 22 日上市】紐西蘭交易所（NZX）披露檔案顯示，紐西蘭太陽能電站運營商 Lodestone Energy 計劃透過 IPO 於下月在紐西蘭證券交易所掛牌交易。Lodestone 本月早些時候已表示考慮推進 IPO，並開放意向登記。紐西蘭交易所稱，本次招股預計 9 月 29 日開啟，上市日期定為 10 月 22 日。紐西蘭交易所檔案顯示，Lodestone 發行後股份或將超 2.06 億股，參考發行價每股 2.25 紐西蘭元。公司官網宣告顯示，本次擬透過發行新股募資 7500 萬至 1 億紐西蘭元。本次發行無老股轉讓。“募集資金將用於新建太陽能電站、拓展客戶群體以及一般企業經營用途。”"
+    },
+    {
+      "id": "mkt:01a0e62a-684b-7118-86b5-286435ca7b5a",
+      "time": "2026-09-28 11:58:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Nifty 50 index fell 1%."
+    },
+    {
+      "id": "5115526",
+      "time": "2026-09-28 11:58:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY指數下跌1%，至22909.60。印度SENSEX指數下跌1%，至73162.33點。"
+    },
+    {
+      "id": "5115525",
+      "time": "2026-09-28 11:58:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數下跌1%。"
+    },
+    {
+      "id": "mkt:01a0e629-cf4a-7118-86b5-2509b0c669dc",
+      "time": "2026-09-28 11:58:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Japan two-year JGB yield nears 2% as BOJ rate-hike bets intensify】Policy-sensitive two-year JGB yield rose as much as 4bps to 1.975% on Monday, approaching the key 2% level and marking its highest since 1995. Other tenors were under pressure: the five-year yield climbed 3bps to 2.43%. SMBC Nikko Securities strategists Omura and colleagues said in a note that greater domestic and foreign attention on yen weakness is fueling trades betting on faster BOJ tightening, and that fiscal expansion in major economies plus rising commodity prices could further reinforce market expectations that Japan may ultimately need to tighten policy to curb inflation."
+    },
     {
       "id": "5115524",
       "time": "2026-09-28 11:56:46",
@@ -108239,77 +108293,6 @@
         "Importance 1"
       ],
       "text": "Rupee Holds Gains as Oil Prices Ease — The Indian rupee hovered around 95.75 per dollar, extending gains from the previous session as softer oil prices, expected portfolio inflows and continued RBI intervention helped limit downside. Brent crude fell about 2% to $101.7 a barrel as hopes for a diplomatic solution to the Iran conflict and improving Saudi energy shipments eased supply concerns. The fully subscribed $2.3 billion NSE IPO could also attract foreign institutional inflows, while improved capital flows and RBI measures to encourage overseas FX deposits and borrowings have lifted reserves to about $781 billion. However, strong importer dollar demand and elevated oil prices remain headwinds. A firm dollar could add pressure, with Goldman Sachs now expecting the Federal Reserve to deliver another 25-basis-point hike in October."
-    },
-    {
-      "id": "5104780",
-      "time": "2026-09-21 12:02:21",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲和英國央行加強對銀行對交易公司風險敞口的審查。"
-    },
-    {
-      "id": "5104779",
-      "time": "2026-09-21 12:02:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家電投在山東成立生物質能源公司】企查查APP顯示，近日，電投生物質能源（山東）有限公司成立，法定代表人為馬玉寧，註冊資本為3876.7萬元，經營範圍包含生物質燃料加工；生物質成型燃料銷售；新興能源技術研發；發電技術服務；風力發電技術服務等。企查查股權穿透顯示，該公司由國家電力投資集團有限公司旗下國能生物發電集團有限公司全資持股。"
-    },
-    {
-      "id": "5104777",
-      "time": "2026-09-21 12:01:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國網中興有限公司原正局級調研員趙啟昌接受審查調查】中央紀委國家監委網站9月21日通報，據中央紀委國家監委駐國家電網有限公司紀檢監察組、內蒙古自治區紀委監委訊息：國網中興有限公司原正局級調研員趙啟昌涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家電網有限公司紀檢監察組紀律審查和內蒙古自治區興安盟監察委員會監察調查。"
-    },
-    {
-      "id": "5104776",
-      "time": "2026-09-21 12:01:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股午評：恒生指數漲0.56%，恒生科技指數跌0.13%】中國生物製藥漲8.68%，石藥集團漲7.05%，信達生物漲6.00%，藥明生物漲5.46%，阿里健康跌4.73%，聯想集團跌5.64%，天數智芯跌6.69%。"
-    },
-    {
-      "id": "te:economy:585201",
-      "time": "2026-09-21 12:00:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Azerbaijan",
-        "Inflation Rate MoM",
-        "Importance 1"
-      ],
-      "text": "Azerbaijan Consumer Prices Rebound in August — Consumer prices in Azerbaijan rose by 0.2% month-over-month in August 2026, rebounding from a 0.1% fall in the previous month. The recovery was largely driven by higher costs of food products, which increased by 0.3% after declining 0.4% in July, particularly for meat and fish goods. Non-food prices also rose (0.1% vs 0%), as higher costs of wallpaper, bricks, plasterboard, electrical equipment, personal hygiene products and jewelry outweighed lower prices of summer clothing, detergents and cleaning products, personal computers and tablets. Meanwhile, inflation remained steady for services at 0.2%, driven by increased prices for leisure tours and international passenger air transport services. On an annual basis, consumer prices rose by 5.7% in August, following a 5.8% gain in the preceding period."
-    },
-    {
-      "id": "5104775",
-      "time": "2026-09-21 12:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "資產管理機構T. Rowe Price 正在投資大中華區人工智慧供應鏈下游的企業，包括印刷電路板和晶片裝置製造商。"
-    },
-    {
-      "id": "5104774",
-      "time": "2026-09-21 11:59:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【巴基斯坦外長達爾赴紐約參加聯合國會議】巴基斯坦外交部發布新聞稿稱，巴外長伊沙克・達爾將於9月21日至25日前往紐約，出席聯合國大會第81屆會議。達爾將在會議期間會見伊斯蘭合作組織克什米爾問題聯絡小組，並參加其他部長級會議。他將出席阿拉伯伊斯蘭八國集團會議，並在聯合國安理會人工智慧高階別簡報會上發言。達爾還將與多國外長舉行雙邊會談，並陪同總理謝赫巴茲・謝里夫參與雙邊會晤。"
-    },
-    {
-      "id": "5104773",
-      "time": "2026-09-21 11:58:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新易盛：1.6T光模組產品已進入持續放量階段，預計出貨節奏將持續加速】新易盛9月21日在互動平臺表示，公司1.6T光模組產品已進入持續放量階段，預計出貨節奏將持續加速。目前整個供應鏈端仍處於相對緊張的狀態，公司已透過簽訂鎖定協議、預付貨款等方式提前備貨，以保障物料供應。"
     }
   ]
 }
