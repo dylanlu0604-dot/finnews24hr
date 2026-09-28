@@ -1,7 +1,55 @@
 {
-  "updated": "2026-09-28 08:27:30",
+  "updated": "2026-09-28 08:31:20",
   "count": 11715,
   "items": [
+    {
+      "id": "mkt:01a0e56b-afbb-7118-86b0-5afd4a7a0c9c",
+      "time": "2026-09-28 08:30:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold in Asian trade slid below $4,250/oz, down 0.82% on the day."
+    },
+    {
+      "id": "5115166",
+      "time": "2026-09-28 08:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4250美元/盎司，日內跌0.83%。"
+    },
+    {
+      "id": "5115165",
+      "time": "2026-09-28 08:29:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本電產股價觸及跌停板。"
+    },
+    {
+      "id": "5115164",
+      "time": "2026-09-28 08:29:25",
+      "tags": [
+        "央行"
+      ],
+      "text": "本週（9月28日至9月30日）中國央行公開市場將有7033億元逆回購到期，其中週一至週三分別到期6603億元、350億元、80億元。"
+    },
+    {
+      "id": "5115163",
+      "time": "2026-09-28 08:29:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美債收益率上升 伊朗稱在霍爾木茲海峽問題上不會讓步】美國國債收益率全線上揚，此前伊朗表示在重新開放霍爾木茲海峽方面不會軟化條件，原油價格應聲上漲。10年期收益率上漲5個基點至5.21%；2年期收益率上漲5個基點至4.90%。30年期收益率上漲3個基點至5.52%。"
+    },
     {
       "id": "5115162",
       "time": "2026-09-28 08:25:45",
@@ -106881,51 +106929,6 @@
         "其他"
       ],
       "text": "【專家稱貨幣調控有進一步寬鬆空間】專家表示，當前經濟增長、國際收支平衡等多重目標均指向貨幣調控有進一步寬鬆空間。 東方金誠首席宏觀分析師王青表示，後續宏觀政策將向穩增長方向進一步發力，其中包括加快政府債券發行、加快推進8000億元新型政策性金融工具投放等，這些均需要央行在流動性方面給予支援。 “這意味著，短期內包括買斷式逆回購、MLF在內的中期流動性工具整體上有望加量續做，支援政府債券發行和銀行配套貸款投放，這是當前貨幣政策加大逆週期調節力度的重要發力點之一。”王青說。（中證報）"
-    },
-    {
-      "id": "5104510",
-      "time": "2026-09-21 08:30:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "上海證交所上日融資餘額幾無變動，報13,345.6億元。"
-    },
-    {
-      "id": "5104509",
-      "time": "2026-09-21 08:30:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國：葉門局勢升級 超12.5萬人流離失所】近期，葉門多地局勢持續升級，大量民眾被迫逃離家園。聯合國難民署駐葉門代表阿爾門·亞德加里安在接受總檯記者採訪時表示，短短一兩週內，已有超過12.5萬人在葉門境內流離失所，另有數千人冒險穿越曼德海峽逃往吉布提等地。聯合國難民署呼籲國際社會提供更多資金和支援，以應對不斷擴大的緊急人道主義需求。"
-    },
-    {
-      "id": "5104508",
-      "time": "2026-09-21 08:29:26",
-      "tags": [
-        "資料",
-        "央行"
-      ],
-      "text": "【澳新銀行：目前預計澳洲聯儲9月、11月各加息25個基點】澳新銀行在宣告中表示，上調澳洲聯儲利率預測，新增一次加息預期。澳新銀行當前預測，澳洲聯儲將於9月及11月分別加息25個基點，將現金利率推升至4.85%，為2008年以來最高水平。該行仍預計首次降息將在2027年11月落地，隨後在2028年2月再度降息25個基點。澳新銀行經濟學家亞當・博伊頓與傑克・錢伯斯稱：“鑑於此前寬鬆週期結束後通脹再度快速抬頭，我們預計澳洲聯儲理事會在最終降息時會保持緩慢且謹慎的節奏。”"
-    },
-    {
-      "id": "te:markets:585148",
-      "time": "2026-09-21 08:27:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Yen Consolidates Amid Holiday-Thinned Trading — The Japanese yen consolidated near 157 per dollar on Monday after falling more than 2% last week, with traders remaining on alert for possible intervention as Japan begins a three-day holiday. Tokyo has previously used periods of thin holiday liquidity to intervene in currency markets, while concerns were heightened by reports that the Bank of Japan conducted a rate check with market participants late Friday. The yen weakened sharply last week after the BOJ raised interest rates in a widely anticipated move, with two policymakers dissenting from the decision. Governor Kazuo Ueda said the BOJ remains committed to raising rates and adjusting the degree of monetary accommodation in response to changing economic conditions, while noting that accommodative conditions are expected to remain in place to support growth. The yen also came under pressure from expectations that Japan’s rate-hiking cycle could move more slowly than the Federal Reserve’s."
-    },
-    {
-      "id": "5104507",
-      "time": "2026-09-21 08:27:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經濟日報金觀平：堅持四個注重做強先進製造業】日前召開的全國先進製造業大會提出，要順應新一輪科技革命和產業變革趨勢，以新一代智慧製造為主攻方向，發展策略上更加註重數智賦能，技術路線上更加註重高階自主，生產方式上更加註重綠色低碳，場景業態上更加註重跨界融合，著力推動製造業智慧化、綠色化、融合化發展。“四個注重”清晰勾勒出建設製造強國的實踐路徑，為做強做優先進製造業指明瞭發力方向。建設製造強國，非一日之功。做強做優先進製造業，堅持高階化、智慧化、綠色化、融合化，將鞏固壯大實體經濟根基，為推進中國式現代化提供有力支撐。"
     }
   ]
 }
