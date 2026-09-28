@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-29 02:01:59",
+  "updated": "2026-09-29 02:05:46",
   "count": 11784,
   "items": [
+    {
+      "id": "mkt:01a0e931-60da-7338-aaf7-e544322d0339",
+      "time": "2026-09-29 02:05:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Anthropic released the Sonnet 5.5 model."
+    },
+    {
+      "id": "5117236",
+      "time": "2026-09-29 02:03:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國允許開展部分涉及委內瑞拉原產原油的相關業務。"
+    },
+    {
+      "id": "5117235",
+      "time": "2026-09-29 02:03:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將批准伊朗與伊拉克納傑夫之間航班的豁免許可，允許伊拉克航空執飛伊朗航線，為期一個月。"
+    },
+    {
+      "id": "5117234",
+      "time": "2026-09-29 02:01:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Haiku 5.5 模型即將推出，專為快速、高吞吐量任務打造。"
+    },
+    {
+      "id": "5117233",
+      "time": "2026-09-29 02:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：Sonnet 5.5的執行速度顯著快於Sonnet 5，並且是Opus 5.5的低成本替代互補方案。"
+    },
     {
       "id": "5117232",
       "time": "2026-09-29 02:01:09",
@@ -107402,51 +107443,6 @@
         "WTI"
       ],
       "text": "【EU agrees to extend Russia sanctions by three years】On the 21st (local time), after protracted talks EU member states agreed to extend Russia sanctions for 36 months, prolonging measures targeting more than 3,000 Russian individuals and entities. Two Russian businessmen were removed from the sanctions list. The extension is longer than the usual 6–12 month renewals; the EU said the move aims to avoid future renewal deadlock caused by member-state disagreements."
-    },
-    {
-      "id": "mkt:01a0c525-26e2-7118-8630-47aee1e05d28",
-      "time": "2026-09-22 02:05:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "U.S. President Trump will meet the leaders of Denmark and Greenland on Tuesday."
-    },
-    {
-      "id": "mkt:01a0c525-2792-7118-8630-49385cd84c50",
-      "time": "2026-09-22 02:05:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Cost pressures push startups toward lower-cost open-weight AI models】Legal AI startup Harvey, valued at about $15.6bn, built its product around training models similar to OpenAI's GPT-4 for law firms. After a March update client usage surged but gross margin fell from roughly 50% at the start of the year to -50% in June, a person familiar with the matter said. Facing rising AI operating costs, Harvey has shifted to open-weight AI—cheaper than proprietary US offerings and allowing firms to train custom models on their own data—joining a growing number of software companies making the move."
-    },
-    {
-      "id": "5106265",
-      "time": "2026-09-22 02:02:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）埃博拉疫情確診病例增至7672例】當地時間9月21日，剛果（金）國家公共衛生研究所最新資料顯示，截至目前，該國本輪埃博拉疫情累計報告確診病例7672例，其中死亡3699例，病死率達48.2%。目前已有1879名患者康復，另有886人正在住院或隔離治療。疫情現已蔓延至該國7個省份的63個衛生區，包括伊圖裡、北基伍、南基伍、上韋萊、喬波、下韋萊以及南烏班吉省。（央視新聞）"
-    },
-    {
-      "id": "5106264",
-      "time": "2026-09-22 02:02:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐盟透過延長對俄製裁方案 期限長達三年】當地時間21日，經過長時間的磋商，歐盟成員國就延長對俄製裁達成一致，同意將相關制裁措施延長三年。根據協議，歐盟將把對3000多個俄羅斯個人和實體實施制裁的期限延長36個月，同時將兩名俄羅斯企業家移出制裁名單。此次制裁措施延期時間明顯長於以往通常為6個月或12個月的續期安排。歐盟希望透過延長制裁期限，避免未來因成員國立場分歧導致制裁措施在續期問題上再次陷入僵局。（央視新聞）"
-    },
-    {
-      "id": "5106263",
-      "time": "2026-09-22 02:02:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國據悉即將協助沙特應對胡塞武裝襲擊】據外媒報道，英國已接近同意支援沙特的軍事行動，以應對胡塞武裝。據多位知情人士透露，英國首相伯納姆正傾向於提供英國認為是防禦性援助。這些人士表示，英國將遊說其他國家採取類似措施。一些人稱，英國可能向沙特提供空中加油支援。其中一人指出，伯納姆政府認為，援助沙特軍隊並擊退胡塞武裝有助於穩定地區局勢，降低對馬六甲海峽船隻的威脅。"
     }
   ]
 }
