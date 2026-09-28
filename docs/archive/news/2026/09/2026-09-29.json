@@ -1,7 +1,88 @@
 {
   "date": "2026-09-29",
-  "count": 490,
+  "count": 499,
   "items": [
+    {
+      "id": "5117414",
+      "time": "2026-09-29 07:46:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "浦項制鐵尋求韓國政府批准其核能投資。"
+    },
+    {
+      "id": "5117413",
+      "time": "2026-09-29 07:46:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認巴哈馬評級為BB-，前景保持穩定。"
+    },
+    {
+      "id": "5117412",
+      "time": "2026-09-29 07:45:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.16點。"
+    },
+    {
+      "id": "5117411",
+      "time": "2026-09-29 07:45:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤上漲0.3%。"
+    },
+    {
+      "id": "5117410",
+      "time": "2026-09-29 07:45:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國肯塔基州一名州警遭槍擊身亡 嫌疑人已被捕】記者當地時間9月28日獲悉，美國肯塔基州一名州警當天在州際公路沿線巡邏時遭槍擊身亡。肯塔基州警方隨後宣佈，嫌疑人已在路易斯維爾被警方拘捕，但其身份暫未公佈。警方計劃於當天晚些時候舉行新聞釋出會。"
+    },
+    {
+      "id": "te:markets:587400",
+      "time": "2026-09-29 07:45:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Edge Higher After Weak Session — US stock futures edged higher on Tuesday after the major averages declined in the previous session, pressured by a rise in Treasury yields. Investors also remained focused on geopolitical developments amid continued uncertainty surrounding US-Iran negotiations, although Saudi Arabia managed to restore oil flows through a key pipeline. In regular trading on Monday, the Dow Jones fell 0.67%, the S&P 500 declined 0.77%, and the Nasdaq Composite dropped 0.92%. The losses came as Treasury yields continued to climb on expectations that persistent inflation could prompt the Federal Reserve to tighten monetary policy further. The US 10-year Treasury yield moved above 5.2%, while the 30-year yield was at 5.55%. Investors now await Tuesday’s consumer confidence, job openings, and labor turnover data for further indications about the health of the US economy. In corporate news, AMD agreed to acquire World Labs in a deal valued at $8.2 billion."
+    },
+    {
+      "id": "5117409",
+      "time": "2026-09-29 07:44:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AIxC計劃合併FF EAI Robotics】據FaradayFuture訊息，9月28日，Nasdaq上市公司AIxC（即將更名為FFR）宣佈計劃合併FF EAI Robotics。FFAI宣佈重大戰略升級，將升級成為Robotaxi+智艙共享運營商及Physical AI投資控股公司。FFAI已與上市公司AIxC簽署Term Sheet，擬按照約2億美元的市場化估值，將FFAI旗下機器人公司100%股權整合至AIxC，並以AIxC股份作為交易對價。另外，AIxC更名為FF EAI Robotics Ecosystem Inc.，股票程式碼變更為FFR，並於後天9月30日生效。"
+    },
+    {
+      "id": "5117408",
+      "time": "2026-09-29 07:44:13",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【罕見！OpenAI取消釋出新一代AI模型 OpenAI內部測試發現安全隱患】當地時間9月28日，據美國《華爾街日報》報道，OpenAI已決定取消釋出新一代人工智慧模型。該模型代號為“GPT-6.1 Astra”，原計劃於10月在ChatGPT和Codex中推出。報道稱，OpenAI研究人員在內部測試過程中發現安全隱患，最終決定放棄釋出。報道指出，今年夏季以來，人工智慧行業多次出現系統行為失控或偏離預期的情況。OpenAI此次決定也成為大型AI公司因安全問題直接取消新模型釋出的罕見案例，表明人工智慧行業可能出現的非預期行為，正成為阻礙行業快速發展的重要風險之一。（央視）"
+    },
+    {
+      "id": "5117407",
+      "time": "2026-09-29 07:43:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【市場分析：Anthropic 鉅額支出僅能小幅提振晶片廠商】據報道，Anthropic 計劃未來一年在雲服務與算力領域投入 5180 億美元，這筆支出只會對亞洲晶片廠商帶來小幅提振，同時推動納斯達克股指期貨小幅走高。然而，這一切都只是Anthropic公司預期IPO前的試探，至於何時才是最佳上市時機，目前仍是未知數。目標一直在變化，如果IPO推遲到2027年，人工智慧投資者可能會失去耐心。"
+    },
     {
       "id": "mkt:01a0ea65-3027-7338-aafb-7847db59a1d8",
       "time": "2026-09-29 07:41:34",
