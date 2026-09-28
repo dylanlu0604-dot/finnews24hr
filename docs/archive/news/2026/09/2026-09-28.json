@@ -1,7 +1,93 @@
 {
   "date": "2026-09-28",
-  "count": 790,
+  "count": 800,
   "items": [
+    {
+      "id": "mkt:01a0e630-5fa8-7118-86b5-501de6063560",
+      "time": "2026-09-28 12:05:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports EU countries are considering a NATO-like joint response mechanism to counter Russian hybrid attacks."
+    },
+    {
+      "id": "5115532",
+      "time": "2026-09-28 12:04:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數下跌1%至1767.04。"
+    },
+    {
+      "id": "5115531",
+      "time": "2026-09-28 12:03:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【虹軟科技：已耗資3497.32萬元回購0.28%股份】虹軟科技(688088)午間公告，截至9月24日，公司以集中競價交易方式回購股份113.74萬股，佔公司總股本的比例為0.28%，回購成交的最高價為34.76元/股，最低價為29.30元/股，支付的資金總額為3497.32萬元（不含印花稅、交易佣金等交易費用）。"
+    },
+    {
+      "id": "5115530",
+      "time": "2026-09-28 12:03:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "鈴木追加投資LOMBY，後者是自主配送機器人開發商。"
+    },
+    {
+      "id": "mkt:01a0e62e-222d-7118-86b5-486f91c7ff5b",
+      "time": "2026-09-28 12:02:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Reserve Bank of India may have intervened in FX market on Monday】Four traders said the Reserve Bank of India (RBI) may have intervened in the FX market on Monday after U.S.-Iran diplomatic talks stalled and oil prices rose, with month-end corporate flows adding pressure on the rupee. The currency was trading at 95.93 per dollar. RBI intervention helped the rupee hold the 96 level, similar to market action over the past two weeks. A senior foreign-bank trader said: \"We see some degree of intervention almost every day, which suggests the RBI currently wants to defend a firm floor for the rupee.\""
+    },
+    {
+      "id": "5115529",
+      "time": "2026-09-28 12:02:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【波士頓諮詢：槓桿攀升，財務壓力正在歐洲蔓延】波士頓諮詢集團稱，西歐六分之一企業正承受財務壓力，不斷走高的槓桿令企業更容易受到各類衝擊影響。波士頓諮詢在一份分析約1700家歐洲上市公司的報告中發現，西班牙與葡萄牙面臨的壓力最為突出，兩地有22%的企業需要開展業務轉型。全歐洲需要轉型的企業佔比由去年14.3%升至16.2%。法國以及包含德國、奧地利、瑞士在內的DACH地區，面臨較重財務壓力或重組壓力的企業佔比最高，兩地均為10%。衡量整體負債水平的淨債務/息稅折舊攤銷前利潤（Net-debt-to-Ebitda）指標，2022至2025年間上升22%。近三分之一企業在2026年初該比值超過3倍，波士頓諮詢將該數值視作財務壓力的臨界線。不少企業在疫情期間大舉借入低成本債務，如今難以降槓桿。這使得企業抵禦能源成本飆升、貿易中斷以及長期高利率環境衝擊的能力下降。"
+    },
+    {
+      "id": "mkt:01a0e62d-c4a0-7118-86b5-46979065fa68",
+      "time": "2026-09-28 12:02:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "09999.HK",
+        "00857.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng up 0.64%; Hang Seng Tech down 0.54%】At the midday break the Hang Seng Index was up 0.64% at 24,666.09 after earlier gains of more than 1%; the Hang Seng TECH Index was down 0.54% at 4,288.61. Sector movers: pork names and oil & gas outperformed; mainland banks and property names were active; autos faded after intraday strength. Technology hardware underperformed — memory/storage themes sold off and PCB chains led losses. Notable stock moves: Yangtze Optical Fibre & Cable (06869.HK) down ~14%; Cambridge Technology (06166.HK), Zhongji Xuchuang (03308.HK) and Shenghong Technology (02476.HK) down over 9%; MINIMAX-W (00100.HK) down ~9%; Kingboard Laminates (01888.HK) down >7%. Winners included CanSino Biologics (06185.HK) +4.5%, NetEase (09999.HK) +4.4%, PetroChina (00857.HK) +4.0% and ICBC (01398.HK) +2.4%."
+    },
+    {
+      "id": "mkt:01a0e62d-c203-7118-86b5-3c59f7e6f2f1",
+      "time": "2026-09-28 12:02:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports OpenAI-backed startup Red Queen Bio plans to begin human trials of antibody therapeutics next year."
+    },
+    {
+      "id": "mkt:01a0e62d-ad5f-7118-86b5-356dc171a94d",
+      "time": "2026-09-28 12:02:28",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "【Solidigm considering US IPO sparks concerns; SK Hynix shares fall up to 5%】SK Hynix shares fell as much as 5% in Asian trade on Monday — their largest intraday drop in two weeks — after US media, citing people familiar with the matter, reported its US unit Solidigm is weighing a US IPO as early as next year with a potential valuation up to $100 bln. Largest shareholder SK Square slid more than 8% and SK Inc., which holds a controlling stake in SK Square, fell over 6%. The Korea Corporate Governance Forum said a Solidigm listing would deepen SK Group’s multi-tiered pyramid shareholdings and said it had urged SK Hynix in August to abandon the plan."
+    },
     {
       "id": "5115528",
       "time": "2026-09-28 12:01:03",
@@ -55,6 +141,15 @@
         "Impact bullish"
       ],
       "text": "【Japan two-year JGB yield nears 2% as BOJ rate-hike bets intensify】Policy-sensitive two-year JGB yield rose as much as 4bps to 1.975% on Monday, approaching the key 2% level and marking its highest since 1995. Other tenors were under pressure: the five-year yield climbed 3bps to 2.43%. SMBC Nikko Securities strategists Omura and colleagues said in a note that greater domestic and foreign attention on yen weakness is fueling trades betting on faster BOJ tightening, and that fiscal expansion in major economies plus rising commodity prices could further reinforce market expectations that Japan may ultimately need to tighten policy to curb inflation."
+    },
+    {
+      "id": "em:qqyh_mlc:202609283885049368",
+      "time": "2026-09-28 11:57:08",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【“華爾街之狼”：在AI時代 加息是個錯誤】億萬富翁投資者、被譽為“華爾街之狼”的比爾·阿克曼（Bill Ackman）最新表示，在人工智慧（AI）時代，收緊貨幣政策可能會被證明是一個錯誤。阿克曼在社交媒體平臺X上發帖指出，美聯儲9月會議上加息的決定是錯誤的，因為人工智慧可能正在改寫指導央行應對通脹的規則。"
     },
     {
       "id": "5115524",
