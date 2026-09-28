@@ -1,7 +1,64 @@
 {
-  "updated": "2026-09-28 11:45:01",
-  "count": 11852,
+  "updated": "2026-09-28 11:49:15",
+  "count": 11856,
   "items": [
+    {
+      "id": "mkt:01a0e621-17bd-7118-86b5-0bbf5f503104",
+      "time": "2026-09-28 11:48:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's NIFTY Private Banks Index fell 1.03%."
+    },
+    {
+      "id": "mkt:01a0e620-a078-7118-86b5-020779765a3d",
+      "time": "2026-09-28 11:48:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's Nifty Financial Services Index fell 1%; Nifty Bank dropped 1.02%. NSE shares fell 0.48% to 1,784 rupees, trading below the IPO offer price of 1,785 rupees."
+    },
+    {
+      "id": "mkt:01a0e620-972d-7118-86b4-f9a94199d796",
+      "time": "2026-09-28 11:48:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's Nifty 50 fell 0.75%."
+    },
+    {
+      "id": "5115514",
+      "time": "2026-09-28 11:48:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海虹橋國際科技周11月舉辦，將設長三角創新走廊旗艦展區】上海大虹橋做強“大科創”有了重量級平臺。2026年9月28日，記者從虹橋國際科技周（Hongqiao Tech Week）新聞通氣會上獲悉，首屆虹橋國際科技周將於11月20日至22日在國家會展中心（上海）舉辦，匯聚全球科技企業、創新機構、投資機構和專業觀眾，搭建國際科技合作與產業對接平臺。（ 澎湃新聞  ）"
+    },
+    {
+      "id": "mkt:01a0e61f-414d-7118-86b4-f4717c1adcf4",
+      "time": "2026-09-28 11:46:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "VIC.VN"
+      ],
+      "text": "Exchange filing shows Vingroup holds a 51% stake in subsidiary Vin Oil & Gas Global."
+    },
+    {
+      "id": "mkt:01a0e61d-69b2-7118-86b4-efaa758ea992",
+      "time": "2026-09-28 11:44:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Vingroup, Vietnam's largest conglomerate, has established a subsidiary focused on oil and gas trading, according to a stock exchange filing."
+    },
     {
       "id": "5115513",
       "time": "2026-09-28 11:44:18",
@@ -108198,22 +108255,6 @@
         "公司"
       ],
       "text": "【北京市委書記尹力會見瑞士德科集團董事會主席】據北京釋出訊息，9月20日，北京市委書記尹力會見瑞士德科集團董事會主席鄧敬熙。尹力說，希望德科集團發揮自身優勢，與北京相關機構、企業等深化戰略對接、拓展合作領域，聚焦前沿技術發展和現代化產業體系建設需要，加強高階人才聯合引育，共同開展人才技能提升與梯隊培養，促進創新鏈、產業鏈、人才鏈深度融合。深入分析研判人工智慧等新技術變革趨勢，促進人力資源市場提質升級。持續擴大在京業務佈局，助力北京科創企業更好“走出去”，同時共同辦好用好中歐人才論壇，進一步提升國際影響力。"
-    },
-    {
-      "id": "5104764",
-      "time": "2026-09-21 11:47:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其監管機構將基金清算期延長至六個月。"
-    },
-    {
-      "id": "5104763",
-      "time": "2026-09-21 11:45:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【閒魚回應平臺涉黃產業鏈：成立專項小組嚴打色情引流，將建立前置識別等綜合防控治理機制】針對閒魚平臺暗藏完整涉黃產業鏈，涉黃相關話題登上熱搜。閒魚今日回應稱，將堅決對利用色情內容進行引流、欺詐的違法行為說不，已成立專項小組，並建立“前置識別—即時處置—警企聯動”等綜合防控治理機制，堅決打擊。據悉，2026年1月至今，閒魚已累計凍結色情引流類風險賬號98358個。閒魚主動將相關線索移送公安部門，今年以來已成功警企協同打擊色情團伙15個。"
     }
   ]
 }

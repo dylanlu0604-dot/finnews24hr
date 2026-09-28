@@ -1,7 +1,64 @@
 {
   "date": "2026-09-28",
-  "count": 765,
+  "count": 771,
   "items": [
+    {
+      "id": "mkt:01a0e621-17bd-7118-86b5-0bbf5f503104",
+      "time": "2026-09-28 11:48:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's NIFTY Private Banks Index fell 1.03%."
+    },
+    {
+      "id": "mkt:01a0e620-a078-7118-86b5-020779765a3d",
+      "time": "2026-09-28 11:48:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's Nifty Financial Services Index fell 1%; Nifty Bank dropped 1.02%. NSE shares fell 0.48% to 1,784 rupees, trading below the IPO offer price of 1,785 rupees."
+    },
+    {
+      "id": "mkt:01a0e620-972d-7118-86b4-f9a94199d796",
+      "time": "2026-09-28 11:48:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India's Nifty 50 fell 0.75%."
+    },
+    {
+      "id": "5115514",
+      "time": "2026-09-28 11:48:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海虹橋國際科技周11月舉辦，將設長三角創新走廊旗艦展區】上海大虹橋做強“大科創”有了重量級平臺。2026年9月28日，記者從虹橋國際科技周（Hongqiao Tech Week）新聞通氣會上獲悉，首屆虹橋國際科技周將於11月20日至22日在國家會展中心（上海）舉辦，匯聚全球科技企業、創新機構、投資機構和專業觀眾，搭建國際科技合作與產業對接平臺。（ 澎湃新聞  ）"
+    },
+    {
+      "id": "mkt:01a0e61f-414d-7118-86b4-f4717c1adcf4",
+      "time": "2026-09-28 11:46:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "VIC.VN"
+      ],
+      "text": "Exchange filing shows Vingroup holds a 51% stake in subsidiary Vin Oil & Gas Global."
+    },
+    {
+      "id": "mkt:01a0e61d-69b2-7118-86b4-efaa758ea992",
+      "time": "2026-09-28 11:44:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Vingroup, Vietnam's largest conglomerate, has established a subsidiary focused on oil and gas trading, according to a stock exchange filing."
+    },
     {
       "id": "5115513",
       "time": "2026-09-28 11:44:18",
