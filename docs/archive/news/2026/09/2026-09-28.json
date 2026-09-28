@@ -1,7 +1,83 @@
 {
   "date": "2026-09-28",
-  "count": 756,
+  "count": 765,
   "items": [
+    {
+      "id": "5115513",
+      "time": "2026-09-28 11:44:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為：openPangu-2.0預訓練、SFT程式碼和後訓練RL程式碼正式開源】9月28日，華為宣佈開源盤古openPangu-2.0的預訓練、SFT程式碼和後訓練RL程式碼正式開源上線。開源盤古openPangu是華為開源AI模型品牌，致力於透過昇騰原生訓練與推理技術，為業界用好昇騰提供參考。"
+    },
+    {
+      "id": "5115512",
+      "time": "2026-09-28 11:42:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何劍波已任中國五礦集團副總經理】中國五礦集團有限公司官網顯示，何劍波已任中國五礦副總經理。"
+    },
+    {
+      "id": "te:markets:587098",
+      "time": "2026-09-28 11:41:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Drops on Weak China Data — Copper futures fell to around $6.6 per pound on Monday, extending their retreat from record highs as softening economic data from top consumer China weighed on the demand outlook. Industrial profits in China increased 15.7% in the first eight months from a year earlier, slowing from a 17.6% rise during January-July as subdued domestic demand offset strength in high-tech and AI-related manufacturing. On a monthly basis, industrial profits rose just 4.2% in August year-on-year, marking the slowest growth since November 2025. Last week, copper prices surged to fresh records as supply disruptions and tariff concerns fueled the rally. Operations at BHP’s Escondida copper mine in Chile, the world’s largest, were suspended indefinitely after an accident killed a worker. Meanwhile, the Trump administration has yet to decide on imposing US tariffs on refined copper, leaving markets focused on the potential policy move."
+    },
+    {
+      "id": "5115511",
+      "time": "2026-09-28 11:41:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中研股份：正積極探索PEEK材料的新應用領域】中研股份在9月28日召開的2026年半年度業績說明會上表示，公司正積極探索PEEK材料的新應用領域，突破新興應用領域的技術壁壘，持續推進技術落地與市場開拓，加快產能及訂單釋放。PEEK作為高分子新材料領域中的一個重要組成部分，在電子資訊、交通運輸、航空航天、能源工業、醫療健康、3D列印等領域有著廣泛的發展空間和市場應用。在國家主要法律法規政策的鼓勵、推動下，預計PEEK產業未來將有較大的市場增長空間。"
+    },
+    {
+      "id": "5115510",
+      "time": "2026-09-28 11:40:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：新喀里多尼亞塔迪內東北偏東69公里處發生5.3級地震。"
+    },
+    {
+      "id": "5115509",
+      "time": "2026-09-28 11:40:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "喜力亞太區總裁範德林登：油價上漲的影響正逐漸體現在投入成本中。"
+    },
+    {
+      "id": "5115508",
+      "time": "2026-09-28 11:40:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國工業聯合會：8月汽車產量同比增長10.93%，7月同比增幅為6.12%。"
+    },
+    {
+      "id": "mkt:01a0e618-fc74-7118-86b4-e3ac07ca488d",
+      "time": "2026-09-28 11:39:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai Federation of Industries: Thailand vehicle production rose 10.93% YoY in August, up from 6.12% in July."
+    },
+    {
+      "id": "5115507",
+      "time": "2026-09-28 11:39:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【多家媒體曝內塔尼亞胡密訪阿聯酋 】據多家媒體報道，以色列總理內塔尼亞胡27日秘密訪問了阿聯酋。按照以媒的說法，雖然兩國官方均未證實這次訪問，但在中東戰事的背景下，兩國越走越近是不爭的事實。以色列公共廣播公司、美國阿克西奧斯新聞網站和路透社等多家媒體均以匿名知情官員為訊息源報道了訪問。報道說，內塔尼亞胡27日上午搭乘一名以色列商人的私人飛機到訪阿布扎比，與阿聯酋總統穆罕默德會談，並於當天晚些時候返回以色列。以色列總理辦公室和阿聯酋外交部均未回應上述報道。（新華社）"
+    },
     {
       "id": "mkt:01a0e618-6c16-7118-86b4-da278cc32c37",
       "time": "2026-09-28 11:39:15",

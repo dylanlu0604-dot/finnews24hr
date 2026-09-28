@@ -1,7 +1,83 @@
 {
-  "updated": "2026-09-28 11:40:10",
-  "count": 11849,
+  "updated": "2026-09-28 11:45:01",
+  "count": 11852,
   "items": [
+    {
+      "id": "5115513",
+      "time": "2026-09-28 11:44:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為：openPangu-2.0預訓練、SFT程式碼和後訓練RL程式碼正式開源】9月28日，華為宣佈開源盤古openPangu-2.0的預訓練、SFT程式碼和後訓練RL程式碼正式開源上線。開源盤古openPangu是華為開源AI模型品牌，致力於透過昇騰原生訓練與推理技術，為業界用好昇騰提供參考。"
+    },
+    {
+      "id": "5115512",
+      "time": "2026-09-28 11:42:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何劍波已任中國五礦集團副總經理】中國五礦集團有限公司官網顯示，何劍波已任中國五礦副總經理。"
+    },
+    {
+      "id": "te:markets:587098",
+      "time": "2026-09-28 11:41:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Drops on Weak China Data — Copper futures fell to around $6.6 per pound on Monday, extending their retreat from record highs as softening economic data from top consumer China weighed on the demand outlook. Industrial profits in China increased 15.7% in the first eight months from a year earlier, slowing from a 17.6% rise during January-July as subdued domestic demand offset strength in high-tech and AI-related manufacturing. On a monthly basis, industrial profits rose just 4.2% in August year-on-year, marking the slowest growth since November 2025. Last week, copper prices surged to fresh records as supply disruptions and tariff concerns fueled the rally. Operations at BHP’s Escondida copper mine in Chile, the world’s largest, were suspended indefinitely after an accident killed a worker. Meanwhile, the Trump administration has yet to decide on imposing US tariffs on refined copper, leaving markets focused on the potential policy move."
+    },
+    {
+      "id": "5115511",
+      "time": "2026-09-28 11:41:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中研股份：正積極探索PEEK材料的新應用領域】中研股份在9月28日召開的2026年半年度業績說明會上表示，公司正積極探索PEEK材料的新應用領域，突破新興應用領域的技術壁壘，持續推進技術落地與市場開拓，加快產能及訂單釋放。PEEK作為高分子新材料領域中的一個重要組成部分，在電子資訊、交通運輸、航空航天、能源工業、醫療健康、3D列印等領域有著廣泛的發展空間和市場應用。在國家主要法律法規政策的鼓勵、推動下，預計PEEK產業未來將有較大的市場增長空間。"
+    },
+    {
+      "id": "5115510",
+      "time": "2026-09-28 11:40:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：新喀里多尼亞塔迪內東北偏東69公里處發生5.3級地震。"
+    },
+    {
+      "id": "5115509",
+      "time": "2026-09-28 11:40:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "喜力亞太區總裁範德林登：油價上漲的影響正逐漸體現在投入成本中。"
+    },
+    {
+      "id": "5115508",
+      "time": "2026-09-28 11:40:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國工業聯合會：8月汽車產量同比增長10.93%，7月同比增幅為6.12%。"
+    },
+    {
+      "id": "mkt:01a0e618-fc74-7118-86b4-e3ac07ca488d",
+      "time": "2026-09-28 11:39:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai Federation of Industries: Thailand vehicle production rose 10.93% YoY in August, up from 6.12% in July."
+    },
+    {
+      "id": "5115507",
+      "time": "2026-09-28 11:39:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【多家媒體曝內塔尼亞胡密訪阿聯酋 】據多家媒體報道，以色列總理內塔尼亞胡27日秘密訪問了阿聯酋。按照以媒的說法，雖然兩國官方均未證實這次訪問，但在中東戰事的背景下，兩國越走越近是不爭的事實。以色列公共廣播公司、美國阿克西奧斯新聞網站和路透社等多家媒體均以匿名知情官員為訊息源報道了訪問。報道說，內塔尼亞胡27日上午搭乘一名以色列商人的私人飛機到訪阿布扎比，與阿聯酋總統穆罕默德會談，並於當天晚些時候返回以色列。以色列總理辦公室和阿聯酋外交部均未回應上述報道。（新華社）"
+    },
     {
       "id": "mkt:01a0e618-6c16-7118-86b4-da278cc32c37",
       "time": "2026-09-28 11:39:15",
@@ -108138,59 +108214,6 @@
         "其他"
       ],
       "text": "【閒魚回應平臺涉黃產業鏈：成立專項小組嚴打色情引流，將建立前置識別等綜合防控治理機制】針對閒魚平臺暗藏完整涉黃產業鏈，涉黃相關話題登上熱搜。閒魚今日回應稱，將堅決對利用色情內容進行引流、欺詐的違法行為說不，已成立專項小組，並建立“前置識別—即時處置—警企聯動”等綜合防控治理機制，堅決打擊。據悉，2026年1月至今，閒魚已累計凍結色情引流類風險賬號98358個。閒魚主動將相關線索移送公安部門，今年以來已成功警企協同打擊色情團伙15個。"
-    },
-    {
-      "id": "5104762",
-      "time": "2026-09-21 11:43:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天數智芯成立詞元科技公司】企查查APP顯示，近日，北京天數詞元科技有限公司成立，法定代表人為孫冠楠，註冊資本為1000萬元，經營範圍包含積體電路設計；人工智慧基礎軟體開發；人工智慧應用軟體開發；電子產品銷售；電子元器件批發等。企查查股權穿透顯示，該公司由天數智芯全資持股。"
-    },
-    {
-      "id": "5104761",
-      "time": "2026-09-21 11:43:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【卓錦股份：三、四季度盈利情況將會較一、二季度有所修復】卓錦股份(688701)在9月21日召開的2026年半年度業績說明會上表示，由於公司所屬行業與業務模式的特徵，公司營收變化呈現季節性波動特徵，公司主要營業收入集中於三、四季度確認，因此短期內公司的營業收入與毛利率核算情況受到個別專案的影響。後續隨著公司整體專案的履約進度達到全年完工要求，根據公司過往年度的財務情況預計，公司三、四季度的營業收入與盈利情況將會較一、二季度有所修復。"
-    },
-    {
-      "id": "5104760",
-      "time": "2026-09-21 11:41:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上海靜安一宅地70.5億元成交 象嶼、建發聯合體摘地】上海九批次土拍今日正式開拍。其中，靜安區N070302單元117a-09地塊經過78輪競價，最終由上海象盈房地產開發有限公司&廈門益悅置業有限公司（象嶼&建發）以70.50億元競得，成交樓面價69614元/平方米，較起始樓面價上漲5.48%。另外，黃浦老西門地塊由中海以總價38.88億元競得，成交樓面價96900元/平方米。"
-    },
-    {
-      "id": "5104759",
-      "time": "2026-09-21 11:41:02",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家糧食和物資儲備局：推動糧食價格保持在合理水平】9月21日，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹守住管好“大國糧倉”，保障國家糧食安全有關情況，並答記者問。  國家發展和改革委員會黨組成員、國家糧食和物資儲備局局長劉煥鑫表示，“十五五”時期，將深入實施國家糧食安全戰略，堅持產量產能、生產生態、增產增收一起抓，提升糧食產購儲加銷協同保障能力，加強糧食購銷和儲備管理，推進糧食流通提質增效，促進糧食產需銜接、結構最佳化、品質提升，加快建立同我國大國地位相符的現代化糧食流通體系。劉煥鑫表示，抓好糧食購銷，促進糧食市場流通順暢、執行平穩。圍繞牢牢守住“種糧賣得出”“吃糧買得到”的底線，進一步活躍糧食購銷。堅持兩手結合，用好市場無形之手，大力營造良好環境，引導各類糧食經營主體積極入市；用好政府有形之手，組織好政策性收儲，發揮保供穩價的支撐作用。突出兩端發力，從供給端入手，推廣糧食訂單種植，強化糧食產後服務，提升糧食品質、適配市場需求；從需求端入手，加強糧食市場監測預警，用好儲備吞吐等手段，注重預調微調，穩定市場預期，推動糧食價格保持在合理水平。注重軟硬齊抓，完善糧食交易平臺體系，最佳化為農服務，加強產銷銜接，規範糧食市場秩序；加強糧食物流通道建設，強化核心樞紐和關鍵節點功能，增強“北糧南運”等糧食重要通道物流承載能力，提升跨區域調運效率。（大河財立方）"
-    },
-    {
-      "id": "5104758",
-      "time": "2026-09-21 11:40:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國泰海通：維持油運增持評級 高景氣持續將超預期】國泰海通釋出研報稱，市場變化有望增加合規需求，加速老船出清，成就超高景氣且可持續。油運已進入高景氣階段，2026年中東局勢升級為灰色市場變化提供契機。建議關注灰色市場變化持續影響，油運有望現超高景氣且可持續，提供業績估值雙重空間。"
-    },
-    {
-      "id": "te:markets:585199",
-      "time": "2026-09-21 11:40:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Holds Near IDR 17,810 as BI Meeting Looms — The Indonesian rupiah was little changed on Monday, hovering near IDR 17,810 per U.S. dollar after a seven-session losing streak, as traders positioned for Bank Indonesia’s policy decision this week. The central bank will begin its two-day meeting Tuesday, after leaving key rates unchanged at 5.75% for a second straight month in August following 100bps of hikes since May. Governor Destry Damayanti recently underscored currency stability as her priority alongside monetary, macroprudential and payment-system measures. Meanwhile, softer oil prices, aided by diplomatic efforts in the Middle East, eased imported inflation concerns, though domestic pressures persisted after August’s annual inflation quickened to 3.19%. Fiscal risks also lingered as lawmakers reportedly debated revising the 3% deficit cap to allow more welfare and development spending. Globally, the dollar index held near 100.2 as investors looked to remarks from Fed officials this week for signals on the policy outlook."
     }
   ]
 }
