@@ -1,7 +1,31 @@
 {
-  "updated": "2026-09-28 08:54:04",
+  "updated": "2026-09-28 08:57:47",
   "count": 11717,
   "items": [
+    {
+      "id": "5115198",
+      "time": "2026-09-28 08:56:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【南桑威奇群島發生5.0級地震】根據歐洲-地中海地震中心報告，當地時間9月27日19時13分，南桑威奇群島海域發生5.0級地震，震源深度103.8公里。目前暫無海嘯預警報告。"
+    },
+    {
+      "id": "5115197",
+      "time": "2026-09-28 08:56:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人保財險簽發全國首單“AI科保”人工智慧產品應用保險】日前，在第五屆全球數字貿易博覽會現場，人保財險正式釋出“AI科保”人工智慧產品應用保險，並完成全國首單簽約，填補了國內AI產品應用端專屬保險的空白。"
+    },
+    {
+      "id": "5115196",
+      "time": "2026-09-28 08:54:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【125.5億元！廣東中秋文旅市場“熱”力十足】中秋假期，廣東文旅市場整體執行平穩有序、供需兩旺、亮點紛呈。9月25日至27日，全省接待遊客2481.7萬人次，按可比口徑較2025年增長28.9%；實現旅遊花費125.5億元，按可比口徑較2025年增長27.6%，文旅消費活力持續釋放。（21財經）"
+    },
     {
       "id": "mkt:01a0e580-894b-7118-86b0-95d5611f24b7",
       "time": "2026-09-28 08:53:21",
@@ -106932,34 +106956,6 @@
         "其他"
       ],
       "text": "華為餘承東在微博發文表示，智界RX即將正式釋出。同時，家庭智慧旗艦MPV享界V8也將同步開啟預訂。9月28日14:30，直播間見。"
-    },
-    {
-      "id": "mkt:01a0c177-843e-7118-861a-b92f1be1387f",
-      "time": "2026-09-21 08:57:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Typhoon Doksuri forces about 230 flight cancellations in Japan】Typhoon Doksuri disrupted air traffic on the 21st, with roughly 230 flights canceled and about 33,400 passengers affected. Japan Airlines and All Nippon Airways confirmed 188 cancellations; JAL said about 120 domestic flights at Tokyo Haneda and Narita and 15 international Narita flights were canceled, affecting roughly 15,000 and 2,500 passengers respectively. ANA canceled 53 mainly Haneda flights, affecting about 9,700 passengers. Jetstar Japan canceled 42 domestic/international flights at Narita on the 21st (about 6,200 passengers) and three inbound Narita flights scheduled for the 22nd."
-    },
-    {
-      "id": "5104542",
-      "time": "2026-09-21 08:55:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智譜：MaaS平臺將上線資料內容不留存機制】智譜MaaS平臺宣佈，近期將上線資料內容不留存功能，為企業和開發者使用者提供更嚴格的資料隱私保護。資料內容不留存機制旨在減少模型呼叫內容在平臺側的持久化留存。任何使用者均可以申請開通，生效後，智譜MaaS平臺不會對使用者的輸入和輸出進行靜態儲存，資料僅用於完成當次模型呼叫。企業和開發者可透過MaaS控制檯提交開通申請，具體生效時間及適用範圍以平臺確認結果為準。智譜方面表示，這個功能並不意味著任何情形下都不留存資料。Batch API、File API等需要在平臺側持久化儲存任務或檔案的功能不在上述覆蓋範圍內，以及法律法規要求留存、為核查涉嫌違規或濫用行為的情況，平臺可能按有關要求留存相關資料30天及以上。（新浪科技）"
-    },
-    {
-      "id": "te:markets:585150",
-      "time": "2026-09-21 08:55:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Stocks Slip at Start of Week — Australian shares fell 24 points, or 0.3%, to around 8,705 on Monday morning, marking a second subdued session as oil prices rose after Yemen's Houthis struck Saudi Arabia's capital, Riyadh. Locally, Reserve Bank of Australia Governor Michele Bullock struck a hawkish tone in parliament, warning that inflation remains stubbornly high and upside risks are materialising, keeping the risk of further rate hikes alive. Still, losses were capped by a notable rise in U.S. stock futures, while investors focused on the upcoming bilateral summit between U.S. President Trump and Chinese leader Xi Jinping at the White House Thursday. Healthcare, non-energy minerals and industrials led declines, while gains in consumer durables, utilities and technology provided some offset. Two of the four major banks slipped, while Nextdc Ltd. (-1.6%), Xero Ltd. (-1.5%) and Reece Ltd. (-1.3%) posted notable losses. Investors now await Australia’s flash September PMI and August labour-market data later this week."
     }
   ]
 }
