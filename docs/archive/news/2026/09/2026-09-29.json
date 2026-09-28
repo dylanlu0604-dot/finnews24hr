@@ -1,7 +1,72 @@
 {
   "date": "2026-09-29",
-  "count": 464,
+  "count": 471,
   "items": [
+    {
+      "id": "5117390",
+      "time": "2026-09-29 07:23:31",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛考慮明年任命約翰・沃爾德倫為執行長】據報道，高盛集團董事會已討論一項方案，擬由營運長約翰・沃爾德倫接替戴維・所羅門出任執行長，最早於明年生效。報道週一援引不願具名知情人士訊息稱，人事變動可能在2027年末或2028年落地。按照該方案，64歲的所羅門卸任執行長後，大機率會擔任執行董事長約一至兩年。報道稱，高盛董事會可能在未來數月批准這項計劃。57歲的沃爾德倫同時兼任高盛總裁，長期被視作所羅門的繼任人選。董事會成員不希望承擔推遲權力交接帶來的風險。"
+    },
+    {
+      "id": "te:markets:587397",
+      "time": "2026-09-29 07:22:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Rises as US-Iran Uncertainty Persists — Crude oil climbed above $93 per barrel on Tuesday, extending its gains as ongoing uncertainty surrounding US-Iran negotiations outweighed the resumption of oil flows through Saudi Arabia’s East-West pipeline. Iranian officials have reportedly cast doubt on the possibility of reaching an agreement to end hostilities in the Middle East and reopen the Strait of Hormuz before the US midterm elections in November. Recent US-Iran talks in New York produced limited progress, with President Donald Trump rejecting Tehran’s latest proposal to reopen the strategic waterway. However, Trump is reportedly considering sanctions relief for Iran and the unfreezing of funds if meaningful progress is made toward a nuclear agreement. Meanwhile, Saudi Arabia has reportedly restored oil flows to around 3.5 million barrels per day following repairs to a key pipeline that provides an alternative route around Hormuz."
+    },
+    {
+      "id": "5117389",
+      "time": "2026-09-29 07:22:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【理財產品密集下調費率，倒逼行業尋求差異化競爭】9月以來，多家理財公司及商業銀行密集下調理財產品費率，行業再度迎來階段性“降費潮”。梳理機構公告可見，部分機構單次下調產品費率幅度超50個基點（BP），更有機構將多款產品的固定管理費降至零費率或0.01%的準零費率水平。業內分析人士表示，內卷式價格戰並不可持續，激烈競爭正倒逼行業尋求差異化競爭。記者觀察到，費率競爭白熱化的同時，理財公司跨行代銷渠道加速擴容，股份行旗下理財公司強勢領跑，國有大行旗下理財公司亦在加快追趕。（人民財訊）"
+    },
+    {
+      "id": "5117388",
+      "time": "2026-09-29 07:22:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【對等降稅框架公佈，相關上市公司表示積極看待】9月28日，商務部公佈中美貿易理事會和“300億對300億”對等降稅框架有關情況。中美雙方在貿易理事會框架下就300億美元對等降稅框架達成共識，並基於各自市場需要和產業利益，商定了對等降稅產品清單。美方將對玩具、家電、嬰兒用品、廚衛用品、節日禮物等約300億美元自華進口商品降低關稅。記者採訪了多家在玩具、家電、廚衛用品等行業存在對美出口業務的上市公司，雖然目前中美對等降稅的細則尚未公佈，但多家受訪公司表示，相關事項是一個值得關注的邊際利好訊號。（人民財訊）"
+    },
+    {
+      "id": "5117387",
+      "time": "2026-09-29 07:21:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 擬2027年在雲和基礎設施方面支出5180億美元。"
+    },
+    {
+      "id": "mkt:01a0ea53-0b4b-7338-aafb-751268647591",
+      "time": "2026-09-29 07:21:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【Anthropic IPO prospectus shows FY25 revenue $4.59 bln】Anthropic's IPO prospectus reports FY25 revenue of $4.59 bln, up 1,088% YoY. Even after excluding impairment charges mainly linked to prior financing, operating losses exceeded $8.0 bln. As of Dec. 31, 2025, cash, cash equivalents and short-term investments totaled $20.28 bln. Nearly 25% of FY25 revenue came from two customers; the filing warns many of its largest customers lack long-term contracts and could cut or stop spending. The prospectus outlines plans to develop transformative AI technologies. Following recent sell-offs in AI and chip stocks, the IPO will be a further test of investor appetite for AI investments under closer scrutiny."
+    },
+    {
+      "id": "5117386",
+      "time": "2026-09-29 07:20:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智算中心“滿載”與“閒置”並存 新一輪算網建設建立風控閉環】9月上旬，中國銀行宣佈，“十五五”時期將聯合多類算力生態夥伴，共建“算力+”產業金融生態，提供不少於3000億元綜合金融支援，覆蓋100個重點智算中心專案。此前，國家發展改革委表示，據機構測算，“十五五”時期算力網建設將新增直接投資4萬億元。資金加速湧入之際，算力基礎設施建設正駛入快車道。但證券時報記者多方調研發現，火熱行情之下，全國算力中心正呈現“冰火兩重天”的結構性失衡：一邊是高階智算資源集體供不應求，一批運營主體依託差異化定位和技術積累跑出正向迴圈；另一邊則是低端算力大量閒置，在晶片代際、運營主體、區域分佈上呈現多重分化。值得關注的是，與上一輪“重硬體、輕運營”的粗放擴張不同，新一輪算網建設已建立風控閉環，透過“帶訂單批專案+第三方專業運營”模式，從審批源頭遏制新增閒置，透過市場化運營啟用存量資產，讓萬億級算力基建資金實現精準落地。"
+    },
     {
       "id": "5117385",
       "time": "2026-09-29 07:19:33",
