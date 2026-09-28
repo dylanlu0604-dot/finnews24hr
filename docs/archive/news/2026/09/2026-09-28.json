@@ -1,7 +1,94 @@
 {
   "date": "2026-09-28",
-  "count": 281,
+  "count": 290,
   "items": [
+    {
+      "id": "mkt:01a0e56f-6725-7118-86b0-749eb4d66e9b",
+      "time": "2026-09-28 08:34:38",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【Huatai Securities: Within tech prioritize optical communications, PCB and select domestic compute leaders】Huatai Securities' A-share strategy sees the market in a consolidation/recovery phase; prior correction has relieved valuation and trading risk, raising the odds of a pre-holiday rebound, but US jobs and PMI releases over the holiday increase event risk. Positioning should favor high earnings visibility and relatively fully digested valuations: within tech, prioritize optical communications, PCB and select domestic compute leaders and cut exposure to earnings-downgrade risk and pure-theme names. Also consider underallocated chemicals and paper chains where price spreads have improved, and use dividend-yielding assets as portfolio stabilizers. Ahead of the holiday keep fundamentally strong core holdings, trim high-volatility trading positions; stock selection matters more than gross exposure."
+    },
+    {
+      "id": "5115172",
+      "time": "2026-09-28 08:34:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲加沙 造成1人死亡多人受傷】以色列國防軍27日發表宣告稱，以軍當天對巴勒斯坦加沙地帶實施了空襲，目標是一名軍事行動人員。據來自加沙地帶希法醫院的訊息，以軍的空襲擊中了加沙城的一輛汽車，導致一人死亡，多人受傷。加沙地帶衛生部門官員表示，自去年10月加沙停火第一階段協議生效以來，已有1400多名巴勒斯坦人在以色列的襲擊行動中死亡。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0e56e-1d0e-7118-86b0-6b5c82672421",
+      "time": "2026-09-28 08:33:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US Treasury yields continued to climb in early Monday trade; the 2-year yield rose to 4.90% and the 10-year to 5.20%."
+    },
+    {
+      "id": "5115171",
+      "time": "2026-09-28 08:32:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉宏股份：跨境社交電商業務未有與Muse品牌/IP開展聯名、推廣或其他形式的合作】吉宏股份9月28日在互動平臺表示，公司跨境社交電商業務未有與Muse品牌/IP開展聯名、推廣或其他形式的合作。"
+    },
+    {
+      "id": "5115170",
+      "time": "2026-09-28 08:32:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國外匯交易中心（CFETS）：9月24日人民幣匯率指數漲0.39至102.93。"
+    },
+    {
+      "id": "mkt:01a0e56c-dc37-7118-86b0-60b8fd4e4d17",
+      "time": "2026-09-28 08:31:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold extended intraday losses, falling below $4,230/oz."
+    },
+    {
+      "id": "5115169",
+      "time": "2026-09-28 08:31:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4240美元/盎司，日內跌1.20%。"
+    },
+    {
+      "id": "5115168",
+      "time": "2026-09-28 08:31:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4265.30美元/盎司。"
+    },
+    {
+      "id": "5115167",
+      "time": "2026-09-28 08:31:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4270美元/盎司，日內跌1.29%。"
+    },
     {
       "id": "mkt:01a0e56b-afbb-7118-86b0-5afd4a7a0c9c",
       "time": "2026-09-28 08:30:34",

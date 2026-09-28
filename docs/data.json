@@ -1,7 +1,94 @@
 {
-  "updated": "2026-09-28 08:31:20",
-  "count": 11715,
+  "updated": "2026-09-28 08:35:07",
+  "count": 11719,
   "items": [
+    {
+      "id": "mkt:01a0e56f-6725-7118-86b0-749eb4d66e9b",
+      "time": "2026-09-28 08:34:38",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【Huatai Securities: Within tech prioritize optical communications, PCB and select domestic compute leaders】Huatai Securities' A-share strategy sees the market in a consolidation/recovery phase; prior correction has relieved valuation and trading risk, raising the odds of a pre-holiday rebound, but US jobs and PMI releases over the holiday increase event risk. Positioning should favor high earnings visibility and relatively fully digested valuations: within tech, prioritize optical communications, PCB and select domestic compute leaders and cut exposure to earnings-downgrade risk and pure-theme names. Also consider underallocated chemicals and paper chains where price spreads have improved, and use dividend-yielding assets as portfolio stabilizers. Ahead of the holiday keep fundamentally strong core holdings, trim high-volatility trading positions; stock selection matters more than gross exposure."
+    },
+    {
+      "id": "5115172",
+      "time": "2026-09-28 08:34:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲加沙 造成1人死亡多人受傷】以色列國防軍27日發表宣告稱，以軍當天對巴勒斯坦加沙地帶實施了空襲，目標是一名軍事行動人員。據來自加沙地帶希法醫院的訊息，以軍的空襲擊中了加沙城的一輛汽車，導致一人死亡，多人受傷。加沙地帶衛生部門官員表示，自去年10月加沙停火第一階段協議生效以來，已有1400多名巴勒斯坦人在以色列的襲擊行動中死亡。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0e56e-1d0e-7118-86b0-6b5c82672421",
+      "time": "2026-09-28 08:33:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US Treasury yields continued to climb in early Monday trade; the 2-year yield rose to 4.90% and the 10-year to 5.20%."
+    },
+    {
+      "id": "5115171",
+      "time": "2026-09-28 08:32:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉宏股份：跨境社交電商業務未有與Muse品牌/IP開展聯名、推廣或其他形式的合作】吉宏股份9月28日在互動平臺表示，公司跨境社交電商業務未有與Muse品牌/IP開展聯名、推廣或其他形式的合作。"
+    },
+    {
+      "id": "5115170",
+      "time": "2026-09-28 08:32:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國外匯交易中心（CFETS）：9月24日人民幣匯率指數漲0.39至102.93。"
+    },
+    {
+      "id": "mkt:01a0e56c-dc37-7118-86b0-60b8fd4e4d17",
+      "time": "2026-09-28 08:31:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold extended intraday losses, falling below $4,230/oz."
+    },
+    {
+      "id": "5115169",
+      "time": "2026-09-28 08:31:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4240美元/盎司，日內跌1.20%。"
+    },
+    {
+      "id": "5115168",
+      "time": "2026-09-28 08:31:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4265.30美元/盎司。"
+    },
+    {
+      "id": "5115167",
+      "time": "2026-09-28 08:31:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4270美元/盎司，日內跌1.29%。"
+    },
     {
       "id": "mkt:01a0e56b-afbb-7118-86b0-5afd4a7a0c9c",
       "time": "2026-09-28 08:30:34",
@@ -106888,47 +106975,6 @@
         "Impact mixed"
       ],
       "text": "【PBOC to use multiple tools flexibly; liquidity seen stable across month and quarter】Wind data show the PBOC has 272 billion yuan of 7‑day reverse repos maturing this week (Sept 21–24). Experts say the central bank’s liquidity injections are becoming more flexible and targeted and are ample to offset major shocks; funding should remain stable across the month and quarter and market rates are likely to stay steady. Liu Yu, chief economist at Industrial Securities, expects the PBOC to continue a flexible mix of 7‑day, 14‑day and overnight reverse repos to smooth cross‑quarter and cross‑holiday funding‑rate volatility."
-    },
-    {
-      "id": "5104515",
-      "time": "2026-09-21 08:34:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【算力網開啟一體化排程週期 實現Token規模化降本】當算力供給從單卡走向萬卡叢集，算力網排程從聯網走向跨域協同，產業最關心的成本問題也隨之浮出水面。多家券商認為，算力網一體化排程的終極產業紅利，是透過盤活閒置算力、最佳化任務分配、疊加綠電與異構技術優勢，持續降低大模型訓練、推理的單位成本，核心體現為AI Token（詞元）生產成本大幅下行。 目前，運營商算力網排程已形成了成熟降本正規化。 在運營商的排程實踐之外，國產算力軟硬體廠商的深度協同也在落地。不久前，趨境科技與摩爾執行緒達成戰略合作，打造國產化高品質AI Token工廠，相關方案已正式投產。趨境科技Token事業部總經理劉顯赫表示，隨著大模型應用進入規模化商業落地階段，基礎設施的競爭正在從單卡效能轉向系統級Token生產效率。（證券時報）"
-    },
-    {
-      "id": "5104514",
-      "time": "2026-09-21 08:34:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“中國洋浦港”籍船舶總運力破900萬載重噸】據海南日報，9月20日，“遠海龍門”輪入籍“中國洋浦港”船籍港，這是入籍“中國洋浦港”船籍港的第104艘船，標誌著“中國洋浦港”籍船舶總運力歷史性突破900萬載重噸，創下船籍港建設全新里程碑。"
-    },
-    {
-      "id": "5104513",
-      "time": "2026-09-21 08:33:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報95.11美元/桶。"
-    },
-    {
-      "id": "5104512",
-      "time": "2026-09-21 08:32:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威華達控股31.86億港元引入特斯聯為戰略股東】威華達控股（00622.HK）9月21日公告，以每股2.7港元向Nova Scope Ventures Limited發行11.8億股新股，對價約31.86億港元，引入AI戰略股東特斯聯。此次交易被列為公司長期重大投資。交易完成後，特斯聯將成為威華達主要股東，雙方將依靠各自產業及技術優勢達成深度戰略協同，深化國產AI產業佈局。"
-    },
-    {
-      "id": "5104511",
-      "time": "2026-09-21 08:32:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【專家稱貨幣調控有進一步寬鬆空間】專家表示，當前經濟增長、國際收支平衡等多重目標均指向貨幣調控有進一步寬鬆空間。 東方金誠首席宏觀分析師王青表示，後續宏觀政策將向穩增長方向進一步發力，其中包括加快政府債券發行、加快推進8000億元新型政策性金融工具投放等，這些均需要央行在流動性方面給予支援。 “這意味著，短期內包括買斷式逆回購、MLF在內的中期流動性工具整體上有望加量續做，支援政府債券發行和銀行配套貸款投放，這是當前貨幣政策加大逆週期調節力度的重要發力點之一。”王青說。（中證報）"
     }
   ]
 }
