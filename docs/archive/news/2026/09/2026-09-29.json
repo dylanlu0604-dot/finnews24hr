@@ -1,7 +1,43 @@
 {
   "date": "2026-09-29",
-  "count": 198,
+  "count": 202,
   "items": [
+    {
+      "id": "5117238",
+      "time": "2026-09-29 02:08:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "Polymarket 交易員認為，民主黨在 11 月 3 日贏得美國眾議院的機率高達 91%，而共和黨僅為 9%。"
+    },
+    {
+      "id": "5117237",
+      "time": "2026-09-29 02:06:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國官方證實，在費爾福德軍事基地並未發現任何可用的爆炸物。"
+    },
+    {
+      "id": "mkt:01a0e931-c6c4-7338-aaf7-f153ccc3733a",
+      "time": "2026-09-29 02:05:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "British officials confirmed no viable explosive devices were found at RAF Fairford."
+    },
+    {
+      "id": "mkt:01a0e931-87e3-7338-aaf7-ed049aa44e20",
+      "time": "2026-09-29 02:05:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic priced Sonnet 5.5 at $2 per 1M tokens for input, $10 per 1M tokens for output, and $0.20 per 1M tokens for cache reads."
+    },
     {
       "id": "mkt:01a0e931-60da-7338-aaf7-e544322d0339",
       "time": "2026-09-29 02:05:12",

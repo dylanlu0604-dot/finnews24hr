@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-29 02:05:46",
-  "count": 11784,
+  "updated": "2026-09-29 02:09:37",
+  "count": 11786,
   "items": [
+    {
+      "id": "5117238",
+      "time": "2026-09-29 02:08:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "Polymarket 交易員認為，民主黨在 11 月 3 日贏得美國眾議院的機率高達 91%，而共和黨僅為 9%。"
+    },
+    {
+      "id": "5117237",
+      "time": "2026-09-29 02:06:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國官方證實，在費爾福德軍事基地並未發現任何可用的爆炸物。"
+    },
+    {
+      "id": "mkt:01a0e931-c6c4-7338-aaf7-f153ccc3733a",
+      "time": "2026-09-29 02:05:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "British officials confirmed no viable explosive devices were found at RAF Fairford."
+    },
+    {
+      "id": "mkt:01a0e931-87e3-7338-aaf7-ed049aa44e20",
+      "time": "2026-09-29 02:05:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic priced Sonnet 5.5 at $2 per 1M tokens for input, $10 per 1M tokens for output, and $0.20 per 1M tokens for cache reads."
+    },
     {
       "id": "mkt:01a0e931-60da-7338-aaf7-e544322d0339",
       "time": "2026-09-29 02:05:12",
@@ -107419,30 +107455,6 @@
         "國際"
       ],
       "text": "特朗普感謝洛克希德·馬丁公司執行長承建直升機停機坪。"
-    },
-    {
-      "id": "mkt:01a0c525-ca04-7118-8630-5d49ba0417a0",
-      "time": "2026-09-22 02:06:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said the United States and Israeli regimes must recognize that, sooner or later, they will have to accept a region without their evil and criminal presence and that this outcome is unavoidable."
-    },
-    {
-      "id": "mkt:01a0c525-3dcf-7118-8630-510305493108",
-      "time": "2026-09-22 02:05:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【EU agrees to extend Russia sanctions by three years】On the 21st (local time), after protracted talks EU member states agreed to extend Russia sanctions for 36 months, prolonging measures targeting more than 3,000 Russian individuals and entities. Two Russian businessmen were removed from the sanctions list. The extension is longer than the usual 6–12 month renewals; the EU said the move aims to avoid future renewal deadlock caused by member-state disagreements."
     }
   ]
 }
