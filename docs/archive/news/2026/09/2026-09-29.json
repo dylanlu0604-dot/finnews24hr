@@ -1,7 +1,167 @@
 {
   "date": "2026-09-29",
-  "count": 1818,
+  "count": 1837,
   "items": [
+    {
+      "id": "5118341",
+      "time": "2026-09-29 17:31:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta宣佈推出面向小企業的Muse，並擴充套件AI能力。"
+    },
+    {
+      "id": "mkt:01a0ec80-dfb8-7338-ab0b-72d102055a9c",
+      "time": "2026-09-29 17:31:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Indonesia's sovereign wealth fund Danantara plans to open an investment office in Hong Kong to increase its domestic and international allocations."
+    },
+    {
+      "id": "mkt:01a0ec80-cfa0-7338-ab0b-6e0c082cac81",
+      "time": "2026-09-29 17:30:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "INVESCO Nasdaq Technology ETF will halt trading from market open on Sept. 30 until 10:30 that day; redemption requests will be processed normally during the suspension."
+    },
+    {
+      "id": "5118340",
+      "time": "2026-09-29 17:30:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【NASA：“星際客機”修補後接著用，但先別載人】美國國家航空航天局(NASA)28日宣佈，將繼續採用波音公司的“星際客機”執行不載人飛往國際空間站任務，但只有在該飛船“改進設計”後才會開展新的載人飛行任務。就在今年2月，NASA釋出調查報告認定，“星際客機”首次載人試飛任務出現的故障為嚴重程度等級最高的“A類”事故。此前美國“挑戰者號”“哥倫比亞號”太空梭事故均被認定為同類別事故。NASA局長賈裡德·艾薩克曼28日在新聞釋出會上說，到今年12月，“星際客機”將完成改進，展開前往國際空間站的載貨飛行。不過，由於進一步改進安全設計仍需時日，“星際客機”無望在2028年之前展開載人飛行任務。艾薩克曼說，“重啟載人任務之前”，飛船的部分推進器需要“改進設計”。（新華社）"
+    },
+    {
+      "id": "5118339",
+      "time": "2026-09-29 17:30:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行在主要再融資操作中撥款219.05億歐元。"
+    },
+    {
+      "id": "te:markets:587638",
+      "time": "2026-09-29 17:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Serbia",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Serbian Dinar Hits 16-month Low — The Serbian Dinar touched 103.69 against the USD, the lowest since May 2025. Over the past 4 weeks, US Dollar Serbian Dinar gained 2.63%, and in the last 12 months, it increased 3.85%."
+    },
+    {
+      "id": "5118338",
+      "time": "2026-09-29 17:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta拓展面向小企業的Muse功能。"
+    },
+    {
+      "id": "5118337",
+      "time": "2026-09-29 17:29:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迪哲醫藥：公司收到阿斯利康6億美元首付款】迪哲醫藥公告，公司於2026年7月14日與阿斯利康簽署《許可協議》，授予阿斯利康在全球範圍內獨家開發、商業化舒沃哲的權利，協議於2026年8月31日正式生效。近期公司已收到阿斯利康支付的6億美元首付款。"
+    },
+    {
+      "id": "5118336",
+      "time": "2026-09-29 17:29:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【落地上海張園 ALO內地線下首店正式開業】9月28日晚，創立於美國洛杉磯的時尚生活方式品牌ALO，在擁有百年曆史的上海張園正式揭幕其上海首店。從ALO獲悉，這是ALO進入中國市場後舉辦的首場線下活動，也是該品牌的中國內地首家線下限時體驗空間，該門店將於10月1日正式向公眾開放。"
+    },
+    {
+      "id": "mkt:01a0ec7e-eacc-7338-ab0b-6503292eab51",
+      "time": "2026-09-29 17:28:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "Guangfa Nasdaq ETF will suspend trading from market open on Sept. 30 until 10:30 a.m. local time; redemptions will be processed normally during the suspension."
+    },
+    {
+      "id": "mkt:01a0ec7e-e2e7-7338-ab0b-58e6f91bf4a9",
+      "time": "2026-09-29 17:28:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A UK government spokesperson said Israel's occupation of Palestinian territories is illegal."
+    },
+    {
+      "id": "5118335",
+      "time": "2026-09-29 17:28:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST嘉必優：披露其他風險警示進展 提示退市風險】ST嘉必優公告稱，公司因海外市場輿情及監管新要求，生產經營受嚴重影響且預計3個月內無法恢復正常，股票自2026年7月28日起被實施其他風險警示。目前公司正推進供應鏈升級、業務恢復及合成生物學成果轉化，9月完成部分藻油DHA出口訂單交付，入選工信部第一批國家新興產業發展示範基地建立物件初步名單。公司業務恢復時間存在不確定性，若2026年全年收入低於1億元，可能被實施退市風險警示。"
+    },
+    {
+      "id": "5118334",
+      "time": "2026-09-29 17:28:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：將於9月30日開市起至當日10:30停牌】景順長城基金公告，景順長城納斯達克科技市值加權交易型開放式指數證券投資基金（場內簡稱：納指科技ETF景順，程式碼：159509）將於2026年9月30日開市起停牌，自2026年9月30日10:30起復牌。近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，公司提示投資者關注溢價風險，審慎做出投資決策。"
+    },
+    {
+      "id": "mkt:01a0ec7e-2881-7338-ab0b-535bc20dd5b7",
+      "time": "2026-09-29 17:28:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【State Administration of Foreign Exchange: China current account totaled $4.6 tln in 1H, up 16% YoY】SAFE released its 1H 2026 balance of payments report. China’s current account transactions totaled $4.6 tln in 1H, up 16% YoY; the current account surplus was $378bn and its ratio to GDP remained stable. Goods trade grew briskly: trade in goods measured on a BoP basis rose 18% YoY, with AI and green-energy related sectors strong; goods imports rose nearly 20%, outpacing export growth by 2.3ppt. Services trade accelerated: service exports rose 21% YoY, with inbound foreign travel and faster growth in emerging producer‑service exports accounting for 16% and 42% of the services export increase, respectively; service imports were up 7%, keeping China a major services importer. Cross‑border investment income strengthened: outbound investment returns increased steadily, foreign investors’ earnings in China were stable, and the investment income deficit narrowed 24% YoY."
+    },
+    {
+      "id": "5118333",
+      "time": "2026-09-29 17:27:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF廣發：將於9月30日開市起至當日10:30停牌】廣發基金公告，廣發納斯達克100交易型開放式指數證券投資基金（基金程式碼：159941）因二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，為保護投資者利益，將於2026年9月30日開市起停牌，自2026年9月30日10:30起復牌。停牌期間本基金贖回業務照常辦理。"
+    },
+    {
+      "id": "5118332",
+      "time": "2026-09-29 17:27:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州輪胎：貴陽產控轉讓貴陽工投17.3471%股權獲批簽約】貴州輪胎公告，公司此前披露貴陽產控擬透過非公開協議方式向省產發公司轉讓所持貴陽工投約17.35%股權。最新進展為，交易雙方國資審批已完成，並於2026年9月29日簽署協議，省產發公司收購貴陽工投17.3471%股權；完成後將持有貴陽工投100%股權，工商變更登記尚未辦理。"
+    },
+    {
+      "id": "5118331",
+      "time": "2026-09-29 17:27:47",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利對寧德時代H股<3750.HK>的空頭持倉於9月24日從4.91%增至6.32%。"
+    },
+    {
+      "id": "5118330",
+      "time": "2026-09-29 17:27:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【健康元：上海麗珠11.25mg劑型獲批上市】健康元公告，控股子公司麗珠集團的控股子公司上海麗珠收到國家藥品監督管理局核准簽發的《藥品補充申請批准通知書》，注射用醋酸亮丙瑞林微球11.25mg（3個月劑型）獲批上市，審批同意增加11.25mg規格並核發藥品批准文號國藥準字H20269239。"
+    },
     {
       "id": "5118329",
       "time": "2026-09-29 17:27:17",
@@ -167,6 +327,14 @@
         "公司"
       ],
       "text": "【養老理財或再迎擴容 多家理財公司正申請養老理財資質】時隔近三年，養老理財將迎來新一輪擴容。據悉，近期，多家理財公司正申請養老理財資質，包括新機構獲批及新產品發行等，參與機構不僅包含此前已發行相關養老理財產品的理財子公司，也包含此前尚未開展相關業務的新機構。在業內看來，此次養老理財進一步擴容，是金融“五篇大文章”在養老金融領域的進一步落地，也是試點經驗沉澱後的制度性推進，標誌著我國養老理財正由小範圍試點向常態化、規範化運營過渡。同時，養老理財擴容落地後，也將更好匹配居民多元化、多層次的養老財富配置需求。（中國基金報）"
+    },
+    {
+      "id": "5118318",
+      "time": "2026-09-29 17:22:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【任友群會見英國教育部國務大臣雅基·史密斯】日前，教育部副部長任友群在京會見英國教育部國務大臣雅基·史密斯，雙方就深化中英教育交流合作、重啟中英教育部長磋商機制交換意見。 任友群指出，重啟中英教育部長磋商是落實兩國領導人共識的重要行動。近年來，中英教育互動頻密，在高等教育、職業教育、基礎教育、數字與人工智慧教育、語言教學及青年交流等領域合作成果紮實。中方願同英方共同辦好磋商會議，為兩國教育政策交流對話搭建機制化平臺。"
     },
     {
       "id": "5118317",
