@@ -1,7 +1,224 @@
 {
   "date": "2026-09-30",
-  "count": 410,
+  "count": 431,
   "items": [
+    {
+      "id": "5119511",
+      "time": "2026-09-30 04:42:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：或最高新增40億美元迴圈信貸額度，將總規模提升至140億美元。"
+    },
+    {
+      "id": "5119510",
+      "time": "2026-09-30 04:41:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉簽訂80億美元迴圈信貸安排。"
+    },
+    {
+      "id": "mkt:01a0eee7-0e48-7338-ab1d-b45af47fa153",
+      "time": "2026-09-30 04:41:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US API weekly crude inventories for week ended Sep 25: +1.019 mln bbl, vs -1.14 mln expected; prior +1.786 mln."
+    },
+    {
+      "id": "mkt:01a0eee6-fb57-7338-ab1d-aacf2a2b714d",
+      "time": "2026-09-30 04:41:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. API Cushing crude inventories rose 233,000 barrels in the week to Sept. 25; prior increase 2,082,000 barrels."
+    },
+    {
+      "id": "5119509",
+      "time": "2026-09-30 04:41:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉籤立200億美元定期貸款安排，提款可延遲。"
+    },
+    {
+      "id": "mkt:01a0eee6-f544-7338-ab1d-a01890df5d38",
+      "time": "2026-09-30 04:41:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Sep.25) | actual 1019000M | consensus -1140000M | previous 1786000M"
+    },
+    {
+      "id": "mkt:01a0eee6-d750-7338-ab1d-9c8551be4369",
+      "time": "2026-09-30 04:41:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Sep.25) | actual 233000M | previous 2082000M"
+    },
+    {
+      "id": "mkt:01a0eee6-a8e8-7338-ab1d-92e78656de7f",
+      "time": "2026-09-30 04:41:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US refinery crude runs fell 282,000 b/d in the week to Sept. 25, the American Petroleum Institute said; prior week -527,000 b/d."
+    },
+    {
+      "id": "mkt:01a0eee6-7c6a-7338-ab1d-8cd7e75381c8",
+      "time": "2026-09-30 04:41:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Sep.25) | actual -282000M | previous -527000M"
+    },
+    {
+      "id": "mkt:01a0eee6-730b-7338-ab1d-82872a57c4ba",
+      "time": "2026-09-30 04:41:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US API petroleum product imports for the week to Sept. 25: 435,000 b/d; prior -373,000 b/d."
+    },
+    {
+      "id": "mkt:01a0eee6-58dc-7338-ab1d-79f0134a91f2",
+      "time": "2026-09-30 04:41:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Sep.25) | actual 435000M | previous -373000M"
+    },
+    {
+      "id": "5119508",
+      "time": "2026-09-30 04:41:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油協會（API）資料顯示，上週，美國API原油庫存 +299.1萬桶，之前一週 +178.6萬桶。"
+    },
+    {
+      "id": "mkt:01a0eee6-5301-7338-ab1d-70932463253d",
+      "time": "2026-09-30 04:41:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "American Petroleum Institute: U.S. crude oil imports in the week to Sep 25 fell 249,000 barrels, versus a 739,000-barrel decline the prior week."
+    },
+    {
+      "id": "mkt:01a0eee6-35bc-7338-ab1d-6dd34d3f2797",
+      "time": "2026-09-30 04:40:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Sep.25) | actual -249000M | previous -739000M"
+    },
+    {
+      "id": "mkt:01a0eee6-26e0-7338-ab1d-64e91410fb10",
+      "time": "2026-09-30 04:40:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: US heating oil inventories fell 459,000 bbl in the week to Sep 25; prior +435,000 bbl."
+    },
+    {
+      "id": "mkt:01a0eee6-0a61-7338-ab1d-58527819ff66",
+      "time": "2026-09-30 04:40:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Sep.25) | actual -459000M | previous 435000M"
+    },
+    {
+      "id": "mkt:01a0eee6-0738-7338-ab1d-55cdde8fb321",
+      "time": "2026-09-30 04:40:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API U.S. refined product inventories, week to Sept. 25: -286,000 barrels; est +16,000; prior -2,164,000."
+    },
+    {
+      "id": "mkt:01a0eee5-e41a-7338-ab1d-498e80ed12be",
+      "time": "2026-09-30 04:40:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Sep.25) | actual -286000M | consensus 16000M | previous -2164000M"
+    },
+    {
+      "id": "mkt:01a0eee5-d087-7338-ab1d-45fd2bde5b1b",
+      "time": "2026-09-30 04:40:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. week to Sept. 25 API gasoline stocks +2.991 mln bbl vs -0.542 mln bbl expected; prior -2.16 mln bbl."
+    },
+    {
+      "id": "mkt:01a0eee5-b668-7338-ab1d-3cbd4efffe61",
+      "time": "2026-09-30 04:40:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Sep.25) | actual 2991000M | consensus -542000M | previous -2160000M"
+    },
+    {
+      "id": "5119507",
+      "time": "2026-09-30 04:39:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲1.61%。"
+    },
     {
       "id": "mkt:01a0eee3-04f3-7338-ab1d-36bb7dc19052",
       "time": "2026-09-30 04:37:30",
