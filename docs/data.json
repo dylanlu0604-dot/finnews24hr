@@ -1,7 +1,284 @@
 {
-  "updated": "2026-09-29 23:29:57",
-  "count": 11883,
+  "updated": "2026-09-29 23:34:02",
+  "count": 11893,
   "items": [
+    {
+      "id": "5119132",
+      "time": "2026-09-29 23:33:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：除非能源價格長期維持高位，並且明確顯現出向廣義持續性通脹傳導的訊號，否則我認為沒有充分理由繼續加息。"
+    },
+    {
+      "id": "mkt:01a0edcc-7b22-7338-ab14-e8093f4692a3",
+      "time": "2026-09-29 23:33:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England's monetary policy committee member Taylor said he does not see a strong case for further rate hikes unless energy prices remain persistently high and show clearer pass-through to broader inflation persistence."
+    },
+    {
+      "id": "mkt:01a0edcc-6b77-7338-ab14-e7b28e016dd2",
+      "time": "2026-09-29 23:33:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA",
+        "Impact bullish"
+      ],
+      "text": "【Anthropic discloses up to $84.5 bln compute deal with SpaceX】Reuters reports Anthropic disclosed in a confidential IPO filing that it has signed an agreement with SpaceX to pay up to $84.5 bln by 2029 for SpaceX’s NVIDIA-based AI compute resources. Most of the agreement can be terminated with 90 days’ notice. The disclosed cap is substantially higher than amounts in SpaceX’s earlier IPO filing: in May SpaceX said Anthropic agreed to pay $1.25 bln per month under a contract of up to about three years, totaling roughly $45 bln, and containing a 90-day cancellation clause."
+    },
+    {
+      "id": "mkt:01a0edcc-3ffb-7338-ab14-df036c0c3a9f",
+      "time": "2026-09-29 23:33:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 6-week Treasury bill auction on Sep 29: 68.26% of the allotment awarded at the stop-out rate, down from 83.32% previously."
+    },
+    {
+      "id": "5119131",
+      "time": "2026-09-29 23:32:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：是否需要進一步收緊政策，舉證責任在於要有證據證明通脹二次效應確實正在發酵。"
+    },
+    {
+      "id": "mkt:01a0edcc-267a-7338-ab14-d6d998dd21aa",
+      "time": "2026-09-29 23:32:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 6-week Treasury auction to Sept. 29 bid-cover ratio 2.82, prior 3.03."
+    },
+    {
+      "id": "5119130",
+      "time": "2026-09-29 23:32:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯：打擊黑海水域一艘乾貨船隻。"
+    },
+    {
+      "id": "mkt:01a0edcb-fcff-7338-ab14-cfecffefac3b",
+      "time": "2026-09-29 23:32:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US 6-week Treasury auction on Sept. 29: stop-out yield 3.97%, versus 3.87% prior."
+    },
+    {
+      "id": "5119129",
+      "time": "2026-09-29 23:32:40",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣52週期國債，得標利率4.4%，投標倍數3.07。"
+    },
+    {
+      "id": "5119128",
+      "time": "2026-09-29 23:32:37",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.970%，投標倍數2.82。"
+    },
+    {
+      "id": "5119127",
+      "time": "2026-09-29 23:32:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒： 恰當的政策應對應當保持警惕且嚴守紀律。若能源價格波動主要屬於相對價格衝擊，貨幣政策不應機械地對其變動作出反應。倘若通脹壓力積聚且二次效應開始顯現，政策評估就必須調整。 一旦能源風險消退，在某個時點政策就需要轉向。"
+    },
+    {
+      "id": "mkt:01a0edcb-8042-7338-ab14-c40cb9c0b841",
+      "time": "2026-09-29 23:32:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 1-year Treasury auction through Sept. 29: bid-cover ratio 3.07, prior 3.61."
+    },
+    {
+      "id": "mkt:01a0edcb-7e5b-7338-ab14-bfeaa5b9d25c",
+      "time": "2026-09-29 23:32:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 1-year Treasury auction Sep 29 stop-out yield 4.40%, prior 3.98%."
+    },
+    {
+      "id": "mkt:01a0edcb-79fd-7338-ab14-b30b6d4ff639",
+      "time": "2026-09-29 23:32:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. 1-year Treasury auction to Sept. 29 — share of allotment at the stop-out yield 70.21%, prior 34.18%."
+    },
+    {
+      "id": "mkt:01a0edcb-64ee-7338-ab14-ada9f397295c",
+      "time": "2026-09-29 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Bid/Cover Ratio (Sep.29) | actual 3.07 | previous 3.61"
+    },
+    {
+      "id": "mkt:01a0edcb-64db-7338-ab14-a4c46d6f6cef",
+      "time": "2026-09-29 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction Accepted at High (Sep.29) | actual 70.21% | previous 34.18%"
+    },
+    {
+      "id": "mkt:01a0edcb-64d7-7338-ab14-985335ac58a9",
+      "time": "2026-09-29 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 12-Month Bill Auction High Yield Rate (Sep.29) | actual 4.4% | previous 3.98%"
+    },
+    {
+      "id": "mkt:01a0edcb-5661-7338-ab14-96021028d6ff",
+      "time": "2026-09-29 23:32:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England MPC member Taylor said at some point, once energy risks ease, policy will need to move in the opposite direction."
+    },
+    {
+      "id": "mkt:01a0edcb-3af0-7338-ab14-8ce7a4461fe2",
+      "time": "2026-09-29 23:31:54",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England MPC member Taylor said if inf pressures intensify and second-round effects start to emerge, policy assessment will have to be adjusted."
+    },
+    {
+      "id": "mkt:01a0edca-fe87-7338-ab14-84a43b36a3d2",
+      "time": "2026-09-29 23:31:38",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Interfax reports Russia said it struck a dry-cargo ship in the Black Sea."
+    },
+    {
+      "id": "mkt:01a0edca-c990-7338-ab14-7c997f98d03d",
+      "time": "2026-09-29 23:31:25",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of England's Monetary Policy Committee member Taylor said the appropriate policy response is to remain vigilant but restrained."
+    },
+    {
+      "id": "mkt:01a0edca-3196-7338-ab14-76488d5966a5",
+      "time": "2026-09-29 23:30:46",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "GBP/USD has slipped below 1.32, down 0.40% intraday."
+    },
+    {
+      "id": "5119126",
+      "time": "2026-09-29 23:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.12%，報25405.74點。法國股指初步收跌0.41%，義大利股指初步收漲0.08%、銀行指數跌0.19%，英國股指初步收跌0.38%。"
+    },
+    {
+      "id": "5119125",
+      "time": "2026-09-29 23:30:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.02%，報638.57點。歐元區STOXX 50指數初步收漲0.44%，報6328.77點。富時泛歐績優300指數初步收漲0.03%，報2551.31點。"
+    },
+    {
+      "id": "5119124",
+      "time": "2026-09-29 23:29:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE棉花期貨12月合約一度跌4%，失守80美分/磅，創7月30日以來盤中新低。"
+    },
     {
       "id": "5119123",
       "time": "2026-09-29 23:29:12",
@@ -108443,150 +108720,6 @@
         "國際"
       ],
       "text": "美國財政部拍賣六週期國債，得標利率3.870%，投標倍數3.03。"
-    },
-    {
-      "id": "mkt:01a0c9c0-a31c-7118-8649-f3ee7efa3578",
-      "time": "2026-09-22 23:34:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "JPM.N",
-        "Impact bearish",
-        "BAC.N",
-        "S&P500"
-      ],
-      "text": "US large-cap bank shares extended losses: JPMorgan (JPM.N) fell 4.1%, Bank of America (BAC.N) fell 3.1%, Wells Fargo (WFC.N) fell 4.2%, Citigroup (C.N) fell 3.2%, Goldman Sachs (GS.N) fell 1.9%, Morgan Stanley (MS.N) fell 3.6%."
-    },
-    {
-      "id": "5108276",
-      "time": "2026-09-22 23:33:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，沙特阿美計劃進行重組以新設天然氣部門，並正考慮對旗下業務板塊進行新的上市。"
-    },
-    {
-      "id": "5108275",
-      "time": "2026-09-22 23:33:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "丹麥首相就特朗普格陵蘭協議表態：今日我們簽署的是一份可永久生效的協議。"
-    },
-    {
-      "id": "5108274",
-      "time": "2026-09-22 23:33:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國能源部長：面向低收入家庭的能源券支援計劃將得到延期。"
-    },
-    {
-      "id": "mkt:01a0c9bf-c5ac-7118-8649-eca0ad1e2943",
-      "time": "2026-09-22 23:33:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "US 6-week Treasury bill auction to Sep 22: stop-out yield 3.87% vs 3.85% prior (+2bps)."
-    },
-    {
-      "id": "mkt:01a0c9bf-a213-7118-8649-e2e54d5b0cbc",
-      "time": "2026-09-22 23:32:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "U.S. 6-week Treasury bill auction Sept. 22 — 83.32% of awards at the stop-out rate, prior 35.19%."
-    },
-    {
-      "id": "mkt:01a0c9bf-9a7a-7118-8649-dd550b9681f7",
-      "time": "2026-09-22 23:32:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US 6-week Treasury auction on Sep 22: bid-cover ratio 3.03, prior 3.16."
-    },
-    {
-      "id": "5108273",
-      "time": "2026-09-22 23:32:44",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國大型銀行股價下跌】花旗集團股價下跌3.2%，高盛集團股價下跌1.9%，摩根士丹利股價下跌3.6%。摩根大通股價下跌4.1%，美國銀行股價下跌3.1%，富國銀行股價下跌4.2%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202609223881597768",
-      "time": "2026-09-22 23:32:43",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國財政部六週期國庫券中標利率為3.870%，最高利率獲配比例為83.32%；投標倍數3.03，上次拍賣為3.16。"
-    },
-    {
-      "id": "5108272",
-      "time": "2026-09-22 23:32:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國反恐警方：兩名男子因涉嫌策劃針對曼徹斯特地區猶太社群的恐怖活動而被捕。"
-    },
-    {
-      "id": "5108271",
-      "time": "2026-09-22 23:32:07",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家移民管理局：不斷提高引才引智層次水平 為推進新一代智慧製造、發展先進製造業持續注入動力活力】國家移民管理局黨組22日召開會議。會議強調，要積極服務發展先進製造業。要強化引才引智制度供給，圍繞以先進製造業為重點的企業用才需求，加大與相關部門溝通協調力度，研究出臺更多服務引才引智的移民出入境便利政策措施，不斷提高引才引智層次水平，為推進新一代智慧製造、發展先進製造業持續注入動力活力。要營造高效便捷通關環境。進一步最佳化口岸簽證、過境免籤、區域性入境免籤等政策，因地制宜支援國家重大戰略、區域發展戰略以及開發開放平臺建設，加快推進快捷通關、智慧通關等創新模式，助力做優傳統產業、壯大新興產業、培育未來產業。要最佳化移民管理政務服務。推進12367服務平臺建設，在出入境管理、群眾辦證辦事等方面，不斷創新移民管理服務舉措，助力營造先進製造業良好發展環境。"
-    },
-    {
-      "id": "5108270",
-      "time": "2026-09-22 23:31:40",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.22%，歐洲斯托克指數上漲0.29%，歐元區藍籌股指數上漲0.18%。法國CAC 40指數上漲0.23%，西班牙IBEX指數上漲0.34%，英國富時100指數下跌0.15%，德國DAX指數上漲0.1%。"
-    },
-    {
-      "id": "mkt:01a0c9bd-8ef1-7118-8649-d6865c87f95a",
-      "time": "2026-09-22 23:30:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said a deal over Greenland will make the relationship more secure."
-    },
-    {
-      "id": "5108269",
-      "time": "2026-09-22 23:30:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：格陵蘭島交易之後，雙邊關係將會穩固得多。"
-    },
-    {
-      "id": "5108268",
-      "time": "2026-09-22 23:30:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【亞運會韓國先遭國歌放錯又被放鴿子】愛知·名古屋亞運會正在進行中，韓國代表團先後經歷“賽場錯放國歌”、“賽前訓練沒車來接”。今天（9月22日），韓國代表團團長面對媒體公開抱怨。日本亞運會組委會則表示：“放錯國歌是‘嚴重錯誤’，沒派車只是‘人為失誤’，住宿和交通安排總體運轉正常，而且我們真的會道歉……”（CCTV國際時訊）"
     }
   ]
 }
