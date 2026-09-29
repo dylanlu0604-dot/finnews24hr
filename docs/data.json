@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-29 10:29:37",
-  "count": 11765,
+  "updated": "2026-09-29 10:33:29",
+  "count": 11767,
   "items": [
+    {
+      "id": "5117653",
+      "time": "2026-09-29 10:31:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "截至早盤收盤，日經225指數跌0.9%，東證指數跌1.1%。"
+    },
+    {
+      "id": "5117652",
+      "time": "2026-09-29 10:31:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報120750元/噸，較上日16:30價格下跌1000元/噸。"
+    },
+    {
+      "id": "5117651",
+      "time": "2026-09-29 10:30:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《國際發展合作的中國實踐》報告第8期“藍色經濟”篇釋出】今天（29日），國家國際發展合作署正式釋出了《國際發展合作的中國實踐》（第8期）“藍色經濟”篇，這是我國援外實踐日益豐富拓展的又一寫照。據瞭解，“藍色經濟”篇報告充分展現了我國深度參與全球海洋治理，幫助發展中國家增強藍色經濟領域可持續發展能力的實踐探索，提出支援藍色經濟國際發展合作的未來展望。近年來，國家國際發展合作署創辦了《國際發展合作的中國實踐》系列報告，全面介紹中國開展對外援助和國際發展合作的政策理念、實踐成效和前景展望。"
+    },
+    {
+      "id": "5117650",
+      "time": "2026-09-29 10:30:05",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛表示，蘇德巍辭去執行長一職“尚無明確時間表”。"
+    },
+    {
+      "id": "5117649",
+      "time": "2026-09-29 10:29:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念震盪反彈 邁信林漲超18%】算力租賃概念盤中震盪反彈，邁信林20cm漲停，此前南威軟體6天4板，創業黑馬、佳華科技、湖北廣電、盈峰環境、東方材料等跟漲。"
+    },
     {
       "id": "5117648",
       "time": "2026-09-29 10:28:25",
@@ -19,6 +60,15 @@
         "Impact bearish"
       ],
       "text": "HK-listed Xiyin-W (00625.HK) shares fell over 10% intraday. The company reported 1H net revenue of $20.1 bln, up 1% YoY."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609293886271648",
+      "time": "2026-09-29 10:28:09",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【中國人民銀行：加強財政金融協同 進一步降低服務業融資成本】中國人民銀行信貸市場司副司長車士義29日在新聞釋出會上表示，加強財政金融協同，透過再貸款和財政貼息政策疊加，進一步降低服務業融資成本。今年上半年，地方法人金融機構新發放中小微民營企業貸款加權平均利率較去年同期下降了0.4個百分點。"
     },
     {
       "id": "5117647",
@@ -107109,40 +107159,6 @@
         "Importance 1"
       ],
       "text": "Corn Holds Near 3-Year Peak — Corn futures held above $5.4 per bushel after hitting their highest level since July 2023, supported by strong US export demand, tightening global supplies and expectations for further agricultural trade with China. US corn export inspections jumped 40% year-on-year to 1.94 million tonnes in the week ended September 17, exceeding market expectations and lifting 2026/27 shipments further ahead of last year’s pace. Heavy Midwest rains are also delaying harvest in parts of the region, limiting the near-term flow of new supplies, although overall harvesting remains slightly ahead of the five-year average. Global fundamentals remain supportive, with USDA projecting a nearly 30-million-tonne shortfall between world corn production and consumption in 2026/27, the largest deficit in more than three decades. Traders are also watching the Trump-Xi meeting this week for potential progress on US agricultural purchases, while continued disruptions to Black Sea grain trade are adding support."
-    },
-    {
-      "id": "5106700",
-      "time": "2026-09-22 10:32:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國產業通商資源部長：韓國的投資計劃需經美國外國投資委員會審查批准。"
-    },
-    {
-      "id": "5106699",
-      "time": "2026-09-22 10:32:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "七國集團宣告：伊朗的所作所為恐破壞國際貿易，引發全球經濟動盪。"
-    },
-    {
-      "id": "5106698",
-      "time": "2026-09-22 10:32:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "七國集團宣告：伊朗應受譴責的行徑構成了危險的升級態勢，並有進一步加劇衝突的風險。"
-    },
-    {
-      "id": "5106697",
-      "time": "2026-09-22 10:32:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "七國集團宣告：呼籲胡塞武裝立即停止針對民用航運的一切軍事行動、威脅及襲擊。"
     }
   ]
 }
