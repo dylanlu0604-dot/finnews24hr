@@ -1,7 +1,156 @@
 {
-  "updated": "2026-09-29 17:50:44",
-  "count": 12266,
+  "updated": "2026-09-29 17:54:35",
+  "count": 12271,
   "items": [
+    {
+      "id": "5118384",
+      "time": "2026-09-29 17:53:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國人民銀行：下調抵押補充貸款（PSL）利率0.25個百分點。一年期抵押補充貸款利率從1.75%降至1.5%，更好激勵政策性銀行支援實體經濟、服務國家戰略。"
+    },
+    {
+      "id": "mkt:01a0ec95-9bd0-7338-ab0b-d77e148ba074",
+      "time": "2026-09-29 17:53:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "PBOC cut the mortgage-supplementary lending (PSL) rate by 25 bps, lowering the one-year PSL rate to 1.50% from 1.75%. The central bank said the reduction aims to better incentivize policy banks to support the real economy and national strategic priorities."
+    },
+    {
+      "id": "mkt:01a0ec95-5889-7338-ab0b-c85ffbf86c19",
+      "time": "2026-09-29 17:53:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "PBOC adjusts and refines several monetary policy tools."
+    },
+    {
+      "id": "5118383",
+      "time": "2026-09-29 17:53:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國人民銀行調整完善若干貨幣政策工具。（中國人民銀行）"
+    },
+    {
+      "id": "mkt:01a0ec94-c952-7338-ab0b-c2b597a34517",
+      "time": "2026-09-29 17:52:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Thailand targets short-term debt to address rising bond volatility】Amid global bond market volatility driven by rising US Treasury yields, Thailand may shift toward short-term financing to meet government borrowing needs for fiscal 2027, the Public Debt Management Office director-general Jindarat said. The office is weighing greater issuance of treasury bills, term loans and promissory notes and is assessing investor demand across maturities; new issuance may be shorter-dated. It may initially raise and refinance via short-term instruments and convert to longer-term securities when market conditions improve; financing for SOE projects and programs under emergency decree may likewise begin as term loans or promissory notes to better match project timelines."
+    },
+    {
+      "id": "5118382",
+      "time": "2026-09-29 17:52:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【清華大學經濟管理學院顧問委員會新增3人：黃仁勳、蘇姿豐、百達銘】據清華大學經濟管理學院顧問委員會官方釋出的資訊顯示，今年顧問委員會新增委員3人，新增接任委員5人。3位新增委員分別是英偉達創始人兼執行長黃仁勳（Jensen Huang），AMD董事會主席兼執行長蘇姿豐（Lisa Su），瑞士百達集團高階管理合夥人百達銘（Marc Pictet）。5位新增接任委員分別是寶馬集團董事長聶科維（Milan Nedeljković），沃爾瑪公司總裁兼執行長方威翰（John Furner），可口可樂公司執行長柏瑞凱（Henrique Braun），泛大西洋資本集團聯席總裁、全球成長型股權投資負責人馬丁·埃斯科瓦里（Martín Escobari），bp集團執行長梅格·奧尼爾（Meg O‘Neill）。上述5位接任委員所在公司的前任都曾是學院顧問委員會委員，因工作變動不再擔任。"
+    },
+    {
+      "id": "te:economy:587652",
+      "time": "2026-09-29 17:52:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belgium",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Belgium Inflation Rate Climbs to Highest Since 2023 — Belgium’s annual inflation rate climbed to 4.69% in September 2026, its highest level since May 2023, from 3.97% in the previous month. Energy inflation accelerated sharply to 24.4% from 16.5%, while inflation for housing and utilities surged to 9.5% from 6.9%. Transport inflation also increased to 7% from 5.3%. Additional upward pressure came from higher price growth in health (6.7% vs 6.6%), information and communication (1.9% vs 1.6%), and restaurants and hotels (5.1% vs 3.7%). In contrast, inflation in recreation, sports and culture eased to 8.9% from 9.2%, while food prices were unchanged from a year earlier, following a 0.3% increase in August. On a monthly basis, consumer price growth remained broadly stable, with prices rising 0.39% after a 0.41% increase in August."
+    },
+    {
+      "id": "5118381",
+      "time": "2026-09-29 17:52:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九華旅遊：聘任張國祥為副總經理 擬投建多個改造專案】九華旅遊公告稱，公司第九屆董事會第十七次會議審議透過多項議案：聘任張國祥為公司副總經理，任期與本屆董事會一致；擬以自有資金投建九華山百歲宮纜車升級改造專案，總投資估算1.12億元；投建五溪山色大酒店C區改造專案，總投資估算706.88萬元；投建九華山中心大酒店北樓客房升級改造專案，總投資估算5150.00萬元；擬透過公開招標實施勞務外包服務集中採購，年度交易金額上限2165萬元，服務期3年。會議同意於2026年10月15日召開2026年第二次臨時股東會。"
+    },
+    {
+      "id": "5118380",
+      "time": "2026-09-29 17:52:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九華旅遊：董事會透過1.12億元纜車升級專案】九華旅遊公告，公司擬以自有資金投資建設九華山百歲宮纜車升級改造專案，專案總投資估算為人民幣1.12億元。2026年9月29日，公司第九屆董事會第十七次會議審議透過該議案，本專案已完成可行性研究、立項備案等工作，無需提交股東會審議。"
+    },
+    {
+      "id": "5118379",
+      "time": "2026-09-29 17:51:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大唐電信：轉讓合同權益獲董事會透過，9935.22萬元】大唐電信公告，公司擬向關聯方聯芯科技有限公司轉讓《研發樓認購協議》及《研發樓認購補充協議》的部分合同權益，轉讓價格9935.22萬元。2026年9月29日，公司董事會審議透過相關議案，關聯董事迴避表決；本次交易尚需提交股東會審議。"
+    },
+    {
+      "id": "5118378",
+      "time": "2026-09-29 17:51:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數<.NSEI>指示性點位下跌2.49%，延續盤前競價階段0.42%的跌幅。"
+    },
+    {
+      "id": "5118377",
+      "time": "2026-09-29 17:50:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【津藥藥業：股票交易異常波動 上半年業績下滑】津藥藥業公告稱，公司股票於2026年9月28日、9月29日連續兩個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動情形。經自查並向控股股東、間接控股股東函詢，截至公告披露日，公司及控股股東不存在應披露而未披露的重大事項。上海上實及上實投發意向出讓合計持有的上海琉璃光100%股份，相關國有股權已於2026年9月24日公開掛牌披露，目前尚無意向受讓方。公司2026年半年度實現營業收入13.13億元，同比下降17.33%；歸母淨利潤4317.35萬元，同比下降12.43%；扣非歸母淨利潤4286.81萬元，同比下降63.24%。敬請投資者注意投資風險。"
+    },
+    {
+      "id": "5118376",
+      "time": "2026-09-29 17:50:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST華幸：股票交易異常波動 提示重整等相關風險】*ST華幸公告稱，公司股票於2026年9月24日、9月28日、9月29日連續三個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動情形。經自查及向控股股東、實控人核實，除已披露的簽署重整投資協議事項外，不存在其他應披露未披露的重大事項，董監高、控股股東及實控人在異動期間未買賣公司股票。公司已與相關方簽署重整投資協議，存在投資人履約風險；廊坊中院受理預重整不代表正式受理重整申請，公司是否進入重整程式存在重大不確定性。公司2025年末歸母淨資產為負，已被實施退市風險警示及其他風險警示，2026年上半年淨虧損46.92億元，存在終止上市風險。"
+    },
+    {
+      "id": "te:economy:587650",
+      "time": "2026-09-29 17:50:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Botswana",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Botswana GDP Growth Hits Near 5-Year High — Botswana’s economy grew by 8.7% yoy in Q2 2026, its fastest pace since Q3 2021, accelerating from 3.5% in the prior period. The expansion was largely driven by an 81.7% surge in mining & quarrying, reflecting strong growth in the diamond mining sub-industry. Diamond production jumped 94.7% on higher processing volumes at the Orapa and Jwaneng mines and improved recovered grades. Coal output rose 27.8% and copper 4.0%, while soda ash and salt production fell 68.0% following a planned maintenance shutdown at the Botash plant. Other sectors also expanded, led by professional, scientific & technical activities (3.8%); accommodation & food services (3.4%); education (3.3%) and wholesale & retail trade (3.1%). Conversely, output delined sharply for agriculture, forestry & fishing (-23%) and diamond traders (-27.9%). On a quarterly basis, the GDP rose by 1.3% in Q2, following a 9.2% expansion in the prior quarter."
+    },
+    {
+      "id": "5118375",
+      "time": "2026-09-29 17:50:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國大幅放鬆新車油耗標準】美國交通部9月28日出臺針對乘用車和輕型卡車的燃油新標，推翻上屆政府政策，大幅放鬆油耗標準。美國媒體分析認為，此舉將放緩美國汽車產業電動化轉型步伐，恐有損美國車企長期競爭力。（CCTV國際時訊）"
+    },
     {
       "id": "5118374",
       "time": "2026-09-29 17:50:05",
@@ -111717,102 +111866,6 @@
         "國際"
       ],
       "text": "伊朗高階官員表示：伊朗的提案已於9月16日透過調解人遞交給美國。"
-    },
-    {
-      "id": "te:markets:585646",
-      "time": "2026-09-22 17:54:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Falls as Markets Weigh Middle East Risks — The euro weakened to $1.145, its lowest level since late July, as investors assessed developments in the Middle East while the USD remained supported by expectations of further Federal Reserve rate hikes. Brent crude resumed its decline after reports that Iran had offered to reopen the Strait of Hormuz within seven days if Washington lifts its military blockade of Iranian ports. Meanwhile, ECB’s Chief Economist Philip Lane warned that a new wave of higher energy prices could keep Eurozone inflation elevated for longer than policymakers initially anticipated. He said the shock should result in higher and more persistent inflation before a decline toward the ECB’s target from mid-2027. Following this month’s second rate hike since the Iran war sent energy costs soaring, ECB officials have begun laying the groundwork for further tightening. Eurozone inflation is expected to reach around 4% in coming months, with the ECB projecting 3% this year and 2.5% next year, well above its 2% target."
-    },
-    {
-      "id": "5107512",
-      "time": "2026-09-22 17:54:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數漲幅擴大至0.5%。"
-    },
-    {
-      "id": "5107511",
-      "time": "2026-09-22 17:52:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗高階官員：伊朗代表團已獲充分授權，可在紐約推動恢復與美國的外交接觸。若美國採取切實行動，德黑蘭歡迎重啟外交。"
-    },
-    {
-      "id": "5107510",
-      "time": "2026-09-22 17:52:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守95美元/桶，日內跌1.40%。"
-    },
-    {
-      "id": "5107509",
-      "time": "2026-09-22 17:52:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度HDFC銀行指示性價格下跌2.66%，回吐拍賣前0.2%的漲幅。"
-    },
-    {
-      "id": "5107508",
-      "time": "2026-09-22 17:52:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守90美元/桶，日內跌2.57%。"
-    },
-    {
-      "id": "te:markets:585644",
-      "time": "2026-09-22 17:52:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "UK Natural Gas Prices Fall to 3-Week Low — UK natural gas prices fell below 178 pence per therm, the lowest in three weeks, after reports that Iran could reopen the Strait of Hormuz if the US lifted its blockade of Iranian ports. Japan’s Kyodo News reported that Tehran had proposed reopening the waterway within seven days, potentially providing a basis for diplomatic discussions at the UN General Assembly. President Donald Trump is due to address the assembly and may meet Iranian President Masoud Pezeshkian. Meanwhile, reports of increasing numbers of LNG tankers and crude carriers finding alternative routes out of the Gulf have also helped ease supply concerns. Still, supply risks remain elevated, with Europe's gas storage levels remaining below the seasonal average at a time when they would typically be close to maximum capacity. Also, Norwegian gas exports remained constrained by maintenance."
-    },
-    {
-      "id": "te:markets:585643",
-      "time": "2026-09-22 17:52:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Portugal",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Portugal Hit 18-year High — PSI increased to 9683.00 Index Points, the highest since June 2008. Over the past 4 weeks, Portuguese Stock Index gained 3.04%, and in the last 12 months, it increased 23.89%."
-    },
-    {
-      "id": "5107507",
-      "time": "2026-09-22 17:51:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【第七屆小米駭客馬拉松收官，AI 加速走進真實生活】9 月 22 日，由小米集團技術委員會主辦的 2026 小米第七屆駭客馬拉松頒獎典禮在北京小米科技園舉行。自 8 月 1 日啟動以來，本屆賽事歷經 48 小時極限開發、專案路演、終評等環節，共吸引 284 支隊伍報名，近千名選手參與，賽事規模創歷屆新高。在集團內控內審部監督下，經大眾評委初評、黑馬專家組複評及終評，小米賽區和高校賽區分別評選出一等獎 1 個、二等獎 2 個、三等獎 3 個、優秀獎 6 個；小米賽區另評選出繁星計劃特別獎 5 個、最佳人氣獎 1 個。同時，本屆大賽新增最佳 MiMo 應用獎，共評選出3個獲獎專案。（小米技術）"
-    },
-    {
-      "id": "5107506",
-      "time": "2026-09-22 17:51:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國信通院副院長魏亮出席第四屆全球人工智慧倫理論壇】2026年9月14-17日，第四屆全球人工智慧倫理論壇在沙烏地阿拉伯利雅得舉行。本屆論壇由聯合國教科文組織與沙烏地阿拉伯王國共同主辦，主題為“推動人工智慧倫理治理的全球合作轉型”。中國資訊通訊研究院副院長魏亮受邀參會並在“實體人工智慧的倫理影響”分論壇進行主旨演講。魏亮以《中國人形機器人科技倫理風險治理實踐》為題，介紹了我國人形機器人產業發展現狀，以及對個人、社會、可持續發展帶來的影響，詳細闡述了我國在人形機器人科技倫理審查制度建設、標準制定、行業自律等方面治理實踐，並提出人形機器人治理建議，呼籲各方深化聯合國框架下協同合作，造福人民，惠及世界。（中國信通院）"
     }
   ]
 }
