@@ -1,7 +1,79 @@
 {
   "date": "2026-09-29",
-  "count": 2364,
+  "count": 2370,
   "items": [
+    {
+      "id": "mkt:01a0eddb-2378-7338-ab15-703dcd23b87a",
+      "time": "2026-09-29 23:49:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude fell more than $1 intraday, last at $89.42/bbl and $96.03/bbl respectively."
+    },
+    {
+      "id": "5119146",
+      "time": "2026-09-29 23:48:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：通脹持續高於 2% 會損害公信力。"
+    },
+    {
+      "id": "mkt:01a0edda-5949-7338-ab15-6aa808eb3740",
+      "time": "2026-09-29 23:48:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "DOE to release up to 40 mln barrels from the U.S. Strategic Petroleum Reserve."
+    },
+    {
+      "id": "mkt:01a0edda-0bcf-7338-ab15-63737a202eb4",
+      "time": "2026-09-29 23:48:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【BARCLAYS: US 30-year Treasury yield could reach 6%】BARCLAYS said if an AI-driven investment boom sustains a pickup in US productivity, the 30-year US Treasury yield could reach 6%. Stronger productivity could allow faster economic growth and prompt markets to raise long-term expectations for Federal Reserve policy, pushing up long-dated yields. The 30-year yield has risen above 5.61%, its highest level since 2002."
+    },
+    {
+      "id": "5119145",
+      "time": "2026-09-29 23:47:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源部宣佈釋放戰略石油儲備（SPR），擬從戰略石油儲備投放至多 4000 萬桶原油。"
+    },
+    {
+      "id": "5119144",
+      "time": "2026-09-29 23:46:23",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通未來十年將投放10億美元資金到美國密歇根製造業。"
+    },
     {
       "id": "5119143",
       "time": "2026-09-29 23:45:21",
