@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-30 05:01:58",
-  "count": 11853,
+  "updated": "2026-09-30 05:05:46",
+  "count": 11854,
   "items": [
+    {
+      "id": "5119522",
+      "time": "2026-09-30 05:03:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際金價漲約1.6%，一度重新整理日高至4180美元上方】週二（9月29日）紐約尾盤，現貨黃金漲1.57%，報4179.95美元/盎司，亞太盤初以來持續擴大漲幅。現貨白銀漲1.34%，報61.4594美元/盎司。COMEX銅期貨漲0.43%，報6.6620美元/磅。在美股時段交易的費城金銀指數收漲0.36%，報366.23點。在全球市場全天交易的紐約證交所ARCA金礦開採商指數漲0.79%，報2548.42點。在美股時段交易的原材料指數收跌0.73%，金屬與礦業指數收跌0.95%。State Street金屬與礦業ETF收跌1.44%，報103.90美元。"
+    },
+    {
+      "id": "mkt:01a0eefa-2365-7338-ab1d-dd5837ed5150",
+      "time": "2026-09-30 05:02:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish",
+        "SPCX.O",
+        "Impact mixed",
+        "Copper"
+      ],
+      "text": "Musk says SpaceX (SPCX.O) and Tesla (TSLA.O) target 200 GW of annual solar production."
+    },
+    {
+      "id": "5119521",
+      "time": "2026-09-30 05:02:23",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克：SpaceX正與特斯拉攜手，目標實現每年200吉瓦的太陽能產能。"
+    },
     {
       "id": "te:markets:587837",
       "time": "2026-09-30 04:57:20",
@@ -108389,25 +108423,6 @@
         "Impact bearish"
       ],
       "text": "【CME's Nvidia GPU compute futures delayed as CFTC extends review; October launch at risk】Futures tied to Nvidia GPU rental prices, viewed as a step toward making AI compute an investable asset class, are facing regulatory headwinds, The Information reports. CME had targeted an early-October launch but now expects it will not secure CFTC approval in time after the regulator extended its review to study contract mechanics and solicit broader industry input. The CFTC said compute-finance markets could support US AI development but warned the underlying market is fragmented and opaque."
-    },
-    {
-      "id": "5108586",
-      "time": "2026-09-23 05:03:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際金價漲約0.4%，白銀漲約1.6%，紐約銅漲超1.9%一度逼近6.93美元】週二（9月22日）紐約尾盤，現貨黃金漲0.38%，報4359.95美元/盎司，全天呈現出V形反轉、北京時間16:33跌至4291.69美元重新整理日低。現貨白銀漲1.59%，報67.0829美元/盎司。COMEX銅期貨漲1.96%，報6.8950美元/磅，整體持續上漲，03:37曾達到6.9285美元，逼近8月6日盤中頂部6.96美元。在美股時段交易的費城金銀指數收漲3.58%，報403.65點。在全球市場全天交易的紐約證交所ARCA金礦開採商指數漲2.83%，報2787.06點。在美股時段交易的原材料指數收漲2.08%，金屬與礦業指數收漲1.36%。State Street金屬與礦業ETF收漲2.70%，報111.94美元。"
-    },
-    {
-      "id": "mkt:01a0caed-f6c5-7118-8651-7b2b67037ec8",
-      "time": "2026-09-23 05:03:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CME.O"
-      ],
-      "text": "The Information reports the CFTC has extended its review of CME Group's planned launch of GPU futures."
     }
   ]
 }
