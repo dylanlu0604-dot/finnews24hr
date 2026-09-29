@@ -1,7 +1,71 @@
 {
   "date": "2026-09-29",
-  "count": 876,
+  "count": 882,
   "items": [
+    {
+      "id": "mkt:01a0eb28-4cb8-7338-aaff-b4a246ab1e4c",
+      "time": "2026-09-29 11:14:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【CCPIT: Global trade-friction index remained elevated in July】The China Council for the Promotion of International Trade reported its global trade-friction index at 101 in July 2026, remaining at a high level. The value of trade-restrictive measures fell 18.7% YoY and 2.2% MoM, reflecting a base effect from intensive tariff measures by the US, EU and India a year earlier. Global trade remedy investigations dropped to 17 in July from 68 in June."
+    },
+    {
+      "id": "mkt:01a0eb26-d820-7338-aaff-a9d5cf8244ea",
+      "time": "2026-09-29 11:13:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【OPEC secretary-general says Algiers Accord still important for oil-market stability】OPEC Secretary-General Haitham Al Ghais said in Algiers the Algiers Accord, reached 10 years ago, remains important for oil-market stability and reflects the value of member solidarity. After meeting Algerian President Tebboune, Al Ghais said market stability depends not only on data but on confidence, mechanisms and members’ willingness to act together in critical moments. He added that investment, supply security and orderly economic conditions are closely tied to consensus among OPEC+ members and that dialogue is now more necessary than ever."
+    },
+    {
+      "id": "mkt:01a0eb26-7be3-7338-aaff-a7665ccbe942",
+      "time": "2026-09-29 11:12:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【Leapmotor partners with Volcano Engine to embed TRAE into in-house R&D system】Volcano Engine said on Sept 29 that Leapmotor will integrate TRAE into its company-wide in-house R&D system."
+    },
+    {
+      "id": "5117692",
+      "time": "2026-09-29 11:12:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【零跑汽車與火山引擎達成合作】9月29日，據火山引擎訊息，零跑汽車與火山引擎合作，將TRAE嵌入其全域自研體系。"
+    },
+    {
+      "id": "mkt:01a0eb25-782e-7338-aaff-9c961e4d166a",
+      "time": "2026-09-29 11:11:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "06181.HK",
+        "Impact bearish"
+      ],
+      "text": "【Haitong International cuts Laopu Gold PT 21% to HK$435, keeps Outperform】Haitong International cut Laopu Gold (06181.HK) target price 21% to HK$435 and maintained an Outperform rating. It forecasts 2026–28 revenue of CNY 32.255/30.263/32.896 bln (YoY +18.1%/‑6.2%/+8.7%) and adjusted net profit of CNY 6.823/6.443/7.127 bln. The broker cited a high base, weak consumer demand and gold-price volatility as drivers of operational uncertainty that prompted the PT cut while leaving the rating unchanged."
+    },
+    {
+      "id": "5117691",
+      "time": "2026-09-29 11:11:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北省荊州市人大常委會原黨組書記周昌俊被雙開】經查，周昌俊喪失理想信念，背棄初心使命，對組織不忠誠不老實，對抗組織審查；違反組織原則，不按規定報告個人有關事項，在組織函詢時不如實說明問題，在幹部選拔任用工作中為他人謀取利益並收受財物；廉潔底線失守，違規收受禮品、禮金，長期與管理服務物件賭博；不正確履行財政資金管理職責，造成不良影響；目無法紀，與私營企業主大搞權錢交易，利用職務便利為他人在專案承攬、土地出讓、職務晉升等方面謀利，並非法收受鉅額財物。"
+    },
     {
       "id": "5117690",
       "time": "2026-09-29 11:08:39",
