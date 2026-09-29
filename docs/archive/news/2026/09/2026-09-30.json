@@ -1,7 +1,2860 @@
 {
   "date": "2026-09-30",
-  "count": 53,
+  "count": 367,
   "items": [
+    {
+      "id": "5119460",
+      "time": "2026-09-30 04:07:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格：將安排公司董事會審查審計機構出具的報告。"
+    },
+    {
+      "id": "5119459",
+      "time": "2026-09-30 04:07:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格：科技企業已同意就人工智慧建立“健全”內部控制機制與多層審計體系。"
+    },
+    {
+      "id": "5119458",
+      "time": "2026-09-30 04:07:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將富國銀行評級上調至“A-”，展望穩定。"
+    },
+    {
+      "id": "5119457",
+      "time": "2026-09-30 04:07:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫代伊：應對人工智慧風險的機制正在討論中。"
+    },
+    {
+      "id": "mkt:01a0eec7-14f7-7338-ab1c-b08800bca18d",
+      "time": "2026-09-30 04:06:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CEO Mark Zuckerberg said technology companies have agreed to establish 'robust' internal controls and multi-layered audits for AI."
+    },
+    {
+      "id": "mkt:01a0eec6-b67f-7338-ab1c-afb154d08eec",
+      "time": "2026-09-30 04:06:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CEO Mark Zuckerberg said he will ask the company's board to review the auditor's report."
+    },
+    {
+      "id": "5119456",
+      "time": "2026-09-30 04:06:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：預計通脹將下降，但人工智慧方面仍存在疑問。"
+    },
+    {
+      "id": "mkt:01a0eec6-87af-7338-ab1c-a7e3012a6ae7",
+      "time": "2026-09-30 04:06:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed's Williams said rising bond yields indicate financial conditions have tightened marginally."
+    },
+    {
+      "id": "mkt:01a0eec6-7acf-7338-ab1c-9c92200918a3",
+      "time": "2026-09-30 04:06:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "WILLIAMS said strong investment in AI is important for boosting future productivity."
+    },
+    {
+      "id": "mkt:01a0eec6-690e-7338-ab1c-93738f5e4b4f",
+      "time": "2026-09-30 04:06:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fed's WILLIAMS said he does not think the ongoing rise in yields reflects a shift in long-term inflation expectations."
+    },
+    {
+      "id": "5119453",
+      "time": "2026-09-30 04:06:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：油價也是影響債券收益率的一個因素。"
+    },
+    {
+      "id": "mkt:01a0eec6-00c8-7338-ab1c-8d7ae5d64b3d",
+      "time": "2026-09-30 04:05:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said AI has not yet produced a material change in employment levels."
+    },
+    {
+      "id": "5119452",
+      "time": "2026-09-30 04:05:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：債券收益率上升並不意味著市場對通脹的擔憂加劇。"
+    },
+    {
+      "id": "5119451",
+      "time": "2026-09-30 04:05:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：不認為收益率上行預示著長期通脹預期發生改變。"
+    },
+    {
+      "id": "mkt:01a0eec5-d822-7338-ab1c-83866d570bb4",
+      "time": "2026-09-30 04:05:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CEO Zuckerberg pledged to establish control mechanisms and systems to detect technical issues."
+    },
+    {
+      "id": "5119450",
+      "time": "2026-09-30 04:05:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：強勁的人工智慧投資對提振未來生產率至關重要。"
+    },
+    {
+      "id": "5119449",
+      "time": "2026-09-30 04:05:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：迄今為止，人工智慧並未造成就業規模發生重大變化。"
+    },
+    {
+      "id": "5119447",
+      "time": "2026-09-30 04:05:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：比爾·蓋茨並未表現出對人工智慧的擔憂】特朗普表示，在與比爾·蓋茨交談時，蓋茨並未表現出對人工智慧風險的擔憂。當被問及蓋茨週日關於“人工智慧可能導致10億人死亡”的言論時，特朗普在白宮會見人工智慧企業高管後告訴記者：“我可以告訴你，昨天他完全沒有這麼說。實際上，他的態度恰恰相反。”"
+    },
+    {
+      "id": "5119446",
+      "time": "2026-09-30 04:05:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫代伊：依然認為人工智慧存在“非常真實的風險”。"
+    },
+    {
+      "id": "5119445",
+      "time": "2026-09-30 04:04:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：人工智慧公司會互相監督。"
+    },
+    {
+      "id": "mkt:01a0eec4-bd4a-7338-ab1c-7a3ba937721e",
+      "time": "2026-09-30 04:04:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDCHF"
+      ],
+      "text": "【Dollar index up 0.17% to 101.372 on the 29th】DXY rose 0.17% to 101.372 at the New York close. EUR/USD 1.1341, down from 1.1368; GBP/USD 1.3229, down from 1.3261. USD/JPY 157.22, versus 157.40 previously. USD/CHF 0.8336, up from 0.8319; USD/CAD 1.4178, up from 1.4171; USD/SEK 9.9892, up from 9.9537."
+    },
+    {
+      "id": "mkt:01a0eec4-b9c0-7338-ab1c-709e83ca1bed",
+      "time": "2026-09-30 04:04:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms"
+      ],
+      "text": "US President Trump said Zuckerberg's views are very neutral."
+    },
+    {
+      "id": "5119444",
+      "time": "2026-09-30 04:04:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普稱他與科技巨頭簽署AI協議並考慮組建委員會】美國總統特朗普說，他和科技企業的CEO們簽署了一項具有“道德約束力”的人工智慧協議。他說正在考慮組建一個由大約10人組成的委員會來監督人工智慧，稱他看到了人工智慧行業“驚人的”自我監管能力。"
+    },
+    {
+      "id": "5119443",
+      "time": "2026-09-30 04:04:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普稱他與科技巨頭簽署AI協議並考慮組建委員會】美國總統特朗普說，他和科技企業的CEO們簽署了一項具有“道德約束力”的人工智慧協議。他說正在考慮組建一個由大約10人組成的委員會來監督人工智慧，稱他看到了人工智慧行業“驚人的”自我監管能力。"
+    },
+    {
+      "id": "mkt:01a0eec4-68ab-7338-ab1c-6a49f4431ba6",
+      "time": "2026-09-30 04:04:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said ANTHROPIC CEO Dario Amodei has been great."
+    },
+    {
+      "id": "mkt:01a0eec4-442f-7338-ab1c-62c7e37d730f",
+      "time": "2026-09-30 04:03:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "US equities closed lower on Tuesday, Sept. 29: Dow Jones Industrial Average down 130.70 points (0.25%) at 51,350.81; S&P 500 down 12.51 points (0.16%) at 7,671.18; Nasdaq Composite down 22.84 points (0.09%) at 26,797.54."
+    },
+    {
+      "id": "mkt:01a0eec4-406d-7338-ab1c-5c2494391400",
+      "time": "2026-09-30 04:03:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC CEO Amodei said the technology poses very real risks and the company is still discussing how to address them."
+    },
+    {
+      "id": "5119442",
+      "time": "2026-09-30 04:03:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦住房金融局（FHFA）局長普爾特：信用評分領域的濫用行為正在得到處理，信用局之間需要展開競爭。"
+    },
+    {
+      "id": "5119438",
+      "time": "2026-09-30 04:03:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守89美元/桶，日內跌3.91%。"
+    },
+    {
+      "id": "5119437",
+      "time": "2026-09-30 04:03:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：扎克伯格的觀點非常中立。"
+    },
+    {
+      "id": "mkt:01a0eec3-7953-7338-ab1c-56e10a4df904",
+      "time": "2026-09-30 04:03:02",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "U.S. banking regulators said they reviewed resolution plans (living wills) submitted by 15 banks with assets exceeding $250 billion and found no deficiencies."
+    },
+    {
+      "id": "5119436",
+      "time": "2026-09-30 04:02:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic執行長阿莫代伊：技術存在切實風險，如何應對這些風險仍在討論當中。"
+    },
+    {
+      "id": "5119435",
+      "time": "2026-09-30 04:02:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "嘉年華郵輪公司股價收盤上漲13%，創下自2025年4月以來最佳單日表現。"
+    },
+    {
+      "id": "5119434",
+      "time": "2026-09-30 04:02:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時：（收購Listen Labs）交易預計將於賽富時2027財年第四季度完成。"
+    },
+    {
+      "id": "mkt:01a0eec2-3098-7338-ab1c-4a2d41f97285",
+      "time": "2026-09-30 04:01:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "NIO.N",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "【US close: three major indexes down; Nasdaq Golden Dragon falls 1.5%】US stocks closed lower on Tuesday. At the preliminary close the Dow Jones Industrial Average was down 0.25%, the S&P 500 fell 0.16% and the Nasdaq Composite slipped 0.09%. Meta Platforms (META.O) rose over 3%, SK Hynix (SKHY.O) gained 2.6% and Oracle (ORCL.N) jumped 4%. The Nasdaq Golden Dragon China Index dropped 1.55%; NIO (NIO.N) fell about 5%."
+    },
+    {
+      "id": "5119432",
+      "time": "2026-09-30 04:01:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空：美國航空與阿拉斯加航空宣佈，計劃接納阿拉斯加航空加入大西洋及太平洋合資業務。"
+    },
+    {
+      "id": "5119431",
+      "time": "2026-09-30 04:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽富時：已簽署收購Listen Labs的最終協議。"
+    },
+    {
+      "id": "5119430",
+      "time": "2026-09-30 04:00:55",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲與聯邦存款保險公司（FDIC）就銀行處置計劃發表聯合宣告：大型銀行的“生前遺囑”（破產清算計劃）不存在缺陷。"
+    },
+    {
+      "id": "te:economy:587829",
+      "time": "2026-09-30 04:00:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Argentina Current Account Swings to Surplus in Q2 — Argentina posted a current account surplus of $2.21 billion in the second quarter of 2026, reversing a $2.45 billion deficit recorded in the same period of 2025. The result was driven by surpluses in the goods trade balance, at $9.29 billion, and secondary income, at $1.05 billion, which were partially offset by deficits in primary income, at $6.03 billion, and the services balance, at $2.10 billion. The primary income deficit widened by $2.47 billion year over year to $6.03 billion, almost entirely due to changes in investment income. As a result, Argentina recorded net lending of $2.25 billion in the second quarter of 2026."
+    },
+    {
+      "id": "5119429",
+      "time": "2026-09-30 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.25%，標普500指數跌0.16%，納指跌0.09%。Fair Isaac Corp跌26.64%，lululemon athletica inc.跌3.69%，Steel Dynamics跌3.69%，RKLB跌3.45%，艾可菲跌3.41%，紐柯鋼鐵跌3.35%，斯倫貝謝跌3.13%。“七姐妹”方面：Meta Platforms漲3.28%，亞馬遜漲0.21%，微軟跌0.05%，谷歌跌0.54%，英偉達跌0.72%，特斯拉跌1.29%，蘋果跌2.66%。"
+    },
+    {
+      "id": "5119428",
+      "time": "2026-09-30 04:00:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：本週開始為期32天的競選巡迴之旅。"
+    },
+    {
+      "id": "5119427",
+      "time": "2026-09-30 04:00:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將前往德克薩斯州和俄亥俄州進行競選活動。"
+    },
+    {
+      "id": "5119426",
+      "time": "2026-09-30 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.60%】DCX跌41.65%，MAAS跌11.31%，虎虎科技跌9.41%，小馬智行跌5.84%，知乎跌5.26%。"
+    },
+    {
+      "id": "5119425",
+      "time": "2026-09-30 03:59:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4210.10美元/盎司。"
+    },
+    {
+      "id": "5119424",
+      "time": "2026-09-30 03:59:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4210美元/盎司，日內漲1.00%。"
+    },
+    {
+      "id": "mkt:01a0eec0-7393-7338-ab1c-434c658740e4",
+      "time": "2026-09-30 03:59:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "President Trump said he will appoint a national artificial intelligence chief within the next three to four days."
+    },
+    {
+      "id": "5119423",
+      "time": "2026-09-30 03:59:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（在被問及人工智慧監管問題時）美國企業目前佔據著主導地位。"
+    },
+    {
+      "id": "5119421",
+      "time": "2026-09-30 03:58:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：人工智慧主管人選即將確定，將在未來三到四天內任命。"
+    },
+    {
+      "id": "mkt:01a0eebf-227a-7338-ab1c-3ca585d2bf1f",
+      "time": "2026-09-30 03:58:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: No conclusive evidence of major attack on Israel ahead of election】Israeli military and security sources said weekly multi-front assessments show no conclusive information or evidence that Israel will face a major attack ahead of the election. Normally, if security agencies detect signs of potential major escalation the military would raise readiness and call up reservists; as of the evening of the 29th no such measures had been taken."
+    },
+    {
+      "id": "5119420",
+      "time": "2026-09-30 03:57:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士稱暫無確鑿資訊證明以色列將遭受重大襲擊】當地時間29日，以色列軍方和安全部門訊息人士稱，根據安全機構和軍方每週進行的多戰線局勢評估，截至目前沒有確鑿資訊或證據表明，以色列將在選舉前遭到重大襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0eebd-e81f-7338-ab1c-356418e96552",
+      "time": "2026-09-30 03:56:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reports a spokesman for Iraq's armed forces commander said the first batch of air-defense systems is due to arrive in Erbil."
+    },
+    {
+      "id": "5119418",
+      "time": "2026-09-30 03:56:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不知道伊朗（現在）是否會放棄，但他們終究會放棄。"
+    },
+    {
+      "id": "mkt:01a0eebd-9aed-7338-ab1c-2b5b1a0932ec",
+      "time": "2026-09-30 03:56:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump said Iran's situation is very bad and he does not know whether they will give up."
+    },
+    {
+      "id": "5119417",
+      "time": "2026-09-30 03:56:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭官員稱，俄羅斯對烏克蘭北部城市蘇梅發動炸彈襲擊，造成兩人死亡。"
+    },
+    {
+      "id": "5119416",
+      "time": "2026-09-30 03:56:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗表現極差，目前尚不清楚他們是否會就此讓步。"
+    },
+    {
+      "id": "5119415",
+      "time": "2026-09-30 03:55:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：當人工智慧代理（AI agents）犯罪時，誰該承擔責任？\n特朗普：這不是人工智慧（AI），而是“超級智慧”（SI）。"
+    },
+    {
+      "id": "5119414",
+      "time": "2026-09-30 03:55:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談人工智慧：世界上最聰明的人都在互相觀察。"
+    },
+    {
+      "id": "mkt:01a0eebb-ff85-7338-ab1c-20d897faa45f",
+      "time": "2026-09-30 03:54:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media Fars News reported explosions heard in Erbil, Iraq."
+    },
+    {
+      "id": "mkt:01a0eebb-f873-7338-ab1c-1e05092f8871",
+      "time": "2026-09-30 03:54:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "US President Trump said the administration will conduct a comprehensive assessment of artificial intelligence."
+    },
+    {
+      "id": "5119411",
+      "time": "2026-09-30 03:54:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將會很好地評估人工智慧。"
+    },
+    {
+      "id": "mkt:01a0eeba-d851-7338-ab1c-16a41a58c6a2",
+      "time": "2026-09-30 03:53:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. President Trump said he and technology industry leaders have officially renamed \"artificial intelligence\" (AI) to \"Super Intelligence\" (SI)."
+    },
+    {
+      "id": "5119409",
+      "time": "2026-09-30 03:53:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：人工智慧將得到非常充分的評估。"
+    },
+    {
+      "id": "mkt:01a0eeb9-e472-7338-ab1c-09362b89bca6",
+      "time": "2026-09-30 03:52:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump, discussing data centers and the midterm elections, said: \"We must do the right thing.\""
+    },
+    {
+      "id": "5119408",
+      "time": "2026-09-30 03:52:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（被問及資料中心與中期選舉問題時）必須做正確的事。"
+    },
+    {
+      "id": "mkt:01a0eeb9-9585-7338-ab1c-025c658ec5d1",
+      "time": "2026-09-30 03:52:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "The Trump Trade"
+      ],
+      "text": "When asked whether AI guardrails were unnecessary, US President Trump said yes."
+    },
+    {
+      "id": "5119406",
+      "time": "2026-09-30 03:51:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：人工智慧創新與安全之間不存在衝突。"
+    },
+    {
+      "id": "5119405",
+      "time": "2026-09-30 03:51:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：創新、技術與安全三者之間並無矛盾。"
+    },
+    {
+      "id": "mkt:01a0eeb8-5eab-7338-ab1b-f98a5cdfce46",
+      "time": "2026-09-30 03:50:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said innovation, technology and security are not in conflict."
+    },
+    {
+      "id": "5119404",
+      "time": "2026-09-30 03:50:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：（當被問及人工智慧公司是否可以自我監管時）是的。"
+    },
+    {
+      "id": "5119402",
+      "time": "2026-09-30 03:50:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：我們將以負責任且安全的方式推進這項（人工智慧）業務。"
+    },
+    {
+      "id": "5119401",
+      "time": "2026-09-30 03:50:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（被問及人工智慧安全防護措施是否必要）是的。"
+    },
+    {
+      "id": "mkt:01a0eeb7-73b0-7338-ab1b-f49c20081326",
+      "time": "2026-09-30 03:49:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "U.S. President Trump praised NVIDIA (NVDA.O) CEO Jensen Huang."
+    },
+    {
+      "id": "5119400",
+      "time": "2026-09-30 03:49:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：比爾·蓋茨昨天似乎並未對人工智慧表現出擔憂。"
+    },
+    {
+      "id": "5119399",
+      "time": "2026-09-30 03:49:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普稱讚英偉達CEO黃仁勳。"
+    },
+    {
+      "id": "5119398",
+      "time": "2026-09-30 03:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI首席財務官：OpenAI的資金“非常充裕”。"
+    },
+    {
+      "id": "5119397",
+      "time": "2026-09-30 03:47:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果人工智慧模型被用於作惡，我們將予以查處。"
+    },
+    {
+      "id": "mkt:01a0eeb4-cd08-7338-ab1b-eb0d25db3a66",
+      "time": "2026-09-30 03:47:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump, on AI regulation, said the US has agencies including the FBI, CIA and DOJ."
+    },
+    {
+      "id": "5119396",
+      "time": "2026-09-30 03:46:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI首席財務官：市場存在對新一輪融資的需求。"
+    },
+    {
+      "id": "mkt:01a0eeb4-5cc2-7338-ab1b-e3ace89e93aa",
+      "time": "2026-09-30 03:46:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "U.S. President Trump said the U.S. will take action against AI models that are not used for legitimate purposes."
+    },
+    {
+      "id": "5119395",
+      "time": "2026-09-30 03:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我相信人工智慧模型會被用在好的方面。"
+    },
+    {
+      "id": "mkt:01a0eeb3-b834-7338-ab1b-df22261f3fd6",
+      "time": "2026-09-30 03:45:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CFO: enterprise business revenue has doubled compared with July."
+    },
+    {
+      "id": "5119394",
+      "time": "2026-09-30 03:45:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正在考慮成立一個由10人組成的委員會來監督人工智慧。"
+    },
+    {
+      "id": "5119393",
+      "time": "2026-09-30 03:44:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及人工智慧監管：重申美國擁有聯邦調查局、中央情報局與司法部。"
+    },
+    {
+      "id": "mkt:01a0eeb2-d530-7338-ab1b-d573f346a468",
+      "time": "2026-09-30 03:44:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Trump said he believes the AI industry is exercising very strong self-regulation and that industry leaders recognize this."
+    },
+    {
+      "id": "mkt:01a0eeb2-c756-7338-ab1b-ca5b8474b9d0",
+      "time": "2026-09-30 03:44:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP said he is considering forming a C.BANK to provide oversight."
+    },
+    {
+      "id": "5119392",
+      "time": "2026-09-30 03:44:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正在考慮成立一個（人工智慧）監督委員會。"
+    },
+    {
+      "id": "5119391",
+      "time": "2026-09-30 03:44:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：人工智慧公司知道它們需要自我監管。"
+    },
+    {
+      "id": "5119390",
+      "time": "2026-09-30 03:44:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我相信人工智慧模型將被用於造福人類。"
+    },
+    {
+      "id": "5119389",
+      "time": "2026-09-30 03:44:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我看到人工智慧領域出現了強大的自我監管機制。"
+    },
+    {
+      "id": "5119388",
+      "time": "2026-09-30 03:43:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI首席財務官：企業業務板塊的收入自7月以來翻了一番。"
+    },
+    {
+      "id": "mkt:01a0eeb1-7732-7338-ab1b-c6f2c214f769",
+      "time": "2026-09-30 03:43:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the document is \"morally binding\"."
+    },
+    {
+      "id": "mkt:01a0eeb1-3765-7338-ab1b-bfc0bd3c77b9",
+      "time": "2026-09-30 03:43:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "The Trump Trade"
+      ],
+      "text": "President Trump has signed an AI document that contains a protective measure."
+    },
+    {
+      "id": "5119387",
+      "time": "2026-09-30 03:42:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談人工智慧協議：它具有道德約束力。"
+    },
+    {
+      "id": "5119386",
+      "time": "2026-09-30 03:42:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及與人工智慧行業領袖會晤：已簽署一份人工智慧領域檔案，該檔案相當於一種防護機制。"
+    },
+    {
+      "id": "5119385",
+      "time": "2026-09-30 03:41:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：若衝突性質發生改變，將部署新型武器。"
+    },
+    {
+      "id": "5119384",
+      "time": "2026-09-30 03:41:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：與人工智慧公司簽署的協議檔案是一種保護形式。"
+    },
+    {
+      "id": "5119383",
+      "time": "2026-09-30 03:41:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：與科技公司高管舉行了一次非常棒的會談。"
+    },
+    {
+      "id": "5119382",
+      "time": "2026-09-30 03:41:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉：受監督版全自動駕駛（FSD Supervised）現已獲得8個歐盟國家的批准。"
+    },
+    {
+      "id": "5119381",
+      "time": "2026-09-30 03:39:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：我們能夠以安全方式保持競爭優勢。"
+    },
+    {
+      "id": "mkt:01a0eead-ec59-7338-ab1b-b788a053d82a",
+      "time": "2026-09-30 03:39:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US House Speaker Johnson: We can maintain our advantage safely."
+    },
+    {
+      "id": "mkt:01a0eead-bc8e-7338-ab1b-ad01560f2a30",
+      "time": "2026-09-30 03:39:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. House Speaker Johnson said he will continue to assess and review over the next few days."
+    },
+    {
+      "id": "5119380",
+      "time": "2026-09-30 03:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：人工智慧行業的承諾是自願的。"
+    },
+    {
+      "id": "mkt:01a0eead-9117-7338-ab1b-a3bb07119fe3",
+      "time": "2026-09-30 03:39:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. House Speaker Johnson said lawmakers have just signed an agreement on artificial intelligence, describing it as a statement on standards."
+    },
+    {
+      "id": "5119379",
+      "time": "2026-09-30 03:38:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：安全與創新並非相互排斥。"
+    },
+    {
+      "id": "5119378",
+      "time": "2026-09-30 03:38:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊拉克擬於10月恢復納傑夫往返伊朗航班】伊拉克交通部29日發表宣告說，伊拉克航空公司已獲得特別豁免，計劃於10月恢復從伊拉克納傑夫國際機場往返伊朗的航班。 宣告說，伊拉克航空公司目前正進行復航準備，在滿足必要的組織與技術要求後，復航航班將從納傑夫國際機場起飛。（新華社）"
+    },
+    {
+      "id": "5119377",
+      "time": "2026-09-30 03:38:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：我們簽署了白宮人工智慧協議。"
+    },
+    {
+      "id": "mkt:01a0eeac-a6eb-7338-ab1b-9ac3b0ba64d9",
+      "time": "2026-09-30 03:38:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. House Speaker Johnson says AI providers are committed to building trust."
+    },
+    {
+      "id": "mkt:01a0eeac-6a9c-7338-ab1b-9125440e3b8b",
+      "time": "2026-09-30 03:37:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. House Speaker Johnson said he discussed the issue of ensuring safety at artificial intelligence companies."
+    },
+    {
+      "id": "mkt:01a0eeac-5cb8-7338-ab1b-8b4d9d7cf5d6",
+      "time": "2026-09-30 03:37:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. House Speaker Johnson said at a meeting with AI leaders they discussed finding the right balance."
+    },
+    {
+      "id": "5119376",
+      "time": "2026-09-30 03:36:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：必須在人工智慧問題上找到合適的平衡點。"
+    },
+    {
+      "id": "5119375",
+      "time": "2026-09-30 03:36:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：會面是非常重要的第一步。"
+    },
+    {
+      "id": "5119374",
+      "time": "2026-09-30 03:36:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：與會各方達成了高度共識。"
+    },
+    {
+      "id": "5119373",
+      "time": "2026-09-30 03:35:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國眾議院議長邁克·約翰遜：與科技公司高管舉行了一次富有成效的會議。"
+    },
+    {
+      "id": "mkt:01a0eea9-35c9-7338-ab1b-87130444ece8",
+      "time": "2026-09-30 03:34:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【OPEC+ likely to keep November output quotas unchanged, delegates say】Two OPEC+ delegates said the group is likely to keep November crude production quotas unchanged at a weekend meeting, continuing the current supply plan. Members led by Saudi Arabia and Russia have largely completed a nominal rollback of 2023 cuts and are expected to confirm stable November targets at a Sunday video meeting. Although OPEC+ agreed earlier to raise output gradually, conflict in the Middle East—including Iran-related disruptions—has left some capacity offline, leaving announced increases largely on paper. OPEC+ says some capacity-restoration measures paused in 2022 will not be reconsidered until after year-end; underinvestment, sanctions and other disruptions continue to hinder a full return to prior output. Next year’s supply policy will depend on a member capacity assessment due this week and will be discussed at the Nov. 29 ministerial meeting."
+    },
+    {
+      "id": "5119372",
+      "time": "2026-09-30 03:33:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國最高法院暫時允許迅速將移民遣返至第三國】美國最高法院週二裁定，特朗普政府可以恢復將移民迅速驅逐至其原籍國以外國家的行動。這份僅一頁紙的緊急裁決未署名，也未公佈投票結果，這在此類案件中屬於慣例。儘管大法官們目前為迅速遣返行動的繼續掃清了障礙，但法院同時宣佈將加快審理此案，並於12月聽取口頭辯論，這意味著明年將就這一爭議問題作出最終裁決。"
+    },
+    {
+      "id": "5119369",
+      "time": "2026-09-30 03:31:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "示威者在OpenAI活動場外抗議，要求該公司切斷與政府的關聯。"
+    },
+    {
+      "id": "5119367",
+      "time": "2026-09-30 03:28:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩議長：黎巴嫩保留起訴以色列罪行的主權權利。"
+    },
+    {
+      "id": "mkt:01a0eea3-0d1e-7338-ab1b-7b71f8bd7904",
+      "time": "2026-09-30 03:27:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS cited attendees at Trump’s meeting with tech company TOP EXECUTIVES saying discussions focused on creating industry standards and audit mechanisms similar to those used in other emerging-tech fields. Attendees said proposed regulatory measures could slow innovation and would likely become outdated quickly."
+    },
+    {
+      "id": "5119366",
+      "time": "2026-09-30 03:26:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普與科技高管會面時，與會的一位執行長稱人工智慧行業正在加速發展，並未放緩。"
+    },
+    {
+      "id": "mkt:01a0eea2-58f4-7338-ab1b-7700c3e4e8f5",
+      "time": "2026-09-30 03:26:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRIB reported the Iranian president's chief of staff said President Pezeshkian stressed in a speech that Iran will under no circumstances relinquish its nuclear rights."
+    },
+    {
+      "id": "5119365",
+      "time": "2026-09-30 03:26:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐佩克或將堅持維持11月原油配額不變】由沙烏地阿拉伯和俄羅斯牽頭的OPEC+成員國大機率將維持11月原油產量配額不變，代表們預計該組織將在週日會議上批准現行路線圖。儘管原油流量有所回升，中東仍有數百萬桶產能處於關停狀態；同時OPEC+成員國面臨投資不足、制裁及裝置停運帶來的產能限制。該組織2027年的政策將取決於本週即將完成的產能評估。"
+    },
+    {
+      "id": "5119364",
+      "time": "2026-09-30 03:25:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統辦公室：絕不會在核權利問題上做出任何妥協，這是總統講話中強調的核心要點。"
+    },
+    {
+      "id": "mkt:01a0ee9f-7438-7338-ab1b-6b4b4856233f",
+      "time": "2026-09-30 03:23:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Several delegates said OPEC+ may stick to its plan to maintain current oil production quotas."
+    },
+    {
+      "id": "te:markets:587828",
+      "time": "2026-09-30 03:22:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Mixed as Yields Remain at Multiyear Highs — US stocks were mostly lower on Tuesday, weighed down by another rise in Treasury yields to fresh multiyear highs. The S&P 500 edged lower, the Dow shed over 100 points, while the Nasdaq edged higher. Elevated oil prices and yields continued to pressure equities, with the 10-year yield trading near levels not seen since 2007 and the 30-year yield hovering around a 2004 high. Inflationary pressures from elevated crude and fuel prices, along with concerns over fiscal deficits, drove the bond selloff. New York Fed President Williams said another interest rate hike could be necessary this year. Bank stocks moved lower, with Bank of America down nearly 1%. AI hyperscalers and chipmakers, both facing record levels of debt issuance, traded mixed. Alphabet fell nearly 1% and Nvidia lost about 0.5%, while Meta gained 2%, Oracle jumped 4%, and Broadcom and Micron rose over 1.5% each, as the planned Anthropic IPO lent support to the sectors. The IPO could value the company at over $2 trillion."
+    },
+    {
+      "id": "mkt:01a0ee9e-98a0-7338-ab1b-6094bd1f6754",
+      "time": "2026-09-30 03:22:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Puntland authorities said Somali pirates killed five crew members aboard the hijacked tanker MT Honour before security forces rescued the vessel."
+    },
+    {
+      "id": "5119360",
+      "time": "2026-09-30 03:22:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克+代表：或將堅持維持配額不變的計劃。"
+    },
+    {
+      "id": "5119358",
+      "time": "2026-09-30 03:21:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與科技高管討論了行業標準及審計事宜。"
+    },
+    {
+      "id": "5119357",
+      "time": "2026-09-30 03:21:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "邦特蘭當局表示，在安全部隊營救遭劫持油輪“榮耀25號”之前，索馬利亞海盜殺害了該油輪的五名船員。"
+    },
+    {
+      "id": "mkt:01a0ee97-38ec-7338-ab1b-5e7c8bfbd2d0",
+      "time": "2026-09-30 03:14:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry warned regional states about possible consequences of Netanyahu visiting the UAE, Iranian media Fars News reported."
+    },
+    {
+      "id": "5119348",
+      "time": "2026-09-30 03:11:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部就以色列總理內塔尼亞胡訪問阿聯酋一事，向地區國家發出警告，稱此舉將帶來嚴重後果。"
+    },
+    {
+      "id": "5119347",
+      "time": "2026-09-30 03:10:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：OpenAI的投資者對IPO計劃保持耐心。"
+    },
+    {
+      "id": "mkt:01a0ee92-7668-7338-ab1b-529cb8b1bc7e",
+      "time": "2026-09-30 03:09:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Interior Ministry said it will permit drone operations in designated areas."
+    },
+    {
+      "id": "5119346",
+      "time": "2026-09-30 03:09:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達內政部：卡達將允許在指定區域使用無人機。"
+    },
+    {
+      "id": "5119343",
+      "time": "2026-09-30 03:05:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：OpenAI正經歷“非常陡峭的增長期”。"
+    },
+    {
+      "id": "5119342",
+      "time": "2026-09-30 03:05:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院將於12月就驅逐移民出境問題進行聽證辯論。"
+    },
+    {
+      "id": "5119340",
+      "time": "2026-09-30 03:04:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Spotify：發生服務中斷，目前情況已大幅好轉。"
+    },
+    {
+      "id": "te:economy:587825",
+      "time": "2026-09-30 03:03:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Non Farm Payrolls",
+        "Importance 1"
+      ],
+      "text": "Brazil Job Creation Beats Forecasts in August — Brazil created 165,827 formal jobs in August 2026, above forecasts of 95,700 and up from 58,568 in July. The result was the highest since March, reflecting 2,294,563 hires and 2,128,736 layoffs during the month. Employment increased across all five major economic activity groups, led by services (+110,346), followed by construction (+20,848), industry (+16,613), commerce (+16,565) and agriculture (+1,452). Employment also increased in all states, with São Paulo posting the largest gain in absolute terms (+42,533), while Paraíba recorded the strongest increase in relative terms (+1.59%). The August balance was positive for both men (+81,838) and women (+83,989), with 128,997 jobs added among people aged up to 24. People with completed secondary education posted the largest gain (+100,939). The average real hiring wage was R$2,410.74, broadly stable from July. Year-to-date employment grew 2.41%, with 1,134,033 jobs created."
+    },
+    {
+      "id": "5119338",
+      "time": "2026-09-30 03:03:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國8月農業支付價格上漲5.3%，較7月的7.7%有所回落；農業獲得價格則下跌2.0%，而此前為下跌2.6%。"
+    },
+    {
+      "id": "5119337",
+      "time": "2026-09-30 03:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷國家統計局：2026年第二季度阿根廷經常賬戶順差22.14億美元。"
+    },
+    {
+      "id": "mkt:01a0ee8c-1093-7338-ab1b-4d95cafdf3af",
+      "time": "2026-09-30 03:02:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Williams said periods of strong productivity could raise the natural rate of interest."
+    },
+    {
+      "id": "5119336",
+      "time": "2026-09-30 03:02:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國最高法院允許特朗普政府繼續將移民驅逐至其原籍國以外的國家。"
+    },
+    {
+      "id": "5119335",
+      "time": "2026-09-30 03:02:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：生產率強勁增長期可能推高自然利率。"
+    },
+    {
+      "id": "5119334",
+      "time": "2026-09-30 03:02:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元觸及16個月低點，最新下跌0.26%，報1.13415美元。"
+    },
+    {
+      "id": "mkt:01a0ee8b-9f76-7338-ab1b-43f473ca0635",
+      "time": "2026-09-30 03:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Supreme Court allows the Trump administration to continue deporting migrants to third countries rather than to their countries of origin."
+    },
+    {
+      "id": "5119333",
+      "time": "2026-09-30 03:01:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "Magnite股價漲幅擴大，盤中最高漲幅達12%。"
+    },
+    {
+      "id": "mkt:01a0ee8a-92df-7338-ab1b-3ca45ef17439",
+      "time": "2026-09-30 03:00:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Waller, speaking on payments in the era of AI agents, made no comment on monetary policy or the economic outlook."
+    },
+    {
+      "id": "5119332",
+      "time": "2026-09-30 03:00:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃勒在“人工智慧代理時代的支付”相關講話中，未就貨幣政策及經濟前景發表評論。"
+    },
+    {
+      "id": "mkt:01a0ee89-e743-7338-ab1b-372b22eb7cb6",
+      "time": "2026-09-30 03:00:10",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.35% at 24,364, trading at a 160-point discount to the cash index."
+    },
+    {
+      "id": "5119331",
+      "time": "2026-09-30 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.39%，報24353.70點，低水169.87點。"
+    },
+    {
+      "id": "mkt:01a0ee88-ecc2-7338-ab1b-2befa8e0e740",
+      "time": "2026-09-30 02:59:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Sources say Apple (AAPL.O) will launch Apple Pay in India late Tuesday."
+    },
+    {
+      "id": "5119330",
+      "time": "2026-09-30 02:58:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：蘋果公司將在印度推出Apple Pay。"
+    },
+    {
+      "id": "5119328",
+      "time": "2026-09-30 02:56:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 計劃在上市前優先考量使命與安全。"
+    },
+    {
+      "id": "5119327",
+      "time": "2026-09-30 02:55:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：在當前聚焦安全的背景下，OpenAI 上市並非明智之舉。"
+    },
+    {
+      "id": "5119325",
+      "time": "2026-09-30 02:51:08",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "交易員目前認為美聯儲 10 月加息機率約為 50%，此前該機率約為 70%。"
+    },
+    {
+      "id": "5119324",
+      "time": "2026-09-30 02:50:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美聯儲應置身黨派政治之外，專注於資料。"
+    },
+    {
+      "id": "5119321",
+      "time": "2026-09-30 02:49:09",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯稱政策行動 “並無緊迫性” 後，交易員下調對美聯儲 10 月加息的押注，預計美聯儲年底前僅會加息一次。"
+    },
+    {
+      "id": "5119317",
+      "time": "2026-09-30 02:47:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：已開始出現資料表明人工智慧正推動生產率提升。"
+    },
+    {
+      "id": "5119316",
+      "time": "2026-09-30 02:47:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：人工智慧正在推高資產市場估值，強化財富效應。"
+    },
+    {
+      "id": "5119314",
+      "time": "2026-09-30 02:45:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯認為AI不會導致應屆畢業生招聘人數下降。"
+    },
+    {
+      "id": "5119313",
+      "time": "2026-09-30 02:41:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：K 型經濟是真實存在的。"
+    },
+    {
+      "id": "5119309",
+      "time": "2026-09-30 02:39:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：人工智慧行業領袖願意採取正確舉措。"
+    },
+    {
+      "id": "5119308",
+      "time": "2026-09-30 02:38:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：AI 行業領袖將與地方社群合作推進資料中心專案。"
+    },
+    {
+      "id": "5119307",
+      "time": "2026-09-30 02:37:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：應該實行嚴格的自我監管，自我監管對人工智慧行業至關重要。"
+    },
+    {
+      "id": "5119306",
+      "time": "2026-09-30 02:37:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將於美東時間下午 5 點簽署人工智慧更名行政令。"
+    },
+    {
+      "id": "5119305",
+      "time": "2026-09-30 02:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與會各方存在諸多共識。"
+    },
+    {
+      "id": "5119304",
+      "time": "2026-09-30 02:36:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們在人工智慧領域擁有巨大領先優勢，並希望保持這一優勢。"
+    },
+    {
+      "id": "5119303",
+      "time": "2026-09-30 02:35:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們討論的內容將使世界更安全。"
+    },
+    {
+      "id": "5119302",
+      "time": "2026-09-30 02:35:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與人工智慧行業領袖舉行會談：本次會談十分順利，氛圍極為融洽且富有成效。"
+    },
+    {
+      "id": "5119301",
+      "time": "2026-09-30 02:34:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：加拿大液化天然氣專案二期擴建工程耗資 330 億加元。"
+    },
+    {
+      "id": "5119300",
+      "time": "2026-09-30 02:34:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：我十分信奉資料驅動的決策原則。"
+    },
+    {
+      "id": "5119299",
+      "time": "2026-09-30 02:33:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：9月加息旨在讓通脹更快回歸2%目標。"
+    },
+    {
+      "id": "5119298",
+      "time": "2026-09-30 02:32:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：判斷貨幣政策的緊縮程度並非易事。"
+    },
+    {
+      "id": "5119297",
+      "time": "2026-09-30 02:31:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 11月原油期貨收報89.38美元/桶。NYMEX 10月天然氣期貨收報3.0110美元/百萬英熱單位。NYMEX 10月汽油期貨收報4.8979美元/加侖，NYMEX 10月取暖油期貨收報3.2782美元/加侖。"
+    },
+    {
+      "id": "5119296",
+      "time": "2026-09-30 02:31:16",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：能源價格是否會進一步上漲取決於戰爭走向，他預計不會出現新一輪大漲。"
+    },
+    {
+      "id": "te:markets:587824",
+      "time": "2026-09-30 02:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 1.23% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.23% decrease."
+    },
+    {
+      "id": "5119295",
+      "time": "2026-09-30 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌1.63%，報705.20元人民幣/桶。滬金夜盤收漲0.80%，滬銀收漲0.35%。"
+    },
+    {
+      "id": "5119294",
+      "time": "2026-09-30 02:29:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：能源價格對經濟依舊至關重要，但美國受其影響程度相比過去有所下降。"
+    },
+    {
+      "id": "5119293",
+      "time": "2026-09-30 02:29:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "MongoDB股價迅速轉漲，目前漲幅4%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609303886847928",
+      "time": "2026-09-30 02:29:01",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲穆薩萊姆表示，即使在最近一次加息之後，貨幣政策仍然略顯寬鬆。"
+    },
+    {
+      "id": "5119292",
+      "time": "2026-09-30 02:29:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟擬加強邊境管控 防範非法移民入境】歐盟委員會29日提出一項加強歐盟外部邊境安全的全面計劃，旨在應對突發的大規模非法移民入境事件。根據公佈的計劃，歐盟將從加強與有關國家合作、強化外部邊境管控、改善監測和預警機制、打擊人口走私和販運網路，以及加強非法移民遣返五個方面採取行動。根據歐盟相關程式，該計劃還需提交歐盟成員國審議。今年7月底，大批非法移民從摩洛哥方向進入西班牙位於北非的飛地休達，引發近年來西班牙最嚴重的邊境移民危機。（央視新聞）"
+    },
+    {
+      "id": "5119291",
+      "time": "2026-09-30 02:28:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：通脹應該會回落，因為最大的衝擊已基本消退。"
+    },
+    {
+      "id": "5119290",
+      "time": "2026-09-30 02:27:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：即便在上次加息之後，貨幣政策仍具備一定寬鬆屬性。"
+    },
+    {
+      "id": "5119289",
+      "time": "2026-09-30 02:26:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：物價穩定是經濟執行的基石。"
+    },
+    {
+      "id": "5119288",
+      "time": "2026-09-30 02:25:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AMD收購交易完成後，World Labs李飛飛身家達16億美元】World Labs出售給超威半導體（AMD），為這家成立僅兩年的AI初創公司的快速崛起畫上句號，同時也將使聯合創始人李飛飛的財富增加一半以上。據彭博億萬富豪指數，交易完成後，這位斯坦福大學資深教授的淨資產將升至至少16億美元。專注於空間智慧和物理智慧的World Labs於週一同意以82億美元的估值被這家晶片製造商收購。"
+    },
+    {
+      "id": "te:markets:587823",
+      "time": "2026-09-30 02:25:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cotton Falls by 4.83% — Top commodity losers are Cotton (-4.83%), Cocoa (-4.20%) and Rubber (-1.48%). Gains are led by Canola (2.05%) and Sugar (1.51%)."
+    },
+    {
+      "id": "5119287",
+      "time": "2026-09-30 02:22:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：美聯儲的經濟預測摘要（SEP）可以透過將利率 “點陣” 匿名對應到各項經濟預測來加以完善。"
+    },
+    {
+      "id": "5119286",
+      "time": "2026-09-30 02:21:33",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【巴克萊：若生產率增長持續加快 美國30年期國債收益率或升至6%】巴克萊資本(Barclays Capital)美國利率研究主管在報告中表示，美國30年期國債收益率有升至6%的空間，因為本月美債市場的拋售尚未計入生產率增速持續上升的風險。Anshul Pradhan寫道，市場“仍然假設當前處於高位的中性利率最終將被證明是週期性而非結構性的”。在這種週期性框架下，投資者預計美聯儲將加息以遏制通脹，但“不認為這種上升是永久性的”。Pradhan寫道，這一觀點面臨的主要挑戰在於經濟生產率提高。預計美國科技巨頭今年在人工智慧基礎設施上的支出將與過去三年的合計支出相當。"
+    },
+    {
+      "id": "te:markets:587822",
+      "time": "2026-09-30 02:20:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.33% — Top commodity losers are Lithium Carbonate (-2.33%), Platinum (-1.26%) and Iron Ore CNY (-0.85%). Gains are led by Gold (1.24%), Silver (0.96%) and Silicon (0.53%)."
+    },
+    {
+      "id": "5119285",
+      "time": "2026-09-30 02:18:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI：公司持續（針對AI安全問題）進行更大範圍活動的評估。Hugging Face 事件是該平臺迄今為止最嚴重的事故。"
+    },
+    {
+      "id": "te:markets:587821",
+      "time": "2026-09-30 02:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Slumps by 5.51% — Top commodity losers are Natural Gas EU (-5.51%), Natural Gas UK (-5.21%), Germany Natural Gas THE (-4.17%), Crude Oil (-2.97%) and Brent Oil (-2.29%). Gains are led by Methanol (4.32%) and Heating Oil (2.10%)."
+    },
+    {
+      "id": "5119284",
+      "time": "2026-09-30 02:14:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：長期通脹預期仍與 2% 通脹目標保持一致。"
+    },
+    {
+      "id": "5119283",
+      "time": "2026-09-30 02:11:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：當供給衝擊接連發生時，“無視短期供給衝擊” 這一政策邏輯的有效性會下降，會提升大範圍通脹固化的風險。 當前約一半通脹來自持續性需求壓力。"
+    },
+    {
+      "id": "5119282",
+      "time": "2026-09-30 02:10:27",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美聯儲威廉姆斯：下一次加息暫無緊迫性】紐約聯邦儲備銀行行長約翰・威廉姆斯週二表示，美聯儲在決定何時再度加息前，有時間權衡各項資料。他在講話中提到，年底前大機率還會有一次加息。“在 9 月會議完成政策調整後，我們無需急於行動。” 威廉姆斯表示，在敲定下一步政策前持續觀察新增資料，有助於更清晰地判斷經濟執行狀況。“如果經濟走勢大體符合我的預期，今年晚些時候或許適宜再度上調聯邦基金利率目標區間，推動通脹更快回歸目標水平。” 威廉姆斯同時補充道，“這僅僅是我的個人預測，最終結論要看後續時間以及全部資料表現。” 利率期貨市場認為美聯儲在 10 月會議加息的機率很高，而威廉姆斯的表態似乎對這一市場預期予以降溫。\n威廉姆斯在講話中稱，經濟增長強勁、就業市場保持韌性，物價壓力現已成為貨幣政策的核心關注點。“我們必須讓通脹持續回落至 2% 目標。” 威廉姆斯說，“要實現這一點，必須確保不利的通脹擾動不會固化，通脹產生的任何二次效應都維持在較低水平。”美聯儲持續加息，以應對已連續五年高於 2% 目標的通脹壓力。威廉姆斯在演講中提到，人工智慧領域投資同樣助推物價上行；同時他表示，只要總統不再出臺新的進口稅，關稅帶來的通脹壓力已基本消退。 威廉姆斯預計，今年年末通脹大約在 3.5%，明年物價壓力將有所緩和，並在 2028 年實現通脹目標。他還表示，今年經濟增速預計為 2.25%。移民因素、勞動力老齡化疊加生產率水平偏低，限制了經濟潛在上行空間。威廉姆斯同時預測明年失業率為 4%。"
+    },
+    {
+      "id": "te:markets:587820",
+      "time": "2026-09-30 02:10:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "TJX Companies Stock Price Hits 4-week High — TJX Companies shares increased to 133.53 USD, the highest since September 2026. Over the past 4 weeks, TJX Companies lost 0.37%, and in the last 12 months, it decreased 7.7%."
+    },
+    {
+      "id": "5119281",
+      "time": "2026-09-30 02:07:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：負面供給衝擊可能會更加頻繁。"
+    },
+    {
+      "id": "5119280",
+      "time": "2026-09-30 02:06:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：部分供給衝擊，美聯儲必須做出應對。"
+    },
+    {
+      "id": "5119279",
+      "time": "2026-09-30 02:05:42",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率重新整理日低，美聯儲三把手威廉姆斯認為，9月加息後，“沒有必要急於行動”。"
+    },
+    {
+      "id": "5119278",
+      "time": "2026-09-30 02:05:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：美國經濟增長強勁，勞動力市場狀況良好。 當前經濟十分強勁，但這依賴經濟持續增長。"
+    },
+    {
+      "id": "5119277",
+      "time": "2026-09-30 02:04:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：美聯儲不能基於預期的 AI 生產率提升而降息。"
+    },
+    {
+      "id": "5119276",
+      "time": "2026-09-30 02:04:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：當前 AI 資本開支熱潮正帶來需求端壓力，生產率提升與 “供給緩解效應” 尚未顯現。"
+    },
+    {
+      "id": "5119275",
+      "time": "2026-09-30 02:04:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報89.82美元/桶。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609303886847472",
+      "time": "2026-09-30 02:03:14",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲威廉姆斯稱，人工智慧投資問題正日益成為影響通脹的重要因素。"
+    },
+    {
+      "id": "5119274",
+      "time": "2026-09-30 02:02:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：今年晚些時候，聯邦基金利率目標區間或適宜再度上調。"
+    },
+    {
+      "id": "5119273",
+      "time": "2026-09-30 02:02:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：必須看到通脹正在回落的證據。"
+    },
+    {
+      "id": "5119272",
+      "time": "2026-09-30 02:01:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美國經濟動能強勁，且可能持續增強。AI 投資相關問題對通脹的影響正變得越來越大。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609303886847146",
+      "time": "2026-09-30 02:01:53",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲威廉姆斯：2026年稍晚可能還需加息一次】美聯儲威廉姆斯表示，如果經濟符合預期，今年可能再加息一次；讓通脹回到2%目標水平至關重要。美聯儲政策可以確保供應衝擊不會長期持續；預計美國GDP今年增長2.25%，2027年失業率為4%；預計今年通脹率為3.5%，2028年達到2%的目標。"
+    },
+    {
+      "id": "5119271",
+      "time": "2026-09-30 02:01:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：若經濟符合預期，今年大機率還會再加息一次。更多資料將幫助美聯儲決定利率政策下一步走向。"
+    },
+    {
+      "id": "5119270",
+      "time": "2026-09-30 02:01:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：必須將通脹回落至 2%。美聯儲制定貨幣政策時將依據資料做出應對。"
+    },
+    {
+      "id": "5119269",
+      "time": "2026-09-30 02:00:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：預計今年通脹為 3.5%，2028 年達到 2% 目標。美聯儲必須確保高通脹不會固化。"
+    },
+    {
+      "id": "5119268",
+      "time": "2026-09-30 02:00:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美聯儲的政策能夠確保供給衝擊帶來的影響不會持久。"
+    },
+    {
+      "id": "5119267",
+      "time": "2026-09-30 02:00:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報3.011美元/百萬英熱。"
+    },
+    {
+      "id": "5119266",
+      "time": "2026-09-30 02:00:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：預計美國今年 GDP 增速 2.25%，2027 年失業率為 4%。"
+    },
+    {
+      "id": "5119265",
+      "time": "2026-09-30 02:00:17",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：2026 年末或還需要一次加息。9月加息後，“沒有必要急於行動”。"
+    },
+    {
+      "id": "5119264",
+      "time": "2026-09-30 02:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守90美元/桶，日內跌2.81%。"
+    },
+    {
+      "id": "5119263",
+      "time": "2026-09-30 01:59:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：在點陣圖裡，我屬於美聯儲內部偏樂觀的那批人。"
+    },
+    {
+      "id": "5119262",
+      "time": "2026-09-30 01:59:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：2023 至 2024 年，我曾認為通脹會回落至 2%，但之後通脹陷入停滯。"
+    },
+    {
+      "id": "5119261",
+      "time": "2026-09-30 01:57:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行副行長格拉維爾：必須確保對沖基金具備穩健的流動性管理。"
+    },
+    {
+      "id": "5119260",
+      "time": "2026-09-30 01:56:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：鉅額赤字屬於一種刺激手段，可能導致經濟過熱。"
+    },
+    {
+      "id": "5119259",
+      "time": "2026-09-30 01:56:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行副行長格拉維爾：對沖基金的持倉可能放大債券市場壓力。"
+    },
+    {
+      "id": "5119258",
+      "time": "2026-09-30 01:55:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI ：正在調查 ChatGPT 與 Codex 錯誤率升高問題。"
+    },
+    {
+      "id": "5119257",
+      "time": "2026-09-30 01:55:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行副行長格拉維爾：資產負債表項下的加拿大政府債券購買操作可能要到 2028 年才會啟動。"
+    },
+    {
+      "id": "5119256",
+      "time": "2026-09-30 01:52:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：要密切關注生產率。"
+    },
+    {
+      "id": "5119255",
+      "time": "2026-09-30 01:51:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國俄克拉荷馬州州長斯蒂特尋求暫停對染色柴油徵稅120天。"
+    },
+    {
+      "id": "5119254",
+      "time": "2026-09-30 01:50:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：油價或許會較快回落，但更深層的問題在於煉油廠復產。"
+    },
+    {
+      "id": "5119253",
+      "time": "2026-09-30 01:49:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國擬透過“互換”釋放至多4000萬桶石油儲備】美國能源部戰略石油儲備專案管理辦公室29日釋出邀約公告，計劃以“互換”方式向市場釋放至多4000萬桶原油。（新華社）"
+    },
+    {
+      "id": "5119252",
+      "time": "2026-09-30 01:49:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：通脹連續五年半高於目標，這是在玩火。"
+    },
+    {
+      "id": "5119251",
+      "time": "2026-09-30 01:49:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：需要重新審視忽略供給衝擊這一思路的邏輯。"
+    },
+    {
+      "id": "5119250",
+      "time": "2026-09-30 01:47:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【復活節島東南部海域發生5.0級地震】根據歐洲-地中海地震中心報告，當地時間9月29日09時31分，復活節島東南部海域發生5.0級地震，震源深度10公里。目前暫無海嘯預警報告。"
+    },
+    {
+      "id": "5119249",
+      "time": "2026-09-30 01:46:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特空襲葉門多省通訊設施和學校】當地時間9月29日晚，葉門胡塞武裝發表宣告稱，過去24小時沙特透過F15和颱風戰機空襲了胡塞武裝控制下的葉門多個省份的通訊設施和學校。自本輪衝突升級以來，沙特對葉門胡塞武裝控制區已經進行了1158次空襲和導彈襲擊。（央視新聞）"
+    },
+    {
+      "id": "5119248",
+      "time": "2026-09-30 01:43:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：《聯邦儲備法》中沒有任何條款要求美聯儲必須取悅債券市場，或是保證股市不會感到意外。"
+    },
+    {
+      "id": "5119247",
+      "time": "2026-09-30 01:43:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：短期來看，AI 目前最大的影響是推高成本。"
+    },
+    {
+      "id": "5119246",
+      "time": "2026-09-30 01:40:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：通脹居高不下，民眾感到沮喪且充滿不確定性。"
+    },
+    {
+      "id": "5119245",
+      "time": "2026-09-30 01:39:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：約旦一名高階官員否認以色列媒體的報道，稱沒有約旦代表在內塔尼亞胡近期訪問阿聯酋期間與其舉行會晤。"
+    },
+    {
+      "id": "5119243",
+      "time": "2026-09-30 01:35:20",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "OpenAI 目標融資 300 億美元，估值定為 1.4 萬億美元。"
+    },
+    {
+      "id": "5119242",
+      "time": "2026-09-30 01:33:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：清晰傳達的政策框架，同樣有助於防範通脹螺旋與通縮螺旋。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609303886844046",
+      "time": "2026-09-30 01:33:02",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲穆薩萊姆：美聯儲應避免在沒有明確框架的情況下退出溝通 否則市場可能無法理解其政策和行動】美聯儲穆薩萊姆表示，美聯儲應避免在沒有明確框架的情況下退出溝通，否則市場可能無法理解其政策和行動；也應避免“退出對話”，因為這可能帶來通脹風險。一個可預測、透明的政策框架，是央行獲得民主合法性的重要組成部分。如果公眾理解這一框架，私人部門預期就會與美聯儲的政策意圖保持一致，從而改善通脹與就業之間的權衡。"
+    },
+    {
+      "id": "5119241",
+      "time": "2026-09-30 01:32:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：表述清晰的政策框架應包含兩至三種可能情景。具備可預測性且闡釋清晰的政策框架，是央行獲得民主層面合法性的要素之一。若公眾理解政策框架，市場預期將與美聯儲的政策意圖保持一致，從而改善通脹與就業之間的權衡。"
+    },
+    {
+      "id": "5119240",
+      "time": "2026-09-30 01:32:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆： 央行應當避免釋出缺乏政策框架支撐的溝通表述與政策行動，否則市場無法理解其邏輯。央行也不應 “完全退出溝通對話”，此舉會帶來通脹方面的風險。"
+    },
+    {
+      "id": "5119239",
+      "time": "2026-09-30 01:31:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：若央行將政策框架秘而不宣，會迫使市場參與者去揣測央行的反應，而非聚焦於經濟資料。"
+    },
+    {
+      "id": "5119238",
+      "time": "2026-09-30 01:31:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：溝通政策框架能提升政策有效性，降低家庭與企業的融資成本。"
+    },
+    {
+      "id": "5119237",
+      "time": "2026-09-30 01:31:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：當美聯儲釋出的是預測而非政策框架時，就會出現 “鏡廳效應”。"
+    },
+    {
+      "id": "5119236",
+      "time": "2026-09-30 01:31:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：市場猜測會 “增加噪音”，並推高企業與家庭的利率及融資成本，加劇其波動。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609303886843938",
+      "time": "2026-09-30 01:30:42",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲古爾斯比表示，對未來人工智慧生產力提升的預期現在帶來了過熱的高風險。"
+    },
+    {
+      "id": "5119235",
+      "time": "2026-09-30 01:30:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲穆薩萊姆：被授予利率相關決策權，同時也意味著美聯儲有義務解釋 “使用該權力的方式與理由”。"
+    },
+    {
+      "id": "5119234",
+      "time": "2026-09-30 01:28:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：市場對未來 AI 帶來生產率提升的預期，會造成當前經濟過熱的巨大風險。"
+    },
+    {
+      "id": "5119233",
+      "time": "2026-09-30 01:27:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：上次加息是恰當的，我認為我們可能還需要進一步調整政策。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609303886843683",
+      "time": "2026-09-30 01:26:49",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲理事巴爾表示，除非美聯儲調整政策，否則無法及時實現2%的通脹目標。上次加息是適當的，可能需要進一步調整。"
+    },
+    {
+      "id": "5119232",
+      "time": "2026-09-30 01:26:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：我認為除非調整政策，否則我們無法及時達到 2% 的通脹目標。"
+    },
+    {
+      "id": "5119231",
+      "time": "2026-09-30 01:26:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列防長威脅打擊哈馬斯海外領導人】當地時間9月29日，以色列國防部長卡茨表示，身處海外的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）領導人也在以色列打擊之列，以方將追擊2023年10月7日襲擊以色列的所有參與者。卡茨在一段影片宣告中威脅稱，那些參與2023年10月7日襲擊以色列的“核心角色”，一個也不能“安然死去”。卡茨還說，以軍在28日夜間至29日凌晨的行動中打死哈馬斯軍事分支北加沙旅指揮官。（央視新聞）"
+    },
+    {
+      "id": "5119230",
+      "time": "2026-09-30 01:25:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：預測市場平臺Kalshi正與老股東及新投資者進行深入談判，包括老虎環球基金（Tiger Global）和Dragoneer，計劃籌集10億美元新融資。"
+    },
+    {
+      "id": "em:qqyh_jndyh:202609303886843297",
+      "time": "2026-09-30 01:25:38",
+      "tags": [
+        "央行",
+        "加拿大央行"
+      ],
+      "text": "【加拿大央行副行長：加拿大金融機構無需擔心使用常備流動性工具獲取隔夜流動性】加拿大央行副行長表示，加拿大金融機構無需擔心使用常備流動性工具獲取隔夜流動性。加拿大央行和加拿大金融監管機構（OSFI）已釋出聯合宣告，表示使用常備流動性工具（SLF）滿足隔夜流動性需求，並不被視為異常事件或壓力訊號。SLF是一項常規工具，任何Lynx支付系統成員都可以放心使用。更積極地使用兩週期回購操作，可能意味著準備金有時會超過央行對穩定狀態需求的最佳估計。目前這一需求預計維持在500億至700億加元之間。"
+    },
+    {
+      "id": "5119229",
+      "time": "2026-09-30 01:25:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：企業利潤率目前仍處於高位，但已開始收窄。"
+    },
+    {
+      "id": "te:markets:587819",
+      "time": "2026-09-30 01:23:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Drops as US SPR Release Boosts Supply — Brent crude fell near $102 a barrel on Tuesday after the US ordered another release from its emergency reserves and as Saudi Arabia’s crude exports recover. The US will offer up to 40 million barrels from the SPR in an exchange, and urged European nations to do likewise. The Energy Department said the program will ultimately return about 200 million barrels to the reserve over the next year, roughly 20% more than the amount released. Bids for the SPR release are due October 6th. Energy Secretary Wright has signaled that another drawdown is unlikely. The SPR is projected to fall to its lowest level since 1982 once the latest release is completed. Meanwhile, Saudi Arabia boosted flows through its key pipeline, reportedly restoring about half of its capacity following drone attacks. A steady flow of crude also appears to be moving through the Hormuz on vessels transiting covertly. US and Iranian officials have reportedly held separate indirect talks with mediators on Monday."
+    },
+    {
+      "id": "5119227",
+      "time": "2026-09-30 01:23:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行副行長格拉維爾：常設流動性工具屬於常規工具，Lynx 支付系統的所有參與機構均可放心使用該工具，以應對日終流動性突發缺口。"
+    },
+    {
+      "id": "5119226",
+      "time": "2026-09-30 01:22:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行副行長格拉維爾：我們不會對每一次小幅偏離都做出反應，因為這類波動可以提供有益的市場訊號。酌情開展隔夜回購操作，意味著我們允許加拿大隔夜平均利率（CORRA）出現一定程度偏離。加拿大央行與加拿大金融監管局（OSFI）釋出聯合宣告，稱使用常設流動性工具獲取隔夜流動性不被視作異常事件，也不代表存在壓力。"
+    },
+    {
+      "id": "5119225",
+      "time": "2026-09-30 01:22:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行副行長格拉維爾： 但我們對加拿大隔夜平均利率（CORRA）的上行壓力容忍度有限，因為大幅偏離會干擾貨幣政策傳導。"
+    },
+    {
+      "id": "5119224",
+      "time": "2026-09-30 01:21:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行副行長：最重要的是，當回購市場失衡狀況發生變化時，按需部署操作以管控政策利率。將準備金供應量維持在該區間本身並非政策目標。更積極地使用兩週期回購工具，可能會使準備金規模有時超出我們對穩態需求的最優估算值，該估算區間仍為 500 億至 700 億加元。"
+    },
+    {
+      "id": "5119223",
+      "time": "2026-09-30 01:20:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行副行長：加拿大金融機構無需顧慮使用常設流動性工具獲取隔夜流動性。 加拿大中央清算基礎設施與服務的現代化改造預計將於 2028 年基本完工。"
+    },
+    {
+      "id": "te:markets:587818",
+      "time": "2026-09-30 01:20:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Falls as SPR Release Boosts Supply — Crude oil fell toward $89 a barrel on Tuesday after the US ordered another release from its emergency reserves and as Saudi Arabia’s crude exports recover. The US will offer up to 40 million barrels from the SPR in an exchange, effectively a loan that companies repay with interest. The Energy Department said the program will ultimately return about 200 million barrels to the reserve over the next year, roughly 20% more than the amount released. Bids for the SPR release are due October 6th. Energy Secretary Wright has signaled that another drawdown is unlikely. The SPR is projected to fall to its lowest level since 1982 once the latest release is completed. Meanwhile, Saudi Arabia boosted flows through its key pipeline, reportedly restoring about half of its capacity following drone attacks. A steady flow of crude also appears to be moving through the Hormuz on vessels transiting covertly. US and Iranian officials have reportedly held separate indirect talks with mediators on Monday."
+    },
+    {
+      "id": "em:qqyh_mlc:202609303886842250",
+      "time": "2026-09-30 01:18:24",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "週二（9月29日），美聯儲隔夜逆回購協議（RRP）使用規模為114.46億美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202609303886842250",
+      "time": "2026-09-30 01:18:24",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "週二（9月29日），美聯儲隔夜逆回購協議（RRP）使用規模為114.46億美元。"
+    },
+    {
+      "id": "5119222",
+      "time": "2026-09-30 01:17:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI釋出常駐AI智慧體Dots，推出新的500美元付費檔位】OpenAI釋出一款常駐人工智慧（AI）智慧體，旨在主動代表使用者處理工作，在日益壯大的AI數字助手領域與Meta平臺等公司展開競爭。OpenAI週二表示，這款名為Dots的產品能夠操作電腦，並從各種互聯應用中提取資訊，以開展研究、起草文件和開發軟體。使用者可以透過ChatGPT向該智慧體傳送訊息來指揮它並與之互動。這款新工具在週二的OpenAI開發者日活動中亮相，同時釋出的還有其Sol模型的更新版本以及一個供團隊與AI協作的共享空間。OpenAI還對訂閱方案進行了調整：首次推出新的高階500美元付費檔位，提供更高的使用額度和更快的處理速度，同時下調了200美元套餐的部分使用額度。"
+    },
+    {
+      "id": "5119221",
+      "time": "2026-09-30 01:17:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（9月29日），美聯儲隔夜逆回購協議（RRP）使用規模為114.46億美元（交易對手10家），上個交易日報8.51億美元。"
+    },
+    {
+      "id": "5119220",
+      "time": "2026-09-30 01:17:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 將於今年秋季預覽基於機密計算的 “私有推理” 技術。將 ChatGPT 部署至 Slack 與微軟 Teams，使用者無需單獨申領許可證。推出企業市場平臺，上線時擁有 32 家首發合作伙伴，包括 Salesforce、奧多比、CrowdStrike。"
+    },
+    {
+      "id": "5119219",
+      "time": "2026-09-30 01:16:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：全新 500 美元 Pro 套餐，可在 Codex 與 ChatGPT 中使用超快處理功能。GPT‑6.1 Sol 模型效能接近 Astra，成本僅為後者的五分之一。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609303886840696",
+      "time": "2026-09-30 01:15:03",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲理事巴爾：經濟似乎正在積聚動能】美聯儲理事巴爾稱，美國經濟似乎正在積聚動能。美聯儲關注的全部焦點，是資料所反映的前景演變，以及實現國會賦予美聯儲的使命所面臨的風險平衡情況。"
+    },
+    {
+      "id": "5119218",
+      "time": "2026-09-30 01:13:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：我們所關注的一切，就是資料如何反映不斷變化的前景，以及實現國會賦予我們的使命所面臨的風險平衡。"
+    },
+    {
+      "id": "5119217",
+      "time": "2026-09-30 01:12:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：美聯儲的獨立性有助於我們更好地服務美國民眾。"
+    },
+    {
+      "id": "5119216",
+      "time": "2026-09-30 01:11:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：經濟動能似乎正在持續增強。"
+    },
+    {
+      "id": "5119215",
+      "time": "2026-09-30 01:11:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：我的基準情景並未預測會出現衰退。"
+    },
+    {
+      "id": "5119214",
+      "time": "2026-09-30 01:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：將於未來數日推出 GPT‑6.1 Sol 超快版。"
+    },
+    {
+      "id": "5119213",
+      "time": "2026-09-30 01:10:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI ：正與微軟合作，將專業版 Dots 智慧體接入 Agent 365，配套微軟企業級治理與安全管控能力。首個 Dot 智慧體已納入 Pro 及高階商業版套餐，無需額外付費。"
+    },
+    {
+      "id": "5119212",
+      "time": "2026-09-30 01:09:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT‑6.1 Sol 自今日起，面向 ChatGPT Work 與 Codex 內所有 Plus、Pro、Business、Enterprise 及 Edu 使用者開放。"
+    },
+    {
+      "id": "5119211",
+      "time": "2026-09-30 01:09:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：ChatGPT的周活躍使用者已達12億。"
+    },
+    {
+      "id": "5119210",
+      "time": "2026-09-30 01:09:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：面向 ChatGPT 專業版與高階商業版使用者推出 Dots 人工智慧智慧體。"
+    },
+    {
+      "id": "5119209",
+      "time": "2026-09-30 01:08:39",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "OpenAI：推出 GPT‑6.1 Sol。GPT‑6.1 Sol 標準 API 定價為每百萬輸入 token 2 美元，每百萬快取輸入 token 0.10 美元，每百萬輸出 token 10 美元。"
+    },
+    {
+      "id": "5119208",
+      "time": "2026-09-30 01:08:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【OpenAI 無視員工警示：公司在安全方面做得遠遠不夠】據美媒報道稱，在 OpenAI 人工智慧模型出現失控事件數月前，兩名員工已向高管發出警報，但他們的警告被無視。、美媒查閱相關郵件後獲悉，這兩名員工擔憂 OpenAI 最新 AI 模型未得到恰當監控，無法評估技術能力並保障模型安全。員工表示，高管對此的答覆是，必須儘快推進測試，保障 AI 模型按時釋出，並未增設任何安全管控流程。後續，OpenAI 模型突破測試環境，入侵 Hugging Face 及其他機構，引發連鎖反應。獨立安全研究人員稱，近幾個月發現多處漏洞，可檢視 OpenAI 員工內部通訊記錄；還有其他漏洞，能夠獲取公司內部程式碼以及 ChatGPT 使用者的對話日誌。研究人員向 OpenAI 反饋問題時，公司起初不予理會。OpenAI 員工稱，安全日常決策主要由總裁格雷格・布羅克曼與首席資訊保安官戴恩・斯塔基負責，執行長山姆・奧特曼並未深度參與安全事務。"
+    },
+    {
+      "id": "5119207",
+      "time": "2026-09-30 01:06:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：美國經濟的韌性令人矚目。"
+    },
+    {
+      "id": "5119206",
+      "time": "2026-09-30 01:05:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：從長遠角度看，我們必須確保採取一切必要舉措，令供需重回平衡。"
+    },
+    {
+      "id": "5119205",
+      "time": "2026-09-30 01:05:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 推出 Dots 全天候自主智慧體，面向全部付費套餐開放。"
+    },
+    {
+      "id": "5119204",
+      "time": "2026-09-30 01:02:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：技術工種薪資水平出現一定上行。"
+    },
+    {
+      "id": "5119203",
+      "time": "2026-09-30 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.09%，滬銅收漲0.11%，滬鋁收跌0.46%，滬鋅收跌0.36%，滬鉛收平，滬鎳收跌1.28%，滬錫收漲0.36%。氧化鋁夜盤收漲0.15%，鋁合金收跌0.32%。不鏽鋼夜盤收跌0.80%。"
+    },
+    {
+      "id": "5119202",
+      "time": "2026-09-30 00:59:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩洛哥國王任命法蒂瑪·扎赫拉·曼蘇里為新任首相】當地時間9月29日，摩洛哥國王穆罕默德六世當天任命法蒂瑪·扎赫拉·曼蘇里為新一任首相。這是摩洛哥歷史上首次由女性擔任這一職務。摩洛哥內政大臣拉夫提24日公佈該國議會選舉初步結果，真實性與現代黨贏得議會眾議院395個議席中的97席，位居首位。根據摩洛哥憲法，國王將從眾議院擁有最多議席的政黨中任命政府首腦，由其負責組建新一屆政府。（央視新聞）"
+    },
+    {
+      "id": "5119201",
+      "time": "2026-09-30 00:58:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 無視員工關於其做得不夠的警告。OpenAI 員工警示，模型未得到充分監控。"
+    },
+    {
+      "id": "te:markets:587816",
+      "time": "2026-09-30 00:56:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Denmark",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Danish Krone Hits 16-month Low — The Danish Krone touched 6.60 against the USD, the lowest since May 2025. Over the past 4 weeks, US Dollar Danish Krone gained 2.63%, and in the last 12 months, it increased 3.82%."
+    },
+    {
+      "id": "te:markets:587815",
+      "time": "2026-09-30 00:56:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Euro Hits 15-month Low — EURUSD decreased to 1.13, the lowest since May 2025. Over the past 4 weeks, Euro US Dollar lost 2.58%, and in the last 12 months, it decreased 3.55%."
+    },
+    {
+      "id": "5119200",
+      "time": "2026-09-30 00:55:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國警方：費爾福德空軍基地未發現爆炸裝置。"
+    },
+    {
+      "id": "5119199",
+      "time": "2026-09-30 00:54:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國廣播電視臺（IRIB）：伊朗最高國家安全委員會秘書雷扎伊表示，伊朗已經提出了條件，但特朗普無力作出決策。"
+    },
+    {
+      "id": "5119198",
+      "time": "2026-09-30 00:53:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "Claude 稱故障已解決，服務恢復正常。"
+    },
+    {
+      "id": "5119197",
+      "time": "2026-09-30 00:53:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：過去 24 小時內，沙特戰機出動 F-15 和颱風戰鬥機，從海米斯穆謝特與塔伊夫空軍基地起飛，實施 35 次空襲，襲擊塔伊茲、焦夫、阿姆蘭、薩達及荷臺達省的通訊網路、學校等民用基礎設施。自衝突升級以來，沙特發動的空襲與導彈打擊總數已達 1158 次。"
+    },
+    {
+      "id": "5119196",
+      "time": "2026-09-30 00:52:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲26美元，報14438美元/噸。LME期鋁收跌38美元，報3214美元/噸。LME期鋅收漲18美元，報3870美元/噸。LME期鉛收跌4美元，報1898美元/噸。LME期鎳收跌221美元，報15958美元/噸。LME期錫收漲412美元，報54198美元/噸。LME期鈷收平，報39140美元/噸。"
+    },
+    {
+      "id": "te:markets:587814",
+      "time": "2026-09-30 00:49:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wind Energy Index Hits 33-week Low — Wind Energy Index decreased to 22.56 USD, the lowest since February 2026. Over the past 4 weeks, Wind Energy Index lost 4.03%, and in the last 12 months, it increased 17.77%."
+    },
+    {
+      "id": "5119195",
+      "time": "2026-09-30 00:49:14",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：我不確定英國央行能否只進行一次 “預防性加息”，而不被市場誤解為開啟連續加息週期。"
+    },
+    {
+      "id": "5119194",
+      "time": "2026-09-30 00:48:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元跌至 1.1318，創 2025 年 5 月以來最低。"
+    },
+    {
+      "id": "5119193",
+      "time": "2026-09-30 00:45:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府稱，部分歐盟成員國釋放的石油及成品油儲備規模未達到承諾水平。"
+    },
+    {
+      "id": "5119192",
+      "time": "2026-09-30 00:45:00",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：石油期貨曲線每上行一次，就更有可能出現類似 2022 年的通脹情景。"
+    },
+    {
+      "id": "5119191",
+      "time": "2026-09-30 00:44:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：食品通脹存在大量上行風險。"
+    },
+    {
+      "id": "5119190",
+      "time": "2026-09-30 00:44:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：霍爾木茲海峽南部航線有船隻遭無人機襲擊。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609303886833583",
+      "time": "2026-09-30 00:44:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲理事巴爾：對人工智慧將在長期內提升生產力持樂觀態度】美聯儲理事巴爾表示，在中期內考慮人工智慧提升生產力是合理的，但很難預測具體方式或時間；對人工智慧將在長期內提升生產力持樂觀態度。現在還為時尚早，無法判斷人工智慧是否會推高中性利率；人工智慧帶來的廣泛生產力提升可能需要一些時間；人工智慧建設帶來的投資激增及相關需求對價格產生了可測量的影響。"
+    },
+    {
+      "id": "em:qqyh_mlc:202609303886832654",
+      "time": "2026-09-30 00:42:43",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲理事巴爾：可能需要繼續加息】美聯儲理事巴爾表示，可能需要繼續加息；需要重新校準政策；基本情況是可能需要進一步的政策調整。相比上半年2%的增速，預計下半年GDP增長將“略有回升”。實現通脹目標的風險增加，勞動力市場的風險減小。"
+    },
+    {
+      "id": "5119189",
+      "time": "2026-09-30 00:42:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：人工智慧帶來的廣泛生產率提升可能尚需時日。應當做好準備，人工智慧可能給勞動力市場帶來嚴重的短期衝擊。人工智慧的建設擴張或將在未來一年左右強力提振美國經濟活動。"
+    },
+    {
+      "id": "5119188",
+      "time": "2026-09-30 00:42:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：達成通脹目標的風險有所上升，勞動力市場相關風險已經下降。"
+    },
+    {
+      "id": "5119187",
+      "time": "2026-09-30 00:41:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：有必要重新校準政策；基準情景下，大機率需要進一步政策調整。"
+    },
+    {
+      "id": "5119186",
+      "time": "2026-09-30 00:41:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：勞動力市場穩健，受到企業投資與居民消費的支撐。"
+    },
+    {
+      "id": "5119185",
+      "time": "2026-09-30 00:41:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：通脹是核心關切；美聯儲在實現 2% 通脹目標的程序上已偏離軌道。"
+    },
+    {
+      "id": "5119184",
+      "time": "2026-09-30 00:41:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：尚未看到通脹及時回落至 2% 目標的明確趨勢。"
+    },
+    {
+      "id": "5119183",
+      "time": "2026-09-30 00:41:04",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：可能需要繼續加息。"
+    },
+    {
+      "id": "5119182",
+      "time": "2026-09-30 00:40:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：在中期預估人工智慧帶來的生產率提升是合理的，但很難預判提升的方式與時間。"
+    },
+    {
+      "id": "5119181",
+      "time": "2026-09-30 00:40:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：對人工智慧長期提振生產率持樂觀態度。"
+    },
+    {
+      "id": "5119180",
+      "time": "2026-09-30 00:40:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事巴爾：現在尚無法確定人工智慧是否會推高中性利率。"
+    },
+    {
+      "id": "5119179",
+      "time": "2026-09-30 00:39:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國原油基金 8 月利息收入 283 萬美元。"
+    },
+    {
+      "id": "5119178",
+      "time": "2026-09-30 00:38:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪士尼裁員數百名員工。"
+    },
+    {
+      "id": "5119177",
+      "time": "2026-09-30 00:37:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國原油基金 8 月總收入 8520 萬美元。"
+    },
+    {
+      "id": "te:markets:587810",
+      "time": "2026-09-30 00:35:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Falls Toward Three-Month Low — Cotton futures plunged below 80 cents per pound, approaching their lowest level in three months, pressured by rising new-crop supplies and subdued export demand. The US harvest is progressing faster than both last year and the five-year average, with 17% of the crop harvested compared with the historical average of 15%, while Texas and Arizona are running well ahead of their normal pace, according to the latest USDA NASS Crop Progress report. Ample supplies from Brazil are adding to the bearish pressure, with the country producing more than 4.1 million tonnes and exporting a record 3.37 million tonnes in 2025/26, up 19% from the previous season, intensifying competition in global markets. Meanwhile, import demand from key Asian consumers remains weak. China, the world’s largest cotton consumer, imported just 80,000 tonnes in August 2026, down 12.1% from 90,000 tonnes in July."
+    },
     {
       "id": "5119176",
       "time": "2026-09-30 00:31:28",
