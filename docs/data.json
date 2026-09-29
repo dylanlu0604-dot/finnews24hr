@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-29 14:39:39",
-  "count": 11774,
+  "updated": "2026-09-29 14:43:26",
+  "count": 11768,
   "items": [
+    {
+      "id": "mkt:01a0ebe6-cf73-7338-ab05-07af5397efb9",
+      "time": "2026-09-29 14:42:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CODEX product head said the $200/month Pro subscription will reopen to new users tomorrow with revised usage metering; equivalent API spend under the new plan will be half that of the original $200 Pro plan."
+    },
+    {
+      "id": "5117926",
+      "time": "2026-09-29 14:42:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD考恩將戴爾目標股價從500美元上調至550美元。"
+    },
+    {
+      "id": "5117925",
+      "time": "2026-09-29 14:40:42",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【AI產業催化密集，創業板算力ETF華夏（158041）連續6天獲淨申購】9月29日，創業板算力ETF華夏（158041）觸底反彈，截至稿大漲1.65%，成交額2.52億元.資金流向方面，已連續6天獲得淨申購，最新規模7.77億元。訊息面上，近期PCB產業鏈漲價正向下游全面傳導：江西宏瑞興科技宣佈覆銅板出廠價上調10%；玻纖龍頭中國巨石9月對電子布厚布、薄布分別提價15%與20%；建滔集團部分產品漲幅10%至20%。上游原材料、中游覆銅板至下游PCB的成本傳導機制已經打通，下游PCB廠商陸續啟動重新報價，高階HDI、IC載板等高階賽道需求持續高增，BT載板材料交期已拉長至16至20周。中金公司認為，大模型引數規模、長上下文及並行策略推升卡間通訊需求，AI基礎設施瓶頸正由單晶片算力轉向互聯效率、資源排程和系統協同，超節點有望成為AI算力的重要組織方式，推動交換晶片、光互聯、液冷和高功率電源等環節迎來需求擴張與技術升級。東北證券指出，供給端高階產能的硬約束將持續放大供需缺口，AI算力基建驅動高階覆銅板量價齊升，漲價已從高階向普品擴散，漲價週期至少延續至2027年，PCB正從傳統承載平臺向核心互聯介質躍遷。創業板算力ETF華夏（158041）緊密跟蹤創業板算力基礎設施指數，指數聚焦AI算力基礎設施產業鏈，是一鍵佈局算力硬體核心環節的便捷工具。"
+    },
+    {
+      "id": "5117924",
+      "time": "2026-09-29 14:40:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎哈羅娃稱讚中國戰略眼光深遠】據俄羅斯《訊息報》網站9月28日報道，俄羅斯外交部發言人扎哈羅娃28日表示，中國與西方國家的區別在於具有深遠的戰略眼光，這使其能夠面向未來謀發展，並超越短期選舉週期的侷限看待事物。 （參考訊息）"
+    },
     {
       "id": "5117923",
       "time": "2026-09-29 14:38:39",
@@ -107193,91 +107229,6 @@
         "其他"
       ],
       "text": "【北京：鼓勵引導京津冀三地動力電池生產企業、廢動力電池回收利用企業加強合作，促進廢動力電池就近實現迴圈利用】北京市發展和改革委員會 北京市經濟和資訊化局等部門釋出關於印發北京市鼓勵廢動力電池回收利用企業規範健康發展若干措施的通知。其中指出，結合京津冀“六鏈七群”產業協同工作推進機制，加強與京津冀智慧網聯新能源汽車產業叢集建設一體謀劃，共同推動區域廢動力電池回收利用產業發展。 13.鼓勵引導京津冀三地動力電池生產企業、廢動力電池回收利用企業加強合作，促進廢動力電池就近實現迴圈利用。 14.依託全國新能源汽車動力電池溯源資訊平臺，推動三地廢動力電池回收網點佈局、轉運流向、綜合利用產能等資料共享和產業協同發展。"
-    },
-    {
-      "id": "5107037",
-      "time": "2026-09-22 14:43:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將支付500萬歐元以解決遺留的荷蘭信貸瑞士銀行案件達成協議。"
-    },
-    {
-      "id": "5107036",
-      "time": "2026-09-22 14:42:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀集團就其遺留的荷蘭信貸瑞士銀行案件達成協議。"
-    },
-    {
-      "id": "5107035",
-      "time": "2026-09-22 14:42:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大連重工獲華能太倉港億元堆取料機訂單】近日，大連重工下屬華銳國際聯合裝卸事業部首次斬獲華能太倉港務有限責任公司重點專案-DQL4000/4000.60型鬥輪堆取料機採購訂單，包含3臺大型智慧化散料裝卸裝置，總金額超億元。"
-    },
-    {
-      "id": "5107034",
-      "time": "2026-09-22 14:42:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京：重點突破一批綠色低碳智慧安全回收利用技術】北京市發展和改革委員會 北京市經濟和資訊化局等部門釋出關於印發北京市鼓勵廢動力電池回收利用企業規範健康發展若干措施的通知。其中指出，鼓勵以企業為主導，推進產學研深度融合，充分發揮高校、科研院所、企業等單位各自優勢，組建聯合創新團隊，開展產學研協同攻關。支援推動廢動力電池回收利用領域相關重點實驗室建設，重點突破一批綠色低碳智慧安全回收利用技術。充分發揮北京國家綠色技術交易中心等平臺作用，服務研發機構、企業開展廢動力電池回收利用技術對接活動，搭建供需對接橋樑，完善市場化價值發現機制，促進相關技術成果轉移轉化。"
-    },
-    {
-      "id": "te:markets:585519",
-      "time": "2026-09-22 14:42:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Closes 0.3% Higher — The ASX 200 added 26 points, or 0.3%, to finish at 8,758 on Tuesday, breaking a run of muted sessions. A modest lift in U.S. futures helped sentiment after chip stocks rallied on Wall Street Monday amid optimism over Meta’s new AI agent. Global oil prices slipping below USD 100 a barrel on prospects of Middle East talks at the UN also buoyed risk appetite. Investors rotated into tech, consumer durables, manufacturing, and services, though gains were capped after Australia’s central banker warned upside inflation risks may be emerging as energy costs remain high and domestic demand stays firm, reinforcing bets on a rate hike next week. Caution also grew ahead of flash September PMI and August labor data later this week. Tech names led, with Nextdc up 3.6%, Technology One 2.9%, and Wisetech Global 2.8%. Other standouts included Lynas Rare Earths (3.8%), ASX Ltd. (2.8%), and Qantas Airways (1.8%), underscoring selective strength across the market."
-    },
-    {
-      "id": "5107033",
-      "time": "2026-09-22 14:41:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "北京市發展和改革委員會 北京市經濟和資訊化局等部門釋出關於印發北京市鼓勵廢動力電池回收利用企業規範健康發展若干措施的通知。"
-    },
-    {
-      "id": "5107032",
-      "time": "2026-09-22 14:41:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【綠茶集團第二大股東清倉 代表董事離任】港股餐飲上市公司綠茶集團(06831.HK)於週一(9月21日)釋出公告稱，徐睿婕因工作安排已辭任公司非執行董事職務，其辭任自2026年9月21日起生效。 董事會近期接獲公司股東Partners Group Gourmet House Limited（合眾集團）通知，Partners Gourmet已於日前透過場外交易方式出售其持有的全部本公司股份(本次出售)。本次出售完成後，Partners Gourmet不再持有任何公司股份，實現徹底清倉出局。"
-    },
-    {
-      "id": "5107030",
-      "time": "2026-09-22 14:39:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯薩馬拉州州長：烏克蘭無人機襲擊造成1人死亡、4人受傷。"
-    },
-    {
-      "id": "5107029",
-      "time": "2026-09-22 14:39:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾和諾德CEO：關注包括心血管在內的外部資產。"
-    },
-    {
-      "id": "5107028",
-      "time": "2026-09-22 14:39:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "寶羅仕可再生能源有限公司：受中東衝突影響，巴魯奇產能擴張專案預計將於2027年3月底前竣工投產。"
     }
   ]
 }
