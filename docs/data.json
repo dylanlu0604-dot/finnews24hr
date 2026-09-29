@@ -1,7 +1,100 @@
 {
-  "updated": "2026-09-30 00:01:54",
-  "count": 11864,
+  "updated": "2026-09-30 00:05:49",
+  "count": 11865,
   "items": [
+    {
+      "id": "mkt:01a0ede9-dadd-7338-ab15-def4bb5b2a6e",
+      "time": "2026-09-30 00:05:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French Treasury (AFT) plans to issue €340 billion of medium- and long-term government bonds next year, excluding buyback operations."
+    },
+    {
+      "id": "mkt:01a0ede8-c0dc-7338-ab15-d6b7f91d8615",
+      "time": "2026-09-30 00:04:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Agence France Trésor (AFT) expects France's 3-month Treasury bill yield to reach 3% next year and the 10-year benchmark bond yield to reach 4.3%."
+    },
+    {
+      "id": "5119157",
+      "time": "2026-09-30 00:03:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【法國面臨創紀錄的 3400 億歐元發債浪潮】法國計劃 2027 年發行 3400 億歐元中長期債券，總融資需求達 3397 億歐元。規模創紀錄的 1892 億歐元債務到期，將進一步加大再融資壓力。 法國國債署（AFT）預計 3 個月期國庫券利率為 3%，10 年期基準國債利率為 4.3%，凸顯法國公共財政面臨日益高昂的融資環境。"
+    },
+    {
+      "id": "mkt:01a0ede8-0982-7338-ab15-cda7774aa712",
+      "time": "2026-09-30 00:03:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EU Energy Commissioner Jorgensen has discussed possible oil releases with IEA chief BIROL and said further consultations with member states and the IEA are needed."
+    },
+    {
+      "id": "mkt:01a0ede7-af71-7338-ab15-c525af6ee047",
+      "time": "2026-09-30 00:02:58",
+      "tags": [
+        "MKT News",
+        "GOOGL.O"
+      ],
+      "text": "Google Cloud said it expanded the Gemini Enterprise security agent catalog through integrations with 24 partners."
+    },
+    {
+      "id": "mkt:01a0ede7-0f57-7338-ab15-b995aee541b3",
+      "time": "2026-09-30 00:02:17",
+      "tags": [
+        "MKT News",
+        "2308.TW",
+        "Impact bullish"
+      ],
+      "text": "Delta Electronics will advance development of next-generation autonomous driving technology."
+    },
+    {
+      "id": "5119156",
+      "time": "2026-09-30 00:02:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：透過新增 24 項合作伙伴整合，擴充 Gemini 企業安全智慧體目錄。"
+    },
+    {
+      "id": "mkt:01a0ede6-e675-7338-ab15-b4fbb45463d2",
+      "time": "2026-09-30 00:02:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "2308.TW",
+        "Impact bullish",
+        "NVDA.O"
+      ],
+      "text": "Delta Electronics will build an autonomous-driving system based on NVIDIA's Hyperion platform."
+    },
+    {
+      "id": "5119155",
+      "time": "2026-09-30 00:01:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟能源專員：已與國際能源署的比羅討論釋放石油儲備的可能性，仍需就相關問題同歐盟成員國及國際能源署磋商。"
+    },
     {
       "id": "mkt:01a0ede6-0305-7338-ab15-afd8fdb72806",
       "time": "2026-09-30 00:01:09",
@@ -108455,74 +108548,6 @@
         "其他"
       ],
       "text": "土耳其總統埃爾多安：日益嚴重的仇外心理、文化種族主義和反猶主義是必須堅決打擊的有害趨勢。"
-    },
-    {
-      "id": "mkt:01a0c9dd-a404-7118-864a-e01e814301da",
-      "time": "2026-09-23 00:05:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S.-Denmark-Greenland agreement must undergo requisite parliamentary procedures in the Kingdom of Denmark and in Greenland."
-    },
-    {
-      "id": "mkt:01a0c9dd-7b53-7118-864a-dee9607cbb51",
-      "time": "2026-09-23 00:05:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S., Denmark and Greenland agree to cooperate to counter espionage activities on Greenland."
-    },
-    {
-      "id": "mkt:01a0c9dd-576f-7118-864a-d0a68eb548c0",
-      "time": "2026-09-23 00:05:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US-Denmark-Greenland agreement: Denmark will continue to strengthen its security posture in the Arctic."
-    },
-    {
-      "id": "mkt:01a0c9dd-352b-7118-864a-caf537d5991e",
-      "time": "2026-09-23 00:05:12",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "US-Denmark-Greenland agreement allows the United States to modernize and expand operations at Pituffik Space Base in Greenland."
-    },
-    {
-      "id": "mkt:01a0c9dc-32d5-7118-864a-c6035a899f25",
-      "time": "2026-09-23 00:04:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Under a U.S.-Denmark-Greenland agreement, U.S. aircraft may operate and land anywhere on Greenland territory, including its territorial sea."
-    },
-    {
-      "id": "5108329",
-      "time": "2026-09-23 00:03:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "美丹格陵蘭協議：該協議須經丹麥王國與格陵蘭共同完成必要議會程式後方可生效。"
-    },
-    {
-      "id": "5108328",
-      "time": "2026-09-23 00:03:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級上調近期石油和歐洲天然氣價格預期。"
-    },
-    {
-      "id": "5108327",
-      "time": "2026-09-23 00:02:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "美丹格陵蘭協議：各方應共同努力，打擊在格陵蘭的間諜活動。"
     }
   ]
 }
