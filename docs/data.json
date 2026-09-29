@@ -1,7 +1,159 @@
 {
-  "updated": "2026-09-29 15:06:35",
-  "count": 11792,
+  "updated": "2026-09-29 15:10:22",
+  "count": 11799,
   "items": [
+    {
+      "id": "mkt:01a0ebff-be50-7338-ab06-4190221f4417",
+      "time": "2026-09-29 15:10:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. National Highway Traffic Safety Administration closed a defect petition investigation into alleged unintended airbag deployments while driving in 806,963 Honda Motor Co. (HMC.N) Odyssey vehicles."
+    },
+    {
+      "id": "mkt:01a0ebff-9c05-7338-ab06-3bc2d1b5207b",
+      "time": "2026-09-29 15:09:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Shell-led Canadian LNG project wins final investment decision; capacity to double to 28 Mtpa】Shareholders approved a final investment decision to expand the Shell (SHEL.N)-led LNG project at Kitimat, British Columbia, greenlighting a second-phase build that will roughly double annual export capacity to about 28 Mtpa and is expected to begin commercial operations in the early 2030s. The expansion, worth tens of billions of dollars, comes as Asian buyers face the largest supply shock in years; the Iran conflict and a tightening blockade of the Strait of Hormuz have accelerated demand for non‑Middle East supply. Prime Minister Carney said Canada could help fill the gap and has listed the LNG expansion as a national 'nation-building' major project."
+    },
+    {
+      "id": "5117982",
+      "time": "2026-09-29 15:09:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局：結束對806,963輛本田奧德賽美國車型的缺陷請願，該請願涉及車輛行駛中安全氣囊意外展開的問題。"
+    },
+    {
+      "id": "mkt:01a0ebfe-f4c7-7338-ab06-30d2dcaee1f4",
+      "time": "2026-09-29 15:09:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "SOL.MC",
+        "Impact bullish"
+      ],
+      "text": "Spain’s solar firm Solaria shares rose 3.4%, leading gains among IBEX 35 constituents."
+    },
+    {
+      "id": "5117981",
+      "time": "2026-09-29 15:08:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "SOLARIA股價上漲3.4%，領漲西班牙IBEX 35指數。"
+    },
+    {
+      "id": "5117980",
+      "time": "2026-09-29 15:08:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元機器人入股藍點觸控旗下公司】天眼查App顯示，近日，盈鑫智造（北京）科技有限公司發生工商變更，新增智元機器人關聯公司智元創新（上海）科技股份有限公司為股東，同時，註冊資本由3000萬人民幣增至3060萬人民幣。該公司成立於2026年6月，法定代表人為張鵬玲，經營範圍含人工智慧應用軟體開發、智慧機器人的研發、智慧機器人銷售等。股東資訊顯示，該公司現由藍點觸控（北京）科技有限公司及上述新增股東共同持股。"
+    },
+    {
+      "id": "mkt:01a0ebfd-e232-7338-ab06-2a7458a8b5f2",
+      "time": "2026-09-29 15:07:59",
+      "tags": [
+        "MKT News",
+        "BAER.SW",
+        "Impact bullish"
+      ],
+      "text": "Julius Baer Group shares rose 7.5% after Swiss regulator FINMA closed an enforcement proceeding."
+    },
+    {
+      "id": "mkt:01a0ebfd-9788-7338-ab06-22dfbc297a05",
+      "time": "2026-09-29 15:07:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's cabinet approved more than 4 billion baht for flood relief, the prime minister said."
+    },
+    {
+      "id": "5117979",
+      "time": "2026-09-29 15:07:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國總理：內閣批准超過40億泰銖用於應對洪災影響。"
+    },
+    {
+      "id": "mkt:01a0ebfd-7bfb-7338-ab06-1aa4eeccb901",
+      "time": "2026-09-29 15:07:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "HLAG.DE",
+        "Impact bullish"
+      ],
+      "text": "Hapag-Lloyd shares rose 2% after the German shipping giant raised its full-year profit guidance."
+    },
+    {
+      "id": "5117978",
+      "time": "2026-09-29 15:07:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【萬豐奧威：VoloCity、VoloXpro機型已在歐洲地區TC（型號合格證）取證中】萬豐奧威9月29日在互動平臺表示，公司VoloCity、VoloXpro機型已在歐洲地區TC（型號合格證）取證中，目前尚未在中國民航局提交TC（型號合格證）申請。"
+    },
+    {
+      "id": "5117977",
+      "time": "2026-09-29 15:07:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐工機械旗下江蘇研究院公司增資至9.5億】天眼查App顯示，近日，江蘇徐工工程機械研究院有限公司發生工商變更，註冊資本由5億元人民幣增至9.5億元人民幣。該公司成立於2018年1月，法定代表人為單增海，經營範圍含工程機械、建築工程機械、礦山機械、環衛機械、汽車、汽車基礎零部件領域的技術研發、技術轉讓、技術服務、技術諮詢等。股東資訊顯示，該公司由徐工集團工程機械股份有限公司全資持股。"
+    },
+    {
+      "id": "5117976",
+      "time": "2026-09-29 15:07:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【君實生物等在嘉興成立股權投資合夥企業，出資額3.6億】天眼查App顯示，近日，嘉興源禾創孚股權投資合夥企業（有限合夥）成立，執行事務合夥人為君實創業投資（海南）有限公司，出資額3.6億元，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動，創業投資。合夥人資訊顯示，該合夥企業由海鹽縣國有資本投資運營有限公司、上海君實生物醫藥科技股份有限公司、海鹽嘉睿戰新股權投資合夥企業（有限合夥）等共同出資。"
+    },
+    {
+      "id": "5117975",
+      "time": "2026-09-29 15:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國2027財年公共債務計劃要求新增借款1.26萬億泰銖。"
+    },
+    {
+      "id": "mkt:01a0ebfc-6f82-7338-ab06-1242d86bd088",
+      "time": "2026-09-29 15:06:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "30-year government bond futures (TL) most-active contract rose more than 0.50 pct intraday to 117.66 yuan."
+    },
+    {
+      "id": "5117974",
+      "time": "2026-09-29 15:06:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金帝股份旗下海南投資公司增資至9.1億 增幅約10%】天眼查App顯示，近日，海南金海慧投資有限公司發生工商變更，註冊資本由8.3億元人民幣增至9.1億元人民幣，增幅約10%。該公司成立於2019年6月，法定代表人為鄭廣會，經營範圍含市場營銷策劃、市場管理服務、工業專業設計及其他專業技術服務等。股東資訊顯示，該公司由山東金帝精密機械科技股份有限公司全資持股。"
+    },
+    {
+      "id": "5117973",
+      "time": "2026-09-29 15:06:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中保投資在蘇州成立新合夥企業，出資額5億】天眼查App顯示，近日，中保投智算（蘇州）股權投資合夥企業（有限合夥）成立，執行事務合夥人為中保投資有限責任公司，出資額5億元，經營範圍為股權投資、創業投資。合夥人資訊顯示，該合夥企業由中保投資有限責任公司、中保投資（深圳）有限責任公司共同出資。"
+    },
     {
       "id": "5117972",
       "time": "2026-09-29 15:05:52",
@@ -107449,91 +107601,6 @@
         "國際"
       ],
       "text": "歐盟委員會主席馮德萊恩：法國呼籲暫時放寬歐洲燃料質量標準。"
-    },
-    {
-      "id": "te:economy:585535",
-      "time": "2026-09-22 15:09:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Leading Economic Index",
-        "Importance 1"
-      ],
-      "text": "South Africa Leading Index Drops 0.9% MoM in July — South Africa’s composite leading business cycle indicator fell by 0.9% month-over-month in July 2026, following a revised 1.0% decline in June. Six of the 10 available component time series decreased, outweighing gains in the remaining four. The largest negative contributions came from a slowdown in the six-month smoothed growth rate of real M1 money supply and a decline in residential building plans approved. Meanwhile, the biggest positive contributions came from an acceleration in the six-month smoothed growth rate of job advertisements and a widening interest rate spread. The coincident business cycle indicator edged down by 0.1% in June, mainly due to lower real wholesale, retail and motor trade sales, while the lagging indicator rose by 0.2%."
-    },
-    {
-      "id": "5107108",
-      "time": "2026-09-22 15:09:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "胡昌升同志任西藏自治區黨委委員、常委、書記，不再擔任甘肅省委書記、常委、委員職務；王君正同志不再擔任西藏自治區黨委書記、常委、委員職務。 （新華社）"
-    },
-    {
-      "id": "5107107",
-      "time": "2026-09-22 15:09:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "吳曉軍同志任甘肅省委委員、常委、書記，不再擔任青海省委書記、常委、委員職務。 （新華社）"
-    },
-    {
-      "id": "5107106",
-      "time": "2026-09-22 15:09:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅東川同志任青海省委書記。 （新華社）"
-    },
-    {
-      "id": "5107105",
-      "time": "2026-09-22 15:08:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局：結束針對因倒車攝像頭故障對129,092輛美國本田機動車展開的工程分析。"
-    },
-    {
-      "id": "5107104",
-      "time": "2026-09-22 15:08:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "LG印度公司推出新型半自動洗衣機。"
-    },
-    {
-      "id": "5107103",
-      "time": "2026-09-22 15:08:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【千問辦公釋出企業上下文，讓Agent更懂企業、懂業務】在2026杭州雲棲大會上，基於“資料是 Agent 進入企業業務流程的最重要前提”這一認知，千問辦公釋出面向企業的全新產品：企業上下文（Enterprise Context），基於企業上下文產品和千問辦公的Agent託管能力，千問辦公可幫助企業構建懂業務的數字員工，讓他們在釘釘等各類 IM 上和人類員工進行協同，重塑業務流程，大幅提升組織效率。阿里巴巴集團副總裁、千問辦公CEO陳宇森表示：“千問辦公是業內首個企業級Agent產品，Agent要在企業真實場景落地，既要懂業務，也要像人一樣在企業和組織內協同，且每一次任務執行要有邊界、能追溯。”（新浪科技）"
-    },
-    {
-      "id": "5107102",
-      "time": "2026-09-22 15:07:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中郵證券：首予威派格“增持”評級，主業靜待回暖】中郵證券研報指出，威派格主業靜待回暖，收購安徽提曼開啟第二成長曲線。上半年實現歸母淨利潤-1.3億元；單Q2實現歸母淨利潤-0.72億元；實現扣非歸母淨利潤-0.78億元。公司收入、歸母淨利潤短期受宏觀環境波動以及交付驗收節奏影響，逆勢強化內部管理，推動企業經營質量提升。員工持股繫結業績目標，2025年末在手訂單充裕。公司透過增資方式取得安徽提曼科技有限公司51.02%股權，積極規劃擴產。後續公司將根據裝置到位、工藝驗證及市場訂單情況，擇機分步推進擴產，目標在2026年底和2027年底分別達到500萬支/月和2000萬支/月的階段性產能水平。首次覆蓋，給予“增持”評級。"
-    },
-    {
-      "id": "5107101",
-      "time": "2026-09-22 15:07:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【翱捷科技：第二代5G智慧SoC處於研發收尾階段】翱捷科技在9月22日舉行的2026年半年度業績說明會上表示，公司第二代5G智慧SoC處於研發收尾階段，預計明年一季度流片，晶片流片後仍需除錯、適配與客戶認證，通常情況下流片到量產一般需要約一年時間。"
-    },
-    {
-      "id": "5107100",
-      "time": "2026-09-22 15:06:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長春一東：推動AMT、新能源減振器等產品規模化配套】長春一東在9月22日召開的2026年半年度業績說明會上表示，面對商用車電動化趨勢，公司一方面穩住傳統業務基本盤，推動AMT、新能源減振器等產品規模化配套；另一方面發揮長春、蘇州雙研發中心協同優勢，緊跟主機廠技術路線來對沖行業變化。"
     }
   ]
 }

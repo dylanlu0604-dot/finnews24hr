@@ -1,7 +1,159 @@
 {
   "date": "2026-09-29",
-  "count": 1298,
+  "count": 1315,
   "items": [
+    {
+      "id": "mkt:01a0ebff-be50-7338-ab06-4190221f4417",
+      "time": "2026-09-29 15:10:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. National Highway Traffic Safety Administration closed a defect petition investigation into alleged unintended airbag deployments while driving in 806,963 Honda Motor Co. (HMC.N) Odyssey vehicles."
+    },
+    {
+      "id": "mkt:01a0ebff-9c05-7338-ab06-3bc2d1b5207b",
+      "time": "2026-09-29 15:09:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Shell-led Canadian LNG project wins final investment decision; capacity to double to 28 Mtpa】Shareholders approved a final investment decision to expand the Shell (SHEL.N)-led LNG project at Kitimat, British Columbia, greenlighting a second-phase build that will roughly double annual export capacity to about 28 Mtpa and is expected to begin commercial operations in the early 2030s. The expansion, worth tens of billions of dollars, comes as Asian buyers face the largest supply shock in years; the Iran conflict and a tightening blockade of the Strait of Hormuz have accelerated demand for non‑Middle East supply. Prime Minister Carney said Canada could help fill the gap and has listed the LNG expansion as a national 'nation-building' major project."
+    },
+    {
+      "id": "5117982",
+      "time": "2026-09-29 15:09:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局：結束對806,963輛本田奧德賽美國車型的缺陷請願，該請願涉及車輛行駛中安全氣囊意外展開的問題。"
+    },
+    {
+      "id": "mkt:01a0ebfe-f4c7-7338-ab06-30d2dcaee1f4",
+      "time": "2026-09-29 15:09:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "SOL.MC",
+        "Impact bullish"
+      ],
+      "text": "Spain’s solar firm Solaria shares rose 3.4%, leading gains among IBEX 35 constituents."
+    },
+    {
+      "id": "5117981",
+      "time": "2026-09-29 15:08:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "SOLARIA股價上漲3.4%，領漲西班牙IBEX 35指數。"
+    },
+    {
+      "id": "5117980",
+      "time": "2026-09-29 15:08:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元機器人入股藍點觸控旗下公司】天眼查App顯示，近日，盈鑫智造（北京）科技有限公司發生工商變更，新增智元機器人關聯公司智元創新（上海）科技股份有限公司為股東，同時，註冊資本由3000萬人民幣增至3060萬人民幣。該公司成立於2026年6月，法定代表人為張鵬玲，經營範圍含人工智慧應用軟體開發、智慧機器人的研發、智慧機器人銷售等。股東資訊顯示，該公司現由藍點觸控（北京）科技有限公司及上述新增股東共同持股。"
+    },
+    {
+      "id": "mkt:01a0ebfd-e232-7338-ab06-2a7458a8b5f2",
+      "time": "2026-09-29 15:07:59",
+      "tags": [
+        "MKT News",
+        "BAER.SW",
+        "Impact bullish"
+      ],
+      "text": "Julius Baer Group shares rose 7.5% after Swiss regulator FINMA closed an enforcement proceeding."
+    },
+    {
+      "id": "mkt:01a0ebfd-9788-7338-ab06-22dfbc297a05",
+      "time": "2026-09-29 15:07:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's cabinet approved more than 4 billion baht for flood relief, the prime minister said."
+    },
+    {
+      "id": "5117979",
+      "time": "2026-09-29 15:07:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國總理：內閣批准超過40億泰銖用於應對洪災影響。"
+    },
+    {
+      "id": "mkt:01a0ebfd-7bfb-7338-ab06-1aa4eeccb901",
+      "time": "2026-09-29 15:07:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "HLAG.DE",
+        "Impact bullish"
+      ],
+      "text": "Hapag-Lloyd shares rose 2% after the German shipping giant raised its full-year profit guidance."
+    },
+    {
+      "id": "5117978",
+      "time": "2026-09-29 15:07:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【萬豐奧威：VoloCity、VoloXpro機型已在歐洲地區TC（型號合格證）取證中】萬豐奧威9月29日在互動平臺表示，公司VoloCity、VoloXpro機型已在歐洲地區TC（型號合格證）取證中，目前尚未在中國民航局提交TC（型號合格證）申請。"
+    },
+    {
+      "id": "5117977",
+      "time": "2026-09-29 15:07:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐工機械旗下江蘇研究院公司增資至9.5億】天眼查App顯示，近日，江蘇徐工工程機械研究院有限公司發生工商變更，註冊資本由5億元人民幣增至9.5億元人民幣。該公司成立於2018年1月，法定代表人為單增海，經營範圍含工程機械、建築工程機械、礦山機械、環衛機械、汽車、汽車基礎零部件領域的技術研發、技術轉讓、技術服務、技術諮詢等。股東資訊顯示，該公司由徐工集團工程機械股份有限公司全資持股。"
+    },
+    {
+      "id": "5117976",
+      "time": "2026-09-29 15:07:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【君實生物等在嘉興成立股權投資合夥企業，出資額3.6億】天眼查App顯示，近日，嘉興源禾創孚股權投資合夥企業（有限合夥）成立，執行事務合夥人為君實創業投資（海南）有限公司，出資額3.6億元，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動，創業投資。合夥人資訊顯示，該合夥企業由海鹽縣國有資本投資運營有限公司、上海君實生物醫藥科技股份有限公司、海鹽嘉睿戰新股權投資合夥企業（有限合夥）等共同出資。"
+    },
+    {
+      "id": "5117975",
+      "time": "2026-09-29 15:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國2027財年公共債務計劃要求新增借款1.26萬億泰銖。"
+    },
+    {
+      "id": "mkt:01a0ebfc-6f82-7338-ab06-1242d86bd088",
+      "time": "2026-09-29 15:06:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "30-year government bond futures (TL) most-active contract rose more than 0.50 pct intraday to 117.66 yuan."
+    },
+    {
+      "id": "5117974",
+      "time": "2026-09-29 15:06:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金帝股份旗下海南投資公司增資至9.1億 增幅約10%】天眼查App顯示，近日，海南金海慧投資有限公司發生工商變更，註冊資本由8.3億元人民幣增至9.1億元人民幣，增幅約10%。該公司成立於2019年6月，法定代表人為鄭廣會，經營範圍含市場營銷策劃、市場管理服務、工業專業設計及其他專業技術服務等。股東資訊顯示，該公司由山東金帝精密機械科技股份有限公司全資持股。"
+    },
+    {
+      "id": "5117973",
+      "time": "2026-09-29 15:06:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中保投資在蘇州成立新合夥企業，出資額5億】天眼查App顯示，近日，中保投智算（蘇州）股權投資合夥企業（有限合夥）成立，執行事務合夥人為中保投資有限責任公司，出資額5億元，經營範圍為股權投資、創業投資。合夥人資訊顯示，該合夥企業由中保投資有限責任公司、中保投資（深圳）有限責任公司共同出資。"
+    },
     {
       "id": "5117972",
       "time": "2026-09-29 15:05:52",
