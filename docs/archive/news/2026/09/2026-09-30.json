@@ -1,7 +1,38 @@
 {
   "date": "2026-09-30",
-  "count": 25,
+  "count": 28,
   "items": [
+    {
+      "id": "mkt:01a0edf3-edae-7338-ab16-0d13fa50e4c4",
+      "time": "2026-09-30 00:16:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "OpenAI CEO Altman said NVIDIA (NVDA.O)'s security systems are not foolproof."
+    },
+    {
+      "id": "5119161",
+      "time": "2026-09-30 00:15:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：英偉達的安全系統並非 “完整解決方案”。人工智慧面臨更多的是科學層面難題，而非工程層面問題。"
+    },
+    {
+      "id": "mkt:01a0edf2-97ee-7338-ab16-03b8b0a6894c",
+      "time": "2026-09-30 00:14:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CEO Altman said the company will launch several high-quality new models."
+    },
     {
       "id": "5119160",
       "time": "2026-09-30 00:12:52",

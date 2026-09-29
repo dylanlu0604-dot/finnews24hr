@@ -1,7 +1,38 @@
 {
-  "updated": "2026-09-30 00:13:35",
+  "updated": "2026-09-30 00:17:30",
   "count": 11858,
   "items": [
+    {
+      "id": "mkt:01a0edf3-edae-7338-ab16-0d13fa50e4c4",
+      "time": "2026-09-30 00:16:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "OpenAI CEO Altman said NVIDIA (NVDA.O)'s security systems are not foolproof."
+    },
+    {
+      "id": "5119161",
+      "time": "2026-09-30 00:15:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：英偉達的安全系統並非 “完整解決方案”。人工智慧面臨更多的是科學層面難題，而非工程層面問題。"
+    },
+    {
+      "id": "mkt:01a0edf2-97ee-7338-ab16-03b8b0a6894c",
+      "time": "2026-09-30 00:14:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CEO Altman said the company will launch several high-quality new models."
+    },
     {
       "id": "5119160",
       "time": "2026-09-30 00:12:52",
@@ -108446,38 +108477,6 @@
         "國際"
       ],
       "text": "一架美國F-16戰鬥機在德國美軍基地附近墜毀。"
-    },
-    {
-      "id": "5108338",
-      "time": "2026-09-23 00:17:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏軍被爆用自殺機器人搞滲透】據美國《新聞週刊》網站9月21日報道，烏克蘭軍方稱，在頓涅茨克北部的一場行動中，烏方首次將“自殺式地面機器人”空投至俄軍前線後方。據烏克蘭國家通訊社報道，烏第三軍團20日在社交媒體“電報”發訊息稱，軍團實施側翼機動，在俄軍後方進行了“全球首次”地面機器人部署，並“致盲”俄軍無人機。該訊息稱：“步兵贏得戰爭，我們保護步兵，因此機器人率先衝向敵人。防空和電子戰‘致盲’敵方無人機，使對方無法發現進攻計劃。” (環球時報)"
-    },
-    {
-      "id": "te:markets:585782",
-      "time": "2026-09-23 00:16:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Closes on Cautious Note — Frankfurt's DAX 40 closed virtually unchanged at 25,579 on Tuesday after a volatile session, as caution prevailed across European markets. Brent crude fell before settling back around $100 a barrel after reports that Tehran had offered to reopen the Strait of Hormuz within seven days if the US lifted its blockade of its ports. The proposal could serve as a basis for talks with countries mediating on the sidelines of the United Nations General Assembly. Speaking in New York, President Trump defended the conflict, saying he could “annihilate” Iran but expected a deal after the US midterm elections. Domestically, political concerns persisted after Germany’s CDU suffered its worst-ever result in Mecklenburg-Western Pomerania, winning no seats and prompting calls for Chancellor Merz to step down. Solid gains in tech, travel-related stocks and retailers were offset by weakness in insurers, banks and telecoms."
-    },
-    {
-      "id": "te:markets:585781",
-      "time": "2026-09-23 00:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "HCA Stock Price Hits 4-week High — HCA shares increased to 436.32 USD, the highest since August 2026. Over the past 4 weeks, HCA gained 1.58%, and in the last 12 months, it increased 6.49%."
     }
   ]
 }
