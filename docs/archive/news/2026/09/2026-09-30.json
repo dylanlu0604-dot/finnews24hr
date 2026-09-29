@@ -1,7 +1,59 @@
 {
   "date": "2026-09-30",
-  "count": 33,
+  "count": 38,
   "items": [
+    {
+      "id": "5119168",
+      "time": "2026-09-30 00:22:11",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "OpenAI執行長奧特曼：暫無 IPO 時間表。"
+    },
+    {
+      "id": "mkt:01a0edf9-11aa-7338-ab16-35c07733c83e",
+      "time": "2026-09-30 00:21:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources said the White House has urged the EU to tap diesel emergency reserves to help lower global diesel prices."
+    },
+    {
+      "id": "5119167",
+      "time": "2026-09-30 00:21:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：白宮已敦促歐盟動用柴油應急儲備，以期壓低全球價格。"
+    },
+    {
+      "id": "mkt:01a0edf8-92ba-7338-ab16-2fe0e0a6a185",
+      "time": "2026-09-30 00:21:25",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Bank of England's Taylor said he disagrees that OIS rates clearly convey market expectations for the Bank's policy rate."
+    },
+    {
+      "id": "5119166",
+      "time": "2026-09-30 00:20:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：我認為隔夜指數互換利率並不能清晰反映市場對英國央行政策利率的預期，我並不看好這一指標。"
+    },
     {
       "id": "mkt:01a0edf5-cb48-7338-ab16-27bd9543fa27",
       "time": "2026-09-30 00:18:23",
