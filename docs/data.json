@@ -1,7 +1,35 @@
 {
-  "updated": "2026-09-30 04:43:01",
-  "count": 11854,
+  "updated": "2026-09-30 04:46:49",
+  "count": 11850,
   "items": [
+    {
+      "id": "5119513",
+      "time": "2026-09-30 04:46:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，哥斯大黎加前副總統格琳斯潘在聯合國秘書長競選中略微領先。"
+    },
+    {
+      "id": "5119512",
+      "time": "2026-09-30 04:45:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝恩資本據報是科赫（Koch）旗下資料中心公司Edged的競購方之一。"
+    },
+    {
+      "id": "te:markets:587836",
+      "time": "2026-09-30 04:43:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises as Labor Market Shows Signs of Cooling — The Ibovespa gained 0.5% to close at 183,828 on Tuesday, as signs of gradual cooling in the labor market supported credit-sensitive sectors. Brazil created 165,827 formal jobs in August, above forecasts of 95,700 and up from 58,568 in July, marking the highest result since March. Unemployment stood at 5.3% in the rolling quarter ended in August, matching expectations. Despite the strong payrolls figure, the data remains consistent with a scenario of gradual labor-market cooling, in line with expectations for GDP to be near flat in 3Q26. Yields moved lower as the data did not dent expectations for a continuation of the Selic easing cycle. Financials rose, with BB up 2.6% and Itaú gaining 1.4%. Utilities also advanced, with Axia up 0.7%. Petrobras rose 0.8% despite lower oil prices. Vale shed 2.2% as iron ore prices fell, while CSN Mineração lost 5.7% after announcing a temporary reduction in low-grade iron ore production. Steelmakers fell, CSN sank 9.8%."
+    },
     {
       "id": "5119511",
       "time": "2026-09-30 04:42:18",
@@ -108348,84 +108376,6 @@
         "Importance 1"
       ],
       "text": "TSX Hits Over Two-Week High — The S&P/TSX Composite Index rose 0.9% to close at 36,336, hitting an over two-week high, as investors assessed prospects for US-Iran talks. US President Trump said US officials had a “very good” meeting with Iranian envoys at the UN General Assembly and that another was being planned for the near future. A senior Iranian official said Iran could reopen the Strait of Hormuz within days if the US eased military pressure and lifted its blockade on Iranian ports. The pullback in the oil rally, which has fueled inflationary pressures and prompted central banks to raise interest rates, supported equities. Miners gained as gold prices rebounded, with Agnico Eagle rising 3.4%, Barrick adding 3.1%, and WPM advancing 4.5%. Shopify surged 7.4% on news that the company partnered with Meta to enable purchases through Meta’s Muse AI agent using Shop Pay. Financials closed lower after BoC Governor Macklem warned that rate decisions will need to balance slow growth against high energy costs."
-    },
-    {
-      "id": "mkt:01a0cade-e168-7118-8651-62a69eac432a",
-      "time": "2026-09-23 04:46:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Axios, citing two people, reports U.S. special envoy for the Middle East Witkoff and Trump senior adviser Jared Kushner will meet tonight in New York with a Ukrainian negotiating team and the national security advisers of the UK, France and Germany to discuss Ukraine's proposal for a de-escalation agreement with Russia."
-    },
-    {
-      "id": "5108579",
-      "time": "2026-09-23 04:43:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙首相：摩洛哥應對非法移民湧入休達負責】當地時間9月22日，西班牙首相桑切斯在接受採訪時表示，摩洛哥應當對7月30日和31日未能有效控制大量非法移民湧入西班牙休達自治市負有責任。同時，他強調摩洛哥邊境管控明顯失效，摩洛哥方面應就移民問題給出解釋、糾正錯誤並採取更多相關舉措。對此，摩洛哥方面暫無回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0cadb-d51a-7118-8651-5dacde7f8b2b",
-      "time": "2026-09-23 04:43:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: US crude oil production fell 527,000 b/d in the week to Sept. 18, versus a 115,000 b/d decline in the prior week."
-    },
-    {
-      "id": "mkt:01a0cadb-b714-7118-8651-520909e094ef",
-      "time": "2026-09-23 04:43:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: U.S. refined-product imports for week to Sept. 18 were -373,000 b/d (net exports) vs. +307,000 b/d prior."
-    },
-    {
-      "id": "mkt:01a0cadb-a619-7118-8651-49b2b7ac0941",
-      "time": "2026-09-23 04:43:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Crude Oil Runs (Sep.18) | actual -527000M | previous -115000M"
-    },
-    {
-      "id": "mkt:01a0cadb-a417-7118-8651-40968de5f7d6",
-      "time": "2026-09-23 04:43:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API: U.S. crude oil imports fell 739,000 barrels in the week to Sept. 18; prior week -45,000 barrels."
-    },
-    {
-      "id": "mkt:01a0cadb-8f69-7118-8651-3ff5c44ff56f",
-      "time": "2026-09-23 04:43:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | API Weekly Petroleum Products Imports Change (Sep.18) | actual -373000M | previous 307000M"
     }
   ]
 }

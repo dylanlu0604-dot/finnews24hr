@@ -1,7 +1,35 @@
 {
   "date": "2026-09-30",
-  "count": 431,
+  "count": 434,
   "items": [
+    {
+      "id": "5119513",
+      "time": "2026-09-30 04:46:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，哥斯大黎加前副總統格琳斯潘在聯合國秘書長競選中略微領先。"
+    },
+    {
+      "id": "5119512",
+      "time": "2026-09-30 04:45:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝恩資本據報是科赫（Koch）旗下資料中心公司Edged的競購方之一。"
+    },
+    {
+      "id": "te:markets:587836",
+      "time": "2026-09-30 04:43:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises as Labor Market Shows Signs of Cooling — The Ibovespa gained 0.5% to close at 183,828 on Tuesday, as signs of gradual cooling in the labor market supported credit-sensitive sectors. Brazil created 165,827 formal jobs in August, above forecasts of 95,700 and up from 58,568 in July, marking the highest result since March. Unemployment stood at 5.3% in the rolling quarter ended in August, matching expectations. Despite the strong payrolls figure, the data remains consistent with a scenario of gradual labor-market cooling, in line with expectations for GDP to be near flat in 3Q26. Yields moved lower as the data did not dent expectations for a continuation of the Selic easing cycle. Financials rose, with BB up 2.6% and Itaú gaining 1.4%. Utilities also advanced, with Axia up 0.7%. Petrobras rose 0.8% despite lower oil prices. Vale shed 2.2% as iron ore prices fell, while CSN Mineração lost 5.7% after announcing a temporary reduction in low-grade iron ore production. Steelmakers fell, CSN sank 9.8%."
+    },
     {
       "id": "5119511",
       "time": "2026-09-30 04:42:18",
