@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-30 04:20:24",
+  "updated": "2026-09-30 04:24:11",
   "count": 11853,
   "items": [
+    {
+      "id": "mkt:01a0eed4-25e0-7338-ab1d-0d468b76a6c0",
+      "time": "2026-09-30 04:21:15",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bullish",
+        "ALK.O"
+      ],
+      "text": "American Airlines Group (AAL.O) and Alaska Airlines plan to expand their joint business across the Atlantic and Pacific and will seek regulatory approval."
+    },
+    {
+      "id": "5119484",
+      "time": "2026-09-30 04:21:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：提高利率以支援美國財富管理機構的客戶現金收益。"
+    },
+    {
+      "id": "5119483",
+      "time": "2026-09-30 04:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局：將藍色起源的新格倫9×4火箭納入發射服務合同，二代發射服務合同（NLS II）包含准入增補條款，發射服務專案辦公室將提供相關服務。"
+    },
     {
       "id": "mkt:01a0eed3-0c1d-7338-ab1d-00b8d097f60b",
       "time": "2026-09-30 04:20:03",
@@ -108408,41 +108435,6 @@
         "MKT News"
       ],
       "text": "【US billionaire Boehly, backed by US government and Gulf capital, bids for Lukoil international assets】Todd Boehly, U.S. billionaire and former Chelsea chairman, is leading a bid for Russian oil company Lukoil’s international assets with backing from the U.S. government and Gulf capital reportedly linked to the Trump family. The assets, placed for sale after Lukoil faced U.S. sanctions last year, were written down to about $20 bln in March and span oil and gas fields from Central Asia to Mexico, thousands of service stations and substantial European refining capacity. Insiders say Boehly’s consortium includes the U.S. International Development Finance Corp. (DFC), which would take roughly a 15% stake, UAE presidential brother Sheikh Tahnoon and Qatar’s Al-Hayat family; Boehly has been preparing for months and seeks to displace U.S. buyout giant Carlyle, which had earlier agreed to acquire the assets. Boehly has not finalized terms with Lukoil; the proposal is advanced but the parties’ negotiation status is unclear."
-    },
-    {
-      "id": "mkt:01a0cac9-ba5c-7118-8650-7169bcf9d698",
-      "time": "2026-09-23 04:23:33",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB Governing Council member Nagel said ECB interest rates remain in a neutral range and he cannot rule out the need to move into mildly restrictive territory."
-    },
-    {
-      "id": "5108569",
-      "time": "2026-09-23 04:22:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委內格爾：歐洲央行利率目前仍處於中性區間，不排除後續需要小幅轉入限制性區間。"
-    },
-    {
-      "id": "mkt:01a0cac7-358b-7118-8650-6e94054054d3",
-      "time": "2026-09-23 04:20:47",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact mixed"
-      ],
-      "text": "【SEC considers tightening shareholder-proposal rules; Microsoft to keep current submission threshold for one year】Microsoft (MSFT.O) will continue to consider shareholder proposals under its existing submission threshold through next year’s annual meeting under a one-year agreement with investor-rights activist Paul Chesser. The move comes as the SEC weighs tightening shareholder-proposal rules—changes critics say would marginalize retail investors, religious groups and unions—and could blunt efforts to shift power from shareholders to executives. Microsoft said maintaining the current eligibility threshold for one year will provide a clear, predictable process for the next proxy cycle."
     }
   ]
 }
