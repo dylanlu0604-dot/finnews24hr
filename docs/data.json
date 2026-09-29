@@ -1,7 +1,236 @@
 {
-  "updated": "2026-09-29 15:02:49",
-  "count": 11781,
+  "updated": "2026-09-29 15:06:35",
+  "count": 11792,
   "items": [
+    {
+      "id": "5117972",
+      "time": "2026-09-29 15:05:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "國際航空集團（IAG）：SkyBreathe空氣淨化系統將部署在愛爾蘭航空、英國航空、伊比利亞航空、Level航空和伏林航空的機隊中，為逾600架飛機提供支援。"
+    },
+    {
+      "id": "mkt:01a0ebfb-f0a6-7338-ab06-08c9b7542166",
+      "time": "2026-09-29 15:05:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ministry of Science and Technology: China among fastest‑rising countries in innovation】At a State Council press briefing on the 29th, Minister of Science and Technology Yin Hejun cited the National Innovation Index Report 2025, which ranks China 9th globally in comprehensive innovation capacity. He said China has advanced its science and technology innovation over the past five years and is accelerating a shift from global participant and contributor to pathfinder and leader, making it one of the fastest‑rising countries in innovation."
+    },
+    {
+      "id": "5117971",
+      "time": "2026-09-29 15:05:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "菲律賓財政部長：菲律賓正在探索零售美元債券發行方案。"
+    },
+    {
+      "id": "mkt:01a0ebfb-b6cb-7338-ab06-0186a4b6b0f8",
+      "time": "2026-09-29 15:05:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Spain Sep inf unexpectedly rises to 5%, bolstering ECB case for further rate hikes】Spain's September consumer prices rose 5.0% YoY, up from 4.6% in August and above the median 4.9% forecast, the highest since Feb 2023, the national statistics office said. Fuel and travel-package costs were the main drivers and the core inf also exceeded expectations. The print reinforces market bets on further ECB tightening as Europe faces renewed energy-cost pressure from the Iran war; Spain is the first major euro-area member to publish September data and other countries may report higher readings."
+    },
+    {
+      "id": "5117970",
+      "time": "2026-09-29 15:05:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【科技部：我國成為創新力上升最快的國家之一】在國務院新聞辦公室今天（29日）舉行的“開局起步‘十五五’”系列主題新聞釋出會上，科技部部長陰和俊介紹，過去五年，我國科技創新躍上新臺階，科技強國建設邁出堅實步伐，有力支撐高質量發展和民生改善。中國科技發展戰略研究院《國家創新指數報告2025》顯示，我國國家創新能力綜合排名位居全球第9位。我國正從全球科技參與者、貢獻者向開拓者、引領者加速轉變，成為創新力上升最快的國家之一。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0ebfb-4aa7-7338-ab05-fa49b33a3a95",
+      "time": "2026-09-29 15:05:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese Academy of Sciences launches Frontier Science Extreme Breakthrough Plan】On Sept. 29 in Beijing the Chinese Academy of Sciences unveiled the Frontier Science Extreme Breakthrough Plan and its first project batch. The initial 10 projects target four frontier problem areas: new‑element synthesis, the nature of dark matter and dark energy, microscopic measurement of chemical bonds, and artificial synthetic cells. CAS also proposed a package of reforms to research project management and evaluation. It published a list of next‑priority fields to receive focused support — materials science, life sciences, earth system science and space science — aiming to produce a set of major original results with global impact in areas tied to the national economy and long‑term development."
+    },
+    {
+      "id": "5117969",
+      "time": "2026-09-29 15:04:20",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【僅1.41萬億！滬深兩市成交額創14個月地量】截至收盤，滬深兩市全天成交額14091.97億元，較上一日縮量2936億元，創出2025年7月8日以來新低，較2026年1月14日創出的歷史天量39414.84億元萎縮超64%。"
+    },
+    {
+      "id": "mkt:01a0ebfa-8be0-7338-ab05-f4f56328f6cc",
+      "time": "2026-09-29 15:04:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China A-share turnover falls below 1.5 trillion yuan】At the close, combined turnover on the Shanghai, Shenzhen and Beijing bourses was 1.42 trillion yuan, down roughly 300 billion yuan from the previous session and the lowest daily volume since July 7, 2025 (1.23 trillion yuan)."
+    },
+    {
+      "id": "te:markets:587518",
+      "time": "2026-09-29 15:04:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Stabilize — US natural gas prices steadied around $3.12/MMBtu on Tuesday after a two-day decline, as traders weighed the return of the Mountaineer XPress pipeline in West Virginia against improving LNG export demand and forecasts for continued hot weather. TC Energy lifted the force majeure on Sunday after repairs were completed on the pipeline, which would allow more gas to flow out of the Marcellus/Utica region in the next few days. Meanwhile, the market continues to benefit from rising LNG feedgas demand, with flows to nine major export plants averaging 18 bcfd in September versus 17.3 bcfd in August. Hotter-than-normal weather has also narrowed the storage surplus built up amid strong production and mild spring conditions, with analysts expected inventories to have fallen to 2.4% above normal in the week ended September 25 from 2.9% a week earlier. Meanwhile, Lower 48 output has remained elevated at 112.3 bcfd in September, matching the record monthly high set in August."
+    },
+    {
+      "id": "5117968",
+      "time": "2026-09-29 15:04:11",
+      "tags": [
+        "市場",
+        "其他"
+      ],
+      "text": "美元兌瑞郎USD/CHF漲至16個月高點，報0.8339。"
+    },
+    {
+      "id": "mkt:01a0ebfa-2e73-7338-ab05-ea7eaa196120",
+      "time": "2026-09-29 15:03:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "USD/CHF rose to a 16-month high at 0.8339."
+    },
+    {
+      "id": "mkt:01a0ebf9-ec10-7338-ab05-e330d80bfb4f",
+      "time": "2026-09-29 15:03:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "ADP.PA",
+        "Impact bearish"
+      ],
+      "text": "Groupe ADP shares fell 3.6% after the French government proposed raising taxes on motorways and major airports, making the stock the worst performer in the SBF 120."
+    },
+    {
+      "id": "5117967",
+      "time": "2026-09-29 15:03:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "法國政府計劃提高高速公路及主要機場稅率後，自動資料處理公司（ADP）股價下跌3.6%，跌至法國SBF 120指數成分股跌幅首位。"
+    },
+    {
+      "id": "te:markets:587516",
+      "time": "2026-09-29 15:03:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Fall on Inflation Worries — The Nikkei 225 Index fell 0.6% to close at 65,481, while the broader Topix Index dropped 1.72% to 4,041 on Tuesday, extending losses from the previous session as global bond yields remain at elevated levels amid expectations that energy-driven inflation could lead to tighter monetary policy. Oil prices resumed their upward move after Iranian officials reportedly questioned the prospects of reaching an agreement before the US midterm elections in November, following President Donald Trump’s rejection of Tehran’s latest proposal. Japanese equities also came under pressure as more than half of Topix constituents traded ex-dividend. Notable losses were seen among heavyweight technology, financial, and consumer stocks, including SoftBank Group (-3.4%), Mitsubishi UFJ (-3.5%), Sumitomo Mitsui (-4%), Toyota Motor (-3.5%), and Nintendo (-1.3%)."
+    },
+    {
+      "id": "mkt:01a0ebf9-abf3-7338-ab05-ddc1f9099ebc",
+      "time": "2026-09-29 15:03:23",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【UBS: RBA may need further hikes after November】UBS chief economist George Tharenou said the Reserve Bank of Australia is signaling a further rate increase in November and that hikes could extend beyond that. UBS forecasts headline inflation at 3.8% YoY in Q3 2026 versus a 2.5% target, leaving upside risk to the official cash rate after November and raising the odds of a February move to 5.10%."
+    },
+    {
+      "id": "5117966",
+      "time": "2026-09-29 15:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉林省梅河新區黨工委原副書記劉鐵鐸接受審查調查】中央紀委國家監委網站9月29日通報，據吉林省紀委監委訊息：吉林省梅河新區黨工委原副書記、管委會原主任，梅河口市委原副書記、市政府原市長劉鐵鐸涉嫌嚴重違紀違法，目前正接受吉林省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5117965",
+      "time": "2026-09-29 15:03:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海省黃南州人大常委會原副主任張文生被“雙開”】中央紀委國家監委網站9月29日通報，據青海省紀委監委訊息：經中共青海省委批准，青海省紀委監委對黃南州人大常委會原黨組副書記、副主任張文生嚴重違紀違法問題進行了立案審查調查。經查，張文生喪失理想信念，背棄初心使命，對黨不忠誠不老實，政績觀錯位，處心積慮對抗組織審查，搞迷信活動；罔顧中央八項規定精神，違規收受禮品，接受可能影響公正執行公務的旅遊活動安排；無視組織原則，在幹部選拔任用等工作中為他人謀取利益；廉潔底線失守，透過打麻將斂財；貪慾膨脹，公器私用，大搞權錢交易，利用職務便利為他人在工程專案承攬等方面謀利，並非法收受鉅額財物。張文生嚴重違反黨的政治紀律、組織紀律和廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中共青海省紀委常委會會議研究並報中共青海省委批准，決定給予張文生開除黨籍處分；由青海省監委給予其開除公職處分；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "mkt:01a0ebf9-31ab-7338-ab05-d2b2d3e225c6",
+      "time": "2026-09-29 15:02:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index closed up 6.83 points (+0.18%) at 3,830.45 on Tuesday, Sept. 29; Shenzhen Composite Index +43.19 pts (+0.34%) at 12,901.95; CSI 300 Index +4.45 pts (+0.10%) at 4,345.21; ChiNext Index +2.74 pts (+0.09%) at 3,142.56; STAR 50 Index +13.36 pts (+0.86%) at 1,569.34."
+    },
+    {
+      "id": "mkt:01a0ebf8-fc7d-7338-ab05-cbec5f6409ab",
+      "time": "2026-09-29 15:02:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【China stocks close: Shanghai Composite up 0.18%; turnover down 293.6 bln yuan to 1.41 tln yuan】Shanghai Composite closed up 0.18% after a choppy session; Shenzhen Composite rose 0.34% and the ChiNext Index gained 0.09%. Turnover on the Shanghai and Shenzhen exchanges was 1.41 tln yuan, down 293.6 bln yuan from the prior day. More than 3,400 stocks advanced. Short-drama/game-related names led gains, with Huamei Holdings, Nanwei Software, Zongheng Communication, Yinli Media and iReader Technology hitting daily upper limits. Real estate strengthened — Huafa Shares, Binjiang Group and China Vanke A hit upper limits. Solid-state battery plays surged: Wuhan Blue Electric hit the upper limit; Shangshui Intelligent, Guoxuan High‑Tech and Jinlongyu also reached limits. PCB names firmed, with XunjieXing at the upper limit. Dairy stocks rallied late, Junyao Health hit the upper limit. CRO-related stocks spiked then pulled back; Nearshore Protein jumped over 10%. Lab-grown diamond sector led declines, with Huanghe Xuanfeng nearing limit-down. Grain-related names retreated; Jinjian Rice Industry and Wanxiang Denong hit limit-down."
+    },
+    {
+      "id": "mkt:01a0ebf8-d050-7338-ab05-c7d68a6fd084",
+      "time": "2026-09-29 15:02:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany's benchmark power price fell 15% recently to €140/MWh."
+    },
+    {
+      "id": "5117964",
+      "time": "2026-09-29 15:02:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【富瑞：下調希音目標價至23港元 維持“跑輸大市”評級】富瑞釋出研報稱，希音(00625)上半年收入符合預期，但地區組合轉差，利潤率受壓為主要焦點，認為2026-2027年的市場一致預期仍有下行空間，將目標價由26港元下調至23港元，維持“跑輸大市”評級。"
+    },
+    {
+      "id": "5117963",
+      "time": "2026-09-29 15:01:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇神通：半導體閥門業務有望逐步放量】江蘇神通近日在電話調研活動中表示，半導體閥門市場空間廣闊，隨著國產替代程序加快和公司客戶匯入的持續推進，該業務有望逐步放量。未來，公司將持續加大研發投入和市場拓展力度，努力推動半導體業務成為公司新的增長引擎。"
+    },
     {
       "id": "5117962",
       "time": "2026-09-29 15:01:45",
@@ -107305,99 +107534,6 @@
         "公司"
       ],
       "text": "【長春一東：推動AMT、新能源減振器等產品規模化配套】長春一東在9月22日召開的2026年半年度業績說明會上表示，面對商用車電動化趨勢，公司一方面穩住傳統業務基本盤，推動AMT、新能源減振器等產品規模化配套；另一方面發揮長春、蘇州雙研發中心協同優勢，緊跟主機廠技術路線來對沖行業變化。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202609223881202082",
-      "time": "2026-09-22 15:06:10",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本學者：日本央行加息將加劇財政問題】日本央行近日決定將政策利率從當前的1.0%上調至1.25%。這是繼今年6月後，日本央行再次加息。對此，有日本學者表示，在日本財政來源較大程度上依賴國債發行的情況下，日本央行上調政策利率，會進一步加劇日本政府的財政問題，而日本政府試圖靠軍費來拉動經濟的模式，更不可取。"
-    },
-    {
-      "id": "5107098",
-      "time": "2026-09-22 15:05:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "捷豹路虎北美有限責任公司正在召回部分美國在售車輛，因為行駛動力喪失會增加撞車風險。"
-    },
-    {
-      "id": "5107097",
-      "time": "2026-09-22 15:05:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "捷豹路虎北美有限責任公司將在美國召回23,677輛汽車。"
-    },
-    {
-      "id": "5107096",
-      "time": "2026-09-22 15:04:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馬來西亞總理安瓦爾等外國領導人將出席第48屆世界技能大賽和第五屆全球數字貿易博覽會】外交部發言人宣佈：第48屆世界技能大賽將於9月22日至27日在上海舉行。第五屆全球數字貿易博覽會將於9月23日至27日在浙江杭州舉行。應中方邀請，馬來西亞總理安瓦爾將出席世界技能大賽開幕式和全球數字貿易博覽會啟動儀式，吉爾吉斯斯坦總理卡瑟馬利耶夫將出席全球數字貿易博覽會啟動儀式。"
-    },
-    {
-      "id": "5107095",
-      "time": "2026-09-22 15:04:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "愛立信股價早盤下跌2.6%。"
-    },
-    {
-      "id": "5107094",
-      "time": "2026-09-22 15:04:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀執行長埃爾莫蒂：90%的普通股一級資本（CET1）要求本質上與100%資本擔保效果一致。"
-    },
-    {
-      "id": "5107093",
-      "time": "2026-09-22 15:04:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "M&C SAATCHI股價下跌8.2%，此前公佈上半年業績，營收下降1.4%。"
-    },
-    {
-      "id": "5107092",
-      "time": "2026-09-22 15:04:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓正將出席第81屆聯合國大會一般性辯論】外交部發言人宣佈：國家副主席韓正將於9月24日至26日赴紐約出席第81屆聯合國大會一般性辯論。與會期間，韓正副主席還將出席中方舉辦的全球發展倡議5週年高階別對話會，會見聯合國秘書長、第81屆聯大主席及有關國家領導人。"
-    },
-    {
-      "id": "5107091",
-      "time": "2026-09-22 15:03:23",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "【小鵬機器人已完成供應鏈審廠及核心零部件定點】從訊息人士處獨家獲悉，小鵬機器人已完成供應鏈審廠及核心零部件定點，量產程序進一步推進。（澎湃新聞）"
-    },
-    {
-      "id": "5107090",
-      "time": "2026-09-22 15:03:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民防部門釋出宣告，就奈季蘭地區潛在安全風險發出警報；目前危險警報已解除。"
-    },
-    {
-      "id": "5107089",
-      "time": "2026-09-22 15:02:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利奢侈品牌菲拉格慕股價在早盤交易中下跌2.8%。"
     }
   ]
 }
