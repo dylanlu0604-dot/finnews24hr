@@ -1,7 +1,51 @@
 {
   "date": "2026-09-29",
-  "count": 1237,
+  "count": 1242,
   "items": [
+    {
+      "id": "5117945",
+      "time": "2026-09-29 14:54:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Anthropic鉅額IPO或影響AI板塊走向 增長潛力強於SpaceX】據報道，Anthropic目標估值2萬億美元，相比SpaceX，Anthropic的估值與增長潛力更具吸引力。 基於其二季度年化營收測算，Anthropic上市預期市銷率為45倍；SpaceX上市時市銷率約100倍。Anthropic增速遠高於SpaceX，二季度營收增幅超1000%；預計IPO前披露的三季度資料同樣強勁。 當前三大重磅IPO（SpaceX、Anthropic、OpenAI）之中，Anthropic似乎是最重要的一家。和SpaceX不同，Anthropic專注AI賽道，處於大模型研發前沿；規模已經超過競品OpenAI，增速更快，並且已經實現盈利，而OpenAI每個季度仍在鉅虧百億美元。 當前AI行情最大風險在於：Anthropic這類企業如果無法穩定盈利，最終將無力向英偉達等晶片廠商採購晶片，而半導體企業本是本輪AI浪潮最大受益方。"
+    },
+    {
+      "id": "5117944",
+      "time": "2026-09-29 14:53:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國內政部：自9月16日以來，泰國全國洪災已造成至少23人死亡。"
+    },
+    {
+      "id": "5117943",
+      "time": "2026-09-29 14:53:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI創企Instinct宣佈完成10億美元融資，投後估值達到100億美元】當地時間週一，成立僅一年的AI初創企業Instinct，宣佈以100億美元的估值完成了10億美元的C輪融資。這輪融資由紅杉資本、Benchmark Capital和Coatue聯合領投，而這也意味著在短短一個月內，這家員工僅14人的公司估值直接翻了兩番，不僅創下了矽谷新一輪“造神”神話，更將能夠真正替人類“跑腿幹活”的AI智慧體徹底推向了聚光燈下。目前，Instinct的AI智慧體助手尚未面向大眾開放。"
+    },
+    {
+      "id": "5117942",
+      "time": "2026-09-29 14:51:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新日鐵子公司與Kanadevia終止合併談判】新日鐵表示，旗下子公司新日鐵工程與Kanadevia已同意終止合併磋商。雙方未能就各項條款達成一致。Kanadevia稱，此前因合併談判擱置了新版中期經營計劃的披露工作，現計劃於2027年春季公佈該計劃。"
+    },
+    {
+      "id": "te:markets:587510",
+      "time": "2026-09-29 14:51:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Rises 0.3% at Finish — The ASX 200 rose 30 points, or 0.3%, to 8,709 on Tuesday, extending prior gains amid strength in consumer durables, tech, and manufacturing. Sentiment was supported by the Reserve Bank of Australia’s assurance that monetary policy remains well placed to respond to economic developments, with the board reaffirming its focus on price stability and full employment. At its September meeting, the central bank lifted the cash rate to a 15-year high of 4.6% in its fourth hike this year, as expected. Traders now await key domestic releases later this week, including August inflation, trade, and private sector credit, while bracing for September PMI readings in top trading partner China. On fresh data, household spending was flat in August, ending three months of growth. BHP Group gained 0.6%, and Rio Tinto added 0.4%, while South32 (2.9%) and Wisetech Global (2.8%) also advanced. However, the big four banks fell 0.3% to 0.9%, and energy majors Woodside (-1.1%) and Santos Ltd. (-1.0%) lagged."
+    },
     {
       "id": "mkt:01a0ebed-7b9d-7338-ab05-46005a94a46f",
       "time": "2026-09-29 14:50:04",
