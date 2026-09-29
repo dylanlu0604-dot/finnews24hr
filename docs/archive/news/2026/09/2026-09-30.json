@@ -1,7 +1,127 @@
 {
   "date": "2026-09-30",
-  "count": 367,
+  "count": 379,
   "items": [
+    {
+      "id": "mkt:01a0eecb-5a21-7338-ab1c-e03baf939ca9",
+      "time": "2026-09-30 04:11:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "U.S. truck drivers union says Amazon (AMZN.O) SWF1 warehouse workers demand an end to unsafe working practices and to unfair productivity-assessment penalties."
+    },
+    {
+      "id": "mkt:01a0eecb-43aa-7338-ab1c-dcc79c39474f",
+      "time": "2026-09-30 04:11:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AMZN.O",
+        "Impact bearish"
+      ],
+      "text": "US truck drivers' union says workers at Amazon (AMZN.O) SWF1 warehouse in New York have launched an unfair labor practice strike."
+    },
+    {
+      "id": "mkt:01a0eec9-ff12-7338-ab1c-d34f23bc8c3a",
+      "time": "2026-09-30 04:10:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he wants data centers built in the United States."
+    },
+    {
+      "id": "5119468",
+      "time": "2026-09-30 04:09:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普被問及住宅附近的資料中心時表示：希望它們建在合適的地方。"
+    },
+    {
+      "id": "mkt:01a0eec9-8c85-7338-ab1c-cd74259f9d0f",
+      "time": "2026-09-30 04:09:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said residents in regions hosting data center construction will see large economic gains."
+    },
+    {
+      "id": "5119466",
+      "time": "2026-09-30 04:09:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：資料中心建設落地地區的民眾將獲得豐厚的經濟收益。"
+    },
+    {
+      "id": "mkt:01a0eec8-e44d-7338-ab1c-c27ba75fcab2",
+      "time": "2026-09-30 04:08:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "The Trump Trade"
+      ],
+      "text": "President Trump discussed data center deployment with AI industry leaders."
+    },
+    {
+      "id": "5119464",
+      "time": "2026-09-30 04:08:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【西班牙國王呼籲歐盟成員國加強協作以保衛邊界】當地時間9月29日，法國總統馬克龍及其夫人抵達西班牙，對西班牙進行國事訪問。西班牙國王費利佩六世當天在歡迎晚宴致辭中表示，7月末休達自治市發生的大規模移民入境事件“令人無法接受”，並將其描述為“數萬人大規模入侵，侵犯了西班牙和歐盟邊界”的嚴重事件。費利佩六世同時表示，這一情況必須促使歐盟成員國加強協作，以保衛歐盟南部邊界。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0eec8-c9a1-7338-ab1c-bf2715624a20",
+      "time": "2026-09-30 04:08:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil prices tumble on the 29th】At the close, NYMEX November light sweet crude settled down $3.22 at $89.38/bbl, a 3.48% decline; November Brent settled down $2.69 at $102.59/bbl, down 2.56%."
+    },
+    {
+      "id": "5119463",
+      "time": "2026-09-30 04:08:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：討論了資料中心的選址，我希望它們建在美國。"
+    },
+    {
+      "id": "te:markets:587830",
+      "time": "2026-09-30 04:08:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Stocks Dip as Elevated Yields Weigh — US stock indices closed mostly lower on Tuesday, weighed down by another rise in Treasury yields to fresh multiyear highs. The S&P 500 fell 0.2%, and the Dow shed 130 points, while the Nasdaq rose 0.2%. Elevated oil prices and yields continued to pressure equities, with the 10-year yield trading near levels not seen since 2007 and the 30-year yield hovering around a 2004 high. Inflationary pressures from elevated crude and fuel prices, along with concerns over fiscal deficits, drove the bond selloff. New York Fed President Williams said another interest rate hike could be necessary this year. Bank stocks moved lower, with Bank of America down 0.9%. AI hyperscalers and chipmakers, both facing record levels of debt issuance, traded mixed. Alphabet fell 0.5% and Nvidia lost 0.7%, while Meta gained 3.2%, Oracle jumped 4%, Broadcom added 1.6% and Micron rose 1%, as the planned Anthropic IPO lent some support to the tech sectors. The IPO could value Anthropic at over $2 trillion."
+    },
+    {
+      "id": "5119461",
+      "time": "2026-09-30 04:08:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【國際油價29日顯著下跌】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格下跌3.22美元，收於每桶89.38美元，跌幅為3.48%；11月交貨的倫敦布倫特原油期貨價格下跌2.69美元，收於每桶102.59美元，跌幅為2.56%。"
+    },
     {
       "id": "5119460",
       "time": "2026-09-30 04:07:45",
