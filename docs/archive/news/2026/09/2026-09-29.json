@@ -1,7 +1,101 @@
 {
   "date": "2026-09-29",
-  "count": 1214,
+  "count": 1224,
   "items": [
+    {
+      "id": "5117931",
+      "time": "2026-09-29 14:46:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱商事：已就加拿大液化天然氣擴建專案作出最終投資決定。"
+    },
+    {
+      "id": "mkt:01a0ebea-17a7-7338-ab05-20f0afd7354f",
+      "time": "2026-09-29 14:46:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The head of product for OpenAI CODEX said that over the long run prices are expected to fall enough for most users to buy usage on demand, and that usage received per $1 spent will no longer differ materially between subscription services and the API."
+    },
+    {
+      "id": "5117930",
+      "time": "2026-09-29 14:46:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌做出最終投資決定，將加拿大液化天然氣專案產能擴大一倍。"
+    },
+    {
+      "id": "mkt:01a0ebe9-8977-7338-ab05-1a07fe361866",
+      "time": "2026-09-29 14:45:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI Codex product lead pledged not to reintroduce a 5-hour cap, saying users will be able to fully use their weekly quota when needed."
+    },
+    {
+      "id": "5117929",
+      "time": "2026-09-29 14:45:12",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【OpenAI：明天將調整200美元Pro訂閱的用量計算方式】OpenAI Codex產品負責人：明天將重新向新使用者開放月費200美元的Pro訂閱，但同時也將調整該訂閱的用量計算方式。與原來的月費200美元Pro方案相比，新方案對應的API支出金額將只有原來的一半。該負責人解釋到，之所以推出如此措施，是因為不想在其他方面妥協，並承諾不再重新引入 5 小時限制，這樣使用者就可以在需要時充分利用每週的使用量。在訂閱服務中，我們保證隨著時間推移，你總能完成更多工作，並且質量水平不斷提升。這意味著，由於模型效率的提高以及我們透過降低 API 價格將這些改進傳遞給你，你將持續獲得每美元更高的價值。他還表示，明天還會為訂閱增加更多不會計入用量的功能。暫時不會透露具體是什麼。"
+    },
+    {
+      "id": "5117928",
+      "time": "2026-09-29 14:45:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲4%，現報9982.00元。"
+    },
+    {
+      "id": "mkt:01a0ebe8-139f-7338-ab05-108916550c1b",
+      "time": "2026-09-29 14:44:10",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "TD Cowen raises PT for Dell (DELL.N) to $550 from $500."
+    },
+    {
+      "id": "te:markets:587504",
+      "time": "2026-09-29 14:44:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Retreats from 2011 Highs — Australia’s 10-year government bond yield fell below 5.4%, pulling back from its highest level since mid-2011, despite the central bank’s fourth interest rate hike this year. In a unanimous decision, the Reserve Bank of Australia raised its cash rate by 25 basis points to 4.60% as widely expected, bringing the policy rate to its highest level in about fifteen years. The central bank has now raised rates by a total of 100 basis points this year in an effort to contain persistent inflation amid rising global energy prices stoked by the Middle East conflict. Swaps priced in a 56% chance of a follow-up move in November, while the odds of a December hike stood at 60%. Focus now turns to August inflation data due on Wednesday for additional clues on the policy outlook. Meanwhile, bonds remained caught up in the global selloff as oil prices stayed elevated, while Treasury yields climbed to fresh multi-year highs amid growing expectations of further Federal Reserve rate hikes."
+    },
+    {
+      "id": "5117927",
+      "time": "2026-09-29 14:43:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國：葉門衝突升級已致約14.2萬人流離失所】28日，聯合國秘書長古特雷斯的發言人迪雅裡克警告稱，葉門日益加劇的敵對行動已迫使約14.2萬人流離失所，不斷增加的傷亡人數已迫使部分醫院暫停產科急診服務，以優先救治傷員，而醫療物資正在迅速耗盡。鑑於流離失所者營地普遍過度擁擠、飲用水不安全以及衛生條件惡劣，世界衛生組織已就潛在的霍亂疫情發出警報。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0ebe7-62fb-7338-ab05-0b524324e1dc",
+      "time": "2026-09-29 14:43:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI Codex product head says additional subscription features that will not count against usage limits will be rolled out tomorrow; details not disclosed."
+    },
     {
       "id": "mkt:01a0ebe6-cf73-7338-ab05-07af5397efb9",
       "time": "2026-09-29 14:42:47",
