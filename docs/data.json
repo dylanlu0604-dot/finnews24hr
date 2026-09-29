@@ -1,7 +1,158 @@
 {
-  "updated": "2026-09-29 17:58:23",
-  "count": 12267,
+  "updated": "2026-09-29 18:02:34",
+  "count": 12271,
   "items": [
+    {
+      "id": "5118398",
+      "time": "2026-09-29 18:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "Oura：自啟動IPO流程以來，業務進一步增強。"
+    },
+    {
+      "id": "5118397",
+      "time": "2026-09-29 18:01:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比<INR=IN>收盤基本持平，兌美元報1美元兌95.98盧比，前收盤價為1美元兌95.9825盧比。"
+    },
+    {
+      "id": "5118396",
+      "time": "2026-09-29 18:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Oura因市場不確定性推遲IPO。"
+    },
+    {
+      "id": "5118395",
+      "time": "2026-09-29 18:00:45",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【居民房貸貼息政策10月1日起實施 】財政部、中國人民銀行、金融監管總局9月29日聯合對外發布通知，明確自2026年10月1日起，實施居民購房貸款貼息政策，政策實施期暫定1年。這是中央財政首次對商業性個人住房貸款進行貼息。此次釋出的通知明確，對同時符合以下條件的居民家庭給予貼息支援：一是使用新發放的商業性個人住房貸款購買首套住房，不包括存量貸款置換；二是所購住房建築面積不超過120平方米；三是所購住房價格不超過150萬元。根據通知，可享受貼息的貸款規模最高可達100萬元，財政部門給予年化1個百分點的貼息，貼息期限最長5年。"
+    },
+    {
+      "id": "5118394",
+      "time": "2026-09-29 18:00:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "財政部：實施居民購房貸款貼息政策。"
+    },
+    {
+      "id": "mkt:01a0ec9b-662b-7338-ab0c-042912c834fc",
+      "time": "2026-09-29 18:00:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "China's Ministry of Finance said it will implement an interest-subsidy policy for residential home-purchase loans."
+    },
+    {
+      "id": "5118393",
+      "time": "2026-09-29 17:59:55",
+      "tags": [
+        "央行"
+      ],
+      "text": "【央行：增加科技創新和技術改造再貸款額度2000億元】 中國人民銀行調整完善若干貨幣政策工具，增加科技創新和技術改造再貸款額度2000億元，並將該項再貸款支援比例統一從60％提高至100％。調增後，科技創新和技術改造再貸款額度從1.2萬億元增至1.4萬億元，且支援比例更高，有助於引導銀行加大對中小科技型企業貸款投放，更好地支援企業擴大重點領域裝置更新投資。"
+    },
+    {
+      "id": "5118392",
+      "time": "2026-09-29 17:59:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理密訪阿聯酋，辛貝特狀告以媒“走漏風聲”】以色列國家安全總局（辛貝特）28日要求軍事審查機構對以色列第12頻道電視臺採取法律行動，稱後者在總理內塔尼亞胡密訪阿拉伯聯合大公國回國途中就把訊息捅了出去，屬於“嚴重違反軍事審查規定”。第12頻道電視臺27日援引訊息人士的說法率先披露，內塔尼亞胡當天中午搭乘一架私人飛機前往阿聯酋首都阿布扎比並在當地停留4個小時，其中1個小時與阿聯酋總統穆罕默德會談。次日，這家電視臺繼續爆料，稱會談在阿布扎比一座機場舉行。以總理府28日發表宣告說，辛貝特當天向軍事審查機構投訴，第12頻道電視臺於27日晚9時38分報道相關訊息，當時內塔尼亞胡搭乘的返程飛機尚未進入以色列領空，報道不僅危及出訪人員，還對此次行動本身以及以軍構成威脅。（新華社）"
+    },
+    {
+      "id": "5118391",
+      "time": "2026-09-29 17:59:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元USD/JPY短線拉昇逾30點，最新報157.70。"
+    },
+    {
+      "id": "te:markets:587656",
+      "time": "2026-09-29 17:59:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Holds At $105 — Brent crude fluctuated above $105 a barrel on Tuesday as markets weighed efforts to ease Middle East tensions against continued uncertainty over US-Iran negotiations. Saudi Arabia has restored roughly half the flows through its East-West pipeline, with shipments to the Red Sea reaching at least 3.5 million barrels a day. The route provides a crucial alternative to exports through the Strait of Hormuz and is helping offset the lack of progress in diplomatic talks. US and Iranian officials have continued separate discussions with mediators, including indirect contacts through Qatar, as regional governments push for ceasefire negotiations. However, Iranian officials have privately expressed doubts that an agreement can be reached before the US midterm elections in November. President Donald Trump has rejected an Iranian proposal to restore full traffic through Hormuz and denied reports that Washington offered sanctions relief in exchange for nuclear concessions."
+    },
+    {
+      "id": "mkt:01a0ec9a-a39d-7338-ab0b-fdfa41a0bb27",
+      "time": "2026-09-29 17:59:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's WTO reform proposal on development wins positive response from members】On the 28th, the WTO held a reform meeting on the development track. China's permanent representative to the WTO introduced China's 'Further Thoughts and Proposals on WTO Reform', laying out systematic positions on the role of development in WTO reform; the proposal drew broad attention and positive responses from members. China proposed that members first map concrete opportunities and challenges for developing members' integration into the multilateral trading system, then comprehensively review existing rules, tools and mechanisms and, where necessary, explore new solutions."
+    },
+    {
+      "id": "5118390",
+      "time": "2026-09-29 17:59:11",
+      "tags": [
+        "央行"
+      ],
+      "text": "【央行：將新型電網、算力網、新一代通訊網等“六張網”建設納入PSL支援領域】中國人民銀行調整完善若干貨幣政策工具，擴大抵押補充貸款（PSL）支援領域。將水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”建設納入抵押補充貸款支援領域，引導政策性銀行加大對“六張網”建設的金融支援，助力擴大有效投資，深入挖掘內需潛力。"
+    },
+    {
+      "id": "mkt:01a0ec9a-8369-7338-ab0b-f53dc0ce3e56",
+      "time": "2026-09-29 17:59:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY surged just over 30 pips intraday to 157.70."
+    },
+    {
+      "id": "5118389",
+      "time": "2026-09-29 17:59:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方世貿組織改革提案關於發展的建議獲成員積極回應】世界貿易組織28日舉行“發展軌道”改革專題會議。中國常駐世貿組織代表李詠箑在會上介紹《中方關於世貿組織改革的進一步思考和建議》提案，圍繞發展議題在世貿組織改革中的定位等議題提出系統主張，得到各方廣泛關注和積極回應。李詠箑指出，世貿組織成立30多年來，發展中經濟體在全球經濟和貿易中的比重顯著上升，但許多發展中成員在出口多元化、生產能力提升等方面仍面臨制約。中方主張始終將發展置於世貿組織改革的中心位置，並以問題導向的方式推進具體討論；世貿組織改革的“發展軌道”應發揮統籌作用，處理跨委員會、跨協定的系統性問題。（新華社）"
+    },
+    {
+      "id": "te:markets:587655",
+      "time": "2026-09-29 17:58:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Oil Fluctuates on Tuesday — Crude oil fluctuated above $92 a barrel on Tuesday as markets weighed efforts to ease Middle East tensions against continued uncertainty over US-Iran negotiations. Saudi Arabia has restored roughly half the flows through its East-West pipeline, with shipments to the Red Sea reaching at least 3.5 million barrels a day. The route provides a crucial alternative to exports through the Strait of Hormuz and is helping offset the lack of progress in diplomatic talks. US and Iranian officials have continued separate discussions with mediators, including indirect contacts through Qatar, as regional governments push for ceasefire negotiations. However, Iranian officials have privately expressed doubts that an agreement can be reached before the US midterm elections in November. President Donald Trump has rejected an Iranian proposal to restore full traffic through Hormuz and denied reports that Washington offered sanctions relief in exchange for nuclear concessions."
+    },
+    {
+      "id": "em:qqyh_zgyh:202609293886563359",
+      "time": "2026-09-29 17:58:27",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：將新型電網、算力網、新一代通訊網等“六張網”建設納入PSL支援領域】中國人民銀行調整完善若干貨幣政策工具，擴大抵押補充貸款（PSL）支援領域。將水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”建設納入抵押補充貸款支援領域，引導政策性銀行加大對“六張網”建設的金融支援，助力擴大有效投資，深入挖掘內需潛力。"
+    },
     {
       "id": "5118388",
       "time": "2026-09-29 17:57:35",
@@ -111742,103 +111893,6 @@
         "焦點"
       ],
       "text": "布倫特原油失守94美元/桶，日內跌2.34%。"
-    },
-    {
-      "id": "5107533",
-      "time": "2026-09-22 18:02:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST卓然：建設工程施工合同糾紛案進入強制執行階段】*ST卓然公告稱，公司與江蘇華偉建設集團有限公司、中化二建集團有限公司的建設工程施工合同糾紛二審判決已生效，因公司未按期履行付款義務，江蘇華偉建設集團有限公司向浙江省岱山縣人民法院申請強制執行，法院已立案執行，公司為被執行人。涉案工程款本金1221.88萬元及相應利息、保全申請費等，截至2026年9月9日利息103.23萬元，法院裁定可執行財產限額為1368.61萬元。若執行成功將對公司現金流、資產狀況及生產經營產生不利影響。公司當前疊加存在重大違法強制退市風險、財務類退市風險警示及其他風險警示。"
-    },
-    {
-      "id": "5107532",
-      "time": "2026-09-22 18:02:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：AWS與生物計算公司合作推出神經元衍生AI影片模型。"
-    },
-    {
-      "id": "5107531",
-      "time": "2026-09-22 18:01:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【王文濤部長會見德國汽車工業協會主席穆勒 】9月21日上午，商務部部長王文濤會見德國汽車工業協會主席穆勒，雙方就中德汽車產業合作及中歐經貿關係等問題進行交流。王文濤表示，中德汽車產業深度互嵌、利益高度融合，具有廣闊合作前景。歡迎德國車企深耕中國市場，與中方夥伴加強合作，共同推動全球汽車產業向綠色、智慧化轉型。中國政府支援中國車企赴歐投資，希望德國和歐盟營造公平、開放、非歧視的營商環境。（商務部）"
-    },
-    {
-      "id": "5107530",
-      "time": "2026-09-22 18:00:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌3%，現報89.58美元/桶。"
-    },
-    {
-      "id": "5107529",
-      "time": "2026-09-22 18:00:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【企業境外反壟斷合規指引修訂草案公開徵求意見】為幫助企業瞭解域外最新反壟斷監管趨勢，本次修訂總結並新增了反壟斷立法和執法變化，如在壟斷協議、濫用市場地位、經營者集中等專章中嵌入境外反壟斷執法機構對數字經濟的關注。明確了歐盟、美國、德國等司法轄區最新經營者集中申報標準等，提示企業關注外商投資安全審查和外國補貼審查制度。針對域外反壟斷訴訟和調查高發的趨勢，在行政罰款及刑事責任外，新增了主要司法轄區關於發起私人民事訴訟的規定。（央視新聞）"
-    },
-    {
-      "id": "5107528",
-      "time": "2026-09-22 18:00:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永達股份：對天津華建應收款按100%損失率計提壞賬準備】永達股份公告，公司控股子公司江蘇金源客戶天津華建部分裝置資產將於2026年9月29日進入法拍程式，公司計劃對天津華建相關應收款項按100%損失率全額計提壞賬準備。截至公告披露日，應收賬款賬面餘額3502.43萬元，已計提預期信用損失1735.11萬元，賬面價值1767.32萬元，本次需補提1767.32萬元，預計影響2026年度歸母淨利潤766.13萬元，相關議案經董事會審議透過。"
-    },
-    {
-      "id": "5107527",
-      "time": "2026-09-22 18:00:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "愛爾蘭8月份工廠出廠價格同比上漲6.5%"
-    },
-    {
-      "id": "5107526",
-      "time": "2026-09-22 18:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "愛爾蘭8月份工廠出廠價格環比下降0.8%。"
-    },
-    {
-      "id": "5107525",
-      "time": "2026-09-22 18:00:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國9月CBI工業訂單差值 -9，前值-25。"
-    },
-    {
-      "id": "5107524",
-      "time": "2026-09-22 17:59:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【外交部：願同東盟各國落實好自貿區3.0版】第23屆中國—東盟博覽會21日成功閉幕，外交部發言人郭嘉昆22日表示，中方願同東盟各國落實好自貿區3.0版，攜手共建更為緊密的中國—東盟命運共同體。當日例行記者會上，有記者問：昨天，第23屆中國—東盟博覽會成功閉幕，取得不少新成果。上週，平陸運河正式通航受到國內外輿論高度關注。有評論稱，東博會“黃金平臺”和平陸運河“黃金通道”將開啟中國—東盟合作新篇章。發言人對此有何評論？郭嘉昆說，中國—東盟博覽會是雙方合作的“金色名片”。23年來，東博會見證中國與東盟從“黃金十年”到“鑽石十年”再到自貿區3.0版的升級跨越。本屆東博會首次設立“東盟國家需求展區”，首次釋出東盟國家需求清單，以“東盟出題、中國解題”新模式，推動供需精準對接。“本屆東博會還專門設立了平陸運河展區，運河通航後將大幅縮短中國西南地區到東盟國家的海運距離，開闢雙方貿易往來新通道。”郭嘉昆表示，“中方願同東盟各國落實好自貿區3.0版，攜手共建更為緊密的中國—東盟命運共同體。”（新華社）"
-    },
-    {
-      "id": "5107523",
-      "time": "2026-09-22 17:59:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報94.31美元/桶。"
-    },
-    {
-      "id": "5107522",
-      "time": "2026-09-22 17:59:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國記協舉辦新聞茶座 聚焦中美關係】中國記協9月22日在京舉辦新聞茶座，邀請清華大學戰略與安全研究中心研究員周波、副研究員孫成昊圍繞“高層交往與中美關係”主題與境內外記者交流。專家表示，中美關係是世界上最重要的雙邊關係，關乎兩國人民福祉和世界人民利益。期待在兩國元首戰略引領下，雙方豐富中美建設性戰略穩定關係內涵，加強對話合作，妥善管控分歧，向世界發出積極正面資訊。（新華社）"
     }
   ]
 }
