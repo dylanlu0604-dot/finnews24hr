@@ -1,7 +1,82 @@
 {
   "date": "2026-09-30",
-  "count": 379,
+  "count": 387,
   "items": [
+    {
+      "id": "5119476",
+      "time": "2026-09-30 04:15:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家情報總監傑伊·克萊頓：在這項國家安全議題上，今天達成的共識是，美國要在人工智慧領域保持領先，這是國家安全的重中之重。"
+    },
+    {
+      "id": "mkt:01a0eece-bd8b-7338-ab1c-ffdc71e208a2",
+      "time": "2026-09-30 04:15:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. President Trump said AI requires both self-regulation and collective oversight."
+    },
+    {
+      "id": "5119474",
+      "time": "2026-09-30 04:14:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談人工智慧：有自我監管，也有群體監管。"
+    },
+    {
+      "id": "5119473",
+      "time": "2026-09-30 04:13:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【扎克伯格：白宮AI框架落地，行業達成共識】Meta執行長扎克伯格闡述了科技領袖們在白宮與特朗普總統會面後達成一致的AI框架。他表示，這些原則的核心在於：建立完善的內部管控機制、開展內部風險評估、引入外部審計員和評估機構，以及由公司董事會對審計報告進行獨立審查。他說：“我們的想法並不是說這（框架）將是我們唯一要做的舉措。相反，這只是一個起點，是一個整個行業都能達成一致的共識。”他表示，此舉的目標是讓美國民眾和客戶相信，這些技術正按照公司的預期初衷正常執行。"
+    },
+    {
+      "id": "mkt:01a0eecd-0e27-7338-ab1c-f329fd45f0f3",
+      "time": "2026-09-30 04:13:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Elon Musk said the most likely outcome of artificial intelligence is extremely beneficial."
+    },
+    {
+      "id": "mkt:01a0eecc-cb05-7338-ab1c-ec18841c9eda",
+      "time": "2026-09-30 04:13:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "U.S. President Trump, standing beside Alphabet (GOOG.O) CEO Sundar Pichai, criticized Finland's data center construction plan."
+    },
+    {
+      "id": "5119471",
+      "time": "2026-09-30 04:12:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：人工智慧最可能帶來的結果是裨益無窮。"
+    },
+    {
+      "id": "5119470",
+      "time": "2026-09-30 04:12:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普（在Alphabet執行長身旁）批評了Alphabet在芬蘭建設資料中心的計劃。"
+    },
     {
       "id": "mkt:01a0eecb-5a21-7338-ab1c-e03baf939ca9",
       "time": "2026-09-30 04:11:39",

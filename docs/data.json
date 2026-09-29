@@ -1,7 +1,82 @@
 {
-  "updated": "2026-09-30 04:12:53",
-  "count": 11852,
+  "updated": "2026-09-30 04:16:39",
+  "count": 11850,
   "items": [
+    {
+      "id": "5119476",
+      "time": "2026-09-30 04:15:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家情報總監傑伊·克萊頓：在這項國家安全議題上，今天達成的共識是，美國要在人工智慧領域保持領先，這是國家安全的重中之重。"
+    },
+    {
+      "id": "mkt:01a0eece-bd8b-7338-ab1c-ffdc71e208a2",
+      "time": "2026-09-30 04:15:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. President Trump said AI requires both self-regulation and collective oversight."
+    },
+    {
+      "id": "5119474",
+      "time": "2026-09-30 04:14:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談人工智慧：有自我監管，也有群體監管。"
+    },
+    {
+      "id": "5119473",
+      "time": "2026-09-30 04:13:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【扎克伯格：白宮AI框架落地，行業達成共識】Meta執行長扎克伯格闡述了科技領袖們在白宮與特朗普總統會面後達成一致的AI框架。他表示，這些原則的核心在於：建立完善的內部管控機制、開展內部風險評估、引入外部審計員和評估機構，以及由公司董事會對審計報告進行獨立審查。他說：“我們的想法並不是說這（框架）將是我們唯一要做的舉措。相反，這只是一個起點，是一個整個行業都能達成一致的共識。”他表示，此舉的目標是讓美國民眾和客戶相信，這些技術正按照公司的預期初衷正常執行。"
+    },
+    {
+      "id": "mkt:01a0eecd-0e27-7338-ab1c-f329fd45f0f3",
+      "time": "2026-09-30 04:13:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Elon Musk said the most likely outcome of artificial intelligence is extremely beneficial."
+    },
+    {
+      "id": "mkt:01a0eecc-cb05-7338-ab1c-ec18841c9eda",
+      "time": "2026-09-30 04:13:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "U.S. President Trump, standing beside Alphabet (GOOG.O) CEO Sundar Pichai, criticized Finland's data center construction plan."
+    },
+    {
+      "id": "5119471",
+      "time": "2026-09-30 04:12:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：人工智慧最可能帶來的結果是裨益無窮。"
+    },
+    {
+      "id": "5119470",
+      "time": "2026-09-30 04:12:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普（在Alphabet執行長身旁）批評了Alphabet在芬蘭建設資料中心的計劃。"
+    },
     {
       "id": "mkt:01a0eecb-5a21-7338-ab1c-e03baf939ca9",
       "time": "2026-09-30 04:11:39",
@@ -108348,96 +108423,6 @@
         "Impact mixed"
       ],
       "text": "US API weekly crude inventories for the week to Sept. 18 due in 10 minutes."
-    },
-    {
-      "id": "5108568",
-      "time": "2026-09-23 04:16:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 兩名知情訊息人士稱，特朗普總統特使史蒂夫・維特科夫與賈裡德・庫什納將於今晚在紐約會見烏克蘭談判團隊以及英、法、德三國國家安全顧問，商討烏方提出的俄烏局勢緩和協議方案。"
-    },
-    {
-      "id": "mkt:01a0cac2-b9e3-7118-8650-5a1fd4a9f6df",
-      "time": "2026-09-23 04:15:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Iraq currently exports more than 3.0 mln b/d, the oil minister said, according to Iraqi state media."
-    },
-    {
-      "id": "5108567",
-      "time": "2026-09-23 04:14:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克石油部長：伊拉克當前石油日出口量超過 300 萬桶。"
-    },
-    {
-      "id": "5108566",
-      "time": "2026-09-23 04:14:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟宣佈將對俄製裁延長三年】歐盟理事會當地時間22日釋出公報稱，當天歐盟將針對3000多個俄羅斯個人和實體的制裁措施再延長36個月，至2029年9月22日。這些制裁措施包括針對個人的旅行限制、資產凍結，以及禁止向名單上的個人和實體提供資金或其他經濟資源。自2022年2月24日俄烏衝突爆發以來，歐盟大幅擴大了對俄製裁，對此，俄羅斯都採取了反制措施。歐盟對俄製裁效果在歐盟內部遭到普遍質疑。（央視）"
-    },
-    {
-      "id": "mkt:01a0cac1-7177-7118-8650-55b07f3fa256",
-      "time": "2026-09-23 04:14:30",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【EU extends Russia sanctions by 36 months to Sept. 22, 2029】The EU Council said on the 22nd it will extend sanctions on more than 3,000 Russian individuals and entities for 36 months, until Sept. 22, 2029. Measures include travel bans, asset freezes and prohibitions on supplying funds or other economic resources to listed targets. The Council noted the sanctions expansion followed Russia's Feb. 24, 2022 military action and that Moscow has implemented countermeasures; the effectiveness of EU sanctions has been widely questioned within the bloc."
-    },
-    {
-      "id": "5108565",
-      "time": "2026-09-23 04:14:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克石油部長稱，8 月石油出口量達 7000 萬桶。"
-    },
-    {
-      "id": "mkt:01a0cac1-6cb6-7118-8650-4a57b92abce5",
-      "time": "2026-09-23 04:14:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "Iraqi state media quoted the oil minister as saying August oil exports totaled 70 million barrels."
-    },
-    {
-      "id": "5108564",
-      "time": "2026-09-23 04:14:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "KB Homes第三財季交付（住房）2,732套，分析師預期2,723套。第三財季營收13億美元，分析師預期13億美元。維持全財年交付預期在10,500-11,000套不變，分析師預期10,751套。預計全財年住房營收49億-51億美元，公司原本預計49億-53億美元。預計第四財季交付3,000-3,500套，分析師預期3,262套。"
-    },
-    {
-      "id": "mkt:01a0cac1-1bc2-7118-8650-446ed287c30c",
-      "time": "2026-09-23 04:14:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB executive board member Nagel said he sees little uncertainty in markets' understanding of the drivers behind ECB decisions."
-    },
-    {
-      "id": "mkt:01a0cac0-bef7-7118-8650-3fadd9ad2a3d",
-      "time": "2026-09-23 04:13:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB executive board member Nagel said the bank's monetary policy approach sits between constructive ambiguity and forward guidance."
     }
   ]
 }
