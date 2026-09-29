@@ -1,7 +1,87 @@
 {
   "date": "2026-09-29",
-  "count": 1369,
+  "count": 1376,
   "items": [
+    {
+      "id": "mkt:01a0ec14-e02c-7338-ab06-bce39b6611ff",
+      "time": "2026-09-29 15:33:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ryanair CEO said he hopes the Boeing 737 MAX 10 certification delay will be measured in days, not weeks or months."
+    },
+    {
+      "id": "te:markets:587538",
+      "time": "2026-09-29 15:32:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.52% Higher — The FTSE 100 Index is gaining 55 points or 0.52 percent on Tuesday. Leading the gains are GlaxoSmithKline (2.55%), AstraZeneca (2.11%) and Antofagasta (2.03%). Top losers are SSE (-1.99%), National Grid (-1.26%) and Vodafone (-1.18%)."
+    },
+    {
+      "id": "mkt:01a0ec13-6342-7338-ab06-b6fa772c7918",
+      "time": "2026-09-29 15:31:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 1.12% at 897.15 yuan/gram on Sept 29 (Tuesday); silver T+D closed down 2.09% at 14,801.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:587537",
+      "time": "2026-09-29 15:31:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.26% Higher — The DAX Index is picking up 66 points or 0.26 percent on Tuesday. Gains are led by Infineon (2.00%), Siemens Healthineers (1.49%) and Siemens (1.24%). Biggest losers are Fresenius Medical Care (-1.93%), E.ON (-1.22%) and Bayer (-1.20%)."
+    },
+    {
+      "id": "te:markets:587536",
+      "time": "2026-09-29 15:31:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Siemens Stock Price Hits 4-week High — Siemens shares increased to 281.90 EUR, the highest since September 2026. Over the past 4 weeks, Siemens lost 1.47%, and in the last 12 months, it increased 22.77%."
+    },
+    {
+      "id": "mkt:01a0ec12-e695-7338-ab06-aaeb15b15829",
+      "time": "2026-09-29 15:30:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iraq military says US, coalition to complete withdrawal by Sept 30】Iraq Armed Forces spokesman Sabah Numan said on Sept 28 local time that US and coalition forces will complete their withdrawal from Iraq on Sept 30 as previously agreed. He said there are currently no foreign military bases in Iraq, security conditions are stable with Iraqi forces deployed nationwide, and security cooperation with partner countries will shift to bilateral arrangements once the coalition mission ends."
+    },
+    {
+      "id": "te:markets:587535",
+      "time": "2026-09-29 15:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.03% Higher — The CAC 40 Index is up by 3 points or 0.03 percent on Tuesday. Top gainers are Legrand (6.19%), STMicroelectronics (2.45%) and Schneider Electric (2.29%). Biggest losses came from Vinci (-3.31%), Eurofins Scientific SE (-1.85%) and Bouygues (-1.60%)."
+    },
     {
       "id": "5118016",
       "time": "2026-09-29 15:28:50",

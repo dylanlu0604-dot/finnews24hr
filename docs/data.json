@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-29 15:29:31",
-  "count": 11830,
+  "updated": "2026-09-29 15:33:29",
+  "count": 11833,
   "items": [
+    {
+      "id": "mkt:01a0ec14-e02c-7338-ab06-bce39b6611ff",
+      "time": "2026-09-29 15:33:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ryanair CEO said he hopes the Boeing 737 MAX 10 certification delay will be measured in days, not weeks or months."
+    },
+    {
+      "id": "te:markets:587538",
+      "time": "2026-09-29 15:32:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.52% Higher — The FTSE 100 Index is gaining 55 points or 0.52 percent on Tuesday. Leading the gains are GlaxoSmithKline (2.55%), AstraZeneca (2.11%) and Antofagasta (2.03%). Top losers are SSE (-1.99%), National Grid (-1.26%) and Vodafone (-1.18%)."
+    },
+    {
+      "id": "mkt:01a0ec13-6342-7338-ab06-b6fa772c7918",
+      "time": "2026-09-29 15:31:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 1.12% at 897.15 yuan/gram on Sept 29 (Tuesday); silver T+D closed down 2.09% at 14,801.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:587537",
+      "time": "2026-09-29 15:31:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.26% Higher — The DAX Index is picking up 66 points or 0.26 percent on Tuesday. Gains are led by Infineon (2.00%), Siemens Healthineers (1.49%) and Siemens (1.24%). Biggest losers are Fresenius Medical Care (-1.93%), E.ON (-1.22%) and Bayer (-1.20%)."
+    },
+    {
+      "id": "te:markets:587536",
+      "time": "2026-09-29 15:31:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Siemens Stock Price Hits 4-week High — Siemens shares increased to 281.90 EUR, the highest since September 2026. Over the past 4 weeks, Siemens lost 1.47%, and in the last 12 months, it increased 22.77%."
+    },
+    {
+      "id": "mkt:01a0ec12-e695-7338-ab06-aaeb15b15829",
+      "time": "2026-09-29 15:30:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iraq military says US, coalition to complete withdrawal by Sept 30】Iraq Armed Forces spokesman Sabah Numan said on Sept 28 local time that US and coalition forces will complete their withdrawal from Iraq on Sept 30 as previously agreed. He said there are currently no foreign military bases in Iraq, security conditions are stable with Iraqi forces deployed nationwide, and security cooperation with partner countries will shift to bilateral arrangements once the coalition mission ends."
+    },
+    {
+      "id": "te:markets:587535",
+      "time": "2026-09-29 15:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.03% Higher — The CAC 40 Index is up by 3 points or 0.03 percent on Tuesday. Top gainers are Legrand (6.19%), STMicroelectronics (2.45%) and Schneider Electric (2.29%). Biggest losses came from Vinci (-3.31%), Eurofins Scientific SE (-1.85%) and Bouygues (-1.60%)."
+    },
     {
       "id": "5118016",
       "time": "2026-09-29 15:28:50",
@@ -107848,54 +107928,6 @@
         "Importance 1"
       ],
       "text": "Sterling Slips as Oil Rises and UK Deficit Widens — Sterling weakened to $1.336, near its lowest level since late July, as higher oil prices and weaker-than-expected UK public finances weighed on sentiment. At the same time, the US dollar remained supported by expectations of further interest-rate hikes from the Federal Reserve. Brent crude climbed towards $102 a barrel, on track to end a four-day losing streak, amid uncertainty over oil flows and potential Middle East diplomacy. President Donald Trump is due to address the UN General Assembly later today and could meet his Iranian counterpart on the sidelines. UK government data showed the budget deficit widened to £18.3 billion in August, above the £15.5 billion forecast, partly reflecting higher inflation-linked spending on pensions and benefits. Attention is now turning to next month’s Autumn Budget, with the government reportedly considering excluding infrastructure borrowing from its fiscal rules."
-    },
-    {
-      "id": "te:economy:585554",
-      "time": "2026-09-22 15:32:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Edge Higher on Oil, Wider Deficit — UK 10-year gilt yields edged higher to 5.23% on Tuesday, following an eight-basis-point decline on Monday, as oil prices moved higher and investors digested fresh UK public finances data. Brent crude rose towards $102 a barrel, putting it on track to snap a four-day losing streak, amid continued uncertainty over oil flows and potential diplomatic efforts to ease tensions in the Middle East. Meanwhile, UK government data showed the budget deficit widened to £18.3 billion in August, above economists’ expectations of £15.5 billion. The wider shortfall was partly attributed to the impact of inflation, which has increased government spending on items including state pensions and social benefits. Attention is now turning to next month’s Autumn Budget, with the government reportedly considering changes to its fiscal rules that would allow borrowing for infrastructure and other building projects to be excluded. A similar proposal was previously floated during Keir Starmer’s time in office."
-    },
-    {
-      "id": "te:markets:585553",
-      "time": "2026-09-22 15:32:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.03% Lower — The FTSE 100 Index is dropping 3 points. Leading the losses are Admiral (-2.66%), Standard Chartered (-2.59%) and Fresnillo (-1.79%). Top gainers were Kingfisher (8.75%), Smiths (5.33%) and Howden Joinery (1.65%)."
-    },
-    {
-      "id": "te:markets:585550",
-      "time": "2026-09-22 15:31:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.23% Lower — The DAX Index is losing 58 points. Losses were led by Allianz (-2.70%), Vonovia (-2.03%) and Deutsche Bank (-1.36%). Offsetting the fall, top gainers were Adidas (1.48%), RWE (1.17%) and Zalando (1.16%)."
-    },
-    {
-      "id": "te:markets:585549",
-      "time": "2026-09-22 15:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens Unchanged — The CAC 40 Index is up by 0.3 points or 0.00 percent on Tuesday. Top gainers are Bureau Veritas (1.66%), STMicroelectronics (1.57%) and ENGIE (1.33%). Biggest losses came from AXA (-1.63%), Renault (-1.33%) and Societe Generale (-1.10%)."
     }
   ]
 }
