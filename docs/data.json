@@ -1,7 +1,92 @@
 {
-  "updated": "2026-09-29 11:30:34",
-  "count": 11766,
+  "updated": "2026-09-29 11:34:20",
+  "count": 11769,
   "items": [
+    {
+      "id": "mkt:01a0eb38-cedd-7338-ab00-1d3441b36a28",
+      "time": "2026-09-29 11:32:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【A-shares midday: ChiNext +0.34%, >4,000 stocks advanced】China A-shares were mixed at midday: Shanghai Composite +0.08%, Shenzhen Composite +0.41%, ChiNext +0.34%. Combined Shanghai/Shenzhen turnover stood at CNY 876.2 bln, down CNY 284.8 bln from the prior session. Breadth was positive with more than 4,000 stocks rising. AI-video names led gains, with iReader Technology and Chaoxun Technology among stocks hitting daily limit-up and other advancers including Zhidemai, Danghong Technology, Bona Film and Yinsai Group. Property stocks were active: Shenwuye A recorded a second consecutive limit-up and Binjiang Group hit limit-up. Solid-state battery stocks strengthened, with Wuhan Landian and several peers at daily limits. CPO-related names recovered, while cultivated-diamond and grain concepts underperformed; Wanxiang Denong and Jinjian Rice were at limit-down."
+    },
+    {
+      "id": "mkt:01a0eb38-58e5-7338-ab00-111c3f60db06",
+      "time": "2026-09-29 11:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fengshi (Qingdao) Marine Technology launches IPO counseling】CSRC website shows Fengshi (Qingdao) Marine Technology Co., Ltd. formally began IPO counseling on Sept. 28, 2026, with Guosen Securities appointed as the counselor. The Qingdao-based company develops marine pharmaceuticals and bioproducts, primarily utilizing Antarctic krill."
+    },
+    {
+      "id": "5117716",
+      "time": "2026-09-29 11:31:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【逢時科技啟動上市輔導】據證監會官網顯示，逢時(青島)海洋科技股份有限公司於2026年9月28日正式啟動上市輔導，國信證券擔任輔導機構。逢時科技是一家創新型海洋科技企業，聚焦以南極磷蝦為主的海洋藥物和生物製品的綜合開發與利用。"
+    },
+    {
+      "id": "5117715",
+      "time": "2026-09-29 11:31:35",
+      "tags": [
+        "公司",
+        "市場",
+        "A股"
+      ],
+      "text": "【午評：創業板指半日漲0.34%，市場縮量超2800億元】A股三大指數早盤集體上漲，截至午盤，上證指數漲0.08%，深證成指漲0.41%，創業板指漲0.34%，北證50漲1.29%，科創50指數漲0.58%。全市場成交額8843億元，較上日縮量2861億元，全市場超4000只個股上漲。板塊題材上，電池、元件、文化傳媒、房地產、AI影片板塊漲幅居前；煤炭開採加工、培育鑽石、小家電、油氣開採及服務、種植業與林業板塊跌幅居前。盤面上，電池板塊高開高走，尚水智慧、國軒高科、時代萬恆等股漲停，億華通、納科諾爾、利元亨漲幅居前。元件板塊表現強勢，迅捷興、超聲電子、依頓電子、奧士康漲停，金百澤、金祿電子、強達電路漲幅居前。房地產板塊亦表現活躍，信達地產、深物業A、華聯控股漲停，特發服務、濱江集團、萬科A漲幅居前。培育鑽石板塊震盪走低，黃河旋風、惠豐鑽石、四方達跌幅居前。煤炭開採加工板塊亦走勢疲軟，雲煤能源、晉控煤業、淮北礦業跌幅居前。"
+    },
+    {
+      "id": "mkt:01a0eb37-bf8f-7338-ab00-0b9903063126",
+      "time": "2026-09-29 11:31:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "CSI500",
+        "Impact bullish",
+        "CSI1000"
+      ],
+      "text": "【China index futures morning session close】Most-active contracts at morning close: CSI 300 index futures (IF) down 0.08%, SSE 50 index futures (IH) down 0.17%, CSI 500 index futures (IC) up 0.39%, CSI 1000 index futures (IM) up 0.47%."
+    },
+    {
+      "id": "mkt:01a0eb37-b1be-7338-ab00-05418cdc92e6",
+      "time": "2026-09-29 11:31:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals"
+      ],
+      "text": "At the morning-session close, China's main futures contracts were mostly lower. No.20 rubber, container freight (Europe route) and SC crude fell over 3%. Egg, polysilicon, rubber, ethylene glycol (EG), platinum, palladium and Shanghai silver declined more than 2%. On the upside, methanol, asphalt and propylene rose over 2%; pure benzene and styrene (EB) gained over 1%, starch was up about 1%."
+    },
+    {
+      "id": "mkt:01a0eb37-ae85-7338-aaff-fdc95fc7dc86",
+      "time": "2026-09-29 11:31:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "【China government bond futures morning session close】2-year bond futures (TS) main contract rose 0.04%; 5-year (TF) rose 0.07%; 10-year (T) rose 0.06%; 30-year (TL) rose 0.07%."
+    },
+    {
+      "id": "mkt:01a0eb37-5e37-7338-aaff-f43d6e05867c",
+      "time": "2026-09-29 11:31:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Emergency Management and Chinese Academy of Engineering sign strategic cooperation agreement】Sept 29, Beijing — The Ministry of Emergency Management and the Chinese Academy of Engineering signed a strategic cooperation agreement to: strengthen strategic decision‑support; jointly advance major science and technology R&D; build national-level emergency management science and technology capacity; drive high-standard construction and operation of the National Technology Innovation Center for Mine Safety; support raising the academic level of the Emergency Management University; coordinate commercialization of technology and development of the emergency-equipment industry; and expand high-level talent cultivation to modernize China’s emergency management system and capabilities."
+    },
     {
       "id": "5117714",
       "time": "2026-09-29 11:30:03",
@@ -107173,49 +107258,6 @@
         "其他"
       ],
       "text": "【成都1宗宅地溢價39.6%成交】9月22日，成都雙流區1宗宅地出讓，地塊出讓面積為25809平方米（合38.71畝），規劃建築面積51618平方米，容積率2，起拍樓面價12000元/平方米，摺合起始總價6.19億元。該地塊吸引了多房企參拍，經過近百輪競價後，最終渝太以樓面價16750元/平方米競得該地塊，成交總價8.65億元，溢價率39.6%。"
-    },
-    {
-      "id": "5106798",
-      "time": "2026-09-22 11:33:52",
-      "tags": [
-        "央行"
-      ],
-      "text": "澳洲聯儲布洛克：當前4.5%的失業率“有些吃緊”。"
-    },
-    {
-      "id": "5106797",
-      "time": "2026-09-22 11:32:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【成都1—8月鋰離子電池產量同比增長152.7%】9月22日，成都統計局官微訊息，1—8月，全市規模以上工業增加值同比增長6.3%。分行業看，37個大類行業中有26個行業增加值實現增長。其中，電氣機械和器材製造業同比增長19.1%，專用裝置製造業增長14.5%，石油、煤炭及其他燃料加工業增長14.1%，計算機、通訊和其他電子裝置製造業增長12.6%。從主要工業產品產量看，鋰離子電池同比增長152.7%，智慧電視增長45.5%，工業機器人增長16.3%。1—8月，規模以上工業企業產品產銷率為96.0%。"
-    },
-    {
-      "id": "5106796",
-      "time": "2026-09-22 11:32:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【沃爾瑪中國調整雙業態採購負責人】9月22日，沃爾瑪中國宣佈兩項核心採購線人事任命，涉及山姆會員商店與沃爾瑪商店兩大業態。任命內容顯示，現任美國山姆會員商店非食品採購高階副總裁Sean Jackson將外派至中國，出任山姆會員商店首席採購官，直接向山姆會員商店業態總裁劉鵬彙報。與此同時，現任沃爾瑪中國副總裁、山姆會員商店非食品採購負責人Amber Bynum調任沃爾瑪商店首席採購官，向沃爾瑪商店業態總裁祝駿彙報，計劃10月中旬正式到崗，未來一個月內完成崗位交接。"
-    },
-    {
-      "id": "5106795",
-      "time": "2026-09-22 11:31:41",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【自然資源部：推動各地發展動力從“土地財政”轉向“時空經濟”】9月22日，自然資源部副部長莊少勤在國新辦新聞釋出會上表示，近期，自然資源部正結合深化“多規合一”改革，特別是加強規劃和資源資產管理改革的融合創新，出臺一系列支援城市更新、鄉村振興、產業發展的規劃新政策新標準，特別是從安全發展、協調發展、集約發展、特色發展、共享發展等維度拓展價值空間，引導各地挖掘特色資源、盤活存量資產、最佳化功能結構，打造更具活力的創新型產業社群、商務社群，以及高品質的社群生活圈，推動發展動力從原來的“土地財政”轉向“時空經濟”。"
-    },
-    {
-      "id": "5106794",
-      "time": "2026-09-22 11:31:16",
-      "tags": [
-        "公司",
-        "市場",
-        "A股"
-      ],
-      "text": "【午評：創業板指震盪收漲0.93%，文化傳媒、生物製品板塊漲幅居前】A股三大指數早盤集體上漲，截至午盤，上證指數漲0.22%，深證成指漲0.62%，創業板指漲0.93%，北證50漲0.31%，科創50指數漲1.33%。全市場成交額14407億元，較上日放量1017億元，全市場超2800只個股上漲。板塊題材上，文化傳媒、拼多多概念、生物製品、中國AI 50、重組蛋白板塊漲幅居前；港口航運、旅遊及酒店、油氣開採及服務、風電裝置、軍工裝備板塊跌幅居前。盤面上，文化傳媒板塊高開高走，新華傳媒、新華文軒、引力傳媒、中國出版、智度股份等多股漲停，值得買、國脈文化、三人行漲幅居前。生物製品板塊低開高走，義翹神州、諾唯贊觸及20cm漲停，康希諾、百奧泰、神州細胞漲幅居前。元件板塊表現活躍，賢豐控股漲停，滿坤科技、逸豪新材、澳弘電子漲幅居前。港口航運板塊走勢低迷，招商輪船、招商南油、國航遠洋跌幅居前。"
     }
   ]
 }
