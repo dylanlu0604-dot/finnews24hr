@@ -1,7 +1,91 @@
 {
   "date": "2026-09-30",
-  "count": 38,
+  "count": 47,
   "items": [
+    {
+      "id": "mkt:01a0edff-1951-7338-ab16-5bf0c6228c82",
+      "time": "2026-09-30 00:28:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England's Taylor said he sees no clear signs that second-round effects are forming, unlike in 2022."
+    },
+    {
+      "id": "5119172",
+      "time": "2026-09-30 00:28:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會預測，歐盟 2026/27 作物年度玉米可用產量為 4830 萬噸，上月預測值為 5010 萬噸。歐盟 2026/27 作物年度玉米進口量為 2500 萬噸，上月預測值同樣為 2500 萬噸。"
+    },
+    {
+      "id": "5119171",
+      "time": "2026-09-30 00:28:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：我尚未看到第二輪通脹效應正在發酵的明確訊號，這與 2022 年的情況不同。"
+    },
+    {
+      "id": "mkt:01a0edfd-b501-7338-ab16-50c01ff3550a",
+      "time": "2026-09-30 00:27:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Fiscal documents show Russia plans cuts to welfare, education and healthcare funding in 2027. Debt servicing costs are projected to rise 21.6% in 2027, accounting for 9.4% of government spending."
+    },
+    {
+      "id": "5119170",
+      "time": "2026-09-30 00:26:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "寶馬計劃到2050年實現100%可再生能源電動。"
+    },
+    {
+      "id": "mkt:01a0edfd-6f08-7338-ab16-4fd211097f65",
+      "time": "2026-09-30 00:26:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC says uncontrolled AI agents pose uncertain legal risk to the company."
+    },
+    {
+      "id": "5119169",
+      "time": "2026-09-30 00:26:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "財政檔案顯示：俄羅斯計劃在 2027 年削減福利、教育及醫療領域的資金投入。俄羅斯 2027 年債務償付成本將上升 21.6%，佔總支出比重達到 9.4%。"
+    },
+    {
+      "id": "mkt:01a0edfc-a3dd-7338-ab16-471b7407bee5",
+      "time": "2026-09-30 00:25:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI CEO Sam Altman said there is currently no timetable for an IPO."
+    },
+    {
+      "id": "mkt:01a0edfb-d1d1-7338-ab16-3ee992e4febd",
+      "time": "2026-09-30 00:24:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US plans to lend 40 mln barrels from SPR to ease fuel-price pressure】The US Energy Department said the Trump administration plans to lend 40 mln barrels of crude from the Strategic Petroleum Reserve (SPR) to energy firms to alleviate fuel-price pressure linked to Iran tensions and the Russia-Ukraine war. The release would be a loan that firms must return. In March the US, with the IEA and about 30 countries, agreed a global release of roughly 400 mln barrels; the US pledged 172 mln barrels. The administration proposed releasing the remaining 40 mln barrels in June, but by month-end firms had agreed to borrow only about 0.5 mln barrels."
+    },
     {
       "id": "5119168",
       "time": "2026-09-30 00:22:11",
