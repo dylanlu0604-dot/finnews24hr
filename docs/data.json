@@ -1,7 +1,67 @@
 {
-  "updated": "2026-09-29 23:22:04",
-  "count": 11884,
+  "updated": "2026-09-29 23:25:56",
+  "count": 11881,
   "items": [
+    {
+      "id": "te:markets:587779",
+      "time": "2026-09-29 23:24:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "British Pound Hits 13-week Low — GBPUSD decreased to 1.32, the lowest since June 2026. Over the past 4 weeks, British Pound US Dollar lost 2.53%, and in the last 12 months, it decreased 1.77%."
+    },
+    {
+      "id": "5119119",
+      "time": "2026-09-29 23:23:50",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "資料顯示，構成即期布倫特基準油的五種北海原油，11 月供應量平均為 51.4 萬桶 / 日，高於 10 月的 49.8 萬桶 / 日。"
+    },
+    {
+      "id": "5119118",
+      "time": "2026-09-29 23:23:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴里克礦業：盧姆瓦納超級露天礦擴建專案將使銅產量翻倍至每年 24 萬噸，並將礦山開採壽命延長至 30 年。"
+    },
+    {
+      "id": "5119117",
+      "time": "2026-09-29 23:22:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴里克礦業預計內華達金礦產量在2030年後將超過每年300萬盎司。"
+    },
+    {
+      "id": "mkt:01a0edc2-8641-7338-ab14-5cf5a518b884",
+      "time": "2026-09-29 23:22:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple’s new CEO Ternus begins overhaul to speed product development, sources say】Apple (AAPL.O) new CEO Ternus, just weeks into his tenure, has started pushing internal reforms to accelerate product development, broaden the product lineup and create a leaner, more engineering-focused organization, people familiar with the matter said. Proposed changes under discussion include reducing reliance on the traditional spring and fall launch cadence and cutting some middle-management roles to shorten layers between engineers and senior executives. Ternus has signaled the company must speed product releases and raise its capacity for experimentation and innovation to remain competitive in the AI era. He is also advancing cost-cutting measures and seeking new revenue sources and better monetization of existing products as services growth slows."
+    },
+    {
+      "id": "5119116",
+      "time": "2026-09-29 23:22:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統助理烏沙科夫：普京與特朗普擬於 11 月 APEC 峰會期間會面的相關籌備工作尚未啟動。"
+    },
     {
       "id": "te:markets:587778",
       "time": "2026-09-29 23:18:46",
@@ -108506,99 +108566,6 @@
         "其他"
       ],
       "text": "SpaceXAI：Grok Bot代理首月使用者突破40萬，較上週增長24%。"
-    },
-    {
-      "id": "5108263",
-      "time": "2026-09-22 23:25:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "拉脫維亞總理：法國總統馬克龍已同意就拉脫維亞加入法國核威懾倡議啟動談判，馬克龍還承諾將加強法國在拉脫維亞的軍事存在，尤其是防空領域的部署。"
-    },
-    {
-      "id": "mkt:01a0c9b8-7544-7118-8649-cba63d25cd67",
-      "time": "2026-09-22 23:25:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Latvian minister said French President Macron has agreed to enter talks with Latvia on joining France's nuclear deterrence initiative."
-    },
-    {
-      "id": "5108262",
-      "time": "2026-09-22 23:24:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "奈飛股價因滙豐將其評級從買入下調至持有下跌2%。"
-    },
-    {
-      "id": "te:markets:585757",
-      "time": "2026-09-22 23:24:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AbbVie Stock Price Hits 4-week High — AbbVie shares increased to 266.62 USD, the highest since August 2026. Over the past 4 weeks, AbbVie gained 0.76%, and in the last 12 months, it increased 19.73%."
-    },
-    {
-      "id": "5108261",
-      "time": "2026-09-22 23:24:28",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【花旗調查：家族辦公室將通脹視為頭號擔憂 青睞股票和黃金】根據花旗集團釋出的全球家族辦公室年度報告，通脹取代貿易戰和關稅，成為這類私人投資機構今年的的頭號關切。該報告基於6月和7月對40多個國家350家公司的調查。家族辦公室目前將通脹視為頭號擔憂，顯示商品和服務價格上漲即便對最富有的投資者也構成困擾。上市股票也是家族辦公室未來淨配置的首選資產類別，對通脹的擔憂也進一步提升該類投資者對黃金的興趣。"
-    },
-    {
-      "id": "mkt:01a0c9b6-88c8-7118-8649-c59bec8732c4",
-      "time": "2026-09-22 23:22:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "S&P 500 banks index hit a more-than-three-month low, down 3.5%."
-    },
-    {
-      "id": "5108260",
-      "time": "2026-09-22 23:22:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500銀行指數跌至三個多月新低，最新下跌3.5%。"
-    },
-    {
-      "id": "mkt:01a0c9b5-e3b9-7118-8649-bd289561e65c",
-      "time": "2026-09-22 23:22:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "PYPL.O",
-        "Impact bullish",
-        "META.O"
-      ],
-      "text": "PayPal (PYPL.O) said it will partner with Meta to integrate Meta's Muse agents into shopping and checkout."
-    },
-    {
-      "id": "5108259",
-      "time": "2026-09-22 23:22:04",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "法國經濟財政部長：我們將擴大援助規模，重點幫扶最需要援助的群體。"
     }
   ]
 }

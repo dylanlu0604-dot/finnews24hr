@@ -1,7 +1,67 @@
 {
   "date": "2026-09-29",
-  "count": 2300,
+  "count": 2306,
   "items": [
+    {
+      "id": "te:markets:587779",
+      "time": "2026-09-29 23:24:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "British Pound Hits 13-week Low — GBPUSD decreased to 1.32, the lowest since June 2026. Over the past 4 weeks, British Pound US Dollar lost 2.53%, and in the last 12 months, it decreased 1.77%."
+    },
+    {
+      "id": "5119119",
+      "time": "2026-09-29 23:23:50",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "資料顯示，構成即期布倫特基準油的五種北海原油，11 月供應量平均為 51.4 萬桶 / 日，高於 10 月的 49.8 萬桶 / 日。"
+    },
+    {
+      "id": "5119118",
+      "time": "2026-09-29 23:23:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴里克礦業：盧姆瓦納超級露天礦擴建專案將使銅產量翻倍至每年 24 萬噸，並將礦山開採壽命延長至 30 年。"
+    },
+    {
+      "id": "5119117",
+      "time": "2026-09-29 23:22:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴里克礦業預計內華達金礦產量在2030年後將超過每年300萬盎司。"
+    },
+    {
+      "id": "mkt:01a0edc2-8641-7338-ab14-5cf5a518b884",
+      "time": "2026-09-29 23:22:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple’s new CEO Ternus begins overhaul to speed product development, sources say】Apple (AAPL.O) new CEO Ternus, just weeks into his tenure, has started pushing internal reforms to accelerate product development, broaden the product lineup and create a leaner, more engineering-focused organization, people familiar with the matter said. Proposed changes under discussion include reducing reliance on the traditional spring and fall launch cadence and cutting some middle-management roles to shorten layers between engineers and senior executives. Ternus has signaled the company must speed product releases and raise its capacity for experimentation and innovation to remain competitive in the AI era. He is also advancing cost-cutting measures and seeking new revenue sources and better monetization of existing products as services growth slows."
+    },
+    {
+      "id": "5119116",
+      "time": "2026-09-29 23:22:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統助理烏沙科夫：普京與特朗普擬於 11 月 APEC 峰會期間會面的相關籌備工作尚未啟動。"
+    },
     {
       "id": "te:markets:587778",
       "time": "2026-09-29 23:18:46",
