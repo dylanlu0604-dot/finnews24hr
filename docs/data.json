@@ -1,7 +1,41 @@
 {
-  "updated": "2026-09-30 05:09:35",
-  "count": 11858,
+  "updated": "2026-09-30 05:13:20",
+  "count": 11860,
   "items": [
+    {
+      "id": "5119528",
+      "time": "2026-09-30 05:11:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大總理卡尼表示，克利夫蘭-克里夫斯公司閒置哈密爾頓工廠部分產能的決定令加拿大深感失望。"
+    },
+    {
+      "id": "5119527",
+      "time": "2026-09-30 05:11:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：我們過去稱之為資料中心，但我們現在正在建造的其實是超級智慧（SI）工廠。"
+    },
+    {
+      "id": "5119526",
+      "time": "2026-09-30 05:10:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "雷神公司（Raytheon）獲得美國海軍價值2.47億美元的MK 15武器系統合同。"
+    },
+    {
+      "id": "5119525",
+      "time": "2026-09-30 05:09:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國海軍授予亨廷頓·英格爾斯公司價值51億美元的CVN-75（哈里·杜魯門號航空母艦）大修合同。"
+    },
     {
       "id": "5119524",
       "time": "2026-09-30 05:08:51",
@@ -108433,32 +108467,6 @@
         "Europe & UK"
       ],
       "text": "【UK police arrest two men suspected of plotting attack on Manchester Jewish community】UK police said on the 22nd that two men were arrested on the 20th in Manchester city centre on suspicion of planning a terrorist attack targeting the city’s Jewish community. Both are in their 30s and remain in custody. Greater Manchester’s mayor and deputy mayor said authorities will prioritise public safety and counter antisemitism."
-    },
-    {
-      "id": "te:markets:585810",
-      "time": "2026-09-23 05:11:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rises on US-Iran Talks Hopes — The Ibovespa rose 0.4% to close at 187,423 on prospects for US-Iran talks, rebounding from earlier losses. US President Trump said US officials had a “very good” meeting with Iranian envoys at the UN General Assembly and that another was planned. A senior Iranian official said Iran could reopen the Strait of Hormuz within days if the US eased military pressure and lifted its blockade on Iranian ports. The pullback in the oil rally supported equities. Banks ended mixed, with BB and Santander falling 1.4% and 0.6%, while Bradesco and Itaú rose 1.5% and 0.2%. Petrobras gained 0.7% despite lower oil prices. Vale rose 0.4% after confirming a 30% stake acquisition in Ligga, while Axia gained 1.3%. Copom’s somewhat hawkish minutes kept the index volatile."
-    },
-    {
-      "id": "mkt:01a0caf4-55b9-7118-8651-8363b7621988",
-      "time": "2026-09-23 05:10:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bearish"
-      ],
-      "text": "【CME's Nvidia GPU compute futures delayed as CFTC extends review; October launch at risk】Futures tied to Nvidia GPU rental prices, viewed as a step toward making AI compute an investable asset class, are facing regulatory headwinds, The Information reports. CME had targeted an early-October launch but now expects it will not secure CFTC approval in time after the regulator extended its review to study contract mechanics and solicit broader industry input. The CFTC said compute-finance markets could support US AI development but warned the underlying market is fragmented and opaque."
     }
   ]
 }
