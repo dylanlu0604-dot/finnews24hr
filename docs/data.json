@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-29 23:42:09",
-  "count": 11882,
+  "updated": "2026-09-29 23:46:02",
+  "count": 11881,
   "items": [
+    {
+      "id": "5119143",
+      "time": "2026-09-29 23:45:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本將設立面向國防初創企業的國家投資基金，重點佈局無人機領域。"
+    },
+    {
+      "id": "mkt:01a0edd7-5d0a-7338-ab15-5949445f77fb",
+      "time": "2026-09-29 23:45:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EU Energy Commissioner said the EU is exploring measures to lower transport fuel prices ahead of winter to ease consumer burden."
+    },
+    {
+      "id": "mkt:01a0edd6-29ef-7338-ab15-56d47918fa4b",
+      "time": "2026-09-29 23:43:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU rejects renegotiation of Ukraine export quotas】A European Commission spokesperson said on Tuesday the EU does not intend to renegotiate export quotas with Ukraine. Kyiv had sought expanded market access after Russian attacks weighed on its economy. The EU’s early-2022 tariff- and quota-free access for Ukrainian goods led to large agricultural inflows and EU farmer backlash; Brussels reimposed quotas last year on wheat, sugar and eggs. Ukraine is seeking a higher bioethanol export quota. The spokesperson said, We can confirm there are currently no plans to reopen discussions on renegotiating export quotas with Ukraine, and added trade data show last year’s revised quota arrangements are fair and balanced."
+    },
+    {
+      "id": "5119142",
+      "time": "2026-09-29 23:43:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟能源專員：歐盟正研究可採取的舉措，在冬季來臨前降低運輸燃料成本。"
+    },
+    {
+      "id": "te:markets:587783",
+      "time": "2026-09-29 23:42:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls to Over 2-Week Low — The FTSE 100 turned lower during Tuesday’s session, falling more than 0.5% to an over 2-week low and trailing other European markets as weakness spread across several major sectors. Oil stocks were among the biggest drags, with Shell down 1.5% and BP losing 2.1% as Brent crude slipped toward $104 a barrel. Water companies also came under pressure after Andy Burnham outlined plans for greater public involvement in the sector, including stronger powers for local mayors and tighter restrictions on executive bonuses. United Utilities and Severn Trent both declined. Banks weakened as well, with HSBC, Barclays and Lloyds Banking Group each losing around 0.5% to 0.7%, while AstraZeneca fell 0.7%. InterContinental Hotels Group provided some support, gaining around 2% as lower oil prices benefited the broader travel sector."
+    },
+    {
+      "id": "mkt:01a0edd4-2afd-7338-ab15-4f885b9ac8a7",
+      "time": "2026-09-29 23:41:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EU Energy Commissioner says he expects no imminent risk to Europe’s energy supply before winter."
+    },
     {
       "id": "5119141",
       "time": "2026-09-29 23:41:07",
@@ -108568,75 +108631,6 @@
         "MKT News"
       ],
       "text": "Iranian foreign minister Araghchi met EU high representative for foreign affairs and security policy Kallas."
-    },
-    {
-      "id": "te:markets:585763",
-      "time": "2026-09-22 23:45:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Edges Down on Tuesday — The FTSE 100 fell on Tuesday after a volatile session, reversing Monday’s 0.8% gain as caution prevailed amid uncertainty over efforts to restore energy flows through the Strait of Hormuz. Brent crude hovered near $100 a barrel, while President Donald Trump said he expected the US to reach a deal with Iran after the election and noted that oil flows had increased since the conflict began, with prices likely to fall sharply once it ends. Banks weakened, with HSBC down 1.4%, Barclays 0.9% and Lloyds 1.1%, while defence stocks Rolls-Royce and BAE Systems fell 1.4% and 2.6%, respectively. On the other hand, Kingfisher surged 12% after raising profit guidance on strong momentum at Screwfix, Poland and Iberia. Smiths Group gained almost 8% on higher revenue and growth expectations at John Crane and Flex-Tek. Meanwhile, a CBI survey showed factory orders at their highest level since July 2023, while August government borrowing reached £18.3 billion, above expectations of £15.5 billion."
-    },
-    {
-      "id": "te:markets:585762",
-      "time": "2026-09-22 23:45:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Trade Mixed as Nasdaq Tests Record — US stock indices were mixed on Tuesday as the rebound in Treasury yields offset the extended rally for AI companies. The S&P 500 and the Dow swung lower, while the tech-heavy Nasdaq 100 rose 0.5% to a record high. Borrowing costs rebounded in afternoon traded as US President Trump delivered escalatory remarks against Iran in his UN speech, and dimmed hopes of a diplomatic effort to restore fuel exports from the Middle East. Credit-sensitive banks led the losses, with JPMorgan, Wells Fargo , and Morgan Stanley dropping 4% each. In turn, another strong session on the AI trade lifted software developers and AI infrastructure companies. The latest catalyst was the strong reception for Meta's Muse AI agent. Meta shares were 13% higher in the last two sessions, while Micron gained 3%. On top of that, Sandisk rose on an upgrade from Rosenblatt."
-    },
-    {
-      "id": "5108298",
-      "time": "2026-09-22 23:45:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：任何有良知的人都不能對加沙當前發生的事視若無睹，聯合國已無法履行其維護和平的職責。"
-    },
-    {
-      "id": "mkt:01a0c9ca-b64e-7118-864a-6d5eea9d8709",
-      "time": "2026-09-22 23:45:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Turkey's President Erdogan said the United Nations can no longer fulfill its duty to maintain peace."
-    },
-    {
-      "id": "5108297",
-      "time": "2026-09-22 23:44:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：取消約75萬人的《平價醫療法案》註冊，因其存在欺詐行為。"
-    },
-    {
-      "id": "mkt:01a0c9ca-4c8b-7118-864a-62d9d2cb0ef0",
-      "time": "2026-09-22 23:44:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US Agriculture Secretary Rollins said President Trump acted where others only talked, secured peace where others only discussed it, and confronted threats others ignored, adding he is proud to stand with the president."
-    },
-    {
-      "id": "mkt:01a0c9ca-41f8-7118-864a-5d7a22c6d2b2",
-      "time": "2026-09-22 23:44:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's President ERDOGAN said no person of conscience can ignore what is happening in Gaza."
     }
   ]
 }

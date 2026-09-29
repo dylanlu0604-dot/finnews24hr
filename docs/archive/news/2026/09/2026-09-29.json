@@ -1,7 +1,70 @@
 {
   "date": "2026-09-29",
-  "count": 2358,
+  "count": 2364,
   "items": [
+    {
+      "id": "5119143",
+      "time": "2026-09-29 23:45:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本將設立面向國防初創企業的國家投資基金，重點佈局無人機領域。"
+    },
+    {
+      "id": "mkt:01a0edd7-5d0a-7338-ab15-5949445f77fb",
+      "time": "2026-09-29 23:45:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EU Energy Commissioner said the EU is exploring measures to lower transport fuel prices ahead of winter to ease consumer burden."
+    },
+    {
+      "id": "mkt:01a0edd6-29ef-7338-ab15-56d47918fa4b",
+      "time": "2026-09-29 23:43:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU rejects renegotiation of Ukraine export quotas】A European Commission spokesperson said on Tuesday the EU does not intend to renegotiate export quotas with Ukraine. Kyiv had sought expanded market access after Russian attacks weighed on its economy. The EU’s early-2022 tariff- and quota-free access for Ukrainian goods led to large agricultural inflows and EU farmer backlash; Brussels reimposed quotas last year on wheat, sugar and eggs. Ukraine is seeking a higher bioethanol export quota. The spokesperson said, We can confirm there are currently no plans to reopen discussions on renegotiating export quotas with Ukraine, and added trade data show last year’s revised quota arrangements are fair and balanced."
+    },
+    {
+      "id": "5119142",
+      "time": "2026-09-29 23:43:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟能源專員：歐盟正研究可採取的舉措，在冬季來臨前降低運輸燃料成本。"
+    },
+    {
+      "id": "te:markets:587783",
+      "time": "2026-09-29 23:42:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls to Over 2-Week Low — The FTSE 100 turned lower during Tuesday’s session, falling more than 0.5% to an over 2-week low and trailing other European markets as weakness spread across several major sectors. Oil stocks were among the biggest drags, with Shell down 1.5% and BP losing 2.1% as Brent crude slipped toward $104 a barrel. Water companies also came under pressure after Andy Burnham outlined plans for greater public involvement in the sector, including stronger powers for local mayors and tighter restrictions on executive bonuses. United Utilities and Severn Trent both declined. Banks weakened as well, with HSBC, Barclays and Lloyds Banking Group each losing around 0.5% to 0.7%, while AstraZeneca fell 0.7%. InterContinental Hotels Group provided some support, gaining around 2% as lower oil prices benefited the broader travel sector."
+    },
+    {
+      "id": "mkt:01a0edd4-2afd-7338-ab15-4f885b9ac8a7",
+      "time": "2026-09-29 23:41:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EU Energy Commissioner says he expects no imminent risk to Europe’s energy supply before winter."
+    },
     {
       "id": "5119141",
       "time": "2026-09-29 23:41:07",
