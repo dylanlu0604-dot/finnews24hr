@@ -1,7 +1,131 @@
 {
-  "updated": "2026-09-29 23:34:02",
+  "updated": "2026-09-29 23:37:58",
   "count": 11893,
   "items": [
+    {
+      "id": "mkt:01a0edd0-4944-7338-ab15-3040e8257811",
+      "time": "2026-09-29 23:37:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. 30-year Treasury yield continued higher, touching 5.612%, the highest since June 2002."
+    },
+    {
+      "id": "mkt:01a0edd0-3a91-7338-ab15-2ada8c92cf86",
+      "time": "2026-09-29 23:37:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European equity closes Sept 29 (Tue): Germany's DAX fell 14.81 pts (0.06%) to 25,392.30; UK's FTSE 100 dropped 52.67 pts (0.49%) to 10,632.21; France's CAC 40 declined 42.61 pts (0.53%) to 8,035.87; Euro Stoxx 50 rose 20.07 pts (0.32%) to 6,321.35; Spain's IBEX 35 slipped 85.49 pts (0.44%) to 19,514.81; Italy's FTSE MIB edged up 15.60 pts (0.03%) to 51,775.50."
+    },
+    {
+      "id": "mkt:01a0edcf-28b7-7338-ab15-24202ba95b03",
+      "time": "2026-09-29 23:36:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan said a committee chaired by the vice president has been formed to manage the liquidation process."
+    },
+    {
+      "id": "mkt:01a0edcf-1508-7338-ab15-1c13779a4bc3",
+      "time": "2026-09-29 23:36:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Erdogan said Turkey's capital markets will become healthier and the system will function more efficiently."
+    },
+    {
+      "id": "mkt:01a0edcf-0767-7338-ab15-147307195206",
+      "time": "2026-09-29 23:36:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan said Turkey's economy will emerge from this setback stronger."
+    },
+    {
+      "id": "mkt:01a0edce-fe2a-7338-ab15-0eb44ace0144",
+      "time": "2026-09-29 23:36:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President ERDOGAN said at a Tuesday meeting he made a significant decision on fund liquidation and established a roadmap."
+    },
+    {
+      "id": "mkt:01a0edce-f8f9-7338-ab15-065c779b4376",
+      "time": "2026-09-29 23:35:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan said he hopes to complete the process quickly."
+    },
+    {
+      "id": "5119137",
+      "time": "2026-09-29 23:35:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 第三季度年化收入執行率增幅超 70%，接近 700 億美元。OpenAI 三季度 B2B 收入增幅超 100%。第三季度新增消費者收入超過去年全年總額。"
+    },
+    {
+      "id": "5119136",
+      "time": "2026-09-29 23:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我們希望快速完成這一程序。我國經濟將在此次危機後變得更加強勁。本國資本市場將回歸更健康狀態，各類系統執行效率將會提升。"
+    },
+    {
+      "id": "5119135",
+      "time": "2026-09-29 23:34:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：週二會議已就基金清算事宜作出重要決定，並確定了路線圖。"
+    },
+    {
+      "id": "mkt:01a0edcd-77e0-7338-ab14-fa7f2f23d10b",
+      "time": "2026-09-29 23:34:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Taylor said inflation faces non-negligible risks."
+    },
+    {
+      "id": "5119134",
+      "time": "2026-09-29 23:33:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 就 Claude.AI 錯誤率問題表示：自世界標準時間 14:59 起，所有服務均已正常執行。我們將持續監控。"
+    },
+    {
+      "id": "mkt:01a0edcc-d82f-7338-ab14-f3f0ad3ba5b0",
+      "time": "2026-09-29 23:33:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of England's MPC member Taylor said so far the economy is unlikely to reproduce the inflationary conditions seen in 2022."
+    },
+    {
+      "id": "5119133",
+      "time": "2026-09-29 23:33:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：至少目前來看，經濟較難重現 2022 年那一輪通脹走勢。"
+    },
     {
       "id": "5119132",
       "time": "2026-09-29 23:33:23",
@@ -108598,128 +108722,6 @@
         "其他"
       ],
       "text": "格陵蘭總理：我們認為保持北約強大至關重要，在北極地區也是如此。"
-    },
-    {
-      "id": "mkt:01a0c9c4-017e-7118-864a-1db22f23a66c",
-      "time": "2026-09-22 23:37:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Greenland's prime minister said an agreement is being signed to extend the 1951 defense pact through 2026."
-    },
-    {
-      "id": "5108285",
-      "time": "2026-09-22 23:37:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "格陵蘭島總理：該協議充分考量了格陵蘭民眾的利益、我們的權利、生計以及我國的發展。"
-    },
-    {
-      "id": "mkt:01a0c9c3-c115-7118-864a-1068eb0d8f30",
-      "time": "2026-09-22 23:37:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "Sept 22 (Tue) close: Germany DAX 30 +14.08 pts (+0.06%) at 25,587.74; UK FTSE 100 -29.86 pts (-0.28%) at 10,709.15; France CAC 40 +15.97 pts (+0.20%) at 8,154.91; STOXX Europe 50 +6.85 pts (+0.11%) at 6,325.05; Spain IBEX 35 +27.94 pts (+0.14%) at 19,752.34; Italy FTSE MIB -270.04 pts (-0.52%) at 52,101.50."
-    },
-    {
-      "id": "5108284",
-      "time": "2026-09-22 23:37:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "格陵蘭島總理：我們此次簽署的協議將把1951年防務協定的有效期延長至2026年。"
-    },
-    {
-      "id": "5108283",
-      "time": "2026-09-22 23:36:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "約旦國王阿卜杜拉二世： 問題在於，如果以色列繼續在敘利亞南部採取對抗性做法，國際社會是否會袖手旁觀、任由其發生？"
-    },
-    {
-      "id": "mkt:01a0c9c2-8720-7118-864a-0e61c0f6b0ba",
-      "time": "2026-09-22 23:36:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Danish prime minister says the agreement benefits the United States, Greenland and Denmark."
-    },
-    {
-      "id": "5108282",
-      "time": "2026-09-22 23:35:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "丹麥首相：該協議對美國、格陵蘭島和丹麥均有利。"
-    },
-    {
-      "id": "5108281",
-      "time": "2026-09-22 23:35:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "丹麥首相：該協議尊重丹麥王國的主權與領土完整，以及格陵蘭的自決權。"
-    },
-    {
-      "id": "mkt:01a0c9c1-354b-7118-864a-040fab36e9b8",
-      "time": "2026-09-22 23:34:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Denmark's prime minister said Denmark will sign an agreement today that could be permanent and will ensure an increased allied presence in the Arctic."
-    },
-    {
-      "id": "5108280",
-      "time": "2026-09-22 23:34:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "丹麥首相：我們將確保美國的對手不會獲得格陵蘭島的控制權或重大影響力。"
-    },
-    {
-      "id": "5108279",
-      "time": "2026-09-22 23:34:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "丹麥首相：我們將確保更多盟友同時在北極地區開展部署。"
-    },
-    {
-      "id": "5108278",
-      "time": "2026-09-22 23:34:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "丹麥首相：我們將確保美國的對手不會獲得對格陵蘭島的控制權，也不會在格陵蘭島取得重大影響力。"
-    },
-    {
-      "id": "mkt:01a0c9c0-d456-7118-8649-fe23f4f705b4",
-      "time": "2026-09-22 23:34:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Sources said Saudi Aramco plans a corporate restructuring to create a new gas business unit and is considering IPOs for parts of its operations."
-    },
-    {
-      "id": "5108277",
-      "time": "2026-09-22 23:34:11",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣六週期國債，得標利率3.870%，投標倍數3.03。"
     }
   ]
 }

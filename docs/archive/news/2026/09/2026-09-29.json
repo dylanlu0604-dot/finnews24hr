@@ -1,7 +1,131 @@
 {
   "date": "2026-09-29",
-  "count": 2337,
+  "count": 2351,
   "items": [
+    {
+      "id": "mkt:01a0edd0-4944-7338-ab15-3040e8257811",
+      "time": "2026-09-29 23:37:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. 30-year Treasury yield continued higher, touching 5.612%, the highest since June 2002."
+    },
+    {
+      "id": "mkt:01a0edd0-3a91-7338-ab15-2ada8c92cf86",
+      "time": "2026-09-29 23:37:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European equity closes Sept 29 (Tue): Germany's DAX fell 14.81 pts (0.06%) to 25,392.30; UK's FTSE 100 dropped 52.67 pts (0.49%) to 10,632.21; France's CAC 40 declined 42.61 pts (0.53%) to 8,035.87; Euro Stoxx 50 rose 20.07 pts (0.32%) to 6,321.35; Spain's IBEX 35 slipped 85.49 pts (0.44%) to 19,514.81; Italy's FTSE MIB edged up 15.60 pts (0.03%) to 51,775.50."
+    },
+    {
+      "id": "mkt:01a0edcf-28b7-7338-ab15-24202ba95b03",
+      "time": "2026-09-29 23:36:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan said a committee chaired by the vice president has been formed to manage the liquidation process."
+    },
+    {
+      "id": "mkt:01a0edcf-1508-7338-ab15-1c13779a4bc3",
+      "time": "2026-09-29 23:36:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Erdogan said Turkey's capital markets will become healthier and the system will function more efficiently."
+    },
+    {
+      "id": "mkt:01a0edcf-0767-7338-ab15-147307195206",
+      "time": "2026-09-29 23:36:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan said Turkey's economy will emerge from this setback stronger."
+    },
+    {
+      "id": "mkt:01a0edce-fe2a-7338-ab15-0eb44ace0144",
+      "time": "2026-09-29 23:36:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President ERDOGAN said at a Tuesday meeting he made a significant decision on fund liquidation and established a roadmap."
+    },
+    {
+      "id": "mkt:01a0edce-f8f9-7338-ab15-065c779b4376",
+      "time": "2026-09-29 23:35:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish President Erdogan said he hopes to complete the process quickly."
+    },
+    {
+      "id": "5119137",
+      "time": "2026-09-29 23:35:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 第三季度年化收入執行率增幅超 70%，接近 700 億美元。OpenAI 三季度 B2B 收入增幅超 100%。第三季度新增消費者收入超過去年全年總額。"
+    },
+    {
+      "id": "5119136",
+      "time": "2026-09-29 23:34:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：我們希望快速完成這一程序。我國經濟將在此次危機後變得更加強勁。本國資本市場將回歸更健康狀態，各類系統執行效率將會提升。"
+    },
+    {
+      "id": "5119135",
+      "time": "2026-09-29 23:34:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：週二會議已就基金清算事宜作出重要決定，並確定了路線圖。"
+    },
+    {
+      "id": "mkt:01a0edcd-77e0-7338-ab14-fa7f2f23d10b",
+      "time": "2026-09-29 23:34:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Taylor said inflation faces non-negligible risks."
+    },
+    {
+      "id": "5119134",
+      "time": "2026-09-29 23:33:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 就 Claude.AI 錯誤率問題表示：自世界標準時間 14:59 起，所有服務均已正常執行。我們將持續監控。"
+    },
+    {
+      "id": "mkt:01a0edcc-d82f-7338-ab14-f3f0ad3ba5b0",
+      "time": "2026-09-29 23:33:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of England's MPC member Taylor said so far the economy is unlikely to reproduce the inflationary conditions seen in 2022."
+    },
+    {
+      "id": "5119133",
+      "time": "2026-09-29 23:33:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：至少目前來看，經濟較難重現 2022 年那一輪通脹走勢。"
+    },
     {
       "id": "5119132",
       "time": "2026-09-29 23:33:23",
