@@ -1,7 +1,61 @@
 {
   "date": "2026-09-29",
-  "count": 2370,
+  "count": 2375,
   "items": [
+    {
+      "id": "5119147",
+      "time": "2026-09-29 23:53:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週二（9月29日）歐市尾盤，ICE英國天然氣期貨跌6.68%，TTF基準荷蘭天然氣期貨跌3.75%，ICE歐盟碳排放交易許可（期貨價格）漲0.41%。"
+    },
+    {
+      "id": "te:markets:587784",
+      "time": "2026-09-29 23:52:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "EU Gas Hits 4-week Low — EU Gas decreased to 68.61 EUR/MWh, the lowest since August 2026. Over the past 4 weeks, Natural Gas EU lost 1.46%, and in the last 12 months, it increased 119.01%."
+    },
+    {
+      "id": "mkt:01a0eddb-daa5-7338-ab15-83c93d3195c0",
+      "time": "2026-09-29 23:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI CEO Altman to be interviewed on CNBC in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0eddb-a095-7338-ab15-7bc626fec7b9",
+      "time": "2026-09-29 23:49:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England monetary policy committee member Mann said inflation persistently above 2% would be a credibility issue."
+    },
+    {
+      "id": "em:qqyh_ygyh:202609293886824639",
+      "time": "2026-09-29 23:49:35",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "英國央行的MANN稱，通脹率持續高於2%是一個公信力問題。"
+    },
     {
       "id": "mkt:01a0eddb-2378-7338-ab15-703dcd23b87a",
       "time": "2026-09-29 23:49:16",
