@@ -1,7 +1,57 @@
 {
   "date": "2026-09-29",
-  "count": 819,
+  "count": 824,
   "items": [
+    {
+      "id": "mkt:01a0eb0c-639a-7338-aafe-feb5ea679443",
+      "time": "2026-09-29 10:44:12",
+      "tags": [
+        "MKT News",
+        "03228.HK",
+        "Impact bullish"
+      ],
+      "text": "New Hong Kong listing Jingwang Electronics (03228.HK) rose more than 9% intraday after opening; it had briefly fallen nearly 7% at the open. Turnover exceeded HK$900 mln."
+    },
+    {
+      "id": "5117661",
+      "time": "2026-09-29 10:43:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2788.00點。"
+    },
+    {
+      "id": "5117660",
+      "time": "2026-09-29 10:43:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【自然資源部：讓閒置房屋、老舊樓宇 \"變身\" 服務業新空間】9月29日，國家發展改革委召開專題新聞釋出會介紹推進服務業擴能提質有關情況。自然資源部自然資源開發利用司副司長寧鎮亞表示，近年來，自然資源部按照“盤活存量、做優增量、提升質量”部署要求，摒棄大拆大建模式，想辦法把存量土地、閒置房屋、老舊樓宇用起來，更好支援服務業發展，先後出臺了一系列政策檔案。一方面，生產性服務業用地保障更加高效靈活。透過系統摸排、分類盤活，重點推動低效工業用地再開發、閒置廠房轉型升級，指導各地保障生產性服務業專案早落地早開工，有力地促進了新質生產力發展；另一方面，生活性服務業空間供給更加普惠優質。順應城市發展新特點，聚焦滿足民生需要，指導各地更多利用閒置房屋、歷史建築，合理佈局社群服務、文體、研學等生活性服務業設施，優先保障養老托育、醫療健康等民生領域的用地需求，讓老百姓生活更方便、日子更舒心。近日，自然資源部、國家林業和草原局聯合印發《關於支援服務業優質高效發展的通知》，明確了12條支援政策，統籌增量和存量，推動用地混合複合相容，增強規劃管控彈性，最佳化存量盤活政策，多措並舉降本增效，進一步提升土地、林草、海洋以及測繪地理資訊資料等要素供給效率，持續優服務強監管，為服務業優質高效發展注入新動能。接下來，自然資源部將加強指導督促，把這些政策變成地方能操作、專案能落地的具體辦法，確保取得實實在在的成效。"
+    },
+    {
+      "id": "mkt:01a0eb0a-3a03-7338-aafe-f7dc78050e36",
+      "time": "2026-09-29 10:41:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "China A-share internet finance sector rose in choppy trading; Dazhihui hit the daily trading limit, while Huibo Yuntong, Greenland Holdings, Xianghe Industrial, Geling Shentong and Ruida Futures also advanced."
+    },
+    {
+      "id": "5117659",
+      "time": "2026-09-29 10:41:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【網際網路金融板塊震盪走高，大智慧漲停】網際網路金融板塊震盪走高，大智慧漲停，慧博雲通、綠地控股、祥和實業、格靈深瞳、瑞達期貨跟漲。"
+    },
     {
       "id": "5117658",
       "time": "2026-09-29 10:40:03",
