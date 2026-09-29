@@ -1,7 +1,23 @@
 {
-  "updated": "2026-09-29 11:07:44",
+  "updated": "2026-09-29 11:11:35",
   "count": 11769,
   "items": [
+    {
+      "id": "5117690",
+      "time": "2026-09-29 11:08:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德睿智藥與三生蔓迪達成MDR-001獨家商業化合作】9月28日，杭州德睿智藥科技有限公司（簡稱“德睿智藥”）宣佈，與三生製藥（01530.HK）旗下子公司浙江三生蔓迪藥業有限公司（簡稱“三生蔓迪”）及萬晟醫藥就德睿智藥自主研發的AI設計口服小分子GLP-1受體激動劑MDR-001，達成覆蓋中國內地、香港及澳門的獨家商業化合作，潛在總交易金額最高可達人民幣17.5億元。資料顯示，MDR-001目前正在中國開展針對成人肥胖或超重人群的Ⅲ期關鍵臨床研究。"
+    },
+    {
+      "id": "5117689",
+      "time": "2026-09-29 11:07:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前8個月移動網際網路累計接入流量保持兩位數增長 】移動網際網路累計接入流量保持兩位數增長，8月DOU值維持較高水平。前8個月，移動網際網路累計接入流量達2971億GB，同比增長17.3%。截至8月末，移動網際網路使用者數達16.38億戶，比上年末淨增2858萬戶。8月當月戶均移動網際網路接入流量（DOU）達到23.45GB/戶·月，同比增長12.4%，比上年底高0.41GB/戶·月。電話通話量延續下滑態勢。前8個月，行動電話去話通話時長完成1.3萬億分鐘，同比下降6.7%；固定電話主叫通話時長完成373億分鐘，同比下降17.6%。前8個月，全國移動簡訊業務量同比下降9.8%；移動簡訊業務收入同比下降12.4%。"
+    },
     {
       "id": "5117688",
       "time": "2026-09-29 11:06:53",
@@ -44,6 +60,15 @@
         "其他"
       ],
       "text": "新加坡金管局副主席：推出1,600 萬美元的做市機制以提高新交所股票的交易興趣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202609293886297285",
+      "time": "2026-09-29 11:03:32",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：引導全國性銀行、地方銀行分賽道支援服務業擴能提質】國家發展改革委召開專題新聞釋出會介紹推進服務業擴能提質有關情況。中國人民銀行信貸市場司副司長車士義表示，中國人民銀行牽頭八部委研究制定《關於金融支援服務業擴能提質的指導意見》，重點從4個維度明確金融支援服務業的政策要求。"
     },
     {
       "id": "mkt:01a0eb1d-93bf-7338-aaff-8dc4c8a57f2c",
@@ -107200,30 +107225,6 @@
         "Importance 1"
       ],
       "text": "South Korean Won Rebounds — The South Korean won strengthened to around 1,360 per dollar, rebounding from four-week lows as oil prices fell sharply. WTI crude declined 4.5% below $100 a barrel, while Brent fell more than 3% amid hopes for progress in US-Iran diplomacy and a recovery in Saudi oil shipments. The US 10-year Treasury yield also fell back below 5% after reaching recent highs last week, easing demand for the dollar. Additionally, South Korea’s strong export performance continued to underpin the won, with exports surging 78% year-on-year in the first 20 days of September, driven by a 259% jump in semiconductor shipments and boosting dollar inflows. Meanwhile, the dollar remained relatively firm as markets monitored the possibility of another Federal Reserve rate increase later this year. Separately, the Bank of Korea said it would assess inflation, growth and financial stability when determining the timing and pace of further rate hikes."
-    },
-    {
-      "id": "5106758",
-      "time": "2026-09-22 11:11:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國政府：即便西屋電氣持股比例為5%至10%，韓國仍將保留投票權。"
-    },
-    {
-      "id": "5106757",
-      "time": "2026-09-22 11:09:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【乳業板塊拉昇，一鳴食品漲停】乳業板塊拉昇，一鳴食品漲停，均瑤健康、科拓生物、天山生物、品渥食品跟漲。"
-    },
-    {
-      "id": "5106756",
-      "time": "2026-09-22 11:08:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東方陳炎順：未來五年將投入超過800億元研發資金】京東方董事長陳炎順9月22日說 ，未來5年京東方將投入超過800億元的研發資金，也將釋放超8000億元的採購支出，向合作伙伴開放技術能力、開放應用場景、開放合作平臺。"
     }
   ]
 }
