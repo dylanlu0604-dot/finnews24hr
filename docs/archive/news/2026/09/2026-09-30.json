@@ -1,7 +1,35 @@
 {
   "date": "2026-09-30",
-  "count": 457,
+  "count": 460,
   "items": [
+    {
+      "id": "mkt:01a0ef06-68c1-7338-ab1d-eb40ff1452b9",
+      "time": "2026-09-30 05:16:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said the statement reached at the White House is highly binding."
+    },
+    {
+      "id": "5119530",
+      "time": "2026-09-30 05:15:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.15%，報13900點。"
+    },
+    {
+      "id": "5119529",
+      "time": "2026-09-30 05:14:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：白宮達成的宣言具有強有力的約束力。"
+    },
     {
       "id": "5119528",
       "time": "2026-09-30 05:11:23",
