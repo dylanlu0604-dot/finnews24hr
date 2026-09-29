@@ -1,7 +1,63 @@
 {
   "date": "2026-09-30",
-  "count": 47,
+  "count": 53,
   "items": [
+    {
+      "id": "5119176",
+      "time": "2026-09-30 00:31:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德債收益率普遍跌超1個基點】週二（9月29日）歐市尾盤，德國10年期國債收益率跌1.7個基點，報3.626%，日內交投於3.647%-3.579%區間。兩年期德債收益率跌1.3個基點，報3.294%，日內交投於3.326%-3.254%區間；30年期德債收益率跌1.3個基點，報3.952%。2/10年期德債收益率利差跌0.305個基點，報+32.882個基點。"
+    },
+    {
+      "id": "5119175",
+      "time": "2026-09-30 00:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 就 Claude.AI 錯誤率問題作出說明：影響 Claude.AI、Claude 桌面與移動端應用、Claude Code、Claude Cowork 以及 Claude API 的故障已修復。"
+    },
+    {
+      "id": "5119174",
+      "time": "2026-09-30 00:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic在上市招股說明書中表示，那些失控的AI智慧體（rogue agents）帶來不確定的法律風險。"
+    },
+    {
+      "id": "mkt:01a0ee00-8628-7338-ab16-6c21cadf51ab",
+      "time": "2026-09-30 00:30:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed governor Barr to speak in 10 minutes."
+    },
+    {
+      "id": "5119173",
+      "time": "2026-09-30 00:29:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：如果薪資增長預期維持在 3% 附近，那將是令人安心的訊號。"
+    },
+    {
+      "id": "mkt:01a0edff-ae26-7338-ab16-62fb8a7f2e08",
+      "time": "2026-09-30 00:29:11",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England's Taylor said if wage growth expectations remain around 3%, that would be reassuring."
+    },
     {
       "id": "mkt:01a0edff-1951-7338-ab16-5bf0c6228c82",
       "time": "2026-09-30 00:28:33",
