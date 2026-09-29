@@ -1,0 +1,30 @@
+{
+  "date": "2026-09-30",
+  "count": 3,
+  "items": [
+    {
+      "id": "mkt:01a0ede6-0305-7338-ab15-afd8fdb72806",
+      "time": "2026-09-30 00:01:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meta Platforms (META.O) launched a forum app for Facebook Groups in the US."
+    },
+    {
+      "id": "5119154",
+      "time": "2026-09-30 00:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta 在美國推出面向 Facebook 群組的獨立應用 Forum。"
+    },
+    {
+      "id": "5119153",
+      "time": "2026-09-30 00:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國計劃在2027年發行創紀錄的3400億歐元債券。"
+    }
+  ]
+}

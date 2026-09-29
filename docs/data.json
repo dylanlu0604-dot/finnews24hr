@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-29 23:57:43",
-  "count": 11866,
+  "updated": "2026-09-30 00:01:54",
+  "count": 11864,
   "items": [
+    {
+      "id": "mkt:01a0ede6-0305-7338-ab15-afd8fdb72806",
+      "time": "2026-09-30 00:01:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meta Platforms (META.O) launched a forum app for Facebook Groups in the US."
+    },
+    {
+      "id": "5119154",
+      "time": "2026-09-30 00:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "Meta 在美國推出面向 Facebook 群組的獨立應用 Forum。"
+    },
+    {
+      "id": "5119153",
+      "time": "2026-09-30 00:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國計劃在2027年發行創紀錄的3400億歐元債券。"
+    },
+    {
+      "id": "mkt:01a0ede3-e9c0-7338-ab15-a1d64505b9b8",
+      "time": "2026-09-29 23:58:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. senator filed a resolution proposing the creation of a special committee on artificial intelligence."
+    },
+    {
+      "id": "mkt:01a0ede3-91bc-7338-ab15-9b5906734d27",
+      "time": "2026-09-29 23:58:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang and Elon Musk will sit alongside US President Trump at a White House AI luncheon."
+    },
     {
       "id": "5119152",
       "time": "2026-09-29 23:55:47",
@@ -108478,79 +108523,6 @@
         "其他"
       ],
       "text": "美丹格陵蘭協議：各方應共同努力，打擊在格陵蘭的間諜活動。"
-    },
-    {
-      "id": "5108326",
-      "time": "2026-09-23 00:01:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "美丹格陵蘭協議：丹麥將繼續加強其在北極地區的安全部署。"
-    },
-    {
-      "id": "mkt:01a0c9d8-e7b3-7118-864a-bde0d452b5c8",
-      "time": "2026-09-23 00:00:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Brazil president says UN credibility at historic low, urges stronger action on global conflicts】Brazilian President Lula on Tuesday urged world leaders to take stronger action against escalating global conflicts and warned foreign powers not to interfere in Brazil’s internal affairs ahead of the presidential election. He criticized the United Nations’ handling of the Ukraine and Middle East conflicts, called for reform of the UN Security Council and said UN credibility is at its lowest point. Lula warned 2025 could see the largest number of armed conflicts since WWII and said trillions of dollars are fueling a new arms race."
-    },
-    {
-      "id": "te:markets:585766",
-      "time": "2026-09-22 23:59:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Edges Lower — The FTSE MIB edged down 0.5% to 52,096 on Tuesday, weighed down by heavyweight financials. The banking sector underperformed following a petition signed by major European banks, including Italy’s banking lobby ABI, opposing the EU’s proposal to address the concentration of sovereign exposures among banks. The ABI stated that the measure could negatively affect the public debt market, which is already under pressure from a global sell-off. Banco BPM, Unipol, Mediobanca, Banca Mediolanum, BPER and MPS all fell more than 1%. Poste Italiane fell 4%, leading losses on the index, following its bid for all ordinary shares of Telecom Italia (-3.3%). Utilities also underperformed as European gas prices remained elevated. Meanwhile, tech stocks STMicroelectronics (4.4%) and Prysmian (2.5%) extended gains from the previous session, although Technoprobe fell 0.6% following its positive debut on the index the previous day."
-    },
-    {
-      "id": "5108325",
-      "time": "2026-09-22 23:59:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta正為其新款個人智慧助手Muse測試“人工管家”功能。"
-    },
-    {
-      "id": "mkt:01a0c9d7-17b2-7118-864a-b456be5c3274",
-      "time": "2026-09-22 23:58:31",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Turkey's President Erdogan urged all countries to step up pressure on Israel."
-    },
-    {
-      "id": "mkt:01a0c9d6-e5bd-7118-864a-a83189022ea7",
-      "time": "2026-09-22 23:58:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US two-year Treasury yield rose 0.9bp to 4.762% and touched an intraday two-year high of 4.7879%."
-    },
-    {
-      "id": "te:markets:585764",
-      "time": "2026-09-22 23:58:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Inch Higher — European stocks closed slightly higher on Tuesday, extending the sharp gains from the previous session with support from the tech sector and consumer staple companies. The Euro STOXX 50 rose 0.2% to 6,332 and the STOXX Europe 600 added 0.3% to 643.6. Companies in the AI space rose sharply, tracking similar movements in North America after positive reviews on Meta's Muse AI agent reignited long positions on electronic commerce and AI infrastructure. ASML, Infineon, and Siemens Energy gained up to 2.5% to set the pace on the hardware side, while Prosus jumped 4.6% on bullish applications sentiment. Further, Inditex added 3% on recommendation upgrades from brokers. In turn, banks and insurers pared yesterday's gains as sovereign yields in the Eurozone rebounded, tracking the afternoon increase in natural gas prices following escalatory rhetoric from US President Trump regarding Tehran. Allianz fell 3.4%, AXA dropped 2%, and ING and Deutsche Bank fell 1.5%."
     }
   ]
 }

@@ -1,7 +1,28 @@
 {
   "date": "2026-09-29",
-  "count": 2382,
+  "count": 2384,
   "items": [
+    {
+      "id": "mkt:01a0ede3-e9c0-7338-ab15-a1d64505b9b8",
+      "time": "2026-09-29 23:58:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. senator filed a resolution proposing the creation of a special committee on artificial intelligence."
+    },
+    {
+      "id": "mkt:01a0ede3-91bc-7338-ab15-9b5906734d27",
+      "time": "2026-09-29 23:58:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang and Elon Musk will sit alongside US President Trump at a White House AI luncheon."
+    },
     {
       "id": "5119152",
       "time": "2026-09-29 23:55:47",
