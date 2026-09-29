@@ -1,7 +1,78 @@
 {
-  "updated": "2026-09-29 14:54:50",
-  "count": 11772,
+  "updated": "2026-09-29 14:58:37",
+  "count": 11774,
   "items": [
+    {
+      "id": "te:economy:587512",
+      "time": "2026-09-29 14:57:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Sweden Consumer Morale Highest Since 2021 — Sweden's household confidence indicator climbed to 102.2 in September 2026 from an upwardly revised 98.4 in the previous month. It marked the highest reading since December 2021, as households' assessment of the economy over the past 12 months turned positive (4 vs -14 in August), although expectations for the coming year became slightly more negative (-5 vs -4). Views on personal finances improved markedly (12 vs 5), while expectations for the next 12 months edged higher (10 vs 9). Labor market concerns also eased, with expectations for unemployment over the next year falling more sharply (4 vs 16), while perceptions of the risk of becoming unemployed remained unchanged at -1. Meanwhile, saving intentions ticked lower (47 vs 49), and plans to purchase capital goods became less negative (-10 vs -12). Households estimated current inflation at 7.4% in September, down from 9.2% in the previous month, while expected inflation over the next 12 months eased to 6.3% from 6.8%."
+    },
+    {
+      "id": "5117949",
+      "time": "2026-09-29 14:57:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部：要按照“應分層盡分層”的原則，因地制宜、分類實施海域分層立體利用管理】自然資源部公開徵求《自然資源部關於進一步推進海域分層立體利用工作的通知（公開徵求意見稿）》意見。其中指出，要按照“應分層盡分層”的原則，因地制宜、分類實施海域分層立體利用管理。除填海或生產經營活動存在衝突的用海活動外，新設立和續期的跨海橋樑、養殖、海上風電、海上光伏、溫（冷）排水、海底電纜管道、海底隧道等用海活動，原則上均應進行分層立體設權。其他用海活動經海域使用論證具備條件的，也應進行分層立體設權。要積極探索不同用海活動分層立體利用組合型別，創新海域使用權共有等方式，拓展海域分層立體利用新場景、新模式、新方法，全面推進“一海多用”。"
+    },
+    {
+      "id": "mkt:01a0ebf4-5362-7338-ab05-50ad45d9f332",
+      "time": "2026-09-29 14:57:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "AUDUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Reserve Bank of Australia hikes 25bp to 4.6%; warns inflation upside risks realised, says will hike again if necessary】Reserve Bank of Australia raised the cash rate 25bp to 4.6%—the highest since Nov 2011—and said recent developments mean further tightening may be necessary to return inflation to target within a reasonable timeframe. The MPC considered both holding rates and a 25bp rise and is reviewing the timing of meetings around ABS inflation releases. Inflation remains high, short-term inflation expectations are elevated, and some upside risks flagged in August have materialised; AI-driven demand is accelerating global tech-product prices and firms are passing on costs. Domestic output growth has slowed though Q2 was slightly stronger than expected; activity and inflation outlooks remain uncertain. The Middle East conflict has pushed global energy prices well above assumptions used in August, supply disruptions persist, and fuel-price pass-through to other goods and services is occurring. Labour-market conditions have cooled as expected but unemployment remains low and the market is still tight; the RBA sees no wage–price spiral. Financial conditions are currently restrictive; if inflation falls further additional hikes may not be required, but the committee will raise rates again if necessary to reduce excess demand while not making recession its main expectation."
+    },
+    {
+      "id": "mkt:01a0ebf3-d577-7338-ab05-4d91487c9b93",
+      "time": "2026-09-29 14:57:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's Ministry of Natural Resources has solicited public comment on a draft notice to further advance layered, three-dimensional use of maritime areas."
+    },
+    {
+      "id": "5117948",
+      "time": "2026-09-29 14:56:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破84000美元，日內漲0.60%。"
+    },
+    {
+      "id": "5117947",
+      "time": "2026-09-29 14:56:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【殼牌加拿大液化天然氣專案將推進數十億美元擴產計劃】由殼牌集團牽頭的加拿大液化天然氣合資專案股東作出最終投資決定，擴大液化天然氣出口。在亞洲核心客戶遭遇近年來最嚴重供應衝擊之際，這項數十億美元的計劃正式落地推進。殼牌週二公告稱，這項醞釀已久的不列顛哥倫比亞省基蒂馬特專案二期投資決議，將使專案產能近乎翻倍，提升至每年2800萬噸。這座西海岸工廠已於2025年6月產出首批液化天然氣。擴產部分預計在21世紀30年代初投入商業運營。"
+    },
+    {
+      "id": "5117946",
+      "time": "2026-09-29 14:55:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣陷入區間震盪，交易員聚焦伊朗局勢後續進展】自上週初以來，歐洲天然氣價格維持在每兆瓦時70至75歐元區間震盪。伊朗官員對在11月美國中期選舉前達成協議、結束與美方衝突並重開霍爾木茲海峽表達悲觀態度。牛津經濟研究院預計，今年冬季歐洲天然氣均價將達到每兆瓦時85歐元，同比上漲140%。"
+    },
     {
       "id": "5117945",
       "time": "2026-09-29 14:54:08",
@@ -107224,55 +107295,6 @@
         "其他"
       ],
       "text": "惠譽：與同等評級的其他國家相比，斯里蘭卡的信用狀況仍受居高不下的政府債務佔GDP比重及償債率的制約。"
-    },
-    {
-      "id": "5107068",
-      "time": "2026-09-22 14:57:51",
-      "tags": [
-        "觀點",
-        "其他",
-        "國際"
-      ],
-      "text": "惠譽將斯里蘭卡的評級上調至“B-”，展望穩定。"
-    },
-    {
-      "id": "te:markets:585529",
-      "time": "2026-09-22 14:56:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Nickel Extends Gains on Indonesia Supply Cut — Nickel traded around $16,400 per tonne, extending gains as concerns over supply disruptions in Indonesia emerged. Smelters at the Morowali Industrial Park will cut nickel pig iron production due to an El Niño-driven water shortage, with the affected output potentially reaching around 100,000 tonnes, raising concerns over tighter supply and helping limit further downside. However, the near-term outlook remained constrained by weak Chinese downstream demand, with nickel salt procurement and spot stockpiling subdued while some precursor producers reduced operating rates. Additionally, Indonesia’s revised nickel ore benchmark price formula sharply lowered the HPM for low-grade 1.2% nickel ore to around $24.89 per wet tonne, nearly halving the previous level, which could reduce feedstock costs for HPAL plants and encourage greater use of low-grade reserves. High inventories across the nickel supply chain also pointed to ongoing destocking, limiting the scope for a sustained recovery."
-    },
-    {
-      "id": "5107067",
-      "time": "2026-09-22 14:55:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【卡達能源租賃液化天然氣船舶，9月起在拉斯拉凡港裝貨】知情船舶經紀商表示，卡達能源液化天然氣營銷部門已租賃一艘運輸船，最早可於9月下旬在波斯灣拉斯拉凡港設施裝貨。該船將租賃給卡達能源這個下屬部門，租期數月。卡達能源未回應置評請求。該舉動或意味著卡達能源準備提高拉斯拉凡港出口量。受霍爾木茲海峽局勢擾動影響，該港此前一直處於低產能執行狀態。"
-    },
-    {
-      "id": "te:markets:585527",
-      "time": "2026-09-22 14:55:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Hits Record High at Close — The TAIEX, Taiwan’s benchmark stock index, advanced 81 points, or 0.2%, to close at 47,800 on Tuesday, gaining for the fifth straight session and hitting a record high, mainly buoyed by gains in electronic technology. The index surpassed the 48,000 mark intraday before pulling back to 47,800 at the close. The broader index tracked a rally on Wall Street overnight, buoyed by solid AI-related stocks, while oil prices and US Treasury yields eased. Optimism over the Trump-Xi summit this week also lifted sentiment, as AI and tariffs are expected to be discussed at the meeting. Electronic technology rose 0.4%, mainly supported by surges in MediaTek (3.5%), ASE Tech (4.5%), and Unimicron Tech (9.8%). By contrast, TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, fell 0.4%. In the morning session, TSMC rose, fueled by reports that it was in talks to acquire AUO's 5th- and 7.5th-generation fabs in Central Taiwan Science Park."
-    },
-    {
-      "id": "5107066",
-      "time": "2026-09-22 14:55:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【理想汽車：已開發固態電池領域多個專案 一二年後具備小批次上車能力】從理想汽車內部人士處獲悉，理想汽車固態電池在2027或2028年將具備小批次上車能力。近日，理想汽車動力電池高階總監柳志民表示，理想汽車持續在固態電池領域進行技術佈局，目前有多個專案在開發中，並已在眼鏡產品上進行了固態電池原型驗證。但在整車上實現成熟量產，並保證使用者的體驗確定性，預計還需要5年時間。“目前，在固態電池同時滿足壽命、充電效能和成本方面仍存在挑戰。”柳志民表示。"
     }
   ]
 }
