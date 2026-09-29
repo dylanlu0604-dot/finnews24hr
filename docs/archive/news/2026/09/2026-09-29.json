@@ -1,7 +1,219 @@
 {
   "date": "2026-09-29",
-  "count": 1705,
+  "count": 1728,
   "items": [
+    {
+      "id": "5118271",
+      "time": "2026-09-29 17:04:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【浙江新能：股票交易異常波動 無應披露未披露重大事項】浙江新能公告稱，公司股票於2026年9月24日、9月28日、9月29日連續3個交易日內日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動情形。截至2026年9月29日收盤，公司股價為8.17元/股。經自查並向控股股東及實控人核實，公司生產經營情況正常，內外部經營環境未發生重大變化，不存在應披露而未披露的重大資訊，董監高、控股股東及實控人在異常波動期間不存在買賣公司股票的情況。敬請廣大投資者注意交易風險，理性投資。"
+    },
+    {
+      "id": "mkt:01a0ec68-7829-7338-ab0a-6bf34af9a5fd",
+      "time": "2026-09-29 17:04:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude both fell 1% intraday to $91.08/bbl and $97.35/bbl."
+    },
+    {
+      "id": "5118270",
+      "time": "2026-09-29 17:04:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST文峰：披露其他風險警示相關事項整改進展】ST文峰公告稱，公司因2025年度內部控制被出具否定意見審計報告，股票自2026年4月30日起被實施其他風險警示。目前整改進展如下：會計差錯更正事項已完成自查自糾及報表追溯調整，修訂相關操作流程；採購管理事項中供應商已完成全部庫存威士忌回購，修訂超市業務管理規範；投資管理事項已收取融資人提前歸還本金1.52億元，長安信託已就剩餘回購事項提起仲裁且已獲受理。公司及控股股東因涉嫌信披違法違規被證監會立案，若連續2個會計年內控被出具否定意見，公司股票將被實施退市風險警示。"
+    },
+    {
+      "id": "5118269",
+      "time": "2026-09-29 17:04:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋的L'Imad Capital據稱考慮對外募資。"
+    },
+    {
+      "id": "mkt:01a0ec67-93e4-7338-ab0a-6656a7f3514b",
+      "time": "2026-09-29 17:03:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Belarusian President Lukashenko said he discussed a nitrogen fertilizer project with Russian President Putin and agreed Gazprom would participate."
+    },
+    {
+      "id": "mkt:01a0ec67-5217-7338-ab0a-5bfe7a5c97ba",
+      "time": "2026-09-29 17:03:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "SOUTH KOREA'S LEE said completing the relocation of Gwangju military airport by mid-2028 to create a new semiconductor cluster is too late and ordered the relocation to be accelerated."
+    },
+    {
+      "id": "5118268",
+      "time": "2026-09-29 17:03:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國債務管理辦公室發售規模42.5億英鎊、票息4.875%、2036年到期的金邊債券，投標認購倍數為3.34倍。"
+    },
+    {
+      "id": "5118267",
+      "time": "2026-09-29 17:02:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白俄羅斯總統盧卡申科稱已就該專案與普京進行商談，已同意俄羅斯天然氣工業股份公司（Gazprom）加入該專案。"
+    },
+    {
+      "id": "5118266",
+      "time": "2026-09-29 17:02:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【部分銀行萬事達信用卡再遭境外集中盜刷】近日，部分境內銀行的萬事達品牌信用卡在本人未出境、卡片未離身的情況下，發生多筆境外異常交易。國慶長假臨近，出境旅遊與跨境消費需求進入高峰，多家銀行近期密集釋出境外用卡風險提示。本次信用卡境外集中盜刷涉及卡片以中國銀行長城卓雋萬事達卡系列為主。9月29日，陸續有遭遇盜刷的持卡人向記者證實，已收到髮卡行客服電話，告知銀行將撤銷該筆盜刷交易，後續持卡人無需還款，並溝通後續換卡等流程。（新華財經）"
+    },
+    {
+      "id": "mkt:01a0ec66-e494-7338-ab0a-5354cec63c0b",
+      "time": "2026-09-29 17:02:41",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy August PPI YoY 13.5%; previous 9.30%."
+    },
+    {
+      "id": "mkt:01a0ec66-d26d-7338-ab0a-4fed8fe80567",
+      "time": "2026-09-29 17:02:36",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Italy August producer price index (PPI) MoM +3.1% vs 3.0% prior."
+    },
+    {
+      "id": "mkt:01a0ec66-c9e3-7338-ab0a-466f8629e056",
+      "time": "2026-09-29 17:02:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | PPI (YoY) (Aug) | actual 13.5% | previous 9.30%"
+    },
+    {
+      "id": "5118265",
+      "time": "2026-09-29 17:02:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新華傳媒：股票短期漲幅較大 提示相關風險】新華傳媒公告稱，2026年9月29日公司股票再次漲停，復牌後累計漲幅77.21%，短期波動較大，可能存在非理性炒作情形；截至2026年9月28日，公司滾動市盈率209.34，顯著高於所屬新聞和出版業17.47的行業滾動市盈率。公司目前生產經營正常，主營業務未變，2025年扣非淨利潤為-1629.75萬元，主營業務毛利率24.76%，同比減少0.74個百分點。公司擬發行股份購買上海介面財聯社科技股份有限公司100%股權，目前審計、評估等工作尚未完成，尚需履行內部決策及監管批准程式，交易存在不確定性。"
+    },
+    {
+      "id": "mkt:01a0ec66-bc78-7338-ab0a-3a90501af27e",
+      "time": "2026-09-29 17:02:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | PPI (MoM) (Aug) | actual 3.1% | previous 3.00%"
+    },
+    {
+      "id": "mkt:01a0ec66-baf4-7338-ab0a-364f31ba9ff3",
+      "time": "2026-09-29 17:02:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Belarus state news agency reported President Lukashenko may propose U.S. participation in construction of a nitrogen fertilizer project."
+    },
+    {
+      "id": "5118264",
+      "time": "2026-09-29 17:02:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟拍賣279.2萬噸現貨碳排放配額，成交價為每噸84.87歐元。"
+    },
+    {
+      "id": "te:economy:587623",
+      "time": "2026-09-29 17:02:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Home Loans",
+        "Importance 1"
+      ],
+      "text": "UK Mortgage Borrowing Rises in August — Net mortgage borrowing by UK individuals increased to £4.4 billion in August 2026, up from a revised £4.1 billion in July but below the six-month average of £5.2 billion. The annual growth rate of net mortgage lending was unchanged at 3.6%. Gross secured lending fell to £23.6 billion, from £25.3 billion in July and below the six-month average of £26.5 billion, while repayments eased to £20.4 billion from £21.1 billion. Meanwhile, the effective interest rate on newly drawn mortgages rose to 4.60%, from 4.45%, while the rate on the outstanding mortgage stock edged up to 4.00% from 3.97%."
+    },
+    {
+      "id": "5118263",
+      "time": "2026-09-29 17:02:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明表示，為新建晶片叢集遷建光州軍用機場原定2028年年中完成的目標時間過晚，已要求加快推進時間表。"
+    },
+    {
+      "id": "5118262",
+      "time": "2026-09-29 17:02:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "白俄羅斯總統盧卡申科可能提議美國參與硝酸鹽化肥專案建設。"
+    },
+    {
+      "id": "mkt:01a0ec66-2167-7338-ab0a-2ee43b244de8",
+      "time": "2026-09-29 17:01:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said Moscow's hybrid attacks on NATO will not weaken its support for Ukraine."
+    },
+    {
+      "id": "5118261",
+      "time": "2026-09-29 17:01:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特：莫斯科對北約的混合攻擊不會削弱北約對烏克蘭的支援。"
+    },
+    {
+      "id": "5118260",
+      "time": "2026-09-29 17:01:05",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【受賄2.63億餘元 廣西壯族自治區政協原副主席彭曉春一審被判死緩】2026年9月29日，廣東省佛山市中級人民法院一審公開宣判廣西壯族自治區政協原黨組成員、副主席彭曉春受賄一案，對被告人彭曉春以受賄罪判處死刑，緩期二年執行，剝奪政治權利終身，並處沒收個人全部財產；對追繳在案的彭曉春受賄所得財物及孳息依法上繳國庫，不足部分繼續追繳。（央視新聞）"
+    },
+    {
+      "id": "em:qqyh_ozyh:202609293886513774",
+      "time": "2026-09-29 17:00:50",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐元區9月經濟景氣指數為97.9 預期99】歐元區9月經濟景氣指數為97.9，預期99，前值98.4。"
+    },
     {
       "id": "mkt:01a0ec65-272e-7338-ab0a-2690add0c177",
       "time": "2026-09-29 17:00:47",
