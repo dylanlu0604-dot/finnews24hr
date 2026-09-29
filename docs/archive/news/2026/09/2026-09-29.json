@@ -1,7 +1,62 @@
 {
   "date": "2026-09-29",
-  "count": 2306,
+  "count": 2312,
   "items": [
+    {
+      "id": "5119123",
+      "time": "2026-09-29 23:29:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI的年化營收據報接近700億美元 企業和消費者業務強勁增長】Axios週二援引未具名知情人士報道，按OpenAI目前的業績表現計算，該公司的年化營收勢將接近700億美元，得益於企業和消費者業務強勁增長。此前8月報道稱，這家ChatGPT開發商當時的年化營收有望突破400億美元。近幾個月OpenAI收入增長加速，部分受到其AI程式設計軟體業務增長推動。OpenAI正與長期競爭對手Anthropic PBC就爭奪更多企業客戶展開激烈角逐。兩家公司都已經以保密方式提交上市檔案，Anthropic預計最快可能於今年秋季進行首次公開募股(IPO)。OpenAI表示，隨著公司專注於解決技術引發的安全擔憂，已不再預計今年進行IPO。"
+    },
+    {
+      "id": "mkt:01a0edc7-b0e0-7338-ab14-6e43a82032dd",
+      "time": "2026-09-29 23:28:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "The Wall Street Journal reports the U.S. Department of Homeland Security funded TV ads supporting Trump."
+    },
+    {
+      "id": "5119122",
+      "time": "2026-09-29 23:27:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌。"
+    },
+    {
+      "id": "mkt:01a0edc7-6ea2-7338-ab14-66ed56e0c70b",
+      "time": "2026-09-29 23:27:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Loading schedules show the five North Sea crude grades underpinning the spot Brent benchmark will average 514,000 bpd of supply in November, up from 498,000 bpd in October."
+    },
+    {
+      "id": "5119121",
+      "time": "2026-09-29 23:27:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通CEO戴蒙：摩根大通或超額完成國家安全倡議 1.5 萬億美元目標。"
+    },
+    {
+      "id": "5119120",
+      "time": "2026-09-29 23:26:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國土安全部資金被用於投放支援特朗普的電視廣告。"
+    },
     {
       "id": "te:markets:587779",
       "time": "2026-09-29 23:24:05",
