@@ -1,7 +1,65 @@
 {
-  "updated": "2026-09-30 04:50:35",
-  "count": 11853,
+  "updated": "2026-09-30 04:54:23",
+  "count": 11858,
   "items": [
+    {
+      "id": "5119520",
+      "time": "2026-09-30 04:53:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "IPO檔案顯示：Anthropic三分之一的2025年收入來自美國境外。"
+    },
+    {
+      "id": "5119519",
+      "time": "2026-09-30 04:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：可再生農業試點專案2027財年資金從7億美元提升至10億美元。"
+    },
+    {
+      "id": "5119518",
+      "time": "2026-09-30 04:53:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將公佈的540億美元的阿拉斯加液化天然氣（LNG）專案是韓國2000億美元投資計劃的一部分。"
+    },
+    {
+      "id": "mkt:01a0eef1-2d73-7338-ab1d-c32f4fa1b866",
+      "time": "2026-09-30 04:52:58",
+      "tags": [
+        "MKT News",
+        "AMZN.O",
+        "Impact bullish",
+        "GOOG.O"
+      ],
+      "text": "Anthropic's IPO filing shows about one-third of 2025 revenue came from markets outside the U.S., under 20% of revenue was subscription-based, and roughly 40% of 2025 sales were from distribution partners such as Amazon (AMZN.O) and Google (GOOG.O)."
+    },
+    {
+      "id": "5119517",
+      "time": "2026-09-30 04:50:35",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "IPO檔案顯示，2025年Anthropic有47%的銷售額來自其分銷商亞馬遜和谷歌。"
+    },
+    {
+      "id": "mkt:01a0eeee-c608-7338-ab1d-bdd02600d73e",
+      "time": "2026-09-30 04:50:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【Tesla signs $30bn financing package including revolvers and delayed-draw term loan】An SEC filing shows Tesla agreed $30 billion of financing: a $20 billion three-year delayed-draw term loan maturing Sept. 29, 2029; an $8 billion five-year revolving credit facility; and a $2 billion 364-day revolver. Tesla is terminating its prior revolver. The new five-year revolver allows up to $500 million in letters of credit, and revolving capacity can be increased by up to $4 billion to $14 billion."
+    },
     {
       "id": "5119516",
       "time": "2026-09-30 04:49:21",
@@ -108389,18 +108447,6 @@
         "國際"
       ],
       "text": "歐洲央行管委內格爾：歐洲央行利率仍處於中性區間，不排除歐洲央行將利率小幅上調至限制性區間。"
-    },
-    {
-      "id": "te:markets:585809",
-      "time": "2026-09-23 04:52:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Hits Over Two-Week High — The S&P/TSX Composite Index rose 0.9% to close at 36,336, hitting an over two-week high, as investors assessed prospects for US-Iran talks. US President Trump said US officials had a “very good” meeting with Iranian envoys at the UN General Assembly and that another was being planned for the near future. A senior Iranian official said Iran could reopen the Strait of Hormuz within days if the US eased military pressure and lifted its blockade on Iranian ports. The pullback in the oil rally, which has fueled inflationary pressures and prompted central banks to raise interest rates, supported equities. Miners gained as gold prices rebounded, with Agnico Eagle rising 3.4%, Barrick adding 3.1%, and WPM advancing 4.5%. Shopify surged 7.4% on news that the company partnered with Meta to enable purchases through Meta’s Muse AI agent using Shop Pay. Financials closed lower after BoC Governor Macklem warned that rate decisions will need to balance slow growth against high energy costs."
     }
   ]
 }
