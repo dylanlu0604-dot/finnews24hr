@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-30 05:05:46",
-  "count": 11854,
+  "updated": "2026-09-30 05:09:35",
+  "count": 11858,
   "items": [
+    {
+      "id": "5119524",
+      "time": "2026-09-30 05:08:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：預計星艦明年將達到每週發射一次或每週兩次的發射頻率。"
+    },
+    {
+      "id": "mkt:01a0eeff-a138-7338-ab1d-e438f4bf0202",
+      "time": "2026-09-30 05:08:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk expects SpaceX's Starship to reach a weekly or biweekly launch cadence next year."
+    },
+    {
+      "id": "5119523",
+      "time": "2026-09-30 05:06:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍將採購30艘中型無人水面艇（MUSV），設定每艘MUSV的平均成本為4000萬美元。"
+    },
+    {
+      "id": "te:markets:587838",
+      "time": "2026-09-30 05:06:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Gains Ahead of Presidential Election — The Brazilian real strengthened to 5.20 per USD, tracking moves in other emerging markets as traders remained cautious ahead of October’s presidential election. Recent polls show President Lula and Senator Flávio Bolsonaro within the margin of a technical tie in a potential second-round scenario. Bolsonaro is viewed by markets as more fiscally restrictive, amid elevated domestic yields and weak business activity. Meanwhile, Brazil created 165,827 formal jobs in August, above forecasts of 95,700 and up from 58,568 in July, the highest result since March. Unemployment stood at 5.3% in the rolling quarter ended in August, unchanged from the previous quarter and matching expectations. Despite strong payrolls, job creation remains weaker than in 2024 and early 2025, consistent with gradual labor-market cooling and expectations for GDP to be near flat in 3Q26. The data mostly did not dent expectations for continued Selic easing."
+    },
     {
       "id": "5119522",
       "time": "2026-09-30 05:03:59",
