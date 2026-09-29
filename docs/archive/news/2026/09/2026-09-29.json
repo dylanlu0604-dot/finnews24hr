@@ -1,7 +1,106 @@
 {
   "date": "2026-09-29",
-  "count": 1352,
+  "count": 1362,
   "items": [
+    {
+      "id": "mkt:01a0ec0d-70eb-7338-ab06-a00487c752aa",
+      "time": "2026-09-29 15:24:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps spokesman said the US has no choice but to admit failure and withdraw from the region."
+    },
+    {
+      "id": "5118009",
+      "time": "2026-09-29 15:24:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【胡靜林出席2026年金磚國家稅務局長會議】2026年9月23日，中國國家稅務總局局長鬍靜林率代表團應邀出席在印度新德里舉行的金磚國家稅務局長會議。此次會議由印度稅務部門主辦，來自印度、中國、巴西、俄羅斯、南非等10個金磚國家的稅務局長及代表圍繞“建設韌性、創新、合作與可持續的金磚”主題展開討論。胡靜林指出，今年是金磚國家合作20週年，金磚稅收合作機制也進入第15個年頭。面對國際稅收規則重大調整和經濟社會發展對稅收工作提出的新要求，中國稅務部門願與各成員一道，秉持開放包容、合作共贏的金磚精神，以“韌性”夯實徵管基礎，以“創新”驅動數字化轉型，以“合作”凝聚廣泛共識，以“可持續”謀劃長遠佈局，不斷拓展深化金磚稅收合作成果，為完善全球稅收治理體系作出更大貢獻。（國家稅務總局）"
+    },
+    {
+      "id": "5118008",
+      "time": "2026-09-29 15:24:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊發言人表示，美國除了宣告失敗並撤出該地區之外別無選擇。"
+    },
+    {
+      "id": "mkt:01a0ec0d-330b-7338-ab06-9e2492f2290a",
+      "time": "2026-09-29 15:24:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Gold edges up but remains under pressure; markets focus on U.S. data, Oct Fed-hike odds 72.5%】Spot gold rose modestly on Tuesday but stayed below $4,200/oz, near early-August lows, after Monday’s selloff driven by U.S. Treasury yields rising to multi-decade highs and higher oil. Markets price a longer period of higher Fed rates, weighing on demand for non-yielding assets; the CME FedWatch tool shows a 72.5% chance of an October rate hike. Traders are watching U.S. consumer confidence and job-openings data due later Tuesday."
+    },
+    {
+      "id": "mkt:01a0ec0b-4d7d-7338-ab06-91a922b21c56",
+      "time": "2026-09-29 15:22:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Foreign Ministry says China will work with others to ensure a successful APEC 'China Year'】Foreign Ministry spokesman Guo Jiakun held a regular briefing on Sept 29. A TASS reporter asked about a Kremlin spokesman’s comment that the upcoming Shenzhen APEC summit provides an opportunity for a trilateral meeting of the Russian, Chinese and US leaders. Guo said China, as this year’s APEC host, is willing to work with all parties to help APEC’s 'China Year' deliver substantive results and contribute to Asia‑Pacific and global growth. On the trilateral meeting he said he had no information to provide."
+    },
+    {
+      "id": "5118007",
+      "time": "2026-09-29 15:22:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【外交部：中方願同各方一道，共同推動APEC“中國年”取得豐碩成果】9月29日，外交部發言人郭嘉昆主持例行記者會。塔斯社記者提問，克里姆林宮發言人表示，即將在深圳舉行的亞太經合組織峰會，為俄中美元首舉行三方會議提供了良好的機會，中方對此有何評論？郭嘉昆表示，作為今年亞太經合組織東道主，中方願同各方一道共同推動APEC“中國年”取得豐碩成果，為促進亞太和世界經濟增長作出新的貢獻。“關於你提到的問題，我目前沒有可以提供的資訊。”郭嘉昆說。（北京日報）"
+    },
+    {
+      "id": "5118006",
+      "time": "2026-09-29 15:21:57",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【西班牙通脹率意外飆升至5% 支援歐洲央行進一步加息】西班牙通脹加速程度超出預期，進一步遠離歐洲央行2%的目標，這強化了央行繼續提高利率的理由。週二公佈的資料顯示，9月份消費者價格同比上漲5%，升幅高於8月的4.6%。這是自2023年2月以來的最高水平，也高於分析師得出的預估中值4.9%。統計機構表示，燃油和旅遊套餐價格大幅上漲是主要原因。衡量基礎價格壓力的指標漲幅也超出預期。"
+    },
+    {
+      "id": "te:economy:587531",
+      "time": "2026-09-29 15:21:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Taiwan Consumer Sentiment Hits 1-1/2-Year High — Taiwan’s consumer confidence index increased to 68.77 in September 2026 from 65.01 in the previous month, marking the highest reading since March 2025. Confidence strengthened across all six core sub-indicators, including domestic economic conditions (87.02 vs 81.20 in August), household finances (82.64 vs 78.12), stock investment prospects (35.42 vs 27.72), durable goods purchases (93.78 vs 93.14), labor market expectations (76.7 vs 73.32), and future price expectations (37.05 vs 36.57). Other additional indicators also improved: current health conditions (90.35 vs 86.94), expected future health conditions (84.77 vs 82.36), and the timing of real estate purchases (98.84 vs 90.35)."
+    },
+    {
+      "id": "5118005",
+      "time": "2026-09-29 15:21:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星代工業務加速轉向AI與HPC：目標2029年客戶數量增長約四倍】三星電子週二（9月29日）表示，其代工業務的客戶數量到2029年有望較2017年增長約四倍。三星代工事業部高階副總裁Noh Mi-jung在2026年韓國高階周活動期間表示，“自2017年代工業務作為獨立部門成立以來，客戶數量已增長了約三倍，我們預計到2029年，客戶數量將增長約四倍。”"
+    },
+    {
+      "id": "5118004",
+      "time": "2026-09-29 15:21:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【粵萬年青成立萬星智算雲端計算科技公司】企查查APP顯示，近日，萬星智算（廣州）雲端計算科技有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；雲端計算裝置銷售；雲端計算裝備技術服務；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由粵萬年青全資持股。"
+    },
     {
       "id": "mkt:01a0ec09-e7c8-7338-ab06-8c019b65d94c",
       "time": "2026-09-29 15:21:07",
