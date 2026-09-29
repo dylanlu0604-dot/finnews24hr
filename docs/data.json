@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-30 00:17:30",
-  "count": 11858,
+  "updated": "2026-09-30 00:21:23",
+  "count": 11860,
   "items": [
+    {
+      "id": "mkt:01a0edf5-cb48-7338-ab16-27bd9543fa27",
+      "time": "2026-09-30 00:18:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Taylor said the Bank of England's agents' survey of firms' pay plans will be published in January 2027 and will be a key data indicator."
+    },
+    {
+      "id": "mkt:01a0edf5-7407-7338-ab16-1c170f717e51",
+      "time": "2026-09-30 00:18:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms"
+      ],
+      "text": "OpenAI CEO Sam Altman said Muse is a strong product and will not be threatened by Meta Platforms (META.O)."
+    },
+    {
+      "id": "5119163",
+      "time": "2026-09-30 00:17:38",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：英國央行調研員針對企業薪資預期的調查將於 2027 年 1 月釋出，該資料將是非常重要的參考指標。"
+    },
+    {
+      "id": "mkt:01a0edf4-e370-7338-ab16-130e2916168a",
+      "time": "2026-09-30 00:17:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI chief executive Sam Altman said AI faces more scientific than engineering problems."
+    },
+    {
+      "id": "5119162",
+      "time": "2026-09-30 00:17:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：Muse 是一款不錯的產品，（我方）並未受到 Meta 的威脅。"
+    },
     {
       "id": "mkt:01a0edf3-edae-7338-ab16-0d13fa50e4c4",
       "time": "2026-09-30 00:16:21",
@@ -108452,31 +108502,6 @@
         "MKT News"
       ],
       "text": "【Ukraine reportedly airdrops suicide ground robots behind Russian lines】Newsweek on Sept. 21 cited Ukrainian military statements saying Ukraine airdropped suicide ground robots into Russian rear areas in northern Donetsk. Ukraine’s Third Corps said on Telegram on Sept. 20 it executed a flanking maneuver and carried out what it called the world’s first ground-robot deployment, claiming the robots — flown by heavy strike UAVs more than 10 km into enemy rear — “blinded” Russian drones via air-defence and electronic-warfare measures. Third Corps commander Brig. Gen. Andriy Biletsky said his unit was the first to airdrop the systems. The Russian Defence Ministry had no immediate comment; Newsweek said it had contacted the ministry."
-    },
-    {
-      "id": "mkt:01a0c9eb-fcee-7118-864b-221ccdcb1f76",
-      "time": "2026-09-23 00:21:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Foreign ministers of Turkey, Egypt, Saudi Arabia and Pakistan issued a joint statement expressing deep concern about hostile actions in the region."
-    },
-    {
-      "id": "5108340",
-      "time": "2026-09-23 00:20:43",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果正開發新型健身追蹤器，旨在對標WHOOP。"
-    },
-    {
-      "id": "5108339",
-      "time": "2026-09-23 00:18:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "一架美國F-16戰鬥機在德國美軍基地附近墜毀。"
     }
   ]
 }
