@@ -1,7 +1,83 @@
 {
   "date": "2026-09-29",
-  "count": 1837,
+  "count": 1845,
   "items": [
+    {
+      "id": "5118346",
+      "time": "2026-09-29 17:34:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "Coinbase獲得美國商品期貨交易委員會（CFTC）批准，將推出其自有的美國加密貨幣衍生品清算所。"
+    },
+    {
+      "id": "5118345",
+      "time": "2026-09-29 17:34:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和而泰：擬發行不超22億元科技創新可交換公司債券 標的股票為所持鋮昌科技A股股票】和而泰公告，公司董事會審議透過非公開發行科技創新可交換公司債券方案，發行總額不超過22億元，期限不超3年，募集資金扣除發行費用後擬用於償還銀行貸款。標的股票為所持鋮昌科技A股股票，該議案尚需提交股東會審議。"
+    },
+    {
+      "id": "5118344",
+      "time": "2026-09-29 17:33:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "烏茲別克8月份貿易逆差為156.28億美元。"
+    },
+    {
+      "id": "5118343",
+      "time": "2026-09-29 17:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "根據港交所檔案：騰訊9月29日回購23.2萬股，耗資1.006億港元。"
+    },
+    {
+      "id": "5118342",
+      "time": "2026-09-29 17:32:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "日本電產執行長岸田光哉因會計醜聞辭職。"
+    },
+    {
+      "id": "mkt:01a0ec81-afbe-7338-ab0b-8ef9702b1070",
+      "time": "2026-09-29 17:31:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1299.HK",
+        "Impact bullish",
+        "1810.HK"
+      ],
+      "text": "Southbound funds were net buyers of RMB 0.15 bln today. Via Shanghai Stock Connect to Hong Kong, AIA and Xiaomi-W saw net inflows of HKD 809 mln and HKD 407 mln; Kangfang Biotech registered the largest net outflow at HKD 413 mln. Via Shenzhen Stock Connect, Yangtze Optical Fibre & Cable and Zhipu received net purchases of HKD 134 mln and HKD 104 mln; China Southern Hang Seng Tech ETF was the top net sell at HKD 570 mln."
+    },
+    {
+      "id": "mkt:01a0ec81-8c47-7338-ab0b-85555af95255",
+      "time": "2026-09-29 17:31:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Harvest Nasdaq ETF will be suspended from market open on Sept. 30 until 10:30 that day. Redemptions will continue to be processed as normal during the suspension."
+    },
+    {
+      "id": "mkt:01a0ec81-5c97-7338-ab0b-7acfe2b3e719",
+      "time": "2026-09-29 17:31:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) launched Muse for small businesses and expanded its AI capabilities."
+    },
     {
       "id": "5118341",
       "time": "2026-09-29 17:31:13",

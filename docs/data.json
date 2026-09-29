@@ -1,7 +1,83 @@
 {
-  "updated": "2026-09-29 17:31:44",
-  "count": 12268,
+  "updated": "2026-09-29 17:35:34",
+  "count": 12267,
   "items": [
+    {
+      "id": "5118346",
+      "time": "2026-09-29 17:34:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "Coinbase獲得美國商品期貨交易委員會（CFTC）批准，將推出其自有的美國加密貨幣衍生品清算所。"
+    },
+    {
+      "id": "5118345",
+      "time": "2026-09-29 17:34:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和而泰：擬發行不超22億元科技創新可交換公司債券 標的股票為所持鋮昌科技A股股票】和而泰公告，公司董事會審議透過非公開發行科技創新可交換公司債券方案，發行總額不超過22億元，期限不超3年，募集資金扣除發行費用後擬用於償還銀行貸款。標的股票為所持鋮昌科技A股股票，該議案尚需提交股東會審議。"
+    },
+    {
+      "id": "5118344",
+      "time": "2026-09-29 17:33:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "烏茲別克8月份貿易逆差為156.28億美元。"
+    },
+    {
+      "id": "5118343",
+      "time": "2026-09-29 17:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "根據港交所檔案：騰訊9月29日回購23.2萬股，耗資1.006億港元。"
+    },
+    {
+      "id": "5118342",
+      "time": "2026-09-29 17:32:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "日本電產執行長岸田光哉因會計醜聞辭職。"
+    },
+    {
+      "id": "mkt:01a0ec81-afbe-7338-ab0b-8ef9702b1070",
+      "time": "2026-09-29 17:31:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "1299.HK",
+        "Impact bullish",
+        "1810.HK"
+      ],
+      "text": "Southbound funds were net buyers of RMB 0.15 bln today. Via Shanghai Stock Connect to Hong Kong, AIA and Xiaomi-W saw net inflows of HKD 809 mln and HKD 407 mln; Kangfang Biotech registered the largest net outflow at HKD 413 mln. Via Shenzhen Stock Connect, Yangtze Optical Fibre & Cable and Zhipu received net purchases of HKD 134 mln and HKD 104 mln; China Southern Hang Seng Tech ETF was the top net sell at HKD 570 mln."
+    },
+    {
+      "id": "mkt:01a0ec81-8c47-7338-ab0b-85555af95255",
+      "time": "2026-09-29 17:31:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Harvest Nasdaq ETF will be suspended from market open on Sept. 30 until 10:30 that day. Redemptions will continue to be processed as normal during the suspension."
+    },
+    {
+      "id": "mkt:01a0ec81-5c97-7338-ab0b-7acfe2b3e719",
+      "time": "2026-09-29 17:31:35",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) launched Muse for small businesses and expanded its AI capabilities."
+    },
     {
       "id": "5118341",
       "time": "2026-09-29 17:31:13",
@@ -111747,83 +111823,6 @@
         "公司"
       ],
       "text": "【晶科能源：完成回購股份登出，轉股價格由4.36元/股調至4.34元/股】晶科能源公告，公司此前同意將2972.13萬股已回購股份用途由“用於員工持股計劃或股權激勵”變更為“用於登出並相應減少註冊資本”。截至公告披露日，公司已完成相關股份登出，股份總額由102.69億股變為102.4億股；“晶能轉債”轉股價格由4.36元/股調整為4.34元/股，2026年9月23日停止轉股，2026年9月24日起恢復轉股。"
-    },
-    {
-      "id": "5107475",
-      "time": "2026-09-22 17:34:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【利歐股份：擬與關聯方創興資源簽署關聯交易框架協議】利歐股份公告，擬與關聯方上海創興資源開發股份有限公司（以下簡稱“創興資源”）簽訂《關聯交易框架協議》。公司大股東、實際控制人王相榮先生實際控制的企業創興資源及下屬企業將承接公司及下屬全資、控股子公司的廠房及其他專案的施工及配套工程，包括但不限於建築工程專案的施工承包、工程材料的採購及加工製作安裝以及相關其他服務。"
-    },
-    {
-      "id": "te:economy:585629",
-      "time": "2026-09-22 17:34:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Morocco",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Morocco Posts Deflation for 2nd Month — Consumer prices in Morocco fell by 0.3% year-on-year in August 2026, following a 0.6% decrease in July, as deflation persisted for a second straight month. Food and non-alcoholic beverages posted a sharper price decline of 4.2% in August, compared with 4.0% in July, while communication prices fell 0.2% for a second month. Meanwhile, inflation moderated for housing and utilities (1.4% vs 1.5%) and restaurants and hotels (2.3% vs 2.4%). On the other hand, price growth accelerated sharply for transportation (7.3% vs 4.1%). The core inflation index, which excludes products with volatile prices and those subject to public tariffs, increased by 0.2% from July and by 0.1% from August 2025. On a monthly basis, the CPI rose by 0.8%, after a 1% decline in the previous month."
-    },
-    {
-      "id": "5107474",
-      "time": "2026-09-22 17:33:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天創時尚：擬將證券簡稱變更為“天創股份”】天創時尚公告，擬將公司證券簡稱由“天創時尚”變更為“天創股份”，公司證券程式碼“603608”保持不變。本次證券簡稱變更事項無需提交公司股東會審議，尚需向上海證券交易所申請，並經上海證券交易所批准後方可實施。"
-    },
-    {
-      "id": "5107472",
-      "time": "2026-09-22 17:33:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大豐實業：中標三個專案，總金額合計約3.7億元】大豐實業公告，公司於本月陸續收到相關專案招標方發來的《中標通知書》。根據上述《中標通知書》的內容，公司分別被確定為“深圳歌劇院專案舞臺機械裝置工程I標”“水韻‘青春之城’EOD專案—曹娥江文化藝術中心產業綜合體舞臺工藝裝置採購專案”及“大亞灣綜合文化創意園專案—大亞灣綜合文化創意園專案B區室內裝修施工”的中標人，中標總金額合計約為人民幣36,992.4746萬元。"
-    },
-    {
-      "id": "5107471",
-      "time": "2026-09-22 17:33:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美團：未來三年加碼300億投入即時零售】美團副總裁、閃購事業部負責人肖昆在2026美團即時零售產業大會上表示，未來3年，美團閃購將在基礎設施建設、產品研發、商品營銷方面向行業夥伴投入300億元支援資源。（21財經）"
-    },
-    {
-      "id": "5107470",
-      "time": "2026-09-22 17:33:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國聯邦銀行：德國在增發2.90%五年期BOBL國債的拍賣中售出37.35億歐元。"
-    },
-    {
-      "id": "5107469",
-      "time": "2026-09-22 17:32:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【泰慕士：股票交易異常波動 無應披露未披露重大事項】泰慕士公告稱，公司股票連續3個交易日（2026年9月18日、9月21日、9月22日）內收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經核查，公司前期披露資訊不存在需更正、補充之處，近期經營情況及內外部經營環境未發生重大變化；公司、控股股東及實控人均不存在應披露而未披露的重大事項，股票異動期間控股股東、實控人未買賣公司股票。公司提醒投資者理性投資、注意風險。"
-    },
-    {
-      "id": "5107468",
-      "time": "2026-09-22 17:32:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中科通達：光谷成長及其一致行動人持股比例降至10%】中科通達公告稱，公司持股5%以上股東武漢光谷成長創業投資基金有限公司於2026年8月27日至9月21日透過集中競價、大宗交易方式累計減持公司股份116.38萬股，佔公司總股本的1.00%。本次減持後，光谷成長及其一致行動人武漢高科國有控股集團有限公司合計持有公司股份1163.73萬股，佔公司總股本的10.00%。本次權益變動為光谷成長履行此前披露的減持計劃，目前減持計劃尚未實施完畢，不會導致公司控股股東、實控人發生變化。"
-    },
-    {
-      "id": "5107467",
-      "time": "2026-09-22 17:32:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：科斯拉風投聘請前OpenAI高管負責基礎設施投資。"
     }
   ]
 }
