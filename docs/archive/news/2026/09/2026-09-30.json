@@ -1,7 +1,61 @@
 {
   "date": "2026-09-30",
-  "count": 12,
+  "count": 17,
   "items": [
+    {
+      "id": "te:markets:587790",
+      "time": "2026-09-30 00:08:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls to 18-Week Low — The CAC 40 fell 0.5% to close at 8,036 on Tuesday, reversing early gains amid broad-based losses and hitting an 18-week low. Heavyweight luxury stocks closed lower as a weakening economic backdrop is producing mixed data from China and raising concerns over a potential moderation in US spending. Last week, RBC downgraded LVMH (-1%) to sector perform from outperform and cut its 2027 earnings-per-share estimates for Kering (-2%) and Hermès (-2.1%). Elsewhere, Vinci (-2.4%), Eiffage (-3.1%) and ADP (-0.7%) fell after the government said it was considering higher taxes on transport infrastructure. The proposed tax hike could cut 2027 earnings for the companies by 9% to 12%, according to Morgan Stanley. Stellantis lost 3.5% after saying it would temporarily suspend operations at some plants in France next month amid a shortage of long-range EV batteries and efforts to contain dealer inventories. TotalEnergies shed 2.4% on lower oil prices."
+    },
+    {
+      "id": "te:markets:587788",
+      "time": "2026-09-30 00:06:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.57% Lower — The FTSE 100 Index dropped 61 points or 0.57 percent on Tuesday to close at 10623 points. Losses were led by Ithaca Energy (-4.34%), J Sainsbury (-2.41%) and British American Tobacco (-2.34%). Offsetting the fall, top gainers were Weir (2.51%), Spirax-Sarco Engineering (2.31%) and Intercontinental Hotels (2.02%)."
+    },
+    {
+      "id": "mkt:01a0edea-329a-7338-ab15-f733a1008bf4",
+      "time": "2026-09-30 00:05:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Farmer's Business Network partners with Google's AI for the Future Fund to bring advanced artificial intelligence innovations to family farmers."
+    },
+    {
+      "id": "mkt:01a0edea-1e5a-7338-ab15-ed6a0039b17f",
+      "time": "2026-09-30 00:05:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French Treasury (AFT) says the government's financing requirement for next year is expected to be €339.7 bln, driven by a record €189.2 bln of maturing debt."
+    },
+    {
+      "id": "mkt:01a0ede9-f8af-7338-ab15-e68d23cfdf4d",
+      "time": "2026-09-30 00:05:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Agence France Trésor (AFT) says France's outstanding short-term Treasury bill stock is expected to rise by EUR2.2 bln in 2027."
+    },
     {
       "id": "mkt:01a0ede9-dadd-7338-ab15-def4bb5b2a6e",
       "time": "2026-09-30 00:05:21",
