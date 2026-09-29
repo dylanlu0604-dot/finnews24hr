@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-29 07:58:18",
-  "count": 11757,
+  "updated": "2026-09-29 08:02:02",
+  "count": 11759,
   "items": [
+    {
+      "id": "mkt:01a0ea77-4306-7338-aafb-9022ad707ef7",
+      "time": "2026-09-29 08:01:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Debt Management Office projects NZD 30 billion of bond issuance in fiscal 2026/27, down from a pre-election updated forecast of NZD 34 billion."
+    },
+    {
+      "id": "mkt:01a0ea77-2c31-7338-aafb-8c9e45cc8199",
+      "time": "2026-09-29 08:01:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened down 53.91 points, or 0.78%, at 6,835.83 on Sept 29 (Tuesday)."
+    },
+    {
+      "id": "mkt:01a0ea77-18aa-7338-aafb-81c738e9228f",
+      "time": "2026-09-29 08:01:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 178.29 points, or 0.27%, at 65,699.33 points on Tuesday, Sept. 29."
+    },
+    {
+      "id": "5117431",
+      "time": "2026-09-29 08:00:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.7%，至6844.41點。"
+    },
+    {
+      "id": "5117430",
+      "time": "2026-09-29 08:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭預計2026-27財年預算赤字將達到68億紐西蘭元。"
+    },
+    {
+      "id": "5117429",
+      "time": "2026-09-29 08:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報65557.99點，跌幅0.49%。"
+    },
+    {
+      "id": "5117428",
+      "time": "2026-09-29 07:59:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第33屆中國電視金鷹獎各大獎項今晚揭曉 多部總檯精品大劇入圍】昨天（28日），第16屆中國金鷹電視藝術節核心活動之一——第33屆中國電視金鷹獎提名錶彰頒授典禮在湖南長沙舉行。本屆金鷹獎評選工作於今年3月啟動，共有719部作品參評，涵蓋電視劇、電視紀錄片、電視綜藝（文藝）節目、電視動畫片四大品類，經過層層初審、複審、終評，最終遴選出數十部優秀提名作品及眾多優秀主創人員，全面展現近年來中國電視文藝創作的豐碩成果。（央視）"
+    },
+    {
+      "id": "5117427",
+      "time": "2026-09-29 07:58:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "生物製藥公司 CSL 表示，它正在與亞馬遜網路服務（Amazon Web Services）合作，以推進生物製藥研發，利用人工智慧和雲端計算技術支援其研究和臨床開發。"
+    },
     {
       "id": "5117426",
       "time": "2026-09-29 07:56:39",
@@ -107079,66 +107148,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4410美元/盎司，日內漲0.60%。"
-    },
-    {
-      "id": "5106484",
-      "time": "2026-09-22 08:01:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲3%。"
-    },
-    {
-      "id": "mkt:01a0c66a-7af9-7118-8633-97c303c89776",
-      "time": "2026-09-22 08:01:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "South Korea's KOSPI up 2.20% in early trade. Samsung Electronics up 3%, SK Hynix up 2%."
-    },
-    {
-      "id": "5106483",
-      "time": "2026-09-22 08:00:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【定製“線上報復訂單”進行精神恫嚇 警方打掉一網路暴力違法犯罪團伙】公安網安部門持續深化掃黑除惡專項鬥爭。近日，吉林省吉林市公安網安部門聚焦網路暴力等新型黑惡犯罪，成功打掉一個透過“網羅門徒、分級收費、按級授能、按勞返利”方式實施網路暴力的違法犯罪團伙，抓獲涉案人員98名。吉林市公安網安部門偵查發現，某網暴團伙效仿傳統黑惡違法犯罪模式，對多人實施“汙言刷屏式”群體辱罵、“簡訊轟炸式”惡意滋擾、“隱私揭蓋式”曝光施壓、“冥物寄送式”精神恫嚇等不法行為，社會影響極其惡劣。經查，此網暴違法犯罪團伙面向因網路遊戲社交引發矛盾糾紛的特定群體，根據“委託人”需求收取費用、定製“線上報復訂單”。其中，馮某負責佈置實施網路暴力“任務”，陳某負責團伙運營、接單派單、收益分配，何某、劉某等人從事“人肉開盒”和“簡訊轟炸”，併為網暴團伙非法行為提供“技術支援”，於某負責統計群組成員活躍度併發放“獎勵”，形成“接單—派單—組群—施害—反饋”的“流水線化”作案模式。經審訊，該團伙對違法犯罪事實供認不諱，案件正在進一步偵辦中。"
-    },
-    {
-      "id": "5106482",
-      "time": "2026-09-22 08:00:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲2.2%，至7161.61點。日本股市今日繼續休市。"
-    },
-    {
-      "id": "5106481",
-      "time": "2026-09-22 08:00:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "Robinhood：AWS中斷服務後，各項服務正在恢復。"
-    },
-    {
-      "id": "mkt:01a0c668-0100-7118-8633-8ca9ef3ae2a0",
-      "time": "2026-09-22 07:58:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【The Guardian: European intelligence says Russia may soon test NATO red lines; drones or missiles could strike NATO territory within months】The Guardian reports European intelligence officials assess Russia could escalate in months rather than years and may soon test NATO’s red lines. Polish Prime Minister Tusk said intelligence indicates Russia could use drones or missiles to strike NATO territory within months. Kremlin spokesman Peskov dismissed the claims as completely untrue and not Russia’s intent. French President Macron said Tusk’s warning was well-founded and convened emergency talks with party leaders and 2027 presidential candidates."
     }
   ]
 }

@@ -1,7 +1,76 @@
 {
   "date": "2026-09-29",
-  "count": 511,
+  "count": 519,
   "items": [
+    {
+      "id": "mkt:01a0ea77-4306-7338-aafb-9022ad707ef7",
+      "time": "2026-09-29 08:01:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Debt Management Office projects NZD 30 billion of bond issuance in fiscal 2026/27, down from a pre-election updated forecast of NZD 34 billion."
+    },
+    {
+      "id": "mkt:01a0ea77-2c31-7338-aafb-8c9e45cc8199",
+      "time": "2026-09-29 08:01:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened down 53.91 points, or 0.78%, at 6,835.83 on Sept 29 (Tuesday)."
+    },
+    {
+      "id": "mkt:01a0ea77-18aa-7338-aafb-81c738e9228f",
+      "time": "2026-09-29 08:01:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 178.29 points, or 0.27%, at 65,699.33 points on Tuesday, Sept. 29."
+    },
+    {
+      "id": "5117431",
+      "time": "2026-09-29 08:00:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.7%，至6844.41點。"
+    },
+    {
+      "id": "5117430",
+      "time": "2026-09-29 08:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭預計2026-27財年預算赤字將達到68億紐西蘭元。"
+    },
+    {
+      "id": "5117429",
+      "time": "2026-09-29 08:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報65557.99點，跌幅0.49%。"
+    },
+    {
+      "id": "5117428",
+      "time": "2026-09-29 07:59:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第33屆中國電視金鷹獎各大獎項今晚揭曉 多部總檯精品大劇入圍】昨天（28日），第16屆中國金鷹電視藝術節核心活動之一——第33屆中國電視金鷹獎提名錶彰頒授典禮在湖南長沙舉行。本屆金鷹獎評選工作於今年3月啟動，共有719部作品參評，涵蓋電視劇、電視紀錄片、電視綜藝（文藝）節目、電視動畫片四大品類，經過層層初審、複審、終評，最終遴選出數十部優秀提名作品及眾多優秀主創人員，全面展現近年來中國電視文藝創作的豐碩成果。（央視）"
+    },
+    {
+      "id": "5117427",
+      "time": "2026-09-29 07:58:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "生物製藥公司 CSL 表示，它正在與亞馬遜網路服務（Amazon Web Services）合作，以推進生物製藥研發，利用人工智慧和雲端計算技術支援其研究和臨床開發。"
+    },
     {
       "id": "5117426",
       "time": "2026-09-29 07:56:39",
