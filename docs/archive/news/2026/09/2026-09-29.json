@@ -1,7 +1,263 @@
 {
   "date": "2026-09-29",
-  "count": 1680,
+  "count": 1705,
   "items": [
+    {
+      "id": "mkt:01a0ec65-272e-7338-ab0a-2690add0c177",
+      "time": "2026-09-29 17:00:47",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【Rising borrowing costs push UK mortgage approvals to 32-month low】UK mortgage approvals unexpectedly fell in August as higher borrowing costs linked to the Iran war deterred buyers. Data from the Bank of England on Tuesday showed approvals dropped for a second month to 54,918 from a downwardly revised 55,928 in July, the lowest since December 2023; economists had expected no change. With the Middle East conflict ongoing, headline mortgage rates are approaching 6%. Markets also expect Chancellor Hiley to raise property taxes in his first budget to shore up public finances, adding further pressure on the housing market."
+    },
+    {
+      "id": "5118259",
+      "time": "2026-09-29 17:00:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟在EEX以每噸84.87歐元出售現貨碳排放許可。"
+    },
+    {
+      "id": "5118258",
+      "time": "2026-09-29 17:00:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國競爭與市場管理局：提議接受Co-op Group交易中的補救方案，以解決競爭擔憂。"
+    },
+    {
+      "id": "5118257",
+      "time": "2026-09-29 17:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "冰島9月消費者價格環比上漲0.39%。"
+    },
+    {
+      "id": "mkt:01a0ec64-a4b1-7338-ab0a-189bda4e7c80",
+      "time": "2026-09-29 17:00:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Eurozone September consumer confidence (final) -16.5, in line with expected -16.5 and prior -16.5."
+    },
+    {
+      "id": "mkt:01a0ec64-9c85-7338-ab0a-1788b6779991",
+      "time": "2026-09-29 17:00:11",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Euro zone services sentiment index for September 6.1, versus 6.5 expected; prior revised down to 5.6 from 5.8."
+    },
+    {
+      "id": "5118256",
+      "time": "2026-09-29 17:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元區9月經濟景氣指數 97.9，預期99，前值98.4。歐元區9月工業景氣指數 -3.8，預期-4.7，前值由-5.3修正為-5。"
+    },
+    {
+      "id": "mkt:01a0ec64-9775-7338-ab0a-0adda5ebdb0a",
+      "time": "2026-09-29 17:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Eurozone Economic Sentiment Indicator (ESI) 97.9 in September, below consensus 99 and down from previous 98.4."
+    },
+    {
+      "id": "mkt:01a0ec64-976b-7338-ab0a-06a74a3e18ff",
+      "time": "2026-09-29 17:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Euro area industrial sentiment for September -3.8, versus -4.7 expected; August revised to -5.0 from -5.3."
+    },
+    {
+      "id": "te:markets:587622",
+      "time": "2026-09-29 17:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Drops by 0.52% — Top currency losers are Norwegian Krone (-0.52%), Swedish Krona (-0.39%), Australian Dollar (-0.38%), Euro (-0.21%) and British Pound (-0.14%). Gains are led by South Korean Won (0.25%) and Dollar Index (0.18%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "mkt:01a0ec64-7c17-7338-ab09-fa289b81103c",
+      "time": "2026-09-29 17:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Services Sentiment Indicator (Sep) | actual 6.1 | consensus 6.5 | previous 5.8"
+    },
+    {
+      "id": "mkt:01a0ec64-7c15-7338-ab09-f75fb75936f2",
+      "time": "2026-09-29 17:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Consumer Confidence Final Estimate (Sep) | actual -16.5 | consensus -16.5 | previous -16.5"
+    },
+    {
+      "id": "mkt:01a0ec64-7c13-7338-ab09-eb99ea98e529",
+      "time": "2026-09-29 17:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Industrial Sentiment Indicator (Sep) | actual -3.8 | consensus -4.7 | previous -5.3"
+    },
+    {
+      "id": "mkt:01a0ec64-7bde-7338-ab09-e3632f84d8a2",
+      "time": "2026-09-29 17:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Economic Sentiment Indicator (Sep) | actual 97.9 | consensus 99 | previous 98.4"
+    },
+    {
+      "id": "mkt:01a0ec64-5555-7338-ab09-dff0cff126e6",
+      "time": "2026-09-29 16:59:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "NATO Secretary-General Rutte said the best response to Russia's disruptive actions is to increase support for Ukraine."
+    },
+    {
+      "id": "te:markets:587621",
+      "time": "2026-09-29 16:59:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Treasury Yield Steady After Sharp Rise — The yield on the US 10-year Treasury note traded little changed around 5.24% on Tuesday, pausing the previous session’s sharp rise, which saw the benchmark yield climb 8bps to its highest level since mid-2007, as traders continued to price in the prospect of further tightening by the Fed. Little progress has been made in US-Iran talks aimed at ending the conflict and fully reopening the Strait of Hormuz. The situation continues to put upward pressure on oil prices, raising concerns that inflation could accelerate. Meanwhile, strong economic activity in the US, along with concerns over large fiscal deficits and rising government debt, is also weighing on the bond market. A series of key economic data releases this week will provide further insight into the health of the US economy. Swaps traders are pricing in nearly a full percentage point of Fed rate hikes over the coming year. The benchmark 10-year yield is up nearly 46 basis points in September."
+    },
+    {
+      "id": "5118255",
+      "time": "2026-09-29 16:59:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度煤炭公司：已簽署諒解備忘錄，將在賈坎德邦辛德里探索基於煤炭氣化的尿素生產業務。"
+    },
+    {
+      "id": "mkt:01a0ec64-0122-7338-ab09-d4afee51c2da",
+      "time": "2026-09-29 16:59:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said NATO has all necessary options to respond."
+    },
+    {
+      "id": "5118254",
+      "time": "2026-09-29 16:59:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "週二，印尼盾兌美元匯率跌破18000關口，至18010，為8月4日以來最低水平。"
+    },
+    {
+      "id": "mkt:01a0ec63-8f06-7338-ab09-ce54ced7cac0",
+      "time": "2026-09-29 16:59:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said Russia's situation is not optimistic."
+    },
+    {
+      "id": "mkt:01a0ec63-3bc6-7338-ab09-c272f32b6338",
+      "time": "2026-09-29 16:58:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Rupiah dips below 18,000 per dollar for first time since Aug. 4】Rupiah tumbled below 18,000 per dollar to 18,010 on Tuesday, its weakest since Aug. 4, as Asian currencies came under pressure from rising global bond yields, renewed US‑Iran tensions and firmer oil. Overnight the US 10‑year Treasury yield surged above 5.27% — a 19‑year high — while the dollar hovered near a two‑month peak. Trimegah Sekuritas chief economist Fakhrul Fulvian said the rupiah’s weakness is mainly driven by external factors, particularly higher global long‑term yields, with large‑scale bond purchases by Bank Indonesia also a factor. He warned that \"if yields are pushed down below what private investors expect, adjustment pressure may shift to the exchange rate.\""
+    },
+    {
+      "id": "5118253",
+      "time": "2026-09-29 16:58:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST能特：披露其他風險警示相關事項進展及風險提示】ST能特公告稱，因2025年度內部控制審計報告被出具否定意見，公司股票自2026年4月30日開市起被實施其他風險警示。目前公司已成立內控整改工作組，制訂整改方案，推進相關整改工作以消除否定意見影響。若公司2026年度內部控制審計仍被出具無法表示意見或否定意見的審計報告，公司股票交易將被實施退市風險警示。公司將每月披露一次相關進展及風險提示公告，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "5118252",
+      "time": "2026-09-29 16:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：CPU交貨週期延長至25-30周 AI代理推高需求】Trend Force指出，CPU交貨週期已從通常的16-20周延長至25-30周，原因是Meta Muse等個人人工智慧代理推高了市場對CPU的需求量。分析師們正在爭論人工智慧代理激發的CPU需求究竟有多大，但毫無疑問的是，CPU的需求增長前景已經確立，即使人工智慧代理領域還在起步階段。"
+    },
+    {
+      "id": "5118251",
+      "time": "2026-09-29 16:57:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漱玉平民：漱玉錦雲減持計劃屆滿，累計減持1.47%】漱玉平民公告，江蘇漱玉錦雲投資合夥企業（有限合夥）於2026年7月31日至2026年9月28日透過集中競價和大宗交易合計減持公司股份596萬股，佔公司總股本的1.47%，本次減持計劃時間屆滿，實際減持數量未超過計劃上限1216.82萬股。減持後，李文傑及其一致行動人合計持股2.05億股，佔總股本比例由52.09%下降至50.59%。"
+    },
+    {
+      "id": "5118250",
+      "time": "2026-09-29 16:57:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐英國大使館：伊朗駐倫敦大使館斷然拒絕並強烈譴責一些英國個人和媒體近日發表毫無根據、惡意揣測的報道，試圖將伊朗與英國皇家空軍費爾福德基地附近五名嫌疑人被捕一事聯絡起來。在美國和以色列政權對伊朗人民犯下侵略罪行之後，散佈此類捏造揣測，只會助長英國的恐伊宣傳。伊朗伊斯蘭共和國保留在必要時採取適當法律措施的權利，以回應誤導性和損害性媒體報道，維護國家及其人民的權利與利益。"
+    },
     {
       "id": "mkt:01a0ec61-50f1-7338-ab09-b8a0fb656ad5",
       "time": "2026-09-29 16:56:35",
