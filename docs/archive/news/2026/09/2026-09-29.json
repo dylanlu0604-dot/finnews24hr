@@ -1,7 +1,90 @@
 {
   "date": "2026-09-29",
-  "count": 1201,
+  "count": 1210,
   "items": [
+    {
+      "id": "5117923",
+      "time": "2026-09-29 14:38:39",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【法國政府擬上調相關稅收，關注法國公路、機場板塊個股】法國政府計劃在2027年預算案中上調交通基礎設施稅，法國機場與公路運營企業的股票或將迎來震盪行情。ADP、埃法日、萬喜等公司或將成為市場焦點。摩根士丹利分析師表示，若該項稅收上調，萬喜2027年淨利潤或將受到9%衝擊，每股估值減少4.5至5歐元。法國國債相對德國國債的收益率利差約為113個基點。"
+    },
+    {
+      "id": "mkt:01a0ebe2-fc82-7338-ab04-f8ea9550ca67",
+      "time": "2026-09-29 14:38:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Meteorological Administration forecasts 1-2 typhoons to affect China in October】The China Meteorological Administration said typhoon formation and landfalls in waters affecting China this year have been markedly above normal, with overall greater intensity, more long-lived storms and longer onshore residence times leading to larger impacts. China remains in an active autumn typhoon season; the CMA forecasts 1-2 typhoons will affect the country in October."
+    },
+    {
+      "id": "5117922",
+      "time": "2026-09-29 14:38:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國氣象局：預計10月還將有颱風影響我國】記者從中國氣象局瞭解到，今年在影響我國的海域範圍內，颱風生成和登陸個數明顯偏多，強度總體偏強，長生命史颱風多，陸地上滯留時間長、影響大。目前我國仍處於秋颱風活躍季，預計10月，還將有1到2個颱風影響我國。（央視新聞）"
+    },
+    {
+      "id": "5117921",
+      "time": "2026-09-29 14:37:57",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通資管維傑：債券久期估值趨於合理】摩根大通資產管理投資組合經理阿瓊·維傑表示，收益率經歷大幅重估之後，全球國債久期當前估值已相當合理。“市場收益率已經完成一輪顯著重估，從預期降息轉為預判進一步收緊政策。”“與此同時，我們認為實際收益率大機率將維持結構性高於過去十年的水平，背後原因包括持續的財政赤字、量化寬鬆轉向量化縮表，以及人工智慧與基建支出帶來的資本開支高企需求。”“因此，若無明確催化因素，例如能源價格下行、核心通脹進一步回落或是經濟增長顯著放緩，從當前位置很難出現大規模拋售，也難以走出持續的債券牛市。”“在當前價位，久期整體估值基本合理。我們認為沒有充分理由大幅做多或做空久期。”"
+    },
+    {
+      "id": "te:markets:587500",
+      "time": "2026-09-29 14:37:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japanese Yields Ease After Strong Auction — Japan’s 10-year government bond yield slipped to around 3.08% on Tuesday, retreating from 30-year highs after the latest 40-year bond auction drew its strongest demand since 2020 amid elevated yields. The bid-to-cover ratio rose to 3.1, up from 2.82 at the previous auction and above the 12-month average of 2.67. Japan’s 40-year yield traded above 4.2%. Despite the pullback, domestic yields stayed near multi-decade highs as persistent concerns over energy-driven inflation fueled expectations that the Bank of Japan could quicken its pace of monetary tightening. Oil prices extended their gains after Iranian officials reportedly questioned the prospects of reaching an agreement before the US midterm elections in November, following President Donald Trump’s rejection of Tehran’s latest proposal. Meanwhile, a former BOJ official said the central bank could raise its benchmark rate for a second straight month at its October meeting, citing elevated inflation risks."
+    },
+    {
+      "id": "te:economy:587499",
+      "time": "2026-09-29 14:36:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Sweden Business Mood Continues to Improve — Sweden’s business confidence indicator rose for a sixth consecutive month to 109.3 in September 2026 from 107.5 in August, marking the highest reading since May 2022 and moving further above its historical average of 100. The increase points to a continued strengthening in the overall business mood, while demand conditions were unchanged at -18, remaining close to the historical average. Companies reported a slight increase in employment over the past three months (2 vs -2 in August). Hiring plans also strengthened, with the employment outlook for the next three months (7 vs 6) pointing to further workforce growth, although plans remained stronger than normal in manufacturing and construction and weaker than normal in trade. Meanwhile, firms’ expectations for sales prices edged up to 22 from 21, indicating that price increases remain more widespread than normal across all sectors."
+    },
+    {
+      "id": "5117920",
+      "time": "2026-09-29 14:36:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月氣候預報：東北、華南氣溫偏低 降水分佈不均】中國氣象局今天舉辦新聞釋出會，對我國9月天氣情況進行盤點，並對10月天氣進行預報。總體來說，9月期間全國降水量偏少，華西秋雨偏晚，氣溫偏高，10月份東北以及華南地區氣溫將偏低。根據監測顯示，9月以來，全國平均降水量50.2毫米，較常年同期偏少17.1%。華西秋雨於9月15日開始，較常年的9月2日，偏晚13天。西北太平洋和南海生成3個颱風，較常年同期偏少。全國氣溫總體偏高，黃淮東部及雲貴川區域性溫高雨少，氣象乾旱持續。（央視新聞）"
+    },
+    {
+      "id": "5117919",
+      "time": "2026-09-29 14:35:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吳曉軍當選甘肅省人大常委會主任 孔紹遜當選甘肅省省長】甘肅省第十四屆人民代表大會第五次會議9月29日選舉吳曉軍為甘肅省人大常委會主任，選舉孔紹遜為甘肅省人民政府省長。(新華社)"
+    },
+    {
+      "id": "5117918",
+      "time": "2026-09-29 14:35:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伯恩斯坦維持SpaceX“跑贏大盤”評級，預計Starlink寬頻收入2031年達640億美元】伯恩斯坦維持SpaceX“跑贏大盤”評級和248美元目標價，並繼續看好Starlink寬頻業務的長期增長。該機構預計，Starlink住宅寬頻使用者數將在2031年達到約1.68億，面向消費者和小企業的寬頻收入約640億美元，略低於此前預計的660億美元。伯恩斯坦指出，Starlink過去四年寬頻使用者數大致每年翻倍，今年預計仍將延續這一增長速度。其測算假設Starlink在已進入市場中基本佔據衛星寬頻使用者，並繼續從固定無線、Cable和DSL等非光纖寬頻手中奪取份額，同時覆蓋部分目前仍未聯網的家庭。基於更快的短期網路建設進度，伯恩斯坦還將SpaceX 2026年每股虧損預期由0.20美元收窄至0.19美元，並將2027年每股收益預期由1.30美元上調至1.37美元。"
+    },
     {
       "id": "5117917",
       "time": "2026-09-29 14:35:16",
