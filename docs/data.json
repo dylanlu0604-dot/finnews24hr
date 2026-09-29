@@ -1,7 +1,129 @@
 {
-  "updated": "2026-09-29 11:00:04",
-  "count": 11762,
+  "updated": "2026-09-29 11:03:53",
+  "count": 11768,
   "items": [
+    {
+      "id": "mkt:01a0eb1d-93bf-7338-aaff-8dc4c8a57f2c",
+      "time": "2026-09-29 11:02:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou sells residential-linked plot at reserve price for 4.1 bln yuan】Sept 29 — Guangzhou sold one residential-linked plot in Huangpu District with planned GFA 176,825 sqm and FAR 1.23. The land carried a starting price of 4.1 bln yuan and a starting composite floor price of 23,187 yuan/sqm; Guangzhou Metro Group won the parcel at the reserve price of 4.1 bln yuan, transaction composite floor price 23,187 yuan/sqm."
+    },
+    {
+      "id": "mkt:01a0eb1d-760c-7338-aaff-85df7d82f496",
+      "time": "2026-09-29 11:02:51",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【PBOC to guide national and local banks to support service‑sector capacity expansion and quality improvement on separate tracks】At an NDRC briefing on Sept. 29, the PBOC said it is leading eight ministries to draft Guiding Opinions on Financial Support for Service‑Sector Capacity Expansion and Quality Improvement. The draft outlines policy requirements across four dimensions, calls for a lifecycle risk‑assessment and pricing framework tailored to the service sector’s small scale and intangible‑asset profile, and urges financial product innovation focused on service firms’ operating characteristics and funding needs. It also prioritizes payment‑service improvements and payment facilitation, steady progress on high‑level financial opening, support for outbound activity, and stronger consumer and investor protection; the PBOC said it will work with other agencies to improve the targeting, fit and effectiveness of financial services to better support service‑sector expansion and quality upgrades."
+    },
+    {
+      "id": "5117685",
+      "time": "2026-09-29 11:02:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報5137.00元。"
+    },
+    {
+      "id": "mkt:01a0eb1d-2955-7338-aaff-793ca2279537",
+      "time": "2026-09-29 11:02:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesian rupiah weakened to 18,000 per US dollar."
+    },
+    {
+      "id": "5117684",
+      "time": "2026-09-29 11:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【昆數星啟5臺具身機器人進入醫院工作流，承擔術後器械轉運】9月29日，介面新聞獲悉，昆數星啟聯合星海圖、鹿明等在崑山市第一人民醫院部署5臺具身智慧機器人，用於術後汙染器械轉運。此次落地採用星海圖R1 Pro輪式雙臂機器人和鹿明MOS過載輪臂式機器人，可完成動態避障、自主乘梯、跨樓層運輸，以及抓取、交接和返回等連續作業。目前相關機器人已進入醫院實際工作流程。"
+    },
+    {
+      "id": "mkt:01a0eb1c-dce9-7338-aaff-752c23772c38",
+      "time": "2026-09-29 11:02:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Navy says a sailor with non-life-threatening injuries was transported to a Norfolk-area hospital for treatment."
+    },
+    {
+      "id": "5117683",
+      "time": "2026-09-29 11:02:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州1宗涉宅用地41億元底價成交】9月29日，廣州出讓1宗黃浦區涉宅用地，規劃建築面積176825㎡，容積率1.23，起始價41億元，起始綜合樓面價23187元/㎡。最終廣州地鐵集團以底價41億元競得該地塊，成交綜合樓面價23187元/㎡。"
+    },
+    {
+      "id": "5117682",
+      "time": "2026-09-29 11:01:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "新加坡金管局副主席：新加坡審查保險公司資本要求。"
+    },
+    {
+      "id": "mkt:01a0eb1c-98d7-7338-aaff-6bac95fb50e7",
+      "time": "2026-09-29 11:01:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Thailand's government says the cabinet will discuss long-term flood response plans and recovery measures."
+    },
+    {
+      "id": "mkt:01a0eb1c-6f6a-7338-aaff-63396c440e2c",
+      "time": "2026-09-29 11:01:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Navy: On Sept. 28 the Nimitz-class aircraft carrier USS Dwight D. Eisenhower was involved in an accident during carrier-based aircraft recovery operations off the coast of Virginia."
+    },
+    {
+      "id": "mkt:01a0eb1c-243f-7338-aaff-5b512df0dfae",
+      "time": "2026-09-29 11:01:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MAS deputy chairman said the authority will allocate $1.1 billion to five asset managers to support Singapore equities."
+    },
+    {
+      "id": "5117681",
+      "time": "2026-09-29 11:00:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "新加坡金融管理局副主席：將向5家資產管理公司注資11億美元，以提振新加坡股票市場。"
+    },
+    {
+      "id": "5117680",
+      "time": "2026-09-29 11:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平】TrendForce資料顯示，9月29日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平，DDR4 16Gb (2Gx8) 3200現貨均價較上日持平，DDR4 8Gb (1Gx8) 3200現貨均價較上日上漲0.23%。"
+    },
+    {
+      "id": "5117679",
+      "time": "2026-09-29 10:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應急管理部與中國工程院簽署戰略合作協議】9月29日，應急管理部與中國工程院在北京簽署戰略合作協議。根據協議，雙方將圍繞強化戰略決策諮詢支撐、聯合推進重大科技攻關任務、聯合支援打造應急管理國家戰略科技力量、推動礦山安全國家技術創新中心高標準建設執行、聯合支援提升應急管理大學辦學水平、協同推動科技成果轉化和應急裝備產業發展、共同加強高層次人才培育等重點內容開展合作，協同推進應急管理體系和能力現代化。"
+    },
     {
       "id": "5117678",
       "time": "2026-09-29 10:58:34",
@@ -107091,74 +107213,6 @@
         "宏觀"
       ],
       "text": "【“十五五”時期將深化實景三維中國應用和時空智慧科技攻關】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹促進自然資源安全高效永續利用有關情況。釋出會上相關負責人介紹，地理資訊產業是戰略性新興產業，從業單位已達27萬家。“十五五”時期，我們將深化實景三維中國應用和時空智慧科技攻關，推動衛星導航定位基準站網、天地圖等公共資料資源授權運營，加快釋放地理資訊資料要素價值，推進北斗規模應用，賦能傳統產業數智化改造和實體經濟提質增效，更好支撐智慧駕駛、低空經濟、具身智慧等新興產業和未來產業發展。"
-    },
-    {
-      "id": "te:markets:585464",
-      "time": "2026-09-22 11:03:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "UK Natgas Prices Rise Following Steep Decline — UK natural gas prices rose above 183 pence per therm on Tuesday, after sliding more than 8% to a two-week low in the previous session on renewed diplomatic efforts to end the Middle East war and improving vessel flows. Investors are awaiting developments on potential talks between US President Trump and Iranian President Pezeshkian this week, as any progress toward resolving the conflict could reduce fears of prolonged disruptions to energy flows through the Strait of Hormuz. Meanwhile, reports of increasing numbers of LNG tankers and crude carriers finding alternative routes out of the Gulf have also helped ease supply concerns. Still, supply risks remain elevated, with Europe's gas storage levels remaining below the seasonal average at a time when they would typically be close to maximum capacity."
-    },
-    {
-      "id": "5106751",
-      "time": "2026-09-22 11:03:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾和諾德回應“司美迴流藥”：支援並全力配合打擊非法行為，繼續推進授權認證渠道體系】9月22日，就司美格魯肽“迴流藥”問題，諾和諾德中國表示，針對近期相關報道，公司始終將患者安全置於首位，一貫堅決支援並全力配合國家有關部門依法對醫保迴流藥等非法行為進行嚴厲打擊，以維護國家醫保基金安全和患者合法權益。在宣告中，諾和諾德表示，將繼續攜手醫療機構、零售藥房及電商平臺等產業鏈合作伙伴，共同支援規範用藥管理和患者教育，持續推進授權認證渠道體系（包括品牌直供及官方授權渠道），協同提升藥品流通全鏈路質量管理和追溯能力，為患者提供來源清晰、儲運合規、可追溯的藥品及專業服務。（澎湃新聞）"
-    },
-    {
-      "id": "5106750",
-      "time": "2026-09-22 11:02:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.12%】TrendForce資料顯示，9月22日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.12%，DDR4 16Gb (2Gx8) 3200現貨均價較上日下跌0.59%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。"
-    },
-    {
-      "id": "5106749",
-      "time": "2026-09-22 11:01:45",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【持續啟用藍色經濟增長新動能！我國將這樣做強做優做大海洋產業】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹促進自然資源安全高效永續利用有關情況。相關負責人介紹，突出產業更新，推動海洋產業向“新”向“優”。2025年，我國海洋生產總值突破11萬億元，佔到了國內生產總值的7.9%，展現出強勁的韌性和活力。“十五五”時期，我們將做強做優做大海洋產業，鞏固提升海洋油氣勘探開發、海洋文旅等傳統產業優勢，積極發展海洋生物醫藥、海水淡化等新興產業，前瞻佈局深海勘探開發、海水制氫等未來產業，推動海洋生產總值早日邁上13萬億元新臺階，持續啟用藍色經濟增長新動能。"
-    },
-    {
-      "id": "5106748",
-      "time": "2026-09-22 11:00:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聲迅股份等成立量子科技公司】企查查APP顯示，近日，上海聲迅量子科技有限公司成立，經營範圍包含光通訊裝置銷售；半導體器件專用裝置製造；半導體器件專用裝置銷售；智慧控制系統整合等。企查查股權穿透顯示，該公司由聲迅股份等共同持股。"
-    },
-    {
-      "id": "5106747",
-      "time": "2026-09-22 11:00:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里Qwen劉大一恆：堅持開源開放，實現AI普惠】“2026雲棲大會”於9月22日-24日在杭州舉行。阿里巴巴ATH事業群Token Foundry Qwen LLM專案負責人劉大一恆出席並演講。劉大一恆談到，今年，大模型正式邁入第三個階段：智慧體（Agent）時代。“我們始終相信，AI價值不應該只屬於少數企業，而應當成為全世界使用者都可以獲取、使用、創造的基礎能力。未來我們會堅持開源開放，讓更多人用得起AI、用得上AI、參與創造AI，實現AI普惠。”他說。"
-    },
-    {
-      "id": "5106746",
-      "time": "2026-09-22 11:00:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【覓蜂科技將上線“無本體”具身資料眾包採集平臺】記者獲悉，覓蜂科技9月23日將上線面向社會大眾的“無本體”具身資料眾包採集平臺——覓蜂派，將人們的日常操作轉化為機器人訓練資料，讓普通人無需專業背景，也能利用碎片時間參與具身智慧資料採集並獲得收益，推動機器人訓練資料從專業採集走向更廣泛的社會協作。（ 證券時報  ）"
-    },
-    {
-      "id": "5106745",
-      "time": "2026-09-22 11:00:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【種植業與林業板塊短線拉昇，新賽股份漲停】種植業與林業板塊短線拉昇，新賽股份漲停，亞盛集團、秋樂種業、北大荒、宏輝果蔬、博聞科技等跟漲。"
     }
   ]
 }
