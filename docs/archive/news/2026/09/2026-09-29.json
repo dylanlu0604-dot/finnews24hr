@@ -1,7 +1,148 @@
 {
   "date": "2026-09-29",
-  "count": 1728,
+  "count": 1743,
   "items": [
+    {
+      "id": "mkt:01a0ec6b-efab-7338-ab0a-9d768872f048",
+      "time": "2026-09-29 17:08:11",
+      "tags": [
+        "MKT News",
+        "600276.HK"
+      ],
+      "text": "HKEX filing shows BlackRock reduced its H-share stake in Jiangsu Hengrui Medicine from 7.15% to 6.96% on Sept 24, selling at an average price of HK$47.481."
+    },
+    {
+      "id": "mkt:01a0ec6b-aeac-7338-ab0a-912703f80188",
+      "time": "2026-09-29 17:07:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【General Office of the CPC Central Committee and General Office of the State Council issue 15th Five-Year Plan for cultural heritage protection and inheritance】China’s General Office of the CPC Central Committee and General Office of the State Council issued a 15th Five-Year Plan for cultural heritage protection and inheritance and instructed local authorities and departments to implement it. The plan sets targets to 2030: complete a national inventory of cultural heritage resources; basically sort out oversight structures; strengthen legal and regulatory frameworks; expand professional talent; improve protection inspections; and establish an integrated national cultural heritage protection system that reinforces heritage’s role in building a socialist cultural power. Key tasks include building the integrated protection framework; raising protection standards for immovable cultural relics; advancing archaeology and historical research; strengthening movable relics protection and museum management; protecting historic cities, neighborhoods and villages while promoting living transmission; safeguarding intangible cultural heritage; advancing construction and protection of national cultural parks; boosting heritage governance capacity; and enhancing education, technology and talent support and international cooperation."
+    },
+    {
+      "id": "mkt:01a0ec6b-7a2b-7338-ab0a-8e86f8d4e3a3",
+      "time": "2026-09-29 17:07:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "3908.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing shows Citigroup's stake in China International Capital Co H‑shares rose to 6.06% from 5.92% on Sept 23."
+    },
+    {
+      "id": "5118280",
+      "time": "2026-09-29 17:07:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錦江酒店：擬8.11億元收購兩子公司剩餘10%股權】錦江酒店公告稱，公司擬以協議轉讓方式收購黃德滿持有的維也納酒店有限公司、深圳市百歲村餐飲連鎖有限公司各10%股權，交易價格合計8.11億元，資金來源為自有資金及銀行貸款。本次交易完成後，公司將持有兩家標的公司100%股權。本次交易不構成關聯交易及重大資產重組，已經公司董事會審議透過，無需提交股東會審議，已獲上海市國資委事前備案。"
+    },
+    {
+      "id": "mkt:01a0ec6b-0f8f-7338-ab0a-85e4e7997e7d",
+      "time": "2026-09-29 17:07:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filing shows JP Morgan's long stake in Zhongji Xuchuang Co., Ltd. H-shares rose to 14.67% on 23 Sep 2026 from 14.59%."
+    },
+    {
+      "id": "5118279",
+      "time": "2026-09-29 17:07:12",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根士丹利對寧德時代的多頭持倉比例增至6.61%】據香港交易所披露，摩根士丹利對寧德時代新能源科技股份有限公司 - H股的多頭持倉比例於2026年9月24日從5.09%增至6.61%。"
+    },
+    {
+      "id": "mkt:01a0ec6a-a513-7338-ab0a-7ec58d3303bd",
+      "time": "2026-09-29 17:06:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Yield on Italy's auction of newly issued 5-year government bonds rose to its highest level since October 2023."
+    },
+    {
+      "id": "te:markets:587624",
+      "time": "2026-09-29 17:06:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rubber Futures Ease — Rubber futures traded around 250 US cents per kilogram, slightly retreating from their highest level since early 2013, as profit-taking and weak tyre demand weighed on prices. Chinese tyre manufacturers extended production halts amid persistent losses, reducing short-term demand for natural rubber as factories cut tyre output ahead of the holidays. Nevertheless, losses were limited by supply concerns, with Thailand’s natural rubber exports down 10% year-on-year to 1.62 million tonnes in the first eight months of 2026. Supply recovery outside China has also remained sluggish after prolonged rainfall disrupted major producing areas, while warehouse receipts for domestic rubber futures continued to decline and remained below year-ago levels. Rising oil prices also offered some support as they lifted synthetic rubber costs and boosted demand for natural rubber as a substitute."
+    },
+    {
+      "id": "5118277",
+      "time": "2026-09-29 17:06:06",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通對中際旭創的多頭持倉比例增至14.67%】據香港交易所披露，摩根大通（JPMorgan）對中際旭創股份有限公司 - H股的多頭持倉比例於2026年9月23日從14.59%增至14.67%。"
+    },
+    {
+      "id": "mkt:01a0ec69-de31-7338-ab0a-76be7a5d9738",
+      "time": "2026-09-29 17:05:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "UK 10-year gilt auction average yield 5.383%, highest 10-year auction yield since 1999."
+    },
+    {
+      "id": "5118276",
+      "time": "2026-09-29 17:05:40",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發展改革委專題釋出會聚焦推進服務業擴能提質】國家發展改革委29日召開專題新聞釋出會，介紹推進服務業擴能提質有關情況。國家發展改革委產業發展司副司長李春芳表示，國家發展改革委積極發揮服務業發展部際聯席會議制度作用，會同40個部門梳理確定2026、2027年131項重點任務。半年來，有關部門已出臺81項配套舉措，超過六成的重點工作取得明顯進展。全國已有27個省份召開省級服務業大會，印發服務業擴能提質檔案。（新華社）"
+    },
+    {
+      "id": "5118275",
+      "time": "2026-09-29 17:05:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債拍賣平均收益率為5.383%，為1999年以來10年期國債拍賣最高收益率。"
+    },
+    {
+      "id": "5118274",
+      "time": "2026-09-29 17:05:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI將在DevDay上推出常駐AI代理。"
+    },
+    {
+      "id": "5118273",
+      "time": "2026-09-29 17:05:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "馬來KLCI綜合指數收盤下跌1.6%，報1643.96點。"
+    },
+    {
+      "id": "5118272",
+      "time": "2026-09-29 17:04:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文金融服務軟體公司收到稅務處罰令，被處以2930萬盧比罰款。"
+    },
     {
       "id": "5118271",
       "time": "2026-09-29 17:04:28",
