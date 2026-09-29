@@ -1,7 +1,47 @@
 {
-  "updated": "2026-09-30 04:27:56",
-  "count": 11849,
+  "updated": "2026-09-30 04:31:42",
+  "count": 11851,
   "items": [
+    {
+      "id": "mkt:01a0eedd-2cd3-7338-ab1d-13e1e3d92339",
+      "time": "2026-09-30 04:31:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said Canada will invest an additional C$1.2 bln to protect marine life and strengthen frontline conservation enforcement."
+    },
+    {
+      "id": "5119496",
+      "time": "2026-09-30 04:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：該投資將助力改進海床測繪、提升海上交通監測及天氣預報能力。"
+    },
+    {
+      "id": "5119495",
+      "time": "2026-09-30 04:30:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：加拿大計劃在船舶交通量增長的情況下，仍將溫哥華周邊海域的海洋噪音維持在2023年的水平。"
+    },
+    {
+      "id": "5119494",
+      "time": "2026-09-30 04:29:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼宣佈，加拿大將追加投資12億加元，用於保護海洋生物並強化一線保護執法工作。"
+    },
+    {
+      "id": "5119493",
+      "time": "2026-09-30 04:27:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：以色列總理內塔尼亞胡此前訪問阿聯酋，意在勸說阿布扎比參與對葉門的戰事。"
+    },
     {
       "id": "5119489",
       "time": "2026-09-30 04:26:26",
@@ -108366,42 +108406,6 @@
         "其他"
       ],
       "text": "伊拉克石油部長：從南部油田經由陸路向基爾庫克輸送原油，有望使經土耳其傑伊漢港的原油出口量提升至每日 60 萬桶以上。"
-    },
-    {
-      "id": "te:markets:585804",
-      "time": "2026-09-23 04:30:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Extends Losses on US-Iran Diplomacy Hopes — Crude oil fell below $90 a barrel on Tuesday, extending losses into a 5th session after President Trump said US officials had a very good meeting with Iranian envoys and that there was a lot of momentum toward a deal. In his UN address, Trump said he had a “big decision” to make on whether to seek a negotiated deal with Iran or “annihilate the Islamic Republic,” adding that he believed a deal would follow the election. Iran’s proposal has been conveyed to the US, according to a senior Iranian government official. It includes the resumption of talks aimed at permanently ending the hostilities. If the US were to take steps toward ending the blockade, which has been crippling Iranian oil exports, Iran would be prepared to reopen the Strait of Hormuz within seven days, the official said. Meanwhile, Saudi Arabia is reportedly preparing to restart its critical East-West pipeline, aiming to restore meaningful flows by Saturday. The pipeline was reportedly already pumping at a low rate."
-    },
-    {
-      "id": "mkt:01a0cacd-fb0b-7118-8650-9bfe299c9314",
-      "time": "2026-09-23 04:28:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact mixed",
-        "US10Y",
-        "DXY"
-      ],
-      "text": "New York Fed System Open Market Account manager Perli said the Federal Reserve's reserve management purchases (RMP) are not a preset path."
-    },
-    {
-      "id": "te:markets:585802",
-      "time": "2026-09-23 04:27:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Oil Extends Losses on US-Iran Diplomacy Hopes — Crude oil fell below $90 a barrel on Tuesday, extending losses into a fifth session after US President Donald Trump said the US held three-hour talks with Iran on the sidelines of the UN General Assembly. In his UN address, Trump said he had a “big decision” to make on whether to seek a negotiated deal with Iran or “annihilate the Islamic Republic,” adding that he believed a deal would follow the election. Iran’s proposal has been conveyed to the US, according to a senior Iranian government official. It includes the resumption of talks aimed at permanently ending the hostilities. If the US were to take steps toward ending the blockade, which has been crippling Iranian oil exports, Iran would be prepared to reopen the Strait of Hormuz within seven days, the official said. Meanwhile, Saudi Arabia is reportedly preparing to restart its critical East-West pipeline, aiming to restore meaningful flows by Saturday. The pipeline was reportedly already pumping at a low rate."
     }
   ]
 }
