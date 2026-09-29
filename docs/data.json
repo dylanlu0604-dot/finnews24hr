@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-29 23:18:10",
-  "count": 11897,
+  "updated": "2026-09-29 23:22:04",
+  "count": 11884,
   "items": [
+    {
+      "id": "te:markets:587778",
+      "time": "2026-09-29 23:18:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in France Hit 18-week Low — FR40 decreased to 8030.00 Index Points, the lowest since May 2026. Over the past 4 weeks, France Stock Market Index (FR40) lost 3.59%, and in the last 12 months, it increased 1.76%."
+    },
+    {
+      "id": "te:markets:587777",
+      "time": "2026-09-29 23:18:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Home Depot Stock Price Hits 34-month Low — Home Depot shares decreased to 288.79 USD, the lowest since November 2023. Over the past 4 weeks, Home Depot lost 11.88%, and in the last 12 months, it decreased 28.71%."
+    },
+    {
+      "id": "5119115",
+      "time": "2026-09-29 23:18:19",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【蘋果新任 CEO 特努斯啟動深度改革：精簡架構、提速產品迭代】蘋果公司執行長約翰・特努斯上任僅數週，便開始對這家 iPhone 製造商進行改革，力求加快產品研發、拓寬裝置品類，搭建更精簡、重心向工程研發傾斜的組織。知情人士透露，目前考慮中的初步構想包括：不再嚴格遵循傳統的春秋季產品釋出節奏，裁撤部分中層管理崗位，減少工程師和高層管理者之間的層級隔閡。知情人士稱，特努斯表示，要在人工智慧時代保持競爭力，蘋果必須更快推出產品，提升試錯創新的力度。知情人士表示，降本工作已經啟動。由於服務業務增長放緩，特努斯同時在尋找新的收入渠道，並探索如何從現有產品中賺取更多收益。蘋果規劃了龐大的明年產品管線，包括搭載攝像頭的 AirPods、首款智慧眼鏡，以及為紀念 iPhone 誕生 20 週年而重新設計的 iPhone。為落地這一系列新品，特努斯正在重新考量產品釋出時機。特努斯希望蘋果可以全年更頻繁地推出產品。"
+    },
+    {
+      "id": "mkt:01a0edbe-2d80-7338-ab14-51e0fc7cc927",
+      "time": "2026-09-29 23:17:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said that based on available evidence Mujtaba Khamenei remains alive. Iranian officials opposed attacks on ships but failed to persuade hardliners."
+    },
     {
       "id": "mkt:01a0edbd-8eed-7338-ab14-4d86489d02a5",
       "time": "2026-09-29 23:16:58",
@@ -108554,160 +108599,6 @@
         "宏觀"
       ],
       "text": "法國經濟財政部長：我們將擴大援助規模，重點幫扶最需要援助的群體。"
-    },
-    {
-      "id": "mkt:01a0c9b5-b237-7118-8649-b653fb76c356",
-      "time": "2026-09-22 23:22:03",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bearish"
-      ],
-      "text": "HSBC cuts Netflix (NFLX.O) PT to $76 from $96."
-    },
-    {
-      "id": "5108258",
-      "time": "2026-09-22 23:21:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "PayPal：與Meta合作，使用Muse代理進行購物和結賬。"
-    },
-    {
-      "id": "5108257",
-      "time": "2026-09-22 23:21:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國財長：未來兩個月燃料供應無憂，但須繼續監控局勢惡化風險。"
-    },
-    {
-      "id": "5108256",
-      "time": "2026-09-22 23:20:54",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "法國財政部長：今夏法國售出的汽車中，40%為電動汽車。"
-    },
-    {
-      "id": "mkt:01a0c9b4-8dd2-7118-8649-aeb0a1b61a85",
-      "time": "2026-09-22 23:20:48",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "French finance minister Lescure said 40% of vehicles sold in France this summer were electric vehicles (EVs)."
-    },
-    {
-      "id": "5108255",
-      "time": "2026-09-22 23:20:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "PayPal宣佈與Meta達成合作。"
-    },
-    {
-      "id": "mkt:01a0c9b3-c721-7118-8649-a7fac9758714",
-      "time": "2026-09-22 23:19:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "PYPL.O",
-        "Impact bullish",
-        "META.O"
-      ],
-      "text": "PayPal (PYPL.O) said it will partner with Meta."
-    },
-    {
-      "id": "5108254",
-      "time": "2026-09-22 23:19:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜Leo與烏茲別克電信運營商Uztelecom達成合作，將衛星網際網路引入該國偏遠地區。"
-    },
-    {
-      "id": "mkt:01a0c9b3-70ef-7118-8649-9c1435af8b52",
-      "time": "2026-09-22 23:19:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceXAI reports Grok Bot agent user count rose 24% week-on-week."
-    },
-    {
-      "id": "5108253",
-      "time": "2026-09-22 23:19:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：查封50個網站，禁用150餘個支援EvilToken網路犯罪服務的域名。"
-    },
-    {
-      "id": "mkt:01a0c9b3-69e7-7118-8649-94c47dc368d9",
-      "time": "2026-09-22 23:19:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Trump says US will call artificial intelligence \"super intelligence\" in government documents】President Trump told the United Nations General Assembly on Tuesday that US government documents will henceforth use \"super intelligence\" instead of \"artificial intelligence.\" He reiterated his prior comment that \"AI warnings are a scam\" and said he would not \"stifle\" development he expects to exceed the Industrial Revolution in scale."
-    },
-    {
-      "id": "5108252",
-      "time": "2026-09-22 23:19:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：已破壞EvilTokens網路犯罪平臺，該平臺關聯超1萬家機構的1200多個遭入侵電子郵箱。"
-    },
-    {
-      "id": "mkt:01a0c9b3-28cc-7118-8649-8c1d9e05f967",
-      "time": "2026-09-22 23:19:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "France's finance minister said there is no fuel shortage risk over the next two months but the situation must continue to be monitored for signs of deterioration."
-    },
-    {
-      "id": "5108251",
-      "time": "2026-09-22 23:19:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceXAI：Grok Bot代理首月使用者突破40萬。"
-    },
-    {
-      "id": "5108250",
-      "time": "2026-09-22 23:18:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【千億航天SY-300FF液體火箭發動機評審立項】據千億航天訊息，9月22日，千億航天300噸級全流量分級燃燒液氧甲烷火箭發動機“SY（石葉）-300FF”立項評審會議召開。會上，來自國內主流液體火箭發動機相關專家組成專項評審組，評審組聽取了千億航天所作的《SY-300FF發動機立項報告》並進行了質詢，經討論形成意見如下：報告從行業背景、技術指標、研製進度、可行性分析、人力裝置保障、核心關鍵技術等方面論述了SY-300FF發動機的總體技術指標及要求。評審組同意立項，可以開展後續工作。"
-    },
-    {
-      "id": "mkt:01a0c9b2-ba01-7118-8649-80992fb3ef73",
-      "time": "2026-09-22 23:18:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qianyi Aerospace SY-300FF liquid rocket engine passes project review】On Sept. 22, Qianyi Aerospace held a project review for the SY (Shiye)-300FF, a 300‑ton‑class LOx‑methane full‑flow staged‑combustion rocket engine. A panel of domestic liquid‑rocket experts vetted the engine’s technical specifications, development schedule, feasibility, manpower and equipment plans, and core technologies, and agreed to approve the project to proceed to follow‑on development."
-    },
-    {
-      "id": "5108249",
-      "time": "2026-09-22 23:18:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "PAYPAL股價迅速上漲3.7%，創下盤中新高。"
     }
   ]
 }

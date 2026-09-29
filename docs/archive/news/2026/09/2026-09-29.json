@@ -1,7 +1,52 @@
 {
   "date": "2026-09-29",
-  "count": 2296,
+  "count": 2300,
   "items": [
+    {
+      "id": "te:markets:587778",
+      "time": "2026-09-29 23:18:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in France Hit 18-week Low — FR40 decreased to 8030.00 Index Points, the lowest since May 2026. Over the past 4 weeks, France Stock Market Index (FR40) lost 3.59%, and in the last 12 months, it increased 1.76%."
+    },
+    {
+      "id": "te:markets:587777",
+      "time": "2026-09-29 23:18:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Home Depot Stock Price Hits 34-month Low — Home Depot shares decreased to 288.79 USD, the lowest since November 2023. Over the past 4 weeks, Home Depot lost 11.88%, and in the last 12 months, it decreased 28.71%."
+    },
+    {
+      "id": "5119115",
+      "time": "2026-09-29 23:18:19",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【蘋果新任 CEO 特努斯啟動深度改革：精簡架構、提速產品迭代】蘋果公司執行長約翰・特努斯上任僅數週，便開始對這家 iPhone 製造商進行改革，力求加快產品研發、拓寬裝置品類，搭建更精簡、重心向工程研發傾斜的組織。知情人士透露，目前考慮中的初步構想包括：不再嚴格遵循傳統的春秋季產品釋出節奏，裁撤部分中層管理崗位，減少工程師和高層管理者之間的層級隔閡。知情人士稱，特努斯表示，要在人工智慧時代保持競爭力，蘋果必須更快推出產品，提升試錯創新的力度。知情人士表示，降本工作已經啟動。由於服務業務增長放緩，特努斯同時在尋找新的收入渠道，並探索如何從現有產品中賺取更多收益。蘋果規劃了龐大的明年產品管線，包括搭載攝像頭的 AirPods、首款智慧眼鏡，以及為紀念 iPhone 誕生 20 週年而重新設計的 iPhone。為落地這一系列新品，特努斯正在重新考量產品釋出時機。特努斯希望蘋果可以全年更頻繁地推出產品。"
+    },
+    {
+      "id": "mkt:01a0edbe-2d80-7338-ab14-51e0fc7cc927",
+      "time": "2026-09-29 23:17:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said that based on available evidence Mujtaba Khamenei remains alive. Iranian officials opposed attacks on ships but failed to persuade hardliners."
+    },
     {
       "id": "mkt:01a0edbd-8eed-7338-ab14-4d86489d02a5",
       "time": "2026-09-29 23:16:58",
