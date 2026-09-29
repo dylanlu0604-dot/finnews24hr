@@ -1,7 +1,39 @@
 {
-  "updated": "2026-09-30 04:54:23",
+  "updated": "2026-09-30 04:58:10",
   "count": 11858,
   "items": [
+    {
+      "id": "te:markets:587837",
+      "time": "2026-09-30 04:57:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Yield Drops on Labor Market Cooling Signs — Brazil’s 10-year government bond yield fell to around 14.13% in late September after August labor data. Brazil created 165,827 formal jobs, above forecasts of 95,700 and up from 58,568 in July, the highest result since March. Unemployment stood at 5.3% in the rolling quarter ended in August, unchanged from the previous quarter and matching expectations. Despite strong payrolls, the marginal reading remains more moderate on a seasonally adjusted basis, while job creation remains weaker than in 2024 and early 2025. The data is consistent with gradual labor-market cooling and expectations for GDP to be near flat in 3Q26, without an abrupt deterioration. As such, it did not dent expectations for continued Selic easing. The move also came as new polls reinforced expectations for a tight presidential race few days ahead of the first round."
+    },
+    {
+      "id": "mkt:01a0eef4-ccfc-7338-ab1d-d41b8f6d01da",
+      "time": "2026-09-30 04:56:55",
+      "tags": [
+        "MKT News",
+        "PSKY.O",
+        "Impact bullish"
+      ],
+      "text": "Paramount (PSKY.O) drew $109 bln of demand for a high-grade bond offering."
+    },
+    {
+      "id": "mkt:01a0eef3-fb4a-7338-ab1d-c88086907e0a",
+      "time": "2026-09-30 04:56:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources said the Trump administration plans to announce a roughly $54 billion Alaska liquefied natural gas (LNG) project funded through arrangements under the US-South Korea strategic investment agreement framework. The LNG project is part of South Korea's previously announced $200 billion investment plan."
+    },
     {
       "id": "5119520",
       "time": "2026-09-30 04:53:48",
@@ -108421,32 +108453,6 @@
         "國際"
       ],
       "text": "美國國務院：蘇丹武裝部隊、快速支援部隊及其各自領導人，均不代表蘇丹的合法政權。"
-    },
-    {
-      "id": "5108582",
-      "time": "2026-09-23 04:57:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委內格爾：可以保證歐洲央行會保持警惕。不會允許第二輪通脹效應顯現。"
-    },
-    {
-      "id": "5108581",
-      "time": "2026-09-23 04:55:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國緬因州參議員Collins、King針對家庭取暖油的（庫存）釋放問題致函總統特朗普。他們希望，美國政府能面向西北地區釋放家用取暖油儲備。"
-    },
-    {
-      "id": "5108580",
-      "time": "2026-09-23 04:54:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委內格爾：歐洲央行利率仍處於中性區間，不排除歐洲央行將利率小幅上調至限制性區間。"
     }
   ]
 }
