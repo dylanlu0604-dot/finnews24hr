@@ -1,7 +1,53 @@
 {
   "date": "2026-09-30",
-  "count": 460,
+  "count": 465,
   "items": [
+    {
+      "id": "mkt:01a0ef09-d516-7338-ab1d-f22d09560496",
+      "time": "2026-09-30 05:19:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios reported that President Trump said U.S. Director of National Intelligence Jay Clayton would be a suitable AI chief."
+    },
+    {
+      "id": "5119533",
+      "time": "2026-09-30 05:19:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（國家情報總監）傑伊·克萊頓將是人工智慧主管的合適人選。"
+    },
+    {
+      "id": "5119532",
+      "time": "2026-09-30 05:19:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮釋出人工智慧（AI）行政令。"
+    },
+    {
+      "id": "te:markets:587839",
+      "time": "2026-09-30 05:17:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Weakens as GDP Growth Stalls — The Canadian dollar weakened slightly to around 1.42 per US dollar in September, its lowest level in about 12 weeks, as stalled domestic growth and US dollar strength kept the loonie under pressure. Advance estimates showed real GDP increased 0.2% in August, with gains in mining and quarrying and retail trade partly offset by a decline in oil and gas extraction. GDP was essentially unchanged in July, ending a three-month run of growth. The result was in line with expectations but highlighted a weaker start to the third quarter. Soft GDP reinforced expectations for the Bank of Canada to hold rates. Meanwhile, the US dollar climbed against a basket of major currencies as markets increased bets on further Federal Reserve rate increases. Expectations for a widening US-Canada interest-rate differential are reinforcing the greenback’s advantage over the loonie."
+    },
+    {
+      "id": "5119531",
+      "time": "2026-09-30 05:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局調查後，兩名涉及跨國假冒藥品分銷團伙的印度籍公民被起訴。"
+    },
     {
       "id": "mkt:01a0ef06-68c1-7338-ab1d-eb40ff1452b9",
       "time": "2026-09-30 05:16:09",
