@@ -1,7 +1,89 @@
 {
-  "updated": "2026-09-30 00:09:44",
-  "count": 11856,
+  "updated": "2026-09-30 00:13:35",
+  "count": 11858,
   "items": [
+    {
+      "id": "5119160",
+      "time": "2026-09-30 00:12:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（9月29日）歐市尾盤，英國10年期國債收益率跌1.2個基點，報5.410%，全天處於下跌狀態，呈現出W形走勢。兩年期英債收益率跌1.4個基點，報4.913%，北京時間20:33曾跌至4.855%。30年期英債收益率漲0.7個基點，50年期英債收益率漲2.4個基點。2/10年期英債收益率利差漲0.262個基點，報+49.594個基點。"
+    },
+    {
+      "id": "5119159",
+      "time": "2026-09-30 00:12:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：OpenAI 將推出多款優秀的新模型。"
+    },
+    {
+      "id": "te:markets:587798",
+      "time": "2026-09-30 00:12:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.09% Higher — The FTSE MIB Index gained 45 points or 0.09 percent on Tuesday to close at 51805 points. Gains were led by Technoprobe (8.20%), Fincantieri (4.56%) and Avio (2.85%). Biggest losers were Telecom Italia (-4.48%), Stellantis N.V. (-4.13%) and Poste Italiane (-3.40%)."
+    },
+    {
+      "id": "5119158",
+      "time": "2026-09-30 00:11:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：出於高度謹慎，該模型被放棄。"
+    },
+    {
+      "id": "te:markets:587797",
+      "time": "2026-09-30 00:11:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes Marginally Higher — Frankfurt's DAX 40 gave back much of its advance to close marginally up at 25,375 on Tuesday, while its European peers were mixed. Investors remained cautious amid lingering uncertainty over the Middle East, despite lower oil prices and renewed strength in technology stocks. They also braced for a deluge of economic data due tomorrow, including German inflation figures that could influence the ECB's next moves. The tech sector outperformed amid expectations that continued heavy AI investment will support long-term chip demand, while enthusiasm also grew ahead of the upcoming White House AI summit. Chipmaker Infineon Technologies and AI-related Siemens Energy climbed 4.6% and 3.7%, respectively, Industrials also gained, benefiting from lower oil prices. On the other hand, pharma & healthcare, telecom, utilities, autos and chemical companies were the most pressured. Fresenius SE & Co (-4.9%), Bayer (-3.7%) and Fresenius Medical Care (-3.2%) posted the biggest losses."
+    },
+    {
+      "id": "te:markets:587796",
+      "time": "2026-09-30 00:10:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.10% Higher — The DAX Index went up by 25 points or 0.10 percent on Tuesday to close at 25399 points. The rise was led by Infineon (4.42%), Siemens Energy (3.51%) and Vonovia (1.96%). On the downside, the weakerst performers were Fresenius (-4.87%), Bayer (-3.78%) and Fresenius Medical Care (-3.16%)."
+    },
+    {
+      "id": "te:markets:587793",
+      "time": "2026-09-30 00:09:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.53% Lower — The CAC 40 Index fell 43 points or 0.53 percent on Tuesday to close at 8036 points. Leading the losses are Stellantis NV (-3.88%), Eurofins Scientific SE (-2.95%) and ArcelorMittal (-2.41%). Top gainers were Legrand (5.93%), STMicroelectronics (2.35%) and Bureau Veritas (1.88%)."
+    },
+    {
+      "id": "mkt:01a0eded-902f-7338-ab15-f96c70e203be",
+      "time": "2026-09-30 00:09:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "White House National Economic Council Director HASSETT said \"we are still digesting\" the follow-on effects of Biden-era COVID spending."
+    },
     {
       "id": "te:markets:587790",
       "time": "2026-09-30 00:08:06",
@@ -108396,71 +108478,6 @@
         "Importance 1"
       ],
       "text": "HCA Stock Price Hits 4-week High — HCA shares increased to 436.32 USD, the highest since August 2026. Over the past 4 weeks, HCA gained 1.58%, and in the last 12 months, it increased 6.49%."
-    },
-    {
-      "id": "mkt:01a0c9e4-888d-7118-864b-1a1c42089e0b",
-      "time": "2026-09-23 00:13:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S.-Denmark-Greenland agreement permits the U.S. to establish a \"Golden Dome\" defense system on Greenland."
-    },
-    {
-      "id": "mkt:01a0c9e4-418d-7118-864b-1668a74fcd66",
-      "time": "2026-09-23 00:12:54",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Market sources say Meta Platforms (META.O) is testing a \"live concierge\" service for its newly launched personal assistant MUSE."
-    },
-    {
-      "id": "te:markets:585780",
-      "time": "2026-09-23 00:12:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.53% Lower — The FTSE MIB Index dropped 276 points or 0.53 percent on Tuesday to close at 52096 points. Losses were led by Poste Italiane (-4.39%), Finecobank (-3.69%) and Telecom Italia (-3.63%). Offsetting the fall, top gainers were STMicroelectronics (4.47%), Prysmian (2.72%) and Davide Campari-Milano (1.95%)."
-    },
-    {
-      "id": "5108337",
-      "time": "2026-09-23 00:11:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭外交部長：將烏斯馬諾夫和弗裡德曼移出制裁名單的決定可恥且毫無道理。"
-    },
-    {
-      "id": "te:markets:585779",
-      "time": "2026-09-23 00:11:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.01% Higher — The DAX Index went up by 4 points or 0.01 percent on Tuesday to close at 25579 points. The rise was led by Zalando (4.13%), Infineon (2.93%) and Symrise (2.72%). On the downside, the weakerst performers were Allianz (-3.35%), Rheinmetall (-2.33%) and Deutsche Bank (-1.66%)."
-    },
-    {
-      "id": "te:markets:585778",
-      "time": "2026-09-23 00:10:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.20% Higher — The CAC 40 Index rose 16 points or 0.20 percent on Tuesday to close at 8155 points. Leading the gains are STMicroelectronics (4.82%), Bureau Veritas (2.39%) and Essilor (2.32%). Top losers were Orange (-3.76%), AXA (-2.05%) and Societe Generale (-1.75%)."
     }
   ]
 }

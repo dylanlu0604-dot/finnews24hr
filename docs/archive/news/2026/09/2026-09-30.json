@@ -1,7 +1,89 @@
 {
   "date": "2026-09-30",
-  "count": 17,
+  "count": 25,
   "items": [
+    {
+      "id": "5119160",
+      "time": "2026-09-30 00:12:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（9月29日）歐市尾盤，英國10年期國債收益率跌1.2個基點，報5.410%，全天處於下跌狀態，呈現出W形走勢。兩年期英債收益率跌1.4個基點，報4.913%，北京時間20:33曾跌至4.855%。30年期英債收益率漲0.7個基點，50年期英債收益率漲2.4個基點。2/10年期英債收益率利差漲0.262個基點，報+49.594個基點。"
+    },
+    {
+      "id": "5119159",
+      "time": "2026-09-30 00:12:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：OpenAI 將推出多款優秀的新模型。"
+    },
+    {
+      "id": "te:markets:587798",
+      "time": "2026-09-30 00:12:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.09% Higher — The FTSE MIB Index gained 45 points or 0.09 percent on Tuesday to close at 51805 points. Gains were led by Technoprobe (8.20%), Fincantieri (4.56%) and Avio (2.85%). Biggest losers were Telecom Italia (-4.48%), Stellantis N.V. (-4.13%) and Poste Italiane (-3.40%)."
+    },
+    {
+      "id": "5119158",
+      "time": "2026-09-30 00:11:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI執行長奧特曼：出於高度謹慎，該模型被放棄。"
+    },
+    {
+      "id": "te:markets:587797",
+      "time": "2026-09-30 00:11:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes Marginally Higher — Frankfurt's DAX 40 gave back much of its advance to close marginally up at 25,375 on Tuesday, while its European peers were mixed. Investors remained cautious amid lingering uncertainty over the Middle East, despite lower oil prices and renewed strength in technology stocks. They also braced for a deluge of economic data due tomorrow, including German inflation figures that could influence the ECB's next moves. The tech sector outperformed amid expectations that continued heavy AI investment will support long-term chip demand, while enthusiasm also grew ahead of the upcoming White House AI summit. Chipmaker Infineon Technologies and AI-related Siemens Energy climbed 4.6% and 3.7%, respectively, Industrials also gained, benefiting from lower oil prices. On the other hand, pharma & healthcare, telecom, utilities, autos and chemical companies were the most pressured. Fresenius SE & Co (-4.9%), Bayer (-3.7%) and Fresenius Medical Care (-3.2%) posted the biggest losses."
+    },
+    {
+      "id": "te:markets:587796",
+      "time": "2026-09-30 00:10:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.10% Higher — The DAX Index went up by 25 points or 0.10 percent on Tuesday to close at 25399 points. The rise was led by Infineon (4.42%), Siemens Energy (3.51%) and Vonovia (1.96%). On the downside, the weakerst performers were Fresenius (-4.87%), Bayer (-3.78%) and Fresenius Medical Care (-3.16%)."
+    },
+    {
+      "id": "te:markets:587793",
+      "time": "2026-09-30 00:09:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.53% Lower — The CAC 40 Index fell 43 points or 0.53 percent on Tuesday to close at 8036 points. Leading the losses are Stellantis NV (-3.88%), Eurofins Scientific SE (-2.95%) and ArcelorMittal (-2.41%). Top gainers were Legrand (5.93%), STMicroelectronics (2.35%) and Bureau Veritas (1.88%)."
+    },
+    {
+      "id": "mkt:01a0eded-902f-7338-ab15-f96c70e203be",
+      "time": "2026-09-30 00:09:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "White House National Economic Council Director HASSETT said \"we are still digesting\" the follow-on effects of Biden-era COVID spending."
+    },
     {
       "id": "te:markets:587790",
       "time": "2026-09-30 00:08:06",
