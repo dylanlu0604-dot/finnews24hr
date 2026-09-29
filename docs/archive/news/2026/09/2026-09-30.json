@@ -1,7 +1,37 @@
 {
   "date": "2026-09-30",
-  "count": 407,
+  "count": 410,
   "items": [
+    {
+      "id": "mkt:01a0eee3-04f3-7338-ab1d-36bb7dc19052",
+      "time": "2026-09-30 04:37:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Trump signs \"ethically binding\" AI document, renames AI to Super Intelligence (SI)】President Trump said Tuesday he signed a document with US technology executives in Washington described as \"ethically binding\" on artificial intelligence and likened it to \"in some ways like a constitution,\" saying it could provide a protective framework for AI development. He said the administration is considering creating an oversight committee of about 10 members to supervise AI development, and that he has formally renamed artificial intelligence (AI) as Super Intelligence (SI). Trump has previously said the US does not need new AI-specific regulation and opposed a global scheme to control AI at the UN General Assembly."
+    },
+    {
+      "id": "5119504",
+      "time": "2026-09-30 04:36:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉國民議會任命11人小組負責法官遴選。"
+    },
+    {
+      "id": "te:markets:587833",
+      "time": "2026-09-30 04:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.25% Lower — The Dow Jones Index dropped 131 points or 0.25 percent on Tuesday to close at 51351 points. Losses were led by Apple (-2.66%), Walmart (-1.79%) and J&J (-1.57%). Offsetting the fall, top gainers were Boeing (1.97%), Amgen (1.32%) and Caterpillar (0.86%)."
+    },
     {
       "id": "5119499",
       "time": "2026-09-30 04:33:52",

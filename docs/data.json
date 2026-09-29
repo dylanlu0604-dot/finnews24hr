@@ -1,7 +1,37 @@
 {
-  "updated": "2026-09-30 04:35:29",
+  "updated": "2026-09-30 04:39:15",
   "count": 11847,
   "items": [
+    {
+      "id": "mkt:01a0eee3-04f3-7338-ab1d-36bb7dc19052",
+      "time": "2026-09-30 04:37:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Trump signs \"ethically binding\" AI document, renames AI to Super Intelligence (SI)】President Trump said Tuesday he signed a document with US technology executives in Washington described as \"ethically binding\" on artificial intelligence and likened it to \"in some ways like a constitution,\" saying it could provide a protective framework for AI development. He said the administration is considering creating an oversight committee of about 10 members to supervise AI development, and that he has formally renamed artificial intelligence (AI) as Super Intelligence (SI). Trump has previously said the US does not need new AI-specific regulation and opposed a global scheme to control AI at the UN General Assembly."
+    },
+    {
+      "id": "5119504",
+      "time": "2026-09-30 04:36:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉國民議會任命11人小組負責法官遴選。"
+    },
+    {
+      "id": "te:markets:587833",
+      "time": "2026-09-30 04:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.25% Lower — The Dow Jones Index dropped 131 points or 0.25 percent on Tuesday to close at 51351 points. Losses were led by Apple (-2.66%), Walmart (-1.79%) and J&J (-1.57%). Offsetting the fall, top gainers were Boeing (1.97%), Amgen (1.32%) and Caterpillar (0.86%)."
+    },
     {
       "id": "5119499",
       "time": "2026-09-30 04:33:52",
@@ -108324,40 +108354,6 @@
         "其他"
       ],
       "text": "伊拉克石油部長：伊拉克正在研究透過卡車向土耳其出口原油的方案。"
-    },
-    {
-      "id": "mkt:01a0cad6-b5fa-7118-8650-d55c2c91d830",
-      "time": "2026-09-23 04:37:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian outlet Fars News reports Saudi Arabia launched missile strikes on northern Yemen."
-    },
-    {
-      "id": "5108576",
-      "time": "2026-09-23 04:37:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古特雷斯聯大最後講話呼籲停火止戰】聯合國秘書長古特雷斯9月22日在第81屆聯大會議上發表其任內最後一次講話，敦促世界各國領導人結束戰爭、監管人工智慧、關注氣候變化，並全面改革正艱難應對日益嚴峻的全球挑戰的聯合國機構。古特雷斯指出，當前全球地緣政治分歧加深，不平等加劇，氣候危機和人工智慧帶來的挑戰不斷上升，世界的“斷層正在擴大”。與此同時，全球權力格局正經歷深刻變化。在中東問題上，古特雷斯呼籲各國領導人在聯大高階別會議週期間推進“降級與對話”。他強調，“戰鬥必須停止，人道主義援助准入必須暢通，航行權利和自由必須根據國際法完全恢復”。 (CCTV國際時訊)"
-    },
-    {
-      "id": "mkt:01a0cad4-b6ea-7118-8650-cc4401f4ff13",
-      "time": "2026-09-23 04:35:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "SPX",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【New York Fed official: policy toolkit working well; Treasury purchases conditional on market need】New York Fed System Open Market Account manager Perli said the Fed’s monetary policy toolkit remains highly effective. The Fed has maintained strong interest-rate control and kept reserves ample, and its Treasury purchases have been operating smoothly. Recent liquidity injections are currently paused but were not a preset path; the Fed could resume Treasury purchases if it judges market liquidity needs them. Reserve management purchases (RMP) of Treasuries will be adjusted based on market liquidity conditions."
     }
   ]
 }
