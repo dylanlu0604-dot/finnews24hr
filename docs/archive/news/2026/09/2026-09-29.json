@@ -1,7 +1,116 @@
 {
   "date": "2026-09-29",
-  "count": 1162,
+  "count": 1175,
   "items": [
+    {
+      "id": "mkt:01a0ebd4-cb12-7338-ab04-c9bd4eb05bab",
+      "time": "2026-09-29 14:23:06",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "CSI 500 index futures (IC) most-active contract was up 1.00% intraday at 7,327.8."
+    },
+    {
+      "id": "mkt:01a0ebd4-953b-7338-ab04-c4a759d042b0",
+      "time": "2026-09-29 14:22:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said Q3 CPI will only confirm what we already know."
+    },
+    {
+      "id": "5117898",
+      "time": "2026-09-29 14:22:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳地產富豪陳紅天被限制高消費 曾多年入選胡潤百富榜】記者注意到，近日，中國執行資訊公開網多條限制消費令顯示，祥祺集團創始人陳紅天因多起債務糾紛被法院採取限制高消費措施，其關聯企業同步新增被執行人資訊。（南都）"
+    },
+    {
+      "id": "mkt:01a0ebd4-3792-7338-ab04-b86cde6c574d",
+      "time": "2026-09-29 14:22:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said attention is needed to quarterly core inflation remaining around 0.6%."
+    },
+    {
+      "id": "5117897",
+      "time": "2026-09-29 14:21:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中證500股指期貨(IC)主力合約日內漲超1%】中證500股指期貨(IC)主力合約日內漲超1%，現報7327.8點。"
+    },
+    {
+      "id": "mkt:01a0ebd2-d1f7-7338-ab04-b55b604aadfe",
+      "time": "2026-09-29 14:20:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said today's meeting discussed arguments for keeping the cash rate unchanged."
+    },
+    {
+      "id": "mkt:01a0ebd2-ad1c-7338-ab04-a89dbd13d194",
+      "time": "2026-09-29 14:20:47",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Australia's S&P/ASX 200 index closed up 14.90 points, or 0.17%, at 8,694.60 on Tuesday, Sept. 29."
+    },
+    {
+      "id": "5117896",
+      "time": "2026-09-29 14:20:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）行長布洛克：今日會議討論了維持利率不變的合理性。"
+    },
+    {
+      "id": "5117895",
+      "time": "2026-09-29 14:20:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.06%，成分股中，西部超導漲5.81%，盛美上海漲5.49%，生益電子漲5.17%，芯聯整合漲4.77%。"
+    },
+    {
+      "id": "5117894",
+      "time": "2026-09-29 14:20:27",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【非美元風險受到關注，歐元兌英鎊波動率回升】隨著歐元區與英國本土風險開始牽動市場需求，對沖歐元兌英鎊匯率波動的成本升至近兩個月高點。歐元兌英鎊一月期隱含波動率上行25個基點至3.59%，為8月3日以來最高水平。該指標連續第五日走高，但整體仍處於相對低位，年內均值為3.75%。期限溢價擴大至84個基點，實際波動率維持低迷，期限溢價處在5月中旬以來區間上沿附近。一月期期權現已覆蓋英國預算案與歐洲央行政策決議兩大事件。交易員看多歐元的傾向持續增強；歐元兌英鎊風險逆轉指標升至45個基點，看漲期權溢價高於看跌期權，有望創下7月初以來最強收盤水平。"
+    },
+    {
+      "id": "mkt:01a0ebd1-db89-7338-ab04-a0710fddefea",
+      "time": "2026-09-29 14:19:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said she hopes there will be no need for the economy to enter a recession."
+    },
+    {
+      "id": "5117893",
+      "time": "2026-09-29 14:19:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美容護理板塊震盪反彈 拉芳家化封漲停】午後美容護理板塊震盪反彈，拉芳家化封漲停，潔雅股份、延江股份、錦波生物、諾邦股份、水羊股份等跟漲。訊息面上，國家統計局資料顯示，8月化妝品類消費零售額為368億元，同比增長4.9%，較7月的285億元，環比增長42.64%。"
+    },
     {
       "id": "mkt:01a0ebd1-622e-7338-ab04-9d6cbddc6338",
       "time": "2026-09-29 14:19:22",
@@ -9,6 +118,14 @@
         "MKT News"
       ],
       "text": "Reserve Bank of Australia Governor Bullock said she believes the RBA is close to the upper bound of the neutral interest-rate range."
+    },
+    {
+      "id": "5117892",
+      "time": "2026-09-29 14:19:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）行長布洛克：希望不必陷入經濟衰退。"
     },
     {
       "id": "5117891",
