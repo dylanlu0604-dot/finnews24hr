@@ -1,7 +1,90 @@
 {
-  "updated": "2026-09-29 17:43:07",
-  "count": 12258,
+  "updated": "2026-09-29 17:46:55",
+  "count": 12262,
   "items": [
+    {
+      "id": "te:economy:587648",
+      "time": "2026-09-29 17:46:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "China Current Account Surplus Revised Slightly Lower in Q2 — China recorded a current account surplus of $193.7 billion in Q2 2026, revised down from the initial estimate of $195.1 billion but up from $184.3 billion in Q1. The surplus in goods and services widened to $223.4 billion from $187.9 billion. Credits rose to $1.2146 trillion from $1.061 trillion, as higher prices for major commodities exported by China boosted turnover, while the country’s slowing economy prompted manufacturers to continue relying on overseas clients for orders. Meanwhile, debits in the goods and services account increased to $991.2 billion from $873.1 billion. This came despite a surge in oil prices triggered by the war in Iran, a major supplier to Chinese refineries, as China largely halted energy imports and drew on existing inventories. Elsewhere, the secondary income account recorded a slightly higher surplus of $63 million, compared with $38 million previously, while the primary income deficit widened to $359 million from $74 million."
+    },
+    {
+      "id": "5118365",
+      "time": "2026-09-29 17:46:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三大運營商叫停“0元購機” 免費手機的套路走到頭了？】近日，三大運營商同步按下暫停鍵：繫結消費貸款的金融分期類“0元購機”業務停止新增辦理，存量合同繼續履約，預存話費等傳統合約購機形式則不受影響。所謂金融分期購機，是使用者在獲贈手機、簽約套餐之外再籤一份消費貸款合同，貸款方為使用者本人，合約期內由運營商代償，表面零元拿機，實則被套餐和貸款雙重繫結。（央視新聞）"
+    },
+    {
+      "id": "te:markets:587647",
+      "time": "2026-09-29 17:45:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Hits 8-week Low — Cotton decreased to 80.68 USd/Lbs, the lowest since August 2026. Over the past 4 weeks, Cotton lost 13.27%, and in the last 12 months, it increased 27.74%."
+    },
+    {
+      "id": "5118364",
+      "time": "2026-09-29 17:45:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電影《復仇者聯盟4：終局之戰（加碼臻享版）》重映票房破億】據貓眼專業版資料，電影《復仇者聯盟4：終局之戰（加碼臻享版）》重映票房破億。"
+    },
+    {
+      "id": "5118363",
+      "time": "2026-09-29 17:45:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "羅格朗執行長預計，人工智慧資料中心建設不會放緩。"
+    },
+    {
+      "id": "5118362",
+      "time": "2026-09-29 17:44:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【財付通降費讓利政策再延一年】2026年9月29日，財付通宣佈，面向小微經營主體的降費讓利政策將再延續一年，有效期至2027年9月30日。根據公告，本次政策繼續覆蓋符合標準的小微企業、個體工商戶及有經營行為的個人。支付手續費方面，符合標準的經營主體可在微信支付官網公示標準的基礎上享受9折優惠，活動期間自動享受，無需額外操作。此外，財付通針對不同的行業、支付場景提供了其他優惠活動，相關主體可根據自身實際情況選擇參與。提現手續費方面，符合標準的小微企業、個體工商戶及有經營行為的個人，可根據實際經營場景享受對應的政策支援。（介面新聞 ）"
+    },
+    {
+      "id": "mkt:01a0ec8c-d06a-7338-ab0b-b3156756cf71",
+      "time": "2026-09-29 17:44:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dongguan offers up to 30,000 yuan home-buying subsidy, relaxes first-home mortgage criteria】Dongguan housing authority issued a notice introducing a home-purchase subsidy and loosening first-home commercial mortgage criteria. Buyers of newly built commercial housing in Dongguan (excluding three-limits housing and allocation-type subsidized housing such as affordable, talent and resettlement units) who sign and file the sale contract during the notice period and pay full deed tax by March 31, 2027 will receive a subsidy equal to 2% of the contract price, capped at 30,000 yuan. For commercial mortgage eligibility, a resident household that has no housing registered in its name in the town/street (or development park) where the target property sits may be treated as a first-home. Banks and other financial institutions will verify property-registration records, count housing units, and apply the corresponding housing credit policies."
+    },
+    {
+      "id": "mkt:01a0ec8c-c20a-7338-ab0b-ab42ef2c330b",
+      "time": "2026-09-29 17:44:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Nikkei reports Mitsubishi Corporation and Shell plan to double capacity at a major Canadian LNG project to boost Asian gas supply."
+    },
+    {
+      "id": "5118361",
+      "time": "2026-09-29 17:42:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太辰光：公司以1860萬元競得1.72萬㎡土地使用權】太辰光公告，公司此前審議透過購買土地使用權並投資建設專案。近日，公司參與深圳市坪山區坑梓街道G14316-0123宗地掛牌出讓活動，以人民幣1860萬元競得該地塊使用權，並簽署《成交確認書》。土地用途為工業用地，使用年期30年。"
+    },
     {
       "id": "5118360",
       "time": "2026-09-29 17:42:26",
@@ -111695,47 +111778,6 @@
         "公司"
       ],
       "text": "【翱捷科技：三季度ASIC訂單仍在增加中】9月22日，在半年度業績會上，翱捷科技董事長戴保家表示，三季度ASIC訂單仍在增加中。4G手機SoC方面，公司前期已開展大力市場拓展，產品已在多個應用場景落地，含手機終端領域，出貨實現穩定增長；5G SoC相關工作正在推進中，客戶匯入尚需多輪測試認證。"
-    },
-    {
-      "id": "5107500",
-      "time": "2026-09-22 17:46:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【渤海租賃：安徽交控受讓約4.81億股獲批並完成登記】渤海租賃公告，公司此前披露全資子公司天津渤海向安徽交控轉讓皖江金租合計約8.18億股股權，交易對價合計7億元；2026年9月18日，國家金融監督管理總局同意安徽交控受讓其中約4.81億股，且該部分已完成市場監督管理部門工商變更登記，剩餘3.37億股股權轉讓將繼續推進。"
-    },
-    {
-      "id": "5107499",
-      "time": "2026-09-22 17:45:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST龍大：控股股東部分股份將被司法拍賣】ST龍大公告，公司於 2026 年 9 月 22 日收到成都鐵路運輸中級法院送達的拍賣通知書【（2026）川 71 執 1555 號】、執行裁定書【（2026）川71 執1555 號之三】，控股股東藍潤髮展持有公司的 166,859 股股份將被司法拍賣。"
-    },
-    {
-      "id": "5107498",
-      "time": "2026-09-22 17:44:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "據港交所披露，9月22日，中國石化回購520萬股H股，斥資2,330萬元人民幣。"
-    },
-    {
-      "id": "5107497",
-      "time": "2026-09-22 17:44:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達首相批以色列停火承諾未兌現】當地時間9月20日，卡達首相兼外交大臣穆罕默德在美國紐約舉行的“卡達經濟論壇”上，批評以色列政府在加沙地帶停火協議中作出的承諾至今未兌現。穆罕默德指出，和平不僅僅在於調解或促成雙方坐到談判桌前——有時即便雙方慶祝達成了協議，最終卻仍然未能落實，加沙局勢就是一個例子。（CCTV國際時訊）"
-    },
-    {
-      "id": "5107496",
-      "time": "2026-09-22 17:43:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【亞虹醫藥：APL-2501完成I期臨床試驗首例受試者入組】亞虹醫藥(688176.SH)公告稱，公司自主研發的APL-2501在晚期實體瘤患者中開展的I/II期臨床試驗完成首例受試者入組。該藥品是公司自主研發的基於拓撲異構酶抑制劑的抗CLDN6/9抗體藥物偶聯物，可用於治療卵巢癌、非小細胞肺癌、子宮內膜癌、胃癌等多種晚期實體瘤。該研究已獲美國FDA和國家藥監局批准，本次事項對公司近期業績不會產生重大影響。"
     }
   ]
 }

@@ -1,7 +1,90 @@
 {
   "date": "2026-09-29",
-  "count": 1860,
+  "count": 1869,
   "items": [
+    {
+      "id": "te:economy:587648",
+      "time": "2026-09-29 17:46:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "China Current Account Surplus Revised Slightly Lower in Q2 — China recorded a current account surplus of $193.7 billion in Q2 2026, revised down from the initial estimate of $195.1 billion but up from $184.3 billion in Q1. The surplus in goods and services widened to $223.4 billion from $187.9 billion. Credits rose to $1.2146 trillion from $1.061 trillion, as higher prices for major commodities exported by China boosted turnover, while the country’s slowing economy prompted manufacturers to continue relying on overseas clients for orders. Meanwhile, debits in the goods and services account increased to $991.2 billion from $873.1 billion. This came despite a surge in oil prices triggered by the war in Iran, a major supplier to Chinese refineries, as China largely halted energy imports and drew on existing inventories. Elsewhere, the secondary income account recorded a slightly higher surplus of $63 million, compared with $38 million previously, while the primary income deficit widened to $359 million from $74 million."
+    },
+    {
+      "id": "5118365",
+      "time": "2026-09-29 17:46:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三大運營商叫停“0元購機” 免費手機的套路走到頭了？】近日，三大運營商同步按下暫停鍵：繫結消費貸款的金融分期類“0元購機”業務停止新增辦理，存量合同繼續履約，預存話費等傳統合約購機形式則不受影響。所謂金融分期購機，是使用者在獲贈手機、簽約套餐之外再籤一份消費貸款合同，貸款方為使用者本人，合約期內由運營商代償，表面零元拿機，實則被套餐和貸款雙重繫結。（央視新聞）"
+    },
+    {
+      "id": "te:markets:587647",
+      "time": "2026-09-29 17:45:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cotton Hits 8-week Low — Cotton decreased to 80.68 USd/Lbs, the lowest since August 2026. Over the past 4 weeks, Cotton lost 13.27%, and in the last 12 months, it increased 27.74%."
+    },
+    {
+      "id": "5118364",
+      "time": "2026-09-29 17:45:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電影《復仇者聯盟4：終局之戰（加碼臻享版）》重映票房破億】據貓眼專業版資料，電影《復仇者聯盟4：終局之戰（加碼臻享版）》重映票房破億。"
+    },
+    {
+      "id": "5118363",
+      "time": "2026-09-29 17:45:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "羅格朗執行長預計，人工智慧資料中心建設不會放緩。"
+    },
+    {
+      "id": "5118362",
+      "time": "2026-09-29 17:44:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【財付通降費讓利政策再延一年】2026年9月29日，財付通宣佈，面向小微經營主體的降費讓利政策將再延續一年，有效期至2027年9月30日。根據公告，本次政策繼續覆蓋符合標準的小微企業、個體工商戶及有經營行為的個人。支付手續費方面，符合標準的經營主體可在微信支付官網公示標準的基礎上享受9折優惠，活動期間自動享受，無需額外操作。此外，財付通針對不同的行業、支付場景提供了其他優惠活動，相關主體可根據自身實際情況選擇參與。提現手續費方面，符合標準的小微企業、個體工商戶及有經營行為的個人，可根據實際經營場景享受對應的政策支援。（介面新聞 ）"
+    },
+    {
+      "id": "mkt:01a0ec8c-d06a-7338-ab0b-b3156756cf71",
+      "time": "2026-09-29 17:44:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dongguan offers up to 30,000 yuan home-buying subsidy, relaxes first-home mortgage criteria】Dongguan housing authority issued a notice introducing a home-purchase subsidy and loosening first-home commercial mortgage criteria. Buyers of newly built commercial housing in Dongguan (excluding three-limits housing and allocation-type subsidized housing such as affordable, talent and resettlement units) who sign and file the sale contract during the notice period and pay full deed tax by March 31, 2027 will receive a subsidy equal to 2% of the contract price, capped at 30,000 yuan. For commercial mortgage eligibility, a resident household that has no housing registered in its name in the town/street (or development park) where the target property sits may be treated as a first-home. Banks and other financial institutions will verify property-registration records, count housing units, and apply the corresponding housing credit policies."
+    },
+    {
+      "id": "mkt:01a0ec8c-c20a-7338-ab0b-ab42ef2c330b",
+      "time": "2026-09-29 17:44:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Nikkei reports Mitsubishi Corporation and Shell plan to double capacity at a major Canadian LNG project to boost Asian gas supply."
+    },
+    {
+      "id": "5118361",
+      "time": "2026-09-29 17:42:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【太辰光：公司以1860萬元競得1.72萬㎡土地使用權】太辰光公告，公司此前審議透過購買土地使用權並投資建設專案。近日，公司參與深圳市坪山區坑梓街道G14316-0123宗地掛牌出讓活動，以人民幣1860萬元競得該地塊使用權，並簽署《成交確認書》。土地用途為工業用地，使用年期30年。"
+    },
     {
       "id": "5118360",
       "time": "2026-09-29 17:42:26",
