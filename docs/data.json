@@ -1,7 +1,62 @@
 {
-  "updated": "2026-09-29 14:24:29",
+  "updated": "2026-09-29 14:28:15",
   "count": 11772,
   "items": [
+    {
+      "id": "mkt:01a0ebd9-0bf5-7338-ab04-df7d5563e056",
+      "time": "2026-09-29 14:27:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CISA: China exported 10.16 million tonnes of steel in August, up 6.8% YoY】China Iron and Steel Association (CISA) said August steel exports were 10.16 million tonnes, up 0.3% MoM and 6.8% YoY; average export price $722.2/tonne, +0.9% MoM and +3.5% YoY. Jan–Aug cumulative exports totaled 75.15 million tonnes, down 3.0% YoY; average export price $705.9/tonne, +1.0% YoY. August imports were 0.434 million tonnes, down 2.5% MoM and 13.1% YoY; average import price $2,002.8/tonne, +2.6% MoM and +21.2% YoY. Jan–Aug cumulative imports were 3.574 million tonnes, down 10.5% YoY; average import price $1,841.1/tonne, +7.5% YoY."
+    },
+    {
+      "id": "mkt:01a0ebd7-0f2d-7338-ab04-d0505b4dd533",
+      "time": "2026-09-29 14:25:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai RAAS says CDMO plant bid aims to close gap in innovative-drug industrialization capability】Shanghai RAAS said on Sept. 28 it is pursuing the purchase of a CDMO plant held by Boehringer Ingelheim Biopharmaceuticals (China) as a \"strategic positioning\" move to close gaps in its innovative-drug industrialization capability. Vice chairman and general manager Xu Jun said the company's push into innovative drugs is not a \"do-or-die\" gamble; R&D will be funded by stable cash flow from its blood-products business, via rolling, measured investments, and the company will not channel all blood-products profits into innovative drugs at once."
+    },
+    {
+      "id": "5117901",
+      "time": "2026-09-29 14:25:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：澳儲行11月加息與否取決於經濟活動指標】Barrenjoey Markets表示，澳儲行是否會在11月加息，大機率要看經濟活動指標，該行已經對通脹風險做出反應。首席利率策略師安德魯·利利稱：“澳儲行沒有引導市場預期後續還會加息，但也並未打消市場的這一猜想。”“澳儲行宣告表達得相當明確——他們兌現了上次會議的承諾。部分通脹上行風險成為現實，因此全體委員一致同意加息，利率上調至460個基點。”澳元兌美元匯率基本持平，報0.7015。"
+    },
+    {
+      "id": "5117900",
+      "time": "2026-09-29 14:25:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月29日：“農產品批發價格200指數”比昨天下降0.48個點】據農業農村部監測，9月29日“農產品批發價格200指數”為115.32，比昨天下降0.48個點，“菜籃子”產品批發價格指數為115.56，比昨天下降0.55個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.24元/公斤，比昨天下降1.2%；牛肉72.44元/公斤，比昨天上升0.6%；羊肉66.78元/公斤，比昨天下降0.3%；雞蛋10.57元/公斤，比昨天下降0.9%；白條雞17.11元/公斤，比昨天下降1.0%。重點監測的28種蔬菜平均價格為4.35元/公斤，比昨天下降1.1%；重點監測的6種水果平均價格為6.62元/公斤，比昨天下降0.6%。鯽魚19.25元/公斤，比昨天下降0.9%；鯉魚13.73元/公斤，比昨天下降0.7%；白鰱魚9.81元/公斤，比昨天下降2.3%；大帶魚41.35元/公斤，比昨天上升0.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是西瓜、巨峰葡萄、大黃花魚、胡蘿蔔和青椒，幅度分別為4.2%、1.6%、1.6%、1.3%和1.1%；價格降幅前五名的是菠蘿、平菇、油菜、花鰱魚和菠菜，幅度分別為5.8%、3.4%、3.1%、2.8%和2.7%。"
+    },
+    {
+      "id": "te:economy:587493",
+      "time": "2026-09-29 14:24:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Sweden Economic Confidence Strongest in Over 5 Years — Sweden’s Economic Tendency Indicator increased for a fifth straight month to 107.1 in September 2026 from 105.1 in August, marking its highest reading since May 2022 and indicating stronger-than-normal sentiment in the economy. The Business Sector Indicator rose to 109.3 from 107.5, with confidence strengthening in construction and services, while manufacturing was broadly unchanged at 106.3. Consumer confidence also rose sharply to 102.2 from 98.4, reaching its highest level since December 2021, driven by stronger assessments of households’ finances and the Swedish economy. Trade confidence eased to 112.1 from 113.7 but remained markedly stronger than normal. Meanwhile, firms’ production expectations strengthened, although more manufacturers reported excessive stocks of finished goods. Firms’ pricing plans continued to indicate price increases above normal levels."
+    },
+    {
+      "id": "5117899",
+      "time": "2026-09-29 14:23:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本半導體材料商推出12英寸SiC襯底】半導體材料巨頭Resonac（力森諾科）成為日本第一家開發出300毫米（12英寸）碳化矽（SiC）襯底的公司，該產品與現有主流150毫米襯底相比，可生產四倍數量的晶片。"
+    },
     {
       "id": "mkt:01a0ebd4-cb12-7338-ab04-c9bd4eb05bab",
       "time": "2026-09-29 14:23:06",
@@ -107200,64 +107255,6 @@
         "其他"
       ],
       "text": "【9月22日：“農產品批發價格200指數”比昨天上升0.08個點】據農業農村部監測，9月22日“農產品批發價格200指數”為116.57，比昨天上升0.08個點，“菜籃子”產品批發價格指數為117.19，比昨天上升0.09個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.44元/公斤，比昨天上升1.0%；牛肉71.55元/公斤，比昨天下降0.1%；羊肉66.57元/公斤，比昨天下降0.3%；雞蛋11.13元/公斤，比昨天下降0.4%；白條雞17.42元/公斤，比昨天上升0.6%。重點監測的28種蔬菜平均價格為4.55元/公斤，比昨天下降0.4%；重點監測的6種水果平均價格為6.63元/公斤，比昨天下降0.2%。鯽魚19.73元/公斤，比昨天下降0.9%；鯉魚13.91元/公斤，比昨天下降0.4%；白鰱魚10.01元/公斤，比昨天下降1.2%；大帶魚41.76元/公斤，比昨天下降0.5%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是蔥頭、大蔥、南瓜、冬瓜和西紅柿，幅度分別為3.8%、3.0%、2.1%、1.7%和1.7%；價格降幅前五名的是黃瓜、平菇、油菜、生菜和菠菜，幅度分別為3.4%、2.8%、2.3%、2.2%和2.2%。"
-    },
-    {
-      "id": "5107002",
-      "time": "2026-09-22 14:28:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中際旭創港股跌超3%】中際旭創港股跌3.04%，報1212.00港元。A股現跌超1.5%。"
-    },
-    {
-      "id": "te:markets:585506",
-      "time": "2026-09-22 14:27:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Set for Positive Open — European equity markets were set to open slightly higher on Tuesday, building on the previous session’s gains after an AI-led rally on Wall Street boosted optimism over semiconductor demand. The rally followed renewed enthusiasm around Meta’s AI agent, Muse, easing concerns about a slowdown in AI development and supporting demand for chips powering the technology. Market sentiment was also lifted by expectations for a summit between Presidents Donald Trump and Xi Jinping this week, along with hopes for talks between Trump and his Iranian counterpart and other Gulf leaders. In Europe, investors will focus on UK public sector borrowing and Spain’s trade data, alongside earnings from British companies Smiths and Kingfisher. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both up about 0.1%."
-    },
-    {
-      "id": "5107001",
-      "time": "2026-09-22 14:26:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "彪馬(PUMA SE) <PUMG.DE> 法蘭克福早盤股價下跌1.9%。"
-    },
-    {
-      "id": "5107000",
-      "time": "2026-09-22 14:25:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮新停機坪啟用 為新型專用直升機“定製”】美國總統特朗普21日在白宮南草坪出席儀式，正式啟用一處新建的花崗岩直升機停機坪。據報道，這處新建停機坪用於起降新一代總統專用直升機“海軍陸戰隊一號”。（新華社）"
-    },
-    {
-      "id": "mkt:01a0c7ca-c15c-7118-863b-008394686d2a",
-      "time": "2026-09-22 14:25:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Aramco gives Asian refiners informal assurance of imminent Yanbu loadings】Traders say Aramco has informally told several Asian refiners they will soon be able to load cargoes at Yanbu on the Red Sea. At least three refiners received informal assurances from Aramco executives about shipments but have not been given formal notices or a specific timetable. Yanbu loadings were almost entirely halted after the east‑west pipeline was shut on Sept. 10 following drone attacks launched from Iraq; the pipeline had been delivering about 4 mln b/d to the port. A source last week said Saudi Arabia was seeking to restore roughly half the pipeline’s capacity within days, but Aramco has not issued an update."
-    },
-    {
-      "id": "mkt:01a0c7c9-e3c0-7118-863a-fda3b4cab9fc",
-      "time": "2026-09-22 14:24:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China government bond futures rose intraday; the 30-year main contract gained 0.30% to 117.080 yuan. The 10-year rose 0.09% to 109.62 yuan, the 5-year 0.06% to 106.585 yuan and the 2-year 0.02% to 102.61 yuan."
     }
   ]
 }
