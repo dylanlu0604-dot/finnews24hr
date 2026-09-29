@@ -1,7 +1,76 @@
 {
   "date": "2026-09-29",
-  "count": 2351,
+  "count": 2358,
   "items": [
+    {
+      "id": "5119141",
+      "time": "2026-09-29 23:41:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟能源專員：冬季來臨前，歐洲能源供應暫無即時風險。"
+    },
+    {
+      "id": "5119140",
+      "time": "2026-09-29 23:40:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：當前的政策立場足夠具有限制性。"
+    },
+    {
+      "id": "te:markets:587782",
+      "time": "2026-09-29 23:40:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 51,805 on Tuesday, weighed by heavyweight financials amid ongoing developments in Milan’s banking sector. Financials remained mixed following reports that Credit Agricole is studying a range of options to strengthen its business in Italy, including a potential acquisition of long-time partner Banco BPM (-0.9%) in response to MPS’s (-0.3%) offer for the lender. Generali advanced 1%. Energy stocks Eni (-1.3%), Tenaris (-1.6%) and Saipem (-1.3%) declined, tracking lower oil prices, while the latter was awarded an engineering services contract by Profertil in Argentina. Telecom (-4.5%) and Poste Italiane (-4%) also extended their losses. On the upside, Technoprobe, STMicroelectronics and Prysmian advanced more than 1.8% amid renewed optimism over artificial intelligence, buoyed by yesterday’s news of Nvidia’s record share buyback. Avio and Fincantieri gained more than 2.8%."
+    },
+    {
+      "id": "5119139",
+      "time": "2026-09-29 23:40:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普推出AI驅動的新網站America.gov 打造政府服務一站式入口】美國總統唐納德·特朗普週二推出一個由人工智慧(AI)驅動的新網站，旨在打造政府服務一站式入口。特朗普簽署行政命令，要求所有聯邦機構將面向公眾的系統與新網站America.gov整合，“這樣所有這些介面都將直接接入我們偉大、聰明的大腦，一個超級大腦。”特朗普在這場安排特斯拉的埃隆·馬斯克、英偉達的黃仁勳和Blue Origin LLC的Dave Limp等科技業領袖出席的全天活動中推介這一網站，民眾將能夠透過該網站申請福利、辦理郵件轉寄或姓名變更。這項計劃由Airbnb Inc.聯合創始人Joe Gebbia牽頭，他被特朗普任命為美國政府首位首席設計官。“有一個話題可以團結所有人，無論男女、老少，也不分政治立場：政府網站簡直是一場噩夢，”Gebbia週二在一場矽谷風格的產品釋出會上表示。新的America.gov工具將成為聯邦政府的主頁，使用者無需在超過2.9萬個政府網站中查詢資訊，而是可以透過自然語言提問來獲取所需內容。Gebbia表示，從2027年開始，該網站將“從回答問題邁向採取行動”。他表示，該網站在開發過程中獲得了谷歌Gemini和SpaceXAI Grok的協助。"
+    },
+    {
+      "id": "mkt:01a0edd3-0f6d-7338-ab15-45d7a63ce012",
+      "time": "2026-09-29 23:40:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England MPC member Taylor said the current policy stance is already sufficiently tight."
+    },
+    {
+      "id": "5119138",
+      "time": "2026-09-29 23:38:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：貨幣政策不應機械性地做出反應。"
+    },
+    {
+      "id": "mkt:01a0edd0-7a20-7338-ab15-3f081cf7afc2",
+      "time": "2026-09-29 23:37:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England monetary policy committee member Taylor said monetary policy should not react mechanically."
+    },
     {
       "id": "mkt:01a0edd0-4944-7338-ab15-3040e8257811",
       "time": "2026-09-29 23:37:25",

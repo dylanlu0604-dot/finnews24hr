@@ -1,7 +1,76 @@
 {
-  "updated": "2026-09-29 23:37:58",
-  "count": 11893,
+  "updated": "2026-09-29 23:42:09",
+  "count": 11882,
   "items": [
+    {
+      "id": "5119141",
+      "time": "2026-09-29 23:41:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟能源專員：冬季來臨前，歐洲能源供應暫無即時風險。"
+    },
+    {
+      "id": "5119140",
+      "time": "2026-09-29 23:40:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：當前的政策立場足夠具有限制性。"
+    },
+    {
+      "id": "5119139",
+      "time": "2026-09-29 23:40:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普推出AI驅動的新網站America.gov 打造政府服務一站式入口】美國總統唐納德·特朗普週二推出一個由人工智慧(AI)驅動的新網站，旨在打造政府服務一站式入口。特朗普簽署行政命令，要求所有聯邦機構將面向公眾的系統與新網站America.gov整合，“這樣所有這些介面都將直接接入我們偉大、聰明的大腦，一個超級大腦。”特朗普在這場安排特斯拉的埃隆·馬斯克、英偉達的黃仁勳和Blue Origin LLC的Dave Limp等科技業領袖出席的全天活動中推介這一網站，民眾將能夠透過該網站申請福利、辦理郵件轉寄或姓名變更。這項計劃由Airbnb Inc.聯合創始人Joe Gebbia牽頭，他被特朗普任命為美國政府首位首席設計官。“有一個話題可以團結所有人，無論男女、老少，也不分政治立場：政府網站簡直是一場噩夢，”Gebbia週二在一場矽谷風格的產品釋出會上表示。新的America.gov工具將成為聯邦政府的主頁，使用者無需在超過2.9萬個政府網站中查詢資訊，而是可以透過自然語言提問來獲取所需內容。Gebbia表示，從2027年開始，該網站將“從回答問題邁向採取行動”。他表示，該網站在開發過程中獲得了谷歌Gemini和SpaceXAI Grok的協助。"
+    },
+    {
+      "id": "te:markets:587782",
+      "time": "2026-09-29 23:40:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 51,805 on Tuesday, weighed by heavyweight financials amid ongoing developments in Milan’s banking sector. Financials remained mixed following reports that Credit Agricole is studying a range of options to strengthen its business in Italy, including a potential acquisition of long-time partner Banco BPM (-0.9%) in response to MPS’s (-0.3%) offer for the lender. Generali advanced 1%. Energy stocks Eni (-1.3%), Tenaris (-1.6%) and Saipem (-1.3%) declined, tracking lower oil prices, while the latter was awarded an engineering services contract by Profertil in Argentina. Telecom (-4.5%) and Poste Italiane (-4%) also extended their losses. On the upside, Technoprobe, STMicroelectronics and Prysmian advanced more than 1.8% amid renewed optimism over artificial intelligence, buoyed by yesterday’s news of Nvidia’s record share buyback. Avio and Fincantieri gained more than 2.8%."
+    },
+    {
+      "id": "mkt:01a0edd3-0f6d-7338-ab15-45d7a63ce012",
+      "time": "2026-09-29 23:40:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England MPC member Taylor said the current policy stance is already sufficiently tight."
+    },
+    {
+      "id": "5119138",
+      "time": "2026-09-29 23:38:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員泰勒：貨幣政策不應機械性地做出反應。"
+    },
+    {
+      "id": "mkt:01a0edd0-7a20-7338-ab15-3f081cf7afc2",
+      "time": "2026-09-29 23:37:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England monetary policy committee member Taylor said monetary policy should not react mechanically."
+    },
     {
       "id": "mkt:01a0edd0-4944-7338-ab15-3040e8257811",
       "time": "2026-09-29 23:37:25",
@@ -108568,160 +108637,6 @@
         "MKT News"
       ],
       "text": "Turkey's President ERDOGAN said no person of conscience can ignore what is happening in Gaza."
-    },
-    {
-      "id": "5108296",
-      "time": "2026-09-22 23:42:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱已打擊烏克蘭敖德薩港口的貨船。"
-    },
-    {
-      "id": "5108295",
-      "time": "2026-09-22 23:41:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們熱愛格陵蘭人民。"
-    },
-    {
-      "id": "mkt:01a0c9c7-0461-7118-864a-559935a8c8d5",
-      "time": "2026-09-22 23:40:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Russian Defence Ministry says it struck a merchant ship at Ukraine's Odesa port."
-    },
-    {
-      "id": "mkt:01a0c9c6-d728-7118-864a-4f48f71c62ae",
-      "time": "2026-09-22 23:40:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US, Denmark and Greenland sign security agreement】On Sept. 22 local time the United States, Denmark and Greenland (Denmark’s autonomous territory) signed a security agreement."
-    },
-    {
-      "id": "5108294",
-      "time": "2026-09-22 23:40:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國與丹麥及格陵蘭島簽署安全協議】當地時間9月22日，美國與丹麥及其自治領地格陵蘭島簽署一項安全協議。據悉，協議簽署時總共有九份副本。每方有一份格陵蘭語版、一份丹麥語版和一份英語版的協議。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0c9c6-050b-7118-864a-41faab9276c8",
-      "time": "2026-09-22 23:39:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump, Danish Prime Minister Mette Frederiksen and Greenland Premier Nielsen signed a Greenland security agreement."
-    },
-    {
-      "id": "5108293",
-      "time": "2026-09-22 23:39:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普與丹麥和格陵蘭簽署安全協議。"
-    },
-    {
-      "id": "5108292",
-      "time": "2026-09-22 23:39:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "格陵蘭總理：該協議應能消除當前及未來對格陵蘭歸屬立場的任何疑慮。"
-    },
-    {
-      "id": "5108291",
-      "time": "2026-09-22 23:39:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "格陵蘭總理：北約必須在北極地區保持強勢，該聯盟在此區域發揮著關鍵作用。"
-    },
-    {
-      "id": "5108290",
-      "time": "2026-09-22 23:39:05",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【部分另類資產管理公司股價下跌】阿瑞斯資產管理公司股價下跌1.7%，黑石集團股價下跌2.1%，藍貓頭鷹資本股價下跌1.9%，KKR股價下跌2%，阿波羅全球管理股價下跌1.9%。"
-    },
-    {
-      "id": "mkt:01a0c9c5-0931-7118-864a-3c4bf230b1e5",
-      "time": "2026-09-22 23:38:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Erdogan urged all countries that do not recognize the State of Palestine to reconsider their position."
-    },
-    {
-      "id": "5108289",
-      "time": "2026-09-22 23:38:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：對巴勒斯坦總統阿巴斯未出席聯合國大會感到遺憾。"
-    },
-    {
-      "id": "mkt:01a0c9c4-e84e-7118-864a-371e492c6660",
-      "time": "2026-09-22 23:38:39",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "S&P 500 hit an intraday low, down 0.1%."
-    },
-    {
-      "id": "5108288",
-      "time": "2026-09-22 23:38:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "Coinbase：因計劃進行網路升級，部分美國使用者的Avalanche（AVAX）提幣與充幣操作可能會出現延遲。"
-    },
-    {
-      "id": "5108287",
-      "time": "2026-09-22 23:38:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數觸及日內低點，下跌0.1%。"
-    },
-    {
-      "id": "mkt:01a0c9c4-66bf-7118-864a-2c9befb06088",
-      "time": "2026-09-22 23:38:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Greenland's prime minister says the territory will continue to firmly support the United States."
-    },
-    {
-      "id": "mkt:01a0c9c4-5f9b-7118-864a-268908d84800",
-      "time": "2026-09-22 23:38:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkish President Erdogan said he regretted Palestinian President Abbas's failure to attend the UN General Assembly."
-    },
-    {
-      "id": "5108286",
-      "time": "2026-09-22 23:38:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "格陵蘭總理：我們認為保持北約強大至關重要，在北極地區也是如此。"
     }
   ]
 }
