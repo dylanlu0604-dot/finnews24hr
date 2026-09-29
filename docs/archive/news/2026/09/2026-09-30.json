@@ -1,7 +1,56 @@
 {
   "date": "2026-09-30",
-  "count": 622,
+  "count": 637,
   "items": [
+    {
+      "id": "5119646",
+      "time": "2026-09-30 07:57:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【燃料漲價推高美國機票價格 創十年新高】當地時間29日，受油價高企影響，美國航空燃料價格近期暴漲，推高美國機票價格，今年11月末傳統假日期間美國境內航班機票價格較去年同期上漲約31%，達到十年來最高點。據悉，如果航空燃料價格持續高企，預計美國的機票價格還將繼續上漲。"
+    },
+    {
+      "id": "5119645",
+      "time": "2026-09-30 07:57:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "恆安國際在港交所公告：本集團之創辦人之一、本公司之主席兼執行董事及本公司提名委員會成員施文博先生，於二零二六年九月二十九日與世長辭。董事會認為，施先生的辭世不會對本集團的營運造成任何影響，並且董事會將繼續努力加強和發展本集團。董事會對施先生的辭世表示最深切的哀悼，並向其家人致以最深切的慰問。"
+    },
+    {
+      "id": "te:markets:587867",
+      "time": "2026-09-30 07:56:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Edge Higher After Weak Session — US stock futures edged higher on Wednesday after the major averages came under pressure in the previous session, pressured by rising Treasury yields. Futures tied to the Dow, S&P 500 and Nasdaq 100 were each up around 0.2%. During regular trading on Tuesday, the Dow slipped 0.26%, while the S&P 500 and Nasdaq Composite fell 0.17% and 0.09%, respectively. Seven of the 11 S&P sectors finished lower, with energy, materials and consumer staples leading the declines. The moves came as the 30-year Treasury yield climbed as high as 5.62%, reaching levels not seen since June 2002, while the 10-year yield rose to fresh 2007 highs near 5.3%. Investors now await Wednesday’s PCE price index report, the Federal Reserve’s preferred measure of inflation. For the month, the Dow is down roughly 3.5%, while the S&P 500 is little changed and the Nasdaq Composite has gained 1.6%."
+    },
+    {
+      "id": "5119644",
+      "time": "2026-09-30 07:55:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星重工簽署價值3074億韓元的銷售和供應合同。"
+    },
+    {
+      "id": "te:economy:587864",
+      "time": "2026-09-30 07:54:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Retail Sales YoY",
+        "Importance 2"
+      ],
+      "text": "Japan Retail Sales Growth Below Forecasts — Retail sales in Japan increased 2.7% year-on-year in August 2026, below market expectations for a 3.3% rise and slowing from a downwardly revised 3.7% growth in the previous month. On a monthly basis, retail sales fell 1.2% in August, reversing a downwardly revised 2.1% rise in July."
+    },
     {
       "id": "te:economy:587863",
       "time": "2026-09-30 07:54:03",
@@ -67,6 +116,75 @@
       "text": "日本8月份零售額同比增長2.7%，預估為3.2%。"
     },
     {
+      "id": "mkt:01a0ef94-0c19-7338-ab1f-463c7a9a2ab2",
+      "time": "2026-09-30 07:50:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan Aug inventories MoM -0.5% (prev 0.5%)."
+    },
+    {
+      "id": "mkt:01a0ef93-f94c-7338-ab1f-3a5cead4e137",
+      "time": "2026-09-30 07:50:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Inventory (MoM) (Aug) | actual -0.5% | previous 0.5%"
+    },
+    {
+      "id": "mkt:01a0ef93-ef88-7338-ab1f-30c784c1e545",
+      "time": "2026-09-30 07:50:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan August industrial production YoY preliminary +3.4% vs expected +7.0%, prior +3.9%."
+    },
+    {
+      "id": "mkt:01a0ef93-d368-7338-ab1f-291239811181",
+      "time": "2026-09-30 07:50:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Flash (YoY) (Aug) | actual 3.4% | consensus 7.00% | previous 3.90%"
+    },
+    {
+      "id": "mkt:01a0ef93-cd2f-7338-ab1f-21afad4dc891",
+      "time": "2026-09-30 07:50:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan seasonally adjusted retail sales -1.2% MoM in August, versus -0.9% expected; July revised to +2.1% from +2.4%."
+    },
+    {
+      "id": "mkt:01a0ef93-b1f4-7338-ab1f-1f173546eeb4",
+      "time": "2026-09-30 07:50:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail Sales SA (MoM) (Aug) | actual -1.2% | consensus -0.90% | previous 2.40%"
+    },
+    {
       "id": "5119639",
       "time": "2026-09-30 07:50:25",
       "tags": [
@@ -81,6 +199,52 @@
         "國際"
       ],
       "text": "日本8月工業產出環比初值 -1.7%，預期 1.4%，前值 -0.2%。日本8月工業產出同比初值 3.4%，預期 6.9%，前值 3.9%。"
+    },
+    {
+      "id": "mkt:01a0ef93-6fea-7338-ab1f-13491c9f72df",
+      "time": "2026-09-30 07:50:12",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan August industrial production preliminary MoM -1.7% (consensus +1.7%; July -0.2%)."
+    },
+    {
+      "id": "mkt:01a0ef93-6f09-7338-ab1f-0847acba11bc",
+      "time": "2026-09-30 07:50:11",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Japan August retail sales YoY 2.7% vs. consensus 3.3%; prior reading revised down to 3.7% from 4.0%."
+    },
+    {
+      "id": "mkt:01a0ef93-5345-7338-ab1f-069ac2ec2067",
+      "time": "2026-09-30 07:50:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Retail sales (YoY) (Aug) | actual 2.7% | consensus 3.3% | previous 4.00%"
+    },
+    {
+      "id": "mkt:01a0ef93-5091-7338-ab1e-faeb85577564",
+      "time": "2026-09-30 07:50:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Industrial Production Flash (MoM) (Aug) | actual -1.7% | consensus 1.70% | previous -0.20%"
     },
     {
       "id": "5119637",
