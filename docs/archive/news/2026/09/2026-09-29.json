@@ -1,7 +1,57 @@
 {
   "date": "2026-09-29",
-  "count": 919,
+  "count": 924,
   "items": [
+    {
+      "id": "5117719",
+      "time": "2026-09-29 11:37:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債拍賣需求創2020年以來新高。"
+    },
+    {
+      "id": "5117718",
+      "time": "2026-09-29 11:35:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債拍賣投標倍數3.10，高於12個月均值2.67。"
+    },
+    {
+      "id": "mkt:01a0eb3b-9c1d-7338-ab00-23e564d131f6",
+      "time": "2026-09-29 11:35:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's 40-year government bond auction recorded a bid-cover ratio of 3.10, up from 2.82 at the previous auction."
+    },
+    {
+      "id": "te:economy:587448",
+      "time": "2026-09-29 11:34:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Singapore Producer Inflation Hits All-Time High — Singapore’s domestic supply price index surged by 38.8% year-on-year in August 2026, marking the fastest rise on record and accelerating from an upwardly revised 33.6% gain in the previous month. The increase was driven mainly by higher prices for mineral fuels, lubricants and related materials (57.4% vs 46.8% in July), machinery and transport equipment (47.7% vs 42.3%), and chemicals and chemical products (13.8% vs 11.3%). Costs also rose faster for crude materials (20.2% vs 19.4%) and beverages and tobacco (4.5% vs 4.0%). Meanwhile, the non-oil domestic supply price index climbed to 33.0% from 29.3%. In contrast, food and live animals fell 1.4%, slightly deeper than the 1.2% decline in July. Producer inflation also softened for manufactured goods (4.9% vs 5.0%) and animal and vegetable oils, fats and waxes (4.2% vs 4.9%). On a monthly basis, the domestic supply price index rose by 4.1% in August, following an upwardly revised 2.4% gain in the preceding period."
+    },
+    {
+      "id": "5117717",
+      "time": "2026-09-29 11:34:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銘普光磁：公司800G LPO光模組已實現小批次出貨】銘普光磁9月29日在互動平臺表示，公司800G LPO光模組已實現小批次出貨，客戶驗證與批次匯入有序開展，新客戶從驗證到批次交付需要時間週期，公司正按客戶計劃穩步推進量產爬坡。"
+    },
     {
       "id": "mkt:01a0eb38-cedd-7338-ab00-1d3441b36a28",
       "time": "2026-09-29 11:32:43",

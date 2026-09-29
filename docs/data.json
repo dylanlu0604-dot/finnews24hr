@@ -1,7 +1,57 @@
 {
-  "updated": "2026-09-29 11:34:20",
-  "count": 11769,
+  "updated": "2026-09-29 11:38:08",
+  "count": 11771,
   "items": [
+    {
+      "id": "5117719",
+      "time": "2026-09-29 11:37:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債拍賣需求創2020年以來新高。"
+    },
+    {
+      "id": "5117718",
+      "time": "2026-09-29 11:35:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本40年期國債拍賣投標倍數3.10，高於12個月均值2.67。"
+    },
+    {
+      "id": "mkt:01a0eb3b-9c1d-7338-ab00-23e564d131f6",
+      "time": "2026-09-29 11:35:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's 40-year government bond auction recorded a bid-cover ratio of 3.10, up from 2.82 at the previous auction."
+    },
+    {
+      "id": "te:economy:587448",
+      "time": "2026-09-29 11:34:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Singapore Producer Inflation Hits All-Time High — Singapore’s domestic supply price index surged by 38.8% year-on-year in August 2026, marking the fastest rise on record and accelerating from an upwardly revised 33.6% gain in the previous month. The increase was driven mainly by higher prices for mineral fuels, lubricants and related materials (57.4% vs 46.8% in July), machinery and transport equipment (47.7% vs 42.3%), and chemicals and chemical products (13.8% vs 11.3%). Costs also rose faster for crude materials (20.2% vs 19.4%) and beverages and tobacco (4.5% vs 4.0%). Meanwhile, the non-oil domestic supply price index climbed to 33.0% from 29.3%. In contrast, food and live animals fell 1.4%, slightly deeper than the 1.2% decline in July. Producer inflation also softened for manufactured goods (4.9% vs 5.0%) and animal and vegetable oils, fats and waxes (4.2% vs 4.9%). On a monthly basis, the domestic supply price index rose by 4.1% in August, following an upwardly revised 2.4% gain in the preceding period."
+    },
+    {
+      "id": "5117717",
+      "time": "2026-09-29 11:34:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銘普光磁：公司800G LPO光模組已實現小批次出貨】銘普光磁9月29日在互動平臺表示，公司800G LPO光模組已實現小批次出貨，客戶驗證與批次匯入有序開展，新客戶從驗證到批次交付需要時間週期，公司正按客戶計劃穩步推進量產爬坡。"
+    },
     {
       "id": "mkt:01a0eb38-cedd-7338-ab00-1d3441b36a28",
       "time": "2026-09-29 11:32:43",
@@ -107234,30 +107284,6 @@
         "其他"
       ],
       "text": "【民政部發布關於防範非法養老APP詐騙的提示】據新華社，近期，一些非法養老APP以“民惠通”等為名實施詐騙。不法分子偽造檔案、冒充民政部工作人員，宣稱可“發放高齡補貼”“普惠專項資金”等，要求先交保險金、保證金、啟用費等；或以“簽到賺錢”“高額返利”“拉人頭返傭”誘導充值投資，最終無法提現。現就有關事項提示如下：一、民政部從未設立或批准設立“民惠通”等專案，也未推出任何類似產品和相關APP。二、請廣大公眾提高警惕，不要輕信來源不明的資訊和不實宣傳，避免上當受騙。三、已經參與或可能遭受損失的使用者，建議儘快向屬地公安部門報案，避免造成進一步損失。四、如遇可疑情況，請立即撥打110報警或撥打96110諮詢舉報。"
-    },
-    {
-      "id": "5106801",
-      "time": "2026-09-22 11:37:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基抵達美國時表示，新的無人機協議即將簽署"
-    },
-    {
-      "id": "5106800",
-      "time": "2026-09-22 11:37:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【TCL科技旗下公司成立數智資訊公司】企查查APP顯示，近日，深圳市翰林匯數智資訊有限責任公司成立，法定代表人為匡飛飛，註冊資本為5000萬元，經營範圍包含人工智慧應用軟體開發；電子專用裝置製造；資料處理服務；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由TCL科技旗下翰林匯資訊產業股份有限公司全資持股。"
-    },
-    {
-      "id": "5106799",
-      "time": "2026-09-22 11:35:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【成都1宗宅地溢價39.6%成交】9月22日，成都雙流區1宗宅地出讓，地塊出讓面積為25809平方米（合38.71畝），規劃建築面積51618平方米，容積率2，起拍樓面價12000元/平方米，摺合起始總價6.19億元。該地塊吸引了多房企參拍，經過近百輪競價後，最終渝太以樓面價16750元/平方米競得該地塊，成交總價8.65億元，溢價率39.6%。"
     }
   ]
 }
