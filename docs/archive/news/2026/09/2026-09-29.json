@@ -1,7 +1,70 @@
 {
   "date": "2026-09-29",
-  "count": 809,
+  "count": 815,
   "items": [
+    {
+      "id": "5117655",
+      "time": "2026-09-29 10:36:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "希音港股一度下跌近13%，觸盤中紀錄新低。"
+    },
+    {
+      "id": "mkt:01a0eb04-a7f6-7338-aafe-e0b30e7aa696",
+      "time": "2026-09-29 10:35:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【CHINA STATE PLANNER to guide local pilots deepening advanced manufacturing–modern services integration】On Sept. 29 CHINA STATE PLANNER said it will guide localities in a new round of pilots to deepen integration between advanced manufacturing and modern services. Since 2020 it has run two national pilot rounds that selected regions and firms and delivered some innovation breakthroughs. Working with other departments and focusing on a set of “three anchors,” the agency said it will promote a tech–industry–finance virtuous cycle, address supply‑chain bottlenecks, and explore market‑based mechanisms for allocating technology inputs and for distributing proceeds from technology commercialization."
+    },
+    {
+      "id": "mkt:01a0eb03-ae40-7338-aafe-dbdf0ac2a877",
+      "time": "2026-09-29 10:34:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the US Senate passed the Protecting Collegiate Athletics Act by 77-22, calling it very significant and saying it will save college athletics and colleges."
+    },
+    {
+      "id": "te:markets:587440",
+      "time": "2026-09-29 10:34:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Equities Slips to 2-Month Low as Losses Deepens — Indonesian shares tumbled 94 points, or 1.3%, to 6,064 in Tuesday morning trade, extending declines for a fourth session to their lowest level since late July. Sentiment weakened as U.S. stock futures fell after Wall Street’s overnight drop, with Treasury yields hovering at multiyear highs amid renewed Middle East tensions that stoked inflation fears and prospects of further rate hikes. Locally, higher oil prices weighed on fiscal outlook and risk appetite, compounded by new trading rules allowing shares on regular and cash markets to fall to as low as IDR 1 under broader exchange reforms. Caution also lingered ahead of August trade and September inflation data due later this week. In key trading partner China, September PMI readings from both official sources and private surveys also loom. All sectors retreated, led by tech, cyclicals, transport, and energy. Major laggards included Gojek Tokopedia (-14.0%), Petrindo Jaya Kreasi (-7.1%), Adaro Andalan (-6.5%), and Darma Henwa (-5.1%)."
+    },
+    {
+      "id": "5117654",
+      "time": "2026-09-29 10:34:16",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【國家發改委：指導地方開展新一輪深化先進製造業和現代服務業融合發展試點】國家發展改革委舉行專題新聞釋出會，介紹推進服務業擴能提質有關情況。國家發展改革委產業發展司副司長李春芳介紹，國家發展改革委從2020年起先後組織兩輪國家級先進製造業和現代服務業融合試點，遴選一批試點區域和試點企業先行先試，取得了一些創新突破。在此基礎上，我們正會同有關部門，聚焦“三個錨定”，指導地方開展新一輪深化先進製造業和現代服務業融合發展試點。一是錨定產業鏈關鍵環節。圍繞工業設計、共性技術服務、中試驗證、計量與檢驗檢測、質量認證、品牌培育、智慧財產權運營等重點環節，堅持問題導向，分類精準施策，全鏈條提升服務能力。目前，北京大興區等28個試點區域，正按照國家部署抓緊深化試點實施方案，力爭用兩年的時間，因地制宜探索形成一批行之有效的經驗做法。二是錨定發展載體培育。依託先進製造業叢集，引導民間資本參與生產性服務平臺建設。建成一批具有中國特色、國際水準的工業設計中心，整合創新資源發展行業共性技術平臺，建設專業化國際化中試基地，規劃建設和提升若干國家計量測試中心、國家質檢中心，加快培育一批高水平質量認證機構，組建產業智慧財產權創新聯合體，佈局建設一批整合高效的質量基礎設施。三是錨定體制機制改革。推動科技、產業、金融良性迴圈，打通產業鏈供應鏈堵點難點，探索建立市場化的技術要素配置機制和成果轉化利益分配機制。四川成都、湖北武漢等地創新推動“中試險”“中試貸”等金融產品聯動增信，幫助企業降低試錯成本和創新風險。上海、江蘇蘇州等地，還整合本地事業單位資源組建檢測認證集團，打破原有行政壁壘，進一步盤活存量資源、釋放產業活力。"
+    },
+    {
+      "id": "mkt:01a0eb02-d96d-7338-aafe-d5eddf07514e",
+      "time": "2026-09-29 10:33:47",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share CPO sector climbed after volatile trading; Maixinlin 20CM hit the daily price limit. Xunjiexing, Jinbaize, Jinlu Electronics and Changyingtong also advanced."
+    },
     {
       "id": "5117653",
       "time": "2026-09-29 10:31:41",

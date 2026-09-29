@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-29 10:33:29",
-  "count": 11767,
+  "updated": "2026-09-29 10:37:16",
+  "count": 11763,
   "items": [
+    {
+      "id": "5117655",
+      "time": "2026-09-29 10:36:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "希音港股一度下跌近13%，觸盤中紀錄新低。"
+    },
+    {
+      "id": "mkt:01a0eb04-a7f6-7338-aafe-e0b30e7aa696",
+      "time": "2026-09-29 10:35:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【CHINA STATE PLANNER to guide local pilots deepening advanced manufacturing–modern services integration】On Sept. 29 CHINA STATE PLANNER said it will guide localities in a new round of pilots to deepen integration between advanced manufacturing and modern services. Since 2020 it has run two national pilot rounds that selected regions and firms and delivered some innovation breakthroughs. Working with other departments and focusing on a set of “three anchors,” the agency said it will promote a tech–industry–finance virtuous cycle, address supply‑chain bottlenecks, and explore market‑based mechanisms for allocating technology inputs and for distributing proceeds from technology commercialization."
+    },
+    {
+      "id": "mkt:01a0eb03-ae40-7338-aafe-dbdf0ac2a877",
+      "time": "2026-09-29 10:34:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the US Senate passed the Protecting Collegiate Athletics Act by 77-22, calling it very significant and saying it will save college athletics and colleges."
+    },
+    {
+      "id": "te:markets:587440",
+      "time": "2026-09-29 10:34:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Equities Slips to 2-Month Low as Losses Deepens — Indonesian shares tumbled 94 points, or 1.3%, to 6,064 in Tuesday morning trade, extending declines for a fourth session to their lowest level since late July. Sentiment weakened as U.S. stock futures fell after Wall Street’s overnight drop, with Treasury yields hovering at multiyear highs amid renewed Middle East tensions that stoked inflation fears and prospects of further rate hikes. Locally, higher oil prices weighed on fiscal outlook and risk appetite, compounded by new trading rules allowing shares on regular and cash markets to fall to as low as IDR 1 under broader exchange reforms. Caution also lingered ahead of August trade and September inflation data due later this week. In key trading partner China, September PMI readings from both official sources and private surveys also loom. All sectors retreated, led by tech, cyclicals, transport, and energy. Major laggards included Gojek Tokopedia (-14.0%), Petrindo Jaya Kreasi (-7.1%), Adaro Andalan (-6.5%), and Darma Henwa (-5.1%)."
+    },
+    {
+      "id": "5117654",
+      "time": "2026-09-29 10:34:16",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【國家發改委：指導地方開展新一輪深化先進製造業和現代服務業融合發展試點】國家發展改革委舉行專題新聞釋出會，介紹推進服務業擴能提質有關情況。國家發展改革委產業發展司副司長李春芳介紹，國家發展改革委從2020年起先後組織兩輪國家級先進製造業和現代服務業融合試點，遴選一批試點區域和試點企業先行先試，取得了一些創新突破。在此基礎上，我們正會同有關部門，聚焦“三個錨定”，指導地方開展新一輪深化先進製造業和現代服務業融合發展試點。一是錨定產業鏈關鍵環節。圍繞工業設計、共性技術服務、中試驗證、計量與檢驗檢測、質量認證、品牌培育、智慧財產權運營等重點環節，堅持問題導向，分類精準施策，全鏈條提升服務能力。目前，北京大興區等28個試點區域，正按照國家部署抓緊深化試點實施方案，力爭用兩年的時間，因地制宜探索形成一批行之有效的經驗做法。二是錨定發展載體培育。依託先進製造業叢集，引導民間資本參與生產性服務平臺建設。建成一批具有中國特色、國際水準的工業設計中心，整合創新資源發展行業共性技術平臺，建設專業化國際化中試基地，規劃建設和提升若干國家計量測試中心、國家質檢中心，加快培育一批高水平質量認證機構，組建產業智慧財產權創新聯合體，佈局建設一批整合高效的質量基礎設施。三是錨定體制機制改革。推動科技、產業、金融良性迴圈，打通產業鏈供應鏈堵點難點，探索建立市場化的技術要素配置機制和成果轉化利益分配機制。四川成都、湖北武漢等地創新推動“中試險”“中試貸”等金融產品聯動增信，幫助企業降低試錯成本和創新風險。上海、江蘇蘇州等地，還整合本地事業單位資源組建檢測認證集團，打破原有行政壁壘，進一步盤活存量資源、釋放產業活力。"
+    },
+    {
+      "id": "mkt:01a0eb02-d96d-7338-aafe-d5eddf07514e",
+      "time": "2026-09-29 10:33:47",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share CPO sector climbed after volatile trading; Maixinlin 20CM hit the daily price limit. Xunjiexing, Jinbaize, Jinlu Electronics and Changyingtong also advanced."
+    },
     {
       "id": "5117653",
       "time": "2026-09-29 10:31:41",
@@ -107078,87 +107141,6 @@
         "市場"
       ],
       "text": "【國家發改委：北京交通大學等在京高校雄安校區預計明年9月開門辦學】9月22日，國家發展改革委政策研究室副主任李超在發改委9月份新聞釋出會上表示，“雙一流”高校新校區建設是很多家庭都高度關注的問題。按照“十五五”規劃綱要部署要求，“十五五”時期，將有序擴大優質本科教育招生規模和研究生培養規模，支援建設若干“雙一流”高校新校區。近年來，我們透過中央預算內投資、超長期特別國債等政策資金，推動超過30個“雙一流”高校新校區進入大規模建設階段，改善高校基本辦學條件，佈局重大教學科研平臺，積極應對高等教育學齡人口達峰，支撐科技自主創新和人才自主培養。在新校區建設過程中，國家發展改革委將統籌謀劃高等教育與就業、產業、城市協同發展，力爭在更好滿足民生期待的同時，更好發揮高等教育對經濟社會高質量發展的支撐作用。一方面，推動新校區建設融入區域重大戰略。促進高等教育資源佈局與區域功能定位、發展需求相銜接。比如，支援北京交通大學、北京科技大學、北京林業大學、中國地質大學（北京）等在京高校向雄安新區疏解、規劃建設新校區，就是貫徹落實京津冀協同發展戰略的重要舉措。目前，相關校區建設已進入攻堅階段，預計將在明年9月開門辦學；另一方面，推動新校區建設與城市發展精準對接。統籌教育科研、居住生活、商業服務、公共文化等功能配套，更好促進人才集聚、職住平衡、產城融合，實現高校與城市功能互促、發展共進。比如，“兩重”建設支援的“雙一流”高校新校區專案中，約有50%的專案分佈在中西部、東北地區，將有效改善我國高等教育區域佈局，帶動中西部地區經濟社會發展。與此同時，國家發展改革委將始終堅持投資於物和投資於人緊密結合，注重補齊高校學生宿舍、食堂、體育、圖書館等設施短板，改善大學生學習生活環境，為廣大師生安心從教、潛心向學營造良好環境。"
-    },
-    {
-      "id": "5106709",
-      "time": "2026-09-22 10:36:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨上漲1%。"
-    },
-    {
-      "id": "5106708",
-      "time": "2026-09-22 10:36:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【阿里巴巴：機器智慧時代，堅定投入AI模型 AI晶片 AI雲三大基石】在2026杭州雲棲大會上，阿里巴巴集團CEO吳泳銘表示，機器正在成為思考的主力，思考將像工業革命中的“動力”一樣，成為規模化供給的商品。未來機器思考總量將是人類的1000倍，而今天這一比例不到3%，至少還有幾萬倍的增長空間。吳泳銘認為，今天機器動力已經承擔了99.9%的物理工作，未來人類的思考總量還會繼續增長，但機器思考將以更快的速度擴張，預期將會承擔99.9%的思考工作。頂級思考將從奢侈品變成可規模化供給的商品，每個細分領域都可以擁有上百萬量級的AI科學家和專家，將給人類社會帶來巨大的改變。機器思考能夠規模化供給的前提，是AI基礎設施足夠完善、足夠發達，就像當年各類電器得以普及，第一步是建設足夠多的發電站和電網。1900年前後，已有不少電器進入家庭，當時全世界一整年的發電量，放到今天只夠用兩個小時。吳泳銘表示，AI模型、AI晶片和AI雲是機器智慧時代的三大基石，阿里巴巴將堅定投入這三項基礎設施建設，這是阿里的長期戰略選擇。（新浪科技）"
-    },
-    {
-      "id": "5106707",
-      "time": "2026-09-22 10:35:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【教育板塊短線拉昇，傳智教育漲停】教育板塊短線拉昇，傳智教育漲停，科德教育、華圖山鼎、全通教育、凱文教育、博通股份、學大教育跟漲。"
-    },
-    {
-      "id": "5106706",
-      "time": "2026-09-22 10:35:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘇寧易購與韻達達成深度戰略合作】昨日，韻達董事長兼總裁一行到訪蘇寧易購南京總部，雙方簽署《戰略合作框架協議》，明確將聚焦即時零售、集中採購、維保服務、數智化服務開展體系化對接和深度合作。為加快業務落地，雙方將成立專項合作專班，以清單化方式推進專案實施，合力打造零售服務與物流網路雙向賦能的產業標杆。本次簽約，標誌著雙方合作從單點專案邁入深度戰略合作新階段。（新浪科技）"
-    },
-    {
-      "id": "5106705",
-      "time": "2026-09-22 10:35:29",
-      "tags": [],
-      "text": "阿里巴巴港股股價漲5％。此前阿里巴巴表示，將全力投入AI基礎設施建設，2032年阿里雲資料中心規模將超20GW。"
-    },
-    {
-      "id": "5106704",
-      "time": "2026-09-22 10:35:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股創新藥概念走強，康希諾生物漲超10%，晶泰控股漲超4%，藥明康德、信達生物等跟漲。"
-    },
-    {
-      "id": "5106703",
-      "time": "2026-09-22 10:34:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報132500元/噸，較上日16:30價格上漲250元/噸。"
-    },
-    {
-      "id": "5106702",
-      "time": "2026-09-22 10:34:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【與加拿大陷入貿易爭端之際 特朗普擬轉向白俄羅斯採購廉價鉀肥】美國總統唐納德·特朗普表示，在與作為化肥關鍵成分主要供應國的加拿大發生貿易爭端之際，美國正在與白俄羅斯合作，以獲取更多的鉀肥供應。“美國正在與白俄羅斯洽談一項關於購買鉀肥的重大協議，”特朗普週一在社交媒體發文稱。“價格將大幅低於我們目前向加拿大支付的價格，這對我們的農場主和牧場主來說是個極大的好訊息。”"
-    },
-    {
-      "id": "5106701",
-      "time": "2026-09-22 10:33:42",
-      "tags": [],
-      "text": "七國集團宣告：葉門局勢對區域穩定與安全、全球能源安全構成不可接受的威脅；強烈譴責胡塞武裝在葉門及對沙特持續進行的不可接受的襲擊。呼籲胡塞武裝立即停止針對民用航運的所有軍事行動、威脅和攻擊。"
-    },
-    {
-      "id": "te:markets:585455",
-      "time": "2026-09-22 10:33:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Corn Holds Near 3-Year Peak — Corn futures held above $5.4 per bushel after hitting their highest level since July 2023, supported by strong US export demand, tightening global supplies and expectations for further agricultural trade with China. US corn export inspections jumped 40% year-on-year to 1.94 million tonnes in the week ended September 17, exceeding market expectations and lifting 2026/27 shipments further ahead of last year’s pace. Heavy Midwest rains are also delaying harvest in parts of the region, limiting the near-term flow of new supplies, although overall harvesting remains slightly ahead of the five-year average. Global fundamentals remain supportive, with USDA projecting a nearly 30-million-tonne shortfall between world corn production and consumption in 2026/27, the largest deficit in more than three decades. Traders are also watching the Trump-Xi meeting this week for potential progress on US agricultural purchases, while continued disruptions to Black Sea grain trade are adding support."
     }
   ]
 }
