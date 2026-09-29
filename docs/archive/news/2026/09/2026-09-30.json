@@ -1,7 +1,58 @@
 {
   "date": "2026-09-30",
-  "count": 401,
+  "count": 407,
   "items": [
+    {
+      "id": "5119499",
+      "time": "2026-09-30 04:33:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜：但願民主黨不會奪回眾議院控制權。他們會把國會各個委員會全部變成調查機構。他們會日復一日、時時刻刻不幹別的，專門針對總統、總統家人、內閣成員、政黨捐贈者以及工商業界的重量級人物展開調查。"
+    },
+    {
+      "id": "5119497",
+      "time": "2026-09-30 04:32:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報88.86美元/桶。"
+    },
+    {
+      "id": "mkt:01a0eede-4519-7338-ab1d-2994ad794737",
+      "time": "2026-09-30 04:32:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said related investments will be used to improve seabed mapping, enhance maritime traffic monitoring and bolster weather-forecasting capabilities."
+    },
+    {
+      "id": "mkt:01a0eede-3577-7338-ab1d-26bbc17b7012",
+      "time": "2026-09-30 04:32:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said Canada seeks to keep noise levels in waters near Vancouver at 2023 levels if ship traffic increases."
+    },
+    {
+      "id": "mkt:01a0eede-02a7-7338-ab1d-1bff037d4f9f",
+      "time": "2026-09-30 04:32:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rebeca Grynspan received the most votes in the fourth informal straw poll of candidates for UN Secretary-General."
+    },
+    {
+      "id": "te:markets:587832",
+      "time": "2026-09-30 04:31:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil is down by 4% — Crude Oil decreased 4% to 88.897 USD/Bbl"
+    },
     {
       "id": "mkt:01a0eedd-2cd3-7338-ab1d-13e1e3d92339",
       "time": "2026-09-30 04:31:07",
