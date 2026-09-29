@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-30 04:24:11",
-  "count": 11853,
+  "updated": "2026-09-30 04:27:56",
+  "count": 11849,
   "items": [
+    {
+      "id": "5119489",
+      "time": "2026-09-30 04:26:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮會晤商定新名稱 馬斯克會後發言即時更正術語“超級智慧”】“我認為值得強調人工智慧帶來的正向效益……超級智慧，抱歉。”“謝謝。”馬斯克在特朗普與其他科技領袖一同出席的人工智慧會議會後接受採訪，原本稱這項技術為人工智慧，隨即發現口誤，迅速更正為“超級智慧”。本次會議已商定改用該名稱。"
+    },
+    {
+      "id": "te:markets:587831",
+      "time": "2026-09-30 04:24:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Inches Lower as Soft GDP and Trade War Weigh — The S&P/TSX Composite Index inched lower to close at 35,460 on Tuesday following subdued GDP data and as a US ban on multiple Canadian imports came into force. Advance information showed that real GDP increased 0.2% in August, with gains in mining and quarrying and retail trade partly offset by a decline in oil and gas extraction. GDP was essentially unchanged in July. The US ban on various Canadian goods, including many alcoholic beverages and dairy products, also took effect, with Saputo losing 2%. Major banks posted losses, with RBC down 0.6%. Meanwhile, oil prices pulled back as US and Iranian officials continued separate discussions with mediators. Energy producers retreated, with Canadian Natural down 0.7% and Suncor falling 1.7%. In contrast, miners rebounded from yesterday’s losses as gold prices rose, with Agnico Eagle gaining 1.1% and Franco-Nevada up 0.9%. Tech stocks also gained as the planned Anthropic IPO on Wall Street lent support to the sector, with Shopify up 2.9%."
+    },
     {
       "id": "mkt:01a0eed4-25e0-7338-ab1d-0d468b76a6c0",
       "time": "2026-09-30 04:21:15",
@@ -108382,59 +108402,6 @@
         "Importance 1"
       ],
       "text": "Oil Extends Losses on US-Iran Diplomacy Hopes — Crude oil fell below $90 a barrel on Tuesday, extending losses into a fifth session after US President Donald Trump said the US held three-hour talks with Iran on the sidelines of the UN General Assembly. In his UN address, Trump said he had a “big decision” to make on whether to seek a negotiated deal with Iran or “annihilate the Islamic Republic,” adding that he believed a deal would follow the election. Iran’s proposal has been conveyed to the US, according to a senior Iranian government official. It includes the resumption of talks aimed at permanently ending the hostilities. If the US were to take steps toward ending the blockade, which has been crippling Iranian oil exports, Iran would be prepared to reopen the Strait of Hormuz within seven days, the official said. Meanwhile, Saudi Arabia is reportedly preparing to restart its critical East-West pipeline, aiming to restore meaningful flows by Saturday. The pipeline was reportedly already pumping at a low rate."
-    },
-    {
-      "id": "mkt:01a0cacc-f2ea-7118-8650-95e42abc4e77",
-      "time": "2026-09-23 04:27:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "New York Fed System Open Market Account (SOMA) manager Perley said the Fed's forecasting process is robust."
-    },
-    {
-      "id": "mkt:01a0cacc-eaae-7118-8650-8e7941ea5cb6",
-      "time": "2026-09-23 04:27:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "New York Fed System Open Market Account (SOMA) manager Perli said central clearing of Fed repo operations would be beneficial."
-    },
-    {
-      "id": "5108571",
-      "time": "2026-09-23 04:26:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大總理卡尼：我認同AI公司CEO們有關該行業需要監管的看法。"
-    },
-    {
-      "id": "5108570",
-      "time": "2026-09-23 04:26:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "紐約聯儲系統公開市場賬戶經理佩爾利：美聯儲的儲備預測流程穩健可靠。美聯儲回購操作實施集中清算將帶來利好。"
-    },
-    {
-      "id": "mkt:01a0cacc-44bc-7118-8650-847cd77f7aaa",
-      "time": "2026-09-23 04:26:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New York Fed System Open Market Account manager Perli said the Fed's monetary policy toolkit is operating effectively."
-    },
-    {
-      "id": "mkt:01a0caca-67e3-7118-8650-7a37492dff91",
-      "time": "2026-09-23 04:24:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US billionaire Boehly, backed by US government and Gulf capital, bids for Lukoil international assets】Todd Boehly, U.S. billionaire and former Chelsea chairman, is leading a bid for Russian oil company Lukoil’s international assets with backing from the U.S. government and Gulf capital reportedly linked to the Trump family. The assets, placed for sale after Lukoil faced U.S. sanctions last year, were written down to about $20 bln in March and span oil and gas fields from Central Asia to Mexico, thousands of service stations and substantial European refining capacity. Insiders say Boehly’s consortium includes the U.S. International Development Finance Corp. (DFC), which would take roughly a 15% stake, UAE presidential brother Sheikh Tahnoon and Qatar’s Al-Hayat family; Boehly has been preparing for months and seeks to displace U.S. buyout giant Carlyle, which had earlier agreed to acquire the assets. Boehly has not finalized terms with Lukoil; the proposal is advanced but the parties’ negotiation status is unclear."
     }
   ]
 }
