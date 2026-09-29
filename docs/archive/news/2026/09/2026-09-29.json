@@ -1,7 +1,76 @@
 {
   "date": "2026-09-29",
-  "count": 824,
+  "count": 831,
   "items": [
+    {
+      "id": "5117665",
+      "time": "2026-09-29 10:47:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念持續走高，迅捷興20cm漲停】PCB概念盤中持續走高，迅捷興20cm漲停，此前依頓電子、奧士康、超聲電子漲停，金百澤、金祿電子雙雙漲超10%。"
+    },
+    {
+      "id": "mkt:01a0eb0e-d2ed-7338-aaff-0ce83d140349",
+      "time": "2026-09-29 10:46:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China ministry: live hog supply-demand continues to improve】Sept 29 — China’s Ministry of Agriculture and Rural Affairs said at a State Council briefing that H2 live hog supply-demand has continued to improve; prices have fluctuated but are generally rebounding, and spot hog prices have stabilized above 11 yuan/kg. The ministry will continue dynamic market monitoring and advise farms to pace production to consolidate the price recovery. Policy focus is on two areas: capacity adjustment and sector upgrading. For capacity, regulators will target major producing provinces and counties with ongoing precision controls, encourage leading firms to reduce hog production, and aim to keep breeding sow inventories within a reasonable range. For upgrading, authorities will promote productivity and quality improvements to support higher-quality development of the hog industry."
+    },
+    {
+      "id": "5117664",
+      "time": "2026-09-29 10:46:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農業農村部：生豬供需形勢持續改善】9月29日，農業農村部新聞發言人、發展規劃司司長陳邦勳在國新辦新聞釋出會上表示，進入下半年，生豬供需形勢持續改善，價格有波動但總體回升，目前生豬價格已穩定在每公斤11元以上。下一步農業農村部將繼續動態監測市場供需情況，指導養殖場戶合理安排生產節奏，鞏固豬價回升向好的態勢，主要是兩個方面：一方面，繼續調產能，引導供需更加適配。緊盯養殖大省、大縣，常態化實施產能精準調控，指導頭部企業帶頭調減生豬產能，推動能繁母豬存欄量穩定在合理的區間。另一個方面是促轉型，推進生豬養殖提質增效，推動生豬產業高質量發展。"
+    },
+    {
+      "id": "5117663",
+      "time": "2026-09-29 10:46:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "CELLTRION：將回購價值1000億韓元的股票。"
+    },
+    {
+      "id": "te:markets:587442",
+      "time": "2026-09-29 10:46:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds at Multi-Decade Highs — The yield on the US 10-year Treasury note strengthened above 5.2% on Tuesday, approaching its highest levels since 2002 as markets anticipated further Federal Reserve tightening to combat energy-driven inflation linked to persistent US-Iran uncertainty. Markets are currently pricing in roughly a 70% probability of a Fed rate increase in October. Oil prices extended their gains after Iranian officials reportedly cast doubt on the prospects of reaching an agreement before the US midterm elections in November, following President Trump’s rejection of Tehran’s latest proposal. Meanwhile, investors are preparing for a busy week of key economic releases, including the PCE inflation report and monthly jobs data, which are expected to offer further insight into the health of the US economy and shape Fed expectations. Strong economic data, worsening fiscal conditions, and rising US government debt have also put pressure on the Treasury market in recent weeks."
+    },
+    {
+      "id": "mkt:01a0eb0c-d100-7338-aaff-078bf27ae4c2",
+      "time": "2026-09-29 10:44:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Ministry of Natural Resources to convert idle housing and old buildings into service‑sector space】At a Sept. 29 NDRC briefing, Ning Zhenya, deputy director of the Ministry of Natural Resources’ Development and Utilization Department, said the ministry is shifting away from large demolition-rebuild projects and is reusing stock land, idle housing and ageing buildings to expand service‑sector space. It has issued a series of policy documents, completed systematic inventories and classified assets for activation, prioritising redevelopment of underutilised industrial land and conversion/upgrading of idle factories. The ministry is also directing local governments to speed handover and starts for producer‑services projects, measures it says have supported the development of new productive capacity."
+    },
+    {
+      "id": "5117662",
+      "time": "2026-09-29 10:44:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委：會同有關部門指導地方開展新一輪深化先進製造業和現代服務業融合發展試點】國家發展改革委今日舉行專題新聞釋出會，介紹推進服務業擴能提質有關情況。國家發展改革委產業發展司副司長李春芳表示，國家發展改革委從2020年起先後組織兩輪國家級兩業融合試點，遴選一批試點區域和試點企業先行先試，取得了一些創新突破。在此基礎上，我們正會同有關部門，聚焦“三個錨定”，指導地方開展新一輪深化先進製造業和現代服務業融合發展試點。一是錨定產業鏈關鍵環節。二是錨定發展載體培育。三是錨定體制機制改革。"
+    },
     {
       "id": "mkt:01a0eb0c-639a-7338-aafe-feb5ea679443",
       "time": "2026-09-29 10:44:12",
