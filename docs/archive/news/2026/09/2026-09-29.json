@@ -1,7 +1,79 @@
 {
   "date": "2026-09-29",
-  "count": 2375,
+  "count": 2382,
   "items": [
+    {
+      "id": "5119152",
+      "time": "2026-09-29 23:55:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在 Truth Social 上釋出人工智慧午餐會的座位安排。"
+    },
+    {
+      "id": "5119151",
+      "time": "2026-09-29 23:55:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委Demarco：經濟形勢相當脆弱。"
+    },
+    {
+      "id": "5119150",
+      "time": "2026-09-29 23:54:49",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委Demarco：近期長期國債收益率上行情況相當令人擔憂。"
+    },
+    {
+      "id": "mkt:01a0eddf-c1fc-7338-ab15-9223225b11bb",
+      "time": "2026-09-29 23:54:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "ECB Governing Council member De Marco said he does not rule out a rate hike in October."
+    },
+    {
+      "id": "5119149",
+      "time": "2026-09-29 23:54:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委Demarco：不排除 10 月加息。"
+    },
+    {
+      "id": "mkt:01a0eddf-13b3-7338-ab15-8efcf6e46be9",
+      "time": "2026-09-29 23:53:34",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member De Marco said stronger core inflation could justify taking action, including raising interest rates."
+    },
+    {
+      "id": "5119148",
+      "time": "2026-09-29 23:53:26",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管理委員會委員DeMarco：核心通脹若進一步走強，或將成為採取行動的依據。"
+    },
     {
       "id": "5119147",
       "time": "2026-09-29 23:53:02",
