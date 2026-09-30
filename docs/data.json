@@ -1,7 +1,74 @@
 {
-  "updated": "2026-10-01 04:33:12",
-  "count": 11939,
+  "updated": "2026-10-01 04:37:00",
+  "count": 11941,
   "items": [
+    {
+      "id": "mkt:01a0f408-6ca3-7338-ab3b-45013dd673b0",
+      "time": "2026-10-01 04:36:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said nuclear energy is safe and reliable."
+    },
+    {
+      "id": "5121712",
+      "time": "2026-10-01 04:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱核能是安全的。"
+    },
+    {
+      "id": "mkt:01a0f407-5d00-7338-ab3b-3acafc7adb48",
+      "time": "2026-10-01 04:35:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Trump said South Korea \"paid\", so the U.S. lowered tariffs on South Korean goods."
+    },
+    {
+      "id": "te:markets:588371",
+      "time": "2026-10-01 04:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.66% Lower — The Dow Jones Index fell 339 points or 0.66 percent on Wednesday to close at 51011 points. Leading the losses are Walmart (-2.59%), 3M (-2.56%) and Merck (-2.36%). Top gainers were Salesforce (1.89%), Apple (1.31%) and Amazon (1.24%)."
+    },
+    {
+      "id": "5121711",
+      "time": "2026-10-01 04:35:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nu Holdings 稱其並未推進與 Monzo 的交易。"
+    },
+    {
+      "id": "5121710",
+      "time": "2026-10-01 04:34:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：韓國 “付出代價”，才換得美國降低對韓商品關稅。"
+    },
+    {
+      "id": "mkt:01a0f405-958b-7338-ab3b-37e6028ca4a8",
+      "time": "2026-10-01 04:33:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US lost 18 personnel in the conflict with Iran, compared with 4,500 US casualties in Iraq."
+    },
     {
       "id": "te:markets:588370",
       "time": "2026-10-01 04:32:36",
@@ -109325,54 +109392,6 @@
         "其他"
       ],
       "text": "【發現疑似無人機 德國柏林勃蘭登堡機場一度暫停航班起降】當地時間9月23日晚，德國柏林勃蘭登堡機場因發現疑似無人機，航班起降一度全面暫停，持續約45分鐘。當地機場方面及德國聯邦警察證實，發現無人機後，北跑道於20時左右首先關閉，20時20分南跑道也停止起降，21時05分解除限制，機場航班執行隨後恢復正常。（央視新聞）"
-    },
-    {
-      "id": "te:markets:586243",
-      "time": "2026-09-24 04:35:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.69% Lower — The Dow Jones Index fell 360 points or 0.69 percent on Wednesday to close at 51503 points. Leading the losses are McDonalds (-4.89%), Alphabet (-4.68%) and Home Depot (-2.80%). Top gainers were Salesforce (1.84%), Chevron (1.38%) and Boeing (0.95%)."
-    },
-    {
-      "id": "5110569",
-      "time": "2026-09-24 04:34:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI智慧體訪問了澳大利亞聯邦醫療保險統計資料，這起事件發生於6月。"
-    },
-    {
-      "id": "mkt:01a0cff9-9a11-7118-8671-2d63e24bc6b9",
-      "time": "2026-09-24 04:33:56",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UK Chancellor Healy spoke today with U.S. Treasury Secretary Bessent about steps to increase pressure on Iran and about coordinated measures to support economic growth in both countries."
-    },
-    {
-      "id": "5110568",
-      "time": "2026-09-24 04:33:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：OpenAI智慧體訪問了澳大利亞聯邦醫療保險統計資料。"
-    },
-    {
-      "id": "5110567",
-      "time": "2026-09-24 04:33:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破93美元/桶，日內漲2.76%。"
     }
   ]
 }
