@@ -1,7 +1,65 @@
 {
-  "updated": "2026-10-01 05:23:20",
-  "count": 11977,
+  "updated": "2026-10-01 05:27:07",
+  "count": 11980,
   "items": [
+    {
+      "id": "mkt:01a0f436-23a8-7338-ab3c-509ea68f6bad",
+      "time": "2026-10-01 05:26:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times reports that OpenAI president Brockman withdrew the second $25 million donation to a super PAC."
+    },
+    {
+      "id": "mkt:01a0f435-af3e-7338-ab3c-4a659c745c2c",
+      "time": "2026-10-01 05:25:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said the USS George H.W. Bush aircraft carrier is operating in the Arabian Sea to support enforcement of a U.S. blockade of Iran. As of Sept. 30, CENTCOM forces had guided 125 merchant vessels to reroute to ensure strict compliance with the blockade."
+    },
+    {
+      "id": "mkt:01a0f434-7f26-7338-ab3c-46c32d68c32b",
+      "time": "2026-10-01 05:24:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Trump said the term artificial intelligence is misleading and should be dropped because it is not artificial but real, and expressed surprise the label has persisted so long."
+    },
+    {
+      "id": "mkt:01a0f433-f5ba-7338-ab3c-3a829d9ba5c0",
+      "time": "2026-10-01 05:24:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said he is studying a possible diesel export ban."
+    },
+    {
+      "id": "mkt:01a0f433-8aae-7338-ab3c-302719374e57",
+      "time": "2026-10-01 05:23:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US fully controls the Strait of Hormuz."
+    },
+    {
+      "id": "5121740",
+      "time": "2026-10-01 05:23:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國能源部長賴特：將聽取來自歐洲的新柴油供應公告。"
+    },
     {
       "id": "5121739",
       "time": "2026-10-01 05:22:52",
@@ -109703,30 +109761,6 @@
         "Europe & UK"
       ],
       "text": "【UK tightens sanctions on Iranian banks, joins US economic pressure】The UK will automatically refuse new UK licence applications from designated Iranian banks and will not renew an existing general licence permitting limited business after it expires next month. Affected banks include Sepah Bank, the UK branch of Bank Melli Iran, Saderat Bank, Persia International Bank and Tejarat (Commercial) Bank. The move aligns the UK with a US-led economic pressure campaign initiated by Treasury Secretary Bessent to curb Iran’s links to the global trading system; UK officials say the steps tighten existing sanctions rather than introduce new ones."
-    },
-    {
-      "id": "5110584",
-      "time": "2026-09-24 05:26:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客獲得法國武器裝備總署（DGA）PARACOM專案為期25年的網路安全合同。"
-    },
-    {
-      "id": "mkt:01a0d029-3611-7118-8671-6ee1cce36c82",
-      "time": "2026-09-24 05:25:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【MILEI: will defend Malvinas sovereignty in \"peaceful, pragmatic and effective manner\"】Argentine President MILEI said on the 23rd he will defend sovereignty over the Malvinas (Falkland Islands) \"in a peaceful, pragmatic and effective manner.\" The government has taken a tougher line on the islands' sovereignty. In a nationwide televised address on the evening of the 3rd MILEI said his administration will increase sanctions on foreign companies extracting natural resources in the islands and adjacent disputed waters. Sanctions procedures have been opened against 60 foreign companies and individuals."
-    },
-    {
-      "id": "5110583",
-      "time": "2026-09-24 05:24:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【米萊：將以“和平、務實和有效的方式”捍衛馬島主權】阿根廷總統米萊23日表示將以“和平、務實和有效的方式”捍衛馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）主權。（央視新聞）"
     }
   ]
 }

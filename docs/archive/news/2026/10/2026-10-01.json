@@ -1,7 +1,65 @@
 {
   "date": "2026-10-01",
-  "count": 419,
+  "count": 425,
   "items": [
+    {
+      "id": "mkt:01a0f436-23a8-7338-ab3c-509ea68f6bad",
+      "time": "2026-10-01 05:26:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times reports that OpenAI president Brockman withdrew the second $25 million donation to a super PAC."
+    },
+    {
+      "id": "mkt:01a0f435-af3e-7338-ab3c-4a659c745c2c",
+      "time": "2026-10-01 05:25:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said the USS George H.W. Bush aircraft carrier is operating in the Arabian Sea to support enforcement of a U.S. blockade of Iran. As of Sept. 30, CENTCOM forces had guided 125 merchant vessels to reroute to ensure strict compliance with the blockade."
+    },
+    {
+      "id": "mkt:01a0f434-7f26-7338-ab3c-46c32d68c32b",
+      "time": "2026-10-01 05:24:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Trump said the term artificial intelligence is misleading and should be dropped because it is not artificial but real, and expressed surprise the label has persisted so long."
+    },
+    {
+      "id": "mkt:01a0f433-f5ba-7338-ab3c-3a829d9ba5c0",
+      "time": "2026-10-01 05:24:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said he is studying a possible diesel export ban."
+    },
+    {
+      "id": "mkt:01a0f433-8aae-7338-ab3c-302719374e57",
+      "time": "2026-10-01 05:23:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US fully controls the Strait of Hormuz."
+    },
+    {
+      "id": "5121740",
+      "time": "2026-10-01 05:23:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國能源部長賴特：將聽取來自歐洲的新柴油供應公告。"
+    },
     {
       "id": "5121739",
       "time": "2026-10-01 05:22:52",
