@@ -1,7 +1,47 @@
 {
   "date": "2026-09-30",
-  "count": 983,
+  "count": 987,
   "items": [
+    {
+      "id": "mkt:01a0f02c-cc2b-7338-ab22-f8144e296c4c",
+      "time": "2026-09-30 10:37:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Counterpoint predicts Apple will sell 6 million iPhone Duo units this year."
+    },
+    {
+      "id": "5119895",
+      "time": "2026-09-30 10:36:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【問界充電權益接入逸安啟超充網路】9月30日，賽力斯集團董事、副總裁康波發文宣佈，今天起，問界充電權益正式接入寶馬、賓士合資共建的逸安啟超充網路。"
+    },
+    {
+      "id": "mkt:01a0f02b-7465-7338-ab22-f15258f5ace9",
+      "time": "2026-09-30 10:36:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "Wenjie Auto opens pre-sales for the new M8, with pre-sale prices starting at 389,800 yuan."
+    },
+    {
+      "id": "5119894",
+      "time": "2026-09-30 10:35:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "COUNTERPOINT預測：蘋果iPhone Duo今年將售出600萬部。"
+    },
     {
       "id": "mkt:01a0f028-2156-7338-ab22-e98bb875b875",
       "time": "2026-09-30 10:32:36",
