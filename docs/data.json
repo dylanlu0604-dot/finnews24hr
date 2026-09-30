@@ -1,7 +1,74 @@
 {
-  "updated": "2026-09-30 11:06:24",
-  "count": 11980,
+  "updated": "2026-09-30 11:10:13",
+  "count": 11985,
   "items": [
+    {
+      "id": "mkt:01a0f049-ee5f-7338-ab23-8bd1af79f031",
+      "time": "2026-09-30 11:09:31",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Yen breaches 157 as Japanese warnings and quarter‑end flows fuel rebound】The yen breached the 157 per dollar mark on Wednesday after repeated exchange‑rate warnings from the Japanese government and quarter‑end funding flows. In Asian trade the currency had earlier rallied about 0.6% to 156.38, making it the strongest G10 performer. A senior Japanese currency official said Tokyo and Washington have recently sent \"very clear\" signals on concern over yen depreciation. Prime Minister Takaichi said Trump raised worries about yen weakness during a meeting last week. OCBC strategist Moh Siong Sim said markets appear to be shifting toward expectations of policy more supportive of the yen, and Sumitomo Mitsui Trust trading head Koike Shinya flagged quarter‑end flows as an additional driver."
+    },
+    {
+      "id": "5119944",
+      "time": "2026-09-30 11:09:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【FF：機器人工廠目標年底前投入運營】9月30日，法拉第未來表示，正加快推進Next Futurist、Next Aegis、供應鏈、合規及美國本土製造，啟動向FCC申請機器人產品有條件批准；機器人工廠目標今年底前投入運營，首款新EAI本體產品目標於2027年Q1下線。"
+    },
+    {
+      "id": "mkt:01a0f047-f969-7338-ab23-87e8f4e3dd93",
+      "time": "2026-09-30 11:07:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000002.SZ",
+        "Impact bullish",
+        "02202.HK",
+        "Impact bearish"
+      ],
+      "text": "Vanke A-share turned positive after being locked at the morning session's daily down-limit; A-share turnover exceeded 3.2 bln yuan. Vanke Enterprise (02202.HK) H-share loss narrowed to 1.4% after an intra-session drop of over 11%."
+    },
+    {
+      "id": "5119943",
+      "time": "2026-09-30 11:07:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "萬科AH股反彈，萬科A翻紅，早盤一度封住跌停板，成交額超32億元；萬科企業(02202.HK)跌幅收窄至1.4%，此前一度跌超11%。"
+    },
+    {
+      "id": "mkt:01a0f047-ac7e-7338-ab23-7cd33e82a05e",
+      "time": "2026-09-30 11:07:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MOFCOM: Prepare 2027 automobile and motorcycle export license applications】The MOFCOM general office issued a notice on 2027 automobile and motorcycle export license applications. This year applications will be processed online. Manufacturers should log in to MOFCOM’s unified business management platform (enterprise portal), complete the Automobile and Motorcycle Export License Application form, upload supporting documents, and submit to their local commerce authority for review. The 2027 online application system opens on 30 September 2026."
+    },
+    {
+      "id": "mkt:01a0f047-8a1c-7338-ab23-76c5eb2c688b",
+      "time": "2026-09-30 11:06:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EVE Energy's first 200MW/400MWh grid-side shared storage plant connects to grid】Sept 29 — Huizhou Risheng 200MW/400MWh grid-side independent shared energy storage plant was connected to the grid. The facility is EVE Energy’s first grid-connected grid-side shared storage project; connected at 220 kV with 200MW/400MWh capacity, it houses over 450,000 of the company’s self-developed storage cells and has expected annual charge–discharge throughput exceeding 100 million kWh (~100 GWh)."
+    },
+    {
+      "id": "em:qqyh_mlc:202609303887492660",
+      "time": "2026-09-30 11:06:46",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲古爾斯比：AI炒作過度或加劇通脹 忽視供給衝擊無異於“玩火”！】芝加哥聯儲主席奧斯坦·古爾斯比（AustanGoolsbee）週二表示，人們預期人工智慧（AI）將推動生產力大幅增長，但這可能會導致經濟增長過快。這種增長方式有可能加劇通脹，而通脹率已經連續五年多高於美聯儲2%的目標。"
+    },
     {
       "id": "5119942",
       "time": "2026-09-30 11:05:26",
@@ -109634,22 +109701,6 @@
         "其他"
       ],
       "text": "【騰訊宣佈與零跑汽車達成合作，WorkBuddy正式入職零跑】騰訊宣佈與零跑汽車達成合作，騰訊全場景AI桌面工作臺WorkBuddy正式入職零跑。WorkBuddy具備本地檔案處理、多工與多Agent並行運作、Skills與MCP生態等能力，目前已在零跑整車研發、智慧駕駛、車聯網、採購與供應鏈、審計等業務場景深度落地。"
-    },
-    {
-      "id": "5108920",
-      "time": "2026-09-23 11:08:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南方電網公司與宇樹科技簽署戰略合作框架協議】9月22日，南方電網公司與宇樹科技簽署戰略合作框架協議。南方電網公司董事長、黨組書記錢朝陽表示，南方電網公司將進一步加強與宇樹科技的交流合作，促進具身智慧與能源電力產業深度融合發展，堅持智慧化、綠色化、融合化方向，推動技術共研、場景共建、標準共立、產創共融，共同開拓國際市場。"
-    },
-    {
-      "id": "5108919",
-      "time": "2026-09-23 11:07:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "培育鑽石概念盤中震盪反彈，宏昌科技漲超10%，沃爾德、四方達、黃河旋風、英諾鐳射、惠豐鑽石、力量鑽石、國機精工跟漲。"
     }
   ]
 }
