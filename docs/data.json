@@ -1,7 +1,69 @@
 {
-  "updated": "2026-09-30 08:09:57",
-  "count": 11902,
+  "updated": "2026-09-30 08:13:42",
+  "count": 11907,
   "items": [
+    {
+      "id": "mkt:01a0efa8-82fe-7338-ab1f-5a368129d6f0",
+      "time": "2026-09-30 08:13:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: Optical-module thermal control becoming performance determinant as 800G ramps and 1.6T begins volume year】CITIC Securities says thermal management for optical modules is shifting from a supporting component to a performance-determining factor as 800G volumes scale and 1.6T enters its initial volume year, raising per-module power and temperature-precision requirements. Thermal solutions are evolving into a three-tier stack: chip-level precise temperature control (Micro-TEC plus ceramic-substrate heatsink), interface heat conduction (TIM gels and graphene pads), and module-level heat spreading (VC spreaders/cold plates). Per-module thermal content and pricing are rising with speed upgrades, and CPO/NPO architectures that colocate optical engines and switching ASICs increase same-domain cooling demand, supporting simultaneous volume and price growth across the supply chain. Core components such as TECs and ceramic substrates have been dominated by Japanese suppliers; domestic Chinese players are accelerating breakthroughs, leaving substantial onshore substitution potential. CITIC highlights three investment themes: TECs and ceramic substrates; TIMs and graphene thermal materials; and VC spreaders plus liquid-cooling structural parts."
+    },
+    {
+      "id": "5119662",
+      "time": "2026-09-30 08:13:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本太陽誘電股價上漲9.2%；將與TDK在零部件方面展開合作。"
+    },
+    {
+      "id": "te:economy:587873",
+      "time": "2026-09-30 08:12:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "New Zealand Business Sentiment Slips to 3-Month Low — New Zealand’s ANZ Business Outlook Index dropped to 51.9 in September 2026 from 53.7 in the prior month, marking the lowest reading since June. The latest result highlighted a moderation in business confidence amid ongoing cost pressures and uncertainty over the economic outlook."
+    },
+    {
+      "id": "5119661",
+      "time": "2026-09-30 08:12:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印媒：印度食品安全整治行動“前所未有”】“乾淨的餐盤、紅色的標識：食品安全風暴撼動印度千億美元市場。”印度《論壇報》28日以此為題報道稱，印度正在經歷一場前所未有的食品安全整治行動。從餐館、酒店、奶製品企業，到電商平臺和包裝食品巨頭，印度中央和地方監管部門近期連續展開檢查、突襲、查封和處罰，並推動在高糖、高鹽、高脂食品包裝正面增加醒目的紅色警示標識。印度媒體稱，今年以來，印度的食品安全監管已經從過去相對分散的常規檢查，逐漸演變為一場覆蓋生產、銷售和消費環節的集中整頓。（環球網）"
+    },
+    {
+      "id": "5119660",
+      "time": "2026-09-30 08:11:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期首日進出京客流預計達499.1萬人次】記者從市交通委獲悉，“十一”假期臨近，受旅遊客流與市民出遊交織疊加影響，本市將迎來全年交通流量高峰。據預測，鐵路、民航、省際客運、公路自駕進出京日均約440萬人次，較2025年同期增長8%，客流高峰為10月1日，達499.1萬人次，有望創國慶假期單日客流新高。（北京日報）"
+    },
+    {
+      "id": "5119659",
+      "time": "2026-09-30 08:11:11",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：光模組溫控正由“配套環節”升級為“效能決定環節”】中信證券指出，隨著800G光模組大規模放量、1.6T進入起量元年，單模組功耗與對溫控精度的要求正在顯著提高，光模組溫控正由“配套環節”升級為“效能決定環節”。光模組溫控形成晶片級精準控溫（Micro-TEC+陶瓷基板熱沉）、介面導熱（TIM凝膠/石墨烯墊片）、模組級均熱（VC均熱板/冷板）三層體系，單模組溫控價值量隨速率迭代系統性上移；疊加CPO/NPO架構下光引擎與交換晶片同域散熱，行業迎來量價齊升。競爭格局上，TEC、陶瓷基板等核心環節長期由日本廠商主導，國內廠商正加速突破，國產替代空間廣闊。中信證券建議關注三條細分投資主線：TEC與陶瓷基板、TIM與石墨烯導熱材料、VC均熱板與液冷結構件。"
+    },
+    {
+      "id": "5119658",
+      "time": "2026-09-30 08:10:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿維塔科技人事調整：陳卓任董事長，雍軍任總裁】據悉，阿維塔科技總裁陳卓將出任阿維塔科技董事長，雍軍將出任總裁。（新京報）"
+    },
     {
       "id": "5119657",
       "time": "2026-09-30 08:07:55",
@@ -108855,25 +108917,6 @@
         "宏觀"
       ],
       "text": "【國新辦釋出會丨介紹貫徹落實“十五五”規劃，加快推進教育強國建設有關情況】2026年9月23日10:00  ，國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，教育部副部長杜江峰，教育部新聞發言人、副部長王光彥介紹貫徹落實“十五五”規劃，加快推進教育強國建設有關情況，並答記者問。"
-    },
-    {
-      "id": "mkt:01a0cb9a-64d2-7118-8652-fe0510d83837",
-      "time": "2026-09-23 08:11:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 index opened up 30.10 points (0.34%) at 8,787.90 on Wednesday, Sept. 23."
-    },
-    {
-      "id": "mkt:01a0cb99-4d8f-7118-8652-f4936ea821b9",
-      "time": "2026-09-23 08:10:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran, Iraq FMs meet at UNGA; Iran cites Strait of Hormuz safety accord with Oman】Iranian foreign minister Araghchi met Iraq foreign minister Hussein on the sidelines of the 81st UN General Assembly in New York on Tuesday to review economic, trade, consular and security cooperation and to pledge deeper bilateral ties. Araghchi outlined recent developments in Strait of Hormuz shipping, saying Iran and Oman have reached an understanding to establish a commercial shipping safety corridor. He blamed the United States and Israel for current insecurity in the strait and said restoring safety requires the US to stop actions that create instability. Araghchi urged regional states to prevent third parties using their territory or facilities to prepare or carry out operations against Iran and reiterated Iran’s resolve to defend its sovereignty and national interests."
     }
   ]
 }
