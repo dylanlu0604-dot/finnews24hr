@@ -1,7 +1,27 @@
 {
-  "updated": "2026-09-30 11:40:36",
+  "updated": "2026-09-30 11:44:21",
   "count": 12005,
   "items": [
+    {
+      "id": "mkt:01a0f068-a01a-7338-ab24-1380fc4f995a",
+      "time": "2026-09-30 11:43:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Citi: Yen’s long-term trend may have shifted to appreciation】A Citi strategist said in a report that Bank of Japan tightening and rising Japanese yields mean the yen’s long-term trend may have shifted toward appreciation. The report flagged a marked change in Sanae Takaichi’s policy stance—previously oriented toward inflation-boosting measures that tended to weaken the currency—now appearing less supportive of yen weakness. Citi said Japan’s policy has moved from endorsing post‑Abenomics yen weakness to supporting yen strength, and that US policy has likewise shifted from limiting excessive yen weakness to guiding yen appreciation."
+    },
+    {
+      "id": "5119979",
+      "time": "2026-09-30 11:41:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方警告：將動用全部武器庫保衛加里寧格勒，包括核武器】據《俄羅斯報》網站9月29日報道，俄羅斯駐愛爾蘭大使館發表宣告說，如果遭到封鎖，俄羅斯準備動用一切手段保衛加里寧格勒州。 俄使館表示，俄方注意到有關北約正在準備對加里寧格勒和加里寧格勒州實施空中和海上封鎖的訊息。 宣告稱，這一問題引起俄羅斯的嚴重關切。 俄使館強調：“如果北約國家試圖把加里寧格勒州與俄羅斯其他領土隔離開來，俄羅斯將準備動用其全部武器庫，包括核武器，來保衛自己的領土，對這一點不應有任何懷疑。” 俄使館表示，不負責任且缺乏遠見的歐洲政治精英正在玩一場危險的遊戲。 俄使館還指出，西方媒體大量傳播所謂俄羅斯威脅論調，其目的是為增加國防開支和推動歐洲進一步軍事化製造藉口，並繼續向基輔提供財政、軍事和政治援助。 此前，俄總統普京曾警告說，俄羅斯“擁有一切手段讓那些試圖攻擊加里寧格勒的人化為泥土”。（參考訊息）"
+    },
     {
       "id": "5119978",
       "time": "2026-09-30 11:39:12",
@@ -109892,26 +109912,6 @@
         "其他"
       ],
       "text": "【叮咚買菜回應關閉北京多個站點：部分站點調整，不影響整體運營】近日，有不少網友在社交平臺反映，北京多個叮咚買菜站點已關閉，無法正常下單配送，涉及海淀、大興、豐臺等多個區域。 對此，叮咚買菜官方回應稱，近期有部分站點調整，不影響北京整體運營。 叮咚客服則表示，如需要退回充值賬戶餘額或未到期的綠卡會員，可聯絡客服協助退款、退卡。"
-    },
-    {
-      "id": "5108950",
-      "time": "2026-09-23 11:43:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報94.43美元/桶。"
-    },
-    {
-      "id": "mkt:01a0cc5a-652a-7118-8657-093a1be8c756",
-      "time": "2026-09-23 11:41:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "601360.SS",
-        "Impact bullish"
-      ],
-      "text": "【360 Group among first firms to receive national Level-1 AI security qualification】The China Information Security Evaluation Center issued the inaugural national information security evaluation service qualification for AI security (Level-1). 360 Group is one of six companies awarded the certificate."
     }
   ]
 }
