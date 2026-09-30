@@ -1,7 +1,99 @@
 {
-  "updated": "2026-09-30 11:21:36",
-  "count": 11992,
+  "updated": "2026-09-30 11:25:22",
+  "count": 12000,
   "items": [
+    {
+      "id": "mkt:01a0f058-1307-7338-ab23-ddb5aafab3ff",
+      "time": "2026-09-30 11:24:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China NEA: August green certificates issued 354 mln, MoM +15.75%】China’s National Energy Administration issued 354 mln green certificates in August 2026, up 15.75% MoM, covering 3.7096 mln renewable power projects; 212 mln were tradable (60.04%). The issuance corresponded to 323 mln green certificates for July 2026 renewable generation (91.41%). Nationwide green-certificate trading in August totaled 60.55 mln, up 11.13% MoM and 25.18% YoY; green-power trading accounted for 25.52 mln, down 0.25% MoM and up 44.86% YoY."
+    },
+    {
+      "id": "5119961",
+      "time": "2026-09-30 11:23:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銀行間主要利率債收益率升幅擴大】銀行間主要利率債收益率升幅擴大，30年期國債“26超長特別國債04”收益率上行1.5bp報2.1220%，50年期國債“26超長特別國債03”收益率上行2.75bp報2.2625%，10年期國債“26附息國債16”收益率上行1.25bp報1.6750%。"
+    },
+    {
+      "id": "te:markets:587963",
+      "time": "2026-09-30 11:23:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Attempts Recovery — Platinum futures rose above $1,700 an ounce, attempting to rebound from a recent two-month low as falling oil prices offset pressure from elevated Treasury yields and a firm US dollar. Easing crude prices amid signs of improving energy flows from the Middle East are now helping non-yielding metals by reducing inflation concerns and bets on higher-for-longer interest rates. However, Treasury yields remain elevated, with the US 10-year yield near 5.24%, close to its highest since 2007 as persistent energy-driven inflation, a resilient US economy and hawkish signals from Federal Reserve officials strengthened expectations for further rate hikes. Meanwhile, platinum’s fundamentals remain mixed, with WPIC forecasting industrial demand to rise 5% in 2026 but automotive demand to fall 4%, leaving the market with a projected 265,000-ounce surplus. Over the longer term, demand will be underpinned by the rapid build-out of artificial intelligence."
+    },
+    {
+      "id": "5119960",
+      "time": "2026-09-30 11:23:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【波音將造美海軍第六代戰機 研發合同超200億美元】美國國防部29日宣佈，已選定波音公司設計和建造美國海軍第六代戰機F/A-XX。美國國防部當天發表宣告說，美國海軍第六代戰機研發合同總值超過200億美元，包括採購多架測試機，用於地面、適航、系統及武器整合測試。該戰機將提供先進的艦載力量投射，拓展美軍航母的遠端打擊範圍。宣告說，波音公司將於2030年代開始交付該戰機，最終取代現役的F/A-18E/F“超級大黃蜂”和EA-18G“咆哮者”，並同F-35C協同作戰。（新華社）"
+    },
+    {
+      "id": "5119959",
+      "time": "2026-09-30 11:22:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "恆天然：紐西蘭8月乳製品出口同比增長8.3%，即增加14,371公噸。"
+    },
+    {
+      "id": "5119958",
+      "time": "2026-09-30 11:22:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局：8月核發綠證3.54億個，全國交易綠證6055萬個】國家能源局釋出2026年8月全國可再生能源綠色電力證書核發及交易資料，2026年8月，國家能源局核發綠證3.54億個，環比增長15.75%，涉及可再生能源發電專案370.96萬個，其中可交易綠證2.12億個，佔比60.04%。本期核發2026年7月可再生能源電量對應綠證3.23億個，佔比91.41%。2026年8月，全國交易綠證6055萬個，環比增長11.13%，同比增長25.18%。其中綠色電力交易綠證2552萬個，環比減少0.25%，同比增長44.86%。2026年8月，全國單獨交易綠證3503萬個，環比增長21.21%，同比增長13.91%。其中電量生產年為2024年的綠證交易164萬個，平均價格0.61元/個；電量生產年為2025年的綠證交易1586萬個，平均價格3.21元/個；電量生產年為2026年的綠證交易1753萬個，平均價格6.32元/個。"
+    },
+    {
+      "id": "5119957",
+      "time": "2026-09-30 11:22:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "恆天然：澳大利亞7月牛奶產量較2025年7月增長4.7%。"
+    },
+    {
+      "id": "mkt:01a0f055-5374-7338-ab23-d2055074ac44",
+      "time": "2026-09-30 11:21:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Counterpoint: iPhone 18 Pro series first-week (three days) China sales up 12% YoY】Counterpoint Research's China Weekly Smartphone Sales Tracker shows weekly smartphone sales in China have stayed in double-digit YoY decline since July, citing rising storage costs and weak consumer demand. With the September product cycle approaching, Counterpoint expects a sequential recovery. iPhone 18 Pro series sales in its first three days (only three days of week 38) were 12% higher YoY versus the iPhone 17 Pro debut week, pushing Apple to the top of week 38 with a 33% share of the China smartphone market."
+    },
+    {
+      "id": "5119956",
+      "time": "2026-09-30 11:21:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德賽智儲與威思頓電氣達成戰略合作】9月29日，惠州市德賽電池有限公司的全資子公司——惠州市德賽智儲科技有限公司與煙臺東方威思頓電氣有限公司在山東煙臺舉行戰略合作框架協議簽約儀式。根據協議，雙方將建立為期兩年的戰略合作關係，圍繞離網儲能、微電網、獨立電站、重卡換電等應用場景展開全面合作。合作期內，雙方力爭完成儲能系統規模不低於500MWh，其中約一半規模將優先採用搭載AI主動安全電芯的儲能系統。"
+    },
+    {
+      "id": "mkt:01a0f054-c9d8-7338-ab23-cfa9814f9311",
+      "time": "2026-09-30 11:21:23",
+      "tags": [
+        "MKT News",
+        "01276.HK",
+        "Impact bullish"
+      ],
+      "text": "【Citi raises Hengrui Medicine PT 0.8% to HK$120; remains top pick】Citi raised Hengrui Medicine (01276.HK) H‑share PT to HK$120 (from HK$119) and A‑share PT to 111 yuan (from 109 yuan), increases of 0.8% and 1.8%, and kept the stock as a top pick. Citi flagged a licensing deal with Novo Nordisk (NVO.N) for HRS‑1596 that could be worth up to $2.6 billion, with an expected $300 million upfront in Q4 2026 and revenue to be recognized in Q4 2026 or Q1 2027; the bank noted the structure allows Hengrui to monetize ex‑China via Novo’s global metabolic platform while retaining full China commercialization rights."
+    },
     {
       "id": "mkt:01a0f053-7729-7338-ab23-c7979c5c72f9",
       "time": "2026-09-30 11:19:56",
@@ -109767,26 +109859,6 @@
         "其他"
       ],
       "text": "【寧德時代聯合五菱釋出新一代專業級城配電池】9月23日，寧德時代聯合五菱釋出新一代專業級城配電池，搭載全新一代飛流智慧2.0溫控系統、MUST超輕薄結構技術，電芯採用高溫副反應自抑制超充技術，電池在25℃常溫下可迴圈10000次，45℃高溫下可迴圈5000次。據悉，該電池將首搭於五菱揚光L。"
-    },
-    {
-      "id": "5108932",
-      "time": "2026-09-23 11:25:10",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【申萬宏源：油價或將在2026年末至2027年初逐季下行至75美元附近】申萬宏源研究釋出研報表示，進入2026年下半年，全球資產定價的核心矛盾已由年初的AI敘事階段性切換至美伊衝突反覆與能源供給衝擊。中期選舉前美國政府“壓油價，緩通脹”的訴求往往會加強，但這一次約束更強，難度更大。特朗普已將停戰與油價回落錨定至中期選舉前後，並明確“中期選舉後油價可能下降”。供給上，低庫存、海峽通航不暢、煉廠彈性不足、汽柴油裂解價差走闊，期限結構維持顯著現貨溢價，與2018年相比，供給緩衝更弱、政治壓價更晚。申萬宏源判斷，中性假設下，美國中期選舉前，油價或維持高位、中樞約100美元/桶；中期選舉後，油價或將在2026年末至2027年初逐季下行至75美元附近，但受庫存與成品油瓶頸約束，中樞仍將高於衝突前。"
-    },
-    {
-      "id": "te:markets:585894",
-      "time": "2026-09-23 11:24:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Falls on Hawkish Fed Outlook — Silver slipped below $67 an ounce on Wednesday, giving up gains from the previous session as hawkish signals from Federal Reserve officials outweighed the impact of falling oil prices on the inflation and interest rate outlook. On Tuesday, Richmond Fed President Tom Barkin warned that inflationary shocks could take time to fade, while Boston Fed President Susan Collins said she supported last week’s rate hike amid concerns that future inflation could remain above the 2% target. Meanwhile, oil prices extended their decline for a sixth straight session after President Trump said US officials had a “very good” meeting with Iranian envoys, while Tehran said it could reopen the Strait of Hormuz within seven days if the US eases military pressure and lifts its blockade of Iranian ports. Lower oil prices help reduce concerns over higher inflation and further rate hikes."
     }
   ]
 }
