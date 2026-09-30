@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-30 17:46:55",
-  "count": 12040,
+  "updated": "2026-09-30 17:50:41",
+  "count": 12041,
   "items": [
+    {
+      "id": "mkt:01a0f1b8-d08d-7338-ab2d-ac711fa761e5",
+      "time": "2026-09-30 17:50:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's Prime Minister Takaichi said she will assess tax-revenue trends and review government revenues and expenditures."
+    },
+    {
+      "id": "mkt:01a0f1b8-c198-7338-ab2d-a207077540d3",
+      "time": "2026-09-30 17:50:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Ministry of Finance announced arrangements for Q4 2026 government bond issuance."
+    },
+    {
+      "id": "5120781",
+      "time": "2026-09-30 17:50:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞：宣佈與諾和諾德就Wegovy口服制劑開展研究合作。"
+    },
+    {
+      "id": "5120780",
+      "time": "2026-09-30 17:49:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家能源局綜合司關於公開徵求《電力併網執行管理規定》（徵求意見稿）意見的通知 】為貫徹落實黨中央、國務院關於深化電力體制改革、建設全國統一電力市場決策部署，規範電力系統併網執行管理，保障電力系統安全、優質、經濟執行及相關市場主體合法權益，根據《中華人民共和國能源法》《中華人民共和國電力法》《電網排程管理條例》《電力監管條例》等法律法規，國家能源局對現行《電力併網執行管理規定》（國能發監管規〔2021〕60號，以下簡稱《規定》）進行修訂，形成了《電力併網執行管理規定（徵求意見稿）》，現向社會公開徵求意見。"
+    },
+    {
+      "id": "mkt:01a0f1b7-52eb-7338-ab2d-98941935f5d0",
+      "time": "2026-09-30 17:48:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Finance Minister KIUCHI said he has been in close communication with the Bank of Japan at all levels and sees no major difference in views on the economy and prices."
+    },
+    {
+      "id": "5120779",
+      "time": "2026-09-30 17:48:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華百貨：董事梅亞莉增持公司5000股，佔總股本0.00158%】新華百貨公告，董事兼副總經理梅亞莉於2026年9月29日透過集中競價方式增持公司A股股份5000股，增持金額為51650元，佔公司總股本的0.00158%。本次增持不會導致公司控股股東及實際控制人發生變化，梅亞莉承諾增持完成後六個月內不減持所持公司股份。"
+    },
+    {
+      "id": "5120778",
+      "time": "2026-09-30 17:47:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【僑源股份：3665萬元設立全資子公司完成登記】僑源股份公告，公司使用自有資金人民幣3665萬元投資設立全資子公司僑源氣體（新疆）有限公司；近日，該子公司完成工商註冊登記並取得營業執照，成立日期為2026年9月29日。"
+    },
+    {
+      "id": "5120777",
+      "time": "2026-09-30 17:47:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：與日本央行各層面密切溝通，認為經濟和價格觀點沒有太大差距。"
+    },
+    {
+      "id": "5120776",
+      "time": "2026-09-30 17:47:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【據報Meta借AI資料中心申請高額研發稅收抵免】Meta正利用美國研發實驗稅收抵免政策，為其人工智慧資料中心申請數十億美元稅收優惠。該公司將價值數十億美元的資料中心專案描述為“實驗性研發活動”，並稱從英偉達等供應商採購的AI計算晶片屬於實驗專案投入，因此符合抵免條件。檔案顯示，去年，該政策幫助Meta減少近40億美元稅負，使其成為上市公司中該項稅收抵免的最大受益者之一。不過，Meta內部會計人員已警告這一做法存在法律風險，美國國稅局可能對相關申請提出質疑。稅務諮詢機構BPM合夥人Andre Shevchuck表示，將AI資料中心歸類為研發實驗專案“超出常規”。美國國稅局過去也曾審查企業將普通商業支出納入研發抵免範圍的做法。"
+    },
+    {
+      "id": "5120775",
+      "time": "2026-09-30 17:46:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度批准179億盧比用於德里交通管理系統。"
+    },
+    {
+      "id": "5120774",
+      "time": "2026-09-30 17:46:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：將評估稅收趨勢，重新審視財政收入與支出。"
+    },
     {
       "id": "5120773",
       "time": "2026-09-30 17:46:23",
@@ -110130,103 +110220,6 @@
         "公司"
       ],
       "text": "【皖能電力：擬增資新能公司17.85億元並構成關聯交易】皖能電力公告，公司擬與控股股東安徽省能源集團有限公司按現有持股比例同比例對安徽省新能創業投資有限責任公司增資，皖能電力出資17.85億元、集團公司出資17.15億元，合計增資35億元。增資後新能公司註冊資本由78.18億元增加至113.18億元，各方持股比例不變。本次交易構成關聯交易，需提交股東會審議。"
-    },
-    {
-      "id": "5109639",
-      "time": "2026-09-23 17:50:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀下跌3%，報每盎司65.05美元。"
-    },
-    {
-      "id": "5109638",
-      "time": "2026-09-23 17:50:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "通用電氣可再生能源（GE Vernova）宣佈獲得埃及轉子延壽專案服務協議。"
-    },
-    {
-      "id": "5109637",
-      "time": "2026-09-23 17:50:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藍帆醫療：控股子公司引入B1輪投資者7億元獲董事會透過】藍帆醫療公告，公司控股子公司藍帆柏盛擬透過股權轉讓引入B1輪投資者融華海創、國創啟程，股份轉讓金額合計人民幣7億元，對應藍帆柏盛14.5833%股份。公司於2026年9月23日召開董事會審議透過相關議案，本次交易無需提交股東會審議，尚未完成交割。"
-    },
-    {
-      "id": "5109636",
-      "time": "2026-09-23 17:49:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【8月中國鉬製品進口量為9,830.66噸，環比增長0.15%】中鎢線上整理海關總署公佈的中國鉬製品進出口資料如下：2026年8月份，中國鉬製品進口量為9,830.66噸，環比增長0.15%，同比增長60.14%；進口金額為16.51億元，環比上漲20.06%，同比增長62.68%。"
-    },
-    {
-      "id": "te:economy:586073",
-      "time": "2026-09-23 17:49:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Iceland",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Iceland Jobless Rate Rises to 6-Month High — Iceland’s seasonally adjusted unemployment rate rose to 6.8% in August 2026, the highest level since February, following an upwardly revised 6.6% in July. The number of unemployed persons increased by 0.7 thousand month-on-month to 15.9 thousand, including 10.9 thousand men and 5.0 thousand women. The youth unemployment rate, which measures job-seekers between 16 and 24 years old, climbed to 14.2% from 6.7%, reaching its highest level since May. Meanwhile, the employment rate edged up to 73.7% from 73.5% in July, with the number of employed individuals rising by 1.2 thousand to 217.8 thousand. The labor force participation rate ticked higher to 79.0% from 78.7%. On a non-seasonally adjusted basis, the unemployment rate rose to 6.0% in August from 5.5% in the previous month."
-    },
-    {
-      "id": "mkt:01a0cdab-734a-7118-8660-800a059db2ad",
-      "time": "2026-09-23 17:49:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell to $4,310/oz, down 1.11% on the day."
-    },
-    {
-      "id": "5109635",
-      "time": "2026-09-23 17:48:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4310美元/盎司，日內跌1.11%。"
-    },
-    {
-      "id": "mkt:01a0cdaa-b224-7118-8660-7b87860fba99",
-      "time": "2026-09-23 17:48:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Analysts: Trump diesel export ban could backfire】President Trump said on Tuesday he supports banning U.S. diesel exports to help lower prices and that the government will decide \"soon\" \"one way or another.\" Analysts warn the move could reduce, not raise, domestic supply and push prices higher. Gbenga Ajilore, chief economist at the Center on Budget and Policy Priorities, said an export ban \"will not increase domestic supply; it could reduce supply and drive prices up,\" and that ending the Iran war and reopening the Strait of Hormuz would be the primary route to lower diesel prices. Bespoke Investment Group said a ban could force Gulf Coast refineries to idle for lack of storage capacity, cutting global diesel supply and hurting refiners' margins. Ipek Ozkardeskaya, senior analyst at Swiss bank Julius Baer, noted the U.S. is the world's largest diesel exporter and that export limits could sharply raise global diesel prices while prompting U.S. refiners to cut output and tighten other domestic fuel supplies."
-    },
-    {
-      "id": "5109634",
-      "time": "2026-09-23 17:48:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大智慧：擬延長換股吸收合併相關股東會決議有效期】大智慧公告稱，公司正在推進湘財股份換股吸收合併公司並募集配套資金事項，2025年第二次臨時股東大會審議透過的本次交易決議及相關授權有效期為2025年10月13日至2026年10月12日。鑑於本次交易仍在推進中，尚未取得全部批准、許可或備案，有效期即將屆滿，公司擬將上述有效期自原屆滿之日起延長12個月，若有效期內取得全部批准但交易未實施完畢，有效期自動延長至交易實施完成之日，本次交易其他事項保持不變。該事項已經董事會審議透過，尚需提交股東會審議。"
-    },
-    {
-      "id": "5109633",
-      "time": "2026-09-23 17:48:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【聯合光電：股票交易異常波動 無應披露未披露重大事項】聯合光電公告稱，公司股票連續三個交易日（2026年9月21日、9月22日、9月23日）收盤價漲幅偏離值累計達40.49%，屬於股票交易異常波動情形。截至2026年9月23日，公司股票收盤價為20.96元/股，市盈率高於同行業平均水平。經自查並向控股股東、實控人核實，公司主營業務、經營情況及內外部經營環境未發生重大變化，不存在應披露而未披露的重大資訊，控股股東、實控人在異常波動期間未買賣公司股票。公司正在推進發行股份購買東莞市長益光電股份有限公司92.6241%股份並募集配套資金事項，該事項仍處於稽核階段，尚存在不確定性。敬請廣大投資者注意投資風險。"
     }
   ]
 }
