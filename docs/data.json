@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-01 04:52:25",
-  "count": 11944,
+  "updated": "2026-10-01 04:56:24",
+  "count": 11946,
   "items": [
+    {
+      "id": "5121716",
+      "time": "2026-10-01 04:55:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國財長貝森特已與聯邦政府就稅務問題達成和解。"
+    },
+    {
+      "id": "mkt:01a0f418-12a7-7338-ab3b-78a9f1ad08f6",
+      "time": "2026-10-01 04:53:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Musk to co-lead PENTAGON 'Meridian' future-warfare study; findings due in 120 days】PENTAGON chief Hegseth announced SpaceX CEO Elon Musk, Anduril founder Palmer Luckey and former House Speaker Newt Gingrich will lead the Meridian project to study future warfare and next-generation military capabilities. The advisory study is framed as an examination of critical areas, weapons and systems for future conflicts rather than a policy-writing body. Final results are expected within 120 days, with both a public version and a classified report to be issued. The assignment is Musk’s first formal advisory role in the Trump administration since last year’s public dispute. SpaceX performs U.S. national-security launches; Anduril supplies electronic-warfare gear, interceptors, rocket engines and unmanned combat systems to the Defense Department."
+    },
+    {
+      "id": "te:economy:588375",
+      "time": "2026-10-01 04:52:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Colombia Unexpectedly Raises Key Interest Rate — Colombia’s central bank unexpectedly raised its policy rate by 25 basis points to 12.25% on its September meeting, the highest level since early 2024, as it seeks to bring inflation back toward target after years of above-target price growth. Four policymakers backed the increase, while two voted to hold and one favored a larger 50-basis-point hike. Annual inflation accelerated to 6.24% in August and is expected to remain above the upper end of the central bank’s 2%-4% target range through 2026 and 2027. The board said the decision maintained a restrictive monetary policy consistent with a declining inflation path in 2027. Meanwhile, recent data pointed to weaker economic activity, with urban unemployment rising to 9.1% in August and economic activity, manufacturing and retail sales falling short of forecasts in July. The decision came amid concerns over the country’s fiscal outlook, with the government facing a widening budget deficit and seeking discussions with the IMF."
+    },
     {
       "id": "te:markets:588374",
       "time": "2026-10-01 04:49:55",
@@ -109413,18 +109441,6 @@
         "其他"
       ],
       "text": "英國政府：英國投資3.31億英鎊，應對氣候驅動的不穩定局勢，保護弱勢社群。"
-    },
-    {
-      "id": "te:markets:586245",
-      "time": "2026-09-24 04:53:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Yield Nears Three-Year High — Canada’s 10-year government bond yield rose to around 3.95% in September, nearing a three-year high as energy-driven inflation concerns persisted. Oil prices rose after a five-week halt in the rally that followed the US-Iran war, amid uncertainty over diplomatic efforts to end the conflict and reopen the Strait of Hormuz. Strong US economic data also strengthened expectations that the Fed could deliver another rate hike this year. US Treasury yields soared to multi-decade highs, further pressuring Canadian bonds as domestic yields tend to track US rates. Fed projections showed that most policymakers expect another hike before the end of 2026. The Bank of Canada kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected. However, it noted that inflation risks had increased, while new tariffs had made the growth outlook more uncertain. Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated."
     }
   ]
 }
