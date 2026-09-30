@@ -1,7 +1,94 @@
 {
   "date": "2026-10-01",
-  "count": 375,
+  "count": 385,
   "items": [
+    {
+      "id": "mkt:01a0f41d-d20b-7338-ab3b-a5e1f9216e02",
+      "time": "2026-10-01 04:59:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean government says two of eight nuclear reactors will use South Korea's APR1400 design."
+    },
+    {
+      "id": "mkt:01a0f41d-b7a0-7338-ab3b-9a566fef13ff",
+      "time": "2026-10-01 04:59:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean government: a Texas gas-fired power plant will provide 6.47 GW of capacity and is expected to enter commercial operation in 2029."
+    },
+    {
+      "id": "5121722",
+      "time": "2026-10-01 04:59:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國政府：阿拉斯加液化天然氣專案只有在滿足商業及法律條件的前提下才會推進。韓美兩國將對阿拉斯加液化天然氣管道及出口終端專案開展評估。"
+    },
+    {
+      "id": "mkt:01a0f41d-941e-7338-ab3b-9170a358571d",
+      "time": "2026-10-01 04:59:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The South Korean government said South Korea and the United States have launched a $22.3 billion natural-gas-fired power project in Texas to supply electricity to AI data centers."
+    },
+    {
+      "id": "5121721",
+      "time": "2026-10-01 04:59:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國政府：在美國投資專案中，在韓國收回所有單個專案的投資本金前，利潤分配比例維持 50 比 50。具有法律約束力的運營協議規定，年度投資上限為 200 億美元。"
+    },
+    {
+      "id": "mkt:01a0f41d-14b6-7338-ab3b-8a65d18abb82",
+      "time": "2026-10-01 04:59:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The South Korean government will invest $120 billion to build eight nuclear reactors in the United States."
+    },
+    {
+      "id": "mkt:01a0f41c-ede9-7338-ab3b-831b0640f145",
+      "time": "2026-10-01 04:58:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said gasoline prices would fall after a war with Iran ends."
+    },
+    {
+      "id": "5121720",
+      "time": "2026-10-01 04:57:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申，伊朗戰爭結束後汽油價格將會回落。"
+    },
+    {
+      "id": "5121719",
+      "time": "2026-10-01 04:56:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部就丹麥軍機“危險抵近”俄艦提出抗議】俄羅斯外交部9月30日召見丹麥駐俄大使，就本月14日丹麥空軍一架武裝直升機在波羅的海西南國際水域對一艘俄護衛艦實施“挑釁行為”一事，向丹方提出強烈抗議。俄外交部當天釋出宣告稱，丹麥空軍一架“大耳狐”武裝直升機14日“危險抵近”俄方一艘護衛艦，並在其上空不足50米的高度懸停。該行為存在直接或間接碰撞風險，對航行安全構成威脅。俄艦船員透過國際通訊頻道多次就安全隱患進行提示，遭到丹方無視。為引起丹方注意，俄護衛艦向丹直升機“相反方向”發射了兩枚訊號照明彈。 宣告說，俄方認為丹方上述行為違反《聯合國海洋法公約》，丹方就該事件對俄方提出的指控“經不起推敲”。此類魯莽行徑若再次發生，或致波羅的海地區緊張局勢進一步升級。丹麥外交大臣拉斯穆森本月15日表示，丹麥已召見俄駐丹麥大使，抗議俄護衛艦向丹麥軍用直升機發射照明彈的行為。丹麥軍方說，丹麥空軍一架武裝直升機14日在丹麥南部附近國際水域上空，對一艘俄羅斯護衛艦進行拍攝。俄艦向直升機發射兩枚照明彈，其中一枚從直升機附近飛過。（新華社）"
+    },
+    {
+      "id": "5121718",
+      "time": "2026-10-01 04:56:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥8月預算赤字7390.3億比索。"
+    },
     {
       "id": "5121716",
       "time": "2026-10-01 04:55:31",
