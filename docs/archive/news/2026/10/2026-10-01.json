@@ -1,7 +1,53 @@
 {
   "date": "2026-10-01",
-  "count": 362,
+  "count": 367,
   "items": [
+    {
+      "id": "mkt:01a0f40f-127b-7338-ab3b-5bf30060f85f",
+      "time": "2026-10-01 04:43:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SpaceXAI weighs unified subscription pricing for Grok and X】Documents show Elon Musk’s SpaceXAI is considering revised subscription plans for its Grok chatbot and X platform, proposing a unified subscription with four price tiers. A free tier would retain Grok access with tighter usage limits; a top-tier \"Ultra\" plan would cost $100/month and include a Grok Bot AI agent aimed at high-frequency users. The company would also offer an $8/month \"Lite\" tier providing Grok access, X verification badge and reduced ads. SpaceXAI is competing with ANTHROPIC and OpenAI and seeks to boost AI capabilities and expand its enterprise customer base."
+    },
+    {
+      "id": "5121714",
+      "time": "2026-10-01 04:43:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：受管道因素影響，東南亞將依賴美國天然氣。"
+    },
+    {
+      "id": "te:markets:588373",
+      "time": "2026-10-01 04:42:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Drops as Banking and Mining Stocks Weigh — The S&P/TSX Composite Index fell 0.6% to close at 35,236 on Wednesday as losses in banking and mining more than offset gains among energy producers. Oil prices rebounded amid uncertainty over US-Iran negotiations, supporting energy stocks but pressuring credit-sensitive sectors as concerns over persistent energy-driven inflation remained. Most major banks traded lower, with RBC losing 1.1% and TD Bank shedding 0.9%. Imperial Oil rose 1.1%, while Suncor gained 10.7%. Meanwhile, gold prices reversed earlier gains, weighing on mining shares, with Barrick down 1%, Agnico Eagle shedding 1.3%, and Franco-Nevada losing 3.8%. First Quantum plunged 15.3% after a Panamanian commission urged the orderly closure of its Cobre Panama mine. On the month, the S&P/TSX Composite Index shed 2.1%."
+    },
+    {
+      "id": "mkt:01a0f40d-4706-7338-ab3b-533ce65a3b15",
+      "time": "2026-10-01 04:41:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US ambassador to South Africa summoned again over ‘non‑diplomatic conduct’】South Africa’s Department of International Relations and Cooperation said on Sept. 30 that US Ambassador to South Africa Leo Brent Bozell III received a diplomatic note and was summoned on Sept. 29 for alleged “non‑diplomatic conduct.” It was the third time since taking up his post this year that South Africa has summoned him for breaching diplomatic norms and interfering in domestic affairs."
+    },
+    {
+      "id": "mkt:01a0f40c-5bcc-7338-ab3b-4c9cb21f8aab",
+      "time": "2026-10-01 04:40:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UAE condemned the killing of crew members aboard oil tanker MT Honour 25 off the coast of Somalia."
+    },
     {
       "id": "5121713",
       "time": "2026-10-01 04:37:47",
