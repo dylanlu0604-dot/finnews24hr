@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-01 05:19:28",
-  "count": 11974,
+  "updated": "2026-10-01 05:23:20",
+  "count": 11977,
   "items": [
+    {
+      "id": "5121739",
+      "time": "2026-10-01 05:22:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "特朗普談及出臺柴油出口禁令的可能性，聲稱：正在研究。"
+    },
+    {
+      "id": "5121738",
+      "time": "2026-10-01 05:22:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國完全控制著霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:01a0f430-0b38-7338-ab3c-2ca79cb48fd9",
+      "time": "2026-10-01 05:19:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Italy extends border controls with Spain for 15 days】On Sept 30, Interior Minister Matteo Piantedosi announced Italy will extend border controls with Spain for 15 days, the third extension since the migrant crisis in the Spanish autonomous city of Ceuta."
+    },
     {
       "id": "5121737",
       "time": "2026-10-01 05:18:37",
