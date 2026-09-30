@@ -1,7 +1,65 @@
 {
   "date": "2026-09-30",
-  "count": 667,
+  "count": 674,
   "items": [
+    {
+      "id": "5119675",
+      "time": "2026-09-30 08:23:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔傳出爆炸聲。"
+    },
+    {
+      "id": "5119674",
+      "time": "2026-09-30 08:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列防長威脅打擊哈馬斯海外領導人】以色列國防部長卡茨9月29日說，身處海外的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）領導人也在以色列打擊之列，以方將追擊2023年10月7日襲擊以色列的所有參與者。卡茨在一段影片宣告中威脅稱，那些參與2023年10月7日襲擊以色列的“核心角色”，一個也不能“安然死去”。卡茨還說，以軍在28日夜間至29日凌晨的行動中打死哈馬斯軍事分支北加沙旅指揮官。近期，以方加大對加沙地帶巴勒斯坦武裝人員打擊力度。以總理內塔尼亞胡29日稱，最近幾周，以軍在加沙地帶打死百餘名“恐怖分子”。"
+    },
+    {
+      "id": "5119673",
+      "time": "2026-09-30 08:23:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "法拉第未來：FFR 擬議重組的核心，是將 FF 機器人業務以約2億美元市場化估值整合至納斯達克上市公司 AIxC，並計劃將公司更名為 FF EAI Robotics Ecosystem Inc.、股票程式碼由 AIXC 改為 FFR。FFAI 與 FFR 認為，該估值體現了機器人業務已有的產品、交付和商業化基礎，以及“四核全智”生態的長期潛力。交易仍須滿足相關完成條件。"
+    },
+    {
+      "id": "5119672",
+      "time": "2026-09-30 08:22:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普的支援率在《華爾街日報》的一項民調中降至37%，這是自1990年以來該報民調記錄中任何一位即將迎來中期選舉的總統的最低支援率。"
+    },
+    {
+      "id": "5119671",
+      "time": "2026-09-30 08:21:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：由於強風，新款 Roadster 演示活動推遲兩週。"
+    },
+    {
+      "id": "mkt:01a0efb0-211c-7338-ab1f-7e9582502757",
+      "time": "2026-09-30 08:21:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chip boom lifts tax take; South Korea projects record tax revenue in 2026】South Korea's Ministry of Economy and Finance projects 2026 tax revenue of 478.6 trillion won (~$353 billion), up 28% year-on-year and 63.2 trillion won above the estimate used in this year's supplementary budget. The ministry said the upside is mainly from larger-than-expected tax receipts tied to semiconductor firms' profits, special dividends and equity trading. The forecast would push annual tax revenue past 400 trillion won for the first time and about 21% above the previous record set in 2022."
+    },
+    {
+      "id": "5119670",
+      "time": "2026-09-30 08:20:57",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【受美聯儲抗擊通脹提振，美元或創下6月以來最佳單月表現】隨著美聯儲重新將重心放在抑制通脹上，推高了利率預期和美國債券收益率，美元正迎來6月以來的最佳單月表現。9月份，彭博美元現貨指數上漲了1.9%，觸及兩個月來的最高水平。穩健的美國經濟資料和加劇的通脹風險一直在提振該貨幣。伊朗戰爭導致能源價格居高不下，並將美國國債收益率推至歷史峰值，其中30年期國債收益率達到了2002年以來的最高水平。當前市場定價顯示，預計美聯儲未來12個月累計加息近1個百分點，進一步提振美元。"
+    },
     {
       "id": "5119669",
       "time": "2026-09-30 08:17:56",
