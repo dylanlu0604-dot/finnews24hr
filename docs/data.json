@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-01 00:24:04",
-  "count": 11889,
+  "updated": "2026-10-01 00:28:01",
+  "count": 11896,
   "items": [
+    {
+      "id": "te:markets:588348",
+      "time": "2026-10-01 00:27:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Corn Tumbles to 5-Week Low After US Stocks Data — Corn fell more than 3% to around $5.00 a bushel, the lowest in five weeks, after the USDA reported US inventories well above market expectations. Corn stocks as of September 1 stood at 2.095 billion bushels, compared with trade estimates of 1.918 billion, highlighting a larger supply cushion than anticipated. Traders were also assessing the progress of the US harvest, with forecasts for continued rainfall raising concerns that wet conditions could slow fieldwork. As of Monday, farmers had harvested 18% of the corn crop, in line with the five-year average, according to the USDA. The decline also reflected broader weakness across grain markets. China excluded soybeans from proposed tariff reductions on US agricultural goods, prompting traders to reduce positions and weighing on corn through spillover effects. Although corn was included in China’s proposed tariff cuts, the agreement did not include new commitments to purchase US corn."
+    },
+    {
+      "id": "5121527",
+      "time": "2026-10-01 00:26:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "福特汽車股價下跌2.6%，創5月13日以來新低。"
+    },
+    {
+      "id": "te:markets:588347",
+      "time": "2026-10-01 00:25:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes Lower, Posts Monthly Loss — Frankfurt's DAX 40 lost further ground to close about 0.8% down at 25,211 on Wednesday, hitting the lowest since July 24, mirroring its European peers. Market sentiment remained pressured by surging oil prices and elevated bond yields amid persistent Middle East risks. Meanwhile, investors assessed a batch of economic data from Europe and the US, particularly inflation. Signs of rising price pressures across major eurozone economies raised expectations that the ECB may need to keep monetary policy tight for longer. Media, insurance, industrials, telecom and banks were the hardest hit, while retailers and tech advanced the most. The index recorded a monthly decline of roughly 4%, but posted a 0.9% quarterly gain."
+    },
+    {
+      "id": "5121526",
+      "time": "2026-10-01 00:24:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯目前預計2026年預算赤字為4.9%，此前預期為3.3%。"
+    },
+    {
+      "id": "mkt:01a0f321-959f-7338-ab37-50c6b2d68bcf",
+      "time": "2026-10-01 00:24:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy's prime minister Meloni said Italy hopes the EU will grant member states \"additional flexibility\" in budget rules to account for the inf impact of higher energy costs."
+    },
+    {
+      "id": "mkt:01a0f321-5fdb-7338-ab37-4c81dc8d1210",
+      "time": "2026-10-01 00:24:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia lodged a protest over what it called \"unprofessional and provocative behavior\" by a Danish Air Force helicopter."
+    },
+    {
+      "id": "5121525",
+      "time": "2026-10-01 00:23:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼表示，意方希望歐盟在預算規則上給予成員國“額外靈活性”，以將能源成本引發的通脹影響納入考量。"
+    },
+    {
+      "id": "mkt:01a0f321-296c-7338-ab37-4047880bc9d5",
+      "time": "2026-10-01 00:23:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia summons Denmark's ambassador, sources say."
+    },
     {
       "id": "mkt:01a0f320-642e-7338-ab37-38d472e9395f",
       "time": "2026-10-01 00:23:01",
@@ -108934,18 +109011,6 @@
         "國際"
       ],
       "text": "印度下調食用油進口關稅。"
-    },
-    {
-      "id": "te:markets:586222",
-      "time": "2026-09-24 00:24:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Switzerland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Swiss Bond Yield Rebounds — The yield on the Swiss 10-year government bond rose above 0.55% after reaching its lowest level in over two weeks, as global oil prices rebounded, raising concerns over prolonged inflationary pressures. On the monetary policy front, the Swiss National Bank is set to announce its policy rate decision on Thursday and is widely expected to leave the rate unchanged at 0%. A Swiss Bankers Association survey showed that all respondents expect the SNB to keep its policy rate at 0% through the end of the year. Markets are pricing in the first rate hike for June 2027, while most economists expect the first increase in early 2028. Meanwhile, the State Secretariat for Economic Affairs raised its forecast for economic growth in 2026 to 1.7%, as the impact of higher energy prices remains limited, up from its June projection of 0.9% and broadly in line with the OECD’s latest forecast of 2%."
     }
   ]
 }
