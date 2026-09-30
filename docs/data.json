@@ -1,7 +1,86 @@
 {
-  "updated": "2026-09-30 11:17:48",
-  "count": 11989,
+  "updated": "2026-09-30 11:21:36",
+  "count": 11992,
   "items": [
+    {
+      "id": "mkt:01a0f053-7729-7338-ab23-c7979c5c72f9",
+      "time": "2026-09-30 11:19:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI reversed earlier gains and was down 0.3% at 6,847.72 points."
+    },
+    {
+      "id": "mkt:01a0f053-5bbe-7338-ab23-bc12eb2157d1",
+      "time": "2026-09-30 11:19:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share property sector continued to rally; Lujiazui hit the daily limit-up, Zhongtian Service earlier hit limit-up, and Binjiang Group, Shenzhen Property A, Vanke A and Shenshenfang A pushed higher."
+    },
+    {
+      "id": "5119955",
+      "time": "2026-09-30 11:19:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【旅韓雙胞胎大熊貓將於12月回國】韓國愛寶樂園9月30日表示，在韓國誕生的雙胞胎中國大熊貓“睿寶”和“輝寶”將於12月回國。"
+    },
+    {
+      "id": "mkt:01a0f052-4b7d-7338-ab23-b2c450f35e8b",
+      "time": "2026-09-30 11:18:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Sinopec Group chairman Hou Qijun meets Saudi Aramco chairman Yasir Al-Rumayyan】Sinopec Group chairman Hou Qijun met Saudi Aramco chairman Yasir Al-Rumayyan at Sinopec headquarters on Sept. 29. They exchanged views on strategic cooperation in oil trading, refining and petrochemical joint ventures, and engineering services."
+    },
+    {
+      "id": "5119954",
+      "time": "2026-09-30 11:18:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石化董事長侯啟軍會見沙特阿美公司董事長魯梅延】9月29日，中國石化集團公司董事長侯啟軍在總部會見沙特阿美公司董事長魯梅延，雙方就石油貿易、煉化合資、工程服務等領域的戰略合作交換了意見。"
+    },
+    {
+      "id": "5119953",
+      "time": "2026-09-30 11:18:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：iPhone 18 Pro系列在中國首周銷量同比增長12%，助推蘋果躍居榜首】根據Counterpoint Research的《中國智慧手機周度銷量追蹤報告》，自7月以來，中國智慧手機周銷量保持同比雙位數下滑。受儲存成本上漲影響，消費者需求持續疲軟，但隨著9月新品釋出週期到來，預計將推動市場環比復甦。iPhone 18 Pro系列在上市的首三天（僅佔第38周的三天）的銷量，較iPhone 17 Pro系列上市首周銷量同比增長12%。憑藉這一強勁的開局表現，蘋果在第38周躍居周度銷量榜首，佔中國智慧手機市場份額的33%。"
+    },
+    {
+      "id": "5119952",
+      "time": "2026-09-30 11:18:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行（BI）：將繼續下調印尼央行證券（ SRBI ）收益率，相關工具持續運作至年底。"
+    },
+    {
+      "id": "mkt:01a0f051-64ab-7338-ab23-a9736a3a52f9",
+      "time": "2026-09-30 11:17:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "06693.HK",
+        "Impact bullish",
+        "01787.HK",
+        "02259.HK"
+      ],
+      "text": "Hong Kong-listed gold stocks rallied: Chifeng Gold (06693.HK) rose over 5%, Shandong Gold (01787.HK) gained 4.4%, and Zijin Gold International (02259.HK) and China Silver Group (00815.HK) climbed more than 3%."
+    },
     {
       "id": "mkt:01a0f050-d55f-7338-ab23-a123b675ca26",
       "time": "2026-09-30 11:17:04",
@@ -109708,48 +109787,6 @@
         "Importance 0"
       ],
       "text": "Silver Falls on Hawkish Fed Outlook — Silver slipped below $67 an ounce on Wednesday, giving up gains from the previous session as hawkish signals from Federal Reserve officials outweighed the impact of falling oil prices on the inflation and interest rate outlook. On Tuesday, Richmond Fed President Tom Barkin warned that inflationary shocks could take time to fade, while Boston Fed President Susan Collins said she supported last week’s rate hike amid concerns that future inflation could remain above the 2% target. Meanwhile, oil prices extended their decline for a sixth straight session after President Trump said US officials had a “very good” meeting with Iranian envoys, while Tehran said it could reopen the Strait of Hormuz within seven days if the US eases military pressure and lifts its blockade of Iranian ports. Lower oil prices help reduce concerns over higher inflation and further rate hikes."
-    },
-    {
-      "id": "5108931",
-      "time": "2026-09-23 11:21:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿里雲宣佈新一輪全球基礎設施擴建計劃】阿里雲在2026雲棲大會上宣佈新一輪全球基礎設施擴建計劃，未來一年將在8個國家和地區新增資料中心，包括：將於土耳其、芬蘭和荷蘭首次設立雲端計算地域節點（Region），並擴建馬來西亞、德國、阿聯酋、法國和中國香港的資料中心，進一步提升全球算力供給和本地化雲與AI服務能力。同時，阿里雲還將升級SmartFusion、SmartVideo等面向國際市場的AI產品。"
-    },
-    {
-      "id": "em:qqyh_mlc:202609233882290715",
-      "time": "2026-09-23 11:21:05",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【安聯首席：加息不該是抗通脹最佳工具 市場“緊逼”恐適得其反！】自美聯儲上週加息以來，市場一直相對平靜，但安聯首席經濟顧問、PIMCO前首席投資官穆罕默德·埃爾-埃利安（MohamedEl-Erian）警告稱，市場可能正在迫使世界各地的央行提高利率。"
-    },
-    {
-      "id": "5108930",
-      "time": "2026-09-23 11:19:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽部署“三秋”機械化生產工作 落實好跨區作業農機轉運免費通行政策】近日，安徽省農業農村廳印發《關於做好2026年“三秋”機械化生產工作的通知》，要求各地全力保障秋糧豐收到手、顆粒歸倉。通知提到，各地要落實好跨區作業農機轉運免費通行政策，依規執行輕微交通違法容錯免罰規定，保障農機跨區作業通行順暢。通知強調，各地要把“三秋”機械化生產擺在當前“三農”工作突出位置，全面摸排機具情況、做好作業供需對接，及時釋出機具供需、作業價格、氣象預警等資訊，適時組織開展生產作業，科學排程農機資源，兼顧小農戶以及“小散偏”地塊作業需求，保障機械化生產高效有序開展。強化農機社會化服務監管，引導農機服務主體規範誠信經營。"
-    },
-    {
-      "id": "5108929",
-      "time": "2026-09-23 11:18:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歐卡智舶完成C輪融資 年內累計融資近3億元】9月23日，海面具身智慧公司歐卡智舶宣佈，公司已於2026年7月完成C輪融資，由西高投領投，元禾璞華、三元資本跟投。本輪融資金額未單獨披露，公司年內累計融資近3億元。"
-    },
-    {
-      "id": "5108928",
-      "time": "2026-09-23 11:18:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【科學儀器板塊震盪走高 優利德、東方中科雙雙漲停】科學儀器板塊盤中震盪走高，優利德、東方中科漲停，普源精電、萊伯泰科漲超15%，騰信精密、國儀公司、電科思儀、皖儀科技漲幅靠前。"
     }
   ]
 }
