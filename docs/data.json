@@ -1,7 +1,26 @@
 {
-  "updated": "2026-10-01 00:35:47",
-  "count": 11894,
+  "updated": "2026-10-01 00:39:38",
+  "count": 11893,
   "items": [
+    {
+      "id": "mkt:01a0f32d-aea5-7338-ab37-6ff676117288",
+      "time": "2026-10-01 00:37:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US oil firms warn diesel prices may take more than a year to return to 2025 levels】The Financial Times reports US oil and gas firms warn diesel prices may need over a year to return to 2025 levels. A Dallas Fed survey of 100 energy companies found nearly half expect diesel to take more than four quarters to normalize. Respondents cited disruption to Middle East supply from the Iran war and Ukrainian strikes on Russian refineries as key factors tightening global diesel availability. An industry respondent said diesel is critical to economic activity and the market is only beginning to feel the impact of high prices. The Trump administration has discussed measures including restricting diesel exports and urging allies to release stocks to curb domestic fuel costs. Analysts warn an export ban could boost US supply short term but may lift fuel prices longer term and disrupt Europe and Latin America, which rely on US diesel shipments."
+    },
+    {
+      "id": "5121533",
+      "time": "2026-10-01 00:36:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尚比亞宣佈暴發新一輪霍亂疫情】當地時間9月30日，尚比亞衛生部宣佈該國暴發新一輪霍亂疫情，該國的盧薩卡省、中央省、盧阿普拉省、北方省以及南方省5個省份共報告了304例病例，包括11例死亡病例。（央視新聞）"
+    },
     {
       "id": "mkt:01a0f32a-e4a7-7338-ab37-6366a129f628",
       "time": "2026-10-01 00:34:29",
@@ -108988,30 +109007,6 @@
         "國際"
       ],
       "text": "印度政府：粗葵花籽油基本進口關稅由 10% 下調至 0%。"
-    },
-    {
-      "id": "5110443",
-      "time": "2026-09-24 00:38:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普政府擬放緩執行美國國立衛生研究院科研資助相關令。"
-    },
-    {
-      "id": "5110442",
-      "time": "2026-09-24 00:38:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：精煉棕櫚油、精煉大豆油進口關稅下調至 27.5%。"
-    },
-    {
-      "id": "5110441",
-      "time": "2026-09-24 00:35:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織：中東戰爭爆發時，全球公共債務規模已經接近歷史高位。支援性的財政政策、私人投資以及人工智慧生產率提升潛力，可能支撐中期全球經濟增長。自2月底開始的中東戰爭透過能源、大宗商品和供應鏈中斷，顯著改變了全球經濟增長軌跡。"
     }
   ]
 }
