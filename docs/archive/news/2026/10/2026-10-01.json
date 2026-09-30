@@ -1,7 +1,42 @@
 {
   "date": "2026-10-01",
-  "count": 82,
+  "count": 85,
   "items": [
+    {
+      "id": "mkt:01a0f32a-e4a7-7338-ab37-6366a129f628",
+      "time": "2026-10-01 00:34:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US 10-year Treasury yield rose to 5.29%, its highest level since 2007."
+    },
+    {
+      "id": "5121532",
+      "time": "2026-10-01 00:32:42",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率升至5.29%，創2007年以來新高。"
+    },
+    {
+      "id": "5121531",
+      "time": "2026-10-01 00:32:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "United Therapeutics（聯合治療公司）股價上漲12.2%，此前該公司贏得了針對Liquidia的法院裁決。"
+    },
     {
       "id": "te:markets:588349",
       "time": "2026-10-01 00:30:11",
