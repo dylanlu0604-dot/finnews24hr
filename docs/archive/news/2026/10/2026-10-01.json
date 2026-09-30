@@ -1,7 +1,63 @@
 {
   "date": "2026-10-01",
-  "count": 113,
+  "count": 119,
   "items": [
+    {
+      "id": "5121551",
+      "time": "2026-10-01 00:57:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI計劃很快推出四個Grok定價層級。"
+    },
+    {
+      "id": "mkt:01a0f33f-6e39-7338-ab37-d2189a620689",
+      "time": "2026-10-01 00:56:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "xAI plans to roll out four Grok pricing tiers soon."
+    },
+    {
+      "id": "mkt:01a0f33f-2f2f-7338-ab37-ce55808de742",
+      "time": "2026-10-01 00:56:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Trump said the U.S. economy is at record levels and accused the media of underreporting its performance."
+    },
+    {
+      "id": "mkt:01a0f33d-eb51-7338-ab37-c67f8ef01911",
+      "time": "2026-10-01 00:55:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said running for the French presidency would not be a good idea for her."
+    },
+    {
+      "id": "5121550",
+      "time": "2026-10-01 00:55:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克旗下的SpaceXAI正考慮對Grok及X使用者的定價體系進行全面改革。"
+    },
+    {
+      "id": "mkt:01a0f33d-66dd-7338-ab37-be9d691f50b4",
+      "time": "2026-10-01 00:54:42",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "DAX"
+      ],
+      "text": "ECB President LAGARDE said she does not rule out leaving office several months before her ECB term ends."
+    },
     {
       "id": "5121549",
       "time": "2026-10-01 00:54:25",
