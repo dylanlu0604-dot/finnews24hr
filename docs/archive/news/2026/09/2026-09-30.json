@@ -1,7 +1,58 @@
 {
   "date": "2026-09-30",
-  "count": 1086,
+  "count": 1093,
   "items": [
+    {
+      "id": "5119966",
+      "time": "2026-09-30 11:27:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國SET指數下跌1%，至1577.97點。"
+    },
+    {
+      "id": "5119965",
+      "time": "2026-09-30 11:27:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工商銀行：落實居民購房貸款貼息政策】9月30日，中國工商銀行公告稱，該行認真落實《關於實施居民購房貸款貼息政策的通知》（財金〔2026〕95號）要求，自2026年10月1日起，為符合上述通知要求的客戶按貼息標準提供貼息服務。該行將採取“免申即享”辦理方式，即每月收息時，在每期還款額中自動扣除對應貼息金額，並透過簡訊等方式及時告知客戶。工商銀行提示：在辦理商業性個人住房貸款貼息業務過程中，該行不收取任何費用。"
+    },
+    {
+      "id": "mkt:01a0f059-ef3f-7338-ab23-e35ec756ddc7",
+      "time": "2026-09-30 11:27:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shenzhen Property A hit an intraday limit-up, staging a di-tian-ban — a same-day flip from intraday limit-down to limit-up. Last: 12.24 yuan; turnover 750 mln yuan."
+    },
+    {
+      "id": "5119964",
+      "time": "2026-09-30 11:26:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度：為達到新的燃油效率標準，汽車製造商將需要銷售包含內燃機汽車、混合動力汽車及電動汽車在內的多元化車型組合。"
+    },
+    {
+      "id": "5119963",
+      "time": "2026-09-30 11:25:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深物業A盤中漲停，上演“地天板”，現報12.24元，成交額7.48億元。"
+    },
+    {
+      "id": "5119962",
+      "time": "2026-09-30 11:25:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度敲定乘用車更嚴格的燃油效率標準，新規將於2027年4月1日起生效，有效期五年。"
+    },
     {
       "id": "mkt:01a0f058-1307-7338-ab23-ddb5aafab3ff",
       "time": "2026-09-30 11:24:58",
@@ -9,6 +60,15 @@
         "MKT News"
       ],
       "text": "【China NEA: August green certificates issued 354 mln, MoM +15.75%】China’s National Energy Administration issued 354 mln green certificates in August 2026, up 15.75% MoM, covering 3.7096 mln renewable power projects; 212 mln were tradable (60.04%). The issuance corresponded to 323 mln green certificates for July 2026 renewable generation (91.41%). Nationwide green-certificate trading in August totaled 60.55 mln, up 11.13% MoM and 25.18% YoY; green-power trading accounted for 25.52 mln, down 0.25% MoM and up 44.86% YoY."
+    },
+    {
+      "id": "em:qqyh_mlc:202609303887554824",
+      "time": "2026-09-30 11:24:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【多位美聯儲官員釋放加息訊號 紐約聯儲主席稱今年晚些時候加息或是合適的】本週，多名美聯儲官員密集就通脹、貨幣政策和經濟前景發表講話。紐約聯儲主席約翰·威廉姆斯表示，如果經濟符合預期，今年可能再加息一次，但9月加息後“沒有必要急於行動”；聖路易斯聯儲主席阿爾貝託·穆薩萊姆則強調，美聯儲應避免在沒有明確框架的情況下退出溝通，否則市場可能無法理解其政策和行動。"
     },
     {
       "id": "5119961",
