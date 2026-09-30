@@ -1,7 +1,81 @@
 {
-  "updated": "2026-10-01 00:43:31",
-  "count": 11895,
+  "updated": "2026-10-01 00:47:24",
+  "count": 11900,
   "items": [
+    {
+      "id": "mkt:01a0f336-3903-7338-ab37-978dc9e16528",
+      "time": "2026-10-01 00:46:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Goldman Sachs moves its forecast for the Fed's next rate hike from October to December."
+    },
+    {
+      "id": "mkt:01a0f335-d2f5-7338-ab37-8e8f0938d73a",
+      "time": "2026-10-01 00:46:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's prime minister Netanyahu met an Israeli passenger on a FlyDubai flight."
+    },
+    {
+      "id": "5121541",
+      "time": "2026-10-01 00:46:03",
+      "tags": [
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "高盛將美聯儲加息預期從10月上調至12月。"
+    },
+    {
+      "id": "5121540",
+      "time": "2026-10-01 00:45:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡會見了迪拜航空航班上的以色列乘客。"
+    },
+    {
+      "id": "5121539",
+      "time": "2026-10-01 00:44:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫發文分析美國國會的壓力軌跡：\nΩ(t) = 債務負擔 / 市場承載力 + 伊朗施加的槓桿\n債務負擔↑ = (債務到期牆↑ + 債務不斷攀升↑) × 收益率↑ + 收益率上升速度↑\n市場承載力↓ = 美聯儲操作空間↓ × (美聯儲縮表↓ + 經濟增長? + 外國買家↓ + 交易商承載力↓)\n伊朗槓桿↑ = 能源價格↑ + 債券收益率↑ + 對美聯儲施壓↑\nΩ(當前) < Ω(11月) < Ω(2027年)"
+    },
+    {
+      "id": "mkt:01a0f333-a637-7338-ab37-87499c838d30",
+      "time": "2026-10-01 00:44:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The Houthi movement said that in the past 24 hours Saudi F-15s operating from Khamis Mushait air base carried out 51 air and missile strikes, while missiles launched from Najran and Jizan targeted civilian communications networks and infrastructure in Marib, Saada, Hodeidah, Taiz and Amran provinces. The group said total Saudi air and missile attacks since the conflict escalated have reached 1,209."
+    },
+    {
+      "id": "5121538",
+      "time": "2026-10-01 00:43:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與內塔尼亞胡預計將在未來幾小時內就迪拜航空事件通電話。"
+    },
+    {
+      "id": "5121537",
+      "time": "2026-10-01 00:43:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列訊息人士：目前階段的評估認為，迪拜航空客機事件的涉事飛行員是“獨狼”，系單獨作案。"
+    },
     {
       "id": "mkt:01a0f332-100d-7338-ab37-7b9d15dee1ad",
       "time": "2026-10-01 00:42:19",
@@ -108997,30 +109071,6 @@
         "其他"
       ],
       "text": "IMF總裁格奧爾基耶娃：全球經濟中期增長前景疲弱，財政挑戰日益嚴峻。"
-    },
-    {
-      "id": "5110448",
-      "time": "2026-09-24 00:47:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯外長拉夫羅夫在聯合國表示，莫斯科不會暫停烏克蘭相關軍事行動。"
-    },
-    {
-      "id": "5110447",
-      "time": "2026-09-24 00:44:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音與土耳其航空敲定最多 150 架 737 MAX 客機訂單。"
-    },
-    {
-      "id": "5110446",
-      "time": "2026-09-24 00:43:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度表示，食用油進口關稅調整將於 9 月 24 日生效。"
     }
   ]
 }
