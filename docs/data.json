@@ -1,7 +1,182 @@
 {
-  "updated": "2026-09-30 17:50:41",
-  "count": 12041,
+  "updated": "2026-09-30 17:54:28",
+  "count": 12051,
   "items": [
+    {
+      "id": "te:economy:588180",
+      "time": "2026-09-30 17:53:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "South Africa Producer inflation Softens for 3rd Month — Producer price inflation in South Africa fell for the third month to 5% in August 2026, the softest since April, easing from 5.7% in July. The slowdown mainly reflected softer increases in the costs of coke, petroleum, chemical, rubber and plastic products (13.6% vs 15.7% in July), including petrol prices (20.9% vs 29.4%) and chemicals (5.4% vs 6%). Moreover, prices fell for food products (-0.6% vs 0.3%). On a monthly basis, the PPI fell by 0.4%, after a 1% decrease in the month before."
+    },
+    {
+      "id": "5120792",
+      "time": "2026-09-30 17:53:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江淮汽車：完成回購436.5萬股，支付9987.16萬元】江淮汽車公告，公司此前擬使用自有資金以集中競價交易方式回購股份，回購金額5000萬元~1億元，價格不超過64元/股，用於維護公司價值及股東權益，回購股份後續全部登出。截至2026年9月30日，回購期限屆滿，實際回購436.5萬股，佔總股本0.1936%，成交價格18.98元/股~26.19元/股，支付總金額9987.16萬元（不含交易費用）。"
+    },
+    {
+      "id": "5120791",
+      "time": "2026-09-30 17:52:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "艾伯維宣佈，其在研藥物ABBV-295在1期臨床試驗中顯示出最高9.8% 的體重減輕效果，表現出“有意義的體重下降”。"
+    },
+    {
+      "id": "mkt:01a0f1bb-4641-7338-ab2d-d9473ccdcf3a",
+      "time": "2026-09-30 17:52:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Bank of England warns AI valuations could see \"sharper correction\"】The Bank of England warned in its quarterly Financial Stability Report that AI valuations remain at risk of a sharper correction than in July, and that such a collapse could have broad effects on global growth and sovereign bond yields. Policymakers said interconnected vulnerabilities in the financial system are rising and the likelihood of simultaneous shocks has increased. The Bank flagged the multi-trillion-dollar AI market as a major risk and cited a renewed escalation in the Middle East, which could trigger a longer-lasting negative supply shock and raise sovereign debt risk. The Bank reiterated prior warnings that asset froth may be forming across AI-related equities, credit markets and sovereign debt."
+    },
+    {
+      "id": "mkt:01a0f1bb-0580-7338-ab2d-d32a6212c019",
+      "time": "2026-09-30 17:52:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says it has had contacts with the United States regarding a potential prisoner swap."
+    },
+    {
+      "id": "mkt:01a0f1ba-ab70-7338-ab2d-cc0df2793f45",
+      "time": "2026-09-30 17:52:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin, responding to reports that sanctions might be eased in exchange for the release of political prisoners, said Russia has no political prisoners and called such claims meaningless."
+    },
+    {
+      "id": "5120790",
+      "time": "2026-09-30 17:52:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【均瑤健康：公司生產經營正常】均瑤健康公告，公司股票於2026年9月28日、9月29日、9月30日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，構成股票交易異常波動。經核查，公司生產經營正常，市場環境、行業政策未發生重大調整，不存在應披露而未披露的重大事項或需澄清的媒體報道、市場傳聞。公司2026年半年度歸屬於上市公司股東的淨利潤449.91萬元，較去年同期減少39.74%。"
+    },
+    {
+      "id": "mkt:01a0f1ba-676d-7338-ab2d-c4ab5db34958",
+      "time": "2026-09-30 17:52:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin denied reports it was considering talks to lift sanctions in exchange for prisoner releases."
+    },
+    {
+      "id": "5120789",
+      "time": "2026-09-30 17:51:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華翔股份在廣東成立液冷科技公司】企查查APP顯示，近日，華翔液冷科技（廣東）有限公司成立，註冊資本3000萬元，經營範圍包含：雲端計算裝置製造；雲端計算裝備技術服務；製冷、空調裝置製造等。企查查股權穿透顯示，該公司由華翔股份全資持股。"
+    },
+    {
+      "id": "mkt:01a0f1ba-11a3-7338-ab2d-ba7dbf3d981b",
+      "time": "2026-09-30 17:51:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "The Kremlin said its diplomats had tried to remind hot-headed Europeans to heed Moscow's core documents on the issue, after Russia's nuclear warning to NATO over Kaliningrad."
+    },
+    {
+      "id": "5120788",
+      "time": "2026-09-30 17:51:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【僑源股份：3665萬元設立全資子公司並完成工商登記】僑源股份公告稱，公司使用自有資金3665萬元投資設立全資子公司僑源氣體（新疆）有限公司，該子公司已於近日完成工商註冊登記手續，取得新疆生產建設兵團第七師市場監督管理局頒發的營業執照，法定代表人為李宏，成立日期為2026年9月29日。本次設立子公司事項已履行內部審批程式，無需提交董事會和股東會審議，不涉及關聯交易，不構成重大資產重組。"
+    },
+    {
+      "id": "5120787",
+      "time": "2026-09-30 17:50:56",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "財政部公佈2026年第四季度國債發行有關安排。（財政部）"
+    },
+    {
+      "id": "te:markets:588178",
+      "time": "2026-09-30 17:50:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AXA Stock Price Hits 4-week Low — AXA shares decreased to 42.70 EUR, the lowest since August 2026. Over the past 4 weeks, AXA lost 0.74%, and in the last 12 months, it increased 5.27%."
+    },
+    {
+      "id": "mkt:01a0f1b9-2555-7338-ab2d-b24cb62797b0",
+      "time": "2026-09-30 17:50:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says President Putin will address the newly elected parliament later on Wednesday evening."
+    },
+    {
+      "id": "5120786",
+      "time": "2026-09-30 17:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：普京將於週三晚些時候在新當選的議會上發表講話。"
+    },
+    {
+      "id": "5120785",
+      "time": "2026-09-30 17:50:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就俄羅斯針對加里寧格勒問題向北約發出核警告一事表態：我國外交人員正努力提醒歐洲的激進分子，留意我國在這一問題上的基礎性綱領檔案。"
+    },
+    {
+      "id": "5120784",
+      "time": "2026-09-30 17:50:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就“釋放政治囚犯以換取放寬制裁”的相關報道表態：俄羅斯不存在政治囚犯，此類說法毫無意義。"
+    },
+    {
+      "id": "5120783",
+      "time": "2026-09-30 17:50:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮駁斥了有關可能討論以交換囚犯換取解除對俄製裁的相關報道。"
+    },
+    {
+      "id": "5120782",
+      "time": "2026-09-30 17:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮談可能的囚犯交換：我們與美國存有相關接觸。"
+    },
     {
       "id": "mkt:01a0f1b8-d08d-7338-ab2d-ac711fa761e5",
       "time": "2026-09-30 17:50:16",
@@ -110148,78 +110323,6 @@
         "005930.KS"
       ],
       "text": "LG Electronics' India-listed shares pared gains, last up 1.2%, after Refinitiv reported the company and Samsung are facing an Indian probe into tariff evasion."
-    },
-    {
-      "id": "5109647",
-      "time": "2026-09-23 17:54:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南成功發行政府債券560.04億元】9月23日，河南省在深圳成功發行政府債券560.04億元。新增一般債券78.46億元，用於基礎設施專案建設。新增專項債券380.12億元，其中：92.8億元用於補充地方政府性基金財力；84.38億元用於存量政府投資專案；202.94億元用於土地儲備、保障性安居工程、市政和產業園區基礎設施和生態環保等重點領域的391個建設專案。再融資專項債券101.46億元，用於置換存量隱性債務。"
-    },
-    {
-      "id": "5109646",
-      "time": "2026-09-23 17:53:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果CEO：全新 Mac mini 與 Mac Studio 效能再躍升，讓 AI 體驗如虎添翼。"
-    },
-    {
-      "id": "5109645",
-      "time": "2026-09-23 17:53:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中秋國慶假期鐵路運輸今日啟動！國鐵廣州局預計傳送旅客3860萬人次，創歷史新高】今年中秋國慶假期鐵路運輸今日啟動，運輸期限為9月23日至10月8日，共計16天。國鐵廣州局預計傳送旅客3860萬人次，同比增長514.9萬人次，增幅15.4%，突破歷史同期最高紀錄。客流最高峰將出現在10月1日，預計傳送旅客375萬人次，同比增長24.3萬人次，增幅6.9%。"
-    },
-    {
-      "id": "5109644",
-      "time": "2026-09-23 17:51:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南華大學附屬第二醫院院長劉文捷接受審查調查】“三湘風紀”訊息，南華大學附屬第二醫院黨委副書記、院長劉文捷涉嫌嚴重違紀違法，主動投案，目前正接受南華大學紀委紀律審查和衡陽市監委監察調查。"
-    },
-    {
-      "id": "5109643",
-      "time": "2026-09-23 17:51:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "布魯克菲爾德洽談以 20 億美元收購 Actimize。"
-    },
-    {
-      "id": "mkt:01a0cdad-88a9-7118-8660-88fe3a2c0e82",
-      "time": "2026-09-23 17:51:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC measured a M5.3 earthquake in Argentina at 17:21 on Sep 23; hypocenter depth 120 km."
-    },
-    {
-      "id": "5109642",
-      "time": "2026-09-23 17:51:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雷迪克等成立機電科技公司】企查查APP顯示，近日，黃山雷迪克機電科技有限公司成立，法定代表人為陸莎莎，註冊資本為1200萬元，經營範圍包含：軸承製造；軸承、齒輪和傳動部件製造；軸承銷售；軸承、齒輪和傳動部件銷售等。企查查股權穿透顯示，該公司由汪震宇、雷迪克共同持股。"
-    },
-    {
-      "id": "5109641",
-      "time": "2026-09-23 17:50:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：09月23日17時21分在阿根廷（南緯28.85度，西經67.10度）發生5.3級地震，震源深度120千米。"
-    },
-    {
-      "id": "5109640",
-      "time": "2026-09-23 17:50:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【皖能電力：擬增資新能公司17.85億元並構成關聯交易】皖能電力公告，公司擬與控股股東安徽省能源集團有限公司按現有持股比例同比例對安徽省新能創業投資有限責任公司增資，皖能電力出資17.85億元、集團公司出資17.15億元，合計增資35億元。增資後新能公司註冊資本由78.18億元增加至113.18億元，各方持股比例不變。本次交易構成關聯交易，需提交股東會審議。"
     }
   ]
 }

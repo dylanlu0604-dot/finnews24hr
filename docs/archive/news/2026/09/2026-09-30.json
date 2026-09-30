@@ -1,7 +1,182 @@
 {
   "date": "2026-09-30",
-  "count": 1775,
+  "count": 1794,
   "items": [
+    {
+      "id": "te:economy:588180",
+      "time": "2026-09-30 17:53:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "South Africa Producer inflation Softens for 3rd Month — Producer price inflation in South Africa fell for the third month to 5% in August 2026, the softest since April, easing from 5.7% in July. The slowdown mainly reflected softer increases in the costs of coke, petroleum, chemical, rubber and plastic products (13.6% vs 15.7% in July), including petrol prices (20.9% vs 29.4%) and chemicals (5.4% vs 6%). Moreover, prices fell for food products (-0.6% vs 0.3%). On a monthly basis, the PPI fell by 0.4%, after a 1% decrease in the month before."
+    },
+    {
+      "id": "5120792",
+      "time": "2026-09-30 17:53:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江淮汽車：完成回購436.5萬股，支付9987.16萬元】江淮汽車公告，公司此前擬使用自有資金以集中競價交易方式回購股份，回購金額5000萬元~1億元，價格不超過64元/股，用於維護公司價值及股東權益，回購股份後續全部登出。截至2026年9月30日，回購期限屆滿，實際回購436.5萬股，佔總股本0.1936%，成交價格18.98元/股~26.19元/股，支付總金額9987.16萬元（不含交易費用）。"
+    },
+    {
+      "id": "mkt:01a0f1bb-4641-7338-ab2d-d9473ccdcf3a",
+      "time": "2026-09-30 17:52:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Bank of England warns AI valuations could see \"sharper correction\"】The Bank of England warned in its quarterly Financial Stability Report that AI valuations remain at risk of a sharper correction than in July, and that such a collapse could have broad effects on global growth and sovereign bond yields. Policymakers said interconnected vulnerabilities in the financial system are rising and the likelihood of simultaneous shocks has increased. The Bank flagged the multi-trillion-dollar AI market as a major risk and cited a renewed escalation in the Middle East, which could trigger a longer-lasting negative supply shock and raise sovereign debt risk. The Bank reiterated prior warnings that asset froth may be forming across AI-related equities, credit markets and sovereign debt."
+    },
+    {
+      "id": "5120791",
+      "time": "2026-09-30 17:52:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "艾伯維宣佈，其在研藥物ABBV-295在1期臨床試驗中顯示出最高9.8% 的體重減輕效果，表現出“有意義的體重下降”。"
+    },
+    {
+      "id": "mkt:01a0f1bb-0580-7338-ab2d-d32a6212c019",
+      "time": "2026-09-30 17:52:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says it has had contacts with the United States regarding a potential prisoner swap."
+    },
+    {
+      "id": "mkt:01a0f1ba-ab70-7338-ab2d-cc0df2793f45",
+      "time": "2026-09-30 17:52:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin, responding to reports that sanctions might be eased in exchange for the release of political prisoners, said Russia has no political prisoners and called such claims meaningless."
+    },
+    {
+      "id": "5120790",
+      "time": "2026-09-30 17:52:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【均瑤健康：公司生產經營正常】均瑤健康公告，公司股票於2026年9月28日、9月29日、9月30日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，構成股票交易異常波動。經核查，公司生產經營正常，市場環境、行業政策未發生重大調整，不存在應披露而未披露的重大事項或需澄清的媒體報道、市場傳聞。公司2026年半年度歸屬於上市公司股東的淨利潤449.91萬元，較去年同期減少39.74%。"
+    },
+    {
+      "id": "mkt:01a0f1ba-676d-7338-ab2d-c4ab5db34958",
+      "time": "2026-09-30 17:52:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin denied reports it was considering talks to lift sanctions in exchange for prisoner releases."
+    },
+    {
+      "id": "5120789",
+      "time": "2026-09-30 17:51:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華翔股份在廣東成立液冷科技公司】企查查APP顯示，近日，華翔液冷科技（廣東）有限公司成立，註冊資本3000萬元，經營範圍包含：雲端計算裝置製造；雲端計算裝備技術服務；製冷、空調裝置製造等。企查查股權穿透顯示，該公司由華翔股份全資持股。"
+    },
+    {
+      "id": "mkt:01a0f1ba-11a3-7338-ab2d-ba7dbf3d981b",
+      "time": "2026-09-30 17:51:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "The Kremlin said its diplomats had tried to remind hot-headed Europeans to heed Moscow's core documents on the issue, after Russia's nuclear warning to NATO over Kaliningrad."
+    },
+    {
+      "id": "5120788",
+      "time": "2026-09-30 17:51:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【僑源股份：3665萬元設立全資子公司並完成工商登記】僑源股份公告稱，公司使用自有資金3665萬元投資設立全資子公司僑源氣體（新疆）有限公司，該子公司已於近日完成工商註冊登記手續，取得新疆生產建設兵團第七師市場監督管理局頒發的營業執照，法定代表人為李宏，成立日期為2026年9月29日。本次設立子公司事項已履行內部審批程式，無需提交董事會和股東會審議，不涉及關聯交易，不構成重大資產重組。"
+    },
+    {
+      "id": "5120787",
+      "time": "2026-09-30 17:50:56",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "財政部公佈2026年第四季度國債發行有關安排。（財政部）"
+    },
+    {
+      "id": "te:markets:588178",
+      "time": "2026-09-30 17:50:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AXA Stock Price Hits 4-week Low — AXA shares decreased to 42.70 EUR, the lowest since August 2026. Over the past 4 weeks, AXA lost 0.74%, and in the last 12 months, it increased 5.27%."
+    },
+    {
+      "id": "mkt:01a0f1b9-2555-7338-ab2d-b24cb62797b0",
+      "time": "2026-09-30 17:50:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says President Putin will address the newly elected parliament later on Wednesday evening."
+    },
+    {
+      "id": "5120786",
+      "time": "2026-09-30 17:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：普京將於週三晚些時候在新當選的議會上發表講話。"
+    },
+    {
+      "id": "5120785",
+      "time": "2026-09-30 17:50:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就俄羅斯針對加里寧格勒問題向北約發出核警告一事表態：我國外交人員正努力提醒歐洲的激進分子，留意我國在這一問題上的基礎性綱領檔案。"
+    },
+    {
+      "id": "5120784",
+      "time": "2026-09-30 17:50:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就“釋放政治囚犯以換取放寬制裁”的相關報道表態：俄羅斯不存在政治囚犯，此類說法毫無意義。"
+    },
+    {
+      "id": "5120783",
+      "time": "2026-09-30 17:50:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮駁斥了有關可能討論以交換囚犯換取解除對俄製裁的相關報道。"
+    },
+    {
+      "id": "5120782",
+      "time": "2026-09-30 17:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮談可能的囚犯交換：我們與美國存有相關接觸。"
+    },
     {
       "id": "mkt:01a0f1b8-d08d-7338-ab2d-ac711fa761e5",
       "time": "2026-09-30 17:50:16",
