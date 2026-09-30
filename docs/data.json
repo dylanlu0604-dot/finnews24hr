@@ -1,7 +1,105 @@
 {
-  "updated": "2026-10-01 00:04:16",
-  "count": 11861,
+  "updated": "2026-10-01 00:08:14",
+  "count": 11865,
   "items": [
+    {
+      "id": "5121506",
+      "time": "2026-10-01 00:07:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯在一份宣告中預計，2027年該國財政總收入將達到1.2萬億里亞爾。"
+    },
+    {
+      "id": "5121505",
+      "time": "2026-10-01 00:07:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書雷扎伊警告阿聯酋不要接待以色列總理內塔尼亞胡，聲稱此舉將帶來後果。"
+    },
+    {
+      "id": "te:markets:588340",
+      "time": "2026-10-01 00:07:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.27% Lower — The FTSE 100 Index fell 29 points or 0.27 percent on Wednesday to close at 10608 points. Leading the losses are Airtel Africa (-3.34%), Barratt Redrow (-2.57%) and BT (-2.09%). Top gainers were Antofagasta (3.18%), Reckitt Benckiser (3.13%) and SSE (1.97%)."
+    },
+    {
+      "id": "5121504",
+      "time": "2026-10-01 00:05:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲航空安全域性就沙特空域釋出安全建議】歐洲航空安全域性9月30日表示，鑑於葉門胡塞武裝近期擴大對沙烏地阿拉伯目標的襲擊，相關空域的民航安全風險上升，建議航空運營商不要在其劃定的沙特部分空域的任何高度飛行。歐洲航空安全域性在當天釋出的一份資訊通報中說，9月以來，胡塞武裝對沙特海上、能源和基礎設施目標的襲擊頻率及範圍明顯加大。沙特南部和西南部空域因靠近胡塞武裝控制區，面臨的風險尤為突出。通報還說，導彈和無人機襲擊及防空系統啟動增加了民航飛機被誤判的風險，同時帶來攔截和殘骸墜落等風險。（新華社）"
+    },
+    {
+      "id": "5121503",
+      "time": "2026-10-01 00:05:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "對沖基金億萬富豪比爾·阿克曼：我們正在借鑑沃倫·巴菲特的經驗。"
+    },
+    {
+      "id": "te:markets:588338",
+      "time": "2026-10-01 00:05:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Weighed by Inflation Concerns — The CAC 40 fell 0.9% to close at 7,964 on Wednesday amid a lack of progress in US-Iran negotiations. Oil and fuel prices rose amid concerns over energy-driven inflation, pressuring credit-sensitive stocks as expectations for more hawkish central-bank increased. France’s preliminary CPI data showed annual inflation up to 3% in September, its highest level since February 2024. Financials fell, with BNP Paribas down 2.5% and AXA losing 2.2%. Industrials were mostly lower, with Schneider Electric falling 1.5%, Thales down 0.9%, and Vinci shedding 1.4%. The pharmaceutical and chemical subsectors gained, with Sanofi up 1.6%, EssilorLuxottica rising 0.7%, and Air Liquide adding 1.2%. Meanwhile, household consumption of goods in France fell 0.5% in August, reversing a 0.4% increase in July and marking the first monthly decline since April. Luxury stocks posted losses, with LVMH and Hermes both down 1.2%. TotalEnergies lost 3.1% as investors took profits. On the month, the CAC 40 lost 5.2%."
+    },
+    {
+      "id": "5121502",
+      "time": "2026-10-01 00:04:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯8月失業率為2.2%。"
+    },
+    {
+      "id": "5121501",
+      "time": "2026-10-01 00:04:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國農業部資料顯示美國玉米供應量超預期，玉米期貨價格下跌2.9%。"
+    },
+    {
+      "id": "mkt:01a0f30e-eb96-7338-ab36-cd6f0e1ef8c0",
+      "time": "2026-10-01 00:03:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Russia's Rosstat said retail sales rose 3.3% YoY in August, down from 5.3% in July and below market consensus of 5.6%."
+    },
+    {
+      "id": "5121500",
+      "time": "2026-10-01 00:03:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯8月建築業同比增長2.7%。"
+    },
+    {
+      "id": "5121499",
+      "time": "2026-10-01 00:03:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：儘管財政狀況嚴峻，我們仍將竭盡所能。"
+    },
     {
       "id": "mkt:01a0f30e-68da-7338-ab36-c0566fabc671",
       "time": "2026-10-01 00:03:22",
@@ -9,6 +107,14 @@
         "MKT News"
       ],
       "text": "Rosstat said weekly consumer inflation was 0.12% in the week to Sept. 28, up from 0.06% in the prior week."
+    },
+    {
+      "id": "5121498",
+      "time": "2026-10-01 00:03:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦統計局資料顯示，1月至7月俄羅斯企業利潤同比下降15.7%，至13.03萬億盧布。"
     },
     {
       "id": "mkt:01a0f30d-fc28-7338-ab36-bf90a28cf6a6",
@@ -108611,78 +108717,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Closes 0.39% Lower — The CAC 40 Index decreased 31 points or 0.39 percent on Wednesday to close at 8123 points. The decline was led by Eurofins Scientific SE (-3.55%), Unibail Rodamco (-2.55%) and Pernod Ricard (-2.24%). On the upside, the strongest performers were TP (3.87%), Essilor (3.11%) and TotalEnergies SE (1.95%)."
-    },
-    {
-      "id": "5110425",
-      "time": "2026-09-24 00:07:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普（貿易事務）的助理納瓦羅：內閣秘書們應當與福克斯新聞、福克斯商業新聞劃清界限。"
-    },
-    {
-      "id": "te:markets:586214",
-      "time": "2026-09-24 00:07:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.10% Higher — The FTSE 100 Index rose 10 points or 0.10 percent on Wednesday to close at 10719 points. Leading the gains are BP (2.82%), Relx (2.16%) and Babcock International (1.92%). Top losers were JD Sports Fashion (-3.56%), Fresnillo (-2.87%) and Entain (-2.77%)."
-    },
-    {
-      "id": "5110424",
-      "time": "2026-09-24 00:07:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Anthropic 高管出資支援一家生物威脅領域初創企業Pilgrim。"
-    },
-    {
-      "id": "5110423",
-      "time": "2026-09-24 00:06:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼海事安全中心：商船 “CAPE DAO” 號遇襲後，該中心已撤離船上船員。此次襲擊造成一名船員遇難。"
-    },
-    {
-      "id": "mkt:01a0cf04-5444-7118-866d-5da140f40bad",
-      "time": "2026-09-24 00:06:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Oman Maritime Security Centre said one crew member was killed in an attack."
-    },
-    {
-      "id": "mkt:01a0cf04-2c19-7118-866d-50b9f3f2679b",
-      "time": "2026-09-24 00:05:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Oman Maritime Security Centre says crew of merchant vessel \"CAPE DAO\" were evacuated after the ship was attacked."
-    },
-    {
-      "id": "te:markets:586213",
-      "time": "2026-09-24 00:05:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Slips on Soaring Yields — The CAC 40 fell 0.4% to close at 8,123 on Wednesday as higher oil prices stoked concerns about inflationary pressures, driving yields higher. Eurozone sovereign yields, including French yields, soared to multi-decade highs as strong economic growth and higher energy prices reinforced expectations that the ECB will continue raising interest rates this year. The Eurozone’s PMI was stronger than expected for both services and manufacturing, while the survey confirmed that soaring energy prices were passed through to output charges. Domestically, flash data showed France’s Composite PMI jumping to 51.2 in September from 48.5 in August, marking its strongest reading since August 2024. Financials closed lower, with BNP Paribas down 1.1% and AXA losing 1.6%. Luxury stocks also weighed, with L’Oreal down 2.3% and LVMH shedding 2.3%. Industrials closed mixed. TotalEnergies rose 1.9% on the oil rebound."
-    },
-    {
-      "id": "5110422",
-      "time": "2026-09-24 00:04:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統：願意談判合作 不接受強權威脅】當地時間9月23日，伊朗總統佩澤希齊揚在第81屆聯合國大會一般性辯論上發表講話。他表示，伊朗願意談判與合作，但不會接受以強權、制裁或軍事威脅迫使其讓步，和平必須建立在公平、正義、尊嚴和各國平等權利的基礎上。佩澤希齊揚強調，伊朗維護國家安全、主權和和平利用核技術的立場，認為自身防禦力量是避免外部威脅的重要保障，同時否認以霸權方式追求安全。佩澤希齊揚批評一些國家在伊朗核問題、以色列及巴勒斯坦問題上的“雙重標準”，認為持續佔領、侵略和不公會加劇地區衝突。佩澤希齊揚表示，戰爭和軍事力量不能取代國際法、外交與政治對話，他呼籲透過地區合作實現共同安全。（央視新聞）"
     }
   ]
 }
