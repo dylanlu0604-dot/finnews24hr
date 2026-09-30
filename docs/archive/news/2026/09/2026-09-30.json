@@ -1,7 +1,266 @@
 {
   "date": "2026-09-30",
-  "count": 1681,
+  "count": 1709,
   "items": [
+    {
+      "id": "mkt:01a0f1aa-f5e2-7338-ab2d-68ba5f3208c1",
+      "time": "2026-09-30 17:35:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Private-sector members of a major Japanese economic advisory panel urged the Bank of Japan to coordinate closely with the government while stressing respect for the central bank's independence."
+    },
+    {
+      "id": "te:markets:588166",
+      "time": "2026-09-30 17:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Heads for 7% Monthly Gain — Brent crude rose back toward $97 a barrel on Wednesday and was heading for a monthly gain of more than 7% as uncertainty over US-Iran negotiations continued to support prices. Iranian government spokesperson Fatemeh Mohajerani said Tehran had received a US proposal concerning the reopening of the Strait of Hormuz, following the submission of Iran’s own conditions last week. Despite the diplomatic uncertainty, Middle East crude supplies have recovered close to pre-war levels. Saudi Arabia has restarted shipments from Yanbu after restoring operations on its East-West pipeline, which provides an alternative route around Hormuz. The 10-day average of Middle East crude exports is estimated at 17.5 million barrels a day, equivalent to 98% of pre-war volumes. In the US, API data showed crude and gasoline inventories increased last week, while distillate stocks declined. Official EIA figures were due later Wednesday, with analysts expecting overall crude and product inventories to have fallen."
+    },
+    {
+      "id": "mkt:01a0f1aa-cba4-7338-ab2d-6013fa400c10",
+      "time": "2026-09-30 17:34:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission said the Consumer Protection Cooperation (CPC) network’s action aims to protect gamers’ rights."
+    },
+    {
+      "id": "mkt:01a0f1aa-8fc1-7338-ab2d-5bdc3342b7f4",
+      "time": "2026-09-30 17:34:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission says it has launched EU-level coordinated action targeting nine video-game companies."
+    },
+    {
+      "id": "5120728",
+      "time": "2026-09-30 17:34:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀾起科技：截至9月30日累計回購金額4.10億元】瀾起科技公告稱，公司回購股份用途為維護公司價值及股東權益，回購金額區間為3億元-6億元，回購實施期限為2026年7月24日至2026年10月23日。2026年9月公司透過集中競價交易方式回購股份117.80萬股，佔總股本的0.10%，回購價格區間為184.14元/股-200.58元/股，支付金額22738.73萬元。截至2026年9月30日，公司累計回購股份208.80萬股，佔總股本的0.17%，回購價格區間為184.14元/股-210.00元/股，累計支付金額41022.80萬元。"
+    },
+    {
+      "id": "5120727",
+      "time": "2026-09-30 17:34:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度內閣批准冬季作物（Rabi crops）最低支援價格。"
+    },
+    {
+      "id": "5120726",
+      "time": "2026-09-30 17:34:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶華新材：截至9月30日累計回購股份244.70萬股】晶華新材公告稱，公司回購股份方案實施期限為2026年7月19日至2026年10月18日，擬使用資金總額不低於5000萬元且不超過1億元，回購價格不超過45.98元/股，回購用途為維護公司價值及股東權益。2026年9月，公司透過集中競價交易方式回購股份50.14萬股，佔總股本比例0.17%，回購價區間為14.92元/股-14.95元/股，支付金額749.59萬元。截至2026年9月30日，公司累計回購股份244.70萬股，佔總股本比例0.84%，回購價區間為14.92元/股-15.50元/股，累計支付總金額3749.31萬元。"
+    },
+    {
+      "id": "5120725",
+      "time": "2026-09-30 17:34:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "尚比亞央行行長：預計尚比亞2026年通脹率平均為6.7%，2027年為6%。"
+    },
+    {
+      "id": "te:markets:588164",
+      "time": "2026-09-30 17:34:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Rebounds to $90 — Crude oil climbed back above $90 a barrel on Wednesday and was heading for a monthly gain of more than 5% as uncertainty over US-Iran negotiations continued to support prices. Iranian government spokesperson Fatemeh Mohajerani said Tehran had received a US proposal concerning the reopening of the Strait of Hormuz, following the submission of Iran’s own conditions last week. Despite the diplomatic uncertainty, Middle East crude supplies have recovered close to pre-war levels. Saudi Arabia has restarted shipments from Yanbu after restoring operations on its East-West pipeline, which provides an alternative route around Hormuz. The 10-day average of Middle East crude exports is estimated at 17.5 million barrels a day, equivalent to 98% of pre-war volumes. In the US, API data showed crude and gasoline inventories increased last week, while distillate stocks declined. Official EIA figures were due later Wednesday, with analysts expecting overall crude and product inventories to have fallen."
+    },
+    {
+      "id": "mkt:01a0f1a9-80e5-7338-ab2d-57c55cb1c4cb",
+      "time": "2026-09-30 17:33:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Bank of England's FPC says the risk of a sharp market correction persists as yields rise."
+    },
+    {
+      "id": "mkt:01a0f1a9-46ae-7338-ab2d-4c75cc41daf2",
+      "time": "2026-09-30 17:33:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England's FPC said if AI-driven growth fails to materialize as expected, government bonds would face new risks."
+    },
+    {
+      "id": "5120724",
+      "time": "2026-09-30 17:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國衛生大臣庫珀：將釋出社會護理勞動力規劃。"
+    },
+    {
+      "id": "mkt:01a0f1a8-fccd-7338-ab2d-40aa2aa888a0",
+      "time": "2026-09-30 17:32:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of England's FPC said vulnerabilities in frontier AI underscore the need for financial institutions to prepare for associated risks and to engage with UK authorities."
+    },
+    {
+      "id": "mkt:01a0f1a8-d780-7338-ab2d-3db0caae2d50",
+      "time": "2026-09-30 17:32:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England FPC says the Bank will publish proposed bank leverage-ratio and gilt-repo reforms in early 2027."
+    },
+    {
+      "id": "5120722",
+      "time": "2026-09-30 17:32:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：此次消費者保護合作（CPC）網路開展的行動，旨在保護遊戲玩家權益。"
+    },
+    {
+      "id": "mkt:01a0f1a8-adad-7338-ab2d-318ad113f3d6",
+      "time": "2026-09-30 17:32:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England's FPC said UK households and businesses remain resilient and the banking system is well capitalised; countercyclical capital buffer held at 2%."
+    },
+    {
+      "id": "5120721",
+      "time": "2026-09-30 17:32:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦研究啟動對思科覆蓋，給予“市場表現”評級，目標價110美元。"
+    },
+    {
+      "id": "mkt:01a0f1a8-95bb-7338-ab2d-2b3c93409a04",
+      "time": "2026-09-30 17:32:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's National Press and Publication Administration updated its 2026 approvals for imported online games, adding three newly approved titles."
+    },
+    {
+      "id": "mkt:01a0f1a8-5bbf-7338-ab2d-222496a221f6",
+      "time": "2026-09-30 17:32:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Bank of England's FPC says high-risk credit markets, including some private credit segments, remain vulnerable to tighter financing conditions."
+    },
+    {
+      "id": "5120720",
+      "time": "2026-09-30 17:32:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：已針對九家電子遊戲企業啟動歐盟層面的協同行動。"
+    },
+    {
+      "id": "mkt:01a0f1a8-2ee0-7338-ab2d-19813bcf4e04",
+      "time": "2026-09-30 17:32:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England's FPC said more testing of AI models, both pre- and post-deployment, is required before implementing regulation."
+    },
+    {
+      "id": "mkt:01a0f1a8-1ca5-7338-ab2d-1341d584bede",
+      "time": "2026-09-30 17:32:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bullish",
+        "0981.HK",
+        "Impact bearish",
+        "1109.HK"
+      ],
+      "text": "Southbound Stock Connect net bought RMB 6.864 billion today. Via Hong Kong Stock Connect (Shanghai), Tencent and CNOOC were top net buys at HKD 723 million and HKD 339 million respectively; SMIC was the largest net seller at HKD 162 million. Via Hong Kong Stock Connect (Shenzhen), Tencent and CHINA RES LAND led net buying at HKD 684 million and HKD 254 million respectively; SMIC was the top net seller at HKD 809 million."
+    },
+    {
+      "id": "5120719",
+      "time": "2026-09-30 17:31:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非統計局公佈，南非8月整體生產者通脹率環比下降0.4%。"
+    },
+    {
+      "id": "5120718",
+      "time": "2026-09-30 17:31:45",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "南非統計局：南非8月整體生產者物價指數（PPI）同比上漲5.0%，7月漲幅為5.7%，市場共識預期為5.6%。"
+    },
+    {
+      "id": "5120717",
+      "time": "2026-09-30 17:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非統計局公佈，南非8月生產者物價指數整體同比資料為環比下降0.4%，7月為環比下降1.0%，市場預測值為環比上升0.2%。"
+    },
+    {
+      "id": "mkt:01a0f1a7-c618-7338-ab2d-0aa7d9ff647f",
+      "time": "2026-09-30 17:31:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England's FPC said financial markets have so far shown resilience to high energy prices and elevated bond yields."
+    },
+    {
+      "id": "5120716",
+      "time": "2026-09-30 17:31:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國英格蘭銀行金融政策委員會：逆週期資本緩衝維持在2%。"
+    },
     {
       "id": "mkt:01a0f1a7-a203-7338-ab2d-02192f8cad1d",
       "time": "2026-09-30 17:31:30",
@@ -9,6 +268,15 @@
         "MKT News"
       ],
       "text": "Bank of England's FPC says planned market-based gilt repo reforms will reduce risks from changes in leverage ratios."
+    },
+    {
+      "id": "5120715",
+      "time": "2026-09-30 17:31:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行金融政策委員會：英國家庭與企業仍保持韌性，銀行體系資本充足水平符合要求。"
     },
     {
       "id": "5120714",
