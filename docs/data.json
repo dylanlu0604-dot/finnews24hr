@@ -1,7 +1,59 @@
 {
-  "updated": "2026-09-30 07:58:27",
-  "count": 11909,
+  "updated": "2026-09-30 08:02:18",
+  "count": 11903,
   "items": [
+    {
+      "id": "5119651",
+      "time": "2026-09-30 08:01:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本兩年期國債收益率下跌1.0個基點，至1.95%。"
+    },
+    {
+      "id": "5119650",
+      "time": "2026-09-30 08:00:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.1%，至6943.47點。"
+    },
+    {
+      "id": "5119649",
+      "time": "2026-09-30 08:00:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報66128.59點，漲幅0.99％。韓國綜合股價指數（KOSPI）開盤上漲1.1％，至6943.47點。"
+    },
+    {
+      "id": "5119648",
+      "time": "2026-09-30 07:59:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星重工贏得百慕大兩艘超大型液化氣船訂單，價值3074億韓元。"
+    },
+    {
+      "id": "5119647",
+      "time": "2026-09-30 07:58:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北京 “金九” 樓市一線走訪：新房成交顯著回暖 二手房帶看、諮詢升溫】9月29日，記者對北京樓市進行實地走訪。記者瞭解到，“金九”期間，北京二手房帶看、諮詢量增加，但成交尚未達到1.5萬套“榮枯線”。目前，北京二手房掛牌量為14.1萬套左右，整體位於相對低位，受價格影響，很多優質房源業主出現“惜售”。 相比之下，新房熱度有所提升。9月1日至27日，新房住宅網籤量達到3876套，環比上漲59.9%。 業內人士表示，“金九銀十”剩餘階段，新房熱度將持續延續，核心改善盤、剛需優質盤成交會保持穩定，但遠郊剛需盤仍需以價換量。二手房市場料難有爆發式行情，整體以平穩築底為主。（中國證券報）"
+    },
+    {
+      "id": "mkt:01a0ef9a-e2f4-7338-ab1f-4b574110393d",
+      "time": "2026-09-30 07:58:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Jet fuel spike pushes U.S. airfares to 10-year high】On the 29th, a recent surge in U.S. jet fuel prices pushed domestic airfares during the late-November holiday period about 31% higher YoY, the largest increase in ten years. If jet fuel stays elevated, airfares are expected to rise further."
+    },
     {
       "id": "5119646",
       "time": "2026-09-30 07:57:47",
@@ -108835,123 +108887,6 @@
         "005930.KS"
       ],
       "text": "South Korea's SK Hynix shares rose 3%, Samsung Electronics gained nearly 3%."
-    },
-    {
-      "id": "mkt:01a0cb91-f292-7118-8652-d1c34f9505d8",
-      "time": "2026-09-23 08:02:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Asian Development Bank held its 2026 GDP growth forecast for Japan at 0.7% and raised India's 2026 GDP growth forecast to 7.0% from 6.6%."
-    },
-    {
-      "id": "mkt:01a0cb91-aef9-7118-8652-cbf8fb4d4a5a",
-      "time": "2026-09-23 08:01:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "Asian Development Bank raised its 2027 inflation forecast for Asia to 3.5% from 3.4%."
-    },
-    {
-      "id": "mkt:01a0cb91-91ac-7118-8652-c62afa33dbd3",
-      "time": "2026-09-23 08:01:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Asian Development Bank maintains its 2027 GDP growth forecast for developing Asia at 5.1%."
-    },
-    {
-      "id": "mkt:01a0cb91-7dc2-7118-8652-bf42e016101c",
-      "time": "2026-09-23 08:01:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI opened up 121.17 points (+1.73%) at 7,139.08 on Sept 23 (Wed)."
-    },
-    {
-      "id": "mkt:01a0cb91-1c07-7118-8652-b7f41546e7fa",
-      "time": "2026-09-23 08:01:19",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish",
-        "CNH",
-        "Nikkei 225"
-      ],
-      "text": "Asian Development Bank lowers 2026 Asia inf forecast to 4.2% from 4.3%."
-    },
-    {
-      "id": "5108675",
-      "time": "2026-09-23 08:01:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價上漲3%。"
-    },
-    {
-      "id": "5108674",
-      "time": "2026-09-23 08:00:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.9%，至7153.99點。日本股市今日繼續休市。"
-    },
-    {
-      "id": "mkt:01a0cb90-60c2-7118-8652-ae52f7e1ef4e",
-      "time": "2026-09-23 08:00:31",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Wall Street Journal reports Ukrainian President Zelenskiy said Russian President Putin is unlikely to respond absent new pressure and sanctions."
-    },
-    {
-      "id": "5108673",
-      "time": "2026-09-23 08:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高通釋出第六代驍龍8超級至尊版，移動 CPU主頻首達5GHz，面向智慧體AI時代打造】9月23日，高通宣佈推出第六代驍龍8超級至尊版移動平臺。據悉，該平臺搭載全新Qualcomm Oryon CPU，是全球最快且首款最高主頻達到5GHz的移動CPU，專為智慧體AI時代打造。從CPU、NPU到GPU，全部核心引擎均具備AI加速能力。透過計算、AI與圖形處理的協同，快取和儲存架構創新，該平臺支援更高效、響應更迅速的終端側智慧體AI，並帶來更高的畫質、更流暢的遊戲體驗和更出色的能效表現。（新浪科技）"
-    },
-    {
-      "id": "mkt:01a0cb90-04a3-7118-8652-a74c795705d7",
-      "time": "2026-09-23 08:00:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "According to the Wall Street Journal, Ukrainian President Zelenskiy asked US President Trump for \"winter equipment\" military supplies and believes Trump will seek a ceasefire covering energy infrastructure."
-    },
-    {
-      "id": "5108672",
-      "time": "2026-09-23 07:59:27",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國財長貝森特披露財務狀況 檔案顯示了價值至少2.28億美元的資產】根據覆蓋了美國財政部長斯科特·貝森特擔任公職首年的財務披露檔案，2025年他從價值至少2.28億美元的資產中至少賺了510萬美元。貝森特週二披露了九個餘額至少六位數的銀行賬戶，其中有三個賬戶都超過了5000萬美元。檔案還顯示，他持有藥物研發公司Cambrian Biopharma Inc.的少量股份，出售了專注於德國和泰國的ETF的股份。"
-    },
-    {
-      "id": "5108671",
-      "time": "2026-09-23 07:58:58",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：玻纖行業發展存在三個趨勢 建議關注兩條主線】華泰證券透過覆盤六家玻纖及製品一體化上市企業的2026年半年報及過去十年財務情況，總結認為當前國內玻纖行業發展存在三個重要趨勢：1.電子布正成為推動玻纖行業分化的重要因素，且電子領域應用的景氣度有望延續；2.隨著織布機和紗端新產能陸續落地，特種電子布正進入加速放量期；3.電子紗及電子布進口均價持續攀升，特種電子布國產替代有望快速提升。展望2026年下半年，建議關注兩條主線：1.普通電子布的供給約束將由布（織布機）向紗（窯爐+漏板）端轉換，重視紗+布一體化；2.繼續看好二代低介電（Low-DK2）和Low-CTE等特種電子布的量價齊升。"
     }
   ]
 }
