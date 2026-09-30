@@ -1,7 +1,182 @@
 {
-  "updated": "2026-09-30 23:47:49",
-  "count": 11828,
+  "updated": "2026-09-30 23:51:56",
+  "count": 11841,
   "items": [
+    {
+      "id": "mkt:01a0f301-f0d9-7338-ab36-4e9a68072c0c",
+      "time": "2026-09-30 23:49:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Attorney General Blanche is coordinating closely with foreign counterparts on the Dubai flight incident."
+    },
+    {
+      "id": "5121479",
+      "time": "2026-09-30 23:49:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會宣佈，提議修訂規則以拓展私募市場負責任的零售參與。"
+    },
+    {
+      "id": "5121478",
+      "time": "2026-09-30 23:49:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國內政部：英國政府與法國合作的試點專案，以遣返尋求庇護者換取同等數量合法移民，已不再受理新案件。"
+    },
+    {
+      "id": "5121477",
+      "time": "2026-09-30 23:48:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：法國需要可信的預算路徑與改革來恢復市場信心。"
+    },
+    {
+      "id": "mkt:01a0f301-0da7-7338-ab36-462049e1e324",
+      "time": "2026-09-30 23:48:47",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "ECB President Lagarde: France needs a credible fiscal path and reforms to restore confidence."
+    },
+    {
+      "id": "5121476",
+      "time": "2026-09-30 23:48:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部長布蘭奇就迪拜航空航班備降事件表示：目前正與海外對口部門保持高度密切協調。"
+    },
+    {
+      "id": "5121475",
+      "time": "2026-09-30 23:48:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：當前歐洲金融體系的穩健程度高於2008年和2011年危機時期。"
+    },
+    {
+      "id": "mkt:01a0f300-b3c6-7338-ab36-3ef7ce7f023f",
+      "time": "2026-09-30 23:48:24",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said Europe's financial system is more resilient now than during the 2008 and 2011 crises."
+    },
+    {
+      "id": "5121474",
+      "time": "2026-09-30 23:48:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄強調日本不應入常】9月30日，俄羅斯外交部發言人扎哈羅娃在回答總檯CGTN記者就“日本謀求聯合國安理會常任理事國席位及妄圖刪除《聯合國憲章》‘敵國條款’”等問題時強調，不應為包括日本在內的西方國家增加安理會常任或非常任席位，否則將進一步加劇“集體西方”對該機構的不平衡影響，甚至可能阻礙安理會正常運轉。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a0f300-0552-7338-ab36-37518c505f26",
+      "time": "2026-09-30 23:47:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said France's debt situation is serious, at 120% of GDP, and there is no way to reduce it."
+    },
+    {
+      "id": "em:qqyh_ozyh:202609303887954568",
+      "time": "2026-09-30 23:47:36",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行執委施納貝爾稱未來數月通脹圖景將更清晰。"
+    },
+    {
+      "id": "5121473",
+      "time": "2026-09-30 23:47:26",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：法國債務形勢嚴峻，債務規模已達GDP的120%，且目前沒有明確的債務削減路徑。"
+    },
+    {
+      "id": "5121472",
+      "time": "2026-09-30 23:47:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行執委施納貝爾：關注核心價格可能是實現2%目標的最佳途徑。"
+    },
+    {
+      "id": "mkt:01a0f2ff-8354-7338-ab36-2a952cadf5b6",
+      "time": "2026-09-30 23:47:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France's 10-year bond yield rose 6bp to 4.87%, the highest since March 2002."
+    },
+    {
+      "id": "5121471",
+      "time": "2026-09-30 23:47:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國10年期國債收益率上升6個基點至4.87%，為2002年3月以來最高水平。"
+    },
+    {
+      "id": "5121470",
+      "time": "2026-09-30 23:46:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行執委施納貝爾：關鍵在於能源價格如何傳導至基礎通脹。"
+    },
+    {
+      "id": "5121469",
+      "time": "2026-09-30 23:46:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行執委施納貝爾：歐洲央行將制定政策以防止衝擊被固化。"
+    },
+    {
+      "id": "5121468",
+      "time": "2026-09-30 23:46:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行執委施納貝爾：能源價格與利率之間並非一一對應的關係。"
+    },
     {
       "id": "5121467",
       "time": "2026-09-30 23:46:38",
@@ -108319,54 +108494,6 @@
         "其他"
       ],
       "text": "惠譽評瑞典：預計該國經濟框架維持不變，但能否迴歸預算平衡目標將取決於財政政策選擇。"
-    },
-    {
-      "id": "te:markets:586208",
-      "time": "2026-09-23 23:51:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "NextEra Energy Stock Price Hits 51-week Low — NextEra Energy shares decreased to 77.44 USD, the lowest since October 2025. Over the past 4 weeks, NextEra Energy lost 7.81%, and in the last 12 months, it increased 5.01%."
-    },
-    {
-      "id": "5110410",
-      "time": "2026-09-23 23:51:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "立陶宛國防部長：立陶宛、拉脫維亞、愛沙尼亞已請求歐盟提供無人機防禦方面的支援。"
-    },
-    {
-      "id": "5110409",
-      "time": "2026-09-23 23:50:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【華工科技：美國FCC草擬新款資料中心光模組進口相關規則的事專案前對公司尚無影響】有投資者問華工科技，近期媒體報道美國FCC在草擬針對新款資料中心光模組進口的相關規則。請問：如果後續海外政策對中國大陸生產的新款光模組進行約束，泰國基地產線生產的產品，是否可以全部承接現有北美客戶的新款訂單？公司針對相關政策風險做了哪些預案？華工科技在互動平臺表示，該事專案前對公司尚無影響，公司將持續密切跟蹤該事項的最新進展，提前做好相應預案，保障各項經營業務平穩開展。"
-    },
-    {
-      "id": "5110408",
-      "time": "2026-09-23 23:49:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗證實週二在聯合國大會期間經卡達與美國傳遞資訊。"
-    },
-    {
-      "id": "te:markets:586204",
-      "time": "2026-09-23 23:49:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cocoa Futures at Near 1-Week High — Cocoa futures rose toward $5,500 per tonne, the highest level in nearly a week, supported by short covering as forecasts for dry conditions in top grower Côte d’Ivoire raised concerns about the 2026/27 crop. Early surveys also pointed to below-average cherelle formation on cocoa trees, signalling a weaker outlook for the main harvest, which began this month. These concerns come despite a large global surplus in 2025/26 that has kept near-term supplies ample, with inventories remaining at a two-year high of 3.43 million bags. However, the medium-term outlook is more uncertain, with estimates for 2026/27 pointing to weaker crops across West Africa due to weather risks. Côte d’Ivoire’s output is expected to fall about 20% to 1.75 million tonnes, while Ghana’s is forecast to decline 13% to 650,000 tonnes. These risks could be compounded by an unusually strong El Niño, potentially intensifying dry Harmattan winds from around November."
     }
   ]
 }
