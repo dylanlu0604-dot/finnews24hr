@@ -1,7 +1,130 @@
 {
   "date": "2026-10-01",
-  "count": 385,
+  "count": 398,
   "items": [
+    {
+      "id": "5121726",
+      "time": "2026-10-01 05:02:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（關於迪拜航空事件）與以色列總理內塔尼亞胡進行了交談。與伊朗的戰爭將很快結束。"
+    },
+    {
+      "id": "mkt:01a0f420-00ed-7338-ab3b-ecbcfe21c20b",
+      "time": "2026-10-01 05:02:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "President Trump said the war with Iran will end soon."
+    },
+    {
+      "id": "5121725",
+      "time": "2026-10-01 05:01:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【全球債市單季表現創2024年以來最差，投資者擔憂通脹】全球政府債券正以2024年以來最差的季度表現收官，100美元的油價讓全球經濟再度面臨頑固通脹的威脅。彭博一項政府債券指數邁向2024年四季度以來最大單季跌幅；當時，唐納德·特朗普贏得第二個美國總統任期，投資者開始為更具擴張性的財政政策做準備。美國國債在最近這輪拋售中遭到重創，30年期收益率升至5.64%，創2002年以來最高。較短期限債券同期亦遭拋售。"
+    },
+    {
+      "id": "mkt:01a0f41f-8cfc-7338-ab3b-e7537ef5353a",
+      "time": "2026-10-01 05:01:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump spoke with Israeli Prime Minister Netanyahu about the Dubai airline incident."
+    },
+    {
+      "id": "mkt:01a0f41f-1a58-7338-ab3b-da23417d4bc0",
+      "time": "2026-10-01 05:01:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean government says profit split on U.S. investments will remain 50-50 until Seoul recovers principal on all individual projects."
+    },
+    {
+      "id": "mkt:01a0f41e-e1a0-7338-ab3b-d0f89c66161c",
+      "time": "2026-10-01 05:00:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "South Korean government said the Alaska LNG project will proceed only if commercial and legal conditions are satisfied."
+    },
+    {
+      "id": "5121724",
+      "time": "2026-10-01 05:00:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國政府： 韓美啟動總規模 223 億美元的得州燃氣電廠專案，為人工智慧資料中心供電。德克薩斯州燃氣電廠將提供 6.47 吉瓦電力，計劃 2029 年前投入商業運營。"
+    },
+    {
+      "id": "mkt:01a0f41e-b380-7338-ab3b-cf7e44503fd8",
+      "time": "2026-10-01 05:00:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean government says a legally binding operating agreement caps annual investment at $20 billion."
+    },
+    {
+      "id": "5121723",
+      "time": "2026-10-01 05:00:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國政府：具體核電專案尚未敲定。擬推動本國企業入股西屋電氣。韓國將投資 1200 億美元，在美國建造 8 座核反應堆。8 座核反應堆中有 2 座將採用韓國 APR1400 設計。"
+    },
+    {
+      "id": "mkt:01a0f41e-7ff4-7338-ab3b-c18ebe48e496",
+      "time": "2026-10-01 05:00:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "South Korea and the United States will review the proposed Alaska LNG pipeline and export terminal project, Seoul said."
+    },
+    {
+      "id": "mkt:01a0f41e-3554-7338-ab3b-bd1bc9a06d0b",
+      "time": "2026-10-01 05:00:15",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "South Korean government says specific nuclear power projects have not yet been decided."
+    },
+    {
+      "id": "mkt:01a0f41e-0b8d-7338-ab3b-b08a1b7a4a22",
+      "time": "2026-10-01 05:00:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean government seeks domestic firms to take equity stakes in Westinghouse Electric."
+    },
+    {
+      "id": "mkt:01a0f41e-08e1-7338-ab3b-aeed561453c7",
+      "time": "2026-10-01 05:00:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Chicago Fed President and 2027 FOMC voter Goolsby will speak in 10 minutes."
+    },
     {
       "id": "mkt:01a0f41d-d20b-7338-ab3b-a5e1f9216e02",
       "time": "2026-10-01 04:59:49",
