@@ -1,7 +1,65 @@
 {
   "date": "2026-10-01",
-  "count": 55,
+  "count": 61,
   "items": [
+    {
+      "id": "5121519",
+      "time": "2026-10-01 00:18:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交媒體發文抨擊福克斯新聞。"
+    },
+    {
+      "id": "mkt:01a0f31b-644d-7338-ab37-22be0640e93b",
+      "time": "2026-10-01 00:17:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "VON DER LEYEN said Albania is among the first group of candidates in the EU accession process; the Commission is drawing up accession roadmaps for all initial candidate countries."
+    },
+    {
+      "id": "5121518",
+      "time": "2026-10-01 00:16:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "對沖基金億萬富豪比爾·阿克曼：女兒的疾病促使我投資了大腦研究所。"
+    },
+    {
+      "id": "mkt:01a0f31a-95c0-7338-ab37-1d075f2b6ea9",
+      "time": "2026-10-01 00:16:40",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Italy plans to spend €14 billion, invoking the EU escape clause to lower corporate energy costs."
+    },
+    {
+      "id": "5121517",
+      "time": "2026-10-01 00:16:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼表示，義大利計劃動用歐盟例外條款釋放的140億歐元資金，用於降低企業能源成本。"
+    },
+    {
+      "id": "5121516",
+      "time": "2026-10-01 00:16:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場資訊：美國金融科技公司Stripe藉助Meta推出的Muse，在日本佈局AI購物業務。"
+    },
     {
       "id": "5121515",
       "time": "2026-10-01 00:15:21",
