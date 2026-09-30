@@ -1,7 +1,48 @@
 {
   "date": "2026-09-30",
-  "count": 1064,
+  "count": 1068,
   "items": [
+    {
+      "id": "mkt:01a0f050-d55f-7338-ab23-a123b675ca26",
+      "time": "2026-09-30 11:17:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Goldman: Gulf oil exports restored to 2025 average】Goldman estimates Gulf oil exports, including covert shipments, doubled in September and have returned to the 2025 average. Saudi Arabia led the rebound, with exports rising above the 2025 average; Iran recorded no seaborne crude exports in September. Analyst Eamonn Sheridan said the data reinforces a supply-restoration theme that pushed oil prices lower yesterday. Goldman’s August report warned rising covert ship movements could cap crude upside even if Middle East disruptions persist; the latest flows support that view. The report also noted that if disruptions continue, refined products and European gas could tighten more than crude, consistent with current diesel-supply concerns."
+    },
+    {
+      "id": "5119951",
+      "time": "2026-09-30 11:16:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“元道退”盤中臨停】深交所公告，“元道退”盤中成交價較開盤價首次上漲達到或超過30%，根據《深圳證券交易所交易規則》等有關規定，本所自今日11時13分41秒起對該證券實施臨時停牌，於11時23分42秒復牌。"
+    },
+    {
+      "id": "5119950",
+      "time": "2026-09-30 11:14:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以防長威脅打擊哈馬斯海外領導人】以色列國防部長卡茨9月29日說，身處海外的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）領導人也在以色列打擊之列，以方將追擊2023年10月7日襲擊以色列的所有參與者。(央視新聞)"
+    },
+    {
+      "id": "5119949",
+      "time": "2026-09-30 11:13:49",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "原創"
+      ],
+      "text": "【瑞銀上調鐵礦石價格預期，理由是市場結構性轉變】瑞銀集團將長期鐵礦石價格預期從每噸 85 美元上調至 93 美元，理由是“未來十年將受到三大結構性因素的影響”，包括全球鋼鐵需求上升、成本曲線支撐力度加大以及供應比預期更為緊張。"
+    },
     {
       "id": "5119948",
       "time": "2026-09-30 11:13:17",

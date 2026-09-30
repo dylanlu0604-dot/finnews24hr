@@ -1,7 +1,48 @@
 {
-  "updated": "2026-09-30 11:13:59",
-  "count": 11991,
+  "updated": "2026-09-30 11:17:48",
+  "count": 11989,
   "items": [
+    {
+      "id": "mkt:01a0f050-d55f-7338-ab23-a123b675ca26",
+      "time": "2026-09-30 11:17:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Goldman: Gulf oil exports restored to 2025 average】Goldman estimates Gulf oil exports, including covert shipments, doubled in September and have returned to the 2025 average. Saudi Arabia led the rebound, with exports rising above the 2025 average; Iran recorded no seaborne crude exports in September. Analyst Eamonn Sheridan said the data reinforces a supply-restoration theme that pushed oil prices lower yesterday. Goldman’s August report warned rising covert ship movements could cap crude upside even if Middle East disruptions persist; the latest flows support that view. The report also noted that if disruptions continue, refined products and European gas could tighten more than crude, consistent with current diesel-supply concerns."
+    },
+    {
+      "id": "5119951",
+      "time": "2026-09-30 11:16:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“元道退”盤中臨停】深交所公告，“元道退”盤中成交價較開盤價首次上漲達到或超過30%，根據《深圳證券交易所交易規則》等有關規定，本所自今日11時13分41秒起對該證券實施臨時停牌，於11時23分42秒復牌。"
+    },
+    {
+      "id": "5119950",
+      "time": "2026-09-30 11:14:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以防長威脅打擊哈馬斯海外領導人】以色列國防部長卡茨9月29日說，身處海外的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）領導人也在以色列打擊之列，以方將追擊2023年10月7日襲擊以色列的所有參與者。(央視新聞)"
+    },
+    {
+      "id": "5119949",
+      "time": "2026-09-30 11:13:49",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "原創"
+      ],
+      "text": "【瑞銀上調鐵礦石價格預期，理由是市場結構性轉變】瑞銀集團將長期鐵礦石價格預期從每噸 85 美元上調至 93 美元，理由是“未來十年將受到三大結構性因素的影響”，包括全球鋼鐵需求上升、成本曲線支撐力度加大以及供應比預期更為緊張。"
+    },
     {
       "id": "5119948",
       "time": "2026-09-30 11:13:17",
@@ -109709,59 +109750,6 @@
         "市場"
       ],
       "text": "【科學儀器板塊震盪走高 優利德、東方中科雙雙漲停】科學儀器板塊盤中震盪走高，優利德、東方中科漲停，普源精電、萊伯泰科漲超15%，騰信精密、國儀公司、電科思儀、皖儀科技漲幅靠前。"
-    },
-    {
-      "id": "te:markets:585893",
-      "time": "2026-09-23 11:17:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Remains Under Pressure — Gold fell below $4,350 an ounce on Wednesday, remaining under pressure as hawkish signals from Federal Reserve officials outweighed the impact of declining oil prices on the inflation and interest rate outlook. On Tuesday, Richmond Fed's Tom Barkin warned that inflationary shocks could take time to subside, while Boston Fed's Susan Collins said she supported last week’s rate hike amid concerns that future inflation could remain above the 2% target. Meanwhile, oil prices extended their decline for a sixth consecutive session after President Trump said US officials had a “very good” meeting with Iranian envoys, while Tehran said it could reopen the Strait of Hormuz within seven days if the US eases military pressure and lifts its blockade of Iranian ports. Lower oil prices help ease concerns over higher inflation and additional rate hikes. Elsewhere, China’s gold imports through August surpassed 1,000 tons, already exceeding the full-year total for 2025 amid strong investment demand."
-    },
-    {
-      "id": "5108927",
-      "time": "2026-09-23 11:16:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達2.00%，成分股中，同惠電子漲8.72%，錦華新材漲7.45%，戈碧迦漲7.10%，惠豐鑽石漲3.88%。"
-    },
-    {
-      "id": "5108926",
-      "time": "2026-09-23 11:16:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家糧食和物資儲備局：今年秋糧收購準備工作已就緒】國家糧食和物資儲備局有關負責人日前在國新辦舉行的新聞釋出會上介紹，我國秋糧旺季收購一般從9月下旬開始至次年4月底結束，目前秋糧收購準備工作已就緒，將圍繞守住農民“種糧賣得出”底線、推動糧食價格保持在合理水平兩個目標抓好秋糧收購。（新華社）"
-    },
-    {
-      "id": "5108924",
-      "time": "2026-09-23 11:14:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體板塊震盪反彈，康強電子漲停】半導體板塊震盪反彈，康強電子漲停，慧智微-U、晶升股份漲超10%，帝奧微、泰凌微、聯動科技、勝科奈米等跟漲。"
-    },
-    {
-      "id": "5108923",
-      "time": "2026-09-23 11:14:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股生物技術板塊震盪走強，康希諾生物漲超10%】港股生物技術板塊震盪走強，康希諾生物漲超10%，藥明巨諾、雲頂新耀、基石藥業-B等跟漲。"
-    },
-    {
-      "id": "5108922",
-      "time": "2026-09-23 11:14:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球AI相關產品貿易額超4萬億美元 隨身可帶AI硬體加速走向消費市場】隨著人工智慧和Agent能力的快速演進，一批“隨身可帶”的AI硬體正加速走向消費市場，成為行業新品。在浙江杭州雲棲大會的展館內，記者看到，從AI眼鏡，到使用者可自行組裝的AI DIY裝置，許多AI硬體產品已經不再單純依賴手機，而是把使用者身邊的語音、影象等資訊實時同步給Agent，由Agent自主拆解任務、完成執行。資料顯示，2025年全球AI相關產品貿易額達4.18萬億美元，同比增長21.9%。全球AI基礎設施投入持續加碼，中國科技企業也在圍繞AI硬體、大模型和底層算力進行最新佈局。（央視財經）"
     }
   ]
 }
