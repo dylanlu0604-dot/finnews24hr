@@ -1,7 +1,99 @@
 {
   "date": "2026-09-30",
-  "count": 2247,
+  "count": 2257,
   "items": [
+    {
+      "id": "5121485",
+      "time": "2026-09-30 23:54:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：羅賓遜2號反應堆功率由94%下調至93%。"
+    },
+    {
+      "id": "mkt:01a0f305-b996-7338-ab36-650b466f3732",
+      "time": "2026-09-30 23:53:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SEC proposes easing private fund access for retail investors】The SEC on Wednesday proposed reforms to broaden individual investor access to private markets, enabling greater retail participation in private equity, early-stage startups and other alternatives. One proposal would allow registered investment advisers to charge performance fees of up to 20%, bringing fee structures closer to some hedge funds’ 2% management/20% performance model. The SEC also proposed widening the accredited investor definition to include more credentialed professionals, explicitly citing CPAs and CFAs. SEC Chair Paul Atkins said the commission aims to expand retail access while guarding against fraud and misconduct."
+    },
+    {
+      "id": "mkt:01a0f305-a764-7338-ab36-599279ab61fa",
+      "time": "2026-09-30 23:53:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President LAGARDE said if she were to leave the ECB early, it would be only by a few months."
+    },
+    {
+      "id": "5121484",
+      "time": "2026-09-30 23:53:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指跌幅擴大，當前下跌1.2%。"
+    },
+    {
+      "id": "5121483",
+      "time": "2026-09-30 23:53:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：如果我提前卸任歐洲央行行長一職，也只會提前幾個月而已。"
+    },
+    {
+      "id": "te:markets:588333",
+      "time": "2026-09-30 23:52:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Fall in September & Q3 — European equities ended September under pressure on Wednesday, as elevated global bond yields and persistent inflation concerns weighed on investor sentiment ahead of the final quarter. The STOXX 50 declined 0.8%, while the broader STOXX 600 fell 0.4%, with most sectors ending in negative territory. Banks weakened by around 0.5%, while energy and food & beverage stocks were among the biggest decliners, each losing 1.4%. Technology stocks bucked the broader trend, rising 2.5% to reach their highest level in a month and leading sector gains. The monthly performance was weaker overall, with both the STOXX 50 and STOXX 600 down more than 2% in September. For the STOXX 600, the decline ended a five-month run of monthly gains. Over the third quarter, both benchmarks fell 1%, marking a challenging period for European equities."
+    },
+    {
+      "id": "5121482",
+      "time": "2026-09-30 23:52:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：隨著伊朗維持對霍爾木茲海峽的控制，美國正在喪失應對能力。"
+    },
+    {
+      "id": "mkt:01a0f304-4764-7338-ab36-56adc5c38324",
+      "time": "2026-09-30 23:52:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Central Bank President Lagarde, asked whether she would stand as a candidate in the French presidential election, said \"That's definitely not a good idea.\""
+    },
+    {
+      "id": "5121481",
+      "time": "2026-09-30 23:51:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：（被問及是否會參選法國總統）這絕對不是個好主意。"
+    },
+    {
+      "id": "5121480",
+      "time": "2026-09-30 23:51:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院委員會透過妮科爾·薩菲爾出任美國衛生局局長提名的審議。"
+    },
     {
       "id": "mkt:01a0f301-f0d9-7338-ab36-4e9a68072c0c",
       "time": "2026-09-30 23:49:45",

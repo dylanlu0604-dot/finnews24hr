@@ -1,7 +1,99 @@
 {
-  "updated": "2026-09-30 23:51:56",
-  "count": 11841,
+  "updated": "2026-09-30 23:55:51",
+  "count": 11847,
   "items": [
+    {
+      "id": "5121485",
+      "time": "2026-09-30 23:54:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：羅賓遜2號反應堆功率由94%下調至93%。"
+    },
+    {
+      "id": "mkt:01a0f305-b996-7338-ab36-650b466f3732",
+      "time": "2026-09-30 23:53:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SEC proposes easing private fund access for retail investors】The SEC on Wednesday proposed reforms to broaden individual investor access to private markets, enabling greater retail participation in private equity, early-stage startups and other alternatives. One proposal would allow registered investment advisers to charge performance fees of up to 20%, bringing fee structures closer to some hedge funds’ 2% management/20% performance model. The SEC also proposed widening the accredited investor definition to include more credentialed professionals, explicitly citing CPAs and CFAs. SEC Chair Paul Atkins said the commission aims to expand retail access while guarding against fraud and misconduct."
+    },
+    {
+      "id": "mkt:01a0f305-a764-7338-ab36-599279ab61fa",
+      "time": "2026-09-30 23:53:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President LAGARDE said if she were to leave the ECB early, it would be only by a few months."
+    },
+    {
+      "id": "5121484",
+      "time": "2026-09-30 23:53:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指跌幅擴大，當前下跌1.2%。"
+    },
+    {
+      "id": "5121483",
+      "time": "2026-09-30 23:53:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：如果我提前卸任歐洲央行行長一職，也只會提前幾個月而已。"
+    },
+    {
+      "id": "te:markets:588333",
+      "time": "2026-09-30 23:52:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Fall in September & Q3 — European equities ended September under pressure on Wednesday, as elevated global bond yields and persistent inflation concerns weighed on investor sentiment ahead of the final quarter. The STOXX 50 declined 0.8%, while the broader STOXX 600 fell 0.4%, with most sectors ending in negative territory. Banks weakened by around 0.5%, while energy and food & beverage stocks were among the biggest decliners, each losing 1.4%. Technology stocks bucked the broader trend, rising 2.5% to reach their highest level in a month and leading sector gains. The monthly performance was weaker overall, with both the STOXX 50 and STOXX 600 down more than 2% in September. For the STOXX 600, the decline ended a five-month run of monthly gains. Over the third quarter, both benchmarks fell 1%, marking a challenging period for European equities."
+    },
+    {
+      "id": "5121482",
+      "time": "2026-09-30 23:52:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：隨著伊朗維持對霍爾木茲海峽的控制，美國正在喪失應對能力。"
+    },
+    {
+      "id": "mkt:01a0f304-4764-7338-ab36-56adc5c38324",
+      "time": "2026-09-30 23:52:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Central Bank President Lagarde, asked whether she would stand as a candidate in the French presidential election, said \"That's definitely not a good idea.\""
+    },
+    {
+      "id": "5121481",
+      "time": "2026-09-30 23:51:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：（被問及是否會參選法國總統）這絕對不是個好主意。"
+    },
+    {
+      "id": "5121480",
+      "time": "2026-09-30 23:51:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院委員會透過妮科爾·薩菲爾出任美國衛生局局長提名的審議。"
+    },
     {
       "id": "mkt:01a0f301-f0d9-7338-ab36-4e9a68072c0c",
       "time": "2026-09-30 23:49:45",
@@ -108454,46 +108546,6 @@
         "MKT News"
       ],
       "text": "Finland and Ukraine sign drone agreement to strengthen defence cooperation."
-    },
-    {
-      "id": "5110412",
-      "time": "2026-09-23 23:55:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：伊朗外長阿拉格齊與德國外長在第 81 屆聯合國大會期間舉行會晤並展開會談。"
-    },
-    {
-      "id": "te:markets:586210",
-      "time": "2026-09-23 23:54:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Edges Up on Wednesday — The FTSE 100 edged up on Wednesday, outperforming its European peers thanks to gains in energy shares. Oil majors Shell and BP rose 1.8% and 2.8%, respectively, due to a renewed advance in oil prices. Defence stocks also performed well, with aerospace company BAE Systems up 1.9%, submarine contractor Babcock climbing 2.6%, and engine-maker Rolls-Royce rising 1.3%. On the other hand, JD Sports tumbled more than 3% after maintaining its guidance, and trimming its outlook last month amid weakness in the trainer market. Diageo fell around 0.8% after appointing Joanne Wilson, currently CFO of WPP, as its new chief financial officer from 2027. Meanwhile, Airtel Money confirmed plans for a London listing that could become the city’s largest IPO since 2021. On the data front, the UK Composite PMI eased to 51.7 in September, slightly under market expectations of 52."
-    },
-    {
-      "id": "te:markets:586209",
-      "time": "2026-09-23 23:53:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Pull Back — European stocks closed lower on Wednesday amid pressure from a surge in sovereign yields. The Euro STOXX 50 fell 0.4% to 6,300 and the STOXX Europe 600 eased 0.3% to 640.7. Sovereign yields in the Eurozone soared to multi-decade highs as the combination of strong economic growth and higher energy prices consolidated the likelihood that the ECB will continue to raise interest rates this year. The Eurozone's PMI was stronger than expected for both services providers and manufacturers, while the survey confirmed that soaring energy prices in the period were passed on to output charges. Allianz and Deutsche Bank sank 3.8% and 2.6% and Bunds tumbled, while BNP Paribas fell over 1% to set the tone for credit-sensitive financial companies. German auto manufacturers also slipped, with Mercedes Benz and BMW dropping around 3% each."
-    },
-    {
-      "id": "5110411",
-      "time": "2026-09-23 23:52:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評瑞典：預計該國經濟框架維持不變，但能否迴歸預算平衡目標將取決於財政政策選擇。"
     }
   ]
 }
