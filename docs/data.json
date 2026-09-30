@@ -1,7 +1,28 @@
 {
-  "updated": "2026-09-30 08:02:18",
-  "count": 11903,
+  "updated": "2026-09-30 08:06:06",
+  "count": 11900,
   "items": [
+    {
+      "id": "5119652",
+      "time": "2026-09-30 08:03:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國糧農組織呼籲減少糧食損失和浪費】29日是第七個國際糧食損失和浪費問題宣傳日。由聯合國糧農組織與聯合國環境規劃署聯合舉辦的相關活動當天在糧農組織羅馬總部舉行，糧農組織總幹事屈冬玉表示，減少糧食損失和浪費有助於推動農食系統轉型、節約自然資源和資金，並減輕森林保護壓力。糧農組織資料顯示，全球生產的糧食中約13.4%在收穫後、進入零售環節前損失，另有約19%在零售、餐飲服務和家庭消費環節被浪費。據估算，全球約有14億公頃土地用於生產最終未被消費的糧食。由於農業擴張仍是全球森林砍伐的主要驅動因素之一，減少糧食損失和浪費有助於提高現有農業用地利用效率，緩解森林面臨的壓力。"
+    },
+    {
+      "id": "mkt:01a0ef9e-70c6-7338-ab1f-577f2eda81ab",
+      "time": "2026-09-30 08:02:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan, South Korea stocks open higher】Sept 30 (Wed) — Japan's Nikkei 225 opened up 600.53 points, or 0.92%, at 66,081.80. South Korea's KOSPI opened up 79.51 points, or 1.16%, at 6,950.32."
+    },
     {
       "id": "5119651",
       "time": "2026-09-30 08:01:23",
@@ -108841,52 +108862,6 @@
         "Copper"
       ],
       "text": "【ADB slightly raises 2026 growth forecast for developing Asia-Pacific economies】Sept 23 — The Asian Development Bank (ADB) in its 2026 Asian Development Outlook (September) said growth among developing economies in Asia and the Pacific has slowed from last year but remains resilient. It raised its 2026 growth forecast to 5.0%, below 2025's 5.5% but marginally above its July projection. ADB cited firm domestic demand, government stimulus and strength in tech-related sectors as supporting activity. The 2027 forecast was unchanged at 5.1%."
-    },
-    {
-      "id": "mkt:01a0cb94-f3c8-7118-8652-e0883ff8766b",
-      "time": "2026-09-23 08:05:31",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. State Department says Secretary of State Rubio will meet Russian Foreign Minister Lavrov in New York on Wednesday."
-    },
-    {
-      "id": "5108678",
-      "time": "2026-09-23 08:05:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【亞洲開發銀行略微上調亞太發展中經濟體增長預期】9月23日，亞洲開發銀行釋出《2026年亞洲發展展望（9月版）》。報告指出，當前亞太地區發展中經濟體的經濟增長速度雖較去年有所放緩，但在日益嚴峻的形勢下，該地區經濟仍展現出韌性。報告指出，由於強勁的國內需求、政府刺激措施以及科技相關行業的持續走強支撐了經濟活動，預計2026年亞洲及太平洋地區發展中經濟體的增長率為5.0%，雖低於2025年的5.5%，但較7月的預測略有上調。2027年的預測值維持在5.1%不變。報告稱，預計今年將出現非常強烈的厄爾尼諾現象，這將進一步拖累經濟增長，同時加劇價格壓力。該地區2026年的通貨膨脹率預測下調至4.2%，2027年的通脹率則小幅上調至3.5%。"
-    },
-    {
-      "id": "5108677",
-      "time": "2026-09-23 08:04:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨跌向98美元/桶，連續第六個交易日下跌。"
-    },
-    {
-      "id": "5108676",
-      "time": "2026-09-23 08:04:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿盧比奧將於美國東部時間週三上午9點在紐約會見俄羅斯外長拉夫羅夫。"
-    },
-    {
-      "id": "mkt:01a0cb92-c8cd-7118-8652-db964a0db501",
-      "time": "2026-09-23 08:03:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "South Korea's SK Hynix shares rose 3%, Samsung Electronics gained nearly 3%."
     }
   ]
 }
