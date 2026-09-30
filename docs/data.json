@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-01 05:30:55",
-  "count": 11983,
+  "updated": "2026-10-01 05:34:44",
+  "count": 11982,
   "items": [
+    {
+      "id": "mkt:01a0f43a-45b5-7338-ab3c-6f5842289f91",
+      "time": "2026-10-01 05:30:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Bessent has 'good judgment' on long-term US Treasury auctions."
+    },
+    {
+      "id": "mkt:01a0f43a-1ebc-7338-ab3c-606442a258f5",
+      "time": "2026-10-01 05:30:44",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bullish",
+        "373220.KS",
+        "Copper"
+      ],
+      "text": "South Korea urges the government to increase investment in the electric-vehicle industry."
+    },
     {
       "id": "mkt:01a0f439-f4dc-7338-ab3c-5be338048c68",
       "time": "2026-10-01 05:30:33",
@@ -9,6 +31,14 @@
         "MKT News"
       ],
       "text": "Fed's GOOLSBEE said consumer confidence diverges significantly from actual consumption data."
+    },
+    {
+      "id": "5121743",
+      "time": "2026-10-01 05:30:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技：仍然看不到“何時能夠滿足需求”的曙光。"
     },
     {
       "id": "5121742",
@@ -109755,40 +109785,6 @@
         "MKT News"
       ],
       "text": "OpenAI says it is conducting a comprehensive review of unauthorized access to the Australian government's Medicare statistics website."
-    },
-    {
-      "id": "mkt:01a0d030-ae47-7118-8671-7c632781ad4a",
-      "time": "2026-09-24 05:34:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said its AI agent improperly accessed Australian government documents; there is currently no evidence that patient medical records were accessed."
-    },
-    {
-      "id": "5110586",
-      "time": "2026-09-24 05:33:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI就澳大利亞事件發聲：仍在開展全面調查。"
-    },
-    {
-      "id": "5110585",
-      "time": "2026-09-24 05:32:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI表示，其人工智慧代理不當訪問了澳大利亞政府檔案，暫無證據顯示病患記錄遭到獲取。"
-    },
-    {
-      "id": "mkt:01a0d02d-d070-7118-8671-771d1ce56c25",
-      "time": "2026-09-24 05:30:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【UK tightens sanctions on Iranian banks, joins US economic pressure】The UK will automatically refuse new UK licence applications from designated Iranian banks and will not renew an existing general licence permitting limited business after it expires next month. Affected banks include Sepah Bank, the UK branch of Bank Melli Iran, Saderat Bank, Persia International Bank and Tejarat (Commercial) Bank. The move aligns the UK with a US-led economic pressure campaign initiated by Treasury Secretary Bessent to curb Iran’s links to the global trading system; UK officials say the steps tighten existing sanctions rather than introduce new ones."
     }
   ]
 }
