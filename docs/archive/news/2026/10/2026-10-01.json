@@ -1,7 +1,48 @@
 {
   "date": "2026-10-01",
-  "count": 87,
+  "count": 92,
   "items": [
+    {
+      "id": "mkt:01a0f332-100d-7338-ab37-7b9d15dee1ad",
+      "time": "2026-10-01 00:42:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM: Bahrain joins US 'Falcon Strike' task force and will participate in forming a multinational strike-drone force."
+    },
+    {
+      "id": "mkt:01a0f330-8572-7338-ab37-77d36c63fdb6",
+      "time": "2026-10-01 00:40:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate: bill aimed at tightening stock trading rules for members of Congress failed to secure enough votes to advance; voting is ongoing."
+    },
+    {
+      "id": "5121536",
+      "time": "2026-10-01 00:40:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "要求收緊國會議員股票交易規則的法案未能在美國參議院獲得足夠推進票數，目前投票仍在進行中。"
+    },
+    {
+      "id": "5121535",
+      "time": "2026-10-01 00:39:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "多明尼加共和國將基準利率上調至5.5%。"
+    },
+    {
+      "id": "5121534",
+      "time": "2026-10-01 00:39:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞國家石油公司就委內瑞拉業務機遇釋出宣告，稱正在探索委內瑞拉油氣專案機會。"
+    },
     {
       "id": "mkt:01a0f32d-aea5-7338-ab37-6ff676117288",
       "time": "2026-10-01 00:37:32",
