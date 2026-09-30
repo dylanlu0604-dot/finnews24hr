@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-01 05:04:09",
-  "count": 11962,
+  "updated": "2026-10-01 05:07:56",
+  "count": 11964,
   "items": [
+    {
+      "id": "5121729",
+      "time": "2026-10-01 05:05:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及第三國遣返事宜：我們拭目以待。"
+    },
+    {
+      "id": "mkt:01a0f422-6ea1-7338-ab3b-f7d61237ad07",
+      "time": "2026-10-01 05:04:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "RIO.O",
+        "Impact bullish"
+      ],
+      "text": "RIO, the Tasmanian government and the Australian federal government agreed to keep the Bell Bay aluminium smelter operating through 2031."
+    },
+    {
+      "id": "5121728",
+      "time": "2026-10-01 05:04:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技CFO：財年一季度業績披露後，預計財年內生育時間的毛利潤率將會更高。"
+    },
+    {
+      "id": "5121727",
+      "time": "2026-10-01 05:04:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：除石油外，通脹資料已大幅回落。"
+    },
     {
       "id": "5121726",
       "time": "2026-10-01 05:02:33",
@@ -109571,25 +109607,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織：執董會批准了基金組織與外部夥伴合作的原則宣告。"
-    },
-    {
-      "id": "mkt:01a0d018-254f-7118-8671-5b805bb6e49a",
-      "time": "2026-09-24 05:07:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Dozens of U.S. refiners and trade groups wrote to Trump urging him to reject any measures to impose a diesel export ban."
-    },
-    {
-      "id": "5110579",
-      "time": "2026-09-24 05:06:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "數十家美國煉油及商業團體致信特朗普，敦促其反對任何實施柴油出口禁令的舉措。"
     }
   ]
 }
