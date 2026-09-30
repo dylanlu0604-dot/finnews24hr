@@ -1,7 +1,87 @@
 {
-  "updated": "2026-09-30 08:32:43",
-  "count": 11905,
+  "updated": "2026-09-30 08:36:33",
+  "count": 11910,
   "items": [
+    {
+      "id": "mkt:01a0efbc-e5bb-7338-ab1f-99fc144e77d9",
+      "time": "2026-09-30 08:35:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "South Korea's finance minister said excessive rises in bond yields would prompt additional market-stabilizing measures, including government bond buybacks."
+    },
+    {
+      "id": "te:markets:587880",
+      "time": "2026-09-30 08:35:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Finds Support as Oil Prices Decline — Gold traded near $4,200 an ounce on Wednesday after recovering in the previous session, with falling oil prices offering some support despite continued pressure from elevated Treasury yields. Oil prices dropped sharply amid signs of improving energy flows from the Middle East and following another major release of emergency reserves in the US. Meanwhile, precious metals remain under pressure from rising Treasury yields, with the 30-year US bond yield climbing as high as 5.62%, reaching levels not seen since June 2002. Concerns over persistent energy-driven inflation, along with hawkish remarks from Federal Reserve officials, helped push yields higher. New York Fed President John Williams said Tuesday that another rate increase “late this year” could be appropriate, while noting that the Middle East conflict and the expansion of artificial intelligence remain key drivers of elevated inflation. Gold is on track to decline nearly 6% in September."
+    },
+    {
+      "id": "5119686",
+      "time": "2026-09-30 08:34:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中輕資源進出口公司原副總經理談無忌接受審查調查】據中央紀委國家監委駐通用技術集團紀檢監察組、內蒙古自治區通遼市紀委監委訊息：中輕資源進出口公司原副總經理談無忌涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐通用技術集團紀檢監察組紀律審查和內蒙古自治區通遼市扎魯特旗監察委員會監察調查。"
+    },
+    {
+      "id": "5119685",
+      "time": "2026-09-30 08:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【曾預警金融危機的Whitney稱美國經濟有暗傷 AI投資熱恐是“紙牌屋”】Meredith Whitney警告，華爾街大談消費者韌性之際，美國經濟“底層”的疲弱跡象卻遭到掩蓋。“我們知道，低收入消費者一直承受巨大壓力，”Whitney說。這位前銀行業分析師曾因2007年在全球金融危機爆發前發表的一份報告而聲名大噪。她表示，如今就連年收入10萬至15萬美元的家庭也“開始顯現壓力”。Whitney週二在接受媒體採訪時表示，“大家都說消費者很有韌性，這讓我很沮喪，因為他們其實沒有真正去看底層究竟發生了什麼變化。”儘管與AI相關的股票主導市場敘事，但她估計，大部分股票的實際表現並不理想，如果AI資本支出放緩，GDP的增長將“勉強”維持正值。她形容AI投資熱可能是一座“紙牌屋”並警告說，由於這波熱潮帶來的財富效應高度集中，一旦相關交易退潮，整體經濟將格外脆弱。"
+    },
+    {
+      "id": "mkt:01a0efbb-7674-7338-ab1f-9456cdac300b",
+      "time": "2026-09-30 08:33:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister said authorities will use excess tax receipts to reduce bond issuance if necessary."
+    },
+    {
+      "id": "5119684",
+      "time": "2026-09-30 08:33:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部長：如有必要，將動用超額稅收收入減少債券發行規模。"
+    },
+    {
+      "id": "5119683",
+      "time": "2026-09-30 08:33:22",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通因估值因素下調比亞迪、吉利、零跑汽車評級至中性】摩根大通認為，受原材料成本進一步上漲等因素影響，汽車行業短期將持續承壓。該行基於當前估值水平，將比亞迪、吉利與零跑汽車下調至中性評級。該行也將小鵬汽車的評級下調至“中性”。摩根大通認為，比亞迪是最能抵禦當前結構性逆風的國內品牌，但在當前估值水平下，其股價上漲空間受限。該行首次覆蓋奇瑞汽車，給予“增持”評級，目標價為35港元，主要看好其強勁的海外業務敞口和良好的流動性狀況。"
+    },
+    {
+      "id": "mkt:01a0efba-b423-7338-ab1f-88616f07ed22",
+      "time": "2026-09-30 08:33:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "South Korea's finance minister said the bond market is being closely monitored."
+    },
+    {
+      "id": "5119682",
+      "time": "2026-09-30 08:32:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國財長：正密切監控債券市場走勢。"
+    },
     {
       "id": "5119681",
       "time": "2026-09-30 08:31:39",
@@ -108868,46 +108948,6 @@
         "澳洲"
       ],
       "text": "【澳大利亞9月綜合PMI降至50.8 三季度末增長動能減弱】標普全球（S&PGlobal）最新資料顯示，澳大利亞9月綜合採購經理指數（PMI）初值錄得50.8，較8月的52.7明顯回落，創下近期新低。該指數雖仍位於50榮枯線上方，表明私營部門產出維持擴張態勢，但增速已大幅收窄。"
-    },
-    {
-      "id": "te:markets:585840",
-      "time": "2026-09-23 08:35:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Edges Higher on Softer Oil Prices — Silver strengthened above $67 an ounce on Wednesday, extending gains from the previous session as oil prices declined for a sixth consecutive session, easing concerns over higher inflation and interest rates. Oil prices continued to fall after President Donald Trump said US officials had a very good meeting with Iranian envoys, while Tehran said it could reopen the Strait of Hormuz within seven days if the US eases military pressure and lifts its blockade of Iranian ports. Reports also indicated that Saudi Arabia plans to restore oil exports through its East-West pipeline in the coming days. Meanwhile, Richmond Fed President Tom Barkin warned on Tuesday that inflationary shocks could take time to fade, with a risk that elevated price pressures could become entrenched. Last week, the Fed delivered its first rate hike in three years, while signaling further tightening to contain inflation."
-    },
-    {
-      "id": "5108706",
-      "time": "2026-09-23 08:35:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國難民署：9月以來葉門已有超13萬人流離失所】聯合國難民署發言人巴洛赫22日在日內瓦表示，受近期戰事加劇影響，自9月初以來，葉門已有超過13萬人流離失所。"
-    },
-    {
-      "id": "5108705",
-      "time": "2026-09-23 08:35:10",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【私募信貸機構熱切希望分食摩根大通訊用卡業務蛋糕】據報道，摩根大通近期研究了一項方案，旨在化解其與航空、零售等信用卡合作方長期存在的分歧。該計劃或將為私募信貸開闢新的消費債權業務空間。數百萬消費者正在使用的聯名信用卡，長期以來都是大型商戶與銀行之間愛恨交織關係的核心。航空公司、百貨商場以及各類商戶依靠信用卡專案吸引客戶、提升使用者忠誠度並增加收入；而持卡人違約帶來的大部分風險則由銀行承擔。但雙方之間常常存在矛盾：商戶希望銀行放寬標準，批准更多未達到信貸稽核及其他要求的申請人。按交易金額計算，摩根大通是美國規模最大的信用卡髮卡機構。據知情人士透露，該行近期開始研究，能否由其他資金來源為部分被其拒批的信用卡申請提供授信。知情人士稱，摩根大通已向十餘家機構發出問詢，探討是否參與所謂二次複核申請業務，即由這些機構承接摩根大通拒批申請的授信風險。這類機構在幕後搭建信用卡業務體系，業務範圍通常遊離於大型銀行體系之外，負責提供客戶服務、籌措資金，完成信用卡放款業務。其中部分機構已接洽私募信貸公司，試探其是否願意為摩根大通的這類信貸提供資金支援。私募信貸機構從投資者手中募集資金後對外放貸，其服務物件大多達不到投資級債券標準；但如今這類機構正越來越多地佈局信用卡債務領域。"
-    },
-    {
-      "id": "te:markets:585838",
-      "time": "2026-09-23 08:33:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Steadies on Softer Oil Prices — Gold steadied above $4,350 an ounce on Wednesday following a sharp intraday rebound in the previous session, as oil prices extended their decline for a sixth consecutive session, easing concerns over higher inflation and interest rates. Oil prices continued to fall after President Donald Trump said US officials had a very good meeting with Iranian envoys, while Tehran said it could reopen the Strait of Hormuz within seven days if the US eases military pressure and lifts its blockade of Iranian ports. Reports also indicated that Saudi Arabia plans to restore oil exports through its East-West pipeline in the coming days. Meanwhile, Richmond Fed President Tom Barkin warned on Tuesday that inflationary shocks could take time to fade, with a risk that elevated price pressures could become entrenched. Elsewhere, China’s gold imports through August exceeded 1,000 tons, already surpassing the total for 2025 amid strong investment demand."
     }
   ]
 }
