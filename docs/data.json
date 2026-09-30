@@ -1,7 +1,80 @@
 {
-  "updated": "2026-10-01 00:20:09",
-  "count": 11884,
+  "updated": "2026-10-01 00:24:04",
+  "count": 11889,
   "items": [
+    {
+      "id": "mkt:01a0f320-642e-7338-ab37-38d472e9395f",
+      "time": "2026-10-01 00:23:01",
+      "tags": [
+        "MKT News",
+        "SGML.O",
+        "Impact bearish"
+      ],
+      "text": "According to documents, Brazil's mining regulator suspended part of Sigma Lithium's mining operations citing \"imminent risk\" and did not disclose the specific cause."
+    },
+    {
+      "id": "5121524",
+      "time": "2026-10-01 00:22:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯就丹麥空軍一架直升機“不專業且具挑釁性的行為”提出抗議。"
+    },
+    {
+      "id": "5121523",
+      "time": "2026-10-01 00:21:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油行業警告，柴油價格在一年內都難以恢復正常水平。"
+    },
+    {
+      "id": "5121522",
+      "time": "2026-10-01 00:21:26",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "檔案顯示：巴西礦業監管機構因未明確說明的迫在眉睫風險，部分暫停西格瑪鋰業的採礦作業。"
+    },
+    {
+      "id": "5121521",
+      "time": "2026-10-01 00:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯召見丹麥大使。"
+    },
+    {
+      "id": "mkt:01a0f31e-5c2c-7338-ab37-3008628a1986",
+      "time": "2026-10-01 00:20:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Italian Prime Minister Meloni said the EU's proposal to revise the emissions trading system (ETS) is insufficient."
+    },
+    {
+      "id": "mkt:01a0f31e-2201-7338-ab37-2ac33d9e277d",
+      "time": "2026-10-01 00:20:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump posted criticism of Fox News, saying the network gives Democrats excessive airtime to attack Republicans."
+    },
+    {
+      "id": "5121520",
+      "time": "2026-10-01 00:20:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼表示，歐盟關於修訂碳排放交易體系（ETS）的提案並不充分。"
+    },
     {
       "id": "5121519",
       "time": "2026-10-01 00:18:37",
@@ -108873,36 +108946,6 @@
         "Importance 0"
       ],
       "text": "Swiss Bond Yield Rebounds — The yield on the Swiss 10-year government bond rose above 0.55% after reaching its lowest level in over two weeks, as global oil prices rebounded, raising concerns over prolonged inflationary pressures. On the monetary policy front, the Swiss National Bank is set to announce its policy rate decision on Thursday and is widely expected to leave the rate unchanged at 0%. A Swiss Bankers Association survey showed that all respondents expect the SNB to keep its policy rate at 0% through the end of the year. Markets are pricing in the first rate hike for June 2027, while most economists expect the first increase in early 2028. Meanwhile, the State Secretariat for Economic Affairs raised its forecast for economic growth in 2026 to 1.7%, as the impact of higher energy prices remains limited, up from its June projection of 0.9% and broadly in line with the OECD’s latest forecast of 2%."
-    },
-    {
-      "id": "5110430",
-      "time": "2026-09-24 00:24:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "麥當勞跌幅擴大至6%，因美國業務更新令人失望。"
-    },
-    {
-      "id": "mkt:01a0cf12-24e9-7118-866d-7e484f67bf38",
-      "time": "2026-09-24 00:21:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Wall Street Journal reports two Anthropic top executives invested in a Peter Thiel-backed startup developing hardware to detect airborne viruses to address AI-related biosafety risks."
-    },
-    {
-      "id": "te:markets:586219",
-      "time": "2026-09-24 00:20:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Closes Lower — Frankfurt's DAX 40 closed about 0.7% down at 25,427 on Wednesday, lagging its European peers as surging oil prices and higher government bond yields pressured equities. Brent crude rose back above $100 a barrel as uncertainty over the reopening of the Strait of Hormuz kept geopolitical risks elevated. Iran’s President Masoud Pezeshkian, addressing the 81st UN General Assembly, said Tehran would never “bend at the knee” in response to external pressure and blamed the US and Israel for global instability. Meanwhile, higher energy prices, alongside signs of resilient economic growth, strengthened expectations for further ECB rate hikes this year. Germany’s flash services PMI for September added to the positive economic backdrop, coming in above expectations."
     }
   ]
 }

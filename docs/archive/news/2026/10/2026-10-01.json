@@ -1,7 +1,80 @@
 {
   "date": "2026-10-01",
-  "count": 61,
+  "count": 69,
   "items": [
+    {
+      "id": "mkt:01a0f320-642e-7338-ab37-38d472e9395f",
+      "time": "2026-10-01 00:23:01",
+      "tags": [
+        "MKT News",
+        "SGML.O",
+        "Impact bearish"
+      ],
+      "text": "According to documents, Brazil's mining regulator suspended part of Sigma Lithium's mining operations citing \"imminent risk\" and did not disclose the specific cause."
+    },
+    {
+      "id": "5121524",
+      "time": "2026-10-01 00:22:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯就丹麥空軍一架直升機“不專業且具挑釁性的行為”提出抗議。"
+    },
+    {
+      "id": "5121523",
+      "time": "2026-10-01 00:21:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油行業警告，柴油價格在一年內都難以恢復正常水平。"
+    },
+    {
+      "id": "5121522",
+      "time": "2026-10-01 00:21:26",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "檔案顯示：巴西礦業監管機構因未明確說明的迫在眉睫風險，部分暫停西格瑪鋰業的採礦作業。"
+    },
+    {
+      "id": "5121521",
+      "time": "2026-10-01 00:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯召見丹麥大使。"
+    },
+    {
+      "id": "mkt:01a0f31e-5c2c-7338-ab37-3008628a1986",
+      "time": "2026-10-01 00:20:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Italian Prime Minister Meloni said the EU's proposal to revise the emissions trading system (ETS) is insufficient."
+    },
+    {
+      "id": "mkt:01a0f31e-2201-7338-ab37-2ac33d9e277d",
+      "time": "2026-10-01 00:20:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump posted criticism of Fox News, saying the network gives Democrats excessive airtime to attack Republicans."
+    },
+    {
+      "id": "5121520",
+      "time": "2026-10-01 00:20:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利總理梅洛尼表示，歐盟關於修訂碳排放交易體系（ETS）的提案並不充分。"
+    },
     {
       "id": "5121519",
       "time": "2026-10-01 00:18:37",
