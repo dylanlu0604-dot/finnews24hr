@@ -1,7 +1,202 @@
 {
-  "updated": "2026-09-30 23:59:52",
-  "count": 11847,
+  "updated": "2026-10-01 00:04:16",
+  "count": 11861,
   "items": [
+    {
+      "id": "mkt:01a0f30e-68da-7338-ab36-c0566fabc671",
+      "time": "2026-10-01 00:03:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat said weekly consumer inflation was 0.12% in the week to Sept. 28, up from 0.06% in the prior week."
+    },
+    {
+      "id": "mkt:01a0f30d-fc28-7338-ab36-bf90a28cf6a6",
+      "time": "2026-10-01 00:02:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USDA quarterly stocks: U.S. wheat stocks on Sept. 1, 2026 totaled 1.846 bln bushels, below the 1.872 bln market estimate and down from 2.12 bln a year earlier (revised to 2.134 bln)."
+    },
+    {
+      "id": "mkt:01a0f30d-e50a-7338-ab36-b56833eb835d",
+      "time": "2026-10-01 00:02:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USDA quarterly stocks report: as of Sept. 1, 2026 U.S. old-crop corn stocks 2.095 bln bushels vs 1.918 bln expected; year-ago 1.532 bln (revised to 1.551 bln)."
+    },
+    {
+      "id": "mkt:01a0f30d-d55d-7338-ab36-ad8a8172a7be",
+      "time": "2026-10-01 00:02:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USDA quarterly stocks report: U.S. old-crop soybean stocks as of Sept. 1, 2026 totaled 315 mln bushels, below the 324 mln bushels expected. Year-ago stocks were 316 mln bushels (revised to 325 mln)."
+    },
+    {
+      "id": "5121497",
+      "time": "2026-10-01 00:02:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "芝加哥期貨交易所玉米期貨<CV1>在美國農業部公佈美國玉米庫存高於預期後轉跌。"
+    },
+    {
+      "id": "mkt:01a0f30d-9d4f-7338-ab36-a228260aef6b",
+      "time": "2026-10-01 00:02:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Rosstat: Russia unemployment 2.2% in August vs 2.3% in July; market expected 2.2%."
+    },
+    {
+      "id": "5121496",
+      "time": "2026-10-01 00:02:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯8月份貨物運輸量同比增長4.2%。"
+    },
+    {
+      "id": "mkt:01a0f30d-3ce1-7338-ab36-9823215bddf8",
+      "time": "2026-10-01 00:02:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rosstat: Russia's real wages rose 3.3% YoY in July, versus market expectation of 2.4%."
+    },
+    {
+      "id": "5121495",
+      "time": "2026-10-01 00:01:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯8月國內生產總值同比增長0.8%。"
+    },
+    {
+      "id": "mkt:01a0f30c-d0fd-7338-ab36-9453a68afb07",
+      "time": "2026-10-01 00:01:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Russia's Ministry of Economic Development reported GDP grew 0.8% year-on-year in August, up from 0.6% in July."
+    },
+    {
+      "id": "5121494",
+      "time": "2026-10-01 00:01:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦統計局公佈資料：7月俄羅斯實際工資同比增長3.3%。"
+    },
+    {
+      "id": "5121493",
+      "time": "2026-10-01 00:01:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆就費爾福德空軍基地事件表態：有強烈跡象表明伊朗參與了上週末發生的事件。"
+    },
+    {
+      "id": "mkt:01a0f30c-3a46-7338-ab36-8a7ea8fa0386",
+      "time": "2026-10-01 00:00:59",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "UK prime minister Burnham said there are strong indications Iran played a role in the weekend incident at RAF Fairford."
+    },
+    {
+      "id": "5121492",
+      "time": "2026-10-01 00:00:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯統計局公佈：截至9月28日的一週，俄羅斯周度消費者通脹率為0.12%，前一週該資料為0.06%。"
+    },
+    {
+      "id": "5121491",
+      "time": "2026-10-01 00:00:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國家統計局公佈：8月失業率為2.2%，前一個月失業率為2.3%。"
+    },
+    {
+      "id": "mkt:01a0f30b-a963-7338-ab36-81ee4ce93f52",
+      "time": "2026-10-01 00:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Quarterly Grain Stocks-Corn (Sep.1) | actual 2095000000B | consensus 1918000000B | previous 1532000000B"
+    },
+    {
+      "id": "mkt:01a0f30b-a91f-7338-ab36-70f3282074c7",
+      "time": "2026-10-01 00:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Quarterly Grain Stocks-Soybeans (Sep.1) | actual 315000000B | consensus 324000000B | previous 316000000B"
+    },
+    {
+      "id": "mkt:01a0f30b-a956-7338-ab36-7d68661239c9",
+      "time": "2026-10-01 00:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Quarterly Grain Stocks-Wheat (Sep.1) | actual 1846000000B | consensus 1872000000B | previous 2120000000B"
+    },
+    {
+      "id": "te:markets:588336",
+      "time": "2026-10-01 00:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Sharply Lower — The FTSE MIB fell 0.8% to 51,372 on Wednesday, weighed down by heavyweight financials and ongoing merger talks involving Milan’s banks. Monte dei Paschi fell 1.4% after urging investors to support its dual takeover offer for Generali-controlled (-1.8%) Banca Generali and Banco BPM (-2.1%), saying that keeping the plan alive would give him more options to maximize value for shareholders. Further weighing on lender demand, higher-than-expected inflation across major economies in the Eurozone have raised bets of a third ECB rate hike by year-end. Inflation in Italy remained at a three-year high. Intesa Sanpaolo, Unipol and UniCredit each fell more than 1%. Eni declined 1.1% after announcing that its low-carbon unit Plenitude would offer households a 30% discount on its standard fixed electricity and gas rates, with prices locked in for two years. Luxury stocks also weakened, with Ferrari and Brunello Cucinelli both falling more than 1.6%. Over the third quarter, the benchmark edged 0.8% l"
+    },
+    {
+      "id": "5121490",
+      "time": "2026-10-01 00:00:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：將在G20貿易部長會議上釋出\"密爾沃基框架\"。"
+    },
+    {
+      "id": "mkt:01a0f30b-465a-7338-ab36-6b6a4c7c330f",
+      "time": "2026-09-30 23:59:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) imposes an immediate ban on fixed-quota gambling promotions in Brazil."
+    },
     {
       "id": "5121489",
       "time": "2026-09-30 23:58:53",
@@ -108488,68 +108683,6 @@
         "國際"
       ],
       "text": "【伊朗總統：願意談判合作 不接受強權威脅】當地時間9月23日，伊朗總統佩澤希齊揚在第81屆聯合國大會一般性辯論上發表講話。他表示，伊朗願意談判與合作，但不會接受以強權、制裁或軍事威脅迫使其讓步，和平必須建立在公平、正義、尊嚴和各國平等權利的基礎上。佩澤希齊揚強調，伊朗維護國家安全、主權和和平利用核技術的立場，認為自身防禦力量是避免外部威脅的重要保障，同時否認以霸權方式追求安全。佩澤希齊揚批評一些國家在伊朗核問題、以色列及巴勒斯坦問題上的“雙重標準”，認為持續佔領、侵略和不公會加劇地區衝突。佩澤希齊揚表示，戰爭和軍事力量不能取代國際法、外交與政治對話，他呼籲透過地區合作實現共同安全。（央視新聞）"
-    },
-    {
-      "id": "5110421",
-      "time": "2026-09-24 00:03:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "Experian：成為首款接入谷歌 Gemini 的個人金融應用。"
-    },
-    {
-      "id": "mkt:01a0cf01-8777-7118-866d-4f392b728c90",
-      "time": "2026-09-24 00:02:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Experian said it has become the first personal finance app integrated with Google (GOOG.O)'s Gemini."
-    },
-    {
-      "id": "mkt:01a0cf00-6656-7118-866d-43c2857256db",
-      "time": "2026-09-24 00:01:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosstat said Russia's consumer inflation in the week ended Sept. 21 was 0.06%, up from 0.02% a week earlier."
-    },
-    {
-      "id": "5110420",
-      "time": "2026-09-24 00:01:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計局：1 至 8 月俄羅斯工業產出同比持平， 8 月工業產出同比下降 0.6%。"
-    },
-    {
-      "id": "5110419",
-      "time": "2026-09-24 00:00:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統在紐約會見瑞士總統。"
-    },
-    {
-      "id": "5110418",
-      "time": "2026-09-24 00:00:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯統計局：截至 9 月 21 日當週，俄羅斯周度消費者通脹率為 0.06%，前一週為 0.02%。"
-    },
-    {
-      "id": "5110417",
-      "time": "2026-09-24 00:00:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美元指數突破101關口，日內漲0.52%。"
     }
   ]
 }

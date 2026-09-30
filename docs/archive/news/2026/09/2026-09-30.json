@@ -1,7 +1,20 @@
 {
   "date": "2026-09-30",
-  "count": 2262,
+  "count": 2263,
   "items": [
+    {
+      "id": "mkt:01a0f30b-465a-7338-ab36-6b6a4c7c330f",
+      "time": "2026-09-30 23:59:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) imposes an immediate ban on fixed-quota gambling promotions in Brazil."
+    },
     {
       "id": "5121489",
       "time": "2026-09-30 23:58:53",
