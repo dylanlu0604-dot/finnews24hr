@@ -1,7 +1,134 @@
 {
   "date": "2026-10-01",
-  "count": 119,
+  "count": 133,
   "items": [
+    {
+      "id": "mkt:01a0f344-354c-7338-ab38-06f2d92fbbbb",
+      "time": "2026-10-01 01:02:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve inspector general report: management shortcomings included failing to effectively include a \"maximum guaranteed price\" clause in master contracts."
+    },
+    {
+      "id": "5121559",
+      "time": "2026-10-01 01:02:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲監察長：該專案在管理上存在“缺陷”。"
+    },
+    {
+      "id": "mkt:01a0f344-017b-7338-ab37-fc7879cd40c0",
+      "time": "2026-10-01 01:01:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "A report by the Federal Reserve inspector general found no evidence of administrative misconduct in the Fed’s Washington office building project, but identified deficiencies in project management."
+    },
+    {
+      "id": "5121558",
+      "time": "2026-10-01 01:01:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲監察長：美聯儲未能就過往過失提出的建議採取行動。"
+    },
+    {
+      "id": "mkt:01a0f343-d149-7338-ab37-f5a1b09481e8",
+      "time": "2026-10-01 01:01:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve inspector general report: roughly $1 bln in building renovation cost overruns is at the center of a dispute between former Fed chair Powell, Trump and US Attorney General Piro."
+    },
+    {
+      "id": "5121557",
+      "time": "2026-10-01 01:01:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲監察長：美聯儲未要求提供成本估算或設定成本上限。"
+    },
+    {
+      "id": "5121556",
+      "time": "2026-10-01 01:01:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲將委託進行獨立的專案專項審計。"
+    },
+    {
+      "id": "mkt:01a0f343-8d2a-7338-ab37-ee87395c6b3e",
+      "time": "2026-10-01 01:01:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Office of Inspector General report: the Board of Governors' current governance and oversight framework is inadequate to handle projects of this scale and complexity."
+    },
+    {
+      "id": "5121555",
+      "time": "2026-10-01 01:01:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲將把該大樓專案移交給總務管理局（GSA）。"
+    },
+    {
+      "id": "mkt:01a0f343-5f2d-7338-ab37-e18bed26426c",
+      "time": "2026-10-01 01:01:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Office of Inspector General review of the central bank's building project found no reasonable basis to conclude the project involved federal criminal conduct requiring referral to the U.S. Department of Justice."
+    },
+    {
+      "id": "5121554",
+      "time": "2026-10-01 01:00:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什表示，央行將落實監察長（IG）的建議。"
+    },
+    {
+      "id": "5121553",
+      "time": "2026-10-01 01:00:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲監察長未發現翻修專案存在刑事違規行為。"
+    },
+    {
+      "id": "mkt:01a0f342-4463-7338-ab37-dea83836a320",
+      "time": "2026-10-01 01:00:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 12 reports Prime Minister Netanyahu spoke with the United Arab Emirates president; both agreed to resolve security issues."
+    },
+    {
+      "id": "5121552",
+      "time": "2026-10-01 00:58:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們的國家發展得非常好，在很多方面甚至可以說是前所未有的好，但公眾並不知道我們做得有多出色。“假新聞”媒體拒絕報道我們創下的破紀錄資料，所以我正盡我所能，親自向大家公佈這些成績。"
+    },
     {
       "id": "5121551",
       "time": "2026-10-01 00:57:10",
