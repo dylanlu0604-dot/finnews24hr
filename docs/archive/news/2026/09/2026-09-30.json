@@ -1,7 +1,76 @@
 {
   "date": "2026-09-30",
-  "count": 1057,
+  "count": 1064,
   "items": [
+    {
+      "id": "5119948",
+      "time": "2026-09-30 11:13:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國債期貨走弱 30年期主力合約跌0.5%】國債期貨走弱，30年期主力合約盤中跌0.50%，現報116.920元。10年期跌0.19%，現報109.415元。5年期跌0.11%，現報106.47元。2年期跌0.04%，現報102.568元。"
+    },
+    {
+      "id": "mkt:01a0f04d-021f-7338-ab23-9d487281c226",
+      "time": "2026-09-30 11:12:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China 30-year government bond futures (TL) most-active contract fell more than 0.50% intraday to 116.93 yuan."
+    },
+    {
+      "id": "mkt:01a0f04c-0f8a-7338-ab23-96dcdc946369",
+      "time": "2026-09-30 11:11:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share property sector rebounded after bottoming; Zhongtian Service surged straight to the daily limit, while Lujiazui, Nanjing Gaoke and Binjiang Group also gained."
+    },
+    {
+      "id": "5119947",
+      "time": "2026-09-30 11:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：美國主導的國際聯盟部隊全部撤離伊拉克，相比原計劃提前一天】據卡達半島電視臺當地時間29日報道，伊拉克國防部發言人向該媒體表示，美國主導的國際聯盟部隊已全部撤出伊拉克，相比原計劃提前一天。 報道稱，伊拉克武裝部隊總司令發言人葉海亞·拉蘇爾表示，伊拉克將繼續保持與美國主導的國際聯盟的關係。他同時表示，伊拉克軍隊有能力捍衛國家主權。 此前，伊拉克總理新聞辦公室8月12日發表宣告說，伊拉克總理扎伊迪當天在會見美軍中央司令部司令庫珀時重申，今年9月30日是美國主導的打擊“伊斯蘭國”國際聯盟部隊結束在伊軍事任務並完成撤軍的最終期限。 美國2003年發動伊拉克戰爭，2011年底基本撤軍，僅留少量駐軍。極端組織“伊斯蘭國”2014年奪取伊拉克西部和北部大片地區，國際聯盟隨後增兵伊拉克。2017年12月，伊拉克政府宣佈擊敗“伊斯蘭國”。（環球網）"
+    },
+    {
+      "id": "5119946",
+      "time": "2026-09-30 11:10:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊探底回升，中天服務直線漲停】房地產板塊探底回升，中天服務直線漲停，陸家嘴、南京高科、濱江集團跟漲。萬科A漲1.47%，此前一度跌停。"
+    },
+    {
+      "id": "5119945",
+      "time": "2026-09-30 11:10:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Omdia：二季度全球公共顯示屏及標牌電視出貨量超過173萬臺】Omdia最新《公共顯示市場追蹤》研究顯示，2026年第二季度全球公共顯示屏及標牌電視出貨量超過173萬臺，高於上一季度的161萬臺。其中，IFP/觸控顯示屏引領市場增長，出貨量環比增長13.7%，同比增長0.7%。"
+    },
+    {
+      "id": "te:markets:587962",
+      "time": "2026-09-30 11:10:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Eases from 15-Year Peaks — Australia’s 10-year government bond yield fell below 5.4%, retreating from its highest level since mid-2011, as August inflation figures undershot forecasts, trimming bets of further policy tightening. The monthly CPI rose 0.4%, below the expected 0.5%, while the annual pace accelerated to 4% from 3.5% in July but remained below the 4.1% forecast. The trimmed-mean measure of core inflation rose 0.2% month-over-month, also below the 0.3% forecast, although annual core inflation held at 3.6% for a third straight month and remained above the RBA’s 2–3% target band, a key factor behind the central bank’s decision to lift rates to a 15-year high of 4.60% in September. The marginal inflation miss led traders to cut the odds of another hike in November to 20% from 36% before the data, while the next increase is now seen more likely in March rather than February. Meanwhile, rising inflation risks from elevated oil prices and the Federal Reserve’s tightening outlook kept global yields higher."
+    },
     {
       "id": "mkt:01a0f049-ee5f-7338-ab23-8bd1af79f031",
       "time": "2026-09-30 11:09:31",
