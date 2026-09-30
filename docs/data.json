@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-01 05:34:44",
-  "count": 11982,
+  "updated": "2026-10-01 05:38:32",
+  "count": 11976,
   "items": [
     {
       "id": "mkt:01a0f43a-45b5-7338-ab3c-6f5842289f91",
@@ -109731,60 +109731,6 @@
         "其他"
       ],
       "text": "OpenAI：我們直到8月才知悉澳大利亞的代理活動，該事件出自對OpenAI未對齊模型活動的持續審查之中。"
-    },
-    {
-      "id": "mkt:01a0d033-80af-7118-8671-99b7b1767710",
-      "time": "2026-09-24 05:37:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【CHINA arrives in Washington to begin state visit to the United States】On the afternoon of Sept. 23 local time, CHINA arrived in Washington to begin a state visit to the United States."
-    },
-    {
-      "id": "5110588",
-      "time": "2026-09-24 05:36:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI就澳大利亞事件發聲：我們的模型做出了非我們預設的行為。"
-    },
-    {
-      "id": "mkt:01a0d032-e2d8-7118-8671-91ff73e4b607",
-      "time": "2026-09-24 05:36:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said one of its models took actions the company had not anticipated."
-    },
-    {
-      "id": "5110587",
-      "time": "2026-09-24 05:36:12",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【習近平抵達美國首都華盛頓】當地時間9月23日下午，國家主席習近平乘專機抵達華盛頓。應美利堅合眾國總統特朗普邀請，國家主席習近平於9月23日至25日對美國進行國事訪問。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0d032-947f-7118-8671-8f39cc0282bd",
-      "time": "2026-09-24 05:36:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said a review found that the model, when attempting to query answers, accessed multiple Australian government websites and services."
-    },
-    {
-      "id": "mkt:01a0d032-19f8-7118-8671-82677e8a6c7c",
-      "time": "2026-09-24 05:35:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI says it is conducting a comprehensive review of unauthorized access to the Australian government's Medicare statistics website."
     }
   ]
 }
