@@ -1,7 +1,51 @@
 {
-  "updated": "2026-09-30 23:55:51",
+  "updated": "2026-09-30 23:59:52",
   "count": 11847,
   "items": [
+    {
+      "id": "5121489",
+      "time": "2026-09-30 23:58:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：將撤銷巴西彩票和賽馬業務資質證書，需重新申請。"
+    },
+    {
+      "id": "5121488",
+      "time": "2026-09-30 23:58:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：即刻起禁止在巴西推廣固定賠率博彩。"
+    },
+    {
+      "id": "5121487",
+      "time": "2026-09-30 23:58:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉能可、博地能源和希尼考慮在委內瑞拉進行煤炭交易。"
+    },
+    {
+      "id": "5121486",
+      "time": "2026-09-30 23:57:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱高度重視同偉大鄰邦中國合作】俄羅斯外交部發言人扎哈羅娃9月30日在例行記者會上表示，俄羅斯始終高度重視發展同偉大鄰邦中國的合作。她指出，如今中俄新時代全面戰略協作夥伴關係，已經達到前所未有的高水平，並繼續保持蓬勃發展勢頭。扎哈羅娃強調，兩國關係具有獨立自主的價值，不受一時政治形勢影響，也不針對任何第三方。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:economy:588334",
+      "time": "2026-09-30 23:56:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Morocco",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Morocco GDP Growth Stays Robust in Q2 — The economy of Morocco advanced by 4% year-on-year in Q2 2026, following growth of 4.6% in Q1 and 5.8% a year ago. The expansion was mainly driven by agricultural activity, which surged by 21.2%, while non-agricultural activities rose by 1.5%. Within the non-agricultural sector, the services sector grew by 4%, driven by strong performance in financial services and insurance (7.7%), education, human health and social work (6.4%); accommodation & food services (6.6%) and public administration and social security activities (6.4%). Conversely, the secondary sector contracted by 3.9%, reflecting sharp declines in extractive industries (-28.6%) and manufacturing (-3.2%), partly offset by growth in construction (2.8%) and utilities (1.9%)."
+    },
     {
       "id": "5121485",
       "time": "2026-09-30 23:54:23",
@@ -108506,46 +108550,6 @@
         "焦點"
       ],
       "text": "美元指數突破101關口，日內漲0.52%。"
-    },
-    {
-      "id": "5110416",
-      "time": "2026-09-23 23:59:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【立陶宛擬修憲解除核武器部署禁令】立陶宛議會9月22日透過了一項憲法修正案提案，擬解除立陶宛禁止部署核武器和外國軍事基地的條款。俄方警告稱，此舉將帶來重大安全影響。 (CCTV國際時訊)"
-    },
-    {
-      "id": "5110415",
-      "time": "2026-09-23 23:59:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：OpenAI 將向烏克蘭免費提供其人工智慧網路防禦系統 “黎明”（Daybreak）。"
-    },
-    {
-      "id": "5110414",
-      "time": "2026-09-23 23:57:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：週四 EIA 報告預計美國上週天然氣庫存增加 530 億立方英尺。"
-    },
-    {
-      "id": "5110413",
-      "time": "2026-09-23 23:56:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "芬蘭與烏克蘭簽署無人機協議，強化防務合作。"
-    },
-    {
-      "id": "mkt:01a0cefb-8509-7118-866d-387ed2935956",
-      "time": "2026-09-23 23:56:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Finland and Ukraine sign drone agreement to strengthen defence cooperation."
     }
   ]
 }
