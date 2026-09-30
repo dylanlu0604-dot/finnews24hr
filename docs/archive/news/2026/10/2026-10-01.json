@@ -1,7 +1,41 @@
 {
   "date": "2026-10-01",
-  "count": 402,
+  "count": 406,
   "items": [
+    {
+      "id": "5121731",
+      "time": "2026-10-01 05:11:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沃什會按自己的判斷行事。"
+    },
+    {
+      "id": "5121730",
+      "time": "2026-10-01 05:10:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（關於英國基地事件）今天下午將瞭解英國為何釋放嫌疑人。將就英國基地、伊朗相關事宜迅速給出答覆。"
+    },
+    {
+      "id": "mkt:01a0f427-03c1-7338-ab3c-00090723d46e",
+      "time": "2026-10-01 05:09:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Trump said he will learn this afternoon why Britain released the suspect in the incident at a UK base."
+    },
+    {
+      "id": "mkt:01a0f425-6ddf-7338-ab3b-fbc6c3b8656c",
+      "time": "2026-10-01 05:08:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said inflation has fallen sharply excluding oil."
+    },
     {
       "id": "5121729",
       "time": "2026-10-01 05:05:03",
