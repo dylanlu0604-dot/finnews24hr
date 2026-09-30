@@ -1,7 +1,41 @@
 {
   "date": "2026-10-01",
-  "count": 100,
+  "count": 104,
   "items": [
+    {
+      "id": "5121544",
+      "time": "2026-10-01 00:50:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "監測組織稱，土耳其因基金危機相關帖子再封禁147個X平臺賬號。"
+    },
+    {
+      "id": "mkt:01a0f338-6b32-7338-ab37-9c816f6d5788",
+      "time": "2026-10-01 00:49:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US extends special license for Serbia oil company to Oct 30】On Sept. 30 the US Treasury’s Office of Foreign Assets Control issued a special license extending authorization for Serbia’s oil company through Oct. 30, permitting the company and the country’s only active refinery, Pancevo, to continue operating."
+    },
+    {
+      "id": "5121543",
+      "time": "2026-10-01 00:48:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "與特朗普之子有關聯的無人機初創企業計劃將烏克蘭的（無人機）技術引入美國。"
+    },
+    {
+      "id": "5121542",
+      "time": "2026-10-01 00:47:44",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美方延長塞爾維亞石油公司運營許可至10月30日】當地時間9月30日，美國財政部外國資產控制辦公室向塞爾維亞石油公司頒發特別許可，相關許可期限延長至10月30日。新許可將允許塞石油公司及旗下該國唯一活躍的煉油廠——潘切沃煉油廠繼續運營。（央視新聞）"
+    },
     {
       "id": "mkt:01a0f336-3903-7338-ab37-978dc9e16528",
       "time": "2026-10-01 00:46:51",
