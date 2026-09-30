@@ -1,7 +1,53 @@
 {
   "date": "2026-10-01",
-  "count": 77,
+  "count": 82,
   "items": [
+    {
+      "id": "te:markets:588349",
+      "time": "2026-10-01 00:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Hits 5-week Low — Corn decreased to 502.75 USd/BU, the lowest since August 2026. Over the past 4 weeks, Corn lost 2.23%, and in the last 12 months, it increased 20.9%."
+    },
+    {
+      "id": "5121530",
+      "time": "2026-10-01 00:30:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：打擊腐敗至關重要。"
+    },
+    {
+      "id": "mkt:01a0f325-b5f1-7338-ab37-595ded340089",
+      "time": "2026-10-01 00:28:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Saudi finance ministry projects real GDP growth of 12.8% in 2027."
+    },
+    {
+      "id": "5121529",
+      "time": "2026-10-01 00:28:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "沙烏地阿拉伯財政部預計，該國2027年實際國內生產總值（GDP）將增長12.8%。"
+    },
+    {
+      "id": "5121528",
+      "time": "2026-10-01 00:28:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：將不參加Globo電視臺的辯論。"
+    },
     {
       "id": "te:markets:588348",
       "time": "2026-10-01 00:27:04",
