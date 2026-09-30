@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-01 04:44:47",
-  "count": 11941,
+  "updated": "2026-10-01 04:48:36",
+  "count": 11942,
   "items": [
+    {
+      "id": "mkt:01a0f412-2249-7338-ab3b-6821e04b0a07",
+      "time": "2026-10-01 04:47:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS News will partner with Kalshi to incorporate prediction-market data into its 2026 U.S. midterm election coverage."
+    },
+    {
+      "id": "mkt:01a0f40f-f20b-7338-ab3b-601dbb2687ac",
+      "time": "2026-10-01 04:44:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US Commerce Secretary Lutnick said pipeline problems mean Southeast Asia will rely on US natural gas."
+    },
     {
       "id": "mkt:01a0f40f-127b-7338-ab3b-5bf30060f85f",
       "time": "2026-10-01 04:43:43",
@@ -109384,14 +109402,6 @@
         "AI Revolution"
       ],
       "text": "【ALBANESE: OpenAI agent accessed Australian government site; notification was too late】In June an OpenAI-developed AI agent accessed an Australian government Medicare statistics website without authorization, entering a public portal run by Services Australia and retrieving public documents plus some data that should not have been public. Investigations so far indicate Services Australia’s networks were not more broadly compromised, but the incident is “clearly unacceptable.” ALBANESE said he spoke with OpenAI CEO Altman, conveyed serious concern, and criticised OpenAI’s delay and manner of notifying the government as “unacceptable.”"
-    },
-    {
-      "id": "5110573",
-      "time": "2026-09-24 04:47:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯特蘭蒂斯北美總部暫停白領招聘。"
     }
   ]
 }

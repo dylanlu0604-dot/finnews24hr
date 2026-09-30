@@ -1,7 +1,25 @@
 {
   "date": "2026-10-01",
-  "count": 367,
+  "count": 369,
   "items": [
+    {
+      "id": "mkt:01a0f412-2249-7338-ab3b-6821e04b0a07",
+      "time": "2026-10-01 04:47:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS News will partner with Kalshi to incorporate prediction-market data into its 2026 U.S. midterm election coverage."
+    },
+    {
+      "id": "mkt:01a0f40f-f20b-7338-ab3b-601dbb2687ac",
+      "time": "2026-10-01 04:44:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US Commerce Secretary Lutnick said pipeline problems mean Southeast Asia will rely on US natural gas."
+    },
     {
       "id": "mkt:01a0f40f-127b-7338-ab3b-5bf30060f85f",
       "time": "2026-10-01 04:43:43",
