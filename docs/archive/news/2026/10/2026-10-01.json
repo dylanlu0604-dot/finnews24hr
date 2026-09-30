@@ -1,7 +1,51 @@
 {
   "date": "2026-10-01",
-  "count": 350,
+  "count": 354,
   "items": [
+    {
+      "id": "te:markets:588370",
+      "time": "2026-10-01 04:32:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Nears $98 Amid Supply Concerns — Brent crude climbed toward $98 a barrel on Wednesday after dipping in the previous session, as reports that US President Donald Trump has no intention of easing sanctions on Iran raised concerns over exports from one of OPEC’s biggest producers. Uncertainty over US-Iran negotiations continued to support prices. Iranian government spokesperson Fatemeh Mohajerani said Tehran had received a US proposal on reopening the Strait of Hormuz, after Iran submitted its own conditions last week. Meanwhile, Middle East crude supplies have rebounded strongly this month, with Hormuz flows reaching 13.2 million barrels per day. Saudi Arabia also restarted shipments from Yanbu after restoring its East-West pipeline, providing an alternative route around Hormuz. However, flows remain below pre-conflict levels, keeping the market undersupplied. OPEC+ is expected to leave November output quotas unchanged at this weekend’s meeting. Brent crude is up about 8% this month."
+    },
+    {
+      "id": "mkt:01a0f402-f654-7338-ab3b-2bdf8d8fd0f9",
+      "time": "2026-10-01 04:30:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump: Everything in Iran is collapsing."
+    },
+    {
+      "id": "te:markets:588369",
+      "time": "2026-10-01 04:30:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Nears $90.5 as Supply Risks Persist — Crude oil climbed toward $90.50 a barrel on Wednesday after dipping in the previous session, as reports that US President Donald Trump has no intention of easing sanctions on Iran raised concerns over exports from one of OPEC’s biggest producers. Uncertainty over US-Iran negotiations continued to support prices. Iranian government spokesperson Fatemeh Mohajerani said Tehran had received a US proposal on reopening the Strait of Hormuz, after Iran submitted its own conditions last week. Meanwhile, Middle East crude supplies have rebounded strongly this month, with Hormuz flows reaching 13.2 million barrels per day. Saudi Arabia also restarted shipments from Yanbu after restoring its East-West pipeline, providing an alternative route around Hormuz. However, flows remain below pre-conflict levels, keeping the market undersupplied. OPEC+ is expected to leave November output quotas unchanged at this weekend’s meeting. Crude is up about 4.9% this month."
+    },
+    {
+      "id": "mkt:01a0f401-a76a-7338-ab3b-2518918a8e4a",
+      "time": "2026-10-01 04:29:04",
+      "tags": [
+        "MKT News",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Micron Technology (MU.O) rose nearly 2% in after-hours trading."
+    },
     {
       "id": "5121709",
       "time": "2026-10-01 04:27:17",
