@@ -1,7 +1,135 @@
 {
-  "updated": "2026-10-01 00:12:14",
-  "count": 11867,
+  "updated": "2026-10-01 00:16:09",
+  "count": 11878,
   "items": [
+    {
+      "id": "5121515",
+      "time": "2026-10-01 00:15:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：阿爾巴尼亞還需要進行更多改革。"
+    },
+    {
+      "id": "5121514",
+      "time": "2026-10-01 00:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：阿爾巴尼亞是入盟程序中的領跑者。"
+    },
+    {
+      "id": "5121513",
+      "time": "2026-10-01 00:13:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "對沖基金億萬富豪比爾·阿克曼：不需要政府對大型AI公司進行監管。"
+    },
+    {
+      "id": "mkt:01a0f317-29e3-7338-ab37-10ce8e01d123",
+      "time": "2026-10-01 00:12:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK Prime Minister Burnham said restoring previous economic growth levels will be difficult without forging closer ties with the EU."
+    },
+    {
+      "id": "mkt:01a0f317-0c85-7338-ab37-09862305e052",
+      "time": "2026-10-01 00:12:48",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "UK Prime Minister Burnham said ahead of the budget the government is considering all options, including changes to fuel duty."
+    },
+    {
+      "id": "5121512",
+      "time": "2026-10-01 00:12:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌將在Gemini和Workspace中以“技能（Skills）”取代“Gems”功能。"
+    },
+    {
+      "id": "mkt:01a0f316-cf06-7338-ab37-014c9462fc63",
+      "time": "2026-10-01 00:12:33",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK Prime Minister Burnham said the budget must not include measures without identified funding sources."
+    },
+    {
+      "id": "mkt:01a0f316-a2a7-7338-ab36-ff29eaa2aebd",
+      "time": "2026-10-01 00:12:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham said the government will do what it can amid a challenging fiscal situation."
+    },
+    {
+      "id": "te:markets:588345",
+      "time": "2026-10-01 00:12:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.84% Lower — The FTSE MIB Index fell 433 points or 0.84 percent on Wednesday to close at 51372 points. Leading the losses are Banco BPM SPA (-2.06%), Brunello Cucinelli (-2.00%) and Assicurazioni Generali (-1.75%). Top gainers were Davide Campari-Milano (1.96%), Banca Mediolanum (1.74%) and Infrastrutture Wire (1.57%)."
+    },
+    {
+      "id": "5121511",
+      "time": "2026-10-01 00:12:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "對沖基金億萬富豪比爾·阿克曼：Anthropic 是我見過的最偉大的商業傳奇。"
+    },
+    {
+      "id": "te:economy:588344",
+      "time": "2026-10-01 00:12:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Jobless Rate Ticks Down as Expected — Russia’s unemployment rate edged down to 2.2% in August 2026 from 2.3% in July, matching markets expectations. The number of unemployed people fell by 0.1 million to 1.6 million, while the labor force increased to 76.7 million. Employment rose to 75 million, its highest level since August 2025. Registered unemployment remained low at around 0.3 million people, equivalent to 0.4% of the labor force.Labor market conditions remain tight, reflecting persistent worker shortages across multiple sectors amid military mobilization following Russia’s invasion of Ukraine in February 2022 and sustained emigration. Authorities expect labor constraints to persist, projecting a shortfall of around 3.1 million workers by 2030."
+    },
+    {
+      "id": "te:markets:588343",
+      "time": "2026-10-01 00:11:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls for 2nd Month But Logs Q3 Gain — The FTSE 100 fell for a third consecutive session on Wednesday, reaching a three-week low and ending September 2% lower. The decline followed a 0.4% monthly drop in August, marking two consecutive months of losses, although the index still gained 1.1% over the third quarter. That quarterly advance was supported by a 5.3% rise in July and extended the FTSE 100’s winning streak to seven quarters, its longest in more than two decades. Banks, energy and pharmaceutical stocks weighed on Wednesday’s performance. HSBC declined 0.7%, while Barclays and Lloyds Banking Group lost 0.4% and Standard Chartered fell 1%. Shell slipped 0.6%, with BP also slightly lower, while AstraZeneca and GSK dropped 0.7% and 1.3%, respectively. Antofagasta gained 2.7%, while SSE and National Grid rose 2% and 1.8%. Meanwhile, revised data showed UK GDP expanded 0.5% in Q2, up from the previous estimate of 0.4%."
+    },
+    {
+      "id": "5121510",
+      "time": "2026-10-01 00:11:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國民主黨參議員表示，美國許可審批改革協議正取得進展。"
+    },
     {
       "id": "5121509",
       "time": "2026-10-01 00:11:19",
@@ -108717,26 +108845,6 @@
         "Importance 0"
       ],
       "text": "DAX Closes Lower — Frankfurt's DAX 40 closed about 0.7% down at 25,427 on Wednesday, lagging its European peers as surging oil prices and higher government bond yields pressured equities. Brent crude rose back above $100 a barrel as uncertainty over the reopening of the Strait of Hormuz kept geopolitical risks elevated. Iran’s President Masoud Pezeshkian, addressing the 81st UN General Assembly, said Tehran would never “bend at the knee” in response to external pressure and blamed the US and Israel for global instability. Meanwhile, higher energy prices, alongside signs of resilient economic growth, strengthened expectations for further ECB rate hikes this year. Germany’s flash services PMI for September added to the positive economic backdrop, coming in above expectations."
-    },
-    {
-      "id": "mkt:01a0cf0a-1e5a-7118-866d-705edf9a9df2",
-      "time": "2026-09-24 00:12:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "LAVROV: Both sides have reached an agreement and will continue consultations."
-    },
-    {
-      "id": "te:markets:586218",
-      "time": "2026-09-24 00:12:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.21% Lower — The FTSE MIB Index fell 108 points or 0.21 percent on Wednesday to close at 51987 points. Leading the losses are Unipol Gruppo (-2.49%), Assicurazioni Generali (-2.30%) and Prysmian (-1.86%). Top gainers were Eni (2.82%), Brunello Cucinelli (1.75%) and Amplifon (1.50%)."
     }
   ]
 }
