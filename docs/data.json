@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-01 04:48:36",
-  "count": 11942,
+  "updated": "2026-10-01 04:52:25",
+  "count": 11944,
   "items": [
+    {
+      "id": "te:markets:588374",
+      "time": "2026-10-01 04:49:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rises on Election Polls and Soft PCE Inflation — The Ibovespa rose 1.4% to close at 186,341 on Wednesday, supported by new election polls pointing to a tighter race and softer-than-expected US PCE inflation. President Lula and Flávio Bolsonaro entered the final days before the presidential election in a technical tie in a likely second-round runoff, according to Meio/Ideia and Indexa/Broadcast polls. The Meio/Ideia poll showed the candidates separated by just 0.5 percentage point in a potential runoff. Meanwhile, US PCE inflation came in slightly below estimates, easing some concerns over further Fed rate hikes. In contrast, Brazil’s PPI rose 2.5% year-on-year in August, accelerating from a 1.9% increase in July. Major banks gained, with Itaú and BB both up 4.7% and Bradesco rising 4.1%. Utilities also advanced, with Sabesp gaining 1.4%. CSN Mineração rebounded 5.2% from Tuesday’s losses, when it lowered its production outlook, as Chinese iron ore prices rose. On the month, the Ibovespa gained 5%."
+    },
+    {
+      "id": "mkt:01a0f414-1499-7338-ab3b-75d9617ea584",
+      "time": "2026-10-01 04:49:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "WBD.O",
+        "Impact bullish",
+        "PSKY.O"
+      ],
+      "text": "【Warner Bros. takeover near completion; Paramount names Ynon Kreiz co-CEO】Paramount (PSKY.O) chairman and CEO David Ellison has appointed former Mattel CEO Ynon Kreiz as co-CEO to lead integration after Paramount’s $110 billion acquisition of Warner Bros. Discovery. Ellison will remain chairman of the combined company and senior executives will report to both Ellison and Kreiz. A U.S. federal judge in California approved a settlement resolving lawsuits by 12 state attorneys general, clearing a major legal hurdle; Paramount expects the deal to close on Oct. 6. Under the settlement, Paramount committed to release at least 30 films a year and to set up editorial independence committees for CBS and CNN."
+    },
+    {
+      "id": "5121715",
+      "time": "2026-10-01 04:49:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【華納兄弟收購臨近完成 派拉蒙任命克雷茲擔任聯席CEO】派拉蒙(PSKY.O)董事長兼CEO大衛·埃裡森任命前美泰CEO伊農·克雷茲擔任公司新設聯席CEO，負責推動其以1100億美元收購華納兄弟探索後的整合工作。埃裡森將繼續擔任合併後公司的董事長，公司高管將同時向兩人彙報。埃裡森表示，克雷茲將帶來此次整合所需的領導經驗和運營能力。此次任命是派拉蒙籌建新娛樂集團的一部分，該集團將整合兩大電影製片廠、流媒體平臺、電視網路及新聞業務。美國加州聯邦法官週三批准解決12個州總檢察長反對該交易的訴訟方案，為交易完成掃清障礙。派拉蒙預計將於10月6日完成收購，根據和解條件，公司承諾每年至少發行30部電影，併為CBS和CNN等新聞機構設立編輯獨立委員會。"
+    },
     {
       "id": "mkt:01a0f412-2249-7338-ab3b-6821e04b0a07",
       "time": "2026-10-01 04:47:04",
@@ -109391,17 +109425,6 @@
         "Importance 1"
       ],
       "text": "Canada 10-Year Yield Nears Three-Year High — Canada’s 10-year government bond yield rose to around 3.95% in September, nearing a three-year high as energy-driven inflation concerns persisted. Oil prices rose after a five-week halt in the rally that followed the US-Iran war, amid uncertainty over diplomatic efforts to end the conflict and reopen the Strait of Hormuz. Strong US economic data also strengthened expectations that the Fed could deliver another rate hike this year. US Treasury yields soared to multi-decade highs, further pressuring Canadian bonds as domestic yields tend to track US rates. Fed projections showed that most policymakers expect another hike before the end of 2026. The Bank of Canada kept its key policy rate unchanged at 2.25% at its September meeting, as widely expected. However, it noted that inflation risks had increased, while new tariffs had made the growth outlook more uncertain. Governor Macklem said policymakers were prepared to raise rates if inflation remained elevated."
-    },
-    {
-      "id": "mkt:01a0d007-a697-7118-8671-44c207c8276b",
-      "time": "2026-09-24 04:49:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【ALBANESE: OpenAI agent accessed Australian government site; notification was too late】In June an OpenAI-developed AI agent accessed an Australian government Medicare statistics website without authorization, entering a public portal run by Services Australia and retrieving public documents plus some data that should not have been public. Investigations so far indicate Services Australia’s networks were not more broadly compromised, but the incident is “clearly unacceptable.” ALBANESE said he spoke with OpenAI CEO Altman, conveyed serious concern, and criticised OpenAI’s delay and manner of notifying the government as “unacceptable.”"
     }
   ]
 }
