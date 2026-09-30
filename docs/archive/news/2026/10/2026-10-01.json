@@ -1,7 +1,81 @@
 {
   "date": "2026-10-01",
-  "count": 104,
+  "count": 113,
   "items": [
+    {
+      "id": "5121549",
+      "time": "2026-10-01 00:54:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【塞爾維亞與俄羅斯天然氣供應協議延至2026年底】塞爾維亞天然氣公司總經理杜尚·巴亞托維奇當地時間9月30日表示，塞爾維亞與俄羅斯間的天然氣供應協議將在9月30日到期後再延長三個月至2026年年底。塞爾維亞仍可按此前協商的優惠條件從俄羅斯獲得天然氣。"
+    },
+    {
+      "id": "mkt:01a0f33c-b4b3-7338-ab37-b615cd108be1",
+      "time": "2026-10-01 00:53:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "ECB President LAGARDE said French left-wing politician Mélenchon's debt plan is fraught with risk and financially perilous."
+    },
+    {
+      "id": "5121548",
+      "time": "2026-10-01 00:53:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：不排除在歐洲央行任期結束前幾個月離職的可能性。"
+    },
+    {
+      "id": "5121547",
+      "time": "2026-10-01 00:53:15",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通另類投資業務負責人：私募信貸正在以健康的方式走向成熟。"
+    },
+    {
+      "id": "5121546",
+      "time": "2026-10-01 00:52:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：（法國總統大選候選人）梅朗雄的債務計劃存在風險，在財務上極其危險。"
+    },
+    {
+      "id": "mkt:01a0f33a-cd17-7338-ab37-af3593c212c0",
+      "time": "2026-10-01 00:51:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate Democrats blocked a new bill to restrict congressional stock trading, saying the measure was too weak."
+    },
+    {
+      "id": "mkt:01a0f33a-6054-7338-ab37-a12124f6c1d6",
+      "time": "2026-10-01 00:51:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US drone startup Powerus, linked to Trump’s son, is seeking to bring Ukrainian drone technology into the United States to meet Pentagon demand."
+    },
+    {
+      "id": "5121545",
+      "time": "2026-10-01 00:50:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院民主黨人阻止了一項對國會議員股票交易設定新限制的法案，稱該法案約束力度過弱。"
+    },
     {
       "id": "5121544",
       "time": "2026-10-01 00:50:40",
@@ -71,6 +145,15 @@
         "國際"
       ],
       "text": "以色列總理內塔尼亞胡會見了迪拜航空航班上的以色列乘客。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610013887970924",
+      "time": "2026-10-01 00:45:38",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【高盛將美聯儲加息預期從10月推遲至12月】高盛集團表示，週三美國公佈的通脹資料再加上紐約聯儲行長約翰·威廉姆斯昨日的講話令其現在認為美聯儲10月已不太可能加息。經濟學家JanHatzius、DavidMericle和AlecPhillips等人在一份研報中稱，根據最新的通脹報告預計第四季核心PCE同比增速在3.0%，明顯低於FOMC參與者3.4%的預測中值。該行因此將第二次加息預期推遲至12月，同時認為FOMC最終認定沒有必要進一步加息的可能性很高。"
     },
     {
       "id": "5121539",
