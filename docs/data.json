@@ -1,7 +1,203 @@
 {
-  "updated": "2026-09-30 08:59:25",
-  "count": 11905,
+  "updated": "2026-09-30 09:03:32",
+  "count": 11913,
   "items": [
+    {
+      "id": "mkt:01a0efd5-3deb-7338-ab1f-d9caafe0c7e6",
+      "time": "2026-09-30 09:02:04",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【China express deliveries exceed 150 billion this year】China's State Post Bureau said on Sept. 30 that as of Sept. 29 total express deliveries this year have exceeded 150 billion items, reaching the milestone 12 days earlier than in 2025."
+    },
+    {
+      "id": "te:markets:587883",
+      "time": "2026-09-30 09:01:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies on Lower Oil Prices — Silver steadied above $61 an ounce on Wednesday, halting a recent decline with falling oil prices offering some support despite continued pressure from elevated Treasury yields. Oil prices dropped sharply amid signs of improving energy flows from the Middle East and following another major release of emergency reserves in the US. Meanwhile, precious metals remain under pressure from rising Treasury yields, with the 30-year US bond yield climbing as high as 5.62%, reaching levels not seen since June 2002. Concerns over persistent energy-driven inflation, along with hawkish remarks from Federal Reserve officials, helped push yields higher. New York Fed President John Williams said Tuesday that another rate increase “late this year” could be appropriate, while noting that the Middle East conflict and the expansion of artificial intelligence remain key drivers of elevated inflation. Silver is on track to decline nearly 8% in September."
+    },
+    {
+      "id": "5119722",
+      "time": "2026-09-30 09:01:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年我國快遞業務量已超1500億件】國家郵政局9月30日釋出資料顯示，截至9月29日，今年我國快遞業務量已超1500億件，比2025年提前12天。（新華社）"
+    },
+    {
+      "id": "mkt:01a0efd4-e1c4-7338-ab1f-d72a33f7b7ca",
+      "time": "2026-09-30 09:01:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine exports rose 27.8% YoY in August."
+    },
+    {
+      "id": "5119721",
+      "time": "2026-09-30 09:01:39",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局召開網路平臺食品安全行政指導會】近日，市場監管總局召開網路平臺食品安全行政指導會，進一步壓實網路平臺食品安全主體責任，細化線上風險管控舉措，全力築牢網路食品安全防線，營造規範有序、安心放心的網路食品消費環境。會議指出，網路食品消費新業態極大便利了群眾生活，有效適配了多元化民生消費需求。市場監管總局持續完善網路食品安全監管制度，常態化開展線上抽檢和專項整治工作，全國網路銷售食品安全態勢總體穩定。網路銷售食品假冒偽劣、虛假宣傳等問題屢禁不止，一些問題反覆出現，社會關注度高、群眾反映較為集中，凸顯出部分網路平臺主體責任落實不力、日常管控不嚴、風險治理不夠精準等突出問題。會議強調，網路平臺企業要切實深化思想認識，壓緊壓實食品安全主體責任，時刻繃緊食品安全風險防控之弦。要健全完善食品安全內部管控體系，細化入網商戶稽核、日常巡查、風險排查等全鏈條管理制度。要暢通線上消費維權渠道，高效處置消費者投訴訴求，積極回應社會民生關切。要主動參與食品安全社會共治，各方共同努力構建政府嚴管、平臺自治、社會監督的協同治理模式。會議要求，各級市場監管部門要持續強化線上食品安全監管執法，擴大抽檢覆蓋面、加大靶向治理力度，精準排查化解各類食品安全風險隱患。要持續推進網路食品安全合規提質行動，常態化開展合規指導和警示教育，督促平臺及入網經營者規範經營行為、強化安全意識、提升管理水平，以精準監管規範市場秩序，推動行業高質量發展。"
+    },
+    {
+      "id": "5119720",
+      "time": "2026-09-30 09:01:25",
+      "tags": [],
+      "text": "國內期貨主力合約漲多跌少，合成橡膠漲超4％，橡膠、20號膠漲超3％，菜油、豆一漲近2％，鈀、菜粕、滬金漲超1％。跌幅方面，SC原油跌超2％，燃料油、低硫燃料油（LU）跌近2％，液化石油氣（LPG）、瀝青、滬鎳跌超1％，純鹼、集運歐線跌近1％。"
+    },
+    {
+      "id": "mkt:01a0efd4-a655-7338-ab1f-ce68d05b4132",
+      "time": "2026-09-30 09:01:25",
+      "tags": [
+        "MKT News",
+        "FFIE.O"
+      ],
+      "text": "FARADAY FUTURE (FFIE.O) disclosed further execution details of its US manufacturing acceleration plan, filed for conditional approval and said it plans to launch a new robot product in Q1 2027. Its robotics unit will merge with AIXC and pursue an independent listing."
+    },
+    {
+      "id": "mkt:01a0efd4-91a1-7338-ab1f-c2e2ca9651c1",
+      "time": "2026-09-30 09:01:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan's TAIEX opened 561.94 points higher, up 1.18%, at 48,193.9 on Wednesday, Sept. 30."
+    },
+    {
+      "id": "mkt:01a0efd4-57d2-7338-ab1f-bd1893238960",
+      "time": "2026-09-30 09:01:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 0.96% to 903.1 yuan/gram in early trade on Wednesday, Sept. 30; Shanghai Gold Exchange Silver T+D rose 0.87% to 14,919 yuan/kg."
+    },
+    {
+      "id": "5119719",
+      "time": "2026-09-30 09:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【階躍終端STEPX Neo智慧體手機已獲得工信部入網許可】9月30日，介面新聞獲悉，階躍終端STEPX Neo智慧體手機已獲得工信部入網許可。據悉，該機為階躍終端首款大模型原生智慧體手機，從模型、系統、硬體等方面為智慧體原生打造，曾於世界人工智慧大會（WAIC）2026上首次公開亮相，預計將於10月正式上市。（介面新聞）"
+    },
+    {
+      "id": "5119718",
+      "time": "2026-09-30 09:00:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.1%至48,145.33點。"
+    },
+    {
+      "id": "5119717",
+      "time": "2026-09-30 09:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌1%，現報5195.00元。"
+    },
+    {
+      "id": "mkt:01a0efd3-d703-7338-ab1f-b2f17ab9ba9a",
+      "time": "2026-09-30 09:00:32",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures opened up 0.17%."
+    },
+    {
+      "id": "5119716",
+      "time": "2026-09-30 09:00:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓8月出口同比增長27.8%，預計13.8%。"
+    },
+    {
+      "id": "mkt:01a0efd3-947f-7338-ab1f-af3bfb7fb94e",
+      "time": "2026-09-30 09:00:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China's front-month commodity futures opened mostly higher. Synthetic rubber rose >4%; natural rubber and 20# rubber gained >3%; rapeseed oil and soybean No.1 were up ~2%; palladium, rapeseed meal and Shanghai gold rose >1%. Decliners: SC crude fell >2%; fuel oil and low-sulfur fuel oil (LU) dropped ~2%; LPG, asphalt and Shanghai nickel fell >1%; soda ash and Europe–China container freight edged down ~1%."
+    },
+    {
+      "id": "te:markets:587882",
+      "time": "2026-09-30 09:00:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Rise as Oil Prices Drop — The Nikkei 225 Index climbed 1% to above 66,000, while the broader Topix Index rose 0.8% to 4,073 on Wednesday, ending a two-session decline as oil prices dropped sharply on easing supply concerns. The moves followed Saudi Arabia restoring around half of the capacity of its East-West pipeline and the Trump administration ordering another release of emergency reserves. Domestically, investors assessed data showing Japan’s industrial production unexpectedly fell in August, reflecting weaker output across major manufacturing sectors amid softer export demand, while retail sales growth came in below expectations. Technology stocks led the recovery despite continued pressure from elevated bond yields, with notable gains in Kioxia Holdings (2.2%), SoftBank Group (4%), Advantest (1.8%), Taiyo Yuden (5.3%) and Fujikura (4.5%). The Nikkei 225 Index is on track to end the month largely unchanged."
+    },
+    {
+      "id": "5119715",
+      "time": "2026-09-30 09:00:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【引航生物完成4.5億元Pre-IPO融資】近日，引航生物完成4.5億元Pre-IPO融資，本輪融資得到新老投資方的共同認購。本次募集資金將重點用於新產品研發與產業化落地，加大市場開拓力度，全面提升公司綜合競爭力。"
+    },
+    {
+      "id": "5119714",
+      "time": "2026-09-30 09:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.22%。"
+    },
+    {
+      "id": "5119713",
+      "time": "2026-09-30 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內漲4%，現報16080.00元。"
+    },
+    {
+      "id": "5119712",
+      "time": "2026-09-30 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】丁二烯橡膠連續漲4.52%，20號膠連續漲3.41%，天然橡膠連續漲3.20%，上海原油連續跌2.54%，低硫燃料油連續跌2.30%。"
+    },
+    {
+      "id": "5119711",
+      "time": "2026-09-30 08:58:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全國鐵路今天預計傳送旅客1976萬人次】記者從國鐵集團瞭解到，今天（9月30日）全國鐵路預計傳送旅客1976萬人次，預計加開列車2053列，熱門線路加開夜間高鐵。9月29日全國鐵路傳送旅客1374.2萬人次，增長6.5%，加開列車907列。"
+    },
     {
       "id": "5119710",
       "time": "2026-09-30 08:57:25",
@@ -108756,135 +108952,6 @@
         "其他"
       ],
       "text": "META：與新加坡警方合作對370萬個賬戶、頁面和內容採取行動。"
-    },
-    {
-      "id": "5108738",
-      "time": "2026-09-23 09:02:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【趙剛會見白俄羅斯莫吉廖夫州執行委員會主席伊薩琴科·阿納託利一行】 據陝西釋出，9月22日，陝西省省長趙剛在西安會見了白俄羅斯莫吉廖夫州執行委員會主席伊薩琴科·阿納託利一行。趙剛說，近年來，陝西省與白俄羅斯各領域交流合作持續深化，與莫吉廖夫州友好省州關係不斷走深走實。希望雙方以友好省州關係建立5週年為新的起點，發揮各自優勢，進一步深化在經貿、投資、農業、人文等領域的務實合作，努力實現更高水平的互利共贏。"
-    },
-    {
-      "id": "te:markets:585843",
-      "time": "2026-09-23 09:02:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Holds Gains on Hawkish Fed Remarks — The dollar index held around 100.5 on Wednesday, hovering at its highest levels in eight weeks as hawkish comments from Federal Reserve officials bolstered bets for additional interest rate hikes this year. Richmond Fed President Tom Barkin warned on Tuesday that inflationary shocks could take time to fade, with a risk that elevated price pressures may become entrenched. Boston Fed President Susan Collins also said in a LinkedIn post that she supported last week’s rate hike amid concerns that future inflation could remain above the 2% target. Markets are currently pricing in roughly a 54% probability of another Fed rate increase in October. On the geopolitical front, oil prices extended their decline for a sixth consecutive session after President Donald Trump said US officials had a “very good” meeting with Iranian envoys, easing inflationary concerns and reducing safe-haven demand for the dollar."
-    },
-    {
-      "id": "5108737",
-      "time": "2026-09-23 09:01:56",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛表示，今年中秋期間中國白酒整體需求依然保持謹慎，品牌分化加劇，而茅臺的表現則持續優於同業。"
-    },
-    {
-      "id": "mkt:01a0cbc8-009b-7118-8653-66c409eac0fc",
-      "time": "2026-09-23 09:01:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened up 388.11 points, or 0.81%, at 48,188.28 points on Wednesday, Sept. 23."
-    },
-    {
-      "id": "mkt:01a0cbc7-4345-7118-8653-5dead3b16f64",
-      "time": "2026-09-23 09:00:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE China A50 futures opened 0.27% higher."
-    },
-    {
-      "id": "5108734",
-      "time": "2026-09-23 09:00:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【董曉亮出任興銀基金董事長】 興銀基金髮布董事長變更公告，黃德良不再兼任公司董事長職務，董曉亮任公司董事長。董曉亮先後在國貿期貨、興業證券、海通期貨等機構任職，2023年7月加入廈門國貿資本集團任副總經理。"
-    },
-    {
-      "id": "mkt:01a0cbc7-3778-7118-8653-50361b0f75ef",
-      "time": "2026-09-23 09:00:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "At the morning open on Wednesday Sep 23, Shanghai Gold Exchange Gold T+D rose 0.5% to 940.0 yuan/gram; Shanghai Gold Exchange Silver T+D rose 1.74% to 16,297.0 yuan/kg."
-    },
-    {
-      "id": "5108733",
-      "time": "2026-09-23 09:00:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.2%報47,894.77。"
-    },
-    {
-      "id": "mkt:01a0cbc7-1ce3-7118-8653-4b4a0c9f97e7",
-      "time": "2026-09-23 09:00:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Industrial Metals",
-        "Precious Metals",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bearish",
-        "Copper",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "At the open, China’s main futures contracts were mixed. Shanghai crude (SC) and ethylene glycol (EG) fell more than 3%; polyester short fiber, bottle-grade PET chips and LPG were down over 2%; styrene (EB), polypropylene monthly average and plastics monthly average dropped about 2%. Gains: China–Europe container shipping rates rose >2%; platinum, Shanghai silver, Shanghai nickel, lithium carbonate and foundry aluminum were up >1%; stainless steel (SS) and international copper were near 1% higher."
-    },
-    {
-      "id": "5108732",
-      "time": "2026-09-23 09:00:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部、國家統計局和國家外匯局聯合釋出 《2025年度中國對外直接投資統計公報》】9月23日，商務部、國家統計局和國家外匯管理局聯合釋出《2025年度中國對外直接投資統計公報》（以下簡稱《公報》）。《公報》分中國對外直接投資綜述、中國對外直接投資流量存量、中國對世界主要經濟體的直接投資、對外直接投資者構成、對外直接投資企業構成、附表等六部分，全面反映2025年中國對外直接投資情況。對外投資主要呈現以下特點：\n\n一是對外直接投資規模穩居全球前列，呈現多元化投資趨勢。2025年，中國對外直接投資流量2135.8億美元，比上年增長11.1%，對外投資存量3.4萬億美元，連續9年保持全球前三，佔全球投資的比重增加到7.4%。對外投資行業覆蓋國民經濟的18個行業門類，主要集中在租賃和商務服務、批發零售、製造和金融四個領域，近年來逐步向綠色低碳、數字經濟和綠色礦產等領域穩步拓展。\n\n二是互利共贏成效顯著。截至2025年末，我國在境外設立企業5.8萬家，遍佈189個國家和地區，境外企業從業員工總數476.1萬人，其中僱用外方員工296.5萬人。中國企業在海外積極融入全球和區域經濟，不僅帶動了自身發展、提升了競爭力，也為東道國產業發展和全球產供鏈穩定安全作出了重要貢獻。\n\n三是“一帶一路”合作成果豐碩。2025年，中國企業對共建“一帶一路”國家直接投資460.5億美元，佔當年對外投資流量的21.6%，在共建“一帶一路”國家設立境外企業數量2.2萬家，投資存量4072.5億美元。“一帶一路”倡議為中國企業對外投資搭建了廣闊平臺，實現了“共商、共建、共享”的良好格局。"
-    },
-    {
-      "id": "5108731",
-      "time": "2026-09-23 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌1%，現報6142.00元。"
-    },
-    {
-      "id": "5108730",
-      "time": "2026-09-23 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】上海原油連續跌3.74%，乙二醇連續跌3.39%，短纖連續跌2.86%，瓶片連續跌2.68%，集運指數歐線期貨連續漲2.55%。"
-    },
-    {
-      "id": "5108729",
-      "time": "2026-09-23 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.32%。"
     }
   ]
 }
