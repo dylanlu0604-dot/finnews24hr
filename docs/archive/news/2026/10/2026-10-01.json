@@ -1,7 +1,27 @@
 {
   "date": "2026-10-01",
-  "count": 694,
+  "count": 696,
   "items": [
+    {
+      "id": "5121902",
+      "time": "2026-10-01 09:07:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬來西亞國家石油公司稱宋卡出口管道暫時關閉】馬來西亞國有能源企業馬來西亞國家石油公司（PETRONAS）週四表示，其與泰國PTT公司的合資企業“泰馬跨境公司”（Trans Thai-Malaysia）在例行檢查中發現一處問題後，已暫時關閉宋卡出口管道（Songkhla Export Pipeline）。宋卡出口管道是“泰馬跨境天然氣系統”的一部分，該系統將泰國灣的海上天然氣生產與泰國和馬來西亞的天然氣加工及市場相連。馬來西亞國家石油公司表示，將採取積極措施確保客戶服務的連續性。"
+    },
+    {
+      "id": "mkt:01a0f4fd-9453-7338-ab3f-ac9218ca7676",
+      "time": "2026-10-01 09:04:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Xiaomi"
+      ],
+      "text": "Xiaomi Auto deliveries in September 2026 exceeded 40,000 units."
+    },
     {
       "id": "5121901",
       "time": "2026-10-01 09:03:42",
