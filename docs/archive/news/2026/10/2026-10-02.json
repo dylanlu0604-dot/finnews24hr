@@ -1,7 +1,78 @@
 {
   "date": "2026-10-02",
-  "count": 536,
+  "count": 544,
   "items": [
+    {
+      "id": "5123408",
+      "time": "2026-10-02 06:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：2026 年 2 月的時候，伊朗距離造出核武器只剩三到四周時間，甚至可能更快。"
+    },
+    {
+      "id": "mkt:01a0f987-1b02-7ee0-a77f-a2c511ed8bf8",
+      "time": "2026-10-02 06:12:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the war will end in some form."
+    },
+    {
+      "id": "5123407",
+      "time": "2026-10-02 06:12:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍：裝置故障不影響該煉油廠向區域客戶供應石油產品的能力。"
+    },
+    {
+      "id": "mkt:01a0f986-8fb0-7ee0-a77f-9ec7762973c3",
+      "time": "2026-10-02 06:12:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "U.S. President Trump said the United States has taken control of Venezuela."
+    },
+    {
+      "id": "5123406",
+      "time": "2026-10-02 06:11:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍表示，其位於加利福尼亞州埃爾塞貢多的煉油廠發生的非計劃放空燃燒不會對周邊社群，也不會對該廠在崗員工構成安全風險。"
+    },
+    {
+      "id": "mkt:01a0f985-861c-7ee0-a77f-95f9fe94e065",
+      "time": "2026-10-02 06:11:12",
+      "tags": [
+        "MKT News",
+        "CVX.O"
+      ],
+      "text": "Chevron (CVX.N) said an unplanned venting and flaring at its El Segundo, California refinery does not pose a safety risk to the community or refinery employees."
+    },
+    {
+      "id": "mkt:01a0f985-65c6-7ee0-a77f-891cce7329ae",
+      "time": "2026-10-02 06:11:04",
+      "tags": [
+        "MKT News",
+        "RTX.N",
+        "Impact bullish"
+      ],
+      "text": "U.S. Navy secretary said a multiyear contract will accelerate production of the SM-6 missile and, through lower-cost raw-material procurement, strengthen the U.S. maritime industrial base to ensure next‑generation warfighting advantage."
+    },
+    {
+      "id": "mkt:01a0f983-fd4e-7ee0-a77f-80bfbe69e0a9",
+      "time": "2026-10-02 06:09:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the previous Iranian leadership is no longer in place, the US is trying to be friendly toward the current president and that \"we have to deal with someone.\""
+    },
     {
       "id": "5123405",
       "time": "2026-10-02 06:08:34",
