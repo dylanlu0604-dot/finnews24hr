@@ -1,7 +1,60 @@
 {
   "date": "2026-10-01",
-  "count": 696,
+  "count": 702,
   "items": [
+    {
+      "id": "mkt:01a0f503-f4f5-7338-ab3f-c6ddbbb2ba70",
+      "time": "2026-10-01 09:11:12",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Wuhan launches pilot for collective mortgages of subdivided land‑use rights】Wuhan municipal housing, natural‑resources and local financial regulators issued implementation guidance under the Notice on Improving the Commodity Housing Sales System. For pre‑sale commodity housing projects with development‑loan contracts signed on or before Aug. 28, 2026, the lead bank and developer may, under market and legal principles and by mutual agreement, use new financing, loan extensions or repayment‑schedule adjustments to meet reasonable financing needs, ease construction funding pressure and align loan disbursement with project construction cycles. When developers pledge land‑use rights for development loans, collateral should be established as a collective mortgage over subdivided land‑use rights; detailed rules will be issued separately."
+    },
+    {
+      "id": "5121905",
+      "time": "2026-10-01 09:10:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "華為餘承東：華為Mate 90系列正式釋出。今天10:00，直播間一起見證。"
+    },
+    {
+      "id": "5121904",
+      "time": "2026-10-01 09:10:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為泡泡瑪特聯名款手錶開售】10月1日，華為泡泡瑪特聯名款手錶華為WATCH FIT 5開售，搭載華為自研晶片、64GB儲存、藍芽6.0，新增數字溫度感測器，支援腕溫趨勢監測，售價1199元。"
+    },
+    {
+      "id": "5121903",
+      "time": "2026-10-01 09:09:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢：開展分戶土地使用權集合設定抵押試點】武漢市住房和城市更新局、武漢市自然資源和城鄉建設局、武漢市地方金融管理局釋出關於貫徹落實《關於完善商品住房銷售制度的通知》的實施意見。其中提到，發揮融資協調機制作用。2026年8月28日（含）前，已簽訂開發貸貸款合同的預售商品住房專案，按照市場化、法治化原則，經主辦銀行與房地產開發企業充分協商，可透過新增融資、展期或調整還款計劃等方式，滿足專案合理融資需求，緩解專案建設資金壓力，實現開發貸款發放與專案建設週期相匹配。開展分戶土地使用權集合設定抵押試點。房地產專案開發公司以土地使用權抵押申請開發貸款的，應以分戶土地使用權集合設定抵押，具體辦法另行制定。"
+    },
+    {
+      "id": "mkt:01a0f501-c671-7338-ab3f-b9dc153394c2",
+      "time": "2026-10-01 09:08:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI Codex product lead Tibo said GPT-6.1 Sol is likely the highest-demand model to date across both API and subscription users. ChatGPT and Codex had been experiencing heavy load, but OpenAI has deployed additional compute capacity; runtime performance should improve significantly over the next few hours and is expected to reach roughly twice yesterday's service speed."
+    },
+    {
+      "id": "mkt:01a0f501-6a62-7338-ab3f-b42e95884de4",
+      "time": "2026-10-01 09:08:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI turned positive after earlier falling as much as 1%."
+    },
     {
       "id": "5121902",
       "time": "2026-10-01 09:07:27",
