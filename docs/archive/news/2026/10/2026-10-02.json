@@ -1,7 +1,30 @@
 {
   "date": "2026-10-02",
-  "count": 270,
+  "count": 272,
   "items": [
+    {
+      "id": "mkt:01a0f8cd-713c-7338-ab55-e25df5d11115",
+      "time": "2026-10-02 02:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Bowman due to speak in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0f8ca-c19f-7338-ab55-d9771cfee516",
+      "time": "2026-10-02 02:47:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Report: Iran foreign minister privately offered inspectors access to bombed nuclear sites for sanctions relief】People familiar said Iran’s foreign minister privately told European and Middle Eastern diplomats during UN General Assembly meetings in New York that Tehran would allow inspectors back into nuclear facilities hit by strikes in exchange for sanctions relief. Diplomats said the proposal may provide a breakthrough in stalled US-Iran talks and signals acute economic strain. He also urged European officials to rescind the UN decision last year to reimpose full sanctions on Iran, but European diplomats have so far refused, four people said. President PEZESHKIAN publicly said last week Iran was willing to let inspectors return."
+    },
     {
       "id": "mkt:01a0f8c5-fb1f-7338-ab55-d2807fdd4d6f",
       "time": "2026-10-02 02:41:59",

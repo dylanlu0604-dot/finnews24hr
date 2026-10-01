@@ -1,7 +1,30 @@
 {
-  "updated": "2026-10-02 02:46:59",
-  "count": 11572,
+  "updated": "2026-10-02 02:50:46",
+  "count": 11569,
   "items": [
+    {
+      "id": "mkt:01a0f8cd-713c-7338-ab55-e25df5d11115",
+      "time": "2026-10-02 02:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Bowman due to speak in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0f8ca-c19f-7338-ab55-d9771cfee516",
+      "time": "2026-10-02 02:47:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Report: Iran foreign minister privately offered inspectors access to bombed nuclear sites for sanctions relief】People familiar said Iran’s foreign minister privately told European and Middle Eastern diplomats during UN General Assembly meetings in New York that Tehran would allow inspectors back into nuclear facilities hit by strikes in exchange for sanctions relief. Diplomats said the proposal may provide a breakthrough in stalled US-Iran talks and signals acute economic strain. He also urged European officials to rescind the UN decision last year to reimpose full sanctions on Iran, but European diplomats have so far refused, four people said. President PEZESHKIAN publicly said last week Iran was willing to let inspectors return."
+    },
     {
       "id": "mkt:01a0f8c5-fb1f-7338-ab55-d2807fdd4d6f",
       "time": "2026-10-02 02:41:59",
@@ -106413,53 +106436,6 @@
         "其他"
       ],
       "text": "市場訊息：週三約有60艘商船透過霍爾木茲海峽，原油日運輸量達到7月初以來的最高水平。"
-    },
-    {
-      "id": "mkt:01a0d4c1-17b0-7118-868f-9ae3790fb2b0",
-      "time": "2026-09-25 02:50:19",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O"
-      ],
-      "text": "UBS (UBS.N) expects Tesla (TSLA.O) to deliver 470,000 vehicles in Q3."
-    },
-    {
-      "id": "mkt:01a0d4bf-d516-7118-868f-93bfface6cc4",
-      "time": "2026-09-25 02:48:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French President Macron refused to publicly endorse any candidate in next year’s French presidential election."
-    },
-    {
-      "id": "5112625",
-      "time": "2026-09-25 02:48:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍拒絕公開支援明年總統選舉的任何候選人。"
-    },
-    {
-      "id": "5112624",
-      "time": "2026-09-25 02:48:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀集團：預計特斯拉三季度車輛銷售/交付47萬輛。"
-    },
-    {
-      "id": "mkt:01a0d4be-2d18-7118-868f-8c460ef74026",
-      "time": "2026-09-25 02:47:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "TypeSafe AI is in talks for a new funding round that could total at least $1 billion, according to The Information."
     }
   ]
 }
