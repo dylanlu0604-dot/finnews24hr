@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-01 09:23:11",
-  "count": 11982,
+  "updated": "2026-10-01 09:26:58",
+  "count": 11977,
   "items": [
+    {
+      "id": "5121920",
+      "time": "2026-10-01 09:26:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭儲備銀行（RBNZ）董事會敦促貨幣政策委員會（MPC）對過往決策進行年度評估。"
+    },
     {
       "id": "te:markets:588440",
       "time": "2026-10-01 09:22:16",
@@ -109798,64 +109806,6 @@
         "國際"
       ],
       "text": "【內塔尼亞胡稱聯大講話將有驚喜】據以色列媒體報道，以色列總理內塔尼亞胡當地時間9月23日晚啟程赴美國紐約出席第81屆聯大會議，預計將於美東時間9月24日上午抵達，隨後將在聯大一般性辯論中發言。據悉，內塔尼亞胡將僅在紐約停留數小時，且不會過夜。 內塔尼亞胡臨行前在社交媒體平臺釋出影片稱，他此行將“在聯合國的講臺上為以色列國和以軍辯護”，“與世界各地散佈的‘謊言’作鬥爭”。內塔尼亞胡稱“還將有驚喜”。目前還不清楚這一“驚喜”指的是什麼。（CCTV國際時訊）"
-    },
-    {
-      "id": "5110781",
-      "time": "2026-09-24 09:26:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "20號膠連續主力合約日內漲4%，現報17040.00元。"
-    },
-    {
-      "id": "mkt:01a0d105-23bf-7118-8674-362395899e0c",
-      "time": "2026-09-24 09:26:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【New-share N-Bairuiji surges 347% at open】N-Bairuiji jumped 347% at debut. Public filings show the company develops biomimetic tissue repair and regenerative materials, focusing on postoperative wound repair in the uterine cavity, pelvic/abdominal cavity and nasal/sinus cavity, and is also developing functional skincare products containing hyaluronic acid derivatives."
-    },
-    {
-      "id": "mkt:01a0d104-b747-7118-8674-2f56f6ae9624",
-      "time": "2026-09-24 09:25:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "A-shares opened lower: Shanghai Composite fell 0.28%, Shenzhen Composite Index fell 0.45% and ChiNext fell 0.38%. Grain, lab-grown diamonds and oilfield services engineering led gains."
-    },
-    {
-      "id": "5110780",
-      "time": "2026-09-24 09:25:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【百瑞吉上市首日開盤大漲超347%】百瑞吉上市首日開盤漲347.23%，現報75元，該股發行價為16.77元。"
-    },
-    {
-      "id": "5110779",
-      "time": "2026-09-24 09:25:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股三大股指開盤齊跌，上證指數跌0.28%，深證成指跌0.45%，創業板指跌0.38%。"
-    },
-    {
-      "id": "5110778",
-      "time": "2026-09-24 09:24:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一汽奔騰小馬新增兩款搭載寧德時代電池車型】9月24日，一汽奔騰小馬新增兩款搭載寧德時代電池的新車型——開心馬、幸運馬，官方指導價分別為4.19萬元、4.59萬元。"
     }
   ]
 }
