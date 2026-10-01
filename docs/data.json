@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-01 14:49:37",
-  "count": 11803,
+  "updated": "2026-10-01 14:53:23",
+  "count": 11805,
   "items": [
+    {
+      "id": "5122195",
+      "time": "2026-10-01 14:51:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列安全內閣定於當地時間本週日晚間召開會議。"
+    },
+    {
+      "id": "mkt:01a0f63b-0edf-7338-ab44-66f888ffa90a",
+      "time": "2026-10-01 14:51:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 13 reports the security cabinet will meet Sunday evening local time as tensions persist."
+    },
     {
       "id": "mkt:01a0f638-96f5-7338-ab44-5d7c917ce30c",
       "time": "2026-10-01 14:48:18",
