@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-02 06:35:52",
-  "count": 11689,
+  "updated": "2026-10-02 06:39:35",
+  "count": 11688,
   "items": [
+    {
+      "id": "mkt:01a0f99e-3219-7ee0-a780-0772b4dce03f",
+      "time": "2026-10-02 06:38:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said bilateral trade talks with India are ongoing, but a trade agreement is not imminent."
+    },
+    {
+      "id": "5123424",
+      "time": "2026-10-02 06:35:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄莫斯科州一家化工廠發生火災致4人失蹤】俄新社1日援引俄羅斯緊急情況部門訊息報道，莫斯科州克拉斯諾扎沃茨克市一家化工廠當天發生火災，導致一座廠房坍塌。目前40人被疏散，可能有4人被困，緊急救援人員正在確認他們的下落。當地行政部門官員在社交媒體發文稱，該化工廠火災過火面積目前已達一千平方米。初步資訊顯示，火災與無人機襲擊無關，具體原因還在調查之中。（新華社）"
+    },
+    {
+      "id": "5123423",
+      "time": "2026-10-02 06:35:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議員弗拉維奧·博索納羅在X平臺發文稱，他不會出席環球電視臺舉辦的總統候選人辯論。"
+    },
     {
       "id": "mkt:01a0f99b-630f-7ee0-a77f-ffae474c3bf1",
       "time": "2026-10-02 06:35:05",
@@ -107387,42 +107411,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Rubber Rises by 3.23% — Top commodity gainers are Rubber (3.23%), Rice (1.50%) and Barley (1.46%). Biggest losers are Sunflower Oil (-1.82%) and Butter (-1.16%)."
-    },
-    {
-      "id": "5112792",
-      "time": "2026-09-25 06:38:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚： 我們從未謀求戰爭，現在也不想要戰爭。我深信人類不應互相殘殺。但凡可以透過對話解決問題，就不該訴諸殺戮。但在以色列的煽動之下，這場戰爭被強加於我們。我們並不希望戰事持續。是否結束衝突，決定權在美國。"
-    },
-    {
-      "id": "5112791",
-      "time": "2026-09-25 06:37:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨跌超3.00%，現報3.266美元/百萬英熱。"
-    },
-    {
-      "id": "mkt:01a0d590-eb00-7118-8691-d8cf551bab55",
-      "time": "2026-09-25 06:37:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran president: whether war ends before year-end depends on US】Iranian President Pezeshkian said when asked whether the war could end before year-end that the decision rests with the US. He said, If the current US administration wants to reach an agreement within the framework of international law, it can; if it does not, then whether the conflict ends before or after the US midterm elections makes no difference to us."
-    },
-    {
-      "id": "5112790",
-      "time": "2026-09-25 06:36:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：如果現任美國政府願意在國際法框架下達成協議，那很好。如若不然，無論大選之前還是大選之後，對我們而言又有什麼區別？"
     }
   ]
 }
