@@ -1,7 +1,124 @@
 {
-  "updated": "2026-10-01 14:27:01",
-  "count": 11803,
+  "updated": "2026-10-01 14:30:48",
+  "count": 11800,
   "items": [
+    {
+      "id": "mkt:01a0f628-287d-7338-ab44-1c1ac50726de",
+      "time": "2026-10-01 14:30:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland real retail sales YoY for August 3.2%; prior 2.30%."
+    },
+    {
+      "id": "mkt:01a0f628-0f14-7338-ab44-17d7806ed2d3",
+      "time": "2026-10-01 14:30:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Real Retail Sales (YoY) (Aug) | actual 3.2% | previous 2.30%"
+    },
+    {
+      "id": "5122173",
+      "time": "2026-10-01 14:30:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "瑞士9月CPI月率 0%，預期0.00%，前值0.40%。\n瑞士9月CPI年率 1%，預期1%，前值0.80%。"
+    },
+    {
+      "id": "mkt:01a0f627-e8cc-7338-ab44-089256540d53",
+      "time": "2026-10-01 14:30:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland September CPI YoY 1.0% (consensus 1.0%; August 0.8%)."
+    },
+    {
+      "id": "mkt:01a0f627-e79f-7338-ab44-0039fb47b216",
+      "time": "2026-10-01 14:30:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland September CPI m/m 0.0% (consensus 0.0%), prior 0.4%."
+    },
+    {
+      "id": "te:markets:588562",
+      "time": "2026-10-01 14:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 3.31% Higher — The Nikkei 225 Index went up by 2208 points or 3.31 percent on Thursday to close at 68962 points. The rise was led by Lasertec Corp (9.09%), Advantest (8.87%) and Taiyo Yuden (8.54%)."
+    },
+    {
+      "id": "mkt:01a0f627-d352-7338-ab43-fdd1772a19ef",
+      "time": "2026-10-01 14:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | CPI (MoM) (Sep) | actual 0% | consensus 0.00% | previous 0.40%"
+    },
+    {
+      "id": "mkt:01a0f627-d351-7338-ab43-f448f7497362",
+      "time": "2026-10-01 14:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | CPI (YoY) (Sep) | actual 1% | consensus 1% | previous 0.80%"
+    },
+    {
+      "id": "mkt:01a0f627-7ce2-7338-ab43-ecc427341dcb",
+      "time": "2026-10-01 14:29:37",
+      "tags": [
+        "MKT News",
+        "BX.N",
+        "Impact bearish"
+      ],
+      "text": "HSBC cut its PT on Blackstone (BX.N) to $122 from $135."
+    },
+    {
+      "id": "5122172",
+      "time": "2026-10-01 14:28:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【俄羅斯符拉迪沃斯託克發生交通事故 6人受傷】據俄羅斯方面當地時間10月1日訊息，俄符拉迪沃斯託克發生交通事故，造成6人受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0f624-e34e-7338-ab43-e6bcfaedb4ca",
+      "time": "2026-10-01 14:26:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【UK house prices record largest drop since May】Nationwide Building Society data showed UK house prices fell 0.2% month-on-month to £274,251, the largest monthly decline since May and below economists' expectation of no change. It was the fourth fall in five months and the second-weakest month this year after May's 0.6% drop. Mortgage rates near 6% are weighing on demand. Healthy household savings and Prime Minister Burnham's summer cost-of-living measures had supported confidence, but households face higher energy bills from today and another large increase is likely in January."
+    },
+    {
+      "id": "5122171",
+      "time": "2026-10-01 14:26:35",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "起亞：9月汽車銷量增長5.1％。"
+    },
     {
       "id": "5122170",
       "time": "2026-10-01 14:24:23",
@@ -108088,152 +108205,6 @@
         "MKT News"
       ],
       "text": "US media reported Venezuelan acting president Delcy Rodriguez, speaking at UN headquarters on Sept 23, 2026, pledged to hold timely elections and said the people would decide 'the appropriate time'."
-    },
-    {
-      "id": "5111164",
-      "time": "2026-09-24 14:30:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲5%，現報5239.00元。"
-    },
-    {
-      "id": "5111163",
-      "time": "2026-09-24 14:30:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家郵政局：“兩節”期間寄遞服務需求旺盛，各企業要科學研判假期業務量峰值和流向流量】近日，國家郵政局印發通知，部署2026年中秋和國慶假期郵政快遞業安全生產和服務保障工作。通知指出，“兩節”期間人流、物流、車流高度集中，寄遞服務需求旺盛，各類安全風險交織疊加。各級郵政管理部門和各企業要深刻汲取近期全國重大生產安全事故教訓，嚴格落實部門監管責任和企業主體責任，加強風險研判，做到早發現、早預警、早處置，牢牢守住安全底線紅線。通知要求，各企業要科學研判假期業務量峰值和流向流量，精準儲備人力、物力、運力，確保郵件快件收投有序、運遞暢通；切實保障重點物資和民生物資寄遞服務，嚴格履行服務承諾，及時妥善處理延誤、丟失損毀、賠償等服務質量異議；郵政集團要確保郵政普遍服務持續提供。通知要求，各地各企業要完善矛盾糾紛排查化解機制，健全快遞員訴求直達機制，維護快遞員群體合法權益。"
-    },
-    {
-      "id": "te:markets:586384",
-      "time": "2026-09-24 14:30:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 1.13% Higher — The Nikkei 225 Index went up by 734 points or 1.13 percent on Thursday to close at 65752 points. The rise was led by Resonac Holdings (6.91%), Nikon Corporation (6.82%) and Tokai Carbon (6.39%)."
-    },
-    {
-      "id": "mkt:01a0d21b-54ec-7118-8679-8968c1fb8472",
-      "time": "2026-09-24 14:30:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's Kharkiv regional governor said Russian strikes killed six people in the Kharkiv region."
-    },
-    {
-      "id": "5111162",
-      "time": "2026-09-24 14:29:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "A股航運港口板塊回升，廈門港務漲超7%，海峽股份、國航遠洋、中遠海能、招商港口等個股跟漲。"
-    },
-    {
-      "id": "mkt:01a0d21b-4941-7118-8679-81d35efa0f35",
-      "time": "2026-09-24 14:29:58",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share shipping and ports sector rebounded; Xiamen Port jumped over 7%, with peers including COSCO Shipping Energy and China Merchants Port also rising."
-    },
-    {
-      "id": "5111161",
-      "time": "2026-09-24 14:29:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭州長稱，俄羅斯襲擊造成烏克蘭哈爾科夫州六人死亡。"
-    },
-    {
-      "id": "mkt:01a0d21a-d485-7118-8679-7ab340345331",
-      "time": "2026-09-24 14:29:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "SC crude oil main contract surged 6.00% intraday to 736.90 yuan/barrel."
-    },
-    {
-      "id": "5111160",
-      "time": "2026-09-24 14:29:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【維維回應黑芝麻糊黴菌超標27倍】近日，上海市市場監督管理局公佈食品安全抽檢資訊，維維股份全資子公司維維華山核桃產業有限公司生產的一批次“維維”無新增蔗糖黑芝麻糊，因黴菌指標嚴重超標被判定為不合格。該批次產品規格320克/袋，生產日期2025年8月13日。檢測資料顯示，該批次5份樣品黴菌檢出值全部超過標準限值，最高達2800CFU/g，超出國標限值27倍。9月24日，針對此事，維維官方旗艦店客服回應稱，該批產品公司已第一時間召回並處理完畢，目前市場上已無在售，在售產品均經過嚴格檢測。截至9月23日收盤，維維股份股價報3.09元/股，市值為50億元，今年以來累計跌超9%。（中新經緯）"
-    },
-    {
-      "id": "mkt:01a0d21a-5305-7118-8679-7249a5bf1d75",
-      "time": "2026-09-24 14:28:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Century Huatong boosts AI: in-house decision model closed-loop validated in multiple games】Century Huatong subsidiary Tianyou Software and Chabiyue (Shanghai) Information Technology announced an in-house decision model that has completed closed-loop validation across multiple games. The model cleared 2048 and set a new continuous-record in Temple Run, surpassing 70,000 meters; single-decision latency has been compressed to the millisecond level and parameter count is kept below 50M."
-    },
-    {
-      "id": "5111159",
-      "time": "2026-09-24 14:28:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲6%，現報736.90元。"
-    },
-    {
-      "id": "5111158",
-      "time": "2026-09-24 14:28:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗胡齊斯坦省阿巴丹市傳出巨大爆炸聲，原因是一家煉油廠發生技術故障。"
-    },
-    {
-      "id": "mkt:01a0d219-904d-7118-8679-6bd3b084efe7",
-      "time": "2026-09-24 14:28:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Saudi media Alhadath reported a loud explosion in Abadan, Khuzestan province, Iran, attributed to a technical fault at a refinery."
-    },
-    {
-      "id": "te:markets:586380",
-      "time": "2026-09-24 14:27:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "UK Natgas Prices Advance on Middle East Uncertainty — UK natural gas prices rose to 186 pence per therm Thursday, recovering from a three-week low amid uncertainty over a diplomatic resolution to the Middle East conflict that could reopen the Strait of Hormuz. Iranian President Masoud Pezeshkian said that Tehran would never surrender to the US but remained open to dialogue and diplomacy, while setting conditions for a return to negotiations. The key waterway remains largely closed, impeding LNG flows from the Persian Gulf. Europe’s gas storage position remains a key concern as the winter heating season approaches. Storage facilities are around 70% full, still below the five-year seasonal average and the region’s 80% target. Goldman Sachs expects European and Asian gas prices to rise sharply if Gulf LNG exports remain constrained."
-    },
-    {
-      "id": "5111156",
-      "time": "2026-09-24 14:27:30",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【DeepSeek完成75億美元融資年化營收突破10億美元】據兩名知情人士透露，DeepSeek當前年化營收執行率已達10億美元。短短數月前，該公司這一指標尚不足5億美元。營收增長一方面得益於近期上調API定價，另一方面也源於其大模型持續受到市場熱捧。DeepSeek CEO梁文鋒在近期投資者會議上披露了上述最新營收資料。公司正推進第二輪融資，並籌備在上交所上市，這一營收表現有望提振投資者信心。DeepSeek計劃在10月底前完成本輪融資，目標募資500億元人民幣（約合75億美元），估值目標5000億元人民幣。知情人士稱，DeepSeek營收增長部分來自上月的調價動作：模型呼叫價格上調至原來的2.3倍至4.5倍。梁文鋒在會上表示，調價並未造成客戶流失，使用者需求依舊強勁。知情人士轉述，梁文鋒向投資者透露，DeepSeek持續將大部分資源投入新模型研發。公司把70%以上算力分配給模型訓練，留給已有模型推理執行的算力不足30%。梁文鋒還向投資者表示，內部測試顯示，公司輕量化模型可在遊戲顯示卡上穩定執行，能夠處理使用者絕大多數日常任務。"
     }
   ]
 }

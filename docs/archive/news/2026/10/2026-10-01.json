@@ -1,7 +1,124 @@
 {
   "date": "2026-10-01",
-  "count": 1077,
+  "count": 1089,
   "items": [
+    {
+      "id": "mkt:01a0f628-287d-7338-ab44-1c1ac50726de",
+      "time": "2026-10-01 14:30:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland real retail sales YoY for August 3.2%; prior 2.30%."
+    },
+    {
+      "id": "mkt:01a0f628-0f14-7338-ab44-17d7806ed2d3",
+      "time": "2026-10-01 14:30:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Real Retail Sales (YoY) (Aug) | actual 3.2% | previous 2.30%"
+    },
+    {
+      "id": "5122173",
+      "time": "2026-10-01 14:30:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "瑞士9月CPI月率 0%，預期0.00%，前值0.40%。\n瑞士9月CPI年率 1%，預期1%，前值0.80%。"
+    },
+    {
+      "id": "mkt:01a0f627-e8cc-7338-ab44-089256540d53",
+      "time": "2026-10-01 14:30:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland September CPI YoY 1.0% (consensus 1.0%; August 0.8%)."
+    },
+    {
+      "id": "mkt:01a0f627-e79f-7338-ab44-0039fb47b216",
+      "time": "2026-10-01 14:30:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland September CPI m/m 0.0% (consensus 0.0%), prior 0.4%."
+    },
+    {
+      "id": "te:markets:588562",
+      "time": "2026-10-01 14:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 3.31% Higher — The Nikkei 225 Index went up by 2208 points or 3.31 percent on Thursday to close at 68962 points. The rise was led by Lasertec Corp (9.09%), Advantest (8.87%) and Taiyo Yuden (8.54%)."
+    },
+    {
+      "id": "mkt:01a0f627-d352-7338-ab43-fdd1772a19ef",
+      "time": "2026-10-01 14:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | CPI (MoM) (Sep) | actual 0% | consensus 0.00% | previous 0.40%"
+    },
+    {
+      "id": "mkt:01a0f627-d351-7338-ab43-f448f7497362",
+      "time": "2026-10-01 14:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | CPI (YoY) (Sep) | actual 1% | consensus 1% | previous 0.80%"
+    },
+    {
+      "id": "mkt:01a0f627-7ce2-7338-ab43-ecc427341dcb",
+      "time": "2026-10-01 14:29:37",
+      "tags": [
+        "MKT News",
+        "BX.N",
+        "Impact bearish"
+      ],
+      "text": "HSBC cut its PT on Blackstone (BX.N) to $122 from $135."
+    },
+    {
+      "id": "5122172",
+      "time": "2026-10-01 14:28:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【俄羅斯符拉迪沃斯託克發生交通事故 6人受傷】據俄羅斯方面當地時間10月1日訊息，俄符拉迪沃斯託克發生交通事故，造成6人受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0f624-e34e-7338-ab43-e6bcfaedb4ca",
+      "time": "2026-10-01 14:26:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【UK house prices record largest drop since May】Nationwide Building Society data showed UK house prices fell 0.2% month-on-month to £274,251, the largest monthly decline since May and below economists' expectation of no change. It was the fourth fall in five months and the second-weakest month this year after May's 0.6% drop. Mortgage rates near 6% are weighing on demand. Healthy household savings and Prime Minister Burnham's summer cost-of-living measures had supported confidence, but households face higher energy bills from today and another large increase is likely in January."
+    },
+    {
+      "id": "5122171",
+      "time": "2026-10-01 14:26:35",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "起亞：9月汽車銷量增長5.1％。"
+    },
     {
       "id": "5122170",
       "time": "2026-10-01 14:24:23",
