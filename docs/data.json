@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-01 08:26:19",
-  "count": 11993,
+  "updated": "2026-10-01 08:30:07",
+  "count": 11991,
   "items": [
+    {
+      "id": "5121877",
+      "time": "2026-10-01 08:29:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【審計師未發表意見後，日本電產股價大跌20%】週四，日本電產(Nidec)股價在東京暴跌約20%，此前該公司公佈了延遲釋出的全年業績報告，並宣佈其審計師對該報告不予發表意見。"
+    },
+    {
+      "id": "5121876",
+      "time": "2026-10-01 08:27:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【AI熱潮推動韓國9月出口突破1200億美元 半導體出口再創紀錄高位】在支撐人工智慧半導體需求似乎無止境的推動下，韓國月度出口額首次突破1,200億美元。週四的初步資料顯示，9月份，韓國這個亞洲第四大經濟體的出口額同比增長83.5%，至1,209.4億美元。儘管當月因假日影響工作日較少，出口增速仍高於8月份68.7%的增幅，也超過65.4%增幅預期。進口額增長26.0%，至710.9億美元，第三季度末貿易順差達到創紀錄的498.5億美元。這一貿易順差超過6月份創下的359.1億美元前紀錄。被視為AI需求風向標的韓國貿易資料顯示，在AI基礎設施投資持續大量湧入之際，對晶片的強勁需求幾乎沒有減退跡象。韓國9月份半導體出口額較上年同期增長逾兩倍，至603億美元，再創紀錄高位。"
+    },
+    {
+      "id": "mkt:01a0f4db-9ad0-7338-ab3f-15d83e19d2f5",
+      "time": "2026-10-01 08:27:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump will speak at 07:00 Beijing time on Oct. 2."
+    },
     {
       "id": "5121875",
       "time": "2026-10-01 08:25:21",
@@ -109920,55 +109945,6 @@
         "其他"
       ],
       "text": "【賓利推出首款純電車型，起售價17.3萬英鎊】當地時間9月23日晚，賓利首款純電動車型託卡爾（Torcal）於倫敦全球首發，成為該品牌第四個車型系列，也是車型系列中最短的四門車型，起售價為17.3萬英鎊。該車型‌WLTP續航里程最高600公里，最大功率888馬力，峰值扭矩1350牛·米；0-100公里/小時加速最快僅需2.9秒。"
-    },
-    {
-      "id": "5110721",
-      "time": "2026-09-24 08:29:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河證券：車市進入“金九銀十”與年末消費旺季 銷量有望逐月環比向上】銀河證券研報表示，8月車市受益於淡季過後生產與消費端回暖，國內乘用車銷量環比向上，出口高位企穩，延續同比高增態勢，新能源持續貢獻出口增長核心動能，商用車國內市場表現相對平穩，新能源滲透率上升至接近50%，貨車出口高增帶動商用車出口延續高景氣。展望後市來看，市場進入“金九銀十”與年末消費旺季，新能源有望繼續作為驅動國內車市回暖與出口高增的核心動能，車市銷量有望逐月環比向上，推動9月及Q4行業經營回暖。"
-    },
-    {
-      "id": "mkt:01a0d0d0-7464-7118-8673-35e12ee85bb3",
-      "time": "2026-09-24 08:28:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Japan to trim liquidity-enhancing JGB auction sizes for 5–11yr, sources say】Two sources said the Japanese Ministry of Finance plans to discuss next week with primary dealers a reduction in the size of liquidity-enhancing auctions for 5–11 year JGBs. The sources said improved supply-demand in the JGB market, as the Bank of Japan scales back bond purchases, has reduced the need for additional supply and prompted the ministry to consider adjusting issuance. If implemented, it would be the first cut to these maturities since the mechanism change in April 2026. The ministry expects to finalise next-quarter issuance plans after month-end market consultations."
-    },
-    {
-      "id": "mkt:01a0d0cf-ece0-7118-8673-29a14c634255",
-      "time": "2026-09-24 08:28:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "10-year JGB yield rose 8 bps to 3.055%, the highest since September 1996."
-    },
-    {
-      "id": "5110720",
-      "time": "2026-09-24 08:27:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加0.86噸】截至2026年09月23日，全球最大的黃金ETF SPDR Gold Trust持倉量為1056.84噸，較前一個交易日增加0.86噸。"
-    },
-    {
-      "id": "5110719",
-      "time": "2026-09-24 08:27:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta推出了一款掌上專用裝置 方便使用者隨時隨地使用Muse】Meta Platforms Inc. 釋出了 Muse Charm，這是一款手掌大小的裝置，用於使用該公司的人工智慧助手 Muse，配備 2 英寸顯示屏和新的作業系統。該產品由Meta執行長在臺上釋出。 該裝置具有 OLED 觸控式螢幕、5G 調變解調器和攝像頭等功能，並可用拇指進行導航，使使用者能夠自定義虛擬Muse角色並與之互動。Muse Charm 將於 12 月上市，價格預計與智慧手錶相當，使用者可在沒有 Wi-Fi 的情況下訪問 Muse 系列產品，並在附近時與其他 Muse Charm 裝置進行互動。知情人士透露，該公司最初計劃在 2027 年將這款裝置推向市場，但扎克伯格敦促團隊提前至 2026 年釋出，並在年底前上市銷售。"
     }
   ]
 }
