@@ -1,7 +1,90 @@
 {
-  "updated": "2026-10-01 14:53:23",
-  "count": 11805,
+  "updated": "2026-10-01 14:57:12",
+  "count": 11812,
   "items": [
+    {
+      "id": "5122202",
+      "time": "2026-10-01 14:55:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【哈薩克央行計劃第四季度出售9070億堅戈外匯】哈薩克央行官網宣告稱，根據與購金配套的映象操作，該行計劃在第四季度開展規模約9070億堅戈（合20.5億美元）的外匯拋售。由於市場外匯供給過剩，央行推遲了原定9月的映象操作。宣告刪除了此前針對映象售匯給出的單月指引。後續操作實施將取決於市場情況，央行力求使匯率貼合基本面因素，避免堅戈出現劇烈投機性波動。"
+    },
+    {
+      "id": "5122201",
+      "time": "2026-10-01 14:55:09",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "衣索比亞首都發生兩起爆炸；無人機飛行暫停。"
+    },
+    {
+      "id": "5122200",
+      "time": "2026-10-01 14:54:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾基亞：首批通訊衛星預計將於2028年發射。"
+    },
+    {
+      "id": "te:markets:588580",
+      "time": "2026-10-01 14:54:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Tumbles 2% at Close — The ASX 200 plunged 175 points, or 2.0%, on Thursday, its steepest one-day fall since early March, finishing at 8,614, the lowest since mid-June. Australian markets snapped a three-session winning streak as sentiment soured on surging U.S. Treasury yields, sticky inflation, and renewed fears of further tightening by the Reserve Bank. Analysts also cautioned that continued hikes could trigger the country’s worst property slump in three decades. Trade data also weighed, with August’s surplus shrinking to a three-month low as imports outpaced exports. Still, stronger U.S. stock futures capped further weakness, as traders await Friday's U.S. monthly job reports. Heavy selling gripped local markets, led by energy minerals, logistics, transport, and financials. The big four banks fell between 0.9% and 3.3%, while Northern Star Resources (-4.1%), CSL (-3.3%), and Woodside (-3.1%) also posted sharp declines. Suncorp Group tumbled 7.4% after denying takeover talks with Japan’s Tokio Marine."
+    },
+    {
+      "id": "5122199",
+      "time": "2026-10-01 14:54:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊地面部隊的庫德斯基地表示，在接到公眾舉報後，在扎黑丹瓦解了一個恐怖團隊，在持續的清剿行動中擊斃了多名成員。"
+    },
+    {
+      "id": "te:economy:588579",
+      "time": "2026-10-01 14:54:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Zimbabwe",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Zimbabwe Cuts Policy Rate to 27.5% — The Reserve Bank of Zimbabwe cut its benchmark policy rate by 250 basis points to 27.5% on September 28, 2026, bringing total rate reductions since June to 750 basis points. The central bank cited continued macroeconomic stability, with annual ZiG inflation rising modestly to 3.7% in September from a record-low 2.9% in August, while monthly inflation averaged 0.4% from January to September. The MPC maintained its 5% growth forecast for 2026, supported by strong mining and agriculture activity, while foreign currency inflows rose 37.8% to $14.3 billion through August. The rate cut is intended to support growth and align monetary policy with subdued inflation dynamics, while the MPC stressed it does not signal monetary easing."
+    },
+    {
+      "id": "5122198",
+      "time": "2026-10-01 14:53:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 沙烏地阿拉伯拒絕了以色列要求派遣軍用飛機（C-130J運輸機）在塔布克緊急迫降後接送乘客的請求。"
+    },
+    {
+      "id": "5122197",
+      "time": "2026-10-01 14:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本電產將於10月尋求解決審計師暫緩發表意見的問題。"
+    },
+    {
+      "id": "5122196",
+      "time": "2026-10-01 14:52:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "BPCL高管表示，高煉油廠的兩套二次加工裝置將於下週恢復運營。"
+    },
     {
       "id": "5122195",
       "time": "2026-10-01 14:51:29",
@@ -9,6 +92,14 @@
         "國際"
       ],
       "text": "市場訊息：以色列安全內閣定於當地時間本週日晚間召開會議。"
+    },
+    {
+      "id": "5122194",
+      "time": "2026-10-01 14:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國新韓銀行約2.5萬名客戶資訊洩露】據韓國金融業界和金融部門1日訊息，新韓銀行前一天發現遭到駭客攻擊，造成約2.5萬名客戶資訊被洩露。行長丁相赫當天在官網發表道歉信，介紹客戶資訊洩露的情況。據介紹，相關資訊涵蓋客戶名、電話號碼、關聯資訊（CI）、年收入、貸款額度等，涉及約2.5萬名客戶。他表示，銀行方面已採取必要的應急處置措施，並就此起事件給客戶造成困擾深表歉意。金融監督院當天向新韓銀行派出工作組開展調查，並開會討論對策。"
     },
     {
       "id": "mkt:01a0f63b-0edf-7338-ab44-66f888ffa90a",
@@ -108237,42 +108328,6 @@
         "Importance 1"
       ],
       "text": "Telecom Italia Stock Price Hits 7-week Low — Telecom Italia shares decreased to 7.36 EUR, the lowest since August 2026. Over the past 4 weeks, Telecom Italia lost 4.53%, and in the last 12 months, it increased 1584.82%."
-    },
-    {
-      "id": "te:economy:586399",
-      "time": "2026-09-24 14:56:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Business Climate Indicator",
-        "Importance 1"
-      ],
-      "text": "France Business Climate Deteriorates in September — France’s overall business climate fell to 96 in September 2026 from 98 in the previous month and moving further below its long-term average of 100. The decline was driven mainly by retail trade, where the indicator dropped five points to 94, as order intentions, the overall business outlook and past sales assessments weakened. The services climate also edged down to 98 from 99, with demand, activity and expected staffing balances declining, while wholesale trade fell two points to 93 as past export sales and order intentions weakened. Meanwhile, the business climate in industry remained stable at 101, slightly above its long-term average, with stronger past and expected production offsetting weaker overall order books. Construction was also unchanged at 96, as improved views of past activity offset weaker business outlooks. The employment climate fell one point to 98."
-    },
-    {
-      "id": "te:economy:586398",
-      "time": "2026-09-24 14:56:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "French Consumer Confidence Stays Subdued — The consumer confidence indicator in France remained unchanged at 86 in September 2026, above market expectations of 85 but below its long-term average of 100. Consumers became slightly more pessimistic about their expected financial situation (-14 vs -13 in August), while sentiment toward their past financial situation improved slightly (-26 vs -27). Pessimism over major purchase intentions eased (-37 vs -39), while the opportunity to save declined to 44 from 46 and both current (17 vs 20) and expected (15 vs 17) saving capacity weakened. Meanwhile, households’ unemployment expectations remained elevated at 55, while sentiment toward France’s past standard of living deteriorated slightly (-81 vs -80) and the outlook improved to -60 from -62. The savings climate index fell to 121 from 125. Perceptions of past price increases rose to 33 from 26, while inflation expectations improved to -9 from -13."
-    },
-    {
-      "id": "te:markets:586397",
-      "time": "2026-09-24 14:55:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Bharti Airtel Stock Price Hits 14-week Low — Bharti Airtel shares decreased to 1812.00 INR, the lowest since June 2026. Over the past 4 weeks, Bharti Airtel lost 6.87%, and in the last 12 months, it decreased 6.32%."
     }
   ]
 }
