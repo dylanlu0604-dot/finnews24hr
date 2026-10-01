@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-01 13:52:39",
+  "updated": "2026-10-01 13:56:27",
   "count": 11841,
   "items": [
+    {
+      "id": "5122146",
+      "time": "2026-10-01 13:55:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞與新加坡尋求第三方投資柔新經濟特區。"
+    },
+    {
+      "id": "5122145",
+      "time": "2026-10-01 13:52:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡航空：新加坡與迪拜間航班取消至12月1日。"
+    },
     {
       "id": "mkt:01a0f603-4173-7338-ab43-7c844831b82d",
       "time": "2026-10-01 13:50:03",
@@ -108534,24 +108550,6 @@
         "國際"
       ],
       "text": "泰國投資促進委員會：泰國目標到2050年吸引800億美元半導體投資。"
-    },
-    {
-      "id": "mkt:01a0d1fb-3393-7118-8678-b66bb396c0a1",
-      "time": "2026-09-24 13:54:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-shares shipbuilding names tied to China State Shipbuilding Corporation (CSSC) extended gains; Kun Chuan Intelligent neared the daily limit, while CSSC Hanguang, CSSC Technology and China Haifang also advanced."
-    },
-    {
-      "id": "5111096",
-      "time": "2026-09-24 13:54:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中船系板塊持續拉昇，昆船智慧逼近漲停】中船系板塊持續拉昇，昆船智慧逼近漲停，中船漢光、中船科技、中國海防跟漲。"
     }
   ]
 }
