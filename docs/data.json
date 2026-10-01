@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-02 02:16:28",
-  "count": 11613,
+  "updated": "2026-10-02 02:20:16",
+  "count": 11615,
   "items": [
+    {
+      "id": "5123116",
+      "time": "2026-10-02 02:18:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：AUTHENTIC討論以每股逾20美元價格收購美泰公司。"
+    },
+    {
+      "id": "mkt:01a0f8b0-b55b-7338-ab55-34b4be6dbfc3",
+      "time": "2026-10-02 02:18:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "9984.T"
+      ],
+      "text": "According to The Information, NVIDIA (NVDA.O) and SoftBank have each completed the final $10 bln tranche of their $30 bln commitments to OpenAI's most recent funding round."
+    },
+    {
+      "id": "5123115",
+      "time": "2026-10-02 02:18:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英偉達與軟銀各自完成 100 億美元投資，兌現兩家在 OpenAI 上一輪融資中分別承諾的 300 億美元出資額度。"
+    },
+    {
+      "id": "5123114",
+      "time": "2026-10-02 02:17:32",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：英偉達、軟銀完成對 OpenAI 上一輪融資的 200 億美元最終出資。"
+    },
+    {
+      "id": "5123113",
+      "time": "2026-10-02 02:16:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：美聯儲對私人信貸的發展動向並無充分洞察。"
+    },
     {
       "id": "te:markets:588897",
       "time": "2026-10-02 02:15:08",
@@ -106743,33 +106795,6 @@
         "其他"
       ],
       "text": "法耶：塞內加爾獲得承諾，加速推進G20債務談判。"
-    },
-    {
-      "id": "5112571",
-      "time": "2026-09-25 02:20:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：我們提議雙重暫停，即停止攻擊能源系統與民用基礎設施。"
-    },
-    {
-      "id": "te:markets:586648",
-      "time": "2026-09-25 02:20:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 1.52% — Top commodity losers are Lithium Carbonate (-1.52%), Silver (-1.20%) and Gold (-0.43%)."
-    },
-    {
-      "id": "5112570",
-      "time": "2026-09-25 02:18:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：針對使用傳呼機襲擊伊朗支援的真主黨一事，內塔尼亞胡在發言中舉著一部傳呼機。"
     }
   ]
 }

@@ -1,7 +1,59 @@
 {
   "date": "2026-10-02",
-  "count": 227,
+  "count": 232,
   "items": [
+    {
+      "id": "5123116",
+      "time": "2026-10-02 02:18:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：AUTHENTIC討論以每股逾20美元價格收購美泰公司。"
+    },
+    {
+      "id": "mkt:01a0f8b0-b55b-7338-ab55-34b4be6dbfc3",
+      "time": "2026-10-02 02:18:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "9984.T"
+      ],
+      "text": "According to The Information, NVIDIA (NVDA.O) and SoftBank have each completed the final $10 bln tranche of their $30 bln commitments to OpenAI's most recent funding round."
+    },
+    {
+      "id": "5123115",
+      "time": "2026-10-02 02:18:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英偉達與軟銀各自完成 100 億美元投資，兌現兩家在 OpenAI 上一輪融資中分別承諾的 300 億美元出資額度。"
+    },
+    {
+      "id": "5123114",
+      "time": "2026-10-02 02:17:32",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：英偉達、軟銀完成對 OpenAI 上一輪融資的 200 億美元最終出資。"
+    },
+    {
+      "id": "5123113",
+      "time": "2026-10-02 02:16:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：美聯儲對私人信貸的發展動向並無充分洞察。"
+    },
     {
       "id": "te:markets:588897",
       "time": "2026-10-02 02:15:08",
