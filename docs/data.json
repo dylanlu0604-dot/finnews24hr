@@ -1,7 +1,83 @@
 {
-  "updated": "2026-10-01 09:11:49",
+  "updated": "2026-10-01 09:15:33",
   "count": 11980,
   "items": [
+    {
+      "id": "mkt:01a0f507-a2f2-7338-ab3f-e47422dcfb23",
+      "time": "2026-10-01 09:15:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Japan's Nikkei 225 gained 2% intraday."
+    },
+    {
+      "id": "5121911",
+      "time": "2026-10-01 09:14:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲2%，至68098.29點。"
+    },
+    {
+      "id": "mkt:01a0f506-bc14-7338-ab3f-db15dee06612",
+      "time": "2026-10-01 09:14:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Netanyahu said Israel will participate in the investigation."
+    },
+    {
+      "id": "5121910",
+      "time": "2026-10-01 09:14:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡就迪拜-特拉維夫航班事件表態：以色列將參與調查。"
+    },
+    {
+      "id": "mkt:01a0f506-a317-7338-ab3f-d2b518b4b4d2",
+      "time": "2026-10-01 09:14:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Prime Minister Netanyahu, asked about the motive behind the Dubai-to-Tel Aviv flight incident, said it is too early to draw conclusions."
+    },
+    {
+      "id": "5121909",
+      "time": "2026-10-01 09:13:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度下調10月上半月柴油及航空渦輪燃料出口稅費】根據印度政府釋出的通告，印度下調了10月上半月柴油和航空渦輪燃料（ATF）的出口稅費，同時保持汽油出口稅費不變。具體調整如下：柴油出口稅費（包括特別附加消費稅及道路和基礎設施稅）將從每升20盧比下調至16盧比。航空渦輪燃料（ATF）出口稅費將從每升15盧比下調至10.5盧比。汽油出口稅費維持在每升0.5盧比不變。新稅率將於10月1日起正式生效。"
+    },
+    {
+      "id": "5121908",
+      "time": "2026-10-01 09:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡就迪拜至特拉維夫航班事件發表言論：在被問及事件動機時稱現在下結論還為時尚早。"
+    },
+    {
+      "id": "mkt:01a0f505-fbb4-7338-ab3f-c9759871ef26",
+      "time": "2026-10-01 09:13:24",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose to 68,000, up 1.92% on the day."
+    },
+    {
+      "id": "5121907",
+      "time": "2026-10-01 09:12:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度下調10月上半月柴油和航空燃油出口稅。"
+    },
     {
       "id": "mkt:01a0f503-f4f5-7338-ab3f-c6ddbbb2ba70",
       "time": "2026-10-01 09:11:12",
@@ -109766,90 +109842,6 @@
         "市場"
       ],
       "text": "【人民幣兌美元中間價報6.7489，較上日調低21點】人民幣兌美元中間價報6.7489，較上日調低21點。"
-    },
-    {
-      "id": "5110770",
-      "time": "2026-09-24 09:15:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7489元。"
-    },
-    {
-      "id": "5110769",
-      "time": "2026-09-24 09:15:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國向中國返還12件流失文物藝術品】當地時間9月23日，英國向中國返還12件流失文物藝術品的交接儀式在中國駐英國使館舉行。文化和旅遊部副部長、國家文物局局長饒權影片致辭，中國駐英國大使鄭澤光，英國倫敦大都會警察廳，英國外交發展部，英國數字、文化、媒體和體育部，歐洲安全與合作組織代表出席儀式。"
-    },
-    {
-      "id": "5110768",
-      "time": "2026-09-24 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.56%，報24680.60點，低水153.52點。"
-    },
-    {
-      "id": "mkt:01a0d0f9-dd0d-7118-8673-fe2dd345f66b",
-      "time": "2026-09-24 09:13:50",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【Bond Connect Southbound marks five years with strong growth】On Sept. 24 Bond Connect Southbound marked its fifth anniversary. Custodial holdings of Southbound infrastructure bonds rose to about 1 trillion yuan by end-August 2026, versus below 10 billion yuan at end-September 2021, roughly a 100-fold increase over five years. After an expansion of participating institutions in July 2025, domestic institutional participation surged; custodial holdings nearly doubled between end-July 2025 and end-August 2026."
-    },
-    {
-      "id": "te:markets:586283",
-      "time": "2026-09-24 09:13:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Shares Fall Sharply Ahead of Labor Data — Australian stocks plunged 116 points or 1.3% to 8,649 in early deals on Thursday, reversing modest gains in the previous three sessions as Wall Street’s overnight losses spilled into local markets. Surging U.S. bond yields, inflation fears, and renewed Middle East tensions that lifted oil prices above USD US103 pressured sentiment. Caution also mounted ahead of August labor data later today after July’s surprise uptick in unemployment and a decline in employment. Meanwhile, RBA Assistant Governor Sarah Hunter warned cash rates may need to rise again if inflation persists, reinforcing expectations from the four major banks that the central bank will hike next week. All sectors retreated, led by manufacturing, non-energy minerals, and financials. The big four banks fell 1.7%–1.9%, while steep losses hit PLS Group (-4.9%), Lynas Rare Earths (-4.6%), and Nextdc (-3.5%). Traders now anticipate a bilateral summit between U.S. President Donald Trump and China's leader Xi Jinping later today."
-    },
-    {
-      "id": "5110767",
-      "time": "2026-09-24 09:13:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "阿根廷國家石油公司（YPF）：阿根廷液化天然氣專案已收到美國進出口銀行提供的最高60億美元長期融資方案。"
-    },
-    {
-      "id": "mkt:01a0d0f9-063c-7118-8673-f0962b9282de",
-      "time": "2026-09-24 09:12:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GLW.O",
-        "Impact bullish"
-      ],
-      "text": "【Corning to expand Polarcor™ capacity, signs multi-year supply agreement】Sept 24 — Corning will expand Polarcor™ glass polarizer capacity to meet rising demand from AI data centers and computing applications and has signed a multi-year supply agreement with an active photonics technology company. The expansion increases engineered glass polarizer output used in optical isolators and other laser optics, key components in advanced photonic systems. The supply pact secures long-term delivery for a major customer and the added capacity is intended to address rapid market growth."
-    },
-    {
-      "id": "5110766",
-      "time": "2026-09-24 09:12:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4300美元/盎司，日內漲0.33%。"
-    },
-    {
-      "id": "5110765",
-      "time": "2026-09-24 09:12:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【康寧宣佈擴建 Polarcor™ 產能，支援多年期供貨協議】9月24日訊息，康寧公司宣佈將擴大 Polarcor™ 玻璃偏振片產能，以滿足人工智慧 (AI) 資料中心和計算應用不斷增長的需求。與此同時，康寧還與一家有源光子技術企業達成一項新的多年期供貨協議。據康寧公司介紹，此次產能擴建將提升康寧工程化玻璃偏振片的生產能力，該產品廣泛應用於光隔離器及其他鐳射光學器件，這些器件是先進光學和光子系統的重要組成部分。該協議將為重要客戶提供長期穩定的供應保障，而新增產能也將幫助康寧滿足快速增長的市場需求。"
     }
   ]
 }

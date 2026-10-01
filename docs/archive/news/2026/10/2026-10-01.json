@@ -1,7 +1,83 @@
 {
   "date": "2026-10-01",
-  "count": 702,
+  "count": 711,
   "items": [
+    {
+      "id": "mkt:01a0f507-a2f2-7338-ab3f-e47422dcfb23",
+      "time": "2026-10-01 09:15:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Japan's Nikkei 225 gained 2% intraday."
+    },
+    {
+      "id": "5121911",
+      "time": "2026-10-01 09:14:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲2%，至68098.29點。"
+    },
+    {
+      "id": "mkt:01a0f506-bc14-7338-ab3f-db15dee06612",
+      "time": "2026-10-01 09:14:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Netanyahu said Israel will participate in the investigation."
+    },
+    {
+      "id": "mkt:01a0f506-a317-7338-ab3f-d2b518b4b4d2",
+      "time": "2026-10-01 09:14:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Prime Minister Netanyahu, asked about the motive behind the Dubai-to-Tel Aviv flight incident, said it is too early to draw conclusions."
+    },
+    {
+      "id": "5121910",
+      "time": "2026-10-01 09:14:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡就迪拜-特拉維夫航班事件表態：以色列將參與調查。"
+    },
+    {
+      "id": "5121909",
+      "time": "2026-10-01 09:13:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度下調10月上半月柴油及航空渦輪燃料出口稅費】根據印度政府釋出的通告，印度下調了10月上半月柴油和航空渦輪燃料（ATF）的出口稅費，同時保持汽油出口稅費不變。具體調整如下：柴油出口稅費（包括特別附加消費稅及道路和基礎設施稅）將從每升20盧比下調至16盧比。航空渦輪燃料（ATF）出口稅費將從每升15盧比下調至10.5盧比。汽油出口稅費維持在每升0.5盧比不變。新稅率將於10月1日起正式生效。"
+    },
+    {
+      "id": "5121908",
+      "time": "2026-10-01 09:13:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡就迪拜至特拉維夫航班事件發表言論：在被問及事件動機時稱現在下結論還為時尚早。"
+    },
+    {
+      "id": "mkt:01a0f505-fbb4-7338-ab3f-c9759871ef26",
+      "time": "2026-10-01 09:13:24",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose to 68,000, up 1.92% on the day."
+    },
+    {
+      "id": "5121907",
+      "time": "2026-10-01 09:12:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度下調10月上半月柴油和航空燃油出口稅。"
+    },
     {
       "id": "mkt:01a0f503-f4f5-7338-ab3f-c6ddbbb2ba70",
       "time": "2026-10-01 09:11:12",
