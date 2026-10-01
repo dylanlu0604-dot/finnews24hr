@@ -1,7 +1,47 @@
 {
   "date": "2026-10-01",
-  "count": 669,
+  "count": 673,
   "items": [
+    {
+      "id": "mkt:01a0f4f1-2c5c-7338-ab3f-78f349a420dd",
+      "time": "2026-10-01 08:50:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department says four U.S. passengers were on a Dubai-to-Tel Aviv flight that was forced to divert to Saudi Arabia after an attack occurred in the cockpit."
+    },
+    {
+      "id": "mkt:01a0f4f1-02f4-7338-ab3f-75d25f23f480",
+      "time": "2026-10-01 08:50:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "S&P500",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Korea Customs Service said Jan-Sep chip exports jumped 263% YoY to a record $60.3 bln; computer shipments surged 435% YoY; petroleum product exports rose 72% YoY; vehicle exports fell 5% YoY."
+    },
+    {
+      "id": "5121888",
+      "time": "2026-10-01 08:50:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院證實，在迪拜飛往特拉維夫的航班因駕駛艙內發生襲擊被迫改道至沙烏地阿拉伯時，機上有四名美國乘客。美國官員表示，他們正在與當地當局合作，並準備在調查事件的過程中向機上的美國乘客提供領事協助。該航班最終在沙烏地阿拉伯緊急降落，隨後乘客繼續前往以色列。"
+    },
+    {
+      "id": "5121887",
+      "time": "2026-10-01 08:49:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "LS電氣（LS ELECTRIC）贏得1812億韓元的美國資料中心電力裝置訂單。"
+    },
     {
       "id": "te:markets:588423",
       "time": "2026-10-01 08:48:06",
