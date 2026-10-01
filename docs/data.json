@@ -1,7 +1,53 @@
 {
-  "updated": "2026-10-02 02:01:19",
-  "count": 11614,
+  "updated": "2026-10-02 02:05:10",
+  "count": 11612,
   "items": [
+    {
+      "id": "mkt:01a0f8a3-6963-7338-ab54-d791da3b75a5",
+      "time": "2026-10-02 02:04:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Vice Chair JEFFERSON said the Fed's dual mandate embodies deep wisdom."
+    },
+    {
+      "id": "mkt:01a0f8a3-691b-7338-ab54-cb996182ab45",
+      "time": "2026-10-02 02:04:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【U.S. Treasury 10-20yr repo hits $6 bln cap】The U.S. Treasury conducted a $6 bln liquidity repo on Oct 1 for 10- to 20-year U.S. Treasuries, reaching the operation’s $6 bln cap. The 10-20yr buyback received $46.39 bln in bids."
+    },
+    {
+      "id": "mkt:01a0f8a3-5429-7338-ab54-c3fc73009f0d",
+      "time": "2026-10-02 02:04:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Trump said he had repeatedly asserted eliminating Iran's nuclear threat would take 4–6 weeks and claimed he accomplished it overnight, with the remaining time used to ensure the outcome persisted."
+    },
+    {
+      "id": "5123103",
+      "time": "2026-10-02 02:03:20",
+      "tags": [
+        "宏觀",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國財政部10至20年期美債回購達60億美元上限】美國財政部：在10月1日進行了價值60億美元的10至20年期美國國債流動性回購操作。10至20年期買回操作共收到463.9億美元投標。"
+    },
     {
       "id": "5123102",
       "time": "2026-10-02 01:59:50",
@@ -106694,56 +106740,6 @@
         "國際"
       ],
       "text": "30年期美國國債收益率上漲7個基點，至日內高點5.47%。"
-    },
-    {
-      "id": "5112551",
-      "time": "2026-09-25 02:04:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "數十名外交官在內塔尼亞胡發表聯合國演講開場時退場。"
-    },
-    {
-      "id": "5112550",
-      "time": "2026-09-25 02:04:04",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部於國債回購操作中獲得104.68億美元投標，接受了40.8億美元。"
-    },
-    {
-      "id": "5112549",
-      "time": "2026-09-25 02:03:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相面臨要求其就美國柴油出口禁令遊說特朗普的壓力。"
-    },
-    {
-      "id": "5112548",
-      "time": "2026-09-25 02:03:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "回購規模未達目標，美債收益率延續升勢。"
-    },
-    {
-      "id": "5112547",
-      "time": "2026-09-25 02:03:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦貿易委員會（FTC）成立“美國競爭執法局”。"
-    },
-    {
-      "id": "5112546",
-      "time": "2026-09-25 02:01:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛透過對沖基金情勢感知服務賺取了超2億美元佣金。"
     }
   ]
 }
