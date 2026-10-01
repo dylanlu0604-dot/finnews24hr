@@ -1,7 +1,60 @@
 {
-  "updated": "2026-10-01 14:11:47",
-  "count": 11824,
+  "updated": "2026-10-01 14:15:39",
+  "count": 11813,
   "items": [
+    {
+      "id": "5122162",
+      "time": "2026-10-01 14:14:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特交易所將允許市價單在多個價格檔位成交】沙特交易所自10月4日起，允許市價單跨多個價格檔位成交，而非僅在單一價格檔位成交。 現行機制下，市價單會優先撮合最優價格上的可用掛單，剩餘未成交部分將轉為以該成交價格掛出的限價單。 本次調整適用於主機板及Nomu平行市場證券，衍生品市場規則保持不變。"
+    },
+    {
+      "id": "te:economy:588547",
+      "time": "2026-10-01 14:13:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Russia Manufacturing Nears Stabilization — Russia’s S&P Global Manufacturing PMI rose to 49.8 in September from 48.8 in August, indicating a softer contraction in the sector for a second consecutive month. Output declined for the second month, albeit at a slower pace, while new orders fell at a slower rate amid weak demand and higher prices. Meanwhile, new export orders fell at the fastest pace since May 2022. Employment declined for a 10th consecutive month, with the pace of job shedding accelerating to the fastest since May. On prices, input cost inflation eased to a three-month low, while selling price inflation also slowed to its weakest pace since June. Supplier delivery times lengthened to the greatest extent since October 2024 due to transportation delay and logistic issues. Purchasing activity declined sharpest since April as firms reduced input buying and drew down stocks amid lower new order inflows. Lastly, sentiment improved as firms expected stronger demand conditions and sought to attract new customers."
+    },
+    {
+      "id": "5122161",
+      "time": "2026-10-01 14:13:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌2%，報8614.40點。"
+    },
+    {
+      "id": "5122160",
+      "time": "2026-10-01 14:12:30",
+      "tags": [
+        "行業"
+      ],
+      "text": "【同程旅行：國慶假期首日全國知名山嶽預訂熱度環比增長超200%】國慶假期首日，國內旅遊市場迎來開門紅。同程旅行平臺資料顯示，拼假錯峰出行助推分段旅遊需求釋放，假期首日已有部分遊客開啟第二段行程；各地文旅消費券搜尋熱度環比大漲超4倍，拉動假日文旅消費。山嶽類景區熱度領跑，全國知名山嶽景區預訂熱度環比增長超200%。"
+    },
+    {
+      "id": "5122159",
+      "time": "2026-10-01 14:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "據目擊人士訊息，印尼外長也將出席總統就職典禮。"
+    },
+    {
+      "id": "5122158",
+      "time": "2026-10-01 14:11:26",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗分析師：十月適宜佈局儲存晶片股】花旗集團分析師李彼得認為，投資者應當開始買入頭部儲存晶片廠商股票，人工智慧相關需求或將在明年引發嚴重的半導體供應短缺。 李彼得表示，市場對需求走弱的擔憂被誇大，市場低估了明年高頻寬記憶體（HBM）的需求量，博通、谷歌等企業正在下達大額訂單。 花旗預計，2027年HBM位元需求量同比大幅攀升至752億吉位元，李彼得當前給予SK海力士“買入”評級，目標價300萬韓元。"
+    },
     {
       "id": "5122157",
       "time": "2026-10-01 14:10:50",
@@ -108242,171 +108295,6 @@
         "其他"
       ],
       "text": "北京市廣播電視局印發《北京市促進“人工智慧+視聽”產業高質量發展重點專案支援管理辦法 （2026—2029年）》。"
-    },
-    {
-      "id": "mkt:01a0d20e-0df3-7118-8679-1cd849358eed",
-      "time": "2026-09-24 14:15:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent"
-      ],
-      "text": "【Tencent Hunyuan launches Tencent Hy Translation app】Tencent's Hunyuan unit has launched the Tencent Hy Translation app across mobile, mini-program, plug-in and PC platforms. Built on the Hy-MT2 translation model, the app supports translation across 33 languages, covers five Chinese minority languages and dialects, and offers voice, photo and offline translation modes."
-    },
-    {
-      "id": "5111135",
-      "time": "2026-09-24 14:15:05",
-      "tags": [
-        "資料",
-        "其他"
-      ],
-      "text": "【沙特7月石油出口額同比下降12.8%】沙烏地阿拉伯統計局資料顯示，該國7月石油出口額同比下降12.8%，6月為下降2.3%。石油出口額由6月的631.77億沙特里亞爾降至598.88億沙特里亞爾。石油出口佔總出口比重從修正後的6月71.7%降至71%。貿易順差從修正後的6月166.26億沙特里亞爾收窄至143.63億沙特里亞爾。"
-    },
-    {
-      "id": "te:economy:586376",
-      "time": "2026-09-24 14:14:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Loan Growth",
-        "Importance 1"
-      ],
-      "text": "Norway Loan Debt Rises 4.5% in August — Norway’s general public domestic loan debt rose by 4.5% year-on-year to NOK 8.05 trillion at the end of August 2026, following an eight-month low of 4.3% growth in the previous month. Lending growth to non-financial corporations increased to 4.8% from 4.0%, reaching NOK 2.42 trillion, while household loan growth remained steady at 4.6%, totaling NOK 4.79 trillion. In contrast, municipal government loan debt growth eased to 3.0% from 3.4% a month earlier, reaching NOK 8.38 billion. On a seasonally adjusted annualized one-month basis, total loan debt for the general public grew by 5.3%, following a 3.8% increase in the prior period."
-    },
-    {
-      "id": "5111134",
-      "time": "2026-09-24 14:14:04",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本5年期國債收益率升至2.38%的歷史新高。"
-    },
-    {
-      "id": "te:markets:586374",
-      "time": "2026-09-24 14:13:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Head for Lower Open — European equity markets were set for a lower open on Thursday, extending losses from the previous session as strong US economic data heightened inflation concerns and raised expectations for further interest rate hikes, sending Treasury yields sharply higher. Investors also faced renewed pressure from a rebound in oil prices, which added to inflation risks as uncertainty persisted over US-Iran negotiations. In Europe, investors will assess the latest German business sentiment survey, along with French business and consumer confidence data. In corporate news, French firm Schneider Electric agreed to acquire Bulgarian company Shelly Group, a maker of smart home devices, in a deal valuing the latter at around $1.4 billion. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were down 0.6% and 0.5%, respectively."
-    },
-    {
-      "id": "5111133",
-      "time": "2026-09-24 14:13:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【創新藥概念持續走弱 諾誠健華跌超10%】創新藥概念持續走弱，諾誠健華午後一度衝高翻紅後快速跳水回落，現跌超10%，此前哈藥股份跌停，誠達藥業、美迪西、百普賽斯、艾力斯、益諾思、科倫藥業等多股跌超6%。"
-    },
-    {
-      "id": "5111132",
-      "time": "2026-09-24 14:13:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.7%，至8702點。"
-    },
-    {
-      "id": "mkt:01a0d20c-03a7-7118-8679-108a9da5c937",
-      "time": "2026-09-24 14:13:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's 5-year government bond yield rose to a record high of 2.38%."
-    },
-    {
-      "id": "5111131",
-      "time": "2026-09-24 14:13:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯7月貿易順差為143.63億沙特里亞爾。"
-    },
-    {
-      "id": "5111130",
-      "time": "2026-09-24 14:12:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【畢節農村商業銀行成立】企查查APP顯示，近日，畢節農村商業銀行股份有限公司成立，法定代表人為張偉，註冊資本約為34億元。企查查股權穿透顯示，該公司由貴州大方農村商業銀行股份有限公司、貴州畢節農村商業銀行股份有限公司等共同持股。據悉，畢節農商銀行系貴州省第三家掛牌開業的市級農商銀行。"
-    },
-    {
-      "id": "5111129",
-      "time": "2026-09-24 14:12:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊混元宣佈“騰訊Hy翻譯”APP上線】騰訊混元宣佈“騰訊Hy翻譯”APP上線（同步支援小程式、外掛、PC端體驗），它基於騰訊混元Hy-MT2翻譯模型打造，支援33種語言互譯，並覆蓋5種中國少數民族語言及方言，提供語音翻譯、拍照翻譯以及離線翻譯等多種體驗方式。"
-    },
-    {
-      "id": "5111128",
-      "time": "2026-09-24 14:12:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【金豆要漲價了？部分店鋪下架金豆】記者注意到，近期已有多家店鋪下架金豆、生肖金產品。此前，金豆多按投資金計價，且克重較小，是不少投資者“攢金”的選擇之一。一位投資者表示：“我每個月都會買1克金豆攢金，最近常買的店鋪卻下架了。”記者檢索發現，大型珠寶品牌店的做法並不統一：部分珠寶品牌商仍按投資金價格銷售金豆，也有珠寶品牌商已下架金豆。分析人士指出，金豆的形態規格不符合政策列明的金條、金塊、金錠、金片和法定金質貨幣品類，應按非投資性用途管理。（中國經營報）"
-    },
-    {
-      "id": "5111127",
-      "time": "2026-09-24 14:12:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧波1宗宅地溢價3.71%成交】9月24日，寧波出讓1宗鎮海區宅地，土地出讓面積10560㎡（合15.84畝），規劃建築面積19008㎡，容積率1.8，起始價1.62億元，起始樓面價8503元/㎡。該地塊經過7次競價由開投藍城以總價1.68億元競得，成交樓面價8819元/㎡，溢價率3.71%。"
-    },
-    {
-      "id": "mkt:01a0d20a-e8ff-7118-8679-0c7a9c70e22c",
-      "time": "2026-09-24 14:12:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Interfax reported the Russian Defence Ministry said Russian forces struck an oil tanker in the Black Sea."
-    },
-    {
-      "id": "te:markets:586373",
-      "time": "2026-09-24 14:11:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Romania",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Romania 10Y Bond Yield Hits 12-month High — Romania 10 Year Government Bond Yield increased to 7.55%, the highest since September 2025. Over the past 4 weeks, Romania 10Y Bond Yield gained 39.00 basis points, and in the last 12 months, it increased 3.00 basis points."
-    },
-    {
-      "id": "5111126",
-      "time": "2026-09-24 14:11:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【H&M第三季度營業利潤增至60.37億瑞典克朗】9月24日，H&M集團公佈2026年第三季度財報。第三季度，公司淨銷售額為571.89億瑞典克朗，同比增長0.3%，按當地貨幣計算增長1%；營業利潤為60.37億瑞典克朗，同比增長22.9%，營業利潤率由8.6%升至10.6%；稅後利潤為40.98億瑞典克朗，同比增長27.6%。H&M表示，採購、成本控制和運營效率提升推動盈利能力改善。第三季度經營活動現金流同比增長19%，至119.08億瑞典克朗。"
-    },
-    {
-      "id": "5111125",
-      "time": "2026-09-24 14:11:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新石器無人車註冊資本增至約7923萬元】天眼查App顯示，9月22日，新石器無人車關聯公司新石器慧通科技股份有限公司發生工商變更，註冊資本由約7754萬人民幣增至約7923萬人民幣。該公司成立於2018年2月，法定代表人為李子夷，經營範圍包括工業機器人制造、智慧機器人的研發、智慧機器人銷售等，由余恩源、楊哲、江蘇省現代服務業發展創業投資基金（有限合夥）等共同持股。"
     }
   ]
 }

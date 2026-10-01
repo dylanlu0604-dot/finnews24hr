@@ -1,7 +1,60 @@
 {
   "date": "2026-10-01",
-  "count": 1053,
+  "count": 1059,
   "items": [
+    {
+      "id": "5122162",
+      "time": "2026-10-01 14:14:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特交易所將允許市價單在多個價格檔位成交】沙特交易所自10月4日起，允許市價單跨多個價格檔位成交，而非僅在單一價格檔位成交。 現行機制下，市價單會優先撮合最優價格上的可用掛單，剩餘未成交部分將轉為以該成交價格掛出的限價單。 本次調整適用於主機板及Nomu平行市場證券，衍生品市場規則保持不變。"
+    },
+    {
+      "id": "te:economy:588547",
+      "time": "2026-10-01 14:13:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "Russia Manufacturing Nears Stabilization — Russia’s S&P Global Manufacturing PMI rose to 49.8 in September from 48.8 in August, indicating a softer contraction in the sector for a second consecutive month. Output declined for the second month, albeit at a slower pace, while new orders fell at a slower rate amid weak demand and higher prices. Meanwhile, new export orders fell at the fastest pace since May 2022. Employment declined for a 10th consecutive month, with the pace of job shedding accelerating to the fastest since May. On prices, input cost inflation eased to a three-month low, while selling price inflation also slowed to its weakest pace since June. Supplier delivery times lengthened to the greatest extent since October 2024 due to transportation delay and logistic issues. Purchasing activity declined sharpest since April as firms reduced input buying and drew down stocks amid lower new order inflows. Lastly, sentiment improved as firms expected stronger demand conditions and sought to attract new customers."
+    },
+    {
+      "id": "5122161",
+      "time": "2026-10-01 14:13:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌2%，報8614.40點。"
+    },
+    {
+      "id": "5122160",
+      "time": "2026-10-01 14:12:30",
+      "tags": [
+        "行業"
+      ],
+      "text": "【同程旅行：國慶假期首日全國知名山嶽預訂熱度環比增長超200%】國慶假期首日，國內旅遊市場迎來開門紅。同程旅行平臺資料顯示，拼假錯峰出行助推分段旅遊需求釋放，假期首日已有部分遊客開啟第二段行程；各地文旅消費券搜尋熱度環比大漲超4倍，拉動假日文旅消費。山嶽類景區熱度領跑，全國知名山嶽景區預訂熱度環比增長超200%。"
+    },
+    {
+      "id": "5122159",
+      "time": "2026-10-01 14:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "據目擊人士訊息，印尼外長也將出席總統就職典禮。"
+    },
+    {
+      "id": "5122158",
+      "time": "2026-10-01 14:11:26",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗分析師：十月適宜佈局儲存晶片股】花旗集團分析師李彼得認為，投資者應當開始買入頭部儲存晶片廠商股票，人工智慧相關需求或將在明年引發嚴重的半導體供應短缺。 李彼得表示，市場對需求走弱的擔憂被誇大，市場低估了明年高頻寬記憶體（HBM）的需求量，博通、谷歌等企業正在下達大額訂單。 花旗預計，2027年HBM位元需求量同比大幅攀升至752億吉位元，李彼得當前給予SK海力士“買入”評級，目標價300萬韓元。"
+    },
     {
       "id": "5122157",
       "time": "2026-10-01 14:10:50",
