@@ -1,7 +1,128 @@
 {
-  "updated": "2026-10-01 08:12:52",
-  "count": 11987,
+  "updated": "2026-10-01 08:18:43",
+  "count": 11991,
   "items": [
+    {
+      "id": "te:markets:588402",
+      "time": "2026-10-01 08:15:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Advantest Stock Price Hits 5-week High — Advantest shares increased to 35780.00 JPY, the highest since August 2026. Over the past 4 weeks, Advantest gained 8.64%, and in the last 12 months, it increased 134.96%."
+    },
+    {
+      "id": "5121867",
+      "time": "2026-10-01 08:14:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國得州一男子因涉嫌策劃襲擊州議會大廈被捕】當地時間9月30日，美國得克薩斯州公共安全部門表示，當天凌晨，一名男子因涉嫌策劃襲擊位於奧斯汀的得州議會大廈被捕。有關部門稱，警方此前獲得“可信資訊”，顯示有人計劃於10月1日在奧斯汀實施暴力襲擊。警方於9月29日晚收到線索，並於30日凌晨約3時在聖安東尼奧附近將一名男子逮捕。該男子目前被關押，可能面臨針對公職人員實施重罪級恐怖威脅等指控。得州公共安全部門表示，案件仍在調查中，暫未公佈有關襲擊計劃的更多細節。得州議會大廈當天仍按正常時間開放，但安保措施已加強。得州州長格雷格·阿博特稱，聯邦調查局也參與了此次抓捕行動。"
+    },
+    {
+      "id": "5121866",
+      "time": "2026-10-01 08:14:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數下跌1%，至8699.10。"
+    },
+    {
+      "id": "te:markets:588401",
+      "time": "2026-10-01 08:13:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Remains Under Pressure — Gold slipped toward $4,150 an ounce on Thursday after surrendering gains from the previous session, as elevated oil prices and Treasury yields outweighed support from softer-than-expected US inflation data. The US PCE price index rose 0.3% in August, below the 0.4% forecast, while core PCE increased 0.2%, also falling short of expectations for a 0.3% gain. On an annual basis, headline PCE inflation came in at 3.4%, below the expected 3.7%. Markets now see roughly a 38% chance of a Federal Reserve rate hike in October, down from 51% before the PCE release. Meanwhile, oil prices remain elevated as the US and Iran make little progress in negotiations despite signs of recovering Middle East flows. Treasury yields also climbed to multi-decade highs amid concerns over persistent energy-driven inflation, which could prompt tighter monetary policy."
+    },
+    {
+      "id": "mkt:01a0f4cf-7767-7338-ab3e-edf9b538e4cc",
+      "time": "2026-10-01 08:13:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose 1.00% intraday."
+    },
+    {
+      "id": "5121865",
+      "time": "2026-10-01 08:13:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "伯克希爾哈撒韋在9月28日至30日期間購入Lennar公司656,302股A類股及4,108股B類股。"
+    },
+    {
+      "id": "5121864",
+      "time": "2026-10-01 08:13:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國官員：魯比奧下令伊朗代表團離開美國】據一位美國官員及另一位知情人士透露，美國國務卿馬爾科·魯比奧於週一要求伊朗駐聯合國大會代表團在談判陷入僵局後，立即離開美國。儘管伊朗代表團可能原本就會在近期離開，但魯比奧的這一舉動是一次極不尋常的外交譴責，暴露出在斡旋結束戰爭的努力毫無進展之際，兩國之間根深蒂固的不信任。卡達的調解人試圖促成美國與伊朗之間的外交突破，但幾乎未取得任何進展，雙方均不願做出讓步。在被要求離開紐約的人員中，包括魯比奧的伊朗同行——伊朗外交部長阿巴斯·阿拉格齊。"
+    },
+    {
+      "id": "5121863",
+      "time": "2026-10-01 08:12:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本日經指數漲幅擴大至1%。"
+    },
+    {
+      "id": "te:economy:588400",
+      "time": "2026-10-01 08:11:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Exports YoY",
+        "Importance 2"
+      ],
+      "text": "South Korea Exports Hit Fresh Record High — South Korea's exports jumped 83.5% yoy to USD 120.9 billion in September 2026, surpassing estimates of 61.7% and accelerating from an upwardly revised 68.7% jump in August, marking the fastest increase since February 1974. Exports rose for the 16th consecutive month, reaching a record monthly high after exceeding USD 100 billion for the first time in June."
+    },
+    {
+      "id": "mkt:01a0f4cd-40b1-7338-ab3e-e0491dfc5323",
+      "time": "2026-10-01 08:11:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Axios: a U.S. official and another source said that after U.S.-Iran talks stalled, Senator Rubio on Monday demanded Iran’s United Nations delegation leave the United States immediately, an unusually public diplomatic rebuke."
+    },
+    {
+      "id": "mkt:01a0f4cc-6dbc-7338-ab3e-dc5f155cffea",
+      "time": "2026-10-01 08:10:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 68.00 points, or 0.77%, at 8,721.30 on Thursday, Oct. 1."
+    },
+    {
+      "id": "mkt:01a0f4ca-e828-7338-ab3e-d76d289bbcbf",
+      "time": "2026-10-01 08:08:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Court documents show South Korea must pay Elliott $48.49 million in damages related to a Samsung merger dispute."
+    },
+    {
+      "id": "5121862",
+      "time": "2026-10-01 08:08:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "ISDS法庭裁定：韓國須就三星合併糾紛向Elliott支付4849萬美元賠償金。"
+    },
     {
       "id": "te:economy:588398",
       "time": "2026-10-01 08:07:39",
@@ -109839,98 +109960,6 @@
         "Greater China"
       ],
       "text": "【Guojin Securities: Lung cancer therapy iteration lifts Chinese innovative drugs】Guojin Securities notes at the 2026 WCLC in Seoul Chinese innovative drugs featured prominently: Akeso’s Yiwoxi showed head-to-head superiority to pembrolizumab in first-line NSCLC; PD‑1/VEGF bispecifics are emerging as leaders in IO 2.0; B7‑H3 ADCs advanced to plenary sessions and ADC programs are pushing into frontline and perioperative use. Precision therapies targeting KRAS G12D, HER2 and EGFR resistance also posted clinical progress. The research note concludes Chinese bispecifics, ADCs and oligonucleotide candidates are globally competitive with leading data and could catalyze a new wave of outbound commercialization and sector valuation rerating."
-    },
-    {
-      "id": "te:markets:586264",
-      "time": "2026-09-24 08:18:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Decline on Stronger Dollar, Yields — Gold held below $4,300 an ounce on Thursday after falling sharply in the previous session, pressured by a stronger dollar and surging Treasury yields. Those moves came as stronger-than-expected US private-sector data heightened inflation concerns and strengthened expectations for further Federal Reserve rate hikes. Several Fed officials have also reiterated support for last week’s rate increase while warning about persistent inflation risks. Markets are now pricing in around a 70% chance of another Fed rate hike in October, up from 55% a day earlier. At the same time, oil prices rebounded as Iranian President Masoud Pezeshkian maintained a firm stance, saying Tehran would not allow freedom of navigation through the Strait of Hormuz while sanctions and a US blockade remain in place. Higher oil prices add to inflationary pressures, reinforcing expectations for a more hawkish interest-rate outlook."
-    },
-    {
-      "id": "5110714",
-      "time": "2026-09-24 08:18:06",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【國金證券：肺癌治療迭代，中國新藥崛起】國金證券研報表示，2026 WCLC首爾召開，中國創新藥密集登場：康方依沃西一線NSCLC頭對頭優效帕博利珠，PD-1/VEGF雙抗領跑IO2.0；翰森/宜聯B7-H3 ADC進全體會場，ADC向前線+圍手術期遷移；KRAS G12D、HER2、EGFR耐藥等精準治療破局。中國雙抗/ADC/小核酸具全球競爭力，資料國際領先，有望催化創新藥新一輪出海與估值重估。"
-    },
-    {
-      "id": "5110713",
-      "time": "2026-09-24 08:17:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【穆迪：超大規模資料中心運營商揹負著數萬億美元的額外債務】穆迪評級本週釋出報告稱，五家美國科技巨頭合計擁有2.8萬億美元與人工智慧投資相關的表外負債。這一數字快速攀升，凸顯出它們正大力投入AI基礎設施建設。穆迪表示，亞馬遜、微軟、字母表、元平臺以及甲骨文總計簽署了近3萬億美元的租賃、採購承諾及擔保協議，這些款項並未體現在公司資產負債表上。2023年該數值僅為3500億美元。按照美國會計準則，這些不屬於現時債務，因此企業可按此方式列報。同時，並非所有承諾都意味著企業未來必須支付現金。儘管如此，這類負債規模的增長表明，在AI熱潮下，各家企業大舉借貸，加緊建設資料中心等AI基礎設施。"
-    },
-    {
-      "id": "5110712",
-      "time": "2026-09-24 08:16:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東方“煥新”：未來五年採購支出超8000億】9月22日記者從京東方獲悉，在“屏之物聯光築未來”為主題的京東方全球創新夥伴大會2026（BOEIPC2026）上，京東方董事長陳炎順丟擲一份引人注目的“承諾”：未來五年研發投入超800億元，釋放超8000億元採購資金。（中國經營報）"
-    },
-    {
-      "id": "mkt:01a0d0c5-089c-7118-8672-f6811e6e5321",
-      "time": "2026-09-24 08:16:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell 1.00% intraday to $91.19/bbl."
-    },
-    {
-      "id": "te:markets:586262",
-      "time": "2026-09-24 08:16:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Sumitomo Mitsui Financial Stock Price Hits 4-week Low — Sumitomo Mitsui Financial shares decreased to 6701.00 JPY, the lowest since August 2026. Over the past 4 weeks, Sumitomo Mitsui Financial Group gained 2.79%, and in the last 12 months, it increased 62.79%."
-    },
-    {
-      "id": "te:markets:586261",
-      "time": "2026-09-24 08:15:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mitsubishi UFJ Financial Stock Price Hits 4-week Low — Mitsubishi UFJ Financial shares decreased to 3571.00 JPY, the lowest since August 2026. Over the past 4 weeks, Mitsubishi UFJ Financial gained 2.92%, and in the last 12 months, it increased 53.62%."
-    },
-    {
-      "id": "5110711",
-      "time": "2026-09-24 08:14:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“大空頭”邁克爾·伯裡增持美光、Nebius及Palantir空頭頭寸】9月24日訊息，邁克爾·伯裡表示，他增持了美光、Nebius、iShares半導體ETF及Palantir的空頭頭寸，並稱交易規模“較大”。伯裡認為，傳統記憶體供應緊張部分源於廠商將產能轉向AI所需的高頻寬記憶體（HBM），隨著“普通RAM”產能恢復，以及供應商增加出貨，記憶體供應可能改善並對價格形成壓力。伯裡同時增持QXO、Build-A-Bear Workshop、Sprouts Farmers Market、Birkenstock及MercadoLibre等股票，並稱這些持倉目前均已達到其計劃的完整倉位。"
-    },
-    {
-      "id": "te:markets:586258",
-      "time": "2026-09-24 08:14:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Bond Yield Hits 30-year High — Japan 10 Year Government Bond Yield increased to 3.06%, the highest since August 1996. Over the past 4 weeks, Japan 10Y Bond Yield gained 17.72 basis points, and in the last 12 months, it increased 141.75 basis points."
     }
   ]
 }
