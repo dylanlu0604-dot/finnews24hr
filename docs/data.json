@@ -1,7 +1,112 @@
 {
-  "updated": "2026-10-02 01:42:04",
-  "count": 11568,
+  "updated": "2026-10-02 01:46:02",
+  "count": 11578,
   "items": [
+    {
+      "id": "5123079",
+      "time": "2026-10-02 01:45:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：美聯儲 9 月加息表明央行將採取行動壓低通脹。我對通脹回落抱有一定信心，但各類衝擊仍在持續發生。"
+    },
+    {
+      "id": "mkt:01a0f892-28f4-7338-ab54-29db35231ab2",
+      "time": "2026-10-02 01:45:23",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Kashkari said current data indicate financial conditions have not materially tightened."
+    },
+    {
+      "id": "mkt:01a0f892-0e86-7338-ab54-245f9a88f883",
+      "time": "2026-10-02 01:45:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Kashkari said current monetary policy is not significantly restrictive."
+    },
+    {
+      "id": "5123078",
+      "time": "2026-10-02 01:45:01",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：根據經濟表現，美聯儲可能需要進行超出市場預期的加息。市場如今認為美聯儲主席沃什會採取行動抑制通脹。"
+    },
+    {
+      "id": "mkt:01a0f891-cc17-7338-ab54-1db63f614dc4",
+      "time": "2026-10-02 01:44:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Bank of Minneapolis President Kashkari said he has no strong view on a rate hike in October and is open on the pace of further increases. In his September rate forecast he expected one more hike this year and another in 2027."
+    },
+    {
+      "id": "5123077",
+      "time": "2026-10-02 01:44:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：供給衝擊有望消退，加息旨在抑制價格預期。"
+    },
+    {
+      "id": "5123076",
+      "time": "2026-10-02 01:44:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：市場通脹預期仍錨定於 2%。"
+    },
+    {
+      "id": "5123075",
+      "time": "2026-10-02 01:44:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：未在金融體系中看到系統性風險跡象。"
+    },
+    {
+      "id": "5123074",
+      "time": "2026-10-02 01:43:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：即便收益率上行，美債市場仍運轉正常。"
+    },
+    {
+      "id": "mkt:01a0f88f-69b5-7338-ab54-1336fefae8ce",
+      "time": "2026-10-02 01:42:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Sources: Anthropic eyes IPO as early as mid-November】Anthropic is seeking to launch an IPO as early as mid-November, with a roadshow possibly the week of Nov. 9 and potential trading before Thanksgiving on Nov. 26, sources said. The company, which previously delayed its listing, is still expected to complete a float by year-end at the latest, though timing could change. Despite recent AI safety incidents and heightened focus on model risks, investor interest appears intact; some sources value Anthropic at about $1.8–2.0 trillion and say the IPO could match or exceed SpaceX’s record. Financials: projected 2025 revenue roughly $4.6 bln (vs $386 mln in 2024); reported a near-$42 bln net loss, with more than $34 bln from fair-value changes on liabilities and operating losses exceeding $8 bln."
+    },
     {
       "id": "mkt:01a0f88d-3270-7338-ab54-0a07f8e95685",
       "time": "2026-10-02 01:39:58",
@@ -34,6 +139,15 @@
         "焦點"
       ],
       "text": "比特幣升破85000美元，日內漲1.68%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610023888297983",
+      "time": "2026-10-02 01:38:26",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國2年期國債收益率短暫觸及9月22日以來最低水平，最新下跌12.68個基點，報4.764%。"
     },
     {
       "id": "5123071",
@@ -106219,14 +106333,6 @@
         "國際"
       ],
       "text": "受襲擊影響，歐洲復興開發銀行（EBRD）將烏克蘭2026年經濟增長預期下調至1.5%。"
-    },
-    {
-      "id": "5112539",
-      "time": "2026-09-25 01:45:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "WARBY PARKER 的漲幅擴大至高達 13%，創下 5 月以來的最高水平。"
     }
   ]
 }
