@@ -1,7 +1,18 @@
 {
   "date": "2026-10-02",
-  "count": 575,
+  "count": 576,
   "items": [
+    {
+      "id": "te:markets:588913",
+      "time": "2026-10-02 06:40:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Rises by 3.48% — Top commodity gainers are Rubber (3.48%), Rice (2.17%) and Sugar (1.89%). Biggest losers are Oat (-1.91%) and Lumber (-1.67%)."
+    },
     {
       "id": "mkt:01a0f99e-3219-7ee0-a780-0772b4dce03f",
       "time": "2026-10-02 06:38:09",

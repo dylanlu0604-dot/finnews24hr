@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-02 06:39:35",
-  "count": 11688,
+  "updated": "2026-10-02 06:43:17",
+  "count": 11684,
   "items": [
+    {
+      "id": "te:markets:588913",
+      "time": "2026-10-02 06:40:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Rises by 3.48% — Top commodity gainers are Rubber (3.48%), Rice (2.17%) and Sugar (1.89%). Biggest losers are Oat (-1.91%) and Lumber (-1.67%)."
+    },
     {
       "id": "mkt:01a0f99e-3219-7ee0-a780-0772b4dce03f",
       "time": "2026-10-02 06:38:09",
@@ -107363,54 +107374,6 @@
         "Energy"
       ],
       "text": "U.S. natural gas futures fell 3% intraday to $3.268/MMBtu."
-    },
-    {
-      "id": "mkt:01a0d596-0a5a-7118-8691-e937a15cc720",
-      "time": "2026-09-25 06:42:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "MSFT.O",
-        "Impact bullish",
-        "NVDA.O"
-      ],
-      "text": "Fortune reports OpenAI plans to launch a product to help clients deploy GPT-6 Cyber more securely and with greater automation."
-    },
-    {
-      "id": "mkt:01a0d595-9431-7118-8691-e622ca380641",
-      "time": "2026-09-25 06:42:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fortune reports OpenAI is preparing to preview GPT-6 Cyber, a cybersecurity-dedicated model, in the coming days."
-    },
-    {
-      "id": "5112794",
-      "time": "2026-09-25 06:42:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI 還將釋出一款新產品，幫助客戶以更安全、自動化的方式部署 GPT-6 Cyber。"
-    },
-    {
-      "id": "5112793",
-      "time": "2026-09-25 06:41:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：OpenAI 正準備在未來幾天預覽其最新的網路安全專用模型 GPT-6 Cyber。"
-    },
-    {
-      "id": "te:markets:586666",
-      "time": "2026-09-25 06:40:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rubber Rises by 3.23% — Top commodity gainers are Rubber (3.23%), Rice (1.50%) and Barley (1.46%). Biggest losers are Sunflower Oil (-1.82%) and Butter (-1.16%)."
     }
   ]
 }
