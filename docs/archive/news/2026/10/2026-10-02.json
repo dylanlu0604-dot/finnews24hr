@@ -1,7 +1,62 @@
 {
   "date": "2026-10-02",
-  "count": 586,
+  "count": 592,
   "items": [
+    {
+      "id": "te:markets:588915",
+      "time": "2026-10-02 06:57:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Set for Weekly Fall — The NZX 50 dropped 16 points, or 0.1%, to 13,794 in Friday morning trade, extending losses from the previous session, mainly weighed down by the real estate, communication services, and tech sectors. Rising oil prices pressured sentiment, raising concerns over inflation expectations and interest rate hikes, after a report that the US deployed more forces to the Middle East. Caution also prevailed as traders awaited US jobs data after the closing bell for clues about the Fed's monetary policy decision at its upcoming meeting. However, an upbeat session on Wall Street overnight capped the fall as the Treasury selloff eased. On the data front, New Zealand's consumer confidence edged down in September but remained above its April low. Among early losers were FC Investment (-1.0%), Westpac Banking Corp. (-0.9%), Infratil (-0.9%), and Briscoe Group (-0.7%). For the week, the index is heading for a 0.1% fall, which would be its first weekly decline in three weeks."
+    },
+    {
+      "id": "5123433",
+      "time": "2026-10-02 06:56:55",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、多國人士盛讚中國發展成就 期待深化對華合作\n2、“東盟同中國經貿關係將更加緊密”——訪東盟秘書長高金洪\n3、雲南大理白族自治州打造特色文旅品牌 蒼洱之間 活力湧現（培育更多“中國服務”品牌）\n4、新場景啟用發展新動能。"
+    },
+    {
+      "id": "5123432",
+      "time": "2026-10-02 06:56:44",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、神州共歡歌 同心賀華誕\n2、堅定信心、錨定目標，一步一步紮實往前走——論學習貫徹習近平總書記在慶祝中華人民共和國成立77週年招待會上重要講話\n3、朝著全面建成社會主義現代化強國目標奮勇前進——習近平總書記在慶祝中華人民共和國成立77週年招待會上的重要講話激勵億萬人民踔厲奮發、勇毅前行\n4、貴州遵義著力發展數字經濟 從“紅色電波”到數智之城（賡續長征精神 奮進復興征程）\n5、從9月4場展會看“中國機遇2.0”\n6、國慶假期首日 全社會跨區域人員流動量預計超3.3億人次。"
+    },
+    {
+      "id": "5123431",
+      "time": "2026-10-02 06:56:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局SpaceX載人 13 號飛船艙與國際空間站完成對接。"
+    },
+    {
+      "id": "5123430",
+      "time": "2026-10-02 06:56:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "KeyBanc 將愛彼迎評級上調至增持，目標價 191 美元。"
+    },
+    {
+      "id": "mkt:01a0f9ac-e75b-7ee0-a780-2e42b6ae0e08",
+      "time": "2026-10-02 06:54:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "The U.S. Office of Management and Budget released the 2027 schedule for federal economic indicator releases."
+    },
     {
       "id": "mkt:01a0f9ac-6a3d-7ee0-a780-27ea2c5a97e3",
       "time": "2026-10-02 06:53:41",
