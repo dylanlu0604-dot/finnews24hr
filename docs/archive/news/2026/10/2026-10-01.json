@@ -1,7 +1,149 @@
 {
   "date": "2026-10-01",
-  "count": 1604,
+  "count": 1617,
   "items": [
+    {
+      "id": "te:markets:588780",
+      "time": "2026-10-01 20:31:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Eases Slightly — US heating oil prices eased to around $4.60 per gallon after President Donald Trump appeared less inclined to restrict diesel exports, amid concerns that such a move could trigger another surge in fuel costs. The European Union is meanwhile discussing a coordinated response after Washington asked Germany and France to release emergency diesel reserves, while officials indicated that additional European supplies could reach the market. Despite the decline, prices remain close to the record $5.20 reached in mid-September. Refined-product markets remain under pressure even as Middle Eastern crude flows approach pre-war levels. Supply has been constrained by disruptions in the Persian Gulf, Ukrainian attacks on Russian refineries and Moscow’s extension of its diesel-export restrictions through October. China has also canceled some October fuel shipments as it prioritizes domestic demand. In the US, EIA data showed distillate inventories at their lowest seasonal level on record."
+    },
+    {
+      "id": "5122694",
+      "time": "2026-10-01 20:31:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國監督機構稱預算草案的經濟假設“樂觀” 政府降赤字計劃面臨風險】法國財政監督機構警告稱，政府2027年預算草案所依據的經濟假設“樂觀”，這給削減高企財政赤字的計劃帶來風險。法國政府週四早些時候向內閣提交了一項財政法案，預計經濟增速將從2026年的0.5%加快至1%，並計劃將財政赤字佔國內生產總值(GDP)的比例從5.4%降至5%。 負責監督公共財政的獨立機構法國公共財政高階委員會(HCFP)表示，這些預測假設私人投資將顯著回升，但法國主權借貸成本飆升可能會傳導至企業和家庭的融資環境。該機構還表示，由於政府提供的時間和資訊有限，無法對擬議的所有稅收和支出調整進行深入分析。"
+    },
+    {
+      "id": "5122693",
+      "time": "2026-10-01 20:30:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "嘉信理財集團將於2026年10月7日起在德克薩斯證券交易所完成二次上市掛牌。"
+    },
+    {
+      "id": "5122692",
+      "time": "2026-10-01 20:30:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約呂特：我的立場明確——保持冷靜、堅持立場，繼續支援烏克蘭。"
+    },
+    {
+      "id": "5122691",
+      "time": "2026-10-01 20:30:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至9月26日當週初請失業金人數 19.7萬人，預期20萬人，前值由19.7萬人修正為19.8萬人。\n美國至9月26日當週初請失業金人數四周均值 20萬人，前值由20.225萬人修正為20.25萬人。\n美國至9月19日當週續請失業金人數 170.1萬人，預期172.5萬人，前值由171.9萬人修正為171.2萬人。"
+    },
+    {
+      "id": "mkt:01a0f771-9168-7338-ab4c-d4f1791858f5",
+      "time": "2026-10-01 20:30:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US four-week moving average of initial jobless claims for the week to Sept. 26: 200,000; prior reading revised from 202,250 to 202,500."
+    },
+    {
+      "id": "mkt:01a0f771-8992-7338-ab4c-ca5f050dc1dc",
+      "time": "2026-10-01 20:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US initial jobless claims for the week ending Sept. 26: 197,000 vs. 200,000 expected; prior week revised to 198,000 from 197,000."
+    },
+    {
+      "id": "mkt:01a0f771-88c9-7338-ab4c-c1c095da8620",
+      "time": "2026-10-01 20:30:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US continuing jobless claims for week ending Sep 19 1.701 mln vs 1.725 mln expected; prior revised to 1.712 mln from 1.719 mln."
+    },
+    {
+      "id": "mkt:01a0f771-70e5-7338-ab4c-bc95ffe03d0a",
+      "time": "2026-10-01 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (Sep.19) | actual 1701000K | consensus 1725000K | previous 1719000K"
+    },
+    {
+      "id": "mkt:01a0f771-7022-7338-ab4c-b4d2ead852b6",
+      "time": "2026-10-01 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Sep.26) | actual 200000K | previous 202250K"
+    },
+    {
+      "id": "mkt:01a0f771-6f70-7338-ab4c-ab535a901634",
+      "time": "2026-10-01 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Sep.26) | actual 197000K | consensus 200000K | previous 197000K"
+    },
+    {
+      "id": "5122690",
+      "time": "2026-10-01 20:29:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第二艘國產大型郵輪“愛達·花城號”迎來近600名船員入駐】10月1日，近600名船員入駐第二艘國產大型郵輪“愛達·花城號”，這標誌著該船首航前運營籌備工作已進入最後衝刺階段。第二艘國產大型郵輪“愛達·花城號”計劃於2026年11月6日交付，並於11月22日從廣州南沙國際郵輪母港開啟首航。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0f770-a574-7338-ab4c-a59fb7d64dc1",
+      "time": "2026-10-01 20:29:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "NATO Secretary General Rutte said Russia is testing NATO across Europe."
+    },
     {
       "id": "5122689",
       "time": "2026-10-01 20:28:15",
