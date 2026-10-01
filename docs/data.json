@@ -1,7 +1,69 @@
 {
-  "updated": "2026-10-02 01:49:51",
-  "count": 11593,
+  "updated": "2026-10-02 01:53:38",
+  "count": 11597,
   "items": [
+    {
+      "id": "5123089",
+      "time": "2026-10-02 01:52:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：通脹由一連串衝擊引發。"
+    },
+    {
+      "id": "mkt:01a0f897-de51-7338-ab54-80571d7512e1",
+      "time": "2026-10-02 01:51:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The Wall Street Journal, citing US officials, reports the Pentagon will dispatch a third carrier strike group and additional Marine Corps vessels to the Middle East and deploy 9,000–10,000 more troops to the region."
+    },
+    {
+      "id": "5123088",
+      "time": "2026-10-02 01:51:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國向中東派遣第三艘航空母艦。"
+    },
+    {
+      "id": "5123087",
+      "time": "2026-10-02 01:51:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國聯邦國防軍將組建首支無人系統作戰團級部隊】當地時間10月1日，德國國防部長皮斯托裡烏斯在德國北部下薩克森州視察德軍新型裝備時表示，德國聯邦國防軍將於2027年組建首支專門負責無人系統作戰的團級部隊，並計劃在當年內形成初步作戰能力。新部隊初期規模約300人，最終目標規模為600人。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0f896-db68-7338-ab54-78387ee3a607",
+      "time": "2026-10-02 01:50:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed Vice Chair JEFFERSON: May need more time to judge whether further rate hikes are necessary】Fed Vice Chair JEFFERSON said inf has been too high for too long and risks remain, but policymakers may need more time to judge whether further rate hikes are necessary. Any policy move will be weighed against data trends, shifts in the economic outlook and the balance of risks. He noted U.S. activity and the labor market remain resilient, while rising energy prices, an AI investment boom and tariffs are creating cross-currents that should not be viewed in isolation. Treasury yields across maturities have risen since the September meeting, signaling investors are re‑pricing the macro outlook; the Fed will assess incoming data to determine whether inf is falling toward target quickly enough and what policy stance is appropriate."
+    },
+    {
+      "id": "5123086",
+      "time": "2026-10-02 01:49:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國財政部正在拆除伊朗及其他對手用於規避制裁、轉移非法資金並破壞全球金融體系完整性的金融基礎設施。今日針對 A7 採取的行動，延續了財政部為孤立伊朗及其金融協助方所開展的空前舉措，併發出明確訊號：若為美國對手提供非法金融便利，將被剝奪進入美國金融體系的許可權。"
+    },
     {
       "id": "5123085",
       "time": "2026-10-02 01:47:03",
@@ -106502,23 +106564,6 @@
         "其他"
       ],
       "text": "微軟宣佈布拉德·史密斯將負責通訊部門。"
-    },
-    {
-      "id": "5112542",
-      "time": "2026-09-25 01:53:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "墨西哥比索跌幅擴大，兌美元下跌超1%，觸及4月以來最低水平。"
-    },
-    {
-      "id": "5112541",
-      "time": "2026-09-25 01:53:10",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "荷蘭首相希望阻止美國對阿斯麥（ASML）出臺更多出口限制。"
     }
   ]
 }
