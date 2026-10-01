@@ -1,7 +1,182 @@
 {
-  "updated": "2026-10-01 20:02:22",
-  "count": 11642,
+  "updated": "2026-10-01 20:06:11",
+  "count": 11660,
   "items": [
+    {
+      "id": "5122647",
+      "time": "2026-10-01 20:05:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：實際和名義條件需要保持緊縮。"
+    },
+    {
+      "id": "mkt:01a0f75b-1513-7338-ab4c-17ccb3a2b24f",
+      "time": "2026-10-01 20:05:36",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England's monetary policy committee member MANN said raising interest rates can ensure a sustainable return to 2%."
+    },
+    {
+      "id": "5122646",
+      "time": "2026-10-01 20:05:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員曼恩：當前的金融狀況“緊縮程度不足”。上調關鍵利率以彰顯對通脹目標的承諾，將壓低產出端成本。"
+    },
+    {
+      "id": "5122645",
+      "time": "2026-10-01 20:05:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "味好美：美國部分地區的品類消費疲軟。"
+    },
+    {
+      "id": "mkt:01a0f75a-b793-7338-ab4c-0e990d6d0802",
+      "time": "2026-10-01 20:05:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Bank of England Monetary Policy Committee member Mann said a risk-management approach is appropriate given inflation risks."
+    },
+    {
+      "id": "5122644",
+      "time": "2026-10-01 20:05:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟向烏克蘭撥款450億歐元貸款，用於2027年。"
+    },
+    {
+      "id": "5122643",
+      "time": "2026-10-01 20:04:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行委員曼恩：加息可確保通脹可持續地迴歸2%。"
+    },
+    {
+      "id": "mkt:01a0f75a-7166-7338-ab4c-06208a955bd6",
+      "time": "2026-10-01 20:04:54",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Mann, a Bank of England monetary policy committee member, said higher bond yields may reflect uncertainty about the Bank of England's policy."
+    },
+    {
+      "id": "5122642",
+      "time": "2026-10-01 20:04:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷農牧工商業商會（CIARA-CEC）表示，阿根廷8月農產品出口收入同比增長17%，達32.3億美元。"
+    },
+    {
+      "id": "5122641",
+      "time": "2026-10-01 20:04:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "滙豐關於黃金的觀點：維持2028年、2029年黃金均價預測不變，分別為每盎司5200美元、每盎司5300美元。"
+    },
+    {
+      "id": "5122640",
+      "time": "2026-10-01 20:04:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行曼恩：鑑於通脹風險，風險管理策略是合適的。"
+    },
+    {
+      "id": "mkt:01a0f759-2925-7338-ab4b-f82ba7534934",
+      "time": "2026-10-01 20:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SIMSEK said Turkey has been negotiating a free trade agreement with Gulf Cooperation Council members for years and that the current geopolitical backdrop could create conditions for signing."
+    },
+    {
+      "id": "5122639",
+      "time": "2026-10-01 20:03:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨指數上漲0.87%，至3140點。"
+    },
+    {
+      "id": "mkt:01a0f758-ed24-7338-ab4b-f28ee1bb6eb3",
+      "time": "2026-10-01 20:03:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "HSBC says gold likely to face further short-term downside pressure but may be nearing a bottom."
+    },
+    {
+      "id": "mkt:01a0f758-bd01-7338-ab4b-ede16ef10d6d",
+      "time": "2026-10-01 20:03:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England monetary policy committee member Mann said current financial conditions are 'not tight enough'."
+    },
+    {
+      "id": "5122638",
+      "time": "2026-10-01 20:02:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "滙豐：將2026年黃金平均價格預測從每盎司4560美元下調至4490美元。"
+    },
+    {
+      "id": "mkt:01a0f758-58bd-7338-ab4b-e4328a42fc20",
+      "time": "2026-10-01 20:02:37",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "High Council of Public Finance (HCFP) says France's public finances are \"worrying\" and the deficit target is already at its minimum."
+    },
+    {
+      "id": "mkt:01a0f757-f1c3-7338-ab4b-db8c40864875",
+      "time": "2026-10-01 20:02:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "HSBC cuts its 2026 average gold price forecast to $4,490/oz from $4,560/oz."
+    },
     {
       "id": "mkt:01a0f756-a1b6-7338-ab4b-d0a4f3674d5b",
       "time": "2026-10-01 20:00:44",
