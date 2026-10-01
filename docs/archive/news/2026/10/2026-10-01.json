@@ -1,7 +1,84 @@
 {
   "date": "2026-10-01",
-  "count": 1059,
+  "count": 1066,
   "items": [
+    {
+      "id": "5122166",
+      "time": "2026-10-01 14:18:16",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【全球債券基金押注率先應對通脹的經濟體】快速出手應對今年通脹飆升的國家正獲得債券投資者青睞，而行動遲緩的經濟體或將承受更高利率的代價。 資管機構正在買入澳大利亞國債，押注該國自2月以來的四次加息意味著加息週期臨近尾聲；同時也增持德國國債，預期收益率下行。 投資者認為，較早採取行動的央行能夠更快看到政策效果，後續加息空間更小；市場正押注不同經濟體在通脹應對上走出分化路徑。"
+    },
+    {
+      "id": "5122165",
+      "time": "2026-10-01 14:17:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股夜盤晶片股集體走強 SOXL三倍做多半導體ETF-Direxion漲超9%】美股夜盤晶片股集體走強，SOXL三倍做多半導體ETF-Direxion漲超9%，ARM漲4%，AMD、英特爾漲超3%，閃迪漲2.8%，SK海力士漲2.7%，博通漲1.6%，英偉達漲1.5%，美光科技漲1.4%。"
+    },
+    {
+      "id": "te:economy:588553",
+      "time": "2026-10-01 14:17:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Romania Jobless Rate Steady at 6.4% — Romania’s seasonally adjusted unemployment rate stood at 6.4% in August 2026, unchanged from the previous month. The number of unemployed people increased by 3.4 thousand month-on-month and by 28.6 thousand year-on-year. By gender, the unemployment rate for men edged up to 6.3% from 6.2% in July, while that for women declined to 6.5% from 6.7%. Among individuals aged 25–74, who accounted for 76.5% of total unemployed people, the unemployment rate remained unchanged at 5.2% from the prior month. Compared with the same month a year earlier, however, the overall unemployment rate remained higher than the 6.1% recorded in August 2025."
+    },
+    {
+      "id": "5122164",
+      "time": "2026-10-01 14:17:02",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【印度警示：全球風險威脅經濟高增長與投資】印度財政部警示，地緣政治緊張、油價波動以及全球貿易和供應鏈中斷，給該國強勁的經濟增長帶來風險。 財政部預計經濟增長仍將保持韌性，預測截至9月的季度增速為7.3%，儘管外部壓力正向金融市場傳導。 財政部呼籲推進改革以維持更高增速、吸引投資，稱“印度必須著力打造更利於競爭的經濟環境，而非僅僅利好企業”。"
+    },
+    {
+      "id": "5122163",
+      "time": "2026-10-01 14:16:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美光財報點燃AI交易，日本晶片股集體大漲】美光科技公佈強於預期的財報和業績指引後，日本半導體板塊週四大幅上漲。市場將美光的強勁表現視為AI資料中心需求依然旺盛的又一訊號，並迅速把這一預期擴散至晶片測試、製造裝置、儲存及電子元件等相關公司。截至北京時間14:00，日經225指數漲3.18%，報68877.28點。半導體及AI相關個股領漲，其中Lasertec漲11.09%，Advantest漲8.32%，太陽誘電漲8.05%，村田製作所漲8.2%，東京電子漲6.05%，鎧俠漲5.33%，Rohm漲約3.36%。"
+    },
+    {
+      "id": "te:markets:588550",
+      "time": "2026-10-01 14:16:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Lower Open — European equity markets were set for a lower open on Thursday as elevated bond yields continued to weigh on stocks, even as softer-than-expected US PCE inflation data reduced expectations for a Federal Reserve rate hike this month. Oil prices also eased amid signs of improving energy flows from the Middle East, despite continued deadlock in US-Iran negotiations. Meanwhile, Micron Technology issued an upbeat revenue forecast for the current quarter, signaling sustained demand for AI memory chips. In Europe, investors will assess manufacturing activity data for the Eurozone, Germany, France, Italy and Spain, along with regional and Italian unemployment figures. No major earnings reports are scheduled for Thursday. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.3%."
+    },
+    {
+      "id": "mkt:01a0f61b-15c1-7338-ab43-b726f8ed5752",
+      "time": "2026-10-01 14:16:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【JEFFERIES: US Treasury yields attractive for long-term investors】JEFFERIES global economist Mohit Kumar said current US Treasury yields are attractive to long-term investors but uncertainty remains high. \"We have low conviction on whether the next 10bp move in the 10-year Treasury will be up or down,\" he said. JEFFERIES is more confident that central banks will not deliver the scale of rate hikes currently priced by markets; LSEG data show money markets currently price about 93bp of cumulative Fed hikes over the next 12 months."
+    },
     {
       "id": "5122162",
       "time": "2026-10-01 14:14:51",

@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-01 14:15:39",
-  "count": 11813,
+  "updated": "2026-10-01 14:19:29",
+  "count": 11811,
   "items": [
+    {
+      "id": "5122166",
+      "time": "2026-10-01 14:18:16",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【全球債券基金押注率先應對通脹的經濟體】快速出手應對今年通脹飆升的國家正獲得債券投資者青睞，而行動遲緩的經濟體或將承受更高利率的代價。 資管機構正在買入澳大利亞國債，押注該國自2月以來的四次加息意味著加息週期臨近尾聲；同時也增持德國國債，預期收益率下行。 投資者認為，較早採取行動的央行能夠更快看到政策效果，後續加息空間更小；市場正押注不同經濟體在通脹應對上走出分化路徑。"
+    },
+    {
+      "id": "5122165",
+      "time": "2026-10-01 14:17:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股夜盤晶片股集體走強 SOXL三倍做多半導體ETF-Direxion漲超9%】美股夜盤晶片股集體走強，SOXL三倍做多半導體ETF-Direxion漲超9%，ARM漲4%，AMD、英特爾漲超3%，閃迪漲2.8%，SK海力士漲2.7%，博通漲1.6%，英偉達漲1.5%，美光科技漲1.4%。"
+    },
+    {
+      "id": "te:economy:588553",
+      "time": "2026-10-01 14:17:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Romania Jobless Rate Steady at 6.4% — Romania’s seasonally adjusted unemployment rate stood at 6.4% in August 2026, unchanged from the previous month. The number of unemployed people increased by 3.4 thousand month-on-month and by 28.6 thousand year-on-year. By gender, the unemployment rate for men edged up to 6.3% from 6.2% in July, while that for women declined to 6.5% from 6.7%. Among individuals aged 25–74, who accounted for 76.5% of total unemployed people, the unemployment rate remained unchanged at 5.2% from the prior month. Compared with the same month a year earlier, however, the overall unemployment rate remained higher than the 6.1% recorded in August 2025."
+    },
+    {
+      "id": "5122164",
+      "time": "2026-10-01 14:17:02",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【印度警示：全球風險威脅經濟高增長與投資】印度財政部警示，地緣政治緊張、油價波動以及全球貿易和供應鏈中斷，給該國強勁的經濟增長帶來風險。 財政部預計經濟增長仍將保持韌性，預測截至9月的季度增速為7.3%，儘管外部壓力正向金融市場傳導。 財政部呼籲推進改革以維持更高增速、吸引投資，稱“印度必須著力打造更利於競爭的經濟環境，而非僅僅利好企業”。"
+    },
+    {
+      "id": "5122163",
+      "time": "2026-10-01 14:16:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美光財報點燃AI交易，日本晶片股集體大漲】美光科技公佈強於預期的財報和業績指引後，日本半導體板塊週四大幅上漲。市場將美光的強勁表現視為AI資料中心需求依然旺盛的又一訊號，並迅速把這一預期擴散至晶片測試、製造裝置、儲存及電子元件等相關公司。截至北京時間14:00，日經225指數漲3.18%，報68877.28點。半導體及AI相關個股領漲，其中Lasertec漲11.09%，Advantest漲8.32%，太陽誘電漲8.05%，村田製作所漲8.2%，東京電子漲6.05%，鎧俠漲5.33%，Rohm漲約3.36%。"
+    },
+    {
+      "id": "te:markets:588550",
+      "time": "2026-10-01 14:16:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Head for Lower Open — European equity markets were set for a lower open on Thursday as elevated bond yields continued to weigh on stocks, even as softer-than-expected US PCE inflation data reduced expectations for a Federal Reserve rate hike this month. Oil prices also eased amid signs of improving energy flows from the Middle East, despite continued deadlock in US-Iran negotiations. Meanwhile, Micron Technology issued an upbeat revenue forecast for the current quarter, signaling sustained demand for AI memory chips. In Europe, investors will assess manufacturing activity data for the Eurozone, Germany, France, Italy and Spain, along with regional and Italian unemployment figures. No major earnings reports are scheduled for Thursday. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.3%."
+    },
+    {
+      "id": "mkt:01a0f61b-15c1-7338-ab43-b726f8ed5752",
+      "time": "2026-10-01 14:16:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【JEFFERIES: US Treasury yields attractive for long-term investors】JEFFERIES global economist Mohit Kumar said current US Treasury yields are attractive to long-term investors but uncertainty remains high. \"We have low conviction on whether the next 10bp move in the 10-year Treasury will be up or down,\" he said. JEFFERIES is more confident that central banks will not deliver the scale of rate hikes currently priced by markets; LSEG data show money markets currently price about 93bp of cumulative Fed hikes over the next 12 months."
+    },
     {
       "id": "5122162",
       "time": "2026-10-01 14:14:51",
@@ -108216,85 +108293,6 @@
         "國際"
       ],
       "text": "德國外長韋斯特法勒就烏克蘭問題安理會會議表示：我們需要立即實現全面停火，從黑海地區開始，以保障糧食至關重要的運輸暢通。"
-    },
-    {
-      "id": "5111141",
-      "time": "2026-09-24 14:18:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【芯光界五輪融資超10億，角力NPO量產】成立不足5個月，國內光互連初創公司芯光界已經完成五輪融資。五輪融資過後，芯光界累計融資額已超過10億元。第六輪融資已在近期啟動，完成後公司將暫緩融資，直至產品正式進入量產階段。據悉，芯光界正推進一款3.2T NPO（近封裝光學）光引擎的量產，面向一家國內GPU和交換機龍頭企業，雙方正聯合研發，共享部分上下游產業鏈資源，推動技術方案對接和驗證，預計最遲於2027年年中進入量產階段。（36氪）"
-    },
-    {
-      "id": "te:markets:586379",
-      "time": "2026-09-24 14:18:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Slovenia",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Slovenia 10Y Bond Yield Hits 12-year High — Slovenia 10 Year Government Bond Yield increased to 3.97%, the highest since April 2014. Over the past 4 weeks, Slovenia 10Y Bond Yield gained 30.70 basis points, and in the last 12 months, it increased 85.00 basis points."
-    },
-    {
-      "id": "5111140",
-      "time": "2026-09-24 14:18:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【以媒披露美伊間接接觸細節 美伊透過卡達傳遞資訊 霍爾木茲海峽議題未達共識】據以色列媒體報道，美國談判人員在紐約聯合國大會期間舉行的間接會談中，拒絕了伊朗提出重新開放霍爾木茲海峽的提議，並告知德黑蘭，伊朗並不控制該水道，同時質疑其提出這一提議的資格。第12頻道進一步披露了會談細節，稱美國特使史蒂夫·威特科夫和賈裡德·庫什納在一個房間內，而伊朗外長阿巴斯·阿拉格齊則在另一個房間內，雙方透過卡達調解人員往返傳遞資訊。據第 12 頻道援引知情人士的訊息報道，在聯合國大會閉幕之前，可能會舉行更多間接會談，但調解人正在等待特朗普決定是否繼續這一程序或採取其他途徑。"
-    },
-    {
-      "id": "mkt:01a0d210-6458-7118-8679-2a6543e0bb66",
-      "time": "2026-09-24 14:18:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Polish military says Poland again carried out preventive air operations in response to Russian strikes on Ukraine."
-    },
-    {
-      "id": "mkt:01a0d210-56e1-7118-8679-26699422dd3a",
-      "time": "2026-09-24 14:18:01",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Israel’s Channel 12 says US rejected Iran’s Strait of Hormuz proposal in indirect UN talks; Qatar relayed messages】Israel’s Channel 12 reports US negotiators during indirect talks in New York around the UN General Assembly rejected Iran’s proposal to reopen the Strait of Hormuz, telling Tehran it does not control the waterway and questioning Iran’s standing to make the proposal. Channel 12 said US envoys Steve Witkoff and Jared Kushner were in one room while Iranian foreign minister Abbas Araghchi was in another, with messages shuttled by Qatari intermediaries. More indirect talks may occur before the UNGA ends, but mediators are awaiting President Trump’s decision on whether to continue the process or pursue other options."
-    },
-    {
-      "id": "5111139",
-      "time": "2026-09-24 14:17:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "北京市廣播電視局印發《北京市促進“人工智慧+視聽”產業高質量發展重點專案支援管理辦法 （2026—2029年）》。其中指出，支援視聽大模型、智慧體等在廣電視聽領域的研發應用，包括音影片內容生成大模型、內容生成智慧體、內容生成多模型整合平臺、創作輔助、虛擬製作、智慧剪輯、智慧修復/增強/替換、智慧譯製與配音等創新技術與系統。依照技術先進性和應用效果等進行評審，單個專案支援金額最高不超過300萬元。"
-    },
-    {
-      "id": "5111138",
-      "time": "2026-09-24 14:17:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭陸軍在社交平臺X上表示，在俄羅斯對烏克蘭發動打擊後，波蘭再次開展預防性空中行動。"
-    },
-    {
-      "id": "5111137",
-      "time": "2026-09-24 14:16:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【近端次新概念持續下挫 世紀數碼連續2日30cm跌停】午後近端次新概念跌勢擴大，世紀數碼連續2日30cm跌停，股價自9月22日高點回落超56%，此前凱達重工、沈鼓集團跌停，視涯科技、信諾維、百邁科、C中塑跌幅靠前。"
-    },
-    {
-      "id": "5111136",
-      "time": "2026-09-24 14:16:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "北京市廣播電視局印發《北京市促進“人工智慧+視聽”產業高質量發展重點專案支援管理辦法 （2026—2029年）》。"
     }
   ]
 }
