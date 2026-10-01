@@ -1,7 +1,64 @@
 {
   "date": "2026-10-01",
-  "count": 1089,
+  "count": 1095,
   "items": [
+    {
+      "id": "mkt:01a0f62b-a5dc-7338-ab44-2ba2c4b7f3ce",
+      "time": "2026-10-01 14:34:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【JERA to partner with Dell, RHAELM on 400MW AI data centre in Chiba】Japan’s largest power producer JERA has signed a memorandum with Dell (DELL.N) and UK AI-infrastructure developer RHAELM to create a standardized framework for nationwide AI infrastructure, with the first project sited in Chiba. JERA will provide land adjacent to its Chiba power plant and commit 400MW of power capacity under a 15–25 year agreement. RHAELM will develop, build, operate and finance a hyperscale AI data centre targeted to reach 400MW full capacity in 2029 with phased commissioning from 2028. Dell will supply standardized rack-level AI infrastructure."
+    },
+    {
+      "id": "5122177",
+      "time": "2026-10-01 14:33:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立昂技術中東有限公司中標沙特麥地那ICT網路系統工程】近日，立昂技術中東有限公司成功中標沙特麥地那AL－ALyaa住宅專案ICT網路系統工程，並與中國葛洲壩集團沙特分公司正式簽署供貨與安裝合同。該專案金額約746萬人民幣（含稅）。"
+    },
+    {
+      "id": "5122176",
+      "time": "2026-10-01 14:33:24",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【節前市場略顯平淡 多數航線運價回落】9月30日，上海航運交易研究所（籌）釋出的上海出口集裝箱綜合運價指數為3662.30點，較上期下跌0.7%。\n\n歐洲航線，據標普全球釋出的資料顯示，2026年9月歐元區綜合PMI升至53.1，為2023年4月以來最高水平，但企業投入成本和產出價格均以4個月來最快速度上漲，製造業和服務業的成本及價格壓力均上升，未來歐洲經濟仍將面臨通脹高企的考驗。長假前，運輸需求相對平穩，市場運價繼續下跌。9月30日，上海港出口至歐洲基本港市場運價（海運及海運附加費）為2199美元/TEU，較上期下跌4.9%。地中海航線，市場行情與歐洲航線保持一致，即期市場訂艙價格繼續回落。9月30日，上海港出口至地中海基本港市場運價（海運及海運附加費）為2996美元/TEU，較上期下跌2.3%。\n\n北美航線，中美兩國經貿團隊在上週舉行了最新一輪的經貿磋商，達成多項共識，包括建立並推進貿易理事會等機制，達成“300億美元”對等降稅安排等，這推動了中美經貿關係持續穩定向好發展。本週，運輸需求保持高位，即期市場運價在節前小幅上漲。9月30日，上海港出口至美西和美東基本港市場運價（海運及海運附加費）分別為7578美元/FEU和10528美元/FEU，分別較上期上漲1.5%、0.3%。\n\n波斯灣航線，中東局勢仍處於較為緊張的局面，且繼續影響到紅海地區，但總體風險受到控制，本週運價指數小幅下跌。9月30日，上海港出口至波斯灣基本港市場運價（海運及海運附加費）為6489美元/TEU，較上期下跌1.5%。（上海航運交易研究所）"
+    },
+    {
+      "id": "mkt:01a0f629-adb4-7338-ab44-24cf8bc0749c",
+      "time": "2026-10-01 14:32:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Japan, South Korea stocks higher; Nikkei 225 up over 3%, KOSPI up nearly 2%】Oct 1 (Thu) — Japan's Nikkei 225 closed up 2,203.00 points, +3.30%, at 68,956.72. South Korea's KOSPI closed up 133.32 points, +1.95%, at 6,971.36."
+    },
+    {
+      "id": "5122175",
+      "time": "2026-10-01 14:31:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱過去一個月空襲超500個軍事目標】當地時間10月1日，以色列國防軍發表宣告稱，在剛剛過去的一個月內，以色列空軍在黎巴嫩南部“安全區”及加沙地帶累計空襲超過500個軍事目標。（央視新聞）"
+    },
+    {
+      "id": "5122174",
+      "time": "2026-10-01 14:31:10",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日韓股市收高】日經225指數收盤上漲2203.00點，漲幅3.30%，報68956.72點。韓國KOSPI指數收盤上漲133.32點，漲幅1.95%，報6971.36點。"
+    },
     {
       "id": "mkt:01a0f628-287d-7338-ab44-1c1ac50726de",
       "time": "2026-10-01 14:30:21",
