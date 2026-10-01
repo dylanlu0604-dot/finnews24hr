@@ -1,7 +1,79 @@
 {
   "date": "2026-10-01",
-  "count": 1644,
+  "count": 1653,
   "items": [
+    {
+      "id": "mkt:01a0f788-7b3c-7338-ab4d-1d2881e63d9d",
+      "time": "2026-10-01 20:55:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Amazon (AMZN.O) launched a redesigned Kindle lineup."
+    },
+    {
+      "id": "mkt:01a0f788-5af4-7338-ab4d-12046d5de502",
+      "time": "2026-10-01 20:55:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Richmond Fed President Barkin, Boston Fed President Collins and Kansas City Fed President Schmidt will speak in 10 minutes."
+    },
+    {
+      "id": "mkt:01a0f787-a226-7338-ab4d-0d132bb8b27a",
+      "time": "2026-10-01 20:54:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi ambassador to Yemen said Saudi Arabia is providing a new budget support grant of more than SAR 224 mln to the Yemeni government."
+    },
+    {
+      "id": "5122721",
+      "time": "2026-10-01 20:54:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津郵輪母港迎“三船同靠” 單日出入境客流創年內新高】天津國際郵輪母港10月1日迎來“三船同靠”。記者從天津東疆邊檢站獲悉，該港當日出入境旅客超1萬人次，創年內新高，較去年同期增長逾兩倍。"
+    },
+    {
+      "id": "5122720",
+      "time": "2026-10-01 20:53:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特駐葉門大使在X平臺表示，沙烏地阿拉伯向葉門政府提供了一筆逾2.24億里亞爾的新增預算支援贈款。"
+    },
+    {
+      "id": "5122719",
+      "time": "2026-10-01 20:52:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "HDFC銀行任命ANUP BAGCHI為執行長，自10月27日起生效。"
+    },
+    {
+      "id": "mkt:01a0f785-cbc1-7338-ab4d-01615023da26",
+      "time": "2026-10-01 20:52:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【US initial claims dip to lowest since July; continuing claims hit three-year low】US initial jobless claims edged down to their lowest level since July, while continuing claims fell 11,000 to 1.70 mln, the lowest since March 2023, indicating a still-healthy labor market. The four-week moving average of initial claims dropped to 200k, a seven-week low. Unadjusted initial claims fell in most states, including Hawaii, Georgia and Texas. Attention turns to Friday’s nonfarm payrolls, where September unemployment is forecast to remain at 4.1%."
+    },
+    {
+      "id": "5122718",
+      "time": "2026-10-01 20:51:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期首日景區迎開門紅】飛豬資料顯示，10月1日出行的國內門票張數同比去年增長近30%，境外接送、境外當地玩樂訂單量也分別同比去年增長43%、37%。同程旅行平臺資料顯示，拼假錯峰推動多段遊需求釋放，假期第一天部分遊客已開啟第二段行程。10月1日，各地旅遊市場迎來開門紅，多地景區景點發布門票售罄通知和限流通知。去哪兒旅行資料顯示，國慶首日酒店入住熱門城市是北京、成都、南京、重慶、上海、長沙、杭州、青島、武漢、貴陽。 美團資料顯示，截至“十一”假期首日，國慶期間熱門機票預訂城市Top10為成都、上海、北京、廣州、深圳、重慶、昆明、西安、南京和杭州，“北上西進南下”的出行特徵明顯。 （澎湃）"
+    },
     {
       "id": "5122717",
       "time": "2026-10-01 20:49:38",
@@ -112,6 +184,14 @@
         "EURUSD"
       ],
       "text": "【US initial jobless claims fall; September layoffs ease】US initial jobless claims fell 1,000 to 197,000 in the week ended Sep 26, the US Labor Department said on Thursday, versus a Refinitiv survey median of 200,000. September layoffs also declined, indicating continued labor-market resilience even as employers remain cautious about hiring. Claims remain near a 57-year low; economists said strong corporate profit growth and firm domestic demand have limited layoffs, despite the US‑Iran conflict lifting energy prices and diesel at record highs."
+    },
+    {
+      "id": "5122708",
+      "time": "2026-10-01 20:41:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國上週初請失業金人數下降 9月裁員減少】美國上週初請失業金人數下降，9月裁員也有所減少，表明儘管僱主對增加招聘仍持謹慎態度，勞動力市場穩定性依然持續。美國勞工部週四表示，截至9月26日當週，經季節性調整後的初請失業金人數下降1000人，至19.7萬人。儘管美伊戰爭推高能源價格、帶來日益加劇的逆風，初請人數仍接近57年低點。柴油價格目前處於紀錄高位。經濟學家表示，強勁的企業利潤增長和堅挺的國內需求使工人免於被裁員。"
     },
     {
       "id": "5122707",
