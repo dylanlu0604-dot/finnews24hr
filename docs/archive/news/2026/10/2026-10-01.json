@@ -1,7 +1,91 @@
 {
   "date": "2026-10-01",
-  "count": 685,
+  "count": 694,
   "items": [
+    {
+      "id": "5121901",
+      "time": "2026-10-01 09:03:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢：完善商品住房銷售制度，推行“拿地即開工”、“交房即交證”】 武漢市住房和城市更新局、武漢市自然資源和城鄉建設局、武漢市地方金融管理局釋出關於貫徹落實《關於完善商品住房銷售制度的通知》的實施意見。其中提到，推行“拿地即開工”。房地產開發企業簽訂土地出讓合同並取得宗地不動產預告登記證明的，可先行辦理建設工程規劃許可、建築工程施工許可、不動產測繪及樓盤表等手續。對按土地出讓合同約定按時繳納土地出讓價款的專案，其對應部分可申請辦理預售許可手續。房地產開發企業為保障專案開工建設，申請商品住房開發貸款，在主辦銀行會同市房產交易中心對專案資金進行封閉管理的前提下，可辦理宗地不動產抵押權預告登記，具體辦法另行制定。推行“交房即交證”。現房銷售前，應辦理不動產首次登記。推廣商品住房買賣合同網籤備案和不動產預告登記一體辦理，最佳化稅費繳納、不動產登記、抵押貸款辦理等流程，強化工作協同，推動商品住房交付時購房人同步取得不動產權證書。"
+    },
+    {
+      "id": "5121900",
+      "time": "2026-10-01 09:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來：10月1日，NIO Power 10站上線 。截至今日，蔚來全國建成9,502座充換電站，其中換電站4,158座，充電站5,344座、充電樁30,800根，累計提供超1.2億次換電。"
+    },
+    {
+      "id": "5121899",
+      "time": "2026-10-01 09:03:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨盤初下跌0.46%。"
+    },
+    {
+      "id": "mkt:01a0f4fb-cd20-7338-ab3f-a3a69b66461f",
+      "time": "2026-10-01 09:02:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 177.84 points higher, or up 0.37%, at 48,117.97 on Thursday, Oct. 1."
+    },
+    {
+      "id": "5121898",
+      "time": "2026-10-01 09:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米雷軍：  2026年9月，小米汽車交付量超過40000臺，其中，小米澎程首月交付超過 10000臺。"
+    },
+    {
+      "id": "te:economy:588430",
+      "time": "2026-10-01 09:01:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Vietnam Manufacturing Sector Hits 3-Month Low — The S&P Global Vietnam Manufacturing PMI fell to 51.9 in September 2026 from a six-month high of 53.3 in the previous month, marking its lowest reading since June. The manufacturing sector remained in expansion territory, though growth moderated as output rose at a slower pace and new orders increased at the weakest rate of the current five-month growth streak. Employment also posted its second reduction in as many months, with firms citing staff resignations and ongoing restructuring efforts. Moreover, supplier delivery times lengthened modestly, reflecting disruptions to international shipping and unfavorable weather conditions. On the price front, input cost inflation picked up slightly from August, while output price inflation slowed for a fifth straight month and was the weakest since June 2025. Finally, business sentiment rose to its strongest level since February, underpinned by expectations of more favorable market conditions and the planned introduction of new products."
+    },
+    {
+      "id": "mkt:01a0f4fb-057b-7338-ab3f-9ad13bade60d",
+      "time": "2026-10-01 09:01:26",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.3% lower."
+    },
+    {
+      "id": "5121897",
+      "time": "2026-10-01 09:01:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車：2026年9月，小米汽車交付量超過40000臺。"
+    },
+    {
+      "id": "mkt:01a0f4fa-04d0-7338-ab3f-93e601443acc",
+      "time": "2026-10-01 09:00:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 1.37% to 906.8 yuan/gram in early trade on Oct. 1; silver T+D gained 0.67% to 14,890 yuan/kg."
+    },
     {
       "id": "5121896",
       "time": "2026-10-01 08:59:05",
