@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-01 08:18:43",
-  "count": 11991,
+  "updated": "2026-10-01 08:22:32",
+  "count": 11995,
   "items": [
+    {
+      "id": "5121871",
+      "time": "2026-10-01 08:21:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲1.0個基點，至2.385%。20年期日本國債收益率上漲2.5個基點，至3.925%。"
+    },
+    {
+      "id": "mkt:01a0f4d5-eb0b-7338-ab3f-031d5d6ceb20",
+      "time": "2026-10-01 08:20:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's 20-year government bond yield rose 2.5 bps to 3.925%."
+    },
+    {
+      "id": "5121870",
+      "time": "2026-10-01 08:20:37",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本大型製造商信心升至2018年以來最高 料支援央行繼續加息】日本大型製造商信心升至逾八年來最高水平，為日本央行繼續加息提供了支援。日本央行週四公佈的季度短觀調查顯示，9月份大型製造業信心指數從22升至24，連續第六個季度改善。彭博調查所得經濟學家預測中值為25。短觀調查是日本央行最密切關注的資料之一。大型非製造商信心指數則從37小幅降至35。指數為正意味著認為經營狀況“良好”的企業多於認為“不佳”的企業。最新短觀調查顯示，日本企業繼續展現韌性，這可能進一步強化市場對於日本央行年內再次加息的預期。"
+    },
+    {
+      "id": "5121869",
+      "time": "2026-10-01 08:19:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受泰國洪災影響，泰航貨運業務暫停、豐田四家工廠暫時停產】據報道，豐田因泰國洪水導致零部件供應中斷而暫時關閉了當地四家工廠。泰國航空將於9月30日至10月6日暫停進出港貨運業務，因大量員工無法到崗。泰國防災減災廳9月30日晚通報稱，9月16日以來，洪災已波及全國43個府及首都曼谷，超過323萬人受影響，造成24人死亡。截至30日18時，仍有29個府及曼谷存在洪災，約319萬人受影響。"
+    },
+    {
+      "id": "mkt:01a0f4d4-a27b-7338-ab3e-f8a2b0d8a5cf",
+      "time": "2026-10-01 08:19:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver slipped below $60/oz, down 0.72% intraday."
+    },
+    {
+      "id": "5121868",
+      "time": "2026-10-01 08:18:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI熱潮擠壓消費電子，羅技CEO稱晶片短缺短期內難以緩解：整個夏天我都在連求帶借搜尋晶片】羅技執行長哈內克·法伯（Hanneke Faber）透露，受全球人工智慧（AI）熱潮影響，傳統消費科技供應鏈正面臨嚴峻挑戰。法伯表示，為了給公司的滑鼠、鍵盤及遊戲外設保障關鍵零部件供應，她整個夏天都在全球奔波，“整個夏天我都在連求帶藉甚至去偷晶片，”法伯說，隨後她澄清道：“我不想說偷。是連求帶借！”法伯解釋稱，目前全球記憶體和儲存晶片的生產高度集中在少數幾家頭部企業，而AI產業鏈的爆發式需求捲走了大量產能，直接擠壓了羅技等消費電子廠商的生存空間。她強調，全行業面臨的晶片短缺局面短期內仍將持續。"
+    },
+    {
+      "id": "te:markets:588404",
+      "time": "2026-10-01 08:17:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slides to Near 2-Month Low — Silver fell toward $60 an ounce on Thursday, hitting its lowest levels in nearly two months as elevated oil prices and Treasury yields outweighed support from softer-than-expected US inflation data. The US PCE price index rose 0.3% in August, below the 0.4% forecast, while core PCE increased 0.2%, also falling short of expectations for a 0.3% gain. On an annual basis, headline PCE inflation came in at 3.4%, below the expected 3.7%. Markets now see roughly a 38% chance of a Federal Reserve rate hike in October, down from 51% before the PCE release. Meanwhile, oil prices remain elevated as the US and Iran make little progress in negotiations despite signs of recovering Middle East flows. Treasury yields also climbed to multi-decade highs amid concerns over persistent energy-driven inflation, which could prompt tighter monetary policy."
+    },
+    {
+      "id": "mkt:01a0f4d2-efbb-7338-ab3e-f02561e32592",
+      "time": "2026-10-01 08:17:39",
+      "tags": [
+        "MKT News",
+        "LEN.N",
+        "Impact bullish"
+      ],
+      "text": "Berkshire Hathaway bought 656,302 Class A shares and 4,108 Class B shares of Lennar between Sept 28 and 30."
+    },
     {
       "id": "te:markets:588402",
       "time": "2026-10-01 08:15:49",
@@ -109917,49 +109995,6 @@
         "WTI"
       ],
       "text": "Brent crude down more than 1.00% intraday, trading at $97.82/bbl."
-    },
-    {
-      "id": "5110715",
-      "time": "2026-09-24 08:22:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【油價飆升 歐洲柴油車每天多“燒”逾2億歐元】歐洲運輸與環境聯合會23日釋出的報告顯示，由於國際市場柴油價格飆升，歐洲柴油車使用成本大幅增加，歐洲柴油車主每天總計需要額外付出超2億歐元。歐洲多國柴油價格近期持續上漲。法國與德國柴油價格近日都突破每升2.40歐元關口，雙雙創下歷史新高。報告指出，地緣政治衝突和成品油供應受擾導致國際市場柴油價格飆升，歐洲全部乘用車中有將近40%使用柴油，這使歐洲成為全球受柴油價格高企衝擊最大的地區。目前，歐洲柴油價格比年初上漲超過40%，柴油卡車每週油費平均增加236歐元，歐洲柴油車主每天總計需要額外付出2.03億歐元。"
-    },
-    {
-      "id": "mkt:01a0d0ca-0784-7118-8673-06d7742ac730",
-      "time": "2026-09-24 08:21:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Sources: Japan's Ministry of Finance will discuss cutting the size of medium-term Japanese government bonds issued via \"liquidity-enhancing auctions.\""
-    },
-    {
-      "id": "te:markets:586266",
-      "time": "2026-09-24 08:19:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Pressured by Stronger Dollar, Yields — Silver fell toward $64 an ounce on Thursday, extending losses the previous session, pressured by a stronger dollar and surging Treasury yields. Those moves came as stronger-than-expected US private-sector data heightened inflation concerns and strengthened expectations for further Federal Reserve rate hikes. Several Fed officials have also reiterated support for last week’s rate increase while warning about persistent inflation risks. Markets are now pricing in around a 70% chance of another Fed rate hike in October, up from 55% a day earlier. At the same time, oil prices rebounded as Iranian President Masoud Pezeshkian maintained a firm stance, saying Tehran would not allow freedom of navigation through the Strait of Hormuz while sanctions and a US blockade remain in place. Higher oil prices add to inflationary pressures, reinforcing expectations for a more hawkish interest-rate outlook."
-    },
-    {
-      "id": "mkt:01a0d0c7-a1e9-7118-8672-f9adabe9a69d",
-      "time": "2026-09-24 08:18:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guojin Securities: Lung cancer therapy iteration lifts Chinese innovative drugs】Guojin Securities notes at the 2026 WCLC in Seoul Chinese innovative drugs featured prominently: Akeso’s Yiwoxi showed head-to-head superiority to pembrolizumab in first-line NSCLC; PD‑1/VEGF bispecifics are emerging as leaders in IO 2.0; B7‑H3 ADCs advanced to plenary sessions and ADC programs are pushing into frontline and perioperative use. Precision therapies targeting KRAS G12D, HER2 and EGFR resistance also posted clinical progress. The research note concludes Chinese bispecifics, ADCs and oligonucleotide candidates are globally competitive with leading data and could catalyze a new wave of outbound commercialization and sector valuation rerating."
     }
   ]
 }
