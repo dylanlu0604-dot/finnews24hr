@@ -1,7 +1,52 @@
 {
   "date": "2026-10-01",
-  "count": 665,
+  "count": 669,
   "items": [
+    {
+      "id": "te:markets:588423",
+      "time": "2026-10-01 08:48:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japan’s Nikkei Extends Gains on Tech Boost — The Nikkei 225 Index climbed 0.9% to above 67,000 on Thursday, advancing for a second straight session to its highest level in six weeks, as technology and artificial intelligence-related stocks led the gains. The rally came after Micron Technology issued an upbeat outlook, while Google began rolling out Gemini 4 Argon, its flagship AI model. A softer-than-expected US PCE inflation reading also prompted traders to reduce bets on a Federal Reserve rate hike this month, although elevated oil prices and bond yields continued to cloud the outlook. In Japan, central bank data showed manufacturing sentiment improved in the third quarter to its highest level in more than eight years. Notable gainers included Kioxia Holdings (4.1%), Advantest (4.7%), SoftBank Group (2.5%), Taiyo Yuden (2.5%) and Murata Manufacturing (4.5%)."
+    },
+    {
+      "id": "5121886",
+      "time": "2026-10-01 08:46:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國海關週四公佈的資料顯示，半導體行業依然是經濟繁榮的引擎，晶片出口額較上年同期飆升263%，達到創紀錄的603億美元。計算機出貨量激增435%，石油製品出口增長72%。汽車出口則下降了5%。"
+    },
+    {
+      "id": "te:economy:588422",
+      "time": "2026-10-01 08:46:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Thailand Manufacturing Sector Hits 9-Month High — Thailand's S&P Global Manufacturing PMI rose to 54.3 in September 2026 from 53.8 in the previous month. It marked the highest reading since December 2025 as output expanded at the fastest pace in nine months amid robust demand conditions. New orders also grew at the strongest rate in six months, supported by successful promotional campaigns and new client acquisitions. Meanwhile, employment levels edged lower, with firms citing natural attrition. On the pricing front, both input cost inflation and output price growth remained modest. Higher raw material expenses, particularly for metals, contributed to the increase in input costs. Lastly, business confidence was little changed from August's seven-month high, as manufacturers remained broadly optimistic that marketing initiatives and sustained demand would support production growth over the coming year."
+    },
+    {
+      "id": "mkt:01a0f4ec-2514-7338-ab3f-6b4603c028fd",
+      "time": "2026-10-01 08:45:11",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【US, South Korea to launch $200bn investment; Trump unveils $120bn nuclear, $50bn Alaska LNG, $22bn Texas gas projects】President Trump said he and South Korea’s president agreed to launch $200bn of new US investment under last year’s $350bn Korea strategic trade and investment pact. The package includes a $120bn US nuclear build of eight large reactors (six Westinghouse AP1000 and two Korean APR-1400); a $50bn Alaska LNG development and new US gas infrastructure to be built by American workers; and a $22bn, 6.4GW gas-fired power plant in Texas."
+    },
     {
       "id": "5121885",
       "time": "2026-10-01 08:43:57",
