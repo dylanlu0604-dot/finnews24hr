@@ -1,7 +1,115 @@
 {
   "date": "2026-10-02",
-  "count": 592,
+  "count": 604,
   "items": [
+    {
+      "id": "5123439",
+      "time": "2026-10-02 07:00:13",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國9月CPI年率 2.9%，預期2.9%，前值3.10%。\n韓國9月CPI月率 0.3%，預期0.4%，前值0.20%。"
+    },
+    {
+      "id": "mkt:01a0f9b2-4b22-7ee0-a780-5acf3103333f",
+      "time": "2026-10-02 07:00:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea September CPI YoY 2.9%, in line with 2.9% expected; August 3.1%."
+    },
+    {
+      "id": "mkt:01a0f9b2-4802-7ee0-a780-55a446e1c83b",
+      "time": "2026-10-02 07:00:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea September CPI MoM 0.3% (est 0.4%; prior 0.20%)."
+    },
+    {
+      "id": "mkt:01a0f9b2-328c-7ee0-a780-4cd95ed568a3",
+      "time": "2026-10-02 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (MoM) (Sep) | actual 0.3% | consensus 0.4% | previous 0.20%"
+    },
+    {
+      "id": "mkt:01a0f9b2-3289-7ee0-a780-42a48a4a0b5f",
+      "time": "2026-10-02 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | CPI (YoY) (Sep) | actual 2.9% | consensus 2.9% | previous 3.10%"
+    },
+    {
+      "id": "5123438",
+      "time": "2026-10-02 06:59:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "民調顯示，塔拉里科在得克薩斯州對帕克斯頓保持微弱優勢：。"
+    },
+    {
+      "id": "5123437",
+      "time": "2026-10-02 06:58:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料中心運營商Firmus Grid計劃在本月進行的澳大利亞IPO中尋求437億澳元（約303億美元）估值，發行價定為每股11澳元。"
+    },
+    {
+      "id": "mkt:01a0f9b0-a18d-7ee0-a780-3c43f9196966",
+      "time": "2026-10-02 06:58:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Putin: Russian forces controlled 1,301 sq km in special military operation zone in September】On Oct 1 at the Valdai International Discussion Club annual meeting, Putin said Russia’s offensive is intensifying and Russian forces gained control of 1,301 sq km in the special military operation zone in September. He said Kyiv’s neutrality remains a Russian objective and Moscow wants to end the conflict quickly and is willing to negotiate on the basis of national interests; he accused Kyiv of halting talks and said Ukraine has no intention of stopping military operations."
+    },
+    {
+      "id": "5123436",
+      "time": "2026-10-02 06:58:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：俄軍9月在特別軍事行動區域控制1301平方公里地區】當地時間10月1日，俄羅斯總統普京在瓦爾代國際辯論俱樂部年會上就特別軍事行動表示，俄軍的攻勢在加強，9月在特別軍事行動區域內控制了1301平方公里的地區。普京表示，使烏克蘭具有中立地位依然是俄方的目標之一。俄方希望儘快結束烏克蘭衝突，願基於國家利益開展和平談判。但中斷談判的是烏方，烏方並沒有停止軍事行動的意願。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0f9b0-6385-7ee0-a780-30e406a184d9",
+      "time": "2026-10-02 06:58:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Firmus Grid targets A$5.0bn IPO at A$43.7bn valuation】Data‑centre operator Firmus Grid is targeting an IPO that would raise A$5.0bn at A$11 per share and value the company at A$43.7bn (~US$30.3bn), the Australian Financial Review reports. Underwriters say they have received indications sufficient to cover A$5.0bn at A$11 and the deal may be upsized by a further A$500m. The ASX listing is set for Oct. 23; the institutional bookbuild opens Tuesday and closes Friday. The float would be among Australia’s largest IPOs, comparable to Medibank’s 2014 raise, and comes as YTD primary-market fundraising in Australia is roughly A$1bn versus >A$2bn in each of the past two years."
+    },
+    {
+      "id": "5123435",
+      "time": "2026-10-02 06:58:01",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗：歐元短期存在跌至1.0850美元的風險】花旗分析師警告稱，雖然他們沒有改變對歐元的預測，但歐元跌破公允價值的風險上升，可能最低跌至1.0850美元。“作為背景，我們對歐元/美元0-3個月的預測為1.1350，這主要基於中期經濟增長和利差，”分析師Daniel Tobon、Brian Levine和Osamu Takashima寫道。“現在匯率明顯跌破這一水平，我們認為存在下行風險，短期內可能進一步跌至1.0850。”他們指出：“但這並非預測調整，而是反映出如果相對利率保持不變，而外圍歐債利差擴大、歐洲銀行業持續拋售，歐元兌美元可能在多大程度上跌破公允價值。”他們表示：“我們認為週五公佈的非農就業資料不太可能成為重要影響因素。”"
+    },
+    {
+      "id": "5123434",
+      "time": "2026-10-02 06:57:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【10月2日隔夜要聞一覽】\n1、美國總統特朗普表示，11月中期選舉後加大對伊朗軍事打擊是“有可能”的。\n2、據一名美國官員透露，美國國防部可能向波斯灣增派一艘航母以及1萬名水兵和海軍陸戰隊員，為特朗普決定升級對伊朗的軍事行動提供更多選項。\n3、知情人士稱，人工智慧模型開發商Anthropic尋求最快11月中旬進行首次公開募股（IPO）。\n4、美聯儲副主席菲利普·傑斐遜表示，決策者可能需要更多時間，才能判斷是否有必要進一步加息以遏制通脹。\n5、美聯儲理事麗莎·庫克表示，供應衝擊變得更加突出，其影響“意外持久”，這在考驗美聯儲選擇忽略這類衝擊的傳統做法。\n6、美聯儲卡什卡利表示，他不知道利率最終需要升到多高才能給價格降溫，在經歷了持續五年的供應衝擊後，把通脹壓下來是美聯儲的職責。\n7、知情人士稱，伊朗外交部長在私下會談中表示，伊朗願意讓核查人員進入遭到轟炸的核設施，以換取減輕制裁。\n8、英偉達和軟銀已分別完成對OpenAI上一輪融資最後一筆100億美元投資，完成各自300億美元的投資承諾。"
+    },
     {
       "id": "te:markets:588915",
       "time": "2026-10-02 06:57:38",
