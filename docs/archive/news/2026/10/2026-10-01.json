@@ -1,7 +1,51 @@
 {
   "date": "2026-10-01",
-  "count": 657,
+  "count": 661,
   "items": [
+    {
+      "id": "te:economy:588418",
+      "time": "2026-10-01 08:39:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "South Korea Manufacturing Growth Accelerates in September — The S&P Global South Korea Manufacturing PMI rose to 53.9 in September 2026 from 52.3 in August, marking the strongest expansion since May. Output and new orders increased at their fastest rates since early 2021, with demand boosted particularly by the semiconductor and autos sectors. Export orders rose at the fastest pace since March 2011, supported by stronger sales to Europe and other Asian markets. Backlogs increased for a ninth consecutive month and at the fastest pace since May 2022, prompting a modest rise in employment. Manufacturers also increased purchasing activity as firms prepared for stronger sales ahead, although stocks of inputs fell for a second month. Meanwhile, input cost inflation eased to its slowest pace since October 2025, while output price inflation also moderated. Business confidence improved to its highest level since January 2026, supported by stronger sales expectations and easing price pressures, amid expectations for further sales growth."
+    },
+    {
+      "id": "5121883",
+      "time": "2026-10-01 08:38:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普將於週四在俄克拉荷馬州發表講話，並訪問得克薩斯州的一家卡車公司】 根據美國總統特朗普的每日行程安排，他將於美國中部夏令時間（CDT）下午6:00在俄克拉荷馬州杜蘭特市發表講話。他將於美國中部夏令時間下午3:05訪問位於得克薩斯州的彼得比爾特汽車公司（Peterbilt Motors Company），並於美國東部時間（ET）上午11:00在白宮橢圓形辦公室參加一場政策會議。"
+    },
+    {
+      "id": "5121882",
+      "time": "2026-10-01 08:38:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡市區重建局快估資料顯示，第三季私人住宅價格環比上漲1.4%。"
+    },
+    {
+      "id": "mkt:01a0f4e5-9805-7338-ab3f-635e85a30251",
+      "time": "2026-10-01 08:38:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Record $133bln inflows boost bets on RBI tightening】Record $133bln of inflows from non-resident Indians has flooded the banking system, reversing a months‑long RBI push to attract dollars to bolster reserves and defend the rupee. The surge has pushed liquidity higher and driven overnight rates below the RBI’s 5.25% policy rate, effectively lowering borrowing costs below the stance policymakers desire. To prevent excess liquidity from stoking inflation, the RBI has sold bonds and absorbed over 1 tln rupees (~$10.4bln) of liquidity and markets expect further measures in coming days. With food and oil prices adding to inflationary pressure, calls for a rate hike next week have risen; prospects of a more hawkish RBI, alongside a global rise in bond yields, have already pushed Indian yields sharply higher and unsettled investors."
+    },
     {
       "id": "mkt:01a0f4e3-46c1-7338-ab3f-5cea008bfac6",
       "time": "2026-10-01 08:35:30",

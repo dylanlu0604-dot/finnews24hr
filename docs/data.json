@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-01 08:37:39",
-  "count": 11991,
+  "updated": "2026-10-01 08:41:20",
+  "count": 11987,
   "items": [
+    {
+      "id": "te:economy:588418",
+      "time": "2026-10-01 08:39:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "South Korea Manufacturing Growth Accelerates in September — The S&P Global South Korea Manufacturing PMI rose to 53.9 in September 2026 from 52.3 in August, marking the strongest expansion since May. Output and new orders increased at their fastest rates since early 2021, with demand boosted particularly by the semiconductor and autos sectors. Export orders rose at the fastest pace since March 2011, supported by stronger sales to Europe and other Asian markets. Backlogs increased for a ninth consecutive month and at the fastest pace since May 2022, prompting a modest rise in employment. Manufacturers also increased purchasing activity as firms prepared for stronger sales ahead, although stocks of inputs fell for a second month. Meanwhile, input cost inflation eased to its slowest pace since October 2025, while output price inflation also moderated. Business confidence improved to its highest level since January 2026, supported by stronger sales expectations and easing price pressures, amid expectations for further sales growth."
+    },
+    {
+      "id": "5121883",
+      "time": "2026-10-01 08:38:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普將於週四在俄克拉荷馬州發表講話，並訪問得克薩斯州的一家卡車公司】 根據美國總統特朗普的每日行程安排，他將於美國中部夏令時間（CDT）下午6:00在俄克拉荷馬州杜蘭特市發表講話。他將於美國中部夏令時間下午3:05訪問位於得克薩斯州的彼得比爾特汽車公司（Peterbilt Motors Company），並於美國東部時間（ET）上午11:00在白宮橢圓形辦公室參加一場政策會議。"
+    },
+    {
+      "id": "5121882",
+      "time": "2026-10-01 08:38:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡市區重建局快估資料顯示，第三季私人住宅價格環比上漲1.4%。"
+    },
+    {
+      "id": "mkt:01a0f4e5-9805-7338-ab3f-635e85a30251",
+      "time": "2026-10-01 08:38:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Record $133bln inflows boost bets on RBI tightening】Record $133bln of inflows from non-resident Indians has flooded the banking system, reversing a months‑long RBI push to attract dollars to bolster reserves and defend the rupee. The surge has pushed liquidity higher and driven overnight rates below the RBI’s 5.25% policy rate, effectively lowering borrowing costs below the stance policymakers desire. To prevent excess liquidity from stoking inflation, the RBI has sold bonds and absorbed over 1 tln rupees (~$10.4bln) of liquidity and markets expect further measures in coming days. With food and oil prices adding to inflationary pressure, calls for a rate hike next week have risen; prospects of a more hawkish RBI, alongside a global rise in bond yields, have already pushed Indian yields sharply higher and unsettled investors."
+    },
     {
       "id": "mkt:01a0f4e3-46c1-7338-ab3f-5cea008bfac6",
       "time": "2026-10-01 08:35:30",
@@ -109865,78 +109909,6 @@
         "公司"
       ],
       "text": "【早間公告：山東墨龍擬配售新H股 募資淨額約1.15億港元】早間公告①震安科技：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。②民德電子：向特定物件發行股票申請獲深交所上市稽核中心稽核透過。③山東墨龍：擬根據一般性授權在香港聯合交易所有限公司主機板配售新H股，並作出相應授權。公司及配售代理同意根據《配售協議》促使不少於六名承配人認購3361.56萬股配售股份，配售價格為每股3.5港元。配售事項所得款項淨額總額預計約為11489萬港元，擬用於償還借款，結付日常業務營運產生的應付款項，包括採購原材料的付款，營運資金及一般企業用途。"
-    },
-    {
-      "id": "5110731",
-      "time": "2026-09-24 08:40:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新加坡禁止公共交通上音影片擾民 最高罰款約2600元】隨著短影片和流媒體普及，公共交通工具上的音影片外放問題受到更多關注，海外部分地區開始透過明確的處罰措施約束此類滋擾行為。自9月23日起，在新加坡公交車、公交換乘站及總站以大音量外放音樂或影片、滋擾他人的乘客，最高可被罰款500新元（約合人民幣2600元），車內飲食、亂丟垃圾、把腳放在座位上等行為，也被納入處罰範圍。（財新網）"
-    },
-    {
-      "id": "em:jjsj_rbsj:202609243883095857",
-      "time": "2026-09-24 08:40:25",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本9月製造業採購經理人指數(PMI)初值為54.1，上月為54.9。"
-    },
-    {
-      "id": "te:markets:586274",
-      "time": "2026-09-24 08:40:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Climb in Post-Holiday Trade — The Nikkei 225 Index jumped 1.6% to above 66,000 on Thursday as the market reopened following an extended holiday, with technology and artificial intelligence stocks leading gains as they caught up with global peers. Global tech and AI shares outperformed in recent sessions after Meta’s Muse personal AI agent rekindled investor interest in the sector and boosted demand for AI infrastructure stocks. Notable gainers in Japan included Kioxia Holdings (3.2%), Ibiden Co (5.9%), Advantest (1%), SoftBank Group (5.4%) and Tokyo Electron (0.8%). Meanwhile, investors remained cautious as Wall Street came under pressure on Wednesday after strong US economic data and a rebound in oil prices fueled inflation concerns and reinforced expectations for further Federal Reserve rate hikes, pushing the dollar and Treasury yields higher. Investors also continued to monitor developments in US-China talks that could lead to new trade agreements."
-    },
-    {
-      "id": "5110730",
-      "time": "2026-09-24 08:39:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "習近平抵達美國安德魯斯空軍基地發表書面講話。（新華社）"
-    },
-    {
-      "id": "5110729",
-      "time": "2026-09-24 08:38:53",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【最大長期美債ETF創歷史新低 長債熊市仍未見底】追蹤長期美國國債的最大交易所交易基金(ETF)收於歷史新低，顯示持續多年的債券熊市仍看不到明顯止跌跡象。貝萊德集團旗下iShares安碩20年期以上美國國債ETF（程式碼TLT）週三下跌1.6%，收於每股80.46美元。此前公佈的最新資料顯示美國經濟活動依然強勁，引發美國國債價格下跌。自2020年疫情時期的高點以來，TLT價格已下跌逾一半。當時，美聯儲為應對新冠疫情衝擊，將利率降至接近零的水平，帶動美國國債大幅上漲。"
-    },
-    {
-      "id": "5110728",
-      "time": "2026-09-24 08:38:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【晶泰向美國FDA提交KQTD-126新藥臨床試驗申請】9月24日，晶泰科技宣佈，其自主研發的腸道限制性高選擇性pan-TRK抑制劑KQTD-126已完成臨床前研究，並已向美國食品藥品監督管理局（FDA）提交新藥臨床試驗（IND）申請。這款抑制劑主要用於治療腸易激綜合徵（IBS）及炎症性腸病（IBD）相關慢性腸道疼痛。"
-    },
-    {
-      "id": "5110727",
-      "time": "2026-09-24 08:38:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百圖生科與艾瑋得生物達成戰略合作】9月21日，百圖生科與艾瑋得生物簽署戰略合作協議，雙方將以“AI大模型+器官晶片”為切入點，圍繞共建器官晶片資料工廠、垂直領域大模型聯合開發等方向開展深度合作。"
-    },
-    {
-      "id": "5110726",
-      "time": "2026-09-24 08:37:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華西到黃淮江淮多地雨勢較強 南方高溫將增多】9月24日至26日，華西多地降雨頻繁，並且主雨帶還會擴充套件至黃淮、江淮，局地將有暴雨，需警惕次生災害的發生，正值中秋節前後，公眾出行請留意交通安全。氣溫方面，華北中北部、東北等地將有降溫，江南、華南高溫發展。"
     }
   ]
 }
