@@ -1,7 +1,58 @@
 {
-  "updated": "2026-10-02 02:39:19",
-  "count": 11582,
+  "updated": "2026-10-02 02:43:04",
+  "count": 11580,
   "items": [
+    {
+      "id": "mkt:01a0f8c5-fb1f-7338-ab55-d2807fdd4d6f",
+      "time": "2026-10-02 02:41:59",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "Sources: the FAA will convene a board meeting on Friday to review Boeing (BA.N) 737 MAX software issues."
+    },
+    {
+      "id": "5123134",
+      "time": "2026-10-02 02:41:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：物價已經遠低於拜登和民主黨人留下的水平。這就是我贏得大選的原因，現在物價正在迅速下降。這是民主黨的錯，不是共和黨的錯——但我們正在解決這個問題！"
+    },
+    {
+      "id": "5123130",
+      "time": "2026-10-02 02:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "美泰恢復交易，股價漲幅擴大至30%。"
+    },
+    {
+      "id": "mkt:01a0f8c3-b6e2-7338-ab55-ce54621db9d4",
+      "time": "2026-10-02 02:39:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Energy Secretary wright said gasoline and diesel prices will decline after the midterm elections."
+    },
+    {
+      "id": "mkt:01a0f8c3-4bbb-7338-ab55-c7736224cbb1",
+      "time": "2026-10-02 02:39:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Trump said consumer prices are now far below levels left by Biden and Democrats and are falling rapidly; he blamed Democrats rather than Republicans and said his administration is addressing the issue."
+    },
     {
       "id": "mkt:01a0f8c2-675a-7338-ab55-b89dbcc86574",
       "time": "2026-10-02 02:38:04",
@@ -106483,74 +106534,6 @@
         "MKT News"
       ],
       "text": "Iraq's oil ministry spokesman said Iraq has no intention of leaving OPEC."
-    },
-    {
-      "id": "5112617",
-      "time": "2026-09-25 02:42:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：伊朗政權將會倒臺。"
-    },
-    {
-      "id": "5112616",
-      "time": "2026-09-25 02:41:48",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "伊拉克石油部發言人被問及伊拉克是否會退出歐佩克……他回應稱：“伊拉克是該組織的創始國，無意也無計劃退出歐佩克。”"
-    },
-    {
-      "id": "mkt:01a0d4b8-e15d-7118-868f-75b437afc312",
-      "time": "2026-09-25 02:41:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said the Iranian regime will eventually collapse and Israel will celebrate that day."
-    },
-    {
-      "id": "mkt:01a0d4b8-733c-7118-868f-6e5350439b7a",
-      "time": "2026-09-25 02:40:52",
-      "tags": [
-        "MKT News",
-        "UBS.N",
-        "Impact mixed"
-      ],
-      "text": "People familiar with the matter said UBS (UBS.N) is considering a merger with a foreign bank."
-    },
-    {
-      "id": "mkt:01a0d4b7-e953-7118-868f-61e4c34c78f4",
-      "time": "2026-09-25 02:40:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The US Senate rejected a resolution that would have limited President Trump's authority to use military force against Iran."
-    },
-    {
-      "id": "5112612",
-      "time": "2026-09-25 02:40:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀集團（UBS）正考慮與一家外國銀行進行合併。"
-    },
-    {
-      "id": "5112611",
-      "time": "2026-09-25 02:39:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國參議院否決了限制特朗普伊朗戰爭權力的決議。"
     }
   ]
 }
