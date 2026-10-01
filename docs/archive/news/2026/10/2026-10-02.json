@@ -1,7 +1,46 @@
 {
   "date": "2026-10-02",
-  "count": 576,
+  "count": 580,
   "items": [
+    {
+      "id": "mkt:01a0f9a4-847a-7ee0-a780-13d6c442461d",
+      "time": "2026-10-02 06:45:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps adviser Negdi said the US, after years deployed in Iraq and paying a heavy price, was ultimately forced to withdraw, and these developments show US power is not as strong as it claims."
+    },
+    {
+      "id": "te:markets:588914",
+      "time": "2026-10-02 06:45:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Rises by 1.34% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.34% increase."
+    },
+    {
+      "id": "mkt:01a0f9a4-7c6f-7ee0-a780-0fc7359423d9",
+      "time": "2026-10-02 06:45:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "IRGC adviser Negdi said the late supreme leader had said avenging Soleimani’s death meant driving the United States out of the region, and that steps are now being taken toward that objective."
+    },
+    {
+      "id": "5123425",
+      "time": "2026-10-02 06:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Planet Labs PBC宣佈成功發射20顆衛星。"
+    },
     {
       "id": "te:markets:588913",
       "time": "2026-10-02 06:40:01",
