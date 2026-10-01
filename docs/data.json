@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-01 20:36:29",
-  "count": 11732,
+  "updated": "2026-10-01 20:40:19",
+  "count": 11737,
   "items": [
+    {
+      "id": "5122705",
+      "time": "2026-10-01 20:39:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅馬尼亞列伊下跌超1%，兌歐元觸及1歐元兌換5.335列伊的歷史新低。"
+    },
+    {
+      "id": "5122704",
+      "time": "2026-10-01 20:38:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿拉伯管道公司宣佈與沙特阿美完成合同簽署。"
+    },
+    {
+      "id": "5122703",
+      "time": "2026-10-01 20:38:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "10月1日全球基金淨賣出價值948億印度盧比的印度股票。"
+    },
+    {
+      "id": "5122702",
+      "time": "2026-10-01 20:37:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本千葉縣東北部發生5.1級地震】據日本氣象廳訊息，當地時間10月1日21時27分左右，日本千葉縣東北部發生5.1級地震，最大震感為震度3，震源深度50公里。"
+    },
+    {
+      "id": "mkt:01a0f778-2e5f-7338-ab4c-e6ce1679d70f",
+      "time": "2026-10-01 20:37:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.1-magnitude earthquake hits northeast Chiba Prefecture, Japan】Japan Meteorological Agency said around 21:27 JST on Oct. 1 a magnitude-5.1 earthquake occurred in northeast Chiba Prefecture; maximum seismic intensity (JMA) 3; hypocenter depth 50 km."
+    },
+    {
+      "id": "5122701",
+      "time": "2026-10-01 20:37:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "埃森哲執行長表示：中東局勢帶來的直接影響持續構成逆風，且該影響在第四季度實則有所加劇。"
+    },
+    {
+      "id": "5122700",
+      "time": "2026-10-01 20:36:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【芝加哥聯儲預計美國9月失業率為4.1%】芝加哥聯儲估算美國9月失業率為4.10%，略低於8月的4.14%。這一改善源於失業人員就業前景好轉，人員離職數量小幅下降。"
+    },
+    {
+      "id": "5122699",
+      "time": "2026-10-01 20:36:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【支援率低迷 李在明任命多名總統幕僚和政府高官】韓國總統府青瓦臺10月1日宣佈，總統李在明當天任命多名幕僚和高官，以落實政府的施政綱領。一項最新民調結果顯示，李在明支援率為43%，持續處於低迷狀態。青瓦臺宣傳溝通首席秘書成耆洪當天舉行記者會說，李在明任命經濟增長首席秘書河駿坰為總統辦公室政策室室長，由產業通商部次官（副部長）文慎鶴填補其空缺。執政黨共同民主黨議員宋永吉被任命為和平外交特別輔佐官，該黨議員金炳周被任命為國防政策特別輔佐官。此外，李在明還任命財政經濟部兩名副部長級官員。（新華社）"
+    },
     {
       "id": "5122698",
       "time": "2026-10-01 20:35:40",
@@ -107661,42 +107727,6 @@
         "Importance 1"
       ],
       "text": "Canada Weekly Earnings Growth Moderates — Canada’s average weekly earnings for non-farm payroll employees rose 3.2% year-on-year to C$1,347 in July 2026, following a 3.4% increase in the previous month. Wage gains were most pronounced in finance and insurance (9.9%), management of companies and enterprises (9.4%), administrative and support, waste management and remediation services (8.5%), arts, entertainment and recreation (7.4%), and utilities (4.9%). In contrast, wages declined in forestry, logging and support activities (-3.1%) and real estate and rental and leasing (-2.9%). By province, Nova Scotia (5.6%) posted the largest increase, followed by New Brunswick (5.3%) and the Northwest Territories (4.8%). On a monthly basis, average weekly earnings were little changed in July, while average weekly hours worked remained at 33.4 hours."
-    },
-    {
-      "id": "te:economy:586548",
-      "time": "2026-09-24 20:38:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Continuing Jobless Claims",
-        "Importance 2"
-      ],
-      "text": "US Jobless Claims Fall Toward 6-Decade Low — The number of people claiming unemployment benefits fell by 1,000 to 197,000 in the second week of September, the least since the 60-year low of 189,000 from July, and below market expectations of 201,000. Continuing claims, a gauge of outstanding unemployment in the US, rose by only 2,000 to 1,719,000 in the earlier period from the downwardly revised value, remaining close to the lowest in over three years. The data extended the period of resilience in the US labor market as the Federal Reserve cites full employment. Meanwhile, initial claims filed by federal employees, which have added spotlight on the administration's signal to shrink the of public sector, fell by 38 to 362, well below historical levels."
-    },
-    {
-      "id": "te:economy:586547",
-      "time": "2026-09-24 20:38:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Retail Sales MoM",
-        "Importance 2"
-      ],
-      "text": "Canada Retail Sales Likely Rebounded in August — Retail sales in Canada likely increased 1.3% month-over-month in August 2026, rebounding from a 0.7% fall in July, according to preliminary estimates. It would mark the strongest gain in retail sales since January. Meanwhile in July, sales at motor vehicle and parts dealers were down 0.8%, posting their first decline in four months, led by lower sales at new car dealers (-1.3%). Also, sales at gasoline stations and fuel vendors declined 0.9%, sales at general merchandise dropped 1.9% and lower sales were also recorded at clothing, clothing accessories, shoes, jewelry, luggage and leather goods retailers (-1.2%). In contrast, sales went up for building material and garden equipment and supplies dealers (+0.8%) and used car dealers (+2.9%). Core retail sales, which exclude gasoline stations and fuel vendors and motor vehicle and parts dealers, were also down 0.7% in July. Year-on-year, retail sales increased 5.1%."
-    },
-    {
-      "id": "te:economy:586546",
-      "time": "2026-09-24 20:37:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Manufacturing Sales",
-        "Importance 1"
-      ],
-      "text": "Canada Manufacturing Sales Seen Rebounding in August — Canada’s manufacturing sales advance estimates indicate that total manufacturing sales increased 1.1% month-over-month in August 2026, after falling 0.4% in July. If confirmed, this would be the sharpest increase since May. The advance results indicate that the largest increases were recorded in the primary metal and chemical subsectors."
     }
   ]
 }
