@@ -1,7 +1,50 @@
 {
   "date": "2026-10-01",
-  "count": 1103,
+  "count": 1107,
   "items": [
+    {
+      "id": "5122185",
+      "time": "2026-10-01 14:41:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本電產將向凱雷集團出售零部件業務，交易價1030億日元】日本電產將把子公司日本電產零部件出售給凱雷集團旗下關聯公司，交易金額約1030億日元。這家總部位於東京的子公司研發生產開關、微調電位器以及壓力感測器等零部件。交易預計12月1日完成。日本電產表示正在評估本次交易對公司業績造成的影響。"
+    },
+    {
+      "id": "mkt:01a0f631-a435-7338-ab44-387a0c8425d5",
+      "time": "2026-10-01 14:40:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Swiss inflation hits two-year high at 1.0% but stays inside SNB target range】Swiss consumer prices rose 1.0% YoY in September, up from 0.8% in August and in line with market expectations and the Swiss National Bank's quarterly projection. The rate remains inside the SNB's 0-2% target band. Officials said most of the pickup appears temporary and mid‑term price pressure has only edged up. Core inflation excluding energy and other volatile items rose to 0.5% from 0.4%, a second consecutive monthly increase. Higher oil prices and a weaker franc added upward pressure, but energy's small weight in the CPI and a fall in clothing and footwear partly offset the effect. The SNB's policy rate has been at zero for more than a year, the lowest among major central banks."
+    },
+    {
+      "id": "5122184",
+      "time": "2026-10-01 14:38:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Bernstein維持阿迪達斯“跑贏大盤”評級，稱產品力和本地化運營支撐2027年增長】Bernstein維持阿迪達斯“跑贏大盤”評級，德國上市股份目標價245歐元，美國OTC股份目標價132.5美元。該機構在參加阿迪達斯創新日後表示，公司去中心化運營模式正在發揮作用，使各地區能夠更快根據當地需求調整設計、供應和補貨，過去兩年阿迪達斯已在各主要地區持續提升市場份額。Bernstein還指出，公司當前產品組合在專業運動與生活方式之間較為均衡，覆蓋不同用途、價格帶和風格。管理層繼續預計2027年收入實現高個位數增長，主要支撐來自較強的產品管線、北美和中國市場份額仍偏低，以及較廣的產品覆蓋。不過，Bernstein認為2027年上半年仍面臨較高基數、需求走弱及運動服飾行業促銷力度上升等風險。"
+    },
+    {
+      "id": "te:markets:588567",
+      "time": "2026-10-01 14:38:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Weakens as BOJ Summary Disappoints — The Japanese yen weakened past 158 per dollar on Thursday, moving toward one-month lows as the summary of opinions from the Bank of Japan’s September meeting fell short of investors’ expectations for stronger hawkish signals from policymakers. The summary showed the central bank shifting its focus toward preventing inflation from exceeding its target, pointing to another rate increase this year, but provided little clarity on the timing ahead of policy meetings in October and December. The yen also faced pressure from a stronger dollar and elevated Treasury yields amid expectations that the Federal Reserve may need to raise interest rates further to contain energy-driven inflation. This supports the prospect of wider US-Japan interest-rate differentials, as the Fed’s tightening cycle continued to outpace the BOJ’s rate hikes."
+    },
     {
       "id": "5122182",
       "time": "2026-10-01 14:37:32",
