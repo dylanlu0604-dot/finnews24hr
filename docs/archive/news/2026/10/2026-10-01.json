@@ -1,7 +1,56 @@
 {
   "date": "2026-10-01",
-  "count": 1024,
+  "count": 1029,
   "items": [
+    {
+      "id": "mkt:01a0f603-4173-7338-ab43-7c844831b82d",
+      "time": "2026-10-01 13:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK September Nationwide house price index m/m due in 10 minutes."
+    },
+    {
+      "id": "5122144",
+      "time": "2026-10-01 13:50:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "廣汽埃安：昊鉑埃安BU9月銷量35494輛，連續7個月逆勢正增長。"
+    },
+    {
+      "id": "mkt:01a0f602-58ba-7338-ab43-7534a9de254f",
+      "time": "2026-10-01 13:49:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Norway's Road Traffic Information Council (OFV) said Tesla (TSLA.O) new-car registrations in Norway rose 2.2% YoY in September."
+    },
+    {
+      "id": "5122143",
+      "time": "2026-10-01 13:48:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威道路交通訊息委員會 （OFV）資料顯示，9月份特斯拉在挪威的新車註冊量同比增長2.2%。"
+    },
+    {
+      "id": "5122142",
+      "time": "2026-10-01 13:48:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國秋糧開始大面積收穫 進度已過三成】我國秋糧品種多，從南到北覆蓋廣，是全年糧食生產的大頭，約佔總產量的3/4。農業農村部最新農情排程顯示，今年，全國秋糧面積預計穩中有增，特別是高產作物玉米增加較多。目前，已開始大面積收穫，進度過三成，快於去年同期。如果後期氣象條件總體正常，有望再獲豐收。（央視）"
+    },
     {
       "id": "5122141",
       "time": "2026-10-01 13:47:47",
