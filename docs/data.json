@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-02 06:21:00",
+  "updated": "2026-10-02 06:24:43",
   "count": 11696,
   "items": [
+    {
+      "id": "mkt:01a0f990-ea4f-7ee0-a77f-debd1b5df484",
+      "time": "2026-10-02 06:23:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Toshiba to invest JPY60 billion to double hard-disk drive (HDD) supply capacity."
+    },
+    {
+      "id": "5123418",
+      "time": "2026-10-02 06:23:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "耐克盤後股價跌幅擴大至8.4%。"
+    },
+    {
+      "id": "5123417",
+      "time": "2026-10-02 06:22:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：東芝將投資 600 億日元，把硬碟（HDD）供應能力翻倍。"
+    },
+    {
+      "id": "5123416",
+      "time": "2026-10-02 06:22:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：縮減薩爾瓦多比特幣相關參與度的工作仍在推進。"
+    },
     {
       "id": "5123415",
       "time": "2026-10-02 06:20:06",
@@ -107446,42 +107478,6 @@
         "Brent"
       ],
       "text": "Qatar's foreign ministry strongly condemned Houthi militants' ballistic missile strikes on the Saudi cities of Taif and Yanbu."
-    },
-    {
-      "id": "5112779",
-      "time": "2026-09-25 06:24:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：我們確實曾與特朗普達成過協議，該協議已經簽署。基於這份已商定的框架，我們願意，並且仍然希望繼續推進。我們當時並未封鎖霍爾木茲海峽，航道處於開放狀態。而對方在沒有任何法律依據、也不遵循任何協議框架的情況下對我們發動了襲擊。 \n在被問及為與美國達成協議，伊朗準備作出哪些讓步時，佩澤希齊揚表示，德黑蘭方面仍希望推進協議談判。"
-    },
-    {
-      "id": "5112778",
-      "time": "2026-09-25 06:21:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：我們從未挑起戰爭，但如果對方執意繼續與我們對抗，我們將予以強硬回擊。"
-    },
-    {
-      "id": "5112777",
-      "time": "2026-09-25 06:21:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：若遭到攻擊，我們將自衛。"
-    },
-    {
-      "id": "mkt:01a0d582-7be9-7118-8691-ab2076928ca1",
-      "time": "2026-09-25 06:21:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran president says Strait of Hormuz not closed, remains willing to advance agreement with US】Iranian President Pezeshkian told Fox News Iran \"has not closed the Strait of Hormuz.\" Asked what concessions Iran would make to reach an agreement with the US, he said: \"We have indeed reached an agreement with your president... Based on this, we are willing and still hope to move forward.\""
     }
   ]
 }
