@@ -1,7 +1,201 @@
 {
   "date": "2026-10-02",
-  "count": 161,
+  "count": 177,
   "items": [
+    {
+      "id": "5123085",
+      "time": "2026-10-02 01:47:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：對於 10 月是否加息，我沒有明確傾向。"
+    },
+    {
+      "id": "mkt:01a0f893-92e5-7338-ab54-70314552c134",
+      "time": "2026-10-02 01:46:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed's Kashkari said market inflation expectations remain anchored around 2%."
+    },
+    {
+      "id": "mkt:01a0f893-799c-7338-ab54-6ab5244ecb7c",
+      "time": "2026-10-02 01:46:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "Fed's Kashkari says U.S. Treasury market is operating normally despite rising yields."
+    },
+    {
+      "id": "5123084",
+      "time": "2026-10-02 01:46:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：我 在 9 月利率預測中預計今年還會加息一次，2027 年再加息一次。對於美聯儲加息節奏，我持開放態度。"
+    },
+    {
+      "id": "mkt:01a0f893-550b-7338-ab54-63ceea5789e2",
+      "time": "2026-10-02 01:46:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed's Kashkari said he sees no signs of systemic risk in the financial system."
+    },
+    {
+      "id": "mkt:01a0f893-3d0c-7338-ab54-5f623d782e14",
+      "time": "2026-10-02 01:46:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Kashkari said supply shocks should gradually dissipate and rate hikes are intended to rein in inflation expectations."
+    },
+    {
+      "id": "em:qqyh_mlc:202610023888298027",
+      "time": "2026-10-02 01:46:26",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲卡什卡利：對於美聯儲應該以多快的速度加息 持開放態度】美聯儲卡什卡利表示，對於10月是否加息，沒有強烈看法；對於美聯儲應該以多快的速度加息，持開放態度；取決於經濟表現，美聯儲可能需要比預期加息更多。並表示他9月的利率預測是今年再加息一次，2027年再加息一次。同時表示，從目前資料來看，金融條件並未出現明顯收緊；美聯儲9月加息表明，央行將採取行動降低通脹；沒有看到金融體系存在系統性風險的跡象；即使收益率上升，美國國債市場仍執行正常。"
+    },
+    {
+      "id": "5123083",
+      "time": "2026-10-02 01:46:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：目前貨幣政策幾乎沒有起到抑制作用。"
+    },
+    {
+      "id": "mkt:01a0f893-154d-7338-ab54-50607f54d9b1",
+      "time": "2026-10-02 01:46:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Kashkari said the Fed may need to raise rates more than currently expected if economic performance warrants."
+    },
+    {
+      "id": "5123082",
+      "time": "2026-10-02 01:46:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：自美聯儲 9 月政策會議以來，經濟表現超出預期。根據資料，金融環境並未出現實質性收緊。"
+    },
+    {
+      "id": "mkt:01a0f892-c223-7338-ab54-4a2ae1151634",
+      "time": "2026-10-02 01:46:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Kashkari said the U.S. economy has performed better than expected since the Fed's September policy meeting."
+    },
+    {
+      "id": "mkt:01a0f892-a7ca-7338-ab54-41fcae3a3586",
+      "time": "2026-10-02 01:45:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Kashkari said markets currently expect Fed Chair Warsh to act to lower inflation."
+    },
+    {
+      "id": "5123081",
+      "time": "2026-10-02 01:45:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：當前貨幣政策並未起到明顯的抑制作用。"
+    },
+    {
+      "id": "mkt:01a0f892-8177-7338-ab54-3a5267d326b5",
+      "time": "2026-10-02 01:45:45",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Kashkari said he has some confidence that inflation will ease, but shocks continue to occur."
+    },
+    {
+      "id": "5123080",
+      "time": "2026-10-02 01:45:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：從現有資料來看，金融條件並未出現實質性收緊。"
+    },
+    {
+      "id": "mkt:01a0f892-616b-7338-ab54-36513e0a232d",
+      "time": "2026-10-02 01:45:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Kashkari said the Fed's September rate hike signals the central bank will act to reduce inflation."
+    },
     {
       "id": "5123079",
       "time": "2026-10-02 01:45:25",
