@@ -1,7 +1,113 @@
 {
   "date": "2026-10-02",
-  "count": 544,
+  "count": 555,
   "items": [
+    {
+      "id": "mkt:01a0f989-8fbe-7ee0-a77f-c93131855652",
+      "time": "2026-10-02 06:15:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said Iran must take very appropriate, wise action or it will not last long, and warned Tehran is very likely not to comply even if an agreement is reached."
+    },
+    {
+      "id": "5123413",
+      "time": "2026-10-02 06:15:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織批准向薩爾瓦多提供1.3億美元資金，並稱薩爾瓦多沒有計劃再次購入比特幣。"
+    },
+    {
+      "id": "5123412",
+      "time": "2026-10-02 06:15:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織關於薩爾瓦多的表態：目前薩爾瓦多正在持續推進相關工作，以縮減政府在比特幣相關業務中的參與度，並強化對加密資產的監管與監督。"
+    },
+    {
+      "id": "5123411",
+      "time": "2026-10-02 06:15:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織談薩爾瓦多：協議允許立即發放等值1.38億美元的資金。"
+    },
+    {
+      "id": "5123410",
+      "time": "2026-10-02 06:15:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織談薩爾瓦多：部分績效指標未達標，其中包括比特幣累積方面的指標。"
+    },
+    {
+      "id": "te:markets:588910",
+      "time": "2026-10-02 06:15:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Depreciates by 1.30% — Top currency losers are Mexican Peso (-1.30%), Brazilian Real (-1.03%), Polish Zloty (-1%), Euro (-0.77%), British Pound (-0.53%) and Japanese Yen (-0.43%). Gains are led by Dollar Index (0.58%) and Swiss Franc (0.57%)."
+    },
+    {
+      "id": "mkt:01a0f988-e4b8-7ee0-a77f-c15bb55278b6",
+      "time": "2026-10-02 06:14:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said Iran was three to four weeks from producing a nuclear weapon in February 2026, possibly sooner."
+    },
+    {
+      "id": "5123409",
+      "time": "2026-10-02 06:14:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：伊朗之前的領導層已經不在了，我們正試圖對現任總統保持友好。我們總得跟某個人打交道。伊朗的軍事生產能力已經崩潰，其大多數領導人已經沒了。幾個月來，伊朗一直未能讓其一艘船隻透過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:01a0f988-724a-7ee0-a77f-b96c221baa45",
+      "time": "2026-10-02 06:14:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said most of Iran's leadership are gone and that the U.S. does not know who to deal with now."
+    },
+    {
+      "id": "mkt:01a0f988-00dc-7ee0-a77f-b54bc34ffb59",
+      "time": "2026-10-02 06:13:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said Iran has for months been unable to get one of its vessels through the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a0f987-d938-7ee0-a77f-af09bd2d7731",
+      "time": "2026-10-02 06:13:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Iran's military production capacity has collapsed and most of its leadership is gone."
+    },
     {
       "id": "5123408",
       "time": "2026-10-02 06:12:58",
