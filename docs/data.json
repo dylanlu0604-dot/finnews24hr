@@ -1,7 +1,114 @@
 {
-  "updated": "2026-10-02 02:05:10",
-  "count": 11612,
+  "updated": "2026-10-02 02:12:39",
+  "count": 11611,
   "items": [
+    {
+      "id": "mkt:01a0f8a9-e410-7338-ab55-0e83224996ad",
+      "time": "2026-10-02 02:11:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge ordered the reinstatement of the court-appointed chief federal prosecutor in Seattle who had been dismissed by President Trump."
+    },
+    {
+      "id": "mkt:01a0f8a7-f16d-7338-ab55-047f3f7f6699",
+      "time": "2026-10-02 02:09:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Vice Chair Jefferson encouraged responsible development of artificial intelligence."
+    },
+    {
+      "id": "5123109",
+      "time": "2026-10-02 02:09:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜： 鼓勵人工智慧的負責任發展。"
+    },
+    {
+      "id": "mkt:01a0f8a7-c9fe-7338-ab54-ffb62eb122dc",
+      "time": "2026-10-02 02:09:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC launches Mods to allow customization of Claude Code execution using small TypeScript functions."
+    },
+    {
+      "id": "5123108",
+      "time": "2026-10-02 02:08:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特內政部：初步調查顯示，迪拜航空的副駕駛襲擊了機長。機長和副駕駛在週四早晨獲得醫療許可後前往阿布扎比。"
+    },
+    {
+      "id": "mkt:01a0f8a7-3359-7338-ab54-f0e0daf97945",
+      "time": "2026-10-02 02:08:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Interior Ministry said the captain and first officer traveled to Abu Dhabi Thursday morning after receiving medical clearance."
+    },
+    {
+      "id": "5123107",
+      "time": "2026-10-02 02:08:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：美聯儲的雙重使命蘊含著深刻的智慧。人工智慧可能會在未來帶來顯著的生產力提升。"
+    },
+    {
+      "id": "mkt:01a0f8a6-fa93-7338-ab54-e9a0b11f73bb",
+      "time": "2026-10-02 02:08:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish president signed a surprise tax law targeting energy companies."
+    },
+    {
+      "id": "mkt:01a0f8a6-e88c-7338-ab54-e76ff9ad38a3",
+      "time": "2026-10-02 02:08:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Vice Chair Jefferson said artificial intelligence could bring significant productivity gains over time."
+    },
+    {
+      "id": "mkt:01a0f8a6-d047-7338-ab54-dc767000c525",
+      "time": "2026-10-02 02:07:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Interior Ministry says a preliminary investigation found the co‑pilot of Dubai Aviation assaulted the captain."
+    },
+    {
+      "id": "5123106",
+      "time": "2026-10-02 02:05:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：今日推出 Mods，這類小型 TypeScript 函式可改變 Claude Code 的執行方式。"
+    },
+    {
+      "id": "5123105",
+      "time": "2026-10-02 02:05:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【報道：美國向中東派遣第三艘航母，並增派至多1萬名士兵】據美媒援引美國官員報道，五角大樓正向中東派遣第三支航母打擊群以及多艘新增海軍陸戰隊艦船，將向該地區增派 9000‑10000 名士兵。當下特朗普總統正考慮中期選舉結束之後重啟對伊朗的打擊行動。官員表示，上述艦船及士兵將於 11 月底前抵達中東。特朗普近期向幕僚表示，他預計會在 11 月恢復對伊朗的轟炸。目前中東已經部署了 “喬治・H・W・布什” 號與 “喬治・華盛頓” 號兩艘航母。如果 “華盛頓” 號在 “羅斯福” 號抵達之後繼續留守，中東將自 4 月以來再度同時部署三支航母打擊群。一名官員稱，本週啟航戰艦上新增的作戰人員，將疊加至中東已有的 5 萬美軍之上。"
+    },
     {
       "id": "mkt:01a0f8a3-6963-7338-ab54-d791da3b75a5",
       "time": "2026-10-02 02:04:13",
@@ -106635,111 +106742,6 @@
         "其他"
       ],
       "text": "內塔尼亞胡：我們必將獲勝，我們別無選擇。"
-    },
-    {
-      "id": "5112564",
-      "time": "2026-09-25 02:12:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：中央情報局未就俄羅斯威脅向法國發出警告。"
-    },
-    {
-      "id": "5112563",
-      "time": "2026-09-25 02:10:58",
-      "tags": [
-        "觀點"
-      ],
-      "text": "人工智慧對沖基金 Situational Awareness 成為今年高盛最大的主經紀業務客戶。"
-    },
-    {
-      "id": "5112562",
-      "time": "2026-09-25 02:10:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "MercadoLibre旗下藥房本月起將在巴西銷售處方藥。"
-    },
-    {
-      "id": "5112561",
-      "time": "2026-09-25 02:09:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：習近平主席和我建立了深厚的友誼】當地時間9月24日上午，國家主席習近平出席美國總統特朗普在白宮舉行的歡迎儀式。特朗普總統發表致辭。特朗普說：“自2016年我首次當選以來，習近平主席和我建立了深厚的友誼。這份友誼建立在相互尊重和兩國人民的根本利益之上。”（央視）"
-    },
-    {
-      "id": "5112560",
-      "time": "2026-09-25 02:08:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列總理聯大講話多國代表離場】當地時間9月24日下午，以色列總理內塔尼亞胡在第81屆聯合國大會一般性辯論發表講話。現場大多數國家代表離場以示抗議。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5112559",
-      "time": "2026-09-25 02:08:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：我告訴敘利亞總統，自摩西時代起猶太人就一直居住在戈蘭高地。"
-    },
-    {
-      "id": "5112558",
-      "time": "2026-09-25 02:08:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：如果我們沒有摧毀伊朗的核設施，我們所有人現在都已經沒命了。"
-    },
-    {
-      "id": "5112557",
-      "time": "2026-09-25 02:08:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：許多國家因以色列摧毀伊朗核設施而向其致謝。"
-    },
-    {
-      "id": "5112556",
-      "time": "2026-09-25 02:07:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：以色列正在保衛許多代表們剛剛離開的大廳的國家。"
-    },
-    {
-      "id": "5112555",
-      "time": "2026-09-25 02:07:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：摧毀伊朗的核設施絕非易事。"
-    },
-    {
-      "id": "5112554",
-      "time": "2026-09-25 02:07:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡表示：“摧毀伊朗的核設施絕非易事。但對我來說，這卻是我做過的最輕而易舉的決定之一。”"
-    },
-    {
-      "id": "5112553",
-      "time": "2026-09-25 02:06:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡稱退出聯合國大會會場的人士為“道德懦夫”。"
-    },
-    {
-      "id": "5112552",
-      "time": "2026-09-25 02:05:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期美國國債收益率上漲7個基點，至日內高點5.47%。"
     }
   ]
 }
