@@ -1,7 +1,160 @@
 {
   "date": "2026-10-02",
-  "count": 183,
+  "count": 197,
   "items": [
+    {
+      "id": "mkt:01a0f89c-5f53-7338-ab54-b40c16a352b2",
+      "time": "2026-10-02 01:56:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude jumped over 4% intraday to $101.53/bbl; WTI traded above $92/bbl, up 2.87% on the day."
+    },
+    {
+      "id": "5123097",
+      "time": "2026-10-02 01:56:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：美聯儲當前有更多餘地聚焦通脹目標。"
+    },
+    {
+      "id": "mkt:01a0f89b-f28f-7338-ab54-ae9cec074353",
+      "time": "2026-10-02 01:56:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US deploys third carrier strike group to Middle East, plans up to 10,000 additional troops】The Wall Street Journal, citing US officials, reports the Pentagon is dispatching a third carrier strike group plus additional amphibious ships and up to 9,000–10,000 service members to the Middle East, with ships, aircraft and personnel expected to arrive by end-November. USS George H. W. Bush and USS George Washington are already in theater; USS Theodore Roosevelt departed San Diego and the USS Makin Island amphibious ready group has sailed. If George Washington remains, the US would have three carrier strike groups operating in the region simultaneously for the first time since April. The Pentagon has also extended deployments for air‑defense units and the 82nd Airborne. More than 50,000 US personnel and roughly 20 US Navy vessels are currently in the region. The report adds President Trump is considering resuming strikes on Iran after the midterms if no agreement is reached; an additional carrier would increase US operational options and firepower."
+    },
+    {
+      "id": "5123096",
+      "time": "2026-10-02 01:55:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破93美元/桶，日內漲2.89%。"
+    },
+    {
+      "id": "5123095",
+      "time": "2026-10-02 01:55:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：美國經濟已非常接近充分就業狀態。"
+    },
+    {
+      "id": "5123094",
+      "time": "2026-10-02 01:55:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破102美元/桶，日內漲4.13%。"
+    },
+    {
+      "id": "5123093",
+      "time": "2026-10-02 01:55:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報101.98美元/桶。"
+    },
+    {
+      "id": "5123092",
+      "time": "2026-10-02 01:55:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：特朗普近日告訴助手他預計將恢復對伊朗的轟炸，特朗普預計將在11月底前恢復對伊朗的轟炸。"
+    },
+    {
+      "id": "5123091",
+      "time": "2026-10-02 01:53:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：美聯儲必須做好必要準備，以鞏固通脹預期。美聯儲堅定致力於及時將通脹降至 2%。"
+    },
+    {
+      "id": "mkt:01a0f899-eced-7338-ab54-a2b1ced2f4c0",
+      "time": "2026-10-02 01:53:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Vice Chair JEFFERSON said the Fed is firmly committed to restoring inf to 2% in a timely manner."
+    },
+    {
+      "id": "mkt:01a0f899-e2ac-7338-ab54-9e0a46a5662f",
+      "time": "2026-10-02 01:53:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Vice Chair Jefferson said the Fed must take necessary actions to verify inf expectations."
+    },
+    {
+      "id": "mkt:01a0f899-c7fb-7338-ab54-96a47834e106",
+      "time": "2026-10-02 01:53:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Vice Chair JEFFERSON said inflation was driven by a series of shocks."
+    },
+    {
+      "id": "5123090",
+      "time": "2026-10-02 01:53:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：長期通脹預期表明，美聯儲在壓低通脹方面具備公信力。"
+    },
+    {
+      "id": "mkt:01a0f899-7e05-7338-ab54-8bf4c0bf5634",
+      "time": "2026-10-02 01:53:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve Vice Chair JEFFERSON said long-term inf expectations indicate the Fed retains credibility in lowering inf."
+    },
     {
       "id": "5123089",
       "time": "2026-10-02 01:52:24",
