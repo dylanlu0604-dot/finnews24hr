@@ -1,7 +1,137 @@
 {
-  "updated": "2026-10-01 20:59:30",
-  "count": 11764,
+  "updated": "2026-10-01 21:03:50",
+  "count": 11777,
   "items": [
+    {
+      "id": "mkt:01a0f78f-9487-7338-ab4d-4a0413ac722f",
+      "time": "2026-10-01 21:02:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chicago Fed real-time estimate for September unemployment rate is 4.10%, slightly below the 4.14% reported by the U.S. Bureau of Labor Statistics last month."
+    },
+    {
+      "id": "5122738",
+      "time": "2026-10-01 21:02:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "飛艇人工智慧公司獲得美國國土安全部授予的2900萬美元合同。"
+    },
+    {
+      "id": "5122737",
+      "time": "2026-10-01 21:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，截至10月1日21時，2026國慶節總票房1.74億，《神探之痕跡》成2026年國慶節票房冠軍。 2026年國慶節票房TOP5 1、《神探之痕跡》 2、《什麼意思夫婦》 3、《復仇者聯盟4：終局之戰（加碼臻享版）》 4、《小豬佩奇·完美假期》 5、《歡迎來龍餐館》。"
+    },
+    {
+      "id": "5122736",
+      "time": "2026-10-01 21:01:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【桑切斯當面向馬克龍道歉】據“歐洲新聞網”等媒體9月30日報道，西班牙與法國簽署的《友好合作條約》近日未獲得西班牙參議院批准，西班牙首相桑切斯為此當面向法國總統馬克龍道歉。據外媒報道，2023年1月，西班牙與法國簽署了《友好合作條約》。該條約後來獲得法國方面與西班牙眾議院批准，但在西班牙參議院9月29日進行的投票表決中未獲得透過。該條約爭議點之一是一項允許法國政府成員參加西班牙內閣會議（反之亦然）的條款。（環球網）"
+    },
+    {
+      "id": "5122735",
+      "time": "2026-10-01 21:01:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電話電報公司（AT&T）將成立合資企業，在傳統服務覆蓋有限的地區提供衛星連線服務。"
+    },
+    {
+      "id": "te:markets:588794",
+      "time": "2026-10-01 21:01:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Lower Amid Global Bond Rout — Futures tracking the TSX inched lower on Thursday as a global bond rout pushed borrowing costs to multi-decade highs amid volatile oil prices. Global bonds extended their selloff, weighing on broader markets. The Canadian 10-year yield eased on Thursday but remained near multi-year highs. Oil prices rose further on reports of tighter Chinese fuel supplies, fueling persistent energy-driven inflation concerns, pushing yields higher and pressuring credit-sensitive sectors. Meanwhile, miners were set to open higher as gold prices climbed amid reduced expectations for another Fed interest-rate hike this month, after softer-than-expected US PCE inflation data eased rate-hike concerns. Canada’s September PMI data, due later in the day, will offer a read on business activity."
+    },
+    {
+      "id": "5122734",
+      "time": "2026-10-01 21:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "應用材料與Besi擴大合作伙伴關係。"
+    },
+    {
+      "id": "5122733",
+      "time": "2026-10-01 21:00:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜新款Kindle配件包括80美元保護套和35美元遙控器。"
+    },
+    {
+      "id": "5122732",
+      "time": "2026-10-01 21:00:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜入門款Kindle售價150美元。"
+    },
+    {
+      "id": "5122731",
+      "time": "2026-10-01 21:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球巴西9月製造業採購經理人指數為44.8，8月為46.3。"
+    },
+    {
+      "id": "mkt:01a0f78d-01b8-7338-ab4d-422400cd41d0",
+      "time": "2026-10-01 21:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's central bank gold and foreign-exchange reserves for the week to Sept. 25 were $742.7 bln, down from $748.2 bln a week earlier."
+    },
+    {
+      "id": "5122730",
+      "time": "2026-10-01 21:00:07",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯至9月25日當週央行黃金和外匯儲備 7427億美元，前值7482億美元。"
+    },
+    {
+      "id": "mkt:01a0f78c-e7e7-7338-ab4d-383fb7a5e82c",
+      "time": "2026-10-01 21:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Russia | International Reserves (Sep.25) | actual 742700000000B | previous 748200000000B"
+    },
+    {
+      "id": "5122729",
+      "time": "2026-10-01 20:59:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【現代汽車9月全球銷量同比降16% 起亞增5.1%】據現代汽車和起亞1日釋出的業績報告，現代汽車9月全球銷量同比下滑16%，起亞則得益於海外銷量增加而同比增長5.1%。9月，現代汽車全球銷量同比下降16%，為30.7998萬輛。其中，韓國本土銷量同比下降25.7%，為4.9022萬輛；海外銷量同比下降13.9%，為25.8976萬輛。起亞全球銷量同比增長5.1%，為28.1984萬輛。其中，本土銷量同比下降6.7%，為4.5705萬輛；海外銷量同比增長7.5%，為23.5457萬輛。值得一提的是，起亞第三季度全球總銷量達到84.6764萬輛，創下自1962年開始銷售汽車以來的歷年同期最高紀錄。"
+    },
+    {
+      "id": "mkt:01a0f78c-52e1-7338-ab4d-34d7d1c5b184",
+      "time": "2026-10-01 20:59:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks"
+      ],
+      "text": "Amazon (AMZN.O) launches new Kindle Paperwhite with battery life up to 12 weeks; 16GB graphite model starts at $199.99."
+    },
     {
       "id": "5122728",
       "time": "2026-10-01 20:58:41",
@@ -107938,28 +108068,6 @@
         "市場"
       ],
       "text": "【新加坡法院裁定Radiant World創始人失去對公司的控制權】新加坡一家法院週四任命畢馬威重組業務高管接管Radiant World，批准債權人瑞穗銀行提出的申請。瑞穗指控這家貿易商在鐵礦石應收賬款融資中涉嫌欺詐。這一決定意味著Radiant World創始人Pinkesh Nahar失去對集團核心運營實體的控制權。瞭解法院決定的知情人士稱，畢馬威的Toh Ai Ling、Adrian Chan和Tan Yen Chiaw將擔任Radiant World Corporation Pte.的臨時司法管理人。該公司是Radiant World在新加坡的核心運營實體。法院週四傳達了這一決定。"
-    },
-    {
-      "id": "te:markets:586563",
-      "time": "2026-09-24 21:02:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Slips as Fed Tightening Bets Weigh on Metals — Silver fell below $64 an ounce on Thursday, pressured by growing expectations that the US Federal Reserve could tighten monetary policy further. Rising inflation pressures and signs of a resilient economy are reinforcing bets on another rate hike, with traders increasing positions for a second consecutive tightening in late October. The pressure on precious metals intensified as the US dollar climbed to a two-month high, following data showing US business activity expanded in September at its fastest pace in more than five years. Meanwhile, weekly jobless claims fell to a near 60-year low, underscoring the strength of the labor market and supporting expectations for tighter policy. Elsewhere, oil prices continued to rise as US-Iran diplomatic talks showed no concrete signs of progress, raising concerns over potential supply disruptions."
-    },
-    {
-      "id": "te:markets:586561",
-      "time": "2026-09-24 21:01:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Prices Slip as Strong US Data Fuels Fed Tightening Bets — Gold prices edged lower to around $4,280 an ounce on Thursday, moving closer to their lowest level since early August, weighed by expectations that the US Federal Reserve could tighten monetary policy further. Mounting US inflation pressures and signs of a resilient economy appear to be reinforcing expectations of another rate hike, with traders increasing bets on a second consecutive policy tightening in late October. The pressure on gold intensified as the dollar climbed to its strongest level in two months, following data showing that US business activity expanded at its fastest pace in more than five years. Meanwhile, weekly jobless claims fell to a near 60-year low, further highlighting the resilience of the US labor market and strengthening the case for tighter monetary policy. Elsewhere, oil prices continued to rise as diplomatic talks between the US and Iran failed to show any concrete signs of progress, adding to concerns over potential supply disruptions."
     }
   ]
 }
