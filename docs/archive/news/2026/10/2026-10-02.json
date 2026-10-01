@@ -1,7 +1,55 @@
 {
   "date": "2026-10-02",
-  "count": 581,
+  "count": 586,
   "items": [
+    {
+      "id": "mkt:01a0f9ac-6a3d-7ee0-a780-27ea2c5a97e3",
+      "time": "2026-10-02 06:53:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Saudi-led coalition says it intercepted Houthi missiles, drones】Saudi-led coalition spokesman Turki al-Maliki said on social media on the 1st that coalition forces intercepted and destroyed two ballistic missiles and four UAVs launched by Yemen's Houthi movement toward southwest Saudi cities Khamis Mushait and Jazan."
+    },
+    {
+      "id": "5123429",
+      "time": "2026-10-02 06:52:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特主導聯軍稱攔截葉門胡塞武裝導彈和無人機】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基1日在社交媒體上說，多國聯軍當天攔截並摧毀葉門胡塞武裝向沙特西南部城市海米斯穆謝特和賈贊發射的兩枚彈道導彈，以及其向海米斯穆謝特發射的4架無人機。馬利基還說，聯軍正持續採取作戰措施，以威懾葉門胡塞武裝。沙特民防總局當天發表宣告說，海米斯穆謝特民防部門處置了一起胡塞武裝彈道導彈被攔截後碎片墜落居民區的事件，墜落碎片造成多棟建築和一些車輛受損。另據馬利基當天在社交媒體發表的宣告，胡塞武裝9月29日使用無人機襲擊沙特麥地那的一處配電站，導致一臺變壓器停止執行，但未影響電網執行。宣告說，有關部門的調查結果及無人機殘骸等證據顯示胡塞武裝策劃並實施了此次襲擊。（新華社）"
+    },
+    {
+      "id": "5123428",
+      "time": "2026-10-02 06:52:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國行政管理和預算局釋出 2027 年聯邦經濟指標公佈時間表。"
+    },
+    {
+      "id": "5123427",
+      "time": "2026-10-02 06:51:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列正在對加沙城以東“黃線”以內多個地區發動空襲。"
+    },
+    {
+      "id": "mkt:01a0f9aa-364d-7ee0-a780-1fca5a4ca59f",
+      "time": "2026-10-02 06:51:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Market sources: Israel is conducting air strikes on multiple areas within the \"yellow line\" east of Gaza City."
+    },
     {
       "id": "5123426",
       "time": "2026-10-02 06:47:33",
