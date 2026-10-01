@@ -1,7 +1,34 @@
 {
   "date": "2026-10-02",
-  "count": 259,
+  "count": 262,
   "items": [
+    {
+      "id": "5123128",
+      "time": "2026-10-02 02:35:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱24小時內遭沙特空襲47次】當地時間10月1日晚，葉門胡塞武裝釋出宣告稱，過去24小時，沙特對胡塞武裝控制區實施了47次空襲，目標覆蓋塔伊茲省、薩達省等多地。自9月3日局勢升級以來，沙特一共發動了1256次空襲和導彈襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0f8bd-3405-7338-ab55-af9406d25a22",
+      "time": "2026-10-02 02:32:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "IBM.N"
+      ],
+      "text": "IBM (IBM.N) launched IBM Bob, a self-hosted solution designed to strengthen autonomous AI management and governance."
+    },
+    {
+      "id": "5123127",
+      "time": "2026-10-02 02:31:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 11月原油期貨收報92.87美元/桶。NYMEX 10月天然氣期貨收報2.9670美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.4026美元/加侖，NYMEX 10月取暖油期貨收報4.6420美元/加侖。"
+    },
     {
       "id": "5123126",
       "time": "2026-10-02 02:30:40",

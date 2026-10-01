@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-02 02:31:44",
-  "count": 11592,
+  "updated": "2026-10-02 02:35:31",
+  "count": 11588,
   "items": [
+    {
+      "id": "5123128",
+      "time": "2026-10-02 02:35:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱24小時內遭沙特空襲47次】當地時間10月1日晚，葉門胡塞武裝釋出宣告稱，過去24小時，沙特對胡塞武裝控制區實施了47次空襲，目標覆蓋塔伊茲省、薩達省等多地。自9月3日局勢升級以來，沙特一共發動了1256次空襲和導彈襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0f8bd-3405-7338-ab55-af9406d25a22",
+      "time": "2026-10-02 02:32:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "IBM.N"
+      ],
+      "text": "IBM (IBM.N) launched IBM Bob, a self-hosted solution designed to strengthen autonomous AI management and governance."
+    },
+    {
+      "id": "5123127",
+      "time": "2026-10-02 02:31:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 11月原油期貨收報92.87美元/桶。NYMEX 10月天然氣期貨收報2.9670美元/百萬英熱單位。NYMEX 10月汽油期貨收報3.4026美元/加侖，NYMEX 10月取暖油期貨收報4.6420美元/加侖。"
+    },
     {
       "id": "5123126",
       "time": "2026-10-02 02:30:40",
@@ -106568,69 +106595,6 @@
         "Impact mixed"
       ],
       "text": "Sources said Paramount (PSKY.O) plans to launch a free tier and introduce short-form drama content."
-    },
-    {
-      "id": "mkt:01a0d4b3-01ea-7118-868f-3e5983059c3c",
-      "time": "2026-09-25 02:34:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D fell 0.99% at the Sept 24 (Thu) evening close to 926.5 yuan/gram; Silver T+D dropped 2.93% to 15,658.0 yuan/kg."
-    },
-    {
-      "id": "5112605",
-      "time": "2026-09-25 02:34:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡：“那些日子已經結束了。”"
-    },
-    {
-      "id": "mkt:01a0d4b2-6001-7118-868f-3250006f90f6",
-      "time": "2026-09-25 02:34:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel prevented genocide."
-    },
-    {
-      "id": "mkt:01a0d4b2-1c9f-7118-868f-2b0b737ad6f4",
-      "time": "2026-09-25 02:33:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Prime Minister Netanyahu told New York's mayor, \"You can't make me shut up.\""
-    },
-    {
-      "id": "mkt:01a0d4b1-3208-7118-868f-2348a80b9e64",
-      "time": "2026-09-25 02:32:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Netanyahu, speaking at the United Nations, rejected accusations that Israel is committing genocide and criticized several figures, including the New York City mayor."
-    },
-    {
-      "id": "5112604",
-      "time": "2026-09-25 02:32:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡對曼達尼：你無法讓我緘默。"
-    },
-    {
-      "id": "mkt:01a0d4b0-389d-7118-868f-1fe6e6dcbe31",
-      "time": "2026-09-25 02:31:53",
-      "tags": [
-        "MKT News",
-        "ALK.O",
-        "Impact bullish",
-        "BA.N"
-      ],
-      "text": "Alaska Airlines COO said the carrier expects to take delivery of its first Boeing 737 MAX 10 aircraft in spring next year."
     }
   ]
 }
