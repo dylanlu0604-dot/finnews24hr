@@ -1,7 +1,56 @@
 {
   "date": "2026-10-01",
-  "count": 634,
+  "count": 639,
   "items": [
+    {
+      "id": "5121875",
+      "time": "2026-10-01 08:25:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少1.71噸】截至2026年09月30日，全球最大的黃金ETF SPDR Gold Trust持倉量為1055.70噸，較前一個交易日減少1.71噸。"
+    },
+    {
+      "id": "5121874",
+      "time": "2026-10-01 08:24:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普將於美國中部時間下午6點發表講話。"
+    },
+    {
+      "id": "mkt:01a0f4d7-36ca-7338-ab3f-0bf41d882a29",
+      "time": "2026-10-01 08:22:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【South Korea exports surge; Jan–Sep shipments top $814.5bn】South Korea’s exports continued to surge in September, driven by AI-related global demand lifting semiconductor shipments; working-day adjusted exports rose 104.9% YoY, Korea Customs Service said on Thursday. Cumulative exports for Jan–Sep reached $814.5bn, the first time above $800bn and a record. The semiconductor boom is also boosting public finances: Seoul expects record tax revenue of 478.6 trillion won (~$353bn) in the year, up 28% vs 2025, citing chipmakers’ profits, special dividends, a buoyant stock market and consumer recovery. Strong exports are improving the external balance and could support won appreciation, help curb imported inflation and give policymakers greater flexibility around the timing of the next rate move."
+    },
+    {
+      "id": "5121872",
+      "time": "2026-10-01 08:22:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "審計師未發表意見後，日本電產股價下跌18%。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202610013888186133",
+      "time": "2026-10-01 08:21:52",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本大型製造商信心升至2018年以來最高 料支援央行繼續加息】日本大型製造商信心升至逾八年來最高水平，為日本央行繼續加息提供了支援。日本央行週四公佈的季度短觀調查顯示，9月份大型製造業信心指數從22升至24，連續第六個季度改善。大型非製造商信心指數則從37小幅降至35。指數為正意味著認為經營狀況“良好”的企業多於認為“不佳”的企業。"
+    },
     {
       "id": "5121871",
       "time": "2026-10-01 08:21:09",

@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-01 08:22:32",
-  "count": 11995,
+  "updated": "2026-10-01 08:26:19",
+  "count": 11993,
   "items": [
+    {
+      "id": "5121875",
+      "time": "2026-10-01 08:25:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少1.71噸】截至2026年09月30日，全球最大的黃金ETF SPDR Gold Trust持倉量為1055.70噸，較前一個交易日減少1.71噸。"
+    },
+    {
+      "id": "5121874",
+      "time": "2026-10-01 08:24:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普將於美國中部時間下午6點發表講話。"
+    },
+    {
+      "id": "mkt:01a0f4d7-36ca-7338-ab3f-0bf41d882a29",
+      "time": "2026-10-01 08:22:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【South Korea exports surge; Jan–Sep shipments top $814.5bn】South Korea’s exports continued to surge in September, driven by AI-related global demand lifting semiconductor shipments; working-day adjusted exports rose 104.9% YoY, Korea Customs Service said on Thursday. Cumulative exports for Jan–Sep reached $814.5bn, the first time above $800bn and a record. The semiconductor boom is also boosting public finances: Seoul expects record tax revenue of 478.6 trillion won (~$353bn) in the year, up 28% vs 2025, citing chipmakers’ profits, special dividends, a buoyant stock market and consumer recovery. Strong exports are improving the external balance and could support won appreciation, help curb imported inflation and give policymakers greater flexibility around the timing of the next rate move."
+    },
+    {
+      "id": "5121872",
+      "time": "2026-10-01 08:22:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "審計師未發表意見後，日本電產股價下跌18%。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202610013888186133",
+      "time": "2026-10-01 08:21:52",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本大型製造商信心升至2018年以來最高 料支援央行繼續加息】日本大型製造商信心升至逾八年來最高水平，為日本央行繼續加息提供了支援。日本央行週四公佈的季度短觀調查顯示，9月份大型製造業信心指數從22升至24，連續第六個季度改善。大型非製造商信心指數則從37小幅降至35。指數為正意味著認為經營狀況“良好”的企業多於認為“不佳”的企業。"
+    },
     {
       "id": "5121871",
       "time": "2026-10-01 08:21:09",
@@ -109920,81 +109969,6 @@
         "公司"
       ],
       "text": "【Meta推出了一款掌上專用裝置 方便使用者隨時隨地使用Muse】Meta Platforms Inc. 釋出了 Muse Charm，這是一款手掌大小的裝置，用於使用該公司的人工智慧助手 Muse，配備 2 英寸顯示屏和新的作業系統。該產品由Meta執行長在臺上釋出。 該裝置具有 OLED 觸控式螢幕、5G 調變解調器和攝像頭等功能，並可用拇指進行導航，使使用者能夠自定義虛擬Muse角色並與之互動。Muse Charm 將於 12 月上市，價格預計與智慧手錶相當，使用者可在沒有 Wi-Fi 的情況下訪問 Muse 系列產品，並在附近時與其他 Muse Charm 裝置進行互動。知情人士透露，該公司最初計劃在 2027 年將這款裝置推向市場，但扎克伯格敦促團隊提前至 2026 年釋出，並在年底前上市銷售。"
-    },
-    {
-      "id": "5110718",
-      "time": "2026-09-24 08:26:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率上漲8.0個基點至3.055%，為1996年8月以來最高。"
-    },
-    {
-      "id": "mkt:01a0d0cc-bac0-7118-8673-25a5fe3f4f0f",
-      "time": "2026-09-24 08:24:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "9984.T",
-        "Impact bullish",
-        "3205.T"
-      ],
-      "text": "Japanese chip stocks rallied: SoftBank Group shares rose 6.8%, Ibiden advanced 14%, Kioxia gained 3.7%."
-    },
-    {
-      "id": "mkt:01a0d0cc-13bd-7118-8673-196d3e53aa93",
-      "time": "2026-09-24 08:23:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "BA.O",
-        "Impact bullish"
-      ],
-      "text": "【Trump says Boeing orders will create tens of thousands of U.S. jobs】Trump posted on social media that Turkey and Bangladesh have agreed to purchase 111 Boeing (BA.N) aircraft, with options for 50 more, citing support from Howard Lutnick and the U.S. Commerce Department. He said the deal represents tens of billions of dollars in sales and substantial U.S. exports and will create tens of thousands of American jobs."
-    },
-    {
-      "id": "mkt:01a0d0cb-71c0-7118-8673-14a093789309",
-      "time": "2026-09-24 08:23:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell below $64/oz, down 0.70% on the day."
-    },
-    {
-      "id": "5110717",
-      "time": "2026-09-24 08:23:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【泰和新材：發光纖維產品研發成功 將落地應用於汽車內飾】泰和新材9月23日在接受機構調研時表示，發光纖維產品研發成功，第一代產品已經有了，根據下游客戶的反饋，今年來看落地最快的應用應該是汽車內飾。"
-    },
-    {
-      "id": "5110716",
-      "time": "2026-09-24 08:22:48",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本晶片相關股票大幅上漲，軟銀集團股價上漲6.8%，Ibiden上漲14%，鎧俠上漲3.7%。"
-    },
-    {
-      "id": "mkt:01a0d0ca-e906-7118-8673-0955d3c1db68",
-      "time": "2026-09-24 08:22:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Brent crude down more than 1.00% intraday, trading at $97.82/bbl."
     }
   ]
 }
