@@ -1,7 +1,46 @@
 {
   "date": "2026-10-02",
-  "count": 568,
+  "count": 572,
   "items": [
+    {
+      "id": "mkt:01a0f99b-630f-7ee0-a77f-ffae474c3bf1",
+      "time": "2026-10-02 06:35:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Logan, a 2026 FOMC voting member and president of the Dallas Fed, will deliver remarks due to be released in ten minutes."
+    },
+    {
+      "id": "te:markets:588912",
+      "time": "2026-10-02 06:35:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore Drops by 4.65% — Top commodity losers are Iron Ore (-4.65%) and Copper (-0.73%). Gains are led by Silver (0.88%) and Gold (0.42%)."
+    },
+    {
+      "id": "5123422",
+      "time": "2026-10-02 06:33:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事庫克稱供應衝擊影響意外持久 傳統應對方式面臨考驗】美聯儲理事麗莎·庫克表示，供應衝擊變得更加突出，其影響“意外持久”，這在考驗美聯儲選擇忽略這類衝擊的傳統做法。庫克週四在紐約聯儲主辦的活動上表示：“供應衝擊的影響意外持久，而且過去幾年我們看到的供應衝擊越來越多，因此它們變得更加突出。”她表示：“我們過去的傳統看法是會忽略這些供應衝擊，因為收緊貨幣政策不會影響油價，也不會影響戰爭。”庫克在與紐約聯儲行長約翰·威廉姆斯共同出席的小組討論中表示：“現在可能的情況是，取決於許多不同因素，對於何為最優的政策應對可能會得出不同結論。”她表示，美聯儲需要確保通脹預期不會脫離錨定。庫克重申，她認為人工智慧建設在增加通脹壓力，而且這項技術何時才能帶來生產力提升尚不明朗。她表示：“我擔心何時才會出現能夠推動通脹降溫的生產力提升，以及下一個供應瓶頸會在哪裡。”"
+    },
+    {
+      "id": "5123421",
+      "time": "2026-10-02 06:31:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗警告特朗普：你炮製的戰爭鬧劇掩蓋不了美國已力竭的事實。"
+    },
     {
       "id": "mkt:01a0f997-e79f-7ee0-a77f-f3dc47922437",
       "time": "2026-10-02 06:31:16",

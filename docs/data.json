@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-02 06:32:09",
-  "count": 11691,
+  "updated": "2026-10-02 06:35:52",
+  "count": 11689,
   "items": [
+    {
+      "id": "mkt:01a0f99b-630f-7ee0-a77f-ffae474c3bf1",
+      "time": "2026-10-02 06:35:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Logan, a 2026 FOMC voting member and president of the Dallas Fed, will deliver remarks due to be released in ten minutes."
+    },
+    {
+      "id": "te:markets:588912",
+      "time": "2026-10-02 06:35:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore Drops by 4.65% — Top commodity losers are Iron Ore (-4.65%) and Copper (-0.73%). Gains are led by Silver (0.88%) and Gold (0.42%)."
+    },
+    {
+      "id": "5123422",
+      "time": "2026-10-02 06:33:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事庫克稱供應衝擊影響意外持久 傳統應對方式面臨考驗】美聯儲理事麗莎·庫克表示，供應衝擊變得更加突出，其影響“意外持久”，這在考驗美聯儲選擇忽略這類衝擊的傳統做法。庫克週四在紐約聯儲主辦的活動上表示：“供應衝擊的影響意外持久，而且過去幾年我們看到的供應衝擊越來越多，因此它們變得更加突出。”她表示：“我們過去的傳統看法是會忽略這些供應衝擊，因為收緊貨幣政策不會影響油價，也不會影響戰爭。”庫克在與紐約聯儲行長約翰·威廉姆斯共同出席的小組討論中表示：“現在可能的情況是，取決於許多不同因素，對於何為最優的政策應對可能會得出不同結論。”她表示，美聯儲需要確保通脹預期不會脫離錨定。庫克重申，她認為人工智慧建設在增加通脹壓力，而且這項技術何時才能帶來生產力提升尚不明朗。她表示：“我擔心何時才會出現能夠推動通脹降溫的生產力提升，以及下一個供應瓶頸會在哪裡。”"
+    },
+    {
+      "id": "5123421",
+      "time": "2026-10-02 06:31:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗警告特朗普：你炮製的戰爭鬧劇掩蓋不了美國已力竭的事實。"
+    },
     {
       "id": "mkt:01a0f997-e79f-7ee0-a77f-f3dc47922437",
       "time": "2026-10-02 06:31:16",
@@ -107384,57 +107423,6 @@
         "國際"
       ],
       "text": "伊朗總統佩澤希齊揚：如果現任美國政府願意在國際法框架下達成協議，那很好。如若不然，無論大選之前還是大選之後，對我們而言又有什麼區別？"
-    },
-    {
-      "id": "5112789",
-      "time": "2026-09-25 06:35:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：任何人都有權進行抗議。我們曾與不少抗議者展開對話。但將抗議活動武器化，則完全是另一回事。"
-    },
-    {
-      "id": "mkt:01a0d58e-df42-7118-8691-d4584e47c38d",
-      "time": "2026-09-25 06:35:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian president PEZESHKIAN said the US must decide whether it wants to end the war, when asked if the conflict could end before year‑end."
-    },
-    {
-      "id": "te:markets:586665",
-      "time": "2026-09-25 06:34:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 1.52% — Top commodity losers are Lithium Carbonate (-1.52%), Silver (-1.05%) and Gold (-0.36%)."
-    },
-    {
-      "id": "5112788",
-      "time": "2026-09-25 06:34:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：（被問及衝突能否在年底前結束時）是否結束這場衝突，決定權在美國。"
-    },
-    {
-      "id": "mkt:01a0d58d-54ff-7118-8691-cd708d4f03dc",
-      "time": "2026-09-25 06:33:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Xi and Peng to attend welcome banquet hosted by President Trump and his wife】Xi Jinping and Peng Liyuan will attend a welcome banquet hosted by President Trump and his wife on the evening of Sept. 24 local time."
-    },
-    {
-      "id": "5112787",
-      "time": "2026-09-25 06:33:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【9月25日美股成交前20：甲骨文收跌3.47% 公司就資料中心發出不可抗力通知】週四美股成交額第2名Meta收漲4.50%，成交266.081億美元。 Meta在其Meta Connect大會上釋出了Horizon Create和Horizon Studio。新工具允許使用者藉助智慧體創作能力來構建遊戲。 第3名美光漲0.81%，成交234.151億美元。 據報道，美光面臨ITC就Netlist專利主張的調查。 第5名英偉達收跌0.41%，成交172.741億美元。 第6名AMD漲2.38%，成交156.52億美元。 第7名英特爾漲3.91%，成交148.28億美元。 在雲棲大會現場，阿里雲終端智慧與英特爾宣佈圍繞瀏覽器引擎最佳化、硬體加速及雲端高密度部署展開合作，共同推動Agentic Browser在智慧體場景中的規模化應用。第15名甲骨文收跌3.47%，成交77.69億美元。 甲骨文就新墨西哥州資料中心發出不可抗力通知。甲骨文表示，不可抗力通知在此類規模的專案開發中屢見不鮮，通常用於維護專案合作方之間的合同權利。"
     }
   ]
 }
