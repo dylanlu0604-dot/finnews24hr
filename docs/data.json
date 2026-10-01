@@ -1,7 +1,68 @@
 {
-  "updated": "2026-10-01 08:33:51",
-  "count": 11988,
+  "updated": "2026-10-01 08:37:39",
+  "count": 11991,
   "items": [
+    {
+      "id": "mkt:01a0f4e3-46c1-7338-ab3f-5cea008bfac6",
+      "time": "2026-10-01 08:35:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,140/oz, down 0.41% intraday."
+    },
+    {
+      "id": "te:economy:588414",
+      "time": "2026-10-01 08:35:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Manufacturing Growth at 6-Month Low, Confirmed — The S&P Global Japan Manufacturing PMI was confirmed at 54.1 in September 2026, matching the preliminary estimate and easing from 54.9 in the previous month, marking the ninth consecutive month of expansion in factory activity. It was the softest expansion in the manufacturing sector since March, as firms recorded slower increases in output and new orders."
+    },
+    {
+      "id": "5121881",
+      "time": "2026-10-01 08:34:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4140美元/盎司，日內跌0.41%。"
+    },
+    {
+      "id": "5121880",
+      "time": "2026-10-01 08:34:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4170美元/盎司，日內跌0.40%。"
+    },
+    {
+      "id": "5121879",
+      "time": "2026-10-01 08:34:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國綜指跌幅擴大至1%；三星電子、SK海力士跌超1%。"
+    },
+    {
+      "id": "te:economy:588413",
+      "time": "2026-10-01 08:34:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Indonesia Manufacturing Improves Solidly — Indonesia's S&P Global Manufacturing PMI climbed to 52.4 in September 2026 from 49.8 in the previous month, marking the highest reading since February."
+    },
     {
       "id": "mkt:01a0f4df-b3b5-7338-ab3f-506818cd3a83",
       "time": "2026-10-01 08:31:36",
@@ -109876,44 +109937,6 @@
         "其他"
       ],
       "text": "【華西到黃淮江淮多地雨勢較強 南方高溫將增多】9月24日至26日，華西多地降雨頻繁，並且主雨帶還會擴充套件至黃淮、江淮，局地將有暴雨，需警惕次生災害的發生，正值中秋節前後，公眾出行請留意交通安全。氣溫方面，華北中北部、東北等地將有降溫，江南、華南高溫發展。"
-    },
-    {
-      "id": "te:economy:586272",
-      "time": "2026-09-24 08:37:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Services Growth Slows — Flash Japan’s S&P Global Services PMI Business Activity Index was at 51.6 in September 2026, down from a final 52.5 in the prior month, which had marked the highest reading since March."
-    },
-    {
-      "id": "te:economy:586271",
-      "time": "2026-09-24 08:35:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Manufacturing PMI",
-        "Importance 2"
-      ],
-      "text": "Japan Manufacturing Growth at 7-Month Low — The S&P Global Japan Manufacturing PMI declined to 54.1 in September 2026 from 54.9 in the previous month, below market expectations of 55.0, marking the ninth consecutive month of expansion in factory activity, preliminary estimates showed. It was the softest expansion in the manufacturing sector since February, as firms recorded softer increases in output and new orders."
-    },
-    {
-      "id": "mkt:01a0d0d5-7a52-7118-8673-7668d456e322",
-      "time": "2026-09-24 08:34:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "Copper",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【Galaxy Securities: Car market enters \"Golden September, Silver October\" and year-end consumption season】Galaxy Securities says August saw a post-season production and consumption rebound: China domestic passenger-car sales rose MoM, exports stabilised at high levels and YoY growth remained strong. New energy vehicles (NEVs) continued to underpin export growth; commercial-vehicle domestic demand was steady, NEV penetration climbed to near 50%, and strong truck export growth kept commercial-vehicle exports buoyant. Looking ahead, the market is entering a seasonal consumption peak around \"Golden September, Silver October\" into year-end; NEVs are expected to remain the main driver of domestic recovery and elevated export growth, with vehicle sales likely to increase MoM and support industry operating improvement in September and Q4."
     }
   ]
 }
