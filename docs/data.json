@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-01 09:15:33",
-  "count": 11980,
+  "updated": "2026-10-01 09:19:23",
+  "count": 11983,
   "items": [
+    {
+      "id": "mkt:01a0f50a-cb9a-7338-ab3f-fe158436b6ea",
+      "time": "2026-10-01 09:18:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Wuhan allows phased completion filings by minimum unit for commodity housing】Wuhan municipal housing and urban renewal bureau, municipal natural resources and urban-rural construction bureau and municipal local financial management bureau issued implementing opinions to carry out rules to improve the commodity housing sales system. Key measures: developers must submit phased, regional development plans when filing planning applications; municipal natural resources and housing authorities will guide definition of the project’s minimum unit; projects may organize completion inspections and file completion records sequentially by those minimum units. Handover is permitted only after water, power, gas, heat and municipal infrastructure are in place. The guidance formalizes phased completion filing: buildings may be split at the ±0 level and, where conditions allow, completed in separate underground and aboveground stages; fully finished projects may file completion in two stages — rough shell and interior decoration."
+    },
+    {
+      "id": "5121915",
+      "time": "2026-10-01 09:17:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢：完善商品住房銷售制度 支援專案按最小單元分批竣工備案】武漢市住房和城市更新局、武漢市自然資源和城鄉建設局、武漢市地方金融管理局釋出關於貫徹落實《關於完善商品住房銷售制度的通知》的實施意見。其中提到，支援專案按最小單元分批竣工備案。商品住房專案開工前，房地產開發企業在申報規劃方案時應擬定分期分割槽域開發計劃，市自然資源管理部門會同住房管理部門指導合理劃定最小單元，專案可按劃定的最小單元依次組織竣工驗收備案。在水、電、氣、熱及市政配套齊全後方可交付。實施分階段竣工備案。最佳化商品住房專案竣工備案流程，樓棟以±0為界，具備條件的劃分地下、地上兩個階段實施竣工備案。最佳化全裝修商品住房專案竣工備案管理，可按毛坯、室內裝修兩個建設階段辦理竣工備案手續。"
+    },
+    {
+      "id": "mkt:01a0f508-e059-7338-ab3f-f6aee7d7b761",
+      "time": "2026-10-01 09:16:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【2026 Global South Modernization Forum opens in Cairo】Sept 30, 2026, Cairo — The Global South Modernization Forum, themed AI wave: Opportunities and Challenges, said AI offers major innovation and development opportunities but raises governance risks. At the BRICS leaders' 18th meeting, Xi proposed using AI to empower new-type industrialization and promote open-source, inclusive access, framing AI development in a positive, upward direction. The forum said Global South economies are at a stage of removing development constraints, closing capability gaps and shifting growth drivers, and should deploy AI to strengthen endogenous momentum."
+    },
+    {
+      "id": "5121914",
+      "time": "2026-10-01 09:16:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2026全球南方現代化論壇在埃及開羅舉行】9月30日，2026全球南方現代化論壇在埃及開羅舉行，本次論壇主題是“人工智慧浪潮：全球南方現代化的機遇與挑戰”。中外嘉賓認為，人工智慧技術創新蘊含巨大機遇，也面臨治理挑戰。習近平主席在金磚國家領導人第十八次會晤上提出人工智慧賦能新型工業化、開源普惠等重要倡議，闡明瞭人工智慧向上向善發展方向。全球南方現代化正處在破解發展約束、補齊能力短板、轉換髮展動能的重要階段，需要善用人工智慧持續增強發展內生動力。中外嘉賓表示，人工智慧是全人類共同財富。要促進人工智慧交流互鑑，堅持開源開放、合作共享，深化理論和實踐研究，讓人工智慧更好造福人類社會。"
+    },
+    {
+      "id": "mkt:01a0f508-066c-7338-ab3f-ea5eec4d3eb6",
+      "time": "2026-10-01 09:15:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu, asked whether Iran might have been involved in the incident, said he did not know at this time."
+    },
+    {
+      "id": "5121913",
+      "time": "2026-10-01 09:15:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國向美國投資專案撥付 24 億美元首期資金。"
+    },
+    {
+      "id": "5121912",
+      "time": "2026-10-01 09:15:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡接受福克斯採訪，當被問及伊朗是否可能參與該事件時表示：“我們尚不清楚”。"
+    },
     {
       "id": "mkt:01a0f507-a2f2-7338-ab3f-e47422dcfb23",
       "time": "2026-10-01 09:15:13",
@@ -109808,40 +109868,6 @@
         "Important"
       ],
       "text": "Australia's seasonally adjusted unemployment rate for August will be released in 10 minutes."
-    },
-    {
-      "id": "5110773",
-      "time": "2026-09-24 09:16:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陝西省省長趙剛到寶雞市調研先進製造業發展工作】據陝西釋出，9月23日，陝西省省長趙剛到寶雞市調研先進製造業發展工作。他強調，要落實全國先進製造業大會部署要求，堅定不移做大做強先進製造業，加快構建以先進製造業為骨幹的現代化產業體系，更好支撐陝西高質量發展、現代化建設。"
-    },
-    {
-      "id": "5110772",
-      "time": "2026-09-24 09:16:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普否認有關商議將其名字加入福特劇院名稱的報道】美國總統唐納德・特朗普駁斥了MS NOW的報道。報道稱，政府官員提議將他的名字附加在福特劇院上。1865年，林肯總統正是在這座劇院遭刺客槍殺。特朗普在真實社交平臺發文稱：“有關白宮或是我本人想要把我的名字加到華盛頓特區林肯遇刺的福特劇院的說法，是荒唐的謊言。這是假新聞！”該報道稱，尚不清楚官員對更名一事的考量程度，也不清楚相關流程如何推進。劇院官網資訊顯示，聯邦政府於1866年收購這座建築。這裡曾用作辦公樓、存放政府檔案，後來改建為紀念林肯的博物館。1968年，經過修復的劇院迎來林肯遇刺事件後的首場演出。"
-    },
-    {
-      "id": "mkt:01a0d0fb-8aa6-7118-8674-00360561b667",
-      "time": "2026-09-24 09:15:40",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures day session opened down 0.62% at 24,660, trading 174 points below the cash index."
-    },
-    {
-      "id": "5110771",
-      "time": "2026-09-24 09:15:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7489，較上日調低21點】人民幣兌美元中間價報6.7489，較上日調低21點。"
     }
   ]
 }
