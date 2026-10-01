@@ -1,7 +1,18 @@
 {
   "date": "2026-10-02",
-  "count": 272,
+  "count": 273,
   "items": [
+    {
+      "id": "mkt:01a0f8d0-b80d-7338-ab55-ecdd3841a564",
+      "time": "2026-10-02 02:53:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $102.31/bbl, up $4.28 or 4.37%."
+    },
     {
       "id": "mkt:01a0f8cd-713c-7338-ab55-e25df5d11115",
       "time": "2026-10-02 02:50:08",

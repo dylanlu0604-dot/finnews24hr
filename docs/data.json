@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-02 02:50:46",
-  "count": 11569,
+  "updated": "2026-10-02 02:54:39",
+  "count": 11565,
   "items": [
+    {
+      "id": "mkt:01a0f8d0-b80d-7338-ab55-ecdd3841a564",
+      "time": "2026-10-02 02:53:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $102.31/bbl, up $4.28 or 4.37%."
+    },
     {
       "id": "mkt:01a0f8cd-713c-7338-ab55-e25df5d11115",
       "time": "2026-10-02 02:50:08",
@@ -106389,53 +106400,6 @@
         "其他"
       ],
       "text": "OpenAI與微軟請求法院駁回由Susman資助的報告。"
-    },
-    {
-      "id": "5112630",
-      "time": "2026-09-25 02:53:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：週三穿過霍爾木茲海峽的船隻中，約有40艘為尋求保護與美軍進行了協調。"
-    },
-    {
-      "id": "5112629",
-      "time": "2026-09-25 02:52:58",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "馬克龍表示希望七國集團（G7）討論釋放戰略石油儲備。"
-    },
-    {
-      "id": "mkt:01a0d4c3-0bb6-7118-868f-aaec3349a879",
-      "time": "2026-09-25 02:52:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "A U.S. defense official said about 60 commercial vessels transited the Strait of Hormuz on Wednesday, carrying crude oil volumes at the highest single-day level since early July."
-    },
-    {
-      "id": "mkt:01a0d4c2-73ec-7118-868f-a73d3f73b780",
-      "time": "2026-09-25 02:51:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iraq, U.S. sign agreement to transfer Baghdad airport diplomatic support facilities】Iraq's foreign ministry said on the 24th that Iraq and the United States signed an agreement to transfer diplomatic support facilities at Baghdad International Airport, previously operated by the U.S. embassy, to the Iraqi government. The ministry said the handover is part of Baghdad's timetable to end the international coalition military mission and terminate foreign forces' presence; the work is scheduled to be completed by Sept. 30."
-    },
-    {
-      "id": "5112627",
-      "time": "2026-09-25 02:51:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：週三約有60艘商船透過霍爾木茲海峽，原油日運輸量達到7月初以來的最高水平。"
     }
   ]
 }
