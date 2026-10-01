@@ -1,7 +1,148 @@
 {
   "date": "2026-10-01",
-  "count": 1684,
+  "count": 1698,
   "items": [
+    {
+      "id": "5122752",
+      "time": "2026-10-01 21:11:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "匈牙利政府將入股布達佩斯交通公司。"
+    },
+    {
+      "id": "te:markets:588797",
+      "time": "2026-10-01 21:11:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "SAP Stock Price Hits 4-week High — SAP shares increased to 189.94 EUR, the highest since August 2026. Over the past 4 weeks, SAP gained 4.61%, and in the last 12 months, it decreased 18.22%."
+    },
+    {
+      "id": "mkt:01a0f796-fd7b-7338-ab4d-7e701d3520f4",
+      "time": "2026-10-01 21:11:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Singapore sovereign investor Temasek's head of North America said the firm remains optimistic on the US outlook."
+    },
+    {
+      "id": "5122751",
+      "time": "2026-10-01 21:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "淡馬錫北美區負責人簡·阿瑟頓：我們依然對美國經濟前景持樂觀態度。"
+    },
+    {
+      "id": "5122750",
+      "time": "2026-10-01 21:10:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將慧與目標價從59美元上調至66美元。"
+    },
+    {
+      "id": "5122749",
+      "time": "2026-10-01 21:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒爆：特朗普政府正將美國幾個主要盟友排除在北約會議之外】美國“政治新聞網”10月1日援引知情人士訊息披露，特朗普政府正將美國幾個主要盟友排除在下月舉行的北約成員國會議之外：美國的盟友、歐洲一些國防開支最大的國家並未獲邀參加這場由五角大樓牽頭、旨在討論北約事務的會議。報道援引六位知情外交官訊息透露，這場計劃在波蘭舉行的會議由五角大樓負責政策事務的副部長埃爾布里奇·科爾比主導，本質上是一個聚焦北約未來的工作會議。然而，許多未獲邀請的國家——如英國、法國和波羅的海國家，不僅國防開支巨大，而且在北約內部發揮著關鍵作用，這令這些國家外交官對被拒之門外感到不解。他們質疑，美方此舉是否意在偏袒某些國家，且可能進一步分裂這個本已因涉俄緊張局勢和武器庫存枯竭而舉步維艱的聯盟。（環球網）"
+    },
+    {
+      "id": "5122748",
+      "time": "2026-10-01 21:08:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞比索領漲新興市場貨幣。"
+    },
+    {
+      "id": "mkt:01a0f794-744b-7338-ab4d-75b5bee6529f",
+      "time": "2026-10-01 21:08:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "COLLINS: U.S. labor market near full employment, but inf remains too high."
+    },
+    {
+      "id": "mkt:01a0f794-492a-7338-ab4d-6a447d15c7ec",
+      "time": "2026-10-01 21:08:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed official COLLINS says he will not pre-judge policy before the next meeting."
+    },
+    {
+      "id": "mkt:01a0f794-2a41-7338-ab4d-67a40a4e76c8",
+      "time": "2026-10-01 21:07:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Collins: economic growth is near to or above trend."
+    },
+    {
+      "id": "mkt:01a0f794-1123-7338-ab4d-5be9e0d115aa",
+      "time": "2026-10-01 21:07:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Schmid said officials still have work to do on inf."
+    },
+    {
+      "id": "5122747",
+      "time": "2026-10-01 21:07:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：不會提前對下次會議作出預判。"
+    },
+    {
+      "id": "5122746",
+      "time": "2026-10-01 21:07:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員柯林斯表示，經濟增長接近趨勢水平或高於趨勢水平；勞動力市場接近充分就業，但通脹過高。"
+    },
+    {
+      "id": "5122745",
+      "time": "2026-10-01 21:07:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：SpaceX AI部門今夏與微軟洽談算力租賃】知情人士透露，SpaceX 的 AI 業務部門今年夏季曾與微軟談判，擬向外出租計算算力。這一事件表明，儘管馬斯克最初心存牴觸，但如今已全面擁抱新型雲業務。算力出租業務現已迅速成為 SpaceX 利潤最高的業務板塊之一。受 Anthropic、谷歌等算力緊缺的 AI 實驗室驅動，該業務每月已拿到數十億美元的承諾訂單，後續還有更多交易待落地。知情人士稱，與微軟談判的最終走向尚不明朗，微軟發言人拒絕置評。馬斯克旗下 AI 初創企業 xAI 於今年早些時候併入 SpaceX，而打造雲端計算服務商並非馬斯克當初創立 xAI 的初衷。據瞭解相關討論的人士透露，去年某一時期，xAI 的算力儲備大於自身實際用量，公司高管力勸馬斯克向其他 AI 企業出售算力，但遭到馬斯克否決。他認為，如果 xAI 轉型成為雲服務商，就無法被視作一家正經的 AI 實驗室。今年初馬斯克轉變態度，最先向 Anthropic 開放算力。專案知情人士表示，如今 SpaceX 已經敲定大量外部客戶，迫切需要擴充算力資源來滿足訂單需求。（自收購 xAI 之後，SpaceX 已將該 AI 子公司更名為 SpaceXAI）。"
+    },
     {
       "id": "5122744",
       "time": "2026-10-01 21:06:47",
