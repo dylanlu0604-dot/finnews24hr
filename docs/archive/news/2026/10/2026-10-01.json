@@ -1,7 +1,35 @@
 {
   "date": "2026-10-01",
-  "count": 1050,
+  "count": 1053,
   "items": [
+    {
+      "id": "5122157",
+      "time": "2026-10-01 14:10:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其基金清算程式委員會將於週五召開會議。"
+    },
+    {
+      "id": "5122156",
+      "time": "2026-10-01 14:08:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026國慶檔首日票房破億】據燈塔專業版，截至14時07分，2026年國慶檔首日（10月1日）票房突破1億，《神探之痕跡》《什麼意思夫婦》《小豬佩奇·完美假期》暫列前三。"
+    },
+    {
+      "id": "te:economy:588544",
+      "time": "2026-10-01 14:08:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Nationwide Housing Prices YoY",
+        "Importance 2"
+      ],
+      "text": "UK House Price Growth Eases More Than Expected — The UK Nationwide House Price Index rose 0.8% year-on-year in September 2026, easing from a 1.6% increase in August and below the estimated 1.3% rise. It marked the lowest reading since December 2025. Nationwide Chief Economist Robert Gardner said market activity and house prices have remained subdued in recent months, partly reflecting the uncertain economic backdrop, with the conflict in the Middle East putting upward pressure on energy prices and fueling inflation concerns. However, he noted that private-sector wage growth has remained modest, which should give policymakers breathing room to assess the extent to which tighter policy is necessary to ensure inflation returns sustainably to target. Gardner added that affordability is improving as house price growth has remained well below earnings growth for some time, although higher mortgage rates have offset some of the gains. On a monthly basis, house prices fell 0.2%, following a 0.2% rise in August."
+    },
     {
       "id": "5122155",
       "time": "2026-10-01 14:06:09",
