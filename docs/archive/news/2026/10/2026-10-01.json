@@ -1,7 +1,106 @@
 {
   "date": "2026-10-01",
-  "count": 1066,
+  "count": 1075,
   "items": [
+    {
+      "id": "5122169",
+      "time": "2026-10-01 14:22:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "檔案顯示，馬來西亞國家石油公司將9月馬來西亞原油官方售價定為每桶127.07美元。"
+    },
+    {
+      "id": "mkt:01a0f620-f7f1-7338-ab43-d9d8ebf5885a",
+      "time": "2026-10-01 14:22:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Document shows Petronas set Malaysia crude official selling price for September at $127.07 per barrel."
+    },
+    {
+      "id": "te:markets:588557",
+      "time": "2026-10-01 14:22:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rises on Soft US PCE Inflation Data — Gold climbed toward $4,200 an ounce on Thursday, recovering losses from the previous session as softer-than-expected US PCE inflation data reduced expectations for a Federal Reserve interest rate hike this month. The US PCE price index rose 0.3% in August, below the 0.4% forecast, while core PCE increased 0.2%, also coming in below expectations for a 0.3% gain. Markets now see roughly a 38% chance of a Federal Reserve rate hike in October, down from 51% before the PCE release. Oil prices also eased amid signs of improving energy flows from the Middle East, despite continued deadlock in US-Iran negotiations. Meanwhile, Treasury yields remained near multi-decade highs amid concerns over persistent energy-driven inflation, which could lead to tighter monetary policy. Traders continue to price in around a 97% probability of a Fed rate increase in December."
+    },
+    {
+      "id": "mkt:01a0f620-7a45-7338-ab43-d19b20f7558a",
+      "time": "2026-10-01 14:21:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australian S&P/ASX 200 index fell 167.20 points, or 1.90%, to 8,622.10 at the close on Thursday, Oct. 1."
+    },
+    {
+      "id": "5122168",
+      "time": "2026-10-01 14:20:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【滙豐：歐洲資金從法國轉向英國，資金流入持續增加】滙豐策略師稱，歐洲投資者正將資金從法國轉移至英國，全球股票基金進入第四季度，年初至今資金流入量創下2021年以來最高水平。阿米特·施裡瓦斯塔瓦帶領的團隊表示，歐洲基金資金流向保持韌性，投資者正在將配置從法國轉向英國；區域基金上月對英國的配置比例提升近45個基點。滙豐下調法國市場預期，理由是該國經濟預測走弱、財政環境惡化。"
+    },
+    {
+      "id": "mkt:01a0f61f-64ca-7338-ab43-ca507f1d6d13",
+      "time": "2026-10-01 14:20:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "SOXL",
+        "Impact bullish",
+        "NVDA.O",
+        "AMD.O"
+      ],
+      "text": "U.S. after-hours chip names rallied: Direxion 3x Semiconductor ETF SOXL rose more than 9%; Arm (ARM.O) +4%; AMD (AMD.O) and Intel (INTC.O) rose over 3%; SanDisk (SNDK.O) +2.8%; SK Hynix (SKHY.O) +2.7%; Broadcom (AVGO.O) +1.6%; NVIDIA (NVDA.O) +1.5%; Micron Technology (MU.O) +1.4%."
+    },
+    {
+      "id": "mkt:01a0f61e-b984-7338-ab43-c6b4337000c8",
+      "time": "2026-10-01 14:20:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland's August real retail sales YoY and September CPI MoM due in 10 minutes."
+    },
+    {
+      "id": "5122167",
+      "time": "2026-10-01 14:19:52",
+      "tags": [
+        "市場",
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "美元指數DXY突破7月前高，一度升至101.66，創6月末以來新高。"
+    },
+    {
+      "id": "mkt:01a0f61e-51c4-7338-ab43-ba6d9e658892",
+      "time": "2026-10-01 14:19:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Dollar index hits three-month high】The dollar index (DXY) broke its July peak, briefly rising to 101.66, the highest level since late June."
+    },
     {
       "id": "5122166",
       "time": "2026-10-01 14:18:16",
