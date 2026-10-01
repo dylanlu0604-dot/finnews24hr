@@ -1,7 +1,60 @@
 {
-  "updated": "2026-10-01 14:42:04",
-  "count": 11790,
+  "updated": "2026-10-01 14:45:51",
+  "count": 11794,
   "items": [
+    {
+      "id": "te:markets:588573",
+      "time": "2026-10-01 14:44:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Snap 3-Day Decline — The benchmark KOSPI rose 1.95% to close at 6,971 on Thursday, snapping a three-day slide as gains in semiconductor-related stocks helped lift the index. Micron Technology’s stronger-than-expected results and upbeat revenue guidance highlighted continued demand for AI memory chips, while its increased long-term supply commitments reinforced the positive outlook for the sector. Additionally, South Korea’s September exports surged 83.5% year-on-year to a record $120.9 billion, led by semiconductor exports that jumped 263% to a record $60.3 billion, further underscoring robust chip demand. Samsung Electronics and SK hynix climbed 2.61% and 3.10%, respectively, along with gains in SK Square (1.32%), Hanwha Aerospace (2.78%), LG Energy Solution (0.98%), and Samsung Electro-Mechanics (2.95%). Meanwhile, elevated US Treasury yields remained an offset, with the 10-year yield above 5.3%, while foreign investors continued to sell Korean equities."
+    },
+    {
+      "id": "te:markets:588572",
+      "time": "2026-10-01 14:43:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Slips to Fresh 15-Month Lows — The euro started October weaker, slipping toward $1.13 and its lowest level since May 2025, after falling more than 2% against the dollar in September, its sharpest monthly decline in 14 months. Markets expect the ECB to tighten more slowly than the Fed, with further ECB hikes priced in over the coming year and the next move potentially in December alongside updated economic projections. Meanwhile, inflation accelerated across several major European economies in September, driven largely by fuel prices. ECB official Peter Kazimir said that the central bank has time to keep policy flexible after two rate hikes this year, echoing President Christine Lagarde’s comments earlier this week. A subdued eurozone growth outlook, currently seen at just 0.9% this year, could further constrain the ECB’s room for aggressive tightening. Political uncertainty ahead of elections in France, Spain and Italy next year is also weighing on sentiment toward the single currency."
+    },
+    {
+      "id": "mkt:01a0f633-ef88-7338-ab44-448989b215c3",
+      "time": "2026-10-01 14:43:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent climbed nearly $1 intraday to $89.33/bbl and $97.59/bbl, respectively."
+    },
+    {
+      "id": "5122187",
+      "time": "2026-10-01 14:42:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港珠澳大橋供港鮮活食品通關時間延長至24小時】從今天起，經港珠澳大橋供港鮮活食品通關時間由每天16小時延長至全天24小時。調整後，水產、果蔬等鮮活食品可根據採收、運輸和銷售節奏安排通關，滿足香港早市、午市、夜市等不同時段的補貨需求。今年1至8月，大橋累計驗放供港蔬菜、水果、鮮活水產等超過5.8萬噸。隨著通關時段延長，內地農產品供應與香港市場需求將實現更緊密地銜接。（央視新聞）"
+    },
+    {
+      "id": "5122186",
+      "time": "2026-10-01 14:42:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Truist維持CoreWeave“買入”評級，預計算力合同續約將推高2028年收入】Truist維持CoreWeave“買入”評級和165美元目標價。該機構在公司進入靜默期前與管理層交流後表示，算力定價仍是投資者關注的核心問題，現有合同價格改善預計將在2027年底開始對年度經常性收入形成增量貢獻，並隨著更多合同陸續續約，在2028年帶來更明顯的提升。Truist同時指出，行業CPU算力定價仍處於較高水平，例如Akamai的CPU工作負載報價約為每兆瓦7年2200萬美元。除定價外，Truist還與管理層討論了融資安排及已簽約電力供應情況，並認為CoreWeave近期增長前景仍得到算力需求和合同續約價格的支撐。"
+    },
     {
       "id": "5122185",
       "time": "2026-10-01 14:41:26",
@@ -44,6 +97,16 @@
         "Importance 1"
       ],
       "text": "Yen Weakens as BOJ Summary Disappoints — The Japanese yen weakened past 158 per dollar on Thursday, moving toward one-month lows as the summary of opinions from the Bank of Japan’s September meeting fell short of investors’ expectations for stronger hawkish signals from policymakers. The summary showed the central bank shifting its focus toward preventing inflation from exceeding its target, pointing to another rate increase this year, but provided little clarity on the timing ahead of policy meetings in October and December. The yen also faced pressure from a stronger dollar and elevated Treasury yields amid expectations that the Federal Reserve may need to raise interest rates further to contain energy-driven inflation. This supports the prospect of wider US-Japan interest-rate differentials, as the Fed’s tightening cycle continued to outpace the BOJ’s rate hikes."
+    },
+    {
+      "id": "5122183",
+      "time": "2026-10-01 14:37:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【積存金跌破900元 專家：黃金仍存在進一步下探的可能】9月下旬，黃金市場迎來一輪快速回撥行情。國際現貨黃金自9月中旬的4400美元/盎司上方持續走低。9月28日盤中一度失守4110美元/盎司，日內跌幅近4%。9月29日，中國國內銀行積存金價格隨之跌破900元/克整數關口，較9月中旬的950元/克附近累計回撥超過5%。\n\n對於本輪金價快速下行的核心原因，中國外匯投資研究院研究總監李鋼表示，主要是市場對美聯儲“更高利率維持更久”的預期重新升溫，能源價格上漲重新強化通脹擔憂，美債收益率和美元走強提高了持有黃金的機會成本。同時，黃金此前漲幅較大，獲利盤在利空因素出現後集中兌現，也放大了短期調整幅度。\n\n針對國慶前後的金價走勢，李鋼認為，黃金仍存在進一步下探的可能，但需要區分“趨勢反轉”和“高位調整”。如果美國通脹、就業資料繼續偏強，或者油價進一步上漲，黃金短期仍可能承壓，甚至出現比較明顯的技術性調整。但目前來看，黃金長期支撐因素並沒有消失，暫時更適合把這一輪行情理解為高位估值修正和資金重新平衡，而不是長期牛市邏輯已經結束。（中新經緯）"
     },
     {
       "id": "5122182",
@@ -108110,26 +108173,6 @@
         "Importance 0"
       ],
       "text": "Bharti Airtel Stock Price Hits 14-week Low — Bharti Airtel shares decreased to 1812.00 INR, the lowest since June 2026. Over the past 4 weeks, Bharti Airtel lost 6.87%, and in the last 12 months, it decreased 6.32%."
-    },
-    {
-      "id": "em:jjsj_oyqsj:202609243883646135",
-      "time": "2026-09-24 14:45:38",
-      "tags": [
-        "經濟數據",
-        "歐元區"
-      ],
-      "text": "法國9月INSEE製造業信心指數101，預期102，前值由103修正為101；9月INSEE消費者綜合信心指數86，預期85，前值86。"
-    },
-    {
-      "id": "te:markets:586391",
-      "time": "2026-09-24 14:43:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Iron Ore Pressured by Weak Fundamentals — Iron ore futures in China traded around CNY 710 per ton, hovering near one-month lows as weak fundamentals continued to weigh on the market. Supply remained ample, with shipments from top producer Australia rising above 21 million tons week-on-week, contributing to elevated port arrivals. Industry data also showed that iron ore inventories at seven major ports in Australia and Brazil increased by 258,000 tons to 11.95 million tons last week. Meanwhile, Chinese steel mills continued to face widening losses, largely due to elevated coking coal prices as safety inspections and mine suspensions in Shanxi restricted domestic supply. Softer demand from China’s construction and manufacturing sectors has also weighed on purchases of ferrous metals. However, iron ore prices remain supported by expectations that Chinese steel mills will step up restocking ahead of the extended Golden Week holiday in early October."
     }
   ]
 }
