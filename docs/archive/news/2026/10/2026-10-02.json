@@ -1,7 +1,36 @@
 {
   "date": "2026-10-02",
-  "count": 562,
+  "count": 565,
   "items": [
+    {
+      "id": "5123420",
+      "time": "2026-10-02 06:26:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及歐洲：看看歐洲現在的處境，他們正被慢慢拖垮。"
+    },
+    {
+      "id": "mkt:01a0f992-ee86-7ee0-a77f-e6ae591c8075",
+      "time": "2026-10-02 06:25:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. may deploy more forces to Persian Gulf; Middle East supply risk pushes oil higher】Oil rose for a third session as signs of escalation in the Middle East stoked concerns about disruptions to regional energy flows. A U.S. official said the PENTAGON may deploy an aircraft carrier and roughly 10,000 sailors and Marines to the Persian Gulf to give Trump more options to escalate military action against Iran. The buildup comes after markets had begun to ease earlier supply fears; Wall Street analysts said this week regional crude output is approaching pre-war levels while refined-product availability remains below that level. Latest signs suggest a U.S. naval blockade is cutting Iran out of energy markets: Iran appears to have loaded no crude onto tankers in September. Futures swung sharply this week as traders weighed improving crude flows against the risk of wider escalation. The U.S.-Iran war has entered its eighth month with scant diplomatic progress; Brent is up about 70% year-to-date."
+    },
+    {
+      "id": "5123419",
+      "time": "2026-10-02 06:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "NBC環球發言人表示：公司擬對全球流媒體技術部門進行架構調整，該調整將涉及部分崗位變動。"
+    },
     {
       "id": "mkt:01a0f990-ea4f-7ee0-a77f-debd1b5df484",
       "time": "2026-10-02 06:23:38",

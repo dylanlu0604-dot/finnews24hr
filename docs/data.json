@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-02 06:24:43",
-  "count": 11696,
+  "updated": "2026-10-02 06:28:26",
+  "count": 11694,
   "items": [
+    {
+      "id": "5123420",
+      "time": "2026-10-02 06:26:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及歐洲：看看歐洲現在的處境，他們正被慢慢拖垮。"
+    },
+    {
+      "id": "mkt:01a0f992-ee86-7ee0-a77f-e6ae591c8075",
+      "time": "2026-10-02 06:25:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. may deploy more forces to Persian Gulf; Middle East supply risk pushes oil higher】Oil rose for a third session as signs of escalation in the Middle East stoked concerns about disruptions to regional energy flows. A U.S. official said the PENTAGON may deploy an aircraft carrier and roughly 10,000 sailors and Marines to the Persian Gulf to give Trump more options to escalate military action against Iran. The buildup comes after markets had begun to ease earlier supply fears; Wall Street analysts said this week regional crude output is approaching pre-war levels while refined-product availability remains below that level. Latest signs suggest a U.S. naval blockade is cutting Iran out of energy markets: Iran appears to have loaded no crude onto tankers in September. Futures swung sharply this week as traders weighed improving crude flows against the risk of wider escalation. The U.S.-Iran war has entered its eighth month with scant diplomatic progress; Brent is up about 70% year-to-date."
+    },
+    {
+      "id": "5123419",
+      "time": "2026-10-02 06:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "NBC環球發言人表示：公司擬對全球流媒體技術部門進行架構調整，該調整將涉及部分崗位變動。"
+    },
     {
       "id": "mkt:01a0f990-ea4f-7ee0-a77f-debd1b5df484",
       "time": "2026-10-02 06:23:38",
@@ -107430,54 +107459,6 @@
         "國際"
       ],
       "text": "英國外交大臣米利班德警告伊朗外長阿拉格齊，英國“不會容忍在英國領土上的敵對活動”。"
-    },
-    {
-      "id": "mkt:01a0d588-7112-7118-8691-c05371162220",
-      "time": "2026-09-25 06:28:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sky News: UK Foreign Secretary Miliband warned Iranian Foreign Minister Araghchi the UK \"will not tolerate hostile activity on UK territory\"."
-    },
-    {
-      "id": "5112781",
-      "time": "2026-09-25 06:27:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【法國擬召集七國集團商討釋放戰略石油儲備】法國總統馬克龍24日晚接受兩家法國電視臺聯合採訪時說，法國擬召集七國集團成員國開會商討釋放戰略石油儲備，以穩定國際油價。 近期，美國和歐洲多國柴油價格均創下新高。馬克龍說，七國集團成員國可研究如何透過相互協調的方式向市場釋放戰略石油儲備，從而降低油價。 馬克龍說，伊朗局勢是全球油價飆升的主要原因，法國將致力於推動地區恢復穩定。此外，俄烏衝突對油價也有影響，法國就此呼籲雙方停止攻打彼此能源目標。(新華社)"
-    },
-    {
-      "id": "5112780",
-      "time": "2026-09-25 06:26:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚：我們不想要核彈。"
-    },
-    {
-      "id": "mkt:01a0d586-f34c-7118-8691-ba1d24cbdf1f",
-      "time": "2026-09-25 06:26:26",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Qatar's foreign ministry said Houthi attacks amounted to an unacceptable disregard for civilian life and a serious violation of Saudi Arabia's sovereignty."
-    },
-    {
-      "id": "mkt:01a0d586-b2f3-7118-8691-b11e68f34e97",
-      "time": "2026-09-25 06:26:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Qatar's foreign ministry strongly condemned Houthi militants' ballistic missile strikes on the Saudi cities of Taif and Yanbu."
     }
   ]
 }
