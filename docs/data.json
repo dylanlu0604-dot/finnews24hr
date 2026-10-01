@@ -1,7 +1,102 @@
 {
-  "updated": "2026-10-01 14:00:19",
-  "count": 11838,
+  "updated": "2026-10-01 14:04:04",
+  "count": 11841,
   "items": [
+    {
+      "id": "5122152",
+      "time": "2026-10-01 14:02:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：在上個月，黎巴嫩安全區和加沙地帶的安全空間內，有超過500個目標遭到襲擊：空軍繼續在所有戰區行動，以消除威脅。 空軍繼續在所有戰區行動，消除威脅，並在不同戰區隨時支援作戰部隊進行進攻和防禦。"
+    },
+    {
+      "id": "mkt:01a0f60e-2565-7338-ab43-a18186b3ac2f",
+      "time": "2026-10-01 14:01:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 40-year government bond yield rose 2.5 bps to 4.210%."
+    },
+    {
+      "id": "5122151",
+      "time": "2026-10-01 14:00:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯托克50股指期貨<STXEc1>下跌0.32%，德國DAX股指期貨<FDXc1>下跌0.49%，法國CAC 40股指期貨<FCEc1>下跌0.45%，富時股指期貨<FFIc1>下跌0.47%。"
+    },
+    {
+      "id": "5122150",
+      "time": "2026-10-01 14:00:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率上升2.5個基點，至4.210%。"
+    },
+    {
+      "id": "te:markets:588542",
+      "time": "2026-10-01 14:00:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "US Natgas Prices Decline — US natural gas prices fell below $3.0 per MMBtu on the first day of October, the lowest level in a week, amid the prospect of limited heating and cooling demand. Forecasts indicated that average weather across the country will remain mostly near normal through October 15, reducing the potential for a significant increase in gas-fired power consumption. In addition, Columbia Gas Transmission lifted force majeure on Sunday after resolving a mechanical problem, allowing production to increase in the coming days. Meanwhile, traders are awaiting the weekly storage report later today, with analysts expecting inventories to have fallen to 2.4% above normal in the week through September 25, from 2.9% in the previous week. Meanwhile, feedgas deliveries to nine major US export facilities averaged 17.9 bcfd in September, up from 17.2 bcfd in August. US natural gas prices rose 3.1% in September but were down 7.6% over the third quarter."
+    },
+    {
+      "id": "5122149",
+      "time": "2026-10-01 14:00:15",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國9月Nationwide房價指數月率 -0.2%，預期0%，前值0.2%。英國9月Nationwide房價指數年率 0.8%，預期1.3%，前值1.6%。"
+    },
+    {
+      "id": "mkt:01a0f60c-8f3f-7338-ab43-99ebd65fec8e",
+      "time": "2026-10-01 14:00:13",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK Nationwide house price index YoY (September) +0.8% vs +1.3% expected, prior +1.6%."
+    },
+    {
+      "id": "mkt:01a0f60c-8ef0-7338-ab43-9765586e5a3a",
+      "time": "2026-10-01 14:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK Nationwide house price index m/m -0.2% in September, vs 0.0% expected and +0.2% prior."
+    },
+    {
+      "id": "mkt:01a0f60c-763d-7338-ab43-8d0305d8cd9f",
+      "time": "2026-10-01 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Nationwide House Price Index (YoY) (Sep) | actual 0.8% | consensus 1.3% | previous 1.6%"
+    },
+    {
+      "id": "mkt:01a0f60c-763c-7338-ab43-82b6b9be16f2",
+      "time": "2026-10-01 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Nationwide House Price Index (MoM) (Sep) | actual -0.2% | consensus 0% | previous 0.2%"
+    },
     {
       "id": "5122148",
       "time": "2026-10-01 13:58:39",
@@ -108464,70 +108559,6 @@
         "Impact bearish"
       ],
       "text": "【Israeli military says it killed Hamas finance chief】The Israeli military said its forces killed Mohammed Abu Alwan, head of Hamas’s finance department, in a Wednesday strike on Khan Younis in southern Gaza. In a Thursday statement the military said Abu Alwan had operated in the area for about ten years, helped prepare budgets for all Hamas branches and directed transfers of more than 1 billion shekels (about $330m) to fund Hamas activities, playing a decisive role in sustaining Hamas’s rule."
-    },
-    {
-      "id": "5111107",
-      "time": "2026-09-24 14:03:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨下跌0.4%。"
-    },
-    {
-      "id": "5111106",
-      "time": "2026-09-24 14:03:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨跌幅擴大至盤中低點0.6%。"
-    },
-    {
-      "id": "mkt:01a0d202-887b-7118-8678-d589d4d6866d",
-      "time": "2026-09-24 14:02:56",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "ECB Governing Council member Kocher said, when asked about the interest-rate outlook, the ECB will assess conditions at each meeting."
-    },
-    {
-      "id": "mkt:01a0d202-3ab6-7118-8678-cedb57078d8d",
-      "time": "2026-09-24 14:02:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 2-year government bond yield rose 6.0 bps to 1.900%, the highest level since April 1995."
-    },
-    {
-      "id": "5111105",
-      "time": "2026-09-24 14:02:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本兩年期國債收益率上漲6個基點，至1.900%，創下1995年4月以來的最高水平。"
-    },
-    {
-      "id": "5111104",
-      "time": "2026-09-24 14:01:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "斯托克50期貨下跌0.62%，德國DAX期貨下跌0.53%，富時期貨下跌0.39%。"
-    },
-    {
-      "id": "5111103",
-      "time": "2026-09-24 14:00:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【《穴位貼敷用藥規範》等四項針灸領域國家標準下月起實施】為進一步助力針灸技術推廣，推動中醫藥傳承創新發展，由國家中醫藥局提出並歸口、市場監管總局批准釋出的《穴位貼敷用藥規範》等四項針灸領域推薦性國家標準自10月1日起實施。《穴位貼敷用藥規範》規範穴位貼敷的藥物使用，強化用藥安全，細化技術操作，增加穴位覆蓋面積規定，科學界定適應證，為基層臨床提供可直接參照的技術規範。《針灸異常情況處理》明確暈針、滯針、針刺性氣胸、燙傷等11類常見異常情況的科學處理方法，強化針灸診療全流程風險防控。《針灸技術操作規範 第4部分：三稜針》系統規範了三稜針療法的概念定義、操作步驟、禁忌事項等核心內容，並對點刺法、刺絡法、散刺法、挑治法四種技術操作建立統一標準。《針灸技術操作規範 第6部分：穴位注射》則規範了穴位注射療法的相關概念、操作步驟與要求、注意事項、禁忌等，為臨床、教學及科研領域提供普適性準則。"
     }
   ]
 }

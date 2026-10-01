@@ -1,7 +1,102 @@
 {
   "date": "2026-10-01",
-  "count": 1035,
+  "count": 1045,
   "items": [
+    {
+      "id": "5122152",
+      "time": "2026-10-01 14:02:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：在上個月，黎巴嫩安全區和加沙地帶的安全空間內，有超過500個目標遭到襲擊：空軍繼續在所有戰區行動，以消除威脅。 空軍繼續在所有戰區行動，消除威脅，並在不同戰區隨時支援作戰部隊進行進攻和防禦。"
+    },
+    {
+      "id": "mkt:01a0f60e-2565-7338-ab43-a18186b3ac2f",
+      "time": "2026-10-01 14:01:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan 40-year government bond yield rose 2.5 bps to 4.210%."
+    },
+    {
+      "id": "5122151",
+      "time": "2026-10-01 14:00:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "斯托克50股指期貨<STXEc1>下跌0.32%，德國DAX股指期貨<FDXc1>下跌0.49%，法國CAC 40股指期貨<FCEc1>下跌0.45%，富時股指期貨<FFIc1>下跌0.47%。"
+    },
+    {
+      "id": "5122150",
+      "time": "2026-10-01 14:00:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率上升2.5個基點，至4.210%。"
+    },
+    {
+      "id": "te:markets:588542",
+      "time": "2026-10-01 14:00:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "US Natgas Prices Decline — US natural gas prices fell below $3.0 per MMBtu on the first day of October, the lowest level in a week, amid the prospect of limited heating and cooling demand. Forecasts indicated that average weather across the country will remain mostly near normal through October 15, reducing the potential for a significant increase in gas-fired power consumption. In addition, Columbia Gas Transmission lifted force majeure on Sunday after resolving a mechanical problem, allowing production to increase in the coming days. Meanwhile, traders are awaiting the weekly storage report later today, with analysts expecting inventories to have fallen to 2.4% above normal in the week through September 25, from 2.9% in the previous week. Meanwhile, feedgas deliveries to nine major US export facilities averaged 17.9 bcfd in September, up from 17.2 bcfd in August. US natural gas prices rose 3.1% in September but were down 7.6% over the third quarter."
+    },
+    {
+      "id": "5122149",
+      "time": "2026-10-01 14:00:15",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國9月Nationwide房價指數月率 -0.2%，預期0%，前值0.2%。英國9月Nationwide房價指數年率 0.8%，預期1.3%，前值1.6%。"
+    },
+    {
+      "id": "mkt:01a0f60c-8f3f-7338-ab43-99ebd65fec8e",
+      "time": "2026-10-01 14:00:13",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK Nationwide house price index YoY (September) +0.8% vs +1.3% expected, prior +1.6%."
+    },
+    {
+      "id": "mkt:01a0f60c-8ef0-7338-ab43-9765586e5a3a",
+      "time": "2026-10-01 14:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK Nationwide house price index m/m -0.2% in September, vs 0.0% expected and +0.2% prior."
+    },
+    {
+      "id": "mkt:01a0f60c-763d-7338-ab43-8d0305d8cd9f",
+      "time": "2026-10-01 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Nationwide House Price Index (YoY) (Sep) | actual 0.8% | consensus 1.3% | previous 1.6%"
+    },
+    {
+      "id": "mkt:01a0f60c-763c-7338-ab43-82b6b9be16f2",
+      "time": "2026-10-01 14:00:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Nationwide House Price Index (MoM) (Sep) | actual -0.2% | consensus 0% | previous 0.2%"
+    },
     {
       "id": "5122148",
       "time": "2026-10-01 13:58:39",
