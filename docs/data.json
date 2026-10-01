@@ -1,7 +1,86 @@
 {
-  "updated": "2026-10-02 02:12:39",
-  "count": 11611,
+  "updated": "2026-10-02 02:16:28",
+  "count": 11613,
   "items": [
+    {
+      "id": "te:markets:588897",
+      "time": "2026-10-02 02:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Rises by 4.62% — Top commodity gainers are Gasoline (4.62%), Brent Oil (4.54%) and Crude Oil (2.79%). Biggest losers are Natural gas (-1.73%) and Heating Oil (-0.93%)."
+    },
+    {
+      "id": "5123112",
+      "time": "2026-10-02 02:13:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：目前尚難以判斷人工智慧對自然利率估值造成了何種影響。"
+    },
+    {
+      "id": "mkt:01a0f8ac-1e65-7338-ab55-2ba87e046c3f",
+      "time": "2026-10-02 02:13:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Vice Chair Jefferson said it is difficult to gauge how large an impact AI has on estimates of the natural rate."
+    },
+    {
+      "id": "mkt:01a0f8ac-0c65-7338-ab55-2780ee943663",
+      "time": "2026-10-02 02:13:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Russian President Putin says Russia hopes to end everything as soon as possible through peace talks."
+    },
+    {
+      "id": "5123111",
+      "time": "2026-10-02 02:13:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯希望儘快透過和談結束一切衝突。"
+    },
+    {
+      "id": "mkt:01a0f8ab-e177-7338-ab55-1dbbb1a9af43",
+      "time": "2026-10-02 02:13:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Putin says Russia controls 1,301 sq km of territory in Ukraine."
+    },
+    {
+      "id": "mkt:01a0f8ab-0e15-7338-ab55-152d44578558",
+      "time": "2026-10-02 02:12:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin: Ukrainian neutrality is one of Russia's objectives."
+    },
+    {
+      "id": "5123110",
+      "time": "2026-10-02 02:12:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：實現烏克蘭中立是俄羅斯的目標之一。"
+    },
     {
       "id": "mkt:01a0f8a9-e410-7338-ab55-0e83224996ad",
       "time": "2026-10-02 02:11:18",
@@ -106691,57 +106770,6 @@
         "國際"
       ],
       "text": "內塔尼亞胡：針對使用傳呼機襲擊伊朗支援的真主黨一事，內塔尼亞胡在發言中舉著一部傳呼機。"
-    },
-    {
-      "id": "5112569",
-      "time": "2026-09-25 02:16:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍表示：法國所有敏感地點都已採取額外安保防護措施。"
-    },
-    {
-      "id": "te:markets:586647",
-      "time": "2026-09-25 02:15:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Surges by 8.27% — Top commodity gainers are Natural gas (8.27%), Methanol (4.90%), Natural Gas EU (3.68%), Brent Oil (3.23%) and Crude Oil (2.62%). Biggest loser is Heating Oil (-0.80%)."
-    },
-    {
-      "id": "5112568",
-      "time": "2026-09-25 02:14:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：10月7日當天，加沙沒有一名以色列人。"
-    },
-    {
-      "id": "5112567",
-      "time": "2026-09-25 02:14:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：法國可能遭遇類似萊比錫未遂襲擊的襲擊事件。"
-    },
-    {
-      "id": "5112566",
-      "time": "2026-09-25 02:14:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普政府在中期選舉前釋出保護選舉基礎設施藍圖。"
-    },
-    {
-      "id": "5112565",
-      "time": "2026-09-25 02:14:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡：我們必將獲勝，我們別無選擇。"
     }
   ]
 }
