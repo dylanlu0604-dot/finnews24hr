@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-02 02:35:31",
-  "count": 11588,
+  "updated": "2026-10-02 02:39:19",
+  "count": 11582,
   "items": [
+    {
+      "id": "mkt:01a0f8c2-675a-7338-ab55-b89dbcc86574",
+      "time": "2026-10-02 02:38:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthis say Saudi Arabia launched 47 airstrikes in past 24 hours】On the evening of Oct 1 local time, Yemen's Houthi movement said Saudi Arabia carried out 47 airstrikes on Houthi-held areas over the previous 24 hours, including Taiz and Saada provinces. The group said Riyadh has launched 1,256 air and missile strikes since the escalation began on Sept 3."
+    },
+    {
+      "id": "mkt:01a0f8c0-5b6a-7338-ab55-b295dbe7e01b",
+      "time": "2026-10-02 02:35:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "People familiar with the matter said Iran's foreign minister privately offered to allow nuclear inspectors back into bombed nuclear facilities in exchange for sanctions relief."
+    },
+    {
+      "id": "5123129",
+      "time": "2026-10-02 02:35:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗提出，若制裁得到放寬，將允許核核查人員開展核查。"
+    },
     {
       "id": "5123128",
       "time": "2026-10-02 02:35:00",
@@ -106519,82 +106551,6 @@
         "國際"
       ],
       "text": "美國參議院否決了限制特朗普伊朗戰爭權力的決議。"
-    },
-    {
-      "id": "mkt:01a0d4b6-914b-7118-868f-5c36012f4602",
-      "time": "2026-09-25 02:38:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "French President Macron said imposing additional taxes on oil companies would not reduce fuel prices."
-    },
-    {
-      "id": "5112610",
-      "time": "2026-09-25 02:38:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：若對石油企業加徵額外稅收，我們也無法降低燃油價格。"
-    },
-    {
-      "id": "mkt:01a0d4b5-ec28-7118-868f-51895ad9cb86",
-      "time": "2026-09-25 02:38:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Prime Minister Netanyahu said Israel has never been stronger and is fearless."
-    },
-    {
-      "id": "5112609",
-      "time": "2026-09-25 02:37:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：以色列從未如此強大，我們無所畏懼。"
-    },
-    {
-      "id": "5112608",
-      "time": "2026-09-25 02:37:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "據知情人士透露，派拉蒙+免費套餐專案預計將於第四季度及2027年第一季度推出。"
-    },
-    {
-      "id": "mkt:01a0d4b4-432a-7118-868f-4b65427996db",
-      "time": "2026-09-25 02:36:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said some Western European leaders have already yielded to pressure from anti‑Semitic crowds."
-    },
-    {
-      "id": "5112607",
-      "time": "2026-09-25 02:35:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡：部分西歐國家領導人已向反猶屈服。"
-    },
-    {
-      "id": "5112606",
-      "time": "2026-09-25 02:35:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "據知情人士透露，派拉蒙+計劃推出評論區及互動廣告功能。"
-    },
-    {
-      "id": "mkt:01a0d4b3-a850-7118-868f-47b5e4f27334",
-      "time": "2026-09-25 02:35:38",
-      "tags": [
-        "MKT News",
-        "PSKY.O",
-        "Impact mixed"
-      ],
-      "text": "Sources said Paramount (PSKY.O) plans to launch a free tier and introduce short-form drama content."
     }
   ]
 }

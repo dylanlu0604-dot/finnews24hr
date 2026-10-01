@@ -1,7 +1,39 @@
 {
   "date": "2026-10-02",
-  "count": 262,
+  "count": 265,
   "items": [
+    {
+      "id": "mkt:01a0f8c2-675a-7338-ab55-b89dbcc86574",
+      "time": "2026-10-02 02:38:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthis say Saudi Arabia launched 47 airstrikes in past 24 hours】On the evening of Oct 1 local time, Yemen's Houthi movement said Saudi Arabia carried out 47 airstrikes on Houthi-held areas over the previous 24 hours, including Taiz and Saada provinces. The group said Riyadh has launched 1,256 air and missile strikes since the escalation began on Sept 3."
+    },
+    {
+      "id": "mkt:01a0f8c0-5b6a-7338-ab55-b295dbe7e01b",
+      "time": "2026-10-02 02:35:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "People familiar with the matter said Iran's foreign minister privately offered to allow nuclear inspectors back into bombed nuclear facilities in exchange for sanctions relief."
+    },
+    {
+      "id": "5123129",
+      "time": "2026-10-02 02:35:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗提出，若制裁得到放寬，將允許核核查人員開展核查。"
+    },
     {
       "id": "5123128",
       "time": "2026-10-02 02:35:00",
