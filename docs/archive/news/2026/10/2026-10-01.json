@@ -1,7 +1,91 @@
 {
   "date": "2026-10-01",
-  "count": 1113,
+  "count": 1122,
   "items": [
+    {
+      "id": "mkt:01a0f638-96f5-7338-ab44-5d7c917ce30c",
+      "time": "2026-10-01 14:48:18",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Year-end EUR/USD options market sentiment has fallen to its most bearish level since April."
+    },
+    {
+      "id": "mkt:01a0f637-e335-7338-ab44-5005ec26b0e0",
+      "time": "2026-10-01 14:47:32",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Digital RMB cross-border connectivity expands steadily】The Digital RMB International Operation Center reports that after an initial 26 signed financial institutions, a further 39 domestic and overseas financial institutions had applied by end-September to join the CBETS cross-border settlement platform as direct participants. The center said it has continued to optimize CBETS this year, expanding cooperation to support bilateral links with overseas monetary authority payment systems and foreign CBDC systems, and to permit direct access by overseas financial institutions. The platform now supports both trade settlement and cross-border personal flows."
+    },
+    {
+      "id": "5122193",
+      "time": "2026-10-01 14:47:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【數字人民幣跨境聯通合作範圍穩步拓展】記者日前從數字人民幣國際運營中心獲悉，在首批26家金融機構簽約後，截至9月末，又新增39家境內外金融機構提交申請，作為直接參與者接入“數幣達”跨境結算綜合服務平臺（CBETS）。今年以來，數字人民幣國際運營中心持續最佳化CBETS服務，穩步拓展合作範圍，既支援與境外貨幣當局支付系統、法定數字貨幣系統雙邊對接，也支援境外金融機構直接接入。依託這一底層平臺，數字人民幣跨境服務既覆蓋貿易，也支撐人員跨境往來。（新華社）"
+    },
+    {
+      "id": "5122192",
+      "time": "2026-10-01 14:47:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Piper Sandler上調微軟目標價至610美元，看好Copilot與M365商業化提速】Piper Sandler將微軟目標價由550美元上調至610美元，並維持“增持”評級。該機構在微軟推出“超級應用”、新E7訂閱層級以及Copilot和Cowork更多采用按使用量計費後，重新評估了M365商業雲業務的增長空間。Piper Sandler估算，若每有10%的席位從E5升級至E7，可帶來約20億美元年化收入增量；同時，Copilot和Cowork的新增按量計費收入有望在2028財年末達到約20億美元年化規模。該機構認為，Copilot和Cowork的優勢在於微軟能夠透過任務編排和自動路由，以低於單獨呼叫前沿模型的成本完成工作。基於對M365增長前景更強的信心，Piper Sandler上調了盈利預期及估值倍數。"
+    },
+    {
+      "id": "5122191",
+      "time": "2026-10-01 14:47:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元/美元年末期權市場情緒為4月以來最悲觀。"
+    },
+    {
+      "id": "5122190",
+      "time": "2026-10-01 14:46:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【玻利維亞總檢察長被拘捕】據玻利維亞媒體報道，玻利維亞總檢察長羅赫爾·馬里亞卡9月30日晚在該國東部聖克魯斯省比魯比魯國際機場被拘捕。目前，玻政府和警方尚未就此事發表宣告。（新華社）"
+    },
+    {
+      "id": "5122189",
+      "time": "2026-10-01 14:46:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元EUR/USD一度跌至16個月低點1.1305。"
+    },
+    {
+      "id": "mkt:01a0f636-8cfd-7338-ab44-4c71df62c0cb",
+      "time": "2026-10-01 14:46:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "EUR/USD briefly hit a 16-month low of 1.1305."
+    },
+    {
+      "id": "5122188",
+      "time": "2026-10-01 14:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "法雷奧將Wayve自動駕駛AI技術整合至法雷奧先進軟硬體棧中。"
+    },
     {
       "id": "te:markets:588573",
       "time": "2026-10-01 14:44:03",
