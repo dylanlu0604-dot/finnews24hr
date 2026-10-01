@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-01 20:32:44",
-  "count": 11728,
+  "updated": "2026-10-01 20:36:29",
+  "count": 11732,
   "items": [
+    {
+      "id": "5122698",
+      "time": "2026-10-01 20:35:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員：不排除美軍重返伊拉克】據美國方面9月30日訊息，美國官員透露，儘管美軍已撤離伊拉克，但如果伊拉克出現安全威脅，美方不排除實施軍事打擊甚至重新駐軍的可能性。這名官員表示，從伊拉克撤出的美軍將調派到約旦，主要任務是打擊藏匿在鄰國敘利亞境內的極端組織“伊斯蘭國”武裝人員。這名官員還稱，如果敘利亞和伊拉克境內的“伊斯蘭國”殘餘勢力死灰復燃，局勢失控，且這些國家請求美國施援，美軍可能重新返回，協助反恐。（央視新聞）參與評論收藏"
+    },
+    {
+      "id": "mkt:01a0f775-ec1d-7338-ab4c-dcd58a9e06ef",
+      "time": "2026-10-01 20:34:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said NATO has the capability to defend every inch of allied territory and remains strong and ready to respond to any threat."
+    },
+    {
+      "id": "5122697",
+      "time": "2026-10-01 20:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長呂特：我們擁有保衛盟國每一寸領土所需的力量，將保持強大、戒備狀態，並有能力應對任何威脅。"
+    },
+    {
+      "id": "5122696",
+      "time": "2026-10-01 20:33:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡： 伊朗方面可能襲擊以色列目標，時間大機率會選在大選期間。"
+    },
+    {
+      "id": "5122695",
+      "time": "2026-10-01 20:32:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃森哲首席財務官：目前預計在2027財年將再斥資約50億美元進行收購。"
+    },
     {
       "id": "te:markets:588780",
       "time": "2026-10-01 20:31:40",
@@ -107657,18 +107697,6 @@
         "Importance 1"
       ],
       "text": "Canada Manufacturing Sales Seen Rebounding in August — Canada’s manufacturing sales advance estimates indicate that total manufacturing sales increased 1.1% month-over-month in August 2026, after falling 0.4% in July. If confirmed, this would be the sharpest increase since May. The advance results indicate that the largest increases were recorded in the primary metal and chemical subsectors."
-    },
-    {
-      "id": "te:economy:586545",
-      "time": "2026-09-24 20:35:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Building Permits",
-        "Importance 1"
-      ],
-      "text": "US Building Permits Fall Less than Initially Thought — Building Permits in the United States decreased 2.1% month-over-month to 1.403 million units in August 2026, compared to initial estimates of a larger 2.7% fall to 1.394 million. Permits for buildings with five or more units fell 1.5% to 475,000, and single-family permits decreased 1.6% to 880,000. Regionally, permits fell in the Northeast (-15.8% to 128,000), and the Midwest (-5.8% to 212,000), but rose in the West (2.3% to 315,000) and were unchanged in the South (at 748,000)."
     }
   ]
 }
