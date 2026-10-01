@@ -1,7 +1,97 @@
 {
   "date": "2026-10-02",
-  "count": 232,
+  "count": 241,
   "items": [
+    {
+      "id": "mkt:01a0f8b4-d853-7338-ab55-552db54e5206",
+      "time": "2026-10-02 02:23:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "9984.T",
+        "AMZN.O",
+        "Impact mixed"
+      ],
+      "text": "【NVIDIA, SoftBank complete final $20bn of OpenAI round; both finish $30bn commitments】NVIDIA (NVDA.O) and SoftBank completed final $10bn tranches each in OpenAI’s prior financing round, adding $20bn and closing their respective $30bn investment commitments, sources and SoftBank said. OpenAI disclosed in March the round secured $122bn in commitments at an $852bn post-money valuation. Amazon (AMZN.O) had committed up to $50bn and completed its investment in July. With the round closed, OpenAI may prepare a next private raise targeting about $30bn at an estimated ~$1.4tn valuation. SoftBank said its cumulative investment in OpenAI is $64.6bn, representing roughly a 13% stake; part of the latest tranche was funded via an $11.1bn high-yield bond sale completed in late September."
+    },
+    {
+      "id": "5123120",
+      "time": "2026-10-02 02:22:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀：自 9 月 30 日起，取消 3 月 27 日與 OpenAI 簽署的過渡融資協議項下剩餘 100 億美元未動用授信額度。過渡融資協議項下全部借款已清償，無剩餘未提取承諾額度。"
+    },
+    {
+      "id": "mkt:01a0f8b3-cd16-7338-ab55-4c70d993aa27",
+      "time": "2026-10-02 02:22:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian President Putin said Russia needs security guarantees regarding Ukraine."
+    },
+    {
+      "id": "mkt:01a0f8b3-b493-7338-ab55-473372aa37cf",
+      "time": "2026-10-02 02:22:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia said it has carried out a preliminary investigation with a UAE security team into the Dubai aviation incident."
+    },
+    {
+      "id": "5123119",
+      "time": "2026-10-02 02:21:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "軟銀：對 OpenAI 累計投資額現已達 646 億美元，持股約 13%。"
+    },
+    {
+      "id": "5123118",
+      "time": "2026-10-02 02:21:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯需要獲得關於烏克蘭問題的安全保障。"
+    },
+    {
+      "id": "5123117",
+      "time": "2026-10-02 02:21:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀：已完成對 OpenAI 追加投資的第三期，也是最後一期款項，金額 100 億美元。"
+    },
+    {
+      "id": "mkt:01a0f8b2-462a-7338-ab55-3bc2a91d0148",
+      "time": "2026-10-02 02:20:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Fed Vice Chair Jefferson said the Fed does not have deep insight into private credit developments."
+    },
+    {
+      "id": "te:markets:588898",
+      "time": "2026-10-02 02:20:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Drops by 0.82% — Today's Metals commodities market is characterized by modest daily movements, with Copper standing out as the frontrunner with a -0.82% decrease."
+    },
     {
       "id": "5123116",
       "time": "2026-10-02 02:18:47",

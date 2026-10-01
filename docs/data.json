@@ -1,7 +1,97 @@
 {
-  "updated": "2026-10-02 02:20:16",
-  "count": 11615,
+  "updated": "2026-10-02 02:24:05",
+  "count": 11611,
   "items": [
+    {
+      "id": "mkt:01a0f8b4-d853-7338-ab55-552db54e5206",
+      "time": "2026-10-02 02:23:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "9984.T",
+        "AMZN.O",
+        "Impact mixed"
+      ],
+      "text": "【NVIDIA, SoftBank complete final $20bn of OpenAI round; both finish $30bn commitments】NVIDIA (NVDA.O) and SoftBank completed final $10bn tranches each in OpenAI’s prior financing round, adding $20bn and closing their respective $30bn investment commitments, sources and SoftBank said. OpenAI disclosed in March the round secured $122bn in commitments at an $852bn post-money valuation. Amazon (AMZN.O) had committed up to $50bn and completed its investment in July. With the round closed, OpenAI may prepare a next private raise targeting about $30bn at an estimated ~$1.4tn valuation. SoftBank said its cumulative investment in OpenAI is $64.6bn, representing roughly a 13% stake; part of the latest tranche was funded via an $11.1bn high-yield bond sale completed in late September."
+    },
+    {
+      "id": "5123120",
+      "time": "2026-10-02 02:22:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀：自 9 月 30 日起，取消 3 月 27 日與 OpenAI 簽署的過渡融資協議項下剩餘 100 億美元未動用授信額度。過渡融資協議項下全部借款已清償，無剩餘未提取承諾額度。"
+    },
+    {
+      "id": "mkt:01a0f8b3-cd16-7338-ab55-4c70d993aa27",
+      "time": "2026-10-02 02:22:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russian President Putin said Russia needs security guarantees regarding Ukraine."
+    },
+    {
+      "id": "mkt:01a0f8b3-b493-7338-ab55-473372aa37cf",
+      "time": "2026-10-02 02:22:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia said it has carried out a preliminary investigation with a UAE security team into the Dubai aviation incident."
+    },
+    {
+      "id": "5123119",
+      "time": "2026-10-02 02:21:58",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "軟銀：對 OpenAI 累計投資額現已達 646 億美元，持股約 13%。"
+    },
+    {
+      "id": "5123118",
+      "time": "2026-10-02 02:21:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯需要獲得關於烏克蘭問題的安全保障。"
+    },
+    {
+      "id": "5123117",
+      "time": "2026-10-02 02:21:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀：已完成對 OpenAI 追加投資的第三期，也是最後一期款項，金額 100 億美元。"
+    },
+    {
+      "id": "mkt:01a0f8b2-462a-7338-ab55-3bc2a91d0148",
+      "time": "2026-10-02 02:20:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Fed Vice Chair Jefferson said the Fed does not have deep insight into private credit developments."
+    },
+    {
+      "id": "te:markets:588898",
+      "time": "2026-10-02 02:20:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Drops by 0.82% — Today's Metals commodities market is characterized by modest daily movements, with Copper standing out as the frontrunner with a -0.82% decrease."
+    },
     {
       "id": "5123116",
       "time": "2026-10-02 02:18:47",
@@ -106684,117 +106774,6 @@
         "其他"
       ],
       "text": "ROBLOX股價跌幅擴大至2.7%。"
-    },
-    {
-      "id": "5112581",
-      "time": "2026-09-25 02:24:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "法國總統馬克龍：我們將部署軍事力量、派遣士兵以保護紅海航道。"
-    },
-    {
-      "id": "mkt:01a0d4a8-abc5-7118-868e-b25271e3984d",
-      "time": "2026-09-25 02:23:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "French President Macron said France's natural gas storage will reach 80% of capacity within weeks."
-    },
-    {
-      "id": "mkt:01a0d4a8-851c-7118-868e-a83ae863478c",
-      "time": "2026-09-25 02:23:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel has no partner more important than U.S. President Trump and thanked him."
-    },
-    {
-      "id": "mkt:01a0d4a8-6293-7118-868e-a597d11d846f",
-      "time": "2026-09-25 02:23:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel will continue to defend itself because it has no choice."
-    },
-    {
-      "id": "5112580",
-      "time": "2026-09-25 02:23:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：我們沒有位元朗普更棒的夥伴，我感謝他。"
-    },
-    {
-      "id": "5112579",
-      "time": "2026-09-25 02:22:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：再過數週，法國儲氣庫將達到庫容的80%。"
-    },
-    {
-      "id": "5112578",
-      "time": "2026-09-25 02:22:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：我很高興歡迎你們來到美麗的白宮】當地時間9月24日上午，國家主席習近平出席美國總統特朗普在白宮舉行的歡迎儀式。特朗普總統發表致辭。特朗普說：“習近平主席、彭麗媛女士、中國代表團的各位成員，我很高興歡迎你們來到美麗的白宮。（今年）五月，我有幸率團訪問北京，你們盛情款待，迎接了我們的代表團。如今，梅拉尼婭和我很榮幸在華盛頓接待你們。”（央視新聞）"
-    },
-    {
-      "id": "5112577",
-      "time": "2026-09-25 02:22:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡：我們別無選擇，將繼續保衛我們的國家。"
-    },
-    {
-      "id": "5112576",
-      "time": "2026-09-25 02:22:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：我們希望緩解中東地區緊張局勢，以平復能源市場。"
-    },
-    {
-      "id": "5112575",
-      "time": "2026-09-25 02:21:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "根據倫交所集團-理柏（LSEG Lipper）全球基金資金流向資料，在截至9月23日的一週內，投資者向市政債券基金淨增投入了約6.33億美元。"
-    },
-    {
-      "id": "5112574",
-      "time": "2026-09-25 02:21:09",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其財政部長：辭職傳聞不實。"
-    },
-    {
-      "id": "5112573",
-      "time": "2026-09-25 02:21:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Nebius Group漲幅擴大至10%，此前法國巴黎銀行轉而看漲。"
-    },
-    {
-      "id": "5112572",
-      "time": "2026-09-25 02:20:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "法耶：塞內加爾獲得承諾，加速推進G20債務談判。"
     }
   ]
 }
