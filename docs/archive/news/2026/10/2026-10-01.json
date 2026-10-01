@@ -1,7 +1,82 @@
 {
   "date": "2026-10-01",
-  "count": 718,
+  "count": 726,
   "items": [
+    {
+      "id": "te:markets:588440",
+      "time": "2026-10-01 09:22:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Under Strain as October Begins — Australian stocks slipped 119 points, or 1.4%, to 8,669 in early October trade, erasing prior gains as Wall Street closed mostly lower overnight on rising U.S. Treasury yields and weakness in financials and defensives. Locally, home values fell for a sixth straight month in September amid plunging transaction volumes, with another rate hike this week expected to trigger the worst downturn in three decades. Factory activity also shrank at the fastest pace in 21 months as new orders weakened under rising costs and softer demand. Losses were broad, led by energy minerals, financials, healthcare, and logistics. Lynas Rare Earths tumbled 5.5%, Suncorp Group dropped 5.1%, PLS Group fell 3.0%, and Ampol lost 2.5%. The four big banks also posted notable declines. Still, weakness was tempered after RBA Governor Michele Bullock signaled September’s hike could be the last following four increases this year. Traders now await August trade data due later today."
+    },
+    {
+      "id": "mkt:01a0f50d-9b4f-7338-ab40-166e730e4879",
+      "time": "2026-10-01 09:21:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Wall Street Journal reports Democratic senators wrote to Rubio, Hegseth and Wright saying a Pentagon oil agreement with Venezuela undermines a democratic transition, and requested that Trump administration officials answer questions about the Venezuelan oil project."
+    },
+    {
+      "id": "5121919",
+      "time": "2026-10-01 09:21:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢：8月28日起，新出讓土地的商品住房專案，優先選擇現房銷售】武漢市住房和城市更新局、武漢市自然資源和城鄉建設局、武漢市地方金融管理局釋出關於貫徹落實《關於完善商品住房銷售制度的通知》的實施意見。其中提到，穩步開展現房銷售。2026年8月28日起，新出讓土地的商品住房專案，優先選擇現房銷售。房地產開發企業在辦理不動產首次登記後，應制定現房銷售方案，報市住房管理部門備案後，按現房銷售方案組織銷售。規範現房定金銷售行為。實行現房銷售的商品住房專案，房地產開發企業取得建築工程施工許可證後，應制定定金銷售方案並報市住房管理部門備案，市房產交易中心同步在專案主辦銀行開立定金監管賬戶。定金銷售方案應載明專案基本資訊、銷售價格、定金收取標準、權利義務及違約責任處理等內容。房地產開發企業開展現房定金銷售時，應當透過銷售現場或網際網路平臺集中公示《營業執照》《房地產開發企業資質證書》《建設用地規劃許可證》《建設工程規劃許可證》《建築工程施工許可證》《定金銷售方案》《購房定金合同（示範文字）》及銷售人員資訊等資料。《購房定金合同（示範文字）》由市住房管理部門牽頭制定。"
+    },
+    {
+      "id": "mkt:01a0f50c-f357-7338-ab40-0c942673c341",
+      "time": "2026-10-01 09:21:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports Democratic senators have questioned Trump administration officials about the Pentagon's oil transactions with Venezuela, saying the legal basis for the deals is in doubt."
+    },
+    {
+      "id": "5121918",
+      "time": "2026-10-01 09:20:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務省將於10月8日拍賣3.0萬億日元短期國債。"
+    },
+    {
+      "id": "5121917",
+      "time": "2026-10-01 09:20:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體：韓國匯出24億美元作為對美投資首筆款項】據《韓國先驅商業報》（Herald Business）援引一位未具名政府官員的訊息報道，在美國總統唐納德·特朗普公佈該計劃的細節後，韓國已匯出24億美元，作為對美投資的首筆款項。根據兩國去年達成的協議，韓國將在美國進行最高達2000億美元的投資。"
+    },
+    {
+      "id": "5121916",
+      "time": "2026-10-01 09:19:38",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：日本央行意見摘要不如預期鷹派 日元或承壓】Resona Holdings高階策略師Keiichi Iguchi表示，日本央行上月政策會議的意見摘要似乎不如預期鷹派，或導致日元遭到拋售。市場原本預期，在美國財政部長斯科特·貝森特等人發表相關評論後，日本央行內部會出現更多偏鷹意見。隨著紐約聯邦儲備銀行行長髮表偏鴿言論，加上美國個人消費支出資料疲弱後，市場對美國升息的預期降溫，因此週五公佈的美國就業報告將成為市場關注焦點。"
+    },
+    {
+      "id": "mkt:01a0f50b-8c14-7338-ab40-0457db9cd70b",
+      "time": "2026-10-01 09:19:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures reached $61/oz, up 0.72% on the day."
+    },
     {
       "id": "mkt:01a0f50a-cb9a-7338-ab3f-fe158436b6ea",
       "time": "2026-10-01 09:18:40",

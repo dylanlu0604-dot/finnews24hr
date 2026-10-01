@@ -1,7 +1,82 @@
 {
-  "updated": "2026-10-01 09:19:23",
-  "count": 11983,
+  "updated": "2026-10-01 09:23:11",
+  "count": 11982,
   "items": [
+    {
+      "id": "te:markets:588440",
+      "time": "2026-10-01 09:22:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Under Strain as October Begins — Australian stocks slipped 119 points, or 1.4%, to 8,669 in early October trade, erasing prior gains as Wall Street closed mostly lower overnight on rising U.S. Treasury yields and weakness in financials and defensives. Locally, home values fell for a sixth straight month in September amid plunging transaction volumes, with another rate hike this week expected to trigger the worst downturn in three decades. Factory activity also shrank at the fastest pace in 21 months as new orders weakened under rising costs and softer demand. Losses were broad, led by energy minerals, financials, healthcare, and logistics. Lynas Rare Earths tumbled 5.5%, Suncorp Group dropped 5.1%, PLS Group fell 3.0%, and Ampol lost 2.5%. The four big banks also posted notable declines. Still, weakness was tempered after RBA Governor Michele Bullock signaled September’s hike could be the last following four increases this year. Traders now await August trade data due later today."
+    },
+    {
+      "id": "mkt:01a0f50d-9b4f-7338-ab40-166e730e4879",
+      "time": "2026-10-01 09:21:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Wall Street Journal reports Democratic senators wrote to Rubio, Hegseth and Wright saying a Pentagon oil agreement with Venezuela undermines a democratic transition, and requested that Trump administration officials answer questions about the Venezuelan oil project."
+    },
+    {
+      "id": "5121919",
+      "time": "2026-10-01 09:21:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢：8月28日起，新出讓土地的商品住房專案，優先選擇現房銷售】武漢市住房和城市更新局、武漢市自然資源和城鄉建設局、武漢市地方金融管理局釋出關於貫徹落實《關於完善商品住房銷售制度的通知》的實施意見。其中提到，穩步開展現房銷售。2026年8月28日起，新出讓土地的商品住房專案，優先選擇現房銷售。房地產開發企業在辦理不動產首次登記後，應制定現房銷售方案，報市住房管理部門備案後，按現房銷售方案組織銷售。規範現房定金銷售行為。實行現房銷售的商品住房專案，房地產開發企業取得建築工程施工許可證後，應制定定金銷售方案並報市住房管理部門備案，市房產交易中心同步在專案主辦銀行開立定金監管賬戶。定金銷售方案應載明專案基本資訊、銷售價格、定金收取標準、權利義務及違約責任處理等內容。房地產開發企業開展現房定金銷售時，應當透過銷售現場或網際網路平臺集中公示《營業執照》《房地產開發企業資質證書》《建設用地規劃許可證》《建設工程規劃許可證》《建築工程施工許可證》《定金銷售方案》《購房定金合同（示範文字）》及銷售人員資訊等資料。《購房定金合同（示範文字）》由市住房管理部門牽頭制定。"
+    },
+    {
+      "id": "mkt:01a0f50c-f357-7338-ab40-0c942673c341",
+      "time": "2026-10-01 09:21:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports Democratic senators have questioned Trump administration officials about the Pentagon's oil transactions with Venezuela, saying the legal basis for the deals is in doubt."
+    },
+    {
+      "id": "5121918",
+      "time": "2026-10-01 09:20:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務省將於10月8日拍賣3.0萬億日元短期國債。"
+    },
+    {
+      "id": "5121917",
+      "time": "2026-10-01 09:20:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體：韓國匯出24億美元作為對美投資首筆款項】據《韓國先驅商業報》（Herald Business）援引一位未具名政府官員的訊息報道，在美國總統唐納德·特朗普公佈該計劃的細節後，韓國已匯出24億美元，作為對美投資的首筆款項。根據兩國去年達成的協議，韓國將在美國進行最高達2000億美元的投資。"
+    },
+    {
+      "id": "5121916",
+      "time": "2026-10-01 09:19:38",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：日本央行意見摘要不如預期鷹派 日元或承壓】Resona Holdings高階策略師Keiichi Iguchi表示，日本央行上月政策會議的意見摘要似乎不如預期鷹派，或導致日元遭到拋售。市場原本預期，在美國財政部長斯科特·貝森特等人發表相關評論後，日本央行內部會出現更多偏鷹意見。隨著紐約聯邦儲備銀行行長髮表偏鴿言論，加上美國個人消費支出資料疲弱後，市場對美國升息的預期降溫，因此週五公佈的美國就業報告將成為市場關注焦點。"
+    },
+    {
+      "id": "mkt:01a0f50b-8c14-7338-ab40-0457db9cd70b",
+      "time": "2026-10-01 09:19:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures reached $61/oz, up 0.72% on the day."
+    },
     {
       "id": "mkt:01a0f50a-cb9a-7338-ab3f-fe158436b6ea",
       "time": "2026-10-01 09:18:40",
@@ -109781,93 +109856,6 @@
         "其他"
       ],
       "text": "【一汽奔騰小馬新增兩款搭載寧德時代電池車型】9月24日，一汽奔騰小馬新增兩款搭載寧德時代電池的新車型——開心馬、幸運馬，官方指導價分別為4.19萬元、4.59萬元。"
-    },
-    {
-      "id": "5110777",
-      "time": "2026-09-24 09:22:10",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行逆回購今日淨回籠1,105億元人民幣。"
-    },
-    {
-      "id": "mkt:01a0d100-b1fb-7118-8674-23ad2ee6497e",
-      "time": "2026-09-24 09:21:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong HSI opened down 184.67 points (-0.74%) at 24,649.45 on Sept 24. Hang Seng TECH opened down 34.22 points (-0.78%) at 4,344.85. China Enterprises Index (HSCEI) opened down 58.26 points (-0.70%) at 8,215.55. Red-Chip Index opened down 19.15 points (-0.48%) at 4,008.06."
-    },
-    {
-      "id": "em:qqyh_zgyh:202609243883300340",
-      "time": "2026-09-24 09:21:15",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展515億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:01a0d100-7c17-7118-8674-1e844b79d983",
-      "time": "2026-09-24 09:21:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Hang Seng Tech Index"
-      ],
-      "text": "Hong Kong stocks opened lower; HSI down 0.74% and Hang Seng Tech Index down 0.78%. Gold miners led losses while select marquee internet and tech names showed pockets of buying."
-    },
-    {
-      "id": "5110776",
-      "time": "2026-09-24 09:21:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥表示，第四輪美墨貿易談判已推遲，或於10月舉行。"
-    },
-    {
-      "id": "5110775",
-      "time": "2026-09-24 09:21:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股開盤：恒生指數跌0.74%，恒生科技指數跌0.78%】洛陽鉬業跌1.72%，理想汽車-W跌1.73%，信義光能跌1.77%，華潤置地跌2.03%，MINIMAX-W跌2.55%，創科實業跌3.32%，天數智芯跌3.38%。"
-    },
-    {
-      "id": "mkt:01a0d100-3ae8-7118-8674-15fb2133c40d",
-      "time": "2026-09-24 09:20:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH"
-      ],
-      "text": "PBOC today conducted a 7-day reverse repo of 51.5 bln yuan; bids totaled 51.5 bln, allotment 51.5 bln, rate 1.40%, unchanged."
-    },
-    {
-      "id": "5110774",
-      "time": "2026-09-24 09:20:36",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展515億元人民幣7天期逆回購操作，利率1.40% 。"
-    },
-    {
-      "id": "mkt:01a0d0ff-9278-7118-8674-0888f8138c24",
-      "time": "2026-09-24 09:20:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Australia's seasonally adjusted unemployment rate for August will be released in 10 minutes."
     }
   ]
 }
