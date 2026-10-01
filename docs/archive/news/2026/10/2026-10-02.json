@@ -1,7 +1,104 @@
 {
   "date": "2026-10-02",
-  "count": 250,
+  "count": 259,
   "items": [
+    {
+      "id": "5123126",
+      "time": "2026-10-02 02:30:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：歐洲能夠幫助緩解當前局勢，我對此抱有十足信心。我認為我們很快會有一些利好訊息。"
+    },
+    {
+      "id": "mkt:01a0f8bb-6de8-7338-ab55-a732d53ac287",
+      "time": "2026-10-02 02:30:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 1.37% at 906.8 yuan/gram in the Oct. 1 evening session (Thursday). Shanghai Gold Exchange silver T+D closed up 0.67% at 14,890 yuan/kg in the Oct. 1 evening session."
+    },
+    {
+      "id": "mkt:01a0f8bb-693f-7338-ab55-9d6e97eda2a8",
+      "time": "2026-10-02 02:30:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US Energy Secretary wright said he expects some positive news."
+    },
+    {
+      "id": "mkt:01a0f8bb-5420-7338-ab55-9570ef8f3bfc",
+      "time": "2026-10-02 02:30:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "U.S. Energy Secretary Wright said Europe can help improve the situation and he is very confident."
+    },
+    {
+      "id": "mkt:01a0f8bb-4ea9-7338-ab55-89f3835bc441",
+      "time": "2026-10-02 02:30:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Fox News reports US Energy Secretary Wright said he will ask Europe to release strategic diesel reserves."
+    },
+    {
+      "id": "te:markets:588900",
+      "time": "2026-10-02 02:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Bitcoin Increases by 1.46% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.46% increase."
+    },
+    {
+      "id": "5123125",
+      "time": "2026-10-02 02:29:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：我們肯定會要求歐洲釋放戰略柴油儲備。"
+    },
+    {
+      "id": "5123124",
+      "time": "2026-10-02 02:28:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM：推出 IBM Bob 自託管部署方案，助力實現 AI 主權與治理。"
+    },
+    {
+      "id": "mkt:01a0f8b9-9dea-7338-ab55-836930afb956",
+      "time": "2026-10-02 02:28:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Kashkari: Fed likely needs further hikes, uncertain on October move】Minneapolis Fed President Kashkari said he expects the Fed will need further rate hikes to rein in the economy and inflation but does not have a strong view on acting at the October meeting. He had previously forecast another 25bp this year and an additional hike in 2027; since the September meeting US activity has been stronger than he expected and inflation remains too high. If the economy stays unusually strong and inflation proves more persistent, rates could need to rise above current expectations. Kashkari said the labor market is healthy and the economy's strength suggests policy may not be \"particularly restrictive.\" He added recent market volatility has not created systemic risk and the US Treasury market can absorb a re-pricing of rates."
+    },
     {
       "id": "mkt:01a0f8b8-53b5-7338-ab55-7af9ad4af00f",
       "time": "2026-10-02 02:27:04",
