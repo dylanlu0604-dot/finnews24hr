@@ -1,7 +1,80 @@
 {
   "date": "2026-10-01",
-  "count": 1134,
+  "count": 1142,
   "items": [
+    {
+      "id": "te:markets:588585",
+      "time": "2026-10-01 15:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Germany Hit 9-week Low — DE40 decreased to 25010.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Germany Stock Market Index (DE40) lost 3.15%, and in the last 12 months, it increased 2.46%."
+    },
+    {
+      "id": "5122207",
+      "time": "2026-10-01 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普跌，德國DAX指數跌0.79%，英國富時100指數跌0.29%，法國CAC40指數跌0.89%，歐洲斯托克50指數跌0.81%，義大利富時MIB指數跌0.84%。"
+    },
+    {
+      "id": "5122206",
+      "time": "2026-10-01 14:59:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車9月汽車銷量下滑16％。"
+    },
+    {
+      "id": "5122205",
+      "time": "2026-10-01 14:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【拉夫羅夫覆盤俄烏衝突：必須時刻保持警惕，不要寄希望於別人】9月29日，在瓦爾代俱樂部會議上，俄羅斯外長拉夫羅夫從俄方視角出發，詳細覆盤了十餘年的俄烏衝突歷史經緯，並對烏克蘭政府表示失望：“我們已經停火過，也知道最後是什麼結果”。瓦爾代俱樂部活動現場，美國昆西研究所歐亞專案主任阿納托爾·利文向拉夫羅夫提問，僵持的烏東戰事若持續下去，料將導致大量俄羅斯人陣亡，武裝衝突是否值得繼續？拉夫羅夫先沒有直接回答問題，而是完整講述了烏克蘭問題的歷史經緯。時間回溯至2013年，烏克蘭擬與歐盟簽署聯絡國協定，引發俄羅斯嚴重關切。俄方認為，烏克蘭與歐洲各國後來並沒有真正解決俄方關切，尤其是烏方對待東部俄語區居民的做法。拉夫羅夫說：“所以我們的領土能落到這樣的人手中嗎？他們想的是領土，我們的西方同行們滿腦子只有領土，而我們想的是人。” 拉夫羅夫最後總結道，俄方必須時刻保持警惕，不要寄希望於別人。（觀察者網）"
+    },
+    {
+      "id": "mkt:01a0f641-cfbf-7338-ab44-6cb6f16097c1",
+      "time": "2026-10-01 14:58:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong firms tighten cleanup of mainland illegal trading; some remain on the sidelines】Channels for mainland investors to trade in Hong Kong via illicit cross‑border routes are being narrowed. Several China-funded brokers in Hong Kong have tightened legacy mainland business: mainland logins to mainland accounts are restricted to sell and fund withdrawals only; deposits and buy orders are blocked. The enforcement hinge is whether the IP used to access a Hong Kong securities account appears to be located in mainland China. Xingzheng International and GUOTAI JUNAN International implemented such restrictions from Sept. 7 and Sept. 26 respectively; Oriental Financial Holdings has notified clients it will implement from October. Some China-funded brokers in Hong Kong have not yet restricted access, and some foreign brokers are monitoring developments. Industry contacts say both Chinese offshore and foreign brokers face ongoing cleanup of illegal mainland client business and that more offshore firms will adjust mainland legacy flows."
+    },
+    {
+      "id": "5122204",
+      "time": "2026-10-01 14:58:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局釋出適航指令，針對波音757-300機型。"
+    },
+    {
+      "id": "te:markets:588583",
+      "time": "2026-10-01 14:56:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Climb on Chip Rally — The Nikkei 225 Index jumped 3.3% to close at 68,957 on Thursday, rising for a second consecutive session to its highest level in six weeks as technology and artificial intelligence-related stocks rallied following Micron Technology’s strong outlook. The US memory chipmaker issued an upbeat revenue forecast for the current quarter, signaling continued demand for AI memory chips. Japanese chip and AI-related shares outperformed amid the country’s role in the global AI buildout, with notable gains from Kioxia (5.6%), Advantest (9.8%), Taiyo Yuden (8.3%), Murata Manufacturing (8.4%) and Lasertec (11.1%). Meanwhile, Nidec plunged 10.8% after the motor maker’s auditor declined to issue an opinion on its long-awaited financial statements. Elsewhere, central bank data showed manufacturing sentiment improved in the third quarter to its highest level in more than eight years, while overall business conditions reached their most favorable levels in decades."
+    },
+    {
+      "id": "5122203",
+      "time": "2026-10-01 14:56:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓政府再被裁定向美對沖基金賠償4849萬美元】投資者與國家爭端解決機制（ISDS）仲裁庭上月30日對“美國對沖基金埃利奧特要求韓國政府索賠案”作出裁決，裁定韓國政府敗訴，向埃利奧特賠償4849萬美元並支付相應的逾期利息。這是仲裁庭時隔7個月推翻英國法院今年2月作出的韓國政府勝訴裁決。仲裁庭認定，韓國政府於2015年介入三星物產和第一毛織合併，逼迫最大股東投贊成票，由此給埃利奧特造成損失，並作出包含上述內容的裁決。"
+    },
     {
       "id": "5122202",
       "time": "2026-10-01 14:55:41",
