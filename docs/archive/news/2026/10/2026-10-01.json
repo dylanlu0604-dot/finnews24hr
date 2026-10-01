@@ -1,7 +1,61 @@
 {
   "date": "2026-10-01",
-  "count": 1678,
+  "count": 1684,
   "items": [
+    {
+      "id": "5122744",
+      "time": "2026-10-01 21:06:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員施密德表示，官員們在通脹方面仍有工作要做。"
+    },
+    {
+      "id": "5122743",
+      "time": "2026-10-01 21:05:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利市長：援助資金將幫助布達佩斯履行財政義務。"
+    },
+    {
+      "id": "mkt:01a0f791-c810-7338-ab4d-51420f096e6d",
+      "time": "2026-10-01 21:05:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "The Information, citing sources, reported SpaceX's AI unit held talks this summer to lease compute capacity from Microsoft, indicating Musk has moved to embrace a \"new cloud\" business after initial resistance."
+    },
+    {
+      "id": "5122742",
+      "time": "2026-10-01 21:05:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "提示：美聯儲的巴爾金、柯林斯和施密德在小組討論中發言。"
+    },
+    {
+      "id": "5122741",
+      "time": "2026-10-01 21:04:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利政府將向布達佩斯提供1200億福林一次性援助。"
+    },
+    {
+      "id": "5122740",
+      "time": "2026-10-01 21:03:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "應用材料與Besi擴大戰略合作，推進下一代封裝技術以助力AI規模化發展。"
+    },
     {
       "id": "mkt:01a0f78f-9487-7338-ab4d-4a0413ac722f",
       "time": "2026-10-01 21:02:56",

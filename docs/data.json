@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-01 21:03:50",
-  "count": 11777,
+  "updated": "2026-10-01 21:07:43",
+  "count": 11780,
   "items": [
+    {
+      "id": "5122744",
+      "time": "2026-10-01 21:06:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員施密德表示，官員們在通脹方面仍有工作要做。"
+    },
+    {
+      "id": "5122743",
+      "time": "2026-10-01 21:05:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利市長：援助資金將幫助布達佩斯履行財政義務。"
+    },
+    {
+      "id": "mkt:01a0f791-c810-7338-ab4d-51420f096e6d",
+      "time": "2026-10-01 21:05:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "The Information, citing sources, reported SpaceX's AI unit held talks this summer to lease compute capacity from Microsoft, indicating Musk has moved to embrace a \"new cloud\" business after initial resistance."
+    },
+    {
+      "id": "5122742",
+      "time": "2026-10-01 21:05:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "提示：美聯儲的巴爾金、柯林斯和施密德在小組討論中發言。"
+    },
+    {
+      "id": "5122741",
+      "time": "2026-10-01 21:04:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利政府將向布達佩斯提供1200億福林一次性援助。"
+    },
+    {
+      "id": "5122740",
+      "time": "2026-10-01 21:03:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "應用材料與Besi擴大戰略合作，推進下一代封裝技術以助力AI規模化發展。"
+    },
     {
       "id": "mkt:01a0f78f-9487-7338-ab4d-4a0413ac722f",
       "time": "2026-10-01 21:02:56",
@@ -108042,32 +108096,6 @@
         "公司"
       ],
       "text": "谷歌將於下週四將一顆試驗衛星送入軌道，該衛星將具備足夠算力，可在太空直接處理簡單的人工智慧查詢請求。"
-    },
-    {
-      "id": "5112105",
-      "time": "2026-09-24 21:07:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯將2026年石油出口預期上調至2.447億噸。"
-    },
-    {
-      "id": "5112104",
-      "time": "2026-09-24 21:06:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將繼續向北約提供關鍵但更為有限的能力，格林克維奇表示。"
-    },
-    {
-      "id": "5112103",
-      "time": "2026-09-24 21:06:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【新加坡法院裁定Radiant World創始人失去對公司的控制權】新加坡一家法院週四任命畢馬威重組業務高管接管Radiant World，批准債權人瑞穗銀行提出的申請。瑞穗指控這家貿易商在鐵礦石應收賬款融資中涉嫌欺詐。這一決定意味著Radiant World創始人Pinkesh Nahar失去對集團核心運營實體的控制權。瞭解法院決定的知情人士稱，畢馬威的Toh Ai Ling、Adrian Chan和Tan Yen Chiaw將擔任Radiant World Corporation Pte.的臨時司法管理人。該公司是Radiant World在新加坡的核心運營實體。法院週四傳達了這一決定。"
     }
   ]
 }
