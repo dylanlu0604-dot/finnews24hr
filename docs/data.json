@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-01 08:30:07",
-  "count": 11991,
+  "updated": "2026-10-01 08:33:51",
+  "count": 11988,
   "items": [
+    {
+      "id": "mkt:01a0f4df-b3b5-7338-ab3f-506818cd3a83",
+      "time": "2026-10-01 08:31:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI fell as much as 1.00% intraday."
+    },
+    {
+      "id": "5121878",
+      "time": "2026-10-01 08:30:37",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本9月製造業PMI終值 54.1，前值54.1。\n韓國9月滙豐製造業PMI 53.9，前值52.3。\n越南9月標普全球越南製造業PMI 51.9，前值53.3。\n印尼9月製造業PMI為52.4，而去年同期為49.8。"
+    },
+    {
+      "id": "mkt:01a0f4de-6e50-7338-ab3f-4963d6cd17f9",
+      "time": "2026-10-01 08:30:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Nikkei manufacturing PMI 56.7 in September, up from 54.7 previously."
+    },
+    {
+      "id": "mkt:01a0f4de-5de8-7338-ab3f-43c6ad3567b4",
+      "time": "2026-10-01 08:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan September manufacturing PMI (final) 54.1, unchanged from prior reading of 54.1."
+    },
+    {
+      "id": "mkt:01a0f4de-5d24-7338-ab3f-3d4f58596106",
+      "time": "2026-10-01 08:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P Global Vietnam manufacturing PMI 51.9 in September, down from 53.3 previously."
+    },
+    {
+      "id": "mkt:01a0f4de-5ccf-7338-ab3f-34590a925878",
+      "time": "2026-10-01 08:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea HSBC manufacturing PMI 53.9 in September, up from 52.3 previously."
+    },
+    {
+      "id": "mkt:01a0f4de-3c54-7338-ab3f-29cc90d43da4",
+      "time": "2026-10-01 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Manufacturing PMI (Sep) | actual 56.7 | previous 54.7"
+    },
+    {
+      "id": "mkt:01a0f4de-3c41-7338-ab3f-1f55ae8d53b6",
+      "time": "2026-10-01 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Manufacturing PMI (Sep) | actual 53.9 | previous 52.3"
+    },
+    {
+      "id": "mkt:01a0f4de-3c48-7338-ab3f-26dbe56a33ee",
+      "time": "2026-10-01 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Manufacturing PMI Final (Sep) | actual 54.1 | previous 54.1"
+    },
     {
       "id": "5121877",
       "time": "2026-10-01 08:29:34",
@@ -109826,125 +109914,6 @@
         "Hang Seng Index"
       ],
       "text": "【Galaxy Securities: Car market enters \"Golden September, Silver October\" and year-end consumption season】Galaxy Securities says August saw a post-season production and consumption rebound: China domestic passenger-car sales rose MoM, exports stabilised at high levels and YoY growth remained strong. New energy vehicles (NEVs) continued to underpin export growth; commercial-vehicle domestic demand was steady, NEV penetration climbed to near 50%, and strong truck export growth kept commercial-vehicle exports buoyant. Looking ahead, the market is entering a seasonal consumption peak around \"Golden September, Silver October\" into year-end; NEVs are expected to remain the main driver of domestic recovery and elevated export growth, with vehicle sales likely to increase MoM and support industry operating improvement in September and Q4."
-    },
-    {
-      "id": "te:economy:586270",
-      "time": "2026-09-24 08:33:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Composite PMI Slips to 4-Month Low — Japan’s S&P Global Composite PMI Business Activity Index edged down to 52.5 in September 2026 from a final 53.5 in the previous month, flash data showed. It was the lowest reading since May."
-    },
-    {
-      "id": "mkt:01a0d0d4-d39f-7118-8673-691f0e0a00e9",
-      "time": "2026-09-24 08:33:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yemen government says it repelled Houthi assault】Yemeni government forces said they repelled a Houthi assault on the Kahbub Mountains and have retaken large areas; the Houthis now hold only a few pockets and have not commented, while fighting continues. The Kahbub Mountains lie northeast of the Bab al-Mandeb and are a key high ground near the strait. Since Sept. 3 the Houthis have launched an offensive, seized Yemen’s entire western coast and deployed combat units attempting to take Kahbub, a move that would further threaten government-held areas."
-    },
-    {
-      "id": "5110725",
-      "time": "2026-09-24 08:32:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門政府軍稱擊退胡塞武裝攻勢】據卡達方面23日訊息稱，葉門政府軍方面稱，已擊退葉門胡塞武裝對葉門南部拉赫季省卡赫布卜山區發動的攻勢。訊息指出，葉門政府軍方面稱，政府軍已擊退胡塞武裝對卡赫布卜山區發動的攻勢，並已奪回當地大片區域，胡塞武裝目前僅控制當地少數幾塊區域，目前雙方仍在交戰中。對此，胡塞武裝方面暫時沒有回應。"
-    },
-    {
-      "id": "mkt:01a0d0d3-c78b-7118-8673-63f08d9bf4c5",
-      "time": "2026-09-24 08:32:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Morgan Stanley employee mis‑sent email leaks 100+ Asia investment‑banking items】Foreign media report a Morgan Stanley employee accidentally sent an internal file to a client, disclosing details on more than 100 potential Asia investment‑banking deals and project statuses. The document reportedly lists IPO candidates in China, South Korea and India, identifies private equity and pension investors, and includes some projects that have been paused. The email was sent by Muhammad Atmani, head of financial institutions clients for Morgan Stanley Asia‑Pacific."
-    },
-    {
-      "id": "mkt:01a0d0d3-c557-7118-8673-5e5496a602c6",
-      "time": "2026-09-24 08:32:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan preliminary composite PMI for September 52.5, down from 53.5 in August."
-    },
-    {
-      "id": "5110724",
-      "time": "2026-09-24 08:32:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江南布衣收購義大利高階鞋履皮具品牌Marsèll大中華區商標權】從江南布衣處獲悉，其已與義大利高階手工鞋履與皮具品牌 Marsèll 達成戰略合作協議。未來，江南布衣將獨家負責 Marsèll 品牌在大中華區（包括中國內地及港澳臺地區）的所有運營事務，並永久擁有該品牌在此區域內的商標。據公開資料，Marsèll 於 2001 年創立於義大利，是當代高階手工鞋履與皮具領域極具代表性的設計師品牌。（介面新聞 ）"
-    },
-    {
-      "id": "mkt:01a0d0d3-ab70-7118-8673-54c09ddd5a79",
-      "time": "2026-09-24 08:32:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Nikkei 225"
-      ],
-      "text": "Japan September manufacturing PMI (preliminary) 54.1, prior 54.9."
-    },
-    {
-      "id": "mkt:01a0d0d3-a87e-7118-8673-4a049309003c",
-      "time": "2026-09-24 08:32:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump denied an MS NOW report that his aides were considering adding his name to the Ford's Theatre in Washington, D.C."
-    },
-    {
-      "id": "mkt:01a0d0d3-99de-7118-8673-474cc7c02de2",
-      "time": "2026-09-24 08:32:03",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan preliminary September services PMI 51.6, prior 52.5."
-    },
-    {
-      "id": "mkt:01a0d0d3-93ea-7118-8673-394e350474a2",
-      "time": "2026-09-24 08:32:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Manufacturing PMI Flash (Sep) | actual 54.1 | previous 54.9"
-    },
-    {
-      "id": "5110723",
-      "time": "2026-09-24 08:30:40",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本住友電工股價上漲7.1%；與META公司合作建設海底電纜。"
-    },
-    {
-      "id": "5110722",
-      "time": "2026-09-24 08:30:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【賓利推出首款純電車型，起售價17.3萬英鎊】當地時間9月23日晚，賓利首款純電動車型託卡爾（Torcal）於倫敦全球首發，成為該品牌第四個車型系列，也是車型系列中最短的四門車型，起售價為17.3萬英鎊。該車型‌WLTP續航里程最高600公里，最大功率888馬力，峰值扭矩1350牛·米；0-100公里/小時加速最快僅需2.9秒。"
     }
   ]
 }
