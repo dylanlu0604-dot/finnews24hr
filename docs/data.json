@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-02 02:24:05",
-  "count": 11611,
+  "updated": "2026-10-02 02:27:53",
+  "count": 11599,
   "items": [
+    {
+      "id": "mkt:01a0f8b8-53b5-7338-ab55-7af9ad4af00f",
+      "time": "2026-10-02 02:27:04",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "The Central Bank of the Republic of Turkey said it has lowered the proportion of TRY required reserves that must be held in blocked accounts."
+    },
+    {
+      "id": "mkt:01a0f8b7-07c6-7338-ab55-71cba14f3ca2",
+      "time": "2026-10-02 02:25:39",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "Impact bearish"
+      ],
+      "text": "As of Sept 30, SoftBank Group canceled the remaining $10bn undrawn commitment under the March 27 bridge financing agreement with OpenAI."
+    },
+    {
+      "id": "mkt:01a0f8b6-a623-7338-ab55-6e93fac9da1a",
+      "time": "2026-10-02 02:25:14",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SoftBank Group said all borrowings under its bridge financing agreement have been repaid and there are no undrawn commitments remaining."
+    },
+    {
+      "id": "te:markets:588899",
+      "time": "2026-10-02 02:25:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Rises by 3.48% — Top commodity gainers are Rubber (3.48%), Rice (2.39%) and Sugar (1.88%). Biggest losers are Lumber (-1.94%) and Oat (-1.82%)."
+    },
+    {
+      "id": "5123123",
+      "time": "2026-10-02 02:24:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行：下調在凍結賬戶中留存土耳其里拉法定準備金的比例。"
+    },
+    {
+      "id": "5123122",
+      "time": "2026-10-02 02:24:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：俄羅斯已準備好談判並儘快達成協議，但條件必須是俄羅斯民眾能夠接受的。"
+    },
+    {
+      "id": "mkt:01a0f8b5-8a87-7338-ab55-674ab6788850",
+      "time": "2026-10-02 02:24:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish central bank raised the cap on SME loan growth to 5% from 4.5%."
+    },
+    {
+      "id": "mkt:01a0f8b5-7196-7338-ab55-5a33e7437ee6",
+      "time": "2026-10-02 02:23:55",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Putin says Russia is ready to negotiate and seeks a swift end, but only on terms acceptable to the Russian people."
+    },
+    {
+      "id": "5123121",
+      "time": "2026-10-02 02:23:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行：將中小企業貸款增速上限由 4.5% 上調至 5%。"
+    },
     {
       "id": "mkt:01a0f8b4-d853-7338-ab55-552db54e5206",
       "time": "2026-10-02 02:23:16",
@@ -106590,190 +106678,6 @@
         "Importance 1"
       ],
       "text": "Uruguay Jobless Rate Rises in August — Uruguay’s unemployment rate edged up to 7.2% in August 2026 from 7.0% in July, marking the first increase since May. By region, Montevideo recorded a higher unemployment rate than the rest of the country, at 7.3% versus 7.1%. The gap between men and women persisted, with female unemployment at 8.8%, compared with 5.7% for men. Unemployment varied significantly by age, reaching 23.4% among young people aged 14 to 24, the group facing the greatest difficulties entering the labor market. This pattern was similar to that observed in July. Regarding employment quality, both underemployment (9.1%) and the lack of social security registration (20.8%) remained at levels similar to those recorded in the previous month."
-    },
-    {
-      "id": "5112594",
-      "time": "2026-09-25 02:27:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta 將逐步推出 Horizon Create 和 Horizon Studio 的早期訪問許可權。"
-    },
-    {
-      "id": "mkt:01a0d4ac-7c7b-7118-868e-e9aa663e5335",
-      "time": "2026-09-25 02:27:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu called the Turkish president a tyrant."
-    },
-    {
-      "id": "mkt:01a0d4ac-5f64-7118-868e-e6051eb402ec",
-      "time": "2026-09-25 02:27:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "French President Macron said the US decision to ban diesel exports will have adverse effects."
-    },
-    {
-      "id": "5112593",
-      "time": "2026-09-25 02:27:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：美國禁止柴油出口的決定將帶來不利影響。"
-    },
-    {
-      "id": "5112592",
-      "time": "2026-09-25 02:27:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際足聯主席因凡蒂諾承諾“做對足球運動正確的事”。"
-    },
-    {
-      "id": "5112591",
-      "time": "2026-09-25 02:27:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：卡達指責試圖洗腦年輕人，讓他們仇恨以色列與美國。"
-    },
-    {
-      "id": "mkt:01a0d4ac-1e73-7118-868e-dabc8e030680",
-      "time": "2026-09-25 02:27:24",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Alaska Airlines COO said Boeing (BA.N) 737 MAX 10 is expected to be certified by end-September."
-    },
-    {
-      "id": "mkt:01a0d4ab-f9a8-7118-868e-d01ef6dce21e",
-      "time": "2026-09-25 02:27:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister NETANYAHU said some foreign countries have spent tens of billions of dollars spreading lies about Israel."
-    },
-    {
-      "id": "5112590",
-      "time": "2026-09-25 02:27:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡：我們正在打一場捍衛真相的戰爭。"
-    },
-    {
-      "id": "mkt:01a0d4ab-b514-7118-868e-cc1f08400b0f",
-      "time": "2026-09-25 02:26:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "France President Macron said he may consider a coordinated release of strategic oil reserves."
-    },
-    {
-      "id": "5112589",
-      "time": "2026-09-25 02:26:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "TAKE-TWO股價跌至盤中低點，下跌0.7%。"
-    },
-    {
-      "id": "5112588",
-      "time": "2026-09-25 02:26:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "內塔尼亞胡：多個外國斥資數十億美元散佈針對以色列的謊言。"
-    },
-    {
-      "id": "5112587",
-      "time": "2026-09-25 02:26:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：或許我們可以考慮以協調方式釋放戰略石油儲備。"
-    },
-    {
-      "id": "5112586",
-      "time": "2026-09-25 02:26:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：過去三年來，以色列士兵一直在七條戰線上作戰，包括哈馬斯、真主黨、伊朗、胡塞武裝、伊拉克民兵、敘利亞民兵以及巴勒斯坦人。"
-    },
-    {
-      "id": "mkt:01a0d4aa-bb37-7118-868e-c650397d2534",
-      "time": "2026-09-25 02:25:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk said space-based compute will eventually account for 100% of all compute."
-    },
-    {
-      "id": "5112585",
-      "time": "2026-09-25 02:25:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta 推出 Horizon Create 與 Horizon Studio。"
-    },
-    {
-      "id": "te:markets:586649",
-      "time": "2026-09-25 02:25:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rubber Gains by 3.23% — Top commodity gainers are Rubber (3.23%), Oat (1.57%) and Rice (1.31%). Biggest losers are Sugar (-0.90%) and Rapeseed (-0.76%)."
-    },
-    {
-      "id": "5112584",
-      "time": "2026-09-25 02:24:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：太空中的算力佔比，顯然會一路飆升到100%。"
-    },
-    {
-      "id": "mkt:01a0d4a9-a536-7118-868e-bfa3a621b060",
-      "time": "2026-09-25 02:24:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Macron says France will deploy military forces and troops to protect Red Sea shipping lanes."
-    },
-    {
-      "id": "5112583",
-      "time": "2026-09-25 02:24:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬克龍：法國擁有充足的石油和天然氣，可避免短缺。"
-    },
-    {
-      "id": "5112582",
-      "time": "2026-09-25 02:24:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "ROBLOX股價跌幅擴大至2.7%。"
     }
   ]
 }
