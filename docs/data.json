@@ -1,7 +1,102 @@
 {
-  "updated": "2026-10-01 20:40:19",
-  "count": 11737,
+  "updated": "2026-10-01 20:44:12",
+  "count": 11745,
   "items": [
+    {
+      "id": "5122713",
+      "time": "2026-10-01 20:43:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基與達飛輪船終止ASAS2航線合作。"
+    },
+    {
+      "id": "mkt:01a0f77d-dd5c-7338-ab4c-fc389f77b7fc",
+      "time": "2026-10-01 20:43:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO Secretary-General Rutte said Russia is attempting to divide NATO, but his message is clear: remain calm and continue supporting Ukraine."
+    },
+    {
+      "id": "mkt:01a0f77d-bd71-7338-ab4c-f21d598b4002",
+      "time": "2026-10-01 20:43:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "President Zelenskiy said talks with the European Commission produced positive results to meet Ukraine's fiscal and defense needs for 2026 and 2027."
+    },
+    {
+      "id": "5122711",
+      "time": "2026-10-01 20:42:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "佩特拉鑽石公司：將開展戰略評估，其中包括潛在出售流程。"
+    },
+    {
+      "id": "te:economy:588785",
+      "time": "2026-10-01 20:42:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Jobless Claims Fall to Lowest Level Since July — The number of Americans filing for unemployment benefits fell by 1,000 to 197,000 in the week ended September 26, below expectations of 200,000 and down from a revised 198,000, according to the US Department of Labor. The figure reached its lowest level since the 60-year low of 189,000 recorded in mid-July, pointing to continued resilience in the US labor market. Continuing claims fell by 11,000 to 1.701 million in the week ended September 19, the lowest since April 2023. Initial claims from federal employees rose by 7 to 369, remaining well below historical levels despite increased attention on the administration’s efforts to shrink the public-sector workforce."
+    },
+    {
+      "id": "5122710",
+      "time": "2026-10-01 20:42:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威主權財富基金：改革將主動所有權與主動管理整合至同一部門。"
+    },
+    {
+      "id": "5122709",
+      "time": "2026-10-01 20:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基： 我們與歐盟委員會的對話在解決烏克蘭 2026 年和 2027 年財政與防務需求方面取得良好成果。雙方已敲定保障資金足額到位所需的方案形式、時間安排及實施步驟。接下來，我們將每月協調相關工作、統一行動，保持持續溝通。"
+    },
+    {
+      "id": "mkt:01a0f77c-5845-7338-ab4c-ee3ab1164b24",
+      "time": "2026-10-01 20:41:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【US initial jobless claims fall; September layoffs ease】US initial jobless claims fell 1,000 to 197,000 in the week ended Sep 26, the US Labor Department said on Thursday, versus a Refinitiv survey median of 200,000. September layoffs also declined, indicating continued labor-market resilience even as employers remain cautious about hiring. Claims remain near a 57-year low; economists said strong corporate profit growth and firm domestic demand have limited layoffs, despite the US‑Iran conflict lifting energy prices and diesel at record highs."
+    },
+    {
+      "id": "5122707",
+      "time": "2026-10-01 20:41:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟將向烏克蘭提供450億歐元貸款，期限至2027年】歐盟委員會在一份宣告中表示，已同意推進烏克蘭支援貸款項下450億歐元資金的撥付，資金髮放需滿足既定條件。歐盟委員會稱還將著手評估烏克蘭額外的預算與防務需求。宣告表示：“各方一致認為，鑑於烏克蘭正面臨嚴峻挑戰，其他夥伴也應履行自身資金承諾，並加大相關投入。”"
+    },
+    {
+      "id": "5122706",
+      "time": "2026-10-01 20:39:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "餘承東：享界V8 開啟預訂72小時，訂單突破8200臺。"
+    },
     {
       "id": "5122705",
       "time": "2026-10-01 20:39:47",
@@ -107703,30 +107798,6 @@
         "美聯儲"
       ],
       "text": "美聯儲巴爾金表示，今年夏天通脹的持續性更加明顯。"
-    },
-    {
-      "id": "te:economy:586554",
-      "time": "2026-09-24 20:42:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "US Current Account Shortfall Smaller than Expected — The United States current account deficit rose to a seasonally adjusted $246 billion in Q2 2026 from a downwardly revised $212.6 billion in Q1, though coming slightly below the expected $255 billion. The goods shortall increased to $291.3 billion from $250.9 billion, as goods imports (+7.8%) grew more than exports (+4.4%), while the services surplus was little changed at $91.5 billion. Meanwhile, the primary income gap fell to $11.4 billion from $15.8 billion, largely due to an increase in direct and portfolio investment income. At the same time, the secondary income deficit shrank to $34.8 billion from $38 billion, helped by higher general government transfer receipts, particularly fines and penalties, as well as private transfer receipts. The gap reflected a current account deficit of 3% of the US GDP in Q2, up from 2.7% in the prior quarter."
-    },
-    {
-      "id": "te:economy:586549",
-      "time": "2026-09-24 20:41:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Wage Growth",
-        "Importance 1"
-      ],
-      "text": "Canada Weekly Earnings Growth Moderates — Canada’s average weekly earnings for non-farm payroll employees rose 3.2% year-on-year to C$1,347 in July 2026, following a 3.4% increase in the previous month. Wage gains were most pronounced in finance and insurance (9.9%), management of companies and enterprises (9.4%), administrative and support, waste management and remediation services (8.5%), arts, entertainment and recreation (7.4%), and utilities (4.9%). In contrast, wages declined in forestry, logging and support activities (-3.1%) and real estate and rental and leasing (-2.9%). By province, Nova Scotia (5.6%) posted the largest increase, followed by New Brunswick (5.3%) and the Northwest Territories (4.8%). On a monthly basis, average weekly earnings were little changed in July, while average weekly hours worked remained at 33.4 hours."
     }
   ]
 }
