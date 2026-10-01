@@ -1,7 +1,126 @@
 {
-  "updated": "2026-10-01 20:09:59",
-  "count": 11672,
+  "updated": "2026-10-01 20:13:46",
+  "count": 11684,
   "items": [
+    {
+      "id": "mkt:01a0f762-2022-7338-ab4c-3851fe239ba9",
+      "time": "2026-10-01 20:13:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF ENGLAND'S monetary policy committee member MANN said the Bank must clearly communicate its reaction function; if it fails to act, both policy and CPI expectations would shift."
+    },
+    {
+      "id": "5122666",
+      "time": "2026-10-01 20:13:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "內塔尼亞胡：現在說是否與伊朗有聯絡還為時過早。"
+    },
+    {
+      "id": "5122665",
+      "time": "2026-10-01 20:12:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：我們將繼續動用財政空間助力抗擊通脹。"
+    },
+    {
+      "id": "5122664",
+      "time": "2026-10-01 20:12:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "威嘉英國合夥人湯姆·理查茲據悉將離職，加入盛信律師事務所。"
+    },
+    {
+      "id": "mkt:01a0f761-23d9-7338-ab4c-371ec6ebf358",
+      "time": "2026-10-01 20:12:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "HPQ.N",
+        "Impact bullish"
+      ],
+      "text": "MORGAN STANLEY lowered its PT for Apple (AAPL.O) to $355.00 from $360.00 and raised its PT for HP (HPQ.N) to $72.00 from $67.00."
+    },
+    {
+      "id": "te:economy:588777",
+      "time": "2026-10-01 20:11:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Mexico Manufacturing Confidence Stalls at 48 Points — Mexico’s manufacturing business confidence remained unchanged at 48 points in September 2026, staying below the 50-point threshold for the 18th consecutive month. The monthly reading reflected no change in firms’ assessment of the country’s current economic situation, at 47.8 points, or of whether the current period is appropriate for investment, at 34.3 points. Meanwhile, firms’ assessment of their companies’ current economic situation deteriorated by 0.2 point to 50.1, while expectations for their companies’ future economic situation fell 0.5 point to 55.4. In contrast, businesses’ expectations for the country’s future economic situation improved by 0.3 point to 52.2."
+    },
+    {
+      "id": "5122663",
+      "time": "2026-10-01 20:11:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將蘋果目標價從360.00美元下調至355.00美元。"
+    },
+    {
+      "id": "5122662",
+      "time": "2026-10-01 20:11:25",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "英國央行委員曼恩：若不採取行動，政策和CPI預期將發生變化。"
+    },
+    {
+      "id": "5122661",
+      "time": "2026-10-01 20:11:22",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部長：我們認為，今年農業豐產大機率將有助於緩解食品通脹。"
+    },
+    {
+      "id": "5122660",
+      "time": "2026-10-01 20:11:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "英國央行官員曼恩：央行可能未能在3月明確闡述其對中東衝擊的反應機制，而4月未公佈基線預測可能也無助於事態。"
+    },
+    {
+      "id": "5122659",
+      "time": "2026-10-01 20:10:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普之道——美國優先。"
+    },
+    {
+      "id": "5122658",
+      "time": "2026-10-01 20:10:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "味好美：美洲包裝短缺可能拖累第四季度銷量。"
+    },
+    {
+      "id": "5122657",
+      "time": "2026-10-01 20:09:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期首日，國鐵廣州局預計傳送旅客383.7萬人次】10月1日，國鐵廣州局迎來國慶假期客流最高峰，預計傳送旅客383.7萬人次，較2025年同期增加33萬人次，增幅9.4%，創單日旅客傳送歷史新高。"
+    },
     {
       "id": "5122656",
       "time": "2026-10-01 20:09:07",
@@ -107152,18 +107271,6 @@
         "美國"
       ],
       "text": "美國上週首次申領失業救濟人數為19.7萬人，預估為20萬人。"
-    },
-    {
-      "id": "te:economy:586542",
-      "time": "2026-09-24 20:11:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Chile Producer Inflation Hits Highest Since 2022 — Chile’s producer inflation rose to 23.6% year-on-year in August 2026 from 20.5% in July, reaching its highest level since April 2022. Price growth accelerated across all sectors and was most pronounced in mining, where it increased to 40.2% from 34.7%, driven by higher copper prices (41.3% vs 35.3%), as well as rising diesel fuel and steel cable prices. Manufacturing inflation also accelerated to 6.9% from 6.5%, while cost growth in utilities edged up to 1% from 0.5%. On a monthly basis, producer prices rose 2.8%, accelerating from a 1.9% increase in July."
     }
   ]
 }
