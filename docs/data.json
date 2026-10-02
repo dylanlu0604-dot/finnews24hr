@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-02 10:07:24",
-  "count": 11686,
+  "updated": "2026-10-02 10:11:13",
+  "count": 11682,
   "items": [
+    {
+      "id": "mkt:01a0fa60-8069-7ee0-a783-148a2f60a66f",
+      "time": "2026-10-02 10:10:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SPPOMA: Malaysia palm oil production up 18.71% MoM in September】South Peninsular Palm Oil Millers Association (SPPOMA) said Malaysia’s palm oil yield for Sept 1-30, 2026 rose 16.76% month‑on‑month, oil extraction rate rose 0.37% MoM and production rose 18.71% MoM."
+    },
+    {
+      "id": "5123596",
+      "time": "2026-10-02 10:10:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月全國自然災害風險形勢如何？最新研判】近日，國家防災減災救災委員會辦公室、應急管理部會同自然資源部、水利部、農業農村部、中國氣象局、國家能源局、國家林草局等部門和單位召開會商會，對2026年10月及國慶假期全國自然災害風險形勢進行會商研判。綜合分析認為，10月份，華中、華南、西南等部分地區洪澇和風雹災害風險較高，部分中小河流可能發生超警洪水；有1—2個颱風登陸或明顯影響我國；華北、東北、華東、華中、西南、西北局地森林火險等級較高，內蒙古、青海、新疆部分地區草原火險等級較高；華北、華東、中南、西南、西北等部分地區地質災害風險較高；西北和內蒙古等部分地區可能出現階段性乾旱。國慶假期需重點關注洪澇、風雹、森林草原火災、地質災害等風險。（央視新聞）"
+    },
+    {
+      "id": "te:markets:588962",
+      "time": "2026-10-02 10:09:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Near 5-Week Low — Soybean futures fell to around $12.7 per bushel, nearing a five-week low as harvest pressure from an expected record-large US crop weighed on prices. A wet late summer and early autumn slowed the harvest pace, but the arrival of new supplies continued to pressure the market. The harvest was 17% complete as of September 27, matching the five-year average, with the crop rated 58% good or excellent. Expectations of a weaker August soybean crush added pressure, with processors crushing 209.6 million bushels, below the average trade estimate. Weak Chinese demand also weighed on prices as soybeans were excluded from China’s latest US agricultural tariff cuts and remain subject to an additional 10% tariff. Chinese crushers have covered much of their needs through early 2027 with South American supplies, while high inventories and weak margins limit fresh purchases. Still, US export demand remains firm, with weekly sales at 1.03 million tonnes for 2026/27, including 589,400 tonnes to China."
+    },
+    {
+      "id": "mkt:01a0fa5f-1ee3-7ee0-a783-0cac07e319dc",
+      "time": "2026-10-02 10:08:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index fell over 3%; Hang Seng Tech Index's decline widened to 3.3%."
+    },
     {
       "id": "5123595",
       "time": "2026-10-02 10:06:24",
@@ -107311,85 +107351,6 @@
         "國際"
       ],
       "text": "日本財務大臣：我們正在盡我們所能來改善債券收益率。"
-    },
-    {
-      "id": "5112969",
-      "time": "2026-09-25 10:11:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣：債券收益率受多種因素影響。"
-    },
-    {
-      "id": "5112968",
-      "time": "2026-09-25 10:10:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張騄卸任德邦基金總經理】9月25日，德邦基金髮布高階管理人員變更公告稱，公司總經理張騄、總經理助理張瑾因工作調動離任，相關崗位安排顯示另有任用，公司董事長尉遲平將代為履行總經理職務。"
-    },
-    {
-      "id": "5112967",
-      "time": "2026-09-25 10:09:56",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【除權日前日本股市走高 銀行板塊受益於收益率上行上漲】日本股市上漲。債券收益率抬升帶動銀行板塊領漲，同時投資者爭相買入股票，以獲取股息資格。三菱日聯金融集團對東證指數漲幅貢獻最大，該股上漲2.9%。指數內1635只成分股中，1185只上漲，385只下跌，65只持平。 KCM Trade首席市場分析師蒂姆·沃特表示：“近幾周全球及日本收益率走高的大環境，從淨息差角度來看，仍利好金融板塊。” 東證指數約70%成分股收漲，銀行股以及部分人工智慧、半導體相關個股領漲；軟銀集團與有色金屬板塊表現落後。 信金資產管理高階基金經理藤原直樹稱：“經濟與企業盈利基本面穩健，上行趨勢大體保持完好。”他表示，投資者逢低買入科技股與銀行股，日本央行上週政策決議之後，銀行股此前一度走弱。"
-    },
-    {
-      "id": "mkt:01a0d652-ccc2-7118-8693-f383e9076ee2",
-      "time": "2026-09-25 10:09:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY dipped just over 20 pips intraday to 158.35."
-    },
-    {
-      "id": "5112966",
-      "time": "2026-09-25 10:08:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：首相高市對日元普遍走弱表示擔憂。"
-    },
-    {
-      "id": "mkt:01a0d652-4123-7118-8693-efcfa9e937e6",
-      "time": "2026-09-25 10:08:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Market Themes",
-        "The Trump Trade",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's finance minister KATAYAMA said Trump has expressed concern about the weak yen; Japan will coordinate closely with the US on FX."
-    },
-    {
-      "id": "5112965",
-      "time": "2026-09-25 10:08:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美元兌日元下跌0.25%，報158.4700。"
-    },
-    {
-      "id": "mkt:01a0d651-5145-7118-8693-e3eb44f64235",
-      "time": "2026-09-25 10:07:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister KATAYAMA said she would not comment on specific FX levels or on exchange-rate checks."
     }
   ]
 }
