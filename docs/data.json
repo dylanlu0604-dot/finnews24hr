@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-02 16:33:32",
-  "count": 11694,
+  "updated": "2026-10-02 16:37:21",
+  "count": 11683,
   "items": [
+    {
+      "id": "5123960",
+      "time": "2026-10-02 16:36:18",
+      "tags": [
+        "資料"
+      ],
+      "text": "【我國深地油氣開發實現關鍵跨越】10月1日，位於塔克拉瑪干沙漠北緣的塔里木油田震探1井完成取芯作業，在地下8080米獲取到連續6米的巖芯，這些灰色的石頭來自寒武系玉爾吐斯組，已在地下沉睡了5億年之久。這是塔里木盆地西北緣首次在此深度取出烴源巖。中國石油塔里木油田勘探事業部臺盆區勘探專案部主任徐亞南：“這就是寶貝，有了這些寶貴的岩石，我們就可以分析評價8000米之下油氣的生成能力，油氣的厚度是多少，油氣成熟度是什麼樣子，這也是我們繼萬米科探井之後又一次在8000米之下取出烴源巖，彰顯了我們鑽井技術重要進步。”我國深地油氣勘探正迎來關鍵跨越。截至目前，塔里木油田已鑽探8000米以深井超270口，佔我國總量50%以上，2025年率先完鑽我國首口超萬米深井-深地塔科1井，超深油氣年產量超2000萬噸，建成我國最大超深油氣生產基地，引領和帶動我國深地油氣勘探開發相關產業和關鍵核心技術進步。（央視財經）"
+    },
+    {
+      "id": "5123959",
+      "time": "2026-10-02 16:35:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯別爾哥羅德州遇烏克蘭無人機襲擊，造成一人死亡。"
+    },
     {
       "id": "5123958",
       "time": "2026-10-02 16:33:06",
@@ -107189,125 +107205,6 @@
         "Impact bullish"
       ],
       "text": "HKEX filing: Standard Chartered repurchased 363,360 shares on other exchanges on Sept 24 for £8.2 mln."
-    },
-    {
-      "id": "mkt:01a0d7b6-41e4-7118-8697-94fd53ad3d97",
-      "time": "2026-09-25 16:37:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said the EU and the IMF are clear on the importance of providing assistance to Ukraine to fill its budget gap."
-    },
-    {
-      "id": "mkt:01a0d7b6-1871-7118-8697-8ef816dcf80d",
-      "time": "2026-09-25 16:37:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Ukrainian President Zelenskiy said Russia's hybrid attacks on Europe will continue."
-    },
-    {
-      "id": "mkt:01a0d7b5-fc4e-7118-8697-85d387b9f85c",
-      "time": "2026-09-25 16:37:03",
-      "tags": [
-        "MKT News",
-        "RTX.O",
-        "Impact bullish"
-      ],
-      "text": "Zelenskiy said Trump had guaranteed Ukraine would receive a production license for the Patriot air-defense system."
-    },
-    {
-      "id": "5113351",
-      "time": "2026-09-25 16:37:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱俄羅斯對歐洲的混合攻擊將持續。"
-    },
-    {
-      "id": "mkt:01a0d7b5-d5a0-7118-8697-7bc402464db7",
-      "time": "2026-09-25 16:36:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said his government team will shortly hold detailed talks in Ukraine or Brussels on financing for Ukraine."
-    },
-    {
-      "id": "mkt:01a0d7b5-9a37-7118-8697-76a262c993e3",
-      "time": "2026-09-25 16:36:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "European Commission says natural gas supplies remain stable."
-    },
-    {
-      "id": "mkt:01a0d7b5-78ab-7118-8697-6d18b63b7d6c",
-      "time": "2026-09-25 16:36:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "EU gas coordination group to reconvene on Oct 8."
-    },
-    {
-      "id": "5113350",
-      "time": "2026-09-25 16:36:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "渣打銀行於9月24日在其他交易所回購363360股股份，斥資820萬英鎊，出自港交所檔案。"
-    },
-    {
-      "id": "5113349",
-      "time": "2026-09-25 16:36:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：哈薩克在軍演發生軍人死亡事件後拘留海軍第一副司令與四名部隊指揮官。"
-    },
-    {
-      "id": "5113348",
-      "time": "2026-09-25 16:36:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "RobotPhoenix 與 CAS Space 簽署為期三年的合作協議，共同推進航空航天製造框架合作。"
-    },
-    {
-      "id": "5113347",
-      "time": "2026-09-25 16:35:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟天然氣協調小組將於10月8日再次召開會議。"
-    },
-    {
-      "id": "5113346",
-      "time": "2026-09-25 16:34:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "大塚食品將上調部分即食包裝產品的價格。"
-    },
-    {
-      "id": "5113345",
-      "time": "2026-09-25 16:34:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會：天然氣供應保持穩定。"
     }
   ]
 }
