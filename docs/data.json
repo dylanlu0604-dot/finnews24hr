@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-02 10:33:54",
-  "count": 11681,
+  "updated": "2026-10-02 10:37:37",
+  "count": 11688,
   "items": [
+    {
+      "id": "mkt:01a0fa78-077e-7ee0-a783-7fdfc8a67d64",
+      "time": "2026-10-02 10:36:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's minister for economic revitalization said the Takaichi administration's policies differ from Abenomics by seeking to balance robust economic growth with fiscal discipline and by prioritizing enhancement of Japan's supply-side capacity."
+    },
+    {
+      "id": "te:markets:588970",
+      "time": "2026-10-02 10:35:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Steadies After Hot Tokyo Inflation Data — The Japanese yen strengthened slightly below 158 per dollar on Friday, trimming recent losses after data showed Tokyo’s core inflation accelerated to 2.7% in September, exceeding the Bank of Japan’s 2% target for the first time in nine months. However, a summary of opinions from the central bank’s September meeting offered fewer hawkish signals than investors had anticipated. The summary showed the central bank shifting its focus toward preventing inflation from exceeding its target, pointing to another rate increase this year, but provided little clarity on the timing. The yen also remained on track for a third consecutive weekly decline, pressured by a stronger dollar and elevated Treasury yields amid expectations that the Federal Reserve may need to raise interest rates further to contain energy-driven inflation. This points to the possibility of wider US-Japan interest-rate differentials, as the Fed’s tightening cycle has continued to move ahead of the BOJ’s rate hikes."
+    },
+    {
+      "id": "mkt:01a0fa77-c38b-7ee0-a783-757e880d3128",
+      "time": "2026-10-02 10:35:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "EURUSD",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "【EU diesel prices hit record highs in 12 countries】European Commission data published Oct 1 show the EU average diesel retail price rose to a record €2.24 per litre, up from €1.59 per litre before the outbreak of the Middle East conflict. Diesel prices reached historic highs in 12 member states, including Belgium, Italy, Romania and Poland."
+    },
+    {
+      "id": "5123613",
+      "time": "2026-10-02 10:35:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "城內實：高市（早苗）政府的政策與“安倍經濟學”不同，其特點在於力求兼顧強勁經濟與財政紀律，並側重於提升日本的供給能力。"
+    },
+    {
+      "id": "5123612",
+      "time": "2026-10-02 10:35:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《八仙！》上映77天， 總票房破20億。"
+    },
+    {
+      "id": "mkt:01a0fa76-b711-7ee0-a783-6a1314c5c8a3",
+      "time": "2026-10-02 10:34:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's minister for economic revitalization Minoru Kiuchi said a Takaichi administration's policies would differ from reflation measures aimed at ending Japan's deflation."
+    },
+    {
+      "id": "5123611",
+      "time": "2026-10-02 10:34:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "城內實：高市內閣的政策與旨在推動日本擺脫通縮的再通脹政策不同。"
+    },
+    {
+      "id": "5123610",
+      "time": "2026-10-02 10:33:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股物理AI相關個股走弱，歡創科技上市第二天大跌超40%。"
+    },
     {
       "id": "mkt:01a0fa75-5275-7ee0-a783-64aeb696ea92",
       "time": "2026-10-02 10:33:07",
@@ -107315,20 +107392,6 @@
         "其他"
       ],
       "text": "【梅賽德斯-邁巴赫S級轎車改款上市，搭載高階智慧輔助駕駛系統】9月25日，梅賽德斯-賓士宣佈，改款邁巴赫S級轎車正式上市，售價139.8萬元起。新車車長5485毫米，軸距3396毫米，首次搭載賓士自研MB.OS架構及最新智慧人機互動系統；由中國團隊主導研發的高階後排娛樂系統，應用端側多模態VLM大模型。新車搭載由梅賽德斯-賓士與Momenta共同研發的城區及高速領航輔助駕駛系統，標配後輪主動轉向系統提供±10°轉向角。此外，車頭進氣格柵尺寸較前代增大20%，引擎蓋上的三叉星徽立標、格柵輪廓與格柵框架中的“MAYBACH”字樣均首次實現發光效果。"
-    },
-    {
-      "id": "mkt:01a0d66b-dcae-7118-8694-2a08150df0f1",
-      "time": "2026-09-25 10:36:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "【Trump raises concern over yen weakness with Japan's TAKAICHI; KATAYAMA says Tokyo will keep FX talks with US Treasury】President Trump told Prime Minister TAKAICHI in a New York meeting earlier this week that he was concerned about yen depreciation, KATAYAMA said. TAKAICHI replied that an undervalued yen is a matter for attention. KATAYAMA said she will continue close coordination with US Treasury Secretary BESSENT on a range of issues including foreign exchange. Remarks came as the yen returned to trade near 160 per dollar after a five-day holiday, having weakened last week despite rate hikes from the Federal Reserve and the Bank of Japan."
     }
   ]
 }
