@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-02 10:30:09",
-  "count": 11680,
+  "updated": "2026-10-02 10:33:54",
+  "count": 11681,
   "items": [
+    {
+      "id": "mkt:01a0fa75-5275-7ee0-a783-64aeb696ea92",
+      "time": "2026-10-02 10:33:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's minister for economic revitalization Minoru Kiuchi said Japan is no longer in deflation and therefore does not need an excessively loose monetary policy to support higher inflation."
+    },
+    {
+      "id": "5123609",
+      "time": "2026-10-02 10:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟再生擔當大臣城內實：日本已不再處於通縮狀態，因此無需實施旨在推高通脹的過度寬鬆貨幣政策。"
+    },
+    {
+      "id": "5123608",
+      "time": "2026-10-02 10:32:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁威爾科技：總裁兼首席營運官Chris Koopmans減持1萬股，套現約262.05萬美元】邁威爾科技總裁兼首席營運官ChrisKoopmans提交Form4持股變動宣告。10月1日，總裁兼首席營運官ChrisKoopmans透過1筆交易合計減持1萬股普通股，成交價格262.05美元，加權均價約262.05美元，套現約262.05萬美元。減持後，Koopmans直接持有公司普通股207941股。本次減持依據Rule10b5-1交易計劃執行。"
+    },
+    {
+      "id": "5123607",
+      "time": "2026-10-02 10:31:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤下跌0.9%，報68,326.72點；東證指數早盤收盤下跌1%，報4089.26點。"
+    },
     {
       "id": "mkt:01a0fa71-9aed-7ee0-a783-5bd55ee1e8ab",
       "time": "2026-10-02 10:29:04",
@@ -107293,30 +107329,6 @@
         "Impact bullish"
       ],
       "text": "【Trump raises concern over yen weakness with Japan's TAKAICHI; KATAYAMA says Tokyo will keep FX talks with US Treasury】President Trump told Prime Minister TAKAICHI in a New York meeting earlier this week that he was concerned about yen depreciation, KATAYAMA said. TAKAICHI replied that an undervalued yen is a matter for attention. KATAYAMA said she will continue close coordination with US Treasury Secretary BESSENT on a range of issues including foreign exchange. Remarks came as the yen returned to trade near 160 per dollar after a five-day holiday, having weakened last week despite rate hikes from the Federal Reserve and the Bank of Japan."
-    },
-    {
-      "id": "5112987",
-      "time": "2026-09-25 10:33:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "KKR出售位於日本的福朋喜來登靈活酒店資產組合。"
-    },
-    {
-      "id": "5112986",
-      "time": "2026-09-25 10:32:49",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家統計局：第四次全國農業普查進入清查摸底階段】國家統計局四農普集中辦 蘭翔：截至目前，我們已經完成了普查方案制定、普查區劃分及建築物標繪、普查指導員和普查員選聘等工作，前期的各項任務取得階段性成效。按照四農普的工作安排，接下來我們會在9月到11月在全國範圍內開展清查摸底。據介紹，清查摸底是第四次全國農業普查中重要的前置環節，它的核心任務是為了在明年1—5月份普查入戶登記工作正式開展前，“找全、查清、劃準”普查物件。（央視新聞）"
-    },
-    {
-      "id": "5112985",
-      "time": "2026-09-25 10:32:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "截至早盤收盤，日經225指數、東證指數漲1.2%。"
     }
   ]
 }

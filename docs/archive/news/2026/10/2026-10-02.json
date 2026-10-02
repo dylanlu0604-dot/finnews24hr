@@ -1,7 +1,43 @@
 {
   "date": "2026-10-02",
-  "count": 851,
+  "count": 855,
   "items": [
+    {
+      "id": "mkt:01a0fa75-5275-7ee0-a783-64aeb696ea92",
+      "time": "2026-10-02 10:33:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's minister for economic revitalization Minoru Kiuchi said Japan is no longer in deflation and therefore does not need an excessively loose monetary policy to support higher inflation."
+    },
+    {
+      "id": "5123609",
+      "time": "2026-10-02 10:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟再生擔當大臣城內實：日本已不再處於通縮狀態，因此無需實施旨在推高通脹的過度寬鬆貨幣政策。"
+    },
+    {
+      "id": "5123608",
+      "time": "2026-10-02 10:32:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁威爾科技：總裁兼首席營運官Chris Koopmans減持1萬股，套現約262.05萬美元】邁威爾科技總裁兼首席營運官ChrisKoopmans提交Form4持股變動宣告。10月1日，總裁兼首席營運官ChrisKoopmans透過1筆交易合計減持1萬股普通股，成交價格262.05美元，加權均價約262.05美元，套現約262.05萬美元。減持後，Koopmans直接持有公司普通股207941股。本次減持依據Rule10b5-1交易計劃執行。"
+    },
+    {
+      "id": "5123607",
+      "time": "2026-10-02 10:31:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤下跌0.9%，報68,326.72點；東證指數早盤收盤下跌1%，報4089.26點。"
+    },
     {
       "id": "mkt:01a0fa71-9aed-7ee0-a783-5bd55ee1e8ab",
       "time": "2026-10-02 10:29:04",
