@@ -1,7 +1,27 @@
 {
   "date": "2026-10-02",
-  "count": 845,
+  "count": 847,
   "items": [
+    {
+      "id": "mkt:01a0fa6e-4e78-7ee0-a783-511958da212c",
+      "time": "2026-10-02 10:25:28",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan's minister in charge of economic revitalization said the Bank of Japan's decision to end yield curve control shows Japan no longer needs unconventional monetary stimulus."
+    },
+    {
+      "id": "5123605",
+      "time": "2026-10-02 10:23:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟再生擔當大臣城內實：日本不再需要非常規貨幣刺激措施，正如日本央行決定結束收益率曲線控制政策所體現的那樣。"
+    },
     {
       "id": "mkt:01a0fa6b-31d8-7ee0-a783-4a4b02bdf12e",
       "time": "2026-10-02 10:22:04",
