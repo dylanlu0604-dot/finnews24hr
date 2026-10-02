@@ -1,7 +1,101 @@
 {
   "date": "2026-10-02",
-  "count": 815,
+  "count": 824,
   "items": [
+    {
+      "id": "5123595",
+      "time": "2026-10-02 10:06:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超3%，現報23870.760點；恒生科技指數現跌3.294%。"
+    },
+    {
+      "id": "mkt:01a0fa5c-c3b7-7ee0-a783-025219cc249e",
+      "time": "2026-10-02 10:06:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Kyiv mayor says a Russian airstrike struck a bridge in Kyiv."
+    },
+    {
+      "id": "5123594",
+      "time": "2026-10-02 10:06:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：“捕日者計劃”（Project Suncatcher）原型衛星已進入軌道。"
+    },
+    {
+      "id": "mkt:01a0fa5c-6a47-7ee0-a782-fee077693214",
+      "time": "2026-10-02 10:05:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index fell more than 3%; HSI decline widened to 2.9%."
+    },
+    {
+      "id": "5123593",
+      "time": "2026-10-02 10:05:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長稱，俄羅斯空襲擊中基輔市內一座橋樑。"
+    },
+    {
+      "id": "mkt:01a0fa5b-c134-7ee0-a782-f496bd4d0d4e",
+      "time": "2026-10-02 10:05:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Swedish asset manager Coeli makes first investment in Indonesian equities, says valuations attractive】Swedish asset manager Coeli has begun buying Indonesian equities after the benchmark index tumbled about 30% year-to-date, saying current valuations are attractive. MSCI warned in January it may downgrade Indonesia to frontier-market status; concerns over market transparency, high ownership concentration and low free float have driven outflows, with global funds net-selling $4.7bn of Indonesian shares so far this year. Rising oil prices and the risk of faster inflation have added pressure, and the rupiah has weakened roughly 7% versus the dollar since end-December, the weakest performance in Asia. Coeli’s frontier markets fund targets countries with GDP per capita below $10,000 that it says are overlooked by foreign investors."
+    },
+    {
+      "id": "5123592",
+      "time": "2026-10-02 10:04:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本最大電力公司JERA 成立子公司以運營戰略石油儲備基地。"
+    },
+    {
+      "id": "5123591",
+      "time": "2026-10-02 10:04:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超3%，現報4125.600點；恒生指數現跌2.934%。"
+    },
+    {
+      "id": "te:markets:588961",
+      "time": "2026-10-02 10:03:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hang Seng Suffers Sharpest Drop Since July — The Hang Seng Index plunged 2.7%, or 667 points, to 23,943 on Friday, marking its largest one-day decline since July 2026, as a renewed selloff in global risk assets weighed on Hong Kong shares following the National Day holiday. The decline came amid elevated US Treasury yields, with the 10-year yield hitting 5.34%, its highest since 2002, as rising energy costs and strong AI-related investment fueled inflation and interest-rate concerns. Oil prices remained elevated, with Brent around US$102.6 a barrel over concerns on Middle East supply disruptions and China's suspension of refined-fuel exports. Technology stocks remained under pressure amid higher yields and US restrictions on advanced AI hardware, while geopolitical tensions further dampened sentiment. The selloff was also amplified by the absence of Southbound Stock Connect flows as mainland markets remained closed. Notable laggards included Tencent (-1.9%), AIA (-5.0%), HKEX (-2.4%), Trip.com (-3.0%) and Xiaomi (-4.4%)."
+    },
     {
       "id": "5123590",
       "time": "2026-10-02 10:02:40",

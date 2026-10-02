@@ -1,7 +1,101 @@
 {
-  "updated": "2026-10-02 10:03:39",
-  "count": 11690,
+  "updated": "2026-10-02 10:07:24",
+  "count": 11686,
   "items": [
+    {
+      "id": "5123595",
+      "time": "2026-10-02 10:06:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超3%，現報23870.760點；恒生科技指數現跌3.294%。"
+    },
+    {
+      "id": "mkt:01a0fa5c-c3b7-7ee0-a783-025219cc249e",
+      "time": "2026-10-02 10:06:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Kyiv mayor says a Russian airstrike struck a bridge in Kyiv."
+    },
+    {
+      "id": "5123594",
+      "time": "2026-10-02 10:06:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：“捕日者計劃”（Project Suncatcher）原型衛星已進入軌道。"
+    },
+    {
+      "id": "mkt:01a0fa5c-6a47-7ee0-a782-fee077693214",
+      "time": "2026-10-02 10:05:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index fell more than 3%; HSI decline widened to 2.9%."
+    },
+    {
+      "id": "5123593",
+      "time": "2026-10-02 10:05:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長稱，俄羅斯空襲擊中基輔市內一座橋樑。"
+    },
+    {
+      "id": "mkt:01a0fa5b-c134-7ee0-a782-f496bd4d0d4e",
+      "time": "2026-10-02 10:05:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Swedish asset manager Coeli makes first investment in Indonesian equities, says valuations attractive】Swedish asset manager Coeli has begun buying Indonesian equities after the benchmark index tumbled about 30% year-to-date, saying current valuations are attractive. MSCI warned in January it may downgrade Indonesia to frontier-market status; concerns over market transparency, high ownership concentration and low free float have driven outflows, with global funds net-selling $4.7bn of Indonesian shares so far this year. Rising oil prices and the risk of faster inflation have added pressure, and the rupiah has weakened roughly 7% versus the dollar since end-December, the weakest performance in Asia. Coeli’s frontier markets fund targets countries with GDP per capita below $10,000 that it says are overlooked by foreign investors."
+    },
+    {
+      "id": "5123592",
+      "time": "2026-10-02 10:04:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本最大電力公司JERA 成立子公司以運營戰略石油儲備基地。"
+    },
+    {
+      "id": "5123591",
+      "time": "2026-10-02 10:04:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超3%，現報4125.600點；恒生指數現跌2.934%。"
+    },
+    {
+      "id": "te:markets:588961",
+      "time": "2026-10-02 10:03:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hang Seng Suffers Sharpest Drop Since July — The Hang Seng Index plunged 2.7%, or 667 points, to 23,943 on Friday, marking its largest one-day decline since July 2026, as a renewed selloff in global risk assets weighed on Hong Kong shares following the National Day holiday. The decline came amid elevated US Treasury yields, with the 10-year yield hitting 5.34%, its highest since 2002, as rising energy costs and strong AI-related investment fueled inflation and interest-rate concerns. Oil prices remained elevated, with Brent around US$102.6 a barrel over concerns on Middle East supply disruptions and China's suspension of refined-fuel exports. Technology stocks remained under pressure amid higher yields and US restrictions on advanced AI hardware, while geopolitical tensions further dampened sentiment. The selloff was also amplified by the absence of Southbound Stock Connect flows as mainland markets remained closed. Notable laggards included Tencent (-1.9%), AIA (-5.0%), HKEX (-2.4%), Trip.com (-3.0%) and Xiaomi (-4.4%)."
+    },
     {
       "id": "5123590",
       "time": "2026-10-02 10:02:40",
@@ -107296,126 +107390,6 @@
         "MKT News"
       ],
       "text": "Japan's finance minister KATAYAMA said she would not comment on specific FX levels or on exchange-rate checks."
-    },
-    {
-      "id": "mkt:01a0d651-00f8-7118-8693-dc8eb103c7ba",
-      "time": "2026-09-25 10:07:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said he expects the Bank of Japan to adopt appropriate monetary policy while coordinating with the government."
-    },
-    {
-      "id": "mkt:01a0d650-c3b1-7118-8693-d197036fa7b1",
-      "time": "2026-09-25 10:06:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's finance minister Satsuki Katayama said the Bank of Japan's recent rate hike was aimed at achieving its inflation target."
-    },
-    {
-      "id": "5112964",
-      "time": "2026-09-25 10:06:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山稱：將就外匯問題與美國保持密切協調。"
-    },
-    {
-      "id": "5112963",
-      "time": "2026-09-25 10:06:34",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月：特朗普對日元疲軟表示了擔憂。"
-    },
-    {
-      "id": "5112962",
-      "time": "2026-09-25 10:06:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：不就具體匯率水平及匯率審查置評。"
-    },
-    {
-      "id": "5112961",
-      "time": "2026-09-25 10:05:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣：相信加息是為了實現物價穩定目標。"
-    },
-    {
-      "id": "5112960",
-      "time": "2026-09-25 10:05:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本財政大臣：預計日本央行將在與政府協調的前提下，實施恰當的貨幣政策。"
-    },
-    {
-      "id": "5112959",
-      "time": "2026-09-25 10:05:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【習近平和彭麗媛出席特朗普總統夫婦舉行的歡迎國宴】當地時間9月24日晚，美國總統特朗普和夫人梅拉尼婭為中國國家主席習近平和夫人彭麗媛在白宮舉行歡迎國宴。\n\n習近平和彭麗媛抵達白宮時，特朗普和梅拉尼婭熱情迎接。兩國元首夫婦合影，並同參加宴會的來賓見面。\n\n宴會開始後，習近平和特朗普分別致辭。\n\n習近平向所有關心、支援中美關係發展的美國各界人士致以誠摯問候和中秋佳節的良好祝願。\n\n習近平指出，今年5月，特朗普總統成功訪華。短短不到半年，中美兩國元首實現互訪，創造了兩國交往的歷史。這次訪問又達成很多新的共識，豐富了中美建設性戰略穩定關係的內涵，為中美關係提供了新的戰略指引。（央視新聞）"
-    },
-    {
-      "id": "5112958",
-      "time": "2026-09-25 10:04:27",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美元連漲五個交易日後保持平穩】受美聯儲鷹派表態與美國高收益率支撐，美元指數基本持平，本週有望錄得1%的周漲幅。 美元即期指數微跌0.1%，此前連續五個交易日收漲。10年期美債收益率下跌1個基點，報5.19%。 華僑銀行外匯策略師沈銘松表示：“更高的收益率、高企的能源價格以及持續的通脹擔憂，支撐市場對美元的需求。” 他補充道：“下週非農就業報告或將決定美元能否延續本輪漲勢。”"
-    },
-    {
-      "id": "5112957",
-      "time": "2026-09-25 10:04:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本財務大臣：具體貨幣政策工具由日本央行決定。"
-    },
-    {
-      "id": "5112956",
-      "time": "2026-09-25 10:04:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本官員：貨幣寬鬆、靈活財政支出階段結束。"
-    },
-    {
-      "id": "te:markets:586715",
-      "time": "2026-09-25 10:03:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Lithuania",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Lithuania 10Y Bond Yield Hits 34-month High — Lithuania 10 Year Government Bond Yield increased to 4.44%, the highest since November 2023. Over the past 4 weeks, Lithuania 10Y Bond Yield gained 47.90 basis points, and in the last 12 months, it increased 73.60 basis points."
-    },
-    {
-      "id": "mkt:01a0d64d-d850-7118-8693-c00fa7dab761",
-      "time": "2026-09-25 10:03:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【HKEX lists two new ETFs today】HKEX said two ETFs listed today: China Southern Pioneer Technology ETF and Value Partners Optical Communications Active ETF."
     }
   ]
 }
