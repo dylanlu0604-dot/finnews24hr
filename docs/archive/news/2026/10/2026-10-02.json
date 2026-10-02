@@ -1,7 +1,27 @@
 {
   "date": "2026-10-02",
-  "count": 828,
+  "count": 830,
   "items": [
+    {
+      "id": "te:markets:588965",
+      "time": "2026-10-02 10:13:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Heads for 3rd Straight Weekly Rise — The dollar index strengthened above 102 on Friday and was on track for a third consecutive weekly gain, supported by robust US economic strength, elevated Treasury yields and heightened geopolitical uncertainty in the Middle East. Treasury yields surged to their highest levels since 2002 this week, widening the dollar’s interest-rate differential over other major currencies. Investors also assessed signs of a resilient US labor market ahead of the September jobs report. Minneapolis Fed President Neel Kashkari said it remains unclear how high interest rates will need to rise to bring inflation under control, emphasizing that the Fed must take the necessary steps to return inflation to its target. Meanwhile, oil prices climbed as the US considered deploying an additional aircraft carrier and 10,000 troops to the Middle East, raising concerns over further disruptions to regional energy supplies and renewed inflationary pressures."
+    },
+    {
+      "id": "5123597",
+      "time": "2026-10-02 10:13:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青島膠州灣第二海底隧道盾構掘進全部完成】10月2日，在膠州灣海平面下105米深處，隨著“國訊號”盾構機刀盤抵達分界里程，將最後一環預製管片安裝到位，隧道盾構掘進全部完成。"
+    },
     {
       "id": "mkt:01a0fa60-8069-7ee0-a783-148a2f60a66f",
       "time": "2026-10-02 10:10:23",

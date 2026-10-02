@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-02 10:11:13",
-  "count": 11682,
+  "updated": "2026-10-02 10:15:01",
+  "count": 11678,
   "items": [
+    {
+      "id": "te:markets:588965",
+      "time": "2026-10-02 10:13:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Heads for 3rd Straight Weekly Rise — The dollar index strengthened above 102 on Friday and was on track for a third consecutive weekly gain, supported by robust US economic strength, elevated Treasury yields and heightened geopolitical uncertainty in the Middle East. Treasury yields surged to their highest levels since 2002 this week, widening the dollar’s interest-rate differential over other major currencies. Investors also assessed signs of a resilient US labor market ahead of the September jobs report. Minneapolis Fed President Neel Kashkari said it remains unclear how high interest rates will need to rise to bring inflation under control, emphasizing that the Fed must take the necessary steps to return inflation to its target. Meanwhile, oil prices climbed as the US considered deploying an additional aircraft carrier and 10,000 troops to the Middle East, raising concerns over further disruptions to regional energy supplies and renewed inflationary pressures."
+    },
+    {
+      "id": "5123597",
+      "time": "2026-10-02 10:13:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青島膠州灣第二海底隧道盾構掘進全部完成】10月2日，在膠州灣海平面下105米深處，隨著“國訊號”盾構機刀盤抵達分界里程，將最後一環預製管片安裝到位，隧道盾構掘進全部完成。"
+    },
     {
       "id": "mkt:01a0fa60-8069-7ee0-a783-148a2f60a66f",
       "time": "2026-10-02 10:10:23",
@@ -107289,68 +107309,6 @@
         "Importance 1"
       ],
       "text": "Asia FX Updates: South Korean Won Rises by 0.35% — Top currency gainers are South Korean Won (0.35%), Indonesian Rupiah (0.29%) and Japanese Yen (0.27%)."
-    },
-    {
-      "id": "5112972",
-      "time": "2026-09-25 10:14:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【媒體：SK海力士、三星敲定全南-光州晶片專案規劃】媒體援引全南-光州特別自治市與晶片廠商磋商報告稱，SK海力士表達強烈意向，希望拿到規模儘可能大的生產用地；三星電子則著重強調，需要加快投資落地節奏。 針對兩家企業的訴求，該一體化城市規劃在總面積826萬平方米的國家產業園內，優先提供約208萬平方米可立即開發的土地。 該一體化城市計劃於10月與SK海力士簽訂入駐協議，並以此為契機，就投資落地階段事宜啟動全面磋商，涉及發展策略、廠房建設與配套基礎設施。 當地計劃於10月6日透過實地選址考察以及高層會談，繼續與三星推進洽談。"
-    },
-    {
-      "id": "mkt:01a0d656-d455-7118-8694-0de00da182d4",
-      "time": "2026-09-25 10:13:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's finance minister Katayama said yields are being driven by multiple factors and the finance ministry is doing its utmost to take measures to address rising yields."
-    },
-    {
-      "id": "mkt:01a0d655-c95b-7118-8694-01487b7ffe9d",
-      "time": "2026-09-25 10:12:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's finance minister Katayama said Prime Minister Takaichi has expressed concern about yen depreciation."
-    },
-    {
-      "id": "mkt:01a0d655-988e-7118-8693-ffe0f40a0324",
-      "time": "2026-09-25 10:12:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistani security sources say intermittent firefights between Pakistani security forces and the Afghan Taliban continue."
-    },
-    {
-      "id": "5112971",
-      "time": "2026-09-25 10:11:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦安全訊息人士稱，安全部隊與阿富汗塔利班之間目前仍有間歇性交火。"
-    },
-    {
-      "id": "5112970",
-      "time": "2026-09-25 10:11:32",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "日本財務大臣：我們正在盡我們所能來改善債券收益率。"
     }
   ]
 }
