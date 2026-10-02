@@ -1,7 +1,44 @@
 {
   "date": "2026-10-02",
-  "count": 1283,
+  "count": 1287,
   "items": [
+    {
+      "id": "te:economy:589081",
+      "time": "2026-10-02 16:24:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Retail Sales MoM",
+        "Importance 2"
+      ],
+      "text": "Italian Retail Sales Rise 0.3% in August — The value of retail sales in Italy rose 0.3% month-on-month in August 2026, following a 0.4% decline in July and beating market expectations for a 0.1% decrease. Food sales rebounded 0.8%, compared with a 0.4% decline in July, while non-food sales were unchanged after falling 0.4% previously. On an annual basis, retail sales grew 0.5%, the smallest increase since a decline in March 2025, slowing from an upwardly revised 1% rise in July. The slowdown reflected weaker non-food sales, which increased 0.2% compared with 1.2% in July, offsetting a pickup in food sales, which rose 0.9% after increasing 0.4% previously. Among non-food products, the largest increase was seen in IT, telecommunications, and telephone equipment (6.7%), which was offset by a drop in footwear, leather goods, and travel goods (-4.1%). By distribution channel, retail sales went up at large retail outlets (1.1%) and in online commerce (5.4%)."
+    },
+    {
+      "id": "5123946",
+      "time": "2026-10-02 16:24:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本金融廳據悉將對保德信生命保險（Prudential Life Insurance）下達部分業務停止命令。"
+    },
+    {
+      "id": "5123945",
+      "time": "2026-10-02 16:22:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲科技指數<.SX8P>升至6月中旬以來新高，日內上漲2%。"
+    },
+    {
+      "id": "5123944",
+      "time": "2026-10-02 16:22:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【執法亂象頻發 美新規禁止移民執法人員高速追車】美國移民與海關執法局（ICE）釋出新版內部指導檔案，要求執法人員在執法行動中不得高速追車。此前發生多起ICE執法人員高速追車、槍擊目標車輛司機的爭議事件，引發輿論批評乃至抗議活動，催生此項新規。據美方10月1日訊息，這份新規已下發至該局遣返行動執法處的執法人員。根據新規，如果目標車輛司機拒不靠邊停車，執法人員無論任何情況下都不得高速追車；執法人員可記錄涉事車輛資訊，留作後續調查。根據新規，即便沒有高速追車，只是攔停車輛，也只有受過特定培訓的執法人員才能實施；未完成培訓的執法人員，僅能作為乘車人員以支援身份參與攔停，不得駕駛任何執法車輛；外勤部門必須確保執法車輛配備警燈與警笛，這些裝置開啟後能向公眾表明執法身份；在攔停現場的執法人員必須佩戴並開啟執法記錄儀。（央視新聞）"
+    },
     {
       "id": "5123943",
       "time": "2026-10-02 16:20:35",

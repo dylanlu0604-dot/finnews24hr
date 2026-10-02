@@ -1,7 +1,44 @@
 {
-  "updated": "2026-10-02 16:22:17",
-  "count": 11694,
+  "updated": "2026-10-02 16:26:03",
+  "count": 11692,
   "items": [
+    {
+      "id": "te:economy:589081",
+      "time": "2026-10-02 16:24:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Retail Sales MoM",
+        "Importance 2"
+      ],
+      "text": "Italian Retail Sales Rise 0.3% in August — The value of retail sales in Italy rose 0.3% month-on-month in August 2026, following a 0.4% decline in July and beating market expectations for a 0.1% decrease. Food sales rebounded 0.8%, compared with a 0.4% decline in July, while non-food sales were unchanged after falling 0.4% previously. On an annual basis, retail sales grew 0.5%, the smallest increase since a decline in March 2025, slowing from an upwardly revised 1% rise in July. The slowdown reflected weaker non-food sales, which increased 0.2% compared with 1.2% in July, offsetting a pickup in food sales, which rose 0.9% after increasing 0.4% previously. Among non-food products, the largest increase was seen in IT, telecommunications, and telephone equipment (6.7%), which was offset by a drop in footwear, leather goods, and travel goods (-4.1%). By distribution channel, retail sales went up at large retail outlets (1.1%) and in online commerce (5.4%)."
+    },
+    {
+      "id": "5123946",
+      "time": "2026-10-02 16:24:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本金融廳據悉將對保德信生命保險（Prudential Life Insurance）下達部分業務停止命令。"
+    },
+    {
+      "id": "5123945",
+      "time": "2026-10-02 16:22:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲科技指數<.SX8P>升至6月中旬以來新高，日內上漲2%。"
+    },
+    {
+      "id": "5123944",
+      "time": "2026-10-02 16:22:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【執法亂象頻發 美新規禁止移民執法人員高速追車】美國移民與海關執法局（ICE）釋出新版內部指導檔案，要求執法人員在執法行動中不得高速追車。此前發生多起ICE執法人員高速追車、槍擊目標車輛司機的爭議事件，引發輿論批評乃至抗議活動，催生此項新規。據美方10月1日訊息，這份新規已下發至該局遣返行動執法處的執法人員。根據新規，如果目標車輛司機拒不靠邊停車，執法人員無論任何情況下都不得高速追車；執法人員可記錄涉事車輛資訊，留作後續調查。根據新規，即便沒有高速追車，只是攔停車輛，也只有受過特定培訓的執法人員才能實施；未完成培訓的執法人員，僅能作為乘車人員以支援身份參與攔停，不得駕駛任何執法車輛；外勤部門必須確保執法車輛配備警燈與警笛，這些裝置開啟後能向公眾表明執法身份；在攔停現場的執法人員必須佩戴並開啟執法記錄儀。（央視新聞）"
+    },
     {
       "id": "5123943",
       "time": "2026-10-02 16:20:35",
@@ -107261,60 +107298,6 @@
         "國際"
       ],
       "text": "澤連斯基認為歐盟和國際貨幣基金組織（IMF）對其資金請求作出了積極回應。"
-    },
-    {
-      "id": "5113333",
-      "time": "2026-09-25 16:25:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "業內訊息人士稱，空客A321neo存在生產質量缺陷，該缺陷涉及分包商供應給義大利萊昂納多<LDOF.MI>的塗料，萊昂納多拒絕對此置評。"
-    },
-    {
-      "id": "5113332",
-      "time": "2026-09-25 16:25:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國經濟部長：徵用與國有化的臆想在德國沒有容身之地。"
-    },
-    {
-      "id": "5113331",
-      "time": "2026-09-25 16:25:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：新加坡警方在危機爆發前數月就已收到關於 Radiant 的欺詐報告。"
-    },
-    {
-      "id": "te:economy:586864",
-      "time": "2026-09-25 16:24:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Euro Area",
-        "Loan Growth",
-        "Importance 1"
-      ],
-      "text": "Eurozone Lending Rises Less than Expected — Bank lending to Eurozone households rose 3.1% year-on-year to €7.26 trillion in August 2026, the same as in July and missing market expectations of 3.2%. Business lending also slowed to 4.2% from 4.4%. Overall private-sector credit growth, covering households and non-financial corporations, accelerated to 4.3% from 4.1% in July, reaching its highest level since February 2023."
-    },
-    {
-      "id": "5113329",
-      "time": "2026-09-25 16:24:32",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利轉向看多美元，預計美元兌歐元將上漲3%】摩根士丹利轉而看多美元，目前預計，受美國利率上升及經濟強勁增長的推動，美元兌歐元匯率到2027年年中將上漲約3%。由大衛·亞當斯領導的摩根士丹利外匯策略團隊在一份報告中寫道：“我們原本以為美元在2026年下半年會繼續走弱，但我們錯了。我們現在預測，由於美元與世界其他地區的利差擴大、美國經濟強勁增長，以及歐洲風險溢價上升提振了美元，美元的強勢將延續至年底並貫穿2027年。”這家美國投行預計，歐元兌美元匯率將在明年年中降至1.10，此前的預期為1.16；同時，該行將今年年底的歐元匯率預期從1.20下調至1.12。不過，該行對美元仍保持戰術性中立，理由是“存在政策驅動導致美元負面風險溢價上升的風險，這可能使歐元和日元成為更安全的套息交易融資貨幣”。"
-    },
-    {
-      "id": "mkt:01a0d7a8-b00d-7118-8697-45038a782c81",
-      "time": "2026-09-25 16:22:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said the US has proposed preparing the next trilateral meeting at a technical level and proposed the UAE as host; Kyiv is awaiting a date."
     }
   ]
 }
