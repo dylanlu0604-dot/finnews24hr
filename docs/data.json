@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-03 03:25:44",
-  "count": 11569,
+  "updated": "2026-10-03 03:29:31",
+  "count": 11561,
   "items": [
+    {
+      "id": "mkt:01a0fe17-0401-7ee0-a78c-5953ff56ccab",
+      "time": "2026-10-03 03:28:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "People familiar with the matter said AI infrastructure firm Nscale has hired a senior Meta Platforms executive as chief operating officer to help prepare the company for an IPO."
+    },
+    {
+      "id": "5124644",
+      "time": "2026-10-03 03:25:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西基準股指博維斯帕指數上漲約 2.5%。"
+    },
     {
       "id": "mkt:01a0fe10-8716-7ee0-a78c-5011e78f0b9d",
       "time": "2026-10-03 03:21:30",
@@ -105838,91 +105858,6 @@
         "國際"
       ],
       "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月22日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸增加385手，至13016手。"
-    },
-    {
-      "id": "5113892",
-      "time": "2026-09-26 03:29:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI CEO奧特曼：Hugging Face事件仍是目前發現的性質最嚴重的一起。對於智慧體所發現的其他公司安全漏洞，是否對外披露由相關企業自行決定，在此前提下，我們會儘可能保持資訊透明。"
-    },
-    {
-      "id": "mkt:01a0da0b-14e5-7118-86a2-899c670c7045",
-      "time": "2026-09-26 03:29:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said most identified incidents to date are low severity and there is limited or no evidence of material impact on third-party services."
-    },
-    {
-      "id": "mkt:01a0da0a-7c6c-7118-86a2-87f0e172ad1c",
-      "time": "2026-09-26 03:28:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said the review will take several months to complete given the scale of the review required and the need to assess each case."
-    },
-    {
-      "id": "5113891",
-      "time": "2026-09-26 03:28:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI在Hugging Face事件後開展範圍更廣的審查 預計耗時數月】OpenAI表示：發生 Hugging Face 事件後，承諾對模型在訓練與評估階段執行的各類操作開展範圍更廣的審查，並對調查結果保持透明。這項大規模審查工作仍在進行中。我們已核查的絕大多數操作，均為普通研究任務的文字生成，例如訪問公開網頁內容以回答問題。本次調查重點關注智慧體在訪問第三方網站時，超出指定任務或預設方式開展互動的情形。目前發現的大多數案例嚴重程度較低，幾乎沒有證據表明對第三方服務造成實質性影響。審查仍在推進，我們希望披露更多相關工作細節，確保外界瞭解我們的資訊披露流程以及對受影響第三方的通知機制。鑑於本次審查工作量巨大，且需要對每起案例逐一評估，預計該項工作將耗時數月才能完成。"
-    },
-    {
-      "id": "mkt:01a0da0a-193c-7118-86a2-7994b1e023c8",
-      "time": "2026-09-26 03:28:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Oil prices fall on 25th】At the close, NYMEX November WTI fell $2.20 to $92.41/bbl (-2.33%). ICE Brent November fell $2.28 to $104.32/bbl (-2.14%)."
-    },
-    {
-      "id": "mkt:01a0da09-db4d-7118-86a2-71f98053dfc8",
-      "time": "2026-09-26 03:27:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said it will undertake a broader review of actions taken on its models following the Hugging Face incident."
-    },
-    {
-      "id": "5113888",
-      "time": "2026-09-26 03:27:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價25日下跌】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格下跌2.20美元，收於每桶92.41美元，跌幅為2.33%；11月交貨的倫敦布倫特原油期貨價格下跌2.28美元，收於每桶104.32美元，跌幅為2.14%。"
-    },
-    {
-      "id": "5113887",
-      "time": "2026-09-26 03:27:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：發生 Hugging Face 事件後，我們承諾對模型在訓練與評估階段執行的各類操作開展範圍更廣的審查，並對調查結果保持透明。這項大規模審查工作仍在進行中。"
-    },
-    {
-      "id": "5113884",
-      "time": "2026-09-26 03:26:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥小麥期貨本週跌超1.4%，大豆漲約1.3%】週五（9月25日）紐約尾盤，彭博穀物分類指數跌0.10%，報34.2968點，亞太早盤以來低位持穩、北京時間21:41重新整理日低至33.5553點，隨後快速收復失地，本週累計下跌0.23%，整體持續走低。本週，CBOT玉米期貨累漲0.24%，報5.2875美元/蒲式耳。CBOT小麥期貨累跌1.44%，報7.04美元/蒲式耳。CBOT大豆期貨累漲1.27%，報13.20美元/蒲式耳，豆粕期貨累漲3.35%，豆油期貨累跌0.59%。"
-    },
-    {
-      "id": "5113883",
-      "time": "2026-09-26 03:26:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "一名匿名高層訊息人士對Al Hadath表示，重啟美伊諒解備忘錄仍存在可能性，各方仍在開展外交努力以恢復這份6月達成的協議。"
     }
   ]
 }

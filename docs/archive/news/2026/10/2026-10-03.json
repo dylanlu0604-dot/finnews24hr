@@ -1,7 +1,27 @@
 {
   "date": "2026-10-03",
-  "count": 202,
+  "count": 204,
   "items": [
+    {
+      "id": "mkt:01a0fe17-0401-7ee0-a78c-5953ff56ccab",
+      "time": "2026-10-03 03:28:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "People familiar with the matter said AI infrastructure firm Nscale has hired a senior Meta Platforms executive as chief operating officer to help prepare the company for an IPO."
+    },
+    {
+      "id": "5124644",
+      "time": "2026-10-03 03:25:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西基準股指博維斯帕指數上漲約 2.5%。"
+    },
     {
       "id": "mkt:01a0fe10-8716-7ee0-a78c-5011e78f0b9d",
       "time": "2026-10-03 03:21:30",
