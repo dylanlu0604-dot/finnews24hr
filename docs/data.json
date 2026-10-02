@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-02 22:36:05",
-  "count": 11523,
+  "updated": "2026-10-02 22:39:56",
+  "count": 11521,
   "items": [
+    {
+      "id": "5124415",
+      "time": "2026-10-02 22:39:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "AZENTA股價上漲20%，創三年來最大單日漲幅。"
+    },
+    {
+      "id": "5124414",
+      "time": "2026-10-02 22:38:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，俄軍打擊了尼古拉耶夫一處資料中心，該中心曾為烏克蘭軍隊處理資料並託管網站。此外，俄軍還打擊了一艘向敖德薩港運送軍用物資的乾貨船。"
+    },
+    {
+      "id": "mkt:01a0fd0d-2924-7ee0-a789-105e0f6aadbc",
+      "time": "2026-10-02 22:38:13",
+      "tags": [
+        "MKT News",
+        "STX.O",
+        "Impact bearish",
+        "WDC.O"
+      ],
+      "text": "【Toshiba to double HDD capacity by FY2027; Seagate, Western Digital shares slump】Toshiba plans to double hard-disk drive (HDD) production capacity by fiscal 2027, investing about JPY60 billion (roughly $380m) to expand manufacturing in the Philippines, Nikkei reported. The expansion is Toshiba’s first major HDD investment in years and targets boosting its capacity-based market share from just above 10% to about 30% over the medium term. Seagate Technology shares opened down about 12.4% and Western Digital fell about 11% on the report, though both still retain large YTD gains of roughly 200% and 140%, respectively."
+    },
     {
       "id": "5124413",
       "time": "2026-10-02 22:35:00",
@@ -105628,61 +105655,6 @@
         "XAUUSD"
       ],
       "text": "Iran navy deputy commander Mokaddam said armed forces are deployed along Iran's southeastern border and the Makran coast to prevent adversaries from using the area to threaten Iran."
-    },
-    {
-      "id": "5113712",
-      "time": "2026-09-25 22:38:36",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "10年期美國國債收益率升至5.22%以上，創19年新高。"
-    },
-    {
-      "id": "te:markets:586961",
-      "time": "2026-09-25 22:36:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Rise as BoE Turns More Hawkish — UK 10-year gilt yields rose to 5.4%, a near two-decade high, as investors digested a series of comments from Bank of England policymakers for further clues on the monetary policy outlook. BoE Governor Andrew Bailey said persistently high energy prices would make it harder for the central bank to keep rates on hold, while MPC members Sarah Breeden and Clare Lombardelli also signaled they were moving closer to supporting a rate hike as rising energy prices increased the risk of inflation remaining above target. The warnings come at a challenging time for Prime Minister Andy Burnham and Finance Minister John Healey, who are seeking to ease cost-of-living pressures ahead of the October 28 budget. Markets are pricing in roughly an 80% chance of a BoE rate hike in November, with slightly more than four 25bp increases priced into the curve over the next year. In the US, investors have likewise increased bets on further Federal Reserve rate hikes following hawkish comments from policymakers."
-    },
-    {
-      "id": "mkt:01a0d8ff-125f-7118-869e-302ef70e1e93",
-      "time": "2026-09-25 22:36:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Refinitiv: Workers said crude distillation and fluid catalytic cracking units at Venezuela's Cardo refinery have shut due to feedstock supply problems."
-    },
-    {
-      "id": "mkt:01a0d8fe-de6c-7118-869e-2b3595a54af8",
-      "time": "2026-09-25 22:36:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Germany's 30-year bond yield rose 6 bps to 3.92%, its highest since 2011."
-    },
-    {
-      "id": "mkt:01a0d8fe-bd2b-7118-869e-20a7c641a137",
-      "time": "2026-09-25 22:36:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures fell 6.00% intraday to $3.167/MMBtu."
     }
   ]
 }

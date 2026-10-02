@@ -1,7 +1,34 @@
 {
   "date": "2026-10-02",
-  "count": 1696,
+  "count": 1699,
   "items": [
+    {
+      "id": "5124415",
+      "time": "2026-10-02 22:39:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "AZENTA股價上漲20%，創三年來最大單日漲幅。"
+    },
+    {
+      "id": "5124414",
+      "time": "2026-10-02 22:38:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，俄軍打擊了尼古拉耶夫一處資料中心，該中心曾為烏克蘭軍隊處理資料並託管網站。此外，俄軍還打擊了一艘向敖德薩港運送軍用物資的乾貨船。"
+    },
+    {
+      "id": "mkt:01a0fd0d-2924-7ee0-a789-105e0f6aadbc",
+      "time": "2026-10-02 22:38:13",
+      "tags": [
+        "MKT News",
+        "STX.O",
+        "Impact bearish",
+        "WDC.O"
+      ],
+      "text": "【Toshiba to double HDD capacity by FY2027; Seagate, Western Digital shares slump】Toshiba plans to double hard-disk drive (HDD) production capacity by fiscal 2027, investing about JPY60 billion (roughly $380m) to expand manufacturing in the Philippines, Nikkei reported. The expansion is Toshiba’s first major HDD investment in years and targets boosting its capacity-based market share from just above 10% to about 30% over the medium term. Seagate Technology shares opened down about 12.4% and Western Digital fell about 11% on the report, though both still retain large YTD gains of roughly 200% and 140%, respectively."
+    },
     {
       "id": "5124413",
       "time": "2026-10-02 22:35:00",
