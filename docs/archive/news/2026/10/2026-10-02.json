@@ -1,7 +1,95 @@
 {
   "date": "2026-10-02",
-  "count": 1237,
+  "count": 1247,
   "items": [
+    {
+      "id": "5123916",
+      "time": "2026-10-02 16:01:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利8月零售銷售環比 0.3%，前值 -0.4%。義大利8月零售銷售同比 0.5%，前值 0.8%。"
+    },
+    {
+      "id": "5123915",
+      "time": "2026-10-02 16:01:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500指數電子迷你期貨上漲0.4%，納斯達克100指數期貨上漲0.6%，道指期貨上漲0.4%。"
+    },
+    {
+      "id": "5123914",
+      "time": "2026-10-02 16:00:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所鎳庫存增加486噸，至285,168噸。"
+    },
+    {
+      "id": "5123913",
+      "time": "2026-10-02 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普跌】美光跌0.08%，閃迪漲0.22%，SK海力士跌0.23%，西部資料跌0.34%，希捷科技跌0.35%。"
+    },
+    {
+      "id": "5123912",
+      "time": "2026-10-02 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普漲】禮來漲0.27%，強生漲0.25%，Moderna漲2.38%，諾和諾德漲0.40%，艾伯維漲0.29%，默沙東漲0.17%。"
+    },
+    {
+      "id": "5123911",
+      "time": "2026-10-02 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”普漲】英偉達漲0.69%，蘋果漲0.33%，微軟漲0.75%，谷歌漲0.59%，亞馬遜漲0.67%，Meta漲0.48%，特斯拉漲1.09%。"
+    },
+    {
+      "id": "5123910",
+      "time": "2026-10-02 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普漲】Lumentum漲0.68%，康寧漲0.80%，Coherent漲0.85%，應用光電漲1.25%，Ciena漲1.29%，博通漲1.26%，邁威爾科技漲1.45%。"
+    },
+    {
+      "id": "5123909",
+      "time": "2026-10-02 16:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所鉛的登出倉單減少2425噸，至27400噸。"
+    },
+    {
+      "id": "te:markets:589067",
+      "time": "2026-10-02 16:00:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.58% — Top commodity losers are Natural Gas UK (-3.58%), Natural Gas EU (-3.43%), Crude Oil (-2.63%) and Brent Oil (-1.76%)."
+    },
+    {
+      "id": "te:markets:589066",
+      "time": "2026-10-02 15:59:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Tries to Bounce Back — Frankfurt’s DAX 40 edged up 0.3% to just above 25,000 on Friday, attempting to recover after two consecutive sessions of losses. Markets found some relief as oil prices declined and the bond selloff eased, with investors awaiting the latest Eurozone inflation data for clues on the ECB's next moves. Meanwhile, attention remained focused on the Middle East, where prospects for a truce between the United States and Iran appears increasingly distant. According to the Wall Street Journal, Washington is sending a third aircraft carrier to the Middle East with an additional 10,000 American troops."
+    },
     {
       "id": "5123908",
       "time": "2026-10-02 15:58:26",

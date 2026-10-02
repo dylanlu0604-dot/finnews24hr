@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-02 15:59:28",
-  "count": 11702,
+  "updated": "2026-10-02 16:03:13",
+  "count": 11692,
   "items": [
+    {
+      "id": "5123916",
+      "time": "2026-10-02 16:01:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利8月零售銷售環比 0.3%，前值 -0.4%。義大利8月零售銷售同比 0.5%，前值 0.8%。"
+    },
+    {
+      "id": "5123915",
+      "time": "2026-10-02 16:01:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500指數電子迷你期貨上漲0.4%，納斯達克100指數期貨上漲0.6%，道指期貨上漲0.4%。"
+    },
+    {
+      "id": "5123914",
+      "time": "2026-10-02 16:00:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所鎳庫存增加486噸，至285,168噸。"
+    },
+    {
+      "id": "5123913",
+      "time": "2026-10-02 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普跌】美光跌0.08%，閃迪漲0.22%，SK海力士跌0.23%，西部資料跌0.34%，希捷科技跌0.35%。"
+    },
+    {
+      "id": "5123912",
+      "time": "2026-10-02 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普漲】禮來漲0.27%，強生漲0.25%，Moderna漲2.38%，諾和諾德漲0.40%，艾伯維漲0.29%，默沙東漲0.17%。"
+    },
+    {
+      "id": "5123911",
+      "time": "2026-10-02 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”普漲】英偉達漲0.69%，蘋果漲0.33%，微軟漲0.75%，谷歌漲0.59%，亞馬遜漲0.67%，Meta漲0.48%，特斯拉漲1.09%。"
+    },
+    {
+      "id": "5123910",
+      "time": "2026-10-02 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普漲】Lumentum漲0.68%，康寧漲0.80%，Coherent漲0.85%，應用光電漲1.25%，Ciena漲1.29%，博通漲1.26%，邁威爾科技漲1.45%。"
+    },
+    {
+      "id": "5123909",
+      "time": "2026-10-02 16:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所鉛的登出倉單減少2425噸，至27400噸。"
+    },
+    {
+      "id": "te:markets:589067",
+      "time": "2026-10-02 16:00:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.58% — Top commodity losers are Natural Gas UK (-3.58%), Natural Gas EU (-3.43%), Crude Oil (-2.63%) and Brent Oil (-1.76%)."
+    },
+    {
+      "id": "te:markets:589066",
+      "time": "2026-10-02 15:59:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Tries to Bounce Back — Frankfurt’s DAX 40 edged up 0.3% to just above 25,000 on Friday, attempting to recover after two consecutive sessions of losses. Markets found some relief as oil prices declined and the bond selloff eased, with investors awaiting the latest Eurozone inflation data for clues on the ECB's next moves. Meanwhile, attention remained focused on the Middle East, where prospects for a truce between the United States and Iran appears increasingly distant. According to the Wall Street Journal, Washington is sending a third aircraft carrier to the Middle East with an additional 10,000 American troops."
+    },
     {
       "id": "5123908",
       "time": "2026-10-02 15:58:26",
@@ -107243,188 +107331,6 @@
         "Importance 1"
       ],
       "text": "Sterling Hovers Near Three-Month Low on Strong Dollar — Sterling ended the week just above $1.32, hovering near its lowest level in three months, as the US dollar remained supported by growing expectations of further Federal Reserve rate hikes this year. Investors also assessed recent comments from Bank of England policymakers for clues on the outlook for monetary policy. The US-Iran conflict and elevated energy prices continue to fuel concerns over renewed inflationary pressures, prompting markets to price in a solid probability of a 25bp BoE rate hike in November. BoE Deputy Governor Sarah Breeden said it could become “increasingly appropriate” to respond to rising inflation risks by raising interest rates. Deputy Governor Clare Lombardelli likewise said rates may need to rise if energy prices remain elevated, while MPC member Swati Dhingra, one of the more dovish policymakers, said inflation expectations were not yet a source of concern. Meanwhile, UK consumer confidence reached its highest level in more than two years in September."
-    },
-    {
-      "id": "mkt:01a0d796-5bcd-7118-8696-f02783d3b80a",
-      "time": "2026-09-25 16:02:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Eurozone three-month M3 money supply YoY 3.4% in August, up from 3.2% previously."
-    },
-    {
-      "id": "mkt:01a0d796-3a36-7118-8696-ecfd278a5675",
-      "time": "2026-09-25 16:02:21",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | 3-mo M3 Money Supply (YoY) (Aug) | actual 3.4% | previous 3.2%"
-    },
-    {
-      "id": "em:qqyh_ozyh:202609253884281495",
-      "time": "2026-09-25 16:02:13",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "歐洲央行稱，8月對企業的貸款增長4.2%，7月增長4.4%。"
-    },
-    {
-      "id": "5113266",
-      "time": "2026-09-25 16:01:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其旅遊部：8月入境外國遊客數量為696萬人次。"
-    },
-    {
-      "id": "5113265",
-      "time": "2026-09-25 16:01:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500迷你股指期貨上漲0.1%，納斯達克100股指期貨上漲0.3%，道指期貨上漲0.1%。"
-    },
-    {
-      "id": "5113264",
-      "time": "2026-09-25 16:01:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：銅庫存增加325噸，鋁庫存持平，鎳庫存增加6048噸，鋅庫存減少1600噸，錫庫存持平，鉛庫存減少1550噸。"
-    },
-    {
-      "id": "mkt:01a0d794-fbc6-7118-8696-e2a32e417ade",
-      "time": "2026-09-25 16:01:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "London Metal Exchange inventories: copper +325 tonnes; aluminium unchanged; nickel +6,048 tonnes; zinc -1,600 tonnes; tin unchanged; lead -1,550 tonnes."
-    },
-    {
-      "id": "5113263",
-      "time": "2026-09-25 16:00:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至9月18日當週，俄羅斯貨幣基礎升至22.837萬億盧布。"
-    },
-    {
-      "id": "5113262",
-      "time": "2026-09-25 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股光通訊股盤前普漲】Lumentum漲1.34%，康寧漲1.28%，Coherent漲2.24%，應用光電漲2.06%，Ciena漲1.76%，博通漲1.18%，邁威爾科技漲1.79%。"
-    },
-    {
-      "id": "5113261",
-      "time": "2026-09-25 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊盤前普漲】美光漲1.12%，閃迪漲1.97%，SK海力士漲1.46%，西部資料漲1.45%，希捷科技漲1.12%。"
-    },
-    {
-      "id": "5113260",
-      "time": "2026-09-25 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股生物科技板塊盤前普跌】禮來漲0.53%，強生跌0.13%，Moderna漲0.99%，諾和諾德跌0.16%，艾伯維跌0.23%，默沙東跌0.34%。"
-    },
-    {
-      "id": "5113259",
-      "time": "2026-09-25 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股盤前：“七姐妹”普漲】英偉達漲0.32%，蘋果漲0.02%，微軟跌0.14%，谷歌漲0.02%，亞馬遜漲0.44%，Meta跌0.07%，特斯拉漲0.70%。"
-    },
-    {
-      "id": "em:jjsj_oyqsj:202609253884281661",
-      "time": "2026-09-25 16:00:45",
-      "tags": [
-        "經濟數據",
-        "歐元區"
-      ],
-      "text": "歐元區8月貨幣供應M3同比增長3.5%，預期3.50%，前值3.40%。"
-    },
-    {
-      "id": "5113258",
-      "time": "2026-09-25 16:00:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其8月份遊客到訪量同比下降0.03%。"
-    },
-    {
-      "id": "5113257",
-      "time": "2026-09-25 16:00:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐元區8月M3貨幣供應同比 3.5%，預期 3.5%，前值 3.4%。歐元區8月三個月貨幣供應M3年率 3.4%，前值3.2%。"
-    },
-    {
-      "id": "5113256",
-      "time": "2026-09-25 16:00:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐元區8月份家庭貸款同比增長3.1%，歐元區8月份企業貸款同比增長4.2%。"
-    },
-    {
-      "id": "mkt:01a0d794-3b84-7118-8696-da25e1ae4d8c",
-      "time": "2026-09-25 16:00:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Euro area M3 money supply YoY for August 3.5% (consensus 3.5%; July 3.4%)."
-    },
-    {
-      "id": "te:markets:586850",
-      "time": "2026-09-25 16:00:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Falls by 3.38% — Top commodity losers are Natural gas (-3.38%), Natural Gas EU (-2.40%), Natural Gas UK (-2.27%), Crude Oil (-1.02%) and Brent Oil (-0.38%)."
-    },
-    {
-      "id": "mkt:01a0d794-1e21-7118-8696-d4e53a0946e8",
-      "time": "2026-09-25 16:00:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Eurozone | M3 Money Supply (YoY) (Aug) | actual 3.5% | consensus 3.50% | previous 3.40%"
-    },
-    {
-      "id": "mkt:01a0d793-a61b-7118-8696-cf7f707f898c",
-      "time": "2026-09-25 15:59:32",
-      "tags": [
-        "MKT News",
-        "EH.O",
-        "Impact bullish"
-      ],
-      "text": "【EHang forms special working group with CAAT and Phuket government to accelerate unmanned eVTOL deployment】EHang said it was the only eVTOL firm invited on a recent delegation to Phuket led by Thailand Civil Aviation Authority director Manat Chavanaprayoon, and held talks with Phuket governor Chotinrin Kerdsom and provincial officials on green transport and the low‑altitude economy. The parties preliminarily selected Phuket’s first low‑altitude sandbox test site and established a joint working group to coordinate takeoff/landing site surveys, route planning, operating permits, and flight‑safety arrangements to accelerate unmanned eVTOL commercial rollout in Phuket."
     }
   ]
 }
