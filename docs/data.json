@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-02 16:41:07",
-  "count": 11678,
+  "updated": "2026-10-02 16:44:53",
+  "count": 11674,
   "items": [
+    {
+      "id": "5123968",
+      "time": "2026-10-02 16:44:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：韓亞銀行資料洩露影響89名客戶。"
+    },
+    {
+      "id": "5123967",
+      "time": "2026-10-02 16:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：韓亞銀行疑似遭AI相關的駭客攻擊。"
+    },
+    {
+      "id": "5123966",
+      "time": "2026-10-02 16:41:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "嘉能可股價上漲2.7%，此前該公司上調了營銷調整後息稅前利潤目標。"
+    },
+    {
+      "id": "5123965",
+      "time": "2026-10-02 16:40:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "泰國航空執行長確認，董事會已決定將其免職。"
+    },
     {
       "id": "5123964",
       "time": "2026-10-02 16:40:31",
@@ -107087,83 +107121,6 @@
         "公司"
       ],
       "text": "【滙豐控股(00005)9月24日斥資1.34億港元回購85.08萬股】滙豐控股(00005)釋出公告，該公司於2026年9月24日斥資1.34億港元回購85.08萬股股份，每股回購價格為156.3-158.4港元。"
-    },
-    {
-      "id": "mkt:01a0d7bc-e939-7118-8697-b8147dec560d",
-      "time": "2026-09-25 16:44:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "New York silver futures touched $65/oz, up 1.56% on the day."
-    },
-    {
-      "id": "te:economy:586869",
-      "time": "2026-09-25 16:44:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovenia",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "Slovenia Tourist Arrivals Reach Record in August — Tourist arrivals in Slovenia rose by 6.0% year-on-year to 1,286 million in August 2026 from an eleven-month high of 10.6% growth in the previous month. This marked the highest number of arrivals on record. Foreign tourist arrivals increased by 7.6% to 1,116 million, with visitors mainly coming from the Czech Republic (8.6%), Italy (8.3%), and Germany (6.7%), offsetting the declines in the Netherlands (-3.6%) and France (-4.5%). Meanwhile, domestic tourism fell by 3.5% to 169.8 thousand. Overnight stays went up by 5.8% to 3,537 million, with most tourists staying in mountain municipalities (7.7%), urban municipalities (6.4%), the capital (5.5%), and health resorts (5.4%). For the January–August period, tourist arrivals grew by 6.4% year-on-year to 5,390.5 million, while overnight stays also rose by 6.4% to 14,078.4 million."
-    },
-    {
-      "id": "5113361",
-      "time": "2026-09-25 16:43:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "喬治亞8月M3貨幣供應量同比增長17.497%。"
-    },
-    {
-      "id": "mkt:01a0d7bb-bcbf-7118-8697-b5a585aee3f8",
-      "time": "2026-09-25 16:43:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver up 1.00% intraday at $64.49/oz."
-    },
-    {
-      "id": "5113360",
-      "time": "2026-09-25 16:43:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報64.47美元/盎司。"
-    },
-    {
-      "id": "te:economy:586868",
-      "time": "2026-09-25 16:43:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "Turkey Tourist Arrivals Almost Flat YoY in August — The number of foreign visitors to Turkey remained broadly flat year-on-year at around 7 million in August 2026, following a 0.3% decrease in the previous month. Among the five largest source markets, arrivals from Germany, the United Kingdom, and Poland fell by 0.8%, 7.5%, and 0.4%, respectively, while visitors from Russia and Iran rose by 6.2% and 15.1%. Antalya accounted for the largest share of tourist arrivals at 36.24%, with 2.52 million visitors, followed by Istanbul at 27.71% with 1.93 million. Mugla, Edirne and Izmir accounted for 9.23%, 6.97% and 3.45%, respectively. In the January-August 2026 period, the number of foreign visitors arrived declined by 1.8% compared to the previous year."
-    },
-    {
-      "id": "mkt:01a0d7bb-5224-7118-8697-aa1b3006541d",
-      "time": "2026-09-25 16:42:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC says tropical-storm conditions are expected today in the Cape Verde islands."
-    },
-    {
-      "id": "5113359",
-      "time": "2026-09-25 16:41:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞聲科技：9月25日斥資785.77萬港元回購20萬股】瑞聲科技（02018.HK）釋出翌日披露報表，9月25日公司回購20萬股，每股最高回購價為39.5港元，每股最低迴購價為38.9港元，付出的總代價為785.77萬港元。本次回購股份擬持作庫存股份，擬登出數目為0。"
     }
   ]
 }
