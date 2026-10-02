@@ -1,7 +1,350 @@
 {
   "date": "2026-10-02",
-  "count": 1769,
+  "count": 1809,
   "items": [
+    {
+      "id": "5124499",
+      "time": "2026-10-02 23:59:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數跌破101關口，日內跌0.13%。"
+    },
+    {
+      "id": "5124498",
+      "time": "2026-10-02 23:58:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦安全訊息源稱，兩名手無寸鐵的巴基斯坦平民遭印度邊境安全部隊槍擊身亡。"
+    },
+    {
+      "id": "5124497",
+      "time": "2026-10-02 23:58:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：美國財政部將繼續查明、孤立那些為哈馬斯提供生存所需資金命脈的個人或實體，並對其施加制裁。"
+    },
+    {
+      "id": "5124496",
+      "time": "2026-10-02 23:57:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守60美元/盎司，日內跌1.94%。"
+    },
+    {
+      "id": "5124495",
+      "time": "2026-10-02 23:57:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署法提赫·比羅爾：油價已開始回落。"
+    },
+    {
+      "id": "5124494",
+      "time": "2026-10-02 23:57:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報59.75美元/盎司。"
+    },
+    {
+      "id": "5124493",
+      "time": "2026-10-02 23:57:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：推出面向智慧體事務型訊息服務的Spanner佇列通用版。"
+    },
+    {
+      "id": "5124492",
+      "time": "2026-10-02 23:56:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Spanner佇列現已全面支援智慧體工作流中的事務性訊息處理。"
+    },
+    {
+      "id": "5124491",
+      "time": "2026-10-02 23:56:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：宣佈面向人工智慧智慧體負載事務型訊息處理的Spanner佇列全面可用。"
+    },
+    {
+      "id": "te:markets:589238",
+      "time": "2026-10-02 23:54:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Rebound from 3-1/2-Month Low — European equities recovered on Friday after hitting a 3-1/2-month low, as falling government bond yields and cheaper oil helped restore some investor confidence. The STOXX 50 gained more than 1%, while the broader STOXX 600 advanced over 0.5%, although both benchmarks recorded a weekly loss. Global sentiment improved following weaker-than-expected US employment data, which reduced expectations of further Federal Reserve rate increases. Oil prices also retreated after the G7 and partner countries announced plans to release up to 100 million barrels of crude and diesel reserves. Technology stocks led the rebound, with the sector rising more than 2.5%. ASML Holding climbed over 3%. Basic Resources rose around 2%, while industrial goods, telecommunications and construction stocks recorded gains. Utilities and chemicals also moved higher, whereas healthcare, banking and retail shares lagged."
+    },
+    {
+      "id": "5124490",
+      "time": "2026-10-02 23:54:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026國慶檔票房破4億】據貓眼專業版資料，2026年國慶檔（10月1日-10月7日）總票房破4億，《神探之痕跡》《什麼意思夫婦》《歡迎來龍餐館》暫列國慶檔票房榜前三位！"
+    },
+    {
+      "id": "5124489",
+      "time": "2026-10-02 23:54:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4130美元/盎司，日內跌1.14%。"
+    },
+    {
+      "id": "5124488",
+      "time": "2026-10-02 23:52:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4159.60美元/盎司。"
+    },
+    {
+      "id": "5124487",
+      "time": "2026-10-02 23:52:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4160美元/盎司，日內跌1.02%。"
+    },
+    {
+      "id": "5124486",
+      "time": "2026-10-02 23:51:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美駐巴西使領館及澳駐巴西使館因“安全問題”關閉】美國駐巴西使領館2日因“安全問題”暫停線下領事服務。澳大利亞駐巴西大使館同日因“安全問題”關閉。據美國駐巴西大使館1日晚釋出的公告，需要緊急協助的美國公民在此期間不要前往美國駐巴西大使館、領事館或其他駐巴西外交機構。巴西媒體援引美國駐聖保羅領事館一名工作人員的話報道，該領事館已暫停發放赴美簽證，尚未確定恢復服務時間。據巴西媒體報道，目前，巴西有關部門已派警力在美國駐巴西大使館周圍維持治安。巴西軍警已封鎖美國駐聖保羅領事館附近區域。（新華社）"
+    },
+    {
+      "id": "5124485",
+      "time": "2026-10-02 23:51:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）10月柴油期貨結算價為每噸1,354.00美元。"
+    },
+    {
+      "id": "5124484",
+      "time": "2026-10-02 23:49:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約州州長：表示支援堵住“自願醉酒”法律漏洞。"
+    },
+    {
+      "id": "5124483",
+      "time": "2026-10-02 23:47:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科技公司推出萌系吉祥物，以緩解AI焦慮】AI公司正嘗試發起一場新的“魅力攻勢”：它們使用看起來像毛絨玩具般可愛的角色，試圖讓自己的技術顯得不那麼令人恐懼。AI公司正嘗試發起一場新的“魅力攻勢”：它們使用看起來像毛絨玩具般可愛的角色，試圖讓自己的技術顯得不那麼令人恐懼。OpenAI 的最新 AI 代理由戴著領結和眼鏡的彩色卡通角色化身而成；Meta 的 Muse 助手的吉祥物則是一個雙頰紅潤的蛋形角色；而 Anthropic 也有自己友好的畫素風橙色螃蟹“Clawd”。“人們對AI的恐懼與日俱增，而面對可愛的東西很難產生恐懼感，”資深品牌顧問艾倫·亞當森表示，“人們更容易信任友好的事物。”市場研究機構 Morning Consult 近期對1300名消費者進行的一項線上調查顯示，超過半數的受訪者認為AI對社會構成了生存威脅，近70%的人擔心AI會取代人類的工作。"
+    },
+    {
+      "id": "5124482",
+      "time": "2026-10-02 23:46:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本決定試驗性購買烏克蘭無人機】日本自民黨籍的前防衛大臣小野寺五典訪問烏克蘭，並於10月1日在基輔與烏克蘭總統澤連斯基等人會晤。據他當天向媒體透露，日本政府“已決定試驗性地購買”烏克蘭主要無人機製造商SkyFall公司的產品。他還表示將在評估其效能的同時，探討兩國之間今後能夠開展怎樣的合作。據稱，日本政府認為烏克蘭制無人機“基於實戰經驗反覆改良，效能較高”。 除前防衛大臣外，近期，日本不同黨派的成員密集訪問烏克蘭。日本積極開展與烏克蘭合作的背後暗藏軍備擴張圖謀。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5124481",
+      "time": "2026-10-02 23:45:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易辦公室：目前沒有人員傷亡或環境影響的報告。"
+    },
+    {
+      "id": "te:markets:589233",
+      "time": "2026-10-02 23:45:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Resume Their Rise — The yield on the US 10-year Treasury note resumed its rise to 5.52% on Friday after falling as much as 8bps earlier in the session, as the weaker-than-expected jobs report offered only temporary relief to the bond market. Nonfarm payrolls increased by just 29K last month, well below expectations for a 90K gain, while employment figures for the previous two months were also revised lower. Fed rate expectations eased following the data, with markets no longer pricing in a rate hike this month, although traders still see a high likelihood of an increase at the Fed’s December meeting. Meanwhile, a decline in oil prices provided some relief on the inflation front, although the conflict in the Middle East remains unresolved. The benchmark 10-year yield climbed above 5.34% earlier this week, its highest level since 2002, amid expectations of further Fed tightening, the lack of a resolution to the Middle East conflict, concerns over the US fiscal and debt outlook, and resilient economic data."
+    },
+    {
+      "id": "5124480",
+      "time": "2026-10-02 23:45:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：該事件已導致船上發生小型火災並停電。"
+    },
+    {
+      "id": "5124479",
+      "time": "2026-10-02 23:44:34",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國海上貿易組織(UKMTO)：一艘油輪報告在霍爾木茲海峽向外航行時被不明拋射物擊中。"
+    },
+    {
+      "id": "5124478",
+      "time": "2026-10-02 23:42:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）英國11月天然氣期貨結算價為每撒姆188.10便士。"
+    },
+    {
+      "id": "5124477",
+      "time": "2026-10-02 23:40:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【二十國集團貿易部長會議在美國密爾沃基舉行】據商務部官網，9月30日至10月1日，二十國集團（G20）貿易部長會議在美國密爾沃基舉行。G20成員及嘉賓國（波蘭）貿易部長或代表與會。各方就美方設定的反對糧食武器化、應對產能過剩、消除強迫勞動、調整最惠國待遇原則等議題交換意見。會議就糧食議題達成聯合宣告，未就其他議題形成成果檔案。中華人民共和國國際貿易談判代表（正部長級）兼商務部副部長李成鋼出席會議併發言。李成鋼表示，習近平主席深刻指出，G20應秉持人類命運共同體理念，在經濟、貿易等領域凝聚國際共識，完善全球治理。面對單邊主義持續衝擊，中方呼籲G20成員踐行多邊主義，支援以世貿組織為核心的多邊貿易體制，共同維護和加強最惠國待遇原則這一基石，為全球貿易注入穩定性和可預見性。G20應以集體行動維護開放秩序，以可持續發展縮小全球鴻溝，以數智合作釋放增長動能。李成鋼指出，糧食安全事關人類生存和國家社會穩定，中方為全球糧食安全作出了積極貢獻，G20成員應積極降低貿易壁壘，共同維護糧食產供鏈穩定暢通。中方始終堅持以人民為中心的發展思想，高度重視勞動者權益保護，呼籲各方深挖貿易潛力，創造更多高質量就業崗位，確保增長成果普惠共享。關於產能議題，應從全球視角開展全面客觀動態分析，多探討合作而非製造對立。中方願同各方積極開展產業政策對話合作，透過加強政策協調增進互信，共促全球產業健康可持續發展。中方堅決反對以應對產能過剩、消除強迫勞動為由行單邊主義、保護主義之實。會議期間，李成鋼還分別與美國、歐盟、沙烏地阿拉伯、俄羅斯、巴西、加拿大、墨西哥、阿根廷、澳大利亞、韓國、波蘭等代表團團長舉行雙邊會見或簡短會談。"
+    },
+    {
+      "id": "5124476",
+      "time": "2026-10-02 23:39:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI北歐國家指數漲0.8%，創9月17日（當天收漲1.2%）以來最大單日漲幅，報386.26點，週四收跌1%。在十個板塊中，北歐工業板塊漲幅最大。維斯塔斯風力技術集團漲5.5%，在一眾北歐個股裡領跑。"
+    },
+    {
+      "id": "5124475",
+      "time": "2026-10-02 23:36:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本計劃量產可大規模部署的低成本巡航導彈，這款用於打擊艦船及同類目標的陸基導彈最早將於下一個財年啟動研發。"
+    },
+    {
+      "id": "5124474",
+      "time": "2026-10-02 23:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本計劃量產可大規模部署的低成本巡航導彈，以消耗目標防空力量。"
+    },
+    {
+      "id": "5124473",
+      "time": "2026-10-02 23:34:00",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "愛爾蘭財政部：預測2026年預算盈餘為69億歐元，此前預測為92億歐元；預算編制前基準下，2027年預算盈餘為135億歐元，此前預測為90億歐元。"
+    },
+    {
+      "id": "5124472",
+      "time": "2026-10-02 23:33:15",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "愛爾蘭財政部：在預算調整前，預計2027年稅收總收入為1250億歐元，此前的預測值為1170億歐元。"
+    },
+    {
+      "id": "5124471",
+      "time": "2026-10-02 23:33:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "多明尼加共和國9月總儲備金為152.4億美元。"
+    },
+    {
+      "id": "5124470",
+      "time": "2026-10-02 23:32:42",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "愛爾蘭財政部：預測2026年稅收總收入為1150億歐元，此前預估為1100億歐元。"
+    },
+    {
+      "id": "5124469",
+      "time": "2026-10-02 23:31:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊拉克官方宣告稱，除馬漢航空外，伊朗其他航空公司獲准每日飛往納傑夫的航班共計40架次。"
+    },
+    {
+      "id": "5124468",
+      "time": "2026-10-02 23:31:32",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "愛爾蘭財政部長：9月企業稅款增收受時間因素推動。"
+    },
+    {
+      "id": "te:economy:589228",
+      "time": "2026-10-02 23:31:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Country List",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Oct 5th — Next week, the focus will remain on the US-Iran standoff and any efforts to reopen the Strait of Hormuz and bring an end to the conflict in the Middle East. The bond market will also remain in the spotlight following the recent surge in government bond yields. In the US, the FOMC minutes, ISM Services PMI, and preliminary University of Michigan Consumer Sentiment data will be closely watched for further clues on the economic outlook and the Fed’s policy path. Elsewhere, key releases will include German factory orders and trade data, Eurozone PPI, Japan’s consumer confidence and machine tool orders, Australia’s consumer confidence, and Canada’s employment and trade figures. Inflation data from Mexico and Brazil will also be closely monitored. In addition, the Reserve Bank of India will announce its monetary policy decision. The OPEC meeting and developments surrounding Brazil’s presidential election will also remain key events for global markets."
+    },
+    {
+      "id": "5124467",
+      "time": "2026-10-02 23:30:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.72%，報631.17點，本週累計下跌大約1.1%。歐元區STOXX 50指數初步收漲0.99%，報6236.57點，本週累跌約1%。富時泛歐績優300指數初步收漲0.71%，報2521.57點。"
+    },
+    {
+      "id": "5124466",
+      "time": "2026-10-02 23:30:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至9月底，愛爾蘭國庫結餘為24億歐元，去年同期為14億歐元盈餘。"
+    },
+    {
+      "id": "5124465",
+      "time": "2026-10-02 23:30:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至9月底，愛爾蘭2026財年所得稅收入同比增長7.8%，增值稅收入同比增長8.9%。"
+    },
+    {
+      "id": "5124464",
+      "time": "2026-10-02 23:30:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：與義大利副總理討論了俄烏衝突，我們還就歐盟加強黎巴嫩武裝部隊的新任務籌備工作進行了交流。"
+    },
+    {
+      "id": "5124463",
+      "time": "2026-10-02 23:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭9月企業稅收入為49億歐元，去年同期為18億歐元；剔除蘋果稅款後，今年迄今企業稅收入同比增長24%。"
+    },
     {
       "id": "te:markets:589227",
       "time": "2026-10-02 23:30:13",
