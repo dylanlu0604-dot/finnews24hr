@@ -1,7 +1,164 @@
 {
   "date": "2026-10-03",
-  "count": 233,
+  "count": 250,
   "items": [
+    {
+      "id": "5124679",
+      "time": "2026-10-03 04:02:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：密切關注巴西大選。"
+    },
+    {
+      "id": "5124677",
+      "time": "2026-10-03 04:02:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX股價收漲7.4%，創8月12日以來最佳單日表現。"
+    },
+    {
+      "id": "5124676",
+      "time": "2026-10-03 04:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及柴油：出口禁令從未真正納入考量。"
+    },
+    {
+      "id": "5124675",
+      "time": "2026-10-03 04:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "5124674",
+      "time": "2026-10-03 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.49%，標普500指數漲0.74%，納指漲1.19%。泰瑞達漲8.00%，慧與漲7.37%，SpaceX漲7.35%，Echo Global Logistics漲6.80%，ON SEMICONDUCTOR漲6.01%，Monolithic Power Systems漲5.79%。“七姐妹”方面：特斯拉漲4.65%，谷歌漲1.62%，英偉達漲1.34%，亞馬遜漲1.33%，蘋果漲1.02%，微軟漲0.94%，Meta Platforms漲0.29%。"
+    },
+    {
+      "id": "mkt:01a0fe34-6077-7ee0-a78c-e46af57b26da",
+      "time": "2026-10-03 04:00:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "President Trump, on diesel, said U.S. ties with Europe are very good."
+    },
+    {
+      "id": "5124673",
+      "time": "2026-10-03 04:00:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及柴油：我們與歐洲關係十分良好。"
+    },
+    {
+      "id": "5124672",
+      "time": "2026-10-03 04:00:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝商所（CME Group）暫停推出全天候 10 桶原油期貨合約的計劃。"
+    },
+    {
+      "id": "mkt:01a0fe33-f762-7ee0-a78c-da497ca6a890",
+      "time": "2026-10-03 04:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said the U.S. will not impose a diesel export ban."
+    },
+    {
+      "id": "5124671",
+      "time": "2026-10-03 04:00:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：歐洲做出了重大貢獻，我們也是如此。"
+    },
+    {
+      "id": "mkt:01a0fe33-d68e-7ee0-a78c-d1cd02aa4fb0",
+      "time": "2026-10-03 04:00:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP, on South Korean investment in the US, said he is not in a hurry to act on the Alaska pipeline project."
+    },
+    {
+      "id": "5124670",
+      "time": "2026-10-03 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.01%】陸金所控股跌14.29%，MAAS跌12.08%，AIFU跌7.55%，萬國資料跌7.48%，世紀互聯跌7.30%。"
+    },
+    {
+      "id": "5124669",
+      "time": "2026-10-03 04:00:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及柴油：我們不會實施出口禁令。"
+    },
+    {
+      "id": "mkt:01a0fe33-91dd-7ee0-a78c-ce6cd0c7a9f9",
+      "time": "2026-10-03 03:59:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US President Trump said Iran's situation is not good."
+    },
+    {
+      "id": "te:markets:589274",
+      "time": "2026-10-03 03:59:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Cisco Systems Shares Hit 5-week High — Cisco Systems shares increased to 112.22 USD, the highest since August 2026. Over the past 4 weeks, Cisco Systems gained 3.28%, and in the last 12 months, it increased 65.15%."
+    },
+    {
+      "id": "5124668",
+      "time": "2026-10-03 03:59:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談韓國投資：我沒有操之過急。"
+    },
+    {
+      "id": "5124667",
+      "time": "2026-10-03 03:59:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及韓國對美投資：我並未搶先公佈阿拉斯加管道專案。"
+    },
     {
       "id": "5124666",
       "time": "2026-10-03 03:58:27",
