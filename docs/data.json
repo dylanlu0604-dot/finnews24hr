@@ -1,7 +1,152 @@
 {
-  "updated": "2026-10-02 22:20:25",
-  "count": 11516,
+  "updated": "2026-10-02 22:24:18",
+  "count": 11527,
   "items": [
+    {
+      "id": "mkt:01a0fcff-fd02-7ee0-a788-fbb77bb8d97b",
+      "time": "2026-10-02 22:23:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "G7 leaders said they will continue to impose sanctions on Russia."
+    },
+    {
+      "id": "5124408",
+      "time": "2026-10-02 22:23:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "七國集團宣告重申：七國集團譴責伊朗對鄰國發動的襲擊。"
+    },
+    {
+      "id": "mkt:01a0fcff-a82d-7ee0-a788-f7a08e8cc46e",
+      "time": "2026-10-02 22:23:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "French presidency says it will discuss in coming days the possibility of further releasing reserves."
+    },
+    {
+      "id": "5124407",
+      "time": "2026-10-02 22:23:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）原白糖期貨<LSUc1>價格大漲近3%，報每噸522.30美元。"
+    },
+    {
+      "id": "mkt:01a0fcff-860e-7ee0-a788-e8c41e02e371",
+      "time": "2026-10-02 22:23:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "G7 leaders reaffirmed commitment not to impose export restrictions on energy and energy products among G7 members, and urged all producing countries to avoid bans that could exacerbate market tightness."
+    },
+    {
+      "id": "mkt:01a0fcfe-deed-7ee0-a788-e57eb2e68bd8",
+      "time": "2026-10-02 22:22:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "G7 leaders said members and partners will carry out an early, large-scale release of diesel stockpiles within 20 days."
+    },
+    {
+      "id": "5124406",
+      "time": "2026-10-02 22:22:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團：呼籲所有產油國停止實施可能加劇市場緊張局勢的出口禁令。"
+    },
+    {
+      "id": "5124405",
+      "time": "2026-10-02 22:22:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團（G7）：七國集團成員國及合作伙伴還將在頭20天內提前投放大量柴油，完成前置釋儲。"
+    },
+    {
+      "id": "5124404",
+      "time": "2026-10-02 22:22:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團領導人宣告：重申我們承諾不對七國集團國家之間的能源和能源產品實施出口限制。"
+    },
+    {
+      "id": "5124403",
+      "time": "2026-10-02 22:22:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團：將安排透過國際能源署（IEA）開展協調釋放石油行動，在未來4個月內立即啟動投放總計1億桶石油。"
+    },
+    {
+      "id": "mkt:01a0fcfe-5630-7ee0-a788-d9ac9280e22a",
+      "time": "2026-10-02 22:22:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "G7 leaders said they will coordinate refinery maintenance schedules across member countries and asked the International Energy Agency (IEA) to monitor full implementation of commitments made this March."
+    },
+    {
+      "id": "5124402",
+      "time": "2026-10-02 22:21:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳口岸日均出入境客流量預計將達97萬人次】隨著國慶假期到來 跨境遊熱度大幅攀升 假期首日，深圳各大口岸 迎來出入境客流高峰 據深圳邊檢部門預測 今年國慶假期 深圳口岸日均出入境客流量 將達97萬人。（深圳釋出）"
+    },
+    {
+      "id": "5124401",
+      "time": "2026-10-02 22:21:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團要求國際能源署監督2026年3月承諾的立即全面執行情況。"
+    },
+    {
+      "id": "5124400",
+      "time": "2026-10-02 22:20:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：以色列官員預計將訊問涉嫌試圖使飛往特拉維夫的迪拜航空航班墜毀的那名副駕駛。"
+    },
+    {
+      "id": "mkt:01a0fcfc-a492-7ee0-a788-d399a48966fe",
+      "time": "2026-10-02 22:20:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "French presidency said it will release a large volume of diesel reserves over the first 20 days."
+    },
     {
       "id": "mkt:01a0fcfc-6538-7ee0-a788-cb739588b5a5",
       "time": "2026-10-02 22:19:54",
@@ -105565,43 +105710,6 @@
         "公司"
       ],
       "text": "【理想汽車廣告抄襲沃爾沃？沃爾沃發文：有些經典，總在一次次重溫中被銘記】近日，理想汽車的一則廣告被指抄襲沃爾沃。沃爾沃集團中國發布影片並配文稱，“有些經典，總在一次次重溫中被銘記”，疑似回應抄襲一事。（新浪科技）"
-    },
-    {
-      "id": "5113700",
-      "time": "2026-09-25 22:22:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，以色列軍隊繼續以炮彈襲擊黎巴嫩南部城鎮曼蘇里。"
-    },
-    {
-      "id": "5113699",
-      "time": "2026-09-25 22:22:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩總理：我們希望鞏固停火併要求以色列撤出我們的領土。我們已在美國的斡旋下與以色列展開談判，以期結束戰爭。"
-    },
-    {
-      "id": "mkt:01a0d8f2-3983-7118-869e-0c3d27a2ad1a",
-      "time": "2026-09-25 22:22:28",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Lebanon's prime minister said the country has begun US-mediated talks with Israel aimed at securing an end to the war."
-    },
-    {
-      "id": "mkt:01a0d8f1-e8c3-7118-869e-05023a626c7b",
-      "time": "2026-09-25 22:22:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanon's prime minister said he wants to consolidate the ceasefire and called for Israel to withdraw from Lebanese territory."
     }
   ]
 }
