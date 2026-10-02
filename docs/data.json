@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-02 22:51:45",
-  "count": 11524,
+  "updated": "2026-10-02 22:55:43",
+  "count": 11525,
   "items": [
+    {
+      "id": "mkt:01a0fd1c-af74-7ee0-a789-4787020369ca",
+      "time": "2026-10-02 22:55:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv mayor says southern bridge was struck again in a Russian airstrike."
+    },
+    {
+      "id": "mkt:01a0fd1a-4dc3-7ee0-a789-3e1d8a24cf25",
+      "time": "2026-10-02 22:52:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Russia is seeking to seize assets of FIDE president Turlov."
+    },
+    {
+      "id": "5124427",
+      "time": "2026-10-02 22:51:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓多家銀行遭駭客攻擊 三家客戶資訊洩露】韓國五大商業銀行均遭疑似由人工智慧（AI）驅動的駭客攻擊，其中三家發生客戶資訊洩露。五大銀行同時遇襲，在韓國金融業尚屬首次。據韓國金融部門2日訊息，繼新韓銀行之後，KB國民銀行和韓亞銀行也遭到疑似由AI驅動的駭客攻擊，造成客戶資訊洩露。BNK釜山銀行因駭客攻擊，導致11名外包員工的個人資訊外洩。KB國民銀行當天表示，119名客戶的資訊因駭客攻擊被洩露，包括姓名、電話號碼、地址、經加密處理的身份證號碼等，每位客戶被洩露的資訊各不相同。此次駭客攻擊物件是職員專用移動辦公支援系統，與網銀、手機銀行等客戶的金融交易無關。"
+    },
+    {
+      "id": "5124426",
+      "time": "2026-10-02 22:51:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯尋求查封國際棋聯主席圖爾洛夫資產。"
+    },
     {
       "id": "mkt:01a0fd19-1c72-7ee0-a789-32321c77832a",
       "time": "2026-10-02 22:51:15",
@@ -105648,42 +105680,6 @@
         "其他"
       ],
       "text": "貝森特：今天與片山皋月進行了富有成效的通話。"
-    },
-    {
-      "id": "te:markets:586968",
-      "time": "2026-09-25 22:55:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Sterling Slightly Up as BoE Hike Bets Rise — Sterling edged higher to $1.325 but remained close to its weakest level in three months, as investors digested a series of hawkish comments from Bank of England policymakers, while growing expectations of further Fed rate hikes continued to support the US dollar. BoE Governor Andrew Bailey said persistently high energy prices would make it harder for the central bank to keep interest rates on hold. Meanwhile, MPC members Sarah Breeden and Clare Lombardelli also signaled that they were moving closer to supporting a rate hike, as rising energy prices increased the risk of inflation remaining above target. The warnings come at a challenging time for Prime Minister Burnham and Chancellor Healey, who are seeking to ease cost-of-living pressures while maintaining confidence in the economy ahead of the October 28 budget. Markets are pricing in roughly an 80% chance of a BoE rate hike in November, with slightly more than four 25-basis-point increases priced into the curve over the next year."
-    },
-    {
-      "id": "mkt:01a0d90e-f8a8-7118-869e-5f9254cde81f",
-      "time": "2026-09-25 22:53:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 10-year Treasury yield extended gains to 5.23%, the highest level since 2007."
-    },
-    {
-      "id": "5113721",
-      "time": "2026-09-25 22:52:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "遊戲驛站股價在連續四個交易日上漲後下跌7.7%。"
     }
   ]
 }
