@@ -1,7 +1,36 @@
 {
   "date": "2026-10-03",
-  "count": 221,
+  "count": 224,
   "items": [
+    {
+      "id": "mkt:01a0fe21-16e8-7ee0-a78c-a7d14159d8e8",
+      "time": "2026-10-03 03:39:36",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "Axios reports a memo shows the U.S. Army is creating a new Autonomous Systems Command and has appointed a procurement chief to prioritize acquisition and deployment of intelligent machines."
+    },
+    {
+      "id": "5124658",
+      "time": "2026-10-03 03:37:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇丹中部遭無人機襲擊 造成12人傷亡】當地時間10月2日，蘇丹民間機構“科爾多凡觀察站”發表宣告稱，蘇丹中部北科爾多凡州馬茲魯布地區當天發生一起無人機襲擊事件，造成5名平民死亡，另有7名平民受傷。（央視新聞）"
+    },
+    {
+      "id": "5124657",
+      "time": "2026-10-03 03:36:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：德國經濟今年可能增長約1%。"
+    },
     {
       "id": "5124656",
       "time": "2026-10-03 03:36:15",
