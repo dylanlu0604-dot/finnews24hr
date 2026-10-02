@@ -1,7 +1,39 @@
 {
   "date": "2026-10-02",
-  "count": 1272,
+  "count": 1275,
   "items": [
+    {
+      "id": "5123936",
+      "time": "2026-10-02 16:12:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "10月2日，阿里巴巴集團旗下高德公佈十一長假首日運營資料：其中，高德日活躍使用者數（DAU）近3.7億，提供空間智慧服務超28億次；駕車導航總里程達97億公里，相當於繞地球赤道24萬圈。"
+    },
+    {
+      "id": "te:economy:589079",
+      "time": "2026-10-02 16:11:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Business Confidence",
+        "Importance 0"
+      ],
+      "text": "Thailand Business Confidence Remains Subdued — Thailand’s business confidence indicator fell to 48.1 in September 2026 from 49.8 in the previous month, remaining below the 50 threshold for the ninth straight month. Sentiment weakened across performance (50.2 vs 53 in August), production (51.5 vs 54.5), and employment (50.3 vs 51.6). By sector, confidence in manufacturing declined, led by agricultural product manufacturers amid El Niño-induced drought conditions. The non-manufacturing index remained below the 50 threshold for the tenth consecutive month, particularly in transportation, which was affected by higher diesel prices following renewed Middle East tensions, as well as retail trade, due to lower orders for consumer goods and fading effects of government measures. Lastly, sentiment in the automotive industry weakened, particularly among auto parts manufacturers, as rising EV imports reduced demand for domestically produced parts. The three-month expected Business Sentiment Index edged up to 50.8 from 50.5 in August."
+    },
+    {
+      "id": "te:economy:589078",
+      "time": "2026-10-02 16:11:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "World",
+        "Food Price Index",
+        "Importance 1"
+      ],
+      "text": "World Food Prices Rise for 3rd Month to New 2022-High — The FAO Food Price Index rose for a third consecutive month to 136 in September 2026, the highest since November 2022, compared to an upwardly revised 134 in August. Price indices for crop-based commodity groups (cereals, vegetable oils, and sugar) all increased from the previous month, while the meat price index declined and the dairy price index remained stable."
+    },
     {
       "id": "te:markets:589077",
       "time": "2026-10-02 16:10:11",
