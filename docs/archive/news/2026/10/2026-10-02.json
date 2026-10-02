@@ -1,7 +1,63 @@
 {
   "date": "2026-10-02",
-  "count": 839,
+  "count": 845,
   "items": [
+    {
+      "id": "mkt:01a0fa6b-31d8-7ee0-a783-4a4b02bdf12e",
+      "time": "2026-10-02 10:22:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan’s minister in charge of economic revitalization said he hopes the Bank of Japan will continue to maintain close communication with the government when formulating and guiding policy."
+    },
+    {
+      "id": "5123604",
+      "time": "2026-10-02 10:21:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟再生擔當大臣城內實：希望日本央行在引導政策時繼續與政府保持密切溝通。"
+    },
+    {
+      "id": "mkt:01a0fa6a-191e-7ee0-a783-4380537bb4d2",
+      "time": "2026-10-02 10:20:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's minister for economic revitalization said monetary policy falls under the Bank of Japan's jurisdiction and declined to comment."
+    },
+    {
+      "id": "5123603",
+      "time": "2026-10-02 10:20:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟再生擔當大臣城內實：不會對屬於日本央行管轄範圍的貨幣政策發表評論。"
+    },
+    {
+      "id": "mkt:01a0fa69-aae2-7ee0-a783-39a53321ee59",
+      "time": "2026-10-02 10:20:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yangtze River Delta rail network expects 4.0 mln passengers today】China Railway Shanghai Group said passenger flows on the Yangtze River Delta rail network remain elevated, with about 4.0 mln passengers expected on Oct. 2. On Oct. 1 the network carried 4.427 mln passengers, topping the previous Oct. 1 holiday record of 4.205 mln and setting a new single‑day holiday high; Shanghai Railway Station handled 852,000 passengers, a station record. Since the Sept. 23 start of Mid‑Autumn/National Day travel through Oct. 1, cumulative regional rail traffic reached 29.459 mln passengers, averaging roughly 3.273 mln per day."
+    },
+    {
+      "id": "5123602",
+      "time": "2026-10-02 10:19:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長三角鐵路今日預計傳送旅客400萬人次】從中國鐵路上海局集團有限公司（以下簡稱“上鐵集團”）獲悉，10月2日，長三角鐵路客流持續高位執行，預計傳送旅客400萬人次。為滿足匹配旅客出行需求，長三角鐵路在啟用圖定高峰線的基礎上持續強化運力供給，10月2日增開旅客列車326列，組織動車組重聯執行370列，加掛普速車輛131輛。"
+    },
     {
       "id": "mkt:01a0fa66-da06-7ee0-a783-3793cedc7ea8",
       "time": "2026-10-02 10:17:19",

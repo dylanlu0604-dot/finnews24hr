@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-02 10:18:50",
-  "count": 11679,
+  "updated": "2026-10-02 10:22:36",
+  "count": 11682,
   "items": [
+    {
+      "id": "mkt:01a0fa6b-31d8-7ee0-a783-4a4b02bdf12e",
+      "time": "2026-10-02 10:22:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan’s minister in charge of economic revitalization said he hopes the Bank of Japan will continue to maintain close communication with the government when formulating and guiding policy."
+    },
+    {
+      "id": "5123604",
+      "time": "2026-10-02 10:21:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟再生擔當大臣城內實：希望日本央行在引導政策時繼續與政府保持密切溝通。"
+    },
+    {
+      "id": "mkt:01a0fa6a-191e-7ee0-a783-4380537bb4d2",
+      "time": "2026-10-02 10:20:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's minister for economic revitalization said monetary policy falls under the Bank of Japan's jurisdiction and declined to comment."
+    },
+    {
+      "id": "5123603",
+      "time": "2026-10-02 10:20:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本經濟再生擔當大臣城內實：不會對屬於日本央行管轄範圍的貨幣政策發表評論。"
+    },
+    {
+      "id": "mkt:01a0fa69-aae2-7ee0-a783-39a53321ee59",
+      "time": "2026-10-02 10:20:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yangtze River Delta rail network expects 4.0 mln passengers today】China Railway Shanghai Group said passenger flows on the Yangtze River Delta rail network remain elevated, with about 4.0 mln passengers expected on Oct. 2. On Oct. 1 the network carried 4.427 mln passengers, topping the previous Oct. 1 holiday record of 4.205 mln and setting a new single‑day holiday high; Shanghai Railway Station handled 852,000 passengers, a station record. Since the Sept. 23 start of Mid‑Autumn/National Day travel through Oct. 1, cumulative regional rail traffic reached 29.459 mln passengers, averaging roughly 3.273 mln per day."
+    },
+    {
+      "id": "5123602",
+      "time": "2026-10-02 10:19:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長三角鐵路今日預計傳送旅客400萬人次】從中國鐵路上海局集團有限公司（以下簡稱“上鐵集團”）獲悉，10月2日，長三角鐵路客流持續高位執行，預計傳送旅客400萬人次。為滿足匹配旅客出行需求，長三角鐵路在啟用圖定高峰線的基礎上持續強化運力供給，10月2日增開旅客列車326列，組織動車組重聯執行370列，加掛普速車輛131輛。"
+    },
     {
       "id": "mkt:01a0fa66-da06-7ee0-a783-3793cedc7ea8",
       "time": "2026-10-02 10:17:19",
@@ -107276,34 +107332,6 @@
         "國際"
       ],
       "text": "【韓正會見塞爾維亞總統武契奇】當地時間2026年9月24日，國家副主席韓正在紐約出席聯合國大會期間會見塞爾維亞總統武契奇。韓正向武契奇轉達習近平主席的親切問候和良好祝願。韓正表示，長期以來，中國和塞爾維亞在國際形勢複雜動盪中同舟共濟，樹立了國與國之間友好交往的典範。總統先生是中國人民的老朋友、好朋友，長期致力於中塞關係發展，親自推動各領域務實合作。在習近平主席和總統先生的戰略引領下，中塞關係提升到全新高度。中方願同塞方一道，發揚傳統友誼，拓展各領域合作，推動中塞關係不斷邁上新臺階。（新華社）"
-    },
-    {
-      "id": "mkt:01a0d65f-1784-7118-8694-2612a1d8e635",
-      "time": "2026-09-25 10:22:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Han Zheng meets Serbian President Aleksandar Vucic】On Sep 24, 2026 in New York during the UN General Assembly, Chinese Vice President Han Zheng met Serbian President Aleksandar Vucic. Han conveyed President Xi Jinping's greetings and reaffirmed that, under the strategic leadership of Xi and Vucic, China-Serbia relations have been elevated to a new level. China said it is prepared to deepen traditional friendship and expand practical, cross-sector cooperation with Serbia."
-    },
-    {
-      "id": "5112977",
-      "time": "2026-09-25 10:20:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【最快2小時27分可達！京港高鐵雄安至商丘段9月28日開通運營】記者從國鐵集團獲悉，京港高鐵雄安至商丘段將於9月28日開通運營，雄安站至商丘站最快2小時27分可達，將為區域經濟社會協調發展注入新動能。（央視新聞）"
-    },
-    {
-      "id": "te:markets:586725",
-      "time": "2026-09-25 10:19:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japanese Yields Track Treasury Yields Higher — Japan’s 10-year government bond yield climbed to around 3.1% on Friday, reaching its highest levels since 1996 and following the rise in US Treasury yields as expectations grew that the Federal Reserve will tighten policy further to contain inflation. Bond markets continued to grapple with elevated oil prices that are fueling inflationary pressures further, though reports that the US and Iran are considering a phased deal provided some relief. The latest US Treasury bond buyback operation also came in below expectations, with just $4.078 billion of 20- and 30-year bonds purchased against $10.4678 billion offered. Domestically, former Bank of Japan board member Makoto Sakurai said the central bank is expected to raise interest rates roughly once every three months, potentially lifting them to 2% by around June next year as it seeks to address mounting inflationary pressures."
     }
   ]
 }
