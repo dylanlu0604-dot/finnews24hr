@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-02 23:11:17",
-  "count": 11527,
+  "updated": "2026-10-02 23:15:11",
+  "count": 11521,
   "items": [
+    {
+      "id": "5124448",
+      "time": "2026-10-02 23:14:27",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【道明證券預計美聯儲將於12月和3月加息】TD證券調整了對美聯儲加息時點的預期，將此前預測的10月和1月加息推遲至12月和3月。首席美國經濟學家Oscar Munoz等人在報告中表示，對加息總次數的預期維持不變。報告指出：“儘管即將公佈的CPI和PPI報告可能會給出最終定論，但鑑於美聯儲官員目前似乎意見一致，我們認為美聯儲在10月再次收緊政策的門檻已經提高。”報告認為，週五的資料並未改變美聯儲的政策前景，但近期利率的攀升可能“促使美聯儲更加謹慎”。"
+    },
+    {
+      "id": "5124447",
+      "time": "2026-10-02 23:12:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：五角大樓釋出備忘錄，要求縮短反無人機系統使用審批與部署流程。"
+    },
     {
       "id": "5124446",
       "time": "2026-10-02 23:10:21",
@@ -105605,91 +105623,6 @@
         "Importance 1"
       ],
       "text": "Canada Budget Deficit Widens in July — Canada’s federal deficit widened to C$4.77 billion in July 2026 from C$1.51 billion a year earlier, as fiscal expenditures increased. Program expenses, excluding net actuarial losses, rose 5.1% to C$41.81 billion, largely due to higher direct program expenses and major transfers to persons, partly offset by lower pollution pricing proceeds returned to Canadians. Public debt charges also increased 7.4% to C$5.4 billion, reflecting higher average effective interest rates on a larger stock of marketable bonds. Net actuarial losses rose 23.9% to C$415 million. Meanwhile, revenues rose 7.4% to C$42.8 billion, largely reflecting higher personal income tax revenues, partly offset by lower customs import duties, energy tax revenues and corporate income tax revenues."
-    },
-    {
-      "id": "5113737",
-      "time": "2026-09-25 23:14:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯礦業部長：預計今年秘魯銅產量為250萬至270萬噸。預計秘魯將在5-6年內新增100萬噸年銅產量。"
-    },
-    {
-      "id": "mkt:01a0d921-d59a-7118-869e-bcf999a9702b",
-      "time": "2026-09-25 23:14:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "Peru's mining minister said Peru expects to add about 1 million tonnes per year of copper production within 5–6 years."
-    },
-    {
-      "id": "mkt:01a0d921-b8cd-7118-869e-b33db1b63bf2",
-      "time": "2026-09-25 23:14:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper"
-      ],
-      "text": "Peru's mining minister said the country's copper output is expected to reach 2.5–2.7 mln tonnes this year."
-    },
-    {
-      "id": "mkt:01a0d921-976d-7118-869e-ae1db33fe7d9",
-      "time": "2026-09-25 23:14:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Sources said Russia's Perm refinery suspended crude processing after a drone attack on Friday."
-    },
-    {
-      "id": "5113736",
-      "time": "2026-09-25 23:14:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱：俄羅斯彼爾姆煉油廠在週五遭遇無人機襲擊後已停止加工生產。"
-    },
-    {
-      "id": "te:markets:586974",
-      "time": "2026-09-25 23:14:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "Treasury Yields Back on the Rise — The yield on the US 10-year Treasury note rose again on Friday, topping 5.2% to reach a fresh high since mid-2007, extending a sharp sell-off over the previous three sessions that had pushed the benchmark yield up by 23 basis points. Traders refocused on hawkish comments from Fed officials, while a lack of concrete progress in US-Iran negotiations to end the conflict continued to fuel concerns about inflation. Meanwhile, the University of Michigan’s consumer sentiment survey confirmed a sharp rise in inflation expectations in September. Strong US economic data, worsening fiscal conditions and rising government debt have also weighed on the Treasury market while efforts by Treasury Secretary Bessent to cap long-dated yields through increased Treasury buybacks are widely seen as having had limited impact. Investors currently expect the Fed to raise the federal funds rate by 25bps next month, with the probability of such a move standing at around 66%."
-    },
-    {
-      "id": "5113735",
-      "time": "2026-09-25 23:13:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國華盛頓特區法院駁回Anthropic對總統特朗普政府官員的挑戰。Anthropic在美國“供應鏈風險”標籤案中遭遇法庭挫折。"
-    },
-    {
-      "id": "mkt:01a0d920-129d-7118-869e-a2c39b426f2e",
-      "time": "2026-09-25 23:12:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "On Sept. 25 local time, a powerful explosion again struck Kyiv, the capital of Ukraine."
     }
   ]
 }
