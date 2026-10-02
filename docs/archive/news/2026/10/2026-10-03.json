@@ -1,7 +1,84 @@
 {
   "date": "2026-10-03",
-  "count": 250,
+  "count": 257,
   "items": [
+    {
+      "id": "mkt:01a0fe39-06b3-7ee0-a78d-08cf55046a04",
+      "time": "2026-10-03 04:05:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump concluded a speech at the White House."
+    },
+    {
+      "id": "5124683",
+      "time": "2026-10-03 04:04:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "芝商所談及暫停推出全天候 10 桶原油期貨合約計劃一事：希望美國商品期貨交易委員會解決 “不公平現象”，重建公平競爭環境。"
+    },
+    {
+      "id": "mkt:01a0fe37-adac-7ee0-a78d-056b26d3e912",
+      "time": "2026-10-03 04:04:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump: On diesel, Europe has made a major contribution, and so have we."
+    },
+    {
+      "id": "mkt:01a0fe37-2a09-7ee0-a78c-fc2821b3a5b9",
+      "time": "2026-10-03 04:03:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "CME withdraws application to launch a round-the-clock 10-barrel crude oil futures contract."
+    },
+    {
+      "id": "mkt:01a0fe36-78b9-7ee0-a78c-f7a4c1d91524",
+      "time": "2026-10-03 04:02:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said a U.S. diesel export ban was never seriously under consideration."
+    },
+    {
+      "id": "mkt:01a0fe36-3a7c-7ee0-a78c-eb31bda316c8",
+      "time": "2026-10-03 04:02:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Tesla",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "SPCX.O"
+      ],
+      "text": "【US stocks close higher; SpaceX up over 7%】US stocks closed Friday: Dow +0.49%, S&P 500 +0.74%, Nasdaq +1.19%. Top movers: SpaceX (SPCX.O) +7.35%, Tesla (TSLA.O) +4.65%, Dell (DELL.N) +3.80%, Broadcom (AVGO.O) +3.35%, ASML (ASML.O) +3.25%, NVIDIA (NVDA.O) +1.34%. Decliners: Accenture (ACN.N) -6.27%, SanDisk -3.79%. Nasdaq Golden Dragon China Index -2.09%; Alibaba (BABA.N) -1.47%, Baidu (BIDU.O) -1.48%."
+    },
+    {
+      "id": "5124681",
+      "time": "2026-10-03 04:02:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝商所：若不開展進一步盡職調查就推出能源全天候交易，可能會帶來額外風險，對此存在擔憂。"
+    },
     {
       "id": "5124679",
       "time": "2026-10-03 04:02:25",
