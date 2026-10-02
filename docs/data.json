@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-03 03:44:25",
-  "count": 11548,
+  "updated": "2026-10-03 03:48:10",
+  "count": 11546,
   "items": [
+    {
+      "id": "mkt:01a0fe25-ebd4-7ee0-a78c-a800183f1493",
+      "time": "2026-10-03 03:44:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fell on the 2nd】At the close, NYMEX November light sweet crude fell $1.76 to $91.11/bbl, down 1.9%. London Brent December fell $0.06 to $102.25/bbl, down 0.06%."
+    },
     {
       "id": "5124660",
       "time": "2026-10-03 03:43:40",
@@ -105720,31 +105733,6 @@
         "國際"
       ],
       "text": "哥倫比亞國家警方訊息人士稱，哥倫比亞已將一名被控販毒的哥倫比亞革命武裝力量異見運動領導人引渡至美國。"
-    },
-    {
-      "id": "mkt:01a0da1b-b88c-7118-86a2-e5de3e6bcd40",
-      "time": "2026-09-26 03:47:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to court filings, a U.S. Court of Appeals ruled against Kalshi, holding that states may regulate its event contracts."
-    },
-    {
-      "id": "5113921",
-      "time": "2026-09-26 03:46:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺評論員、今年早些時候參與巴基斯坦斡旋的伊美談判代表團成員穆罕默德·馬蘭迪週五表示，伊美間接談判未取得任何進展，地區局勢正朝著進一步升級的方向發展。"
-    },
-    {
-      "id": "5113920",
-      "time": "2026-09-26 03:45:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "據法院裁決檔案顯示，美國上訴法院裁定Kalshi敗訴，稱各州有權監管其事件合約。"
     }
   ]
 }

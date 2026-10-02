@@ -1,7 +1,20 @@
 {
   "date": "2026-10-03",
-  "count": 226,
+  "count": 227,
   "items": [
+    {
+      "id": "mkt:01a0fe25-ebd4-7ee0-a78c-a800183f1493",
+      "time": "2026-10-03 03:44:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fell on the 2nd】At the close, NYMEX November light sweet crude fell $1.76 to $91.11/bbl, down 1.9%. London Brent December fell $0.06 to $102.25/bbl, down 0.06%."
+    },
     {
       "id": "5124660",
       "time": "2026-10-03 03:43:40",
