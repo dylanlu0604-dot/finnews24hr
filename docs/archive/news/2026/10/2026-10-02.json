@@ -1,7 +1,71 @@
 {
   "date": "2026-10-02",
-  "count": 1750,
+  "count": 1757,
   "items": [
+    {
+      "id": "5124456",
+      "time": "2026-10-02 23:21:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮稱演習為常規活動。"
+    },
+    {
+      "id": "mkt:01a0fd34-fa0a-7ee0-a789-77a68126997b",
+      "time": "2026-10-02 23:21:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said the exercises were routine."
+    },
+    {
+      "id": "mkt:01a0fd34-cf0f-7ee0-a789-6e3a39595276",
+      "time": "2026-10-02 23:21:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Interfax reported Putin observed military exercises in Russia's Chelyabinsk region."
+    },
+    {
+      "id": "5124455",
+      "time": "2026-10-02 23:21:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京在車里雅賓斯克州觀摩軍事演習。"
+    },
+    {
+      "id": "5124454",
+      "time": "2026-10-02 23:21:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "Biogen：利替菲單抗（litifilimab）安全性特徵保持穩定，未發現新的安全性訊號。"
+    },
+    {
+      "id": "5124453",
+      "time": "2026-10-02 23:20:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "Biogen的Litifilimab在正在進行的2/3期AMETHYST研究最新52周2期資料中展現出快速且持久的療效，進一步鞏固了其作為皮膚型紅斑狼瘡同類首創療法的潛力。"
+    },
+    {
+      "id": "te:markets:589222",
+      "time": "2026-10-02 23:19:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Nears 12-Week Low — The Canadian dollar weakened slightly to around 1.42 per US dollar in September, its lowest level in about 12 weeks, as stalled domestic growth and US dollar strength kept the loonie under pressure. Advance estimates showed real GDP increased 0.2% in August, with gains in mining and quarrying and retail trade partly offset by a decline in oil and gas extraction. GDP was essentially unchanged in July, ending a three-month run of growth. The result was in line with expectations but highlighted a weaker start to the third quarter. Soft GDP reinforced expectations for the Bank of Canada to hold rates. The US ban on various Canadian goods imports also took effect. Meanwhile, the US dollar climbed against a basket of major currencies as markets increased bets on further Federal Reserve rate increases. Expectations for a widening US-Canada interest-rate differential are reinforcing the greenback’s advantage over the loonie."
+    },
     {
       "id": "5124452",
       "time": "2026-10-02 23:18:22",
