@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-03 04:21:33",
-  "count": 11510,
+  "updated": "2026-10-03 04:25:16",
+  "count": 11505,
   "items": [
+    {
+      "id": "5124693",
+      "time": "2026-10-03 04:23:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "Scope 維持美國長期信用評級為 AA-，展望穩定。"
+    },
     {
       "id": "5124691",
       "time": "2026-10-03 04:19:48",
@@ -105395,64 +105403,6 @@
         "MKT News"
       ],
       "text": "Oracle (ORCL.N) said in an SEC filing that Executive Chairman and CTO Lawrence J. Ellison’s total compensation for 2026 was $131 mln."
-    },
-    {
-      "id": "5113996",
-      "time": "2026-09-26 04:25:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "甲骨文公司在提交給美國證券交易委員會（SEC）的檔案中表示，執行董事長兼技術長勞倫斯·J·埃裡森2026年總薪酬為1.31億美元。"
-    },
-    {
-      "id": "te:markets:587009",
-      "time": "2026-09-26 04:23:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises as Global Yield Surge Pauses — The S&P/TSX Composite Index added 0.3% to close at 35,801 on Friday, paring earlier losses as easing oil prices halted the surge in global yields. Oil and fuel prices pulled back following news that the US and Iran had moved closer to an agreement to lift naval blockades on tankers in the Persian Gulf and ease economic measures against Tehran. Benchmark borrowing costs eased after reaching multi-year highs on Thursday. Major banks closed higher, with RBC and TD Bank up 1.2% each, BMO rising 0.8%, Scotiabank gaining 1.5%, and CIBC advancing 2%. Mining stocks were mixed as gold prices rose on the session but posted a weekly loss. Barrick gained 1.5%, while Kinross rose 2.8%, rebounding after a more than 10% slump on Thursday following a lower production outlook for 2026 and 2027. WPM and Franco-Nevada shed 0.7% each. Energy heavyweights fell amid lower oil prices. The index ended the week nearly flat."
-    },
-    {
-      "id": "mkt:01a0da3c-1e7e-7118-86a3-87491b49036d",
-      "time": "2026-09-26 04:22:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's foreign minister said Tehran could accept the seven-day plan and that the Strait of Hormuz will ultimately be reopened."
-    },
-    {
-      "id": "5113993",
-      "time": "2026-09-26 04:22:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部長：美國方面可以接受這份七天計劃，霍爾木茲海峽最終將恢復通航。"
-    },
-    {
-      "id": "mkt:01a0da3b-b0a6-7118-86a3-783d19c86c6e",
-      "time": "2026-09-26 04:22:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister said the measures the US must take are not new and are already included in the memorandum of understanding."
-    },
-    {
-      "id": "5113991",
-      "time": "2026-09-26 04:21:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長：美國應採取的舉措並非新要求，全部已列入諒解備忘錄。"
     }
   ]
 }
