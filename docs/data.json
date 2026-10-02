@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-02 10:48:58",
-  "count": 11689,
+  "updated": "2026-10-02 10:52:43",
+  "count": 11688,
   "items": [
+    {
+      "id": "mkt:01a0fa85-9f22-7ee0-a783-a3e5b86e2e80",
+      "time": "2026-10-02 10:50:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【MIIT to step up industrial heritage protection and utilization】China's Ministry of Industry and Information Technology (MIIT) said it will step up protection and utilization of industrial heritage, establish a national industrial heritage archive database and build a high-quality protection system. MIIT will integrate cultural empowerment across the full manufacturing value chain and promote the industrial design sector. It will pursue culture–technology–industry integration, develop new ideological-education, science-popularization and cultural-tourism consumption scenarios, and launch an industrial culture digital programme. MIIT also said it will deepen application of 5G, Beidou, virtual reality and artificial intelligence and support industrial-themed film and cultural production and dissemination."
+    },
+    {
+      "id": "5123619",
+      "time": "2026-10-02 10:50:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "據菲律賓媒體2日報道，菲律賓北部本格特省一處礦井隧道發生疑似有害氣體中毒事件，至少造成7名男子死亡。（新華社）"
+    },
+    {
+      "id": "5123618",
+      "time": "2026-10-02 10:50:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工業和資訊化部將加大工業遺產資源保護利用力度】工業和資訊化部總經濟師高東昇日前在上海舉行的2026工業文化發展大會上說，發展工業文化、推動文化賦能，是推進新型工業化、發展先進製造業的重要舉措，未來將加大工業遺產資源保護利用力度，高質量構建工業遺產保護體系，建立國家工業遺產檔案資料庫，推動工業文化向新而行、向深邁進。"
+    },
     {
       "id": "5123617",
       "time": "2026-10-02 10:47:46",
@@ -107382,41 +107408,6 @@
         "MKT News"
       ],
       "text": "【Mid-Autumn box office tops 50 mln yuan】Maoyan Pro: 2026 Mid-Autumn window (Sept 25-27) ticket sales exceeded 50 mln yuan. Leading titles: Avengers: Endgame (Encore edition), Eight Immortals!, Welcome to Long Restaurant."
-    },
-    {
-      "id": "5112995",
-      "time": "2026-09-25 10:52:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【招商證券國際：維持吉利汽車目標價34.2港元及“增持”評級】招商證券國際釋出研報稱，維持吉利汽車(00175)目標價34.2港元及“增持”評級。該行表示，看好智充技術向主流車型滲透，以及補能網路擴張對吉利純電車型競爭力的提升。"
-    },
-    {
-      "id": "5112994",
-      "time": "2026-09-25 10:51:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026中秋檔票房破5000萬 】據貓眼專業版資料，2026年中秋檔檔期（9月25日-9月27日）票房破5000萬，《復仇者聯盟4：終局之戰（加碼臻享版）》《八仙！》《歡迎來龍餐館》暫列中秋檔票房榜前三位。"
-    },
-    {
-      "id": "te:markets:586735",
-      "time": "2026-09-25 10:50:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Wheat Slides Over 2% to One-Month Low — Wheat slid more than 2% to below $7 per bushel, hitting its lowest level since August 25, as traders awaited significant breakthroughs in agricultural trade talks between the US and China amid their summit in Washington. Earlier Thursday, US President Donald Trump said the two leaders had made “tremendous strides” toward improving US access to the Chinese market through the newly created Board of Trade. However, the lack of specific details disappointed some market participants. Traders expect Chinese purchases of US crops, including wheat, to increase if tariffs are removed, as both countries have discussed reducing tariffs on certain goods, including US agricultural and energy products. Meanwhile, investors are also focused on renewed diplomatic talks between Ukraine and Russia, with hopes of restoring grain exports through the Black Sea."
-    },
-    {
-      "id": "mkt:01a0d678-31da-7118-8694-330738020040",
-      "time": "2026-09-25 10:49:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China urges better development environment for landlocked developing countries】China's deputy UN permanent representative Sun Lei told a meeting of foreign ministers of landlocked developing countries on the 24th that these countries still face major structural constraints and that implementing the 2024–2034 Ten‑Year Avaza Programme of Action is urgent. China said it supports the UN's coordinating role, called on the international community to increase practical assistance, and urged turning the programme's commitments into concrete measures."
     }
   ]
 }
