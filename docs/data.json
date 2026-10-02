@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-02 16:48:42",
-  "count": 11675,
+  "updated": "2026-10-02 16:52:30",
+  "count": 11674,
   "items": [
+    {
+      "id": "te:markets:589095",
+      "time": "2026-10-02 16:51:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Zinc Falls to 6-Week Low — Zinc futures fell to $3,720 per tonne, their lowest level in six weeks, amid weak demand in China, while a stronger US dollar also weighed on sentiment. Shanghai Metals Market recently reported that orders at traditional galvanising plants remained weak and new orders were insufficient, while operating rates fell sharply around the holidays. The greenback also remained firm, reducing the appeal of dollar-denominated commodities by making them more expensive for buyers using other currencies. Still, zinc remained underpinned by tight supply conditions. China’s zinc production dropped for the first time in nearly a year in August amid smelter maintenance, mining disruptions and negative spot treatment charges. Output also declined at major mines such as Peru’s Antamina and Alaska’s Red Dog as producers work through lower-grade sections of their ore bodies. LME zinc inventories remain historically low, while tight physical availability is particularly evident across Western markets."
+    },
+    {
+      "id": "te:markets:589094",
+      "time": "2026-10-02 16:51:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "HK 10Y Bond Yield Hits 34-month High — HK 10 Year Government Bond Yield increased to 4.13%, the highest since November 2023. Over the past 4 weeks, Hong Kong 10Y Bond Yield gained 47.62 basis points, and in the last 12 months, it increased 106.11 basis points."
+    },
+    {
+      "id": "5123979",
+      "time": "2026-10-02 16:51:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通表示，土耳其基金行業動盪給該行對該國2026年3%的GDP增長預測帶來了“顯著下行風險”。"
+    },
+    {
+      "id": "5123978",
+      "time": "2026-10-02 16:50:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "貢渥將更名為Centalion，並將註冊地遷至新加坡。"
+    },
+    {
+      "id": "5123977",
+      "time": "2026-10-02 16:50:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報89.15美元/桶。"
+    },
+    {
+      "id": "5123976",
+      "time": "2026-10-02 16:50:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報99.23美元/桶。"
+    },
+    {
+      "id": "5123975",
+      "time": "2026-10-02 16:49:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智譜華章：9月發行2196.5萬股H股 完成配售】智譜華章公告稱，根據2026年9月12日的配售協議，公司於2026年9月16日發行21,965,000股H股，配售價為每股714港元。截至2026年9月30日，公司H股已發行股份總數為263,059,605股，未上市普通股股份數量為224,528,485股，無庫存股份。公司確認符合上市時規定的10%最低公眾持股量要求。此外，公司2026年度股份激勵計劃本月內授出涉及1,222,934股H股的獎勵，截至9月30日尚未歸屬。"
+    },
     {
       "id": "5123974",
       "time": "2026-10-02 16:47:41",
@@ -107058,79 +107121,6 @@
         "Importance 1"
       ],
       "text": "Macau Inflation Rate Rises in August — The annual inflation rate in Macau rose to 1.29% in August 2026 from 1.12% in July, ending two consecutive months of slowdown and reaching its highest level since May. The increase was mainly driven by faster price growth for food and non-alcoholic beverages (1.37% vs 1.22%), transport (3.08% vs 2.29%), and housing and fuels (0.66% vs 0.48%). Inflation also picked up for miscellaneous goods and services (3.09% vs 2.38%), information and communication (1.86% vs 1.44%), and clothing and footwear (2.64% vs 2.61%). Meanwhile, prices for alcoholic beverages and tobacco fell 1.21%, following a 1.28% decline in July. In contrast, inflation eased for household furnishings and services (0.31% vs 0.79%) and health (0.83% vs 0.94%), while prices for recreation, sport and culture fell 0.32%, reversing a 1.07% increase in the previous month. On a monthly basis, consumer prices rose 0.28% in August, rebounding from a 0.01% decline in July and marking the strongest monthly increase since April."
-    },
-    {
-      "id": "mkt:01a0d7c2-f987-7118-8697-e01ae1d270e1",
-      "time": "2026-09-25 16:51:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's Najaf airport suspended all flights to and from Iran, Iraqi state news agency reported."
-    },
-    {
-      "id": "5113369",
-      "time": "2026-09-25 16:51:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱烏克蘭正要求歐盟加快發放其900億歐元貸款的第二筆分期資金。"
-    },
-    {
-      "id": "mkt:01a0d7c2-b97d-7118-8697-d966f9f56aff",
-      "time": "2026-09-25 16:50:57",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "President ZELENSKIY said Ukraine has asked the EU to accelerate disbursement of the second tranche of a €90 billion loan."
-    },
-    {
-      "id": "5113368",
-      "time": "2026-09-25 16:50:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊拉克媒體：伊拉克納傑夫機場暫停往返伊朗的所有航班。"
-    },
-    {
-      "id": "mkt:01a0d7c2-a2f5-7118-8697-d50fc61a5e1e",
-      "time": "2026-09-25 16:50:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said the $27 bln Ukraine needs for January–February next year will be largely for defense spending on drones and missiles."
-    },
-    {
-      "id": "5113367",
-      "time": "2026-09-25 16:50:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，所需的270億美元國防開支中，大部分將用於採購明年1月和2月所需的無人機與導彈。"
-    },
-    {
-      "id": "te:economy:586871",
-      "time": "2026-09-25 16:50:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macau",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Macau Unemployment Rate Hits 1-Year High — Macau’s unemployment rate rose to 2.0% in August 2026 from 1.9% in the previous month, reaching the highest level since August 2025. The number of unemployed people fell by around 500 month-on-month to 5,900, while total employment also declined by 800 to 375,900. The labour force participation rate edged down to 66.7% from 66.8%, as the labour force decreased by 400 to 383,400. Meanwhile, the general underemployment rate edged down to 1.5% from 1.7% in July. By sector, gaming remained the largest source of employment, accounting for 61.7% of employed residents, followed by wholesale and retail trade (35.6%), real estate and business activities (23.5%), hotels and similar activities (18.4%), and transport and storage (16.1%)."
-    },
-    {
-      "id": "5113366",
-      "time": "2026-09-25 16:48:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：尋求資金以避免2027年初出現無人機短缺。"
     }
   ]
 }

@@ -1,7 +1,70 @@
 {
   "date": "2026-10-02",
-  "count": 1319,
+  "count": 1326,
   "items": [
+    {
+      "id": "te:markets:589095",
+      "time": "2026-10-02 16:51:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Zinc Falls to 6-Week Low — Zinc futures fell to $3,720 per tonne, their lowest level in six weeks, amid weak demand in China, while a stronger US dollar also weighed on sentiment. Shanghai Metals Market recently reported that orders at traditional galvanising plants remained weak and new orders were insufficient, while operating rates fell sharply around the holidays. The greenback also remained firm, reducing the appeal of dollar-denominated commodities by making them more expensive for buyers using other currencies. Still, zinc remained underpinned by tight supply conditions. China’s zinc production dropped for the first time in nearly a year in August amid smelter maintenance, mining disruptions and negative spot treatment charges. Output also declined at major mines such as Peru’s Antamina and Alaska’s Red Dog as producers work through lower-grade sections of their ore bodies. LME zinc inventories remain historically low, while tight physical availability is particularly evident across Western markets."
+    },
+    {
+      "id": "te:markets:589094",
+      "time": "2026-10-02 16:51:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "HK 10Y Bond Yield Hits 34-month High — HK 10 Year Government Bond Yield increased to 4.13%, the highest since November 2023. Over the past 4 weeks, Hong Kong 10Y Bond Yield gained 47.62 basis points, and in the last 12 months, it increased 106.11 basis points."
+    },
+    {
+      "id": "5123979",
+      "time": "2026-10-02 16:51:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通表示，土耳其基金行業動盪給該行對該國2026年3%的GDP增長預測帶來了“顯著下行風險”。"
+    },
+    {
+      "id": "5123978",
+      "time": "2026-10-02 16:50:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "貢渥將更名為Centalion，並將註冊地遷至新加坡。"
+    },
+    {
+      "id": "5123977",
+      "time": "2026-10-02 16:50:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌4%，現報89.15美元/桶。"
+    },
+    {
+      "id": "5123976",
+      "time": "2026-10-02 16:50:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌3%，現報99.23美元/桶。"
+    },
+    {
+      "id": "5123975",
+      "time": "2026-10-02 16:49:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智譜華章：9月發行2196.5萬股H股 完成配售】智譜華章公告稱，根據2026年9月12日的配售協議，公司於2026年9月16日發行21,965,000股H股，配售價為每股714港元。截至2026年9月30日，公司H股已發行股份總數為263,059,605股，未上市普通股股份數量為224,528,485股，無庫存股份。公司確認符合上市時規定的10%最低公眾持股量要求。此外，公司2026年度股份激勵計劃本月內授出涉及1,222,934股H股的獎勵，截至9月30日尚未歸屬。"
+    },
     {
       "id": "5123974",
       "time": "2026-10-02 16:47:41",
