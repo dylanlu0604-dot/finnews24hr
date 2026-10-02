@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-03 04:32:40",
-  "count": 11496,
+  "updated": "2026-10-03 04:36:23",
+  "count": 11493,
   "items": [
+    {
+      "id": "te:markets:589277",
+      "time": "2026-10-03 04:35:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.49% Higher — The Dow Jones Index went up by 250 points or 0.49 percent on Friday to close at 51177 points. The rise was led by Cisco Systems (3.14%), Caterpillar (2.30%) and UnitedHealth (1.77%). On the downside, the weakerst performers were Nike (-3.61%), IBM (-1.36%) and Amgen (-1.10%)."
+    },
+    {
+      "id": "mkt:01a0fe52-95be-7ee0-a78d-1f81d776304a",
+      "time": "2026-10-03 04:33:40",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bearish"
+      ],
+      "text": "SEC filing shows Qualcomm (QCOM.O) filed a prospectus to reoffer up to 25 million common shares."
+    },
+    {
+      "id": "5124701",
+      "time": "2026-10-03 04:32:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "高通向美國證券交易委員會提交招股說明書，擬最多再發售 2500 萬股普通股。"
+    },
     {
       "id": "5124693",
       "time": "2026-10-03 04:23:24",
@@ -105256,66 +105286,6 @@
         "國際"
       ],
       "text": "穆迪：評級上調反映出黑山在歐盟改革推進下，制度與信用狀況實現了持續性改善。"
-    },
-    {
-      "id": "mkt:01a0da48-19a3-7118-86a3-aca92f365e81",
-      "time": "2026-09-26 04:35:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "MOODY'S affirms the European Union's AAA rating and maintains a stable outlook."
-    },
-    {
-      "id": "5114010",
-      "time": "2026-09-26 04:35:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪：將黑山主權信用評級上調至BA2，維持正面評級展望。"
-    },
-    {
-      "id": "te:markets:587011",
-      "time": "2026-09-26 04:35:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.93% Higher — The Dow Jones Index gained 479 points or 0.93 percent on Friday to close at 51829 points. Gains were led by Microsoft (3.71%), Sherwin-Williams (2.72%) and Amgen (2.15%). Biggest losers were Salesforce (-1.76%), IBM (-0.71%) and Nike (-0.61%)."
-    },
-    {
-      "id": "5114009",
-      "time": "2026-09-26 04:34:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "穆迪評級確認歐盟AAA評級，維持穩定展望。"
-    },
-    {
-      "id": "5114008",
-      "time": "2026-09-26 04:34:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，熱帶風暴“費伊”位於亞速爾群島西南偏西約1075英里（1730公里）處；最大持續風速為每小時50英里（85公里）。"
-    },
-    {
-      "id": "5114007",
-      "time": "2026-09-26 04:33:42",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【報道：Anthropic正談判租賃最高1吉瓦算力 投入至少需要400億美元】Anthropic正開展初步談判，擬從阿波羅全球管理控股的資料中心開發商手中租賃最高1吉瓦的算力容量。這是這家AI企業降低對雲服務商依賴的重大舉措。據瞭解談判情況的人士透露，Claude模型的開發方Anthropic探討直接成為Stream Data Centers開發專案的租戶。這家企業已有27年發展歷史，在美國多地佈局資料中心；Anthropic計劃在機房內部署博通與谷歌設計的張量處理單元（TPU）。另有知情人士稱，該批機房也可搭載英偉達GPU等其他AI晶片。英偉達正加大對資料中心相關企業的佈局投入，力求讓自家GPU而非TPU成為大型前沿AI算力設施的主力晶片。資料中心開發商表示，無論最終選用何種晶片方案，1吉瓦算力對應的資本投入至少需要400億美元。當前Anthropic絕大部分算力，都是透過向亞馬遜雲科技、谷歌、SpaceX等雲服務商租用晶片伺服器獲取。Anthropic此前已和由比特幣礦企轉型的Hut 8、TeraWulf簽署小型機房租賃協議。透過直接掌控伺服器硬體，繞開追求利潤的雲服務商，以此為降低算力成本開闢路徑。如果落地，本次與Stream的合作將成為Anthropic迄今為止規模最大的一筆租賃交易。與此同時，其主要競爭對手OpenAI也在推行類似戰略。"
     }
   ]
 }
