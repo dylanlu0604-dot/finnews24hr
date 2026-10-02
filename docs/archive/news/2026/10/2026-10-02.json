@@ -1,7 +1,52 @@
 {
   "date": "2026-10-02",
-  "count": 810,
+  "count": 815,
   "items": [
+    {
+      "id": "5123590",
+      "time": "2026-10-02 10:02:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本註冊會計師協會（JICPA）表示：審計意見被暫緩出具令人遺憾。"
+    },
+    {
+      "id": "5123589",
+      "time": "2026-10-02 10:00:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期日本國債收益率下跌1.5個基點至1.920%。"
+    },
+    {
+      "id": "mkt:01a0fa57-84d4-7ee0-a782-e882f73852bf",
+      "time": "2026-10-02 10:00:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's 2-year bond yield fell 1.5 bps to 1.920%."
+    },
+    {
+      "id": "mkt:01a0fa57-726e-7ee0-a782-e07ebb04537a",
+      "time": "2026-10-02 10:00:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Runbang Co.: subsidiary Runbang Marine wins order for eight high-end offshore wind O&M vessels】Runbang Co. said subsidiary Runbang Marine has signed a contract with a leading European shipowner to build eight offshore wind operation-and-maintenance (O&M) vessels, including option units. The overseas order expands Runbang's high-end offshore vessel backlog and reinforces its presence in advanced marine equipment manufacturing."
+    },
+    {
+      "id": "5123588",
+      "time": "2026-10-02 10:00:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星重工：簽署兩艘液化天然氣運輸船建造合同，價值6722億韓元。"
+    },
     {
       "id": "5123587",
       "time": "2026-10-02 09:59:06",
