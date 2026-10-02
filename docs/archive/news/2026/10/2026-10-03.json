@@ -1,7 +1,23 @@
 {
   "date": "2026-10-03",
-  "count": 231,
+  "count": 233,
   "items": [
+    {
+      "id": "5124666",
+      "time": "2026-10-03 03:58:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗形勢嚴峻。"
+    },
+    {
+      "id": "mkt:01a0fe2f-ceed-7ee0-a78c-c1054789e75e",
+      "time": "2026-10-03 03:55:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports the first officer on Dubai Airline flight 1073 was previously barred from flying in Oman over concerns about extremist ideology, but was hired by the Dubai carrier and operated sensitive UAE-Israel routes."
+    },
     {
       "id": "mkt:01a0fe2f-4afa-7ee0-a78c-bc4429283226",
       "time": "2026-10-03 03:55:07",
