@@ -1,7 +1,129 @@
 {
-  "updated": "2026-10-02 16:29:48",
-  "count": 11692,
+  "updated": "2026-10-02 16:33:32",
+  "count": 11694,
   "items": [
+    {
+      "id": "5123958",
+      "time": "2026-10-02 16:33:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "彪馬<PUMG.DE>和阿迪達斯<ADSGn.DE>股價逆轉跌勢，目前上漲約0.7%。"
+    },
+    {
+      "id": "5123957",
+      "time": "2026-10-02 16:32:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期首日，海南離島免稅購物金額超1億元】據海口海關統計，今年國慶假期首日，海南離島免稅購物金額達1.07億元，共有1.89萬人次參與離島免稅購物，累計購買離島免稅商品8.30萬件。離島免稅購物金額、人數、件數同比分別增長21.17%、13.81%、11.24%。"
+    },
+    {
+      "id": "5123956",
+      "time": "2026-10-02 16:32:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國聯邦住房金融局局長普爾特將放鬆房利美與房地美的信貸資料監管規定，訊息公佈後，美國信用評級機構股價盤前下跌。FAIR ISAAC下跌5.6%，TRANSUNION下跌3.5%，EQUIFAX下跌2.7%。"
+    },
+    {
+      "id": "5123955",
+      "time": "2026-10-02 16:31:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "SYNAPTICS股價上漲15%，ONSEMI股價上漲6.6%。"
+    },
+    {
+      "id": "5123954",
+      "time": "2026-10-02 16:31:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英格蘭銀行決策者調查小組：截至9月的三個月，企業對未來一年的薪資增長預期維持在3.4%不變。"
+    },
+    {
+      "id": "5123953",
+      "time": "2026-10-02 16:31:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行決策者小組調查顯示，截至9月的三個月內，企業未來一年預期自身價格通脹率為3.7%，較截至8月的三個月內企業報告的預期低0.1個百分點。"
+    },
+    {
+      "id": "5123952",
+      "time": "2026-10-02 16:30:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉能可（GLENCORE）預計其2026全年營銷業務調整後息稅前利潤（EBIT）將超過50億美元。"
+    },
+    {
+      "id": "5123951",
+      "time": "2026-10-02 16:30:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國3個月決策者未來一年產出價格預期為3.7%。"
+    },
+    {
+      "id": "mkt:01a0fbbc-8e5f-7ee0-a787-cb18592d051d",
+      "time": "2026-10-02 16:30:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Retail Sales Volume (YoY) (Aug) | actual 2.9% | consensus 2.2% | previous 2.30%"
+    },
+    {
+      "id": "5123950",
+      "time": "2026-10-02 16:30:14",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國香港8月零售銷售額年率 5.6%，預期4.2%，前值4.50%。"
+    },
+    {
+      "id": "te:markets:589083",
+      "time": "2026-10-02 16:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Solana Increases by 3.24% — Top crypto gainers are Solana (3.24%), XRP (2.69%), Ether (1.97%) and Bitcoin (1.78%)."
+    },
+    {
+      "id": "mkt:01a0fbbc-28cf-7ee0-a787-c2bc8ca00187",
+      "time": "2026-10-02 16:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Retail Sales (YoY) (Aug) | actual 5.6% | consensus 4.2% | previous 4.50%"
+    },
+    {
+      "id": "5123949",
+      "time": "2026-10-02 16:29:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲柴油期貨<LGOc1>下跌超4%，此前有報道稱歐盟討論了額外釋放柴油儲備的計劃。"
+    },
+    {
+      "id": "5123948",
+      "time": "2026-10-02 16:29:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士媒體：瑞士經濟部長即將辭職。"
+    },
     {
       "id": "5123947",
       "time": "2026-10-02 16:27:58",
@@ -107186,118 +107308,6 @@
         "國際"
       ],
       "text": "歐盟委員會：天然氣供應保持穩定。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202609253884285837",
-      "time": "2026-09-25 16:32:05",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "摩根士丹利將英國央行的加息預期從之前的零次調整為預計在11月和2月各加息一次。"
-    },
-    {
-      "id": "5113344",
-      "time": "2026-09-25 16:32:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "淡馬錫任命貝萊德聯合創始人瓦格納為董事會成員。"
-    },
-    {
-      "id": "5113343",
-      "time": "2026-09-25 16:31:51",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "義大利財政部將於10月19日至10月23日發售新發雙檔零售債券。"
-    },
-    {
-      "id": "mkt:01a0d7b1-139f-7118-8697-617a481b5432",
-      "time": "2026-09-25 16:31:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said Ukraine's government team will soon discuss further details of financing either in Ukraine or in Brussels."
-    },
-    {
-      "id": "mkt:01a0d7b0-f789-7118-8697-5c330a81c4dd",
-      "time": "2026-09-25 16:31:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Morgan Stanley has revised its Bank of England rate-hike forecast from zero to two, now expecting one increase in November and another in February."
-    },
-    {
-      "id": "5113342",
-      "time": "2026-09-25 16:31:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報64.64美元/盎司。"
-    },
-    {
-      "id": "mkt:01a0d7b0-be73-7118-8697-51ff7bb18250",
-      "time": "2026-09-25 16:31:19",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Zelenskiy said the EU and IMF recognize the need to help Ukraine close its budget gap."
-    },
-    {
-      "id": "mkt:01a0d7b0-49ef-7118-8697-4cdde5272589",
-      "time": "2026-09-25 16:30:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【European defense ministers to discuss boosting Aspides fleet capability in Red Sea】Saudi outlet Alhadath cited a European diplomat saying European defense ministers will meet on Monday to discuss enhancing the Aspides fleet’s operational capability in the Red Sea. The diplomat said now is an appropriate time to boost the fleet’s capability."
-    },
-    {
-      "id": "5113341",
-      "time": "2026-09-25 16:30:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，烏克蘭政府團隊近期將在烏克蘭或布魯塞爾就烏克蘭融資事宜展開更詳細的討論。"
-    },
-    {
-      "id": "5113340",
-      "time": "2026-09-25 16:30:22",
-      "tags": [
-        "央行",
-        "觀點",
-        "焦點"
-      ],
-      "text": "摩根士丹利調整了對英國央行利率的預測，此前預測不會加息，現在預測英國央行將在11月和2月各加息一次。"
-    },
-    {
-      "id": "5113339",
-      "time": "2026-09-25 16:30:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：特朗普保證烏克蘭將獲得\"愛國者\"防空系統的生產許可。"
-    },
-    {
-      "id": "5113338",
-      "time": "2026-09-25 16:30:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，歐盟與國際貨幣基金組織清楚向烏克蘭提供援助以填補其預算缺口的重要性。"
     }
   ]
 }
