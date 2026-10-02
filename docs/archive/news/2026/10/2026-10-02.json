@@ -1,7 +1,49 @@
 {
   "date": "2026-10-02",
-  "count": 1218,
+  "count": 1222,
   "items": [
+    {
+      "id": "te:markets:589062",
+      "time": "2026-10-02 15:50:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rebound, Still Set for Weekly Loss — The CAC 40 edged up 0.2% to 7,854 on Friday but remained on track for a notable weekly loss as investors continued to grapple with uncertainties surrounding France’s fiscal outlook. Sumitomo Mitsui DS Asset Management sold its entire holdings of French government bonds, citing concerns over the country’s fiscal trajectory and underscoring growing investor unease over France’s debt burden. The French government recently unveiled plans to sharply reduce the budget deficit, with ministers detailing a €54 billion ($61.2 billion) fiscal effort to rein in spending and bring the deficit down to 5% of economic output in 2027 from 5.4% this year. Notable gainers included Schneider Electric (+1.7%), Danone (+3.0%) and Legrand (+2.0%). In contrast, Sanofi (-3.9%), Kering (-1.7%) and BNP Paribas (-0.6%) declined."
+    },
+    {
+      "id": "5123893",
+      "time": "2026-10-02 15:48:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "忠利保險將投資1.5億歐元，收購BCC約9.9%的股份。"
+    },
+    {
+      "id": "5123892",
+      "time": "2026-10-02 15:48:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "荷蘭國際集團的Chris Turner：法國政府債券遭到猛烈拋售可能導致歐元進一步走弱。"
+    },
+    {
+      "id": "mkt:01a0fb95-abc4-7ee0-a787-ab1e72972b8b",
+      "time": "2026-10-02 15:48:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ING: French bond sell-off could further weigh on euro】ING's Chris Turner warned a sharp sell-off in French government bonds could further weaken the euro. Investors see any ECB intervention to counter the sell-off as signaling materially reduced scope for further tightening or a halt to tightening, which would be euro-negative. In an extreme scenario the ECB could deploy its Transmission Protection Instrument (TPI) to buy bonds, a move Turner said would be very negative for the euro. LSE data show the 10-year Germany-France bond yield spread widened to 149.17bps, the widest since 2012."
+    },
     {
       "id": "5123891",
       "time": "2026-10-02 15:44:33",
