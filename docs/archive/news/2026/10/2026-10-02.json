@@ -1,7 +1,17 @@
 {
   "date": "2026-10-02",
-  "count": 876,
+  "count": 877,
   "items": [
+    {
+      "id": "mkt:01a0fa87-3cc7-7ee0-a783-acf9d905d4cb",
+      "time": "2026-10-02 10:52:41",
+      "tags": [
+        "MKT News",
+        "NKE.O",
+        "Impact bearish"
+      ],
+      "text": "Piper Sandler cut its PT on Nike (NKE.N) to $28 from $38."
+    },
     {
       "id": "mkt:01a0fa85-9f22-7ee0-a783-a3e5b86e2e80",
       "time": "2026-10-02 10:50:55",

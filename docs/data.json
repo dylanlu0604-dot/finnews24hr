@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-02 10:52:43",
-  "count": 11688,
+  "updated": "2026-10-02 10:56:28",
+  "count": 11682,
   "items": [
+    {
+      "id": "mkt:01a0fa87-3cc7-7ee0-a783-acf9d905d4cb",
+      "time": "2026-10-02 10:52:41",
+      "tags": [
+        "MKT News",
+        "NKE.O",
+        "Impact bearish"
+      ],
+      "text": "Piper Sandler cut its PT on Nike (NKE.N) to $28 from $38."
+    },
     {
       "id": "mkt:01a0fa85-9f22-7ee0-a783-a3e5b86e2e80",
       "time": "2026-10-02 10:50:55",
@@ -107338,76 +107348,6 @@
         "觀點"
       ],
       "text": "高盛指出，超大規模雲端計算企業今年預計將投入約8000億美元，2027年投資規模可能達到約1.2萬億美元，這將成為亞洲AI硬體供應鏈需求的重要訊號。"
-    },
-    {
-      "id": "mkt:01a0d67d-28ca-7118-8694-4c4b5c7e6480",
-      "time": "2026-09-25 10:55:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300",
-        "Nikkei 225"
-      ],
-      "text": "【Goldman: AI stocks still attractive; $800bn cloud capex to support Asian hardware chain】Timothy Moe, head of Asia-Pacific equity strategy at Goldman Sachs, says AI-related stocks remain attractive despite rising government bond yields and that the firm is in the \"longer-for-longer\" camp on rates. He cites ultra-scale cloud providers' planned capex of about $800bn this year, rising to roughly $1.2trn by 2027, as a key demand signal for the Asian AI hardware supply chain. Asian equities trade at about 10x PE, near the low end of their historical range, which Moe says adds valuation support while corporate earnings growth should help buffer a high-rate environment. He expects market volatility to persist into the U.S. midterms, with high energy prices and geopolitical risks adding downside pressure, but sees a potential year-end rally driven by earnings and valuation recovery once that phase passes."
-    },
-    {
-      "id": "5112998",
-      "time": "2026-09-25 10:55:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【招商證券國際：維持吉利汽車目標價34.2港元及“增持”評級】招商證券國際釋出研報稱，維持吉利汽車(00175)目標價34.2港元及“增持”評級。該行表示，看好智充技術向主流車型滲透，以及補能網路擴張對吉利純電車型競爭力的提升。該行指出，吉利智充技術釋出，高倍率快充與AI管理協同升級，直擊溫控、養護、自動化三大補能痛點。9月23日，吉利釋出吉利智充，依託與階躍星辰共同開發的星睿PowerMind能源大腦，推出AI極速充、AI智慧充與AI自動充。其中，AI極速充提升尖峰功率、壓低溫升；AI智慧充兼顧速度與電池壽命；AI自動充減少人工插槍。"
-    },
-    {
-      "id": "5112997",
-      "time": "2026-09-25 10:54:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【交銀國際：上調2027-2028年全球AI加速器出貨量預測 建議關注中芯國際等】交銀國際釋出研報稱，據主要加速器公司對2027年及之後的出貨量指引，該行認為市場對2027年後加速器出貨或有更好的能見度，全球加速器市場增速較此前預測更為樂觀，分別上調2027年及2028年全年加速器出貨量預測至3451萬片及5234萬片。標的方面，該行建議CPU方向關注AMD，儲存器方向關注SK海力士，同時認為大市值加速器和晶圓代工公司估值更具吸引力，建議關注博通、英偉達、臺積電和中芯國際。"
-    },
-    {
-      "id": "mkt:01a0d67b-b3e7-7118-8694-45a1c5c86448",
-      "time": "2026-09-25 10:53:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "00175.HK",
-        "Impact bullish"
-      ],
-      "text": "【CMB International keeps Geely Auto HKD34.2 PT, Overweight rating】CMB International retains its PT for Geely Automobile (00175.HK) at HKD34.2 and an Overweight rating, citing penetration of intelligent charging technology into mainstream models and expansion of charging networks as support for Geely’s BEV competitiveness."
-    },
-    {
-      "id": "5112996",
-      "time": "2026-09-25 10:53:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長三角商品車出海通道再升級】9月23日晚9點，一趟滿載商品車及汽配件的海鐵聯運專列從無錫西站駛出，前往上海洋山港，隨後貨物搭乘遠洋貨輪發往南美洲等地。該班列是在原有海鐵聯運班列“天天班”基礎上加開的第二班，標誌著無錫西站—上海洋山港海鐵聯運線路正式進入“雙班”運營階段。本次專列運載的貨物包括上汽大通汽配件、奇瑞商品車等，共計100標箱，貨值超千萬元。無錫國際鐵路物流中心正全力打造長三角商品車及汽配件集散中心，依託海鐵聯運、中歐接續班列、籠車班列等產品，與上汽大通等車企持續開展業務合作，打通多條國際國內物流通道。"
-    },
-    {
-      "id": "te:markets:586736",
-      "time": "2026-09-25 10:53:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AIA Stock Price Hits 5-week Low — AIA shares decreased to 73.20 HKD, the lowest since August 2026. Over the past 4 weeks, AIA Group lost 1.21%, and in the last 12 months, it increased 2.23%."
-    },
-    {
-      "id": "mkt:01a0d67a-dea7-7118-8694-3d8d4af99bba",
-      "time": "2026-09-25 10:52:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mid-Autumn box office tops 50 mln yuan】Maoyan Pro: 2026 Mid-Autumn window (Sept 25-27) ticket sales exceeded 50 mln yuan. Leading titles: Avengers: Endgame (Encore edition), Eight Immortals!, Welcome to Long Restaurant."
     }
   ]
 }
