@@ -1,7 +1,38 @@
 {
   "date": "2026-10-02",
-  "count": 807,
+  "count": 810,
   "items": [
+    {
+      "id": "5123587",
+      "time": "2026-10-02 09:59:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【潤邦股份：子公司潤邦海洋獲8艘高階風電運維船訂單】據潤邦股份訊息，近日，子公司潤邦海洋再獲海外高階海工裝備訂單，與歐洲知名船東簽署8艘風電運維船建造合同（包括選擇項訂單），持續加碼高階海工船舶製造領域。"
+    },
+    {
+      "id": "5123586",
+      "time": "2026-10-02 09:57:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽力斯(09927.HK)港股漲幅擴大至15%。"
+    },
+    {
+      "id": "mkt:01a0fa54-cf7c-7ee0-a782-db403e47c3e0",
+      "time": "2026-10-02 09:57:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "09927.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "SERES (09927.HK) Hong Kong shares extended gains to about 15% after reports that Huawei has agreed a new five-year cooperation deal with SERES."
+    },
     {
       "id": "5123585",
       "time": "2026-10-02 09:50:34",

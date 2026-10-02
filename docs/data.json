@@ -1,7 +1,38 @@
 {
-  "updated": "2026-10-02 09:56:04",
-  "count": 11694,
+  "updated": "2026-10-02 09:59:50",
+  "count": 11691,
   "items": [
+    {
+      "id": "5123587",
+      "time": "2026-10-02 09:59:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【潤邦股份：子公司潤邦海洋獲8艘高階風電運維船訂單】據潤邦股份訊息，近日，子公司潤邦海洋再獲海外高階海工裝備訂單，與歐洲知名船東簽署8艘風電運維船建造合同（包括選擇項訂單），持續加碼高階海工船舶製造領域。"
+    },
+    {
+      "id": "5123586",
+      "time": "2026-10-02 09:57:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "賽力斯(09927.HK)港股漲幅擴大至15%。"
+    },
+    {
+      "id": "mkt:01a0fa54-cf7c-7ee0-a782-db403e47c3e0",
+      "time": "2026-10-02 09:57:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "09927.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "SERES (09927.HK) Hong Kong shares extended gains to about 15% after reports that Huawei has agreed a new five-year cooperation deal with SERES."
+    },
     {
       "id": "5123585",
       "time": "2026-10-02 09:50:34",
@@ -107396,64 +107427,6 @@
         "Importance 1"
       ],
       "text": "European Gas Falls on Hormuz Deal Hopes — European natural gas prices fell to €74.4 per megawatt-hour on Friday, giving back some of the previous session’s gains amid reports of US-Iran discussions over a phased agreement to reopen the Strait of Hormuz and end the US blockade. The strait remains a major sticking point in efforts to resolve the nearly seven-month conflict, with neither side willing to relinquish control of the key waterway. LNG flows from the Persian Gulf remain severely disrupted, intensifying competition between Europe and Asia for limited global supplies as the region races to rebuild inventories ahead of the winter heating season. European gas storage is currently just over 70% full, below both the seasonal norm and the region’s target, leaving the market vulnerable to further supply disruptions. Maintenance in Norway is also curbing pipeline supplies to Europe, tightening the market further. European gas prices have declined 0.6% over the week."
-    },
-    {
-      "id": "te:markets:586710",
-      "time": "2026-09-25 09:59:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Trade Sideways — Soybean futures traded around $13 per bushel, moving sideways near their highest since December 2023 as traders awaited details from an anticipated US-China summit and signs of renewed Chinese demand for US crops. Markets are looking for China to announce specific purchases of US agricultural products or remove its 10% tariff on US soybeans, while Washington and Beijing agreed to extend a pause in their trade war until January 10. The White House said in May that Beijing had committed to buying at least $17 billion of US agricultural products in 2026, 2027 and 2028, though traders cited limited evidence of follow-through. Meanwhile, a stronger dollar weighed on grain markets, making US agricultural goods more expensive for importers, while renewed diplomatic efforts in the Ukraine war raised hopes for improved Black Sea export flows. Focus now turns to USDA quarterly data due next week, expected to show September 1 soybean stocks at 324 million bushels, only slightly below a year ago."
-    },
-    {
-      "id": "5112951",
-      "time": "2026-09-25 09:59:34",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【傳美伊商討霍爾木茲海峽分階段通航協議，油價回落】有訊息稱美伊談判代表正在磋商一項分階段協議，由德黑蘭方面重啟霍爾木茲海峽通航，油價隨之下跌。截至發稿，美油、布油跌幅均約為2%。 伊朗外長阿巴斯·阿拉格齊向記者表示，伊朗已向美方提交一份新方案，滿足特定條件後將重開霍爾木茲海峽。 一份具備可行性的分階段協議，或將推動布倫特原油快速跌破100美元/桶；若原油出口或物流鏈條再度中斷，油價則有望重返120美元/桶。"
-    },
-    {
-      "id": "5112950",
-      "time": "2026-09-25 09:57:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尤麗霞已任山西省紀委書記】山西省紀委監委官網近日更新後顯示，尤麗霞已任山西省紀委書記、省監委代主任。（澎湃新聞）"
-    },
-    {
-      "id": "5112949",
-      "time": "2026-09-25 09:57:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "港股內房股走低，萬科企業(02202.HK)跌近6%，碧桂園(02007.HK)跌近5%。"
-    },
-    {
-      "id": "mkt:01a0d648-0d9d-7118-8693-bf68e59dd9ed",
-      "time": "2026-09-25 09:57:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02202.HK",
-        "Impact bearish",
-        "02007.HK"
-      ],
-      "text": "Hong Kong-listed mainland property stocks fell; Vanke (02202.HK) down nearly 6%, Country Garden (02007.HK) down nearly 5%."
-    },
-    {
-      "id": "5112948",
-      "time": "2026-09-25 09:56:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：彤程新材計劃將香港上市發行價定在區間的上限，以籌資30億港元。（注：彤程新材發行價區間為每股39至44港元，預計9月29日掛牌上市）"
     }
   ]
 }
