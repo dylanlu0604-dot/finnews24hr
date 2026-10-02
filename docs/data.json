@@ -1,7 +1,60 @@
 {
-  "updated": "2026-10-02 15:55:32",
-  "count": 11698,
+  "updated": "2026-10-02 15:59:28",
+  "count": 11702,
   "items": [
+    {
+      "id": "5123908",
+      "time": "2026-10-02 15:58:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位瞭解討論情況的訊息人士表示，任何關於釋放原油儲備的協議都應包含美國承諾避免單方面實施柴油出口禁令。"
+    },
+    {
+      "id": "5123907",
+      "time": "2026-10-02 15:58:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位熟悉討論的訊息人士稱，法國已提議從歐洲釋放5000萬桶柴油，並在國際能源署成員國範圍內釋放5000萬桶原油。"
+    },
+    {
+      "id": "5123906",
+      "time": "2026-10-02 15:57:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI 升級 ChatGPT 購物體驗，新增 AI 衣服虛擬試穿體驗】OpenAI 宣佈進一步升級 ChatGPT 的購物功能，新增虛擬試穿和 Favorites（收藏）兩項功能，使用者現在可以上傳自己的照片，讓 ChatGPT 生成穿著特定服飾或配飾後的效果圖，同時也可以將感興趣的商品儲存下來，方便之後繼續檢視。"
+    },
+    {
+      "id": "5123905",
+      "time": "2026-10-02 15:57:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本東京9月物價同比上漲2.7% 受食品價格和水費影響】日本總務省2日釋出9月東京都23區消費者物價指數（中旬初值，2025年為100），剔除價格波動較大的生鮮食品的綜合指數為102.6，較去年同期上升2.7%。升幅較8月的1.8%擴大，8個月來首次達到2%以上，也是2025年11月（2.8%）以來的高水平。食品價格和水費推升了指數。"
+    },
+    {
+      "id": "5123903",
+      "time": "2026-10-02 15:55:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：“超級智慧”（Super Intelligence）如今在會計測試中表現出色。"
+    },
+    {
+      "id": "te:economy:589064",
+      "time": "2026-10-02 15:55:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Unemployment Change",
+        "Importance 2"
+      ],
+      "text": "Spain Jobless Rises More Than Expected — Spain's registered unemployment rose by 23,587 from the previous month in September 2026, more than market expectations of a 17,600 increase. Total jobless stood at 2.379 million, marking the lowest September total since 2007. The increase was driven by higher unemployment in services (+6,707), agriculture (+601), and among first-time job seekers (+17,966), largely due to the ongoing extraordinary regularization process, which is allowing previously undocumented workers already living in Spain to register with public employment services for the first time. Separate Social Security data showed net employment increased by 108,832 in September, bringing total formal employment to 22.48 million."
+    },
     {
       "id": "5123902",
       "time": "2026-10-02 15:54:12",
@@ -107372,24 +107425,6 @@
         "Impact bullish"
       ],
       "text": "【EHang forms special working group with CAAT and Phuket government to accelerate unmanned eVTOL deployment】EHang said it was the only eVTOL firm invited on a recent delegation to Phuket led by Thailand Civil Aviation Authority director Manat Chavanaprayoon, and held talks with Phuket governor Chotinrin Kerdsom and provincial officials on green transport and the low‑altitude economy. The parties preliminarily selected Phuket’s first low‑altitude sandbox test site and established a joint working group to coordinate takeoff/landing site surveys, route planning, operating permits, and flight‑safety arrangements to accelerate unmanned eVTOL commercial rollout in Phuket."
-    },
-    {
-      "id": "5113255",
-      "time": "2026-09-25 15:58:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【億航智慧：與泰國民航局、普吉府政府成立專項工作組，加速無人駕駛eVTOL商業落地】9月25日，億航智慧官微發文表示，作為唯一受邀eVTOL企業，於近日隨同泰國民航局（CAAT）局長Manat Chavanaprayoon一行赴普吉島開展交流，與普吉府新任府尹Chotinrin Kerdsom等普吉府各政府部門人員進行普吉島綠能交通與低空經濟專題會議。三方初步選定普吉島首個低空沙盒試驗飛行點位。三方共同成立的專項工作小組，將統籌推進起降點勘定、航線規劃、運營資質許可、飛行安全保障等核心工作，加速推進無人駕駛eVTOL在普吉島的應用落地。"
-    },
-    {
-      "id": "mkt:01a0d792-4326-7118-8696-c69a64d469eb",
-      "time": "2026-09-25 15:58:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Financial Services Agency is tightening scrutiny of financing for AI data centers, market sources said."
     }
   ]
 }

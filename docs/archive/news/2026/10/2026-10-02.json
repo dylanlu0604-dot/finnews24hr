@@ -1,7 +1,60 @@
 {
   "date": "2026-10-02",
-  "count": 1231,
+  "count": 1237,
   "items": [
+    {
+      "id": "5123908",
+      "time": "2026-10-02 15:58:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位瞭解討論情況的訊息人士表示，任何關於釋放原油儲備的協議都應包含美國承諾避免單方面實施柴油出口禁令。"
+    },
+    {
+      "id": "5123907",
+      "time": "2026-10-02 15:58:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位熟悉討論的訊息人士稱，法國已提議從歐洲釋放5000萬桶柴油，並在國際能源署成員國範圍內釋放5000萬桶原油。"
+    },
+    {
+      "id": "5123906",
+      "time": "2026-10-02 15:57:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI 升級 ChatGPT 購物體驗，新增 AI 衣服虛擬試穿體驗】OpenAI 宣佈進一步升級 ChatGPT 的購物功能，新增虛擬試穿和 Favorites（收藏）兩項功能，使用者現在可以上傳自己的照片，讓 ChatGPT 生成穿著特定服飾或配飾後的效果圖，同時也可以將感興趣的商品儲存下來，方便之後繼續檢視。"
+    },
+    {
+      "id": "5123905",
+      "time": "2026-10-02 15:57:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本東京9月物價同比上漲2.7% 受食品價格和水費影響】日本總務省2日釋出9月東京都23區消費者物價指數（中旬初值，2025年為100），剔除價格波動較大的生鮮食品的綜合指數為102.6，較去年同期上升2.7%。升幅較8月的1.8%擴大，8個月來首次達到2%以上，也是2025年11月（2.8%）以來的高水平。食品價格和水費推升了指數。"
+    },
+    {
+      "id": "5123903",
+      "time": "2026-10-02 15:55:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：“超級智慧”（Super Intelligence）如今在會計測試中表現出色。"
+    },
+    {
+      "id": "te:economy:589064",
+      "time": "2026-10-02 15:55:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Unemployment Change",
+        "Importance 2"
+      ],
+      "text": "Spain Jobless Rises More Than Expected — Spain's registered unemployment rose by 23,587 from the previous month in September 2026, more than market expectations of a 17,600 increase. Total jobless stood at 2.379 million, marking the lowest September total since 2007. The increase was driven by higher unemployment in services (+6,707), agriculture (+601), and among first-time job seekers (+17,966), largely due to the ongoing extraordinary regularization process, which is allowing previously undocumented workers already living in Spain to register with public employment services for the first time. Separate Social Security data showed net employment increased by 108,832 in September, bringing total formal employment to 22.48 million."
+    },
     {
       "id": "5123902",
       "time": "2026-10-02 15:54:12",
