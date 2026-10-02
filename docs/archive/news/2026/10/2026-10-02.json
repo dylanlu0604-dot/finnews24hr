@@ -1,7 +1,3024 @@
 {
   "date": "2026-10-02",
-  "count": 1326,
+  "count": 1656,
   "items": [
+    {
+      "id": "mkt:01a0fcf7-c22f-7ee0-a788-a9c7f5319c53",
+      "time": "2026-10-02 22:14:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "EURUSD"
+      ],
+      "text": "U.S. 2-year and 5-year Treasury yields retraced to levels seen before the nonfarm payrolls release."
+    },
+    {
+      "id": "mkt:01a0fcf7-5e59-7ee0-a788-a1af5226b754",
+      "time": "2026-10-02 22:14:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【NVIDIA shares hit record as market cap nears $6 trillion】After a two-month selloff that wiped out more than $1 trillion in market value, investors piled back into NVIDIA; the stock intraday hit a fresh all-time high, up as much as 2.9%. Recent optimism that AI agents such as Meta’s Muse will boost semiconductor demand has supported the rally. Shares received an extra lift after NVIDIA on Monday raised its buyback program by a record $150 billion. Sentiment had swung in prior months amid doubts about whether companies would commit hundreds of billions to AI infrastructure and concerns over AI safety. NVIDIA is up about 27% year-to-date and is on track for a fourth straight year of double-digit gains; market cap is roughly $5.7 trillion, less than $300 billion shy of $6 trillion."
+    },
+    {
+      "id": "mkt:01a0fcf6-c69f-7ee0-a788-9d357e6d1b77",
+      "time": "2026-10-02 22:13:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) shares extended gains to over 5%."
+    },
+    {
+      "id": "5124390",
+      "time": "2026-10-02 22:13:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國兩年期國債收益率縮減了早些時候的跌幅，最新資料顯示，日內整體幾乎無變化，報3.0532%。"
+    },
+    {
+      "id": "5124389",
+      "time": "2026-10-02 22:13:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2年期和5年期國債收益率回落至就業資料公佈前的水平。"
+    },
+    {
+      "id": "5124388",
+      "time": "2026-10-02 22:12:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉股價上漲5.3%，創近一個月來最大漲幅。"
+    },
+    {
+      "id": "5124387",
+      "time": "2026-10-02 22:12:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：截至10月，美國疾病控制與預防中心（CDC）已宣佈此次沙門氏菌-墨西哥辣椒引發的疫情已結束。"
+    },
+    {
+      "id": "5124386",
+      "time": "2026-10-02 22:11:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普料任命國家情報總監Clayton總管AI事務】兩名不具名知情人士報道稱，美國總統特朗普預計將任命Jay Clayton為人工智慧“沙皇”，Clayton是美國國家情報總監。"
+    },
+    {
+      "id": "te:economy:589204",
+      "time": "2026-10-02 22:09:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Manufacturing PMI",
+        "Importance 0"
+      ],
+      "text": "Singapore Manufacturing Growth Picks Up in September — Singapore's Manufacturing PMI edged up to 51.7 in September 2026 from 51.5 in August, marking 14 consecutive months of expansion and the highest reading since October 2018, supported by still strong AI-related demand. The Electronics PMI, which accounts for more than one-third of manufacturing output, rose to 52.9 from 52.6, a 16th straight month of growth and the strongest since January 2018, as the sector supported stronger orders, factory output and employment. Order backlogs continued to build while finished goods inventories declined for an 11th consecutive month, reflecting supply-side disruptions and higher import costs rather than weaker demand. Meanwhile, supplier deliveries lengthened for a ninth straight month and rising input costs intensified operational pressures, particularly for chemicals and petrochemicals."
+    },
+    {
+      "id": "te:economy:589203",
+      "time": "2026-10-02 22:08:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Pakistan",
+        "Balance of Trade",
+        "Importance 0"
+      ],
+      "text": "Pakistan Trade Deficit Widens in September — Pakistan recorded a trade deficit of PKR 988.4 billion in September 2026, widening from PKR 945.1 billion a year earlier and from PKR 916.1 billion in the previous month. The September gap is equivalent to USD 3.56 billion. On a year-on-year basis, exports rose 15.8% to PKR 815.1 billion, outpaced in absolute terms by imports, which climbed 9.4% to PKR 1,803.5 billion. Over the July–September 2026 period, the first quarter of the 2026-27 fiscal year, shipments increased 8.8% to PKR 2,338.9 billion while purchases advanced 11.2% to PKR 5,343.1 billion, widening the cumulative trade deficit by 13.2% to PKR 3,004.2 billion (USD 10.79 billion)."
+    },
+    {
+      "id": "te:economy:589201",
+      "time": "2026-10-02 22:08:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Factory Orders",
+        "Importance 2"
+      ],
+      "text": "US Factory Orders Barely Grow in August — New orders for US manufactured goods edged up by 0.1% month over month in August 2026, following a downwardly revised 0.8% increase in July and matching market forecasts. Non-durable goods orders rose by 0.3%, slowing a from a 0.7% increase previously. Among the components, order growth slowed for primary metals (1.2% vs. 2.1% in July) and machinery (1.1% vs. 1.5%), while orders for defense communications equipment slipped 7.3%.Meanwhile, durable goods orders fell by 0.1%, reversing a 0.9% advance in the prior month. Excluding transportation, factory orders rose 0.3%, while excluding defense they increased 0.1%."
+    },
+    {
+      "id": "mkt:01a0fcf1-6c2d-7ee0-a788-90e631cdb88a",
+      "time": "2026-10-02 22:07:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "French President Macron agreed to continue coordinated action to help supplies transit the Strait of Hormuz."
+    },
+    {
+      "id": "5124385",
+      "time": "2026-10-02 22:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：已同意繼續協調行動，保障霍爾木茲海峽物資輸出通暢。"
+    },
+    {
+      "id": "mkt:01a0fcf0-8029-7ee0-a788-8eb8a78219cf",
+      "time": "2026-10-02 22:06:54",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: If President LULA wins Sunday’s first‑round vote, the Brazilian real is expected to fall about 1.5% immediately to 5.30 per dollar."
+    },
+    {
+      "id": "5124384",
+      "time": "2026-10-02 22:06:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆預計將於下週頒佈法令，要求社交媒體平臺刪除煽動暴力的內容，此舉系在校園致命襲擊事件後推出。"
+    },
+    {
+      "id": "5124383",
+      "time": "2026-10-02 22:06:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓方提議韓朝就軍事分界線分歧見面溝通】據韓聯社2日報道，韓國統一部長官鄭東泳當天提議韓國和朝鮮見面溝通圍繞軍事分界線的分歧。鄭東泳當天表示，近期發生的非軍事區地雷爆炸事故的核心原因在於軍事分界線分歧。“韓國、朝鮮以及‘聯合國軍司令部’測定的界線都不一樣。如果不解決這個問題，同樣的事故隨時可能再次發生。”鄭東泳表示，作為統一部長官，他向朝方提議應見面溝通，至少應就軍事分界線測定和確認事宜進行溝通。（新華社）"
+    },
+    {
+      "id": "mkt:01a0fcf0-0eea-7ee0-a788-82916efe3abd",
+      "time": "2026-10-02 22:06:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reuters survey: If Brazilian senator Flavio Bolsonaro wins Sunday's first-round vote, BRL/USD would appreciate about 4.6% in the near term to around 5.0 per USD."
+    },
+    {
+      "id": "mkt:01a0fcef-9e89-7ee0-a788-799a18694f5d",
+      "time": "2026-10-02 22:05:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Brazilian real expected to be 5.23 per dollar over the next 12 months, unchanged from the September survey."
+    },
+    {
+      "id": "5124382",
+      "time": "2026-10-02 22:05:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪拜航空執行長：迪拜航空全力支援對FZ1073航班的調查。"
+    },
+    {
+      "id": "5124381",
+      "time": "2026-10-02 22:05:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪拜航空執行長：針對FZ1073航班的正式全面調查正在進行中。"
+    },
+    {
+      "id": "5124380",
+      "time": "2026-10-02 22:05:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英偉達自5月以來首次創下歷史新高 6萬億美元市值在望】英偉達股價週五創下四個多月來的首個紀錄新高，投資者繼續重新買入這家人工智慧晶片領域的龍頭企業。股價一度上漲2.5%，至236.59美元，突破了5月14日創下的236.54美元的盤中紀錄高點。該股較7月底低點已上漲約25%，今年以來股價上漲近30%，跑贏納斯達克100指數22%的漲幅，但落後於費城證券交易所半導體指數86%的漲幅。此輪上漲使英偉達市值達到5.7萬億美元，距離6萬億美元已不遠；此前從未有任何公司市值突破這一水平。"
+    },
+    {
+      "id": "mkt:01a0fcee-627e-7ee0-a788-77405026ede6",
+      "time": "2026-10-02 22:04:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "European diesel futures fell to an intraday low near $1,350/ton."
+    },
+    {
+      "id": "5124379",
+      "time": "2026-10-02 22:04:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲柴油期貨價格跌至盤中低點，接近每噸1350美元。"
+    },
+    {
+      "id": "5124378",
+      "time": "2026-10-02 22:03:33",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行股份公司（ECB SA）與嘉能可國際公司簽署動力煤交付協議，淨價值約4000萬茲羅提。"
+    },
+    {
+      "id": "5124377",
+      "time": "2026-10-02 22:02:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "耐克股價跌至2013年9月以來最低，最新下跌近6%。"
+    },
+    {
+      "id": "5124376",
+      "time": "2026-10-02 22:02:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克綜合指數創歷史新高，最新上漲1.6%。"
+    },
+    {
+      "id": "mkt:01a0fcec-8f20-7ee0-a788-6c14449edba4",
+      "time": "2026-10-02 22:02:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said Europe has agreed to release large volumes of diesel from ample stocks and that the process will begin immediately."
+    },
+    {
+      "id": "5124375",
+      "time": "2026-10-02 22:02:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：歐洲剛剛同意釋放大量庫存高企的柴油。這一程序將立即啟動。感謝各位對此事的關注！"
+    },
+    {
+      "id": "5124374",
+      "time": "2026-10-02 22:01:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：歐洲剛剛同意釋放大量其庫存充足的柴油。"
+    },
+    {
+      "id": "mkt:01a0fceb-c00b-7ee0-a788-66d7481fee9a",
+      "time": "2026-10-02 22:01:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Macron: G7 to release up to 100 mln barrels of crude and diesel over four months】French President Macron said the G7 has decided to release crude oil and diesel stocks over a four-month period, totaling up to 100 million barrels."
+    },
+    {
+      "id": "5124373",
+      "time": "2026-10-02 22:01:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：相關程式將立即啟動。"
+    },
+    {
+      "id": "te:markets:589200",
+      "time": "2026-10-02 22:01:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazilian Stocks Higher on Friday — The Ibovespa rose more than 0.5% to hover around 188,500 on Friday, posting broad-based gains amid a favorable external backdrop. Oil prices fell as European governments considered releasing strategic reserves to ease mounting fuel costs, reducing concerns over energy-driven inflation. Softer-than-expected US payrolls also supported credit-sensitive stocks, reducing expectations of a Fed rate hike this month. Major banks rose, with Itaú and Bradesco gaining about 1.5%, while Banco do Brasil rose more than 2%. Utilities also advanced, with Axia up more than 2%. Friday marks the last trading session before the first round of Brazil’s presidential election on Sunday. A poll released Thursday showed President Lula and Senator Flávio at a technical tie in a potential second-round matchup. Also on Thursday, Bolsonaro withdrew from a debate hours before it was scheduled to begin. The broadcaster subsequently canceled the event, which would already have gone ahead without Lula."
+    },
+    {
+      "id": "5124372",
+      "time": "2026-10-02 22:00:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "RIVIAN股價在逆轉開盤漲幅後下跌5%。"
+    },
+    {
+      "id": "mkt:01a0fcea-7a2a-7ee0-a788-59fd7fb09ff8",
+      "time": "2026-10-02 22:00:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Factory Orders Excluding Defense (MoM) (Aug) | actual 0.1% | previous 1%"
+    },
+    {
+      "id": "5124371",
+      "time": "2026-10-02 22:00:10",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國8月工廠訂單月率 0.1%，預期0.1%，前值由0.90%修正為0.8%。美國8月耐用品訂單終值環比下降0.1%，預估為0%。"
+    },
+    {
+      "id": "mkt:01a0fcea-36fb-7ee0-a788-5421402a6422",
+      "time": "2026-10-02 22:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Durable Goods Orders Revised (MoM) (Aug) | actual -0.1% | consensus 0% | previous 0%"
+    },
+    {
+      "id": "mkt:01a0fcea-36dd-7ee0-a788-49704a641511",
+      "time": "2026-10-02 22:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Factory Orders Excluding Transportation (MoM) (Aug) | actual 0.3% | consensus 0.6% | previous 0.60%"
+    },
+    {
+      "id": "mkt:01a0fcea-2d0c-7ee0-a788-462d49bcc727",
+      "time": "2026-10-02 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Factory Orders (MoM) (Aug) | actual 0.1% | consensus 0.1% | previous 0.90%"
+    },
+    {
+      "id": "5124370",
+      "time": "2026-10-02 21:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬克龍：將釋放至多1億桶。"
+    },
+    {
+      "id": "5124369",
+      "time": "2026-10-02 21:57:57",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "馬克龍：七國集團決定釋放柴油和原油庫存，柴油和原油庫存將在4個月內釋放。"
+    },
+    {
+      "id": "5124368",
+      "time": "2026-10-02 21:57:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：只有伊朗石油沒有流經霍爾木茲海峽。"
+    },
+    {
+      "id": "te:markets:589199",
+      "time": "2026-10-02 21:56:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Linde Shares Hit 7-week High — Linde shares increased to 425.20 EUR, the highest since August 2026. Over the past 4 weeks, Linde gained 0.87%, and in the last 12 months, it increased 5.71%."
+    },
+    {
+      "id": "5124367",
+      "time": "2026-10-02 21:55:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數科技板塊上漲1.4%，創下歷史新高。"
+    },
+    {
+      "id": "5124366",
+      "time": "2026-10-02 21:55:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：鮑威爾的事，白宮說了不算。"
+    },
+    {
+      "id": "5124365",
+      "time": "2026-10-02 21:54:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：現在要決定傑羅姆·鮑威爾是留任還是離職。"
+    },
+    {
+      "id": "te:markets:589198",
+      "time": "2026-10-02 21:54:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Orange Juice Hits 4-week Low — Orange Juice decreased to 139.85 USd/Lbs, the lowest since September 2026. Over the past 4 weeks, Orange Juice lost 9.81%, and in the last 12 months, it decreased 39.74%."
+    },
+    {
+      "id": "5124364",
+      "time": "2026-10-02 21:54:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：凱文·沃什得應付鮑威爾，這很不尋常。"
+    },
+    {
+      "id": "5124363",
+      "time": "2026-10-02 21:53:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "COINBASE股價迅速回吐漲幅，此前一度上漲5.8%。"
+    },
+    {
+      "id": "te:markets:589197",
+      "time": "2026-10-02 21:53:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Vertex Pharmaceuticals Shares Hit 8-week Low — Vertex Pharmaceuticals shares decreased to 500.75 USD, the lowest since August 2026. Over the past 4 weeks, Vertex Pharmaceuticals lost 9.77%, and in the last 12 months, it increased 22.87%."
+    },
+    {
+      "id": "5124362",
+      "time": "2026-10-02 21:53:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特談利息支出：目前高得令人無法接受。"
+    },
+    {
+      "id": "te:markets:589195",
+      "time": "2026-10-02 21:52:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Drops to Lowest Level in Two Years — Lumber futures fell to $527 per thousand board feet, reaching their lowest level in two years, as rising borrowing costs weighed on housing demand. Growing concerns over inflationary pressures and government debt have strengthened expectations of higher-for-longer interest rates and fueled a broader sell-off in the bond market, pushing sovereign yields to their highest levels in over two decades. As a result, mortgage rates climbed to 7.3%, their highest level in three years, further straining an already weak housing market. Although lacking any particular economic significance, economists refer to the 7% threshold as a psychological ceiling. Providing an offsetting pressure, Ottawa had announced counter-tariffs of 25% on US lumber and 50% on plywood following US tariffs on several lumber-related goods. US forestry groups have long accused Canada of distorting the market, as Canadian forestland is largely publicly owned, allowing its lumber to be sold at lower prices."
+    },
+    {
+      "id": "5124361",
+      "time": "2026-10-02 21:52:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "施羅德高階經濟學家喬治·布朗表示，9月非農報告“弱於市場預期”，但他提醒：單月非農資料疲軟，尚不足以讓政策制定者認定勞動力市場正在持續惡化。“今年非農就業資料如同坐過山車，各月之間波動劇烈。”"
+    },
+    {
+      "id": "5124360",
+      "time": "2026-10-02 21:52:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：我們不想透過通貨膨脹來擺脫債務。"
+    },
+    {
+      "id": "5124359",
+      "time": "2026-10-02 21:51:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：特朗普總統是認真對待削減赤字問題的。"
+    },
+    {
+      "id": "5124358",
+      "time": "2026-10-02 21:51:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統：墨西哥將成立特別工作組應對校園暴力。"
+    },
+    {
+      "id": "5124357",
+      "time": "2026-10-02 21:51:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙議會否決了首相桑切斯提出的緊急住房措施。"
+    },
+    {
+      "id": "5124356",
+      "time": "2026-10-02 21:50:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特談收益率：強勁的經濟推動美債收益率上升。"
+    },
+    {
+      "id": "5124355",
+      "time": "2026-10-02 21:50:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任凱文·哈塞特表示，白宮尊重美聯儲的獨立性。"
+    },
+    {
+      "id": "5124354",
+      "time": "2026-10-02 21:49:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：這將是一個強勁的假日季。"
+    },
+    {
+      "id": "5124353",
+      "time": "2026-10-02 21:48:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：我們從資料中可以看出，消費者的信心非常強。"
+    },
+    {
+      "id": "5124352",
+      "time": "2026-10-02 21:47:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：這份就業報告基本符合預期。"
+    },
+    {
+      "id": "5124351",
+      "time": "2026-10-02 21:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行將耐克的目標價從23美元下調至19美元。"
+    },
+    {
+      "id": "5124350",
+      "time": "2026-10-02 21:46:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：本週有很多好訊息。"
+    },
+    {
+      "id": "5124349",
+      "time": "2026-10-02 21:45:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Fanatics預計2026年體育博彩營銷規模為3.5億美元。"
+    },
+    {
+      "id": "5124348",
+      "time": "2026-10-02 21:45:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "Fanatics預計2026年營收增長約40%，達到140億美元。"
+    },
+    {
+      "id": "5124347",
+      "time": "2026-10-02 21:45:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲3%】費城半導體指數日內漲3.01%，現報13215.21點。英偉達漲2.77%，博通漲2.76%，美光跌0.16%，英特爾漲3.43%，AMD漲3.78%，高通漲1.96%，臺積電漲1.94%，阿斯麥漲3.01%。"
+    },
+    {
+      "id": "5124346",
+      "time": "2026-10-02 21:44:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普最早可能在週五宣佈人工智慧“沙皇“”人選。"
+    },
+    {
+      "id": "5124345",
+      "time": "2026-10-02 21:43:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市延續漲勢，標普500指數<.SPX>上漲1.00%。"
+    },
+    {
+      "id": "5124344",
+      "time": "2026-10-02 21:43:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500指數漲1.01%，現報7744.150點；道指漲0.73%，現報51297.988點；納指漲1.41%，現報27251.134點。"
+    },
+    {
+      "id": "5124343",
+      "time": "2026-10-02 21:43:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普預計將任命克萊頓擔任新的人工智慧主管。"
+    },
+    {
+      "id": "te:markets:589194",
+      "time": "2026-10-02 21:42:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Higher After Jobs Report — The S&P 500 rose 0.9%, the Nasdaq went up 1.4% and the Dow Jones rose more than 300 points on Friday, after a weaker-than-expected jobs report prompted investors to pare bets on further Fed tightening. Nonfarm payrolls increased by just 29K last month, well below expectations for a 90K gain, while employment figures for the previous two months were also revised lower. Fed rate expectations eased following the data, with markets now pricing in less than one additional rate hike for the remainder of 2026. Meanwhile, a decline in oil prices helped to support the bond market, providing an additional boost to equities. Consumer discretionary ad tech outperformed while energy traded lower. Nvidia (2.1%), Apple (0.7%), Microsoft (1.1%), Amazon (1.8%), Broadcom (2%), Meta (0.6%) and Tesla (3.9%) were higher. On the week however, the S&P 500 is down 1.2%, putting it on course for its worst weekly performance since August, while the Dow has fallen 1.8% and the Nasdaq is down 0.8%."
+    },
+    {
+      "id": "5124342",
+      "time": "2026-10-02 21:41:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "美銀全球研究將芝加哥期權交易所全球市場公司<CBOE.Z>的目標價從356美元下調至332美元。"
+    },
+    {
+      "id": "5124341",
+      "time": "2026-10-02 21:40:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達(NVDA.O)盤中觸及歷史新高，最新上漲2.4%。"
+    },
+    {
+      "id": "te:markets:589191",
+      "time": "2026-10-02 21:40:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.71% Higher — The Dow Jones Index is up by 361 points or 0.71 percent on Friday. Top gainers are Caterpillar (3.02%), Nvidia (2.39%) and Amazon (1.80%). Biggest losses came from Nike (-6.09%), IBM (-1.16%) and Chevron (-0.50%)."
+    },
+    {
+      "id": "te:markets:589190",
+      "time": "2026-10-02 21:39:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "T-Mobile Us Shares Hit 29-month Low — T-Mobile Us shares decreased to 160.88 USD, the lowest since April 2024. Over the past 4 weeks, T-Mobile Us lost 13.5%, and in the last 12 months, it decreased 29.6%."
+    },
+    {
+      "id": "5124340",
+      "time": "2026-10-02 21:39:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：住房資料上漲是因為經濟形勢強勁。"
+    },
+    {
+      "id": "te:markets:589189",
+      "time": "2026-10-02 21:39:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "French 10-Year Bond Yield Briefly Tops 5% — France’s 10-year OAT yield briefly climbed above 5%, its highest level since July 2002, as concerns over the country’s fiscal outlook and political uncertainty intensified. Global government bonds have faced renewed pressure amid elevated energy prices, rising inflation and shifting interest-rate expectations, while French debt has been hit particularly hard by concerns over the government’s ability to rein in spending ahead of the 2027 presidential election. Paris presented its 2027 budget bill on Thursday, proposing unpopular spending cuts aimed at reducing the budget deficit to 5% of GDP next year. The plan has already come under scrutiny from the country’s fiscal watchdog, which warned that its economic assumptions were “optimistic.” Meanwhile, the spread between French and German 10-year yields widened above 150 bps, the highest since late 2011. Agence France Trésor also announced plans to borrow a record €340 billion next year to finance the deficit and refinance maturing debt."
+    },
+    {
+      "id": "5124339",
+      "time": "2026-10-02 21:39:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：我們希望抵押貸款利率下降。"
+    },
+    {
+      "id": "5124338",
+      "time": "2026-10-02 21:38:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：下週將釋出更多能源相關公告。"
+    },
+    {
+      "id": "5124337",
+      "time": "2026-10-02 21:38:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟委員會主任哈塞特：海軍已開啟霍爾木茲海峽通道，原油正從那裡流過。"
+    },
+    {
+      "id": "5124336",
+      "time": "2026-10-02 21:37:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "加密貨幣個股上漲，因比特幣觸及一週多以來新高，riot平臺上漲4.3%，HUT 8礦業上漲5%，MARA控股上漲5.8%，Coinbase全球股價上漲5.1%，Strategy股價上漲5.6%。"
+    },
+    {
+      "id": "5124335",
+      "time": "2026-10-02 21:37:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "ProShares比特幣策略ETF上漲2.8%，iShares比特幣信託上漲2.7%。"
+    },
+    {
+      "id": "5124334",
+      "time": "2026-10-02 21:37:05",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【英偉達股價突破5月高點重新整理歷史新高 市值重返5.7萬億美元】英偉達股價盤中持續走高，突破今年5月創下的前期歷史高點，重新整理歷史新高，總市值重返5.7萬億美元。截至發稿，英偉達漲2.34%，報236.26美元。最近，英偉達將股票回購授權增加1500億美元，使回購計劃總額達到2350億美元。公司預計將在2028財年之前執行該回購計劃。就在一個月前，英偉達最新財報繼續顯示AI算力需求強勁。公司最新季度營收達到約962億美元，同比增長106%，創單季歷史新高；同時，公司此前預計2028財年營收增速將達到約70%，進一步強化市場對AI基礎設施投資週期延續的預期。"
+    },
+    {
+      "id": "5124333",
+      "time": "2026-10-02 21:36:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "紐約時報公司股價下跌6.5%，跌至2月4日以來的最低點。"
+    },
+    {
+      "id": "5124332",
+      "time": "2026-10-02 21:36:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "Fair Isaac股價下跌6%，此前有報道稱，普爾特領導的聯邦住房金融局將放寬針對房利美和房地美的信用資料規則。"
+    },
+    {
+      "id": "te:markets:589188",
+      "time": "2026-10-02 21:34:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Nvidia Shares Hit 20-week High — Nvidia shares increased to 235.93 USD, the highest since May 2026. Over the past 4 weeks, Nvidia Corporation gained 4.93%, and in the last 12 months, it increased 24.66%."
+    },
+    {
+      "id": "5124331",
+      "time": "2026-10-02 21:34:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic：政府對公司及其技術的態度可能會對其業務產生更廣泛的影響，包括與商業客戶和合作伙伴的關係。"
+    },
+    {
+      "id": "5124330",
+      "time": "2026-10-02 21:34:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達股價上漲1.9%，報每股235.51美元，距離5月創下的歷史紀錄高點僅一步之遙。"
+    },
+    {
+      "id": "5124329",
+      "time": "2026-10-02 21:33:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國資料儲存企業股價在早盤交易中下跌。希捷科技股價下跌15%，西部資料股價下跌9.8%，閃迪股價下滑3%。"
+    },
+    {
+      "id": "5124328",
+      "time": "2026-10-02 21:33:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞典議長再次授權安德松嘗試組建新政府】瑞典議會議長安德烈亞斯·諾倫10月2日再次授權社會民主黨黨首、前首相瑪格達萊娜·安德松嘗試組建新政府。（央視新聞）"
+    },
+    {
+      "id": "5124327",
+      "time": "2026-10-02 21:32:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "耐克股價開盤下跌8.3%，創4月以來最大單日跌幅。"
+    },
+    {
+      "id": "5124326",
+      "time": "2026-10-02 21:32:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，名創優品跌3.56%，萬國資料跌3.36%，寶尊電商跌3.26%，世紀互聯跌3.24%，理想汽車跌3.06%。"
+    },
+    {
+      "id": "5124325",
+      "time": "2026-10-02 21:31:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今年美國製造業累計新增約7.2萬個崗位】美國9 月製造業新增 9000 個就業崗位，實現連續第四個月增長，表明這個對利率敏感的行業擴張正在提速。勞工部資料顯示，今年美國製造業累計新增約 7.2 萬個崗位，收回該行業自 2025 年初以來流失的大部分就業。"
+    },
+    {
+      "id": "5124324",
+      "time": "2026-10-02 21:31:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "愛彼迎股價上漲2.3%，此前KeyBanc將其評級從中性上調至增持。"
+    },
+    {
+      "id": "5124323",
+      "time": "2026-10-02 21:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉股價上漲2.3%，此前公佈的第三季度交付量強於預期。"
+    },
+    {
+      "id": "5124322",
+      "time": "2026-10-02 21:30:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "安森美半導體股價上漲6%，Synaptics股價大漲14.3%，此前兩家公司公佈了修訂後的合併協議。"
+    },
+    {
+      "id": "5124321",
+      "time": "2026-10-02 21:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普漲】Lumentum漲0.47%，康寧漲2.09%，Coherent漲0.26%，應用光電漲1.90%，Ciena漲2.07%，博通漲1.89%，邁威爾科技漲4.01%。"
+    },
+    {
+      "id": "5124320",
+      "time": "2026-10-02 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初普跌】禮來漲0.42%，強生跌0.45%，Moderna跌0.92%，諾和諾德漲0.31%，艾伯維跌0.53%，默沙東跌0.03%。"
+    },
+    {
+      "id": "5124319",
+      "time": "2026-10-02 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤初普跌】美光漲0.03%，閃迪跌2.11%，SK海力士跌0.30%，西部資料跌9.96%，希捷科技跌15.38%。"
+    },
+    {
+      "id": "5124318",
+      "time": "2026-10-02 21:30:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.63%，標普500指數漲0.87%，納指漲1.21%。ON SEMICONDUCTOR漲6.68%，Arm Holdings Plc漲5.31%，微芯科技漲3.95%，Strategy漲3.94%，邁威爾科技漲3.90%。“七姐妹”方面：特斯拉漲2.49%，英偉達漲2.06%，Meta Platforms漲1.76%，亞馬遜漲1.72%，微軟漲1.34%，谷歌漲1.21%，蘋果漲0.53%。"
+    },
+    {
+      "id": "5124317",
+      "time": "2026-10-02 21:30:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙Skydance將把B類股轉至紐約證券交易所上市，股票程式碼為“SKYD”。"
+    },
+    {
+      "id": "5124316",
+      "time": "2026-10-02 21:30:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "SYNAPTICS股價開盤上漲近15%；ONSEMI股價上漲6%。"
+    },
+    {
+      "id": "5124315",
+      "time": "2026-10-02 21:30:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國第一夫人梅拉尼婭特朗普站臺亞馬遜： 亞馬遜對“培育未來”的承諾將為數百萬學生配備強大的人工智慧（SI） 工具和數字技能。  全球132 所大學的學生現在可以免費啟用亞馬遜的 Kiro，將他們置於塑造職業生涯的道路上。 我期待看到下一代軟體工程師和創新者從這一新聯盟中脫穎而出。"
+    },
+    {
+      "id": "5124314",
+      "time": "2026-10-02 21:30:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內漲2%】費城半導體指數日內漲2.35%，現報13130.76點。英偉達漲2.28%，博通漲1.87%，美光漲0.51%，英特爾漲3.72%，AMD漲3.02%，高通漲2.27%，臺積電漲1.49%，阿斯麥漲2.54%。"
+    },
+    {
+      "id": "5124313",
+      "time": "2026-10-02 21:30:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，再鼎醫藥跌3.41%，理想汽車跌2.79%，名創優品跌2.52%，網易跌2.56%，嗶哩嗶哩跌2.17%。"
+    },
+    {
+      "id": "te:markets:589187",
+      "time": "2026-10-02 21:30:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Alibaba Shares Hit 12-week Low — Alibaba shares decreased to 106.45 USD, the lowest since July 2026. Over the past 4 weeks, Alibaba lost 3.9%, and in the last 12 months, it decreased 43.3%."
+    },
+    {
+      "id": "te:markets:589186",
+      "time": "2026-10-02 21:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bristol-Myers Squibb Shares Hit 10-week Low — Bristol-Myers Squibb shares decreased to 60.48 USD, the lowest since July 2026. Over the past 4 weeks, Bristol-Myers Squibb lost 9.16%, and in the last 12 months, it increased 34.4%."
+    },
+    {
+      "id": "te:markets:589184",
+      "time": "2026-10-02 21:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The US 100 Tech Index Hit All-time High — US100 increased to an all-time high of 30873.00 Index Points. Over the past 4 weeks, US 100 Tech Index gained 3.46%, and in the last 12 months, it increased 23.06%."
+    },
+    {
+      "id": "5124312",
+      "time": "2026-10-02 21:28:55",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【就業資料推動收益率下行，建築商股票上漲】美國建築商股週五盤前走高，因不及預期的就業資料緩解了美聯儲本月加息的壓力，同時推動10年期美債收益率下行。領漲個股包括萊納、D.R.霍頓、M/I Homes、LGI Homes、Meritage Homes、普爾特集團和托爾兄弟。部分建築供應商同步走高，包括馬斯科、路易斯安那太平洋公司和霍夫南企業。SPDR標普建築商ETF上漲2%。非農資料公佈後，非必需消費品和必需消費品板塊普遍走高，耐克因銷售報告不及預期成為例外。"
+    },
+    {
+      "id": "5124311",
+      "time": "2026-10-02 21:26:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "提示：哈塞特結束講話。"
+    },
+    {
+      "id": "5124310",
+      "time": "2026-10-02 21:26:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長：我正指示各級指揮官與主管，在10月開展為期一天的停工休整。所有軍人都將獲得投票機會。"
+    },
+    {
+      "id": "5124309",
+      "time": "2026-10-02 21:24:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國10年期國債收益率相對於德國國債收益率的溢價跌破150個基點。"
+    },
+    {
+      "id": "5124308",
+      "time": "2026-10-02 21:23:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特談柴油：希望很快能有相關訊息。"
+    },
+    {
+      "id": "5124306",
+      "time": "2026-10-02 21:23:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【高市“智囊”被曝醜聞 身陷“預算門”】日本新內閣上任僅半個月，內閣成員就被曝出醜聞。據日本媒體2日報道，新任農林水產大臣簗和生被指曾濫用職權，肆意削減不支援他的地方政府預算，引發廣泛批評。簗和生競選議員時，首相高市早苗曾為他“站臺”，並評價他是自己的“智囊”。在野黨陣營或將追究其任命責任。 據日本《週刊文春》雜誌等媒體報道，“預算門”事件發生在今年5月。簗和生當時在執政黨自民黨栃木縣支部一場會議上洋洋自得地表示，已“大幅削減”該縣那須烏山市和那珂川町用於修建道路的預算。按媒體說法，簗和生這樣做是因為上述地區在2月眾議院選舉中未對其予以支援。他在那場選舉中敗給對手，最終透過比例代表制“復活”當選。（新華社）"
+    },
+    {
+      "id": "5124305",
+      "time": "2026-10-02 21:22:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任 哈塞特談柴油：我們一直在與歐洲方面進行溝通。"
+    },
+    {
+      "id": "5124304",
+      "time": "2026-10-02 21:21:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期第二天四川省A級旅遊景區接待遊客690萬人次，門票收入超6000萬元】 據四川日報，10月2日，2026年國慶假期第二天，四川省推進文化和旅遊深度融合發展領導小組辦公室釋出資料顯示，截至當日15時，全省納入統計的908家A級旅遊景區接待遊客690萬人次，門票收入6698萬元，與2025年同期同口徑相比分別增長4.04%、0.33%；5A級旅遊景區接待遊客74.05萬人次、門票收入3212萬元；全省圖書館、文化館、博物館累計接待遊客214萬人次。"
+    },
+    {
+      "id": "te:markets:589181",
+      "time": "2026-10-02 21:21:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Higher — TSX futures edged higher on Friday as the oil rally stalled, easing concerns over energy-driven inflation and pushing Canadian bond yields lower. Softer-than-expected US payrolls also supported rate-sensitive stocks, amid reduced expectations of a Fed rate hike this month. The US economy added 29,000 jobs in September, well below forecasts of 90,000 and down sharply from 133,000 in August. Elsewhere, gold prices were little changed but remained on track for a second straight weekly decline, keeping pressure on miners. Prime Minister Carney said Canada will fast-track approval of a proposed crude oil export pipeline to the West Coast, a key part of his efforts to diversify the economy away from the US."
+    },
+    {
+      "id": "5124303",
+      "time": "2026-10-02 21:20:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：GDP 仍然徘徊在 4% 左右。"
+    },
+    {
+      "id": "5124302",
+      "time": "2026-10-02 21:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：我們的政策正在發揮作用。"
+    },
+    {
+      "id": "5124301",
+      "time": "2026-10-02 21:18:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：政府就業人數下降，其他所有行業都在上升。"
+    },
+    {
+      "id": "5124300",
+      "time": "2026-10-02 21:18:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：預計財務影響可在全年業績指引範圍內消化。"
+    },
+    {
+      "id": "5124299",
+      "time": "2026-10-02 21:18:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問哈塞特：對就業報告並不失望。"
+    },
+    {
+      "id": "5124298",
+      "time": "2026-10-02 21:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特：F-150皮卡生產受供應商問題影響。"
+    },
+    {
+      "id": "5124297",
+      "time": "2026-10-02 21:17:16",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【華爾街對“疲軟”非農就業報告的反應】9月就業報告顯示，勞動力市場比此前預期更為疲弱，這讓美聯儲未來的加息路徑變得更加複雜。以下是投資者和分析師的看法：\nPrincipal Asset Management首席全球策略師Seema Shah表示：“就業人數走弱、薪資增長放緩以及失業率上升，都指向勞動力市場正在降溫，而非重新加速。這應會給美國國債收益率降溫，並降低美聯儲採取行動的緊迫性。”\nMutual of America Capital Management經濟與固定收益研究副總裁Jerry Tempelman表示：“失業率升至4.2%值得密切關注，因為失業人數上升與招聘放緩同時出現，可能預示美聯儲的緊縮週期在某個時點對經濟活動的抑制程度會超出預期。”\nMahoney Asset Management執行長Ken Mahoney表示：“這就是我們一直在談論的低招聘、低裁員勞動力市場……市場將其視為金髮姑娘狀態：不太熱，也不太冷。”\nCatalyst Funds高階投資組合經理Larry Holzenthaler表示：“雖然疲弱的就業資料或許降低了美聯儲行動的緊迫性，但通脹仍是首要擔憂。這有可能放慢美聯儲的加息步伐，但更高利率仍是主基調。”\nFranklin Templeton Institute投資策略主管Jeff Schulze表示：“勞動力市場正在微沸，而非沸騰。”"
+    },
+    {
+      "id": "5124296",
+      "time": "2026-10-02 21:15:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特公佈第三季度美國汽車銷量為509,764輛，同比下降6.6%。"
+    },
+    {
+      "id": "5124295",
+      "time": "2026-10-02 21:15:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車第三季度美國電動汽車銷量下降80.2%，至6047輛。"
+    },
+    {
+      "id": "5124294",
+      "time": "2026-10-02 21:15:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特汽車第三季度美國混合動力汽車銷量下降19.7%，至44,308輛。"
+    },
+    {
+      "id": "te:markets:589177",
+      "time": "2026-10-02 21:14:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Sterling Rebounds as Weak US Jobs Data Weighs on Dollar — Sterling extended gains above $1.32, recovering from its weakest level in three months as weaker-than-expected US employment data weighed on the dollar. The US economy added just 29,000 jobs in September, well below expectations of 90,000, strengthening expectations that the Federal Reserve may leave rates unchanged in October, while a December move is seen as more likely. Meanwhile, markets are pricing around 30 basis points of Bank of England tightening by year-end and roughly 90 bps by the end of 2027. Several policymakers, including Governor Andrew Bailey, have signaled greater openness to higher rates as rising energy costs increase the risk of inflation remaining above target. Elsewhere, sterling received support from comments by Prime Minister Andy Burnham favoring closer UK-EU ties ahead of a summit expected around November 20, including the possibility of revisiting EU membership after the next general election."
+    },
+    {
+      "id": "5124293",
+      "time": "2026-10-02 21:14:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "民主黨透過ActBlue在創紀錄的一個季度籌得8.33億美元。"
+    },
+    {
+      "id": "5124292",
+      "time": "2026-10-02 21:13:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Versant與Verizon達成多年期分銷協議。"
+    },
+    {
+      "id": "5124291",
+      "time": "2026-10-02 21:13:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：2026年第三季度，特斯拉全球生產了超46.4萬輛電動車，交付了超48.6萬輛；儲能產品裝機量達13.7吉瓦時。 感謝所有客戶、員工、供應商、股東和支持者們幫助我們取得了這些成績！"
+    },
+    {
+      "id": "5124290",
+      "time": "2026-10-02 21:12:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國民主黨團體稱，聯邦候選人第三季度籌集了6.01億美元。"
+    },
+    {
+      "id": "5124289",
+      "time": "2026-10-02 21:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【非農資料顯示，建築就業市場9月繼續呈現資料中心與住宅建設分化】科技建設熱潮似乎未受利率上升影響，而住宅建設則受到借貸成本高企的拖累。美國經濟在暖通專業人員和電工等非住宅專業貿易承包商領域增加了約1.2萬個工作崗位，這些是資料中心開發商的關鍵崗位。住宅領域則減少了約8000個崗位，延續了自2024年開始的分化趨勢。"
+    },
+    {
+      "id": "5124288",
+      "time": "2026-10-02 21:09:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將Woodward <WWD.O>的目標價從450美元下調至420美元。"
+    },
+    {
+      "id": "5124287",
+      "time": "2026-10-02 21:08:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "派拉蒙CEO大衛·埃裡森表示，合併後公司將命名為“Skydance”。"
+    },
+    {
+      "id": "5124286",
+      "time": "2026-10-02 21:05:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達宣佈將推出DGX SPARK 64GB配置】英偉達宣佈，DGX SPARK 64GB配置將於本月起透過主要合作伙伴推出。該裝置可在本地執行最高1000億引數的AI模型。DGX SPARK 64GB將於10月23日起透過主要合作伙伴發售，起售價為4999美元。"
+    },
+    {
+      "id": "5124285",
+      "time": "2026-10-02 21:04:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨漲幅擴大至1%。"
+    },
+    {
+      "id": "5124284",
+      "time": "2026-10-02 21:03:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：Point Beach Power的認購尚待監管批准。"
+    },
+    {
+      "id": "5124283",
+      "time": "2026-10-02 21:03:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【特斯拉第三季度交付量超預期，盤前股價漲超1.5%】特斯拉第三季度交付量超預期：共交付486532輛，同比下滑2.1%，高於綜合預期的463761輛；其中Model 3/Y交付478237輛，同比微降0.6%，預期為462078輛。產量方面，第三季度汽車總產量464391輛，同比增長3.8%，低於預期的473294輛；Model 3/Y產量457387輛，同比增長4.9%，預期為481279輛。資料釋出後，特斯拉盤前股價拉昇，漲超1.5%。"
+    },
+    {
+      "id": "te:markets:589176",
+      "time": "2026-10-02 21:03:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Euro Rebounds as Weak US Jobs Data Weighs on Dollar — The euro edged up to $1.126 after briefly falling to its lowest level in more than a year, as weaker-than-expected US jobs data weighed on the dollar. The US economy added just 29,000 jobs in September, well below expectations of 90,000, boosting expectations that the Fed may keep rates unchanged at its upcoming meeting. Meanwhile, Eurozone inflation accelerated to 3.8%, its highest since September 2023 and well above the ECB’s 2% target, driven largely by higher fuel prices. Despite renewed inflationary pressures, concerns over France’s fiscal outlook continued to weigh on the euro after the government unveiled deficit-reduction plans that the fiscal watchdog described as based on “optimistic” assumptions. Markets also expect the ECB to adopt a gradual approach to monetary tightening. ECB official Isabel Schnabel said the coming months will be key to assessing the energy shock and determining the appropriate level of interest rates, signaling a cautious approach to further tightening."
+    },
+    {
+      "id": "5124282",
+      "time": "2026-10-02 21:02:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "特斯拉盤前股價拉昇，漲超1.5%。"
+    },
+    {
+      "id": "5124281",
+      "time": "2026-10-02 21:01:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉第三季度MODEL 3/Y 產量 457387輛，預估481279。"
+    },
+    {
+      "id": "5124280",
+      "time": "2026-10-02 21:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉第三季度汽車產量464391輛，預估473294。"
+    },
+    {
+      "id": "te:markets:589175",
+      "time": "2026-10-02 21:01:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Hits 4-week Low — Crude Oil decreased to 88.54 USD/Bbl, the lowest since September 2026. Over the past 4 weeks, Crude Oil lost 2.52%, and in the last 12 months, it increased 46.19%."
+    },
+    {
+      "id": "5124279",
+      "time": "2026-10-02 21:01:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內跌5%，現報88.17美元/桶。"
+    },
+    {
+      "id": "5124278",
+      "time": "2026-10-02 21:01:18",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "特斯拉第三季度交付量486532輛，預估463761輛。"
+    },
+    {
+      "id": "5124277",
+      "time": "2026-10-02 21:01:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：將全額資助\"燈塔專案\"的能源成本。"
+    },
+    {
+      "id": "5124276",
+      "time": "2026-10-02 21:00:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司承諾惠及逾百萬威斯康星州公用事業客戶。"
+    },
+    {
+      "id": "5124275",
+      "time": "2026-10-02 21:00:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "甲骨文宣佈承諾承擔威斯康星州居民龐德海灘發電廠的3億美元能源成本上漲開支。"
+    },
+    {
+      "id": "5124274",
+      "time": "2026-10-02 21:00:19",
+      "tags": [
+        "資料"
+      ],
+      "text": "新加坡9月PMI升至51.7，9月電子產品採購經理人指數升至52.9。"
+    },
+    {
+      "id": "5124273",
+      "time": "2026-10-02 20:59:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，10月1日美國實際有效聯邦基金利率為3.88%，當日成交規模為1200億美元；9月30日有效利率同樣為3.88%，當日成交規模為830億美元。"
+    },
+    {
+      "id": "5124272",
+      "time": "2026-10-02 20:59:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭宣佈將在布魯塞爾舉行會議，愛爾蘭目前擔任歐盟輪值主席國。"
+    },
+    {
+      "id": "5124271",
+      "time": "2026-10-02 20:59:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟大使將於今天下午開會討論柴油市場。"
+    },
+    {
+      "id": "5124270",
+      "time": "2026-10-02 20:55:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星HBM4報價為HBM3E三倍，押注AI算力軍備競賽重塑定價權】據韓國財經媒體報道，韓國晶片巨頭–三星電子已將明年HBM4的供應報價定在每吉位元（Gb）4美元中高區間，是現款旗艦產品HBM3E約1.50美元/Gb價格的三倍以上，並已啟動與主要客戶的年度合同談判。"
+    },
+    {
+      "id": "te:markets:589174",
+      "time": "2026-10-02 20:53:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rises on Weak US Jobs Data — Silver rose above $61 an ounce on Friday after weaker-than-expected US employment data reinforced expectations that the Federal Reserve may keep interest rates unchanged at its upcoming meeting. The US economy added just 29,000 jobs in September, well below the 90,000 expected, while the unemployment rate rose to 4.2% and annual wage growth eased to 3.0%, its weakest level since May 2021. The softer labor-market data further reduced expectations of an October rate hike, with money markets pricing in less than a 15% chance of an increase this month, while the probability of a December hike remains above 70%. Expectations had already weakened following comments from Fed officials Philip Jefferson and John Williams, who called for more time to assess whether further rate increases are needed to contain inflatio"
+    },
+    {
+      "id": "te:markets:589173",
+      "time": "2026-10-02 20:51:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rebounds Above $4,200 on Weak US Jobs Data — Gold climbed back above $4,200 an ounce on Friday after weaker-than-expected US jobs data reinforced expectations that the Federal Reserve may keep interest rates unchanged at its upcoming meeting. The US economy added just 29,000 jobs in September, well below expectations of 90,000, following a downwardly revised gain of 133,000 in August. The unemployment rate rose to 4.2%, while annual wage growth slowed unexpectedly to 3.0%, its weakest level since May 2021. The softer labor-market data has further reduced expectations of an October rate hike. Money markets are now pricing in less than a 15% chance of a rate increase this month, while the probability of a hike in December remains above 70%. Rate-hike expectations had already fallen following comments from Fed policymakers Vice Chair Philip Jefferson and New York Fed President John Williams, who indicated that policymakers should take more time to assess whether further rate increases are necessary to bring inflation under control."
+    },
+    {
+      "id": "5124269",
+      "time": "2026-10-02 20:50:34",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【非農資料公佈後 交易員降低對美聯儲12月加息的押注】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為86.2%，累計加息25個基點的機率為13.8%。美聯儲到12月維持利率不變的機率為27.4%，累計加息25個基點的機率63.1%，累計加息50個基點的機率為9.4%。"
+    },
+    {
+      "id": "5124268",
+      "time": "2026-10-02 20:48:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普和馬克龍昨晚通話討論了能源形勢。"
+    },
+    {
+      "id": "5124267",
+      "time": "2026-10-02 20:48:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【交易員們對12月加息預期有所回落】在非農就業人數增幅令人失望且失業率小幅上升後，交易員已不再完全消化12月加息預期，更不用說10月了。他們目前預計12月加息的機率約為86%，低於週四時對12月加息已完全消化甚至超出完全消化的程度。"
+    },
+    {
+      "id": "5124266",
+      "time": "2026-10-02 20:46:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲傳聲筒Nick Timiraos ： 8月三個月平均招聘人數初值為7.1萬，現下修至5.1萬，9月三個月平均招聘人數也為5.1萬。私營部門就業情況類似，9月增加5.4萬，8月資料下修後為增加4.8萬。"
+    },
+    {
+      "id": "te:markets:589172",
+      "time": "2026-10-02 20:45:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Extend Gains After Jobs Report — US futures extended gains on Friday after a weaker-than-expected jobs report prompted investors to pare bets on further Fed tightening. Futures on the S&P 500 rose 0.9%, Nasdaq 100 futures gained 0.9%, and Dow Jones futures climbed 460 points. Nonfarm payrolls increased by just 29K last month, well below expectations for a 90K gain, while employment figures for the previous two months were also revised lower. The unemployment rate also rose to 4.2%. Fed rate expectations eased following the data, with markets now pricing in less than one additional rate hike for the remainder of 2026. Meanwhile, a decline in oil prices is helping to ease inflationary pressures and support the bond market, providing an additional boost to equities. Despite Friday’s gains, all three major US stock indexes remain on track to end the week lower. The S&P 500 is down 1.2%, putting it on course for its worst weekly performance since August, while the Dow has fallen 1.8% and the Nasdaq is down 0.8%."
+    },
+    {
+      "id": "5124265",
+      "time": "2026-10-02 20:44:54",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【高盛：10月加息現在不太可能】高盛資產管理公司多部門固定收益投資主管林賽·羅斯納表示，疲軟的9月就業報告使美聯儲在本月晚些時候加息的可能性不大。她說，今天疲軟的資料反駁了勞動力市場正在重新收緊的觀點，12月再加息一次仍是其基本預期，但市場持續施壓及能源價格上漲可能迫使美聯儲行動。"
+    },
+    {
+      "id": "te:markets:589171",
+      "time": "2026-10-02 20:42:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Sell-Off Eases Further After Jobs Report — The yield on the US 10-year Treasury note dropped 7 basis points to 5.175% on Friday, extending the retreat from this week’s peak above 5.34%, the highest level since 2002. The move lower followed a surprisingly weak US employment report, which reduced expectations that the Federal Reserve would need to raise interest rates at its October meeting. Nonfarm payrolls increased by only 29,000 in September, missing all estimates, while employment figures for the previous two months were revised lower. The unemployment rate also climbed to 4.2%, reinforcing signs of a cooling labour market and more cautious hiring amid elevated costs. Money markets subsequently reduced expectations for an October Fed hike, putting further downward pressure on Treasury yields. Falling oil prices added to the disinflationary backdrop, with Brent crude slipping below $100 a barrel and easing concerns over renewed energy-driven inflation."
+    },
+    {
+      "id": "5124264",
+      "time": "2026-10-02 20:42:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國9月新增就業人數遠低於預期 8月就業資料被下修】美國9月新增就業人數遠低於預期，顯示勞動力市場乃至整體經濟意外走弱。 美國勞工統計局週五公佈，經季節性調整後，當月非農就業新增2.9萬人，失業率升至4.2%。道瓊斯調查的經濟學家此前預期新增就業8.4萬人，失業率4.1%。 除9月資料疲軟外，8月就業資料被下修，新增就業修正為13.3萬人；7月資料由正轉負，非農就業減少1萬人。整體修正後，就業人數較此前公佈值合計少增6萬人。"
+    },
+    {
+      "id": "5124263",
+      "time": "2026-10-02 20:41:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉能可預計Alumbrera專案將於2027年下半年首次投產，並預計2028年上半年實現產出。"
+    },
+    {
+      "id": "5124262",
+      "time": "2026-10-02 20:40:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉能可獲得RIGI對阿瓜裡卡專案的批准。"
+    },
+    {
+      "id": "5124261",
+      "time": "2026-10-02 20:39:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我十分欣喜地宣佈，韓國相關協議持續迎來利好！這項增強石油採收專案價值 84 億美元。油氣產量提升，將奠定美國未來在全球的能源主導地位與能源安全！"
+    },
+    {
+      "id": "5124260",
+      "time": "2026-10-02 20:39:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：“非常高興”宣佈韓國協議越來越好。"
+    },
+    {
+      "id": "te:markets:589170",
+      "time": "2026-10-02 20:39:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "DXY Snaps 4-Day Gain After Jobs Report — The dollar index slipped below 102 on Friday, ending a four-session advance as unexpectedly weak US employment data reduced expectations for further Federal Reserve tightening. Nonfarm payrolls increased by just 29,000 in September, falling short of estimates. The figures also incorporated downward revisions to employment growth in the previous two months. Meanwhile, the unemployment rate edged up to 4.2%, pointing to a more cautious hiring environment as businesses contend with higher costs. The disappointing report prompted money markets to scale back expectations of an interest-rate increase at the Fed’s October meeting. Falling oil prices provided additional support, with Brent crude dropping below $100 a barrel and easing some concerns over energy-driven inflation. Despite Friday’s decline, the dollar remained on track for a 0.9% weekly gain, which would mark its third consecutive weekly advance."
+    },
+    {
+      "id": "5124259",
+      "time": "2026-10-02 20:39:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：韓國協議越來越好。"
+    },
+    {
+      "id": "5124258",
+      "time": "2026-10-02 20:39:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美債收益率在非農公佈後下跌】美國勞工部資料顯示 9 月美國新增就業不及預期，美債收益率大幅下行。10 年期美債收益率近期下跌近 0.1 個百分點，報 5.15%；對短期利率預期最為敏感的 2 年期美債收益率，也出現相仿跌幅。"
+    },
+    {
+      "id": "5124257",
+      "time": "2026-10-02 20:39:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：為強化採油專案撥款84億美元。"
+    },
+    {
+      "id": "5124256",
+      "time": "2026-10-02 20:38:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "RIVIAN股價上漲2.4%，此前該公司重申了交付預期。"
+    },
+    {
+      "id": "5124255",
+      "time": "2026-10-02 20:37:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "羅素2000股指期貨大漲1.7%。"
+    },
+    {
+      "id": "5124254",
+      "time": "2026-10-02 20:37:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "恐慌指數VIX觸及一週低點，最新下跌0.79點至15.60。"
+    },
+    {
+      "id": "5124253",
+      "time": "2026-10-02 20:36:43",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "與美聯儲政策利率掛鉤的掉期合約已不再定價今年內一次完整的加息（25個基點）。"
+    },
+    {
+      "id": "5124252",
+      "time": "2026-10-02 20:36:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500 E-迷你股指期貨上漲0.9%，納斯達克100股指期貨上漲1.2%，道瓊斯股指期貨上漲0.9%。"
+    },
+    {
+      "id": "5124251",
+      "time": "2026-10-02 20:35:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破62美元/盎司，日內漲1.74%。"
+    },
+    {
+      "id": "5124250",
+      "time": "2026-10-02 20:35:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元指數在美國就業資料公佈後小幅走低，最新下跌0.1%，報101.86。"
+    },
+    {
+      "id": "5124249",
+      "time": "2026-10-02 20:35:31",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【非農就業資料不及預期後，美聯儲維持利率不變機率飆升至85%】Kalshi 預測市場目前定價：美聯儲 10 月按兵不動的機率達 85%。本次非農就業僅新增 2.9 萬人，而市場預期為 8.4 萬人。失業率攀升至 4.2%，引發市場對美聯儲政策前景的大幅鴿派重定價。"
+    },
+    {
+      "id": "te:economy:589164",
+      "time": "2026-10-02 20:35:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "US Unemployment Rate Rises to 4.2% in September — The US unemployment rate rose to 4.2% in September 2026, up from 4.1% in August and slightly above market expectations of 4.1%. The number of unemployed increased by 78,000 to 7.11 million, while total employment surged by 406,000 to 163.15 million. The labor force expanded by 485,000 to 170.26 million, pushing the labor force participation rate up to 61.8% from 61.6%. The employment-to-population ratio also edged higher to 59.2%. Meanwhile, the broader U-6 unemployment rate, which includes unemployed, underemployed and marginally attached workers, eased to 7.6% from 7.7%."
+    },
+    {
+      "id": "5124248",
+      "time": "2026-10-02 20:35:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報62.40美元/盎司。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610023888386236",
+      "time": "2026-10-02 20:34:37",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "交易員削減對美聯儲10月加息的押注。"
+    },
+    {
+      "id": "5124247",
+      "time": "2026-10-02 20:33:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國經濟資料公佈後，歐元區兩年期國債收益率小幅回落，德國兩年期國債收益率最新下跌11個基點，報2.9449%。"
+    },
+    {
+      "id": "5124246",
+      "time": "2026-10-02 20:33:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國2至7年期國債收益率當日下跌至少10個基點。"
+    },
+    {
+      "id": "5124245",
+      "time": "2026-10-02 20:33:22",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【非農資料公佈後，美聯儲10月維持利率不變的機率為71.8%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為71.8%，累計加息25個基點的機率為28.2%。美聯儲到12月維持利率不變的機率為18.8%，累計加息25個基點的機率60.4%，累計加息50個基點的機率為20.8%。"
+    },
+    {
+      "id": "5124244",
+      "time": "2026-10-02 20:33:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐元在美國就業資料公佈後兌美元上漲，最新上漲0.05%，報1.1254美元。"
+    },
+    {
+      "id": "te:economy:589162",
+      "time": "2026-10-02 20:32:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Average Hourly Earnings",
+        "Importance 2"
+      ],
+      "text": "US Wages Rise Less than Expected — Average hourly earnings for all employees on US private nonfarm payrolls edged up by 5 cents, or 0.1% over a month to $37.81 in Setember 2026, after a 0.3% increase in August and below market forecasts of 0.3%. In September, average hourly earnings of private-sector production and nonsupervisory employees rose by 7 cents, or 0.2% to $32.60. Over the past 12 months, average hourly earnings have increased by 3% in September, the least since May 2021, following a 3.1% advance in August and also below the expected 3.2%."
+    },
+    {
+      "id": "5124243",
+      "time": "2026-10-02 20:32:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元/日元延續跌勢，在非農資料公佈後下跌0.7%至157.02。"
+    },
+    {
+      "id": "5124242",
+      "time": "2026-10-02 20:32:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員減少對歐洲央行利率的押注；預計只會再加息兩次。"
+    },
+    {
+      "id": "5124241",
+      "time": "2026-10-02 20:32:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受疲軟的美國就業資料提振，新興市場外匯指數大幅上漲，新興市場股票抹去跌幅。"
+    },
+    {
+      "id": "5124240",
+      "time": "2026-10-02 20:32:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員減少了對美聯儲10月加息的押注。"
+    },
+    {
+      "id": "5124239",
+      "time": "2026-10-02 20:31:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美國短期利率期貨在弱於預期的就業資料公佈後大幅上漲，交易員縮減對美聯儲加息的押注。"
+    },
+    {
+      "id": "te:economy:589161",
+      "time": "2026-10-02 20:31:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Non Farm Payrolls",
+        "Importance 3"
+      ],
+      "text": "US Employment Growth Well Below Forecasts — The US economy added 29K jobs in September 2026, following a downwardly revised 133K in August and well below forecasts of 90K. Increases were seen in health care employment (17K), mostly ambulatory health care services (13K) and in hospitals (12K); construction (11K) and manufacturing (9K), mostly plastics and rubber products (5K) and machinery (5K). In contrast, falls were recorded for financial activities (-7K). Employment also showed little change in other major industries, including mining, quarrying, and oil and gas extraction; wholesale trade; retail trade; transportation and warehousing; information; professional and business services; social assistance; leisure and hospitality; other services; and government. The change in total nonfarm payroll employment for July was revised down by 31K to -10K, and the change for August was revised down by 29K to +133K. With these revisions, employment in July and August combined is 60K lower than previously reported."
+    },
+    {
+      "id": "5124238",
+      "time": "2026-10-02 20:31:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨上漲超過1%。"
+    },
+    {
+      "id": "5124237",
+      "time": "2026-10-02 20:31:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在9月就業報告公佈後下跌；10年期美國國債收益率最新下行5.6個基點，報5.18%。"
+    },
+    {
+      "id": "5124236",
+      "time": "2026-10-02 20:31:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4224.22美元/盎司。"
+    },
+    {
+      "id": "5124235",
+      "time": "2026-10-02 20:31:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4220美元/盎司，日內漲1.12%。"
+    },
+    {
+      "id": "5124234",
+      "time": "2026-10-02 20:31:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率最新下跌7.7個基點，報4.71%。"
+    },
+    {
+      "id": "5124233",
+      "time": "2026-10-02 20:31:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率下跌2.8個基點，報5.575%。"
+    },
+    {
+      "id": "5124232",
+      "time": "2026-10-02 20:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "嘉能可計劃向阿根廷Agua Rica專案投資40億美元。"
+    },
+    {
+      "id": "5124231",
+      "time": "2026-10-02 20:31:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破87000美元，日內漲2.65%。"
+    },
+    {
+      "id": "5124230",
+      "time": "2026-10-02 20:31:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受非農就業資料影響，標普500指數期貨上漲0.7%。"
+    },
+    {
+      "id": "5124229",
+      "time": "2026-10-02 20:31:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "9月就業資料疲軟後，美國國債價格上漲。"
+    },
+    {
+      "id": "5124228",
+      "time": "2026-10-02 20:31:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1204.25美元/盎司。"
+    },
+    {
+      "id": "5124227",
+      "time": "2026-10-02 20:30:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數期貨在盤前交易中升至高位。"
+    },
+    {
+      "id": "5124226",
+      "time": "2026-10-02 20:30:36",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國9月平均每小時工資月率 0.1%，預期0.30%，前值0.30%。"
+    },
+    {
+      "id": "5124225",
+      "time": "2026-10-02 20:30:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月季調後非農就業人口 2.9萬人，預期9萬人，前值由16.2萬人修正為13.3萬人。"
+    },
+    {
+      "id": "5124224",
+      "time": "2026-10-02 20:30:28",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國9月失業率 4.2%，預期4.1%，前值4.10%。美國9月平均每小時工資年率 3%，預期3.2%，前值3.10%。"
+    },
+    {
+      "id": "5124223",
+      "time": "2026-10-02 20:30:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月份非農就業人口增加29000，預估為90000。"
+    },
+    {
+      "id": "5124222",
+      "time": "2026-10-02 20:30:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報61.63美元/盎司。"
+    },
+    {
+      "id": "5124221",
+      "time": "2026-10-02 20:30:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4210美元/盎司，日內漲0.86%。"
+    },
+    {
+      "id": "mkt:01a0fc97-d745-7ee0-a788-3ccf2ce71587",
+      "time": "2026-10-02 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Labour Force Participation Rate (Sep) | actual 61.8% | consensus 61.6% | previous 61.60%"
+    },
+    {
+      "id": "mkt:01a0fc97-d63a-7ee0-a788-30ea056e215d",
+      "time": "2026-10-02 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Unemployment Rate (Sep) | actual 4.2% | consensus 4.1% | previous 4.10%"
+    },
+    {
+      "id": "mkt:01a0fc97-d5b1-7ee0-a788-2d35b773302b",
+      "time": "2026-10-02 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Hourly Earnings (YoY) (Sep) | actual 3% | consensus 3.2% | previous 3.10%"
+    },
+    {
+      "id": "mkt:01a0fc97-d400-7ee0-a788-20d51af00615",
+      "time": "2026-10-02 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | U6 Unemployment Rate (Sep) | actual 7.6% | consensus 7.7% | previous 7.70%"
+    },
+    {
+      "id": "mkt:01a0fc97-d326-7ee0-a788-1e46b380c641",
+      "time": "2026-10-02 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Private Nonfarm Payroll Employment (Sep) | actual 46000K | consensus 85000K | previous 127000K"
+    },
+    {
+      "id": "mkt:01a0fc97-d2f5-7ee0-a788-1332246616cc",
+      "time": "2026-10-02 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Nonfarm Payroll Employment (Sep) | actual 29000K | consensus 90000K | previous 162000K"
+    },
+    {
+      "id": "5124220",
+      "time": "2026-10-02 20:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4250美元/盎司，日內漲1.24%。"
+    },
+    {
+      "id": "mkt:01a0fc97-d158-7ee0-a788-08d12f1333a6",
+      "time": "2026-10-02 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Government Employment SA (Sep) | actual -17000K | previous 35000K"
+    },
+    {
+      "id": "mkt:01a0fc97-d007-7ee0-a788-02f9c319862d",
+      "time": "2026-10-02 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Hourly Earnings (MoM) (Sep) | actual 0.1% | consensus 0.30% | previous 0.30%"
+    },
+    {
+      "id": "mkt:01a0fc97-cf3f-7ee0-a787-fe166aad7a2a",
+      "time": "2026-10-02 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing Employment SA (Sep) | actual 9000K | consensus 10000K | previous 16000K"
+    },
+    {
+      "id": "mkt:01a0fc97-ceb9-7ee0-a787-f31e70abe90d",
+      "time": "2026-10-02 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Workweek (Sep) | actual 34.4 | consensus 34.3 | previous 34.4"
+    },
+    {
+      "id": "5124219",
+      "time": "2026-10-02 20:30:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破62美元/盎司，日內漲1.52%。"
+    },
+    {
+      "id": "5124218",
+      "time": "2026-10-02 20:30:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4240美元/盎司，日內漲0.97%。"
+    },
+    {
+      "id": "5124217",
+      "time": "2026-10-02 20:29:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rivian重申2026年交付量指引為6.5萬至7萬輛。"
+    },
+    {
+      "id": "5124216",
+      "time": "2026-10-02 20:29:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦外長：透過霍爾木茲海峽不應被收取任何費用】巴基斯坦外交部長2日表示，透過霍爾木茲海峽不應收取任何費用。（央視新聞）"
+    },
+    {
+      "id": "5124215",
+      "time": "2026-10-02 20:28:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國第一海務大臣格溫·詹金斯爵士：重返法羅群島應發出明確無誤的資訊——英國與丹麥以及我們的其他聯合遠征軍盟友已準備好保護那些保障我們國家安全的海域、島嶼和重要航道。"
+    },
+    {
+      "id": "5124214",
+      "time": "2026-10-02 20:27:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦外長：在協議全面運作之前，無法考慮新的加入請求，這一過程可能需要長達一年時間。"
+    },
+    {
+      "id": "5124213",
+      "time": "2026-10-02 20:25:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部長：超過六個國家有意加入麥加共同防禦協議。"
+    },
+    {
+      "id": "5124212",
+      "time": "2026-10-02 20:24:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重大突破！國產萬米鑽機第二口超深井完鑽】記者從中國石油瞭解到，今天（10月2日）18時，位於塔克拉瑪干沙漠北緣的塔里木油田震探1井完鑽，鑽井深度8345米，這也是我國首部12000米鑽機打的第二口超深井，標誌著我國在超深井鑽探領域取得跨越式進展。 震探1井位於新疆溫宿縣境內，肩負探索塔里木盆地深層西北緣震旦系大型構造圈閉含油氣性、落實油氣增儲新陣地的重要使命。這口超深井採用我國首部自主研發的12000米鑽機進行鑽探，82米鋼鐵鑽塔可承載665噸極限載荷，最大設計鑽進深度12000米，徹底終結萬米深井鑽機長期依賴進口的局面。這是該鑽機的第二次成功應用，鑽機搭載著國內功率最大的6000馬力鑽井絞車，900噸提升系統可輕鬆吊起兩列動車組，其智慧控制系統實現了鑽井作業全流程自動化，標誌著國產鑽機已達到世界領先水平。 （央視財經）"
+    },
+    {
+      "id": "5124211",
+      "time": "2026-10-02 20:22:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國兩年期國債收益率漲幅進一步擴大，最新上漲13.8個基點，報3.8337%。"
+    },
+    {
+      "id": "5124210",
+      "time": "2026-10-02 20:22:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【經濟學家預測美國勞動力市場9月新增就業崗位：84000】經濟學家估算，美國勞動力市場9月預計新增就業崗位84000個。這一數字較8月大幅增加的162000個崗位更為溫和，但可能仍足以讓美聯儲在未來幾個月繼續將通脹作為需要解決的核心問題。"
+    },
+    {
+      "id": "te:economy:589160",
+      "time": "2026-10-02 20:21:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "Brazil Industrial Production Retreats — Brazil’s industrial production fell 0.6% in August 2026 from July, reversing the 0.1% increase recorded in the previous month. All four major economic categories and 16 of the 25 industrial sectors surveyed recorded declines. Among the major categories, semi- and non-durable consumer goods (-1.7%) and durable consumer goods (-1.0%) posted the largest declines, followed by capital goods (-0.6%) and intermediate goods (-0.2%). Among activities, the largest negative influences came from tobacco products (-23.4%), pharmaceutical and pharmaceutical chemical products (-5.5%), and extractive industries (-0.7%). Of the nine activities that increased, food products (1.0%) provided the strongest positive influence. Year over year, industrial output fell 1.2%, while production increased 0.8% year to date."
+    },
+    {
+      "id": "5124209",
+      "time": "2026-10-02 20:20:52",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股股指期貨上漲，納斯達克100指數期貨漲0.62%，道指期貨漲0.41%，標普500指數期貨漲0.4%。\n②歐洲斯托克50指數漲0.52%，法國CAC40指數漲0.38，德國DAX指數漲0.9%。\n③WTI原油期貨跌幅3.18%，報89.9美元/桶。\n④歐盟發言人表示，歐盟準備在國際能源署協調下就可能釋放庫存採取集體行動。\n⑤據知情人士透露，博通公司的華爾街承銷團正著手籌集600億美元全新AI晶片融資，受益方包括Anthropic以及其他企業。\n⑥法國債券風險溢價升至150個基點，為2012年以來首次。\n⑦耐克美股盤前一度跌10%，公司預測全年營收下滑，2027財年第一季度銷售額不及預期。\n⑧希捷科技股價下跌11.4%，西部資料股價下滑7.1%。報道稱，東芝將投資600億日元將其硬碟產能翻倍。\n⑨加密股盤前上漲，因比特幣上漲2%，已連續四日錄得上漲，PROSHARES比特幣策略ETF上漲2%，ISHARES比特幣信託上漲1.9%，RIOT PLATFORMS上漲2.5%，HUT 8上漲1.9%，MARA HOLDINGS上漲2.8%。"
+    },
+    {
+      "id": "5124208",
+      "time": "2026-10-02 20:19:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司在阿馬帕海岸附近發現新油田。"
+    },
+    {
+      "id": "5124207",
+      "time": "2026-10-02 20:19:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【經濟學家預計非農失業率預期：4.1%】經濟學家預計，9 月失業率將與 8 月持平，不過他們同時預期，9 月新增就業崗位數量將遠低於前一個月。但正如經濟記者賈斯汀・拉哈特近期撰文指出，要維持勞動力市場的穩定，經濟體或許並不需要創造大量就業崗位。"
+    },
+    {
+      "id": "5124206",
+      "time": "2026-10-02 20:15:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦方面表示，《麥加共同防務協議》成員國將於下週在利雅得舉行會議。"
+    },
+    {
+      "id": "5124205",
+      "time": "2026-10-02 20:12:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部長：霍爾木茲海峽通行不應收取任何費用。"
+    },
+    {
+      "id": "5124204",
+      "time": "2026-10-02 20:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【迪拜航空機長稱遭襲後感到飛機俯衝】今天（10月2日），迪拜航空安全事件中遇刺的印度籍機長斯米特·馬奇切爾與印度總理莫迪通話，向莫迪講述了事發時的情況。這也是他在事發後的首次發聲。馬奇切爾說，他遭襲倒地後，感覺到飛機在俯衝。他告訴自己，“這是最後一搏，要把駕駛艙的艙門開啟，不能讓機上的乘客喪命。（CCTV國際時訊）"
+    },
+    {
+      "id": "5124203",
+      "time": "2026-10-02 20:11:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌瑞郎跌幅擴大，下跌0.8%至0.9270，創7月22日以來新低。"
+    },
+    {
+      "id": "5124202",
+      "time": "2026-10-02 20:09:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Integra Lifesciences股價下跌9.6%，此前該公司下調了全年預期。"
+    },
+    {
+      "id": "5124201",
+      "time": "2026-10-02 20:03:43",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐元區9月通脹率升至3年來最高水平】歐盟統計局10月2日公佈的初步資料顯示，受能源價格大幅上漲影響，歐元區9月通脹率按年率計算為3.8%，較8月的3.2%上升0.6個百分點，為2023年9月以來最高水平。資料顯示，9月歐元區能源價格同比上漲18.8%，漲幅高於8月的14.3%，是推高整體通脹水平的主要因素；服務價格同比上漲3.2%，高於8月的3.0%；食品、酒類和菸草價格同比上漲1.4%，高於8月的1.1%；非能源工業產品價格同比上漲1.1%，低於8月的1.2%。（新華社）"
+    },
+    {
+      "id": "5124200",
+      "time": "2026-10-02 20:03:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部長：下週利雅得會議將聚焦胡塞對沙烏地阿拉伯的襲擊行動。"
+    },
+    {
+      "id": "5124199",
+      "time": "2026-10-02 20:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗神職人員：不可向美傳遞談判訴求，美方低估伊朗抵抗意志】伊朗神職人員阿亞圖拉阿拉莫哈迪表示，“官員們不應表現出讓美國認為我們需要談判的姿態。美國再次在盤算中犯錯，以為民眾的抵抗會在 11 月前結束，霍爾木茲海峽也會重新開放。我們的民眾不會受到美國施壓和威脅的影響，我希望我們的官員也不受影響，這些威脅不會對他們產生作用。遺憾的是，我們一些同僚在與美國接觸時採取了一種姿態，美國隨後向全世界宣揚，造成一種印象，好像他們才是期待談判、需要談判並希望結束戰爭的一方，而不是我們。”"
+    },
+    {
+      "id": "5124198",
+      "time": "2026-10-02 20:02:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "耐克盤前股價跌幅收窄，目前下跌7.6%。"
+    },
+    {
+      "id": "5124197",
+      "time": "2026-10-02 20:02:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "自由港麥克莫蘭公司預計，2026年第三季度合併平均已實現銅價將超過每磅6.50美元。"
+    },
+    {
+      "id": "5124196",
+      "time": "2026-10-02 20:02:04",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【非農資料公佈前，美聯儲10月維持利率不變的機率為78.4%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為78.4%，累計加息25個基點的機率為21.6%。美聯儲到12月維持利率不變的機率為20.5%，累計加息25個基點的機率63.6%，累計加息50個基點的機率為15.9%。"
+    },
+    {
+      "id": "5124195",
+      "time": "2026-10-02 20:01:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "自由港：第三季度黃金產量約23萬盎司。"
+    },
+    {
+      "id": "5124194",
+      "time": "2026-10-02 20:01:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥9月份國內汽車銷量下降至129,288輛。"
+    },
+    {
+      "id": "5124193",
+      "time": "2026-10-02 20:01:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期第二天全國道路交通總體平穩有序】記者10月2日從公安部交通管理局獲悉，國慶假期第二天，全國公路交通流量較10月1日有所下降，除京津冀、長三角、珠三角、成渝等地出入城方向部分路段有區域性車多緩行情況外，主幹公路通行總體有序。各地公安交管部門結合道路交通流量、交通違法的規律特點，加大警力投入和巡查頻次，嚴查嚴處“三超一疲勞”等交通違法行為，廣泛開展安全宣傳警示，全力維護群眾假期出行安全。（新華社）"
+    },
+    {
+      "id": "5124192",
+      "time": "2026-10-02 20:00:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "自由港麥克莫蘭公司預計2026年第三季度合併銅銷量約為7.5億磅。"
+    },
+    {
+      "id": "5124191",
+      "time": "2026-10-02 20:00:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "自由港麥克莫蘭公司預計2026年第三季度合併黃金銷量約為10萬盎司。"
+    },
+    {
+      "id": "5124190",
+      "time": "2026-10-02 20:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "自由港釋出2026年第三季度運營最新情況。"
+    },
+    {
+      "id": "5124189",
+      "time": "2026-10-02 20:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡普託宣佈阿根廷投資入籍計劃。"
+    },
+    {
+      "id": "5124188",
+      "time": "2026-10-02 19:57:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "EchoStar旗下Dish DBS退出第11章破產程式。"
+    },
+    {
+      "id": "5124187",
+      "time": "2026-10-02 19:57:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝商所第三季度日均成交量為2940萬張合約。"
+    },
+    {
+      "id": "5124186",
+      "time": "2026-10-02 19:57:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊表示，其回應將比上一次更具殺傷力。"
+    },
+    {
+      "id": "5124185",
+      "time": "2026-10-02 19:57:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊表示已做好應對任何威脅和襲擊的準備。"
+    },
+    {
+      "id": "5124184",
+      "time": "2026-10-02 19:56:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國10年期國債收益率觸及4.989%，為2002年以來最高水平。"
+    },
+    {
+      "id": "te:markets:589148",
+      "time": "2026-10-02 19:56:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures at Near 1-Month High — Arabica coffee futures surged to around $2.95 per pound, their highest since early September, partly due to quality concerns over Brazil's 2026 crop and uncertainty about the next season. Although Brazil is heading toward a record crop this year, recent heavy rainfall in the world's largest coffee producer not only delayed harvest but also affected the drying process of highest quality beans. This also means less coffee will be available to replenish depleted stocks in ICE-certified warehouses in both the US and Europe. Certified Arabica coffee stocks on ICE remain historically tight, hovering at a 27-year low in September before recovering somewhat. Meanwhile, traders continued to monitor weather conditions which could prove critical for the 2027 coffee crop as El Niño poses a potential threat. The crop is entering its flowering period, with concerns mounting over limited rainfall in key Arabica-producing areas, particularly Minas Gerais."
+    },
+    {
+      "id": "5124183",
+      "time": "2026-10-02 19:56:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "芝商所公佈9月及第三季度平均日成交量創歷史新高，各資產類別成交量均實現增長推動這一表現。"
+    },
+    {
+      "id": "5124182",
+      "time": "2026-10-02 19:55:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊斯蘭革命衛隊就“真實承諾2”行動兩週年發表宣告稱，10月10日是歷史性且影響深遠的“真實承諾2”行動以及伊斯蘭革命衛隊航空航天部隊2023年那次歷史性光榮打擊的紀念日。"
+    },
+    {
+      "id": "5124181",
+      "time": "2026-10-02 19:55:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數收盤下跌0.3%，報168155.50點。"
+    },
+    {
+      "id": "5124180",
+      "time": "2026-10-02 19:54:39",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利將英偉達列為其首選半導體股】摩根士丹利重新將英偉達列為其首選半導體股，理由是英偉達擁有強勁的市場地位，且估值具有吸引力。目前，英偉達股價對應摩根士丹利對其2028財年盈利預期的市盈率約為15倍，與此同時，市場對其盈利的預期仍在不斷上調。摩根士丹利表示，人工智慧產業的瓶頸正從晶片供應轉向資料中心建設和融資；與此同時，英偉達擁有廣泛的全球客戶基礎，因此能夠靈活地根據可獲得的電力容量拓展業務。"
+    },
+    {
+      "id": "5124179",
+      "time": "2026-10-02 19:54:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：全球結構性融資信貸評級呈現上升勢頭。"
+    },
+    {
+      "id": "5124178",
+      "time": "2026-10-02 19:54:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊地面部隊稱，受敵方支援的恐怖分子在該地區遭遇慘敗。"
+    },
+    {
+      "id": "5124177",
+      "time": "2026-10-02 19:51:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟輪值主席國將於當地時間15:30召開常駐代表委員會（COREPER I）會議，討論全球能源形勢。"
+    },
+    {
+      "id": "5124176",
+      "time": "2026-10-02 19:51:10",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國經濟與法國財政問題推動資金湧向德國國債】德國政府債券在全球債券拋售中成為首要避險資產，因對美國經濟過熱和歐洲其他地區財政狀況的擔憂使投資者幾乎沒有其他選擇。本週，10年期德債收益率下降0.2個百分點，而美國和法國等國的收益率繼續飆升，分別上升0.05和0.22個百分點。瑞銀歐洲利率策略主管Reinout De Bock表示：“對安全資產（德國國債）的需求正在上升。”他指出，當前正處於一個“前所未有的經濟週期，經濟增長強勁，但能源價格風險依然存在，且資本需求不斷擴大”。先鋒集團國際利率主管Ales Koutny表示：“歐洲核心國家資產正成為避險配置物件。”他提到德國，也提到荷蘭和瑞士。“首先，它們有歷史性優勢，即更低的債務/GDP比率、更好的財政可信度和更低的政策不確定性。”他還補充說，“我們看到的交易平倉規模非常驚人”，因為對沖基金被迫拋售熱門交易，例如押注義大利債券本週表現優於德債。"
+    },
+    {
+      "id": "5124175",
+      "time": "2026-10-02 19:49:55",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "愛麗捨宮訊息：法國總統馬克龍將於當地時間週五下午2點30分主持召開七國集團領導人視訊會議，會議聚焦全球能源局勢。"
+    },
+    {
+      "id": "5124174",
+      "time": "2026-10-02 19:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北國補範圍擴大 機器人、數碼相機、無人機、血壓儀等均可補貼15%】為貫徹落實《商務部等8部門關於加快“人工智慧+消費”發展的實施意見》有關要求，進一步釋放湖北省智慧終端產品消費潛力，推動人工智慧與消費深度融合，提升居民居家生活品質，湖北省對2026年消費品以舊換新新增品類補貼政策作出最佳化調整，新規自2026年10月1日起正式實施。本次調整在原有《2026年湖北省消費品以舊換新新增品類補貼工作方案》基礎上開展，補貼品類總數保持10類不變，補貼申領流程、稽核規則等其餘政策要求全部維持不變，僅對補貼品類範圍進行重構最佳化。調整中，取消智慧音箱、智慧空氣清淨機、呼吸機（含製氧機）等原有補貼品類；對部分品類拆分重組，將原先歸入智慧服務機器人的掃洗地機、擦窗機器人單獨設立“智慧清潔裝置”品類，把智慧洗碗機擴容升級為“智慧廚電”，新增智慧消毒櫃納入補貼範圍；同時，拓寬智慧服務機器人內涵，新增具身機器人、炒菜機器人、外骨骼機器人、陪伴類機器人/機器狗等產品。"
+    },
+    {
+      "id": "5124173",
+      "time": "2026-10-02 19:46:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普行程：赴阿拉巴馬州發表講話】\n1.10月2日12:02（美國中部時間10月1日晚上十一點零二分）：抵達達拉斯沃思堡國際機場\n2.12:15（當地時間晚上十一點十五分）啟程返回華盛頓。\n3.10月2日14:25（美東時間凌晨兩點二十五分）：抵達安德魯斯聯合基地，隨後返回白宮，於14:54（美東時間凌晨兩點五十四分）抵達。\n4.10月2日20:00（美東時間上午八點）：在白宮進行行政時間活動，閉門進行。\n5.10月2日23:00（美東時間上午十一點）：在白宮橢圓形辦公室聽取情報簡報，閉門進行。\n6.10月3日00:30（美東時間中午十二點半）：在白宮橢圓形辦公室參加政策會議，閉門進行。\n7.時間待定：離開白宮，前往阿拉巴馬州莫比爾。白宮出發環節向媒體開放，莫比爾米切爾中心抵達環節由隨行記者團採訪。\n9.10月3日07:00（美國中部時間10月2日傍晚六點）：發表講話。\n10.時間待定：離開莫比爾返回白宮。莫比爾出發環節由隨行記者團採訪，抵達白宮環節向媒體開放。"
+    },
+    {
+      "id": "5124172",
+      "time": "2026-10-02 19:45:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部長：《麥加共同防務協議》框架下的戰略政治防務委員會會議將於近期在利雅得召開。"
+    },
+    {
+      "id": "5124171",
+      "time": "2026-10-02 19:44:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞銀預計，德國10年期國債與義大利10年期國債收益率利差將擴大至150個基點。"
+    },
+    {
+      "id": "5124170",
+      "time": "2026-10-02 19:42:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率下跌10個基點至三週低點3.41%。"
+    },
+    {
+      "id": "5124169",
+      "time": "2026-10-02 19:42:37",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【10月2日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.凝心聚力把強國建設、民族復興的宏偉藍圖變成美好現實——習近平總書記在慶祝中華人民共和國成立77週年招待會上的重要講話引發熱烈反響； 2.歡度國慶假期 感受活力中國； 3.國慶假期 全國紅色旅遊經典景區迎來客流高峰； 4.說說你眼中的中國範兒； 5.我國多舉措支援服務業擴能提質； 6.前8個月我國物流展現發展韌性； 7.今年2500億元超長期特別國債支援消費品以舊換新資金已全部下達； 8.全國重點區域生態保護紅線生態環境保護成效顯著； 9.【第二十屆亞運會】中國隊奪金勢頭不減； 10.國慶假期期間冷空氣活躍 多地涼意明顯； 11.國內聯播快訊： （1）今年1—8月科技保險為科技活動提供風險保障同比超六成； （2）今年1—8月全國完成國土綠化近7000萬畝； （3）《國鐵集團鐵路貨物運輸規程》實施； （4）我國首個三塔光伏光熱基地併網發電； （5）我國首臺國產變速抽水蓄能機組主體安裝完成； （6）第四屆“全國一刻鐘便民生活服務月”活動啟動； （7）全國城市聯合招聘高校畢業生秋季專場將推出89場就業服務活動； 12.我駐多國使館舉辦招待會等活動慶祝新中國成立77週年； 13.國際聯播快訊： （1）俄羅斯強烈抗議匈牙利驅逐其外交人員； （2）美媒稱美向中東派遣第三艘航母並增兵； （3）葉門胡塞武裝稱沙特空襲葉門多地； （4）監測機構報告稱瑞士冰川一年消融5.5%； 14.神州錦繡。"
+    },
+    {
+      "id": "5124168",
+      "time": "2026-10-02 19:42:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "一位伊朗神職人員週五表示，美國陷入政治和軍事僵局，無法改變伊朗對霍爾木茲海峽、曼德海峽或蘇伊士運河的控制。"
+    },
+    {
+      "id": "5124167",
+      "time": "2026-10-02 19:41:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【澳媒：OpenAI“失控”智慧體6月闖澳官方網站，當地政府近4個月後才收到通知】據澳大利亞廣播公司10月2日報道，美國開放人工智慧研究中心（OpenAI）表示，該公司的一個“失控”智慧體今年6月再次進入澳大利亞新南威爾士州政府的一個網站，而有關部門直到本週才獲悉該情況。新南威爾士州政府10月2日發表宣告稱，該模型進入該州國家公園和野生動物管理局一個包含歷史資訊和火災資料的網路應用程式，調查沒有發現任何針對個人資訊的未經授權訪問。據悉，這是OpenAI與其智慧體近期在澳大利亞引發系列爭議事件中的最新一起。（環球網）"
+    },
+    {
+      "id": "5124166",
+      "time": "2026-10-02 19:39:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "部分美國資料儲存公司股價盤前下跌。希捷科技股價下跌11.4%，西部資料股價下滑7.1%。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202610023888378262",
+      "time": "2026-10-02 19:39:35",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "渣打銀行預計，歐洲央行將在2028年第一季度降息25個基點。"
+    },
+    {
+      "id": "5124165",
+      "time": "2026-10-02 19:38:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟將把微軟Azure與亞馬遜AWS納入監管範圍】微軟的Azure以及亞馬遜雲科技（AWS）即將被納入歐盟針對大型科技企業的嚴格監管框架。據知情人士透露，監管機構正在完成《數字市場法案》（DMA）針對這兩家企業的調查收尾工作，結論將認定Azure與AWS符合適用該法案監管條款的條件。知情人士稱，相關決議計劃於11月釋出，目前仍為草案版本，時間存在延後可能；因相關流程尚未公開，訊息人士要求匿名。此舉代表歐盟對雲行業監管力度進一步加強。雲行業此前多次發生大規模宕機事故，造成全球各類服務大面積癱瘓，行業前景充滿不確定性。歐盟整體希望解決過度依賴非歐盟雲服務商帶來的戰略安全隱患。"
+    },
+    {
+      "id": "5124164",
+      "time": "2026-10-02 19:38:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "渣打銀行預計歐洲央行將於2028年第一季度降息25個基點。"
+    },
+    {
+      "id": "5124163",
+      "time": "2026-10-02 19:37:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "渣打銀行預計歐洲央行將於2027年第四季度降息25個基點，此前預測為第三季度降息。"
+    },
+    {
+      "id": "5124162",
+      "time": "2026-10-02 19:36:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026國慶檔新片總票房破3億】據貓眼專業版資料，2026年國慶檔新片總票房破3億，《神探之痕跡》《什麼意思夫婦》《小豬佩奇·完美假期》暫列國慶檔新片票房榜前三位。"
+    },
+    {
+      "id": "5124161",
+      "time": "2026-10-02 19:35:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "渣打銀行預計歐洲央行將於2026年12月加息25個基點，此前該行預測歐洲央行將維持利率不變。"
+    },
+    {
+      "id": "5124160",
+      "time": "2026-10-02 19:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：巴布亞紐幾內亞潘古納西南63公里處發生5.0級地震。"
+    },
+    {
+      "id": "5124159",
+      "time": "2026-10-02 19:34:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客：這些是歐星集團669顆OneWeb衛星組網的第一批次衛星。"
+    },
+    {
+      "id": "5124158",
+      "time": "2026-10-02 19:34:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【海油工程中標卡達MM EPIC2專案】據海油工程微訊，近日，公司收到卡達能源公司發來的授標通知，公司成功中標卡達MM EPIC2專案。該專案的中標，標誌著近三年公司中東區域累計簽約訂單金額突破500億元。"
+    },
+    {
+      "id": "5124157",
+      "time": "2026-10-02 19:33:32",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：沙特約有450萬桶/日的管道輸送能力可用於出口。"
+    },
+    {
+      "id": "5124156",
+      "time": "2026-10-02 19:33:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯透過東西輸油管道輸送近600萬桶/日的石油。"
+    },
+    {
+      "id": "5124155",
+      "time": "2026-10-02 19:32:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將耐克目標股價從31.00美元下調至27.00美元。"
+    },
+    {
+      "id": "te:markets:589143",
+      "time": "2026-10-02 19:31:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Sell-Off Eases — The yield on the US 10-year Treasury note fell to 5.23% on Friday, supported by a retreat in oil prices amid reports that European countries were discussing the release of strategic reserves. The decline in oil prices eased inflationary pressures for now, while the upcoming jobs report will be closely watched for signs of labor-market strength and further clues on the Fed’s policy path. Markets have pared expectations for further Fed rate hikes to just one additional increase this year, with bets shifting from October toward December. Expectations for more than three hikes over the next 12 months have also receded. The benchmark 10-year yield climbed above 5.34% this week, its highest level since 2002, amid expectations of further tightening by the Fed, the lack of a resolution to the Middle East conflict, concerns over the US fiscal and debt outlook, and resilient economic data."
+    },
+    {
+      "id": "5124154",
+      "time": "2026-10-02 19:31:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲通訊衛星組織：一網首批32顆新型低軌衛星已製造完成，啟運前往發射籌備點。"
+    },
+    {
+      "id": "5124153",
+      "time": "2026-10-02 19:30:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟正就一項調查收尾，該調查將認定Azure與AWS符合納入歐盟監管規則適用範圍的條件。"
+    },
+    {
+      "id": "5124152",
+      "time": "2026-10-02 19:30:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外匯儲備在9月25日當週降至7475.6億美元。"
+    },
+    {
+      "id": "5124151",
+      "time": "2026-10-02 19:30:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數初值下跌0.2%，報168,374.90點。"
+    },
+    {
+      "id": "5124150",
+      "time": "2026-10-02 19:29:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：當局已不再觀察到今年夏季加油站出現的那種需求激增的情況。"
+    },
+    {
+      "id": "5124149",
+      "time": "2026-10-02 19:28:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：加州一市長被控工作期間酗酒、騷擾和侮辱員工】據美國《紐約郵報》10月1日報道，美國加利福尼亞州阿納海姆市市長正面臨一起不同尋常的職場投訴，而投訴人正是她的幕僚長，投訴內容涉及酗酒、涉嫌騷擾以及市政運作嚴重失控等。（環球網）"
+    },
+    {
+      "id": "te:markets:589140",
+      "time": "2026-10-02 19:27:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Strengthens on Debt Concerns — The Swiss franc rose to 0.82 per USD, recovering from a 16-month low, as concerns over debt affordability in its European peers raised demand for save-haven assets. Elevated energy prices continue to underpin concerns over government's debt and expenditures, supporting the Swiss franc as investors seek shelter in times of increased volatility. Providing an offsetting pressure, the franc’s appeal as a funding currency for carry trades has increased. Carry trades involve investors borrowing in a low-yielding currency to fund the purchase of a currency with higher yields, putting downward pressure on the currency. Contrasting with other central banks, the Swiss National Bank left its key rate unchanged at 0% at its September meeting, leaving borrowing costs at the world’s lowest level for more than a year while scaling back its threat of currency intervention."
+    },
+    {
+      "id": "5124148",
+      "time": "2026-10-02 19:26:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國廣播電視臺：伊朗稱一名伊斯蘭革命衛隊成員死於路邊炸彈襲擊。"
+    },
+    {
+      "id": "5124145",
+      "time": "2026-10-02 19:25:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "馮德萊恩：今天，北馬其頓是一個寶貴的盟友。"
+    },
+    {
+      "id": "5124144",
+      "time": "2026-10-02 19:24:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據外媒2日報道，阿聯酋總統顧問安瓦爾·加爾賈什當天表示，迪拜航空公司客機駕駛艙衝突事件是一起“恐襲行為”。 9月30日，載有以色列乘客的迪拜航空FZ1073航班從阿聯酋迪拜飛往以色列特拉維夫途中發生安全事件。據阿聯酋媒體報道，該航班副駕駛涉嫌在駕駛艙內持刀刺傷機長，導致飛機突然急降。其他機組人員和乘客制服襲擊者後，機組重新控制飛機。（新華社）"
+    },
+    {
+      "id": "5124143",
+      "time": "2026-10-02 19:24:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元/美元三個月期權合約轉為2024年6月以來最看跌的價差。"
+    },
+    {
+      "id": "5124142",
+      "time": "2026-10-02 19:22:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期深圳口岸日均出入境客流量預計將達97萬人次】據深圳特區報，隨著國慶假期到來，跨境遊熱度大幅攀升，假期首日，深圳各大口岸迎來出入境客流高峰。據深圳邊檢部門預測，今年國慶假期，深圳口岸日均出入境客流量將達97萬人次。"
+    },
+    {
+      "id": "5124141",
+      "time": "2026-10-02 19:20:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦9月出口同比增長17.61%，9月份貿易逆差為35.55億美元。"
+    },
+    {
+      "id": "5124140",
+      "time": "2026-10-02 19:18:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曼城上訴】英超曼城俱樂部今天（10月2日）釋出宣告稱，已就獨立委員會裁定其嚴重違反英超聯賽財務規定的判決提起上訴，尋求推翻該裁決，以避免可能面臨的嚴厲制裁。英超聯賽9月29日公佈了獨立委員會針對曼城俱樂部財務違規案的裁決。該委員會認定，曼城在2009-2010至2017-2018賽季期間違反英超相關財務規定，利用虛假商業合同等，虛增收入並少報成本超過9億英鎊（約合79.68億元人民幣），並認定俱樂部在英超調查過程中未充分履行合作義務。曼城方面對裁決結果感到“失望和意外”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5124139",
+      "time": "2026-10-02 19:16:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鋼鐵工人聯合會：若英國石油公司的上訴獲得批准，美國鋼鐵工人聯合會7-1地方分會的會員每週將損失約310美元失業救濟金。"
+    },
+    {
+      "id": "5124138",
+      "time": "2026-10-02 19:15:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據報道，微軟和亞馬遜的雲業務將面臨歐盟更嚴格的審查。"
+    },
+    {
+      "id": "te:markets:589134",
+      "time": "2026-10-02 19:11:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Higher Ahead of Jobs Report — US futures moved higher on Friday, with S&P 500 futures up 0.4%, Nasdaq 100 futures gaining 0.6%, and Dow Jones futures rising nearly 180 points. The gains came as oil prices fell, easing inflation concerns and pushing Treasury yields lower after their sharp rise earlier in the week. Investors are also awaiting the September jobs report for further clues on the health of the labor market and the outlook for Fed policy. Markets continue to price in another rate hike by the Fed this year, although the odds of a move at the October meeting stand at around 24%, with expectations shifting toward December. Shares of major companies were broadly higher in premarket trading, with Nvidia up 1.2%, Apple 0.1%, Alphabet 0.5%, Microsoft 1.0%, Amazon 0.6%, Broadcom 1.2%, Meta 0.4%, and Tesla 0.8%. Despite Friday’s gains, all three major US stock indexes are on track to end the week lower. The S&P 500 dropped 1.2%, its worst week since August. The Dow fell 1.8% and the Nasdaq traded 0.8% lower."
+    },
+    {
+      "id": "te:markets:589130",
+      "time": "2026-10-02 19:08:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Italy's BTP Yield Pulls Back From 3-Year High — Italy's 10-Year BTP yield traded around 4.7%, easing from its highest level in three years of 4.74%, as traders assessed elevated inflation against Europe's fiscal backdrop. Eurozone inflation rose to its highest level in three years, as anticipated, supporting bets of a third ECB rate hike by year-end. However, mounting concerns over debt affordability and government spending linked to elevated energy costs in highly indebted member states have scaled back market bets on the scope of ECB hikes to two or three next year, down from four previously. Italy's budget deficit was confirmed at 3.1% of GDP in 2025, above the EU's EDP ceiling, although the government seeks to shrink its deficit amid reports of a planned cut in defense spending to 0.6% of output from 0.9%, with confirmation due later on Friday. The cut could ease concerns that have lifted yields to multi-year highs, as the spread between the BTP and safe-haven Bund recorded its biggest daily jump since 2020 on October 1st."
+    },
+    {
+      "id": "te:markets:589126",
+      "time": "2026-10-02 18:50:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Gains Ground — Frankfurt’s DAX 40 extended early gains on Friday, rising over 1% to cross 25,200, led by tech stocks, while falling oil prices eased inflation concerns and helped drive bond yields lower. Reports that European countries could release oil reserves following a French proposal offered some relief. Meanwhile, Eurozone inflation accelerated to 3.8% in September, its highest level in three years and above analysts’ expectations of 3.6%. The recent bond selloff could nevertheless make the ECB more cautious about raising interest rates again. Despite the improved market sentiment, geopolitical risks remained in focus, with prospects for a truce between the United States and Iran appearing increasingly distant. The US is reportedly sending a third aircraft carrier to the region, along with an additional 10,000 American troops. Tech stocks saw strong buying, with Infineon Technologies surging over 5% and AI related Siemens Energy up 2.7%. Industrials, autos and telecom also performed solidly."
+    },
+    {
+      "id": "te:markets:589119",
+      "time": "2026-10-02 18:15:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss Bond Yield Eases to Three-Week Low — The yield on the Swiss 10-year government bond fell below 0.58%, its lowest level in three weeks, as concerns over debt affordability in its European peers raised demand for save-haven assets. Elevated energy prices continue to underpin concerns over government's debt and expenditures. However, Switzerland's inflationary pressures remain relatively contained, as inflation remains within the Swiss National Bank's 0-2% target and officials see the acceleration as temporary. Swiss inflation rose to 1% in September, its highest level in two years, amid higher oil prices and a weaker Swiss franc. The SNB kept its policy rate at 0% at its September meeting, as widely anticipated, leaving borrowing costs at the world’s lowest level for more than a year while scaling back its threat of currency intervention. Most economists expect the policy rate to remain unchanged through 2027, although markets continue to price in a rate hike by year-end and roughly three hikes by the end of 2027."
+    },
+    {
+      "id": "te:markets:589113",
+      "time": "2026-10-02 17:59:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Futures Retreat — US gasoline futures fell below $3.35 a gallon, retreating from a one-week high, amid reports that EU countries are considering the release of diesel and oil reserves. European governments are discussing a French proposal following US pressure to ease elevated energy prices. President Trump has threatened a diesel export ban otherwise, despite acknowledging that such a measure could hurt gasoline prices, which have already eased from recent peaks following the end of the summer driving season. Nevertheless, global fuel markets remain tight as EIA data showed that US gasoline inventories fell by 1.7 million barrels in the week ended September 25th, while refinery utilization stood at 92.5%. Russia extended restrictions on most diesel exports through October, although it is considering a partial lift in case of overproduction as the domestic fuel market is reportedly balanced. China also suspended some of its oil-product exports to destinations beyond Hong Kong and Macau for October."
+    },
+    {
+      "id": "te:markets:589112",
+      "time": "2026-10-02 17:39:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Extend Gains — European stocks extended their gains on Friday, with the STOXX 50 rising 1.1% and the STOXX 600 adding 0.9%, supported by lower oil prices and government bond yields. Reuters reported that EU countries discussed a French proposal to release diesel stocks. Brent crude subsequently fell toward $99 a barrel, helping to ease inflationary pressures and push government bond yields lower, including French yields, which had remained under pressure amid concerns over the country’s political and fiscal outlook. Tech stocks posted strong gains, while retailers, industrials and chemical companies also advanced. ASML Holding rose 2.4%, Siemens gained 1.1%, and Inditex added 2.2%. Infineon (5.9%), Thyssenkrupp (4.5%) and Stellantis (4.1%) were among the top performers on the STOXX 600, while Sanofi was the biggest laggard, falling 3.2%. Despite Friday’s gains, the STOXX 50 remains down 2.0% for the week, while the STOXX 600 has fallen 1.9%, on track for their worst weekly performance since April."
+    },
+    {
+      "id": "te:markets:589111",
+      "time": "2026-10-02 17:36:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "German Bund Yields Ease as Bond Selloff Pauses — Germany’s 10-year Bund yield fell further below 3.45% after touching a 17-year high, as the sharp selloff in European government bonds paused and investors weighed demand for safe-haven assets against expectations for further ECB rate hikes through 2027. French bond yields remained near a more than two-decade high amid concerns over public finances, while political uncertainty ahead of the 2027 elections in France and Italy added to fiscal concerns. Investors also digested stronger-than-expected Eurozone inflation, which accelerated to 3.8% last month, its highest since September 2023 and well above the ECB’s 2% target, driven largely by higher fuel prices. ECB’s Isabel Schnabel said the coming months would be key to assessing the energy shock and determining how high rates need to rise, signaling a cautious approach. Still, markets price one further 25-basis-point hike by December, with a small chance of a second, and see the deposit rate reaching around 3.4% by late 2027."
+    },
+    {
+      "id": "te:economy:589108",
+      "time": "2026-10-02 17:26:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Croatia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Croatia Inflation Rises to 4-Month High — Croatia’s annual inflation rate rose to 4.7% in September 2026 from 4.2% in the previous month, marking the highest reading since May 2026, according to a preliminary estimate. The uptick was primarily driven by higher energy prices, which surged 20.5% year-on-year, reflecting ongoing pressures associated with the Middle East conflict. Services prices also continued to rise strongly, climbing by 7.6%, while food, beverages and tobacco prices edged up by 0.2%. Meanwhile, prices for non-food industrial goods without energy fell by 1.4%. On a monthly basis, consumer prices increased by 0.9%, following a 0.3% gain in the previous month."
+    },
+    {
+      "id": "te:markets:589107",
+      "time": "2026-10-02 17:24:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Zambia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Zambia 10Y Bond Yield Hits Near 14-year Low — Zambia 10 Year Government Bond Yield decreased to 14.77%, the lowest since October 2012. Over the past 4 weeks, Zambia Government Bond 10y lost 102.00 basis points, and in the last 12 months, it decreased 371.00 basis points."
+    },
+    {
+      "id": "te:markets:589106",
+      "time": "2026-10-02 17:16:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Holds Near Recent Low Despite Stronger Inflation — The euro remained below $1.13, close to its lowest level since May 2025, despite stronger-than-expected Eurozone inflation data. Annual inflation accelerated to 3.8% last month, its highest level since September 2023 and well above the ECB’s 2% target, driven largely by higher fuel prices. Despite the renewed inflationary pressure, the euro remains under pressure as markets expect the ECB to tighten monetary policy more gradually than the Federal Reserve. Further ECB rate hikes are priced in over the coming year, with the next move potentially coming as early as December. ECB Executive Board member Isabel Schnabel said Wednesday that the coming months would be important for assessing the impact of the energy shock and determining how high interest rates need to rise. Her comments suggest a cautious, wait-and-see approach as the US-Iran conflict enters its eighth month. The eurozone’s weak outlook could also limit aggressive ECB tightening, with GDP seen growing just 0.9% this year."
+    },
+    {
+      "id": "te:markets:589105",
+      "time": "2026-10-02 17:15:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Falls for 2nd Day — US heating oil prices slipped below $4.50 per gallon on Friday, extending losses for the second session, as efforts to relieve a global fuel shortage raised hopes of improved availability. European Union members are discussing a proposal to release emergency oil and diesel reserves, following pressure from Washington to help stabilise prices and avoid restrictions on US fuel exports. Treasury Secretary Scott Bessent urged European partners to contribute, while President Donald Trump was less inclined to impose an export ban because of the risk of further domestic price increases. However, heating oil remains close to its mid-September record of $5.20 per gallon. In the US, EIA data showed distillate inventories at their lowest seasonal level on record. Supply has been constrained by disruptions in the Persian Gulf, Ukrainian attacks on Russian refineries and Moscow’s extension of its diesel-export restrictions through October."
+    },
+    {
+      "id": "te:economy:589104",
+      "time": "2026-10-02 17:14:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Retail Sales Growth at 3-Month High — Retail sales in Hong Kong rose 2.9% year-on-year in August 2026, accelerating from an upwardly revised 2.4% in July and marking the strongest growth since May. Sales of consumer durable goods surged (13.4% vs 2.5% in July), led by electrical goods (28.5% vs 11.6%), while growth also picked up for food, alcoholic drinks and tobacco (1.5% vs 1.2%) and other consumer goods (6.2% vs 5.5%). Moreover, sales rebounded for supermarkets (1.5% vs -0.1%) and clothing, footwear and allied products (0.3% vs -2.1%), while the decline in fuels eased (-24.2% vs -27.8%). In contrast, sales fell for jewellery, watches and clocks, and valuable gifts (-1.6% vs 9.6%) and department stores (-2.8% vs 0.3%). On a monthly basis, retail sales rose 2.9%, rebounding from a 0.9% decline in July."
+    },
+    {
+      "id": "te:economy:589103",
+      "time": "2026-10-02 17:10:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Cyprus",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Cyprus Retail Sales Growth Slows in August — Retail sales in Cyprus increased 7.8% year-on-year in August 2026, easing from 8.9% growth in July. Growth eased across several categories, including information and communication equipment (24.8% vs 25.6%), other household equipment (12.0% vs 16.9%), cultural and recreation goods (12.7% vs 13.2%), flowers, plants, watches, jewellery, optical goods and second-hand goods (1.3% vs 3.7%), and food, beverages and tobacco in non-specialised stores (5.1% vs 6.0%). Meanwhile, growth increased for clothing and footwear (16.7% vs 16.4%) and pharmaceuticals, orthopedic goods and cosmetics (7.1% vs 6.5%). Sales of food, beverages and tobacco in specialized stores also improved slightly, although remaining negative (-1.0% vs -0.9%). In contrast, automotive fuel sales fell (-1.5% vs 3.4%) and retail sales not in stores declined sharply (-7.0% vs 17.0%). From January to August, retail sales excluding automotive fuel increased 6.4% compared with the same period a year earlier."
+    },
+    {
+      "id": "te:economy:589101",
+      "time": "2026-10-02 17:05:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "Eurozone Inflation Accelerates to Three-Year High — Eurozone annual inflation accelerated to 3.8% in September 2026, up from 3.2% in August and above market expectations of 3.6%, according to preliminary estimates. The rate reached its highest level since September 2023 and remained well above the ECB’s 2% target, driven largely by a surge in energy prices amid continued fighting in the Middle East. Energy inflation jumped to 18.8%, its highest level since January 2023. Price growth also accelerated for services, to 3.2% from 3.0%, and unprocessed food, to 4.0% from 2.7%. Core inflation, which excludes energy and food, rose to 2.5% from 2.4%, in line with expectations. Among the euro area’s largest economies, inflation accelerated in Germany to 3.3% from 2.9%, France to 3.4% from 2.6%, Spain to 5.0% from 4.6%, Italy to 4.1% from 3.2%, and the Netherlands to 3.0% from 2.8%."
+    },
+    {
+      "id": "mkt:01a0fbd8-091f-7ee0-a787-eefe68d534a7",
+      "time": "2026-10-02 17:00:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Flash (MoM) (Sep) | actual 0.2% | previous 0.2%"
+    },
+    {
+      "id": "mkt:01a0fbd7-e5f6-7ee0-a787-e0fc7ef80988",
+      "time": "2026-10-02 17:00:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI (MoM) (Sep) | actual 0.6% | consensus 0.5% | previous 0.40%"
+    },
+    {
+      "id": "te:markets:589100",
+      "time": "2026-10-02 17:00:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.92% — Top currency gainers are South Korean Won (0.92%), Mexican Peso (0.40%), Japanese Yen (0.34%), British Pound (0.08%) and Euro (0.07%). Biggest losers are Turkish Lira (-0.49%) and Dollar Index (-0.17%)."
+    },
+    {
+      "id": "mkt:01a0fbd7-8748-7ee0-a787-db49ff3eef73",
+      "time": "2026-10-02 17:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Flash (YoY) (Sep) | actual 2.2% | previous 2.1%"
+    },
+    {
+      "id": "mkt:01a0fbd7-86d5-7ee0-a787-d633e6376cf2",
+      "time": "2026-10-02 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI Flash (YoY) (Sep) | actual 3.8% | consensus 3.6% | previous 3.20%"
+    },
+    {
+      "id": "te:markets:589099",
+      "time": "2026-10-02 16:56:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Falls as Europe Considers Strategic Oil Reserve Release — Crude oil fell nearly 4% to around $89 a barrel on Friday as European governments considered releasing strategic oil reserves to ease mounting fuel costs. EU members were reportedly discussing a French proposal to draw on crude and fuel stockpiles, amid growing pressure from Washington to address diesel shortages and avoid potential US export restrictions. Treasury Secretary Scott Bessent urged European partners to help stabilise supplies, which have been disrupted by turmoil in the Persian Gulf and Ukrainian attacks on Russian refineries. Meanwhile, Middle Eastern crude flows have approached pre-war levels, though uncertainty persists as Washington and Tehran remain far from a lasting agreement to reopen the Strait of Hormuz fully. Also, shipping risks remain elevated following reported tanker attacks, while the US has reportedly strengthened air defences protecting energy facilities in Saudi Arabia and Qatar."
+    },
+    {
+      "id": "te:economy:589098",
+      "time": "2026-10-02 16:55:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Nigeria",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Nigeria Private Sector Activity Hits More Than 4-Year High — The Stanbic IBTC Bank Nigeria PMI rose to 56.4 in September 2026 from 54.3 in August, signalling a marked improvement in private-sector conditions and the strongest growth in over four-and-a-half years. New orders increased for an eighth consecutive month and at their fastest pace since February 2022, supported by improving customer demand and new product launches. In turn, output growth accelerated to its strongest level since February 2022, with expansions recorded across all four monitored sectors. Purchasing activity also rose sharply as firms sought to meet rising workloads, driving the strongest inventory accumulation since late 2021. Employment increased for a 16th consecutive month, although job creation remained modest. Meanwhile, input cost inflation reached a three-month high, driven by higher fuel, food and raw material costs. Firms became more optimistic about the 12-month outlook, citing expansion plans, new customers and potential export opportunities."
+    },
+    {
+      "id": "te:markets:589097",
+      "time": "2026-10-02 16:55:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls as Europe Considers Strategic Oil Reserve Release — Brent crude fell more than 3% to around $99 a barrel on Friday as European governments considered releasing strategic oil reserves to ease mounting fuel costs. EU members were reportedly discussing a French proposal to draw on crude and fuel stockpiles, amid growing pressure from Washington to address diesel shortages and avoid potential US export restrictions. Treasury Secretary Scott Bessent urged European partners to help stabilise supplies, which have been disrupted by turmoil in the Persian Gulf and Ukrainian attacks on Russian refineries. Meanwhile, Middle Eastern crude flows have approached pre-war levels, though uncertainty persists as Washington and Tehran remain far from a lasting agreement to reopen the Strait of Hormuz fully. Also, shipping risks remain elevated following reported tanker attacks, while the US has reportedly strengthened air defences protecting energy facilities in Saudi Arabia and Qatar."
+    },
     {
       "id": "te:markets:589095",
       "time": "2026-10-02 16:51:55",
