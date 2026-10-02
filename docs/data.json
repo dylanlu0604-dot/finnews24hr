@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-03 03:33:15",
-  "count": 11556,
+  "updated": "2026-10-03 03:36:59",
+  "count": 11553,
   "items": [
+    {
+      "id": "5124656",
+      "time": "2026-10-03 03:36:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國陸軍擬設立自主系統司令部。"
+    },
+    {
+      "id": "5124655",
+      "time": "2026-10-03 03:35:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "美烏重建基金宣佈追加投資，將設立合資企業，佈局能源與關鍵礦產領域。"
+    },
+    {
+      "id": "mkt:01a0fe1d-1e71-7ee0-a78c-9aad7e233f78",
+      "time": "2026-10-03 03:35:16",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB governing council member Nagel said the German economy could grow about 1% this year."
+    },
+    {
+      "id": "mkt:01a0fe1b-3255-7ee0-a78c-916f03cfbb62",
+      "time": "2026-10-03 03:33:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week ended Sept. 29, speculative traders cut WTI net-long positions by 17,317 contracts to 131,150."
+    },
+    {
+      "id": "5124653",
+      "time": "2026-10-03 03:33:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至9月29日當週，投機者增加CBOT美國國債期貨淨空頭頭寸31,070份合約，至186,875份；\n投機者削減CBOT美國超長期國債期貨淨空頭頭寸10,289份合約，至326,436份。\n投機者削減CBOT美國2年期國債期貨淨空頭頭寸115,041份合約，至792,024份；\n投機者增加CBOT美國10年期國債期貨淨空頭頭寸88,863份合約，至900,615份；\n投機者增加CBOT美國5年期國債期貨淨空頭頭寸114,848份合約，至995,701份。"
+    },
     {
       "id": "5124652",
       "time": "2026-10-03 03:32:31",
@@ -105740,84 +105788,6 @@
         "EURUSD"
       ],
       "text": "【Dollar index down 0.31% to 100.971 at NY close】Dollar index, which tracks the dollar against six major currencies, fell 0.31% to 100.971 at the New York close. EUR/USD 1.1399 (prev. 1.1374); GBP/USD 1.3252 (prev. 1.3217); USD/JPY 157.13 (prev. 158.85); USD/CHF 0.8282 (unchanged); USD/CAD 1.4144 (prev. 1.4141); USD/SEK 9.9045 (prev. 9.9224)."
-    },
-    {
-      "id": "mkt:01a0da11-68b3-7118-86a2-cdeb56d70585",
-      "time": "2026-09-26 03:36:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said the websites involved in the incident of AI models exhibiting abnormal or unexpected behavior were operated by government bodies, universities and other public institutions."
-    },
-    {
-      "id": "5113911",
-      "time": "2026-09-26 03:35:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月22日當週，洲際交易所（ICE）可可投機客將淨空頭頭寸增加6931手，至26327手；洲際交易所（ICE）棉花市場投機者將淨多頭頭寸削減16223手，至64452手；洲際交易所（ICE）咖啡投機客將淨空頭頭寸增加4756手，至6472手；洲際交易所（ICE）原糖市場投機者將淨多頭頭寸削減12916手，至92615手。"
-    },
-    {
-      "id": "5113910",
-      "time": "2026-09-26 03:35:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【YPF將阿根廷油價上調1%】阿根廷石油公司YPF釋出宣告稱，自週五起，阿根廷全國燃油均價上調1%。 該公司表示，本次調價依據今年4月起啟用的價格緩衝機制，以應對中東持續衝突對國際原油價格帶來的影響。"
-    },
-    {
-      "id": "mkt:01a0da0f-a5bc-7118-86a2-c1d878f645c8",
-      "time": "2026-09-26 03:34:13",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "EURUSD",
-        "GBPUSD"
-      ],
-      "text": "U.S. Commodity Futures Trading Commission (CFTC) weekly positions to Sept. 22: net long JPY 71,982 contracts; net short EUR 52,334 contracts; net short GBP 82,568 contracts; net short CHF 26,752 contracts."
-    },
-    {
-      "id": "5113909",
-      "time": "2026-09-26 03:34:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI：部分涉及模型偏差事件的網站由政府、大學、公共機構等運營。"
-    },
-    {
-      "id": "5113908",
-      "time": "2026-09-26 03:33:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用汽車已開始生產新型富鋰錳基電池的正極材料。"
-    },
-    {
-      "id": "5113907",
-      "time": "2026-09-26 03:33:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）檔案披露：阿波羅基礎設施有限責任公司出售452,949股I系列A-II類股票，總售價1,324萬美元，另出售1,688,883股II系列A-II類股票，總售價5,098萬美元。"
-    },
-    {
-      "id": "mkt:01a0da0e-d67d-7118-86a2-b847d0c2eb4c",
-      "time": "2026-09-26 03:33:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "U.S. Commodity Futures Trading Commission (CFTC): week to Sept. 22 — COMEX gold speculative net longs fell 5,727 contracts to 131,334; COMEX copper speculative net longs rose 17,108 contracts to 82,649; COMEX silver speculative net longs rose 385 contracts to 13,016."
     }
   ]
 }

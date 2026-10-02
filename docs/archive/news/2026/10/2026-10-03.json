@@ -1,7 +1,55 @@
 {
   "date": "2026-10-03",
-  "count": 216,
+  "count": 221,
   "items": [
+    {
+      "id": "5124656",
+      "time": "2026-10-03 03:36:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國陸軍擬設立自主系統司令部。"
+    },
+    {
+      "id": "5124655",
+      "time": "2026-10-03 03:35:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "美烏重建基金宣佈追加投資，將設立合資企業，佈局能源與關鍵礦產領域。"
+    },
+    {
+      "id": "mkt:01a0fe1d-1e71-7ee0-a78c-9aad7e233f78",
+      "time": "2026-10-03 03:35:16",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB governing council member Nagel said the German economy could grow about 1% this year."
+    },
+    {
+      "id": "mkt:01a0fe1b-3255-7ee0-a78c-916f03cfbb62",
+      "time": "2026-10-03 03:33:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week ended Sept. 29, speculative traders cut WTI net-long positions by 17,317 contracts to 131,150."
+    },
+    {
+      "id": "5124653",
+      "time": "2026-10-03 03:33:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至9月29日當週，投機者增加CBOT美國國債期貨淨空頭頭寸31,070份合約，至186,875份；\n投機者削減CBOT美國超長期國債期貨淨空頭頭寸10,289份合約，至326,436份。\n投機者削減CBOT美國2年期國債期貨淨空頭頭寸115,041份合約，至792,024份；\n投機者增加CBOT美國10年期國債期貨淨空頭頭寸88,863份合約，至900,615份；\n投機者增加CBOT美國5年期國債期貨淨空頭頭寸114,848份合約，至995,701份。"
+    },
     {
       "id": "5124652",
       "time": "2026-10-03 03:32:31",
