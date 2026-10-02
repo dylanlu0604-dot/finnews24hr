@@ -1,7 +1,39 @@
 {
   "date": "2026-10-02",
-  "count": 1280,
+  "count": 1283,
   "items": [
+    {
+      "id": "5123943",
+      "time": "2026-10-02 16:20:35",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗策略師稱利率波動正施壓風險資產 】花旗集團策略師表示，隨著利率波動性上升，債券拋售對股市的影響已變得更加危險。由德克·威勒帶領的團隊維持對股票的風險敞口，但警告等權重標普500指數面臨風險。他們指出，MOVE指數在一年回溯期內上升超過2個標準差，正為股市亮起黃旗。不過他們也表示，MOVE指數的飆升通常持續時間較短，且一旦美聯儲加息週期的節奏變得更加明朗，波動往往會消退。"
+    },
+    {
+      "id": "5123942",
+      "time": "2026-10-02 16:20:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪就法國局勢置評：鑑於明年春季選舉臨近可能導致政治立場趨於強硬，能否就2027年預算達成妥協遠未可知。"
+    },
+    {
+      "id": "te:markets:589080",
+      "time": "2026-10-02 16:18:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Latvia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Latvia Hit 27-month High — Riga increased to 973.15 Index Points, the highest since July 2024. Over the past 4 weeks, Latvia Stock Market Index (Riga) gained 0.41%, and in the last 12 months, it increased 6.67%."
+    },
     {
       "id": "5123941",
       "time": "2026-10-02 16:16:41",

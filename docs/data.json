@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-02 16:18:31",
-  "count": 11699,
+  "updated": "2026-10-02 16:22:17",
+  "count": 11694,
   "items": [
+    {
+      "id": "5123943",
+      "time": "2026-10-02 16:20:35",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗策略師稱利率波動正施壓風險資產 】花旗集團策略師表示，隨著利率波動性上升，債券拋售對股市的影響已變得更加危險。由德克·威勒帶領的團隊維持對股票的風險敞口，但警告等權重標普500指數面臨風險。他們指出，MOVE指數在一年回溯期內上升超過2個標準差，正為股市亮起黃旗。不過他們也表示，MOVE指數的飆升通常持續時間較短，且一旦美聯儲加息週期的節奏變得更加明朗，波動往往會消退。"
+    },
+    {
+      "id": "5123942",
+      "time": "2026-10-02 16:20:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪就法國局勢置評：鑑於明年春季選舉臨近可能導致政治立場趨於強硬，能否就2027年預算達成妥協遠未可知。"
+    },
+    {
+      "id": "te:markets:589080",
+      "time": "2026-10-02 16:18:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Latvia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Latvia Hit 27-month High — Riga increased to 973.15 Index Points, the highest since July 2024. Over the past 4 weeks, Latvia Stock Market Index (Riga) gained 0.41%, and in the last 12 months, it increased 6.67%."
+    },
     {
       "id": "5123941",
       "time": "2026-10-02 16:16:41",
@@ -107283,98 +107315,6 @@
         "MKT News"
       ],
       "text": "Ukrainian President Zelenskiy said the US has proposed preparing the next trilateral meeting at a technical level and proposed the UAE as host; Kyiv is awaiting a date."
-    },
-    {
-      "id": "5113326",
-      "time": "2026-09-25 16:21:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "景旺電子赴港上市最終發行價為每股69.88港元。"
-    },
-    {
-      "id": "mkt:01a0d7a7-de98-7118-8697-3c1905454516",
-      "time": "2026-09-25 16:21:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's parliament speaker said defence agreements with Pakistan and Saudi Arabia have not yet been submitted to parliament and are expected to be submitted after the legislature reconvenes next month."
-    },
-    {
-      "id": "te:economy:586863",
-      "time": "2026-09-25 16:21:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Armenia",
-        "Balance of Trade",
-        "Importance 0"
-      ],
-      "text": "Armenia Trade Gap Widens in August — Armenia’s trade deficit widened to USD 516.2 million in August 2026 from USD 357.7 million in the same month last year. Exports increased 1.3% year-on-year to USD 573.5 million, while imports rose 14.9% to USD 1,089.7 million. Over the January–August period, the trade deficit reached USD 4,026.5 million. During this period, exports declined 6.5% year-on-year to USD 4,623.9 million, while imports climbed 9.3% to USD 8,650.4 million."
-    },
-    {
-      "id": "5113325",
-      "time": "2026-09-25 16:21:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其議會議長：與巴基斯坦、沙烏地阿拉伯的防務協定尚未提交議會，預計將於下月議會復會後提交。"
-    },
-    {
-      "id": "mkt:01a0d7a6-d21a-7118-8697-37e80f719002",
-      "time": "2026-09-25 16:20:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "China Tech Giants",
-        "Star Stocks",
-        "Alibaba",
-        "JD.com",
-        "Xiaomi",
-        "09999.HK",
-        "Impact bearish",
-        "09988.HK",
-        "02202.HK"
-      ],
-      "text": "【Hong Kong close: HSI down 1.01%, Hang Seng Tech down 1.13%】Hong Kong stocks closed lower after a weak open; HSI fell 1.01% and the Hang Seng Tech Index fell 1.13%. Large-cap internet and tech names were broadly weaker: NetEase-S (09999.HK) down >3%, Xiaomi (01810.HK) down ~2.6%, JD (09618.HK) down 1.8%, Alibaba (09988.HK) down ~1.5%. AI hardware and robotics stocks mostly fell — SenseTime (00020.HK) down >3%, Horizon Robotics (09660.HK) down 2.6%. Chinese property names lagged: Country Garden down ~3.8%, Vanke (02202.HK) down ~4%."
-    },
-    {
-      "id": "mkt:01a0d7a6-46b7-7118-8697-28d3e10c798b",
-      "time": "2026-09-25 16:19:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "Hang Seng Index",
-        "Impact bearish",
-        "CNH"
-      ],
-      "text": "【China Coast Guard spokesman issues statement】On Sept. 24 China Coast Guard spokesman Jiang Lue said the Philippines breached trust and ignored Chinese warnings by sending a resupply vessel to the illegally grounded Ren'ai Reef. The Coast Guard said it conducted on-site monitoring and radio warnings against the Philippine resupply vessel. It accused Manila of taking provocative action during a Chinese holiday and of hyping the incident, saying this seriously violated the Declaration on the Conduct of Parties in the South China Sea and undermined regional peace and stability. China warned the Philippines to cease provocations and said the Coast Guard will lawfully carry out rights-protection enforcement in the Nansha (Spratly) Islands and adjacent waters, including Ren'ai Reef, to resolutely safeguard national territorial sovereignty and maritime rights."
-    },
-    {
-      "id": "mkt:01a0d7a6-3c69-7118-8697-223d01d3798b",
-      "time": "2026-09-25 16:19:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong's Hang Seng Index (HSI) closed down 251.04 points, or 1.01%, at 24,510.09 on Friday, Sept. 25; the Hang Seng Tech Index fell 49.35 points, or 1.13%, to 4,311.78; the Hang Seng China Enterprises Index (HSCEI) dropped 100.23 points, or 1.21%, to 8,165.78; the Hang Seng Red Chip Index declined 32.60 points, or 0.81%, to 3,987.52."
-    },
-    {
-      "id": "5113324",
-      "time": "2026-09-25 16:19:42",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "澳門8月綜合居民消費價格指數（CPI）同比上漲1.29%。"
     }
   ]
 }
