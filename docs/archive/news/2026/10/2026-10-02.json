@@ -1,7 +1,80 @@
 {
   "date": "2026-10-02",
-  "count": 1705,
+  "count": 1713,
   "items": [
+    {
+      "id": "mkt:01a0fd15-5303-7ee0-a789-2c8b2c0542d1",
+      "time": "2026-10-02 22:47:08",
+      "tags": [
+        "MKT News",
+        "GS.O",
+        "Impact bullish"
+      ],
+      "text": "【Goldman Sachs earned sizable gains from early client investments in SpaceX, reports say】Foreign media reported Goldman Sachs bankers earned hefty fees handling SpaceX’s June IPO, but a larger payoff was seeded more than five years earlier when the bank helped high-net-worth clients buy into SpaceX. People familiar said clients who sold shares at SpaceX’s $1.77 trillion IPO valuation realized substantial gains and paid Goldman hundreds of millions of dollars in incentive fees. Goldman partners were able to invest alongside clients, meaning some current and former top executives may also have realized sizable profits."
+    },
+    {
+      "id": "5124423",
+      "time": "2026-10-02 22:47:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【七國集團就推動主要煉油國家增產增加柴油供應達成一致】七國集團領導人召開視訊會議，應對油價飆升及能源供應壓力，同意採取協調行動，穩定市場、緩解家庭和企業負擔，並增強能源體系長期韌性。七國集團將協調煉油廠檢修安排，適度提高產能利用率，並推動主要煉油國家增產，重點增加柴油供應。同時，透過國際能源署立即啟動釋放1億桶石油儲備，四個月內完成，首批20天內集中釋放大量柴油。各國重申不在集團內部限制能源出口，並呼籲生產國避免實施禁令。國際能源署將在20天內提交落實情況及政策建議報告，涵蓋儲備補充安排。（央視新聞）"
+    },
+    {
+      "id": "5124422",
+      "time": "2026-10-02 22:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦總理夏巴茲·謝里夫致電伊朗外長阿拉格齊，就其胞妹逝世表示哀悼。"
+    },
+    {
+      "id": "te:markets:589219",
+      "time": "2026-10-02 22:45:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Western Digital Shares Hit 22-week Low — Western Digital shares decreased to 407.00 USD, the lowest since May 2026. Over the past 4 weeks, Western Digital lost 7.42%, and in the last 12 months, it increased 211.33%."
+    },
+    {
+      "id": "5124421",
+      "time": "2026-10-02 22:43:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "凱傲集團（KION GROUP AG，股票程式碼：KGX.DE）股價下跌8.1%，創下2025年4月以來新低。"
+    },
+    {
+      "id": "5124420",
+      "time": "2026-10-02 22:43:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率抹平此前跌幅，最新持平於4.789%。"
+    },
+    {
+      "id": "5124419",
+      "time": "2026-10-02 22:43:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國兩年期和10年期公債收益率曲線最新報正42.3個基點。"
+    },
+    {
+      "id": "5124418",
+      "time": "2026-10-02 22:43:27",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛從SpaceX IPO早期客戶配售中獲大額激勵費 擬提前慈善捐贈以提升稅務效率 】高盛集團因主導SpaceX 6月首次公開募股獲得約1億美元承銷費，並因早年為高淨值客戶安排SpaceX私募投資而收取大額激勵費，部分合夥人亦隨同客戶參與早期投資。知情人士稱，SpaceX以約1.77萬億美元估值上市，出售股份的高盛客戶獲得顯著收益，銀行由此獲得數億美元激勵費。高盛財務主管決定將該筆未納入此前財務預測的意外收入用於提前進行慈善捐贈，以提升稅務效率；執行長大衛·所羅門上月底曾暗示公司將“以非常、非常節稅的方式”提前多年慈善支出。該安排預計將推高10月13日公佈的第三季度非薪酬支出。SpaceX此次IPO總承銷費約5億美元，對應750億美元募資額費率約0.67%，若行使綠鞋期權追加出售112.5億美元股份，SpaceX無需支付額外費用。"
+    },
     {
       "id": "te:markets:589217",
       "time": "2026-10-02 22:42:34",
