@@ -1,7 +1,32 @@
 {
   "date": "2026-10-02",
-  "count": 1713,
+  "count": 1716,
   "items": [
+    {
+      "id": "mkt:01a0fd19-1c72-7ee0-a789-32321c77832a",
+      "time": "2026-10-02 22:51:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "YONHAP: A South Korean Ministry of Trade, Industry and Energy official said the $8.4 billion oil project referenced by U.S. President Trump is not part of a South Korea-U.S. agreement."
+    },
+    {
+      "id": "5124425",
+      "time": "2026-10-02 22:50:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國產業部官員表示，特朗普提及的84億美元石油專案並非韓美之間達成的協議內容。"
+    },
+    {
+      "id": "5124424",
+      "time": "2026-10-02 22:49:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠特貝瑞在倫敦市場上漲3.4%。"
+    },
     {
       "id": "mkt:01a0fd15-5303-7ee0-a789-2c8b2c0542d1",
       "time": "2026-10-02 22:47:08",

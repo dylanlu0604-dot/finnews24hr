@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-02 22:47:55",
-  "count": 11523,
+  "updated": "2026-10-02 22:51:45",
+  "count": 11524,
   "items": [
+    {
+      "id": "mkt:01a0fd19-1c72-7ee0-a789-32321c77832a",
+      "time": "2026-10-02 22:51:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "YONHAP: A South Korean Ministry of Trade, Industry and Energy official said the $8.4 billion oil project referenced by U.S. President Trump is not part of a South Korea-U.S. agreement."
+    },
+    {
+      "id": "5124425",
+      "time": "2026-10-02 22:50:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國產業部官員表示，特朗普提及的84億美元石油專案並非韓美之間達成的協議內容。"
+    },
+    {
+      "id": "5124424",
+      "time": "2026-10-02 22:49:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠特貝瑞在倫敦市場上漲3.4%。"
+    },
     {
       "id": "5124423",
       "time": "2026-10-02 22:47:08",
@@ -105659,26 +105684,6 @@
         "市場"
       ],
       "text": "遊戲驛站股價在連續四個交易日上漲後下跌7.7%。"
-    },
-    {
-      "id": "te:markets:586965",
-      "time": "2026-09-25 22:50:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "French OAT Yields at 2008 High on Rate-Hike Bets, Budget Risks — France’s 10-year OAT yield rose to 4.7%, its highest level since 2008, as elevated energy prices fuel concerns over renewed inflationary pressure and hawkish central-bank signals lift rate expectations. Money markets are now pricing in roughly 100 basis points of ECB rate hikes by late 2027, while investors in the US and UK have also increased bets on further tightening amid hawkish policymaker comments and resilient economic data. France remains under particular scrutiny ahead of the 2027 election, with a large primary deficit and heightened budget risks compounded by a fragmented parliament. Emergency energy-relief spending linked to the US-Iran war has further strained public finances, putting the deficit-reduction target out of reach. The budget deficit is now expected to widen to 5.4% of GDP this year, from 5.1% in 2025."
-    },
-    {
-      "id": "5113720",
-      "time": "2026-09-25 22:49:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心：波洛是極其強勁的五級颶風。"
     }
   ]
 }
