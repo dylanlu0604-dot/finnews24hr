@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-02 22:32:12",
-  "count": 11526,
+  "updated": "2026-10-02 22:36:05",
+  "count": 11523,
   "items": [
+    {
+      "id": "5124413",
+      "time": "2026-10-02 22:35:00",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【馬克龍稱七國集團將釋放最多1億桶柴油和原油儲備】當地時間2日，法國總統馬克龍表示，七國集團（G7）將釋放最多1億桶柴油和原油儲備。近期全球柴油市場供應趨緊，價格持續上漲。美國政府要求法國、德國等歐洲國家釋放緊急柴油庫存，以緩解全球燃料價格上漲壓力，並警告如果歐洲不採取進一步行動，美國可能限制甚至禁止柴油出口。美國總統特朗普此前也公開表示正在考慮這一措施。據知情人士透露，美國方面已向法國、德國提出釋放柴油庫存的要求。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0fd08-5e62-7ee0-a789-09bcf29f53e6",
+      "time": "2026-10-02 22:32:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【US media: Trump expected to appoint Jay Clayton as AI czar】CNN, citing two people familiar with the matter, reports President Trump is expected to appoint Jay Clayton as an AI czar — a presidential adviser on artificial intelligence. Clayton currently serves as Director of National Intelligence. Trump said last month he would name an AI adviser and form an \"AI force\" but provided no implementation details; this would be his second cross‑agency AI coordinator. Venture capitalist David Sacks held the post early in Trump’s second term and remains an informal AI adviser. The move comes as leading AI researchers warn of risks, while Trump has repeatedly downplayed those risks and opposed tighter regulation."
+    },
+    {
+      "id": "te:markets:589214",
+      "time": "2026-10-02 22:32:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Falls to 1-Month Low — US heating oil prices extended losses below $4.40 per gallon on Friday, the lowest in one month, after G7 agreed to consider releasing up to 100 million barrels of emergency oil and diesel reserves to ease fuel costs. The coordinated release is expected to take place over four months, French President Emmanuel Macron said. Macron indicated that the initiative aims to bring down prices following pressure from the Trump administration to address tightening fuel markets. Supply has been constrained by disruptions in the Persian Gulf, Ukrainian attacks on Russian refineries and Moscow’s extension of its diesel-export restrictions through October. In the US, EIA data showed distillate inventories at their lowest seasonal level on record."
+    },
+    {
+      "id": "5124412",
+      "time": "2026-10-02 22:32:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "COINBASE股價轉跌。"
+    },
     {
       "id": "te:economy:589213",
       "time": "2026-10-02 22:30:47",
@@ -105644,67 +105683,6 @@
         "Energy"
       ],
       "text": "U.S. natural gas futures fell 6.00% intraday to $3.167/MMBtu."
-    },
-    {
-      "id": "5113711",
-      "time": "2026-09-25 22:35:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "工人稱，委內瑞拉卡頓煉油廠的原油蒸餾裝置和流化催化裂化裝置因原料問題而停運。"
-    },
-    {
-      "id": "5113710",
-      "time": "2026-09-25 22:35:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉帕拉瓜納煉油中心工人稱，該中心目前開工率為產能的27%。"
-    },
-    {
-      "id": "5113709",
-      "time": "2026-09-25 22:35:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣期貨跌超6.00%，現報3.167美元/百萬英熱。"
-    },
-    {
-      "id": "5113708",
-      "time": "2026-09-25 22:34:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "德國30年期國債收益率上漲6個基點至3.92%，創2011年以來新高。"
-    },
-    {
-      "id": "mkt:01a0d8fc-4dfb-7118-869e-1ba0d4fa15d6",
-      "time": "2026-09-25 22:33:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's President Sheinbaum said Mexico is working to address US concerns over the bilateral trade deficit. She said it is unclear whether a US-Mexico trade agreement will be reached before November."
-    },
-    {
-      "id": "mkt:01a0d8fc-007a-7118-869e-1585ad1972cb",
-      "time": "2026-09-25 22:33:08",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Interfax reported Russia said it struck a dry-cargo ship at the port of Chornomorsk."
-    },
-    {
-      "id": "5113707",
-      "time": "2026-09-25 22:32:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯表示其擊中了喬爾諾莫斯克港的一艘幹散貨船。"
     }
   ]
 }
