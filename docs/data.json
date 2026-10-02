@@ -1,7 +1,65 @@
 {
-  "updated": "2026-10-02 22:59:37",
-  "count": 11520,
+  "updated": "2026-10-02 23:03:27",
+  "count": 11518,
   "items": [
+    {
+      "id": "5124436",
+      "time": "2026-10-02 23:02:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿拉曼非洲論壇聚焦非洲經濟一體化】首屆阿拉曼非洲論壇2日在埃及阿拉曼新城開幕。論壇聚焦非洲經濟一體化，旨在為非洲國家提供有影響力的高規格平臺，加強具體專案和實際成果轉化。本次論壇由埃及政府、非洲進出口銀行和非洲聯盟發展署共同舉辦。來自非洲多國政府、國際和地區金融機構、公共部門及私營企業的約1500名代表參加。論壇議題涵蓋基礎設施、貿易、關鍵礦產、數字創新、醫療健康以及新興產業等領域。據埃及外交部介紹，論壇為各國政府、企業和金融機構探索投資機遇、加強合作伙伴關係提供平臺，旨在加強資源調動、吸引投資，推動非洲經濟一體化和可持續發展。埃及規劃和經濟發展部長艾哈邁德·羅斯托姆表示，深化同非洲國家關係是埃及的“戰略優先事項”。他呼籲將非洲視為更緊密的一體化經濟體系，推動埃及企業家與非洲同行透過技術交流、共建跨境區域價值鏈等方式開展“共同創新”。阿拉曼非洲論壇將作為常設論壇，每兩年在阿拉曼新城舉辦一屆。（新華社）"
+    },
+    {
+      "id": "5124435",
+      "time": "2026-10-02 23:00:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "丹麥央行表示，9月未對外匯市場進行干預。"
+    },
+    {
+      "id": "5124434",
+      "time": "2026-10-02 23:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "丹麥9月份外匯儲備為6932億丹麥克朗。環比下降4億丹麥克朗。"
+    },
+    {
+      "id": "te:markets:589221",
+      "time": "2026-10-02 23:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Increases by 1.08% — Top currency gainers are South Korean Won (1.08%), Mexican Peso (0.87%), Australian Dollar (0.56%), British Pound (0.40%), Euro (0.32%) and Japanese Yen (0.27%). Biggest losers are Turkish Lira (-0.49%) and Dollar Index (-0.35%)."
+    },
+    {
+      "id": "mkt:01a0fd21-1aec-7ee0-a789-53c877eda2e5",
+      "time": "2026-10-02 23:00:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury yields reversed earlier declines; 10-year yield rose 0.91 bps to 5.243%, 2-year yield rose 2.52 bps to 4.812%."
+    },
+    {
+      "id": "5124433",
+      "time": "2026-10-02 22:59:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率進一步上行，最新上漲2.52個基點，報4.812%。美國國債收益率扭轉早間跌勢；10年期美國國債收益率最新上漲0.91個基點，報5.243%。"
+    },
     {
       "id": "5124432",
       "time": "2026-10-02 22:58:25",
@@ -105566,78 +105624,6 @@
         "國際"
       ],
       "text": "DayOne Data Centers Singapore Pte.打算最快11月IPO。該公司將於10月中旬向SEC（美國證券交易委員會）遞表，將於11月掛牌交易股票。Switch秘密遞交了IPO申請，將於DayOne之後上市。"
-    },
-    {
-      "id": "5113732",
-      "time": "2026-09-25 23:03:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特：與日本財務大臣討論了對強勢日元的期許。"
-    },
-    {
-      "id": "5113731",
-      "time": "2026-09-25 23:02:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大7月預算赤字為47.7億加元，2025年7月為赤字15.1億加元。\n加拿大4月至7月預算赤字為51.4億加元，上年同期為赤字77.9億加元。"
-    },
-    {
-      "id": "5113730",
-      "time": "2026-09-25 23:02:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "27 名分析師中，6 人預計 9 月加息 50 個基點，2 人預計加息 25 個基點。哥倫比亞 2027 年末利率預期下調至 11%，此前調查為 11.25%。"
-    },
-    {
-      "id": "5113729",
-      "time": "2026-09-25 23:02:11",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "調查：27 位分析師中有 19 位預計哥倫比亞央行 9 月將維持利率在 12% 不變。預計哥倫比亞 2026 年末利率為 12.25%，較前次調查的 12.50% 有所下調。"
-    },
-    {
-      "id": "mkt:01a0d915-f667-7118-869e-8bcb897778e2",
-      "time": "2026-09-25 23:01:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's budget deficit for April–July was C$5.14 billion, compared with a C$7.79 billion deficit a year earlier."
-    },
-    {
-      "id": "mkt:01a0d915-c148-7118-869e-834db2e8ec8c",
-      "time": "2026-09-25 23:01:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's July budget deficit was C$4.77 billion; July 2025's deficit was C$1.51 billion."
-    },
-    {
-      "id": "te:markets:586971",
-      "time": "2026-09-25 23:00:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Japanese Yen Increases by 1.07% — Top currency gainers are Japanese Yen (1.07%), South Korean Won (0.70%), Polish Zloty (0.35%), British Pound (0.19%) and Euro (0.18%). Biggest losers are Turkish Lira (-0.50%) and Dollar Index (-0.32%)."
-    },
-    {
-      "id": "te:markets:586970",
-      "time": "2026-09-25 23:00:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Retreats on Talks of a Phased Deal — Crude oil eased below $94 a barrel on Friday as US and Iranian negotiators explored a phased agreement to reopen the Strait of Hormuz. The proposed arrangement would reportedly involve Tehran restoring access through the strait while Washington lifts its blockade of Iranian ports. However, previous negotiations have repeatedly appeared close to a breakthrough before collapsing. A White House official said President Donald Trump remained open to discussions with Iran but argued that the US was under no pressure to negotiate given its sanctions campaign and blockade. Oil markets have remained volatile throughout the week, responding to mixed signals over prospects for peace, signs of recovering Middle East energy flows and speculation that Washington could restrict diesel exports. Despite recent gains, the US oil benchmark is down by around 2% this week, reflecting continued uncertainty over the potential reopening of the key shipping route and the broader supply outlook."
     }
   ]
 }
