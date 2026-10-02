@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-02 15:44:08",
-  "count": 11694,
+  "updated": "2026-10-02 15:47:56",
+  "count": 11689,
   "items": [
+    {
+      "id": "5123891",
+      "time": "2026-10-02 15:44:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "希臘向歐洲金融穩定基金償還25億歐元。"
+    },
     {
       "id": "5123890",
       "time": "2026-10-02 15:43:00",
@@ -107305,59 +107313,6 @@
         "Importance 1"
       ],
       "text": "DAX Advances on Friday — Frankfurt's DAX 40 rose 0.6% to cross 25,400 on Friday, supported by falling oil prices and lower government bond yields amid renewed hopes of a resolution to the Iran conflict. Sentiment was buoyed by speculation about a phased agreement between the US and Iran to reopen the Strait of Hormuz. Meanwhile, the extension of the trade truce between the US and China until January, agreed at the Trump-Xi summit reduces the risk of an immediate escalation. On the economic data front, German consumer sentiment weakened more than expected heading into October, with higher energy prices weighing on households’ income expectations. Most sectors traded in the green, led by banks, tech and travel-related stocks. Commerzbank and Deutsche Bank gained 2.4% and 2%, respectively, ranking among the top performers. Adidas, Siemens Energy, Deutsche Lufthansa, TUI, Siemens and Infineon Technologies also advanced solidly, rising between 1.3% and 2.1%. For the week, the index was on track to advance 0.4%."
-    },
-    {
-      "id": "te:markets:586838",
-      "time": "2026-09-25 15:47:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Ease but Remain Near Multi-Year Highs — UK 10-year gilt yields eased slightly to 5.35% as oil prices retreated from a two-day rally following reports that the US and Iran were considering a phased agreement that could reopen the Strait of Hormuz. Despite the pullback, gilt yields remain close to multi-year highs as the US-Iran conflict and elevated energy prices continue to fuel concerns over renewed inflationary pressures. Markets continue to price in a solid probability of a 25-basis-point Bank of England rate hike in November. Earlier this week, BoE Deputy Governor Sarah Breeden said it could become “increasingly appropriate” to respond to rising inflation risks by raising interest rates. Deputy Governor Clare Lombardelli likewise said rates may need to rise if energy prices remain elevated, while MPC member Swati Dhingra said inflation expectations were not yet a source of concern. In the US, investors also increased bets on further Federal Reserve rate hikes following hawkish comments from policymakers."
-    },
-    {
-      "id": "5113250",
-      "time": "2026-09-25 15:46:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本監管機構正加強對人工智慧資料中心融資的審查力度】隨著日本大型銀行和人壽保險公司增加對這一快速擴張領域的風險敞口，日本金融廳正加強對相關AI資料中心融資的審查力度。據一位要求匿名的金融廳高階官員透露，監管機構將重點審查貸款機構的風險管理框架等關鍵環節。該官員表示，目前主要關注的是位於美國的資料中心專案。這位官員表示，金融廳無意阻礙對AI資料中心的融資，因為該機構將其視為一個增長型行業。不過，監管機構仍需更加密切關注此類貸款的相關風險。這主要是考慮到超大規模資料中心運營商能否從其鉅額支出中獲得足夠回報仍存在不確定性，同時業界對於其發展速度過快以及安全性問題也存在爭議。"
-    },
-    {
-      "id": "5113249",
-      "time": "2026-09-25 15:45:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "樂天移動的簽約使用者數突破1100萬。"
-    },
-    {
-      "id": "5113248",
-      "time": "2026-09-25 15:45:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智譜創調整新低市值跌回3000億港元 大模型賽道掀新一輪降價潮】今日智譜(02513.HK)股價繼續走弱，續創近一輪調整行情新低。隨著近期國內外頭部大模型紛紛降價，一場大模型領域的價格戰正持續升溫。"
-    },
-    {
-      "id": "5113247",
-      "time": "2026-09-25 15:44:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "南非主要股指下跌1%，至110,445.70點。"
-    },
-    {
-      "id": "5113246",
-      "time": "2026-09-25 15:44:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本金融廳（FSA）正加強對人工智慧（AI）資料中心融資的審查力度。"
     }
   ]
 }
