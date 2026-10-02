@@ -1,7 +1,155 @@
 {
-  "updated": "2026-10-02 22:16:27",
-  "count": 11504,
+  "updated": "2026-10-02 22:20:25",
+  "count": 11516,
   "items": [
+    {
+      "id": "mkt:01a0fcfc-6538-7ee0-a788-cb739588b5a5",
+      "time": "2026-10-02 22:19:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italian 10-year bond spread over German bunds tightened 1bp to 118bps."
+    },
+    {
+      "id": "te:markets:589212",
+      "time": "2026-10-02 22:19:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Falls Below $99 — Brent crude fell below $99 a barrel on Friday, after the Group of Seven agreed to consider releasing up to 100 million barrels of emergency oil and diesel reserves to ease fuel costs. The coordinated release, overseen by the International Energy Agency, is expected to take place over four months, French President Emmanuel Macron said. Macron indicated that the initiative aims to bring down prices following pressure from the Trump administration to address tightening fuel markets. Meanwhile, Middle Eastern crude exports have recovered close to pre-war levels, although uncertainty surrounding US-Iran negotiations continues to cloud the outlook. The Strait of Hormuz remains a key concern, with reported tanker attacks underscoring persistent shipping risks and the US strengthening air defences around energy facilities in Saudi Arabia and Qatar."
+    },
+    {
+      "id": "5124399",
+      "time": "2026-10-02 22:18:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國總統府：未來幾天將討論更多可能柴油儲備釋放事宜。"
+    },
+    {
+      "id": "te:markets:589210",
+      "time": "2026-10-02 22:18:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Gains as Oil Rally Stalls — The S&P/TSX Composite Index rose nearly 1% to hover around 35,500 as the oil rally stalled, easing concerns over energy-driven inflation and pushing Canadian bond yields lower. In addition, softer-than-expected US payrolls also supported rate-sensitive stocks amid reduced expectations of a Fed rate hike this month. Financial stocks gained, with Scotiabank up nearly 1%. Tech stocks also advanced, tracking strength in the Wall Street AI trade, with Shopify up nearly 2%. Gold prices edged higher, supporting miners, with Agnico Eagle and WPM both rising more than 2%. Meanwhile, Prime Minister Carney said Canada will fast-track approval of a proposed crude oil export pipeline to the West Coast, a key part of his efforts to diversify the economy away from the US."
+    },
+    {
+      "id": "te:markets:589209",
+      "time": "2026-10-02 22:18:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Slides to 1-Month Low — Crude oil fell around 5% to $88.50 a barrel on Friday, reaching a one-month low after the Group of Seven agreed to consider releasing up to 100 million barrels of emergency oil and diesel reserves to ease fuel costs. The coordinated release, overseen by the International Energy Agency, is expected to take place over four months, French President Emmanuel Macron said. Macron indicated that the initiative aims to bring down prices following pressure from the Trump administration to address tightening fuel markets. Meanwhile, Middle Eastern crude exports have recovered close to pre-war levels, although uncertainty surrounding US-Iran negotiations continues to cloud the outlook. The Strait of Hormuz remains a key concern, with reported tanker attacks underscoring persistent shipping risks and the US strengthening air defences around energy facilities in Saudi Arabia and Qatar."
+    },
+    {
+      "id": "5124398",
+      "time": "2026-10-02 22:18:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯稱在黑海擊中一艘貨船。"
+    },
+    {
+      "id": "mkt:01a0fcfa-6516-7ee0-a788-c7a922e2f765",
+      "time": "2026-10-02 22:17:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Philadelphia Semiconductor Index (SOX) rose 3.4% to a three-month high."
+    },
+    {
+      "id": "5124397",
+      "time": "2026-10-02 22:17:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數上漲3.4%，創三個月新高。"
+    },
+    {
+      "id": "5124396",
+      "time": "2026-10-02 22:17:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利10年期國債收益率較德國國債收益率溢價收窄1個基點至118個基點。"
+    },
+    {
+      "id": "5124395",
+      "time": "2026-10-02 22:16:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國總統府：柴油釋放將在頭20天內“大幅”推進。"
+    },
+    {
+      "id": "5124394",
+      "time": "2026-10-02 22:16:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲傳聲筒：就業報告表現一般，美聯儲關注點仍落在通脹】美聯儲傳聲筒Nick Timiraos發文稱，9 月就業報告幾乎不會促使美聯儲官員改變其對經濟的核心判斷，同時也掃清了本月維持利率不變的一大潛在阻礙。這份報告幾乎沒有釋放出勞動力市場再度收緊、進而加劇物價壓力的訊號，這是其中最為關鍵的變化。美聯儲高層官員本週釋放訊號：自上月加息之後，他們希望留出更多時間評估通脹的演變態勢，而週五出爐的就業報告，給了他們觀望等待的空間。9 月招聘步伐放緩，資料修正結果顯示，夏季的就業增長略低於此前公佈水平。失業率從 4.1% 升至 4.2%，但該漲幅實際沒有看上去那麼明顯：未經四捨五入的原始資料顯示，失業率僅從 4.14% 微升至 4.18%。相較於月度非農新增崗位，美聯儲官員更為關注失業率。倘若失業率出現顯著下行，就意味著勞動力成本上行壓力升溫，這將令凱文・沃什主席及其同僚在本月是否再度加息的抉擇變得更加棘手。而週五的就業報告並未傳遞出這類訊號。將於 10 月 14 日公佈的 9 月消費者物價指數，或將對後續加息時點以及本輪緊縮週期的終點產生更大影響。"
+    },
+    {
+      "id": "5124393",
+      "time": "2026-10-02 22:16:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：紐西蘭因格爾伍德以東6公里處發生5.0級地震。"
+    },
+    {
+      "id": "mkt:01a0fcf9-56a1-7ee0-a788-b8ede2463457",
+      "time": "2026-10-02 22:16:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "German 2-year government bond yield pared losses to finish near flat at 3.0532%."
+    },
+    {
+      "id": "5124392",
+      "time": "2026-10-02 22:16:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受特朗普稱歐洲將釋放柴油儲備影響，歐洲柴油期貨較前收盤價每噸下跌約110美元。"
+    },
+    {
+      "id": "5124391",
+      "time": "2026-10-02 22:15:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE原糖期貨<SBc1>跳漲逾3%，至每磅19.61美分。"
+    },
+    {
+      "id": "mkt:01a0fcf8-7eaa-7ee0-a788-b13b6e2abce8",
+      "time": "2026-10-02 22:15:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bomb threat forces evacuation at Chișinău International Airport; check-in suspended, flights may be disrupted】On Oct. 2 local time Chișinău International Airport received a bomb threat; passengers and staff were evacuated. Airport personnel and border police have responded and Moldova’s Interior Ministry officers are en route. Check-in operations are suspended and scheduled flights may be affected."
+    },
     {
       "id": "mkt:01a0fcf7-c22f-7ee0-a788-a9c7f5319c53",
       "time": "2026-10-02 22:14:50",
@@ -105454,43 +105602,6 @@
         "MKT News"
       ],
       "text": "Lebanon's prime minister said he wants to consolidate the ceasefire and called for Israel to withdraw from Lebanese territory."
-    },
-    {
-      "id": "5113698",
-      "time": "2026-09-25 22:18:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心：2026年已報告40起新發麻疹疫情，95%的確診病例與疫情相關。"
-    },
-    {
-      "id": "mkt:01a0d8ee-26ff-7118-869d-fe31de6a7b9a",
-      "time": "2026-09-25 22:18:01",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Russian attack on Kyiv kills five, injures 31】Kyiv Mayor Klitschko said on the 25th a Russian military attack on the capital killed five people and wounded 31; Russia had no immediate comment."
-    },
-    {
-      "id": "5113697",
-      "time": "2026-09-25 22:17:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心：截至2026年9月24日，美國2026年共報告3，659例確診麻疹病例。"
-    },
-    {
-      "id": "5113696",
-      "time": "2026-09-25 22:16:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭基輔遭俄軍襲擊 已致5人死亡】烏克蘭首都基輔市市長克利奇科25日通報，截至目前，當天俄軍對基輔市的襲擊已造成5人死亡，31人受傷。俄方對此暫無回應。（央視新聞）"
     }
   ]
 }
