@@ -1,7 +1,118 @@
 {
   "date": "2026-10-02",
-  "count": 1260,
+  "count": 1272,
   "items": [
+    {
+      "id": "te:markets:589077",
+      "time": "2026-10-02 16:10:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rice Gains by 2.17% — Top commodity gainers are Rice (2.17%), Sugar (1.66%) and Wheat (0.55%). Biggest losers are Rubber (-1.28%) and Oat (-0.85%)."
+    },
+    {
+      "id": "5123935",
+      "time": "2026-10-02 16:10:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Moderna股價盤前上漲2.8%，此前該公司獲納入納斯達克100指數，自10月9日起生效。"
+    },
+    {
+      "id": "5123934",
+      "time": "2026-10-02 16:09:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債上漲；英國10年期國債收益率下跌7個基點至一週低點5.33%。"
+    },
+    {
+      "id": "5123933",
+      "time": "2026-10-02 16:09:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國總統強調，七國集團成員國有意協調行動，不對出口施加限制。"
+    },
+    {
+      "id": "5123932",
+      "time": "2026-10-02 16:09:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌2.60%，恒生科技指數跌2.26%】嗶哩嗶哩-W跌4.60%，快手-W跌4.65%，滙豐控股跌5.51%，理想汽車-W跌5.68%，友邦保險跌5.71%，百濟神州跌6.12%，天數智芯跌6.27%。"
+    },
+    {
+      "id": "5123931",
+      "time": "2026-10-02 16:08:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "安森美半導體股價上漲5.9%，Synaptics股價盤前大漲14.5%，此前兩家公司宣佈修訂合併協議。"
+    },
+    {
+      "id": "5123930",
+      "time": "2026-10-02 16:08:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "愛麗捨宮訊息人士稱，法國打算與七國集團領導人舉行電話會議，以協調價格和供應方面的行動。"
+    },
+    {
+      "id": "5123929",
+      "time": "2026-10-02 16:07:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統府：馬克龍與特朗普通話，討論全球能源形勢。"
+    },
+    {
+      "id": "5123928",
+      "time": "2026-10-02 16:06:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國總統在兩次單獨通話中談到，需要共同努力應對燃油價格上漲和成品油供應問題。"
+    },
+    {
+      "id": "5123927",
+      "time": "2026-10-02 16:06:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守100美元/桶，日內跌2.28%。"
+    },
+    {
+      "id": "te:markets:589073",
+      "time": "2026-10-02 16:06:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises, Set for Weekly Drop — The FTSE 100 moved higher on Friday, attempting to recover after four consecutive sessions of losses as financial markets showed signs of stabilising following a volatile week. Despite the rebound, the UK benchmark remained on course for a weekly decline of around 2%. In the FTSE 250, JD Wetherspoon shares climbed more than 6% following the pub operator’s latest update. Although full-year profit fell by more than analysts had expected, revenue came in slightly ahead of forecasts. IG Group, meanwhile, was the FTSE 100’s weakest performer, plunging more than 20% after warning that annual revenue growth would reach only the mid-single-digit range. The online trading company attributed weaker revenue to less favourable market conditions. The announcement also triggered selling across the sector, with CMC Markets and Plus500 both falling more than 7%."
+    },
+    {
+      "id": "te:markets:589072",
+      "time": "2026-10-02 16:06:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises From June Low — The FTSE MIB rose to around 50,500 on Friday, rebounding slightly from its lowest level since June, as easing pressure in bond markets offered some relief to equities. Across the bourse, technology shares outperformed, with Prysmian rising 3.5% and STMicroelectronics gaining 2.0%. Auto stocks also advanced, led by Stellantis, which climbed 4.6%, while Ferrari gained 1.0%. Luxury names traded higher as well, with Moncler up 0.7% and Brunello Cucinelli adding 2.2%. Meanwhile, some financials traded lower, including UniCredit falling 1.8%, Intesa Sanpaolo slipping 0.1%, Generali declining 0.3% and Banco BPM losing 0.2%. Eni also fell 0.2% after extending its 20% discount on diesel and gasoline for agricultural and fishing customers until the end of October. Despite Friday's gain, the benchmark index was heading for its worst week since mid-June."
+    },
     {
       "id": "5123926",
       "time": "2026-10-02 16:06:05",
