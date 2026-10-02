@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-02 22:28:12",
+  "updated": "2026-10-02 22:32:12",
   "count": 11526,
   "items": [
+    {
+      "id": "te:economy:589213",
+      "time": "2026-10-02 22:30:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "New Passenger Car Registrations YoY",
+        "Importance 0"
+      ],
+      "text": "UK New Car Registrations Extend Growth to 10th Month — New car registrations in the UK rose 12.1% from the previous year to 350,518 units in September of 2026, its highest level since March although slowing from a 13.7% rise in the earlier month, according to the Society of Motor Manufacturers and Traders (SMMT). It was a tenth consecutive period of growth, extending the market's recovery toward pre-pandemic levels. Battery electric vehicles rose by 36.3% to a record of 99,199 units to reach 28.3% of market share, as buyers respond to greater model choice, manufacturer incentives and government grants. Plug-in hybrid vehicle registrations also climbed 55.7% to 59,563 units. These were enough to offset the 2.5% decline in petrol vehicles to 141,287 and a 4.2% drop in hybrid electric vehicles to 45,838."
+    },
+    {
+      "id": "5124411",
+      "time": "2026-10-02 22:30:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Sky Federal Credit Union與On Tap Credit Union將尋求合併。"
+    },
+    {
+      "id": "mkt:01a0fd05-1abb-7ee0-a789-04d103a4f15d",
+      "time": "2026-10-02 22:29:25",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bearish"
+      ],
+      "text": "Rivian (RIVN.O) shares fell 2.2% to their lowest level since May. The company had earlier reported record Q3 deliveries."
+    },
+    {
+      "id": "5124410",
+      "time": "2026-10-02 22:29:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Rivian股價跌至5月以來最低，最新下跌2.2%；訊息面上，公司公佈第三季度交付量創紀錄。"
+    },
     {
       "id": "5124409",
       "time": "2026-10-02 22:24:34",
@@ -105666,41 +105705,6 @@
         "國際"
       ],
       "text": "俄羅斯表示其擊中了喬爾諾莫斯克港的一艘幹散貨船。"
-    },
-    {
-      "id": "5113706",
-      "time": "2026-09-25 22:31:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統辛鮑姆：墨西哥正努力解決美國貿易逆差方面的擔憂。"
-    },
-    {
-      "id": "5113705",
-      "time": "2026-09-25 22:30:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "辛鮑姆：不清楚美墨貿易協議是否會在11月前達成。"
-    },
-    {
-      "id": "5113704",
-      "time": "2026-09-25 22:30:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥總統辛鮑姆：電子產品增加了墨西哥對美國的出口。"
-    },
-    {
-      "id": "5113703",
-      "time": "2026-09-25 22:29:56",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日元有望創接近三週最大漲幅 日本首相稱貨幣疲軟“是個問題”】日元有望創下接近三週以來最大單日漲幅，此前日本官員在與美國官員會晤時討論了日元疲軟的問題，推動日元走強。日元週五一度上漲1.2%，至1美元兌156.98日元，表現優於十國集團其他所有貨幣。日本首相高市早苗在與美國總統唐納德·特朗普會晤時表示，貨幣低估“是個問題”，令交易員對於當局可能出手干預以提振日元的風險更加警惕。共同社援引日本財務大臣片山皋月對記者的講話報道，片山皋月和美國財政部長斯科特·貝森特週五在舉行影片會談期間再次確認，日元被低估是一個關切。華僑銀行策略師Moh Siong Sim表示：“干預風險應會限制日元進一步走弱。更重要的是，日元可能正接近轉折點，因為特朗普對日元疲軟的擔憂表明，美日兩國可能進行更深入的協調，以支援日元。”"
     }
   ]
 }

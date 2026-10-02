@@ -1,7 +1,46 @@
 {
   "date": "2026-10-02",
-  "count": 1688,
+  "count": 1692,
   "items": [
+    {
+      "id": "te:economy:589213",
+      "time": "2026-10-02 22:30:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "New Passenger Car Registrations YoY",
+        "Importance 0"
+      ],
+      "text": "UK New Car Registrations Extend Growth to 10th Month — New car registrations in the UK rose 12.1% from the previous year to 350,518 units in September of 2026, its highest level since March although slowing from a 13.7% rise in the earlier month, according to the Society of Motor Manufacturers and Traders (SMMT). It was a tenth consecutive period of growth, extending the market's recovery toward pre-pandemic levels. Battery electric vehicles rose by 36.3% to a record of 99,199 units to reach 28.3% of market share, as buyers respond to greater model choice, manufacturer incentives and government grants. Plug-in hybrid vehicle registrations also climbed 55.7% to 59,563 units. These were enough to offset the 2.5% decline in petrol vehicles to 141,287 and a 4.2% drop in hybrid electric vehicles to 45,838."
+    },
+    {
+      "id": "5124411",
+      "time": "2026-10-02 22:30:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Sky Federal Credit Union與On Tap Credit Union將尋求合併。"
+    },
+    {
+      "id": "mkt:01a0fd05-1abb-7ee0-a789-04d103a4f15d",
+      "time": "2026-10-02 22:29:25",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bearish"
+      ],
+      "text": "Rivian (RIVN.O) shares fell 2.2% to their lowest level since May. The company had earlier reported record Q3 deliveries."
+    },
+    {
+      "id": "5124410",
+      "time": "2026-10-02 22:29:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Rivian股價跌至5月以來最低，最新下跌2.2%；訊息面上，公司公佈第三季度交付量創紀錄。"
+    },
     {
       "id": "5124409",
       "time": "2026-10-02 22:24:34",
