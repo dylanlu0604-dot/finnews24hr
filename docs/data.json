@@ -1,7 +1,64 @@
 {
-  "updated": "2026-10-02 22:55:43",
-  "count": 11525,
+  "updated": "2026-10-02 22:59:37",
+  "count": 11520,
   "items": [
+    {
+      "id": "5124432",
+      "time": "2026-10-02 22:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "GAW Capital房地產私募信貸提交香港IPO申請。"
+    },
+    {
+      "id": "5124431",
+      "time": "2026-10-02 22:57:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認沃爾瑪評級為“AA”和“F1+”，展望穩定。"
+    },
+    {
+      "id": "5124430",
+      "time": "2026-10-02 22:57:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美海岸警衛隊稱與墨西哥聯合攔截M/V Grace號油輪 指其向古巴非法運送燃料 】美國海岸警衛隊10月2日宣佈，在與墨西哥政府的協調執法行動後，已完成對機動船M/V Grace號的攔截，並稱該船涉嫌向古巴非法販運燃料。公告未披露攔截時間、海域、查獲燃料數量及船旗等細節，也未說明墨西哥方面具體參與方式與後續處置安排。"
+    },
+    {
+      "id": "5124429",
+      "time": "2026-10-02 22:56:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍：攔截涉嫌走私燃料的“格蕾絲”號貨輪。"
+    },
+    {
+      "id": "mkt:01a0fd1d-3df6-7ee0-a789-4e3043dd213d",
+      "time": "2026-10-02 22:55:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "TD Securities now expects the Federal Reserve to raise rates in December and March, versus previous estimates of October and January."
+    },
+    {
+      "id": "5124428",
+      "time": "2026-10-02 22:55:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "道明證券預計美聯儲將在12月和3月加息，此前預計為10月和1月。"
+    },
     {
       "id": "mkt:01a0fd1c-af74-7ee0-a789-4787020369ca",
       "time": "2026-10-02 22:55:10",
@@ -105581,105 +105638,6 @@
         "Importance 2"
       ],
       "text": "Oil Retreats on Talks of a Phased Deal — Crude oil eased below $94 a barrel on Friday as US and Iranian negotiators explored a phased agreement to reopen the Strait of Hormuz. The proposed arrangement would reportedly involve Tehran restoring access through the strait while Washington lifts its blockade of Iranian ports. However, previous negotiations have repeatedly appeared close to a breakthrough before collapsing. A White House official said President Donald Trump remained open to discussions with Iran but argued that the US was under no pressure to negotiate given its sanctions campaign and blockade. Oil markets have remained volatile throughout the week, responding to mixed signals over prospects for peace, signs of recovering Middle East energy flows and speculation that Washington could restrict diesel exports. Despite recent gains, the US oil benchmark is down by around 2% this week, reflecting continued uncertainty over the potential reopening of the key shipping route and the broader supply outlook."
-    },
-    {
-      "id": "5113728",
-      "time": "2026-09-25 22:59:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "潘興廣場控股公司追加1億美元股票回購。"
-    },
-    {
-      "id": "mkt:01a0d913-4ffe-7118-869e-78f9ef9b0213",
-      "time": "2026-09-25 22:58:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said the Treasury must maintain close communication with money markets."
-    },
-    {
-      "id": "5113727",
-      "time": "2026-09-25 22:58:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "迦納計劃未來四年在關鍵領域投資100億美元。"
-    },
-    {
-      "id": "mkt:01a0d912-4d4b-7118-869e-70c2b05011d8",
-      "time": "2026-09-25 22:57:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said his dialogue with Satsuki Katayama was built on Trump and Sanae Takaichi."
-    },
-    {
-      "id": "5113726",
-      "time": "2026-09-25 22:57:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：必須與貨幣市場保持密切溝通。"
-    },
-    {
-      "id": "mkt:01a0d912-2f82-7118-869e-6e862c63d062",
-      "time": "2026-09-25 22:57:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. appeals court refused to block the Pentagon's decision to place ANTHROPIC on a blacklist."
-    },
-    {
-      "id": "5113725",
-      "time": "2026-09-25 22:57:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特：與片山皋月的對話建立在特朗普與高市早苗的基礎上。"
-    },
-    {
-      "id": "mkt:01a0d911-dcd9-7118-869e-66f3b3bcb86a",
-      "time": "2026-09-25 22:57:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "DXY"
-      ],
-      "text": "US Treasury Secretary Bessent said today he had a productive call with Japan's finance minister Katayama; they discussed the need for a strong yen."
-    },
-    {
-      "id": "5113724",
-      "time": "2026-09-25 22:56:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國上訴法院裁定，駁回阻止五角大樓將Anthropic公司列入黑名單的請求。"
-    },
-    {
-      "id": "5113723",
-      "time": "2026-09-25 22:55:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "貝森特：討論了日元走強的可取性。"
-    },
-    {
-      "id": "5113722",
-      "time": "2026-09-25 22:55:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：今天與片山皋月進行了富有成效的通話。"
     }
   ]
 }

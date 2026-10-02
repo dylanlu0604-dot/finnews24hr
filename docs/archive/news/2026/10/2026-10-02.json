@@ -1,7 +1,64 @@
 {
   "date": "2026-10-02",
-  "count": 1720,
+  "count": 1726,
   "items": [
+    {
+      "id": "5124432",
+      "time": "2026-10-02 22:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "GAW Capital房地產私募信貸提交香港IPO申請。"
+    },
+    {
+      "id": "5124431",
+      "time": "2026-10-02 22:57:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認沃爾瑪評級為“AA”和“F1+”，展望穩定。"
+    },
+    {
+      "id": "5124430",
+      "time": "2026-10-02 22:57:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美海岸警衛隊稱與墨西哥聯合攔截M/V Grace號油輪 指其向古巴非法運送燃料 】美國海岸警衛隊10月2日宣佈，在與墨西哥政府的協調執法行動後，已完成對機動船M/V Grace號的攔截，並稱該船涉嫌向古巴非法販運燃料。公告未披露攔截時間、海域、查獲燃料數量及船旗等細節，也未說明墨西哥方面具體參與方式與後續處置安排。"
+    },
+    {
+      "id": "5124429",
+      "time": "2026-10-02 22:56:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍：攔截涉嫌走私燃料的“格蕾絲”號貨輪。"
+    },
+    {
+      "id": "mkt:01a0fd1d-3df6-7ee0-a789-4e3043dd213d",
+      "time": "2026-10-02 22:55:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "TD Securities now expects the Federal Reserve to raise rates in December and March, versus previous estimates of October and January."
+    },
+    {
+      "id": "5124428",
+      "time": "2026-10-02 22:55:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "道明證券預計美聯儲將在12月和3月加息，此前預計為10月和1月。"
+    },
     {
       "id": "mkt:01a0fd1c-af74-7ee0-a789-4787020369ca",
       "time": "2026-10-02 22:55:10",
