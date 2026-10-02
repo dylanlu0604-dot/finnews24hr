@@ -1,7 +1,60 @@
 {
   "date": "2026-10-02",
-  "count": 868,
+  "count": 873,
   "items": [
+    {
+      "id": "5123617",
+      "time": "2026-10-02 10:47:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國被曝向中東派遣第三艘航母 增派近萬名士兵】美國《華爾街日報》10月1日援引美官員的話報道說，五角大樓正向中東派遣第三個航空母艦打擊群和更多海軍陸戰隊艦艇，還向該地區增派近1萬名士兵。報道稱，“羅斯福”號航母於9月27日離開加利福尼亞州聖迭戈港，“按計劃執行部署任務”。而由3艘兩棲艦艇組成的“馬金島”號兩棲戒備群於9月28日啟程，其上載有來自美國海軍陸戰隊遠征部隊的官兵。美國官員表示，艦艇、戰鬥機和海軍陸戰隊員將於11月底抵達中東地區。（新華社）"
+    },
+    {
+      "id": "mkt:01a0fa82-b4a5-7ee0-a783-9a7acae483b0",
+      "time": "2026-10-02 10:47:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen North Railway Station handles 465,300 passengers on first day of National Day holiday, a record】On Oct. 1, the first day of the National Day holiday, Shenzhen North Railway Station handled 465,300 passengers, setting a new single‑day record for the station."
+    },
+    {
+      "id": "5123616",
+      "time": "2026-10-02 10:47:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶首日深圳北站傳送旅客46.53萬人次 重新整理歷史紀錄】10月1日，國慶假期首日，深圳北站迎來客流“井噴”。據統計，當日深圳北站傳送旅客46.53萬人次，跨越式重新整理該站單日傳送旅客量歷史紀錄。"
+    },
+    {
+      "id": "mkt:01a0fa81-5664-7ee0-a783-906189ac3f35",
+      "time": "2026-10-02 10:46:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "【Japan economy minister says country has exited deflation, excessive monetary easing unnecessary】Japan's economy minister said on Friday the country is no longer in deflation and therefore does not need excessively loose monetary policy aimed at pushing inflation higher. He declined to say whether the government would oppose further Bank of Japan rate hikes, saying monetary policy decisions are the Bank of Japan's remit."
+    },
+    {
+      "id": "mkt:01a0fa80-24c8-7ee0-a783-8df876269ca3",
+      "time": "2026-10-02 10:44:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "Alibaba",
+        "9988.HK",
+        "Impact bullish"
+      ],
+      "text": "【Nomura: Alibaba's AI and cloud growth likely to continue; raises FY2027 adj. net profit forecast 7%】Nomura analysts say Alibaba (09988.HK) is likely to sustain strong AI and cloud growth, citing solid positions across the AI value chain — chips, infrastructure, models and applications. They say management is prioritizing profitability in other businesses, including e-commerce, to preserve cash for AI investment. Nomura raised its FY2027 adjusted net profit forecast by 7%, driven mainly by higher expected e-commerce margins."
+    },
     {
       "id": "te:markets:588973",
       "time": "2026-10-02 10:39:29",
