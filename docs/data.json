@@ -1,7 +1,122 @@
 {
-  "updated": "2026-10-02 16:03:13",
-  "count": 11692,
+  "updated": "2026-10-02 16:07:00",
+  "count": 11693,
   "items": [
+    {
+      "id": "5123926",
+      "time": "2026-10-02 16:06:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "New Street Research將亞馬遜<AMZN.O>目標價從350美元上調至385美元。"
+    },
+    {
+      "id": "5123925",
+      "time": "2026-10-02 16:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍昨晚與美國總統特朗普、加拿大總理卡尼就全球能源局勢進行了通話。"
+    },
+    {
+      "id": "5123924",
+      "time": "2026-10-02 16:05:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守90美元/桶，日內跌3.15%。"
+    },
+    {
+      "id": "te:markets:589069",
+      "time": "2026-10-02 16:05:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 1.40% — Top commodity gainers are Platinum (1.40%), Silver (1.26%), Copper (0.80%) and Gold (0.23%)."
+    },
+    {
+      "id": "5123923",
+      "time": "2026-10-02 16:04:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌3%，現報90.08美元/桶。"
+    },
+    {
+      "id": "5123922",
+      "time": "2026-10-02 16:04:49",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "布倫特原油與美國原油期貨在有報道稱歐洲可能釋放柴油和原油儲備後，跌幅進一步擴大。WTI原油日內跌3%，現報90.08美元/桶，布倫特原油日內跌2%，現報100.26美元/桶。"
+    },
+    {
+      "id": "5123921",
+      "time": "2026-10-02 16:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國9月新車註冊量初值同比增長12.1%。"
+    },
+    {
+      "id": "5123920",
+      "time": "2026-10-02 16:04:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報100.26美元/桶。"
+    },
+    {
+      "id": "5123919",
+      "time": "2026-10-02 16:03:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國糧農組織9月世界食品價格指數平均為136.0點，8月修正後為134.0點"
+    },
+    {
+      "id": "mkt:01a0fba3-c6f5-7ee0-a787-bcdee1465dbe",
+      "time": "2026-10-02 16:03:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Retail Sales (YoY) (Aug) | actual 0.5% | previous 0.80%"
+    },
+    {
+      "id": "mkt:01a0fba3-b5d9-7ee0-a787-b20fb48a0adb",
+      "time": "2026-10-02 16:03:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Retail Sales SA (MoM) (Aug) | actual 0.3% | previous -0.40%"
+    },
+    {
+      "id": "5123918",
+      "time": "2026-10-02 16:03:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "耐克美股盤前跌超8%，公司預測全年營收下滑，2027財年第一季度銷售額不及預期。"
+    },
+    {
+      "id": "5123917",
+      "time": "2026-10-02 16:02:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Codex負責人Tibo：Gpt將重置】Tibo釋出推文表示，全球重置將於明天太平洋時間上午10點面向所有付費ChatGPT賬戶上線。對GPT-6.1 Sol啟動緩慢深表歉意，在最初兩天出現巨大負載高峰後，目前已恢復至預期執行速度。"
+    },
     {
       "id": "5123916",
       "time": "2026-10-02 16:01:20",
@@ -107213,124 +107328,6 @@
         "Emerging Markets"
       ],
       "text": "Market sources: Egyptian and Iranian foreign ministers discussed a proposed agreement."
-    },
-    {
-      "id": "5113272",
-      "time": "2026-09-25 16:06:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼基準股指下跌 1%，報 6235.23 點。"
-    },
-    {
-      "id": "5113271",
-      "time": "2026-09-25 16:06:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所（LME）鎳倉單庫存增加 6120 噸，為 1 月以來最大增幅。"
-    },
-    {
-      "id": "te:markets:586856",
-      "time": "2026-09-25 16:05:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Copper Drops by 0.75% — Today's Metals commodities market is characterized by modest daily movements, with Copper standing out as the frontrunner with a -0.75% decrease."
-    },
-    {
-      "id": "mkt:01a0d798-83b1-7118-8697-0ceff91d8cdf",
-      "time": "2026-09-25 16:04:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's President Zelenskiy said Egypt, India, Turkey and representatives from the Middle East are participating in talks to lift the Black Sea blockade."
-    },
-    {
-      "id": "te:markets:586855",
-      "time": "2026-09-25 16:04:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Head for Weekly Gains — The CAC 40 edged higher to around 8,092 on Friday and was poised for weekly gains as lower oil prices and calmer bond markets supported equities. Reports emerged that the US and Iran were exploring a phased agreement that could lead to the reopening of the Strait of Hormuz, easing concerns over energy supply disruptions. On the domestic front, private-sector payroll employment fell 0.1% quarter-on-quarter, or 24,300 jobs, to 21 million in the second quarter of 2026, confirming preliminary estimates and following a revised flat reading in the previous quarter. Banking stocks led the gains, with BNP Paribas (0.8%), Crédit Agricole (1.1%), and Société Générale (2.9%) among the strongest performers. Other notable advancers included STMicroelectronics (2.9%), Legrand (1.9%), and Schneider Electric (2.0%)."
-    },
-    {
-      "id": "5113270",
-      "time": "2026-09-25 16:04:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Akamai美股盤前漲21%，此前公司與Anthropic簽署了價值116億美元的雲端計算協議。"
-    },
-    {
-      "id": "mkt:01a0d798-430f-7118-8697-04a56d8ed5e0",
-      "time": "2026-09-25 16:04:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AKAM.O",
-        "Impact bullish"
-      ],
-      "text": "Akamai (AKAM.O) U.S. shares rose 21% in pre-market trading after the company signed a $11.6 bln cloud-computing agreement with ANTHROPIC."
-    },
-    {
-      "id": "5113269",
-      "time": "2026-09-25 16:04:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞9月1日至25日棕櫚油出口量為887,557噸。"
-    },
-    {
-      "id": "5113268",
-      "time": "2026-09-25 16:04:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，埃及、印度、土耳其以及中東地區的代表將參與打通黑海航道的談判。"
-    },
-    {
-      "id": "mkt:01a0d797-7f9d-7118-8696-fe4ac9ed22a8",
-      "time": "2026-09-25 16:03:45",
-      "tags": [
-        "MKT News",
-        "JNJ.N",
-        "Impact bearish",
-        "MRNA.O",
-        "Impact mixed",
-        "ABBV.N"
-      ],
-      "text": "【US biotech sector down in premarket】US biotech stocks were broadly softer in premarket trading: Johnson & Johnson (JNJ.N) down 0.13%, Moderna (MRNA.O) up 0.99%, Novo Nordisk (NVO.N) down 0.16%, AbbVie (ABBV.N) down 0.23%."
-    },
-    {
-      "id": "5113267",
-      "time": "2026-09-25 16:03:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿布扎比交易所加入環球銀行金融電信協會網路，強化全球市場準入與國際投資者聯接。"
-    },
-    {
-      "id": "te:markets:586854",
-      "time": "2026-09-25 16:03:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Sterling Hovers Near Three-Month Low on Strong Dollar — Sterling ended the week just above $1.32, hovering near its lowest level in three months, as the US dollar remained supported by growing expectations of further Federal Reserve rate hikes this year. Investors also assessed recent comments from Bank of England policymakers for clues on the outlook for monetary policy. The US-Iran conflict and elevated energy prices continue to fuel concerns over renewed inflationary pressures, prompting markets to price in a solid probability of a 25bp BoE rate hike in November. BoE Deputy Governor Sarah Breeden said it could become “increasingly appropriate” to respond to rising inflation risks by raising interest rates. Deputy Governor Clare Lombardelli likewise said rates may need to rise if energy prices remain elevated, while MPC member Swati Dhingra, one of the more dovish policymakers, said inflation expectations were not yet a source of concern. Meanwhile, UK consumer confidence reached its highest level in more than two years in September."
     }
   ]
 }
