@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-02 23:15:11",
-  "count": 11521,
+  "updated": "2026-10-02 23:19:08",
+  "count": 11524,
   "items": [
+    {
+      "id": "5124452",
+      "time": "2026-10-02 23:18:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【假期入境消費活力拉滿】連日來，深圳華強北商圈熱度攀升。豐富的電子產品、快速迭代的新品，吸引多國遊客前來選購。在華強北，為了迎接國慶假期，很多商家提前上新，新款機器人、AI翻譯機吸引很多海外遊客駐足。無論是多次到訪華強北的熟客，還是初次前來的遊客，都感受到了這裡火熱的消費氛圍。不僅是華強北，深圳圍繞入境遊客“吃住行遊購娛”全場景，全面提升“中國遊、中國購”體驗。據深圳市統計局資料，2026年1—8月，全市社會消費品零售總額6832.48億元，同比增長1.6%，其中通訊器材類零售額增長53.8%；深圳邊檢資料顯示，同期口岸出入境外國人突破500萬人次，入境消費活力持續提升。（央視財經）"
+    },
+    {
+      "id": "5124451",
+      "time": "2026-10-02 23:17:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國就業增長遜於預期 企業招聘保持謹慎】美國9月份新增就業人數低於預期，薪資增速放緩，顯示隨著成本上升，僱主在招聘方面趨於謹慎。美國勞工統計局週五公佈的資料顯示，9月份非農就業人數增加2.9萬人，此前兩個月的資料被下修。這一增幅低於彭博調查中所有經濟學家的預期。失業率升至4.2%。穩健的消費者支出和強勁的企業投資為招聘提供了支撐，但許多注重成本控制的僱主仍不願擴大員工規模。不過，裁員仍較為有限。由於失業率從歷史水平來看仍然較低，美聯儲官員在考慮何時再次加息時，可以繼續將注意力集中在通脹上。資料公佈後，交易員削減了對美聯儲10月加息的押注。Jefferies LLC首席美國經濟學家Thomas Simons在報告中表示，“對美聯儲而言，這一資料應該會徹底打消10月加息的可能性。現在看來，那些強調距離再次需要加息還有一些時間的決策者，更有可能繼續保持耐心。”"
+    },
+    {
+      "id": "5124450",
+      "time": "2026-10-02 23:17:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "輝瑞Litfulo白癜風資料將提交FDA和EMA。"
+    },
+    {
+      "id": "5124449",
+      "time": "2026-10-02 23:15:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "輝瑞LITFULO顯著改善非節段性白癜風患者面部及全身複色情況。"
+    },
     {
       "id": "5124448",
       "time": "2026-10-02 23:14:27",
@@ -105611,18 +105644,6 @@
         "Brent"
       ],
       "text": "【Sources: Perm refinery, Russia's seventh-largest, hit by Ukrainian drones and taken offline】Two industry sources said the Perm refinery has stopped operations after a Ukrainian drone attack on Friday that sparked a fire and damaged pipelines, storage tanks and processing units. The plant, about 1,460 km northeast of Moscow, processed roughly 12.6 mln tonnes of crude in 2024 (about 252,000 b/d) and produced ~2.0 mln t gasoline, 5.3 mln t diesel, 0.2 mln t fuel oil and 0.7 mln t petroleum coke."
-    },
-    {
-      "id": "te:economy:586975",
-      "time": "2026-09-25 23:16:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "Canada Budget Deficit Widens in July — Canada’s federal deficit widened to C$4.77 billion in July 2026 from C$1.51 billion a year earlier, as fiscal expenditures increased. Program expenses, excluding net actuarial losses, rose 5.1% to C$41.81 billion, largely due to higher direct program expenses and major transfers to persons, partly offset by lower pollution pricing proceeds returned to Canadians. Public debt charges also increased 7.4% to C$5.4 billion, reflecting higher average effective interest rates on a larger stock of marketable bonds. Net actuarial losses rose 23.9% to C$415 million. Meanwhile, revenues rose 7.4% to C$42.8 billion, largely reflecting higher personal income tax revenues, partly offset by lower customs import duties, energy tax revenues and corporate income tax revenues."
     }
   ]
 }
