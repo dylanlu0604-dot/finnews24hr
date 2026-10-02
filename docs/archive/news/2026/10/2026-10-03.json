@@ -1,7 +1,23 @@
 {
   "date": "2026-10-03",
-  "count": 227,
+  "count": 229,
   "items": [
+    {
+      "id": "mkt:01a0fe2b-cd4e-7ee0-a78c-b50933b0fa55",
+      "time": "2026-10-03 03:51:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy set its 2026 deficit-to-GDP target at 2.9%, unchanged from the April projection."
+    },
+    {
+      "id": "5124662",
+      "time": "2026-10-03 03:50:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利設定 2026 年赤字率目標為 2.9%，與 4 月預測值保持不變。"
+    },
     {
       "id": "mkt:01a0fe25-ebd4-7ee0-a78c-a800183f1493",
       "time": "2026-10-03 03:44:53",
