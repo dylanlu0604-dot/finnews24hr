@@ -1,7 +1,94 @@
 {
   "date": "2026-10-02",
-  "count": 1757,
+  "count": 1766,
   "items": [
+    {
+      "id": "mkt:01a0fd38-ff24-7ee0-a789-8bccfdd756a5",
+      "time": "2026-10-02 23:26:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot silver fell below $60/oz, down 1.62% on the day. Spot gold is down 0.94%."
+    },
+    {
+      "id": "te:markets:589224",
+      "time": "2026-10-02 23:26:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "General Dynamics Shares Hit 22-week Low — General Dynamics shares decreased to 328.00 USD, the lowest since April 2026. Over the past 4 weeks, General Dynamics lost 10.28%, and in the last 12 months, it decreased 4.47%."
+    },
+    {
+      "id": "5124461",
+      "time": "2026-10-02 23:25:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數漲幅收窄至不足0.5%，納斯達克100指數上漲0.8%。"
+    },
+    {
+      "id": "mkt:01a0fd37-e17c-7ee0-a789-806d89f91010",
+      "time": "2026-10-02 23:24:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq Golden Dragon China Index fell as much as 2% intraday."
+    },
+    {
+      "id": "5124460",
+      "time": "2026-10-02 23:24:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，陸金所控股跌10.92%，MAAS跌9.04%，世紀互聯跌7.56%，萬國資料跌6.61%，震坤行跌4.24%。"
+    },
+    {
+      "id": "mkt:01a0fd36-43b7-7ee0-a789-7e3345986f9d",
+      "time": "2026-10-02 23:23:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said strategic bombers participated in military exercises."
+    },
+    {
+      "id": "5124459",
+      "time": "2026-10-02 23:22:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱其戰略轟炸機參與了軍事演習。"
+    },
+    {
+      "id": "5124458",
+      "time": "2026-10-02 23:22:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "加利福尼亞州、紐約州及其他24個州、郡與城市起訴特朗普政府放寬車輛燃油經濟性標準。"
+    },
+    {
+      "id": "5124457",
+      "time": "2026-10-02 23:22:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列中央選舉委員會要求國家安全部長刪除爭議影片】據多家以色列媒體報道，以色列中央選舉委員會2日要求國家安全部長本-格維爾刪除其釋出在社交媒體上一段引發爭議的影片。以色列《國土報》報道，本週早些時候本-格維爾釋出的一段影片顯示，本-格維爾與一名巴勒斯坦被囚人員對峙，本-格維爾還宣稱，他為讓後者監禁條件更加艱難而“自豪”。本-格維爾還威脅這名巴勒斯坦人“我要殺了你”“我要處決你”。報道說，涉事被囚人員名叫哈桑·薩拉梅，系巴勒斯坦伊斯蘭抵抗運動（哈馬斯）成員，因牽涉1996年針對以色列人的襲擊事件而被判處終身監禁。批評這段影片的請願者認為，在監獄內拍攝影片的行為違反了“禁止將公共資源用於競選活動的禁令”。以中央選舉委員會接受了這一觀點並於2日裁定，本-格維爾釋出這段影片的目的是“選舉宣傳，而非像本-格維爾所稱的那樣起到威懾作用”。該裁定還說，本-格維爾應以個人名義向請願方支付2萬新謝克爾（約6500美元）的法律費用，他所在政黨還須承擔相關費用。以色列議會選舉定於10月27日舉行。按以色列媒體說法，這將是以色列近40年來首次按計劃而非提前舉行議會選舉。（新華社）"
+    },
     {
       "id": "5124456",
       "time": "2026-10-02 23:21:51",
