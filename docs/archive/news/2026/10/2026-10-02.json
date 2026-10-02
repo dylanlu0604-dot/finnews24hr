@@ -1,7 +1,63 @@
 {
   "date": "2026-10-02",
-  "count": 800,
+  "count": 806,
   "items": [
+    {
+      "id": "5123584",
+      "time": "2026-10-02 09:46:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "賽力斯港股盤中一度漲超9%，報38.3港元/股。"
+    },
+    {
+      "id": "5123583",
+      "time": "2026-10-02 09:46:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：也許我們會達成協議，也許不會。"
+    },
+    {
+      "id": "5123582",
+      "time": "2026-10-02 09:45:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗不會擁有核武器。"
+    },
+    {
+      "id": "te:markets:588959",
+      "time": "2026-10-02 09:45:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "HSBC Holdings Stock Price Hits 13-week Low — HSBC Holdings shares decreased to 149.40 HKD, the lowest since July 2026. Over the past 4 weeks, HSBC Holdings lost 1.86%, and in the last 12 months, it increased 42.6%."
+    },
+    {
+      "id": "5123581",
+      "time": "2026-10-02 09:44:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1164.88美元/盎司。"
+    },
+    {
+      "id": "te:markets:588958",
+      "time": "2026-10-02 09:44:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Edge Lower on Inflation Concerns — The benchmark KOSPI edged down to around 6,950 on Friday, reversing gains from the previous session as concerns over domestic inflation and elevated global bond yields weighed on the index. Korea’s CPI held at 2.9% in September, while the BOK warned that inflation could stay around 3% in October, raising the prospect of another rate hike. At the same time, US Treasury yields stayed high after the 10-year yield briefly topped 5.3%, while oil prices climbed above $100 a barrel amid renewed Middle East tensions, adding to inflation risks. However, stronger-than-expected results and an upbeat memory outlook from Micron provided a positive read-through for Samsung Electronics and SK hynix, while record South Korean semiconductor exports reinforced the sector’s strong outlook. Large-cap stocks were mixed, with losses seen in Samsung C&T Corp (-1.4%), Doosan Enerbility (-0.85%), and HD Hyundai Heavy Industries (-1.0%), while Samsung Electronics and SK Square edged higher."
+    },
     {
       "id": "mkt:01a0fa47-9c1a-7ee0-a782-d406bc71c2b8",
       "time": "2026-10-02 09:43:12",
