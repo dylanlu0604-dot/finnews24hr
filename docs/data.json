@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-03 03:51:53",
-  "count": 11544,
+  "updated": "2026-10-03 03:55:34",
+  "count": 11542,
   "items": [
+    {
+      "id": "mkt:01a0fe2f-4afa-7ee0-a78c-bc4429283226",
+      "time": "2026-10-03 03:55:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi, Turkey, Pakistan to discuss political contact with Houthi militants】Pakistan Deputy Prime Minister and Foreign Minister Dar said at a press briefing in Islamabad on the 2nd that the Mecca Defense Alliance Strategic Political and Defense Committee will hold an emergency meeting next week in Riyadh. Saudi Arabia, Turkey and Pakistan will discuss possible political contact with Yemen’s Houthi movement; Dar said the proposal was put forward by Iran, which wants a rapid resolution, and that it exists only as a verbal understanding between him and Iranian foreign minister Alaghezi rather than as a formal written text. He added Pakistan has briefed Iran on the Mecca Joint Defense Agreement and on how Pakistan would implement it."
+    },
+    {
+      "id": "5124663",
+      "time": "2026-10-03 03:53:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙土巴三國將會商與胡塞武裝政治接觸】巴基斯坦副總理兼外交部長達爾2日在巴首都伊斯蘭堡舉行的記者會上表示，“麥加防務聯盟”戰略政治與防務委員會將於下週在沙烏地阿拉伯首都利雅得召開緊急會議。沙特、土耳其和巴基斯坦三國將商討與葉門胡塞武裝進行政治接觸的可能性。達爾表示，這一建議由伊朗方面提出，伊方希望此事儘快解決。他強調，這一提議並未形成正式書面文字，僅是他與伊朗外長阿拉格齊之間的口頭約定。他還表示，已向伊方通報了《麥加共同防務協議》內容以及巴方將如何履行該協議。（新華社）"
+    },
     {
       "id": "mkt:01a0fe2b-cd4e-7ee0-a78c-b50933b0fa55",
       "time": "2026-10-03 03:51:18",
@@ -105682,40 +105698,6 @@
         "其他"
       ],
       "text": "KALSHI現已受俄亥俄州和田納西州法律管轄。"
-    },
-    {
-      "id": "5113930",
-      "time": "2026-09-26 03:54:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期美國國債收益率最新下跌0.57個基點，報5.156%。"
-    },
-    {
-      "id": "5113929",
-      "time": "2026-09-26 03:54:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【紐約聯儲部落格：美聯儲採用“證券主導”的儲備管理方式】美國紐約聯儲部落格欄目“Teller Window”發表文章稱，在全球央行管理銀行體系準備金的方式上，美聯儲與英國央行及歐洲央行之間存在明顯差異。美聯儲採取“證券主導”的方式提供邊際準備金，而歐洲央行和英國央行則採用“回購主導”的方式。"
-    },
-    {
-      "id": "5113927",
-      "time": "2026-09-26 03:53:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【Meta在劍橋分析醜聞相關新墨西哥州訴訟中敗訴】美國新墨西哥州一家州法院的陪審團週五裁定，Meta Platforms Inc.在劍橋分析醜聞期間就其內容稽核政策和資料隱私政策誤導公眾，違反了新墨西哥州法律。案件現在將交由法官裁決。聖菲第一司法巡迴法院法官Francis Mathew將確定民事處罰金額，每項違規最高可處以5000美元罰款。"
-    },
-    {
-      "id": "mkt:01a0da20-f97b-7118-86a2-ee50e9723395",
-      "time": "2026-09-26 03:53:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said an interceptor missile fired earlier on Friday at a suspicious airborne object over southern Lebanon was, on preliminary assessment, launched in error due to misidentification. The incident is under investigation."
     }
   ]
 }
