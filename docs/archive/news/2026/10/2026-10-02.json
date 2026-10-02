@@ -1,7 +1,69 @@
 {
   "date": "2026-10-02",
-  "count": 1312,
+  "count": 1319,
   "items": [
+    {
+      "id": "5123974",
+      "time": "2026-10-02 16:47:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國提議釋放1億桶柴油和原油。"
+    },
+    {
+      "id": "5123973",
+      "time": "2026-10-02 16:47:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "恒生指數公司宣佈將於11月20日宣佈2026年第三季度恒生指數系列檢討結果。"
+    },
+    {
+      "id": "5123972",
+      "time": "2026-10-02 16:47:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國已提議歐洲和國際能源署釋出新的柴油和原油排放標準。"
+    },
+    {
+      "id": "5123971",
+      "time": "2026-10-02 16:47:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認寮國評級為“CCC+”。"
+    },
+    {
+      "id": "5123970",
+      "time": "2026-10-02 16:47:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【全球最大LNG買家預計卡達供應短期內難以恢復】全球最大液化天然氣(LNG)買家的負責人預計，霍爾木茲海峽的通行中斷將持續，進一步限制這一地區的LNG外運。在中東戰爭爆發前，該地區約佔全球LNG供應量的五分之一。日本Jera Co.董事長兼全球執行長Yukio Kani週五接受採訪時說，“我們預計卡達LNG不會很快重返市場。”他說，目前LNG現貨價格是去年同期的兩倍，“市場參與者對即將到來的這個冬季感到擔憂。”卡達是衝突爆發前全球第二大LNG供應國。卡達LNG供應缺席，推動現貨價格上個月升至2022年底以來最高水平。市場供應趨緊可能加劇歐洲與亞洲對美國等地替代供應的爭奪。"
+    },
+    {
+      "id": "te:economy:589091",
+      "time": "2026-10-02 16:46:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "IPC-Fipe Inflation MoM",
+        "Importance 1"
+      ],
+      "text": "São Paulo Monthly Inflation Highest in 6 Months — Consumer prices in São Paulo increased 0.51% month-on-month in September 2026, the biggest rise in six months, following a flat reading in August. Housing costs rebounded, recording the largest increase (0.98% vs -0.3%), while food prices also recovered (0.44% vs -0.18%), alongside transportation costs (0.3% vs -0.43%). On the other hand, a slowdown was seen for personal expenses (0.3% vs 1.34%), health (0.19% vs 0.24%) and clothing (0.02% vs 0.32%). Education costs flattened."
+    },
+    {
+      "id": "5123969",
+      "time": "2026-10-02 16:45:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，英國9月新車銷量創下2017年以來最高水平。"
+    },
     {
       "id": "5123968",
       "time": "2026-10-02 16:44:03",
