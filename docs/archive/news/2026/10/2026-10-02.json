@@ -1,7 +1,61 @@
 {
   "date": "2026-10-02",
-  "count": 1210,
+  "count": 1217,
   "items": [
+    {
+      "id": "5123890",
+      "time": "2026-10-02 15:43:00",
+      "tags": [
+        "行業",
+        "資料",
+        "其他"
+      ],
+      "text": "【10月1日，全社會跨區域人員流動量32949.5萬人次】2026年10月1日（國慶假期第1日），全社會跨區域人員流動量32949.5萬人次，環比增長50.2%，比2025年同期（10月1日，中秋國慶假期第1日，下同）下降1.9%。其中：鐵路客運量2520.4萬人次，環比增長29.0%，同比增長9.0%；公路人員流動量（包括高速公路及普通國省道非營業性小客車人員出行量、公路營業性客運量）30036萬人次，環比增長52.8%，同比下降2.8%。其中公路營業性客運量4471萬人次，環比增長22.2%，同比增長8.5%；高速公路及普通國省道非營業性小客車人員出行量25565萬人次，環比增長59.8%，同比下降4.5%；水路客運量141.6萬人次，環比增長72.3%，同比增長7.2%；民航客運量251.5萬人次，環比增長2.6%，同比增長0.5%。（交通運輸部）"
+    },
+    {
+      "id": "5123889",
+      "time": "2026-10-02 15:42:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒將嘉信理財目標價從118美元下調至100美元。"
+    },
+    {
+      "id": "5123888",
+      "time": "2026-10-02 15:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京稱讚莫迪：他對解決俄烏衝突有“很好的想法”】據《印度教徒報》、印度新德里電視臺（NDTV）等媒體報道，俄羅斯總統普京當地時間週四（10月1日）稱讚並感謝印度總理莫迪為結束俄烏衝突而作的努力，稱莫迪對解決衝突有“很好的想法”。（環球網）"
+    },
+    {
+      "id": "te:markets:589059",
+      "time": "2026-10-02 15:42:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Rebound on Friday — European stocks traded higher on Friday, with both the STOXX 50 and STOXX 600 gaining 0.3%, following losses in the previous two sessions. The rebound came as the bond sell-off eased, offering some relief to investors, although French government bonds remained under pressure amid concerns over the country’s fiscal and political outlook. Investors are awaiting Eurozone inflation data later this morning, with headline inflation expected to accelerate to 3.6%. The pharmaceutical and banking sectors were among the weakest performers. Despite Friday’s gains, the STOXX 50 is down 2% for the week, while the STOXX 600 has fallen 1.9%, putting both indexes on track for their worst weekly performance since April."
+    },
+    {
+      "id": "5123887",
+      "time": "2026-10-02 15:41:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒將Coinbase目標價從146美元上調至170美元。"
+    },
+    {
+      "id": "5123886",
+      "time": "2026-10-02 15:39:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "新世界股價此前一度下跌7.3%，隨後持平。"
+    },
     {
       "id": "5123885",
       "time": "2026-10-02 15:38:21",
@@ -89,6 +143,15 @@
         "市場"
       ],
       "text": "WTI原油日內跌2%，現報91.00美元/桶。"
+    },
+    {
+      "id": "5123879",
+      "time": "2026-10-02 15:34:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委雷恩：能源價格接近歐洲央行通脹不利情景】歐洲央行管委雷恩週五表示，能源價格正在接近歐洲央行設定的“不利”情景，但長期借貸成本飆升限制了這輪通脹向更廣泛經濟領域傳導的程度。歐元區通脹率已達到歐洲央行目標水平的兩倍，這一情況給歐洲央行帶來進一步加息壓力。儘管歐洲央行表示，通脹風險偏向高於預測水平，但雷恩指出，風險存在雙向變化。他補充稱：“這凸顯出，經濟增長和通脹預測仍面臨非常高且廣泛的不確定性。”雷恩還警告稱，科技企業借貸可能帶來穩定性風險，因為相關估值過高，市場可能出現調整。他表示：“與人工智慧相關的估值大幅修正可能透過股票市場和信貸市場蔓延。歷史告訴我們，技術革命可以改變經濟，但金融市場也可能高估其短期回報。”"
     },
     {
       "id": "mkt:01a0fb89-66b9-7ee0-a787-8e9f70bd7eed",

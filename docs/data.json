@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-02 15:40:18",
-  "count": 11697,
+  "updated": "2026-10-02 15:44:08",
+  "count": 11694,
   "items": [
+    {
+      "id": "5123890",
+      "time": "2026-10-02 15:43:00",
+      "tags": [
+        "行業",
+        "資料",
+        "其他"
+      ],
+      "text": "【10月1日，全社會跨區域人員流動量32949.5萬人次】2026年10月1日（國慶假期第1日），全社會跨區域人員流動量32949.5萬人次，環比增長50.2%，比2025年同期（10月1日，中秋國慶假期第1日，下同）下降1.9%。其中：鐵路客運量2520.4萬人次，環比增長29.0%，同比增長9.0%；公路人員流動量（包括高速公路及普通國省道非營業性小客車人員出行量、公路營業性客運量）30036萬人次，環比增長52.8%，同比下降2.8%。其中公路營業性客運量4471萬人次，環比增長22.2%，同比增長8.5%；高速公路及普通國省道非營業性小客車人員出行量25565萬人次，環比增長59.8%，同比下降4.5%；水路客運量141.6萬人次，環比增長72.3%，同比增長7.2%；民航客運量251.5萬人次，環比增長2.6%，同比增長0.5%。（交通運輸部）"
+    },
+    {
+      "id": "5123889",
+      "time": "2026-10-02 15:42:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒將嘉信理財目標價從118美元下調至100美元。"
+    },
+    {
+      "id": "5123888",
+      "time": "2026-10-02 15:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京稱讚莫迪：他對解決俄烏衝突有“很好的想法”】據《印度教徒報》、印度新德里電視臺（NDTV）等媒體報道，俄羅斯總統普京當地時間週四（10月1日）稱讚並感謝印度總理莫迪為結束俄烏衝突而作的努力，稱莫迪對解決衝突有“很好的想法”。（環球網）"
+    },
+    {
+      "id": "te:markets:589059",
+      "time": "2026-10-02 15:42:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Rebound on Friday — European stocks traded higher on Friday, with both the STOXX 50 and STOXX 600 gaining 0.3%, following losses in the previous two sessions. The rebound came as the bond sell-off eased, offering some relief to investors, although French government bonds remained under pressure amid concerns over the country’s fiscal and political outlook. Investors are awaiting Eurozone inflation data later this morning, with headline inflation expected to accelerate to 3.6%. The pharmaceutical and banking sectors were among the weakest performers. Despite Friday’s gains, the STOXX 50 is down 2% for the week, while the STOXX 600 has fallen 1.9%, putting both indexes on track for their worst weekly performance since April."
+    },
+    {
+      "id": "5123887",
+      "time": "2026-10-02 15:41:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒將Coinbase目標價從146美元上調至170美元。"
+    },
+    {
+      "id": "5123886",
+      "time": "2026-10-02 15:39:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "新世界股價此前一度下跌7.3%，隨後持平。"
+    },
     {
       "id": "5123885",
       "time": "2026-10-02 15:38:21",
@@ -89,6 +143,15 @@
         "市場"
       ],
       "text": "WTI原油日內跌2%，現報91.00美元/桶。"
+    },
+    {
+      "id": "5123879",
+      "time": "2026-10-02 15:34:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委雷恩：能源價格接近歐洲央行通脹不利情景】歐洲央行管委雷恩週五表示，能源價格正在接近歐洲央行設定的“不利”情景，但長期借貸成本飆升限制了這輪通脹向更廣泛經濟領域傳導的程度。歐元區通脹率已達到歐洲央行目標水平的兩倍，這一情況給歐洲央行帶來進一步加息壓力。儘管歐洲央行表示，通脹風險偏向高於預測水平，但雷恩指出，風險存在雙向變化。他補充稱：“這凸顯出，經濟增長和通脹預測仍面臨非常高且廣泛的不確定性。”雷恩還警告稱，科技企業借貸可能帶來穩定性風險，因為相關估值過高，市場可能出現調整。他表示：“與人工智慧相關的估值大幅修正可能透過股票市場和信貸市場蔓延。歷史告訴我們，技術革命可以改變經濟，但金融市場也可能高估其短期回報。”"
     },
     {
       "id": "mkt:01a0fb89-66b9-7ee0-a787-8e9f70bd7eed",
@@ -107295,103 +107358,6 @@
         "國際"
       ],
       "text": "日本金融廳（FSA）正加強對人工智慧（AI）資料中心融資的審查力度。"
-    },
-    {
-      "id": "5113245",
-      "time": "2026-09-25 15:43:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "企業移動託管服務公司Techstep ASA：斬獲瑞典有史以來最大單筆合同，初始合同期限為三年。"
-    },
-    {
-      "id": "mkt:01a0d784-4f76-7118-8696-b1b36d1c941a",
-      "time": "2026-09-25 15:42:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "DAX",
-        "Impact bullish",
-        "UBSN.SW"
-      ],
-      "text": "【Expectations of Strait of Hormuz reopening lift markets; European stocks rebound, oil retreats】Markets priced in a possible near-term reopening of the Strait of Hormuz, sending oil prices lower, stabilising bond yields and lifting European equities. Banking shares led gains after UBS rose 2.5% on reports the Swiss bank is considering a merger with a foreign bank. Earlier, a surge in energy prices had stoked inflation concerns and bets on further central bank tightening, triggering a global bond selloff and weighing on European stocks; with sentiment improving the Stoxx Europe 600 is roughly 3% below its August record high."
-    },
-    {
-      "id": "5113244",
-      "time": "2026-09-25 15:42:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "派珀桑德勒將Meta目標價從785美元上調至875美元。"
-    },
-    {
-      "id": "te:economy:586837",
-      "time": "2026-09-25 15:41:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "GDP Growth Rate",
-        "Importance 0"
-      ],
-      "text": "Spain GDP Growth Rate Confirmed at 0.7% in Q2 — The Spanish economy expanded 0.7% on quarter in the three months to June 2026, slightly higher than 0.6% in the previous period and in line with the preliminary estimate. Domestic demand contributed 1.1 percentage points to growth, while external demand made a negative contribution of 0.5 percentage points. Household expenditure increased by 1.2%, while general government final consumption went up by 0.5%. Gross fixed capital formation increased by 1.7%. Exports of goods and services grew by 1.0% quarter on quarter, one-tenth of a percentage point higher than in the first quarter. Meanwhile, imports increased by 2.6%, 2.5 percentage points above the rate recorded in the previous quarter."
-    },
-    {
-      "id": "5113243",
-      "time": "2026-09-25 15:41:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：日產汽車將維持其在三菱汽車的持股。"
-    },
-    {
-      "id": "5113241",
-      "time": "2026-09-25 15:41:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙電信正考慮出售其委內瑞拉電信業務部門。"
-    },
-    {
-      "id": "mkt:01a0d782-bd63-7118-8696-ab219a3c7358",
-      "time": "2026-09-25 15:41:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "EUR/GBP briefly rose to 0.8611, the strongest level since July 1."
-    },
-    {
-      "id": "5113240",
-      "time": "2026-09-25 15:41:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "據挪威國家廣播公司報道，挪威國家能源公司的罷工人員主要為住宿服務人員。"
-    },
-    {
-      "id": "te:economy:586836",
-      "time": "2026-09-25 15:40:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Nonfarm Payrolls Private",
-        "Importance 0"
-      ],
-      "text": "France Private Payroll Employment Down 0.1% in Q2 — Private payroll employment in France fell 0.1% quarter-on-quarter, or 24,300 jobs, to 21 million in the second quarter of 2026, confirming preliminary estimates and following a revised flat reading in the previous period. Compared with a year earlier, private employment was down 0.4% (-80,900 jobs), marking the sixth consecutive quarter of year-on-year decline, though it remained 5.1% (+1 million jobs) above its pre-pandemic level. Temporary employment continued to weaken, falling 1.0% (-6,700 jobs), leaving it below both its year-earlier level (-1.7%) and its pre-pandemic level (-9.9%). Excluding temporary work, employment declined in agriculture (-2.6%), construction (-0.4%) and industry (-0.1%), while market and non-market services were broadly stable. Within market services, accommodation and food services added 4,400 jobs, partly offsetting declines in information and communication and other services."
-    },
-    {
-      "id": "5113239",
-      "time": "2026-09-25 15:40:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳北站預計單日傳送旅客41.3萬人次 再創歷史新高】9月25日中秋假期首日，深圳北站預計單日到發客流達到64.3萬人次，其中傳送41.3萬人次，到達23萬人次。值得一提的是，9月25日單日旅客傳送量預計將突破今年5月1日40.7萬人次紀錄，再創歷史新高。"
     }
   ]
 }
