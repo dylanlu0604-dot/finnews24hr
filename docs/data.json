@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-02 23:26:50",
-  "count": 11535,
+  "updated": "2026-10-02 23:30:44",
+  "count": 11534,
   "items": [
+    {
+      "id": "te:markets:589227",
+      "time": "2026-10-02 23:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: France 10Y Bond Yield Rises by 11 bps — Majority of government bonds yields are lower on Friday. Top gainers are France 10Y (10.80bps), Brazil 10Y (10.50bps), US 10Y (1.10bps) and Japan 10Y (0.90bps). Biggest losers are Germany 10Y (-6.47bps)."
+    },
+    {
+      "id": "te:markets:589225",
+      "time": "2026-10-02 23:27:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Crack Spreads Ease From Record Highs — The Trading Economics Crack Spread index, which tracks the spread between crude oil and refined products from the average US refinery, eased from its record high to $63 per barrel in October 2026, as the release of additional emergency reserves is expected to help ease refined-product prices. The Group of Seven nations are set to release emergency oil and diesel reserves, seemingly ending the threat from President Trump to ban diesel exports, which had been considered as surging fuel prices in the US and around the world squeeze businesses, farmers and households. Still, it remains nearly 170% higher than mid-February levels, before the US escalated threats of strikes. The conflict led to naval blockades on the Persian Gulf chokepoint, cutting off oil-product exports and supporting extraordinary profits for US refiners that are operating at full capacity."
+    },
+    {
+      "id": "5124462",
+      "time": "2026-10-02 23:26:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金下跌近1%，至每盎司4137.85美元。"
+    },
     {
       "id": "mkt:01a0fd38-ff24-7ee0-a789-8bccfdd756a5",
       "time": "2026-10-02 23:26:05",
@@ -105712,38 +105742,6 @@
         "國際"
       ],
       "text": "歐洲STOXX 600指數初步收漲0.26%，報638.11點，本週累計上漲0.44%，整體處於上漲狀態。歐元區STOXX 50指數初步收漲0.38%，報6296.60點，本週累漲0.97%，整體呈現出M形上漲狀態。富時泛歐績優300指數初步收漲0.26%，報2549.44點。"
-    },
-    {
-      "id": "5113741",
-      "time": "2026-09-25 23:30:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國最高法院恢復特朗普政府的大規模選民核查系統。"
-    },
-    {
-      "id": "mkt:01a0d930-608e-7118-869e-e53070a56bcf",
-      "time": "2026-09-25 23:30:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Supreme Court reinstates Trump-era large-scale voter ID verification system."
-    },
-    {
-      "id": "5113740",
-      "time": "2026-09-25 23:28:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【比爾·蓋茨：人工智慧已強大到足以造成“10億人死亡”】微軟聯合創始人比爾·蓋茨警告稱，人工智慧(AI)的能力已經“強大到足以”幫助造成相當大一部分人類死亡。他由此加入越來越多科技行業領袖和從業者的行列，呼籲關注AI可能帶來的存續風險。蓋茨在媒體一段將於本週末播出的採訪節選中表示：“AI當然已經強大到足以推動一些事件，造成比如說10億人死亡。歷史上從未有過一種武器，能像心懷惡意的人利用最新AI工具那樣強大。”蓋茨在採訪中表示，僅靠行業自律並不足夠。他說：“執法部門和政治人物需要參與討論，明確應當採取怎樣的安全防護和監測措施，而且這些措施必須具有強制性。”"
-    },
-    {
-      "id": "5113739",
-      "time": "2026-09-25 23:27:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "備忘錄顯示，密歇根工廠 F-150 皮卡停產近一週。"
     }
   ]
 }

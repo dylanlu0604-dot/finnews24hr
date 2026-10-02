@@ -1,7 +1,37 @@
 {
   "date": "2026-10-02",
-  "count": 1766,
+  "count": 1769,
   "items": [
+    {
+      "id": "te:markets:589227",
+      "time": "2026-10-02 23:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: France 10Y Bond Yield Rises by 11 bps — Majority of government bonds yields are lower on Friday. Top gainers are France 10Y (10.80bps), Brazil 10Y (10.50bps), US 10Y (1.10bps) and Japan 10Y (0.90bps). Biggest losers are Germany 10Y (-6.47bps)."
+    },
+    {
+      "id": "te:markets:589225",
+      "time": "2026-10-02 23:27:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Crack Spreads Ease From Record Highs — The Trading Economics Crack Spread index, which tracks the spread between crude oil and refined products from the average US refinery, eased from its record high to $63 per barrel in October 2026, as the release of additional emergency reserves is expected to help ease refined-product prices. The Group of Seven nations are set to release emergency oil and diesel reserves, seemingly ending the threat from President Trump to ban diesel exports, which had been considered as surging fuel prices in the US and around the world squeeze businesses, farmers and households. Still, it remains nearly 170% higher than mid-February levels, before the US escalated threats of strikes. The conflict led to naval blockades on the Persian Gulf chokepoint, cutting off oil-product exports and supporting extraordinary profits for US refiners that are operating at full capacity."
+    },
+    {
+      "id": "5124462",
+      "time": "2026-10-02 23:26:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金下跌近1%，至每盎司4137.85美元。"
+    },
     {
       "id": "mkt:01a0fd38-ff24-7ee0-a789-8bccfdd756a5",
       "time": "2026-10-02 23:26:05",
