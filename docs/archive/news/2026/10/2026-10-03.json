@@ -1,7 +1,27 @@
 {
   "date": "2026-10-03",
-  "count": 259,
+  "count": 261,
   "items": [
+    {
+      "id": "5124691",
+      "time": "2026-10-03 04:19:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃裡森將委派兩名派拉蒙高管接管華納兄弟製片廠。"
+    },
+    {
+      "id": "te:markets:589276",
+      "time": "2026-10-03 04:19:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Advances as Oil Rally Stalls — The S&P/TSX Composite Index rose 1% to close at 35,503 as the oil rally stalled, easing concerns over energy-driven inflation and pushing Canadian bond yields lower. Softer-than-expected US payrolls also supported rate-sensitive stocks as expectations of a Fed rate hike this month declined. Financials gained, with CIBC up 1.1% and Great-West Lifeco rising 2%. Technology stocks advanced as well, tracking strength in the Wall Street AI trade, with Shopify up 1.7% and Celestica jumping 3.9%. Miners gained despite lower gold prices, as reduced expectations of a Fed rate hike following the weaker US jobs data supported the outlook for the metal. Agnico Eagle rose 2.1%, while WPM added 2.6%. Meanwhile, Prime Minister Carney said Canada will fast-track approval of a proposed crude oil export pipeline to the West Coast, a key part of his efforts to diversify the economy away from the US."
+    },
     {
       "id": "mkt:01a0fe3f-d0b4-7ee0-a78d-10046036ccfb",
       "time": "2026-10-03 04:13:10",

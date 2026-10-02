@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-03 04:17:47",
-  "count": 11520,
+  "updated": "2026-10-03 04:21:33",
+  "count": 11510,
   "items": [
+    {
+      "id": "5124691",
+      "time": "2026-10-03 04:19:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃裡森將委派兩名派拉蒙高管接管華納兄弟製片廠。"
+    },
+    {
+      "id": "te:markets:589276",
+      "time": "2026-10-03 04:19:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Advances as Oil Rally Stalls — The S&P/TSX Composite Index rose 1% to close at 35,503 as the oil rally stalled, easing concerns over energy-driven inflation and pushing Canadian bond yields lower. Softer-than-expected US payrolls also supported rate-sensitive stocks as expectations of a Fed rate hike this month declined. Financials gained, with CIBC up 1.1% and Great-West Lifeco rising 2%. Technology stocks advanced as well, tracking strength in the Wall Street AI trade, with Shopify up 1.7% and Celestica jumping 3.9%. Miners gained despite lower gold prices, as reduced expectations of a Fed rate hike following the weaker US jobs data supported the outlook for the metal. Agnico Eagle rose 2.1%, while WPM added 2.6%. Meanwhile, Prime Minister Carney said Canada will fast-track approval of a proposed crude oil export pipeline to the West Coast, a key part of his efforts to diversify the economy away from the US."
+    },
     {
       "id": "mkt:01a0fe3f-d0b4-7ee0-a78d-10046036ccfb",
       "time": "2026-10-03 04:13:10",
@@ -105433,108 +105453,6 @@
         "國際"
       ],
       "text": "伊朗外交部長：美國應採取的舉措並非新要求，全部已列入諒解備忘錄。"
-    },
-    {
-      "id": "mkt:01a0da3a-d24d-7118-86a3-77eb9019cd68",
-      "time": "2026-09-26 04:21:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's foreign minister says Tehran has delivered a specific 7-day plan to the U.S.; the decision now rests with Washington. Iran said it will not relinquish sovereign rights under pressure. The 7-day period will begin only after the U.S. accepts the proposal."
-    },
-    {
-      "id": "5113990",
-      "time": "2026-09-26 04:21:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長：美國接受該計劃後，七天倒計時將開始。"
-    },
-    {
-      "id": "5113989",
-      "time": "2026-09-26 04:20:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長表示：伊朗不會在壓力下放棄自身主權權利。"
-    },
-    {
-      "id": "5113986",
-      "time": "2026-09-26 04:19:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長稱，伊朗已向美國遞交了一份為期七天的具體方案  。"
-    },
-    {
-      "id": "5113984",
-      "time": "2026-09-26 04:18:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局在聯邦公報上釋出關於波音公司指令的通知。"
-    },
-    {
-      "id": "5113983",
-      "time": "2026-09-26 04:18:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國證券交易委員會檔案顯示，貝恩資本私募信貸至多回購5%I類股份的要約收購已於2026年8月31日到期。"
-    },
-    {
-      "id": "5113982",
-      "time": "2026-09-26 04:18:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）檔案，貝萊德私募信貸基金2026年9月1日以254萬美元售出107,475.86股機構類股份。"
-    },
-    {
-      "id": "mkt:01a0da38-2048-7118-86a3-6c17eee31c27",
-      "time": "2026-09-26 04:18:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "U.S. bank deposits fell to $19.568 trillion from $19.658 trillion the prior week, a $90 billion decline."
-    },
-    {
-      "id": "5113981",
-      "time": "2026-09-26 04:18:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "KKR將從向怡安出售USI的交易中獲得約33億美元稅後收益。"
-    },
-    {
-      "id": "5113980",
-      "time": "2026-09-26 04:18:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局將對部分波音787飛機發布適航指令。"
-    },
-    {
-      "id": "5113979",
-      "time": "2026-09-26 04:18:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "SEC檔案顯示，貝萊德私人信貸基金截至2026年8月31日，所有份額類別每股資產淨值為23.64美元。"
-    },
-    {
-      "id": "mkt:01a0da37-caaa-7118-86a3-60dc25ad63a2",
-      "time": "2026-09-26 04:18:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan, Saudi Arabia, Turkey senior military leaders meet in Riyadh to deepen cooperation】Pakistan’s Inter-Services Public Relations said on 25th that defense chiefs and chiefs of staff from member states of the Mecca Joint Defense Agreement met in Riyadh. Delegates discussed Saudi Arabia’s security threats, strongly condemned recent attacks on Mecca and on Saudi civil and economic infrastructure, and agreed to deepen military cooperation—including enhanced intelligence sharing, military coordination and capability integration—to strengthen deterrence and collective defense. The statement said the meeting underscored the strength of the three-way defense partnership and a shared intent to promptly convert pact commitments into concrete military cooperation; participants reaffirmed their commitment to collective defense and to protecting Saudi Arabia’s security, sovereignty and territorial integrity."
     }
   ]
 }
