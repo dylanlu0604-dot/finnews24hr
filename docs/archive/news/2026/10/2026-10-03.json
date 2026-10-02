@@ -1,7 +1,130 @@
 {
   "date": "2026-10-03",
-  "count": 204,
+  "count": 216,
   "items": [
+    {
+      "id": "5124652",
+      "time": "2026-10-03 03:32:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 2026 年 9 月 29 日當週，比特幣淨多頭頭寸為 2465 手。"
+    },
+    {
+      "id": "mkt:01a0fe1a-877f-7ee0-a78c-8f42e4037e33",
+      "time": "2026-10-03 03:32:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: For the week ended Sept. 29, natural gas speculators increased net short positions by 53,998 contracts to 81,156 across four major markets, including NYMEX and ICE."
+    },
+    {
+      "id": "5124651",
+      "time": "2026-10-03 03:32:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 9 月 29 日當週，紐約商品交易所、洲際交易所四大主要市場的天然氣投機者淨空頭頭寸增加 53998 手，升至 81156 手。"
+    },
+    {
+      "id": "mkt:01a0fe1a-5402-7ee0-a78c-85be0fd94910",
+      "time": "2026-10-03 03:32:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "EURUSD",
+        "GBPUSD"
+      ],
+      "text": "CFTC weekly positioning for the week to Sep 29: JPY net long 55,440 contracts; EUR net short 63,256 contracts; GBP net short 91,075 contracts; CHF net short 24,617 contracts."
+    },
+    {
+      "id": "5124650",
+      "time": "2026-10-03 03:32:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至9月29日當週，COMEX白銀投機者削減淨多頭頭寸5,278份合約，至7,738份；COMEX黃金投機者削減淨多頭頭寸6,916份合約，至124,418份；COMEX銅投機者削減淨多頭頭寸3,940份合約，至78,709份。"
+    },
+    {
+      "id": "5124649",
+      "time": "2026-10-03 03:31:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 9 月 29 日當週，洲際交易所（ICE）咖啡投機者削減淨空頭頭寸 2978 手，降至 3493 手。 \n洲際交易所（ICE）可可投機者削減淨空頭頭寸 190 手，降至 26137 手。\nCBOT大豆投機者淨多頭頭寸減少 23033 手，降至 170143 手。 \nCBOT玉米投機者淨多頭頭寸減少 38914 手，降至 228779 手。"
+    },
+    {
+      "id": "mkt:01a0fe19-fd86-7ee0-a78c-7abb8cfb4c8a",
+      "time": "2026-10-03 03:31:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week ended Sept. 29, speculators cut net shorts in CBOT U.S. 2-year Treasury futures by 115,041 contracts to 792,024; increased net shorts in CBOT U.S. 10-year Treasury futures by 88,863 contracts to 900,615; and increased net shorts in CBOT U.S. 5-year Treasury futures by 114,848 contracts to 995,701."
+    },
+    {
+      "id": "mkt:01a0fe19-83e8-7ee0-a78c-76edbac64e88",
+      "time": "2026-10-03 03:31:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Commodity Futures Trading Commission (CFTC): For the week ended Sept. 29, speculators increased net short positions in CBOT U.S. Treasury futures by 31,070 contracts to 186,875 contracts, and reduced net shorts in CBOT ultra-long U.S. Treasury futures by 10,289 contracts to 326,436 contracts."
+    },
+    {
+      "id": "mkt:01a0fe19-43d4-7ee0-a78c-6d08e8e99976",
+      "time": "2026-10-03 03:31:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "CFTC weekly positions for week ended Sep 29: COMEX silver speculators cut net longs by 5,278 contracts to 7,738; COMEX gold speculators cut net longs by 6,916 contracts to 124,418; COMEX copper speculators cut net longs by 3,940 contracts to 78,709."
+    },
+    {
+      "id": "5124648",
+      "time": "2026-10-03 03:30:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 9 月 29 日當週，洲際交易所（ICE）咖啡投機者削減淨空頭頭寸 2978 手，降至 3493 手。"
+    },
+    {
+      "id": "mkt:01a0fe18-f54e-7ee0-a78c-63dcd0bcde46",
+      "time": "2026-10-03 03:30:43",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week ended Sept. 29, speculative funds increased net short positions in S&P 500 futures on the CME by 575 contracts to 355,697; fund managers cut net long positions in S&P 500 futures on the CME by 33,658 contracts to 901,255."
+    },
+    {
+      "id": "5124647",
+      "time": "2026-10-03 03:30:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "西捷航空發給飛行員的備忘錄稱，該公司在 2024 年開展波音 737 MAX 投入運營驗證飛行時首次發現軟體異常。西捷航空已將該事件上報波音並提供相關佐證資料。 西捷航空稱其他使用 U14 或 U14.1 版本軟體的航空公司報告的相關故障案例極少。"
+    },
     {
       "id": "mkt:01a0fe17-0401-7ee0-a78c-5953ff56ccab",
       "time": "2026-10-03 03:28:36",

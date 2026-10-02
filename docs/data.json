@@ -1,7 +1,130 @@
 {
-  "updated": "2026-10-03 03:29:31",
-  "count": 11561,
+  "updated": "2026-10-03 03:33:15",
+  "count": 11556,
   "items": [
+    {
+      "id": "5124652",
+      "time": "2026-10-03 03:32:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 2026 年 9 月 29 日當週，比特幣淨多頭頭寸為 2465 手。"
+    },
+    {
+      "id": "mkt:01a0fe1a-877f-7ee0-a78c-8f42e4037e33",
+      "time": "2026-10-03 03:32:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: For the week ended Sept. 29, natural gas speculators increased net short positions by 53,998 contracts to 81,156 across four major markets, including NYMEX and ICE."
+    },
+    {
+      "id": "5124651",
+      "time": "2026-10-03 03:32:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 9 月 29 日當週，紐約商品交易所、洲際交易所四大主要市場的天然氣投機者淨空頭頭寸增加 53998 手，升至 81156 手。"
+    },
+    {
+      "id": "mkt:01a0fe1a-5402-7ee0-a78c-85be0fd94910",
+      "time": "2026-10-03 03:32:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "EURUSD",
+        "GBPUSD"
+      ],
+      "text": "CFTC weekly positioning for the week to Sep 29: JPY net long 55,440 contracts; EUR net short 63,256 contracts; GBP net short 91,075 contracts; CHF net short 24,617 contracts."
+    },
+    {
+      "id": "5124650",
+      "time": "2026-10-03 03:32:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至9月29日當週，COMEX白銀投機者削減淨多頭頭寸5,278份合約，至7,738份；COMEX黃金投機者削減淨多頭頭寸6,916份合約，至124,418份；COMEX銅投機者削減淨多頭頭寸3,940份合約，至78,709份。"
+    },
+    {
+      "id": "5124649",
+      "time": "2026-10-03 03:31:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 9 月 29 日當週，洲際交易所（ICE）咖啡投機者削減淨空頭頭寸 2978 手，降至 3493 手。 \n洲際交易所（ICE）可可投機者削減淨空頭頭寸 190 手，降至 26137 手。\nCBOT大豆投機者淨多頭頭寸減少 23033 手，降至 170143 手。 \nCBOT玉米投機者淨多頭頭寸減少 38914 手，降至 228779 手。"
+    },
+    {
+      "id": "mkt:01a0fe19-fd86-7ee0-a78c-7abb8cfb4c8a",
+      "time": "2026-10-03 03:31:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week ended Sept. 29, speculators cut net shorts in CBOT U.S. 2-year Treasury futures by 115,041 contracts to 792,024; increased net shorts in CBOT U.S. 10-year Treasury futures by 88,863 contracts to 900,615; and increased net shorts in CBOT U.S. 5-year Treasury futures by 114,848 contracts to 995,701."
+    },
+    {
+      "id": "mkt:01a0fe19-83e8-7ee0-a78c-76edbac64e88",
+      "time": "2026-10-03 03:31:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Commodity Futures Trading Commission (CFTC): For the week ended Sept. 29, speculators increased net short positions in CBOT U.S. Treasury futures by 31,070 contracts to 186,875 contracts, and reduced net shorts in CBOT ultra-long U.S. Treasury futures by 10,289 contracts to 326,436 contracts."
+    },
+    {
+      "id": "mkt:01a0fe19-43d4-7ee0-a78c-6d08e8e99976",
+      "time": "2026-10-03 03:31:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "CFTC weekly positions for week ended Sep 29: COMEX silver speculators cut net longs by 5,278 contracts to 7,738; COMEX gold speculators cut net longs by 6,916 contracts to 124,418; COMEX copper speculators cut net longs by 3,940 contracts to 78,709."
+    },
+    {
+      "id": "5124648",
+      "time": "2026-10-03 03:30:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：截至 9 月 29 日當週，洲際交易所（ICE）咖啡投機者削減淨空頭頭寸 2978 手，降至 3493 手。"
+    },
+    {
+      "id": "mkt:01a0fe18-f54e-7ee0-a78c-63dcd0bcde46",
+      "time": "2026-10-03 03:30:43",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week ended Sept. 29, speculative funds increased net short positions in S&P 500 futures on the CME by 575 contracts to 355,697; fund managers cut net long positions in S&P 500 futures on the CME by 33,658 contracts to 901,255."
+    },
+    {
+      "id": "5124647",
+      "time": "2026-10-03 03:30:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "西捷航空發給飛行員的備忘錄稱，該公司在 2024 年開展波音 737 MAX 投入運營驗證飛行時首次發現軟體異常。西捷航空已將該事件上報波音並提供相關佐證資料。 西捷航空稱其他使用 U14 或 U14.1 版本軟體的航空公司報告的相關故障案例極少。"
+    },
     {
       "id": "mkt:01a0fe17-0401-7ee0-a78c-5953ff56ccab",
       "time": "2026-10-03 03:28:36",
@@ -105695,169 +105818,6 @@
         "Impact bullish"
       ],
       "text": "U.S. Commodity Futures Trading Commission (CFTC): week to Sept. 22 — COMEX gold speculative net longs fell 5,727 contracts to 131,334; COMEX copper speculative net longs rose 17,108 contracts to 82,649; COMEX silver speculative net longs rose 385 contracts to 13,016."
-    },
-    {
-      "id": "mkt:01a0da0e-577e-7118-86a2-b1395f146e75",
-      "time": "2026-09-26 03:32:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "CFTC: For the week to Sept. 22, speculative net longs in WTI crude rose 8,952 contracts to 148,467; speculative net shorts across four major NYMEX and ICE natural-gas contracts fell 27,105 contracts to 27,158."
-    },
-    {
-      "id": "5113905",
-      "time": "2026-09-26 03:32:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月22日當週，股票基金經理將芝商所（CME）標普500淨多頭頭寸增加35280手，至934913手；股票基金投機客將芝加哥商業交易所（CME）標普500淨空頭頭寸增加66665手，至355121手。"
-    },
-    {
-      "id": "5113904",
-      "time": "2026-09-26 03:32:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "智慧戒指廠商Oura的IPO認購超額約四倍；據悉Oura將於週一停止接受認購。"
-    },
-    {
-      "id": "5113903",
-      "time": "2026-09-26 03:32:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，投機者在9月22日當週將芝加哥期貨交易所（CBOT）美國國債期貨淨空頭頭寸減少47352手，至155805手；投機者將芝加哥期貨交易所（CBOT）美國超長期國債期貨淨空頭頭寸減少8478手，至336725手；投機者將芝加哥期貨交易所（CBOT）美國2年期國債期貨的淨空頭頭寸增加51712手，至907065手；投機者在9月22日當週將芝加哥期貨交易所（CBOT）美國10年期國債期貨的淨空頭頭寸削減9484手至811752手；投機客將芝加哥期貨交易所（CBOT）美國5年期國債期貨的淨空頭頭寸削減116513手，至880853手。"
-    },
-    {
-      "id": "mkt:01a0da0d-e84a-7118-86a2-aadccc5e71eb",
-      "time": "2026-09-26 03:32:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "CFTC: week to Sept. 22 — 2-year Treasury futures net short rose by 51,712 contracts to 907,065; ultra‑long‑dated Treasury futures net short fell by 8,478 contracts to 336,725; aggregate U.S. Treasury futures net short fell by 47,352 contracts to 155,805."
-    },
-    {
-      "id": "mkt:01a0da0d-517c-7118-86a2-a5d37803a787",
-      "time": "2026-09-26 03:31:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "CFTC: For the week ended Sept. 22, net short positions in 10-year U.S. Treasury futures fell 9,484 contracts to 811,752; net shorts in 5-year futures fell 116,513 contracts to 880,853."
-    },
-    {
-      "id": "mkt:01a0da0d-1227-7118-86a2-99dc8f214277",
-      "time": "2026-09-26 03:31:24",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "CFTC: For the week to Sept. 22, fund managers raised S&P 500 futures net long by 35,280 contracts to 934,913; speculative funds increased net short by 66,665 contracts to 355,121."
-    },
-    {
-      "id": "5113901",
-      "time": "2026-09-26 03:31:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月22日當週，芝加哥期貨交易所（CBOT）玉米投機商將淨多頭頭寸削減了24261手合約，至267692手合約；芝加哥期貨交易所（CBOT）大豆投機多頭淨持倉增加20195手，至193176手。"
-    },
-    {
-      "id": "5113900",
-      "time": "2026-09-26 03:30:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至2026年9月22日當週，瑞士法郎淨空頭頭寸為-26,752份合約；英鎊淨空頭頭寸為-82,568手合約。"
-    },
-    {
-      "id": "5113899",
-      "time": "2026-09-26 03:30:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至2026年9月22日當週，比特幣淨多頭持倉為2756手合約。"
-    },
-    {
-      "id": "5113898",
-      "time": "2026-09-26 03:30:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，在截至2026年9月22日的當周，日元淨多頭頭寸為71982手合約；歐元淨空頭頭寸為52,334手合約。"
-    },
-    {
-      "id": "mkt:01a0da0b-be72-7118-86a2-90914687bf2d",
-      "time": "2026-09-26 03:29:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI: \"Hugging Face\" remains the most serious incident we have encountered."
-    },
-    {
-      "id": "5113897",
-      "time": "2026-09-26 03:29:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月22日當週，投機者將紐約商品交易所（NYMEX）、洲際交易所（ICE）四大天然氣主要市場的淨空頭頭寸削減27105手，至27158手。"
-    },
-    {
-      "id": "5113896",
-      "time": "2026-09-26 03:29:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至9月22日當週，原油投機者將西德克薩斯中質原油（WTI）淨多頭頭寸增加8952手，至148467手。"
-    },
-    {
-      "id": "5113895",
-      "time": "2026-09-26 03:29:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月22日當週，紐約商品交易所（COMEX）銅投機客將淨多頭頭寸增加17108手，至82649手。"
-    },
-    {
-      "id": "5113894",
-      "time": "2026-09-26 03:29:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月22日當週，紐約商品交易所（COMEX）黃金投機頭寸將淨多頭頭寸削減5727手，至131334手。"
-    },
-    {
-      "id": "5113893",
-      "time": "2026-09-26 03:29:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至9月22日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸增加385手，至13016手。"
     }
   ]
 }
