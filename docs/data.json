@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-02 10:26:22",
-  "count": 11679,
+  "updated": "2026-10-02 10:30:09",
+  "count": 11680,
   "items": [
+    {
+      "id": "mkt:01a0fa71-9aed-7ee0-a783-5bd55ee1e8ab",
+      "time": "2026-10-02 10:29:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "【IMF spokesperson: US‑Iran hostilities hit fragile, energy‑importing and AI‑excluded economies】IMF spokesperson Julie Kozack said at an Oct. 1 briefing that US‑Iran hostilities are weighing on the global economy, disproportionately affecting countries with limited policy buffers and energy net importers. She flagged particular concern for countries that have not integrated into AI supply chains and thus are not capturing AI‑driven growth—most of them low‑income and fragile states—some of which already have IMF programs and are being engaged closely by the Fund."
+    },
+    {
+      "id": "te:markets:588969",
+      "time": "2026-10-02 10:28:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Decline — European natural gas prices fell below €73/MWh on Friday, paring recent gains, as softer Asian LNG demand and higher US supplies offered some relief to the European market. US LNG exports rose to 10.9 million tonnes in September, with Europe receiving 5.91 million tonnes, or 54% of total shipments, as buyers refilled inventories ahead of winter. Meanwhile, weaker Chinese LNG demand could free up additional cargoes for Europe, easing competition for spot supplies. Still, EU gas storage is around 71% full, below the five-year seasonal average of 87%, while Germany’s inventories are just above 57%. QatarEnergy has extended force majeure on LNG deliveries to Italy’s Edison until December, while some Qatar-linked LNG vessels have resumed transits through the Strait of Hormuz in recent weeks. Low storage levels leave Europe more exposed to disruptions, as the prospect of renewed US military action against Iran raises concerns over flows through the key shipping route."
+    },
+    {
+      "id": "5123606",
+      "time": "2026-10-02 10:28:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【IMF發言人：美伊戰事對脆弱國家經濟影響令人擔憂】國際貨幣基金組織（IMF）發言人朱莉·科扎克10月1日在例行新聞釋出會上表示，美伊戰事對世界經濟產生影響，不僅波及政策緩衝空間有限的國家和能源淨進口國，那些尚未融入人工智慧（AI）供應鏈、難以充分享受相關增長紅利的國家“尤其值得關注”，狀況令人擔憂。科扎克指出，有一些國家未能從人工智慧投資熱潮中受益，同時又受到能源衝擊的嚴重影響，而且政策緩衝空間有限。“這一類國家，其中大多數是低收入國家和脆弱國家，最令人擔憂。”她補充道，其中一些國家已經與IMF達成了援助安排，IMF也正與其保持密切合作。科扎克在回答新華社記者提問時說，IMF“非常歡迎”中美經貿團隊磋商取得積極共識。她表示，中美經貿團隊保持接觸有助於增強全球貿易環境的可預測性。IMF將繼續密切關注這一領域的進展。國際貨幣基金組織與世界銀行集團2026年秋季年會將於10月12日至18日在泰國曼谷舉行。屆時，IMF將釋出新的《世界經濟展望報告》。(新華社)"
+    },
     {
       "id": "mkt:01a0fa6e-4e78-7ee0-a783-511958da212c",
       "time": "2026-10-02 10:25:28",
@@ -21,6 +56,15 @@
         "國際"
       ],
       "text": "日本經濟再生擔當大臣城內實：日本不再需要非常規貨幣刺激措施，正如日本央行決定結束收益率曲線控制政策所體現的那樣。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202610023888330229",
+      "time": "2026-10-02 10:22:21",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本經濟再生擔當大臣城內實稱，希望日本央行在制定和引導政策時繼續與政府保持密切溝通。"
     },
     {
       "id": "mkt:01a0fa6b-31d8-7ee0-a783-4a4b02bdf12e",
@@ -107273,37 +107317,6 @@
         "市場"
       ],
       "text": "截至早盤收盤，日經225指數、東證指數漲1.2%。"
-    },
-    {
-      "id": "5112983",
-      "time": "2026-09-25 10:29:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中期選舉臨近，特朗普赴俄克拉荷馬、阿拉巴馬州造勢】民調對共和黨亮起預警訊號，特朗普將在俄克拉荷馬州與阿拉巴馬州舉辦造勢集會，在傳統共和黨票倉為本黨候選人助選。 共和黨公告顯示，首場集會將在俄克拉荷馬州杜蘭特舉辦，另一場在阿拉巴馬州莫比爾舉辦。 特朗普此行意在為多個競選席位的候選人提供支援，全面提振共和黨選民投票率；集會的媒體曝光還將輻射至得克薩斯州與佛羅里達狹長地帶周邊媒體市場。"
-    },
-    {
-      "id": "te:markets:586730",
-      "time": "2026-09-25 10:29:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesian Shares Rise Yet Face Third Weekly Decline — Indonesian equities added 25 points, or 0.4%, to 6,325 in Friday’s morning session, clawing back ground after a sharp drop the day before as tech, cyclicals, and energy led gains. Sentiment steadied after U.S. Treasury Secretary Scott Bessent confirmed Washington and Beijing agreed to extend their trade truce through January 10, 2027. President Trump is hosting a state dinner for Chinese leader Xi Jinping, who made his first Washington visit in over a decade, with both leaders underscoring AI as a key discussion point. Early movers included Sumber Alfaria Trijaya (2.3%), Indo Tambangraya Megah (2.0%), and Surya Citra Media (1.7%). However, local markets are on track for a third straight weekly decline, down nearly 2% so far, pressured by concerns over elevated oil prices and their fiscal impact. Caution also grew ahead of next week’s August trade data and September inflation. Annual inflation accelerated to 3.19% in August, driven by steeper food costs linked to El Niño effects."
-    },
-    {
-      "id": "5112982",
-      "time": "2026-09-25 10:27:36",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【盛寶銀行：片山皋月口頭喊話難以改變日元基本面】盛寶市場首席投資策略師查魯·查納納認為，日本財務大臣片山皋月近期有關日元的表態“大體上只是又一輪口頭干預”。“除非後續出臺實質政策協調、實施干預，或是日本央行釋放更明確的緊縮路徑，否則我認為這不會從根本上改變日元的基本面格局。”"
     }
   ]
 }
