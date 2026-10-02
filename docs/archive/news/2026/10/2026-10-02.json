@@ -1,7 +1,72 @@
 {
   "date": "2026-10-02",
-  "count": 1699,
+  "count": 1705,
   "items": [
+    {
+      "id": "te:markets:589217",
+      "time": "2026-10-02 22:42:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Retreats Further — US gasoline futures fell below $3.30 a gallon, retreating further from its highest level in a week, following reports that Group of Seven nations will release emergency oil and diesel reserves. President Macron stated that G7 nations agreed to release 100 million barrels of emergency reserves over the next four months to contain elevated energy prices. President Trump had threatened a diesel export ban otherwise, despite acknowledging its impact on gasoline prices, which have eased from recent peaks following the end of the summer driving season. Nevertheless, global fuel markets remain tight as EIA data showed that US gasoline inventories fell by 1.7 million barrels in the week ended September 25th, while refinery utilization falling to 92.5%. Russia extended restrictions on most diesel exports through October, although it is considering a partial lift in case of overproduction as the domestic fuel market is reportedly balanced. China also extended its ban on some oil-product exports."
+    },
+    {
+      "id": "mkt:01a0fd10-d5e4-7ee0-a789-268fa37d030f",
+      "time": "2026-10-02 22:42:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Copper"
+      ],
+      "text": "France-Germany 10-year yield spread narrowed to 140 bps, down sharply from 159 bps previously."
+    },
+    {
+      "id": "5124417",
+      "time": "2026-10-02 22:41:27",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛從客戶提前押注SpaceX的減倉中獲利豐厚。"
+    },
+    {
+      "id": "5124416",
+      "time": "2026-10-02 22:41:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "法德10年期國債收益率差收窄至140個基點，此前為159個基點。"
+    },
+    {
+      "id": "te:markets:589215",
+      "time": "2026-10-02 22:40:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Up for 2nd Day — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for a second session on Friday, rising about 0.3% to 3,148 points, buoyed by the bigger-size segment. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, also increased for the second session, advancing 0.6% to 5,042 points. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell by 0.3% to 2,372 points; and the supramax index decreased by 0.3% to 1,789 points. For the week, the benchmark index logged a 8.1% decline."
+    },
+    {
+      "id": "mkt:01a0fd0e-80a1-7ee0-a789-1dd020769880",
+      "time": "2026-10-02 22:39:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA reported that Iranian commander Naghdi said an economic siege by adversaries would have no effect and warned that if they do not back down they will face heavy strikes from Iran's armed forces."
+    },
     {
       "id": "5124415",
       "time": "2026-10-02 22:39:02",

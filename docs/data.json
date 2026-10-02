@@ -1,7 +1,72 @@
 {
-  "updated": "2026-10-02 22:39:56",
+  "updated": "2026-10-02 22:44:03",
   "count": 11521,
   "items": [
+    {
+      "id": "te:markets:589217",
+      "time": "2026-10-02 22:42:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Retreats Further — US gasoline futures fell below $3.30 a gallon, retreating further from its highest level in a week, following reports that Group of Seven nations will release emergency oil and diesel reserves. President Macron stated that G7 nations agreed to release 100 million barrels of emergency reserves over the next four months to contain elevated energy prices. President Trump had threatened a diesel export ban otherwise, despite acknowledging its impact on gasoline prices, which have eased from recent peaks following the end of the summer driving season. Nevertheless, global fuel markets remain tight as EIA data showed that US gasoline inventories fell by 1.7 million barrels in the week ended September 25th, while refinery utilization falling to 92.5%. Russia extended restrictions on most diesel exports through October, although it is considering a partial lift in case of overproduction as the domestic fuel market is reportedly balanced. China also extended its ban on some oil-product exports."
+    },
+    {
+      "id": "mkt:01a0fd10-d5e4-7ee0-a789-268fa37d030f",
+      "time": "2026-10-02 22:42:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Copper"
+      ],
+      "text": "France-Germany 10-year yield spread narrowed to 140 bps, down sharply from 159 bps previously."
+    },
+    {
+      "id": "5124417",
+      "time": "2026-10-02 22:41:27",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛從客戶提前押注SpaceX的減倉中獲利豐厚。"
+    },
+    {
+      "id": "5124416",
+      "time": "2026-10-02 22:41:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "法德10年期國債收益率差收窄至140個基點，此前為159個基點。"
+    },
+    {
+      "id": "te:markets:589215",
+      "time": "2026-10-02 22:40:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Up for 2nd Day — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for a second session on Friday, rising about 0.3% to 3,148 points, buoyed by the bigger-size segment. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, also increased for the second session, advancing 0.6% to 5,042 points. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell by 0.3% to 2,372 points; and the supramax index decreased by 0.3% to 1,789 points. For the week, the benchmark index logged a 8.1% decline."
+    },
+    {
+      "id": "mkt:01a0fd0e-80a1-7ee0-a789-1dd020769880",
+      "time": "2026-10-02 22:39:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRNA reported that Iranian commander Naghdi said an economic siege by adversaries would have no effect and warned that if they do not back down they will face heavy strikes from Iran's armed forces."
+    },
     {
       "id": "5124415",
       "time": "2026-10-02 22:39:02",
@@ -105594,67 +105659,6 @@
         "Importance 1"
       ],
       "text": "Bund Yields Rise Above 3.6% as Rate-Hike Bets Build — Germany’s 10-year Bund yield climbed back above 3.6%, its highest level since June 2009, marking a seventh consecutive weekly rise as elevated energy prices fuel concerns over renewed inflationary pressure and hawkish central-bank signals lift rate expectations. Money markets are now pricing in roughly 100 basis points of ECB rate hikes by late 2027. Investors in the US and UK have likewise increased bets on further tightening following hawkish comments from policymakers and data pointing to resilient growth. Meanwhile, concerns over debt affordability in heavily indebted economies, particularly France and Italy, added to pressure on European bonds ahead of elections next year. On the data front, German consumer sentiment deteriorated more sharply than expected heading into October, with higher energy prices weighing on households’ income expectations."
-    },
-    {
-      "id": "mkt:01a0d904-4cba-7118-869e-4f0962fbd518",
-      "time": "2026-09-25 22:42:12",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Industry sources say if diplomatic efforts to reopen the Black Sea succeed, Russia could immediately resume operations at ports handling 80% of grain trade in the Black Sea and Azov Sea."
-    },
-    {
-      "id": "5113715",
-      "time": "2026-09-25 22:42:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "分析顯示，佔俄羅斯在黑海和亞速海糧食基礎設施20%的三個碼頭嚴重受損，將需要數月時間修復。"
-    },
-    {
-      "id": "5113714",
-      "time": "2026-09-25 22:42:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "行業資料顯示，若重啟黑海的外交努力成功，俄羅斯可立即恢復黑海和亞速海80%穀物貿易港口的運營。"
-    },
-    {
-      "id": "mkt:01a0d904-09c3-7118-869e-40f135aa21dc",
-      "time": "2026-09-25 22:41:55",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Iranian deputy navy commander Mokaddam said personnel morale is high and forces are prepared to defend the country's borders."
-    },
-    {
-      "id": "5113713",
-      "time": "2026-09-25 22:41:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【死亡禁區實錄總票房破1000萬】據貓眼專業版資料，電影《死亡禁區實錄》上映1天 ，總票房破1000萬。"
-    },
-    {
-      "id": "mkt:01a0d903-e26c-7118-869e-3fb702e1c5e5",
-      "time": "2026-09-25 22:41:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran navy deputy commander Mokaddam said armed forces are deployed along Iran's southeastern border and the Makran coast to prevent adversaries from using the area to threaten Iran."
     }
   ]
 }
