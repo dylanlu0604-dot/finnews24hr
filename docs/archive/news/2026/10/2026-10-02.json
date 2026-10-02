@@ -1,7 +1,89 @@
 {
   "date": "2026-10-02",
-  "count": 830,
+  "count": 839,
   "items": [
+    {
+      "id": "mkt:01a0fa66-da06-7ee0-a783-3793cedc7ea8",
+      "time": "2026-10-02 10:17:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said there are about 200 existing funds with combined assets of roughly 7 trillion yen."
+    },
+    {
+      "id": "mkt:01a0fa66-a264-7ee0-a783-29553d4666c6",
+      "time": "2026-10-02 10:17:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI CODEX product lead said all ChatGPT paid accounts will undergo a global reset at 10:00 a.m. Pacific Time tomorrow (01:00 Beijing time next day). They apologized for slow performance of GPT-6.1 Sol during its initial phase; after a large-scale load surge in the first two days, its speed has returned to expected levels."
+    },
+    {
+      "id": "5123601",
+      "time": "2026-10-02 10:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：現有基金約200只，總規模約7萬億日元。"
+    },
+    {
+      "id": "5123600",
+      "time": "2026-10-02 10:16:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【石家莊至中亞鐵公聯運圖定班列首發】今天（10月1日），河北石家莊經新疆塔城至中亞國家的鐵公聯運班列實現圖定化運營，首發班列當天從石家莊國際陸港啟程。這趟班列搭載了110個標準集裝箱，整列貨物全部為汽車配件，從石家莊出發後，將途經新疆塔城前往哈薩克阿拉木圖、布倫代等多個城市。此後該線路將按照每週一列的固定頻次常態化開行。"
+    },
+    {
+      "id": "mkt:01a0fa65-88f5-7ee0-a783-215becc8392e",
+      "time": "2026-10-02 10:15:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said he will significantly streamline idle funds in the budget process."
+    },
+    {
+      "id": "5123599",
+      "time": "2026-10-02 10:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：將在預算編制過程中大幅精簡閒置資金。"
+    },
+    {
+      "id": "te:markets:588968",
+      "time": "2026-10-02 10:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indonesian Rupiah Rises by 0.26% — Top currency gainers are Indonesian Rupiah (0.26%), Chinese Yuan (0.10%) and Japanese Yen (0.08%). Meanwhile South Korean Won was little changed."
+    },
+    {
+      "id": "mkt:01a0fa64-9139-7ee0-a783-1d4f6769317c",
+      "time": "2026-10-02 10:14:49",
+      "tags": [
+        "MKT News",
+        "Bitcoin",
+        "Impact mixed",
+        "Ethereum"
+      ],
+      "text": "Japan's finance minister Katayama said he will step up efforts to promote subsidies for a Japan-version DOGE and strengthen funding reviews."
+    },
+    {
+      "id": "5123598",
+      "time": "2026-10-02 10:14:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財政大臣片山表示：將加大力度推動“日本版DOGE”（政府效率部），審查各類補貼與資金。"
+    },
     {
       "id": "te:markets:588965",
       "time": "2026-10-02 10:13:42",

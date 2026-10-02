@@ -1,7 +1,89 @@
 {
-  "updated": "2026-10-02 10:15:01",
-  "count": 11678,
+  "updated": "2026-10-02 10:18:50",
+  "count": 11679,
   "items": [
+    {
+      "id": "mkt:01a0fa66-da06-7ee0-a783-3793cedc7ea8",
+      "time": "2026-10-02 10:17:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said there are about 200 existing funds with combined assets of roughly 7 trillion yen."
+    },
+    {
+      "id": "mkt:01a0fa66-a264-7ee0-a783-29553d4666c6",
+      "time": "2026-10-02 10:17:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI CODEX product lead said all ChatGPT paid accounts will undergo a global reset at 10:00 a.m. Pacific Time tomorrow (01:00 Beijing time next day). They apologized for slow performance of GPT-6.1 Sol during its initial phase; after a large-scale load surge in the first two days, its speed has returned to expected levels."
+    },
+    {
+      "id": "5123601",
+      "time": "2026-10-02 10:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：現有基金約200只，總規模約7萬億日元。"
+    },
+    {
+      "id": "5123600",
+      "time": "2026-10-02 10:16:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【石家莊至中亞鐵公聯運圖定班列首發】今天（10月1日），河北石家莊經新疆塔城至中亞國家的鐵公聯運班列實現圖定化運營，首發班列當天從石家莊國際陸港啟程。這趟班列搭載了110個標準集裝箱，整列貨物全部為汽車配件，從石家莊出發後，將途經新疆塔城前往哈薩克阿拉木圖、布倫代等多個城市。此後該線路將按照每週一列的固定頻次常態化開行。"
+    },
+    {
+      "id": "mkt:01a0fa65-88f5-7ee0-a783-215becc8392e",
+      "time": "2026-10-02 10:15:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said he will significantly streamline idle funds in the budget process."
+    },
+    {
+      "id": "5123599",
+      "time": "2026-10-02 10:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：將在預算編制過程中大幅精簡閒置資金。"
+    },
+    {
+      "id": "te:markets:588968",
+      "time": "2026-10-02 10:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indonesian Rupiah Rises by 0.26% — Top currency gainers are Indonesian Rupiah (0.26%), Chinese Yuan (0.10%) and Japanese Yen (0.08%). Meanwhile South Korean Won was little changed."
+    },
+    {
+      "id": "mkt:01a0fa64-9139-7ee0-a783-1d4f6769317c",
+      "time": "2026-10-02 10:14:49",
+      "tags": [
+        "MKT News",
+        "Bitcoin",
+        "Impact mixed",
+        "Ethereum"
+      ],
+      "text": "Japan's finance minister Katayama said he will step up efforts to promote subsidies for a Japan-version DOGE and strengthen funding reviews."
+    },
+    {
+      "id": "5123598",
+      "time": "2026-10-02 10:14:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財政大臣片山表示：將加大力度推動“日本版DOGE”（政府效率部），審查各類補貼與資金。"
+    },
     {
       "id": "te:markets:588965",
       "time": "2026-10-02 10:13:42",
@@ -107222,93 +107304,6 @@
         "Importance 1"
       ],
       "text": "Japanese Yields Track Treasury Yields Higher — Japan’s 10-year government bond yield climbed to around 3.1% on Friday, reaching its highest levels since 1996 and following the rise in US Treasury yields as expectations grew that the Federal Reserve will tighten policy further to contain inflation. Bond markets continued to grapple with elevated oil prices that are fueling inflationary pressures further, though reports that the US and Iran are considering a phased deal provided some relief. The latest US Treasury bond buyback operation also came in below expectations, with just $4.078 billion of 20- and 30-year bonds purchased against $10.4678 billion offered. Domestically, former Bank of Japan board member Makoto Sakurai said the central bank is expected to raise interest rates roughly once every three months, potentially lifting them to 2% by around June next year as it seeks to address mounting inflationary pressures."
-    },
-    {
-      "id": "5112976",
-      "time": "2026-09-25 10:18:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓正會見保加利亞總統約託娃】當地時間2026年9月24日，國家副主席韓正在紐約出席聯合國大會期間會見保加利亞總統約託娃。韓正向約託娃轉達習近平主席的親切問候和良好祝願。韓正表示，保加利亞和中國雖然相距遙遠，但傳統友好、互利共贏始終是雙邊關係的鮮明底色。近年來，在兩國元首戰略引領下，兩國互信持續深化，各領域務實合作穩步推進。中方願繼續同保方加強高層交往，築牢政治互信，照顧彼此核心利益和重大關切，進一步促進雙邊關係健康穩定發展。中保在農業、資訊通訊、汽車零部件製造等領域合作富有成效，中方願繼續同保方深化青年、教育、文旅等領域交流，促進民心相通，加強多邊協作，以更多合作成果造福兩國人民。（新華社）"
-    },
-    {
-      "id": "5112975",
-      "time": "2026-09-25 10:17:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "牛津經濟研究院表示，其美國商業週期指標已跌入衰退區域，原因是能源價格上漲擠壓居民實際收入，同時移民放緩削弱了就業趨勢增長。不過，AI投資與消費韌性仍提供支撐。"
-    },
-    {
-      "id": "mkt:01a0d659-fcfa-7118-8694-1bdf0a129187",
-      "time": "2026-09-25 10:16:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "【SK Hynix, Samsung outline Jeonnam‑Gwangju chip project; 2.08m sqm prioritised】SK Hynix and Samsung Electronics have agreed a planning framework with Jeonnam‑Gwangju authorities for a chip industrial park in South Korea; SK Hynix seeks the largest possible production land allocation while Samsung stresses accelerating investment delivery. The integrated-city plan sits inside a national industrial park totaling 8.26 mln sqm, with about 2.08 mln sqm earmarked for immediate development. Officials plan to sign a move-in agreement with SK Hynix in October and to start detailed talks on investment timing, plant construction and supporting infrastructure; an on-site inspection and senior-level talks with Samsung are scheduled for Oct. 6."
-    },
-    {
-      "id": "5112974",
-      "time": "2026-09-25 10:16:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "越南VN指數開盤變化不大，報1775.09點。"
-    },
-    {
-      "id": "mkt:01a0d659-581a-7118-8694-15c2a1213378",
-      "time": "2026-09-25 10:16:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact mixed",
-        "US10Y",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【Oxford Economics: US business‑cycle indicator in recession zone; AI investment and consumer resilience offer support】Oxford Economics says its US business‑cycle indicator has fallen into the recession zone, driven by higher energy prices that have squeezed household real incomes and slower immigration that is weakening the employment growth trend. The firm cautions the indicator may not definitively signal a recession, citing continued strong productivity growth and a wealth effect that is sustaining consumer spending; households have not shown the consumption downgrading typical ahead of or during recessions. Oxford adds that AI infrastructure spending, elevated corporate profit margins and recent tax cuts are still underpinning business investment, while tariffs and policy uncertainty remain downside risks."
-    },
-    {
-      "id": "te:markets:586722",
-      "time": "2026-09-25 10:16:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Prices Retreat — US gasoline futures fell to around $3.48 per gallon, retreating from a four-month high, as markets weighed uncertainty over potential US diesel export restrictions alongside diplomatic developments in the Middle East. While Energy Secretary Chris Wright favors voluntary curbs on diesel exports, President Trump has previously backed restrictions, leaving the policy outlook unclear. Such restrictions could prompt US refiners to cut crude runs by about 12%, according to S&P Global Energy CERA, reducing gasoline production. Meanwhile, diplomatic hopes between the US and Iran eased some supply concerns, as negotiators reportedly explored a phased path to end the war, including reopening the Strait of Hormuz and lifting Washington’s economic blockade of Iran. However, continued attacks in the Middle East tempered hopes for broader de-escalation. Separately, US gasoline inventories unexpectedly declined by 1.7 million barrels in the week ending September 18th, according to the EIA."
-    },
-    {
-      "id": "5112973",
-      "time": "2026-09-25 10:15:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守93美元/桶，日內跌1.72%。"
-    },
-    {
-      "id": "te:markets:586721",
-      "time": "2026-09-25 10:15:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: South Korean Won Rises by 0.35% — Top currency gainers are South Korean Won (0.35%), Indonesian Rupiah (0.29%) and Japanese Yen (0.27%)."
     }
   ]
 }
