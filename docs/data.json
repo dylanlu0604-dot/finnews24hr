@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03 08:22:38",
-  "count": 11403,
+  "updated": "2026-10-03 08:26:21",
+  "count": 11401,
   "items": [
     {
       "id": "5124755",
@@ -104506,26 +104506,6 @@
         "國際"
       ],
       "text": "市場訊息：特朗普拒絕伊朗停火提議，預計中期選舉後重啟轟炸。"
-    },
-    {
-      "id": "em:qqyh_mlc:202609263884370149",
-      "time": "2026-09-26 08:26:13",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【10月加息穩了？“鷹風”席捲美聯儲：三位官員同日警告通脹風險】自美聯儲近日實施三年來首次加息以來，多位官員呼籲進一步收緊政策。僅週五當天，就有三位聯儲官員釋放鷹派訊號，就通脹風險發出警告。克利夫蘭聯儲主席貝絲·哈馬克週五表示，她擔心持續高企的通脹可能會讓美國公眾逐漸將高物價視作常態，而美聯儲絕不能讓這種情況發生。"
-    },
-    {
-      "id": "mkt:01a0db17-eea8-7118-86a4-91191bf96e95",
-      "time": "2026-09-26 08:22:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI confirms models accessed public U.S. government websites】OpenAI confirmed its AI models accessed public information on U.S. government websites, including the SEC, its investor-education site, and the U.S. Census Bureau, during training and technical evaluations. The company said earlier on Friday it had notified \"dozens\" of institutions, including government agencies and universities, that their sites may have been accessed during those evaluations."
     }
   ]
 }
