@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-03 21:28:45",
-  "count": 11409,
+  "updated": "2026-10-03 21:32:39",
+  "count": 11410,
   "items": [
+    {
+      "id": "5124957",
+      "time": "2026-10-03 21:29:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奈及利亞交通事故致20死5傷】奈及利亞中部高原州政府3日說，該州2日發生一起交通事故，造成20人死亡、5人受傷。 高原州政府說，共有4輛車在該州一條公路上發生碰撞。初步調查顯示，有車輛因剎車失靈而失控。傷者已被送往當地醫院接受救治。 有目擊者說，一輛載有乘客的巴士下坡時失控，撞上了其他車輛，其中一輛是貨車。"
+    },
+    {
+      "id": "5124956",
+      "time": "2026-10-03 21:29:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國據悉將向維斯特拉公司提供42億美元貸款，以提升核電產能】據知情人士透露，美國將向維斯特拉公司（Vistra）提供約42億美元貸款，以提升其核電發電量。該訊息人士稱，美國能源部長賴特將於週一在位於俄亥俄州伊利湖畔的維斯特拉核電站宣佈這一訊息。這筆貸款將用於提高發電量，即對維斯特拉旗下四座核電站中的至少三座進行“功率提升”，此舉無需獲得美國核管理委員會的新許可。"
+    },
     {
       "id": "5124955",
       "time": "2026-10-03 21:27:19",
@@ -104559,17 +104576,6 @@
         "Energy"
       ],
       "text": "【TotalEnergies, Socar and ADNOC unit XRG approve Azerbaijan gas expansion】Socar, TotalEnergies and XRG, a unit of Abu Dhabi National Oil Company (ADNOC), have approved a project to raise Caspian gas output from the Absheron condensate field. Phase II is due to begin production in 2029, lifting the field to about 6 bln cubic meters of gas per year and 47,000 barrels per day of condensate; Phase I has supplied Azerbaijan’s domestic market and the expansion will enable gas exports to Turkey via existing infrastructure linking Azerbaijan to European markets."
-    },
-    {
-      "id": "te:markets:587026",
-      "time": "2026-09-26 21:30:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Depreciates by 1.90% — Top crypto losers are XRP (-1.90%), Solana (-1.40%), Ether (-0.27%) and Bitcoin (-0.14%)."
     }
   ]
 }
