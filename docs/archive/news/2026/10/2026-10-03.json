@@ -1,7 +1,33 @@
 {
   "date": "2026-10-03",
-  "count": 515,
+  "count": 518,
   "items": [
+    {
+      "id": "mkt:01a100ea-3801-7ee0-a78f-3e19e5426fbc",
+      "time": "2026-10-03 16:38:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【2026 National Day new-release box office tops 400 mln yuan】Maoyan Pro data show total box office for 2026 National Day new releases exceeded 400 mln yuan. Detective: Traces, What Do You Mean Couple and Peppa Pig: Perfect Holiday rank as the top three new-release earners."
+    },
+    {
+      "id": "5124878",
+      "time": "2026-10-03 16:37:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球食品價格9月份再度上漲】當地時間10月2日，聯合國秘書長發言人迪雅裡克在紐約舉行的例行釋出會上表示，全球食品價格9月份再度上漲。其中，小麥價格升至2023年8月以來最高水平，玉米價格達到三年來高位。黑海地區物流運輸受限以及霍爾木茲海峽航運持續存在的不確定性，正在對全球糧食市場造成影響。（CCTV國際時訊）"
+    },
+    {
+      "id": "5124877",
+      "time": "2026-10-03 16:36:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026國慶檔新片票房破4億】據貓眼專業版資料，2026年國慶檔新片總票房破4億，《神探之痕跡》《什麼意思夫婦》《小豬佩奇·完美假期》暫列國慶檔新片票房榜前三位。"
+    },
     {
       "id": "5124876",
       "time": "2026-10-03 16:34:29",
