@@ -1,7 +1,23 @@
 {
   "date": "2026-10-03",
-  "count": 634,
+  "count": 636,
   "items": [
+    {
+      "id": "5124965",
+      "time": "2026-10-03 22:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿富汗北部一礦井坍塌致5人死亡】阿富汗塔哈爾省警察局新聞和公共關係負責人納吉布拉·馬斯魯爾3日證實，位於該省恰赫阿卜地區沙阿馬斯坦山谷的一礦井當天發生坍塌，造成5名礦工死亡。"
+    },
+    {
+      "id": "mkt:01a10211-b46f-7ee0-a790-31442c0ac28d",
+      "time": "2026-10-03 22:01:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNT/MDA poll: Lula leads Bolsonaro 47.3% to 43.1% in a hypothetical Brazilian presidential runoff; in a first-round vote Lula 43.1%, Bolsonaro 38.0%."
+    },
     {
       "id": "mkt:01a1020e-7334-7ee0-a790-295846c63d35",
       "time": "2026-10-03 21:57:43",
