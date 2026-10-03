@@ -1,7 +1,175 @@
 {
   "date": "2026-10-04",
-  "count": 42,
+  "count": 61,
   "items": [
+    {
+      "id": "5125018",
+      "time": "2026-10-04 03:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局與SpaceX確定，Crew-12 乘組最早將於 10 月 7 日撤離空間站。"
+    },
+    {
+      "id": "mkt:01a1032a-5fd6-7ee0-a791-3683b487ef8c",
+      "time": "2026-10-04 03:07:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi forces say they struck ARAMCO targets in Riyadh】Houthi forces said on the night of the 3rd (local time) that, in response to Saudi airstrikes on Sanaa and other areas of Yemen, they used multiple ballistic missiles and drones to strike ARAMCO targets in Riyadh. The group said the operation successfully achieved its objectives, hit targets and caused fires, and added that Saudi forces carried out 60 air and missile strikes in the past 24 hours and 1,410 strikes since the situation escalated on Sept. 3."
+    },
+    {
+      "id": "5125017",
+      "time": "2026-10-04 03:07:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝稱對沙特阿美石油公司目標實施打擊】葉門胡塞武裝當地時間3日晚發表宣告說，為回應沙特方面對薩那及葉門其他地區的空襲，胡塞武裝當天使用多枚彈道導彈和無人機，對位於沙特首都利雅得的阿美石油公司目標實施打擊。宣告稱，此次行動“成功實現目標”，“命中目標並引發火災”。宣告還說，過去24小時內，沙特方面對葉門發動60次空襲和導彈襲擊，自9月3日局勢升級以來，沙特一共發動了1410次空襲和導彈襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a10325-2d14-7ee0-a791-2d4282d3067c",
+      "time": "2026-10-04 03:02:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq said it had loaded 2 million barrels of crude onto an ultra-large crude carrier (ULCC) outside the Strait of Hormuz to give state oil marketer SOMO greater sales flexibility. Baghdad said it is seeking to buy specialist crude tankers to expand its fleet."
+    },
+    {
+      "id": "5125016",
+      "time": "2026-10-04 03:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克：此舉旨在讓國家石油銷售機構 SOMO 在原油銷售方面擁有更大靈活性。"
+    },
+    {
+      "id": "5125015",
+      "time": "2026-10-04 02:57:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "伊拉克油輪公司在宣告中稱，本次運輸是數十年來首次此類行動，正計劃採購專用原油油輪以擴充船隊。"
+    },
+    {
+      "id": "5125014",
+      "time": "2026-10-04 02:56:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克：已透過超大型油輪運送 200 萬桶原油，運抵霍爾木茲海峽以外海域。"
+    },
+    {
+      "id": "mkt:01a1031f-d254-7ee0-a791-27345ab3e41f",
+      "time": "2026-10-04 02:56:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's Houthi group said it struck ARAMCO facilities in Riyadh with ballistic missiles and drones. Saudi authorities have not yet confirmed the report."
+    },
+    {
+      "id": "5125013",
+      "time": "2026-10-04 02:55:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：伊朗想在霍爾木茲海峽這類地方耍手段，但海峽不在他們掌控之中，掌控者是我們。他們實際上一無所獲。我們的封鎖堅不可摧，而我們每晚在海峽的通行量幾乎恢復至戰前水平。"
+    },
+    {
+      "id": "5125012",
+      "time": "2026-10-04 02:54:00",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "沙特方面暫未證實胡塞武裝關於襲擊利雅得阿美石油設施的宣告。"
+    },
+    {
+      "id": "5125011",
+      "time": "2026-10-04 02:51:31",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "葉門胡塞武裝：使用彈道導彈與無人機襲擊沙特利雅得的阿美石油設施。"
+    },
+    {
+      "id": "5125010",
+      "time": "2026-10-04 02:45:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭首都響起警報，預警無人機襲擊。"
+    },
+    {
+      "id": "5125009",
+      "time": "2026-10-04 02:44:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星艦部署星鏈 V3 衛星。"
+    },
+    {
+      "id": "mkt:01a1030a-a696-7ee0-a791-18d0dfd11f01",
+      "time": "2026-10-04 02:33:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said prominent figures at a recent gathering told him they particularly dislike returning home after a forced time change because it is pitch dark; one attendee said, \"I hate walking home in the dark.\" He added walking home at night is especially dangerous in crime-plagued Democratic-run states."
+    },
+    {
+      "id": "5125008",
+      "time": "2026-10-04 02:25:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理：如今我們是一個自主決策、保衛本國領土與領空的國家，所有武裝力量均接受武裝部隊總司令的指揮。"
+    },
+    {
+      "id": "5125007",
+      "time": "2026-10-04 02:25:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：愛彼迎執行長稱，公司不太可能允許 Muse 這類人工智慧代理直接完成預訂。"
+    },
+    {
+      "id": "mkt:01a10300-16c9-7ee0-a791-16562c0bc73f",
+      "time": "2026-10-04 02:21:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's Qeshm Island air-defence system activated twice】Iranian sources said Qeshm Island's air-defence system activated twice on the evening of the 3rd, with sounds heard across the island. Residents reported at least one aerial vehicle was hit over Qeshm during the activations, and a spent air-defence missile booster was later found on the island."
+    },
+    {
+      "id": "5125006",
+      "time": "2026-10-04 02:18:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗格什姆島防空系統啟動】當地時間3日，伊朗方面訊息稱，當天傍晚伊朗防空系統在格什姆島兩次啟動，島上多地均能聽到相關聲響。當地居民稱，在防空系統啟動期間，至少“有一架飛行器在格什姆島上空被擊中”。此外，當地居民還在島上某處發現了伊朗防空導彈的助推器。（央視新聞）"
+    },
+    {
+      "id": "5125005",
+      "time": "2026-10-04 02:13:51",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗里亞爾續創新低，據稱央行已出手干預匯市】伊朗里亞爾週六繼續下跌。此前，伊朗央行宣佈將注入高達20億美元的資金以支撐里亞爾，以應對美國製裁和海上封鎖帶來的經濟困境。根據自由市場追蹤網站bon-bast的資料，美元賣出價約為268.8萬里亞爾，高於週五的263.2萬里亞爾；alanchand則報道為1美元兌269.5萬里亞爾。伊朗國家電視臺稱，國有銀行已開始拋售最高20億美元以支撐本幣。里亞爾在過去一年中已貶值超過一半。許多尋求儲蓄避風港的伊朗人一直在購買美元、其他硬通貨或黃金。伊朗央行行長的外匯事務助理邁赫迪·達拉比將里亞爾下跌部分歸咎於美國官員對伊朗經濟崩潰的錯誤預測。達拉比表示：“有人暗示伊朗經濟即將崩潰……敵人正利用這一點影響我們貨幣的匯率。”他補充稱，里亞爾當前的下跌是暫時的。"
+    },
     {
       "id": "5125004",
       "time": "2026-10-04 01:58:30",
