@@ -1,7 +1,28 @@
 {
   "date": "2026-10-03",
-  "count": 383,
+  "count": 385,
   "items": [
+    {
+      "id": "te:economy:589287",
+      "time": "2026-10-03 10:11:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Vietnam Retail Sales Rise the Least in 4 Months — Retail sales in Vietnam rose by 14.1% year-on-year in September 2026, slowing slightly from a 14.9% gain in the prior month and pointing to the mildest pace since May."
+    },
+    {
+      "id": "5124785",
+      "time": "2026-10-03 10:10:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【商務部：對原產於歐盟的進口對硝基甲苯發起反傾銷立案調查】10月3日，商務部發布公告，公佈對原產於歐盟的進口對硝基甲苯發起反傾銷立案調查。自公告發布之日起，商務部對原產於歐盟的進口對硝基甲苯進行反傾銷立案調查，本次調查確定的傾銷調查期為2025年7月1日至2026年6月30日，產業損害調查期為2022年1月1日至2026年6月30日。調查範圍：原產於歐盟的進口對硝基甲苯。"
+    },
     {
       "id": "te:economy:589286",
       "time": "2026-10-03 10:08:23",

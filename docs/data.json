@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-03 10:08:50",
+  "updated": "2026-10-03 10:12:35",
   "count": 11385,
   "items": [
+    {
+      "id": "te:economy:589287",
+      "time": "2026-10-03 10:11:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Vietnam Retail Sales Rise the Least in 4 Months — Retail sales in Vietnam rose by 14.1% year-on-year in September 2026, slowing slightly from a 14.9% gain in the prior month and pointing to the mildest pace since May."
+    },
+    {
+      "id": "5124785",
+      "time": "2026-10-03 10:10:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【商務部：對原產於歐盟的進口對硝基甲苯發起反傾銷立案調查】10月3日，商務部發布公告，公佈對原產於歐盟的進口對硝基甲苯發起反傾銷立案調查。自公告發布之日起，商務部對原產於歐盟的進口對硝基甲苯進行反傾銷立案調查，本次調查確定的傾銷調查期為2025年7月1日至2026年6月30日，產業損害調查期為2022年1月1日至2026年6月30日。調查範圍：原產於歐盟的進口對硝基甲苯。"
+    },
     {
       "id": "te:economy:589286",
       "time": "2026-10-03 10:08:23",
@@ -104328,23 +104349,6 @@
         "國際"
       ],
       "text": "CNN方面確認，白宮禁止CNN於週六搭乘“空軍一號”。"
-    },
-    {
-      "id": "mkt:01a0db7c-3cf5-7118-86a5-3d2797001706",
-      "time": "2026-09-26 10:12:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CNN says White House barred it from accompanying Trump to Tennessee on Saturday】The White House barred CNN from boarding Air Force One for President Trump's Saturday trip to Tennessee, the network confirmed. CNN had been scheduled as part of the White House television pool to cover the president at a college football game. The notice named no replacement outlet, meaning there will be no TV pool coverage for the trip, which CNN said it views as another escalation by the administration against the network and the broader White House press corps."
-    },
-    {
-      "id": "5114187",
-      "time": "2026-09-26 10:11:01",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【迦納央行行長：將推動與中國貿易本幣結算】迦納央行行長約翰遜·阿西亞馬24日表示，迦納將與中國合作，推動在兩國貿易交易中取消使用第三方貨幣結算。阿西亞馬在當日晚間舉行的貨幣政策委員會新聞釋出會上表示，貿易商希望充分利用中國對53個非洲建交國全面實施零關稅舉措，這一關鍵性的轉變對加強加中雙邊貿易至關重要。（新華社）"
     }
   ]
 }
