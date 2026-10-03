@@ -1,7 +1,23 @@
 {
   "date": "2026-10-03",
-  "count": 624,
+  "count": 625,
   "items": [
+    {
+      "id": "mkt:01a101f7-8e9d-7ee0-a790-1ec0e54d477a",
+      "time": "2026-10-03 21:32:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "TSM.O",
+        "Impact bullish",
+        "TSLA.O"
+      ],
+      "text": "【Musk says talks only but 'may make progress' after reports TSMC weighing Terafab tie-up】Reports say TSMC is exploring cooperation with SpaceX and Tesla on their Terafab project and is considering making Terafab a major customer for its planned Texas wafer fab. Musk said on social media the talks are only at the discussion stage but \"may make progress.\""
+    },
     {
       "id": "5124957",
       "time": "2026-10-03 21:29:52",

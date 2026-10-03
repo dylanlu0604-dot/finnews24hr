@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-03 21:32:39",
-  "count": 11410,
+  "updated": "2026-10-03 21:36:37",
+  "count": 11406,
   "items": [
+    {
+      "id": "mkt:01a101f7-8e9d-7ee0-a790-1ec0e54d477a",
+      "time": "2026-10-03 21:32:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "TSM.O",
+        "Impact bullish",
+        "TSLA.O"
+      ],
+      "text": "【Musk says talks only but 'may make progress' after reports TSMC weighing Terafab tie-up】Reports say TSMC is exploring cooperation with SpaceX and Tesla on their Terafab project and is considering making Terafab a major customer for its planned Texas wafer fab. Musk said on social media the talks are only at the discussion stage but \"may make progress.\""
+    },
     {
       "id": "5124957",
       "time": "2026-10-03 21:29:52",
@@ -104530,52 +104546,6 @@
         "公司"
       ],
       "text": "【下週可申購2只新股】據統計，根據發行安排，下週暫有2只新股申購。下週一(9月28日)可申購聯亞藥業、南方乳業，下週即將發行新股合計預計募資金額為14.36億元。聯亞藥業，申購程式碼為301569，擬公開發行A股1.34億股，其中網上發行1872.35萬股，發行價格為7.00元，單一賬戶申購上限為18500股，申購數量為500股的整數倍，頂格申購需持有深市市值18.50萬元。公司2023年—2025年淨利潤分別為1.16億元、2.60億元、2.28億元，同比變動幅度為2.47%、124.68%、-12.43%。南方乳業，申購程式碼為920196，擬公開發行A股3518.52萬股，其中網上發行2462.96萬股，發行價格為14.21元。"
-    },
-    {
-      "id": "5114334",
-      "time": "2026-09-26 21:34:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【伊朗央行行長：伊朗通脹已小幅回落，為過去15個月來首次】伊朗央行行長表示，伊朗的通脹已小幅下降，這是過去15個月來首次出現這樣的跡象。據伊朗半官方塔斯尼姆通訊社援引伊朗央行行長阿卜杜勒納賽爾·赫馬提的話稱， 伊朗9月同比通脹率小幅下降，從8月的84.4%降至83.8%；儘管降幅很小，但同比通脹率正在下降這一事實非常重要。此前美國已啟動“經濟棄兒行動”，實施新的制裁，此外還對伊朗港口進行海上封鎖。"
-    },
-    {
-      "id": "mkt:01a0dded-0d25-7118-86a7-bfab0cf4a7f1",
-      "time": "2026-09-26 21:34:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran central bank governor says inflation edged down for first time in 15 months】Iran central bank governor Abdolnaser Hemmati told semi-official Tasnim the annual inflation rate fell slightly to 83.8% in September from 84.4% in August, marking the first YoY decline in 15 months. The report comes after the U.S. imposed new sanctions and a maritime blockade on Iranian ports."
-    },
-    {
-      "id": "5114333",
-      "time": "2026-09-26 21:34:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雅典老城區爆炸事故致6死3傷】據希臘國家廣播電視公司26日報道，救援人員已在雅典普拉卡老城區發生爆炸建築的廢墟中找到6名遇難者遺體，另有3人受傷。（新華社）"
-    },
-    {
-      "id": "5114332",
-      "time": "2026-09-26 21:33:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒稱以總理曾獲襲擊警告但為促以沙建交未打哈馬斯】據美國媒體披露，2023年10月初本輪巴以衝突爆發前夕，以色列總理內塔尼亞胡收到阿拉伯聯合大公國有關巴勒斯坦伊斯蘭抵抗運動（哈馬斯）可能發動重大襲擊的預警。不過，他未下令對哈馬斯高層採取軍事行動，原因是擔憂此舉妨礙以色列同沙烏地阿拉伯實現關係正常化。以色列《國土報》本月早些時候披露，阿聯酋總統穆罕默德2023年9月下旬在電話中告訴內塔尼亞胡，哈馬斯可能發動重大襲擊，但內塔尼亞胡未予重視。然而，內塔尼亞胡發表宣告，否認接到這一預警。 （新華社）"
-    },
-    {
-      "id": "mkt:01a0ddea-faad-7118-86a7-b122b2491c93",
-      "time": "2026-09-26 21:32:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【TotalEnergies, Socar and ADNOC unit XRG approve Azerbaijan gas expansion】Socar, TotalEnergies and XRG, a unit of Abu Dhabi National Oil Company (ADNOC), have approved a project to raise Caspian gas output from the Absheron condensate field. Phase II is due to begin production in 2029, lifting the field to about 6 bln cubic meters of gas per year and 47,000 barrels per day of condensate; Phase I has supplied Azerbaijan’s domestic market and the expansion will enable gas exports to Turkey via existing infrastructure linking Azerbaijan to European markets."
     }
   ]
 }
