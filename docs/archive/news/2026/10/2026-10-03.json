@@ -1,7 +1,51 @@
 {
   "date": "2026-10-03",
-  "count": 379,
+  "count": 383,
   "items": [
+    {
+      "id": "te:economy:589286",
+      "time": "2026-10-03 10:08:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Vietnam Industrial Output Growth at 8-Month High — Vietnam’s industrial output increased 16.7% year-on-year in September 2026, accelerating from a downwardly revised 13.5% gain in the previous month and marking the fastest growth since January."
+    },
+    {
+      "id": "te:economy:589285",
+      "time": "2026-10-03 10:08:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Vietnam Inflation Rate Hits 4-Month High — Vietnam’s annual inflation rate accelerated to 5.08% in September 2026, up from 4.89% in August, marking the highest rate since May. On a monthly basis, consumer prices rose 0.62% in September, following a 0.47% rise in August."
+    },
+    {
+      "id": "5124784",
+      "time": "2026-10-03 10:07:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山西多景區釋出限流公告】山西日報訊息，10月2日，山西多個熱門景區釋出客流預警公告，包括雲岡石窟景區、北嶽恆山景區、太原北齊壁畫博物館、晉祠博物館等，出行前請提前查詢官方公告，合理調整行程。"
+    },
+    {
+      "id": "te:economy:589284",
+      "time": "2026-10-03 10:05:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Vietnam Q3 GDP Growth Strongest Since 2022 — Vietnam’s economy advanced 9.95% yoy in Q3 2026, accelerating from an upwardly revised 8.81% in the previous period and marking the fastest growth since Q3 2022. All sectors posted solid gains: industry and construction surged 12.50%, contributing 51.57% of total value added. Services rose 9.54%, accounting for 43.29%, while agriculture grew 4.21%, with a 5.14% share. On the expenditure side, final consumption rose 8.96%, while fixed investment surged 21.39%. On the trade front, exports of goods and services climbed 23.27%, while imports rose 28.75%. For the first three quarters, GDP grew 9.01%. Vietnam is targeting economic growth of more than 10% this year, supported by stronger infrastructure spending. Last year, the economy grew 8.02%, the highest growth rate in Southeast Asia."
+    },
     {
       "id": "5124783",
       "time": "2026-10-03 10:01:55",
