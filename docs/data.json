@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-03 16:09:16",
-  "count": 11380,
+  "updated": "2026-10-03 16:13:08",
+  "count": 11381,
   "items": [
+    {
+      "id": "mkt:01a100cf-2432-7ee0-a78f-1b3e8057ad6e",
+      "time": "2026-10-03 16:08:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【China's 5G base stations reach 5.195 mln at end‑August】The Ministry of Industry and Information Technology said telecom traffic rose steadily in Jan–Aug as 5G network buildout and applications advanced. As of end‑August, 5G base stations totaled 5.195 mln, or 39.7% of mobile base stations. Fixed broadband subscribers at the three basic telecom operators reached 704 mln, a net add of 13.65 mln vs year‑end. Mobile phone users across the three operators and China Broadcasting Network totaled 1.849 bln, including 1.311 bln 5G users. Mobile IoT terminals at the three operators reached 3.07 bln, a net add of 182 mln vs year‑end."
+    },
     {
       "id": "5124865",
       "time": "2026-10-03 16:05:26",
