@@ -1,7 +1,17 @@
 {
   "date": "2026-10-03",
-  "count": 391,
+  "count": 392,
   "items": [
+    {
+      "id": "mkt:01a0ff95-8eea-7ee0-a78e-08158e9b28b1",
+      "time": "2026-10-03 10:26:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan's finance minister Katayama says government adjusting messaging to counter view Takaichi pursuing reflationary policy】Japan's finance minister Katayama told Tokyo TV on Saturday the government has begun adjusting its communications to reassure markets that Prime Minister Sanae Takaichi is not pursuing a reflationary policy. Katayama said U.S. Treasury Secretary Bessent regards Takaichi's economic policies as appropriate for current conditions but questioned whether Japan had adequately communicated that to investors; Katayama said authorities concluded around late August they needed to convey the message more clearly to financial markets."
+    },
     {
       "id": "te:economy:589291",
       "time": "2026-10-03 10:20:53",
