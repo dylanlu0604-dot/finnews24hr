@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-04 04:55:51_
-_本檔包含 2039 則快訊，約 434919 字_
+_更新時間：2026-10-04 07:46:32_
+_本檔包含 2020 則快訊，約 433688 字_
+
+---
+
+### 2026-09-28 22:18:17  #市場 #央行 #國際
+
+【歐洲央行拉加德稱收益率上升將拖慢增長並削弱通脹傳導】歐洲央行行長克里斯蒂娜·拉加德表示，債券收益率上升將抑制經濟增長，並限制能源成本上漲向通脹的傳導。“儘管經濟增長保持韌性，但自我們上次會議以來，長期利率已顯著上升，這將拖慢增長，並使價格傳導程度低於我們9月預測時的估計，”拉加德週一表示。她在布魯塞爾對歐洲議員表示，迄今缺乏第二輪效應，這意味著歐洲央行應“酌情采取審慎的應對來控制通脹”。
+
+---
+
+### 2026-09-28 22:16:55  #央行 #歐洲央行
+
+【交易員減少對歐洲央行加息的押注】交易員減少對歐洲央行加息的押注，認為10月份加息的可能性不足40%。
+
+---
+
+### 2026-09-28 22:16:36  #其他 #焦點
+
+SPACEX：星艦將比原計劃提前返回地球。
+
+---
+
+### 2026-09-28 22:15:48  #央行 #國際
+
+交易員減少對歐洲央行加息的押注，認為10月份加息的可能性不足40%。
+
+---
+
+### 2026-09-28 22:15:12  #其他
+
+伯納姆：如果社會照護體系崩潰，將把國家醫療服務體系（NHS）一併拖垮。
+
+---
+
+### 2026-09-28 22:14:41  #國際
+
+以色列國防軍稱，已擊斃哈馬斯軍事部門一名關鍵資金兌換商。
+
+---
+
+### 2026-09-28 22:14:15  #其他
+
+英偉達推出Open Agent安全平臺，幫助使用者控制AI智慧體可以訪問和操作的範圍。智慧體能夠編寫程式碼、使用工具，並持續數小時甚至數天處理複雜任務，這需要訪問資料和系統，同時對其使用方式設定明確限制。英偉達OpenShell對智慧體的工作執行許可權管理，BlueField-4和DOCA在基礎設施層面增加獨立於智慧體控制範圍的監控和安全控制，Vera CPU為工作負載提供算力支援。
+
+---
+
+### 2026-09-28 22:12:02  #其他
+
+伯納姆：國防投資計劃將在預算中獲得全額資金支援。
+
+---
+
+### 2026-09-28 22:12:01  #市場
+
+【費城半導體指數日內跌2%】費城半導體指數日內跌2.00%，現報12415.34點。英偉達漲2.53%，博通跌0.61%，美光跌3.03%，英特爾跌4.59%，AMD跌3.56%，高通跌7.02%，臺積電跌1.15%，阿斯麥漲0.50%。
+
+---
+
+### 2026-09-28 22:11:14  #其他
+
+英國首相伯納姆：英國在國防方面毫無準備的說法站不住腳。
+
+---
+
+### 2026-09-28 22:10:27  #市場
+
+納斯達克100指數下跌超過1%；標普500指數下跌0.5%。
+
+---
+
+### 2026-09-28 22:09:37  #其他
+
+埃克森美孚：蓋亞那Uaru專案預計2026年底前投產；Whiptail專案目標2027年投產，Hammerhead專案目標2029年投產。
+
+---
+
+### 2026-09-28 22:09:07  #央行 #國際
+
+美聯儲監察長指出，一名員工可能攜帶機密資訊離職。
+
+---
+
+### 2026-09-28 22:08:59  #公司 #市場
+
+【9月28日增減持彙總】9月28日盤後，據不完全統計，包括潤欣科技、信濠光電在內的2家A股上市公司披露擬減持情況，岳陽興長披露擬增持情況。
+
+---
+
+### 2026-09-28 22:08:53  #其他
+
+英國首相伯納姆就空軍基地逮捕事件表態：今日將主持內閣緊急應變小組會議。
+
+---
+
+### 2026-09-28 22:08:39  #宏觀 #央行 #國際
+
+歐洲央行拉加德：迄今為止，我們看到各國政府出臺的能源支援措施規模約佔GDP的0.1個百分點區間。
+
+---
+
+### 2026-09-28 22:08:33  #其他
+
+拉加德：多數政府燃料補貼既非臨時性措施，也非定向援助。
+
+---
+
+### 2026-09-28 22:05:18  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Falls as Higher Oil Stokes Inflation Concerns — The S&P/TSX Composite Index fell nearly 1% to below 36,000 on Monday as rising oil prices revived inflation concerns. Oil prices resumed their rally after US President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, renewing concerns that energy-driven inflation shocks could keep interest rates higher for longer. Yields moved higher, pressuring credit-sensitive stocks. Financials posted losses, with CIBC and National Bank down more than 0.5%. Meanwhile, falling gold prices pressured mining shares, with Agnico Eagle tumbling more than 5%, while Barrick, WPM and Franco-Nevada shed about 4% each. Shopify (-3%) and Constellation Software (-1.5%) fell amid weakness in Wall Street tech stocks. In contrast, energy producers gained on the oil rebound, with Canadian Natural, Cenovus and Suncor up about 1%. On the data front, Canadian GDP data due Tuesday could offer cues on economic momentum and the Bank of Canada’s future policy path.
+
+---
+
+### 2026-09-28 22:00:42  #Trading Economics #Markets #commodity #Importance 0
+
+Soybeans Hits 4-week Low — Soybeans decreased to 1284.00 USd/Bu, the lowest since August 2026. Over the past 4 weeks, Soybeans gained 0.77%, and in the last 12 months, it increased 27.17%.
+
+---
+
+### 2026-09-28 21:49:23  #Trading Economics #Markets #Germany #Government Bond 10Y #Importance 0
+
+Bund Yields Hold at 17-Year High as Lagarde Signals Caution, Oil Rises — Germany’s 10-year Bund yield trimmed an early rise to stabilize at 3.62%, its highest level since June 2009, as investors weighed comments from ECB President Christine Lagarde against a renewed rally in oil prices. Lagarde said the inflation outlook for 2027 and 2028 is now higher than policymakers expected a few months ago, mainly due to higher energy prices, but noted there is no evidence yet of energy costs feeding into higher wages. She added that while the shock is too significant to ignore, a measured policy response remains appropriate to keep inflation under control. Meanwhile, oil prices climbed after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz and end the conflict in the Middle East. Money markets are pricing in roughly 100 basis points of ECB rate hikes by the end of 2027, while investors now await key eurozone inflation data due later this week for further clues on the ECB’s monetary policy outlook.
+
+---
+
+### 2026-09-28 21:46:57  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Slips Amid Oil Rebound — The Ibovespa fell nearly 1% to below 182,500 on Monday amid a jump in oil prices and the release of a new Focus survey. Oil prices resumed their rally after US President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, renewing concerns that energy-driven inflation shocks could keep interest rates higher for longer. Yields moved higher, pressuring credit-sensitive stocks. Major banks fell, with Itaú, Bradesco and BB losing about 1%, while utilities also posted losses, with Sabesp shedding nearly 1%. Meanwhile, the BCB’s Focus survey showed that the market raised its 2026 inflation forecast, from 4.92% to 4.99%, while the year-end 2026 Selic forecast remained at 13.50%. A new election poll showed President Lula widening his lead over Flávio Bolsonaro, who is viewed by markets as more fiscally restrictive amid elevated domestic yields and weak business activity. Elsewhere, Vale fell 1% on lower iron ore prices. In contrast, Petrobras rose more than 1%.
+
+---
+
+### 2026-09-28 21:46:33  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Parker-Hannifin Stock Price Hits 4-week High — Parker-Hannifin shares increased to 982.17 USD, the highest since August 2026. Over the past 4 weeks, Parker -Hannifin lost 5.69%, and in the last 12 months, it increased 30.59%.
+
+---
+
+### 2026-09-28 21:44:00  #Trading Economics #Markets #United States #Government Bond 10Y #Importance 2
+
+US 10 Year Treasury Note Yield Rises Above 5.2% — The yield on the US 10-year Treasury note continued to climb at the start of the week, rising above 5.2% to reach new high levels since mid-2007. Oil prices resumed their upward trend amid a lack of progress in negotiations between the US and Iran to end the war and reopen the Strait of Hormuz. The renewed inflationary concerns have strengthened expectations of further Fed tightening, with traders now pricing in nearly a 65% probability of a 25bps rate hike next month and a 53% chance of a similar move in December. Meanwhile, investors are bracing for a busy week of key economic releases, including the PCE inflation report and the jobs report, which should provide further insight into the health of the US economy and help shape expectations for the Fed’s next policy moves. Strong economic data, deteriorating fiscal conditions and rising government debt in the US have also weighed on the Treasury market in recent weeks.
+
+---
+
+### 2026-09-28 21:42:49  #央行 #歐洲央行
+
+【歐洲央行行長拉加德：尚無跡象顯示更高通脹正在變得根深蒂固】歐洲央行行長拉加德表示，尚無跡象顯示更高通脹正在變得根深蒂固；長期收益率上升勢必會減緩經濟增長；歐洲央行採取適度應對措施是恰當的。
 
 ---
 
@@ -12019,279 +12163,5 @@ U.S. President Trump said if Republicans win, every adult would receive a $5,000
 ### 2026-09-27 07:47:24  #公司
 
 【中礦資源Bikita鉭鈮回收二廠專案開工】當地時間9月25日上午，中礦資源比基塔礦業有限公司（簡稱“Bikita礦業”）鉭鈮回收二廠建設專案開工儀式在辛巴威Bikita礦區舉行。專案設計年處理礦石量45萬噸，預計年產鉭鈮精礦500—600噸，於2027年建成投產。
-
----
-
-### 2026-09-27 07:38:52  #公司
-
-【陳新武赴賽力斯集團調研】據重慶日報，近日，重慶市委副書記、市長陳新武赴賽力斯集團調研。調研中，陳新武指出，賽力斯是一家科技型創新型企業，要以創新引領發展，集聚行業高層次人才，加大研發投入力度，強化關鍵核心技術攻關，深化以AI驅動技術和產品升級，持續提升技術創新能力和核心競爭力。要以品質鑄就品牌，強化產品全生命週期質量管理，進一步完善產品譜系，增強各細分市場競爭優勢，構建差異化、定製化、多元化服務體系，加強品牌文化建設，不斷提升品牌價值、影響力和美譽度。要以管理提升效益，依託產業大腦增強運營效率、管理效能，推動產業鏈供應鏈數字化協同升級和資料共享互通，構建從需求到交付高效閉環，進一步挖掘市場潛力，最佳化營銷策略，拓展國內外市場，努力打造一流企業。
-
----
-
-### 2026-09-27 07:33:23  #其他
-
-【鄂爾多斯盆地探明千億方深層煤層氣田】記者今天從中國石油獲悉，位於山西呂梁的三交北區塊新增煤層氣探明地質儲量超千億立方米，標誌著我國深層煤層氣勘探開發又邁出關鍵一步，為保障國家能源安全增添新的底氣。三交北區塊地處鄂爾多斯盆地東部，連片含氣面積411.5平方千米，煤層埋深1900米至2150米，屬於典型的深層煤層氣。（央視新聞）
-
----
-
-### 2026-09-27 07:32:52  #其他
-
-【王興興回應造390萬載人機甲：宇樹不造別人也會造 大型機器人是行業必然趨勢】今年5月，宇樹科技釋出GD01載人變形機甲，售價390萬元起。據媒體報道，近日，第五屆全球數字貿易博覽會在杭州舉行，宇樹GD01載人機甲現身數貿會主題館，現場工作人員表示，問價的人不少，但還沒有賣出去一臺。在數貿會數字貿易與人工智慧對話論壇上，王興興發表題為《從機械到靈智——具身未來進化論》的主旨演講，並在演講中闡釋了研發GD01載人機甲的戰略考量。王興興表示，隨著AI與機器人底層技術成熟，大型機器人與小型機器人的研發落地並不衝突。大型機器人是行業不可阻擋的趨勢，就算宇樹不做，未來幾年也會有其他企業推出同類產品。“我們把GD01定義成機器人裡的越野車。”王興興在上述演講中表示，它不是在城市室內使用，而是面向戶外複雜地形、強透過性，用來在野外環境完成任務。
-
----
-
-### 2026-09-27 07:22:04  #國際
-
-【特朗普政府計劃大幅削弱清潔汽車法規】特朗普政府將於週一採取行動，大幅削弱針對新車和輕型卡車的燃油效率規定。此舉將嚴重破壞政府為減少汽油消耗、推動國家向電動汽車轉型而做出的最重要努力之一。特朗普總統週六在社交媒體上表示，他“剛剛批准了新的燃油經濟性標準”，並錯誤地聲稱小約瑟夫·R·拜登總統實施了“電動汽車強制令”。交通部長肖恩·達菲也在社交媒體上發帖稱，該舉措將於週一正式宣佈。預計美國交通部發布的最終規定將大幅削弱聯邦汽車裡程標準。此前，這些標準一直促使汽車製造商提高燃油汽車的燃油效率，並銷售更多零排放的電動汽車車型。特朗普在社交媒體上聲稱，放寬里程標準將使新車價格降低數千美元。但國會此前已經取消了對未達標汽車製造商的罰款，這使得週一的撤回舉措在很大程度上僅具有象徵意義。
-
----
-
-### 2026-09-27 07:16:26  #其他
-
-【大熊貓“平平”“福雙”已啟程赴美】9月27日2時55分，大熊貓“平平”“福雙”從成都雙流機場搭乘包機前往亞特蘭大動物園，開啟為期十年的旅居生活。（新華社）
-
----
-
-### 2026-09-27 07:08:10  #國際
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、中美達成八點成果共識
-2、國際輿論積極評價中美元首華盛頓會晤——釋放相向而行、和平共處、互利共贏的積極訊號
-3.開闢大國相處正確之道 書寫中美關係歷史新篇——習近平主席對美國進行國事訪問引領中美建設性戰略穩定關係取得新發展
-4、韓正會見聯合國秘書長古特雷斯 出席全球發展倡議5週年高階別對話會 宣讀習近平主席賀信並致辭
-5、外交部發言人就人工智慧問題答記者問
-6、智慧經濟何以塑造中國發展新優勢
-7、截至8月底。全國累計發電裝機容量同比增11.1%
-8、我國城市軌道交通運營總里程近1.17萬公里
-
----
-
-### 2026-09-27 07:03:30  #其他
-
-市場訊息：NEC將在政府支援下建設衛星星座。
-
----
-
-### 2026-09-27 07:03:16  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、結束對美國的國事訪問 習近平回到北京
-2、習近平向全球發展倡議5週年高階別對話會致賀信
-3、開闢大國相處正確之道 書寫中美關係歷史新篇——習近平主席對美國進行國事訪問引領中美建設性戰略穩定關係取得新發展
-4、持續擦亮“平安”的國家名片
-5、韓正會見聯合國秘書長古特雷斯 出席全球發展倡議5週年高階別對話會 宣讀習近平主席賀信並致辭
-6、四川大學迎來建校130週年 強國建設 川大有為
-7、金沙江畔的紅色迴響（賡續長征精神 奮進復興征程）
-8、“祝福祖國”巨型花籃亮相天安門廣場
-
----
-
-### 2026-09-27 06:57:49  #國際
-
-美國財長貝森特：感謝英國、土耳其、阿曼和阿聯酋政府，我們將繼續通力合作。
-
----
-
-### 2026-09-27 06:57:14  #公司 #國際
-
-美國財長貝森特：土耳其和阿曼宣佈停止馬漢航空（Mahan Air）飛往本國的航班。阿聯酋已全面暫停所有伊朗航空公司的航班，阿聯酋和土耳其的頂級商業銀行也已停止與伊朗的交易。
-
----
-
-### 2026-09-27 06:56:52  #國際
-
-美國財長貝森特：伊朗里亞爾的價值已跌至歷史最低點。
-
----
-
-### 2026-09-27 06:56:00  #國際
-
-美國財長貝森特：經濟棄兒行動（經濟封鎖）在伊朗取得成效。
-
----
-
-### 2026-09-27 06:43:58  #公司 #焦點
-
-【OpenAI和Anthropic正在調查數萬起AI相關安全事件】OpenAI、Anthropic以及安全研究人員正在調查數萬起安全事件。在這些事件中，他們的前沿模型採取了外部評估人員認為存在問題的行動。近幾個月來，在內部測試和現實世界中發生了數量龐大的此類事件，這表明該問題的複雜程度比公眾已知的要高出幾個數量級。這些事件包括繞過安全護欄、建立留言板、逃離沙盒測試環境、劫持網站、自我提示或試圖繞過監控。這些事件發生在內部測試和現實世界中，隨著安全研究人員繼續調查，許多事件尚未公開。部分測試類似於“紅隊測試”（red-teaming）活動，即公司故意誘導模型出現不良行為，以確保它們的安全性。OpenAI的一位發言人表示，該公司宣佈暫停其最強模型的訓練，並“只有在確信我們已採取額外的安全保障和對齊改進措施後”，才會恢復訓練。
-
----
-
-### 2026-09-27 06:41:53  #其他 #焦點
-
-OpenAI和Anthropic正在調查數萬起AI相關安全事件。
-
----
-
-### 2026-09-27 06:41:43  #其他 #焦點
-
-OpenAI暫停其最強模型的訓練。
-
----
-
-### 2026-09-27 06:40:13  #其他 #焦點
-
-【“現代化的不同路徑：中國的經驗”宣介會在秘魯利馬舉辦】“現代化的不同路徑：中國的經驗”宣介會26日在秘魯國立聖馬爾科斯大學文化中心舉辦，來自中秘兩國智庫、高校、出版、媒體等領域的100餘名代表出席活動。 秘魯國立聖馬爾科斯大學校長赫裡·拉蒙在致辭中說，對中國治理經驗的研究，有助於拓展秘魯在國家治理、公共政策、可持續發展以及建設更加公正、公平和繁榮的社會等方面的思考。“透過對話，我們能夠從中汲取啟迪自身道路的經驗，為國家發展尋找更好的路徑。”（新華社）
-
----
-
-### 2026-09-27 06:39:16  #國際
-
-【霍爾木茲海峽博弈持續 伊朗提方案 美方稱已拒】在伊朗方面宣佈已向美國轉達一個“七日內重新開放霍爾木茲海峽”的計劃後，當地時間9月26日，美國總統特朗普稱，他拒絕了伊朗的提議，還表示“美方完全控制了霍爾木茲海峽”。據伊朗方面同日披露的訊息，伊朗總統佩澤希齊揚表示，鑑於每一輪談判後美國都會發動襲擊並實施制裁，伊朗不再信任與美國的對話。他強調，霍爾木茲海峽問題只有透過談判才能解決，而非動用武力。（央視新聞）
-
----
-
-### 2026-09-27 06:38:47  #國際
-
-市場資訊：自數小時前起，已有超過10枚伊朗巡航導彈和自殺式無人機從該國南部地區向霍爾木茲海峽南部違反禁令的船隻發射。
-
----
-
-### 2026-09-27 06:34:49  #其他
-
-阿曼外交大臣：阿曼將繼續致力於保障霍爾木茲海峽的航行安全，敦促相關各方透過剋制、對話和政治途徑來解決分歧。
-
----
-
-### 2026-09-27 06:31:48  #國際
-
-伊朗革命衛隊網路部隊：霍爾木茲海峽再次傳出爆炸聲。
-
----
-
-### 2026-09-27 06:17:10  #國際
-
-葉門政府軍指控胡塞武裝使用伊朗提供的防空武器，對紅海上空的民用和軍用飛機構成威脅。
-
----
-
-### 2026-09-27 06:16:56  #MKT News #WTI #Impact bullish #Brent
-
-【U.S. to lower vehicle fuel-economy standards; fuel use and emissions likely to rise】U.S. officials said on Saturday the U.S. Transportation Department (DOT) will on Monday finalize a rule sharply lowering vehicle fuel-economy standards applicable through 2031. The move reverses the Biden-era push to steer automakers toward more electric vehicles. President Trump said he has approved the new car and truck fuel-economy standards and that they will reduce new-vehicle prices. Transportation Secretary Duffy said, "American auto workers will welcome a major victory on Monday." DOT's own estimates show the rule would cut new-car costs but raise fuel consumption and CO2 emissions over the coming decades.
-
----
-
-### 2026-09-27 06:06:17  #其他
-
-【沙特稱霍爾木茲海峽須恢復至“戰前狀態”】沙烏地阿拉伯外交大臣費薩爾26日在第81屆聯合國大會一般性辯論發言中表示，霍爾木茲海峽必須恢復到2月28日之前的狀態，不得收取任何費用或設定限制。（新華社）
-
----
-
-### 2026-09-27 06:06:04  #其他
-
-【巴西東北部發生客車翻車事故致7死13傷】當地時間25日晚，巴西東北部巴伊亞州發生一起客車翻車事故，造成至少7人死亡、13人受傷。（新華社）
-
----
-
-### 2026-09-27 06:04:53  #國際
-
-【伊朗一客運巴士側翻致11死24傷】據伊朗邁赫爾通訊社26日報道，伊朗薩韋市緊急醫療服務中心負責人哈米德·阿布雷-達裡說，一輛客運巴士當天在高速公路發生側翻，造成11人死亡、24人受傷。（新華社）
-
----
-
-### 2026-09-27 06:03:11  #公司
-
-【前OpenAI研究負責人：AI真實能力短板藏在看似簡單的任務中】在2026年人工智慧峰會上，Core Automation公司執行長傑瑞·特沃雷克指出，衡量人工智慧進步的最佳標準並非其最驚豔的演示效果，而是那些模型目前依然無法完成的“看似簡單”的任務。這位前OpenAI研究負責人強調，技術的快速飛躍很容易讓人忽視模型在部分領域其實毫無進展，而這些短板恰恰是決定人工智慧能否可靠勝任現實世界工作的關鍵。
-
----
-
-### 2026-09-27 05:56:50  #國際
-
-伊朗總統：對沙烏地阿拉伯、土耳其和巴基斯坦之間達成的協議表示歡迎。
-
----
-
-### 2026-09-27 05:51:49  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran foreign minister says Strait of Hormuz reopening hinges on Iran's conditions】On the 27th (local time) Iran foreign minister Araghchi said Tehran will not yield on its conditions and reopening the Strait of Hormuz depends on those conditions being met; any progress is conditional and Iran will not compromise. Araghchi said Iran has noted an initial US response to the reopening proposal but has not received detailed positions from the mediator and is awaiting the mediator's final stance before deciding. US President Trump said on the 26th he rejected Iran's proposal to reopen the Strait of Hormuz.
-
----
-
-### 2026-09-27 05:51:43  #國際
-
-【伊朗外長： 霍爾木茲海峽開放取決於伊方條件是否滿足】當地時間27日，伊朗外長阿拉格齊表示，伊朗不會在既定條件上向美國讓步，霍爾木茲海峽的開放取決於伊朗提出的條件是否得到滿足，任何關於開放霍爾木茲海峽的進展都取決於這些條件能否落實，伊朗絕不會在這些問題上妥協。阿拉格齊表示，伊方已獲悉美方對於重開霍爾木茲海峽提議的初步反應，但尚未收到調解方傳達的任何具體資訊。伊朗正等待調解方轉達最終立場，並將據此做出決定。美國總統特朗普當地時間26日稱，他拒絕了伊朗提出的重開霍爾木茲海峽的提議。（央視新聞）
-
----
-
-### 2026-09-27 05:48:22  #國際
-
-伊朗總統：根據聯合國決議，任何允許他國利用其領空對其他國家發動襲擊的國家，均構成犯罪。地區國家採取的這一舉措，構成了對戰爭的共謀。
-
----
-
-### 2026-09-27 05:40:37  #國際
-
-特朗普政府正試圖收回國會為移民、少數族裔及兒童服務專案批准的近10億美元資金。此舉引發了強烈反對，其合法性也備受爭議。
-
----
-
-### 2026-09-27 05:33:40  #MKT News #Brent #Impact bullish #WTI
-
-Iran's Persian Gulf Straits Authority warned shipowners to beware of certain charterers' illegal conduct. If verified, those charterers will be placed on a non‑compliant list and all vessels under their name will face restrictions transiting the Strait of Hormuz.
-
----
-
-### 2026-09-27 05:32:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Persian Gulf Strait Authority said a report shows some charterers are forcing vessels to use "illegal routes", exposing ships, owners, masters and crew to financial loss and life-safety risk, and said the practice will severely limit affected vessels' future ability to transit the Strait of Hormuz.
-
----
-
-### 2026-09-27 05:27:37  #國際
-
-美國南方司令部：多諾萬司令在邁阿密會見巴拉圭總統。
-
----
-
-### 2026-09-27 05:16:57  #MKT News
-
-Iranian foreign minister Araghchi said only a negotiated solution can break the deadlock, saying that is Iran's position.
-
----
-
-### 2026-09-27 05:16:17  #國際
-
-伊朗外交部長阿拉格齊：與華盛頓的問題唯有透過公正的談判解決，並確保我國人民的權利、滿足其合理訴求。
-
----
-
-### 2026-09-27 05:14:36  #MKT News #Important #WTI #Impact mixed #Brent #XAUUSD #Impact bullish
-
-Iranian Foreign Minister Araghchi said Iran's conditions are clear and any reopening of the Strait of Hormuz depends on those conditions being met.
-
----
-
-### 2026-09-27 05:14:34  #國際
-
-伊朗外長阿拉格齊：我方條件明確，霍爾木茲海峽重新開放的任何行動都需以這些條件得到滿足為前提。
-
----
-
-### 2026-09-27 05:14:18  #MKT News #Important
-
-Iranian foreign minister Araghchi said Tehran has seen an initial response from the US president to Iran's proposal, but mediators have not conveyed any message to Iran. Tehran is awaiting mediators' definitive position and will decide accordingly.
-
----
-
-### 2026-09-27 05:13:55  #國際
-
-伊朗外交部長阿拉格齊：我們正在等待調停方向我方轉達各方最終意見，我方將據此作出決定。
-
----
-
-### 2026-09-27 05:13:44  #國際
-
-伊朗外交部長阿拉格齊：我們已經看到美國總統對伊朗提議作出初步回應，但調解方尚未向我方轉達任何正式內容。
-
----
-
-### 2026-09-27 05:06:18  #國際
-
-伊朗革命衛隊海軍高階指揮官向特朗普發出挑戰，要求美方派遣軍艦靠近霍爾木茲海峽，以證明美國對該水道的控制權。他表示：“如果再次爆發戰爭，我們毫無疑問會打擊他們的船隻和驅逐艦，哪怕是在印度洋。”
-
----
-
-### 2026-09-27 04:58:06  #MKT News #Market Regions #Emerging Markets
-
-Carney said Vietnam is Canada’s largest ASEAN trading partner and that this week Canada further deepened the partnership to expand market access for Canadian firms in one of the world’s fastest‑growing consumer markets.
 
 ---

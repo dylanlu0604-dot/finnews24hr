@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-10-04 04:55:51_
-_本檔包含 2112 則快訊，約 434488 字_
+_更新時間：2026-10-04 07:46:32_
+_本檔包含 2095 則快訊，約 434747 字_
+
+---
+
+### 2026-09-29 20:20:05  #Trading Economics #Economy #Brazil #Loan Growth #Importance 1
+
+Brazil Loan Growth Picks Up — The value of outstanding loans from the Brazilian financial sector rose by 0.5% from the previous month to R$7.4 trillion in August 2026, accelerating from a 0.3% increase in July. Loans extended to corporations edged down 0.1% to R$2.7 trillion, while household lending rose 0.8% to R$4.7 trillion. On an annual basis, total credit expanded 9.2%, slightly below the 9.3% growth recorded in July. Household lending continued to outpace corporate credit, rising 10.5% year-on-year from 10.6%, while lending to legal entities slowed to 7.1% from 7.3%. Meanwhile, credit with free resources totaled R$4.1 trillion, up 0.2% from the previous month and 6.5% from a year earlier, as a 0.8% monthly increase in household credit offset a 0.6% decline in corporate lending, which nevertheless remained 0.5% higher than a year earlier.
+
+---
+
+### 2026-09-29 20:12:14  #Trading Economics #Markets #commodity #Importance 0
+
+Aluminum Hits 4-week Low — Aluminum decreased to 3223.00 USD/T, the lowest since August 2026. Over the past 4 weeks, Aluminum lost 1.66%, and in the last 12 months, it increased 20.21%.
+
+---
+
+### 2026-09-29 20:02:52  #Trading Economics #Markets #United Kingdom #Currency #Importance 0
+
+Sterling Weakens to Near Three-Month Low — Sterling edged lower towards $1.32, near a three-month low, as investors favored the US dollar amid rising expectations of a Fed rate hike as soon as October, while the Bank of England is not expected to move until November. Elevated oil prices, amid stalled talks to reopen the Strait of Hormuz, have reinforced expectations of further Fed tightening and boosted safe-haven demand for the dollar. In the UK, markets price an over 80% probability of a 25bp hike in November, with around four increases priced in by mid-2027. However, subdued UK GDP growth through 2026 and early 2027 could constrain the BoE’s scope for aggressive tightening. Deputy Governor Dave Ramsden said he would support higher rates if inflationary pressures persist, echoing recent warnings from Governor Andrew Bailey. The MPC voted 6-3 to hold rates at 3.75% earlier this month, while warning inflation could peak around 4%.
+
+---
+
+### 2026-09-29 19:41:00  #Trading Economics #Markets #United Kingdom #Government Bond 10Y #Importance 0
+
+UK Gilt Yields Remain Near 19-Year Highs — UK 10-year gilt yields remained close to 19-year highs, hovering below 5.4%, as persistent inflation concerns and a more hawkish Bank of England stance continued to weigh on bonds. The government also paid its highest 10-year borrowing cost since 1999, selling £4.25 billion of 4.875% bonds maturing in July 2036 at an average yield of 5.383%, as investors demanded higher premiums amid inflation risks and expectations of increased government spending in next month’s budget. On the monetary policy front, BoE Deputy Governor Dave Ramsden said on Monday he would support rate hikes if inflationary pressures persist, echoing recent warnings from Governor Andrew Bailey. The MPC recently voted to hold rates at 3.75%, while warning inflation could peak around 4%. Markets are now pricing in a near 80% probability of a 25bp rate hike in November, with roughly four increases priced in by the middle of next year.
+
+---
+
+### 2026-09-29 19:38:32  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Prices Edge Down — Heating oil futures fell to around $4.60 per gallon but remained close to the record high of $5.2 reached in mid-September, tracking volatile oil prices as traders continued to assess developments in the Middle East and the lack of progress in negotiations between the US and Iran aimed at ending the war. The conflict between Russia and Ukraine is also disrupting fuel trade routes, adding to pressure on the energy market. Meanwhile, US President Trump said he was still considering “very seriously” a ban on US diesel exports to curb high domestic fuel prices, despite other administration officials pursuing alternative measures. Energy Secretary Chris Wright said officials were working with refiners on voluntary export curbs, while the White House was also considering broader sales of tax-exempt, red-dyed diesel. On the data front, US distillate inventories were around 12% below the five-year average, leaving heating oil supplies relatively tight as the winter heating season approaches.
+
+---
+
+### 2026-09-29 19:28:34  #Trading Economics #Economy #Spain #Business Confidence #Importance 1
+
+Spain Business Confidence Hits Near 3-1/2-Year High — The seasonally adjusted industrial confidence indicator in Spain came in at -1.6 in September 2026, up from -3.8 in the prior month. Although the indicator remained slightly below the neutral level, it reached its highest level since April 2023. It also remained above its long-term average. The 2.2-point monthly rise reflected a 1.9-point increase in production expectations, a 0.5-point rise in the order-book balance and a 4.2-point decline in stock levels. Production expectations, the only forward-looking component of the three underlying measures, recovered the decline recorded in August and moved back above their long-term average, while the order-book balance continued its broad upward trend, reaching its highest level since March 2023 and standing four points above its average since 2024. Stock levels fell significantly after rising for the previous three months.
+
+---
+
+### 2026-09-29 19:27:17  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Edge Higher — US stock futures were slightly higher on Tuesday, with S&P futures up 0.1%, Dow futures gaining 80 points and Nasdaq 100 futures rising 0.4%, following losses in the previous session. AI remained the main focus, with traders assessing the outcome of a lunch meeting between US President Trump and industry leaders on AI safety risks. OpenAI’s DevDay, taking place today, will also be closely watched. Meanwhile, reports on Tuesday said Anthropic warned in its IPO prospectus that its AI models could pose a “catastrophic or existential risk to humanity”. The lack of progress in the Middle East, volatile oil prices and Treasury yields holding at multi-year highs also remained on investors’ radar. Megacap stocks were mixed in premarket trading. Nvidia (0.7%), Amazon (0.3%), Broadcom (0.9%), Meta (0.9%), Tesla (0.4%) and Micron (1.6%) traded higher, while Apple (-0.5%) and Microsoft (-0.1%) were lower. Alphabet was little changed.
 
 ---
 
@@ -12616,149 +12658,5 @@ FBI局長卡什·帕特爾的聯合副局長貝利辭職。
 ### 2026-09-28 22:18:31  #Trading Economics #Markets #Commodity #Importance 2
 
 Oil Rises as US-Iran Talks Lose Momentum — Crude oil rose more than 3% to above $95 a barrel on Monday, recovering from a 2.3% decline in the previous session, as fading hopes for an imminent diplomatic breakthrough between the US and Iran renewed concerns over Middle East supply disruptions. Tehran and Washington remain divided over a potential ceasefire and the reopening of the Strait of Hormuz, with Iran continuing to support a proposal rejected by US President Donald Trump. Nevertheless, Iranian Foreign Minister Abbas Araghchi was expected to meet mediators in New York, while separate discussions between US and Iranian representatives were reportedly planned for Monday or Tuesday. Meanwhile, Saudi Arabia has resumed crude exports through its East-West pipeline after repairs following drone strikes earlier this month. Around 3.5 million barrels a day was flowing through the route, providing an important alternative for Saudi shipments during the conflict.
-
----
-
-### 2026-09-28 22:18:17  #市場 #央行 #國際
-
-【歐洲央行拉加德稱收益率上升將拖慢增長並削弱通脹傳導】歐洲央行行長克里斯蒂娜·拉加德表示，債券收益率上升將抑制經濟增長，並限制能源成本上漲向通脹的傳導。“儘管經濟增長保持韌性，但自我們上次會議以來，長期利率已顯著上升，這將拖慢增長，並使價格傳導程度低於我們9月預測時的估計，”拉加德週一表示。她在布魯塞爾對歐洲議員表示，迄今缺乏第二輪效應，這意味著歐洲央行應“酌情采取審慎的應對來控制通脹”。
-
----
-
-### 2026-09-28 22:16:55  #央行 #歐洲央行
-
-【交易員減少對歐洲央行加息的押注】交易員減少對歐洲央行加息的押注，認為10月份加息的可能性不足40%。
-
----
-
-### 2026-09-28 22:16:36  #其他 #焦點
-
-SPACEX：星艦將比原計劃提前返回地球。
-
----
-
-### 2026-09-28 22:15:48  #央行 #國際
-
-交易員減少對歐洲央行加息的押注，認為10月份加息的可能性不足40%。
-
----
-
-### 2026-09-28 22:15:12  #其他
-
-伯納姆：如果社會照護體系崩潰，將把國家醫療服務體系（NHS）一併拖垮。
-
----
-
-### 2026-09-28 22:14:41  #國際
-
-以色列國防軍稱，已擊斃哈馬斯軍事部門一名關鍵資金兌換商。
-
----
-
-### 2026-09-28 22:14:15  #其他
-
-英偉達推出Open Agent安全平臺，幫助使用者控制AI智慧體可以訪問和操作的範圍。智慧體能夠編寫程式碼、使用工具，並持續數小時甚至數天處理複雜任務，這需要訪問資料和系統，同時對其使用方式設定明確限制。英偉達OpenShell對智慧體的工作執行許可權管理，BlueField-4和DOCA在基礎設施層面增加獨立於智慧體控制範圍的監控和安全控制，Vera CPU為工作負載提供算力支援。
-
----
-
-### 2026-09-28 22:12:02  #其他
-
-伯納姆：國防投資計劃將在預算中獲得全額資金支援。
-
----
-
-### 2026-09-28 22:12:01  #市場
-
-【費城半導體指數日內跌2%】費城半導體指數日內跌2.00%，現報12415.34點。英偉達漲2.53%，博通跌0.61%，美光跌3.03%，英特爾跌4.59%，AMD跌3.56%，高通跌7.02%，臺積電跌1.15%，阿斯麥漲0.50%。
-
----
-
-### 2026-09-28 22:11:14  #其他
-
-英國首相伯納姆：英國在國防方面毫無準備的說法站不住腳。
-
----
-
-### 2026-09-28 22:10:27  #市場
-
-納斯達克100指數下跌超過1%；標普500指數下跌0.5%。
-
----
-
-### 2026-09-28 22:09:37  #其他
-
-埃克森美孚：蓋亞那Uaru專案預計2026年底前投產；Whiptail專案目標2027年投產，Hammerhead專案目標2029年投產。
-
----
-
-### 2026-09-28 22:09:07  #央行 #國際
-
-美聯儲監察長指出，一名員工可能攜帶機密資訊離職。
-
----
-
-### 2026-09-28 22:08:59  #公司 #市場
-
-【9月28日增減持彙總】9月28日盤後，據不完全統計，包括潤欣科技、信濠光電在內的2家A股上市公司披露擬減持情況，岳陽興長披露擬增持情況。
-
----
-
-### 2026-09-28 22:08:53  #其他
-
-英國首相伯納姆就空軍基地逮捕事件表態：今日將主持內閣緊急應變小組會議。
-
----
-
-### 2026-09-28 22:08:39  #宏觀 #央行 #國際
-
-歐洲央行拉加德：迄今為止，我們看到各國政府出臺的能源支援措施規模約佔GDP的0.1個百分點區間。
-
----
-
-### 2026-09-28 22:08:33  #其他
-
-拉加德：多數政府燃料補貼既非臨時性措施，也非定向援助。
-
----
-
-### 2026-09-28 22:05:18  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Falls as Higher Oil Stokes Inflation Concerns — The S&P/TSX Composite Index fell nearly 1% to below 36,000 on Monday as rising oil prices revived inflation concerns. Oil prices resumed their rally after US President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, renewing concerns that energy-driven inflation shocks could keep interest rates higher for longer. Yields moved higher, pressuring credit-sensitive stocks. Financials posted losses, with CIBC and National Bank down more than 0.5%. Meanwhile, falling gold prices pressured mining shares, with Agnico Eagle tumbling more than 5%, while Barrick, WPM and Franco-Nevada shed about 4% each. Shopify (-3%) and Constellation Software (-1.5%) fell amid weakness in Wall Street tech stocks. In contrast, energy producers gained on the oil rebound, with Canadian Natural, Cenovus and Suncor up about 1%. On the data front, Canadian GDP data due Tuesday could offer cues on economic momentum and the Bank of Canada’s future policy path.
-
----
-
-### 2026-09-28 22:00:42  #Trading Economics #Markets #commodity #Importance 0
-
-Soybeans Hits 4-week Low — Soybeans decreased to 1284.00 USd/Bu, the lowest since August 2026. Over the past 4 weeks, Soybeans gained 0.77%, and in the last 12 months, it increased 27.17%.
-
----
-
-### 2026-09-28 21:49:23  #Trading Economics #Markets #Germany #Government Bond 10Y #Importance 0
-
-Bund Yields Hold at 17-Year High as Lagarde Signals Caution, Oil Rises — Germany’s 10-year Bund yield trimmed an early rise to stabilize at 3.62%, its highest level since June 2009, as investors weighed comments from ECB President Christine Lagarde against a renewed rally in oil prices. Lagarde said the inflation outlook for 2027 and 2028 is now higher than policymakers expected a few months ago, mainly due to higher energy prices, but noted there is no evidence yet of energy costs feeding into higher wages. She added that while the shock is too significant to ignore, a measured policy response remains appropriate to keep inflation under control. Meanwhile, oil prices climbed after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz and end the conflict in the Middle East. Money markets are pricing in roughly 100 basis points of ECB rate hikes by the end of 2027, while investors now await key eurozone inflation data due later this week for further clues on the ECB’s monetary policy outlook.
-
----
-
-### 2026-09-28 21:46:57  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Slips Amid Oil Rebound — The Ibovespa fell nearly 1% to below 182,500 on Monday amid a jump in oil prices and the release of a new Focus survey. Oil prices resumed their rally after US President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, renewing concerns that energy-driven inflation shocks could keep interest rates higher for longer. Yields moved higher, pressuring credit-sensitive stocks. Major banks fell, with Itaú, Bradesco and BB losing about 1%, while utilities also posted losses, with Sabesp shedding nearly 1%. Meanwhile, the BCB’s Focus survey showed that the market raised its 2026 inflation forecast, from 4.92% to 4.99%, while the year-end 2026 Selic forecast remained at 13.50%. A new election poll showed President Lula widening his lead over Flávio Bolsonaro, who is viewed by markets as more fiscally restrictive amid elevated domestic yields and weak business activity. Elsewhere, Vale fell 1% on lower iron ore prices. In contrast, Petrobras rose more than 1%.
-
----
-
-### 2026-09-28 21:46:33  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Parker-Hannifin Stock Price Hits 4-week High — Parker-Hannifin shares increased to 982.17 USD, the highest since August 2026. Over the past 4 weeks, Parker -Hannifin lost 5.69%, and in the last 12 months, it increased 30.59%.
-
----
-
-### 2026-09-28 21:44:00  #Trading Economics #Markets #United States #Government Bond 10Y #Importance 2
-
-US 10 Year Treasury Note Yield Rises Above 5.2% — The yield on the US 10-year Treasury note continued to climb at the start of the week, rising above 5.2% to reach new high levels since mid-2007. Oil prices resumed their upward trend amid a lack of progress in negotiations between the US and Iran to end the war and reopen the Strait of Hormuz. The renewed inflationary concerns have strengthened expectations of further Fed tightening, with traders now pricing in nearly a 65% probability of a 25bps rate hike next month and a 53% chance of a similar move in December. Meanwhile, investors are bracing for a busy week of key economic releases, including the PCE inflation report and the jobs report, which should provide further insight into the health of the US economy and help shape expectations for the Fed’s next policy moves. Strong economic data, deteriorating fiscal conditions and rising government debt in the US have also weighed on the Treasury market in recent weeks.
-
----
-
-### 2026-09-28 21:42:49  #央行 #歐洲央行
-
-【歐洲央行行長拉加德：尚無跡象顯示更高通脹正在變得根深蒂固】歐洲央行行長拉加德表示，尚無跡象顯示更高通脹正在變得根深蒂固；長期收益率上升勢必會減緩經濟增長；歐洲央行採取適度應對措施是恰當的。
 
 ---

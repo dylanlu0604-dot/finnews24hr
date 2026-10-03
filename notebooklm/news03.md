@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-10-04 04:55:51_
-_本檔包含 2211 則快訊，約 435360 字_
+_更新時間：2026-10-04 07:46:32_
+_本檔包含 2231 則快訊，約 434415 字_
+
+---
+
+### 2026-09-30 17:56:46  #宏觀
+
+【北京：推動資料產權結構性分置制度落地,打造具有公信力的資料產權登記機構】9月30日北京市釋出“十五五”時期數智北京發展規劃，其中提到，推動資料產權結構性分置制度落地,打造具有公信力的資料產權登記機構,實現重點行業資料產權登記全覆蓋,拓展登記憑證多場景應用。完善資料流通交易制度,建立場內場外結合的交易規則體系。按照“誰投入、誰貢獻、誰受益”原則,探索資料要素收益分配機制。健全資料安全治理制度,形成資料流通交易責任界定機制。探索麵向人工智慧的資料合理使用制度和利益補償機制。推動資料綜合性立法。發揮北京市資料標準化技術委員會作用,完善資料標準體系,率先在資料基礎設施、資料技術等方面出臺系列標準。
+
+---
+
+### 2026-09-30 17:56:36  #其他
+
+【北京：推動建立人工智慧內容安全監管制度，強化模型演算法、資料資源、基礎設施、應用系統等安全能力建設，加強智慧體應用安全管理】北京市人民政府印發《“十五五”時期數智北京發展規劃》，其中提到，完善人工智慧安全治理。推動建立人工智慧內容安全監管制度,強化模型演算法、資料資源、基礎設施、應用系統等安全能力建 設,加強智慧體應用安全管理。打造人工智慧安全測試靶場,開發 安全攻防與測試工具箱。持續推進政務大模型應用備案審查、安 全評估、保密管理和檢查。
+
+---
+
+### 2026-09-30 17:56:22  #MKT News #Market Themes #Chip Wars
+
+【China's first 3D advanced packaging mass-production line goes live in Optics Valley】China Guanggu said on Sept. 30 Hubei Xingchen Technology Co.'s Phase II advanced packaging pilot platform in Optics Valley entered production, launching the country's first 3D advanced packaging mass-production line and marking a concrete step toward domestic autonomy in high-end chip advanced packaging.
+
+---
+
+### 2026-09-30 17:56:08  #公司
+
+【*ST八鋼：回覆定增申請稽核問詢函 事項尚存不確定性】*ST八鋼公告稱，公司收到上交所出具的向特定物件發行股票申請檔案稽核問詢函後，會同相關中介機構對問詢函所列問題逐項落實說明，相關回覆檔案已同日披露。本次向特定物件發行A股股票事項尚需上交所稽核透過，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊尚存在不確定性。
+
+---
+
+### 2026-09-30 17:55:16  #其他
+
+【北京：到2030年,數智北京建設邁向更高水平】9月30日北京市釋出“十五五”時期數智北京發展規劃，其中提到，到2030年,數智北京建設邁向更高水平。資料要素高效配置,數智技術創新引領,數智基礎設施支撐有力,數智創新生態開放活躍,數智安全底線持續築牢,政務、經濟、社會、文化、生態文明數智化發展取得明顯成效,形成超大城市數智化治理新正規化,率先建成國家資料要素市場化配置改革綜合示範區,打造國際一流的全域智慧之城。 到2035年,數智北京建設效能全面釋放,數智賦能市民生活更加幸福美好,數智引領城市國際競爭 力、全球影響力持續增強,有力支撐北京率先基本實現社會主義 現代化。
+
+---
+
+### 2026-09-30 17:55:13  #公司
+
+【DFI零售集團將以約3.4億美元從美心集團手中收購星巴克亞洲特許經營業務 】據宣告稱，DFI零售集團（DFI Retail Group）同意以約3.4億美元的現金，承接美心集團在亞洲七個市場運營星巴克的業務權益。該業務網路目前運營著1100多家咖啡店。DFI零售集團目前間接持有美心集團50%的股份（其中包含星巴克的特許經營業務）。
+
+---
+
+### 2026-09-30 17:53:19  #Trading Economics #Economy #South Africa #Producer Prices Change #Importance 1
+
+South Africa Producer inflation Softens for 3rd Month — Producer price inflation in South Africa fell for the third month to 5% in August 2026, the softest since April, easing from 5.7% in July. The slowdown mainly reflected softer increases in the costs of coke, petroleum, chemical, rubber and plastic products (13.6% vs 15.7% in July), including petrol prices (20.9% vs 29.4%) and chemicals (5.4% vs 6%). Moreover, prices fell for food products (-0.6% vs 0.3%). On a monthly basis, the PPI fell by 0.4%, after a 1% decrease in the month before.
+
+---
+
+### 2026-09-30 17:53:14  #公司
+
+【江淮汽車：完成回購436.5萬股，支付9987.16萬元】江淮汽車公告，公司此前擬使用自有資金以集中競價交易方式回購股份，回購金額5000萬元~1億元，價格不超過64元/股，用於維護公司價值及股東權益，回購股份後續全部登出。截至2026年9月30日，回購期限屆滿，實際回購436.5萬股，佔總股本0.1936%，成交價格18.98元/股~26.19元/股，支付總金額9987.16萬元（不含交易費用）。
+
+---
+
+### 2026-09-30 17:52:57  #其他
+
+艾伯維宣佈，其在研藥物ABBV-295在1期臨床試驗中顯示出最高9.8% 的體重減輕效果，表現出“有意義的體重下降”。
+
+---
+
+### 2026-09-30 17:52:57  #MKT News #Market Themes #AI Revolution #S&P500 #Impact bearish #Nasdaq100 #US10Y #Impact mixed
+
+【Bank of England warns AI valuations could see "sharper correction"】The Bank of England warned in its quarterly Financial Stability Report that AI valuations remain at risk of a sharper correction than in July, and that such a collapse could have broad effects on global growth and sovereign bond yields. Policymakers said interconnected vulnerabilities in the financial system are rising and the likelihood of simultaneous shocks has increased. The Bank flagged the multi-trillion-dollar AI market as a major risk and cited a renewed escalation in the Middle East, which could trigger a longer-lasting negative supply shock and raise sovereign debt risk. The Bank reiterated prior warnings that asset froth may be forming across AI-related equities, credit markets and sovereign debt.
+
+---
+
+### 2026-09-30 17:52:40  #MKT News
+
+Kremlin says it has had contacts with the United States regarding a potential prisoner swap.
+
+---
+
+### 2026-09-30 17:52:17  #MKT News
+
+The Kremlin, responding to reports that sanctions might be eased in exchange for the release of political prisoners, said Russia has no political prisoners and called such claims meaningless.
+
+---
+
+### 2026-09-30 17:52:04  #公司 #市場
+
+【均瑤健康：公司生產經營正常】均瑤健康公告，公司股票於2026年9月28日、9月29日、9月30日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，構成股票交易異常波動。經核查，公司生產經營正常，市場環境、行業政策未發生重大調整，不存在應披露而未披露的重大事項或需澄清的媒體報道、市場傳聞。公司2026年半年度歸屬於上市公司股東的淨利潤449.91萬元，較去年同期減少39.74%。
+
+---
+
+### 2026-09-30 17:52:00  #MKT News
+
+The Kremlin denied reports it was considering talks to lift sanctions in exchange for prisoner releases.
+
+---
+
+### 2026-09-30 17:51:40  #公司
+
+【華翔股份在廣東成立液冷科技公司】企查查APP顯示，近日，華翔液冷科技（廣東）有限公司成立，註冊資本3000萬元，經營範圍包含：雲端計算裝置製造；雲端計算裝備技術服務；製冷、空調裝置製造等。企查查股權穿透顯示，該公司由華翔股份全資持股。
+
+---
+
+### 2026-09-30 17:51:38  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #XAUUSD #WTI
+
+The Kremlin said its diplomats had tried to remind hot-headed Europeans to heed Moscow's core documents on the issue, after Russia's nuclear warning to NATO over Kaliningrad.
+
+---
+
+### 2026-09-30 17:51:12  #公司
+
+【僑源股份：3665萬元設立全資子公司並完成工商登記】僑源股份公告稱，公司使用自有資金3665萬元投資設立全資子公司僑源氣體（新疆）有限公司，該子公司已於近日完成工商註冊登記手續，取得新疆生產建設兵團第七師市場監督管理局頒發的營業執照，法定代表人為李宏，成立日期為2026年9月29日。本次設立子公司事項已履行內部審批程式，無需提交董事會和股東會審議，不涉及關聯交易，不構成重大資產重組。
+
+---
+
+### 2026-09-30 17:50:56  #宏觀 #市場
+
+財政部公佈2026年第四季度國債發行有關安排。（財政部）
+
+---
+
+### 2026-09-30 17:50:41  #Trading Economics #Markets #France #stocks #Importance 1
+
+AXA Stock Price Hits 4-week Low — AXA shares decreased to 42.70 EUR, the lowest since August 2026. Over the past 4 weeks, AXA lost 0.74%, and in the last 12 months, it increased 5.27%.
+
+---
+
+### 2026-09-30 17:50:37  #MKT News
+
+Kremlin says President Putin will address the newly elected parliament later on Wednesday evening.
+
+---
+
+### 2026-09-30 17:50:28  #國際
+
+克里姆林宮：普京將於週三晚些時候在新當選的議會上發表講話。
+
+---
+
+### 2026-09-30 17:50:26  #國際
+
+克里姆林宮就俄羅斯針對加里寧格勒問題向北約發出核警告一事表態：我國外交人員正努力提醒歐洲的激進分子，留意我國在這一問題上的基礎性綱領檔案。
+
+---
+
+### 2026-09-30 17:50:22  #國際
+
+克里姆林宮就“釋放政治囚犯以換取放寬制裁”的相關報道表態：俄羅斯不存在政治囚犯，此類說法毫無意義。
+
+---
+
+### 2026-09-30 17:50:19  #其他
+
+克里姆林宮駁斥了有關可能討論以交換囚犯換取解除對俄製裁的相關報道。
+
+---
+
+### 2026-09-30 17:50:17  #國際
+
+克里姆林宮談可能的囚犯交換：我們與美國存有相關接觸。
+
+---
+
+### 2026-09-30 17:50:16  #MKT News
+
+Japan's Prime Minister Takaichi said she will assess tax-revenue trends and review government revenues and expenditures.
+
+---
+
+### 2026-09-30 17:50:12  #MKT News
+
+China's Ministry of Finance announced arrangements for Q4 2026 government bond issuance.
 
 ---
 
@@ -13312,47 +13474,5 @@ Canada GDP Set for Mild Growth in August — The Canadian GDP is expected to hav
 ### 2026-09-29 20:21:08  #Trading Economics #Economy #Brazil #Unemployment Rate #Importance 1
 
 Brazil Unemployment Rate Holds at 5.3% — Brazil’s unemployment rate stood at 5.3% in the rolling quarter ended in August 2026, unchanged from the previous quarter and matching market expectations. It was the lowest rate since December 2025. The unemployed population fell 4.9% year over year to 5.8 million. The number of private-sector employees with a formal contract, excluding domestic workers, was 39.5 million, the highest level in the historical series, and was broadly stable both quarter over quarter and year over year. The composite underutilization rate was 13.1%, also broadly stable. The population working fewer hours than desired fell 6.2% year over year to 4.3 million, while the discouraged population declined 11.9% to 2.4 million. The informality rate was 37.5%, equivalent to 38.8 million workers. Average real monthly earnings were broadly stable at R$3,777.
-
----
-
-### 2026-09-29 20:20:05  #Trading Economics #Economy #Brazil #Loan Growth #Importance 1
-
-Brazil Loan Growth Picks Up — The value of outstanding loans from the Brazilian financial sector rose by 0.5% from the previous month to R$7.4 trillion in August 2026, accelerating from a 0.3% increase in July. Loans extended to corporations edged down 0.1% to R$2.7 trillion, while household lending rose 0.8% to R$4.7 trillion. On an annual basis, total credit expanded 9.2%, slightly below the 9.3% growth recorded in July. Household lending continued to outpace corporate credit, rising 10.5% year-on-year from 10.6%, while lending to legal entities slowed to 7.1% from 7.3%. Meanwhile, credit with free resources totaled R$4.1 trillion, up 0.2% from the previous month and 6.5% from a year earlier, as a 0.8% monthly increase in household credit offset a 0.6% decline in corporate lending, which nevertheless remained 0.5% higher than a year earlier.
-
----
-
-### 2026-09-29 20:12:14  #Trading Economics #Markets #commodity #Importance 0
-
-Aluminum Hits 4-week Low — Aluminum decreased to 3223.00 USD/T, the lowest since August 2026. Over the past 4 weeks, Aluminum lost 1.66%, and in the last 12 months, it increased 20.21%.
-
----
-
-### 2026-09-29 20:02:52  #Trading Economics #Markets #United Kingdom #Currency #Importance 0
-
-Sterling Weakens to Near Three-Month Low — Sterling edged lower towards $1.32, near a three-month low, as investors favored the US dollar amid rising expectations of a Fed rate hike as soon as October, while the Bank of England is not expected to move until November. Elevated oil prices, amid stalled talks to reopen the Strait of Hormuz, have reinforced expectations of further Fed tightening and boosted safe-haven demand for the dollar. In the UK, markets price an over 80% probability of a 25bp hike in November, with around four increases priced in by mid-2027. However, subdued UK GDP growth through 2026 and early 2027 could constrain the BoE’s scope for aggressive tightening. Deputy Governor Dave Ramsden said he would support higher rates if inflationary pressures persist, echoing recent warnings from Governor Andrew Bailey. The MPC voted 6-3 to hold rates at 3.75% earlier this month, while warning inflation could peak around 4%.
-
----
-
-### 2026-09-29 19:41:00  #Trading Economics #Markets #United Kingdom #Government Bond 10Y #Importance 0
-
-UK Gilt Yields Remain Near 19-Year Highs — UK 10-year gilt yields remained close to 19-year highs, hovering below 5.4%, as persistent inflation concerns and a more hawkish Bank of England stance continued to weigh on bonds. The government also paid its highest 10-year borrowing cost since 1999, selling £4.25 billion of 4.875% bonds maturing in July 2036 at an average yield of 5.383%, as investors demanded higher premiums amid inflation risks and expectations of increased government spending in next month’s budget. On the monetary policy front, BoE Deputy Governor Dave Ramsden said on Monday he would support rate hikes if inflationary pressures persist, echoing recent warnings from Governor Andrew Bailey. The MPC recently voted to hold rates at 3.75%, while warning inflation could peak around 4%. Markets are now pricing in a near 80% probability of a 25bp rate hike in November, with roughly four increases priced in by the middle of next year.
-
----
-
-### 2026-09-29 19:38:32  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Prices Edge Down — Heating oil futures fell to around $4.60 per gallon but remained close to the record high of $5.2 reached in mid-September, tracking volatile oil prices as traders continued to assess developments in the Middle East and the lack of progress in negotiations between the US and Iran aimed at ending the war. The conflict between Russia and Ukraine is also disrupting fuel trade routes, adding to pressure on the energy market. Meanwhile, US President Trump said he was still considering “very seriously” a ban on US diesel exports to curb high domestic fuel prices, despite other administration officials pursuing alternative measures. Energy Secretary Chris Wright said officials were working with refiners on voluntary export curbs, while the White House was also considering broader sales of tax-exempt, red-dyed diesel. On the data front, US distillate inventories were around 12% below the five-year average, leaving heating oil supplies relatively tight as the winter heating season approaches.
-
----
-
-### 2026-09-29 19:28:34  #Trading Economics #Economy #Spain #Business Confidence #Importance 1
-
-Spain Business Confidence Hits Near 3-1/2-Year High — The seasonally adjusted industrial confidence indicator in Spain came in at -1.6 in September 2026, up from -3.8 in the prior month. Although the indicator remained slightly below the neutral level, it reached its highest level since April 2023. It also remained above its long-term average. The 2.2-point monthly rise reflected a 1.9-point increase in production expectations, a 0.5-point rise in the order-book balance and a 4.2-point decline in stock levels. Production expectations, the only forward-looking component of the three underlying measures, recovered the decline recorded in August and moved back above their long-term average, while the order-book balance continued its broad upward trend, reaching its highest level since March 2023 and standing four points above its average since 2024. Stock levels fell significantly after rising for the previous three months.
-
----
-
-### 2026-09-29 19:27:17  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Edge Higher — US stock futures were slightly higher on Tuesday, with S&P futures up 0.1%, Dow futures gaining 80 points and Nasdaq 100 futures rising 0.4%, following losses in the previous session. AI remained the main focus, with traders assessing the outcome of a lunch meeting between US President Trump and industry leaders on AI safety risks. OpenAI’s DevDay, taking place today, will also be closely watched. Meanwhile, reports on Tuesday said Anthropic warned in its IPO prospectus that its AI models could pose a “catastrophic or existential risk to humanity”. The lack of progress in the Middle East, volatile oil prices and Treasury yields holding at multi-year highs also remained on investors’ radar. Megacap stocks were mixed in premarket trading. Nvidia (0.7%), Amazon (0.3%), Broadcom (0.9%), Meta (0.9%), Tesla (0.4%) and Micron (1.6%) traded higher, while Apple (-0.5%) and Microsoft (-0.1%) were lower. Alphabet was little changed.
 
 ---

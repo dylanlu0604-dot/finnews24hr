@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-10-04 04:55:51_
-_本檔包含 2290 則快訊，約 434935 字_
+_更新時間：2026-10-04 07:46:32_
+_本檔包含 2296 則快訊，約 434356 字_
+
+---
+
+### 2026-10-01 23:10:04  #Trading Economics #Markets #commodity #Importance 0
+
+Zinc Hits 6-week Low — Zinc decreased to 3731.00 USD/T, the lowest since August 2026. Over the past 4 weeks, Zinc lost 3.24%, and in the last 12 months, it increased 23.57%.
+
+---
+
+### 2026-10-01 23:09:36  #其他
+
+馬自達北美業務：9 月銷量 34519 臺，同比上升 31.9%。
+
+---
+
+### 2026-10-01 23:09:03  #公司 #市場
+
+市場訊息：埃裡森與 CNN 執行長湯普森洽談新合約，尚未達成一致。
+
+---
+
+### 2026-10-01 23:08:32  #其他
+
+加拿大總理卡尼：加拿大將把擬建的西海岸石油管道定為國家利益專案。管道專案將創造14萬個就業崗位，每年為GDP貢獻超過200億加元，並在2060年前為政府帶來1000億加元收入。 原住民群體將可獲得該專案最低 10% 的股權。
+
+---
+
+### 2026-10-01 23:07:49  #其他
+
+加拿大總理卡尼：加拿大重大專案辦公室力爭在 2027 年 9 月 1 日前完成全部必要審查與徵詢工作。
+
+---
+
+### 2026-10-01 23:06:57  #央行 #國際
+
+據美國紐約聯儲資料，上個交易日（9月30日）擔保隔夜融資利率（SOFR）報3.90%，之前一天報3.88%。上個交易日有效的聯邦基金利率報3.88%，之前一天報3.88%。
+
+---
+
+### 2026-10-01 23:05:44  #市場
+
+法國10年期國債收益率較可比互換利率高出126個基點，創歷史新高。
+
+---
+
+### 2026-10-01 23:05:09  #央行 #其他
+
+墨西哥央行調查顯示，私營機構分析師預計 2027 年末基準利率為 6.50%，與此前調查預期持平。預計 2026 年末基準利率為 6.50%，與此前調查預期持平。
+
+---
+
+### 2026-10-01 23:04:31  #央行 #其他
+
+墨西哥央行調查顯示，私營機構分析師預計 2026 年末匯率為 1 美元兌 17.50 墨西哥比索，與此前調查預期持平。預計 2027 年末匯率為 1 美元兌 18.04 墨西哥比索，此前調查預期為 18.05。
+
+---
+
+### 2026-10-01 23:04:11  #央行 #其他
+
+墨西哥央行調查顯示，私營機構分析師預計 2026 年末核心通脹率為 3.90%，此前調查預期為 3.99%。私營機構分析師預計 2027 年國內生產總值增速為 1.80%，與此前調查預期持平。
+
+---
+
+### 2026-10-01 23:03:00  #央行 #其他
+
+墨西哥央行調查顯示，私營機構分析師預計 2026 年末整體通脹率為 3.87%，此前調查預期為 3.90%。私營機構分析師預計 2027 年末整體通脹率為 3.82%，此前調查預期為 3.84%。
+
+---
+
+### 2026-10-01 23:02:17  #宏觀 #市場 #國際
+
+美國財政部：將於 10 月 1 日開展流動性回購操作，最多回購 60 億美元期限 10 至 20 年的國債。
+
+---
+
+### 2026-10-01 23:00:34  #其他
+
+國際貨幣基金組織發言人：技術工作組於9月21日至29日訪問布宜諾斯艾利斯，這是擴充套件基金機制安排下第三次評估磋商工作的一部分。
+
+---
+
+### 2026-10-01 23:00:31  #市場
+
+國際貨幣基金組織發言人表示：過去幾年間，通脹水平大幅下降，外匯儲備積累推動對外頭寸狀況走強，財政紀律得到嚴格遵守，財政狀況已從赤字轉為盈餘。
+
+---
+
+### 2026-10-01 23:00:29  #其他
+
+國際貨幣基金組織發言人表示：必須確保目前集中在能源、礦業和農業領域的增長實現擴容，讓增長更均衡地覆蓋經濟體各領域，同時也惠及更廣泛勞動者群體。
+
+---
+
+### 2026-10-01 23:00:27  #其他
+
+國際貨幣基金組織發言人：阿根廷在極具挑戰性的環境中，為恢復宏觀經濟穩定取得了重大進展。
+
+---
+
+### 2026-10-01 23:00:24  #其他
+
+國際貨幣基金組織發言人表示：這一穩定舉措至關重要，是阿根廷實現可持續增長的關鍵基礎。
+
+---
+
+### 2026-10-01 23:00:22  #其他
+
+國際貨幣基金組織發言人：相關談判仍在進行中，並將在未來幾周繼續推進，這些談判旨在就第三次評估達成工作人員級別協議。
+
+---
+
+### 2026-10-01 23:00:20  #其他
+
+國際貨幣基金組織發言人：國際貨幣基金組織與阿根廷達成共識，即加強阿根廷經濟韌性的工作仍需繼續推進。
+
+---
+
+### 2026-10-01 23:00:17  #其他
+
+國際貨幣基金組織表示，債券市場目前執行有序。
+
+---
+
+### 2026-10-01 23:00:17  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Mexican Peso Depreciates by 1.15% — Top currency losers are Mexican Peso (-1.15%), Polish Zloty (-0.86%), Brazilian Real (-0.79%), Euro (-0.56%), British Pound (-0.41%) and Japanese Yen (-0.21%). Gains are led by Swiss Franc (0.60%) and Dollar Index (0.42%).
+
+---
+
+### 2026-10-01 23:00:10  #宏觀 #國際
+
+美國財政部將拍賣820億美元六個月期國庫券。
+
+---
+
+### 2026-10-01 22:59:43  #Trading Economics #Economy #Peru #Inflation Rate #Importance 1
+
+Peru Inflation Rate Hits 3-Year High of 4.55% — The annual inflation rate in Peru's capital, Lima, rose further to 4.55% in September 2026, marking its fastest pace in three years, up from August's 4.44%.This marks the seventh consecutive month above the central bank's 1%-3% target range, as higher global fuel prices and adverse weather linked to the El Niño phenomenon continued to impact transport, agriculture and fishing. By categories, the highest rates were recorded for transportation (15.10% vs 14.79% in August); restaurants & hotels (4.35% vs 4.27%); food & non-alcholic beverages (3.87% vs 3.87%) and education (3.50% vs 3.50%). Meanwhile, prices declined for communications (-4.30% vs -4.35%). On a monthly basis, the CPI rose by 0.12% in September, after a 0.07% increase in the month before.
+
+---
+
+### 2026-10-01 22:58:31  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Reverse Gains — US stocks moved into negative territory to start Q4, with the S&P 500 falling 0.3%, the Nasdaq declining 0.2% and the Dow Jones shedding 245 points, reversing early gains as Treasury yields continued to rise and oil prices climbed again, weighing on sentiment. Meanwhile, the ISM Manufacturing PMI pointed to a surge in manufacturing prices despite a smaller slowdown in factory activity. Materials and real estate were the worst-performing sectors, while energy outperformed. Shares of Micron tumbled 2% despite an earnings beat and forecasts topped expectations. Alphabet also failed to sustain early gains even after rolling out its latest AI model. Amazon (-1.1%), JPMorgan (-1.2%), AMD (-0.7%), Bank of America (-2.6%) were also lower.
+
+---
+
+### 2026-10-01 22:58:10  #國際
+
+默茨稱，歐洲的和平與自由正面臨俄羅斯威脅。
+
+---
+
+### 2026-10-01 22:57:22  #市場
+
+墨西哥主要股指下跌1%。
+
+---
+
+### 2026-10-01 22:55:32  #市場
+
+墨西哥比索兌美元跌幅擴大至1.3%，報18.2980，創2025年12月以來最低水平。
+
+---
+
+### 2026-10-01 22:52:16  #市場 #焦點
+
+納斯達克中國金龍指數跌超0.5%，虎虎科技跌12.58%，小馬智行跌4.74%，天演藥業跌4.06%，晶科能源跌3.42%，阿特斯跌3.39%。
+
+---
+
+### 2026-10-01 22:50:50  #央行 #市場 #國際
+
+【全球債市拋售潮又一里程碑 10年期美債收益率觸及二十四年新高】美國基準國債收益率升至2002年以來最高水平，標誌著全球主權債數月拋售潮的又一里程碑。10年期國債收益率週四一度升破2007年的高點至5.34%。本週早些時候，30年期美債收益率也創下24年來新高。全球政府債券持續承壓。與中東戰爭相關的高油價正透過全球經濟傳導，投資者押注各國央行還將進一步加息。與此同時，各國政府大舉借債，加上人工智慧(AI)基礎設施投資強勁，對資金的需求增加導致融資成本上升。渣打銀行的Steven Barrow表示：“政府債券收益率上升是一個結構性的長期發展趨勢。我們認為收益率上升是金融市場逐步尋找‘新常態’之路的一個過程。”
+
+---
+
+### 2026-10-01 22:47:56  #國際
+
+衣索比亞外交部宣佈，已決定關閉其駐厄利垂亞阿斯馬拉的大使館。
+
+---
+
+### 2026-10-01 22:47:22  #公司 #焦點
+
+【智利國家銅業公司一處大型銅礦週四發生致命事故】智利國家銅業公司（Codelco）旗下一座大型銅礦週四發生致命事故，這也是全球最大產銅國智利近兩週內通報的第二起銅礦死亡事故。智利應急部門稱，事故發生在卡拉馬以北約40公里（25英里）的拉多米羅・托米克銅礦，造成一人死亡，事故經過與原因仍在調查當中。智利國家銅業公司暫未置評。就在本次事故之前，必和必拓集團埃斯康迪達銅礦上週有一名工人在裝置維護期間身亡，這座全球最大銅礦因此臨時停產，後續才逐步恢復作業。拉多米羅・托米克銅礦在2024年初也曾發生致死事故。當時智利國家銅業公司開展安全整改，該礦僅能動用約三分之一的運輸車隊，拖累這家國有銅礦企業的復產計劃。本次事故發生在智利礦業行業處境艱難的階段，或將進一步收緊本就受供應擾動影響的全球銅市場。受天氣與多座大型礦山運營問題衝擊，智利8月銅產量同比下滑13%，降至36.95萬噸，創下逾15年單月最低水平。
+
+---
+
+### 2026-10-01 22:46:39  #市場
+
+歐元兌瑞郎延續跌勢，下跌1.1%至0.93634，創一個月新低。
+
+---
+
+### 2026-10-01 22:44:26  #其他
+
+【深圳市分割槽暴雨黃色預警訊號升級為橙色】過去3小時，坪山區（坪山、馬巒、石井、龍田街道）已出現強降雨，預計未來1-2小時還將出現30毫米左右降水，深圳市氣象臺2026年10月01日22時31分將上述區域暴雨預警訊號升級為橙色，該區域進入暴雨防禦狀態，請遠離低窪易澇等危險區域，山洪風險較大，注意防禦暴雨可能引發的區域性內澇、山洪、滑坡、泥石流等災害。（深圳天氣）
 
 ---
 
@@ -13674,167 +13872,5 @@ UK Maritime Trade Operations said a tanker entering the Strait of Hormuz was str
 ### 2026-09-30 17:56:59  #Trading Economics #Economy #Montenegro #Tourist Arrivals #Importance 1
 
 Montenegro Tourist Arrivals Climb 11.5% in August — The number of tourist arrivals in Montenegro climbed 11.5% year-on-year to a record high of 264,475 in August 2026, accelerating from a 4.4% rise in July. Foreign visitors remained the primary source of arrivals, accounting for 91.7% of the total, or 242,469 arrivals, while domestic arrivals represented 8.3%, or 22,006. Among foreign tourists, Europe continued to be the largest source region, accounting for 82.0% of arrivals, led by Serbia, Russia, Bosnia and Herzegovina, the United Kingdom, and France. Outside Europe, which accounted for 18.0% of arrivals, the largest shares came from Israel, the United States, and China, including Hong Kong. By type of accommodation, seaside resorts remained the most popular, accounting for 82.5% of arrivals, followed by the capital (8.8%), mountain resorts (5.2%), and other resorts (3.5%). Meanwhile, overnight stays in collective accommodation totaled 1,125,805, with foreign visitors accounting for 91.4% and domestic visitors for 8.6%.
-
----
-
-### 2026-09-30 17:56:46  #宏觀
-
-【北京：推動資料產權結構性分置制度落地,打造具有公信力的資料產權登記機構】9月30日北京市釋出“十五五”時期數智北京發展規劃，其中提到，推動資料產權結構性分置制度落地,打造具有公信力的資料產權登記機構,實現重點行業資料產權登記全覆蓋,拓展登記憑證多場景應用。完善資料流通交易制度,建立場內場外結合的交易規則體系。按照“誰投入、誰貢獻、誰受益”原則,探索資料要素收益分配機制。健全資料安全治理制度,形成資料流通交易責任界定機制。探索麵向人工智慧的資料合理使用制度和利益補償機制。推動資料綜合性立法。發揮北京市資料標準化技術委員會作用,完善資料標準體系,率先在資料基礎設施、資料技術等方面出臺系列標準。
-
----
-
-### 2026-09-30 17:56:36  #其他
-
-【北京：推動建立人工智慧內容安全監管制度，強化模型演算法、資料資源、基礎設施、應用系統等安全能力建設，加強智慧體應用安全管理】北京市人民政府印發《“十五五”時期數智北京發展規劃》，其中提到，完善人工智慧安全治理。推動建立人工智慧內容安全監管制度,強化模型演算法、資料資源、基礎設施、應用系統等安全能力建 設,加強智慧體應用安全管理。打造人工智慧安全測試靶場,開發 安全攻防與測試工具箱。持續推進政務大模型應用備案審查、安 全評估、保密管理和檢查。
-
----
-
-### 2026-09-30 17:56:22  #MKT News #Market Themes #Chip Wars
-
-【China's first 3D advanced packaging mass-production line goes live in Optics Valley】China Guanggu said on Sept. 30 Hubei Xingchen Technology Co.'s Phase II advanced packaging pilot platform in Optics Valley entered production, launching the country's first 3D advanced packaging mass-production line and marking a concrete step toward domestic autonomy in high-end chip advanced packaging.
-
----
-
-### 2026-09-30 17:56:08  #公司
-
-【*ST八鋼：回覆定增申請稽核問詢函 事項尚存不確定性】*ST八鋼公告稱，公司收到上交所出具的向特定物件發行股票申請檔案稽核問詢函後，會同相關中介機構對問詢函所列問題逐項落實說明，相關回覆檔案已同日披露。本次向特定物件發行A股股票事項尚需上交所稽核透過，並獲得中國證監會同意註冊的決定後方可實施，最終能否透過稽核及獲得註冊尚存在不確定性。
-
----
-
-### 2026-09-30 17:55:16  #其他
-
-【北京：到2030年,數智北京建設邁向更高水平】9月30日北京市釋出“十五五”時期數智北京發展規劃，其中提到，到2030年,數智北京建設邁向更高水平。資料要素高效配置,數智技術創新引領,數智基礎設施支撐有力,數智創新生態開放活躍,數智安全底線持續築牢,政務、經濟、社會、文化、生態文明數智化發展取得明顯成效,形成超大城市數智化治理新正規化,率先建成國家資料要素市場化配置改革綜合示範區,打造國際一流的全域智慧之城。 到2035年,數智北京建設效能全面釋放,數智賦能市民生活更加幸福美好,數智引領城市國際競爭 力、全球影響力持續增強,有力支撐北京率先基本實現社會主義 現代化。
-
----
-
-### 2026-09-30 17:55:13  #公司
-
-【DFI零售集團將以約3.4億美元從美心集團手中收購星巴克亞洲特許經營業務 】據宣告稱，DFI零售集團（DFI Retail Group）同意以約3.4億美元的現金，承接美心集團在亞洲七個市場運營星巴克的業務權益。該業務網路目前運營著1100多家咖啡店。DFI零售集團目前間接持有美心集團50%的股份（其中包含星巴克的特許經營業務）。
-
----
-
-### 2026-09-30 17:53:19  #Trading Economics #Economy #South Africa #Producer Prices Change #Importance 1
-
-South Africa Producer inflation Softens for 3rd Month — Producer price inflation in South Africa fell for the third month to 5% in August 2026, the softest since April, easing from 5.7% in July. The slowdown mainly reflected softer increases in the costs of coke, petroleum, chemical, rubber and plastic products (13.6% vs 15.7% in July), including petrol prices (20.9% vs 29.4%) and chemicals (5.4% vs 6%). Moreover, prices fell for food products (-0.6% vs 0.3%). On a monthly basis, the PPI fell by 0.4%, after a 1% decrease in the month before.
-
----
-
-### 2026-09-30 17:53:14  #公司
-
-【江淮汽車：完成回購436.5萬股，支付9987.16萬元】江淮汽車公告，公司此前擬使用自有資金以集中競價交易方式回購股份，回購金額5000萬元~1億元，價格不超過64元/股，用於維護公司價值及股東權益，回購股份後續全部登出。截至2026年9月30日，回購期限屆滿，實際回購436.5萬股，佔總股本0.1936%，成交價格18.98元/股~26.19元/股，支付總金額9987.16萬元（不含交易費用）。
-
----
-
-### 2026-09-30 17:52:57  #其他
-
-艾伯維宣佈，其在研藥物ABBV-295在1期臨床試驗中顯示出最高9.8% 的體重減輕效果，表現出“有意義的體重下降”。
-
----
-
-### 2026-09-30 17:52:57  #MKT News #Market Themes #AI Revolution #S&P500 #Impact bearish #Nasdaq100 #US10Y #Impact mixed
-
-【Bank of England warns AI valuations could see "sharper correction"】The Bank of England warned in its quarterly Financial Stability Report that AI valuations remain at risk of a sharper correction than in July, and that such a collapse could have broad effects on global growth and sovereign bond yields. Policymakers said interconnected vulnerabilities in the financial system are rising and the likelihood of simultaneous shocks has increased. The Bank flagged the multi-trillion-dollar AI market as a major risk and cited a renewed escalation in the Middle East, which could trigger a longer-lasting negative supply shock and raise sovereign debt risk. The Bank reiterated prior warnings that asset froth may be forming across AI-related equities, credit markets and sovereign debt.
-
----
-
-### 2026-09-30 17:52:40  #MKT News
-
-Kremlin says it has had contacts with the United States regarding a potential prisoner swap.
-
----
-
-### 2026-09-30 17:52:17  #MKT News
-
-The Kremlin, responding to reports that sanctions might be eased in exchange for the release of political prisoners, said Russia has no political prisoners and called such claims meaningless.
-
----
-
-### 2026-09-30 17:52:04  #公司 #市場
-
-【均瑤健康：公司生產經營正常】均瑤健康公告，公司股票於2026年9月28日、9月29日、9月30日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，構成股票交易異常波動。經核查，公司生產經營正常，市場環境、行業政策未發生重大調整，不存在應披露而未披露的重大事項或需澄清的媒體報道、市場傳聞。公司2026年半年度歸屬於上市公司股東的淨利潤449.91萬元，較去年同期減少39.74%。
-
----
-
-### 2026-09-30 17:52:00  #MKT News
-
-The Kremlin denied reports it was considering talks to lift sanctions in exchange for prisoner releases.
-
----
-
-### 2026-09-30 17:51:40  #公司
-
-【華翔股份在廣東成立液冷科技公司】企查查APP顯示，近日，華翔液冷科技（廣東）有限公司成立，註冊資本3000萬元，經營範圍包含：雲端計算裝置製造；雲端計算裝備技術服務；製冷、空調裝置製造等。企查查股權穿透顯示，該公司由華翔股份全資持股。
-
----
-
-### 2026-09-30 17:51:38  #MKT News #Market Regions #Europe & UK #DXY #Impact bullish #XAUUSD #WTI
-
-The Kremlin said its diplomats had tried to remind hot-headed Europeans to heed Moscow's core documents on the issue, after Russia's nuclear warning to NATO over Kaliningrad.
-
----
-
-### 2026-09-30 17:51:12  #公司
-
-【僑源股份：3665萬元設立全資子公司並完成工商登記】僑源股份公告稱，公司使用自有資金3665萬元投資設立全資子公司僑源氣體（新疆）有限公司，該子公司已於近日完成工商註冊登記手續，取得新疆生產建設兵團第七師市場監督管理局頒發的營業執照，法定代表人為李宏，成立日期為2026年9月29日。本次設立子公司事項已履行內部審批程式，無需提交董事會和股東會審議，不涉及關聯交易，不構成重大資產重組。
-
----
-
-### 2026-09-30 17:50:56  #宏觀 #市場
-
-財政部公佈2026年第四季度國債發行有關安排。（財政部）
-
----
-
-### 2026-09-30 17:50:41  #Trading Economics #Markets #France #stocks #Importance 1
-
-AXA Stock Price Hits 4-week Low — AXA shares decreased to 42.70 EUR, the lowest since August 2026. Over the past 4 weeks, AXA lost 0.74%, and in the last 12 months, it increased 5.27%.
-
----
-
-### 2026-09-30 17:50:37  #MKT News
-
-Kremlin says President Putin will address the newly elected parliament later on Wednesday evening.
-
----
-
-### 2026-09-30 17:50:28  #國際
-
-克里姆林宮：普京將於週三晚些時候在新當選的議會上發表講話。
-
----
-
-### 2026-09-30 17:50:26  #國際
-
-克里姆林宮就俄羅斯針對加里寧格勒問題向北約發出核警告一事表態：我國外交人員正努力提醒歐洲的激進分子，留意我國在這一問題上的基礎性綱領檔案。
-
----
-
-### 2026-09-30 17:50:22  #國際
-
-克里姆林宮就“釋放政治囚犯以換取放寬制裁”的相關報道表態：俄羅斯不存在政治囚犯，此類說法毫無意義。
-
----
-
-### 2026-09-30 17:50:19  #其他
-
-克里姆林宮駁斥了有關可能討論以交換囚犯換取解除對俄製裁的相關報道。
-
----
-
-### 2026-09-30 17:50:17  #國際
-
-克里姆林宮談可能的囚犯交換：我們與美國存有相關接觸。
-
----
-
-### 2026-09-30 17:50:16  #MKT News
-
-Japan's Prime Minister Takaichi said she will assess tax-revenue trends and review government revenues and expenditures.
-
----
-
-### 2026-09-30 17:50:12  #MKT News
-
-China's Ministry of Finance announced arrangements for Q4 2026 government bond issuance.
 
 ---
