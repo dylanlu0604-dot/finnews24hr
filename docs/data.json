@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-03 16:13:08",
-  "count": 11381,
+  "updated": "2026-10-03 16:17:01",
+  "count": 11379,
   "items": [
+    {
+      "id": "5124867",
+      "time": "2026-10-03 16:13:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤突破3美元，日內漲幅3.8%。"
+    },
+    {
+      "id": "5124866",
+      "time": "2026-10-03 16:12:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國U23男足戰勝烏茲別克 奪得亞運會銅牌】愛知·名古屋亞運會男足銅牌爭奪戰在豐田體育場打響，中國U23男足透過點球大戰力克烏茲別克U23男足，奪得本屆賽事銅牌。（央視新聞）"
+    },
     {
       "id": "mkt:01a100cf-2432-7ee0-a78f-1b3e8057ad6e",
       "time": "2026-10-03 16:08:57",
@@ -104288,43 +104305,6 @@
         "MKT News"
       ],
       "text": "【Turkish UN envoy says Israeli prime minister morally bankrupt】On Sept. 25, during the 81st UN General Assembly general debate reply segment, a member of Turkey’s UN delegation sharply condemned Israeli Prime Minister Netanyahu, saying multiple delegations walked out during his speech as a diplomatic rebuke. The envoy said Netanyahu has lost credibility, his policies are rejected and his isolation is growing, and argued the international community cannot tolerate hearing from a morally bankrupt leader who, he said, faces arrest warrants for alleged war crimes and crimes against humanity. He added that alleged Israeli crimes in Gaza, the West Bank, Lebanon and Syria will not be forgotten or forgiven."
-    },
-    {
-      "id": "5114272",
-      "time": "2026-09-26 16:16:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廈金大橋（廈門段）關鍵控制性工程劉五店懸索橋合龍】廈金大橋（廈門段）關鍵控制性工程劉五店懸索橋9月24日順利合龍，為推動廈金大橋（廈門段）專案實現海上主線通車創造了有利條件。劉五店懸索橋是國內首座五跨連續三跨吊組合橋塔平面纜懸索橋，也是福建省最大跨徑橋樑和首座全離岸式海中懸索橋，全長1948米，主跨928米，橋面由126榀流線型扁平鋼箱梁組成，總重量約5.3萬噸，離海面約70米，通航孔可通行20萬噸級貨運船舶。下一步，專案團隊將加快推進劉五店懸索橋橋面系與機電交安工程施工，全力衝刺年度建設目標，推動廈金大橋（廈門段）海上主線按期建成通車。廈金大橋（廈門段）全長約19.6公里，全線建成通車後將與廈門翔安國際機場、廈金航線共同構建起對臺海陸空立體交通新格局。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0dcc9-2446-7118-86a6-b3e88beda2b8",
-      "time": "2026-09-26 16:16:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Libya's National Oil Corporation (NOC) said Zawiya refinery shut one refining unit after armed groups continued to close a valve on the Sharara crude pipeline. NOC is considering importing a cargo of crude via Mellitah or Sidra ports to keep Zawiya operating."
-    },
-    {
-      "id": "5114271",
-      "time": "2026-09-26 16:15:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞國家石油公司(NOC)表示，正考慮透過梅利塔港或錫德拉港進口原油，以維持扎維耶煉油廠的運營。"
-    },
-    {
-      "id": "5114270",
-      "time": "2026-09-26 16:15:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "利比亞國家石油公司(NOC)表示，由於武裝組織持續強行關閉沙拉拉(Sharara)原油管道上的一個閥門，已暫停扎維耶(Zawiya)煉油廠的一個煉油裝置運作。"
     }
   ]
 }
