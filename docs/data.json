@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-03 08:11:27",
-  "count": 11405,
+  "updated": "2026-10-03 08:15:12",
+  "count": 11403,
   "items": [
+    {
+      "id": "mkt:01a0ff1c-c12c-7ee0-a78d-730752e1639a",
+      "time": "2026-10-03 08:14:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Second day of China's National Day holiday sees cross‑region mobility exceed 300 million person‑trips】Yesterday, the second day of China’s National Day holiday, cross‑region mobility exceeded 300 million person‑trips, with short‑ and medium‑distance travel rising notably. Road movements accounted for over 280 million person‑trips nationwide; highway traffic remained elevated and travel was dominated by inter‑scenic roaming and short intra‑regional transfers. Railways carried about 20.4 million passengers as multiple regional rail authorities increased intercity service frequency to accommodate concentrated short‑haul holiday demand and release additional transport capacity."
+    },
+    {
+      "id": "5124749",
+      "time": "2026-10-03 08:13:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【130餘家公司國慶節後率先披露三季報 部分上半年盈利個股獲融資客重點加倉】今年前三季度已結束，部分公司率先披露前三季度業績預告。據統計，截至當前，已有近40家公司預告三季報業績情況（不含業績型別為“不確定”的公司）。隨著三季度的結束，交易所已公佈三季報預計披露日期。據統計，今年國慶節後前10個交易日（10月8日至21日）將披露三季報的公司有134家，主要分佈於電子、基礎化工、醫藥生物、有色金屬等行業。上述134家公司中，今年上半年實現盈利，且最新（9月29日）融資餘額較8月末增幅超過10%的公司有15家，分佈於電力裝置、基礎化工、有色金屬等行業。從融資餘額變動來看，最新融資餘額較8月末增幅超過20%的公司有春風動力、聖暉整合、富信科技等11家。"
+    },
     {
       "id": "5124748",
       "time": "2026-10-03 08:05:17",
@@ -104508,43 +104524,6 @@
         "其他"
       ],
       "text": "OpenAI Codex產品負責人：是的，我們重新上線了，將為所有付費使用者重置Codex和ChatGPT的使用限制。抱歉短暫中斷。"
-    },
-    {
-      "id": "5114132",
-      "time": "2026-09-26 08:13:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川宜賓市高縣發生4.4級地震，震源深度5千米】中國地震臺網正式測定：09月26日07時57分在四川宜賓市高縣（北緯28.51度，東經104.66度）發生4.4級地震，震源深度5千米。"
-    },
-    {
-      "id": "mkt:01a0db0e-ee8a-7118-86a4-84c2017cd7f8",
-      "time": "2026-09-26 08:13:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Washington Post reports the White House barred a CNN reporter from boarding Air Force One on an official trip."
-    },
-    {
-      "id": "mkt:01a0db0e-abca-7118-86a4-7e1a1d785ce1",
-      "time": "2026-09-26 08:12:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Europe's big four leagues call for \"fundamental\" FIFA governance reform】Premier League, Bundesliga, LaLiga and Serie A said on the 25th in a joint statement that FIFA president Gianni Infantino has not prevented and has actively advanced what they called exploitative proposals, and they called for \"fundamental\" governance reform at FIFA. The leagues urged a more transparent, objective, balanced and inclusive governance framework. They noted FIFA's plan to create a \"FIFA Forward company\" — which would have introduced private investors into FIFA's commercial rights — was withdrawn after broad controversy. The leagues said stakeholders forced the withdrawal but that the conditions enabling the plan remain, calling the episode one of the biggest abuses of power in FIFA's history."
-    },
-    {
-      "id": "mkt:01a0db0e-0031-7118-86a4-71d288231e3a",
-      "time": "2026-09-26 08:12:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Pakistan premier urges Strait of Hormuz and Bab al‑Mandeb remain open】At the UN General Debate on Sept. 25, Pakistan Prime Minister Shehbaz Sharif urged the Strait of Hormuz and Bab al‑Mandeb remain open, calling them lifelines for the global economy and saying they must not become arenas of confrontation. He said Pakistan helped broker US‑Iran talks in Islamabad after February’s US‑Israel‑Iran clashes that spread across the Middle East, producing an Islamabad meeting and an Islamabad Memorandum of Understanding, and expressed regret at recent renewed regional escalation. He said Pakistan chooses dialogue over confrontation."
     }
   ]
 }
