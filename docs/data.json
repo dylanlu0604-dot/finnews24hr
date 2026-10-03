@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-03 10:35:19",
-  "count": 11387,
+  "updated": "2026-10-03 10:39:04",
+  "count": 11386,
   "items": [
+    {
+      "id": "5124791",
+      "time": "2026-10-03 10:35:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員稱沙特與葉門政府軍計劃對胡塞武裝發動大規模攻勢】當地時間10月2日，總檯記者獲悉，兩名美國官員透露，沙烏地阿拉伯與葉門政府軍正計劃在未來幾天內，針對胡塞武裝發起大規模打擊。（央視新聞）"
+    },
     {
       "id": "5124790",
       "time": "2026-10-03 10:30:53",
@@ -104355,26 +104363,6 @@
         "其他"
       ],
       "text": "【巴基斯坦總理聯大講話感謝中國】當地時間9月25日，巴基斯坦總理夏巴茲·謝里夫在第81屆聯合國大會一般性辯論發言中，對中國國家主席習近平提出的四大全球倡議表示感謝，夏巴茲認為這些倡議為推動構建人類命運共同體提供了堅實支柱。 夏巴茲表示，巴基斯坦正透過中巴經濟走廊與中國開闢新的合作路徑，並與海灣地區、中亞及其他地區拓展合作。在9月23日聯合國大會期間舉行的系列高階別會議上，夏巴茲指出，中巴經濟走廊補充了巴基斯坦的發展戰略中的優先事項，併為巴基斯坦更廣泛的發展目標作出了貢獻。 （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a0db94-1a92-7118-86a5-501c842832cb",
-      "time": "2026-09-26 10:38:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "IFX.DE",
-        "Impact bullish"
-      ],
-      "text": "【Infineon to commission Thailand semiconductor plant on Oct. 1】German chipmaker Infineon will commission a Thailand semiconductor plant on Oct. 1 in a project valued at over THB 48 bln (about $1.44 bln), the Thai Board of Investment said. The facility will house power-module manufacturing, semiconductor testing and an R&D center and will produce power modules for electric vehicles, energy systems and data centers. The project is expected to employ more than 5,000 local workers."
-    },
-    {
-      "id": "5114194",
-      "time": "2026-09-26 10:37:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美參議員：白宮釋放訊號，不會禁止柴油出口】美國參議員泰德·克魯茲上週五晚間向煉油行業領袖表示，白宮已作出承諾，特朗普政府不會禁止美國柴油出口。 他們透露，克魯茲傳達這一訊息之際，政府正權衡多項方案，以期在柴油價格創歷史新高的背景下壓低油價。 當前柴油價格創歷史新高，政府正在評估各類壓低柴油價格的方案，特朗普希望看到加油站零售價回落。 正在研討的方案包括放開紅染柴油銷售限制，將其豁免於聯邦生物燃料摻混計劃，此舉有望降低柴油採購成本。"
     }
   ]
 }
