@@ -1,7 +1,55 @@
 {
   "date": "2026-10-04",
-  "count": 28,
+  "count": 34,
   "items": [
+    {
+      "id": "5125001",
+      "time": "2026-10-04 01:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉脫維亞總理庫爾貝格斯：我們的堅定立場是，任何與俄羅斯的經濟聯絡都會削弱我們，俄羅斯會藉此加以利用。"
+    },
+    {
+      "id": "5125000",
+      "time": "2026-10-04 01:22:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞總理庫爾貝格斯：我們不會與親俄政黨開展合作。"
+    },
+    {
+      "id": "mkt:01a102c9-cf5c-7ee0-a790-e4e8fc030b08",
+      "time": "2026-10-04 01:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Latvian Prime Minister Kurbēlbergs said the government will not cooperate with pro‑Russian parties."
+    },
+    {
+      "id": "mkt:01a102c9-a6a5-7ee0-a790-dc59f51a2afe",
+      "time": "2026-10-04 01:22:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Latvian Prime Minister Kurlbergs said support for an export poll exceeded expectations, reflecting a strong public reaction."
+    },
+    {
+      "id": "5124999",
+      "time": "2026-10-04 01:21:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞總理庫爾貝格斯：出口民調顯示我方支援率高於預期，這是民眾給出的強烈回應。"
+    },
+    {
+      "id": "5124998",
+      "time": "2026-10-04 01:21:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞總理庫爾貝爾斯排除了與拉脫維亞第一黨聯合組閣的可能性。"
+    },
     {
       "id": "mkt:01a102c5-e5c0-7ee0-a790-d76e3aad1d07",
       "time": "2026-10-04 01:18:06",
