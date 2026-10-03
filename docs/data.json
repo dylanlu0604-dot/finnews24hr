@@ -1,7 +1,26 @@
 {
-  "updated": "2026-10-03 21:24:45",
-  "count": 11407,
+  "updated": "2026-10-03 21:28:45",
+  "count": 11409,
   "items": [
+    {
+      "id": "5124955",
+      "time": "2026-10-03 21:27:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國一儲蓄銀行遭駭客攻擊，約4萬客戶資料洩露】韓國耶加蘭儲蓄銀行（Yegaram Savings Bank）表示，9月30日，一名身份不明的駭客入侵了存放客戶資料的伺服器，導致約4萬名客戶的個人資訊洩露。洩露的資訊包括客戶姓名、出生日期和聯絡方式；銀行仍在確定受影響的確切人數。該行懷疑駭客利用了其使用的外部軟體解決方案中的遠端漏洞。"
+    },
+    {
+      "id": "mkt:01a101f0-99f5-7ee0-a790-114583d4c569",
+      "time": "2026-10-03 21:25:07",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【CITIC Securities: Positive on new China property cycle】CITIC Securities says month-on-month rent gains in some cities — together with supply lagging rental demand — are key signals that China house prices have bottomed. It notes policies are reducing homebuyers’ cost burden, making buying relatively more attractive than renting. Recommends investors position for a new China property cycle, favoring developers and leading brokerage firms."
+    },
     {
       "id": "5124954",
       "time": "2026-10-03 21:22:06",
