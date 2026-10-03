@@ -1,7 +1,751 @@
 {
   "date": "2026-10-03",
-  "count": 410,
+  "count": 493,
   "items": [
+    {
+      "id": "mkt:01a100b7-6738-7ee0-a78e-f8faae08d39b",
+      "time": "2026-10-03 15:43:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Malaysia's defense minister said the government is considering spending more than 1 bln Ringgit (about $245 mln) to purchase new naval strike missile systems."
+    },
+    {
+      "id": "mkt:01a100b7-0d17-7ee0-a78e-f534bf933c46",
+      "time": "2026-10-03 15:42:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Gassco said it adjusted the outage for the Heidrun gas field to Sept 29–Oct 5, extending a planned supply cut of 5.5 million cubic meters per day from the prior Sept 29–Oct 4 window."
+    },
+    {
+      "id": "5124861",
+      "time": "2026-10-03 15:35:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美的與伊萊克斯三家合資企業全面運營】美的集團與伊萊克斯集團共同成立的三家合資企業日前已正式投入運營，本次合作落地銷售及製造兩大核心合資平臺，實現研發、製造、市場全鏈路一體化佈局。未來在市場端將聯動雙方成熟銷售體系，全面支撐北美市場的產品迭代、渠道推廣與品類佈局；製造端則重點擴容北美本土產能，最佳化屬地生產體系，縮短產品交付鏈路，持續提升區域供應鏈響應速度。"
+    },
+    {
+      "id": "5124860",
+      "time": "2026-10-03 15:35:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿聯酋檢方：迪拜航空涉事副駕駛使用消防斧實施“恐怖襲擊”】當地時間10月3日，阿聯酋總檢察長沙姆西表示，迪拜航空FZ1073航班副駕駛在飛行途中襲擊機長，並企圖控制飛機的行為是“恐怖襲擊”。總檢察長表示，副駕駛在飛行過程中實施其策劃的行動，在駕駛艙內使用緊急消防斧襲擊機長，並試圖控制飛機的操縱裝置。總檢察長還稱，目前調查仍在進行中，調查人員正在對實物和數字證據進行核驗，以確定事件的性質和動機等。待相關必要程式完成後，將公佈最終調查結果。*（央視新聞）"
+    },
+    {
+      "id": "5124859",
+      "time": "2026-10-03 15:34:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞國防部長表示，政府正在考慮斥資超過10億林吉特（2.45億美元）購買新的海軍打擊導彈系統。"
+    },
+    {
+      "id": "5124858",
+      "time": "2026-10-03 15:31:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬斯克女友自曝被斷崖式分手：一週之內，從相愛到放手】馬斯克的長期伴侶、腦機介面公司Neuralink高管希馮·齊利斯週五發文，稱兩人的感情關係已結束，她與馬斯克共同育有四個子女。齊利斯在回應一條有關馬斯克取消關注她的帖子時寫道，“在毫無預兆的情況下，一週之內從相愛到分手，這很難，但有時事情就是這樣。”她表示，自己會非常想念馬斯克，仍感謝兩人共同擁有的四個孩子，並表示希望今後能夠與馬斯克成為好朋友，共同承擔養育責任。“我很難過，但仍然深深關心他，也會一直祝福他幸福。”她寫道。"
+    },
+    {
+      "id": "mkt:01a100a8-4e44-7ee0-a78e-efdec6ecf0e3",
+      "time": "2026-10-03 15:26:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Turkey's preliminary September trade data: imports up 5.9% YoY, exports up 15.4% YoY, trade deficit $5.232 bln."
+    },
+    {
+      "id": "5124857",
+      "time": "2026-10-03 15:19:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、美國總統特朗普2日稱，與伊朗的戰事將“很快結束，伊朗永遠不會擁有核武器”。\n2、特朗普：我十分欣喜地宣佈，韓國相關協議持續迎來利好！這項增強石油採收專案價值 84 億美元。油氣產量提升，將奠定美國未來在全球的能源主導地位與能源安全！\n3、特朗普：將很快用委內瑞拉石油填滿戰略石油儲備。將為每一位美國人帶來更低的價格。\n4、特朗普談及柴油：我們不會實施出口禁令。歐洲剛剛同意釋放大量其庫存充足的柴油。\n5、兩名不具名知情人士報道稱，美國總統特朗普預計將任命Jay Clayton為人工智慧“沙皇”，Clayton是美國國家情報總監。\n6、特朗普稱有關美聯儲大樓翻修的報道是“謊言”。期待了解司法部調查的結果。\n7、特朗普在社交平臺發言支援Katherine Robertson出任亞拉巴馬州總檢察長。\n8、特朗普稱將向2000多萬老年人發放約100美元的醫保補貼支票。\n9、特朗普再次批評鮑威爾對美聯儲改革的政策。"
+    },
+    {
+      "id": "5124856",
+      "time": "2026-10-03 15:18:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其9月貿易逆差為52.32億美元。"
+    },
+    {
+      "id": "5124855",
+      "time": "2026-10-03 15:18:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其9月進口額為312.08億美元。"
+    },
+    {
+      "id": "5124854",
+      "time": "2026-10-03 15:18:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其9月出口額為259.76億美元。"
+    },
+    {
+      "id": "5124853",
+      "time": "2026-10-03 15:17:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其9月出口同比增長15.4%。"
+    },
+    {
+      "id": "5124852",
+      "time": "2026-10-03 15:04:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部：10月2日全社會跨區域人員流動量30550.4萬人次】交通運輸部資料顯示，2026年10月2日（國慶假期第2日），全社會跨區域人員流動量30550.4萬人次，環比下降7.3%，比2025年同期（10月2日，中秋國慶假期第2日，下同）增長1.2%。其中：鐵路客運量2076.5萬人次，環比下降17.6%，同比增長7.7%；公路人員流動量28052萬人次，環比下降6.6%，同比增長0.8%（其中公路營業性客運量3882萬人次，環比下降13.2%，同比增長5.1%；高速公路及普通國省道非營業性小客車人員出行量24170萬人次，環比下降5.5%，同比增長0.1%）；水路客運量181.7萬人次，環比增長28.3%，同比增長9.4%；民航客運量240.2萬人次，環比下降4.5%，同比下降2.8%。"
+    },
+    {
+      "id": "5124851",
+      "time": "2026-10-03 15:02:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部：10月3日48個服務區預計充電特別繁忙】據交通運輸部動態研判，10月3日，全國高速公路預計有48個服務區充電特別繁忙，主要集中在山西、河北、山東等省。"
+    },
+    {
+      "id": "mkt:01a10092-3247-7ee0-a78e-e3c32294fb1b",
+      "time": "2026-10-03 15:02:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Lithuanian State Crisis Management Centre says VILNIUS airport closed after possible drones originating from Belarus; NATO air-policing jets scrambled."
+    },
+    {
+      "id": "5124850",
+      "time": "2026-10-03 15:01:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度空軍參謀長辛格表示，印度計劃在3月前敲定114架戰鬥機的合同。"
+    },
+    {
+      "id": "5124849",
+      "time": "2026-10-03 15:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "立陶宛國家危機控制中心：維爾紐斯機場關閉，北約空中警務戰鬥機緊急升空，因可能探測到一架從白俄羅斯飛來的無人機。"
+    },
+    {
+      "id": "5124848",
+      "time": "2026-10-03 14:53:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印媒稱印邊防人員在印巴邊境打死兩名疑似巴基斯坦人】據《印度斯坦時報》3日報道，印度邊境安全部隊2日在印度北部旁遮普邦印巴邊境附近開槍打死兩名疑似巴基斯坦人。（新華社）"
+    },
+    {
+      "id": "mkt:01a10089-7fe2-7ee0-a78e-de0a35948b06",
+      "time": "2026-10-03 14:52:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indian border guards kill two suspected Pakistanis near Punjab, Indian media reports】Hindustan Times reported on the 3rd that India's Border Security Force shot dead two people suspected to be Pakistani near the India‑Pakistan border in Punjab on the 2nd, Xinhua said."
+    },
+    {
+      "id": "mkt:01a10087-7511-7ee0-a78e-d5c9c1068edd",
+      "time": "2026-10-03 14:50:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Reserve Bank of India governor says the central bank is promoting trade settlement in local currency."
+    },
+    {
+      "id": "5124847",
+      "time": "2026-10-03 14:37:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：我們正在推動本幣貿易結算。"
+    },
+    {
+      "id": "5124846",
+      "time": "2026-10-03 14:36:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：印度仍易受伊朗衝突影響。"
+    },
+    {
+      "id": "mkt:01a10075-f551-7ee0-a78e-cee3f36fc84d",
+      "time": "2026-10-03 14:31:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say the suspect in the Dubai aviation incident is Omani national Hammam Al-Hammami."
+    },
+    {
+      "id": "5124845",
+      "time": "2026-10-03 14:30:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：政府借貸成本上升可能壓縮財政空間。"
+    },
+    {
+      "id": "mkt:01a10074-710e-7ee0-a78e-c7cc274d0679",
+      "time": "2026-10-03 14:29:53",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "【FAA: Boeing 737 MAX software issue not a safety concern】The FAA said on the 2nd that an expert-panel assessment found a software issue in flight computers on certain Boeing 737 MAX aircraft \"does not constitute a safety concern,\" because pilots can \"re-establish full control of the aircraft and crews receive clear, unambiguous indications.\" The agency said it will \"consider appropriate action\" if it receives new information about the issue."
+    },
+    {
+      "id": "5124844",
+      "time": "2026-10-03 14:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波音737MAX軟體出問題 FAA說無礙安全】美國聯邦航空局（FAA）2日宣佈，波音737 MAX客機一款飛行軟體存在的問題不影響飛行安全。聯邦航空局在宣告中說，經專家組評估，“某些波音737 MAX客機飛行計算機中的一個軟體問題不構成安全憂慮”，因為駕駛員可“重新完全控制飛機，機組能獲得清晰明確的指示”。該機構同時表示，如果今後“收到關於這一問題的新資訊”，會“考慮採取相應措施”。（新華社）"
+    },
+    {
+      "id": "mkt:01a10072-0d52-7ee0-a78e-bed52be37301",
+      "time": "2026-10-03 14:27:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Okamoto Mitsunari named leader of Japan's opposition Komeito】Japan's opposition Komeito held a party congress on the 3rd and formally approved House of Representatives member Okamoto Mitsunari to succeed Takeya Toshiko as party leader."
+    },
+    {
+      "id": "5124843",
+      "time": "2026-10-03 14:26:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【岡本三成接任日本在野黨公明黨黨首】日本在野黨公明黨3日舉行黨大會，正式批准日本眾議員岡本三成接替竹谷敏子擔任黨首。 (新華社)"
+    },
+    {
+      "id": "5124842",
+      "time": "2026-10-03 14:25:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：重點是增強金融體系的韌性。"
+    },
+    {
+      "id": "5124841",
+      "time": "2026-10-03 14:24:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長 ：價格穩定與金融穩定密切相關。"
+    },
+    {
+      "id": "5124840",
+      "time": "2026-10-03 14:21:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：未看到風險即將顯現的跡象。"
+    },
+    {
+      "id": "mkt:01a10069-810e-7ee0-a78e-b78966c0be11",
+      "time": "2026-10-03 14:17:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Flydubai spokesperson said the circumstances of the incident remain under investigation and the airline cannot comment further."
+    },
+    {
+      "id": "5124839",
+      "time": "2026-10-03 14:15:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋稱，迪拜航空事件是一起有預謀的“恐怖行動”。"
+    },
+    {
+      "id": "5124838",
+      "time": "2026-10-03 14:13:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋：正在調查迪拜航空事件的動機及相關聯絡。"
+    },
+    {
+      "id": "5124837",
+      "time": "2026-10-03 14:09:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“21世紀海上絲綢之路”航線已覆蓋全球100多個國家和地區】今天（10月3日）是共同建設“21世紀海上絲綢之路”提出13週年。這條海上絲綢之路的建設，有力促進了我國與東南亞、非洲、拉美等地區國家經貿合作不斷邁上新臺階。今年以來，我國新開通多條直達拉美、東南亞等地的外貿航線，國際集裝箱班輪航線已覆蓋全球100多個國家和地區。（央視新聞）"
+    },
+    {
+      "id": "5124836",
+      "time": "2026-10-03 14:08:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱對伊朗下一步行動“進展順利”】據美國阿克西奧斯新聞網站2日報道，美國總統特朗普當天稱，對伊朗的下一步行動“進展順利”。當天被媒體問及美國對伊朗的下一步行動時，特朗普回應稱其“重大”，並稱行動“進展得非常順利”，“伊朗的情況不妙”。 報道還說，美政府“核心內閣成員”當天在馬里蘭州總統度假地戴維營舉行數小時的閉門會議，討論伊朗戰事及針對沙烏地阿拉伯同葉門胡塞武裝衝突的下一步行動。 報道援引多名美官員的話稱，此次會議“高度不尋常”，沒有對外正式公佈。上次舉行類似會議是在2025年6月，即以色列對伊朗多地發動大規模空襲的前幾日。談及中東局勢時，一名官員稱：“有些事情已經作出決定，至少已進行了深入討論。” 報道說，會議由美副總統萬斯主持，與會人員包括國務卿魯比奧、國防部長赫格塞思、美國總統特使威特科夫、中央情報局局長拉特克利夫以及美軍參謀長聯席會議主席凱恩。（新華社）"
+    },
+    {
+      "id": "mkt:01a1005e-da3b-7ee0-a78e-abe11f861f5f",
+      "time": "2026-10-03 14:06:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE attorney general said the co‑pilot involved in a cockpit altercation on a Dubai airline flight attempted a terrorist attack in flight, attacked the captain with an axe and tried to seize control of the aircraft."
+    },
+    {
+      "id": "5124835",
+      "time": "2026-10-03 14:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋總檢察長稱，迪拜航空副駕駛用應急斧襲擊機長並試圖控制飛機。"
+    },
+    {
+      "id": "5124834",
+      "time": "2026-10-03 14:03:48",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【《國家統一推行自願性認證制度管理辦法（試行）》釋出施行】市場監管總局釋出公告，行政規範性檔案《國家統一推行自願性認證制度管理辦法（試行）》已經2026年9月20日市場監管總局第18次局務會議透過，現予公告，自公佈之日起施行。"
+    },
+    {
+      "id": "mkt:01a10056-9339-7ee0-a78e-a281fd67e9f3",
+      "time": "2026-10-03 13:57:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Argentina launches South America's first investment-for-citizenship program】Argentina's Economy Minister Luis Caputo said on the 2nd the country will launch South America's first investment-for-citizenship program and open applications in Q4. Under the scheme applicants must make a non-refundable direct investment of at least $350,000 in Argentina or purchase $800,000 of public bonds. Applicants will be screened for source of funds, personal background and security risk."
+    },
+    {
+      "id": "5124833",
+      "time": "2026-10-03 13:55:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶多景區釋出限流公告】據重慶釋出，10月3日，巫山小三峽景區、重慶三峽之巔景區、白鶴梁水下博物館釋出限流公告。"
+    },
+    {
+      "id": "5124832",
+      "time": "2026-10-03 13:55:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國慶機票價格兩頭高中間低】10月2日起機票價格上演“高臺跳水”。 平臺資料顯示，從機票均價看，10月2日價格開始顯著走低，比1日便宜20%；3日、4日繼續下跌，達到節中低谷。以廣州—烏魯木齊為例，10月3日出發，直飛裸票價為1200元。10月4日出發，票價最低降至650元，便宜了近一半。5日返程啟動，價格一路走高，10月7日達到最高點，10月8日、9日回落。（南方日報）"
+    },
+    {
+      "id": "5124831",
+      "time": "2026-10-03 13:53:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "俄國防部：俄軍在黑海擊中一艘為烏軍運輸兩用物資的乾貨船。"
+    },
+    {
+      "id": "mkt:01a10053-0028-7ee0-a78e-9d9a493a75e6",
+      "time": "2026-10-03 13:53:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defense Ministry said Russian forces struck a dry-cargo ship in the Black Sea that was transporting dual-use goods to Ukrainian forces, RIA reported."
+    },
+    {
+      "id": "5124830",
+      "time": "2026-10-03 13:51:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海口海關查獲護膚品和化妝品194件】近日，海口海關所屬海口美蘭機場海關在對進境旅客及其行李物品進行監管時，發現一名選擇“綠色通道”通關的旅客行李機檢影象異常。經開箱查驗，在其行李箱中查獲大量未申報的全新未拆封護膚品和化妝品，共計194件。目前，海關已按規定對上述物品作暫不予放行處理。（海關釋出）"
+    },
+    {
+      "id": "5124829",
+      "time": "2026-10-03 13:50:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿根廷推出“投資換國籍”計劃】阿根廷政府2日推出一項“投資換國籍”計劃，申請人出資數十萬美元就有可能成為這個南美洲國家公民。阿根廷經濟部長路易斯·卡普託和內閣首席部長迭戈·聖蒂利當天在法國巴黎舉辦的“阿根廷周”活動中共同宣佈，該計劃定於今年第四季度啟動。根據方案，一名申請入籍者需要向阿根廷直接投資至少35萬美元，且不可退還；或購買80萬美元公共債券。（新華社）"
+    },
+    {
+      "id": "5124828",
+      "time": "2026-10-03 13:42:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪拜航空襲擊事件中的副駕駛是Hamam Al-Hammami。"
+    },
+    {
+      "id": "5124825",
+      "time": "2026-10-03 13:36:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一男子被指控企圖刺殺英國改革黨黨首】英國警方2日宣佈，一名先前被控謀殺前議員的男子，現又面臨“圖謀發動恐襲”指控，其襲擊目標包括英國改革黨黨首奈傑爾·法拉奇。英國警方和檢方稱，28歲的喬舒亞·克里涉嫌在2024年5月至今年7月期間策劃恐怖活動而受到指控，其中部分行動針對法拉奇。克里來自英格蘭北部羅瑟勒姆鎮，定於本月7日在倫敦威斯敏斯特地方法院出庭。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a10041-06fc-7ee0-a78e-903e3d8e370c",
+      "time": "2026-10-03 13:33:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Russian Defense Ministry said Russian forces struck a logistics hub in the Kyiv region used to store supplies for Ukrainian forces, RIA reported."
+    },
+    {
+      "id": "5124824",
+      "time": "2026-10-03 13:16:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列飛迪拜航班全部取消】當地時間10月2日，以色列飛往迪拜的航班已全部取消，機場整體執行維持正常，但客流量較以往明顯下降，現場冷清。（新華社）"
+    },
+    {
+      "id": "mkt:01a10031-985b-7ee0-a78e-8ff9fe06865d",
+      "time": "2026-10-03 13:16:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Huatai Securities: Fed unlikely to hike consecutively in October; baseline expects another hike in December】Huatai Securities said September nonfarm payrolls missed expectations, reducing the urgency for consecutive Fed hikes in October. The three‑month average of payroll gains is +51k, near balanced employment; unemployment remains low, implying a still‑robust but not overheated labor market. September weakness and slower wage growth have trimmed real income and may curb consumption after August's strength. NFIB hiring intentions point to a likely soft October payrolls followed by a rebound. In its baseline scenario Huatai expects the Fed to skip a consecutive October hike and raise rates again in December."
+    },
+    {
+      "id": "mkt:01a1002f-f562-7ee0-a78e-834440accfc1",
+      "time": "2026-10-03 13:15:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【All Israel–Dubai flights canceled; passenger volumes markedly lower】All flights from Israel to Dubai were canceled on Oct. 2 local time. Israeli airports remained broadly operational, but passenger volumes were markedly lower than normal."
+    },
+    {
+      "id": "5124823",
+      "time": "2026-10-03 13:10:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方強調聯合國安理會制裁體系要持續完善】中國常駐聯合國副代表孫磊2日在聯合國安理會制裁除名協調人非正式對話會上發言，強調安理會制裁體系要持續完善。（新華社）"
+    },
+    {
+      "id": "mkt:01a1002b-79db-7ee0-a78e-7ba4269cad81",
+      "time": "2026-10-03 13:10:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China calls for continued improvement of UN Security Council sanctions system】China's deputy permanent representative to the UN, Sun Lei, said on the 2nd at an informal dialogue of the Security Council sanctions delisting coordinator that the UN Security Council sanctions system should be continuously improved."
+    },
+    {
+      "id": "mkt:01a1002a-bb8a-7ee0-a78e-70a54ab601ce",
+      "time": "2026-10-03 13:09:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple says small number of AT&T iPhone 18 Pro Max users will need replacements after cellular fault】Bloomberg reported Oct 3 that Apple said a fault affecting a small number of AT&T iPhone 18 Pro Max users may cause devices to lose cellular service and be unable to make calls; affected units will require replacement. Apple has issued a carrier-settings update and released iOS 27.0.1 to prevent further spread. The carrier-settings fix will auto-download for AT&T users within 14 days; Apple advises users to install available software updates immediately."
+    },
+    {
+      "id": "5124822",
+      "time": "2026-10-03 13:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【數字中亞國際論壇—北京與哈薩克各州、市數字友好城市建設對話會成功舉辦】據北京經信公眾號，9月30日，在一年一度的哈薩克AI & Digital Bridge開幕前夕，全球數字經濟城市聯盟（DEC40）與哈薩克人工智慧與數字發展部共同組織的“數字中亞國際論壇—北京與哈薩克各州、市數字友好城市建設對話會”成功舉辦。哈薩克各地區數字化管理局一致同意加入DEC40與AI部已達成MOU合作框架，構建了部州聯動與DEC40整體合作的行動模式——這也是該模式在哈國的首次創新應用。"
+    },
+    {
+      "id": "5124821",
+      "time": "2026-10-03 13:05:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【匯通集團菲律賓TR4專案順利完成首片預應力混凝土I型樑架設】10月1日，匯通集團承建的菲律賓南呂宋高速公路4號收費公路（SLEXTR4）D標段建設迎來關鍵里程碑，專案首片預應力混凝土I型梁順利完成架設。此次架樑作業吊裝平穩、落位精準、固定規範，各項施工指標均符合標準，標誌著該標段橋樑工程正式完成從下部墩臺施工到上部梁體施工的階段轉換。"
+    },
+    {
+      "id": "5124820",
+      "time": "2026-10-03 13:03:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度成功將毒梟Navpreet Singh遣返回國。"
+    },
+    {
+      "id": "5124819",
+      "time": "2026-10-03 13:01:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期第三天 鐵路公路民航水路客流持續高位執行】今天是國慶假期的第三天，全國公路、鐵路、民航、水路客流持續高位執行。旅遊出行熱度居高不下，景區觀光、城市漫遊、短途度假等出行需求集中釋放，交通部門持續增加熱門旅遊線路運力投放。今天，全國鐵路預計傳送旅客1890萬人次，預計加開列車910列。針對假期旅遊出行需求高的特點，各地鐵路部門利用國慶前夕開通的新線和車站資源，在熱門方向和區間增加運力供給。今天，全國高速公路車流量為6200萬至6400萬輛次，出行以中短途為主，主幹大通道與景區周邊路段雙向承壓。民航方面，今天全國民航預計運輸旅客225萬人次，預計保障航班18019班。多家航司在熱門旅遊城市間加密航線，增加寬體機投放，滿足旅客出行需求。水路方面，今天預計水路客運量達210萬人次，同比增長9.1%。旅遊與探親客流疊加，客運量持續走高。 (央視新聞)"
+    },
+    {
+      "id": "mkt:01a1001b-e5f6-7ee0-a78e-6d7d9bebfc7d",
+      "time": "2026-10-03 12:53:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Economist maintains view Fed will hold in October and hike in December】RSM US chief economist Joseph Brusuelas said the US labor market remains characterized by low hiring and low layoffs and is still best described as at full employment. A small rise in unemployment largely reflects statistically insignificant noise, and weak hiring plus volatility in the domestic labor‑force series should support Fed officials who favor leaving the federal funds rate unchanged at the October meeting. September data show wage gains pose little to no risk of second‑round inflation; the Fed is not currently worried about employment as a policy objective. His baseline remains no hike in October, a 25bp increase in December and a further 25bp in March 2027."
+    },
+    {
+      "id": "5124818",
+      "time": "2026-10-03 12:46:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【優衣庫Chiikawa聯名廣告牌出現多處錯誤，客服稱“問題已反饋”】近日，優衣庫推出Chiikawa聯名系列，門店廣告牌被網友發現集中出現三處低階錯誤:第一行本該是雙大寫\"II\"，被誤寫成\"li\"；第二行IP英文名少寫一個字母，錯拼成“Chikawa”；此外，在說明文字中，中文括號也少半邊，直接漏掉後括號。對於上述事件，截至發稿優衣庫官方暫無回應。優衣庫客服表示，“該問題已記錄並會進行反饋。”"
+    },
+    {
+      "id": "5124817",
+      "time": "2026-10-03 12:40:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "蔚來：蔚來充電服務突破1億次。"
+    },
+    {
+      "id": "mkt:01a1000d-4d7f-7ee0-a78e-675fd8d53c36",
+      "time": "2026-10-03 12:37:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "Nio said its charging services have surpassed 100 million sessions."
+    },
+    {
+      "id": "5124816",
+      "time": "2026-10-03 12:29:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【什麼意思夫婦票房破1億】據燈塔專業版實時資料，截至10月3日12時9分，影片《什麼意思夫婦》票房突破1億。"
+    },
+    {
+      "id": "5124815",
+      "time": "2026-10-03 12:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民政部：防範非法養老App以“民惠通”等為名詐騙】民政部日前釋出提示稱，近期一些非法養老App以“民惠通”等為名實施詐騙。不法分子偽造檔案、冒充民政部工作人員，宣稱可“發放高齡補貼”等，要求先交保險金、保證金、啟用費等，或以“簽到賺錢”“高額返利”“拉人頭返傭”誘導充值投資，最終無法提現。民政部提示，其從未設立或批准設立“民惠通”等專案，也未推出任何類似產品和相關App，請廣大公眾提高警惕，不要輕信來源不明的資訊和不實宣傳，避免上當受騙。對於已經參與或可能遭受損失的使用者，建議儘快向屬地公安部門報案，避免造成進一步損失；如遇可疑情況，請立即撥打110報警或撥打96110諮詢舉報。（新華社）"
+    },
+    {
+      "id": "5124814",
+      "time": "2026-10-03 12:25:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國信保前8個月承保金額同比增長12.6%】記者從中國出口信用保險公司獲悉，今年前8個月，中國信保擴大出口信用保險覆蓋面，承保金額8541.8億美元，同比增長12.6%；服務客戶25.1萬家，同比增長5.2%。今年前8個月，中國信保助力培育外貿新動能，新業態和服務貿易承保金額同比分別增長18%和40%；推動內外貿一體化，內貿險承保金額4010.3億元，同比增長14.1%。（新華社）"
+    },
+    {
+      "id": "mkt:01a10002-3a10-7ee0-a78e-5f1f4ccbea19",
+      "time": "2026-10-03 12:25:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Economist: Employment weakness lowers odds of two Fed rate hikes】LPL Financial chief economist Jeffrey Roach on US nonfarm payrolls: \"We see opposing forces: the goods-producing sector supporting the AI boom versus the services sector being disrupted by technological change. Given overall labor-market weakness, the likelihood of two Fed rate hikes is declining.\""
+    },
+    {
+      "id": "5124813",
+      "time": "2026-10-03 12:17:21",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【華泰證券：美聯儲難以在10月連續加息 基準情形下12月再次加息】華泰證券指出，9月非農報告不及預期，美聯儲短期連續加息的緊迫性下降。由於非農單月資料波動較大，以3個月均值來看，新增非農為5.1萬，位於均衡就業水平附近，疊加失業率仍處於較低水平，顯示就業市場仍是穩健但難言緊張。9月非農走弱，疊加薪資增速下降，9月實際收入有所放緩，居民消費也可能難以延續8月強勁表現。向前看，前瞻指標NFIB招聘意願顯示10月非農仍可能偏弱，但此後非農或有所反彈，因此，華泰證券認為美聯儲難以在10月連續加息，基準情形下，12月再次加息。"
+    },
+    {
+      "id": "5124812",
+      "time": "2026-10-03 12:09:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【推動科技型企業孵化器高質量發展，浙江印發五年行動方案】據浙江釋出，日前，浙江省人民政府辦公廳印發《浙江省科技型企業孵化器高質量發展行動方案（2026—2030年）》。《行動方案》明確，到2030年，全省孵化器數量突破2000家、孵化場地總面積突破2500萬平方米，培育工業和資訊化部孵化器200家、省級孵化器500家，引育科技型企業5萬家，培育高新技術企業1萬家。"
+    },
+    {
+      "id": "5124811",
+      "time": "2026-10-03 12:08:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以官員說愛爾蘭人幫加沙人就幫到底】據以色列14頻道電視臺10月2日報道，針對10月1日歐國聯愛爾蘭主場對陣奧地利比賽期間場內外出現的聲援巴勒斯坦示威活動，以色列國家安全部長、極右翼政治人士本-格維爾在節目中表示，愛爾蘭若想幫助加沙人，應將他們帶去愛爾蘭。針對嘉賓關於“無人願意接受加沙人遷徙方案”的擔憂，本-格維爾回應稱可透過資金交換來實現，並稱雖然代價昂貴，但能幫以色列節省國防預算。節目嘉賓隨後提出“此舉是否會被質疑為倒賣巴勒斯坦人”，本-格維爾不置可否。(CCTV國際時訊)"
+    },
+    {
+      "id": "mkt:01a0ffeb-1b92-7ee0-a78e-57fd0c9565a7",
+      "time": "2026-10-03 11:59:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv's mayor said the North Bridge over the Dnieper was struck during a Russian airstrike; emergency services are en route."
+    },
+    {
+      "id": "5124810",
+      "time": "2026-10-03 11:59:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長表示，第聶伯河上的北橋在俄羅斯空襲中被擊中，應急服務人員正趕赴現場。"
+    },
+    {
+      "id": "5124809",
+      "time": "2026-10-03 11:39:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：期待了解司法部調查的結果。"
+    },
+    {
+      "id": "5124808",
+      "time": "2026-10-03 11:38:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普稱有關美聯儲大樓翻修的報道是“謊言”。"
+    },
+    {
+      "id": "5124807",
+      "time": "2026-10-03 11:28:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期首日上海口岸出入境旅客達13.2萬人次 同比增長4.8%】國慶假期，上海口岸迎來新一輪出入境客流高峰。新民晚報記者從上海邊檢總站獲悉，10月1日，上海口岸出入境旅客達13.2萬人次，同比增長4.8%。上海邊檢總站資料顯示，今年以來，上海口岸出入境人員數量持續保持高位執行。前三季度，上海邊檢機關累計查驗出入境人員超3270萬人次，同比增長1.2%；查驗出入境（港）交通運輸工具22萬架（艘）次。"
+    },
+    {
+      "id": "mkt:01a0ffcd-e239-7ee0-a78e-48053542dccd",
+      "time": "2026-10-03 11:27:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O"
+      ],
+      "text": "【Report: TSMC exploring cooperation with Elon Musk's Terafab wafer fab】An independent tech reporter on Oct 3 said TSMC is exploring cooperation with Elon Musk's Terafab wafer fab. Terafab previously reached a partnership with Intel. Separately, sources say TSMC is weighing a second US campus, with Texas—where Terafab is based—seen as a leading candidate."
+    },
+    {
+      "id": "mkt:01a0ffcb-dea3-7ee0-a78e-412a6d412e71",
+      "time": "2026-10-03 11:25:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Vietnam Q3 GDP +9.95% YoY, nears 10% annual target】Vietnam GDP rose 9.95% YoY in Q3, the fastest pace since Q3 2022 and above a 8.65% median forecast and the revised Q2 8.81%, the General Statistics Office said. Growth was driven by higher foreign investment, stronger factory output and large-scale infrastructure spending. Trade surged in September: exports +39.1% YoY (expected 26.6%), imports +45.8% YoY (expected 38.1%), producing a $1.27 bln surplus after eight months of deficit. Committed FDI through September rose 76.4% YoY to $50.4 bln; realized FDI inflows were up 12.1% YoY. September CPI was up 5.08% YoY, marginally below a 5.10% forecast."
+    },
+    {
+      "id": "5124806",
+      "time": "2026-10-03 11:21:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【臺積電或與馬斯克晶圓廠合作】10 月 3 日，科技媒體人 Tim Culpan（高鳴璨）爆料稱，臺積電 (TSMC) 正在探索與 Elon Musk（埃隆 · 馬斯克）旗下 Terafab 晶圓廠的合作事宜。 Terafab 此前已與 Intel（英特爾）達成合作；近來有風聲傳出臺積電考慮在美國設立第二園區，Terafab 所在的得克薩斯州是最可能的落腳點。"
+    },
+    {
+      "id": "5124805",
+      "time": "2026-10-03 11:16:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：“單方面”宣佈韓國對美投資專案後，特朗普又威脅韓國，不同意投資就徵收雙倍費用】據英國《衛報》、《韓國時報》等媒體報道，美國總統特朗普當地時間10月2日威脅稱，如果韓國不同意投資阿拉斯加州的一項液化天然氣管道專案，他將對韓國徵收雙倍關稅。（環球網）"
+    },
+    {
+      "id": "5124804",
+      "time": "2026-10-03 11:15:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破91美元，日內跌超1.9%。"
+    },
+    {
+      "id": "5124803",
+      "time": "2026-10-03 11:15:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "彼得羅巴甫洛夫斯克-堪察加東南163公里處發生5.0級地震。"
+    },
+    {
+      "id": "5124802",
+      "time": "2026-10-03 11:13:46",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普核心內閣成員在戴維營密會數小時，討論伊朗及胡塞衝突下一步行動】據三名美國官員透露，美國總統特朗普的多名核心內閣成員週五在戴維營閉門會談數小時，討論伊朗戰爭以及沙烏地阿拉伯與葉門胡塞武裝衝突的下一步行動。特朗普政府並未對外宣佈此次會議，此類會議極為罕見。上一次舉行類似會議是在2025年6月，當時距離以色列對伊朗開戰僅數日。官員稱，此次會議由副總統萬斯主持。其他與會者包括國務卿魯比奧、國防部長赫格塞思、白宮特使威特科夫、中央情報局局長拉特克利夫，以及參謀長聯席會議主席·凱恩將軍。一名官員談及中東危機時表示：“一些事情已經作出決定，或者至少得到了深入討論。”白宮拒絕置評。此外，週五下午，顧問們在戴維營開會期間，記者問特朗普下一步將如何應對伊朗。特朗普回答說：“如果我告訴你，你們就會有一條重磅新聞。不過，你們拭目以待。事情進展得非常順利。伊朗的處境並不好。”"
+    },
+    {
+      "id": "mkt:01a0ffc0-bba1-7ee0-a78e-38582fc85e89",
+      "time": "2026-10-03 11:13:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【U.S. media: Trump core cabinet holds hours-long Camp David meeting on Iran, Houthi conflict】Three U.S. officials told Axios that multiple senior members of President Trump’s core cabinet met behind closed doors at Camp David on Friday for several hours to discuss next steps on a war with Iran and the Saudi–Houthi conflict in Yemen. The session, chaired by Vice President Vance, included Secretary of State Rubio, Defense Secretary Hegseth, White House envoy Witkoff, CIA Director Ratcliffe and Joint Chiefs Chair Gen. Keane. The meeting was unannounced and unusually rare; officials said the last comparable meeting was in June 2025, days before Israel moved against Iran. An official said some things have been decided, or at least deeply discussed. The White House declined to comment. When asked by reporters during the Camp David gathering, Trump said: If I told you, you’d have blockbuster news. But you’ll see. Things are going very well. Iran is not in a good position."
+    },
     {
       "id": "mkt:01a0ffbe-0d4e-7ee0-a78e-359424eac333",
       "time": "2026-10-03 11:10:40",
