@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-04 01:17:10",
+  "updated": "2026-10-04 01:20:58",
   "count": 11338,
   "items": [
+    {
+      "id": "mkt:01a102c5-e5c0-7ee0-a790-d76e3aad1d07",
+      "time": "2026-10-04 01:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Latvian Prime Minister Kurbels ruled out forming a coalition government with the Latvia First party."
+    },
     {
       "id": "5124997",
       "time": "2026-10-04 01:12:08",
@@ -103965,15 +103973,6 @@
         "XAUUSD"
       ],
       "text": "Israeli i24News cited a security source saying that after Trump rejected Iran's proposal to reopen the Strait of Hormuz, the US Joint Chiefs of Staff are resuming assessments of possible next steps. The source said this does not indicate preparations for an imminent attack."
-    },
-    {
-      "id": "5114417",
-      "time": "2026-09-27 01:19:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤突破99美元，日內漲超2.4%。"
     }
   ]
 }

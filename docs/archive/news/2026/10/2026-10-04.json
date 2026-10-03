@@ -1,7 +1,15 @@
 {
   "date": "2026-10-04",
-  "count": 27,
+  "count": 28,
   "items": [
+    {
+      "id": "mkt:01a102c5-e5c0-7ee0-a790-d76e3aad1d07",
+      "time": "2026-10-04 01:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Latvian Prime Minister Kurbels ruled out forming a coalition government with the Latvia First party."
+    },
     {
       "id": "5124997",
       "time": "2026-10-04 01:12:08",
