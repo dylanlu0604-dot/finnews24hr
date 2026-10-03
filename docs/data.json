@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-03 10:54:03",
-  "count": 11384,
+  "updated": "2026-10-03 10:57:48",
+  "count": 11385,
   "items": [
+    {
+      "id": "5124796",
+      "time": "2026-10-03 10:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交平臺發言支援Katherine Robertson出任亞拉巴馬州總檢察長。"
+    },
+    {
+      "id": "5124795",
+      "time": "2026-10-03 10:53:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【谷歌搭載AI晶片測試衛星發射升空】美國谷歌公司一顆搭載谷歌張量處理單元（TPU）晶片的原型衛星日前發射升空，以測試該晶片在太空環境中的執行效能，研究未來能否在太空部署人工智慧（AI）基礎設施。谷歌方面表示，其團隊已與衛星建立通訊，衛星目前執行正常。谷歌表示，此次發射是一項長期研究的一部分，旨在探索未來能否在太空部署可擴充套件的機器學習基礎設施。（新華社）"
+    },
     {
       "id": "mkt:01a0ffac-d546-7ee0-a78e-1a4d8bb5cb18",
       "time": "2026-10-03 10:51:51",
@@ -104337,14 +104354,6 @@
         "Impact bullish"
       ],
       "text": "【US media: Trump to unveil AI-driven America.gov on Tuesday】Fox News says the Trump administration will unveil an AI-driven government website, America.gov, on Tuesday. Officials will formally unveil and demonstrate the site at a full-day event beginning Tuesday morning at the Andrew Mellon Auditorium in Washington, attended by Trump and Vice President Vance. The site is described as a tool to streamline citizens’ interactions with the federal government. Industry figures expected to attend include Elon Musk, NVIDIA CEO JENSEN HUANG and Blue Origin CEO Dave Limp."
-    },
-    {
-      "id": "5114202",
-      "time": "2026-09-26 10:54:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京：俄羅斯“沒有理由”對歐採取軍事行動】俄羅斯總統普京25日說，俄羅斯不準備對歐洲採取軍事行動，因為“沒有理由這樣做”。普京當天在聖彼得堡出席活動時告訴媒體記者，不少歐洲人稱他們預計俄羅斯“會發動襲擊”，因此必須為相關軍事行動及“對俄戰爭”做準備。“我想再次強調，我們沒有準備對歐洲發起任何軍事行動，我們沒有這類計劃。最重要的是，沒有理由這樣做。”（新華社）"
     }
   ]
 }
