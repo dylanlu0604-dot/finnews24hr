@@ -1,7 +1,15 @@
 {
   "date": "2026-10-03",
-  "count": 399,
+  "count": 400,
   "items": [
+    {
+      "id": "mkt:01a0ffac-d546-7ee0-a78e-1a4d8bb5cb18",
+      "time": "2026-10-03 10:51:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: First officer accused of stabbing captain on Dubai carrier admitted intent to 'crash plane in Israel'】Two U.S. sources said the first officer accused of stabbing the captain during a cockpit confrontation on a Dubai carrier admitted during the investigation that his intent was to \"crash the plane in Israel.\""
+    },
     {
       "id": "mkt:01a0ffa9-7bdb-7ee0-a78e-1227c742b928",
       "time": "2026-10-03 10:48:12",
