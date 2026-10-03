@@ -1,7 +1,45 @@
 {
   "date": "2026-10-03",
-  "count": 613,
+  "count": 617,
   "items": [
+    {
+      "id": "5124951",
+      "time": "2026-10-03 21:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【同比增長超10%！國慶假期，深圳各口岸出入境“熱”力十足】據深視新聞，10月3日，國慶假期第三天深圳各大口岸通關客流量持續高位執行，據初步統計，假期以來多口岸同比增長超10%，據深圳邊檢部門預測，今年國慶假期深圳口岸日均出入境客流量將達97萬人次。"
+    },
+    {
+      "id": "5124950",
+      "time": "2026-10-03 20:59:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克回應臺積電或參與Terafab專案】據最新爆料，臺積電正在探索與SpaceX、特斯拉共同投資發起的Terafab專案展開合作的可能性，並考慮將Terafab作為臺積電未來得克薩斯州晶圓廠的重要客戶。針對相關訊息，馬斯克在社交媒體上回應稱，僅處於討論階段，但“可能會有所進展”。"
+    },
+    {
+      "id": "mkt:01a101d8-a87f-7ee0-a790-0fc6dd07fd5f",
+      "time": "2026-10-03 20:58:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Financial Services Commission will hold an emergency meeting on Sunday to discuss a series of cybersecurity incidents and data breaches. FSC Chairman Lee Eog-Ewon will review the security vulnerabilities and consider response measures."
+    },
+    {
+      "id": "mkt:01a101d7-40a1-7ee0-a790-0744477e829b",
+      "time": "2026-10-03 20:57:26",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US President Trump said he would give every adult US citizen $5,000 if Republicans win both the House and Senate in the 2026 midterm elections, and said he looks forward to signing those checks."
+    },
     {
       "id": "5124949",
       "time": "2026-10-03 20:56:36",

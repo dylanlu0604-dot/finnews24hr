@@ -1,7 +1,45 @@
 {
-  "updated": "2026-10-03 20:57:29",
-  "count": 11404,
+  "updated": "2026-10-03 21:01:40",
+  "count": 11407,
   "items": [
+    {
+      "id": "5124951",
+      "time": "2026-10-03 21:00:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【同比增長超10%！國慶假期，深圳各口岸出入境“熱”力十足】據深視新聞，10月3日，國慶假期第三天深圳各大口岸通關客流量持續高位執行，據初步統計，假期以來多口岸同比增長超10%，據深圳邊檢部門預測，今年國慶假期深圳口岸日均出入境客流量將達97萬人次。"
+    },
+    {
+      "id": "5124950",
+      "time": "2026-10-03 20:59:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬斯克回應臺積電或參與Terafab專案】據最新爆料，臺積電正在探索與SpaceX、特斯拉共同投資發起的Terafab專案展開合作的可能性，並考慮將Terafab作為臺積電未來得克薩斯州晶圓廠的重要客戶。針對相關訊息，馬斯克在社交媒體上回應稱，僅處於討論階段，但“可能會有所進展”。"
+    },
+    {
+      "id": "mkt:01a101d8-a87f-7ee0-a790-0fc6dd07fd5f",
+      "time": "2026-10-03 20:58:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Financial Services Commission will hold an emergency meeting on Sunday to discuss a series of cybersecurity incidents and data breaches. FSC Chairman Lee Eog-Ewon will review the security vulnerabilities and consider response measures."
+    },
+    {
+      "id": "mkt:01a101d7-40a1-7ee0-a790-0744477e829b",
+      "time": "2026-10-03 20:57:26",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US President Trump said he would give every adult US citizen $5,000 if Republicans win both the House and Senate in the 2026 midterm elections, and said he looks forward to signing those checks."
+    },
     {
       "id": "5124949",
       "time": "2026-10-03 20:56:36",
@@ -104512,15 +104550,6 @@
         "國際"
       ],
       "text": "【歐盟擬大力增加衛星發射 尋域外發射場】負責防禦與太空事務的歐盟委員安德留斯·庫比柳斯日前說，歐盟計劃今後數年內大力增加衛星發射，尋求在加拿大等歐盟以外地區開闢發射場。英國《金融時報》26日援引庫比柳斯的話報道，相比2016至2024年期間，歐盟計劃今後8年內把政府衛星的發射數量從近70顆增至近630顆，商業衛星將翻倍至1000顆，國防衛星從大約20顆增至近300顆。庫比柳斯預期，到2034年，歐盟每年所需火箭發射次數將達62次，是目前的6倍。“我們把發射能力作為航天活動中一項非常重要的優先事項，這對我們來說至關重要。”歐盟現階段的航天發射活動主要在位於南美洲法屬蓋亞那的發射場進行。庫比柳斯說，到2034年，該發射場每年的發射能力需從目前每年10次增至14次。另外，歐盟尋求在歐洲大陸及歐盟以外地區開闢發射場，包括挪威、英國的蘇格蘭地區和加拿大，並且需要更多能執行過載荷發射能力的發射場。（新華社）"
-    },
-    {
-      "id": "mkt:01a0ddcc-03cf-7118-86a7-aa8cc4811266",
-      "time": "2026-09-26 20:58:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's Supreme National Security Council denied it was planning military action in response to a ban on Iranian flights, state media reported."
     }
   ]
 }
