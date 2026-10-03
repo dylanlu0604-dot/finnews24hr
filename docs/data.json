@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-04 01:05:35",
-  "count": 11336,
+  "updated": "2026-10-04 01:09:24",
+  "count": 11337,
   "items": [
+    {
+      "id": "mkt:01a102bc-1477-7ee0-a790-c7d18a8d33d8",
+      "time": "2026-10-04 01:07:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Alphabet",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【Bessent downplays rising yields and AI bubble concerns】U.S. Treasury Secretary Bessent said the recent rise in U.S. Treasury yields is consistent with a global trend and does not warrant overreaction. In an Axios interview Saturday he said he would be worried only by an idiosyncratic spike and that he has not seen flows selling U.S. Treasuries to buy Bunds or JGBs. He added he cannot control the bond market and can only urge market participants to pause and reassess. Bessent praised U.S. financial intervention in Argentina, said he is open to similar assistance in future, and called Argentina’s stabilization potentially generational for Latin America’s alignment with the U.S. He also dismissed concerns of an AI bubble, noting heavy investment from Microsoft, Google and Meta and marked revenue growth at Anthropic and OpenAI."
+    },
+    {
+      "id": "5124995",
+      "time": "2026-10-04 01:07:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊朗民航局負責人：伊朗與伊拉克之間航班將於週日恢復，由兩國航空公司執飛。"
+    },
     {
       "id": "5124994",
       "time": "2026-10-04 01:04:52",
@@ -103937,14 +103966,6 @@
         "國際"
       ],
       "text": "土耳其並未就S-400防空導彈系統可能向海外轉移一事與俄羅斯進行過接觸；俄外長拉夫羅夫指出，如果沒有莫斯科的同意，此舉是不可能實現的。"
-    },
-    {
-      "id": "5114415",
-      "time": "2026-09-27 01:06:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長阿拉格齊與聯合國大會主席卡利勒·拉赫曼舉行了會談。"
     }
   ]
 }
