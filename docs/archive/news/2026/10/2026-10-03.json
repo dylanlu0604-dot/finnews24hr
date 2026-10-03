@@ -1,7 +1,33 @@
 {
   "date": "2026-10-03",
-  "count": 405,
+  "count": 408,
   "items": [
+    {
+      "id": "5124800",
+      "time": "2026-10-03 11:07:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年度電影總票房突破300億】截至10月3日2026年度電影總票房（含預售）突破300億元總觀影人次達7.63億放映總場次1.12億場。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a0ffba-d23a-7ee0-a78e-2e0163ff69a6",
+      "time": "2026-10-03 11:07:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's 2026 film box office surpasses 30 billion yuan】As of Oct 3, 2026, China's 2026 film box office (including presales) exceeded 30 billion yuan; total admissions reached 763 million and total screenings 112 million."
+    },
+    {
+      "id": "5124799",
+      "time": "2026-10-03 11:05:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普的國家安全高階助手在戴維營秘密會晤，討論伊朗和葉門問題。"
+    },
     {
       "id": "5124798",
       "time": "2026-10-03 11:01:13",
