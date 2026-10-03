@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-03 16:17:01",
+  "updated": "2026-10-03 16:20:51",
   "count": 11379,
   "items": [
+    {
+      "id": "5124869",
+      "time": "2026-10-03 16:20:05",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：積極迎接房地產的新週期】中信證券指出，以一些城市租金環比上漲為前提，供平過租是房價見底的重要訊號。政策致力於降低居民的置業負擔，相對租房，買房變得越來越划算。建議投資者積極迎接房地產的新週期，看好開發類公司和龍頭經紀企業。"
+    },
+    {
+      "id": "5124868",
+      "time": "2026-10-03 16:19:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤跌破6.6美元，日內跌幅0.2%。"
+    },
+    {
+      "id": "mkt:01a100d6-31c2-7ee0-a78f-27fa7489b423",
+      "time": "2026-10-03 16:16:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China men's football beats Uzbekistan to win Asian Games bronze after 28 years】Oct 3 — China beat Uzbekistan in the Asian Games third-place match to claim the men's football bronze, their first in 28 years. Hu Hetao opened the scoring; the teams were 1-1 at half. Wang Yudong scored in the second half and the match ended 2-2 after 90 minutes. China prevailed in the penalty shootout."
+    },
     {
       "id": "5124867",
       "time": "2026-10-03 16:13:53",
@@ -104281,30 +104308,6 @@
         "公司"
       ],
       "text": "【中瓷電子：公司上游原材料供應均已實現國產化且均能滿足公司需求】中瓷電子(003031)在互動平臺表示，公司電子陶瓷領域的技術優勢主要體現在電子陶瓷新材料、半導體外殼模擬設計、生產工藝等方面。在材料方面，公司掌握多種陶瓷體系的智慧財產權，包括系列化氧化鋁陶瓷和系列化氮化鋁陶瓷以及與其相匹配的金屬化體系。目前公司上游原材料供應均已實現國產化且均能夠滿足公司需求，陶瓷粉體為外購的國產粉體，公司始終重視上游原材料供應的穩定性與質量可控性，以保障產品效能的穩定性與一致性。"
-    },
-    {
-      "id": "mkt:01a0dccd-4722-7118-86a6-c165bce9bc1f",
-      "time": "2026-09-26 16:20:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Saudi-led coalition says it intercepted Houthi missiles and drones】Saudi-led coalition spokesman Turki al-Maliki said in a social media post in the early hours of the 26th the coalition intercepted and destroyed two ballistic missiles launched by Yemen’s Houthi movement toward southwest Saudi city Khamis Mushait and shot down two drones launched toward Riyadh province."
-    },
-    {
-      "id": "5114273",
-      "time": "2026-09-26 16:20:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞截至8月底預算赤字佔國內生產總值(GDP)的比例為2.89%。"
-    },
-    {
-      "id": "mkt:01a0dccb-735f-7118-86a6-be1f4d3f1d26",
-      "time": "2026-09-26 16:18:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Turkish UN envoy says Israeli prime minister morally bankrupt】On Sept. 25, during the 81st UN General Assembly general debate reply segment, a member of Turkey’s UN delegation sharply condemned Israeli Prime Minister Netanyahu, saying multiple delegations walked out during his speech as a diplomatic rebuke. The envoy said Netanyahu has lost credibility, his policies are rejected and his isolation is growing, and argued the international community cannot tolerate hearing from a morally bankrupt leader who, he said, faces arrest warrants for alleged war crimes and crimes against humanity. He added that alleged Israeli crimes in Gaza, the West Bank, Lebanon and Syria will not be forgotten or forgiven."
     }
   ]
 }

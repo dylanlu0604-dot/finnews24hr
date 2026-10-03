@@ -1,7 +1,34 @@
 {
   "date": "2026-10-03",
-  "count": 503,
+  "count": 506,
   "items": [
+    {
+      "id": "5124869",
+      "time": "2026-10-03 16:20:05",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：積極迎接房地產的新週期】中信證券指出，以一些城市租金環比上漲為前提，供平過租是房價見底的重要訊號。政策致力於降低居民的置業負擔，相對租房，買房變得越來越划算。建議投資者積極迎接房地產的新週期，看好開發類公司和龍頭經紀企業。"
+    },
+    {
+      "id": "5124868",
+      "time": "2026-10-03 16:19:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤跌破6.6美元，日內跌幅0.2%。"
+    },
+    {
+      "id": "mkt:01a100d6-31c2-7ee0-a78f-27fa7489b423",
+      "time": "2026-10-03 16:16:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China men's football beats Uzbekistan to win Asian Games bronze after 28 years】Oct 3 — China beat Uzbekistan in the Asian Games third-place match to claim the men's football bronze, their first in 28 years. Hu Hetao opened the scoring; the teams were 1-1 at half. Wang Yudong scored in the second half and the match ended 2-2 after 90 minutes. China prevailed in the penalty shootout."
+    },
     {
       "id": "5124867",
       "time": "2026-10-03 16:13:53",
