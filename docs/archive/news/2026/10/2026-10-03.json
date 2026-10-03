@@ -1,7 +1,27 @@
 {
   "date": "2026-10-03",
-  "count": 385,
+  "count": 387,
   "items": [
+    {
+      "id": "te:economy:589288",
+      "time": "2026-10-03 10:14:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Vietnam Tourist Arrivals Stay Robust — International arrivals to Vietnam grew 16.1% year-on-year to 1.77 million in September 2026, easing from an 18.4% surge in the previous month."
+    },
+    {
+      "id": "5124786",
+      "time": "2026-10-03 10:12:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【老年人購買10月18日至12月30日鐵路12306標註“敬”字車次的火車票將享受“折上折”票價優惠】中國鐵路公眾號訊息，繼今年5至6月實行老年人淡季週中購票優惠措施後，國鐵集團進一步最佳化這一惠民舉措，年滿60週歲及以上老年人購買2026年10月18日（含）至12月30日（含）標註“敬”字車次的火車票將享受“折上折”票價優惠，進一步擴大優惠時間範圍，不再限定週中時段，相關優惠車票將於10月4日起陸續發售。"
+    },
     {
       "id": "te:economy:589287",
       "time": "2026-10-03 10:11:03",

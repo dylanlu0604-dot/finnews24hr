@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-03 10:12:35",
-  "count": 11385,
+  "updated": "2026-10-03 10:16:22",
+  "count": 11384,
   "items": [
+    {
+      "id": "te:economy:589288",
+      "time": "2026-10-03 10:14:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Tourist Arrivals",
+        "Importance 1"
+      ],
+      "text": "Vietnam Tourist Arrivals Stay Robust — International arrivals to Vietnam grew 16.1% year-on-year to 1.77 million in September 2026, easing from an 18.4% surge in the previous month."
+    },
+    {
+      "id": "5124786",
+      "time": "2026-10-03 10:12:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【老年人購買10月18日至12月30日鐵路12306標註“敬”字車次的火車票將享受“折上折”票價優惠】中國鐵路公眾號訊息，繼今年5至6月實行老年人淡季週中購票優惠措施後，國鐵集團進一步最佳化這一惠民舉措，年滿60週歲及以上老年人購買2026年10月18日（含）至12月30日（含）標註“敬”字車次的火車票將享受“折上折”票價優惠，進一步擴大優惠時間範圍，不再限定週中時段，相關優惠車票將於10月4日起陸續發售。"
+    },
     {
       "id": "te:economy:589287",
       "time": "2026-10-03 10:11:03",
@@ -104322,33 +104342,6 @@
         "焦點"
       ],
       "text": "【火車票預約購票最新調整：最遠預約日期由60天逐步調整為30天】9月26日起，鐵路部門對京滬高鐵、京滬鐵路試點的火車票預約購票服務的可預約日期範圍從開車前第60天至第17天，逐步調整為開車前第30天至第17天。旅客透過鐵路12306手機客戶端“預約購票”專區填報預約需求，9月26日當天可預約11月24日前車票；9月27日至10月26日為調整過渡期，最遠可預約11月24日的車票；10月27日起，可常態化預約開車前第30天至17天的火車票。（央視新聞）"
-    },
-    {
-      "id": "5114189",
-      "time": "2026-09-26 10:15:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英飛凌耗資14.4億美元的泰國半導體工廠將於10月1日投產】德國晶片廠商英飛凌科技將於10月1日正式啟用泰國半導體工廠，專案投資超480億泰銖（摺合14.4億美元），助力泰國打造更先進的本土晶片產業。 泰國投資委員會上週五晚間釋出新聞稿稱，本次投資涵蓋功率模組製造、半導體測試以及一座研發中心。 這座泰國工廠將生產用於電動汽車、能源系統與資料中心的功率模組。 該專案預計僱傭超過5000名泰國本地員工。"
-    },
-    {
-      "id": "mkt:01a0db7d-495d-7118-86a5-453616a1041e",
-      "time": "2026-09-26 10:13:36",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【Ghana central bank governor to push local‑currency trade settlement with China】Bank of Ghana Governor Johnson Asiamah said on the 24th the central bank will work with China to promote settling bilateral trade in local currencies to remove reliance on third‑party currency conversion. Ghana is building a cedi–renminbi cross‑currency settlement corridor to eliminate double FX conversions and extra fees, and the central bank has approved a pilot direct cedi–RMB settlement system with Stanbic Bank Ghana (Standard Bank’s Ghana unit) and Ghana Commercial Bank. Asiamah said the Bank of Ghana plans to discuss monetary and financial support with the PBOC at the upcoming IMF and World Bank annual meetings to facilitate implementation of China’s zero‑tariff policy for 53 African countries."
-    },
-    {
-      "id": "5114188",
-      "time": "2026-09-26 10:12:49",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "CNN方面確認，白宮禁止CNN於週六搭乘“空軍一號”。"
     }
   ]
 }
