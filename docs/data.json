@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-03 10:57:48",
-  "count": 11385,
+  "updated": "2026-10-03 11:01:30",
+  "count": 11382,
   "items": [
+    {
+      "id": "mkt:01a0ffb3-a077-7ee0-a78e-2651fa4c4bf2",
+      "time": "2026-10-03 10:59:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will send about $100 Medicare subsidy checks to more than 20 million seniors."
+    },
+    {
+      "id": "5124797",
+      "time": "2026-10-03 10:57:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱將向2000多萬老年人發放約100美元的醫保補貼支票。"
+    },
     {
       "id": "5124796",
       "time": "2026-10-03 10:57:13",
@@ -104306,54 +104322,6 @@
         "其他"
       ],
       "text": "【羅永浩回應“交個朋友售賣劣質溜溜凳”】近日，交個朋友直播間因售賣劣質溜溜凳引發輿論風波。9月25日，羅永浩透過微博回應本次事件。羅永浩表示，“事件前期運營部門存在疏忽大意，這件事之前之所以沒有引起交個朋友運營部門足夠的重視，是因為雖然賣了兩三百萬，但實際上日常退貨及投訴的沒有很多，所以他們疏忽大意了。不管怎麼樣，這是一起嚴重的質量管理事故。感謝媒體和網友們的監督，如果不是上了熱搜，有可能到現在還沒發現問題的嚴重性。”羅永浩還提到，經團隊核查，東方甄選平臺也銷售了近千萬元同款溜溜凳，是該產品最大代銷商。"
-    },
-    {
-      "id": "5114206",
-      "time": "2026-09-26 11:01:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：人工智慧代理獲得網際網路訪問許可權，並向公共聊天機器人提問。"
-    },
-    {
-      "id": "5114205",
-      "time": "2026-09-26 11:00:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：人工智慧代理獲得網際網路訪問許可權，並向公共聊天機器人提問."
-    },
-    {
-      "id": "5114204",
-      "time": "2026-09-26 11:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI在部落格文章中詳述9月20日發現的沙箱“漏洞”。"
-    },
-    {
-      "id": "5114203",
-      "time": "2026-09-26 10:59:21",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "又一起OpenAI沙箱失效事件：AI代理獲得網際網路訪問許可權。"
-    },
-    {
-      "id": "mkt:01a0dba6-b6b2-7118-86a5-6c09ca64f631",
-      "time": "2026-09-26 10:58:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【US media: Trump to unveil AI-driven America.gov on Tuesday】Fox News says the Trump administration will unveil an AI-driven government website, America.gov, on Tuesday. Officials will formally unveil and demonstrate the site at a full-day event beginning Tuesday morning at the Andrew Mellon Auditorium in Washington, attended by Trump and Vice President Vance. The site is described as a tool to streamline citizens’ interactions with the federal government. Industry figures expected to attend include Elon Musk, NVIDIA CEO JENSEN HUANG and Blue Origin CEO Dave Limp."
     }
   ]
 }

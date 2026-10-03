@@ -1,7 +1,23 @@
 {
   "date": "2026-10-03",
-  "count": 402,
+  "count": 404,
   "items": [
+    {
+      "id": "mkt:01a0ffb3-a077-7ee0-a78e-2651fa4c4bf2",
+      "time": "2026-10-03 10:59:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will send about $100 Medicare subsidy checks to more than 20 million seniors."
+    },
+    {
+      "id": "5124797",
+      "time": "2026-10-03 10:57:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱將向2000多萬老年人發放約100美元的醫保補貼支票。"
+    },
     {
       "id": "5124796",
       "time": "2026-10-03 10:57:13",
