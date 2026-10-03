@@ -1,7 +1,41 @@
 {
   "date": "2026-10-04",
-  "count": 38,
+  "count": 41,
   "items": [
+    {
+      "id": "mkt:01a102d8-e110-7ee0-a791-0dad10d283b4",
+      "time": "2026-10-04 01:38:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Tasnim news agency reported Iran's air defense system shot down an enemy drone over southern Qeshm Island."
+    },
+    {
+      "id": "5125003",
+      "time": "2026-10-04 01:38:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據塔斯尼姆通訊社：伊朗空中防禦系統在南部的格什姆島擊落了一架敵方無人機。"
+    },
+    {
+      "id": "mkt:01a102d6-933b-7ee0-a791-04b109b67342",
+      "time": "2026-10-04 01:36:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The commander of Germany's army ground forces said Europe must respond to the Russian threat with forces capable of fighting successfully, and that Moscow is expanding its military capabilities, developments he said are being witnessed in concrete ways."
+    },
     {
       "id": "mkt:01a102d5-a6fa-7ee0-a790-fdb89af7a844",
       "time": "2026-10-04 01:35:18",

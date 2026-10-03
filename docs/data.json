@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-04 01:36:11",
-  "count": 11342,
+  "updated": "2026-10-04 01:39:59",
+  "count": 11340,
   "items": [
+    {
+      "id": "mkt:01a102d8-e110-7ee0-a791-0dad10d283b4",
+      "time": "2026-10-04 01:38:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Tasnim news agency reported Iran's air defense system shot down an enemy drone over southern Qeshm Island."
+    },
+    {
+      "id": "5125003",
+      "time": "2026-10-04 01:38:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據塔斯尼姆通訊社：伊朗空中防禦系統在南部的格什姆島擊落了一架敵方無人機。"
+    },
+    {
+      "id": "mkt:01a102d6-933b-7ee0-a791-04b109b67342",
+      "time": "2026-10-04 01:36:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The commander of Germany's army ground forces said Europe must respond to the Russian threat with forces capable of fighting successfully, and that Moscow is expanding its military capabilities, developments he said are being witnessed in concrete ways."
+    },
     {
       "id": "mkt:01a102d5-a6fa-7ee0-a790-fdb89af7a844",
       "time": "2026-10-04 01:35:18",
@@ -103963,50 +103997,6 @@
         "國際"
       ],
       "text": "風暴導致美國東北部超10萬使用者斷電，超400架航班被取消。"
-    },
-    {
-      "id": "mkt:01a0decb-4117-7118-86a9-7b2df03142cd",
-      "time": "2026-09-27 01:37:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said there will be intensive diplomatic activity in the coming days and through October aimed at changing the situation."
-    },
-    {
-      "id": "mkt:01a0decb-14a8-7118-86a9-723262341040",
-      "time": "2026-09-27 01:37:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said the US assessment of the situation aligns with Ukraine’s and urged efforts to change Russia’s will by redirecting funding away from the war toward other sectors to create an incentive for Russia to end the conflict."
-    },
-    {
-      "id": "mkt:01a0deca-a3dd-7118-86a9-68c89a75392a",
-      "time": "2026-09-27 01:36:57",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Ukraine President Zelenskiy said Russia currently has no intention of ending the war. He said Putin repeatedly finds excuses to avoid meetings, rejects a trilateral talks mechanism and refuses dialogue, an end to the conflict or to stop the killings."
-    },
-    {
-      "id": "5114423",
-      "time": "2026-09-27 01:36:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：在接下來的幾天和10月份，將會有大量外交活動來改變局勢。"
-    },
-    {
-      "id": "5114422",
-      "time": "2026-09-27 01:36:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：很明顯，俄羅斯人並沒有準備停止衝突。至少現在沒有。"
     }
   ]
 }
