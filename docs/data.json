@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-03 10:46:30",
-  "count": 11384,
+  "updated": "2026-10-03 10:50:17",
+  "count": 11385,
   "items": [
+    {
+      "id": "mkt:01a0ffa9-7bdb-7ee0-a78e-1227c742b928",
+      "time": "2026-10-03 10:48:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil police probe suspected plot targeting US diplomatic missions】On Oct. 2 Brazil’s Federal Police executed search warrants in Brasilia and São Paulo in an investigation into an alleged plot to attack the US embassy and consulates; the probe remains confidential. Officers acted against two suspects, seizing computers and mobile phones for forensic analysis; the US suspended in-person consular services in Brazil and the Australian embassy in Brasilia closed that day citing \"security concerns.\""
+    },
+    {
+      "id": "5124794",
+      "time": "2026-10-03 10:47:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西警方就美駐巴使館安全事件展開調查】當地時間10月2日，巴西聯邦警察釋出公報稱，警方當天在巴西利亞和聖保羅兩地分別執行搜查令，就一起涉嫌策劃襲擊美國駐巴西大使館和領事館的事件展開調查。公報稱，該調查目前仍處於保密狀態。巴西警員針對2名嫌疑人採取行動，繳獲其電腦和手機並進行鑑定分析。美國駐巴西使領館2日因“安全問題”暫停線下領事服務。澳大利亞駐巴西大使館同日因“安全問題”關閉。（央視新聞）"
+    },
+    {
+      "id": "5124793",
+      "time": "2026-10-03 10:46:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒：迪拜航空客機涉嫌刺傷機長的副駕駛承認意圖“墜毀飛機”】訊息人士稱，在迪拜航空公司客機駕駛艙衝突事件中涉嫌刺傷機長的副駕駛在調查中承認，他的意圖是“在以色列墜毀該飛機”。（新華社）"
+    },
     {
       "id": "5124791",
       "time": "2026-10-03 10:35:06",
@@ -104330,23 +104355,6 @@
         "公司"
       ],
       "text": "【德國大眾擬召回約286萬輛汽車】根據德國聯邦汽車運輸管理局25日釋出的宣告，德國汽車製造商大眾汽車集團當天證實，因轉向系統存在隱患，將在全球範圍內召回約286萬輛汽車，其中在德國召回約96萬輛。受影響的車型包括2013年至2024年間生產的大眾途觀、途安和高爾夫等車型，以及2017年至2024年間生產的奧迪車型。德國聯邦汽車運輸管理局表示，涉及召回的相關車輛，其轉向系統的固定螺栓可能因腐蝕而斷裂，極端情況下可能引發轉向失靈。"
-    },
-    {
-      "id": "5114197",
-      "time": "2026-09-26 10:50:01",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【意媒：北約軍演期間一意軍裝甲車突然向另一意軍裝甲車掃射，致4人受傷】據義大利《24小時太陽報》9月26日報道，在一場在拉脫維亞舉行的北約實彈軍事演習期間發生一起意外的友傷事件，一輛意軍裝甲車突然向另一輛意軍裝甲車開機關槍掃射，造成4名義大利士兵受傷。據報道，目前意軍方沒有披露有關裝甲車型號的詳細資訊，也沒有透露對事件原因的初步推測，例如人為錯誤、通訊故障或武器系統故障。意軍強調，此次事件僅涉及本國軍隊，與其他國家無關。（環球網）"
-    },
-    {
-      "id": "mkt:01a0db9c-b10b-7118-86a5-588b5d244e4d",
-      "time": "2026-09-26 10:47:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese navy hospital ship \"Peace Ark\" makes first visit to Senegal】On the morning of the 25th local time the Chinese navy hospital ship \"Peace Ark\", on the \"Harmony Mission-2026\", arrived in Dakar for its first visit to Senegal. The ship will provide onboard medical services; mission teams will visit local hospitals, conduct outreach to an orphanage and hold goodwill exchanges with Senegalese military personnel, including a basketball match."
     }
   ]
 }
