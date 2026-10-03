@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-04 01:32:23",
+  "updated": "2026-10-04 01:36:11",
   "count": 11342,
   "items": [
+    {
+      "id": "mkt:01a102d5-a6fa-7ee0-a790-fdb89af7a844",
+      "time": "2026-10-04 01:35:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Yemeni armed forces spokesperson said Saudi Arabia carried out 60 airstrikes and missile attacks in the past 24 hours, striking civilian facilities in Sana'a, Sa'dah, Taiz, al-Hajjah and Marib provinces."
+    },
     {
       "id": "mkt:01a102cd-e44c-7ee0-a790-f664059f0962",
       "time": "2026-10-04 01:26:50",
@@ -103995,14 +104007,6 @@
         "國際"
       ],
       "text": "澤連斯基：很明顯，俄羅斯人並沒有準備停止衝突。至少現在沒有。"
-    },
-    {
-      "id": "5114421",
-      "time": "2026-09-27 01:32:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國議員們猛烈抨擊了特朗普的一項計劃，該計劃擬收回政府各部門已獲國會批准的逾8億美元支出。議員們指出，總統無權在聯邦資金的使用方向上違抗國會。"
     }
   ]
 }
