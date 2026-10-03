@@ -1,7 +1,33 @@
 {
   "date": "2026-10-04",
-  "count": 34,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:01a102cd-e44c-7ee0-a790-f664059f0962",
+      "time": "2026-10-04 01:26:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Latvia's prime minister said any economic ties with Russia would weaken Latvia and Moscow would exploit them."
+    },
+    {
+      "id": "mkt:01a102cd-6d7c-7ee0-a790-ec828fd7c47d",
+      "time": "2026-10-04 01:26:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Flights between Iran and Najaf, Iraq, will resume on Sunday, the Iraqi state news agency said."
+    },
+    {
+      "id": "5125002",
+      "time": "2026-10-04 01:24:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克國家通訊社：伊朗與伊拉克納傑夫之間的航班將於週日恢復。"
+    },
     {
       "id": "5125001",
       "time": "2026-10-04 01:23:33",

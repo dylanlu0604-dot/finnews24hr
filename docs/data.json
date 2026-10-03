@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-04 01:24:50",
-  "count": 11342,
+  "updated": "2026-10-04 01:28:38",
+  "count": 11343,
   "items": [
+    {
+      "id": "mkt:01a102cd-e44c-7ee0-a790-f664059f0962",
+      "time": "2026-10-04 01:26:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Latvia's prime minister said any economic ties with Russia would weaken Latvia and Moscow would exploit them."
+    },
+    {
+      "id": "mkt:01a102cd-6d7c-7ee0-a790-ec828fd7c47d",
+      "time": "2026-10-04 01:26:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Flights between Iran and Najaf, Iraq, will resume on Sunday, the Iraqi state news agency said."
+    },
+    {
+      "id": "5125002",
+      "time": "2026-10-04 01:24:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克國家通訊社：伊朗與伊拉克納傑夫之間的航班將於週日恢復。"
+    },
     {
       "id": "5125001",
       "time": "2026-10-04 01:23:33",
@@ -103985,22 +104011,6 @@
         "其他"
       ],
       "text": "【英國將向首次購房者提供貸款，以提升住房自有率】英國政府將推出一項新的貸款計劃，幫助首次購房者購買新建住房，首付比例低至2.5%，並提供相當於房價20%的權益貸款。該計劃名為“你的第一個家”（Your First Home），資金將透過削減政府其他預算來籌集，財政大臣希利將在下個月的預算案中公佈具體細節。該計劃的預註冊將於2026年底前開放，發放的貸款在初期將享有免息期，同時房地產開發商也將為該計劃的運營提供資金支援。"
-    },
-    {
-      "id": "5114419",
-      "time": "2026-09-27 01:28:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國各界高度評價習近平主席歷史性訪問】國家主席習近平26日圓滿結束對美國的國事訪問回到北京。訪美期間，習近平主席與特朗普總統就中美建設性戰略穩定關係及重大國際地區問題深入交換意見，達成八點成果共識。美國各界人士高度評價習近平主席的美國之行，表示這次訪問進一步豐富了中美關係定位的內涵，並在經貿領域取得互惠互利的成果。他們認為，習近平主席的成功訪問在中美關係發展史上寫下濃墨重彩的一筆，為中美關係巨輪行穩致遠指明航向、注入動力，有利於增進兩國人民福祉、維護世界和平穩定。（新華社）"
-    },
-    {
-      "id": "mkt:01a0dec1-e791-7118-86a9-61b4ebf404ed",
-      "time": "2026-09-27 01:27:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran, Iraq likely to announce new flight arrangements soon, ambassador says】IRNA quoted Iran’s ambassador to Iraq as saying officials are in talks and a new decision on flight arrangements is likely soon. He said roughly 12,000–13,000 passengers travel daily on Iran Air services between the two countries. Earlier reports said Iraq is negotiating with the US for exemptions for some airports from US aviation sanctions targeting firms that do business with Iran Air."
     }
   ]
 }
