@@ -1,7 +1,19 @@
 {
   "date": "2026-10-03",
-  "count": 390,
+  "count": 391,
   "items": [
+    {
+      "id": "te:economy:589291",
+      "time": "2026-10-03 10:20:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Foreign Direct Investment",
+        "Importance 1"
+      ],
+      "text": "FDI Into Vietnam Rises 12.1% in Jan-Sept — Foreign direct investment (FDI) disbursed in Vietnam rose 12.1% year-on-year to USD 21.07 billion in the first nine months of 2026, marking the highest level of realized FDI for the first nine months of a year in the past five years."
+    },
     {
       "id": "mkt:01a0ff8e-aa3e-7ee0-a78e-05026008e3a0",
       "time": "2026-10-03 10:18:54",
