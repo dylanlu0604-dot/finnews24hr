@@ -1,7 +1,421 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-10-03 21:52:18_
-_本檔包含 2167 則快訊，約 437645 字_
+_更新時間：2026-10-04 01:55:20_
+_本檔包含 2190 則快訊，約 436496 字_
+
+---
+
+### 2026-09-30 17:39:21  #公司
+
+【伊利股份：為全資子公司提供8億元連帶責任擔保】伊利股份公告稱，2026年9月29日，公司與中國民生銀行股份有限公司香港分行簽署最高額保證合同，為全資子公司香港金港商貿控股有限公司的銀行授信及項下貸款業務提供連帶責任保證擔保，擔保最高債務本金為8億元人民幣。本次擔保在前期股東會審議透過的91億元擔保額度內，無需另行審議。截至2026年9月29日，公司及控股子公司對外擔保餘額87.41億元，佔最近一期經審計淨資產比例為15.99%，對外擔保逾期累計金額0.52億元。
+
+---
+
+### 2026-09-30 17:39:11  #市場 #國際
+
+【伊朗股市今日大漲17.2萬點，大盤指數漲2.26%，突破770萬點關口】伊朗德黑蘭證券交易所基準TEDPIX指數今日上漲171,586點，漲幅2.26%，收於7,766,538點，突破770萬點關口，約83%的市場標的上漲。
+
+---
+
+### 2026-09-30 17:38:52  #國際
+
+印度資訊部長：印度將新季國內菜籽收購價上調至每100公斤6613盧比。
+
+---
+
+### 2026-09-30 17:38:20  #國際
+
+印度新聞資訊部宣佈：該國將新季國內小麥收購價上調至每100公斤2610盧比。
+
+---
+
+### 2026-09-30 17:38:15  #公司
+
+【拓新藥業：實際控制人等增持計劃實施過半，已增持33.33萬股】拓新藥業公告，公司控股股東、實際控制人、董事、高階管理人員及核心骨幹人員計劃自2026年6月30日公告披露之日起6個月內增持公司股份，擬增持金額不低於人民幣600萬元、不超過人民幣1200萬元。截至2026年9月29日，增持計劃實施期限已過半，增持主體合計增持33.33萬股，佔公司總股本的0.26%，增持金額為人民幣706.45萬元（不含交易費用）。
+
+---
+
+### 2026-09-30 17:38:03  #Trading Economics #Markets #United Kingdom #Government Bond 10Y #Importance 1
+
+UK Gilt Yields Ease but September Selloff Deepens — UK 10-year gilt yields hovered below 5.4% at the end of September, slightly below a 19-year high reached earlier in the month, as markets became more cautious about further central bank rate hikes. Despite this, gilts endured a sharp selloff over the month, with yields rising 23 bps. Higher energy prices stoked inflation concerns, while expectations that the AI boom could support economic growth strengthened the case for higher-for-longer interest rates. Market sentiment improved on Wednesday as central bankers pushed back against expectations of rapid and sustained tightening. Bank of England policymaker Alan Taylor played down the need for rate hikes to address the UK’s energy crunch, contrasting with more hawkish comments earlier in the month from other MPC members, including Governor Andrew Bailey. In the US, Fed's John Williams likewise said there was time to assess incoming data before raising rates again. Meanwhile, upward revised figures showed UK GDP grew 0.5% in Q2.
+
+---
+
+### 2026-09-30 17:38:00  #MKT News #Market Regions #Greater China
+
+【National Flood Control HQ, Ministry of Emergency Management launch level-4 flood emergency for Chongqing, Guizhou】Meteorological forecasts project heavy to torrential rain in parts of Chongqing and Guizhou over the next three days. Persistent, overlapping rainfall raises elevated risks of mountain floods, geological hazards, floods on small and medium rivers, and urban waterlogging. Citing the National Flood Control and Drought Relief Emergency Plan and relevant rules, the National Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management activated a level-4 flood emergency response for Chongqing and Guizhou at 16:00 on September 30.
+
+---
+
+### 2026-09-30 17:37:55  #Trading Economics #Economy #Zambia #Interest Rate #Importance 1
+
+Central Bank of Zambia Trims Policy Rate for 4th Time — The Central Bank of Zambia slashed its key policy rate by 250 basis points to 10.75% at its meeting on September 30, 2026, marking the fourth consecutive cut. The move was supported by a sustained disinflationary process underway since early 2025. Annual inflation eased further to 6.1% in September, its lowest level since February 2018, helped by the suspension of fuel taxes, a zero-rated value-added tax and a resilient currency.
+
+---
+
+### 2026-09-30 17:37:22  #國際
+
+印度資訊部長：內閣已批准2027-28種植季冬播作物的定價政策，涉及金額為9096.2億盧比。
+
+---
+
+### 2026-09-30 17:37:15  #公司
+
+【勝科奈米：回覆定增稽核問詢函 事項尚存不確定性】勝科奈米公告稱，公司於2026年8月25日收到上交所出具的向特定物件發行股票申請檔案稽核問詢函，目前公司已會同相關中介機構就問詢函所列問題逐項落實並回復，相關回復內容同日在上交所網站披露。本次向特定物件發行股票事項尚需透過上交所稽核，並獲得中國證監會同意註冊後方可實施，最終能否透過稽核及獲得註冊、相關時間均存在不確定性。
+
+---
+
+### 2026-09-30 17:37:12  #公司
+
+【招商銀行：非執行董事石岱辭任】招商銀行公告稱，公司董事會收到非執行董事石岱的辭任函，石岱因工作變動原因，請辭非執行董事、董事會戰略與可持續發展委員會委員職務，辭任自2026年9月30日起生效。石岱離任後不在公司及其控股子公司任職，不存在未履行完畢的公開承諾。本次離任不會導致公司董事會成員低於法定人數，相關工作交接已完成。
+
+---
+
+### 2026-09-30 17:37:01  #其他
+
+【國慶檔新片預售票房突破5000萬 動畫電影表現亮眼】電影國慶檔明日將正式開啟，截至今天15時24分，2026年國慶檔新片預售總票房已突破5000萬元，市場熱度持續升溫。其中，《小豬佩奇·完美假期》等親子動畫電影的預售成績格外亮眼。（央視新聞）
+
+---
+
+### 2026-09-30 17:36:49  #公司
+
+【湖北星辰3D先進封裝量產通線 專案一期、二期合計投資超70億元】今日，湖北星辰技術有限公司先進封裝中試平臺二期專案正式通線。據其介紹，該專案為國內首條3D先進封裝量產線。星辰技術先進封裝綜合實驗平臺一期、二期合計投資超70億元，其中二期專案於2025年10月開工。產線全面建成後，可同步承載40至50款晶片的中試與風險量產，以及30至40套國產半導體裝置與材料的效能驗證。
+
+---
+
+### 2026-09-30 17:36:17  #Trading Economics #Economy #Albania #GDP Annual Growth Rate #Importance 1
+
+Albania GDP Growth Eases to 3.61% in Q2 — Albania's GDP grew 3.61% year-on-year in the second quarter of 2026, easing slightly from 3.71% in the previous quarter. The largest gains were recorded for public administration, education and health (12.1% vs 14% in Q1), followed by real estate activities (7.2% vs 9%), trade, transport, accommodation and food services (5.5% vs 1.6%), financial and insurance (3.5% vs 5%), information and communication (2.6% vs 2.6%), construction (1.4% vs 3.4%) and industry, electricity and water (0.5% vs -2.1%). In contrast, agriculture, forestry and fishing (-2.3% vs -0.5%), professional and administrative activities (-2.2% vs 7.2%) and arts, entertainment and recreation (-2.1% vs -3.5%) weighed down on the growth. On a quarterly basis, the economy expanded 0.8%, the same pace as in the previous quarter.
+
+---
+
+### 2026-09-30 17:36:16  #公司
+
+【華升股份：重大資產重組事項被上交所中止稽核】華升股份公告稱，公司擬透過發行股份及支付現金方式購買深圳易信科技股份有限公司97.40%股份，並向控股股東湖南興湘投資控股集團有限公司發行股份募集配套資金。因本次交易申請檔案中標的公司財務資料已過有效期，需補充提交相關資料，上交所對本次交易中止稽核。本次中止稽核不會對交易產生重大不利影響，公司將推進財務資料更新及加期審計等工作，完成後報送更新材料並申請恢復稽核。本次交易尚需上交所稽核透過及證監會同意註冊，能否獲批及獲批時間存在不確定性。
+
+---
+
+### 2026-09-30 17:36:08  #公司
+
+【大智慧：重大資產重組事項被上交所中止稽核】大智慧公告稱，公司與湘財股份推進的湘財股份換股吸收合併大智慧並募集配套資金事項，因申請檔案中財務資料已過有效期需更新補充提交，於2026年9月30日收到上交所中止稽核通知。本次中止稽核不會對交易產生重大不利影響，公司及相關中介機構正推進財務資料及申請檔案更新工作，待完成後將盡快報送更新材料並申請恢復稽核。本次交易尚需上交所稽核透過及證監會同意註冊，最終能否透過及取得註冊時間存在不確定性。
+
+---
+
+### 2026-09-30 17:35:58  #公司
+
+【唐源電氣：轉讓攀西釩鈦41%股權完成工商備案】唐源電氣公告，公司此前擬將持有的攀西釩鈦41%股權以人民幣1988.18萬元轉讓給再興釩鈦，相關事項已獲股東會審議透過；目前公司已收到第一筆價款人民幣1013.97萬元，攀西釩鈦已完成股東認繳出資額調整、章程修訂以及董事、高階管理人員變更等工商備案手續，公司持股降至16%，不再納入合併報表範圍，第二筆人民幣974.21萬元將於2026年11月30日前支付。
+
+---
+
+### 2026-09-30 17:35:56  #公司
+
+【正和生態：金河科技增資後持股43.7982%】正和生態公告，公司控股股東匯恆投資擬發生股權結構變更，金河科技與匯恆投資簽署的《增資協議》於2026年9月29日正式生效；變更後金河科技持有匯恆投資43.7982%股權，匯恆投資仍為公司控股股東，張熠君仍為實際控制人。
+
+---
+
+### 2026-09-30 17:35:47  #公司 #國際
+
+保時捷歐洲股份公司：原告方主張54億歐元損害賠償的訴訟請求不成立。
+
+---
+
+### 2026-09-30 17:35:43  #公司 #國際
+
+保時捷歐洲股份公司：德國聯邦法院確認策勒高等地區法院作出的有利於保時捷歐洲股份公司的判決。
+
+---
+
+### 2026-09-30 17:35:39  #其他
+
+【國家防總、應急管理部針對重慶、貴州啟動防汛四級應急響應】據氣象部門預報，未來三天，重慶、貴州部分地區有大到暴雨，上述地區近期持續陰雨天氣，降雨重疊度高，山洪和地質災害、中小河流洪水、城市內澇等風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於9月30日16時針對重慶、貴州啟動防汛四級應急響應。（央視新聞）
+
+---
+
+### 2026-09-30 17:35:19  #央行 #國際
+
+日本核心經濟顧問委員會的私營部門委員呼籲日本央行與政府開展密切協調，同時強調必須尊重央行獨立性。
+
+---
+
+### 2026-09-30 17:35:11  #國際
+
+【伊朗稱已收到美方對其重開霍爾木茲海峽提議的回覆】當地時間30日，伊朗政府發言人穆哈傑拉尼表示，在當天的政府內閣會議上，外交部長阿拉格齊彙報了其紐約之行及所舉行的一系列會議的情況，其中包括伊方透過調解方向美國提交的關於重新開放霍爾木茲海峽條件的提議。阿拉格齊稱，已收到美方對該提議的回覆。伊方暫未透露更多細節。伊朗外長阿拉格齊28日表示，伊朗已透過卡達調解方提出重開霍爾木茲海峽和推進談判的條件，卡達將把方案轉交美國，伊方正等待美方正式回應。同日，美國總統特朗普證實美伊透過調解方交換資訊，但否認有關其願有條件解除對伊制裁的報道。（央視新聞）
+
+---
+
+### 2026-09-30 17:35:08  #MKT News
+
+Private-sector members of a major Japanese economic advisory panel urged the Bank of Japan to coordinate closely with the government while stressing respect for the central bank's independence.
+
+---
+
+### 2026-09-30 17:35:07  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Heads for 7% Monthly Gain — Brent crude rose back toward $97 a barrel on Wednesday and was heading for a monthly gain of more than 7% as uncertainty over US-Iran negotiations continued to support prices. Iranian government spokesperson Fatemeh Mohajerani said Tehran had received a US proposal concerning the reopening of the Strait of Hormuz, following the submission of Iran’s own conditions last week. Despite the diplomatic uncertainty, Middle East crude supplies have recovered close to pre-war levels. Saudi Arabia has restarted shipments from Yanbu after restoring operations on its East-West pipeline, which provides an alternative route around Hormuz. The 10-day average of Middle East crude exports is estimated at 17.5 million barrels a day, equivalent to 98% of pre-war volumes. In the US, API data showed crude and gasoline inventories increased last week, while distillate stocks declined. Official EIA figures were due later Wednesday, with analysts expecting overall crude and product inventories to have fallen.
+
+---
+
+### 2026-09-30 17:34:57  #MKT News
+
+European Commission said the Consumer Protection Cooperation (CPC) network’s action aims to protect gamers’ rights.
+
+---
+
+### 2026-09-30 17:34:41  #MKT News #Market Regions #Europe & UK
+
+European Commission says it has launched EU-level coordinated action targeting nine video-game companies.
+
+---
+
+### 2026-09-30 17:34:38  #公司
+
+【瀾起科技：截至9月30日累計回購金額4.10億元】瀾起科技公告稱，公司回購股份用途為維護公司價值及股東權益，回購金額區間為3億元-6億元，回購實施期限為2026年7月24日至2026年10月23日。2026年9月公司透過集中競價交易方式回購股份117.80萬股，佔總股本的0.10%，回購價格區間為184.14元/股-200.58元/股，支付金額22738.73萬元。截至2026年9月30日，公司累計回購股份208.80萬股，佔總股本的0.17%，回購價格區間為184.14元/股-210.00元/股，累計支付金額41022.80萬元。
+
+---
+
+### 2026-09-30 17:34:34  #國際
+
+印度內閣批准冬季作物（Rabi crops）最低支援價格。
+
+---
+
+### 2026-09-30 17:34:25  #公司
+
+【晶華新材：截至9月30日累計回購股份244.70萬股】晶華新材公告稱，公司回購股份方案實施期限為2026年7月19日至2026年10月18日，擬使用資金總額不低於5000萬元且不超過1億元，回購價格不超過45.98元/股，回購用途為維護公司價值及股東權益。2026年9月，公司透過集中競價交易方式回購股份50.14萬股，佔總股本比例0.17%，回購價區間為14.92元/股-14.95元/股，支付金額749.59萬元。截至2026年9月30日，公司累計回購股份244.70萬股，佔總股本比例0.84%，回購價區間為14.92元/股-15.50元/股，累計支付總金額3749.31萬元。
+
+---
+
+### 2026-09-30 17:34:02  #央行 #其他
+
+尚比亞央行行長：預計尚比亞2026年通脹率平均為6.7%，2027年為6%。
+
+---
+
+### 2026-09-30 17:34:00  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Rebounds to $90 — Crude oil climbed back above $90 a barrel on Wednesday and was heading for a monthly gain of more than 5% as uncertainty over US-Iran negotiations continued to support prices. Iranian government spokesperson Fatemeh Mohajerani said Tehran had received a US proposal concerning the reopening of the Strait of Hormuz, following the submission of Iran’s own conditions last week. Despite the diplomatic uncertainty, Middle East crude supplies have recovered close to pre-war levels. Saudi Arabia has restarted shipments from Yanbu after restoring operations on its East-West pipeline, which provides an alternative route around Hormuz. The 10-day average of Middle East crude exports is estimated at 17.5 million barrels a day, equivalent to 98% of pre-war volumes. In the US, API data showed crude and gasoline inventories increased last week, while distillate stocks declined. Official EIA figures were due later Wednesday, with analysts expecting overall crude and product inventories to have fallen.
+
+---
+
+### 2026-09-30 17:33:32  #MKT News #Market Regions #Europe & UK #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
+
+Bank of England's FPC says the risk of a sharp market correction persists as yields rise.
+
+---
+
+### 2026-09-30 17:33:17  #MKT News
+
+Bank of England's FPC said if AI-driven growth fails to materialize as expected, government bonds would face new risks.
+
+---
+
+### 2026-09-30 17:33:09  #其他
+
+英國衛生大臣庫珀：將釋出社會護理勞動力規劃。
+
+---
+
+### 2026-09-30 17:32:58  #MKT News #Market Themes #AI Revolution
+
+Bank of England's FPC said vulnerabilities in frontier AI underscore the need for financial institutions to prepare for associated risks and to engage with UK authorities.
+
+---
+
+### 2026-09-30 17:32:51  #公司
+
+【同花順成立智慧科技公司 含AI相關業務】企查查APP顯示，近日，杭州同順智慧科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；軟體外包服務；網路技術服務；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由同花順全資持股。
+
+---
+
+### 2026-09-30 17:32:49  #MKT News
+
+Bank of England FPC says the Bank will publish proposed bank leverage-ratio and gilt-repo reforms in early 2027.
+
+---
+
+### 2026-09-30 17:32:43  #國際
+
+歐盟委員會：此次消費者保護合作（CPC）網路開展的行動，旨在保護遊戲玩家權益。
+
+---
+
+### 2026-09-30 17:32:38  #MKT News #Market Regions #Europe & UK
+
+Bank of England's FPC said UK households and businesses remain resilient and the banking system is well capitalised; countercyclical capital buffer held at 2%.
+
+---
+
+### 2026-09-30 17:32:35  #其他
+
+伯恩斯坦研究啟動對思科覆蓋，給予“市場表現”評級，目標價110美元。
+
+---
+
+### 2026-09-30 17:32:32  #MKT News #Market Regions #Greater China
+
+China's National Press and Publication Administration updated its 2026 approvals for imported online games, adding three newly approved titles.
+
+---
+
+### 2026-09-30 17:32:17  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #DXY #Impact bullish #S&P500
+
+Bank of England's FPC says high-risk credit markets, including some private credit segments, remain vulnerable to tighter financing conditions.
+
+---
+
+### 2026-09-30 17:32:08  #國際
+
+歐盟委員會：已針對九家電子遊戲企業啟動歐盟層面的協同行動。
+
+---
+
+### 2026-09-30 17:32:06  #MKT News
+
+Bank of England's FPC said more testing of AI models, both pre- and post-deployment, is required before implementing regulation.
+
+---
+
+### 2026-09-30 17:32:01  #MKT News #Star Stocks #Tencent #0700.HK #Impact bullish #0981.HK #Impact bearish #1109.HK
+
+Southbound Stock Connect net bought RMB 6.864 billion today. Via Hong Kong Stock Connect (Shanghai), Tencent and CNOOC were top net buys at HKD 723 million and HKD 339 million respectively; SMIC was the largest net seller at HKD 162 million. Via Hong Kong Stock Connect (Shenzhen), Tencent and CHINA RES LAND led net buying at HKD 684 million and HKD 254 million respectively; SMIC was the top net seller at HKD 809 million.
+
+---
+
+### 2026-09-30 17:31:51  #其他
+
+南非統計局公佈，南非8月整體生產者通脹率環比下降0.4%。
+
+---
+
+### 2026-09-30 17:31:45  #資料 #市場
+
+南非統計局：南非8月整體生產者物價指數（PPI）同比上漲5.0%，7月漲幅為5.7%，市場共識預期為5.6%。
+
+---
+
+### 2026-09-30 17:31:42  #其他
+
+南非統計局公佈，南非8月生產者物價指數整體同比資料為環比下降0.4%，7月為環比下降1.0%，市場預測值為環比上升0.2%。
+
+---
+
+### 2026-09-30 17:31:39  #MKT News #Commodities #Energy #Macro & Rates #Treasury Yields #Market Regions #Europe & UK
+
+Bank of England's FPC said financial markets have so far shown resilience to high energy prices and elevated bond yields.
+
+---
+
+### 2026-09-30 17:31:34  #其他
+
+英國英格蘭銀行金融政策委員會：逆週期資本緩衝維持在2%。
+
+---
+
+### 2026-09-30 17:31:30  #MKT News
+
+Bank of England's FPC says planned market-based gilt repo reforms will reduce risks from changes in leverage ratios.
+
+---
+
+### 2026-09-30 17:31:30  #央行 #其他
+
+英國央行金融政策委員會：英國家庭與企業仍保持韌性，銀行體系資本充足水平符合要求。
+
+---
+
+### 2026-09-30 17:31:21  #宏觀
+
+英格蘭銀行行長貝利：在出臺監管規定之前，需要在人工智慧模型部署前後對其開展更多測試。
+
+---
+
+### 2026-09-30 17:31:15  #其他
+
+斯里蘭卡9月份平均年通貨膨脹率同比上升4.5%。
+
+---
+
+### 2026-09-30 17:31:13  #MKT News #Commodities #Energy #Brent #Impact bullish #GBPUSD #Impact mixed
+
+Bank of England's FPC said higher oil and gas prices have made the supply shock more persistent.
+
+---
+
+### 2026-09-30 17:31:08  #其他
+
+英國海上貿易行動辦公室（UKMTO）：據報告，一艘油輪於9月29日遭投射物擊中。
+
+---
+
+### 2026-09-30 17:31:03  #央行 #其他
+
+英國央行（BOE）稱：AI（相關資產）回撥可能衝擊主權債務市場。
+
+---
+
+### 2026-09-30 17:31:03  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100 #DXY #Impact bullish
+
+Bank of England's FPC said the likelihood of financial risks materializing simultaneously has risen since July.
+
+---
+
+### 2026-09-30 17:30:52  #央行 #其他
+
+英國央行金融政策委員會：計劃中的金邊債券回購市場化改革將緩解槓桿率變化帶來的風險。
+
+---
+
+### 2026-09-30 17:30:46  #央行 #市場
+
+英國央行金融政策委員會：迄今為止，金融市場對能源價格上漲和債券收益率上升表現出韌性。
+
+---
+
+### 2026-09-30 17:30:41  #央行 #市場
+
+英國央行金融政策委員會：央行將在2027年初公佈擬議的銀行槓桿率改革方案及英國國債回購改革方案。
+
+---
+
+### 2026-09-30 17:30:38  #央行 #其他
+
+英國央行金融政策委員會：前沿人工智慧遭入侵事件凸顯金融機構需做好風險防範，並與英國當局保持溝通。
+
+---
+
+### 2026-09-30 17:30:33  #其他
+
+英格蘭銀行金融政策委員會（FPC）：自7月以來，金融風險同時集中爆發的可能性有所上升。
+
+---
+
+### 2026-09-30 17:30:30  #央行 #市場
+
+英國央行金融政策委員會：油氣價格上漲導致供給衝擊更具持續性。
+
+---
+
+### 2026-09-30 17:30:19  #其他
+
+伯恩斯坦啟動對Coherent覆蓋，給予“跑贏大盤”評級，目標價為350美元。
+
+---
+
+### 2026-09-30 17:30:16  #公司
+
+【三星電子：到2029年晶圓代工客戶數量將增至4倍，HPC收入佔比擴大至66%】據報道，三星電子晶圓代工事業部高階副總裁盧美貞於近日的投資者關係活動上公佈了中長期業務計劃。目前該部門客戶數量已達到2017年的約3倍，預計到2029年將進一步提升至約4倍。同時，高效能運算（HPC）業務佔晶圓代工收入的比例已從2017年的5%提升至目前的28%，公司計劃到2029年提高至66%。
+
+---
+
+### 2026-09-30 17:30:02  #MKT News #Market Regions #Japan & APAC
+
+Japan's Prime Minister Takaichi said the government will clarify the direction of economic and fiscal policy management.
+
+---
+
+### 2026-09-30 17:29:47  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #S&P500 #DXY #Impact bearish
+
+【Euro CDS costs fall as market sentiment improves】Euro credit-default swap costs eased after Micron Technology (MU.O) posted strong results, boosting risk appetite, while soft US economic data and comments from Fed officials trimmed odds of another rate hike next month. iTraxx Europe Crossover, the euro high-yield CDS gauge, fell 5bps to 296bps, though S&P Global Market Intelligence shows it remains near Tuesday’s nearly six-month high of 301bps. IG analysts said “strong earnings and AI enthusiasm” have outweighed market concerns about high borrowing costs.
 
 ---
 
@@ -12832,281 +13246,5 @@ Reserve Bank of India Governor Das said India's economy continues to perform str
 ### 2026-09-29 18:03:24  #宏觀 #公司
 
 【財政部：經辦銀行結合網籤備案及房屋買賣合同等有關情況，做好貼息資格稽核工作】財政部公告，實施居民購房貸款貼息政策。貼息資金撥付採取“預撥＋結算”方式。壓實主體責任。經辦銀行結合網籤備案及房屋買賣合同等有關情況，做好貼息資格稽核工作；嚴格履行審貸職責，做好貸款資金受託支付、分類統計、資料監測等方面工作；建立報表統計制度，按月向財政部和省級財政部門報送貸款發放、貼息資金使用情況，抄送中國人民銀行、金融監管總局；簽訂貸款合同時，以適當方式告知貼息比例、貼息期限、貼息額度等要素，確保借款人知曉政策內容；按月收息時，自動扣除對應貼息金額，實現“免申即享”，並透過手機簡訊、APP訊息等方式告知借款人國家政策享受情況。
-
----
-
-### 2026-09-29 18:03:11  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CSI300
-
-【China to subsidize interest on residential mortgages from Oct. 1】China's Ministry of Finance said it will from Oct. 1 provide interest subsidies on newly issued commercial personal housing loans to lower homebuying costs and support first‑time, necessity-driven urban and rural demand. The subsidy targets ordinary families buying small, lower-priced units (unit area ≤120 sqm; purchase price ≤1.5 mln yuan). Eligible loan principal is capped at 1.0 mln yuan; the fiscal subsidy equals 1 percentage point (100 bps) annually for up to five years, about a one-third reduction versus current first‑home commercial mortgage rates. The ministry estimates the policy could reduce cumulative interest paid by up to roughly 50,000 yuan on a long-term 1.0 mln yuan mortgage.
-
----
-
-### 2026-09-29 18:03:03  #其他
-
-諾和諾德公佈COMPETE SWITCH CV研究結果。
-
----
-
-### 2026-09-29 18:02:52  #宏觀 #公司
-
-【財政部：貼息資金撥付採取“預撥＋結算”方式】財政部公告，實施居民購房貸款貼息政策。貼息資金撥付採取“預撥＋結算”方式。省級財政部門與全國性銀行省級分行、地方法人銀行總行、民營銀行總行和外資銀行境內總部（以下統稱經辦銀行省行）對接建立“省對省”工作機制，縮短工作鏈條，高效開展貼息資金預撥、稽核、結算、清算等各項工作。經辦銀行無省級分支機構的，由總部與註冊地省級財政部門對接。 經辦銀行省行於政策出臺後首月及每年1月底前，向當地省級財政部門提出當年貼息資金申請。省級財政部門於政策出臺後第2個月及每年2月底前，彙總經辦銀行省行貼息資金申請並報財政部。財政部根據年度預算安排，向省級財政部門預撥中央財政貼息資金，省級財政部門組織做好地方貼息資金保障。結合政策實施情況，財政部與省級財政部門、省級財政部門與經辦銀行省行分別結算貼息資金。貼息期滿後，財政部門與經辦銀行辦理貼息資金清算。
-
----
-
-### 2026-09-29 18:02:31  #宏觀
-
-財政部：貼息資金由中央財政、地方財政分別按照90%、10%承擔。其中，省級及以下財政分擔比例由省級財政部門結合實際自主確定。
-
----
-
-### 2026-09-29 18:02:27  #MKT News #Important
-
-China's Ministry of Finance said interest-subsidy costs will be borne 90% by the central budget and 10% by local budgets; provincial finance departments will autonomously set the split for provincial and lower-level governments based on local conditions.
-
----
-
-### 2026-09-29 18:02:11  #行業 #公司 #焦點
-
-【財政部：貸款購買商品住房的居民家庭符合條件可享受中央財政貼息政策支援】財政部公告，實施居民購房貸款貼息政策。貸款購買商品住房的居民家庭，同時符合以下條件的，可享受中央財政貼息政策支援：1.使用新發放商業性個人住房貸款購買首套住房，不包括使用新發放商業性個人住房貸款置換存量貸款；2.所購住房建築面積在120平方米以下（含120平方米）；3.所購住房價格在150萬元以下（含150萬元）。（財政部）
-
----
-
-### 2026-09-29 18:01:29  #其他
-
-Oura：自啟動IPO流程以來，業務進一步增強。
-
----
-
-### 2026-09-29 18:01:19  #市場 #國際
-
-印度盧比<INR=IN>收盤基本持平，兌美元報1美元兌95.98盧比，前收盤價為1美元兌95.9825盧比。
-
----
-
-### 2026-09-29 18:01:11  #其他
-
-Oura因市場不確定性推遲IPO。
-
----
-
-### 2026-09-29 18:01:11  #央行 #中國央行
-
-【央行：增加科技創新和技術改造再貸款額度2000億元】中國人民銀行調整完善若干貨幣政策工具，增加科技創新和技術改造再貸款額度2000億元，並將該項再貸款支援比例統一從60%提高至100%。調增後，科技創新和技術改造再貸款額度從1.2萬億元增至1.4萬億元，且支援比例更高，有助於引導銀行加大對中小科技型企業貸款投放，更好地支援企業擴大重點領域裝置更新投資。
-
----
-
-### 2026-09-29 18:01:11  #央行 #中國央行
-
-【央行：增加支農支小再貸款額度5000億元】中國人民銀行調整完善若干貨幣政策工具，增加支農支小再貸款額度5000億元，其中民營企業再貸款額度增加3000億元。調增後，支農支小再貸款和再貼現額度從4.35萬億元增至4.85萬億元，其中民營企業再貸款額度從1萬億元增至1.3萬億元，將進一步激勵地方法人銀行加大對涉農、小微企業，尤其是中小微民營企業的信貸支援。
-
----
-
-### 2026-09-29 18:00:45  #宏觀
-
-【居民房貸貼息政策10月1日起實施 】財政部、中國人民銀行、金融監管總局9月29日聯合對外發布通知，明確自2026年10月1日起，實施居民購房貸款貼息政策，政策實施期暫定1年。這是中央財政首次對商業性個人住房貸款進行貼息。此次釋出的通知明確，對同時符合以下條件的居民家庭給予貼息支援：一是使用新發放的商業性個人住房貸款購買首套住房，不包括存量貸款置換；二是所購住房建築面積不超過120平方米；三是所購住房價格不超過150萬元。根據通知，可享受貼息的貸款規模最高可達100萬元，財政部門給予年化1個百分點的貼息，貼息期限最長5年。
-
----
-
-### 2026-09-29 18:00:02  #宏觀
-
-財政部：實施居民購房貸款貼息政策。
-
----
-
-### 2026-09-29 18:00:02  #MKT News #Important #CSI300 #Impact bullish #CNH #Copper
-
-China's Ministry of Finance said it will implement an interest-subsidy policy for residential home-purchase loans.
-
----
-
-### 2026-09-29 17:59:55  #央行
-
-【央行：增加科技創新和技術改造再貸款額度2000億元】 中國人民銀行調整完善若干貨幣政策工具，增加科技創新和技術改造再貸款額度2000億元，並將該項再貸款支援比例統一從60％提高至100％。調增後，科技創新和技術改造再貸款額度從1.2萬億元增至1.4萬億元，且支援比例更高，有助於引導銀行加大對中小科技型企業貸款投放，更好地支援企業擴大重點領域裝置更新投資。
-
----
-
-### 2026-09-29 17:59:28  #國際
-
-【以總理密訪阿聯酋，辛貝特狀告以媒“走漏風聲”】以色列國家安全總局（辛貝特）28日要求軍事審查機構對以色列第12頻道電視臺採取法律行動，稱後者在總理內塔尼亞胡密訪阿拉伯聯合大公國回國途中就把訊息捅了出去，屬於“嚴重違反軍事審查規定”。第12頻道電視臺27日援引訊息人士的說法率先披露，內塔尼亞胡當天中午搭乘一架私人飛機前往阿聯酋首都阿布扎比並在當地停留4個小時，其中1個小時與阿聯酋總統穆罕默德會談。次日，這家電視臺繼續爆料，稱會談在阿布扎比一座機場舉行。以總理府28日發表宣告說，辛貝特當天向軍事審查機構投訴，第12頻道電視臺於27日晚9時38分報道相關訊息，當時內塔尼亞胡搭乘的返程飛機尚未進入以色列領空，報道不僅危及出訪人員，還對此次行動本身以及以軍構成威脅。（新華社）
-
----
-
-### 2026-09-29 17:59:13  #市場
-
-美元兌日元USD/JPY短線拉昇逾30點，最新報157.70。
-
----
-
-### 2026-09-29 17:59:13  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Holds At $105 — Brent crude fluctuated above $105 a barrel on Tuesday as markets weighed efforts to ease Middle East tensions against continued uncertainty over US-Iran negotiations. Saudi Arabia has restored roughly half the flows through its East-West pipeline, with shipments to the Red Sea reaching at least 3.5 million barrels a day. The route provides a crucial alternative to exports through the Strait of Hormuz and is helping offset the lack of progress in diplomatic talks. US and Iranian officials have continued separate discussions with mediators, including indirect contacts through Qatar, as regional governments push for ceasefire negotiations. However, Iranian officials have privately expressed doubts that an agreement can be reached before the US midterm elections in November. President Donald Trump has rejected an Iranian proposal to restore full traffic through Hormuz and denied reports that Washington offered sanctions relief in exchange for nuclear concessions.
-
----
-
-### 2026-09-29 17:59:12  #MKT News #Market Regions #Greater China
-
-【China's WTO reform proposal on development wins positive response from members】On the 28th, the WTO held a reform meeting on the development track. China's permanent representative to the WTO introduced China's 'Further Thoughts and Proposals on WTO Reform', laying out systematic positions on the role of development in WTO reform; the proposal drew broad attention and positive responses from members. China proposed that members first map concrete opportunities and challenges for developing members' integration into the multilateral trading system, then comprehensively review existing rules, tools and mechanisms and, where necessary, explore new solutions.
-
----
-
-### 2026-09-29 17:59:11  #央行
-
-【央行：將新型電網、算力網、新一代通訊網等“六張網”建設納入PSL支援領域】中國人民銀行調整完善若干貨幣政策工具，擴大抵押補充貸款（PSL）支援領域。將水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”建設納入抵押補充貸款支援領域，引導政策性銀行加大對“六張網”建設的金融支援，助力擴大有效投資，深入挖掘內需潛力。
-
----
-
-### 2026-09-29 17:59:04  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY #EURUSD #Impact bearish
-
-USD/JPY surged just over 30 pips intraday to 157.70.
-
----
-
-### 2026-09-29 17:59:01  #國際
-
-【中方世貿組織改革提案關於發展的建議獲成員積極回應】世界貿易組織28日舉行“發展軌道”改革專題會議。中國常駐世貿組織代表李詠箑在會上介紹《中方關於世貿組織改革的進一步思考和建議》提案，圍繞發展議題在世貿組織改革中的定位等議題提出系統主張，得到各方廣泛關注和積極回應。李詠箑指出，世貿組織成立30多年來，發展中經濟體在全球經濟和貿易中的比重顯著上升，但許多發展中成員在出口多元化、生產能力提升等方面仍面臨制約。中方主張始終將發展置於世貿組織改革的中心位置，並以問題導向的方式推進具體討論；世貿組織改革的“發展軌道”應發揮統籌作用，處理跨委員會、跨協定的系統性問題。（新華社）
-
----
-
-### 2026-09-29 17:58:38  #Trading Economics #Markets #Commodity #Importance 1
-
-Oil Fluctuates on Tuesday — Crude oil fluctuated above $92 a barrel on Tuesday as markets weighed efforts to ease Middle East tensions against continued uncertainty over US-Iran negotiations. Saudi Arabia has restored roughly half the flows through its East-West pipeline, with shipments to the Red Sea reaching at least 3.5 million barrels a day. The route provides a crucial alternative to exports through the Strait of Hormuz and is helping offset the lack of progress in diplomatic talks. US and Iranian officials have continued separate discussions with mediators, including indirect contacts through Qatar, as regional governments push for ceasefire negotiations. However, Iranian officials have privately expressed doubts that an agreement can be reached before the US midterm elections in November. President Donald Trump has rejected an Iranian proposal to restore full traffic through Hormuz and denied reports that Washington offered sanctions relief in exchange for nuclear concessions.
-
----
-
-### 2026-09-29 17:58:27  #央行 #中國央行
-
-【央行：將新型電網、算力網、新一代通訊網等“六張網”建設納入PSL支援領域】中國人民銀行調整完善若干貨幣政策工具，擴大抵押補充貸款（PSL）支援領域。將水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”建設納入抵押補充貸款支援領域，引導政策性銀行加大對“六張網”建設的金融支援，助力擴大有效投資，深入挖掘內需潛力。
-
----
-
-### 2026-09-29 17:57:35  #公司
-
-【*ST利達：公司股票存在可能被終止上市的風險】*ST利達公告稱，公司因連續2個會計年度財務報告內部控制被出具否定意見的審計報告，股票於2026年4月29日起被實施退市風險警示，後續若未滿足撤銷退市風險警示條件，公司股票存在可能被終止上市的風險，公司將每月披露一次風險提示公告。2026年半年度公司實現營業收入4.14億元，同比減少53.86%；淨虧損0.46億元，同比減少552.57%。截至公告披露日，公司控股股東柯利達集團持股18.74%，質押比例95.56%；實控人顧益明、顧龍棣、顧佳合計持股8.97%，質押比例54.26%。
-
----
-
-### 2026-09-29 17:57:30  #公司
-
-【東陽光：控股股東提議6億元-12億元回購股份】東陽光公告稱，公司於2026年9月29日收到控股股東深圳市東陽光實業發展有限公司的回購提議，擬以自有或自籌資金透過集中競價方式回購公司A股股份，回購資金規模不低於6億元（含）且不超過12億元（含），回購價格不超過董事會透過回購決議前30個交易日公司股票交易均價的150%，實施期限為董事會審議透過回購方案之日起6個月內。深圳東陽光實業此前披露2026年7月31日起6個月內增持公司股份計劃，增持金額不低於3億元、不高於6億元，承諾增持期間及法定期限內不減持所持公司股份。本次回購事項尚需履行審批程式，存在不確定性。
-
----
-
-### 2026-09-29 17:56:43  #公司
-
-【電投水電：擬與重慶公司簽訂委託管理協議，年收費6700萬元】電投水電公告，公司擬與國家電投集團重慶電力有限公司簽署《委託管理協議》，由公司對重慶公司實施經營管理，協議自簽訂生效之日起至2028年12月31日，管理費用按每年6700萬元（含稅）收取。重慶公司為公司實際控制人國家電投集團全資子公司，本次構成關聯交易；相關議案已獲公司第十一屆董事會第七次（臨時）會議審議透過。
-
----
-
-### 2026-09-29 17:54:40  #MKT News #Important #CSI300 #Impact bullish #CNH #Hang Seng Index
-
-People's Bank of China raised the re-lending and rediscount quota for agriculture and small businesses by 500 billion yuan, including a 300 billion yuan increase earmarked for private enterprises. The quota rises to 4.85 trillion yuan from 4.35 trillion yuan; the private-enterprise re-lending allocation increases to 1.3 trillion yuan from 1.0 trillion yuan. PBOC said the move will further encourage locally incorporated banks to expand credit to agricultural borrowers and small, micro and private enterprises.
-
----
-
-### 2026-09-29 17:54:24  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index #Copper
-
-PBOC raises the re-lending quota for tech innovation and technological transformation by 200 billion yuan to 1.4 trillion yuan and increases the facility's support ratio from 60% to 100%, aiming to steer banks to expand lending to SME tech firms and to support corporate equipment upgrades.
-
----
-
-### 2026-09-29 17:54:21  #央行 #宏觀
-
-【央行：下調抵押補充貸款（PSL）利率0.25個百分點】為貫徹中央政治局會議精神和國務院常務會議部署，實施好適度寬鬆的貨幣政策，中國人民銀行在充分發揮各項存量政策效能的基礎上，決定進一步調整完善幾項貨幣政策工具，為經濟平穩增長、高質量發展和金融市場穩定執行創造適宜的貨幣金融環境，推動經濟持續向新向優向好發展，支援“十五五”實現良好開局。一是下調抵押補充貸款（PSL）利率0.25個百分點。一年期抵押補充貸款利率從1.75%降至1.5%，更好激勵政策性銀行支援實體經濟、服務國家戰略。二是擴大抵押補充貸款支援領域。將水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”建設納入抵押補充貸款支援領域，引導政策性銀行加大對“六張網”建設的金融支援，助力擴大有效投資，深入挖掘內需潛力。三是增加科技創新和技術改造再貸款額度2000億元，並將該項再貸款支援比例統一從60%提高至100%。調增後，科技創新和技術改造再貸款額度從1.2萬億元增至1.4萬億元，且支援比例更高，有助於引導銀行加大對中小科技型企業貸款投放，更好地支援企業擴大重點領域裝置更新投資。四是增加支農支小再貸款額度5000億元，其中民營企業再貸款額度增加3000億元。
-
----
-
-### 2026-09-29 17:54:17  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CNH #Impact mixed
-
-PBOC expands the scope of Pledged Supplementary Lending (PSL) to include construction of six networks — water networks, new-type power grids, computing power networks, next‑generation communications networks, urban underground pipe networks and logistics networks — and will guide policy banks to step up financing for these projects to help expand effective investment and deepen domestic demand.
-
----
-
-### 2026-09-29 17:53:50  #其他
-
-中國人民銀行：下調抵押補充貸款（PSL）利率0.25個百分點。一年期抵押補充貸款利率從1.75%降至1.5%，更好激勵政策性銀行支援實體經濟、服務國家戰略。
-
----
-
-### 2026-09-29 17:53:45  #央行 #中國央行
-
-【中國人民銀行調整完善若干貨幣政策工具】下調抵押補充貸款（PSL）利率0.25個百分點。一年期抵押補充貸款利率從1.75%降至1.5%，更好激勵政策性銀行支援實體經濟、服務國家戰略。擴大抵押補充貸款支援領域。將水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”建設納入抵押補充貸款支援領域，引導政策性銀行加大對“六張網”建設的金融支援，助力擴大有效投資，深入挖掘內需潛力。增加科技創新和技術改造再貸款額度2000億元，並將該項再貸款支援比例統一從60%提高至100%。
-
----
-
-### 2026-09-29 17:53:42  #MKT News #Important #Macro & Rates #CNH #Impact bearish #Copper #Impact bullish #Hang Seng Index
-
-PBOC cut the mortgage-supplementary lending (PSL) rate by 25 bps, lowering the one-year PSL rate to 1.50% from 1.75%. The central bank said the reduction aims to better incentivize policy banks to support the real economy and national strategic priorities.
-
----
-
-### 2026-09-29 17:53:25  #MKT News #Important
-
-PBOC adjusts and refines several monetary policy tools.
-
----
-
-### 2026-09-29 17:53:24  #其他
-
-中國人民銀行調整完善若干貨幣政策工具。（中國人民銀行）
-
----
-
-### 2026-09-29 17:52:48  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Emerging Markets #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-【Thailand targets short-term debt to address rising bond volatility】Amid global bond market volatility driven by rising US Treasury yields, Thailand may shift toward short-term financing to meet government borrowing needs for fiscal 2027, the Public Debt Management Office director-general Jindarat said. The office is weighing greater issuance of treasury bills, term loans and promissory notes and is assessing investor demand across maturities; new issuance may be shorter-dated. It may initially raise and refinance via short-term instruments and convert to longer-term securities when market conditions improve; financing for SOE projects and programs under emergency decree may likewise begin as term loans or promissory notes to better match project timelines.
-
----
-
-### 2026-09-29 17:52:47  #公司
-
-【清華大學經濟管理學院顧問委員會新增3人：黃仁勳、蘇姿豐、百達銘】據清華大學經濟管理學院顧問委員會官方釋出的資訊顯示，今年顧問委員會新增委員3人，新增接任委員5人。3位新增委員分別是英偉達創始人兼執行長黃仁勳（Jensen Huang），AMD董事會主席兼執行長蘇姿豐（Lisa Su），瑞士百達集團高階管理合夥人百達銘（Marc Pictet）。5位新增接任委員分別是寶馬集團董事長聶科維（Milan Nedeljković），沃爾瑪公司總裁兼執行長方威翰（John Furner），可口可樂公司執行長柏瑞凱（Henrique Braun），泛大西洋資本集團聯席總裁、全球成長型股權投資負責人馬丁·埃斯科瓦里（Martín Escobari），bp集團執行長梅格·奧尼爾（Meg O‘Neill）。上述5位接任委員所在公司的前任都曾是學院顧問委員會委員，因工作變動不再擔任。
-
----
-
-### 2026-09-29 17:52:42  #Trading Economics #Economy #Belgium #Inflation Rate #Importance 1
-
-Belgium Inflation Rate Climbs to Highest Since 2023 — Belgium’s annual inflation rate climbed to 4.69% in September 2026, its highest level since May 2023, from 3.97% in the previous month. Energy inflation accelerated sharply to 24.4% from 16.5%, while inflation for housing and utilities surged to 9.5% from 6.9%. Transport inflation also increased to 7% from 5.3%. Additional upward pressure came from higher price growth in health (6.7% vs 6.6%), information and communication (1.9% vs 1.6%), and restaurants and hotels (5.1% vs 3.7%). In contrast, inflation in recreation, sports and culture eased to 8.9% from 9.2%, while food prices were unchanged from a year earlier, following a 0.3% increase in August. On a monthly basis, consumer price growth remained broadly stable, with prices rising 0.39% after a 0.41% increase in August.
-
----
-
-### 2026-09-29 17:52:38  #公司
-
-【九華旅遊：聘任張國祥為副總經理 擬投建多個改造專案】九華旅遊公告稱，公司第九屆董事會第十七次會議審議透過多項議案：聘任張國祥為公司副總經理，任期與本屆董事會一致；擬以自有資金投建九華山百歲宮纜車升級改造專案，總投資估算1.12億元；投建五溪山色大酒店C區改造專案，總投資估算706.88萬元；投建九華山中心大酒店北樓客房升級改造專案，總投資估算5150.00萬元；擬透過公開招標實施勞務外包服務集中採購，年度交易金額上限2165萬元，服務期3年。會議同意於2026年10月15日召開2026年第二次臨時股東會。
-
----
-
-### 2026-09-29 17:52:04  #公司
-
-【九華旅遊：董事會透過1.12億元纜車升級專案】九華旅遊公告，公司擬以自有資金投資建設九華山百歲宮纜車升級改造專案，專案總投資估算為人民幣1.12億元。2026年9月29日，公司第九屆董事會第十七次會議審議透過該議案，本專案已完成可行性研究、立項備案等工作，無需提交股東會審議。
-
----
-
-### 2026-09-29 17:51:23  #公司
-
-【大唐電信：轉讓合同權益獲董事會透過，9935.22萬元】大唐電信公告，公司擬向關聯方聯芯科技有限公司轉讓《研發樓認購協議》及《研發樓認購補充協議》的部分合同權益，轉讓價格9935.22萬元。2026年9月29日，公司董事會審議透過相關議案，關聯董事迴避表決；本次交易尚需提交股東會審議。
-
----
-
-### 2026-09-29 17:51:16  #市場 #國際
-
-印度Nifty 50指數<.NSEI>指示性點位下跌2.49%，延續盤前競價階段0.42%的跌幅。
-
----
-
-### 2026-09-29 17:50:50  #公司 #市場
-
-【津藥藥業：股票交易異常波動 上半年業績下滑】津藥藥業公告稱，公司股票於2026年9月28日、9月29日連續兩個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動情形。經自查並向控股股東、間接控股股東函詢，截至公告披露日，公司及控股股東不存在應披露而未披露的重大事項。上海上實及上實投發意向出讓合計持有的上海琉璃光100%股份，相關國有股權已於2026年9月24日公開掛牌披露，目前尚無意向受讓方。公司2026年半年度實現營業收入13.13億元，同比下降17.33%；歸母淨利潤4317.35萬元，同比下降12.43%；扣非歸母淨利潤4286.81萬元，同比下降63.24%。敬請投資者注意投資風險。
-
----
-
-### 2026-09-29 17:50:43  #公司 #市場
-
-【*ST華幸：股票交易異常波動 提示重整等相關風險】*ST華幸公告稱，公司股票於2026年9月24日、9月28日、9月29日連續三個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動情形。經自查及向控股股東、實控人核實，除已披露的簽署重整投資協議事項外，不存在其他應披露未披露的重大事項，董監高、控股股東及實控人在異動期間未買賣公司股票。公司已與相關方簽署重整投資協議，存在投資人履約風險；廊坊中院受理預重整不代表正式受理重整申請，公司是否進入重整程式存在重大不確定性。公司2025年末歸母淨資產為負，已被實施退市風險警示及其他風險警示，2026年上半年淨虧損46.92億元，存在終止上市風險。
-
----
-
-### 2026-09-29 17:50:41  #Trading Economics #Economy #Botswana #GDP Annual Growth Rate #Importance 1
-
-Botswana GDP Growth Hits Near 5-Year High — Botswana’s economy grew by 8.7% yoy in Q2 2026, its fastest pace since Q3 2021, accelerating from 3.5% in the prior period. The expansion was largely driven by an 81.7% surge in mining & quarrying, reflecting strong growth in the diamond mining sub-industry. Diamond production jumped 94.7% on higher processing volumes at the Orapa and Jwaneng mines and improved recovered grades. Coal output rose 27.8% and copper 4.0%, while soda ash and salt production fell 68.0% following a planned maintenance shutdown at the Botash plant. Other sectors also expanded, led by professional, scientific & technical activities (3.8%); accommodation & food services (3.4%); education (3.3%) and wholesale & retail trade (3.1%). Conversely, output delined sharply for agriculture, forestry & fishing (-23%) and diamond traders (-27.9%). On a quarterly basis, the GDP rose by 1.3% in Q2, following a 9.2% expansion in the prior quarter.
 
 ---

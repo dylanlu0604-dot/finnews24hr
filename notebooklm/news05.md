@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-03 21:52:18_
-_本檔包含 2198 則快訊，約 437191 字_
+_更新時間：2026-10-04 01:55:20_
+_本檔包含 2094 則快訊，約 436249 字_
+
+---
+
+### 2026-09-28 19:45:37  #Trading Economics #Economy #Brazil #Current Account #Importance 1
+
+Brazil Current Account Deficit Deepens More Than Expected — Brazil’s current account deficit widened to $5.06 billion in August 2026, from $3.78 billion a year earlier, well above market expectations for a $4.9 billion shortfall. The deterioration was driven by a widening of 28.2% of the services deficit to $5.3 billion, largely due to higher net transportation expenses (28.3%), intellectual property costs (52.4%), telecommunications, computing and information services (128.2%), and equipment rental (6.6%). The primary income deficit also widened to $7 billion, driven by higher expenses on profits and dividends. In contrast, the goods trade surplus widened to $6.6 billion, as exports rose 12.1% year-on-year, outpacing 9.4% growth in imports. The secondary income surplus also rose to $528 million. Over the twelve months to August, the current account deficit rose to 2.47% of GDP.
+
+---
+
+### 2026-09-28 19:24:20  #Trading Economics #Markets #South Africa #Currency #Importance 0
+
+South African Rand at Near 2-Month Low — The South African rand traded around 16.4 per USD, its weakest level since early August, as stalled US-Iran negotiations pushed oil prices higher, weighing on risk-sensitive currencies in oil-importing economies. At the same time, heightened geopolitical uncertainty boosted safe-haven demand for the greenback, while declines in key precious metals prices removed support for the rand. Locally, the South African Reserve Bank raised its key repo rate to 7.25% on September 23, following similar decisions by the Fed and the ECB. Governor Kganyago cited renewed upside risks to the inflation outlook and stressed the need to bring inflation back to the SARB’s 3% target, reaffirming the central bank’s commitment to price stability. The Reserve Bank noted the global fuel-price shock had intensified recently and raised its near-term inflation forecasts accordingly. Headline inflation ticked up to 4.4% in August from 4.3% in July, but is expected to accelerate in the next few months.
+
+---
+
+### 2026-09-28 19:16:33  #央行 #英國央行
+
+【英國央行副行長Ramsden稱利率可能不得不上調】英國央行副行長Ramsden稱利率可能不得不上調，內部加息呼聲日漸高漲。
+
+---
+
+### 2026-09-28 18:51:52  #央行 #美聯儲
+
+【美國重磅資料本週登場 料強化美聯儲10月加息理由】本週即將公佈的幾項重要經濟資料預計將進一步顯示美國經濟正在走強，從而為多位美聯儲官員有關利率應當進一步上調的主張提供更多依據。
+
+---
+
+### 2026-09-28 18:51:27  #Trading Economics #Economy #India #Industrial Production #Importance 2
+
+India Industrial Output Growth Beats Expectations — India’s industrial production growth accelerated to 8.0% year-on-year in August 2026, up from an upwardly revised 7.4% in July and well above market expectations of 6.5%. Manufacturing output rose 9.0%, accelerating from 8.2% in July, led by electrical equipment (30.9%), motor vehicles (25.2%), rubber and plastics products (21.4%), computer, electronic and optical products (19.3%), fabricated metal products (16.9%), textiles (13.1%), and machinery and equipment (10.3%). Among other major industries, basic metals production increased 2.4% and food products rose 2.8%, while output contracted in coke and refined petroleum products (-0.6%) and chemicals and chemical products (-0.5%). Elsewhere, electricity and gas supply growth accelerated to 12.3% from 8.7% in July, while mining and quarrying output fell 5.6%, following a 0.9% decline in the previous month.
+
+---
+
+### 2026-09-28 18:22:35  #Trading Economics #Economy #Macedonia #Producer Prices Change #Importance 1
+
+Macedonia Producer Inflation Hits 1½-Year High — The annual producer inflation rate in North Macedonia rose to 7.1% in August 2026 from 6.5% in the previous month, reaching its highest level since February 2025. Price growth accelerated for intermediate goods excluding energy (6.2% vs 5.3% in July), capital goods (11.9% vs 10.9%), and consumer goods (4.0% vs 3.9%), both durable (4.4% vs 3.8%) and non-durable (4.0% vs 3.9%). Conversely, energy prices eased (10.2% vs 11.3%). By sector and division, costs rose for manufacturing (6.3% vs 5.9%), particularly for food products, textiles, paper and paper products, basic pharmaceutical products and preparations, and machinery and equipment. Costs also climbed in mining and quarrying (21.7% vs 16.4%). Meanwhile, inflation moderated in electricity, gas, steam and air conditioning supply (10.5% vs 11.7%), while it held steady in water supply, sewerage, waste management, and remediation services at 7.4%. On a monthly basis, producer prices edged up 0.4% in August after remaining flat in July.
+
+---
+
+### 2026-09-28 18:20:51  #Trading Economics #Markets #Commodity #Importance 1
+
+Soybeans Ease to Over 2-Week Low — Soybeans fell below $13 a bushel, their lowest level in more than two weeks, but remained close to the 3-1/2-year high of $13.30 on September 10, as traders awaited signs that the US-China agreement to reduce tariffs on roughly $30 billion of imports from each country would translate into stronger Chinese demand for US soybeans. China’s tariff reductions cover products including corn, wheat, sorghum, meat, seafood and fresh produce, while the two countries also agreed to create an agricultural working group. Soybeans, however, were notably excluded apart from seeds, leaving US shipments subject to a roughly 13% tariff. China has already purchased more than half of its annual pledge to buy 25 million tons of US soybeans, but progress on a separate $17 billion agricultural purchase commitment remains limited. Ample supplies, weak domestic demand and disruptions to Black Sea grain flows could further constrain Chinese imports in the near term.
+
+---
+
+### 2026-09-28 18:19:41  #央行 #中國央行
+
+【八部門：健全徵信服務體系 逐步培育具有全球話語權的信用評級機構】中國人民銀行等八部門聯合印發《關於金融支援服務業擴能提質的指導意見》。其中提出，健全徵信服務體系。發揮金融信用資訊基礎資料庫的徵信服務主渠道功能，助力有資金需求、有發展前景的服務業經營主體獲得融資支援。持續提升信用評級質量，發揮信用評級機構專業化水平，逐步培育具有全球話語權的信用評級機構。
+
+---
+
+### 2026-09-28 18:19:38  #其他
+
+【剛果（金）埃博拉疫情確診病例超8000例】總檯記者獲悉，剛果（金）衛生部9月28日公佈的最新資料顯示，截至目前，該國本輪埃博拉疫情累計報告確診病例8067例，其中3901人死亡；另有2070人康復，773人仍在住院治療或接受隔離。疫情已擴散至全國26個省份中的7個省、共計63個衛生區，包括伊圖裡省、喬波省、北基伍省、南基伍省、下韋萊省、上韋萊省以及南烏班基省。（央視新聞）
+
+---
+
+### 2026-09-28 18:18:53  #公司
+
+【永貴電器：擬回購登出4.41萬股限制性股票】永貴電器公告稱，因2022年限制性股票激勵計劃預留授予第一類限制性股票第三個解除限售期業績考核未達標，公司擬對34名激勵物件已獲授但尚未解除限售的44100股第一類限制性股票按調整後6.749元/股的價格回購登出。本次回購登出完成後，公司總股本將由3.89億股變更為3.89億股，註冊資本相應減少。公司已通知債權人，債權人可自公告之日起45日內要求公司清償債務或提供相應擔保。
+
+---
+
+### 2026-09-28 18:18:47  #公司
+
+【漢朔科技：股份回購方案實施完畢 累計回購2.9998億元】漢朔科技公告稱，公司股份回購方案已期限屆滿並實施完畢，實際回購時間為2025年10月14日至2026年9月24日。公司累計回購股份660.24萬股，佔總股本的1.5631%，回購最高成交價67.85元/股，最低成交價38.40元/股，成交總金額2.9998億元（不含交易費用）。本次回購股份擬用於員工持股計劃或股權激勵，其中116.8355萬股已於2026年6月10日過戶至2026年員工持股計劃賬戶，剩餘543.4045萬股存放於回購專用賬戶。
+
+---
+
+### 2026-09-28 18:18:41  #公司 #市場
+
+【凌雲光：股東詢價轉讓初步定價為38元/股】凌雲光公告稱，公司股東姚毅、東臺凌傑企業管理合夥企業（有限合夥）、東臺凌光企業管理合夥企業（有限合夥）開展詢價轉讓，經2026年9月28日詢價申購，初步確定轉讓價格為38.00元/股，為當日收盤價41.40元/股的91.79%。參與報價申購的機構投資者共26家，有效申購數量1399.5萬股，初步確定26家機構為受讓方，擬受讓股份總數1399.5萬股。本次詢價轉讓不屬於二級市場減持，受讓方受讓股份後6個月內不得轉讓，最終結果以中登公司上海分公司辦理結果為準，不涉及公司控制權變更。
+
+---
+
+### 2026-09-28 18:18:32  #公司
+
+【海天味業：9月28日回購A股及H股股份】海天味業公告稱，2026年9月28日，公司在上交所回購A股40萬股，回購價區間為32.94元-33.62元，總金額1328.58萬元，擬持作庫存股，用於登出減資及/或員工持股計劃或股權激勵；同日在港交所回購H股10萬股，回購價區間為26.94港元-27.12港元，總金額270.27萬港元，擬登出。截至2026年7月14日透過的H股回購授權可回購上限為2912.24萬股，截至當日累計已回購H股737.16萬股，佔授權日已發行H股的2.53%。
+
+---
+
+### 2026-09-28 18:18:16  #公司
+
+【*ST卓然：公司及全資子公司涉及金融借款合同糾紛訴訟】*ST卓然公告稱，公司及全資子公司卓然（靖江）裝置製造有限公司、實控人張錦紅因金融借款合同糾紛，被中國農業銀行股份有限公司上海浦東分行起訴，上海市浦東新區人民法院已立案受理，尚未開庭。原告請求判令公司償還借款本金1000萬元、截至2026年8月25日的利息5.15萬元及後續逾期利息，子公司與張錦紅承擔連帶保證責任，三被告承擔訴訟費、保全費等。本案判決結果存在不確定性，對公司利潤的影響暫無法判斷。
+
+---
+
+### 2026-09-28 18:18:00  #公司 #市場
+
+【上期所：石油瀝青期貨BU2610、BU2611合約的日內開倉交易的最大數量為3000手】據上海期貨交易所，經研究決定，自2026年9月30日（即9月29日夜盤）交易起，非期貨公司會員、境外特殊非經紀參與者、客戶在相關期貨合約的交易限額調整如下： 石油瀝青期貨BU2610、BU2611合約的日內開倉交易的最大數量為3000手。
+
+---
+
+### 2026-09-28 18:17:27  #公司 #焦點
+
+【蜂助手：簽署算力業務重大合同，服務協議57.17億元】蜂助手公告，近日，公司與C公司簽署算力伺服器採購協議，協議總金額為39.6億元（含稅價）；與D公司簽署算力服務協議，協議金額為57.17億元（含稅價，不含機櫃服務費，另計），服務合作期限為60個月。相關議案已經董事會審議透過，其中採購協議尚需提交股東會審議。
+
+---
+
+### 2026-09-28 18:16:48  #公司 #觀點
+
+花旗集團將Group 1 Automotive Inc <GPI.N>的目標價從387美元下調至357美元。
+
+---
+
+### 2026-09-28 18:16:13  #其他
+
+西班牙市場競爭委員會批准Ohmnia對Azkoyen的收購要約。
+
+---
+
+### 2026-09-28 18:16:05  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100
+
+Bank of England Deputy Governor Ramsden said the Bank will begin selling gilts maturing between 2033 and 2049.
+
+---
+
+### 2026-09-28 18:16:04  #國際
+
+Pidilite Industries：合作將韓國先進粘合技術引入印度。
+
+---
+
+### 2026-09-28 18:15:52  #MKT News
+
+【House Speaker Johnson launches six-week midterm sprint to 22 states】House Speaker Mike Johnson has launched a six-week midterm campaign sprint, planning visits to 22 states and more than 40 congressional districts before Election Day, Axios reports. The effort is aimed at defending the Republican House majority as the political landscape tilts toward Democrats. The Cook Political Report on Friday moved ratings for 15 House seats toward Democrats and said Republicans must win most of the remaining swing districts to retain control. Johnson’s itinerary is split roughly evenly between defending vulnerable GOP-held seats and targeting Democratic-held districts.
+
+---
+
+### 2026-09-28 18:15:50  #央行 #中國央行
+
+【八部門：整治誘導過度借貸、非法高息放貸等違法違規行為】中國人民銀行、金融監管總局、中國證監會、國家發展改革委、工業和資訊化部、財政部、商務部、文化和旅遊部印發《關於金融支援服務業擴能提質的指導意見》。其中指出，針對現代服務新業態，加強消費者資訊保安保護，明晰資料收集和互動邊界，嚴防違規獲取個人金融資訊，整治誘導過度借貸、非法高息放貸等違法違規行為。
+
+---
+
+### 2026-09-28 18:15:33  #公司
+
+【艾布魯：熊燕減持計劃期限屆滿，累計減持212.77萬股】艾布魯公告，特定股東熊燕原計劃於2026年6月25日至2026年9月24日集中競價減持不超過226.2萬股，佔公司總股本比例1.00%。截至2026年9月24日，熊燕累計減持212.77萬股，減持均價21.17元/股，佔總股本比例0.94%，本次減持計劃期限已屆滿。
+
+---
+
+### 2026-09-28 18:15:14  #其他
+
+【八部門：適時最佳化政策，激勵引導金融機構加大服務消費信貸供給，做好對服務業重點領域金融支援 】中國人民銀行等八部門聯合印發《關於金融支援服務業擴能提質的指導意見》，《意見》指出，用好服務消費與養老再貸款等政策工具，適時最佳化政策，激勵引導金融機構加大服務消費信貸供給，做好對服務業重點領域金融支援。實施好服務業經營主體貸款貼息、中小微企業貸款貼息和個人消費貸款貼息等財政金融協同促內需一攬子政策。發揮政府性融資擔保作用，按照市場化、法治化原則確定融資擔保業務範圍和擔保費率，支援服務業等領域經營主體融資發展。落實好首臺（套）保險補償政策。持續推動明示企業和個人貸款綜合融資成本，促進中小服務業企業綜合融資成本低位執行。
+
+---
+
+### 2026-09-28 18:14:59  #央行 #其他
+
+拉姆斯登：英國央行的債券出售將從2035至2049年到期的長期英債開始。
+
+---
+
+### 2026-09-28 18:14:51  #公司 #焦點
+
+【*ST康佳：深交所受理公司股票主動終止上市申請】*ST康佳公告，公司擬以股東會決議方式主動撤回A股和B股股票在深交所的上市交易，並在終止上市後申請轉入退市板塊轉讓。該事項已於2026年9月14日經臨時股東會審議透過。公司於9月23日向深交所提交終止上市申請，9月28日收到深交所受理函。根據規定，深交所將在受理後十五個交易日內形成審議意見，公司股票自終止上市決定公告之日起五個交易日內摘牌，不設退市整理期。
+
+---
+
+### 2026-09-28 18:14:41  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
+
+Shell Stock Price Hits 6-year High — Shell shares increased to 42.86 EUR, the highest since May 2020. Over the past 4 weeks, Shell plc gained 8.91%, and in the last 12 months, it increased 38.13%.
+
+---
+
+### 2026-09-28 18:14:31  #宏觀 #焦點
+
+【習近平就建設更高水平平安中國作出重要指示】中共中央總書記、國家主席、中央軍委主席習近平近日就建設更高水平平安中國作出重要指示指出，黨的十八大以來，平安中國建設取得顯著成效，人民安居樂業、社會安定有序的良好局面更加鞏固，我國成為世界上最安全的國家之一。習近平強調，新徵程上，要以新時代中國特色社會主義思想為指導，堅定不移貫徹總體國家安全觀，堅持和加強黨的全面領導，統籌發展和安全，注重懲防並舉、標本兼治，強化法治支撐、科技賦能，加強國家安全體系和能力建設，提高公共安全治理水平，完善社會治理體系，防範化解各類風險，在國家更加安全、社會更加有序、治理更加有效、人民更加滿意上持續用力，以更高水平平安中國建設保障中國式現代化行穩致遠。平安中國建設工作會議28日在京召開。會上傳達了習近平重要指示。中共中央政治局委員、中央政法委書記陳文清出席會議並講話。他指出，習近平總書記的重要指示為平安中國建設擘畫了藍圖、指明瞭方向。在黨中央堅強領導下，平安中國建設成就舉世公認，“平安”已成為“中國之治”的顯著標志，這根本在於以習近平同志為核心的黨中央領航掌舵，在於習近平新時代中國特色社會主義思想科學指引。我們要堅定不移貫徹總體國家安全觀，深入學習貫徹習近平總書記重要指示精神，在黨中央集中統一領導下，懲防並舉、標本兼治，齊抓共管、形成合力，奮力建設更高水平平安中國。(央視新聞)
+
+---
+
+### 2026-09-28 18:14:16  #其他
+
+挪威Sparebanken銀行將抵押貸款和存款利率最高上調0.25個百分點。
+
+---
+
+### 2026-09-28 18:14:10  #市場 #國際
+
+美國原油期貨上漲逾4%，觸及每桶96.44美元的盤中高點，因美伊和平努力陷入停滯。
+
+---
+
+### 2026-09-28 18:14:05  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #DXY #Impact bullish #US10Y
+
+S&P GLOBAL MARKET INTELLIGENCE data showed the iTraxx Europe Crossover index hit a five-and-a-half-month high of 298 bps.
+
+---
+
+### 2026-09-28 18:13:55  #MKT News
+
+【Eight ministries move to curb inducement of excessive borrowing and illegal high‑interest lending】A joint opinion by eight ministries and agencies calls for stronger protection of financial consumers’ and investors’ rights, expanded financial literacy campaigns and coordinated age‑friendly digital upgrades to prevent service gaps for the elderly. It requires tighter consumer data safeguards for new service models, clearer boundaries on data collection and exchange, and measures to prevent illegal acquisition of personal financial information. The document orders remediation of inducement to excessive borrowing, illegal high‑interest lending and other violations, wider regulatory coverage and law‑based crackdowns on financial crimes. It also directs authorities to streamline consumer and investor complaint channels and to improve diversified dispute‑resolution mechanisms.
+
+---
+
+### 2026-09-28 18:13:53  #其他
+
+【八部門：整治誘導過度借貸、非法高息放貸等違法違規行為】《意見》提出，加強金融消費和投資權益保護。深入開展金融知識普及，統籌推進金融適老化改造，防範數字化發展中出現老年人金融服務鴻溝。針對現代服務新業態，加強消費者資訊保安保護，明晰資料收集和互動邊界，嚴防違規獲取個人金融資訊，整治誘導過度借貸、非法高息放貸等違法違規行為。加強監管全覆蓋，依法打擊各類金融違法犯罪活動。暢通金融消費者和投資者投訴渠道，完善金融糾紛多元化解機制。（中國人民銀行）
+
+---
+
+### 2026-09-28 18:13:48  #央行 #中國央行
+
+【央行等八部門：引導金融機構綜合運用信貸、債券、股權等多樣化工具 支援“人工智慧+軟體”發展】中國人民銀行等八部門聯合印發《關於金融支援服務業擴能提質的指導意見》，意見提出，賦能軟體和資訊科技服務創新發展。引導金融機構綜合運用信貸、債券、股權等多樣化工具，支援“人工智慧+軟體”發展，推動智慧程式設計工具和工業軟體創新突破、基礎軟體生態和開源社群建設、智慧視聽系統生態場景應用等，發展智慧體即服務、模型即服務等新業態。
+
+---
+
+### 2026-09-28 18:13:29  #其他
+
+【八部門：助力科技服務攻堅突破】《意見》提出，圍繞研發設計、智慧財產權、科技成果轉化、檢驗檢測認證等重點領域，創新推出匹配輕資產、長週期特點的金融產品。為科技型企業孵化器等創新服務平臺建設適配豐富多樣的金融市場和金融生態。支援發展技術交易市場，結合技術資料交易場景，創新金融產品和融資服務模式，助力培育高水平技術轉移機構和技術經理人。支援製造業核心企業併購融資，沿鏈整合上下游科技服務企業。發展科技保險，支援企業投保產品研發責任險，鼓勵保險機構與中試機構合作開展相關保險業務。
+
+---
+
+### 2026-09-28 18:13:19  #MKT News #CNH #Impact bullish #DXY #Impact bearish
+
+【China's eight departments push deeper cross-border trade and investment‑financing facilitation】China's eight government departments issued guidance to advance high‑level financial opening and deepen measures easing cross-border trade and investment financing. The package encourages service‑sector firms to prioritise RMB pricing and settlement, and aims to boost financial institutions' onshore‑offshore resource allocation and international competitiveness. It calls for optimisation of integrated cross‑border services—settlement, FX hedging, cross‑border financing and external guarantees—to support outbound expansion and increase firms' international market participation. The guidance also directs continued development and deployment of a multilateral CBDC bridge and the CBETS cross‑border settlement platform to provide multiple channels for efficient, low‑cost cross‑border fund settlement for outbound service companies.
+
+---
+
+### 2026-09-28 18:13:02  #市場
+
+土耳其主要BIST-100指數<.XU100>下跌3%，主要銀行指數<.XBANK>下跌1.5%。
+
+---
+
+### 2026-09-28 18:12:58  #其他
+
+【八部門：賦能軟體和資訊科技服務創新發展】《意見》提出，引導金融機構綜合運用信貸、債券、股權等多樣化工具，支援“人工智慧+軟體”發展，推動智慧程式設計工具和工業軟體創新突破、基礎軟體生態和開源社群建設、智慧視聽系統生態場景應用等，發展智慧體即服務、模型即服務等新業態。完善製造業數智化轉型服務金融保障，支援製造業數智化轉型服務商發展。積極滿足人工智慧技術研發、行業高質量資料集建設、應用場景拓展及產業生態培育等領域的融資需求。鼓勵金融機構為資訊傳輸、資料和資訊科技等數字基礎設施建設提供中長期融資，強化對全國算力佈局、邊緣算力建設、智算雲服務體系等的金融支援。
+
+---
+
+### 2026-09-28 18:12:32  #公司
+
+【八部門：開發符合商務服務業特點的金融產品，助力商務諮詢、資產評估、會計審計等服務機構品牌化、連鎖化、集團化發展】中國人民銀行等八部門聯合印發《關於金融支援服務業擴能提質的指導意見》，《意見》指出，開發符合商務服務業特點的金融產品，助力商務諮詢、資產評估、會計審計等服務機構品牌化、連鎖化、集團化發展。合理滿足會展龍頭企業的融資需求，最佳化支付結算等金融服務，助力打造國際知名品牌展會。圍繞健全海外綜合服務體系，進一步最佳化跨境金融服務，服務產供鏈合理有序跨境佈局，支援跨境電商等新業態新模式和服務貿易、數字貿易、綠色貿易發展，拓展“製造+服務”海外經營網路，支援涉外法律、會計、諮詢、人力資源、語言服務等企業拓展國際市場。
+
+---
+
+### 2026-09-28 18:12:32  #其他
+
+【八部門：培育節能環保服務穩步壯大】《意見》提出，豐富綠色金融產品譜系，支援重點行業能效診斷等節能降碳領域發展。創新適配迴圈經濟發展的融資模式，支援工業固廢綜合利用、可再生資源回收利用、再製造服務、再生材料認證等領域。在依法合規前提下，鼓勵金融機構加強與碳排放核算、碳減排諮詢、碳資產管理等服務機構的合作，穩妥開展碳排放權、用水權、排汙權等環境權益融資業務。最佳化農業綠色高產高效技術、農業廢棄物處理利用、海洋生態修復等環境治理領域的金融服務模式。
+
+---
+
+### 2026-09-28 18:12:32  #MKT News #Market Regions #Greater China
+
+【Eight ministries push expansion of eldercare finance to boost inclusive, rural and community services】China’s eight ministries call for accelerated development of eldercare finance to expand inclusive, rural and community-embedded eldercare and childcare services and to cultivate integrated elderly service centers and age-friendly consumption scenarios. The guidance encourages financial institutions to align loan tenors with project construction and operating cycles and to explore pledge financing using bed-fee charging rights, while stepping up financing for rehabilitation nursing, medical–care integration and long-term care. It also promotes specialty financial service channels, backing retail pharmacies to expand professional and health-promotion services and establish health stations, and seeks to facilitate domestic medical-device and drug R&D and clinical trials (including originator and generic drugs) and the growth of personalized family-doctor contract services.
 
 ---
 
@@ -12377,875 +12623,5 @@ Wall Street Journal reports a new Boeing 737 MAX software glitch has raised safe
 ### 2026-09-27 01:58:26  #MKT News #XAUUSD #Impact bullish #DXY
 
 Ukrainian President Zelenskiy said Russia plans to spend $12 billion next year solely on production of jet-powered drones and cruise missiles.
-
----
-
-### 2026-09-27 01:49:03  #其他
-
-國際貨幣基金組織：工作人員結束對加彭的訪問。
-
----
-
-### 2026-09-27 01:48:14  #其他
-
-伊拉克政府發言人：新一批美元現金將於近日運抵伊拉克。
-
----
-
-### 2026-09-27 01:48:12  #MKT News
-
-IMF said staff completed a visit to Gabon.
-
----
-
-### 2026-09-27 01:48:09  #國際
-
-俄羅斯國防部：今天，我們在本國領空及黑海上空攔截並摧毀了105架無人機。
-
----
-
-### 2026-09-27 01:46:45  #MKT News
-
-Ukraine intercepted 55% of Russian jet-powered drones, President Zelenskiy said.
-
----
-
-### 2026-09-27 01:45:54  #國際
-
-澤連斯基稱，烏克蘭目前攔截了55%俄羅斯發射的噴氣動力無人機。
-
----
-
-### 2026-09-27 01:43:43  #國際
-
-風暴導致美國東北部超10萬使用者斷電，超400架航班被取消。
-
----
-
-### 2026-09-27 01:37:37  #MKT News
-
-Zelenskiy said there will be intensive diplomatic activity in the coming days and through October aimed at changing the situation.
-
----
-
-### 2026-09-27 01:37:26  #MKT News
-
-Ukrainian President Zelenskiy said the US assessment of the situation aligns with Ukraine’s and urged efforts to change Russia’s will by redirecting funding away from the war toward other sectors to create an incentive for Russia to end the conflict.
-
----
-
-### 2026-09-27 01:36:57  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Ukraine President Zelenskiy said Russia currently has no intention of ending the war. He said Putin repeatedly finds excuses to avoid meetings, rejects a trilateral talks mechanism and refuses dialogue, an end to the conflict or to stop the killings.
-
----
-
-### 2026-09-27 01:36:52  #國際
-
-澤連斯基：在接下來的幾天和10月份，將會有大量外交活動來改變局勢。
-
----
-
-### 2026-09-27 01:36:36  #國際
-
-澤連斯基：很明顯，俄羅斯人並沒有準備停止衝突。至少現在沒有。
-
----
-
-### 2026-09-27 01:32:33  #國際
-
-美國議員們猛烈抨擊了特朗普的一項計劃，該計劃擬收回政府各部門已獲國會批准的逾8億美元支出。議員們指出，總統無權在聯邦資金的使用方向上違抗國會。
-
----
-
-### 2026-09-27 01:28:43  #其他
-
-【英國將向首次購房者提供貸款，以提升住房自有率】英國政府將推出一項新的貸款計劃，幫助首次購房者購買新建住房，首付比例低至2.5%，並提供相當於房價20%的權益貸款。該計劃名為“你的第一個家”（Your First Home），資金將透過削減政府其他預算來籌集，財政大臣希利將在下個月的預算案中公佈具體細節。該計劃的預註冊將於2026年底前開放，發放的貸款在初期將享有免息期，同時房地產開發商也將為該計劃的運營提供資金支援。
-
----
-
-### 2026-09-27 01:28:01  #國際
-
-【美國各界高度評價習近平主席歷史性訪問】國家主席習近平26日圓滿結束對美國的國事訪問回到北京。訪美期間，習近平主席與特朗普總統就中美建設性戰略穩定關係及重大國際地區問題深入交換意見，達成八點成果共識。美國各界人士高度評價習近平主席的美國之行，表示這次訪問進一步豐富了中美關係定位的內涵，並在經貿領域取得互惠互利的成果。他們認為，習近平主席的成功訪問在中美關係發展史上寫下濃墨重彩的一筆，為中美關係巨輪行穩致遠指明航向、注入動力，有利於增進兩國人民福祉、維護世界和平穩定。（新華社）
-
----
-
-### 2026-09-27 01:27:24  #MKT News
-
-【Iran, Iraq likely to announce new flight arrangements soon, ambassador says】IRNA quoted Iran’s ambassador to Iraq as saying officials are in talks and a new decision on flight arrangements is likely soon. He said roughly 12,000–13,000 passengers travel daily on Iran Air services between the two countries. Earlier reports said Iraq is negotiating with the US for exemptions for some airports from US aviation sanctions targeting firms that do business with Iran Air.
-
----
-
-### 2026-09-27 01:22:56  #國際
-
-訊息人士：在特朗普拒絕伊朗提議後，美國參謀長聯席會議審議下一步行動。
-
----
-
-### 2026-09-27 01:22:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israeli i24News cited a security source saying that after Trump rejected Iran's proposal to reopen the Strait of Hormuz, the US Joint Chiefs of Staff are resuming assessments of possible next steps. The source said this does not indicate preparations for an imminent attack.
-
----
-
-### 2026-09-27 01:19:55  #市場 #焦點
-
-布倫特原油暗盤突破99美元，日內漲超2.4%。
-
----
-
-### 2026-09-27 01:12:24  #MKT News
-
-Russian foreign minister Lavrov said Turkey has not contacted Moscow about moving the S-400 system abroad and that such a move would be impossible without Moscow's consent.
-
----
-
-### 2026-09-27 01:11:11  #國際
-
-土耳其並未就S-400防空導彈系統可能向海外轉移一事與俄羅斯進行過接觸；俄外長拉夫羅夫指出，如果沒有莫斯科的同意，此舉是不可能實現的。
-
----
-
-### 2026-09-27 01:06:23  #國際
-
-伊朗外長阿拉格齊與聯合國大會主席卡利勒·拉赫曼舉行了會談。
-
----
-
-### 2026-09-27 01:04:15  #國際
-
-基輔市長：舍甫琴科夫斯基區一棟辦公樓遭到無人機襲擊。初步報告顯示未發生火災。救援人員正趕往現場。
-
----
-
-### 2026-09-27 00:59:49  #國際
-
-俄羅斯外交部長拉夫羅夫：聯合國秘書長一職有幾位候選人均十分勝任，且具備所需的素質。
-
----
-
-### 2026-09-27 00:59:27  #國際
-
-【拉夫羅夫聯大提議波斯灣集體安全框架，主張推動巴勒斯坦建國】俄羅斯外長拉夫羅夫週六在聯合國大會上表示，俄羅斯提出的波斯灣集體安全框架有助於在霍爾木茲海峽危機期間穩定該地區局勢。拉夫羅夫說：“這正是推動我們提出波斯灣集體安全構想的動力。”他補充說，莫斯科已準備好協助穩定該地區局勢。他援引俄羅斯總統普京的話稱，“一個霸權國家的獨裁正在失控”，這顯然是在暗指美國。多年來，俄羅斯一直倡導建立一個更廣泛的波斯灣安全架構，該架構由包括伊朗和阿拉伯國家在內的地區國家共同參與，而非圍繞單一域外大國建立。拉夫羅夫提出這一方案，旨在將其作為緩解緊張局勢、解決地區安全爭端的框架。他還把更廣泛的中東穩定與巴勒斯坦問題聯絡起來，稱現在是時候透過確保巴勒斯坦建國來解決他所說的該地區核心問題了。
-
----
-
-### 2026-09-27 00:58:12  #MKT News
-
-Iraqi government says it has reached an agreement with the United States to continue shipments of U.S. dollar cash to Iraq.
-
----
-
-### 2026-09-27 00:56:59  #國際
-
-伊拉克政府：伊拉克與美國達成共識，將繼續運送現金美元。
-
----
-
-### 2026-09-27 00:56:44  #國際
-
-【沙特聯大表態：守航運安全、穩能源格局、力推兩國方案】沙特外交大臣在聯合國大會表態，海灣安全事關全球安全與能源、供應鏈穩定，國際航運通道安全是各國共同責任。沙特反對地區霸權干涉，譴責破壞敘利亞穩定行為、支援伊拉克控武。其重申堅持巴以兩國方案、反對驅逐巴勒斯坦民眾。同時沙特強調自身持續助力全球能源安全與氣候治理，並披露海灣國家曾遭伊朗襲擊。
-
----
-
-### 2026-09-27 00:54:28  #其他 #焦點
-
-英國首相伯納姆：首次購房者首付僅需2.5%即可購房。
-
----
-
-### 2026-09-27 00:53:09  #其他
-
-呼籲保護霍爾木茲海峽和曼德海峽的航行自由。
-
----
-
-### 2026-09-27 00:51:27  #MKT News #Market Regions #Europe & UK
-
-【European ministers discuss tighter border controls and accelerated migrant returns】On Saturday 17 interior ministers from EU member states and the UK met to discuss tightening border controls, shortening emergency response times and introducing fast-track return procedures for some migrants. The talks follow an EU migration and asylum pact implemented in June. Germany’s interior minister Dobrindt called for a new European migration-crisis response mechanism, urging rules to define border emergency situations and enable rapid returns after incidents such as the mass arrivals in Ceuta from neighbouring Morocco.
-
----
-
-### 2026-09-27 00:47:41  #國際
-
-俄羅斯外交部長拉夫羅夫：我們看到納粹主義在歐盟和北約成員國中蔓延，包括在德國，這令人感到擔憂。
-
----
-
-### 2026-09-27 00:42:50  #其他
-
-【F1亞塞拜然大獎賽：拉塞爾贏得賽季第三冠】2026賽季世界一級方程式賽車錦標賽（F1）亞塞拜然大獎賽正賽26日在巴庫賽道舉行。梅賽德斯車手拉塞爾奪得冠軍，紅牛車手維斯塔潘和哈賈爾分獲二、三名。（新華社）
-
----
-
-### 2026-09-27 00:41:27  #MKT News
-
-【Saudi foreign minister says Gulf security integral to global security】Saudi foreign minister Faisal told the UN General Assembly that Gulf security is inseparable from regional and global security, that restoring global supply chains is a shared responsibility, and that efforts to restore regional security must not be built on hegemony or coercion.
-
----
-
-### 2026-09-27 00:38:22  #國際
-
-伊朗專家會議成員透露：新任最高領袖哈梅內伊曾在醫院遭轟炸後從廢墟中被救出。哈梅內伊在此前的襲擊中受傷，而在其住院治療的訊息傳出後，德黑蘭有三家醫院遭到轟炸。他當時正身處第三家醫院，最終被人從瓦礫下救了出來。
-
----
-
-### 2026-09-27 00:34:22  #MKT News
-
-Saudi foreign minister said Saudi Arabia has contributed to the stability of regional and international trade.
-
----
-
-### 2026-09-27 00:33:37  #MKT News #Commodities #Energy #WTI #Brent
-
-Saudi foreign minister says Riyadh is committed to global energy security.
-
----
-
-### 2026-09-27 00:32:23  #MKT News
-
-Saudi foreign minister says energy security and climate issues are closely linked.
-
----
-
-### 2026-09-27 00:32:06  #MKT News
-
-Saudi foreign minister said a just and lasting peace can only be achieved by implementing a two-state solution and establishing a Palestinian state.
-
----
-
-### 2026-09-27 00:31:48  #其他
-
-英國希思羅機場表示，規劃中的第三跑道可能推遲至2039年投用。
-
----
-
-### 2026-09-27 00:30:45  #MKT News
-
-Saudi foreign minister says Riyadh rejects any violations that undermine stability in Syria.
-
----
-
-### 2026-09-27 00:30:24  #MKT News
-
-Canadian Prime Minister Carney said Canada remains predictable, reliable and principled in a world of uncertainty.
-
----
-
-### 2026-09-27 00:30:02  #MKT News #WTI #Impact bearish #Brent
-
-Saudi foreign minister said Riyadh supports the Iraqi government's efforts on weapons control.
-
----
-
-### 2026-09-27 00:29:49  #MKT News
-
-UK Prime Minister Burnham will announce a new home-purchase assistance scheme.
-
----
-
-### 2026-09-27 00:29:22  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Saudi foreign minister said risks that threaten international shipping could affect the global economy.
-
----
-
-### 2026-09-27 00:28:09  #MKT News
-
-Saudi foreign minister said maintaining international navigation security is a shared responsibility.
-
----
-
-### 2026-09-27 00:27:52  #MKT News
-
-Saudi foreign minister said Riyadh rejects any attempts aimed at expelling the Palestinian people.
-
----
-
-### 2026-09-27 00:25:14  #MKT News #WTI #Impact bullish #Brent
-
-Saudi foreign minister said Riyadh stresses protecting freedom of navigation in the Strait of Hormuz and Bab al-Mandeb.
-
----
-
-### 2026-09-27 00:25:02  #MKT News
-
-Saudi foreign minister said security in the Gulf region is closely linked to energy security and the continuity of supply chains.
-
----
-
-### 2026-09-27 00:24:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Saudi foreign minister says Saudi Arabia and other regional states were attacked by Iran.
-
----
-
-### 2026-09-27 00:23:52  #MKT News
-
-Saudi foreign minister said there is an urgent need to uphold the UN Charter.
-
----
-
-### 2026-09-27 00:23:44  #MKT News
-
-Saudi foreign minister says world faces unprecedented challenges.
-
----
-
-### 2026-09-27 00:21:11  #其他
-
-胡塞武裝：在過去24小時內，沙特戰機從海米斯穆謝特和塔伊夫空軍基地起飛，使用F-15和颱風戰鬥機發動了27次空襲。這些空襲針對了塔伊茲、馬裡卜、薩達、阿姆蘭、伊卜和哈傑等省份的橋樑、道路等民用設施。自本輪局勢升級以來，沙特主導的聯軍發動的空襲和導彈打擊總數已達1059次。
-
----
-
-### 2026-09-27 00:21:08  #MKT News
-
-Israel Defense Forces said it killed a Nukhba (Hamas elite) platoon commander and another Hamas operative.
-
----
-
-### 2026-09-27 00:20:38  #國際
-
-阿曼外交大臣：已在紐約與伊朗外長就緩解緊張局勢及確保霍爾木茲海峽航行安全的努力進行了探討。
-
----
-
-### 2026-09-27 00:17:10  #國際
-
-俄羅斯外交部長拉夫羅夫：美國和以色列的侵略行動將矛頭對準了民用基礎設施以及受國際原子能機構（IAEA）保障監督的伊朗核設施。
-
----
-
-### 2026-09-27 00:16:59  #國際
-
-俄羅斯外交部長拉夫羅夫：使用武力殺害伊朗最高領袖阿里·哈梅內伊及其家人是不可接受的。
-
----
-
-### 2026-09-27 00:14:26  #其他
-
-【“張雪機車”車手德比斯義大利站首回合排名第四】2026世界超級摩托車錦標賽（WSBK）義大利站WorldSSP組別首回合正賽26日在克雷莫納賽道舉行。中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯最終獲得第四名，以0.134秒之差與領獎臺擦肩而過。（新華社）
-
----
-
-### 2026-09-27 00:13:03  #其他
-
-【巴基斯坦西北部一檢查站遭襲致11死18傷】巴基斯坦警方訊息人士26日說，該國西北部開伯爾－普什圖省一處警察檢查站當天下午發生爆炸，造成至少11人死亡、18人受傷。（新華社）
-
----
-
-### 2026-09-27 00:10:55  #國際
-
-美國紐約州州長霍楚爾，就沿海風暴向紐約州民眾釋出最新通報。她表示，停電情況將持續增加，全州已報告超過2.8萬處停電。
-
----
-
-### 2026-09-27 00:09:00  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Russian Foreign Minister Lavrov said the West continues to supply weapons to Ukraine and is helping to guide drones and missiles to strike civilians.
-
----
-
-### 2026-09-27 00:08:47  #國際
-
-俄羅斯外交部長拉夫羅夫：透過特別軍事行動，基輔對俄羅斯聯邦構成的所有安全威脅都將被消除。
-
----
-
-### 2026-09-27 00:08:46  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Lavrov said the special military operation will eliminate all security threats Kyiv poses to the Russian Federation.
-
----
-
-### 2026-09-27 00:08:33  #MKT News
-
-Russia's foreign minister Lavrov said he hopes the UN's new secretary-general will defend the rights of all countries, not just some.
-
----
-
-### 2026-09-27 00:08:24  #國際
-
-俄羅斯外交部長拉夫羅夫：美國摧毀了歐洲安全體系，並在烏克蘭建立了一個反俄政權。
-
----
-
-### 2026-09-27 00:07:49  #國際
-
-俄羅斯外交部長拉夫羅夫：西方持續向烏克蘭提供武器，並協助其使用無人機和導彈襲擊平民。
-
----
-
-### 2026-09-27 00:07:35  #MKT News
-
-Russia's foreign minister Lavrov said the UN must play an important role in information security, artificial intelligence and combating cybercrime.
-
----
-
-### 2026-09-27 00:06:23  #國際
-
-俄羅斯外交部長拉夫羅夫：我們“特別軍事行動”的目標必將實現，對我國安全的威脅將被消除。和平將再次降臨。無論發生什麼，這都必將實現。
-
----
-
-### 2026-09-27 00:06:09  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-LAVROV said Russia will achieve the objectives of its operation in Ukraine.
-
----
-
-### 2026-09-27 00:05:58  #焦點 #國際
-
-俄羅斯外交部長拉夫羅夫：我們在烏克蘭的行動目標將會實現。
-
----
-
-### 2026-09-27 00:05:54  #MKT News
-
-Lavrov said the UN Security Council approved a Gaza Strip peace plan about a year ago, but peace has not been achieved.
-
----
-
-### 2026-09-27 00:05:45  #國際
-
-俄羅斯外交部長拉夫羅夫：俄羅斯連同其他國家，準備為戰略重要地區中東的穩定作出建設性貢獻。
-
----
-
-### 2026-09-27 00:05:28  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #Brent
-
-Russia's foreign minister Lavrov said the United States has undermined the European security architecture and helped install an anti-Russian regime in Ukraine.
-
----
-
-### 2026-09-27 00:05:27  #國際
-
-俄羅斯外交部長拉夫羅夫：安理會約一年前批准了加沙地帶和平計劃，但和平尚未實現。
-
----
-
-### 2026-09-27 00:05:04  #國際
-
-俄羅斯外交部長拉夫羅夫：我們要求立即釋放委內瑞拉總統及其夫人，並保證此類行為不再重演。
-
----
-
-### 2026-09-27 00:04:45  #MKT News
-
-LAVROV said actions against Iran's nuclear facilities have inflicted an irreparable blow to the authority of the International Atomic Energy Agency (IAEA).
-
----
-
-### 2026-09-27 00:04:44  #國際
-
-俄羅斯外交部長拉夫羅夫：將伊朗核設施作為打擊目標，對國際原子能機構的權威性造成了無法挽回的打擊。
-
----
-
-### 2026-09-27 00:04:30  #MKT News
-
-Russian Foreign Minister Lavrov urged the immediate release of the Venezuelan president and called for measures to prevent similar rights violations from recurring.
-
----
-
-### 2026-09-27 00:04:05  #MKT News
-
-Russian Foreign Minister Lavrov said Russia has launched an initiative to secure peace in the Persian Gulf and resolve the Strait of Hormuz crisis.
-
----
-
-### 2026-09-27 00:04:03  #國際
-
-俄羅斯外交部長拉夫羅夫：必須解決波斯灣的對抗浪潮及霍爾木茲海峽問題。
-
----
-
-### 2026-09-27 00:03:43  #國際
-
-俄羅斯外長拉夫羅夫：歐洲正在盡其所能破壞特朗普政府有意推動的和平談判。
-
----
-
-### 2026-09-27 00:03:31  #MKT News #Market Regions #Europe & UK
-
-Russian Foreign Minister LAVROV said Europe is doing everything it can to thwart peace talks the Trump administration is interested in.
-
----
-
-### 2026-09-27 00:03:22  #國際
-
-俄羅斯外交部長拉夫羅夫表示，俄羅斯認為確保巴勒斯坦建國的時機已經成熟。
-
----
-
-### 2026-09-27 00:03:19  #MKT News #WTI #Impact bearish #Brent
-
-Russia's foreign minister Lavrov said Russia is prepared to contribute to stability in the Strait of Hormuz region.
-
----
-
-### 2026-09-27 00:03:00  #MKT News
-
-Russia's foreign minister Lavrov said it is time to ensure the establishment of a Palestinian state in accordance with UN resolutions.
-
----
-
-### 2026-09-27 00:02:04  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-The UN Support Mission in Libya (UNSMIL) warned that continued closure of the Sharara-Zawiya oil pipeline would have economic consequences.
-
----
-
-### 2026-09-27 00:01:46  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-UN mission said attacks on Libya's oil and energy infrastructure could trigger sanctions under a UN Security Council resolution.
-
----
-
-### 2026-09-27 00:01:33  #國際
-
-特朗普：佛羅里達州為拜倫·唐納茲安排了兩場集會。
-
----
-
-### 2026-09-27 00:01:04  #國際
-
-俄羅斯外交部長拉夫羅夫：美國必須解除對古巴的“封鎖”以及對古巴貿易的限制。
-
----
-
-### 2026-09-27 00:00:53  #MKT News
-
-Russian Foreign Minister Lavrov said the United States must lift its blockade and trade restrictions on Cuba.
-
----
-
-### 2026-09-27 00:00:51  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-【Israel strikes HEZBOLLAH weapons storage in southern Lebanon, military says】On the 26th (local time) the Israel Defense Forces said it carried out an airstrike earlier that day on a HEZBOLLAH weapons storage facility in southern Lebanon. The military said the site held weapons previously used to attack Israeli soldiers operating inside the so-called "security zone" and that the strike was intended to eliminate an "immediate threat." The statement warned any use of force from Lebanon aimed at harming Israeli civilians or soldiers will be met with a decisive response, and reiterated the IDF remains committed to implementing agreements between Israel and Lebanon.
-
----
-
-### 2026-09-26 23:57:47  #國際
-
-【以軍稱空襲黎南部真主黨一處武器儲存設施】當地時間26日，以色列國防軍發表宣告稱，以軍當天早些時候對黎巴嫩南部的一處黎巴嫩真主黨武器儲存設施發動了空襲。以軍在宣告中稱，該設施內儲存了此前曾用於襲擊在所謂“安全區”內開展行動的以軍士兵的武器，此次襲擊旨在消除“即時威脅”。宣告警告稱，任何來自黎巴嫩境內、旨在傷害以色列平民或以軍士兵的武力行為，都將遭到以方的果斷回應。宣告同時強調，以軍目前仍致力於執行以色列與黎巴嫩之間達成的相關協議。黎巴嫩真主黨方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-09-26 23:48:51  #國際
-
-古巴外交部長表示，古巴永遠做好了與美國對話的準備。
-
----
-
-### 2026-09-26 23:33:01  #其他
-
-埃克森美孚位於伊利諾伊州喬利埃特的日產能27.5萬桶煉油廠，在停電近兩週後重啟運營。
-
----
-
-### 2026-09-26 23:32:09  #其他
-
-聯合國利比亞特派團警告稱，沙拉拉-扎維耶輸油管道持續關閉將產生經濟影響。
-
----
-
-### 2026-09-26 23:29:50  #其他
-
-聯合國代表團表示，針對利比亞石油與能源基礎設施的襲擊可能觸發聯合國安理會決議項下的制裁。
-
----
-
-### 2026-09-26 23:23:42  #國際
-
-以色列軍方稱，今日早些時候襲擊了黎巴嫩南部薩傑德地區一處真主黨武器庫。
-
----
-
-### 2026-09-26 23:22:21  #其他
-
-埃克森美孚與亞塞拜然簽署庫拉盆地中部頁岩油氣協議。
-
----
-
-### 2026-09-26 23:17:49  #其他
-
-沙特阿美據稱正與Evercore合作推進天然氣業務板塊相關計劃。
-
----
-
-### 2026-09-26 23:13:24  #國際
-
-【伊朗總統：不再信任同美國的對話】伊朗伊斯蘭共和國通訊社26日報道，伊朗總統佩澤希齊揚在接受卡達半島電視臺採訪時表示，鑑於每一輪談判後美國都會發動襲擊並實施制裁，伊朗不再信任與美國的對話。佩澤希齊揚透露，卡達和巴基斯坦目前正在伊朗與美國之間進行斡旋。談判基於此前同美國簽署的諒解備忘錄，“美方必須就此表明立場”。（新華社）
-
----
-
-### 2026-09-26 23:09:47  #國際
-
-【印尼客輪傾覆事故死亡人數升至64人】印度尼西亞國家搜救局26日說，此前在爪哇海海域發生的客輪傾覆事故已造成64人遇難，搜救人員繼續搜尋71名失蹤人員。（新華社）
-
----
-
-### 2026-09-26 23:06:14  #國際
-
-伊朗否認有關其計劃因美國航班禁令而襲擊鄰國機場的猜測。
-
----
-
-### 2026-09-26 23:00:44  #市場
-
-【粵港澳大灣區融合加速 帶旺港澳旅客假期“經深飛”】在粵港澳大灣區，隨著融合發展不斷加速，區域互聯互通日益便捷，多式聯運等不斷完善，這個假期，不少港澳旅客選擇北上“經深飛”，也就是經深圳搭乘飛機航班，赴內地探親度假、歡度佳節。記者瞭解到，以南航深圳樞紐為例，9月以來，截至9月26日，“經深飛”航班中，港澳旅客赴內地客流穩步增長，累計共達29274人次，同比上漲23.70%。其中，9月14日至26日，日均旅客更是超過1250人次，維持高位水平。越來越多港澳旅客選擇來內地歡度佳節，烏魯木齊、北京、上海、昆明、西安、大理、麗江等旅遊城市，都是港澳旅客青睞的熱門目的地。綜合客流研判，9月27日中秋假期最後一天，直至國慶假期前夕，港澳旅客“經深飛”出行規模仍將持續走高，出行目的涵蓋休閒旅遊、探親團聚以及商務考察、專案調研等多元場景。（央視新聞）
-
----
-
-### 2026-09-26 23:00:22  #MKT News
-
-【5.6-magnitude earthquake strikes Papua New Guinea's New Britain region】The European-Mediterranean Seismological Centre said a 5.6-magnitude earthquake occurred at 00:08 local time on Sept. 27 in New Britain, Papua New Guinea; depth 58 km; epicentre 4.6744°S, 152.799°E.
-
----
-
-### 2026-09-26 23:00:09  #國際
-
-俄羅斯外長拉夫羅夫與德國外長的會晤已經結束，談判僅持續了20多分鐘。
-
----
-
-### 2026-09-26 22:53:47  #國際
-
-【巴布亞紐幾內亞發生5.6級地震】據歐洲-地中海地震中心測定，當地時間9月27日0時08分，巴布亞紐幾內亞新不列顛地區發生5.6級地震，震源深度58千米，震中位於南緯4.6744度，東經152.799度。
-
----
-
-### 2026-09-26 22:53:15  #國際
-
-訊息人士稱，美國談判代表已告訴伊朗，其不控制霍爾木茲海峽，也無權就此設定條件。
-
----
-
-### 2026-09-26 22:52:53  #國際
-
-美國官員：過去72小時內，約6000萬桶石油透過了霍爾木茲海峽。
-
----
-
-### 2026-09-26 22:52:40  #焦點 #國際
-
-美國官員：華盛頓與德黑蘭正透過中間人進行積極且富有建設性的會談。
-
----
-
-### 2026-09-26 22:52:08  #其他
-
-英國首相伯納姆計劃重啟“購房援助計劃”。
-
----
-
-### 2026-09-26 22:48:36  #宏觀 #市場
-
-【巴西政府在選舉前延長燃油價格補貼措施】為在10月4日總統選舉首輪投票前持續為消費者提供價格緩衝，巴西政府延長了旨在遏制燃油價格上漲的相關措施。巴西財政部發布法令，確保總額達每升2.12雷亞爾（約合0.41美元）的柴油補貼（該補貼原定於本週六到期）在自5月30日生效的臨時措施基礎上，至少再延長30天。根據財政部週五釋出的宣告，此次延長並未改變補貼金額。本月，巴西總統盧拉宣佈進一步削減燃油稅，旨在保護消費者免受美伊戰爭導致油價飆升的衝擊。這些措施還包括削減汽油和乙醇的稅收。
-
----
-
-### 2026-09-26 22:44:20  #MKT News
-
-NHC: Odalys is expected to rapidly weaken over the open eastern Pacific.
-
----
-
-### 2026-09-26 22:44:07  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Interfax reported the Russian Defence Ministry said Russian forces struck a cargo ship in the Black Sea.
-
----
-
-### 2026-09-26 22:43:20  #國際
-
-俄羅斯國防部：俄軍在黑海擊傷一艘貨輪。
-
----
-
-### 2026-09-26 22:40:57  #國際
-
-伊朗武裝部隊發言人警告美以兩國：若再次誤判，將遭受更猛烈的打擊。
-
----
-
-### 2026-09-26 22:40:53  #國際
-
-伊朗武裝部隊發言人表示，伊朗軍隊做好必要準備，以應對美以兩國任何潛在的侵略行為。
-
----
-
-### 2026-09-26 22:40:16  #MKT News
-
-NHC: Tropical Depression Fay drifting southwest about 1,130 miles (1,820 km) WSW of the Azores; maximum sustained winds 35 mph (55 km/h).
-
----
-
-### 2026-09-26 22:32:15  #MKT News
-
-Interfax said Russian Foreign Minister Lavrov met his German counterpart during the UN General Assembly.
-
----
-
-### 2026-09-26 22:31:52  #MKT News
-
-U.S. President Trump said Super Intelligence is a more accurate name for AI because the word 'artificial' suggests something 'false' or 'not real'; AI is not false but an extremely powerful intelligence.
-
----
-
-### 2026-09-26 22:31:11  #國際
-
-俄羅斯外長拉夫羅夫在聯合國大會間隙與德國外長舉行會晤。
-
----
-
-### 2026-09-26 22:30:15  #宏觀
-
-瑞士財政部長表示，瑞銀不太可能遷出其總部所在地。
-
----
-
-### 2026-09-26 22:30:13  #國際
-
-特朗普：“超級智慧”（Super Intelligence），這個名字更貼切。這個名字之所以更準確，是因為“Artificial”一詞往往暗示著“虛假”或“非真實”；但它並非虛假之物，而是一種極其強大的智慧。
-
----
-
-### 2026-09-26 22:23:33  #其他
-
-巴基斯坦總理夏巴茲： 我們再次以最強烈的措辭譴責胡塞武裝最近對沙烏地阿拉伯王國發動的令人遺憾的襲擊。
-
----
-
-### 2026-09-26 22:22:34  #MKT News #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-US President Trump said Putin and Zelensky may reach an agreement before a harsh winter.
-
----
-
-### 2026-09-26 22:22:21  #MKT News
-
-President Trump said he believes the US and Cuba will reach an agreement and does not think use of military force will be necessary.
-
----
-
-### 2026-09-26 22:22:01  #國際
-
-特朗普：伊拉克總理是個很棒的人，也是我的朋友。我對他表示了支援。他確實是個了不起的人。
-
----
-
-### 2026-09-26 22:21:39  #國際
-
-特朗普：普京和澤連斯基或許會在嚴冬前達成協議。
-
----
-
-### 2026-09-26 22:21:06  #國際
-
-特朗普：我認為美國和古巴會達成協議，不認為需要動用軍隊。
-
----
-
-### 2026-09-26 22:19:36  #國際
-
-【特朗普據報拒絕伊朗的7日停火方案】據美國《國會山報》今天（9月26日）報道，美國總統特朗普已私下拒絕伊朗提出的一項為期七天的停火方案，並預計可能在11月美國中期選舉結束後恢復對伊朗的軍事打擊。（CCTV國際時訊）
-
----
-
-### 2026-09-26 22:15:50  #國際
-
-特朗普：按照全球變暖的說法，你們現在本該全都死了。這根本就是一場騙局。
-
----
-
-### 2026-09-26 22:15:03  #國際
-
-特朗普：美國不會對人工智慧踩剎車。
-
----
-
-### 2026-09-26 22:13:27  #MKT News
-
-【Trump says he rejected Iran's proposal to reopen the Strait of Hormuz】President Trump said on the 26th he rejected Iran's proposal to reopen the Strait of Hormuz, asserting the United States fully controls the channel and that large volumes of oil are flowing through it. He said Iran had sought an immediate agreement to reopen the strait but he declined.
-
----
-
-### 2026-09-26 22:12:41  #國際
-
-【特朗普稱拒絕伊朗重開霍爾木茲海峽的提議】美國總統特朗普26日稱，他拒絕了伊朗提出的重開霍爾木茲海峽的提議。 特朗普在接受媒體採訪時表示，美方完全控制了霍爾木茲海峽，大量石油正從霍爾木茲海峽流出。伊朗希望達成協議，立即重開霍爾木茲海峽，但“我拒絕了他們的提議”。（新華社）
-
----
-
-### 2026-09-26 22:11:33  #其他
-
-【剛果（金）小型飛機墜毀事故已致17人死亡】當地時間9月26日，剛果（金）一架小型軍用飛機25日墜毀，遇難人數升至17人，包含16名成年人與1名嬰兒。（央視新聞）
-
----
-
-### 2026-09-26 22:08:46  #國際
-
-烏克蘭總理表示：“作為世界銀行旨在發展醫療衛生系統的THRIVE專案的一部分，烏克蘭已從日本政府獲得5150萬美元資金。”
-
----
-
-### 2026-09-26 22:07:20  #國際
-
-【特朗普呼籲烏克蘭總統澤連斯基與俄羅斯達成和解】美國總統特朗普在一次採訪中呼籲烏克蘭總統澤連斯基與俄羅斯達成和解，並指出這場持續衝突造成了驚人的傷亡人數。特朗普強調，每月高達數萬人的死亡人數（其中絕大多數為軍事人員）使得達成即刻解決方案變得至關重要。特朗普稱：“我希望他與普京達成和解，也希望普京與他達成和解。這個月有25,000人喪生。真是令人痛心。”
-
----
-
-### 2026-09-26 22:03:36  #其他
-
-德國內政部長多布林特表示：“這波湧入潮並非由人道主義緊急情況引發，而是受虛假資訊誤導所致。”他呼籲，噹噹局認定存在與人道主義緊急情況無關的特殊事態時，應啟動遣返快速程式。
-
----
-
-### 2026-09-26 22:03:07  #MKT News
-
-Iraq's prime minister's office said Baghdad is in talks with the US to secure exemptions allowing some Iraqi airports to accept flights by Iranian carriers. Easing restrictions on Iranian airlines would enable Iraq to resume humanitarian aid flights.
-
----
-
-### 2026-09-26 22:02:47  #其他
-
-德國內政部長亞歷山大·多布林特：針對大規模越境事件（例如7月份大量人員湧入西班牙位於北非的飛地休達），應採取快速遣返程式。
-
----
-
-### 2026-09-26 22:01:02  #公司 #國際
-
-伊拉克總理辦公室：放寬對伊朗航空公司的限制將使伊拉克得以恢復人道主義需求相關航班。
-
----
-
-### 2026-09-26 22:00:10  #公司 #國際
-
-伊拉克總理辦公室：伊拉克正與美國商談，請求為部分伊拉克機場免除針對伊朗航空公司的限制措施。
-
----
-
-### 2026-09-26 21:56:31  #MKT News
-
-Trump said he spoke with Venezuela's interim president Rodriguez about election issues.
-
----
-
-### 2026-09-26 21:55:46  #國際
-
-特朗普：已就選舉事宜與委內瑞拉代總統羅德里格斯進行了交談。
-
----
-
-### 2026-09-26 21:54:09  #MKT News
-
-US President Trump said the US hopes to open Cuba to Americans.
-
----
-
-### 2026-09-26 21:53:18  #國際
-
-特朗普：我們希望向美國人民開放古巴。
 
 ---

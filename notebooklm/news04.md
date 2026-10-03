@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-10-03 21:52:18_
-_本檔包含 2109 則快訊，約 436661 字_
+_更新時間：2026-10-04 01:55:20_
+_本檔包含 2114 則快訊，約 436350 字_
+
+---
+
+### 2026-09-29 18:03:11  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CSI300
+
+【China to subsidize interest on residential mortgages from Oct. 1】China's Ministry of Finance said it will from Oct. 1 provide interest subsidies on newly issued commercial personal housing loans to lower homebuying costs and support first‑time, necessity-driven urban and rural demand. The subsidy targets ordinary families buying small, lower-priced units (unit area ≤120 sqm; purchase price ≤1.5 mln yuan). Eligible loan principal is capped at 1.0 mln yuan; the fiscal subsidy equals 1 percentage point (100 bps) annually for up to five years, about a one-third reduction versus current first‑home commercial mortgage rates. The ministry estimates the policy could reduce cumulative interest paid by up to roughly 50,000 yuan on a long-term 1.0 mln yuan mortgage.
+
+---
+
+### 2026-09-29 18:03:03  #其他
+
+諾和諾德公佈COMPETE SWITCH CV研究結果。
+
+---
+
+### 2026-09-29 18:02:52  #宏觀 #公司
+
+【財政部：貼息資金撥付採取“預撥＋結算”方式】財政部公告，實施居民購房貸款貼息政策。貼息資金撥付採取“預撥＋結算”方式。省級財政部門與全國性銀行省級分行、地方法人銀行總行、民營銀行總行和外資銀行境內總部（以下統稱經辦銀行省行）對接建立“省對省”工作機制，縮短工作鏈條，高效開展貼息資金預撥、稽核、結算、清算等各項工作。經辦銀行無省級分支機構的，由總部與註冊地省級財政部門對接。 經辦銀行省行於政策出臺後首月及每年1月底前，向當地省級財政部門提出當年貼息資金申請。省級財政部門於政策出臺後第2個月及每年2月底前，彙總經辦銀行省行貼息資金申請並報財政部。財政部根據年度預算安排，向省級財政部門預撥中央財政貼息資金，省級財政部門組織做好地方貼息資金保障。結合政策實施情況，財政部與省級財政部門、省級財政部門與經辦銀行省行分別結算貼息資金。貼息期滿後，財政部門與經辦銀行辦理貼息資金清算。
+
+---
+
+### 2026-09-29 18:02:31  #宏觀
+
+財政部：貼息資金由中央財政、地方財政分別按照90%、10%承擔。其中，省級及以下財政分擔比例由省級財政部門結合實際自主確定。
+
+---
+
+### 2026-09-29 18:02:27  #MKT News #Important
+
+China's Ministry of Finance said interest-subsidy costs will be borne 90% by the central budget and 10% by local budgets; provincial finance departments will autonomously set the split for provincial and lower-level governments based on local conditions.
+
+---
+
+### 2026-09-29 18:02:11  #行業 #公司 #焦點
+
+【財政部：貸款購買商品住房的居民家庭符合條件可享受中央財政貼息政策支援】財政部公告，實施居民購房貸款貼息政策。貸款購買商品住房的居民家庭，同時符合以下條件的，可享受中央財政貼息政策支援：1.使用新發放商業性個人住房貸款購買首套住房，不包括使用新發放商業性個人住房貸款置換存量貸款；2.所購住房建築面積在120平方米以下（含120平方米）；3.所購住房價格在150萬元以下（含150萬元）。（財政部）
+
+---
+
+### 2026-09-29 18:01:29  #其他
+
+Oura：自啟動IPO流程以來，業務進一步增強。
+
+---
+
+### 2026-09-29 18:01:19  #市場 #國際
+
+印度盧比<INR=IN>收盤基本持平，兌美元報1美元兌95.98盧比，前收盤價為1美元兌95.9825盧比。
+
+---
+
+### 2026-09-29 18:01:11  #其他
+
+Oura因市場不確定性推遲IPO。
+
+---
+
+### 2026-09-29 18:01:11  #央行 #中國央行
+
+【央行：增加科技創新和技術改造再貸款額度2000億元】中國人民銀行調整完善若干貨幣政策工具，增加科技創新和技術改造再貸款額度2000億元，並將該項再貸款支援比例統一從60%提高至100%。調增後，科技創新和技術改造再貸款額度從1.2萬億元增至1.4萬億元，且支援比例更高，有助於引導銀行加大對中小科技型企業貸款投放，更好地支援企業擴大重點領域裝置更新投資。
+
+---
+
+### 2026-09-29 18:01:11  #央行 #中國央行
+
+【央行：增加支農支小再貸款額度5000億元】中國人民銀行調整完善若干貨幣政策工具，增加支農支小再貸款額度5000億元，其中民營企業再貸款額度增加3000億元。調增後，支農支小再貸款和再貼現額度從4.35萬億元增至4.85萬億元，其中民營企業再貸款額度從1萬億元增至1.3萬億元，將進一步激勵地方法人銀行加大對涉農、小微企業，尤其是中小微民營企業的信貸支援。
+
+---
+
+### 2026-09-29 18:00:45  #宏觀
+
+【居民房貸貼息政策10月1日起實施 】財政部、中國人民銀行、金融監管總局9月29日聯合對外發布通知，明確自2026年10月1日起，實施居民購房貸款貼息政策，政策實施期暫定1年。這是中央財政首次對商業性個人住房貸款進行貼息。此次釋出的通知明確，對同時符合以下條件的居民家庭給予貼息支援：一是使用新發放的商業性個人住房貸款購買首套住房，不包括存量貸款置換；二是所購住房建築面積不超過120平方米；三是所購住房價格不超過150萬元。根據通知，可享受貼息的貸款規模最高可達100萬元，財政部門給予年化1個百分點的貼息，貼息期限最長5年。
+
+---
+
+### 2026-09-29 18:00:02  #宏觀
+
+財政部：實施居民購房貸款貼息政策。
+
+---
+
+### 2026-09-29 18:00:02  #MKT News #Important #CSI300 #Impact bullish #CNH #Copper
+
+China's Ministry of Finance said it will implement an interest-subsidy policy for residential home-purchase loans.
+
+---
+
+### 2026-09-29 17:59:55  #央行
+
+【央行：增加科技創新和技術改造再貸款額度2000億元】 中國人民銀行調整完善若干貨幣政策工具，增加科技創新和技術改造再貸款額度2000億元，並將該項再貸款支援比例統一從60％提高至100％。調增後，科技創新和技術改造再貸款額度從1.2萬億元增至1.4萬億元，且支援比例更高，有助於引導銀行加大對中小科技型企業貸款投放，更好地支援企業擴大重點領域裝置更新投資。
+
+---
+
+### 2026-09-29 17:59:28  #國際
+
+【以總理密訪阿聯酋，辛貝特狀告以媒“走漏風聲”】以色列國家安全總局（辛貝特）28日要求軍事審查機構對以色列第12頻道電視臺採取法律行動，稱後者在總理內塔尼亞胡密訪阿拉伯聯合大公國回國途中就把訊息捅了出去，屬於“嚴重違反軍事審查規定”。第12頻道電視臺27日援引訊息人士的說法率先披露，內塔尼亞胡當天中午搭乘一架私人飛機前往阿聯酋首都阿布扎比並在當地停留4個小時，其中1個小時與阿聯酋總統穆罕默德會談。次日，這家電視臺繼續爆料，稱會談在阿布扎比一座機場舉行。以總理府28日發表宣告說，辛貝特當天向軍事審查機構投訴，第12頻道電視臺於27日晚9時38分報道相關訊息，當時內塔尼亞胡搭乘的返程飛機尚未進入以色列領空，報道不僅危及出訪人員，還對此次行動本身以及以軍構成威脅。（新華社）
+
+---
+
+### 2026-09-29 17:59:13  #市場
+
+美元兌日元USD/JPY短線拉昇逾30點，最新報157.70。
+
+---
+
+### 2026-09-29 17:59:13  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Holds At $105 — Brent crude fluctuated above $105 a barrel on Tuesday as markets weighed efforts to ease Middle East tensions against continued uncertainty over US-Iran negotiations. Saudi Arabia has restored roughly half the flows through its East-West pipeline, with shipments to the Red Sea reaching at least 3.5 million barrels a day. The route provides a crucial alternative to exports through the Strait of Hormuz and is helping offset the lack of progress in diplomatic talks. US and Iranian officials have continued separate discussions with mediators, including indirect contacts through Qatar, as regional governments push for ceasefire negotiations. However, Iranian officials have privately expressed doubts that an agreement can be reached before the US midterm elections in November. President Donald Trump has rejected an Iranian proposal to restore full traffic through Hormuz and denied reports that Washington offered sanctions relief in exchange for nuclear concessions.
+
+---
+
+### 2026-09-29 17:59:12  #MKT News #Market Regions #Greater China
+
+【China's WTO reform proposal on development wins positive response from members】On the 28th, the WTO held a reform meeting on the development track. China's permanent representative to the WTO introduced China's 'Further Thoughts and Proposals on WTO Reform', laying out systematic positions on the role of development in WTO reform; the proposal drew broad attention and positive responses from members. China proposed that members first map concrete opportunities and challenges for developing members' integration into the multilateral trading system, then comprehensively review existing rules, tools and mechanisms and, where necessary, explore new solutions.
+
+---
+
+### 2026-09-29 17:59:11  #央行
+
+【央行：將新型電網、算力網、新一代通訊網等“六張網”建設納入PSL支援領域】中國人民銀行調整完善若干貨幣政策工具，擴大抵押補充貸款（PSL）支援領域。將水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”建設納入抵押補充貸款支援領域，引導政策性銀行加大對“六張網”建設的金融支援，助力擴大有效投資，深入挖掘內需潛力。
+
+---
+
+### 2026-09-29 17:59:04  #MKT News #Important #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY #EURUSD #Impact bearish
+
+USD/JPY surged just over 30 pips intraday to 157.70.
+
+---
+
+### 2026-09-29 17:59:01  #國際
+
+【中方世貿組織改革提案關於發展的建議獲成員積極回應】世界貿易組織28日舉行“發展軌道”改革專題會議。中國常駐世貿組織代表李詠箑在會上介紹《中方關於世貿組織改革的進一步思考和建議》提案，圍繞發展議題在世貿組織改革中的定位等議題提出系統主張，得到各方廣泛關注和積極回應。李詠箑指出，世貿組織成立30多年來，發展中經濟體在全球經濟和貿易中的比重顯著上升，但許多發展中成員在出口多元化、生產能力提升等方面仍面臨制約。中方主張始終將發展置於世貿組織改革的中心位置，並以問題導向的方式推進具體討論；世貿組織改革的“發展軌道”應發揮統籌作用，處理跨委員會、跨協定的系統性問題。（新華社）
+
+---
+
+### 2026-09-29 17:58:38  #Trading Economics #Markets #Commodity #Importance 1
+
+Oil Fluctuates on Tuesday — Crude oil fluctuated above $92 a barrel on Tuesday as markets weighed efforts to ease Middle East tensions against continued uncertainty over US-Iran negotiations. Saudi Arabia has restored roughly half the flows through its East-West pipeline, with shipments to the Red Sea reaching at least 3.5 million barrels a day. The route provides a crucial alternative to exports through the Strait of Hormuz and is helping offset the lack of progress in diplomatic talks. US and Iranian officials have continued separate discussions with mediators, including indirect contacts through Qatar, as regional governments push for ceasefire negotiations. However, Iranian officials have privately expressed doubts that an agreement can be reached before the US midterm elections in November. President Donald Trump has rejected an Iranian proposal to restore full traffic through Hormuz and denied reports that Washington offered sanctions relief in exchange for nuclear concessions.
+
+---
+
+### 2026-09-29 17:58:27  #央行 #中國央行
+
+【央行：將新型電網、算力網、新一代通訊網等“六張網”建設納入PSL支援領域】中國人民銀行調整完善若干貨幣政策工具，擴大抵押補充貸款（PSL）支援領域。將水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”建設納入抵押補充貸款支援領域，引導政策性銀行加大對“六張網”建設的金融支援，助力擴大有效投資，深入挖掘內需潛力。
+
+---
+
+### 2026-09-29 17:57:35  #公司
+
+【*ST利達：公司股票存在可能被終止上市的風險】*ST利達公告稱，公司因連續2個會計年度財務報告內部控制被出具否定意見的審計報告，股票於2026年4月29日起被實施退市風險警示，後續若未滿足撤銷退市風險警示條件，公司股票存在可能被終止上市的風險，公司將每月披露一次風險提示公告。2026年半年度公司實現營業收入4.14億元，同比減少53.86%；淨虧損0.46億元，同比減少552.57%。截至公告披露日，公司控股股東柯利達集團持股18.74%，質押比例95.56%；實控人顧益明、顧龍棣、顧佳合計持股8.97%，質押比例54.26%。
+
+---
+
+### 2026-09-29 17:57:30  #公司
+
+【東陽光：控股股東提議6億元-12億元回購股份】東陽光公告稱，公司於2026年9月29日收到控股股東深圳市東陽光實業發展有限公司的回購提議，擬以自有或自籌資金透過集中競價方式回購公司A股股份，回購資金規模不低於6億元（含）且不超過12億元（含），回購價格不超過董事會透過回購決議前30個交易日公司股票交易均價的150%，實施期限為董事會審議透過回購方案之日起6個月內。深圳東陽光實業此前披露2026年7月31日起6個月內增持公司股份計劃，增持金額不低於3億元、不高於6億元，承諾增持期間及法定期限內不減持所持公司股份。本次回購事項尚需履行審批程式，存在不確定性。
+
+---
+
+### 2026-09-29 17:56:43  #公司
+
+【電投水電：擬與重慶公司簽訂委託管理協議，年收費6700萬元】電投水電公告，公司擬與國家電投集團重慶電力有限公司簽署《委託管理協議》，由公司對重慶公司實施經營管理，協議自簽訂生效之日起至2028年12月31日，管理費用按每年6700萬元（含稅）收取。重慶公司為公司實際控制人國家電投集團全資子公司，本次構成關聯交易；相關議案已獲公司第十一屆董事會第七次（臨時）會議審議透過。
+
+---
+
+### 2026-09-29 17:54:40  #MKT News #Important #CSI300 #Impact bullish #CNH #Hang Seng Index
+
+People's Bank of China raised the re-lending and rediscount quota for agriculture and small businesses by 500 billion yuan, including a 300 billion yuan increase earmarked for private enterprises. The quota rises to 4.85 trillion yuan from 4.35 trillion yuan; the private-enterprise re-lending allocation increases to 1.3 trillion yuan from 1.0 trillion yuan. PBOC said the move will further encourage locally incorporated banks to expand credit to agricultural borrowers and small, micro and private enterprises.
+
+---
+
+### 2026-09-29 17:54:24  #MKT News #Important #CSI300 #Impact bullish #Hang Seng Index #Copper
+
+PBOC raises the re-lending quota for tech innovation and technological transformation by 200 billion yuan to 1.4 trillion yuan and increases the facility's support ratio from 60% to 100%, aiming to steer banks to expand lending to SME tech firms and to support corporate equipment upgrades.
+
+---
+
+### 2026-09-29 17:54:21  #央行 #宏觀
+
+【央行：下調抵押補充貸款（PSL）利率0.25個百分點】為貫徹中央政治局會議精神和國務院常務會議部署，實施好適度寬鬆的貨幣政策，中國人民銀行在充分發揮各項存量政策效能的基礎上，決定進一步調整完善幾項貨幣政策工具，為經濟平穩增長、高質量發展和金融市場穩定執行創造適宜的貨幣金融環境，推動經濟持續向新向優向好發展，支援“十五五”實現良好開局。一是下調抵押補充貸款（PSL）利率0.25個百分點。一年期抵押補充貸款利率從1.75%降至1.5%，更好激勵政策性銀行支援實體經濟、服務國家戰略。二是擴大抵押補充貸款支援領域。將水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”建設納入抵押補充貸款支援領域，引導政策性銀行加大對“六張網”建設的金融支援，助力擴大有效投資，深入挖掘內需潛力。三是增加科技創新和技術改造再貸款額度2000億元，並將該項再貸款支援比例統一從60%提高至100%。調增後，科技創新和技術改造再貸款額度從1.2萬億元增至1.4萬億元，且支援比例更高，有助於引導銀行加大對中小科技型企業貸款投放，更好地支援企業擴大重點領域裝置更新投資。四是增加支農支小再貸款額度5000億元，其中民營企業再貸款額度增加3000億元。
+
+---
+
+### 2026-09-29 17:54:17  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CNH #Impact mixed
+
+PBOC expands the scope of Pledged Supplementary Lending (PSL) to include construction of six networks — water networks, new-type power grids, computing power networks, next‑generation communications networks, urban underground pipe networks and logistics networks — and will guide policy banks to step up financing for these projects to help expand effective investment and deepen domestic demand.
+
+---
+
+### 2026-09-29 17:53:50  #其他
+
+中國人民銀行：下調抵押補充貸款（PSL）利率0.25個百分點。一年期抵押補充貸款利率從1.75%降至1.5%，更好激勵政策性銀行支援實體經濟、服務國家戰略。
+
+---
+
+### 2026-09-29 17:53:45  #央行 #中國央行
+
+【中國人民銀行調整完善若干貨幣政策工具】下調抵押補充貸款（PSL）利率0.25個百分點。一年期抵押補充貸款利率從1.75%降至1.5%，更好激勵政策性銀行支援實體經濟、服務國家戰略。擴大抵押補充貸款支援領域。將水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網等“六張網”建設納入抵押補充貸款支援領域，引導政策性銀行加大對“六張網”建設的金融支援，助力擴大有效投資，深入挖掘內需潛力。增加科技創新和技術改造再貸款額度2000億元，並將該項再貸款支援比例統一從60%提高至100%。
+
+---
+
+### 2026-09-29 17:53:42  #MKT News #Important #Macro & Rates #CNH #Impact bearish #Copper #Impact bullish #Hang Seng Index
+
+PBOC cut the mortgage-supplementary lending (PSL) rate by 25 bps, lowering the one-year PSL rate to 1.50% from 1.75%. The central bank said the reduction aims to better incentivize policy banks to support the real economy and national strategic priorities.
+
+---
+
+### 2026-09-29 17:53:25  #MKT News #Important
+
+PBOC adjusts and refines several monetary policy tools.
+
+---
+
+### 2026-09-29 17:53:24  #其他
+
+中國人民銀行調整完善若干貨幣政策工具。（中國人民銀行）
+
+---
+
+### 2026-09-29 17:52:48  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Emerging Markets #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+【Thailand targets short-term debt to address rising bond volatility】Amid global bond market volatility driven by rising US Treasury yields, Thailand may shift toward short-term financing to meet government borrowing needs for fiscal 2027, the Public Debt Management Office director-general Jindarat said. The office is weighing greater issuance of treasury bills, term loans and promissory notes and is assessing investor demand across maturities; new issuance may be shorter-dated. It may initially raise and refinance via short-term instruments and convert to longer-term securities when market conditions improve; financing for SOE projects and programs under emergency decree may likewise begin as term loans or promissory notes to better match project timelines.
+
+---
+
+### 2026-09-29 17:52:47  #公司
+
+【清華大學經濟管理學院顧問委員會新增3人：黃仁勳、蘇姿豐、百達銘】據清華大學經濟管理學院顧問委員會官方釋出的資訊顯示，今年顧問委員會新增委員3人，新增接任委員5人。3位新增委員分別是英偉達創始人兼執行長黃仁勳（Jensen Huang），AMD董事會主席兼執行長蘇姿豐（Lisa Su），瑞士百達集團高階管理合夥人百達銘（Marc Pictet）。5位新增接任委員分別是寶馬集團董事長聶科維（Milan Nedeljković），沃爾瑪公司總裁兼執行長方威翰（John Furner），可口可樂公司執行長柏瑞凱（Henrique Braun），泛大西洋資本集團聯席總裁、全球成長型股權投資負責人馬丁·埃斯科瓦里（Martín Escobari），bp集團執行長梅格·奧尼爾（Meg O‘Neill）。上述5位接任委員所在公司的前任都曾是學院顧問委員會委員，因工作變動不再擔任。
+
+---
+
+### 2026-09-29 17:52:42  #Trading Economics #Economy #Belgium #Inflation Rate #Importance 1
+
+Belgium Inflation Rate Climbs to Highest Since 2023 — Belgium’s annual inflation rate climbed to 4.69% in September 2026, its highest level since May 2023, from 3.97% in the previous month. Energy inflation accelerated sharply to 24.4% from 16.5%, while inflation for housing and utilities surged to 9.5% from 6.9%. Transport inflation also increased to 7% from 5.3%. Additional upward pressure came from higher price growth in health (6.7% vs 6.6%), information and communication (1.9% vs 1.6%), and restaurants and hotels (5.1% vs 3.7%). In contrast, inflation in recreation, sports and culture eased to 8.9% from 9.2%, while food prices were unchanged from a year earlier, following a 0.3% increase in August. On a monthly basis, consumer price growth remained broadly stable, with prices rising 0.39% after a 0.41% increase in August.
+
+---
+
+### 2026-09-29 17:52:38  #公司
+
+【九華旅遊：聘任張國祥為副總經理 擬投建多個改造專案】九華旅遊公告稱，公司第九屆董事會第十七次會議審議透過多項議案：聘任張國祥為公司副總經理，任期與本屆董事會一致；擬以自有資金投建九華山百歲宮纜車升級改造專案，總投資估算1.12億元；投建五溪山色大酒店C區改造專案，總投資估算706.88萬元；投建九華山中心大酒店北樓客房升級改造專案，總投資估算5150.00萬元；擬透過公開招標實施勞務外包服務集中採購，年度交易金額上限2165萬元，服務期3年。會議同意於2026年10月15日召開2026年第二次臨時股東會。
+
+---
+
+### 2026-09-29 17:52:04  #公司
+
+【九華旅遊：董事會透過1.12億元纜車升級專案】九華旅遊公告，公司擬以自有資金投資建設九華山百歲宮纜車升級改造專案，專案總投資估算為人民幣1.12億元。2026年9月29日，公司第九屆董事會第十七次會議審議透過該議案，本專案已完成可行性研究、立項備案等工作，無需提交股東會審議。
+
+---
+
+### 2026-09-29 17:51:23  #公司
+
+【大唐電信：轉讓合同權益獲董事會透過，9935.22萬元】大唐電信公告，公司擬向關聯方聯芯科技有限公司轉讓《研發樓認購協議》及《研發樓認購補充協議》的部分合同權益，轉讓價格9935.22萬元。2026年9月29日，公司董事會審議透過相關議案，關聯董事迴避表決；本次交易尚需提交股東會審議。
+
+---
+
+### 2026-09-29 17:51:16  #市場 #國際
+
+印度Nifty 50指數<.NSEI>指示性點位下跌2.49%，延續盤前競價階段0.42%的跌幅。
+
+---
+
+### 2026-09-29 17:50:50  #公司 #市場
+
+【津藥藥業：股票交易異常波動 上半年業績下滑】津藥藥業公告稱，公司股票於2026年9月28日、9月29日連續兩個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動情形。經自查並向控股股東、間接控股股東函詢，截至公告披露日，公司及控股股東不存在應披露而未披露的重大事項。上海上實及上實投發意向出讓合計持有的上海琉璃光100%股份，相關國有股權已於2026年9月24日公開掛牌披露，目前尚無意向受讓方。公司2026年半年度實現營業收入13.13億元，同比下降17.33%；歸母淨利潤4317.35萬元，同比下降12.43%；扣非歸母淨利潤4286.81萬元，同比下降63.24%。敬請投資者注意投資風險。
+
+---
+
+### 2026-09-29 17:50:43  #公司 #市場
+
+【*ST華幸：股票交易異常波動 提示重整等相關風險】*ST華幸公告稱，公司股票於2026年9月24日、9月28日、9月29日連續三個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動情形。經自查及向控股股東、實控人核實，除已披露的簽署重整投資協議事項外，不存在其他應披露未披露的重大事項，董監高、控股股東及實控人在異動期間未買賣公司股票。公司已與相關方簽署重整投資協議，存在投資人履約風險；廊坊中院受理預重整不代表正式受理重整申請，公司是否進入重整程式存在重大不確定性。公司2025年末歸母淨資產為負，已被實施退市風險警示及其他風險警示，2026年上半年淨虧損46.92億元，存在終止上市風險。
+
+---
+
+### 2026-09-29 17:50:41  #Trading Economics #Economy #Botswana #GDP Annual Growth Rate #Importance 1
+
+Botswana GDP Growth Hits Near 5-Year High — Botswana’s economy grew by 8.7% yoy in Q2 2026, its fastest pace since Q3 2021, accelerating from 3.5% in the prior period. The expansion was largely driven by an 81.7% surge in mining & quarrying, reflecting strong growth in the diamond mining sub-industry. Diamond production jumped 94.7% on higher processing volumes at the Orapa and Jwaneng mines and improved recovered grades. Coal output rose 27.8% and copper 4.0%, while soda ash and salt production fell 68.0% following a planned maintenance shutdown at the Botash plant. Other sectors also expanded, led by professional, scientific & technical activities (3.8%); accommodation & food services (3.4%); education (3.3%) and wholesale & retail trade (3.1%). Conversely, output delined sharply for agriculture, forestry & fishing (-23%) and diamond traders (-27.9%). On a quarterly basis, the GDP rose by 1.3% in Q2, following a 9.2% expansion in the prior quarter.
 
 ---
 
@@ -12478,251 +12754,5 @@ Gilt Yields Surge as Inflation Risks Raise Rate-Hike Expectations — UK 10-year
 ### 2026-09-28 19:54:55  #Trading Economics #Economy #Brazil #Foreign Direct Investment #Importance 1
 
 Brazil FDI Inflows Ease in August — Brazil recorded foreign direct investment (FDI) inflows of $7.4 billion in August 2026, down from $7.7 billion a year earlier. Equity inflows totaled $9.3 billion, including $3.6 billion in non-reinvested equity and $5.7 billion in reinvested earnings, while intercompany lending recorded net outflows of $1.9 billion. Portfolio investment recorded net outflows of $5.2 billion in August 2026, as equity and fund investments posted outflows of $6.5 billion, partly offset by inflows of $1.3 billion in debt securities. Over the 12 months to August, FDI totaled $86.6 billion, equivalent to 3.39% of GDP.
-
----
-
-### 2026-09-28 19:45:37  #Trading Economics #Economy #Brazil #Current Account #Importance 1
-
-Brazil Current Account Deficit Deepens More Than Expected — Brazil’s current account deficit widened to $5.06 billion in August 2026, from $3.78 billion a year earlier, well above market expectations for a $4.9 billion shortfall. The deterioration was driven by a widening of 28.2% of the services deficit to $5.3 billion, largely due to higher net transportation expenses (28.3%), intellectual property costs (52.4%), telecommunications, computing and information services (128.2%), and equipment rental (6.6%). The primary income deficit also widened to $7 billion, driven by higher expenses on profits and dividends. In contrast, the goods trade surplus widened to $6.6 billion, as exports rose 12.1% year-on-year, outpacing 9.4% growth in imports. The secondary income surplus also rose to $528 million. Over the twelve months to August, the current account deficit rose to 2.47% of GDP.
-
----
-
-### 2026-09-28 19:24:20  #Trading Economics #Markets #South Africa #Currency #Importance 0
-
-South African Rand at Near 2-Month Low — The South African rand traded around 16.4 per USD, its weakest level since early August, as stalled US-Iran negotiations pushed oil prices higher, weighing on risk-sensitive currencies in oil-importing economies. At the same time, heightened geopolitical uncertainty boosted safe-haven demand for the greenback, while declines in key precious metals prices removed support for the rand. Locally, the South African Reserve Bank raised its key repo rate to 7.25% on September 23, following similar decisions by the Fed and the ECB. Governor Kganyago cited renewed upside risks to the inflation outlook and stressed the need to bring inflation back to the SARB’s 3% target, reaffirming the central bank’s commitment to price stability. The Reserve Bank noted the global fuel-price shock had intensified recently and raised its near-term inflation forecasts accordingly. Headline inflation ticked up to 4.4% in August from 4.3% in July, but is expected to accelerate in the next few months.
-
----
-
-### 2026-09-28 19:16:33  #央行 #英國央行
-
-【英國央行副行長Ramsden稱利率可能不得不上調】英國央行副行長Ramsden稱利率可能不得不上調，內部加息呼聲日漸高漲。
-
----
-
-### 2026-09-28 18:51:52  #央行 #美聯儲
-
-【美國重磅資料本週登場 料強化美聯儲10月加息理由】本週即將公佈的幾項重要經濟資料預計將進一步顯示美國經濟正在走強，從而為多位美聯儲官員有關利率應當進一步上調的主張提供更多依據。
-
----
-
-### 2026-09-28 18:51:27  #Trading Economics #Economy #India #Industrial Production #Importance 2
-
-India Industrial Output Growth Beats Expectations — India’s industrial production growth accelerated to 8.0% year-on-year in August 2026, up from an upwardly revised 7.4% in July and well above market expectations of 6.5%. Manufacturing output rose 9.0%, accelerating from 8.2% in July, led by electrical equipment (30.9%), motor vehicles (25.2%), rubber and plastics products (21.4%), computer, electronic and optical products (19.3%), fabricated metal products (16.9%), textiles (13.1%), and machinery and equipment (10.3%). Among other major industries, basic metals production increased 2.4% and food products rose 2.8%, while output contracted in coke and refined petroleum products (-0.6%) and chemicals and chemical products (-0.5%). Elsewhere, electricity and gas supply growth accelerated to 12.3% from 8.7% in July, while mining and quarrying output fell 5.6%, following a 0.9% decline in the previous month.
-
----
-
-### 2026-09-28 18:22:35  #Trading Economics #Economy #Macedonia #Producer Prices Change #Importance 1
-
-Macedonia Producer Inflation Hits 1½-Year High — The annual producer inflation rate in North Macedonia rose to 7.1% in August 2026 from 6.5% in the previous month, reaching its highest level since February 2025. Price growth accelerated for intermediate goods excluding energy (6.2% vs 5.3% in July), capital goods (11.9% vs 10.9%), and consumer goods (4.0% vs 3.9%), both durable (4.4% vs 3.8%) and non-durable (4.0% vs 3.9%). Conversely, energy prices eased (10.2% vs 11.3%). By sector and division, costs rose for manufacturing (6.3% vs 5.9%), particularly for food products, textiles, paper and paper products, basic pharmaceutical products and preparations, and machinery and equipment. Costs also climbed in mining and quarrying (21.7% vs 16.4%). Meanwhile, inflation moderated in electricity, gas, steam and air conditioning supply (10.5% vs 11.7%), while it held steady in water supply, sewerage, waste management, and remediation services at 7.4%. On a monthly basis, producer prices edged up 0.4% in August after remaining flat in July.
-
----
-
-### 2026-09-28 18:20:51  #Trading Economics #Markets #Commodity #Importance 1
-
-Soybeans Ease to Over 2-Week Low — Soybeans fell below $13 a bushel, their lowest level in more than two weeks, but remained close to the 3-1/2-year high of $13.30 on September 10, as traders awaited signs that the US-China agreement to reduce tariffs on roughly $30 billion of imports from each country would translate into stronger Chinese demand for US soybeans. China’s tariff reductions cover products including corn, wheat, sorghum, meat, seafood and fresh produce, while the two countries also agreed to create an agricultural working group. Soybeans, however, were notably excluded apart from seeds, leaving US shipments subject to a roughly 13% tariff. China has already purchased more than half of its annual pledge to buy 25 million tons of US soybeans, but progress on a separate $17 billion agricultural purchase commitment remains limited. Ample supplies, weak domestic demand and disruptions to Black Sea grain flows could further constrain Chinese imports in the near term.
-
----
-
-### 2026-09-28 18:19:41  #央行 #中國央行
-
-【八部門：健全徵信服務體系 逐步培育具有全球話語權的信用評級機構】中國人民銀行等八部門聯合印發《關於金融支援服務業擴能提質的指導意見》。其中提出，健全徵信服務體系。發揮金融信用資訊基礎資料庫的徵信服務主渠道功能，助力有資金需求、有發展前景的服務業經營主體獲得融資支援。持續提升信用評級質量，發揮信用評級機構專業化水平，逐步培育具有全球話語權的信用評級機構。
-
----
-
-### 2026-09-28 18:19:38  #其他
-
-【剛果（金）埃博拉疫情確診病例超8000例】總檯記者獲悉，剛果（金）衛生部9月28日公佈的最新資料顯示，截至目前，該國本輪埃博拉疫情累計報告確診病例8067例，其中3901人死亡；另有2070人康復，773人仍在住院治療或接受隔離。疫情已擴散至全國26個省份中的7個省、共計63個衛生區，包括伊圖裡省、喬波省、北基伍省、南基伍省、下韋萊省、上韋萊省以及南烏班基省。（央視新聞）
-
----
-
-### 2026-09-28 18:18:53  #公司
-
-【永貴電器：擬回購登出4.41萬股限制性股票】永貴電器公告稱，因2022年限制性股票激勵計劃預留授予第一類限制性股票第三個解除限售期業績考核未達標，公司擬對34名激勵物件已獲授但尚未解除限售的44100股第一類限制性股票按調整後6.749元/股的價格回購登出。本次回購登出完成後，公司總股本將由3.89億股變更為3.89億股，註冊資本相應減少。公司已通知債權人，債權人可自公告之日起45日內要求公司清償債務或提供相應擔保。
-
----
-
-### 2026-09-28 18:18:47  #公司
-
-【漢朔科技：股份回購方案實施完畢 累計回購2.9998億元】漢朔科技公告稱，公司股份回購方案已期限屆滿並實施完畢，實際回購時間為2025年10月14日至2026年9月24日。公司累計回購股份660.24萬股，佔總股本的1.5631%，回購最高成交價67.85元/股，最低成交價38.40元/股，成交總金額2.9998億元（不含交易費用）。本次回購股份擬用於員工持股計劃或股權激勵，其中116.8355萬股已於2026年6月10日過戶至2026年員工持股計劃賬戶，剩餘543.4045萬股存放於回購專用賬戶。
-
----
-
-### 2026-09-28 18:18:41  #公司 #市場
-
-【凌雲光：股東詢價轉讓初步定價為38元/股】凌雲光公告稱，公司股東姚毅、東臺凌傑企業管理合夥企業（有限合夥）、東臺凌光企業管理合夥企業（有限合夥）開展詢價轉讓，經2026年9月28日詢價申購，初步確定轉讓價格為38.00元/股，為當日收盤價41.40元/股的91.79%。參與報價申購的機構投資者共26家，有效申購數量1399.5萬股，初步確定26家機構為受讓方，擬受讓股份總數1399.5萬股。本次詢價轉讓不屬於二級市場減持，受讓方受讓股份後6個月內不得轉讓，最終結果以中登公司上海分公司辦理結果為準，不涉及公司控制權變更。
-
----
-
-### 2026-09-28 18:18:32  #公司
-
-【海天味業：9月28日回購A股及H股股份】海天味業公告稱，2026年9月28日，公司在上交所回購A股40萬股，回購價區間為32.94元-33.62元，總金額1328.58萬元，擬持作庫存股，用於登出減資及/或員工持股計劃或股權激勵；同日在港交所回購H股10萬股，回購價區間為26.94港元-27.12港元，總金額270.27萬港元，擬登出。截至2026年7月14日透過的H股回購授權可回購上限為2912.24萬股，截至當日累計已回購H股737.16萬股，佔授權日已發行H股的2.53%。
-
----
-
-### 2026-09-28 18:18:16  #公司
-
-【*ST卓然：公司及全資子公司涉及金融借款合同糾紛訴訟】*ST卓然公告稱，公司及全資子公司卓然（靖江）裝置製造有限公司、實控人張錦紅因金融借款合同糾紛，被中國農業銀行股份有限公司上海浦東分行起訴，上海市浦東新區人民法院已立案受理，尚未開庭。原告請求判令公司償還借款本金1000萬元、截至2026年8月25日的利息5.15萬元及後續逾期利息，子公司與張錦紅承擔連帶保證責任，三被告承擔訴訟費、保全費等。本案判決結果存在不確定性，對公司利潤的影響暫無法判斷。
-
----
-
-### 2026-09-28 18:18:00  #公司 #市場
-
-【上期所：石油瀝青期貨BU2610、BU2611合約的日內開倉交易的最大數量為3000手】據上海期貨交易所，經研究決定，自2026年9月30日（即9月29日夜盤）交易起，非期貨公司會員、境外特殊非經紀參與者、客戶在相關期貨合約的交易限額調整如下： 石油瀝青期貨BU2610、BU2611合約的日內開倉交易的最大數量為3000手。
-
----
-
-### 2026-09-28 18:17:27  #公司 #焦點
-
-【蜂助手：簽署算力業務重大合同，服務協議57.17億元】蜂助手公告，近日，公司與C公司簽署算力伺服器採購協議，協議總金額為39.6億元（含稅價）；與D公司簽署算力服務協議，協議金額為57.17億元（含稅價，不含機櫃服務費，另計），服務合作期限為60個月。相關議案已經董事會審議透過，其中採購協議尚需提交股東會審議。
-
----
-
-### 2026-09-28 18:16:48  #公司 #觀點
-
-花旗集團將Group 1 Automotive Inc <GPI.N>的目標價從387美元下調至357美元。
-
----
-
-### 2026-09-28 18:16:13  #其他
-
-西班牙市場競爭委員會批准Ohmnia對Azkoyen的收購要約。
-
----
-
-### 2026-09-28 18:16:05  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100
-
-Bank of England Deputy Governor Ramsden said the Bank will begin selling gilts maturing between 2033 and 2049.
-
----
-
-### 2026-09-28 18:16:04  #國際
-
-Pidilite Industries：合作將韓國先進粘合技術引入印度。
-
----
-
-### 2026-09-28 18:15:52  #MKT News
-
-【House Speaker Johnson launches six-week midterm sprint to 22 states】House Speaker Mike Johnson has launched a six-week midterm campaign sprint, planning visits to 22 states and more than 40 congressional districts before Election Day, Axios reports. The effort is aimed at defending the Republican House majority as the political landscape tilts toward Democrats. The Cook Political Report on Friday moved ratings for 15 House seats toward Democrats and said Republicans must win most of the remaining swing districts to retain control. Johnson’s itinerary is split roughly evenly between defending vulnerable GOP-held seats and targeting Democratic-held districts.
-
----
-
-### 2026-09-28 18:15:50  #央行 #中國央行
-
-【八部門：整治誘導過度借貸、非法高息放貸等違法違規行為】中國人民銀行、金融監管總局、中國證監會、國家發展改革委、工業和資訊化部、財政部、商務部、文化和旅遊部印發《關於金融支援服務業擴能提質的指導意見》。其中指出，針對現代服務新業態，加強消費者資訊保安保護，明晰資料收集和互動邊界，嚴防違規獲取個人金融資訊，整治誘導過度借貸、非法高息放貸等違法違規行為。
-
----
-
-### 2026-09-28 18:15:33  #公司
-
-【艾布魯：熊燕減持計劃期限屆滿，累計減持212.77萬股】艾布魯公告，特定股東熊燕原計劃於2026年6月25日至2026年9月24日集中競價減持不超過226.2萬股，佔公司總股本比例1.00%。截至2026年9月24日，熊燕累計減持212.77萬股，減持均價21.17元/股，佔總股本比例0.94%，本次減持計劃期限已屆滿。
-
----
-
-### 2026-09-28 18:15:14  #其他
-
-【八部門：適時最佳化政策，激勵引導金融機構加大服務消費信貸供給，做好對服務業重點領域金融支援 】中國人民銀行等八部門聯合印發《關於金融支援服務業擴能提質的指導意見》，《意見》指出，用好服務消費與養老再貸款等政策工具，適時最佳化政策，激勵引導金融機構加大服務消費信貸供給，做好對服務業重點領域金融支援。實施好服務業經營主體貸款貼息、中小微企業貸款貼息和個人消費貸款貼息等財政金融協同促內需一攬子政策。發揮政府性融資擔保作用，按照市場化、法治化原則確定融資擔保業務範圍和擔保費率，支援服務業等領域經營主體融資發展。落實好首臺（套）保險補償政策。持續推動明示企業和個人貸款綜合融資成本，促進中小服務業企業綜合融資成本低位執行。
-
----
-
-### 2026-09-28 18:14:59  #央行 #其他
-
-拉姆斯登：英國央行的債券出售將從2035至2049年到期的長期英債開始。
-
----
-
-### 2026-09-28 18:14:51  #公司 #焦點
-
-【*ST康佳：深交所受理公司股票主動終止上市申請】*ST康佳公告，公司擬以股東會決議方式主動撤回A股和B股股票在深交所的上市交易，並在終止上市後申請轉入退市板塊轉讓。該事項已於2026年9月14日經臨時股東會審議透過。公司於9月23日向深交所提交終止上市申請，9月28日收到深交所受理函。根據規定，深交所將在受理後十五個交易日內形成審議意見，公司股票自終止上市決定公告之日起五個交易日內摘牌，不設退市整理期。
-
----
-
-### 2026-09-28 18:14:41  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-Shell Stock Price Hits 6-year High — Shell shares increased to 42.86 EUR, the highest since May 2020. Over the past 4 weeks, Shell plc gained 8.91%, and in the last 12 months, it increased 38.13%.
-
----
-
-### 2026-09-28 18:14:31  #宏觀 #焦點
-
-【習近平就建設更高水平平安中國作出重要指示】中共中央總書記、國家主席、中央軍委主席習近平近日就建設更高水平平安中國作出重要指示指出，黨的十八大以來，平安中國建設取得顯著成效，人民安居樂業、社會安定有序的良好局面更加鞏固，我國成為世界上最安全的國家之一。習近平強調，新徵程上，要以新時代中國特色社會主義思想為指導，堅定不移貫徹總體國家安全觀，堅持和加強黨的全面領導，統籌發展和安全，注重懲防並舉、標本兼治，強化法治支撐、科技賦能，加強國家安全體系和能力建設，提高公共安全治理水平，完善社會治理體系，防範化解各類風險，在國家更加安全、社會更加有序、治理更加有效、人民更加滿意上持續用力，以更高水平平安中國建設保障中國式現代化行穩致遠。平安中國建設工作會議28日在京召開。會上傳達了習近平重要指示。中共中央政治局委員、中央政法委書記陳文清出席會議並講話。他指出，習近平總書記的重要指示為平安中國建設擘畫了藍圖、指明瞭方向。在黨中央堅強領導下，平安中國建設成就舉世公認，“平安”已成為“中國之治”的顯著標志，這根本在於以習近平同志為核心的黨中央領航掌舵，在於習近平新時代中國特色社會主義思想科學指引。我們要堅定不移貫徹總體國家安全觀，深入學習貫徹習近平總書記重要指示精神，在黨中央集中統一領導下，懲防並舉、標本兼治，齊抓共管、形成合力，奮力建設更高水平平安中國。(央視新聞)
-
----
-
-### 2026-09-28 18:14:16  #其他
-
-挪威Sparebanken銀行將抵押貸款和存款利率最高上調0.25個百分點。
-
----
-
-### 2026-09-28 18:14:10  #市場 #國際
-
-美國原油期貨上漲逾4%，觸及每桶96.44美元的盤中高點，因美伊和平努力陷入停滯。
-
----
-
-### 2026-09-28 18:14:05  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #DXY #Impact bullish #US10Y
-
-S&P GLOBAL MARKET INTELLIGENCE data showed the iTraxx Europe Crossover index hit a five-and-a-half-month high of 298 bps.
-
----
-
-### 2026-09-28 18:13:55  #MKT News
-
-【Eight ministries move to curb inducement of excessive borrowing and illegal high‑interest lending】A joint opinion by eight ministries and agencies calls for stronger protection of financial consumers’ and investors’ rights, expanded financial literacy campaigns and coordinated age‑friendly digital upgrades to prevent service gaps for the elderly. It requires tighter consumer data safeguards for new service models, clearer boundaries on data collection and exchange, and measures to prevent illegal acquisition of personal financial information. The document orders remediation of inducement to excessive borrowing, illegal high‑interest lending and other violations, wider regulatory coverage and law‑based crackdowns on financial crimes. It also directs authorities to streamline consumer and investor complaint channels and to improve diversified dispute‑resolution mechanisms.
-
----
-
-### 2026-09-28 18:13:53  #其他
-
-【八部門：整治誘導過度借貸、非法高息放貸等違法違規行為】《意見》提出，加強金融消費和投資權益保護。深入開展金融知識普及，統籌推進金融適老化改造，防範數字化發展中出現老年人金融服務鴻溝。針對現代服務新業態，加強消費者資訊保安保護，明晰資料收集和互動邊界，嚴防違規獲取個人金融資訊，整治誘導過度借貸、非法高息放貸等違法違規行為。加強監管全覆蓋，依法打擊各類金融違法犯罪活動。暢通金融消費者和投資者投訴渠道，完善金融糾紛多元化解機制。（中國人民銀行）
-
----
-
-### 2026-09-28 18:13:48  #央行 #中國央行
-
-【央行等八部門：引導金融機構綜合運用信貸、債券、股權等多樣化工具 支援“人工智慧+軟體”發展】中國人民銀行等八部門聯合印發《關於金融支援服務業擴能提質的指導意見》，意見提出，賦能軟體和資訊科技服務創新發展。引導金融機構綜合運用信貸、債券、股權等多樣化工具，支援“人工智慧+軟體”發展，推動智慧程式設計工具和工業軟體創新突破、基礎軟體生態和開源社群建設、智慧視聽系統生態場景應用等，發展智慧體即服務、模型即服務等新業態。
-
----
-
-### 2026-09-28 18:13:29  #其他
-
-【八部門：助力科技服務攻堅突破】《意見》提出，圍繞研發設計、智慧財產權、科技成果轉化、檢驗檢測認證等重點領域，創新推出匹配輕資產、長週期特點的金融產品。為科技型企業孵化器等創新服務平臺建設適配豐富多樣的金融市場和金融生態。支援發展技術交易市場，結合技術資料交易場景，創新金融產品和融資服務模式，助力培育高水平技術轉移機構和技術經理人。支援製造業核心企業併購融資，沿鏈整合上下游科技服務企業。發展科技保險，支援企業投保產品研發責任險，鼓勵保險機構與中試機構合作開展相關保險業務。
-
----
-
-### 2026-09-28 18:13:19  #MKT News #CNH #Impact bullish #DXY #Impact bearish
-
-【China's eight departments push deeper cross-border trade and investment‑financing facilitation】China's eight government departments issued guidance to advance high‑level financial opening and deepen measures easing cross-border trade and investment financing. The package encourages service‑sector firms to prioritise RMB pricing and settlement, and aims to boost financial institutions' onshore‑offshore resource allocation and international competitiveness. It calls for optimisation of integrated cross‑border services—settlement, FX hedging, cross‑border financing and external guarantees—to support outbound expansion and increase firms' international market participation. The guidance also directs continued development and deployment of a multilateral CBDC bridge and the CBETS cross‑border settlement platform to provide multiple channels for efficient, low‑cost cross‑border fund settlement for outbound service companies.
-
----
-
-### 2026-09-28 18:13:02  #市場
-
-土耳其主要BIST-100指數<.XU100>下跌3%，主要銀行指數<.XBANK>下跌1.5%。
-
----
-
-### 2026-09-28 18:12:58  #其他
-
-【八部門：賦能軟體和資訊科技服務創新發展】《意見》提出，引導金融機構綜合運用信貸、債券、股權等多樣化工具，支援“人工智慧+軟體”發展，推動智慧程式設計工具和工業軟體創新突破、基礎軟體生態和開源社群建設、智慧視聽系統生態場景應用等，發展智慧體即服務、模型即服務等新業態。完善製造業數智化轉型服務金融保障，支援製造業數智化轉型服務商發展。積極滿足人工智慧技術研發、行業高質量資料集建設、應用場景拓展及產業生態培育等領域的融資需求。鼓勵金融機構為資訊傳輸、資料和資訊科技等數字基礎設施建設提供中長期融資，強化對全國算力佈局、邊緣算力建設、智算雲服務體系等的金融支援。
-
----
-
-### 2026-09-28 18:12:32  #公司
-
-【八部門：開發符合商務服務業特點的金融產品，助力商務諮詢、資產評估、會計審計等服務機構品牌化、連鎖化、集團化發展】中國人民銀行等八部門聯合印發《關於金融支援服務業擴能提質的指導意見》，《意見》指出，開發符合商務服務業特點的金融產品，助力商務諮詢、資產評估、會計審計等服務機構品牌化、連鎖化、集團化發展。合理滿足會展龍頭企業的融資需求，最佳化支付結算等金融服務，助力打造國際知名品牌展會。圍繞健全海外綜合服務體系，進一步最佳化跨境金融服務，服務產供鏈合理有序跨境佈局，支援跨境電商等新業態新模式和服務貿易、數字貿易、綠色貿易發展，拓展“製造+服務”海外經營網路，支援涉外法律、會計、諮詢、人力資源、語言服務等企業拓展國際市場。
-
----
-
-### 2026-09-28 18:12:32  #其他
-
-【八部門：培育節能環保服務穩步壯大】《意見》提出，豐富綠色金融產品譜系，支援重點行業能效診斷等節能降碳領域發展。創新適配迴圈經濟發展的融資模式，支援工業固廢綜合利用、可再生資源回收利用、再製造服務、再生材料認證等領域。在依法合規前提下，鼓勵金融機構加強與碳排放核算、碳減排諮詢、碳資產管理等服務機構的合作，穩妥開展碳排放權、用水權、排汙權等環境權益融資業務。最佳化農業綠色高產高效技術、農業廢棄物處理利用、海洋生態修復等環境治理領域的金融服務模式。
-
----
-
-### 2026-09-28 18:12:32  #MKT News #Market Regions #Greater China
-
-【Eight ministries push expansion of eldercare finance to boost inclusive, rural and community services】China’s eight ministries call for accelerated development of eldercare finance to expand inclusive, rural and community-embedded eldercare and childcare services and to cultivate integrated elderly service centers and age-friendly consumption scenarios. The guidance encourages financial institutions to align loan tenors with project construction and operating cycles and to explore pledge financing using bed-fee charging rights, while stepping up financing for rehabilitation nursing, medical–care integration and long-term care. It also promotes specialty financial service channels, backing retail pharmacies to expand professional and health-promotion services and establish health stations, and seeks to facilitate domestic medical-device and drug R&D and clinical trials (including originator and generic drugs) and the growth of personalized family-doctor contract services.
 
 ---
