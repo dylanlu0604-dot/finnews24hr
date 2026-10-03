@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-04 04:33:16",
+  "updated": "2026-10-04 04:37:05",
   "count": 11288,
   "items": [
+    {
+      "id": "5125023",
+      "time": "2026-10-04 04:33:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【盧拉競選團隊請求選舉法院調查美使領館暫停服務一事】據巴西媒體3日報道，巴西總統盧拉的競選團隊已請求巴西最高選舉法院，將美國駐巴西使領館2日暫停線下領事服務一事，納入正在進行的外部勢力干預巴西選舉相關調查。巴西媒體援引盧拉競選團隊的請求書指出，此事是美國政府幹預巴西選舉的又一例證。美國政府在選舉關鍵時期發起如此規模的“異常外交舉動”，給巴西選舉環境帶來不穩定因素。（新華社）"
+    },
     {
       "id": "mkt:01a10375-39e3-7ee0-a791-4560a5fc81cd",
       "time": "2026-10-04 04:29:36",
@@ -103512,14 +103520,6 @@
         "XAUUSD"
       ],
       "text": "St. Louis Fed: In the week to Sep 18 the Financial Stress Index fell to -0.91 from -0.85 a week earlier; 0 indicates normal conditions and negative values indicate below-average stress."
-    },
-    {
-      "id": "mkt:01a0df6e-6c49-7118-86aa-70f39fbee47b",
-      "time": "2026-09-27 04:35:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hungary may require ultra-rich to pay higher wealth tax】Prime Minister Magyar said the government’s planned wealth tax could impose a rate above the previously proposed 1% on Hungary’s richest households. The government aims to have the tax in place before January. Magyar said the party proposal levies 1% on wealth over 1 billion forint (about $3.1m) but that super-rich individuals could face higher rates. He added the government faces pressure to cut the budget deficit by 2030; this year’s deficit may reach about 7.5% of GDP versus a euro-area 3% limit."
     }
   ]
 }
