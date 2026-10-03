@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-04 03:48:06",
-  "count": 11294,
+  "updated": "2026-10-04 03:51:52",
+  "count": 11295,
   "items": [
+    {
+      "id": "mkt:01a1034e-eb0c-7ee0-a791-39c627830534",
+      "time": "2026-10-04 03:47:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA and SpaceX have set Crew-12's earliest departure from the International Space Station for Oct. 7."
+    },
     {
       "id": "5125018",
       "time": "2026-10-04 03:34:51",
