@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-04 01:09:24",
-  "count": 11337,
+  "updated": "2026-10-04 01:13:18",
+  "count": 11338,
   "items": [
+    {
+      "id": "5124997",
+      "time": "2026-10-04 01:12:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱薩那遭到空襲】據葉門胡塞武裝控制的馬西拉電視臺3日報道，當天，葉門首都薩那遭到沙特空襲，報道沒有提供關於遭襲目標或傷亡的細節。沙特方面暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a102c0-4061-7ee0-a790-cbbb15d07a20",
+      "time": "2026-10-04 01:11:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Latvia's prime minister said he hopes to remain in office after the election."
+    },
+    {
+      "id": "5124996",
+      "time": "2026-10-04 01:11:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞總理庫爾貝格斯：希望大選後繼續擔任總理。"
+    },
     {
       "id": "mkt:01a102bc-1477-7ee0-a790-c7d18a8d33d8",
       "time": "2026-10-04 01:07:22",
@@ -103950,22 +103974,6 @@
         "焦點"
       ],
       "text": "布倫特原油暗盤突破99美元，日內漲超2.4%。"
-    },
-    {
-      "id": "mkt:01a0deb4-2990-7118-86a9-50ff83cb1d53",
-      "time": "2026-09-27 01:12:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian foreign minister Lavrov said Turkey has not contacted Moscow about moving the S-400 system abroad and that such a move would be impossible without Moscow's consent."
-    },
-    {
-      "id": "5114416",
-      "time": "2026-09-27 01:11:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其並未就S-400防空導彈系統可能向海外轉移一事與俄羅斯進行過接觸；俄外長拉夫羅夫指出，如果沒有莫斯科的同意，此舉是不可能實現的。"
     }
   ]
 }
