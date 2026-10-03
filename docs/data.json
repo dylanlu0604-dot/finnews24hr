@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-04 04:44:34",
-  "count": 11284,
+  "updated": "2026-10-04 04:48:19",
+  "count": 11285,
   "items": [
+    {
+      "id": "mkt:01a10384-889f-7ee0-a791-491c915907f8",
+      "time": "2026-10-04 04:46:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "EURUSD",
+        "US10Y"
+      ],
+      "text": "【Fed and ECB minutes due next week, likely to highlight inflation concerns】The Fed and ECB will publish minutes from last month’s meetings next week. Both raised rates in September citing rising inflation pressure; the Fed minutes could show many policymakers were deeply worried about price trends and expected at least one more hike before year-end. Weaker-than-expected US nonfarm payrolls, soft wage growth, a government PCE revision showing slightly lower inflation YTD, and recent turmoil in French financial markets have collectively reduced near-term urgency for further tightening and raised the bar for an October hike. Minutes may recall officials’ hawkish September stance, but subsequent data strengthen arguments for patience; services inflation could keep a December hike on the table, though the Fed will likely need clearer evidence of renewed price pressure before moving again."
+    },
     {
       "id": "5125023",
       "time": "2026-10-04 04:33:51",
