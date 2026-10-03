@@ -1,7 +1,211 @@
 {
   "date": "2026-10-04",
-  "count": 69,
+  "count": 93,
   "items": [
+    {
+      "id": "5125039",
+      "time": "2026-10-04 06:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新設專項工作組，需在 120 天內撰寫報告，梳理人工智慧的風險、機遇以及美國聯邦政府的相關職責。"
+    },
+    {
+      "id": "5125038",
+      "time": "2026-10-04 06:30:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：在公眾與業界表達擔憂後，美國將成立全新人工智慧特別工作組，針對該技術的風險提交報告。"
+    },
+    {
+      "id": "5125037",
+      "time": "2026-10-04 06:25:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱對哈馬斯高階官員發動打擊】當地時間3日晚間，以色列國防軍與以國家安全總局（辛貝特）發表聯合宣告稱，2日夜間，以軍在加沙地帶發動空襲，目標是哈馬斯高階官員阿里·阿穆迪。襲擊發生時，阿穆迪正身處於一間公寓內。宣告稱，阿穆迪曾是原哈馬斯領導人葉海亞·辛瓦爾的助手，並參與策劃了包括2023年10月7日襲擊事件在內的多起針對以色列的襲擊。目前以軍正在評估此次打擊的結果。（央視新聞）"
+    },
+    {
+      "id": "5125036",
+      "time": "2026-10-04 05:57:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：由於葉門的導彈襲擊，沙烏地阿拉伯達曼的法赫德國王機場航班出現了中斷和停飛。"
+    },
+    {
+      "id": "5125035",
+      "time": "2026-10-04 05:57:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：10月04日05時56分在貴州畢節市威寧縣附近（北緯26.74度，東經104.18度）發生3.4級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "mkt:01a103c5-b4d3-7ee0-a791-8fb3ee297901",
+      "time": "2026-10-04 05:57:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Tasnim News reports missile strikes from Yemen disrupted flights and forced suspensions at King Fahd International Airport in Dammam, Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a103bb-475e-7ee0-a791-847723c90ea8",
+      "time": "2026-10-04 05:46:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars News Agency, citing Arab sources, says Yemeni armed forces launched an attack on Dammam, Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a103b4-657c-7ee0-a791-7e770a19d994",
+      "time": "2026-10-04 05:38:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Datafolha poll shows a hypothetical second-round presidential vote in Brazil at Lula 47% and Flavio Bolsonaro 46%."
+    },
+    {
+      "id": "5125034",
+      "time": "2026-10-04 05:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Datafolha 民調：在巴西總統大選潛在第二輪對決中，盧拉支援率 47%，博索納羅為 46%。"
+    },
+    {
+      "id": "5125033",
+      "time": "2026-10-04 05:36:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "Datafolha 民調：巴西總統大選首輪，盧拉獲得 45% 有效選票，博索納羅為 42%。"
+    },
+    {
+      "id": "mkt:01a103b2-41ec-7ee0-a791-715149c1c942",
+      "time": "2026-10-04 05:36:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Datafolha poll: in Brazil's presidential first-round, Lula 45% of valid votes, Flavio Bolsonaro 42%."
+    },
+    {
+      "id": "5125032",
+      "time": "2026-10-04 05:35:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "厄瓜多國家石油公司：因 10 月 1 日發生火災，跨厄瓜多輸油管道（SOTE）一處泵站宣佈遭遇不可抗力。"
+    },
+    {
+      "id": "mkt:01a103b1-012c-7ee0-a791-6a71e4d0bd3f",
+      "time": "2026-10-04 05:34:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSNow White House reporter asked Trump if he had any regrets about his first two years back in the White House; he replied, \"Oh, I like it. It's terrific. I think it's the most productive two years in presidential history.\" When pressed on whether he'd do anything differently, he did not answer."
+    },
+    {
+      "id": "mkt:01a103a1-7fb4-7ee0-a791-6611853dbe60",
+      "time": "2026-10-04 05:17:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department strongly urged Ethiopia and Eritrea to respect their neighbors' sovereignty and territorial integrity, exercise maximum restraint, and return to dialogue and cooperation."
+    },
+    {
+      "id": "5125031",
+      "time": "2026-10-04 05:17:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：“強烈敦促” 衣索比亞和厄利垂亞保持最大限度剋制，重啟對話與合作。"
+    },
+    {
+      "id": "5125030",
+      "time": "2026-10-04 05:17:51",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：“強烈敦促” 衣索比亞與厄利垂亞尊重鄰國主權與領土完整。"
+    },
+    {
+      "id": "mkt:01a103a1-23ab-7ee0-a791-58ad2321a712",
+      "time": "2026-10-04 05:17:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US State Department says escalating cross-border tensions between Ethiopia and Eritrea could affect the wider region."
+    },
+    {
+      "id": "5125029",
+      "time": "2026-10-04 05:16:55",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：衣索比亞與厄利垂亞跨境緊張局勢持續升級，有可能影響整個地區。"
+    },
+    {
+      "id": "5125028",
+      "time": "2026-10-04 05:15:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝旗下馬西拉電視臺報道，沙特襲擊薩那；沙特方面暫未證實。"
+    },
+    {
+      "id": "5125027",
+      "time": "2026-10-04 05:05:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒：伊朗革命衛隊近日對7艘“違規”油輪採取行動】據伊朗法爾斯通訊社3日報道，過去5天內，伊朗伊斯蘭革命衛隊海軍在霍爾木茲海峽針對至少7艘“違規”油輪採取行動。報道援引多方訊息稱，儘管美國政府一直聲稱“霍爾木茲海峽保持開放並處在美國控制之下”，但伊方實際上平均每天針對不止一艘油輪採取行動。（新華社）"
+    },
+    {
+      "id": "mkt:01a10394-ef8b-7ee0-a791-5418be476702",
+      "time": "2026-10-04 05:04:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iranian media: IRGC recently acted against 7 \"violating\" oil tankers in Strait of Hormuz】Iran’s Islamic Revolutionary Guard Corps navy has taken action against at least 7 \"violating\" oil tankers in the Strait of Hormuz over the past five days, Iranian media reported, citing multiple sources. The report says this averages to more than one tanker targeted per day, contradicting U.S. government assertions that the strait remains open and under U.S. control."
+    },
+    {
+      "id": "5125026",
+      "time": "2026-10-04 05:02:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗實際上已經放棄研發核武器的所有計劃。"
+    },
+    {
+      "id": "5125025",
+      "time": "2026-10-04 05:01:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我將對伊朗作出一項決定。伊朗已遭到重創，所以唯一的問題是，選擇溫和方式還是強硬手段。"
+    },
+    {
+      "id": "5125024",
+      "time": "2026-10-04 05:01:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios援引一名美國官員訊息： 出席紐約聯合國大會的伊朗代表團兩名成員於週六被美方驅逐離境，此前二人多次收到離境指令卻拒不執行。據該官員訊息，其中一名伊朗外交官於週五晚間離境，另一名則在週六上午離開。"
+    },
     {
       "id": "mkt:01a10384-889f-7ee0-a791-491c915907f8",
       "time": "2026-10-04 04:46:19",
