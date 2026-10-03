@@ -1,7 +1,23 @@
 {
   "date": "2026-10-03",
-  "count": 627,
+  "count": 629,
   "items": [
+    {
+      "id": "mkt:01a10204-55f1-7ee0-a790-26d268477519",
+      "time": "2026-10-03 21:46:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion sounds reported near Iran's Qeshm Island; no incident on island — Mehr】Mehr news agency reported explosion sounds heard in waters near Iran's Qeshm Island. No security incident or strike was reported on Qeshm territory; the sounds were attributed to activity in the Strait of Hormuz and the Persian Gulf."
+    },
+    {
+      "id": "5124960",
+      "time": "2026-10-03 21:44:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗格什姆島附近傳出爆炸聲。"
+    },
     {
       "id": "5124959",
       "time": "2026-10-03 21:42:04",

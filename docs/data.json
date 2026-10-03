@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-03 21:44:26",
+  "updated": "2026-10-03 21:48:21",
   "count": 11407,
   "items": [
+    {
+      "id": "mkt:01a10204-55f1-7ee0-a790-26d268477519",
+      "time": "2026-10-03 21:46:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion sounds reported near Iran's Qeshm Island; no incident on island — Mehr】Mehr news agency reported explosion sounds heard in waters near Iran's Qeshm Island. No security incident or strike was reported on Qeshm territory; the sounds were attributed to activity in the Strait of Hormuz and the Persian Gulf."
+    },
+    {
+      "id": "5124960",
+      "time": "2026-10-03 21:44:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗格什姆島附近傳出爆炸聲。"
+    },
     {
       "id": "5124959",
       "time": "2026-10-03 21:42:04",
@@ -104539,22 +104555,6 @@
         "DXY"
       ],
       "text": "U.S. President Trump said he rejects Iran's proposal."
-    },
-    {
-      "id": "5114337",
-      "time": "2026-09-26 21:47:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我拒絕他們的提議。"
-    },
-    {
-      "id": "5114336",
-      "time": "2026-09-26 21:46:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克政府安全媒體委員會負責人表示，國際聯盟部隊已將其所有基地和指揮部移交給伊拉克當局。伊拉克境內沒有國際聯軍的戰鬥部隊或軍事力量。9月30日之後，將不再有來自聯軍的作戰或訓練部隊。我們已準備好在聯軍撤軍後接管並管理安全。"
     }
   ]
 }
