@@ -1,7 +1,26 @@
 {
-  "updated": "2026-10-03 16:01:33",
-  "count": 11378,
+  "updated": "2026-10-03 16:05:23",
+  "count": 11379,
   "items": [
+    {
+      "id": "5124864",
+      "time": "2026-10-03 16:02:30",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【瑞士現任聯邦主席帕姆蘭宣佈年底辭去聯邦委員職務】據當地媒體報道，瑞士現任聯邦主席帕姆蘭2日宣佈，將於今年年底辭去聯邦委員職務。帕姆蘭2日透過社交媒體向公眾釋出其辭職決定。他表示自己辭職並非如外界所猜測出於健康原因，而是希望在“充滿巨大不確定性的時代”為“新鮮血液”騰出空間。他同時承諾將履職至2026年12月31日。帕姆蘭所在政黨、瑞士目前最大政黨人民黨宣佈，帕姆蘭繼任者、該黨新的聯邦委員的選舉將於12月9日舉行。（新華社）"
+    },
+    {
+      "id": "mkt:01a100c8-ecff-7ee0-a78f-1217dc7f7dcf",
+      "time": "2026-10-03 16:02:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yangtze River Delta railways expect 3.72 mln passengers on Oct. 3】Shanghai Release, citing China Railway Shanghai Group, says the Yangtze River Delta rail network expects to carry 3.72 mln passengers on Oct. 3. Since the holiday transport period began on Sept. 23 through Oct. 2 the network has carried 33.505 mln passengers, averaging about 3.35 mln per day, indicating strong travel demand."
+    },
     {
       "id": "5124863",
       "time": "2026-10-03 16:00:27",
@@ -104285,14 +104304,6 @@
         "公司"
       ],
       "text": "利比亞國家石油公司(NOC)表示，由於武裝組織持續強行關閉沙拉拉(Sharara)原油管道上的一個閥門，已暫停扎維耶(Zawiya)煉油廠的一個煉油裝置運作。"
-    },
-    {
-      "id": "5114269",
-      "time": "2026-09-26 16:02:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "受火山活動影響，義大利西西里島卡塔尼亞機場暫停航班抵達。"
     }
   ]
 }
