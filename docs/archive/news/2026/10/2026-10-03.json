@@ -1,7 +1,23 @@
 {
   "date": "2026-10-03",
-  "count": 493,
+  "count": 495,
   "items": [
+    {
+      "id": "mkt:01a100bb-2ef5-7ee0-a78f-05f567782b67",
+      "time": "2026-10-03 15:47:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lithuania's National Crisis Management Centre said Vilnius Airport reopened after a drone alert was lifted."
+    },
+    {
+      "id": "5124862",
+      "time": "2026-10-03 15:46:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "立陶宛國家危機控制中心稱，維爾紐斯機場在無人機警報解除後重新開放。"
+    },
     {
       "id": "mkt:01a100b7-6738-7ee0-a78e-f8faae08d39b",
       "time": "2026-10-03 15:43:01",
