@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-03 21:56:05",
+  "updated": "2026-10-03 21:59:58",
   "count": 11407,
   "items": [
+    {
+      "id": "mkt:01a1020e-7334-7ee0-a790-295846c63d35",
+      "time": "2026-10-03 21:57:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Private jet carrying six loses contact en route from Bermuda to Boston, US Coast Guard says】The US Coast Guard said a private aircraft carrying six lost contact while flying from Bermuda to Boston. A Coast Guard spokesman said the Federal Aviation Administration earlier notified the service that the aircraft had lost contact with ground control. The aircraft was a Gulfstream business jet used for medical transport."
+    },
     {
       "id": "5124964",
       "time": "2026-10-03 21:52:04",
@@ -104542,14 +104550,6 @@
         "國際"
       ],
       "text": "伊拉克總理辦公室：伊拉克正與美國商談，請求為部分伊拉克機場免除針對伊朗航空公司的限制措施。"
-    },
-    {
-      "id": "mkt:01a0de00-d49d-7118-86a7-d05996f23dfa",
-      "time": "2026-09-26 21:56:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he spoke with Venezuela's interim president Rodriguez about election issues."
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "date": "2026-10-03",
-  "count": 633,
+  "count": 634,
   "items": [
+    {
+      "id": "mkt:01a1020e-7334-7ee0-a790-295846c63d35",
+      "time": "2026-10-03 21:57:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Private jet carrying six loses contact en route from Bermuda to Boston, US Coast Guard says】The US Coast Guard said a private aircraft carrying six lost contact while flying from Bermuda to Boston. A Coast Guard spokesman said the Federal Aviation Administration earlier notified the service that the aircraft had lost contact with ground control. The aircraft was a Gulfstream business jet used for medical transport."
+    },
     {
       "id": "5124964",
       "time": "2026-10-03 21:52:04",
