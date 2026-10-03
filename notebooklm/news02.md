@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-10-04 01:55:20_
-_本檔包含 2284 則快訊，約 436598 字_
+_更新時間：2026-10-04 04:55:51_
+_本檔包含 2290 則快訊，約 434935 字_
+
+---
+
+### 2026-10-01 22:43:11  #其他
+
+【國慶假期上海推出2800餘項文旅活動，景區商圈迎來大客流】國慶假期首日，上海各旅遊景區和商圈迎來大客流。10月1日，記者從上海市文化和旅遊局獲悉，當日上海市文旅市場總體執行平穩，未發生重大安全事件。假日期間，上海市、區兩級文旅部門聯動重點文旅企業、線上平臺，組織推出2800餘項特色文旅活動，助力假日消費擴容增長。旅遊平臺資料則顯示，拼假帶動多段遊需求，假期首日有人已開始第二段行程。（澎湃新聞）
+
+---
+
+### 2026-10-01 22:40:20  #市場
+
+德國國債延續漲勢；德國2年期國債收益率下跌10個基點至3.11%。
+
+---
+
+### 2026-10-01 22:39:31  #Trading Economics #Markets #Canada #Government Bond 10Y #Importance 1
+
+Canada 10-Year Yield Extends Three-Year High — Canada’s 10-year government bond yield rose above 4% in October, reaching a fresh three-year high as renewed selling in US Treasuries fueled a broader global bond selloff. The US 10-year benchmark yield climbed to its highest level since 2002, extending a months-long rise in sovereign borrowing costs. Higher oil prices have added to inflation concerns and reinforced expectations of further interest-rate hikes by central banks, keeping government bonds under pressure worldwide. In Canada, the advance estimate showed real GDP rose 0.2% in August, with gains in mining and quarrying and retail trade partly offset by a decline in oil and gas extraction. GDP was essentially unchanged in July, ending a three-month run of growth. The result was in line with expectations but highlighted a weaker start to the third quarter, reinforcing expectations for the Bank of Canada to hold rates. A US ban on various Canadian imports also took effect, further weighing on growth prospects.
+
+---
+
+### 2026-10-01 22:39:08  #國際
+
+美國地質調查局訊息，印度尼西亞魯滕北偏東176公里處發生5.0級地震。
+
+---
+
+### 2026-10-01 22:37:17  #其他
+
+【美團釋出國慶假期首日出行資料：小城迎“反向奔赴”】10月1日，美團資料顯示，國慶假期首日，北京環球度假區、開封萬歲山武俠城、上海迪士尼度假區、珠海長隆海洋王國、廣州長隆野生動物世界、唐山河頭老街、黃山風景區、峨眉山風景名勝區、開封清明上河園和天津泰達航母主題公園位列熱門景點Top10，沉浸式體驗正超越傳統觀光，成為年輕人假期出遊熱選。
+
+---
+
+### 2026-10-01 22:36:21  #其他
+
+阿根廷3月推翻160億美元判決後，YPF投資者請求最高法院複審阿根廷的法律勝利。
+
+---
+
+### 2026-10-01 22:34:55  #公司
+
+谷歌針對Chegg與彭斯克傳媒提起的與AI概述功能相關訴訟獲得駁回裁決。
+
+---
+
+### 2026-10-01 22:34:49  #其他
+
+StoneX預測，巴西2026/27年度大豆產量將為1.8336億噸，此前預測值為1.8350億噸。
+
+---
+
+### 2026-10-01 22:34:08  #國際
+
+【俄總統助理：普京已下達所有必要命令，確保“飛地”加里寧格勒州安全】據塔斯社、俄新社等媒體10月1日報道，俄羅斯總統助理帕特魯舍夫稱，俄總統普京已就確保該國最西端“飛地”加里寧格勒州的安全，向相關機構“下達所有必要命令”。（環球網）
+
+---
+
+### 2026-10-01 22:32:35  #市場 #國際
+
+美國能源資訊署（EIA）公佈天然氣庫存增幅符合預期後，美國天然氣期貨維持跌勢，下跌1.0%。
+
+---
+
+### 2026-10-01 22:31:36  #其他
+
+Sigma Lithium暫停採礦作業，等待上訴法院裁決。Sigma Lithium維持2027財年33萬噸的目標產量，將24萬噸產量指引推遲三個月。
+
+---
+
+### 2026-10-01 22:31:08  #國際
+
+俄羅斯莫斯科交易所：9月成交額為220.8萬億盧布。
+
+---
+
+### 2026-10-01 22:30:38  #國際
+
+美國能源情報署（EIA）稱，上週美國天然氣庫存上升1.91%。
+
+---
+
+### 2026-10-01 22:30:27  #國際
+
+美國能源資訊署（EIA）資料：美國中西部天然氣庫存增加250億立方英尺；美國東部天然氣庫存增加20億立方英尺。
+
+---
+
+### 2026-10-01 22:30:13  #國際
+
+美國至9月25日當週EIA天然氣庫存 640億立方英尺，預期630億立方英尺，前值530億立方英尺。
+
+---
+
+### 2026-10-01 22:30:10  #宏觀
+
+【今起實施！河北參保人員省域內住院分娩政策範圍內費用100%報銷】近日，河北省醫保局聯合省財政廳、省稅務局出臺多項支援參保人員生育新舉措，將參保人員河北省域內住院分娩政策範圍內費用報銷比例提升到100%，自10月1日起實施。省醫保局有關負責人介紹，新措施主要包括擴大參保覆蓋面、增強生育費用保障、最佳化經辦管理服務等內容，會最大程度減少個人負擔。（河北釋出）
+
+---
+
+### 2026-10-01 22:29:36  #市場
+
+義大利兩年期國債收益率漲幅擴大，最新上漲15個基點，報3.667%。
+
+---
+
+### 2026-10-01 22:29:02  #國際
+
+玻利維亞司法部：在美國採取相關行動兩天後，玻利維亞拘捕總檢察長。
+
+---
+
+### 2026-10-01 22:27:16  #市場
+
+標普500軟體與服務指數創下逾10個月新高，最新漲幅為1.8%。
+
+---
+
+### 2026-10-01 22:25:36  #公司 #其他 #焦點
+
+智利方面稱，Codelco旗下RT礦場發生事故，造成一人死亡。
+
+---
+
+### 2026-10-01 22:23:09  #其他
+
+【瑞銀：iPhone18Pro系列等待期表現平平予蘋果“中性”評級】此前Counterpoint Research釋出了針對iPhoneDuo的首份銷量預估，稱該機型今年可能售出600萬臺。不過，瑞銀表示，iPhone18 Pro與Pro Max的到貨等待時間為“基本持平”。瑞銀對蘋果的評級為中性，目標價296美元。
+
+---
+
+### 2026-10-01 22:22:43  #市場
+
+Meta股價轉漲。
+
+---
+
+### 2026-10-01 22:22:25  #其他
+
+Meta推出雷朋Meta智慧音訊眼鏡，釋出適用於AI眼鏡的Muse人工智慧代理。
+
+---
+
+### 2026-10-01 22:21:30  #國際
+
+敘利亞否認關於其與真主黨舉行會晤的報道。
+
+---
+
+### 2026-10-01 22:21:11  #其他
+
+Meta：未來數月將把Muse大模型整合至我們的AI眼鏡。
+
+---
+
+### 2026-10-01 22:21:04  #觀點
+
+發言人表示，摩根大通交易主管埃爾南·克里斯特納將於今年年底退休。
+
+---
+
+### 2026-10-01 22:20:57  #國際
+
+佩斯科夫：普京很樂意會見特朗普。
+
+---
+
+### 2026-10-01 22:19:28  #Trading Economics #Economy #United States #Construction Spending #Importance 1
+
+US Construction Spending Surprises on the Upside — Construction spending in the US rose by 0.9% month-over-month to a seasonally adjusted annual rate of $2,203 billion in August 2026, following a downwardly revised 0.1% decrease in July. Analysts had expected a flat reading. Private-sector construction rose 1.1%, supported by a 1.1% increase in residential activity, amid gains in single-family projects (+0.2%) and multi-family construction (+0.2%). Spending on nonresidential structures like offices and factories grew by 1%, with solid increases in office (4.6%), religious (2.9%), transportation (1.2%) and power (0.9%) construction. Meanwhile, public spending went up by 0.2%, driven by increases in both the residential (0.3%) and nonresidential (0.2%) segments. Year-on-year, construction spending shrank by 1.7%.
+
+---
+
+### 2026-10-01 22:19:06  #國際
+
+【美國製造業擴張速度略有放緩 原料價格指標升至5月以來最高】美國製造業9月擴張速度略有放緩，儘管需求強勁，工廠仍面臨成本回升、運輸延誤等問題。美國供應管理學會(ISM)週四公佈的資料顯示，製造業指數下降0.1點至54.5。該指數連續九個月高於50這一榮枯分水嶺，為2022年以來最長連續擴張期。9月報告顯示，需求依然穩健。新訂單指標回升，積壓訂單指標升至2月以來最高水平。產出繼續擴張，但增速有所放緩。面對不斷增加的訂單，企業正在增加用工。9月製造業就業人數連續第三個月增長，為2022年以來最長連續增長期。製造商同時還在應對成本上升和供應鏈瓶頸。原材料價格指標升至5月以來最高，供應商交貨時間繼續延長，不過速度有所放緩。
+
+---
+
+### 2026-10-01 22:18:34  #市場
+
+鈀金期貨日內跌3%，現報1175.50美元/盎司。
+
+---
+
+### 2026-10-01 22:17:59  #公司
+
+【儲存晶片短缺持續 三星電子上調大部分Galaxy S26系列手機售價】三星電子上調了Galaxy S26系列大部分智慧手機的售價。在儲存晶片持續短缺之際，這是消費科技品牌將成本轉嫁給消費者的最新例子。Galaxy S26、S26+和S26 Ultra均漲價100美元，目前起售價分別為1,000美元、1,200美元和1,400美元。Ultra最高儲存版本——1TB機型——漲價200美元，目前售價為2,000美元。三星最實惠的Galaxy S26系列機型S26 FE此次價格保持不變。該機型8月推出時售價為700美元，當時的定價已經比上一代高出50美元。三星最新的摺疊屏裝置，包括Galaxy Z Fold 8、Z Fold 8 Ultra和Z Flip 8，也未受到本輪漲價影響。因此，目前售價1,900美元的Z Fold 8仍將低於蘋果即將推出的iPhone Duo，後者將於10月23日上市，起售價1,999美元。與Galaxy S25系列相比，Galaxy S26和S26+今年3月上市時的價格就已經分別高出100美元。
+
+---
+
+### 2026-10-01 22:17:46  #市場
+
+標普500金融指數跌至6月12日以來的最低點，最新跌幅為0.8%。
+
+---
+
+### 2026-10-01 22:16:50  #國際
+
+Meta任命Ranveer Singh為首位印度品牌大使，負責Ray-Ban和Ray-Ban Meta。
+
+---
+
+### 2026-10-01 22:16:40  #市場
+
+義大利與德國10年期國債收益率利差擴大10個基點至113個基點。
+
+---
+
+### 2026-10-01 22:16:27  #國際
+
+【烏克蘭稱烏國家科學院核研究所遭襲】烏克蘭國家核能監管局10月1日在官網發文稱，一架俄軍無人機9月30日傍晚襲擊了烏克蘭國家科學院核研究所，襲擊引發火情但被迅速撲滅，未造成人員傷亡和輻射水平異常。烏國家核能監管局稱，位於首都基輔的烏國家科學院核研究所設有一座核反應堆，襲擊未造成反應堆受損。調查機構正對核研究所設施受損情況進行評估。（新華社）
+
+---
+
+### 2026-10-01 22:16:10  #市場
+
+德國2年期國債收益率延續跌勢，目前下跌近7個基點，報約3.12%。
+
+---
+
+### 2026-10-01 22:15:49  #國際
+
+佩斯科夫：匈牙利的行動可能影響俄羅斯的經濟關係。
+
+---
+
+### 2026-10-01 22:13:57  #市場 #國際
+
+美國股市走低；道瓊斯指數最新下跌0.5%。
+
+---
+
+### 2026-10-01 22:13:54  #市場
+
+【美股光通訊股盤中拉昇 lumentum、Coherent漲超5%】美股光通訊股盤中拉昇，lumentum、Coherent漲超5%，Tower半導體、AXT漲超4%，AAOI、Credo漲超3%。
+
+---
+
+### 2026-10-01 22:13:36  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Edges Lower Amid Global Bond Selloff — The S&P/TSX Composite Index edged lower toward the 35,000 mark as a global bond rout pushed borrowing costs to multi-decade highs amid volatile oil prices. Global bonds extended their selloff, weighing on broader markets. The Canadian 10-year yield pared earlier losses on Thursday, remaining at multi-year highs. Oil prices rose further on reports of tighter Chinese fuel supplies, fueling persistent energy-driven inflation concerns, pushing yields higher and pressuring credit-sensitive sectors. Major banks fell, with RBC, BMO and Scotiabank down about 1%, while TD Bank and CIBC shed around 0.5%. Miners were mostly lower as gold prices pared earlier gains, with Barrick down more than 0.5% and WPM losing 1%. First Quantum was the main exception, rebounding by near 5% from a 15.3% plunge yesterday after a Panamanian government commission recommended formal talks on a new framework for the Cobre Panamá mine. Panama had previously urged the orderly closure of the mine.
+
+---
+
+### 2026-10-01 22:13:30  #市場 #國際
+
+美國30年期國債收益率在經濟資料公佈後攀升至2002年5月末以來最高水平，隨後漲幅收窄，最新上漲3.12個基點，報5.67%。
+
+---
+
+### 2026-10-01 22:13:25  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Walt Disney Stock Price Hits 7-week Low — Walt Disney shares decreased to 102.27 USD, the lowest since August 2026. Over the past 4 weeks, Walt Disney lost 5.13%, and in the last 12 months, it decreased 8.65%.
+
+---
+
+### 2026-10-01 22:12:36  #資料 #市場 #央行 #焦點 #國際
+
+【PMI公佈後，美股三大指數下跌，30年國債收益率繼續上漲】美國9月ISM製造業PMI公佈後，美國國債收益率漲幅進一步擴大，10年期美國國債收益率最新上漲4.72個基點，報5.34％；納斯達克100指數抹去漲幅，標普500指數下跌0.2％，道指下跌0.4％。美國9月ISM製造業PMI雖小幅低於預期，但物價支付指數由71.1大幅升至77.9，遠高於72.3的預期，同時就業指數和新訂單指數均較前值上升，顯示製造業需求仍具韌性、成本壓力卻明顯升溫，市場因此重新計價高通脹所帶來的美聯儲利率前景。
+
+---
+
+### 2026-10-01 22:09:06  #市場
+
+富時350銀行指數下跌4.2%，創5月5日以來最大單日跌幅。
+
+---
+
+### 2026-10-01 22:08:09  #市場
+
+美光科技股價下跌3%，報1033.225美元/股，總市值報1.17萬億美元。
+
+---
+
+### 2026-10-01 22:07:47  #其他
+
+【旅遊市場需求強勁 南非8月遊客總量突破百萬】南非旅遊部10月1日釋出宣告說，今年8月南非接待國際遊客100.5萬人次，較去年同期增長7.4%；今年前8個月共接待國際遊客758.1萬人次，同比增長11.7%。南非旅遊部長帕特里夏·德利萊在宣告中表示，資料顯示南非旅遊市場需求強勁，同時也凸顯將需求“轉化為投資、就業機會和經濟發展機遇”的重要性。（新華社）
 
 ---
 
@@ -13560,245 +13836,5 @@ Japan's Prime Minister Takaichi said she will assess tax-revenue trends and revi
 ### 2026-09-30 17:50:12  #MKT News
 
 China's Ministry of Finance announced arrangements for Q4 2026 government bond issuance.
-
----
-
-### 2026-09-30 17:50:01  #其他
-
-羅馬尼亞：宣佈與諾和諾德就Wegovy口服制劑開展研究合作。
-
----
-
-### 2026-09-30 17:49:19  #宏觀
-
-【國家能源局綜合司關於公開徵求《電力併網執行管理規定》（徵求意見稿）意見的通知 】為貫徹落實黨中央、國務院關於深化電力體制改革、建設全國統一電力市場決策部署，規範電力系統併網執行管理，保障電力系統安全、優質、經濟執行及相關市場主體合法權益，根據《中華人民共和國能源法》《中華人民共和國電力法》《電網排程管理條例》《電力監管條例》等法律法規，國家能源局對現行《電力併網執行管理規定》（國能發監管規〔2021〕60號，以下簡稱《規定》）進行修訂，形成了《電力併網執行管理規定（徵求意見稿）》，現向社會公開徵求意見。
-
----
-
-### 2026-09-30 17:48:38  #MKT News
-
-Finance Minister KIUCHI said he has been in close communication with the Bank of Japan at all levels and sees no major difference in views on the economy and prices.
-
----
-
-### 2026-09-30 17:48:03  #公司
-
-【新華百貨：董事梅亞莉增持公司5000股，佔總股本0.00158%】新華百貨公告，董事兼副總經理梅亞莉於2026年9月29日透過集中競價方式增持公司A股股份5000股，增持金額為51650元，佔公司總股本的0.00158%。本次增持不會導致公司控股股東及實際控制人發生變化，梅亞莉承諾增持完成後六個月內不減持所持公司股份。
-
----
-
-### 2026-09-30 17:47:50  #公司
-
-【僑源股份：3665萬元設立全資子公司完成登記】僑源股份公告，公司使用自有資金人民幣3665萬元投資設立全資子公司僑源氣體（新疆）有限公司；近日，該子公司完成工商註冊登記並取得營業執照，成立日期為2026年9月29日。
-
----
-
-### 2026-09-30 17:47:31  #央行 #國際
-
-日本經濟財政大臣城內實：與日本央行各層面密切溝通，認為經濟和價格觀點沒有太大差距。
-
----
-
-### 2026-09-30 17:47:11  #公司 #國際
-
-【據報Meta借AI資料中心申請高額研發稅收抵免】Meta正利用美國研發實驗稅收抵免政策，為其人工智慧資料中心申請數十億美元稅收優惠。該公司將價值數十億美元的資料中心專案描述為“實驗性研發活動”，並稱從英偉達等供應商採購的AI計算晶片屬於實驗專案投入，因此符合抵免條件。檔案顯示，去年，該政策幫助Meta減少近40億美元稅負，使其成為上市公司中該項稅收抵免的最大受益者之一。不過，Meta內部會計人員已警告這一做法存在法律風險，美國國稅局可能對相關申請提出質疑。稅務諮詢機構BPM合夥人Andre Shevchuck表示，將AI資料中心歸類為研發實驗專案“超出常規”。美國國稅局過去也曾審查企業將普通商業支出納入研發抵免範圍的做法。
-
----
-
-### 2026-09-30 17:46:54  #國際
-
-印度批准179億盧比用於德里交通管理系統。
-
----
-
-### 2026-09-30 17:46:40  #其他
-
-高市早苗：將評估稅收趨勢，重新審視財政收入與支出。
-
----
-
-### 2026-09-30 17:46:23  #市場
-
-高市早苗：將在物價上漲及利率上升的背景下，著力提升供給能力。
-
----
-
-### 2026-09-30 17:46:16  #公司
-
-【藥明康德：AI在創新藥物研發領域處於探索和嘗試階段，未來有望大幅提升效率、降低門檻】藥明康德9月30日在互動平臺表示，目前AI在創新藥物研發領域處於探索和嘗試階段，未來有望大幅提升效率、降低門檻，推動創新者和創新想法快速增長。儘管AI能高效設計分子結構，但仍需要像公司這樣具有獨特的一體化、端到端CRDMO平臺進行復雜的合成交付與生物驗證，從而形成“AI設計+CXO賦能落地”不可分割的產業閉環。為此，公司始終堅持“HI（Human Intelligence）+AI”的策略，利用創新工具持續提升服務能力與運營效率，更好地服務全球客戶。未來，優秀的CXO將進化為聯接前沿AI大腦與實體研發環節的“生命科學作業系統”，在持續迭代中放大自身價值並最終造福病患。
-
----
-
-### 2026-09-30 17:46:11  #Trading Economics #Economy #Greece #Retail Sales YoY #Importance 1
-
-Greece Retail Sales Growth Rises in July — Retail sales in Greece rose 5.2% year-on-year in July 2026 from a revised 1.8% increase in the previous month. Sales growth accelerated in the food sector (5.6% vs 2.4% in June), as well as in the non-food sector excluding automotive fuel (5.6% vs 4.0%). Among specialized categories, retail activity rose for supermarkets (5.8% vs 2.2%), food, beverages, and tobacco (4.8% vs 0.2%), and pharmaceutical products and cosmetics (5.9% vs 3.3%). At the same time, sales rebounded for department stores (1.8% vs -2.1%) and books, stationery, and other goods (3.1% vs -0.6%), while declines eased in automotive fuel (-0.4% vs -6.7%). Meanwhile, sales growth moderated for clothing and footwear (2.7% vs 6.8%) and furniture, electrical equipment, and household equipment (8.7% vs 10.9%). On a seasonally adjusted monthly basis, retail activity accelerated 5.3%, following a 1.4% gain in June.
-
----
-
-### 2026-09-30 17:46:08  #市場 #國際
-
-歐洲斯托克600指數漲幅收窄。
-
----
-
-### 2026-09-30 17:45:49  #MKT News #Market Themes #AI Revolution #META.O #Impact mixed
-
-【NYT: Meta classified AI data centers as R&D, cut nearly $4bn in taxes; IRS may challenge】The New York Times reports Meta has used U.S. research tax-credit rules to seek billions in tax relief for its AI data centers, describing data-center projects worth billions as "experimental R&D" and treating AI compute chips purchased from suppliers including NVIDIA as eligible R&D inputs. Documents show the credit cut Meta’s tax bill by nearly $4bn last year, making it one of the largest public-company beneficiaries. Internal accountants have warned of legal risk and the IRS could challenge the claims. Tax adviser Andre Shevchuck of BPM said classifying AI data centers as "experimental R&D" is "beyond routine." The IRS has previously reviewed firms that treated ordinary commercial spending as R&D for credit purposes.
-
----
-
-### 2026-09-30 17:45:42  #公司
-
-【華新科技：3萬t/年焚燒處置專案結項 節餘資金擬永久補流】華新科技公告稱，公司“3萬t/年焚燒處置專案”已達到預定可使用狀態，滿足結項條件。截至2026年9月29日，該募投專案形成節餘資金及利息，公司擬將其全部用於永久補充流動資金，用於日常生產經營。該事項已經公司董事會審議透過，尚需提交公司2026年第七次臨時股東會審議，後續將同步登出相關募集資金專用賬戶。保薦機構東興證券對該事項無異議。
-
----
-
-### 2026-09-30 17:45:31  #公司
-
-【普元資訊：劉相離職，新增認定曹宗偉；劉相持股45000股】普元資訊公告，公司核心技術人員劉相近日協商一致解除勞動關係並辦理完畢離職手續，離職後不再擔任任何職務；公司新增認定曹宗偉為核心技術人員。截至公告披露日，劉相持有公司股份45000股，已獲授但尚未歸屬的60000股第二類限制性股票將作廢失效；曹宗偉持有10500股。公司創新研發和日常經營正常進行。
-
----
-
-### 2026-09-30 17:45:28  #國際
-
-市場訊息：埃及總統塞西計劃於10月9日訪問馬來西亞。
-
----
-
-### 2026-09-30 17:45:13  #其他
-
-奕境 X9 正式上市，限時權益價 27.98 萬元起。
-
----
-
-### 2026-09-30 17:44:50  #Trading Economics #Economy #Sri Lanka #Producer Prices Change #Importance 1
-
-Sri Lanka Producer Inflation Eases Slightly in August — Producer prices in Sri Lanka rose 5.2% year-on-year in August 2026, slowing from an upwardly revised 5.4% increase in July. Agriculture prices increased 2.6%, rebounding from 0.1% growth, driven by stronger prices for non-perennial crops (9.6% vs 3.5%) and animal production (17.3% vs 14.8%), while prices for perennial crops remained in decline (-7.8% vs -8.8%). Manufacturing prices rose 5.1%, easing slightly from 5.6%, as higher prices for coke and refined petroleum products (63.3% vs 56.7%) were partly offset by slower growth in rubber and plastics products (13.1% vs 15.1%). Meanwhile, inflation in electricity, gas, steam and air conditioning supply eased (23.9% vs 27.0%), while water collection, treatment and supply edged up (5.4% vs 5.3%). On a monthly basis, producer prices increased 0.5%, easing from a 0.7 rise in the previous month.
-
----
-
-### 2026-09-30 17:44:47  #其他
-
-【UKMTO：9月29日霍爾木茲海峽報告有3艘油輪遇襲】英國海上貿易行動辦公室表示，9月29日，一艘原油油輪在霍爾木茲海峽內遭不明拋射物擊中左舷。UKMTO還收到一份延遲報告，稱9月29日另一艘油輪在駛入霍爾木茲海峽的途中被拋射物擊中。該機構還收到另一份延遲報告，稱9月29日一艘液化天然氣（LNG）油輪在霍爾木茲海峽被拋射物擊中。有關當局正在對這些事件展開調查。
-
----
-
-### 2026-09-30 17:43:56  #公司
-
-DFI零售集團將從美心交易中獲得約3.4億美元現金。
-
----
-
-### 2026-09-30 17:43:55  #MKT News #WTI #Impact bearish #Brent
-
-Iran's president said Tehran is earnestly fulfilling its responsibility to safeguard regional waterways and ensure safe navigation.
-
----
-
-### 2026-09-30 17:43:50  #MKT News #Important #Market Regions #Greater China
-
-【Kimi K3 added to OpenAI Codex enterprise channel; first Chinese large open‑source model in OpenAI enterprise billing system】US AI infrastructure firm Baseten said enterprise customers can call Kimi K3 within OpenAI’s Codex programming tool, with usage charged to customers’ existing OpenAI committed spend and no separate vendor procurement required. The move brings Kimi K3 into OpenAI’s mainstream enterprise billing channel and marks the first integration of a Chinese open‑source large model into that procurement framework.
-
----
-
-### 2026-09-30 17:43:14  #公司
-
-DFI零售集團將收購星巴克在七個亞洲市場的特許經營業務。
-
----
-
-### 2026-09-30 17:42:58  #公司
-
-【科大訊飛回應與美團大模型訓練引數差異】有投資者向科大訊飛（002230.SZ）提問，美團公告稱在國產晶片上訓練出了1.6萬億引數的大模型，為什麼訊飛只能訓練出2千多億引數的大模型呢？9月30日，公司回答表示，模型引數規模是技術指標之一，評價模型能力還需結合模型架構、訓練資料、訓練方法及實際任務表現。對於採用混合專家架構的模型，總引數量與每次計算的啟用引數量也需要區分，不能僅根據已釋出模型的引數規模判斷一家企業的訓練能力上限。同樣使用國產晶片，晶片型號、叢集規模、互聯條件及軟體最佳化也會影響訓練效率。公司結合算力條件、應用需求和投入產出安排模型研發，不一味追求引數規模，持續提升星火大模型的端雲結合的比較優勢及在教育、醫療、汽車等領域的應用效果，推動技術進步轉化為產品競爭力與商業化成果。
-
----
-
-### 2026-09-30 17:42:47  #其他
-
-英國衛生大臣：將重新推出新的國家孕產婦護理標準。
-
----
-
-### 2026-09-30 17:42:12  #公司 #市場
-
-【西部黃金：控股股東合併事項獲進展 持股比例升至59.55%】西部黃金公告稱，公司控股股東新疆有色集團擬與新疆地礦集團整體合併，2026年9月30日公司收到通知，新疆地礦集團股東已由新疆國資委變更為新疆有色集團。本次變更後，新疆有色集團直接及間接持有公司股權比例由54.57%上升至59.55%，公司控股股東仍為新疆有色集團，實際控制人仍為新疆國資委。本次權益變動符合免於發出要約的相關規定。
-
----
-
-### 2026-09-30 17:42:01  #國際
-
-【鄢東會見日本國際貿易促進協會訪華團】商務部副部長鄢東會見以巖屋毅會長為團長的日本國際貿易促進協會訪華團。
-
----
-
-### 2026-09-30 17:41:49  #觀點 #國際
-
-【小摩：中東石油出口已恢復至戰前九成】摩根大通最新報告顯示，隨著沙特東西輸油管道恢復執行，中東石油出口正快速回升。過去5天，地區原油和成品油出口10日均值維持在約2050萬桶/日，相當於2025年正常水平的89%，較戰前僅低約11%。不過，恢復並不均衡。原油出口已反彈至1750萬桶/日，相當於戰前水平的98%，顯示原油市場基本恢復正常；成品油出口仍僅約300萬桶/日，相當於正常水平的58%，柴油、航煤等供應約束依然明顯。摩根大通強調，運輸恢復並不意味著安全形勢改善，更準確地說，是能源行業已越來越能在持續高風險環境下維持運營。當前中東石油市場最大的剩餘缺口，已從原油轉向成品油。
-
----
-
-### 2026-09-30 17:41:41  #MKT News #Market Regions #Greater China #Japan & APAC
-
-September 29 — MOFCOM Vice Minister Yan Dong met with a visiting delegation from the Japan External Trade Organization (JETRO) led by Chairman Iwaya Takeshi.
-
----
-
-### 2026-09-30 17:41:37  #國際
-
-印度資訊部長：內閣已批准為可再生能源專案撥付1.86萬億盧比資金。
-
----
-
-### 2026-09-30 17:41:34  #公司
-
-據港交所披露檔案，騰訊9月30日耗資1.003億港元回購23.4萬股公司股份。
-
----
-
-### 2026-09-30 17:41:30  #公司 #國際
-
-【Kimi K3接入OpenAI Codex企業通道，中國大模型首次進入OpenAI企業付費結算體系】Kimi海外市場再下一城，美國AI基礎設施公司Baseten宣佈，企業使用者可在OpenAI程式設計工具Codex中使用Kimi K3，相關呼叫費用直接計入企業已有的OpenAI採購承諾額度，無需新增供應商採購流程。這意味著，Kimi K3進入OpenAI企業客戶的主流付費結算通道，也是中國開源模型首次進入這一企業採購體系。
-
----
-
-### 2026-09-30 17:41:20  #公司 #市場
-
-【西部黃金：控股股東持股比例升至59.55%】西部黃金公告稱，因新疆地礦集團股東由新疆國資委變更為新疆有色集團，公司控股股東新疆有色集團直接及間接持股比例由54.57%上升至59.55%，合計持有5.43億股股份。本次權益變動已獲新疆維吾爾自治區人民政府批覆，變動後新疆有色集團仍為控股股東，新疆國資委仍為實控人。截至報告書籤署日，新疆有色集團暫無未來12個月內繼續增持或處置公司股份的明確計劃。
-
----
-
-### 2026-09-30 17:41:01  #公司 #市場
-
-【西部黃金：全資子公司新疆美盛臨時停產預計45天左右】西部黃金公告，全資子公司新疆美盛因尾礦庫二、三期合建工程需調整監測設施、建設排水系統，選礦廠臨時停產，預計45天左右；待關鍵節點完工、設施調整到位並驗收後恢復生產，但恢復時間尚不確定。新疆美盛2025年營業收入16.88億元，納入合併報表淨利潤1.76億元，佔公司淨利潤的38.07%。
-
----
-
-### 2026-09-30 17:40:58  #其他
-
-【國慶假期廣東高速公路車流整體保持高位執行 日均車流量約1000萬車次】記者從廣東省交通運輸廳獲悉，2026年國慶假期（10月1日至7日，共計7天），預計高速公路車流整體保持高位執行，以景區間串聯漫遊、跨區域長途流轉為主，同時會出現一定規模的長途自駕返鄉探親出行。全省總體交通流量穩步增長，小型客車佔比較高。預計全省跨區域人員流動量2.5億人次、日均約3600萬人次，比2025年同期增長6.5%；道路、水路客運穩定增長，鐵路、民航客運需求旺盛。預計全省高速公路日均車流量約1000萬車次，比2025年同期增長約7%，9月30日、10月1日為出行高峰，10月6日、10月7日為返程高峰。（大灣區之聲）
-
----
-
-### 2026-09-30 17:40:03  #市場 #焦點
-
-【南向資金今日淨買入68.64億港元】港股通（滬）方面，騰訊控股、中國海洋石油分別獲淨買入7.23億港元、3.39億港元；中芯國際淨賣出額居首，金額為1.62億港元；港股通（深）方面，騰訊控股、華潤置地分別獲淨買入6.84億港元、2.54億港元；中芯國際淨賣出額居首，金額為8.09億港元。
-
----
-
-### 2026-09-30 17:39:58  #國際
-
-【存在內控機制不完善等問題 華安證券被安徽證監局出具警示函】安徽證監局釋出對華安證券採取出具警示函措施的決定，因華安證券存在內控機制不完善、對員工行為監督管理不到位等違規問題。
-
----
-
-### 2026-09-30 17:39:32  #公司
-
-【華夏銀行：副行長唐一鳴離任】華夏銀行公告稱，公司董事會收到副行長唐一鳴的書面辭職報告，唐一鳴因工作原因辭去本行副行長職務，該辭任自2026年9月30日起生效。唐一鳴原定任期到期日為2027年12月12日，辭任後不在本行及其控股子公司任職，不存在未履行完畢的公開承諾及增持承諾。唐一鳴已與本行做好工作交接，與董事會無不同意見，無相關事項需提請股東及債權人注意。
-
----
-
-### 2026-09-30 17:39:25  #公司
-
-【海程邦達：截至9月30日累計回購股份1166.203萬股】海程邦達公告稱，公司回購股份方案實施期限為2026年7月22日至2027年1月21日，預計回購金額5500萬元至1.10億元，回購價格不超過11.00元/股，回購股份中300萬股用於股權激勵或員工持股計劃，剩餘用於登出減少註冊資本。截至2026年9月30日，公司累計回購股份1166.203萬股，佔總股本比例4.07%，累計回購金額1.02億元，實際回購價格區間7.79元/股至9.50元/股。
 
 ---

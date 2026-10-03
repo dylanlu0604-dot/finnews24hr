@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-04 01:55:20_
-_本檔包含 2094 則快訊，約 436249 字_
+_更新時間：2026-10-04 04:55:51_
+_本檔包含 2039 則快訊，約 434919 字_
+
+---
+
+### 2026-09-28 21:42:30  #Trading Economics #Markets #Euro Area #Currency #Importance 2
+
+Euro Falls to Three-Month Low on Lagarde's Remarks — The euro weakened toward $1.135, its lowest level since June 26, amid a stronger dollar as investors weighed comments from ECB President Christine Lagarde. Lagarde said the inflation outlook for 2027 and 2028 is now higher than policymakers expected a few months ago, mainly due to higher energy prices, but noted there is no evidence yet of energy costs feeding into higher wages. She added that while the shock is too significant to ignore, a measured policy response remains appropriate to keep inflation under control. Money markets are pricing in roughly 100 basis points of ECB rate hikes by the end of 2027. Investors await key eurozone inflation data later this week for further clues on the ECB’s policy outlook. Meanwhile, the DXY gained as rising US Treasury yields and a hawkish Fed strengthened the case for US rates to remain higher for longer. Also, lack of progress in negotiations to reopen the Strait of Hormuz pushed oil prices higher and boosted safe-haven demand for the dollar.
+
+---
+
+### 2026-09-28 21:40:15  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.61% Lower — The Dow Jones Index is falling 319 points. Losses were driven by Salesforce (-4.93%), Boeing (-4.49%) and Microsoft (-2.33%). Biggest rises came from Nvidia (3.16%), Chevron (1.01%) and J&J (0.52%).
+
+---
+
+### 2026-09-28 21:37:27  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Lower — US stocks kicked off the week lower, with the S&P 500 down 0.9%, the Nasdaq falling 1% and the Dow Jones losing around 400 points, amid another rise in oil prices as hopes for a deal between the US and Iran faded. Meanwhile, Treasury yields continued to climb to multi-year highs amid expectations that higher energy prices could put further pressure on inflation and increase the likelihood of additional rate hikes. Key economic data due this week, including the PCE and the jobs report, will provide further insight into the health of the US economy. Communication services, consumer discretionary and materials were the worst-performing sectors, while energy traded in the green. Alphabet (-1%), Microsoft (-1.4%), Amazon (-1.1%), Meta (-4.1%), Tesla (-3.1%) and Micron (-3.8%) were lower. In contrast, Nvidia outperformed and gained 2.3% after the company authorized an additional $150 billion to its share buyback program, taking its total to $235 billion, amid record spending on AI.
+
+---
+
+### 2026-09-28 21:36:28  #央行 #歐洲央行
+
+【歐洲央行行長拉加德：歐洲經濟韌性將在第三季度延續】歐洲央行行長拉加德表示，歐洲經濟韌性將在第三季度延續；工資並未對能源衝擊做出實質性反應；前景充滿高度不確定性；仍認為通脹存在上行風險，經濟增長存在下行風險。
+
+---
+
+### 2026-09-28 21:36:23  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Netflix Stock Price Hits 9-week Low — Netflix shares decreased to 70.10 USD, the lowest since July 2026. Over the past 4 weeks, Netflix lost 13.87%, and in the last 12 months, it decreased 42.05%.
+
+---
+
+### 2026-09-28 21:34:02  #Trading Economics #Markets #Euro Area #currency #Importance 1
+
+Euro Hits 8-week Low — EURUSD decreased to 1.14, the lowest since July 2026. Over the past 4 weeks, Euro US Dollar lost 2.19%, and in the last 12 months, it decreased 3.13%.
+
+---
+
+### 2026-09-28 21:33:53  #Trading Economics #Markets #United States #stocks #Importance 1
+
+PepsiCo Stock Price Hits 6-year Low — PepsiCo shares decreased to 126.85 USD, the lowest since June 2020. Over the past 4 weeks, PepsiCo lost 9.43%, and in the last 12 months, it decreased 9.32%.
+
+---
+
+### 2026-09-28 21:33:33  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Salesforce Stock Price Hits 4-week Low — Salesforce shares decreased to 224.10 USD, the lowest since August 2026. Over the past 4 weeks, Salesforce Inc gained 9.56%, and in the last 12 months, it decreased 7.46%.
+
+---
+
+### 2026-09-28 21:32:34  #Trading Economics #Markets #commodity #Importance 0
+
+Palladium is down by 5.02% — Palladium decreased 5.02% to 1212 USD/t.oz
+
+---
+
+### 2026-09-28 21:30:44  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Boeing Stock Price Hits 25-week Low — Boeing shares decreased to 192.35 USD, the lowest since March 2026. Over the past 4 weeks, Boeing lost 9.29%, and in the last 12 months, it decreased 13.05%.
+
+---
+
+### 2026-09-28 21:30:23  #Trading Economics #Markets #commodity #Importance 0
+
+Gold Hits 7-week Low — Gold decreased to 4141.00 USD/t.oz, the lowest since August 2026. Over the past 4 weeks, Gold lost 6.7%, and in the last 12 months, it increased 8.09%.
+
+---
+
+### 2026-09-28 21:17:33  #Trading Economics #Markets #Spain #stocks #Importance 0
+
+Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 25.50 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 1.84%, and in the last 12 months, it increased 56.96%.
+
+---
+
+### 2026-09-28 21:09:16  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Down to Near 1-Month Low — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was down for a second session on Monday, dropping about 4.6% to its lowest since September 1 at 3,268 points. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, slipped by 7.5% to 5,351 points, likely influenced by lower iron ore prices due to ample global supply. At the same time, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell by 0.2% to 2,402 points, partly due to lower wheat prices. Amogn smaller vessels, the supramax index rose by 0.2% to 1.790 points.
+
+---
+
+### 2026-09-28 21:00:40  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Futures Edge Lower as Oil Rises — Futures tracking Canadian equities edged lower on Monday as rising oil prices revived inflation concerns. Oil prices resumed their rally after US President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, renewing concerns that energy-driven inflation shocks could keep interest rates higher for longer. Yields moved higher, putting pressure on credit-sensitive stocks. Meanwhile falling gold prices pressured mining shares. On the data front, Canadian GDP data due Tuesday could offer cues on economic momentum and the future policy path of the Bank of Canada.
+
+---
+
+### 2026-09-28 20:51:54  #Trading Economics #Markets #Commodity #commodity #Importance 0
+
+Rapeseed Hits 4-week Low — Rapeseed decreased to 541.25 EUR/T, the lowest since August 2026. Over the past 4 weeks, Rapeseed lost 0.44%, and in the last 12 months, it increased 16.47%.
+
+---
+
+### 2026-09-28 20:45:31  #Trading Economics #Economy #Mexico #Balance of Trade #Importance 2
+
+Mexico Trade Surplus Falls Short of Forecast — Mexico’s trade balance posted a surplus of $605 million in August 2026, widening from $209 million a year earlier but falling well short of forecasts of $1.4 billion. Total merchandise exports reached $78.01 billion, up 40.4% year over year. Manufactured goods exports rose 42.6%, led by electrical and electronic equipment and appliances (122.3%), mining and metallurgical products (50.4%), plastic and rubber products (10.6%), food, beverages and tobacco (10%), and specialized machinery and equipment for various industries (7.2%). Agricultural and fishing exports fell 1.6%, while oil exports declined 2.8%. Merchandise imports totaled $77.40 billion, with consumer goods imports up 8.9%, intermediate goods purchases surging 41.9%, and capital goods imports rising 6.9%. In the first eight months of 2026, the trade balance recorded a $9.86 billion surplus.
+
+---
+
+### 2026-09-28 20:38:31  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Slumps as Inflation Fears Boost Rate-Hike Bets — Silver fell more than 4% toward $61 an ounce on Monday, its lowest level since August 7, as surging oil prices intensified inflation concerns and bolstered expectations for higher-for-longer interest rates. A stronger US dollar and US Treasury yields near 19-year highs also pressured the non-yielding metal. Brent crude surged to $107 a barrel after President Donald Trump rejected an Iranian peace proposal to resolve the conflict and reopen the Strait of Hormuz, prompting markets to raise bets on further Federal Reserve rate hikes. Markets now see a more than 70% chance of a second hike as soon as October, according to CME’s FedWatch Tool. Cleveland Fed President Beth Hammack said Friday that persistently high inflation risks conditioning the public to accept elevated prices as the norm, adding that the central bank cannot allow that to happen. Focus now turns to this week’s US economic data, including Wednesday’s PCE inflation report and Friday’s nonfarm payrolls figures.
+
+---
+
+### 2026-09-28 20:35:46  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Falls as Higher Oil Prices Lift Rate-Hike Bets — Gold fell to $4,150 an ounce on Monday, touching its lowest level since August 5, as surging oil prices fueled inflation concerns and strengthened expectations for higher-for-longer interest rates. A firm US dollar and US Treasury yields near 19-year highs also weighed on the non-yielding metal. Brent crude surged to $107 a barrel after President Donald Trump rejected an Iranian peace proposal aimed at resolving the conflict and reopening the Strait of Hormuz, prompting markets to increase bets on further Federal Reserve rate hikes. Markets now see a more than 70% chance of a second rate hike as soon as October, according to CME’s FedWatch Tool. Cleveland Fed President Beth Hammack said Friday that persistently high inflation risks conditioning the public to accept elevated prices as the norm, adding that the central bank cannot allow that to happen. Focus now turns to this week’s US data, including Wednesday’s PCE inflation report and Friday’s nonfarm payrolls figures.
+
+---
+
+### 2026-09-28 20:14:17  #Trading Economics #Markets #United Kingdom #Currency #Importance 0
+
+Sterling Gains as Markets Price More BoE Rate Hikes — Sterling edged up to $1.326 as investors priced in a more hawkish Bank of England stance amid renewed inflation pressures, while oil prices rose after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz and end the Middle East conflict. BoE Deputy Governor Dave Ramsden said Monday he would be prepared to raise rates if “upside pressures” on inflation persist, echoing recent warnings from Governor Andrew Bailey and Deputy Governors Sarah Breeden and Clare Lombardelli that higher energy prices could fuel a wage-price spiral. The MPC voted 6-3 earlier this month to hold rates at 3.75%, while warning inflation could peak around 4%. Markets now price in an over 80% chance of a 25bp hike in November, with roughly four hikes priced in by mid-next year. Meanwhile, Chancellor John Healey stressed the need for fiscal discipline ahead of next month’s budget, highlighting the rising cost of servicing the UK’s elevated debt burden and its impact on public services.
+
+---
+
+### 2026-09-28 20:11:49  #Trading Economics #Markets #United Kingdom #Government Bond 10Y #Importance 0
+
+Gilt Yields Surge as Inflation Risks Raise Rate-Hike Expectations — UK 10-year gilt yields rose to 5.4%, their highest level in nearly two decades, as investors priced in a more hawkish Bank of England policy stance amid renewed inflation pressures. Oil prices climbed after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz and end the conflict in the Middle East. BoE Deputy Governor Dave Ramsden said Monday he would support rate hikes if “upside pressures” on inflation persist, echoing recent warnings from Governor Andrew Bailey and other policymakers that higher energy prices could fuel a wage-price spiral. The MPC recently voted to hold rates at 3.75%, while warning inflation could peak around 4%. Markets are now pricing in an 85% probability of a 25bp rate hike in November, with roughly four increases priced in by the middle of next year. Meanwhile, Chancellor John Healey stressed the need for fiscal discipline in a major speech ahead of next month’s budget, citing the rising cost of servicing the UK’s debt.
+
+---
+
+### 2026-09-28 19:54:55  #Trading Economics #Economy #Brazil #Foreign Direct Investment #Importance 1
+
+Brazil FDI Inflows Ease in August — Brazil recorded foreign direct investment (FDI) inflows of $7.4 billion in August 2026, down from $7.7 billion a year earlier. Equity inflows totaled $9.3 billion, including $3.6 billion in non-reinvested equity and $5.7 billion in reinvested earnings, while intercompany lending recorded net outflows of $1.9 billion. Portfolio investment recorded net outflows of $5.2 billion in August 2026, as equity and fund investments posted outflows of $6.5 billion, partly offset by inflows of $1.3 billion in debt securities. Over the 12 months to August, FDI totaled $86.6 billion, equivalent to 3.39% of GDP.
 
 ---
 
@@ -12167,461 +12293,5 @@ Iranian foreign minister Araghchi said Tehran has seen an initial response from 
 ### 2026-09-27 04:58:06  #MKT News #Market Regions #Emerging Markets
 
 Carney said Vietnam is Canada’s largest ASEAN trading partner and that this week Canada further deepened the partnership to expand market access for Canadian firms in one of the world’s fastest‑growing consumer markets.
-
----
-
-### 2026-09-27 04:43:32  #國際
-
-伊朗武裝部隊發言人：霍爾木茲海峽處於伊朗的控制之下。任何試圖在伊朗指定航線之外通行的船隻，均無法獲得安全保障。
-
----
-
-### 2026-09-27 04:42:18  #國際
-
-【伊朗軍方：戰後將持續追捕特朗普與內塔尼亞胡】伊朗武裝部隊高階發言人謝卡爾希表示，即便戰爭結束，伊朗軍方也將繼續追捕美國總統特朗普和以色列總理內塔尼亞胡，稱他們為“殺人犯”並必將受到懲罰。他表示：“即便戰爭結束，我們也不會放過特朗普、內塔尼亞胡及其同謀。無論他們是否仍在掌權，都必須為自己的行為付出代價。”謝卡爾希稱，德黑蘭絕不會允許美國在新興世界秩序中恢復其昔日的地位。他補充道，美軍除了撤出中東之外別無安全之路，而且他們撤離得越快，遭受的損失就越少。他說：“美國人可以夢想幹預霍爾木茲海峽。但如果他們敢插手霍爾木茲海峽，必將遭到狠狠一記耳光。”
-
----
-
-### 2026-09-27 04:38:30  #央行 #國際
-
-美國聖路易斯聯儲：截至9月18日的一週內，金融市場的壓力較前一週略有下降。聖路易斯聯儲金融壓力指數錄得-0.91，而前一週為-0.85。（0代表金融市場處於正常狀況；數值低於0表明壓力低於平均水平）
-
----
-
-### 2026-09-27 04:38:10  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-St. Louis Fed: In the week to Sep 18 the Financial Stress Index fell to -0.91 from -0.85 a week earlier; 0 indicates normal conditions and negative values indicate below-average stress.
-
----
-
-### 2026-09-27 04:35:50  #MKT News
-
-【Hungary may require ultra-rich to pay higher wealth tax】Prime Minister Magyar said the government’s planned wealth tax could impose a rate above the previously proposed 1% on Hungary’s richest households. The government aims to have the tax in place before January. Magyar said the party proposal levies 1% on wealth over 1 billion forint (about $3.1m) but that super-rich individuals could face higher rates. He added the government faces pressure to cut the budget deficit by 2030; this year’s deficit may reach about 7.5% of GDP versus a euro-area 3% limit.
-
----
-
-### 2026-09-27 04:32:05  #國際
-
-伊朗總統：在談判期間兩次遭襲後，伊朗“不再”信任美國。
-
----
-
-### 2026-09-27 04:29:15  #MKT News #Market Regions #Europe & UK
-
-【Germany, Russia foreign ministers hold first talks in four years; Lavrov says no new progress】German and Russian foreign ministers met on Saturday during the UN General Assembly — their first face-to-face talks since the 2022 Russia-Ukraine conflict began. Germany's foreign minister Wadephul urged Moscow to abandon a "dangerous escalation" toward Germany, Europe and NATO and said Berlin is open to improving ties only if Russia shows genuine willingness to end the Ukraine conflict. The meeting follows a recent deterioration in ties after an attempted drone attack at Leipzig airport last month, which Germany blamed on Russia, and reciprocal measures. Russia's foreign minister Lavrov said there was "no new progress" from the talks.
-
----
-
-### 2026-09-27 04:26:07  #其他
-
-英國財政大臣希利：正在傾聽各方對燃油價格飆升的擔憂。
-
----
-
-### 2026-09-27 04:24:38  #國際
-
-伊朗與俄羅斯在俄舉行第三次文化委員會會議。
-
----
-
-### 2026-09-27 04:22:22  #國際
-
-伊朗總統抵達德黑蘭時表示，他的飛機被迫在阿爾及利亞降落加油，在那裡停留了約兩個小時後，才繼續飛往紐約。
-
----
-
-### 2026-09-27 04:21:47  #國際
-
-歐盟委員會：馮德萊恩主席宣佈撥款7.1億歐元，用於援助非洲流離失所者及全球危機救援。
-
----
-
-### 2026-09-27 04:19:25  #MKT News #Market Regions #Europe & UK
-
-European Commission President Von der Leyen announced €710m in aid for displaced people in Africa and global crisis relief.
-
----
-
-### 2026-09-27 04:10:06  #MKT News
-
-U.S. Secretary of Transportation Duffy said a major victory for U.S. autoworkers will be announced on Monday.
-
----
-
-### 2026-09-27 04:07:56  #國際
-
-美國交通部長達菲稱，汽車工人將迎來“重大勝利”，時間就在週一。
-
----
-
-### 2026-09-27 04:04:42  #其他
-
-剛果西南部發生空難，造成17人死亡，死者中包括該國兩名最高階別的軍事司法官員。
-
----
-
-### 2026-09-27 04:03:12  #國際
-
-伊藤忠商事與愛奧伊保險將開發針對美國市場的自動駕駛計程車（Robotaxi）保險產品。
-
----
-
-### 2026-09-27 03:52:50  #國際
-
-葉門政府軍方發言人：伊朗革命衛隊正在葉門境內將伊朗製造的武器改裝為制導導彈並提供給胡塞武裝，這對民用航空構成了直接威脅。
-
----
-
-### 2026-09-27 03:39:49  #MKT News
-
-Bangladesh plans first sovereign bond issuance, targeting up to $1 bln in proceeds.
-
----
-
-### 2026-09-27 03:38:36  #其他
-
-孟加拉國首次發行主權債券，目標融資最高10億美元。
-
----
-
-### 2026-09-27 03:35:24  #其他
-
-市場資訊：通用汽車已開始為其新型富鋰錳基電池生產正極材料，這是將這種低成本電池應用於電動汽車的關鍵一步，目標是在2028年實現量產。
-
----
-
-### 2026-09-27 03:33:05  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Saudi foreign minister says freedom of navigation in Strait of Hormuz and key shipping lanes must be ensured】Saudi Foreign Minister Faisal told the UN General Debate that Saudi Arabia and regional states have been hit by attacks from Iran, with security assets and civilian and economic infrastructure targeted. He reiterated Riyadh’s right to defend its security, sovereignty, citizens and resources, and said freedom of navigation must be guaranteed in all international waterways—notably the Strait of Hormuz, Bab al‑Mandeb, the Red Sea and the Gulf of Aden. He added that energy security depends on system resilience; Saudi Arabia is securing supply continuity through long‑term infrastructure investment and oil reserves held outside the region, and supports supply‑route diversification and navigation freedom.
-
----
-
-### 2026-09-27 03:31:02  #國際
-
-【特朗普發帖：美國汽車工人和購車者的大日子】美國總統特朗普週六在社交媒體上發帖稱：美國汽車工人和購車者的大日子！我剛剛批准了新的燃油經濟性標準，終結了拜登荒謬的電動汽車強制令。那些“蠢主黨人”讓我們偉大的汽車製造商損失了數以十億美元，強迫美國人購買他們根本不想要的汽車，還在從未建成的充電樁上浪費了數十億美元。這些新標準將消除在美國製造汽車過程中的浪費。這意味著價格更低，讓家庭購買一輛嶄新、漂亮而且安全的汽車時節省數千美元——遠遠好過我們此前生產的那些“環保怪物”。從通用汽車到福特再到Stellantis，每一家製造商都打電話給我，表示想在這裡生產汽車，現在他們可以這麼做了！在我的政府執政期間，已有超過1000億美元投資於美國汽車產業，而這僅僅是個開始。工廠正在迴歸，就業崗位正在回到密歇根州、俄亥俄州、印第安納州、南卡羅來納州以及我們國家各地。感謝我們偉大的交通部長達菲和商務部長盧特尼克。美國回來了。
-
----
-
-### 2026-09-27 03:23:53  #國際
-
-【特朗普：已批准旨在終結電動車強制令的新燃油經濟性標準】美國總統特朗普在社交媒體平臺上發帖稱：“我剛剛批准了新的燃油經濟性標準”，此舉將終結拜登政府時期的電動車強制令。他表示：“這些新標準將剔除在美國製造汽車過程中的浪費。”特朗普並未透露新標準的具體細節。
-
----
-
-### 2026-09-27 03:22:01  #國際
-
-特朗普：超過1000億美元正投資於美國汽車行業。
-
----
-
-### 2026-09-27 03:20:03  #國際
-
-伊朗革命衛隊網路部隊：在霍爾木茲海峽聽到爆炸聲。
-
----
-
-### 2026-09-27 03:19:19  #MKT News #Market Themes #The Trump Trade #GM.N #Impact bullish #F.N #WTI
-
-【Trump approves new fuel-economy standards, rescinds Biden-era EV mandate】President Trump said he has approved new fuel-economy standards and rescinded a Biden-era electric-vehicle mandate. He said the changes will eliminate waste in U.S. vehicle production, lower consumer prices and save buyers thousands of dollars. Trump added that automakers including GM, Ford and Stellantis contacted his administration seeking to expand U.S. production, and that auto-sector investment has topped $100 billion under his government.
-
----
-
-### 2026-09-27 03:16:09  #國際
-
-特朗普：新標準將終結拜登政府時期的電動車強制令。
-
----
-
-### 2026-09-27 03:15:55  #MKT News #WTI #Impact bullish #Brent
-
-U.S. President Trump approved new fuel-economy standards and rescinded the Biden administration's electric-vehicle mandate.
-
----
-
-### 2026-09-27 03:15:18  #國際
-
-特朗普：我已批准新的燃油經濟性標準。
-
----
-
-### 2026-09-27 03:13:23  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #EURUSD #Impact bearish
-
-【Trump says U.S. economy 'best ever'; cites record real income, low poverty, rising exports】Trump cited an S&P Global report this week saying U.S. business growth is at its highest in more than five years. He said inflation-adjusted median household income is at a record high, the U.S. poverty rate is at a record low, 2026 goods exports are expected to reach a record high, and trillions of dollars of new investment are flowing into the U.S.
-
----
-
-### 2026-09-27 03:03:15  #國際
-
-特朗普：美國家庭收入達到有記錄以來的最高水平，貧困率降至最低點。美國人賺的錢比以往任何時候都多。
-
----
-
-### 2026-09-27 03:01:43  #國際
-
-俄羅斯總統普京重申，俄羅斯沒有在歐洲準備任何敵對行動的計劃。
-
----
-
-### 2026-09-27 03:01:06  #MKT News #Macro & Rates #US Economy
-
-US President Trump said business activity is booming, household incomes have reached unprecedented levels, the poverty rate is at historic lows, and exports are surging.
-
----
-
-### 2026-09-27 03:00:49  #國際
-
-伊朗總統辦公室週六表示，伊朗總統在紐約出席第81屆聯合國大會後已返回德黑蘭。
-
----
-
-### 2026-09-27 03:00:34  #MKT News #Macro & Rates #US Economy #Market Themes #The Trump Trade #S&P500 #Impact bullish #DXY
-
-US President Trump said real median household income has reached a record high and the poverty rate has fallen to its lowest on record. He said US goods exports are expected to hit a new high in 2026 and that trillions of dollars of new investment are flowing into the US.
-
----
-
-### 2026-09-27 02:59:21  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Iranian President PEZESHKIAN said Iran and Yemen did not take part in the attack on a Saudi oil pipeline, and that the possibility Israel carried out the operation to inflame tensions and provoke disputes cannot be ruled out.
-
----
-
-### 2026-09-27 02:57:09  #MKT News
-
-【India foreign minister Jaishankar: Peace is the path】India foreign minister Jaishankar told the UN General Assembly's 81st General Debate that conflict and confrontation remain the international community's primary concern, urging restraint, de‑escalation, protection of civilians, and uninterrupted energy and trade flows. He said escalating Gulf tensions have worsened an already fragile situation and that attacks on commercial vessels and seafarers in international waters are entirely unacceptable, calling for measures to ensure maritime security and safe passage.
-
----
-
-### 2026-09-27 02:52:06  #國際
-
-俄羅斯外交部長拉夫羅夫： 我確信，現實生活會讓我們美國的夥伴明白，必須開始以多邊主義的思維來思考問題。他們應當認識到，在這個世界上並非只有他們自己，他們既不是唯一代表經濟實力和軍事實力的國家，也不是國際舞臺上唯一的獨立參與者。
-
----
-
-### 2026-09-27 02:51:02  #國際
-
-俄羅斯外交部長拉夫羅夫：在委內瑞拉問題上，他們（美國）聲稱馬杜羅是毒販，政權必須更迭。但結果卻是，他們把委內瑞拉的石油產業變成了美委兩國共同所有。伊朗被指控支援恐怖主義長達47年。然而在後來的談判中，美國人卻提議與伊朗共同控制霍爾木茲海峽。因此，我們明白，美國的國家利益本質上是極其自私的。
-
----
-
-### 2026-09-27 02:50:45  #國際
-
-俄羅斯外交部長拉夫羅夫： 我們必須清除烏克蘭問題這一障礙，因為它正在阻礙我們邁向互利共贏的俄美關係之路。
-
----
-
-### 2026-09-27 02:50:20  #MKT News
-
-Russia's foreign minister LAVROV said his meeting with Germany's foreign minister WADEPHUL produced no new progress.
-
----
-
-### 2026-09-27 02:49:38  #MKT News
-
-【Oman FM says discussed freedom of navigation in Strait of Hormuz with Iran FM】Oman foreign minister Busaidi said he met Iran foreign minister Araghchi on the sidelines of the UN General Assembly in New York to discuss continuing efforts to create space for dialogue, de‑escalation and regional cooperation, building mutual trust and reaching consensus to support security and stability. He said they also explored efforts to ensure the security of navigation and freedom of passage through the Strait of Hormuz.
-
----
-
-### 2026-09-27 02:49:01  #國際
-
-俄羅斯外交部長拉夫羅夫：與德國外長的會談沒有取得任何新的進展。
-
----
-
-### 2026-09-27 02:46:22  #國際
-
-俄羅斯外交部長拉夫羅夫：我們無意與歐洲開戰，這種說法純屬無稽之談，荒謬至極。真正在為與我們開戰做準備的，是歐洲。他們每天都在確認，最遲到2030年，歐洲人必須做好戰爭準備。要知道，這可能會成為一個自我實現的預言，因為他們現在正投入鉅額資金用於武器生產。普京曾明確表示，如果他們攻擊我們，我們絕不會退縮。他還補充說，那將是一場截然不同的戰爭，而且會非常短暫。
-
----
-
-### 2026-09-27 02:44:15  #國際
-
-特朗普：週日將前往芝加哥地區出席總統盃高爾夫賽。
-
----
-
-### 2026-09-27 02:42:36  #其他
-
-國際貨幣基金組織：計劃未來數週與加彭舉行更多會談。
-
----
-
-### 2026-09-27 02:39:36  #國際
-
-俄羅斯外交部長拉夫羅夫談及德國時表示： 德國正竭力爭取成為聯合國安理會常任理事國，可以說是不遺餘力，甚至到了執念的地步。 但它成功的機會為零。
-
----
-
-### 2026-09-27 02:39:16  #國際
-
-俄羅斯外交部長拉夫羅夫談及德國時表示：默茨總理說——這絕非口誤，他重複了好幾次——“我們的目標是讓德國再次成為歐洲的主要軍事力量。”他明白這句話裡“再次”這個詞的含義嗎？
-
----
-
-### 2026-09-27 02:38:04  #公司
-
-利比亞國家石油公司表示，原油產量將逐步恢復至正常水平。
-
----
-
-### 2026-09-27 02:37:58  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Libya's National Oil Corporation said crude flows will gradually return to normal levels.
-
----
-
-### 2026-09-27 02:37:16  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Libya's National Oil Corporation said it reopened valves on the Sharara-Zawiya oil pipeline and has resumed crude flows.
-
----
-
-### 2026-09-27 02:37:05  #公司
-
-利比亞國家石油公司：利比亞重新開放沙拉拉-扎維耶輸油管線閥門，恢復原油輸送。
-
----
-
-### 2026-09-27 02:36:04  #MKT News
-
-cenc measured a magnitude 3.9 earthquake at 02:31 on Sept 27 in Changning County, Yibin, Sichuan, China; focal depth 5 km.
-
----
-
-### 2026-09-27 02:31:48  #MKT News #BA.N #Impact bearish
-
-【US media: Boeing 737 MAX software bug may impair navigation】US media report Boeing has identified a software defect in a 737 MAX cockpit software update that can disable some autopilot/navigation functions, potentially when crews change course after a missed approach. Boeing has acknowledged the defect; it was not previously disclosed. In specific cases pilots may need to fly manually with partial autopilot loss, raising safety concerns during landing and increasing pilot workload in low-altitude, high-demand situations such as adverse weather, industry sources said.
-
----
-
-### 2026-09-27 02:30:17  #國際
-
-印度外交部長：我們堅信，實現持久（加沙地區）和平必須依靠“兩國方案”。
-
----
-
-### 2026-09-27 02:23:35  #其他
-
-SpaceX：獵鷹9號火箭從加利福尼亞州的4E發射臺成功將USSF-385任務送入軌道。
-
----
-
-### 2026-09-27 02:23:29  #MKT News
-
-【Israeli strikes hit multiple Gaza sites, cause casualties】Palestinian sources said on the 26th Israeli forces struck multiple locations across the Gaza Strip, killing two Palestinians and wounding several others, including children. Israeli authorities did not immediately comment.
-
----
-
-### 2026-09-27 02:23:08  #國際
-
-【以軍襲擊加沙多地 致多人死傷】當地時間26日，據巴勒斯坦方面訊息稱，以軍當天對加沙地帶多地發動襲擊。目前已造成2名巴勒斯坦人死亡，另有多人受傷，傷者中包括兒童。以方對此暫無回應。（央視新聞）
-
----
-
-### 2026-09-27 02:20:26  #MKT News #Market Themes #AI Revolution #XAUUSD #Impact bullish #S&P500 #Impact bearish #US10Y
-
-The Washington Post reports the U.S. and Russia jointly removed the "human oversight" clause from a global AI weapons convention.
-
----
-
-### 2026-09-27 02:20:18  #公司 #焦點 #國際
-
-【波音737 MAX新軟體故障或導致導航功能中斷】波音公司發現737 MAX存在軟體故障，該故障可能導致自動導航功能在特定著陸場景下失效。據部分業內人士透露，西南航空和聯合航空已告知波音，不希望新交付的737 MAX客機配備存在缺陷的軟體。美國聯邦航空管理局（FAA）正在調查該問題，這可能會影響波音最新款737機型的認證。該公司正為飛行員制定相關操作程式並開發軟體修復方案；美國聯邦航空管理局（FAA）的調查可能會影響新機型獲批。
-
----
-
-### 2026-09-27 02:18:50  #MKT News
-
-Wall Street Journal reports a senior Federal Aviation Administration official said the agency is probing a software anomaly and assessing whether it could create unsafe flight conditions.
-
----
-
-### 2026-09-27 02:18:41  #MKT News #BA.N #Impact bearish
-
-The Wall Street Journal, citing sources, reported UNITED AIRLINES and Southwest Airlines have told Boeing (BA.N) they want new 737 MAX deliveries fitted with the older software rather than the updated version which sources say is defective.
-
----
-
-### 2026-09-27 02:17:59  #MKT News #BA.O #Impact mixed
-
-The Wall Street Journal reported Boeing said engineers are developing a software update to address the problem.
-
----
-
-### 2026-09-27 02:17:47  #MKT News #BA.O #Impact bullish
-
-The Wall Street Journal reports a document shows Boeing told 737 MAX operators in August that the software issue did not constitute a safety risk.
-
----
-
-### 2026-09-27 02:17:35  #MKT News #BA.O #Impact bearish
-
-Wall Street Journal reports a software fault could prevent pilots from using the automatic flight guidance system in certain landing scenarios.
-
----
-
-### 2026-09-27 02:17:22  #MKT News #BA.N #Impact bearish
-
-Wall Street Journal reports a new Boeing 737 MAX software glitch has raised safety concerns.
-
----
-
-### 2026-09-27 02:10:44  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
-
-【Lavrov says West has destroyed European security architecture to contain Russia】Russia’s foreign minister Sergei Lavrov told the UN General Assembly in New York that Western efforts to contain Russia have destroyed the European security architecture and are obstructing a peaceful settlement of the Ukraine conflict, undermining prospects for negotiations. He warned Western hopes for a strategic defeat of Russia risked leading the conflict’s instigators into a strategic dead end. Lavrov urged the UN to act to reverse the situation in the Middle East and said restoring trust between Arab states and Iran is a prerequisite for stabilizing the Strait of Hormuz and the Persian Gulf. He described the attack that killed Iran’s former supreme leader Khamenei and other Iranian military-political leaders as an unacceptable act of force, and also called for the immediate release of Venezuelan president Maduro and his wife, the lifting of Cuba’s naval blockade, and economic measures to improve Cuba’s humanitarian conditions.
-
----
-
-### 2026-09-27 02:07:58  #國際
-
-【俄外長：西方為遏制俄羅斯而摧毀歐洲安全體系】據俄羅斯媒體報道，俄羅斯外交部長拉夫羅夫26日在紐約表示，為了遏制俄羅斯，西方已然親手摧毀歐洲安全體系。拉夫羅夫當天在第81屆聯合國大會一般性辯論發言中談到烏克蘭問題，他說，歐洲正在竭盡全力阻撓烏克蘭問題和平解決，破壞談判前景。他認為，西方幻想讓俄羅斯遭受戰略失敗，但這些幻想最終只會將戰爭挑唆者引入戰略死衚衕。（新華社）
-
----
-
-### 2026-09-27 02:05:44  #公司 #國際
-
-日本住友生命保險公司將部署人工智慧（AI）以提供量身定製的保險合同。
-
----
-
-### 2026-09-27 02:04:46  #國際
-
-【民調：特朗普的MAGA忠實支持者認為他並不存在"可負擔性"問題】《POLITICO》民調的一項新分析顯示，儘管許多美國人認為生活成本是美國面臨的首要議題，但特朗普的MAGA基本盤卻並不總是這麼看。在自認為屬於MAGA運動的選民中，僅有28%的人表示，自特朗普上任以來開支變得更加難以負擔。事實上，MAGA選民更傾向於認為情況有所好轉，而非惡化。
-
----
-
-### 2026-09-27 02:01:35  #其他
-
-英國首相伯納姆表示，維持公共財政穩定至關重要。
-
----
-
-### 2026-09-27 02:00:03  #國際
-
-【特朗普稱美國和古巴會達成協議】美國總統特朗普26日稱，他認為美國和古巴會達成協議，美方“不需要動用軍隊”。特朗普當天在白宮南草坪前往田納西州前對媒體作上述表示。（新華社）
-
----
-
-### 2026-09-27 01:59:32  #國際
-
-澤連斯基：許多情報機構掌握的資訊顯示，俄羅斯想要擴大沖突，將波及更多國家。也許是其他地區。這就是為什麼我們需要共同防禦，預防性地行動。正是為此，我們正在與夥伴們討論更嚴厲的制裁。
-
----
-
-### 2026-09-27 01:59:02  #國際
-
-澤連斯基：9月，俄羅斯發射了超過2730架噴氣動力“沙赫德”，其中超過1500架被擊落或壓制。不幸的是，仍有相當一部分達到了目標。但我們烏克蘭人將一步步加強防禦。
-
----
-
-### 2026-09-27 01:58:43  #國際
-
-澤連斯基：明年，俄羅斯計劃僅用於噴氣動力無人機和巡飛彈藥的生產就花費120億美元。
-
----
-
-### 2026-09-27 01:58:26  #MKT News #XAUUSD #Impact bullish #DXY
-
-Ukrainian President Zelenskiy said Russia plans to spend $12 billion next year solely on production of jet-powered drones and cruise missiles.
 
 ---

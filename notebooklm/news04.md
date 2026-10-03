@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-10-04 01:55:20_
-_本檔包含 2114 則快訊，約 436350 字_
+_更新時間：2026-10-04 04:55:51_
+_本檔包含 2112 則快訊，約 434488 字_
+
+---
+
+### 2026-09-29 18:59:45  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Falls for 2nd Day — India’s BSE Sensex closed about 0.3% down at 72,529.1 on Tuesday, its lowest since late March, marking the second session of losses. Market sentiment remained subdued amid elevated crude oil prices and global bond yeilds, persistent geopolitical tensions and continued foreign investor selling. Foreign institutional investors sold 53.53 billion rupees ($558 million) of Indian shares on Monday, taking September net sales to $2.17 billion after two consecutive months of net buying. Selling pressure was seen across most sectors, particularly financials, tech companies and autos. Titan (-2.7%) led losses among stocks, followed by HCL Tech (-2.3%), TCS (-1.7%), UltraTech Cement (-1.6%), Hindustan Unilever (-1.5%) and Tech Mahindra (1.5%). Bajaj Finace (-1.2%), Reliance (-1.2%), Maruti (-1.2%) and ICICI Bank (-0.7%) also declined. On the opposite side, Adani Ports emerged as the top performer, rising 4.4%, followed by Sun Pharma (1.1%), Tata Steel (1.1%) and Kotak Mahindra Bank (1%).
+
+---
+
+### 2026-09-29 18:57:04  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
+
+GlaxoSmithKline Stock Price Hits 4-week High — GlaxoSmithKline shares increased to 1916.00 GBp, the highest since August 2026. Over the past 4 weeks, GlaxoSmithKline gained 2.33%, and in the last 12 months, it increased 21.63%.
+
+---
+
+### 2026-09-29 18:39:04  #Trading Economics #Economy #Latvia #Retail Sales YoY #Importance 1
+
+Latvia Retail Sales Growth Slows — Retail sales in Latvia rose 3.5% year-on-year in August 2026, slowing from a downwardly revised 6.8% increase in July and marking the weakest pace since April. Sales growth eased for food products (2.3% vs 2.6%), non-food products excluding automotive fuel (3.9% vs 9.6%), and automotive fuel (4.3% vs 8.2%). Within the non-food segment, sales slowed for information and communication equipment (6.7% vs 10.4%), hardware, construction materials and sanitary equipment (3.1% vs 17.3%), pharmaceutical and medical goods (8.1% vs 8.6%), and electrical household appliances (0.7% vs 6.2%), while sales of clothing, footwear and leather goods were flat (0.0% vs 10.1%) and goods in non-specialised stores declined (-1.5% vs 10.2%). In contrast, sales accelerated via mail order or the Internet (15.3% vs 14.8%) and for cosmetic and toilet articles (3.6% vs 2.9%), while sales via stalls and markets fell 9.3%. On a monthly basis, sales fell 1.4%, reversing a downwardly revised 2.2% increase in July.
+
+---
+
+### 2026-09-29 18:32:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Copper Prices Below Record Levels — Copper futures fell to around $6.5 per pound, extending their retreat from record highs of $6.8 per pound early in the month, as softening economic data from top consumer China weighed on the demand outlook. Industrial profits in China increased 15.7% in the first eight months from a year earlier, slowing from a 17.6% rise during January-July. Meanwhile, supply concerns are reemerging after workers at Antofagasta’s Centinela site in Chile rejected the company’s final wage offer, paving the way for a strike. Last week, Operations at BHP’s Escondida copper mine in Chile, the world’s largest, were suspended after an accident killed a worker but operations are being resumed progressively. Copper prices are on track for a nearly 6% rise for Q3 with physical markets showing signs of tightness, and vast amounts of refined material stockpiled in US warehouses on expectations that the Trump administration will introduce a tariff on imports.
+
+---
+
+### 2026-09-29 18:30:01  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+The SENSEX Index Closes 0.33% Lower — The SENSEX Index decreased 243 points or 0.33 percent on Tuesday to close at 72529 points. The decline was led by Titan Company (-3.00%), HCL Tech (-1.93%) and Indusind Bank (-1.70%). On the upside, the strongest performers were Adani Ports (1.40%), Kotak Mahindra Bank (1.33%) and NTPC (1.21%).
+
+---
+
+### 2026-09-29 18:26:49  #Trading Economics #Economy #Swaziland #Interest Rate #Importance 0
+
+Eswatini Central Bank Hikes Rates for First Time in a Year — The Central Bank of Eswatini (CBE) raised its discount rate by 25 basis points to 7.0% at its September 2026 meeting, as widely expected. The increase marked the first rate hike in more than a year, amid heightened inflation risks stemming from elevated energy prices linked to tensions in the Middle East. CBE Governor Phil Mnisi said the decision reflected global, regional and domestic economic developments, while remaining consistent with the Bank’s mandate to safeguard price and financial stability. The CBE also said commercial banks are expected to raise their prime lending rate on loans to individuals and businesses to 10.50% until the next monetary policy meeting.
+
+---
+
+### 2026-09-29 18:26:03  #Trading Economics #Economy #Lesotho #Interest Rate #Importance 0
+
+Lesotho Central Bank Rises Rates to 7.0% — The Central Bank of Lesotho (CBL) raised its discount rate by 25 basis points to 7.0% at its September 2026 meeting, as widely expected. It was the second rate hike this year, amid heightened inflation risks from elevated energy prices linked to tensions in the Middle East. CBL Governor Emmanuel Maluke Letete cited global and domestic developments, noting increased uncertainty, oil prices above US$100 per barrel and disruptions to shipping through the Strait of Hormuz. Inflation is projected to rise to 4.7% in 2027, mainly due to higher food prices, while real GDP growth is expected to remain modest in 2026 before gradually strengthening over 2027–2028.
+
+---
+
+### 2026-09-29 18:12:10  #Trading Economics #Economy #France #Unemployed Persons #Importance 1
+
+French Unemployment Falls Most Since April 2025 — France’s registered unemployment declined by 61,300 to 3,081.7 thousand in August 2026, marking the largest decline since April 2025, following a 21,500 increase in July. Unemployment benefit claims declined across all age groups, with the sharpest decrease among those aged 25 to 49, at 38,200, followed by those aged over 50, at 13,900. Claims among those aged under 25 declined 9,200. Meanwhile, unemployment among women fell by 32,000, while claims among men declined by 29,300.
+
+---
+
+### 2026-09-29 18:09:11  #Trading Economics #Markets #Commodity #Importance 1
+
+European Natural Gas Prices Hit 1-Month Low — European natural gas prices fell below €70 per megawatt-hour, the lowest in a month, as weaker Chinese demand eased pressure on a tight global market. China’s LNG imports are expected to decline for a second consecutive month, with September deliveries forecast at about 5.3 million tons, roughly 8% below a year earlier, as high prices linked to the Middle East conflict discourage spot purchases. Meanwhile, Europe faces increasing pressure to rebuild unusually low gas inventories before winter, particularly as around a fifth of global LNG normally transits the Strait of Hormuz. EU storage facilities are about 71% full, well below the five-year seasonal average of 87%, while Germany’s sites are just above 57%. The EU has urged countries to conserve energy and continue filling storage. QatarEnergy extended its force majeure on LNG supplies to Italy’s Edison until December, while Pakistan’s supply arrangements have been extended into November amid shipping difficulties through Hormuz.
+
+---
+
+### 2026-09-29 18:05:31  #MKT News
+
+Reserve Bank of India Governor Das said despite global uncertainty and geopolitical tensions, India’s economy remains stable.
+
+---
+
+### 2026-09-29 18:05:14  #國際
+
+印度總理辦公室官員表示，儘管外部面臨全球不確定性和地緣政治緊張局勢，印度經濟仍保持穩定。
+
+---
+
+### 2026-09-29 18:05:08  #宏觀 #央行
+
+【財政部、中國人民銀行、金融監管總局有關負責人就實施居民購房貸款貼息政策答記者問】請問政策在具體實施方面有哪些安排？ 
+
+貼息是一項重要的財政金融協同政策工具。近年來，我們指導地方和金融機構持續探索最佳化，健全橫向協作、縱向貫通的工作機制，不斷提高政策操作便利性。此次組織實施居民購房貸款貼息政策，重點把握以下方面： 
+
+第一，經辦銀行全覆蓋，方便貸款“就近申”。考慮到商業性個人住房貸款業務點多面廣，為便於廣大居民家庭就近貸、就近享，開展商業性個人住房貸款業務的全部銀行，都可以按規定經辦居民購房貸款貼息業務。 
+
+第二，貼息優惠自動達，讓老百姓“省心享”。購房人按照正常信貸流程在銀行辦理貸款，只需在簽訂貸款合同時，同步授權銀行代為辦理貼息。銀行自動識別符合條件的借款人，在按月收息時，自動計算並扣減對應的貼息金額。借款人正常還貸，貼息優惠會直接體現在每期還款金額裡。銀行將透過手機簡訊、APP訊息等方式，及時告知貼息享受情況，讓借款人“心裡有數”。 
+
+第三，管理鏈條更精簡，讓流程“高效辦”。老百姓要省心，組織實施就得順暢。對於首套住房認定、房屋面積、房屋總價、貸款金額這些要素，銀行在審批放貸時已經掌握。為簡化操作流程，本次政策明確，經辦銀行負責稽核貼息資格，有關部門適時組織聯合抽查。財政部門牽頭組織實施，加強與經辦銀行協同配合，做好貼息資金保障；中國人民銀行、金融監管總局按職責分工做好房地產信貸管理，強化貨幣政策與財政政策協同聯動，指導督促經辦銀行做好貸款發放和貼息工作。 
+
+下一步，我們將密切跟蹤政策實施進展，力求操作最簡便、群眾少跑腿，推動政策效應充分釋放，群眾儘早受益。
+
+---
+
+### 2026-09-29 18:05:08  #MKT News
+
+Reserve Bank of India Governor Das said India's economy continues to perform strongly, supported by robust domestic demand, sustained industrial and services activity, and an improving labour market.
+
+---
+
+### 2026-09-29 18:04:54  #公司
+
+【密爾克衛：為8家控股/全資子公司提供合計3.41億元擔保】密爾克衛公告稱，公司分別與交通銀行上海閔行支行、農行上海自貿試驗區新片區分行簽訂擔保合同，為集裝罐服務、匯德泓貿易等7家子公司各提供1100萬元擔保，為化工物流提供2.64億元擔保，合計擔保金額3.41億元，均為連帶責任保證，且均在前期預計擔保額度內，無反擔保。本次擔保後，公司及子公司對外擔保餘額為63.42億元，佔最近一期經審計淨資產的132.98%，無逾期擔保。
+
+---
+
+### 2026-09-29 18:04:46  #央行 #國際
+
+印度央行行長達斯表示：印度經濟在強勁內需、持續活躍的工業與服務業活動，以及不斷改善的勞動力市場狀況支撐下，繼續展現出韌性。
+
+---
+
+### 2026-09-29 18:04:42  #宏觀 #央行
+
+【財政部、中國人民銀行、金融監管總局有關負責人就實施居民購房貸款貼息政策答記者問】請問政策的主要內容是什麼？ 
+
+中央財政實施居民購房貸款貼息政策，是住房領域保障和改善民生方式的一種探索，透過對房屋總價、房屋面積、貸款類別等作出界定，儘可能精準惠及目標群體，幫助準備買最普通房子的收入相對不高家庭“降點月供”。 
+
+第一，聚焦首套剛需，重點支援普通家庭新購中小套型、較低價位的住房。主要是將有限的財政資金用於普惠更多的剛需群體，對同時符合以下條件的居民家庭給予貼息支援：一是使用新發放的商業性個人住房貸款購買首套住房，不包括存量貸款置換。其中，“首套住房”的認定按照現行政策執行，既包括新房也包括二手房。二是所購住房建築面積不超過120平方米。三是所購住房價格不超過150萬元。設定上述條件，主要是聚焦支援剛需群體的基本購房需求，考慮到不同城市居民收入、住房面積、價格水平等情況各異，中央層面統籌惠民生、保基本、廣覆蓋、促公平和財力可能，在全國範圍力求平衡。對於使用貸款購買保障性住房和使用公積金貸款購房的相關群體，國家已有相關政策支援，此次不疊加享受政策支援。 
+
+第二，貼息1個百分點，減輕居民貸款購房利息成本。可享受貼息的貸款規模最多100萬元，財政部門給予年化1個百分點的貼息，按照目前首套住房商業性個人住房貸款利率水平，相當於優惠了利率的三分之一，貼息期限最長5年。例如，對於一筆長期限的100萬元商業性個人住房貸款，考慮到大多數房貸按月付息和還款，貸款餘額逐月減少，貼息政策最多可幫助借款人累計減少付息近5萬元。居民家庭享受的具體貼息金額，視貸款規模、期限、還款方式等情況而異。 
+
+第三，應貼盡貼，財政貼息資金足額保障。政策起始日為今年10月1日，政策實施期暫定1年。期間，符合條件的居民家庭均可享受財政貼息支援，執行中資金總規模不設上限，預算已做充分安排，據實結算。
+
+---
+
+### 2026-09-29 18:04:41  #其他
+
+諾和諾德表示，2毫克劑量的Ozempic與降低心血管事件風險相關。
+
+---
+
+### 2026-09-29 18:03:52  #宏觀 #公司
+
+【財政部：對與客戶合謀進行違規操作的銀行，嚴格追究責任，情節嚴重的，不得繼續經辦相關貼息業務】財政部公告，實施居民購房貸款貼息政策。貼息資金撥付採取“預撥＋結算”方式。加強聯合監管。財政部會同金融監管總局適時組織財政部各地監管局、金融監管總局各監管局開展聯合抽查，發現透過違規操作套取騙取貼息的，收回貼息資金。對與客戶合謀進行違規操作的銀行，嚴格追究責任，情節嚴重的，不得繼續經辦相關貼息業務。
+
+---
+
+### 2026-09-29 18:03:24  #宏觀 #公司
+
+【財政部：經辦銀行結合網籤備案及房屋買賣合同等有關情況，做好貼息資格稽核工作】財政部公告，實施居民購房貸款貼息政策。貼息資金撥付採取“預撥＋結算”方式。壓實主體責任。經辦銀行結合網籤備案及房屋買賣合同等有關情況，做好貼息資格稽核工作；嚴格履行審貸職責，做好貸款資金受託支付、分類統計、資料監測等方面工作；建立報表統計制度，按月向財政部和省級財政部門報送貸款發放、貼息資金使用情況，抄送中國人民銀行、金融監管總局；簽訂貸款合同時，以適當方式告知貼息比例、貼息期限、貼息額度等要素，確保借款人知曉政策內容；按月收息時，自動扣除對應貼息金額，實現“免申即享”，並透過手機簡訊、APP訊息等方式告知借款人國家政策享受情況。
 
 ---
 
@@ -12628,131 +12760,5 @@ US 10 Year Treasury Note Yield Rises Above 5.2% — The yield on the US 10-year 
 ### 2026-09-28 21:42:49  #央行 #歐洲央行
 
 【歐洲央行行長拉加德：尚無跡象顯示更高通脹正在變得根深蒂固】歐洲央行行長拉加德表示，尚無跡象顯示更高通脹正在變得根深蒂固；長期收益率上升勢必會減緩經濟增長；歐洲央行採取適度應對措施是恰當的。
-
----
-
-### 2026-09-28 21:42:30  #Trading Economics #Markets #Euro Area #Currency #Importance 2
-
-Euro Falls to Three-Month Low on Lagarde's Remarks — The euro weakened toward $1.135, its lowest level since June 26, amid a stronger dollar as investors weighed comments from ECB President Christine Lagarde. Lagarde said the inflation outlook for 2027 and 2028 is now higher than policymakers expected a few months ago, mainly due to higher energy prices, but noted there is no evidence yet of energy costs feeding into higher wages. She added that while the shock is too significant to ignore, a measured policy response remains appropriate to keep inflation under control. Money markets are pricing in roughly 100 basis points of ECB rate hikes by the end of 2027. Investors await key eurozone inflation data later this week for further clues on the ECB’s policy outlook. Meanwhile, the DXY gained as rising US Treasury yields and a hawkish Fed strengthened the case for US rates to remain higher for longer. Also, lack of progress in negotiations to reopen the Strait of Hormuz pushed oil prices higher and boosted safe-haven demand for the dollar.
-
----
-
-### 2026-09-28 21:40:15  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.61% Lower — The Dow Jones Index is falling 319 points. Losses were driven by Salesforce (-4.93%), Boeing (-4.49%) and Microsoft (-2.33%). Biggest rises came from Nvidia (3.16%), Chevron (1.01%) and J&J (0.52%).
-
----
-
-### 2026-09-28 21:37:27  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Lower — US stocks kicked off the week lower, with the S&P 500 down 0.9%, the Nasdaq falling 1% and the Dow Jones losing around 400 points, amid another rise in oil prices as hopes for a deal between the US and Iran faded. Meanwhile, Treasury yields continued to climb to multi-year highs amid expectations that higher energy prices could put further pressure on inflation and increase the likelihood of additional rate hikes. Key economic data due this week, including the PCE and the jobs report, will provide further insight into the health of the US economy. Communication services, consumer discretionary and materials were the worst-performing sectors, while energy traded in the green. Alphabet (-1%), Microsoft (-1.4%), Amazon (-1.1%), Meta (-4.1%), Tesla (-3.1%) and Micron (-3.8%) were lower. In contrast, Nvidia outperformed and gained 2.3% after the company authorized an additional $150 billion to its share buyback program, taking its total to $235 billion, amid record spending on AI.
-
----
-
-### 2026-09-28 21:36:28  #央行 #歐洲央行
-
-【歐洲央行行長拉加德：歐洲經濟韌性將在第三季度延續】歐洲央行行長拉加德表示，歐洲經濟韌性將在第三季度延續；工資並未對能源衝擊做出實質性反應；前景充滿高度不確定性；仍認為通脹存在上行風險，經濟增長存在下行風險。
-
----
-
-### 2026-09-28 21:36:23  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Netflix Stock Price Hits 9-week Low — Netflix shares decreased to 70.10 USD, the lowest since July 2026. Over the past 4 weeks, Netflix lost 13.87%, and in the last 12 months, it decreased 42.05%.
-
----
-
-### 2026-09-28 21:34:02  #Trading Economics #Markets #Euro Area #currency #Importance 1
-
-Euro Hits 8-week Low — EURUSD decreased to 1.14, the lowest since July 2026. Over the past 4 weeks, Euro US Dollar lost 2.19%, and in the last 12 months, it decreased 3.13%.
-
----
-
-### 2026-09-28 21:33:53  #Trading Economics #Markets #United States #stocks #Importance 1
-
-PepsiCo Stock Price Hits 6-year Low — PepsiCo shares decreased to 126.85 USD, the lowest since June 2020. Over the past 4 weeks, PepsiCo lost 9.43%, and in the last 12 months, it decreased 9.32%.
-
----
-
-### 2026-09-28 21:33:33  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Salesforce Stock Price Hits 4-week Low — Salesforce shares decreased to 224.10 USD, the lowest since August 2026. Over the past 4 weeks, Salesforce Inc gained 9.56%, and in the last 12 months, it decreased 7.46%.
-
----
-
-### 2026-09-28 21:32:34  #Trading Economics #Markets #commodity #Importance 0
-
-Palladium is down by 5.02% — Palladium decreased 5.02% to 1212 USD/t.oz
-
----
-
-### 2026-09-28 21:30:44  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Boeing Stock Price Hits 25-week Low — Boeing shares decreased to 192.35 USD, the lowest since March 2026. Over the past 4 weeks, Boeing lost 9.29%, and in the last 12 months, it decreased 13.05%.
-
----
-
-### 2026-09-28 21:30:23  #Trading Economics #Markets #commodity #Importance 0
-
-Gold Hits 7-week Low — Gold decreased to 4141.00 USD/t.oz, the lowest since August 2026. Over the past 4 weeks, Gold lost 6.7%, and in the last 12 months, it increased 8.09%.
-
----
-
-### 2026-09-28 21:17:33  #Trading Economics #Markets #Spain #stocks #Importance 0
-
-Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 25.50 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 1.84%, and in the last 12 months, it increased 56.96%.
-
----
-
-### 2026-09-28 21:09:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Down to Near 1-Month Low — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was down for a second session on Monday, dropping about 4.6% to its lowest since September 1 at 3,268 points. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, slipped by 7.5% to 5,351 points, likely influenced by lower iron ore prices due to ample global supply. At the same time, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell by 0.2% to 2,402 points, partly due to lower wheat prices. Amogn smaller vessels, the supramax index rose by 0.2% to 1.790 points.
-
----
-
-### 2026-09-28 21:00:40  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Edge Lower as Oil Rises — Futures tracking Canadian equities edged lower on Monday as rising oil prices revived inflation concerns. Oil prices resumed their rally after US President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, renewing concerns that energy-driven inflation shocks could keep interest rates higher for longer. Yields moved higher, putting pressure on credit-sensitive stocks. Meanwhile falling gold prices pressured mining shares. On the data front, Canadian GDP data due Tuesday could offer cues on economic momentum and the future policy path of the Bank of Canada.
-
----
-
-### 2026-09-28 20:51:54  #Trading Economics #Markets #Commodity #commodity #Importance 0
-
-Rapeseed Hits 4-week Low — Rapeseed decreased to 541.25 EUR/T, the lowest since August 2026. Over the past 4 weeks, Rapeseed lost 0.44%, and in the last 12 months, it increased 16.47%.
-
----
-
-### 2026-09-28 20:45:31  #Trading Economics #Economy #Mexico #Balance of Trade #Importance 2
-
-Mexico Trade Surplus Falls Short of Forecast — Mexico’s trade balance posted a surplus of $605 million in August 2026, widening from $209 million a year earlier but falling well short of forecasts of $1.4 billion. Total merchandise exports reached $78.01 billion, up 40.4% year over year. Manufactured goods exports rose 42.6%, led by electrical and electronic equipment and appliances (122.3%), mining and metallurgical products (50.4%), plastic and rubber products (10.6%), food, beverages and tobacco (10%), and specialized machinery and equipment for various industries (7.2%). Agricultural and fishing exports fell 1.6%, while oil exports declined 2.8%. Merchandise imports totaled $77.40 billion, with consumer goods imports up 8.9%, intermediate goods purchases surging 41.9%, and capital goods imports rising 6.9%. In the first eight months of 2026, the trade balance recorded a $9.86 billion surplus.
-
----
-
-### 2026-09-28 20:38:31  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Slumps as Inflation Fears Boost Rate-Hike Bets — Silver fell more than 4% toward $61 an ounce on Monday, its lowest level since August 7, as surging oil prices intensified inflation concerns and bolstered expectations for higher-for-longer interest rates. A stronger US dollar and US Treasury yields near 19-year highs also pressured the non-yielding metal. Brent crude surged to $107 a barrel after President Donald Trump rejected an Iranian peace proposal to resolve the conflict and reopen the Strait of Hormuz, prompting markets to raise bets on further Federal Reserve rate hikes. Markets now see a more than 70% chance of a second hike as soon as October, according to CME’s FedWatch Tool. Cleveland Fed President Beth Hammack said Friday that persistently high inflation risks conditioning the public to accept elevated prices as the norm, adding that the central bank cannot allow that to happen. Focus now turns to this week’s US economic data, including Wednesday’s PCE inflation report and Friday’s nonfarm payrolls figures.
-
----
-
-### 2026-09-28 20:35:46  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Falls as Higher Oil Prices Lift Rate-Hike Bets — Gold fell to $4,150 an ounce on Monday, touching its lowest level since August 5, as surging oil prices fueled inflation concerns and strengthened expectations for higher-for-longer interest rates. A firm US dollar and US Treasury yields near 19-year highs also weighed on the non-yielding metal. Brent crude surged to $107 a barrel after President Donald Trump rejected an Iranian peace proposal aimed at resolving the conflict and reopening the Strait of Hormuz, prompting markets to increase bets on further Federal Reserve rate hikes. Markets now see a more than 70% chance of a second rate hike as soon as October, according to CME’s FedWatch Tool. Cleveland Fed President Beth Hammack said Friday that persistently high inflation risks conditioning the public to accept elevated prices as the norm, adding that the central bank cannot allow that to happen. Focus now turns to this week’s US data, including Wednesday’s PCE inflation report and Friday’s nonfarm payrolls figures.
-
----
-
-### 2026-09-28 20:14:17  #Trading Economics #Markets #United Kingdom #Currency #Importance 0
-
-Sterling Gains as Markets Price More BoE Rate Hikes — Sterling edged up to $1.326 as investors priced in a more hawkish Bank of England stance amid renewed inflation pressures, while oil prices rose after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz and end the Middle East conflict. BoE Deputy Governor Dave Ramsden said Monday he would be prepared to raise rates if “upside pressures” on inflation persist, echoing recent warnings from Governor Andrew Bailey and Deputy Governors Sarah Breeden and Clare Lombardelli that higher energy prices could fuel a wage-price spiral. The MPC voted 6-3 earlier this month to hold rates at 3.75%, while warning inflation could peak around 4%. Markets now price in an over 80% chance of a 25bp hike in November, with roughly four hikes priced in by mid-next year. Meanwhile, Chancellor John Healey stressed the need for fiscal discipline ahead of next month’s budget, highlighting the rising cost of servicing the UK’s elevated debt burden and its impact on public services.
-
----
-
-### 2026-09-28 20:11:49  #Trading Economics #Markets #United Kingdom #Government Bond 10Y #Importance 0
-
-Gilt Yields Surge as Inflation Risks Raise Rate-Hike Expectations — UK 10-year gilt yields rose to 5.4%, their highest level in nearly two decades, as investors priced in a more hawkish Bank of England policy stance amid renewed inflation pressures. Oil prices climbed after President Donald Trump rejected an Iranian proposal to reopen the Strait of Hormuz and end the conflict in the Middle East. BoE Deputy Governor Dave Ramsden said Monday he would support rate hikes if “upside pressures” on inflation persist, echoing recent warnings from Governor Andrew Bailey and other policymakers that higher energy prices could fuel a wage-price spiral. The MPC recently voted to hold rates at 3.75%, while warning inflation could peak around 4%. Markets are now pricing in an 85% probability of a 25bp rate hike in November, with roughly four increases priced in by the middle of next year. Meanwhile, Chancellor John Healey stressed the need for fiscal discipline in a major speech ahead of next month’s budget, citing the rising cost of servicing the UK’s debt.
-
----
-
-### 2026-09-28 19:54:55  #Trading Economics #Economy #Brazil #Foreign Direct Investment #Importance 1
-
-Brazil FDI Inflows Ease in August — Brazil recorded foreign direct investment (FDI) inflows of $7.4 billion in August 2026, down from $7.7 billion a year earlier. Equity inflows totaled $9.3 billion, including $3.6 billion in non-reinvested equity and $5.7 billion in reinvested earnings, while intercompany lending recorded net outflows of $1.9 billion. Portfolio investment recorded net outflows of $5.2 billion in August 2026, as equity and fund investments posted outflows of $6.5 billion, partly offset by inflows of $1.3 billion in debt securities. Over the 12 months to August, FDI totaled $86.6 billion, equivalent to 3.39% of GDP.
 
 ---

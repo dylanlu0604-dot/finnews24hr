@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-10-04 01:55:20_
-_本檔包含 2651 則快訊，約 436426 字_
+_更新時間：2026-10-04 04:55:51_
+_本檔包含 2633 則快訊，約 434995 字_
+
+---
+
+### 2026-10-04 04:46:19  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact mixed #EURUSD #US10Y
+
+【Fed and ECB minutes due next week, likely to highlight inflation concerns】The Fed and ECB will publish minutes from last month’s meetings next week. Both raised rates in September citing rising inflation pressure; the Fed minutes could show many policymakers were deeply worried about price trends and expected at least one more hike before year-end. Weaker-than-expected US nonfarm payrolls, soft wage growth, a government PCE revision showing slightly lower inflation YTD, and recent turmoil in French financial markets have collectively reduced near-term urgency for further tightening and raised the bar for an October hike. Minutes may recall officials’ hawkish September stance, but subsequent data strengthen arguments for patience; services inflation could keep a December hike on the table, though the Fed will likely need clearer evidence of renewed price pressure before moving again.
+
+---
+
+### 2026-10-04 04:33:51  #國際
+
+【盧拉競選團隊請求選舉法院調查美使領館暫停服務一事】據巴西媒體3日報道，巴西總統盧拉的競選團隊已請求巴西最高選舉法院，將美國駐巴西使領館2日暫停線下領事服務一事，納入正在進行的外部勢力干預巴西選舉相關調查。巴西媒體援引盧拉競選團隊的請求書指出，此事是美國政府幹預巴西選舉的又一例證。美國政府在選舉關鍵時期發起如此規模的“異常外交舉動”，給巴西選舉環境帶來不穩定因素。（新華社）
+
+---
+
+### 2026-10-04 04:29:36  #MKT News
+
+【India summons Pakistan acting charge d'affaires over India-Pakistan border incident】India's foreign ministry said on the 3rd it summoned Pakistan's acting charge d'affaires in New Delhi to strongly protest what it called Pakistani facilitation of "illegal cross-border infiltration." India said three people crossed the boundary into Indian territory, ignored repeated warnings and moved toward the border fence; because they constituted an "imminent security threat" Indian border security forces took action. Pakistan on the same day summoned India's acting charge d'affaires in Islamabad to strongly protest that Indian border security personnel shot dead two Pakistani civilians at the India-Pakistan border on the 2nd.
+
+---
+
+### 2026-10-04 04:29:35  #國際
+
+【印度就印巴邊界事件召見巴基斯坦臨時代辦】印度外交部3日發表宣告稱，印方當天召見巴基斯坦駐印度高階專員公署臨時代辦，就印方所指巴方“為非法跨境滲透提供便利”的行為提出強烈抗議。宣告稱，當時有三人越過邊界“滲入”印度境內，印邊境安全部隊多次警告要求其返回，但對方繼續向邊境圍欄方向移動。印方稱，由於對方構成“迫在眉睫的安全威脅”，印邊境安全部隊遂採取行動。巴方當天召見印度駐巴基斯坦高階專員公署臨時代辦，就2日印度邊境安全部隊人員在巴印邊境打死兩名巴基斯坦平民一事，向印方提出強烈抗議。（新華社）
+
+---
+
+### 2026-10-04 04:24:00  #國際
+
+美國地質調查局：俄羅斯維柳欽斯克東南偏南 182 公里處發生 5.1 級地震。
+
+---
+
+### 2026-10-04 04:00:25  #國際
+
+白宮附近兩家達美樂門店均顯示客流量極高。美國東部時間下午 3 點 54 分資料。五角大樓周邊披薩店客流量低於均值，弗雷迪海灘酒吧客流量同樣低於均值。
+
+---
+
+### 2026-10-04 03:56:29  #國際
+
+美國銀行存款從前一週的 19.571 萬億美元增至 19.637 萬億美元。
+
+---
+
+### 2026-10-04 03:47:45  #MKT News
+
+NASA and SpaceX have set Crew-12's earliest departure from the International Space Station for Oct. 7.
+
+---
+
+### 2026-10-04 03:34:51  #國際
+
+美國國家航空航天局與SpaceX確定，Crew-12 乘組最早將於 10 月 7 日撤離空間站。
+
+---
+
+### 2026-10-04 03:07:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Houthi forces say they struck ARAMCO targets in Riyadh】Houthi forces said on the night of the 3rd (local time) that, in response to Saudi airstrikes on Sanaa and other areas of Yemen, they used multiple ballistic missiles and drones to strike ARAMCO targets in Riyadh. The group said the operation successfully achieved its objectives, hit targets and caused fires, and added that Saudi forces carried out 60 air and missile strikes in the past 24 hours and 1,410 strikes since the situation escalated on Sept. 3.
+
+---
+
+### 2026-10-04 03:07:43  #公司
+
+【胡塞武裝稱對沙特阿美石油公司目標實施打擊】葉門胡塞武裝當地時間3日晚發表宣告說，為回應沙特方面對薩那及葉門其他地區的空襲，胡塞武裝當天使用多枚彈道導彈和無人機，對位於沙特首都利雅得的阿美石油公司目標實施打擊。宣告稱，此次行動“成功實現目標”，“命中目標並引發火災”。宣告還說，過去24小時內，沙特方面對葉門發動60次空襲和導彈襲擊，自9月3日局勢升級以來，沙特一共發動了1410次空襲和導彈襲擊。（央視新聞）
+
+---
+
+### 2026-10-04 03:02:10  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iraq said it had loaded 2 million barrels of crude onto an ultra-large crude carrier (ULCC) outside the Strait of Hormuz to give state oil marketer SOMO greater sales flexibility. Baghdad said it is seeking to buy specialist crude tankers to expand its fleet.
+
+---
+
+### 2026-10-04 03:00:15  #其他
+
+伊拉克：此舉旨在讓國家石油銷售機構 SOMO 在原油銷售方面擁有更大靈活性。
+
+---
+
+### 2026-10-04 02:57:25  #公司
+
+伊拉克油輪公司在宣告中稱，本次運輸是數十年來首次此類行動，正計劃採購專用原油油輪以擴充船隊。
+
+---
+
+### 2026-10-04 02:56:51  #其他
+
+伊拉克：已透過超大型油輪運送 200 萬桶原油，運抵霍爾木茲海峽以外海域。
+
+---
+
+### 2026-10-04 02:56:19  #MKT News
+
+Yemen's Houthi group said it struck ARAMCO facilities in Riyadh with ballistic missiles and drones. Saudi authorities have not yet confirmed the report.
+
+---
+
+### 2026-10-04 02:55:13  #國際
+
+美國國防部長赫格塞思：伊朗想在霍爾木茲海峽這類地方耍手段，但海峽不在他們掌控之中，掌控者是我們。他們實際上一無所獲。我們的封鎖堅不可摧，而我們每晚在海峽的通行量幾乎恢復至戰前水平。
+
+---
+
+### 2026-10-04 02:54:00  #其他 #焦點 #國際
+
+沙特方面暫未證實胡塞武裝關於襲擊利雅得阿美石油設施的宣告。
+
+---
+
+### 2026-10-04 02:51:31  #其他 #焦點 #國際
+
+葉門胡塞武裝：使用彈道導彈與無人機襲擊沙特利雅得的阿美石油設施。
+
+---
+
+### 2026-10-04 02:45:16  #國際
+
+烏克蘭首都響起警報，預警無人機襲擊。
+
+---
+
+### 2026-10-04 02:44:44  #其他
+
+馬斯克：星艦部署星鏈 V3 衛星。
+
+---
+
+### 2026-10-04 02:33:11  #MKT News
+
+Trump said prominent figures at a recent gathering told him they particularly dislike returning home after a forced time change because it is pitch dark; one attendee said, "I hate walking home in the dark." He added walking home at night is especially dangerous in crime-plagued Democratic-run states.
+
+---
+
+### 2026-10-04 02:25:40  #其他
+
+伊拉克總理：如今我們是一個自主決策、保衛本國領土與領空的國家，所有武裝力量均接受武裝部隊總司令的指揮。
+
+---
+
+### 2026-10-04 02:25:09  #公司
+
+市場訊息：愛彼迎執行長稱，公司不太可能允許 Muse 這類人工智慧代理直接完成預訂。
+
+---
+
+### 2026-10-04 02:21:39  #MKT News
+
+【Iran's Qeshm Island air-defence system activated twice】Iranian sources said Qeshm Island's air-defence system activated twice on the evening of the 3rd, with sounds heard across the island. Residents reported at least one aerial vehicle was hit over Qeshm during the activations, and a spent air-defence missile booster was later found on the island.
+
+---
+
+### 2026-10-04 02:18:40  #國際
+
+【伊朗格什姆島防空系統啟動】當地時間3日，伊朗方面訊息稱，當天傍晚伊朗防空系統在格什姆島兩次啟動，島上多地均能聽到相關聲響。當地居民稱，在防空系統啟動期間，至少“有一架飛行器在格什姆島上空被擊中”。此外，當地居民還在島上某處發現了伊朗防空導彈的助推器。（央視新聞）
+
+---
+
+### 2026-10-04 02:13:51  #央行 #市場 #國際
+
+【伊朗里亞爾續創新低，據稱央行已出手干預匯市】伊朗里亞爾週六繼續下跌。此前，伊朗央行宣佈將注入高達20億美元的資金以支撐里亞爾，以應對美國製裁和海上封鎖帶來的經濟困境。根據自由市場追蹤網站bon-bast的資料，美元賣出價約為268.8萬里亞爾，高於週五的263.2萬里亞爾；alanchand則報道為1美元兌269.5萬里亞爾。伊朗國家電視臺稱，國有銀行已開始拋售最高20億美元以支撐本幣。里亞爾在過去一年中已貶值超過一半。許多尋求儲蓄避風港的伊朗人一直在購買美元、其他硬通貨或黃金。伊朗央行行長的外匯事務助理邁赫迪·達拉比將里亞爾下跌部分歸咎於美國官員對伊朗經濟崩潰的錯誤預測。達拉比表示：“有人暗示伊朗經濟即將崩潰……敵人正利用這一點影響我們貨幣的匯率。”他補充稱，里亞爾當前的下跌是暫時的。
+
+---
+
+### 2026-10-04 01:58:30  #市場 #焦點
+
+比特幣升破85000美元，日內漲0.58%。
 
 ---
 
@@ -15728,281 +15896,5 @@ US Stocks Reverse Gains — US stocks moved into negative territory to start Q4,
 ### 2026-10-01 22:44:26  #其他
 
 【深圳市分割槽暴雨黃色預警訊號升級為橙色】過去3小時，坪山區（坪山、馬巒、石井、龍田街道）已出現強降雨，預計未來1-2小時還將出現30毫米左右降水，深圳市氣象臺2026年10月01日22時31分將上述區域暴雨預警訊號升級為橙色，該區域進入暴雨防禦狀態，請遠離低窪易澇等危險區域，山洪風險較大，注意防禦暴雨可能引發的區域性內澇、山洪、滑坡、泥石流等災害。（深圳天氣）
-
----
-
-### 2026-10-01 22:43:11  #其他
-
-【國慶假期上海推出2800餘項文旅活動，景區商圈迎來大客流】國慶假期首日，上海各旅遊景區和商圈迎來大客流。10月1日，記者從上海市文化和旅遊局獲悉，當日上海市文旅市場總體執行平穩，未發生重大安全事件。假日期間，上海市、區兩級文旅部門聯動重點文旅企業、線上平臺，組織推出2800餘項特色文旅活動，助力假日消費擴容增長。旅遊平臺資料則顯示，拼假帶動多段遊需求，假期首日有人已開始第二段行程。（澎湃新聞）
-
----
-
-### 2026-10-01 22:40:20  #市場
-
-德國國債延續漲勢；德國2年期國債收益率下跌10個基點至3.11%。
-
----
-
-### 2026-10-01 22:39:31  #Trading Economics #Markets #Canada #Government Bond 10Y #Importance 1
-
-Canada 10-Year Yield Extends Three-Year High — Canada’s 10-year government bond yield rose above 4% in October, reaching a fresh three-year high as renewed selling in US Treasuries fueled a broader global bond selloff. The US 10-year benchmark yield climbed to its highest level since 2002, extending a months-long rise in sovereign borrowing costs. Higher oil prices have added to inflation concerns and reinforced expectations of further interest-rate hikes by central banks, keeping government bonds under pressure worldwide. In Canada, the advance estimate showed real GDP rose 0.2% in August, with gains in mining and quarrying and retail trade partly offset by a decline in oil and gas extraction. GDP was essentially unchanged in July, ending a three-month run of growth. The result was in line with expectations but highlighted a weaker start to the third quarter, reinforcing expectations for the Bank of Canada to hold rates. A US ban on various Canadian imports also took effect, further weighing on growth prospects.
-
----
-
-### 2026-10-01 22:39:08  #國際
-
-美國地質調查局訊息，印度尼西亞魯滕北偏東176公里處發生5.0級地震。
-
----
-
-### 2026-10-01 22:37:17  #其他
-
-【美團釋出國慶假期首日出行資料：小城迎“反向奔赴”】10月1日，美團資料顯示，國慶假期首日，北京環球度假區、開封萬歲山武俠城、上海迪士尼度假區、珠海長隆海洋王國、廣州長隆野生動物世界、唐山河頭老街、黃山風景區、峨眉山風景名勝區、開封清明上河園和天津泰達航母主題公園位列熱門景點Top10，沉浸式體驗正超越傳統觀光，成為年輕人假期出遊熱選。
-
----
-
-### 2026-10-01 22:36:21  #其他
-
-阿根廷3月推翻160億美元判決後，YPF投資者請求最高法院複審阿根廷的法律勝利。
-
----
-
-### 2026-10-01 22:34:55  #公司
-
-谷歌針對Chegg與彭斯克傳媒提起的與AI概述功能相關訴訟獲得駁回裁決。
-
----
-
-### 2026-10-01 22:34:49  #其他
-
-StoneX預測，巴西2026/27年度大豆產量將為1.8336億噸，此前預測值為1.8350億噸。
-
----
-
-### 2026-10-01 22:34:08  #國際
-
-【俄總統助理：普京已下達所有必要命令，確保“飛地”加里寧格勒州安全】據塔斯社、俄新社等媒體10月1日報道，俄羅斯總統助理帕特魯舍夫稱，俄總統普京已就確保該國最西端“飛地”加里寧格勒州的安全，向相關機構“下達所有必要命令”。（環球網）
-
----
-
-### 2026-10-01 22:32:35  #市場 #國際
-
-美國能源資訊署（EIA）公佈天然氣庫存增幅符合預期後，美國天然氣期貨維持跌勢，下跌1.0%。
-
----
-
-### 2026-10-01 22:31:36  #其他
-
-Sigma Lithium暫停採礦作業，等待上訴法院裁決。Sigma Lithium維持2027財年33萬噸的目標產量，將24萬噸產量指引推遲三個月。
-
----
-
-### 2026-10-01 22:31:08  #國際
-
-俄羅斯莫斯科交易所：9月成交額為220.8萬億盧布。
-
----
-
-### 2026-10-01 22:30:38  #國際
-
-美國能源情報署（EIA）稱，上週美國天然氣庫存上升1.91%。
-
----
-
-### 2026-10-01 22:30:27  #國際
-
-美國能源資訊署（EIA）資料：美國中西部天然氣庫存增加250億立方英尺；美國東部天然氣庫存增加20億立方英尺。
-
----
-
-### 2026-10-01 22:30:13  #國際
-
-美國至9月25日當週EIA天然氣庫存 640億立方英尺，預期630億立方英尺，前值530億立方英尺。
-
----
-
-### 2026-10-01 22:30:10  #宏觀
-
-【今起實施！河北參保人員省域內住院分娩政策範圍內費用100%報銷】近日，河北省醫保局聯合省財政廳、省稅務局出臺多項支援參保人員生育新舉措，將參保人員河北省域內住院分娩政策範圍內費用報銷比例提升到100%，自10月1日起實施。省醫保局有關負責人介紹，新措施主要包括擴大參保覆蓋面、增強生育費用保障、最佳化經辦管理服務等內容，會最大程度減少個人負擔。（河北釋出）
-
----
-
-### 2026-10-01 22:29:36  #市場
-
-義大利兩年期國債收益率漲幅擴大，最新上漲15個基點，報3.667%。
-
----
-
-### 2026-10-01 22:29:02  #國際
-
-玻利維亞司法部：在美國採取相關行動兩天後，玻利維亞拘捕總檢察長。
-
----
-
-### 2026-10-01 22:27:16  #市場
-
-標普500軟體與服務指數創下逾10個月新高，最新漲幅為1.8%。
-
----
-
-### 2026-10-01 22:25:36  #公司 #其他 #焦點
-
-智利方面稱，Codelco旗下RT礦場發生事故，造成一人死亡。
-
----
-
-### 2026-10-01 22:23:09  #其他
-
-【瑞銀：iPhone18Pro系列等待期表現平平予蘋果“中性”評級】此前Counterpoint Research釋出了針對iPhoneDuo的首份銷量預估，稱該機型今年可能售出600萬臺。不過，瑞銀表示，iPhone18 Pro與Pro Max的到貨等待時間為“基本持平”。瑞銀對蘋果的評級為中性，目標價296美元。
-
----
-
-### 2026-10-01 22:22:43  #市場
-
-Meta股價轉漲。
-
----
-
-### 2026-10-01 22:22:25  #其他
-
-Meta推出雷朋Meta智慧音訊眼鏡，釋出適用於AI眼鏡的Muse人工智慧代理。
-
----
-
-### 2026-10-01 22:21:30  #國際
-
-敘利亞否認關於其與真主黨舉行會晤的報道。
-
----
-
-### 2026-10-01 22:21:11  #其他
-
-Meta：未來數月將把Muse大模型整合至我們的AI眼鏡。
-
----
-
-### 2026-10-01 22:21:04  #觀點
-
-發言人表示，摩根大通交易主管埃爾南·克里斯特納將於今年年底退休。
-
----
-
-### 2026-10-01 22:20:57  #國際
-
-佩斯科夫：普京很樂意會見特朗普。
-
----
-
-### 2026-10-01 22:19:28  #Trading Economics #Economy #United States #Construction Spending #Importance 1
-
-US Construction Spending Surprises on the Upside — Construction spending in the US rose by 0.9% month-over-month to a seasonally adjusted annual rate of $2,203 billion in August 2026, following a downwardly revised 0.1% decrease in July. Analysts had expected a flat reading. Private-sector construction rose 1.1%, supported by a 1.1% increase in residential activity, amid gains in single-family projects (+0.2%) and multi-family construction (+0.2%). Spending on nonresidential structures like offices and factories grew by 1%, with solid increases in office (4.6%), religious (2.9%), transportation (1.2%) and power (0.9%) construction. Meanwhile, public spending went up by 0.2%, driven by increases in both the residential (0.3%) and nonresidential (0.2%) segments. Year-on-year, construction spending shrank by 1.7%.
-
----
-
-### 2026-10-01 22:19:06  #國際
-
-【美國製造業擴張速度略有放緩 原料價格指標升至5月以來最高】美國製造業9月擴張速度略有放緩，儘管需求強勁，工廠仍面臨成本回升、運輸延誤等問題。美國供應管理學會(ISM)週四公佈的資料顯示，製造業指數下降0.1點至54.5。該指數連續九個月高於50這一榮枯分水嶺，為2022年以來最長連續擴張期。9月報告顯示，需求依然穩健。新訂單指標回升，積壓訂單指標升至2月以來最高水平。產出繼續擴張，但增速有所放緩。面對不斷增加的訂單，企業正在增加用工。9月製造業就業人數連續第三個月增長，為2022年以來最長連續增長期。製造商同時還在應對成本上升和供應鏈瓶頸。原材料價格指標升至5月以來最高，供應商交貨時間繼續延長，不過速度有所放緩。
-
----
-
-### 2026-10-01 22:18:34  #市場
-
-鈀金期貨日內跌3%，現報1175.50美元/盎司。
-
----
-
-### 2026-10-01 22:17:59  #公司
-
-【儲存晶片短缺持續 三星電子上調大部分Galaxy S26系列手機售價】三星電子上調了Galaxy S26系列大部分智慧手機的售價。在儲存晶片持續短缺之際，這是消費科技品牌將成本轉嫁給消費者的最新例子。Galaxy S26、S26+和S26 Ultra均漲價100美元，目前起售價分別為1,000美元、1,200美元和1,400美元。Ultra最高儲存版本——1TB機型——漲價200美元，目前售價為2,000美元。三星最實惠的Galaxy S26系列機型S26 FE此次價格保持不變。該機型8月推出時售價為700美元，當時的定價已經比上一代高出50美元。三星最新的摺疊屏裝置，包括Galaxy Z Fold 8、Z Fold 8 Ultra和Z Flip 8，也未受到本輪漲價影響。因此，目前售價1,900美元的Z Fold 8仍將低於蘋果即將推出的iPhone Duo，後者將於10月23日上市，起售價1,999美元。與Galaxy S25系列相比，Galaxy S26和S26+今年3月上市時的價格就已經分別高出100美元。
-
----
-
-### 2026-10-01 22:17:46  #市場
-
-標普500金融指數跌至6月12日以來的最低點，最新跌幅為0.8%。
-
----
-
-### 2026-10-01 22:16:50  #國際
-
-Meta任命Ranveer Singh為首位印度品牌大使，負責Ray-Ban和Ray-Ban Meta。
-
----
-
-### 2026-10-01 22:16:40  #市場
-
-義大利與德國10年期國債收益率利差擴大10個基點至113個基點。
-
----
-
-### 2026-10-01 22:16:27  #國際
-
-【烏克蘭稱烏國家科學院核研究所遭襲】烏克蘭國家核能監管局10月1日在官網發文稱，一架俄軍無人機9月30日傍晚襲擊了烏克蘭國家科學院核研究所，襲擊引發火情但被迅速撲滅，未造成人員傷亡和輻射水平異常。烏國家核能監管局稱，位於首都基輔的烏國家科學院核研究所設有一座核反應堆，襲擊未造成反應堆受損。調查機構正對核研究所設施受損情況進行評估。（新華社）
-
----
-
-### 2026-10-01 22:16:10  #市場
-
-德國2年期國債收益率延續跌勢，目前下跌近7個基點，報約3.12%。
-
----
-
-### 2026-10-01 22:15:49  #國際
-
-佩斯科夫：匈牙利的行動可能影響俄羅斯的經濟關係。
-
----
-
-### 2026-10-01 22:13:57  #市場 #國際
-
-美國股市走低；道瓊斯指數最新下跌0.5%。
-
----
-
-### 2026-10-01 22:13:54  #市場
-
-【美股光通訊股盤中拉昇 lumentum、Coherent漲超5%】美股光通訊股盤中拉昇，lumentum、Coherent漲超5%，Tower半導體、AXT漲超4%，AAOI、Credo漲超3%。
-
----
-
-### 2026-10-01 22:13:36  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Edges Lower Amid Global Bond Selloff — The S&P/TSX Composite Index edged lower toward the 35,000 mark as a global bond rout pushed borrowing costs to multi-decade highs amid volatile oil prices. Global bonds extended their selloff, weighing on broader markets. The Canadian 10-year yield pared earlier losses on Thursday, remaining at multi-year highs. Oil prices rose further on reports of tighter Chinese fuel supplies, fueling persistent energy-driven inflation concerns, pushing yields higher and pressuring credit-sensitive sectors. Major banks fell, with RBC, BMO and Scotiabank down about 1%, while TD Bank and CIBC shed around 0.5%. Miners were mostly lower as gold prices pared earlier gains, with Barrick down more than 0.5% and WPM losing 1%. First Quantum was the main exception, rebounding by near 5% from a 15.3% plunge yesterday after a Panamanian government commission recommended formal talks on a new framework for the Cobre Panamá mine. Panama had previously urged the orderly closure of the mine.
-
----
-
-### 2026-10-01 22:13:30  #市場 #國際
-
-美國30年期國債收益率在經濟資料公佈後攀升至2002年5月末以來最高水平，隨後漲幅收窄，最新上漲3.12個基點，報5.67%。
-
----
-
-### 2026-10-01 22:13:25  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Walt Disney Stock Price Hits 7-week Low — Walt Disney shares decreased to 102.27 USD, the lowest since August 2026. Over the past 4 weeks, Walt Disney lost 5.13%, and in the last 12 months, it decreased 8.65%.
-
----
-
-### 2026-10-01 22:12:36  #資料 #市場 #央行 #焦點 #國際
-
-【PMI公佈後，美股三大指數下跌，30年國債收益率繼續上漲】美國9月ISM製造業PMI公佈後，美國國債收益率漲幅進一步擴大，10年期美國國債收益率最新上漲4.72個基點，報5.34％；納斯達克100指數抹去漲幅，標普500指數下跌0.2％，道指下跌0.4％。美國9月ISM製造業PMI雖小幅低於預期，但物價支付指數由71.1大幅升至77.9，遠高於72.3的預期，同時就業指數和新訂單指數均較前值上升，顯示製造業需求仍具韌性、成本壓力卻明顯升溫，市場因此重新計價高通脹所帶來的美聯儲利率前景。
-
----
-
-### 2026-10-01 22:09:06  #市場
-
-富時350銀行指數下跌4.2%，創5月5日以來最大單日跌幅。
-
----
-
-### 2026-10-01 22:08:09  #市場
-
-美光科技股價下跌3%，報1033.225美元/股，總市值報1.17萬億美元。
-
----
-
-### 2026-10-01 22:07:47  #其他
-
-【旅遊市場需求強勁 南非8月遊客總量突破百萬】南非旅遊部10月1日釋出宣告說，今年8月南非接待國際遊客100.5萬人次，較去年同期增長7.4%；今年前8個月共接待國際遊客758.1萬人次，同比增長11.7%。南非旅遊部長帕特里夏·德利萊在宣告中表示，資料顯示南非旅遊市場需求強勁，同時也凸顯將需求“轉化為投資、就業機會和經濟發展機遇”的重要性。（新華社）
 
 ---
