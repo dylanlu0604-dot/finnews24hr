@@ -1,7 +1,28 @@
 {
   "date": "2026-10-03",
-  "count": 408,
+  "count": 410,
   "items": [
+    {
+      "id": "mkt:01a0ffbe-0d4e-7ee0-a78e-359424eac333",
+      "time": "2026-10-03 11:10:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios: Senior Trump cabinet members gathered for several hours Friday at Camp David to discuss next steps on a war with Iran and on the Saudi–Houthi conflict."
+    },
+    {
+      "id": "5124801",
+      "time": "2026-10-03 11:09:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首個深水油田流花油田取得新突破】這個國慶假期，我國深水油田產油量再獲新突破。今天，我國首個深水油田——流花油田二次開發專案累計生產原油突破200萬噸。截至目前，油田已生產原油超過4000萬噸，日產量達到了投產22年來的新高，為保障國家能源安全提供了堅實保障。（央視新聞）"
+    },
     {
       "id": "5124800",
       "time": "2026-10-03 11:07:12",
