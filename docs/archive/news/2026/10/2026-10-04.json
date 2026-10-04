@@ -1,7 +1,19 @@
 {
   "date": "2026-10-04",
-  "count": 426,
+  "count": 427,
   "items": [
+    {
+      "id": "mkt:01a1073a-b63a-7ee0-a794-315aa9b92585",
+      "time": "2026-10-04 22:04:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran military says it will extend missile range】On the 4th, Iranian military spokesman Akraminia said the military has decided to begin extending its missile range, citing lessons learned from engagements with the United States and Israel. He said, \"We concluded we must increase missile range; we have already embarked on this path.\" Akraminia added that adversaries have deployed forces and warships as far as 1,000 km from Iran's coast, so Iran \"will continue to upgrade missiles,\" and that it has made significant progress in improving missile speed and accuracy."
+    },
     {
       "id": "5125294",
       "time": "2026-10-04 22:01:16",
