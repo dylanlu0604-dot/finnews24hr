@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-04 22:14:19",
-  "count": 11204,
+  "updated": "2026-10-04 22:18:26",
+  "count": 11206,
   "items": [
+    {
+      "id": "5125299",
+      "time": "2026-10-04 22:17:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：鮑威爾該離開了。"
+    },
+    {
+      "id": "5125298",
+      "time": "2026-10-04 22:16:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：我們尊重沃什與民眾一起投票支援提高利率的決定。"
+    },
+    {
+      "id": "5125297",
+      "time": "2026-10-04 22:15:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美團：國慶假期“學藝式旅行”持續走熱】10月4日，美團釋出資料顯示，國慶假期前三天，多類興趣課程搜尋熱度上升，“學藝式旅行”成為城市度假新選擇，平臺上“咖啡製作體驗”搜尋熱度同比上漲65%，“泥塑陶藝課程”上漲84%，“烘焙課程”上漲125%，“化妝私教課”搜尋熱度上漲377%。多地“網球培訓”搜尋熱度同比增長超100%，“普拉提培訓”搜尋量同比上漲133%，“攀巖體驗課”搜尋量同比上漲177%。"
+    },
+    {
+      "id": "mkt:01a10743-bb26-7ee0-a794-3b1a3b465b5c",
+      "time": "2026-10-04 22:14:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says polls have consistently underestimated MAGA】US President Trump said polls have consistently underestimated MAGA, accused attempts to suppress votes and claimed he won all seven swing states, the popular vote, 86% of counties and 99% of this year’s primaries, adding he is on the ballot."
+    },
     {
       "id": "5125296",
       "time": "2026-10-04 22:11:42",
@@ -102781,29 +102813,6 @@
         "其他"
       ],
       "text": "【41金11銀4銅 中國創參加世界技能大賽最好成績】第48屆世界技能大賽於9月27日晚在上海閉幕，中國代表團獲得41枚金牌、11枚銀牌、4枚銅牌，6個優勝獎，第五次位居金牌榜和團體總分世界第一，創造了我國參加世界技能大賽以來的歷史最好成績。其中數控銑專案取得六連冠，砌築專案實現五連冠，電氣裝置實現四連冠。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0e338-b52d-7118-86ad-7f59e033bec0",
-      "time": "2026-09-27 22:15:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said core inf has remained subdued and the Federal Reserve Board should keep an open mind."
-    },
-    {
-      "id": "5114918",
-      "time": "2026-09-27 22:15:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特：沃什很清楚美國經濟可能獲得的收益。"
     }
   ]
 }
