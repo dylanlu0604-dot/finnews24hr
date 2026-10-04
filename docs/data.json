@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-04 16:28:48",
-  "count": 11218,
+  "updated": "2026-10-04 16:32:38",
+  "count": 11215,
   "items": [
+    {
+      "id": "5125183",
+      "time": "2026-10-04 16:29:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以總理與遇刺迪拜航空機長通話】10月3日，發生安全事件的迪拜航空客機機長與以色列總理內塔尼亞胡通電話。機長斯米特·馬奇切爾講述了自己遭襲時的細節。馬奇切爾表示，他的後腦勺遭到了重擊，但第一反應只覺得是飛機出了故障。當他意識到是副駕駛在襲擊他，並試圖反抗時，他的“視線變得模糊不清，幾乎什麼都看不見”，並感覺飛機正在急速下降。他曾嘗試開啟駕駛室的艙門，但副駕駛又將艙門關上。內塔尼亞胡稱讚馬奇切爾“在絕境中保持冷靜判斷的能力”，並邀請他訪問以色列。以色列12頻道電視臺10月3日報道說，迪拜航空公司客機涉事副駕駛，曾多次執飛迪拜航空的迪拜至特拉維夫航線。涉事副駕駛最後一次駕駛飛機降落在特拉維夫附近的本-古裡安機場，是在9月30日安全事件發生前的一週。（CCTV國際時訊）"
+    },
     {
       "id": "mkt:01a10606-a8cc-7ee0-a792-d5e4985000c8",
       "time": "2026-10-04 16:27:41",
@@ -102872,38 +102881,6 @@
         "其他"
       ],
       "text": "NS Solutions將與Anthropic在人工智慧服務領域展開合作。"
-    },
-    {
-      "id": "5114748",
-      "time": "2026-09-27 16:31:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯納姆表示，北愛爾蘭保持冷靜非常重要。"
-    },
-    {
-      "id": "mkt:01a0e1fd-502d-7118-86ac-59adaf6ebf3d",
-      "time": "2026-09-27 16:31:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kazakh president appoints new defense minister】Kazakh President Tokayev on the 27th signed a decree appointing Aidos Merzhakhmetov, commander of the armed forces' special operations forces, as defense minister and removing Kosanov from the post. During a naval exercise on the Caspian Sea coast in Mangystau region on the 24th, sudden severe weather and high winds caused several servicemen to fall overboard, resulting in 14 deaths; at least five senior officers have been detained. Tokayev on the 26th ordered a special commission to carry out a comprehensive review of the Defense Ministry over the incident."
-    },
-    {
-      "id": "5114747",
-      "time": "2026-09-27 16:30:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百利天恆：注射用BL-M05D1納入突破性治療品種名單】百利天恆公告稱，公司自主研發的創新生物藥注射用BL-M05D1（Claudin18.2 ADC），用於既往經一線標準治療的CLDN18.2陽性晚期胃癌或胃食管結合部腺癌患者的方案，被國家藥監局藥審中心納入突破性治療品種名單。該藥品為靶向Claudin18.2的創新型ADC，目前正在國內外開展3項臨床試驗，相關III期臨床試驗已於2026年6月完成首例受試者入組。藥品研發受技術、審批等多因素影響，存在不確定性風險。"
-    },
-    {
-      "id": "5114746",
-      "time": "2026-09-27 16:30:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百利天恆：T-Bren膽道癌納入突破性名單，臨床20項】百利天恆公告，公司自主研發的T-Bren（HER2 ADC）用於HER2表達的經含鉑化療治療失敗的區域性晚期或轉移性膽道癌患者方案，已被國家藥品監督管理局藥品審評中心納入突破性治療品種名單並完成公示。截至目前，T-Bren正在國內外開展20項臨床試驗。"
     }
   ]
 }
