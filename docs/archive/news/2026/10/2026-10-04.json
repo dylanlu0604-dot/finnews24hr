@@ -1,7 +1,25 @@
 {
   "date": "2026-10-04",
-  "count": 437,
+  "count": 439,
   "items": [
+    {
+      "id": "5125302",
+      "time": "2026-10-04 22:33:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：霍爾木茲海峽的石油供應持續增加。"
+    },
+    {
+      "id": "mkt:01a10753-f048-7ee0-a794-57eeaee36907",
+      "time": "2026-10-04 22:31:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Hassett: Disagrees with rate hike but says Fed Chair Kevin Warsh acted for the right reasons】White House National Economic Council director Kevin Hassett said it is time for Powell to go. He said he respects Fed Chair Kevin Warsh’s decision, calling Warsh’s vote to raise rates “with the people”, and added that while he disagrees with the hike he respects that Warsh acted for the right reasons."
+    },
     {
       "id": "5125301",
       "time": "2026-10-04 22:29:02",
