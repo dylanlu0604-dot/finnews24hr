@@ -1,7 +1,18 @@
 {
   "date": "2026-10-04",
-  "count": 141,
+  "count": 142,
   "items": [
+    {
+      "id": "mkt:01a104c8-edc1-7ee0-a791-e7a7c4bc966d",
+      "time": "2026-10-04 10:40:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【Hainan duty-free sales total 358 mln yuan in first three days of National Day holiday】Haikou Customs said Oct. 1-3, 2026 Hainan island duty-free sales totaled 358 mln yuan, with 55,100 shopper visits and 277,000 items sold, up 8.85%, 12.90% and 8.02% year-on-year versus the same period in 2025."
+    },
     {
       "id": "5125080",
       "time": "2026-10-04 10:38:10",
