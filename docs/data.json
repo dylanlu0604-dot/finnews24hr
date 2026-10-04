@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-05 07:54:45",
-  "count": 11081,
+  "updated": "2026-10-05 07:58:30",
+  "count": 11073,
   "items": [
+    {
+      "id": "5125464",
+      "time": "2026-10-05 07:56:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西選舉機構：弗拉維奧·博索納羅與盧拉進入巴西總統選舉第二輪決選，將於10月25日進行。"
+    },
+    {
+      "id": "5125463",
+      "time": "2026-10-05 07:55:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升1.0個基點，至3.110%。"
+    },
+    {
+      "id": "te:markets:589318",
+      "time": "2026-10-05 07:54:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Higher as Rate Hike Bets Fade — US stock futures edged higher on Monday, extending gains from the previous session as softer US jobs data reduced pressure on the Federal Reserve to continue raising interest rates. Nasdaq 100 futures gained 0.3%, while Dow and S&P 500 futures advanced around 0.1%. On Friday, Wall Street rallied after data showed US employers added fewer jobs in September than expected, while wage growth also moderated. Markets are now pricing in nearly an 80% probability that the Fed will leave policy unchanged this month. Still, traders remained focused on elevated Treasury yields, with the 10-year yield hovering near its highest level since 2002. Investors now await a fresh batch of economic data this week for further clues, including the ISM services activity report, minutes from the Fed’s September meeting and the University of Michigan’s consumer sentiment reading. Earnings are also due from Constellation Brands, Levi Strauss, PepsiCo, Delta Air Lines and other major companies."
+    },
     {
       "id": "5125462",
       "time": "2026-10-05 07:52:14",
@@ -101604,107 +101633,6 @@
         "國際"
       ],
       "text": "日本央行會議紀要：一位委員會成員表示，逐步調整利率是可取的，以避免日後快速加息。"
-    },
-    {
-      "id": "5115127",
-      "time": "2026-09-28 07:57:52",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：預計26Q3電子行業在AI趨勢浪潮下整體業績維持高景氣】中信證券研報稱，預計26Q3電子行業在AI趨勢浪潮下整體業績維持高景氣：其中AI通脹方向最佳，PCB/CCL、儲存、AI電源相關公司業績表現強勁，此外受益於AI訂單外溢的半導體制造/封測產業鏈整體訂單趨勢持續景氣；其次自主可控方向趨勢延續，半導體國產裝置及零部件端訂單快速增長、交付偏緊，下游算力荒持續背景下國產算力相關公司收入/訂單保持跨越式增長，靜待利潤端改簽；消費電子整體仍然需求平淡，其中有AI敞口、獨立成長邏輯的中上游公司表現更優，面板行業有漲價邏輯的公司業績更為強勢。綜合來看，預計Q3業績表現相對亮眼的細分板塊有PCB/CCL、儲存原廠及利基儲存設計、AI電源、CPU鏈、FAB龍頭、裝置龍頭、合封儲存的IC設計公司及新品放量公司等。展望2026Q4及2027年，我們認為電子行業投資主線仍將繼續圍繞“自主可控、AI算力”兩大方向展開。一方面，國內算力晶片、晶圓製造、裝置和先進封裝正加速形成產業閉環，相關公司訂單及業績有望持續兌現；另一方面，AI伺服器配套零部件需求景氣，相關供應鏈公司業績有望持續兌現。我們繼續看好基本面強、業績兌現度高且具備國產替代空間的細分方向。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202609283884571434",
-      "time": "2026-09-28 07:57:22",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行多位成員表示近期核心通脹接近2% 需要關注在該水平附近穩定物價增長】日本央行會議紀要顯示，多位成員表示，近期核心通脹接近2%，需要關注在該水平附近穩定物價增長。一名成員表示，必須關注長期通脹預期是否會穩定在2%左右。"
-    },
-    {
-      "id": "mkt:01a0e54d-1aaa-7118-86af-cd1bb00dfda0",
-      "time": "2026-09-28 07:57:10",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Bank of Japan minutes: one member said recent yen weakness and developments in the Middle East could lift inflation expectations and raise upside risks to prices."
-    },
-    {
-      "id": "5115126",
-      "time": "2026-09-28 07:57:01",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：委員一致認為，隨著企業愈發積極地將進口成本上漲轉嫁出去，匯率波動當前對經濟和物價的影響程度大於以往。"
-    },
-    {
-      "id": "5115125",
-      "time": "2026-09-28 07:56:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "一位日本央行委員：加息步伐可能比市場預期更快。"
-    },
-    {
-      "id": "5115124",
-      "time": "2026-09-28 07:56:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：多名成員表示，家庭與企業的中長期通脹預期均在抬升。多名成員表示，消費品漲價範圍料自夏季起擴大。多名成員表示，近期核心通脹已接近2%，需聚焦將通脹增速穩定在該水平附近。一位委員表示必須關注長期通脹預期是否會在2%左右穩定下來。"
-    },
-    {
-      "id": "mkt:01a0e54b-f7bd-7118-86af-c588b01ac346",
-      "time": "2026-09-28 07:55:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea says it is closely monitoring financial and FX markets."
-    },
-    {
-      "id": "mkt:01a0e54b-cac5-7118-86af-bbe095fa962d",
-      "time": "2026-09-28 07:55:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Japan minutes: one member said the bank must monitor whether long-term inflation expectations will stabilize around 2%."
-    },
-    {
-      "id": "5115123",
-      "time": "2026-09-28 07:55:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心表示，颶風“保羅”正朝著下加利福尼亞半島移動，預計天氣狀況將於週一早開始轉差。"
-    },
-    {
-      "id": "mkt:01a0e54b-4e00-7118-86af-b56e6be62ff7",
-      "time": "2026-09-28 07:55:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan minutes: several members said recent core inflation is near 2% and urged monitoring to ensure price growth remains stable around that level."
-    },
-    {
-      "id": "5115122",
-      "time": "2026-09-28 07:54:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上升1個基點至3.085%。"
     }
   ]
 }

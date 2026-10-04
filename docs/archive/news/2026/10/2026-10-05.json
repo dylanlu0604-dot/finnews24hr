@@ -1,7 +1,36 @@
 {
   "date": "2026-10-05",
-  "count": 119,
+  "count": 122,
   "items": [
+    {
+      "id": "5125464",
+      "time": "2026-10-05 07:56:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西選舉機構：弗拉維奧·博索納羅與盧拉進入巴西總統選舉第二輪決選，將於10月25日進行。"
+    },
+    {
+      "id": "5125463",
+      "time": "2026-10-05 07:55:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率上升1.0個基點，至3.110%。"
+    },
+    {
+      "id": "te:markets:589318",
+      "time": "2026-10-05 07:54:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Higher as Rate Hike Bets Fade — US stock futures edged higher on Monday, extending gains from the previous session as softer US jobs data reduced pressure on the Federal Reserve to continue raising interest rates. Nasdaq 100 futures gained 0.3%, while Dow and S&P 500 futures advanced around 0.1%. On Friday, Wall Street rallied after data showed US employers added fewer jobs in September than expected, while wage growth also moderated. Markets are now pricing in nearly an 80% probability that the Fed will leave policy unchanged this month. Still, traders remained focused on elevated Treasury yields, with the 10-year yield hovering near its highest level since 2002. Investors now await a fresh batch of economic data this week for further clues, including the ISM services activity report, minutes from the Fed’s September meeting and the University of Michigan’s consumer sentiment reading. Earnings are also due from Constellation Brands, Levi Strauss, PepsiCo, Delta Air Lines and other major companies."
+    },
     {
       "id": "5125462",
       "time": "2026-10-05 07:52:14",
