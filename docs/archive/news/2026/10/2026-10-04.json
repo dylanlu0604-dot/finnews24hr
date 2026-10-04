@@ -1,7 +1,15 @@
 {
   "date": "2026-10-04",
-  "count": 143,
+  "count": 144,
   "items": [
+    {
+      "id": "mkt:01a104d7-67b5-7ee0-a791-ec174d899619",
+      "time": "2026-10-04 10:56:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US Coast Guard finds wreckage of missing plane near Nantucket; six still missing】On Oct. 3 local time the US Coast Guard said it found wreckage from a previously missing aircraft in waters near Nantucket Island, Massachusetts; the search for six people aboard is ongoing. The jet, a Gulfstream G100 used for medical transport and registered in Canada, went missing on a flight from Bermuda to Boston Logan after departing Bermuda at 00:41. Four crew and two patients were on board. The Massachusetts Port Authority confirmed the aircraft did not arrive at Logan; Bermuda authorities said they have contacted next of kin."
+    },
     {
       "id": "5125082",
       "time": "2026-10-04 10:43:10",
