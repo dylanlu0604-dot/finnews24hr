@@ -1,7 +1,27 @@
 {
   "date": "2026-10-04",
-  "count": 278,
+  "count": 280,
   "items": [
+    {
+      "id": "5125187",
+      "time": "2026-10-04 16:42:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：沒有更多人工智慧了（Artificial Intelligence，AI），“超級智慧”（Super Intelligence，SI）更好。"
+    },
+    {
+      "id": "mkt:01a10612-5326-7ee0-a792-eb708b655548",
+      "time": "2026-10-04 16:40:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Explosions in Kyiv as North Bridge struck again by jet-powered drone】Local time April 4 — Kyiv’s North Bridge over the Dnipro was hit by a jet-powered unmanned aerial vehicle while vehicles were crossing, Mayor Klitschko said; no casualties reported so far and the bridge deck sustained damage. Ukraine’s State Emergency Service is en route. Intense Ukrainian air-defence fire and loud explosions were heard across Kyiv. Russia did not immediately comment. Kyiv had said on April 3 that a Russian jet-powered drone attacked the North Bridge."
+    },
     {
       "id": "mkt:01a10610-8ce2-7ee0-a792-e7057050b5a8",
       "time": "2026-10-04 16:38:30",
