@@ -1,7 +1,23 @@
 {
   "date": "2026-10-04",
-  "count": 276,
+  "count": 278,
   "items": [
+    {
+      "id": "mkt:01a10610-8ce2-7ee0-a792-e7057050b5a8",
+      "time": "2026-10-04 16:38:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bosnia and Herzegovina holds elections on the 4th】Voting was held on the 4th in Bosnia and Herzegovina to elect the three-member presidency and 42 members of the state House of Representatives. The country comprises two entities—the Federation of Bosnia and Herzegovina and Republika Srpska—and the ballot also covered the Federation’s House of Representatives and cantonal assemblies, plus Republika Srpska’s president, vice president and National Assembly members."
+    },
+    {
+      "id": "5125186",
+      "time": "2026-10-04 16:37:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘油輪在霍爾木茲海峽遭襲】英國海上貿易行動辦公室4日釋出通報說，一艘油輪在霍爾木茲海峽遭襲。 通報說，該油輪被“不明發射物”擊中，機艙受損，但船上人員安全，目前暫未收到關於環境影響的報告。 通報未提及事件發生的具體時間。相關調查正在進行。（新華社）"
+    },
     {
       "id": "5125185",
       "time": "2026-10-04 16:34:48",

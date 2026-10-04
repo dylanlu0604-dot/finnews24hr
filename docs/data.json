@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-04 16:36:25",
+  "updated": "2026-10-04 16:40:13",
   "count": 11214,
   "items": [
+    {
+      "id": "mkt:01a10610-8ce2-7ee0-a792-e7057050b5a8",
+      "time": "2026-10-04 16:38:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bosnia and Herzegovina holds elections on the 4th】Voting was held on the 4th in Bosnia and Herzegovina to elect the three-member presidency and 42 members of the state House of Representatives. The country comprises two entities—the Federation of Bosnia and Herzegovina and Republika Srpska—and the ballot also covered the Federation’s House of Representatives and cantonal assemblies, plus Republika Srpska’s president, vice president and National Assembly members."
+    },
+    {
+      "id": "5125186",
+      "time": "2026-10-04 16:37:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘油輪在霍爾木茲海峽遭襲】英國海上貿易行動辦公室4日釋出通報說，一艘油輪在霍爾木茲海峽遭襲。 通報說，該油輪被“不明發射物”擊中，機艙受損，但船上人員安全，目前暫未收到關於環境影響的報告。 通報未提及事件發生的具體時間。相關調查正在進行。（新華社）"
+    },
     {
       "id": "5125185",
       "time": "2026-10-04 16:34:48",
@@ -102849,27 +102865,6 @@
         "國際"
       ],
       "text": "伊朗軍方發言人表示，美國可能因其\"糟糕的地區處境\"而發動新一輪攻擊。德黑蘭已做好對抗準備，並將對美國造成更大損害。"
-    },
-    {
-      "id": "mkt:01a0e205-7f07-7118-86ac-6860b77d3329",
-      "time": "2026-09-27 16:40:05",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian state media quoted an Iranian military spokesman saying the US may launch a new round of strikes because of its \"poor situation\". The spokesman said Iran is prepared to resist and will inflict greater damage on the US."
-    },
-    {
-      "id": "5114752",
-      "time": "2026-09-27 16:39:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄國防部稱打擊烏克蘭海軍基地】俄羅斯國防部27日釋出通報稱，26日深夜至27日凌晨，俄軍打擊了位於烏克蘭基利亞港的烏克蘭“東方”海軍基地司令部、烏克蘭國家邊防局基地、4座存放烏軍裝備的倉庫及泊位設施等。 通報稱，俄軍繼續使用無人機打擊了烏克蘭物流中心、港口和交通基礎設施，以及為烏軍服務的通訊中心和船隻。 通告稱，位於基輔市的沃達豐公司資料處理中心遭到打擊，該中心是為烏軍提供行動通訊、高速網際網路和情報資料傳輸的主要服務商之一。俄軍還打擊了基輔州一處儲存和分發西方援烏軍事物資的後勤物流中心及一艘前往敖德薩港的軍用物資運輸船等。(新華社)"
     }
   ]
 }
