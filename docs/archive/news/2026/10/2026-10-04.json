@@ -1,7 +1,52 @@
 {
   "date": "2026-10-04",
-  "count": 439,
+  "count": 444,
   "items": [
+    {
+      "id": "5125305",
+      "time": "2026-10-04 22:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：不能保證衝突中的（柴油供應），但美國正試圖增加柴油供應。"
+    },
+    {
+      "id": "mkt:01a10757-ef1e-7ee0-a794-66dff2bdd9f3",
+      "time": "2026-10-04 22:36:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Hurricane Rachel has strengthened slightly further."
+    },
+    {
+      "id": "5125304",
+      "time": "2026-10-04 22:35:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，颶風“雷切爾”強度進一步小幅增強。"
+    },
+    {
+      "id": "mkt:01a10756-a288-7ee0-a794-5804042a2abd",
+      "time": "2026-10-04 22:34:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US energy secretary Wright said energy shipments through the Strait of Hormuz continue to increase."
+    },
+    {
+      "id": "5125303",
+      "time": "2026-10-04 22:33:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：柴油受到俄烏衝突影響。"
+    },
     {
       "id": "5125302",
       "time": "2026-10-04 22:33:09",
