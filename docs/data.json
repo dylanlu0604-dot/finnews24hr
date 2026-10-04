@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-04 16:02:03",
-  "count": 11226,
+  "updated": "2026-10-04 16:05:48",
+  "count": 11229,
   "items": [
+    {
+      "id": "mkt:01a105f1-f47c-7ee0-a792-ba3c4d77890c",
+      "time": "2026-10-04 16:05:05",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Medvedev warns U.S. against blocking Russian \"Dawn\" LEO network, says move could spark \"full‑scale space war\"】On Oct. 4, Dmitry Medvedev, deputy chairman of Russia’s Security Council and head of United Russia, posted on social media warning the U.S. not to block Russia’s “Dawn” low‑Earth‑orbit (LEO) satellite communications system at Ukraine’s request. Medvedev said such a move would lead to a “full‑scale space war” and that U.S. Starlink satellites would “fall.” Ukraine’s Volodymyr Zelenskiy told the Financial Times he has repeatedly asked U.S. President Trump to block the Russian Starlink equivalent, “Dawn,” and to sanction companies involved. Russia has banned domestic use of Starlink, and President Putin said in June Russia has begun deploying its own Starlink‑like LEO constellation."
+    },
+    {
+      "id": "5125171",
+      "time": "2026-10-04 16:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：霍爾木茲海峽重新開放需以美國解除近期制裁為前提。"
+    },
+    {
+      "id": "5125170",
+      "time": "2026-10-04 16:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃：伊朗透過卡達多哈的調解人向美方提議發出的明確而有力的回應，暴露了華盛頓企圖將對話引向核議題的圖謀未能得逞。德黑蘭的堅定立場基於這一原則：只有美國採取切實行動，包括完全停止干擾伊朗商業航運、取消所有單邊制裁及最新制裁、停止軍事幹預，霍爾木茲海峽的安全才能恢復。伊朗伊斯蘭共和國拒絕美國的過分要求，認為任何諒解的首要條件是美國完全遵守其承諾並尊重伊朗人民的合法權利。"
+    },
+    {
+      "id": "5125169",
+      "time": "2026-10-04 16:01:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄官員警告美方勿封鎖俄版“星鏈”系統】當地時間10月4日，俄羅斯聯邦安全會議副主席、統一俄羅斯黨主席梅德韋傑夫在個人社交賬號上發文警告美方，不要應烏方要求“封鎖”俄“黎明”低軌衛星通訊系統。梅德韋傑夫稱，“此舉將導致全面太空戰爭。美方的低軌‘星鏈’衛星將紛紛墜落。”據悉，烏克蘭總統澤連斯基此前在接受英國《金融時報》採訪時表示，他已數次請求美國總統特朗普封鎖俄版“星鏈”系統——“黎明”低軌衛星通訊系統，並制裁參與該專案的公司。在俄羅斯境內，俄方被禁止使用“星鏈”。俄羅斯總統普京6月表示，俄方已開始部署一套類似“星鏈”的低軌道衛星系統。（央視新聞）"
+    },
     {
       "id": "mkt:01a105ec-daf8-7ee0-a792-b4c3d5482f0b",
       "time": "2026-10-04 15:59:30",
@@ -102953,14 +102989,6 @@
         "公司"
       ],
       "text": "【京藍科技：擬以公開網路拍賣方式轉讓中科鼎實77.7152%股權及相關債權】京藍科技(000711)9月27日公告，公司擬透過公開網路拍賣方式出售中科鼎實環境工程有限公司（簡稱“中科鼎實”）77.7152%股權及相關債權（合稱“標的資產”）。為提高資產處置效率、充分吸引意向競買人，公司擬以5000萬元作為首次拍賣起拍價。若交易得以完成，公司（含下屬子公司）不再持有中科鼎實股權和債權，中科鼎實不再納入公司合併財務報表範圍。若標的資產按首次拍賣起拍價5000萬元完成交易，公司合併口徑預計將產生5517.86萬元的處置損失（以2026年6月30日財務資料為基礎測算）。"
-    },
-    {
-      "id": "5114721",
-      "time": "2026-09-27 16:04:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國一空軍基地發生“重大事件” 多人被捕】當地時間9月27日，英國警方表示，英國一處美軍使用的空軍基地發生“重大事件”，數名男子被捕，多處住宅被疏散。當地警方稱，這起事件發生在英國格洛斯特郡的費爾福德皇家空軍基地。被捕者因涉嫌違反英國《爆炸物法》相關規定，目前已被警方拘留。英國陸軍專業爆炸物處理小組已抵達現場，正在對多輛汽車進行檢查。（央視新聞）"
     }
   ]
 }
