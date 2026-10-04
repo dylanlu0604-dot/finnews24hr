@@ -1,7 +1,112 @@
 {
   "date": "2026-10-04",
-  "count": 448,
+  "count": 461,
   "items": [
+    {
+      "id": "5125316",
+      "time": "2026-10-04 23:42:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：特朗普正同步對伊朗施加外交與軍事壓力。"
+    },
+    {
+      "id": "5125315",
+      "time": "2026-10-04 23:39:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門總理：我們堅定致力於將國家權力擴大至整個葉門，並結束胡塞武裝的叛亂。我們以高度的責任感應對當前局勢，為收復薩那和結束葉門人民的苦難做好準備。"
+    },
+    {
+      "id": "mkt:01a1078d-0cee-7ee0-a794-90f53a37e863",
+      "time": "2026-10-04 23:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's prime minister said the government was responding to the current situation with a high sense of responsibility and was prepared to retake Sanaa and end the suffering of the Yemeni people."
+    },
+    {
+      "id": "mkt:01a1078c-7aac-7ee0-a794-8e10da981740",
+      "time": "2026-10-04 23:33:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen prime minister says government is committed to extending state authority across all of Yemen and ending the Houthi rebellion."
+    },
+    {
+      "id": "5125314",
+      "time": "2026-10-04 23:30:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐以色列大使：迪拜航空事件屬於恐怖襲擊，目前尚未發現存在境外關聯。"
+    },
+    {
+      "id": "5125313",
+      "time": "2026-10-04 23:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基：烏德強化防務合作 對烏美俄三方會談持積極態度】當地時間10月4日，烏克蘭總統澤連斯基與德國總理默茨在烏首都基輔召開聯合新聞釋出會，公佈多項防務合作成果，並介紹了烏美俄三方會談的相關進展。澤連斯基表示，烏克蘭與德國將聯合生產2000架“巴爾斯”遠端攔截無人機。與此同時，烏克蘭正加快推進本土防空體系建設，“炮塔”防禦計劃已進入系統化實施階段，後續將部署數十套防禦炮塔。此外，烏克蘭多款小型導彈正在研發中，預計本月下半月開展測試驗收。此外，澤連斯基指出，美國目前正分別與烏克蘭、俄羅斯保持溝通，並提議在10月底前舉行三方技術性會談。烏克蘭已明確對此表示支援，對在阿聯酋或美方提議的其他國家舉辦會談持開放、積極態度。現階段，美方將向俄方正式提出該會談提議，烏克蘭將靜待俄方回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a10780-e945-7ee0-a794-87f887de0943",
+      "time": "2026-10-04 23:20:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UN World Food Programme said one of its humanitarian aid convoys was struck by an airstrike in South Kordofan in southern Sudan in the early hours of the 3rd, killing one driver."
+    },
+    {
+      "id": "5125312",
+      "time": "2026-10-04 23:17:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【葉門‌總統領導委員會稱反攻胡塞武裝】葉門行使總統職權的總統領導委員會主席拉沙德·阿里米今天（10月4日）發表電視講話，宣佈對葉門胡塞武裝發動“重大軍事行動”，以奪取其控制下的領土。阿里米稱，發動反攻的決定是在“所有緩和局勢的機會都已耗盡”之後做出的，他指責胡塞武裝以進一步的升級來回應緩和衝突的努力。他在電視講話中表示：“今天，我宣佈開始軍事行動，以收復領土，並將國家及其機構的權力擴充套件到整個國土。” 據知情人士透露，本次軍事行動，將由沙特方面主導空戰，葉門政府軍負責地面作戰。美國為沙特在葉門的行動提供情報支援，一些地區國家和歐洲國家主要向沙特提供防禦性軍事援助。（CCTV國際時訊）"
+    },
+    {
+      "id": "5125311",
+      "time": "2026-10-04 23:16:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室週日稱，10 月 1 日至 4 日霍爾木茲海峽共發生四起襲擊事件，均發生在海峽阿曼一側，每艘遇襲船隻都遭到不明射彈擊中。"
+    },
+    {
+      "id": "5125310",
+      "time": "2026-10-04 23:12:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軟銀集團孫正義罕見地就AI安全風險表達擔憂 呼籲各國攜手應對威脅】軟銀集團領導人孫正義是人工智慧最堅定的信奉者之一，但即便是他也表示，隨著機器正迅速獲得更多能力，他對安全風險感到擔憂。孫正義週日在京都舉行的“科技與社會”論壇期間的一場活動上表示，人工智慧的能力呈指數級增長，這就要求各國必須建立互信，才能共同駕馭這項技術。孫正義說：“我們已經沒有讓人類彼此爭鬥的奢侈選項了，” 各國需要攜手合作來控制強大人工智慧模型所帶來的更大威脅。他表示，如果超級智慧落入錯誤的人手中，可能會變得“超級危險”。"
+    },
+    {
+      "id": "mkt:01a10777-3544-7ee0-a794-7b6119960727",
+      "time": "2026-10-04 23:10:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli media: preliminary probe finds Dubai airline attacker acted alone】Israeli preliminary investigations indicate the co-pilot who attacked the captain aboard a Dubai airline flight acted alone, Channel 12 reported on April 4, citing sources. Security agencies opened an immediate probe that remains ongoing; investigators view the co-pilot as a \"lone-wolf\". Media identified him as 29-year-old Omani Hamam Hammami and reported he had planned to kill the captain and crash the aircraft into a skyscraper in Tel Aviv."
+    },
+    {
+      "id": "5125309",
+      "time": "2026-10-04 23:07:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以媒稱初步調查顯示迪拜航空襲擊者系單獨作案】據以色列媒體4日報道，以色列方面的初步調查顯示，在迪拜航空公司客機駕駛艙中襲擊機長的副駕駛系單獨作案。以色列第12頻道電視臺援引訊息人士的話說，以安全機構在事發後立即啟動調查，目前調查仍在進行。調查人員認為，涉事副駕駛是“獨狼式”作案。另據媒體報道，這名副駕駛為29歲的阿曼籍男子哈馬姆·哈馬米。他原計劃殺宕機長，並駕駛飛機撞向以色列特拉維夫的摩天大樓。（新華社）"
+    },
+    {
+      "id": "mkt:01a10769-2495-7ee0-a794-7080af11ffec",
+      "time": "2026-10-04 22:54:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Poll: Nearly half of Germans say Merkel would handle current problems better than Merz】German news agency dpa on the 4th published a YouGov-commissioned poll of 2,072 German adults showing 48% said former chancellor Angela Merkel would handle Germany’s current problems better than incumbent chancellor Friedrich Merz; 29% said both are equally capable, 8% preferred Merz, and 15% were undecided or gave no answer."
+    },
     {
       "id": "mkt:01a1075f-d07a-7ee0-a794-6dcd7843a10f",
       "time": "2026-10-04 22:44:42",
