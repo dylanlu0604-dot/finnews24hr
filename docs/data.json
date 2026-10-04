@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-05 07:51:01",
-  "count": 11095,
+  "updated": "2026-10-05 07:54:45",
+  "count": 11081,
   "items": [
+    {
+      "id": "5125462",
+      "time": "2026-10-05 07:52:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報：購房貸款貼息重在精準滴灌】文章指出，對一些大城市而言，一套房子的總價動輒數百萬元甚至更高，難以達到享受政策條件。這是否意味著政策效能打折扣？答案是否定的。居民購房貸款貼息政策的本意並非普惠式“大水漫灌”，而是透過對房屋總價、房屋面積、貸款類別等作出界定，把政策紅利定向輸送到剛需自住群體，實現“精準滴灌”的政策目標。我國連續實施更加積極的財政政策，財政支出保持不小力度。同時也要看到，財政資源是有限的，“積極”並非可以隨意“撒錢”，而是要最佳化支出結構，把寶貴的財政資源用在刀刃上，發揮最大政策效能。對於居民購房貸款貼息政策而言，則應讓有限的財政資金惠及更多的剛需群體，設定了較低總價、中小戶型等門檻，正是基於上述考慮，體現出統籌惠民生、保基本、廣覆蓋、促公平和財力可能，在全國範圍力求平衡。按照市場機構測算，此次政策可以覆蓋二三四線城市較大範圍的住房以及一線城市的部分住房，惠及群體可觀。"
+    },
+    {
+      "id": "5125461",
+      "time": "2026-10-05 07:51:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西已統計 94.5% 的選票：博索納羅得票率 47.7%，盧拉 44.4%。"
+    },
     {
       "id": "mkt:01a10950-136c-7ee0-a795-ca3b11bba2fb",
       "time": "2026-10-05 07:46:45",
@@ -101689,167 +101705,6 @@
         "國際"
       ],
       "text": "10年期日本國債收益率上升1個基點至3.085%。"
-    },
-    {
-      "id": "mkt:01a0e54a-8306-7118-86af-aacec1540360",
-      "time": "2026-09-28 07:54:20",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan minutes: several members said consumer goods price increases may broaden starting this summer."
-    },
-    {
-      "id": "mkt:01a0e54a-609f-7118-86af-a78abbca9df9",
-      "time": "2026-09-28 07:54:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan minutes: Several members said households' and firms' medium- to long-term inflation expectations are rising."
-    },
-    {
-      "id": "mkt:01a0e54a-4e48-7118-86af-9fd4c971d651",
-      "time": "2026-09-28 07:54:07",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan minutes: Many members said firms are steadily passing through higher raw-material costs, keeping wholesale inflation elevated."
-    },
-    {
-      "id": "5115121",
-      "time": "2026-09-28 07:53:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：不拘泥於固定的加息步伐，但也會討論靈活的應對措施和加息幅度。"
-    },
-    {
-      "id": "mkt:01a0e54a-0feb-7118-86af-9127ca0b9dd3",
-      "time": "2026-09-28 07:53:51",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan minutes: some members said consumer prices are showing signs of rising, reflecting higher import costs."
-    },
-    {
-      "id": "mkt:01a0e549-ee54-7118-86af-883cc1259809",
-      "time": "2026-09-28 07:53:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan minutes: members unanimously judged financial conditions to be accommodative."
-    },
-    {
-      "id": "5115120",
-      "time": "2026-09-28 07:53:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行在新聞稿中透露，在中秋節假期期間召開會議，審查市場狀況。"
-    },
-    {
-      "id": "mkt:01a0e549-b4c9-7118-86af-866ae1b19a1c",
-      "time": "2026-09-28 07:53:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "NIO.O",
-        "Impact bullish"
-      ],
-      "text": "【NIO, Geely reach formal agreement on battery‑swap and charging strategic transaction】NIO-SW (09866.HK) said a Geely Holding Group subsidiary signed a formal agreement to subscribe for newly issued equity in NIO Energy by contributing its 100% stake in EasyConnect Technology plus RMB 640 mln cash, subject to regulatory approvals and customary closing conditions. On closing the Geely unit will hold 30.0% of NIO Energy, NIO subsidiary NIO Holding Limited will retain 63.6% and existing investor Wuhan Guangchuang Xinxing Technology Phase I Venture Capital Fund (LP) will hold 6.4%. The transaction values NIO Energy at about RMB 16.0 bln post‑money."
-    },
-    {
-      "id": "5115119",
-      "time": "2026-09-28 07:53:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率升至3.085%。"
-    },
-    {
-      "id": "5115118",
-      "time": "2026-09-28 07:53:09",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：多名成員表示企業正穩步轉嫁原材料成本上漲，維持批發通脹高位執行。"
-    },
-    {
-      "id": "5115117",
-      "time": "2026-09-28 07:53:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行表示韓國的經濟基本面依然穩健。"
-    },
-    {
-      "id": "5115116",
-      "time": "2026-09-28 07:52:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：密切關注國內金融和外匯市場，保持高度警惕。"
-    },
-    {
-      "id": "5115115",
-      "time": "2026-09-28 07:52:34",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：少數成員表示，受進口成本上漲推動，消費者物價已顯現上行跡象。"
-    },
-    {
-      "id": "5115114",
-      "time": "2026-09-28 07:52:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要： 1名委員會成員稱，加息步伐可能快於市場預期。"
-    },
-    {
-      "id": "5115113",
-      "time": "2026-09-28 07:51:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行委員：將根據經濟和物價情況，持續加息。"
-    },
-    {
-      "id": "5115112",
-      "time": "2026-09-28 07:51:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行7月會議紀要：成員一致認為金融條件當前處於寬鬆水平。"
     }
   ]
 }
