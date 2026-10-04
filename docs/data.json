@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-05 02:53:35",
-  "count": 11148,
+  "updated": "2026-10-05 02:57:24",
+  "count": 11152,
   "items": [
+    {
+      "id": "mkt:01a10846-5774-7ee0-a794-f14c43c27332",
+      "time": "2026-10-05 02:56:29",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UK Maritime Trade Operations said it received reports of an incident 60 nautical miles south of Yemen's Mocha port. A tanker reported multiple explosions nearby; crew were reported safe and no environmental impact observed."
+    },
+    {
+      "id": "5125344",
+      "time": "2026-10-05 02:56:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：據報告船員安全，暫未發現造成環境影響。"
+    },
+    {
+      "id": "5125343",
+      "time": "2026-10-05 02:55:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：一艘油輪目擊船體附近發生多起爆炸。"
+    },
+    {
+      "id": "5125342",
+      "time": "2026-10-05 02:55:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：收到一則發生在葉門穆哈以南 60 海里海域的事件報告。"
+    },
     {
       "id": "5125339",
       "time": "2026-10-05 02:43:33",
