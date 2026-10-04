@@ -1,7 +1,403 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-10-05 03:09:03_
-_本檔包含 2213 則快訊，約 427862 字_
+_更新時間：2026-10-05 05:51:38_
+_本檔包含 2239 則快訊，約 428459 字_
+
+---
+
+### 2026-09-30 04:21:15  #MKT News #AAL.O #Impact bullish #ALK.O
+
+American Airlines Group (AAL.O) and Alaska Airlines plan to expand their joint business across the Atlantic and Pacific and will seek regulatory approval.
+
+---
+
+### 2026-09-30 04:21:14  #國際
+
+惠譽評級：提高利率以支援美國財富管理機構的客戶現金收益。
+
+---
+
+### 2026-09-30 04:21:03  #國際
+
+美國國家航空航天局：將藍色起源的新格倫9×4火箭納入發射服務合同，二代發射服務合同（NLS II）包含准入增補條款，發射服務專案辦公室將提供相關服務。
+
+---
+
+### 2026-09-30 04:20:03  #MKT News #Important
+
+U.S. API weekly crude oil inventories for the week to Sept. 25 due in ten minutes.
+
+---
+
+### 2026-09-30 04:18:52  #其他
+
+NBA預計很快敲定拉斯維加斯新球隊的中標競標方。
+
+---
+
+### 2026-09-30 04:17:54  #國際
+
+特朗普：ICE在保護我們人民的安全方面做得非常出色。我們幹得太棒了。你應該去跟民主黨人談談。為什麼允許2500萬人進入我們的國家？他們擾亂了我們的國家，傷害了我們的國家。
+
+---
+
+### 2026-09-30 04:16:32  #國際
+
+美國銀行監管機構：15家資產規模超2500億美元銀行提交的“生前遺囑”（破產處置計劃）未發現缺陷。
+
+---
+
+### 2026-09-30 04:15:43  #國際
+
+美國國家情報總監傑伊·克萊頓：在這項國家安全議題上，今天達成的共識是，美國要在人工智慧領域保持領先，這是國家安全的重中之重。
+
+---
+
+### 2026-09-30 04:15:21  #MKT News #Market Themes #AI Revolution
+
+U.S. President Trump said AI requires both self-regulation and collective oversight.
+
+---
+
+### 2026-09-30 04:14:11  #國際
+
+特朗普談人工智慧：有自我監管，也有群體監管。
+
+---
+
+### 2026-09-30 04:13:59  #公司 #國際
+
+【扎克伯格：白宮AI框架落地，行業達成共識】Meta執行長扎克伯格闡述了科技領袖們在白宮與特朗普總統會面後達成一致的AI框架。他表示，這些原則的核心在於：建立完善的內部管控機制、開展內部風險評估、引入外部審計員和評估機構，以及由公司董事會對審計報告進行獨立審查。他說：“我們的想法並不是說這（框架）將是我們唯一要做的舉措。相反，這只是一個起點，是一個整個行業都能達成一致的共識。”他表示，此舉的目標是讓美國民眾和客戶相信，這些技術正按照公司的預期初衷正常執行。
+
+---
+
+### 2026-09-30 04:13:30  #MKT News #Market Themes #AI Revolution
+
+Elon Musk said the most likely outcome of artificial intelligence is extremely beneficial.
+
+---
+
+### 2026-09-30 04:13:13  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+U.S. President Trump, standing beside Alphabet (GOOG.O) CEO Sundar Pichai, criticized Finland's data center construction plan.
+
+---
+
+### 2026-09-30 04:12:49  #其他
+
+馬斯克：人工智慧最可能帶來的結果是裨益無窮。
+
+---
+
+### 2026-09-30 04:12:14  #公司 #國際
+
+特朗普（在Alphabet執行長身旁）批評了Alphabet在芬蘭建設資料中心的計劃。
+
+---
+
+### 2026-09-30 04:11:39  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7
+
+U.S. truck drivers union says Amazon (AMZN.O) SWF1 warehouse workers demand an end to unsafe working practices and to unfair productivity-assessment penalties.
+
+---
+
+### 2026-09-30 04:11:33  #MKT News #Star Stocks #AMZN.O #Impact bearish
+
+US truck drivers' union says workers at Amazon (AMZN.O) SWF1 warehouse in New York have launched an unfair labor practice strike.
+
+---
+
+### 2026-09-30 04:10:10  #MKT News #Market Themes #The Trump Trade
+
+President Trump said he wants data centers built in the United States.
+
+---
+
+### 2026-09-30 04:09:57  #國際
+
+特朗普被問及住宅附近的資料中心時表示：希望它們建在合適的地方。
+
+---
+
+### 2026-09-30 04:09:41  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said residents in regions hosting data center construction will see large economic gains.
+
+---
+
+### 2026-09-30 04:09:24  #國際
+
+特朗普：資料中心建設落地地區的民眾將獲得豐厚的經濟收益。
+
+---
+
+### 2026-09-30 04:08:58  #MKT News #Market Themes #AI Revolution #The Trump Trade
+
+President Trump discussed data center deployment with AI industry leaders.
+
+---
+
+### 2026-09-30 04:08:52  #國際
+
+【西班牙國王呼籲歐盟成員國加強協作以保衛邊界】當地時間9月29日，法國總統馬克龍及其夫人抵達西班牙，對西班牙進行國事訪問。西班牙國王費利佩六世當天在歡迎晚宴致辭中表示，7月末休達自治市發生的大規模移民入境事件“令人無法接受”，並將其描述為“數萬人大規模入侵，侵犯了西班牙和歐盟邊界”的嚴重事件。費利佩六世同時表示，這一情況必須促使歐盟成員國加強協作，以保衛歐盟南部邊界。（央視新聞）
+
+---
+
+### 2026-09-30 04:08:51  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Oil prices tumble on the 29th】At the close, NYMEX November light sweet crude settled down $3.22 at $89.38/bbl, a 3.48% decline; November Brent settled down $2.69 at $102.59/bbl, down 2.56%.
+
+---
+
+### 2026-09-30 04:08:31  #國際
+
+特朗普：討論了資料中心的選址，我希望它們建在美國。
+
+---
+
+### 2026-09-30 04:08:29  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+US Stocks Dip as Elevated Yields Weigh — US stock indices closed mostly lower on Tuesday, weighed down by another rise in Treasury yields to fresh multiyear highs. The S&P 500 fell 0.2%, and the Dow shed 130 points, while the Nasdaq rose 0.2%. Elevated oil prices and yields continued to pressure equities, with the 10-year yield trading near levels not seen since 2007 and the 30-year yield hovering around a 2004 high. Inflationary pressures from elevated crude and fuel prices, along with concerns over fiscal deficits, drove the bond selloff. New York Fed President Williams said another interest rate hike could be necessary this year. Bank stocks moved lower, with Bank of America down 0.9%. AI hyperscalers and chipmakers, both facing record levels of debt issuance, traded mixed. Alphabet fell 0.5% and Nvidia lost 0.7%, while Meta gained 3.2%, Oracle jumped 4%, Broadcom added 1.6% and Micron rose 1%, as the planned Anthropic IPO lent some support to the tech sectors. The IPO could value Anthropic at over $2 trillion.
+
+---
+
+### 2026-09-30 04:08:03  #市場 #焦點
+
+【國際油價29日顯著下跌】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格下跌3.22美元，收於每桶89.38美元，跌幅為3.48%；11月交貨的倫敦布倫特原油期貨價格下跌2.69美元，收於每桶102.59美元，跌幅為2.56%。
+
+---
+
+### 2026-09-30 04:07:45  #公司
+
+Meta執行長扎克伯格：將安排公司董事會審查審計機構出具的報告。
+
+---
+
+### 2026-09-30 04:07:30  #公司
+
+Meta執行長扎克伯格：科技企業已同意就人工智慧建立“健全”內部控制機制與多層審計體系。
+
+---
+
+### 2026-09-30 04:07:19  #其他
+
+標普將富國銀行評級上調至“A-”，展望穩定。
+
+---
+
+### 2026-09-30 04:07:02  #公司
+
+Anthropic執行長阿莫代伊：應對人工智慧風險的機制正在討論中。
+
+---
+
+### 2026-09-30 04:06:59  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O
+
+Meta Platforms (META.O) CEO Mark Zuckerberg said technology companies have agreed to establish 'robust' internal controls and multi-layered audits for AI.
+
+---
+
+### 2026-09-30 04:06:35  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) CEO Mark Zuckerberg said he will ask the company's board to review the auditor's report.
+
+---
+
+### 2026-09-30 04:06:29  #央行 #國際
+
+美聯儲威廉姆斯：預計通脹將下降，但人工智慧方面仍存在疑問。
+
+---
+
+### 2026-09-30 04:06:23  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+Fed's Williams said rising bond yields indicate financial conditions have tightened marginally.
+
+---
+
+### 2026-09-30 04:06:19  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish
+
+WILLIAMS said strong investment in AI is important for boosting future productivity.
+
+---
+
+### 2026-09-30 04:06:15  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #S&P500 #Impact mixed #DXY #Impact bullish
+
+Fed's WILLIAMS said he does not think the ongoing rise in yields reflects a shift in long-term inflation expectations.
+
+---
+
+### 2026-09-30 04:06:07  #央行 #國際
+
+美聯儲威廉姆斯：油價也是影響債券收益率的一個因素。
+
+---
+
+### 2026-09-30 04:05:48  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve's Williams said AI has not yet produced a material change in employment levels.
+
+---
+
+### 2026-09-30 04:05:43  #央行 #國際
+
+美聯儲威廉姆斯：債券收益率上升並不意味著市場對通脹的擔憂加劇。
+
+---
+
+### 2026-09-30 04:05:40  #央行 #國際
+
+美聯儲威廉姆斯：不認為收益率上行預示著長期通脹預期發生改變。
+
+---
+
+### 2026-09-30 04:05:38  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) CEO Zuckerberg pledged to establish control mechanisms and systems to detect technical issues.
+
+---
+
+### 2026-09-30 04:05:36  #央行 #國際
+
+美聯儲威廉姆斯：強勁的人工智慧投資對提振未來生產率至關重要。
+
+---
+
+### 2026-09-30 04:05:33  #央行 #國際
+
+美聯儲威廉姆斯：迄今為止，人工智慧並未造成就業規模發生重大變化。
+
+---
+
+### 2026-09-30 04:05:16  #國際
+
+【特朗普：比爾·蓋茨並未表現出對人工智慧的擔憂】特朗普表示，在與比爾·蓋茨交談時，蓋茨並未表現出對人工智慧風險的擔憂。當被問及蓋茨週日關於“人工智慧可能導致10億人死亡”的言論時，特朗普在白宮會見人工智慧企業高管後告訴記者：“我可以告訴你，昨天他完全沒有這麼說。實際上，他的態度恰恰相反。”
+
+---
+
+### 2026-09-30 04:05:00  #公司
+
+Anthropic執行長阿莫代伊：依然認為人工智慧存在“非常真實的風險”。
+
+---
+
+### 2026-09-30 04:04:39  #公司 #國際
+
+特朗普：人工智慧公司會互相監督。
+
+---
+
+### 2026-09-30 04:04:25  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDCHF
+
+【Dollar index up 0.17% to 101.372 on the 29th】DXY rose 0.17% to 101.372 at the New York close. EUR/USD 1.1341, down from 1.1368; GBP/USD 1.3229, down from 1.3261. USD/JPY 157.22, versus 157.40 previously. USD/CHF 0.8336, up from 0.8319; USD/CAD 1.4178, up from 1.4171; USD/SEK 9.9892, up from 9.9537.
+
+---
+
+### 2026-09-30 04:04:25  #MKT News #Market Themes #The Trump Trade #Magnificent 7 #Star Stocks #Meta Platforms
+
+US President Trump said Zuckerberg's views are very neutral.
+
+---
+
+### 2026-09-30 04:04:21  #公司 #國際
+
+【特朗普稱他與科技巨頭簽署AI協議並考慮組建委員會】美國總統特朗普說，他和科技企業的CEO們簽署了一項具有“道德約束力”的人工智慧協議。他說正在考慮組建一個由大約10人組成的委員會來監督人工智慧，稱他看到了人工智慧行業“驚人的”自我監管能力。
+
+---
+
+### 2026-09-30 04:04:16  #公司 #國際
+
+【特朗普稱他與科技巨頭簽署AI協議並考慮組建委員會】美國總統特朗普說，他和科技企業的CEO們簽署了一項具有“道德約束力”的人工智慧協議。他說正在考慮組建一個由大約10人組成的委員會來監督人工智慧，稱他看到了人工智慧行業“驚人的”自我監管能力。
+
+---
+
+### 2026-09-30 04:04:04  #MKT News
+
+Trump said ANTHROPIC CEO Dario Amodei has been great.
+
+---
+
+### 2026-09-30 04:03:54  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
+
+US equities closed lower on Tuesday, Sept. 29: Dow Jones Industrial Average down 130.70 points (0.25%) at 51,350.81; S&P 500 down 12.51 points (0.16%) at 7,671.18; Nasdaq Composite down 22.84 points (0.09%) at 26,797.54.
+
+---
+
+### 2026-09-30 04:03:53  #MKT News #Market Themes #AI Revolution
+
+ANTHROPIC CEO Amodei said the technology poses very real risks and the company is still discussing how to address them.
+
+---
+
+### 2026-09-30 04:03:46  #國際
+
+美國聯邦住房金融局（FHFA）局長普爾特：信用評分領域的濫用行為正在得到處理，信用局之間需要展開競爭。
+
+---
+
+### 2026-09-30 04:03:10  #市場 #焦點
+
+WTI原油失守89美元/桶，日內跌3.91%。
+
+---
+
+### 2026-09-30 04:03:04  #國際
+
+特朗普：扎克伯格的觀點非常中立。
+
+---
+
+### 2026-09-30 04:03:02  #MKT News #S&P500 #Impact bullish
+
+U.S. banking regulators said they reviewed resolution plans (living wills) submitted by 15 banks with assets exceeding $250 billion and found no deficiencies.
+
+---
+
+### 2026-09-30 04:02:47  #公司
+
+Anthropic執行長阿莫代伊：技術存在切實風險，如何應對這些風險仍在討論當中。
+
+---
+
+### 2026-09-30 04:02:11  #公司 #市場
+
+嘉年華郵輪公司股價收盤上漲13%，創下自2025年4月以來最佳單日表現。
+
+---
+
+### 2026-09-30 04:02:02  #其他
+
+賽富時：（收購Listen Labs）交易預計將於賽富時2027財年第四季度完成。
+
+---
+
+### 2026-09-30 04:01:38  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #S&P500 #Impact bearish #NIO.N #ORCL.N #Impact bullish
+
+【US close: three major indexes down; Nasdaq Golden Dragon falls 1.5%】US stocks closed lower on Tuesday. At the preliminary close the Dow Jones Industrial Average was down 0.25%, the S&P 500 fell 0.16% and the Nasdaq Composite slipped 0.09%. Meta Platforms (META.O) rose over 3%, SK Hynix (SKHY.O) gained 2.6% and Oracle (ORCL.N) jumped 4%. The Nasdaq Golden Dragon China Index dropped 1.55%; NIO (NIO.N) fell about 5%.
+
+---
+
+### 2026-09-30 04:01:36  #國際
+
+美國航空：美國航空與阿拉斯加航空宣佈，計劃接納阿拉斯加航空加入大西洋及太平洋合資業務。
+
+---
+
+### 2026-09-30 04:01:12  #其他
+
+賽富時：已簽署收購Listen Labs的最終協議。
+
+---
+
+### 2026-09-30 04:00:55  #公司 #央行 #國際
+
+美聯儲與聯邦存款保險公司（FDIC）就銀行處置計劃發表聯合宣告：大型銀行的“生前遺囑”（破產清算計劃）不存在缺陷。
+
+---
+
+### 2026-09-30 04:00:52  #Trading Economics #Economy #Argentina #Current Account #Importance 1
+
+Argentina Current Account Swings to Surplus in Q2 — Argentina posted a current account surplus of $2.21 billion in the second quarter of 2026, reversing a $2.45 billion deficit recorded in the same period of 2025. The result was driven by surpluses in the goods trade balance, at $9.29 billion, and secondary income, at $1.05 billion, which were partially offset by deficits in primary income, at $6.03 billion, and the services balance, at $2.10 billion. The primary income deficit widened by $2.47 billion year over year to $6.03 billion, almost entirely due to changes in investment income. As a result, Argentina recorded net lending of $2.25 billion in the second quarter of 2026.
 
 ---
 
@@ -13080,245 +13476,5 @@ Anthropic在IPO申報檔案中警告稱，人工智慧可能對人類構成“�
 ### 2026-09-29 08:14:39  #央行 #國際
 
 【熊貓債年內發行增逾七成 低融資成本優勢凸顯】今年以來，熊貓債市場持續火熱。Wind資料顯示，截至9月28日，年內熊貓債發行規模達2450.45億元，同比增長77.89%。三季度尚未結束，今年熊貓債的發行規模就已超過2025年全年水平（1836億元）。熊貓債市場的存量規模也首次站上5000億元臺階，達到5406.79億元。資料顯示，年內熊貓債加權平均發行利率為1.84%，延續了近年來走低的趨勢。而在美元市場，債券發行利率通常為4.5%到5.5%，利差優勢使得熊貓債受到青睞。這種成本優勢不僅體現在利率上，也體現在期限上，今年熊貓債加權平均發行期限達到3.26年，體現出發行人愈發傾向於選擇熊貓債鎖定更長期限的低成本資金。伴隨著近期美聯儲開啟加息，熊貓債的利率優勢將進一步凸顯。（證券日報）
-
----
-
-### 2026-09-29 08:13:34  #市場
-
-【全球最大的白銀ETF iShares Silver Trust持倉量較前日減少14.05噸】截至2026年09月28日，全球最大的白銀ETF iShares Silver Trust持倉量為15364.64噸，較前一個交易日減少14.05噸。
-
----
-
-### 2026-09-29 08:11:47  #其他
-
-【瀾起科技成功量產DDR5-9200 CKD晶片】瀾起科技今日宣佈，其升級版DDR5時鐘驅動器晶片（CK01P）已成功實現量產，旨在為下一代客戶端記憶體模組提供穩定可靠的時鐘驅動支援。
-
----
-
-### 2026-09-29 08:11:37  #觀點
-
-【中信證券：預計2027年春節前後房價會在較為廣闊的範圍內止跌回升】中信證券指出，面對價格慣性下行所形成的悲觀市場預期，預計政策仍將積極提振需求，供求共同發力以推動房價止跌回升。現房銷售政策基本根除了交付風險，增強了消費者的信心。中信證券預計，在供求兩個方面政策的加持之下，到2027年春節前後，房價會在較為廣闊的範圍內止跌回升，市場景氣復甦可能明顯提速。
-
----
-
-### 2026-09-29 08:10:42  #公司
-
-【滙豐控股完成股份回購 累計回購約4865.71萬股股份】滙豐控股(00005)公佈，2026 年 9 月 28 日，已向 BNP Paribas Financial Markets SNC購買91.12萬股股份，每股股份所支付的成交量加權平均價為159.5951 港元。繼購入此等股份後，回購經已完成。自回購開始，公司已按成交量加權平均價每股普通股 15.1909 英鎊自英國地點回購約3173.55萬股普通股，及按成交量加權平均價每股普通股 161.2887 港元自香港聯交所回購1692.16萬股普通股，以作登出，代價總額約為 10 億美元。
-
----
-
-### 2026-09-29 08:08:14  #其他
-
-韓美半導體：獲得80億韓元訂單。
-
----
-
-### 2026-09-29 08:07:47  #公司 #國際
-
-【借鑑中國模式，擁有海量使用者，印度微短劇市場迎來“爆發式”增長】印度微短劇市場正迎來“爆發式”增長。從寶萊塢演員到大型媒體集團，紛紛湧入這一新興賽道。資料顯示，印度微短劇觀眾已達約5000萬，預計到2030年收入將達45億美元。這一產業借鑑中國經驗，以低成本、短週期為特點，為印度影視行業閒置產能提供了新出口，也彰顯了中國數字娛樂模式的影響力。然而，內容公式化、多語言市場分割等挑戰，也讓印度微短劇市場的可持續增長面臨考驗。（環球網）
-
----
-
-### 2026-09-29 08:07:03  #公司 #國際
-
-【科濟藥業：CT1190B中國I期試驗完成首例輸注】科濟藥業公告，靶向CD19/CD20的通用型CAR-T細胞產品CT1190B用於治療至少二線標準治療失敗的復發╱難治性大B細胞淋巴瘤患者，其在中國進行的I期註冊臨床試驗已完成首例患者輸注；其IIT研究結果已在2026年歐洲血液學協會(EHA)年會上進行壁報展示。
-
----
-
-### 2026-09-29 08:06:53  #市場
-
-澳大利亞S&P/ASX 200指數早盤上漲0.1%，報8,688.30點。
-
----
-
-### 2026-09-29 08:06:32  #公司
-
-Anthropic的IPO計劃包括設立新的創始人有限責任公司，以保持對其“低自我（Low-Ego）、求真（Truth-seeking） 環境”的控制權。
-
----
-
-### 2026-09-29 08:05:33  #國際
-
-【中方強調和平與發展對於反種族歧視的重要性】中國常駐聯合國代表傅聰28日在聯大紀念《德班宣言和行動綱領》透過25週年高階別會議上發言，強調和平與發展對於反種族歧視事業的重要性。傅聰說，25年前，《德班宣言和行動綱領》確立了消除一切形式種族主義的崇高目標。著眼未來，要恪守《德班宣言和行動綱領》精神，凝聚強大合力，攜手建設一個人人平等的世界。傅聰指出，生存和生命安全是享有一切人權的基礎。要遵守《聯合國憲章》宗旨和原則，堅持用和平方式解決國際爭端和熱點問題，預防和打擊衝突中基於種族或宗教的暴力與仇恨犯罪。彌合發展鴻溝是剷除種族主義滋生土壤的關鍵。要加快落實2030年議程，減少國家內部和國家之間發展不平等，保障少數族裔公平享有發展機遇和成果，促進社會正義和包容性增長。
-
----
-
-### 2026-09-29 08:05:17  #公司
-
-【A股股票回購一覽：36家公司披露回購進展】Wind資料顯示，9月29日，36家公司共釋出37個股票回購相關進展。其中，8家公司首次披露股票回購預案，5家公司回購方案獲股東大會透過，15家公司披露股票回購實施進展，8家公司回購方案已實施完畢。
-
----
-
-### 2026-09-29 08:05:14  #公司 #市場
-
-【A股限售股解禁一覽：350.99億元市值限售股今日解禁】Wind資料顯示，週二（9月29日），共有12家公司限售股解禁，合計解禁量為63.01億股，按最新收盤價計算，合計解禁市值為350.99億元。
-
----
-
-### 2026-09-29 08:04:32  #市場 #觀點
-
-【中信證券：美妝禮品、醫美新品、珠寶旺季，關注假期場景消費品類格局變化】中信證券指出，2026年中秋國慶假期特徵具備“請3休13”長假條件，或推動出遊需求旺盛，總體或導致需求從居住地轉向出行目的地、商品型消費進一步轉向服務型消費。隨著國貨美妝大單品的建立，美妝品類逐步進入以食品、酒類為主的禮品賽道，關注發力禮品營銷的美妝品牌；長假有望催化醫美機構端景氣度延續，產品端新品迭出，關注動銷旺季的新品驗證；珠寶賽道需關注海內外黃金價差及總體動銷，同時不可忽視婚慶需求壓力。
-
----
-
-### 2026-09-29 08:04:17  #公司 #市場
-
-【羅博特科等四家公司週二登陸港交所 香港新股市場迎來繁忙的一天】羅博特科等四家公司週二將登陸港交所，合計募資144億港元（18億美元），今年火熱的香港新股市場將迎來最繁忙的上市日之一。羅博特科香港上市募資6.6億美元，在這四家公司中募資額最大。該公司在深圳上市的A股今年以來已上漲逾一倍。這家光伏及矽光領域自動化裝置生產商此次香港上市引入淡馬錫、晟天實業和易方達等基石投資者。資料顯示，第三季度香港IPO、配股和大宗交易合計募資455億美元，創同期紀錄，僅略低於2021年創下的476億美元歷史單季最高水平。另外三家公司中，印製電路板製造商景旺電子募資6.5億美元，電子化學品生產商彤程新材融資3.82億美元，機器人技術公司本末科技募資1.38億美元。凱基證券運營的交易平臺顯示，在週一晚間暗盤交易，羅博特科較發行價下跌約2%。景旺電子下跌約7%，彤程新材下跌約17%，本末科技上漲約5%。
-
----
-
-### 2026-09-29 08:04:01  #市場
-
-布倫特原油日內漲1%，現報98.84美元/桶。
-
----
-
-### 2026-09-29 08:03:26  #國際
-
-【特朗普否認有關其願意有條件解除對伊制裁的報道】美國總統特朗普28日在社交媒體發文，否認美國媒體有關其願意以解除對伊朗制裁並解凍資金換取伊朗在核問題上讓步的報道。 當天早些時候，美國阿克西奧斯新聞網站援引一名匿名美國官員的話報道，特朗普願意在伊朗就核問題採取實質性步驟的前提下，解除對伊制裁並解凍伊朗被凍結資金。該官員同時強調，除非伊朗核問題得到解決，否則美國不會與伊朗達成協議，並稱雙方“在履行承諾的時間節點以及誰先採取行動等問題上”仍存在分歧。(新華社)
-
----
-
-### 2026-09-29 08:03:03  #觀點 #國際
-
-【華泰證券：醫美產業鏈格局重塑，關注結構性機遇】華泰證券認為以下因素正持續推動“醫美平權”時代：上游產品持續擴容、中游平臺加速市場教育、下游龍頭機構推進整合。這一趨勢下，行業增量在於“以價換量”：我國醫美使用者數量及消費頻次仍有望繼續提升（畢馬威預計2025年我國/韓國每千人接受醫美人數分別為32/161人），但存量紅海市場產品價格有下行壓力、差異化新品更易突圍。下游，龍頭機構憑藉品牌、供應鏈及標準化運營能力有望實現份額提升、利潤率最佳化；上游，管線佈局全面/渠道能力強/出海佈局領先的企業或更具韌性。
-
----
-
-### 2026-09-29 08:03:00  #公司 #市場
-
-【紐西蘭將債券發行計劃縮減至五年內發行1340億紐西蘭元】根據週二公佈的檔案顯示，紐西蘭已將其截至 2031 年 6 月的五年期債券發行計劃縮減至 1340 億紐西蘭元。此前曾設想過一項為期五年（截至2030年6月）的借款計劃，金額為1590億紐西蘭元。目前預計2026-2027財年債券發行量為300億紐西蘭元，較5月份的預測減少40億紐西蘭元。目前預計2027-2028財年債券發行規模為280億紐西蘭元，比原計劃減少40億紐西蘭元。目前預計2028-2029財年債券發行額為260億紐西蘭元，比原計劃減少40億紐西蘭元。目前預計2029-30財年債券發行規模為250億紐西蘭元，比原計劃減少30億紐西蘭元。2030-31年新增250億紐西蘭元債券發行。預計到2030年6月，紐西蘭國債未償餘額將達到2446億紐西蘭元，此前預計為2593億紐西蘭元。紐西蘭債務管理公司預計將在截至2027年6月的六個月內，利用現有2034年到期綠色債券的銀團貸款進行融資。
-
----
-
-### 2026-09-29 08:02:55  #公司 #市場
-
-【德祥新雲算力：收購人工智慧算力服務公司80%股權】德祥新雲算力公告，2026年9月28日（交易時段後），公司間接全資附屬公司與賣方及目標公司訂立協議，以現金8361.6萬元收購目標公司80%股權。目標公司已接收26臺高效能伺服器，並訂立兩份合約服務費總額6.49億元（含稅）的算力排程服務合約；首份合約服務交付及收款已開始，第二份合約按金已收取。
-
----
-
-### 2026-09-29 08:01:55  #國際
-
-【和黃醫藥：提交EGFR突變肺癌的美國新藥上市申請】和黃醫藥宣佈提交沃瑞沙 (ORPATHYS) 聯合泰瑞沙 (TAGRISSO) 用於治療MET驅動的EGFR突變肺癌的美國新藥上市申請。
-
----
-
-### 2026-09-29 08:01:19  #MKT News
-
-New Zealand Debt Management Office projects NZD 30 billion of bond issuance in fiscal 2026/27, down from a pre-election updated forecast of NZD 34 billion.
-
----
-
-### 2026-09-29 08:01:13  #MKT News
-
-South Korea's KOSPI opened down 53.91 points, or 0.78%, at 6,835.83 on Sept 29 (Tuesday).
-
----
-
-### 2026-09-29 08:01:08  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 opened down 178.29 points, or 0.27%, at 65,699.33 points on Tuesday, Sept. 29.
-
----
-
-### 2026-09-29 08:00:41  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤下跌0.7%，至6844.41點。
-
----
-
-### 2026-09-29 08:00:34  #其他
-
-紐西蘭預計2026-27財年預算赤字將達到68億紐西蘭元。
-
----
-
-### 2026-09-29 08:00:23  #市場
-
-日經225指數上午開盤報65557.99點，跌幅0.49%。
-
----
-
-### 2026-09-29 07:59:10  #其他
-
-【第33屆中國電視金鷹獎各大獎項今晚揭曉 多部總檯精品大劇入圍】昨天（28日），第16屆中國金鷹電視藝術節核心活動之一——第33屆中國電視金鷹獎提名錶彰頒授典禮在湖南長沙舉行。本屆金鷹獎評選工作於今年3月啟動，共有719部作品參評，涵蓋電視劇、電視紀錄片、電視綜藝（文藝）節目、電視動畫片四大品類，經過層層初審、複審、終評，最終遴選出數十部優秀提名作品及眾多優秀主創人員，全面展現近年來中國電視文藝創作的豐碩成果。（央視）
-
----
-
-### 2026-09-29 07:58:36  #公司
-
-生物製藥公司 CSL 表示，它正在與亞馬遜網路服務（Amazon Web Services）合作，以推進生物製藥研發，利用人工智慧和雲端計算技術支援其研究和臨床開發。
-
----
-
-### 2026-09-29 07:56:39  #公司 #國際
-
-【浦項制鐵尋求韓國政府批准核電投資計劃】據報道，鋼鐵企業浦項制鐵擬向韓國政府申請，允許民營企業投資核電站，以獲取成本更低、穩定性更強的電力。浦項制鐵計劃在10月7日由總統李在明主持的綠色轉型會議上提交相關提案。浦項制鐵已於週一和三星電子高管探討民營資本參與核電投資的可能性。浦項制鐵正與政府磋商，考慮和國營核電運營商韓國水電與核電公司成立合資企業。浦項制鐵將出資參與核電站建設，以此換取長期供電協議下的低價電力。
-
----
-
-### 2026-09-29 07:54:43  #其他
-
-【貴州龍里一交通事故致7死】記者從貴州相關部門獲悉，29日1時30分許，貴州省黔南州龍里縣龍山鎮境內發生一起交通事故，一輛實載7人的小轎車與半掛車發生交通事故，造成小轎車上7人死亡。目前，事故原因正在調查中。（新華社）
-
----
-
-### 2026-09-29 07:54:25  #公司 #觀點
-
-【皖能資本投資企業中科離子完成首輪市場化融資】據皖能集團訊息，近日，聚變技術成果轉化企業中科離子順利完成總額近6億元的首輪市場化股權融資。本輪由皖能資本聯合招銀國際、前海方舟、中信建投資本、中芯聚源、華安嘉業等多家知名投資機構共同投資。
-
----
-
-### 2026-09-29 07:54:02  #國際
-
-【韓國總統李在明：農林牧漁業是安保戰略產業 將加大FTA受損補償】韓國總統李在明就FTA（自由貿易協定，如CPTPP）引發的農林牧漁民反彈發文，強調農林牧漁業是國家安保戰略產業，國民無需擔心。針對過去FTA締結時承諾設立的1萬億韓元受損補償基金（因屬自願籌集，至今未滿3000億韓元）導致政府信任度下降的問題，李在明宣佈政府將首先動用政府財政填補該基金，以恢復國民信任。 韓國作為依賴貿易的開放型通商國家，為擴大出口市場，推進FTA不可或缺。李在明提出“獲利方補償受損方”機制： 李在明指出，FTA帶來的利益與損害衝突可透過調整解決。
-
----
-
-### 2026-09-29 07:53:26  #其他
-
-【經濟日報金觀平：協同助企紓困講究快準穩】今年9部門聯合開展助力小微經營主體發展“春雨潤苗”專項行動以來，截至7月底，已聯合響應各類小微經營主體稅費訴求2.94萬餘條，累計建立協作機制127個，共享資料9.74億條。相比去年，今年專項行動協同助企部門更多、覆蓋更廣、合力更強，“企業有事一起辦、馬上辦”從共識走向共為。
-
----
-
-### 2026-09-29 07:53:15  #公司 #觀點
-
-【中金：電子布需求景氣，國產裝置迎擴容視窗】中金公司研報表示，2026年AI算力共振，助推特種電子布擴產週期。織布機等作為產業二階導，2026年三季度市場關注度顯著提升。一方面，國產織布機裝置逐步小批次驗證；另一方面，海外特種電子布龍頭盈利能力超預期，強化產業資本開支意願。建議重點關注2026年下半年—2027年國產電子布織布機效能提升和訂單兌現。
-
----
-
-### 2026-09-29 07:52:43  #公司
-
-【Anthropic與英偉達就智慧體安全問題展開合作】當地時間9月28日，英偉達宣佈已與Anthropic展開合作，共同為智慧體技術棧增加安全與控制層。其中，Claude Managed Agents透過將智慧體迴圈與執行工作的沙箱分離至不同伺服器，建立安全邊界。其與OpenShell和BlueField的整合，使企業能夠透過沙箱對智慧體訪問實施嚴格控制。Notion、Rakuten 和Asana等公司已率先在生產環境中使用Claude Managed Agents。
-
----
-
-### 2026-09-29 07:52:31  #市場
-
-【英偉達推出開放式代理安全平臺】當地時間9月28日，英偉達宣佈推出NVIDIA Open Agent Safety Platform，這是一個開放軟體平臺及參考系統設計，旨在從智慧體測試到部署全流程增強AI安全，並對執行智慧體的軟體、硬體、計算及機器人系統實現全棧治理與控制。該平臺包括NVIDIA OpenShell安全執行時軟體，可為在CPU上執行的智慧體設定可強制執行邊界。OpenShell現已廣泛可用，並在首款專為智慧體AI打造的NVIDIA Vera CPU上以極低開銷執行。作為開源軟體，OpenShell還可擴充套件至Arm、Intel等第三方計算平臺。參考系統設計包含NVIDIA Sentry。這是一個執行在NVIDIA BlueField-4 DPU上的帶外監控程式，可持續監控智慧體行為，並在晶片內獨立執行安全策略。若智慧體試圖越出軟體邊界，Sentry可在毫秒內將其隔離並停止。
-
----
-
-### 2026-09-29 07:52:22  #公司 #國際
-
-【歌禮制藥：自主研發的口服小分子IL-17A抑制劑ASC50臨床研究取得積極結果】歌禮制藥-B公告，公司自主研發的口服小分子IL-17A抑制劑ASC50在美國輕度至中度斑塊狀銀屑病患者中開展的28天概念驗證臨床研究取得積極結果。每日一次200毫克治療後，經安慰劑校正的PASI評分降幅達到48.9%，末次給藥後第15天增至65.9%；穩態消除半衰期為6.5天，有望支援每週一次口服給藥。治療安全且耐受性良好。
-
----
-
-### 2026-09-29 07:51:48  #公司
-
-【銀輪股份：發電機尾氣排放處理系統專案預計在2026年末形成交付能力】銀輪股份9月29日在互動平臺表示，發電機尾氣排放處理系統專案，正在按照計劃節奏推進，目前首臺產品已經下線開展驗證，預計在2026年末形成交付能力。
-
----
-
-### 2026-09-29 07:48:01  #市場 #國際
-
-5年期日本國債收益率上漲1.0個基點，至3.095%。
-
----
-
-### 2026-09-29 07:47:53  #市場 #觀點
-
-【中信建投：利潤內生動力仍將集中於新動能領域】中信建投指出，2026年1—8月，工業企業實現利潤同比增長15.7%；8月當月利潤同比增長4.2%，主要受去年同期高基數擾動，但當月毛利潤同比增長7.5%、較上月加快1.9個百分點，盈利質量並未隨總量走弱。結構上，電子行業利潤同比增長1.1倍，對全部規上工業利潤增長的貢獻率超六成，景氣沿算力鏈條向PCB、光纜、電子專用材料等環節擴散；高技術製造業利潤增長54.7%，逆勢加快。原材料製造業受國際大宗價格支撐增長47.3%。往後看，利潤內生動力仍將集中於新動能領域，供強需弱格局下總量彈性有限。對利率債而言，當前基本面組合中性偏多；權益端建議關注盈利高增估值相對低位的板塊。
 
 ---

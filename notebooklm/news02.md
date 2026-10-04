@@ -1,7 +1,260 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-10-05 03:09:03_
-_本檔包含 2485 則快訊，約 428158 字_
+_更新時間：2026-10-05 05:51:38_
+_本檔包含 2482 則快訊，約 428574 字_
+
+---
+
+### 2026-10-02 07:18:31  #央行 #國際
+
+美聯儲官員洛根：通貨膨脹率正在下降，但尚未降至2%。
+
+---
+
+### 2026-10-02 07:18:14  #市場 #央行 #國際
+
+美聯儲官員洛根：隨著經濟增長走強，勞動力市場趨於平衡。
+
+---
+
+### 2026-10-02 07:17:59  #市場 #央行 #國際
+
+美聯儲官員洛根：定期壽險保費上漲可能有助於減緩經濟增速。
+
+---
+
+### 2026-10-02 07:17:47  #央行 #焦點 #國際
+
+美聯儲官員洛根：政策立場一直偏離正軌，聯邦公開市場委員會應該加息，目標至少為加50個基點。
+
+---
+
+### 2026-10-02 07:16:11  #Trading Economics #Economy #South Korea #Inflation Rate #Importance 2
+
+South Korea Inflation Rate Slows in September — South Korea’s annual inflation rate slowed to 2.9% in September 2026 from 3.1% in August, in line with market expectations but remained above the central bank’s 2% target. The slowdown was largely driven by softer price growth for alcohol and tobacco (0.1% vs 0.4%), communication (2.0% vs 16.6%), and other goods and services (4.1% vs 4.4%). On the other hand, prices accelerated for household goods and services (3.0% vs 2.9%), transport (7.7% vs 7.2%), and recreation and culture (5.8% vs 4.9%). Costs also increased for food and non-alcoholic beverages (1.0% vs -0.5%), health (1.6% vs 1.4%), and education (1.6% vs 1.3%), while inflation remained unchanged for clothing and footwear (2.8%), housing, water, electricity and fuel (1.9%), and restaurants and hotels (2.8%). Meanwhile, core inflation, excluding food and energy, eased to 2.8% from 3.4% in August. On a monthly basis, consumer prices rose 0.3%, marking the fastest rise since May and accelerating from 0.2% in August.
+
+---
+
+### 2026-10-02 07:14:36  #國際
+
+【特朗普給自己第二任期表現打分：所有方面都是“A+”】美國總統唐納德・特朗普給自己的第二任期的表現打出了“A+”的高分，儘管民調顯示他的支援率已接近歷史低位，而且由於民眾不滿其經濟治理表現，共和黨似乎很可能在中期選舉中丟掉眾議院控制權，參議院席位也難保。 特朗普週四在從白宮動身前往德克薩斯州前表示：“在政府工作、經濟層面，所有方面，我都給我們打A+。” 他此項將到訪彼得比爾特汽車公司（Peterbilt Motors），為自己政府的政績造勢宣傳。
+
+---
+
+### 2026-10-02 07:14:28  #其他
+
+SpaceX：載人飛船與國際空間站對接。
+
+---
+
+### 2026-10-02 07:10:10  #市場 #央行 #國際
+
+【韓國9月通脹保持高位 料支援韓國央行維持緊縮傾向】韓國9月通脹保持高位，顯示物價壓力持續，料支援韓國央行維持貨幣政策緊縮傾向。韓國政府週五公佈的資料顯示，9月消費者價格同比上漲2.9%，低於8月的3.1%，與經濟學家的預估中值一致。剔除波動較大的食品和能源價格後，核心通脹率為2.8%，低於8月的3.4%，也與預期一致。這表明，除了能源成本高企的影響之外，核心通脹壓力仍然較高。韓國央行7月和8月連續加息，基準利率上調至3%。最新通脹資料可能進一步強化其緊縮傾向。決策者此前警告稱，經濟增長強勁、通脹居高不下以及房價上漲，可能需要進一步提高利率。
+
+---
+
+### 2026-10-02 07:09:31  #公司
+
+【麥當勞荃灣的鋪位以1.2億港元賣出 39年內升值14倍】據報道，麥當勞以1.2億港元(約1530萬美元)的價格出售了位於香港荃灣的一家門市。 報道指出，這處面積12,251平方英尺的物業在39年內升值14倍，每平方英尺的價格接近10,000港元。這家門市於1978年開業，是麥當勞在香港新界的首家分店，麥當勞於1987年以800萬港元購入該鋪位。
+
+---
+
+### 2026-10-02 07:06:28  #公司 #國際
+
+【美國SEC擬放寬規則，允許更多投資公司託管加密資產】美國證券交易委員會（SEC）提議允許更多公司代表客戶持有數字資產。根據10月1日釋出的提案，若投資經理認定沒有其他合格託管人可用，將獲准持有客戶的加密資產。根據該提案，州立信託公司也可提供託管服務。這份長達760頁的提案旨在彌補新型加密證券快速發展與願意並能夠代表客戶持有這些資產的合格託管人之間的缺口。現行規則規定，只有合格託管人（通常為銀行或經紀商）才能持有客戶資產。SEC主席保羅·阿特金斯（Paul Atkins）在一份宣告中表示：“對於新出現的加密資產，託管能力可能比資產上線晚數月。”
+
+---
+
+### 2026-10-02 07:05:04  #央行 #國際
+
+【印尼央行行長：外匯捍衛力度不變，策略已調整】印尼央行新任行長表示，儘管減少成本高昂的即期市場干預、更多使用衍生品，但捍衛印尼盾的力度保持不變。 印尼央行正多元化外匯干預手段，即期交易目前僅佔全部干預規模的約30%，其餘操作在無本金交割遠期市場開展。 印尼央行貨幣政策以穩定為核心，力求以相對可控的成本維持投資者可得的利差水平；同時，鑑於經濟產能尚未充分釋放，央行也兼顧經濟增長。
+
+---
+
+### 2026-10-02 07:04:55  #市場 #焦點
+
+紐約期金突破4210美元/盎司，日內漲0.17%。
+
+---
+
+### 2026-10-02 07:04:14  #市場 #焦點
+
+現貨黃金突破4180美元/盎司，日內漲0.04%。
+
+---
+
+### 2026-10-02 07:00:13  #資料 #國際
+
+韓國9月CPI年率 2.9%，預期2.9%，前值3.10%。
+韓國9月CPI月率 0.3%，預期0.4%，前值0.20%。
+
+---
+
+### 2026-10-02 07:00:06  #MKT News
+
+South Korea September CPI YoY 2.9%, in line with 2.9% expected; August 3.1%.
+
+---
+
+### 2026-10-02 07:00:05  #MKT News
+
+South Korea September CPI MoM 0.3% (est 0.4%; prior 0.20%).
+
+---
+
+### 2026-10-02 07:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | CPI (MoM) (Sep) | actual 0.3% | consensus 0.4% | previous 0.20%
+
+---
+
+### 2026-10-02 07:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | CPI (YoY) (Sep) | actual 2.9% | consensus 2.9% | previous 3.10%
+
+---
+
+### 2026-10-02 06:59:51  #其他
+
+民調顯示，塔拉里科在得克薩斯州對帕克斯頓保持微弱優勢：。
+
+---
+
+### 2026-10-02 06:58:41  #其他
+
+資料中心運營商Firmus Grid計劃在本月進行的澳大利亞IPO中尋求437億澳元（約303億美元）估值，發行價定為每股11澳元。
+
+---
+
+### 2026-10-02 06:58:17  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Putin: Russian forces controlled 1,301 sq km in special military operation zone in September】On Oct 1 at the Valdai International Discussion Club annual meeting, Putin said Russia’s offensive is intensifying and Russian forces gained control of 1,301 sq km in the special military operation zone in September. He said Kyiv’s neutrality remains a Russian objective and Moscow wants to end the conflict quickly and is willing to negotiate on the basis of national interests; he accused Kyiv of halting talks and said Ukraine has no intention of stopping military operations.
+
+---
+
+### 2026-10-02 06:58:15  #國際
+
+【普京：俄軍9月在特別軍事行動區域控制1301平方公里地區】當地時間10月1日，俄羅斯總統普京在瓦爾代國際辯論俱樂部年會上就特別軍事行動表示，俄軍的攻勢在加強，9月在特別軍事行動區域內控制了1301平方公里的地區。普京表示，使烏克蘭具有中立地位依然是俄方的目標之一。俄方希望儘快結束烏克蘭衝突，願基於國家利益開展和平談判。但中斷談判的是烏方，烏方並沒有停止軍事行動的意願。（央視新聞）
+
+---
+
+### 2026-10-02 06:58:01  #市場 #觀點 #國際
+
+【花旗：歐元短期存在跌至1.0850美元的風險】花旗分析師警告稱，雖然他們沒有改變對歐元的預測，但歐元跌破公允價值的風險上升，可能最低跌至1.0850美元。“作為背景，我們對歐元/美元0-3個月的預測為1.1350，這主要基於中期經濟增長和利差，”分析師Daniel Tobon、Brian Levine和Osamu Takashima寫道。“現在匯率明顯跌破這一水平，我們認為存在下行風險，短期內可能進一步跌至1.0850。”他們指出：“但這並非預測調整，而是反映出如果相對利率保持不變，而外圍歐債利差擴大、歐洲銀行業持續拋售，歐元兌美元可能在多大程度上跌破公允價值。”他們表示：“我們認為週五公佈的非農就業資料不太可能成為重要影響因素。”
+
+---
+
+### 2026-10-02 06:58:01  #MKT News
+
+【Firmus Grid targets A$5.0bn IPO at A$43.7bn valuation】Data‑centre operator Firmus Grid is targeting an IPO that would raise A$5.0bn at A$11 per share and value the company at A$43.7bn (~US$30.3bn), the Australian Financial Review reports. Underwriters say they have received indications sufficient to cover A$5.0bn at A$11 and the deal may be upsized by a further A$500m. The ASX listing is set for Oct. 23; the institutional bookbuild opens Tuesday and closes Friday. The float would be among Australia’s largest IPOs, comparable to Medibank’s 2014 raise, and comes as YTD primary-market fundraising in Australia is roughly A$1bn versus >A$2bn in each of the past two years.
+
+---
+
+### 2026-10-02 06:57:39  #央行 #國際
+
+【10月2日隔夜要聞一覽】
+1、美國總統特朗普表示，11月中期選舉後加大對伊朗軍事打擊是“有可能”的。
+2、據一名美國官員透露，美國國防部可能向波斯灣增派一艘航母以及1萬名水兵和海軍陸戰隊員，為特朗普決定升級對伊朗的軍事行動提供更多選項。
+3、知情人士稱，人工智慧模型開發商Anthropic尋求最快11月中旬進行首次公開募股（IPO）。
+4、美聯儲副主席菲利普·傑斐遜表示，決策者可能需要更多時間，才能判斷是否有必要進一步加息以遏制通脹。
+5、美聯儲理事麗莎·庫克表示，供應衝擊變得更加突出，其影響“意外持久”，這在考驗美聯儲選擇忽略這類衝擊的傳統做法。
+6、美聯儲卡什卡利表示，他不知道利率最終需要升到多高才能給價格降溫，在經歷了持續五年的供應衝擊後，把通脹壓下來是美聯儲的職責。
+7、知情人士稱，伊朗外交部長在私下會談中表示，伊朗願意讓核查人員進入遭到轟炸的核設施，以換取減輕制裁。
+8、英偉達和軟銀已分別完成對OpenAI上一輪融資最後一筆100億美元投資，完成各自300億美元的投資承諾。
+
+---
+
+### 2026-10-02 06:57:38  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+New Zealand Stocks Set for Weekly Fall — The NZX 50 dropped 16 points, or 0.1%, to 13,794 in Friday morning trade, extending losses from the previous session, mainly weighed down by the real estate, communication services, and tech sectors. Rising oil prices pressured sentiment, raising concerns over inflation expectations and interest rate hikes, after a report that the US deployed more forces to the Middle East. Caution also prevailed as traders awaited US jobs data after the closing bell for clues about the Fed's monetary policy decision at its upcoming meeting. However, an upbeat session on Wall Street overnight capped the fall as the Treasury selloff eased. On the data front, New Zealand's consumer confidence edged down in September but remained above its April low. Among early losers were FC Investment (-1.0%), Westpac Banking Corp. (-0.9%), Infratil (-0.9%), and Briscoe Group (-0.7%). For the week, the index is heading for a 0.1% fall, which would be its first weekly decline in three weeks.
+
+---
+
+### 2026-10-02 06:56:55  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、多國人士盛讚中國發展成就 期待深化對華合作
+2、“東盟同中國經貿關係將更加緊密”——訪東盟秘書長高金洪
+3、雲南大理白族自治州打造特色文旅品牌 蒼洱之間 活力湧現（培育更多“中國服務”品牌）
+4、新場景啟用發展新動能。
+
+---
+
+### 2026-10-02 06:56:44  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、神州共歡歌 同心賀華誕
+2、堅定信心、錨定目標，一步一步紮實往前走——論學習貫徹習近平總書記在慶祝中華人民共和國成立77週年招待會上重要講話
+3、朝著全面建成社會主義現代化強國目標奮勇前進——習近平總書記在慶祝中華人民共和國成立77週年招待會上的重要講話激勵億萬人民踔厲奮發、勇毅前行
+4、貴州遵義著力發展數字經濟 從“紅色電波”到數智之城（賡續長征精神 奮進復興征程）
+5、從9月4場展會看“中國機遇2.0”
+6、國慶假期首日 全社會跨區域人員流動量預計超3.3億人次。
+
+---
+
+### 2026-10-02 06:56:35  #國際
+
+美國國家航空航天局SpaceX載人 13 號飛船艙與國際空間站完成對接。
+
+---
+
+### 2026-10-02 06:56:21  #其他
+
+KeyBanc 將愛彼迎評級上調至增持，目標價 191 美元。
+
+---
+
+### 2026-10-02 06:54:13  #MKT News #Macro & Rates #US Economy
+
+The U.S. Office of Management and Budget released the 2027 schedule for federal economic indicator releases.
+
+---
+
+### 2026-10-02 06:53:41  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+【Saudi-led coalition says it intercepted Houthi missiles, drones】Saudi-led coalition spokesman Turki al-Maliki said on social media on the 1st that coalition forces intercepted and destroyed two ballistic missiles and four UAVs launched by Yemen's Houthi movement toward southwest Saudi cities Khamis Mushait and Jazan.
+
+---
+
+### 2026-10-02 06:52:52  #其他
+
+【沙特主導聯軍稱攔截葉門胡塞武裝導彈和無人機】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基1日在社交媒體上說，多國聯軍當天攔截並摧毀葉門胡塞武裝向沙特西南部城市海米斯穆謝特和賈贊發射的兩枚彈道導彈，以及其向海米斯穆謝特發射的4架無人機。馬利基還說，聯軍正持續採取作戰措施，以威懾葉門胡塞武裝。沙特民防總局當天發表宣告說，海米斯穆謝特民防部門處置了一起胡塞武裝彈道導彈被攔截後碎片墜落居民區的事件，墜落碎片造成多棟建築和一些車輛受損。另據馬利基當天在社交媒體發表的宣告，胡塞武裝9月29日使用無人機襲擊沙特麥地那的一處配電站，導致一臺變壓器停止執行，但未影響電網執行。宣告說，有關部門的調查結果及無人機殘骸等證據顯示胡塞武裝策劃並實施了此次襲擊。（新華社）
+
+---
+
+### 2026-10-02 06:52:20  #國際
+
+美國行政管理和預算局釋出 2027 年聯邦經濟指標公佈時間表。
+
+---
+
+### 2026-10-02 06:51:17  #國際
+
+市場訊息：以色列正在對加沙城以東“黃線”以內多個地區發動空襲。
+
+---
+
+### 2026-10-02 06:51:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Market sources: Israel is conducting air strikes on multiple areas within the "yellow line" east of Gaza City.
+
+---
+
+### 2026-10-02 06:47:33  #其他
+
+雪佛龍：該煉油廠發生機械故障，導致廠區安全火炬間歇性啟用。
+
+---
+
+### 2026-10-02 06:45:03  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps adviser Negdi said the US, after years deployed in Iraq and paying a heavy price, was ultimately forced to withdraw, and these developments show US power is not as strong as it claims.
+
+---
+
+### 2026-10-02 06:45:02  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Rises by 1.34% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.34% increase.
 
 ---
 
@@ -14760,257 +15013,5 @@ Saudi Press Agency reports government total spending in 2027 is expected to be 1
 ### 2026-10-01 00:07:26  #國際
 
 伊朗最高國家安全委員會秘書雷扎伊警告阿聯酋不要接待以色列總理內塔尼亞胡，聲稱此舉將帶來後果。
-
----
-
-### 2026-10-01 00:07:17  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.27% Lower — The FTSE 100 Index fell 29 points or 0.27 percent on Wednesday to close at 10608 points. Leading the losses are Airtel Africa (-3.34%), Barratt Redrow (-2.57%) and BT (-2.09%). Top gainers were Antofagasta (3.18%), Reckitt Benckiser (3.13%) and SSE (1.97%).
-
----
-
-### 2026-10-01 00:05:44  #國際
-
-【歐洲航空安全域性就沙特空域釋出安全建議】歐洲航空安全域性9月30日表示，鑑於葉門胡塞武裝近期擴大對沙烏地阿拉伯目標的襲擊，相關空域的民航安全風險上升，建議航空運營商不要在其劃定的沙特部分空域的任何高度飛行。歐洲航空安全域性在當天釋出的一份資訊通報中說，9月以來，胡塞武裝對沙特海上、能源和基礎設施目標的襲擊頻率及範圍明顯加大。沙特南部和西南部空域因靠近胡塞武裝控制區，面臨的風險尤為突出。通報還說，導彈和無人機襲擊及防空系統啟動增加了民航飛機被誤判的風險，同時帶來攔截和殘骸墜落等風險。（新華社）
-
----
-
-### 2026-10-01 00:05:26  #其他
-
-對沖基金億萬富豪比爾·阿克曼：我們正在借鑑沃倫·巴菲特的經驗。
-
----
-
-### 2026-10-01 00:05:13  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Weighed by Inflation Concerns — The CAC 40 fell 0.9% to close at 7,964 on Wednesday amid a lack of progress in US-Iran negotiations. Oil and fuel prices rose amid concerns over energy-driven inflation, pressuring credit-sensitive stocks as expectations for more hawkish central-bank increased. France’s preliminary CPI data showed annual inflation up to 3% in September, its highest level since February 2024. Financials fell, with BNP Paribas down 2.5% and AXA losing 2.2%. Industrials were mostly lower, with Schneider Electric falling 1.5%, Thales down 0.9%, and Vinci shedding 1.4%. The pharmaceutical and chemical subsectors gained, with Sanofi up 1.6%, EssilorLuxottica rising 0.7%, and Air Liquide adding 1.2%. Meanwhile, household consumption of goods in France fell 0.5% in August, reversing a 0.4% increase in July and marking the first monthly decline since April. Luxury stocks posted losses, with LVMH and Hermes both down 1.2%. TotalEnergies lost 3.1% as investors took profits. On the month, the CAC 40 lost 5.2%.
-
----
-
-### 2026-10-01 00:04:28  #國際
-
-俄羅斯8月失業率為2.2%。
-
----
-
-### 2026-10-01 00:04:06  #市場 #國際
-
-美國農業部資料顯示美國玉米供應量超預期，玉米期貨價格下跌2.9%。
-
----
-
-### 2026-10-01 00:03:56  #MKT News #Macro & Rates
-
-Russia's Rosstat said retail sales rose 3.3% YoY in August, down from 5.3% in July and below market consensus of 5.6%.
-
----
-
-### 2026-10-01 00:03:38  #國際
-
-俄羅斯8月建築業同比增長2.7%。
-
----
-
-### 2026-10-01 00:03:25  #其他
-
-英國首相伯納姆：儘管財政狀況嚴峻，我們仍將竭盡所能。
-
----
-
-### 2026-10-01 00:03:22  #MKT News
-
-Rosstat said weekly consumer inflation was 0.12% in the week to Sept. 28, up from 0.06% in the prior week.
-
----
-
-### 2026-10-01 00:03:19  #國際
-
-俄羅斯聯邦統計局資料顯示，1月至7月俄羅斯企業利潤同比下降15.7%，至13.03萬億盧布。
-
----
-
-### 2026-10-01 00:02:54  #MKT News #Important
-
-USDA quarterly stocks: U.S. wheat stocks on Sept. 1, 2026 totaled 1.846 bln bushels, below the 1.872 bln market estimate and down from 2.12 bln a year earlier (revised to 2.134 bln).
-
----
-
-### 2026-10-01 00:02:49  #MKT News #Important
-
-USDA quarterly stocks report: as of Sept. 1, 2026 U.S. old-crop corn stocks 2.095 bln bushels vs 1.918 bln expected; year-ago 1.532 bln (revised to 1.551 bln).
-
----
-
-### 2026-10-01 00:02:45  #MKT News #Important
-
-USDA quarterly stocks report: U.S. old-crop soybean stocks as of Sept. 1, 2026 totaled 315 mln bushels, below the 324 mln bushels expected. Year-ago stocks were 316 mln bushels (revised to 325 mln).
-
----
-
-### 2026-10-01 00:02:34  #市場 #國際
-
-芝加哥期貨交易所玉米期貨<CV1>在美國農業部公佈美國玉米庫存高於預期後轉跌。
-
----
-
-### 2026-10-01 00:02:30  #MKT News #Market Regions #Emerging Markets
-
-Rosstat: Russia unemployment 2.2% in August vs 2.3% in July; market expected 2.2%.
-
----
-
-### 2026-10-01 00:02:07  #國際
-
-俄羅斯8月份貨物運輸量同比增長4.2%。
-
----
-
-### 2026-10-01 00:02:05  #MKT News
-
-Rosstat: Russia's real wages rose 3.3% YoY in July, versus market expectation of 2.4%.
-
----
-
-### 2026-10-01 00:01:54  #國際
-
-俄羅斯8月國內生產總值同比增長0.8%。
-
----
-
-### 2026-10-01 00:01:38  #MKT News #Market Regions #Emerging Markets
-
-Russia's Ministry of Economic Development reported GDP grew 0.8% year-on-year in August, up from 0.6% in July.
-
----
-
-### 2026-10-01 00:01:27  #國際
-
-俄羅斯聯邦統計局公佈資料：7月俄羅斯實際工資同比增長3.3%。
-
----
-
-### 2026-10-01 00:01:04  #國際
-
-英國首相伯納姆就費爾福德空軍基地事件表態：有強烈跡象表明伊朗參與了上週末發生的事件。
-
----
-
-### 2026-10-01 00:00:59  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-UK prime minister Burnham said there are strong indications Iran played a role in the weekend incident at RAF Fairford.
-
----
-
-### 2026-10-01 00:00:55  #國際
-
-俄羅斯統計局公佈：截至9月28日的一週，俄羅斯周度消費者通脹率為0.12%，前一週該資料為0.06%。
-
----
-
-### 2026-10-01 00:00:46  #國際
-
-俄羅斯國家統計局公佈：8月失業率為2.2%，前一個月失業率為2.3%。
-
----
-
-### 2026-10-01 00:00:22  #MKT News #Economic Calendar #Important
-
-United States | Quarterly Grain Stocks-Corn (Sep.1) | actual 2095000000B | consensus 1918000000B | previous 1532000000B
-
----
-
-### 2026-10-01 00:00:22  #MKT News #Economic Calendar #Important
-
-United States | Quarterly Grain Stocks-Soybeans (Sep.1) | actual 315000000B | consensus 324000000B | previous 316000000B
-
----
-
-### 2026-10-01 00:00:22  #MKT News #Economic Calendar #Important
-
-United States | Quarterly Grain Stocks-Wheat (Sep.1) | actual 1846000000B | consensus 1872000000B | previous 2120000000B
-
----
-
-### 2026-10-01 00:00:14  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Closes Sharply Lower — The FTSE MIB fell 0.8% to 51,372 on Wednesday, weighed down by heavyweight financials and ongoing merger talks involving Milan’s banks. Monte dei Paschi fell 1.4% after urging investors to support its dual takeover offer for Generali-controlled (-1.8%) Banca Generali and Banco BPM (-2.1%), saying that keeping the plan alive would give him more options to maximize value for shareholders. Further weighing on lender demand, higher-than-expected inflation across major economies in the Eurozone have raised bets of a third ECB rate hike by year-end. Inflation in Italy remained at a three-year high. Intesa Sanpaolo, Unipol and UniCredit each fell more than 1%. Eni declined 1.1% after announcing that its low-carbon unit Plenitude would offer households a 30% discount on its standard fixed electricity and gas rates, with prices locked in for two years. Luxury stocks also weakened, with Ferrari and Brunello Cucinelli both falling more than 1.6%. Over the third quarter, the benchmark edged 0.8% l
-
----
-
-### 2026-10-01 00:00:06  #國際
-
-美國貿易代表格里爾：將在G20貿易部長會議上釋出"密爾沃基框架"。
-
----
-
-### 2026-09-30 23:59:57  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-Google (GOOG.O) imposes an immediate ban on fixed-quota gambling promotions in Brazil.
-
----
-
-### 2026-09-30 23:58:53  #公司
-
-谷歌：將撤銷巴西彩票和賽馬業務資質證書，需重新申請。
-
----
-
-### 2026-09-30 23:58:41  #公司
-
-谷歌：即刻起禁止在巴西推廣固定賠率博彩。
-
----
-
-### 2026-09-30 23:58:28  #其他
-
-嘉能可、博地能源和希尼考慮在委內瑞拉進行煤炭交易。
-
----
-
-### 2026-09-30 23:57:18  #國際
-
-【俄稱高度重視同偉大鄰邦中國合作】俄羅斯外交部發言人扎哈羅娃9月30日在例行記者會上表示，俄羅斯始終高度重視發展同偉大鄰邦中國的合作。她指出，如今中俄新時代全面戰略協作夥伴關係，已經達到前所未有的高水平，並繼續保持蓬勃發展勢頭。扎哈羅娃強調，兩國關係具有獨立自主的價值，不受一時政治形勢影響，也不針對任何第三方。（CCTV國際時訊）
-
----
-
-### 2026-09-30 23:56:03  #Trading Economics #Economy #Morocco #GDP Annual Growth Rate #Importance 0
-
-Morocco GDP Growth Stays Robust in Q2 — The economy of Morocco advanced by 4% year-on-year in Q2 2026, following growth of 4.6% in Q1 and 5.8% a year ago. The expansion was mainly driven by agricultural activity, which surged by 21.2%, while non-agricultural activities rose by 1.5%. Within the non-agricultural sector, the services sector grew by 4%, driven by strong performance in financial services and insurance (7.7%), education, human health and social work (6.4%); accommodation & food services (6.6%) and public administration and social security activities (6.4%). Conversely, the secondary sector contracted by 3.9%, reflecting sharp declines in extractive industries (-28.6%) and manufacturing (-3.2%), partly offset by growth in construction (2.8%) and utilities (1.9%).
-
----
-
-### 2026-09-30 23:54:23  #國際
-
-美國核管理委員會：羅賓遜2號反應堆功率由94%下調至93%。
-
----
-
-### 2026-09-30 23:53:53  #MKT News
-
-【SEC proposes easing private fund access for retail investors】The SEC on Wednesday proposed reforms to broaden individual investor access to private markets, enabling greater retail participation in private equity, early-stage startups and other alternatives. One proposal would allow registered investment advisers to charge performance fees of up to 20%, bringing fee structures closer to some hedge funds’ 2% management/20% performance model. The SEC also proposed widening the accredited investor definition to include more credentialed professionals, explicitly citing CPAs and CFAs. SEC Chair Paul Atkins said the commission aims to expand retail access while guarding against fraud and misconduct.
-
----
-
-### 2026-09-30 23:53:48  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-ECB President LAGARDE said if she were to leave the ECB early, it would be only by a few months.
-
----
-
-### 2026-09-30 23:53:17  #市場
-
-墨西哥主要股指跌幅擴大，當前下跌1.2%。
-
----
-
-### 2026-09-30 23:53:12  #央行 #國際
-
-歐洲央行行長拉加德：如果我提前卸任歐洲央行行長一職，也只會提前幾個月而已。
-
----
-
-### 2026-09-30 23:52:26  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Fall in September & Q3 — European equities ended September under pressure on Wednesday, as elevated global bond yields and persistent inflation concerns weighed on investor sentiment ahead of the final quarter. The STOXX 50 declined 0.8%, while the broader STOXX 600 fell 0.4%, with most sectors ending in negative territory. Banks weakened by around 0.5%, while energy and food & beverage stocks were among the biggest decliners, each losing 1.4%. Technology stocks bucked the broader trend, rising 2.5% to reach their highest level in a month and leading sector gains. The monthly performance was weaker overall, with both the STOXX 50 and STOXX 600 down more than 2% in September. For the STOXX 600, the decline ended a five-month run of monthly gains. Over the third quarter, both benchmarks fell 1%, marking a challenging period for European equities.
 
 ---

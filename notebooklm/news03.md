@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-10-05 03:09:03_
-_本檔包含 1923 則快訊，約 428585 字_
+_更新時間：2026-10-05 05:51:38_
+_本檔包含 1899 則快訊，約 428818 字_
+
+---
+
+### 2026-10-01 00:07:17  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.27% Lower — The FTSE 100 Index fell 29 points or 0.27 percent on Wednesday to close at 10608 points. Leading the losses are Airtel Africa (-3.34%), Barratt Redrow (-2.57%) and BT (-2.09%). Top gainers were Antofagasta (3.18%), Reckitt Benckiser (3.13%) and SSE (1.97%).
+
+---
+
+### 2026-10-01 00:05:44  #國際
+
+【歐洲航空安全域性就沙特空域釋出安全建議】歐洲航空安全域性9月30日表示，鑑於葉門胡塞武裝近期擴大對沙烏地阿拉伯目標的襲擊，相關空域的民航安全風險上升，建議航空運營商不要在其劃定的沙特部分空域的任何高度飛行。歐洲航空安全域性在當天釋出的一份資訊通報中說，9月以來，胡塞武裝對沙特海上、能源和基礎設施目標的襲擊頻率及範圍明顯加大。沙特南部和西南部空域因靠近胡塞武裝控制區，面臨的風險尤為突出。通報還說，導彈和無人機襲擊及防空系統啟動增加了民航飛機被誤判的風險，同時帶來攔截和殘骸墜落等風險。（新華社）
+
+---
+
+### 2026-10-01 00:05:26  #其他
+
+對沖基金億萬富豪比爾·阿克曼：我們正在借鑑沃倫·巴菲特的經驗。
+
+---
+
+### 2026-10-01 00:05:13  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Weighed by Inflation Concerns — The CAC 40 fell 0.9% to close at 7,964 on Wednesday amid a lack of progress in US-Iran negotiations. Oil and fuel prices rose amid concerns over energy-driven inflation, pressuring credit-sensitive stocks as expectations for more hawkish central-bank increased. France’s preliminary CPI data showed annual inflation up to 3% in September, its highest level since February 2024. Financials fell, with BNP Paribas down 2.5% and AXA losing 2.2%. Industrials were mostly lower, with Schneider Electric falling 1.5%, Thales down 0.9%, and Vinci shedding 1.4%. The pharmaceutical and chemical subsectors gained, with Sanofi up 1.6%, EssilorLuxottica rising 0.7%, and Air Liquide adding 1.2%. Meanwhile, household consumption of goods in France fell 0.5% in August, reversing a 0.4% increase in July and marking the first monthly decline since April. Luxury stocks posted losses, with LVMH and Hermes both down 1.2%. TotalEnergies lost 3.1% as investors took profits. On the month, the CAC 40 lost 5.2%.
+
+---
+
+### 2026-10-01 00:04:28  #國際
+
+俄羅斯8月失業率為2.2%。
+
+---
+
+### 2026-10-01 00:04:06  #市場 #國際
+
+美國農業部資料顯示美國玉米供應量超預期，玉米期貨價格下跌2.9%。
+
+---
+
+### 2026-10-01 00:03:56  #MKT News #Macro & Rates
+
+Russia's Rosstat said retail sales rose 3.3% YoY in August, down from 5.3% in July and below market consensus of 5.6%.
+
+---
+
+### 2026-10-01 00:03:38  #國際
+
+俄羅斯8月建築業同比增長2.7%。
+
+---
+
+### 2026-10-01 00:03:25  #其他
+
+英國首相伯納姆：儘管財政狀況嚴峻，我們仍將竭盡所能。
+
+---
+
+### 2026-10-01 00:03:22  #MKT News
+
+Rosstat said weekly consumer inflation was 0.12% in the week to Sept. 28, up from 0.06% in the prior week.
+
+---
+
+### 2026-10-01 00:03:19  #國際
+
+俄羅斯聯邦統計局資料顯示，1月至7月俄羅斯企業利潤同比下降15.7%，至13.03萬億盧布。
+
+---
+
+### 2026-10-01 00:02:54  #MKT News #Important
+
+USDA quarterly stocks: U.S. wheat stocks on Sept. 1, 2026 totaled 1.846 bln bushels, below the 1.872 bln market estimate and down from 2.12 bln a year earlier (revised to 2.134 bln).
+
+---
+
+### 2026-10-01 00:02:49  #MKT News #Important
+
+USDA quarterly stocks report: as of Sept. 1, 2026 U.S. old-crop corn stocks 2.095 bln bushels vs 1.918 bln expected; year-ago 1.532 bln (revised to 1.551 bln).
+
+---
+
+### 2026-10-01 00:02:45  #MKT News #Important
+
+USDA quarterly stocks report: U.S. old-crop soybean stocks as of Sept. 1, 2026 totaled 315 mln bushels, below the 324 mln bushels expected. Year-ago stocks were 316 mln bushels (revised to 325 mln).
+
+---
+
+### 2026-10-01 00:02:34  #市場 #國際
+
+芝加哥期貨交易所玉米期貨<CV1>在美國農業部公佈美國玉米庫存高於預期後轉跌。
+
+---
+
+### 2026-10-01 00:02:30  #MKT News #Market Regions #Emerging Markets
+
+Rosstat: Russia unemployment 2.2% in August vs 2.3% in July; market expected 2.2%.
+
+---
+
+### 2026-10-01 00:02:07  #國際
+
+俄羅斯8月份貨物運輸量同比增長4.2%。
+
+---
+
+### 2026-10-01 00:02:05  #MKT News
+
+Rosstat: Russia's real wages rose 3.3% YoY in July, versus market expectation of 2.4%.
+
+---
+
+### 2026-10-01 00:01:54  #國際
+
+俄羅斯8月國內生產總值同比增長0.8%。
+
+---
+
+### 2026-10-01 00:01:38  #MKT News #Market Regions #Emerging Markets
+
+Russia's Ministry of Economic Development reported GDP grew 0.8% year-on-year in August, up from 0.6% in July.
+
+---
+
+### 2026-10-01 00:01:27  #國際
+
+俄羅斯聯邦統計局公佈資料：7月俄羅斯實際工資同比增長3.3%。
+
+---
+
+### 2026-10-01 00:01:04  #國際
+
+英國首相伯納姆就費爾福德空軍基地事件表態：有強烈跡象表明伊朗參與了上週末發生的事件。
+
+---
+
+### 2026-10-01 00:00:59  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+UK prime minister Burnham said there are strong indications Iran played a role in the weekend incident at RAF Fairford.
+
+---
+
+### 2026-10-01 00:00:55  #國際
+
+俄羅斯統計局公佈：截至9月28日的一週，俄羅斯周度消費者通脹率為0.12%，前一週該資料為0.06%。
+
+---
+
+### 2026-10-01 00:00:46  #國際
+
+俄羅斯國家統計局公佈：8月失業率為2.2%，前一個月失業率為2.3%。
+
+---
+
+### 2026-10-01 00:00:22  #MKT News #Economic Calendar #Important
+
+United States | Quarterly Grain Stocks-Corn (Sep.1) | actual 2095000000B | consensus 1918000000B | previous 1532000000B
+
+---
+
+### 2026-10-01 00:00:22  #MKT News #Economic Calendar #Important
+
+United States | Quarterly Grain Stocks-Soybeans (Sep.1) | actual 315000000B | consensus 324000000B | previous 316000000B
+
+---
+
+### 2026-10-01 00:00:22  #MKT News #Economic Calendar #Important
+
+United States | Quarterly Grain Stocks-Wheat (Sep.1) | actual 1846000000B | consensus 1872000000B | previous 2120000000B
+
+---
+
+### 2026-10-01 00:00:14  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Closes Sharply Lower — The FTSE MIB fell 0.8% to 51,372 on Wednesday, weighed down by heavyweight financials and ongoing merger talks involving Milan’s banks. Monte dei Paschi fell 1.4% after urging investors to support its dual takeover offer for Generali-controlled (-1.8%) Banca Generali and Banco BPM (-2.1%), saying that keeping the plan alive would give him more options to maximize value for shareholders. Further weighing on lender demand, higher-than-expected inflation across major economies in the Eurozone have raised bets of a third ECB rate hike by year-end. Inflation in Italy remained at a three-year high. Intesa Sanpaolo, Unipol and UniCredit each fell more than 1%. Eni declined 1.1% after announcing that its low-carbon unit Plenitude would offer households a 30% discount on its standard fixed electricity and gas rates, with prices locked in for two years. Luxury stocks also weakened, with Ferrari and Brunello Cucinelli both falling more than 1.6%. Over the third quarter, the benchmark edged 0.8% l
+
+---
+
+### 2026-10-01 00:00:06  #國際
+
+美國貿易代表格里爾：將在G20貿易部長會議上釋出"密爾沃基框架"。
+
+---
+
+### 2026-09-30 23:59:57  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Google (GOOG.O) imposes an immediate ban on fixed-quota gambling promotions in Brazil.
+
+---
+
+### 2026-09-30 23:58:53  #公司
+
+谷歌：將撤銷巴西彩票和賽馬業務資質證書，需重新申請。
+
+---
+
+### 2026-09-30 23:58:41  #公司
+
+谷歌：即刻起禁止在巴西推廣固定賠率博彩。
+
+---
+
+### 2026-09-30 23:58:28  #其他
+
+嘉能可、博地能源和希尼考慮在委內瑞拉進行煤炭交易。
+
+---
+
+### 2026-09-30 23:57:18  #國際
+
+【俄稱高度重視同偉大鄰邦中國合作】俄羅斯外交部發言人扎哈羅娃9月30日在例行記者會上表示，俄羅斯始終高度重視發展同偉大鄰邦中國的合作。她指出，如今中俄新時代全面戰略協作夥伴關係，已經達到前所未有的高水平，並繼續保持蓬勃發展勢頭。扎哈羅娃強調，兩國關係具有獨立自主的價值，不受一時政治形勢影響，也不針對任何第三方。（CCTV國際時訊）
+
+---
+
+### 2026-09-30 23:56:03  #Trading Economics #Economy #Morocco #GDP Annual Growth Rate #Importance 0
+
+Morocco GDP Growth Stays Robust in Q2 — The economy of Morocco advanced by 4% year-on-year in Q2 2026, following growth of 4.6% in Q1 and 5.8% a year ago. The expansion was mainly driven by agricultural activity, which surged by 21.2%, while non-agricultural activities rose by 1.5%. Within the non-agricultural sector, the services sector grew by 4%, driven by strong performance in financial services and insurance (7.7%), education, human health and social work (6.4%); accommodation & food services (6.6%) and public administration and social security activities (6.4%). Conversely, the secondary sector contracted by 3.9%, reflecting sharp declines in extractive industries (-28.6%) and manufacturing (-3.2%), partly offset by growth in construction (2.8%) and utilities (1.9%).
+
+---
+
+### 2026-09-30 23:54:23  #國際
+
+美國核管理委員會：羅賓遜2號反應堆功率由94%下調至93%。
+
+---
+
+### 2026-09-30 23:53:53  #MKT News
+
+【SEC proposes easing private fund access for retail investors】The SEC on Wednesday proposed reforms to broaden individual investor access to private markets, enabling greater retail participation in private equity, early-stage startups and other alternatives. One proposal would allow registered investment advisers to charge performance fees of up to 20%, bringing fee structures closer to some hedge funds’ 2% management/20% performance model. The SEC also proposed widening the accredited investor definition to include more credentialed professionals, explicitly citing CPAs and CFAs. SEC Chair Paul Atkins said the commission aims to expand retail access while guarding against fraud and misconduct.
+
+---
+
+### 2026-09-30 23:53:48  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB President LAGARDE said if she were to leave the ECB early, it would be only by a few months.
+
+---
+
+### 2026-09-30 23:53:17  #市場
+
+墨西哥主要股指跌幅擴大，當前下跌1.2%。
+
+---
+
+### 2026-09-30 23:53:12  #央行 #國際
+
+歐洲央行行長拉加德：如果我提前卸任歐洲央行行長一職，也只會提前幾個月而已。
+
+---
+
+### 2026-09-30 23:52:26  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Stocks Fall in September & Q3 — European equities ended September under pressure on Wednesday, as elevated global bond yields and persistent inflation concerns weighed on investor sentiment ahead of the final quarter. The STOXX 50 declined 0.8%, while the broader STOXX 600 fell 0.4%, with most sectors ending in negative territory. Banks weakened by around 0.5%, while energy and food & beverage stocks were among the biggest decliners, each losing 1.4%. Technology stocks bucked the broader trend, rising 2.5% to reach their highest level in a month and leading sector gains. The monthly performance was weaker overall, with both the STOXX 50 and STOXX 600 down more than 2% in September. For the STOXX 600, the decline ended a five-month run of monthly gains. Over the third quarter, both benchmarks fell 1%, marking a challenging period for European equities.
 
 ---
 
@@ -11232,401 +11484,5 @@ Prime Minister Carney said Canada will invest an additional C$1.2 bln to protect
 ### 2026-09-30 04:24:02  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Inches Lower as Soft GDP and Trade War Weigh — The S&P/TSX Composite Index inched lower to close at 35,460 on Tuesday following subdued GDP data and as a US ban on multiple Canadian imports came into force. Advance information showed that real GDP increased 0.2% in August, with gains in mining and quarrying and retail trade partly offset by a decline in oil and gas extraction. GDP was essentially unchanged in July. The US ban on various Canadian goods, including many alcoholic beverages and dairy products, also took effect, with Saputo losing 2%. Major banks posted losses, with RBC down 0.6%. Meanwhile, oil prices pulled back as US and Iranian officials continued separate discussions with mediators. Energy producers retreated, with Canadian Natural down 0.7% and Suncor falling 1.7%. In contrast, miners rebounded from yesterday’s losses as gold prices rose, with Agnico Eagle gaining 1.1% and Franco-Nevada up 0.9%. Tech stocks also gained as the planned Anthropic IPO on Wall Street lent support to the sector, with Shopify up 2.9%.
-
----
-
-### 2026-09-30 04:21:15  #MKT News #AAL.O #Impact bullish #ALK.O
-
-American Airlines Group (AAL.O) and Alaska Airlines plan to expand their joint business across the Atlantic and Pacific and will seek regulatory approval.
-
----
-
-### 2026-09-30 04:21:14  #國際
-
-惠譽評級：提高利率以支援美國財富管理機構的客戶現金收益。
-
----
-
-### 2026-09-30 04:21:03  #國際
-
-美國國家航空航天局：將藍色起源的新格倫9×4火箭納入發射服務合同，二代發射服務合同（NLS II）包含准入增補條款，發射服務專案辦公室將提供相關服務。
-
----
-
-### 2026-09-30 04:20:03  #MKT News #Important
-
-U.S. API weekly crude oil inventories for the week to Sept. 25 due in ten minutes.
-
----
-
-### 2026-09-30 04:18:52  #其他
-
-NBA預計很快敲定拉斯維加斯新球隊的中標競標方。
-
----
-
-### 2026-09-30 04:17:54  #國際
-
-特朗普：ICE在保護我們人民的安全方面做得非常出色。我們幹得太棒了。你應該去跟民主黨人談談。為什麼允許2500萬人進入我們的國家？他們擾亂了我們的國家，傷害了我們的國家。
-
----
-
-### 2026-09-30 04:16:32  #國際
-
-美國銀行監管機構：15家資產規模超2500億美元銀行提交的“生前遺囑”（破產處置計劃）未發現缺陷。
-
----
-
-### 2026-09-30 04:15:43  #國際
-
-美國國家情報總監傑伊·克萊頓：在這項國家安全議題上，今天達成的共識是，美國要在人工智慧領域保持領先，這是國家安全的重中之重。
-
----
-
-### 2026-09-30 04:15:21  #MKT News #Market Themes #AI Revolution
-
-U.S. President Trump said AI requires both self-regulation and collective oversight.
-
----
-
-### 2026-09-30 04:14:11  #國際
-
-特朗普談人工智慧：有自我監管，也有群體監管。
-
----
-
-### 2026-09-30 04:13:59  #公司 #國際
-
-【扎克伯格：白宮AI框架落地，行業達成共識】Meta執行長扎克伯格闡述了科技領袖們在白宮與特朗普總統會面後達成一致的AI框架。他表示，這些原則的核心在於：建立完善的內部管控機制、開展內部風險評估、引入外部審計員和評估機構，以及由公司董事會對審計報告進行獨立審查。他說：“我們的想法並不是說這（框架）將是我們唯一要做的舉措。相反，這只是一個起點，是一個整個行業都能達成一致的共識。”他表示，此舉的目標是讓美國民眾和客戶相信，這些技術正按照公司的預期初衷正常執行。
-
----
-
-### 2026-09-30 04:13:30  #MKT News #Market Themes #AI Revolution
-
-Elon Musk said the most likely outcome of artificial intelligence is extremely beneficial.
-
----
-
-### 2026-09-30 04:13:13  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-U.S. President Trump, standing beside Alphabet (GOOG.O) CEO Sundar Pichai, criticized Finland's data center construction plan.
-
----
-
-### 2026-09-30 04:12:49  #其他
-
-馬斯克：人工智慧最可能帶來的結果是裨益無窮。
-
----
-
-### 2026-09-30 04:12:14  #公司 #國際
-
-特朗普（在Alphabet執行長身旁）批評了Alphabet在芬蘭建設資料中心的計劃。
-
----
-
-### 2026-09-30 04:11:39  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7
-
-U.S. truck drivers union says Amazon (AMZN.O) SWF1 warehouse workers demand an end to unsafe working practices and to unfair productivity-assessment penalties.
-
----
-
-### 2026-09-30 04:11:33  #MKT News #Star Stocks #AMZN.O #Impact bearish
-
-US truck drivers' union says workers at Amazon (AMZN.O) SWF1 warehouse in New York have launched an unfair labor practice strike.
-
----
-
-### 2026-09-30 04:10:10  #MKT News #Market Themes #The Trump Trade
-
-President Trump said he wants data centers built in the United States.
-
----
-
-### 2026-09-30 04:09:57  #國際
-
-特朗普被問及住宅附近的資料中心時表示：希望它們建在合適的地方。
-
----
-
-### 2026-09-30 04:09:41  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump said residents in regions hosting data center construction will see large economic gains.
-
----
-
-### 2026-09-30 04:09:24  #國際
-
-特朗普：資料中心建設落地地區的民眾將獲得豐厚的經濟收益。
-
----
-
-### 2026-09-30 04:08:58  #MKT News #Market Themes #AI Revolution #The Trump Trade
-
-President Trump discussed data center deployment with AI industry leaders.
-
----
-
-### 2026-09-30 04:08:52  #國際
-
-【西班牙國王呼籲歐盟成員國加強協作以保衛邊界】當地時間9月29日，法國總統馬克龍及其夫人抵達西班牙，對西班牙進行國事訪問。西班牙國王費利佩六世當天在歡迎晚宴致辭中表示，7月末休達自治市發生的大規模移民入境事件“令人無法接受”，並將其描述為“數萬人大規模入侵，侵犯了西班牙和歐盟邊界”的嚴重事件。費利佩六世同時表示，這一情況必須促使歐盟成員國加強協作，以保衛歐盟南部邊界。（央視新聞）
-
----
-
-### 2026-09-30 04:08:51  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Oil prices tumble on the 29th】At the close, NYMEX November light sweet crude settled down $3.22 at $89.38/bbl, a 3.48% decline; November Brent settled down $2.69 at $102.59/bbl, down 2.56%.
-
----
-
-### 2026-09-30 04:08:31  #國際
-
-特朗普：討論了資料中心的選址，我希望它們建在美國。
-
----
-
-### 2026-09-30 04:08:29  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-US Stocks Dip as Elevated Yields Weigh — US stock indices closed mostly lower on Tuesday, weighed down by another rise in Treasury yields to fresh multiyear highs. The S&P 500 fell 0.2%, and the Dow shed 130 points, while the Nasdaq rose 0.2%. Elevated oil prices and yields continued to pressure equities, with the 10-year yield trading near levels not seen since 2007 and the 30-year yield hovering around a 2004 high. Inflationary pressures from elevated crude and fuel prices, along with concerns over fiscal deficits, drove the bond selloff. New York Fed President Williams said another interest rate hike could be necessary this year. Bank stocks moved lower, with Bank of America down 0.9%. AI hyperscalers and chipmakers, both facing record levels of debt issuance, traded mixed. Alphabet fell 0.5% and Nvidia lost 0.7%, while Meta gained 3.2%, Oracle jumped 4%, Broadcom added 1.6% and Micron rose 1%, as the planned Anthropic IPO lent some support to the tech sectors. The IPO could value Anthropic at over $2 trillion.
-
----
-
-### 2026-09-30 04:08:03  #市場 #焦點
-
-【國際油價29日顯著下跌】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格下跌3.22美元，收於每桶89.38美元，跌幅為3.48%；11月交貨的倫敦布倫特原油期貨價格下跌2.69美元，收於每桶102.59美元，跌幅為2.56%。
-
----
-
-### 2026-09-30 04:07:45  #公司
-
-Meta執行長扎克伯格：將安排公司董事會審查審計機構出具的報告。
-
----
-
-### 2026-09-30 04:07:30  #公司
-
-Meta執行長扎克伯格：科技企業已同意就人工智慧建立“健全”內部控制機制與多層審計體系。
-
----
-
-### 2026-09-30 04:07:19  #其他
-
-標普將富國銀行評級上調至“A-”，展望穩定。
-
----
-
-### 2026-09-30 04:07:02  #公司
-
-Anthropic執行長阿莫代伊：應對人工智慧風險的機制正在討論中。
-
----
-
-### 2026-09-30 04:06:59  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O
-
-Meta Platforms (META.O) CEO Mark Zuckerberg said technology companies have agreed to establish 'robust' internal controls and multi-layered audits for AI.
-
----
-
-### 2026-09-30 04:06:35  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) CEO Mark Zuckerberg said he will ask the company's board to review the auditor's report.
-
----
-
-### 2026-09-30 04:06:29  #央行 #國際
-
-美聯儲威廉姆斯：預計通脹將下降，但人工智慧方面仍存在疑問。
-
----
-
-### 2026-09-30 04:06:23  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
-
-Fed's Williams said rising bond yields indicate financial conditions have tightened marginally.
-
----
-
-### 2026-09-30 04:06:19  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish
-
-WILLIAMS said strong investment in AI is important for boosting future productivity.
-
----
-
-### 2026-09-30 04:06:15  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #S&P500 #Impact mixed #DXY #Impact bullish
-
-Fed's WILLIAMS said he does not think the ongoing rise in yields reflects a shift in long-term inflation expectations.
-
----
-
-### 2026-09-30 04:06:07  #央行 #國際
-
-美聯儲威廉姆斯：油價也是影響債券收益率的一個因素。
-
----
-
-### 2026-09-30 04:05:48  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve's Williams said AI has not yet produced a material change in employment levels.
-
----
-
-### 2026-09-30 04:05:43  #央行 #國際
-
-美聯儲威廉姆斯：債券收益率上升並不意味著市場對通脹的擔憂加劇。
-
----
-
-### 2026-09-30 04:05:40  #央行 #國際
-
-美聯儲威廉姆斯：不認為收益率上行預示著長期通脹預期發生改變。
-
----
-
-### 2026-09-30 04:05:38  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) CEO Zuckerberg pledged to establish control mechanisms and systems to detect technical issues.
-
----
-
-### 2026-09-30 04:05:36  #央行 #國際
-
-美聯儲威廉姆斯：強勁的人工智慧投資對提振未來生產率至關重要。
-
----
-
-### 2026-09-30 04:05:33  #央行 #國際
-
-美聯儲威廉姆斯：迄今為止，人工智慧並未造成就業規模發生重大變化。
-
----
-
-### 2026-09-30 04:05:16  #國際
-
-【特朗普：比爾·蓋茨並未表現出對人工智慧的擔憂】特朗普表示，在與比爾·蓋茨交談時，蓋茨並未表現出對人工智慧風險的擔憂。當被問及蓋茨週日關於“人工智慧可能導致10億人死亡”的言論時，特朗普在白宮會見人工智慧企業高管後告訴記者：“我可以告訴你，昨天他完全沒有這麼說。實際上，他的態度恰恰相反。”
-
----
-
-### 2026-09-30 04:05:00  #公司
-
-Anthropic執行長阿莫代伊：依然認為人工智慧存在“非常真實的風險”。
-
----
-
-### 2026-09-30 04:04:39  #公司 #國際
-
-特朗普：人工智慧公司會互相監督。
-
----
-
-### 2026-09-30 04:04:25  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDCHF
-
-【Dollar index up 0.17% to 101.372 on the 29th】DXY rose 0.17% to 101.372 at the New York close. EUR/USD 1.1341, down from 1.1368; GBP/USD 1.3229, down from 1.3261. USD/JPY 157.22, versus 157.40 previously. USD/CHF 0.8336, up from 0.8319; USD/CAD 1.4178, up from 1.4171; USD/SEK 9.9892, up from 9.9537.
-
----
-
-### 2026-09-30 04:04:25  #MKT News #Market Themes #The Trump Trade #Magnificent 7 #Star Stocks #Meta Platforms
-
-US President Trump said Zuckerberg's views are very neutral.
-
----
-
-### 2026-09-30 04:04:21  #公司 #國際
-
-【特朗普稱他與科技巨頭簽署AI協議並考慮組建委員會】美國總統特朗普說，他和科技企業的CEO們簽署了一項具有“道德約束力”的人工智慧協議。他說正在考慮組建一個由大約10人組成的委員會來監督人工智慧，稱他看到了人工智慧行業“驚人的”自我監管能力。
-
----
-
-### 2026-09-30 04:04:16  #公司 #國際
-
-【特朗普稱他與科技巨頭簽署AI協議並考慮組建委員會】美國總統特朗普說，他和科技企業的CEO們簽署了一項具有“道德約束力”的人工智慧協議。他說正在考慮組建一個由大約10人組成的委員會來監督人工智慧，稱他看到了人工智慧行業“驚人的”自我監管能力。
-
----
-
-### 2026-09-30 04:04:04  #MKT News
-
-Trump said ANTHROPIC CEO Dario Amodei has been great.
-
----
-
-### 2026-09-30 04:03:54  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-US equities closed lower on Tuesday, Sept. 29: Dow Jones Industrial Average down 130.70 points (0.25%) at 51,350.81; S&P 500 down 12.51 points (0.16%) at 7,671.18; Nasdaq Composite down 22.84 points (0.09%) at 26,797.54.
-
----
-
-### 2026-09-30 04:03:53  #MKT News #Market Themes #AI Revolution
-
-ANTHROPIC CEO Amodei said the technology poses very real risks and the company is still discussing how to address them.
-
----
-
-### 2026-09-30 04:03:46  #國際
-
-美國聯邦住房金融局（FHFA）局長普爾特：信用評分領域的濫用行為正在得到處理，信用局之間需要展開競爭。
-
----
-
-### 2026-09-30 04:03:10  #市場 #焦點
-
-WTI原油失守89美元/桶，日內跌3.91%。
-
----
-
-### 2026-09-30 04:03:04  #國際
-
-特朗普：扎克伯格的觀點非常中立。
-
----
-
-### 2026-09-30 04:03:02  #MKT News #S&P500 #Impact bullish
-
-U.S. banking regulators said they reviewed resolution plans (living wills) submitted by 15 banks with assets exceeding $250 billion and found no deficiencies.
-
----
-
-### 2026-09-30 04:02:47  #公司
-
-Anthropic執行長阿莫代伊：技術存在切實風險，如何應對這些風險仍在討論當中。
-
----
-
-### 2026-09-30 04:02:11  #公司 #市場
-
-嘉年華郵輪公司股價收盤上漲13%，創下自2025年4月以來最佳單日表現。
-
----
-
-### 2026-09-30 04:02:02  #其他
-
-賽富時：（收購Listen Labs）交易預計將於賽富時2027財年第四季度完成。
-
----
-
-### 2026-09-30 04:01:38  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #S&P500 #Impact bearish #NIO.N #ORCL.N #Impact bullish
-
-【US close: three major indexes down; Nasdaq Golden Dragon falls 1.5%】US stocks closed lower on Tuesday. At the preliminary close the Dow Jones Industrial Average was down 0.25%, the S&P 500 fell 0.16% and the Nasdaq Composite slipped 0.09%. Meta Platforms (META.O) rose over 3%, SK Hynix (SKHY.O) gained 2.6% and Oracle (ORCL.N) jumped 4%. The Nasdaq Golden Dragon China Index dropped 1.55%; NIO (NIO.N) fell about 5%.
-
----
-
-### 2026-09-30 04:01:36  #國際
-
-美國航空：美國航空與阿拉斯加航空宣佈，計劃接納阿拉斯加航空加入大西洋及太平洋合資業務。
-
----
-
-### 2026-09-30 04:01:12  #其他
-
-賽富時：已簽署收購Listen Labs的最終協議。
-
----
-
-### 2026-09-30 04:00:55  #公司 #央行 #國際
-
-美聯儲與聯邦存款保險公司（FDIC）就銀行處置計劃發表聯合宣告：大型銀行的“生前遺囑”（破產清算計劃）不存在缺陷。
-
----
-
-### 2026-09-30 04:00:52  #Trading Economics #Economy #Argentina #Current Account #Importance 1
-
-Argentina Current Account Swings to Surplus in Q2 — Argentina posted a current account surplus of $2.21 billion in the second quarter of 2026, reversing a $2.45 billion deficit recorded in the same period of 2025. The result was driven by surpluses in the goods trade balance, at $9.29 billion, and secondary income, at $1.05 billion, which were partially offset by deficits in primary income, at $6.03 billion, and the services balance, at $2.10 billion. The primary income deficit widened by $2.47 billion year over year to $6.03 billion, almost entirely due to changes in investment income. As a result, Argentina recorded net lending of $2.25 billion in the second quarter of 2026.
 
 ---
