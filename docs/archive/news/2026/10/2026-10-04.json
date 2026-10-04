@@ -1,7 +1,17 @@
 {
   "date": "2026-10-04",
-  "count": 131,
+  "count": 132,
   "items": [
+    {
+      "id": "mkt:01a104a8-ad3d-7ee0-a791-cf23340f2bec",
+      "time": "2026-10-04 10:05:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【White House forms AI task force to produce 120-day risk assessment】The White House has established a special AI task force led by National Intelligence Director Clayton to draft, within 120 days, an assessment of AI risks and recommendations on the federal government's regulatory responsibilities. Clayton confirmed he will head the \"Super Intelligence Force\"—the administration's label for AI—and said the president directed the group to secure U.S. leadership in the technology and prioritize American interests."
+    },
     {
       "id": "5125073",
       "time": "2026-10-04 09:55:13",
