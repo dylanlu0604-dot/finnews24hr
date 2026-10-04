@@ -1,7 +1,27 @@
 {
   "date": "2026-10-05",
-  "count": 67,
+  "count": 69,
   "items": [
+    {
+      "id": "mkt:01a108d3-7ef9-7ee0-a795-539834987338",
+      "time": "2026-10-05 05:30:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Saudi-led coalition says will continue supporting Yemeni government against Houthi attacks】On Oct. 4 the Saudi-led coalition said it will continue to provide full operational support to the Yemeni government and armed forces to restore state authority. Coalition spokesman Turki al-Maliki accused the Houthis of deliberate, systematic attacks on civilians and civilian infrastructure in Riyadh and other cities, and said the group attempted strikes on Mecca and Medina and on Saudi vessels in the southern Red Sea and Bab al-Mandeb. He said the coalition will take necessary measures to curb Houthi hostility, safeguard Saudi security and sovereignty, and conduct operations to remove threats to navigation in the southern Red Sea and Bab al-Mandeb, noting such threats endanger regional and international security, international trade and the global economy."
+    },
+    {
+      "id": "5125432",
+      "time": "2026-10-05 05:30:24",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "沙特阿美：將11月銷往亞洲的阿拉伯輕質原油官方售價定為較阿曼/迪拜原油均價貼水5美元/桶。將11月銷往西北歐的阿拉伯輕質原油官方售價定為較ICE布倫特原油升水0.85美元/桶，將11月銷往美國的阿拉伯輕質原油官方售價定為比阿拉伯輕質原油升水4.60美元/桶。"
+    },
     {
       "id": "mkt:01a108d1-1b2b-7ee0-a795-4f60368500f7",
       "time": "2026-10-05 05:28:03",
