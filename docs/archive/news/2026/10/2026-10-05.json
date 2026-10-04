@@ -1,7 +1,190 @@
 {
   "date": "2026-10-05",
-  "count": 33,
+  "count": 54,
   "items": [
+    {
+      "id": "5125414",
+      "time": "2026-10-05 04:36:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI首席產品官Tibo：未來 28 天內，我們每天要麼推出一項對大多數 Codex / 工作使用者來說顯著且相關的改進，要麼進行一次完整重置。改進之旅正式開啟。"
+    },
+    {
+      "id": "5125408",
+      "time": "2026-10-05 04:30:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤突破6.6美元，日內漲幅0.3%。"
+    },
+    {
+      "id": "mkt:01a10898-3ad4-7ee0-a795-329f94101cd5",
+      "time": "2026-10-05 04:25:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Explosions reported near tanker off southwest Yemen】On Oct 4 local time UK Maritime Trade Operations (UKMTO) reported multiple explosions near a tanker transiting about 60 nm south of Mocha, the Red Sea port in Taiz province, Yemen. UKMTO said the crew are reported safe and no environmental impact has been reported; authorities are investigating. UKMTO advised transiting vessels to exercise caution and report any suspicious activity."
+    },
+    {
+      "id": "5125404",
+      "time": "2026-10-05 04:25:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一油輪在葉門西南部海域航行時附近發生多次爆炸】當地時間10月4日，英國海上貿易行動辦公室（UKMTO）釋出通報稱，一艘油輪在葉門西南部塔伊茲省的紅海港口城市穆哈以南約60海里海域航行時，發現船隻附近發生多次爆炸。UKMTO稱，目前船員安全，尚未報告環境影響。有關部門正在對事件展開調查。UKMTO同時提醒過往船隻謹慎航行，並報告任何可疑活動。（央視新聞）"
+    },
+    {
+      "id": "5125403",
+      "time": "2026-10-05 04:24:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統選舉初步計票結果：已統計 1.23% 選票，博索納羅得票率 48.85%，盧拉得票率 42.50%。"
+    },
+    {
+      "id": "mkt:01a10896-466f-7ee0-a795-2ccaea96db58",
+      "time": "2026-10-05 04:23:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【US withdraws all B-1 bombers from RAF Fairford after suspected terror threat】The Wall Street Journal reports US officials said on Sunday all B-1 bombers were pulled from RAF Fairford amid concerns the base could be targeted in a terror attack. The PENTAGON said operational-security constraints previously prevented real-time confirmation of force movements but now confirms all US bombers that had been at Fairford—12 aircraft prior to the withdrawal—have returned to US home stations and retain the capability to conduct global strikes from the United States. The pullback followed UK arrests of six suspects accused of plotting an attack on the base; US and UK officials said a suspected plot was foiled last Sunday and the UK prime minister said there are strong indications of Iranian involvement, though the suspects were later released on bail and investigations continue."
+    },
+    {
+      "id": "5125400",
+      "time": "2026-10-05 04:21:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：白宮正在監測俄羅斯境內疑似鼠疫爆發事件。白宮表示已知曉相關情況，並正在評估應對方案。"
+    },
+    {
+      "id": "mkt:01a10892-9b9b-7ee0-a795-21cd07f343c0",
+      "time": "2026-10-05 04:19:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel tightens restrictions on foreign crew on flights to Israel】Israel's Transport Ministry notified foreign carriers on the 4th that, citing a recent attack by an Omani co‑pilot on a Dubai airline captain, crew holding single or dual nationality of 27 countries — including Iran, Iraq, Lebanon, Oman, Pakistan, Qatar and Saudi Arabia — are barred from operating on or travelling on flights to Israel."
+    },
+    {
+      "id": "5125398",
+      "time": "2026-10-05 04:19:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列交通部收緊對赴以航班外國機組人員限制】當地時間4日獲悉，以色列方面訊息稱，鑑於近期發生的阿曼籍副駕駛襲擊迪拜航空客機機長事件，以色列交通部日前向外國航空運營商發出通知，嚴禁擁有伊朗、伊拉克、黎巴嫩、阿曼、巴基斯坦、卡達和沙特等27國單一或雙重國籍的機組人員執飛或搭乘赴以航班。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a10890-5b78-7ee0-a795-1c52e20e010b",
+      "time": "2026-10-05 04:17:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Omani co-pilot on trial in UAE says he planned to crash Dubai carrier plane into Tel Aviv's Ben-Gurion terminal】Israeli sources said on Oct. 4 that Omani co-pilot Hamam Hammami told UAE investigators he had planned to fly a Dubai-based carrier's aircraft directly into Tel Aviv's Ben-Gurion International Airport. The Sept. 30 incident began when Hammami allegedly attacked the captain over Jordanian airspace; he told authorities he intended to let the aircraft continue toward Ben-Gurion and strike the terminal at a point when Israeli jets could not intercept. The injured captain forced the cockpit door open and foiled the attempt, sources said. Hammami said the plot predated his hiring: he researched carriers operating flights to Tel Aviv, sought employment with them and was ultimately hired by the Dubai airline."
+    },
+    {
+      "id": "5125393",
+      "time": "2026-10-05 04:12:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西投票站關閉 計票工作即將開始】巴西各投票站已於當地時間下午5點關閉，大選計票工作應很快開始。巴西選民週日投票選舉新一任總統，此外還將選舉26個州和一個聯邦區的州長、參議院81名議員中的54名、眾議院全部513名議員，以及約1,000名州和地區議員。"
+    },
+    {
+      "id": "mkt:01a10880-3c97-7ee0-a795-10095068109c",
+      "time": "2026-10-05 03:59:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports the US has withdrawn all B-1 bombers from a UK air base."
+    },
+    {
+      "id": "5125378",
+      "time": "2026-10-05 03:57:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國已從英國空軍基地撤回所有B-1轟炸機。"
+    },
+    {
+      "id": "5125377",
+      "time": "2026-10-05 03:52:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本 Rapidus 公司將協助 17 家企業為其客戶開展晶片設計工作，合作方包括東芝旗下子公司東芝資訊系統（日本）、大日本印刷、凸版印刷及其他企業。"
+    },
+    {
+      "id": "mkt:01a10872-32bb-7ee0-a795-0c184b57a5c3",
+      "time": "2026-10-05 03:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian general Sardar Fadavi said diesel in Europe is about €2 per liter (roughly 700,000 Iranian rials). By contrast, a 10,000-rial increase in local gasoline still leaves retail price below $1 per liter, a gap he said he cannot comprehend."
+    },
+    {
+      "id": "5125376",
+      "time": "2026-10-05 03:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：施耐德電氣接近達成一項交易，擬以 200 億美元收購工業軟體企業 PTC。交易最早可能於週一公佈。"
+    },
+    {
+      "id": "mkt:01a10865-cc48-7ee0-a795-020ca209f33c",
+      "time": "2026-10-05 03:30:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Austria's vice‑chancellor said the finance minister will assume the vice‑chancellor role early next year."
+    },
+    {
+      "id": "5125373",
+      "time": "2026-10-05 03:30:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "奧地利副總理：財政部長將於明年初接替他出任副總理。"
+    },
+    {
+      "id": "5125364",
+      "time": "2026-10-05 03:23:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以媒：迪拜航空副駕駛稱原計劃駕機撞向以機場航站樓】據多家以色列媒體4日報道，迪拜航空公司客機駕駛艙衝突事件中的阿曼籍副駕駛哈馬姆·哈馬米接受審訊時稱，他原本計劃駕機撞向以色列特拉維夫本-古裡安機場航站樓。據以色列第12頻道報道，哈馬米選擇在客機飛至約旦上空時襲擊機長，原計劃讓飛機正常飛行至快要抵達本-古裡安機場、以軍機來不及實施攔截時，駕機撞向機場航站樓。受傷機長不惜一切代價開啟駕駛艙門，挫敗了哈馬米的企圖。（新華社）"
+    },
+    {
+      "id": "mkt:01a1085d-48aa-7ee0-a794-fafedcdb2b17",
+      "time": "2026-10-05 03:21:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's education minister said on Sunday that as many as 500 schools could be partially or fully closed on Monday after clashes between riot police and student protesters."
+    },
+    {
+      "id": "5125357",
+      "time": "2026-10-05 03:18:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏相互升級威脅 俄警告駐基輔外交人員面臨致命風險】在烏克蘭總統澤連斯基誓言將進一步加強對俄羅斯煉油廠的打擊之後，俄羅斯表示，將加大對烏克蘭基礎設施的打擊力度。之前一天，俄羅斯外交部還警告稱，身在基輔的外交人員和外國官員處於“致命危險”之中。俄羅斯國防部週日表示：“俄羅斯武裝力量將加大對基輔及烏克蘭其他地區軍事和軍工設施以及相關基礎設施的打擊力度。”俄羅斯國防部援引了澤連斯基接受採訪時的言論。這篇採訪於週日刊發，澤連斯基在採訪中表示，烏克蘭必須透過打擊俄羅斯煉油廠來回應針對能源基礎設施的襲擊，因為這些煉油廠“為他們進行這場戰爭提供資金”。"
+    },
     {
       "id": "mkt:01a10846-5774-7ee0-a794-f14c43c27332",
       "time": "2026-10-05 02:56:29",
