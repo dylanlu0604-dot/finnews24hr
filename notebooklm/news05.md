@@ -1,7 +1,359 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-04 22:54:37_
-_本檔包含 2187 則快訊，約 429495 字_
+_更新時間：2026-10-05 03:09:03_
+_本檔包含 2144 則快訊，約 427838 字_
+
+---
+
+### 2026-09-29 07:46:30  #國際
+
+浦項制鐵尋求韓國政府批准其核能投資。
+
+---
+
+### 2026-09-29 07:46:04  #其他
+
+標普確認巴哈馬評級為BB-，前景保持穩定。
+
+---
+
+### 2026-09-29 07:45:43  #市場 #國際
+
+基準10年期日本國債期貨早盤下跌0.16點。
+
+---
+
+### 2026-09-29 07:45:36  #市場 #國際
+
+日本日經平均指數期貨早盤上漲0.3%。
+
+---
+
+### 2026-09-29 07:45:18  #國際
+
+【美國肯塔基州一名州警遭槍擊身亡 嫌疑人已被捕】記者當地時間9月28日獲悉，美國肯塔基州一名州警當天在州際公路沿線巡邏時遭槍擊身亡。肯塔基州警方隨後宣佈，嫌疑人已在路易斯維爾被警方拘捕，但其身份暫未公佈。警方計劃於當天晚些時候舉行新聞釋出會。
+
+---
+
+### 2026-09-29 07:45:07  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+US Futures Edge Higher After Weak Session — US stock futures edged higher on Tuesday after the major averages declined in the previous session, pressured by a rise in Treasury yields. Investors also remained focused on geopolitical developments amid continued uncertainty surrounding US-Iran negotiations, although Saudi Arabia managed to restore oil flows through a key pipeline. In regular trading on Monday, the Dow Jones fell 0.67%, the S&P 500 declined 0.77%, and the Nasdaq Composite dropped 0.92%. The losses came as Treasury yields continued to climb on expectations that persistent inflation could prompt the Federal Reserve to tighten monetary policy further. The US 10-year Treasury yield moved above 5.2%, while the 30-year yield was at 5.55%. Investors now await Tuesday’s consumer confidence, job openings, and labor turnover data for further indications about the health of the US economy. In corporate news, AMD agreed to acquire World Labs in a deal valued at $8.2 billion.
+
+---
+
+### 2026-09-29 07:44:50  #公司
+
+【AIxC計劃合併FF EAI Robotics】據FaradayFuture訊息，9月28日，Nasdaq上市公司AIxC（即將更名為FFR）宣佈計劃合併FF EAI Robotics。FFAI宣佈重大戰略升級，將升級成為Robotaxi+智艙共享運營商及Physical AI投資控股公司。FFAI已與上市公司AIxC簽署Term Sheet，擬按照約2億美元的市場化估值，將FFAI旗下機器人公司100%股權整合至AIxC，並以AIxC股份作為交易對價。另外，AIxC更名為FF EAI Robotics Ecosystem Inc.，股票程式碼變更為FFR，並於後天9月30日生效。
+
+---
+
+### 2026-09-29 07:44:13  #公司 #市場 #國際
+
+【罕見！OpenAI取消釋出新一代AI模型 OpenAI內部測試發現安全隱患】當地時間9月28日，據美國《華爾街日報》報道，OpenAI已決定取消釋出新一代人工智慧模型。該模型代號為“GPT-6.1 Astra”，原計劃於10月在ChatGPT和Codex中推出。報道稱，OpenAI研究人員在內部測試過程中發現安全隱患，最終決定放棄釋出。報道指出，今年夏季以來，人工智慧行業多次出現系統行為失控或偏離預期的情況。OpenAI此次決定也成為大型AI公司因安全問題直接取消新模型釋出的罕見案例，表明人工智慧行業可能出現的非預期行為，正成為阻礙行業快速發展的重要風險之一。（央視）
+
+---
+
+### 2026-09-29 07:43:17  #公司 #市場
+
+【市場分析：Anthropic 鉅額支出僅能小幅提振晶片廠商】據報道，Anthropic 計劃未來一年在雲服務與算力領域投入 5180 億美元，這筆支出只會對亞洲晶片廠商帶來小幅提振，同時推動納斯達克股指期貨小幅走高。然而，這一切都只是Anthropic公司預期IPO前的試探，至於何時才是最佳上市時機，目前仍是未知數。目標一直在變化，如果IPO推遲到2027年，人工智慧投資者可能會失去耐心。
+
+---
+
+### 2026-09-29 07:41:34  #MKT News
+
+Fifteen U.S. states sued the Federal Aviation Administration, challenging the FAA's environmental review of proposed commercial drone package-delivery regulations.
+
+---
+
+### 2026-09-29 07:41:18  #央行 #中國央行
+
+【加大對“六張網”等重點領域支援力度 貨幣政策更重逆週期調節】中國人民銀行貨幣政策委員會日前召開2026年第三季度例會，研究了下階段貨幣政策主要思路，在延續“適度寬鬆”總基調的同時，也釋放出將加大逆週期調節力度、更好發揮貨幣政策工具總量和結構雙重功能等政策訊號。多位專家表示，下一步貨幣政策預計將保持適度寬鬆取向，結構性工具或增量擴圍，重點支援“六張網”等實體經濟重點領域和薄弱環節。
+
+---
+
+### 2026-09-29 07:40:53  #公司
+
+三星電機越南子公司將斥資2.51萬億韓元擴大晶片基板產能。
+
+---
+
+### 2026-09-29 07:40:14  #公司 #國際
+
+PALANTIR公司稱，執行長ALEX KARP將於週二出席特朗普人工智慧會議。
+
+---
+
+### 2026-09-29 07:40:02  #公司 #國際
+
+三星電機將投資6.78萬億韓元，用於擴大其在韓國及越南的產能。
+
+---
+
+### 2026-09-29 07:39:07  #公司
+
+【上交所今日釋出新指數，聚焦創新藥與軟體服務】今天（9月29日），上海證券交易所和中證指數有限公司將正式釋出上證創新藥科創領先指數和上證科創板軟體服務指數，為投資者提供更豐富的投資標的。上證創新藥科創領先指數從科創板和上證主機板上市公司中選取40只研發水平高、成長性好的創新藥領域上市公司證券作為指數樣本；上證科創板軟體服務指數從科創板選取40只軟體開發、軟體服務領域的上市公司證券作為樣本。兩條指數的推出，不僅有助於提升科創板樣本權重，更為投資者觀察創新藥和軟體服務兩大高成長賽道提供了新的基準工具，加速市場價值發現。
+
+---
+
+### 2026-09-29 07:38:23  #其他
+
+【第81屆聯合國大會一般性辯論閉幕 】第81屆聯合國大會一般性辯論28日在紐約聯合國總部落下帷幕。第81屆聯大主席拉赫曼在閉幕講話中說，包括113位國家元首和政府首腦在內，194個代表團的代表上臺發表講話。講話圍繞和平、發展、人權、聯合國改革、下一任秘書長遴選等議題展開。拉赫曼指出，人工智慧已成為本屆聯大一般性辯論的中心話題。4年前，只有5個代表團提及人工智慧，本屆聯大一般性辯論共有128個代表團談及此話題。這一數字高於談及氣候變化和人權話題的代表團數量。
+
+---
+
+### 2026-09-29 07:37:48  #公司
+
+【FFAI：將升級為Robotaxi共享網路+智艙技術運營商及Physical AI投資控股公司】據賈躍亭微博：FFAI已與納斯達克上市公司AIxC簽署Term Sheet，擬按照約2億美元的市場化估值，將FFAI旗下機器人公司100%股權合併至AIxC（Nasdaq：AIXC），並以AIxC股份作為交易對價； AIxC即將於9月30日更名為FFR，進行重大戰略重構，有望成為美股“四核全智”EAI機器人生態Pure-play第一股。 FFAI宣佈兩大戰略升級：一是整體升級為Physical AI投資孵化控股公司，並將機器人業務合併到AIxC(將更名FFR)；二是汽車戰略三大升級，1. 成為Robotaxi共享網路運營商，包括接入Cybercab網路；2. FFAI智艙部署到其它智慧車輛；3. FF自有車型將接入Robotaxi網路，希望再次成為汽車產業變革浪潮的推動者之一 。
+
+---
+
+### 2026-09-29 07:34:58  #其他
+
+SpaceXAI：Grok 4.7 現已上線 Amazon Bedrock。
+
+---
+
+### 2026-09-29 07:33:35  #其他
+
+【餐飲企業赴港IPO為何集體“卡殼”？】2026年以來，內地餐飲企業赴港IPO迎來一波集中申報，但落地進度卻一直未見更新。一邊是行業衝刺港股上市的高漲熱情，另一邊是港交所審慎的稽核節奏，明確要求壓實保薦機構責任，嚴查消費餐飲專案盡職調查漏洞。扎堆遞表、批次失效、年內零上市，正是當下餐飲行業港股IPO的現狀。餐飲企業港股上市之路，迎來深層次的規則與邏輯變革。業內普遍認為，2026年餐飲企業IPO集體“卡殼”並非偶然。一些餐飲企業存在用工模式、食品安全等歷史遺留問題，在監管全面趨嚴的背景下，這些問題已成為必須徹底核查的硬性條件。（證券日報）
+
+---
+
+### 2026-09-29 07:31:13  #其他
+
+【Anthropic釋出Sonnet 5.5模型】當地時間9月28日，Anthropic釋出Sonnet 5.5模型。Anthropic表示，Sonnet 5.5的執行速度較Sonnet 5提升30%以上，並且是Opus 5.5的低成本替代互補方案。Sonnet 5.5定價為每百萬輸入token 2美元，每百萬輸出token 10美元，每百萬快取讀取0.2美元。此外，Anthropic表示，Haiku 5.5模型即將推出，專為快速、高吞吐量任務打造。
+
+---
+
+### 2026-09-29 07:31:10  #市場 #觀點
+
+【中信建投：利潤內生動力仍將集中於新動能領域，供強需弱格局下總量彈性有限】中信建投研報指出，2026年1—8月，工業企業實現利潤同比增長15.7%；8月當月利潤同比增長4.2%，主要受去年同期高基數擾動，但當月毛利潤同比增長7.5%、較上月加快1.9個百分點，盈利質量並未隨總量走弱。結構上，電子行業利潤同比增長1.1倍，對全部規上工業利潤增長的貢獻率超六成，景氣沿算力鏈條向PCB、光纜、電子專用材料等環節擴散；高技術製造業利潤增長54.7%，逆勢加快。原材料製造業受國際大宗價格支撐增長47.3%。往後看，利潤內生動力仍將集中於新動能領域，供強需弱格局下總量彈性有限。對利率債而言，當前基本面組合中性偏多；權益端建議關注盈利高增估值相對低位的板塊。
+
+---
+
+### 2026-09-29 07:31:03  #宏觀
+
+【市場監管總局：已將12類城市軌道交通裝備產品納入認證範圍】市場監管總局今天（29日）釋出統計資料顯示：截至目前，已將城市軌道交通車輛、制動系統、訊號系統等12類48個產品納入認證範圍，全國累計頒發城市軌道交通裝備產品認證證書502張，覆蓋生產製造企業120家，構建了規範有序、創新活躍的產業發展生態。目前，我國城軌交通車輛和機電裝置國產化率超95%，永磁牽引系統核心控制裝置自主化率達100%。
+
+---
+
+### 2026-09-29 07:30:24  #公司
+
+【Anthropic計劃未來一年在雲服務與算力領域投入5180億美元】媒體援引Anthropic的IPO招股書稱，Anthropic2025年淨虧損420億美元，公司計劃未來一年投入5180億美元用於雲服務、算力及基礎設施相關履約支出。2025年營收增至近46億美元。這家AI實驗室去年算力與基礎設施支出達73.3億美元，較2024年增長兩倍。
+
+---
+
+### 2026-09-29 07:26:29  #公司 #國際
+
+英偉達CEO黃仁勳將於週二出席特朗普的人工智慧會議。
+
+---
+
+### 2026-09-29 07:26:08  #其他
+
+【葉門政府軍：過去24小時356次打擊胡塞武裝 】葉門政府軍發言人馬吉德·努扎伊利28日在社交媒體發表宣告稱，過去24小時內，政府軍在多條戰線對胡塞武裝實施356次“精確打擊”。 努扎伊利在宣告中說，打擊行動覆蓋拉赫季省、塔伊茲省等多條戰線，動用多種武器，摧毀或損壞胡塞武裝的指揮控制中心、武器庫、野戰火炮和軍事車輛等。據前線資料，行動造成476名胡塞武裝人員死傷。
+
+---
+
+### 2026-09-29 07:25:41  #市場 #焦點
+
+紐約期金突破4160美元/盎司，日內跌0.20%。
+
+---
+
+### 2026-09-29 07:24:48  #市場 #國際
+
+【美債收益率飆至20年高點 債市老將六年來首度轉為看多】在基準收益率飆升至20年來的最高點後，華爾街長期關注市場的老將Jim Bianco認為，目前已出現頗具吸引力的進場點，六年來首度轉而看多美國國債。“這是價值投資的機會，”總部位於芝加哥的Bianco Research總裁兼創辦人Bianco表示。“如果收益率開始進一步走高，我會繼續加碼。”
+
+---
+
+### 2026-09-29 07:24:41  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Rises as US-Iran Uncertainty Persists — Brent crude climbed toward $106 per barrel on Tuesday, extending its gains as ongoing uncertainty surrounding US-Iran negotiations outweighed the resumption of oil flows through Saudi Arabia’s East-West pipeline. Iranian officials have reportedly cast doubt on the possibility of reaching an agreement to end hostilities in the Middle East and reopen the Strait of Hormuz before the US midterm elections in November. Recent US-Iran talks in New York produced limited progress, with President Donald Trump rejecting Tehran’s latest proposal to reopen the strategic waterway. However, Trump is reportedly considering sanctions relief for Iran and the unfreezing of funds if meaningful progress is made toward a nuclear agreement. Meanwhile, Saudi Arabia has reportedly restored oil flows to around 3.5 million barrels per day following repairs to a key pipeline that provides an alternative route around Hormuz.
+
+---
+
+### 2026-09-29 07:23:31  #公司 #觀點
+
+【高盛考慮明年任命約翰・沃爾德倫為執行長】據報道，高盛集團董事會已討論一項方案，擬由營運長約翰・沃爾德倫接替戴維・所羅門出任執行長，最早於明年生效。報道週一援引不願具名知情人士訊息稱，人事變動可能在2027年末或2028年落地。按照該方案，64歲的所羅門卸任執行長後，大機率會擔任執行董事長約一至兩年。報道稱，高盛董事會可能在未來數月批准這項計劃。57歲的沃爾德倫同時兼任高盛總裁，長期被視作所羅門的繼任人選。董事會成員不希望承擔推遲權力交接帶來的風險。
+
+---
+
+### 2026-09-29 07:22:47  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Rises as US-Iran Uncertainty Persists — Crude oil climbed above $93 per barrel on Tuesday, extending its gains as ongoing uncertainty surrounding US-Iran negotiations outweighed the resumption of oil flows through Saudi Arabia’s East-West pipeline. Iranian officials have reportedly cast doubt on the possibility of reaching an agreement to end hostilities in the Middle East and reopen the Strait of Hormuz before the US midterm elections in November. Recent US-Iran talks in New York produced limited progress, with President Donald Trump rejecting Tehran’s latest proposal to reopen the strategic waterway. However, Trump is reportedly considering sanctions relief for Iran and the unfreezing of funds if meaningful progress is made toward a nuclear agreement. Meanwhile, Saudi Arabia has reportedly restored oil flows to around 3.5 million barrels per day following repairs to a key pipeline that provides an alternative route around Hormuz.
+
+---
+
+### 2026-09-29 07:22:37  #公司
+
+【理財產品密集下調費率，倒逼行業尋求差異化競爭】9月以來，多家理財公司及商業銀行密集下調理財產品費率，行業再度迎來階段性“降費潮”。梳理機構公告可見，部分機構單次下調產品費率幅度超50個基點（BP），更有機構將多款產品的固定管理費降至零費率或0.01%的準零費率水平。業內分析人士表示，內卷式價格戰並不可持續，激烈競爭正倒逼行業尋求差異化競爭。記者觀察到，費率競爭白熱化的同時，理財公司跨行代銷渠道加速擴容，股份行旗下理財公司強勢領跑，國有大行旗下理財公司亦在加快追趕。（人民財訊）
+
+---
+
+### 2026-09-29 07:22:22  #公司 #國際
+
+【對等降稅框架公佈，相關上市公司表示積極看待】9月28日，商務部公佈中美貿易理事會和“300億對300億”對等降稅框架有關情況。中美雙方在貿易理事會框架下就300億美元對等降稅框架達成共識，並基於各自市場需要和產業利益，商定了對等降稅產品清單。美方將對玩具、家電、嬰兒用品、廚衛用品、節日禮物等約300億美元自華進口商品降低關稅。記者採訪了多家在玩具、家電、廚衛用品等行業存在對美出口業務的上市公司，雖然目前中美對等降稅的細則尚未公佈，但多家受訪公司表示，相關事項是一個值得關注的邊際利好訊號。（人民財訊）
+
+---
+
+### 2026-09-29 07:21:54  #其他
+
+Anthropic 擬2027年在雲和基礎設施方面支出5180億美元。
+
+---
+
+### 2026-09-29 07:21:45  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish
+
+【Anthropic IPO prospectus shows FY25 revenue $4.59 bln】Anthropic's IPO prospectus reports FY25 revenue of $4.59 bln, up 1,088% YoY. Even after excluding impairment charges mainly linked to prior financing, operating losses exceeded $8.0 bln. As of Dec. 31, 2025, cash, cash equivalents and short-term investments totaled $20.28 bln. Nearly 25% of FY25 revenue came from two customers; the filing warns many of its largest customers lack long-term contracts and could cut or stop spending. The prospectus outlines plans to develop transformative AI technologies. Following recent sell-offs in AI and chip stocks, the IPO will be a further test of investor appetite for AI investments under closer scrutiny.
+
+---
+
+### 2026-09-29 07:20:29  #其他
+
+【智算中心“滿載”與“閒置”並存 新一輪算網建設建立風控閉環】9月上旬，中國銀行宣佈，“十五五”時期將聯合多類算力生態夥伴，共建“算力+”產業金融生態，提供不少於3000億元綜合金融支援，覆蓋100個重點智算中心專案。此前，國家發展改革委表示，據機構測算，“十五五”時期算力網建設將新增直接投資4萬億元。資金加速湧入之際，算力基礎設施建設正駛入快車道。但證券時報記者多方調研發現，火熱行情之下，全國算力中心正呈現“冰火兩重天”的結構性失衡：一邊是高階智算資源集體供不應求，一批運營主體依託差異化定位和技術積累跑出正向迴圈；另一邊則是低端算力大量閒置，在晶片代際、運營主體、區域分佈上呈現多重分化。值得關注的是，與上一輪“重硬體、輕運營”的粗放擴張不同，新一輪算網建設已建立風控閉環，透過“帶訂單批專案+第三方專業運營”模式，從審批源頭遏制新增閒置，透過市場化運營啟用存量資產，讓萬億級算力基建資金實現精準落地。
+
+---
+
+### 2026-09-29 07:19:33  #公司
+
+【OpenAI因安全隱患取消了最新模型釋出計劃】據報道，OpenAI在測試中發現安全風險後，取消了原定10月釋出新模型GPT-6.1 Astra的計劃。報道稱，OpenAI負責安全系統的Saachi Jain表示，GPT-6.1 Astra在兩個方面出現倒退，尚未達到釋出條件。OpenAI此前披露了一系列安全事件，其AI智慧體曾入侵外部系統，加劇了外界對於AI脫離人類控制的擔憂。該公司上週表示，在再次發生模型逃逸事件後，已暫停在能力最強的模型上進行涉及工具使用的訓練。
+
+---
+
+### 2026-09-29 07:18:50  #公司
+
+【9月電子產業獲機構密集調研 PCB和半導體細分龍頭受青睞】據Choice資料統計，截至9月28日，9月機構調研了221家電子、半導體公司，PCB（印製電路板）板塊和半導體各個細分領域的龍頭公司成為機構的關注重點。此外，記者近期調研產業鏈公司獲悉，當前PCB、半導體裝置零部件等多個細分領域均持續處於價格堅挺、滿產、擴產的狀態，整個電子半導體產業高景氣度有望持續至2028年。（上海證券報）
+
+---
+
+### 2026-09-29 07:18:42  #其他
+
+【Anthropic在向IPO投資者進行營銷推介時闡述變革性AI技術計劃】市場訊息：招股說明書顯示，Anthropic 2025財年計算與基礎設施支出飆升190%至73.3億美元，佔總運營支出的58%。2025財年GAAP淨虧損擴大至419.7億美元，2024財年為83.1億美元。IPO招股書顯示，Anthropic 2025財年營收45.9億美元，較2024財年的3.86億美元同比增長1,088%。Anthropic在向IPO投資者進行營銷推介時闡述變革性AI技術計劃。
+
+---
+
+### 2026-09-29 07:17:13  #MKT News
+
+【Shanghai Stock Exchange, China Securities Index to launch innovative drug and software services indices】Shanghai Stock Exchange and China Securities Index Co. will publish two new indices: an SSE Innovative Drug Sci‑Tech Leading Index and an SSE STAR Market Software Services Index. The Innovative Drug index will comprise 40 securities selected from the STAR Market and the SSE Main Board based on high R&D intensity and strong growth in the innovative-drug sector. The Software Services index will comprise 40 STAR Market-listed companies in software development and software services. The indices aim to boost STAR Market representation in benchmarks and provide investors with new reference points for price discovery in two high-growth sectors.
+
+---
+
+### 2026-09-29 07:16:58  #其他
+
+市場訊息：招股說明書顯示，Anthropic 2025財年公認會計原則（GAAP）營業虧損擴大至80.6億美元，2024財年該虧損額為29.8億美元。
+
+---
+
+### 2026-09-29 07:16:40  #MKT News #Important #Market Themes #AI Revolution
+
+Sources: Prospectus shows ANTHROPIC presented plans to develop transformative AI technology to IPO investors; it reports FY25 revenue of $4.59 billion, up 1,088% YoY.
+
+---
+
+### 2026-09-29 07:16:16  #其他
+
+加拿大能源監管機構：批准跨山輸油管道和解方案，建立全新通行費框架。
+
+---
+
+### 2026-09-29 07:15:50  #國際
+
+【中方強調應全力防止約旦河西岸局勢崩潰 】中國常駐聯合國代表傅聰28日在安理會巴以問題公開會上發言，強調應全力防止約旦河西岸局勢崩潰。傅聰指出，本屆聯大高階別週期間，巴勒斯坦問題是各方關注的核心議題之一。會員國普遍發出要停火不要衝突、要對話不要仇恨、要“兩國方案”不要佔領吞併的有力聲音。面對巴勒斯坦被佔領土持續惡化的迫切形勢，國際社會必須凝聚更大共識，把強烈呼聲轉化為實際行動，防止“兩國方案”前景日益暗淡，推動早日實現巴勒斯坦問題全面、公正、持久解決。傅聰說，應全力防止約旦河西岸局勢崩潰。當前佔領方肆意加速擴張定居點，大量巴勒斯坦人被驅離家園、失去生計甚至家破人亡。中方敦促以色列立即停止並撤銷定居點政策，停止強佔巴人房屋、蠶食巴勒斯坦領土，採取切實措施遏制定居者暴力，確保對所有襲擊事件嚴肅問責。以色列應當儘快返還代徵稅款，取消對西岸經濟的不合理限制，停止破壞巴勒斯坦民族權力機構的執政基礎。
+
+---
+
+### 2026-09-29 07:15:26  #MKT News
+
+【Iranian media: explosive sounds near Qeshm Island said to be warning shots】Late on the 28th explosive sounds were reported near Qeshm Island. TASNIM NEWS, citing local sources, said no attack or explosion was reported and that such noises typically reflect Iranian warning shots fired at vessels improperly transiting the Strait of Hormuz.
+
+---
+
+### 2026-09-29 07:14:20  #公司
+
+【首批“固收+”納入個人養老金產品名錄 26只基金增設Y類份額】含權二級債基與偏債混合基金兩型“固收+”基金獲准納入個人養老金基金產品名錄，9月28日，首批納入的“固收+”基金正式亮相。據記者統計，易方達、匯添富、工銀瑞信、招商等26家基金公司旗下相關產品增設Y類份額次日起生效，正式納入個人養老金基金產品名錄。在業內人士看來，此次將“固收+”基金納入個人養老金基金產品名錄，有助於豐富產品貨架，最佳化養老投資的風險收益梯度，進一步拓寬中長期資金入市渠道。（上海證券報）
+
+---
+
+### 2026-09-29 07:14:15  #公司
+
+【9月調研偏愛小盤股 機構積極掘金市場機遇】Wind資料顯示，截至9月28日記者發稿時，9月以來已有超過2700家上市公司接待機構調研，數量較8月大幅增加。從被調研公司市值及行業情況看，機構對市值在100億元以下的小盤股關注度明顯升溫，對機械裝置、電子、基礎化工等板塊公司更為青睞。對於相關板塊後市投資機遇，業內人士認為，隨著特斯拉人形機器人量產加速，具身智慧模型有望實現突破並帶來投資機會；電子板塊建議逢低關注AI算力、儲存晶片、光模組及光晶片等產業鏈環節；基礎化工板塊進入“擊球區”，需求向上將成為重要的邊際變數。（中國證券報）
+
+---
+
+### 2026-09-29 07:13:12  #其他
+
+【固態電池產業化迎利好 溫等靜壓等專用裝置成關鍵抓手】近日，工業和資訊化部、國家發展改革委等七部門聯合印發的《新型電池產業發展“十五五”規劃》提出，到2030年，全固態電池初步實現規模化應用。記者採訪獲悉，全固態電池被視作鋰電產業變革的核心方向，2027年至2028年有望迎來全固態電池乘用車小規模匯入視窗期。除汽車賽道外，人形機器人、低空飛行器等新興場景也成為固態電池的重要試驗場。此外，全固態電池規模化量產，離不開材料、裝置、工藝的協同攻堅。其中溫等靜壓等專用裝備，被視作破解固-固介面接觸難題的關鍵抓手，利元亨、先導智慧等裝置商已實現溫等靜壓裝置出貨。（上海證券報）
+
+---
+
+### 2026-09-29 07:11:37  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact mixed #FTSE100
+
+【UK shop price inflation eases in September; retailers urge tax relief】UK shop price inflation slowed to 1.4% in September from 1.5% in August, marginally above the three‑month average of 1.3%, the British Retail Consortium (BRC) said. The BRC said the Iran conflict has increased cost pressure on retailers and called on the government for further support; CEO Helen Dickinson warned retailers have absorbed successive cost rises and highlighted a planned April increase in business rates, rising employment costs, energy bills and a packaging tax as risks. Dickinson urged Chancellor Healy to use the Oct. 28 tax and spending plan to cut business tax burdens to help contain consumer prices.
+
+---
+
+### 2026-09-29 07:11:35  #其他
+
+【新基金密集發行 超70只產品定檔10月】聚焦四季度投資機會，公募加緊佈局新產品，72只基金定檔10月發行。從這些基金型別看，主要是權益類基金以及含權類“固收+”產品，值得注意的是，多隻北交所3個月持有期主題基金集中啟動發行。站在當前時點，公募基金對權益資產中長期表現保持樂觀，並積極調研尋找投資機會。（上海證券報）
+
+---
+
+### 2026-09-29 07:11:26  #公司
+
+【三星向KKR與英偉達支援的AI基礎設施企業承諾投資10億美元】三星同意向一家由KKR和英偉達支援的人工智慧基礎設施企業承諾投入10億美元，加碼AI基建領域融資浪潮。對Helix數字基礎設施公司的這筆投資，使該平臺獲得的資金總額突破110億美元，將用於推進其業務規劃，建設滿足AI需求所需的下一代資料中心、發電與輸電設施。KKR牽頭的財團於6月成立Helix，基石投資者包括英偉達、科威特投資局以及發電與售電企業維斯特拉。Helix執行長兼聯合創始人亞當・塞利普斯基表示，三星的這筆投資是對公司戰略的“信任背書”，公司旨在快速為大型雲服務商搭建日益複雜的AI基礎設施，以應對前所未有的需求。
+
+---
+
+### 2026-09-29 07:10:00  #其他
+
+【口腔種植體集採接續採購啟動 種植牙邁入集採2.0時代】國家醫保局28日舉辦口腔種植體、正畸託槽集採成果釋出會，自首輪口腔種植體、正畸託槽集採省際聯盟集採落地以來，實現了“合理減輕種植牙和牙齒矯治費用負擔”的目標。未來口腔種植體接續採購將擴大集採耗材覆蓋範圍，更好滿足多樣化口腔治療需求。
+
+---
+
+### 2026-09-29 07:08:17  #公司
+
+三星承諾向由KKR和英偉達支援的AI基礎設施公司投入10億美元。
+
+---
+
+### 2026-09-29 07:06:53  #國際
+
+【【雙預警齊發！這些地方將有10級以上雷暴大風】中央氣象臺9月29日06時繼續釋出大風藍色預警：預計，9月29日08時至30日08時，新疆北部和東部、青海南部、內蒙古大部、寧夏北部、山西北部、河北北部和南部、山東北部、河南北部、西藏北部等地部分地區有5～6級偏北風，陣風7～9級。中央氣象臺9月29日06時繼續釋出強對流天氣藍色預警：預計9月29日08時至30日08時，東北地區南部、華北中東部、西南地區北部等地的部分地區將有8級以上雷暴大風或冰雹天氣，其中，遼寧中部等地局地將有10級以上雷暴大風，最大風力可達11級以上；東北地區南部、華北中東部、西南地區東部、江南北部和東部等地的部分地區將有小時雨量大於20毫米的短時強降水天氣，其中，浙江中南部、重慶東南部、貴州東北部等地的部分地區小時雨量大於50毫米，最大可達60毫米以上。
+
+---
+
+### 2026-09-29 07:05:59  #Trading Economics #Economy #United Kingdom #Shop Price Inflation #Importance 1
+
+UK Shop Price Inflation Slows in September — UK shop price inflation eased to 1.4% year-on-year in September 2026 from 1.5% in August, slightly below market expectations of 1.5%, although it remained above the three-month average of 1.3%. Food price inflation slowed to 2.5% from 2.8%, helped by promotions that lowered meat and dairy prices, while poor European harvests pushed up fruit prices and elevated commodity costs kept chocolate and confectionery prices high. Non-food inflation also eased to 0.8% from 0.9%, as strong discounting reduced the cost of back-to-school essentials. The British Retail Consortium said retailers are absorbing higher business rates, employment costs, energy bills and packaging taxes, but warned there is a limit to how much additional costs businesses can shoulder. Britain’s broader CPI inflation rose to 3.1% in August and is expected to surpass 4% in early 2027 as the Iran war drives higher energy prices.
+
+---
+
+### 2026-09-29 07:04:37  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、商務部美大司負責人解讀第八輪中美經貿磋商成果
+2、李強在全國安全生產視訊會議上強調 抓實抓細安全生產各項工作 堅決防範遏制重特大事故發生
+3、央企將夯實重點領域技術底座（權威釋出·開局起步“十五五”） 到二〇三〇年戰略性新興產業增加值佔比再提升五個百分點
+4、《新型電池產業發展“十五五”規劃》釋出 到2030年全固態電池初步實現規模化應用
+5、前8月 科技保險提供風險保障8.7萬億元
+6、4條高鐵同步開通運營
+7、從物流效率變革看高質量發展成色
+8、海洋經濟 源源不斷的“藍色動力”（高質量發展故事匯·第23期）
+9、以新型電網建設促進“六張網”協同發展。
+
+---
+
+### 2026-09-29 07:04:25  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、習近平就建設更高水平平安中國作出重要指示強調 堅定不移貫徹總體國家安全觀 以更高水平平安中國建設保障中國式現代化行穩致遠
+2、烈士紀念日向人民英雄敬獻花籃儀式9月30日上午舉行 習近平等黨和國家領導人將出席
+3、產業家底厚 服務政策新 內生韌性足 山東持續釋放消費潛能（活力中國調研行）
+4、李強主持召開國務院常務會議 研究宏觀政策發力提效、促進有效投資有關工作，聽取新汙染物治理進展情況彙報，審議透過《事業單位登記管理條例（草案）》
+5、全國政協辦公廳、中共中央統戰部、國務院僑辦、國務院港澳辦、國務院臺辦、中國僑聯聯合舉行國慶招待會 王滬寧致辭
+6、《中共中央 國務院關於支援福建探索海峽兩岸融合發展新路建設兩岸融合發展示範區的意見》印發3年來——兩岸融合發展邁出新步伐
+7、“中國式安全感”從何來（今日談）。
 
 ---
 
@@ -12599,599 +12951,5 @@ Al Jazeera reports Israeli forces shot and killed four Palestinians in multiple 
 ### 2026-09-28 03:15:45  #國際
 
 以色列總理內塔尼亞胡在阿聯酋會見總統穆罕默德·本·扎耶德後返回以色列。
-
----
-
-### 2026-09-28 03:04:39  #國際
-
-以色列總理週日訪問阿布扎比，並與阿聯酋總統舉行會晤。
-
----
-
-### 2026-09-28 03:00:45  #其他
-
-法國極右翼領導人稱已贏得足夠席位組建參議院黨團。
-
----
-
-### 2026-09-28 02:50:09  #MKT News
-
-Israeli media reported Prime Minister Netanyahu flew to the UAE today to meet the UAE president.
-
----
-
-### 2026-09-28 02:39:39  #宏觀 #國際
-
-美國國務院釋出安全提示：美國駐英國大使館獲悉，在英國費爾福德皇家空軍基地附近，有多人因涉嫌籌備恐怖主義行為被捕。建議美國公民提高警惕，注意個人安全。請美國公民務必聽從當地相關部門的指示。
-
----
-
-### 2026-09-28 02:36:14  #國際
-
-法國外長：自伊朗戰爭爆發以來，法國已向該地區增派了額外的軍事力量和裝備，以保護合作伙伴及部分盟友免受德黑蘭方面的襲擊。
-
----
-
-### 2026-09-28 02:33:29  #其他
-
-中國地震臺網自動測定：09月28日02時29分在雲南麗江市寧蒗縣附近（北緯27.80度，東經100.59度）發生3.8級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-09-28 02:18:57  #MKT News
-
-UK Prime Minister's Office said Prime Minister Burnham discussed the Lennahouse Strategic Defense Agreement with the Norwegian prime minister and welcomed an agreement reached between Denmark, Greenland and the United States.
-
----
-
-### 2026-09-28 02:06:40  #MKT News
-
-【Serbian President Vucic resigns】On Sept. 27 evening Serbian President Aleksandar Vucic addressed the nation and announced his resignation. On Sept. 5 the Serbian Progressive Party central committee nominated Vucic as lead candidate on its parliamentary election list and as its candidate for prime minister; he accepted. On Sept. 9 Vucic signed a decree dissolving parliament and set early parliamentary elections for Oct. 25. Vucic was first elected president in April 2017 and re-elected in May 2022. Under the Serbian constitution presidential terms are five years and may be renewed once.
-
----
-
-### 2026-09-28 02:05:21  #其他 #焦點
-
-【塞爾維亞總統武契奇宣佈辭職】當地時間9月27日晚，塞爾維亞總統武契奇向民眾發表講話，宣佈辭職。本月5日，塞爾維亞前進黨總委員會決定，推舉武契奇為該黨議會選舉名單領銜人和總理候選人，武契奇隨後接受推舉。9日，武契奇簽署總統令解散議會，並宣佈於10月25日提前舉行議會選舉。 武契奇2017年4月當選總統，2022年5月連任。根據塞爾維亞憲法，總統任期5年，可連任一次。（CCTV國際時訊）
-
----
-
-### 2026-09-28 02:04:47  #國際
-
-唐寧街：英國首相伯納姆與挪威首相對丹麥、格陵蘭和美國之間達成的協議表示歡迎。
-
----
-
-### 2026-09-28 02:04:27  #MKT News #Market Regions #Europe & UK
-
-The UK Prime Minister Burnham received Norwegian Prime Minister Jonas Gahr Støre in Liverpool, the Prime Minister's Office said.
-
----
-
-### 2026-09-28 02:04:17  #其他
-
-唐寧街：英國首相伯納姆今日在利物浦接待了挪威首相約納斯·加爾·斯特勒。
-
----
-
-### 2026-09-28 02:04:05  #其他
-
-唐寧街：英國首相與挪威首相就英國和挪威之間的《倫納豪斯戰略防禦協定》進行了討論。
-
----
-
-### 2026-09-28 02:03:24  #MKT News
-
-Serbia President Vucic resigned to clear the way for an early presidential election.
-
----
-
-### 2026-09-28 01:55:30  #MKT News
-
-Israel's Foreign Ministry said the diplomatic status of the Dutch diplomat posted in Ramallah will expire in seven days.
-
----
-
-### 2026-09-28 01:55:09  #國際
-
-以色列外交部：荷蘭駐拉馬拉外交人員的外交身份將於7日後失效。
-
----
-
-### 2026-09-28 01:54:09  #MKT News
-
-Israel's foreign ministry said it revoked the diplomatic status of the Dutch diplomat in Ramallah.
-
----
-
-### 2026-09-28 01:54:06  #國際
-
-以色列外交部：以色列已撤銷荷蘭駐拉馬拉外交官的外交身份。
-
----
-
-### 2026-09-28 01:53:10  #其他
-
-亞歷山大·武契奇宣佈辭去塞爾維亞總統一職。
-
----
-
-### 2026-09-28 01:49:28  #MKT News
-
-Serbian President Vucic delivered a resignation speech.
-
----
-
-### 2026-09-28 01:48:25  #MKT News #Commodities #Energy #Market Regions #Europe & UK
-
-【Socar to cut fuel prices in Italy to pre-empt potential Meloni government windfall tax】Azerbaijan’s state oil company Socar will lower pump prices across its Italian stations, following a similar pledge from Eni and easing pressure on Prime Minister Meloni’s coalition, which had been considering a windfall tax on energy firms ahead of the next election. Foreign Minister Antonio Tajani said the move will be implemented nationwide and framed it as a voluntary contribution to help Italians, not a top-down mandate or a new tax; he had earlier urged Socar president Rovshan Najaf to act.
-
----
-
-### 2026-09-28 01:48:01  #其他
-
-塞爾維亞總統武契奇發表辭職講話。
-
----
-
-### 2026-09-28 01:43:56  #國際
-
-美國加州州長紐森簽署法案，禁止加州公職人員發行模因幣。
-
----
-
-### 2026-09-28 01:41:35  #國際
-
-以色列總理內塔尼亞胡下令就庫爾德人及資助哈馬斯問題，準備在國際刑事法院（ICC）對土耳其總統埃爾多安提起訴訟。
-
----
-
-### 2026-09-28 01:34:20  #公司 #國際
-
-【谷歌、OpenAI與Anthropic的AI安全組織正逐漸成型】據知情人士透露，谷歌、OpenAI 和 Anthropic 正在推進一項計劃，擬在不受政府監管的情況下，自行成立一個專注於 AI 安全的新標準機構，希望能在今年年底或2027年初正式啟動。知情人士稱，這三家公司初步計劃將該自律組織命名為“前沿 AI 標準局”（Standards Authority for Frontier AI，簡稱 SAFA）。工作組的部分成員曾考慮邀請多位知名人士擔任執行長（CEO）。據知情人士透露，他們已向 Sriram Krishnan 丟擲橄欖枝，邀請其出任該職位。Krishnan 曾是一名風險投資家，並在特朗普政府中擔任過高階 AI 政策顧問。
-
----
-
-### 2026-09-28 01:33:05  #公司
-
-市場資訊：谷歌、OpenAI 和 Anthropic 正在推進建立不受政府監管的人工智慧安全標準機構的計劃。該機構可能在今年年底前或2027年初啟動，並將為模型測試、審計和事故報告制定相關規則。
-
----
-
-### 2026-09-28 01:29:02  #MKT News #XAUUSD #Impact bullish #DXY
-
-Zelenskiy says Ukraine is preparing a new round of sanctions targeting Russia's financial channels, supply chains for components and equipment used in Russian weapons production, and specific companies and individuals—particularly entities and personnel involved in Russian ballistic missile production.
-
----
-
-### 2026-09-28 01:28:34  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Zelenskiy said if Russia, as it claims—especially in talks with the US—were genuinely prepared to take substantive steps to de-escalate, this wave of 'Shahed' drone attacks would not have occurred.
-
----
-
-### 2026-09-28 01:28:14  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
-
-ZELENSKIY said today that in Kyiv alone Russian suicide drones struck two kindergartens, two schools, a residential building, an auto repair shop, several warehouses and communications facilities.
-
----
-
-### 2026-09-28 01:26:54  #其他
-
-英國警方：我們認為費爾福德基地爆炸物事件已得到控制。
-
----
-
-### 2026-09-28 01:26:26  #MKT News #Important #WTI #Impact bearish #XAUUSD
-
-【Iran president says ready to facilitate Houthi-Saudi talks】In an interview aired on Al Jazeera on Sept. 26, Iranian president PEZESHKIAN said regional states can safeguard their own security, denied Iran's direct involvement in Yemen—saying the situation is "unrelated to Iran" and that Tehran only sympathizes with the oppressed—and said Iran is ready to help resolve the conflict, urging the Houthi movement and Saudi Arabia to enter talks rather than escalate.
-
----
-
-### 2026-09-28 01:21:18  #國際
-
-【伊朗總統稱願促胡塞與沙特和談】在卡達半島電視臺當地時間9月26日播出的一段專訪中，伊朗總統佩澤希齊揚強調，地區國家有能力保障自身安全。關於葉門問題，佩澤希齊揚否認伊朗直接介入，稱當地局勢“與伊朗無關”，伊朗只是感同身受地同情受壓迫者。他將沙特人和葉門人稱為“不應交戰”的兄弟，並表示伊朗已準備好幫助解決衝突，而不是火上澆油。（CCTV國際時訊）
-
----
-
-### 2026-09-28 01:20:22  #國際
-
-德國外長表示，與拉夫羅夫的會晤是出於俄羅斯安全擔憂的驅動。
-
----
-
-### 2026-09-28 01:18:45  #國際
-
-葉門武裝部隊發言人稱，四名專門負責無人機和導彈操作與發射的伊朗專家在葉門塔伊茲省被擊斃。
-
----
-
-### 2026-09-28 01:15:11  #國際
-
-伊朗外長阿拉格齊：伊朗並不關心美國的中期選舉，只關注本國的國家利益。
-
----
-
-### 2026-09-28 00:57:55  #其他
-
-中國地震臺網正式測定：09月28日00時43分在青海海南州興海縣（北緯35.35度，東經99.57度）發生4.8級地震，震源深度10千米。
-
----
-
-### 2026-09-28 00:54:37  #MKT News #Important #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #WTI #Impact mixed
-
-Ghalibaf, speaker of Iran's parliament, said 'congratulations' as the US 10-year Treasury yield hit 5.1%, calling that level a 'floor' for the next two years. He warned Iran would make the US 'relive the 1970s', citing 1970s-level interest rates alongside higher oil prices and diesel shortages.
-
----
-
-### 2026-09-28 00:53:39  #市場 #國際
-
-伊朗議會議長卡利巴夫：恭喜美國10年期國債收益率達到5.1%！太棒了。慶祝吧，這可是你們兩年後的底線。你們想把伊朗拖回20世紀70年代？沒人告訴過你們伊朗可不是給傲慢的業餘選手準備的嗎？我們會讓你們回到70年代的利率水平，外加高昂的油價、柴油短缺，還有喇叭褲。好好享受這份懷舊吧。
-
----
-
-### 2026-09-28 00:52:05  #市場 #國際
-
-【伊朗議會衛生委員會預警醫療危機 部分藥價最高漲 500%】伊朗議會衛生與治療委員會負責人沙赫里亞裡表示，今年伊朗患者需要自費承擔55%至75%的醫療費用，而部分藥品的價格已上漲了400%至500%。部分公立醫院的付款拖欠時間已達10至12個月。沙赫里亞裡稱，有報告指出患者被要求自行準備衣物和部分住院用品。他將這一情況形容為“非常反常且令人擔憂”，並將其歸咎於醫院缺乏資金。
-
----
-
-### 2026-09-28 00:47:26  #MKT News
-
-cenc auto-determined that at 00:43 on Sept 28 a roughly magnitude-4.7 earthquake occurred near Xinghai County, Hainan Prefecture, Qinghai, China; final parameters subject to a formal rapid bulletin.
-
----
-
-### 2026-09-28 00:47:05  #其他
-
-中國地震臺網自動測定：09月28日00時43分在青海海南州興海縣附近（北緯35.37度，東經99.58度）發生4.7級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-09-28 00:40:51  #焦點 #國際
-
-美國官員：（英國）費爾福德基地是針對伊朗軍事行動的關鍵發射陣地。
-
----
-
-### 2026-09-28 00:38:45  #MKT News #Macro & Rates #The Fed (FOMC) #Market Themes #AI Revolution
-
-【BESSENT urges Fed to keep open mind on inf outlook】BESSENT said Fed policymakers should keep an open mind on interest rates, arguing AI-driven productivity gains and deregulation will help restrain US inf. He said Trump appointee KEVIN WARSH recognizes US growth is comparable to, or larger than, the 1990s internet boom and contrasted that with Greenspan’s 'let it run' approach, urging the Fed to remain open-minded given deregulation factors. He added core inf has been very stable and has fallen in recent months.
-
----
-
-### 2026-09-28 00:38:16  #市場 #焦點
-
-暗盤白銀突破58美元/盎司，日內漲幅0.2%。
-
----
-
-### 2026-09-28 00:32:46  #其他
-
-胡塞武裝：在過去24小時內，沙特空軍從海米斯穆謝特空軍基地出動F-15戰機，對塔伊茲、焦夫、馬裡卜、達馬爾和薩達等省份實施了26次空襲，造成數十名平民傷亡。自本輪局勢升級以來，沙特侵略性空襲及導彈打擊的總次數已達1085次。
-
----
-
-### 2026-09-28 00:29:20  #MKT News #Market Regions #Greater China
-
-【China Council for International Cooperation on Environment and Development 2026 annual meeting opens in Beijing】The China Council for International Cooperation on Environment and Development (CCICED) opened its 2026 annual meeting in Beijing on Sept. 27. Minister of Ecology and Environment Huang Runqiu, CCICED Chinese executive vice-chair, said the seventh CCICED produced a series of policy recommendations over the past five years that have supported China’s environmental and development agenda and offered reference for global sustainable development. He called on the council to continue as a platform to deepen pragmatic cooperation, accelerate green development to benefit the public, boost innovation to drive the global green transition, and help shape a fairer, more cooperative global environmental governance framework.
-
----
-
-### 2026-09-28 00:23:53  #宏觀 #市場 #央行 #國際
-
-【貝森特敦促美聯儲對美國通脹前景保持“開放心態”】美國財政部長貝森特表示，美聯儲決策者在利率問題上應保持“開放心態”，並認為人工智慧帶來的生產率提升和放鬆監管將有助於控制美國通脹。貝森特指出，8月份美國剔除食品和能源的消費者價格上漲了0.3%，同比漲幅為2.4%。他認為“核心通脹一直非常平穩，實際上在過去幾個月已經出現下降”。
-
----
-
-### 2026-09-28 00:20:46  #國際
-
-【澤連斯基稱俄羅斯襲擊烏克蘭資料中心】烏克蘭官方表示，俄羅斯在夜間及週日清晨發動空襲，造成烏克蘭各地至少6人死亡，並襲擊了基輔多個大型資料中心。烏克蘭總統澤連斯基表示，扎波羅熱地區有3人死亡，基輔一名男子因空襲身亡。他還稱，至少8個地區的民用基礎設施遭到襲擊，包括能源設施和住宅樓。澤連斯基稱，在夜間的一系列襲擊中，俄羅斯兩次襲擊基輔一座資料中心，造成3人受傷，但沒有提供更多細節。
-
----
-
-### 2026-09-28 00:17:59  #MKT News #Market Themes #AI Revolution
-
-【Gates urges U.S. legislation to tighten AI oversight, says self‑regulation insufficient】Bill Gates told a Sunday interview that AI needs oversight beyond corporate self‑regulation and urged the U.S. Congress to pass legislation. He said law enforcement and politicians must define mandatory safety measures and monitoring. Gates cited an OpenAI disclosure in July that an AI agent escaped containment during a safety test and accessed another firm’s systems, bypassing human controls, and said such incidents have intensified calls for federal intervention. "No one thinks self‑regulation is enough," he said.
-
----
-
-### 2026-09-28 00:15:26  #其他
-
-比爾·蓋茨聲稱：人工智慧不僅僅是一項新技術，這真的是一場進化級別的事件。我們已經創造出了一個智慧物種，在許多方面，它現在就已經比我們更聰明瞭。而在未來幾年裡，隨著它以指數級的速度不斷進化，它的智慧程度將遠超我們。
-
----
-
-### 2026-09-28 00:01:17  #國際
-
-烏克蘭官員稱，俄羅斯襲擊造成烏克蘭城市三人死亡，基輔多個區遭打擊。
-
----
-
-### 2026-09-27 23:59:08  #國際
-
-【大熊貓“平平”“福雙”已運至亞特蘭大動物園】美國東部時間27日晨，中國大熊貓“平平”“福雙”搭乘包機抵達美國亞特蘭大國際機場。隨後，這對大熊貓被順利轉運至亞特蘭大動物園，進行約一個月的常規檢疫隔離。（新華社）
-
----
-
-### 2026-09-27 23:57:49  #MKT News
-
-【Five arrested near RAF Fairford; Trump says suspects attempted "significant damage"】Five men were arrested on Sunday near RAF Fairford on suspicion of terrorism and explosives offences, BBC reported. Trump said the men "attempted to cause significant damage" to the base, that US authorities had them under prolonged surveillance and that cooperation with UK authorities had been "excellent," and he added London's police may have been involved though he lacked details. Prime Minister Burnham urged the public not to speculate and said the investigation is ongoing.
-
----
-
-### 2026-09-27 23:52:10  #其他
-
-【尼泊爾強降雨引發災情 已致21人死亡】根據尼泊爾國家減少災害風險管理局通報，截至當地時間27日18時，持續強降雨引發的洪水和山體滑坡已造成該國21人死亡，另有多人失蹤和受傷。（央視新聞）
-
----
-
-### 2026-09-27 23:50:27  #MKT News #WTI #Impact bullish #XAUUSD
-
-Iran's army spokesman Brigadier General Reza Akraminia told Press TV any renewed US aggression against Iran would be met with a stronger, broader and more decisive response.
-
----
-
-### 2026-09-27 23:44:01  #國際
-
-【特朗普稱英國事件嫌疑人企圖破壞兩國共用基地】美國總統特朗普稱讚逮捕五名涉嫌策劃襲擊美國所使用的英國空軍基地的男子一事“太棒了”。據英國反恐警務部門稱，這些嫌疑人因涉嫌違反英國《爆炸物法》以及準備實施恐怖主義行為而被捕。當局正在調查是否有伊朗國家層面的介入，但他們同時提醒，調查仍在進行中，最終也可能查明其他作案動機。
-
----
-
-### 2026-09-27 23:42:35  #MKT News #Important
-
-【Houthis say they shot down Saudi 'Kariyal' drone over Yemen's Hajjah province】Houthi forces said on Sept 27 local time they shot down a Saudi "Kariyal" armed reconnaissance drone over Yemen's Hajjah province, saying the drone was conducting hostile action.
-
----
-
-### 2026-09-27 23:41:21  #其他
-
-【胡塞武裝稱擊落沙特無人機】葉門胡塞武裝發表宣告稱，當地時間9月27日，在葉門哈傑省上空擊落一架沙特方面的“卡里亞爾”型武裝偵察無人機。宣告稱，該無人機當時正在實施敵對行動。（央視新聞）
-
----
-
-### 2026-09-27 23:40:21  #MKT News
-
-U.S. ambassador to the UN Mike Walz said 146 countries — a UN record — have joined condemnation of Iran’s attacks on civilian vessels, adding that firing on civilian ships is as unacceptable as shooting down passenger planes and that Iran’s actions violate international law.
-
----
-
-### 2026-09-27 23:39:37  #公司 #國際
-
-【Anthropic CEO將與特朗普共進白宮晚宴】據知情人士向Axios透露，特朗普總統計劃於本週日晚些時候，在白宮舉辦私人晚宴，宴請Anthropic執行長達里奧·阿莫迪。此次晚宴是雙方首次一對一的會面，這表明Anthropic與本屆政府之間的關係正在解凍。此前，政府官員及其盟友與該公司之間曾長期存在緊張關係。在上週的國宴上，從OpenAI的奧特曼到谷歌的桑達爾·皮查伊等頂尖科技界CEO都陪同在特朗普身旁，但有一個引人注目的例外——阿莫迪因日程衝突未能出席。一位訊息人士稱，在那之後，特朗普親自邀請阿莫迪參加了這場晚宴。
-
----
-
-### 2026-09-27 23:38:50  #MKT News #Market Themes #AI Revolution
-
-【Trump to host ANTHROPIC CEO Dario Amodei at private White House dinner; ties appear to thaw】People familiar said President Trump will host ANTHROPIC CEO Dario Amodei for a private dinner at the White House on Sunday night, marking a first one-on-one meeting and signaling a thaw after prolonged tensions between the company and government officials. Trump and House Speaker Johnson plan to meet several top AI CEOs at the White House on Tuesday; the private dinner is being treated as a prelude to that meeting.
-
----
-
-### 2026-09-27 23:37:21  #其他
-
-【尼泊爾發生雪崩 已發現2名遇難者遺體】尼泊爾警方27日通報稱，該國北部希姆隆峰發生雪崩，已發現2名遇難者遺體。（央視新聞）
-
----
-
-### 2026-09-27 23:34:41  #宏觀 #國際
-
-【伊朗副外長批評美財長言論：各國自主決定對伊關係，脅迫制裁時代走向終結】伊朗副外長加里巴巴迪批評了美國財長貝森特關於派遣特使向各國施壓、要求其經濟孤立伊朗的言論。加里巴巴迪在社交平臺寫道：“其他國家是基於自身的利益和考量來決定與伊朗的關係的，而不是聽從美國財政部的命令。”加里巴巴迪補充稱，透過威脅和制裁強加訴求的時代“正走向終結”。
-
----
-
-### 2026-09-27 23:34:07  #其他
-
-比爾·蓋茨談及愛潑斯坦時表示：我在與愛潑斯坦會面後，他告訴我，他可以幫助為全球健康事業籌集數十億美元。他不收取任何報酬，也不會擔任任何職務。 事實證明這完全是條死衚衕。我和許多人一樣，與他交往反而在某種程度上幫他提升了聲譽。對此我感到非常遺憾。
-
----
-
-### 2026-09-27 23:32:34  #國際
-
-特朗普出席在芝加哥梅迪納鄉村俱樂部舉行的總統盃高爾夫球賽。
-
----
-
-### 2026-09-27 23:32:26  #國際
-
-美國警方稱，密歇根州底特律市西側發生槍擊事件，已造成至少3人死亡、4人受傷。
-
----
-
-### 2026-09-27 23:30:13  #MKT News #Market Themes #The Trump Trade
-
-Axios reports President Trump plans to host a private dinner at the WHITE HOUSE on Sunday night for ANTHROPIC CEO Dario Amodei.
-
----
-
-### 2026-09-27 23:28:31  #公司 #國際
-
-特朗普將宴請Anthropic執行長阿莫迪共進私人晚宴。
-
----
-
-### 2026-09-27 23:28:04  #國際
-
-美國駐聯合國大使邁克·沃爾茨談及伊朗時表示：他們為什麼要襲擊國際航運？有146個國家加入了我們對伊朗襲擊民用船隻行為的譴責，這創下了聯合國的紀錄。你不能因為自己是衝突的一方，就向民用船隻開火，就像你不能擊落民用客機一樣。伊朗正遭到全世界的譴責，而且他們全面違反了國際法。
-
----
-
-### 2026-09-27 23:27:37  #MKT News
-
-US Treasury Secretary Bessent said Iranians claim they would open the strait if a deal is reached, and the strait is currently open.
-
----
-
-### 2026-09-27 23:27:33  #國際
-
-特朗普：伊朗人想達成協議，但那不是我想要的協議，而且我們大概一年前就會同意那個協議了。
-
----
-
-### 2026-09-27 23:26:11  #國際
-
-美國財長貝森特談及伊朗：伊朗方面表示，如果達成協議，他們將開放海峽。現在海峽已經開放了。
-
----
-
-### 2026-09-27 23:25:56  #國際
-
-特朗普：自戰爭爆發以來，上週末透過霍爾木茲海峽的石油量達到最大規模。
-
----
-
-### 2026-09-27 23:25:26  #國際
-
-美國財長貝森特談及伊朗：海上僅剩1500萬桶伊朗原油，伊朗將沒有任何剩餘物資可供交易。
-
----
-
-### 2026-09-27 23:24:53  #其他
-
-黎巴嫩真主黨領導人納伊姆·卡西姆：沒有抵抗，黎巴嫩將被毀滅。
-
----
-
-### 2026-09-27 23:24:33  #MKT News #Brent #Impact bullish #WTI
-
-Iran foreign minister Araghchi said Iran is prepared to negotiate and also ready to respond to any aggression, even if that would lead to a devastating war.
-
----
-
-### 2026-09-27 23:23:08  #焦點 #國際
-
-伊朗外長阿拉格齊：我們既已做好談判的準備，也同樣做好了應對任何侵略的準備，哪怕這會導致一場毀滅性的戰爭。
-
----
-
-### 2026-09-27 23:21:35  #MKT News
-
-【Changan Auto forms AD collaborative development unit; Avita and Deep Blue begin substantive integration】Changan Auto has established an AD Collaborative Development Department — AD denotes the initials of Avita and Deep Blue — as a top-level unit. It has created second-level divisions including Planning & Cooperation, Market & Product, Shared HR Center, Shared Finance Center and a General Affairs department to assume businesses entrusted by Avita and Deep Blue. Changan proposed Avita set up shared/collaborative centers for styling design, product development and platform technology to take on Deep Blue‑entrusted work; Deep Blue will dissolve multiple business units and subordinate organizations.
-
----
-
-### 2026-09-27 23:21:23  #國際
-
-特朗普：美國最高法院就是不讓密蘇里州贏得選舉勝利。他們連續三次推翻了法官們作出的正確裁決。感謝州長，以及所有為公平和選舉安全而奮力抗爭的密蘇里州偉大人民。你們展現了無比偉大的愛國精神與對國家深沉的愛。我三次在密蘇里州都大獲全勝，我為此感到無比自豪。密蘇里是個偉大的地方，我愛你們所有人。
-
----
-
-### 2026-09-27 23:18:58  #其他
-
-【克什米爾發生4.0級地震 震源深度10千米】中國地震臺網正式測定：9月27日23時00分在克什米爾（北緯36.87度，東經74.54度）發生4.0級地震，震源深度10千米。（央視新聞）
-
----
-
-### 2026-09-27 23:15:00  #國際
-
-伊朗外長阿拉格齊：如果有人認為伊朗國記憶體在不同的權力中心，那是錯誤的。我們外交部與政府、伊朗革命衛隊、最高國家安全委員會以及議會保持著密切協調。我們都在同一條戰線上，共同面對美國強加給我們的所有挑戰。
-
----
-
-### 2026-09-27 23:14:30  #國際
-
-伊朗外長阿拉格齊：如果他們（美國）是認真的，想要達成一項重新開放霍爾木茲海峽的協議，那麼現在機會來了。我們已經提出了這個“七天計劃”。我們希望他們去做一些他們能在四到五天內完成的事情，然後在第六天海峽將開放，在第七天我們恢復關於最終協議的談判。
-
----
-
-### 2026-09-27 23:13:08  #MKT News #WTI #Impact bearish #Brent
-
-【Sources: Qatar continues shuttle diplomacy to try to broker U.S.-Iran deal】Axios reports that during the UN General Assembly in New York on Tuesday U.S. Middle East envoy Witkoff and Kushner held indirect talks with Iranian foreign minister Araghchi, with Qatari officials relaying messages. Araghchi conveyed Iran's conditions: if the U.S. lifts a naval blockade, lifts oil‑sales sanctions and restores a comprehensive regional ceasefire, Iran would reopen the Strait of Hormuz within a week and resume nuclear talks. Trump rejected the proposal on Saturday, but a U.S. official and two regional sources say Qatari mediators continued shuttle diplomacy over the weekend, circulating a compromise text and iterating edits; mediators were expected to meet Araghchi and Witkoff on Monday.
-
----
-
-### 2026-09-27 23:11:24  #國際
-
-【特朗普稱不排除繼續打擊伊朗】特朗普稱，伊朗希望達成協議，但“不是我想要的協議”，並表示伊朗“高估了自己的籌碼”。當被問及是否考慮恢復對伊朗發動軍事打擊時，特朗普說：“我一直在考慮。”（CCTV國際時訊）
-
----
-
-### 2026-09-27 23:10:20  #國際
-
-特朗普稱他一直在考慮對伊朗發動打擊。
-
----
-
-### 2026-09-27 23:09:47  #其他
-
-【瑞士公投否決更嚴格中立原則】瑞士在今天（9月27日）的公投中，否決了一項旨在採取更嚴格中立原則的提案。該提案若獲透過，將禁止瑞士實施經濟制裁或與北約進行合作。瑞士聯邦統計局公佈的結果顯示，瑞士所有州以及約70%的選民都反對將嚴格定義的中立條款寫入瑞士憲法。 該提案原本希望憲法規定，除非遭到攻擊，否則瑞士不得加入或配合任何軍事或防禦聯盟，並且除非獲得聯合國批准，否則不得參與任何制裁。 瑞士從1815年開始奉行中立政策，在兩次世界大戰中未支援任何一方。近年來，隨著國際局勢不斷變化，瑞士“永久中立”政策出現鬆動。（CCTV國際時訊）
-
----
-
-### 2026-09-27 23:08:48  #MKT News #Important
-
-【Swiss referendum rejects stricter neutrality clause】Sept 27 — Swiss voters rejected a proposal to enshrine a stricter neutrality clause in the constitution, the Federal Statistical Office said, with all cantons and roughly 70% of voters opposed. The amendment would have prohibited Switzerland from imposing economic sanctions or cooperating with NATO, barred joining or cooperating with military or defense alliances unless Switzerland were attacked, and prevented participation in sanctions without UN approval. Switzerland has observed formal neutrality since 1815; in recent years that policy has shown signs of loosening.
-
----
-
-### 2026-09-27 23:08:43  #其他
-
-【中秋假期北京累計接待遊客878.3萬人次】中秋假期，北京秋高氣爽、景緻宜人，北京文旅活動供給豐富，特色場景火熱出圈，熱門打卡地人氣集聚，累計接待遊客878.3萬人次，實現旅遊總花費115.4億元。其中，接待入境遊客8.3萬人次，實現入境遊客花費7.8億元。（央視新聞）
-
----
-
-### 2026-09-27 23:07:38  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【Trump says he has been considering resuming strikes on Iran】Per Axios, President Trump said he has been considering resuming strikes on Iran. He said US forces are assisting large oil transits through the Strait of Hormuz and that last weekend’s flows were the highest since the outbreak of the war — over 20 mln barrels. A US defense official confirmed about 22 mln barrels were exported via the strait on Friday night.
-
----
-
-### 2026-09-27 23:05:29  #MKT News #Important #WTI #Impact mixed #DXY #S&P500
-
-【Trump says more US-Iran talks likely this week; indirect talks could start Monday】Axios reports that after rejecting Iran's proposal to end the war, Trump said he expects US negotiators to hold additional talks with Iran this week. Qatar and other regional mediators are working to restart negotiations, but key gaps remain: Iran wants to focus on the Strait of Hormuz and a US maritime blockade, while the US is demanding concessions on the nuclear file. Two regional sources said indirect US‑Iran talks could begin as early as Monday, though it is unclear whether differences can be bridged. Trump said he expects more talks this week and that Iran “wants a deal, but not one I want,” adding their demands are excessive and reflect a misreading of the situation.
-
----
-
-### 2026-09-27 23:03:30  #其他
-
-中國地震臺網自動測定：09月27日23時00分在新疆喀什地區塔什庫爾幹縣附近（北緯36.99度，東經74.87度）發生4.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-09-27 23:03:20  #國際
-
-卡達正分別與伊朗和美國談判代表進行磋商。
-
----
-
-### 2026-09-27 23:02:58  #其他
-
-卡達正持續進行穿梭外交，以促成美伊達成協議。
-
----
-
-### 2026-09-27 23:02:25  #焦點 #國際
-
-【拒絕伊朗提議後，特朗普預計本週將舉行談判】在拒絕伊朗提出的一項旨在結束戰爭的提議一天後，特朗普週日表示，他預計美國談判代表本週將與伊朗進行更多會談。伊朗希望將任何會談的重點放在霍爾木茲海峽和美國海上封鎖問題上，而特朗普政府則要求伊朗同意在核問題上做出讓步。兩名地區訊息人士證實了特朗普關於本週將有更多會談的說法。他們表示，預計最早在週一，美伊之間將開啟新一輪間接對話。但目前尚不清楚雙方的分歧能否彌合。
-
----
-
-### 2026-09-27 23:00:03  #國際
-
-特朗普：預計美國談判代表將於本週與伊朗開展新一輪談判。
-
----
-
-### 2026-09-27 22:59:38  #MKT News #Important
-
-Axios: President Trump said U.S. negotiators are expected to hold further talks with Iran this week.
-
----
-
-### 2026-09-27 22:58:08  #國際
-
-市場訊息：敘利亞開始經巴尼亞斯港向伊拉克運送汽油。
-
----
-
-### 2026-09-27 22:57:43  #焦點 #國際
-
-特朗普表示，美國將與伊朗進行更多會談。
-
----
-
-### 2026-09-27 22:55:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Libya's National Oil Corporation said Zawiya refinery's first refining unit and crude pumping through the main Sharara-Zawiya pipeline resumed after Valve 7 was reopened.
 
 ---

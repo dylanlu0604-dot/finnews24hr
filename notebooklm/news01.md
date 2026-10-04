@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-10-04 22:54:37_
-_本檔包含 2439 則快訊，約 430152 字_
+_更新時間：2026-10-05 03:09:03_
+_本檔包含 2385 則快訊，約 428178 字_
+
+---
+
+### 2026-10-05 02:56:29  #MKT News #Brent #Impact bullish #WTI
+
+UK Maritime Trade Operations said it received reports of an incident 60 nautical miles south of Yemen's Mocha port. A tanker reported multiple explosions nearby; crew were reported safe and no environmental impact observed.
+
+---
+
+### 2026-10-05 02:56:13  #其他
+
+英國海上貿易行動辦公室（UKMTO）：據報告船員安全，暫未發現造成環境影響。
+
+---
+
+### 2026-10-05 02:55:56  #其他
+
+英國海上貿易行動辦公室（UKMTO）：一艘油輪目擊船體附近發生多起爆炸。
+
+---
+
+### 2026-10-05 02:55:48  #其他
+
+英國海上貿易行動辦公室（UKMTO）：收到一則發生在葉門穆哈以南 60 海里海域的事件報告。
+
+---
+
+### 2026-10-05 02:43:33  #央行 #公司 #觀點 #國際
+
+【歐洲債市重燃傳染風險，大摩：若持續鉅額波動，恐引起央行關注】在一輪拋售潮勾起人們對十五年前歐元區債務危機的記憶後，交易員正對歐洲政府債券市場的傳染跡象保持高度警惕。當某一主權債券市場的金融壓力蔓延至其他市場——即使這種蔓延看似缺乏充分理由——就會引發令央行擔憂的混亂價格波動，並迫使它們在極端情況下出手干預。這正是2011-12年歐元區債務危機的典型特徵。摩根士丹利投資管理公司固定收益聯席主管Jeff Mueller表示：“我們開始看到傳染的初步跡象。如果10月1日觀察到的劇烈價格波動持續一段時間，這可能會引起政策制定者的關注。”
+
+---
+
+### 2026-10-05 02:28:46  #其他
+
+週一悉尼盤初，美元兌G10貨幣報價持穩。
+
+---
+
+### 2026-10-05 02:19:46  #國際
+
+據伊通社（IRNA）：不久前，伊朗格什姆島聽到來自海上方向的爆炸聲。島上未見任何遭到撞擊的痕跡。截至目前，當地訊息源尚未向媒體通報事件詳情。
+
+---
+
+### 2026-10-05 02:11:47  #MKT News
+
+TASNIM NEWS: The deputy communications director of the Iranian presidential office said Paknejad had earlier submitted a resignation for personal reasons, which the president initially did not accept; the president accepted it today.
+
+---
+
+### 2026-10-05 01:52:53  #公司 #國際
+
+【伊朗石油部長辭職 伊朗國家石油公司CEO任代理部長】當地時間4日，伊朗總統辦公室官員表示，在接受石油部長帕克內賈德的辭呈後，伊朗總統佩澤希齊揚已任命伊朗國家石油公司執行長哈米德·博爾德為伊朗石油部代理部長。（央視新聞）
+
+---
+
+### 2026-10-05 01:51:35  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Islamic Republic News Agency (IRNA) reported explosions in waters off Iran's Qeshm Island.
+
+---
+
+### 2026-10-05 01:47:32  #公司 #國際
+
+美國參議院少數黨領袖舒默要求安防科技公司Flock Safety 在 10 月 16 日前答覆有關資料使用的問題。
+
+---
+
+### 2026-10-05 01:33:41  #國際
+
+【以總理下令對外國民航客機赴以安保工作進行徹底審查】當地時間10月4日晚間，以色列總理辦公室透過社交賬號釋出宣告稱，以總理內塔尼亞胡已指示該國國家安全委員會主席什穆埃爾·本·埃茲拉，要求其任命一名專門審查員，針對外國民用航空赴以飛行的所有安保環節展開全面、徹底的深入審查。（央視新聞）
+
+---
+
+### 2026-10-05 01:25:05  #公司 #國際
+
+【尼加拉瓜宣佈退出中美洲議會】尼加拉瓜外交部3日簽署公告，宣佈立即退出中美洲議會。尼加拉瓜外交部表示，“在充分行使主權的情況下”做出這一決定，該決定“立即生效”。（央視新聞）
+
+---
+
+### 2026-10-05 01:22:44  #MKT News
+
+cenc automatic detection: Oct 5 01:19, an about M3.7 earthquake occurred near Gaoxian, Yibin, Sichuan (28.56°N, 104.66°E). Final parameters subject to official rapid report.
+
+---
+
+### 2026-10-05 01:22:03  #其他
+
+中國地震臺網自動測定：10月05日01時19分在四川宜賓市高縣附近（北緯28.56度，東經104.66度）發生3.7級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-10-05 01:16:50  #國際
+
+伊朗國家電視臺：伊朗總統任命Hamid Bovard為代理石油部長。
+
+---
+
+### 2026-10-05 01:06:59  #焦點 #國際
+
+據伊朗塔斯尼姆通訊社：伊朗石油部長辭職。
+
+---
+
+### 2026-10-05 01:06:52  #MKT News #Important
+
+TASNIM NEWS reports Iran's oil minister has resigned.
+
+---
+
+### 2026-10-05 01:06:19  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【Nikkei: Saudi Arabia, UAE to assist Asia in building oil reserves】Nikkei reports Saudi Arabia and the UAE will help Asian countries accumulate oil reserves. Japan-led Asia Zero-Emissions Community, comprising 11 countries, held a ministerial meeting Thursday in the Philippines; senior Saudi and UAE officials will attend special consultations and are expected to signal cooperation on reserve accumulation. The International Energy Forum will meet in Saudi Arabia on Oct. 11; Japan is expected to present a framework for Asia-Middle East cooperation. The community plans a joint statement to form the basis for talks with Middle Eastern producers, followed by bilateral discussions to finalize scale and mechanics; Saudi and UAE officials are expected to expand exports to target countries and prioritise supply in emergency situations.
+
+---
+
+### 2026-10-05 00:58:14  #MKT News
+
+【Hassett urges Powell to leave Fed board】Kevin Hassett, White House National Economic Council director and chief economic adviser to President Trump, said on Fox News' Sunday Morning Futures that former Fed chair Powell should leave the Federal Reserve Board "now" to respect the Fed's independence. The remarks followed an internal report that found management failures in the Federal Reserve's Washington headquarters renovation.
+
+---
+
+### 2026-10-05 00:53:34  #國際
+
+【以總理稱將讓以軍成為海戰領軍者】以色列總理辦公室10月4日透過社交媒體發文表示，以色列總理內塔尼亞胡當天與以色列國防部長卡茨共同視察了位於阿什杜德的以色列海軍基地。內塔尼亞胡在視察中表示，海洋已成為“國際戰場”，以色列將加大對先進水面、水下武器裝備的投入，以應對地中海等海域的海上安全威脅。 內塔尼亞胡透露，根據軍方和安全部門的報告，以色列海軍目前亟需補充更多武器裝備。他證實，第六艘潛艇現已運抵以色列，但軍方提出了追加更多艦艇等需求。內塔尼亞胡稱，以色列的目標是在水面與水下作戰領域成為“全球領軍者之一”，並承諾將從海上捍衛以色列的國家安全。（CCTV國際時訊）
+
+---
+
+### 2026-10-05 00:52:36  #其他 #國際
+
+市場訊息：沙烏地阿拉伯與阿聯酋將協助擴充亞洲石油儲備，沙特與阿聯酋政府將出席週四的亞洲零排放共同體（AZEC）會議。
+
+---
+
+### 2026-10-05 00:41:39  #國際
+
+市場訊息：以色列總理內塔尼亞胡下令國家安全委員會，針對迪拜航空劫機未遂事件，評估外國民航安全狀況。
+
+---
+
+### 2026-10-05 00:37:51  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Israeli military says it will expand forces to meet multi-front threats】Israeli military said on Oct. 4 Chief of General Staff Zamir chaired a senior commanders’ meeting and that the force is drawing lessons from the Oct. 7, 2023 attacks. Future military strategy will prioritize preventing sudden war and include a comprehensive expansion of forces. Zamir said a core lesson is the need to expand Israel’s security perimeter, and that, given limited strategic depth and “multi‑front threats,” the army must grow to meet widening operational tasks. He said the military is building a new strategy centered on constant readiness to respond to surprise war and neutralize threats at an early stage.
+
+---
+
+### 2026-10-05 00:34:46  #央行 #國際
+
+【白宮國家經濟委員會主任哈塞特：鮑威爾應該離開美聯儲理事會】美國總統唐納德·特朗普的首席經濟顧問呼籲美聯儲前主席傑羅姆·鮑威爾離開美聯儲理事會，此前美聯儲一份內部報告指出其總部翻修工程存在管理失誤。白宮國家經濟委員會主任凱文·哈塞特在福克斯新聞Sunday Morning Futures節目中被問及鮑威爾是否應該辭職時表示：“我認為他是時候離開了，也是時候尊重美聯儲獨立性了。”美聯儲內部監察機構在9月30日的一份報告中表示，沒有發現刑事違法行為的證據，也沒有認定與這項24億美元翻修工程有關的任何“行政不當行為”，但報告指出，管理上的缺陷是導致專案成本較最初預算接近翻倍的部分原因。特朗普隨後在社交媒體發文稱，鮑威爾“應該被迫辭去在理事會的職務”。特朗普曾在鮑威爾擔任美聯儲主席期間不斷施壓，要求其降息。
+
+---
+
+### 2026-10-05 00:34:03  #國際
+
+【以軍稱將擴編以應對多線威脅】以色列軍方10月4日釋出通告稱，以軍總參謀長扎米爾當天主持召開高階指揮官會議，並在會上表示，以軍正吸取2023年10月7日遭襲的教訓，未來的軍事戰略將以“防範突發戰爭”為基準，並全面推進軍隊擴編。通告稱，扎米爾表示，以軍的一大“核心教訓”是必須“擴大安全邊界”。他明確提出，由於以色列缺乏戰略縱深且面臨“多線威脅”，必須透過擴編軍隊來應對擴張的軍事任務。扎米爾透露，以軍正在構建新的戰略，其核心指導方針是“隨時準備應對突發戰爭，並將安全威脅消除在萌芽狀態”。（CCTV國際時訊）
+
+---
+
+### 2026-10-05 00:17:18  #國際
+
+以色列總理內塔尼亞胡：我們的敵人企圖威脅我國在地中海的港口與海域，我們絕不會允許這種情況發生。
+
+---
+
+### 2026-10-05 00:17:01  #MKT News
+
+【Netanyahu: Israel will not allow enemies to threaten its maritime lifeline】Visiting the Ashdod naval base, Prime Minister Netanyahu said the maritime domain has become an international battlefield, citing the Strait of Hormuz and Bab el‑Mandeb. He warned adversaries are threatening Israel’s Mediterranean waters, ports and shipping and said Israel will not allow it. Security officials have asked for more equipment; the sixth submarine has arrived in Israel and officials are seeking additional ships, weapons and other unspecified capabilities. Netanyahu said he intends to make Israel a global leader in maritime combat capabilities and to protect Israel via the seas.
+
+---
+
+### 2026-10-05 00:14:46  #MKT News #WTI #Impact bullish #Brent #DXY
+
+【Turkish foreign-policy expert: West and Ukrainian elites intend to continue war at cost of destroying state】Turkish foreign-policy expert Bilyal Sambur said Kyiv’s plan to step up strikes on Russian refineries breaches the laws of armed conflict, which prohibit attacks on civilian infrastructure, and signals more intense military action in the coming months and this winter. He added the West may prefer escalation because it would allow them to attribute any global economic shock to the Russia‑Ukraine war rather than Iran tensions, and argued Ukrainian elites and oligarchs have incentives to prolong the conflict to consolidate power, increasing the likelihood of provocative actions against Russia despite severe consequences.
+
+---
+
+### 2026-10-05 00:11:04  #公司
+
+【胡塞武裝襲擊沙特兩處石油設施】葉門胡塞武裝發言人葉海亞·薩雷亞10月4日發表影片宣告稱，過去12小時內，沙特對葉門首都薩那以及焦夫省、塔伊茲省、阿姆蘭省、荷臺達省和薩達省發動50次空襲和導彈襲擊——自9月初本輪局勢升級以來，沙特對葉門發動的空襲和導彈襲擊累計達到1460次。薩雷亞稱，作為報復，胡塞武裝當天使用導彈和無人機，襲擊了沙特首都利雅得和胡賴斯地區的沙特阿美石油公司設施，並稱襲擊“成功命中目標”。 薩雷亞稱，胡塞武裝將繼續使用葉門自產的導彈和無人機襲擊沙特軍事基地及石油設施，直至沙特停止軍事行動並解除對葉門的封鎖。（CCTV國際時訊）
+
+---
+
+### 2026-10-05 00:07:42  #國際
+
+【日本將召集第222屆臨時國會】日本定於當地時間10月5日召集第222屆臨時國會，首相高市早苗將在當天分別出席參議院和眾議院全體會議，發表施政演說。本期國會會期預計持續至12月12日，為期69天。（央視新聞）
+
+---
+
+### 2026-10-05 00:07:38  #MKT News
+
+【Japan to convene 222nd extraordinary Diet session】Japan will convene the 222nd extraordinary Diet session on Oct. 5 local time. Prime Minister Sanae Takaichi will address full sittings of both the House of Councillors and the House of Representatives that day. The session is scheduled to run through Dec. 12, a 69-day term.
+
+---
+
+### 2026-10-05 00:00:00  #MKT News
+
+HEZBOLLAH executive council chairman said resistance is a necessary national choice to defend Lebanese territory and resist Israeli greed, and that HEZBOLLAH will steadfastly continue on this path.
+
+---
+
+### 2026-10-04 23:42:27  #國際
+
+美國能源部長賴特：特朗普正同步對伊朗施加外交與軍事壓力。
+
+---
+
+### 2026-10-04 23:39:22  #其他
+
+葉門總理：我們堅定致力於將國家權力擴大至整個葉門，並結束胡塞武裝的叛亂。我們以高度的責任感應對當前局勢，為收復薩那和結束葉門人民的苦難做好準備。
+
+---
+
+### 2026-10-04 23:34:06  #MKT News
+
+Yemen's prime minister said the government was responding to the current situation with a high sense of responsibility and was prepared to retake Sanaa and end the suffering of the Yemeni people.
+
+---
+
+### 2026-10-04 23:33:29  #MKT News
+
+Yemen prime minister says government is committed to extending state authority across all of Yemen and ending the Houthi rebellion.
+
+---
+
+### 2026-10-04 23:30:27  #國際
+
+美國駐以色列大使：迪拜航空事件屬於恐怖襲擊，目前尚未發現存在境外關聯。
+
+---
+
+### 2026-10-04 23:28:37  #國際
+
+【澤連斯基：烏德強化防務合作 對烏美俄三方會談持積極態度】當地時間10月4日，烏克蘭總統澤連斯基與德國總理默茨在烏首都基輔召開聯合新聞釋出會，公佈多項防務合作成果，並介紹了烏美俄三方會談的相關進展。澤連斯基表示，烏克蘭與德國將聯合生產2000架“巴爾斯”遠端攔截無人機。與此同時，烏克蘭正加快推進本土防空體系建設，“炮塔”防禦計劃已進入系統化實施階段，後續將部署數十套防禦炮塔。此外，烏克蘭多款小型導彈正在研發中，預計本月下半月開展測試驗收。此外，澤連斯基指出，美國目前正分別與烏克蘭、俄羅斯保持溝通，並提議在10月底前舉行三方技術性會談。烏克蘭已明確對此表示支援，對在阿聯酋或美方提議的其他國家舉辦會談持開放、積極態度。現階段，美方將向俄方正式提出該會談提議，烏克蘭將靜待俄方回應。（央視新聞）
+
+---
+
+### 2026-10-04 23:20:51  #MKT News
+
+The UN World Food Programme said one of its humanitarian aid convoys was struck by an airstrike in South Kordofan in southern Sudan in the early hours of the 3rd, killing one driver.
+
+---
+
+### 2026-10-04 23:17:52  #國際
+
+【葉門‌總統領導委員會稱反攻胡塞武裝】葉門行使總統職權的總統領導委員會主席拉沙德·阿里米今天（10月4日）發表電視講話，宣佈對葉門胡塞武裝發動“重大軍事行動”，以奪取其控制下的領土。阿里米稱，發動反攻的決定是在“所有緩和局勢的機會都已耗盡”之後做出的，他指責胡塞武裝以進一步的升級來回應緩和衝突的努力。他在電視講話中表示：“今天，我宣佈開始軍事行動，以收復領土，並將國家及其機構的權力擴充套件到整個國土。” 據知情人士透露，本次軍事行動，將由沙特方面主導空戰，葉門政府軍負責地面作戰。美國為沙特在葉門的行動提供情報支援，一些地區國家和歐洲國家主要向沙特提供防禦性軍事援助。（CCTV國際時訊）
+
+---
+
+### 2026-10-04 23:16:06  #其他
+
+英國海上貿易行動辦公室週日稱，10 月 1 日至 4 日霍爾木茲海峽共發生四起襲擊事件，均發生在海峽阿曼一側，每艘遇襲船隻都遭到不明射彈擊中。
+
+---
+
+### 2026-10-04 23:12:02  #公司
+
+【軟銀集團孫正義罕見地就AI安全風險表達擔憂 呼籲各國攜手應對威脅】軟銀集團領導人孫正義是人工智慧最堅定的信奉者之一，但即便是他也表示，隨著機器正迅速獲得更多能力，他對安全風險感到擔憂。孫正義週日在京都舉行的“科技與社會”論壇期間的一場活動上表示，人工智慧的能力呈指數級增長，這就要求各國必須建立互信，才能共同駕馭這項技術。孫正義說：“我們已經沒有讓人類彼此爭鬥的奢侈選項了，” 各國需要攜手合作來控制強大人工智慧模型所帶來的更大威脅。他表示，如果超級智慧落入錯誤的人手中，可能會變得“超級危險”。
+
+---
+
+### 2026-10-04 23:10:15  #MKT News
+
+【Israeli media: preliminary probe finds Dubai airline attacker acted alone】Israeli preliminary investigations indicate the co-pilot who attacked the captain aboard a Dubai airline flight acted alone, Channel 12 reported on April 4, citing sources. Security agencies opened an immediate probe that remains ongoing; investigators view the co-pilot as a "lone-wolf". Media identified him as 29-year-old Omani Hamam Hammami and reported he had planned to kill the captain and crash the aircraft into a skyscraper in Tel Aviv.
+
+---
+
+### 2026-10-04 23:07:25  #公司 #國際
+
+【以媒稱初步調查顯示迪拜航空襲擊者系單獨作案】據以色列媒體4日報道，以色列方面的初步調查顯示，在迪拜航空公司客機駕駛艙中襲擊機長的副駕駛系單獨作案。以色列第12頻道電視臺援引訊息人士的話說，以安全機構在事發後立即啟動調查，目前調查仍在進行。調查人員認為，涉事副駕駛是“獨狼式”作案。另據媒體報道，這名副駕駛為29歲的阿曼籍男子哈馬姆·哈馬米。他原計劃殺宕機長，並駕駛飛機撞向以色列特拉維夫的摩天大樓。（新華社）
+
+---
+
+### 2026-10-04 22:54:53  #MKT News
+
+【Poll: Nearly half of Germans say Merkel would handle current problems better than Merz】German news agency dpa on the 4th published a YouGov-commissioned poll of 2,072 German adults showing 48% said former chancellor Angela Merkel would handle Germany’s current problems better than incumbent chancellor Friedrich Merz; 29% said both are equally capable, 8% preferred Merz, and 15% were undecided or gave no answer.
 
 ---
 
@@ -14151,610 +14427,5 @@ Iran's Islamic Revolutionary Guard Corps adviser Negdi said the US, after years 
 ### 2026-10-02 06:45:02  #Trading Economics #Markets #Crypto #Importance 1
 
 Crypto Updates: Bitcoin Rises by 1.34% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.34% increase.
-
----
-
-### 2026-10-02 06:45:01  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-IRGC adviser Negdi said the late supreme leader had said avenging Soleimani’s death meant driving the United States out of the region, and that steps are now being taken toward that objective.
-
----
-
-### 2026-10-02 06:43:50  #其他
-
-Planet Labs PBC宣佈成功發射20顆衛星。
-
----
-
-### 2026-10-02 06:40:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Rubber Rises by 3.48% — Top commodity gainers are Rubber (3.48%), Rice (2.17%) and Sugar (1.89%). Biggest losers are Oat (-1.91%) and Lumber (-1.67%).
-
----
-
-### 2026-10-02 06:38:09  #MKT News
-
-U.S. Trade Representative Greer said bilateral trade talks with India are ongoing, but a trade agreement is not imminent.
-
----
-
-### 2026-10-02 06:35:50  #國際
-
-【俄莫斯科州一家化工廠發生火災致4人失蹤】俄新社1日援引俄羅斯緊急情況部門訊息報道，莫斯科州克拉斯諾扎沃茨克市一家化工廠當天發生火災，導致一座廠房坍塌。目前40人被疏散，可能有4人被困，緊急救援人員正在確認他們的下落。當地行政部門官員在社交媒體發文稱，該化工廠火災過火面積目前已達一千平方米。初步資訊顯示，火災與無人機襲擊無關，具體原因還在調查之中。（新華社）
-
----
-
-### 2026-10-02 06:35:40  #其他
-
-巴西參議員弗拉維奧·博索納羅在X平臺發文稱，他不會出席環球電視臺舉辦的總統候選人辯論。
-
----
-
-### 2026-10-02 06:35:05  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Logan, a 2026 FOMC voting member and president of the Dallas Fed, will deliver remarks due to be released in ten minutes.
-
----
-
-### 2026-10-02 06:35:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore Drops by 4.65% — Top commodity losers are Iron Ore (-4.65%) and Copper (-0.73%). Gains are led by Silver (0.88%) and Gold (0.42%).
-
----
-
-### 2026-10-02 06:33:49  #央行 #國際
-
-【美聯儲理事庫克稱供應衝擊影響意外持久 傳統應對方式面臨考驗】美聯儲理事麗莎·庫克表示，供應衝擊變得更加突出，其影響“意外持久”，這在考驗美聯儲選擇忽略這類衝擊的傳統做法。庫克週四在紐約聯儲主辦的活動上表示：“供應衝擊的影響意外持久，而且過去幾年我們看到的供應衝擊越來越多，因此它們變得更加突出。”她表示：“我們過去的傳統看法是會忽略這些供應衝擊，因為收緊貨幣政策不會影響油價，也不會影響戰爭。”庫克在與紐約聯儲行長約翰·威廉姆斯共同出席的小組討論中表示：“現在可能的情況是，取決於許多不同因素，對於何為最優的政策應對可能會得出不同結論。”她表示，美聯儲需要確保通脹預期不會脫離錨定。庫克重申，她認為人工智慧建設在增加通脹壓力，而且這項技術何時才能帶來生產力提升尚不明朗。她表示：“我擔心何時才會出現能夠推動通脹降溫的生產力提升，以及下一個供應瓶頸會在哪裡。”
-
----
-
-### 2026-10-02 06:31:47  #國際
-
-伊朗警告特朗普：你炮製的戰爭鬧劇掩蓋不了美國已力竭的事實。
-
----
-
-### 2026-10-02 06:31:16  #MKT News
-
-Yemeni government forces said they launched two airstrikes on Houthi positions on the Akroud front in Misrakh district, south of Taiz.
-
----
-
-### 2026-10-02 06:30:35  #MKT News
-
-U.S. President Trump said he will never abandon U.S. allies.
-
----
-
-### 2026-10-02 06:30:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Brent Oil Rises by 4.60% — Top commodity gainers are Brent Oil (4.60%), Gasoline (4.50%) and Crude Oil (2.94%). Biggest losers are Natural gas (-2.60%), Ethanol (-1.10%) and Heating Oil (-0.73%).
-
----
-
-### 2026-10-02 06:26:20  #國際
-
-特朗普談及歐洲：看看歐洲現在的處境，他們正被慢慢拖垮。
-
----
-
-### 2026-10-02 06:25:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【U.S. may deploy more forces to Persian Gulf; Middle East supply risk pushes oil higher】Oil rose for a third session as signs of escalation in the Middle East stoked concerns about disruptions to regional energy flows. A U.S. official said the PENTAGON may deploy an aircraft carrier and roughly 10,000 sailors and Marines to the Persian Gulf to give Trump more options to escalate military action against Iran. The buildup comes after markets had begun to ease earlier supply fears; Wall Street analysts said this week regional crude output is approaching pre-war levels while refined-product availability remains below that level. Latest signs suggest a U.S. naval blockade is cutting Iran out of energy markets: Iran appears to have loaded no crude onto tankers in September. Futures swung sharply this week as traders weighed improving crude flows against the risk of wider escalation. The U.S.-Iran war has entered its eighth month with scant diplomatic progress; Brent is up about 70% year-to-date.
-
----
-
-### 2026-10-02 06:24:21  #公司
-
-NBC環球發言人表示：公司擬對全球流媒體技術部門進行架構調整，該調整將涉及部分崗位變動。
-
----
-
-### 2026-10-02 06:23:38  #MKT News
-
-Toshiba to invest JPY60 billion to double hard-disk drive (HDD) supply capacity.
-
----
-
-### 2026-10-02 06:23:08  #市場
-
-耐克盤後股價跌幅擴大至8.4%。
-
----
-
-### 2026-10-02 06:22:56  #其他
-
-市場訊息：東芝將投資 600 億日元，把硬碟（HDD）供應能力翻倍。
-
----
-
-### 2026-10-02 06:22:44  #其他
-
-國際貨幣基金組織：縮減薩爾瓦多比特幣相關參與度的工作仍在推進。
-
----
-
-### 2026-10-02 06:20:06  #國際
-
-市場訊息：土耳其譴責胡塞武裝針對麥地那先知清真寺相關民用設施發動襲擊，呼籲 “立即、無條件” 停止襲擊。土耳其外交部表示，此次襲擊威脅沙烏地阿拉伯的主權與安全，並重申土耳其堅定支援利雅得，同時呼籲保持克制，避免地區局勢進一步升級。
-
----
-
-### 2026-10-02 06:19:38  #國際
-
-【中方在聯大三委作共同發言 敦促遏止單邊強制措施】
-中國常駐聯合國代表傅聰1日代表28個觀點相近國家在聯大第三委員會就單邊強制措施作共同發言，敦促國際社會堅決遏止這一非法行徑。
-傅聰說，當前單邊主義肆意蔓延，單邊強制措施大行其道。歷史證明，單邊強制措施是造成國際亂象、破壞世界秩序的罪魁禍首之一。國際社會必須保持清醒，加強團結合作，堅決遏止這一非法行徑。發展中國家及其人民仍在繼續遭受單邊強制措施的負面影響。這些單邊強制措施違背主權平等與合作原則，干涉他國內政，違反《聯合國憲章》宗旨和原則，有悖於多邊主義和國際法。
-傅聰說，儘管國際社會反覆呼籲立即取消單邊強制措施，但這些非法舉措繼續對目標國家及其人民造成嚴重後果，甚至危及生命。單邊強制措施以及次級制裁和過度遵守，加劇當前人道和經濟挑戰，嚴重威脅糧食、能源和金融安全。將關稅作為單邊脅迫工具的做法日益增多，包括依據國內法作出單方面認定、以國家安全或人權為藉口加徵額外關稅，進一步將經貿問題政治化，損害多邊貿易體制，擾亂全球產業鏈供應鏈，阻礙有關國家實現可持續發展目標的努力。單邊強制措施嚴重違反了包括生命權、健康權、發展權、受教育權在內的基本人權，阻礙了目標國家實現上述人權的能力。
-傅聰說，28國重申反對單邊強制措施，並呼籲少數西方國家聽從國際社會的正義呼聲，立即無條件徹底取消單邊強制措施。28國也呼籲聯合國會員國、聯合國系統和其他國際組織共同反對這些非法措施，向受制裁國家提供支援，幫助它們緩解困難。28國請聯合國秘書長繼續監測強行以單方面經濟措施為手段進行政治和經濟脅迫的情況。
-傅聰系代表安地卡及巴布達、白俄羅斯、玻利維亞、布吉納法索、柬埔寨、喀麥隆、中非共和國、古巴、朝鮮、埃及、赤道幾內亞、厄利垂亞、衣索比亞、伊朗、寮國、馬裡、尼加拉瓜、尼日、巴基斯坦、俄羅斯、南蘇丹、斯里蘭卡、巴勒斯坦、蘇丹、烏干達、委內瑞拉、辛巴威和中國等28個國家作共同發言。（新華社）
-
----
-
-### 2026-10-02 06:18:18  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
-
-US President Trump said the US Navy is enforcing a blockade and that for months no Iranian vessels have been able to transit the Strait of Hormuz.
-
----
-
-### 2026-10-02 06:15:36  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. President Trump said Iran must take very appropriate, wise action or it will not last long, and warned Tehran is very likely not to comply even if an agreement is reached.
-
----
-
-### 2026-10-02 06:15:29  #其他
-
-國際貨幣基金組織批准向薩爾瓦多提供1.3億美元資金，並稱薩爾瓦多沒有計劃再次購入比特幣。
-
----
-
-### 2026-10-02 06:15:26  #其他
-
-國際貨幣基金組織關於薩爾瓦多的表態：目前薩爾瓦多正在持續推進相關工作，以縮減政府在比特幣相關業務中的參與度，並強化對加密資產的監管與監督。
-
----
-
-### 2026-10-02 06:15:24  #其他
-
-國際貨幣基金組織談薩爾瓦多：協議允許立即發放等值1.38億美元的資金。
-
----
-
-### 2026-10-02 06:15:21  #其他
-
-國際貨幣基金組織談薩爾瓦多：部分績效指標未達標，其中包括比特幣累積方面的指標。
-
----
-
-### 2026-10-02 06:15:00  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Mexican Peso Depreciates by 1.30% — Top currency losers are Mexican Peso (-1.30%), Brazilian Real (-1.03%), Polish Zloty (-1%), Euro (-0.77%), British Pound (-0.53%) and Japanese Yen (-0.43%). Gains are led by Dollar Index (0.58%) and Swiss Franc (0.57%).
-
----
-
-### 2026-10-02 06:14:53  #MKT News #XAUUSD #Impact bullish #Brent
-
-US President Trump said Iran was three to four weeks from producing a nuclear weapon in February 2026, possibly sooner.
-
----
-
-### 2026-10-02 06:14:39  #國際
-
-美國總統特朗普：伊朗之前的領導層已經不在了，我們正試圖對現任總統保持友好。我們總得跟某個人打交道。伊朗的軍事生產能力已經崩潰，其大多數領導人已經沒了。幾個月來，伊朗一直未能讓其一艘船隻透過霍爾木茲海峽。
-
----
-
-### 2026-10-02 06:14:23  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-U.S. President Trump said most of Iran's leadership are gone and that the U.S. does not know who to deal with now.
-
----
-
-### 2026-10-02 06:13:54  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-US President Trump said Iran has for months been unable to get one of its vessels through the Strait of Hormuz.
-
----
-
-### 2026-10-02 06:13:44  #MKT News
-
-U.S. President Trump said Iran's military production capacity has collapsed and most of its leadership is gone.
-
----
-
-### 2026-10-02 06:12:58  #國際
-
-特朗普談及伊朗：2026 年 2 月的時候，伊朗距離造出核武器只剩三到四周時間，甚至可能更快。
-
----
-
-### 2026-10-02 06:12:56  #MKT News
-
-US President Trump said the war will end in some form.
-
----
-
-### 2026-10-02 06:12:29  #其他
-
-雪佛龍：裝置故障不影響該煉油廠向區域客戶供應石油產品的能力。
-
----
-
-### 2026-10-02 06:12:20  #MKT News #WTI #Impact mixed #XAUUSD #Impact bullish
-
-U.S. President Trump said the United States has taken control of Venezuela.
-
----
-
-### 2026-10-02 06:11:14  #其他
-
-雪佛龍表示，其位於加利福尼亞州埃爾塞貢多的煉油廠發生的非計劃放空燃燒不會對周邊社群，也不會對該廠在崗員工構成安全風險。
-
----
-
-### 2026-10-02 06:11:12  #MKT News #CVX.O
-
-Chevron (CVX.N) said an unplanned venting and flaring at its El Segundo, California refinery does not pose a safety risk to the community or refinery employees.
-
----
-
-### 2026-10-02 06:11:04  #MKT News #RTX.N #Impact bullish
-
-U.S. Navy secretary said a multiyear contract will accelerate production of the SM-6 missile and, through lower-cost raw-material procurement, strengthen the U.S. maritime industrial base to ensure next‑generation warfighting advantage.
-
----
-
-### 2026-10-02 06:09:31  #MKT News
-
-President Trump said the previous Iranian leadership is no longer in place, the US is trying to be friendly toward the current president and that "we have to deal with someone."
-
----
-
-### 2026-10-02 06:08:34  #其他
-
-民調機構Datafolha調查顯示，在巴西總統大選潛在第二輪投票中，盧拉支援率48%，弗拉維奧·博索納羅支援率45%。
-
----
-
-### 2026-10-02 06:07:39  #國際
-
-特朗普談及伊朗：伊朗快要撐不住了。我們現在可以輕鬆取勝。
-
----
-
-### 2026-10-02 06:07:16  #其他
-
-Datafolha民調：巴西總統選舉首輪，盧拉獲42%支援率，弗拉維奧·博索納羅獲38%。
-
----
-
-### 2026-10-02 06:07:16  #MKT News #Important #Market Themes #The Trump Trade
-
-U.S. President Trump said Iran is ready to surrender and that the U.S. will win easily.
-
----
-
-### 2026-10-02 06:06:05  #MKT News
-
-Datafolha poll: in Brazil's first-round presidential vote Lula leads with 42% support, Flavio Bolsonaro 38%.
-
----
-
-### 2026-10-02 06:04:51  #MKT News
-
-President Trump said the Saudi crown prince is a good man.
-
----
-
-### 2026-10-02 06:03:56  #公司
-
-新秀麗國際集團完成收購Béis。
-
----
-
-### 2026-10-02 06:03:45  #央行 #國際
-
-【美聯儲10月維持利率不變的機率升至75.1%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為75.1%，累計加息25個基點的機率為24.9%。美聯儲到12月維持利率不變的機率為20.6%，累計加息25個基點的機率61.3%，累計加息50個基點的機率為18.1%。
-
----
-
-### 2026-10-02 06:01:28  #其他
-
-帕蘭蒂爾與Armada成協議，部署主權人工智慧基礎設施。
-
----
-
-### 2026-10-02 05:59:20  #其他
-
-市場訊息：NBC環球將裁減數百名流媒體技術崗位員工。
-
----
-
-### 2026-10-02 05:57:14  #國際
-
-【報道：特朗普無視民主黨反對，將原本用於歐洲的援助資金調撥至拉美】三名美國官員透露，特朗普政府無視參眾兩院外交委員會資深民主黨議員的反對，從歐洲與中東國家的軍事援助專案中抽走數千萬美元資金，轉而將這筆款項撥付給拉美地區傾向保守派的政府。官員稱，週三晚間，特朗普政府悄悄通知國會，將無視國會設定的資金凍結令推進資金調撥工作，把原本批給斯洛伐克、北馬其頓、突尼西亞、伊拉克的 5200 萬美元，轉撥給巴拿馬、秘魯、厄瓜多與哥倫比亞。
-
----
-
-### 2026-10-02 05:54:33  #國際
-
-美國將 5200 萬美元資金從歐洲、中東調撥至拉美。
-
----
-
-### 2026-10-02 05:54:12  #公司
-
-法國Bull公司重啟人工智慧超級計算機工廠，產能將翻倍。
-
----
-
-### 2026-10-02 05:53:57  #國際
-
-特朗普在德州活動現場表示：我此行主要是為支援帕克斯頓。
-
----
-
-### 2026-10-02 05:48:32  #國際
-
-埃及宣佈衣索比亞大使館參贊為不受歡迎的人。
-
----
-
-### 2026-10-02 05:48:22  #其他
-
-淡水河谷：將在10月29日打包披露業績報告和產量資料。
-
----
-
-### 2026-10-02 05:46:29  #國際
-
-墨西哥經濟部長：我們與美國貿易代表格里爾的談判正在取得進展。
-
----
-
-### 2026-10-02 05:45:02  #MKT News
-
-Mexico's economy minister said the government will send a trade delegation to the EU next spring.
-
----
-
-### 2026-10-02 05:44:27  #其他
-
-墨西哥經濟部長：墨西哥計劃派出第二次赴加拿大貿易代表團。
-
----
-
-### 2026-10-02 05:43:30  #國際
-
-墨西哥經濟部長：墨西哥將於明年春季派出赴歐盟貿易代表團。
-
----
-
-### 2026-10-02 05:40:09  #市場 #觀點
-
-花旗：歐元兌美元存在跌向1.0850的風險。
-
----
-
-### 2026-10-02 05:40:07  #市場 #國際
-
-【美國共和黨考慮迅速提高債務上限 以削弱民主黨的籌碼】美國共和黨議員正在考慮一項計劃，利用本屆國會任期結束前的最後幾周迅速提高美國債務上限，從而使民主黨即使在國會取得多數席位，也將失去一個對唐納德·特朗普政府施加影響的有力籌碼。這一操作取得成功也將消除全球金融市場面臨的一項可能性較低但潛在破壞性較大的風險，因為美國聯邦政府的借款許可權預計將在2027年下半年耗盡。如果共和黨在11月3日的選舉中失去眾議院或參議院任何一院的多數席位，那麼特朗普與民主黨之間就可能出現激烈的對峙，甚至可能出現更糟糕的情況，即美國發生付款違約。根據兩黨政策中心的估算，這一風險將在2027年下半年上升。
-
----
-
-### 2026-10-02 05:37:13  #市場 #央行 #國際
-
-【兩年期美債收益率跌超9.5個基點，10年期美債收益率一度創2002年以來新高】週四（10月1日）紐約尾盤，美國10年期基準國債收益率跌4.42個基點，報5.2407%，日內交投於5.3402%-5.2049%區間，美股早盤顯著下跌，北京時間15:30逼近2002年一季度頂部5.4730%、2000年四季度頂部5.91%、2000年三季度最高位6.1820%。兩年期美債收益率跌9.56個基點，報4.7914%，15:26漲至4.9225%，隨後持續下挫、01:30重新整理日低至4.7415%，美聯儲官員講話接連打壓FOMC加息前景；30年期美債收益率跌1.84個基點，報5.6126%。
-
----
-
-### 2026-10-02 05:32:52  #市場
-
-布倫特原油日內漲6%，現報103.93美元/桶。
-
----
-
-### 2026-10-02 05:30:25  #其他
-
-耐克高管：PACE計劃的大部分節省將在2029財年和2030財年實現。預計供應鏈行動對收入所構成的壓力將持續至2028年。
-
----
-
-### 2026-10-02 05:27:18  #其他
-
-空客在獲得監管批准後，完成對 Quarkslab 的收購。
-
----
-
-### 2026-10-02 05:27:14  #其他
-
-耐克高管表示：耐克本季度業績業務增幅為中高個位數，得益於世界盃帶動需求。
-
----
-
-### 2026-10-02 05:25:35  #MKT News #TWLO.O #Impact bullish #WBD.O #Impact bearish #VYLOR.O
-
-S&P Dow Jones Indices said Twilio, a constituent of the S&P MidCap 400, will replace Warner Bros. Discovery (WBD.O) and be added to the S&P 500. Vylor has also been added to the S&P 500.
-
----
-
-### 2026-10-02 05:25:33  #公司
-
-明晟公司MSCI新興市場股票指數漲0.2%，發展中國家外匯指數跌0.3%。
-
----
-
-### 2026-10-02 05:24:20  #國際
-
-市場訊息：以色列總統赫爾佐格週四稱美國總統特朗普是以色列的“頭號朋友”。
-
----
-
-### 2026-10-02 05:23:35  #MKT News
-
-Politico: Israeli President Herzog on Thursday called US President Trump Israel's 'number-one friend'.
-
----
-
-### 2026-10-02 05:21:48  #公司
-
-耐克執行長：休閒運動鞋整體“需求疲弱”，正在衝擊客流量。
-
----
-
-### 2026-10-02 05:20:43  #公司
-
-雷神技術公司：合同推動導彈防禦能力相關產能提升。
-
----
-
-### 2026-10-02 05:20:03  #公司 #市場
-
-Twilio股價盤後上漲2%，此前該公司被納入標普500指數。
-
----
-
-### 2026-10-02 05:18:14  #其他
-
-Vylor 納入標普 500 指數。
-
----
-
-### 2026-10-02 05:18:05  #公司 #市場
-
-標普道瓊斯指數：標普中型股400指數成分股Twilio將取代華納兄弟探索公司（Warner Bros Discovery Inc），躋身標普500指數成分股。
-
----
-
-### 2026-10-02 05:17:50  #其他
-
-Twilio 即將納入標普 500 指數。
-
----
-
-### 2026-10-02 05:15:37  #其他
-
-AI 研究實驗室 Inworld 收購語音智慧體平臺 Ultravox。
-
----
-
-### 2026-10-02 05:11:53  #其他
-
-耐克將減少喬丹復古款球鞋的發售數量與推出頻次。
-
----
-
-### 2026-10-02 05:10:12  #公司
-
-耐克執行長：空軍一號系列正帶動正價商品銷售。
-
----
-
-### 2026-10-02 05:08:17  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【Iran urges Iraq to resolve flight disruptions caused by US sanctions】Press TV reported Iran’s embassy in Baghdad urged immediate action to restore Iraqi airport services for Iranian carriers, saying US sanctions have blocked ground handling and are straining bilateral ties. Iraqi ground handlers halted services fearing secondary US sanctions after Washington imposed a new round of sanctions on Iranian airlines, leading to suspension of flights to Baghdad, Najaf, Erbil and Sulaymaniyah. Reuters reported Baghdad has sought exemptions from the US Treasury and offered passenger screening and data-sharing safeguards; the US has so far issued only a one-month limited waiver.
-
----
-
-### 2026-10-02 05:07:19  #市場
-
-【離岸人民幣兌美元較週三紐約尾盤跌54點】週四（10月1日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7142元，較週三紐約尾盤跌54點，日內整體交投於6.7082-6.7222元區間。
-
----
-
-### 2026-10-02 05:06:50  #其他
-
-智利礦業部長丹尼爾・馬斯表示，在這個全球最大銅生產國遭遇一系列挫折後，近期產量下滑屬於暫時現象，並對明年的產出持樂觀態度。
-
----
-
-### 2026-10-02 05:06:23  #公司
-
-耐克執行長：大中華區、喬丹品牌與運動服飾業務的修復尚需時日。
-
----
-
-### 2026-10-02 05:02:50  #公司 #國際
-
-美國海軍授予雷神技術公司（RTX）一份價值244億美元的標準-6導彈多年生產合同。
-
----
-
-### 2026-10-02 05:02:48  #MKT News #RTX.O #Impact bullish
-
-The U.S. Navy awarded Raytheon a $24.4 billion multi-year contract to produce the Standard Missile-6 (SM-6).
-
----
-
-### 2026-10-02 05:02:43  #MKT News
-
-Cairo News reported an Egyptian official said Egypt has declared an Ethiopian embassy counselor persona non grata and ordered the diplomat to leave within 48 hours.
-
----
-
-### 2026-10-02 05:02:26  #國際
-
-美國國家航空航天局：五年基礎合同期持續至 2031 年 9 月 30 日。
-
----
-
-### 2026-10-02 05:02:22  #國際
-
-美國國家航空航天局：簽訂總價值 14 億美元一攬子採購協議。
-
----
-
-### 2026-10-02 05:01:25  #國際
-
-美國國家航空航天局：選定 16 家企業提供相關服務。
-
----
-
-### 2026-10-02 05:00:51  #國際
-
-美國國家航空航天局授予企業級後勤保障服務合同。
-
----
-
-### 2026-10-02 05:00:29  #公司 #國際
-
-美國能源服務公司擬收購 FAMCO。
-
----
-
-### 2026-10-02 05:00:10  #資料
-
-紐西蘭9月消費者信心指數降至97.6。
-
----
-
-### 2026-10-02 04:59:41  #市場
-
-【國際金價漲約0.5%，費城金銀指數收跌0.9%】週四（10月1日）紐約尾盤，現貨黃金漲0.47%，報4177.04美元/盎司，日內主要處於上漲狀態、北京時間13:37重新整理日高至4192.99點。現貨白銀漲0.93%，報60.9887美元/盎司，13:37重新整理日高至61.4332美元。COMEX銅期貨跌0.68%，報6.5765美元/磅，16:00前後短線快速擴大跌幅。在美股時段交易的費城金銀指數收跌0.90%，報357.91點。在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌1.16%，報2493.33點。在美股時段交易的原材料指數收跌0.28%，全時段處於下跌狀態、跳空低開之後逐步收復失地；金屬與礦業指數收漲0.22%。State Street金屬與礦業ETF收漲0.7%，報104.29美元。
-
----
-
-### 2026-10-02 04:58:47  #MKT News
-
-【Fighting intensifies in southwest Yemen; government says 30 Houthi fighters killed】Sanaa — Yemen Republic TV reported on the 1st that fighting has escalated across multiple fronts in Taiz province in southwest Yemen. A government statement said forces killed 30 Houthi fighters and wounded 50 in clashes in southern Taiz.
-
----
-
-### 2026-10-02 04:58:04  #其他
-
-【葉門西南省份戰事加劇 30名胡塞武裝人員被打死】薩那訊息：據葉門共和國電視臺1日報道稱，葉門西南部塔伊茲省多個戰線戰鬥加劇。報道援引政府軍宣告說，政府軍當天在塔伊茲省南部地區與胡塞武裝激戰，打死30名胡塞武裝人員，打傷50人。另據葉門政府軍訊息，自1日清晨以來，塔伊茲省5條戰線持續交戰，政府軍和胡塞武裝均遭受重大人員傷亡。一名不願透露姓名的軍方人士稱，當天戰事從清晨開始，雙方進行猛烈炮擊，並發動無人機攻擊。截至1日下午戰鬥仍在持續。政府軍加大地面軍事行動力度。此外，沙烏地阿拉伯戰機當天也對塔伊茲省受胡塞武裝控制的多處陣地發動空襲。（新華社）
-
----
-
-### 2026-10-02 04:56:35  #其他
-
-【胡塞武裝稱沙特空襲葉門多地 沙特方面暫無回應】葉門胡塞武裝方面證實，當地時間10月1日夜間，沙特對葉門薩那、薩達省、塔伊茲省、阿姆朗省等胡塞武裝控制區進行了空襲。這也是9月3日局勢升級以來，沙特首次空襲胡塞武裝控制下的葉門首都薩那。沙特方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-10-02 04:55:06  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Putin: Russia may use "all weapons" if Kaliningrad attacked】President Putin said if Russian territory, including the Baltic exclave Kaliningrad, were directly attacked, Moscow would consider using "all weapons the state possesses." He said recent warnings from the foreign ministry were not intended as intimidation but as a response to Western pressure. The foreign ministry had earlier warned that attempts by Western states to isolate Kaliningrad could prompt Russia to deploy its entire weapons arsenal in defence. NATO called the remarks "irresponsible nuclear rhetoric," saying they were unacceptable and reaffirming it will continue to defend allied territory.
 
 ---
