@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-04 22:18:26",
-  "count": 11206,
+  "updated": "2026-10-04 22:22:22",
+  "count": 11208,
   "items": [
+    {
+      "id": "5125300",
+      "time": "2026-10-04 22:19:56",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：雖然不同意加息，但尊重沃什出於正確原因所做的決定。"
+    },
+    {
+      "id": "mkt:01a10748-7dcc-7ee0-a794-4fe928a52453",
+      "time": "2026-10-04 22:19:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "HASSETT says Powell should step down."
+    },
+    {
+      "id": "mkt:01a10748-7a01-7ee0-a794-413d17a6f972",
+      "time": "2026-10-04 22:19:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Hassett: We respect Walsh's decision to vote with the commissioners in support of raising interest rates."
+    },
     {
       "id": "5125299",
       "time": "2026-10-04 22:17:27",
@@ -102805,14 +102839,6 @@
         "國際"
       ],
       "text": "貝森特談伊朗：美國正對航空公司和加密貨幣領域執行制裁。"
-    },
-    {
-      "id": "5114919",
-      "time": "2026-09-27 22:19:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【41金11銀4銅 中國創參加世界技能大賽最好成績】第48屆世界技能大賽於9月27日晚在上海閉幕，中國代表團獲得41枚金牌、11枚銀牌、4枚銅牌，6個優勝獎，第五次位居金牌榜和團體總分世界第一，創造了我國參加世界技能大賽以來的歷史最好成績。其中數控銑專案取得六連冠，砌築專案實現五連冠，電氣裝置實現四連冠。（央視新聞）"
     }
   ]
 }

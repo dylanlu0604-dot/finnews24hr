@@ -1,7 +1,41 @@
 {
   "date": "2026-10-04",
-  "count": 433,
+  "count": 436,
   "items": [
+    {
+      "id": "5125300",
+      "time": "2026-10-04 22:19:56",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：雖然不同意加息，但尊重沃什出於正確原因所做的決定。"
+    },
+    {
+      "id": "mkt:01a10748-7dcc-7ee0-a794-4fe928a52453",
+      "time": "2026-10-04 22:19:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "HASSETT says Powell should step down."
+    },
+    {
+      "id": "mkt:01a10748-7a01-7ee0-a794-413d17a6f972",
+      "time": "2026-10-04 22:19:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Hassett: We respect Walsh's decision to vote with the commissioners in support of raising interest rates."
+    },
     {
       "id": "5125299",
       "time": "2026-10-04 22:17:27",
