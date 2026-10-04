@@ -1,7 +1,45 @@
 {
-  "updated": "2026-10-04 15:58:17",
-  "count": 11222,
+  "updated": "2026-10-04 16:02:03",
+  "count": 11226,
   "items": [
+    {
+      "id": "mkt:01a105ec-daf8-7ee0-a792-b4c3d5482f0b",
+      "time": "2026-10-04 15:59:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said the return of International Atomic Energy Agency inspectors has not been discussed."
+    },
+    {
+      "id": "mkt:01a105ec-8ef6-7ee0-a792-ae8a9be0478a",
+      "time": "2026-10-04 15:59:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran foreign ministry spokesman said Iran has responded to a U.S. proposal. He said the U.S. proposal is similar to earlier offers and focuses on the nuclear issue, while Iran wants negotiations to center on the Strait of Hormuz."
+    },
+    {
+      "id": "5125168",
+      "time": "2026-10-04 15:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，未討論國際原子能機構核查人員返回一事。"
+    },
+    {
+      "id": "5125167",
+      "time": "2026-10-04 15:57:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗表示，美國的提議與先前幾項類似，其聚焦於核問題，而德黑蘭方面希望聚焦霍爾木茲海峽。"
+    },
     {
       "id": "5125166",
       "time": "2026-10-04 15:57:31",
