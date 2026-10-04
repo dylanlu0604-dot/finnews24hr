@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-05 07:43:32",
-  "count": 11108,
+  "updated": "2026-10-05 07:47:18",
+  "count": 11106,
   "items": [
+    {
+      "id": "mkt:01a10950-136c-7ee0-a795-ca3b11bba2fb",
+      "time": "2026-10-05 07:46:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan defence minister Koizumi summons commander of U.S. Forces Japan】Fuji TV reported on Oct. 5 that Japan defence minister Koizumi summoned the commander of U.S. Forces Japan after an alleged killing involving a U.S. service member in Naha, Okinawa. Koizumi said Tokyo views the incident as extremely serious and lodged a protest with Washington."
+    },
+    {
+      "id": "mkt:01a1094f-77a8-7ee0-a795-c1052302ec95",
+      "time": "2026-10-05 07:46:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 futures rose 1.86% in early trade."
+    },
+    {
+      "id": "5125460",
+      "time": "2026-10-05 07:44:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本防相召見駐日美軍司令】據日本富士電視臺今天（10月5日）報道，針對沖繩縣那霸市發生的駐日美軍涉嫌殺人案，日本防衛大臣小泉進次郎召見駐日美軍司令，表示日方“極其嚴肅看待”此事，並向美方提出抗議。日本警方10月4日逮捕了一名駐沖繩美國士兵，此人涉嫌10月3日凌晨在那霸市一家酒店搶劫並殺害一名當地女性。據日本廣播協會（NHK）今天報道，受害女性的頸部纏有類似繩索的物品，留有被勒過的痕跡，死因繫頸部受壓導致的窒息。嫌疑人、隸屬於普天間駐日美軍基地的美國海軍陸戰隊上等兵德文·雅各布·巴拉德在調查中否認了指控，稱“我不知道（此事）”。（CCTV國際時訊）"
+    },
     {
       "id": "5125459",
       "time": "2026-10-05 07:41:53",
@@ -101929,54 +101957,6 @@
         "Impact bullish"
       ],
       "text": "NIO (NIO.N) said it has signed a definitive agreement with Geely Holding Group on a strategic transaction covering battery-swap and charging businesses."
-    },
-    {
-      "id": "5115106",
-      "time": "2026-09-28 07:46:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "蔚來宣佈與吉利控股集團就換電及充電業務領域的戰略交易達成最終協議。"
-    },
-    {
-      "id": "5115105",
-      "time": "2026-09-28 07:46:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.05點。"
-    },
-    {
-      "id": "5115104",
-      "time": "2026-09-28 07:45:56",
-      "tags": [
-        "資料",
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：科技股內部優先關注光通訊、PCB及部分國產算力龍頭】華泰證券A股策略指出，目前A股或處於震盪修復階段，考慮到前期調整已釋放較多估值及交易風險、歷史規律表明節前回撤後復市修復機率偏高，本輪持股過節的賠率有所改善，但由於假期內美國就業、PMI等資料或集中公佈，配置重點或應轉向盈利確定性較高、估值消化相對充分的方向：1）科技內部優先關注估值消化較充分、盈利能見度較高的光通訊、PCB及部分國產算力龍頭，降低對盈利下修和純主題品種的暴露；2）同時關注配置較低、價差改善的化工和造紙鏈，以紅利資產作為組合穩定器。節前宜保留基本面較強的核心倉位，適當壓縮高波動交易倉位，持股結構的重要性高於總倉位。"
-    },
-    {
-      "id": "5115103",
-      "time": "2026-09-28 07:45:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數期貨早盤下跌0.1%。"
-    },
-    {
-      "id": "te:markets:587033",
-      "time": "2026-09-28 07:45:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Fall to Start the Week — US stock futures declined on Monday as investors looked for fresh catalysts in the week ahead while keeping a close eye on developments in the Middle East. President Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, saying Tehran had overplayed its hand, while adding that he expects negotiations to resume this week. Equity markets remained under pressure from elevated oil prices, which heightened inflation concerns and strengthened expectations for a more hawkish interest-rate outlook. Treasury yields also climbed to multi-decade highs last week amid expectations of further Federal Reserve tightening and growing concerns over government debt. Investors now turn their attention to the Fed’s preferred inflation gauge and key US jobs data due this week. Elsewhere, Trump was scheduled to have dinner with Anthropic CEO Dario Amodei on Sunday, with discussions expected to include the tech executive’s recent calls to slow the development of new AI models."
     }
   ]
 }

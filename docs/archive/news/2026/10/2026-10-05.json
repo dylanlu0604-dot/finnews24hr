@@ -1,7 +1,35 @@
 {
   "date": "2026-10-05",
-  "count": 114,
+  "count": 117,
   "items": [
+    {
+      "id": "mkt:01a10950-136c-7ee0-a795-ca3b11bba2fb",
+      "time": "2026-10-05 07:46:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan defence minister Koizumi summons commander of U.S. Forces Japan】Fuji TV reported on Oct. 5 that Japan defence minister Koizumi summoned the commander of U.S. Forces Japan after an alleged killing involving a U.S. service member in Naha, Okinawa. Koizumi said Tokyo views the incident as extremely serious and lodged a protest with Washington."
+    },
+    {
+      "id": "mkt:01a1094f-77a8-7ee0-a795-c1052302ec95",
+      "time": "2026-10-05 07:46:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 futures rose 1.86% in early trade."
+    },
+    {
+      "id": "5125460",
+      "time": "2026-10-05 07:44:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本防相召見駐日美軍司令】據日本富士電視臺今天（10月5日）報道，針對沖繩縣那霸市發生的駐日美軍涉嫌殺人案，日本防衛大臣小泉進次郎召見駐日美軍司令，表示日方“極其嚴肅看待”此事，並向美方提出抗議。日本警方10月4日逮捕了一名駐沖繩美國士兵，此人涉嫌10月3日凌晨在那霸市一家酒店搶劫並殺害一名當地女性。據日本廣播協會（NHK）今天報道，受害女性的頸部纏有類似繩索的物品，留有被勒過的痕跡，死因繫頸部受壓導致的窒息。嫌疑人、隸屬於普天間駐日美軍基地的美國海軍陸戰隊上等兵德文·雅各布·巴拉德在調查中否認了指控，稱“我不知道（此事）”。（CCTV國際時訊）"
+    },
     {
       "id": "5125459",
       "time": "2026-10-05 07:41:53",
