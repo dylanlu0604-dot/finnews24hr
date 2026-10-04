@@ -1,7 +1,19 @@
 {
   "date": "2026-10-04",
-  "count": 271,
+  "count": 272,
   "items": [
+    {
+      "id": "mkt:01a10606-a8cc-7ee0-a792-d5e4985000c8",
+      "time": "2026-10-04 16:27:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Paul Chan: Mainland China arrivals to Hong Kong rise 8.4% in first three days of Golden Week】HONG KONG GOVT Financial Secretary Paul Chan said on Oct. 4 that over the first three days of the National Day Golden Week more than 732,000 mainland China visitors entered Hong Kong, up about 8.4% YoY. The Immigration Department expects roughly 1.29 million mainland visitors for the full Golden Week and said average daily arrivals were up more than 5% YoY."
+    },
     {
       "id": "5125182",
       "time": "2026-10-04 16:23:21",

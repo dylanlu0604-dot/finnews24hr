@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-04 16:24:46",
-  "count": 11219,
+  "updated": "2026-10-04 16:28:48",
+  "count": 11218,
   "items": [
+    {
+      "id": "mkt:01a10606-a8cc-7ee0-a792-d5e4985000c8",
+      "time": "2026-10-04 16:27:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Paul Chan: Mainland China arrivals to Hong Kong rise 8.4% in first three days of Golden Week】HONG KONG GOVT Financial Secretary Paul Chan said on Oct. 4 that over the first three days of the National Day Golden Week more than 732,000 mainland China visitors entered Hong Kong, up about 8.4% YoY. The Immigration Department expects roughly 1.29 million mainland visitors for the full Golden Week and said average daily arrivals were up more than 5% YoY."
+    },
     {
       "id": "5125182",
       "time": "2026-10-04 16:23:21",
@@ -102892,22 +102904,6 @@
         "公司"
       ],
       "text": "【百利天恆：T-Bren膽道癌納入突破性名單，臨床20項】百利天恆公告，公司自主研發的T-Bren（HER2 ADC）用於HER2表達的經含鉑化療治療失敗的區域性晚期或轉移性膽道癌患者方案，已被國家藥品監督管理局藥品審評中心納入突破性治療品種名單並完成公示。截至目前，T-Bren正在國內外開展20項臨床試驗。"
-    },
-    {
-      "id": "5114745",
-      "time": "2026-09-27 16:26:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯納姆稱近期蒙面移民抗議“不可接受”。"
-    },
-    {
-      "id": "5114744",
-      "time": "2026-09-27 16:25:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞財長查默斯：資料將顯示，上一財年赤字小於預期。"
     }
   ]
 }
