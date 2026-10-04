@@ -1,7 +1,46 @@
 {
   "date": "2026-10-05",
-  "count": 56,
+  "count": 60,
   "items": [
+    {
+      "id": "5125426",
+      "time": "2026-10-05 05:01:43",
+      "tags": [
+        "公司",
+        "資料"
+      ],
+      "text": "【警告AI失控的前Anthropic研究員將出席紐約聽證會】曾在Anthropic任職的前研究員雅各布·考克森將於週一出席紐約市議會的一場聽證會，與全球一些大型AI公司的代表同場作證，雅各布·考克森曾警告稱，人工智慧可能變得過於強大，以至於人類無法控制。據知情人士透露，應紐約市議會議長朱莉·梅寧的要求，考克森將出席此次聽證會。目前，紐約市議員正在考慮一系列法案，旨在圍繞這項技術建立安全保障機制。考克森上月離開Anthropic，並對開發越來越強大AI的競賽發出嚴厲警告，指責前僱主Anthropic和OpenAI是在“拿我們的生命下注”。他已確認計劃於週一出席聽證會作證。此次聽證會將讓一些業內最直言不諱的批評者與Anthropic、OpenAI、Alphabet旗下谷歌以及Meta Platforms的代表同場出席。據其中一名知情人士透露，前谷歌DeepMind研究員亞歷克斯·特納以及AI Futures Project執行董事、前OpenAI研究員丹尼爾·科科塔伊洛也預計將出席作證。該人士稱，上述四家大型AI公司將派出負責政策和安全事務的官員參加聽證會。"
+    },
+    {
+      "id": "5125425",
+      "time": "2026-10-05 05:01:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美海岸警衛隊繼續搜尋失事飛機機上人員】美國海岸警衛隊東北區司令馬特·萊克4日在新聞釋出會上說，對3日失事飛機機上6人和黑匣子的搜尋工作仍在繼續，鑑於飛機殘骸涉及範圍非常廣，工作難度大。萊克說，首要任務是找到6名機上人員，下一步是尋找飛機黑匣子。發現飛機殘骸的地方距馬薩諸塞州楠塔基特島海岸約32公里，該區域水深24至28米。"
+    },
+    {
+      "id": "mkt:01a108b8-d333-7ee0-a795-3edaabf0a2ff",
+      "time": "2026-10-05 05:01:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "Alphabet"
+      ],
+      "text": "【Ex-Anthropic researcher to testify at NYC AI hearing with Anthropic, OpenAI, Google and Meta】Former Anthropic researcher Jacob Coxon will testify Monday at a New York City Council hearing on AI alongside representatives from Anthropic, OpenAI, Alphabet-owned Google and Meta, sources said. Coxon, who left Anthropic last month, has warned AI could become uncontrollable and accused Anthropic and OpenAI of “betting with our lives” by racing to develop more powerful systems. The hearing, requested by City Council Speaker Julie Menin, comes as council members consider bills to establish safety safeguards for the technology. Former DeepMind researcher Alex Turner and Daniel Kokotajlo, executive director of the AI Futures Project and a former OpenAI researcher, are also expected to testify. Sources said the four large AI firms will be represented by officials responsible for policy and security."
+    },
+    {
+      "id": "5125424",
+      "time": "2026-10-05 04:58:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【波黑公佈主席團成員選舉初步結果】當地時間10月4日晚，波黑中央選舉委員會公佈波黑主席團選舉初步結果，戴尼斯·貝契羅維奇（Denis Bećirović）、達里亞娜·菲利波維奇（Darijana Filipović）、熱莉卡·茨維亞諾維奇（Željka Cvijanović）分別在波什尼亞克族、克羅埃西亞族、塞爾維亞族候選人中領先。（央視新聞）"
+    },
     {
       "id": "5125421",
       "time": "2026-10-05 04:42:58",
