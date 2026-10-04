@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-05 05:25:11",
-  "count": 11139,
+  "updated": "2026-10-05 05:29:01",
+  "count": 11141,
   "items": [
+    {
+      "id": "mkt:01a108d1-1b2b-7ee0-a795-4f60368500f7",
+      "time": "2026-10-05 05:28:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Aramco set its November OSP for Arab Light to Northwest Europe at a $0.85/bbl premium to ICE Brent, and set its November OSP for US deliveries of Arab Light at a $4.60/bbl premium to Arab Light."
+    },
+    {
+      "id": "mkt:01a108cf-d7e0-7ee0-a795-42a953464546",
+      "time": "2026-10-05 05:26:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "ARAMCO set its November official selling price for Arab Light crude to Asia at a $5/bbl discount to the Oman/Dubai average."
+    },
     {
       "id": "5125431",
       "time": "2026-10-05 05:19:12",
