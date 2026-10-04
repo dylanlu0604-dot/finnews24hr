@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-04 22:42:30",
-  "count": 11208,
+  "updated": "2026-10-04 22:46:33",
+  "count": 11204,
   "items": [
+    {
+      "id": "5125308",
+      "time": "2026-10-04 22:44:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果新任CEO特努斯上任即親掌設計，10月密集推新品對沖服務業務放緩】科技記者馬克·古爾曼在其專欄報道，接替蒂姆·庫克出任蘋果CEO的約翰·特努斯（John Ternus）上任數週內將大量精力投入產品與設計工作，親自擔任公司設計的最終決策者。報道稱，特努斯出身硬體工程，正把財務、供應鏈分別交由CFO凱萬·帕雷克和COO薩比爾·汗負責，而自己頻繁進駐工業設計與人機介面團隊，每週多次到設計工作室，與庫克時代每月至多到訪一小時形成明顯反差。古爾曼獲悉，蘋果並未外部物色首席設計官，特努斯實際上已選定自己擔任這一角色。產品方面，蘋果計劃10月13日舉辦釋出會，推出帶屏智慧家居中樞、新款HomePod mini及升級款Apple TV，三款產品均以Siri AI為核心；iPhone Duo將於10月23日上市。報道稱，今秋還將推出首次搭載OLED與觸控式螢幕、並大幅減重的MacBook Pro（正測試macOS 27.2，預計下月釋出）以及首款OLED版iPad mini。古爾曼稱，特努斯意在加快產品研發、壓縮成本，以對沖增長放緩的服務業務。"
+    },
+    {
+      "id": "mkt:01a1075f-d07a-7ee0-a794-6dcd7843a10f",
+      "time": "2026-10-04 22:44:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. Energy Secretary Wright said diesel prices should fall below $6 a gallon soon."
+    },
     {
       "id": "5125307",
       "time": "2026-10-04 22:39:33",
@@ -102783,58 +102801,6 @@
         "公司"
       ],
       "text": "利比亞國家石油公司(NOC)宣告稱，在7號閥門重新開啟後，扎維耶煉油廠的首批煉油裝置及透過沙拉拉-扎維耶主管線的原油輸送已恢復執行。"
-    },
-    {
-      "id": "5114931",
-      "time": "2026-09-27 22:45:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心預測，熱帶低氣壓18E在墨西哥南部沿海近海停留期間將繼續增強。"
-    },
-    {
-      "id": "5114930",
-      "time": "2026-09-27 22:45:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，奧達利斯氣旋正在迅速減弱，預計將於今晚變性為溫帶後氣旋。"
-    },
-    {
-      "id": "5114929",
-      "time": "2026-09-27 22:44:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心就熱帶低氣壓\"費伊\"表示，該低氣壓將緩慢轉向，隨後在本週中期轉向西南偏西方向移動，且前進速度將加快。"
-    },
-    {
-      "id": "mkt:01a0e353-74d7-7118-86ad-9a51ac00541b",
-      "time": "2026-09-27 22:44:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "US President Trump said the suspect intended to cause significant damage to the base."
-    },
-    {
-      "id": "mkt:01a0e352-07cf-7118-86ad-9009e0450677",
-      "time": "2026-09-27 22:43:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP said arrests in the UK near RAF Fairford were a good thing and that the US had long monitored certain suspects and has apprehended them."
-    },
-    {
-      "id": "5114928",
-      "time": "2026-09-27 22:42:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們已對嫌疑人監視了很長時間，並已將其抓獲。"
     }
   ]
 }
