@@ -1,7 +1,54 @@
 {
   "date": "2026-10-04",
-  "count": 242,
+  "count": 247,
   "items": [
+    {
+      "id": "5125163",
+      "time": "2026-10-04 15:49:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國司法大臣：沒有理由將阿聯酋投資與曼城案掛鉤。"
+    },
+    {
+      "id": "5125162",
+      "time": "2026-10-04 15:47:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海灣航運貿易組織（UKMTO）表示，船員安全，目前釋出宣告時尚未報告此次事件造成任何環境影響。"
+    },
+    {
+      "id": "mkt:01a105e1-36f5-7ee0-a792-a6abe270a5dd",
+      "time": "2026-10-04 15:46:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "UKMTO said it received reports of an incident in the Strait of Hormuz; tankers reported being struck by an unidentified object, causing engine-room damage."
+    },
+    {
+      "id": "5125161",
+      "time": "2026-10-04 15:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室表示，一艘油輪報告遭未知拋射物擊中，導致輪機艙受損。"
+    },
+    {
+      "id": "te:markets:589311",
+      "time": "2026-10-04 15:46:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Jordan",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Jordan Hit 18-year High — ASE increased to 4212.00 Index Points, the highest since September 2008. Over the past 4 weeks, Amman Stock Exchange General Index gained 4.18%, and in the last 12 months, it increased 38.44%."
+    },
     {
       "id": "5125160",
       "time": "2026-10-04 15:45:39",
