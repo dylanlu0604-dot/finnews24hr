@@ -1,7 +1,26 @@
 {
   "date": "2026-10-04",
-  "count": 134,
+  "count": 136,
   "items": [
+    {
+      "id": "5125076",
+      "time": "2026-10-04 10:32:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【沙特阿美煉油廠遭胡塞武裝導彈襲擊，沙特計劃大規模反攻】葉門胡塞武裝當地時間10月3日晚發表宣告，稱使用多枚彈道導彈和無人機襲擊了沙特首都利雅得的阿美石油公司目標，並稱行動成功。沙特方面尚未發表官方宣告。社交媒體平臺X上流傳的未經核實畫面顯示，濃重黑煙從利雅得阿美煉油廠多處位置升騰而起。與此同時，據Axios援引兩名美國官員報道，沙特正計劃在未來數日內對胡塞武裝發動大規模軍事行動，目標直指使胡塞武裝得以控制曼德海峽這一關鍵海上通道的沿海地區。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a104c1-48a3-7ee0-a791-d34e305e5c50",
+      "time": "2026-10-04 10:32:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump in Ohio cites Stellantis, Electra.aero and Bayer investment pledges, credits tariffs ahead of midterms】President Donald Trump campaigned in Vandalia, Ohio, saying \"your state is booming,\" and cited investment pledges to the state from Stellantis, Electra.aero and Bayer. He credited his tariff policies for securing those commitments and urged supporters to vote. The event was part of a month-long, intensified pre-election campaign to mobilize his base ahead of November midterms."
+    },
     {
       "id": "5125075",
       "time": "2026-10-04 10:16:28",
