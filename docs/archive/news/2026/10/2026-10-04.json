@@ -1,7 +1,49 @@
 {
   "date": "2026-10-04",
-  "count": 136,
+  "count": 141,
   "items": [
+    {
+      "id": "5125080",
+      "time": "2026-10-04 10:38:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日方就駐日美軍涉嫌殺人案向美方提出抗議】據日本共同社4日報道，日本外務事務次官船越健裕就駐日美軍涉嫌殺人案向美國方面提出抗議。（新華社）"
+    },
+    {
+      "id": "5125079",
+      "time": "2026-10-04 10:37:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期前三天 海南離島免稅購物金額超3.5億元】據海口海關統計，10月1日至3日，2026年國慶假期前三天，海口海關共監管海南離島免稅購物金額3.58億元，參與購物人數5.51萬人次，購買離島免稅商品27.70萬件，比2025年同期分別增長8.85%、12.90%、8.02%。（央視新聞）"
+    },
+    {
+      "id": "5125078",
+      "time": "2026-10-04 10:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美海岸警衛隊發現失聯飛機殘骸 機上6人仍下落不明】當地時間10月3日，美國海岸警衛隊證實，他們在馬薩諸塞州南部楠塔基特島附近海域發現了此前失聯飛機的殘骸。海岸警衛隊表示，對機上6名失蹤乘客的搜尋工作仍在繼續。（央視新聞）"
+    },
+    {
+      "id": "5125077",
+      "time": "2026-10-04 10:36:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港交所行政總裁：國際投資者把目光投向中國市場 港交所要推出人民幣計價黃金期貨】香港特區2026年施政報告提出將深化香港的全球離岸人民幣業務和資本市場，港交所行政總裁陳翊庭2日表示，國際投資者已重新把目光投向亞洲地區，特別是中國市場，並有意做多元化資產配置，香港需要構建多元化資產生態圈，而並非只做大做強股票市場。港交所會研究推出人民幣計價黃金期貨。 (央視財經)"
+    },
+    {
+      "id": "mkt:01a104c4-7774-7ee0-a791-da885c2e48c9",
+      "time": "2026-10-04 10:35:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Main structure of China’s first offshore CO2-injection EGR platform completed】China National Offshore Oil Corp (CNOOC) said the country’s first offshore CO2-injection enhanced-gas-recovery (EGR) demonstration — the new central platform at the Dongfang 1-1 gas field — has completed main-structure construction and entered commissioning. When operational the project will sequester over 1 mln tonnes of CO2 a year in subsea formations, a material step toward scaling deep decarbonization in China’s offshore energy sector."
+    },
     {
       "id": "5125076",
       "time": "2026-10-04 10:32:52",
