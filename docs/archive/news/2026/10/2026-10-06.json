@@ -1,7 +1,86 @@
 {
   "date": "2026-10-06",
-  "count": 230,
+  "count": 238,
   "items": [
+    {
+      "id": "5126604",
+      "time": "2026-10-06 04:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西雷亞爾對美元即期交易收漲4.12%，收報1美元兌5.0022雷亞爾。"
+    },
+    {
+      "id": "5126603",
+      "time": "2026-10-06 04:02:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波音公司入選美國定向能武器系統試點專案。"
+    },
+    {
+      "id": "mkt:01a10da8-a68b-7ee0-a7aa-223ac185dd7c",
+      "time": "2026-10-06 04:01:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "Nasdaq100",
+        "Impact bullish",
+        "NVAX.O",
+        "BABA.N"
+      ],
+      "text": "【US close: Nasdaq hits record; Novavax jumps 20%】US stocks closed Monday. Dow Jones rose 0.18%, the S&P 500 gained 0.67% and the Nasdaq Composite climbed 1.05% to a record. NVIDIA (NVDA.O) rose 2%, Novavax (NVAX.O) jumped 20%, Qualcomm (QCOM.O) fell 2% and SpaceX (SPCX.O) gained over 7%. The Nasdaq Golden Dragon China Index added 1.7%; Alibaba (BABA.N) rose 4%."
+    },
+    {
+      "id": "5126602",
+      "time": "2026-10-06 04:01:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "萊納公司股價下跌6.7%，創下自2024年3月以來最大單日跌幅。"
+    },
+    {
+      "id": "5126601",
+      "time": "2026-10-06 04:01:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "SPACEX股價上漲7.6%，收於6月以來最高水平。"
+    },
+    {
+      "id": "5126600",
+      "time": "2026-10-06 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.18%，標普500指數漲0.67%，納指漲1.06%。PTC Inc.漲33.49%，MercadoLibre漲9.72%，VYLR漲9.28%，SpaceX漲7.63%，Illumina漲7.56%，查爾斯河實驗室漲7.13%，Moderna漲6.95%。“七姐妹”方面：特斯拉漲2.18%，英偉達漲2.09%，Meta Platforms漲1.87%，微軟漲1.47%，谷歌漲0.99%，亞馬遜平，蘋果跌0.23%。"
+    },
+    {
+      "id": "5126599",
+      "time": "2026-10-06 04:00:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國選定四家公司參與定向能武器系統試點專案。"
+    },
+    {
+      "id": "5126598",
+      "time": "2026-10-06 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.68%】JDZG漲6.40%，萬國資料漲6.33%，世紀互聯漲6.16%，老虎證券漲5.53%，再鼎醫藥漲5.34%。"
+    },
     {
       "id": "5126597",
       "time": "2026-10-06 03:57:07",
