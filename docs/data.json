@@ -1,7 +1,111 @@
 {
-  "updated": "2026-10-05 08:06:00",
-  "count": 11061,
+  "updated": "2026-10-05 08:09:45",
+  "count": 11065,
   "items": [
+    {
+      "id": "mkt:01a10964-a142-7ee0-a796-0bad49dc6696",
+      "time": "2026-10-05 08:09:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's TOPIX extends gains to 1%."
+    },
+    {
+      "id": "5125477",
+      "time": "2026-10-05 08:09:01",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本日經225指數上漲2%，至69,676.96點。"
+    },
+    {
+      "id": "5125476",
+      "time": "2026-10-05 08:08:46",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【OpenAI執行長：人工智慧的益處值得承受風險】OpenAI執行長薩姆·奧特曼表示，人工智慧帶來的益處足以讓人類接受一些風險，並主張這項技術應繼續向公眾廣泛開放，而不是由少數幾家實驗室嚴格壟斷或集中控制。奧特曼一次採訪中說道：“我們認為，為了這項技術帶來的益處以及人們所擁有的自主權，世界應當接受某些負面事件的發生。”奧特曼表示：“我不會接受這樣的交換條件：即為了確保不發生重大駭客攻擊、不濫用這項技術、杜絕詐騙以及消除所有其他負面後果，而做出某種妥協。因為我認為，人們利用這項技術所創造的積極成果，將遠遠超過其帶來的負面影響，甚至高出幾個數量級。”儘管主張對大眾開放並容忍一定程度的“粗糙邊緣”或濫用，奧特曼也劃清了界限，強調不能接受 AI 發生“嚴重的未來控制權喪失”或權力高度集中等顛覆性的反烏托邦災難。"
+    },
+    {
+      "id": "mkt:01a10964-353a-7ee0-a796-0044f6d38608",
+      "time": "2026-10-05 08:08:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "CNH",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Asian currencies steady, may be supported by cooling Fed rate‑hike expectations】Asian currencies were rangebound against the dollar in early trade, supported by cooling market expectations for Fed rate hikes, which can reduce the appeal of US fixed‑income assets. ANZ research said a softer‑than‑expected US September jobs report gives the FOMC more time to assess before further policy moves. ANZ added senior Fed officials have signaled no need to rush and markets have sharply trimmed odds of an October rate increase."
+    },
+    {
+      "id": "5125475",
+      "time": "2026-10-05 08:07:52",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "阿根廷總統米萊：希望阿根廷能與博索納羅合作。"
+    },
+    {
+      "id": "mkt:01a10962-bf92-7ee0-a795-fc2c03b6ee94",
+      "time": "2026-10-05 08:07:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude touched $101.00/barrel, down 0.88% intraday."
+    },
+    {
+      "id": "mkt:01a10962-ad77-7ee0-a795-f31427a83311",
+      "time": "2026-10-05 08:07:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's September TD-MI inflation index has not yet been released."
+    },
+    {
+      "id": "5125474",
+      "time": "2026-10-05 08:07:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守102美元/桶，日內跌0.30%。"
+    },
+    {
+      "id": "5125473",
+      "time": "2026-10-05 08:06:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲1%，至4,132.42點。"
+    },
+    {
+      "id": "5125472",
+      "time": "2026-10-05 08:05:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4150美元/盎司，日內漲0.26%。"
+    },
     {
       "id": "mkt:01a10960-40f1-7ee0-a795-e8a510fe3993",
       "time": "2026-10-05 08:04:25",
@@ -101452,64 +101556,6 @@
         "MKT News"
       ],
       "text": "Australia's S&P/ASX 200 opened 19.20 points higher, up 0.22%, at 8,684.20 on Monday, Sept. 28."
-    },
-    {
-      "id": "mkt:01a0e558-4cd8-7118-86b0-290ed1c3416c",
-      "time": "2026-09-28 08:09:24",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "Bank of Japan minutes showed the policy board discussed long-term interest-rate developments; several members said if markets doubt the BOJ can raise rates at an appropriate pace, the term premium could rise."
-    },
-    {
-      "id": "mkt:01a0e558-4785-7118-86b0-208aacca2742",
-      "time": "2026-09-28 08:09:22",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan minutes: a Cabinet Office representative said implementing appropriate monetary policy to achieve stable inf is very important and expressed hope the Bank of Japan will work closely with the government."
-    },
-    {
-      "id": "5115142",
-      "time": "2026-09-28 08:08:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：政策委員會就長期利率走勢展開辯論，多名委員表示，如果市場擔憂日本央行無法以合適節奏加息，期限溢價可能會上升。"
-    },
-    {
-      "id": "5115141",
-      "time": "2026-09-28 08:07:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：內閣辦公室代表稱，推行合適的貨幣政策以實現穩定通脹至關重要，期望日本央行與政府保持密切協作。"
-    },
-    {
-      "id": "5115140",
-      "time": "2026-09-28 08:07:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要： 一名委員表示，日本央行必須加快加息步伐，因為若通脹風險成真，將對經濟造成巨大損害。多名委員表示，目前難以預判未來加息的節奏與時機。幾名成員表示，日本央行必須向市場傳達其意圖，即相比以往將更多關注通脹上行風險。一名委員表示，日本央行必須聚焦上行價格風險，靈活調整政策利率。"
-    },
-    {
-      "id": "5115139",
-      "time": "2026-09-28 08:06:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：多名委員表示，目前難以預判未來加息的節奏與時機。"
     }
   ]
 }

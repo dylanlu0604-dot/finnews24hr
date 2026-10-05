@@ -1,7 +1,111 @@
 {
   "date": "2026-10-05",
-  "count": 133,
+  "count": 143,
   "items": [
+    {
+      "id": "mkt:01a10964-a142-7ee0-a796-0bad49dc6696",
+      "time": "2026-10-05 08:09:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's TOPIX extends gains to 1%."
+    },
+    {
+      "id": "5125477",
+      "time": "2026-10-05 08:09:01",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本日經225指數上漲2%，至69,676.96點。"
+    },
+    {
+      "id": "5125476",
+      "time": "2026-10-05 08:08:46",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【OpenAI執行長：人工智慧的益處值得承受風險】OpenAI執行長薩姆·奧特曼表示，人工智慧帶來的益處足以讓人類接受一些風險，並主張這項技術應繼續向公眾廣泛開放，而不是由少數幾家實驗室嚴格壟斷或集中控制。奧特曼一次採訪中說道：“我們認為，為了這項技術帶來的益處以及人們所擁有的自主權，世界應當接受某些負面事件的發生。”奧特曼表示：“我不會接受這樣的交換條件：即為了確保不發生重大駭客攻擊、不濫用這項技術、杜絕詐騙以及消除所有其他負面後果，而做出某種妥協。因為我認為，人們利用這項技術所創造的積極成果，將遠遠超過其帶來的負面影響，甚至高出幾個數量級。”儘管主張對大眾開放並容忍一定程度的“粗糙邊緣”或濫用，奧特曼也劃清了界限，強調不能接受 AI 發生“嚴重的未來控制權喪失”或權力高度集中等顛覆性的反烏托邦災難。"
+    },
+    {
+      "id": "mkt:01a10964-353a-7ee0-a796-0044f6d38608",
+      "time": "2026-10-05 08:08:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "CNH",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Asian currencies steady, may be supported by cooling Fed rate‑hike expectations】Asian currencies were rangebound against the dollar in early trade, supported by cooling market expectations for Fed rate hikes, which can reduce the appeal of US fixed‑income assets. ANZ research said a softer‑than‑expected US September jobs report gives the FOMC more time to assess before further policy moves. ANZ added senior Fed officials have signaled no need to rush and markets have sharply trimmed odds of an October rate increase."
+    },
+    {
+      "id": "5125475",
+      "time": "2026-10-05 08:07:52",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "阿根廷總統米萊：希望阿根廷能與博索納羅合作。"
+    },
+    {
+      "id": "mkt:01a10962-bf92-7ee0-a795-fc2c03b6ee94",
+      "time": "2026-10-05 08:07:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude touched $101.00/barrel, down 0.88% intraday."
+    },
+    {
+      "id": "mkt:01a10962-ad77-7ee0-a795-f31427a83311",
+      "time": "2026-10-05 08:07:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's September TD-MI inflation index has not yet been released."
+    },
+    {
+      "id": "5125474",
+      "time": "2026-10-05 08:07:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守102美元/桶，日內跌0.30%。"
+    },
+    {
+      "id": "5125473",
+      "time": "2026-10-05 08:06:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲1%，至4,132.42點。"
+    },
+    {
+      "id": "5125472",
+      "time": "2026-10-05 08:05:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4150美元/盎司，日內漲0.26%。"
+    },
     {
       "id": "mkt:01a10960-40f1-7ee0-a795-e8a510fe3993",
       "time": "2026-10-05 08:04:25",
