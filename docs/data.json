@@ -1,7 +1,50 @@
 {
-  "updated": "2026-10-06 03:37:13",
-  "count": 10478,
+  "updated": "2026-10-06 03:40:59",
+  "count": 10482,
   "items": [
+    {
+      "id": "5126591",
+      "time": "2026-10-06 03:39:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：（外國）銀行若與伊朗開展業務，或將遭到制裁。"
+    },
+    {
+      "id": "5126590",
+      "time": "2026-10-06 03:39:44",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部新增多名個人及實體至制裁名單。"
+    },
+    {
+      "id": "mkt:01a10d94-47e2-7ee0-a7a9-f82b6c507875",
+      "time": "2026-10-06 03:39:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury has issued notices to foreign banks that do business with Iran."
+    },
+    {
+      "id": "5126589",
+      "time": "2026-10-06 03:39:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及加拿大：加拿大對我們徵收了大量關稅，除我之外無人知曉。"
+    },
+    {
+      "id": "5126588",
+      "time": "2026-10-06 03:38:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部向與伊朗開展業務的外國銀行釋出通知。"
+    },
     {
       "id": "5126587",
       "time": "2026-10-06 03:34:07",
@@ -96407,14 +96450,6 @@
         "國際"
       ],
       "text": "伊朗國家廣播電視臺（IRIB）：伊拉克真主黨稱，如果 10 月 1 日後針對伊朗的航空禁運持續下去，伊拉克將關閉與參與對伊制裁國家之間的邊境口岸。"
-    },
-    {
-      "id": "mkt:01a0e987-5573-7338-aaf9-c2dc4d9c02db",
-      "time": "2026-09-29 03:39:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli outlet Today Israel reports the UAE meeting with Netanyahu took place with the knowledge and tacit approval of the US government."
     }
   ]
 }
