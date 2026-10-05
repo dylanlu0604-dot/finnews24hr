@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-05 18:19:31",
-  "count": 10488,
+  "updated": "2026-10-05 18:23:22",
+  "count": 10489,
   "items": [
+    {
+      "id": "mkt:01a10b96-13b1-7ee0-a79f-179ac77bbddd",
+      "time": "2026-10-05 18:22:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) reported an incident 11 nautical miles north of Khasab in the Sea of Oman: a tanker inbound to the Strait of Hormuz received a radio call from Iran's Islamic Revolutionary Guard Corps instructing it to turn back or be targeted; the vessel complied."
+    },
+    {
+      "id": "5126046",
+      "time": "2026-10-05 18:22:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國海事貿易行動辦公室（UKMTO）表示，一艘經霍爾木茲海峽航行的油輪遭到伊朗伊斯蘭革命衛隊（IRGC）喊話，要求該油輪返航，否則將被打擊。"
+    },
+    {
+      "id": "5126045",
+      "time": "2026-10-05 18:21:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室：一艘油輪被要求返航，否則將成為打擊目標。"
+    },
+    {
+      "id": "5126044",
+      "time": "2026-10-05 18:20:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室收到阿曼海塞卜以北11海里處發生事件的報告。"
+    },
+    {
+      "id": "5126043",
+      "time": "2026-10-05 18:19:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【諾貝爾獎致敬屠呦呦】在宣佈諾貝爾生理學或醫學獎獲得者之前，諾貝爾獎官方賬號曾發文致敬屠呦呦：“屠呦呦成為首位在科學領域獲得諾貝爾獎的大陸中國科學家——她發現了青蒿素，這種瘧疾療法拯救了數百萬生命。”"
+    },
     {
       "id": "mkt:01a10b92-b25e-7ee0-a79f-0844e9c36d3d",
       "time": "2026-10-05 18:18:45",
@@ -96504,46 +96549,6 @@
         "Importance 2"
       ],
       "text": "India Industrial Output Growth Beats Expectations — India’s industrial production growth accelerated to 8.0% year-on-year in August 2026, up from an upwardly revised 7.4% in July and well above market expectations of 6.5%. Manufacturing output rose 9.0%, accelerating from 8.2% in July, led by electrical equipment (30.9%), motor vehicles (25.2%), rubber and plastics products (21.4%), computer, electronic and optical products (19.3%), fabricated metal products (16.9%), textiles (13.1%), and machinery and equipment (10.3%). Among other major industries, basic metals production increased 2.4% and food products rose 2.8%, while output contracted in coke and refined petroleum products (-0.6%) and chemicals and chemical products (-0.5%). Elsewhere, electricity and gas supply growth accelerated to 12.3% from 8.7% in July, while mining and quarrying output fell 5.6%, following a 0.9% decline in the previous month."
-    },
-    {
-      "id": "te:economy:587243",
-      "time": "2026-09-28 18:22:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macedonia",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Macedonia Producer Inflation Hits 1½-Year High — The annual producer inflation rate in North Macedonia rose to 7.1% in August 2026 from 6.5% in the previous month, reaching its highest level since February 2025. Price growth accelerated for intermediate goods excluding energy (6.2% vs 5.3% in July), capital goods (11.9% vs 10.9%), and consumer goods (4.0% vs 3.9%), both durable (4.4% vs 3.8%) and non-durable (4.0% vs 3.9%). Conversely, energy prices eased (10.2% vs 11.3%). By sector and division, costs rose for manufacturing (6.3% vs 5.9%), particularly for food products, textiles, paper and paper products, basic pharmaceutical products and preparations, and machinery and equipment. Costs also climbed in mining and quarrying (21.7% vs 16.4%). Meanwhile, inflation moderated in electricity, gas, steam and air conditioning supply (10.5% vs 11.7%), while it held steady in water supply, sewerage, waste management, and remediation services at 7.4%. On a monthly basis, producer prices edged up 0.4% in August after remaining flat in July."
-    },
-    {
-      "id": "te:markets:587242",
-      "time": "2026-09-28 18:20:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Ease to Over 2-Week Low — Soybeans fell below $13 a bushel, their lowest level in more than two weeks, but remained close to the 3-1/2-year high of $13.30 on September 10, as traders awaited signs that the US-China agreement to reduce tariffs on roughly $30 billion of imports from each country would translate into stronger Chinese demand for US soybeans. China’s tariff reductions cover products including corn, wheat, sorghum, meat, seafood and fresh produce, while the two countries also agreed to create an agricultural working group. Soybeans, however, were notably excluded apart from seeds, leaving US shipments subject to a roughly 13% tariff. China has already purchased more than half of its annual pledge to buy 25 million tons of US soybeans, but progress on a separate $17 billion agricultural purchase commitment remains limited. Ample supplies, weak domestic demand and disruptions to Black Sea grain flows could further constrain Chinese imports in the near term."
-    },
-    {
-      "id": "em:qqyh_zgyh:202609283885308960",
-      "time": "2026-09-28 18:19:41",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【八部門：健全徵信服務體系 逐步培育具有全球話語權的信用評級機構】中國人民銀行等八部門聯合印發《關於金融支援服務業擴能提質的指導意見》。其中提出，健全徵信服務體系。發揮金融信用資訊基礎資料庫的徵信服務主渠道功能，助力有資金需求、有發展前景的服務業經營主體獲得融資支援。持續提升信用評級質量，發揮信用評級機構專業化水平，逐步培育具有全球話語權的信用評級機構。"
-    },
-    {
-      "id": "5116395",
-      "time": "2026-09-28 18:19:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）埃博拉疫情確診病例超8000例】總檯記者獲悉，剛果（金）衛生部9月28日公佈的最新資料顯示，截至目前，該國本輪埃博拉疫情累計報告確診病例8067例，其中3901人死亡；另有2070人康復，773人仍在住院治療或接受隔離。疫情已擴散至全國26個省份中的7個省、共計63個衛生區，包括伊圖裡省、喬波省、北基伍省、南基伍省、下韋萊省、上韋萊省以及南烏班基省。（央視新聞）"
     }
   ]
 }
