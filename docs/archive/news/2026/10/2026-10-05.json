@@ -1,7 +1,53 @@
 {
   "date": "2026-10-05",
-  "count": 128,
+  "count": 133,
   "items": [
+    {
+      "id": "mkt:01a10960-40f1-7ee0-a795-e8a510fe3993",
+      "time": "2026-10-05 08:04:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose to $4,150 per ounce, up 0.26% intraday."
+    },
+    {
+      "id": "mkt:01a1095f-b22b-7ee0-a795-e7c7c45a4ca5",
+      "time": "2026-10-05 08:03:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【No candidate wins Brazil first-round presidential vote; runoff set for Oct. 25】As of local time Oct. 5, preliminary counts in Brazil's 2026 presidential first round show none of 12 candidates secured over 50% of the vote; top two finishers, Flavio Bolsonaro and Lula, will advance to a runoff on Oct. 25."
+    },
+    {
+      "id": "5125471",
+      "time": "2026-10-05 08:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國喬治亞州街區派對發生槍擊事件，造成2人死亡，數十人受傷。"
+    },
+    {
+      "id": "mkt:01a1095e-d7b0-7ee0-a795-ddf3e5c00533",
+      "time": "2026-10-05 08:02:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean stock market closed today."
+    },
+    {
+      "id": "5125470",
+      "time": "2026-10-05 08:01:54",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日經225指數高開1.2%，報69113.74點，電子、機械板塊個股領漲。"
+    },
     {
       "id": "mkt:01a1095d-a3fe-7ee0-a795-d3fd656c6240",
       "time": "2026-10-05 08:01:34",

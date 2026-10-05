@@ -1,7 +1,53 @@
 {
-  "updated": "2026-10-05 08:02:14",
-  "count": 11067,
+  "updated": "2026-10-05 08:06:00",
+  "count": 11061,
   "items": [
+    {
+      "id": "mkt:01a10960-40f1-7ee0-a795-e8a510fe3993",
+      "time": "2026-10-05 08:04:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose to $4,150 per ounce, up 0.26% intraday."
+    },
+    {
+      "id": "mkt:01a1095f-b22b-7ee0-a795-e7c7c45a4ca5",
+      "time": "2026-10-05 08:03:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【No candidate wins Brazil first-round presidential vote; runoff set for Oct. 25】As of local time Oct. 5, preliminary counts in Brazil's 2026 presidential first round show none of 12 candidates secured over 50% of the vote; top two finishers, Flavio Bolsonaro and Lula, will advance to a runoff on Oct. 25."
+    },
+    {
+      "id": "5125471",
+      "time": "2026-10-05 08:03:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國喬治亞州街區派對發生槍擊事件，造成2人死亡，數十人受傷。"
+    },
+    {
+      "id": "mkt:01a1095e-d7b0-7ee0-a795-ddf3e5c00533",
+      "time": "2026-10-05 08:02:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean stock market closed today."
+    },
+    {
+      "id": "5125470",
+      "time": "2026-10-05 08:01:54",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日經225指數高開1.2%，報69113.74點，電子、機械板塊個股領漲。"
+    },
     {
       "id": "mkt:01a1095d-a3fe-7ee0-a795-d3fd656c6240",
       "time": "2026-10-05 08:01:34",
@@ -101464,112 +101510,6 @@
         "國際"
       ],
       "text": "日本央行會議紀要：多名委員表示，目前難以預判未來加息的節奏與時機。"
-    },
-    {
-      "id": "5115138",
-      "time": "2026-09-28 08:05:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.1%，報8,670.50點。"
-    },
-    {
-      "id": "5115137",
-      "time": "2026-09-28 08:05:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國國務卿魯比奧將於週一美東時間上午11:15會見沙特外交大臣。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202609283884574478",
-      "time": "2026-09-28 08:04:54",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行一名成員：可能會以更快的速度加息】日本央行會議紀要顯示，一名成員表示，市場似乎認為日本央行將每六個月左右加息一次，但實際上可能會以更快的速度加息。"
-    },
-    {
-      "id": "mkt:01a0e553-f6f9-7118-86b0-1d0b7c9cbd27",
-      "time": "2026-09-28 08:04:40",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Minutes of the Bank of Japan meeting showed one member said the bank must accelerate rate hikes because if inflation risks materialize they would inflict major damage on the economy."
-    },
-    {
-      "id": "5115136",
-      "time": "2026-09-28 08:04:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國國務卿魯比奧將於週一美東時間上午10點會見黎巴嫩總理。"
-    },
-    {
-      "id": "5115135",
-      "time": "2026-09-28 08:03:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要： 一位委員會成員稱，日元當前貶值可能導致通脹壓力進一步加劇。多名成員表示，日本央行正逐步進入新階段，當前工作重心需轉向將核心通脹穩定在2%左右，而非繼續推高通脹。一位委員表示，市場似乎認為日本央行將大約每6個月加息一次，但實際上央行可能以更快步伐加息。一名委員表示，日本央行必須聚焦上行價格風險，靈活調整政策利率。"
-    },
-    {
-      "id": "mkt:01a0e552-bee3-7118-86b0-1381db6c0a08",
-      "time": "2026-09-28 08:03:20",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan minutes: one member said the BOJ must flexibly adjust the policy rate and focus on upside price risks."
-    },
-    {
-      "id": "te:markets:587034",
-      "time": "2026-09-28 08:03:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Japan Hit 4-week High — JP225 increased to 66845.00 Index Points, the highest since August 2026. Over the past 4 weeks, Japan Stock Market Index (JP225) gained 0.52%, and in the last 12 months, it increased 48.19%."
-    },
-    {
-      "id": "mkt:01a0e552-6daf-7118-86b0-0c5a1a9844de",
-      "time": "2026-09-28 08:02:59",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan minutes: one member said markets appear to expect rate hikes roughly every six months, but actual tightening could proceed faster."
-    },
-    {
-      "id": "mkt:01a0e552-5246-7118-86b0-00606a8c079b",
-      "time": "2026-09-28 08:02:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan minutes said several members view the central bank as gradually shifting to a phase of focusing on stabilizing core inflation around 2% rather than trying to push inflation higher."
-    },
-    {
-      "id": "5115134",
-      "time": "2026-09-28 08:02:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和黃醫藥：2026年9月24日HMPL-A830首名患者給藥】和黃醫藥公告，公司啟動HMPL-A830用於治療不可切除的晚期或轉移性實體瘤的全球臨床試驗Ia期部分；首名患者已於2026年9月24日在中國接受首次給藥治療。"
     }
   ]
 }
