@@ -1,7 +1,33 @@
 {
-  "updated": "2026-10-06 03:52:18",
-  "count": 10481,
+  "updated": "2026-10-06 03:56:06",
+  "count": 10477,
   "items": [
+    {
+      "id": "mkt:01a10da1-6f7c-7ee0-a7aa-1e95bd082eb3",
+      "time": "2026-10-06 03:54:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Trump: US withdrew bombers from RAF Fairford over \"specific threat\"】On Oct 5, Trump said the US withdrew bombers from RAF Fairford because of a \"specific threat.\" He told reporters at the White House the US \"knows who made the threat\" and the aircraft were not withdrawn \"without cause,\" and that Washington adjusted deployments after detecting the threat."
+    },
+    {
+      "id": "5126595",
+      "time": "2026-10-06 03:53:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：因“具體威脅” 美軍轟炸機撤離英國基地】當地時間10月5日，美國總統特朗普表示，美軍此前從英國皇家空軍費爾福德基地撤走轟炸機，是因為基地面臨“具體威脅”。特朗普當天在白宮外接受記者採訪時表示，美方“知道是誰發出了威脅”，這些轟炸機並非“無緣無故”撤離。他稱，美方在發現威脅後決定調整部署。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a10d9f-c69b-7ee0-a7aa-17bdae7effbc",
+      "time": "2026-10-06 03:52:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHO says, based on unofficial information after deaths at a Russian plague research institute, public-health risk to the general population appears low."
+    },
     {
       "id": "5126594",
       "time": "2026-10-06 03:51:38",
@@ -96380,67 +96406,6 @@
         "其他"
       ],
       "text": "沙特：奈季蘭省釋出潛在危險預警。"
-    },
-    {
-      "id": "5117302",
-      "time": "2026-09-29 03:55:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗外交部長會見聯合國秘書長古特雷斯。"
-    },
-    {
-      "id": "mkt:01a0e994-de7f-7338-aaf9-e96b8d0cce5e",
-      "time": "2026-09-29 03:54:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Earthquake in southern Ibaraki felt in Tokyo】Japan Meteorological Agency said a magnitude-4.9 earthquake struck southern Ibaraki at about 04:45 local time on Sept. 29. The quake registered a maximum seismic intensity of 4 on the JMA scale, with a hypocenter depth of about 50 km; shaking was felt in Tokyo."
-    },
-    {
-      "id": "5117301",
-      "time": "2026-09-29 03:53:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceXAI在公開測試中推出Team Bots。"
-    },
-    {
-      "id": "mkt:01a0e994-7e14-7338-aaf9-e52774e69bf3",
-      "time": "2026-09-29 03:53:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "MSFT.O"
-      ],
-      "text": "SpaceXAI has opened public testing of its SpaceXAI Team Bots to Microsoft Teams and enterprise customers."
-    },
-    {
-      "id": "5117300",
-      "time": "2026-09-29 03:53:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本茨城縣南部發生地震 東京震感明顯】總檯記者獲悉，當地時間9月29日4時45分，日本茨城縣南部發生標準震度4的地震。據日本氣象廳訊息，29日4時45分左右，日本茨城縣南部發生4.9級地震，最大震感為震度4，震源深度50公里。（央視）"
-    },
-    {
-      "id": "mkt:01a0e994-068c-7338-aaf9-de1344849b3a",
-      "time": "2026-09-29 03:53:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "SpaceXAI launches Team Bots to support collaborative AI workflows."
-    },
-    {
-      "id": "5117299",
-      "time": "2026-09-29 03:52:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷試圖叫停英國在Falklands的（一個）石油專案。"
     }
   ]
 }
