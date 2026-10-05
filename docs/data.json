@@ -1,7 +1,89 @@
 {
-  "updated": "2026-10-05 17:59:58",
-  "count": 10538,
+  "updated": "2026-10-05 18:04:12",
+  "count": 10518,
   "items": [
+    {
+      "id": "mkt:01a10b84-5481-7ee0-a79e-79e9e0a70d8f",
+      "time": "2026-10-05 18:03:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's armed forces say they have launched a \"strategic offensive\" in Sanaa."
+    },
+    {
+      "id": "5126015",
+      "time": "2026-10-05 18:02:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "葉門武裝部隊稱其在薩那發起了“戰略攻勢”。"
+    },
+    {
+      "id": "5126014",
+      "time": "2026-10-05 18:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cenovus將以每股12加元現金加股票的方式收購Athabasca Oil。"
+    },
+    {
+      "id": "te:markets:589539",
+      "time": "2026-10-05 18:02:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Holds Below $91 as Supply Pressures Ease — Crude oil held below $91 a barrel on Monday, with markets balancing easing supply pressures against renewed geopolitical risks. Prices came under pressure after Saudi Aramco cut the November selling price of Arab Light to Asian buyers to $5 a barrel below the regional benchmark, a deeper discount than the $2 offered for October. The move suggests stronger competition for market share as oil flows through the Strait of Hormuz recover, while the G7’s latest emergency stockpile release is also weighing on prices. However, supply concerns remain significant. Saudi Arabia’s East-West pipeline continues to operate normally after reports of a fresh attack had briefly raised fears of another disruption. Meanwhile, OPEC+ agreed to leave production quotas unchanged next month."
+    },
+    {
+      "id": "5126013",
+      "time": "2026-10-05 18:02:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "水利部和中國氣象局10月5日18時聯合釋出黃色山洪災害氣象預警：預計，10月5日20時至6日20時，海南北部、雲南西部等地部分地區可能發生山洪災害（藍色預警），其中，雲南西部區域性地區發生山洪災害可能性較大（黃色預警）。"
+    },
+    {
+      "id": "5126012",
+      "time": "2026-10-05 18:02:01",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【土耳其9月通脹繼續回落 市場押注央行下次會議降息】土耳其9月通脹繼續放緩，提升了央行在下一次議息會議降息的可能性，以此緩解國內資金危機帶來的流動性緊張問題。土耳其統計局週一公佈，年度消費者物價漲幅連續第四個月回落，從8月的31.5%降至29.7%。18位經濟學家的預期中值為30.3%。月度物價漲幅為1.84%，與8月持平，低於17位分析師調查的預期中值2.28%。交通、教育和住房價格是當月物價上漲的主要推手。資料公佈後，土耳其股市延續漲勢，銀行股領漲。土耳其BIST銀行指數一度上漲2.8%，反映市場押注融資成本下行。里拉債券同樣走高，兩年期債券收益率下行36個基點至39.49%。里拉匯率基本持穩，伊斯坦布林時間上午10:08報1美元兌49.16里拉。"
+    },
+    {
+      "id": "te:markets:589537",
+      "time": "2026-10-05 18:00:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Volatile Above $102 — Brent crude fluctuated around $102.5 a barrel on Monday, with markets balancing easing supply pressures against renewed geopolitical risks. Prices came under pressure after Saudi Aramco cut the November selling price of Arab Light to Asian buyers to $5 a barrel below the regional benchmark, a deeper discount than the $2 offered for October. The move suggests stronger competition for market share as oil flows through the Strait of Hormuz recover, while the G7’s latest emergency stockpile release is also weighing on prices. However, supply concerns remain significant. Saudi Arabia’s East-West pipeline continues to operate normally after reports of a fresh attack had briefly raised fears of another disruption. Meanwhile, OPEC+ agreed to leave production quotas unchanged next month."
+    },
+    {
+      "id": "5126011",
+      "time": "2026-10-05 18:00:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度BSE SENSEX指數收漲0.66%，延續盤前競價交易時段0.56%的漲幅。"
+    },
+    {
+      "id": "5126010",
+      "time": "2026-10-05 18:00:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【洲際交易所將推出避開霍爾木茲海峽航線的油輪衍生品合約】洲際交易所宣佈，將推出基於霍爾木茲海峽以外航線的油輪衍生品合約。受伊朗戰爭影響，石油航運業原有主要基準持續遭受衝擊。該交易所週一公佈兩份全新遠期運費協議，覆蓋阿曼灣與西非出發的航運航線。波斯灣地區戰事、霍爾木茲海峽原油航運長期受阻，加之近期紅海航道遭遇擾動，迫使船東調整油輪航行路線，採購方轉而尋找替代供應源，市場需要重新評估定價風險。"
+    },
     {
       "id": "5126009",
       "time": "2026-10-05 17:59:24",
@@ -96711,286 +96793,6 @@
         "國際"
       ],
       "text": "印度石油部長普里在活動上發表講話。"
-    },
-    {
-      "id": "te:markets:587238",
-      "time": "2026-09-28 18:04:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Wheat Market Falls as Black Sea Supply Hopes Grow — Wheat fell to around $7 a bushel, the lowest since August 25, and more than 8% below the 3-1/2-year high of $7.67 reached on August 28, amidst diplomatic efforts to restore grain shipments from the Black Sea. Ukrainian President Volodymyr Zelenskiy said India, Turkey, Egypt and other Middle Eastern countries were involved in discussions on reopening shipping routes, while Turkey has presented Moscow with proposals on maritime security. A ceasefire could allow Russia to rapidly restore as much as 80% of its Black Sea grain-terminal capacity. Ukraine’s grain inventories stood at 24.6 million metric tons on September 1, up 10 million tons from a year earlier, although attacks on ports and vessels continue to hamper exports. Importers in Asia, the Middle East and Africa have increasingly sought alternative supplies. France recently shipped 60,000 tons of wheat to Yemen, while Argentine export commitments have reached their highest level in five years for this point in the season."
-    },
-    {
-      "id": "5116343",
-      "time": "2026-09-28 18:03:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長拉姆斯登：關注焦點是能源價格。"
-    },
-    {
-      "id": "mkt:01a0e778-7350-7338-aaec-abe0e4020267",
-      "time": "2026-09-28 18:03:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Bank of England's deputy governor Ramsden said if upward pressure on the inflation outlook continues to build, there may be grounds to raise Bank Rate."
-    },
-    {
-      "id": "5116342",
-      "time": "2026-09-28 18:03:41",
-      "tags": [
-        "央行",
-        "其他",
-        "焦點"
-      ],
-      "text": "英國央行拉姆斯登：若上行壓力持續，則有理由加息。"
-    },
-    {
-      "id": "5116341",
-      "time": "2026-09-28 18:03:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【藍色預警：重慶東南部、貴州北部等地部分地區可能發生山洪災害】水利部和中國氣象局9月28日18時聯合釋出藍色山洪災害氣象預警：預計，9月28日20時至29日20時，重慶東南部、貴州北部等地部分地區可能發生山洪災害（藍色預警）。"
-    },
-    {
-      "id": "mkt:01a0e778-3176-7338-aaec-a1ea325ebc9f",
-      "time": "2026-09-28 18:03:28",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England deputy governor Ramsden said upside risks to the inflation outlook, from both external and domestic sources, have increased."
-    },
-    {
-      "id": "5116340",
-      "time": "2026-09-28 18:03:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "港交所檔案顯示，騰訊9月28日以1.002億港元回購22.7萬股。"
-    },
-    {
-      "id": "mkt:01a0e778-0786-7338-aaec-9d7a9a9717d8",
-      "time": "2026-09-28 18:03:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "Bank of England deputy governor Ramsden said he will focus domestically on prospective indirect effects, particularly food prices, and on early signs of any second‑round inf effects."
-    },
-    {
-      "id": "5116339",
-      "time": "2026-09-28 18:03:04",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行拉姆斯登：量化緊縮計劃提供了可信且連貫的策略。"
-    },
-    {
-      "id": "mkt:01a0e777-9102-7338-aaec-9397a6247f35",
-      "time": "2026-09-28 18:02:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Bank of England deputy governor Ramsden said he will continue to monitor inflationary pressure from energy prices, weather, AI-related supply chains and other external pressures."
-    },
-    {
-      "id": "5116338",
-      "time": "2026-09-28 18:02:40",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率上升至5.234%，創2007年中以來最高水平。30年期國債收益率上升至5.542%，為2004年以來最高水平。"
-    },
-    {
-      "id": "5116337",
-      "time": "2026-09-28 18:02:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【電氣風電中標江蘇國信東臺海上風電專案】據上海電氣風電集團公眾號，近日，江蘇國信東臺H4#/H6#海上風電專案風力發電機組及附屬裝置（含塔架）中標候選人公示公開，顯示電氣風電成功中標。"
-    },
-    {
-      "id": "mkt:01a0e777-3fa6-7338-aaec-8c79c48d840b",
-      "time": "2026-09-28 18:02:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "US30Y",
-        "S&P500"
-      ],
-      "text": "US 10-year Treasury yield rose to 5.234%, the highest since mid-2007. The 30-year Treasury yield climbed to 5.542%, the highest since 2004."
-    },
-    {
-      "id": "5116336",
-      "time": "2026-09-28 18:02:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉姆斯登：在國內方面，我將重點關注間接影響的前景，尤其是食品價格，以及任何第二輪效應的早期跡象。"
-    },
-    {
-      "id": "mkt:01a0e777-0f43-7338-aaec-83f0111101c8",
-      "time": "2026-09-28 18:02:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "CSI300"
-      ],
-      "text": "【JP Morgan: Tech stocks poised to regain favor】JP Morgan strategists say tech stocks could reclaim some of the late-1H lost momentum as crowding eases, earnings stay strong and valuations look more reasonable. The team led by Mislav Matejka wrote on Monday that a three-month pause has clarified positions and, together with rising capex and sustained profit growth, \"these factors should support investors refocusing on the sector.\" JP Morgan added that while the outsized gains of 1H are unlikely to repeat, recent cooling reflects concern that large AI investments may not meet optimistic return expectations, and that renewed demand for tech would likely boost South Korean equities and indirectly support emerging-market stocks."
-    },
-    {
-      "id": "5116335",
-      "time": "2026-09-28 18:02:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "拉姆斯登：我將繼續關注的外部通脹壓力來自能源價格、天氣和人工智慧供應鏈。"
-    },
-    {
-      "id": "5116334",
-      "time": "2026-09-28 18:02:06",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "英國央行副總裁拉姆斯登：我不認為我們短期內會考慮進一步實施量化寬鬆。"
-    },
-    {
-      "id": "5116333",
-      "time": "2026-09-28 18:01:52",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "英國央行副總裁拉姆斯登：我們必須認識到外部環境可能瞬息萬變。"
-    },
-    {
-      "id": "5116332",
-      "time": "2026-09-28 18:01:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "米利班德表示“世界秩序需要重建”。"
-    },
-    {
-      "id": "5116331",
-      "time": "2026-09-28 18:01:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "Zymeworks預計全年營收，包括合作收入，為2.78億美元至2.92億美元。"
-    },
-    {
-      "id": "mkt:01a0e776-070e-7338-aaec-7a141243f031",
-      "time": "2026-09-28 18:01:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UK Foreign Secretary Miliband said the UK will not yield to Russian threats or abandon the people of Ukraine."
-    },
-    {
-      "id": "mkt:01a0e776-03e0-7338-aaec-7625eaec17c1",
-      "time": "2026-09-28 18:01:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SASAC to curb 'involution' among central SOEs, urges industry self-discipline】Sept. 28 — The State-owned Assets Supervision and Administration Commission (SASAC) said it and central SOEs are confident of meeting full-year production and operating targets and will prioritize full implementation of measures planned at the start of the year in Q4. SASAC said it will further steer industry self-discipline, correct 'involution-style' competitive behavior by some central SOEs, and mobilize upstream and downstream firms to jointly maintain a fair, orderly competitive market environment."
-    },
-    {
-      "id": "5116330",
-      "time": "2026-09-28 18:01:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凱萊英：擬修訂公司章程 調整註冊資本及股本結構】凱萊英公告稱，鑑於2026年A股限制性股票激勵計劃首次授予部分243.65萬股限制性股票已完成登記，其中128.52萬股為新增股份，115.13萬股為2024年回購股份，公司擬修訂《公司章程》對應條款：註冊資本由3.61億元增至3.62億元，普通股總數由360,663,470股調整為361,948,670股，A股佔比約92.31%、H股佔比7.69%。該修正案尚需股東會以三分之二以上表決權審議透過，透過後將辦理工商變更登記。"
-    },
-    {
-      "id": "5116329",
-      "time": "2026-09-28 18:00:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南鋼股份：南鋼集團吸收合併涉及57.13%股份，已獲批准】南鋼股份公告，南鋼集團擬透過吸收合併南京鋼聯取得其持有的南鋼股份57.13%股份及南鋼聯合100%股權，交易完成後南鋼集團將由公司間接控股股東變更為直接控股股東。目前，中信集團、南京鋼聯董事會及南鋼集團董事會、股東會已批准本次吸收合併，尚需辦理股份過戶登記手續及其他必要批准或核准。"
-    },
-    {
-      "id": "5116328",
-      "time": "2026-09-28 18:00:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪士尼前執行長鮑勃·查佩克對籌集私募股權基金持開放態度。"
-    },
-    {
-      "id": "5116327",
-      "time": "2026-09-28 18:00:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "FTAI從西捷航空購買27架波音737-700飛機。"
-    },
-    {
-      "id": "5116326",
-      "time": "2026-09-28 18:00:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國SET指數收盤下跌0.3%，報1602.37點。"
-    },
-    {
-      "id": "5116325",
-      "time": "2026-09-28 18:00:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度Nifty指數收跌1.6%，報22,780.25點。"
-    },
-    {
-      "id": "5116324",
-      "time": "2026-09-28 18:00:07",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院國資委：進一步引領行業自律發展 糾正部分央企“內卷式”競爭行為】國務院國有資產監督管理委員會新聞發言人、財務監管與執行評價局局長王少飛在國新辦“開局起步‘十五五’”系列主題新聞釋出會上表示，進一步引領行業自律發展。糾正部分央企“內卷式”競爭行為，帶動產業鏈上下游企業共同維護好公平有序競爭的市場環境。四是進一步守牢安全發展底線，精準管控企業債務總量和債務結構，管理好現金流，有效應對境內外各類投資經營風險，牢牢守住不發生重大風險的底線。 (澎湃新聞)"
     }
   ]
 }

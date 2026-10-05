@@ -1,7 +1,89 @@
 {
   "date": "2026-10-05",
-  "count": 764,
+  "count": 773,
   "items": [
+    {
+      "id": "mkt:01a10b84-5481-7ee0-a79e-79e9e0a70d8f",
+      "time": "2026-10-05 18:03:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's armed forces say they have launched a \"strategic offensive\" in Sanaa."
+    },
+    {
+      "id": "5126015",
+      "time": "2026-10-05 18:02:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "葉門武裝部隊稱其在薩那發起了“戰略攻勢”。"
+    },
+    {
+      "id": "5126014",
+      "time": "2026-10-05 18:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cenovus將以每股12加元現金加股票的方式收購Athabasca Oil。"
+    },
+    {
+      "id": "te:markets:589539",
+      "time": "2026-10-05 18:02:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Holds Below $91 as Supply Pressures Ease — Crude oil held below $91 a barrel on Monday, with markets balancing easing supply pressures against renewed geopolitical risks. Prices came under pressure after Saudi Aramco cut the November selling price of Arab Light to Asian buyers to $5 a barrel below the regional benchmark, a deeper discount than the $2 offered for October. The move suggests stronger competition for market share as oil flows through the Strait of Hormuz recover, while the G7’s latest emergency stockpile release is also weighing on prices. However, supply concerns remain significant. Saudi Arabia’s East-West pipeline continues to operate normally after reports of a fresh attack had briefly raised fears of another disruption. Meanwhile, OPEC+ agreed to leave production quotas unchanged next month."
+    },
+    {
+      "id": "5126013",
+      "time": "2026-10-05 18:02:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "水利部和中國氣象局10月5日18時聯合釋出黃色山洪災害氣象預警：預計，10月5日20時至6日20時，海南北部、雲南西部等地部分地區可能發生山洪災害（藍色預警），其中，雲南西部區域性地區發生山洪災害可能性較大（黃色預警）。"
+    },
+    {
+      "id": "5126012",
+      "time": "2026-10-05 18:02:01",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【土耳其9月通脹繼續回落 市場押注央行下次會議降息】土耳其9月通脹繼續放緩，提升了央行在下一次議息會議降息的可能性，以此緩解國內資金危機帶來的流動性緊張問題。土耳其統計局週一公佈，年度消費者物價漲幅連續第四個月回落，從8月的31.5%降至29.7%。18位經濟學家的預期中值為30.3%。月度物價漲幅為1.84%，與8月持平，低於17位分析師調查的預期中值2.28%。交通、教育和住房價格是當月物價上漲的主要推手。資料公佈後，土耳其股市延續漲勢，銀行股領漲。土耳其BIST銀行指數一度上漲2.8%，反映市場押注融資成本下行。里拉債券同樣走高，兩年期債券收益率下行36個基點至39.49%。里拉匯率基本持穩，伊斯坦布林時間上午10:08報1美元兌49.16里拉。"
+    },
+    {
+      "id": "te:markets:589537",
+      "time": "2026-10-05 18:00:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Volatile Above $102 — Brent crude fluctuated around $102.5 a barrel on Monday, with markets balancing easing supply pressures against renewed geopolitical risks. Prices came under pressure after Saudi Aramco cut the November selling price of Arab Light to Asian buyers to $5 a barrel below the regional benchmark, a deeper discount than the $2 offered for October. The move suggests stronger competition for market share as oil flows through the Strait of Hormuz recover, while the G7’s latest emergency stockpile release is also weighing on prices. However, supply concerns remain significant. Saudi Arabia’s East-West pipeline continues to operate normally after reports of a fresh attack had briefly raised fears of another disruption. Meanwhile, OPEC+ agreed to leave production quotas unchanged next month."
+    },
+    {
+      "id": "5126011",
+      "time": "2026-10-05 18:00:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度BSE SENSEX指數收漲0.66%，延續盤前競價交易時段0.56%的漲幅。"
+    },
+    {
+      "id": "5126010",
+      "time": "2026-10-05 18:00:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【洲際交易所將推出避開霍爾木茲海峽航線的油輪衍生品合約】洲際交易所宣佈，將推出基於霍爾木茲海峽以外航線的油輪衍生品合約。受伊朗戰爭影響，石油航運業原有主要基準持續遭受衝擊。該交易所週一公佈兩份全新遠期運費協議，覆蓋阿曼灣與西非出發的航運航線。波斯灣地區戰事、霍爾木茲海峽原油航運長期受阻，加之近期紅海航道遭遇擾動，迫使船東調整油輪航行路線，採購方轉而尋找替代供應源，市場需要重新評估定價風險。"
+    },
     {
       "id": "5126009",
       "time": "2026-10-05 17:59:24",
