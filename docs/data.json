@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-06 03:56:06",
-  "count": 10477,
+  "updated": "2026-10-06 03:59:50",
+  "count": 10474,
   "items": [
+    {
+      "id": "5126597",
+      "time": "2026-10-06 03:57:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "美泰股價漲幅擴大至3.9%。"
+    },
+    {
+      "id": "5126596",
+      "time": "2026-10-06 03:56:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聖地亞哥市起訴AppLovin，指控其在兒童裝置上展示露骨廣告。"
+    },
     {
       "id": "mkt:01a10da1-6f7c-7ee0-a7aa-1e95bd082eb3",
       "time": "2026-10-06 03:54:05",
@@ -96366,46 +96382,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收漲1.09%】MAAS漲16.69%，天演藥業漲8.87%，虎虎科技漲5.84%，寶尊電商漲5.44%，網易漲4.88%。"
-    },
-    {
-      "id": "5117304",
-      "time": "2026-09-29 03:57:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：幾分鐘前格什姆島傳來爆炸聲。聲響來自海上，島上暫未發現受損情況。當地訊息源尚未就該事件作出回應。"
-    },
-    {
-      "id": "mkt:01a0e997-77da-7338-aafa-000dd797c838",
-      "time": "2026-09-29 03:56:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi civil defense issued an early warning of potential danger to Najran."
-    },
-    {
-      "id": "mkt:01a0e997-30ea-7338-aaf9-fbcdc6caaabc",
-      "time": "2026-09-29 03:56:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign minister met UN Secretary-General Guterres."
-    },
-    {
-      "id": "mkt:01a0e996-fa26-7338-aaf9-f65808d104fd",
-      "time": "2026-09-29 03:56:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US permanent representative to NATO Whitaker said Washington is coordinating closely with the UK on individuals arrested in the case."
-    },
-    {
-      "id": "5117303",
-      "time": "2026-09-29 03:56:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特：奈季蘭省釋出潛在危險預警。"
     }
   ]
 }
