@@ -1,7 +1,42 @@
 {
   "date": "2026-10-05",
-  "count": 327,
+  "count": 331,
   "items": [
+    {
+      "id": "5125588",
+      "time": "2026-10-05 11:08:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：發生著艦事故後，美“艾森豪威爾”號航母返回諾福克海軍基地】據美國海軍學會新聞網當地時間10月4日報道，美“艾森豪威爾”號9月28日發生著艦事故後，正返回弗吉尼亞州的諾福克海軍基地。（環球網）"
+    },
+    {
+      "id": "te:markets:589367",
+      "time": "2026-10-05 11:08:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Futures Hit 6-Week Low — Corn futures fell below $5.0 per bushel, reaching their lowest level in six weeks, as larger-than-expected US inventories and weak export demand continued to pressure prices. The USDA reported US corn stocks at 2.095 billion bushels as of September 1, up 35% from a year earlier and above the 1.924 billion bushels expected by markets. The data reinforced concerns over abundant supplies as the 2026 harvest progresses, with drier weather expected to allow fieldwork to accelerate across much of the Midwest. Export demand has also remained soft, with total US corn commitments for the 2026/27 marketing year at 18.774 million tonnes, 31% below the same period last year and 8% below the five-year average. The decline in prices also reflected broader weakness across grain markets as China excluded soybeans from proposed tariff reductions on US agricultural goods. A private sale of 218,600 tonnes of US corn to Mexico provided some support, including 173,800 tonnes for 2026/27."
+    },
+    {
+      "id": "5125587",
+      "time": "2026-10-05 11:07:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國佐治亞州一街區派對突發槍擊 致2死35傷】據當地媒體報道，4日凌晨，美國佐治亞州維也納市的一街區派對發生槍擊事件，造成2人死亡、35人受傷。 佐治亞州調查局當日在一份宣告中說，槍擊發生於4日1時25分，造成兩名男子當場死亡，另有35名傷者被送往當地多家醫院接受治療。（新華社）"
+    },
+    {
+      "id": "5125586",
+      "time": "2026-10-05 11:06:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元<GBP=D3>跌0.27%，報1.32019美元。"
+    },
     {
       "id": "mkt:01a10a06-ea24-7ee0-a797-d568f8348897",
       "time": "2026-10-05 11:06:27",
