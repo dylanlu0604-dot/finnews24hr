@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-06 03:29:41",
-  "count": 10474,
+  "updated": "2026-10-06 03:33:28",
+  "count": 10479,
   "items": [
+    {
+      "id": "mkt:01a10d8d-5487-7ee0-a7a9-f19fc62e0b54",
+      "time": "2026-10-06 03:32:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil falls; WTI down 1.8% to $89.43, Brent down 1.9% to $100.32】At the close, NYMEX November light sweet crude fell $1.68 to $89.43/bbl (-1.84%); ICE Brent December fell $1.93 to $100.32/bbl (-1.89%)."
+    },
+    {
+      "id": "mkt:01a10d8c-d176-7ee0-a7a9-eb39c33fcdb6",
+      "time": "2026-10-06 03:31:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "US President Trump said Iran should be held responsible for the Dubai aviation incident."
+    },
+    {
+      "id": "5126585",
+      "time": "2026-10-06 03:31:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價5日下跌】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格下跌1.68美元，收於每桶89.43美元，跌幅為1.84%；12月交貨的倫敦布倫特原油期貨價格下跌1.93美元，收於每桶100.32美元，跌幅為1.89%。"
+    },
+    {
+      "id": "mkt:01a10d8c-7317-7ee0-a7a9-e19a8ac92e77",
+      "time": "2026-10-06 03:31:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "President Trump said U.S. troops in the UK are safe, saying \"I think it's safe\"."
+    },
+    {
+      "id": "5126584",
+      "time": "2026-10-06 03:30:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普就迪拜航空飛機事故表態：我認為伊朗應對此事負責。"
+    },
+    {
+      "id": "mkt:01a10d8b-82ee-7ee0-a7a9-dfb964b4e134",
+      "time": "2026-10-06 03:30:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "President Trump said diesel problems stem from disruptions to Russia's refineries."
+    },
+    {
+      "id": "5126583",
+      "time": "2026-10-06 03:29:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將考慮在立陶宛設立軍事基地。"
+    },
+    {
+      "id": "mkt:01a10d8b-17be-7ee0-a7a9-d3c5503556e3",
+      "time": "2026-10-06 03:29:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he would consider establishing a base in Lithuania."
+    },
     {
       "id": "5126582",
       "time": "2026-10-06 03:29:06",
@@ -96347,30 +96428,6 @@
         "MKT News"
       ],
       "text": "SPA reports Saudi foreign minister discussed regional developments and the situation in Yemen with US Secretary of State Rubio."
-    },
-    {
-      "id": "5117293",
-      "time": "2026-09-29 03:32:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特國家通訊社：沙特外交大臣與美國國務卿魯比奧討論地區局勢及葉門問題。"
-    },
-    {
-      "id": "5117292",
-      "time": "2026-09-29 03:31:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭交易所（NZX）：法國巴黎銀行獲認證成為 NZX 市場參與機構。"
-    },
-    {
-      "id": "5117291",
-      "time": "2026-09-29 03:30:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名知情伊朗官員表示，部分媒體關於伊朗在核立場上展現出靈活性的一系列報道不實。美國政府在霍爾木茲海峽“陷入僵局”，正試圖透過炒作核問題來轉移對該困境的注意力。伊朗在核問題上的立場保持不變，並強調目前未就此事展開任何討論。（伊朗PressTV）"
     }
   ]
 }
