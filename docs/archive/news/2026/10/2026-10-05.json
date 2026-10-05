@@ -1,7 +1,130 @@
 {
   "date": "2026-10-05",
-  "count": 825,
+  "count": 838,
   "items": [
+    {
+      "id": "5126053",
+      "time": "2026-10-05 18:26:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "Vaxcyte股價盤前大漲超61%。"
+    },
+    {
+      "id": "mkt:01a10b99-b6a3-7ee0-a79f-43f8d528c220",
+      "time": "2026-10-05 18:26:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Netanyahu says Iran's regime will eventually disappear】On Oct. 5, Israel held a ceremony marking the third anniversary of the Oct. 7, 2023 outbreak of renewed Israel-Palestine fighting. Prime Minister Netanyahu reiterated a hardline military stance toward Gaza and Lebanon, saying Hamas cannot retake the Gaza Strip and Israel will continue to \"eliminate\" those involved in attacks and hostage-taking, and that the Israeli military will keep targeting Hezbollah in Lebanon. He accused Iran of threatening Israel via its regional proxy networks and missile programs and said the Iranian regime is at its \"weakest\" and will \"eventually disappear.\""
+    },
+    {
+      "id": "mkt:01a10b99-913d-7ee0-a79f-3ee74c8788b7",
+      "time": "2026-10-05 18:26:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's finance minister said government measures to cut fuel prices will lower annual average CPI by 0.2-0.3 percentage points."
+    },
+    {
+      "id": "5126052",
+      "time": "2026-10-05 18:26:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【香港：暫停進口美國和英國部分地區禽肉及禽類產品】香港食物環境衛生署食物安全中心今日（10月5日）宣佈，因應世界動物衛生組織通報，指美國明尼蘇達州Big Stone縣和Kandiyohi縣、蒙大拿州Ravalli縣及威斯康辛州Barron縣爆發高致病性H5N1禽流感，以及英國環境、食物及鄉村事務部通報，指英國蘇格蘭劉易斯島爆發高致病性H5N5禽流感，中心即時指示業界暫停從上述地區進口禽肉及禽類產品（包括禽蛋），以保障香港公眾健康。"
+    },
+    {
+      "id": "5126051",
+      "time": "2026-10-05 18:25:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡稱伊朗政權終將消失】今天（10月5日），以色列開始舉行儀式，紀念2023年10月7日爆發的新一輪巴以衝突三週年。以色列總理內塔尼亞胡發表講話，重申對巴勒斯坦加沙地帶及黎巴嫩的強硬軍事立場，並直接對伊朗發出威脅。內塔尼亞胡稱，哈馬斯未來不可能重新統治加沙地帶，以色列將繼續“清除”參與襲擊及扣押人質的相關人員；以軍在黎巴嫩也將繼續針對真主黨實施軍事打擊。內塔尼亞胡還在講話中再度指責伊朗透過其地區武裝網路和導彈專案“威脅以色列的安全”。他再次揚言伊朗政權當前正處於“最虛弱的時期”，“終將從世界上消失”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5126050",
+      "time": "2026-10-05 18:25:43",
+      "tags": [
+        "宏觀",
+        "資料",
+        "國際"
+      ],
+      "text": "波蘭財政部長多曼斯基表示：政府的燃料降價措施將使年度平均消費者價格指數（CPI）下降0.2至0.3個百分點。"
+    },
+    {
+      "id": "mkt:01a10b98-b0aa-7ee0-a79f-342845840a84",
+      "time": "2026-10-05 18:25:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Morgan Stanley: U.S. pullback opens room to add cyclicals; capital goods lead EPS upgrades】Morgan Stanley strategists led by Michael Wilson say a sharp valuation reset in U.S. equities since early summer has created buying opportunities in economically sensitive sectors with intact fundamentals. The team highlighted capital goods as especially attractive, with the largest upward revisions to profit forecasts. The U.S. rally has cooled since mid‑August as rising bond yields have offset gains from a strong earnings season. Companies start reporting Q3 results in the coming weeks; Bloomberg Intelligence shows analysts expect S&P 500 Q3 earnings +25% YoY after a +34% rise in Q2. Earnings momentum is being driven by AI demand, record cloud capex from major cloud providers and a resilient macro backdrop."
+    },
+    {
+      "id": "mkt:01a10b98-4787-7ee0-a79f-2a4370657562",
+      "time": "2026-10-05 18:24:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "BP.N"
+      ],
+      "text": "BP (BP.N) CEO said LNG contracts have become more flexible in tenor, price indexation and contract structure."
+    },
+    {
+      "id": "5126049",
+      "time": "2026-10-05 18:24:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英國石油執行長表示，液化天然氣合同在期限、價格指數化以及合約架構方面的靈活性已大幅提升。"
+    },
+    {
+      "id": "mkt:01a10b97-5ef2-7ee0-a79f-25698317c505",
+      "time": "2026-10-05 18:23:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "A European Commission spokesperson said talks with Argentina are focused on energy transition and security and are ongoing."
+    },
+    {
+      "id": "mkt:01a10b97-480b-7ee0-a79f-1c98641925a6",
+      "time": "2026-10-05 18:23:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv sources say the Securities and Exchange Board of India (SEBI) will partially withdraw proposed derivatives-settlement rules, retain the closing call auction to set spot-market settlement prices, and use trading data from the final 30 minutes of the session to calculate derivatives settlement prices."
+    },
+    {
+      "id": "5126048",
+      "time": "2026-10-05 18:23:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油執行長表示，我們目前正致力於在英國石油的液化天然氣頭寸中，實現權益持有量與交易成交量之間的合理平衡。"
+    },
+    {
+      "id": "5126047",
+      "time": "2026-10-05 18:23:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人表示：目前正在舉行與阿根廷的會議，會議主要聚焦能源轉型與能源安全議題。"
+    },
     {
       "id": "mkt:01a10b96-13b1-7ee0-a79f-179ac77bbddd",
       "time": "2026-10-05 18:22:27",
