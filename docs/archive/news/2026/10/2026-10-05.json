@@ -1,7 +1,61 @@
 {
   "date": "2026-10-05",
-  "count": 753,
+  "count": 759,
   "items": [
+    {
+      "id": "mkt:01a10b7a-1eef-7ee0-a79e-6b8dc5fcbf69",
+      "time": "2026-10-05 17:51:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's defence ministry spokesman said customers have the right and obligation to terminate contracts if companies fail to deliver on time or within budget."
+    },
+    {
+      "id": "mkt:01a10b79-f5f5-7ee0-a79e-618fdde1c2eb",
+      "time": "2026-10-05 17:51:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "A German defense ministry spokesman said Germany's claim for damages over the cancellation of the F126 frigate order has no basis."
+    },
+    {
+      "id": "5126005",
+      "time": "2026-10-05 17:51:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "就F126護衛艦訂單取消一事表態：對德國的損害賠償主張毫無根據。如果企業無法在預算範圍內按時完成交付，客戶有權且有義務終止合同。"
+    },
+    {
+      "id": "5126004",
+      "time": "2026-10-05 17:50:50",
+      "tags": [
+        "資料"
+      ],
+      "text": "【PMI調查顯示英國就業低迷持續時間已超過金融危機時期】一項備受關注的調查顯示，英國就業市場正經歷本世紀初以來持續時間最長的一輪低迷，萎縮期已超過全球金融危機時期。標普全球英國採購經理人指數顯示，企業已連續第24個月削減員工。這一資料將令安迪·伯納姆政府在本月晚些時候公佈預算前感到擔憂。能源衝擊不斷加劇，且人工智慧發展可能抑制企業對勞動力的需求。自工黨政府2024年重新執政後不久提高工資相關稅費和最低工資以來，企業一直在裁員。不過，也出現了一些就業低迷可能正在觸底的跡象。服務業裁員幅度為近一年來最小。此外，英國官方失業率仍遠低於全球金融危機後的水平。"
+    },
+    {
+      "id": "mkt:01a10b78-de66-7ee0-a79e-5d66a29ce17c",
+      "time": "2026-10-05 17:50:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "01810.HK",
+        "Impact bullish"
+      ],
+      "text": "Xiaomi Group (01810.HK) repurchased 2.0 mln Class B shares for HK$47.6 mln on Oct 5, implying HK$23.80 per share."
+    },
+    {
+      "id": "5126003",
+      "time": "2026-10-05 17:49:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案顯示，小米10月5日以4760萬港元回購了200萬股B類股份。"
+    },
     {
       "id": "mkt:01a10b76-9f20-7ee0-a79e-563c309886a7",
       "time": "2026-10-05 17:48:05",
