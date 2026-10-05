@@ -1,7 +1,17 @@
 {
   "date": "2026-10-05",
-  "count": 305,
+  "count": 306,
   "items": [
+    {
+      "id": "mkt:01a109ef-6670-7ee0-a797-9ae683ae6ba0",
+      "time": "2026-10-05 10:40:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China asset-management product AUM exceeds 88.37 trillion yuan at end-Q2 2026】The Asset Management Association of China reports aggregate assets of asset-management products managed by fund managers and their subsidiaries, securities firms and their subsidiaries, futures firms and their asset-management units, and private fund managers reached 88.37 trillion yuan at end-Q2 2026."
+    },
     {
       "id": "5125573",
       "time": "2026-10-05 10:39:45",
