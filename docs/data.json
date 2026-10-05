@@ -1,7 +1,38 @@
 {
-  "updated": "2026-10-06 02:55:37",
-  "count": 10443,
+  "updated": "2026-10-06 02:59:20",
+  "count": 10439,
   "items": [
+    {
+      "id": "mkt:01a10d6e-e67c-7ee0-a7a9-0f9d17d32dc4",
+      "time": "2026-10-06 02:58:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Dept official said Rubio spoke with Prime Minister NETANYAHU on Monday."
+    },
+    {
+      "id": "5126548",
+      "time": "2026-10-06 02:57:56",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "嘉吉一季度利潤下滑 52%，原因是肉牛成本高企以及可可業務出現虧損。"
+    },
+    {
+      "id": "te:markets:589653",
+      "time": "2026-10-06 02:57:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The United States Stock Market Index (US500) Hit 7-week High — US500 increased to 7783.00 Index Points, the highest since August 2026. Over the past 4 weeks, United States Stock Market Index (US500) gained 1.41%, and in the last 12 months, it increased 15.45%."
+    },
     {
       "id": "5126547",
       "time": "2026-10-06 02:54:15",
@@ -96039,67 +96070,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.10%，報24658.50點，高水15.99點。"
-    },
-    {
-      "id": "5117271",
-      "time": "2026-09-29 02:59:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果盧安達、剛果民主共和國協議遭到違反，我們將予以制止。"
-    },
-    {
-      "id": "te:markets:587379",
-      "time": "2026-09-29 02:57:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Bank Of New York Mellon Stock Price Hits 12-week Low — Bank Of New York Mellon shares decreased to 148.21 USD, the lowest since July 2026. Over the past 4 weeks, Bank Of New York Mellon lost 8.09%, and in the last 12 months, it increased 35.07%."
-    },
-    {
-      "id": "mkt:01a0e960-9b24-7338-aaf9-11bb5984bf50",
-      "time": "2026-09-29 02:56:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Polish military: drone crashes near Poland-Ukraine border】Polish military said on Sept. 28 local time that a jet-powered drone crashed on the Ukrainian side near the Dorohusk–Yahodyn border crossing. Deputy Prime Minister and Defense Minister Kosińiak-Kamysz said the drone fell about 2 km from the Dorohusk crossing and that Polish airspace was not violated."
-    },
-    {
-      "id": "5117270",
-      "time": "2026-09-29 02:56:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【亞投行第十一屆理事會年會在卡達開幕】亞洲基礎設施投資銀行（亞投行）第十一屆理事會年會28日在卡達首都多哈開幕。亞投行各成員理事、政府高階官員、合作伙伴及相關機構代表等共商可持續基礎設施發展與合作等議程。（央視新聞）"
-    },
-    {
-      "id": "5117269",
-      "time": "2026-09-29 02:56:12",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：美國官員今日與伊朗調停方舉行了會談。"
-    },
-    {
-      "id": "mkt:01a0e95f-dd5f-7338-aaf9-0b4cc41b32af",
-      "time": "2026-09-29 02:56:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the US held talks with Iran today through intermediaries."
-    },
-    {
-      "id": "5117268",
-      "time": "2026-09-29 02:55:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普就英國逮捕嫌疑人一事表態：我絕不會釋放他們。"
     }
   ]
 }

@@ -1,7 +1,38 @@
 {
   "date": "2026-10-06",
-  "count": 144,
+  "count": 147,
   "items": [
+    {
+      "id": "mkt:01a10d6e-e67c-7ee0-a7a9-0f9d17d32dc4",
+      "time": "2026-10-06 02:58:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Dept official said Rubio spoke with Prime Minister NETANYAHU on Monday."
+    },
+    {
+      "id": "5126548",
+      "time": "2026-10-06 02:57:56",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "嘉吉一季度利潤下滑 52%，原因是肉牛成本高企以及可可業務出現虧損。"
+    },
+    {
+      "id": "te:markets:589653",
+      "time": "2026-10-06 02:57:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The United States Stock Market Index (US500) Hit 7-week High — US500 increased to 7783.00 Index Points, the highest since August 2026. Over the past 4 weeks, United States Stock Market Index (US500) gained 1.41%, and in the last 12 months, it increased 15.45%."
+    },
     {
       "id": "5126547",
       "time": "2026-10-06 02:54:15",
