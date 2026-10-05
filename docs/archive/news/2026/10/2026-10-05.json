@@ -1,7 +1,911 @@
 {
   "date": "2026-10-05",
-  "count": 203,
+  "count": 296,
   "items": [
+    {
+      "id": "5125566",
+      "time": "2026-10-05 10:31:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤上漲2.5%，報70,037.61點。東證指數早盤收盤上漲1.2%，報4138.57點。"
+    },
+    {
+      "id": "te:markets:589357",
+      "time": "2026-10-05 10:30:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Ease as Fed Hike Bets Recede — The US 10-year Treasury yield eased to around 5.25% on Monday, while the 30-year yield slipped toward 5.6% as traders scaled back expectations for an imminent Federal Reserve rate hike following weaker-than-expected US jobs data. Data released Friday showed the US economy added just 29,000 jobs in September, well below expectations of 90,000, after August’s gain was revised down to 133,000. The unemployment rate climbed to 4.2%, while annual wage growth unexpectedly slowed to 3.0%, its weakest pace since May 2021. Markets are now pricing in nearly an 80% probability that the Fed will keep policy unchanged this month, while expectations for a December hike remained around 69%. Still, Treasury yields remained near their highest levels in more than two decades amid concerns over persistent energy-driven inflation, rising US fiscal risks and increasing debt issuance linked to artificial intelligence."
+    },
+    {
+      "id": "mkt:01a109e4-1612-7ee0-a797-8c79c895e6af",
+      "time": "2026-10-05 10:28:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "EUR/USD fell 0.38% to 1.1211, its lowest level since May 2025."
+    },
+    {
+      "id": "5125564",
+      "time": "2026-10-05 10:26:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳大利亞AI基礎設施公司Firmus據稱計劃將IPO的一半分配給現有投資者。"
+    },
+    {
+      "id": "5125563",
+      "time": "2026-10-05 10:25:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元下跌0.38%，報1.1211。"
+    },
+    {
+      "id": "5125562",
+      "time": "2026-10-05 10:24:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞央行：中東衝突仍是重大的不確定性來源，將保持警惕並持續進行監控。"
+    },
+    {
+      "id": "5125561",
+      "time": "2026-10-05 10:23:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞央行：馬來西亞金融體系無法完全免受後續衝擊影響。"
+    },
+    {
+      "id": "5125560",
+      "time": "2026-10-05 10:22:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "馬來西亞央行：國內金融穩定面臨的風險仍處於可控範圍。"
+    },
+    {
+      "id": "mkt:01a109dd-3e4b-7ee0-a797-80be2f3f8ecb",
+      "time": "2026-10-05 10:20:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China desert oilfield's ultra-deep oil and gas output tops 26.0 mln tonnes】Hade‑Fuman, China’s largest desert oilfield, has produced over 26.0 mln tonnes of oil and gas from depths below 6,000m. ZhenTan‑1, on the northern edge of the Taklamakan Desert, recovered rock cores from 8,080m — the first cores taken deeper than 8,000m on the NW margin of the Tarim Basin; the cores are estimated to be about 500 million years old."
+    },
+    {
+      "id": "5125559",
+      "time": "2026-10-05 10:18:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全港最大規模公立醫院啟用】全港最大規模的公立醫院——啟德醫院今日（5日）起分階段啟用，將逐步取代伊利沙伯醫院，為油尖旺、九龍城、黃大仙及觀塘區逾180萬人口提供服務。位於醫院的家庭醫學綜合中心等服務率先啟用，初期每日提供350個街症名額。 據瞭解，啟德醫院有五座大樓，分別為“急症大樓”（1座）、“行政大樓”（2座）、“教學及培訓大樓”（3座）、“專科門診大樓”（4座）以及“腫瘤科大樓”（5座）。醫管局九龍中聯網的龍頭醫院——伊利沙伯醫院的多項服務，將會逐步轉移至啟德醫院，並於今日起啟用。（大灣區之聲）"
+    },
+    {
+      "id": "te:markets:589355",
+      "time": "2026-10-05 10:18:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Surpasses 49,000 Mark as AI Momentum Persists — The TAIEX, Taiwan’s benchmark stock index, surged 1,190 points, or 2.5%, to a fresh record high of 49,666 in Monday morning trade, rising for the fourth straight session, mainly buoyed by gains in electronic technology, producer manufacturing, and process industries. Traders were attempting to maintain momentum, tracking a rise on Wall Street on Friday, as a weaker-than-expected jobs report eased expectations of Fed monetary tightening. The broader index surpassed the 49,000 level for the first time, with electronic technology rising 2.7%, amid optimism over AI-related investment and following a rally in US tech sectors. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, gained 2.8%. Meanwhile, MediaTek, Delta Electronics, and Hon Hai Precision rose 2.5%, 4.5%, and 1.8%, respectively."
+    },
+    {
+      "id": "5125558",
+      "time": "2026-10-05 10:18:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國沙漠油田超深油氣產量突破2600萬噸】記者今天（10月5日）從中國石油獲悉，我國沙漠最大油田，哈得－富滿油田已從6000米之下采出油氣突破2600萬噸。日前，位於塔克拉瑪干沙漠北緣的震探1井，成功取出地下8080米深處的巖芯，這些巖芯已在地下沉睡約5億年。這是我國首次在塔里木盆地西北緣8000米以深取出巖芯。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a109da-b0b1-7ee0-a797-7a0b8dd5dbbd",
+      "time": "2026-10-05 10:18:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AVIC: AG600 amphibious aircraft completes Daxing'anling garrison mission】China Aviation Industry Corporation (AVIC) said the domestically built AG600 'Kunlong' large amphibious aircraft completed its 2026 Jiagedaqi garrison mission on Sept. 30. The aircraft conducted 35 patrol sorties in the Daxing'anling forest region, logged 100 flight hours and dropped about 390 tonnes of water."
+    },
+    {
+      "id": "te:markets:589354",
+      "time": "2026-10-05 10:17:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Trades Near Multi-Month Lows — The Australian dollar hovered below $0.70, trading near multi-month lows as a stronger US dollar and elevated Treasury yields continued to weigh on the currency. After posting its fourth consecutive weekly decline last week, the Aussie remained under pressure despite the Reserve Bank of Australia raising its cash rate to a 15-year high of 4.6% in September, as August inflation came below estimates, reducing bets on another rate increase in November. Meanwhile, the US dollar has remained firm, supported by elevated Treasury yields, which have enhanced the appeal of US assets, while a broad global selloff in government bonds has also fueled safe-haven demand for the greenback. A weaker-than-expected US jobs report provided some relief for the Aussie, as markets largely priced out the prospect of another Federal Reserve interest rate hike this month. Elsewhere, investors continued to monitor escalating Middle East tensions and the resulting inflation risks from higher oil prices."
+    },
+    {
+      "id": "5125557",
+      "time": "2026-10-05 10:14:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一汽豐田釋出針對“大降價”等有關不實言論的宣告】10月5日，一汽豐田官方微博釋出針對近期網路上出現的有關一汽豐田不實言論的宣告： 近期，中國第一汽車集團有限公司與廣州汽車工業集團有限公司簽署戰略合作框架協議，引發行業及消費者廣泛關注。 一汽豐田深耕國內市場23年，擁有成熟的產品矩陣、完備的產銷售後體系和千萬使用者保有規模。目前全系車型產銷、迭代規劃均按計劃有序推進，後續將依託集團合作的更大資源優勢，持續創新，回饋廣大使用者信任。 針對部分網路賬號散佈的“一汽豐田或將徹底退出歷史舞臺”“豐田大降價”等不實言論，我司保留法律追責權利。"
+    },
+    {
+      "id": "te:markets:589353",
+      "time": "2026-10-05 10:12:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Holds Near 18-Month High — The dollar index held firm around 102 on Monday, staying close to its highest level since April 2025 even as traders scaled back expectations for an imminent Federal Reserve rate hike following weaker-than-expected US jobs data. The greenback also continued to benefit from weakness in the euro, amid rising fiscal debt and ongoing political gridlock in France. Meanwhile, data released Friday showed the US economy added just 29,000 jobs in September, well below expectations of 90,000, following a downwardly revised gain of 133,000 in August. The unemployment rate climbed to 4.2%, while annual wage growth unexpectedly slowed to 3.0%, its weakest pace since May 2021. Markets are now pricing in nearly an 80% chance that the Fed will keep policy unchanged this month, while expectations for a December hike remained around 69%."
+    },
+    {
+      "id": "5125556",
+      "time": "2026-10-05 10:09:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指上漲1%，至5,685.87點。"
+    },
+    {
+      "id": "mkt:01a109d2-4540-7ee0-a797-767b6a0d2104",
+      "time": "2026-10-05 10:08:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude slipped below $89/bbl, down about 1.5% intraday."
+    },
+    {
+      "id": "5125555",
+      "time": "2026-10-05 10:08:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺積電股價早盤一度上漲3%，此前馬斯克證實正在與臺積電就TeraFab專案合作進行談判。"
+    },
+    {
+      "id": "5125554",
+      "time": "2026-10-05 10:08:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4190美元/盎司，日內漲0.68%。"
+    },
+    {
+      "id": "5125553",
+      "time": "2026-10-05 10:06:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙倫賽當選寮國政府總理】當地時間5日，在寮國第十屆國會第二次常務會議期間，國會議員投票選舉沙倫賽·貢馬西擔任新任政府總理。"
+    },
+    {
+      "id": "5125552",
+      "time": "2026-10-05 10:06:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生科技指數回升轉漲，此前一度跌超0.8%。"
+    },
+    {
+      "id": "5125551",
+      "time": "2026-10-05 10:06:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：檢察改革不是為了向檢察機關復仇或破壞檢察職能，而是為了將調查和起訴職能分離，使這兩個職能既不被政權濫用，又能以最優方式良好運作。"
+    },
+    {
+      "id": "mkt:01a109cf-9330-7ee0-a797-6fea5ee9d948",
+      "time": "2026-10-05 10:06:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Tech Index turned positive after earlier sliding more than 0.8%."
+    },
+    {
+      "id": "5125550",
+      "time": "2026-10-05 10:05:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際",
+        "原創"
+      ],
+      "text": "【泰國證券交易所計劃採用雙重股權結構以促進上市】泰國計劃建立雙重股權結構，以吸引更多公司在當地交易所上市。此舉旨在緩解公司創始人對股權稀釋的擔憂，並結束新上市公司數量低迷的局面。這項預計將於2027年實施的提案，其目的還在於滿足機構投資者希望更多地投資於當地頂尖公司的需求。 泰國證券交易所主席基蒂蓬·烏拉皮帕塔納蓬表示，泰國上市公司法的修改將允許上市公司發行不同類別、投票權不同的股票。基蒂蓬表示，泰國證券交易所一直在與財政部、證券交易委員會和其他機構合作，推進雙重股權結構修正案，預計該修正案將於今年獲得議會透過。"
+    },
+    {
+      "id": "mkt:01a109ce-aa15-7ee0-a797-6702e1ac6e89",
+      "time": "2026-10-05 10:05:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01276.HK",
+        "Impact bearish",
+        "01093.HK",
+        "02196.HK"
+      ],
+      "text": "Hong Kong pharmaceutical stocks weakened in choppy trade: Hengrui Medicine (01276.HK) dropped over 3%; CSPC PHARMA (01093.HK) and Fosun Pharma (02196.HK) fell about 2%; Sino Biopharmaceutical (01177.HK) and Simcere Pharmaceutical (02096.HK) also declined."
+    },
+    {
+      "id": "5125549",
+      "time": "2026-10-05 10:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "OKX據悉向美國證交會提交申請，擬推出代幣化美股交易平臺。"
+    },
+    {
+      "id": "5125548",
+      "time": "2026-10-05 10:04:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "Rapidus宣佈攜手17家合作伙伴推出晶片開發框架，合作伙伴包括東芝和大日本印刷等。"
+    },
+    {
+      "id": "mkt:01a109cd-122d-7ee0-a797-58cc244f676b",
+      "time": "2026-10-05 10:03:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US deploys USS Theodore Roosevelt carrier group to Middle East; expert warns stalemate with Iran keeps regional risk elevated】US is increasing forces in the Middle East, deploying the USS Theodore Roosevelt carrier strike group, multiple amphibious vessels and several thousand Marines, sources say. Middle East specialist Wang Jin said the Roosevelt group's arrival could presage a new round of US military action against Iran. Based on current sailing schedules the strike group could reach the region in late October, potentially raising pressure ahead of the US midterm elections. Wang noted that since Feb. 28 any new carrier group's arrival — whether a rotation or reinforcement — has signaled the prospect of fresh strikes on Iran. He added that a strategic stalemate remains: both sides are entrenched on Strait of Hormuz transit and differ sharply over Iran's nuclear and regional security issues, making it unlikely a single large-scale operation would compel concessions. As a result, the stalemate is expected to persist and regional risk is likely to rise."
+    },
+    {
+      "id": "te:markets:589352",
+      "time": "2026-10-05 10:01:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Still Under Pressure — The Hang Seng Index declined 0.3%, or 66 points, to 23,908 on Monday, extending losses after plunging 2.6% in the previous session as elevated US Treasury yields and lingering concerns over higher oil prices weighed on sentiment. The decline came despite gains across most Asian markets after weaker-than-expected US employment data reduced expectations for another Federal Reserve rate hike this month, while Treasury yields eased from recent highs. Brent crude remained elevated at around US$102 a barrel, keeping inflation concerns in focus amid continued Middle East tensions. Trading was subdued as mainland Chinese markets remained closed for the National Day holiday. Tencent (-0.8%), AIA (-1.5%), Meituan (-1.1%) and Xiaomi (-1.4%) fell, while Kingboard Laminates (5.1%) and Lenovo (3.6%) rose. Meanwhile, stronger-than-expected Hong Kong retail sales provided a positive domestic signal, rising 2.9% year-on-year in August and fastest in three months, suggesting improving consumer demand."
+    },
+    {
+      "id": "mkt:01a109cb-86d2-7ee0-a797-51fe37c0b1b5",
+      "time": "2026-10-05 10:01:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Gold rises as milder inflation cuts odds of further Fed hikes】Gold climbed in Asian trade on Monday after SOCGEN said September PCE came in weaker than expected, which could curb market bets on a Fed rate increase in October. Market pricing shows roughly a 40% probability of Fed action in October, providing initial support for gold into the month. Gold’s trajectory remains a tug-of-war between structural demand—central-bank purchases and ETF inflows—and macro headwinds from a strong dollar and rising yields."
+    },
+    {
+      "id": "te:markets:589351",
+      "time": "2026-10-05 10:00:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Rise to 2-Week High — European natural gas prices climbed above €76/MWh on Monday, their highest level in two weeks, as ongoing security risks around the Strait of Hormuz continued to threaten LNG flows from the Persian Gulf. The waterway, which handled roughly a fifth of global oil and LNG trade before the war, has seen attacks on vessels in recent weeks, raising concerns over the security and reliability of shipping. While some Gulf LNG cargoes have transited the strait in recent weeks, volumes are still insufficient to fully relieve global supply tightness. In addition, QatarEnergy has recently extended force majeure on LNG deliveries to Italy’s Edison through December. Europe is racing to replenish reserves ahead of winter, with gas storage levels at around 72% of capacity, well below the five-year seasonal average of 87%. With inventories lagging seasonal norms, any prolonged disruptions or a colder-than-expected start to the heating season could further tighten the market and drive prices higher."
+    },
+    {
+      "id": "5125547",
+      "time": "2026-10-05 10:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【截至8月底各地辦理婚姻登記“全國通辦”92萬餘對】日前，民政部有關負責人在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，新修訂的《婚姻登記條例》自2025年5月10日正式實施以來，各地升級改造預約系統、配套智慧裝置、合理調配人員，打通了“全國通辦”的堵點卡點。截至今年8月底，各地共辦理婚姻登記“全國通辦”92.1萬對。此外，民政會同公安、衛健等部門將婚姻登記、戶口婚姻狀況變更、夫妻投靠戶口遷移、生育登記等整合辦理，平均精減材料50%；縣級以上婚姻登記機關實現婚姻家庭輔導室全覆蓋；建成戶外頒證點1330個、公園等場所婚姻登記點525個、婚俗文化展示場所2045個，簡約適度婚禮逐步成為新風尚。（新華社）"
+    },
+    {
+      "id": "mkt:01a109c4-16d1-7ee0-a797-4e089f379495",
+      "time": "2026-10-05 09:53:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【China bulk commodity price index rises 4.1% MoM in September】The China Federation of Logistics & Purchasing said on Oct. 5 its China bulk commodity price index rose 4.1% month-on-month in September. CFLP attributed the rise to the traditional production/construction seasonal peak, acceleration of major projects and improving manufacturing output and market demand, with international price swings and tighter supply for some commodities adding cost pressure. CFLP said stabilizing the market’s improvement requires enhanced monitoring and risk prevention in key commodity markets, stable supply of major energy and resources, and faster progress on industry-chain risk-sharing and new benefit-linkage mechanisms to strengthen risk mitigation and help underpin stable Q4 economic performance."
+    },
+    {
+      "id": "5125546",
+      "time": "2026-10-05 09:52:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【9月中國大宗商品價格指數環比上漲4.1%】中國物流與採購聯合會今天（5日）公佈9月份中國大宗商品價格指數。從指數執行情況看，隨著傳統生產建設旺季到來，重大專案加快落地，以及製造業生產和市場需求持續改善，大宗商品市場景氣水平進一步提升，為四季度經濟平穩執行奠定良好基礎。9月份中國大宗商品價格指數為137.6點，環比上漲4.1%，同比上漲22.9%。在中國物流與採購聯合會重點監測的50種大宗商品中，9月份價格環比上漲的大宗商品有38種。其中，甲醇、乙二醇和焦炭漲幅居前，環比分別上漲39.5%、24.8%和20.4%。分行業看，受國際原油價格上漲，部分產品供應偏緊，以及生產成本上升等因素影響，能源、化工價格指數大幅走高，環比分別上漲14.8%和13.7%。隨著進入傳統生產建設旺季，產業轉型升級加快，以及製造業和建築施工需求改善，有色、黑色和礦產價格指數環比均有上漲。"
+    },
+    {
+      "id": "5125545",
+      "time": "2026-10-05 09:50:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巡護35架次、飛行100小時、投水390噸 AG600順利完成任務】從中國航空工業集團獲悉，近期，國產大型水陸兩棲飛機AG600“鯤龍”順利完成2026年度加格達奇北疆駐防各項任務，圓滿結束為期四個月的林區航空應急值守與防火實戰任務。在四個月不間斷駐防實戰中，AG600累計開展林區巡護任務35架次，安全飛行時長100小時，總投水量390噸左右，有力遏制森林火災蔓延風險。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a109be-a4ad-7ee0-a797-41cad72636a2",
+      "time": "2026-10-05 09:47:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangdong 4A-and-above attractions draw 15.361 mln visitors in first four days of National Day holiday】On the fourth day of the 2026 National Day holiday, Guangdong’s 4A-and-above attractions received 3.894 mln visitors, bringing the four-day total to 15.361 mln, Guangdong Provincial Department of Culture and Tourism said Oct. 4."
+    },
+    {
+      "id": "5125544",
+      "time": "2026-10-05 09:47:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期前四天廣東4A級及以上景區接待遊客逾1500萬人次】據廣東省文旅廳4日通報，2026年國慶假期第四天，全省4A級及以上景區接待遊客389.4萬人次。至此，國慶假期前四天該省4A級及以上景區接待遊客1536.1萬人次。"
+    },
+    {
+      "id": "5125543",
+      "time": "2026-10-05 09:47:20",
+      "tags": [
+        "市場",
+        "國際",
+        "原創"
+      ],
+      "text": "【航運資料顯示，中東原油出口量超過戰前水平】週一公佈的航運資料顯示，儘管途經霍爾木茲海峽的船隻遭到襲擊，但中東的原油出口量在9月最後一週的七天裡，有四天超過了戰前水平。船舶追蹤公司 Kpler 的初步資料顯示，該地區的原油出口量在 9 月 24 日以及 9 月 27 日至 29 日期間超過了戰前水平，升至1950 萬至 2250 萬桶/日。在美以與伊朗的衝突爆發前，即2025年3月至今年2月期間，出口量平均為每天1800萬桶/日。資料顯示，10月1日原油出口的7日移動平均值為1850萬桶/日。該資料涵蓋了經由霍爾木茲海峽和紅海的運輸、從碼頭的出口，以及在阿曼灣進行的船對船轉運。Kpler的資料顯示，截至 9 月 30 日的一週內，原油、油品、化工品及非氣態液體的運輸總量平均為2240 萬桶/日。9 月份，經由霍爾木茲海峽運出的液化天然氣（LNG）船隻數量也有所增加，創下自 2 月以來的月度最高水平。上述資料未計入那些為規避監測而關閉自動識別系統（AIS）應答器透過海峽的船隻。"
+    },
+    {
+      "id": "mkt:01a109bd-9787-7ee0-a797-38364b8811d4",
+      "time": "2026-10-05 09:46:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02342.HK",
+        "Impact bullish",
+        "06166.HK",
+        "06869.HK"
+      ],
+      "text": "Hong Kong optical-communications sector strengthened; Jingxin Communication (02342.HK) rose over 7%, Cambridge Technology (06166.HK) climbed about 3%, with Haiguang Xinzhen (01191.HK) and Yangtze Optical Fibre & Cable (06869.HK) also advancing."
+    },
+    {
+      "id": "mkt:01a109bc-bbbe-7ee0-a797-3005f10163a9",
+      "time": "2026-10-05 09:45:26",
+      "tags": [
+        "MKT News",
+        "01918.HK",
+        "Impact bearish",
+        "00960.HK",
+        "02007.HK"
+      ],
+      "text": "Hong Kong-listed mainland property shares weakened: Sunac China (01918.HK) fell nearly 5%, Longfor Group (00960.HK) dropped more than 4%; Greentown China (03900.HK) and Country Garden (02007.HK) also declined."
+    },
+    {
+      "id": "te:markets:589350",
+      "time": "2026-10-05 09:45:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tencent Holdings Shares Hit 13-week Low — Tencent Holdings shares decreased to 418.60 HKD, the lowest since June 2026. Over the past 4 weeks, Tencent Holdings lost 3.09%, and in the last 12 months, it decreased 37.7%."
+    },
+    {
+      "id": "5125542",
+      "time": "2026-10-05 09:45:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報90.18美元/桶。"
+    },
+    {
+      "id": "te:markets:589349",
+      "time": "2026-10-05 09:45:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AIA Shares Hit 14-month Low — AIA shares decreased to 68.85 HKD, the lowest since July 2025. Over the past 4 weeks, AIA Group lost 10.48%, and in the last 12 months, it decreased 6.8%."
+    },
+    {
+      "id": "5125541",
+      "time": "2026-10-05 09:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "據韓國當局訊息，一艘載有11人的漁船週一在濟州島附近海域傾覆，9名外籍船員獲救，另有2人失蹤。"
+    },
+    {
+      "id": "5125540",
+      "time": "2026-10-05 09:40:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股光通訊股走強 京信通訊漲超7%】截至發稿，京信通訊(02342.HK)漲7.53%，劍橋科技(06166.HK)漲3.37%，海光芯正(01191.HK)漲2.57%，俊知集團(01300.HK)漲2.10%。"
+    },
+    {
+      "id": "5125539",
+      "time": "2026-10-05 09:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股AI應用板塊走勢分化，深演智慧(02723.HK)漲超10%，智譜(02513.HK)漲近2%，佑駕創新(02431.HK)、速騰聚創(02498.HK)等跌近3%。"
+    },
+    {
+      "id": "mkt:01a109b6-7e0f-7ee0-a797-2ccf5a011af8",
+      "time": "2026-10-05 09:38:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "02723.HK",
+        "Impact bullish",
+        "02513.HK",
+        "02498.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong AI application stocks diverged: Shenyan Intelligent (02723.HK) jumped over 10%, Zhipu AI (02513.HK) rose about 2%, while Youjia Innovation (02431.HK) and Suteng Juchuang (02498.HK) fell nearly 3%."
+    },
+    {
+      "id": "te:markets:589347",
+      "time": "2026-10-05 09:38:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Gains as Fed Rate Hike Bets Ease — Silver climbed above $61 an ounce on Monday, reversing the previous session’s losses as weaker-than-expected US jobs data eased pressure on the Federal Reserve to raise interest rates further. Data released Friday showed the US economy added just 29,000 jobs in September, far below expectations for a 90,000 increase, following a downwardly revised gain of 133,000 in August. The unemployment rate rose to 4.2%, while annual wage growth unexpectedly slowed to 3.0%, its weakest pace since May 2021. Markets are now pricing in nearly an 80% chance that the Fed will keep policy unchanged this month, while expectations for a December hike remained around 69%. Meanwhile, elevated Treasury yields continued to weigh on precious metals, with the US 10-year yield hovering near its highest level since 2002. Traders also faced heightened Middle East risks as Saudi-backed Yemeni forces launched a full-scale military operation to retake areas controlled by the Iran-backed Houthis."
+    },
+    {
+      "id": "mkt:01a109b3-ca62-7ee0-a797-22fb1fe08bad",
+      "time": "2026-10-05 09:35:39",
+      "tags": [
+        "MKT News",
+        "06809.HK",
+        "Impact bullish",
+        "09903.HK",
+        "01347.HK"
+      ],
+      "text": "Hong Kong semiconductor sector firmed in early trade; Lanqi Technology (06809.HK) rose over 5%, Tianshu Zhixin (09903.HK) rose over 3%, while Changguang Chenxin (03277.HK) and Huahong Hongli (01347.HK) were also higher."
+    },
+    {
+      "id": "mkt:01a109b2-9169-7ee0-a797-1bbc08ea7426",
+      "time": "2026-10-05 09:34:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose 2.5% intraday to break above 70,000 points."
+    },
+    {
+      "id": "te:markets:589344",
+      "time": "2026-10-05 09:34:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Rises as Fed Rate Hike Bets Ease — Gold climbed above $4,150 an ounce on Monday, recovering some of the previous session’s losses as weaker-than-expected US jobs data eased pressure on the Federal Reserve to raise interest rates further. Data released Friday showed the US economy added just 29,000 jobs in September, far below expectations for a 90,000 increase, following a downwardly revised gain of 133,000 in August. The unemployment rate rose to 4.2%, while annual wage growth unexpectedly slowed to 3.0%, its weakest pace since May 2021. Markets are now pricing in nearly an 80% chance that the Fed will keep policy unchanged this month, while expectations for a December hike remained around 69%. Meanwhile, elevated Treasury yields continued to weigh on precious metals, with the US 10-year yield hovering near its highest level since 2002. Traders also faced heightened Middle East risks as Saudi-backed Yemeni forces launched a full-scale military operation to retake areas controlled by the Iran-backed Houthis."
+    },
+    {
+      "id": "5125538",
+      "time": "2026-10-05 09:33:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍南方司令部：擊斃加勒比海一艘涉嫌販毒船隻上的四人。"
+    },
+    {
+      "id": "5125537",
+      "time": "2026-10-05 09:33:06",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日經225指數升破70000點，為7月6日以來首次。"
+    },
+    {
+      "id": "5125536",
+      "time": "2026-10-05 09:32:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股航空股盤初走弱，中國東方航空股份(00670.HK)跌近3%，中國南方航空股份(01055.HK)跌超2%，中國國航(00753.HK)、國泰航空(00293.HK)等跟跌。"
+    },
+    {
+      "id": "mkt:01a109b0-dc4c-7ee0-a797-1274d7423443",
+      "time": "2026-10-05 09:32:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00670.HK",
+        "Impact bearish",
+        "01055.HK",
+        "00293.HK"
+      ],
+      "text": "Hong Kong-listed airline stocks opened weaker in early trade: China Eastern Airlines (00670.HK) fell nearly 3%, China Southern Airlines (01055.HK) dropped over 2%; Air China (00753.HK) and Cathay Pacific (00293.HK) also declined."
+    },
+    {
+      "id": "5125535",
+      "time": "2026-10-05 09:32:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍南方司令部：在加勒比海對一艘船隻實施了致命打擊。"
+    },
+    {
+      "id": "5125534",
+      "time": "2026-10-05 09:32:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宋賽當選寮國國會主席】當地時間5日，寮國第十屆國會第二次常務會議在首都永珍召開，會議投票選舉宋賽·西潘敦為寮國新一屆國會主席，接替今年8月病逝的原國會主席賽宋蓬·豐威漢。"
+    },
+    {
+      "id": "5125533",
+      "time": "2026-10-05 09:29:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧相關個股走強 深演智慧漲近6%】截至發稿，深演智慧(02723.HK)漲5.96%，智譜(02513.HK)漲3.67%，英矽智慧(03696.HK)漲1.22%。"
+    },
+    {
+      "id": "5125532",
+      "time": "2026-10-05 09:29:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元下跌0.22%，報157.49。"
+    },
+    {
+      "id": "mkt:01a109ab-4c16-7ee0-a797-0c4d196834bb",
+      "time": "2026-10-05 09:26:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Hong Kong HSI opened down 8.88 pts (-0.04%) at 23,963.41 on Oct 5; Hang Seng Tech opened down 19.56 pts (-0.47%) at 4,138.38; HSCEI opened down 9.47 pts (-0.12%) at 8,021.07; Red Chip Index opened down 10.53 pts (-0.26%) at 3,982.13."
+    },
+    {
+      "id": "5125531",
+      "time": "2026-10-05 09:25:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿克蘇諾貝爾：預計此項交易的淨現金收益約為10億美元。"
+    },
+    {
+      "id": "5125530",
+      "time": "2026-10-05 09:24:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿克蘇諾貝爾：擬將東南亞裝飾塗料業務出售給立邦塗料，交易基於約13.5億美元的企業總價值。"
+    },
+    {
+      "id": "5125529",
+      "time": "2026-10-05 09:22:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元下跌0.15%，報1.12365。"
+    },
+    {
+      "id": "mkt:01a109a6-7abd-7ee0-a797-01355c80b3eb",
+      "time": "2026-10-05 09:21:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meituan",
+        "03690.HK",
+        "Impact bearish",
+        "09999.HK",
+        "Hang Seng Tech Index"
+      ],
+      "text": "Hong Kong shares opened mixed: Hang Seng index down 0.04%, Hang Seng Tech Index down 0.47%. Internet/tech names opened lower; Meituan (03690.HK) and NetEase (09999.HK) fell more than 1%."
+    },
+    {
+      "id": "te:economy:589337",
+      "time": "2026-10-05 09:21:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "MI Inflation Gauge MoM",
+        "Importance 2"
+      ],
+      "text": "Australia Inflation Gauge Hits 3-Month Low — Australia’s Melbourne Institute Monthly Inflation Gauge rose 0.3% month-on-month in September 2026, slowing from a 0.5% increase in the previous month and marking the softest reading since June. The moderation suggests that tighter monetary policy is helping curb price pressures, with the three cash rate increases since the start of the year tightening financial conditions as economic activity slows. However, inflation remains too high, with some upside risks materialising. Annual inflation accelerated to 4.0% in August from 3.5% in July, the highest in three months and still above the Reserve Bank of Australia’s 2–3% target range. Meanwhile, weak productivity growth continues to constrain potential output, while uncertainty over the economic impact of the housing market downturn adds to the outlook risks."
+    },
+    {
+      "id": "5125528",
+      "time": "2026-10-05 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.04%，恒生科技指數跌0.47%】蒙牛乳業跌1.02%，美的集團跌1.04%，九龍倉置業跌1.27%，小米集團-W跌1.40%，京東集團-SW跌1.46%，美團-W跌1.57%，網易跌1.93%。"
+    },
+    {
+      "id": "5125527",
+      "time": "2026-10-05 09:19:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "一輛汽車在澳大利亞悉尼北部衝向人群，造成多人受傷。"
+    },
+    {
+      "id": "mkt:01a109a1-91d5-7ee0-a796-fe831e837d56",
+      "time": "2026-10-05 09:15:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rain eases across most of southern China; South China lows to hit H2 troughs】China Weather Network reports that from Oct 5 rainfall across much of southern China is tapering and most areas will turn sunny. Through early October most of the country will see little precipitation, with clear or partly cloudy skies prevailing. Nighttime lows in the south are expected to reach H2-year lows; Fuzhou, Guangzhou and Nanning are forecast to fall below 20°C for the first time in H2."
+    },
+    {
+      "id": "mkt:01a109a1-295e-7ee0-a796-f6b744405acd",
+      "time": "2026-10-05 09:15:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng index futures opened down 0.15% at 23,855, trading 125 points below the cash index."
+    },
+    {
+      "id": "5125526",
+      "time": "2026-10-05 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.10%，報23856.40點，低水115.89點。"
+    },
+    {
+      "id": "5125525",
+      "time": "2026-10-05 09:11:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "木原稔：日本已釋放石油儲備，暫無新計劃。"
+    },
+    {
+      "id": "5125524",
+      "time": "2026-10-05 09:09:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破102關口，日內漲0.07%。"
+    },
+    {
+      "id": "mkt:01a1099a-924a-7ee0-a796-ea94063bd824",
+      "time": "2026-10-05 09:08:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan's House of Councillors convenes first plenary session】Japan's House of Councillors convened the first plenary session of the current Diet at 10:00 a.m. local time on the 5th."
+    },
+    {
+      "id": "5125523",
+      "time": "2026-10-05 09:08:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本國會參議院召開第一次全體會議】當地時間5日上午10時，日本國會參議院召開本期國會第一次全體會議。（央視新聞）"
+    },
+    {
+      "id": "5125522",
+      "time": "2026-10-05 09:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：沖繩美軍人員遭逮捕一事令人遺憾；日本要求美軍加強紀律並採取預防措施。"
+    },
+    {
+      "id": "5125521",
+      "time": "2026-10-05 09:07:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破62美元/盎司，日內漲2.63%。"
+    },
+    {
+      "id": "mkt:01a10999-4392-7ee0-a796-e5c2804573f0",
+      "time": "2026-10-05 09:06:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 2.00% intraday at $61.60/oz."
+    },
+    {
+      "id": "5125520",
+      "time": "2026-10-05 09:06:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報61.56美元/盎司。"
+    },
+    {
+      "id": "mkt:01a10998-057b-7ee0-a796-de3cbb9c13ba",
+      "time": "2026-10-05 09:05:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,160/oz, up 0.50% on the day."
+    },
+    {
+      "id": "5125519",
+      "time": "2026-10-05 09:05:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4160美元/盎司，日內漲0.50%。"
+    },
+    {
+      "id": "5125518",
+      "time": "2026-10-05 09:02:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至279.06點。"
+    },
+    {
+      "id": "mkt:01a10995-7a70-7ee0-a796-d5a1b1a93a9b",
+      "time": "2026-10-05 09:02:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 965.81 points higher, up 1.99%, at 49,441.55 on Monday, Oct. 5."
+    },
+    {
+      "id": "5125517",
+      "time": "2026-10-05 09:01:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數上漲2%至49,465.19點。"
+    },
+    {
+      "id": "5125516",
+      "time": "2026-10-05 09:01:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數開盤上漲0.3%，報5,650.28點。"
+    },
+    {
+      "id": "5125515",
+      "time": "2026-10-05 09:01:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤漲0.2%。"
+    },
+    {
+      "id": "mkt:01a10994-0f12-7ee0-a796-c9218d824a2b",
+      "time": "2026-10-05 09:01:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures opened 0.2% higher."
+    },
+    {
+      "id": "5125514",
+      "time": "2026-10-05 09:00:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：我們需要重新思考我們的行事方式。"
+    },
+    {
+      "id": "5125513",
+      "time": "2026-10-05 09:00:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數上漲1.6%至49,244.14點。"
+    },
+    {
+      "id": "5125512",
+      "time": "2026-10-05 09:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣加權股價指數開高0.2%報48,574.95點。"
+    },
+    {
+      "id": "5125511",
+      "time": "2026-10-05 08:58:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報61.62美元/盎司。"
+    },
+    {
+      "id": "5125510",
+      "time": "2026-10-05 08:57:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【青花汾20四連陽創月新高 五糧液普五八代站穩800元 習酒君品、洋河夢之藍M6+重跌】新浪財經“酒價內參”過去24小時收集的資料顯示，10月5日中國白酒業12大單品的終端零售均價六漲六跌，漲跌品種的數量平分秋色，但輸家累計跌幅超過上漲端，整體價盤繼續回撥。贏家方面，飛天茅臺上漲1元至1802元，昨日回落後小幅修復，連續第16日穩守1800元關口；精品茅臺上漲1元至2465元，止住此前二連跌，價盤企穩；五糧液普五八代上漲1元至806元，二連陽繼續抬升，進一步站穩800元關口；青花汾20上漲2元至411元，四連陽持續走強，突破410元一線並創下近一個月新高；古井貢古20上漲4元至548元，昨日回撥後迅速反彈，平過去30天最高價，過去一個月該酒品走出標準的深V圖形；水晶劍南春上漲2元至415元，昨日下跌後重新走高。輸家方面，茅臺1935下跌2元至689元，結束九連陽，自高位明顯回探；五糧液1618下跌1元至829元，延續近期窄幅波動行情；國窖1573下跌4元至877元，衝高後再度回落，近期呈現M型震盪形態；洋河夢之藍M6+重跌5元至620元，連續第二日走低，自近一個月高點快速回撥；習酒君品大跌6元至634元，二連陰加速回落，滑向近期最低位；青花郎下跌1元至695元，連續三日回探，價格重心自月高點進一步下移。\n\n今日12大單品的終端零售總價繼續回落，儘管漲跌品種數量持平，但下跌端賣壓更重，對整體價盤形成明顯拖累。如果12大單品各取一瓶整體打包售賣，今日總售價為10791元，較昨日下跌8元，連續第二日溫和回落，創下4天以來新低。"
+    },
+    {
+      "id": "mkt:01a10990-6f4c-7ee0-a796-c304a3287393",
+      "time": "2026-10-05 08:57:02",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "Japan's 30-year government bond yield rose 2.5 bps to a record 4.23%."
+    },
     {
       "id": "5125509",
       "time": "2026-10-05 08:52:38",
