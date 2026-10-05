@@ -1,7 +1,44 @@
 {
   "date": "2026-10-05",
-  "count": 296,
+  "count": 300,
   "items": [
+    {
+      "id": "te:markets:589360",
+      "time": "2026-10-05 10:35:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Stocks Extend Strength as Week Begins — Indonesian shares rose 32 points, or 0.5%, to 6,070 in Monday’s morning session, building on gains from the prior session as softer U.S. jobs data lifted futures and eased pressure on the Fed to keep tightening. Bargain hunters continued to step in after local markets hit their lowest since mid-July. However, caution lingered ahead of key domestic releases this week, including September forex reserves, consumer sentiment, and August retail sales. Meanwhile, concerns persisted over Indonesia’s external vulnerabilities despite August’s trade surplus, with inflation risks growing after September CPI accelerated to 3.28%, edging closer to Bank Indonesia’s upper target band of 3-1/2%. In main trading partner China, markets remained shut for the Golden Week holiday, capping trading cues. Gains were broad across industry, transport, cyclicals, and basic materials. Early standouts included Rukun Raharja (7.8%), Kawasan Industri Jababeka (3.3%), Summarecon Agung (2.6%), and Jasa Marga (2.0%)."
+    },
+    {
+      "id": "5125568",
+      "time": "2026-10-05 10:35:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【截至二季度末資產管理產品總規模突破88萬億元】中國基金業協會最新發布的資料顯示，截至2026年二季度末，基金管理公司及其子公司、證券公司及其子公司、期貨公司及其資管子公司、私募基金管理機構資產管理產品總規模達88.37萬億元。"
+    },
+    {
+      "id": "5125567",
+      "time": "2026-10-05 10:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西總統選舉第二輪角逐者發表講話】當地時間4日晚，巴西總統選舉首輪投票結果出爐，參選候選人中無人得票超過半數。將進行第二輪角逐的現任總統、勞工黨候選人盧拉和前總統博索納羅之子、自由黨候選人弗拉維奧·博索納羅分別發表講話。盧拉當晚在巴西南部城市聖保羅發表演講，表示其競選團隊將以重視經濟發展和社會包容的施政方案來爭取選民支援，並呼籲在首輪投票中棄權的選民積極參與第二輪投票。“我們迎來了第二輪，是時候接受考驗了。”盧拉說，“從明天開始，兩個競選團隊間將展開一場新的角逐。”弗拉維奧在巴西首都巴西利亞舉行的釋出會上對此次投票結果表示滿意。他說，“巴西渴望變革”。如果成功當選，自己將著手解決巴西面臨的“真正問題”。（新華社）"
+    },
+    {
+      "id": "mkt:01a109e7-625d-7ee0-a797-96e4282947d9",
+      "time": "2026-10-05 10:32:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF reached a staff-level agreement with Sri Lanka on the seventh review of its Extended Fund Facility; pending IMF Executive Board approval, Sri Lanka would receive about $345 million."
+    },
     {
       "id": "5125566",
       "time": "2026-10-05 10:31:27",

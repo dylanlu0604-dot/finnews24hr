@@ -1,7 +1,44 @@
 {
-  "updated": "2026-10-05 10:32:42",
-  "count": 10855,
+  "updated": "2026-10-05 10:36:34",
+  "count": 10844,
   "items": [
+    {
+      "id": "te:markets:589360",
+      "time": "2026-10-05 10:35:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Stocks Extend Strength as Week Begins — Indonesian shares rose 32 points, or 0.5%, to 6,070 in Monday’s morning session, building on gains from the prior session as softer U.S. jobs data lifted futures and eased pressure on the Fed to keep tightening. Bargain hunters continued to step in after local markets hit their lowest since mid-July. However, caution lingered ahead of key domestic releases this week, including September forex reserves, consumer sentiment, and August retail sales. Meanwhile, concerns persisted over Indonesia’s external vulnerabilities despite August’s trade surplus, with inflation risks growing after September CPI accelerated to 3.28%, edging closer to Bank Indonesia’s upper target band of 3-1/2%. In main trading partner China, markets remained shut for the Golden Week holiday, capping trading cues. Gains were broad across industry, transport, cyclicals, and basic materials. Early standouts included Rukun Raharja (7.8%), Kawasan Industri Jababeka (3.3%), Summarecon Agung (2.6%), and Jasa Marga (2.0%)."
+    },
+    {
+      "id": "5125568",
+      "time": "2026-10-05 10:35:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【截至二季度末資產管理產品總規模突破88萬億元】中國基金業協會最新發布的資料顯示，截至2026年二季度末，基金管理公司及其子公司、證券公司及其子公司、期貨公司及其資管子公司、私募基金管理機構資產管理產品總規模達88.37萬億元。"
+    },
+    {
+      "id": "5125567",
+      "time": "2026-10-05 10:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西總統選舉第二輪角逐者發表講話】當地時間4日晚，巴西總統選舉首輪投票結果出爐，參選候選人中無人得票超過半數。將進行第二輪角逐的現任總統、勞工黨候選人盧拉和前總統博索納羅之子、自由黨候選人弗拉維奧·博索納羅分別發表講話。盧拉當晚在巴西南部城市聖保羅發表演講，表示其競選團隊將以重視經濟發展和社會包容的施政方案來爭取選民支援，並呼籲在首輪投票中棄權的選民積極參與第二輪投票。“我們迎來了第二輪，是時候接受考驗了。”盧拉說，“從明天開始，兩個競選團隊間將展開一場新的角逐。”弗拉維奧在巴西首都巴西利亞舉行的釋出會上對此次投票結果表示滿意。他說，“巴西渴望變革”。如果成功當選，自己將著手解決巴西面臨的“真正問題”。（新華社）"
+    },
+    {
+      "id": "mkt:01a109e7-625d-7ee0-a797-96e4282947d9",
+      "time": "2026-10-05 10:32:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF reached a staff-level agreement with Sri Lanka on the seventh review of its Extended Fund Facility; pending IMF Executive Board approval, Sri Lanka would receive about $345 million."
+    },
     {
       "id": "5125566",
       "time": "2026-10-05 10:31:27",
@@ -99531,149 +99568,6 @@
         "Precious Metals"
       ],
       "text": "Spot silver slipped below $62/oz for the first time since Aug. 7, falling 3.6% intraday."
-    },
-    {
-      "id": "mkt:01a0e5de-d501-7118-86b3-c53bf37b7fe7",
-      "time": "2026-09-28 10:36:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Shanghai Silver 2610 contract (SHFE) fell 4.07% intraday to 15,101 yuan/kg; open interest dropped by over 5,600 contracts, with positions easing."
-    },
-    {
-      "id": "5115413",
-      "time": "2026-09-28 10:36:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國作出三（羥甲基）氨基甲烷反補貼初裁】美國商務部發布公告，對進口自中國的三（羥甲基）氨基甲烷（Tris (hydroxymethyl) aminomethane）作出反補貼初裁，初步裁定常州沛成進出口有限公司（Changzhou Peicheng Imp. & Exp. Co.）的補貼稅率為117.39%、蘇州亞科科技股份有限公司（Suzhou Yacoo Science Co., Ltd.）及中國其他企業的補貼稅率均為20.63%。"
-    },
-    {
-      "id": "5115412",
-      "time": "2026-09-28 10:35:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌4%，現報15144.00元。"
-    },
-    {
-      "id": "5115411",
-      "time": "2026-09-28 10:35:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守62美元/盎司，日內跌3.58%。"
-    },
-    {
-      "id": "5115410",
-      "time": "2026-09-28 10:35:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國3年期公司債收益率上升10個基點，至4.787%。"
-    },
-    {
-      "id": "te:markets:587091",
-      "time": "2026-09-28 10:35:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10-Year Yield at 30-Year High — Japan’s 10-year government bond yield climbed toward 3.1% on Monday, remaining at its highest level since 1996 as persistent concerns over energy-driven inflation raised expectations that the Bank of Japan could accelerate its rate-hiking cycle. Oil prices rose after President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, while Tehran said it would not ease its conditions for reopening the critical waterway. Meanwhile, a former BOJ official said the central bank could raise its benchmark rate for a second consecutive month when policymakers meet in October, citing heightened inflation risks. Minutes from the BOJ’s July meeting also showed members emphasizing the need for preemptive action against upside risks to prevent sharper rate increases later, noting that the policy rate remains below the neutral range."
-    },
-    {
-      "id": "5115409",
-      "time": "2026-09-28 10:35:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山西焦煤投資成立新能源公司，註冊資本30億元】企查查APP顯示，近日，興縣興新能源有限公司成立，註冊資本30億元，經營範圍包含：煤炭開採；非煤礦山礦產資源開採；礦產資源勘查等。企查查股權穿透顯示，該公司由山西焦煤(000983)全資持股。"
-    },
-    {
-      "id": "5115408",
-      "time": "2026-09-28 10:35:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【預告：中國貿促會召開9月例行新聞釋出會】據中國網訊息，中國貿促會定於9月29日（星期二）上午10:00召開9月例行新聞釋出會。本期釋出會主要內容包含：APEC工商領導人峰會相關情況、塞爾維亞貝爾格萊德世博會中國館籌備進展、推動粵港澳大灣區建設工作舉措、促進中美工商界經貿合作工作考慮、提升服務貿易標準化工作舉措、第十九屆歐洽會活動亮點、全球工商法治大會活動情況等內容。"
-    },
-    {
-      "id": "mkt:01a0e5dd-53f4-7118-86b3-be1c2aedc68d",
-      "time": "2026-09-28 10:34:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhuochuang Info: capacity-reduction cycle may continue; 2027 live hog prices cautiously optimistic】Zhuochuang Info says sow culling accelerates in 2026 Q2–Q3, moving from low-efficiency toward high-efficiency sows; policy and market forces may extend the capacity-reduction cycle. Based on its assessment of sow stocks and productivity, total hog slaughter in 2027 is likely to sit between 2025 and 2026 levels. Monthly supply-demand ratios are expected to decline gradually, with a larger drop after Q2. Using projected annual slaughter and pork consumption, Zhuochuang forecasts a 2027 annual average live-hog price of 12.0–12.5 yuan/kg, a cautiously optimistic outlook."
-    },
-    {
-      "id": "mkt:01a0e5dd-3439-7118-86b3-b67b04c161f8",
-      "time": "2026-09-28 10:34:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China's AI models lead call volumes for 22nd week; anonymous 'Space Rabbit' enters top three, tests point to MiniMax】OpenRouter data show global AI model calls totaled 146 trillion tokens in the week to Sep 27, up 13.18% WoW. Chinese models accounted for 62.22 trillion tokens, down 7.77% WoW; US models 14.2 trillion tokens, down 0.07% WoW. Chinese models have led weekly call volume for 22 consecutive weeks. Anonymous model 'Space Rabbit' has entered the top three; tests suggest it may originate from MiniMax."
-    },
-    {
-      "id": "5115407",
-      "time": "2026-09-28 10:34:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "資料顯示，今日MMLC電池級碳酸鋰（早盤）價格較昨日下跌5000元/噸，中間價報122900元/噸。 (Mysteel)"
-    },
-    {
-      "id": "5115406",
-      "time": "2026-09-28 10:34:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【卓創資訊：產能去化週期或延續，2027年豬價或謹慎偏樂觀】卓創資訊訊息，2026年二、三季度母豬減產逐步加速，兩輪減產先後經歷低效母豬減產向高效母豬減產的推進。政策面及市場端或推動產能去化週期延續。而結合卓創資訊對母豬基數、產效等資料的評估，2027年生豬出欄總量或介於2025年與2026年之間，月供需比或逐步下滑，二季度後降幅或走闊。基於對年出欄總量以及豬肉消費量的資料預測評估，2027年生豬年均價或維持謹慎偏樂觀，年均價或在12.0—12.5元/公斤。"
-    },
-    {
-      "id": "5115405",
-      "time": "2026-09-28 10:33:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【消費電子板塊重挫，可川科技跌停】消費電子板塊重挫，可川科技跌停，捷邦科技、凱旺科技、博碩科技、隆揚電子、光大同創等跟跌。"
-    },
-    {
-      "id": "mkt:01a0e5dc-4519-7118-86b3-a876e49c0c06",
-      "time": "2026-09-28 10:33:33",
-      "tags": [
-        "MKT News",
-        "UAL.O",
-        "Impact bullish",
-        "AAL.O",
-        "DAL.O"
-      ],
-      "text": "The U.S. Federal Aviation Administration (FAA) lifted the ground stop at Denver International Airport."
-    },
-    {
-      "id": "mkt:01a0e5db-a58b-7118-86b3-a31da0b89165",
-      "time": "2026-09-28 10:32:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "Shenzhen Composite Index fell 3%, ChiNext Index fell 3.69%, Shanghai Composite Index fell 1.65%; more than 4,800 stocks declined across the market."
     }
   ]
 }
