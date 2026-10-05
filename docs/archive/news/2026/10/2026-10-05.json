@@ -1,7 +1,71 @@
 {
   "date": "2026-10-05",
-  "count": 178,
+  "count": 184,
   "items": [
+    {
+      "id": "te:economy:589329",
+      "time": "2026-10-05 08:38:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Private Sector Growth Revised Slightly Lower — Japan’s S&P Global Composite PMI Business Activity Index eased to 52.3 in September 2026 from 53.5 the previous month and a flash estimate of 52.5. While marking the 18th consecutive month of private-sector expansion, the latest result was the slowest growth since May, with activity growth moderating across both manufacturing and services. Total new business increased at a softer and more modest pace, while new export business remained solid, driven entirely by manufacturers. Employment rose at its fastest pace since February, alongside a stronger increase in backlogs of work, suggesting continued capacity pressures. On prices, inflationary pressures remained historically elevated, although growth in input costs and output charges eased from August. Finally, business confidence improved to a seven-month high, indicating firms remained optimistic about activity over the coming year."
+    },
+    {
+      "id": "5125495",
+      "time": "2026-10-05 08:37:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度官員將於週二會見阿達尼（Adani）及其他航空公司代表。"
+    },
+    {
+      "id": "mkt:01a1097e-1c3f-7ee0-a796-9d07497e0ca9",
+      "time": "2026-10-05 08:37:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Deputy Governor Uchida said the Bank of Japan will continue to closely review economic and financial indicators and comprehensively assess the impact of AI adoption."
+    },
+    {
+      "id": "te:economy:589328",
+      "time": "2026-10-05 08:36:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Singapore Private Sector Growth Remains Strong — Singapore’s S&P Global PMI fell to 58.1 in September 2026 from a record 59.4 in August, but still signaled another strong improvement in private-sector business conditions. Growth was supported by a marked rise in new orders, driven by robust demand, expanding customer bases and successful business development, which helped activity accelerate. Real estate and business services recorded the sharpest increases in both new orders and activity. Rising workloads prompted further hiring and purchasing, while firms also built inventories. However, supplier performance deteriorated sharply, with lead times lengthening at the fastest pace since early 2022. Cost pressures intensified, with input-price inflation reaching a survey record, prompting firms to raise output prices at one of the fastest rates on record. Despite these pressures, business confidence remained positive, supported by expectations of improving market conditions, new products and government initiatives."
+    },
+    {
+      "id": "5125494",
+      "time": "2026-10-05 08:36:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度官方據悉將討論孟買機場重建計劃。"
+    },
+    {
+      "id": "mkt:01a1097d-004e-7ee0-a796-900037db214d",
+      "time": "2026-10-05 08:35:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Bank of Japan Deputy Governor Uchida said AI has lifted equity prices, easing financial conditions, while heavy bond issuance by AI-related firms is putting upward pressure on long-term interest rates."
+    },
     {
       "id": "te:markets:589327",
       "time": "2026-10-05 08:35:20",

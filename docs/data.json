@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-05 08:35:55",
+  "updated": "2026-10-05 08:39:42",
   "count": 11052,
   "items": [
+    {
+      "id": "te:economy:589329",
+      "time": "2026-10-05 08:38:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Private Sector Growth Revised Slightly Lower — Japan’s S&P Global Composite PMI Business Activity Index eased to 52.3 in September 2026 from 53.5 the previous month and a flash estimate of 52.5. While marking the 18th consecutive month of private-sector expansion, the latest result was the slowest growth since May, with activity growth moderating across both manufacturing and services. Total new business increased at a softer and more modest pace, while new export business remained solid, driven entirely by manufacturers. Employment rose at its fastest pace since February, alongside a stronger increase in backlogs of work, suggesting continued capacity pressures. On prices, inflationary pressures remained historically elevated, although growth in input costs and output charges eased from August. Finally, business confidence improved to a seven-month high, indicating firms remained optimistic about activity over the coming year."
+    },
+    {
+      "id": "5125495",
+      "time": "2026-10-05 08:37:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度官員將於週二會見阿達尼（Adani）及其他航空公司代表。"
+    },
+    {
+      "id": "mkt:01a1097e-1c3f-7ee0-a796-9d07497e0ca9",
+      "time": "2026-10-05 08:37:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Deputy Governor Uchida said the Bank of Japan will continue to closely review economic and financial indicators and comprehensively assess the impact of AI adoption."
+    },
+    {
+      "id": "te:economy:589328",
+      "time": "2026-10-05 08:36:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Singapore Private Sector Growth Remains Strong — Singapore’s S&P Global PMI fell to 58.1 in September 2026 from a record 59.4 in August, but still signaled another strong improvement in private-sector business conditions. Growth was supported by a marked rise in new orders, driven by robust demand, expanding customer bases and successful business development, which helped activity accelerate. Real estate and business services recorded the sharpest increases in both new orders and activity. Rising workloads prompted further hiring and purchasing, while firms also built inventories. However, supplier performance deteriorated sharply, with lead times lengthening at the fastest pace since early 2022. Cost pressures intensified, with input-price inflation reaching a survey record, prompting firms to raise output prices at one of the fastest rates on record. Despite these pressures, business confidence remained positive, supported by expectations of improving market conditions, new products and government initiatives."
+    },
+    {
+      "id": "5125494",
+      "time": "2026-10-05 08:36:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度官方據悉將討論孟買機場重建計劃。"
+    },
+    {
+      "id": "mkt:01a1097d-004e-7ee0-a796-900037db214d",
+      "time": "2026-10-05 08:35:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Bank of Japan Deputy Governor Uchida said AI has lifted equity prices, easing financial conditions, while heavy bond issuance by AI-related firms is putting upward pressure on long-term interest rates."
+    },
     {
       "id": "te:markets:589327",
       "time": "2026-10-05 08:35:20",
@@ -101397,56 +101461,6 @@
         "Emerging Markets"
       ],
       "text": "South Korea's KOSPI index fell 1.00% intraday."
-    },
-    {
-      "id": "5115181",
-      "time": "2026-09-28 08:39:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國首個開放式肉品行業大模型釋出】從南京農業大學獲悉，全國首個開放式肉品行業專屬大語言模型“品肉”近日在該校釋出。“品肉”由肉品質量控制與新資源創制全國重點實驗室研發，融合生產指導、產品研發和產業服務等功能，推動肉品品質控制、加工技術、營養健康和質量安全等領域科研成果的智慧化轉化。它匯聚行業專家知識經驗與服務案例，為肉品研發、工藝升級和質量管理提供專業化智慧支撐。（科技日報）"
-    },
-    {
-      "id": "5115180",
-      "time": "2026-09-28 08:38:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華電新能等成立海上風電新公司】企查查APP顯示，近日，華電（昌江）海上風電有限公司成立，經營範圍包含：風力發電技術服務；發電技術服務；海上風電相關係統研發；風電場相關係統研發等。企查查股權穿透顯示，該公司由華電新能(600930)等共同持股。"
-    },
-    {
-      "id": "5115179",
-      "time": "2026-09-28 08:38:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱打擊烏資料中心 烏稱擊退俄軍攻勢】俄羅斯國防部27日通報稱，俄軍控制了哈爾科夫地區的一處居民點，並在頓涅茨克地區控制了多棟建築。通報還稱，俄軍繼續使用無人機打擊烏克蘭物流中心、港口和交通基礎設施，以及為烏軍服務的通訊中心和船隻，包括位於基利亞港的烏克蘭“東方”海軍基地司令部、位於基輔市的資料處理中心等。同一天，烏克蘭武裝部隊總參謀部釋出資訊稱，過去一天烏空軍、導彈部隊和炮兵襲擊了俄方多處關鍵設施，並擊退俄軍26次進攻。烏軍摧毀俄軍坦克、裝甲車、火炮系統、防空系統、地面機器人系統、無人機、汽車以及多臺特種裝置。"
-    },
-    {
-      "id": "5115178",
-      "time": "2026-09-28 08:37:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度銀行工會推遲原定為期三天的全國性罷工。"
-    },
-    {
-      "id": "5115177",
-      "time": "2026-09-28 08:37:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京港高鐵雄安至商丘段今日開通運營】早上8:06，京港高鐵雄商段通車運營，由北京首發的G3935次列車駛離北京西站，這是一列復興號智慧動車組列車，沿線將會經停雄安、衡水南、聊城西、菏澤東、商丘等車站，終到合肥西站，全程執行5小時40分鐘左右。"
-    },
-    {
-      "id": "5115176",
-      "time": "2026-09-28 08:36:44",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【報道稱將計提1萬億日元損失 日本電產股價大跌17%】有報道稱深陷醜聞的日本電機廠商日本電產將針對會計問題計提約1萬億日元（合63億美元）損失，公司股價下跌17%。日本媒體Diamond報道，這家全球最大精密電機製造商計劃在截至2026年3月的財年追溯確認該筆減值費用，報道未說明訊息來源。報道還稱，日本電產董事會在上週會議投票罷免社長岸田光哉，預計最快於週二公佈新任管理層。自去年披露會計問題以來，日本電產持續陷入動盪，涉事主體包括位於義大利、瑞士、中國的多家子公司及其車載逆變器業務。今年早些時候，該醜聞迫使創始人、前社長永守重信離職；外界認為其高壓激進管理風格催生的嚴苛企業文化，是大範圍財務舞弊的根源。"
     }
   ]
 }
