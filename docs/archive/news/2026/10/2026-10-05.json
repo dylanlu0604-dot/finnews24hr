@@ -1,7 +1,125 @@
 {
   "date": "2026-10-05",
-  "count": 808,
+  "count": 820,
   "items": [
+    {
+      "id": "mkt:01a10b92-b25e-7ee0-a79f-0844e9c36d3d",
+      "time": "2026-10-05 18:18:45",
+      "tags": [
+        "MKT News",
+        "BK.N",
+        "Impact bearish"
+      ],
+      "text": "Citigroup cut BNY MELLON (BK.N) target price to $160 from $172."
+    },
+    {
+      "id": "5126042",
+      "time": "2026-10-05 18:18:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟發言人：歐盟石油協調小組或將“在適當的時候”成立。"
+    },
+    {
+      "id": "te:markets:589541",
+      "time": "2026-10-05 18:18:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Under Pressure — The South African rand approached 16.7 per USD, a low level since late July, pressured by a stronger dollar and ongoing risk aversion. The currency has remained under pressure following a volatile September, with rising Middle East tensions, inflation concerns and weaker commodity prices. A looming fuel-price hike is adding to uncertainty over the inflation outlook. Meanwhile, a fresh PMI survey showed a renewed contraction in the country’s private sector in September, the weakest performance so far this year."
+    },
+    {
+      "id": "5126041",
+      "time": "2026-10-05 18:18:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【迪拜航空副駕駛被曝曾企圖在赴以航班上實施襲擊】總檯記者當地時間10月5日獲悉，有以色列知情官員表示，日前在迪拜航空客機上襲擊機長的阿曼籍副駕駛哈馬姆·哈馬米在入職該公司前便已開始策劃襲擊。熟悉阿聯酋方面調查細節的以色列訊息人士表示，哈馬米曾計劃在過去一年裡其執飛的某一班前往特拉維夫的航班上實施襲擊，但最終放棄。在阿聯酋安全部門對其進行的審訊中，哈馬米承認自己曾向所有航空公司求職，其核心目的是尋找執飛特拉維夫航線的機會。據悉，一個以色列調查小組已於3日抵達阿聯酋參與聯合審訊。以方目前的評估認為，哈馬米此舉屬於單獨行動。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a10b92-4109-7ee0-a79f-03f694b0eaf6",
+      "time": "2026-10-05 18:18:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "A European Commission spokesperson said the EU faces a winter of very high energy prices."
+    },
+    {
+      "id": "5126040",
+      "time": "2026-10-05 18:18:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人表示：就能源價格而言，我們正迎來一個極為艱難的冬季。"
+    },
+    {
+      "id": "mkt:01a10b91-76a7-7ee0-a79e-fb6c7e892f35",
+      "time": "2026-10-05 18:17:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BP chief executive said competition in trading markets is intensifying as more Middle Eastern participants emerge."
+    },
+    {
+      "id": "5126039",
+      "time": "2026-10-05 18:17:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油執行長表示，隨著更多中東參與者湧入，交易市場競爭正日益加劇。"
+    },
+    {
+      "id": "mkt:01a10b90-4d41-7ee0-a79e-f76cf2750d38",
+      "time": "2026-10-05 18:16:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "European Commission spokesperson said it is ready to convene the Oil Coordination Group and the Energy Security Working Group."
+    },
+    {
+      "id": "5126038",
+      "time": "2026-10-05 18:15:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟準備召開石油協調小組和能源安全工作組會議。"
+    },
+    {
+      "id": "mkt:01a10b8f-bbeb-7ee0-a79e-e8b54daf833a",
+      "time": "2026-10-05 18:15:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "European Commission spokesperson said the decision to release oil reserves will have a positive effect on member states' oil prices."
+    },
+    {
+      "id": "5126037",
+      "time": "2026-10-05 18:15:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：釋放儲備的決定將對成員國的油價產生積極影響。"
+    },
     {
       "id": "mkt:01a10b8e-fb99-7ee0-a79e-e4b2a629f514",
       "time": "2026-10-05 18:14:42",
