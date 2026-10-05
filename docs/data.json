@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-06 03:33:28",
-  "count": 10479,
+  "updated": "2026-10-06 03:37:13",
+  "count": 10478,
   "items": [
+    {
+      "id": "5126587",
+      "time": "2026-10-06 03:34:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沙特與葉門針對胡塞武裝的聯合打擊將取得非常良好的效果。"
+    },
+    {
+      "id": "5126586",
+      "time": "2026-10-06 03:33:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與伊朗的戰爭無論如何都會很快結束。"
+    },
     {
       "id": "mkt:01a10d8d-5487-7ee0-a7a9-f19fc62e0b54",
       "time": "2026-10-06 03:32:08",
@@ -96399,35 +96415,6 @@
         "MKT News"
       ],
       "text": "Israeli outlet Today Israel reports the UAE meeting with Netanyahu took place with the knowledge and tacit approval of the US government."
-    },
-    {
-      "id": "mkt:01a0e984-15c8-7338-aaf9-bc8408149eb0",
-      "time": "2026-09-29 03:35:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Trump says US officials held talks with US‑Iran mediators on Sept. 28】On Sept. 28 President Trump said US officials that day held talks with mediators between the US and Iran aimed at ending hostilities. Earlier, a source familiar with the negotiations said the US and Iran were expected to hold mediated meetings on Sept. 28 or 29. Iran's foreign minister Araghchi and Qatari mediators are currently in the United States; talks are expected to focus on revising Iran's UN General Assembly proposal to reopen the Strait of Hormuz within seven days."
-    },
-    {
-      "id": "5117294",
-      "time": "2026-09-29 03:33:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美總統稱美官員已於28日同美伊間的調解方進行對話】當地時間9月28日，美國總統特朗普表示，美國官員當日與旨在結束美伊戰事的調解方進行了交談。\n當日稍早時，有訊息稱，一名瞭解美伊談判情況的官員透露，美國和伊朗預計將於28日或29日再次透過調解方舉行會談。\n伊朗外長阿拉格齊和卡達調解方目前在美國，會談預計將聚焦於磋商修訂伊朗在聯合國大會期間提出的七日內重開霍爾木茲海峽提議。\n22日，美國總統特使威特科夫和特朗普的女婿庫什納在紐約聯合國大會期間與伊朗外長阿拉格齊透過調解方卡達進行了間接會談。據美媒報道，伊方提議，如美國解除海上封鎖、取消石油銷售制裁並恢復地區停火，伊朗將在七天內重新開放霍爾木茲海峽並重啟核談判。\n美國總統特朗普26日向媒體確認，他已拒絕伊朗的這一提議。27日，特朗普表示預計美國和伊朗將在接下來一週內重啟談判。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0e982-08f9-7338-aaf9-b4f42aa13743",
-      "time": "2026-09-29 03:33:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SPA reports Saudi foreign minister discussed regional developments and the situation in Yemen with US Secretary of State Rubio."
     }
   ]
 }
