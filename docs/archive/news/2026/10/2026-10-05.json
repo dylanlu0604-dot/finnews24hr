@@ -1,7 +1,82 @@
 {
   "date": "2026-10-05",
-  "count": 838,
+  "count": 846,
   "items": [
+    {
+      "id": "5126058",
+      "time": "2026-10-05 18:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦KSE-100指數初步收跌1.3%，報165972點。"
+    },
+    {
+      "id": "te:markets:589548",
+      "time": "2026-10-05 18:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.56% Higher — The SENSEX Index rose 403 points or 0.56 percent on Monday to close at 72312 points. Leading the gains are ITC (4.79%), Tata Motors (3.11%) and Eternal Limited (2.50%). Top losers were HCL Tech (-3.47%), HDFC Bank (-2.23%) and Asian Paints (-2.16%)."
+    },
+    {
+      "id": "5126057",
+      "time": "2026-10-05 18:30:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國聯合工會：伍德集團海上工人的罷工行動將於10月6日啟動，這是針對港灣能源運營資產的一系列罷工行動的一部分，定於10月6日至7日舉行，後續行動將在10月20日至21日以及11月3日至4日開展。"
+    },
+    {
+      "id": "mkt:01a10b9c-cac7-7ee0-a79f-553ceaf2b8b8",
+      "time": "2026-10-05 18:29:47",
+      "tags": [
+        "MKT News",
+        "WG.L",
+        "Impact bearish"
+      ],
+      "text": "UK's Unite said strike action at Wood Group is scheduled for Oct 6-7, Oct 20-21 and Nov 3-4."
+    },
+    {
+      "id": "mkt:01a10b9c-16d8-7ee0-a79f-49995b1c8f87",
+      "time": "2026-10-05 18:29:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "HBR.L",
+        "Impact bearish"
+      ],
+      "text": "UK's Unite union said Wood Group offshore workers will begin strike action on Oct 6, part of a series of stoppages targeting Harbour Energy-operated assets."
+    },
+    {
+      "id": "5126056",
+      "time": "2026-10-05 18:29:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油執行長表示：“我對我們內部現有的勘探能力非常滿意。”"
+    },
+    {
+      "id": "5126055",
+      "time": "2026-10-05 18:27:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "BP執行長：仍然堅信液化天然氣前景；亞洲需求正在上升。"
+    },
+    {
+      "id": "5126054",
+      "time": "2026-10-05 18:27:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯洛伐克政府批准2027年預算，赤字率為4.9%。"
+    },
     {
       "id": "5126053",
       "time": "2026-10-05 18:26:37",
