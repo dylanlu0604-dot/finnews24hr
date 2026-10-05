@@ -1,7 +1,26 @@
 {
   "date": "2026-10-05",
-  "count": 152,
+  "count": 154,
   "items": [
+    {
+      "id": "mkt:01a10972-1ca6-7ee0-a796-3718e721bc67",
+      "time": "2026-10-05 08:23:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan-listed Brazil ETF rose 7.6% after Bolsonaro took a lead in the election."
+    },
+    {
+      "id": "5125481",
+      "time": "2026-10-05 08:23:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本上市的巴西ETF上漲7.6%，此前博索納羅在選舉中領先。"
+    },
     {
       "id": "5125480",
       "time": "2026-10-05 08:20:12",
