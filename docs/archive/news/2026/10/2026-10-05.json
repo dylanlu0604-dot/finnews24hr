@@ -1,7 +1,75 @@
 {
   "date": "2026-10-05",
-  "count": 746,
+  "count": 753,
   "items": [
+    {
+      "id": "mkt:01a10b76-9f20-7ee0-a79e-563c309886a7",
+      "time": "2026-10-05 17:48:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Military sources said Yemeni government forces launched attacks on Houthi positions from the north, west and south of Yemen."
+    },
+    {
+      "id": "5126002",
+      "time": "2026-10-05 17:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門政府武裝從葉門北部、西部與南部三條戰線向胡塞武裝發動攻擊。"
+    },
+    {
+      "id": "mkt:01a10b75-b9ca-7ee0-a79e-4a2505294b3b",
+      "time": "2026-10-05 17:47:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Yemeni government says it controls Bab el‑Mandeb; Houthis say fighting continues】Yemeni government forces said on the 5th that, shortly after the Yemeni Presidential Leadership Council announced the launch of the \"Yemen Dawn\" operation, they had taken control of the international shipping route Bab el‑Mandeb Strait. Houthi sources said fighting for control of the strait is ongoing."
+    },
+    {
+      "id": "5126001",
+      "time": "2026-10-05 17:47:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京兩機場旅客吞吐量破1億人次 較去年提前17天】據中國民航報，記者從首都機場集團獲悉，截至10月4日，首都機場集團下轄的首都機場、大興機場今年累計旅客吞吐量10021.6萬人次，同比增長6.7%，較去年提前17天突破1億人次。其中，國內旅客吞吐量8106萬人次，同比增長6%；國際及地區旅客吞吐量1915萬人次，同比增長9.6%。"
+    },
+    {
+      "id": "5126000",
+      "time": "2026-10-05 17:46:12",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "葉門胡塞武裝訊息人士告訴新華社記者，爭奪曼德海峽控制權的戰鬥仍在繼續。（新華社）"
+    },
+    {
+      "id": "mkt:01a10b74-1749-7ee0-a79e-41870abec610",
+      "time": "2026-10-05 17:45:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish"
+      ],
+      "text": "Tencent Holdings (00700.HK) spent HK$100.2m on Oct. 5 to repurchase 238,000 shares."
+    },
+    {
+      "id": "5125999",
+      "time": "2026-10-05 17:44:52",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【一半股票跌超20%，摩根士丹利警告美股漲勢高度集中】10月5日，摩根士丹利首席股票策略師Mike Wilson表示，美股指數與大多數個股表現之間的分化正在加劇。目前，羅素3000指數成分股中已有51%較6月高點下跌超過20%，標普500指數中位數股票較52周高點低16%，意味著雖然主要股指仍處於高位，但大多數股票實際上已經明顯回落，市場上漲越來越依賴少數大型科技和AI股票。"
+    },
     {
       "id": "5125998",
       "time": "2026-10-05 17:44:16",
