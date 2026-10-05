@@ -1,7 +1,50 @@
 {
   "date": "2026-10-05",
-  "count": 340,
+  "count": 345,
   "items": [
+    {
+      "id": "5125598",
+      "time": "2026-10-05 11:36:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "大和證券股價回吐早前漲幅，下跌0.6%。"
+    },
+    {
+      "id": "5125597",
+      "time": "2026-10-05 11:35:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期第四天 濟南30家重點監測景區共接待遊客80.93萬人次】據濟南釋出，截至10月4日14時，全市納入監測的30家景區共接待遊客80.93萬人次，實現營業收入2424.54萬元。全市接待持證留宿旅客17.62萬人次，鐵路傳送旅客18.47萬人，民航傳送旅客3.04萬人，公路傳送旅客2.57萬人。"
+    },
+    {
+      "id": "5125596",
+      "time": "2026-10-05 11:34:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：印度選舉當天出結果，美國卻要數週，投票是腐敗的！】美國總統特朗普：今天有數百萬人參加了印度總統選舉第一輪投票。投票結束後不久，結果就出來了，就在同一天！而在底特律、費城、加利福尼亞以及美國許多其他城市和州，投票人數少得多，結果卻往往要花幾周時間才能被操縱（計算出來）。美國的投票是腐敗的！"
+    },
+    {
+      "id": "mkt:01a10a20-8619-7ee0-a797-ee8d5d1c2a40",
+      "time": "2026-10-05 11:34:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says India posts same-day election results; U.S. counts take weeks, calls voting corrupt】President Trump said millions voted in India’s first-round election and results were announced the same day. He contrasted that with Detroit, Philadelphia, California and other U.S. jurisdictions where turnout is lower yet results often take weeks to be counted, and he described U.S. voting as corrupt."
+    },
+    {
+      "id": "te:markets:589368",
+      "time": "2026-10-05 11:34:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Steadies After Recent Losses — Malaysian palm oil futures were little changed after recent weakness, with bargain hunters stepping in after prices hit their lowest since mid-July last week. Sentiment stayed fragile as futures held below MYR 4,500 per tonne, pressured by rising production, inventories seen topping three million tonnes, and sluggish exports. Cargo surveyors estimated September shipments fell 17.1%–28.8% month-over-month, underscoring demand concerns. Simultaneously, chicago soyoils edged higher, while Dalian markets were closed for China’s Golden Week. Analyst Dorab Mistry expects prices to hover between MYR 4,500–5,000 through December, with elevated stocks capping gains despite El Niño-driven supply risks next year. In top buyer India, palm oil imports are set to remain steady in 2026/27 after a duty cut, while lower edible-oil tariffs ahead of the festive season may lift near-term demand. Still, weaker crude oil prices following a G7 stock release reduced palm oil’s appeal as a biodiesel feedstock."
+    },
     {
       "id": "5125595",
       "time": "2026-10-05 11:32:34",
