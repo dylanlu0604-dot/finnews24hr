@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-06 03:10:53",
-  "count": 10439,
+  "updated": "2026-10-06 03:14:41",
+  "count": 10441,
   "items": [
+    {
+      "id": "5126557",
+      "time": "2026-10-06 03:12:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價在午盤交易中觸及盤中新高，最新上漲超6%，報169.50美元。"
+    },
+    {
+      "id": "te:economy:589654",
+      "time": "2026-10-06 03:11:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Inflation Rises in September — Uruguay’s annual inflation rate rose to 4.68% in September 2026 from 4.55% in August. The largest price increases were recorded in education (7.29%), transport (7.13%), healthcare (6.72%), restaurants and lodging (6.64%), and personal care and social security (5.66%). Food and non-alcoholic beverages increased 4.26%. In contrast, clothing and footwear fell 6.21%, making it the only category to record deflation. On a monthly basis, consumer prices rose 0.54%, bringing year-to-date inflation to 4.21%."
+    },
     {
       "id": "mkt:01a10d78-c3de-7ee0-a7a9-2f2a1983f04e",
       "time": "2026-10-06 03:09:40",
