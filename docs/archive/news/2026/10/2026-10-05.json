@@ -1,7 +1,88 @@
 {
   "date": "2026-10-05",
-  "count": 727,
+  "count": 736,
   "items": [
+    {
+      "id": "5125992",
+      "time": "2026-10-05 17:35:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "據出口商估算，截至10月4日當週，象牙海岸港口到港可可豆量為18,000噸，象牙海岸港口可可總到貨量自2026/27產季啟動以來已達5.45萬噸。"
+    },
+    {
+      "id": "5125991",
+      "time": "2026-10-05 17:35:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "施耐德電氣股價跌幅擴大，現下跌9.6%，若維持此跌幅，將創2020年3月以來最大單日跌幅。"
+    },
+    {
+      "id": "te:markets:589534",
+      "time": "2026-10-05 17:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Italy's BTP Yield Rises Amid Bond Selloff — Italy's 10-Year BTP yield rose to around 4.64%, remaining near it highest level in three years, as concerns over debt affordability and government spending across Eurozone countries, such as France and Italy, led to a broader bond selloff. Prime Minister Meloni aims to narrow Italy's budget deficit below the EU's 3% limit for 2026, as the 2026 budget plan is the last ahead of general elections next year. The narrower deficit is supported by stronger-than-expected economic growth which was revised upwards by the government to 1% in 2026 from 0.6% previously in April, and to 0.8% in 2027 from 0.6%. Defense spending was cut to €14 billion from the €22 billion previously planned. The cut eases some concerns that have lifted yields to multi-year highs, as the spread between the BTP and safe-haven Bund recorded its biggest daily jump since 2020 on October 1st. Elsewhere, Spanish PM Sánchez called a snap election after Congress rejected housing measures."
+    },
+    {
+      "id": "5125990",
+      "time": "2026-10-05 17:35:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "Neyasa將融資2億美元，由黑石集團領投。"
+    },
+    {
+      "id": "mkt:01a10b6a-0b6c-7ee0-a79e-1e284e36c548",
+      "time": "2026-10-05 17:34:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "COP.N"
+      ],
+      "text": "ConocoPhillips (COP.N) chairman says the company is negotiating with Syrian authorities to expand regional operations, including in oil."
+    },
+    {
+      "id": "mkt:01a10b68-c23f-7ee0-a79e-173ff4f99c85",
+      "time": "2026-10-05 17:32:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Nobel Prize in Physiology or Medicine was awarded to Karl Deisseroth, Peter Hegemann and Georg Nagel for \"discoveries in light-gated ion channels and optogenetics\"."
+    },
+    {
+      "id": "5125989",
+      "time": "2026-10-05 17:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年諾貝爾生理學或醫學獎揭曉】當地時間10月5日，瑞典卡羅琳醫學院宣佈，將2026年諾貝爾生理學或醫學獎授予三名科學家。（央視）"
+    },
+    {
+      "id": "5125988",
+      "time": "2026-10-05 17:32:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "諾貝爾生理學或醫學獎授予卡爾·戴瑟羅斯（Karl Deisseroth）、彼得·黑格曼（Peter Hegemann）和格奧爾格·納格爾（Georg Nagel），以表彰他們“在光門控離子通道和光遺傳學方面的發現”。"
+    },
+    {
+      "id": "5125987",
+      "time": "2026-10-05 17:32:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "據INTERTEK，馬來西亞10月1日至5日棕櫚油出口量為188,248噸。"
+    },
     {
       "id": "5125986",
       "time": "2026-10-05 17:32:14",
