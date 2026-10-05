@@ -1,7 +1,46 @@
 {
   "date": "2026-10-05",
-  "count": 323,
+  "count": 327,
   "items": [
+    {
+      "id": "mkt:01a10a06-ea24-7ee0-a797-d568f8348897",
+      "time": "2026-10-05 11:06:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong PCB-related stocks extended gains: 01888.HK rose nearly 9%, 01989.HK gained over 5%, while 03200.HK and 02476.HK also advanced."
+    },
+    {
+      "id": "5125585",
+      "time": "2026-10-05 11:05:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元進一步下跌，目前跌0.7%，報1.11735美元。"
+    },
+    {
+      "id": "5125584",
+      "time": "2026-10-05 11:04:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：日本計劃不再從國家儲備中釋放原油。"
+    },
+    {
+      "id": "mkt:01a10a05-0e9a-7ee0-a797-c93211962b1a",
+      "time": "2026-10-05 11:04:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "KIHARA said Japan plans to stop releasing crude oil from national reserves."
+    },
     {
       "id": "5125583",
       "time": "2026-10-05 11:00:10",

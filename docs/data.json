@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-05 11:03:18",
-  "count": 10800,
+  "updated": "2026-10-05 11:07:02",
+  "count": 10801,
   "items": [
+    {
+      "id": "mkt:01a10a06-ea24-7ee0-a797-d568f8348897",
+      "time": "2026-10-05 11:06:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong PCB-related stocks extended gains: 01888.HK rose nearly 9%, 01989.HK gained over 5%, while 03200.HK and 02476.HK also advanced."
+    },
+    {
+      "id": "5125585",
+      "time": "2026-10-05 11:05:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元進一步下跌，目前跌0.7%，報1.11735美元。"
+    },
+    {
+      "id": "5125584",
+      "time": "2026-10-05 11:04:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：日本計劃不再從國家儲備中釋放原油。"
+    },
+    {
+      "id": "mkt:01a10a05-0e9a-7ee0-a797-c93211962b1a",
+      "time": "2026-10-05 11:04:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "KIHARA said Japan plans to stop releasing crude oil from national reserves."
+    },
     {
       "id": "5125583",
       "time": "2026-10-05 11:00:10",
@@ -99138,34 +99177,6 @@
         "市場"
       ],
       "text": "【網路安全概念再度拉昇 永信至誠20cm漲停】網路安全概念盤中再度拉昇，永信至誠20cm漲停，此前中新賽克漲停，中孚資訊、任子行、天融信、啟明資訊、麒麟信安均漲超5%。"
-    },
-    {
-      "id": "mkt:01a0e5fa-253f-7118-86b4-5495ca1392cf",
-      "time": "2026-09-28 11:06:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Tongcheng Travel: Shanghai interprovincial bookings during Mid-Autumn holiday up 29% vs Dragon Boat】Tongcheng Travel's 2026 Mid-Autumn holiday report shows Shanghai's interprovincial bookings rose 29% versus this year's Dragon Boat holiday. Top five source regions for cross‑province trips were Jiangsu, Zhejiang, Beijing, Guangdong and Anhui. Shanghai ranked among the top 10 Mid‑Autumn destinations. Nationally, hotel bookings for urban micro‑vacations by consumers born in the 1990s and 2000s rose 24% YoY; the share of stays of two nights or longer increased by 6 percentage points. Shanghai bookings concentrated around major attractions, commercial districts and cultural/museum venues."
-    },
-    {
-      "id": "5115463",
-      "time": "2026-09-28 11:04:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【同程旅行：上海市中秋假期跨省出行訂單較今年端午同期增長29%】同程旅行釋出《2026中秋小長假旅遊盤點報告》，報告顯示，上海市中秋假期跨省出行訂單較今年端午同期增長29%，跨省遊熱門客源地TOP5為江蘇、浙江、北京、廣東、安徽。上海入選“中秋熱門旅遊城市TOP10”。報告顯示，中秋期間全國90後、00後城市微度假酒店訂單同比增長24%，連住兩晚及以上訂單佔比提升6個百分點，上海預訂集中在核心景點、商圈及文博場館周邊。"
-    },
-    {
-      "id": "mkt:01a0e5f8-1f3b-7118-86b4-48a4ee10ad67",
-      "time": "2026-09-28 11:03:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share pork sector rallied intraday; Dongrui Co. hit the daily trading limit, while Huatong, Muyuan and Tiankang Bio advanced."
     }
   ]
 }
