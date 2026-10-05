@@ -1,7 +1,68 @@
 {
   "date": "2026-10-06",
-  "count": 161,
+  "count": 168,
   "items": [
+    {
+      "id": "mkt:01a10d80-4877-7ee0-a7a9-5445244deed5",
+      "time": "2026-10-06 03:17:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will visit Michigan in about 1.5 weeks."
+    },
+    {
+      "id": "mkt:01a10d80-0d26-7ee0-a7a9-4a53ca512658",
+      "time": "2026-10-06 03:17:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Tanker hit by \"unidentified projectile\", engine room ablaze in Strait of Hormuz】UK Maritime Trade Operations (UKMTO) said on the 5th a tanker in the Strait of Hormuz was struck by an \"unidentified projectile\", causing an engine-room fire; crew are fighting the blaze. The captain reported no casualties and no environmental damage detected to date. Earlier UKMTO notices said two tankers and an LPG carrier were attacked in the Strait on the 3rd and 4th, and another tanker was turned back by Iran's Islamic Revolutionary Guard Corps on the 5th."
+    },
+    {
+      "id": "5126559",
+      "time": "2026-10-06 03:17:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將在密歇根州開展競選活動，也許還會去緬因州。"
+    },
+    {
+      "id": "mkt:01a10d7e-8ef9-7ee0-a7a9-412e26880129",
+      "time": "2026-10-06 03:16:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Refinitiv/Ipsos poll found registered Hispanic voters are twice as likely to back Democrats as Republicans in the U.S. midterm elections."
+    },
+    {
+      "id": "mkt:01a10d7e-7f7d-7ee0-a7a9-3cc91f77653f",
+      "time": "2026-10-06 03:15:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos poll shows just 24% of Hispanic Americans approve of President Trump's job performance, the lowest level of his term."
+    },
+    {
+      "id": "mkt:01a10d7e-1263-7ee0-a7a9-31e7575e5bde",
+      "time": "2026-10-06 03:15:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv/Ipsos poll shows U.S. President Trump's approval rating held at 32%, matching its record low."
+    },
+    {
+      "id": "5126558",
+      "time": "2026-10-06 03:14:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：土巴兩國將向沙特部署軍事力量】據多家外媒報道，沙烏地阿拉伯、土耳其和巴基斯坦三國5日發表聯合宣告稱，在葉門胡塞武裝發動襲擊之際，土耳其與巴基斯坦將向沙特部署軍事力量。（新華社）"
+    },
     {
       "id": "5126557",
       "time": "2026-10-06 03:12:56",
