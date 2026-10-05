@@ -1,7 +1,35 @@
 {
   "date": "2026-10-05",
-  "count": 154,
+  "count": 157,
   "items": [
+    {
+      "id": "5125483",
+      "time": "2026-10-05 08:27:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長內田：人工智慧已成為各大央行討論的核心議題，在日本央行的貨幣政策會議上亦是如此。"
+    },
+    {
+      "id": "mkt:01a10974-9968-7ee0-a796-3b225997818e",
+      "time": "2026-10-05 08:26:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of Japan Deputy Governor UCHIDA said AI adoption may have both positive and negative effects on productivity and the labor market."
+    },
+    {
+      "id": "5125482",
+      "time": "2026-10-05 08:26:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長內田真一：採用人工智慧可能對生產率和勞動力市場同時產生正面及負面影響。"
+    },
     {
       "id": "mkt:01a10972-1ca6-7ee0-a796-3718e721bc67",
       "time": "2026-10-05 08:23:55",
