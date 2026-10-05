@@ -1,7 +1,33 @@
 {
   "date": "2026-10-05",
-  "count": 334,
+  "count": 337,
   "items": [
+    {
+      "id": "mkt:01a10a18-1354-7ee0-a797-e046efa586c0",
+      "time": "2026-10-05 11:25:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Southern Command said a Western Hemisphere joint task force struck a fast boat operating on an established Caribbean drug-smuggling route, killing four people described as drug traffickers and terrorists."
+    },
+    {
+      "id": "mkt:01a10a15-d521-7ee0-a797-d998bad33bf6",
+      "time": "2026-10-05 11:22:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hengqin port daily crossings exceed 150,000 for first time, new single-day record】Zhuhai’s Hengqin port recorded over 150,000 border passenger crossings on Oct. 4, the Zhuhai border inspection station said. The total surpasses the prior single-day record of 147,900 on May 2, represents a 20% YoY rise, and is the highest daily throughput since the port opened. The port has logged multiple days above 140,000 this year, with travel between Hengqin and Macau remaining elevated."
+    },
+    {
+      "id": "5125592",
+      "time": "2026-10-05 11:22:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "越南石油天然氣總公司尋求採購110萬百萬英熱單位的現貨液化天然氣，10月15日至30日交付。"
+    },
     {
       "id": "5125591",
       "time": "2026-10-05 11:20:52",
