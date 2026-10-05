@@ -1,7 +1,48 @@
 {
   "date": "2026-10-05",
-  "count": 148,
+  "count": 152,
   "items": [
+    {
+      "id": "5125480",
+      "time": "2026-10-05 08:20:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報60.95美元/盎司。"
+    },
+    {
+      "id": "5125479",
+      "time": "2026-10-05 08:19:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷總統米萊祝賀博索納羅在巴西大選首輪投票中領先】阿根廷總統米萊在社交平臺上發文，祝賀弗拉維奧·博索納羅在巴西總統選舉首輪投票中領先現任總統盧拉。米萊表示，希望阿根廷和巴西能夠作為經貿、文化和政治夥伴開展合作，並稱兩國之間的合作機會“無限”。"
+    },
+    {
+      "id": "te:markets:589323",
+      "time": "2026-10-05 08:18:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Rise Further as Week Begins — Australian stocks rose 32 points or 0.4% to 8,714 in early Monday trade, extending gains for a second straight session as most sectors advanced. Industrial services, consumer durables, and financials led the rise, supported by firmer U.S. equity futures after softer jobs data eased pressure on a Federal Reserve hike. Locally, September private sector growth was revised higher, driven by services, as factory output stayed weak. However, gains were tempered by holiday-thinned trade in several states, including New South Wales and Queensland, while markets in main trading partner China remained closed for the Golden Week. Meanwhile, Treasurer Chalmers said that the Middle East conflict is the central driver of Australia’s inflation challenge and keeps pressure on the Reserve Bank to stay hawkish. The big four banks added 0.4%–0.9%, with BHP and Rio Tinto up near 1%. Other standouts included Reece (1.6%) and Codan (1.9%), while QBE Insurance (-1.7%) and Lynas Rare Earths (-1%) lagged."
+    },
+    {
+      "id": "mkt:01a1096c-db51-7ee0-a796-2f25c99793af",
+      "time": "2026-10-05 08:18:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【Saudi surprise cuts November Asian OSPs; raises NW Europe and Mediterranean prices】Saudi Aramco set November OSP for Arab Light to Asia at a $5/bbl discount to the Oman/Dubai average, a $3/bbl cut from October and the largest discount since June 2020, surprising markets that had expected a $3/bbl increase. Aramco cut Asia OSPs for Arab Medium and Arab Heavy by $5/bbl each. After resuming exports via the Red Sea port of Yanbu, Aramco raised November OSPs for all grades to Northwest Europe and the Mediterranean by $3/bbl; U.S. OSPs were unchanged. OPEC+ left November production targets unchanged on Sunday, in line with expectations and implying little likelihood of further output policy changes before next year."
+    },
     {
       "id": "mkt:01a1096b-1735-7ee0-a796-2328ad282176",
       "time": "2026-10-05 08:16:15",
