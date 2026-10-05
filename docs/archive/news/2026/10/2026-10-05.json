@@ -1,7 +1,51 @@
 {
   "date": "2026-10-05",
-  "count": 741,
+  "count": 746,
   "items": [
+    {
+      "id": "5125998",
+      "time": "2026-10-05 17:44:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據港交所檔案，騰訊於10月5日斥資1.002億港元回購23.8萬股股份。"
+    },
+    {
+      "id": "mkt:01a10b71-a790-7ee0-a79e-3c658aebc4f5",
+      "time": "2026-10-05 17:42:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Afghanistan's acting foreign minister in the Taliban government said Afghanistan regards self-defense against any act of aggression as a legal and inalienable right."
+    },
+    {
+      "id": "mkt:01a10b71-5869-7ee0-a79e-31b915f989be",
+      "time": "2026-10-05 17:42:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "USDJPY"
+      ],
+      "text": "Acting foreign minister of the Afghan Taliban government said Pakistan's military has used only military language in its dealings with Afghanistan and is not seeking political understanding."
+    },
+    {
+      "id": "5125997",
+      "time": "2026-10-05 17:41:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿富汗塔利班外交部長：巴基斯坦軍方沒有尋求政治諒解，反而在與阿富汗的關係中只使用武力話語。"
+    },
+    {
+      "id": "mkt:01a10b70-80d4-7ee0-a79e-2ba4b818babb",
+      "time": "2026-10-05 17:41:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Afghan Taliban's acting foreign minister said he believes existing issues between Afghanistan and Pakistan can be resolved through dialogue and diplomacy."
+    },
     {
       "id": "5125996",
       "time": "2026-10-05 17:40:28",
