@@ -1,7 +1,96 @@
 {
-  "updated": "2026-10-06 03:22:12",
-  "count": 10453,
+  "updated": "2026-10-06 03:25:57",
+  "count": 10462,
   "items": [
+    {
+      "id": "5126573",
+      "time": "2026-10-06 03:24:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普被問及美國在波蘭的軍事基地時表示：這有可能發生。"
+    },
+    {
+      "id": "mkt:01a10d86-18c4-7ee0-a7a9-9292eee2532f",
+      "time": "2026-10-06 03:24:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said on the Saudi-Houthi situation that everything will be fine."
+    },
+    {
+      "id": "5126572",
+      "time": "2026-10-06 03:23:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：巴西大選將非常膠著。"
+    },
+    {
+      "id": "5126571",
+      "time": "2026-10-06 03:23:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談沙特和胡塞武裝衝突：一切都會好起來的。"
+    },
+    {
+      "id": "mkt:01a10d85-2ff3-7ee0-a7a9-8bd4e04ae6b4",
+      "time": "2026-10-06 03:23:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he will help U.S. farmers resolve diesel supply problems."
+    },
+    {
+      "id": "mkt:01a10d84-8f84-7ee0-a7a9-8639249c6998",
+      "time": "2026-10-06 03:22:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump is set to visit Iowa soon."
+    },
+    {
+      "id": "5126570",
+      "time": "2026-10-06 03:22:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將幫助農民解決柴油問題。"
+    },
+    {
+      "id": "5126569",
+      "time": "2026-10-06 03:22:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普被問及是否是威脅促使調動轟炸機時回答：是的。"
+    },
+    {
+      "id": "mkt:01a10d84-4578-7ee0-a7a9-7dd29f52acb5",
+      "time": "2026-10-06 03:22:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he has always welcomed direct talks with Iran."
+    },
+    {
+      "id": "5126568",
+      "time": "2026-10-06 03:22:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：始終對直接對話持開放態度。"
+    },
+    {
+      "id": "5126567",
+      "time": "2026-10-06 03:21:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很快將前往愛荷華州。"
+    },
     {
       "id": "mkt:01a10d83-bc54-7ee0-a7a9-716a95b569db",
       "time": "2026-10-06 03:21:39",
@@ -96187,27 +96276,6 @@
         "市場"
       ],
       "text": "【國際油價28日微漲】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格上漲19美分，收於每桶92.60美元，漲幅為0.21%；11月交貨的倫敦布倫特原油期貨價格上漲96美分，收於每桶105.28美元，漲幅為0.92%。"
-    },
-    {
-      "id": "mkt:01a0e97b-13e0-7338-aaf9-9bd545735f4c",
-      "time": "2026-09-29 03:25:52",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "Sources say NVIDIA (NVDA.O) CEO Jensen Huang is expected to attend a White House meeting on Tuesday local time."
-    },
-    {
-      "id": "5117289",
-      "time": "2026-09-29 03:24:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：英偉達執行長黃仁勳等高管預計將出席週二在白宮舉行的會議。"
     }
   ]
 }
