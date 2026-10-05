@@ -1,0 +1,1360 @@
+{
+  "date": "2026-10-06",
+  "count": 142,
+  "items": [
+    {
+      "id": "5126545",
+      "time": "2026-10-06 02:50:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國交通部稱，航空公司應當避免依據 “個人特定資料” 進行定價。"
+    },
+    {
+      "id": "mkt:01a10d66-8abd-7ee0-a7a9-00d59b2b47af",
+      "time": "2026-10-06 02:49:46",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "AAL.O",
+        "JETS.O"
+      ],
+      "text": "U.S. Department of Transportation said airlines should avoid using \"person-specific data\" to set prices."
+    },
+    {
+      "id": "mkt:01a10d63-a956-7ee0-a7a8-f85fbd06d6df",
+      "time": "2026-10-06 02:46:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $100.32/bbl, down $1.93, or 1.89%."
+    },
+    {
+      "id": "mkt:01a10d62-a7ec-7ee0-a7a8-f7689abebe3e",
+      "time": "2026-10-06 02:45:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【Iranian media: Houthi leadership denies Saudi control of Bab al‑Mandeb】Mohammed Buhaithi, a member of the Yemeni Houthi political bureau, told Iranian Al‑Alam TV reports that Saudi forces control Mocha and the Bab al‑Mandeb are “not true.” He said Saudi troops exploited a military vacuum to enter the areas but were subsequently expelled and that local security has been restored. Buhaithi called for an end to the war and the blockade of Yemen and warned the Houthis would respond if Saudi forces continue to escalate."
+    },
+    {
+      "id": "mkt:01a10d61-9c10-7ee0-a7a8-edf860c0f7b9",
+      "time": "2026-10-06 02:44:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $89.43 per barrel, down $1.68, or 1.84%."
+    },
+    {
+      "id": "mkt:01a10d60-3d26-7ee0-a7a8-e30952a733cf",
+      "time": "2026-10-06 02:42:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "AAL.O",
+        "Impact bullish"
+      ],
+      "text": "A memorandum shows the Trump administration closed a 2024 privacy probe into American Airlines Group (AAL.O) and sought no penalties."
+    },
+    {
+      "id": "5126544",
+      "time": "2026-10-06 02:42:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據一份備忘錄，特朗普政府結束 2024 年針對美國航空公司開展的隱私調查，未尋求任何處罰。"
+    },
+    {
+      "id": "5126543",
+      "time": "2026-10-06 02:42:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守100美元/桶，日內跌2.20%。"
+    },
+    {
+      "id": "5126542",
+      "time": "2026-10-06 02:42:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX 提議修建 32 英里天然氣管道，用於星艦專案】SpaceX 正尋求批准，在佛羅里達州修建一條 32.4 英里長的天然氣管道，為卡納維拉爾角的星艦發射提供甲烷燃料。該管道將接入佛羅里達天然氣輸送管網，隨著 SpaceX 擴大發射業務，以此替代依靠卡車運輸液化天然氣的模式，實現持續供氣。該公司仍需配套基礎設施，將天然氣液化為火箭燃料。"
+    },
+    {
+      "id": "5126541",
+      "time": "2026-10-06 02:42:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守89美元/桶，日內跌2.33%。"
+    },
+    {
+      "id": "5126540",
+      "time": "2026-10-06 02:31:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【必和必拓就全球最大銅礦薪資談判請求調解】必和必拓集團（BHP Group）已請求智利勞工主管部門就其埃斯孔迪達（Escondida）銅礦主管及員工的薪資談判啟動調解程式，為雙方爭取更多時間以避免罷工。必和必拓週一在一份宣告中表示，一旦調解日期確認，雙方將有五個工作日繼續談判。"
+    },
+    {
+      "id": "5126539",
+      "time": "2026-10-06 02:31:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約商品交易所 11 月天然氣期貨結算價為 3.0660 美元 / 百萬英熱單位。"
+    },
+    {
+      "id": "te:markets:589652",
+      "time": "2026-10-06 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 1.27% — Top crypto losers are XRP (-1.27%), Solana (-1.18%), Bitcoin (-1.04%) and Ether (-0.61%)."
+    },
+    {
+      "id": "5126538",
+      "time": "2026-10-06 02:29:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "維基百科運營方：OpenAI 的失控智慧體可能與 5 月發生的資料服務中斷存在關聯。"
+    },
+    {
+      "id": "5126537",
+      "time": "2026-10-06 02:29:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報100.19美元/桶。"
+    },
+    {
+      "id": "5126536",
+      "time": "2026-10-06 02:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特： “經濟棄兒行動” 正在取得成效，里亞爾匯率跌至歷史低點，伊朗上月沒有向油輪裝載任何原油，伊朗最高安全官員也承認該國正經歷歷史上最艱難的時期之一。伊朗政權任由本國人民承受苦難，卻將資源投入恐怖活動。“經濟棄兒行動” 不會停止，直至伊朗政權明白，特朗普政府絕不會允許該政權資助恐怖主義以及研發核武器。"
+    },
+    {
+      "id": "mkt:01a10d53-3a41-7ee0-a7a8-df4362681e28",
+      "time": "2026-10-06 02:28:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Wikimedia Foundation said OpenAI's \"out-of-control\" agent may be linked to a May data service outage."
+    },
+    {
+      "id": "mkt:01a10d52-9309-7ee0-a7a8-d5bf255cca1c",
+      "time": "2026-10-06 02:27:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Iran did not load any crude oil onto tankers last month."
+    },
+    {
+      "id": "5126535",
+      "time": "2026-10-06 02:27:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗上個月沒有向油輪裝載任何原油。"
+    },
+    {
+      "id": "te:markets:589651",
+      "time": "2026-10-06 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Rises by 4.26% — Top commodity gainers are Sugar (4.26%) and Cocoa (3.21%). Biggest loser is Rice (-1.07%)."
+    },
+    {
+      "id": "5126534",
+      "time": "2026-10-06 02:22:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SpaceX 擬在佛羅里達州建設天然氣管道。"
+    },
+    {
+      "id": "mkt:01a10d4d-27df-7ee0-a7a8-ca279e96c075",
+      "time": "2026-10-06 02:22:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: SpaceX (SPCX.O) plans to build a natural gas pipeline in Florida, US."
+    },
+    {
+      "id": "te:markets:589650",
+      "time": "2026-10-06 02:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 1.62% — Top commodity gainers are Platinum (1.62%), Copper (1.39%) and Silver (1.18%). Biggest loser is Gold (-0.11%)."
+    },
+    {
+      "id": "mkt:01a10d4b-381f-7ee0-a7a8-c48390487a13",
+      "time": "2026-10-06 02:19:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "MSFT.O"
+      ],
+      "text": "According to The Information, Meta Platforms (META.O) and Microsoft (MSFT.O) are working to reduce employees' reliance on ANTHROPIC's Claude."
+    },
+    {
+      "id": "5126533",
+      "time": "2026-10-06 02:19:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗學生通訊社（ISNA）：葉門胡塞武裝表示，曼德海峽、祖巴卜以及穆哈處於己方控制之下。"
+    },
+    {
+      "id": "5126532",
+      "time": "2026-10-06 02:18:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 10 年期國債收益率最新上漲 6.59 個基點，報 5.343%，此前一度觸及 5.3493%，重新整理 24 年高點。"
+    },
+    {
+      "id": "mkt:01a10d49-d670-7ee0-a7a8-be535c75c070",
+      "time": "2026-10-06 02:18:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon Web Services has launched an AWS Digital Sovereignty Perspective for its Well‑Architected Framework."
+    },
+    {
+      "id": "5126531",
+      "time": "2026-10-06 02:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Meta 與微軟正採取措施，讓員工逐步停用 Anthropic 的 Claude 模型。Meta 大力推廣自研內部 AI 工具，Claude Code 在公司內部的使用者數量已減半。"
+    },
+    {
+      "id": "mkt:01a10d49-954e-7ee0-a7a8-b2d8f3604dc8",
+      "time": "2026-10-06 02:18:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Saudi Arabia has taken a very constructive stance in resolving the issue."
+    },
+    {
+      "id": "mkt:01a10d49-8094-7ee0-a7a8-ae81a31b26a6",
+      "time": "2026-10-06 02:18:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Turkey, Saudi Arabia and Pakistan discussed possible measures to resolve issues peacefully through dialogue."
+    },
+    {
+      "id": "5126530",
+      "time": "2026-10-06 02:17:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其外長：土耳其、沙烏地阿拉伯與巴基斯坦還討論了可採取的舉措，以期透過對話和平解決該問題。 在麥加聯盟週一舉行的緊急會議上，討論了圍繞葉門問題為沙特的防務提供支援的相關辦法。"
+    },
+    {
+      "id": "mkt:01a10d49-1ff6-7ee0-a7a8-a6443e03ea43",
+      "time": "2026-10-06 02:17:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Turkey's foreign minister said Turkey, Saudi Arabia and Pakistan discussed ways to support Saudi Arabia's defense on the Yemen issue at a Mecca Alliance emergency meeting on Monday."
+    },
+    {
+      "id": "5126529",
+      "time": "2026-10-06 02:17:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其外長：沙烏地阿拉伯正以極具建設性的態度處理相關爭端。"
+    },
+    {
+      "id": "5126528",
+      "time": "2026-10-06 02:17:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯、土耳其和巴基斯坦同意在沙特境內提供並快速部署各方商定的部隊及軍事能力。"
+    },
+    {
+      "id": "5126527",
+      "time": "2026-10-06 02:16:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS 宣佈推出適用於良好架構框架的數字主權專項評估工具。"
+    },
+    {
+      "id": "mkt:01a10d46-dda5-7ee0-a7a8-9f32895a6a4a",
+      "time": "2026-10-06 02:15:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Makkah Defense Alliance says it will convert the Makkah agreement into concrete measures, underscoring member states' determination to defend their own security."
+    },
+    {
+      "id": "te:markets:589649",
+      "time": "2026-10-06 02:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Drops by 2.17% — Top commodity losers are Natural Gas UK (-2.17%), Natural Gas EU (-1.78%), Gasoline (-1.76%), Brent Oil (-1.21%) and Crude Oil (-1.15%). Gains are led by Propane (1.78%) and Heating Oil (1.08%)."
+    },
+    {
+      "id": "5126526",
+      "time": "2026-10-06 02:09:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：各方商定的軍事力量與作戰能力將在沙烏地阿拉伯迅速部署。"
+    },
+    {
+      "id": "mkt:01a10d41-858a-7ee0-a7a8-96b36cad3e52",
+      "time": "2026-10-06 02:09:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Pakistan's foreign ministry said it has agreed to rapidly deploy military forces and capabilities to Saudi Arabia."
+    },
+    {
+      "id": "5126525",
+      "time": "2026-10-06 02:06:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴基斯坦、沙烏地阿拉伯與土耳其譴責針對麥加和麥地那的襲擊企圖。"
+    },
+    {
+      "id": "5126524",
+      "time": "2026-10-06 02:06:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國廣播電視臺（IRIB）：有訊息稱一枚導彈可能擊中利雅得機場。"
+    },
+    {
+      "id": "mkt:01a10d3e-bda9-7ee0-a7a8-89e2bb309ecf",
+      "time": "2026-10-06 02:06:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's Foreign Ministry said Nauman Mahmood has been appointed the inaugural secretary-general of the Makkah Defense Alliance for a three-year term."
+    },
+    {
+      "id": "mkt:01a10d3e-635b-7ee0-a7a8-827779ae5e62",
+      "time": "2026-10-06 02:05:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's Foreign Ministry said Pakistan, Saudi Arabia and Turkey reached an agreement to provide specified military forces and capabilities."
+    },
+    {
+      "id": "5126523",
+      "time": "2026-10-06 02:05:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴基斯坦、沙烏地阿拉伯和土耳其同意提供各方商定的軍事力量及相關能力。"
+    },
+    {
+      "id": "mkt:01a10d3d-681c-7ee0-a7a8-7e603f8bf0e5",
+      "time": "2026-10-06 02:04:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Mecca Alliance launches collective deterrence measures after attacks on Saudi Arabia】Saudi Arabia, Pakistan and Turkey held an emergency meeting of the Mecca Alliance strategic political and defense committee. Saudi defence minister said members agreed to act in unity and launch collective deterrence measures to respond to attacks on Saudi Arabia and Islamic holy sites and to those responsible. The Saudi foreign ministry condemned Houthi attacks on Mecca, Medina and civilian infrastructure inside Saudi Arabia, saying Riyadh has sought a political solution since the Houthi coup but the Houthis chose escalation over peace and serve an \"external agenda\", inflicting further suffering on Yemen and its people."
+    },
+    {
+      "id": "5126522",
+      "time": "2026-10-06 02:04:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：巴基斯坦的瑙曼・馬哈茂德出任麥加防務聯盟首任秘書長，任期三年。"
+    },
+    {
+      "id": "mkt:01a10d3c-ded1-7ee0-a7a8-736f0de0b581",
+      "time": "2026-10-06 02:04:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Saudi defense minister said the Makkah Alliance launched a collective deterrence mechanism to counter attacks targeting Saudi Arabia."
+    },
+    {
+      "id": "5126521",
+      "time": "2026-10-06 02:04:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：沙烏地阿拉伯、巴基斯坦、土耳其召開麥加聯盟戰略政治及防務委員會緊急會議。"
+    },
+    {
+      "id": "mkt:01a10d3c-b457-7ee0-a7a8-6ea6fa725ff7",
+      "time": "2026-10-06 02:04:04",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Boeing (BA.N) won a seven-year contract to accelerate production of PAC-3 MSE missile seekers."
+    },
+    {
+      "id": "5126520",
+      "time": "2026-10-06 02:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特國防部長：麥加聯盟重申其承諾，將對抗針對沙烏地阿拉伯以及聖地的襲擊。"
+    },
+    {
+      "id": "5126519",
+      "time": "2026-10-06 02:02:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特國防部長：麥加防務聯盟委員會稱，將實施集體威懾措施，回擊襲擊行為並追究相關責任方。"
+    },
+    {
+      "id": "5126518",
+      "time": "2026-10-06 02:01:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：獲得洛克希德・馬丁價值 147 億美元的 PAC-3 MSE 導彈導引頭合同，合同確立了為期七年的合作框架，PAC-3 MSE 導彈導引頭的產量將增至原先的三倍。"
+    },
+    {
+      "id": "5126517",
+      "time": "2026-10-06 01:59:54",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【報道：嘉吉擬透過高評級債券發行籌集12.5億美元】嘉吉公司（Cargill Inc.）計劃透過高評級債券發行籌集12.5億美元，成為借貸成本飆升之際少數幾家進入市場的企業之一。據知情人士透露，這家糧食貿易巨頭正在發行兩部分債券，期限分別為3年和10年。較長期限部分的定價從最初討論水平收窄了約25個基點，最終定為較美國國債高出75個基點。 此次發行是嘉吉約一年來的首次發債，正值全球債券收益率飆升推高企業融資成本之際。企業尋求債務再融資或為交易提供資金的成本隨之上升。上週，派拉蒙天空之舞公司（Paramount Skydance Corp.）新發行的大規模債券遭遇市場冷遇，在定價後隨即令投資者承受顯著賬面損失，也引發了市場不安。"
+    },
+    {
+      "id": "5126516",
+      "time": "2026-10-06 01:56:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普怨烏克蘭和民主黨推高油價】當地時間10月5日，美國總統特朗普在其社交媒體“真實社交”上發文稱，“推高汽油價格的因素已不再是霍爾木茲海峽，因為如今幾乎每天都有創紀錄數量的原油運出。目前汽油價格走高是‘煉油廠’的問題：俄羅斯的煉油廠正遭烏克蘭轟炸，而我們的煉油廠卻在‘藍州’（民主黨佔優的州）被關閉，比如在加利福尼亞州，這都是被那些‘笨蛋民主黨人’搞的。”（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a10d34-0f4f-7ee0-a7a8-6616fdac084d",
+      "time": "2026-10-06 01:54:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "UK Maritime Trade Operations reported an incident in the Strait of Hormuz: a tanker captain said the vessel was struck by an unidentified object, triggering an engine-room fire. Crew are extinguishing the blaze; no casualties or environmental impact reported so far."
+    },
+    {
+      "id": "5126515",
+      "time": "2026-10-06 01:54:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：船員正在撲救火情，目前沒有收到人員傷亡和環境受影響的報告。"
+    },
+    {
+      "id": "5126514",
+      "time": "2026-10-06 01:54:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室：收到一份發生在霍爾木茲海峽水域的事件報告。油輪船長報告船舶被不明彈體擊中，機艙發生火災。"
+    },
+    {
+      "id": "mkt:01a10d2c-4f86-7ee0-a7a8-5ee7655386e4",
+      "time": "2026-10-06 01:46:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said it will begin within weeks in the EU to add watermarks to eligible text produced by ChatGPT and Codex to comply with the EU AI Act."
+    },
+    {
+      "id": "5126507",
+      "time": "2026-10-06 01:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI：未來幾周內，將在歐盟地區為 ChatGPT 和 Codex 生成的符合條件文字新增水印，以此遵守《歐盟人工智慧法案》。"
+    },
+    {
+      "id": "5126506",
+      "time": "2026-10-06 01:45:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OpenAI：為符合歐盟監管規定，公司將拓展內容溯源方案，對輸出文字增加溯源能力。"
+    },
+    {
+      "id": "mkt:01a10d2b-8e1c-7ee0-a7a8-5317dd5af581",
+      "time": "2026-10-06 01:45:20",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq extends gains to 1%."
+    },
+    {
+      "id": "5126505",
+      "time": "2026-10-06 01:44:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.00%，現報27463.582點；道指漲0.19%，現報51273.469點；標普500指數漲0.67%，現報7774.270點。"
+    },
+    {
+      "id": "mkt:01a10d26-4352-7ee0-a7a8-4eb98dd66cd5",
+      "time": "2026-10-06 01:39:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House bars Politico reporter from Air Force One】The White House on Monday refused to allow a Politico reporter to board Air Force One, preventing the outlet from fulfilling its role in the presidential pool, CNN reported. On Sept. 18 Trump announced bans on Politico, CNN and MS NOW from White House access; the three outlets sued and a federal judge issued a temporary restraining order requiring the government to restore their credentials. The White House says access to the White House complex is distinct from permission to travel on Air Force One and has previously denied CNN reporters travel with the president. A court will hold a hearing on a preliminary injunction for the three outlets on Thursday; Politico’s denial is expected to be included in subsequent filings."
+    },
+    {
+      "id": "5126499",
+      "time": "2026-10-06 01:35:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行官員：放棄銀行產出底線“並非好主意”】歐洲央行監督委員會主管Claudia Buch公開對歐盟擬削弱所謂“產出底線”的提議表示反對。該底線旨在限制銀行透過內部模型降低資本要求的能力。Buch在維也納出席一場會議時表示：“我認為，從已達成共識的產出底線上後退並不是一個好主意。”她補充稱，此舉無法獲得合理解釋，因為目前有人認為該底線將帶來“我們不願看到的”資本增加。重新審視產出底線的提議被納入歐盟關於提升銀行業競爭力的報告之中。歐盟已承諾將在明年第一季度提出立法建議。歐洲央行此前一直支援產出底線。"
+    },
+    {
+      "id": "5126497",
+      "time": "2026-10-06 01:33:29",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通在巴西大選投票結束後，將巴西股票評級上調至超配。"
+    },
+    {
+      "id": "te:markets:589648",
+      "time": "2026-10-06 01:28:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Yield Nears 1-Year Low — Brazil’s 10-year government bond yield fell to 13%, reaching a near one year low after Flávio Bolsonaro finished ahead of President Lula in the first round of the presidential election, defying most polls. The result triggered a sharp repricing of Brazilian assets. Senator Bolsonaro received 47.03% of valid votes, compared with 45.16% for President Lula. Bolsonaro outperformed the average of polls tracked by Goldman Sachs by more than four percentage points. The senator is viewed by markets as more fiscally restrictive, amid elevated domestic yields and weak business activity. The result strengthened expectations that a Bolsonaro administration could pursue tighter control of public spending and measures to improve Brazil’s deteriorating fiscal position. Lower pressure on public finances could reduce the risk premium demanded by investors, while contractionary fiscal policy could ease inflationary pressures. These factors could allow the BCB to cut interest rates more quickly."
+    },
+    {
+      "id": "mkt:01a10d19-8b98-7ee0-a7a8-430ec91bcb02",
+      "time": "2026-10-06 01:25:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Russia to take reciprocal measures against Tokyo's new anti-Russia steps】Russian Foreign Ministry spokeswoman Zakharova said on the ministry website on the 5th that Moscow will impose reciprocal countermeasures against Tokyo’s unfriendly measures, initially targeting sectors of particular importance to Japan. She said Tokyo’s actions show disregard for international law and bilateral agreements and have further damaged bilateral relations."
+    },
+    {
+      "id": "5126491",
+      "time": "2026-10-06 01:23:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：將對日本新的反俄措施採取對等反制】俄羅斯外交部發言人扎哈羅娃5日在俄外交部網站發表評論說，俄方將對東京的不友好舉措採取對等反制，首先針對那些對日本具有重要利益的領域。 據《日本經濟新聞》網站報道，日本政府2日在內閣會議上決定對俄羅斯實施追加制裁。針對所謂俄羅斯為規避西方制裁而秘密運輸原油的“影子船隊”中的35艘船舶，日本政府原則上禁止向其提供運營、維修、保險及融資等服務。扎哈羅娃表示，日方表現出對國際法和雙邊協定的漠視，日本政府的舉動使俄日關係進一步惡化。她表示，東京所推行的外交方針缺乏獨立性，“並非由本國利益所決定”，而是一味地與所謂“志同道合者”保持一致。（新華社）"
+    },
+    {
+      "id": "5126490",
+      "time": "2026-10-06 01:23:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI Codex產品負責人Tibo：首日更新，我們已對 GPT-6 Astra 和 GPT-6.1 Sol 的預設速度完成最佳化，整體提速約 50%；本次最佳化覆蓋全部訂閱使用者，以及所有采用 ChatGPT 賬號登入的產品與合作方（包括 OpenCode、Pi、Amp、Devin 等）。您無需進行任何操作，本次最佳化效果預計將在兩小時內生效。模型吞吐量從 30TPS 提升至 50TPS，同時配備當前最優的分詞器。並且在完成任務所需的 token 數量方面，這些模型的效率相當出色。"
+    },
+    {
+      "id": "5126489",
+      "time": "2026-10-06 01:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：我們擊退了伊朗。我們會完成任務。"
+    },
+    {
+      "id": "mkt:01a10d14-2bfb-7ee0-a7a8-39c7885b9e91",
+      "time": "2026-10-06 01:19:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel's Prime Minister Netanyahu said Israel has repelled Iran and will complete the mission."
+    },
+    {
+      "id": "em:qqyh_mlc:202610063888701685",
+      "time": "2026-10-06 01:19:21",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲週一隔夜逆回購協議（RRP）使用規模為10.04億美元，上個交易日報15.01億美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610063888701685",
+      "time": "2026-10-06 01:19:21",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美聯儲週一隔夜逆回購協議（RRP）使用規模為10.04億美元，上個交易日報15.01億美元。"
+    },
+    {
+      "id": "mkt:01a10d13-3202-7ee0-a7a8-336a8a99595e",
+      "time": "2026-10-06 01:18:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $1.004 billion from six counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "te:markets:589647",
+      "time": "2026-10-06 01:18:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Bond Yield Hits 24-1/2-year High — US 10 Year Government Bond Yield increased to 5.35%, the highest since April 2002. Over the past 4 weeks, US 10 Year Note Bond Yield gained 54.90 basis points, and in the last 12 months, it increased 119.40 basis points."
+    },
+    {
+      "id": "mkt:01a10d12-b109-7ee0-a7a8-2f61ba6f3d07",
+      "time": "2026-10-06 01:18:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports the White House barred a Politico reporter from boarding Air Force One today."
+    },
+    {
+      "id": "5126487",
+      "time": "2026-10-06 01:17:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（10月5日），美聯儲隔夜逆回購協議（RRP）使用規模為10.04億美元（交易對手6家），上個交易日報15.01億美元。"
+    },
+    {
+      "id": "5126483",
+      "time": "2026-10-06 01:15:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：白宮今日不允許《Politico》記者登上空軍一號。"
+    },
+    {
+      "id": "mkt:01a10d0d-3e26-7ee0-a7a8-2326d4ce1d42",
+      "time": "2026-10-06 01:12:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Leader of Yemen’s pro-government Shield of the Homeland forces said the Houthi movement is not fighting Israel or the United States but is fighting Yemenis, and that their campaign aims to restore state authority and protect civilians. He thanked Saudi Arabia and its leadership for their support for Yemen and the Yemeni people."
+    },
+    {
+      "id": "te:markets:589646",
+      "time": "2026-10-06 01:09:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Hits 12-month Low — Lumber decreased to 523.50 USD/1000 board feet, the lowest since September 2025. Over the past 4 weeks, Lumber lost 8.31%, and in the last 12 months, it decreased 14.94%."
+    },
+    {
+      "id": "mkt:01a10d09-4242-7ee0-a7a8-1f590a83cd46",
+      "time": "2026-10-06 01:07:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iranian President Pezeshkian said three attacks have been launched after talks with Iran, indicating the attackers are not seeking dialogue but intend to overthrow the Islamic Republic of Iran's regime."
+    },
+    {
+      "id": "5126480",
+      "time": "2026-10-06 01:06:20",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗建議加碼巴西風險資產 此前博索納羅在首輪投票中表現強於預期】花旗集團建議投資者加碼巴西股票和本幣債券的看漲押注，此前博索納羅在總統選舉首輪投票中的表現強於預期。“博索納羅是對市場更友好的候選人，承諾實施財政緊縮、私有化、放鬆監管以及下調增值稅，”花旗策略師在報告中寫道。花旗稱，預測市場定價顯示，預計博索納羅在10月25日決選中獲勝的機率很高，花旗建議買入巴西股票以及2031年到期的政府債券，即所謂的NTN-F。"
+    },
+    {
+      "id": "mkt:01a10d05-997f-7ee0-a7a8-17904f820d30",
+      "time": "2026-10-06 01:03:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. 10-year Treasury yield rose to 5.34%, the highest since 2002."
+    },
+    {
+      "id": "mkt:01a10d04-cdae-7ee0-a7a8-0d7c73977333",
+      "time": "2026-10-06 01:03:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports the Bank of France governor warned France faces the risk of being \"suffocated by interest rates\"."
+    },
+    {
+      "id": "5126477",
+      "time": "2026-10-06 01:02:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率升至5.34%，創2002年以來新高。"
+    },
+    {
+      "id": "mkt:01a10d03-8852-7ee0-a7a8-01da453f06b0",
+      "time": "2026-10-06 01:01:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Iran president: negotiations with US repeatedly met by war】Al Jazeera reported Iranian President PEZESHKIAN said Iran’s problem with the United States is that \"every time we sit at the negotiating table, we encounter war.\" He said Iran has repeatedly demonstrated sincerity about its nuclear activities and accepted extensive IAEA monitoring. He accused that whenever IAEA inspectors visit, information on Iran’s nuclear facilities and scientists is obtained and those facilities are subsequently bombed and scientists assassinated. He called negotiating with an adversary that conducts assassinations, sanctions and pressure and breaks commitments \"meaningless.\""
+    },
+    {
+      "id": "5126476",
+      "time": "2026-10-06 01:00:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：每次核查人員來到伊朗，我們的核設施以及科學家就會被鎖定，之後這些核設施遭到轟炸，我們的科學家被刺殺。"
+    },
+    {
+      "id": "5126475",
+      "time": "2026-10-06 01:00:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行行長伊曼紐爾・穆蘭警告，法國政府存在被利率 “扼住咽喉” 的風險。"
+    },
+    {
+      "id": "5126474",
+      "time": "2026-10-06 01:00:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚：與一個每日實施恐怖行徑、制裁、施壓和威脅的敵人談判毫無意義。"
+    },
+    {
+      "id": "5126473",
+      "time": "2026-10-06 00:53:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲162美元，報14420美元/噸。LME期鋁收漲26美元，報3127美元/噸。LME期鋅收漲33美元，報3744美元/噸。LME期鉛收漲24美元，報1876美元/噸。LME期鎳收漲88美元，報15714美元/噸。LME期錫收漲301美元，報54314美元/噸。LME期鈷收平，報39245美元/噸。"
+    },
+    {
+      "id": "mkt:01a10cf9-f846-7ee0-a7a7-fd84b839f037",
+      "time": "2026-10-06 00:51:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【British Airways Boeing 777 plunges ~8,230m midflight, declares emergency; returns to Heathrow】A British Airways Boeing 777 en route from London to Chicago declared an emergency on Oct. 5 after flight-tracking data showed its altitude fall from 36,000 ft to 9,000 ft — a drop of roughly 27,000 ft (8,230 metres) — in about seven minutes. The aircraft turned back over Ireland, circled the Bristol Channel for about four hours and landed at London Heathrow at about 17:00 local time. The cause is unclear; British Airways and Heathrow had no immediate comment."
+    },
+    {
+      "id": "5126472",
+      "time": "2026-10-06 00:50:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英航一客機7分鐘急墜8230米】據美國媒體報道，當地時間10月5日，英國航空公司一架客機在從倫敦飛往美國芝加哥途中一度宣佈緊急狀態。根據航班追蹤網站的資料，在起飛約30分鐘後，這架波音777客機的飛行高度在大約7分鐘內從36000英尺（10972.8米）下降到9000英尺（2743.2米），也就是說下降了差不多8230米。目前事故原因還不清楚。客機在愛爾蘭上空掉頭，隨後在英格蘭西部的布里斯托爾海峽上空盤旋了大約4個小時，最終於當地時間下午5點降落在倫敦希思羅機場。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5126470",
+      "time": "2026-10-06 00:47:43",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：各國政府應削減支出以遏制失控的借貸成本】高盛安東尼·古特曼表示，各國政府需要降低支出並實現更強勁增長，以應對不斷攀升的借貸成本。他指出，收益率上升是西方經濟體普遍面臨的問題，並特別提到近期美國國債和法國政府債市場的動盪。古特曼稱，歐洲選舉週期正在加劇政策不確定性，使財政權衡更加難以管理。"
+    },
+    {
+      "id": "5126469",
+      "time": "2026-10-06 00:47:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織預測，索馬利亞 2027 年整體財政赤字佔國內生產總值比重為 0.5%。"
+    },
+    {
+      "id": "5126468",
+      "time": "2026-10-06 00:46:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：索馬利亞 2026 年經濟增長預計維持 2.3% 的正增速，並將於 2027 年逐步回升至 2.7%。"
+    },
+    {
+      "id": "mkt:01a10cf5-c6df-7ee0-a7a7-f2ec5a197f85",
+      "time": "2026-10-06 00:46:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US says bomber pullback from UK was routine rotation, not security-driven】On Oct. 5 Rubio said the US removal of bombers from RAF Fairford was not directly tied to a prior security incident, and that the Pentagon routinely adjusts deployments and rotates personnel and aircraft as operational needs dictate. That comment follows a Oct. 4 US announcement that all B-1 bombers had been withdrawn from RAF Fairford over security concerns that the base could be a potential terror target."
+    },
+    {
+      "id": "mkt:01a10cf5-028d-7ee0-a7a7-ea78249a9b33",
+      "time": "2026-10-06 00:45:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump plans executive order to lower diesel costs】President Trump is planning to sign an executive order on Monday to lower diesel costs. Measures would direct the Treasury to review certain diesel-related taxes, push states to expand supplies of tax-exempt dyed (red) diesel for agriculture, construction and other off‑road uses, urge states to cut some fuel taxes, and ease enforcement of restrictions on dyed diesel use. The White House has ruled out a diesel export ban."
+    },
+    {
+      "id": "5126467",
+      "time": "2026-10-06 00:45:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美稱轟炸機撤出英國系常規輪換 並非出於安全考量】當地時間10月5日，美國國務卿魯比奧在接受採訪時表示，美國轟炸機撤出英國皇家空軍費爾福德基地與此前發生的安全威脅事件沒有直接關聯。魯比奧表示，美國國防部會根據需要持續調整軍事資源部署，基地也會進行常規輪換，包括人員和飛機的更替，因此在世界不同地區調動軍事資產並不罕見。（央視新聞）"
+    },
+    {
+      "id": "5126466",
+      "time": "2026-10-06 00:38:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋航空宣佈，立即暫停與迪拜航空合作的往返特拉維夫程式碼共享航班，直至另行通知。"
+    },
+    {
+      "id": "mkt:01a10ced-6dbf-7ee0-a7a7-e688c0073682",
+      "time": "2026-10-06 00:37:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Emirates said it has suspended codeshare services with flydubai on flights to and from Tel Aviv effective immediately; resumption time to be announced."
+    },
+    {
+      "id": "5126465",
+      "time": "2026-10-06 00:36:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 被指盜用 “Astra” 名稱用於其最新模型。"
+    },
+    {
+      "id": "5126464",
+      "time": "2026-10-06 00:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：推高汽油價格的因素已經不再是霍爾木茲海峽，因為現在幾乎每天都有創紀錄數量的原油外運。問題出在 “煉油廠”，俄羅斯煉油廠正遭到烏克蘭打擊，而美國加州這類藍州的煉油廠被民主黨關停。"
+    },
+    {
+      "id": "mkt:01a10cea-0326-7ee0-a7a7-dcda4191a605",
+      "time": "2026-10-06 00:33:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump said gasoline-price drivers have shifted from the Strait of Hormuz to refineries, citing record daily barrel flows, Ukrainian strikes destroying Russian refineries and Democratic-led closures of some U.S. refineries, including in California."
+    },
+    {
+      "id": "5126463",
+      "time": "2026-10-06 00:33:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：煉油廠是汽油價格高企的原因。"
+    },
+    {
+      "id": "5126462",
+      "time": "2026-10-06 00:32:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "智利比索收盤上漲 1.89%，匯率為 1 美元兌 973.80 至 974.10 智利比索。"
+    },
+    {
+      "id": "5126461",
+      "time": "2026-10-06 00:30:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "據IKAR總經理Dmitry Rylko：俄羅斯9月小麥發貨總量超過240萬噸，較最新預期高出20%。"
+    },
+    {
+      "id": "5126460",
+      "time": "2026-10-06 00:28:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【法國“戴高樂”號航母發生火災 無人員受傷】當地時間10月5日，法國海軍釋出公告稱，停泊在法國土倫海軍基地的“戴高樂”號核動力航空母艦當天發生火災。目前火災已被撲滅，事故沒有造成人員受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a10ce1-9dff-7ee0-a7a7-d129de20c81e",
+      "time": "2026-10-06 00:24:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State broadcaster IRIB reported Iran's interior minister arrived in Doha."
+    },
+    {
+      "id": "5126458",
+      "time": "2026-10-06 00:24:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗伊斯蘭共和國廣播電視臺（IRIB）：伊朗內政部長抵達多哈。"
+    },
+    {
+      "id": "5126457",
+      "time": "2026-10-06 00:23:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：這批專案將保留近 4 吉瓦可靠基荷電力，同時新增 433 兆瓦核電產能。"
+    },
+    {
+      "id": "mkt:01a10cdf-458e-7ee0-a7a7-ca0b020f0fcd",
+      "time": "2026-10-06 00:22:01",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "DOE announced a $4.2 billion investment to expand nuclear generation capacity in Pennsylvania and Ohio and to help reduce energy costs."
+    },
+    {
+      "id": "5126455",
+      "time": "2026-10-06 00:21:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國能源部：法國電力集團的有條件貸款承諾包含融資選擇權，可為德克薩斯州維斯特拉公司旗下科曼奇峰核電站未來可能開展的功率提升專案提供資金。本次投資將支援約 3000 個專案相關就業崗位。"
+    },
+    {
+      "id": "5126454",
+      "time": "2026-10-06 00:20:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部宣佈投入 42 億美元，促進賓夕法尼亞州和俄亥俄州的核電發展，幫助降低能源成本。"
+    },
+    {
+      "id": "5126452",
+      "time": "2026-10-06 00:17:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會主席弗格森向全美 24 家大型醫療服務企業發出信函，警告其不得實施虛假定價行為。"
+    },
+    {
+      "id": "mkt:01a10cdb-3586-7ee0-a7a7-c27d86493f33",
+      "time": "2026-10-06 00:17:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Federal Trade Commission said Chair Ferguson has written to the nation's 24 largest healthcare services companies, warning them against engaging in deceptive pricing practices."
+    },
+    {
+      "id": "5126451",
+      "time": "2026-10-06 00:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會稱已向多家醫院發函，警告其不得實施虛假定價行為。"
+    },
+    {
+      "id": "mkt:01a10cd9-50e9-7ee0-a7a7-b8c9c076eaa6",
+      "time": "2026-10-06 00:15:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "TotalEnergies CEO says global natural gas inventories should increase; he will pay more attention to gas storage than to refined-product inventories."
+    },
+    {
+      "id": "mkt:01a10cd9-2521-7ee0-a7a7-b04c77335844",
+      "time": "2026-10-06 00:15:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Politico reports President Trump will ask the U.S. Treasury to study measures to lower diesel prices and will urge states to take action to reduce fuel costs, sources say."
+    },
+    {
+      "id": "5126450",
+      "time": "2026-10-06 00:14:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源CEO：全球應當增加天然氣儲備，相較於成品油儲備，我會把更多重心放在天然氣儲備上。"
+    },
+    {
+      "id": "5126449",
+      "time": "2026-10-06 00:14:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中長期德債收益率走高，30年期德債收益率漲約5個基點】週一（10月5日）歐市尾盤，德國10年期國債收益率漲3.1個基點，報3.493%，日內交投於3.415%-3.502%區間，整體震盪上行，此前已經連續四個交易日回撤。兩年期德債收益率跌1.1個基點，報3.065%，日內交投於2.994%-3.073%區間，跳空低開之後持續收復失地；30年期德債收益率漲4.7個基點，報3.866%，整體持續震盪上揚。2/10年期德債收益率利差漲4.154個基點，報+42.323個基點。"
+    },
+    {
+      "id": "5126448",
+      "time": "2026-10-06 00:12:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普將要求財政部為了降低柴油價格而研究方法。特朗普將呼籲各州解決燃油成本問題。"
+    },
+    {
+      "id": "te:markets:589642",
+      "time": "2026-10-06 00:12:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.66% Higher — The FTSE MIB Index rose 335 points or 0.66 percent on Monday to close at 50818 points. Leading the gains are Tenaris (4.97%), Fincantieri (4.66%) and Amplifon (4.59%). Top losers were Mediobanca (-4.96%), Telecom Italia (-1.70%) and Prysmian (-1.56%)."
+    },
+    {
+      "id": "te:markets:589640",
+      "time": "2026-10-06 00:11:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls on Fiscal Concerns and Political Risks — The CAC 40 fell 0.8% to close at 7,834 on Monday, hitting a 7-month low on concerns over France’s political and fiscal outlook. Opposition parties remain reluctant to compromise with President Macron’s outgoing administration ahead of next year’s election, with far-right candidate Marine Le Pen and far-left Jean-Luc Mélenchon expected to advance to the runoff. Meanwhile, the president and chief investment strategist at Yardeni Research said Sunday that France could be nearing a full-blown debt crisis. The government recently unveiled a €54 billion fiscal effort to rein in spending and reduce the deficit to 5% of GDP in 2027 from 5.4% this year. Schneider Electric shares tumbled 10% after announcing plans to acquire PTC in the largest deal in the company’s history, raising concerns over valuation, financing and its ability to deliver promised synergies. RBC downgraded PTC to Sector Perform from Outperform. Other laggards included Hermes (-1%), Sanofi (-1.2%) and Legrand (-1%)."
+    },
+    {
+      "id": "te:markets:589639",
+      "time": "2026-10-06 00:11:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.09% Higher — The DAX Index gained 23 points or 0.09 percent on Monday to close at 25254 points. Gains were led by Rheinmetall (2.20%), Fresenius Medical Care (1.77%) and Volkswagen (1.39%). Biggest losers were Bayer (-2.18%), Infineon (-1.81%) and Hochtief (-1.77%)."
+    },
+    {
+      "id": "te:markets:589637",
+      "time": "2026-10-06 00:10:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.93% Lower — The CAC 40 Index decreased 74 points or 0.93 percent on Monday to close at 7823 points. The decline was led by Schneider Electric (-9.72%), Danone (-2.30%) and Saint-Gobain (-1.82%). On the upside, the strongest performers were Dassault Systemes (3.73%), Stellantis NV (2.34%) and Renault (2.25%)."
+    },
+    {
+      "id": "5126447",
+      "time": "2026-10-06 00:09:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌廣告自 2026 年 10 月 21 日起，允許在哥倫比亞投放網路彩票廣告。"
+    },
+    {
+      "id": "mkt:01a10cd3-3388-7ee0-a7a7-a9ec6a056f0c",
+      "time": "2026-10-06 00:08:50",
+      "tags": [
+        "MKT News",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O): Google Ads will permit online lottery advertisements in Colombia from Oct. 21, 2026."
+    },
+    {
+      "id": "te:markets:589634",
+      "time": "2026-10-06 00:08:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes Marginally Higher — Frankfurt’s DAX 40 closed marginally up at 25,254 on Monday, as signs of growing political instability in Europe kept investors cautious, despite relief from lower oil prices. Early today, Spain’s prime minister called an early election after Parliament rejected his government’s housing emergency measures on Friday. This development added to concerns over French fiscal policy and the country’s high level of public debt. Meanwhile, geopolitical risks remain elevated. Among key movers, shares of the defense companies Rheinmetall and Hensoldt climbed by 2.5% and 4.3%, respectively, after Chancellor Friedrich Merz announced a new aid package for Ukraine during a surprise visit to Kyiv. Other top gainers included Fresenius Medical Care, GEA Group, Volkswagen, Brenntag, Mercedes-Benz Group, Deutsche Telekom and Continental, each rising more than 1%. On the flip side, Bayer (-2.5%), Heidelberg Materials (-1.8%) and Infineon Technologies (-1.7%) posted the biggest losses."
+    },
+    {
+      "id": "5126445",
+      "time": "2026-10-06 00:07:46",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【花旗下調歐元目標位 鷹派美聯儲及伊朗緊張局勢構成壓力】花旗集團外匯策略師預計歐元兌美元將走弱，理由是美聯儲立場更偏鷹派，以及美國與伊朗之間的緊張局勢再度升溫。“在人工智慧(AI)利好、實際利率具有吸引力以及以歐元相關風險溢價上升之際，美國資本流動動向仍對美元構成支撐，”花旗的Daniel Tobon和Brian Levine在報告中表示。花旗策略師將歐元/美元3個月預測下調至1.135，並將未來6至12個月預測下調至1.13。"
+    },
+    {
+      "id": "mkt:01a10cd1-ac72-7ee0-a7a7-a609fe38458e",
+      "time": "2026-10-06 00:07:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【UKMTO: Three vessels struck in Strait of Hormuz; IRGC orders tanker to turn back】The UK Maritime Trade Operations (UKMTO) said in multiple advisories that three vessels were attacked in the Strait of Hormuz and one tanker was ordered to turn back by Iran’s Islamic Revolutionary Guard Corps (IRGC). UKMTO advisories said two oil tankers and one LPG carrier were struck by “unidentified projectiles” on March 3 and 4; investigations are ongoing. A separate advisory said an oil tanker entering the Strait on March 5 was ordered by the IRGC to turn back about 11 nautical miles north of As Sib, Oman; the vessel’s master confirmed the ship complied."
+    },
+    {
+      "id": "te:markets:589633",
+      "time": "2026-10-06 00:07:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.22% Higher — The FTSE 100 Index rose 23 points or 0.22 percent on Monday to close at 10485 points. Leading the gains are Ithaca Energy (2.79%), Standard Chartered (2.76%) and Anglo American (2.03%). Top losers were 3i (-6.03%), IG Group Holdings (-3.43%) and Barratt Redrow (-2.77%)."
+    },
+    {
+      "id": "5126444",
+      "time": "2026-10-06 00:05:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國海上貿易行動辦公室：3艘船在霍爾木茲海峽遭襲】根據英國海上貿易行動辦公室5日釋出的多份通報，連日來，有3艘船隻在霍爾木茲海峽遭襲，另有1艘油輪被伊朗伊斯蘭革命衛隊勸返。其中3份通報顯示，2艘油輪和1艘液化石油氣運輸船於3日和4日在霍爾木茲海峽被“不明發射物”擊中。目前相關方面正在調查。另一份通報顯示，一艘駛入霍爾木茲海峽的油輪5日在阿曼海塞卜以北約11海里處被伊朗伊斯蘭革命衛隊要求掉頭，否則將成為攻擊目標。船長確認船隻已按照要求掉頭。（新華社）"
+    },
+    {
+      "id": "mkt:01a10ccf-6682-7ee0-a7a7-9e2db445a610",
+      "time": "2026-10-06 00:04:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "U.S. 30-year Treasury yield rose to 5.69%, the highest since 2002."
+    },
+    {
+      "id": "te:markets:589631",
+      "time": "2026-10-06 00:04:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 0.7% to 50,818 on Monday, as Italian banking mergers remained in focus. Intesa Sanpaolo (1.6%) gained after MPS (0.8%)’s largest shareholder, Delfin Sarl, backed its takeover offer of the Tuscan lender and decided to tender its entire 17.6% stake of MPS, boosting Intesa's chances of closing one of Italy’s largest bank deals ever. The move came after Intesa threatened to withdraw its bid if MPS shareholders approved the rival takeover of Banco BPM (0.3%) and Generali’s (1.2%) Banca Generali, weakening the counterbid. Mediobanca plunged 5.1%, as it had been acquired by MPS. Unipol climbed 4%, as it will receive half of the Sienese bank and merge with BPER Banca (2.3%). Defense stocks climbed, as it becomes a booming industry in Europe with governments seeking to increase military spending in the face of intensifying threats from Russia. Fincantieri gained 4.5%, while Avio (3.2%) and Leonardo (1.9%) followed. Energy stocks also advanced, led by Tenaris (5.3%)."
+    },
+    {
+      "id": "te:markets:589630",
+      "time": "2026-10-06 00:04:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises for 2nd Day — The FTSE 100 gained 0.3% on Monday, extending its advance to a second consecutive session. HSBC rose 1%, while Barclays added 0.5% and Standard Chartered climbed 2.8%. Oil majors also moved higher, with Shell and BP gaining 0.8% and 1%, respectively, while Rio Tinto and Glencore advanced 1.3% and 1.6%. Ithaca Energy was among the strongest performers, rising 2.8% after agreeing with Suncor to acquire a portfolio of conventional offshore oil assets in shallow waters off Newfoundland and Labrador for up to $1.1 billion. BT Group added 1.6% after completing its acquisition of TalkTalk out of administration on a debt-free basis. Gains were limited by weakness elsewhere, however, with 3i falling 6%. Healthcare stocks also underperformed, as AstraZeneca and GSK both declined by more than 1%."
+    },
+    {
+      "id": "5126443",
+      "time": "2026-10-06 00:03:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康在馬薩諸塞州劍橋市肯德爾廣場開設全新全球戰略研發中心，阿斯利康投資 10 億美元，將馬薩諸塞州員工數量增幅擴大 50% 以上。"
+    },
+    {
+      "id": "5126442",
+      "time": "2026-10-06 00:03:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率漲至5.69%，創2002年以來新高。"
+    },
+    {
+      "id": "mkt:01a10ccd-af38-7ee0-a7a7-97d803e4e116",
+      "time": "2026-10-06 00:02:48",
+      "tags": [
+        "MKT News",
+        "AZN.O",
+        "Impact bullish"
+      ],
+      "text": "AstraZeneca (AZN.O) will invest more than $1 billion in its Massachusetts operations."
+    },
+    {
+      "id": "mkt:01a10ccd-555d-7ee0-a7a7-8ea42c624368",
+      "time": "2026-10-06 00:02:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission blocks €26 mln state aid for MAN truck plant in Poland."
+    },
+    {
+      "id": "5126439",
+      "time": "2026-10-06 00:01:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會否決向波蘭曼恩卡車工廠提供 2600 萬歐元補貼。"
+    },
+    {
+      "id": "mkt:01a10ccb-d255-7ee0-a7a7-86ba55472c02",
+      "time": "2026-10-06 00:00:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "U.S. officials said Washington will announce during Vice President Wan Si's visit $150 mln in funding for an Alaska power transmission project."
+    },
+    {
+      "id": "5126435",
+      "time": "2026-10-06 00:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破102關口，日內漲0.25%。"
+    }
+  ]
+}
