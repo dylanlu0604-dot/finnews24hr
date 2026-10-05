@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-06 03:03:21",
-  "count": 10443,
+  "updated": "2026-10-06 03:07:07",
+  "count": 10440,
   "items": [
+    {
+      "id": "mkt:01a10d73-e093-7ee0-a7a9-246948ab4aa9",
+      "time": "2026-10-06 03:04:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Israeli sources: Omani co-pilot of Dubai airline says motive was 'revenge for Gaza'】Israeli sources said on Oct. 5 Omani co-pilot Hamam Hamami told investigators and in court his motive for the cockpit incident on a Dubai airline flight was \"revenge for Gaza.\" The sources said Hamami, during a multinational interrogation in the UAE, admitted he deliberately chose the Israel-bound flight and attempted to crash the aircraft as a premeditated act of revenge. Israeli and Emirati officials have not confirmed the account."
+    },
     {
       "id": "5126553",
       "time": "2026-10-06 03:02:31",
@@ -96076,41 +96088,6 @@
         "其他"
       ],
       "text": "NASA 局長：波音星際線飛船將為 NASA 執行最多五次前往國際空間站的載人任務。"
-    },
-    {
-      "id": "te:markets:587380",
-      "time": "2026-09-29 03:06:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Silver is down by 5.02% — Silver decreased 5.02% to 61.034 USD/t.oz"
-    },
-    {
-      "id": "5117277",
-      "time": "2026-09-29 03:06:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "NASA 局長：波音星際線飛船部分元件將重新設計，為 2028 年載人飛行做準備。"
-    },
-    {
-      "id": "5117276",
-      "time": "2026-09-29 03:05:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "AWS：Claude Sonnet 5.5 現已在 Amazon Bedrock 以及 AWS 上的 Claude 平臺上線。"
-    },
-    {
-      "id": "5117275",
-      "time": "2026-09-29 03:03:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：認為將與加拿大達成貿易協議。"
     }
   ]
 }

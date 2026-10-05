@@ -1,7 +1,19 @@
 {
   "date": "2026-10-06",
-  "count": 154,
+  "count": 155,
   "items": [
+    {
+      "id": "mkt:01a10d73-e093-7ee0-a7a9-246948ab4aa9",
+      "time": "2026-10-06 03:04:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Israeli sources: Omani co-pilot of Dubai airline says motive was 'revenge for Gaza'】Israeli sources said on Oct. 5 Omani co-pilot Hamam Hamami told investigators and in court his motive for the cockpit incident on a Dubai airline flight was \"revenge for Gaza.\" The sources said Hamami, during a multinational interrogation in the UAE, admitted he deliberately chose the Israel-bound flight and attempted to crash the aircraft as a premeditated act of revenge. Israeli and Emirati officials have not confirmed the account."
+    },
     {
       "id": "5126553",
       "time": "2026-10-06 03:02:31",
