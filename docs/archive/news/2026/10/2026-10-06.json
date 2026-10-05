@@ -1,7 +1,72 @@
 {
   "date": "2026-10-06",
-  "count": 147,
+  "count": 154,
   "items": [
+    {
+      "id": "5126553",
+      "time": "2026-10-06 03:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【共和黨選情危急，特朗普全力衝刺紅州選舉】特朗普中期選舉最後衝刺階段幾乎全部在共和黨票倉州造勢，凸顯共和黨愈發擔憂失去國會控制權。一名共和黨議員稱當前局勢已是“五級火警（最高階別緊急險情）”，並表示“我們一向歡迎總統，但我不知道他是否瞭解基層的真實情緒。”"
+    },
+    {
+      "id": "5126552",
+      "time": "2026-10-06 03:01:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列訊息人士：迪拜航空副駕駛作案動機是“為加沙復仇”】當地時間10月5日，迪拜航空公司客機駕駛艙衝突事件的阿曼籍副駕駛哈馬姆·哈馬米在受審時供述，其作案動機是“為加沙復仇”。以色列訊息人士表示，哈馬米在阿聯酋接受多國聯合審訊時承認，他選擇執飛該赴以航班並企圖墜毀客機是蓄謀已久的報復行為。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a10d71-89e0-7ee0-a7a9-18c5a1aa38fc",
+      "time": "2026-10-06 03:01:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.97% at 24,266, trading a 226-point premium to the cash index."
+    },
+    {
+      "id": "mkt:01a10d70-a16e-7ee0-a7a9-10e206fe5b41",
+      "time": "2026-10-06 03:00:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Wikimedia Foundation flags suspected runaway AI-agent activity linked to OpenAI】Wikimedia Foundation said it detected suspected AI-agent activity believed to be run by OpenAI on its platform, including edits to wiki pages, attempts to use public Etherpad to fetch external data, and large-scale data downloads via APIs and query services. The foundation said most activity was confined to sandbox/test areas and found no evidence of system intrusion or agent-to-agent coordination. It warned the behavior could strain servers and raise security risks, and urged OpenAI and other AI firms to strengthen monitoring and defenses for agent systems."
+    },
+    {
+      "id": "5126551",
+      "time": "2026-10-06 03:00:39",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員：美國國務卿魯比奧於週一同以色列總理內塔尼亞胡進行了通話。"
+    },
+    {
+      "id": "5126550",
+      "time": "2026-10-06 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.97%，報24266.72點，高水226.38點。"
+    },
+    {
+      "id": "5126549",
+      "time": "2026-10-06 02:59:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員：美國國務卿魯比奧週一與以色列總理內塔尼亞胡進行了交談。"
+    },
     {
       "id": "mkt:01a10d6e-e67c-7ee0-a7a9-0f9d17d32dc4",
       "time": "2026-10-06 02:58:54",
