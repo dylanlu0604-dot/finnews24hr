@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-06 03:40:59",
-  "count": 10482,
+  "updated": "2026-10-06 03:44:44",
+  "count": 10483,
   "items": [
+    {
+      "id": "mkt:01a10d95-a4b1-7ee0-a7aa-019314141fcb",
+      "time": "2026-10-06 03:41:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury says banks that do business with Iran may be subject to sanctions."
+    },
     {
       "id": "5126591",
       "time": "2026-10-06 03:39:47",
