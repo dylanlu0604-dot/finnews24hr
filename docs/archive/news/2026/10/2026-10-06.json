@@ -1,7 +1,136 @@
 {
   "date": "2026-10-06",
-  "count": 190,
+  "count": 205,
   "items": [
+    {
+      "id": "5126582",
+      "time": "2026-10-06 03:29:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：柴油的問題在於俄羅斯煉油廠受到打擊。"
+    },
+    {
+      "id": "mkt:01a10d89-ee42-7ee0-a7a9-ccf7ef822c0a",
+      "time": "2026-10-06 03:28:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US will help them."
+    },
+    {
+      "id": "mkt:01a10d89-ca22-7ee0-a7a9-c400a73822f0",
+      "time": "2026-10-06 03:28:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he is closely monitoring reports of deaths among staff at a Russian plague research institute."
+    },
+    {
+      "id": "5126581",
+      "time": "2026-10-06 03:28:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就俄羅斯瘟疫研究所工作人員死亡一事表態：我們正在高度密切地調查此事。"
+    },
+    {
+      "id": "mkt:01a10d89-b61f-7ee0-a7a9-bfb57ee91f46",
+      "time": "2026-10-06 03:28:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.23% to 102.167】The dollar index, which measures the dollar against six major currencies, rose 0.23% to 102.167 at the New York close. EUR/USD 1.1215, down from 1.1252; GBP/USD 1.3219, down from 1.3239; USD/JPY 158.00, up from 157.80; USD/CHF 0.8307, up from 0.8287; USD/CAD 1.4256, down from 1.4259; USD/SEK 10.0403, up from 10.0366."
+    },
+    {
+      "id": "5126580",
+      "time": "2026-10-06 03:27:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為英國對美軍來說仍然安全。"
+    },
+    {
+      "id": "5126579",
+      "time": "2026-10-06 03:27:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數5日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.23%，在匯市尾市收於102.167。截至紐約匯市尾市，1歐元兌換1.1215美元，低於前一交易日的1.1252美元；1英鎊兌換1.3219美元，低於前一交易日的1.3239美元。1美元兌換158.00日元，高於前一交易日的157.80日元；1美元兌換0.8307瑞士法郎，高於前一交易日的0.8287瑞士法郎；1美元兌換1.4256加元，低於前一交易日的1.4259加元；1美元兌換10.0403瑞典克朗，高於前一交易日的10.0366瑞典克朗。"
+    },
+    {
+      "id": "mkt:01a10d89-3797-7ee0-a7a9-b43c7e207a9a",
+      "time": "2026-10-06 03:27:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump warned Iran would pay a heavy price if it deploys combat drones in the UK."
+    },
+    {
+      "id": "mkt:01a10d89-01d0-7ee0-a7a9-acdaf3db0061",
+      "time": "2026-10-06 03:27:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said on relocating aircraft from the UK that \"we face a threat\"."
+    },
+    {
+      "id": "mkt:01a10d88-ff05-7ee0-a7a9-a0b1fade925b",
+      "time": "2026-10-06 03:27:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump, on relocating aircraft from the UK, said he knows who issued the threats."
+    },
+    {
+      "id": "5126578",
+      "time": "2026-10-06 03:26:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及從英國撤回飛機一事：我們知道發出威脅的人是誰。"
+    },
+    {
+      "id": "5126577",
+      "time": "2026-10-06 03:26:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果伊朗在英國部署作戰無人機，伊朗將遭受沉重打擊。"
+    },
+    {
+      "id": "5126576",
+      "time": "2026-10-06 03:26:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（被問及伊朗是否在英國部署無人機時）我無法告知你。"
+    },
+    {
+      "id": "mkt:01a10d87-b221-7ee0-a7a9-9a4993408938",
+      "time": "2026-10-06 03:25:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the Brazilian election is expected to be very tight."
+    },
+    {
+      "id": "5126575",
+      "time": "2026-10-06 03:25:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及從英國撤回飛機一事：我們當時面臨威脅。"
+    },
     {
       "id": "5126573",
       "time": "2026-10-06 03:24:38",
