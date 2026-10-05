@@ -1,7 +1,25 @@
 {
   "date": "2026-10-05",
-  "count": 146,
+  "count": 148,
   "items": [
+    {
+      "id": "mkt:01a1096b-1735-7ee0-a796-2328ad282176",
+      "time": "2026-10-05 08:16:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver is up over 1.00% intraday, trading at $60.96/oz."
+    },
+    {
+      "id": "mkt:01a10969-22d4-7ee0-a796-190604ca4afd",
+      "time": "2026-10-05 08:14:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil federal police open probe into alleged U.S. election interference】On Oct. 4 Brazil Federal Police chief André Rodrigues said the force is investigating possible U.S. interference in the country's election. The Office of the Attorney General on Oct. 1 asked the Federal Police and the Prosecutor General's Office to probe a Guardian report (Sept. 30) alleging the U.S. government provided $1 million to fund civil groups campaigning against the Supreme Federal Court (STF), accused of \"judicial overreach\" and \"censorship\". Attorney General Jorge Messias noted Brazilian law prohibits foreign entities or governments from funding or controlling domestic political groups."
+    },
     {
       "id": "5125478",
       "time": "2026-10-05 08:11:22",

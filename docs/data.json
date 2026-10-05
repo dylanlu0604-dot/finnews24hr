@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-05 08:13:31",
-  "count": 11062,
+  "updated": "2026-10-05 08:17:14",
+  "count": 11060,
   "items": [
+    {
+      "id": "mkt:01a1096b-1735-7ee0-a796-2328ad282176",
+      "time": "2026-10-05 08:16:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver is up over 1.00% intraday, trading at $60.96/oz."
+    },
+    {
+      "id": "mkt:01a10969-22d4-7ee0-a796-190604ca4afd",
+      "time": "2026-10-05 08:14:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil federal police open probe into alleged U.S. election interference】On Oct. 4 Brazil Federal Police chief André Rodrigues said the force is investigating possible U.S. interference in the country's election. The Office of the Attorney General on Oct. 1 asked the Federal Police and the Prosecutor General's Office to probe a Guardian report (Sept. 30) alleging the U.S. government provided $1 million to fund civil groups campaigning against the Supreme Federal Court (STF), accused of \"judicial overreach\" and \"censorship\". Attorney General Jorge Messias noted Brazilian law prohibits foreign entities or governments from funding or controlling domestic political groups."
+    },
     {
       "id": "5125478",
       "time": "2026-10-05 08:11:22",
@@ -101497,48 +101515,6 @@
         "Importance 0"
       ],
       "text": "Silver Resumes Decline on US-Iran Uncertainty — Silver slipped below $64 an ounce on Monday, resuming its decline as stalled US-Iran negotiations kept oil prices elevated and reinforced expectations for additional Federal Reserve tightening to curb inflation. President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, saying Tehran had overplayed its hand while adding that he expects talks to resume this week. Meanwhile, Iran said it would not soften its conditions for reopening the strategically important waterway. In the US, several Fed officials cited resilient economic growth and a robust labor market as reasons additional rate hikes could be necessary. Cleveland Fed President Beth Hammack said those factors, together with concerns over government debt, are contributing to higher long-term Treasury yields. Investors now await the Fed’s preferred inflation gauge and key US jobs data due this week, which could provide further clues on the path of monetary policy."
-    },
-    {
-      "id": "te:markets:587036",
-      "time": "2026-09-28 08:16:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Extends Losses on US-Iran Uncertainty — Gold slipped to around $4,250 an ounce on Monday, approaching its lowest levels in seven weeks as stalled US-Iran negotiations kept oil prices elevated and reinforced expectations for additional Federal Reserve tightening to curb inflation. President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, saying Tehran had overplayed its hand while adding that he expects talks to resume this week. Meanwhile, Iran said it would not soften its conditions for reopening the strategically important waterway. In the US, several Fed officials cited resilient economic growth and a robust labor market as reasons additional rate hikes could be necessary. Cleveland Fed President Beth Hammack said those factors, together with concerns over government debt, are contributing to higher long-term Treasury yields. Investors now await the Fed’s preferred inflation gauge and key US jobs data due this week, which could provide further clues on the path of monetary policy."
-    },
-    {
-      "id": "te:economy:587035",
-      "time": "2026-09-28 08:15:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Philippines Consumer Confidence Improves in Q3 — The consumer confidence indicator in the Philippines rose to -29.8 in the third quarter of 2026 from -42 in the previous quarter, which marked the weakest reading since Q4 2020 during the COVID pandemic. The improvement was driven by expectations of higher earnings, additional sources of income, and more stable employment. All three major component indices became less negative. The overall economic condition index rose to -59.4 from -71.1, while the family financial situation index increased to -20.3 from -36.2 and the family income index increased to -9.7 from -18.7. Meanwhile, the consumer outlook for the next quarter remained negative but moved closer to zero (-0.8 vs -16.3), while the outlook for the next 12 months (9.1 vs 0.2) rose further into positive territory, signaling greater optimism about future economic conditions and household finances."
-    },
-    {
-      "id": "mkt:01a0e55d-5504-7118-86b0-380a532133ad",
-      "time": "2026-09-28 08:14:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Chinese Academy of Sciences' 15th Five-Year plan targets technological high ground】The Chinese Academy of Sciences (CAS) published its 15th Five-Year development plan, prioritizing seizure of the technological high ground. CAS singles out basic research, strategic high-tech and sustainable development as its strategic priorities for the next five years and directs resources toward AI-enabled scientific research, strengthening core scientific infrastructure and optimizing regional R&D capacity. The plan also mandates reforms to build world-class research institutions, including integrated education-and-talent development, creation of a national science-and-technology think tank, research-organization and management reform, technology transfer and commercialization measures, and expanded international scientific cooperation. It explicitly frames rapid AI development as a strategic opportunity."
-    },
-    {
-      "id": "5115148",
-      "time": "2026-09-28 08:14:34",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：預計2026年三季度電子行業在AI趨勢浪潮下整體業績維持高景氣】中信證券預計2026年三季度電子行業在AI趨勢浪潮下整體業績維持高景氣：其中AI通脹方向最佳，PCB/CCL、儲存、AI電源相關公司業績表現強勁，此外受益於AI訂單外溢的半導體制造/封測產業鏈整體訂單趨勢持續景氣；其次自主可控方向趨勢延續，半導體國產裝置及零部件端訂單快速增長、交付偏緊，下游算力荒持續背景下國產算力相關公司收入/訂單保持跨越式增長；消費電子整體仍然需求平淡，其中有AI敞口、獨立成長邏輯的中上游公司表現更優，面板行業有漲價邏輯的公司業績更為強勢。綜合來看，預計三季度業績表現相對亮眼的細分板塊有PCB/CCL、儲存原廠及利基儲存設計、AI電源、CPU鏈、FAB龍頭、裝置龍頭、合封儲存的IC設計公司及新品放量公司等。展望2026年四季度及2027年，中信證券認為，電子行業投資主線仍將繼續圍繞“自主可控、AI算力”兩大方向展開。一方面，國內算力晶片、晶圓製造、裝置和先進封裝正加速形成產業閉環，相關公司訂單及業績有望持續兌現；另一方面，AI伺服器配套零部件需求景氣，相關供應鏈公司業績有望持續兌現。繼續看好基本面強、業績兌現度高且具備國產替代空間的細分方向。"
     }
   ]
 }
