@@ -1,7 +1,41 @@
 {
   "date": "2026-10-05",
-  "count": 143,
+  "count": 146,
   "items": [
+    {
+      "id": "5125478",
+      "time": "2026-10-05 08:11:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4180美元/盎司，日內漲0.43%。"
+    },
+    {
+      "id": "mkt:01a10966-0e1e-7ee0-a796-10e2a0f3e517",
+      "time": "2026-10-05 08:10:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index was up 2.00% intraday."
+    },
+    {
+      "id": "te:economy:589319",
+      "time": "2026-10-05 08:10:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Irish Services Growth Slows to 4-Month Low — The AIB Ireland Services PMI declined to 54.1 in September 2026 from August’s eight-month high of 55.4, marking the lowest reading since May 2025. It marked an easing in services-sector growth for the first time since April and slipped below the long-run average. However, demand strengthened, supported by broad-based growth across sectors for the second month running, with technology, media & telecom posting the fastest expansion."
+    },
     {
       "id": "mkt:01a10964-a142-7ee0-a796-0bad49dc6696",
       "time": "2026-10-05 08:09:12",
