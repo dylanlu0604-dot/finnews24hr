@@ -1,7 +1,177 @@
 {
-  "updated": "2026-10-05 08:28:24",
-  "count": 11049,
+  "updated": "2026-10-05 08:32:07",
+  "count": 11058,
   "items": [
+    {
+      "id": "mkt:01a10978-c143-7ee0-a796-8378a18ef903",
+      "time": "2026-10-05 08:31:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of Japan Deputy Governor Uchida said preliminary signs show AI’s demand-side effects are emerging first and are, on balance, easing financial conditions; if profits fail to keep pace, there remains a risk of corrective re‑pricing."
+    },
+    {
+      "id": "5125492",
+      "time": "2026-10-05 08:30:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【智譜9月獲南向資金淨買入近80億港元】9月港股市場主要股指集體回撥，恒生指數累計跌3.73%，恒生科技指數跌7.92%，恒生中國企業指數跌3.44%。據證券時報·資料寶統計，市場回撥之際，9月南向資金合計成交淨買入607.76億港元，連續4個月為淨買入。從9月上榜成交活躍股名單來看，9月共有33只個股上榜，智譜9月港股通合計買賣總額最高，達到933.76億港元，騰訊控股緊隨其後，為872.32億港元，其他還有長飛光纖光纜、MINIMAX-W、中芯國際、建滔積層板9月港股通買賣總額超過500億港元。從成交淨買入金額來看，智譜獲南向資金淨買入78.84億港元。9月南向資金對網際網路巨頭買賣不一，百度集團-W淨買入59.96億港元，騰訊控股淨買入25.85億港元，小米集團-W淨買入19.58億港元，阿里巴巴-W遭南向資金淨賣出11.53億港元，美團-W遭南向資金淨賣出10.02億港元。其他個股方面，中芯國際淨賣出64.9億港元居首。"
+    },
+    {
+      "id": "mkt:01a10978-5d3f-7ee0-a796-7c896ec87929",
+      "time": "2026-10-05 08:30:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of Japan deputy governor Uchida said artificial intelligence could affect the supply side and may have a positive impact by boosting productivity and promoting capital accumulation."
+    },
+    {
+      "id": "5125491",
+      "time": "2026-10-05 08:30:11",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本9月服務業PMI終值 51.3，前值51.6。日本9月綜合PMI終值 52.3，前值52.5。"
+    },
+    {
+      "id": "mkt:01a10977-cf8d-7ee0-a796-716dd6af7607",
+      "time": "2026-10-05 08:30:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan Deputy Governor UCHIDA said artificial intelligence is a large positive demand shock, placing upward pressure on economic activity and prices."
+    },
+    {
+      "id": "mkt:01a10977-c6d6-7ee0-a796-6e347a6a723f",
+      "time": "2026-10-05 08:30:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan September services PMI (final) 51.3, down from 51.6."
+    },
+    {
+      "id": "mkt:01a10977-c5ae-7ee0-a796-66bd231d9dc2",
+      "time": "2026-10-05 08:30:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan September final composite PMI 52.3, down from 52.5 previously."
+    },
+    {
+      "id": "mkt:01a10977-ac30-7ee0-a796-5feb5256f898",
+      "time": "2026-10-05 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Services PMI (Sep) | actual 51.3 | previous 51.6"
+    },
+    {
+      "id": "mkt:01a10977-ac29-7ee0-a796-52edea314411",
+      "time": "2026-10-05 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Composite PMI (Sep) | actual 52.3 | previous 52.5"
+    },
+    {
+      "id": "mkt:01a10977-a954-7ee0-a796-4dd9447efa19",
+      "time": "2026-10-05 08:29:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of Japan Deputy Governor UCHIDA said AI adoption could have both positive and negative effects on productivity and the labor market."
+    },
+    {
+      "id": "5125490",
+      "time": "2026-10-05 08:29:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士稱，法國施耐德電氣接近以200億美元收購美國軟體集團PTC。"
+    },
+    {
+      "id": "5125489",
+      "time": "2026-10-05 08:29:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長內田：人工智慧對需求端的影響初步來看先已顯現，整體而言令金融環境更趨寬鬆；不過若盈利未能跟上，存在回撥風險。"
+    },
+    {
+      "id": "5125488",
+      "time": "2026-10-05 08:29:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長內田真一：我們將繼續仔細研判經濟與金融指標，以全面清晰把握人工智慧應用產生的影響。"
+    },
+    {
+      "id": "5125487",
+      "time": "2026-10-05 08:28:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長內田真一表示：人工智慧或對供給側產生影響——透過提高生產率、促進資本存量積累起到積極作用。"
+    },
+    {
+      "id": "mkt:01a10976-8f00-7ee0-a796-47598fc42604",
+      "time": "2026-10-05 08:28:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Uchida, deputy governor of the Bank of Japan, said artificial intelligence has become a key topic for central banks, including the BOJ, particularly in monetary policy meetings."
+    },
+    {
+      "id": "5125486",
+      "time": "2026-10-05 08:28:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長內田真一：人工智慧推升了股價，令金融條件進一步寬鬆，與此同時，人工智慧相關企業大規模發債對長期利率構成上行壓力。"
+    },
+    {
+      "id": "5125485",
+      "time": "2026-10-05 08:28:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長內田：人工智慧是一個重大正向需求衝擊，已給經濟和物價帶來上行壓力。"
+    },
+    {
+      "id": "5125484",
+      "time": "2026-10-05 08:28:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行副行長內田真一：人工智慧會對貨幣政策制定的若干核心引數產生影響，其中包括產出缺口、金融狀況以及自然利率（STAR）變數。"
+    },
     {
       "id": "5125483",
       "time": "2026-10-05 08:27:46",
@@ -101328,92 +101498,6 @@
         "其他"
       ],
       "text": "中國外匯交易中心（CFETS）：9月24日人民幣匯率指數漲0.39至102.93。"
-    },
-    {
-      "id": "mkt:01a0e56c-dc37-7118-86b0-60b8fd4e4d17",
-      "time": "2026-09-28 08:31:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold extended intraday losses, falling below $4,230/oz."
-    },
-    {
-      "id": "5115169",
-      "time": "2026-09-28 08:31:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4240美元/盎司，日內跌1.20%。"
-    },
-    {
-      "id": "5115168",
-      "time": "2026-09-28 08:31:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4265.30美元/盎司。"
-    },
-    {
-      "id": "5115167",
-      "time": "2026-09-28 08:31:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4270美元/盎司，日內跌1.29%。"
-    },
-    {
-      "id": "mkt:01a0e56b-afbb-7118-86b0-5afd4a7a0c9c",
-      "time": "2026-09-28 08:30:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold in Asian trade slid below $4,250/oz, down 0.82% on the day."
-    },
-    {
-      "id": "5115166",
-      "time": "2026-09-28 08:30:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4250美元/盎司，日內跌0.83%。"
-    },
-    {
-      "id": "5115165",
-      "time": "2026-09-28 08:29:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本電產股價觸及跌停板。"
-    },
-    {
-      "id": "5115164",
-      "time": "2026-09-28 08:29:25",
-      "tags": [
-        "央行"
-      ],
-      "text": "本週（9月28日至9月30日）中國央行公開市場將有7033億元逆回購到期，其中週一至週三分別到期6603億元、350億元、80億元。"
-    },
-    {
-      "id": "5115163",
-      "time": "2026-09-28 08:29:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美債收益率上升 伊朗稱在霍爾木茲海峽問題上不會讓步】美國國債收益率全線上揚，此前伊朗表示在重新開放霍爾木茲海峽方面不會軟化條件，原油價格應聲上漲。10年期收益率上漲5個基點至5.21%；2年期收益率上漲5個基點至4.90%。30年期收益率上漲3個基點至5.52%。"
     }
   ]
 }
