@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-05 07:58:30",
-  "count": 11073,
+  "updated": "2026-10-05 08:02:14",
+  "count": 11067,
   "items": [
+    {
+      "id": "mkt:01a1095d-a3fe-7ee0-a795-d3fd656c6240",
+      "time": "2026-10-05 08:01:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "On Monday Oct. 5, Japan's Nikkei 225 opened 756.45 points higher, up 1.11%, at 69,065.91, led by gains in electronics and machinery stocks."
+    },
+    {
+      "id": "5125469",
+      "time": "2026-10-05 08:01:29",
+      "tags": [
+        "資料"
+      ],
+      "text": "愛爾蘭9月綜合PMI升至55.6，8月為55.4。"
+    },
+    {
+      "id": "5125468",
+      "time": "2026-10-05 08:01:18",
+      "tags": [
+        "資料"
+      ],
+      "text": "愛爾蘭9月服務業PMI降至54.1，8月為55.4。"
+    },
+    {
+      "id": "5125467",
+      "time": "2026-10-05 08:01:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數升破69,000點。"
+    },
+    {
+      "id": "5125466",
+      "time": "2026-10-05 08:00:10",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【巴西總統選舉首輪投票無人勝出 將進行第二輪角逐】巴西高等選舉法院4日晚公佈巴西總統選舉首輪投票計票結果，由於無人勝出，得票最多的前總統雅伊爾·博索納羅之子、自由黨候選人弗拉維奧·博索納羅和巴西現任總統、勞工黨候選人盧拉將於10月25日進行第二輪角逐。 （新華社）"
+    },
+    {
+      "id": "5125465",
+      "time": "2026-10-05 07:59:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "弗拉維奧·博索納羅得票率超出民調預期，領先盧拉進入第二輪決選。"
+    },
     {
       "id": "5125464",
       "time": "2026-10-05 07:56:44",
@@ -101516,123 +101570,6 @@
         "公司"
       ],
       "text": "【和黃醫藥：2026年9月24日HMPL-A830首名患者給藥】和黃醫藥公告，公司啟動HMPL-A830用於治療不可切除的晚期或轉移性實體瘤的全球臨床試驗Ia期部分；首名患者已於2026年9月24日在中國接受首次給藥治療。"
-    },
-    {
-      "id": "mkt:01a0e551-4a93-7118-86af-ffeb8bdd0993",
-      "time": "2026-09-28 08:01:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI opened down 19.49 points, or 0.28%, at 7061.43 on Monday, Sept. 28."
-    },
-    {
-      "id": "mkt:01a0e550-d3b7-7118-86af-f58e6e02fc7c",
-      "time": "2026-09-28 08:01:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 opened 205.43 points higher on Sept. 28 (Mon), up 0.31% at 66,569.63."
-    },
-    {
-      "id": "mkt:01a0e550-b9ca-7118-86af-e813d14d1dde",
-      "time": "2026-09-28 08:01:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver down 1.00% intraday at $63.66/oz."
-    },
-    {
-      "id": "mkt:01a0e550-ae12-7118-86af-e53f20119702",
-      "time": "2026-09-28 08:01:04",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "DXY"
-      ],
-      "text": "Bank of Japan minutes: one member said the bank must raise the policy rate to preserve policy flexibility, noting the current rate remains below the estimated neutral-rate range."
-    },
-    {
-      "id": "5115133",
-      "time": "2026-09-28 08:00:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公安部網安局釋出拒不履行資訊網路安全管理義務案例】9月28日，公安部網安局披露2起拒不履行資訊網路安全管理義務典型案例。這2起案例分別是江蘇鹽城公安網安部門偵辦的盧某斌案、河南三門峽公安網安部門偵辦的張某東案。經查，2起案件所涉公司違反網路安全法等相關法律、行政法規規定，在未履行身份資訊核驗義務的情況下對外提供伺服器租賃服務，或被詐騙團伙僱傭多次釋出違法有害資訊。在公安機關依法對其進行行政處罰並責令其限期改正後，有關公司仍未按要求進行及時整改，造成不良後果。"
-    },
-    {
-      "id": "5115132",
-      "time": "2026-09-28 08:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.3%，至7057.86點。"
-    },
-    {
-      "id": "5115131",
-      "time": "2026-09-28 08:00:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4290美元/盎司，日內跌0.76%。"
-    },
-    {
-      "id": "5115130",
-      "time": "2026-09-28 08:00:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報66505.94點，漲幅0.21%。"
-    },
-    {
-      "id": "mkt:01a0e54f-b988-7118-86af-d9924bd7db7a",
-      "time": "2026-09-28 08:00:02",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact mixed"
-      ],
-      "text": "【Ex-BoJ official says October could bring second straight rate rise, sees 20-30% chance】Former Bank of Japan executive Kazuo Momma said the BoJ could raise its policy rate at the October meeting for a second consecutive month, sooner than many economists expect. He put the chance of back-to-back hikes at roughly 20-30%, saying the move would signal the pace of tightening could accelerate versus a baseline quarterly tempo. Momma warned the risk of underlying inflation rising above 2% is unlikely to weaken and is more likely to increase over the next three months. His base case is a terminal policy rate of about 2% by June or July next year, implying roughly three additional 25bp increases by the policy board."
-    },
-    {
-      "id": "5115129",
-      "time": "2026-09-28 07:59:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一位委員表示，日本央行必須分階段調整貨幣支援措施，以避免加息延遲。加息對通脹和經濟產生降溫效應需要1至1.5年時間。"
-    },
-    {
-      "id": "mkt:01a0e54f-3b20-7118-86af-d78e9b28f6b6",
-      "time": "2026-09-28 07:59:29",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan minutes: one member said the effects of rate hikes will take 1–1.5 years to ease inflation and cool the economy."
-    },
-    {
-      "id": "5115128",
-      "time": "2026-09-28 07:58:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一位委員會成員表示，逐步調整利率是可取的，以避免日後快速加息。"
     }
   ]
 }
