@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-05 08:47:07",
-  "count": 11050,
+  "updated": "2026-10-05 08:50:48",
+  "count": 11052,
   "items": [
+    {
+      "id": "5125505",
+      "time": "2026-10-05 08:49:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度AM Intelligence據悉訂購了用於70兆瓦（MW）算力專案的英偉達 Rubin GPU。"
+    },
+    {
+      "id": "5125504",
+      "time": "2026-10-05 08:48:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度AI基礎設施公司AM Intelligence據悉斥資 40 億美元訂購了 20,000 塊英偉達 GPU。"
+    },
+    {
+      "id": "mkt:01a10988-36e6-7ee0-a796-bd331c31fafd",
+      "time": "2026-10-05 08:48:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Southern China rain easing to clear; many locations hit H2 lows in minimums】From Oct 5, rainfall in southern China will taper and most areas will shift from rain to clear skies. Through early October, precipitation will be sparse across most of the country, with clear or partly cloudy conditions prevailing. Minimum temperatures in the south are expected broadly to hit new H2 lows; Fuzhou, Guangzhou and Nanning are forecast to fall below 20°C for the first time in H2."
+    },
+    {
+      "id": "5125503",
+      "time": "2026-10-05 08:47:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧拉表示他對前景持樂觀態度。"
+    },
+    {
+      "id": "5125502",
+      "time": "2026-10-05 08:46:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "弗拉維奧·博索納羅：我們在首輪選舉中差點就贏了。"
+    },
     {
       "id": "5125501",
       "time": "2026-10-05 08:44:45",
@@ -101410,34 +101452,6 @@
         "公司"
       ],
       "text": "【深交所：深圳市鴻富誠新材料股份有限公司股票上市交易】深交所公告，深圳市鴻富誠新材料股份有限公司人民幣普通股股票將於2026年9月29日上市。證券簡稱為“鴻富誠”，證券程式碼為“301716”。公司人民幣普通股股份總數為7492.24萬股，其中1245.33萬股股票自上市之日起開始上市交易。"
-    },
-    {
-      "id": "5115191",
-      "time": "2026-09-28 08:50:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科技工廠遊、中醫養生、China Haul爆買 入境遊有了新趨勢】今年中秋假期，全國多個口岸迎來出入境客流高峰。據國家移民管理局預測，假期日均出入境旅客達225萬人次。總檯記者昨天從北京市文化和旅遊局瞭解到，中秋假期，北京累計接待遊客878.3萬人次，實現旅遊總花費115.4億元。其中，接待入境遊客8.3萬人次，實現入境遊客花費7.8億元。最近，入境遊的“深度”特色顯得更加鮮明瞭。比如，有遊客支付9000美元參加中國科技工廠的深度遊覽。還有外國遊客把China Haul也就是“中國購物開箱”刷上了境外社交媒體熱搜，“人均三個行李箱來華爆買”成了很多境外遊客的標配。當外國遊客的腳步從傳統景點走到了科技工廠，購物範圍從科技產品拓展到中醫養生。（央視）"
-    },
-    {
-      "id": "5115190",
-      "time": "2026-09-28 08:48:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【機構資料：中東9月原油出口升至戰爭爆發以來最高】Kpler週一公佈的資料顯示，隨著沙烏地阿拉伯和阿聯酋增加出口，中東主要產油國9月原油出口量回升至1,280萬桶/日，為今年2月美以與伊朗開戰以來的最高水平。資料顯示，該地區最大出口國沙特9月原油出口量有望達到約540萬桶/日，較8月的244.6萬桶/日大幅回升。"
-    },
-    {
-      "id": "te:markets:587044",
-      "time": "2026-09-28 08:47:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japan’s Nikkei Rises for 6th Straight Session — The Nikkei 225 Index advanced 0.9% to above 66,900 on Monday, extending its winning streak to six sessions, with technology and artificial intelligence-related stocks driving the gains. Last week, AI shares outperformed as Meta Platforms’ new Muse AI agent renewed enthusiasm for the sector after earlier warnings from CEOs about rising safety risks associated with AI development. The rally came despite Treasury yields climbing to multi-decade highs amid expectations for additional Federal Reserve rate hikes. Meanwhile, oil prices rose after President Donald Trump rejected Iran’s latest proposal to reopen the Strait of Hormuz, while Tehran said it would not soften its conditions for reopening the key waterway. Elsewhere, the Chinese government has indicated it could allow some companies to purchase Nvidia Corp.’s new RTX Pro 5500 chips. Leading technology gainers in Japan included SoftBank Group (3.6%), Advantest (3.2%) and Taiyo Yuden (3.5%)."
     }
   ]
 }
