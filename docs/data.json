@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-05 10:59:34",
-  "count": 10807,
+  "updated": "2026-10-05 11:03:18",
+  "count": 10800,
   "items": [
+    {
+      "id": "5125583",
+      "time": "2026-10-05 11:00:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國SET指數開盤上漲0.5%，報1579.19點。"
+    },
     {
       "id": "5125582",
       "time": "2026-10-05 10:57:33",
@@ -99157,79 +99166,6 @@
         "Greater China"
       ],
       "text": "China A-share pork sector rallied intraday; Dongrui Co. hit the daily trading limit, while Huatong, Muyuan and Tiankang Bio advanced."
-    },
-    {
-      "id": "5115462",
-      "time": "2026-09-28 11:02:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼棕櫚油協會（GAPKI）：印尼7月份棕櫚油出口量降至318.8萬噸。"
-    },
-    {
-      "id": "5115461",
-      "time": "2026-09-28 11:01:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "GAPKI：印尼7月份棕櫚油產量升至537萬噸。"
-    },
-    {
-      "id": "5115460",
-      "time": "2026-09-28 11:01:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "GAPKI資料顯示，印尼7月棕櫚油出口量降至318.8萬噸。"
-    },
-    {
-      "id": "mkt:01a0e5f5-3087-7118-86b4-430b99c85210",
-      "time": "2026-09-28 11:00:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "NIO.O",
-        "Impact bullish"
-      ],
-      "text": "【NIO's Li Bin says battery-swap network electricity demand to exceed 10 bln kWh by 2030】NIO CEO Li Bin expects the company’s battery-swap network to require more than 10 billion kWh by 2030 and said swap stations will increasingly demonstrate commercial and social value as new energy infrastructure."
-    },
-    {
-      "id": "5115459",
-      "time": "2026-09-28 11:00:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國SET指數開盤下跌0.2%，至1604.17點。"
-    },
-    {
-      "id": "5115458",
-      "time": "2026-09-28 11:00:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蔚來李斌：預計2030年蔚來換電網路的電力需求將超過100億度】今天，蔚來李斌預計，2030年蔚來換電網路的電力需求將超過100億度，換電站作為新型能源基礎設施的商業價值和社會價值將日益顯現。"
-    },
-    {
-      "id": "5115457",
-      "time": "2026-09-28 10:59:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "據業內訊息人士透露，SK海力士已開始在日本東北地區開展半導體晶圓廠的前期地基工程。目前尚不清楚這將是一座獨立運營的晶圓廠還是與鎧俠合資建設。"
-    },
-    {
-      "id": "mkt:01a0e5f4-1a89-7118-86b4-3fd83d4616b5",
-      "time": "2026-09-28 10:59:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SME Daily, citing industry sources, reports SK Hynix has begun preliminary foundation work for a semiconductor wafer fab in Japan's Tohoku region; it is unclear whether the facility will be independently operated or built as a joint venture with Kioxia."
     }
   ]
 }
