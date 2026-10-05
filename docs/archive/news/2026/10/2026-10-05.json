@@ -1,7 +1,52 @@
 {
   "date": "2026-10-05",
-  "count": 198,
+  "count": 203,
   "items": [
+    {
+      "id": "5125509",
+      "time": "2026-10-05 08:52:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債<JP30YTN=JBTC>收益率上升2.5個基點，至4.230%。"
+    },
+    {
+      "id": "5125508",
+      "time": "2026-10-05 08:52:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧拉呼籲缺席選民在決選中投票。"
+    },
+    {
+      "id": "5125507",
+      "time": "2026-10-05 08:51:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧拉：我非常擅長決勝輪對決。"
+    },
+    {
+      "id": "5125506",
+      "time": "2026-10-05 08:51:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "海通恆信國際融資租賃：海通恆信H股及債券於2026年10月5日停牌，以待發布關於香港《收購守則》的公告。"
+    },
+    {
+      "id": "te:economy:589330",
+      "time": "2026-10-05 08:50:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Japan Services Growth Revised Downward — Japan’s S&P Global Services PMI Business Activity Index stood at 51.3 in September 2026, down from a flash reading of 51.6 and August's 52.5. The latest result was below the average in 2026 so far, as new orders rose at a softer pace, partly reflecting disruptions from the Kumamoto earthquake, while export orders continued to fall sharply. Employment growth accelerated to its fastest since February, helped by rising customer demand and efforts to expand capacity. However, backlogs of work increased at the fastest rate in seven months, pointing to mounting capacity pressures. Input costs continued to rise sharply, although the pace of inflation eased to a six-month low, with higher raw material, labor, oil and food costs cited. Firms raised selling prices at one of the sharpest rates on record. Meanwhile, business confidence improved to its highest level since June, supported by expectations of stronger demand, new products, diversification and capacity investment."
+    },
     {
       "id": "5125505",
       "time": "2026-10-05 08:49:23",
