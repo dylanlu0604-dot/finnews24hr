@@ -1,7 +1,82 @@
 {
-  "updated": "2026-10-05 18:34:50",
-  "count": 10527,
+  "updated": "2026-10-05 18:38:39",
+  "count": 10535,
   "items": [
+    {
+      "id": "mkt:01a10ba3-ec19-7ee0-a79f-9586a71d1ee3",
+      "time": "2026-10-05 18:37:34",
+      "tags": [
+        "MKT News",
+        "BP.N",
+        "Impact bullish"
+      ],
+      "text": "MIZUHO raises PT on BP (BP.N) to $56 from $53."
+    },
+    {
+      "id": "mkt:01a10ba3-9323-7ee0-a79f-8c2d136ee479",
+      "time": "2026-10-05 18:37:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【South Korea publishes final probe into DMZ mine blast】South Korea's Joint Chiefs of Staff said on the 5th a final investigation found the DMZ explosion was caused by resin anti‑personnel mines emplaced by North Korea south of the Military Demarcation Line and demanded Pyongyang apologise and immediately remove the mines. Vice chief Kwon Dae‑won said South Korean forces and the United Nations Command conducted a joint on‑site probe from Sept. 26-29 and again discovered North Korean‑planted resin anti‑personnel mines near the blast site. The blast occurred Sept. 21 in a South Korean non‑military area near the MDL while troops of the 25th Division were on duty; three soldiers were wounded, two seriously."
+    },
+    {
+      "id": "5126072",
+      "time": "2026-10-05 18:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗啟動對Vylor Inc.的覆蓋，給予跑贏大盤評級，目標價84.00美元。"
+    },
+    {
+      "id": "te:markets:589551",
+      "time": "2026-10-05 18:36:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Israel",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Israel 10Y Bond Yield Hits 12-month High — Israel 10 Year Government Bond Yield increased to 4.16%, the highest since September 2025. Over the past 4 weeks, Israel 10Y Bond Yield gained 24.20 basis points, and in the last 12 months, it increased 10.80 basis points."
+    },
+    {
+      "id": "mkt:01a10ba2-b755-7ee0-a79f-81acc82d1d2f",
+      "time": "2026-10-05 18:36:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romanian authorities said reports indicate a cargo ship that had already sunk caught fire; the cause is unknown."
+    },
+    {
+      "id": "5126071",
+      "time": "2026-10-05 18:35:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞：一艘貨船沉沒後發生火災，原因不明。"
+    },
+    {
+      "id": "5126070",
+      "time": "2026-10-05 18:35:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國公佈非軍事區地雷爆炸事件最終調查結果】韓國聯合參謀本部5日舉行記者會，公佈非軍事區地雷爆炸事件最終調查結果，稱“爆炸由朝鮮在軍事分界線南側埋設的反步兵地雷導致”，要求朝方作出道歉和立即清除相關地雷。韓國聯合參謀本部次長權大源說，韓國軍方與“聯合國軍司令部”9月26日至29日進行現場聯合調查，在爆炸地點附近再次發現朝鮮軍方埋設的樹脂反步兵地雷。（新華社）"
+    },
+    {
+      "id": "5126069",
+      "time": "2026-10-05 18:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "Trex Bio尋求透過首次公開募股籌集至多1.3333億美元。"
+    },
     {
       "id": "5126068",
       "time": "2026-10-05 18:34:06",
