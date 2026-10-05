@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-05 08:32:07",
-  "count": 11058,
+  "updated": "2026-10-05 08:35:55",
+  "count": 11052,
   "items": [
+    {
+      "id": "te:markets:589327",
+      "time": "2026-10-05 08:35:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Climb on Soft US Jobs Data — The Nikkei 225 Index jumped more than 2% toward 70,000 on Monday, reaching a three-month high as weaker-than-expected US jobs data eased pressure on the Federal Reserve to raise interest rates further. Still, traders remained cautious amid elevated bond yields and heightened uncertainty in the Middle East. Domestically, investors are looking ahead to a series of economic reports this week, including wage growth, household spending and consumer confidence data. In corporate news, SoftBank Group Corp. chief Masayoshi Son, a strong advocate for AI, said he's also concerned about safety risks as machines rapidly gain new capabilities, while urging countries to build trust and work together to harness the technology. Technology and AI-related stocks led the gains, including Kioxia Holdings (1.3%), Advantest (4.4%), SoftBank Group (3.3%), Tokyo Electron (3.2%) and Taiyo Yuden (3%)."
+    },
+    {
+      "id": "mkt:01a1097b-9ba7-7ee0-a796-8c19d5945258",
+      "time": "2026-10-05 08:34:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【Japanese refiner says Japan should keep Middle East as primary crude supplier】Japanese refiner Taiyo Oil said Japan should continue to source the bulk of its crude from the Middle East because it is more cost‑effective, opposing government moves to diversify supplies after a US‑Iran war. Taiyo Oil’s CEO said national strategy should prioritise buying crude at the lowest possible cost in peacetime while retaining flexibility to secure alternative supplies in a crisis, warned diversification would impose large peacetime costs, and recommended keeping Middle East supply share above 90%."
+    },
+    {
+      "id": "5125493",
+      "time": "2026-10-05 08:32:52",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "廣州天賜材料據悉評估赴港上市的市場認購意向。"
+    },
     {
       "id": "mkt:01a10978-c143-7ee0-a796-8378a18ef903",
       "time": "2026-10-05 08:31:11",
@@ -101414,90 +101447,6 @@
         "國際"
       ],
       "text": "【報道稱將計提1萬億日元損失 日本電產股價大跌17%】有報道稱深陷醜聞的日本電機廠商日本電產將針對會計問題計提約1萬億日元（合63億美元）損失，公司股價下跌17%。日本媒體Diamond報道，這家全球最大精密電機製造商計劃在截至2026年3月的財年追溯確認該筆減值費用，報道未說明訊息來源。報道還稱，日本電產董事會在上週會議投票罷免社長岸田光哉，預計最快於週二公佈新任管理層。自去年披露會計問題以來，日本電產持續陷入動盪，涉事主體包括位於義大利、瑞士、中國的多家子公司及其車載逆變器業務。今年早些時候，該醜聞迫使創始人、前社長永守重信離職；外界認為其高壓激進管理風格催生的嚴苛企業文化，是大範圍財務舞弊的根源。"
-    },
-    {
-      "id": "5115175",
-      "time": "2026-09-28 08:35:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國科學院正式釋出“十五五”發展規劃：在科技創新佈局上，堅持“四個面向”】近日，中國科學院正式釋出“十五五”發展規劃（以下簡稱《規劃》），對未來五年的發展目標、主要任務和重大舉措作出系統部署。在科技創新佈局上，堅持“四個面向”，聚焦積體電路、人工智慧、量子科技、生命科學和生物技術、腦機介面、可控核聚變等重要優先領域，光電、空間、資訊、海洋、能源、材料等戰略高技術領域，農業、地球與資源、大氣海洋與生態環境等可持續發展領域，以及數學、物理、化學、生物、天文、地學等基礎前沿交叉領域，凝練形成一批重點發展方向，加強科技創新戰略性、前瞻性、體系化佈局。統籌最佳化區域科技佈局，加快構建以北京（京津冀）、上海（長三角）、粵港澳大灣區為戰略高地，以合肥、成渝、武漢、西安為戰略支點，以若干重點區域為戰略節點的“3+4+X”梯次化區域佈局體系，努力為國家區域重大戰略提供系統性科技支撐。"
-    },
-    {
-      "id": "5115174",
-      "time": "2026-09-28 08:35:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中科宇航深化太空製藥合作，力鴻二號計劃2027年攜醫藥載荷首飛】近日，中科宇航與廣州實驗室圍繞太空製藥載荷開展聯合研製攻關，並擬聯合開展太空製藥場景驗證。首批載荷計劃於2027年第一季度搭乘力鴻二號可重複使用運載器開展亞軌道飛行驗證，實施蛋白質和小分子藥物結晶實驗，開展太空製藥裝備的前期技術驗證。"
-    },
-    {
-      "id": "5115173",
-      "time": "2026-09-28 08:35:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行7月會議紀要：根據經濟和通脹情況持續加息是適當的】根據日本央行7月30日至31日會議的紀要，央行委員會成員一致認為，根據經濟、通脹和金融狀況，繼續提高基準利率是合適的。注：日本央行在9月的會議上將基準利率上調25個基點，至1.25%。這些成員也一致認為，基礎通脹率正接近2%的目標，且金融環境較為寬鬆。一位成員表示：加息速度可能比市場預期的大約每六個月一次要快。一位成員表示：等待的風險已經不再微不足道。一位成員表示：全球央行已進入加息階段，因此日本央行需要採取靈活策略，並討論一次加息的幅度。政府代表：貨幣政策必須恰當實施，以實現穩定的通脹，這一點至關重要。"
-    },
-    {
-      "id": "mkt:01a0e56f-96b6-7118-86b0-78110e78995f",
-      "time": "2026-09-28 08:34:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell $1 intraday to $63.28/oz, down 1.60%."
-    },
-    {
-      "id": "mkt:01a0e56f-6725-7118-86b0-749eb4d66e9b",
-      "time": "2026-09-28 08:34:38",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "【Huatai Securities: Within tech prioritize optical communications, PCB and select domestic compute leaders】Huatai Securities' A-share strategy sees the market in a consolidation/recovery phase; prior correction has relieved valuation and trading risk, raising the odds of a pre-holiday rebound, but US jobs and PMI releases over the holiday increase event risk. Positioning should favor high earnings visibility and relatively fully digested valuations: within tech, prioritize optical communications, PCB and select domestic compute leaders and cut exposure to earnings-downgrade risk and pure-theme names. Also consider underallocated chemicals and paper chains where price spreads have improved, and use dividend-yielding assets as portfolio stabilizers. Ahead of the holiday keep fundamentally strong core holdings, trim high-volatility trading positions; stock selection matters more than gross exposure."
-    },
-    {
-      "id": "5115172",
-      "time": "2026-09-28 08:34:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲加沙 造成1人死亡多人受傷】以色列國防軍27日發表宣告稱，以軍當天對巴勒斯坦加沙地帶實施了空襲，目標是一名軍事行動人員。據來自加沙地帶希法醫院的訊息，以軍的空襲擊中了加沙城的一輛汽車，導致一人死亡，多人受傷。加沙地帶衛生部門官員表示，自去年10月加沙停火第一階段協議生效以來，已有1400多名巴勒斯坦人在以色列的襲擊行動中死亡。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0e56e-1d0e-7118-86b0-6b5c82672421",
-      "time": "2026-09-28 08:33:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US Treasury yields continued to climb in early Monday trade; the 2-year yield rose to 4.90% and the 10-year to 5.20%."
-    },
-    {
-      "id": "5115171",
-      "time": "2026-09-28 08:32:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉宏股份：跨境社交電商業務未有與Muse品牌/IP開展聯名、推廣或其他形式的合作】吉宏股份9月28日在互動平臺表示，公司跨境社交電商業務未有與Muse品牌/IP開展聯名、推廣或其他形式的合作。"
-    },
-    {
-      "id": "5115170",
-      "time": "2026-09-28 08:32:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國外匯交易中心（CFETS）：9月24日人民幣匯率指數漲0.39至102.93。"
     }
   ]
 }
