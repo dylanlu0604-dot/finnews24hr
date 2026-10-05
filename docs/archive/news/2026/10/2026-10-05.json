@@ -1,7 +1,164 @@
 {
   "date": "2026-10-05",
-  "count": 792,
+  "count": 808,
   "items": [
+    {
+      "id": "mkt:01a10b8e-fb99-7ee0-a79e-e4b2a629f514",
+      "time": "2026-10-05 18:14:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "BP.N"
+      ],
+      "text": "BP (BP.N) CEO said he was unsure whether directly investing in alternative export routes would be in the best interests of BP shareholders."
+    },
+    {
+      "id": "mkt:01a10b8e-ca47-7ee0-a79e-d9b4d2cc1355",
+      "time": "2026-10-05 18:14:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: The Indian rupee is forecast to trade near record lows, with median estimates at 96.10 per USD at end-Dec, 96.50 per USD at end-March and about 97.50 per USD by end-September — roughly a 1% further depreciation to 97.50."
+    },
+    {
+      "id": "5126036",
+      "time": "2026-10-05 18:14:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油執行長表示，不能確定直接投資替代出口渠道符合英國石油股東的最佳利益。"
+    },
+    {
+      "id": "mkt:01a10b8e-7a81-7ee0-a79e-d7fd57fbe996",
+      "time": "2026-10-05 18:14:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "BP CEO said the company is working with the Iraqi government to explore new export-route options, including a northern route."
+    },
+    {
+      "id": "mkt:01a10b8e-5114-7ee0-a79e-c9359ca9a6f0",
+      "time": "2026-10-05 18:13:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "BP.N",
+        "Impact bearish"
+      ],
+      "text": "BP (BP.N) CEO said the company had failed to properly manage investor capital in the past and that the Middle East will remain critical to the firm."
+    },
+    {
+      "id": "5126035",
+      "time": "2026-10-05 18:13:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油執行長表示，公司正與伊拉克政府合作，研究包括北部線路在內的新出口線路的可行方案。"
+    },
+    {
+      "id": "5126034",
+      "time": "2026-10-05 18:13:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油執行長表示，中東地區對公司而言仍將十分重要。"
+    },
+    {
+      "id": "te:economy:589540",
+      "time": "2026-10-05 18:13:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Serbia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Serbia Producer Inflation Rises at Fastest Pace Since 2023 — Serbia’s producer prices jumped by 10.5% year-on-year in September 2026 from 9.0% in the previous month. This marked the highest level since January 2023, driven largely by stronger inflation for energy (23.6% vs 19.3% in August), intermediate goods (5.6% vs 5.4%), capital goods (5.4% vs 5.3%), consumer durables (13.3% vs 10.1%), and non-durable consumer goods (2.2% vs 1.9%). By sector, costs increased in the manufacturing industry (12.0% vs 10.3%), lifted by gains in wood and wood products (6.3% vs 4.6%), coke and oil derivatives (68.8% vs 56.5%), and chemical and chemical products (15.5% vs 14.8%). Moreover, prices grew in mining and quarrying (24.1% vs 12.0%), while growth remained steady in water supply, sewerage, waste management, and remediation activities (at 5.8%). In contrast, inflation moderated in electricity, gas, steam, and air-conditioning supply (3.8% vs 3.9%). On a monthly basis, producer prices rose by 1.6%, easing from 1.9% in August."
+    },
+    {
+      "id": "mkt:01a10b8d-b6a4-7ee0-a79e-c3e6643b9ee4",
+      "time": "2026-10-05 18:13:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Saudi-led coalition says 100 warplanes took part in \"Operation Dawn of Yemen\"】Saudi-led coalition spokesman Turki al-Maliki said on the 5th that 100 coalition warplanes took part overnight in \"Operation Dawn of Yemen\", destroying 324 high-value targets. He said the coalition is providing air cover for the Bab al-Mandeb Strait, continuing strikes on mobile targets and offering round-the-clock air support to Yemeni government ground forces. Yemen Presidential Leadership Council chair Rashad al-Alimi said he launched the operation to restore state institutions, retake Sanaa and end the Houthi rebellion."
+    },
+    {
+      "id": "mkt:01a10b8d-2792-7ee0-a79e-bb31a8204612",
+      "time": "2026-10-05 18:12:42",
+      "tags": [
+        "MKT News",
+        "BP.N"
+      ],
+      "text": "BP (BP.N) CEO said the company has no intention of withdrawing from or avoiding the Middle East market."
+    },
+    {
+      "id": "5126033",
+      "time": "2026-10-05 18:12:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油執行長表示，過去在管理投資者資本方面不夠謹慎。"
+    },
+    {
+      "id": "mkt:01a10b8c-bb18-7ee0-a79e-b1c566c3cba0",
+      "time": "2026-10-05 18:12:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Melius Research upgraded Microsoft (MSFT.O) to \"Buy\" and raised its target price to $665 from $465."
+    },
+    {
+      "id": "5126032",
+      "time": "2026-10-05 18:12:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英國石油執行長表示，我們無意撤出中東。"
+    },
+    {
+      "id": "5126031",
+      "time": "2026-10-05 18:12:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "NSDL資料顯示，全球基金在前一交易日淨賣出價值928億盧比的印度股票。"
+    },
+    {
+      "id": "5126030",
+      "time": "2026-10-05 18:12:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "梅利厄斯研究將微軟評級上調至買入；目標價從465美元上調至665美元。"
+    },
+    {
+      "id": "mkt:01a10b8c-63de-7ee0-a79e-aa02916aa97c",
+      "time": "2026-10-05 18:11:52",
+      "tags": [
+        "MKT News",
+        "PCVX.O",
+        "Impact bullish"
+      ],
+      "text": "Vaxcyte shares rose 25.6% in premarket trading after the company said its pneumococcal vaccine met late-stage clinical trial endpoints."
+    },
     {
       "id": "mkt:01a10b8b-cd74-7ee0-a79e-a69ca028be36",
       "time": "2026-10-05 18:11:13",
