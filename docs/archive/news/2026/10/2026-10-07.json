@@ -1,7 +1,68 @@
 {
   "date": "2026-10-07",
-  "count": 275,
+  "count": 281,
   "items": [
+    {
+      "id": "5129147",
+      "time": "2026-10-07 04:24:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：最大的問題是沒人知道現在是誰在掌權。"
+    },
+    {
+      "id": "mkt:01a112e3-7e05-7ee0-a7c5-293a0d75685e",
+      "time": "2026-10-07 04:24:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump on Iran said the US still needs to finish the matter."
+    },
+    {
+      "id": "5129146",
+      "time": "2026-10-07 04:24:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗的無人機制造能力很快就會消失。"
+    },
+    {
+      "id": "mkt:01a112e2-7466-7ee0-a7c5-25de04a7fe65",
+      "time": "2026-10-07 04:23:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【France prepares to bypass parliament to push €43 bln spending cuts】Wall Street Journal reports the French finance minister said the government is prepared to invoke Article 49.3 next year to force through a budget with about €43 billion of spending cuts if budget talks deadlock. The minister set two red lines: keep the deficit below 5% of GDP and avoid measures that would harm growth. French borrowing costs have risen and investors worry political deadlock could hinder public-spending control. If 49.3 is used deputies may table a no-confidence motion; if the budget is not finally voted within 70 days the government can adopt it by ordinance."
+    },
+    {
+      "id": "5129145",
+      "time": "2026-10-07 04:23:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：我們仍需了結此事。"
+    },
+    {
+      "id": "mkt:01a112e1-8b39-7ee0-a7c5-19e0bdbee834",
+      "time": "2026-10-07 04:22:13",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Trump says the Russia-Ukraine conflict is nearing an end."
+    },
     {
       "id": "5129142",
       "time": "2026-10-07 04:20:44",
