@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-07 07:33:50",
+  "updated": "2026-10-07 07:37:38",
   "count": 9626,
   "items": [
+    {
+      "id": "5129242",
+      "time": "2026-10-07 07:36:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "雪佛龍公司表示，墨西哥灣的產量仍處於正常水平。"
+    },
+    {
+      "id": "te:economy:589965",
+      "time": "2026-10-07 07:36:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Wage Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Nominal Wage Growth Tops Forecast — Average cash earnings in Japan increased by 3.8% year-on-year in August 2026, slightly exceeding market expectations for a 3.7% gain but slowing from a revised 4.3% rise in July. Regular pay, including base salaries, rose 3.8% to mark continued solid wage growth, while overtime pay accelerated to 5.2% from a revised 4.5% increase in July. In contrast, special payments, which mainly consist of one-time bonuses, were unchanged after a revised 5.3% increase in the previous month. Meanwhile, real wages rose 1.5%, marking the eighth consecutive month of gains, although growth eased from a revised 2.0% increase in July. The result was based on a 2.2% inflation rate, unchanged from July and below 3.1% a year earlier. The sustained real wage gains strengthen the case for the Bank of Japan to continue raising interest rates after its latest hike."
+    },
+    {
+      "id": "5129241",
+      "time": "2026-10-07 07:35:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【紓困政策助力，日本實際工資連續第八個月上漲】在日本政府推出通脹紓困舉措提振家庭購買力的背景下，日本勞動者實際工資連續8個月增長，創下近十年來最長連增週期。日本厚生勞動省週三公佈資料：8月實際現金收入（剔除房租後的通脹調整口徑）同比上升1.5%，符合經濟學家預期；基本工資穩步增長3.8%，支撐本次收入上漲。名義工資同樣同比上漲3.8%，連續7個月保持3%以上增速，為1992年以來最長週期。剔除獎金、加班費與抽樣偏差的穩定指標顯示，全職員工薪資上漲2.8%。"
+    },
     {
       "id": "5129240",
       "time": "2026-10-07 07:33:03",
@@ -88645,32 +88674,6 @@
         "國際"
       ],
       "text": "【金與正：韓國借所謂地雷事件挑釁朝鮮】朝鮮勞動黨中央委員會部長金與正29日發表談話說，近日，南部邊境一帶發生了一起地雷爆炸事件，韓國軍方藉此再次挑釁朝鮮。金與正說，韓國把地雷爆炸事件的責任推卸給朝方，企圖捏造“物證”來證明它，這種做法非常荒謬。金與正警告，韓方將會為其挑釁行為承擔責任。據韓聯社電視臺21日援引韓國軍方人士訊息報道，韓國陸軍第25師在韓朝軍事分界線附近韓方一側非軍事區內執行任務過程中，發生疑似地雷爆炸事故，造成3人受傷，其中2人傷勢嚴重。韓國總統李在明29日要求軍方迅速查明真相，並表示政府將視調查結果採取必要措施。（新華社）"
-    },
-    {
-      "id": "mkt:01a0ef87-e0a3-7338-ab1e-eb8cd63f905e",
-      "time": "2026-09-30 07:37:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kim Yo Jong accuses South Korea of using alleged mine blast to provoke North Korea】KCNA reported Sept 30 that Kim Yo Jong said on Sept 29 a landmine explosion near the southern border was seized on by the South Korean military to provoke North Korea. She accused Seoul of shifting blame onto Pyongyang and attempting to fabricate physical evidence, called the action absurd, and warned Seoul would be held responsible for its provocations."
-    },
-    {
-      "id": "5119620",
-      "time": "2026-09-30 07:36:24",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：集運多數航線運價回落，油運運價延續強勢】中信建投研報稱，本週中國出口集裝箱運輸需求總體平穩，SCFI周環比持平，多數遠洋航線運價回落。美西、美東在前期上漲後小幅調整，當前供需尚未明顯轉弱；歐洲及地中海受終端消費和進口需求疲弱影響繼續下跌；南美供需關係進一步轉松，運價跌幅擴大；東南亞市場貨量保持穩定，區域指數延續上漲。整體來看，各航線仍將受區域需求、運力投放及地緣風險影響而延續分化。本週國際油運市場延續強勢，BDTI、BCTI周環比分別上漲10.2%、9.7%，原油輪不同航線由全面上漲轉向高位分化。霍爾木茲海峽及紅海南部通航限制持續佔用有效運力，中東—中國VLCC收益維持歷史高位並小幅上漲；美灣—中國受遠端貨源需求及噸海里增長支撐繼續走強；西非—中國在前期快速上漲後高位回撥。成品油輪保持強勢，中東LR長程航線運力偏緊，跨大西洋MR貨盤相對平穩。"
-    },
-    {
-      "id": "5119619",
-      "time": "2026-09-30 07:35:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人民日報：以高水平安全護航高質量發展行穩致遠】人民日報發表署名“金軒”的文章稱，當前，世界百年變局加速演進，國際形勢演變深刻影響國內發展和安全，我國發展進入戰略機遇和風險挑戰並存、不確定難預料因素增多的時期。我們要堅定信心、迎難而上，在發展中固安全，在安全中謀發展，強化底線思維，有效防範化解各類風險，增強經濟和社會韌性，以新安全格局保障新發展格局。 提升經濟安全韌性和抗衝擊能力。統籌提高糧食、能源資源、水等重點領域安全保障能力，加力實施新一輪千億斤糧食產能提升、中長期油氣增儲上產、新一輪找礦突破等戰略行動。加快構建大國儲備體系，不斷充實儲備家底。構建現代化基礎設施體系，系統推進“六張網”規劃建設。加快高水平科技自立自強，加強原始創新和關鍵核心技術攻關。提高防範化解重點領域風險能力，統籌推進房地產、地方政府債務、中小金融機構等風險有序化解。落實好就業優先政策，確保重點群體就業穩定，促進居民持續增收，健全分層分類的社會救助體系，促進社會穩定。"
     }
   ]
 }

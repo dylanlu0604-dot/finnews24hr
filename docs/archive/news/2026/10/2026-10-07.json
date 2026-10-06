@@ -1,7 +1,36 @@
 {
   "date": "2026-10-07",
-  "count": 436,
+  "count": 439,
   "items": [
+    {
+      "id": "5129242",
+      "time": "2026-10-07 07:36:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "雪佛龍公司表示，墨西哥灣的產量仍處於正常水平。"
+    },
+    {
+      "id": "te:economy:589965",
+      "time": "2026-10-07 07:36:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Wage Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Nominal Wage Growth Tops Forecast — Average cash earnings in Japan increased by 3.8% year-on-year in August 2026, slightly exceeding market expectations for a 3.7% gain but slowing from a revised 4.3% rise in July. Regular pay, including base salaries, rose 3.8% to mark continued solid wage growth, while overtime pay accelerated to 5.2% from a revised 4.5% increase in July. In contrast, special payments, which mainly consist of one-time bonuses, were unchanged after a revised 5.3% increase in the previous month. Meanwhile, real wages rose 1.5%, marking the eighth consecutive month of gains, although growth eased from a revised 2.0% increase in July. The result was based on a 2.2% inflation rate, unchanged from July and below 3.1% a year earlier. The sustained real wage gains strengthen the case for the Bank of Japan to continue raising interest rates after its latest hike."
+    },
+    {
+      "id": "5129241",
+      "time": "2026-10-07 07:35:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【紓困政策助力，日本實際工資連續第八個月上漲】在日本政府推出通脹紓困舉措提振家庭購買力的背景下，日本勞動者實際工資連續8個月增長，創下近十年來最長連增週期。日本厚生勞動省週三公佈資料：8月實際現金收入（剔除房租後的通脹調整口徑）同比上升1.5%，符合經濟學家預期；基本工資穩步增長3.8%，支撐本次收入上漲。名義工資同樣同比上漲3.8%，連續7個月保持3%以上增速，為1992年以來最長週期。剔除獎金、加班費與抽樣偏差的穩定指標顯示，全職員工薪資上漲2.8%。"
+    },
     {
       "id": "5129240",
       "time": "2026-10-07 07:33:03",
