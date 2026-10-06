@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-07 03:54:58",
-  "count": 9717,
+  "updated": "2026-10-07 03:58:45",
+  "count": 9709,
   "items": [
+    {
+      "id": "5129114",
+      "time": "2026-10-07 03:58:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "四名訊息人士稱，委內瑞拉卡東煉油廠出現明火與濃煙。"
+    },
     {
       "id": "mkt:01a112c4-0684-7ee0-a7c4-acb2483a5838",
       "time": "2026-10-07 03:49:58",
@@ -89423,83 +89431,6 @@
         "國際"
       ],
       "text": "特朗普：人工智慧主管人選即將確定，將在未來三到四天內任命。"
-    },
-    {
-      "id": "mkt:01a0eebf-227a-7338-ab1c-3ca585d2bf1f",
-      "time": "2026-09-30 03:58:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sources: No conclusive evidence of major attack on Israel ahead of election】Israeli military and security sources said weekly multi-front assessments show no conclusive information or evidence that Israel will face a major attack ahead of the election. Normally, if security agencies detect signs of potential major escalation the military would raise readiness and call up reservists; as of the evening of the 29th no such measures had been taken."
-    },
-    {
-      "id": "5119420",
-      "time": "2026-09-30 03:57:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士稱暫無確鑿資訊證明以色列將遭受重大襲擊】當地時間29日，以色列軍方和安全部門訊息人士稱，根據安全機構和軍方每週進行的多戰線局勢評估，截至目前沒有確鑿資訊或證據表明，以色列將在選舉前遭到重大襲擊。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0eebd-e81f-7338-ab1c-356418e96552",
-      "time": "2026-09-30 03:56:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath reports a spokesman for Iraq's armed forces commander said the first batch of air-defense systems is due to arrive in Erbil."
-    },
-    {
-      "id": "5119418",
-      "time": "2026-09-30 03:56:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不知道伊朗（現在）是否會放棄，但他們終究會放棄。"
-    },
-    {
-      "id": "mkt:01a0eebd-9aed-7338-ab1c-2b5b1a0932ec",
-      "time": "2026-09-30 03:56:38",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US President Trump said Iran's situation is very bad and he does not know whether they will give up."
-    },
-    {
-      "id": "5119417",
-      "time": "2026-09-30 03:56:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭官員稱，俄羅斯對烏克蘭北部城市蘇梅發動炸彈襲擊，造成兩人死亡。"
-    },
-    {
-      "id": "5119416",
-      "time": "2026-09-30 03:56:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：伊朗表現極差，目前尚不清楚他們是否會就此讓步。"
-    },
-    {
-      "id": "5119415",
-      "time": "2026-09-30 03:55:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者：當人工智慧代理（AI agents）犯罪時，誰該承擔責任？\n特朗普：這不是人工智慧（AI），而是“超級智慧”（SI）。"
-    },
-    {
-      "id": "5119414",
-      "time": "2026-09-30 03:55:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談人工智慧：世界上最聰明的人都在互相觀察。"
     }
   ]
 }
