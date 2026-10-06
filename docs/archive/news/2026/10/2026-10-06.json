@@ -1,7 +1,128 @@
 {
   "date": "2026-10-06",
-  "count": 435,
+  "count": 448,
   "items": [
+    {
+      "id": "5127432",
+      "time": "2026-10-06 09:01:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電機股價上漲5.8%，至1,673,000韓元。"
+    },
+    {
+      "id": "mkt:01a10eba-9670-7ee0-a7ab-bc974b58141f",
+      "time": "2026-10-06 09:01:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "FTSE China A50 index futures opened 0.34% higher."
+    },
+    {
+      "id": "5127427",
+      "time": "2026-10-06 09:00:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：可能會很快開始扭轉債務曲線。"
+    },
+    {
+      "id": "mkt:01a10eb9-de73-7ee0-a7ab-b098ef957066",
+      "time": "2026-10-06 09:00:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened 1.37% higher at 906.8 yuan/gram on Oct. 6 (Tuesday); silver T+D opened 0.67% higher at 14,890 yuan/kg."
+    },
+    {
+      "id": "5127426",
+      "time": "2026-10-06 09:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報報49,736.37。"
+    },
+    {
+      "id": "5127425",
+      "time": "2026-10-06 09:00:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我認為第三季度增長率將超過3%。"
+    },
+    {
+      "id": "5127424",
+      "time": "2026-10-06 09:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4150美元/盎司，日內漲0.24%。"
+    },
+    {
+      "id": "5127423",
+      "time": "2026-10-06 09:00:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：我認為第三季度增長率將超過3%。"
+    },
+    {
+      "id": "5127422",
+      "time": "2026-10-06 08:59:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：繼承了“鉅額債務”。"
+    },
+    {
+      "id": "te:markets:589689",
+      "time": "2026-10-06 08:59:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Falls for Third Session — US gasoline futures fell to around $3.30 per gallon, declining for the third straight session, pressured by seasonal weakness in fuel demand and the G7’s planned release of emergency oil and diesel reserves. The release will be coordinated by the International Energy Agency over the next four months. The broader refined-products complex also faced pressure after President Trump signed an executive order expanding access to tax-exempt diesel. Meanwhile, gasoline pump prices have eased from recent peaks as demand weakens following the end of the summer driving season. Nevertheless, global fuel markets remain tight as EIA data showed US gasoline inventories fell by 1.7 million barrels in the week ended September 25, while refinery utilization stood at 92.5%. Russia extended restrictions on most diesel exports through October, although it is considering a partial lift amid balanced domestic supplies. China also suspended some oil-product exports for October."
+    },
+    {
+      "id": "5127421",
+      "time": "2026-10-06 08:59:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞陸軍訓練事故1死5傷 】據澳大利亞國防部今天（10月6日）通報，一名澳大利亞陸軍士兵10月5日在澳大利亞北領地參加訓練時死亡，另有5名士兵受傷。澳大利亞國防部的通報未披露事故具體原因。"
+    },
+    {
+      "id": "5127420",
+      "time": "2026-10-06 08:58:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【加拿大魁北克分離主義政黨贏得選舉，卡尼政府迎來新挑戰】加拿大魁北克選民十餘年來首次選出分離主義政黨執政，這將令該省與馬克・卡尼總理領導的聯邦政府關係更加緊張，並且可能最終舉行魁北克脫離加拿大的獨立公投。加拿大廣播公司在蒙特利爾時間週一晚 8:40 前不久宣佈，魁北克人黨贏得省選舉。目前尚不確定魁北克人黨能否拿下省議會 127 個席位中的多數席位，從而無需小政黨支援即可主導議事議程。49 歲、曾為律師的魁北克人黨領袖保羅・聖皮埃爾・普拉蒙東將出任這個法語省份的新任省長。他承諾，將在首個四年任期內發起獨立公投，但不會在美國總統特朗普卸任之前舉行。普拉蒙東在近期電視辯論中表示：“我們剛剛經歷的與美方之間前所未有的局面，特朗普政府的所作所為讓人無法接受，當下的環境並不適合冷靜思考我們的未來。”這將是魁北克省歷史上第三次獨立公投。上一次 1995 年公投中，支援主權獨立的贊成票僅差 1 個多百分點惜敗。"
+    },
+    {
+      "id": "mkt:01a10eb8-0805-7ee0-a7ab-a91a1f3c084f",
+      "time": "2026-10-06 08:58:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Vietnam extends fuel tax waivers to year-end to counter energy supply disruption】Vietnam has extended tax exemptions on environmental levies, aviation fuel, VAT and import duties through Dec. 31 to offset global energy-supply disruptions from the Middle East conflict and to help cap fuel prices and curb Q4 inflation, the finance ministry said. The measures will cost the government VND138 trillion (about $530m) and are intended to lower transport, logistics and production costs; officials added the economy must grow at least 12.5% in Q4 to meet an ambitious 10% growth target for 2026, highlighting the policy trade-off between supporting activity and containing inflation."
+    },
     {
       "id": "5127419",
       "time": "2026-10-06 08:57:41",
