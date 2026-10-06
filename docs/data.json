@@ -1,7 +1,76 @@
 {
-  "updated": "2026-10-06 22:33:31",
-  "count": 9841,
+  "updated": "2026-10-06 22:37:21",
+  "count": 9843,
   "items": [
+    {
+      "id": "5128860",
+      "time": "2026-10-06 22:35:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：本田與日產分別與美國人工智慧初創企業合作，共同研發下一代車輛軟體。"
+    },
+    {
+      "id": "5128859",
+      "time": "2026-10-06 22:35:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "《紐約郵報》媒體集團正在尋找新任執行長。"
+    },
+    {
+      "id": "5128858",
+      "time": "2026-10-06 22:35:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀執行長：我們需要維護股東和客戶的利益。"
+    },
+    {
+      "id": "5128857",
+      "time": "2026-10-06 22:34:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：卡達債券市場將迎來擴張；歐清銀行互聯互通可拓寬投資准入渠道。"
+    },
+    {
+      "id": "5128856",
+      "time": "2026-10-06 22:34:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "道明考恩將美國運通目標價從338美元下調至335美元。"
+    },
+    {
+      "id": "mkt:01a111a3-64c3-7ee0-a7be-cc776b37a794",
+      "time": "2026-10-06 22:34:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "HMC.O",
+        "Impact bullish",
+        "NSANY.O"
+      ],
+      "text": "Nikkei reports Honda and Nissan have separately partnered with U.S. AI startups to develop next‑generation vehicle software."
+    },
+    {
+      "id": "5128855",
+      "time": "2026-10-06 22:34:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "肖恩·詹科拉將卸任紐約郵報傳媒集團發行人兼執行長一職。"
+    },
+    {
+      "id": "mkt:01a111a2-2b42-7ee0-a7be-c2f843c78644",
+      "time": "2026-10-06 22:33:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senator Shaheen condemned efforts to bar foreign observers from participating in the U.S. midterm elections."
+    },
     {
       "id": "te:markets:589910",
       "time": "2026-10-06 22:32:45",
@@ -90735,60 +90804,6 @@
         "其他"
       ],
       "text": "Anthropic表示，Claude.ai、Claude API和Claude Code均出現問題。"
-    },
-    {
-      "id": "5119070",
-      "time": "2026-09-29 22:36:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談人工智慧：不想把它搞得太複雜。"
-    },
-    {
-      "id": "5119069",
-      "time": "2026-09-29 22:36:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：絕不會扼殺人工智慧的發展。"
-    },
-    {
-      "id": "5119068",
-      "time": "2026-09-29 22:36:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：行政令將人工智慧更名為“超級智慧”。"
-    },
-    {
-      "id": "mkt:01a0ed97-a2cd-7338-ab13-67923dddf378",
-      "time": "2026-09-29 22:35:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "US President Trump said he will sign a strong executive order on artificial intelligence."
-    },
-    {
-      "id": "5119067",
-      "time": "2026-09-29 22:34:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：將簽署一項強有力的人工智慧行政命令。"
-    },
-    {
-      "id": "5119066",
-      "time": "2026-09-29 22:34:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：柳道實業控股有限公司向港交所提交上市申請書。"
     }
   ]
 }
