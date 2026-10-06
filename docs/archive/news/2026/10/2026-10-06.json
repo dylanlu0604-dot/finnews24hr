@@ -1,7 +1,111 @@
 {
   "date": "2026-10-06",
-  "count": 1400,
+  "count": 1411,
   "items": [
+    {
+      "id": "5128813",
+      "time": "2026-10-06 22:00:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "BAE系統公司贏得洛克希德·馬丁公司F-35電子戰系統合同。"
+    },
+    {
+      "id": "5128812",
+      "time": "2026-10-06 22:00:15",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大9月Ivey未季調PMI 61.9，前值62.7。\n加拿大9月Ivey季調後PMI 58.2，前值64.3。"
+    },
+    {
+      "id": "mkt:01a11183-bf36-7ee0-a7be-0d7cd6bfd50f",
+      "time": "2026-10-06 22:00:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Canada September Ivey PMI (seasonally adjusted) 58.2; prior 64.3."
+    },
+    {
+      "id": "mkt:01a11183-bae3-7ee0-a7be-0221e9dfb658",
+      "time": "2026-10-06 22:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada Ivey PMI (non-seasonally adjusted) for September 61.9; previous 62.7."
+    },
+    {
+      "id": "mkt:01a11183-9ccc-7ee0-a7bd-f846d829d9a8",
+      "time": "2026-10-06 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Ivey PMI SA (Sep) | actual 58.2 | previous 64.3"
+    },
+    {
+      "id": "mkt:01a11183-9cac-7ee0-a7bd-f1279fe736d3",
+      "time": "2026-10-06 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Ivey PMI NSA (Sep) | actual 61.9 | previous 62.7"
+    },
+    {
+      "id": "5128811",
+      "time": "2026-10-06 21:59:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "塞內加爾財方檔案顯示，該國債權銀行已成立委員會，協調與塞內加爾的債務談判。"
+    },
+    {
+      "id": "mkt:01a11182-aa1a-7ee0-a7bd-ebfa7a331e52",
+      "time": "2026-10-06 21:58:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israel issues travel warning for nationals abroad ahead of Oct. 7 anniversary】On Oct. 6 local time, Israel’s Prime Minister’s Office posted on social media urging Israeli nationals abroad to heighten security awareness ahead of the third anniversary of the Oct. 7, 2023 outbreak of renewed Israel-Palestine hostilities. The office said security assessments indicate an elevated risk of plots against Israeli and Jewish targets overseas and warned of potential attacks and demonstrations, noting some armed groups and extremists treat the anniversary as a symbolic moment to act."
+    },
+    {
+      "id": "5128810",
+      "time": "2026-10-06 21:58:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國考慮廢除“金牌免兵役”制度 】韓國部分亞運會金牌得主發表“免兵役比金牌重要”的不當言論後，韓國國防部6日表示，正在考慮收緊甚至廢除針對運動員和藝術界人士的兵役豁免制度。韓國國防部發言人鄭繽娜（音譯）6日在例行記者會上表示，國防部對體育界部分人士的不當言論感到遺憾，希望正在履職的軍人和預備役人員得到公眾尊重。她表示，國防部將綜合考慮公平性、可服兵役人數減少、公眾共識等因素，有計劃最終收緊或廢除針對運動員和藝術界人士的兵役豁免制度。（新華社）"
+    },
+    {
+      "id": "te:markets:589902",
+      "time": "2026-10-06 21:58:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Norway",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Norway 10Y Bond Yield Hits 18-year High — Norway 10 Year Government Bond Yield increased to 4.72%, the highest since August 2008. Over the past 4 weeks, Norway 10Y Bond Yield gained 21.41 basis points, and in the last 12 months, it increased 57.80 basis points."
+    },
+    {
+      "id": "mkt:01a11181-4f23-7ee0-a7bd-e4630709e54f",
+      "time": "2026-10-06 21:57:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Syrian Oil Company CEO says the company hopes to begin construction of an Iraq-to-Syria oil pipeline in Q1 2027."
+    },
     {
       "id": "5128809",
       "time": "2026-10-06 21:57:09",
