@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-07 07:26:16",
+  "updated": "2026-10-07 07:30:05",
   "count": 9625,
   "items": [
+    {
+      "id": "5129233",
+      "time": "2026-10-07 07:29:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息人士：必和必拓評估西澳鎳資產處置方案】訊息人士稱，必和必拓正在評估其西澳大利亞鎳資產的多種處置選項，其中包括資產剝離出售；相關業務目前仍處於臨時停產狀態，公司將在 2027 年 2 月前完成本次評估決策。"
+    },
+    {
+      "id": "te:markets:589961",
+      "time": "2026-10-07 07:29:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises as Mideast Risks Remain — Brent crude climbed to around $101 per barrel on Wednesday, extending gains from the previous session as persistent risks to Middle East energy flows overshadowed signs of rising supply from the region. Iran has intensified attacks on tankers in the Strait of Hormuz in recent days, with the UK Maritime Trade Operations reporting nine incidents so far this month. Meanwhile, a Saudi-led coalition said it had intercepted and destroyed a ballistic missile launched by the Houthis toward Khamis Mushait in Saudi Arabia. Despite the latest developments, oil prices remain lower for the week as energy flows from the Persian Gulf show signs of recovery, with tankers discreetly passing through the Strait of Hormuz despite heightened risks and Saudi Arabia’s East-West oil pipeline restoring crude pumping capacity to 5.8 million barrels per day. In the US, industry data showed crude inventories declined by 2.1 million barrels last week, while official figures are due later today."
+    },
+    {
+      "id": "te:markets:589960",
+      "time": "2026-10-07 07:27:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Rises as Mideast Risks Remain — Crude oil climbed toward $90 per barrel on Wednesday, recovering from five-week lows as persistent risks to Middle East energy flows overshadowed signs of rising supply from the region. Iran has intensified attacks on tankers in the Strait of Hormuz in recent days, with the UK Maritime Trade Operations reporting nine incidents so far this month. Meanwhile, a Saudi-led coalition said it had intercepted and destroyed a ballistic missile launched by the Houthis toward Khamis Mushait in Saudi Arabia. Despite the latest developments, oil prices remain lower for the week as energy flows from the Persian Gulf show signs of recovery, with tankers discreetly passing through the Strait of Hormuz despite heightened risks and Saudi Arabia’s East-West oil pipeline restoring crude pumping capacity to 5.8 million barrels per day. In the US, industry data showed crude inventories declined by 2.1 million barrels last week, while official figures are due later today."
+    },
     {
       "id": "5129232",
       "time": "2026-10-07 07:23:39",
@@ -88627,34 +88657,6 @@
         "國際"
       ],
       "text": "【卡尼誓言就裁員事件對克利夫蘭-克里夫斯公司採取法律行動】加拿大總理馬克·卡尼（Mark Carney）表示，克利夫蘭-克里夫斯公司（Cleveland-Cliffs Inc.）的加拿大分公司宣佈關閉安大略省部分業務是“背叛”了工人，並承諾將“在法律允許的範圍內”追究該公司的責任。這家名為Stelco的分公司週一表示，預計將無限期關閉位於多倫多附近的漢密爾頓工廠的冷軋及塗層業務，並將美國關稅列為部分原因。此次停產將影響約350名員工。卡尼週二在溫哥華對記者表示，他對Stelco的這一決定“感到非常失望”，並指出聯邦政府過去曾向該公司提供過資金支援。總理強調，Stelco“負有僱傭方面的法律義務”。克利夫蘭-克里夫斯公司執行長洛倫科·貢薩爾維斯（Lourenco Goncalves）週二表示，他不會迴避與卡尼政府的法律交鋒。他在接受採訪時說：“如果他們打算這麼做——那太好了。我們法庭上見。”"
-    },
-    {
-      "id": "5119611",
-      "time": "2026-09-30 07:26:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華為昇騰950DT千卡超節點落地中國移動算力中心北京節點】近日，中國移動北京公司（北京移動）聯合中國移動雲公司宣佈華為昇騰950DT千卡超節點正式落地昌平區資訊港資料中心移動雲北京節點。落地北京節點的千卡超節點基於華為超節點架構，單節點1024卡算力達1EFLOPS（FP8），支援256TB統一記憶體和微秒級時延，能夠支撐大模型訓推、智慧體開發等高階需求。"
-    },
-    {
-      "id": "5119610",
-      "time": "2026-09-30 07:26:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【KKR投資印度液體倉儲物流企業Cisternina】當地時間9月29日，全球投資機構KKR宣佈，旗下基金已簽署最終協議，將對印度散裝液體及氣體倉儲物流企業Cisternina Logistics Private Limited進行多數股權投資。該投資將支援Cisternina收購Ganesh Benzoplast Limited（GBL）的液體倉儲碼頭及鐵路業務，並推動其在印度進一步擴張。KKR表示，印度約95%的對外貿易量透過沿海基礎設施完成，未來十年散裝液體領域需求預計將持續增長。"
-    },
-    {
-      "id": "mkt:01a0ef7d-c3d6-7338-ab1e-e256dec884c9",
-      "time": "2026-09-30 07:26:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "1211.HK",
-        "Impact bullish"
-      ],
-      "text": "【BYD says semiconductors and software could be more important than batteries in EVs' next phase】BYD told shareholders at an extraordinary meeting on Sept 29 it views semiconductors and software as potentially more important than batteries in the second phase of EV intelligentization. The company said it has moved from lacking a battery advantage to achieving global leadership. It said semiconductors cut across industries and will be critical to cost and technology as EVs become more intelligent. BYD added it will not be merely an assembler and must master core technologies beyond batteries."
     }
   ]
 }
