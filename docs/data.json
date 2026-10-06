@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-07 04:06:17",
-  "count": 9685,
+  "updated": "2026-10-07 04:10:05",
+  "count": 9670,
   "items": [
+    {
+      "id": "5129126",
+      "time": "2026-10-07 04:07:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及競選：我們必須向民眾闡釋我們的施政舉措。"
+    },
+    {
+      "id": "5129125",
+      "time": "2026-10-07 04:07:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：TOWA 擬新建半導體裝置工廠，完善日本本土供應鏈。"
+    },
+    {
+      "id": "mkt:01a112d3-7085-7ee0-a7c4-f6fe46ff8c86",
+      "time": "2026-10-07 04:06:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Japanese semiconductor-equipment maker Towa plans to build a factory for chip-manufacturing equipment to strengthen Japan's semiconductor supply chain."
+    },
     {
       "id": "mkt:01a112d2-a95a-7ee0-a7c4-e979e0ea9825",
       "time": "2026-10-07 04:05:58",
@@ -89001,189 +89029,6 @@
         "The Trump Trade"
       ],
       "text": "President Trump said he wants data centers built in the United States."
-    },
-    {
-      "id": "5119468",
-      "time": "2026-09-30 04:09:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普被問及住宅附近的資料中心時表示：希望它們建在合適的地方。"
-    },
-    {
-      "id": "mkt:01a0eec9-8c85-7338-ab1c-cd74259f9d0f",
-      "time": "2026-09-30 04:09:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said residents in regions hosting data center construction will see large economic gains."
-    },
-    {
-      "id": "5119466",
-      "time": "2026-09-30 04:09:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：資料中心建設落地地區的民眾將獲得豐厚的經濟收益。"
-    },
-    {
-      "id": "mkt:01a0eec8-e44d-7338-ab1c-c27ba75fcab2",
-      "time": "2026-09-30 04:08:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "The Trump Trade"
-      ],
-      "text": "President Trump discussed data center deployment with AI industry leaders."
-    },
-    {
-      "id": "5119464",
-      "time": "2026-09-30 04:08:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【西班牙國王呼籲歐盟成員國加強協作以保衛邊界】當地時間9月29日，法國總統馬克龍及其夫人抵達西班牙，對西班牙進行國事訪問。西班牙國王費利佩六世當天在歡迎晚宴致辭中表示，7月末休達自治市發生的大規模移民入境事件“令人無法接受”，並將其描述為“數萬人大規模入侵，侵犯了西班牙和歐盟邊界”的嚴重事件。費利佩六世同時表示，這一情況必須促使歐盟成員國加強協作，以保衛歐盟南部邊界。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0eec8-c9a1-7338-ab1c-bf2715624a20",
-      "time": "2026-09-30 04:08:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Oil prices tumble on the 29th】At the close, NYMEX November light sweet crude settled down $3.22 at $89.38/bbl, a 3.48% decline; November Brent settled down $2.69 at $102.59/bbl, down 2.56%."
-    },
-    {
-      "id": "5119463",
-      "time": "2026-09-30 04:08:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：討論了資料中心的選址，我希望它們建在美國。"
-    },
-    {
-      "id": "te:markets:587830",
-      "time": "2026-09-30 04:08:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Stocks Dip as Elevated Yields Weigh — US stock indices closed mostly lower on Tuesday, weighed down by another rise in Treasury yields to fresh multiyear highs. The S&P 500 fell 0.2%, and the Dow shed 130 points, while the Nasdaq rose 0.2%. Elevated oil prices and yields continued to pressure equities, with the 10-year yield trading near levels not seen since 2007 and the 30-year yield hovering around a 2004 high. Inflationary pressures from elevated crude and fuel prices, along with concerns over fiscal deficits, drove the bond selloff. New York Fed President Williams said another interest rate hike could be necessary this year. Bank stocks moved lower, with Bank of America down 0.9%. AI hyperscalers and chipmakers, both facing record levels of debt issuance, traded mixed. Alphabet fell 0.5% and Nvidia lost 0.7%, while Meta gained 3.2%, Oracle jumped 4%, Broadcom added 1.6% and Micron rose 1%, as the planned Anthropic IPO lent some support to the tech sectors. The IPO could value Anthropic at over $2 trillion."
-    },
-    {
-      "id": "5119461",
-      "time": "2026-09-30 04:08:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【國際油價29日顯著下跌】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格下跌3.22美元，收於每桶89.38美元，跌幅為3.48%；11月交貨的倫敦布倫特原油期貨價格下跌2.69美元，收於每桶102.59美元，跌幅為2.56%。"
-    },
-    {
-      "id": "5119460",
-      "time": "2026-09-30 04:07:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta執行長扎克伯格：將安排公司董事會審查審計機構出具的報告。"
-    },
-    {
-      "id": "5119459",
-      "time": "2026-09-30 04:07:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta執行長扎克伯格：科技企業已同意就人工智慧建立“健全”內部控制機制與多層審計體系。"
-    },
-    {
-      "id": "5119458",
-      "time": "2026-09-30 04:07:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普將富國銀行評級上調至“A-”，展望穩定。"
-    },
-    {
-      "id": "5119457",
-      "time": "2026-09-30 04:07:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic執行長阿莫代伊：應對人工智慧風險的機制正在討論中。"
-    },
-    {
-      "id": "mkt:01a0eec7-14f7-7338-ab1c-b08800bca18d",
-      "time": "2026-09-30 04:06:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) CEO Mark Zuckerberg said technology companies have agreed to establish 'robust' internal controls and multi-layered audits for AI."
-    },
-    {
-      "id": "mkt:01a0eec6-b67f-7338-ab1c-afb154d08eec",
-      "time": "2026-09-30 04:06:35",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) CEO Mark Zuckerberg said he will ask the company's board to review the auditor's report."
-    },
-    {
-      "id": "5119456",
-      "time": "2026-09-30 04:06:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：預計通脹將下降，但人工智慧方面仍存在疑問。"
-    },
-    {
-      "id": "mkt:01a0eec6-87af-7338-ab1c-a7e3012a6ae7",
-      "time": "2026-09-30 04:06:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Fed's Williams said rising bond yields indicate financial conditions have tightened marginally."
-    },
-    {
-      "id": "mkt:01a0eec6-7acf-7338-ab1c-9c92200918a3",
-      "time": "2026-09-30 04:06:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "WILLIAMS said strong investment in AI is important for boosting future productivity."
     }
   ]
 }

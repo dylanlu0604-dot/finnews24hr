@@ -1,7 +1,35 @@
 {
   "date": "2026-10-07",
-  "count": 261,
+  "count": 264,
   "items": [
+    {
+      "id": "5129126",
+      "time": "2026-10-07 04:07:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及競選：我們必須向民眾闡釋我們的施政舉措。"
+    },
+    {
+      "id": "5129125",
+      "time": "2026-10-07 04:07:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：TOWA 擬新建半導體裝置工廠，完善日本本土供應鏈。"
+    },
+    {
+      "id": "mkt:01a112d3-7085-7ee0-a7c4-f6fe46ff8c86",
+      "time": "2026-10-07 04:06:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports Japanese semiconductor-equipment maker Towa plans to build a factory for chip-manufacturing equipment to strengthen Japan's semiconductor supply chain."
+    },
     {
       "id": "mkt:01a112d2-a95a-7ee0-a7c4-e979e0ea9825",
       "time": "2026-10-07 04:05:58",
