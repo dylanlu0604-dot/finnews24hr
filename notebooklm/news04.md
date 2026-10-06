@@ -1,7 +1,657 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-10-07 03:28:29_
-_本檔包含 1901 則快訊，約 366960 字_
+_更新時間：2026-10-07 04:29:05_
+_本檔包含 1989 則快訊，約 364760 字_
+
+---
+
+### 2026-10-01 20:31:12  #其他
+
+【法國監督機構稱預算草案的經濟假設“樂觀” 政府降赤字計劃面臨風險】法國財政監督機構警告稱，政府2027年預算草案所依據的經濟假設“樂觀”，這給削減高企財政赤字的計劃帶來風險。法國政府週四早些時候向內閣提交了一項財政法案，預計經濟增速將從2026年的0.5%加快至1%，並計劃將財政赤字佔國內生產總值(GDP)的比例從5.4%降至5%。 負責監督公共財政的獨立機構法國公共財政高階委員會(HCFP)表示，這些預測假設私人投資將顯著回升，但法國主權借貸成本飆升可能會傳導至企業和家庭的融資環境。該機構還表示，由於政府提供的時間和資訊有限，無法對擬議的所有稅收和支出調整進行深入分析。
+
+---
+
+### 2026-10-01 20:30:40  #公司
+
+嘉信理財集團將於2026年10月7日起在德克薩斯證券交易所完成二次上市掛牌。
+
+---
+
+### 2026-10-01 20:30:29  #國際
+
+北約呂特：我的立場明確——保持冷靜、堅持立場，繼續支援烏克蘭。
+
+---
+
+### 2026-10-01 20:30:15  #國際
+
+美國至9月26日當週初請失業金人數 19.7萬人，預期20萬人，前值由19.7萬人修正為19.8萬人。
+美國至9月26日當週初請失業金人數四周均值 20萬人，前值由20.225萬人修正為20.25萬人。
+美國至9月19日當週續請失業金人數 170.1萬人，預期172.5萬人，前值由171.9萬人修正為171.2萬人。
+
+---
+
+### 2026-10-01 20:30:10  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+US four-week moving average of initial jobless claims for the week to Sept. 26: 200,000; prior reading revised from 202,250 to 202,500.
+
+---
+
+### 2026-10-01 20:30:08  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+US initial jobless claims for the week ending Sept. 26: 197,000 vs. 200,000 expected; prior week revised to 198,000 from 197,000.
+
+---
+
+### 2026-10-01 20:30:07  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
+
+US continuing jobless claims for week ending Sep 19 1.701 mln vs 1.725 mln expected; prior revised to 1.712 mln from 1.719 mln.
+
+---
+
+### 2026-10-01 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | Continued Jobless Claims (Sep.19) | actual 1701000K | consensus 1725000K | previous 1719000K
+
+---
+
+### 2026-10-01 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | Initial Jobless Claims 4-Week Average (Sep.26) | actual 200000K | previous 202250K
+
+---
+
+### 2026-10-01 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | Initial Jobless Claims (Sep.26) | actual 197000K | consensus 200000K | previous 197000K
+
+---
+
+### 2026-10-01 20:29:52  #其他
+
+【第二艘國產大型郵輪“愛達·花城號”迎來近600名船員入駐】10月1日，近600名船員入駐第二艘國產大型郵輪“愛達·花城號”，這標誌著該船首航前運營籌備工作已進入最後衝刺階段。第二艘國產大型郵輪“愛達·花城號”計劃於2026年11月6日交付，並於11月22日從廣州南沙國際郵輪母港開啟首航。（央視新聞）
+
+---
+
+### 2026-10-01 20:29:09  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
+
+NATO Secretary General Rutte said Russia is testing NATO across Europe.
+
+---
+
+### 2026-10-01 20:28:15  #國際
+
+【伊拉克宣佈實現國家完全主權】伊拉克總理扎伊迪10月1日發表宣告，確認美國主導的打擊極端組織“伊斯蘭國”國際聯盟部隊已全部撤離伊拉克，宣佈伊拉克實現國家完全主權。扎伊迪在宣告中說，實現國家完全主權是令全體伊拉克人民自豪的國家成就。同時，10月1日也是伊拉克啟動解決非國家管控武器問題這一嚴肅程序的開始，根據明確的路線圖和時間表，相關程序將不晚於2027年6月30日完成。（新華社）
+
+---
+
+### 2026-10-01 20:28:04  #MKT News #Commodities #Energy
+
+Germany's Economy Ministry said any measures on diesel reserves must be based on a prudent joint assessment under established international procedures and must not disrupt markets.
+
+---
+
+### 2026-10-01 20:27:42  #其他
+
+德國經濟部就柴油儲備問題表態：絕不能讓市場陷入不穩定。
+
+---
+
+### 2026-10-01 20:27:22  #其他
+
+德國經濟部就柴油儲備問題表示：所有措施都必須基於，在為此設立的國際程式框架內，對局勢開展審慎的共同評估。
+
+---
+
+### 2026-10-01 20:27:14  #MKT News #Commodities #Energy
+
+German Economy Ministry said on diesel reserves it seeks a coordinated, mutually beneficial solution to stabilize the market.
+
+---
+
+### 2026-10-01 20:27:03  #其他
+
+德國經濟部就柴油儲備發表觀點：關鍵在於我們要達成協調互利的解決方案，以實現穩定市場的目標。
+
+---
+
+### 2026-10-01 20:26:48  #國際
+
+【特朗普：中期選舉後可能加大力度打擊伊朗】美國媒體10月1日報道，美國總統特朗普表示，美國或將在中期選舉後加大對伊朗的打擊力度。《時代》週刊網站當天刊發對特朗普的採訪內容。當被問及是否計劃在中期選舉後增加對伊朗的轟炸時，特朗普表示“有可能”。特朗普還表示，他拒絕了伊朗提出的重新開放霍爾木茲海峽的提議，“他們提議開放霍爾木茲海峽……但是還不夠好”。（新華社）
+
+---
+
+### 2026-10-01 20:26:31  #其他
+
+德國經濟部就柴油儲備表示：目前國際能源署(IEA)未提出新要求。
+
+---
+
+### 2026-10-01 20:26:28  #MKT News #Important #Commodities #Energy
+
+Germany's economy ministry said the International Energy Agency currently has no new requirements on diesel reserves.
+
+---
+
+### 2026-10-01 20:26:25  #其他
+
+德國經濟部就柴油儲備問題表態：我們不對未來可能發生的事件做猜測。
+
+---
+
+### 2026-10-01 20:26:24  #其他
+
+德國經濟部就柴油儲備問題表態：我們不對未來可能發生的事件做猜測。
+
+---
+
+### 2026-10-01 20:25:00  #公司
+
+賽諾菲執行長在電話會議上表示，預計特應性皮炎治療市場規模未來五年將接近翻倍。
+
+---
+
+### 2026-10-01 20:24:27  #MKT News
+
+Turkey's finance minister said fund issues could have a short-lived, limited impact on market sentiment.
+
+---
+
+### 2026-10-01 20:24:12  #MKT News
+
+Simsek said Turkey has a stronger regulatory framework to ensure recent developments will not recur.
+
+---
+
+### 2026-10-01 20:23:38  #MKT News
+
+SIMSEK says pressure on a small segment of Turkey's asset management sector is a short-term issue; additional regulation of funds may be needed.
+
+---
+
+### 2026-10-01 20:22:52  #國際
+
+【零跑汽車釋出 9 月交付資料，全球交付 105656 臺，實現連續三個月月銷 10萬+，站穩新勢力領先位置】海外業務實現重大里程碑，1‑9 月累計海外出口超 15 萬臺，提前完成 2026 年既定海外出口目標。目前業務覆蓋全球超 45 個國家和地區，歐洲銷售及服務網點超 1000 家，上牌量位居法國、德國、義大利、西班牙等歐洲核心市場純電前三，完成從產品出海到實銷領跑的跨越。 截至 9 月底，零跑全球累計交付超 180 萬臺。接下來品牌將攜 D19、A05 亮相巴黎車展，疊加西班牙本地化雙工廠落地，推動全球化從出口邁向體系化出海新階段。
+
+---
+
+### 2026-10-01 20:21:40  #宏觀
+
+土耳其財長：我們可能需要針對基金出臺額外監管規定。
+
+---
+
+### 2026-10-01 20:21:22  #其他
+
+土耳其財長：資產管理業務僅小部分承壓，這是短期問題。
+
+---
+
+### 2026-10-01 20:21:11  #其他
+
+【北馬里亞納群島聯邦政府部分關閉】北馬里亞納群島聯邦政府10月1日因2027財年預算未及時獲得批准而宣佈部分關閉。（新華社）
+
+---
+
+### 2026-10-01 20:20:23  #其他
+
+WSP將收購GCM Corpo，拓展其在加拿大的能源業務佈局。
+
+---
+
+### 2026-10-01 20:20:03  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #S&P500 #US10Y
+
+US initial jobless claims for the week ending Sept. 26 due in 10 minutes.
+
+---
+
+### 2026-10-01 20:18:51  #宏觀
+
+土耳其財政部長：我們計劃改善中小企業的融資可及性，相關支援將具有針對性且經過精準調整，我們不會削弱抗通脹努力。
+
+---
+
+### 2026-10-01 20:18:24  #MKT News
+
+Israeli Prime Minister Netanyahu said the pilot who carried out the attack was Omani.
+
+---
+
+### 2026-10-01 20:18:21  #其他
+
+【國慶假期首日 深圳北站預計傳送旅客44.8萬人次】國慶假期首日，深圳北站將迎來旅客出行高峰，預計傳送旅客44.8萬人次，有望創該站單日旅客傳送量新高。
+
+---
+
+### 2026-10-01 20:17:49  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Israeli Prime Minister NETANYAHU said there are signs that Iran and its proxies intend to attack Israel.
+
+---
+
+### 2026-10-01 20:17:48  #其他
+
+內塔尼亞胡：襲擊另一名飛行員的飛行員是阿曼人。
+
+---
+
+### 2026-10-01 20:17:04  #其他
+
+阿維塔 9 月交付 8,183 輛。
+
+---
+
+### 2026-10-01 20:16:22  #國際
+
+內塔尼亞胡：有跡象表明，伊朗及其代理人意圖襲擊以色列。
+
+---
+
+### 2026-10-01 20:15:35  #MKT News
+
+Simsek said the Mecca agreement is not merely a security arrangement; the region needs new secure, reliable trade and energy corridors.
+
+---
+
+### 2026-10-01 20:15:22  #其他
+
+匈牙利債務管理局局長陶爾多什表示，可信的入盟財政路線圖是匈牙利債券漲勢持續的關鍵，匈牙利不急於在2027年初發行外幣債券入市籌資。
+
+---
+
+### 2026-10-01 20:15:18  #MKT News
+
+Israeli Prime Minister Netanyahu said he will be able within days to confirm whether the co-pilot had links to Iran.
+
+---
+
+### 2026-10-01 20:15:17  #其他
+
+匈牙利債務管理局主管表示，該國2027年的國際借款規模約為80億歐元，大部分資金將來自外幣債券。
+
+---
+
+### 2026-10-01 20:14:41  #國際
+
+內塔尼亞胡：數日之內即可確認副駕駛是否與伊朗存在關聯。
+
+---
+
+### 2026-10-01 20:14:31  #MKT News
+
+Israeli Prime Minister Netanyahu said the co-pilot in the Dubai flight incident "had been subjected to Islamist radicalization," Fox News reported.
+
+---
+
+### 2026-10-01 20:13:22  #其他
+
+【西南首座柔性直流換流站全面進入電氣裝置安裝階段】10月1日，國家“十四五”電力發展規劃重點專案——渝黔背靠背聯網工程全面進入電氣裝置安裝階段。渝黔換流站位於重慶市綦江區隆盛鎮，是西南地區首座柔性直流背靠背換流站，新增換流容量300萬千瓦。（新華社）
+
+---
+
+### 2026-10-01 20:13:18  #MKT News
+
+BANK OF ENGLAND'S monetary policy committee member MANN said the Bank must clearly communicate its reaction function; if it fails to act, both policy and CPI expectations would shift.
+
+---
+
+### 2026-10-01 20:13:04  #焦點 #國際
+
+內塔尼亞胡：現在說是否與伊朗有聯絡還為時過早。
+
+---
+
+### 2026-10-01 20:12:34  #宏觀
+
+土耳其財政部長：我們將繼續動用財政空間助力抗擊通脹。
+
+---
+
+### 2026-10-01 20:12:29  #其他
+
+威嘉英國合夥人湯姆·理查茲據悉將離職，加入盛信律師事務所。
+
+---
+
+### 2026-10-01 20:12:13  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish #HPQ.N #Impact bullish
+
+MORGAN STANLEY lowered its PT for Apple (AAPL.O) to $355.00 from $360.00 and raised its PT for HP (HPQ.N) to $72.00 from $67.00.
+
+---
+
+### 2026-10-01 20:11:57  #Trading Economics #Economy #Mexico #Business Confidence #Importance 1
+
+Mexico Manufacturing Confidence Stalls at 48 Points — Mexico’s manufacturing business confidence remained unchanged at 48 points in September 2026, staying below the 50-point threshold for the 18th consecutive month. The monthly reading reflected no change in firms’ assessment of the country’s current economic situation, at 47.8 points, or of whether the current period is appropriate for investment, at 34.3 points. Meanwhile, firms’ assessment of their companies’ current economic situation deteriorated by 0.2 point to 50.1, while expectations for their companies’ future economic situation fell 0.5 point to 55.4. In contrast, businesses’ expectations for the country’s future economic situation improved by 0.3 point to 52.2.
+
+---
+
+### 2026-10-01 20:11:49  #觀點
+
+摩根士丹利將蘋果目標價從360.00美元下調至355.00美元。
+
+---
+
+### 2026-10-01 20:11:25  #央行 #資料
+
+英國央行委員曼恩：若不採取行動，政策和CPI預期將發生變化。
+
+---
+
+### 2026-10-01 20:11:22  #宏觀
+
+土耳其財政部長：我們認為，今年農業豐產大機率將有助於緩解食品通脹。
+
+---
+
+### 2026-10-01 20:11:02  #央行 #國際
+
+英國央行官員曼恩：央行可能未能在3月明確闡述其對中東衝擊的反應機制，而4月未公佈基線預測可能也無助於事態。
+
+---
+
+### 2026-10-01 20:10:40  #國際
+
+白宮：特朗普之道——美國優先。
+
+---
+
+### 2026-10-01 20:10:08  #其他
+
+味好美：美洲包裝短缺可能拖累第四季度銷量。
+
+---
+
+### 2026-10-01 20:09:59  #其他
+
+【國慶假期首日，國鐵廣州局預計傳送旅客383.7萬人次】10月1日，國鐵廣州局迎來國慶假期客流最高峰，預計傳送旅客383.7萬人次，較2025年同期增加33萬人次，增幅9.4%，創單日旅客傳送歷史新高。
+
+---
+
+### 2026-10-01 20:09:07  #市場
+
+味好美：業績反映出消費者注重價效比。海鮮和牛肉價格上漲對消費構成壓力。
+
+---
+
+### 2026-10-01 20:08:47  #其他
+
+【蘇丹中部一大學遭無人機襲擊，造成50餘人傷亡】當地時間10月1日，蘇丹民間機構“蘇丹醫生網”發表宣告稱，位於蘇丹中部北科爾多凡州首府歐拜伊德市的科爾多凡大學學生宿舍當天遭遇無人機襲擊，造成5人死亡，另有47人受傷。宣告譴責蘇丹快速支援部隊發動此次襲擊，稱該武裝持續針對平民和民用設施發動襲擊，嚴重違反國際人道法。對此，快速支援部隊暫無回應。（央視新聞）
+
+---
+
+### 2026-10-01 20:08:30  #其他
+
+【廣深港高鐵跨境客流持續火爆 國慶假期7天將超83萬人次】記者從深圳鐵路部門獲悉，據預測，今年國慶假期廣深港高鐵跨境客流將達83.9萬人次，同比增長6.2%。另外，今年以來廣深港高鐵跨境出行需求持續釋放。截至9月底，廣深港高鐵累計運送跨境旅客突破2400萬人次，同比增長11%。
+
+---
+
+### 2026-10-01 20:08:22  #央行 #其他
+
+英國央行委員曼恩：需要清晰溝通的反應機制。
+
+---
+
+### 2026-10-01 20:07:43  #央行 #其他
+
+英國央行曼恩：當融資環境收緊反映出更高的通脹風險溢價，且可能還反映出貨幣政策不確定性溢價時，這種收緊並不讓人安心。
+
+---
+
+### 2026-10-01 20:07:33  #市場 #國際
+
+歐洲股市收窄早前跌幅，德國DAX指數日內轉漲。
+
+---
+
+### 2026-10-01 20:07:29  #市場 #國際
+
+斯托克歐洲600指數下跌0.4%，此前盤中最大跌幅達1.5%。
+
+---
+
+### 2026-10-01 20:07:18  #MKT News #GBPUSD #Impact bullish
+
+Bank of England MPC member Mann said risk premia cannot be relied on to substitute for policy action.
+
+---
+
+### 2026-10-01 20:06:08  #宏觀
+
+土耳其財政部長：強勁的財政狀況、緩衝儲備與恰當的政策應對相結合，已提升了市場對里拉的信心。
+
+---
+
+### 2026-10-01 20:05:58  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish #FTSE100
+
+Bank of England MPC member Mann said the current policy stance is not tight enough.
+
+---
+
+### 2026-10-01 20:05:55  #其他
+
+英國貨幣政策委員會（MPC）成員曼恩：不能依靠風險溢價來承擔貨幣政策的作用，必須上調銀行利率。
+
+---
+
+### 2026-10-01 20:05:53  #MKT News #GBPUSD #Impact bullish
+
+Bank of England monetary policy committee member Mann said real and nominal financial conditions need to remain tight.
+
+---
+
+### 2026-10-01 20:05:40  #央行 #其他
+
+英國央行曼恩：實際和名義條件需要保持緊縮。
+
+---
+
+### 2026-10-01 20:05:36  #MKT News #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England's monetary policy committee member MANN said raising interest rates can ensure a sustainable return to 2%.
+
+---
+
+### 2026-10-01 20:05:32  #央行 #其他
+
+英國央行貨幣政策委員曼恩：當前的金融狀況“緊縮程度不足”。上調關鍵利率以彰顯對通脹目標的承諾，將壓低產出端成本。
+
+---
+
+### 2026-10-01 20:05:13  #國際
+
+味好美：美國部分地區的品類消費疲軟。
+
+---
+
+### 2026-10-01 20:05:12  #MKT News #Market Regions #Europe & UK
+
+Bank of England Monetary Policy Committee member Mann said a risk-management approach is appropriate given inflation risks.
+
+---
+
+### 2026-10-01 20:05:05  #國際
+
+歐盟向烏克蘭撥款450億歐元貸款，用於2027年。
+
+---
+
+### 2026-10-01 20:04:59  #央行 #其他
+
+英國央行委員曼恩：加息可確保通脹可持續地迴歸2%。
+
+---
+
+### 2026-10-01 20:04:54  #MKT News #GBPUSD #Impact bearish
+
+Mann, a Bank of England monetary policy committee member, said higher bond yields may reflect uncertainty about the Bank of England's policy.
+
+---
+
+### 2026-10-01 20:04:41  #其他
+
+阿根廷農牧工商業商會（CIARA-CEC）表示，阿根廷8月農產品出口收入同比增長17%，達32.3億美元。
+
+---
+
+### 2026-10-01 20:04:31  #市場
+
+滙豐關於黃金的觀點：維持2028年、2029年黃金均價預測不變，分別為每盎司5200美元、每盎司5300美元。
+
+---
+
+### 2026-10-01 20:04:19  #央行 #其他
+
+英國央行曼恩：鑑於通脹風險，風險管理策略是合適的。
+
+---
+
+### 2026-10-01 20:03:30  #MKT News
+
+SIMSEK said Turkey has been negotiating a free trade agreement with Gulf Cooperation Council members for years and that the current geopolitical backdrop could create conditions for signing.
+
+---
+
+### 2026-10-01 20:03:24  #市場
+
+波羅的海乾散貨指數上漲0.87%，至3140點。
+
+---
+
+### 2026-10-01 20:03:15  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+HSBC says gold likely to face further short-term downside pressure but may be nearing a bottom.
+
+---
+
+### 2026-10-01 20:03:02  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #DXY #Impact bearish
+
+Bank of England monetary policy committee member Mann said current financial conditions are 'not tight enough'.
+
+---
+
+### 2026-10-01 20:02:39  #市場
+
+滙豐：將2026年黃金平均價格預測從每盎司4560美元下調至4490美元。
+
+---
+
+### 2026-10-01 20:02:37  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish #XAUUSD
+
+High Council of Public Finance (HCFP) says France's public finances are "worrying" and the deficit target is already at its minimum.
+
+---
+
+### 2026-10-01 20:02:10  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+HSBC cuts its 2026 average gold price forecast to $4,490/oz from $4,560/oz.
+
+---
+
+### 2026-10-01 20:00:44  #MKT News #Important #EURUSD #Impact bearish #DXY #Impact bullish
+
+France's budget watchdog says the 2027 growth forecast is overly optimistic.
+
+---
+
+### 2026-10-01 20:00:40  #宏觀 #焦點
+
+【10月1日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.《求是》雜誌發表習近平總書記重要文章《加強普惠性、基礎性、兜底性民生建設》； 2.朝著全面建成社會主義現代化強國目標奮勇前進——習近平總書記在慶祝中華人民共和國成立77週年招待會上的重要講話引發熱烈反響； 3.央視快評：實現中華民族偉大復興勢不可擋——熱烈慶祝中華人民共和國成立77週年； 4.舉國同慶 首都天安門廣場隆重舉行升國旗儀式； 5.同升一面旗 共祝祖國好； 6.神舟二十三號航天員在太空為祖國送祝福； 7.國慶假期迎出行高峰 交通部門全力保障； 8.國慶假期 總檯節目豐富多彩； 9.國內聯播快訊： （1）第二十屆亞運會 中國隊繼續位列金牌榜榜首； （2）2026中國網球公開賽正式開賽； （3）2026國慶檔電影首日票房超1.5億元； 10.我駐外使館使團舉辦活動慶祝新中國成立77週年； 11.國際聯播快訊： （1）美媒稱美伊談判陷入僵局； （2）伊拉克宣佈美主導國際聯盟部隊結束任務； （3）一架赴以航班發生安全事件改道迫降； 12.神州錦繡。
+
+---
+
+### 2026-10-01 20:00:24  #其他
+
+阿波羅將每日定價機制擴充套件至其8500億美元信貸業務。
+
+---
+
+### 2026-10-01 20:00:17  #其他
+
+LinkHome Holdings Inc：LinkHome Holdings推出GPU市場2.0，擴大按需AI計算的獲取渠道。
+
+---
+
+### 2026-10-01 20:00:17  #MKT News #Commodities #Energy
+
+SIMSEK said higher energy prices have raised costs but he expects the challenges to remain manageable.
+
+---
+
+### 2026-10-01 20:00:08  #其他
+
+法國預算監督機構稱2027年增長預測過於樂觀。
+
+---
+
+### 2026-10-01 20:00:08  #MKT News #IBM.N #Impact bullish #NOW.N #CRM.N
+
+Accenture (ACN.N) upbeat annual sales forecast lifted U.S. software stocks in premarket trade: IBM (IBM.N) rose 5.7%, ServiceNow (NOW.N) rose 3%, Salesforce (CRM.N) rose 2.5%, Adobe (ADBE.O) rose 2.2%.
+
+---
+
+### 2026-10-01 19:59:42  #市場
+
+【河南省委書記到蜜雪冰城調研】據河南日報訊息，10月1日，國慶假期第一天，河南省委書記周祖翼在鄭州調研檢查節日期間安全穩定、值班值守、文旅市場服務保障等工作。 其中提到，周祖翼還來到蜜雪冰城總部，瞭解節假日市場供應、促進消費等情況，並與來自安徽、山東等地的遊客交流來豫旅行和購物體驗。他鼓勵企業堅持高質量發展、創新發展，以市場需求為導向，持續做優產品、做強品牌，不斷豐富消費場景、拓展消費市場，嚴把食品安全關口，更好滿足群眾高品質、多樣化的消費需求。
+
+---
+
+### 2026-10-01 19:58:35  #公司 #市場 #國際
+
+埃森哲釋出樂觀年度銷售預期後，美國軟體公司股價上漲。Intuit股價上漲2.3%，Atlassian股價上漲3.2%，Adobe股價上漲2.1%
+
+---
+
+### 2026-10-01 19:57:49  #MKT News
+
+U.S. Trade Representative Greer said the U.S. and Canada still have gaps on trade.
+
+---
+
+### 2026-10-01 19:57:43  #MKT News
+
+U.S. Trade Representative Greer said he has been discussing trade issues with Canadian counterparts.
+
+---
+
+### 2026-10-01 19:57:36  #MKT News
+
+U.S. Trade Representative Greer will meet his EU counterpart today to discuss diesel-related issues.
+
+---
+
+### 2026-10-01 19:57:25  #MKT News #Commodities #Energy
+
+U.S. Trade Representative Greer said he has discussed diesel reserves with France.
+
+---
+
+### 2026-10-01 19:57:15  #MKT News #Market Regions #Europe & UK #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. Trade Representative Greer said Europe should release some diesel stocks.
+
+---
+
+### 2026-10-01 19:57:06  #MKT News
+
+U.S. Trade Representative Greer said Europe must take action on excess capacity.
+
+---
+
+### 2026-10-01 19:57:00  #MKT News #Market Regions #Europe & UK
+
+U.S. Trade Representative Greer said the EU has implemented the trade terms agreed with the United States.
+
+---
+
+### 2026-10-01 19:56:24  #Trading Economics #Economy #Chile #Leading Economic Index #Importance 1
+
+Chile Economic Activity Falls for Second Month — Chile's IMACEC economic activity index fell 1.0% year-on-year in August 2026, following a 1.5% drop in July, marking the second consecutive month of contraction. Goods production declined 4.9%, dragged down by a 17.4% plunge in mining, particularly copper, amid lower ore grades, maintenance work and adverse weather. In contrast, other goods rose 4.9%, supported by higher electricity generation due to greater water availability, while manufacturing edged up 0.3%, as higher output of chemical and fishery products offset a drop in pulp and paper production. Trade activity rose 2.2%, driven by automotive and retail sales, while wholesale trade was flat. Services increased 0.8%, led by personal services, especially health, although restaurant and hotel activity declined. The non-mining IMACEC rose 1.4%. On a seasonally adjusted monthly basis, economic activity decreased 0.7%, following a downwardly revised 1.8% fall in July.
+
+---
+
+### 2026-10-01 19:56:23  #MKT News #ORCL.N
+
+Oracle (ORCL.N) will partner with King Faisal Specialist Hospital & Research Centre to advance healthcare innovation in Saudi Arabia.
 
 ---
 
@@ -11380,125 +12030,5 @@ US PCE Inflation Rises Less Than Expected in August — The US PCE price index r
 ### 2026-09-30 20:31:27  #Trading Economics #Economy #Chile #Retail Sales YoY #Importance 1
 
 Chile Retail Sales Growth Picks Up in August — Retail sales in Chile rose by 3.4% from a year ago in August 2026, picking up from an upwardly revised 2.5% gain in the previous month. Sales growth accelerated for motor vehicle parts, tires and accessories (15.2% vs 8.1% in July); construction materials, tools, hardware and paint (8.3% vs 0.9%); miscellaneous consumer goods (4.7% vs 3.8%) and electronics, home equipment and technological products (4.7% vs 4.5%). Additionally, sales rebounded for new light motor vehicles (8.9% vs -3.9%) and used light and commercial motor vehicles (2.5% vs -8.6%), while fuel sales were nearly flat (-0.2% vs -7.7%). In contrast, growth slowed for food (0.4% vs 3.6%); clothing, footwear and accessories (2.3% vs 3.3%) and pharmaceuticals, cosmetics and toiletries (0.8% vs 1.4%), while beverages and tobacco sales declined further (-5.0% vs -5.2%). On a seasonally adjusted basis, retail trade increased by 1.2%, rebounding from a downwardly revised 2.7% drop in the prior month.
-
----
-
-### 2026-09-30 20:31:26  #Trading Economics #Economy #United States #Core PCE Price Index MoM #Importance 1
-
-US Core PCE Prices Rise Less than Expected — The US core PCE price index, the Federal Reserve’s preferred measure of underlying inflation, increased 0.2% month-on-month in August 2026, coming in below the 0.3% rise expected by markets. The latest reading followed a downward revision to July’s figure, with the monthly increase now estimated at 0.1%, compared with the previously reported 0.2%. On an annual basis, core PCE inflation rose 3.0% in August, also undershooting expectations of 3.3%. Despite the softer-than-anticipated monthly and yearly readings, underlying price pressures remain above the Federal Reserve’s 2% inflation target. The data therefore provided some evidence of moderation in inflation, although the annual rate indicates that price growth has not yet returned to the central bank’s objective.
-
----
-
-### 2026-09-30 20:30:50  #經濟數據 #美國
-
-美國第二季度實際GDP年化季率終值為2.2%，預期1.5%，前值1.5%。
-
----
-
-### 2026-09-30 20:30:40  #經濟數據 #美國
-
-美國8月個人消費支出（PCE）環比增長0.9%，預估為0.9%。
-
----
-
-### 2026-09-30 20:23:40  #Trading Economics #Economy #Brazil #Producer Price Inflation MoM #Importance 1
-
-Brazil PPI Returns to Growth in August — Brazil’s producer prices rose 0.36% month over month in August 2026, reversing the 0.83% decline recorded in July and marking the first increase since April. Fourteen of the 24 sectors recorded price increases. After three consecutive months of deflation, the mining and quarrying sector returned to price growth, rising 4.33%, driven mainly by crude petroleum oils and copper ores and concentrates, crude or beneficiated. Food product prices rose 1.99%, the largest increase since November 2024, led by semi-milled or milled rice, whether polished or glazed, and fresh or chilled beef. After falling in July, metallurgy prices rose 2.13%, mainly due to steelmaking, non-ferrous metals and copper. By major economic category, capital goods prices edged lower, intermediate goods were unchanged, and consumer goods rose 0.96%. Producer prices rose 2.53% year over year and 3.47% year to date.
-
----
-
-### 2026-09-30 20:20:33  #Trading Economics #Economy #Chile #Copper Production #Importance 1
-
-Chile Copper Output Drops to Lowest Since 2011 — Chile’s copper production fell 12.8% year-on-year to 369.5 metric tons in August 2026, reaching its lowest level of output since February of 2011 and extending a 9.4% decline in the previous month. The decline reflects severe winter weather and port disruptions that affected production operations during the month, following storms that had already hit several northern mines in July. The sharp drop in output from Chile, the world’s largest copper producer, added to concerns over the physical market that has showed signs of tightness.
-
----
-
-### 2026-09-30 20:19:42  #Trading Economics #Economy #United States #ADP Employment Change #Importance 3
-
-US Private Sector Job Growth Tops Forecasts — Private businesses in the US added 90K jobs in September 2026, above market expectations of 70K, following a downwardly revised 36K in August. Hiring accelerated for the first time since May, led by education and health care (+55K) and leisure and hospitality (+22K). In contrast, financial activities (-16K) and professional and business services (-11K) showed weakness. Large companies added 14K jobs while those with fewer than 50 employees added 23K. "It's a strong report. After a three-month slowdown, job creation rebounded and pay growth remained solid", according to Nela Richardson, ADP.
-
----
-
-### 2026-09-30 20:18:01  #Trading Economics #Economy #South Africa #Balance of Trade #Importance 1
-
-South Africa Logs Widest Trade Surplus in 5 Months — South Africa's trade surplus rose to ZAR 20.5 billion in August 2026, the largest since March, from a downwardly revised ZAR 18 billion in the prior month. Imports fell 7.8% to a five-month low of ZAR 161.3 billion, amid broad-based declines across the five key import categories. Lower purchases were seen for original equipment components (-20%); chemical products (-16%); vehicles & transport equipments (-8%); machinery & electronics (-5%) and mineral products (-4%). Meanwhile, exports dropped by 5.8% to ZAR 182 billion, reflecting reduced shipments of vegetable products (-9%); mineral products (-9%); precious metals and stones (-9%), particularly platinum group metals (PGMs), gold; and zinc ores and concentrates; and machinery & electronics (-3%).
-
----
-
-### 2026-09-30 20:17:41  #Trading Economics #Economy #Serbia #Retail Sales YoY #Importance 1
-
-Serbia Retail Sales Growth Slows in August — Retail sales in Serbia rose by 6.3% year-on-year in August 2026, slowing from an 8.2% increase in the previous month. Sales increased across all categories, including food, beverages and tobacco (9.0%), automotive fuel in specialized stores (6.2%), and non-food products excluding automotive fuel (2.8%). From the previous month, real retail sales declined by 0.7%.
-
----
-
-### 2026-09-30 20:17:34  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Rises as Diesel Supply Tightens Ahead of Winter — Heating oil futures climbed above $4.70 per gallon, approaching the record $5.20 reached in mid-September, as tighter diesel supplies added pressure to fuel markets ahead of winter. Russia has extended its restrictions on most diesel exports through October, while also maintaining curbs on bunker fuel and gasoil shipments. The measures were introduced after Ukrainian attacks on Russian refineries reduced processing rates and have been repeatedly prolonged since July. Before the restrictions, Russia supplied about 10% of global seaborne diesel volumes, making the loss of those barrels particularly significant amid disruptions linked to the Strait of Hormuz. In the US, President Donald Trump is considering limiting diesel exports to contain domestic prices.
-
----
-
-### 2026-09-30 20:16:52  #Trading Economics #Economy #Serbia #Industrial Production #Importance 1
-
-Serbia Industrial Output Decline Eases in August — Industrial production in Serbia fell by 0.5% year-on-year in August 2026, easing from a 2.3% decline in July and marking the second consecutive month of contraction. Manufacturing output dropped by 1.8% (vs -1.6% in July), while electricity, gas, steam and air conditioning supply rose by 0.8% (vs -8.8%) and mining and quarrying increased by 6.7% (vs 3.0%). By economic destination, production of durable consumer goods fell by 12.1% (vs -7.9%), intermediate goods excluding energy by 1.3% (vs +0.3%), and non-durable consumer goods by 0.5% (vs -5.1%). In contrast, energy output rose by 0.8% (vs -7.5%), while capital goods edged up by 0.1% (vs 8.8%). On a seasonally adjusted monthly basis, industrial production declined by 0.6%, following a 0.3% increase in July, with manufacturing down 1.0%. In the January–August 2026 period, industrial production was 0.1% higher than in the same period a year earlier.
-
----
-
-### 2026-09-30 20:12:43  #Trading Economics #Economy #Chile #Industrial Production #Importance 1
-
-Chile Industrial Activity Contracts in August — Chile’s industrial production declined 5.7% year-on-year in August 2026, accelerating from a 5.1% fall in the previous month. The declined was led by a 11.7% fall in mining output, reflecting lower activity recorded in metallic mining (-16.9%) largely due to a 12.8% decline in copper extraction and processing as a storm that occurred in July disrupted production operations and left lingering effects throughout August. Conversely, non-metallic mining increased by 22.3%. Manufacturing output fell 2.6%, slowing from a 4.9% drop. Meanwhile, production in utilities rose 1%, accelerating from a 0.3% rise in the prior month. On a monthly basis, industrial production fell 2.2%, easing from a 3.8% decline.
-
----
-
-### 2026-09-30 20:07:37  #Trading Economics #Economy #Germany #Inflation Rate #Importance 3
-
-German Inflation Hits Highest Level Since 2023 — Germany’s annual inflation rate rose to 3.3% in September 2026, its highest level since December 2023 and above market expectations of 3.2%, according to preliminary estimates. The increase was driven by a renewed surge in energy inflation, which accelerated to 14.9%, its highest since February 2023, amid stalled US-Iran negotiations and higher crude oil prices. Food inflation also picked up to 0.4% from 0.1%, while services inflation eased to 2.7% from 2.8%. Core inflation, excluding energy and unprocessed food, held steady at 2.4%. The EU-harmonized inflation rate also rose more than expected to 3.3%, its highest since late 2023 and well above the ECB’s 2% target.
-
----
-
-### 2026-09-30 19:44:31  #Trading Economics #Economy #Brazil #Government Budget Value #Importance 1
-
-Brazil Budget Deficit Exceeds Expectations — The Brazilian government posted a nominal budget deficit of BRL 115.9 billion in August 2026, widening from BRL 91.5 billion in the same month a year earlier and exceeding market expectations of a BRL 109.4 billion shortfall. The federal government recorded a BRL 14.7 billion deficit, while regional governments posted a BRL 2.7 billion surplus and state-owned companies registered a BRL 2 billion surplus. Meanwhile, gross government debt rose to 82.9% of GDP in August, reaching the same level as recorded in October 2021, up from 82.5% in the previous month but falling short of market forecasts of a further increase to 83.1%. Over the 12 months to August, the nominal public sector deficit narrowed to 0.62% of GDP from 0.67% in the previous month.
-
----
-
-### 2026-09-30 19:35:53  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Jabil Circuit earnings above expectations at 4.40 USD — Jabil Circuit (JBL) released earnings per share at 4.40 USD, compared to market expectations of 4.06 USD.
-
----
-
-### 2026-09-30 19:32:46  #Trading Economics #Markets #Germany #Stock Market #Importance 0
-
-DAX Turns Slightly Negative — Frankfurt's DAX 40 gave up early gains to trade slightly down around 25,300 on Wednesday afternoon, amid the renewed increase in oil prices and inflation concerns. Uncertainty over US-Iran negotiations kept market sentiment fragile. In the latest developments, Iranian government spokesperson Fatemeh Mohajerani said Tehran had received a US proposal on reopening the Strait of Hormuz, following Iran’s own conditions set out last week. Meanwhile, attention was also focused on inflation data from Europe and the US, with signs of strengthening price pressures across the eurozone adding to pressure on the ECB to keep monetary policy tighter for longer. Media, banks, insurers and industrials faced stronger pressure, while techs lost some momentum. Commerzbank (-2.9%) led losses among stocks, followed by Siemens, Allianz, Vonovia, Heidelberg Materials and SAP, each down over 1%. The index was on track for a 3.6% monthly decline but a 1.3% quarterly gain.
-
----
-
-### 2026-09-30 19:32:17  #Trading Economics #Markets #commodity #Importance 0
-
-Milk Hits 34-week Low — Milk decreased to 14.89 USD/CWT, the lowest since February 2026. Over the past 4 weeks, Milk lost 10.44%, and in the last 12 months, it decreased 14.83%.
-
----
-
-### 2026-09-30 19:12:56  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Closes Lower, Posts Steep Monthly Loss — India’s BSE Sensex pared its early advance to close marginally down at 72,480 on Wednesday, after a volatile session, extending its losing streak for the third day. Firm crude oil prices, elevated global bond yields and sustained foreign fund outflows continued to weigh on investor sentiment. The overall market tone remains cautious, amid continued geopolitical uncertainty in the Middle East and the prospect of elevated interest rates for longer. Among individual stocks, Eternal, Sun Pharma, Titan, Adani Ports, Tata Steel and HDFC Bank were among the major laggards, with losses between 1.4%-2.3%. On the upside, Kotak Mahindra Bank (2.9%), ICICI Bank (2.3%), InterGlobe Aviation (2.1%) and Axis Bank (1.4%) recorded the largest gains. The benchmark index fell 5.8% in September, its steepest monthly decline since March, and posted a 5.2% loss in the third quarter.
-
----
-
-### 2026-09-30 19:09:24  #Trading Economics #Economy #United States #Mortgage Applications #Importance 1
-
-US Mortgage Applications Fall for 4th Week — US mortgage applications fell 6% in the week ending September 25, extending the decline to a fourth consecutive week as borrowing costs continued to rise. The average rate on 30-year fixed mortgages with conforming balances increased to 7.30% from 7.12%, reaching its highest level since November 2023. Higher rates have particularly discouraged refinancing, with applications dropping 9% and its share of total mortgage activity falling to 38.3% from 39.3%. Government-backed refinancing was even weaker, declining 13% as both FHA and VA applications recorded double-digit falls, according to MBA economist Joel Kan. Demand for home purchases also weakened, with applications down 4% on the week. Buyers are facing the combined pressure of elevated mortgage rates and continued annual increases in home prices. Meanwhile, adjustable-rate mortgages, which offer rates roughly 80 basis points below fixed loans, accounted for 10.3% of applications, the highest proportion since October 2025.
-
----
-
-### 2026-09-30 19:07:03  #Trading Economics #Economy #United States #Mortgage Rate #Importance 2
-
-US Mortgage Rates Hit Highest Level Since Late 2023 — The average 30-year fixed mortgage rate rose 18 bps to 7.30% in the week ended September 25, its highest level since late November 2023, according to the Mortgage Bankers Association. The increase followed another rise in Treasury yields, with the 10-year note near its highest level since 2007 amid persistent energy-driven inflation, a resilient US economy and hawkish Fed signals that strengthened expectations for further rate hikes. Markets are pricing in at least one more Fed hike by year-end, while mortgage rates have risen more than 120 bps since US-Israeli strikes against Iran began in late February. Meanwhile, total mortgage applications fell 6%, marking a fourth straight weekly decline. Refinancing applications dropped 8.7%, while purchase applications fell 4.3%.
-
----
-
-### 2026-09-30 18:56:11  #Trading Economics #Economy #India #Government Budget Value #Importance 1
-
-India's Fiscal Deficit Widens to 41.9% of Full-Year Target — India’s fiscal deficit widened to INR 7.1 trillion in April-August 2026-27, up from INR 6.0 trillion a year earlier, reaching 41.9% of the full-year target, compared with 38.1% previously. Total expenditure rose 10.5% year-on-year to INR 20.8 trillion, while capital spending increased to INR 5.1 trillion from INR 4.3 trillion, reaching 41.7% of the annual target. Total receipts rose 6.6% to INR 13.7 trillion, supported by higher net tax revenue of INR 8.4 trillion, up from INR 8.1 trillion a year earlier. Non-tax revenue also increased to INR 4.5 trillion from INR 4.4 trillion. India is targeting a fiscal deficit of INR 17.0 trillion, or 4.3% of GDP, for 2026-27.
 
 ---
