@@ -1,7 +1,171 @@
 {
-  "updated": "2026-10-06 22:45:12",
-  "count": 9831,
+  "updated": "2026-10-06 22:49:06",
+  "count": 9840,
   "items": [
+    {
+      "id": "5128877",
+      "time": "2026-10-06 22:47:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股儲存股跌幅擴大，希捷科技跌超8%，西部資料跌近7%，SK海力士跌超3%。"
+    },
+    {
+      "id": "mkt:01a111af-1c7e-7ee0-a7bf-22e8517c74b0",
+      "time": "2026-10-06 22:47:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "American Century Investments said market pricing for as many as four Fed rate hikes over the next year is too aggressive."
+    },
+    {
+      "id": "5128876",
+      "time": "2026-10-06 22:47:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國世紀投資：低層級信貸市場裂痕已現，CCC評級企業債尤甚。"
+    },
+    {
+      "id": "mkt:01a111ae-c991-7ee0-a7bf-19a41c87c6cc",
+      "time": "2026-10-06 22:47:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "American Century Investments said a multi-trillion-dollar AI spending boom is unrealistic and could trigger a buyers' strike."
+    },
+    {
+      "id": "5128875",
+      "time": "2026-10-06 22:47:02",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美國世紀投資公司：市場定價押注美聯儲未來一年最多加息四次，這一預期過於激進。5.25%的10年期美國國債收益率對買傢俱有吸引力。人工智慧相關的信貸繁榮是政府債券收益率飆升的主要因素。"
+    },
+    {
+      "id": "mkt:01a111ae-74e2-7ee0-a7bf-13f886df9c78",
+      "time": "2026-10-06 22:46:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "American Century Investments: AI-related credit boom is the primary driver behind the surge in government bond yields."
+    },
+    {
+      "id": "5128874",
+      "time": "2026-10-06 22:46:47",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲將評估今年對固定美元資產門檻的更新。"
+    },
+    {
+      "id": "mkt:01a111ae-5a83-7ee0-a7bf-08ea27d77a60",
+      "time": "2026-10-06 22:46:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "American Century Investments said the 10-year US Treasury yield at 5.25% is attractive to buyers."
+    },
+    {
+      "id": "mkt:01a111ad-c21d-7ee0-a7bf-0525acb962f3",
+      "time": "2026-10-06 22:46:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Bowman said the Fed's new framework will be organized into five regions covering all states and will no longer follow a model led by regional Federal Reserve Banks."
+    },
+    {
+      "id": "5128873",
+      "time": "2026-10-06 22:45:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼稱新架構將橫跨各州設立五個大區，打破以地區儲備銀行為主導的模式。"
+    },
+    {
+      "id": "5128872",
+      "time": "2026-10-06 22:45:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼在講話中表示美聯儲正重組銀行業監管框架。"
+    },
+    {
+      "id": "mkt:01a111ad-7e34-7ee0-a7be-f8aeef6a5ca3",
+      "time": "2026-10-06 22:45:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman said the Fed will consider updating banks' asset-size thresholds later this year to implement stricter rules."
+    },
+    {
+      "id": "5128871",
+      "time": "2026-10-06 22:45:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼稱，美聯儲計劃全面改革銀行監管職責。"
+    },
+    {
+      "id": "5128870",
+      "time": "2026-10-06 22:45:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼表示，美聯儲將於今年晚些時候考慮上調適用更嚴格監管規則的銀行資產門檻。"
+    },
+    {
+      "id": "mkt:01a111ad-4869-7ee0-a7be-f7612f48534a",
+      "time": "2026-10-06 22:45:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Governor Bowman, in prepared remarks on bank regulation and supervision, did not comment on monetary policy or the economic outlook."
+    },
+    {
+      "id": "5128869",
+      "time": "2026-10-06 22:45:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通CEO戴蒙稱AI帶來未知漏洞 Mythos問世後風險增10倍】摩根大通執行長傑米·戴蒙表示，Anthropic PBC的人工智慧模型Mythos大幅增加了全球網路安全風險。AI帶來的風險“在Mythos出現後增加了10倍”，戴蒙週二接受採訪時表示。“AI帶來了我們此前不知道的漏洞，而在此之前，我們一直都很擔心網路安全問題。”“不利的一面顯然就是你看到的有關AI智慧體、Mythos以及所有這些可能製造麻煩的東西，這種擔憂是合理的，是真實存在的，”戴蒙說。“我不會因為‘這是否構成生存威脅’而陷入恐慌。我們在做的是捲起袖子，著手解決問題。”在這場涉及廣泛話題的採訪中，戴蒙還表示，資料中心應該建在當地社群支援的地方。他說：“有很多州願意接納，而且擁有電力供應。”"
+    },
     {
       "id": "mkt:01a111ab-f134-7ee0-a7be-ea87142c15f9",
       "time": "2026-10-06 22:44:03",
@@ -90618,66 +90782,6 @@
         "市場"
       ],
       "text": "ICE紐約可可期貨下跌近5%，至每公噸5327美元。"
-    },
-    {
-      "id": "mkt:01a0eda2-b961-7338-ab13-a816dbf95175",
-      "time": "2026-09-29 22:47:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's Channel 12 reports Prime Minister Netanyahu is set to hold a security meeting shortly."
-    },
-    {
-      "id": "5119086",
-      "time": "2026-09-29 22:47:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑普特：調整2026年度定增方案 募資額不超13.73億元】傑普特公告稱，公司2026年9月18日召開第四屆董事會第十八次會議，審議透過調整2026年度向特定物件發行A股股票方案等相關議案，相關議案無需提交股東會審議。調整後擬募集資金總額不超過13.73億元，將投向高密度光互聯產品生產建設、總部及研發中心升級建設、補充流動資金專案。此外，公司持股5%以上股東同聚同源已完成減持計劃，減持後持股比例為12.13%，公司實控人黃治家及其一致行動人合計持股比例降至34.01%，實控人未發生變更。"
-    },
-    {
-      "id": "5119085",
-      "time": "2026-09-29 22:46:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮釋出 AMERICA.GOV 情況說明書。"
-    },
-    {
-      "id": "5119084",
-      "time": "2026-09-29 22:46:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【生態環境部部長黃潤秋會見加拿大環境與氣候變化部部長達布魯辛】9月29日，生態環境部部長黃潤秋在京會見中國環境與發展國際合作委員會外方執行副主席、加拿大環境與氣候變化部部長達布魯辛。雙方圍繞中加環境領域合作、應對氣候變化和生物多樣性保護國際多邊程序、塑膠汙染國際文書談判等議題進行深入交流，並一致同意繼續開展中加環境與氣候部長級對話。"
-    },
-    {
-      "id": "te:markets:587773",
-      "time": "2026-09-29 22:46:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Fall for 3rd Session — US natural gas prices slipped more than 2% to around $3.04 per MMBtu on Tuesday, marking a third consecutive decline as forecasts pointed to limited heating and cooling demand. The NOAA’s latest outlook calls for mostly near-normal temperatures across the eastern US over the next two weeks, reducing expectations for a significant increase in gas-fired power consumption. Meanwhile, TC Energy lifted force majeure on Sunday after completing pipeline repairs, which should allow additional gas from the Marcellus and Utica shale regions to reach the market. Feedgas deliveries to nine major US export facilities averaged 18 bcfd in September, up from 17.3 bcfd in August. Production has averaged 112.3 bcfd this month, although daily output has recently eased. Analysts estimate inventories were 2.4% above normal in the week through September 25, compared with 2.9% previously."
-    },
-    {
-      "id": "5119083",
-      "time": "2026-09-29 22:45:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丁二烯橡膠連續主力合約日內漲4%，現報16020.00元。"
-    },
-    {
-      "id": "5119082",
-      "time": "2026-09-29 22:45:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：在未來的歲月裡，當人們書寫我們國家的歷史時，會把針對伊朗的行動列為我們所做過的最重要的事情之一。"
     }
   ]
 }

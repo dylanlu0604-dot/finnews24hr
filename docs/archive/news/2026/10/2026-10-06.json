@@ -1,7 +1,171 @@
 {
   "date": "2026-10-06",
-  "count": 1501,
+  "count": 1517,
   "items": [
+    {
+      "id": "5128877",
+      "time": "2026-10-06 22:47:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股儲存股跌幅擴大，希捷科技跌超8%，西部資料跌近7%，SK海力士跌超3%。"
+    },
+    {
+      "id": "mkt:01a111af-1c7e-7ee0-a7bf-22e8517c74b0",
+      "time": "2026-10-06 22:47:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "American Century Investments said market pricing for as many as four Fed rate hikes over the next year is too aggressive."
+    },
+    {
+      "id": "5128876",
+      "time": "2026-10-06 22:47:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國世紀投資：低層級信貸市場裂痕已現，CCC評級企業債尤甚。"
+    },
+    {
+      "id": "mkt:01a111ae-c991-7ee0-a7bf-19a41c87c6cc",
+      "time": "2026-10-06 22:47:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "American Century Investments said a multi-trillion-dollar AI spending boom is unrealistic and could trigger a buyers' strike."
+    },
+    {
+      "id": "5128875",
+      "time": "2026-10-06 22:47:02",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美國世紀投資公司：市場定價押注美聯儲未來一年最多加息四次，這一預期過於激進。5.25%的10年期美國國債收益率對買傢俱有吸引力。人工智慧相關的信貸繁榮是政府債券收益率飆升的主要因素。"
+    },
+    {
+      "id": "mkt:01a111ae-74e2-7ee0-a7bf-13f886df9c78",
+      "time": "2026-10-06 22:46:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "American Century Investments: AI-related credit boom is the primary driver behind the surge in government bond yields."
+    },
+    {
+      "id": "5128874",
+      "time": "2026-10-06 22:46:47",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲將評估今年對固定美元資產門檻的更新。"
+    },
+    {
+      "id": "mkt:01a111ae-5a83-7ee0-a7bf-08ea27d77a60",
+      "time": "2026-10-06 22:46:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "American Century Investments said the 10-year US Treasury yield at 5.25% is attractive to buyers."
+    },
+    {
+      "id": "mkt:01a111ad-c21d-7ee0-a7bf-0525acb962f3",
+      "time": "2026-10-06 22:46:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Bowman said the Fed's new framework will be organized into five regions covering all states and will no longer follow a model led by regional Federal Reserve Banks."
+    },
+    {
+      "id": "5128873",
+      "time": "2026-10-06 22:45:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼稱新架構將橫跨各州設立五個大區，打破以地區儲備銀行為主導的模式。"
+    },
+    {
+      "id": "5128872",
+      "time": "2026-10-06 22:45:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼在講話中表示美聯儲正重組銀行業監管框架。"
+    },
+    {
+      "id": "mkt:01a111ad-7e34-7ee0-a7be-f8aeef6a5ca3",
+      "time": "2026-10-06 22:45:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Bowman said the Fed will consider updating banks' asset-size thresholds later this year to implement stricter rules."
+    },
+    {
+      "id": "5128871",
+      "time": "2026-10-06 22:45:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼稱，美聯儲計劃全面改革銀行監管職責。"
+    },
+    {
+      "id": "5128870",
+      "time": "2026-10-06 22:45:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼表示，美聯儲將於今年晚些時候考慮上調適用更嚴格監管規則的銀行資產門檻。"
+    },
+    {
+      "id": "mkt:01a111ad-4869-7ee0-a7be-f7612f48534a",
+      "time": "2026-10-06 22:45:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Governor Bowman, in prepared remarks on bank regulation and supervision, did not comment on monetary policy or the economic outlook."
+    },
+    {
+      "id": "5128869",
+      "time": "2026-10-06 22:45:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通CEO戴蒙稱AI帶來未知漏洞 Mythos問世後風險增10倍】摩根大通執行長傑米·戴蒙表示，Anthropic PBC的人工智慧模型Mythos大幅增加了全球網路安全風險。AI帶來的風險“在Mythos出現後增加了10倍”，戴蒙週二接受採訪時表示。“AI帶來了我們此前不知道的漏洞，而在此之前，我們一直都很擔心網路安全問題。”“不利的一面顯然就是你看到的有關AI智慧體、Mythos以及所有這些可能製造麻煩的東西，這種擔憂是合理的，是真實存在的，”戴蒙說。“我不會因為‘這是否構成生存威脅’而陷入恐慌。我們在做的是捲起袖子，著手解決問題。”在這場涉及廣泛話題的採訪中，戴蒙還表示，資料中心應該建在當地社群支援的地方。他說：“有很多州願意接納，而且擁有電力供應。”"
+    },
     {
       "id": "mkt:01a111ab-f134-7ee0-a7be-ea87142c15f9",
       "time": "2026-10-06 22:44:03",
