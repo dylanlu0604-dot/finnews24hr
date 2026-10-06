@@ -1,7 +1,1557 @@
 {
   "date": "2026-10-06",
-  "count": 238,
+  "count": 407,
   "items": [
+    {
+      "id": "mkt:01a10e9e-2d62-7ee0-a7ab-63c3e2d17494",
+      "time": "2026-10-06 08:30:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong S&P Global Manufacturing PMI 49.2 in September, down from 49.5 previously."
+    },
+    {
+      "id": "mkt:01a10e9e-0892-7ee0-a7ab-5aedc7c15d3b",
+      "time": "2026-10-06 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Manufacturing PMI (Sep) | actual 49.2 | previous 49.5"
+    },
+    {
+      "id": "5127261",
+      "time": "2026-10-06 08:29:19",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通稱韓國股市有望有序追趕AI復甦後行情】摩根大通指出，考慮到投資者持倉結構和盈利增長，韓國股市在7月AI/記憶體復甦後的回撥可能比以往的AI反彈週期更為有序。 分析師包括Tony Lee在一份報告中寫道，當前走勢“看起來比爆發式更受控制”，並引用了“改善的Gamma背景”來降低機械放大波動及每股收益修正風險。 儘管韓國記憶體基本面有所改善，但其在7月AI/記憶體復甦後仍處於落後狀態，仍有空間進行追趕，尤其是當高收益率、油價以及亞洲市場風險偏好下降等宏觀經濟因素趨於穩定時。 韓國9月份波動性環境有所改善，使交易商在股票上的長Gamma頭寸達到約4.3億美元，這是過去一年以來最長的Gamma持倉。 “由於看漲期權端價格偏高，我們認為透過具有豐富凸性特徵的結構性產品持有KOSPI2看漲敞口最為合適。”在三星和SK海力士第三季度財報釋出之前，分析師認為“HBM需求、定價與產品組合、匯率以及資本支出管控和股東回報更新是關鍵催化劑，市場存在大幅波動的可能”。"
+    },
+    {
+      "id": "5127259",
+      "time": "2026-10-06 08:29:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【強颱風“彩雲”將向東北方向移動，強度逐漸減弱】據@中國天氣 訊息，今年第27號颱風“彩雲”（強颱風級）的中心今天早晨5點鐘位於距離日本東京東南方向約945公里的海面上，中心附近最大風力14級（45米/秒），中心最低氣壓為950百帕。預計，“彩雲”將以每小時30-35公里的速度向東北方向移動，強度逐漸減弱。"
+    },
+    {
+      "id": "5127250",
+      "time": "2026-10-06 08:27:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人權理事會透過中國提出的人人享有無障礙決議】聯合國人權理事會第63屆會議5日協商一致透過中國代表47國提出的“無障礙建設促進所有人享有人權”決議。中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德在介紹決議草案時表示，無障礙環境建設為各類群體平等便捷參與社會生活、充分實現各項人權提供重要保障。本次決議草案著眼人口老齡化，致力於推動無障礙和適老化建設；聚焦人工智慧等新興技術帶來的機遇和挑戰，呼籲各國在新興數字技術開發使用中，堅持創新、包容、開放、公平、安全、可靠等原則，促進無障礙資訊交流。"
+    },
+    {
+      "id": "5127249",
+      "time": "2026-10-06 08:26:34",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通表示，韓國股市有望有序地追趕人工智慧領域的復甦行情。"
+    },
+    {
+      "id": "te:markets:589680",
+      "time": "2026-10-06 08:24:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Pressured as Dollar, Yields Weigh — Gold held below $4,150 an ounce on Tuesday, pinned near two-month lows as a stronger dollar and surging Treasury yields outweighed support from softer US jobs data and reduced expectations for an October rate hike by the Federal Reserve. The dollar strengthened largely as the euro weakened amid rising political uncertainty and fiscal concerns across Europe. Treasury yields also climbed to fresh 24-year highs as the global bond selloff continued, driven by mounting fiscal risks and persistent inflation concerns. ISM data showed that cost pressures in the US services sector increased at the fastest pace in more than four years last month. Meanwhile, markets are pricing in roughly a 78% probability that the Fed will keep interest rates unchanged this month following weaker-than-expected US jobs data. Elsewhere, oil prices declined on signs of increased supply from the Middle East, easing concerns over inflation and higher interest rates."
+    },
+    {
+      "id": "5127248",
+      "time": "2026-10-06 08:24:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本上市巴西ETF延續週一漲勢，博索納羅之子支援率領先提振行情】一隻在日本上市的巴西股票交易型開放式指數基金週二上漲3.4%，延續週一12%的漲幅。弗拉維奧・博索納羅意外成為10月25日第二輪總統選舉的熱門勝出人選，市場情緒受到提振。"
+    },
+    {
+      "id": "5127244",
+      "time": "2026-10-06 08:22:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍埃爾塞貢多煉油廠發生計劃外火炬燃燒事件。"
+    },
+    {
+      "id": "5127243",
+      "time": "2026-10-06 08:22:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美調查3月份駐科威特基地遭襲事件 美軍少校：預警被無視】今年3月1日上午，美國、以色列對伊朗發動大規模空襲次日，伊朗在反擊行動中發射無人機，打擊了科威特南部舒艾拜港的美軍基地，造成美軍6人死亡，此外還有數十人受傷。近日，經歷了那場軍事打擊的數十名美軍人員接受採訪。據他們當中的美軍軍官透露，遭襲前就有評估報告顯示，該處美軍設施——一座帶有木牆的長方形建築“極易受到無人機襲擊”，但這一警告被置若罔聞。而且當時該基地的防衛措施根本就防不住無人機襲擊。還有接受採訪的美軍軍官稱，遭襲後現場一片混亂，他們當中的一些傷者能及時去醫院接受救治，完全靠的是“一些人的手機還能用、還能透過谷歌查詢附近醫院”。有訊息稱，美國軍方早在今年6月就已完成了對舒艾拜港基地遭襲一事的調查，但一直未釋出相關報告，理由是“需要對敏感資訊進行編輯”。對這一最新訊息，美國軍方也拒絕發表評論。（央視）"
+    },
+    {
+      "id": "5127242",
+      "time": "2026-10-06 08:21:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "波音防務：我們獲得了一份多年期合同，將透過2035年將PAC-3 MSE導引頭生產量增加三倍。這份合同正式確立了我們與戰爭部的七年協議，旨在加強全球防空和導彈防禦，同時支援美國製造業。"
+    },
+    {
+      "id": "mkt:01a10e94-2247-7ee0-a7ab-51afac811f36",
+      "time": "2026-10-06 08:19:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI erased its opening gains and is trading down 0.2%."
+    },
+    {
+      "id": "5127230",
+      "time": "2026-10-06 08:18:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "南亞科9月銷售額450.9億元臺幣，增長576.6％。"
+    },
+    {
+      "id": "mkt:01a10e93-300e-7ee0-a7ab-4f9f3cc85807",
+      "time": "2026-10-06 08:18:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China seawater desalination capacity reaches 3.077 mln t/day】China's total seawater desalination capacity has reached 3.077 mln t/day, the Ministry of Natural Resources said. Built capacity is 3.077 mln t/day; proposed and projects under construction exceed 1.0 mln t/day. In July the NDRC, Ministry of Natural Resources and Ministry of Water Resources issued a Seawater Desalination Industry Development Action Plan targeting 4.5 mln t/day by 2030, implying more than 1.5 mln t/day of additional capacity."
+    },
+    {
+      "id": "mkt:01a10e92-d35f-7ee0-a7ab-416d01c765db",
+      "time": "2026-10-06 08:17:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Australian treasurer says rising global bond yields will pressure federal budget】Australian Treasurer Jim Chalmers warned on Tuesday that rising global bond yields are lifting debt refinancing costs and will put upward pressure on the federal budget. He said some low-cost debt maturing will be replaced by higher-cost borrowing and that he will update the national budget before year-end to reflect the impact of elevated borrowing costs."
+    },
+    {
+      "id": "5127227",
+      "time": "2026-10-06 08:17:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合指數回吐開盤漲幅；最新跌0.2%，報6988.50點。"
+    },
+    {
+      "id": "5127226",
+      "time": "2026-10-06 08:17:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國海水淡化日處理能力突破300萬噸】從自然資源部瞭解到，截至目前，我國海水淡化總規模已達到每日307.7萬噸。目前，全國已建海水淡化工程總規模為307.7萬噸/日，據不完全統計，擬建和在建總規模超過100萬噸/日。今年7月，國家發展改革委、自然資源部、水利部聯合釋出《海水淡化產業發展行動方案》，促進海水淡化規模化利用，力爭到2030年，全國海水淡化工程總規模將達到450萬噸/日，新增海水淡化工程規模150萬噸/日以上。"
+    },
+    {
+      "id": "mkt:01a10e8f-1594-7ee0-a7ab-3ae0408641e5",
+      "time": "2026-10-06 08:13:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump signs executive order easing restrictions on tax-exempt red diesel use】Trump on Monday in Grand Island, Nebraska signed an executive order easing limits on tax-exempt red‑dyed diesel, saying it will \"formally remove the off‑highway requirement, allowing anyone for any reason to purchase tax‑exempt red diesel.\""
+    },
+    {
+      "id": "5127194",
+      "time": "2026-10-06 08:10:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普承諾將用個人資金與政治行動委員會資金支付讚美他的廣告費用】美國總統特朗普總統承諾，將用自己的個人資金以及超級政治行動委員會的資金來支付影片廣告費用，以回應公眾對這些由納稅人出資投放的廣告內容所引發的道德擔憂。特朗普週一在社交媒體上表示：“激進左翼對我投放廣告一事感到不滿。我認為這些廣告是對偉大美國的正面宣傳，並且用美國資金來支付廣告費用。”他補充道：“這是相當常規的操作。但就算這麼做，他們也不會滿意。因此，我決定投放愛國主題廣告等系列宣傳內容，由我個人，以及我為MAGA Inc.（其核心超級政治行動委員會）籌集的資金自行承擔費用。”白宮此前曾為這些廣告辯護。白宮稱這些廣告屬於公共服務公告，旨在鼓勵美國人熱愛祖國。白宮還表示，特朗普不會參加11月中期選舉的競選，這些廣告並未鼓動選民支援任何人。民主黨及一家監督機構表示，這些影片可能違反相關支出法律，法律禁止將資金用於“宣傳或鼓吹”類用途，同時也違背倫理準則。上月末，監督組織“公共公民”已向獨立的政府問責局與特別檢察官辦公室提交投訴。特朗普及其共和黨面臨在下月選舉中失去國會控制權的風險。總統支援率處於歷史低位，民眾對其經濟政策普遍不滿，尤其是高物價正在擠壓美國家庭的生活。"
+    },
+    {
+      "id": "5127139",
+      "time": "2026-10-06 08:07:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：向農民和牧場主提供了120億美元的救濟金。"
+    },
+    {
+      "id": "5127126",
+      "time": "2026-10-06 08:05:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本市場巴西ETF上漲2.4%。"
+    },
+    {
+      "id": "te:economy:589679",
+      "time": "2026-10-06 08:04:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Consumer Confidence MoM",
+        "Importance 2"
+      ],
+      "text": "Australia Consumer Sentiment Weakens for 2nd Straight Month — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index fell 4.7% mom to a six-month low of 80.4 in October 2026, slowing from a 5.2% decline in the prior month while marking a second straight month of decline. Confidence remained under pressure from higher fuel and interest rates, as views on household finances weakened, with assessments of finances over the past year falling 8.0% to 66.9, while expectations for the next 12 months declined 6.4% to 88.4. Economic sentiment was also subdued, with the one-year outlook slipping 1.6% to 78.3 and the five-year outlook edging down 0.4% to 85.5. The index measuring whether it was a good time to buy major household items fell 7.1% to 83.0, while unemployment expectations rose 1.9% to 142.1. Westpac economist Matthew Hassan said previously flagged upside risks to inflation were materialising, while the RBA was also wary of demand pressures from the AI and data-centre boom. He expects another rate hike at the RBA’s November meeting."
+    },
+    {
+      "id": "5127112",
+      "time": "2026-10-06 08:04:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普簽署行政令，放寬免稅柴油使用限制以降低成本】美國總統特朗普當地時間週一簽署一項行政令，放寬一類免稅柴油的使用限制。這是他在11月中期選舉前，為削減該燃料成本推出的最新舉措。特朗普在內布拉斯加州格蘭德艾蘭的一場活動上籤署該行政令。這是選舉前為期一個月的造勢衝刺活動的一環，他將這項舉措稱作“前所未有的降成本行動”。特朗普稱，該措施將“正式取消非道路使用限制，允許任何人出於任何理由購買免稅紅染柴油。”俄羅斯與中東地區的戰爭壓縮了煉油產能、減少全球石油製品運輸量，柴油價格大幅上漲。本次舉措是總統為應對柴油高成本而採取的最新行動。柴油高價在美國內陸各州尤為敏感，該燃料為鄉村社群提供能源，也用於驅動農戶的農機裝置。"
+    },
+    {
+      "id": "mkt:01a10e85-f67c-7ee0-a7ab-306b13fe9bd4",
+      "time": "2026-10-06 08:03:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "10-year JGB yield rose 3 bps to 3.115%."
+    },
+    {
+      "id": "5127106",
+      "time": "2026-10-06 08:02:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上升3個基點至3.115%。"
+    },
+    {
+      "id": "mkt:01a10e84-e286-7ee0-a7ab-2f7bf1d7c190",
+      "time": "2026-10-06 08:02:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 2-year government bond yield rose 2 bps to 1.925%."
+    },
+    {
+      "id": "5127101",
+      "time": "2026-10-06 08:02:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國海上貿易行動辦公室：連日來多艘船隻在霍爾木茲海峽遭襲】根據英國海上貿易行動辦公室5日釋出的多份通報，連日來，有4艘船隻在霍爾木茲海峽遭襲，另有1艘油輪被伊朗伊斯蘭革命衛隊勸返。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a10e83-fc0a-7ee0-a7ab-23b3021d27e7",
+      "time": "2026-10-06 08:01:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 86.96 points, or 0.12%, at 69,859.90 on Tuesday, Oct. 6."
+    },
+    {
+      "id": "mkt:01a10e83-f57a-7ee0-a7ab-1fc444e5fe19",
+      "time": "2026-10-06 08:01:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI opened 27.37 points higher, up 0.39%, at 7,031.11 on Tuesday, Oct. 6."
+    },
+    {
+      "id": "5127076",
+      "time": "2026-10-06 08:00:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲0.6%，至7044.67點。"
+    },
+    {
+      "id": "5127075",
+      "time": "2026-10-06 08:00:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報69954.61點，漲幅0.01%。"
+    },
+    {
+      "id": "5127058",
+      "time": "2026-10-06 07:58:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國代表點名警告英澳日等國】當地時間10月5日下午，北京時間今天（10月6日）凌晨，中國常駐聯合國副代表孫磊大使在第81屆聯大三委一般性辯論中，針對西方國家的無端指責進行答辯發言。孫磊大使表示，英國、澳大利亞、日本、愛爾蘭、捷克、立陶宛代表在發言中惡意詆譭中國人權狀況，中方表示強烈不滿和堅決反對。這些國家自以為高人一等，動輒擺出一副“人權教師爺”的做派。但其國內人權問題突出，他們根本沒有資格奢談人權，更無權對中國說三道四。中方奉勸少數國家停止編造散佈涉華謊言，停止借人權問題搞政治操弄，否則只會搬起石頭砸自己的腳。（CCTV國際時訊）"
+    },
+    {
+      "id": "5127057",
+      "time": "2026-10-06 07:58:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國呼籲葉門衝突各方保持克制】當地時間5日，聯合國秘書長副發言人法爾漢·哈克表示，聯合國秘書長古特雷斯對葉門局勢急劇升級深感關切，敦促衝突各方保持最大限度剋制，並強調各方必須遵守國際人道法，保護平民和民用基礎設施。古特雷斯同時呼籲有關各方繼續同聯合國葉門問題特使開展建設性接觸，透過談判尋求包容性的政治解決方案。"
+    },
+    {
+      "id": "mkt:01a10e7f-cca8-7ee0-a7ab-1487825a0294",
+      "time": "2026-10-06 07:56:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will sign an order tonight to waive off-road restrictions and allow anyone to purchase tax-free red-dyed diesel."
+    },
+    {
+      "id": "5127051",
+      "time": "2026-10-06 07:55:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：今晚我將簽署命令，取消非公路使用要求，允許任何人購買免稅的紅色染色柴油。"
+    },
+    {
+      "id": "5127050",
+      "time": "2026-10-06 07:55:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：宣佈降低油價的又一舉措。"
+    },
+    {
+      "id": "5127047",
+      "time": "2026-10-06 07:55:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在內布拉斯加州的一次活動上發表講話。"
+    },
+    {
+      "id": "5127043",
+      "time": "2026-10-06 07:54:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【加拿大將調查醫療飛機失事 機上6人恐全部遇難 】加拿大交通安全委員會5日宣佈將主持調查3日在美國馬薩諸塞州楠塔基特島海岸附近發生的醫療救護飛機失事事件。機上6人或已全部遇難。該委員會當天釋出宣告稱，失事飛機為灣流G100型飛機，隸屬於一家名為“緯度醫療航空”的公司。此前，這家總部位於加拿大安大略省的公司宣佈，機上6人，包括4名加拿大籍機組人員、1名患者及1名隨行陪護人員，在墜機後均被推定已遇難。（新華社）"
+    },
+    {
+      "id": "5127037",
+      "time": "2026-10-06 07:53:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷經濟部長：看到了阿根廷在8月和9月出現復甦跡象。"
+    },
+    {
+      "id": "te:markets:589677",
+      "time": "2026-10-06 07:52:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Edge Higher After Tech-Led Rally — US stock futures edged higher on Tuesday after the major averages began the week on a strong footing, with technology stocks rallying despite pressure from surging bond yields. Futures linked to the Dow, S&P 500 and Nasdaq 100 were each up around 0.1%. In regular trading on Monday, the Nasdaq Composite climbed 1.05% to a fresh record high, while the S&P 500 and Dow advanced 0.66% and 0.18%, respectively. Megacap technology stocks led the gains, with Nvidia rising 2.1%, Tesla adding 2.2% and Microsoft gaining 1.5%. SpaceX also jumped more than 7% following reports that the company has proposed building a natural gas pipeline in Florida to support Starship launches from Cape Canaveral. Meanwhile, US 10- and 30-year Treasury yields climbed to their highest levels since 2002, keeping investors cautious. Elsewhere, oil prices fell on signs of increased supply from the Middle East, easing concerns over inflation and the prospect of higher interest rates."
+    },
+    {
+      "id": "mkt:01a10e7b-86a1-7ee0-a7ab-0f2d28aa0dc0",
+      "time": "2026-10-06 07:52:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Australian consumer confidence falls further after Reserve Bank hikes】Australian consumer confidence fell 4.7% in October to 80.4, hit by Reserve Bank of Australia rate hikes and rising fuel prices and with households increasingly worried about job prospects. Westpac's head of Australian macro Matthew Hassan said consumers remain trapped in a cost‑of‑living 'nightmare', and noted the reading is among the 40 weakest monthly results since the early 1970s. Westpac expects the RBA to raise rates again at its November meeting."
+    },
+    {
+      "id": "5127015",
+      "time": "2026-10-06 07:51:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《魔獸世界：“無限”》國服開測】10月6日，魔獸世界運營團隊宣佈，《魔獸世界：“無限”》國服Beta測試現已正式開啟。本次Beta測試為刪檔測試，測試結束後所有測試角色及資料將被刪除，但不影響BUG工單統計與抽獎資格。"
+    },
+    {
+      "id": "te:markets:589676",
+      "time": "2026-10-06 07:50:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian stocks Rise for 3rd Session — Australian equities rose 39 points, or 0.4%, to 8,725 in Tuesday morning trade, marking a third straight gain after Wall Street closed higher overnight on AI optimism and buyout activity, even as Treasury yields hovered near 5.31%. Locally, the Melbourne Institute’s September Inflation Gauge added 0.3% mom, marking the smallest rise in three months and suggesting tighter policy is cooling price pressures though risks remain. Commercial services led advances, with consumer non-durables, consumer services, and healthcare also firm. Gains were tempered, however, as October consumer sentiment in Australia stayed in negative territory, though the pace of decline eased despite higher fuel and borrowing costs. Standout movers included PLS Group (4.4%), Bluescope Steel (2.4%), Capricorn Metals (2.6%), and Scentre Group (2.1%). Traders now look to September job ads data later today, while Chinese markets return Thursday after the Golden Week holiday."
+    },
+    {
+      "id": "mkt:01a10e78-5102-7ee0-a7ab-03979875e660",
+      "time": "2026-10-06 07:48:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said the war will end soon and prices will fall sharply. He added people might say, \"Sir, please — prices are falling far too fast!\""
+    },
+    {
+      "id": "5126979",
+      "time": "2026-10-06 07:47:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多家阿聯酋基金以及貝萊德據悉商談參與OpenAI最新一輪300億美元融資】知情人士稱，包括MGX在內的多家阿聯酋投資基金正在與OpenAI洽談，可能參與這家人工智慧巨頭最新一輪300億美元融資。其中一位知情人士表示，這些基金將組成一個財團參與OpenAI這輪融資。另一位人士稱，這些阿聯酋基金討論的合計投資金額最高達到100億美元。知情人士表示，貝萊德也在商談參與這輪融資。融資仍在進行中，具體條款可能發生變化。因涉及未公開資訊，這些知情人士要求匿名。"
+    },
+    {
+      "id": "5126961",
+      "time": "2026-10-06 07:46:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.22點。"
+    },
+    {
+      "id": "5126956",
+      "time": "2026-10-06 07:45:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤持平。"
+    },
+    {
+      "id": "5126955",
+      "time": "2026-10-06 07:45:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【地產與礦業板塊上漲 澳大利亞股市走高】澳大利亞S&P/ASX 200 指數上漲 0.4%，報 8720.30 點，地產與原材料板塊領漲。此前標普 500 指數逼近歷史高點，納指 100 指數創下新高，帶動該基準指數上行。投資者暫時擱置對高油價與高債券收益率的擔憂，美國科技股迎來上漲。紐西蘭S&P/NZX指數上漲 0.1%，報 13718.89 點。"
+    },
+    {
+      "id": "5126928",
+      "time": "2026-10-06 07:43:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【澳大利亞財長查默斯：債券收益率上行將給澳大利亞財政預算帶來壓力】澳大利亞財政部長吉姆・查默斯週二警告，全球債券收益率走高將對澳大利亞財政預算構成壓力，本輪大範圍拋售推高了債務再融資成本。查默斯在接受媒體採訪時表示：“全球範圍內，包括澳大利亞，不斷攀升的借貸成本將體現在各國預算之中。”他稱：“遺憾的是，預算面臨的一大上行壓力，就是部分低成本債務到期後，需要替換為成本更高的新債。” 他補充，將在年底前更新國家預算，納入借貸成本上升帶來的影響。"
+    },
+    {
+      "id": "5126912",
+      "time": "2026-10-06 07:41:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "KKR 將以企業價值 51 億美元從 HG、General Atlantic 及其他少數投資者手中收購 GEN II Fund Services，由 CEO Steven Millner 領導的 GEN II 管理團隊將繼續留任。"
+    },
+    {
+      "id": "5126898",
+      "time": "2026-10-06 07:39:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Lucid繼續執行庫存削減計劃，第三季度交付3806輛汽車】當地時間10月5日，美國電動汽車製造商Lucid Group, Inc.（NASDAQ: LCID）公佈截至2026年9月30日第三季度的產量和交付資料。該公司第三季度生產2954輛汽車，交付3806輛汽車。交付量超過產量，公司繼續執行計劃中的庫存削減，將現有車輛庫存轉化為客戶交付，這是此前宣佈的2026年1.4億美元現金流改善運營重置計劃的一部分。"
+    },
+    {
+      "id": "5126897",
+      "time": "2026-10-06 07:39:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今日鐵路上海站預計傳送旅客46.1萬人】今日鐵路上海站（下轄上海站、上海南站、上海虹橋站、上海松江站、上海西站、南翔北站、安亭西站、安亭北站、金山北站、練塘站）預計傳送旅客46.1萬人，其中上海站12.7萬人，上海南站6.0萬人，上海虹橋站23.9萬人，上海松江站3.5萬人，到達旅客80.4萬人，其中上海站19.4萬人，上海南站11.1萬人，上海虹橋站44.6萬人，上海松江站5.3萬人。"
+    },
+    {
+      "id": "5126885",
+      "time": "2026-10-06 07:37:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《北京市“十五五”時期礦山生態修復規劃（草案）》公示 適度發展生態旅遊等綠色新業態】北京礦山生態修復將持續推進。北京日報記者從市規劃自然資源委獲悉，《北京市“十五五”時期礦山生態修復規劃（草案）》近日公示，徵求公眾意見。《規劃》提出，以自然恢復、人工修復、綜合利用三類修復方式對礦山分割槽分類精準治理，完成1至2個綜合利用類礦山生態修復專案，打造可複製、可推廣的礦山轉型利用示範標杆。（北京日報）"
+    },
+    {
+      "id": "5126841",
+      "time": "2026-10-06 07:32:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【秘魯國家石油通報北秘魯輸油管道發現第8處非法盜油口】秘魯國家石油公司（Petroperu）釋出宣告稱，在皮烏拉省塞丘拉地區的北秘魯輸油管道（ONP）上發現第8處私接盜油管道。秘魯國家石油已啟動應急響應預案，向現場派遣專業人員。自2026年6月起，已在塞丘拉沙漠地帶發現8處非法接駁口。注：秘魯國家石油稱，本次北秘魯輸油管道遭遇的新襲擊已造成原油洩漏。該公司已向主管部門上報事件，並計劃向當地檢察官提起刑事控告。"
+    },
+    {
+      "id": "mkt:01a10e68-6c76-7ee0-a7aa-feb0e6414dbf",
+      "time": "2026-10-06 07:31:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian Treasurer Chalmers says the private sector is driving economic growth and the outlook is optimistic; productivity remains a long-term challenge."
+    },
+    {
+      "id": "5126817",
+      "time": "2026-10-06 07:31:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤下跌10點，報70170點。"
+    },
+    {
+      "id": "5126816",
+      "time": "2026-10-06 07:30:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "秘魯國家石油公司發現北秘魯輸油管道（ONP）遭遇新的破壞襲擊。"
+    },
+    {
+      "id": "mkt:01a10e67-6d5d-7ee0-a7aa-f2fdec0f6523",
+      "time": "2026-10-06 07:30:21",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia Oct Westpac/Melbourne Institute consumer confidence index 80.4, down from 84.4 previously."
+    },
+    {
+      "id": "mkt:01a10e67-4a37-7ee0-a7aa-e886f7aaf5ac",
+      "time": "2026-10-06 07:30:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (Oct) | actual 80.4 | previous 84.4"
+    },
+    {
+      "id": "mkt:01a10e67-41a4-7ee0-a7aa-e092b684bdfe",
+      "time": "2026-10-06 07:30:10",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia Oct Westpac–Melbourne Institute consumer confidence MoM -4.7%; prior -5.2%."
+    },
+    {
+      "id": "mkt:01a10e67-1b03-7ee0-a7aa-dd76aa3357b4",
+      "time": "2026-10-06 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (Oct) | actual -4.7% | previous -5.20%"
+    },
+    {
+      "id": "5126798",
+      "time": "2026-10-06 07:29:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【甲骨文2025醫療業務資料洩露事件波及2000萬人資訊】美國得克薩斯州總檢察長披露的資訊顯示，甲骨文公司醫療業務部門去年發生網路安全洩露事件，近2000萬人的個人資訊遭到洩露。得州總檢察長在釋出的報告中稱，該公司披露，本次駭客攻擊盜取了近2000萬人的社保號碼、住址以及醫療資訊，其中包含約300萬得州居民。甲骨文曾在2025年3月向部分客戶通報這起網路襲擊，稱攻擊發生在1月22日之後的某個時間，但這家總部位於得州的企業當時並未公佈受影響的患者電子健康記錄數量。甲骨文週一拒絕對本次披露資訊發表評論，得州總檢察長辦公室也未回應置評請求。"
+    },
+    {
+      "id": "te:markets:589675",
+      "time": "2026-10-06 07:28:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Losses as Mideast Exports Recover — Brent crude traded near $100 per barrel on Tuesday after declining in the previous session, pressured by signs that Middle East crude exports are recovering toward pre-war levels. JPMorgan said crude shipments have rebounded to 17.5 million barrels a day, or 98% of pre-war levels, while product flows such as diesel and gasoline reached 3 million barrels a day, or 58%. Gulf producers are moving larger volumes through the Strait of Hormuz despite elevated shipping risks, with Iraq seeking to hire additional vessels to transport its cargoes through the waterway. Kuwait also said it is pumping oil at around 75% of the level seen before the Iran war. In addition, Saudi Arabia sharply reduced the price of its flagship crude grade for Asian buyers as supply flows improved, further signaling a loosening market. Meanwhile, investors are awaiting the US EIA’s Short-Term Energy Outlook, due later today, for fresh insights into the US energy market."
+    },
+    {
+      "id": "5126794",
+      "time": "2026-10-06 07:28:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古特雷斯呼籲加沙地帶永久停火】新一輪巴以衝突爆發三週年之際，聯合國秘書長古特雷斯5日發表致辭，呼籲加沙地帶永久停火。 古特雷斯在致辭中說，2023年10月7日巴勒斯坦伊斯蘭抵抗運動（哈馬斯）和其他巴勒斯坦武裝團體襲擊以色列，以色列隨即發動加沙戰爭，給加沙地帶的巴勒斯坦人帶來難以形容的苦難。去年加沙停火協議對局勢稍有緩解，但仍未帶來安全、充足的人道援助以及通往重建與和平的可靠路徑。 古特雷斯敦促各方落實停火承諾並向下一階段停火邁進。他說，必須建立實現整個地區持久和平的政治路徑。(新華社)"
+    },
+    {
+      "id": "5126793",
+      "time": "2026-10-06 07:28:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【喬布斯逝世15週年，特努斯、庫克發文緬懷】2026年10月5日，在史蒂夫·喬布斯逝世15週年之際，蘋果CEO約翰·特努斯與蘋果前CEO蒂姆·庫克先後發文，緬懷這位蘋果聯合創始人。特努斯寫道，“Steve教會了我們用心對待每一個細節、每一份體驗和每一個人，這份教益至今依然指引我們的工作。永懷感激。”庫克表示，“有的人在世界留下印記，而有的人徹底改變世界。Steve改變了世界，在這一過程中也改變了無數人的人生。毫無疑問，他永遠改變了我的一生。他的精神長存於他所創造的一切之中，也長存在每一位受他啟迪的人的心中。”"
+    },
+    {
+      "id": "5126789",
+      "time": "2026-10-06 07:27:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今日迎返程高峰】記者從公安部交通管理局瞭解到，昨天（5日），全國高速公路、國省道幹線公路交通流量持續高位執行。除大中城市周邊、重點景區周邊部分路段、時段出現排隊緩行外，全國主要高速公路、國省道幹線公路通行總體安全順暢。今天（6日）迎來假期返程高峰，公安部交通管理局提醒廣大駕駛人，假期返程請提前關注沿途交通、天氣變化，合理規劃出行路線。"
+    },
+    {
+      "id": "te:markets:589674",
+      "time": "2026-10-06 07:27:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Losses as Mideast Exports Recover — Crude oil traded near $89 per barrel on Tuesday after declining for two consecutive sessions, pressured by signs that Middle East crude exports are recovering toward pre-war levels. JPMorgan said crude shipments have rebounded to 17.5 million barrels a day, or 98% of pre-war levels, while product flows such as diesel and gasoline reached 3 million barrels a day, or 58%. Gulf producers are moving larger volumes through the Strait of Hormuz despite elevated shipping risks, with Iraq seeking to hire additional vessels to transport its cargoes through the waterway. Kuwait also said it is pumping oil at around 75% of the level seen before the Iran war. In addition, Saudi Arabia sharply reduced the price of its flagship crude grade for Asian buyers as supply flows improved, further signaling a loosening market. Meanwhile, investors are awaiting the US EIA’s Short-Term Energy Outlook, due later today, for fresh insights into the US energy market."
+    },
+    {
+      "id": "5126776",
+      "time": "2026-10-06 07:26:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "澳大利亞財政部長查默斯：人們對人工智慧的擔憂是合理的。人工智慧“如果我們運用得當”，就能帶來生產力紅利。"
+    },
+    {
+      "id": "5126773",
+      "time": "2026-10-06 07:25:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "澳大利亞財政部長查默斯：人工智慧將對經濟產生“最具變革性”的影響。"
+    },
+    {
+      "id": "5126760",
+      "time": "2026-10-06 07:23:55",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【SpaceX與特斯拉股價反彈 馬斯克身家重返萬億美元】全球首富埃隆·馬斯克的身家時隔三個月再次突破萬億美元。根據彭博億萬富豪指數，馬斯克的財富週一增加650億美元，達到1.04萬億美元，得益於其持有的SpaceX和特斯拉股份價值回升。10月以來，SpaceX股價上漲13%，特斯拉上漲6.7%。SpaceX在6月IPO後股價大漲，使馬斯克成為全球首位萬億美元富豪，但隨著投資者擔憂該公司估值過高、股價隨後下挫，他很快失去這一頭銜。截至7月下旬，馬斯克的財富較峰值縮水逾6000億美元，縮水規模超過彭博全球500大富豪榜上除他本人之外任何一位上榜者的全部身家。最新一輪財富增長源於市場重新看好SpaceX和特斯拉。摩根士丹利分析師週一稱，SpaceX是以較低成本把握太空和人工智慧領域巨大增長潛力的投資標的之一。這家橫跨太空、人工智慧和社交媒體業務的公司股價已較8月低點反彈58%。"
+    },
+    {
+      "id": "5126753",
+      "time": "2026-10-06 07:23:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：1、見證中國成為對自身文化充滿自覺與自信的國家（緣啟中國）——訪德國國家科學院院士、漢學家朗宓榭；2、埃中全面戰略伙伴關係邁向新階段（國際論壇）；3、“中國持續為金磚合作注入動能”——訪印度索梅亞大學中國研究系副教授沙海麗。"
+    },
+    {
+      "id": "5126752",
+      "time": "2026-10-06 07:23:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：1、堅守崗位踐初心 實幹擔當立新功；2、流動中國 蓬勃向上；3、黑龍江當好國家糧食安全“壓艙石”（活力中國調研行）；4、服務貼心 假日舒心（今日談）；5、鄉村遊點亮文旅市場；6、青海班瑪縣弘揚長征精神——紅色薪火永傳 團結花兒長開（賡續長征精神 奮進復興征程）。"
+    },
+    {
+      "id": "5126747",
+      "time": "2026-10-06 07:21:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特大規模空襲葉門首都 】據葉門胡塞武裝控制的馬西拉電視臺5日報道，該組織控制的葉門首都薩那當天遭沙烏地阿拉伯空襲，引發多起劇烈爆炸，造成1人死亡、2人受傷。"
+    },
+    {
+      "id": "5126734",
+      "time": "2026-10-06 07:18:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳鹽田港單船裝卸量重新整理中國港口紀錄】記者從深圳海關獲悉，10月2日，深圳鹽田港單船完成28684標箱裝卸作業，重新整理中國港口單船裝卸箱量紀錄。單船作業量不斷攀升的背後，是中國港口持續拓展的全球航線網路和不斷增長的國際物流需求。目前，鹽田港每週運營百條全球航線，其中53條聯通APEC成員經濟體，今年已新增14條聯通APEC經濟體的航線。持續加密的航線網路，為更多進出口貨物快速連線全球提供了通道。"
+    },
+    {
+      "id": "5126722",
+      "time": "2026-10-06 07:17:56",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "澳大利亞財政部長查默斯：澳大利亞的經濟故事是“積極的”。更高的借貸成本將在預算中體現出來。"
+    },
+    {
+      "id": "5126721",
+      "time": "2026-10-06 07:17:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "澳大利亞財政部長查默斯：澳大利亞長期面臨生產力挑戰。"
+    },
+    {
+      "id": "5126715",
+      "time": "2026-10-06 07:17:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "澳大利亞財政部長查默斯：私營部門引領澳大利亞經濟增長。"
+    },
+    {
+      "id": "5126710",
+      "time": "2026-10-06 07:16:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國得克薩斯州總檢察長辦公室報告甲骨文公司資料洩露事件。甲骨文 2025 年醫療系統資料洩露事件，造成 2000 萬人的資料受影響。"
+    },
+    {
+      "id": "5126665",
+      "time": "2026-10-06 07:12:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蘋果需就6.34億美元專利敗訴款支付1.84億美元利息】聯邦法官週一裁定，蘋果公司需額外支付1.84億美元利息。該判決源於陪審團作出的6.34億美元專利損害賠償裁決，因搭載心率監測功能的蘋果手錶侵權，判決賠付給馬西莫公司（MasimoCorp.）。詹姆斯・V・塞爾納法官駁回蘋果的主張，蘋果認為判付利息會讓馬西莫獲得意外之財。法官援引美國最高法院的指導意見：“自專利許可費本應收到之日起計算利息，僅用於讓專利權人恢復至無侵權時的完整經濟狀態。”法官沒有采納馬西莫提出的7%利率，而是採用侵權行為始於2020年時馬西莫自身的借款利率，按年複利計息。加州中區聯邦地區法院的這項裁定同時要求，蘋果需要針對陪審團賠償金加上判決前利息合計8.18億美元，繼續支付判決後利息，直至全額履行判決。"
+    },
+    {
+      "id": "5126660",
+      "time": "2026-10-06 07:11:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧夏原油外輸管網累計輸油突破2億噸】今天（6日），記者從國家管網集團獲悉，寧夏原油外輸管網累計輸送原油突破2億噸。這條已安全執行48年的能源通道，持續為我國西部地區最佳化油氣資源配置、推進區域經濟高質量發展提供堅強支撐。（央視）"
+    },
+    {
+      "id": "5126659",
+      "time": "2026-10-06 07:10:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲0.4%，報8,717.70點。"
+    },
+    {
+      "id": "5126658",
+      "time": "2026-10-06 07:09:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "麥格理集團 ：董事會治理與合規委員會主席審閱了畢馬威與麥格理共享的檔案。審查未發現違反職責、政策或審計招標規則的行為。未來所有審計招標流程中，麥格理都將對其招標規則進行復核。董事會仍全力支援兩位非執行董事。"
+    },
+    {
+      "id": "5126657",
+      "time": "2026-10-06 07:08:29",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【巴西資產大漲，雷亞爾一度飆升5%，股市創六年來最大單日漲幅】博索納羅好於預期的競選表現推動巴西股匯市場大漲。由於參議員博索納羅在巴西大選首輪投票中意外領先現任總統盧拉，巴西資產大漲，雷亞爾一度飆升5%，股市創六年來最大單日漲幅。花旗集團建議投資者加碼巴西股票和本幣債券的看漲押注，此前弗拉維奧·博索納羅在總統選舉首輪投票中的表現強於預期。“博索納羅是對市場更友好的候選人，承諾實施財政緊縮、私有化、放鬆監管以及下調增值稅，”花旗策略師在報告中寫道。“其政黨在參議院的強勁表現應有助於推動其立法議程獲得透過，”他們補充稱花旗稱，預測市場定價顯示，預計博索納羅在10月25日決選中獲勝的機率很高，花旗建議買入巴西股票以及2031年到期的政府債券，即所謂的NTN-F。"
+    },
+    {
+      "id": "5126656",
+      "time": "2026-10-06 07:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統稱與不斷背棄承諾的“敵人”談判毫無意義】伊朗總統佩澤希齊揚5日表示，與一個動輒施壓、制裁且不斷背棄承諾的“敵人”進行談判“毫無意義”。 據伊朗總統辦公室釋出的宣告，佩澤希齊揚當天在伊朗首都德黑蘭會見來訪的亞美尼亞外長米爾佐揚時發表上述言論。佩澤希齊揚強調，美國在攻擊伊朗後又聲稱願意談判，這正是其“欺騙行為”的體現。 佩澤希齊揚表示，伊朗已多次證明其在核活動方面的誠意，並接受國際原子能機構監督。他不久前在聯合國大會發表講話時表示，伊朗“已準備好在核活動領域開展對話與核查”。 另據伊朗外交部發表的宣告稱，伊朗外長阿拉格齊5日會見米爾佐揚時表示，伊朗將“堅定”捍衛其國家利益與安全，但也從未猶豫過利用外交手段來防止局勢升級。會談期間，阿拉格齊向米爾佐揚通報了西亞地區、特別是霍爾木茲海峽局勢的最新發展情況。(新華社)"
+    },
+    {
+      "id": "5126655",
+      "time": "2026-10-06 07:06:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Applied Intuition宣佈與日產合作，提供AI原生開發平臺並支援AI定義汽車開發】Applied Intuition 將提供其車載作業系統軟體，並依託原生 AI 開發工具，支援日產下一代軟體定義汽車（SDV）的研發，雙方自 2020 年起建立的合作關係由此進一步深化。 面向各類移動裝置提供物理人工智慧解決方案的領軍企業 Applied Intuition 公司今日宣佈，將向日產汽車部署其 AI 驅動的軟體開發工具，用於支援 AI 定義汽車（AIDV）的研發。作為本次合作的一部分，Applied Intuition 將利用其車載作業系統軟體，助力日產打造可擴充套件、開放式的下一代車載軟體平臺。Applied Intuition 位於日本與矽谷的軟體團隊，將和日產日本本土工程團隊協同工作，縮短軟體開發週期，加快原生 AI 汽車的研發程序。"
+    },
+    {
+      "id": "mkt:01a10e50-c256-7ee0-a7aa-d37fe6b23651",
+      "time": "2026-10-06 07:05:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported Trump arrived in Grand Island, Nebraska, disembarked Air Force One and went to a midterm election rally where he will address supporters as Republicans step up campaigning ahead of the November midterms."
+    },
+    {
+      "id": "5126654",
+      "time": "2026-10-06 07:04:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "豐田9月回購1085億日元（摺合6.872億美元）股票，在向東京證券交易所披露資料的310家日本上市公司中，回購規模位居首位。"
+    },
+    {
+      "id": "5126653",
+      "time": "2026-10-06 07:03:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "韓美半導體贏得三星電機245億韓元訂單。"
+    },
+    {
+      "id": "5126652",
+      "time": "2026-10-06 07:02:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國 Applied Intuition 與本田達成協議，聯合開發軟體定義汽車（SDV）平臺。"
+    },
+    {
+      "id": "5126651",
+      "time": "2026-10-06 07:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受降雪影響，國道318線折多山路段臨時交通管制】據四川甘孜藏族自治州交通運輸局訊息，10月5日晚，國道318線折多山路段受降雪影響，實施臨時交通管制。降雪造成路面結冰溼滑，部分車輛通行受阻。當地交管部門隨即啟動臨時管制，禁止大型車輛通行，對小型車輛予以勸返；對已上山的車輛，在沿線執勤點位做好保障服務，目前除雪作業車輛已開展除冰除雪作業。"
+    },
+    {
+      "id": "5126650",
+      "time": "2026-10-06 07:01:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特主導聯軍稱在葉門荷臺達省實施軍事行動 】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基5日晚在社交媒體上說，多國聯軍海軍部隊在葉門荷臺達省實施軍事行動，摧毀葉門胡塞武裝多個軍事目標，挫敗了其針對紅海南部水道發動襲擊的企圖。馬利基說，此次行動摧毀了胡塞武裝的武器庫，以及存放爆炸物的設施。他表示，此次行動旨在保護曼德海峽航運安全。"
+    },
+    {
+      "id": "5126649",
+      "time": "2026-10-06 07:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾基亞CEO：若無供應限制，資料中心建設速度將“翻倍”】諾基亞CEO表示，若無當前面臨的供應限制，科技行業建設資料中心的速度將提高一倍。這一表態凸顯了AI需求的持續性，儘管行業高管們正在就放緩開發節奏展開辯論。“我認為無論如何都不能說我們現在正在過度建設，因為現實情況是——如果我們可以以兩倍速度建設，我們的客戶如果可以以兩倍速度建設，他們很可能也會這麼做，”Justin Hotard表示，“因此我有信心，我們仍處於AI建設浪潮的早期階段。”（CNBC）"
+    },
+    {
+      "id": "te:markets:589669",
+      "time": "2026-10-06 07:00:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Coal Hits 16-week High — Coal increased to 150.00 USD/T, the highest since June 2026. Over the past 4 weeks, Coal gained 1.33%, and in the last 12 months, it increased 41.86%."
+    },
+    {
+      "id": "5126648",
+      "time": "2026-10-06 06:59:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱烏克蘭襲擊了扎波羅熱核電站的兩處設施。"
+    },
+    {
+      "id": "5126647",
+      "time": "2026-10-06 06:58:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普抵達內布拉斯加州格蘭德艾蘭，走下空軍一號，準備參加中期選舉集會。特朗普將在這場競選活動上向支持者發表講話，共和黨正為11月的中期選舉造勢衝刺。"
+    },
+    {
+      "id": "te:economy:589666",
+      "time": "2026-10-06 06:56:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "New Zealand Business Mood Improves Sharply in Q3 — New Zealand's business confidence surged in Q3 2026, with a net 43% of survey firms expecting general business conditions to improve, up from 8% in Q2. The latest New Zealand Institute of Economic Research's (NZIER) Quarterly Survey of Business Opinion showed that the improvement came amid the ongoing Middle East conflict. A net 40% of firms expect general economic conditions to improve in the coming months, up from 14% in Q2, marking the highest in more than a year. Businesses were more optimistic about demand in the next quarter, with 15% expecting better trading, up from 11% in the previous survey. Meanwhile, expectations of inflation risks over the coming year also improved, with the share of firms expecting higher costs falling to 47% from 54%, while those expecting to increase prices eased to 43% from 54%. However, the survey suggested flat economic growth over the quarter, while firms expected the RBNZ to hike interest rates this year."
+    },
+    {
+      "id": "te:markets:589665",
+      "time": "2026-10-06 06:53:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Edge Lower in Morning Trade — The NZX 50 dropped 26 points, or 0.2%, to 13,673 in Tuesday morning trade, erasing slight gains in the previous session, mainly weighed down by materials, healthcare, and consumer staples. However, gains in financials, energy, and consumer discretionary limited the fall. Easing oil prices also prevented the index from falling further, as did an improvement in business confidence. The latest New Zealand Institute of Economic Research's (NZIER) Quarterly Survey of Business Opinion showed that New Zealand's business confidence improved sharply in Q3 amid the Middle East conflict, with inflation pressures easing, steady profit expectations, and improved hiring and investment. However, traders awaited the FOMC minutes later this week. Among early losers were Delegat Group (-1.4%), A2 Milk (-1.0%), Fisher & Paykel (-0.8%), Contact Energy (-0.6%), and South Port NZ (-0.6%)."
+    },
+    {
+      "id": "5126646",
+      "time": "2026-10-06 06:52:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統候選人博索納羅競選團隊負責人：爭取到週四獲得相關黨派支援。"
+    },
+    {
+      "id": "5126645",
+      "time": "2026-10-06 06:52:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：日產汽車擬在栃木工場安裝全新主衝壓裝置。"
+    },
+    {
+      "id": "5126644",
+      "time": "2026-10-06 06:41:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【羅馬尼亞總統今年第四次委任總理】羅馬尼亞總統達恩5日宣佈，委任盧卡·尼古列斯庫為總理。這是他今年第四次委任總理。據悉，達恩當天在總統府與議會政黨進行新一輪磋商後召開新聞釋出會，宣佈委任尼古列斯庫為總理並要求他組建政府。尼古列斯庫隨後發表宣告表示，他不能承諾奇蹟，但可以承諾將審慎使用公共資金、保障經濟預期穩定、加快投資和改革程序，打造一個高效運轉的政府。（央視新聞）"
+    },
+    {
+      "id": "te:markets:589664",
+      "time": "2026-10-06 06:40:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Rises by 4.22% — Top commodity gainers are Sugar (4.22%) and Cocoa (3.21%). Biggest losers are Rice (-0.76%) and Lumber (-0.57%)."
+    },
+    {
+      "id": "te:markets:589663",
+      "time": "2026-10-06 06:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 1.89% — Top commodity gainers are Platinum (1.89%), Copper (1.46%), Silver (1.26%) and Gold (0.08%)."
+    },
+    {
+      "id": "5126643",
+      "time": "2026-10-06 06:31:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：激進左翼對我投放廣告一事感到不滿。我認為這些廣告是對偉大美國的正面宣傳，並且用美國資金來支付廣告費用。投放廣告本是相當常規的操作。但就算這麼做，他們也不會滿意。因此，我決定投放愛國主題廣告等系列宣傳內容，由我個人以及“讓美國再次偉大”委員會籌集的資金自行承擔費用。"
+    },
+    {
+      "id": "te:markets:589662",
+      "time": "2026-10-06 06:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Gasoline Drops by 2.65% — Top commodity losers are Gasoline (-2.65%), Crude Oil (-2.05%) and Brent Oil (-1.97%). Gains are led by Propane (1.78%) and Natural gas (1.33%)."
+    },
+    {
+      "id": "5126642",
+      "time": "2026-10-06 06:29:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "東京電子CFO：本財年營業利潤有望達到1萬億日元。"
+    },
+    {
+      "id": "5126641",
+      "time": "2026-10-06 06:29:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍表示，摧毀了薩那一處彈道導彈發射平臺，以及薩達一座存放20枚彈道導彈的導彈儲存設施。"
+    },
+    {
+      "id": "5126640",
+      "time": "2026-10-06 06:27:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：已決定自行投放廣告並自掏腰包，同時使用我為MAGA公司籌集的資金。"
+    },
+    {
+      "id": "5126639",
+      "time": "2026-10-06 06:26:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特首都利雅得接連傳出爆炸聲】當地時間6日凌晨，沙特首都利雅得再次傳出劇烈爆炸聲。利雅得5日晚就曾傳出過爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "te:markets:589661",
+      "time": "2026-10-06 06:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Rises by 4.16% — Top currency gainers are Brazilian Real (4.16%), Mexican Peso (0.51%), Norwegian Krone (0.32%) and Dollar Index (0.18%). Biggest losers are Polish Zloty (-0.35%), Euro (-0.30%) and British Pound (-0.13%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "5126638",
+      "time": "2026-10-06 06:11:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "穆迪評級確認高通公司A2評級，展望穩定。"
+    },
+    {
+      "id": "5126637",
+      "time": "2026-10-06 06:11:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本擬設立市場機制以延長火電廠服役年限。"
+    },
+    {
+      "id": "5126636",
+      "time": "2026-10-06 06:06:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱發射導彈和無人機襲擊沙特多個目標】葉門胡塞武裝軍事發言人葉海亞·薩雷亞5日發表宣告說，該組織使用彈道導彈、巡航導彈和無人機實施3次軍事行動，襲擊了沙烏地阿拉伯境內機場、石油設施和多個軍事目標，以回應沙特對葉門胡塞武裝控制區的空襲。（新華社）"
+    },
+    {
+      "id": "5126635",
+      "time": "2026-10-06 06:05:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲10月維持利率不變的機率為77.3%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為77.3%，累計加息25個基點的機率為22.7%。美聯儲到12月維持利率不變的機率為13.4%，累計加息25個基點的機率67.8%，累計加息50個基點的機率為18.8%。"
+    },
+    {
+      "id": "5126634",
+      "time": "2026-10-06 06:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：收購交易完成後，將派拉蒙天舞與華納兄弟信用評級下調至BB級。"
+    },
+    {
+      "id": "5126633",
+      "time": "2026-10-06 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4170美元/盎司，日內漲0.31%。"
+    },
+    {
+      "id": "5126632",
+      "time": "2026-10-06 05:50:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴拿馬型船閘將試行長期通航預約】巴拿馬運河管理局5日釋出公告說，將透過“長期通航名額分配計劃”提前分配2027年1月3日至4月3日期間的長期通航名額，並首次將這一機制從新巴拿馬型船閘擴充套件至巴拿馬型船閘試行。 公告表示，巴拿馬型船閘將分配日均3個名額用於試行計劃，競拍時間為11月24日，主要面向航次安排固定的企業，以及在預約系統中因排名較低難以獲得常規名額的企業；新巴拿馬型船閘將沿用現行“長期通航名額分配計劃”，保留日均3個長期通航名額，競拍時間為11月17日。"
+    },
+    {
+      "id": "mkt:01a10dfd-b1d7-7ee0-a7aa-cef01b90a52c",
+      "time": "2026-10-06 05:34:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. troops say they used Google to find hospitals after Iranian strike】AP interviewed dozens of U.S. service members who survived a drone strike on the U.S. base at Shuaybah port in southern Kuwait that followed U.S.-Israeli air strikes on Iran on March 1. Six U.S. personnel were killed and dozens wounded. Officers described chaos at the scene and said some wounded reached care only because “some people's phones still worked and they could use Google to find nearby hospitals.” The U.S. military has reportedly completed an investigation into the Shuaybah attack in June but has not released the report, citing the need to redact sensitive information; it declined to comment on AP’s latest article."
+    },
+    {
+      "id": "5126631",
+      "time": "2026-10-06 05:30:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美軍稱遭伊朗襲擊後靠谷歌找醫院】今年3月1日上午，美國、以色列對伊朗發動大規模空襲次日，伊朗在反擊行動中發射無人機，打擊了科威特南部舒艾拜港的美軍基地，造成美軍6人死亡，此外還有數十人受傷。美聯社近日對經歷了那場軍事打擊的數十名美軍人員進行了採訪。據他們當中的美軍軍官透露，遭襲前就有評估報告顯示，該處美軍設施——一座帶有木牆的長方形建築“極易受到無人機襲擊”，但這一警告被置若罔聞。而且當時該基地的防衛措施根本就防不住無人機襲擊。 還有接受採訪的美軍軍官稱，遭襲後現場一片混亂，他們當中的一些傷者能及時去醫院接受救治，完全靠的是“一些人的手機還能用、還能透過谷歌查詢附近醫院”。 有訊息稱，美國軍方早在今年6月就已完成了對舒艾拜港基地遭襲一事的調查，但一直未釋出相關報告，理由是“需要對敏感資訊進行編輯”。對美聯社的這一最新報道，美國軍方也拒絕發表評論。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:economy:589660",
+      "time": "2026-10-06 05:24:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "South Korea FX Reserves End Three-Month Rising Streak — South Korea’s foreign exchange reserves fell to $440.6 billion at the end of September 2026 from $442.3 billion in August, ending a three-month rising streak. August had recorded the largest monthly gain on record. Securities remained the largest component, falling to $386 billion from $387.1 billion, while deposits declined to $30 billion from $30.3 billion. Special Drawing Rights (SDRs) fell to $15.5 billion from $15.8 billion. Gold holdings and the country’s reserve position at the IMF were unchanged at $4.8 billion and $4.3 billion, respectively."
+    },
+    {
+      "id": "5126630",
+      "time": "2026-10-06 05:22:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽維持凱雷集團“A-”評級，展望穩定。"
+    },
+    {
+      "id": "mkt:01a10dec-4b4b-7ee0-a7aa-c24986ddc3dc",
+      "time": "2026-10-06 05:15:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump nominated for Nobel Peace Prize; experts say odds slim】The 2026 Nobel Peace Prize will be announced Friday, Oct. 9. Although several national leaders reportedly nominated U.S. President Trump, experts say his chances are slim, citing the ongoing war in Iran as a key reason. The committee received 287 nominations this year — 208 individuals and 79 organizations — but does not publish candidate lists; reported contenders include Canadian Prime Minister Carney, the International Space Station, Ukrainian child-rights advocate Mykola Kuleba, Save the Children, Sudanese civil network Emergency Response Room and the Committee to Protect Journalists. The ISS is cited as one of the few remaining symbols of sustained multinational cooperation amid rising global conflict."
+    },
+    {
+      "id": "5126629",
+      "time": "2026-10-06 05:15:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.42%，報13874點。"
+    },
+    {
+      "id": "te:markets:589659",
+      "time": "2026-10-06 05:13:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Closes Flat as Tech Gains Offset Broader Losses — The S&P/TSX Composite Index closed near flat at 35,518 on Monday, as gains in technology shares offset declines in energy and financials. Tech stocks advanced, tracking strength in the Wall Street AI trade, with Shopify jumping 5.7%. Global yields remained near multi-year highs amid concerns over persistent energy-driven inflation and rising fiscal risks. Credit-sensitive stocks fell, with RBC and TD Bank down 0.5% each, BMO losing 0.7% and Scotiabank falling 0.9%. Energy stocks also declined as the oil rally stalled. Suncor (-1.2%) agreed to sell interests in three offshore oil assets to Ithaca, while Cenovus (-3%) agreed to acquire Athabasca Oil in a cash-and-stock deal. Mining shares mostly fell as gold prices pared gains, with Barrick down 0.6%."
+    },
+    {
+      "id": "mkt:01a10dea-654f-7ee0-a7aa-bcc0b2f62585",
+      "time": "2026-10-06 05:13:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Wall Street (US)",
+        "AVGO.O",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "【Wall Street syndicate launches record $60 bln AI chip financing for ANTHROPIC】BofA, CITIGROUP and MORGAN STANLEY have started syndicating $60 bln of debt to finance ANTHROPIC’s leasing of Google AI chips, the largest chip financing to date. About $42 bln is a Broadcom-backed senior secured loan whose syndication began Monday; a $18 bln subordinated tranche without Broadcom backing will be launched later, with Blackstone committed to roughly $9 bln. Proceeds will fund ANTHROPIC’s 2027 chip orders and lease payments will begin after delivery. Broadcom may also receive up to $42 bln of convertible notes to cover related lease fees. The transaction is being treated as a barometer of market appetite for AI-related debt."
+    },
+    {
+      "id": "5126628",
+      "time": "2026-10-06 05:09:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葉門胡塞武裝警告國際航司停止運營經沙特領空航線】葉門胡塞武裝軍事發言人葉海亞·薩雷亞5日釋出宣告，稱沙烏地阿拉伯領空已成為胡塞武裝的“行動區域”，警告所有經沙特領空運營相關航線的國際航空公司，暫停相關航班。薩雷亞當日在社交媒體釋出的宣告中說，沙特領空已“不安全”，胡塞武裝“不會對無視這一警告所造成的後果承擔任何責任”。但上述警告不包括麥加和麥地那上空。目前沙特方面尚未就這一警告作出回應。（新華社）"
+    },
+    {
+      "id": "5126627",
+      "time": "2026-10-06 05:08:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "華爾街銀行牽頭為博通與Anthropic敲定600億美元晶片融資交易。"
+    },
+    {
+      "id": "5126626",
+      "time": "2026-10-06 05:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特首都利雅得傳出強烈爆炸聲。"
+    },
+    {
+      "id": "5126625",
+      "time": "2026-10-06 05:05:55",
+      "tags": [
+        "觀點"
+      ],
+      "text": "瑞銀將摩根大通的目標股價從每股400.00美元下調至每股395.00美元，維持買入評級。"
+    },
+    {
+      "id": "mkt:01a10de2-c4ba-7ee0-a7aa-b3b79d70543b",
+      "time": "2026-10-06 05:05:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Foreign media reported explosions were heard in Riyadh, Saudi Arabia, on the evening of the 5th."
+    },
+    {
+      "id": "te:markets:589658",
+      "time": "2026-10-06 05:02:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Ibovespa Closes at a Record High — The Ibovespa surged 7.7% to a record 206,912 on Monday, its biggest one-day gain in over six years, after Flávio Bolsonaro finished ahead of President Lula in the first election round, defying most polls. The result triggered a sharp repricing of Brazilian assets. Bolsonaro received 47.03% of valid votes, compared with 45.16% for President Lula. The senator is viewed by markets as more fiscally restrictive, amid elevated domestic yields and weak business activity. Bolsonaro outperformed the average of polls tracked by Goldman Sachs by more than four percentage points. Gains were broad-based, with financials leading the index. Itaú soared 10.4%, Bradesco jumped 13.6%, BB rose 11% and B3 surged 22.6%. Other outperformers included Sabesp (11.6%) and Petrobras (8.2%). JPMorgan upgraded Brazil to Buy. Banks expect the index to extend its record-setting streak in upcoming sessions. The Ibovespa also set a record for trading volume, with more than 5 million trades during the session."
+    },
+    {
+      "id": "mkt:01a10ddf-e7e9-7ee0-a7aa-ad4d477977bf",
+      "time": "2026-10-06 05:02:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports Wall Street banks have arranged a record $60 bln chip deal involving Broadcom and ANTHROPIC."
+    },
+    {
+      "id": "mkt:01a10ddf-ce74-7ee0-a7aa-a3ffd910139e",
+      "time": "2026-10-06 05:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "JPM.O",
+        "Impact bearish",
+        "MS.O",
+        "WFC.O"
+      ],
+      "text": "【Semafor: New York Fed reviews major banks over private‑credit exposure】Semafor reports the New York Fed has begun visiting major banks to review loans to private‑credit firms and assess related exposures. Fed officials have met with JP Morgan, Wells Fargo, Barclays and Morgan Stanley since spring to question overall exposures, risk management and collateral quality. The probe was partly prompted by JP Morgan’s March write‑downs of large positions in its private‑credit portfolio, notably loans to software companies seen as vulnerable to AI. Sources say the Fed has completed reviews at some banks, including JP Morgan."
+    },
+    {
+      "id": "5126624",
+      "time": "2026-10-06 05:00:35",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國9月底外匯儲備降至4405.6億美元】韓國央行資料顯示，韓國9月底外匯儲備降至4405.6億美元，上月為4422.8億美元。外匯儲備構成：證券3860.3億美元；存款299.5億美元；黃金47.9億美元；特別提款權154.8億美元；國際貨幣基金組織儲備頭寸43億美元。"
+    },
+    {
+      "id": "mkt:01a10ddd-e2eb-7ee0-a7aa-9f7ee70bbf3f",
+      "time": "2026-10-06 05:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign-exchange reserves were $440.56 bln in September, down from $442.28 bln in the prior month."
+    },
+    {
+      "id": "mkt:01a10ddd-c594-7ee0-a7aa-9041cca78ef5",
+      "time": "2026-10-06 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Foreign Exchange Reserves (Sep) | actual 440560000000.00006B | previous 442280000000B"
+    },
+    {
+      "id": "mkt:01a10ddb-d53e-7ee0-a7aa-89fc906efa11",
+      "time": "2026-10-06 04:57:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New York declares disaster emergency over measles outbreak】New York Governor Kathy Hochul on Oct. 5 declared a disaster emergency in the state for a measles outbreak, effective Oct. 5–Nov. 4, 2026. The state reported 108 measles cases as of Oct. 3, 2026."
+    },
+    {
+      "id": "5126623",
+      "time": "2026-10-06 04:57:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國紐約州宣佈針對麻疹疫情進入災難緊急狀態】當地時間10月5日，美國紐約州州長凱西·霍楚爾釋出命令稱，紐約州針對麻疹疫情宣佈進入災難緊急狀態，有效期為2026年10月5日至11月4日。截至2026年10月3日，紐約州報告麻疹病例108例。（央視新聞）"
+    },
+    {
+      "id": "5126622",
+      "time": "2026-10-06 04:56:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：10月5日改變第130艘伊朗封鎖期間商船航線。"
+    },
+    {
+      "id": "mkt:01a10dd7-df65-7ee0-a7aa-8278c1b3ccc5",
+      "time": "2026-10-06 04:53:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "JPM.O",
+        "Impact bearish",
+        "WFC.O",
+        "MS.O"
+      ],
+      "text": "Semafor reports the New York Fed is visiting large banks to review their lending to private credit firms. Fed officials questioned JP Morgan, Wells Fargo, Barclays and Morgan Stanley about exposures to private credit, risk-management practices and collateral quality."
+    },
+    {
+      "id": "5126621",
+      "time": "2026-10-06 04:51:55",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員就風險敞口、風險管理、抵押品質量等問題向摩根大通、富國銀行、巴克萊、摩根士丹利提出質詢。"
+    },
+    {
+      "id": "5126620",
+      "time": "2026-10-06 04:50:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國紐約聯邦儲備銀行一直在走訪大型銀行，審查它們向私人信貸公司提供的貸款。"
+    },
+    {
+      "id": "5126619",
+      "time": "2026-10-06 04:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪稱電子貨架標籤並非用於動態定價，否認利用個人資料定價。"
+    },
+    {
+      "id": "mkt:01a10dd3-b5ee-7ee0-a7aa-78d27de74018",
+      "time": "2026-10-06 04:49:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BLK.O"
+      ],
+      "text": "Market sources said OpenAI is in financing talks with Thrive and Andreessen Horowitz and is also discussing a $30 billion funding round with a UAE sovereign wealth fund and BlackRock."
+    },
+    {
+      "id": "5126618",
+      "time": "2026-10-06 04:48:39",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【OpenAI正與阿聯酋多家基金、貝萊德洽談一輪300億美元融資】OpenAI正與阿聯酋多家投資基金（包括總部位於阿布扎比的MGX）洽談，由後者牽頭完成一輪300億美元的融資。這些基金將組建財團參與本輪投資；阿聯酋各基金合計討論最高出資100億美元。貝萊德集團也在洽談，將與該財團一同參與本輪融資。本次融資仍在推進，細節存在變動可能。"
+    },
+    {
+      "id": "5126617",
+      "time": "2026-10-06 04:47:38",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAI正與阿聯酋基金、貝萊德洽談300億美元融資輪次。OpenAI已與Thrive資本、安德森·霍洛維茨基金開展融資磋商。"
+    },
+    {
+      "id": "5126616",
+      "time": "2026-10-06 04:40:24",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【DayOne Data Centers提交納斯達克IPO檔案 股票程式碼為DODC】總部位於新加坡的數字基礎設施平臺DayOne Data Centers已向美國證券交易委員會(SEC)提交F-1註冊宣告，擬在納斯達克股票市場首次公開發行美國存托股票(ADS)，股票程式碼為“DODC”。DayOne在美國和中國以外運營超大規模資料中心，初期重點佈局東南亞。摩根士丹利、摩根大通、美銀證券、花旗集團和法國巴黎銀行為承銷商。"
+    },
+    {
+      "id": "mkt:01a10dc9-2e92-7ee0-a7aa-75f225e260d1",
+      "time": "2026-10-06 04:37:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump accused the New York Times of doctoring photos to portray a hotel owned by the Trump family unfavorably."
+    },
+    {
+      "id": "5126615",
+      "time": "2026-10-06 04:37:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國務卿：美軍轟炸機撤出英國系常規輪換】當地時間10月5日，美國國務卿魯比奧在接受採訪時表示，美國轟炸機撤出英國皇家空軍費爾福德基地與此前發生的安全威脅事件沒有直接關聯。魯比奧表示，美國國防部會根據需要持續調整軍事資源部署，基地也會進行常規輪換，包括人員和飛機的更替，因此在世界不同地區調動軍事資產並不罕見。（央視新聞）"
+    },
+    {
+      "id": "te:markets:589657",
+      "time": "2026-10-06 04:35:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.18% Higher — The Dow Jones Index rose 91 points or 0.18 percent on Monday to close at 51268 points. Leading the gains are Visa (2.49%), Nvidia (2.04%) and UnitedHealth (1.84%). Top losers were Merck (-3.23%), Salesforce (-2.14%) and J&J (-1.26%)."
+    },
+    {
+      "id": "5126614",
+      "time": "2026-10-06 04:34:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝稱對沙特實施三輪打擊】葉門胡塞武裝發言人葉海亞·薩雷亞當地時間10月5日深夜發表宣告稱，為回應沙特過去24小時對葉門發動的襲擊，胡塞武裝當天實施三輪軍事行動，使用大量彈道導彈、巡航導彈和無人機，襲擊了沙特首都利雅得的哈立德國王國際機場、紅海沿岸城市拉比格的沙特阿美石油公司煉油廠，以及艾卜哈機場、海米斯穆謝特基地、阿西爾省的阿基法軍營和納季蘭、吉贊省的多個敏感目標。"
+    },
+    {
+      "id": "5126613",
+      "time": "2026-10-06 04:32:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "AISI：美國鋼鐵公司截至10月3日當週產能利用率為78.3%。"
+    },
+    {
+      "id": "mkt:01a10dc0-f6d1-7ee0-a7aa-6eb2b4e60994",
+      "time": "2026-10-06 04:28:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Cuba says communication channels with US open but no formal talks】Cuba’s ambassador in Washington, Lianys Torres Rivera, told Reuters Havana maintains “communication channels” with the United States but has not begun formal negotiations. She said the Trump administration is applying pressure and Cuba has strengthened defensive preparations against any US military action. Recent contacts have included meetings, phone calls and messaging exchanges, but there has been no progress on a negotiating agenda or on restarting formal talks; Cuba remains willing to pursue “mutually respectful” dialogue but declined to disclose timing, topics or participants."
+    },
+    {
+      "id": "mkt:01a10dc0-9f99-7ee0-a7aa-61f22ee37b42",
+      "time": "2026-10-06 04:28:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Saudi-led coalition says it struck Houthi weapons facilities in Hodeidah】A Saudi-led coalition spokesman said coalition naval forces conducted operations in Yemen’s Hodeidah province, destroying what the coalition described as legitimate Houthi military targets, including weapons storage sites, explosive-boat depots and naval-mine facilities. The spokesman said the action aimed to thwart an imminent Houthi plot to attack southern Red Sea shipping lanes and to protect navigation through the Bab al-Mandeb."
+    },
+    {
+      "id": "mkt:01a10dbf-185f-7ee0-a7aa-5cce63b8f14a",
+      "time": "2026-10-06 04:26:29",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【MERZ says Germany will bolster NATO eastern-flank defenses】German chancellor MERZ said Germany will step up defenses on NATO's eastern flank and deepen cooperation with Lithuania to counter security threats from Russia. He said Berlin and Vilnius will expand cooperation on cyber defense, armed forces and the defense industry to repel Russian \"hybrid attacks\", strengthen deterrence, continue support for Ukraine and push Russia toward peace negotiations."
+    },
+    {
+      "id": "5126612",
+      "time": "2026-10-06 04:24:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【默茨：德國將加強北約東翼防務】德國總理默茨5日表示，德國將繼續加強北約東翼防務，並與立陶宛等北約盟國深化合作，應對來自俄羅斯的“安全威脅”。（新華社）"
+    },
+    {
+      "id": "5126611",
+      "time": "2026-10-06 04:23:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：北美石油對沖已出現浮虧，天然氣生產商將鎖定2028年有利價格。"
+    },
+    {
+      "id": "mkt:01a10dbb-0a79-7ee0-a7aa-51775d10efac",
+      "time": "2026-10-06 04:22:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Brazil stock index closes up nearly 8%】Brazil's IBOVESPA rose 7.85%, its largest single-day gain since 2020, after Bolsonaro (the former president's son) took the lead in the election."
+    },
+    {
+      "id": "mkt:01a10db9-b2c2-7ee0-a7aa-4ca6062e6428",
+      "time": "2026-10-06 04:20:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthis say they carried out three military operations in Saudi Arabia】Early on the 6th Beijing time, Houthi rebels said they carried out three military operations in Saudi Arabia. The first targeted King Khalid International Airport in Riyadh, disrupting airport navigation. The second struck Aramco’s Rabigh refinery, causing fires. The third hit Abha Airport, King Khalid Air Base, the Akif camp in Asir province, and other sensitive sites in Najran and Jizan provinces."
+    },
+    {
+      "id": "5126610",
+      "time": "2026-10-06 04:14:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "受博索納羅大選領先影響，巴西股市迎來2020年以來最佳單日表現。"
+    },
+    {
+      "id": "5126609",
+      "time": "2026-10-06 04:14:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工部長：美國勞工統計局正在研究如何衡量就業增長。"
+    },
+    {
+      "id": "5126608",
+      "time": "2026-10-06 04:13:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國勞工部長：勞工統計局資料將改善。"
+    },
+    {
+      "id": "te:markets:589655",
+      "time": "2026-10-06 04:13:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Gain as Big Tech Shares Rally — US stock indices closed higher on Monday as a rally in heavyweight technology shares outweighed concerns over still-elevated oil prices and bond yields. The S&P 500 rose 0.7%, the Nasdaq 100 gained 0.9% to close at a record 31,076 and the Dow added 91 points. Markets have absorbed rising borrowing costs, high energy costs and inflation concerns, with stocks continuing to advance. Strong earnings, consumer spending and sustained artificial intelligence-related investment have supported equities. AI hyperscalers posted solid gains, with Alphabet up 0.9%, Meta adding 1.9%, and Microsoft rising 1.5%. Meanwhile, chipmakers closed mixed, with gains in Nvidia (+2.1%) and Broadcom (+2.1%) mostly offsetting losses from Micron (-1%), AMD (-0.3%) and Intel (-2.6%). Tesla rose 2.2%, while SpaceX jumped 7.6% following reports of potential cooperation between Taiwan Semiconductor Manufacturing and Elon Musk’s Terafab initiative."
+    },
+    {
+      "id": "5126607",
+      "time": "2026-10-06 04:13:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國紐約聯儲就總體風險敞口質詢（各大）銀行。"
+    },
+    {
+      "id": "5126606",
+      "time": "2026-10-06 04:13:05",
+      "tags": [
+        "央行",
+        "觀點",
+        "國際"
+      ],
+      "text": "美國紐約聯儲同時走訪摩根士丹利、巴克萊銀行。"
+    },
+    {
+      "id": "mkt:01a10db2-663d-7ee0-a7aa-467894c4cd96",
+      "time": "2026-10-06 04:12:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi forces in Yemen said they carried out three military operations in Saudi Arabia."
+    },
+    {
+      "id": "5126605",
+      "time": "2026-10-06 04:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國紐約聯邦儲備銀行走訪大型銀行。"
+    },
+    {
+      "id": "mkt:01a10dab-fc0c-7ee0-a7aa-38d8ddad4203",
+      "time": "2026-10-06 04:05:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "Major U.S. indices closed higher on Monday, Oct 5: Dow Jones Industrial Average up 91.30 points (0.18%) at 51,268.26; S&P 500 up 51.27 points (0.66%) at 7,773.99; Nasdaq Composite up 286.45 points (1.05%) at 27,477.31."
+    },
+    {
+      "id": "mkt:01a10dab-6620-7ee0-a7aa-31dc68ca3bb3",
+      "time": "2026-10-06 04:04:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior Cuban diplomat said Cuba and the United States maintain 'channels of communication' but have not held formal negotiations."
+    },
+    {
+      "id": "mkt:01a10daa-852e-7ee0-a7aa-28f27db85a79",
+      "time": "2026-10-06 04:04:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Saudi-led coalition said naval forces carried out a military operation in Yemen's Hodeidah province."
+    },
     {
       "id": "5126604",
       "time": "2026-10-06 04:02:58",
