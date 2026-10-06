@@ -1,7 +1,15 @@
 {
   "date": "2026-10-06",
-  "count": 493,
+  "count": 494,
   "items": [
+    {
+      "id": "mkt:01a10edc-88b4-7ee0-a7ac-6260256fde4d",
+      "time": "2026-10-06 09:38:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nicaragua announces exit from Central American Parliament】Nicaragua Vice President Rosario Murillo said on the 5th that Managua has decided to withdraw from the Central American Parliament (PARLACEN). She said formal notice was sent to PARLACEN leadership on the 3rd and that Nicaragua considers the body to have failed to fulfill its objectives and deliver benefits to the region. PARLACEN is a regional political organization headquartered in Guatemala City."
+    },
     {
       "id": "mkt:01a10eda-54e9-7ee0-a7ac-5c82db347338",
       "time": "2026-10-06 09:35:51",
