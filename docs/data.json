@@ -1,7 +1,139 @@
 {
-  "updated": "2026-10-06 15:40:14",
-  "count": 10139,
+  "updated": "2026-10-06 15:44:03",
+  "count": 10145,
   "items": [
+    {
+      "id": "mkt:01a1102b-07cb-7ee0-a7b3-61e00c63b33a",
+      "time": "2026-10-06 15:43:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lithuanian parliament backs repeal of constitutional nuclear-weapons ban in first-round vote】Lithuania's parliament on Tuesday approved in a first-round vote a proposal to repeal the constitutional ban on nuclear weapons, the first of two votes required for the change to take effect. The 141-seat parliament recorded 106 votes in favour. The amendment, which would abolish a ban imposed more than 30 years ago, must secure a two-thirds majority in both parliamentary votes; the second round is scheduled for Jan. 12. President Nausėda said parties had agreed the plan in July and that there is currently no plan to host nuclear weapons, but removing the clause would allow deployment if the security situation changes. Lawmakers framed the move as a reassessment of regional security prompted by Russia's actions."
+    },
+    {
+      "id": "mkt:01a1102a-a2f7-7ee0-a7b3-5aa48b1019ee",
+      "time": "2026-10-06 15:43:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Post-holiday IPO wave】First trading week after the holiday: A-share primary market has one subscription, one allotment result and one listing. Tongze Kangwei plans subscription on Shenzhen ChiNext on Oct 9. Nanfang Dairy, which opened subscription on Sep 28, will publish Beijing Stock Exchange (BSE) allotment results on Oct 8. Yute Optoelectronics is scheduled to list on the BSE on Oct 9. Hong Kong market has one IPO: Yisiwei Computing launched its offering Sep 28; subscription deadline Oct 6 at 12:00pm, allotment results and grey-market trading on Oct 8, with primary listing on Oct 9."
+    },
+    {
+      "id": "mkt:01a1102a-874f-7ee0-a7b3-551d6ec3a5f5",
+      "time": "2026-10-06 15:43:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EQNR.OL",
+        "Impact bullish"
+      ],
+      "text": "Equinor CEO said the willingness to sign long-term natural gas contracts is strengthening; some European gas customers have signed contracts with terms extending into the 2040s."
+    },
+    {
+      "id": "5128208",
+      "time": "2026-10-06 15:42:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "Equinor執行長表示，目前市場上籤訂天然氣長期合同的意願有所提升。"
+    },
+    {
+      "id": "5128207",
+      "time": "2026-10-06 15:42:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "挪威 Equinor 執行長表示，目前已有歐洲天然氣客戶簽訂了有效期至21世紀40年代的長期合同。"
+    },
+    {
+      "id": "5128206",
+      "time": "2026-10-06 15:42:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴基斯坦財政部長穆罕默德·奧朗則布在活動上表示，22只房地產投資信託基金計劃在未來兩年內上市。"
+    },
+    {
+      "id": "te:economy:589810",
+      "time": "2026-10-06 15:42:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "Germany Construction Activity Falls at Faster Pace — The S&P Global Germany Construction PMI Total Activity Index fell to 43.5 in September 2026 from August’s eight-month high of 48.7. Renewed weakness in housing activity was the notable drag, with activity recording its steepest rate of decline since December 2024 after showing signs of steadying in August, while commercial activity also suffered a fresh setback following a brief return to growth. Meanwhile, civil engineering activity fell marginally. New orders continued to decline, albeit with the rate of contraction easing to its weakest in three months. This led constructors to scale back purchases of building materials and products, while the latest reduction in employment was the most pronounced since April. Cost pressures also intensified, with faster increases in both average input costs and subcontractor rates. Looking ahead, constructors remained pessimistic about the outlook for activity over the next 12 months."
+    },
+    {
+      "id": "mkt:01a11029-c695-7ee0-a7b3-4d1608b05eab",
+      "time": "2026-10-06 15:42:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Beijing gold and jewelry retailers offer discounts over National Day holiday】Multiple gold and jewelry retailers in Beijing are running National Day holiday promotions focused on trade-ins and deep retail discounts. Several stores offer 10% off select items (VIPs can get an additional 5%); promotions are aimed at clearing older stock. Chow Tai Seng staff said holiday trade-ins waive depreciation fees for all brands — customers pay only a processing fee of 40–150 yuan/gram. Retail offers include 200 yuan/gram off gold jewellery, fixed-price gold at 12% off for one item and 20% off for two, diamond-set items priced at 66% of list, and buy-one-get-one on wedding rings. Buyback prices have softened to around 850 yuan/gram following a pullback in international gold prices."
+    },
+    {
+      "id": "mkt:01a11029-65eb-7ee0-a7b3-468b98dd020d",
+      "time": "2026-10-06 15:41:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "Brent",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "【EU to extend methane regulation transition by one year】European Commission President Von der Leyen said the EU will grant methane exporters a one-year extension on the transition period for its methane emissions regulation. She said Brussels will launch a strategic dialogue with the European refining sector to lower costs and will propose measures in the coming months to raise electricity’s share of overall energy demand. Von der Leyen warned high energy costs are straining businesses and households and could worsen ahead of winter, so immediate action is required."
+    },
+    {
+      "id": "5128205",
+      "time": "2026-10-06 15:40:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【節後一波新股來襲】根據目前發行安排，節後第一週，A股市場有1只新股申購、1只新股公佈中籤結果，1只新股上市。其中，通則康威擬在深交所創業板上市，10月9日申購；此前已於9月28日開啟申購的南方乳業，擬在北交所上市，10月8日將公佈中籤結果；宇特光電擬於10月9日在北交所上市。 節後第一週，港股市場有1只新股上市，即奕斯偉計算。該公司已於9月28日啟動招股，申購截止日為10月6日中午12時，10月8日將公佈中籤結果並進行暗盤交易，10月9日正式上市。（中新經緯）"
+    },
+    {
+      "id": "te:markets:589806",
+      "time": "2026-10-06 15:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Rise for 3rd Day — European stocks moved higher on Tuesday, with both the STOXX 50 and STOXX 600 rising 0.7%, extending gains from the previous two sessions and marking their first three-day winning streak in a month. Pressure in the bond market eased, at least temporarily, although investors continued to monitor the political situation in Spain and France. Oil prices also edged lower amid signs of resilience in Middle Eastern crude exports. At the sector level, healthcare stocks led the gains, while oil and gas shares underperformed."
+    },
+    {
+      "id": "mkt:01a11027-c139-7ee0-a7b3-3bc83847e98f",
+      "time": "2026-10-06 15:40:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Industry association expects German refined sugar output to fall about 25% this season."
+    },
+    {
+      "id": "5128204",
+      "time": "2026-10-06 15:39:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "隔夜指數掉期市場定價顯示，投資者認為日本央行本月加息的機率約為12%；將12月會議納入考量後，加息機率則升至約90%。"
+    },
     {
       "id": "mkt:01a11026-32da-7ee0-a7b3-347c5a07c792",
       "time": "2026-10-06 15:38:21",
@@ -93401,70 +93533,6 @@
         "Importance 1"
       ],
       "text": "Brunei Inflation Rate Highest in Near 3 Years — Brunei’s annual inflation rate climbed to 0.5% in August 2026 from zero growth in the previous month, marking the highest reading since December 2023. Price pressures strengthened across most components, led by clothing (2.4% vs -3.8% in July) and food and non-alcoholic beverages (1.7% vs 1.2%). Inflation also increased for transport (0.6% vs 0.2%) and restaurants and hotels (0.7% vs 0.6%), while price growth was unchanged for furnishings, household equipment and routine household maintenance (at 0.3%), health (at 0.6%), recreation (at 0.7%) and education (at 0.3%). Meantime, miscellaneous goods and services returned to growth (0.3% vs -1.0%). Housing prices were broadly flat (0.02% vs 0.0%), while communication costs continued to decline (-3.5%). On a monthly basis, consumer prices rose 0.3%, reversing a 0.2% decline in July."
-    },
-    {
-      "id": "5118057",
-      "time": "2026-09-29 15:43:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【內蒙古自貿試驗區首次引進種質資源】9月29日，1.8萬餘支進口自加拿大的牛凍精經呼和浩特海關所屬賽罕海關屬地查驗放行，後續將用於內蒙古賽科星家畜種業與繁育生物技術研究院有限公司良種繁育。這是內蒙古自貿試驗區企業首次引進種質資源。內蒙古是我國重要農畜產品生產基地，擴大奶牛、肉牛等優良種質資源引進，是內蒙古自貿試驗區以制度創新服務現代農牧業的重要抓手。《中國（內蒙古）自由貿易試驗區總體方案》提出，要大力引進優質奶牛、肉牛、生豬等品種資源。（新華社）"
-    },
-    {
-      "id": "5118056",
-      "time": "2026-09-29 15:43:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國肉類人均佔有量約為世界平均水平的1.5倍】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，介紹“十五五”時期加快農業農村現代化、紮實推進鄉村全面振興有關情況，並答記者問。農業農村部新聞發言人、發展規劃司司長陳邦勳介紹，近年來，農業農村部會同有關部門，在確保糧食安全的同時，全方位、多途徑開發食物資源，農產品供應極大豐富。去年我國肉類產量首次突破1億噸，人均佔有量72.5公斤，大約是世界平均水平的1.5倍。（新華社）"
-    },
-    {
-      "id": "5118055",
-      "time": "2026-09-29 15:42:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "西班牙能源部長阿格森：我們希望歐盟考慮採取措施，以獲取高能源價格帶來的暴利；西班牙不希望推遲甲烷排放監管規定落地。"
-    },
-    {
-      "id": "te:markets:587549",
-      "time": "2026-09-29 15:42:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intesa Sanpaolo Stock Price Hits 4-week High — Intesa Sanpaolo shares increased to 6.83 EUR, the highest since August 2026. Over the past 4 weeks, Intesa Sanpaolo gained 0.56%, and in the last 12 months, it increased 21.61%."
-    },
-    {
-      "id": "5118054",
-      "time": "2026-09-29 15:41:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "隨著原油價格上漲，英國國債價格走高；10年期國債收益率下降5個基點至5.37%。"
-    },
-    {
-      "id": "te:markets:587547",
-      "time": "2026-09-29 15:41:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Rise for 3rd Session — European stocks rose for a third consecutive session on Tuesday, with the STOXX 50 gaining 0.5% and the STOXX 600 advancing 0.7%. Investors continued to look past higher oil prices and the standoff between the US and Iran, while bond yields remained at multi-year highs. The technology sector was among the top performers, led largely by semiconductor stocks, following a Reuters report that Anthropic is making a major bet on AI transforming the global economy and that public investors will help finance its expansion. ASML Holding (2.8%), STMicroelectronics (2.5%), Schneider Electric (2.3%), Infineon Technologies (2%) were among the top gainers. Also, Legrand soared 5.8% after raising its medium-term targets. On the other hand, industrials and the food & beverages sector were under pressure. Vinci (-3.3%), Ocado (-3.2%), Vestas (-3.4%) and ThyssenKrupp (-2.9%) bottomed the STOXX 600."
-    },
-    {
-      "id": "5118053",
-      "time": "2026-09-29 15:40:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【緯德資訊：籌劃重大資產重組進展暨簽署補充協議】緯德資訊公告稱，公司控股子公司雙洲科技籌劃以現金方式收購廈門海晟融創資訊科技有限公司51%股權，預計構成重大資產重組，不涉及發行股份，不會導致公司控制權變更。目前各方正推進盡職調查、審計評估等工作，公司、雙洲科技與標的公司及股東簽署補充協議，調整收購方案、將協議有效期延長至2027年1月31日，約定力爭該日前完成交割。本次交易尚處籌劃階段，未簽署正式協議，尚需履行內部決策程式，存在不確定性。"
     }
   ]
 }

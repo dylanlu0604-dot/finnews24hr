@@ -1,7 +1,139 @@
 {
   "date": "2026-10-06",
-  "count": 983,
+  "count": 996,
   "items": [
+    {
+      "id": "mkt:01a1102b-07cb-7ee0-a7b3-61e00c63b33a",
+      "time": "2026-10-06 15:43:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lithuanian parliament backs repeal of constitutional nuclear-weapons ban in first-round vote】Lithuania's parliament on Tuesday approved in a first-round vote a proposal to repeal the constitutional ban on nuclear weapons, the first of two votes required for the change to take effect. The 141-seat parliament recorded 106 votes in favour. The amendment, which would abolish a ban imposed more than 30 years ago, must secure a two-thirds majority in both parliamentary votes; the second round is scheduled for Jan. 12. President Nausėda said parties had agreed the plan in July and that there is currently no plan to host nuclear weapons, but removing the clause would allow deployment if the security situation changes. Lawmakers framed the move as a reassessment of regional security prompted by Russia's actions."
+    },
+    {
+      "id": "mkt:01a1102a-a2f7-7ee0-a7b3-5aa48b1019ee",
+      "time": "2026-10-06 15:43:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Post-holiday IPO wave】First trading week after the holiday: A-share primary market has one subscription, one allotment result and one listing. Tongze Kangwei plans subscription on Shenzhen ChiNext on Oct 9. Nanfang Dairy, which opened subscription on Sep 28, will publish Beijing Stock Exchange (BSE) allotment results on Oct 8. Yute Optoelectronics is scheduled to list on the BSE on Oct 9. Hong Kong market has one IPO: Yisiwei Computing launched its offering Sep 28; subscription deadline Oct 6 at 12:00pm, allotment results and grey-market trading on Oct 8, with primary listing on Oct 9."
+    },
+    {
+      "id": "mkt:01a1102a-874f-7ee0-a7b3-551d6ec3a5f5",
+      "time": "2026-10-06 15:43:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EQNR.OL",
+        "Impact bullish"
+      ],
+      "text": "Equinor CEO said the willingness to sign long-term natural gas contracts is strengthening; some European gas customers have signed contracts with terms extending into the 2040s."
+    },
+    {
+      "id": "5128208",
+      "time": "2026-10-06 15:42:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "Equinor執行長表示，目前市場上籤訂天然氣長期合同的意願有所提升。"
+    },
+    {
+      "id": "5128207",
+      "time": "2026-10-06 15:42:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "挪威 Equinor 執行長表示，目前已有歐洲天然氣客戶簽訂了有效期至21世紀40年代的長期合同。"
+    },
+    {
+      "id": "5128206",
+      "time": "2026-10-06 15:42:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴基斯坦財政部長穆罕默德·奧朗則布在活動上表示，22只房地產投資信託基金計劃在未來兩年內上市。"
+    },
+    {
+      "id": "te:economy:589810",
+      "time": "2026-10-06 15:42:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "Germany Construction Activity Falls at Faster Pace — The S&P Global Germany Construction PMI Total Activity Index fell to 43.5 in September 2026 from August’s eight-month high of 48.7. Renewed weakness in housing activity was the notable drag, with activity recording its steepest rate of decline since December 2024 after showing signs of steadying in August, while commercial activity also suffered a fresh setback following a brief return to growth. Meanwhile, civil engineering activity fell marginally. New orders continued to decline, albeit with the rate of contraction easing to its weakest in three months. This led constructors to scale back purchases of building materials and products, while the latest reduction in employment was the most pronounced since April. Cost pressures also intensified, with faster increases in both average input costs and subcontractor rates. Looking ahead, constructors remained pessimistic about the outlook for activity over the next 12 months."
+    },
+    {
+      "id": "mkt:01a11029-c695-7ee0-a7b3-4d1608b05eab",
+      "time": "2026-10-06 15:42:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Beijing gold and jewelry retailers offer discounts over National Day holiday】Multiple gold and jewelry retailers in Beijing are running National Day holiday promotions focused on trade-ins and deep retail discounts. Several stores offer 10% off select items (VIPs can get an additional 5%); promotions are aimed at clearing older stock. Chow Tai Seng staff said holiday trade-ins waive depreciation fees for all brands — customers pay only a processing fee of 40–150 yuan/gram. Retail offers include 200 yuan/gram off gold jewellery, fixed-price gold at 12% off for one item and 20% off for two, diamond-set items priced at 66% of list, and buy-one-get-one on wedding rings. Buyback prices have softened to around 850 yuan/gram following a pullback in international gold prices."
+    },
+    {
+      "id": "mkt:01a11029-65eb-7ee0-a7b3-468b98dd020d",
+      "time": "2026-10-06 15:41:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "Brent",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "【EU to extend methane regulation transition by one year】European Commission President Von der Leyen said the EU will grant methane exporters a one-year extension on the transition period for its methane emissions regulation. She said Brussels will launch a strategic dialogue with the European refining sector to lower costs and will propose measures in the coming months to raise electricity’s share of overall energy demand. Von der Leyen warned high energy costs are straining businesses and households and could worsen ahead of winter, so immediate action is required."
+    },
+    {
+      "id": "5128205",
+      "time": "2026-10-06 15:40:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【節後一波新股來襲】根據目前發行安排，節後第一週，A股市場有1只新股申購、1只新股公佈中籤結果，1只新股上市。其中，通則康威擬在深交所創業板上市，10月9日申購；此前已於9月28日開啟申購的南方乳業，擬在北交所上市，10月8日將公佈中籤結果；宇特光電擬於10月9日在北交所上市。 節後第一週，港股市場有1只新股上市，即奕斯偉計算。該公司已於9月28日啟動招股，申購截止日為10月6日中午12時，10月8日將公佈中籤結果並進行暗盤交易，10月9日正式上市。（中新經緯）"
+    },
+    {
+      "id": "te:markets:589806",
+      "time": "2026-10-06 15:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Rise for 3rd Day — European stocks moved higher on Tuesday, with both the STOXX 50 and STOXX 600 rising 0.7%, extending gains from the previous two sessions and marking their first three-day winning streak in a month. Pressure in the bond market eased, at least temporarily, although investors continued to monitor the political situation in Spain and France. Oil prices also edged lower amid signs of resilience in Middle Eastern crude exports. At the sector level, healthcare stocks led the gains, while oil and gas shares underperformed."
+    },
+    {
+      "id": "mkt:01a11027-c139-7ee0-a7b3-3bc83847e98f",
+      "time": "2026-10-06 15:40:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Industry association expects German refined sugar output to fall about 25% this season."
+    },
+    {
+      "id": "5128204",
+      "time": "2026-10-06 15:39:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "隔夜指數掉期市場定價顯示，投資者認為日本央行本月加息的機率約為12%；將12月會議納入考量後，加息機率則升至約90%。"
+    },
     {
       "id": "mkt:01a11026-32da-7ee0-a7b3-347c5a07c792",
       "time": "2026-10-06 15:38:21",
