@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07 03:51:12",
-  "count": 9726,
+  "updated": "2026-10-07 03:54:58",
+  "count": 9717,
   "items": [
     {
       "id": "mkt:01a112c4-0684-7ee0-a7c4-acb2483a5838",
@@ -89500,89 +89500,6 @@
         "國際"
       ],
       "text": "特朗普談人工智慧：世界上最聰明的人都在互相觀察。"
-    },
-    {
-      "id": "mkt:01a0eebb-ff85-7338-ab1c-20d897faa45f",
-      "time": "2026-09-30 03:54:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian media Fars News reported explosions heard in Erbil, Iraq."
-    },
-    {
-      "id": "mkt:01a0eebb-f873-7338-ab1c-1e05092f8871",
-      "time": "2026-09-30 03:54:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "US President Trump said the administration will conduct a comprehensive assessment of artificial intelligence."
-    },
-    {
-      "id": "5119411",
-      "time": "2026-09-30 03:54:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將會很好地評估人工智慧。"
-    },
-    {
-      "id": "mkt:01a0eeba-d851-7338-ab1c-16a41a58c6a2",
-      "time": "2026-09-30 03:53:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. President Trump said he and technology industry leaders have officially renamed \"artificial intelligence\" (AI) to \"Super Intelligence\" (SI)."
-    },
-    {
-      "id": "5119409",
-      "time": "2026-09-30 03:53:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：人工智慧將得到非常充分的評估。"
-    },
-    {
-      "id": "mkt:01a0eeb9-e472-7338-ab1c-09362b89bca6",
-      "time": "2026-09-30 03:52:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump, discussing data centers and the midterm elections, said: \"We must do the right thing.\""
-    },
-    {
-      "id": "5119408",
-      "time": "2026-09-30 03:52:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（被問及資料中心與中期選舉問題時）必須做正確的事。"
-    },
-    {
-      "id": "mkt:01a0eeb9-9585-7338-ab1c-025c658ec5d1",
-      "time": "2026-09-30 03:52:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "The Trump Trade"
-      ],
-      "text": "When asked whether AI guardrails were unnecessary, US President Trump said yes."
-    },
-    {
-      "id": "5119406",
-      "time": "2026-09-30 03:51:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：人工智慧創新與安全之間不存在衝突。"
     }
   ]
 }
