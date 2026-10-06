@@ -1,7 +1,58 @@
 {
-  "updated": "2026-10-06 09:40:26",
-  "count": 10396,
+  "updated": "2026-10-06 09:44:14",
+  "count": 10387,
   "items": [
+    {
+      "id": "te:markets:589697",
+      "time": "2026-10-06 09:43:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Edge Lower on Profit-Taking — The benchmark KOSPI edged down to around 6,970 on Tuesday, reversing gains from the previous session as profit-taking and elevated global bond yields weighed on the market. Investors took profits following recent gains, particularly in large-cap technology shares. At the same time, the US 10-year Treasury yield climbed to a 24-year high above 5.34%, reinforcing concerns over higher-for-longer rates. Meanwhile, Wall Street's Nasdaq reached a record high, reinforcing the positive outlook for Korean chipmakers. Samsung Electronics also rose ahead of its third-quarter earnings guidance later this week, with analysts forecasting record operating profit of around KRW108.1 trillion on robust memory chip demand. Large-cap performance was mixed, with losses in SK hynix (-2.2%), Hanwha Aerospace (-2.4%), and Samsung Biologics (-1.7%), while Samsung Electronics (+0.2%), SK Square (+1.6%), and LG Energy Solution (+1.8%) posted gains."
+    },
+    {
+      "id": "5127851",
+      "time": "2026-10-06 09:43:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "智譜港股漲幅擴大至5%。"
+    },
+    {
+      "id": "mkt:01a10ee1-2116-7ee0-a7ac-75b5887b62ee",
+      "time": "2026-10-06 09:43:17",
+      "tags": [
+        "MKT News",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Zhipu (02513.HK) extended early gains, trading about 5% higher."
+    },
+    {
+      "id": "5127850",
+      "time": "2026-10-06 09:43:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【部分港股人工智慧相關個股延續漲勢 傅立葉漲近16%】截至發稿，傅立葉(03625.HK)漲15.88%，德適-B(02526.HK)漲5.18%，文遠知行—W(00800.HK)漲1.53%。"
+    },
+    {
+      "id": "mkt:01a10ede-eecd-7ee0-a7ac-68f4a0f25b2c",
+      "time": "2026-10-06 09:40:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Hormuz crude flows recovering; diesel remains severely scarce】Kpler data show average crude transits through the Strait of Hormuz were 10.3 mln bpd over the past seven days, about 76% of the pre-war baseline. Refined product flows (gasoline and diesel) totaled only 1.3 mln bpd, roughly 11% of shipments versus >20% pre-war, signalling sustained diesel tightness. Sources say U.S. oil industry executives have urged the U.S. Navy to prioritise escorting product tankers carrying diesel over crude tankers because crude prices are roughly half those of diesel. So far most U.S.-escorted vessels have been VLCCs (~2 mln-barrel capacity), about double the capacity of the largest product tankers."
+    },
     {
       "id": "mkt:01a10edc-88b4-7ee0-a7ac-6260256fde4d",
       "time": "2026-10-06 09:38:16",
@@ -95644,147 +95695,6 @@
         "Impact bullish"
       ],
       "text": "Newly listed stock N Anda jumped 345%, triggering a second intraday trading suspension; turnover exceeded CNY200 million."
-    },
-    {
-      "id": "5117576",
-      "time": "2026-09-29 09:44:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新疆大石峽水利樞紐工程首批機組併網發電】中國能建訊息，世界最高混凝土面板砂礫石壩——新疆大石峽水利樞紐工程首批機組正式併網發電。大石峽水利樞紐工程位於天山西部，新疆阿克蘇地區庫瑪拉克河中下游的大石峽峽谷處，總裝機容量達75萬千瓦。目前，首批1號、2號機組投產發電，3號機組廠內試驗已全部完成，預計年底前實現3臺機組全部投產發電。"
-    },
-    {
-      "id": "5117575",
-      "time": "2026-09-29 09:43:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲2%，現報5258.00元。"
-    },
-    {
-      "id": "5117574",
-      "time": "2026-09-29 09:43:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "希音股價跌近6%，此前公佈季度利潤下滑67%。"
-    },
-    {
-      "id": "5117573",
-      "time": "2026-09-29 09:43:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "三大指數集體翻紅，電池、元件、房地產板塊領漲。"
-    },
-    {
-      "id": "5117572",
-      "time": "2026-09-29 09:43:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黑貓股份在江西成立化工銷售公司】企查查APP顯示，近日，江西黑貓化工銷售有限公司成立，經營範圍包含：飼料新增劑銷售，貨物進出口，工程塑膠及合成樹脂銷售等。企查查股權穿透顯示，該公司由黑貓股份(002068)全資持股。"
-    },
-    {
-      "id": "te:economy:587426",
-      "time": "2026-09-29 09:43:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Household Spending MoM",
-        "Importance 2"
-      ],
-      "text": "Australia Household Spending Stalls After Three-Month Growth — Australian household spending was flat month-on-month in August 2026, following a 1.1% increase in the prior month and ending three consecutive months of growth. Spending continued to rise on transport (2.3% vs 0.5% in July), hotels, cafes and restaurants (0.8% vs 1.1%), and miscellaneous goods and services (0.3% vs 1.3%). However, these gains were offset by declines in food (-0.3% vs 0.9%), alcohol and tobacco (-1.0% vs 1.1%), clothing (-1.0% vs 1.5%), furnishings (-0.6% vs 0.3%), health (-0.9% vs 1.2%), and recreation (-1.4% vs 1.7%). Regionally, spending increased in New South Wales (0.3%), Queensland (0.3%), South Australia (0.1%) and the Northern Territory (0.1%), but fell in Victoria (-0.4%), Western Australia (-0.2%), Tasmania (-0.5%) and the Australian Capital Territory (-0.5%). On an annual basis, household spending rose 6.8%, easing from 7.0% in July, which was the fastest growth since June 2023."
-    },
-    {
-      "id": "5117571",
-      "time": "2026-09-29 09:43:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破94美元/桶，日內漲1.51%。"
-    },
-    {
-      "id": "mkt:01a0ead4-2c2e-7338-aafd-64a9c8ba12d1",
-      "time": "2026-09-29 09:42:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "CNH"
-      ],
-      "text": "China A-share chemical-pharmaceutical sector spiked intraday; Jinyao Pharmaceutical hit the daily limit, with Livzon Pharmaceutical Group, Betta Pharmaceutical, Haichen Pharmaceutical, Yifang Bio and Kelun Pharmaceutical also rising."
-    },
-    {
-      "id": "mkt:01a0ead3-f36a-7338-aafd-5d1b66dfaf26",
-      "time": "2026-09-29 09:42:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "00625.HK",
-        "Impact bearish"
-      ],
-      "text": "Xiyin-W (00625.HK) fell over 5% after reporting 1H net revenue of $20.1 billion, up 1% YoY."
-    },
-    {
-      "id": "5117570",
-      "time": "2026-09-29 09:42:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.02%，成分股中，納科諾爾漲6.26%，安達科技漲4.96%，萬源通漲4.26%，長虹能源漲4.20%。"
-    },
-    {
-      "id": "mkt:01a0ead3-5d99-7338-aafd-5247ca7aa554",
-      "time": "2026-09-29 09:41:55",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact mixed"
-      ],
-      "text": "【RBA hike imminent; institutions warn Australia's housing correction could become pressure-driven sell-off】Since May Australian house prices have fallen markedly, though analysts still call it an orderly adjustment; only a minority of mortgage borrowers are in negative equity. Robust employment and tight housing supply have provided support. Institutions warn that two further RBA hikes before year-end — taking the official cash rate to a near 20-year high — could push the correction into a pressure-driven sell-off. Markets broadly expect the RBA to announce a fourth hike today at 0430 GMT (Beijing 12:30)."
-    },
-    {
-      "id": "5117569",
-      "time": "2026-09-29 09:41:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【化學制藥板塊短線拉昇，津藥藥業漲停】化學制藥板塊短線拉昇，津藥藥業漲停，麗珠集團、貝達藥業、海辰藥業、益方生物、科倫藥業跟漲。"
-    },
-    {
-      "id": "mkt:01a0ead2-9ad1-7338-aafd-49f8e50cbaf1",
-      "time": "2026-09-29 09:41:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "002074.SZ",
-        "Impact bullish"
-      ],
-      "text": "China A-share battery sector extended gains; Zizhu Hi-Tech, Guoxuan Hi-Tech and Shangshui Intelligent hit daily limit-up, Wuhan Blue Electric surged more than 20%. Keheng, Tianhong Lithium, Lingpai Technology, Liyuanheng and Liwang also advanced."
-    },
-    {
-      "id": "mkt:01a0ead2-379a-7338-aafd-41c914f3a77e",
-      "time": "2026-09-29 09:40:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 5-year bond yield fell 2 bps to 2.400%."
     }
   ]
 }
