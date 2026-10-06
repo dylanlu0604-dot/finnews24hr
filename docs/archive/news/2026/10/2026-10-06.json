@@ -1,7 +1,215 @@
 {
   "date": "2026-10-06",
-  "count": 1415,
+  "count": 1437,
   "items": [
+    {
+      "id": "mkt:01a1118f-a05d-7ee0-a7be-51753110cbaf",
+      "time": "2026-10-06 22:13:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabian TV quoted the prime minister of the Kurdistan Regional Government as saying the Kurdistan Region faces no security threats and is coordinating with the federal government and allies to install air-defence and counter-UAV systems."
+    },
+    {
+      "id": "5128827",
+      "time": "2026-10-06 22:12:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "塞內加爾債券價格上漲，因政府預計數月內完成債務重組。"
+    },
+    {
+      "id": "te:markets:589907",
+      "time": "2026-10-06 22:11:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Siemens Energy Shares Hit 4-week High — Siemens Energy shares increased to 150.16 EUR, the highest since September 2026. Over the past 4 weeks, Siemens Energy AG gained 0.85%, and in the last 12 months, it increased 42.75%."
+    },
+    {
+      "id": "5128826",
+      "time": "2026-10-06 22:10:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗石油部負責人：規劃冬季燃料供應、提升開發專案的速度與精準度，以及強化貿易與石油銷售政策，是石油部當前最緊迫的三大核心要務。"
+    },
+    {
+      "id": "mkt:01a1118c-0842-7ee0-a7be-4af8d84c8474",
+      "time": "2026-10-06 22:09:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Syria's state oil company CEO said four new power plants will be completed by 2029 and will require at least 30 million cubic meters of natural gas per day (≈30 mcm/d)."
+    },
+    {
+      "id": "5128825",
+      "time": "2026-10-06 22:09:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "敘利亞石油公司執行長表示，到2029年將新增四座發電廠，這些電廠每天至少需要3000萬立方米天然氣。"
+    },
+    {
+      "id": "mkt:01a1118b-7063-7ee0-a7be-44114fe04d4e",
+      "time": "2026-10-06 22:08:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi militia says more than 200 Saudi-backed fighters killed or wounded in southern Yemen strikes】Houthi military spokesman Yahya Saree said on social media on the 6th the group launched dozens of strikes on \"Saudi-backed fighters\" concentration points in Lahij province in southern Yemen, claiming more than 200 killed or wounded — a toll it called \"unprecedented\" in recent fighting. He said Houthis also struck concentration points in eastern Jawf and eastern Marib (an oil-producing province), dismissed reports of large-scale government advances on the Red Sea coast as exaggerated, and said operations against government forces continue in Taiz province in the southwest."
+    },
+    {
+      "id": "te:markets:589905",
+      "time": "2026-10-06 22:08:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Coffee Hits 4-week High — Coffee increased to 300.55 USd/Lbs, the highest since September 2026. Over the past 4 weeks, Coffee gained 2.72%, and in the last 12 months, it decreased 20.29%."
+    },
+    {
+      "id": "5128824",
+      "time": "2026-10-06 22:08:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美泰股價下跌2.6%；大股東Ariel Investments施壓要求出售公司。"
+    },
+    {
+      "id": "te:economy:589904",
+      "time": "2026-10-06 22:08:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Economic Optimism Index",
+        "Importance 1"
+      ],
+      "text": "US Economic Optimism Gauge Unexpectedly Increases — The RealClearMarkets/TIPP Economic Optimism Index rose to 46.8 in October of 2026 from 45.6 in the previous month, ahead of market expectations that it would worsen to 44.5, to mark the highest level since March. The improvement was broad-based among all sections of the survey, with the six-month outlook index rising to 42.7 from 41.3 in September. Meanwhile, the personal financial outlook index rose to 53.4 from 52.7 and the gauge measuring how optimistic the economy is with federal government policy rose to 44.4 from 42.9, despite the sure in volatility in Treasury securities."
+    },
+    {
+      "id": "5128823",
+      "time": "2026-10-06 22:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱斃傷沙特支援的武裝人員逾200人】薩那訊息：葉門胡塞武裝軍事發言人葉海亞·薩雷亞6日在社交媒體發表宣告稱，胡塞武裝當天在葉門南部拉赫季省對“沙特支援的武裝人員集結地”發動數十次襲擊，造成對方200多人傷亡。（新華社）"
+    },
+    {
+      "id": "mkt:01a1118a-8304-7ee0-a7be-3df0c1a29061",
+      "time": "2026-10-06 22:07:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission proposes a rule aimed at new member states that would allow suspension of their EU voting rights if they backslide on EU values."
+    },
+    {
+      "id": "mkt:01a1118a-2958-7ee0-a7be-310bc5ec8435",
+      "time": "2026-10-06 22:07:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr News Agency reported France's ambassador in Tehran was summoned to Iran's foreign ministry today over human rights issues in France."
+    },
+    {
+      "id": "5128822",
+      "time": "2026-10-06 22:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會針對歐盟新成員國提出新規：若新成員國在歐盟價值觀方面出現倒退，可暫停其歐盟投票權。"
+    },
+    {
+      "id": "mkt:01a11189-a690-7ee0-a7be-2d734ec045b0",
+      "time": "2026-10-06 22:06:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "JPM.O",
+        "Impact bearish"
+      ],
+      "text": "【JP Morgan CEO Dimon: Anthropic's Mythos model raises global cyber risk tenfold】JP Morgan CEO Jamie Dimon said on Tuesday that Anthropic's Mythos AI model has increased global cybersecurity risk tenfold, creating previously unknown vulnerabilities and exposing banks to new or undiscovered attack vectors. Dimon called the concern legitimate but declined to engage in debates over AI as an existential threat, urging a pragmatic, hands-on approach to mitigation."
+    },
+    {
+      "id": "5128821",
+      "time": "2026-10-06 22:06:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗因“侵犯人權”問題召見法國特使。"
+    },
+    {
+      "id": "5128820",
+      "time": "2026-10-06 22:06:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "敘利亞石油公司執行長：敘利亞每天從亞塞拜然和約旦進口600萬立方米天然氣，國內生產約900萬立方米。"
+    },
+    {
+      "id": "mkt:01a11189-109e-7ee0-a7be-205d09960902",
+      "time": "2026-10-06 22:05:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Syria imports about 6 mln cubic meters of gas per day from Azerbaijan and Jordan and produces roughly 9 mln cubic meters domestically, the chief executive of Syria's oil company said."
+    },
+    {
+      "id": "em:jjsj_mgsj:202610063888807271",
+      "time": "2026-10-06 22:05:50",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國9月全球供應鏈壓力指數1.28，前值1.06。"
+    },
+    {
+      "id": "mkt:01a11188-bac0-7ee0-a7be-1d9f4f0494b5",
+      "time": "2026-10-06 22:05:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US Global Supply Chain Pressure Index for September rose to 1.28 from a prior 1.06."
+    },
+    {
+      "id": "5128819",
+      "time": "2026-10-06 22:05:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國9月全球供應鏈壓力指數 1.28，前值1.06。"
+    },
+    {
+      "id": "mkt:01a11188-9cdd-7ee0-a7be-15fc07b76ceb",
+      "time": "2026-10-06 22:05:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Global Supply Chain Pressure Index (Sep) | actual 1.28 | previous 1.06"
+    },
     {
       "id": "5128818",
       "time": "2026-10-06 22:04:31",
