@@ -1,7 +1,66 @@
 {
   "date": "2026-10-06",
-  "count": 452,
+  "count": 458,
   "items": [
+    {
+      "id": "mkt:01a10ec1-8123-7ee0-a7ab-de4784a33932",
+      "time": "2026-10-06 09:08:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister expects economic growth this year to reach 3%."
+    },
+    {
+      "id": "mkt:01a10ec1-41f5-7ee0-a7ab-d4dc8d495bd2",
+      "time": "2026-10-06 09:08:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Market sources: US Treasury Secretary Bessent expects Q3 GDP growth to exceed 3% and says mortgage rates will decline once the Iran war ends."
+    },
+    {
+      "id": "mkt:01a10ec0-9cb4-7ee0-a7ab-cdfe34884a0d",
+      "time": "2026-10-06 09:07:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan 20-year government bond yield rose 1bp to 3.98%."
+    },
+    {
+      "id": "5127593",
+      "time": "2026-10-06 09:07:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上漲1個基點，至3.98%。"
+    },
+    {
+      "id": "5127588",
+      "time": "2026-10-06 09:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "東麗萊卡（Toray Lycra）滋賀工廠發生爆炸，一人受傷。"
+    },
+    {
+      "id": "5127570",
+      "time": "2026-10-06 09:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗戰爭結束抵押貸款利率將會回落。"
+    },
     {
       "id": "5127560",
       "time": "2026-10-06 09:05:21",

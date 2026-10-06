@@ -1,7 +1,66 @@
 {
-  "updated": "2026-10-06 09:06:30",
-  "count": 10412,
+  "updated": "2026-10-06 09:10:18",
+  "count": 10413,
   "items": [
+    {
+      "id": "mkt:01a10ec1-8123-7ee0-a7ab-de4784a33932",
+      "time": "2026-10-06 09:08:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister expects economic growth this year to reach 3%."
+    },
+    {
+      "id": "mkt:01a10ec1-41f5-7ee0-a7ab-d4dc8d495bd2",
+      "time": "2026-10-06 09:08:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Market sources: US Treasury Secretary Bessent expects Q3 GDP growth to exceed 3% and says mortgage rates will decline once the Iran war ends."
+    },
+    {
+      "id": "mkt:01a10ec0-9cb4-7ee0-a7ab-cdfe34884a0d",
+      "time": "2026-10-06 09:07:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan 20-year government bond yield rose 1bp to 3.98%."
+    },
+    {
+      "id": "5127593",
+      "time": "2026-10-06 09:07:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上漲1個基點，至3.98%。"
+    },
+    {
+      "id": "5127588",
+      "time": "2026-10-06 09:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "東麗萊卡（Toray Lycra）滋賀工廠發生爆炸，一人受傷。"
+    },
+    {
+      "id": "5127570",
+      "time": "2026-10-06 09:06:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：伊朗戰爭結束抵押貸款利率將會回落。"
+    },
     {
       "id": "5127560",
       "time": "2026-10-06 09:05:21",
@@ -95822,46 +95881,6 @@
         "國際"
       ],
       "text": "魯比奧：霍爾木茲海峽保持通航，僅伊朗石油相關運輸受影響。"
-    },
-    {
-      "id": "5117518",
-      "time": "2026-09-29 09:09:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：正在與澳大利亞政府機構緊密合作，正對模型活動進行全面審查。"
-    },
-    {
-      "id": "5117516",
-      "time": "2026-09-29 09:07:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：英國一直很合作，也很有幫助。"
-    },
-    {
-      "id": "5117515",
-      "time": "2026-09-29 09:07:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陶氏公司與安姆科啟動戰略合作】9月29日，陶氏公司與安姆科宣佈達成戰略合作，助力品牌商和零售商加速採用低碳包裝解決方案。雙方將發揮各自在材料創新、包裝開發和碳足跡管理方面的優勢，共同推動包裝價值鏈減碳程序。"
-    },
-    {
-      "id": "5117514",
-      "time": "2026-09-29 09:06:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI：首席戰略官將於10月6日到訪悉尼。"
-    },
-    {
-      "id": "5117513",
-      "time": "2026-09-29 09:06:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI將成立澳大利亞AI網路風險工作組。"
     }
   ]
 }
