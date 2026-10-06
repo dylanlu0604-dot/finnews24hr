@@ -1,7 +1,73 @@
 {
   "date": "2026-10-07",
-  "count": 217,
+  "count": 225,
   "items": [
+    {
+      "id": "mkt:01a112ac-3cf7-7ee0-a7c4-6e5f857de088",
+      "time": "2026-10-07 03:23:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources said autonomous driving company Waymo has upsized a private debt transaction to $5 billion."
+    },
+    {
+      "id": "5129100",
+      "time": "2026-10-07 03:23:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Waymo 將私募債務融資規模提升至 50 億美元。"
+    },
+    {
+      "id": "mkt:01a112ac-2bcf-7ee0-a7c4-61558d78dc68",
+      "time": "2026-10-07 03:23:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump avoided questions about \"taking Los Angeles and San Diego\"."
+    },
+    {
+      "id": "mkt:01a112a9-9af1-7ee0-a7c4-5f8c59fb361f",
+      "time": "2026-10-07 03:21:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's transport ministry said all 23 crew aboard the Liberian-flagged Aframax tanker \"Aframax Rio\", which caught fire off Russia's Black Sea coast, were rescued with no casualties."
+    },
+    {
+      "id": "mkt:01a112a9-972d-7ee0-a7c4-505da6317365",
+      "time": "2026-10-07 03:21:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Ministry of Transport said the Aframax Rio was attacked by unmanned surface vessels (USVs)."
+    },
+    {
+      "id": "5129099",
+      "time": "2026-10-07 03:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯交通部：火勢減弱後，俄羅斯消防人員具備撲滅大火的條件。"
+    },
+    {
+      "id": "5129098",
+      "time": "2026-10-07 03:20:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯交通部：阿芙拉型油輪 “Aframax Rio” 遭無人艇襲擊。"
+    },
+    {
+      "id": "5129097",
+      "time": "2026-10-07 03:20:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯交通部：懸掛賴比瑞亞國旗的阿芙拉型油輪 “Aframax Rio” 在俄羅斯黑海沿岸起火，船上 23 名船員已全部獲救，無人員傷亡。"
+    },
     {
       "id": "5129096",
       "time": "2026-10-07 03:19:30",

@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-07 03:20:52",
-  "count": 9760,
+  "updated": "2026-10-07 03:24:43",
+  "count": 9762,
   "items": [
+    {
+      "id": "5129100",
+      "time": "2026-10-07 03:23:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Waymo 將私募債務融資規模提升至 50 億美元。"
+    },
+    {
+      "id": "mkt:01a112ac-3cf7-7ee0-a7c4-6e5f857de088",
+      "time": "2026-10-07 03:23:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources said autonomous driving company Waymo has upsized a private debt transaction to $5 billion."
+    },
+    {
+      "id": "mkt:01a112ac-2bcf-7ee0-a7c4-61558d78dc68",
+      "time": "2026-10-07 03:23:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump avoided questions about \"taking Los Angeles and San Diego\"."
+    },
+    {
+      "id": "mkt:01a112a9-9af1-7ee0-a7c4-5f8c59fb361f",
+      "time": "2026-10-07 03:21:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's transport ministry said all 23 crew aboard the Liberian-flagged Aframax tanker \"Aframax Rio\", which caught fire off Russia's Black Sea coast, were rescued with no casualties."
+    },
+    {
+      "id": "mkt:01a112a9-972d-7ee0-a7c4-505da6317365",
+      "time": "2026-10-07 03:21:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Ministry of Transport said the Aframax Rio was attacked by unmanned surface vessels (USVs)."
+    },
+    {
+      "id": "5129099",
+      "time": "2026-10-07 03:20:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯交通部：火勢減弱後，俄羅斯消防人員具備撲滅大火的條件。"
+    },
+    {
+      "id": "5129098",
+      "time": "2026-10-07 03:20:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯交通部：阿芙拉型油輪 “Aframax Rio” 遭無人艇襲擊。"
+    },
+    {
+      "id": "5129097",
+      "time": "2026-10-07 03:20:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯交通部：懸掛賴比瑞亞國旗的阿芙拉型油輪 “Aframax Rio” 在俄羅斯黑海沿岸起火，船上 23 名船員已全部獲救，無人員傷亡。"
+    },
     {
       "id": "5129096",
       "time": "2026-10-07 03:19:30",
@@ -89822,64 +89888,6 @@
         "國際"
       ],
       "text": "伊朗總統辦公室：絕不會在核權利問題上做出任何妥協，這是總統講話中強調的核心要點。"
-    },
-    {
-      "id": "mkt:01a0ee9f-7438-7338-ab1b-6b4b4856233f",
-      "time": "2026-09-30 03:23:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Several delegates said OPEC+ may stick to its plan to maintain current oil production quotas."
-    },
-    {
-      "id": "te:markets:587828",
-      "time": "2026-09-30 03:22:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Mixed as Yields Remain at Multiyear Highs — US stocks were mostly lower on Tuesday, weighed down by another rise in Treasury yields to fresh multiyear highs. The S&P 500 edged lower, the Dow shed over 100 points, while the Nasdaq edged higher. Elevated oil prices and yields continued to pressure equities, with the 10-year yield trading near levels not seen since 2007 and the 30-year yield hovering around a 2004 high. Inflationary pressures from elevated crude and fuel prices, along with concerns over fiscal deficits, drove the bond selloff. New York Fed President Williams said another interest rate hike could be necessary this year. Bank stocks moved lower, with Bank of America down nearly 1%. AI hyperscalers and chipmakers, both facing record levels of debt issuance, traded mixed. Alphabet fell nearly 1% and Nvidia lost about 0.5%, while Meta gained 2%, Oracle jumped 4%, and Broadcom and Micron rose over 1.5% each, as the planned Anthropic IPO lent support to the sectors. The IPO could value the company at over $2 trillion."
-    },
-    {
-      "id": "mkt:01a0ee9e-98a0-7338-ab1b-6094bd1f6754",
-      "time": "2026-09-30 03:22:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Puntland authorities said Somali pirates killed five crew members aboard the hijacked tanker MT Honour before security forces rescued the vessel."
-    },
-    {
-      "id": "5119360",
-      "time": "2026-09-30 03:22:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐佩克+代表：或將堅持維持配額不變的計劃。"
-    },
-    {
-      "id": "5119358",
-      "time": "2026-09-30 03:21:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普與科技高管討論了行業標準及審計事宜。"
-    },
-    {
-      "id": "5119357",
-      "time": "2026-09-30 03:21:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "邦特蘭當局表示，在安全部隊營救遭劫持油輪“榮耀25號”之前，索馬利亞海盜殺害了該油輪的五名船員。"
     }
   ]
 }
