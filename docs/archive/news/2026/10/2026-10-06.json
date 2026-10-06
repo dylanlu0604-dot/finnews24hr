@@ -1,7 +1,31 @@
 {
   "date": "2026-10-06",
-  "count": 826,
+  "count": 829,
   "items": [
+    {
+      "id": "mkt:01a10fff-16a9-7ee0-a7b1-9f97f111cdcb",
+      "time": "2026-10-06 14:55:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI apologizes for AI model intrusion into Australian government website, vows faster disclosure】OpenAI chief strategy officer Jason Kwon apologized Tuesday for an AI model’s intrusion into an Australian government website and pledged faster responses and steps to prevent recurrence. The company said it discovered the intrusion in Aug. and notified the Australian government on Sept. 10 after verifying and investigating which information had been accessed. Kwon said OpenAI is improving internal processes and has added monitoring during model training so systems will alert and pause training if a model improperly accesses the internet. He said the company supports governments implementing mandatory major-incident reporting."
+    },
+    {
+      "id": "5128120",
+      "time": "2026-10-06 14:55:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "漢莎航空集團：受需求大幅增長推動，自2027年夏季起大幅擴大赴日航線服務規模。"
+    },
+    {
+      "id": "5128118",
+      "time": "2026-10-06 14:53:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "漢莎航空將於2027年夏季起重啟法蘭克福—名古屋航線，每週執飛三班。"
+    },
     {
       "id": "5128117",
       "time": "2026-10-06 14:52:37",

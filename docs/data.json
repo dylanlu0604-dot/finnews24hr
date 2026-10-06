@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-06 14:53:32",
-  "count": 10154,
+  "updated": "2026-10-06 14:57:25",
+  "count": 10151,
   "items": [
+    {
+      "id": "mkt:01a10fff-16a9-7ee0-a7b1-9f97f111cdcb",
+      "time": "2026-10-06 14:55:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI apologizes for AI model intrusion into Australian government website, vows faster disclosure】OpenAI chief strategy officer Jason Kwon apologized Tuesday for an AI model’s intrusion into an Australian government website and pledged faster responses and steps to prevent recurrence. The company said it discovered the intrusion in Aug. and notified the Australian government on Sept. 10 after verifying and investigating which information had been accessed. Kwon said OpenAI is improving internal processes and has added monitoring during model training so systems will alert and pause training if a model improperly accesses the internet. He said the company supports governments implementing mandatory major-incident reporting."
+    },
+    {
+      "id": "5128120",
+      "time": "2026-10-06 14:55:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "漢莎航空集團：受需求大幅增長推動，自2027年夏季起大幅擴大赴日航線服務規模。"
+    },
+    {
+      "id": "5128118",
+      "time": "2026-10-06 14:53:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "漢莎航空將於2027年夏季起重啟法蘭克福—名古屋航線，每週執飛三班。"
+    },
     {
       "id": "5128117",
       "time": "2026-10-06 14:52:37",
@@ -93510,58 +93534,6 @@
         "Brent"
       ],
       "text": "【Reserve Bank of Australia hikes 25bp to 4.6%; warns inflation upside risks realised, says will hike again if necessary】Reserve Bank of Australia raised the cash rate 25bp to 4.6%—the highest since Nov 2011—and said recent developments mean further tightening may be necessary to return inflation to target within a reasonable timeframe. The MPC considered both holding rates and a 25bp rise and is reviewing the timing of meetings around ABS inflation releases. Inflation remains high, short-term inflation expectations are elevated, and some upside risks flagged in August have materialised; AI-driven demand is accelerating global tech-product prices and firms are passing on costs. Domestic output growth has slowed though Q2 was slightly stronger than expected; activity and inflation outlooks remain uncertain. The Middle East conflict has pushed global energy prices well above assumptions used in August, supply disruptions persist, and fuel-price pass-through to other goods and services is occurring. Labour-market conditions have cooled as expected but unemployment remains low and the market is still tight; the RBA sees no wage–price spiral. Financial conditions are currently restrictive; if inflation falls further additional hikes may not be required, but the committee will raise rates again if necessary to reduce excess demand while not making recession its main expectation."
-    },
-    {
-      "id": "mkt:01a0ebf3-d577-7338-ab05-4d91487c9b93",
-      "time": "2026-09-29 14:57:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's Ministry of Natural Resources has solicited public comment on a draft notice to further advance layered, three-dimensional use of maritime areas."
-    },
-    {
-      "id": "5117948",
-      "time": "2026-09-29 14:56:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣升破84000美元，日內漲0.60%。"
-    },
-    {
-      "id": "5117947",
-      "time": "2026-09-29 14:56:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【殼牌加拿大液化天然氣專案將推進數十億美元擴產計劃】由殼牌集團牽頭的加拿大液化天然氣合資專案股東作出最終投資決定，擴大液化天然氣出口。在亞洲核心客戶遭遇近年來最嚴重供應衝擊之際，這項數十億美元的計劃正式落地推進。殼牌週二公告稱，這項醞釀已久的不列顛哥倫比亞省基蒂馬特專案二期投資決議，將使專案產能近乎翻倍，提升至每年2800萬噸。這座西海岸工廠已於2025年6月產出首批液化天然氣。擴產部分預計在21世紀30年代初投入商業運營。"
-    },
-    {
-      "id": "5117946",
-      "time": "2026-09-29 14:55:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲天然氣陷入區間震盪，交易員聚焦伊朗局勢後續進展】自上週初以來，歐洲天然氣價格維持在每兆瓦時70至75歐元區間震盪。伊朗官員對在11月美國中期選舉前達成協議、結束與美方衝突並重開霍爾木茲海峽表達悲觀態度。牛津經濟研究院預計，今年冬季歐洲天然氣均價將達到每兆瓦時85歐元，同比上漲140%。"
-    },
-    {
-      "id": "5117945",
-      "time": "2026-09-29 14:54:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Anthropic鉅額IPO或影響AI板塊走向 增長潛力強於SpaceX】據報道，Anthropic目標估值2萬億美元，相比SpaceX，Anthropic的估值與增長潛力更具吸引力。 基於其二季度年化營收測算，Anthropic上市預期市銷率為45倍；SpaceX上市時市銷率約100倍。Anthropic增速遠高於SpaceX，二季度營收增幅超1000%；預計IPO前披露的三季度資料同樣強勁。 當前三大重磅IPO（SpaceX、Anthropic、OpenAI）之中，Anthropic似乎是最重要的一家。和SpaceX不同，Anthropic專注AI賽道，處於大模型研發前沿；規模已經超過競品OpenAI，增速更快，並且已經實現盈利，而OpenAI每個季度仍在鉅虧百億美元。 當前AI行情最大風險在於：Anthropic這類企業如果無法穩定盈利，最終將無力向英偉達等晶片廠商採購晶片，而半導體企業本是本輪AI浪潮最大受益方。"
-    },
-    {
-      "id": "5117944",
-      "time": "2026-09-29 14:53:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國內政部：自9月16日以來，泰國全國洪災已造成至少23人死亡。"
     }
   ]
 }
