@@ -1,7 +1,73 @@
 {
   "date": "2026-10-06",
-  "count": 407,
+  "count": 414,
   "items": [
+    {
+      "id": "5127288",
+      "time": "2026-10-06 08:33:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛上調臺積電目標價 看好AI驅動強勁增長】高盛因AI需求在GPU、網路晶片及伺服器CPU領域的持續擴張，上調了臺積電的目標價及資本支出預測。分析師Evelyn Yu指出，“由代理型AI（Agentic AI）驅動的更強CPU需求是過去一年來的關鍵變化”。高盛預計臺積電2026年/2027年營收將同比增長42.0%/36.9%（美元計），毛利率分別為67.2%/67.5%；同時將2027年/2028年資本支出預測從780億/820億美元上調至850億/980億美元，以支援長期客戶需求。維持“買入”評級，目標價從3100新臺幣上調至3300新臺幣。"
+    },
+    {
+      "id": "5127285",
+      "time": "2026-10-06 08:32:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東部大範圍晴朗天氣上線 南方多地氣溫繼續探底】國慶假期最後兩天（10月6日至7日），中東部大部地區將以晴天為主，利於返程和出行。受降雨減少、天空放晴的影響，夜間輻射降溫明顯，今明天早晨南方多地最低氣溫繼續探底，廣州等地今年下半年來首次跌破20℃。"
+    },
+    {
+      "id": "mkt:01a10e9f-307c-7ee0-a7ab-80835035f837",
+      "time": "2026-10-06 08:31:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia's seasonally adjusted ANZ total job ads rose 12.9% YoY in September, versus 7.8% previously."
+    },
+    {
+      "id": "mkt:01a10e9f-1a69-7ee0-a7ab-7af86829c919",
+      "time": "2026-10-06 08:31:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | ANZ Total Job Advertisements SA (YoY) (Sep) | actual 12.9% | previous 7.8%"
+    },
+    {
+      "id": "5127266",
+      "time": "2026-10-06 08:30:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛上調臺積電目標股價，理由是其強勁的增長前景。高盛將臺積電目標價從新臺幣3100元上調至新臺幣3300元。"
+    },
+    {
+      "id": "mkt:01a10e9e-d046-7ee0-a7ab-74b6da11ffb1",
+      "time": "2026-10-06 08:30:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Australia September seasonally adjusted ANZ total job ads MoM +2.2% (previous +2.5%)."
+    },
+    {
+      "id": "mkt:01a10e9e-b2fd-7ee0-a7ab-6c5dada52c71",
+      "time": "2026-10-06 08:30:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | ANZ Total Job Advertisements SA (MoM) (Sep) | actual 2.2% | previous 2.50%"
+    },
     {
       "id": "mkt:01a10e9e-2d62-7ee0-a7ab-63c3e2d17494",
       "time": "2026-10-06 08:30:09",
