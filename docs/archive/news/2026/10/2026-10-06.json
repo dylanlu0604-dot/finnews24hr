@@ -1,7 +1,64 @@
 {
   "date": "2026-10-06",
-  "count": 1386,
+  "count": 1392,
   "items": [
+    {
+      "id": "5128803",
+      "time": "2026-10-06 21:52:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX： 龍飛船及 Crew‑12 乘組宇航員定於 10 月 7 日週三離開國際空間站。"
+    },
+    {
+      "id": "mkt:01a1117c-b78a-7ee0-a7bd-cae65655007e",
+      "time": "2026-10-06 21:52:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said Fox News has \"completely lost its way.\""
+    },
+    {
+      "id": "5128801",
+      "time": "2026-10-06 21:51:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱福克斯新聞已經 “完全迷失方向”。"
+    },
+    {
+      "id": "mkt:01a1117b-7c8f-7ee0-a7bd-c202ce8474b8",
+      "time": "2026-10-06 21:51:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Details emerge in alleged robbery-murder involving U.S. service member in Japan; suspect denies guilt】Japanese media on the 6th published details of an alleged robbery-murder involving a U.S. service member in Japan, prompting public anger. Police say the soldier used a hotel-room telephone line to kill a Japanese woman, stole her wallet and fled, changing clothes to evade capture; after arrest the suspect repeatedly answered \"I don't know\" and refused to confess."
+    },
+    {
+      "id": "mkt:01a1117a-b908-7ee0-a7bd-be97ed3eab92",
+      "time": "2026-10-06 21:50:17",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) up more than 5% in early trade."
+    },
+    {
+      "id": "mkt:01a1117a-87ce-7ee0-a7bd-b135d765a03d",
+      "time": "2026-10-06 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. September Global Supply Chain Pressure Index due for release in 10 minutes."
+    },
     {
       "id": "te:markets:589901",
       "time": "2026-10-06 21:48:14",

@@ -1,7 +1,64 @@
 {
-  "updated": "2026-10-06 21:49:47",
-  "count": 9859,
+  "updated": "2026-10-06 21:53:56",
+  "count": 9857,
   "items": [
+    {
+      "id": "5128803",
+      "time": "2026-10-06 21:52:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX： 龍飛船及 Crew‑12 乘組宇航員定於 10 月 7 日週三離開國際空間站。"
+    },
+    {
+      "id": "mkt:01a1117c-b78a-7ee0-a7bd-cae65655007e",
+      "time": "2026-10-06 21:52:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said Fox News has \"completely lost its way.\""
+    },
+    {
+      "id": "5128801",
+      "time": "2026-10-06 21:51:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱福克斯新聞已經 “完全迷失方向”。"
+    },
+    {
+      "id": "mkt:01a1117b-7c8f-7ee0-a7bd-c202ce8474b8",
+      "time": "2026-10-06 21:51:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Details emerge in alleged robbery-murder involving U.S. service member in Japan; suspect denies guilt】Japanese media on the 6th published details of an alleged robbery-murder involving a U.S. service member in Japan, prompting public anger. Police say the soldier used a hotel-room telephone line to kill a Japanese woman, stole her wallet and fled, changing clothes to evade capture; after arrest the suspect repeatedly answered \"I don't know\" and refused to confess."
+    },
+    {
+      "id": "mkt:01a1117a-b908-7ee0-a7bd-be97ed3eab92",
+      "time": "2026-10-06 21:50:17",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bullish"
+      ],
+      "text": "Dell (DELL.N) up more than 5% in early trade."
+    },
+    {
+      "id": "mkt:01a1117a-87ce-7ee0-a7bd-b135d765a03d",
+      "time": "2026-10-06 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. September Global Supply Chain Pressure Index due for release in 10 minutes."
+    },
     {
       "id": "te:markets:589901",
       "time": "2026-10-06 21:48:14",
@@ -90857,72 +90914,6 @@
         "其他"
       ],
       "text": "【英國首相說英國長期走在錯誤道路上】當地時間9月29日，英國首相伯納姆在利物浦舉行的工黨年度會議上發表講話，這是伯納姆在任期內首次黨代會演講。伯納姆表示，英國“長期以來一直走在錯誤的道路上”。他表示，去工業化、放鬆監管、私有化、緊縮政策以及“脫歐”帶來了一個“為既得利益而非公共利益執行的國家”。伯納姆表示，他將“改變過去40年的發展方向”，讓英國走上新的道路，建設新的經濟和新的政治體系。（CCTV國際時訊）"
-    },
-    {
-      "id": "5118993",
-      "time": "2026-09-29 21:53:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "Stellantis表示，由於長續航電池供應短缺，其部分工廠已暫停生產。"
-    },
-    {
-      "id": "5118992",
-      "time": "2026-09-29 21:52:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯納姆：我們可以成為創新之國。"
-    },
-    {
-      "id": "5118991",
-      "time": "2026-09-29 21:52:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "受報道提振，佩雷拉·溫伯格股價上漲10%；派傑股價下跌3.9%。"
-    },
-    {
-      "id": "5118990",
-      "time": "2026-09-29 21:52:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "派傑投資正就收購佩雷拉·溫伯格展開談判。"
-    },
-    {
-      "id": "5118989",
-      "time": "2026-09-29 21:51:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國國土安全部最終規則對投資簽證專案費用進行大改。"
-    },
-    {
-      "id": "5118988",
-      "time": "2026-09-29 21:50:12",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "30年期美國國債收益率升至5.59%，創2004年以來新高。"
-    },
-    {
-      "id": "5118987",
-      "time": "2026-09-29 21:50:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伯納姆提議2030年取消養老金三重鎖定，騰挪資金建設全國護理體系】英國首相伯納姆宣佈，工黨政府計劃在下一屆議會任期內打造一套全國護理服務體系（national care service）。他表示，這項服務將按需免費提供，並且不再從國民基礎養老金中扣除護理費用。 他介紹，這套體系的護理服務 “以人為本，而非以盈利為目的”，讓民眾對晚年照護需求安心無憂；政策將保護民眾的房產與積蓄，同時給予護理工作者應有的合理待遇。伯納姆承諾自 2030 年起廢除養老金三重鎖定（triple lock）機制，此舉或將為新社會護理體系開闢額外資金來源。他表示，將啟用全新的雙重鎖定（double lock）規則：國家養老金每年上調幅度，取通脹物價漲幅與 2.5% 二者中的較高值，新方案不再將收入增速納入核算公式。他稱這套全新護理體系將是一項里程碑式政策，堪比近百年前英國國民保健署（NHS）的創立。“我們一定會實現，我們一定會做到。”"
-    },
-    {
-      "id": "5118986",
-      "time": "2026-09-29 21:49:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首相伯納姆誓言重塑英國 打造“新經濟、新政治”】英國首相安迪·伯納姆表示，他將“打破舊有模式”，讓英國成為一個以公共利益而非既得利益為出發點來治理的國家。他在利物浦舉行的工黨年度大會上表示，“我將與過去40年的發展方向決裂。”他把矛頭指向英國在邊境管控和公共服務方面“失去控制”的問題，並將其歸咎於英國脫歐和私有化。他表示，將打造“新經濟和新政治”。伯納姆說，“我已經準備好去做我的前任們不願做的事情。”安迪·伯納姆於9月29日。伯納姆正尋求擺脫上任頭兩個月以來那些成本較低、容易贏得好感的政策，進一步充實其長期施政願景，以應對英國面臨的一些最嚴峻挑戰。伯納姆在黨代會演講中表示，他不會迴避“政客們通常避而不談的問題”。在發表演講前，伯納姆承諾將闡述社會照護改革計劃，並加強公共部門對供水和能源等行業的控制。"
     }
   ]
 }
