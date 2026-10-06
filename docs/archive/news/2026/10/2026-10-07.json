@@ -1,7 +1,24 @@
 {
   "date": "2026-10-07",
-  "count": 240,
+  "count": 242,
   "items": [
+    {
+      "id": "5129111",
+      "time": "2026-10-07 03:41:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破101美元/桶，日內漲0.68%。"
+    },
+    {
+      "id": "mkt:01a112bb-591d-7ee0-a7c4-a1e8b22a2393",
+      "time": "2026-10-07 03:40:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said his Super PAC will pay for campaign ads supporting him, not taxpayers."
+    },
     {
       "id": "5129110",
       "time": "2026-10-07 03:38:01",
