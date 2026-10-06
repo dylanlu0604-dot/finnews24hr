@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-06 09:25:20",
-  "count": 10410,
+  "updated": "2026-10-06 09:29:05",
+  "count": 10408,
   "items": [
+    {
+      "id": "5127796",
+      "time": "2026-10-06 09:28:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權指數一度上漲0.5%，觸及紀錄高位49,968.92點。"
+    },
+    {
+      "id": "5127791",
+      "time": "2026-10-06 09:27:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓表示正在為可能出現的厄爾尼諾現象加劇做好準備。"
+    },
+    {
+      "id": "5127786",
+      "time": "2026-10-06 09:27:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓稱通脹由食品供應中斷因素驅動，食品供應受降雨與高油價影響而出現中斷。"
+    },
+    {
+      "id": "mkt:01a10ed1-b55f-7ee0-a7ac-3d21a92f4e32",
+      "time": "2026-10-06 09:26:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Philippine inflation accelerates for first time in five months】Fuel-led price pressures pushed Philippine CPI to 7.2% YoY in September, up from 6.1% in August and above economists’ median 6.8%, the Philippine Statistics Authority said. Inflation has remained above the PHILIPPINE C.BANK’s 3% target since the outbreak of the Iran war; peso weakness has amplified import-driven inflation for the import-dependent economy. The PHILIPPINE C.BANK has raised its policy rate by a cumulative 75 bps since April to rein in price pressures."
+    },
+    {
+      "id": "5127768",
+      "time": "2026-10-06 09:25:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月6日44個高速公路路段易發擁堵， 預計有79個服務區充電特別繁忙】據交通運輸部動態研判，10月6日，全國高速公路有44個路段易發擁堵，主要集中在江蘇、廣東、湖南、安徽、浙江、陝西等省份。如計劃途經這些路段，請合理安排出行時間和路線。此外，10月6日，全國高速公路預計有79個服務區充電特別繁忙，主要集中在湖南、河北、廣東等省份，大家可透過“e路暢通”微信小程式查詢服務區充電樁執行狀態。（央視網）"
+    },
     {
       "id": "mkt:01a10ecf-b2bf-7ee0-a7ac-37745e145bac",
       "time": "2026-10-06 09:24:15",
@@ -95832,69 +95872,6 @@
         "市場"
       ],
       "text": "【電池板塊高開，時代萬恆漲停】電池板塊高開，時代萬恆漲停，國軒高科、武漢藍電、中瑞股份、利元亨、宏工科技跟漲。"
-    },
-    {
-      "id": "te:markets:587424",
-      "time": "2026-09-29 09:27:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Falls to 2-Week Low — US gasoline futures fell to around $3.30 per gallon, declining for the third consecutive session to an over two-week low, pressured by seasonal weakness as the US driving season winds down. However, Middle East supply disruptions and limited prospects for a US-Iran agreement helped limit the decline. Markets also continued to assess potential changes to US fuel policy, with President Donald Trump still considering a diesel export ban. If implemented, the ban could eventually prompt refiners to adjust crude runs and product yields, potentially reducing gasoline output and tightening domestic supply. Still, other administration officials are weighing alternative measures, with Energy Secretary Chris Wright favoring voluntary export curbs and the White House considering broader sales of tax-exempt red-dyed diesel. On data, gasoline inventories were 6% below the five-year average."
-    },
-    {
-      "id": "5117547",
-      "time": "2026-09-29 09:27:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【廣汽集團競價漲停】廣汽集團競價漲停，訊息面上，廣汽集團擬透過發行股份方式購買一汽豐田汽車有限公司50%股權，並擬向不超過35名特定物件發行股份募集配套資金。本次交易相關審計、評估工作尚未完成，董事會決定暫不召開股東會審議相關議案。"
-    },
-    {
-      "id": "5117546",
-      "time": "2026-09-29 09:26:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "新股N鴻富誠開漲680.64%；新股N安達開漲178.15%。"
-    },
-    {
-      "id": "5117545",
-      "time": "2026-09-29 09:26:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【OpenAI稱其AI模型未經授權訪問澳大利亞政府系統】OpenAI 週二表示，其人工智慧模型在 6 月進行的內部訓練與評估活動期間，未經授權訪問了澳大利亞政府的網站和系統。該公司稱，相關活動涉及與澳大利亞服務局（Services Australia）、新南威爾士州犯罪統計與研究局、維多利亞州衛生部以及澳大利亞健康與福利研究所相關聯的網站和系統。"
-    },
-    {
-      "id": "5117544",
-      "time": "2026-09-29 09:25:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為WATCH D3正式開售】9月29日，華為第三代血壓手錶華為WATCH D3正式開售，新機支援24小時動態血壓監測，並搭載輕擾動態血壓研究，提供3款配色，售價2988元。"
-    },
-    {
-      "id": "5117543",
-      "time": "2026-09-29 09:25:40",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指低開，滬指跌0.2％，深成指跌0.15％，創業板跌0.11％。"
-    },
-    {
-      "id": "5117542",
-      "time": "2026-09-29 09:25:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股三大股指開盤齊跌，上證指數跌0.20%，深證成指跌0.15%，創業板指跌0.11%。"
     }
   ]
 }

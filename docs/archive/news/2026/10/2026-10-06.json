@@ -1,7 +1,47 @@
 {
   "date": "2026-10-06",
-  "count": 480,
+  "count": 485,
   "items": [
+    {
+      "id": "5127796",
+      "time": "2026-10-06 09:28:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權指數一度上漲0.5%，觸及紀錄高位49,968.92點。"
+    },
+    {
+      "id": "5127791",
+      "time": "2026-10-06 09:27:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓表示正在為可能出現的厄爾尼諾現象加劇做好準備。"
+    },
+    {
+      "id": "5127786",
+      "time": "2026-10-06 09:27:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓稱通脹由食品供應中斷因素驅動，食品供應受降雨與高油價影響而出現中斷。"
+    },
+    {
+      "id": "mkt:01a10ed1-b55f-7ee0-a7ac-3d21a92f4e32",
+      "time": "2026-10-06 09:26:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Philippine inflation accelerates for first time in five months】Fuel-led price pressures pushed Philippine CPI to 7.2% YoY in September, up from 6.1% in August and above economists’ median 6.8%, the Philippine Statistics Authority said. Inflation has remained above the PHILIPPINE C.BANK’s 3% target since the outbreak of the Iran war; peso weakness has amplified import-driven inflation for the import-dependent economy. The PHILIPPINE C.BANK has raised its policy rate by a cumulative 75 bps since April to rein in price pressures."
+    },
+    {
+      "id": "5127768",
+      "time": "2026-10-06 09:25:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月6日44個高速公路路段易發擁堵， 預計有79個服務區充電特別繁忙】據交通運輸部動態研判，10月6日，全國高速公路有44個路段易發擁堵，主要集中在江蘇、廣東、湖南、安徽、浙江、陝西等省份。如計劃途經這些路段，請合理安排出行時間和路線。此外，10月6日，全國高速公路預計有79個服務區充電特別繁忙，主要集中在湖南、河北、廣東等省份，大家可透過“e路暢通”微信小程式查詢服務區充電樁執行狀態。（央視網）"
+    },
     {
       "id": "mkt:01a10ecf-b2bf-7ee0-a7ac-37745e145bac",
       "time": "2026-10-06 09:24:15",
