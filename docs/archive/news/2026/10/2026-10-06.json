@@ -1,7 +1,68 @@
 {
   "date": "2026-10-06",
-  "count": 934,
+  "count": 940,
   "items": [
+    {
+      "id": "mkt:01a11018-ff8d-7ee0-a7b2-e678ffb92bae",
+      "time": "2026-10-06 15:23:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB chief economist Lane: no clear second‑round inflation effects】ECB chief economist Lane said elevated euro-area energy costs have not yet produced a clear second‑round inflation effect and the strength of pass-through to other sectors remains uncertain. \"So far we have not seen a very strong second‑round effect. We will continue to monitor this. While I advocate scenario analysis, it is too simplistic to categorise the situation as simply adverse or baseline,\" he said."
+    },
+    {
+      "id": "5128178",
+      "time": "2026-10-06 15:23:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "EUROFINS SCIENTIFIC SE股價上漲3%，領漲CAC 40指數。"
+    },
+    {
+      "id": "5128177",
+      "time": "2026-10-06 15:22:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI Codex負責人Tibo：我們已讓所有透過ChatGPT賬戶登入的使用者免費使用自動稽核功能。你可以在設定 > 許可權 > 自動稽核中啟用它。自動稽核改進了預設的沙盒設定，後者要求你批准所有操作，除非你花大量時間配置具體規則，否則容易導致決策疲勞。"
+    },
+    {
+      "id": "mkt:01a11017-8b46-7ee0-a7b2-db09c1a1b7e6",
+      "time": "2026-10-06 15:22:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lithuanian parliament voted in favor of lifting the ban on nuclear weapons; this was the first of two required votes."
+    },
+    {
+      "id": "5128176",
+      "time": "2026-10-06 15:21:18",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "匈牙利央行副行長：若政府出臺一份可信的加入歐元區中期計劃，且市場認可該計劃的可信度，則沒有理由推遲加入ERM-Ⅱ（歐洲匯率機制Ⅱ）。"
+    },
+    {
+      "id": "mkt:01a11016-3ce2-7ee0-a7b2-d57b0d3c92b0",
+      "time": "2026-10-06 15:20:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "【CHINA STATE PLANNER: six-network initiative to open major projects to private firms】Li Hui, director of the Private Economy Development Bureau at CHINA STATE PLANNER, said converting new capacity from the six-network initiative into real returns requires three actions. First, broaden access: establish long-term mechanisms for private participation in major projects and open competitive infrastructure sectors fairly to operators of different sizes and specializations. Second, improve retention: address private firms’ concerns on return mechanisms and competition by rolling out projects with stable operating returns suitable for private capital, enhancing financing channels, strengthening factor support, and removing market-access, standards-alignment and information-sharing bottlenecks. Third, remove implementation barriers: CHINA STATE PLANNER promoted 88 projects to private capital on Sept. 10 and Sept. 29 and will continue project promotion, set up a problem-resolution mechanism, and enforce project-list management to coordinate fixes to specific participation obstacles."
+    },
     {
       "id": "5128175",
       "time": "2026-10-06 15:19:58",

@@ -1,7 +1,68 @@
 {
-  "updated": "2026-10-06 15:20:45",
-  "count": 10151,
+  "updated": "2026-10-06 15:24:38",
+  "count": 10150,
   "items": [
+    {
+      "id": "mkt:01a11018-ff8d-7ee0-a7b2-e678ffb92bae",
+      "time": "2026-10-06 15:23:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【ECB chief economist Lane: no clear second‑round inflation effects】ECB chief economist Lane said elevated euro-area energy costs have not yet produced a clear second‑round inflation effect and the strength of pass-through to other sectors remains uncertain. \"So far we have not seen a very strong second‑round effect. We will continue to monitor this. While I advocate scenario analysis, it is too simplistic to categorise the situation as simply adverse or baseline,\" he said."
+    },
+    {
+      "id": "5128178",
+      "time": "2026-10-06 15:23:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "EUROFINS SCIENTIFIC SE股價上漲3%，領漲CAC 40指數。"
+    },
+    {
+      "id": "5128177",
+      "time": "2026-10-06 15:22:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI Codex負責人Tibo：我們已讓所有透過ChatGPT賬戶登入的使用者免費使用自動稽核功能。你可以在設定 > 許可權 > 自動稽核中啟用它。自動稽核改進了預設的沙盒設定，後者要求你批准所有操作，除非你花大量時間配置具體規則，否則容易導致決策疲勞。"
+    },
+    {
+      "id": "mkt:01a11017-8b46-7ee0-a7b2-db09c1a1b7e6",
+      "time": "2026-10-06 15:22:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lithuanian parliament voted in favor of lifting the ban on nuclear weapons; this was the first of two required votes."
+    },
+    {
+      "id": "5128176",
+      "time": "2026-10-06 15:21:18",
+      "tags": [
+        "央行",
+        "宏觀",
+        "國際"
+      ],
+      "text": "匈牙利央行副行長：若政府出臺一份可信的加入歐元區中期計劃，且市場認可該計劃的可信度，則沒有理由推遲加入ERM-Ⅱ（歐洲匯率機制Ⅱ）。"
+    },
+    {
+      "id": "mkt:01a11016-3ce2-7ee0-a7b2-d57b0d3c92b0",
+      "time": "2026-10-06 15:20:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "【CHINA STATE PLANNER: six-network initiative to open major projects to private firms】Li Hui, director of the Private Economy Development Bureau at CHINA STATE PLANNER, said converting new capacity from the six-network initiative into real returns requires three actions. First, broaden access: establish long-term mechanisms for private participation in major projects and open competitive infrastructure sectors fairly to operators of different sizes and specializations. Second, improve retention: address private firms’ concerns on return mechanisms and competition by rolling out projects with stable operating returns suitable for private capital, enhancing financing channels, strengthening factor support, and removing market-access, standards-alignment and information-sharing bottlenecks. Third, remove implementation barriers: CHINA STATE PLANNER promoted 88 projects to private capital on Sept. 10 and Sept. 29 and will continue project promotion, set up a problem-resolution mechanism, and enforce project-list management to coordinate fixes to specific participation obstacles."
+    },
     {
       "id": "5128175",
       "time": "2026-10-06 15:19:58",
@@ -93475,73 +93536,6 @@
         "US10Y"
       ],
       "text": "【Gold edges up but remains under pressure; markets focus on U.S. data, Oct Fed-hike odds 72.5%】Spot gold rose modestly on Tuesday but stayed below $4,200/oz, near early-August lows, after Monday’s selloff driven by U.S. Treasury yields rising to multi-decade highs and higher oil. Markets price a longer period of higher Fed rates, weighing on demand for non-yielding assets; the CME FedWatch tool shows a 72.5% chance of an October rate hike. Traders are watching U.S. consumer confidence and job-openings data due later Tuesday."
-    },
-    {
-      "id": "mkt:01a0ec0b-4d7d-7338-ab06-91a922b21c56",
-      "time": "2026-09-29 15:22:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Foreign Ministry says China will work with others to ensure a successful APEC 'China Year'】Foreign Ministry spokesman Guo Jiakun held a regular briefing on Sept 29. A TASS reporter asked about a Kremlin spokesman’s comment that the upcoming Shenzhen APEC summit provides an opportunity for a trilateral meeting of the Russian, Chinese and US leaders. Guo said China, as this year’s APEC host, is willing to work with all parties to help APEC’s 'China Year' deliver substantive results and contribute to Asia‑Pacific and global growth. On the trilateral meeting he said he had no information to provide."
-    },
-    {
-      "id": "5118007",
-      "time": "2026-09-29 15:22:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【外交部：中方願同各方一道，共同推動APEC“中國年”取得豐碩成果】9月29日，外交部發言人郭嘉昆主持例行記者會。塔斯社記者提問，克里姆林宮發言人表示，即將在深圳舉行的亞太經合組織峰會，為俄中美元首舉行三方會議提供了良好的機會，中方對此有何評論？郭嘉昆表示，作為今年亞太經合組織東道主，中方願同各方一道共同推動APEC“中國年”取得豐碩成果，為促進亞太和世界經濟增長作出新的貢獻。“關於你提到的問題，我目前沒有可以提供的資訊。”郭嘉昆說。（北京日報）"
-    },
-    {
-      "id": "5118006",
-      "time": "2026-09-29 15:21:57",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【西班牙通脹率意外飆升至5% 支援歐洲央行進一步加息】西班牙通脹加速程度超出預期，進一步遠離歐洲央行2%的目標，這強化了央行繼續提高利率的理由。週二公佈的資料顯示，9月份消費者價格同比上漲5%，升幅高於8月的4.6%。這是自2023年2月以來的最高水平，也高於分析師得出的預估中值4.9%。統計機構表示，燃油和旅遊套餐價格大幅上漲是主要原因。衡量基礎價格壓力的指標漲幅也超出預期。"
-    },
-    {
-      "id": "te:economy:587531",
-      "time": "2026-09-29 15:21:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Taiwan Consumer Sentiment Hits 1-1/2-Year High — Taiwan’s consumer confidence index increased to 68.77 in September 2026 from 65.01 in the previous month, marking the highest reading since March 2025. Confidence strengthened across all six core sub-indicators, including domestic economic conditions (87.02 vs 81.20 in August), household finances (82.64 vs 78.12), stock investment prospects (35.42 vs 27.72), durable goods purchases (93.78 vs 93.14), labor market expectations (76.7 vs 73.32), and future price expectations (37.05 vs 36.57). Other additional indicators also improved: current health conditions (90.35 vs 86.94), expected future health conditions (84.77 vs 82.36), and the timing of real estate purchases (98.84 vs 90.35)."
-    },
-    {
-      "id": "5118005",
-      "time": "2026-09-29 15:21:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星代工業務加速轉向AI與HPC：目標2029年客戶數量增長約四倍】三星電子週二（9月29日）表示，其代工業務的客戶數量到2029年有望較2017年增長約四倍。三星代工事業部高階副總裁Noh Mi-jung在2026年韓國高階周活動期間表示，“自2017年代工業務作為獨立部門成立以來，客戶數量已增長了約三倍，我們預計到2029年，客戶數量將增長約四倍。”"
-    },
-    {
-      "id": "5118004",
-      "time": "2026-09-29 15:21:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【粵萬年青成立萬星智算雲端計算科技公司】企查查APP顯示，近日，萬星智算（廣州）雲端計算科技有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；雲端計算裝置銷售；雲端計算裝備技術服務；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由粵萬年青全資持股。"
-    },
-    {
-      "id": "mkt:01a0ec09-e7c8-7338-ab06-8c019b65d94c",
-      "time": "2026-09-29 15:21:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Spain, Portugal and Luxembourg urge EU to set 2040 renewables target】Spain, Portugal and Luxembourg urged the EU to adopt a 2040 renewable-energy target to reduce reliance on energy imports, citing geopolitical uncertainty and risks such as a Strait of Hormuz blockade. In a letter to EU Energy Commissioner Dan Jørgensen, the three energy ministers said the bloc should accelerate the shift away from fossil fuels and speed deployment and integration of renewables. The appeal comes as the EU frames long-term energy goals toward climate neutrality by 2050; the bloc plans clean energy to make up 42.5% of final energy use by 2030, while some members — including Spain at 48% — have set higher national targets."
     }
   ]
 }
