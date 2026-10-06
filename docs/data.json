@@ -1,7 +1,76 @@
 {
-  "updated": "2026-10-07 03:24:43",
-  "count": 9762,
+  "updated": "2026-10-07 03:28:29",
+  "count": 9765,
   "items": [
+    {
+      "id": "5129106",
+      "time": "2026-10-07 03:27:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數6日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.33%，在匯市尾市收於101.833。截至紐約匯市尾市，1歐元兌換1.1261美元，高於前一交易日的1.1215美元；1英鎊兌換1.3277美元，高於前一交易日的1.3219美元。1美元兌換158.12日元，高於前一交易日的158.00日元；1美元兌換0.8313瑞士法郎，高於前一交易日的0.8307瑞士法郎；1美元兌換1.4209加元，低於前一交易日的1.4256加元；1美元兌換9.9861瑞典克朗，低於前一交易日的10.0403瑞典克朗。"
+    },
+    {
+      "id": "5129105",
+      "time": "2026-10-07 03:27:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊斯蘭國伊拉克分支宣稱對基爾庫克襲擊事件負責，該襲擊造成一名警察身亡、多人受傷。"
+    },
+    {
+      "id": "5129104",
+      "time": "2026-10-07 03:27:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價6日微漲】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格上漲1美分，收於每桶89.44美元，漲幅為0.01%；12月交貨的倫敦布倫特原油期貨價格上漲26美分，收於每桶100.58美元，漲幅為0.26%。"
+    },
+    {
+      "id": "5129103",
+      "time": "2026-10-07 03:26:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西穀物出口商協會（ANEC）：預計巴西 10 月玉米出口量為 534 萬噸，去年同期為 569 萬噸。"
+    },
+    {
+      "id": "5129102",
+      "time": "2026-10-07 03:25:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西穀物出口商協會（ANEC）：預計巴西 10 月豆粕出口量為 209 萬噸，去年同期為 173 萬噸。"
+    },
+    {
+      "id": "5129101",
+      "time": "2026-10-07 03:25:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西穀物出口商協會（ANEC）：預計巴西 10 月大豆出口量為 618 萬噸，去年同期為 640 萬噸。"
+    },
+    {
+      "id": "mkt:01a112ad-c374-7ee0-a7c4-7e99ef25b2bb",
+      "time": "2026-10-07 03:25:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD"
+      ],
+      "text": "【Dollar index down 0.33% on 6th】The dollar index, measuring the USD against six major currencies, fell 0.33% to 101.833 at the New York close. EUR/USD 1.1261 (prev. 1.1215); GBP/USD 1.3277 (prev. 1.3219); USD/JPY 158.12 (prev. 158.00); USD/CHF 0.8313 (prev. 0.8307); USD/CAD 1.4209 (prev. 1.4256); USD/SEK 9.9861 (prev. 10.0403)."
+    },
+    {
+      "id": "mkt:01a112ad-36b2-7ee0-a7c4-71b3bf40cfde",
+      "time": "2026-10-07 03:25:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency (ISNA) cited local sources saying explosions were heard in Sulaimaniyah province in northern Iraq."
+    },
     {
       "id": "5129100",
       "time": "2026-10-07 03:23:59",
@@ -89847,47 +89916,6 @@
         "國際"
       ],
       "text": "黎巴嫩議長：黎巴嫩保留起訴以色列罪行的主權權利。"
-    },
-    {
-      "id": "mkt:01a0eea3-0d1e-7338-ab1b-7b71f8bd7904",
-      "time": "2026-09-30 03:27:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CBS cited attendees at Trump’s meeting with tech company TOP EXECUTIVES saying discussions focused on creating industry standards and audit mechanisms similar to those used in other emerging-tech fields. Attendees said proposed regulatory measures could slow innovation and would likely become outdated quickly."
-    },
-    {
-      "id": "5119366",
-      "time": "2026-09-30 03:26:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普與科技高管會面時，與會的一位執行長稱人工智慧行業正在加速發展，並未放緩。"
-    },
-    {
-      "id": "mkt:01a0eea2-58f4-7338-ab1b-7700c3e4e8f5",
-      "time": "2026-09-30 03:26:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRIB reported the Iranian president's chief of staff said President Pezeshkian stressed in a speech that Iran will under no circumstances relinquish its nuclear rights."
-    },
-    {
-      "id": "5119365",
-      "time": "2026-09-30 03:26:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐佩克或將堅持維持11月原油配額不變】由沙烏地阿拉伯和俄羅斯牽頭的OPEC+成員國大機率將維持11月原油產量配額不變，代表們預計該組織將在週日會議上批准現行路線圖。儘管原油流量有所回升，中東仍有數百萬桶產能處於關停狀態；同時OPEC+成員國面臨投資不足、制裁及裝置停運帶來的產能限制。該組織2027年的政策將取決於本週即將完成的產能評估。"
-    },
-    {
-      "id": "5119364",
-      "time": "2026-09-30 03:25:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統辦公室：絕不會在核權利問題上做出任何妥協，這是總統講話中強調的核心要點。"
     }
   ]
 }
