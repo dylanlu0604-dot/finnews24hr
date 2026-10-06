@@ -1,7 +1,38 @@
 {
-  "updated": "2026-10-06 22:57:37",
-  "count": 9835,
+  "updated": "2026-10-06 23:01:41",
+  "count": 9827,
   "items": [
+    {
+      "id": "te:markets:589912",
+      "time": "2026-10-06 23:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Rises by 0.58% — Top currency gainers are Mexican Peso (0.58%), Polish Zloty (0.54%), Swedish Krona (0.52%), British Pound (0.43%) and Euro (0.31%). Biggest losers are Dollar Index (-0.31%) and Japanese Yen (-0.10%)."
+    },
+    {
+      "id": "mkt:01a111b9-3b78-7ee0-a7bf-3544f3e6895c",
+      "time": "2026-10-06 22:58:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Bowman: Fed to reshape bank supervision and reassess asset-size thresholds】The Federal Reserve plans a comprehensive overhaul of U.S. bank supervision, shifting oversight away from regional Reserve Bank presidents toward a Washington-led structure, Vice Chair for Supervision Michelle Bowman said on Tuesday. The proposal would create five supervisory geographic regions, each led by a regional head accountable for all supervisory activity in that region, while examination work would remain performed by regional Reserve Bank staff. Bowman said the change aims to strengthen accountability and clarify decision authority. The Fed will also consider later this year adjusting the asset-size thresholds that trigger stricter regulatory requirements."
+    },
+    {
+      "id": "5128882",
+      "time": "2026-10-06 22:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部副部長兼中華人民共和國國際貿易談判副代表凌激與歐委會貿易和經濟安全總司總司長約根森舉行影片會談】10月6日，商務部副部長兼中華人民共和國國際貿易談判副代表凌激與歐委會貿易和經濟安全總司總司長約根森舉行影片會談，為中歐貿易投資磋商機制第二次例會作準備。（商務部）"
+    },
     {
       "id": "5128881",
       "time": "2026-10-06 22:56:22",
@@ -90633,115 +90664,6 @@
         "Europe & UK"
       ],
       "text": "European Commission says it will convene a special meeting of the Oil Coordination Group if needed."
-    },
-    {
-      "id": "mkt:01a0edaf-241f-7338-ab13-dd60d329bb72",
-      "time": "2026-09-29 23:01:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US 30-year Treasury yield rose to 5.595%, the highest since 2002."
-    },
-    {
-      "id": "5119101",
-      "time": "2026-09-29 23:01:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事鮑曼在銀行研討會的開場發言中未對經濟或貨幣政策前景發表評論。"
-    },
-    {
-      "id": "5119100",
-      "time": "2026-09-29 23:00:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟石油協調小組：歐盟煉油廠正接近滿負荷運轉。"
-    },
-    {
-      "id": "5119099",
-      "time": "2026-09-29 23:00:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲鮑曼強調人工智慧對銀行網路安全的風險和益處。"
-    },
-    {
-      "id": "mkt:01a0edae-53ed-7338-ab13-d55ee04671f7",
-      "time": "2026-09-29 23:00:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor Bowman, in opening remarks at a banking seminar, made no comments on the economic or monetary policy outlook."
-    },
-    {
-      "id": "5119098",
-      "time": "2026-09-29 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】20號膠連續漲3.50%，天然橡膠連續漲3.28%，菜油連續漲1.89%，豆一連續漲1.77%，低硫燃料油連續跌1.39%。"
-    },
-    {
-      "id": "te:markets:587774",
-      "time": "2026-09-29 23:00:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Norwegian Krone Drops by 0.56% — Top currency losers are Norwegian Krone (-0.56%), New Zealand Dollar (-0.55%), Australian Dollar (-0.47%), British Pound (-0.30%), Euro (-0.27%) and Japanese Yen (-0.11%). Gains are led by South Korean Won (0.27%) and Dollar Index (0.24%)."
-    },
-    {
-      "id": "5119097",
-      "time": "2026-09-29 22:59:50",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國30年期國債收益率升至5.595%，為2002年以來最高水平。"
-    },
-    {
-      "id": "mkt:01a0edad-8b15-7338-ab13-cea9a55bdb86",
-      "time": "2026-09-29 22:59:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Trump signs executive order launching AI-driven government website】President Trump signed an executive order to launch a new AI-driven website that consolidates federal agencies' services onto a single platform, intended to give US citizens immediate access to information and simplify interactions with federal agencies, the administration said. The rollout comes as Trump pushes to accelerate AI deployment across the federal government and to bolster US leadership in the technology."
-    },
-    {
-      "id": "5119096",
-      "time": "2026-09-29 22:59:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟石油協調小組認為供應穩定，但價格令人擔憂。"
-    },
-    {
-      "id": "mkt:01a0edac-0a9f-7338-ab13-c7cbfc5c9b11",
-      "time": "2026-09-29 22:57:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Head of upstream at Qatar UCC Oil & Gas said the company is in talks to potentially enter Venezuela's oil and gas sector."
     }
   ]
 }

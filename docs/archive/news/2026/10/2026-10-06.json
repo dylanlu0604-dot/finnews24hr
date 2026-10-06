@@ -1,7 +1,38 @@
 {
   "date": "2026-10-06",
-  "count": 1523,
+  "count": 1526,
   "items": [
+    {
+      "id": "te:markets:589912",
+      "time": "2026-10-06 23:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Rises by 0.58% — Top currency gainers are Mexican Peso (0.58%), Polish Zloty (0.54%), Swedish Krona (0.52%), British Pound (0.43%) and Euro (0.31%). Biggest losers are Dollar Index (-0.31%) and Japanese Yen (-0.10%)."
+    },
+    {
+      "id": "mkt:01a111b9-3b78-7ee0-a7bf-3544f3e6895c",
+      "time": "2026-10-06 22:58:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Bowman: Fed to reshape bank supervision and reassess asset-size thresholds】The Federal Reserve plans a comprehensive overhaul of U.S. bank supervision, shifting oversight away from regional Reserve Bank presidents toward a Washington-led structure, Vice Chair for Supervision Michelle Bowman said on Tuesday. The proposal would create five supervisory geographic regions, each led by a regional head accountable for all supervisory activity in that region, while examination work would remain performed by regional Reserve Bank staff. Bowman said the change aims to strengthen accountability and clarify decision authority. The Fed will also consider later this year adjusting the asset-size thresholds that trigger stricter regulatory requirements."
+    },
+    {
+      "id": "5128882",
+      "time": "2026-10-06 22:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部副部長兼中華人民共和國國際貿易談判副代表凌激與歐委會貿易和經濟安全總司總司長約根森舉行影片會談】10月6日，商務部副部長兼中華人民共和國國際貿易談判副代表凌激與歐委會貿易和經濟安全總司總司長約根森舉行影片會談，為中歐貿易投資磋商機制第二次例會作準備。（商務部）"
+    },
     {
       "id": "5128881",
       "time": "2026-10-06 22:56:22",
