@@ -1,7 +1,62 @@
 {
   "date": "2026-10-06",
-  "count": 485,
+  "count": 491,
   "items": [
+    {
+      "id": "5127816",
+      "time": "2026-10-06 09:32:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿里巴巴港股漲超3%。"
+    },
+    {
+      "id": "mkt:01a10ed5-d0df-7ee0-a7ac-4e623cde791d",
+      "time": "2026-10-06 09:30:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan to issue JPY 2.6 tln 10-year government bonds with a 3.1% coupon."
+    },
+    {
+      "id": "5127810",
+      "time": "2026-10-06 09:30:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【GLM-5.3上架Amazon 智譜開啟海外收入分成通道】記者獲悉，今日，亞馬遜雲科技（AWS）旗下大模型服務平臺Amazon Bedrock官宣接入智譜GLM-5.3，AWS基於模型呼叫量與智譜進行收入分成。據瞭解，除了AWS外，智譜近期與多家海外雲廠商落地收入分成模式。此前智譜透露計劃透過海外雲平臺收入分成增加一條具有規模潛力的商業路徑。國內方面，智譜也已與阿里雲百鍊平臺等頭部雲廠商簽署類似分成協議，華為雲已上架GLM-5.3，並就類似合作達成意向，形成貫通國內外的分成體系。 (科創板日報)"
+    },
+    {
+      "id": "5127806",
+      "time": "2026-10-06 09:30:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓表示，大米等食品價格上漲可能引發通脹風險。"
+    },
+    {
+      "id": "mkt:01a10ed5-05c6-7ee0-a7ac-45d576464b50",
+      "time": "2026-10-06 09:30:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maoyan Pro data show the film What Do You Mean Couple has grossed over 200 mln yuan in its first six days."
+    },
+    {
+      "id": "5127805",
+      "time": "2026-10-06 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24286.721點；恒生科技指數現漲1.116%。"
+    },
     {
       "id": "5127796",
       "time": "2026-10-06 09:28:05",
