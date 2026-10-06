@@ -1,7 +1,83 @@
 {
   "date": "2026-10-06",
-  "count": 458,
+  "count": 466,
   "items": [
+    {
+      "id": "5127660",
+      "time": "2026-10-06 09:13:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明在內閣會議上呼籲迅速調查銀行網路攻擊事件。"
+    },
+    {
+      "id": "mkt:01a10ec5-9b23-7ee0-a7ac-02da5852bc25",
+      "time": "2026-10-06 09:13:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "South Korea's Lee called for developing cybersecurity approaches suited to the AI era."
+    },
+    {
+      "id": "mkt:01a10ec5-3f83-7ee0-a7ab-fa06697c2ba6",
+      "time": "2026-10-06 09:12:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "South Korea's finance minister said the government will work to stabilize the foreign-exchange market."
+    },
+    {
+      "id": "mkt:01a10ec5-1e70-7ee0-a7ab-f49417a034fc",
+      "time": "2026-10-06 09:12:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Lee said some believe recent hacking incidents targeting banks employed AI models."
+    },
+    {
+      "id": "mkt:01a10ec4-9f05-7ee0-a7ab-ef4db91d3eaf",
+      "time": "2026-10-06 09:12:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Documents show Berkshire Hathaway acquired about 2.4 million Class A shares of Lainer Co. between Oct. 1-2."
+    },
+    {
+      "id": "5127643",
+      "time": "2026-10-06 09:11:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "披露檔案顯示，伯克希爾哈撒韋在10月1日至2日期間購入了約240萬股萊納公司A類股票。"
+    },
+    {
+      "id": "mkt:01a10ec4-22a3-7ee0-a7ab-e6bd73d16970",
+      "time": "2026-10-06 09:11:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "South Korea's President Lee said some hacking attacks show signs of AI involvement."
+    },
+    {
+      "id": "5127616",
+      "time": "2026-10-06 09:09:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【從“單點建網”轉向“系統組網” 六網協同如何釋放乘數效應】這一輪 “六張網” 建設從頂層設計階段就將 “協同聯動” 作為核心導向，本質是從 “單點建網” 轉向 “系統組網”，把水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網的需求打通、資源共享，讓投資從 “單張網的簡單相加” 變成 “全體系的乘數效應”，放大基礎設施的整體效能。目前不少領域已經顯現出協同成效。在能源算力領域，新型電網與算力網雙向賦能：算力中心接入綠電直連專案降低用能成本，算力平臺反過來為電網提供智慧調峰服務，部分試點區域綠電消納率提升超15%。在城市執行領域，新一代通訊網為城市地下管網裝上 “數字神經”，實時監測管線狀態，再結合物流網的排程能力，讓城市管線運維、終端物資配送效率提升近兩成。在水利領域，水網與電網、算力網聯動，實現水資源智慧排程與水電協同發電，既強化了供水保障能力，也提高了清潔能源產出效率。從生產端到民生端，六網協同正在把分散的基礎設施擰成一股繩。（央視）"
+    },
     {
       "id": "mkt:01a10ec1-8123-7ee0-a7ab-de4784a33932",
       "time": "2026-10-06 09:08:44",
