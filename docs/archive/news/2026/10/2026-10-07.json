@@ -1,7 +1,45 @@
 {
   "date": "2026-10-07",
-  "count": 264,
+  "count": 268,
   "items": [
+    {
+      "id": "5129134",
+      "time": "2026-10-07 04:12:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：美國將持有馬里蘭新建國防造船廠 40% 股份。"
+    },
+    {
+      "id": "5129132",
+      "time": "2026-10-07 04:12:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：法國財長稱，政府準備繞開議會，透過數十億歐元的支出削減方案。"
+    },
+    {
+      "id": "te:markets:589941",
+      "time": "2026-10-07 04:11:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Hit Record Highs on Tech Gains — US stock indices closed higher on Tuesday with support from the heavyweight tech sector as the surge in bond yields paused and softened pressure on the sector's credit outlook. The S&P 500 added 0.6% and the Nasdaq 100 rose 0.5% each to their record highs, while the Dow gained 253 points. Both AI infrastructure and hyperscaler stocks were mostly higher as fresh deals in the sector continued to spur speculative demand for the technology. OpenAI was in talks for a $30 billion round of financing with UAE funds and Alphabet gained 0.3% ahead of an agreement to acquire nuclear energy capacity from Constellation Energy, which rose 12.2%. Meanwhile, AMD jumped 2.8% as CEO Lisa Su signaled strong chip demand in the coming years. Microsoft rose 0.8% and Amazon gained 1.9%, while Nvidia added 0.1%."
+    },
+    {
+      "id": "5129129",
+      "time": "2026-10-07 04:11:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "黑山公司簽署最終協議，為谷歌擬建的懷俄明州夏延資料中心提供配套服務，合約有效期至 2048 年。"
+    },
     {
       "id": "5129126",
       "time": "2026-10-07 04:07:30",

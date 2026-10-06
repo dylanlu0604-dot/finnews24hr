@@ -1,7 +1,45 @@
 {
-  "updated": "2026-10-07 04:10:05",
-  "count": 9670,
+  "updated": "2026-10-07 04:13:54",
+  "count": 9667,
   "items": [
+    {
+      "id": "5129134",
+      "time": "2026-10-07 04:12:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：美國將持有馬里蘭新建國防造船廠 40% 股份。"
+    },
+    {
+      "id": "5129132",
+      "time": "2026-10-07 04:12:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：法國財長稱，政府準備繞開議會，透過數十億歐元的支出削減方案。"
+    },
+    {
+      "id": "te:markets:589941",
+      "time": "2026-10-07 04:11:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Hit Record Highs on Tech Gains — US stock indices closed higher on Tuesday with support from the heavyweight tech sector as the surge in bond yields paused and softened pressure on the sector's credit outlook. The S&P 500 added 0.6% and the Nasdaq 100 rose 0.5% each to their record highs, while the Dow gained 253 points. Both AI infrastructure and hyperscaler stocks were mostly higher as fresh deals in the sector continued to spur speculative demand for the technology. OpenAI was in talks for a $30 billion round of financing with UAE funds and Alphabet gained 0.3% ahead of an agreement to acquire nuclear energy capacity from Constellation Energy, which rose 12.2%. Meanwhile, AMD jumped 2.8% as CEO Lisa Su signaled strong chip demand in the coming years. Microsoft rose 0.8% and Amazon gained 1.9%, while Nvidia added 0.1%."
+    },
+    {
+      "id": "5129129",
+      "time": "2026-10-07 04:11:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "黑山公司簽署最終協議，為谷歌擬建的懷俄明州夏延資料中心提供配套服務，合約有效期至 2048 年。"
+    },
     {
       "id": "5129126",
       "time": "2026-10-07 04:07:30",
@@ -88956,79 +88994,6 @@
         "國際"
       ],
       "text": "【扎克伯格：白宮AI框架落地，行業達成共識】Meta執行長扎克伯格闡述了科技領袖們在白宮與特朗普總統會面後達成一致的AI框架。他表示，這些原則的核心在於：建立完善的內部管控機制、開展內部風險評估、引入外部審計員和評估機構，以及由公司董事會對審計報告進行獨立審查。他說：“我們的想法並不是說這（框架）將是我們唯一要做的舉措。相反，這只是一個起點，是一個整個行業都能達成一致的共識。”他表示，此舉的目標是讓美國民眾和客戶相信，這些技術正按照公司的預期初衷正常執行。"
-    },
-    {
-      "id": "mkt:01a0eecd-0e27-7338-ab1c-f329fd45f0f3",
-      "time": "2026-09-30 04:13:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Elon Musk said the most likely outcome of artificial intelligence is extremely beneficial."
-    },
-    {
-      "id": "mkt:01a0eecc-cb05-7338-ab1c-ec18841c9eda",
-      "time": "2026-09-30 04:13:13",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "U.S. President Trump, standing beside Alphabet (GOOG.O) CEO Sundar Pichai, criticized Finland's data center construction plan."
-    },
-    {
-      "id": "5119471",
-      "time": "2026-09-30 04:12:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：人工智慧最可能帶來的結果是裨益無窮。"
-    },
-    {
-      "id": "5119470",
-      "time": "2026-09-30 04:12:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普（在Alphabet執行長身旁）批評了Alphabet在芬蘭建設資料中心的計劃。"
-    },
-    {
-      "id": "mkt:01a0eecb-5a21-7338-ab1c-e03baf939ca9",
-      "time": "2026-09-30 04:11:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "U.S. truck drivers union says Amazon (AMZN.O) SWF1 warehouse workers demand an end to unsafe working practices and to unfair productivity-assessment penalties."
-    },
-    {
-      "id": "mkt:01a0eecb-43aa-7338-ab1c-dcc79c39474f",
-      "time": "2026-09-30 04:11:33",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "AMZN.O",
-        "Impact bearish"
-      ],
-      "text": "US truck drivers' union says workers at Amazon (AMZN.O) SWF1 warehouse in New York have launched an unfair labor practice strike."
-    },
-    {
-      "id": "mkt:01a0eec9-ff12-7338-ab1c-d34f23bc8c3a",
-      "time": "2026-09-30 04:10:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he wants data centers built in the United States."
     }
   ]
 }
