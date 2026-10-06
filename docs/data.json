@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-06 22:37:21",
-  "count": 9843,
+  "updated": "2026-10-06 22:41:09",
+  "count": 9834,
   "items": [
+    {
+      "id": "mkt:01a111a8-9b84-7ee0-a7be-dd9d142fec72",
+      "time": "2026-10-06 22:40:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU to impose special agricultural terms on Ukraine accession, limiting some subsidies and market access】The European Commission plans special arrangements to restrict fiscal support and market access for parts of Ukraine’s large agricultural sector upon accession, EU enlargement commissioner Marta Kos said Tuesday ahead of a commission discussion. Kos said Ukraine’s agricultural structure and scale are unusually large, and the proposal would limit subsidies and market access for certain farm products—not all—and allow phased integration in some areas to protect European farmers and address member-state concerns over market disruption and fiscal impact."
+    },
+    {
+      "id": "5128863",
+      "time": "2026-10-06 22:39:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海地延長總統選舉報名期限並推遲競選期】太子港訊息：海地臨時選舉委員會5日簽署公告，宣佈將總統選舉和立法機構選舉候選人報名期限延長至10月31日。原定於10月5日開始的首輪競選期推遲，新的起止日期另行公佈。（新華社）"
+    },
+    {
+      "id": "5128862",
+      "time": "2026-10-06 22:37:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【有深圳房產中介銷售額暴增200%】走訪發現，國慶假期期間，深圳的二手房市場活躍度明顯提升。非深戶在深圳非核心區域購房，無需社保或個稅即可購買2套。資料顯示，2026年9月，深圳一二手住宅合計網籤7049套，環比上漲2.7%。國慶假期1-5日，據深圳貝殼研究院監測，貝殼深圳合作門店二手房簽約量同比增長23%。樂有家研究中心監測資料顯示，二手看房量環比增長30%，同比增長22%，簽約量同比上漲11%。廣東深圳樂有家營銷區域總監表示：“光明區30多家門店，我們10月1日到10月4日，銷售額環比9月增長了200%。”（央視財經）"
+    },
+    {
+      "id": "mkt:01a111a6-2f9e-7ee0-a7be-d17bb2bd55b5",
+      "time": "2026-10-06 22:37:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "BEKE.O",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "【Shenzhen agents report 200% sales jump as secondary-market activity rises over National Day】Shenzhen secondary-market activity strengthened over the National Day holiday, with agents in Guangming reporting a 200% MoM rise in sales value for Oct 1-4 versus September. Policy note: non‑Shenzhen hukou buyers in non‑core Shenzhen districts can buy up to two homes without meeting social‑insurance or individual‑income‑tax requirements. Market data: combined new and resale residential contracts in Shenzhen totaled 7,049 in Sept 2026, up 2.7% MoM; Beike partner stores in Shenzhen saw resale contract signings rise 23% YoY during Oct 1-5, while Leyoujia monitoring showed resale viewings +30% MoM and +22% YoY and signings +11% YoY."
+    },
+    {
+      "id": "5128861",
+      "time": "2026-10-06 22:36:05",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美債收益率脫離2002年以來高點 受油價下跌及貝森特講話影響】由於油價回落至每桶100美元下方，加之美國財政部長貝森特堅持認為政府債務負擔可控，美債收益率從2002年以來最高水平回落。貝森特試圖安撫投資者，稱經濟增長與支出約束相結合將“非常迅速地”開始改變政府舉債路徑。他週一晚間在賓夕法尼亞州參加爐邊談話時表示，政府將開始扭轉這一趨勢。10年期美債收益率下降2個基點至5.28%，兩年期收益率也下降約2個基點至4.8%。週二，隨著跡象顯示更多供應正透過霍爾木茲海峽，原油價格回落。對美國財政路徑的擔憂一直令投資者保持警惕。橋水創始人達利歐警告稱，美國正接近債務週期的極限，如果支出繼續超過收入，未來三年內可能面臨危機。他表示，美債還容易受到中國和日本購債需求下降的衝擊。不過，投資者懷疑貝森特能否在短期內顯著緩解財政壓力，也不願就此判斷債券拋售已經結束。"
+    },
     {
       "id": "5128860",
       "time": "2026-10-06 22:35:41",
@@ -90662,148 +90710,6 @@
         "Importance 1"
       ],
       "text": "Berkshire Hathaway Stock Price Hits 4-week Low — Berkshire Hathaway shares decreased to 500.70 USD, the lowest since August 2026. Over the past 4 weeks, Berkshire Hathaway lost 0.65%, and in the last 12 months, it decreased 0.4%."
-    },
-    {
-      "id": "5119076",
-      "time": "2026-09-29 22:41:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普將簽署命令，要求各機構與america.gov網站整合。"
-    },
-    {
-      "id": "mkt:01a0ed9c-ab9a-7338-ab13-8fd0fcca7862",
-      "time": "2026-09-29 22:41:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "President Trump said Iran is collapsing rapidly and will soon be finished, and that oil prices will fall sharply."
-    },
-    {
-      "id": "5119075",
-      "time": "2026-09-29 22:40:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：油價將暴跌。"
-    },
-    {
-      "id": "5119074",
-      "time": "2026-09-29 22:40:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：伊朗局勢非常糟糕，很快就會結束。"
-    },
-    {
-      "id": "mkt:01a0ed9b-a4e1-7338-ab13-849bbb0573c2",
-      "time": "2026-09-29 22:39:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump will sign an executive order requiring federal agencies to integrate with the america.gov website."
-    },
-    {
-      "id": "5119073",
-      "time": "2026-09-29 22:39:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談人工智慧：若被濫用，某些形式的政府管控是有效的。"
-    },
-    {
-      "id": "mkt:01a0ed9a-f5df-7338-ab13-7ea5b4c9b6fb",
-      "time": "2026-09-29 22:39:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Trump said on artificial intelligence that, if abused, it could affect the functioning of the political system."
-    },
-    {
-      "id": "te:markets:587770",
-      "time": "2026-09-29 22:38:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Extends Gains — The dollar index strengthened to 101.4 on Tuesday, extending a 0.2% gain in the previous session and trading at three-month highs, as the greenback continued to benefit from expectations of further Fed tightening. Little progress has been made in US-Iran talks aimed at ending the conflict and fully reopening the Strait of Hormuz. A decline in oil prices on Tuesday did little to ease concerns that still-elevated energy costs could fuel inflation and prompt further Fed rate hikes. Meanwhile, strong US economic activity is also supporting the dollar. Job openings and consumer confidence released today, however, surprised on the downside. The PCE inflation report tomorrow and the jobs report on Friday should provide further clarity on the strength of the US economy. Swaps traders are pricing in nearly a full percentage point of Fed rate hikes over the coming year. The greenback is up 1.8% in September but is little changed in the third quarter."
-    },
-    {
-      "id": "mkt:01a0ed9a-4d04-7338-ab13-74c5d8dec7e8",
-      "time": "2026-09-29 22:38:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. President Trump said he seeks to maintain U.S. leadership in artificial intelligence."
-    },
-    {
-      "id": "te:markets:587769",
-      "time": "2026-09-29 22:38:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Advance on Tuesday — European equities moved higher on Tuesday as easing crude prices reduced some of the pressure on inflation and markets became less concerned about an imminent ECB rate increase. The Stoxx 50 gained 0.9%, while the Stoxx 600 advanced 0.3%, with technology stocks providing much of the momentum. ASML was a standout performer, jumping 5%. Energy companies instead weakened as Brent crude slipped toward $104 a barrel following the restart of Saudi Arabia’s key oil-export pipeline. In Switzerland, Julius Baer surged as much as 9% after Finma closed its enforcement proceedings, clearing the way for the bank to seek approval to restart its share-buyback programme. Lindt & Sprüngli dropped 7.5% after lowering its sales-growth outlook for the second time this year."
-    },
-    {
-      "id": "te:markets:587768",
-      "time": "2026-09-29 22:38:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Dollar Hits 6-week Low — The Hong Kong Dollar touched 7.85 against the USD, the lowest since August 2026. Over the past 4 weeks, US Dollar Hong Kong Dollar gained 0.1%, and in the last 12 months, it increased 0.82%."
-    },
-    {
-      "id": "5119072",
-      "time": "2026-09-29 22:38:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際空間站國家實驗室：美國國家航空航天局的SpaceX Crew-13任務將於美國東部夏令時間10月1日上午11：10或之後發射。"
-    },
-    {
-      "id": "mkt:01a0ed99-f75a-7338-ab13-697f693f3adf",
-      "time": "2026-09-29 22:38:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "President Trump said he will not curb the growth of artificial intelligence."
-    },
-    {
-      "id": "5119071",
-      "time": "2026-09-29 22:37:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic表示，Claude.ai、Claude API和Claude Code均出現問題。"
     }
   ]
 }
