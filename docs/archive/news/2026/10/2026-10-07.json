@@ -1,7 +1,19 @@
 {
   "date": "2026-10-07",
-  "count": 238,
+  "count": 239,
   "items": [
+    {
+      "id": "te:economy:589940",
+      "time": "2026-10-07 03:34:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Colombia PPI Growth Accelerates in September — Colombia’s Producer Price Index rose 2.20% year over year in September 2026, accelerating from a 0.76% increase in August. Mining and quarrying (6.38%) and agriculture, livestock, forestry, hunting and fishing (4.57%) recorded increases above the 2.20% average, while manufacturing rose 0.52%. The largest price increases were recorded for potatoes (155.92%), citrus fruits (34.58%) and crude petroleum oils and oils obtained from bituminous minerals (10.42%). In contrast, the main deflationary pressures came from coffee (-32.36%), milled or green coffee (-19.33%) and ethyl alcohol and other alcohols, denatured alcohols of any concentration (-27.51%)."
+    },
     {
       "id": "5129108",
       "time": "2026-10-07 03:31:19",

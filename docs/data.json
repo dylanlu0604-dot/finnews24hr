@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-07 03:32:15",
-  "count": 9768,
+  "updated": "2026-10-07 03:36:01",
+  "count": 9766,
   "items": [
+    {
+      "id": "te:economy:589940",
+      "time": "2026-10-07 03:34:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Colombia PPI Growth Accelerates in September — Colombia’s Producer Price Index rose 2.20% year over year in September 2026, accelerating from a 0.76% increase in August. Mining and quarrying (6.38%) and agriculture, livestock, forestry, hunting and fishing (4.57%) recorded increases above the 2.20% average, while manufacturing rose 0.52%. The largest price increases were recorded for potatoes (155.92%), citrus fruits (34.58%) and crude petroleum oils and oils obtained from bituminous minerals (10.42%). In contrast, the main deflationary pressures came from coffee (-32.36%), milled or green coffee (-19.33%) and ethyl alcohol and other alcohols, denatured alcohols of any concentration (-27.51%)."
+    },
     {
       "id": "5129108",
       "time": "2026-10-07 03:31:19",
@@ -89922,34 +89934,6 @@
         "國際"
       ],
       "text": "美國眾議院議長約翰遜：與會各方達成了高度共識。"
-    },
-    {
-      "id": "5119373",
-      "time": "2026-09-30 03:35:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國眾議院議長邁克·約翰遜：與科技公司高管舉行了一次富有成效的會議。"
-    },
-    {
-      "id": "mkt:01a0eea9-35c9-7338-ab1b-87130444ece8",
-      "time": "2026-09-30 03:34:21",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【OPEC+ likely to keep November output quotas unchanged, delegates say】Two OPEC+ delegates said the group is likely to keep November crude production quotas unchanged at a weekend meeting, continuing the current supply plan. Members led by Saudi Arabia and Russia have largely completed a nominal rollback of 2023 cuts and are expected to confirm stable November targets at a Sunday video meeting. Although OPEC+ agreed earlier to raise output gradually, conflict in the Middle East—including Iran-related disruptions—has left some capacity offline, leaving announced increases largely on paper. OPEC+ says some capacity-restoration measures paused in 2022 will not be reconsidered until after year-end; underinvestment, sanctions and other disruptions continue to hinder a full return to prior output. Next year’s supply policy will depend on a member capacity assessment due this week and will be discussed at the Nov. 29 ministerial meeting."
-    },
-    {
-      "id": "5119372",
-      "time": "2026-09-30 03:33:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國最高法院暫時允許迅速將移民遣返至第三國】美國最高法院週二裁定，特朗普政府可以恢復將移民迅速驅逐至其原籍國以外國家的行動。這份僅一頁紙的緊急裁決未署名，也未公佈投票結果，這在此類案件中屬於慣例。儘管大法官們目前為迅速遣返行動的繼續掃清了障礙，但法院同時宣佈將加快審理此案，並於12月聽取口頭辯論，這意味著明年將就這一爭議問題作出最終裁決。"
     }
   ]
 }
