@@ -1,7 +1,53 @@
 {
   "date": "2026-10-06",
-  "count": 1013,
+  "count": 1017,
   "items": [
+    {
+      "id": "mkt:01a11035-1a5f-7ee0-a7b3-892ecc1b75a2",
+      "time": "2026-10-06 15:54:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Gold edges up as markets focus on dollar and US Treasury yields】Gold ticked higher in European morning trade as markets focused on US Treasury yields and the dollar, while fiscal and political turbulence in the euro area bolstered safe-haven demand. ING said European fiscal worries have driven some flows into gold, but elevated US yields, persistent inflation risks and a firmer dollar may constrain gains. Recent US inflation and economic releases have reduced expectations of another Fed hike; CME FedWatch shows the market pricing a 22% chance of an Oct rate increase, easing a key headwind for bullion."
+    },
+    {
+      "id": "te:markets:589822",
+      "time": "2026-10-06 15:53:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises Over 1% — The FTSE MIB rose over 1% to around 51,300 on Tuesday, gaining for a third consecutive session and mirroring a broader global equity rally. A pause in the bond-market sell-off and modest decline in oil prices offered some relief to markets. Heavyweight financial stocks led the advance, with the sector remaining in focus amid ongoing M&A activity in the country’s banking sector. Intesa rose 1.4%, while UniCredit gained 1.6%, BPER added 1.8% and MPS advanced 1.3%. Technology-related shares also outperformed, led by STMicroelectronics, which jumped 2.3%, while Technoprobe and Prysmian gained 2.2% and 1.3%, respectively. Utilities also advanced broadly, with Enel, Terna and Snam posting gains. Recordati rose 1.5% after CVC and GBL raised their takeover bid for the drugmaker to €53 per share. Meanwhile, Telecom Italia fell 1.5%, while Eni (-0.5%) and Leonardo (-0.5%) also declined."
+    },
+    {
+      "id": "mkt:01a11033-5860-7ee0-a7b3-8372ec8053d3",
+      "time": "2026-10-06 15:52:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine energy minister says diesel inventories exceed 1 mln barrels."
+    },
+    {
+      "id": "5128221",
+      "time": "2026-10-06 15:52:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓能源部長：柴油庫存超過100萬桶。"
+    },
     {
       "id": "5128220",
       "time": "2026-10-06 15:51:02",

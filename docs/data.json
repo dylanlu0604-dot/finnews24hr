@@ -1,7 +1,53 @@
 {
-  "updated": "2026-10-06 15:51:36",
-  "count": 10137,
+  "updated": "2026-10-06 15:55:22",
+  "count": 10127,
   "items": [
+    {
+      "id": "mkt:01a11035-1a5f-7ee0-a7b3-892ecc1b75a2",
+      "time": "2026-10-06 15:54:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Gold edges up as markets focus on dollar and US Treasury yields】Gold ticked higher in European morning trade as markets focused on US Treasury yields and the dollar, while fiscal and political turbulence in the euro area bolstered safe-haven demand. ING said European fiscal worries have driven some flows into gold, but elevated US yields, persistent inflation risks and a firmer dollar may constrain gains. Recent US inflation and economic releases have reduced expectations of another Fed hike; CME FedWatch shows the market pricing a 22% chance of an Oct rate increase, easing a key headwind for bullion."
+    },
+    {
+      "id": "te:markets:589822",
+      "time": "2026-10-06 15:53:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises Over 1% — The FTSE MIB rose over 1% to around 51,300 on Tuesday, gaining for a third consecutive session and mirroring a broader global equity rally. A pause in the bond-market sell-off and modest decline in oil prices offered some relief to markets. Heavyweight financial stocks led the advance, with the sector remaining in focus amid ongoing M&A activity in the country’s banking sector. Intesa rose 1.4%, while UniCredit gained 1.6%, BPER added 1.8% and MPS advanced 1.3%. Technology-related shares also outperformed, led by STMicroelectronics, which jumped 2.3%, while Technoprobe and Prysmian gained 2.2% and 1.3%, respectively. Utilities also advanced broadly, with Enel, Terna and Snam posting gains. Recordati rose 1.5% after CVC and GBL raised their takeover bid for the drugmaker to €53 per share. Meanwhile, Telecom Italia fell 1.5%, while Eni (-0.5%) and Leonardo (-0.5%) also declined."
+    },
+    {
+      "id": "mkt:01a11033-5860-7ee0-a7b3-8372ec8053d3",
+      "time": "2026-10-06 15:52:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine energy minister says diesel inventories exceed 1 mln barrels."
+    },
+    {
+      "id": "5128221",
+      "time": "2026-10-06 15:52:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓能源部長：柴油庫存超過100萬桶。"
+    },
     {
       "id": "5128220",
       "time": "2026-10-06 15:51:02",
@@ -93355,129 +93401,6 @@
         "公司"
       ],
       "text": "【ST興化：內控整改推進中 或面臨退市風險警示】ST興化公告稱，因2025年度財務報告內部控制被出具否定意見審計報告，公司股票已於2026年5月6日開市起被實施其他風險警示。若下一個年度財務報告內部控制仍被出具無法表示意見或否定意見審計報告，公司股票將被實施退市風險警示。目前公司已外聘第三方機構開展內控診斷評估，梳理問題並下發整改要求至各責任部門，將定期督辦整改進度。公司將至少每月披露一次進展及風險提示公告，直至相應情形消除或被實施退市風險警示，目前生產經營正常。"
-    },
-    {
-      "id": "5118093",
-      "time": "2026-09-29 15:54:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【嘉元科技：聘任楊雨平為公司副總裁】嘉元科技公告稱，公司於2026年9月28日召開第六屆董事會第十二次會議，審議透過聘任楊雨平為公司副總裁的議案，任期自本次董事會審議透過之日起至第六屆董事會任期屆滿之日止。楊雨平現任公司生產總監，截至公告披露日持有公司股份34769股，與公司控股股東、實際控制人及其他董事、高階管理人員不存在關聯關係，具備相關法律法規規定的任職資格。"
-    },
-    {
-      "id": "5118092",
-      "time": "2026-09-29 15:54:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【澳大利亞對涉華扁軋鋼產品作出雙反終裁，決定徵收反傾銷稅和反補貼稅】9月24日，澳大利亞反傾銷委員會發布第2026/103號和第2026/104號公告，澳大利亞工業、創新和科學部長透過了澳大利亞反傾銷委員會對進口自中國的扁軋鋼產品作出的雙反終裁建議和對進口自韓國扁軋鋼產品作出的反傾銷終裁建議，決定徵收反傾銷稅和反補貼稅，具體如下：中國出口商寶山鋼鐵股份有限公司的反傾銷稅為16.1%、寶鋼湛江鋼鐵有限公司為9.4%、湖南華菱漣源鋼鐵有限公司為26.4%、其他所有出口商為51.2%，韓國所有出口商（POSCO除外）為21.6%；中國出口商寶山鋼鐵股份有限公司的反補貼稅為2.7%，其他所有出口商（寶鋼湛江和湖南華菱除外）為3.9%。同時，澳方決定採用“無損害價格上限”方式實施雙反措施，並將部分產品從措施範圍排除。"
-    },
-    {
-      "id": "te:economy:587571",
-      "time": "2026-09-29 15:53:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovakia",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Slovakia Business Morale Less Negative in September — The industrial confidence indicator in Slovakia rose by 3.3 points to -11.7 in September 2026 from a more than three-year low of -15 in the previous month. The improvement was driven by expectations for industrial production growth, which turned positive (4 vs -7 in August), particularly in the manufacture of wood and paper products (4 vs -31) and food, beverages, and tobacco products (4 vs -5). At the same time, views on stocks of finished goods became more favorable (24 vs 21), while the assessment of current order levels became less negative (-15 vs -17). The current level of export orders remained unchanged at -18. Meanwhile, firms reported a deterioration in current production (-8 vs 15) and employment expectations (-5 vs 5). The outlook for selling prices also eased (6 vs 8)."
-    },
-    {
-      "id": "5118091",
-      "time": "2026-09-29 15:53:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科技部：會同有關部門持續打擊買賣論文等違規行為】科技部副部長邱勇9月29日在國新辦舉行的“開局起步‘十五五’”系列主題新聞釋出會上介紹，科技部會同有關部門持續打擊買賣論文等違規行為，有關部門依規嚴肅處理購買論文的科研人員，以及從事售賣論文的違規經營主體和網站、網店等，並公開通報有關典型案例。（新華社）"
-    },
-    {
-      "id": "te:markets:587569",
-      "time": "2026-09-29 15:53:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Extend Gains — The CAC 40 rose 0.3% to 8,101 on Tuesday, extending gains from the previous session as investors continued to shrug off higher oil prices and the lack of a breakthrough in US-Iran diplomatic talks. While mediators are working with Iran and the US to broker a deal aimed at ending the fighting and reopening the Strait of Hormuz, US President Donald Trump initially said he had rejected an Iranian proposal to reopen the strait within a week. Meanwhile, global bond yields remained at multi-year highs, with France’s 10-year OAT yield recently hitting its highest level since July 2008. On the corporate front, Legrand jumped 6.1% after raising its 2030 targets, citing accelerated growth in data centers and the energy transition alongside improved profitability. Other notable gainers included Schneider Electric (2.3%), STMicroelectronics (2.6%) and Stellantis NV (1.2%)."
-    },
-    {
-      "id": "5118090",
-      "time": "2026-09-29 15:52:26",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本2年期國債收益率正逐步逼近2%這一30年來未曾觸及的關口，顯示市場認為日本經濟正穩步走向通脹化路徑，日本央行甚至可能需要將利率推高至限制性水平。"
-    },
-    {
-      "id": "5118089",
-      "time": "2026-09-29 15:52:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星帥爾：公司及子公司取得三項專利證書】星帥爾公告稱，公司及子公司常熟新都安電器股份有限公司近日取得國家智慧財產權局頒發的專利證書，包括1項發明專利“一種具有直接接插電容功能的起動熱保護器裝配方法”，2項實用新型專利“一種溫控器新型安裝支架”“一種自動定位的旋轉點膠機構”。上述專利取得不會對公司近期生產經營產生重大影響，有利於完善智慧財產權保護體系，提升核心競爭力。"
-    },
-    {
-      "id": "5118088",
-      "time": "2026-09-29 15:52:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天原股份：選舉劉彬為公司第九屆董事會董事長】天原股份公告稱，公司第九屆董事會第三十五次會議審議透過議案，同意選舉劉彬為公司第九屆董事會董事長，同時其擔任第九屆董事會戰略與風險委員會委員、財務預算委員會委員，任期自本次董事會審議透過之日起至本屆董事會任期屆滿之日止。本次會議應出席董事10人，實際出席10人，表決結果為同意10票、反對0票、棄權0票。"
-    },
-    {
-      "id": "5118087",
-      "time": "2026-09-29 15:52:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【洛軸股份：配套工業機器人、具身機器人的部分軸承產品已開展客戶驗證及小批次供貨】洛軸股份9月29日在互動平臺表示，公司圍繞國產機器人產業發展需求，開展相關產品研發，並參與起草國內工業機器人軸承國家標準。目前，配套工業機器人、具身機器人的部分軸承產品已開展客戶驗證及小批次供貨，暫未形成大規模銷售收入，對公司整體業績貢獻有限。"
-    },
-    {
-      "id": "5118086",
-      "time": "2026-09-29 15:52:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星帥爾：籌劃發行股份及支付現金購買資產 股票繼續停牌】星帥爾公告稱，公司正在籌劃發行股份及支付現金方式購買資產並募集配套資金事項，公司股票已於2026年9月22日開市起停牌。截至本公告披露日，公司及有關各方正積極推進本次交易相關工作，協商交易方案與編制交易預案等。鑑於本次交易相關事項尚存在不確定性，公司股票將繼續停牌。停牌期間公司將繼續推進各項工作，待相關事項確定後及時披露公告並申請股票復牌，本次交易尚存在不確定性，敬請投資者注意投資風險。"
-    },
-    {
-      "id": "5118085",
-      "time": "2026-09-29 15:51:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬達資訊：擬簽訂990萬元ARM晶片伺服器採購關聯交易合同】萬達資訊公告稱，公司擬與關聯方中國人壽資產管理有限公司簽訂2026年度資訊科技軟硬體專案採購合同（標包1：ARM晶片伺服器），合同金額990萬元（含增值稅）。中國人壽保險股份有限公司持有公司20.36%股份，為公司第一大股東，國壽資產公司為其控股子公司，本次交易構成關聯交易。本次交易定價公允，不會對公司業務獨立性及經營成果產生重大影響。2026年年初至今，公司與中國人壽保險（集團）公司及其子公司累計關聯交易總金額為2253.59萬元。"
-    },
-    {
-      "id": "5118084",
-      "time": "2026-09-29 15:51:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝恩揭露AI基建狂飆背後的現實困境：超4萬億美元收入缺口】全球頂尖的戰略諮詢公司貝恩公司最新表示，到2031年，全球人工智慧（AI）產業需要實現6萬億美元的年收入，才能證明投入到世界各地建設資料中心的資金是合理的。該公司週二在其年度全球技術報告中指出，現有面向消費者和企業的AI服務可能創造高達1.8萬億美元的收入，這意味著仍有4.2萬億美元的新收入需要創造。報告稱，這一缺口可能來自新興領域，例如自主機器、機器人以及藥物研發、心理健康和能源生產等新興領域。"
-    },
-    {
-      "id": "5118083",
-      "time": "2026-09-29 15:51:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST海龍：內控整改推進中 存退市風險警示風險】ST海龍公告稱，因2025年度內部控制審計報告被出具否定意見，公司股票自2026年5月6日開市起被實施其他風險警示。目前公司已成立專項整改工作小組，推進最佳化存量業務、壓縮存貨規模、清理往來賬目及合同單證、完善內控體系等整改工作，力爭儘快消除否定意見相關影響。若公司2026年度內部控制審計仍被出具無法表示意見或否定意見的審計報告，公司股票交易將被實施退市風險警示。公司將每月披露相關進展及風險提示公告，敬請投資者注意投資風險。"
-    },
-    {
-      "id": "5118082",
-      "time": "2026-09-29 15:51:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歡樂家：控股股東豪興投資解除質押530萬股股份】歡樂家公告稱，公司控股股東廣東豪興投資有限公司近日辦理完成部分股份解除質押業務，合計解除質押股份530萬股，佔其所持股份比例2.36%，佔公司總股本比例1.22%，質權人均為國民信託有限公司。本次解除質押後，豪興投資質押股份數量為1.48億股，佔其所持股份比例65.77%，佔公司總股本比例34.02%。"
     }
   ]
 }
