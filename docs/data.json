@@ -1,7 +1,57 @@
 {
-  "updated": "2026-10-07 03:28:29",
-  "count": 9765,
+  "updated": "2026-10-07 03:32:15",
+  "count": 9768,
   "items": [
+    {
+      "id": "5129108",
+      "time": "2026-10-07 03:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：英國財政大臣計劃推出重大幹預措施，幫助低收入家庭應對不斷上漲的能源賬單。"
+    },
+    {
+      "id": "mkt:01a112b2-3426-7ee0-a7c4-9b8bd28caa43",
+      "time": "2026-10-07 03:30:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The Guardian reported the UK chancellor plans a major intervention to help low-income households cope with rising energy bills."
+    },
+    {
+      "id": "mkt:01a112b1-3565-7ee0-a7c4-96c06bc028d6",
+      "time": "2026-10-07 03:29:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil prices edged up on the 6th】At the close, NYMEX November light sweet crude futures rose $0.01 to $89.44 a barrel, up 0.01%. ICE Brent crude futures for December delivery gained $0.26 to $100.58 a barrel, up 0.26%."
+    },
+    {
+      "id": "mkt:01a112b0-a45c-7ee0-a7c4-8f31de435260",
+      "time": "2026-10-07 03:28:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "When asked about suspending the federal gasoline tax, President Trump said he is considering it."
+    },
+    {
+      "id": "mkt:01a112b0-8c91-7ee0-a7c4-815fb378b391",
+      "time": "2026-10-07 03:28:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Islamic State's Iraq branch (ISIS) claimed responsibility for an attack in Kirkuk that killed one police officer and wounded several others."
+    },
     {
       "id": "5129106",
       "time": "2026-10-07 03:27:59",
@@ -89900,22 +89950,6 @@
         "國際"
       ],
       "text": "【美國最高法院暫時允許迅速將移民遣返至第三國】美國最高法院週二裁定，特朗普政府可以恢復將移民迅速驅逐至其原籍國以外國家的行動。這份僅一頁紙的緊急裁決未署名，也未公佈投票結果，這在此類案件中屬於慣例。儘管大法官們目前為迅速遣返行動的繼續掃清了障礙，但法院同時宣佈將加快審理此案，並於12月聽取口頭辯論，這意味著明年將就這一爭議問題作出最終裁決。"
-    },
-    {
-      "id": "5119369",
-      "time": "2026-09-30 03:31:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "示威者在OpenAI活動場外抗議，要求該公司切斷與政府的關聯。"
-    },
-    {
-      "id": "5119367",
-      "time": "2026-09-30 03:28:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩議長：黎巴嫩保留起訴以色列罪行的主權權利。"
     }
   ]
 }

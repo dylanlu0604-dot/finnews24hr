@@ -1,7 +1,57 @@
 {
   "date": "2026-10-07",
-  "count": 233,
+  "count": 238,
   "items": [
+    {
+      "id": "5129108",
+      "time": "2026-10-07 03:31:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：英國財政大臣計劃推出重大幹預措施，幫助低收入家庭應對不斷上漲的能源賬單。"
+    },
+    {
+      "id": "mkt:01a112b2-3426-7ee0-a7c4-9b8bd28caa43",
+      "time": "2026-10-07 03:30:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The Guardian reported the UK chancellor plans a major intervention to help low-income households cope with rising energy bills."
+    },
+    {
+      "id": "mkt:01a112b1-3565-7ee0-a7c4-96c06bc028d6",
+      "time": "2026-10-07 03:29:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil prices edged up on the 6th】At the close, NYMEX November light sweet crude futures rose $0.01 to $89.44 a barrel, up 0.01%. ICE Brent crude futures for December delivery gained $0.26 to $100.58 a barrel, up 0.26%."
+    },
+    {
+      "id": "mkt:01a112b0-a45c-7ee0-a7c4-8f31de435260",
+      "time": "2026-10-07 03:28:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "When asked about suspending the federal gasoline tax, President Trump said he is considering it."
+    },
+    {
+      "id": "mkt:01a112b0-8c91-7ee0-a7c4-815fb378b391",
+      "time": "2026-10-07 03:28:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Islamic State's Iraq branch (ISIS) claimed responsibility for an attack in Kirkuk that killed one police officer and wounded several others."
+    },
     {
       "id": "5129106",
       "time": "2026-10-07 03:27:59",
