@@ -1,7 +1,93 @@
 {
   "date": "2026-10-06",
-  "count": 417,
+  "count": 425,
   "items": [
+    {
+      "id": "mkt:01a10ead-1282-7ee0-a7ab-9e7c8921a33f",
+      "time": "2026-10-06 08:46:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's 30-year government bond yield rose 1bp to a record 4.24%."
+    },
+    {
+      "id": "te:markets:589683",
+      "time": "2026-10-06 08:46:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Slips on Tax-Exempt Diesel — US heating oil prices fell to around $4.51 per gallon as President Donald Trump signed an executive order expanding access to tax-exempt diesel in the latest bid to lower diesel costs. The order waives the off-road requirement for red-dyed diesel, allowing it to be purchased tax-free for any use. The G7 also pledged last week to release 100 million barrels of diesel from strategic emergency reserves, although the amount of additional supply remained unclear. Nevertheless, heating oil prices remained close to their record high of $5.20 reached in mid-September as refined product markets remained tight. EIA data showed US distillate inventories at historically low levels, while refinery maintenance and seasonal demand were expected to keep supplies tight. Disruptions in the Middle East and Russia, along with Moscow’s extended diesel-export restrictions and China’s suspension of October fuel exports, further constrained global diesel availability."
+    },
+    {
+      "id": "5127411",
+      "time": "2026-10-06 08:45:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲1個基點，觸及4.24%的歷史新高。"
+    },
+    {
+      "id": "mkt:01a10eab-9dad-7ee0-a7ab-9335ac9467b1",
+      "time": "2026-10-06 08:44:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan 5-year government bond yield rose 3 bps to 2.39%."
+    },
+    {
+      "id": "5127410",
+      "time": "2026-10-06 08:44:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【菲律賓股市申報網站出現宕機】週二開盤前，菲律賓證券交易所的上市公司材料申報網站發生服務中斷。網站提示：“網頁伺服器返回未知錯誤。”注：9 月下旬，菲交所申報網站也曾發生故障，後恢復，交易未受影響。"
+    },
+    {
+      "id": "5127403",
+      "time": "2026-10-06 08:44:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【歐元兌美元跌至17個月低點】受法國財政壓力與政治不確定性帶來的市場擔憂拖累，歐元5日明顯走弱，一度下探至1歐元兌1.1161美元，創下2025年5月以來的最低水平。此前，歐元已經連續4周收跌。"
+    },
+    {
+      "id": "mkt:01a10eaa-d587-7ee0-a7ab-89b3519581d4",
+      "time": "2026-10-06 08:43:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Euro falls to 17-month low vs dollar】The euro slid to $1.1161 on the 5th, its weakest since May 2025, after four straight weekly declines, pressured by concerns over French fiscal strain and political uncertainty. The spread between French and German 10-year yields briefly topped 150bps, the widest since end-2011. Markets warn rising French debt, higher debt-servicing costs and a potential pre-election political deadlock could amplify eurozone fiscal risk; US reports on the 5th said France has become a \"typical example\" of stress in European bond markets."
+    },
+    {
+      "id": "te:economy:589682",
+      "time": "2026-10-06 08:43:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Job Advertisements",
+        "Importance 1"
+      ],
+      "text": "Australia Job Ads Rise for 3rd Month — Australia’s ANZ–Indeed Job Ads rose 2.2% month -over-month in September 2026, slowing from a marginally revised 2.6% gain in the previous month despite marking the third straight month of expansion. The continued increase suggested that labour demand remained resilient, although the slower pace pointed to some moderation in hiring momentum"
+    },
     {
       "id": "5127385",
       "time": "2026-10-06 08:41:59",
