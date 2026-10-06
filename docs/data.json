@@ -1,7 +1,89 @@
 {
-  "updated": "2026-10-06 22:13:48",
-  "count": 9848,
+  "updated": "2026-10-06 22:17:56",
+  "count": 9847,
   "items": [
+    {
+      "id": "5128835",
+      "time": "2026-10-06 22:16:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "ASOS 認為支付卡和密碼資料未受影響。"
+    },
+    {
+      "id": "5128834",
+      "time": "2026-10-06 22:16:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "ASOS：基本個人資訊或遭洩露，支付卡資訊未受影響。"
+    },
+    {
+      "id": "5128833",
+      "time": "2026-10-06 22:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "ASOS：正調查涉及第三方客戶平臺的未經授權活動。"
+    },
+    {
+      "id": "5128832",
+      "time": "2026-10-06 22:16:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "ASOS：官網與應用程式運營正常，未出現服務中斷。"
+    },
+    {
+      "id": "5128831",
+      "time": "2026-10-06 22:15:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "ASOS 確認遭遇網路安全事件。"
+    },
+    {
+      "id": "mkt:01a11192-0cbd-7ee0-a7be-619ef23905e2",
+      "time": "2026-10-06 22:15:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU enlargement commissioner Kos said Ukraine’s accession must not have a negative impact on EU farmers."
+    },
+    {
+      "id": "5128830",
+      "time": "2026-10-06 22:15:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟擴大事務專員：烏克蘭入盟不得對歐盟農民造成負面影響。"
+    },
+    {
+      "id": "5128829",
+      "time": "2026-10-06 22:14:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：伊拉克庫爾德自治區政府總理表示，庫爾德地區不存在安全威脅，我們正與聯邦政府及盟友溝通，以建立防空和反無人機系統。伊拉克庫爾德自治區政府總理表示，埃爾比勒與巴格達之間需要加強協調，以防止任何安全漏洞被利用。"
+    },
+    {
+      "id": "mkt:01a1118f-f6cf-7ee0-a7be-596a33574663",
+      "time": "2026-10-06 22:13:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Al Arabiya TV reported the prime minister of Iraq's Kurdistan Regional Government said Erbil and Baghdad must strengthen coordination to prevent security gaps from being exploited."
+    },
+    {
+      "id": "5128828",
+      "time": "2026-10-06 22:13:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "華納兄弟探索（WBD）已償還第一留置權信貸協議項下部分信貸協議的貸款。"
+    },
     {
       "id": "mkt:01a1118f-a05d-7ee0-a7be-51753110cbaf",
       "time": "2026-10-06 22:13:07",
@@ -90755,111 +90837,6 @@
         "其他"
       ],
       "text": "荷蘭逮捕行動後，FBI官員對ShinyHunters駭客表示“我們知道如何找到你們”。"
-    },
-    {
-      "id": "5119040",
-      "time": "2026-09-29 22:17:18",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "OpenAI的年度經常性收入接近700億美元。"
-    },
-    {
-      "id": "mkt:01a0ed86-e487-7338-ab13-0940a35fec61",
-      "time": "2026-09-29 22:17:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Axios reports OpenAI's annual recurring revenue is approaching $70 billion."
-    },
-    {
-      "id": "te:markets:587759",
-      "time": "2026-09-29 22:16:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Rebounds as Markets Assess Fed Rate Outlook — Gold prices climbed back above $4,160 an ounce on Tuesday after falling to a more than seven-week low in the previous session, as investors awaited fresh US economic data for clues on the Federal Reserve’s interest-rate outlook. Bullion plunged nearly 4% on Monday as a surge in crude oil prices, driven by lingering concerns over potential disruptions to Middle East supplies, strengthened expectations that the Fed could raise interest rates. Higher oil prices can intensify inflationary pressures, potentially prompting central banks to keep borrowing costs elevated for longer and weighing on non-yielding assets such as gold. Markets are currently pricing in a nearly 70% chance of a Fed rate hike as early as October and a 95% probability of an increase in December, according to the CME FedWatch Tool. Focus now turns to Wednesday’s ADP jobs report, PCE inflation data and comments from Fed officials for further signals on monetary policy."
-    },
-    {
-      "id": "5119039",
-      "time": "2026-09-29 22:16:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴克萊延長到崗辦公試應期】面對員工強烈抵制，巴克萊銀行給予員工更長適應時間，來落實返回辦公室辦公的要求。該行原本計劃強制員工每週至少到崗三天。這家銀行收緊後的混合辦公政策原定於下週一正式生效，但巴克萊在週二發給員工的郵件中表示，將設定過渡期，過渡期延續至 2027 年初。這份內部備忘錄釋出前，員工對巴克萊收緊混合辦公政策表示強烈不滿。數千名員工響應聯合工會（Unite）的呼籲：通勤距離較遠的員工應當豁免新規，並且全體員工應獲得一次性補貼，用以抵消通勤帶來的額外開銷。"
-    },
-    {
-      "id": "5119038",
-      "time": "2026-09-29 22:15:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【派拉蒙債券供應臨近，美債延續熊市趨陡】美國國債收益率曲線長端繼續承壓，在確認派拉蒙將發行八檔債券並預計於週三定價後，利差進一步走闊。派拉蒙計劃透過此次發行籌集約320億美元，使其成為同類交易中規模最大的交易之一——發行八檔第一留置權美元計價債券，期限從2年至40年不等。當日30年期美債收益率下跌近3個基點，盤中觸及5.59%，創2004年以來新高；5s30s和2s10s利差均接近日內最闊水平，分別走闊1.2個基點和1.5個基點。"
-    },
-    {
-      "id": "5119037",
-      "time": "2026-09-29 22:15:41",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【2026金融街論壇年會將於10月19日在京開幕】經國務院批覆，由北京市人民政府與中國人民銀行、國家金融監督管理總局、中國證券監督管理委員會、新華通訊社、國家外匯管理局共同主辦的2026金融街論壇年會定於10月19日至22日在北京金融街舉辦。本屆論壇年會將以“開放·合作·包容——共築全球金融發展新生態”為主題，邀請國內外經濟金融領域重要嘉賓研討交流，深化國際金融務實合作，凝聚全球金融發展共識，為推動構建開放共贏的全球金融體系注入持久金融力量。據悉，論壇將邀請來自全球40多個國家和地區的演講嘉賓400人左右，包括國際經濟金融組織、多國政府部門、知名中外金融機構、央國企、跨國企業、民營企業代表出席。（新華社）"
-    },
-    {
-      "id": "te:economy:587758",
-      "time": "2026-09-29 22:15:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Job Quits",
-        "Importance 1"
-      ],
-      "text": "US Job Quits Dip Slightly in August — The number of workers voluntarily leaving their jobs in the United States fell slightly by 23,000 to 3.07 million in August 2026, from the revised 3.09 million in the prior month. Quits decreased in wholesale trade (-34,000) and in state and local government education (-21,000), but increased in nondurable goods manufacturing (+28,000) and in private educational services (+13,000). The quits rate stood at 1.9% in August, remaining near its lowest level since 2020 and signaling reluctance among workers to quit."
-    },
-    {
-      "id": "5119036",
-      "time": "2026-09-29 22:15:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將把重返辦公室的過渡期安排至2027年初。"
-    },
-    {
-      "id": "te:markets:587757",
-      "time": "2026-09-29 22:15:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Near Flat as Trade Tensions Weigh — The S&P/TSX Composite Index was near flat around 35,500 on Tuesday following subdued GDP data and as a US ban on multiple Canadian imports came into force. Advance information showed that real GDP increased 0.2% in August, with gains in mining and quarrying and retail trade partly offset by a decline in oil and gas extraction. GDP was essentially unchanged in July. The US ban on various Canadian goods, including many alcoholic beverages and dairy products, also took effect, with Saputo and Nutrien edging lower. Meanwhile, oil prices pulled back as US and Iranian officials continued separate discussions with mediators. Energy producers retreated, with Canadian Natural and Suncor losing about 1%. Miners were subdued following Monday’s selloff despite higher gold prices. Major banks also traded mostly below the flatline despite the halt in the oil rally giving a respite to energy-driven inflation concerns."
-    },
-    {
-      "id": "5119035",
-      "time": "2026-09-29 22:14:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊延長員工遵守重返辦公室要求的期限。"
-    },
-    {
-      "id": "5119034",
-      "time": "2026-09-29 22:13:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【9月29日增減持彙總】9月29日盤後，據不完全統計，包括彤程新材、海南高速、中國汽研在內的3家A股上市公司披露擬增持情況，當日暫無A股上市公司披露擬減持情況。"
     }
   ]
 }
