@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-07 07:52:46",
-  "count": 9607,
+  "updated": "2026-10-07 07:56:32",
+  "count": 9603,
   "items": [
+    {
+      "id": "5129252",
+      "time": "2026-10-07 07:55:20",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【必和必拓將已關停的澳大利亞鎳礦廠出售給金田公司】必和必拓集團將把位於西澳的坎巴爾達（Kambalda）鎳選礦廠及配套土地出售給金田有限公司（Gold Fields Ltd.），交易金額未對外披露。必和必拓週三釋出宣告稱，金田公司將 “評估這座選礦廠的長期用途”。本次交易包含採礦租約與礦權。受全球鎳供應過剩、價格暴跌影響，必和必拓於 2024 年年中關停坎巴爾達選礦廠，同步暫停整個西澳鎳業務運營。必和必拓表示，公司仍在評估整體鎳業務；鎳精煉廠、冶煉廠及兩座大型礦山等其餘資產的處置決議預計將於 2027 年 2 月出臺。受印尼這種電池金屬大量增產拖累鎳價下行，這家全球最大礦業集團已於 2024 年對其鎳資產計提 25 億美元減值損失。金田公司一直在該區域物色金礦基礎設施與礦山資產。該公司目前正考慮對北極星資源發起第二輪收購要約，北極星在坎巴爾達附近持有多個大型金礦專案。"
+    },
     {
       "id": "mkt:01a113a1-fca8-7ee0-a7c7-2a10c8009610",
       "time": "2026-10-07 07:52:25",
@@ -88442,55 +88452,6 @@
         "Importance 1"
       ],
       "text": "US Futures Edge Higher After Weak Session — US stock futures edged higher on Wednesday after the major averages came under pressure in the previous session, pressured by rising Treasury yields. Futures tied to the Dow, S&P 500 and Nasdaq 100 were each up around 0.2%. During regular trading on Tuesday, the Dow slipped 0.26%, while the S&P 500 and Nasdaq Composite fell 0.17% and 0.09%, respectively. Seven of the 11 S&P sectors finished lower, with energy, materials and consumer staples leading the declines. The moves came as the 30-year Treasury yield climbed as high as 5.62%, reaching levels not seen since June 2002, while the 10-year yield rose to fresh 2007 highs near 5.3%. Investors now await Wednesday’s PCE price index report, the Federal Reserve’s preferred measure of inflation. For the month, the Dow is down roughly 3.5%, while the S&P 500 is little changed and the Nasdaq Composite has gained 1.6%."
-    },
-    {
-      "id": "5119644",
-      "time": "2026-09-30 07:55:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星重工簽署價值3074億韓元的銷售和供應合同。"
-    },
-    {
-      "id": "te:economy:587864",
-      "time": "2026-09-30 07:54:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Retail Sales YoY",
-        "Importance 2"
-      ],
-      "text": "Japan Retail Sales Growth Below Forecasts — Retail sales in Japan increased 2.7% year-on-year in August 2026, below market expectations for a 3.3% rise and slowing from a downwardly revised 3.7% growth in the previous month. On a monthly basis, retail sales fell 1.2% in August, reversing a downwardly revised 2.1% rise in July."
-    },
-    {
-      "id": "te:economy:587863",
-      "time": "2026-09-30 07:54:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Industrial Production Mom",
-        "Importance 1"
-      ],
-      "text": "Japan Industrial Output Unexpectedly Falls — Japan’s industrial production declined 1.7% month-over-month in August 2026, deepening from a 0.2% drop in the prior month and missing market forecasts for a 1.7% rise, preliminary data showed. It was the second straight month of contraction and the steepest pace since February."
-    },
-    {
-      "id": "5119643",
-      "time": "2026-09-30 07:53:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI執行長稱AI安全成為焦點 相信投資者會對IPO保持耐心】OpenAI執行長Sam Altman表示，公司希望在沒有作為新上市公司的壓力下，平穩度過人工智慧安全擔憂加劇的時期，並相信投資者會對公司IPO計劃保持“耐心”。Altman週二接受媒體採訪時表示，公司目前正在“調整”以適應人工智慧能力的“新水平”以及隨之而來的額外安全要求。“我們只是想站穩腳跟，確保我們瞭解如何以這種新方式運作，並且能在沒有作為一家新上市公司的壓力之下做出一些決定，”Altman說。"
-    },
-    {
-      "id": "5119642",
-      "time": "2026-09-30 07:53:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股IPO市場熱度居高不下 369家公司排隊聆訊處理中】今年以來，港股IPO市場熱度居高不下，企業赴港上市熱情持續高漲。Wind資料顯示，截至9月29日收盤，港股年內聆訊且已經完成上市動作的有76家，聆訊透過但暫未上市的有7家、聆訊處理中的有369家、失效的有145家、撤回的有2家。這一輪IPO熱潮的核心驅動力來自科技企業的大規模入場與A股公司赴港上市熱度的持續攀升，兩條主線相互交織。內地AI、硬科技企業及“A+H”上市專案成為香港新股市場的重要增量。德勤中國最新預測顯示，香港新股市場的強勁發展勢頭有望延續至年底，2026年全年有望迎來160只新股上市，融資額不低於4800億港元，或超越2010年創下的年度新股融資額紀錄。其中，硬科技企業將成為市場焦點。（中國證券報）"
     }
   ]
 }
