@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-07 07:22:25",
-  "count": 9630,
+  "updated": "2026-10-07 07:26:16",
+  "count": 9625,
   "items": [
+    {
+      "id": "5129232",
+      "time": "2026-10-07 07:23:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【旭化成醫藥部門遭遇網路攻擊】旭化成醫藥週二釋出宣告稱，其面向醫療從業者的資訊網站遭到網路攻擊。最多 558700 人的個人資訊可能遭到洩露；目前尚未確認資訊被濫用。"
+    },
     {
       "id": "5129231",
       "time": "2026-10-07 07:21:41",
@@ -88647,61 +88655,6 @@
         "Impact bullish"
       ],
       "text": "【BYD says semiconductors and software could be more important than batteries in EVs' next phase】BYD told shareholders at an extraordinary meeting on Sept 29 it views semiconductors and software as potentially more important than batteries in the second phase of EV intelligentization. The company said it has moved from lacking a battery advantage to achieving global leadership. It said semiconductors cut across industries and will be critical to cost and technology as EVs become more intelligent. BYD added it will not be merely an assembler and must master core technologies beyond batteries."
-    },
-    {
-      "id": "5119609",
-      "time": "2026-09-30 07:26:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超長期擔保屢現A股 遠期財務風險值得警惕】9月29日，金髮拉比公告稱，其為參股公司韓妃投資貸款提供擔保，因後者未能按期足額還款，公司依約承擔連帶保證責任，已實際代償相關款項。這一事件直觀展現了擔保觸發後，上市公司表外或有負債轉化為現實償債壓力。A股上市公司中，動輒數十年的超長期擔保，並不鮮見。隨著2026年半年報披露收官，一批“超長待機”的擔保協議隨之浮出水面——興源環境、綠地控股、晶澳科技等多家上市公司，均存在期限長達20年以上的對外擔保安排。擔保屬於表外承諾，短期不會衝擊當期利潤，風險看似遙遠。但一紙擔保協議鎖定數十年，難免將未來宏觀週期波動、行業迭代、擔保物件經營波動等不確定性，轉化為上市公司潛在代償義務。超長擔保期限遠超常規經營週期，其暗藏的遠期財務風險，值得警惕。"
-    },
-    {
-      "id": "5119608",
-      "time": "2026-09-30 07:24:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【據悉貝恩資本正考慮以150億美元收購資料中心，實現戰略大轉向】知情人士透露，貝恩資本（Bain Capital）正參與競標，擬收購科赫公司（Koch Inc.）旗下的一家資料中心企業。此舉標誌著這家在美國人工智慧基礎設施熱潮中一直按兵不動的機構，邁出了其最大的一步。據知情人士透露，貝恩資本已就收購Edged公司進行了洽談。Edged由科赫與企業家雅各布·卡內馬克（Jakob Carnemark）共同創立，致力於資料中心的開發、建設與運營。媒體此前報道稱，科赫的子公司科赫房地產投資公司（Koch Real Estate Investments）一直在為Edged公司徵集收購報價，該交易對Edged的估值可能超過150億美元。"
-    },
-    {
-      "id": "mkt:01a0ef7b-ed07-7338-ab1e-ddba28490a58",
-      "time": "2026-09-30 07:24:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Trump rebuffs Bill Gates' \"AI could kill 1 billion people\" remark】After a White House AI industry leaders meeting, reporters asked Trump about Bill Gates' comment that AI \"could kill 1 billion people.\" Trump said \"he isn't saying that now.\" When reminded Gates made the remark last Sunday, Trump replied \"I don't care what he said on Sunday\" and added \"he didn't say that yesterday.\""
-    },
-    {
-      "id": "5119607",
-      "time": "2026-09-30 07:23:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【格力電器董明珠：製造業企業要對資本市場感恩 只有創新才能保持競爭力】格力電器董事長董明珠表示，格力電器佈局14萬項專利，擁有約2萬名技術開發人員。作為全品類家電企業，格力電器堅持自主創新、自主製造，以品質贏得市場。“十五五”時期，公司將繼續做好創新，只有創新才能保持公司競爭力，才能“讓世界愛上中國造”。董明珠表示，上市公司做強自身實力、積極回饋投資者，就是對資本市場高質量發展的有力踐行。董明珠介紹，格力電器累計從A股市場融資約50億元，透過分紅等形式回饋股民近2000億元。在格力電器看來，上市公司站上資本市場平臺，其目的並非單純融資，而是在獲得初期資本扶持之後實現自身健康發展，並在發展過程中不斷回報投資者。“作為製造業企業，對資本市場要做的就是感恩。”她說。（上證報）"
-    },
-    {
-      "id": "5119606",
-      "time": "2026-09-30 07:23:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中央氣象臺9月30日06時繼續釋出大風藍色預警】中央氣象臺9月30日06時繼續釋出大風藍色預警： 預計，9月30日08時至10月1日08時，新疆東部、青海南部、西藏北部、內蒙古中東部、吉林西部、遼寧西部、河北北部、北京北部和西部、天津北部、山東西部、河南北部等地部分地區有5～6級偏北風，陣風7～8級，局地9級。渤海、渤海海峽、黃海大部海域將有7級、陣風8級的大風。預計，10月1日08時至2日08時，青海西南部、西藏北部、內蒙古東部、河北北部、吉林東部等地部分地區有5～6級偏北風，陣風7～8級。"
-    },
-    {
-      "id": "te:economy:587854",
-      "time": "2026-09-30 07:22:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Car Production",
-        "Importance 1"
-      ],
-      "text": "UK Car Production Rebounds in August — Car production in the United Kingdom climbed by 6.1% year-on-year to 39,328 units in August 2026, marking the strongest growth since December 2025 and rebounding from a 10.6% fall in July. Total vehicle production rose 5.7% to 40,872 units, as domestic demand picked up, while August is typically a low-output and volatile month due to scheduled plant shutdowns. Car exports to Australia, Japan and the US recorded the biggest gains among the top 10 markets, but shipments to the European Union fell 7.4% and those to China dropped 15%. The EU remained the UK’s largest overseas market, accounting for 54.1% of car exports. The SMMT said investments of more than £1 billion from McLaren, Nissan and Bentley support the sector’s long-term prospects. However, it warned that the EU’s proposed “Made in Europe” provisions pose an existential threat to UK production, given the deep integration between British and EU auto industries."
     }
   ]
 }
