@@ -1,7 +1,72 @@
 {
   "date": "2026-10-06",
-  "count": 996,
+  "count": 1004,
   "items": [
+    {
+      "id": "mkt:01a1102e-87be-7ee0-a7b3-750595334214",
+      "time": "2026-10-06 15:47:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EQUINOR is working closely with Norwegian authorities and NATO to protect natural gas pipelines and assess cyber risks, its CEO said."
+    },
+    {
+      "id": "te:markets:589817",
+      "time": "2026-10-06 15:47:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rebound — The CAC 40 rose 0.4% to 7,863 on Tuesday, rebounding from the previous session even as concerns over France’s high debt levels and political uncertainty lingered. As investors continued to shed French assets, Prime Minister Sébastien Lecornu’s government sought to ease market jitters by unveiling its 2027 budget. Far-right presidential candidate Marine Le Pen also proposed cutting government spending by €25 billion a year, seeking to strengthen her fiscal credibility as concerns over France’s public finances and bond-market pressures mount. The state budget deficit widened to €159.6 billion in January-August from €157.5 billion a year earlier, as expenditure rose 4.4% to €362.97 billion while revenue increased 3.1% to €228.55 billion. Meanwhile, industrial production unexpectedly fell 0.3% month-on-month in August, as weaker electricity output offset a modest recovery in manufacturing. Notable gainers included Safran (1.8%), EssilorLuxottica (2.3%), and STMicroelectronics (2.3%)."
+    },
+    {
+      "id": "mkt:01a1102e-3655-7ee0-a7b3-6e623e69beda",
+      "time": "2026-10-06 15:47:06",
+      "tags": [
+        "MKT News",
+        "06951.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed stock 06951.HK jumped in afternoon trade, rising as much as 7.23% to HK$138 and pushing market capitalization above HK$275 billion."
+    },
+    {
+      "id": "5128213",
+      "time": "2026-10-06 15:47:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "港股三環集團(06951.HK)午後直線拉昇，一度漲7.23%至138港元，市值超2750億港元。"
+    },
+    {
+      "id": "5128212",
+      "time": "2026-10-06 15:45:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "EQUINOR執行長表示，我們與挪威當局及北約密切合作，以保護天然氣管道並瞭解網路風險。"
+    },
+    {
+      "id": "5128211",
+      "time": "2026-10-06 15:45:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓能源部長：貿易商足夠靈活，可以找到替代燃料來源。"
+    },
+    {
+      "id": "5128210",
+      "time": "2026-10-06 15:44:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【KOSPI跌0.89%科技股領跌 韓元兌美元走強】受處於數十年高位的債券收益率上行擔憂拖累，首爾股市週二收低，科技股領跌，韓元兌美元走高。 韓國綜合股價指數（KOSPI）高開後轉跌，收盤下跌62.35點，跌幅0.89%，報6941.39點。 市場交投清淡，成交2.5727億股，成交額19.1萬億韓元（摺合142億美元）；下跌個股459只，上漲個股424只。 外資與機構分別淨賣出1.75萬億韓元、19.8億韓元股票，個人投資者淨買入7405.6億韓元。 高利率、能源成本高企以及通脹擔憂再度升溫推高全球債券收益率，投資者正等待企業三季度財報。首爾市場中，科技股領跌。 市場風向標三星電子下跌1.45%，報27.2萬韓元；晶片對手SK海力士下跌3.69%，報177萬韓元。 上漲個股方面，LG電子大漲7.64%，報23.25萬韓元，該公司已與一家北美企業簽訂長期協議，為人工智慧資料中心供應冷水機組。"
+    },
     {
       "id": "mkt:01a1102b-07cb-7ee0-a7b3-61e00c63b33a",
       "time": "2026-10-06 15:43:37",
@@ -9,6 +74,14 @@
         "MKT News"
       ],
       "text": "【Lithuanian parliament backs repeal of constitutional nuclear-weapons ban in first-round vote】Lithuania's parliament on Tuesday approved in a first-round vote a proposal to repeal the constitutional ban on nuclear weapons, the first of two votes required for the change to take effect. The 141-seat parliament recorded 106 votes in favour. The amendment, which would abolish a ban imposed more than 30 years ago, must secure a two-thirds majority in both parliamentary votes; the second round is scheduled for Jan. 12. President Nausėda said parties had agreed the plan in July and that there is currently no plan to host nuclear weapons, but removing the clause would allow deployment if the security situation changes. Lawmakers framed the move as a reassessment of regional security prompted by Russia's actions."
+    },
+    {
+      "id": "5128209",
+      "time": "2026-10-06 15:43:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古巴官員：古美保持“溝通渠道” 】古巴駐美國大使館臨時代辦利亞尼絲·託雷斯·裡韋拉5日接受路透社採訪時表示，古巴與美國保持著“溝通渠道”，但未展開任何正式談判。託雷斯表示，古巴對古美開展“互相尊重的對話”持開放態度，雙方的外交接觸包括舉行會議、通電話及藉助聊天軟體溝通，但雙方在敲定談判議程或重啟正式談判方面沒有取得任何進展。託雷斯沒有透露古美“溝通”的時間、主題和參與者等資訊。託雷斯同時駁斥美國關於古巴對美國家安全構成威脅及干涉其內政的說法，強調美國以類似指控為幌子，持續對古巴實施經濟打壓，構成“集體懲罰”。（新華社）"
     },
     {
       "id": "mkt:01a1102a-a2f7-7ee0-a7b3-5aa48b1019ee",
