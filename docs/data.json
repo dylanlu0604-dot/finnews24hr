@@ -1,7 +1,224 @@
 {
-  "updated": "2026-10-06 15:28:24",
-  "count": 10146,
+  "updated": "2026-10-06 15:32:10",
+  "count": 10160,
   "items": [
+    {
+      "id": "mkt:01a1101f-e4ac-7ee0-a7b3-2150a5c7b33e",
+      "time": "2026-10-06 15:31:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi civil aviation authority said Najran and Jizan airports were attacked on Monday evening; three people were injured and property damage was reported."
+    },
+    {
+      "id": "5128195",
+      "time": "2026-10-06 15:31:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭統計局將波蘭2025年國內生產總值同比增速從此前公佈的3.6%上調至3.8%。"
+    },
+    {
+      "id": "mkt:01a1101f-d43d-7ee0-a7b3-18fc1438e66d",
+      "time": "2026-10-06 15:31:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【UK grid warns of tight power supply as wind output plunges】National Electricity System Operator (NESO) warned Tuesday of potentially tight power supply as wind generation is expected to fall sharply overnight. NESO projects a possible 1.9 GW shortfall between 1500 and 2300 London time, larger than the warning issued Monday evening. Cold weather is lifting demand; volatile forecasts may force rapid reliance on gas-fired plants to fill the gap."
+    },
+    {
+      "id": "5128194",
+      "time": "2026-10-06 15:31:17",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根士丹利建議在英國預算公佈前做空英鎊兌美元。"
+    },
+    {
+      "id": "te:markets:589799",
+      "time": "2026-10-06 15:31:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.69% Higher — The DAX Index is up by 175 points or 0.69 percent on Tuesday. Top gainers are Merck (3.79%), Qiagen NV (3.40%) and Henkel (1.67%). Biggest losses came from Daimler Truck Holding AG (-1.07%), Rheinmetall (-0.53%) and Beiersdorf (-0.34%)."
+    },
+    {
+      "id": "5128193",
+      "time": "2026-10-06 15:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面稱，針對兩座機場的襲擊造成3人受傷，並造成損壞。"
+    },
+    {
+      "id": "5128192",
+      "time": "2026-10-06 15:30:15",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國9月建築業PMI 43.5，前值48.7。"
+    },
+    {
+      "id": "5128191",
+      "time": "2026-10-06 15:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯電9月銷售額253.5億元臺幣。"
+    },
+    {
+      "id": "te:markets:589798",
+      "time": "2026-10-06 15:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.28% Higher — The CAC 40 Index is gaining 22 points or 0.28 percent on Tuesday. Leading the gains are Eurofins Scientific SE (2.75%), STMicroelectronics (2.24%) and Kering (2.01%). Top losers are Schneider Electric (-2.01%), L'Oréal (-0.98%) and Renault (-0.83%)."
+    },
+    {
+      "id": "mkt:01a1101e-afc1-7ee0-a7b3-144d20ec8608",
+      "time": "2026-10-06 15:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany construction PMI 43.5 in September, down from 48.7 previously; reading below 50 indicates sector contraction."
+    },
+    {
+      "id": "mkt:01a1101e-8d9a-7ee0-a7b3-0a82085593db",
+      "time": "2026-10-06 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Construction PMI (Sep) | actual 43.5 | previous 48.7"
+    },
+    {
+      "id": "5128190",
+      "time": "2026-10-06 15:29:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面稱，賈贊和奈季蘭機場週一遭到襲擊。"
+    },
+    {
+      "id": "5128189",
+      "time": "2026-10-06 15:29:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特稱吉贊和納季蘭機場遭到襲擊。"
+    },
+    {
+      "id": "5128188",
+      "time": "2026-10-06 15:29:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟將內部Claude 使用支出削減三分之一】兩名瞭解該項支出情況的人士稱，微軟高管今年早些時候預計，公司內部使用Anthropic技術的年度支出至少將達到10億美元。其中一位人士表示，此後微軟要求員工減少使用Claude以節約成本、更多使用微軟自研 AI 工具，相關預算規模隨之削減超三分之一。直接知情人士稱，微軟Azure雲業務負責人斯科特・格思裡、開發者工具部門負責人傑伊・帕裡克等高管要求員工在程式碼開發場景謹慎使用模型，督促各負責人監控員工消耗，優先選用非Anthropic模型。一名現任微軟員工表示，高管現在可以檢視員工每日 AI 消耗，以及員工在GitHub Copilot上呼叫的具體模型。近期微軟進一步下調員工整體 AI 使用額度。例如，擁有6萬多名員工的雲與 AI 事業部，此前每名員工每月可使用價值10萬美元的 AI 模型。知情人士稱，該雲部門近期將多數場景下的個人月度預算下調至約1萬美元。現任員工表示，預算縮減引發部分工程師不滿，抱怨模型使用不再自由。"
+    },
+    {
+      "id": "mkt:01a1101d-7ecd-7ee0-a7b3-00f50a9adab8",
+      "time": "2026-10-06 15:28:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LSEG data show French OTC next-day baseload power prices fell 7.1% to €186/MWh."
+    },
+    {
+      "id": "5128187",
+      "time": "2026-10-06 15:28:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗內政部長埃斯坎達爾·莫梅尼週二表示，伊朗與卡達就三名失蹤伊朗陸軍飛行員的情況舉行了會談，雙方同意一個技術團隊將再次會面以繼續相關工作。"
+    },
+    {
+      "id": "mkt:01a1101d-284b-7ee0-a7b2-fcae9b109136",
+      "time": "2026-10-06 15:28:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Four sources said the UK would likely expel Israeli diplomats if Israel carries out an order to close the British consulate."
+    },
+    {
+      "id": "mkt:01a1101c-fc08-7ee0-a7b2-f0e97911dc2f",
+      "time": "2026-10-06 15:28:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Eurozone bond yields fell. German 10-year bond yield dropped 6bp to 3.431%; German 2-year down 2bp to 3.037%. Italian 10-year bond yield fell 10bp to 4.555%; Italian 2-year down 3bp to 3.46%."
+    },
+    {
+      "id": "te:economy:589796",
+      "time": "2026-10-06 15:28:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Spain Industrial Production Growth Slows in August — Industrial production in Spain increased by 1.5% year-on-year in August 2026, following an upwardly revised 2.5% increase in July. Energy production recorded the strongest growth, rising by 4.7%, followed by intermediate goods (2%) and capital goods (0.9%). By contrast, consumer goods production declined by 1%. On a monthly basis, industrial production fell by 0.7%, reversing the 0.6% increase recorded in July. Durable consumer goods was the only sector to post positive monthly growth, at 1%, while energy recorded the sharpest decline, falling by 2%."
+    },
+    {
+      "id": "5128186",
+      "time": "2026-10-06 15:28:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩艘船隻在保加利亞黑海經濟區遭無人機襲擊。"
+    },
+    {
+      "id": "5128185",
+      "time": "2026-10-06 15:28:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國兩年期國債收益率下跌2個基點，至3.037%。"
+    },
+    {
+      "id": "5128184",
+      "time": "2026-10-06 15:28:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元區債券收益率下行，德國10年期國債收益率下跌6個基點，至3.431%。"
+    },
+    {
+      "id": "5128183",
+      "time": "2026-10-06 15:27:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利10年期國債收益率下跌10個基點，報4.555%。義大利兩年期國債收益率下行3個基點，報3.46%。"
+    },
     {
       "id": "5128182",
       "time": "2026-10-06 15:27:48",
@@ -93403,103 +93620,6 @@
         "Importance 1"
       ],
       "text": "The FTSE 100 Index Opens 0.52% Higher — The FTSE 100 Index is gaining 55 points or 0.52 percent on Tuesday. Leading the gains are GlaxoSmithKline (2.55%), AstraZeneca (2.11%) and Antofagasta (2.03%). Top losers are SSE (-1.99%), National Grid (-1.26%) and Vodafone (-1.18%)."
-    },
-    {
-      "id": "mkt:01a0ec13-6342-7338-ab06-b6fa772c7918",
-      "time": "2026-09-29 15:31:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 1.12% at 897.15 yuan/gram on Sept 29 (Tuesday); silver T+D closed down 2.09% at 14,801.0 yuan/kg."
-    },
-    {
-      "id": "te:markets:587537",
-      "time": "2026-09-29 15:31:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.26% Higher — The DAX Index is picking up 66 points or 0.26 percent on Tuesday. Gains are led by Infineon (2.00%), Siemens Healthineers (1.49%) and Siemens (1.24%). Biggest losers are Fresenius Medical Care (-1.93%), E.ON (-1.22%) and Bayer (-1.20%)."
-    },
-    {
-      "id": "te:markets:587536",
-      "time": "2026-09-29 15:31:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Siemens Stock Price Hits 4-week High — Siemens shares increased to 281.90 EUR, the highest since September 2026. Over the past 4 weeks, Siemens lost 1.47%, and in the last 12 months, it increased 22.77%."
-    },
-    {
-      "id": "mkt:01a0ec12-e695-7338-ab06-aaeb15b15829",
-      "time": "2026-09-29 15:30:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iraq military says US, coalition to complete withdrawal by Sept 30】Iraq Armed Forces spokesman Sabah Numan said on Sept 28 local time that US and coalition forces will complete their withdrawal from Iraq on Sept 30 as previously agreed. He said there are currently no foreign military bases in Iraq, security conditions are stable with Iraqi forces deployed nationwide, and security cooperation with partner countries will shift to bilateral arrangements once the coalition mission ends."
-    },
-    {
-      "id": "5118018",
-      "time": "2026-09-29 15:30:20",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊拉克軍方稱美軍及國際聯盟部隊將於9月30日完成撤離】當地時間9月28日晚，伊拉克武裝部隊總司令發言人薩巴赫·努曼表示，美軍及國際聯盟部隊將按照此前商定的時間表於9月30日完成從伊拉克撤離的程序。努曼同時表示，目前伊拉克境內已不存在外國軍事基地。當前伊拉克安全形勢良好，伊拉克安全部隊已部署在全國各地。隨著國際聯盟在伊任務結束，伊拉克與有關國家的安全合作將轉向新的雙邊夥伴關係。（央視新聞）"
-    },
-    {
-      "id": "te:markets:587535",
-      "time": "2026-09-29 15:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.03% Higher — The CAC 40 Index is up by 3 points or 0.03 percent on Tuesday. Top gainers are Legrand (6.19%), STMicroelectronics (2.45%) and Schneider Electric (2.29%). Biggest losses came from Vinci (-3.31%), Eurofins Scientific SE (-1.85%) and Bouygues (-1.60%)."
-    },
-    {
-      "id": "5118017",
-      "time": "2026-09-29 15:29:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【泰國2027財年公共債務計劃擬新增借款1.26萬億泰銖】泰國內閣已批准自10月1日起生效的2027財年公共債務管理計劃，計劃新增借款1.26萬億泰銖，資金主要用於彌補預算赤字。根據週二公佈的內閣檔案，該計劃中將動用1.92萬億泰銖對存量債務進行管理與重組，另有5806億泰銖用於債務償還。新增借款中包含7880億泰銖，用於覆蓋2027財年的財政赤字。預計公共債務佔國內生產總值比重維持在69.7%，低於泰國財政框架設定的70%上限。"
-    },
-    {
-      "id": "5118016",
-      "time": "2026-09-29 15:28:50",
-      "tags": [
-        "宏觀",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【韓國表示若收益率飆升，可動用緊急債券回購手段】韓國財政部長李炯一稱，如果債券收益率過度上行，韓國將立刻實施市場穩定措施，其中包括緊急回購國債。他在內閣會議上表示，受全球利率走高影響，韓國本土債券收益率持續上行。此番表態之前，韓國3年期國債收益率週一升至近四年高點。週二該收益率回落5個基點，報4.07%。10年期國債收益率在前一交易日上行約15個基點後，下跌8個基點至4.47%。受中東戰爭推高油價影響，作為能源進口國，韓國通脹擔憂升溫，全年多數時間國債承壓。與此同時，全球國債風向標美國國債收益率飆升至多年高位，交易員押注美聯儲在本月完成2023年以來首次加息後，或將再度加息。"
-    },
-    {
-      "id": "5118015",
-      "time": "2026-09-29 15:28:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴斯夫股份公司：路德維希港北區工廠蒸汽裂解裝置週二因技術故障出現執行中斷。"
     }
   ]
 }
