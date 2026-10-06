@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-07 04:25:19",
-  "count": 9668,
+  "updated": "2026-10-07 04:29:05",
+  "count": 9672,
   "items": [
+    {
+      "id": "5129154",
+      "time": "2026-10-07 04:28:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "富時指數：阿曼納入觀察名單，評估是否晉升為次級新興市場。"
+    },
+    {
+      "id": "mkt:01a112e6-fcec-7ee0-a7c5-475d4b82a728",
+      "time": "2026-10-07 04:28:10",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Trump said the Iranian oil minister resigned, saying \"I'm leaving because our country is finished.\""
+    },
+    {
+      "id": "5129153",
+      "time": "2026-10-07 04:27:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "富時羅素未將土耳其列入觀察名單。"
+    },
+    {
+      "id": "5129150",
+      "time": "2026-10-07 04:27:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "富時：印尼新興市場地位保持不變，未將印尼列入觀察名單。"
+    },
+    {
+      "id": "mkt:01a112e5-0ca2-7ee0-a7c5-3f8dd7aa7401",
+      "time": "2026-10-07 04:26:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said Iran's drone-manufacturing capability will soon cease to exist."
+    },
+    {
+      "id": "mkt:01a112e4-e7af-7ee0-a7c5-31118bc48dde",
+      "time": "2026-10-07 04:25:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the biggest problem with Iran is that no one knows who controls the country."
+    },
     {
       "id": "5129147",
       "time": "2026-10-07 04:24:51",
@@ -89003,22 +89059,6 @@
         "其他"
       ],
       "text": "加拿大總理卡尼宣佈，加拿大將追加投資12億加元，用於保護海洋生物並強化一線保護執法工作。"
-    },
-    {
-      "id": "5119493",
-      "time": "2026-09-30 04:27:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：以色列總理內塔尼亞胡此前訪問阿聯酋，意在勸說阿布扎比參與對葉門的戰事。"
-    },
-    {
-      "id": "5119489",
-      "time": "2026-09-30 04:26:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮會晤商定新名稱 馬斯克會後發言即時更正術語“超級智慧”】“我認為值得強調人工智慧帶來的正向效益……超級智慧，抱歉。”“謝謝。”馬斯克在特朗普與其他科技領袖一同出席的人工智慧會議會後接受採訪，原本稱這項技術為人工智慧，隨即發現口誤，迅速更正為“超級智慧”。本次會議已商定改用該名稱。"
     }
   ]
 }
