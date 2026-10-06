@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-06 22:49:06",
-  "count": 9840,
+  "updated": "2026-10-06 22:53:09",
+  "count": 9838,
   "items": [
+    {
+      "id": "mkt:01a111b0-717d-7ee0-a7bf-2f19c775cc7e",
+      "time": "2026-10-06 22:48:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "American Century Investments says cracks are emerging in the lower-tier credit market, most pronounced in CCC-rated corporate bonds."
+    },
+    {
+      "id": "5128879",
+      "time": "2026-10-06 22:48:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北約擬以無人機和AI應對“可能的俄羅斯襲擊”】彭博社5日披露了北約的一份非機密檔案，檔案顯示北約最高軍事指揮官正在制定一項名為“勝利理論”的戰略，旨在利用人工智慧等新興技術迅速擊退“俄羅斯可能對北約東翼發起的進攻”。報道稱，北約的這項戰略計劃由北約歐洲盟軍最高司令兼美軍歐洲司令部司令格林克維奇於10月12日在波蘭公佈。知情人士透露，檔案旨在闡明北約將如何應對可能遭遇的領土入侵，重點是把無人機和人工智慧等新技術與傳統軍力結合起來；同時向北約成員國展示增加國防開支背後的具體軍事需求。根據這份戰略構想，如果遭到襲擊，北約將首先動用東翼部署的陸軍、低成本無人機和最低限度的載人作業系統，以及人工智慧輔助目標鎖定等技術，阻止對方推進。取得行動自由後，北約將尋求進一步打擊對方的指揮與控制系統，目標是迅速並壓倒性地擊敗進攻部隊。 (央視新聞)"
+    },
+    {
+      "id": "5128878",
+      "time": "2026-10-06 22:48:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "KRAKEN：正在調查導致ETH和ERC20代幣提現延遲的問題。"
+    },
     {
       "id": "5128877",
       "time": "2026-10-06 22:47:33",
@@ -90735,53 +90764,6 @@
         "其他"
       ],
       "text": "埃尼將向部分客戶提供電力和天然氣30%的折扣。"
-    },
-    {
-      "id": "5119090",
-      "time": "2026-09-29 22:53:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦可可期貨<LCCC1>下跌4.5%，至每噸3,990英鎊。"
-    },
-    {
-      "id": "5119089",
-      "time": "2026-09-29 22:52:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮披露America.gov行政命令。"
-    },
-    {
-      "id": "5119088",
-      "time": "2026-09-29 22:52:40",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【深圳市政協七屆二十八次常委會會議舉行專題協商 加快建設人工智慧和“人工智慧+”產業高地】9月29日，深圳市政協召開七屆二十八次常委會會議，傳達學習貫徹習近平總書記關於人工智慧的重要論述，傳達學習省委政協工作會議精神，圍繞加快推進人工智慧產業高質量發展和全域全時全行業高水平應用進行專題協商。市委書記靳磊出席會議並講話，市政協主席林潔主持。靳磊指出，人工智慧是新一輪科技革命和產業變革的重要驅動力量，要從“國之大者”、城市未來的高度來認識、謀劃、推動人工智慧發展，準確把握當前人工智慧發展的整體態勢，用足用好深圳產業鏈條完備、新型機電一體化、場景應用廣泛、深港協同緊密等優勢，堅持搶位發展、錯位發展，努力在核心技術上領跑爭先，在基礎設施上夯實支撐，在應用場景上系統整合，在產業生態上強化保障，不斷做強做優做大智慧經濟，加快建設人工智慧和“人工智慧+”產業高地。（深圳釋出）"
-    },
-    {
-      "id": "mkt:01a0eda6-a69d-7338-ab13-b7eedb32c82d",
-      "time": "2026-09-29 22:51:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【US consumer confidence falls to lowest in over 12 years】US consumer confidence plunged in September, down 6.7 points to 81.9 — the weakest reading since 2014 and below the 89.2 forecast, the Conference Board said on Tuesday. Households are more pessimistic about business conditions and the labor market over the next six months; assessment of current business conditions turned negative for the first time since September 2024, while views of the current labor market worsened but remained in positive territory, Conference Board chief economist Dana Peterson said."
-    },
-    {
-      "id": "5119087",
-      "time": "2026-09-29 22:50:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "ICE紐約可可期貨下跌近5%，至每公噸5327美元。"
     }
   ]
 }
