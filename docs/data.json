@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-07 03:36:01",
-  "count": 9766,
+  "updated": "2026-10-07 03:39:49",
+  "count": 9754,
   "items": [
+    {
+      "id": "5129110",
+      "time": "2026-10-07 03:38:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普不計劃就廣告費用向納稅人退款。"
+    },
     {
       "id": "te:economy:589940",
       "time": "2026-10-07 03:34:20",
@@ -89823,117 +89831,6 @@
         "國際"
       ],
       "text": "美國眾議院議長約翰遜：我們能夠以安全方式保持競爭優勢。"
-    },
-    {
-      "id": "mkt:01a0eead-ec59-7338-ab1b-b788a053d82a",
-      "time": "2026-09-30 03:39:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US House Speaker Johnson: We can maintain our advantage safely."
-    },
-    {
-      "id": "mkt:01a0eead-bc8e-7338-ab1b-ad01560f2a30",
-      "time": "2026-09-30 03:39:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. House Speaker Johnson said he will continue to assess and review over the next few days."
-    },
-    {
-      "id": "5119380",
-      "time": "2026-09-30 03:39:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：人工智慧行業的承諾是自願的。"
-    },
-    {
-      "id": "mkt:01a0eead-9117-7338-ab1b-a3bb07119fe3",
-      "time": "2026-09-30 03:39:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. House Speaker Johnson said lawmakers have just signed an agreement on artificial intelligence, describing it as a statement on standards."
-    },
-    {
-      "id": "5119379",
-      "time": "2026-09-30 03:38:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：安全與創新並非相互排斥。"
-    },
-    {
-      "id": "5119378",
-      "time": "2026-09-30 03:38:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊拉克擬於10月恢復納傑夫往返伊朗航班】伊拉克交通部29日發表宣告說，伊拉克航空公司已獲得特別豁免，計劃於10月恢復從伊拉克納傑夫國際機場往返伊朗的航班。 宣告說，伊拉克航空公司目前正進行復航準備，在滿足必要的組織與技術要求後，復航航班將從納傑夫國際機場起飛。（新華社）"
-    },
-    {
-      "id": "5119377",
-      "time": "2026-09-30 03:38:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：我們簽署了白宮人工智慧協議。"
-    },
-    {
-      "id": "mkt:01a0eeac-a6eb-7338-ab1b-9ac3b0ba64d9",
-      "time": "2026-09-30 03:38:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. House Speaker Johnson says AI providers are committed to building trust."
-    },
-    {
-      "id": "mkt:01a0eeac-6a9c-7338-ab1b-9125440e3b8b",
-      "time": "2026-09-30 03:37:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. House Speaker Johnson said he discussed the issue of ensuring safety at artificial intelligence companies."
-    },
-    {
-      "id": "mkt:01a0eeac-5cb8-7338-ab1b-8b4d9d7cf5d6",
-      "time": "2026-09-30 03:37:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "U.S. House Speaker Johnson said at a meeting with AI leaders they discussed finding the right balance."
-    },
-    {
-      "id": "5119376",
-      "time": "2026-09-30 03:36:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：必須在人工智慧問題上找到合適的平衡點。"
-    },
-    {
-      "id": "5119375",
-      "time": "2026-09-30 03:36:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：會面是非常重要的第一步。"
-    },
-    {
-      "id": "5119374",
-      "time": "2026-09-30 03:36:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜：與會各方達成了高度共識。"
     }
   ]
 }
