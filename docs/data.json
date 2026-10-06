@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-07 03:43:40",
-  "count": 9747,
+  "updated": "2026-10-07 03:47:25",
+  "count": 9733,
   "items": [
+    {
+      "id": "5129112",
+      "time": "2026-10-07 03:46:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Vgain Compute釋出Vgain Compute AI Token平臺。支援Kimi、千問、GPT、Meta LLAMA模型。"
+    },
     {
       "id": "5129111",
       "time": "2026-10-07 03:41:30",
@@ -89641,135 +89649,6 @@
         "其他"
       ],
       "text": "OpenAI首席財務官：OpenAI的資金“非常充裕”。"
-    },
-    {
-      "id": "5119397",
-      "time": "2026-09-30 03:47:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：如果人工智慧模型被用於作惡，我們將予以查處。"
-    },
-    {
-      "id": "mkt:01a0eeb4-cd08-7338-ab1b-eb0d25db3a66",
-      "time": "2026-09-30 03:47:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump, on AI regulation, said the US has agencies including the FBI, CIA and DOJ."
-    },
-    {
-      "id": "5119396",
-      "time": "2026-09-30 03:46:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI首席財務官：市場存在對新一輪融資的需求。"
-    },
-    {
-      "id": "mkt:01a0eeb4-5cc2-7338-ab1b-e3ace89e93aa",
-      "time": "2026-09-30 03:46:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "U.S. President Trump said the U.S. will take action against AI models that are not used for legitimate purposes."
-    },
-    {
-      "id": "5119395",
-      "time": "2026-09-30 03:45:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我相信人工智慧模型會被用在好的方面。"
-    },
-    {
-      "id": "mkt:01a0eeb3-b834-7338-ab1b-df22261f3fd6",
-      "time": "2026-09-30 03:45:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI CFO: enterprise business revenue has doubled compared with July."
-    },
-    {
-      "id": "5119394",
-      "time": "2026-09-30 03:45:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：正在考慮成立一個由10人組成的委員會來監督人工智慧。"
-    },
-    {
-      "id": "5119393",
-      "time": "2026-09-30 03:44:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及人工智慧監管：重申美國擁有聯邦調查局、中央情報局與司法部。"
-    },
-    {
-      "id": "mkt:01a0eeb2-d530-7338-ab1b-d573f346a468",
-      "time": "2026-09-30 03:44:52",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Trump said he believes the AI industry is exercising very strong self-regulation and that industry leaders recognize this."
-    },
-    {
-      "id": "mkt:01a0eeb2-c756-7338-ab1b-ca5b8474b9d0",
-      "time": "2026-09-30 03:44:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP said he is considering forming a C.BANK to provide oversight."
-    },
-    {
-      "id": "5119392",
-      "time": "2026-09-30 03:44:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們正在考慮成立一個（人工智慧）監督委員會。"
-    },
-    {
-      "id": "5119391",
-      "time": "2026-09-30 03:44:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：人工智慧公司知道它們需要自我監管。"
-    },
-    {
-      "id": "5119390",
-      "time": "2026-09-30 03:44:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我相信人工智慧模型將被用於造福人類。"
-    },
-    {
-      "id": "5119389",
-      "time": "2026-09-30 03:44:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我看到人工智慧領域出現了強大的自我監管機制。"
-    },
-    {
-      "id": "5119388",
-      "time": "2026-09-30 03:43:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI首席財務官：企業業務板塊的收入自7月以來翻了一番。"
     }
   ]
 }
