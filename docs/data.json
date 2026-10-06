@@ -1,7 +1,66 @@
 {
-  "updated": "2026-10-06 15:36:09",
-  "count": 10142,
+  "updated": "2026-10-06 15:40:14",
+  "count": 10139,
   "items": [
+    {
+      "id": "mkt:01a11026-32da-7ee0-a7b3-347c5a07c792",
+      "time": "2026-10-06 15:38:21",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Ueda gives no clear signal; markets still price no BOJ hike in October】Bank of Japan Governor Ueda said the BOJ will gradually raise policy rates and adjust monetary easing based on developments in economic activity, prices and financial conditions, and will decide timing and pace only after assessing risks and the likelihood that baseline economic and price scenarios are realised. Economists largely expect the BOJ to keep policy unchanged at its Oct. 30 meeting; Ueda reiterated the bank’s stance, signaling no push to counter that market view while leaving room for hikes after October. OIS pricing implies roughly a 12% chance of a rate increase at the Oct. meeting and about a 90% chance when the December meeting is included."
+    },
+    {
+      "id": "te:economy:589805",
+      "time": "2026-10-06 15:38:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "Eurozone Construction Activity Remains Weak — The S&P Global Eurozone Construction PMI rose slightly to 43.4 in September 2026 from 43.0 in August, but remained below the 50.0 threshold, signaling a marked contraction in construction activity. The downturn remained broad-based across France, Germany and Italy, with France recording the steepest contraction, Germany seeing a much sharper decline and Italy the slowest fall. Residential construction saw the sharpest contraction and its fastest decline since February 2025, led by Germany. Meanwhile, new orders continued to fall, extending the downturn in demand to four-and-a-half years, although the pace eased from August. Employment declined for an eighth consecutive month, while purchasing activity also fell sharply. Input price inflation accelerated for the first time since April, with cost pressures strongest in Italy and Germany. Looking ahead, business sentiment remained pessimistic, with expectations at their weakest since April amid weak demand, rising costs and tight budgets."
+    },
+    {
+      "id": "5128203",
+      "time": "2026-10-06 15:37:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【原中國電信員工實名舉報多名高管，官方回應：已進行過內部專項核查，言論與事實不符】針對原中國電信員工實名舉報多名高管一事，中國電信釋出宣告稱，已於2024年進行過內部專項核查，其言論與事實不符。針對此事，中國電信大客戶事業部今日釋出宣告稱，鄭季衍原為部門員工，自2023年起無正當理由曠工635天，期間多次勸說無效。依據《中華人民共和國勞動合同法》及公司規章制度，於2026年8月31日依法解除與鄭季衍的勞動關係。“我們在專案合作中一直以來嚴格執行規章制度，鄭季衍所提及專案已於2024年進行過內部專項核查，其言論與事實不符。”（新浪科技）"
+    },
+    {
+      "id": "5128202",
+      "time": "2026-10-06 15:37:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將歐萊雅目標股價從430歐元上調至440歐元。"
+    },
+    {
+      "id": "te:markets:589804",
+      "time": "2026-10-06 15:36:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Dollar Hits 13-month Low — The Hong Kong Dollar touched 7.85 against the USD, the lowest since August 2025. Over the past 4 weeks, US Dollar Hong Kong Dollar gained 0.1%, and in the last 12 months, it increased 0.83%."
+    },
+    {
+      "id": "5128201",
+      "time": "2026-10-06 15:36:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為徐直軍：Peerium架構與靈衢匯流排 讓百萬顆處理器成為一臺計算機】在上海舉行的華為全聯接（HC）大會期間，華為輪值董事長徐直軍與海思首席科學家廖恆，就華為新發布的AI時代的Peerium計算架構和靈衢匯流排（UnifiedBus），與媒體記者進行了問答交流。 今年HC大會期間，華為展出了昇騰950和Atlas 950超節點。徐直軍表示，“超節點”如今被廣泛提及，但不同廠商實現差異很大，真正的挑戰在於讓數千、數萬顆處理器組成一臺計算機。華為將這一全新計算架構命名為Peerium，它能讓百萬顆處理器成為一臺計算機。目前，華為正部署和測試25.6萬張卡規模的Atlas 950 SuperPoD超節點。 廖恆認為，未來兩年內，預計中國將出現約6至7個前沿AI實驗室，目標都是訓練引數規模在10萬億到40萬億之間的基礎語言模型。這些數字與超節點的記憶體容量和規模大致匹配，因此需要如此規模的基礎設施來做訓練。（科創板日報）"
+    },
     {
       "id": "5128200",
       "time": "2026-10-06 15:34:18",
@@ -93406,83 +93465,6 @@
         "公司"
       ],
       "text": "【緯德資訊：籌劃重大資產重組進展暨簽署補充協議】緯德資訊公告稱，公司控股子公司雙洲科技籌劃以現金方式收購廈門海晟融創資訊科技有限公司51%股權，預計構成重大資產重組，不涉及發行股份，不會導致公司控制權變更。目前各方正推進盡職調查、審計評估等工作，公司、雙洲科技與標的公司及股東簽署補充協議，調整收購方案、將協議有效期延長至2027年1月31日，約定力爭該日前完成交割。本次交易尚處籌劃階段，未簽署正式協議，尚需履行內部決策程式，存在不確定性。"
-    },
-    {
-      "id": "5118052",
-      "time": "2026-09-29 15:39:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東睦股份：定增網下申購資金已到賬5.15億元】東睦股份公告稱，公司向特定物件發行股份募集配套資金，本次發行股份2099.44萬股，每股發行價24.51元，發行物件共13名，均以現金認購。截至2026年9月18日17時，本次發行網下申購資金合計5.15億元已足額繳存至主承銷商指定賬戶，該事項已經天健會計師事務所（特殊普通合夥）驗證並出具驗資報告。"
-    },
-    {
-      "id": "5118051",
-      "time": "2026-09-29 15:39:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國警方：在針對有組織犯罪集團的大型聯合行動中逮捕17人。"
-    },
-    {
-      "id": "5118050",
-      "time": "2026-09-29 15:39:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞安航空執行長奧萊利：航空旅行需求非常強勁，這得益於航空公司一直維持低價票價，但在當前油價水平下，這種情況無法持續。"
-    },
-    {
-      "id": "5118049",
-      "time": "2026-09-29 15:39:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【先導芯光光電晶片基地在光谷通線，總投資120億元】據中國光谷公眾號訊息，9月28日，先導科技集團旗下先導芯光電子科技（武漢）有限公司（簡稱“先導芯光”）晶圓廠在東湖綜保區通線。該廠是先導科技集團投資120億元建設的高階化合物半導體材料及晶片產業化基地的製造核心，建有磷化銦4/6英寸與砷化鎵6/8英寸雙材料大尺寸光電晶片平臺。通線後，基地由建設期轉入工藝認證與產品匯入階段。"
-    },
-    {
-      "id": "5118048",
-      "time": "2026-09-29 15:39:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫透過官方媒體表示：若伊朗無法出售石油，中東地區沒有任何一方能夠售出石油；若伊朗得不到安全，該地區沒有任何基礎設施能安然無恙。"
-    },
-    {
-      "id": "te:markets:587544",
-      "time": "2026-09-29 15:38:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Trades Higher — The FTSE 100 traded around 0.5% higher on Tuesday, supported by gains in healthcare and mining stocks. AstraZeneca and GSK both advanced more than 2%, while Antofagasta, Anglo American, Glencore, Fresnillo and Rio Tinto rose between 1.4% and 2%. Energy stocks lagged slightly, with Shell and BP underperforming as Brent crude remained higher on the day but below Monday’s peak. Utilities also weighed on the index, with National Grid falling 1.4%. In economic data, UK shop-price inflation eased in September, suggesting retailers continued to absorb some of the pressure from higher costs rather than passing it fully on to consumers. According to the British Retail Consortium, shop prices increased 1.4% year-on-year, down from 1.5% in August."
-    },
-    {
-      "id": "5118045",
-      "time": "2026-09-29 15:37:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "RHI發出收購要約後，維蘇威股價一度上漲7.4%，隨後停牌。"
-    },
-    {
-      "id": "5118044",
-      "time": "2026-09-29 15:37:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST天宜：披露風險警示相關事項整改進展】*ST天宜公告稱，因2025年度財務報告被出具無法表示意見的審計報告、財務報告內部控制被出具否定意見的審計報告，公司股票自2026年5月6日起被實施退市風險警示併疊加其他風險警示。截至公告披露日，公司針對未按規定使用票據及資金、融資管理不規範、存貨管理等內控缺陷推進整改，已釋出《融資管理制度》《封庫管理制度》《天宜上佳內控手冊-2026》等制度，開展相關培訓與審計監督，存貨盤點等整改事項已取得階段性進展。若公司未滿足撤銷退市風險警示條件，股票可能被終止上市。"
-    },
-    {
-      "id": "5118043",
-      "time": "2026-09-29 15:36:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：大普微已秘密遞交港股上市申請，本次募資規模至少10億美元。"
     }
   ]
 }

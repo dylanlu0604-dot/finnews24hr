@@ -1,7 +1,66 @@
 {
   "date": "2026-10-06",
-  "count": 977,
+  "count": 983,
   "items": [
+    {
+      "id": "mkt:01a11026-32da-7ee0-a7b3-347c5a07c792",
+      "time": "2026-10-06 15:38:21",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Ueda gives no clear signal; markets still price no BOJ hike in October】Bank of Japan Governor Ueda said the BOJ will gradually raise policy rates and adjust monetary easing based on developments in economic activity, prices and financial conditions, and will decide timing and pace only after assessing risks and the likelihood that baseline economic and price scenarios are realised. Economists largely expect the BOJ to keep policy unchanged at its Oct. 30 meeting; Ueda reiterated the bank’s stance, signaling no push to counter that market view while leaving room for hikes after October. OIS pricing implies roughly a 12% chance of a rate increase at the Oct. meeting and about a 90% chance when the December meeting is included."
+    },
+    {
+      "id": "te:economy:589805",
+      "time": "2026-10-06 15:38:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "Eurozone Construction Activity Remains Weak — The S&P Global Eurozone Construction PMI rose slightly to 43.4 in September 2026 from 43.0 in August, but remained below the 50.0 threshold, signaling a marked contraction in construction activity. The downturn remained broad-based across France, Germany and Italy, with France recording the steepest contraction, Germany seeing a much sharper decline and Italy the slowest fall. Residential construction saw the sharpest contraction and its fastest decline since February 2025, led by Germany. Meanwhile, new orders continued to fall, extending the downturn in demand to four-and-a-half years, although the pace eased from August. Employment declined for an eighth consecutive month, while purchasing activity also fell sharply. Input price inflation accelerated for the first time since April, with cost pressures strongest in Italy and Germany. Looking ahead, business sentiment remained pessimistic, with expectations at their weakest since April amid weak demand, rising costs and tight budgets."
+    },
+    {
+      "id": "5128203",
+      "time": "2026-10-06 15:37:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【原中國電信員工實名舉報多名高管，官方回應：已進行過內部專項核查，言論與事實不符】針對原中國電信員工實名舉報多名高管一事，中國電信釋出宣告稱，已於2024年進行過內部專項核查，其言論與事實不符。針對此事，中國電信大客戶事業部今日釋出宣告稱，鄭季衍原為部門員工，自2023年起無正當理由曠工635天，期間多次勸說無效。依據《中華人民共和國勞動合同法》及公司規章制度，於2026年8月31日依法解除與鄭季衍的勞動關係。“我們在專案合作中一直以來嚴格執行規章制度，鄭季衍所提及專案已於2024年進行過內部專項核查，其言論與事實不符。”（新浪科技）"
+    },
+    {
+      "id": "5128202",
+      "time": "2026-10-06 15:37:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將歐萊雅目標股價從430歐元上調至440歐元。"
+    },
+    {
+      "id": "te:markets:589804",
+      "time": "2026-10-06 15:36:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Dollar Hits 13-month Low — The Hong Kong Dollar touched 7.85 against the USD, the lowest since August 2025. Over the past 4 weeks, US Dollar Hong Kong Dollar gained 0.1%, and in the last 12 months, it increased 0.83%."
+    },
+    {
+      "id": "5128201",
+      "time": "2026-10-06 15:36:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為徐直軍：Peerium架構與靈衢匯流排 讓百萬顆處理器成為一臺計算機】在上海舉行的華為全聯接（HC）大會期間，華為輪值董事長徐直軍與海思首席科學家廖恆，就華為新發布的AI時代的Peerium計算架構和靈衢匯流排（UnifiedBus），與媒體記者進行了問答交流。 今年HC大會期間，華為展出了昇騰950和Atlas 950超節點。徐直軍表示，“超節點”如今被廣泛提及，但不同廠商實現差異很大，真正的挑戰在於讓數千、數萬顆處理器組成一臺計算機。華為將這一全新計算架構命名為Peerium，它能讓百萬顆處理器成為一臺計算機。目前，華為正部署和測試25.6萬張卡規模的Atlas 950 SuperPoD超節點。 廖恆認為，未來兩年內，預計中國將出現約6至7個前沿AI實驗室，目標都是訓練引數規模在10萬億到40萬億之間的基礎語言模型。這些數字與超節點的記憶體容量和規模大致匹配，因此需要如此規模的基礎設施來做訓練。（科創板日報）"
+    },
     {
       "id": "5128200",
       "time": "2026-10-06 15:34:18",
