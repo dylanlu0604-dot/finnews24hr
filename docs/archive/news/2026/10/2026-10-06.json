@@ -1,7 +1,69 @@
 {
   "date": "2026-10-06",
-  "count": 1494,
+  "count": 1501,
   "items": [
+    {
+      "id": "mkt:01a111ab-f134-7ee0-a7be-ea87142c15f9",
+      "time": "2026-10-06 22:44:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Democratic Senator Warren cited Commerce Secretary Lutnick's view on AI's potential impact on Trump's policy."
+    },
+    {
+      "id": "te:economy:589911",
+      "time": "2026-10-06 22:43:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "World",
+        "Supply Chain Pressure Index",
+        "Importance 1"
+      ],
+      "text": "Global Supply Chain Pressures Rise in September — The Global Supply Chain Pressure Index rose to 1.28 in September 2026, from an upwardly revised 1.20 in August, indicating a modest increase in supply chain pressures last month. Despite the rise, pressures remain well below their most recent peak of 1.81 in May and are far from the 4.43 reading recorded in December 2021, when widespread disruptions from the COVID-19 pandemic severely strained global supply chains. Elevated supply chain pressures can contribute to higher inflation by increasing costs and limiting the availability of goods. The latest increase comes as the Federal Reserve raised its interest-rate target last month and signaled another hike by year-end, as policymakers seek to bring inflationary pressures back toward the Fed’s target."
+    },
+    {
+      "id": "5128868",
+      "time": "2026-10-06 22:43:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫還致信盧特尼克，探討人工智慧對特朗普政策的影響。"
+    },
+    {
+      "id": "5128866",
+      "time": "2026-10-06 22:43:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Snowflake針對ASOS遭駭客入侵指控的調查正在進行中。"
+    },
+    {
+      "id": "5128865",
+      "time": "2026-10-06 22:42:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Snowflake：未發現其平臺遭到入侵。"
+    },
+    {
+      "id": "mkt:01a111aa-9d23-7ee0-a7be-e6f33603169f",
+      "time": "2026-10-06 22:42:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Democratic Sen. Warren wrote to Treasury Secretary Bessent about the impact of artificial intelligence on Trump administration policy."
+    },
+    {
+      "id": "5128864",
+      "time": "2026-10-06 22:42:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫致信貝森特，探討人工智慧對特朗普政策的影響。"
+    },
     {
       "id": "mkt:01a111a8-9b84-7ee0-a7be-dd9d142fec72",
       "time": "2026-10-06 22:40:24",

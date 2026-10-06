@@ -1,7 +1,69 @@
 {
-  "updated": "2026-10-06 22:41:09",
-  "count": 9834,
+  "updated": "2026-10-06 22:45:12",
+  "count": 9831,
   "items": [
+    {
+      "id": "mkt:01a111ab-f134-7ee0-a7be-ea87142c15f9",
+      "time": "2026-10-06 22:44:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Democratic Senator Warren cited Commerce Secretary Lutnick's view on AI's potential impact on Trump's policy."
+    },
+    {
+      "id": "te:economy:589911",
+      "time": "2026-10-06 22:43:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "World",
+        "Supply Chain Pressure Index",
+        "Importance 1"
+      ],
+      "text": "Global Supply Chain Pressures Rise in September — The Global Supply Chain Pressure Index rose to 1.28 in September 2026, from an upwardly revised 1.20 in August, indicating a modest increase in supply chain pressures last month. Despite the rise, pressures remain well below their most recent peak of 1.81 in May and are far from the 4.43 reading recorded in December 2021, when widespread disruptions from the COVID-19 pandemic severely strained global supply chains. Elevated supply chain pressures can contribute to higher inflation by increasing costs and limiting the availability of goods. The latest increase comes as the Federal Reserve raised its interest-rate target last month and signaled another hike by year-end, as policymakers seek to bring inflationary pressures back toward the Fed’s target."
+    },
+    {
+      "id": "5128868",
+      "time": "2026-10-06 22:43:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫還致信盧特尼克，探討人工智慧對特朗普政策的影響。"
+    },
+    {
+      "id": "5128866",
+      "time": "2026-10-06 22:43:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "Snowflake針對ASOS遭駭客入侵指控的調查正在進行中。"
+    },
+    {
+      "id": "5128865",
+      "time": "2026-10-06 22:42:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Snowflake：未發現其平臺遭到入侵。"
+    },
+    {
+      "id": "mkt:01a111aa-9d23-7ee0-a7be-e6f33603169f",
+      "time": "2026-10-06 22:42:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Democratic Sen. Warren wrote to Treasury Secretary Bessent about the impact of artificial intelligence on Trump administration policy."
+    },
+    {
+      "id": "5128864",
+      "time": "2026-10-06 22:42:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫致信貝森特，探討人工智慧對特朗普政策的影響。"
+    },
     {
       "id": "mkt:01a111a8-9b84-7ee0-a7be-dd9d142fec72",
       "time": "2026-10-06 22:40:24",
@@ -90616,100 +90678,6 @@
         "國際"
       ],
       "text": "美國總統特朗普：在未來的歲月裡，當人們書寫我們國家的歷史時，會把針對伊朗的行動列為我們所做過的最重要的事情之一。"
-    },
-    {
-      "id": "mkt:01a0eda0-35bb-7338-ab13-a6cf2cfe5ab7",
-      "time": "2026-09-29 22:44:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "President Trump said future histories will rank actions against Iran among the most important measures the United States has taken."
-    },
-    {
-      "id": "5119081",
-      "time": "2026-09-29 22:44:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "9月29日，印度國內基金淨買入695億印度盧比印度股票。"
-    },
-    {
-      "id": "te:economy:587772",
-      "time": "2026-09-29 22:44:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Dallas Fed Services Index",
-        "Importance 1"
-      ],
-      "text": "Dallas Fed Business Activity Contracts — The general business activity index for the service sector published by the Federal Reserve Bank of Dallas fell to -1.8 in September 2026, entering negative territory for the first time since May, down from 4.2 in the previous month as perceptions of broader business conditions deteriorated. The uncertainty outlook increased to 21.4, well above its series average, while input price pressures rose to their highest level since December 2022. Selling price pressures also increased. The revenue index, a key measure of conditions in the state’s service sector, fell eight points to -0.9, with the near-zero reading indicating little change in activity from the previous month. Looking ahead, firms remained optimistic about business activity, as the general business conditions index for companies remained positive, although declining to 10.7 from 18.6."
-    },
-    {
-      "id": "5119080",
-      "time": "2026-09-29 22:44:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "9月29日，全球基金淨賣出998億印度盧比的印度股票。"
-    },
-    {
-      "id": "5119079",
-      "time": "2026-09-29 22:43:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望保持AI領先地位。"
-    },
-    {
-      "id": "mkt:01a0ed9e-2a3c-7338-ab13-9f249c2e7c9d",
-      "time": "2026-09-29 22:42:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said not to succumb to fear about technology's potential impact on us."
-    },
-    {
-      "id": "mkt:01a0ed9e-0865-7338-ab13-92dee8b73b71",
-      "time": "2026-09-29 22:42:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump praised technology's contribution to the healthcare sector."
-    },
-    {
-      "id": "5119078",
-      "time": "2026-09-29 22:42:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普讚揚了科技在醫療領域的作用。"
-    },
-    {
-      "id": "5119077",
-      "time": "2026-09-29 22:42:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不要因為科技將給美國帶來什麼後果而屈服於恐懼。"
-    },
-    {
-      "id": "te:markets:587771",
-      "time": "2026-09-29 22:41:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Berkshire Hathaway Stock Price Hits 4-week Low — Berkshire Hathaway shares decreased to 500.70 USD, the lowest since August 2026. Over the past 4 weeks, Berkshire Hathaway lost 0.65%, and in the last 12 months, it decreased 0.4%."
     }
   ]
 }
