@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-07 07:45:09",
-  "count": 9621,
+  "updated": "2026-10-07 07:49:00",
+  "count": 9618,
   "items": [
+    {
+      "id": "5129248",
+      "time": "2026-10-07 07:47:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.1點。"
+    },
+    {
+      "id": "5129247",
+      "time": "2026-10-07 07:46:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤上漲0.07%。"
+    },
+    {
+      "id": "te:markets:589970",
+      "time": "2026-10-07 07:46:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Steady After Tech-Led Rally — US stock futures were little changed on Wednesday after the major averages reached fresh record highs in the previous session, supported by a strong rally in technology stocks. During regular trading on Tuesday, the S&P 500 and Nasdaq Composite advanced 0.58% and 0.45%, respectively, with both indexes closing at record levels. The Dow also climbed 0.49%. Chipmakers were among the strongest performers, led by AMD (2.8%), Marvell Technology (5.8%) and Broadcom (3.7%). Sentiment was further supported as the rise in bond yields paused, easing pressure on the tech sector’s credit outlook. Meanwhile, oil prices recovered as ongoing risks to Middle East energy flows outweighed signs of improving regional supply. Investors now await minutes from the Federal Reserve’s latest meeting for further clues on the outlook for monetary policy."
+    },
+    {
+      "id": "5129246",
+      "time": "2026-10-07 07:46:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "派拉蒙執行長表示，長期計劃是將派拉蒙+與HBO Max合併，並補充說，他不想讓公司政治化。"
+    },
+    {
+      "id": "mkt:01a1139b-b07c-7ee0-a7c7-17f1063cdfa6",
+      "time": "2026-10-07 07:45:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI will publish a set of new mathematical results produced by its internal cutting‑edge models. It says it has consulted and remained in contact with the Institute for Advanced Study, Princeton’s independent advisory panel on mathematics and AI, and used that panel’s input and public recommendations as the basis for the release."
+    },
     {
       "id": "5129245",
       "time": "2026-10-07 07:43:25",
@@ -88567,73 +88615,6 @@
         "國際"
       ],
       "text": "日本電產：確實正在考慮出售全資子公司NIDEC COMPONENTS，但目前尚未做出任何決定。"
-    },
-    {
-      "id": "5119636",
-      "time": "2026-09-30 07:48:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江波龍：儲存產業供需關係仍將維持偏緊態勢】就如何看待儲存價格未來變化趨勢，9月29日，江波龍在最新披露的投資者關係活動記錄表中表示，結合第三方機構公佈的資訊來看，AI在雲端和端側落地，是較為明確的產業趨勢，並將帶來巨大的儲存需求增量；受過往週期影響，海外原廠仍維持相對審慎的NAND資本開支計劃，更多透過技術升級實現相對溫和的NAND供給增長，因此儲存產業供需關係仍將維持偏緊態勢。"
-    },
-    {
-      "id": "5119635",
-      "time": "2026-09-30 07:48:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Anthropic上市檔案披露對亞馬遜、谷歌依賴加深，2025年營收近46億美元】9月30日訊息，據報道，人工智慧公司Anthropic提交的首次公開募股（IPO）檔案顯示，公司業務高度依賴少數科技巨頭及客戶。2025年，Anthropic透過亞馬遜和谷歌雲平臺實現的銷售額約為21.6億美元，佔全年營收的47%。檔案顯示，Anthropic 2025年營收增長至約46億美元，是上一年的12倍，其中約38億美元來自使用者根據Claude AI模型使用量付費的消費型收入，訂閱收入為7.89億美元。同期公司運營虧損超過80億美元，較此前擴大一倍以上。"
-    },
-    {
-      "id": "5119634",
-      "time": "2026-09-30 07:48:00",
-      "tags": [
-        "宏觀",
-        "觀點"
-      ],
-      "text": "【華泰證券：銀行紅利配置邏輯延續】華泰證券指出，9月29日，人民銀行調整完善貨幣政策工具，涉及PSL、科技創新和技術改造再貸款、支農支小再貸款等；財政部等部門出臺居民購房貸款貼息政策，對符合條件的首套商業性個人住房貸款給予財政貼息。兩組政策協同落地。在信貸增長由規模擴張轉向提質增效的背景下，本輪政策突出結構最佳化導向，加大對重大專案、科技創新、小微民營及剛性住房需求等領域的支援。預計銀行信貸增速中樞仍將逐步放緩，政策轉向最佳化信貸結構、改善重點領域融資需求。銀行紅利配置邏輯延續。"
-    },
-    {
-      "id": "mkt:01a0ef90-7a00-7338-ab1e-f0d971d6bc4e",
-      "time": "2026-09-30 07:46:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said the office will consider tariff caps in trade agreements when setting tariffs in Section 301 overcapacity investigations."
-    },
-    {
-      "id": "5119633",
-      "time": "2026-09-30 07:46:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤上漲0.04點。"
-    },
-    {
-      "id": "5119632",
-      "time": "2026-09-30 07:46:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數期貨早盤上漲0.9%。"
-    },
-    {
-      "id": "5119631",
-      "time": "2026-09-30 07:46:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德國總理默茨稱莫斯科對結束俄烏戰爭的談判“完全沒有興趣”】德國總理默茨表示，德俄外長的會談顯示，克里姆林宮無意結束在烏克蘭的戰爭。德國外長瓦德富爾上週六在聯合國大會期間與俄羅斯外長拉夫羅夫會面。拉夫羅夫隨後淡化了這次臨時安排、持續20分鐘的會晤。默茨週二在柏林與哈薩克總統託卡耶夫會晤後對記者表示，俄羅斯對此次會談的回應表明，莫斯科顯然完全無意進行認真談判，德國將把重心轉向支援烏克蘭抵禦俄羅斯。"
-    },
-    {
-      "id": "5119630",
-      "time": "2026-09-30 07:45:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾表示，在根據301條款進行產能過剩調查並確定任何關稅時，將考慮貿易協議中的關稅上限。"
     }
   ]
 }
