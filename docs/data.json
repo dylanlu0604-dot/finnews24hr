@@ -1,7 +1,159 @@
 {
-  "updated": "2026-10-06 15:05:24",
-  "count": 10132,
+  "updated": "2026-10-06 15:09:13",
+  "count": 10131,
   "items": [
+    {
+      "id": "mkt:01a1100a-e3e0-7ee0-a7b2-263e6d83e35e",
+      "time": "2026-10-06 15:08:31",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "French finance minister: EUR/USD around 1.10 does not appear undervalued; euro weakness gives exporters breathing room."
+    },
+    {
+      "id": "mkt:01a1100a-a5c1-7ee0-a7b2-19f42a8a3796",
+      "time": "2026-10-06 15:08:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ECB chief economist Lane said he does see AI supporting the economy."
+    },
+    {
+      "id": "mkt:01a1100a-95a2-7ee0-a7b2-126a16a93fa1",
+      "time": "2026-10-06 15:08:11",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB chief economist Lane said fiscal support in 2027-28 will differ from 2026."
+    },
+    {
+      "id": "te:markets:589780",
+      "time": "2026-10-06 15:08:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rise on Wall Street Lead — The Nikkei 225 Index advanced 1.05% to finish at 70,684 on Tuesday, scaling a three-month high as Japanese equities followed Wall Street’s strong performance and investors looked past concerns over elevated bond yields. Market sentiment was also lifted by softer oil prices as signs of increased Middle Eastern supply eased pressure on Japan’s import-dependent economy. Meanwhile, Prime Minister Sanae Takaichi continued to pursue expansionary fiscal measures despite concerns surrounding the weak yen and rising domestic bond yields. In corporate developments, Toyota Motor Corp. is turning to its new Land Cruiser FJ to strengthen its position against intensifying competition from Chinese automakers, with sales across Japan and Southeast Asia exceeding initial expectations. Technology and AI-related shares were among the biggest gainers, led by Advantest (3.9%), Taiyo Yuden (6.2%), Fujikura (5.2%), Murata Manufacturing (1%) and Lasertec (0.8%)."
+    },
+    {
+      "id": "mkt:01a11009-b1e3-7ee0-a7b2-087934db0745",
+      "time": "2026-10-06 15:07:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "French finance minister said recent selling of French government bonds stems from fewer buyers rather than a lack of investor confidence."
+    },
+    {
+      "id": "mkt:01a11009-917c-7ee0-a7b2-0294435dc4f7",
+      "time": "2026-10-06 15:07:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli military reportedly nearly shot down Dubai passenger jet】CBS, citing two Israeli sources, reports that on Sept. 30 Israeli jets were scrambled and were prepared to shoot down a Dubai passenger aircraft after an attempted in-flight attack; the plane reportedly carried more than 150 Israeli nationals. Israel closed its airspace and set up an emergency command center; fighters stood down and the shoot-down order was rescinded only after the jet diverted to Saudi Arabia and was escorted by Saudi fighters. The report says Israel maintains long-running protocols for 9/11-style threats and the prime minister has final authority on shoot-down decisions."
+    },
+    {
+      "id": "5128143",
+      "time": "2026-10-06 15:07:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "萊斯屈爾：歐元走弱讓出口商獲得喘息空間。"
+    },
+    {
+      "id": "5128142",
+      "time": "2026-10-06 15:06:56",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "法國財政部長萊斯屈爾表示：投資者拋售法國國債並非源於信心不足，而是當前買方數量較少。"
+    },
+    {
+      "id": "5128141",
+      "time": "2026-10-06 15:06:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國財長：歐元兌1.10美元似乎並未被低估。"
+    },
+    {
+      "id": "te:economy:589778",
+      "time": "2026-10-06 15:06:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Wholesale Prices YoY",
+        "Importance 1"
+      ],
+      "text": "Austria Wholesale Inflation Highest Since 2023 — Wholesale prices in Austria climbed by 10.2% year-on-year in September 2026, marking the fastest rise since February 2023 and accelerating from an 8.2% gain in the previous month. The increase was driven by sharp price gains in other liquid and gaseous fuels and related products (68.8%), motor spirit (45.1%), plastics and rubber in primary forms (26.6%), waste and scrap (25.6%), and non-iron metals (21.2%). Prices also rose for information and communication equipment (18.8%), other machinery and equipment (18.1%), solid fuels (16.2%), grain, seeds and animal feeds (11.8%), and iron and steel (11.8%). In contrast, prices fell for live animals (-10.9%) and dairy products, eggs and edible oils and fats (-1.3%). On a monthly basis, wholesale prices rose 1.9% in September, the highest in six months and accelerating from 0.9% in August, mainly due to higher prices for other liquid and gaseous fuels and related products (12.6%), motor spirit (10.4%), and grain, seeds and animal feeds (7.0%)."
+    },
+    {
+      "id": "5128140",
+      "time": "2026-10-06 15:06:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贛閩迎來返程客流高峰 南鐵今日加開397列旅客列車保障出行】進入國慶假期第六天，中國鐵路南昌局集團有限公司（下稱“南鐵”）管內江西、福建兩省出現返程客流高峰，南鐵6日預計傳送旅客155萬人次，為了保障旅客返程出行需求，南鐵6日加開旅客列車397列，其中夜間高鐵15列。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a11009-017f-7ee0-a7b1-fe3e621a0211",
+      "time": "2026-10-06 15:06:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB chief economist Lane said the primary driver of interest-rate decisions is the impact of energy shocks on inflation."
+    },
+    {
+      "id": "5128139",
+      "time": "2026-10-06 15:05:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【斗山恆能向美國 SpaceXAI 交付首臺燃氣輪機】斗山恆能公司週三表示，已向 SpaceXAI 交付一臺燃氣輪機，用於這家美國人工智慧企業的能源基礎設施專案。這家韓國電廠裝置製造商稱，這臺 DGT6-300H 燃氣輪機在位於韓國東南部城市昌原的工廠生產，是該公司首次向美國出口燃氣輪機。該韓國企業表示，這臺燃氣輪機將投入埃隆・馬斯克旗下 SpaceX 的 AI 子公司 SpaceXAI 在美國的能源基建專案。斗山恆能表示，隨著 AI 基礎設施發電裝置需求不斷增長，公司計劃擴大與全球科技企業的合作。"
+    },
+    {
+      "id": "mkt:01a11007-f945-7ee0-a7b1-f595f7d75fca",
+      "time": "2026-10-06 15:05:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ECB chief economist Lane says energy prices remain elevated, but the extent of pass-through to the rest of the economy remains uncertain."
+    },
+    {
+      "id": "5128138",
+      "time": "2026-10-06 15:04:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑪麗斯特民調：美國緬因州參議院競選中，傑克遜領先柯林斯4個百分點。"
+    },
     {
       "id": "mkt:01a11006-9aa5-7ee0-a7b1-ee327a77890b",
       "time": "2026-10-06 15:03:50",
@@ -290,6 +442,14 @@
         "公司"
       ],
       "text": "漢莎航空集團：受需求大幅增長推動，自2027年夏季起大幅擴大赴日航線服務規模。"
+    },
+    {
+      "id": "5128119",
+      "time": "2026-10-06 14:54:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廈門點面結合佈局AI應用 賦能千行百業轉型升級】廈門多點佈局AI賦能平臺。今年6月，中國首個“火山引擎數字內容創新實驗室”落地廈門市思明區，面向AI服務商和實體企業，提供涵蓋工具供給、技術支援、人才培訓、供需對接和資源保障的“一站式”AI賦能服務。 思明區科技和工信局副局長田傑稱，思明區建設數字內容創作公共服務平臺，與該實驗室聯動，旨在連結火山引擎的技術能力，助力企業數字化、智慧化轉型。以福建優勢支柱產業——紡織鞋服產業為例，AI試穿讓消費者直觀預覽上身效果，有效降低產品退貨率；AI工具應用於營銷環節，則能降本增效，實現精準推送。 據悉，目前該公共服務平臺註冊企業達360家，其中中小微企業佔近九成，主要覆蓋軟體資訊、智慧製造、AI短劇漫劇、智慧零售等行業。註冊企業可呼叫火山引擎大模型及最新AIGC工具，實現低成本、高效率創作。（中新網）"
     },
     {
       "id": "5128118",
@@ -615,6 +775,15 @@
         "Important"
       ],
       "text": "France | Industrial Production (MoM) (Aug) | actual -0.3% | consensus 0.2% | previous -0.40%"
+    },
+    {
+      "id": "5128103",
+      "time": "2026-10-06 14:44:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【低庫存引發冬季供應擔憂 歐洲天然氣價格上漲】歐洲天然氣價格走高，異常偏低的庫存令市場持續擔憂冬季供氣情況。基準期貨週二最大漲幅達3.2%，前一日價格曾下跌。近期行情震盪，合約價格大多在每兆瓦時70至75歐元區間波動。歐洲儲氣設施庫容填充率僅約73%，低於歷年同期水平，支撐價格維持高位。全球液化天然氣供應持續緊張，歐洲仍需爭取更多進口氣源；一旦供應中斷情況延續，市場將面臨價格進一步飆升的風險。"
     },
     {
       "id": "mkt:01a10ff3-b135-7ee0-a7b1-043fe6113fe0",
@@ -93150,172 +93319,6 @@
         "國際"
       ],
       "text": "美國國家公路交通安全管理局：結束對806,963輛本田奧德賽美國車型的缺陷請願，該請願涉及車輛行駛中安全氣囊意外展開的問題。"
-    },
-    {
-      "id": "mkt:01a0ebfe-f4c7-7338-ab06-30d2dcaee1f4",
-      "time": "2026-09-29 15:09:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "SOL.MC",
-        "Impact bullish"
-      ],
-      "text": "Spain’s solar firm Solaria shares rose 3.4%, leading gains among IBEX 35 constituents."
-    },
-    {
-      "id": "5117981",
-      "time": "2026-09-29 15:08:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "SOLARIA股價上漲3.4%，領漲西班牙IBEX 35指數。"
-    },
-    {
-      "id": "5117980",
-      "time": "2026-09-29 15:08:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智元機器人入股藍點觸控旗下公司】天眼查App顯示，近日，盈鑫智造（北京）科技有限公司發生工商變更，新增智元機器人關聯公司智元創新（上海）科技股份有限公司為股東，同時，註冊資本由3000萬人民幣增至3060萬人民幣。該公司成立於2026年6月，法定代表人為張鵬玲，經營範圍含人工智慧應用軟體開發、智慧機器人的研發、智慧機器人銷售等。股東資訊顯示，該公司現由藍點觸控（北京）科技有限公司及上述新增股東共同持股。"
-    },
-    {
-      "id": "mkt:01a0ebfd-e232-7338-ab06-2a7458a8b5f2",
-      "time": "2026-09-29 15:07:59",
-      "tags": [
-        "MKT News",
-        "BAER.SW",
-        "Impact bullish"
-      ],
-      "text": "Julius Baer Group shares rose 7.5% after Swiss regulator FINMA closed an enforcement proceeding."
-    },
-    {
-      "id": "mkt:01a0ebfd-9788-7338-ab06-22dfbc297a05",
-      "time": "2026-09-29 15:07:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's cabinet approved more than 4 billion baht for flood relief, the prime minister said."
-    },
-    {
-      "id": "5117979",
-      "time": "2026-09-29 15:07:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國總理：內閣批准超過40億泰銖用於應對洪災影響。"
-    },
-    {
-      "id": "mkt:01a0ebfd-7bfb-7338-ab06-1aa4eeccb901",
-      "time": "2026-09-29 15:07:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "HLAG.DE",
-        "Impact bullish"
-      ],
-      "text": "Hapag-Lloyd shares rose 2% after the German shipping giant raised its full-year profit guidance."
-    },
-    {
-      "id": "5117978",
-      "time": "2026-09-29 15:07:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【萬豐奧威：VoloCity、VoloXpro機型已在歐洲地區TC（型號合格證）取證中】萬豐奧威9月29日在互動平臺表示，公司VoloCity、VoloXpro機型已在歐洲地區TC（型號合格證）取證中，目前尚未在中國民航局提交TC（型號合格證）申請。"
-    },
-    {
-      "id": "5117977",
-      "time": "2026-09-29 15:07:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【徐工機械旗下江蘇研究院公司增資至9.5億】天眼查App顯示，近日，江蘇徐工工程機械研究院有限公司發生工商變更，註冊資本由5億元人民幣增至9.5億元人民幣。該公司成立於2018年1月，法定代表人為單增海，經營範圍含工程機械、建築工程機械、礦山機械、環衛機械、汽車、汽車基礎零部件領域的技術研發、技術轉讓、技術服務、技術諮詢等。股東資訊顯示，該公司由徐工集團工程機械股份有限公司全資持股。"
-    },
-    {
-      "id": "5117976",
-      "time": "2026-09-29 15:07:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【君實生物等在嘉興成立股權投資合夥企業，出資額3.6億】天眼查App顯示，近日，嘉興源禾創孚股權投資合夥企業（有限合夥）成立，執行事務合夥人為君實創業投資（海南）有限公司，出資額3.6億元，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動，創業投資。合夥人資訊顯示，該合夥企業由海鹽縣國有資本投資運營有限公司、上海君實生物醫藥科技股份有限公司、海鹽嘉睿戰新股權投資合夥企業（有限合夥）等共同出資。"
-    },
-    {
-      "id": "5117975",
-      "time": "2026-09-29 15:06:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國2027財年公共債務計劃要求新增借款1.26萬億泰銖。"
-    },
-    {
-      "id": "mkt:01a0ebfc-6f82-7338-ab06-1242d86bd088",
-      "time": "2026-09-29 15:06:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "30-year government bond futures (TL) most-active contract rose more than 0.50 pct intraday to 117.66 yuan."
-    },
-    {
-      "id": "5117974",
-      "time": "2026-09-29 15:06:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金帝股份旗下海南投資公司增資至9.1億 增幅約10%】天眼查App顯示，近日，海南金海慧投資有限公司發生工商變更，註冊資本由8.3億元人民幣增至9.1億元人民幣，增幅約10%。該公司成立於2019年6月，法定代表人為鄭廣會，經營範圍含市場營銷策劃、市場管理服務、工業專業設計及其他專業技術服務等。股東資訊顯示，該公司由山東金帝精密機械科技股份有限公司全資持股。"
-    },
-    {
-      "id": "5117973",
-      "time": "2026-09-29 15:06:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中保投資在蘇州成立新合夥企業，出資額5億】天眼查App顯示，近日，中保投智算（蘇州）股權投資合夥企業（有限合夥）成立，執行事務合夥人為中保投資有限責任公司，出資額5億元，經營範圍為股權投資、創業投資。合夥人資訊顯示，該合夥企業由中保投資有限責任公司、中保投資（深圳）有限責任公司共同出資。"
-    },
-    {
-      "id": "5117972",
-      "time": "2026-09-29 15:05:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "國際航空集團（IAG）：SkyBreathe空氣淨化系統將部署在愛爾蘭航空、英國航空、伊比利亞航空、Level航空和伏林航空的機隊中，為逾600架飛機提供支援。"
-    },
-    {
-      "id": "mkt:01a0ebfb-f0a6-7338-ab06-08c9b7542166",
-      "time": "2026-09-29 15:05:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Ministry of Science and Technology: China among fastest‑rising countries in innovation】At a State Council press briefing on the 29th, Minister of Science and Technology Yin Hejun cited the National Innovation Index Report 2025, which ranks China 9th globally in comprehensive innovation capacity. He said China has advanced its science and technology innovation over the past five years and is accelerating a shift from global participant and contributor to pathfinder and leader, making it one of the fastest‑rising countries in innovation."
-    },
-    {
-      "id": "5117971",
-      "time": "2026-09-29 15:05:47",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "菲律賓財政部長：菲律賓正在探索零售美元債券發行方案。"
-    },
-    {
-      "id": "mkt:01a0ebfb-b6cb-7338-ab06-0186a4b6b0f8",
-      "time": "2026-09-29 15:05:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Spain Sep inf unexpectedly rises to 5%, bolstering ECB case for further rate hikes】Spain's September consumer prices rose 5.0% YoY, up from 4.6% in August and above the median 4.9% forecast, the highest since Feb 2023, the national statistics office said. Fuel and travel-package costs were the main drivers and the core inf also exceeded expectations. The print reinforces market bets on further ECB tightening as Europe faces renewed energy-cost pressure from the Iran war; Spain is the first major euro-area member to publish September data and other countries may report higher readings."
     }
   ]
 }
