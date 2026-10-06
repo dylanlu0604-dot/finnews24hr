@@ -1,7 +1,34 @@
 {
   "date": "2026-10-06",
-  "count": 491,
+  "count": 493,
   "items": [
+    {
+      "id": "mkt:01a10eda-54e9-7ee0-a7ac-5c82db347338",
+      "time": "2026-10-06 09:35:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kpler data show average daily crude flows through the Strait of Hormuz were 10.3 mln barrels in the seven days to Saturday, about 76% of the pre-war baseline."
+    },
+    {
+      "id": "mkt:01a10ed8-ffe7-7ee0-a7ac-57794cb3e8c9",
+      "time": "2026-10-06 09:34:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06185.HK",
+        "Impact bullish",
+        "06996.HK",
+        "06127.HK"
+      ],
+      "text": "Hong Kong healthcare stocks opened higher: CanSino Biologics (06185.HK) rose over 10%; Deqi Medical-B (06996.HK) gained 5.26%; JOINN Laboratories (06127.HK) climbed nearly 3%."
+    },
     {
       "id": "5127816",
       "time": "2026-10-06 09:32:04",
