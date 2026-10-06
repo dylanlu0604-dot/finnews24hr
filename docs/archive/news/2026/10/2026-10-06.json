@@ -1,7 +1,95 @@
 {
   "date": "2026-10-06",
-  "count": 968,
+  "count": 977,
   "items": [
+    {
+      "id": "5128200",
+      "time": "2026-10-06 15:34:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世界銀行上調東亞和太平洋地區今年經濟增速預測】世界銀行6日釋出東亞和太平洋地區經濟預測更新報告，將2026年該地區經濟增速預測上調至4.5%，較4月預測高0.3個百分點。報告表示，這一經濟增速上調很大程度上是由於作為人工智慧價值鏈一部分的國家高技術投資和出口表現強勁。在市場力量、可再生能源使用增加、動用庫存和消費者補貼等因素共同作用下，高能源價格的拖累沒有預期那樣嚴重。世界銀行表示，在高技術產品製造和出口推動下，該地區多個經濟體今年經濟增速超出此前預期。其中，越南、馬來西亞和泰國今年經濟增速預測被分別上調1.1個百分點、0.7個百分點和0.7個百分點。對高能源價格敏感和對外部衝擊緩衝有限的太平洋島國今年經濟增速預測被下調0.5個百分點。（新華社）"
+    },
+    {
+      "id": "5128199",
+      "time": "2026-10-06 15:33:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元債券延續漲勢，法國30年期國債收益率下跌10個基點至5.30%。"
+    },
+    {
+      "id": "5128198",
+      "time": "2026-10-06 15:33:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）表示：在IMF執行董事會完成審查後，盧安達將可獲得約3570萬美元的資金。"
+    },
+    {
+      "id": "5128197",
+      "time": "2026-10-06 15:32:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：印度最大行動網路運營商Jio據稱在IPO中尋求約1140億美元估值】據知情人士透露，Jio Platforms Ltd. 在其計劃中的首次公開募股（IPO）中，可能尋求約11萬億盧比（約合1140億美元）的估值，低於市場預期。此前市場預計該公司將成為印度史上最大規模的IPO。知情人士稱，億萬富翁安巴尼旗下信實工業有限公司（Reliance Industries Ltd.）的電信和數字服務部門已完成對此次發行的需求摸底，預計本週將開始與潛在投資者會面，討論估值和定價事宜。"
+    },
+    {
+      "id": "5128196",
+      "time": "2026-10-06 15:32:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【老鋪黃金打折降價 實探假期黃金市場】國慶假期期間，記者對北京地區黃金消費市場進行實地走訪發現，多家黃金珠寶品牌推出優惠活動，其中最受關注的是“以舊換新”優惠。從銷售情況看，多家門店反饋，節假日客流和消費情況整體好於平時。值得注意的是，記者走訪瞭解到，老鋪黃金已開啟打折降價活動，部分款式在原價9折的基礎上還可疊加VIP會員9.5折優惠。據上述老鋪黃金銷售人員介紹，此次優惠是公司成立以來首次迭代降價。（中證報）"
+    },
+    {
+      "id": "te:markets:589802",
+      "time": "2026-10-06 15:32:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.72% Higher — The FTSE 100 Index is picking up 76 points or 0.72 percent on Tuesday. Gains are led by Weir (2.32%), Informa (2.30%) and AstraZeneca (2.17%). Biggest losers are BAE Systems (-0.93%), Babcock International (-0.84%) and M&G (-0.83%)."
+    },
+    {
+      "id": "mkt:01a11020-4f94-7ee0-a7b3-2e98742cb155",
+      "time": "2026-10-06 15:31:55",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Morgan Stanley recommends shorting GBP/USD ahead of the UK budget announcement."
+    },
+    {
+      "id": "te:markets:589801",
+      "time": "2026-10-06 15:31:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises for Third Session — The FTSE 100 rose to around 10,500 on Tuesday, advancing for a third consecutive session and tracking a broader global equity rally, as easing oil prices helped lift market sentiment. Healthcare stocks led the gains, with AstraZeneca jumping 2.9% after announcing more than $1 billion of investment in Massachusetts, while peer GSK also advanced 1.5%. Financials and miners also gained broadly, with Standard Chartered rising 1.1%, Glencore adding 1.3% and Barclays advancing 0.7%. Informa also rose 0.6% after agreeing to acquire Clarion for £2.24 billion and reviewing options for its Taylor & Francis publishing arm. Meanwhile, energy stocks were mixed, with Shell little changed and BP down 1.0%. BAE Systems also fell around 1%."
+    },
+    {
+      "id": "te:markets:589800",
+      "time": "2026-10-06 15:31:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Opens Higher — Frankfurt’s DAX 40 opened 0.8% higher to above 25,400 on Tuesday, rising for a third consecutive session as gains in major US technology stocks lifted global equities. The Nasdaq reached a fresh record high on Monday, while Asian stocks also advanced. Markets are also focused on a series of economic releases, with German industrial orders falling sharply in August, while construction PMI and eurozone retail sales are due later in the day. Investors will also watch comments from ECB Governing Council member Olli Rehn on the economy and monetary policy. Concerns over France’s budget position remain a headwind, however, after pushing the euro to a 17-month low. On the corporate side, Porsche is in focus as the automaker holds a media day."
+    },
     {
       "id": "mkt:01a1101f-e4ac-7ee0-a7b3-2150a5c7b33e",
       "time": "2026-10-06 15:31:27",
