@@ -1,7 +1,219 @@
 {
   "date": "2026-10-06",
-  "count": 1022,
+  "count": 1044,
   "items": [
+    {
+      "id": "5128239",
+      "time": "2026-10-06 16:02:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500指數迷你電子盤期貨上漲0.22%，納斯達克100指數期貨上漲0.24%，道瓊斯指數期貨上漲0.48%。"
+    },
+    {
+      "id": "5128238",
+      "time": "2026-10-06 16:02:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "隨著谷歌核能交易接近尾聲，星座能源股價盤前上漲3.6%。"
+    },
+    {
+      "id": "5128237",
+      "time": "2026-10-06 16:02:08",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲期貨交易所將於11月推出日本個股衍生品】德意志交易所旗下歐洲期貨交易所（Eurex）釋出公告稱，將於下月推出日本個股期貨與個股股息期貨。新衍生品將於11月2日開始交易。"
+    },
+    {
+      "id": "5128236",
+      "time": "2026-10-06 16:01:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威Equinor執行長表示，我們計劃羅斯班克油田於2027年上半年實現首次投產。"
+    },
+    {
+      "id": "5128235",
+      "time": "2026-10-06 16:01:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度國防部長與布拉莫斯航空航天公司簽署66.1億印度盧比合同。"
+    },
+    {
+      "id": "5128234",
+      "time": "2026-10-06 16:01:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行雷恩：能源價格衝擊尚未傳導至薪資】歐洲央行管理委員會委員奧利・雷恩表示，中東能源衝擊目前尚未擴散至其他物價與薪資領域，但不能排除後續產生相關影響。這位芬蘭央行行長週二在赫爾辛基稱：“這類影響可能會逐步、悄無聲息地顯現。” 他強調必須保持警惕，“中東衝突持續越久，能源漲價向更廣範圍擴散的風險就越高。”自衝突爆發以來，歐洲央行已兩次上調融資成本，最近一次為 9 月加息；能源衝擊推高通脹，使其遠高於 2% 的目標。知情人士上月透露，官員預計利率還將進一步上調，但任何政策調整都將取決於後續資料。雷恩稱，歐元區經濟展現韌性，但增長依舊低迷。旺盛的需求會讓企業更容易將增加的成本轉嫁給消費者，加大能源衝擊廣泛傳導至通脹的風險。雷恩表示：“長期利率上行正在放緩經濟增長，並且在一定程度上抑制能源漲價向其他商品價格和薪資傳導。”"
+    },
+    {
+      "id": "5128233",
+      "time": "2026-10-06 16:01:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部長表示，法國將額外撥款300萬歐元支援葉門人民，此舉將使該國2026年對葉門的總援助額提升至700萬歐元以上。"
+    },
+    {
+      "id": "mkt:01a1103a-e1b9-7ee0-a7b3-c05f1eabd881",
+      "time": "2026-10-06 16:00:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "French foreign minister said France will provide an additional €3 mln in aid to the Yemeni people, bringing total French aid for 2026 to over €7 mln."
+    },
+    {
+      "id": "5128232",
+      "time": "2026-10-06 16:00:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普漲】Lumentum跌0.15%，康寧漲0.04%，Coherent漲0.31%，應用光電漲0.86%，Ciena漲0.20%，博通漲0.47%，邁威爾科技漲0.41%。"
+    },
+    {
+      "id": "5128231",
+      "time": "2026-10-06 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”普漲】英偉達漲0.60%，蘋果漲0.08%，微軟漲0.43%，谷歌漲0.34%，亞馬遜漲0.49%，Meta漲0.23%，特斯拉漲0.50%。"
+    },
+    {
+      "id": "5128230",
+      "time": "2026-10-06 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普漲】禮來漲0.40%，強生漲0.57%，Moderna漲1.50%，諾和諾德跌0.43%，艾伯維漲0.58%，默沙東漲0.32%。"
+    },
+    {
+      "id": "5128229",
+      "time": "2026-10-06 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普跌】美光跌0.61%，閃迪跌0.60%，SK海力士跌2.27%，西部資料跌0.17%，希捷科技跌%。"
+    },
+    {
+      "id": "mkt:01a1103a-c796-7ee0-a7b3-be599696610d",
+      "time": "2026-10-06 16:00:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME inventories: aluminium down 1,500 tonnes, lead down 1,850 tonnes, copper down 1,925 tonnes, tin down 25 tonnes, nickel down 792 tonnes, zinc up 300 tonnes."
+    },
+    {
+      "id": "5128228",
+      "time": "2026-10-06 16:00:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋁庫存減少1500噸，鉛庫存減少1850噸，銅庫存減少1925噸，錫庫存減少25噸，鎳庫存減少792噸，鋅庫存增加300噸。"
+    },
+    {
+      "id": "mkt:01a1103a-9849-7ee0-a7b3-b72a8ce90cbe",
+      "time": "2026-10-06 16:00:37",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member REHN said he has not yet seen inflation spill over into non-energy prices or wages."
+    },
+    {
+      "id": "5128227",
+      "time": "2026-10-06 16:00:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲期貨交易所將於11月推出日本個股衍生品。"
+    },
+    {
+      "id": "mkt:01a1103a-6d01-7ee0-a7b3-a9179be7d442",
+      "time": "2026-10-06 16:00:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB executive board member REHN said elevated long-term yields are slowing economic growth and weakening the pass-through of energy prices to other prices and wages."
+    },
+    {
+      "id": "5128226",
+      "time": "2026-10-06 16:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數收盤上漲0.3%，報1759.08點。"
+    },
+    {
+      "id": "mkt:01a1103a-50d5-7ee0-a7b3-a00049ed417f",
+      "time": "2026-10-06 16:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ING: Further sell-off in French bonds could weaken euro】ING analyst Francesco Pesole said in a report that a continued sell-off in French sovereign bonds driven by fiscal concerns would likely push the euro lower. He flagged rising fiscal risk premia and a cooling of ECB rate-hike expectations as current downside pressures on the currency. Although a recent retracement in French bond prices has supported a bounce in the euro from its lows, Pesole said sustained upside is unlikely; if bond-market stress intensifies, the euro could fall further, potentially toward $1.10."
+    },
+    {
+      "id": "5128225",
+      "time": "2026-10-06 16:00:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委雷恩：能源價格衝擊尚未傳導至工資。"
+    },
+    {
+      "id": "te:markets:589826",
+      "time": "2026-10-06 16:00:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Rises by 3.03% — Top commodity gainers are Natural Gas UK (3.03%), Natural Gas EU (2.86%) and Natural gas (0.55%). Biggest losers are Heating Oil (-1.82%), Crude Oil (-0.97%), Gasoline (-0.73%) and Brent Oil (-0.50%)."
+    },
+    {
+      "id": "5128224",
+      "time": "2026-10-06 15:59:10",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞穗：AI需求對日本CPI的通脹影響或有限】瑞穗證券經濟學家表示，自2026年初以來，與人工智慧相關的需求顯著推高了日本企業商品價格，但由於AI相關成本上漲隻影響部分耐用消費品，即使假設所有成本都轉嫁給消費者，其對消費者價格指數（CPI）的上行影響也似乎有限。"
+    },
     {
       "id": "mkt:01a11037-dc3a-7ee0-a7b3-9fdc18aa6917",
       "time": "2026-10-06 15:57:38",

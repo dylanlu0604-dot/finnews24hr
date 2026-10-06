@@ -1,7 +1,219 @@
 {
-  "updated": "2026-10-06 15:59:05",
+  "updated": "2026-10-06 16:02:47",
   "count": 10125,
   "items": [
+    {
+      "id": "5128239",
+      "time": "2026-10-06 16:02:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500指數迷你電子盤期貨上漲0.22%，納斯達克100指數期貨上漲0.24%，道瓊斯指數期貨上漲0.48%。"
+    },
+    {
+      "id": "5128238",
+      "time": "2026-10-06 16:02:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "隨著谷歌核能交易接近尾聲，星座能源股價盤前上漲3.6%。"
+    },
+    {
+      "id": "5128237",
+      "time": "2026-10-06 16:02:08",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲期貨交易所將於11月推出日本個股衍生品】德意志交易所旗下歐洲期貨交易所（Eurex）釋出公告稱，將於下月推出日本個股期貨與個股股息期貨。新衍生品將於11月2日開始交易。"
+    },
+    {
+      "id": "5128236",
+      "time": "2026-10-06 16:01:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威Equinor執行長表示，我們計劃羅斯班克油田於2027年上半年實現首次投產。"
+    },
+    {
+      "id": "5128235",
+      "time": "2026-10-06 16:01:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度國防部長與布拉莫斯航空航天公司簽署66.1億印度盧比合同。"
+    },
+    {
+      "id": "5128234",
+      "time": "2026-10-06 16:01:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行雷恩：能源價格衝擊尚未傳導至薪資】歐洲央行管理委員會委員奧利・雷恩表示，中東能源衝擊目前尚未擴散至其他物價與薪資領域，但不能排除後續產生相關影響。這位芬蘭央行行長週二在赫爾辛基稱：“這類影響可能會逐步、悄無聲息地顯現。” 他強調必須保持警惕，“中東衝突持續越久，能源漲價向更廣範圍擴散的風險就越高。”自衝突爆發以來，歐洲央行已兩次上調融資成本，最近一次為 9 月加息；能源衝擊推高通脹，使其遠高於 2% 的目標。知情人士上月透露，官員預計利率還將進一步上調，但任何政策調整都將取決於後續資料。雷恩稱，歐元區經濟展現韌性，但增長依舊低迷。旺盛的需求會讓企業更容易將增加的成本轉嫁給消費者，加大能源衝擊廣泛傳導至通脹的風險。雷恩表示：“長期利率上行正在放緩經濟增長，並且在一定程度上抑制能源漲價向其他商品價格和薪資傳導。”"
+    },
+    {
+      "id": "5128233",
+      "time": "2026-10-06 16:01:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部長表示，法國將額外撥款300萬歐元支援葉門人民，此舉將使該國2026年對葉門的總援助額提升至700萬歐元以上。"
+    },
+    {
+      "id": "mkt:01a1103a-e1b9-7ee0-a7b3-c05f1eabd881",
+      "time": "2026-10-06 16:00:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "French foreign minister said France will provide an additional €3 mln in aid to the Yemeni people, bringing total French aid for 2026 to over €7 mln."
+    },
+    {
+      "id": "5128232",
+      "time": "2026-10-06 16:00:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普漲】Lumentum跌0.15%，康寧漲0.04%，Coherent漲0.31%，應用光電漲0.86%，Ciena漲0.20%，博通漲0.47%，邁威爾科技漲0.41%。"
+    },
+    {
+      "id": "5128231",
+      "time": "2026-10-06 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”普漲】英偉達漲0.60%，蘋果漲0.08%，微軟漲0.43%，谷歌漲0.34%，亞馬遜漲0.49%，Meta漲0.23%，特斯拉漲0.50%。"
+    },
+    {
+      "id": "5128230",
+      "time": "2026-10-06 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普漲】禮來漲0.40%，強生漲0.57%，Moderna漲1.50%，諾和諾德跌0.43%，艾伯維漲0.58%，默沙東漲0.32%。"
+    },
+    {
+      "id": "5128229",
+      "time": "2026-10-06 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普跌】美光跌0.61%，閃迪跌0.60%，SK海力士跌2.27%，西部資料跌0.17%，希捷科技跌%。"
+    },
+    {
+      "id": "5128228",
+      "time": "2026-10-06 16:00:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋁庫存減少1500噸，鉛庫存減少1850噸，銅庫存減少1925噸，錫庫存減少25噸，鎳庫存減少792噸，鋅庫存增加300噸。"
+    },
+    {
+      "id": "mkt:01a1103a-c796-7ee0-a7b3-be599696610d",
+      "time": "2026-10-06 16:00:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME inventories: aluminium down 1,500 tonnes, lead down 1,850 tonnes, copper down 1,925 tonnes, tin down 25 tonnes, nickel down 792 tonnes, zinc up 300 tonnes."
+    },
+    {
+      "id": "mkt:01a1103a-9849-7ee0-a7b3-b72a8ce90cbe",
+      "time": "2026-10-06 16:00:37",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB Governing Council member REHN said he has not yet seen inflation spill over into non-energy prices or wages."
+    },
+    {
+      "id": "5128227",
+      "time": "2026-10-06 16:00:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲期貨交易所將於11月推出日本個股衍生品。"
+    },
+    {
+      "id": "mkt:01a1103a-6d01-7ee0-a7b3-a9179be7d442",
+      "time": "2026-10-06 16:00:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB executive board member REHN said elevated long-term yields are slowing economic growth and weakening the pass-through of energy prices to other prices and wages."
+    },
+    {
+      "id": "5128226",
+      "time": "2026-10-06 16:00:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數收盤上漲0.3%，報1759.08點。"
+    },
+    {
+      "id": "mkt:01a1103a-50d5-7ee0-a7b3-a00049ed417f",
+      "time": "2026-10-06 16:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ING: Further sell-off in French bonds could weaken euro】ING analyst Francesco Pesole said in a report that a continued sell-off in French sovereign bonds driven by fiscal concerns would likely push the euro lower. He flagged rising fiscal risk premia and a cooling of ECB rate-hike expectations as current downside pressures on the currency. Although a recent retracement in French bond prices has supported a bounce in the euro from its lows, Pesole said sustained upside is unlikely; if bond-market stress intensifies, the euro could fall further, potentially toward $1.10."
+    },
+    {
+      "id": "5128225",
+      "time": "2026-10-06 16:00:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委雷恩：能源價格衝擊尚未傳導至工資。"
+    },
+    {
+      "id": "te:markets:589826",
+      "time": "2026-10-06 16:00:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Rises by 3.03% — Top commodity gainers are Natural Gas UK (3.03%), Natural Gas EU (2.86%) and Natural gas (0.55%). Biggest losers are Heating Oil (-1.82%), Crude Oil (-0.97%), Gasoline (-0.73%) and Brent Oil (-0.50%)."
+    },
+    {
+      "id": "5128224",
+      "time": "2026-10-06 15:59:10",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞穗：AI需求對日本CPI的通脹影響或有限】瑞穗證券經濟學家表示，自2026年初以來，與人工智慧相關的需求顯著推高了日本企業商品價格，但由於AI相關成本上漲隻影響部分耐用消費品，即使假設所有成本都轉嫁給消費者，其對消費者價格指數（CPI）的上行影響也似乎有限。"
+    },
     {
       "id": "mkt:01a11037-dc3a-7ee0-a7b3-9fdc18aa6917",
       "time": "2026-10-06 15:57:38",
@@ -93202,193 +93414,6 @@
         "Importance 1"
       ],
       "text": "Palestine Current Account Deficit Highest Since Q1 2025 — Palestine’s current account deficit widened to USD 739 million in the second quarter of 2026 from USD 665 million in the corresponding quarter a year ago. This marked the largest deficit since Q1 2025, as the goods account deficit increased to USD 1,648 million from USD 1,075 million. On the other hand, the services account deficit narrowed significantly to USD 85 million from USD 210 million, while the next current transfers from abroad rose to USD 717 million from USD 425 million a year earlier. The net income surplus also grew to USD 277 million from USD 195 million, driven largely by higher compensation for Palestinian workers in Israel (USD 209 million vs USD 140 million) and increased foreign investment income, mainly from interest earned on Palestinian deposits from foreign banks (USD 101 million vs USD 93 million)."
-    },
-    {
-      "id": "5118121",
-      "time": "2026-09-29 16:02:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：預計2026年全球LED顯示屏市場規模將微升至76.6億美元】根據TrendForce集邦諮詢觀察，2026年中國LED顯示屏市場競爭依然激烈，受終端需求復甦緩慢及消費降級等因素影響，LED超小間距顯示屏發展不及預期，致使市場規模呈下滑態勢。海外市場(包括北美、亞洲、非洲及拉丁美洲等)則維持成長，加上海外對Mini LED(COB)的接受度漸增，有效拉動海外市場規模上升。不過由於原材料價格上漲，對LED顯示屏終端需求有所抑制，綜合來看，預估2026年全球LED顯示屏市場規模將微幅成長至76.60億美元(+2% YoY)。展望2027年，中國電影院LED顯示屏市場需求持續保持成長，歐美、亞洲等國際市場在LED一體機、LED租賃顯示屏與LED戶外顯示屏的市場需求亦持續增長，預計全球LED顯示屏市場規模有望達到79.85億美元(+4% YoY ) 。"
-    },
-    {
-      "id": "5118120",
-      "time": "2026-09-29 16:02:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克推出面向資本市場與財資業務的人工智慧整合框架。"
-    },
-    {
-      "id": "5118119",
-      "time": "2026-09-29 16:02:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華魯恆升：部分生產裝置完成檢修恢復生產】華魯恆升公告稱，公司此前按年度計劃於2026年9月8日對部分生產裝置開展停車檢修，截至2026年9月29日，檢修工作已全部完成，相關生產裝置恢復正常生產。"
-    },
-    {
-      "id": "5118118",
-      "time": "2026-09-29 16:02:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行：將為貨幣政策操作引入次優評級私人部門資產作為合格抵押品。"
-    },
-    {
-      "id": "5118117",
-      "time": "2026-09-29 16:02:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【固德威：都進利不再擔任公司財務總監職務，李康接任】固德威9月29日公告，因職務調整，都進利不再擔任財務總監，轉任公司內部審計部負責人。經公司董事長提名，董事會同意聘任王英歌為副總經理；經審計委員會審議透過，董事會同意聘任李康為財務總監。"
-    },
-    {
-      "id": "5118116",
-      "time": "2026-09-29 16:01:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科技部：深度參與和引領全球科技治理】9月29日，科技部副部長張光軍在國新辦新聞釋出會上表示，“十五五”時期將深度參與和引領全球科技治理。圍繞新興技術應用、生物安全、倫理治理等議題，健全多邊協作機制。推動國際社會共同制定監管框架，技術標準和規範，支援聯合國發揮人工智慧全球治理主渠道作用，做好世界人工智慧組織建設工作。創新合作模式，主動參與重要國際科技組織和多邊機制，積極提出數字經濟、綠色低碳、外層空間等新興領域中國方案。支援建設國際化科技創新、開放生態，為科研人員開展國際交流合作提供更多便利措施，促進科研資料、裝置、材料等創新要素，安全有序、跨境流動，支援外資機構在中國開展科技創新活動，深入實施面向全球的科學研究基金，歡迎更多海外科技人才來華創新創業，努力營造具有全球競爭力的開放創新生態。"
-    },
-    {
-      "id": "5118115",
-      "time": "2026-09-29 16:01:46",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【安全組織敦促歐盟拒絕批准特斯拉FSD落地】一個知名安全組織週二敦促歐盟成員國拒絕批准特斯拉的“全自動駕駛”（FSD）系統，理由是擔心該系統可能允許車輛超過限速行駛。獨立非營利機構歐洲運輸安全理事會（ETSC）表示，特斯拉的FSD系統包含一項“速度偏移”（speed offset）功能，該功能可將最高車速提高至車輛所檢測到的限速值的150%（即超出限速值多達50%）。歐盟監管機構應拒絕批准“速度偏移”功能，以及另一項根據周圍交通狀況調整行駛速度的功能。"
-    },
-    {
-      "id": "5118114",
-      "time": "2026-09-29 16:01:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【健友股份：阿達木單抗40mg/0.4mL獲FDA批准】健友股份公告，公司全資子公司Emerge BiosciencePte.Ltd.近日收到美國FDA簽發的阿達木單抗注射液（40mg/0.4mL，80mg/0.8mL）批件（BLA號：761216），相關補充申請獲得批准。該產品與修美樂注射液具有可互換性。"
-    },
-    {
-      "id": "5118113",
-      "time": "2026-09-29 16:01:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Summit Therapeutics美股盤前漲超20%】Summit Therapeutics美股盤前漲超20%，現報18.73美元。"
-    },
-    {
-      "id": "5118112",
-      "time": "2026-09-29 16:00:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國3個國際科創中心研發經費佔全國的58.8%】在國務院新聞辦公室今天（29日）舉行的“開局起步‘十五五’”系列主題新聞釋出會上，科技部部長陰和俊介紹，科技部會同相關部門，積極支援北京（京津冀）、上海（長三角）、粵港澳大灣區3個國際科創中心發揮科技資源集聚優勢，組織科研攻關，支援其開展科技金融創新、科研物資便利通關等政策先行先試。各地方積極作為，建立跨省市工作機制，加強政策規劃等銜接，一體部署實施重大專案。3個國際科創中心研發經費佔全國的58.8%，PCT國際專利申請量佔全國的81.1%，有力輻射帶動周邊省市和全國科技創新發展。3箇中心建設呈現新局面。（央視新聞）"
-    },
-    {
-      "id": "5118111",
-      "time": "2026-09-29 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊盤前普漲】美光漲1.57%，閃迪漲1.17%，SK海力士漲1.17%，西部資料漲1.01%，希捷科技漲1.12%。Navitas Semiconductor股價盤前上漲12.8%，此前公司獲得一項由美國陸軍支援的半導體專案。"
-    },
-    {
-      "id": "5118110",
-      "time": "2026-09-29 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股光通訊股盤前普漲】Lumentum漲0.96%，康寧漲0.27%，Coherent漲0.89%，應用光電漲0.49%，Ciena漲0.72%，博通漲0.37%，邁威爾科技漲1.15%。"
-    },
-    {
-      "id": "5118109",
-      "time": "2026-09-29 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股生物科技板塊盤前漲跌不一】禮來漲0.53%，強生跌0.08%，Moderna跌0.24%，諾和諾德跌0.91%，艾伯維漲0.43%，默沙東持平。"
-    },
-    {
-      "id": "5118108",
-      "time": "2026-09-29 16:00:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股盤前：“七姐妹”漲跌不一】英偉達漲0.67%，蘋果跌0.21%，微軟跌0.14%，谷歌跌0.16%，亞馬遜漲0.34%，Meta漲0.15%，特斯拉漲0.41%。"
-    },
-    {
-      "id": "5118107",
-      "time": "2026-09-29 16:00:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【瑞思邁美股盤前跌超11%】瑞思邁美股盤前跌超11%，現報195.813美元。"
-    },
-    {
-      "id": "5118106",
-      "time": "2026-09-29 16:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：鋁庫存持平，錫庫存減少110噸，鎳庫存減少24噸，銅庫存減少875噸，鉛庫存減少1150噸，鋅庫存增加75噸。"
-    },
-    {
-      "id": "5118105",
-      "time": "2026-09-29 16:00:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500迷你股指期貨下跌0.1%，納斯達克100股指期貨上漲0.1%，道瓊斯股指期貨下跌0.1%。"
-    },
-    {
-      "id": "5118103",
-      "time": "2026-09-29 16:00:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行表示，將以數量招標方式開展200億里拉回購操作，中標利率為37%，回購到期日為10月6日<CBTF>。"
-    },
-    {
-      "id": "te:markets:587581",
-      "time": "2026-09-29 16:00:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Falls by 1.85% — Top commodity losers are Natural Gas EU (-1.85%), Natural Gas UK (-1.66%) and Gasoline (-0.81%). Gains are led by Crude Oil (0.96%) and Brent Oil (0.96%)."
-    },
-    {
-      "id": "5118102",
-      "time": "2026-09-29 15:59:26",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【金螳螂：2026年9月中標專案金額約3.43億元】金螳螂公告，公司於2026年9月陸續中標華泰證券研發及培訓中心四號樓裝修工程（一標段）、杭政儲出【2025】104號地塊專案裝修工程，中標金額合計約為3.43億元，約佔公司2025年度經審計營業收入的1.98%。"
-    },
-    {
-      "id": "5118101",
-      "time": "2026-09-29 15:59:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2025年全國規模以上農產品加工企業超過10萬家】“十四五”時期，我國鄉村產業提質增效，農村電商、鄉村休閒旅遊等新產業新業態蓬勃發展，2025年全國規模以上農產品加工企業超過10萬家、營業收入近18萬億元，休閒農業營業收入達到9500億元，農產品網路零售額達到7833億元。（新華社）"
-    },
-    {
-      "id": "5118100",
-      "time": "2026-09-29 15:59:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【LG電子釋出新一代資料中心冷卻方案】LG電子公開了一種模組化解決方案，將泵、管道等資料中心冷卻裝置預先組裝在集裝箱內後供應給客戶。該方案的優勢在於能夠減少現場施工，並可根據伺服器擴容需求，分階段增加冷卻容量。 在29日新加坡開幕的2026亞洲資料中心展覽會上，LG電子首次展示了“Hydronic Modular（液冷模組化）”解決方案。 Hydronic Modular將迴圈冷凍水的泵和閥門、應急緩衝罐、管道等裝置，按照國際標準化組織（ISO）集裝箱規格預先組裝在集裝箱內。在資料中心現場，只需透過管道將冷水機組本體與集裝箱模組連線起來，即可構建冷卻系統。"
     }
   ]
 }
