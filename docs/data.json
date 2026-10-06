@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-07 03:47:25",
-  "count": 9733,
+  "updated": "2026-10-07 03:51:12",
+  "count": 9726,
   "items": [
+    {
+      "id": "mkt:01a112c4-0684-7ee0-a7c4-acb2483a5838",
+      "time": "2026-10-07 03:49:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ANTHROPIC expands access to advanced AI models for vetted institutions to run high-risk cybersecurity tests】ANTHROPIC will expand access to its latest AI models, allowing vetted institutions to use Claude OPUS 5.5, Claude Sonnet 5.5 and Claude MYTHOS 5.1 for cybersecurity testing, including \"high-risk offensive tests\" targeting critical infrastructure such as the power grid, banks and aviation operations. Participants in its \"Project Glasswing\"—US government agencies, financial institutions and large software vendors—will receive access; new entrants require joint ANTHROPIC–US government review. Red teams will be granted elevated privileges for offensive testing, though actions likely to cause physical harm or mass destruction are prohibited. Certified defensive cybersecurity teams may use the models for malware reverse engineering and incident response."
+    },
+    {
+      "id": "5129113",
+      "time": "2026-10-07 03:49:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【愛爾蘭為新儲蓄計劃設定5萬歐元免稅門檻】愛爾蘭新設的零售儲蓄與投資賬戶將享有5萬歐元的免稅額度，超過該額度的賬戶餘額按1%的統一稅率徵稅。愛爾蘭投資賬戶每年最高繳款上限為1.2萬歐元，無最低繳款要求，並允許投資股票、債券、ETF及其他基金。該賬戶不徵收資本利得稅，也不適用“視同處置”規則；財政部長西蒙·哈里斯表示，這是投資計劃的第一階段，他願意重新審視繳款上限。"
+    },
     {
       "id": "5129112",
       "time": "2026-10-07 03:46:53",
@@ -89565,90 +89583,6 @@
         "公司"
       ],
       "text": "英偉達CEO黃仁勳：人工智慧創新與安全之間不存在衝突。"
-    },
-    {
-      "id": "5119405",
-      "time": "2026-09-30 03:51:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：創新、技術與安全三者之間並無矛盾。"
-    },
-    {
-      "id": "mkt:01a0eeb8-5eab-7338-ab1b-f98a5cdfce46",
-      "time": "2026-09-30 03:50:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said innovation, technology and security are not in conflict."
-    },
-    {
-      "id": "5119404",
-      "time": "2026-09-30 03:50:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：（當被問及人工智慧公司是否可以自我監管時）是的。"
-    },
-    {
-      "id": "5119402",
-      "time": "2026-09-30 03:50:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達CEO黃仁勳：我們將以負責任且安全的方式推進這項（人工智慧）業務。"
-    },
-    {
-      "id": "5119401",
-      "time": "2026-09-30 03:50:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（被問及人工智慧安全防護措施是否必要）是的。"
-    },
-    {
-      "id": "mkt:01a0eeb7-73b0-7338-ab1b-f49c20081326",
-      "time": "2026-09-30 03:49:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "U.S. President Trump praised NVIDIA (NVDA.O) CEO Jensen Huang."
-    },
-    {
-      "id": "5119400",
-      "time": "2026-09-30 03:49:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：比爾·蓋茨昨天似乎並未對人工智慧表現出擔憂。"
-    },
-    {
-      "id": "5119399",
-      "time": "2026-09-30 03:49:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普稱讚英偉達CEO黃仁勳。"
-    },
-    {
-      "id": "5119398",
-      "time": "2026-09-30 03:48:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI首席財務官：OpenAI的資金“非常充裕”。"
     }
   ]
 }
