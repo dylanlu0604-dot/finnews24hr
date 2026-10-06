@@ -1,7 +1,125 @@
 {
   "date": "2026-10-06",
-  "count": 814,
+  "count": 826,
   "items": [
+    {
+      "id": "5128117",
+      "time": "2026-10-06 14:52:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅典國際機場股份有限公司：9月該機場旅客吞吐量達360萬人次，同比增長3.5%。"
+    },
+    {
+      "id": "mkt:01a10ffb-cc70-7ee0-a7b1-910cde0886b4",
+      "time": "2026-10-06 14:52:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【KATZ orders Israeli military to raise alert over intelligence of Hamas attack planned for the 7th】Israeli Defense Minister KATZ said intelligence indicates Hamas plans an attack on the 7th, the third anniversary of the outbreak of the recent Israel-Palestine hostilities, and has ordered the military to raise its overall alert posture. In an official statement KATZ said the military must prepare for the worst and \"in addition to ongoing robust operations, take decisive action on any intelligence or warnings to thwart threats.\" He warned that if Israeli forces in the Gaza Strip are harmed, Hamas and Gaza residents will pay an \"extraordinarily heavy price.\""
+    },
+    {
+      "id": "5128116",
+      "time": "2026-10-06 14:51:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以防長稱已指示軍隊提升戒備應對可能發生的襲擊】當地時間6日，總檯記者獲悉，以色列國防部長卡茨當天發表宣告，宣稱情報顯示巴勒斯坦伊斯蘭抵抗運動（哈馬斯）計劃在7日，即新一輪巴以衝突爆發三週年之際發動襲擊，他已指示以色列軍隊全面提升戒備狀態。卡茨當天在一份官方宣告中堅稱，以軍必須為最壞的情況做好準備，並且“除了正在進行的強力行動之外，還應針對任何情報或預警採取果斷行動，以挫敗任何威脅”。卡茨同時揚言，如果加沙地帶的以色列軍隊受到任何傷害，哈馬斯以及加沙當地居民都將為此付出“超乎尋常的沉重代價”。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a10ffa-e9f2-7ee0-a7b1-8a9d5bf692d0",
+      "time": "2026-10-06 14:51:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA-backed U.S. AI startup Reflection AI on the 5th (local time) released its cutting-edge open-weight model \"Beam\". The company said the model's performance is comparable to mainstream open-weight models."
+    },
+    {
+      "id": "5128115",
+      "time": "2026-10-06 14:50:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外長：韓國政府已向美國劃撥24億美元，用於得克薩斯州電力專案。"
+    },
+    {
+      "id": "5128114",
+      "time": "2026-10-06 14:50:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日本央行行長：需將物價趨勢穩定在2%附近】日本央行行長植田和男重申央行立場，重要的是將核心通脹穩定在2%左右，央行將根據經濟、通脹與金融狀況持續加息。植田和男在一場金融會議的簡短髮言中稱，日本經濟走勢符合日本央行的預期。他表示，存在物價趨勢上行、突破央行2%目標的風險。他表示，日本央行將透過研判經濟前景與各類風險，確定加息的時點與節奏。"
+    },
+    {
+      "id": "mkt:01a10ffa-0cdb-7ee0-a7b1-83ef9a4644e2",
+      "time": "2026-10-06 14:50:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【HSBC: Asian AI-related exports showing signs of cooling】HSBC economists say seasonally adjusted Asian electronics shipments have fallen sharply in recent months, including Taiwan, a key chip supplier. South Korean exports still expand, underpinned by firm advanced memory prices, but prices for other electronics in the AI-hardware supply chain have begun to soften. HSBC notes the AI-hardware-led export impulse boosting Asian export values is slowing; this is unsurprising as U.S. hyperscale cloud providers sharply raised spending earlier and capex growth is likely to moderate after that rapid expansion."
+    },
+    {
+      "id": "mkt:01a10ff9-feca-7ee0-a7b1-7ebf3cf37fc7",
+      "time": "2026-10-06 14:50:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland's seasonally adjusted unemployment rate for September due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a10ff9-cb6c-7ee0-a7b1-7410b0550083",
+      "time": "2026-10-06 14:49:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's foreign minister said the government has remitted $2.4 billion to the United States for a Texas power project."
+    },
+    {
+      "id": "5128113",
+      "time": "2026-10-06 14:49:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利表示，匈牙利需在2029年初前加入歐洲匯率機制II，才能爭取在2032年採用歐元。"
+    },
+    {
+      "id": "5128112",
+      "time": "2026-10-06 14:49:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國財長：定期與市場參與者溝通。"
+    },
+    {
+      "id": "5128111",
+      "time": "2026-10-06 14:48:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利：若能滿足相關標準，匈牙利將力爭在2032年採用歐元。"
+    },
     {
       "id": "mkt:01a10ff8-f397-7ee0-a7b1-6ba56c644383",
       "time": "2026-10-06 14:48:55",
