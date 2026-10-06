@@ -1,7 +1,58 @@
 {
   "date": "2026-10-07",
-  "count": 448,
+  "count": 454,
   "items": [
+    {
+      "id": "mkt:01a113a1-fca8-7ee0-a7c7-2a10c8009610",
+      "time": "2026-10-07 07:52:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan real wages up 1.5% YoY in August, bolstering BOJ tightening case】Japan's real wages rose 1.5% YoY in August, marking an eighth consecutive monthly increase, the Ministry of Health, Labour and Welfare said, supporting the Bank of Japan's case for further rate hikes after last month's policy-rate increase. The August real-wage gain was below July's revised 2.0% increase. Average nominal wages rose 3.8% YoY in August (July revised 4.3%); base pay +3.8% YoY (unchanged from revised July); overtime pay +5.2% (July revised 4.5%). The MHLW used a 2.2% inflation rate to calculate real wages, unchanged from July and below last year's 3.1%. Tokyo's September core CPI rose to a 10-month high last week, reinforcing upward price pressure and the case for additional BOJ tightening."
+    },
+    {
+      "id": "5129251",
+      "time": "2026-10-07 07:52:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西貴港通報一起閃爆事故：1人死亡、2人失聯、2人輕傷】據“貴港宣傳”，廣西貴港港南區應急管理局釋出關於鬱江港南區新塘鎮湖表村河段船舶事故的通報：2026年10月6日17時15分許，鬱江港南區新塘鎮湖表村河段自然岸坡停泊的一艘工程船舶在噴漆作業時，因施工人員操作不當，發生閃爆事故，造成1人經搶救無效死亡、2人失聯、2人輕傷。接報後，港南區委、區政府立即組織應急、公安、海事、消防、衛健和屬地鎮政府趕赴現場，開展搜救、救治和善後處置。目前，2名失聯人員正在全力搜救。"
+    },
+    {
+      "id": "5129250",
+      "time": "2026-10-07 07:51:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國稱將於當地時間中午 12 點 25 分發射 “世界號” （Nuri）火箭。"
+    },
+    {
+      "id": "5129249",
+      "time": "2026-10-07 07:50:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省：截至9月底日本外匯儲備為1.178396萬億美元（8月底為1.207524萬億美元）。"
+    },
+    {
+      "id": "mkt:01a1139f-efda-7ee0-a7c7-217e9d786bc2",
+      "time": "2026-10-07 07:50:10",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Japan's foreign exchange reserves fell to $1.1784 tln in September from $1.2075 tln the prior month."
+    },
+    {
+      "id": "mkt:01a1139f-c675-7ee0-a7c7-193797ae4191",
+      "time": "2026-10-07 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Foreign Exchange Reserves (Sep) | actual 1178400000000B | previous 1207500000000B"
+    },
     {
       "id": "5129248",
       "time": "2026-10-07 07:47:54",
