@@ -1,7 +1,147 @@
 {
   "date": "2026-10-06",
-  "count": 829,
+  "count": 844,
   "items": [
+    {
+      "id": "5128128",
+      "time": "2026-10-06 15:00:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行副行長庫拉利：5.5%的基準利率水平可支撐物價穩定。"
+    },
+    {
+      "id": "5128127",
+      "time": "2026-10-06 15:00:18",
+      "tags": [
+        "資料"
+      ],
+      "text": "西班牙8月季調後工業產出年率 1.5%，前值由2.30%修正為2.5%。"
+    },
+    {
+      "id": "5128126",
+      "time": "2026-10-06 15:00:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市基準指數收盤下跌1.2%，報5,677.12點。"
+    },
+    {
+      "id": "5128125",
+      "time": "2026-10-06 15:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士9月季調後失業率 3.1%，預期 3.1%，前值 3.1%。瑞士9月未季調失業率 3%，預期 3%，前值 3%。"
+    },
+    {
+      "id": "mkt:01a11003-3ada-7ee0-a7b1-cf8e78a3eb1a",
+      "time": "2026-10-06 15:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spain August seasonally adjusted industrial production YoY 1.5%; prior reading revised up to 2.5% from 2.3%."
+    },
+    {
+      "id": "mkt:01a11003-3756-7ee0-a7b1-c1c9da81ccf6",
+      "time": "2026-10-06 15:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland September unadjusted unemployment rate 3.0%, unchanged from prior 3.0%."
+    },
+    {
+      "id": "mkt:01a11003-3448-7ee0-a7b1-be83bcd1ef6e",
+      "time": "2026-10-06 15:00:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland's seasonally adjusted unemployment rate for September was 3.1%, matching expectations and unchanged from the prior 3.10%."
+    },
+    {
+      "id": "5128124",
+      "time": "2026-10-06 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數漲0.09%，英國富時100指數漲0.34%，法國CAC40指數跌0.8%，歐洲斯托克50指數跌0.03%，義大利富時MIB指數漲0.66%。"
+    },
+    {
+      "id": "mkt:01a11003-1757-7ee0-a7b1-b70d3bdc5800",
+      "time": "2026-10-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Industrial Production SA (YoY) (Aug) | actual 1.5% | previous 2.30%"
+    },
+    {
+      "id": "mkt:01a11003-1730-7ee0-a7b1-a8cfcf114240",
+      "time": "2026-10-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Unemployment Rate SA (Sep) | actual 3.1% | consensus 3.1% | previous 3.10%"
+    },
+    {
+      "id": "mkt:01a11003-172c-7ee0-a7b1-a4ce82d13e5e",
+      "time": "2026-10-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Unemployment Rate NSA (Sep) | actual 3% | previous 3.00%"
+    },
+    {
+      "id": "5128123",
+      "time": "2026-10-06 14:59:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股房地產板塊表現活躍】10月6日，港股房地產板塊表現活躍。截至14時50分，富力地產漲超9%，世茂集團漲超8%，融創中國漲近6%，雅居樂集團、龍光集團等多股漲超5%，萬科企業漲超3%。"
+    },
+    {
+      "id": "5128122",
+      "time": "2026-10-06 14:59:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其逮捕伊斯坦布林埃於普蘇丹區區長。"
+    },
+    {
+      "id": "te:economy:589772",
+      "time": "2026-10-06 14:57:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Industrial Production Mom",
+        "Importance 2"
+      ],
+      "text": "France Industrial Output Surprisingly Falls — Industrial production in France fell 0.3% month-on-month in August 2026, defying expectations for a 0.3% rise and following a 0.6% decline in July. The drop was mainly driven by a 2.4% decline in extractive industries, energy and water, which more than offset a 0.3% increase in manufacturing. The energy decline was largely due to lower electricity production after output reached its highest level since December 2021 in July. Within manufacturing, output of other industrial products rose 1.2%, while electrical, electronic and computer equipment increased 0.9%. Coking and refining output also rose 3.3%. In contrast, transport equipment manufacturing fell 2.2%, while agri-food production dropped 1.2%. On a yearly basis, industrial output rose 0.3%, rebounding from a 0.6% fall in July. Over the three months to August, industrial production was down 0.1% from a year earlier."
+    },
+    {
+      "id": "5128121",
+      "time": "2026-10-06 14:57:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Reflection AI正式釋出Beam 對標主流開源模型】Reflection AI正式推出其首款前沿開源權重模型Beam。這家成立兩年、總部位於布魯克林的初創企業稱，Beam在高階推理基準測試上效能對標主流開源模型，同時成本大幅降低。企業週一在一篇長篇部落格中披露更多細節，稱Beam為純文字混合專家模型，基於高算力強化學習訓練，在推理、程式碼編寫與智慧體任務上具備出色能力，“token成本與推理算力僅為競品的一小部分”。Beam總引數量5010億，啟用引數量230億。預訓練使用23.8萬億token，上下文視窗達100萬token。Reflection宣稱的效能尚未經過獨立驗證，但該公司表示，在高階推理基準測試中，Beam得分與Z.ai的GLM-5.2相當，且優於當前主流西方開源模型，同時推理算力消耗“低3至4倍”。Reflection將其定位為面向企業、公共部門與開發者的“主力模型”。"
+    },
     {
       "id": "mkt:01a10fff-16a9-7ee0-a7b1-9f97f111cdcb",
       "time": "2026-10-06 14:55:37",
