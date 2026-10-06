@@ -1,7 +1,587 @@
 {
   "date": "2026-10-06",
-  "count": 1530,
+  "count": 1598,
   "items": [
+    {
+      "id": "5128945",
+      "time": "2026-10-06 23:59:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：擔憂人工智慧、關稅、能源成本帶來的影響或將持續更久。"
+    },
+    {
+      "id": "5128944",
+      "time": "2026-10-06 23:58:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【焦科維奇收退賽“大禮” 第七次奪得中網男單冠軍】2026中國網球公開賽6日晚再現曲折劇情。男單決賽中，澳大利亞選手德米納爾在第二盤退賽，塞爾維亞名將焦科維奇第七次捧得中網男單冠軍，並將自己的中網男單不敗紀錄延續至34場。（新華社）"
+    },
+    {
+      "id": "5128943",
+      "time": "2026-10-06 23:55:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會（NRC）：菲茨帕特里克反應堆功率由90%提升至100%。"
+    },
+    {
+      "id": "5128942",
+      "time": "2026-10-06 23:55:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會（NRC）：麥圭爾1號反應堆功率從55%提升至81%。"
+    },
+    {
+      "id": "te:markets:589919",
+      "time": "2026-10-06 23:54:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "German Stocks at Nearly 2-Week High — The DAX closed 0.8% higher at 25,449 on Tuesday, extending gains for a third consecutive session and reaching its highest level in around two weeks. The index tracked a broadly positive mood across European and US markets, supported by lower oil prices and bond yields. Concerns over France’s fiscal position remained a headwind for the broader market, however, alongside political uncertainty surrounding a snap election in Spain. Expectations for further ECB rate hikes have also receded, with markets now pricing in a nearly 80% probability of another rate increase by the end of the year. SAP (2.2%), Infineon (1.9%), Siemens (1.5%) and Siemens Energy (1.4%) posted strong gains, while Rheinmetall (-2.8%) was the worst performer on the DAX."
+    },
+    {
+      "id": "5128941",
+      "time": "2026-10-06 23:53:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱擊中烏克蘭皮夫登內港一艘油輪。"
+    },
+    {
+      "id": "5128940",
+      "time": "2026-10-06 23:48:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利政府預測2027年年度平均通脹率為2.9%。"
+    },
+    {
+      "id": "5128939",
+      "time": "2026-10-06 23:48:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利政府預估2026年年度平均通脹率為3.8%。"
+    },
+    {
+      "id": "5128938",
+      "time": "2026-10-06 23:48:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦試射國產增程版“法塔赫-4”陸基巡航導彈】據巴基斯坦三軍新聞局10月6日訊息，巴基斯坦當天成功進行了一次國產增程版“法塔赫-4”陸基巡航導彈的試射。巴基斯坦三軍新聞局稱，該系統配備先進航空電子裝置和最先進的導航輔助裝置，能夠以高精度和高殺傷力打擊目標。此次試射還驗證了為提高精度和增強生存能力而整合的各子系統的額外技術引數。（央視新聞）"
+    },
+    {
+      "id": "te:markets:589918",
+      "time": "2026-10-06 23:47:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rebounds as Oil Prices and Bond Yields Ease — The CAC 40 rose 0.4% to 7,865 on Tuesday, rebounding from the previous session amid easing oil prices and a pullback in global bond yields. Oil prices fell as resilient Middle Eastern crude exports and a G7 emergency stockpile release eased supply concerns, reducing energy-driven inflation pressures. Yields also eased from multi-year highs, offering some respite to credit-sensitive markets. Financials posted solid gains, with BNP Paribas up 2.5% and AXA adding 1.5%. Luxury and industrial stocks were mixed as concerns over France’s high debt levels and political uncertainty lingered. The government sought to ease market jitters by unveiling its 2027 budget. The state budget deficit widened to €159.6 billion in January-August from €157.5 billion a year earlier. LVMH added 1%, while Hermes shed 0.5%. Among industrials, STMicroelectronics gained 2.5%, tracking strength in US chipmakers. Schneider Electric lost 3.8%, extending Monday’s losses after announcing its acquisition of PTC."
+    },
+    {
+      "id": "5128937",
+      "time": "2026-10-06 23:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利政府預估2026年銅均價為每磅6.15美元。"
+    },
+    {
+      "id": "5128936",
+      "time": "2026-10-06 23:46:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利政府預計2027年銅均價為每磅5.65美元。"
+    },
+    {
+      "id": "5128935",
+      "time": "2026-10-06 23:45:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交官稱，制裁影響約1650個新實體和個人，使與俄羅斯相關的制裁物件總數增加50%。"
+    },
+    {
+      "id": "5128934",
+      "time": "2026-10-06 23:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交官表示，新增制裁物件包括約1,570家俄羅斯企業和個人，這些實體涉及軍工綜合體，特別是導彈生產領域。"
+    },
+    {
+      "id": "5128933",
+      "time": "2026-10-06 23:45:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交官稱，歐盟特使預計將於週三批准一系列針對俄羅斯的重大新制裁措施。"
+    },
+    {
+      "id": "5128932",
+      "time": "2026-10-06 23:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：瓦良格獨立旅攻擊無人機分隊對基輔北橋實施打擊。該橋樑被用於向烏克蘭武裝力量調運部隊、運送軍用物資。"
+    },
+    {
+      "id": "5128931",
+      "time": "2026-10-06 23:44:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "康菲石油首席經濟學家表示，委內瑞拉石油產業的復甦可能需要十年時間，還需投入數十億美元投資。"
+    },
+    {
+      "id": "5128930",
+      "time": "2026-10-06 23:43:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：阿聯酋正為以色列明日救援航班的執飛設定障礙。"
+    },
+    {
+      "id": "5128929",
+      "time": "2026-10-06 23:42:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我的（選舉）集會正在再次拯救共和黨。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202610063888823311",
+      "time": "2026-10-06 23:42:28",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【德國8月工業新訂單環比大幅下降】德國聯邦統計局6日公佈的資料顯示，經季節和工作日調整後，德國8月工業新訂單環比大幅下降10.6%。資料顯示，8月德國國內新訂單環比下降17.3%，國外新訂單下降5.4%，其中來自歐元區和歐元區以外的訂單分別下降5.4%和5.5%。"
+    },
+    {
+      "id": "5128928",
+      "time": "2026-10-06 23:41:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國能源部長羅林斯：美國種子供應方面即將釋出重大公告。"
+    },
+    {
+      "id": "5128927",
+      "time": "2026-10-06 23:41:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "康菲石油首席經濟學家表示，俄羅斯、委內瑞拉等國需要穩定的環境與合理的財稅條款，西方石油投資者才會迴流。"
+    },
+    {
+      "id": "5128926",
+      "time": "2026-10-06 23:39:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱，攔截並摧毀了葉門胡塞武裝向哈米斯穆沙伊特發射的一枚彈道導彈。"
+    },
+    {
+      "id": "5128925",
+      "time": "2026-10-06 23:37:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【嘴仗升級 南非美國外交關係持續趨緊】對於近期美國駐南非大使再次發表干涉南非內部事務言論，南非國際關係與合作部長羅納德·拉莫拉指出，美方大使如果不能做好作為外交官的分內之事，就該離職走人。（新華社）"
+    },
+    {
+      "id": "5128924",
+      "time": "2026-10-06 23:35:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "天空之舞（Skydance）聯席執行長承認，裁員或是整合過程的一部分。"
+    },
+    {
+      "id": "5128923",
+      "time": "2026-10-06 23:35:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟就發行計劃下的後續資金需求發出需求建議書（RFP）。"
+    },
+    {
+      "id": "5128922",
+      "time": "2026-10-06 23:34:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度：一商船在阿曼附近海域遭襲 12名船員受傷】印度外交部6日發表宣告說，一艘懸掛巴拿馬國旗的商船當日在阿曼附近海域透過霍爾木茲海峽時遭襲擊，造成12名船員受傷，其中11人為印籍船員。（新華社）"
+    },
+    {
+      "id": "te:markets:589917",
+      "time": "2026-10-06 23:33:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Cheese Hits 35-week Low — Cheese decreased to 1.43 USD/Lbs, the lowest since January 2026. Over the past 4 weeks, Cheese lost 7.82%, and in the last 12 months, it decreased 18.59%."
+    },
+    {
+      "id": "5128921",
+      "time": "2026-10-06 23:33:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷美航運因新增“阿卡迪亞號”，船隊規模擴張至12艘。"
+    },
+    {
+      "id": "5128920",
+      "time": "2026-10-06 23:32:54",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.945%，投標倍數2.78。"
+    },
+    {
+      "id": "5128919",
+      "time": "2026-10-06 23:32:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【香港繼續獲評為全球最自由經濟體】加拿大菲沙研究所6日釋出《世界經濟自由度2026年度報告》，香港繼續獲評為全球最自由經濟體。香港特區政府發言人當日表示，報告再次肯定香港的自由市場優勢，以及開放、高效和公平的營商環境。在五個評估大項中，香港在“國際貿易自由”蟬聯首位，“監管”維持全球第二。（央視新聞）"
+    },
+    {
+      "id": "5128918",
+      "time": "2026-10-06 23:31:57",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.47%，歐洲斯托克指數上漲0.58%，歐元區藍籌股指數上漲0.52%。英國富時100指數上漲0.43%，德國DAX指數上漲0.82%，法國CAC 40指數上漲0.44%，西班牙IBEX指數上漲0.66%。"
+    },
+    {
+      "id": "te:markets:589916",
+      "time": "2026-10-06 23:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 14 bps — Majority of government bonds yields are lower on Tuesday. Top losers are Brazil 10Y (-13.50bps), Italy 10Y (-10.18bps), US 10Y (-5bps) and Germany 10Y (-1.25bps). Gains are led by Japan 10Y (1bps)."
+    },
+    {
+      "id": "5128917",
+      "time": "2026-10-06 23:28:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西議員弗拉維奧·博索納羅：特朗普對巴西選舉的言論凸顯盧拉在全球舞臺上何等孤立。"
+    },
+    {
+      "id": "5128916",
+      "time": "2026-10-06 23:27:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "五角大樓技術長埃米爾·邁克爾：實驗室本可以預防過去的AI事故。"
+    },
+    {
+      "id": "5128915",
+      "time": "2026-10-06 23:26:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普聲稱：法國當下的情況完全就是失控的大規模移民問題。這無關學校，而是伊斯蘭勢力想要接管這個曾經偉大的國家。"
+    },
+    {
+      "id": "5128914",
+      "time": "2026-10-06 23:26:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "五角大樓技術長埃米爾·邁克爾：（談人工智慧工作組）目的是確保公司妥善處理。"
+    },
+    {
+      "id": "5128913",
+      "time": "2026-10-06 23:25:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃倫針對味好美聯合利華擬議交易、西斯科收購Restaurant Depot擬議交易致信司法部、聯邦貿易委員會；敦促司法部與聯邦貿易委員會對食品行業併購交易展開嚴格審查。"
+    },
+    {
+      "id": "5128912",
+      "time": "2026-10-06 23:23:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "五角大樓技術長埃米爾·邁克爾：人們應該知道人工智慧可以為他們服務。"
+    },
+    {
+      "id": "5128911",
+      "time": "2026-10-06 23:23:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "五角大樓技術長埃米爾·邁克爾：（談及人工智慧專項工作組）重點關注未來風險。"
+    },
+    {
+      "id": "5128910",
+      "time": "2026-10-06 23:22:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "五角大樓技術長埃米爾·邁克爾：希望擁有超過五家主承包商（打破國防採購市場高度集中的局面）。"
+    },
+    {
+      "id": "5128909",
+      "time": "2026-10-06 23:22:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "五角大樓技術長埃米爾·邁克爾：（談及國防科技初創企業Anduril合同一事）並無異常。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610063888819954",
+      "time": "2026-10-06 23:21:39",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲鮑曼稱央行將很快考慮提高銀行監管的資產規模門檻】美聯儲一位高階官員週二表示，美聯儲將很快公佈一項計劃，提高通常會觸發對美國大型銀行實施更嚴格監管的資產規模門檻。負責監管事務的美聯儲副主席米歇爾·鮑曼表示，美聯儲將在今年晚些時候尋求更新以固定美元金額設定的資產門檻規則，以反映通脹和經濟增長。"
+    },
+    {
+      "id": "5128908",
+      "time": "2026-10-06 23:20:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利森蒂內拉銅礦工人表示仍未達成合同協議，或引發罷工。"
+    },
+    {
+      "id": "5128907",
+      "time": "2026-10-06 23:19:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國副總統萬斯承認選民對特朗普政府存在不滿，並呼籲民眾保持耐心。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610063888819866",
+      "time": "2026-10-06 23:19:49",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲理事鮑曼表示，計劃在明年初啟動新的監管系統。"
+    },
+    {
+      "id": "5128906",
+      "time": "2026-10-06 23:19:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦軍方：成功試射了自主研發的法塔赫-4型陸基巡航導彈增程版本。"
+    },
+    {
+      "id": "5128905",
+      "time": "2026-10-06 23:18:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多本地媒體稱，受厄爾尼諾現象影響，該國可可產量可能下降10萬噸。"
+    },
+    {
+      "id": "5128904",
+      "time": "2026-10-06 23:18:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國延長委內瑞拉實況調查團任期。"
+    },
+    {
+      "id": "5128903",
+      "time": "2026-10-06 23:18:02",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通聘請資深交易撮合者Rob Sweeney，以推動投資銀行業務擴張。"
+    },
+    {
+      "id": "5128902",
+      "time": "2026-10-06 23:17:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：計劃明年年初啟用全新監管體系。"
+    },
+    {
+      "id": "5128901",
+      "time": "2026-10-06 23:17:04",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲鮑曼：未來幾個月將為新的地區領導人職位釋出招聘公告。"
+    },
+    {
+      "id": "5128900",
+      "time": "2026-10-06 23:16:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金銀市場協會（LBMA）對參會代表的調查：黃金一年後料至每盎司5013美元。"
+    },
+    {
+      "id": "5128899",
+      "time": "2026-10-06 23:16:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲投資銀行：向美國證交會提交154.7億美元債務證券暫擱註冊申請。"
+    },
+    {
+      "id": "5128898",
+      "time": "2026-10-06 23:15:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2032布里斯班奧運會和殘奧會會徽揭曉】2032年布里斯班奧組委日前釋出奧運會與殘奧會會徽。會徽以澳大利亞本土鳥類為核心主體，融入昆士蘭州、聖火和當地文化元素。其中彩冠鳳頭鸚鵡代表奧運會，葵花鸚鵡代表殘奧會。（新華社）"
+    },
+    {
+      "id": "5128897",
+      "time": "2026-10-06 23:13:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“中國內地電影展2026”在香港開幕】“中國內地電影展2026”6日在香港大會堂舉行開幕典禮，選映12部內地電影，展現內地影壇創作潛能，推動內地與香港文化交流。 香港特區政府文化體育及旅遊局副局長劉震在致辭中表示，電影作為富有感染力的大眾藝術，是講好中國故事、傳承中華文化、促進民心相通的重要載體。特區政府將積極發揮橋樑作用，持續推動內地與香港的文化交流互鑑。（新華社）"
+    },
+    {
+      "id": "5128896",
+      "time": "2026-10-06 23:13:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國8月工業新訂單環比大幅下降】德國聯邦統計局6日公佈的資料顯示，經季節和工作日調整後，德國8月工業新訂單環比大幅下降10.6%。資料顯示，8月德國國內新訂單環比下降17.3%，國外新訂單下降5.4%，其中來自歐元區和歐元區以外的訂單分別下降5.4%和5.5%。（新華社）"
+    },
+    {
+      "id": "5128895",
+      "time": "2026-10-06 23:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "費列羅：承諾截至2027年投入超5000萬美元用於美國市場營銷推廣。"
+    },
+    {
+      "id": "5128894",
+      "time": "2026-10-06 23:11:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭基輔北橋受損路段修復工作已完工。"
+    },
+    {
+      "id": "5128893",
+      "time": "2026-10-06 23:11:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行政策委員會審議委員佐藤：希望評估消費與收入的變化態勢。"
+    },
+    {
+      "id": "te:economy:589915",
+      "time": "2026-10-06 23:11:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "GDPNow",
+        "Importance 1"
+      ],
+      "text": "Atlanta Fed GDPNow Holds Q3 Growth Estimate at 3.7% — The Atlanta Fed’s GDPNow model estimate for third-quarter 2026 real GDP growth, at a seasonally adjusted annual rate, stood at 3.7% on October 6, unchanged from October 1 after rounding. Following recent releases from the US Census Bureau, Bureau of Labor Statistics, Bureau of Economic Analysis and Institute for Supply Management, increases in the nowcasts for third-quarter real personal consumption expenditures growth and real gross private domestic investment growth, from 3.3% to 3.4% and 21.4% to 21.5%, respectively, were offset by a larger drag from net exports. The estimated contribution of net exports to third-quarter real GDP growth fell from -2.59 percentage points to -2.69 percentage points."
+    },
+    {
+      "id": "5128892",
+      "time": "2026-10-06 23:11:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行政策委員會審議委員佐藤：個人消費動能不強。"
+    },
+    {
+      "id": "5128891",
+      "time": "2026-10-06 23:10:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "法庭聽證會摘要顯示：迪士尼法務稱美國聯邦通訊委員會“想要叫停、審查、管控”美國廣播公司對特朗普政府的相關報道。"
+    },
+    {
+      "id": "5128890",
+      "time": "2026-10-06 23:08:11",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將Shopify目標股價從每股185美元上調至每股200美元，維持Shopify增持評級。"
+    },
+    {
+      "id": "5128889",
+      "time": "2026-10-06 23:07:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行政策委員會審議委員佐藤：贊同階段性調整利率的政策。"
+    },
+    {
+      "id": "5128888",
+      "time": "2026-10-06 23:06:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【無人機襲擊致俄羅斯大型煉油廠停產】訊息人士稱，俄羅斯伏爾加格勒煉油廠因無人機襲擊造成裝置受損，已於10月2日完全停止原油加工。這座盧克石油旗下煉油廠的原油加工能力約為每日28萬桶，約佔俄羅斯總煉油產能的5%。此次停產或將加劇俄羅斯現有的燃油供應緊張局面，接連不斷的襲擊正持續破壞該國煉油基礎設施。"
+    },
+    {
+      "id": "5128887",
+      "time": "2026-10-06 23:05:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗安全負責人稱，美國針對伊朗的經濟戰將會失敗，正如其軍事行動一樣。"
+    },
+    {
+      "id": "5128886",
+      "time": "2026-10-06 23:04:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星電子正在越南建設一座大型半導體測試工廠】據報道，三星電子正在越南建設一座大型半導體測試工廠，以此落實出口基地多元化戰略，滿足人工智慧基礎設施擴張帶來的儲存晶片激增需求。此前晶片測試業務大多集中在韓國本土，該計劃旨在海外佈局測試工廠，拓寬出口基地，保障能夠穩定向全球客戶供應儲存晶片。 檔案顯示，三星已於今年3月在越南設立後端晶片子公司三星越南半導體（SVS），並在越南太原省安濱工業園區CN-11、CN-12片區建設半導體測試工廠。"
+    },
     {
       "id": "5128885",
       "time": "2026-10-06 23:04:14",
