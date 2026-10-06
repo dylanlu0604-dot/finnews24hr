@@ -1,7 +1,243 @@
 {
-  "updated": "2026-10-06 15:13:03",
-  "count": 10134,
+  "updated": "2026-10-06 15:16:53",
+  "count": 10146,
   "items": [
+    {
+      "id": "5128168",
+      "time": "2026-10-06 15:16:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國稱美國希望借特朗普亞洲之行敲定關稅協議】泰國政府發言人週二表示，泰國政府收到特朗普的信函，信中稱美國希望在總統唐納德・特朗普即將開啟的亞洲之行期間，完成並簽署一份美泰關稅協議。信函並未寫明協議簽署的具體時間。泰國商務部稱，談判已進入最後階段。"
+    },
+    {
+      "id": "5128167",
+      "time": "2026-10-06 15:15:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利富時MIB指數日內漲幅達1.00%。西班牙IBEX35指數突破19500點，日內漲1.04%。"
+    },
+    {
+      "id": "5128166",
+      "time": "2026-10-06 15:15:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度國家證券交易所Nifty金融服務指數上漲1.15%。"
+    },
+    {
+      "id": "mkt:01a11011-3518-7ee0-a7b2-9ab8a0f5d70b",
+      "time": "2026-10-06 15:15:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "European Commission President Von der Leyen said the commission will set up a task force to pool energy demand and instruct market operators to carry out joint procurement."
+    },
+    {
+      "id": "5128165",
+      "time": "2026-10-06 15:15:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "伊拉克8月份消費者價格指數同比上漲3.3%。"
+    },
+    {
+      "id": "5128164",
+      "time": "2026-10-06 15:15:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Live Nation Entertainment宣佈啟動高階無擔保票據非公開發行。"
+    },
+    {
+      "id": "mkt:01a11011-08ec-7ee0-a7b2-931c9284db21",
+      "time": "2026-10-06 15:15:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Italy's FTSE MIB rose 1.00% intraday. Spain's IBEX 35 breached 19,500 points and was up 1.04% intraday."
+    },
+    {
+      "id": "5128163",
+      "time": "2026-10-06 15:15:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：我們將成立特別工作組整合能源需求，並委託一家市場運營商負責聯合採購。"
+    },
+    {
+      "id": "mkt:01a11010-c615-7ee0-a7b2-8af166671c52",
+      "time": "2026-10-06 15:14:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Apple-1 could fetch up to $800,000 at Bonhams auction】A rare Apple-1 computer is being offered in an online Bonhams auction with bidding open Oct. 4-14 and an estimate of $500,000-$800,000. The machine, bought by its original owner in 1976, has a motherboard signed by Apple co-founder Steve Wozniak. The Apple-1 was sold as an assembled circuit board for $666 at launch; fewer than 75 units are confirmed to survive."
+    },
+    {
+      "id": "5128162",
+      "time": "2026-10-06 15:14:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國工業生產意外下滑，電力產量下降】法國8月份工業生產意外下滑，電力需求下降抵消了製造業的小幅增長。法國8月份工業生產環比下降0.3%，主要反映出發電量較7月有所回落。7月份法國的工業生產曾創下自2021年以來的最高水平，經濟學家此前預測8月份工業生產將小幅增長。此次下滑抵消了製造業產出環比增長0.3%的表現。資料凸顯出該歐元區第二大經濟體在恢復經濟增長方面舉步維艱。法國今年上半年勉強避免陷入衰退，如今又面臨新的阻力，市場擔憂少數派政府能否遏制不斷擴大的財政赤字。經濟和財政方面的挑戰加劇了債券市場的拋售，導致法國相對於其他國家的借貸成本升至歐元區債務危機以來的最高水平。"
+    },
+    {
+      "id": "5128161",
+      "time": "2026-10-06 15:14:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：我們將啟動歐洲煉油行業戰略對話，以降低成本並保障供應穩定，將根據甲烷法規給予出口商一年額外寬限期。"
+    },
+    {
+      "id": "5128160",
+      "time": "2026-10-06 15:14:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行首席經濟學家：各國規劃不能只著眼短期】歐洲央行首席經濟學家連恩表示：各國政府的規劃不能只著眼短期。雖然各國需要制定 2027 年預算，但在思考未來五到十年的挑戰時，必須重視長期利率水平，同時關注經濟增長潛力。政府必須保持現實，把未來數年將要面對的利率水平納入考量。這更加凸顯提振經濟增速的重要性。"
+    },
+    {
+      "id": "mkt:01a11010-04ac-7ee0-a7b2-84757ddecac3",
+      "time": "2026-10-06 15:14:07",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "EU Commission President Von der Leyen said the commission will launch a strategic dialogue with European refineries to lower costs and secure supplies."
+    },
+    {
+      "id": "mkt:01a1100f-e3c6-7ee0-a7b2-7905c3480160",
+      "time": "2026-10-06 15:13:59",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "EU Commission President von der Leyen said the Commission will grant exporters an additional one-year grace period under the methane regulation."
+    },
+    {
+      "id": "te:economy:589785",
+      "time": "2026-10-06 15:13:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Slovakia Retail Sales Rebound in August — Retail sales in Slovakia rose by 1.6% year-on-year in August 2026, rebounding from a 0.1% fall in the previous month. Turnover recovered in food, beverages, and tobacco in specialized stores (0.4% vs -1.6% in July), while activity increased in information and communication equipment (8.5% vs 8.1%), other household goods in specialized stores (8.6% vs 3.3%), and other goods in specialized stores (1.8% vs 0.3%). Moreover, activity dropped at a softer pace in sales via stalls and markets (-10.2% vs -16.9%) and sales not in stores, stalls, or markets (-4.6% vs -11.8%). In contrast, sales growth moderated in automotive fuels in specialized stores (0.4% vs 1.6%), while activity declined in cultural and recreational goods in specialized stores (-4.3% vs 0.3%). On a seasonally adjusted monthly basis, retail trade grew by 0.9%, following a 0.2% increase in the preceding period."
+    },
+    {
+      "id": "5128159",
+      "time": "2026-10-06 15:13:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "東芝：有關與 TDK 洽談硬碟磁頭業務的報道並非我方訊息源。"
+    },
+    {
+      "id": "mkt:01a1100f-7e74-7ee0-a7b2-75d6288630c8",
+      "time": "2026-10-06 15:13:33",
+      "tags": [
+        "MKT News",
+        "ALO.PA",
+        "Impact bullish"
+      ],
+      "text": "Vingroup said France’s Alstom will supply 200 Metropolis trainsets for Hanoi’s urban rail transit project and will transfer technology to Vietnam."
+    },
+    {
+      "id": "5128158",
+      "time": "2026-10-06 15:13:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利官員表示，一旦政府就歐元作出決定，匈牙利不應推遲加入歐洲匯率機制II。"
+    },
+    {
+      "id": "mkt:01a1100f-268b-7ee0-a7b2-6ddfd0c1b19d",
+      "time": "2026-10-06 15:13:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "European Commission President Von der Leyen said state aid must be targeted at households most in need to help them pay energy bills."
+    },
+    {
+      "id": "mkt:01a1100f-1ba1-7ee0-a7b2-652034916a18",
+      "time": "2026-10-06 15:13:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【France industrial production unexpectedly falls in August as power generation drops】France industrial production fell 0.3% MoM in August, driven mainly by a pullback in power generation that offset a 0.3% MoM rise in manufacturing. July's output had been the strongest since 2021 and economists had expected a slight increase for August. The print highlights continued weakness in the eurozone's second-largest economy; France narrowly avoided recession in 1H and now faces new headwinds. Markets worry the minority government may struggle to rein in a widening fiscal deficit, a dynamic that has intensified sovereign bond selling and pushed France's borrowing costs versus peers to levels not seen since the eurozone debt crisis."
+    },
+    {
+      "id": "5128157",
+      "time": "2026-10-06 15:13:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果一號電腦或拍出80萬美元】一臺罕見的蘋果一號電腦正在邦瀚斯拍賣行進行線上拍賣，開放競價日期為本月（10月）4日至14日，估價為50萬美元至80萬美元。據拍賣行介紹，這臺電腦由原主人於1976年購入，主機板上有蘋果聯合創始人沃茲尼亞克的簽名。蘋果一號電腦是蘋果公司的首款電腦產品，以組裝好的電路板形式出售，當時售價666美元，目前確認存世的不足75臺。 （央視財經）"
+    },
+    {
+      "id": "5128156",
+      "time": "2026-10-06 15:12:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟的馮德萊恩：幫助家庭支付能源賬單的補貼必須精準投向最需要的人群。"
+    },
+    {
+      "id": "5128155",
+      "time": "2026-10-06 15:12:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "VinGroup：首批83列五節編組列車將在法國完成設計與製造，剩餘117列將在越南生產組裝。"
+    },
+    {
+      "id": "5128154",
+      "time": "2026-10-06 15:12:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "越南Vingroup集團：法國阿爾斯通將為河內城市軌道交通專案供應總計200列大都會型地鐵列車組，並向越南轉讓技術。"
+    },
+    {
+      "id": "5128153",
+      "time": "2026-10-06 15:12:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行官員表示，匈牙利需要與通脹目標相符的ERM2匯率水平。"
+    },
     {
       "id": "5128152",
       "time": "2026-10-06 15:12:20",
@@ -93238,125 +93474,6 @@
         "其他"
       ],
       "text": "【華夏基金“攜手”富蘭克林鄧普頓在港上市ETF 或為中外資管機構合作建立新正規化】記者29日自華夏基金獲悉，華夏基金今日依託華夏基金（香港）在港交所上市兩隻ETF，主要投向在不確定市場環境下具備現金創造能力的企業，以及研發驅動的創新藥企業。相關產品由華夏基金（香港）與富蘭克林鄧普頓合作開發，華夏基金（香港）發行及管理。業內人士認為，隨著中國優質資產的全球吸引力持續攀升，公募基金“出海”明顯提速，華夏基金和富蘭克林鄧普頓此番“攜手”或為中資公募機構與全球資管巨頭合作建立新正規化。（上證報）"
-    },
-    {
-      "id": "te:markets:587526",
-      "time": "2026-09-29 15:16:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "India 10Y Yield Eases From Two-Year High — The yield on India’s 10-year G-Sec eased to around 7.16%, retreating after reaching more than two-year highs as lower-than-feared government borrowing provided some relief, while some buying emerged after Monday’s sharp selloff. The government reduced its FY27 gross borrowing target to about INR 15.99 trillion from INR 17.2 trillion previously, which could ease supply concerns, although the shift toward longer-duration issuance remains a headwind. Meanwhile, the US 10-year yield held around 5.23% after touching its highest level since June 2007, while Brent crude rose to around $106.65 a barrel, keeping inflation risks elevated and strengthening expectations of an RBI rate hike next week. Further RBI bond sales to drain surplus liquidity could also add to supply pressures, limiting the decline in yields."
-    },
-    {
-      "id": "5117996",
-      "time": "2026-09-29 15:16:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鮑師傅超長蛋撻被吐槽“全是皮沒蛋液”，客服回應】近日，多位消費者在社交平臺曬出自己購買的鮑師傅超長蛋撻。有消費者點贊超長蛋撻“便宜好玩適合送人”；但也有不少消費者吐槽蛋撻咬開後內部大面積是空洞的酥皮結構，餡料僅薄薄一層。其中一位消費者表示，鮑師傅超長蛋撻剝開後幾乎只剩酥皮，“又幹又難吃，是智商稅”。9月28日，鮑師傅官方客服告訴記者，超長蛋撻並非所有門店售賣，要看具體門店的情況。對於製作工藝，其稱全國各門店標準一致，新品上線時會有專門的製作師傅到門店進行教學。公開資訊顯示，鮑師傅超長蛋撻於9月20日上線，長度約60釐米。抖音商家資料顯示，鮑師傅超長蛋撻零售價18.9元一個，截至9月28日，該產品已售超70萬份。（九派新聞）"
-    },
-    {
-      "id": "mkt:01a0ec05-6828-7338-ab06-697bc7edca9a",
-      "time": "2026-09-29 15:16:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China bond futures midday close】2-year bond futures (TS) most-active contract rose 0.04%; 5-year (TF) up 0.07%; 10-year (T) up 0.10%; 30-year (TL) up 0.52% at the midday close."
-    },
-    {
-      "id": "te:markets:587525",
-      "time": "2026-09-29 15:16:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.24% Higher — The Shangai Composite Index rose 9 points or 0.24 percent on Tuesday to close at 3833 points. Leading the gains are Guangzhou Automobile (10.02%), Greenland Holdings (6.38%) and China Fortune (6.20%). Top losers were Hengli Petrochemical (-2.98%), Sinopec (-2.03%) and China Coal (-1.97%)."
-    },
-    {
-      "id": "5117995",
-      "time": "2026-09-29 15:15:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科技部：重點做好6方面工作 推動科技強國建設不斷邁上新臺階】科技部將堅持“四個面向”，牢牢把握新一輪科技革命和產業變革的歷史機遇，以加快高水平科技自立自強、引領發展新質生產力為主線，以原創性引領性科技攻關為主攻方向，推動科技強國建設不斷邁上新臺階。重點做好6個方面工作："
-    },
-    {
-      "id": "te:economy:587524",
-      "time": "2026-09-29 15:15:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Spain Retail Sales Fall for 2nd Month — Retail sales in Spain fell by 0.4% year-on-year in August 2026, matching the decline recorded in July and marking the second consecutive annual contraction. Automotive fuel sales dropped 7.1%, while food, beverages and tobacco sales in specialised stores declined 4.4%. Sales of information and communication equipment also fell 1.7%, while household equipment decreased 0.2%. In contrast, cultural and recreation goods recorded strong growth of 11%, followed by retail trade outside traditional stores, stalls and markets, which increased 9.7%. Internet and mail-order sales rose 8.7%, while sales through stalls and markets increased 3.4%. Retail trade excluding service stations grew 0.3%, indicating some resilience outside fuel sales. On a seasonally adjusted monthly basis, however, retail trade increased 0.3% in August, reversing July’s 1% decline."
-    },
-    {
-      "id": "5117994",
-      "time": "2026-09-29 15:15:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.53%， 10年期主力合約漲0.10%， 5年期主力合約漲0.07%， 2年期主力合約漲0.04%。"
-    },
-    {
-      "id": "5117993",
-      "time": "2026-09-29 15:14:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長將返回德黑蘭等待美方回應】據伊朗邁赫爾通訊社今天（9月29日）報道，伊朗外交部長阿拉格齊當天在接受媒體採訪時，闡述了其赴紐約出席第81屆聯合國大會的主要目標之一：向世界傳達伊朗在戰爭問題——特別是霍爾木茲海峽問題上的立場。 阿拉格齊同時確認，當天與作為調解方的卡達再次會面，並透過卡達向美國轉達了“7日計劃”，正在等待美方透過調解方作出的正式回應。 當被問及是留在紐約等待美國回應時，阿拉格齊表示，他將啟程返回德黑蘭，卡達方面一旦有回應，他們知道如何轉達給伊朗方面。 （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a0ec03-7294-7338-ab06-66e90e8feb1d",
-      "time": "2026-09-29 15:14:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "FTSE100"
-      ],
-      "text": "UK housebuilders index, which jumped 10% on Monday, fell 0.6% today."
-    },
-    {
-      "id": "5117992",
-      "time": "2026-09-29 15:13:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國住宅建築商指數<.FTNMX402020>在週一暴漲10%後，今日下跌0.6%。"
-    },
-    {
-      "id": "mkt:01a0ec02-ee6a-7338-ab06-5b137051cb67",
-      "time": "2026-09-29 15:13:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps spokesman said US President Trump is \"a big liar\" and that the American people need to know the truth."
-    },
-    {
-      "id": "5117991",
-      "time": "2026-09-29 15:13:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊發言人表示，特朗普是“一個大騙子”，美國人民需要知道真相。"
-    },
-    {
-      "id": "5117990",
-      "time": "2026-09-29 15:13:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巴西對原產於中國的鎂錠啟動第四次反傾銷日落複審調查】9月24日，巴西發展、工業、貿易和服務部外貿秘書處釋出2026年第90號公告，應巴西國內企業RIMA Industrial S.A.於2026年5月28日提交的申請，對原產於中國的鎂錠啟動第四次反傾銷日落複審調查。涉案產品的南共市稅號為8104.11.00和8104.19.00。本案傾銷調查期為2025年4月至2026年3月，損害調查期為2021年4月至2026年3月。公告自發布之日起生效。"
     }
   ]
 }
