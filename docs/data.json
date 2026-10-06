@@ -1,7 +1,102 @@
 {
-  "updated": "2026-10-07 04:02:31",
-  "count": 9697,
+  "updated": "2026-10-07 04:06:17",
+  "count": 9685,
   "items": [
+    {
+      "id": "mkt:01a112d2-a95a-7ee0-a7c4-e979e0ea9825",
+      "time": "2026-10-07 04:05:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. equities closed higher on Oct 6: Dow Jones Industrial Average +253.32 points (+0.49%) at 51,521.22; S&P 500 +45.03 points (+0.58%) at 7,818.98; Nasdaq Composite +122.48 points (+0.45%) at 27,599.79."
+    },
+    {
+      "id": "mkt:01a112d2-a017-7ee0-a7c4-e1795e6ce357",
+      "time": "2026-10-07 04:05:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said you will soon know how we will resolve the Iran issue."
+    },
+    {
+      "id": "mkt:01a112d2-902c-7ee0-a7c4-dc71643c0376",
+      "time": "2026-10-07 04:05:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump on Iran said we must finish it, but the question is how to finish it."
+    },
+    {
+      "id": "mkt:01a112d2-848b-7ee0-a7c4-d19229248add",
+      "time": "2026-10-07 04:05:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Two sources said Venezuela's Cardón refinery shut down after a fire."
+    },
+    {
+      "id": "5129124",
+      "time": "2026-10-07 04:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很快你們就會知道我們將如何了結伊朗問題。"
+    },
+    {
+      "id": "5129123",
+      "time": "2026-10-07 04:04:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：必須結束，問題在於如何結束。"
+    },
+    {
+      "id": "mkt:01a112cf-e065-7ee0-a7c4-cdfab4ce45de",
+      "time": "2026-10-07 04:02:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF staff concluded a visit to Malawi to discuss a program under the Extended Credit Facility."
+    },
+    {
+      "id": "mkt:01a112cf-d5f7-7ee0-a7c4-c5ab840e9481",
+      "time": "2026-10-07 04:02:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia warns a pullback in AI-related stocks could damp household spending."
+    },
+    {
+      "id": "mkt:01a112cf-d0d4-7ee0-a7c4-b88aac761518",
+      "time": "2026-10-07 04:02:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia says NAIRU is 4.6%, in line with the current unemployment rate."
+    },
+    {
+      "id": "5129119",
+      "time": "2026-10-07 04:02:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Ciena Corp.（CIEN）收漲14%，創2025年9月份以來最大單日漲幅。"
+    },
+    {
+      "id": "5129118",
+      "time": "2026-10-07 04:02:15",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲：AI 板塊股票回撥可能衝擊居民消費。"
+    },
     {
       "id": "5129117",
       "time": "2026-10-07 04:01:06",
@@ -89089,234 +89184,6 @@
         "Impact bullish"
       ],
       "text": "WILLIAMS said strong investment in AI is important for boosting future productivity."
-    },
-    {
-      "id": "mkt:01a0eec6-690e-7338-ab1c-93738f5e4b4f",
-      "time": "2026-09-30 04:06:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Fed's WILLIAMS said he does not think the ongoing rise in yields reflects a shift in long-term inflation expectations."
-    },
-    {
-      "id": "5119453",
-      "time": "2026-09-30 04:06:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：油價也是影響債券收益率的一個因素。"
-    },
-    {
-      "id": "mkt:01a0eec6-00c8-7338-ab1c-8d7ae5d64b3d",
-      "time": "2026-09-30 04:05:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve's Williams said AI has not yet produced a material change in employment levels."
-    },
-    {
-      "id": "5119452",
-      "time": "2026-09-30 04:05:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：債券收益率上升並不意味著市場對通脹的擔憂加劇。"
-    },
-    {
-      "id": "5119451",
-      "time": "2026-09-30 04:05:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：不認為收益率上行預示著長期通脹預期發生改變。"
-    },
-    {
-      "id": "mkt:01a0eec5-d822-7338-ab1c-83866d570bb4",
-      "time": "2026-09-30 04:05:38",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) CEO Zuckerberg pledged to establish control mechanisms and systems to detect technical issues."
-    },
-    {
-      "id": "5119450",
-      "time": "2026-09-30 04:05:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：強勁的人工智慧投資對提振未來生產率至關重要。"
-    },
-    {
-      "id": "5119449",
-      "time": "2026-09-30 04:05:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：迄今為止，人工智慧並未造成就業規模發生重大變化。"
-    },
-    {
-      "id": "5119447",
-      "time": "2026-09-30 04:05:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：比爾·蓋茨並未表現出對人工智慧的擔憂】特朗普表示，在與比爾·蓋茨交談時，蓋茨並未表現出對人工智慧風險的擔憂。當被問及蓋茨週日關於“人工智慧可能導致10億人死亡”的言論時，特朗普在白宮會見人工智慧企業高管後告訴記者：“我可以告訴你，昨天他完全沒有這麼說。實際上，他的態度恰恰相反。”"
-    },
-    {
-      "id": "5119446",
-      "time": "2026-09-30 04:05:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic執行長阿莫代伊：依然認為人工智慧存在“非常真實的風險”。"
-    },
-    {
-      "id": "5119445",
-      "time": "2026-09-30 04:04:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：人工智慧公司會互相監督。"
-    },
-    {
-      "id": "mkt:01a0eec4-bd4a-7338-ab1c-7a3ba937721e",
-      "time": "2026-09-30 04:04:25",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDCHF"
-      ],
-      "text": "【Dollar index up 0.17% to 101.372 on the 29th】DXY rose 0.17% to 101.372 at the New York close. EUR/USD 1.1341, down from 1.1368; GBP/USD 1.3229, down from 1.3261. USD/JPY 157.22, versus 157.40 previously. USD/CHF 0.8336, up from 0.8319; USD/CAD 1.4178, up from 1.4171; USD/SEK 9.9892, up from 9.9537."
-    },
-    {
-      "id": "mkt:01a0eec4-b9c0-7338-ab1c-709e83ca1bed",
-      "time": "2026-09-30 04:04:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms"
-      ],
-      "text": "US President Trump said Zuckerberg's views are very neutral."
-    },
-    {
-      "id": "5119444",
-      "time": "2026-09-30 04:04:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普稱他與科技巨頭簽署AI協議並考慮組建委員會】美國總統特朗普說，他和科技企業的CEO們簽署了一項具有“道德約束力”的人工智慧協議。他說正在考慮組建一個由大約10人組成的委員會來監督人工智慧，稱他看到了人工智慧行業“驚人的”自我監管能力。"
-    },
-    {
-      "id": "5119443",
-      "time": "2026-09-30 04:04:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普稱他與科技巨頭簽署AI協議並考慮組建委員會】美國總統特朗普說，他和科技企業的CEO們簽署了一項具有“道德約束力”的人工智慧協議。他說正在考慮組建一個由大約10人組成的委員會來監督人工智慧，稱他看到了人工智慧行業“驚人的”自我監管能力。"
-    },
-    {
-      "id": "mkt:01a0eec4-68ab-7338-ab1c-6a49f4431ba6",
-      "time": "2026-09-30 04:04:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said ANTHROPIC CEO Dario Amodei has been great."
-    },
-    {
-      "id": "mkt:01a0eec4-442f-7338-ab1c-62c7e37d730f",
-      "time": "2026-09-30 04:03:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "US equities closed lower on Tuesday, Sept. 29: Dow Jones Industrial Average down 130.70 points (0.25%) at 51,350.81; S&P 500 down 12.51 points (0.16%) at 7,671.18; Nasdaq Composite down 22.84 points (0.09%) at 26,797.54."
-    },
-    {
-      "id": "mkt:01a0eec4-406d-7338-ab1c-5c2494391400",
-      "time": "2026-09-30 04:03:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC CEO Amodei said the technology poses very real risks and the company is still discussing how to address them."
-    },
-    {
-      "id": "5119442",
-      "time": "2026-09-30 04:03:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦住房金融局（FHFA）局長普爾特：信用評分領域的濫用行為正在得到處理，信用局之間需要展開競爭。"
-    },
-    {
-      "id": "5119438",
-      "time": "2026-09-30 04:03:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守89美元/桶，日內跌3.91%。"
-    },
-    {
-      "id": "5119437",
-      "time": "2026-09-30 04:03:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：扎克伯格的觀點非常中立。"
-    },
-    {
-      "id": "mkt:01a0eec3-7953-7338-ab1c-56e10a4df904",
-      "time": "2026-09-30 04:03:02",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. banking regulators said they reviewed resolution plans (living wills) submitted by 15 banks with assets exceeding $250 billion and found no deficiencies."
-    },
-    {
-      "id": "5119436",
-      "time": "2026-09-30 04:02:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic執行長阿莫代伊：技術存在切實風險，如何應對這些風險仍在討論當中。"
     }
   ]
 }

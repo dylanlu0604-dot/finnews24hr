@@ -1,7 +1,102 @@
 {
   "date": "2026-10-07",
-  "count": 250,
+  "count": 261,
   "items": [
+    {
+      "id": "mkt:01a112d2-a95a-7ee0-a7c4-e979e0ea9825",
+      "time": "2026-10-07 04:05:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. equities closed higher on Oct 6: Dow Jones Industrial Average +253.32 points (+0.49%) at 51,521.22; S&P 500 +45.03 points (+0.58%) at 7,818.98; Nasdaq Composite +122.48 points (+0.45%) at 27,599.79."
+    },
+    {
+      "id": "mkt:01a112d2-a017-7ee0-a7c4-e1795e6ce357",
+      "time": "2026-10-07 04:05:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said you will soon know how we will resolve the Iran issue."
+    },
+    {
+      "id": "mkt:01a112d2-902c-7ee0-a7c4-dc71643c0376",
+      "time": "2026-10-07 04:05:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump on Iran said we must finish it, but the question is how to finish it."
+    },
+    {
+      "id": "mkt:01a112d2-848b-7ee0-a7c4-d19229248add",
+      "time": "2026-10-07 04:05:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Two sources said Venezuela's Cardón refinery shut down after a fire."
+    },
+    {
+      "id": "5129124",
+      "time": "2026-10-07 04:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很快你們就會知道我們將如何了結伊朗問題。"
+    },
+    {
+      "id": "5129123",
+      "time": "2026-10-07 04:04:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：必須結束，問題在於如何結束。"
+    },
+    {
+      "id": "mkt:01a112cf-e065-7ee0-a7c4-cdfab4ce45de",
+      "time": "2026-10-07 04:02:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF staff concluded a visit to Malawi to discuss a program under the Extended Credit Facility."
+    },
+    {
+      "id": "mkt:01a112cf-d5f7-7ee0-a7c4-c5ab840e9481",
+      "time": "2026-10-07 04:02:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia warns a pullback in AI-related stocks could damp household spending."
+    },
+    {
+      "id": "mkt:01a112cf-d0d4-7ee0-a7c4-b88aac761518",
+      "time": "2026-10-07 04:02:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia says NAIRU is 4.6%, in line with the current unemployment rate."
+    },
+    {
+      "id": "5129119",
+      "time": "2026-10-07 04:02:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Ciena Corp.（CIEN）收漲14%，創2025年9月份以來最大單日漲幅。"
+    },
+    {
+      "id": "5129118",
+      "time": "2026-10-07 04:02:15",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲：AI 板塊股票回撥可能衝擊居民消費。"
+    },
     {
       "id": "5129117",
       "time": "2026-10-07 04:01:06",
