@@ -1,7 +1,45 @@
 {
-  "updated": "2026-10-06 23:01:41",
-  "count": 9827,
+  "updated": "2026-10-06 23:05:33",
+  "count": 9825,
   "items": [
+    {
+      "id": "5128885",
+      "time": "2026-10-06 23:04:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "兩名訊息人士稱，俄羅斯伏爾加格勒煉油廠在遭遇無人機襲擊後，已於10月2日停止原油加工。"
+    },
+    {
+      "id": "5128884",
+      "time": "2026-10-06 23:03:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行稱，9月核心月度消費者物價指數有所下降。"
+    },
+    {
+      "id": "mkt:01a111bd-0cfc-7ee0-a7bf-3bf6e00a00d8",
+      "time": "2026-10-06 23:02:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Two sources said Russia's Volgograd refinery halted refining operations after a drone strike on Oct. 2."
+    },
+    {
+      "id": "5128883",
+      "time": "2026-10-06 23:01:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：節後情緒有望出現回升】中信建投釋出研報稱，9月市場持續弱勢，情緒指數在上半月持續下滑，到9月15日降至35附近的階段低點後展開修復行情。然而情緒指數在9月22日升至52附近後再次回落，未能突破55，甚至很快跌至50下方，到月末再次降至38以下。從短期看，國慶節前市場明顯縮量、情緒回落符合季節效應，節後情緒有望出現回升，展開修復行情。從長期看，相比8月情緒指數未能突破60，9月情緒指數甚至未能突破55隨即開始回落，導致情緒指數高點進一步下行，後續需要警惕增量資金存量博弈的情況，可以觀察節後情緒指數能否突破55回升至60-65區間。"
+    },
     {
       "id": "te:markets:589912",
       "time": "2026-10-06 23:00:04",
@@ -90600,70 +90638,6 @@
         "MKT News"
       ],
       "text": "A spokesperson for UK Prime Minister Burnham did not rule out the possibility of funding healthcare through tax increases."
-    },
-    {
-      "id": "mkt:01a0edb2-ab4c-7338-ab13-f6ca565273e9",
-      "time": "2026-09-29 23:05:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "MOFCOM spokesperson was asked about media reports that some EU member states are urging the European Commission to develop an EU equivalent of the US Section 301 trade tool."
-    },
-    {
-      "id": "5119104",
-      "time": "2026-09-29 23:04:49",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【商務部新聞發言人就媒體報道歐盟相關成員國推動歐委會打造歐版“301”工具事答記者問】問：近日有媒體報道，部分歐盟成員國正在制定聯合檔案，呼籲歐委會加快制定歐版“301”工具，對華採取更加強硬措施，請問中方對此有何評論？\n答：中方注意到相關報道。報道所提工具，是典型的保護主義、單邊主義措施，不僅無助於解決問題，還會反噬自身，更將擾亂中歐貿易和全球產供鏈穩定。歐盟也曾經是這類工具的受害者，己所不欲，勿施於人。作為世貿組織重要成員，歐盟始終標榜自身為多邊主義的捍衛者，如果不能以身作則，反而帶頭違反世貿組織規則，必將嚴重衝擊以規則為基礎的多邊貿易體制。目前，中歐正在貿易投資磋商機制項下持續開展對話，探討解決彼此關注。如果歐方一邊與中方對話磋商，一邊又加碼對華示強，將嚴重破壞彼此信任，干擾磋商整體程序，影響中歐經貿合作大局。中方敦促歐方堅持透過對話管控分歧的正確軌道。中方將密切關注歐方後續動向，如歐方執意出臺對中國企業或產品的歧視性限制措施，中方必將堅決予以回應，捍衛中國產業合法權益。（商務部網站）"
-    },
-    {
-      "id": "mkt:01a0edb1-5577-7338-ab13-ed2a61694dae",
-      "time": "2026-09-29 23:03:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "A spokesperson for UK Prime Minister Burnham said they did not rule out the possibility of the UK rejoining the EU."
-    },
-    {
-      "id": "5119103",
-      "time": "2026-09-29 23:03:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "英國首相發言人：不排除重新加入歐盟的可能性。"
-    },
-    {
-      "id": "5119102",
-      "time": "2026-09-29 23:03:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會將視情況召開石油協調小組特別會議。"
-    },
-    {
-      "id": "mkt:01a0edb0-c50d-7338-ab13-e4562d4bc7f8",
-      "time": "2026-09-29 23:02:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission says it will convene a special meeting of the Oil Coordination Group if needed."
     }
   ]
 }
