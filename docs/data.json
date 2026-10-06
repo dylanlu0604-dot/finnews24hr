@@ -1,7 +1,140 @@
 {
-  "updated": "2026-10-06 15:01:29",
-  "count": 10141,
+  "updated": "2026-10-06 15:05:24",
+  "count": 10132,
   "items": [
+    {
+      "id": "mkt:01a11006-9aa5-7ee0-a7b1-ee327a77890b",
+      "time": "2026-10-06 15:03:50",
+      "tags": [
+        "MKT News",
+        "GMAB.O",
+        "Impact bullish"
+      ],
+      "text": "Genmab shares rose 8% after a combination therapy co-developed with AbbVie was confirmed to reduce mortality in blood cancer."
+    },
+    {
+      "id": "5128137",
+      "time": "2026-10-06 15:03:39",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "法國財政部長萊斯屈爾：目前我沒有看到任何對歐元的不信任，表現最好的政府債券是德國國債。"
+    },
+    {
+      "id": "5128136",
+      "time": "2026-10-06 15:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：網路攻擊增加金融機構的運營風險。"
+    },
+    {
+      "id": "mkt:01a11005-e48e-7ee0-a7b1-e41b9fc6517c",
+      "time": "2026-10-06 15:03:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spain Aug industrial production (not seasonally adjusted) YoY 1.6% vs 2.6% in July."
+    },
+    {
+      "id": "mkt:01a11005-9d69-7ee0-a7b1-d89ae388604e",
+      "time": "2026-10-06 15:02:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Industrial Production USA (YoY) (Aug) | actual 1.6% | previous 2.60%"
+    },
+    {
+      "id": "5128135",
+      "time": "2026-10-06 15:02:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "貝西（BESI）股價下跌4.1%，跌至荷蘭泛歐交易所AEX指數成分股跌幅榜首位。"
+    },
+    {
+      "id": "5128134",
+      "time": "2026-10-06 15:02:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國慶假期上海樓市熱度不減】伴隨政策紅利持續釋放，上海樓市“金九”行情圓滿兌現。9月上海新房推盤節奏加快、熱門樓盤再現“日光”行情；二手房市場成交也持續放量，單月網籤量突破2.3萬套創下近六年同期新高。“金九”的市場行情也順利傳導至長假市場。進入國慶黃金週，上海樓市迎來“銀十”開門紅。不少新盤專案搶抓假期視窗開放展廳、推出專屬特價房源吸引客戶。疊加天氣轉晴、假期末尾返滬人流增多，不少新房專案的到訪、成交迎來一波小高峰，二手房帶看與議價氛圍也同步回暖。（澎湃）"
+    },
+    {
+      "id": "te:markets:589775",
+      "time": "2026-10-06 15:02:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Gains Capped by Dollar Strength, External Risks — The Indonesian rupiah hovered around IDR 17,910 per U.S. dollar on Tuesday, edging higher from the previous session as traders awaited key domestic releases later this week, including September forex reserves, consumer sentiment, and August retail sales. Meanwhile, fiscal conditions through August were supported by revenue growth, even as tax-restitution delays reportedly persisted. The upside remained limited, however, as Indonesia's external position stayed vulnerable, with elevated imports and energy costs weighing on the balance amid persistent Middle East headwinds. Inflation could also become harder to contain in the coming months as food prices stay elevated following supply disruptions linked to El Niño. On the global front, the dollar index lingered near an 18-month high, lifted by elevated U.S. Treasury yields and higher oil prices, while euro weakness amid political and fiscal concerns in the eurozone further boosted demand for the greenback, capping further rupiah gains."
+    },
+    {
+      "id": "5128133",
+      "time": "2026-10-06 15:02:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行副行長：匈牙利必須在2027年預算中明確歐元承諾。"
+    },
+    {
+      "id": "5128132",
+      "time": "2026-10-06 15:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "Hadrian募資4000萬美元，以應對人工智慧駭客引發的網路安全危機。"
+    },
+    {
+      "id": "mkt:01a11004-625d-7ee0-a7b1-d54d81b5d9dd",
+      "time": "2026-10-06 15:01:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities opened higher on Oct 6: DAX +148.79 pts (+0.59%) at 25,403.00; FTSE 100 +52.06 pts (+0.50%) at 10,550.00; CAC 40 +25.53 pts (+0.33%) at 7,859.63; Euro Stoxx 50 +29.91 pts (+0.48%) at 6,272.05; IBEX 35 +125.72 pts (+0.65%) at 19,425.42; FTSE MIB +319.12 pts (+0.63%) at 51,137.50."
+    },
+    {
+      "id": "5128131",
+      "time": "2026-10-06 15:01:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威銀行正在對技術與服務板塊進行組織架構調整，作為科技與服務板塊全面重組的一部分，將開展組織調整與裁員瘦身。"
+    },
+    {
+      "id": "5128130",
+      "time": "2026-10-06 15:01:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以軍據報險些擊落迪拜航空客機】據美國哥倫比亞廣播公司（CBS）當地時間10月5日援引兩名以色列訊息人士報道稱，在9月30日迪拜航空客機發生空中未遂襲擊事件期間，以軍緊急出動戰鬥機並一度“做好了擊落這架客機的準備”，“即使機上載有150多名以色列人”。目前，相關報道未得到以色列官方證實。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5128129",
+      "time": "2026-10-06 15:00:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市基準指數收盤下跌1.2%，報5,677.12點。"
+    },
     {
       "id": "5128128",
       "time": "2026-10-06 15:00:24",
@@ -93183,244 +93316,6 @@
         "Impact bearish"
       ],
       "text": "【Spain Sep inf unexpectedly rises to 5%, bolstering ECB case for further rate hikes】Spain's September consumer prices rose 5.0% YoY, up from 4.6% in August and above the median 4.9% forecast, the highest since Feb 2023, the national statistics office said. Fuel and travel-package costs were the main drivers and the core inf also exceeded expectations. The print reinforces market bets on further ECB tightening as Europe faces renewed energy-cost pressure from the Iran war; Spain is the first major euro-area member to publish September data and other countries may report higher readings."
-    },
-    {
-      "id": "5117970",
-      "time": "2026-09-29 15:05:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【科技部：我國成為創新力上升最快的國家之一】在國務院新聞辦公室今天（29日）舉行的“開局起步‘十五五’”系列主題新聞釋出會上，科技部部長陰和俊介紹，過去五年，我國科技創新躍上新臺階，科技強國建設邁出堅實步伐，有力支撐高質量發展和民生改善。中國科技發展戰略研究院《國家創新指數報告2025》顯示，我國國家創新能力綜合排名位居全球第9位。我國正從全球科技參與者、貢獻者向開拓者、引領者加速轉變，成為創新力上升最快的國家之一。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0ebfb-4aa7-7338-ab05-fa49b33a3a95",
-      "time": "2026-09-29 15:05:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese Academy of Sciences launches Frontier Science Extreme Breakthrough Plan】On Sept. 29 in Beijing the Chinese Academy of Sciences unveiled the Frontier Science Extreme Breakthrough Plan and its first project batch. The initial 10 projects target four frontier problem areas: new‑element synthesis, the nature of dark matter and dark energy, microscopic measurement of chemical bonds, and artificial synthetic cells. CAS also proposed a package of reforms to research project management and evaluation. It published a list of next‑priority fields to receive focused support — materials science, life sciences, earth system science and space science — aiming to produce a set of major original results with global impact in areas tied to the national economy and long‑term development."
-    },
-    {
-      "id": "5117969",
-      "time": "2026-09-29 15:04:20",
-      "tags": [
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【僅1.41萬億！滬深兩市成交額創14個月地量】截至收盤，滬深兩市全天成交額14091.97億元，較上一日縮量2936億元，創出2025年7月8日以來新低，較2026年1月14日創出的歷史天量39414.84億元萎縮超64%。"
-    },
-    {
-      "id": "mkt:01a0ebfa-8be0-7338-ab05-f4f56328f6cc",
-      "time": "2026-09-29 15:04:20",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【China A-share turnover falls below 1.5 trillion yuan】At the close, combined turnover on the Shanghai, Shenzhen and Beijing bourses was 1.42 trillion yuan, down roughly 300 billion yuan from the previous session and the lowest daily volume since July 7, 2025 (1.23 trillion yuan)."
-    },
-    {
-      "id": "te:markets:587518",
-      "time": "2026-09-29 15:04:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Stabilize — US natural gas prices steadied around $3.12/MMBtu on Tuesday after a two-day decline, as traders weighed the return of the Mountaineer XPress pipeline in West Virginia against improving LNG export demand and forecasts for continued hot weather. TC Energy lifted the force majeure on Sunday after repairs were completed on the pipeline, which would allow more gas to flow out of the Marcellus/Utica region in the next few days. Meanwhile, the market continues to benefit from rising LNG feedgas demand, with flows to nine major export plants averaging 18 bcfd in September versus 17.3 bcfd in August. Hotter-than-normal weather has also narrowed the storage surplus built up amid strong production and mild spring conditions, with analysts expected inventories to have fallen to 2.4% above normal in the week ended September 25 from 2.9% a week earlier. Meanwhile, Lower 48 output has remained elevated at 112.3 bcfd in September, matching the record monthly high set in August."
-    },
-    {
-      "id": "5117968",
-      "time": "2026-09-29 15:04:11",
-      "tags": [
-        "市場",
-        "其他"
-      ],
-      "text": "美元兌瑞郎USD/CHF漲至16個月高點，報0.8339。"
-    },
-    {
-      "id": "mkt:01a0ebfa-2e73-7338-ab05-ea7eaa196120",
-      "time": "2026-09-29 15:03:56",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "USD/CHF rose to a 16-month high at 0.8339."
-    },
-    {
-      "id": "mkt:01a0ebf9-ec10-7338-ab05-e330d80bfb4f",
-      "time": "2026-09-29 15:03:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "ADP.PA",
-        "Impact bearish"
-      ],
-      "text": "Groupe ADP shares fell 3.6% after the French government proposed raising taxes on motorways and major airports, making the stock the worst performer in the SBF 120."
-    },
-    {
-      "id": "5117967",
-      "time": "2026-09-29 15:03:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "法國政府計劃提高高速公路及主要機場稅率後，自動資料處理公司（ADP）股價下跌3.6%，跌至法國SBF 120指數成分股跌幅首位。"
-    },
-    {
-      "id": "te:markets:587516",
-      "time": "2026-09-29 15:03:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Fall on Inflation Worries — The Nikkei 225 Index fell 0.6% to close at 65,481, while the broader Topix Index dropped 1.72% to 4,041 on Tuesday, extending losses from the previous session as global bond yields remain at elevated levels amid expectations that energy-driven inflation could lead to tighter monetary policy. Oil prices resumed their upward move after Iranian officials reportedly questioned the prospects of reaching an agreement before the US midterm elections in November, following President Donald Trump’s rejection of Tehran’s latest proposal. Japanese equities also came under pressure as more than half of Topix constituents traded ex-dividend. Notable losses were seen among heavyweight technology, financial, and consumer stocks, including SoftBank Group (-3.4%), Mitsubishi UFJ (-3.5%), Sumitomo Mitsui (-4%), Toyota Motor (-3.5%), and Nintendo (-1.3%)."
-    },
-    {
-      "id": "mkt:01a0ebf9-abf3-7338-ab05-ddc1f9099ebc",
-      "time": "2026-09-29 15:03:23",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【UBS: RBA may need further hikes after November】UBS chief economist George Tharenou said the Reserve Bank of Australia is signaling a further rate increase in November and that hikes could extend beyond that. UBS forecasts headline inflation at 3.8% YoY in Q3 2026 versus a 2.5% target, leaving upside risk to the official cash rate after November and raising the odds of a February move to 5.10%."
-    },
-    {
-      "id": "5117966",
-      "time": "2026-09-29 15:03:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林省梅河新區黨工委原副書記劉鐵鐸接受審查調查】中央紀委國家監委網站9月29日通報，據吉林省紀委監委訊息：吉林省梅河新區黨工委原副書記、管委會原主任，梅河口市委原副書記、市政府原市長劉鐵鐸涉嫌嚴重違紀違法，目前正接受吉林省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5117965",
-      "time": "2026-09-29 15:03:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【青海省黃南州人大常委會原副主任張文生被“雙開”】中央紀委國家監委網站9月29日通報，據青海省紀委監委訊息：經中共青海省委批准，青海省紀委監委對黃南州人大常委會原黨組副書記、副主任張文生嚴重違紀違法問題進行了立案審查調查。經查，張文生喪失理想信念，背棄初心使命，對黨不忠誠不老實，政績觀錯位，處心積慮對抗組織審查，搞迷信活動；罔顧中央八項規定精神，違規收受禮品，接受可能影響公正執行公務的旅遊活動安排；無視組織原則，在幹部選拔任用等工作中為他人謀取利益；廉潔底線失守，透過打麻將斂財；貪慾膨脹，公器私用，大搞權錢交易，利用職務便利為他人在工程專案承攬等方面謀利，並非法收受鉅額財物。張文生嚴重違反黨的政治紀律、組織紀律和廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中共青海省紀委常委會會議研究並報中共青海省委批准，決定給予張文生開除黨籍處分；由青海省監委給予其開除公職處分；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "mkt:01a0ebf9-31ab-7338-ab05-d2b2d3e225c6",
-      "time": "2026-09-29 15:02:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China's Shanghai Composite Index closed up 6.83 points (+0.18%) at 3,830.45 on Tuesday, Sept. 29; Shenzhen Composite Index +43.19 pts (+0.34%) at 12,901.95; CSI 300 Index +4.45 pts (+0.10%) at 4,345.21; ChiNext Index +2.74 pts (+0.09%) at 3,142.56; STAR 50 Index +13.36 pts (+0.86%) at 1,569.34."
-    },
-    {
-      "id": "mkt:01a0ebf8-fc7d-7338-ab05-cbec5f6409ab",
-      "time": "2026-09-29 15:02:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【China stocks close: Shanghai Composite up 0.18%; turnover down 293.6 bln yuan to 1.41 tln yuan】Shanghai Composite closed up 0.18% after a choppy session; Shenzhen Composite rose 0.34% and the ChiNext Index gained 0.09%. Turnover on the Shanghai and Shenzhen exchanges was 1.41 tln yuan, down 293.6 bln yuan from the prior day. More than 3,400 stocks advanced. Short-drama/game-related names led gains, with Huamei Holdings, Nanwei Software, Zongheng Communication, Yinli Media and iReader Technology hitting daily upper limits. Real estate strengthened — Huafa Shares, Binjiang Group and China Vanke A hit upper limits. Solid-state battery plays surged: Wuhan Blue Electric hit the upper limit; Shangshui Intelligent, Guoxuan High‑Tech and Jinlongyu also reached limits. PCB names firmed, with XunjieXing at the upper limit. Dairy stocks rallied late, Junyao Health hit the upper limit. CRO-related stocks spiked then pulled back; Nearshore Protein jumped over 10%. Lab-grown diamond sector led declines, with Huanghe Xuanfeng nearing limit-down. Grain-related names retreated; Jinjian Rice Industry and Wanxiang Denong hit limit-down."
-    },
-    {
-      "id": "mkt:01a0ebf8-d050-7338-ab05-c7d68a6fd084",
-      "time": "2026-09-29 15:02:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Germany's benchmark power price fell 15% recently to €140/MWh."
-    },
-    {
-      "id": "5117964",
-      "time": "2026-09-29 15:02:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【富瑞：下調希音目標價至23港元 維持“跑輸大市”評級】富瑞釋出研報稱，希音(00625)上半年收入符合預期，但地區組合轉差，利潤率受壓為主要焦點，認為2026-2027年的市場一致預期仍有下行空間，將目標價由26港元下調至23港元，維持“跑輸大市”評級。"
-    },
-    {
-      "id": "5117963",
-      "time": "2026-09-29 15:01:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇神通：半導體閥門業務有望逐步放量】江蘇神通近日在電話調研活動中表示，半導體閥門市場空間廣闊，隨著國產替代程序加快和公司客戶匯入的持續推進，該業務有望逐步放量。未來，公司將持續加大研發投入和市場拓展力度，努力推動半導體業務成為公司新的增長引擎。"
-    },
-    {
-      "id": "5117962",
-      "time": "2026-09-29 15:01:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "BOOZT公佈第三季度初步業績後上漲8.1%，並上調了全年業績預期。"
-    },
-    {
-      "id": "5117961",
-      "time": "2026-09-29 15:01:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾基亞助力沙特Zain提升全國網路效能與運營效率。"
-    },
-    {
-      "id": "mkt:01a0ebf8-0ee9-7338-ab05-b862322032cb",
-      "time": "2026-09-29 15:01:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Coast Guard conducts routine law-enforcement patrols east of Taiwan】China Coast Guard said its Zhujiajian task group conducted routine law-enforcement patrols in waters east of Taiwan on Sept. 29. The force said the task group has stepped up control of the area since early September to protect navigation and operations and to safeguard the lawful rights and life and property of Chinese citizens, including Taiwan residents. The coast guard said it will continue to strengthen patrols in waters under Chinese jurisdiction to defend territorial sovereignty and maritime rights."
-    },
-    {
-      "id": "mkt:01a0ebf8-0b25-7338-ab05-b124ddfa5dd5",
-      "time": "2026-09-29 15:01:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "European equities opened mixed on Tuesday Sept 29: France's CAC 40 rose 4.33 points (+0.05%) to 8,082.81; Spain's IBEX 35 gained 51.20 points (+0.26%) to 19,651.50; Italy's FTSE MIB added 154.60 points (+0.30%) to 51,914.50; the UK FTSE 100 was up 25.24 points (+0.24%) at 10,710.12; Germany's DAX fell 33.34 points (-0.13%) to 25,373.77; Euro Stoxx 50 climbed 17.72 points (+0.28%) to 6,319.00."
-    },
-    {
-      "id": "mkt:01a0ebf7-f8fa-7338-ab05-aff78d5c627b",
-      "time": "2026-09-29 15:01:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai, Shenzhen combined turnover 1,409.2 bln yuan on Sept. 29; Zhongji Xuchuang tops stock turnover】On Sept. 29, turnover on the Shanghai and Shenzhen exchanges totaled 1,409.20 bln yuan, down 293.60 bln yuan from the prior session. Shanghai turnover was 661.70 bln yuan (trading volume 399 mln lots) versus 804.54 bln yuan (452 mln lots) previously; Shenzhen turnover was 747.49 bln yuan (483 mln lots) versus 898.26 bln yuan (540 mln lots). Zhongji Xuchuang led single-stock turnover at 13.10 bln yuan, followed by Hengtong Optic-Electric 11.34 bln, Xinyisheng 10.06 bln, CATL 8.61 bln and Changxin Technology 8.20 bln."
     }
   ]
 }

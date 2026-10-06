@@ -1,7 +1,140 @@
 {
   "date": "2026-10-06",
-  "count": 844,
+  "count": 858,
   "items": [
+    {
+      "id": "mkt:01a11006-9aa5-7ee0-a7b1-ee327a77890b",
+      "time": "2026-10-06 15:03:50",
+      "tags": [
+        "MKT News",
+        "GMAB.O",
+        "Impact bullish"
+      ],
+      "text": "Genmab shares rose 8% after a combination therapy co-developed with AbbVie was confirmed to reduce mortality in blood cancer."
+    },
+    {
+      "id": "5128137",
+      "time": "2026-10-06 15:03:39",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "法國財政部長萊斯屈爾：目前我沒有看到任何對歐元的不信任，表現最好的政府債券是德國國債。"
+    },
+    {
+      "id": "5128136",
+      "time": "2026-10-06 15:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：網路攻擊增加金融機構的運營風險。"
+    },
+    {
+      "id": "mkt:01a11005-e48e-7ee0-a7b1-e41b9fc6517c",
+      "time": "2026-10-06 15:03:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spain Aug industrial production (not seasonally adjusted) YoY 1.6% vs 2.6% in July."
+    },
+    {
+      "id": "mkt:01a11005-9d69-7ee0-a7b1-d89ae388604e",
+      "time": "2026-10-06 15:02:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Industrial Production USA (YoY) (Aug) | actual 1.6% | previous 2.60%"
+    },
+    {
+      "id": "5128135",
+      "time": "2026-10-06 15:02:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "貝西（BESI）股價下跌4.1%，跌至荷蘭泛歐交易所AEX指數成分股跌幅榜首位。"
+    },
+    {
+      "id": "5128134",
+      "time": "2026-10-06 15:02:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國慶假期上海樓市熱度不減】伴隨政策紅利持續釋放，上海樓市“金九”行情圓滿兌現。9月上海新房推盤節奏加快、熱門樓盤再現“日光”行情；二手房市場成交也持續放量，單月網籤量突破2.3萬套創下近六年同期新高。“金九”的市場行情也順利傳導至長假市場。進入國慶黃金週，上海樓市迎來“銀十”開門紅。不少新盤專案搶抓假期視窗開放展廳、推出專屬特價房源吸引客戶。疊加天氣轉晴、假期末尾返滬人流增多，不少新房專案的到訪、成交迎來一波小高峰，二手房帶看與議價氛圍也同步回暖。（澎湃）"
+    },
+    {
+      "id": "te:markets:589775",
+      "time": "2026-10-06 15:02:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Gains Capped by Dollar Strength, External Risks — The Indonesian rupiah hovered around IDR 17,910 per U.S. dollar on Tuesday, edging higher from the previous session as traders awaited key domestic releases later this week, including September forex reserves, consumer sentiment, and August retail sales. Meanwhile, fiscal conditions through August were supported by revenue growth, even as tax-restitution delays reportedly persisted. The upside remained limited, however, as Indonesia's external position stayed vulnerable, with elevated imports and energy costs weighing on the balance amid persistent Middle East headwinds. Inflation could also become harder to contain in the coming months as food prices stay elevated following supply disruptions linked to El Niño. On the global front, the dollar index lingered near an 18-month high, lifted by elevated U.S. Treasury yields and higher oil prices, while euro weakness amid political and fiscal concerns in the eurozone further boosted demand for the greenback, capping further rupiah gains."
+    },
+    {
+      "id": "5128133",
+      "time": "2026-10-06 15:02:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行副行長：匈牙利必須在2027年預算中明確歐元承諾。"
+    },
+    {
+      "id": "5128132",
+      "time": "2026-10-06 15:01:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "Hadrian募資4000萬美元，以應對人工智慧駭客引發的網路安全危機。"
+    },
+    {
+      "id": "mkt:01a11004-625d-7ee0-a7b1-d54d81b5d9dd",
+      "time": "2026-10-06 15:01:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities opened higher on Oct 6: DAX +148.79 pts (+0.59%) at 25,403.00; FTSE 100 +52.06 pts (+0.50%) at 10,550.00; CAC 40 +25.53 pts (+0.33%) at 7,859.63; Euro Stoxx 50 +29.91 pts (+0.48%) at 6,272.05; IBEX 35 +125.72 pts (+0.65%) at 19,425.42; FTSE MIB +319.12 pts (+0.63%) at 51,137.50."
+    },
+    {
+      "id": "5128131",
+      "time": "2026-10-06 15:01:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威銀行正在對技術與服務板塊進行組織架構調整，作為科技與服務板塊全面重組的一部分，將開展組織調整與裁員瘦身。"
+    },
+    {
+      "id": "5128130",
+      "time": "2026-10-06 15:01:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以軍據報險些擊落迪拜航空客機】據美國哥倫比亞廣播公司（CBS）當地時間10月5日援引兩名以色列訊息人士報道稱，在9月30日迪拜航空客機發生空中未遂襲擊事件期間，以軍緊急出動戰鬥機並一度“做好了擊落這架客機的準備”，“即使機上載有150多名以色列人”。目前，相關報道未得到以色列官方證實。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5128129",
+      "time": "2026-10-06 15:00:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市基準指數收盤下跌1.2%，報5,677.12點。"
+    },
     {
       "id": "5128128",
       "time": "2026-10-06 15:00:24",
