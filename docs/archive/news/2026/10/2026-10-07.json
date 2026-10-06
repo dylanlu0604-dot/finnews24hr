@@ -1,7 +1,48 @@
 {
   "date": "2026-10-07",
-  "count": 268,
+  "count": 272,
   "items": [
+    {
+      "id": "5129138",
+      "time": "2026-10-07 04:16:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：穿越危險霍爾木茲海峽的油輪船長正獲得相當於每月10萬美元的危險津貼，以及每次航程5萬美元的獎金。"
+    },
+    {
+      "id": "mkt:01a112db-96e6-7ee0-a7c5-0e520d3f3a2f",
+      "time": "2026-10-07 04:15:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "TSM.N",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Nikkei reports TSMC (TSM.N) and other Taiwanese chipmakers are increasing AI-related spending in the United States and Southeast Asia."
+    },
+    {
+      "id": "mkt:01a112da-6baf-7ee0-a7c5-050c6bee4bd7",
+      "time": "2026-10-07 04:14:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the U.S. will hold a 40% stake in a new defense shipyard to be built in Maryland."
+    },
+    {
+      "id": "mkt:01a112da-397b-7ee0-a7c4-f92aaba86f92",
+      "time": "2026-10-07 04:14:13",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "France's finance minister said the government is prepared to bypass parliament to pass a spending-cut package and will do so if budget talks deadlock."
+    },
     {
       "id": "5129134",
       "time": "2026-10-07 04:12:12",
