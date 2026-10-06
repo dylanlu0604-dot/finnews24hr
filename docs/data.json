@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-06 08:47:18",
-  "count": 10414,
+  "updated": "2026-10-06 08:51:08",
+  "count": 10413,
   "items": [
+    {
+      "id": "5127415",
+      "time": "2026-10-06 08:50:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：埃森哲一承包商因一起造成嚴重損害的資料洩露事件被聯邦調查局解僱。"
+    },
+    {
+      "id": "te:markets:589685",
+      "time": "2026-10-06 08:50:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Track Wall Street Higher — The Nikkei 225 Index climbed 0.4% to above 70,200 on Tuesday, scaling three-month highs and following a strong lead from Wall Street as investors largely brushed aside concerns over elevated bond yields. Sentiment was further supported by declining oil prices amid signs of increased supply from the Middle East, easing pressure on Japan’s oil-import-dependent economy. In corporate news, Toyota Motor Corp. is relying on its new Land Cruiser FJ to compete with increasingly aggressive Chinese automakers, with sales in Japan and Southeast Asia so far surpassing expectations. Technology and AI-related stocks led the gains, including Advantest (2%), Fujikura (2.3%) and Lasertec (0.7%). Financial stocks also advanced, with Mitsubishi UFJ rising 0.5%, Mizuho Financial gaining 1.1% and Sumitomo Mitsui adding 0.5%."
+    },
+    {
+      "id": "5127414",
+      "time": "2026-10-06 08:49:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【提醒】特朗普結束在內布拉斯加州的講話。"
+    },
+    {
+      "id": "5127413",
+      "time": "2026-10-06 08:47:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "LG電子股價上漲5.8%，至228,500韓元。"
+    },
     {
       "id": "mkt:01a10ead-1282-7ee0-a7ab-9e7c8921a33f",
       "time": "2026-10-06 08:46:25",
@@ -95817,47 +95853,6 @@
         "其他"
       ],
       "text": "【山西省委書記唐登傑在晉中調研煤礦安全生產工作】9月28日，山西省委書記唐登傑赴晉中市，就煤礦安全生產工作開展實地督導檢查，並主持召開座談會。他強調，要深入學習貫徹習近平總書記關於安全生產的重要論述和對山西工作的重要講話重要指示精神，牢固樹立正確政績觀和安全發展理念，堅持人民至上、生命至上，強化底線思維、極限思維，時刻繃緊安全生產這根弦，縱深推進煤礦安全風險隱患專項整治，持續釋放一抓到底、一嚴到底的強烈訊號，堅決防範遏制重特大事故發生，推動全省煤炭行業安全發展、高質量發展。省委副書記、秘書長李金科，省委常委、常務副省長董曉宇參加。（山西新聞聯播）"
-    },
-    {
-      "id": "5117489",
-      "time": "2026-09-29 08:50:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱不相信日本撤走“堤豐”系統的承諾】據俄羅斯方面28日訊息，俄羅斯副外長魯堅科表示，俄羅斯不相信日本有關在聯合軍演結束後撤走美國“堤豐”中程導彈系統的承諾，俄方將準備回應措施。魯堅科表示，日本政府向俄方承諾會在軍演結束後撤走“堤豐”導彈系統，但俄羅斯對日本現任政府“幾乎沒有信任”。由於“堤豐”系統在演習後可能留在日本，一系列俄羅斯城市將處於風險區。俄方警告稱，對此類行徑不會沒有回應。（央視）"
-    },
-    {
-      "id": "5117488",
-      "time": "2026-09-29 08:49:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【卓翼科技新設卓越智元科技公司 含智慧機器人業務】企查查APP顯示，近日，深圳市卓越智元科技有限公司成立，經營範圍包含：智慧車載裝置銷售；可穿戴智慧裝置銷售；智慧機器人銷售；家用電器銷售；電子專用裝置銷售等。企查查股權穿透顯示，該公司由卓翼科技(002369)全資持股。"
-    },
-    {
-      "id": "5117487",
-      "time": "2026-09-29 08:48:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【黃仁勳：AI模型蒸餾是“競爭”，企業在瞭解英偉達產品時“拆到只剩骨架”】英偉達CEO黃仁勳否認將AI模型蒸餾稱為“盜竊”的說法。他表示，從競爭對手的產品中學習或進行訓練，屬於“競爭”。當被問及蒸餾是否“不算搶劫”時，他表示：“這叫競爭。”“你可以隨意測試他人的產品。”"
-    },
-    {
-      "id": "5117486",
-      "time": "2026-09-29 08:48:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中信期貨：利率約束強化壓制白銀金融屬性，短期維持高波動、偏弱判斷】利率約束強化壓制白銀金融屬性，製造業景氣韌性提供一定支撐。美債收益率上行與進一步收緊預期提高白銀持有成本，能源價格偏高同時增加工業生產和運輸成本。美國製造業部分景氣指標仍處擴張區間，表明工業端需求尚未明顯走弱，當前白銀調整更多仍由金融條件收緊主導。後續若通脹降溫、收益率回落且工業需求保持穩定，白銀具備修復條件；若能源成本持續強化緊縮預期，價格仍可能承壓。（中信期貨）"
-    },
-    {
-      "id": "5117484",
-      "time": "2026-09-29 08:47:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額減少259.91億元】截至9月28日，上交所融資餘額報13187.69億元，較前一交易日減少130.73億元；深交所融資餘額報12547.5億元，較前一交易日減少129.18億元；兩市合計25735.19億元，較前一交易日減少259.91億元。"
     }
   ]
 }

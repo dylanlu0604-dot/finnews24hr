@@ -1,7 +1,43 @@
 {
   "date": "2026-10-06",
-  "count": 425,
+  "count": 429,
   "items": [
+    {
+      "id": "5127415",
+      "time": "2026-10-06 08:50:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：埃森哲一承包商因一起造成嚴重損害的資料洩露事件被聯邦調查局解僱。"
+    },
+    {
+      "id": "te:markets:589685",
+      "time": "2026-10-06 08:50:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Track Wall Street Higher — The Nikkei 225 Index climbed 0.4% to above 70,200 on Tuesday, scaling three-month highs and following a strong lead from Wall Street as investors largely brushed aside concerns over elevated bond yields. Sentiment was further supported by declining oil prices amid signs of increased supply from the Middle East, easing pressure on Japan’s oil-import-dependent economy. In corporate news, Toyota Motor Corp. is relying on its new Land Cruiser FJ to compete with increasingly aggressive Chinese automakers, with sales in Japan and Southeast Asia so far surpassing expectations. Technology and AI-related stocks led the gains, including Advantest (2%), Fujikura (2.3%) and Lasertec (0.7%). Financial stocks also advanced, with Mitsubishi UFJ rising 0.5%, Mizuho Financial gaining 1.1% and Sumitomo Mitsui adding 0.5%."
+    },
+    {
+      "id": "5127414",
+      "time": "2026-10-06 08:49:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【提醒】特朗普結束在內布拉斯加州的講話。"
+    },
+    {
+      "id": "5127413",
+      "time": "2026-10-06 08:47:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "LG電子股價上漲5.8%，至228,500韓元。"
+    },
     {
       "id": "mkt:01a10ead-1282-7ee0-a7ab-9e7c8921a33f",
       "time": "2026-10-06 08:46:25",
