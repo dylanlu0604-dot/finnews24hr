@@ -1,7 +1,61 @@
 {
   "date": "2026-10-06",
-  "count": 475,
+  "count": 480,
   "items": [
+    {
+      "id": "mkt:01a10ecf-b2bf-7ee0-a7ac-37745e145bac",
+      "time": "2026-10-06 09:24:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A filing shows Berkshire Hathaway acquired about 15,028 Class B shares of Laina Co. between Oct. 1 and Oct. 2."
+    },
+    {
+      "id": "mkt:01a10ecf-2969-7ee0-a7ac-2a8fbd6d782b",
+      "time": "2026-10-06 09:23:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09863.HK",
+        "Impact bullish",
+        "00175.HK",
+        "09973.HK"
+      ],
+      "text": "Hong Kong-listed auto stocks opened mostly higher: Leapmotor (09863.HK), Geely Automobile (00175.HK) and Chery Automobile (09973.HK) rose over 2% at the open; GAC Group (02238.HK), BYD Company (01211.HK) and XPeng (09868.HK) were up more than 1%."
+    },
+    {
+      "id": "5127738",
+      "time": "2026-10-06 09:22:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "備案檔案顯示，伯克希爾哈撒韋在10月1日至2日期間收購了約15028股萊納公司B類股票。"
+    },
+    {
+      "id": "mkt:01a10ecd-275f-7ee0-a7ac-2128194d5d87",
+      "time": "2026-10-06 09:21:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Hang Seng Index",
+        "Impact bullish",
+        "09988.HK"
+      ],
+      "text": "Hong Kong stocks opened higher: HSI up 1%, Hang Seng Tech Index up 1.02%; Alibaba (09988.HK) up 2.94% at the open."
+    },
+    {
+      "id": "mkt:01a10ecc-f907-7ee0-a7ac-1cb9e7981c2f",
+      "time": "2026-10-06 09:21:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Toyota and Isuzu to launch upgraded hydrogen fuel-cell bus."
+    },
     {
       "id": "5127715",
       "time": "2026-10-06 09:21:00",

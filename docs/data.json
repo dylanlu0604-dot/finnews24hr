@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-06 09:21:35",
-  "count": 10412,
+  "updated": "2026-10-06 09:25:20",
+  "count": 10410,
   "items": [
+    {
+      "id": "mkt:01a10ecf-b2bf-7ee0-a7ac-37745e145bac",
+      "time": "2026-10-06 09:24:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A filing shows Berkshire Hathaway acquired about 15,028 Class B shares of Laina Co. between Oct. 1 and Oct. 2."
+    },
+    {
+      "id": "mkt:01a10ecf-2969-7ee0-a7ac-2a8fbd6d782b",
+      "time": "2026-10-06 09:23:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09863.HK",
+        "Impact bullish",
+        "00175.HK",
+        "09973.HK"
+      ],
+      "text": "Hong Kong-listed auto stocks opened mostly higher: Leapmotor (09863.HK), Geely Automobile (00175.HK) and Chery Automobile (09973.HK) rose over 2% at the open; GAC Group (02238.HK), BYD Company (01211.HK) and XPeng (09868.HK) were up more than 1%."
+    },
+    {
+      "id": "5127738",
+      "time": "2026-10-06 09:22:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "備案檔案顯示，伯克希爾哈撒韋在10月1日至2日期間收購了約15028股萊納公司B類股票。"
+    },
+    {
+      "id": "mkt:01a10ecd-275f-7ee0-a7ac-2128194d5d87",
+      "time": "2026-10-06 09:21:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Hang Seng Index",
+        "Impact bullish",
+        "09988.HK"
+      ],
+      "text": "Hong Kong stocks opened higher: HSI up 1%, Hang Seng Tech Index up 1.02%; Alibaba (09988.HK) up 2.94% at the open."
+    },
+    {
+      "id": "mkt:01a10ecc-f907-7ee0-a7ac-1cb9e7981c2f",
+      "time": "2026-10-06 09:21:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Toyota and Isuzu to launch upgraded hydrogen fuel-cell bus."
+    },
     {
       "id": "5127715",
       "time": "2026-10-06 09:21:00",
@@ -95841,65 +95895,6 @@
         "焦點"
       ],
       "text": "A股三大股指開盤齊跌，上證指數跌0.20%，深證成指跌0.15%，創業板指跌0.11%。"
-    },
-    {
-      "id": "5117541",
-      "time": "2026-09-29 09:24:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4130美元/盎司，日內漲0.38%。"
-    },
-    {
-      "id": "5117540",
-      "time": "2026-09-29 09:24:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內漲1%，現報1018.00元。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202609293886058839",
-      "time": "2026-09-29 09:23:14",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展905億元7天逆回購操作，操作利率為1.40%。同時，開展了6985億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5117539",
-      "time": "2026-09-29 09:23:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為新款降噪耳機正式開售】9月29日，華為推出新款降噪耳機華為FreeBuds Neo並正式開售，搭載自研第三代音訊AI晶片，支援AI免摘對話，並新增全新遊戲模式等。"
-    },
-    {
-      "id": "5117538",
-      "time": "2026-09-29 09:22:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股彤程新材上市首日開盤破發跌9%】港股彤程新材上市首日開盤破發跌9.09%，現報40.00元，該股發行價為44.00元。"
-    },
-    {
-      "id": "5117537",
-      "time": "2026-09-29 09:22:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股羅博特科上市首日開盤破發跌3%】港股羅博特科上市首日開盤破發跌3.76%，現報419.60元，該股發行價為436.00元。"
-    },
-    {
-      "id": "5117536",
-      "time": "2026-09-29 09:21:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股景旺電子上市首日開盤破發跌6%】港股景旺電子上市首日開盤破發跌6.98%，現報65.00元，該股發行價為69.88元。"
     }
   ]
 }
