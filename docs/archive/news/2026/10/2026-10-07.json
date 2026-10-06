@@ -1,7 +1,37 @@
 {
   "date": "2026-10-07",
-  "count": 272,
+  "count": 275,
   "items": [
+    {
+      "id": "5129142",
+      "time": "2026-10-07 04:20:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "捷藍航空獲美國聯邦航空管理局批准，接手精神航空原在拉瓜迪亞機場的 22 個起降時刻。"
+    },
+    {
+      "id": "5129140",
+      "time": "2026-10-07 04:20:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：俄烏衝突正越來越接近結束。"
+    },
+    {
+      "id": "mkt:01a112df-922e-7ee0-a7c5-1101551c69ba",
+      "time": "2026-10-07 04:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. API weekly crude stocks for the week to Oct. 2 due in 10 minutes."
+    },
     {
       "id": "5129138",
       "time": "2026-10-07 04:16:15",

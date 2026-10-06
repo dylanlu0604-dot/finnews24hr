@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-07 04:17:43",
-  "count": 9666,
+  "updated": "2026-10-07 04:21:33",
+  "count": 9663,
   "items": [
+    {
+      "id": "5129142",
+      "time": "2026-10-07 04:20:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "捷藍航空獲美國聯邦航空管理局批准，接手精神航空原在拉瓜迪亞機場的 22 個起降時刻。"
+    },
+    {
+      "id": "5129140",
+      "time": "2026-10-07 04:20:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：俄烏衝突正越來越接近結束。"
+    },
+    {
+      "id": "mkt:01a112df-922e-7ee0-a7c5-1101551c69ba",
+      "time": "2026-10-07 04:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. API weekly crude stocks for the week to Oct. 2 due in 10 minutes."
+    },
     {
       "id": "5129138",
       "time": "2026-10-07 04:16:15",
@@ -88940,58 +88970,6 @@
         "Importance 1"
       ],
       "text": "TSX Inches Lower as Soft GDP and Trade War Weigh — The S&P/TSX Composite Index inched lower to close at 35,460 on Tuesday following subdued GDP data and as a US ban on multiple Canadian imports came into force. Advance information showed that real GDP increased 0.2% in August, with gains in mining and quarrying and retail trade partly offset by a decline in oil and gas extraction. GDP was essentially unchanged in July. The US ban on various Canadian goods, including many alcoholic beverages and dairy products, also took effect, with Saputo losing 2%. Major banks posted losses, with RBC down 0.6%. Meanwhile, oil prices pulled back as US and Iranian officials continued separate discussions with mediators. Energy producers retreated, with Canadian Natural down 0.7% and Suncor falling 1.7%. In contrast, miners rebounded from yesterday’s losses as gold prices rose, with Agnico Eagle gaining 1.1% and Franco-Nevada up 0.9%. Tech stocks also gained as the planned Anthropic IPO on Wall Street lent support to the sector, with Shopify up 2.9%."
-    },
-    {
-      "id": "mkt:01a0eed4-25e0-7338-ab1d-0d468b76a6c0",
-      "time": "2026-09-30 04:21:15",
-      "tags": [
-        "MKT News",
-        "AAL.O",
-        "Impact bullish",
-        "ALK.O"
-      ],
-      "text": "American Airlines Group (AAL.O) and Alaska Airlines plan to expand their joint business across the Atlantic and Pacific and will seek regulatory approval."
-    },
-    {
-      "id": "5119484",
-      "time": "2026-09-30 04:21:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：提高利率以支援美國財富管理機構的客戶現金收益。"
-    },
-    {
-      "id": "5119483",
-      "time": "2026-09-30 04:21:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局：將藍色起源的新格倫9×4火箭納入發射服務合同，二代發射服務合同（NLS II）包含准入增補條款，發射服務專案辦公室將提供相關服務。"
-    },
-    {
-      "id": "mkt:01a0eed3-0c1d-7338-ab1d-00b8d097f60b",
-      "time": "2026-09-30 04:20:03",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. API weekly crude oil inventories for the week to Sept. 25 due in ten minutes."
-    },
-    {
-      "id": "5119482",
-      "time": "2026-09-30 04:18:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "NBA預計很快敲定拉斯維加斯新球隊的中標競標方。"
-    },
-    {
-      "id": "5119479",
-      "time": "2026-09-30 04:17:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：ICE在保護我們人民的安全方面做得非常出色。我們幹得太棒了。你應該去跟民主黨人談談。為什麼允許2500萬人進入我們的國家？他們擾亂了我們的國家，傷害了我們的國家。"
     }
   ]
 }
