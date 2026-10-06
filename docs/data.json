@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-06 22:29:30",
-  "count": 9844,
+  "updated": "2026-10-06 22:33:31",
+  "count": 9841,
   "items": [
+    {
+      "id": "te:markets:589910",
+      "time": "2026-10-06 22:32:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Baltic Dry Index Falls Further — The Baltic Index, measuring the price for dry bulk freight, fell by 2.2% to 3,002 points on Tuesday, its lowest since late August. The index measuring prices for capsize bulk carriers plunged by 4% to 4,638, aligned with a drop in earnings for iron ore and coal carriers. In turn, indexes measuring panamax and supramax vessels was mostly unchanged from the previous session."
+    },
+    {
+      "id": "5128854",
+      "time": "2026-10-06 22:32:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟批准埃森哲收購INDX和AlfaHealth。"
+    },
+    {
+      "id": "5128853",
+      "time": "2026-10-06 22:31:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沙欣譴責阻止外國觀察員參與中期選舉的行為。"
+    },
+    {
+      "id": "5128852",
+      "time": "2026-10-06 22:31:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟批准大眾汽車金融服務公司（VWFS）收購DML的獨家控制權。"
+    },
+    {
+      "id": "5128851",
+      "time": "2026-10-06 22:30:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀執行長：距離完成瑞士信貸的整合還有3個月。"
+    },
+    {
+      "id": "mkt:01a1119f-0330-7ee0-a7be-bb40aab77d5c",
+      "time": "2026-10-06 22:29:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Yellen: Canada justified in anger over US tariffs, should retaliate】Former US Treasury Secretary Janet Yellen criticized President Trump’s treatment of allies and endorsed countermeasures against protectionist US tariffs. Responding to Canadian Finance Minister Chrystia Freeland, Yellen said she found attempts to “monetize” US security commitments shocking and that she “fully understand[s] why you feel betrayed, and why you’re so angry,” and added Canada should take retaliatory measures against the tariff actions."
+    },
+    {
+      "id": "mkt:01a1119e-62e2-7ee0-a7be-b4f9eb8b73e4",
+      "time": "2026-10-06 22:29:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar says talks and information exchange to end regional conflict continue】Qatar's foreign ministry media and communications director Ibrahim Hashimi said on the 6th that negotiations and information exchange among parties to the regional conflict are continuing via Qatar and regional partners, with diplomatic efforts under way to bridge differences. He said talks remain ongoing and take account of parties' concerns but declined to comment on specific proposals, dispute points or technical details. Hashimi warned the world is paying a heavy price and urged an immediate negotiated end to the conflict."
+    },
     {
       "id": "5128850",
       "time": "2026-10-06 22:28:31",
@@ -565,6 +631,16 @@
         "其他"
       ],
       "text": "雅馬哈和迪爾將共同開發未來的並排座車輛。"
+    },
+    {
+      "id": "5128814",
+      "time": "2026-10-06 22:01:23",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【數十年高位收益率凸顯債券吸引力 Pimco強調分散配置】Pimco表示，債券收益率處於數十年來高位，為投資者提供了頗具吸引力的收益機會，投資者應將資產配置分散至發達市場和新興市場，以幫助防範財政風險。這家管理約2.33萬億美元資產的投資機構週二釋出最新的6至12個月週期展望。當前長期美國國債收益率徘徊在2002年以來最高水平附近，其中基準10年期美債收益率約為5.25%，30年期約為5.65%。Pimco經濟學家Tiffany Wilding和全球固定收益首席投資官Andrew Balls在報告中表示，“當前頗具吸引力的初始收益率以及由此帶來的利息收入，可以在相當程度上緩衝通脹尾部風險，同時仍保留債券在人工智慧資本支出推動力減弱或經濟增長遭遇衝擊時發揮對沖作用的潛力。”Pimco表示，投資者“在發達市場和新興市場之間進行全球債券組合配置，有助於分散包括財政風險在內的特定國家風險”。這家資產管理公司表示，美國和法國“尤其突出，兩國的債務路徑更具挑戰性”。與此同時，“英國、義大利和日本仍然較為脆弱 —— 鑑於近期政策進一步擴大赤字，日本的脆弱性有所上升 —— 但按照目前的財政計劃，這些國家的債務路徑看來仍具有可持續性。”"
     },
     {
       "id": "5128813",
@@ -90713,99 +90789,6 @@
         "公司"
       ],
       "text": "據港交所檔案：柳道實業控股有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "5119065",
-      "time": "2026-09-29 22:33:23",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "烏茲別克石油天然氣公司與摩根大通討論國際債券發行事宜。"
-    },
-    {
-      "id": "5119064",
-      "time": "2026-09-29 22:32:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 政府已經壞了許多、許多十年。你可以說可能幾個世紀了。我們沒有追溯那麼久。而特朗普政府正在修復它。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202609293886786454",
-      "time": "2026-09-29 22:31:49",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "達拉斯聯儲9月德克薩斯服務業收入指數為-0.9，8月為6.6。"
-    },
-    {
-      "id": "5119063",
-      "time": "2026-09-29 22:31:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【公安部公佈8起新型涉黑惡犯罪典型案例】為深入貫徹落實黨中央關於開展深化掃黑除惡專項鬥爭的決策部署，公安部組織指揮全國公安機關開展集中收網行動，打掉一批犯罪團伙，偵破一批涉黑惡案件。為有力震懾犯罪，今日，公安部公佈其中8起新型涉黑惡犯罪典型案例。（央視新聞）"
-    },
-    {
-      "id": "5119062",
-      "time": "2026-09-29 22:31:12",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "達拉斯聯儲德克薩斯州服務業收入指數9月為-0.9，8月為6.6。"
-    },
-    {
-      "id": "5119061",
-      "time": "2026-09-29 22:30:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Claude.ai、Claude Code等服務出現故障，Anthropic正在調查】9月29日，Anthropic旗下人工智慧服務Claude出現服務異常。根據Anthropic官方狀態頁面，Claude.ai（包括桌面端和移動端應用）、Claude Code以及Claude Cowork均出現錯誤率升高情況，公司正在調查原因。Anthropic表示，受影響使用者可能遇到請求失敗、對話載入或傳送失敗，以及被要求重新登入等問題，部分請求在重試後可能恢復正常。截至目前，Claude Console和Claude API服務仍顯示正常執行；Claude.ai、Claude Code和Claude Cowork處於“部分中斷”狀態。Anthropic尚未公佈此次故障的具體原因及預計恢復時間。"
-    },
-    {
-      "id": "5119060",
-      "time": "2026-09-29 22:30:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國9月達拉斯聯儲服務業商業活動指數為-1.8。"
-    },
-    {
-      "id": "5119059",
-      "time": "2026-09-29 22:30:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：美國國務卿魯比奧表現出色。"
-    },
-    {
-      "id": "mkt:01a0ed92-8fcc-7338-ab13-5de2ae0a3b4a",
-      "time": "2026-09-29 22:30:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said U.S. Secretary of State Rubio has performed well."
-    },
-    {
-      "id": "5119058",
-      "time": "2026-09-29 22:29:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【富國銀行上調標普500工業板塊評級至“看好”，稱AI基建與資本開支週期提供支撐】富國銀行投資研究所將標普500工業板塊評級由“中性”上調至“看好”，扭轉其7月16日的下調。該機構指出，自此前降級以來，工業板塊截至9月24日較標普500指數落後約7.8%，但目前仍處於多輪投資週期的核心位置。AI基礎設施建設繼續帶動發電、輸配電裝置、電氣系統、暖通裝置、備用電源和工程機械需求，部分短週期裝置訂單積壓可見度已延伸至2027年初，部分電力和電氣基礎設施訂單甚至延伸至2030年以後。富國銀行還認為，基礎設施和國防支出增加、製造業迴流、商用航空需求以及一般工業活動改善，有望推動行情從早期AI受益公司向更廣泛的工業企業擴散。該機構同時提示，原材料成本、產能約束、部分公司估值偏高以及未來供給擴張帶來的產能過剩仍是主要風險。"
-    },
-    {
-      "id": "mkt:01a0ed92-69b5-7338-ab13-5683a2efdfd8",
-      "time": "2026-09-29 22:29:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission spokesperson said trade data to date indicate the tariff-quota volumes set in the revised Deep and Comprehensive Free Trade Agreement (DCFTA) are fair and balanced."
     }
   ]
 }
