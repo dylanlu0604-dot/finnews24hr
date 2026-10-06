@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-06 22:01:49",
-  "count": 9858,
+  "updated": "2026-10-06 22:05:40",
+  "count": 9852,
   "items": [
+    {
+      "id": "5128818",
+      "time": "2026-10-06 22:04:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼北加里曼丹省發生5.3級地震】據印尼氣象、氣候和地球物理局報告，當地時間10月6日20時11分，印尼北加里曼丹省塔拉坎市東北219公里處發生5.3級地震，震源深度為10公里，暫無海嘯風險。（央視新聞）"
+    },
+    {
+      "id": "5128817",
+      "time": "2026-10-06 22:02:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國雅馬哈發動機公司：與約翰迪爾將各自保留原有品牌、經銷商及銷售渠道和客戶關係。"
+    },
+    {
+      "id": "5128816",
+      "time": "2026-10-06 22:01:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅馬哈將為迪爾公司提供動力總成技術支援。"
+    },
+    {
+      "id": "5128815",
+      "time": "2026-10-06 22:01:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "雅馬哈和迪爾將共同開發未來的並排座車輛。"
+    },
     {
       "id": "5128813",
       "time": "2026-10-06 22:00:33",
@@ -90850,96 +90883,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4200美元/盎司，日內漲0.76%。"
-    },
-    {
-      "id": "5119016",
-      "time": "2026-09-29 22:05:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯納姆：英國脫歐並未讓我們獲得控制權。"
-    },
-    {
-      "id": "5119015",
-      "time": "2026-09-29 22:04:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普政府推出一款旨在簡化政府線上服務的人工智慧工具。"
-    },
-    {
-      "id": "mkt:01a0ed7a-e153-7338-ab12-c1c3e68a7d53",
-      "time": "2026-09-29 22:04:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasuries pared losses after consumer confidence and JOLTS data."
-    },
-    {
-      "id": "te:economy:587753",
-      "time": "2026-09-29 22:04:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Job Offers",
-        "Importance 3"
-      ],
-      "text": "US Job Openings Miss Forecasts — The number of job openings in the US fell by 256,000 to 7.079 million in August 2026, the lowest in five months, compared to an upwardly revised 7.335 million in July and forecasts of 7.23 million. Job openings fell in health care and social assistance (-115,000), professional and business services (-119,000), manufacturing (-54,000), construction (-48,000), real estate and rental and leasing (-45,000) and wholesale trade (-36,000). Regionally, openings fell in the Northeast (-78,000), the Midwest (-6,000) and the West (-243,000), but rose in the South (+71,000). Hires changed little at 5.2 million, while total separations were unchanged at 5.1 million. Within separations, quits (3.1 million) were unchanged, while layoffs and discharges (1.6 million) were essentially unchanged."
-    },
-    {
-      "id": "5119014",
-      "time": "2026-09-29 22:03:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國學生貸款登記期限延長三個月。"
-    },
-    {
-      "id": "5119013",
-      "time": "2026-09-29 22:03:49",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊稱波斯灣已無美軍艦船】據伊朗塔斯尼姆通訊社29日報道，伊朗伊斯蘭革命衛隊發言人穆赫比稱，波斯灣已無美軍艦船。目前，美軍艦船已撤至距波斯灣入口至少500公里外。（新華社）"
-    },
-    {
-      "id": "5119012",
-      "time": "2026-09-29 22:03:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "LINXON、日立能源與FTC Solar宣佈達成戰略合作，以加速公用事業規模可再生能源及電網基礎設施發展。"
-    },
-    {
-      "id": "5119011",
-      "time": "2026-09-29 22:03:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國學生貸款利率下調的登記期限延長。"
-    },
-    {
-      "id": "5119010",
-      "time": "2026-09-29 22:02:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債跌幅收窄，此前公佈了消費者信心和JOLTS資料。"
-    },
-    {
-      "id": "5119009",
-      "time": "2026-09-29 22:02:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：沙特王儲在利雅得會見阿聯酋副總統。"
     }
   ]
 }
