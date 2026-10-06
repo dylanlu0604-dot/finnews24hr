@@ -1,7 +1,88 @@
 {
   "date": "2026-10-06",
-  "count": 1004,
+  "count": 1013,
   "items": [
+    {
+      "id": "5128220",
+      "time": "2026-10-06 15:51:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國電網運營商警告稱，週二下午電力供應可能趨緊，預計風力發電量將在夜間進一步大幅下降。"
+    },
+    {
+      "id": "5128219",
+      "time": "2026-10-06 15:50:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "德國商業銀行分析師Christoph Rieger：法國國債的拋售壓力似乎正在減弱，而且與美國國債走勢脫鉤令人鼓舞。"
+    },
+    {
+      "id": "5128218",
+      "time": "2026-10-06 15:50:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "OFCOM：調查Meta在推出Instagram Instants前是否未充分評估其帶來的風險。"
+    },
+    {
+      "id": "te:economy:589820",
+      "time": "2026-10-06 15:50:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "French Construction Sector Contracts Less in September — The S&P Global France Construction PMI rose to 39.8 in September 2026 from 37.3 in August, remaining well below the 50 threshold, signaling a continued sector-wide downturn. Commercial construction was once again the weakest segment, posting a steep decline followed by residential construction, while civil engineering activity posted its slowest contraction in eight months. New projects continued to fall, extending the downturn in demand to four-and-a-half years, amid a lack of new tenders, client budget constraints, and general uncertainty. Firms also cut construction material purchases and employment, extending the current period of job shedding that began in May 2024. Meanwhile, input cost inflation remained historically elevated, partly due to repercussions from the war in the Middle East, while delivery delays eased to their lowest since June 2025. French constructors also became more pessimistic about the year ahead, with expectations falling to their weakest since December 2025."
+    },
+    {
+      "id": "5128217",
+      "time": "2026-10-06 15:50:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國通訊管理局：正在調查Meta在Instagram推出Instants功能前是否未進行非法內容和兒童風險評估。"
+    },
+    {
+      "id": "mkt:01a11030-e899-7ee0-a7b3-7bd6553675b0",
+      "time": "2026-10-06 15:50:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Saudi says two airports hit in Houthi attacks】The Saudi General Authority of Civil Aviation (GACA) said on the evening of Oct. 5 local time that King Abdulaziz International Airport in Jeddah and Najran International Airport were attacked by Houthi militants, causing three injuries and limited material damage. A Houthi spokesman said in a video statement on Oct. 5 the group launched three strikes that day, including at King Khalid International Airport in Riyadh."
+    },
+    {
+      "id": "5128216",
+      "time": "2026-10-06 15:49:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國通訊管理局：針對Meta推出Instagram Instant服務一事，正式對其是否遵守英國《網路安全法案》展開調查。"
+    },
+    {
+      "id": "5128215",
+      "time": "2026-10-06 15:49:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特稱2座機場遭胡塞武裝襲擊】沙特民航局今天（10月6日）稱，當地時間10月5日晚，位於吉達的阿卜杜勒-阿齊茲國王國際機場和奈季蘭國際機場遭葉門胡塞武裝襲擊，“造成3人受傷及有限的物質損失”。 據胡塞武裝發言人當地時間10月5日晚的影片宣告，胡塞武裝當天對沙特發動三輪打擊，其中包括沙特首都利雅得的哈立德國王機場。（CCTV國際時訊）"
+    },
+    {
+      "id": "5128214",
+      "time": "2026-10-06 15:47:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國通訊管理局調查Meta是否遵守英國網路安全法。"
+    },
     {
       "id": "mkt:01a1102e-87be-7ee0-a7b3-750595334214",
       "time": "2026-10-06 15:47:27",
