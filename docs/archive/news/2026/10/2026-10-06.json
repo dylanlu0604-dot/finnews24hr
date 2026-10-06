@@ -1,7 +1,57 @@
 {
   "date": "2026-10-06",
-  "count": 1017,
+  "count": 1022,
   "items": [
+    {
+      "id": "mkt:01a11037-dc3a-7ee0-a7b3-9fdc18aa6917",
+      "time": "2026-10-06 15:57:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Mizuho: AI-driven demand likely limited upside for Japan CPI】Mizuho Securities economists say AI-related demand since early 2026 has significantly lifted Japanese corporate goods prices, but because cost increases affect only a subset of durable consumer goods, even full pass-through to consumers would likely have a limited impact on CPI. They add that likening AI-driven inflation risk to that from elevated energy prices or yen depreciation overstates the case. Bank of Japan Governor UEDA on Tuesday reiterated that AI demand, higher oil prices and yen weakness are among factors pushing up Japan’s inflation."
+    },
+    {
+      "id": "te:economy:589825",
+      "time": "2026-10-06 15:56:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "Italy Construction Downturn Eases in September — The S&P Global Italy Construction PMI rose to 46.5 in September 2026, picking up from a four-year low of 41.7 in the previous month. The improvement was driven by a less marked decline in new construction orders, while employment also recorded a modest increase. Meanwhile, lead times continued to lengthen, reflecting the impact of the war in the Middle East, with logistical and transport disruptions and stock shortages weighing on supply-chain performance. On the price front, input-cost inflation accelerated to a four-month high, driven by higher outlays for raw materials, fuel, transport and energy. Among subsectors, all remained in contraction, with the steepest decline recorded in housing, while commercial construction signaled only a slight contraction. Looking ahead, Italian construction companies remained optimistic about output over the next 12 months, although confidence stayed below its long-run average."
+    },
+    {
+      "id": "mkt:01a11036-9645-7ee0-a7b3-95ef1a4169a2",
+      "time": "2026-10-06 15:56:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Spain extends entry controls on travelers from Italy to Oct. 22】On Oct. 6 Spain’s official gazette published a decree extending port and airport entry controls on travelers from Italy until Oct. 22. The extension is a response to Italy’s earlier renewal of controls on arrivals from Spain over the Ceuta migration dispute; it is Spain’s fourth reciprocal measure. The Spanish government said the conditions prompting the controls persist and extended the deadline, but left open the possibility of revising the period if the situation changes."
+    },
+    {
+      "id": "5128223",
+      "time": "2026-10-06 15:55:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌瑞郎延續漲勢，上漲0.3%至0.93503日內高點。"
+    },
+    {
+      "id": "5128222",
+      "time": "2026-10-06 15:55:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙延長對義大利入境旅客的管控措施至10月22日】當地時間10月6日，西班牙國家官方公報釋出法令，宣佈延長對來自義大利的旅客在港口和機場的入境本國管控措施至10月22日。此前義大利決定因休達自治區移民問題再度延長對來自西班牙旅客的管控措施，這也是西班牙第四次為回應義大利政府而採取的措施。西班牙政府表示，促使採取這一措施的情況仍然存在，因此決定繼續延長對來自義大利的旅客的管控期限，但也不排除情況發生變化時，可能需要修改原定的期限。（央視新聞）"
+    },
     {
       "id": "mkt:01a11035-1a5f-7ee0-a7b3-892ecc1b75a2",
       "time": "2026-10-06 15:54:37",

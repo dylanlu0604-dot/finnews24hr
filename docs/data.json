@@ -1,7 +1,57 @@
 {
-  "updated": "2026-10-06 15:55:22",
-  "count": 10127,
+  "updated": "2026-10-06 15:59:05",
+  "count": 10125,
   "items": [
+    {
+      "id": "mkt:01a11037-dc3a-7ee0-a7b3-9fdc18aa6917",
+      "time": "2026-10-06 15:57:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "【Mizuho: AI-driven demand likely limited upside for Japan CPI】Mizuho Securities economists say AI-related demand since early 2026 has significantly lifted Japanese corporate goods prices, but because cost increases affect only a subset of durable consumer goods, even full pass-through to consumers would likely have a limited impact on CPI. They add that likening AI-driven inflation risk to that from elevated energy prices or yen depreciation overstates the case. Bank of Japan Governor UEDA on Tuesday reiterated that AI demand, higher oil prices and yen weakness are among factors pushing up Japan’s inflation."
+    },
+    {
+      "id": "te:economy:589825",
+      "time": "2026-10-06 15:56:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "Italy Construction Downturn Eases in September — The S&P Global Italy Construction PMI rose to 46.5 in September 2026, picking up from a four-year low of 41.7 in the previous month. The improvement was driven by a less marked decline in new construction orders, while employment also recorded a modest increase. Meanwhile, lead times continued to lengthen, reflecting the impact of the war in the Middle East, with logistical and transport disruptions and stock shortages weighing on supply-chain performance. On the price front, input-cost inflation accelerated to a four-month high, driven by higher outlays for raw materials, fuel, transport and energy. Among subsectors, all remained in contraction, with the steepest decline recorded in housing, while commercial construction signaled only a slight contraction. Looking ahead, Italian construction companies remained optimistic about output over the next 12 months, although confidence stayed below its long-run average."
+    },
+    {
+      "id": "mkt:01a11036-9645-7ee0-a7b3-95ef1a4169a2",
+      "time": "2026-10-06 15:56:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Spain extends entry controls on travelers from Italy to Oct. 22】On Oct. 6 Spain’s official gazette published a decree extending port and airport entry controls on travelers from Italy until Oct. 22. The extension is a response to Italy’s earlier renewal of controls on arrivals from Spain over the Ceuta migration dispute; it is Spain’s fourth reciprocal measure. The Spanish government said the conditions prompting the controls persist and extended the deadline, but left open the possibility of revising the period if the situation changes."
+    },
+    {
+      "id": "5128223",
+      "time": "2026-10-06 15:55:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌瑞郎延續漲勢，上漲0.3%至0.93503日內高點。"
+    },
+    {
+      "id": "5128222",
+      "time": "2026-10-06 15:55:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙延長對義大利入境旅客的管控措施至10月22日】當地時間10月6日，西班牙國家官方公報釋出法令，宣佈延長對來自義大利的旅客在港口和機場的入境本國管控措施至10月22日。此前義大利決定因休達自治區移民問題再度延長對來自西班牙旅客的管控措施，這也是西班牙第四次為回應義大利政府而採取的措施。西班牙政府表示，促使採取這一措施的情況仍然存在，因此決定繼續延長對來自義大利的旅客的管控期限，但也不排除情況發生變化時，可能需要修改原定的期限。（央視新聞）"
+    },
     {
       "id": "mkt:01a11035-1a5f-7ee0-a7b3-892ecc1b75a2",
       "time": "2026-10-06 15:54:37",
@@ -93339,68 +93389,6 @@
         "其他"
       ],
       "text": "【LG電子釋出新一代資料中心冷卻方案】LG電子公開了一種模組化解決方案，將泵、管道等資料中心冷卻裝置預先組裝在集裝箱內後供應給客戶。該方案的優勢在於能夠減少現場施工，並可根據伺服器擴容需求，分階段增加冷卻容量。 在29日新加坡開幕的2026亞洲資料中心展覽會上，LG電子首次展示了“Hydronic Modular（液冷模組化）”解決方案。 Hydronic Modular將迴圈冷凍水的泵和閥門、應急緩衝罐、管道等裝置，按照國際標準化組織（ISO）集裝箱規格預先組裝在集裝箱內。在資料中心現場，只需透過管道將冷水機組本體與集裝箱模組連線起來，即可構建冷卻系統。"
-    },
-    {
-      "id": "5118099",
-      "time": "2026-09-29 15:58:39",
-      "tags": [
-        "宏觀",
-        "行業",
-        "焦點"
-      ],
-      "text": "【科技部：發揮科技金融工作作用 支援企業創新發展】在國務院新聞辦公室今天（29日）舉行的“開局起步‘十五五’”系列主題新聞釋出會上，科技部邱勇副部長介紹，科技金融在促進科技創新和產業創新深度融合中發揮著重要作用。科技部與中國人民銀行、金融監管總局、中國證監會等部門共同建立科技金融統籌推進機制，出臺一系列政策舉措，科技型企業融資獲得感顯著提升。（央視新聞）"
-    },
-    {
-      "id": "5118098",
-      "time": "2026-09-29 15:58:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大禹節水：顏立群辭任常務副總裁，宋金彥辭任副總裁】大禹節水9月29日公告，公司及董事會於近日收到顏立群、宋金彥的書面辭職報告。因工作安排調整，顏立群申請辭去公司常務副總裁職務，宋金彥申請辭去公司副總裁職務。公司於2026年9月29日召開第七屆董事會第十九次（臨時）會議，審議透過了《關於聘任公司高階管理人員的議案》。經公司董事會提名委員會資格審查透過，董事會同意聘任陳靜為公司常務副總裁，李傳浩為公司副總裁，任期自本次董事會審議透過之日起至第七屆董事會屆滿之日止。"
-    },
-    {
-      "id": "te:markets:587577",
-      "time": "2026-09-29 15:57:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Rises on Tuesday — The FTSE MIB rose nearly 1% to around 52,200 on Tuesday, as investors continued to largely shrug off higher oil prices and ongoing US-Iran tensions, while bond yields held at multi-year highs. Heavyweight financials were among the main drivers, with UniCredit gaining 1% after the Financial Times reported that CEO Andrea Orcel is preparing to take control of Commerzbank and overhaul its supervisory board as early as January. Intesa Sanpaolo, Generali, Banca Mediolanum and FinecoBank all rose over 1%, while Unipol advanced more than 2%. Mediobanca also gained 0.5% amid ongoing merger discussions with Monte dei Paschi di Siena (+0.8%). Technology stocks also supported the index, led by STMicroelectronics, up 2.6%, while Prysmian climbed 1.9% as renewed AI optimism lifted the European tech sector."
-    },
-    {
-      "id": "5118097",
-      "time": "2026-09-29 15:57:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "科技部張光軍副部長介紹，推動科技創新和產業創新深度融合，是以高水平科技自立自強引領發展新質生產力的關鍵。“十五五”時期，科技部將統籌科技供給和需求牽引，打破“先有成果再考慮轉化、有什麼轉什麼”的慣性思維，強化“需求在哪就在哪攻關、攻得出就能用得上”的制度安排，推動形成科技創新和產業創新一體謀劃、互融共促新格局，從而打通從科技強到產業強、經濟強、國家強的通道。"
-    },
-    {
-      "id": "5118096",
-      "time": "2026-09-29 15:56:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊財付通宣佈降費讓利政策再延一年】騰訊旗下第三方支付平臺財付通宣佈，面向小微經營主體的降費讓利政策將再延續一年，有效期至2027年9月30日。"
-    },
-    {
-      "id": "5118095",
-      "time": "2026-09-29 15:55:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【維信諾：參與設立的聚晟材料基金完成私募基金備案】維信諾公告稱，公司與國鑫資本等多方共同發起設立安徽省聚晟材料股權投資基金合夥企業（有限合夥），該基金認繳出資總額10.00億元，公司作為有限合夥人認繳出資1.90億元，佔認繳出資比例19%。目前該基金已完成工商登記並取得營業執照，且於2026年9月28日在中國證券投資基金業協會完成私募投資基金備案，取得《私募投資基金備案證明》，基金管理人為合肥市新站國鑫資本私募基金管理有限公司，託管人為中國工商銀行股份有限公司。"
-    },
-    {
-      "id": "5118094",
-      "time": "2026-09-29 15:55:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST興化：內控整改推進中 或面臨退市風險警示】ST興化公告稱，因2025年度財務報告內部控制被出具否定意見審計報告，公司股票已於2026年5月6日開市起被實施其他風險警示。若下一個年度財務報告內部控制仍被出具無法表示意見或否定意見審計報告，公司股票將被實施退市風險警示。目前公司已外聘第三方機構開展內控診斷評估，梳理問題並下發整改要求至各責任部門，將定期督辦整改進度。公司將至少每月披露一次進展及風險提示公告，直至相應情形消除或被實施退市風險警示，目前生產經營正常。"
     }
   ]
 }
