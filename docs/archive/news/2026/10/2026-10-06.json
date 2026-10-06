@@ -1,7 +1,27 @@
 {
   "date": "2026-10-06",
-  "count": 414,
+  "count": 416,
   "items": [
+    {
+      "id": "te:economy:589681",
+      "time": "2026-10-06 08:38:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Private Sector Contracts the Most in 5 Months — The S&P Global Hong Kong SAR PMI declined to 49.2 in September 2026 from 49.1 in August, marking the second straight month of contraction. It was the fastest contraction in private-sector business activity since April, as new orders fell for the second consecutive month, though there were signs of improvement in international demand. Output also shrank for the second straight month due to challenges in the economic environment, including a decline in customer numbers and competitive pressures."
+    },
+    {
+      "id": "5127298",
+      "time": "2026-10-06 08:36:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓證券交易所資訊披露網站遭遇故障。"
+    },
     {
       "id": "5127288",
       "time": "2026-10-06 08:33:14",

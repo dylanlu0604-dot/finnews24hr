@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-06 08:35:56",
-  "count": 10420,
+  "updated": "2026-10-06 08:39:42",
+  "count": 10418,
   "items": [
+    {
+      "id": "te:economy:589681",
+      "time": "2026-10-06 08:38:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Private Sector Contracts the Most in 5 Months — The S&P Global Hong Kong SAR PMI declined to 49.2 in September 2026 from 49.1 in August, marking the second straight month of contraction. It was the fastest contraction in private-sector business activity since April, as new orders fell for the second consecutive month, though there were signs of improvement in international demand. Output also shrank for the second straight month due to challenges in the economic environment, including a decline in customer numbers and competitive pressures."
+    },
+    {
+      "id": "5127298",
+      "time": "2026-10-06 08:36:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓證券交易所資訊披露網站遭遇故障。"
+    },
     {
       "id": "5127288",
       "time": "2026-10-06 08:33:14",
@@ -95859,39 +95879,6 @@
         "Importance 2"
       ],
       "text": "Japanese Shares Fall on Rising Yields — The Nikkei 225 Index fell 0.8% to below 65,500, while the broader Topix Index dropped 1.4% to 4,055 on Tuesday, extending losses from the previous session as global bond yields climbed higher amid expectations that energy-driven inflation will prompt tighter monetary policy. Japanese shares also followed overnight declines on Wall Street as the US 10-year yield rose above 5.2%, while the 30-year yield stood at 5.55%. Meanwhile, oil prices resumed their advance after Iranian officials reportedly expressed doubts about reaching a deal before the US midterm elections in November, following President Donald Trump’s rejection of Tehran’s latest proposal. Notable declines were recorded among heavyweight technology, financial and consumer stocks, including SoftBank Group (-2.1%), Mitsubishi UFJ (-2.5%), and Toyota Motor (-2.7%)."
-    },
-    {
-      "id": "5117471",
-      "time": "2026-09-29 08:38:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於美國東部時間週二中午12:30出席人工智慧（AI）主題午餐會。"
-    },
-    {
-      "id": "5117470",
-      "time": "2026-09-29 08:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【南方大範圍降雨、北方多地降溫】未來三天（9月29日至10月1日），南方大範圍降雨持續，西南、江南、華南的部分地區雨勢較強。眼下，一股較強冷空氣正在影響我國，中東部自北向南陸續迎來降溫，氣溫將大面積創下半年來新低。國慶假期出行高峰將至，公眾需關注最新天氣預報，及時添衣，外出注意防雨。"
-    },
-    {
-      "id": "5117469",
-      "time": "2026-09-29 08:37:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子高管表示，明年高頻寬記憶體將佔DRAM晶片製造商總晶圓產能的近30%，高於目前的約20%。"
-    },
-    {
-      "id": "5117468",
-      "time": "2026-09-29 08:36:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【瑞幸咖啡獲得波斯灣資金支援，正考慮進軍中東市場】在獲得阿布扎比主權基金穆巴達拉投資公司注資後，瑞幸咖啡再度評估進入波斯灣地區市場的可能性。瑞幸控股股東、私募機構 Centurium Capital 聯合創始人兼CEO黎輝在週一接受媒體採訪時表示，公司高層正在考慮拓展海灣國家市場。他稱：“我們還在考察其他市場，有可能進入海灣國家這類區域。”"
     }
   ]
 }
