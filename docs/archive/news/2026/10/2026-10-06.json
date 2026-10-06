@@ -1,7 +1,40 @@
 {
   "date": "2026-10-06",
-  "count": 448,
+  "count": 452,
   "items": [
+    {
+      "id": "5127560",
+      "time": "2026-10-06 09:05:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【谷歌與Constellation接近達成十億美元核電採購協議】隨著各大科技企業爭相為資料中心擴容保障電力供應，谷歌母公司字母表公司即將與Constellation EnergyCorp.達成核電採購協議。知情人士透露，這家科技巨頭即將簽訂一份多年期協議，向Constellation支付至少 10 億美元，預計最快本週官宣。因資訊尚未公開，知情人士要求匿名。美國最大核反應堆運營商Constellation與谷歌週一均拒絕對此置評。目前尚無法確定本次核電專案的確切規模與選址。"
+    },
+    {
+      "id": "5127525",
+      "time": "2026-10-06 09:02:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌與Constellation 接近達成十億美元的核電交易。"
+    },
+    {
+      "id": "mkt:01a10ebb-7dc7-7ee0-a7ab-c2cd53f3921e",
+      "time": "2026-10-06 09:02:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine Statistics Bureau said September inflation rose 7.2% YoY, versus Refinitiv estimate of 6.6%."
+    },
+    {
+      "id": "5127490",
+      "time": "2026-10-06 09:01:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓統計局公佈，該國9月通脹率同比上升7.2%，調查預期為上升6.6%。"
+    },
     {
       "id": "5127432",
       "time": "2026-10-06 09:01:21",
