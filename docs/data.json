@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-08 06:23:46",
-  "count": 8932,
+  "updated": "2026-10-08 06:27:36",
+  "count": 8933,
   "items": [
+    {
+      "id": "5130752",
+      "time": "2026-10-08 06:25:53",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【私募策略轉向均衡，“輕指數重個股”漸成共識】A股四季度交易已然開啟。近期多家一線股票私募機構表示，對四季度市場並不悲觀：資產欠配背景下的系統性風險有限，部分經濟高頻資料邊際改善，估值壓制因素不明顯，但增量資金和市場情緒仍待修復，後市大機率震盪修復、以結構性行情為主。在策略應對上，“均衡配置”“輕指數重個股”成為私募共識；在市場主線上，AI產業仍受高度關注，9月私募機構對A股公司的調研，也聚焦在電子等方向。在潛在風險與積極因素方面，多傢俬募表示，需進一步跟蹤美聯儲貨幣政策、油價與地緣因素擾動、A股三季報業績及增量資金入市情況。（中證報）"
+    },
+    {
+      "id": "mkt:01a11878-62c6-7ee0-a7e2-6171e8d81db5",
+      "time": "2026-10-08 06:25:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Syria denies it will enter Yemen conflict】Syria’s government denied reports it would join the Yemen war, saying its position is clear: it supports Saudi Arabia but will not open new fronts. Damascus said its regional policy focuses on stability, peace and reconstruction, prioritizing domestic state rebuilding and improving livelihoods. Any military cooperation with partner states would occur only via official channels and existing bilateral frameworks. Multiple media outlets had reported Syria might send troops to Yemen to assist Saudi operations against Houthi forces."
+    },
+    {
+      "id": "5130751",
+      "time": "2026-10-08 06:24:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本主導的亞洲零排放共同體（AZEC）擬就石油儲備相關事宜達成協議。"
+    },
     {
       "id": "5130750",
       "time": "2026-10-08 06:18:46",
@@ -82269,23 +82296,6 @@
         "其他"
       ],
       "text": "Transurban 以 45 億澳元收購加拿大養老金計劃投資委員會的澳大利亞收費公路資產。"
-    },
-    {
-      "id": "5121772",
-      "time": "2026-10-01 06:24:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：伊朗戰爭帶來的擾動持續時間超出預期，已逐步上調對中性利率的預估。"
-    },
-    {
-      "id": "5121771",
-      "time": "2026-10-01 06:23:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普公佈韓國對美能源專案投資計劃 規模2000億美元】美國總統唐納德·特朗普公佈韓國對美國能源專案的投資計劃，規模為2000億美元，其中包括八座核電站、德克薩斯州一座發電設施以及阿拉斯加天然氣出口專案。“我們今天宣佈的這一鉅額投資計劃，是確保關鍵能源供應鏈安全、保障美國能源主導地位，並使我們與韓國以及整個太平洋地區的夥伴關係比以往任何時候都更加牢固的重要一步，”特朗普週三在白宮活動上表示。能源行業高管也出席了這一活動。這2000億美元投資為去年美韓貿易協議下首批獲得支援的專案，根據協議，韓國已承諾在美國投資3500億美元。"
     }
   ]
 }

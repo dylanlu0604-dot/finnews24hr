@@ -1,7 +1,34 @@
 {
   "date": "2026-10-08",
-  "count": 324,
+  "count": 327,
   "items": [
+    {
+      "id": "5130752",
+      "time": "2026-10-08 06:25:53",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【私募策略轉向均衡，“輕指數重個股”漸成共識】A股四季度交易已然開啟。近期多家一線股票私募機構表示，對四季度市場並不悲觀：資產欠配背景下的系統性風險有限，部分經濟高頻資料邊際改善，估值壓制因素不明顯，但增量資金和市場情緒仍待修復，後市大機率震盪修復、以結構性行情為主。在策略應對上，“均衡配置”“輕指數重個股”成為私募共識；在市場主線上，AI產業仍受高度關注，9月私募機構對A股公司的調研，也聚焦在電子等方向。在潛在風險與積極因素方面，多傢俬募表示，需進一步跟蹤美聯儲貨幣政策、油價與地緣因素擾動、A股三季報業績及增量資金入市情況。（中證報）"
+    },
+    {
+      "id": "mkt:01a11878-62c6-7ee0-a7e2-6171e8d81db5",
+      "time": "2026-10-08 06:25:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Syria denies it will enter Yemen conflict】Syria’s government denied reports it would join the Yemen war, saying its position is clear: it supports Saudi Arabia but will not open new fronts. Damascus said its regional policy focuses on stability, peace and reconstruction, prioritizing domestic state rebuilding and improving livelihoods. Any military cooperation with partner states would occur only via official channels and existing bilateral frameworks. Multiple media outlets had reported Syria might send troops to Yemen to assist Saudi operations against Houthi forces."
+    },
+    {
+      "id": "5130751",
+      "time": "2026-10-08 06:24:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本主導的亞洲零排放共同體（AZEC）擬就石油儲備相關事宜達成協議。"
+    },
     {
       "id": "5130750",
       "time": "2026-10-08 06:18:46",
