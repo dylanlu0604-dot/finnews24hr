@@ -1,7 +1,121 @@
 {
-  "updated": "2026-10-07 17:11:31",
-  "count": 9293,
+  "updated": "2026-10-07 17:15:21",
+  "count": 9287,
   "items": [
+    {
+      "id": "te:economy:590154",
+      "time": "2026-10-07 17:14:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Iceland",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Iceland Trade Gap Widens in September — Iceland’s trade deficit widened to ISK 45.7 billion in September 2026 from ISK 44.9 billion in the same month a year earlier. Imports rose by 9% to ISK 133.2 billion, driven largely by higher purchases of fuels and lubricants (+79%), capital goods (+13%), and consumer goods (+9%), while imports declined in food and beverages (-11%), industrial supplies (-3%), and transport equipment (-13%). Meanwhile exports increased by 13% to ISK 87.5 billion, lifted by increased shipments of farmed fish (+64%), manufacturing products (+29%), which offset the declines in marine products (-7%), agriculture products (-7%), and other products (-29%). Over the last twelve months, Iceland’s trade deficit totaled ISK 470.7 billion, narrowing from ISK 521.4 billion a year earlier. Imports fell by 2% to ISK 1,435.6 billion, while exports grew by 2% to ISK 964.9 billion."
+    },
+    {
+      "id": "5129939",
+      "time": "2026-10-07 17:13:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "風險投資公司Disruptive正在為一隻新基金募集最高100億美元資金。（備註：去年年底，英偉達與晶片初創公司Groq達成一項規模達200億美元的許可協議後，Disruptive因早期押注Groq而迅速受到市場關注。）"
+    },
+    {
+      "id": "te:markets:590153",
+      "time": "2026-10-07 17:12:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Philippines",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Philippines 10Y Bond Yield Hits Near 8-year High — Philippines 10 Year Government Bond Yield increased to 7.99%, the highest since October 2018. Over the past 4 weeks, Philippines 10Y Bond Yield gained 36.50 basis points, and in the last 12 months, it increased 168.00 basis points."
+    },
+    {
+      "id": "5129938",
+      "time": "2026-10-07 17:12:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【標普500ETF國泰：二級市場價格大幅溢價 提示投資風險】標普500ETF國泰公告稱，2026年9月30日，基金二級市場收盤價為2.076元，收盤時基金份額參考淨值（IOPV）為1.9197元，交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。若2026年10月8日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施警示風險。目前基金運作正常，無應披露而未披露的重大資訊，提醒投資者審慎決策，注意投資風險。"
+    },
+    {
+      "id": "5129937",
+      "time": "2026-10-07 17:11:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：因交易價格溢價 10月8日起停牌後復牌】納指科技ETF景順公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月30日，本基金二級市場收盤價為3.194元，收盤時基金份額參考淨值為2.3720元。為保護投資者利益，本基金將於2026年10月8日開市起停牌，自當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，本基金有權申請盤中臨時停牌等措施警示風險。"
+    },
+    {
+      "id": "5129936",
+      "time": "2026-10-07 17:11:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF廣發：因交易價格溢價 10月8日起臨時停牌】納指ETF廣發公告稱，基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月30日，基金二級市場收盤價為1.735元，收盤時基金份額參考淨值為1.5261元。基金將於2026年10月8日開市起停牌，當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "5129935",
+      "time": "2026-10-07 17:11:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF匯添富：因交易價格溢價 10月8日起臨時停牌】納指ETF匯添富公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月30日，本基金二級市場收盤價為2.476元，收盤時基金份額參考淨值為2.2270元。為保護投資者利益，本基金將於2026年10月8日開市起停牌，自當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，本基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "5129934",
+      "time": "2026-10-07 17:11:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF大成：因二級市場溢價將停牌後復牌】納斯達克100ETF大成公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月30日，本基金二級市場收盤價為1.879元，收盤時基金份額參考淨值為1.6990元。為保護投資者利益，本基金將於2026年10月8日開市起停牌，當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，本基金有權申請盤中臨時停牌等措施警示風險。"
+    },
+    {
+      "id": "5129933",
+      "time": "2026-10-07 17:11:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：因二級市場價格溢價 10月8日起停牌後復牌】納指ETF嘉實公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月30日，本基金二級市場收盤價為2.205元，收盤時基金份額參考淨值（IOPV）為1.9147元。為保護投資者利益，本基金將於2026年10月8日開市起停牌，自2026年10月8日10:30起復牌，停牌期間贖回業務照常辦理。若2026年10月8日溢價幅度未有效回落，本基金有權申請盤中臨時停牌等措施警示風險。"
+    },
+    {
+      "id": "5129932",
+      "time": "2026-10-07 17:11:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國50ETF匯添富：二級市場交易價格溢價風險提示】美國50ETF匯添富公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值（IOPV），出現較大幅度溢價。2026年9月30日，本基金二級市場收盤價為1.708元，收盤時基金份額參考淨值（IOPV）為1.5830元。若2026年10月8日二級市場交易價格溢價幅度未有效回落，本基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。截至目前，本基金運作正常且無其他應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "5129931",
+      "time": "2026-10-07 17:11:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF易方達：因交易價格溢價 10月8日起臨時停牌】納指ETF易方達公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月30日，本基金二級市場收盤價為2.124元，收盤時基金份額參考淨值為1.8977元。為保護投資者利益，本基金將於2026年10月8日開市起停牌，自當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，本基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "5129930",
+      "time": "2026-10-07 17:11:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克ETF華安：因二級市場溢價將停牌後復牌】納斯達克ETF華安公告稱，旗下華安納斯達克100交易型開放式指數證券投資基金（QDII）二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月30日，該基金二級市場收盤價為2.566元，基金份額參考淨值為2.3164元。該基金將於2026年10月8日開市起停牌，當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，基金有權申請盤中臨時停牌等措施警示風險。"
+    },
     {
       "id": "te:economy:590152",
       "time": "2026-10-07 17:10:58",
@@ -85449,165 +85563,6 @@
         "公司"
       ],
       "text": "【威爾藥業：擬以5000萬元-1億元回購公司股份】威爾藥業公告，擬以自有資金或自籌資金回購公司股份，回購金額不低於人民幣5000萬元（含）且不超過1億元（含），回購價格不超過人民幣40.11元/股（含），回購期限為自董事會審議透過回購方案之日起12個月內，回購股份擬用於未來實施員工持股計劃或股權激勵。"
-    },
-    {
-      "id": "5120654",
-      "time": "2026-09-30 17:15:09",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國辦：支援國際消費中心城市、促進體育消費和賽事經濟試點城市舉辦重大國際賽事】國務院辦公廳釋出《關於發展體育賽事激發消費活力的意見》，其中提出，推動賽事與商務協同發展。支援國際消費中心城市、促進體育消費和賽事經濟試點城市舉辦重大國際賽事。最佳化賽展結合模式，推出一批“賽事+博覽會”品牌活動。鼓勵商業品牌依託賽事授權推出聯名、周邊產品。引導商業綜合體、商圈、街區因地制宜引入賽事活動，鼓勵餐飲、零售等各類商家推出賽事票根專屬優惠，啟用二次消費。擴大賽事旅遊、賽事贊助、版權交易等賽事服務貿易規模。"
-    },
-    {
-      "id": "5120653",
-      "time": "2026-09-30 17:14:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國慶大疆相機租金翻三倍】“租著過節”正在成為年輕人的新風尚。中秋剛過，國慶將至，長假帶火了租相機、租車等生意。一位相機租賃商家告訴記者，店內的二三十款相機今年國慶基本都“沒檔期”了，從9月中旬起，理光相機等熱門產品就差不多租完了。 9月30日，記者詢問多個平臺商家發現，國慶期間大疆Osmo Pocket 4、理光相機多款機型等在租賃市場普遍缺貨，有商家報價大疆節日租賃價為80元/天，相較日常價格翻了近三倍。有消費者告訴記者，理光GR3X日常日租金在20元左右，國慶假期也漲到了70元。（第一財經）"
-    },
-    {
-      "id": "5120652",
-      "time": "2026-09-30 17:14:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威爾藥業：擬以5000萬元-1億元回購公司股份】威爾藥業公告，擬以自有資金或自籌資金回購公司股份，回購金額不低於人民幣5000萬元（含）且不超過1億元（含），回購價格不超過人民幣40.11元/股（含），回購期限為自董事會審議透過回購方案之日起12個月內，回購股份擬用於未來實施員工持股計劃或股權激勵。"
-    },
-    {
-      "id": "5120651",
-      "time": "2026-09-30 17:14:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【福建電力現貨市場正式執行】9月30日，福建電力現貨市場正式執行，標誌著福建以中長期市場為基礎、現貨市場為核心、輔助服務市場為配套的省內完整電力市場體系基本建成。(新華社)"
-    },
-    {
-      "id": "5120650",
-      "time": "2026-09-30 17:14:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國慶大疆相機租金翻三倍，年輕人“租著過節”帶火萬億租賃市場】“租著過節”正在成為年輕人的新風尚。中秋剛過，國慶將至，長假帶火了租相機、租車等生意。一位相機租賃商家告訴記者，店內的二三十款相機今年國慶基本都“沒檔期”了，從9月中旬起，理光相機等熱門產品就差不多租完了。 9月30日，記者詢問多個平臺商家發現，國慶期間大疆Osmo Pocket 4、理光相機多款機型等在租賃市場普遍缺貨，有商家報價大疆節日租賃價為80元/天，相較日常價格翻了近三倍。有消費者告訴記者，理光GR3X日常日租金在20元左右，國慶假期也漲到了70元。 （第一財經）"
-    },
-    {
-      "id": "mkt:01a0f197-e6e2-7338-ab2c-5cc3f15e2070",
-      "time": "2026-09-30 17:14:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's Council of Representatives speaker said the end of the international coalition's mission does not signify an end to cooperative ties."
-    },
-    {
-      "id": "5120649",
-      "time": "2026-09-30 17:13:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【冬季臨近 德國要求國有能源公司SEFE提高天然氣儲備】德國政府已指示國有能源公司SEFE Securing Energy for Europe GmbH在未來幾周採購並儲存天然氣。鑑於當前庫存水平異常低，該地區面臨著在冬季來臨前增加儲備的壓力。SEFE在一份電郵宣告中表示，該公司已被告知需在12月15日前向儲氣設施注入8太瓦時的天然氣。德國經濟部發言人稱此舉是“提高德國天然氣供應韌性的重要補充措施”。自伊朗戰爭爆發以來，霍爾木茲海峽就幾乎完全封閉，導致全球約五分之一的液化天然氣運輸中斷，迫使歐洲和其他地區買家爭相尋找替代供應。 德國經濟部發言人表示，經濟部長Katherina Reiche一直在密切關注天然氣市場的動態，並根據各種情況制定了應對措施。 經濟部表示，Reiche是在與德國總理默茨協商後決定採取這一措施的。發言人稱，實施此舉的主要原因是地緣政治風險揮之不去。"
-    },
-    {
-      "id": "te:economy:588151",
-      "time": "2026-09-30 17:13:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Greece",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Greece Producer Inflation Highest Since 2023 — Producer prices in Greece rose 14.9% year-on-year in August 2026, accelerating from 11.8% in the previous month and reaching its highest level since December 2022. Costs rose for intermediate goods (7.9% vs 7.0% in July), durable consumer goods (2.0% vs 1.3%), and energy (28.5% vs 21.5%). Conversely, price growth eased for capital goods (4.0% vs 4.5%) and non-durable consumer goods (1.4% vs 1.7%). By market, producer prices for the domestic market rose 8.9%, up from 7.0% in July, while those for the non-domestic market climbed 29.7% from 23.4%. On a monthly basis, producer prices fell 0.6%, reversing a 0.2% increase in the previous month."
-    },
-    {
-      "id": "5120648",
-      "time": "2026-09-30 17:13:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海天味業：登出707.16萬股已回購H股股份】海天味業公告稱，公司於2026年9月30日登出2026年9月1日至9月22日期間購回的707.16萬股H股股份，佔登出前已發行股份（不含庫存股）的2.4282%，每股回購加權平均價為27.5068港元。登出完成後，公司已發行股份總數（不含庫存股）為2.84億股，庫存股數量為0。此外，公司2026年9月23日、24日、28日分別購回10萬股H股擬登出，尚未完成登出，對應每股回購價分別為27.3162港元、27.4406港元、27.0274港元。"
-    },
-    {
-      "id": "5120647",
-      "time": "2026-09-30 17:13:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST信通：披露投資者訴訟事項進展 涉訴金額5.35億元】ST信通公告稱，截至本公告披露日，公司共收到1829名投資者起訴，合計涉訴金額5.35億元。本月公司與13位投資人達成和解或調解，需支付賠償款219.66萬元；1起生效判決執行完畢，涉及金額44.97萬元；19起二審維持原判，需賠償291.76萬元。截至目前，公司已承擔賠償責任的案件合計賠償金額8061.09萬元，未超過累計已計提的預計負債21988.58萬元，對當期損益不產生影響。尚有923起案件未結案，涉訴金額2.82億元。"
-    },
-    {
-      "id": "5120646",
-      "time": "2026-09-30 17:13:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【復星醫藥：參股的南京基金擬減資4.34億元 構成關聯交易】復星醫藥公告稱，鑑於南京基金已進入退出期，經各方協商，包括公司控股子公司寧波復瀛在內的全體合夥人同意對南京基金已認繳未實繳份額進行減資，減資總額共計4.34億元，其中本集團減少認繳出資2.67億元。減資完成後，南京基金認繳出資總額將由7.97億元降至3.63億元，仍為公司合併報表範圍內子公司。因減資方南京復鑫為公司關聯方，本次減資構成關聯交易，已經公司董事會審議透過，無需提請股東會批准。"
-    },
-    {
-      "id": "mkt:01a0f196-800d-7338-ab2c-54e83ac74cab",
-      "time": "2026-09-30 17:12:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "ITS shipping survey shows Malaysia's Sept 1-30 palm oil exports at 1,131,592 tonnes, down 17.1% from 1,364,494 tonnes in the prior-month period."
-    },
-    {
-      "id": "mkt:01a0f196-624e-7338-ab2c-4cbe54434167",
-      "time": "2026-09-30 17:12:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said its forces continue to strike the extremist group Islamic State in Syria alongside coalition partners and the Syrian government."
-    },
-    {
-      "id": "5120645",
-      "time": "2026-09-30 17:12:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【徐耀任中央社會工作部副部長】近日，中央社會工作部官網“部領導”欄目更新資訊顯示，徐耀已經出任中央社會工作部副部長。"
-    },
-    {
-      "id": "5120644",
-      "time": "2026-09-30 17:12:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瀚藍環境：重大資產重組申請因財報過期被上交所中止稽核】瀚藍環境公告稱，公司擬發行股份及支付現金購買南海高質量發展基金100%財產份額、支付現金購買粵豐環保7.22%股份以實現100%控股，並擬向不超過35名特定投資者發行股份募集配套資金不超過12億元。因本次交易申請檔案財務資料於2026年9月30日過有效期需補充提交，上交所對本次交易中止稽核。本次中止不會對交易產生重大不利影響，公司相關更新工作已基本準備就緒，將盡快報送材料並申請恢復稽核。本次交易尚需上交所稽核透過及證監會同意註冊，存在不確定性。"
-    },
-    {
-      "id": "te:economy:588150",
-      "time": "2026-09-30 17:12:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Croatia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Croatia Retail Sales Growth Eases in August — Retail sales in Croatia rose by 3.1% year-on-year in August 2026, easing from a seven-month high of 3.6% in the previous month. Sales growth moderated in food, beverages, and tobacco, slowing to 3.5% from 3.9%, while non-food products grew by 2.7%, down from 4.4% in July. Moreover, trade, excluding automotive fuels and lubricants in specialized stores, posted weaker growth of 3.5%, down from 3.9%. Sales of automotive fuels and lubricants declined at a faster pace, falling by 9.9% after increasing by 2.7% in July. Meanwhile, sales via the internet or mail order rebounded, rising by 2.6% after falling by 3.6% in the previous month. On a monthly basis, retail trade grew by 0.6% in August, slowing from a 1.4% gain in July. In the January–August period, retail sales rose by 2.4% compared with the same period a year earlier."
-    },
-    {
-      "id": "5120643",
-      "time": "2026-09-30 17:11:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【復星醫藥：Wenjie Zhang於2026年9月30日辭任】復星醫藥公告，2026年9月30日，公司董事會收到Wenjie Zhang先生的書面辭職函。因個人原因，Wenjie Zhang先生向董事會辭去聯席總裁職務，辭任於送達董事會時生效；其不再在上市公司及其控股子公司任職，不存在未履行完畢的公開承諾。"
-    },
-    {
-      "id": "mkt:01a0f195-6683-7338-ab2c-4685bed40c84",
-      "time": "2026-09-30 17:11:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "CENTCOM said on Sept. 30 it completed the orderly withdrawal of U.S. troops and equipment from Erbil Air Base in Iraq, marking the end of Operation Inherent Resolve in Iraq."
     }
   ]
 }
