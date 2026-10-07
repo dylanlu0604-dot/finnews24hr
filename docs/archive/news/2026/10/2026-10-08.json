@@ -1,7 +1,35 @@
 {
   "date": "2026-10-08",
-  "count": 308,
+  "count": 311,
   "items": [
+    {
+      "id": "mkt:01a11865-2726-7ee0-a7e2-47e3b75d703a",
+      "time": "2026-10-08 06:04:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. Central Command rebuts Iran claim of control over Strait of Hormuz; cargo and energy flows continue】U.S. Central Command said an IRGC general’s media claim that \"the Strait of Hormuz is closed\" and that Iran \"completely controls it\" is incorrect. Commercial cargo and energy shipments, including about 20 million barrels of crude, are transiting the Strait of Hormuz, and the U.S. and regional partners control the waterway."
+    },
+    {
+      "id": "5130740",
+      "time": "2026-10-08 06:00:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4140美元/盎司，日內持平。"
+    },
+    {
+      "id": "5130739",
+      "time": "2026-10-08 06:00:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "LG能源解決方案與埃勒夫拉公司（Elevra）達成多年期加拿大鋰輝石精礦供應協議。"
+    },
     {
       "id": "5130738",
       "time": "2026-10-08 06:00:02",

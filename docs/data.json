@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-08 06:01:06",
-  "count": 8937,
+  "updated": "2026-10-08 06:04:58",
+  "count": 8933,
   "items": [
+    {
+      "id": "mkt:01a11865-2726-7ee0-a7e2-47e3b75d703a",
+      "time": "2026-10-08 06:04:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. Central Command rebuts Iran claim of control over Strait of Hormuz; cargo and energy flows continue】U.S. Central Command said an IRGC general’s media claim that \"the Strait of Hormuz is closed\" and that Iran \"completely controls it\" is incorrect. Commercial cargo and energy shipments, including about 20 million barrels of crude, are transiting the Strait of Hormuz, and the U.S. and regional partners control the waterway."
+    },
+    {
+      "id": "5130740",
+      "time": "2026-10-08 06:00:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4140美元/盎司，日內持平。"
+    },
+    {
+      "id": "5130739",
+      "time": "2026-10-08 06:00:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "LG能源解決方案與埃勒夫拉公司（Elevra）達成多年期加拿大鋰輝石精礦供應協議。"
+    },
     {
       "id": "5130738",
       "time": "2026-10-08 06:00:02",
@@ -82273,68 +82301,6 @@
         "其他"
       ],
       "text": "CCC 評級債券陷入困境，為 2023 年銀行業危機以來首次。"
-    },
-    {
-      "id": "5121757",
-      "time": "2026-10-01 06:04:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：目前尚不清楚中性利率處於什麼水平，至少在當前大機率處於高位。"
-    },
-    {
-      "id": "5121756",
-      "time": "2026-10-01 06:04:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：中性利率水平或許高於此前預期。"
-    },
-    {
-      "id": "5121755",
-      "time": "2026-10-01 06:03:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：經濟保持強勁的時間越久，我就越質疑貨幣政策的緊縮程度。"
-    },
-    {
-      "id": "5121754",
-      "time": "2026-10-01 06:03:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲地中海地震中心：哥斯大黎加近海發生 5.7 級地震。"
-    },
-    {
-      "id": "5121753",
-      "time": "2026-10-01 06:02:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：消費者持續消費，有就業意願的人群能夠找到工作。"
-    },
-    {
-      "id": "5121752",
-      "time": "2026-10-01 06:02:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：經濟在各類衝擊面前展現出韌性。"
-    },
-    {
-      "id": "5121751",
-      "time": "2026-10-01 06:01:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：通脹仍過高，目前處於約3%的水平，最新資料並未改變這一情況。"
     }
   ]
 }
