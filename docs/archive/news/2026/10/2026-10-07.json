@@ -1,7 +1,87 @@
 {
   "date": "2026-10-07",
-  "count": 1069,
+  "count": 1078,
   "items": [
+    {
+      "id": "5129925",
+      "time": "2026-10-07 17:06:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃爾多安：土耳其資本市場將清除寄生蟲。"
+    },
+    {
+      "id": "5129924",
+      "time": "2026-10-07 17:06:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4121.22美元/盎司。"
+    },
+    {
+      "id": "mkt:01a1159d-5a59-7ee0-a7d2-3118f178a290",
+      "time": "2026-10-07 17:06:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell 1% intraday to $4,122.03/oz."
+    },
+    {
+      "id": "mkt:01a1159b-edf4-7ee0-a7d2-2dc5665dede7",
+      "time": "2026-10-07 17:05:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President Erdogan said relevant institutions are taking necessary measures to address the funding crisis."
+    },
+    {
+      "id": "5129923",
+      "time": "2026-10-07 17:04:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：相關機構正對此次基金危機採取必要措施。"
+    },
+    {
+      "id": "5129922",
+      "time": "2026-10-07 17:04:37",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【法國財政風險壓頂 歐元兌英鎊跌至16個月低點】受法國財政危機不斷加深以及歐洲地區出現新的政治風險拖累，歐元兌英鎊跌至去年6月以來最低水平。歐元兌英鎊一度下跌0.4%，至1歐元兌0.8449英鎊，跌破7月觸及的2026年低點。本週早些時候，歐元兌美元已跌至17個月低點，週三的表現也遜於多數G-10貨幣。澳大利亞聯邦銀行外匯策略師Samara Hammoud在研究報告中寫道，“歐洲的政治擔憂將繼續給歐元帶來下行風險。”與此同時，交易員開始削減對歐洲央行進一步加息的押注。掉期市場目前傾向於押注歐洲央行到2027年9月前累計加息三次、每次25個基點，而上週初市場押注的還是四次。"
+    },
+    {
+      "id": "5129921",
+      "time": "2026-10-07 17:03:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭警方就議員住所遭闖入事件啟動刑事調查。"
+    },
+    {
+      "id": "mkt:01a1159a-8b77-7ee0-a7d2-27a3b9e749e2",
+      "time": "2026-10-07 17:03:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD"
+      ],
+      "text": "【Ex-CIA official pleads guilty to telecom fraud, about $194m loss】Former CIA official David Lash pleaded guilty to telecommunications fraud, admitting he used his position to fabricate classified projects for personal profit and caused about $194m in losses to the U.S. federal government. He agreed to forfeiture of proceeds including 298 gold bars, two BMWs, 35 luxury watches and four Florida residences. Sentencing is scheduled for January 28 next year."
+    },
+    {
+      "id": "5129920",
+      "time": "2026-10-07 17:03:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院一名資深民主黨議員正在推出一項法律草案，旨在明確當人工智慧開發商旗下的AI智慧體造成損害時，其應承擔何種法律責任。"
+    },
     {
       "id": "mkt:01a11599-7747-7ee0-a7d2-1a3b66c77aba",
       "time": "2026-10-07 17:02:21",
