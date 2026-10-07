@@ -1,7 +1,65 @@
 {
   "date": "2026-10-07",
-  "count": 1190,
+  "count": 1196,
   "items": [
+    {
+      "id": "mkt:01a115d5-518f-7ee0-a7d3-5fb63b27e8ff",
+      "time": "2026-10-07 18:07:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local media reported on the 7th that a stabbing at a school in Poland injured at least seven people, two seriously."
+    },
+    {
+      "id": "mkt:01a115d5-365b-7ee0-a7d3-50d244b5a351",
+      "time": "2026-10-07 18:07:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Kioxia TOPIX weight to rise sharply; passive inflow expectations increase】Japan Exchange Group said it will raise Kioxia Holdings' free‑float factor in TOPIX from 15% to 50% in its periodic review, lifting the company's weight in the index from about 0.57% and likely triggering buying by TOPIX‑tracking funds. SMBC Nikko Securities estimates passive inflows could reach roughly ¥2.0 tln (about $12.7 bln) based on end‑August close, exceeding Kioxia's 30‑day ADV of about ¥1.4 tln. The expected index demand may support Kioxia's share price after momentum faded since its June record high; the stock has recently lagged peers such as Advantest, which hit a record this week."
+    },
+    {
+      "id": "mkt:01a115d3-dc2c-7ee0-a7d3-4d458729df79",
+      "time": "2026-10-07 18:06:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "A Ukrainian regional governor said a Russian missile struck a residential building in Pryluky, killing 13."
+    },
+    {
+      "id": "5130000",
+      "time": "2026-10-07 18:06:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭普里盧基遭俄羅斯導彈襲擊的住宅樓死亡人數已上升至13人，州州長稱。"
+    },
+    {
+      "id": "mkt:01a115d3-aed7-7ee0-a7d3-456487f6c3ab",
+      "time": "2026-10-07 18:05:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Sources said some Japanese aluminium buyers have agreed with global producers on a premium of $255/tonne for Oct-Dec shipments, down 35% q/q."
+    },
+    {
+      "id": "5129999",
+      "time": "2026-10-07 18:04:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要股指伊斯坦布林100指數下跌2%，土耳其主要銀行指數下跌1.6%。"
+    },
     {
       "id": "5129998",
       "time": "2026-10-07 18:04:40",

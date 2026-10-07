@@ -1,7 +1,65 @@
 {
-  "updated": "2026-10-07 18:05:14",
-  "count": 9137,
+  "updated": "2026-10-07 18:09:08",
+  "count": 9134,
   "items": [
+    {
+      "id": "mkt:01a115d5-518f-7ee0-a7d3-5fb63b27e8ff",
+      "time": "2026-10-07 18:07:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local media reported on the 7th that a stabbing at a school in Poland injured at least seven people, two seriously."
+    },
+    {
+      "id": "mkt:01a115d5-365b-7ee0-a7d3-50d244b5a351",
+      "time": "2026-10-07 18:07:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "【Kioxia TOPIX weight to rise sharply; passive inflow expectations increase】Japan Exchange Group said it will raise Kioxia Holdings' free‑float factor in TOPIX from 15% to 50% in its periodic review, lifting the company's weight in the index from about 0.57% and likely triggering buying by TOPIX‑tracking funds. SMBC Nikko Securities estimates passive inflows could reach roughly ¥2.0 tln (about $12.7 bln) based on end‑August close, exceeding Kioxia's 30‑day ADV of about ¥1.4 tln. The expected index demand may support Kioxia's share price after momentum faded since its June record high; the stock has recently lagged peers such as Advantest, which hit a record this week."
+    },
+    {
+      "id": "mkt:01a115d3-dc2c-7ee0-a7d3-4d458729df79",
+      "time": "2026-10-07 18:06:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "A Ukrainian regional governor said a Russian missile struck a residential building in Pryluky, killing 13."
+    },
+    {
+      "id": "5130000",
+      "time": "2026-10-07 18:06:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭普里盧基遭俄羅斯導彈襲擊的住宅樓死亡人數已上升至13人，州州長稱。"
+    },
+    {
+      "id": "mkt:01a115d3-aed7-7ee0-a7d3-456487f6c3ab",
+      "time": "2026-10-07 18:05:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Sources said some Japanese aluminium buyers have agreed with global producers on a premium of $255/tonne for Oct-Dec shipments, down 35% q/q."
+    },
+    {
+      "id": "5129999",
+      "time": "2026-10-07 18:04:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要股指伊斯坦布林100指數下跌2%，土耳其主要銀行指數下跌1.6%。"
+    },
     {
       "id": "5129998",
       "time": "2026-10-07 18:04:40",
@@ -84179,88 +84237,6 @@
         "公司"
       ],
       "text": "【ST豆神：豆神香港簽訂60個月雲端計算服務協議】ST豆神公告，近日，公司全資孫公司豆神香港有限公司與VB客戶簽署《雲端計算服務協議》，向客戶方提供雲端計算服務，協議服務期限為60個月，合同總金額為1.19億美元（不含適用稅費），摺合人民幣約為8.01億元；客戶方按約預付訂單總金額40%的款項，公司為相關義務提供連帶責任擔保，累計擔保額度不超過4754.23萬美元。"
-    },
-    {
-      "id": "te:markets:588188",
-      "time": "2026-09-30 18:08:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "French OAT Yields Pull Back from Peaks After Turbulent Month — France’s 10-year OAT yield fell below 4.8% after reaching its highest level since July 2008, as markets became more cautious about further central bank rate hikes. Still, yields rose 60 bps in September, their biggest monthly increase since December 2022, as concerns over France’s public finances intensified, with a large primary deficit and a fragmented parliament complicating efforts to consolidate the budget. Higher energy costs and inflation concerns, along with expectations that the AI boom could support growth, also reinforced bets on higher-for-longer interest rates. Sentiment improved on Wednesday, however, as central bankers pushed back against expectations of rapid tightening. ECB official Peter Kazimir said the central bank has time to keep policy flexible after two rate hikes this year, echoing President Christine Lagarde’s comments earlier in the week. In the US, Fed’s John Williams similarly said there was time to assess incoming data before raising rates again."
-    },
-    {
-      "id": "5120834",
-      "time": "2026-09-30 18:07:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾誠健華：持股5%以上股東權益變動觸及1%刻度】諾誠健華公告稱，公司持股5%以上股東Sunland BioMed Ltd及其一致行動人合計持股比例由7.23%減少至6.94%，權益變動觸及1%刻度。本次變動由Sunland BioMed Ltd透過港股減持500萬股所致，其餘一致行動人持股未發生變動。本次權益變動因公司執行董事、董事會主席、行政總裁崔霽松個人資金需求，不觸及要約收購，不會導致公司無實際控制人狀態變化，第一大股東未發生變化。"
-    },
-    {
-      "id": "5120833",
-      "time": "2026-09-30 18:07:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【民生健康：三個募投專案延期 調整至2027年達產】民生健康公告稱，公司擬對三個募集資金投資專案延期，未改變募集資金實施主體、地點、方式、金額及用途投向。其中民生健康研發中心技改專案達到預定可使用狀態時間調整至2027年3月31日，保健食品智慧化生產線技改專案、維礦類OTC產品智慧化生產線技改專案調整至2027年9月30日。該事項已經公司董事會、審計委員會審議透過，保薦機構出具無異議核查意見，無需提交股東會審議。"
-    },
-    {
-      "id": "5120832",
-      "time": "2026-09-30 18:07:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寒武紀：上半年淨利23.11億元，較上年同期增長122.61%  】有投資者向寒武紀（688256.SH）提問，貴公司的大客戶曝擬年產10萬顆AI晶片，請問這對貴公司的業績有多大影響？作為投資人對此十分關切。9月30日，公司在互動平臺回答表示，在大模型技術加速革新的行業背景下，智慧計算需求持續攀升。公司憑藉智慧晶片領域的核心產品競爭優勢與優質服務，贏得了行業客戶的認可及良好市場口碑。2025年度，公司實現營業收入64.97億元，首次達成全年利潤扭虧為盈。2026年上半年度，公司實現營業收入59.96億元，較上年同期增長108.13%；本期營業收入實現大幅增長的同時，歸屬於上市公司股東的淨利潤達到23.11億元，較上年同期增長122.61%。面對大模型技術引發的產業變革，公司將穩固現有業務優勢，堅持以技術創新強化晶片產品競爭力，持續加大客戶服務投入，進一步提升市場份額，驅動業務穩健增長。"
-    },
-    {
-      "id": "5120831",
-      "time": "2026-09-30 18:07:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華信新材：自建專案已進入試車、試生產階段】華信新材公告，公司全資子公司華信高新負責建設的年產1200萬平方米功能性膜材料專案及年產5000噸功能性膜材料專案已順利完成生產線引進和安裝工作，進入試車、試生產階段。上述專案計劃投資分別為1.23億元和8000萬元，資金來源為自有資金。後續將根據試生產情況最佳化裝置工藝引數，並於試生產結束後完成專案決算及驗收工作。"
-    },
-    {
-      "id": "te:markets:588187",
-      "time": "2026-09-30 18:06:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Point to Gains at the Open, Key Data Awaited — US stock futures were slightly higher on Wednesday, with the S&P 500 up 0.2%, Nasdaq 100 gaining 0.1% and Dow adding 130 points. Investors are awaiting a batch of economic data due today, including the PCE and ADP figures that will help shape expectations for the Fed’s next policy moves. The odds of a 25 bps rate hike in October currently stand at around 45%, down from 70% last Friday. Nvidia (0.4%), Alphabet (1%) and Tesla (0.2%) were higher in premarket trading, while Micron gained 0.3% ahead of its earnings release after the closing bell. Boeing rose 3.3% after securing a deal with the Pentagon and US Navy to develop the next generation of fighter jets. September and Q3 have been marked by volatility, as investors weighed rising oil prices and Treasury yields against continued optimism around AI. The S&P is little changed for the month and up 2.5% for the quarter, while the Nasdaq has gained 1% in September and 2.3% over Q3. The Dow has lost about 3% for the month and 1.6% for Q3."
-    },
-    {
-      "id": "em:qqyh_rbyh:202609303887799958",
-      "time": "2026-09-30 18:06:07",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本財務省資料顯示，日本在8月27日至9月28日期間未進行外匯干預。"
-    },
-    {
-      "id": "5120830",
-      "time": "2026-09-30 18:05:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【尚水智慧：股價異動 無應披露未披露重大事項】尚水智慧公告稱，公司股票於2026年9月29日、9月30日連續兩個交易日收盤價格漲幅偏離值累計達30%以上，屬於股票交易異常波動情形。經核查，公司目前經營情況正常，內外部經營環境未發生重大變化；前期披露的資訊不存在需要更正、補充之處；公司、控股股東和實際控制人不存在應披露而未披露的重大事項，異動期間不存在控股股東、實際控制人買賣公司股票的情況。敬請廣大投資者理性投資，注意投資風險。"
-    },
-    {
-      "id": "5120829",
-      "time": "2026-09-30 18:05:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "Antin 將以 29.2 億美元的企業價值出售 Vicinity Energy。"
     }
   ]
 }
