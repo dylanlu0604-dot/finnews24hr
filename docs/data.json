@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-07 08:19:22",
+  "updated": "2026-10-07 08:23:09",
   "count": 9590,
   "items": [
+    {
+      "id": "5129270",
+      "time": "2026-10-07 08:20:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國農業部海外農業局：印度食糖產量預計低於3000萬噸】美國農業部海外農業局（FAS）在一份報告中稱，本月開啟的2026-27榨季，印度食糖產量預計為2950萬噸。該數值低於美國農業部此前3360萬噸的官方預估。“甘蔗主產區在關鍵生長期降雨嚴重不足、持續乾旱，作物生長受阻，造成收割甘蔗重量與每公頃單產雙雙下降。”主產邦馬哈拉施特拉邦降雨失序，部分農田出現積水，進一步拖累產量。期末庫存預計降至400萬噸，低於此前650萬噸的官方預估。"
+    },
+    {
+      "id": "mkt:01a113bb-c8c2-7ee0-a7c7-4a7c016ee39d",
+      "time": "2026-10-07 08:20:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Explosions heard in Kyiv, Ukraine."
+    },
+    {
+      "id": "5129269",
+      "time": "2026-10-07 08:20:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【10月解禁規模超2900億元 11股解禁比例超50%】據資料寶統計，10月將有91只股解禁，按照最新收盤價計算，合計解禁市值2950.1億元。從解禁比例來看，面臨解禁的個股中有11股的解禁比例超50%。泰凱英的解禁比例最高，達73.64%；天元智慧的解禁比例次之，達73.46%；長江能科、中船特氣、西安奕材-U的解禁比例居前。10月解禁股中，西安奕材-U、泰凱英、紅板科技、禾元生物-U、千岸科技等15股近期獲得機構關注。"
+    },
+    {
+      "id": "5129268",
+      "time": "2026-10-07 08:20:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭首都基輔傳出爆炸聲。"
+    },
     {
       "id": "5129267",
       "time": "2026-10-07 08:18:36",
@@ -88299,40 +88335,6 @@
         "公司"
       ],
       "text": "法拉第未來：FFR 擬議重組的核心，是將 FF 機器人業務以約2億美元市場化估值整合至納斯達克上市公司 AIxC，並計劃將公司更名為 FF EAI Robotics Ecosystem Inc.、股票程式碼由 AIXC 改為 FFR。FFAI 與 FFR 認為，該估值體現了機器人業務已有的產品、交付和商業化基礎，以及“四核全智”生態的長期潛力。交易仍須滿足相關完成條件。"
-    },
-    {
-      "id": "5119672",
-      "time": "2026-09-30 08:22:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普的支援率在《華爾街日報》的一項民調中降至37%，這是自1990年以來該報民調記錄中任何一位即將迎來中期選舉的總統的最低支援率。"
-    },
-    {
-      "id": "5119671",
-      "time": "2026-09-30 08:21:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：由於強風，新款 Roadster 演示活動推遲兩週。"
-    },
-    {
-      "id": "mkt:01a0efb0-211c-7338-ab1f-7e9582502757",
-      "time": "2026-09-30 08:21:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chip boom lifts tax take; South Korea projects record tax revenue in 2026】South Korea's Ministry of Economy and Finance projects 2026 tax revenue of 478.6 trillion won (~$353 billion), up 28% year-on-year and 63.2 trillion won above the estimate used in this year's supplementary budget. The ministry said the upside is mainly from larger-than-expected tax receipts tied to semiconductor firms' profits, special dividends and equity trading. The forecast would push annual tax revenue past 400 trillion won for the first time and about 21% above the previous record set in 2022."
-    },
-    {
-      "id": "5119670",
-      "time": "2026-09-30 08:20:57",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【受美聯儲抗擊通脹提振，美元或創下6月以來最佳單月表現】隨著美聯儲重新將重心放在抑制通脹上，推高了利率預期和美國債券收益率，美元正迎來6月以來的最佳單月表現。9月份，彭博美元現貨指數上漲了1.9%，觸及兩個月來的最高水平。穩健的美國經濟資料和加劇的通脹風險一直在提振該貨幣。伊朗戰爭導致能源價格居高不下，並將美國國債收益率推至歷史峰值，其中30年期國債收益率達到了2002年以來的最高水平。當前市場定價顯示，預計美聯儲未來12個月累計加息近1個百分點，進一步提振美元。"
     }
   ]
 }
