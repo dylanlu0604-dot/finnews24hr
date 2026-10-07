@@ -1,7 +1,54 @@
 {
   "date": "2026-10-07",
-  "count": 457,
+  "count": 462,
   "items": [
+    {
+      "id": "5129256",
+      "time": "2026-10-07 08:03:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本月球探測初創公司 ispace 與歐洲主要火箭和航天系統承包商 ArianeGroup簽署月球航天器研發協議。"
+    },
+    {
+      "id": "mkt:01a113aa-7bd7-7ee0-a7c7-3920cf40a145",
+      "time": "2026-10-07 08:01:42",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI opened down 79.83 points (-1.15%) at 6,861.56 on Oct. 7 (Wednesday). SK Hynix fell 2% and Samsung Electronics lost 1%."
+    },
+    {
+      "id": "mkt:01a113aa-16ee-7ee0-a7c7-3279682987fb",
+      "time": "2026-10-07 08:01:16",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 36.29 points, or 0.05%, at 70,647.69 points on Wednesday, Oct. 7."
+    },
+    {
+      "id": "5129255",
+      "time": "2026-10-07 08:00:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.1%，至6864.25點。"
+    },
+    {
+      "id": "5129254",
+      "time": "2026-10-07 08:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報70582.11點，跌幅0.14%。"
+    },
     {
       "id": "5129253",
       "time": "2026-10-07 07:59:04",
