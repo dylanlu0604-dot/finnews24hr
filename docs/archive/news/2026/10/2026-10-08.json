@@ -1,7 +1,32 @@
 {
   "date": "2026-10-08",
-  "count": 301,
+  "count": 303,
   "items": [
+    {
+      "id": "mkt:01a1185e-10dd-7ee0-a7e2-345fd0b00fab",
+      "time": "2026-10-08 05:56:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【High pay for Strait of Hormuz transits as crews accept ~5% attack risk】A captain described operational changes to oil and LNG shipments through the Strait of Hormuz amid Iranian threats: night-only runs, strict equipment limits (no lights or mobile phones, typically only one radar), navigation by the Oman coast and lighthouses, and AIS cutters switched off at departure. Crews — largely from the Philippines and India — are being paid premiums, with some contracts shortened but paying several times normal wages and some owners offering an extra six months’ pay; decks are being reinforced with sandbags to guard against drones or missiles. Shipping executives say the chance of being attacked while transiting under US military surveillance is about 1 in 20; Iran has compiled a blacklist of tankers involved in the trade."
+    },
+    {
+      "id": "te:markets:590288",
+      "time": "2026-10-08 05:53:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Natural gas is up by 5.03% — Natural gas increased 5.03% to 3.2706 USD/MMBtu"
+    },
     {
       "id": "mkt:01a11857-3204-7ee0-a7e2-28a48f29600f",
       "time": "2026-10-08 05:48:49",
