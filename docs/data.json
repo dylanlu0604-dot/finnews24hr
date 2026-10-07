@@ -1,7 +1,72 @@
 {
-  "updated": "2026-10-07 17:26:46",
-  "count": 9253,
+  "updated": "2026-10-07 17:30:38",
+  "count": 9240,
   "items": [
+    {
+      "id": "mkt:01a115b2-ad8f-7ee0-a7d2-c0a1b28b4e2c",
+      "time": "2026-10-07 17:29:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Major European equity indices fell: Germany's DAX slid as much as 1% intraday, the Stoxx Europe 50 and Italy's FTSE MIB dropped over 1%, the UK's FTSE 100 fell 0.35% and France's CAC 40 declined 0.74%."
+    },
+    {
+      "id": "5129953",
+      "time": "2026-10-07 17:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "IKAR預計，10月波羅的海小麥出貨量將升至約180萬噸。"
+    },
+    {
+      "id": "5129952",
+      "time": "2026-10-07 17:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "IKAR表示，俄羅斯10月小麥出口量可能達到約300萬噸。"
+    },
+    {
+      "id": "te:economy:590158",
+      "time": "2026-10-07 17:27:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Luxembourg",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Luxembourg Economy Contracts in Q2 — Luxembourg’s economy contracted 0.9% quarter-on-quarter in the second quarter of 2026, reversing from a revised 0.3% growth in the previous three-month period. This marked the first contraction after six straight quarters of growth, as declines were recorded in gross fixed investment (-1.9% vs 6.3% in Q1), and household expenditure (-0.3% vs -0.8%), while growth eased for government spending (1.1% vs 1.8%). Net trade also weighed on the economy, with both exports (-0.4% vs -1.2%) and imports (-0.8% vs -2.1%) declining at softer rates. On the production side, declines were seen in industry, including energy and water distribution (-3.7% vs -1.6%), construction (-2.1% vs 2.7%), trade, transport, accommodation and food services (-0.8% vs 1.1%), and financial and insurance activities (-1.5% vs -0.7%). Conversely, growth was recorded in agriculture, forestry, and fishing (4.5% vs 0.9%). On an annual basis, GDP grew 1.3% in Q2, slowing from a revised 2.8% rise in the prior quarter."
+    },
+    {
+      "id": "mkt:01a115b0-0b52-7ee0-a7d2-b96a7520a8f5",
+      "time": "2026-10-07 17:27:01",
+      "tags": [
+        "MKT News",
+        "TMO.N",
+        "Impact bullish"
+      ],
+      "text": "Barclays raised Thermo Fisher Scientific (TMO.N) PT to $750 from $650."
+    },
+    {
+      "id": "mkt:01a115af-f9cc-7ee0-a7d2-b3c822e65376",
+      "time": "2026-10-07 17:26:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ING questions feasibility of National Rally fiscal plan, calls growth assumptions too optimistic】ING economist Charlotte de Montpellier says the fiscal plan from Marine Le Pen’s National Rally looks difficult to implement. The party, which leads first‑round polls, pledges annual spending cuts of about €136bn to push France’s public spending below 50% of GDP by 2032. ING says some savings are feasible but the largest cuts lack implementation detail, and the macro assumptions—GDP growth of 0.9% in 2026 and 2027 and 1.8% in 2028—are unrealistic. ING also flags a key inconsistency: the plan combines large-scale consolidation with around €69.3bn of tax cuts and new spending scheduled for 2027, making the stated fiscal targets hard to achieve."
+    },
     {
       "id": "5129951",
       "time": "2026-10-07 17:25:47",
@@ -85099,180 +85164,6 @@
         "其他"
       ],
       "text": "英國央行金融政策委員會：前沿人工智慧遭入侵事件凸顯金融機構需做好風險防範，並與英國當局保持溝通。"
-    },
-    {
-      "id": "5120706",
-      "time": "2026-09-30 17:30:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "英格蘭銀行金融政策委員會（FPC）：自7月以來，金融風險同時集中爆發的可能性有所上升。"
-    },
-    {
-      "id": "5120705",
-      "time": "2026-09-30 17:30:30",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英國央行金融政策委員會：油氣價格上漲導致供給衝擊更具持續性。"
-    },
-    {
-      "id": "5120704",
-      "time": "2026-09-30 17:30:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯恩斯坦啟動對Coherent覆蓋，給予“跑贏大盤”評級，目標價為350美元。"
-    },
-    {
-      "id": "5120703",
-      "time": "2026-09-30 17:30:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電子：到2029年晶圓代工客戶數量將增至4倍，HPC收入佔比擴大至66%】據報道，三星電子晶圓代工事業部高階副總裁盧美貞於近日的投資者關係活動上公佈了中長期業務計劃。目前該部門客戶數量已達到2017年的約3倍，預計到2029年將進一步提升至約4倍。同時，高效能運算（HPC）業務佔晶圓代工收入的比例已從2017年的5%提升至目前的28%，公司計劃到2029年提高至66%。"
-    },
-    {
-      "id": "mkt:01a0f1a6-4bfe-7338-ab2c-ea784e134630",
-      "time": "2026-09-30 17:30:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Prime Minister Takaichi said the government will clarify the direction of economic and fiscal policy management."
-    },
-    {
-      "id": "mkt:01a0f1a6-0fa8-7338-ab2c-e57e9bee2ffc",
-      "time": "2026-09-30 17:29:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Euro CDS costs fall as market sentiment improves】Euro credit-default swap costs eased after Micron Technology (MU.O) posted strong results, boosting risk appetite, while soft US economic data and comments from Fed officials trimmed odds of another rate hike next month. iTraxx Europe Crossover, the euro high-yield CDS gauge, fell 5bps to 296bps, though S&P Global Market Intelligence shows it remains near Tuesday’s nearly six-month high of 301bps. IG analysts said “strong earnings and AI enthusiasm” have outweighed market concerns about high borrowing costs."
-    },
-    {
-      "id": "5120702",
-      "time": "2026-09-30 17:29:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：政府將為經濟與財政政策管理制定更清晰的路線。"
-    },
-    {
-      "id": "5120701",
-      "time": "2026-09-30 17:29:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯恩斯坦給予 LUMENTUM  “跑贏大盤”初始評級；目標價1,220美元。"
-    },
-    {
-      "id": "te:economy:588163",
-      "time": "2026-09-30 17:29:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Croatia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Croatia Industrial Output Slows in August — Croatia’s industrial production rose by 5.2% year-on-year in August 2026, slowing from an eight-month high of 7.2% in the previous month. Activity in the manufacturing sector eased to 4.8% from 6.7% in July, led by softer gains in coke and refined petroleum products (4.7% vs 14.6%), basic metals (1.8% vs 8.7%), and electrical equipment (79.9% vs 106.4%). Additionally, mining and quarrying remained unchanged at -3.7%. In contrast, electricity, gas, steam and air-conditioning supply rose 13.4% from 10.9% in July. On a seasonally adjusted monthly basis, industrial production fell 0.4%, reversing a 2.3% gain in the previous month. Over the January–August period, output was 1.8% higher than in the same period last year."
-    },
-    {
-      "id": "mkt:01a0f1a5-d1fb-7338-ab2c-de857ff92c06",
-      "time": "2026-09-30 17:29:31",
-      "tags": [
-        "MKT News",
-        "Market Regions"
-      ],
-      "text": "Japan Prime Minister Takaichi said the cabinet will implement supply-side measures to boost the economy."
-    },
-    {
-      "id": "5120700",
-      "time": "2026-09-30 17:29:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：高市政府將提振經濟供給側。"
-    },
-    {
-      "id": "5120699",
-      "time": "2026-09-30 17:28:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【埃斯頓：國內工業機器人市場正逐步迎來價格理性迴歸階段】埃斯頓近日在接待調研時表示，近年來國內工業機器人市場競爭持續加劇，行業內部分企業長期陷入低價內卷的不良競爭模式。當前行業正逐步迎來價格理性迴歸階段，無序低價競爭態勢持續緩和，這將有效推動行業加速出清，重塑理性有序的行業競爭生態。（人民財訊）"
-    },
-    {
-      "id": "5120698",
-      "time": "2026-09-30 17:28:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴克萊：超大規模雲服務商收益率飆升，股票溢價遭侵蝕】巴克萊銀行表示，隨著長期收益率攀升，投資者持有超大規模雲服務商股票相對於債券的回報補償正在減少。由維努·克里希納領導的團隊指出，債券收益率的走高，抵消了強勁的盈利表現、更高的利潤預期以及更低的估值所帶來的利好。他們指出，隨著AI基礎設施融資需求的激增，投資級債券、高收益債券和可轉換債券的信用利差均已擴大。今年，超大規模雲服務商、資料中心特殊目的載體（SPV）以及新興雲服務商的融資總額已達3460億美元，大約是2025年融資總額的兩倍。此外，透過信用違約互換（CDS）為科技巨頭債務提供違約保護的成本也有所上升。"
-    },
-    {
-      "id": "5120697",
-      "time": "2026-09-30 17:28:03",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【多家銀行公告：明起對居民購房貸款提供“免申即享”貼息服務】從工商銀行、農業銀行、中國銀行、建設銀行、交通銀行、郵儲銀行等多家銀行瞭解到，各家銀行今天陸續釋出公告表示：將積極響應並嚴格執行財政部、中國人民銀行、金融監管總局印發的《關於實施居民購房貸款貼息政策的通知》（財金〔2026〕95號）精神及相關要求，依法合規推進商業性個人住房貸款貼息工作，助力更多的人住有所居。多家銀行在公告中明確，自2026年10月1日起，將最佳化辦理流程，簡化辦理手續，為新發放符合條件的首套住房商業性個人住房貸款提供財政貼息服務。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0f1a4-5dce-7338-ab2c-d1f2f51b610e",
-      "time": "2026-09-30 17:27:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "WBG approved USD 110 mln to help Sri Lanka repair and rebuild 600 km of roads severely damaged by Cyclone Diteva."
-    },
-    {
-      "id": "te:markets:588162",
-      "time": "2026-09-30 17:27:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Sterling Recovers but Ends September Lower — Sterling edged toward $1.33 at the end of September, recovering from a three-month low of $1.32 earlier in the week, supported by stronger-than-expected GDP data and comments from Prime Minister Andy Burnham on the UK-EU relationship. Still, the pound fell 2% against the dollar over the month, as markets expected the BoE to lag the Fed in tightening. Burnham opened the door to potentially rejoining the EU after the next general election and pledged to outline options for closer ties later this year. Meanwhile, revised data showed UK GDP grew 0.5% in Q2, above the previous estimate of 0.4%. BoE policymakers sent mixed signals, with Alan Taylor playing down the need for rate hikes to address the energy shock, while Governor Andrew Bailey and other MPC members indicated they could support higher rates if inflationary pressures persist. In the US, markets trimmed bets on an October Fed hike after Fed's John Williams said there was time to assess incoming data before raising rates again."
-    },
-    {
-      "id": "5120696",
-      "time": "2026-09-30 17:27:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【松原安全：擬以5000萬元-1億元回購公司股份】松原安全公告，公司擬使用自有資金及/或自籌資金，以集中競價交易方式回購公司A股股份，回購資金總額不低於5000萬元且不超過1億元，回購價格不超過21.03元/股，期限為自董事會審議透過回購方案之日起3個月內。回購股份用於維護公司價值及股東權益所必需，並將在規定期限內出售；未能按期使用完畢的股份將予以登出。"
-    },
-    {
-      "id": "5120695",
-      "time": "2026-09-30 17:27:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界銀行：已批准1.1億美元貸款，用於幫助斯里蘭卡修復和重建被氣旋“迪特瓦”嚴重損毀的600公里道路。"
-    },
-    {
-      "id": "5120694",
-      "time": "2026-09-30 17:26:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盛美上海：截至2026年9月29日在手訂單170.73億元】盛美上海公告，截至2026年9月29日，公司在手訂單總金額為170.73億元，同比增加88.20%。在手訂單含已向客戶交付但尚未根據中國會計準則獲得客戶確認收入的裝置訂單及將於未來交付的裝置訂單，相關資料未經審計。"
     }
   ]
 }

@@ -1,7 +1,72 @@
 {
   "date": "2026-10-07",
-  "count": 1122,
+  "count": 1128,
   "items": [
+    {
+      "id": "mkt:01a115b2-ad8f-7ee0-a7d2-c0a1b28b4e2c",
+      "time": "2026-10-07 17:29:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Major European equity indices fell: Germany's DAX slid as much as 1% intraday, the Stoxx Europe 50 and Italy's FTSE MIB dropped over 1%, the UK's FTSE 100 fell 0.35% and France's CAC 40 declined 0.74%."
+    },
+    {
+      "id": "5129953",
+      "time": "2026-10-07 17:28:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "IKAR預計，10月波羅的海小麥出貨量將升至約180萬噸。"
+    },
+    {
+      "id": "5129952",
+      "time": "2026-10-07 17:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "IKAR表示，俄羅斯10月小麥出口量可能達到約300萬噸。"
+    },
+    {
+      "id": "te:economy:590158",
+      "time": "2026-10-07 17:27:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Luxembourg",
+        "GDP Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Luxembourg Economy Contracts in Q2 — Luxembourg’s economy contracted 0.9% quarter-on-quarter in the second quarter of 2026, reversing from a revised 0.3% growth in the previous three-month period. This marked the first contraction after six straight quarters of growth, as declines were recorded in gross fixed investment (-1.9% vs 6.3% in Q1), and household expenditure (-0.3% vs -0.8%), while growth eased for government spending (1.1% vs 1.8%). Net trade also weighed on the economy, with both exports (-0.4% vs -1.2%) and imports (-0.8% vs -2.1%) declining at softer rates. On the production side, declines were seen in industry, including energy and water distribution (-3.7% vs -1.6%), construction (-2.1% vs 2.7%), trade, transport, accommodation and food services (-0.8% vs 1.1%), and financial and insurance activities (-1.5% vs -0.7%). Conversely, growth was recorded in agriculture, forestry, and fishing (4.5% vs 0.9%). On an annual basis, GDP grew 1.3% in Q2, slowing from a revised 2.8% rise in the prior quarter."
+    },
+    {
+      "id": "mkt:01a115b0-0b52-7ee0-a7d2-b96a7520a8f5",
+      "time": "2026-10-07 17:27:01",
+      "tags": [
+        "MKT News",
+        "TMO.N",
+        "Impact bullish"
+      ],
+      "text": "Barclays raised Thermo Fisher Scientific (TMO.N) PT to $750 from $650."
+    },
+    {
+      "id": "mkt:01a115af-f9cc-7ee0-a7d2-b3c822e65376",
+      "time": "2026-10-07 17:26:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ING questions feasibility of National Rally fiscal plan, calls growth assumptions too optimistic】ING economist Charlotte de Montpellier says the fiscal plan from Marine Le Pen’s National Rally looks difficult to implement. The party, which leads first‑round polls, pledges annual spending cuts of about €136bn to push France’s public spending below 50% of GDP by 2032. ING says some savings are feasible but the largest cuts lack implementation detail, and the macro assumptions—GDP growth of 0.9% in 2026 and 2027 and 1.8% in 2028—are unrealistic. ING also flags a key inconsistency: the plan combines large-scale consolidation with around €69.3bn of tax cuts and new spending scheduled for 2027, making the stated fiscal targets hard to achieve."
+    },
     {
       "id": "5129951",
       "time": "2026-10-07 17:25:47",
