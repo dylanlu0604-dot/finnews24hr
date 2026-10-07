@@ -1,7 +1,63 @@
 {
   "date": "2026-10-07",
-  "count": 631,
+  "count": 637,
   "items": [
+    {
+      "id": "mkt:01a11440-1e90-7ee0-a7c8-8c93ba110a40",
+      "time": "2026-10-07 10:45:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Field check: National Day car market — incentives lift showroom traffic; trade-in demand and stock shortages limit immediate sales】Visits to multiple Shanghai NEV brand showrooms over the National Day holiday show customer traffic up about 30% versus a typical weekend, driven by new model launches, local purchase subsidies and time-limited dealer promotions. Test-drive slots are nearly full throughout the day and many families are visiting; dealers say most customers are motivated by ICE-to-EV trade-in discounts and district-level subsidies and ask staff to total all incentives before deciding. Sales conversion is slower than footfall: buyers are price-comparing across dealers and verifying subsidy eligibility, and several popular new models are short in stock with order lead times of several weeks, constraining immediate transactions."
+    },
+    {
+      "id": "te:markets:590012",
+      "time": "2026-10-07 10:44:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Rebound on Brazil Planting Delays — Soybean futures climbed toward $13.1 per bushel, bouncing off from multi-week lows as slower planting in Brazil and signs of continued export demand lifted prices. About 7.3% of soybean crop in Brazil, the world’s largest exporter, had been planted as of Thursday, below 9% a year earlier, with consultancy AgRural estimating 2026/27 production at 182.7 million metric tons. The USDA has a higher forecast of 186 million tons, which would exceed last year’s record 180.5 million tons. On the demand side, an unnamed buyer purchased 104,000 tonnes of US soybeans, while US export inspections reached 3.99 million tonnes since the start of September, up from 3.05 million tonnes a year earlier. However, gains remained limited by expectations for a large US crop and weak Chinese demand. China’s soybean purchases are being constrained by high inventories, poor crushing margins and an additional 10% tariff on US soybeans, while private buyers continue to favor supplies from Brazil and Argentina."
+    },
+    {
+      "id": "5129369",
+      "time": "2026-10-07 10:44:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞基準股指<.KLSE>一度下跌1.1%，至1614.81點，為2025年12月中以來最低。"
+    },
+    {
+      "id": "mkt:01a1143f-801e-7ee0-a7c8-837be25b598d",
+      "time": "2026-10-07 10:44:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【BHP to sell idled Kambalda nickel concentrator to Gold Fields】BHP has agreed to sell its idled Kambalda nickel concentrator in Western Australia, together with a package of mining tenements and mineral rights, to South Africa's Gold Fields. The undisclosed-value deal is expected to complete in 2027. The Kambalda plant was mothballed in 2024. BHP mothballed larger WA nickel operations the same year citing market oversupply and is assessing disposal of remaining nickel assets, including a nickel refinery, a smelter and mining operations. Gold Fields said it will assess options for long-term use of the concentrator."
+    },
+    {
+      "id": "5129368",
+      "time": "2026-10-07 10:43:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【實探國慶車市：多重優惠發力 門店人氣走高】國慶假期，車市迎來傳統“金九銀十”的關鍵視窗期。記者走訪上海多個新能源汽車品牌線下門店獲悉，依託新車上市、地方購車補貼，疊加車企假期限時促銷，門店客流回升明顯。“國慶這幾天試駕車基本全天約滿，經常出現剛結束一組試駕下一組客戶已經在等候的情形。不少家庭全家結伴來看車，大部分客戶都是衝著置換補貼、區級補貼過來的，先讓我們幫著算清楚全部優惠再做決定。”嘉定某蔚來體驗中心銷售告訴記者，國慶假期期間，門店接待客戶量較普通週末上漲約三成，油換電的置換需求較為突出。門店客流回暖，但訂單轉化仍存在週期。多位銷售向記者表示，當下消費者普遍比價理性，會走訪多家門店橫向對比報價、核對補貼申領條件。部分熱門新車現車緊缺，訂車需要數週等待週期，也在一定程度上影響即時成交。"
+    },
+    {
+      "id": "5129367",
+      "time": "2026-10-07 10:42:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【木鳥民宿釋出《2026國慶民宿消費報告》：北京奪得雙榜首，三線及以下城市日均訂單同比增長17%】10月7日上午訊息。木鳥民宿釋出《2026國慶民宿消費報告》。報告顯示，今年國慶假期民宿訂單同比增長顯著，連住7天及以上訂單同比增長30%。今年國慶假期，15%的使用者選擇在國慶假期前出發。三線及以下城市日均訂單同比增長17%。四成使用者打卡寶藏縣城民宿，奔縣遊成為國慶假期熱點。家庭遊使用者訂單佔比53%。"
+    },
     {
       "id": "5129366",
       "time": "2026-10-07 10:40:16",

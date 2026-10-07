@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-07 10:42:19",
-  "count": 9422,
+  "updated": "2026-10-07 10:46:09",
+  "count": 9421,
   "items": [
+    {
+      "id": "mkt:01a11440-1e90-7ee0-a7c8-8c93ba110a40",
+      "time": "2026-10-07 10:45:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Field check: National Day car market — incentives lift showroom traffic; trade-in demand and stock shortages limit immediate sales】Visits to multiple Shanghai NEV brand showrooms over the National Day holiday show customer traffic up about 30% versus a typical weekend, driven by new model launches, local purchase subsidies and time-limited dealer promotions. Test-drive slots are nearly full throughout the day and many families are visiting; dealers say most customers are motivated by ICE-to-EV trade-in discounts and district-level subsidies and ask staff to total all incentives before deciding. Sales conversion is slower than footfall: buyers are price-comparing across dealers and verifying subsidy eligibility, and several popular new models are short in stock with order lead times of several weeks, constraining immediate transactions."
+    },
+    {
+      "id": "te:markets:590012",
+      "time": "2026-10-07 10:44:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Rebound on Brazil Planting Delays — Soybean futures climbed toward $13.1 per bushel, bouncing off from multi-week lows as slower planting in Brazil and signs of continued export demand lifted prices. About 7.3% of soybean crop in Brazil, the world’s largest exporter, had been planted as of Thursday, below 9% a year earlier, with consultancy AgRural estimating 2026/27 production at 182.7 million metric tons. The USDA has a higher forecast of 186 million tons, which would exceed last year’s record 180.5 million tons. On the demand side, an unnamed buyer purchased 104,000 tonnes of US soybeans, while US export inspections reached 3.99 million tonnes since the start of September, up from 3.05 million tonnes a year earlier. However, gains remained limited by expectations for a large US crop and weak Chinese demand. China’s soybean purchases are being constrained by high inventories, poor crushing margins and an additional 10% tariff on US soybeans, while private buyers continue to favor supplies from Brazil and Argentina."
+    },
+    {
+      "id": "5129369",
+      "time": "2026-10-07 10:44:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞基準股指<.KLSE>一度下跌1.1%，至1614.81點，為2025年12月中以來最低。"
+    },
+    {
+      "id": "mkt:01a1143f-801e-7ee0-a7c8-837be25b598d",
+      "time": "2026-10-07 10:44:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【BHP to sell idled Kambalda nickel concentrator to Gold Fields】BHP has agreed to sell its idled Kambalda nickel concentrator in Western Australia, together with a package of mining tenements and mineral rights, to South Africa's Gold Fields. The undisclosed-value deal is expected to complete in 2027. The Kambalda plant was mothballed in 2024. BHP mothballed larger WA nickel operations the same year citing market oversupply and is assessing disposal of remaining nickel assets, including a nickel refinery, a smelter and mining operations. Gold Fields said it will assess options for long-term use of the concentrator."
+    },
+    {
+      "id": "5129368",
+      "time": "2026-10-07 10:43:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【實探國慶車市：多重優惠發力 門店人氣走高】國慶假期，車市迎來傳統“金九銀十”的關鍵視窗期。記者走訪上海多個新能源汽車品牌線下門店獲悉，依託新車上市、地方購車補貼，疊加車企假期限時促銷，門店客流回升明顯。“國慶這幾天試駕車基本全天約滿，經常出現剛結束一組試駕下一組客戶已經在等候的情形。不少家庭全家結伴來看車，大部分客戶都是衝著置換補貼、區級補貼過來的，先讓我們幫著算清楚全部優惠再做決定。”嘉定某蔚來體驗中心銷售告訴記者，國慶假期期間，門店接待客戶量較普通週末上漲約三成，油換電的置換需求較為突出。門店客流回暖，但訂單轉化仍存在週期。多位銷售向記者表示，當下消費者普遍比價理性，會走訪多家門店橫向對比報價、核對補貼申領條件。部分熱門新車現車緊缺，訂車需要數週等待週期，也在一定程度上影響即時成交。"
+    },
+    {
+      "id": "5129367",
+      "time": "2026-10-07 10:42:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【木鳥民宿釋出《2026國慶民宿消費報告》：北京奪得雙榜首，三線及以下城市日均訂單同比增長17%】10月7日上午訊息。木鳥民宿釋出《2026國慶民宿消費報告》。報告顯示，今年國慶假期民宿訂單同比增長顯著，連住7天及以上訂單同比增長30%。今年國慶假期，15%的使用者選擇在國慶假期前出發。三線及以下城市日均訂單同比增長17%。四成使用者打卡寶藏縣城民宿，奔縣遊成為國慶假期熱點。家庭遊使用者訂單佔比53%。"
+    },
     {
       "id": "5129366",
       "time": "2026-10-07 10:40:16",
@@ -86748,73 +86804,6 @@
         "宏觀"
       ],
       "text": "【丁薛祥出席中國環境與發展國際合作委員會2026年年會並講話】9月29日下午，中共中央政治局常委、國務院副總理、中國環境與發展國際合作委員會主席丁薛祥在北京出席國合會2026年年會並講話。丁薛祥強調，實現可持續發展，需要各方攜手綠色前行。他提出3點建議：一是以務實行動推動綠色低碳發展，堅定維護《聯合國氣候變化框架公約》及其《巴黎協定》，全面落實“昆蒙框架”實施倡議，為全球氣候治理、生物多樣性保護注入更多確定性和正能量。二是以科技創新培育綠色生產力，加快完善綠色技術創新體系，聯合開展綠色低碳科技攻關，推動技術轉化落地，促進產業數字化、智慧化同綠色化深度融合。三是以開放合作完善全球環境和氣候治理，高質量推進共建綠色“一帶一路”，深化氣候變化南南合作，促進優質綠色技術和產品自由流通，讓綠色發展成果更好惠及各國人民。(外交部網站)"
-    },
-    {
-      "id": "5119902",
-      "time": "2026-09-30 10:45:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本將研究日本國債區塊鏈交易可能性】日本財務省週三表示，將於下月成立一個研究小組，探討是否應利用區塊鏈技術，使日本國債（JGB）能夠進行“鏈上”交易。"
-    },
-    {
-      "id": "5119901",
-      "time": "2026-09-30 10:45:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲2%，現報9945.00元。"
-    },
-    {
-      "id": "mkt:01a0f033-2ef9-7338-ab23-142ca5dad31c",
-      "time": "2026-09-30 10:44:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 rose 1% to 8,794.50, its highest level since Sept. 11."
-    },
-    {
-      "id": "mkt:01a0f032-dc9d-7338-ab23-0846b12b875f",
-      "time": "2026-09-30 10:44:20",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Capital Economics: Underlying inflation steady; Reserve Bank of Australia unlikely to tighten further】Capital Economics senior Asia-Pacific economist Abhijit Surya says signs that Australian underlying inflation is no longer accelerating make further Reserve Bank of Australia (RBA) tightening unlikely. August trimmed-mean and weighted-median CPI both held at 3.6%, and core measures did not strengthen, supporting the view that the tightening cycle may be over. Surya adds the RBA is likely to remain on the sidelines in the near term while awaiting confirmation of slowing inflation over the coming months."
-    },
-    {
-      "id": "mkt:01a0f032-752a-7338-ab23-04b5b1480e91",
-      "time": "2026-09-30 10:43:53",
-      "tags": [
-        "MKT News",
-        "0700.HK",
-        "Impact bullish",
-        "NTES.O"
-      ],
-      "text": "【China gaming market sales 31.627 bln yuan in August; +8.08% YoY】Gamma Data monthly report: China’s game market actual sales reached 31.627 bln yuan in August, up 1.7% MoM and 8.08% YoY. Mobile game revenue was 23.395 bln yuan, up 8.6% YoY. Overseas revenue for domestically developed games was $2.03 bln, up 20.87% YoY and also rose MoM."
-    },
-    {
-      "id": "5119900",
-      "time": "2026-09-30 10:43:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月國內遊戲市場收入316.27億元 同比增長8.08%】據伽馬資料月度報告，2026年8月國內遊戲市場實際銷售收入316.27億元，環比增長1.7%，同比增長8.08%；其中移動遊戲收入233.95億元，同比增長8.6%；自研遊戲海外市場收入20.30億美元，同比增長20.87%，實現同比、環比雙增長。"
-    },
-    {
-      "id": "te:markets:587954",
-      "time": "2026-09-30 10:43:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesian Shares Snap Losing Streak, Monthly Slide Looms — Indonesia’s IDX Composite climbed 63 points, or 1.0%, to 6,184 in early Wednesday trade, halting weakness in the prior four sessions as U.S. stock futures firmed ahead of a key inflation print that could shape the Fed’s rate path. Momentum was also lifted by stronger activity in top trading partner China, as manufacturing and services accelerated in September, particularly in tech and consumer industries. Locally, Finance Minister Suahasil Nazara told lawmakers the state budget was designed with prudence and credibility to buffer the economy against persistent global uncertainty, further bolstering sentiment. Gains were broad-based, led by industrials, basic materials, energy, and infrastructure. Standouts included Rukun Raharja (6.1%), Sentul City (5.5%), and United Tractors (5.4%). Despite the upturn, the market is on track for its first monthly drop in three months, down about 5.4% so far, weighed by inflation concerns, rupiah weakness, and the fiscal strain of higher oil prices."
     }
   ]
 }
