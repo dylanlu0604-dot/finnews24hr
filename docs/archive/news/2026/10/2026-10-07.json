@@ -1,7 +1,114 @@
 {
   "date": "2026-10-07",
-  "count": 1099,
+  "count": 1111,
   "items": [
+    {
+      "id": "5129945",
+      "time": "2026-10-07 17:18:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所披露，10月2日，貝萊德集團持有長城汽車<2333.HK>H股的多頭持倉比例從11.58%降至10.97%。"
+    },
+    {
+      "id": "mkt:01a115a8-5a64-7ee0-a7d2-851f5814939e",
+      "time": "2026-10-07 17:18:36",
+      "tags": [
+        "MKT News",
+        "03750.HK",
+        "Impact bearish"
+      ],
+      "text": "HKEX filings show Morgan Stanley's long position in CATL (03750.HK) H-shares fell to 5.30% from 6.42% on Oct. 2."
+    },
+    {
+      "id": "5129944",
+      "time": "2026-10-07 17:18:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "港交所檔案顯示，摩根士丹利在寧德時代<3750.HK>H股的多頭持倉於10月2日從6.42%降至5.30%。"
+    },
+    {
+      "id": "mkt:01a115a7-ddda-7ee0-a7d2-7f9f4a507b04",
+      "time": "2026-10-07 17:18:05",
+      "tags": [
+        "MKT News",
+        "QTEC"
+      ],
+      "text": "INVESCO Nasdaq Technology ETF will suspend trading from market open on Oct 8, 2026 and resume at 10:30 a.m. on Oct 8, 2026. Redemption requests will be processed as normal during the suspension."
+    },
+    {
+      "id": "mkt:01a115a7-85b8-7ee0-a7d2-73cea911b0bf",
+      "time": "2026-10-07 17:17:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ERDOGAN said no one should doubt we will take the necessary political and administrative measures."
+    },
+    {
+      "id": "mkt:01a115a7-76d6-7ee0-a7d2-6ce477a00563",
+      "time": "2026-10-07 17:17:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China-listed Harvest Nasdaq ETF will be suspended from market open on 2026-10-08 and will resume trading at 10:30 on 2026-10-08. Redemption requests will be processed normally during the suspension."
+    },
+    {
+      "id": "5129943",
+      "time": "2026-10-07 17:17:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安：任何人都不應懷疑，我們將在政治和行政層面採取必要行動。"
+    },
+    {
+      "id": "5129942",
+      "time": "2026-10-07 17:16:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破102美元/桶，日內漲1.46%。"
+    },
+    {
+      "id": "5129941",
+      "time": "2026-10-07 17:16:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "KECK SENG（馬來西亞）9月棕櫚仁產量 1,654.00公噸。"
+    },
+    {
+      "id": "5129940",
+      "time": "2026-10-07 17:15:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞KLCI指數收盤下跌1.3%，報1611.78點。"
+    },
+    {
+      "id": "mkt:01a115a5-2cf6-7ee0-a7d2-62afa6e96159",
+      "time": "2026-10-07 17:15:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's President Erdogan, on political ties to the fund crisis, said the public should not lose trust in the government and should not believe dark propaganda."
+    },
+    {
+      "id": "mkt:01a115a5-230f-7ee0-a7d2-5bcb6ca4aede",
+      "time": "2026-10-07 17:15:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Qatar positions 12 empty LNG carriers off Persian Gulf, possibly preparing to resume Strait of Hormuz exports】Analysis of satellite imagery and ship-tracking data shows at least 12 empty LNG carriers owned or chartered by QatarEnergy are gathered off Qatar, with combined capacity of about 1.1 mln tonnes — roughly 2% of the global LNG fleet. The buildup could signal preparation to increase shipments via the Strait of Hormuz, but any transit is uncertain amid a recent uptick in attacks on vessels; Athens News Agency reported a Greek-owned LNG carrier was attacked near the Strait on Tuesday but continued sailing."
+    },
     {
       "id": "te:economy:590154",
       "time": "2026-10-07 17:14:34",
