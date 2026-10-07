@@ -1,7 +1,90 @@
 {
-  "updated": "2026-10-07 17:45:51",
-  "count": 9182,
+  "updated": "2026-10-07 17:53:29",
+  "count": 9157,
   "items": [
+    {
+      "id": "5129979",
+      "time": "2026-10-07 17:50:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛啟動對霍尼韋爾航空航天的追蹤覆蓋，給予中性評級，目標價為190美元。"
+    },
+    {
+      "id": "mkt:01a115c5-8a51-7ee0-a7d3-261ec6f0f4af",
+      "time": "2026-10-07 17:50:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【BofA: Bonds first time in decades competitive; S&P 10-year returns may trail Treasuries】BofA head of US equities and quant strategy Savita Subramanian said bonds are, for the first time in decades, a genuinely competitive alternative to equities. With the US 10-year yield above 5%, BofA’s valuation model indicates the S&P 500’s annualized return over the next 10 years may be lower than current Treasury yields. She warned high investor sentiment raises equity downside risk and limits further upside. Policymakers, including the Fed and the US Treasury, are monitoring the long end to avoid too-large increases in long-term rates; demographics and potential AI-driven disinflation imply a lower long-term ceiling for US rates than in the 1970s–80s, making sustained Treasury yields above 6–7% unlikely and improving the case for bond allocations."
+    },
+    {
+      "id": "mkt:01a115c4-5d15-7ee0-a7d3-1a263ff80862",
+      "time": "2026-10-07 17:49:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【2026 Nobel Prize in Chemistry announced】The Royal Swedish Academy of Sciences has awarded the 2026 Nobel Prize in Chemistry to Henri Kagan and Kenso Soai."
+    },
+    {
+      "id": "5129978",
+      "time": "2026-10-07 17:49:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典皇家科學院7日宣佈，2名科學家獲得2026年諾貝爾化學獎。（新華社）"
+    },
+    {
+      "id": "5129977",
+      "time": "2026-10-07 17:48:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄別爾哥羅德州當局：烏克蘭襲擊造成1人死亡、4人受傷。"
+    },
+    {
+      "id": "5129976",
+      "time": "2026-10-07 17:48:17",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Kagan、Kenso Soai獲得諾貝爾化學獎。"
+    },
+    {
+      "id": "5129975",
+      "time": "2026-10-07 17:47:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟委員會向烏克蘭撥付12.4億歐元 用於採購無人機與導彈】歐盟委員會公告稱，已向烏克蘭撥付12.4億歐元，資金用於採購由烏克蘭本土企業生產的無人機、無人機攔截裝置、無人機彈藥以及導彈。這筆資金屬於歐盟900億歐元烏克蘭援助貸款中的國防專項部分。2026年剩餘時間，烏克蘭可獲得的歐盟財政支援總額為325億歐元。烏克蘭援助貸款項下尚有281億歐元待撥付，其中154億歐元用於扶持烏克蘭國防工業產能，127億歐元作為預算支援。本年度最初的烏克蘭援助計劃內，仍有44億歐元預算支援資金可用。"
+    },
+    {
+      "id": "5129974",
+      "time": "2026-10-07 17:47:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中銳股份：安順市西秀區林業局已履行部分現金清償】中銳股份(002374)10月7日公告，近日，公司子公司安順華宇與安順市西秀區林業局就安順一期、二期專案簽訂《安順市西秀區生態修復綜合治理一期、二期PPP專案債權確認及債務重組協議》及《安順市西秀區生態修復綜合治理PPP專案結算協議》《及補充協議的提前終止及結算協議》等相關檔案。截至公告出具之日，安順市西秀區林業局已履行安順一期、二期專案債務重組後的部分現金清償；同時，安順華宇與安順市西秀區林業局在積極落實部分資產清償的相關事宜。"
+    },
+    {
+      "id": "mkt:01a115c1-9b93-7ee0-a7d3-130ada20b6e7",
+      "time": "2026-10-07 17:46:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of America analyst Subramanian says the current competition between bonds and equities is highly unusual."
+    },
     {
       "id": "5129973",
       "time": "2026-10-07 17:44:29",
@@ -84337,308 +84420,6 @@
         "公司"
       ],
       "text": "【DFI零售集團將以約3.4億美元從美心集團手中收購星巴克亞洲特許經營業務 】據宣告稱，DFI零售集團（DFI Retail Group）同意以約3.4億美元的現金，承接美心集團在亞洲七個市場運營星巴克的業務權益。該業務網路目前運營著1100多家咖啡店。DFI零售集團目前間接持有美心集團50%的股份（其中包含星巴克的特許經營業務）。"
-    },
-    {
-      "id": "te:economy:588180",
-      "time": "2026-09-30 17:53:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "South Africa Producer inflation Softens for 3rd Month — Producer price inflation in South Africa fell for the third month to 5% in August 2026, the softest since April, easing from 5.7% in July. The slowdown mainly reflected softer increases in the costs of coke, petroleum, chemical, rubber and plastic products (13.6% vs 15.7% in July), including petrol prices (20.9% vs 29.4%) and chemicals (5.4% vs 6%). Moreover, prices fell for food products (-0.6% vs 0.3%). On a monthly basis, the PPI fell by 0.4%, after a 1% decrease in the month before."
-    },
-    {
-      "id": "5120792",
-      "time": "2026-09-30 17:53:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江淮汽車：完成回購436.5萬股，支付9987.16萬元】江淮汽車公告，公司此前擬使用自有資金以集中競價交易方式回購股份，回購金額5000萬元~1億元，價格不超過64元/股，用於維護公司價值及股東權益，回購股份後續全部登出。截至2026年9月30日，回購期限屆滿，實際回購436.5萬股，佔總股本0.1936%，成交價格18.98元/股~26.19元/股，支付總金額9987.16萬元（不含交易費用）。"
-    },
-    {
-      "id": "5120791",
-      "time": "2026-09-30 17:52:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "艾伯維宣佈，其在研藥物ABBV-295在1期臨床試驗中顯示出最高9.8% 的體重減輕效果，表現出“有意義的體重下降”。"
-    },
-    {
-      "id": "mkt:01a0f1bb-4641-7338-ab2d-d9473ccdcf3a",
-      "time": "2026-09-30 17:52:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "【Bank of England warns AI valuations could see \"sharper correction\"】The Bank of England warned in its quarterly Financial Stability Report that AI valuations remain at risk of a sharper correction than in July, and that such a collapse could have broad effects on global growth and sovereign bond yields. Policymakers said interconnected vulnerabilities in the financial system are rising and the likelihood of simultaneous shocks has increased. The Bank flagged the multi-trillion-dollar AI market as a major risk and cited a renewed escalation in the Middle East, which could trigger a longer-lasting negative supply shock and raise sovereign debt risk. The Bank reiterated prior warnings that asset froth may be forming across AI-related equities, credit markets and sovereign debt."
-    },
-    {
-      "id": "mkt:01a0f1bb-0580-7338-ab2d-d32a6212c019",
-      "time": "2026-09-30 17:52:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says it has had contacts with the United States regarding a potential prisoner swap."
-    },
-    {
-      "id": "mkt:01a0f1ba-ab70-7338-ab2d-cc0df2793f45",
-      "time": "2026-09-30 17:52:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Kremlin, responding to reports that sanctions might be eased in exchange for the release of political prisoners, said Russia has no political prisoners and called such claims meaningless."
-    },
-    {
-      "id": "5120790",
-      "time": "2026-09-30 17:52:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【均瑤健康：公司生產經營正常】均瑤健康公告，公司股票於2026年9月28日、9月29日、9月30日連續3個交易日內日收盤價格漲幅偏離值累計超過20%，構成股票交易異常波動。經核查，公司生產經營正常，市場環境、行業政策未發生重大調整，不存在應披露而未披露的重大事項或需澄清的媒體報道、市場傳聞。公司2026年半年度歸屬於上市公司股東的淨利潤449.91萬元，較去年同期減少39.74%。"
-    },
-    {
-      "id": "mkt:01a0f1ba-676d-7338-ab2d-c4ab5db34958",
-      "time": "2026-09-30 17:52:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Kremlin denied reports it was considering talks to lift sanctions in exchange for prisoner releases."
-    },
-    {
-      "id": "5120789",
-      "time": "2026-09-30 17:51:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華翔股份在廣東成立液冷科技公司】企查查APP顯示，近日，華翔液冷科技（廣東）有限公司成立，註冊資本3000萬元，經營範圍包含：雲端計算裝置製造；雲端計算裝備技術服務；製冷、空調裝置製造等。企查查股權穿透顯示，該公司由華翔股份全資持股。"
-    },
-    {
-      "id": "mkt:01a0f1ba-11a3-7338-ab2d-ba7dbf3d981b",
-      "time": "2026-09-30 17:51:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "The Kremlin said its diplomats had tried to remind hot-headed Europeans to heed Moscow's core documents on the issue, after Russia's nuclear warning to NATO over Kaliningrad."
-    },
-    {
-      "id": "5120788",
-      "time": "2026-09-30 17:51:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【僑源股份：3665萬元設立全資子公司並完成工商登記】僑源股份公告稱，公司使用自有資金3665萬元投資設立全資子公司僑源氣體（新疆）有限公司，該子公司已於近日完成工商註冊登記手續，取得新疆生產建設兵團第七師市場監督管理局頒發的營業執照，法定代表人為李宏，成立日期為2026年9月29日。本次設立子公司事項已履行內部審批程式，無需提交董事會和股東會審議，不涉及關聯交易，不構成重大資產重組。"
-    },
-    {
-      "id": "5120787",
-      "time": "2026-09-30 17:50:56",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "財政部公佈2026年第四季度國債發行有關安排。（財政部）"
-    },
-    {
-      "id": "te:markets:588178",
-      "time": "2026-09-30 17:50:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AXA Stock Price Hits 4-week Low — AXA shares decreased to 42.70 EUR, the lowest since August 2026. Over the past 4 weeks, AXA lost 0.74%, and in the last 12 months, it increased 5.27%."
-    },
-    {
-      "id": "mkt:01a0f1b9-2555-7338-ab2d-b24cb62797b0",
-      "time": "2026-09-30 17:50:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says President Putin will address the newly elected parliament later on Wednesday evening."
-    },
-    {
-      "id": "5120786",
-      "time": "2026-09-30 17:50:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：普京將於週三晚些時候在新當選的議會上發表講話。"
-    },
-    {
-      "id": "5120785",
-      "time": "2026-09-30 17:50:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮就俄羅斯針對加里寧格勒問題向北約發出核警告一事表態：我國外交人員正努力提醒歐洲的激進分子，留意我國在這一問題上的基礎性綱領檔案。"
-    },
-    {
-      "id": "5120784",
-      "time": "2026-09-30 17:50:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮就“釋放政治囚犯以換取放寬制裁”的相關報道表態：俄羅斯不存在政治囚犯，此類說法毫無意義。"
-    },
-    {
-      "id": "5120783",
-      "time": "2026-09-30 17:50:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "克里姆林宮駁斥了有關可能討論以交換囚犯換取解除對俄製裁的相關報道。"
-    },
-    {
-      "id": "5120782",
-      "time": "2026-09-30 17:50:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮談可能的囚犯交換：我們與美國存有相關接觸。"
-    },
-    {
-      "id": "mkt:01a0f1b8-d08d-7338-ab2d-ac711fa761e5",
-      "time": "2026-09-30 17:50:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Prime Minister Takaichi said she will assess tax-revenue trends and review government revenues and expenditures."
-    },
-    {
-      "id": "mkt:01a0f1b8-c198-7338-ab2d-a207077540d3",
-      "time": "2026-09-30 17:50:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's Ministry of Finance announced arrangements for Q4 2026 government bond issuance."
-    },
-    {
-      "id": "5120781",
-      "time": "2026-09-30 17:50:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞：宣佈與諾和諾德就Wegovy口服制劑開展研究合作。"
-    },
-    {
-      "id": "5120780",
-      "time": "2026-09-30 17:49:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家能源局綜合司關於公開徵求《電力併網執行管理規定》（徵求意見稿）意見的通知 】為貫徹落實黨中央、國務院關於深化電力體制改革、建設全國統一電力市場決策部署，規範電力系統併網執行管理，保障電力系統安全、優質、經濟執行及相關市場主體合法權益，根據《中華人民共和國能源法》《中華人民共和國電力法》《電網排程管理條例》《電力監管條例》等法律法規，國家能源局對現行《電力併網執行管理規定》（國能發監管規〔2021〕60號，以下簡稱《規定》）進行修訂，形成了《電力併網執行管理規定（徵求意見稿）》，現向社會公開徵求意見。"
-    },
-    {
-      "id": "mkt:01a0f1b7-52eb-7338-ab2d-98941935f5d0",
-      "time": "2026-09-30 17:48:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Finance Minister KIUCHI said he has been in close communication with the Bank of Japan at all levels and sees no major difference in views on the economy and prices."
-    },
-    {
-      "id": "5120779",
-      "time": "2026-09-30 17:48:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新華百貨：董事梅亞莉增持公司5000股，佔總股本0.00158%】新華百貨公告，董事兼副總經理梅亞莉於2026年9月29日透過集中競價方式增持公司A股股份5000股，增持金額為51650元，佔公司總股本的0.00158%。本次增持不會導致公司控股股東及實際控制人發生變化，梅亞莉承諾增持完成後六個月內不減持所持公司股份。"
-    },
-    {
-      "id": "5120778",
-      "time": "2026-09-30 17:47:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【僑源股份：3665萬元設立全資子公司完成登記】僑源股份公告，公司使用自有資金人民幣3665萬元投資設立全資子公司僑源氣體（新疆）有限公司；近日，該子公司完成工商註冊登記並取得營業執照，成立日期為2026年9月29日。"
-    },
-    {
-      "id": "5120777",
-      "time": "2026-09-30 17:47:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本經濟財政大臣城內實：與日本央行各層面密切溝通，認為經濟和價格觀點沒有太大差距。"
-    },
-    {
-      "id": "5120776",
-      "time": "2026-09-30 17:47:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【據報Meta借AI資料中心申請高額研發稅收抵免】Meta正利用美國研發實驗稅收抵免政策，為其人工智慧資料中心申請數十億美元稅收優惠。該公司將價值數十億美元的資料中心專案描述為“實驗性研發活動”，並稱從英偉達等供應商採購的AI計算晶片屬於實驗專案投入，因此符合抵免條件。檔案顯示，去年，該政策幫助Meta減少近40億美元稅負，使其成為上市公司中該項稅收抵免的最大受益者之一。不過，Meta內部會計人員已警告這一做法存在法律風險，美國國稅局可能對相關申請提出質疑。稅務諮詢機構BPM合夥人Andre Shevchuck表示，將AI資料中心歸類為研發實驗專案“超出常規”。美國國稅局過去也曾審查企業將普通商業支出納入研發抵免範圍的做法。"
-    },
-    {
-      "id": "5120775",
-      "time": "2026-09-30 17:46:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度批准179億盧比用於德里交通管理系統。"
-    },
-    {
-      "id": "5120774",
-      "time": "2026-09-30 17:46:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "高市早苗：將評估稅收趨勢，重新審視財政收入與支出。"
-    },
-    {
-      "id": "5120773",
-      "time": "2026-09-30 17:46:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "高市早苗：將在物價上漲及利率上升的背景下，著力提升供給能力。"
-    },
-    {
-      "id": "5120772",
-      "time": "2026-09-30 17:46:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藥明康德：AI在創新藥物研發領域處於探索和嘗試階段，未來有望大幅提升效率、降低門檻】藥明康德9月30日在互動平臺表示，目前AI在創新藥物研發領域處於探索和嘗試階段，未來有望大幅提升效率、降低門檻，推動創新者和創新想法快速增長。儘管AI能高效設計分子結構，但仍需要像公司這樣具有獨特的一體化、端到端CRDMO平臺進行復雜的合成交付與生物驗證，從而形成“AI設計+CXO賦能落地”不可分割的產業閉環。為此，公司始終堅持“HI（Human Intelligence）+AI”的策略，利用創新工具持續提升服務能力與運營效率，更好地服務全球客戶。未來，優秀的CXO將進化為聯接前沿AI大腦與實體研發環節的“生命科學作業系統”，在持續迭代中放大自身價值並最終造福病患。"
-    },
-    {
-      "id": "te:economy:588176",
-      "time": "2026-09-30 17:46:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Greece",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Greece Retail Sales Growth Rises in July — Retail sales in Greece rose 5.2% year-on-year in July 2026 from a revised 1.8% increase in the previous month. Sales growth accelerated in the food sector (5.6% vs 2.4% in June), as well as in the non-food sector excluding automotive fuel (5.6% vs 4.0%). Among specialized categories, retail activity rose for supermarkets (5.8% vs 2.2%), food, beverages, and tobacco (4.8% vs 0.2%), and pharmaceutical products and cosmetics (5.9% vs 3.3%). At the same time, sales rebounded for department stores (1.8% vs -2.1%) and books, stationery, and other goods (3.1% vs -0.6%), while declines eased in automotive fuel (-0.4% vs -6.7%). Meanwhile, sales growth moderated for clothing and footwear (2.7% vs 6.8%) and furniture, electrical equipment, and household equipment (8.7% vs 10.9%). On a seasonally adjusted monthly basis, retail activity accelerated 5.3%, following a 1.4% gain in June."
-    },
-    {
-      "id": "5120771",
-      "time": "2026-09-30 17:46:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數漲幅收窄。"
     }
   ]
 }

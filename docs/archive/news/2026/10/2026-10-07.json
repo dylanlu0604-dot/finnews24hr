@@ -1,7 +1,90 @@
 {
   "date": "2026-10-07",
-  "count": 1160,
+  "count": 1169,
   "items": [
+    {
+      "id": "5129979",
+      "time": "2026-10-07 17:50:40",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛啟動對霍尼韋爾航空航天的追蹤覆蓋，給予中性評級，目標價為190美元。"
+    },
+    {
+      "id": "mkt:01a115c5-8a51-7ee0-a7d3-261ec6f0f4af",
+      "time": "2026-10-07 17:50:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【BofA: Bonds first time in decades competitive; S&P 10-year returns may trail Treasuries】BofA head of US equities and quant strategy Savita Subramanian said bonds are, for the first time in decades, a genuinely competitive alternative to equities. With the US 10-year yield above 5%, BofA’s valuation model indicates the S&P 500’s annualized return over the next 10 years may be lower than current Treasury yields. She warned high investor sentiment raises equity downside risk and limits further upside. Policymakers, including the Fed and the US Treasury, are monitoring the long end to avoid too-large increases in long-term rates; demographics and potential AI-driven disinflation imply a lower long-term ceiling for US rates than in the 1970s–80s, making sustained Treasury yields above 6–7% unlikely and improving the case for bond allocations."
+    },
+    {
+      "id": "mkt:01a115c4-5d15-7ee0-a7d3-1a263ff80862",
+      "time": "2026-10-07 17:49:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【2026 Nobel Prize in Chemistry announced】The Royal Swedish Academy of Sciences has awarded the 2026 Nobel Prize in Chemistry to Henri Kagan and Kenso Soai."
+    },
+    {
+      "id": "5129978",
+      "time": "2026-10-07 17:49:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典皇家科學院7日宣佈，2名科學家獲得2026年諾貝爾化學獎。（新華社）"
+    },
+    {
+      "id": "5129977",
+      "time": "2026-10-07 17:48:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄別爾哥羅德州當局：烏克蘭襲擊造成1人死亡、4人受傷。"
+    },
+    {
+      "id": "5129976",
+      "time": "2026-10-07 17:48:17",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Kagan、Kenso Soai獲得諾貝爾化學獎。"
+    },
+    {
+      "id": "5129975",
+      "time": "2026-10-07 17:47:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟委員會向烏克蘭撥付12.4億歐元 用於採購無人機與導彈】歐盟委員會公告稱，已向烏克蘭撥付12.4億歐元，資金用於採購由烏克蘭本土企業生產的無人機、無人機攔截裝置、無人機彈藥以及導彈。這筆資金屬於歐盟900億歐元烏克蘭援助貸款中的國防專項部分。2026年剩餘時間，烏克蘭可獲得的歐盟財政支援總額為325億歐元。烏克蘭援助貸款項下尚有281億歐元待撥付，其中154億歐元用於扶持烏克蘭國防工業產能，127億歐元作為預算支援。本年度最初的烏克蘭援助計劃內，仍有44億歐元預算支援資金可用。"
+    },
+    {
+      "id": "5129974",
+      "time": "2026-10-07 17:47:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中銳股份：安順市西秀區林業局已履行部分現金清償】中銳股份(002374)10月7日公告，近日，公司子公司安順華宇與安順市西秀區林業局就安順一期、二期專案簽訂《安順市西秀區生態修復綜合治理一期、二期PPP專案債權確認及債務重組協議》及《安順市西秀區生態修復綜合治理PPP專案結算協議》《及補充協議的提前終止及結算協議》等相關檔案。截至公告出具之日，安順市西秀區林業局已履行安順一期、二期專案債務重組後的部分現金清償；同時，安順華宇與安順市西秀區林業局在積極落實部分資產清償的相關事宜。"
+    },
+    {
+      "id": "mkt:01a115c1-9b93-7ee0-a7d3-130ada20b6e7",
+      "time": "2026-10-07 17:46:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of America analyst Subramanian says the current competition between bonds and equities is highly unusual."
+    },
     {
       "id": "5129973",
       "time": "2026-10-07 17:44:29",
