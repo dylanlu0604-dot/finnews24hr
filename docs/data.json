@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-07 10:30:56",
-  "count": 9427,
+  "updated": "2026-10-07 10:34:46",
+  "count": 9428,
   "items": [
+    {
+      "id": "5129365",
+      "time": "2026-10-07 10:34:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元 <JPY=EBS> 上漲0.20%，報158.4400。"
+    },
+    {
+      "id": "5129364",
+      "time": "2026-10-07 10:33:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國3年期公司債收益率上升0.3個基點，至4.639%。"
+    },
+    {
+      "id": "te:markets:590010",
+      "time": "2026-10-07 10:33:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Weakens on Yield Differential — The Japanese yen weakened to around 158.5 per dollar on Wednesday, approaching two-week lows as the wide yield gap between the US and Japan continued to favor the dollar. The currency remained under pressure from relatively low domestic interest rates and Japan’s heavy debt burden, with Prime Minister Sanae Takaichi pushing ahead with expansionary fiscal policies. In a parliamentary address, Takaichi pledged to cut the consumption tax on food products while emphasizing that the government would secure funding without issuing additional bonds, seeking to reassure financial markets. Meanwhile, data showed that Japan’s real wages rose 1.5% year-on-year in August, marking the eighth consecutive month of gains and reinforcing expectations for further Bank of Japan interest rate hikes. BOJ member Ayano Sato also expressed support for raising interest rates gradually in several stages."
+    },
+    {
+      "id": "5129363",
+      "time": "2026-10-07 10:32:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "木原稔表示，將繼續與美國就預防性措施進行磋商。"
+    },
+    {
+      "id": "5129362",
+      "time": "2026-10-07 10:31:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：美軍實施宵禁顯示對駐沖繩案件迅速作出反應。"
+    },
+    {
+      "id": "5129361",
+      "time": "2026-10-07 10:31:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數早盤收跌0.9%，報70074.13點。"
+    },
+    {
+      "id": "5129360",
+      "time": "2026-10-07 10:31:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數早盤收跌0.6%，報4158.89點。"
+    },
+    {
+      "id": "5129359",
+      "time": "2026-10-07 10:31:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三菱汽車就針對其美國子公司的訴訟達成和解。"
+    },
+    {
+      "id": "5129358",
+      "time": "2026-10-07 10:30:40",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "韓國財政部：韓國以4.495%的收益率發行30年期國債。"
+    },
     {
       "id": "mkt:01a11430-c223-7ee0-a7c8-7e5ba247a9bf",
       "time": "2026-10-07 10:28:22",
@@ -86786,78 +86867,6 @@
         "其他"
       ],
       "text": "COUNTERPOINT預測：蘋果iPhone Duo今年將售出600萬部。"
-    },
-    {
-      "id": "mkt:01a0f028-2156-7338-ab22-e98bb875b875",
-      "time": "2026-09-30 10:32:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Taiwan Affairs Office: Opposing Taiwan independence serves China‑US common interests】At a Sept. 30 briefing, Zhang Han, spokesperson for the State Council Taiwan Affairs Office, said Beijing firmly opposes Taiwan independence and blamed the Lai Ching‑te administration for persistently pursuing independence and refusing to accept the 1992 Consensus. He called those actions the primary cause of instability in the Taiwan Strait and said opposing independence and preserving cross‑strait peace are in the common interests of China and the United States. Zhang urged Taiwan residents to reject pro‑independence moves, help maintain stability in the strait, and support advancement of national reunification."
-    },
-    {
-      "id": "mkt:01a0f028-0401-7338-ab22-e798eff09d95",
-      "time": "2026-09-30 10:32:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell 1.00% intraday to $60.85/oz."
-    },
-    {
-      "id": "5119893",
-      "time": "2026-09-30 10:32:26",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【民進黨當局歪曲攻擊聯大2758號決議 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，近日，臺外事部門負責人林佳龍投書日媒稱，“以規則為基礎的國際秩序正面臨威權國家的挑戰”，“中國刻意曲解聯合國大會第2758號決議，企圖阻礙臺灣參與國際組織。若國際社會未加以制止，相關論述恐被中國用來為未來武力侵略臺灣製造法律依據”。請問對此有何評論？發言人張晗答問表示，有關言論純屬歪曲事實，顛倒黑白。聯合國憲章奠定了戰後國際秩序的基石，確立了以聯合國為核心的國際體系。遵守聯合國憲章成為戰後國際社會的最大公約數。她指出，世界上只有一箇中國，臺灣是中國領土不可分割的一部分。聯大第2758號決議開宗明義指出，恢復中華人民共和國的合法權利，對於維護聯合國憲章和聯合國組織根據憲章所必須從事的事業都是必不可少的，鄭重闡明瞭維護聯合國權威的鮮明立場。該決議從政治上、法律上、程式上徹底解決了包括臺灣在內全中國在聯合國的代表權問題。張晗強調，歷史經緯清清楚楚，法理事實明明白白。民進黨當局一再歪曲攻擊聯大第2758號決議，妄圖挑戰聯合國權威和戰後國際秩序，絕無可能。"
-    },
-    {
-      "id": "5119892",
-      "time": "2026-09-30 10:32:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報60.83美元/盎司。"
-    },
-    {
-      "id": "mkt:01a0f027-c8e3-7338-ab22-dfda4465d8f6",
-      "time": "2026-09-30 10:32:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Indonesia's benchmark stock index rose 1%."
-    },
-    {
-      "id": "5119891",
-      "time": "2026-09-30 10:32:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報120000元/噸，較上日16:30價格下跌500元/噸。"
-    },
-    {
-      "id": "5119890",
-      "time": "2026-09-30 10:31:23",
-      "tags": [
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【摩根大通稱中東原油流量已恢復至戰前水平的98%】摩根大通表示，儘管航運仍面臨風險，但來自中東的原油流量幾乎已恢復到戰前水平。“中東的石油出口動脈正在再次暢通，”摩根大通分析師娜塔莎·卡內瓦等人在9月29日的一份報告中表示，對於一個仍處於戰爭狀態的地區來說，這是一個“顯著的復甦”，儘管復甦並不均衡。摩根大通的資料顯示，目前來自中東的原油流量已反彈至1750萬桶/日，相當於戰前水平的98%；而柴油和汽油等成品油的出貨量為300萬桶/日，相當於戰前水平的58%。過去五天的十日平均值顯示，整體出貨量已達到2025年水平的89%。分析師表示，霍爾木茲海峽的原油流量已幾乎“恢復到6月下旬的近1300萬桶/日的高位，主要由沙特帶動”。“但更高的過境流量不應被誤認為是安全性的提高——相反，這反映出該行業在持續風險下運營的能力不斷增強。”"
-    },
-    {
-      "id": "5119889",
-      "time": "2026-09-30 10:31:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
     }
   ]
 }

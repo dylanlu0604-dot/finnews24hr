@@ -1,7 +1,88 @@
 {
   "date": "2026-10-07",
-  "count": 620,
+  "count": 629,
   "items": [
+    {
+      "id": "5129365",
+      "time": "2026-10-07 10:34:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元 <JPY=EBS> 上漲0.20%，報158.4400。"
+    },
+    {
+      "id": "5129364",
+      "time": "2026-10-07 10:33:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "韓國3年期公司債收益率上升0.3個基點，至4.639%。"
+    },
+    {
+      "id": "te:markets:590010",
+      "time": "2026-10-07 10:33:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Weakens on Yield Differential — The Japanese yen weakened to around 158.5 per dollar on Wednesday, approaching two-week lows as the wide yield gap between the US and Japan continued to favor the dollar. The currency remained under pressure from relatively low domestic interest rates and Japan’s heavy debt burden, with Prime Minister Sanae Takaichi pushing ahead with expansionary fiscal policies. In a parliamentary address, Takaichi pledged to cut the consumption tax on food products while emphasizing that the government would secure funding without issuing additional bonds, seeking to reassure financial markets. Meanwhile, data showed that Japan’s real wages rose 1.5% year-on-year in August, marking the eighth consecutive month of gains and reinforcing expectations for further Bank of Japan interest rate hikes. BOJ member Ayano Sato also expressed support for raising interest rates gradually in several stages."
+    },
+    {
+      "id": "5129363",
+      "time": "2026-10-07 10:32:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "木原稔表示，將繼續與美國就預防性措施進行磋商。"
+    },
+    {
+      "id": "5129362",
+      "time": "2026-10-07 10:31:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：美軍實施宵禁顯示對駐沖繩案件迅速作出反應。"
+    },
+    {
+      "id": "5129361",
+      "time": "2026-10-07 10:31:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數早盤收跌0.9%，報70074.13點。"
+    },
+    {
+      "id": "5129360",
+      "time": "2026-10-07 10:31:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數早盤收跌0.6%，報4158.89點。"
+    },
+    {
+      "id": "5129359",
+      "time": "2026-10-07 10:31:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三菱汽車就針對其美國子公司的訴訟達成和解。"
+    },
+    {
+      "id": "5129358",
+      "time": "2026-10-07 10:30:40",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "韓國財政部：韓國以4.495%的收益率發行30年期國債。"
+    },
     {
       "id": "mkt:01a11430-c223-7ee0-a7c8-7e5ba247a9bf",
       "time": "2026-10-07 10:28:22",
