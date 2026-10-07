@@ -1,7 +1,28 @@
 {
   "date": "2026-10-07",
-  "count": 708,
+  "count": 710,
   "items": [
+    {
+      "id": "mkt:01a1146b-b032-7ee0-a7c9-5081e6540bc6",
+      "time": "2026-10-07 11:32:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Indian Oil buys 3 mln barrels of crude for November delivery】Indian Oil bought 3 mln barrels of Middle East and West African crude via a tender for November delivery to multiple Indian ports. Toke Group sold 1 mln barrels of Abu Dhabi Murban at a $13–14/bl premium to Brent spot, delivery to Vadinar; Mercuria sold 1 mln barrels of Iraq Basrah Medium at about flat to Brent spot, delivery to Chennai; Chevron sold 1 mln barrels of Angola Nemba at a $18/bl premium to Brent spot."
+    },
+    {
+      "id": "5129412",
+      "time": "2026-10-07 11:32:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期指標公債收益率<IN069436G=CC>報7.2095%；前收盤報7.1928%。"
+    },
     {
       "id": "5129411",
       "time": "2026-10-07 11:31:05",
