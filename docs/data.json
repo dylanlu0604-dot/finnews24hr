@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-08 00:20:42",
-  "count": 9034,
+  "updated": "2026-10-08 00:24:34",
+  "count": 9026,
   "items": [
+    {
+      "id": "5130551",
+      "time": "2026-10-08 00:22:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿根廷國家石油公司 YPF 釋出宣告稱，已與道達爾能源簽署可持續航空燃料（SAF）供應協議，專案投資額達 4 億美元。"
+    },
+    {
+      "id": "mkt:01a1172c-3422-7ee0-a7dd-5e75ff4b63bf",
+      "time": "2026-10-08 00:22:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Wall Street Journal, people familiar with the matter said a co‑pilot at a Dubai-based carrier had planned to carry out an attack in July."
+    },
+    {
+      "id": "5130550",
+      "time": "2026-10-08 00:20:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "調查顯示：週四 EIA 報告預計，美國上週天然氣庫存增加 790 億立方英尺。"
+    },
     {
       "id": "5130549",
       "time": "2026-10-08 00:19:59",
@@ -83110,109 +83134,6 @@
         "Importance 0"
       ],
       "text": "DAX Closes Lower, Posts Monthly Loss — Frankfurt's DAX 40 lost further ground to close about 0.8% down at 25,211 on Wednesday, hitting the lowest since July 24, mirroring its European peers. Market sentiment remained pressured by surging oil prices and elevated bond yields amid persistent Middle East risks. Meanwhile, investors assessed a batch of economic data from Europe and the US, particularly inflation. Signs of rising price pressures across major eurozone economies raised expectations that the ECB may need to keep monetary policy tight for longer. Media, insurance, industrials, telecom and banks were the hardest hit, while retailers and tech advanced the most. The index recorded a monthly decline of roughly 4%, but posted a 0.9% quarterly gain."
-    },
-    {
-      "id": "5121526",
-      "time": "2026-10-01 00:24:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯目前預計2026年預算赤字為4.9%，此前預期為3.3%。"
-    },
-    {
-      "id": "mkt:01a0f321-959f-7338-ab37-50c6b2d68bcf",
-      "time": "2026-10-01 00:24:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Italy's prime minister Meloni said Italy hopes the EU will grant member states \"additional flexibility\" in budget rules to account for the inf impact of higher energy costs."
-    },
-    {
-      "id": "mkt:01a0f321-5fdb-7338-ab37-4c81dc8d1210",
-      "time": "2026-10-01 00:24:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia lodged a protest over what it called \"unprofessional and provocative behavior\" by a Danish Air Force helicopter."
-    },
-    {
-      "id": "5121525",
-      "time": "2026-10-01 00:23:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利總理梅洛尼表示，意方希望歐盟在預算規則上給予成員國“額外靈活性”，以將能源成本引發的通脹影響納入考量。"
-    },
-    {
-      "id": "mkt:01a0f321-296c-7338-ab37-4047880bc9d5",
-      "time": "2026-10-01 00:23:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia summons Denmark's ambassador, sources say."
-    },
-    {
-      "id": "mkt:01a0f320-642e-7338-ab37-38d472e9395f",
-      "time": "2026-10-01 00:23:01",
-      "tags": [
-        "MKT News",
-        "SGML.O",
-        "Impact bearish"
-      ],
-      "text": "According to documents, Brazil's mining regulator suspended part of Sigma Lithium's mining operations citing \"imminent risk\" and did not disclose the specific cause."
-    },
-    {
-      "id": "5121524",
-      "time": "2026-10-01 00:22:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯就丹麥空軍一架直升機“不專業且具挑釁性的行為”提出抗議。"
-    },
-    {
-      "id": "5121523",
-      "time": "2026-10-01 00:21:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國石油行業警告，柴油價格在一年內都難以恢復正常水平。"
-    },
-    {
-      "id": "5121522",
-      "time": "2026-10-01 00:21:26",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "檔案顯示：巴西礦業監管機構因未明確說明的迫在眉睫風險，部分暫停西格瑪鋰業的採礦作業。"
-    },
-    {
-      "id": "5121521",
-      "time": "2026-10-01 00:20:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯召見丹麥大使。"
-    },
-    {
-      "id": "mkt:01a0f31e-5c2c-7338-ab37-3008628a1986",
-      "time": "2026-10-01 00:20:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "Italian Prime Minister Meloni said the EU's proposal to revise the emissions trading system (ETS) is insufficient."
     }
   ]
 }

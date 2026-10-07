@@ -1,7 +1,31 @@
 {
   "date": "2026-10-08",
-  "count": 31,
+  "count": 34,
   "items": [
+    {
+      "id": "5130551",
+      "time": "2026-10-08 00:22:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿根廷國家石油公司 YPF 釋出宣告稱，已與道達爾能源簽署可持續航空燃料（SAF）供應協議，專案投資額達 4 億美元。"
+    },
+    {
+      "id": "mkt:01a1172c-3422-7ee0-a7dd-5e75ff4b63bf",
+      "time": "2026-10-08 00:22:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Wall Street Journal, people familiar with the matter said a co‑pilot at a Dubai-based carrier had planned to carry out an attack in July."
+    },
+    {
+      "id": "5130550",
+      "time": "2026-10-08 00:20:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "調查顯示：週四 EIA 報告預計，美國上週天然氣庫存增加 790 億立方英尺。"
+    },
     {
       "id": "5130549",
       "time": "2026-10-08 00:19:59",
