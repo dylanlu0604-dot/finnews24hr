@@ -1,7 +1,35 @@
 {
   "date": "2026-10-08",
-  "count": 287,
+  "count": 290,
   "items": [
+    {
+      "id": "te:economy:590286",
+      "time": "2026-10-08 05:29:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "El Salvador",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "El Salvador Inflation At Highest Level Since 2023 — Annual inflation in El Salvador rose to 3.60% in September 2026 from 3.19% in August, the highest reading since June 2023. Price growth accelerated for food and non-alcoholic beverages (4.44% vs 3.65%), furniture and household goods (2.12% vs 1.90%), communications (9.63% vs 8.23%), education (3.50% vs 3.30%), restaurants and hotels (0.79% vs 0%) and miscellaneous goods and services (2.23% vs 2.14%). Meanwhile, inflation moderated for alcoholic beverages and tobacco (2.50% vs 2.62%), clothing and footwear (2.50% vs 2.62%), health (0.23% vs 0.54%) and transport (2.89% vs 2.91%). Deflation deepened in housing and utilities (-0.64% vs -0.32%) and recreation and culture (-0.93% vs -0.91%)."
+    },
+    {
+      "id": "5130727",
+      "time": "2026-10-08 05:28:45",
+      "tags": [
+        "觀點"
+      ],
+      "text": "SK海力士旗下Solidigm聘請高盛、摩根士丹利負責IPO事宜。"
+    },
+    {
+      "id": "5130726",
+      "time": "2026-10-08 05:26:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：羅馬尼亞訂購12架軍用直升機。"
+    },
     {
       "id": "te:economy:590285",
       "time": "2026-10-08 05:23:01",
