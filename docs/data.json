@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-08 00:36:13",
-  "count": 9019,
+  "updated": "2026-10-08 00:40:09",
+  "count": 9020,
   "items": [
+    {
+      "id": "5130557",
+      "time": "2026-10-08 00:39:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引希伯來訊息源：海法傳出巨大爆炸聲。"
+    },
+    {
+      "id": "te:markets:590255",
+      "time": "2026-10-08 00:39:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Falls to Nine-Week Low — Platinum futures fell below $1,700 an ounce to their lowest level in just over two months, pressured by investment flows and a weaker demand outlook. Elevated energy prices have fueled concerns over persistent inflation and debt affordability, pushing sovereign yields to multi-year highs and increasing the opportunity cost of holding non-yielding assets such as platinum. Bearish sentiment was reinforced by the World Platinum Investment Council’s forecast of a market surplus in 2026, with total demand expected to decline 18%, including a 32% drop in Chinese jewelry demand and a 4% decline from automakers. Additional supply could also weigh on prices, as a state-owned firm in Zimbabwe, the world’s third-largest platinum reserves, plans to develop a mining project in Darwendale next year, with an estimated 44 million ounces of platinum-group metals. Over the longer term, however, rapid AI infrastructure expansion could support demand."
+    },
+    {
+      "id": "mkt:01a1173a-d696-7ee0-a7dd-6a27241ab493",
+      "time": "2026-10-08 00:38:14",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus said Bangladesh's national carrier signed an order confirming purchase of 10 next‑generation aircraft, comprising four A350‑900 widebodies and six A321neo single‑aisles."
+    },
+    {
+      "id": "5130556",
+      "time": "2026-10-08 00:36:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：訂單包含 4 架 A350-900 寬體飛機以及 6 架 A321neo 單通道飛機。"
+    },
+    {
+      "id": "5130555",
+      "time": "2026-10-08 00:35:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客公司：孟加拉國航空（Biman Bangladesh Airlines）已簽署確認訂單，採購 10 架空客最新一代機型。"
+    },
     {
       "id": "5130554",
       "time": "2026-10-08 00:34:04",
@@ -83023,41 +83068,6 @@
         "國際"
       ],
       "text": "要求收緊國會議員股票交易規則的法案未能在美國參議院獲得足夠推進票數，目前投票仍在進行中。"
-    },
-    {
-      "id": "5121535",
-      "time": "2026-10-01 00:39:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "多明尼加共和國將基準利率上調至5.5%。"
-    },
-    {
-      "id": "5121534",
-      "time": "2026-10-01 00:39:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "哥倫比亞國家石油公司就委內瑞拉業務機遇釋出宣告，稱正在探索委內瑞拉油氣專案機會。"
-    },
-    {
-      "id": "mkt:01a0f32d-aea5-7338-ab37-6ff676117288",
-      "time": "2026-10-01 00:37:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【US oil firms warn diesel prices may take more than a year to return to 2025 levels】The Financial Times reports US oil and gas firms warn diesel prices may need over a year to return to 2025 levels. A Dallas Fed survey of 100 energy companies found nearly half expect diesel to take more than four quarters to normalize. Respondents cited disruption to Middle East supply from the Iran war and Ukrainian strikes on Russian refineries as key factors tightening global diesel availability. An industry respondent said diesel is critical to economic activity and the market is only beginning to feel the impact of high prices. The Trump administration has discussed measures including restricting diesel exports and urging allies to release stocks to curb domestic fuel costs. Analysts warn an export ban could boost US supply short term but may lift fuel prices longer term and disrupt Europe and Latin America, which rely on US diesel shipments."
-    },
-    {
-      "id": "5121533",
-      "time": "2026-10-01 00:36:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尚比亞宣佈暴發新一輪霍亂疫情】當地時間9月30日，尚比亞衛生部宣佈該國暴發新一輪霍亂疫情，該國的盧薩卡省、中央省、盧阿普拉省、北方省以及南方省5個省份共報告了304例病例，包括11例死亡病例。（央視新聞）"
     }
   ]
 }

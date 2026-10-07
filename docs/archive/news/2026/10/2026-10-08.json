@@ -1,7 +1,52 @@
 {
   "date": "2026-10-08",
-  "count": 38,
+  "count": 43,
   "items": [
+    {
+      "id": "5130557",
+      "time": "2026-10-08 00:39:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引希伯來訊息源：海法傳出巨大爆炸聲。"
+    },
+    {
+      "id": "te:markets:590255",
+      "time": "2026-10-08 00:39:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Falls to Nine-Week Low — Platinum futures fell below $1,700 an ounce to their lowest level in just over two months, pressured by investment flows and a weaker demand outlook. Elevated energy prices have fueled concerns over persistent inflation and debt affordability, pushing sovereign yields to multi-year highs and increasing the opportunity cost of holding non-yielding assets such as platinum. Bearish sentiment was reinforced by the World Platinum Investment Council’s forecast of a market surplus in 2026, with total demand expected to decline 18%, including a 32% drop in Chinese jewelry demand and a 4% decline from automakers. Additional supply could also weigh on prices, as a state-owned firm in Zimbabwe, the world’s third-largest platinum reserves, plans to develop a mining project in Darwendale next year, with an estimated 44 million ounces of platinum-group metals. Over the longer term, however, rapid AI infrastructure expansion could support demand."
+    },
+    {
+      "id": "mkt:01a1173a-d696-7ee0-a7dd-6a27241ab493",
+      "time": "2026-10-08 00:38:14",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus said Bangladesh's national carrier signed an order confirming purchase of 10 next‑generation aircraft, comprising four A350‑900 widebodies and six A321neo single‑aisles."
+    },
+    {
+      "id": "5130556",
+      "time": "2026-10-08 00:36:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：訂單包含 4 架 A350-900 寬體飛機以及 6 架 A321neo 單通道飛機。"
+    },
+    {
+      "id": "5130555",
+      "time": "2026-10-08 00:35:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客公司：孟加拉國航空（Biman Bangladesh Airlines）已簽署確認訂單，採購 10 架空客最新一代機型。"
+    },
     {
       "id": "5130554",
       "time": "2026-10-08 00:34:04",
