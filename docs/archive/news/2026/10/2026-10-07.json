@@ -1,7 +1,25 @@
 {
   "date": "2026-10-07",
-  "count": 462,
+  "count": 464,
   "items": [
+    {
+      "id": "mkt:01a113ae-64b3-7ee0-a7c7-42441eeeab7d",
+      "time": "2026-10-07 08:05:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Beibu Gulf Port opens direct Guinean bauxite rail link to Chongqing】Beibu Gulf Port Co. said a vessel carrying 168,000 tonnes of Guinean bauxite docked at Fangchenggang on Oct. 1 and completed berthing, unloading, storage and rail-dispatch operations. The first batch departed by rail to Wanzhou, Chongqing on Oct. 3 to supply Bosai Mining’s Wanzhou plant. The new logistics chain — overseas mine to Beibu Gulf Port entry to direct rail to Chongqing — replaces traditional Yangtze river-sea transport and cuts overall transit time by about 25 days."
+    },
+    {
+      "id": "5129257",
+      "time": "2026-10-07 08:05:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北部灣港成功開闢重慶鋁土礦進口直達通道】據北部灣港股份7日訊息，10月1日，載有16.8萬噸幾內亞進口鋁土礦的船舶順利靠泊防城港，並高效完成靠泊接卸、堆存、鐵路疏運全鏈條作業，首批貨物於10月3日透過鐵路發運至重慶萬州，有力保障博賽礦業萬州生產基地原料穩定供應。此次落地的幾內亞鋁土礦物流新鏈路，創新構建“海外礦山—北部灣港入境—鐵路直達重慶”鐵海聯運新模式。相較傳統長江江海聯運路徑，整體運輸時長縮短約25天。"
+    },
     {
       "id": "5129256",
       "time": "2026-10-07 08:03:15",
