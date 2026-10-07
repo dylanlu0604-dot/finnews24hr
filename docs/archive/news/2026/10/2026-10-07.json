@@ -1,7 +1,31 @@
 {
   "date": "2026-10-07",
-  "count": 618,
+  "count": 620,
   "items": [
+    {
+      "id": "mkt:01a11430-c223-7ee0-a7c8-7e5ba247a9bf",
+      "time": "2026-10-07 10:28:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【Shenzhen consumption broad-based during National Day holiday】Retail and leisure demand surged over the National Day holiday in Shenzhen: Futian business district recorded nearly 7.0 mln visits in the first four days and sales above 500 mln yuan. Service, scene-based and cross-border consumption expanded simultaneously; Shenzhen border inspection projects average daily port passenger flows of 970,000 during the holiday. Guangdong province rolled out province-wide consumption campaigns with subsidies exceeding 10 bln yuan. Policy support for big-ticket purchases continued: new-energy vehicle purchase tax halved and car trade-in subsidies remain in place. At the five-day 2026 (18th) Shenzhen International Auto Show, attendance was about 420,000, with 14,759 vehicles booked and booked transaction value near 2.8 bln yuan."
+    },
+    {
+      "id": "te:markets:590009",
+      "time": "2026-10-07 10:27:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Pressured Near Multi-Month Lows — Platinum futures traded around $1,700 an ounce, near two-month lows as elevated oil prices and Treasury yields pressured the precious metals complex. Oil prices rebounded on persistent risks to Middle East supply, keeping inflation and interest-rate concerns in focus, while Treasury yields remained near multi-decade highs on persistent inflation, rising fiscal risks and elevated AI-related debt issuance. Meanwhile, markets are pricing in around an 80% chance that the Federal Reserve will leave rates unchanged this month following a weaker-than-expected labor market report. Platinum’s fundamentals also remain mixed, with WPIC forecasting industrial demand to rise 5% in 2026, partly driven by AI infrastructure, while automotive demand is expected to fall 4%, leaving a projected 265,000-ounce surplus. Over the longer term, the rapid build-out of AI infrastructure is expected to support demand."
+    },
     {
       "id": "mkt:01a1142f-3bdd-7ee0-a7c8-750dabbb171d",
       "time": "2026-10-07 10:26:42",

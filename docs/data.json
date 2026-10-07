@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-07 10:27:12",
-  "count": 9430,
+  "updated": "2026-10-07 10:30:56",
+  "count": 9427,
   "items": [
+    {
+      "id": "mkt:01a11430-c223-7ee0-a7c8-7e5ba247a9bf",
+      "time": "2026-10-07 10:28:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【Shenzhen consumption broad-based during National Day holiday】Retail and leisure demand surged over the National Day holiday in Shenzhen: Futian business district recorded nearly 7.0 mln visits in the first four days and sales above 500 mln yuan. Service, scene-based and cross-border consumption expanded simultaneously; Shenzhen border inspection projects average daily port passenger flows of 970,000 during the holiday. Guangdong province rolled out province-wide consumption campaigns with subsidies exceeding 10 bln yuan. Policy support for big-ticket purchases continued: new-energy vehicle purchase tax halved and car trade-in subsidies remain in place. At the five-day 2026 (18th) Shenzhen International Auto Show, attendance was about 420,000, with 14,759 vehicles booked and booked transaction value near 2.8 bln yuan."
+    },
+    {
+      "id": "te:markets:590009",
+      "time": "2026-10-07 10:27:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Pressured Near Multi-Month Lows — Platinum futures traded around $1,700 an ounce, near two-month lows as elevated oil prices and Treasury yields pressured the precious metals complex. Oil prices rebounded on persistent risks to Middle East supply, keeping inflation and interest-rate concerns in focus, while Treasury yields remained near multi-decade highs on persistent inflation, rising fiscal risks and elevated AI-related debt issuance. Meanwhile, markets are pricing in around an 80% chance that the Federal Reserve will leave rates unchanged this month following a weaker-than-expected labor market report. Platinum’s fundamentals also remain mixed, with WPIC forecasting industrial demand to rise 5% in 2026, partly driven by AI infrastructure, while automotive demand is expected to fall 4%, leaving a projected 265,000-ounce surplus. Over the longer term, the rapid build-out of AI infrastructure is expected to support demand."
+    },
     {
       "id": "mkt:01a1142f-3bdd-7ee0-a7c8-750dabbb171d",
       "time": "2026-10-07 10:26:42",
@@ -86834,50 +86858,6 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "5119887",
-      "time": "2026-09-30 10:29:15",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【2026金融街論壇年會將於10月19日在京開幕】經國務院批覆，由北京市人民政府與中國人民銀行、國家金融監督管理總局、中國證券監督管理委員會、新華通訊社、國家外匯管理局共同主辦的2026金融街論壇年會定於10月19日至22日在北京金融街舉辦。"
-    },
-    {
-      "id": "mkt:01a0f024-78bb-7338-ab22-d3985a0d8f2a",
-      "time": "2026-09-30 10:28:36",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "STAR 50 Index fell more than 2%; Xinyuan Co. slid 9.6%, the largest decline among constituents."
-    },
-    {
-      "id": "5119886",
-      "time": "2026-09-30 10:28:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2％，成分股中，芯原股份跌9.58％，盛科通訊跌4.86％，瀾起科技跌4.67％，摩爾執行緒跌4.48％。"
-    },
-    {
-      "id": "5119885",
-      "time": "2026-09-30 10:27:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【衛寧健康投資成立智通科技公司】企查查APP顯示，近日，北京衛寧智通科技有限公司成立，經營範圍包含：軟體開發；資訊系統整合服務；資訊科技諮詢服務；資訊系統執行維護服務等。企查查股權穿透顯示，該公司由衛寧健康(300253)全資持股。"
-    },
-    {
-      "id": "5119884",
-      "time": "2026-09-30 10:27:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【問界新M8開啟預售】9月30日，問界汽車宣佈，問界新M8開啟預售，預售價格38.98萬元起。"
     }
   ]
 }
