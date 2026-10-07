@@ -1,7 +1,79 @@
 {
   "date": "2026-10-07",
-  "count": 1175,
+  "count": 1182,
   "items": [
+    {
+      "id": "5129990",
+      "time": "2026-10-07 18:00:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM攜手SAP助力企業實現運營現代化並提升人工智慧就緒水平。"
+    },
+    {
+      "id": "5129989",
+      "time": "2026-10-07 18:00:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM宣佈推出面向SAP解決方案的IBM Ready。"
+    },
+    {
+      "id": "mkt:01a115ce-08a8-7ee0-a7d3-3ba47418a941",
+      "time": "2026-10-07 17:59:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Rubio: Iran has completely lost control of the Strait of Hormuz】US Secretary of State Rubio said Iran has completely lost control of the Strait of Hormuz, that the waterway is open and oil volumes transiting it are roughly unchanged from before the conflict. He said Iran's economy is in \"free fall\" under \"deadly sanctions\" and reiterated that Iran must not possess nuclear weapons."
+    },
+    {
+      "id": "mkt:01a115cd-3f66-7ee0-a7d3-332b444f8fd0",
+      "time": "2026-10-07 17:58:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Chip Wars",
+        "BESI.AS",
+        "Impact bearish",
+        "STM.PA",
+        "SOI.PA"
+      ],
+      "text": "European semiconductor shares widened losses, with BE Semiconductor (Besi), STMicroelectronics and France’s Soitec down about 3.2%–9.6%."
+    },
+    {
+      "id": "5129987",
+      "time": "2026-10-07 17:58:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【近岸蛋白：賦能AI的高通量溼實驗與資料包服務尚處於市場拓展初期】近岸蛋白(688137.SH)釋出股票交易嚴重異常波動暨風險提示公告，公司2025年RNA疫苗藥物相關產品收入佔產品總收入的11.38%，佔比較低。公司賦能AI的高通量溼實驗與資料包服務尚處於市場拓展初期，截至2026年上半年相關業務營收佔公司整體營業收入比重不足2%。鑑於AI在藥物研發行業的應用尚處於起步階段，存在技術迭代較快、行業驗證週期長、商業化落地難度較大等風險，公司未來相關收入及盈利兌現存在重大不確定性"
+    },
+    {
+      "id": "mkt:01a115cb-a599-7ee0-a7d3-2810e82fc3a7",
+      "time": "2026-10-07 17:57:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell over 2% intraday to $60.10/oz."
+    },
+    {
+      "id": "5129986",
+      "time": "2026-10-07 17:56:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報60.09美元/盎司。"
+    },
     {
       "id": "5129985",
       "time": "2026-10-07 17:56:42",
