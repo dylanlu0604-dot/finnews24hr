@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-08 00:44:01",
-  "count": 9017,
+  "updated": "2026-10-08 00:47:50",
+  "count": 9013,
   "items": [
+    {
+      "id": "mkt:01a11743-37b5-7ee0-a7dd-7debe9665d6e",
+      "time": "2026-10-08 00:47:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Hormuz shipping disruption lifts VLCC freight to $77 mln】Shipping disruption in the Strait of Hormuz has sharply raised global tanker supply-chain costs. Baltic Exchange data show VLCC charter rates to carry U.S. crude to Asia have climbed to $77 mln, versus a 2025 average of $9.2 mln. On a 2.0m bbl cargo this implies roughly $38.5/bbl in transport cost; hostilities involving Iran have altered Middle East export routes and shipping modes — flows have partly resumed but longer voyages and a reduced effective fleet are keeping freight elevated."
+    },
+    {
+      "id": "5130560",
+      "time": "2026-10-08 00:47:01",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "法國資訊電臺報道：法國將從儲備中投放 1000 萬桶柴油。"
+    },
+    {
+      "id": "5130559",
+      "time": "2026-10-08 00:45:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【諾沃格拉茨稱AI處於泡沫之中，投資者仍應湧入】億萬富翁邁克爾·諾沃格拉茨（Michael Novogratz）表示，人工智慧正處於“我們一生中最大的泡沫”，但投資者仍應積極參與。“泡沫不會像我們今天所處的狀態那樣結束，”他10月6日在美國康涅狄格州格林威治舉行的格林威治經濟論壇小組討論中表示，“我知道泡沫如何收場，它們總是以壯觀的方式破裂，而眼下還不夠壯觀。”作為加密貨幣集團Galaxy Digital的創始人兼執行長，諾沃格拉茨認為，從市盈率來看，人工智慧相關股票仍顯得便宜。如果你沒有投資人工智慧，那你還不如回家把頭埋進一桶冰裡。”"
+    },
+    {
+      "id": "mkt:01a11740-81ce-7ee0-a7dd-7575db4a4319",
+      "time": "2026-10-08 00:44:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "FTSE Russell places Oman on a 'potential reclassification' watchlist; Oman may be reclassified to a Secondary Emerging Market in the future."
+    },
     {
       "id": "5130558",
       "time": "2026-10-08 00:41:48",
@@ -82969,83 +83009,6 @@
         "國際"
       ],
       "text": "與特朗普之子有關聯的無人機初創企業計劃將烏克蘭的（無人機）技術引入美國。"
-    },
-    {
-      "id": "5121542",
-      "time": "2026-10-01 00:47:44",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美方延長塞爾維亞石油公司運營許可至10月30日】當地時間9月30日，美國財政部外國資產控制辦公室向塞爾維亞石油公司頒發特別許可，相關許可期限延長至10月30日。新許可將允許塞石油公司及旗下該國唯一活躍的煉油廠——潘切沃煉油廠繼續運營。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0f336-3903-7338-ab37-978dc9e16528",
-      "time": "2026-10-01 00:46:51",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Goldman Sachs moves its forecast for the Fed's next rate hike from October to December."
-    },
-    {
-      "id": "mkt:01a0f335-d2f5-7338-ab37-8e8f0938d73a",
-      "time": "2026-10-01 00:46:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's prime minister Netanyahu met an Israeli passenger on a FlyDubai flight."
-    },
-    {
-      "id": "5121541",
-      "time": "2026-10-01 00:46:03",
-      "tags": [
-        "觀點",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "高盛將美聯儲加息預期從10月上調至12月。"
-    },
-    {
-      "id": "5121540",
-      "time": "2026-10-01 00:45:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡會見了迪拜航空航班上的以色列乘客。"
-    },
-    {
-      "id": "em:qqyh_mlc:202610013887970924",
-      "time": "2026-10-01 00:45:38",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【高盛將美聯儲加息預期從10月推遲至12月】高盛集團表示，週三美國公佈的通脹資料再加上紐約聯儲行長約翰·威廉姆斯昨日的講話令其現在認為美聯儲10月已不太可能加息。經濟學家JanHatzius、DavidMericle和AlecPhillips等人在一份研報中稱，根據最新的通脹報告預計第四季核心PCE同比增速在3.0%，明顯低於FOMC參與者3.4%的預測中值。該行因此將第二次加息預期推遲至12月，同時認為FOMC最終認定沒有必要進一步加息的可能性很高。"
-    },
-    {
-      "id": "5121539",
-      "time": "2026-10-01 00:44:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "伊朗議會議長卡利巴夫發文分析美國國會的壓力軌跡：\nΩ(t) = 債務負擔 / 市場承載力 + 伊朗施加的槓桿\n債務負擔↑ = (債務到期牆↑ + 債務不斷攀升↑) × 收益率↑ + 收益率上升速度↑\n市場承載力↓ = 美聯儲操作空間↓ × (美聯儲縮表↓ + 經濟增長? + 外國買家↓ + 交易商承載力↓)\n伊朗槓桿↑ = 能源價格↑ + 債券收益率↑ + 對美聯儲施壓↑\nΩ(當前) < Ω(11月) < Ω(2027年)"
-    },
-    {
-      "id": "mkt:01a0f333-a637-7338-ab37-87499c838d30",
-      "time": "2026-10-01 00:44:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The Houthi movement said that in the past 24 hours Saudi F-15s operating from Khamis Mushait air base carried out 51 air and missile strikes, while missiles launched from Najran and Jizan targeted civilian communications networks and infrastructure in Marib, Saada, Hodeidah, Taiz and Amran provinces. The group said total Saudi air and missile attacks since the conflict escalated have reached 1,209."
     }
   ]
 }
