@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08 00:28:26",
-  "count": 9022,
+  "updated": "2026-10-08 00:32:22",
+  "count": 9019,
   "items": [
     {
       "id": "5130552",
@@ -83065,36 +83065,6 @@
         "市場"
       ],
       "text": "United Therapeutics（聯合治療公司）股價上漲12.2%，此前該公司贏得了針對Liquidia的法院裁決。"
-    },
-    {
-      "id": "te:markets:588349",
-      "time": "2026-10-01 00:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Corn Hits 5-week Low — Corn decreased to 502.75 USd/BU, the lowest since August 2026. Over the past 4 weeks, Corn lost 2.23%, and in the last 12 months, it increased 20.9%."
-    },
-    {
-      "id": "5121530",
-      "time": "2026-10-01 00:30:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：打擊腐敗至關重要。"
-    },
-    {
-      "id": "mkt:01a0f325-b5f1-7338-ab37-595ded340089",
-      "time": "2026-10-01 00:28:49",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Saudi finance ministry projects real GDP growth of 12.8% in 2027."
     }
   ]
 }
