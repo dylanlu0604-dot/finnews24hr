@@ -1,7 +1,77 @@
 {
-  "updated": "2026-10-07 11:12:42",
-  "count": 9395,
+  "updated": "2026-10-07 11:16:27",
+  "count": 9398,
   "items": [
+    {
+      "id": "5129393",
+      "time": "2026-10-07 11:14:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【AMD執行長蘇姿豐將與三星半導體負責人會面 應對記憶體短缺】AMD執行長蘇姿豐計劃於週三與三星電子半導體業務負責人、副會長全永鉉會面。這是AI產業兩位關鍵人物的最新面對面交流。知情人士透露，蘇姿豐此次訪問韓國期間將舉行會談，但未披露具體細節。三星與AMD均拒絕置評。此次會面正值全球電子產業面臨廣泛記憶體產品短缺之際，該問題正制約AI基礎設施與服務擴張。記憶體價格持續飆升，已成為資料中心運營商的主要成本之一。今年3月，AMD與三星已就下一代高頻寬記憶體（HBM）及先進儲存晶片達成供應協議。"
+    },
+    {
+      "id": "mkt:01a1145b-06eb-7ee0-a7c9-0969e9e73fa7",
+      "time": "2026-10-07 11:14:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Korean retail investors lose KRW2.3 trillion (~$1.7bn) on leveraged ETFs tied to Samsung, SK Hynix】The office of opposition lawmaker Choi Eun-sik said retail clients of ten Korean brokers suffered estimated losses of KRW2.3 trillion ($1.7bn) between May 27 and Aug. 14 after buying leveraged ETFs and related notes linked to single shares of Samsung Electronics and SK Hynix — the first public estimate of the scale. Launched in May, those single-stock leveraged products amplified AI-driven volatility in the Korean equity market, reversing earlier gains and producing heavy losses. The spike in volatility prompted Korean regulators to step in to curb retail trading, and turnover in the affected products has since fallen sharply."
+    },
+    {
+      "id": "mkt:01a1145a-8937-7ee0-a7c9-04951a4c8898",
+      "time": "2026-10-07 11:13:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fliggy: Authentic tourism surges ahead of 2026 National Day as influencer 'check‑in' trend cools】Fliggy said its 2026 National Day travel report shows a shift toward authentic, nature- and village-focused travel. Bookings for natural scenic and village products on the platform rose more than 40% YoY. Smaller cities leading demand include Kashgar, Baise, Haixi, Xuancheng and Wuwei. Within the segment, bookings for ancient village tours jumped over 90% YoY, while bookings for workshop-based intangible cultural heritage experiences and visits doubled YoY."
+    },
+    {
+      "id": "mkt:01a11459-e14a-7ee0-a7c8-fcff94628174",
+      "time": "2026-10-07 11:13:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver down 1.00% intraday at $60.72/oz."
+    },
+    {
+      "id": "5129392",
+      "time": "2026-10-07 11:13:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "AMD執行長蘇姿豐將於週三在韓國會見三星晶片業務負責人。"
+    },
+    {
+      "id": "mkt:01a11459-aa0a-7ee0-a7c8-f67693c62256",
+      "time": "2026-10-07 11:13:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped below $4,140/oz, down 0.57% on the day."
+    },
+    {
+      "id": "5129391",
+      "time": "2026-10-07 11:12:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報60.71美元/盎司。"
+    },
     {
       "id": "te:markets:590017",
       "time": "2026-10-07 11:12:12",
@@ -86509,44 +86579,6 @@
         "市場"
       ],
       "text": "【深交所：“元道退”盤中臨停】深交所公告，“元道退”盤中成交價較開盤價首次上漲達到或超過30%，根據《深圳證券交易所交易規則》等有關規定，本所自今日11時13分41秒起對該證券實施臨時停牌，於11時23分42秒復牌。"
-    },
-    {
-      "id": "5119950",
-      "time": "2026-09-30 11:14:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以防長威脅打擊哈馬斯海外領導人】以色列國防部長卡茨9月29日說，身處海外的巴勒斯坦伊斯蘭抵抗運動（哈馬斯）領導人也在以色列打擊之列，以方將追擊2023年10月7日襲擊以色列的所有參與者。(央視新聞)"
-    },
-    {
-      "id": "5119949",
-      "time": "2026-09-30 11:13:49",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "原創"
-      ],
-      "text": "【瑞銀上調鐵礦石價格預期，理由是市場結構性轉變】瑞銀集團將長期鐵礦石價格預期從每噸 85 美元上調至 93 美元，理由是“未來十年將受到三大結構性因素的影響”，包括全球鋼鐵需求上升、成本曲線支撐力度加大以及供應比預期更為緊張。"
-    },
-    {
-      "id": "5119948",
-      "time": "2026-09-30 11:13:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【國債期貨走弱 30年期主力合約跌0.5%】國債期貨走弱，30年期主力合約盤中跌0.50%，現報116.920元。10年期跌0.19%，現報109.415元。5年期跌0.11%，現報106.47元。2年期跌0.04%，現報102.568元。"
-    },
-    {
-      "id": "mkt:01a0f04d-021f-7338-ab23-9d487281c226",
-      "time": "2026-09-30 11:12:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China 30-year government bond futures (TL) most-active contract fell more than 0.50% intraday to 116.93 yuan."
     }
   ]
 }
