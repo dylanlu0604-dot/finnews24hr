@@ -1,7 +1,43 @@
 {
   "date": "2026-10-08",
-  "count": 297,
+  "count": 301,
   "items": [
+    {
+      "id": "mkt:01a11857-3204-7ee0-a7e2-28a48f29600f",
+      "time": "2026-10-08 05:48:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SK Hynix unit Solidigm selects Goldman Sachs, Morgan Stanley to lead planned U.S. IPO】Solidigm, SK Hynix’s flash-memory unit, has selected Goldman Sachs and Morgan Stanley to lead a planned U.S. IPO, sources said. JPMorgan, Citi and UBS were invited to participate. The deal could come as early as 2027 with talks valuing the unit as high as $100bn; arrangements are ongoing and may change, and additional banks could join."
+    },
+    {
+      "id": "5130734",
+      "time": "2026-10-08 05:48:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【博通計劃為OpenAI定製晶片專案融資逾500億美元】博通正在為其與OpenAI合作開發定製人工智慧(AI)晶片專案安排超過500億美元的融資。阿波羅全球管理和黑石集團是洽談參與這筆融資的貸款機構之一。與此同時，甲骨文也在與阿波羅和高盛商談，為購買晶片籌措資金。隨著資料中心建設成本飆升，各家科技公司競相尋求融資。為了支援日益增多的AI軟體和服務，科技巨頭大舉建設AI基礎設施，也促使它們尋求新的融資方式。"
+    },
+    {
+      "id": "5130733",
+      "time": "2026-10-08 05:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯總統藤森慶子：秘魯將迅速驅逐違法外國人。"
+    },
+    {
+      "id": "te:markets:590287",
+      "time": "2026-10-08 05:45:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is down by 5.15% — Palladium decreased 5.15% to 1114 USD/t.oz"
+    },
     {
       "id": "5130732",
       "time": "2026-10-08 05:44:23",

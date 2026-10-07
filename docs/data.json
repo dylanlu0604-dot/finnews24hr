@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-08 05:45:32",
-  "count": 8930,
+  "updated": "2026-10-08 05:49:19",
+  "count": 8932,
   "items": [
+    {
+      "id": "mkt:01a11857-3204-7ee0-a7e2-28a48f29600f",
+      "time": "2026-10-08 05:48:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SK Hynix unit Solidigm selects Goldman Sachs, Morgan Stanley to lead planned U.S. IPO】Solidigm, SK Hynix’s flash-memory unit, has selected Goldman Sachs and Morgan Stanley to lead a planned U.S. IPO, sources said. JPMorgan, Citi and UBS were invited to participate. The deal could come as early as 2027 with talks valuing the unit as high as $100bn; arrangements are ongoing and may change, and additional banks could join."
+    },
+    {
+      "id": "5130734",
+      "time": "2026-10-08 05:48:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【博通計劃為OpenAI定製晶片專案融資逾500億美元】博通正在為其與OpenAI合作開發定製人工智慧(AI)晶片專案安排超過500億美元的融資。阿波羅全球管理和黑石集團是洽談參與這筆融資的貸款機構之一。與此同時，甲骨文也在與阿波羅和高盛商談，為購買晶片籌措資金。隨著資料中心建設成本飆升，各家科技公司競相尋求融資。為了支援日益增多的AI軟體和服務，科技巨頭大舉建設AI基礎設施，也促使它們尋求新的融資方式。"
+    },
+    {
+      "id": "5130733",
+      "time": "2026-10-08 05:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯總統藤森慶子：秘魯將迅速驅逐違法外國人。"
+    },
+    {
+      "id": "te:markets:590287",
+      "time": "2026-10-08 05:45:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is down by 5.15% — Palladium decreased 5.15% to 1114 USD/t.oz"
+    },
     {
       "id": "5130732",
       "time": "2026-10-08 05:44:23",
@@ -82247,25 +82283,6 @@
         "焦點"
       ],
       "text": "紐約期銀突破61美元/盎司，日內漲0.25%。"
-    },
-    {
-      "id": "5121747",
-      "time": "2026-10-01 05:48:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【報道：淡水河谷考慮首次發行熊貓債，融資不超過35億元人民幣】據知情人士透露，巴西鐵礦石巨頭淡水河谷考慮首次在中國境內市場發債，融資不超過35億元人民幣，加入越來越多尋求分散融資來源並降低融資成本的發行人行列。該公司計劃在10月19日當週為發行“熊貓債”舉行路演，並爭取最快11月開始發行推介。債券期限可能為3年、5年或10年，最終期限將根據投資者反饋確定。這批熊貓債將由淡水河谷旗下Vale Overseas Limited發行，並由母公司提供擔保。"
-    },
-    {
-      "id": "5121746",
-      "time": "2026-10-01 05:47:13",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【派拉蒙天舞發行投資級債券籌資300億美元 用於收購華納兄弟探索】派拉蒙天舞出售了300億美元的美元投資級債券，完成了收購華納兄弟探索融資中規模最大的一部分。據一位知情人士透露，這家美國媒體巨頭此次發行的八部分債券最終定價利差均低於最初討論的水平。期限最長、2066年到期的債券相對美國國債的收益率溢價收窄約0.35個百分點，至較基準高3.3個百分點。其中一位知情人士透露，該公司還在發行三部分合計114億美元的美元垃圾債券，其中規模最大的是60億美元的五年期債券，此外還發行8.85億歐元(10億美元)的五年期歐元債券。"
     }
   ]
 }
