@@ -1,7 +1,48 @@
 {
   "date": "2026-10-07",
-  "count": 667,
+  "count": 671,
   "items": [
+    {
+      "id": "mkt:01a11454-7bcd-7ee0-a7c8-ebd12bc029be",
+      "time": "2026-10-07 11:07:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi forces say they attacked Riyadh's King Khalid airport and other Saudi targets】Refinitiv, July 7 — Houthi forces said they used drones to strike Riyadh's King Khalid International Airport and Abha Airport, and used ballistic missiles and drones against the air base at Khamis Mushayt. Saudi authorities had not yet confirmed the claims."
+    },
+    {
+      "id": "5129388",
+      "time": "2026-10-07 11:06:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4140美元/盎司，日內跌0.57%。"
+    },
+    {
+      "id": "te:markets:590015",
+      "time": "2026-10-07 11:06:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Equities Fall After Recent Gains — Indonesia’s IDX Composite slipped 30 points, or 0.5%, to 6,165 in Wednesday morning deals, snapping a three-day advance as losses hit infrastructure, property, and transport. Sentiment weakened after U.S. stock futures turned lower, retreating from fresh Wall Street highs overnight, ahead of the Fed's latest meeting minutes and policy remarks from officials. Locally, caution grew with September forex data due today, followed by consumer sentiment and August retail sales later this week. Meanwhile, the World Bank warned Indonesia is trailing Malaysia and Vietnam in capturing the global AI investment boom, though it noted resilience in household consumption and government spending. Regionally, markets in main trading partner China will reopen Thursday after the Golden Week break. Major laggards included Solusi Sinergi Digital (-2.8%), United Tractor (-2.5%), Surya Citra Media (-1.7%), and Bumi Resources (-1.1%)."
+    },
+    {
+      "id": "5129387",
+      "time": "2026-10-07 11:06:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱襲擊沙特哈立德國王國際機場等多處目標】據路透社7日訊息，葉門胡塞武裝稱，使用無人機襲擊了沙特首都利雅得的哈立德國王國際機場及艾卜哈機場，此外還用彈道導彈和無人機襲擊了海米斯穆謝特的空軍基地。沙特方面目前尚未予以證實。（央視新聞）"
+    },
     {
       "id": "mkt:01a11451-46e3-7ee0-a7c8-e2426bbae8ea",
       "time": "2026-10-07 11:03:53",

@@ -1,7 +1,48 @@
 {
-  "updated": "2026-10-07 11:05:06",
-  "count": 9402,
+  "updated": "2026-10-07 11:08:53",
+  "count": 9398,
   "items": [
+    {
+      "id": "mkt:01a11454-7bcd-7ee0-a7c8-ebd12bc029be",
+      "time": "2026-10-07 11:07:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi forces say they attacked Riyadh's King Khalid airport and other Saudi targets】Refinitiv, July 7 — Houthi forces said they used drones to strike Riyadh's King Khalid International Airport and Abha Airport, and used ballistic missiles and drones against the air base at Khamis Mushayt. Saudi authorities had not yet confirmed the claims."
+    },
+    {
+      "id": "5129388",
+      "time": "2026-10-07 11:06:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4140美元/盎司，日內跌0.57%。"
+    },
+    {
+      "id": "5129387",
+      "time": "2026-10-07 11:06:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱襲擊沙特哈立德國王國際機場等多處目標】據路透社7日訊息，葉門胡塞武裝稱，使用無人機襲擊了沙特首都利雅得的哈立德國王國際機場及艾卜哈機場，此外還用彈道導彈和無人機襲擊了海米斯穆謝特的空軍基地。沙特方面目前尚未予以證實。（央視新聞）"
+    },
+    {
+      "id": "te:markets:590015",
+      "time": "2026-10-07 11:06:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Equities Fall After Recent Gains — Indonesia’s IDX Composite slipped 30 points, or 0.5%, to 6,165 in Wednesday morning deals, snapping a three-day advance as losses hit infrastructure, property, and transport. Sentiment weakened after U.S. stock futures turned lower, retreating from fresh Wall Street highs overnight, ahead of the Fed's latest meeting minutes and policy remarks from officials. Locally, caution grew with September forex data due today, followed by consumer sentiment and August retail sales later this week. Meanwhile, the World Bank warned Indonesia is trailing Malaysia and Vietnam in capturing the global AI investment boom, though it noted resilience in household consumption and government spending. Regionally, markets in main trading partner China will reopen Thursday after the Golden Week break. Major laggards included Solusi Sinergi Digital (-2.8%), United Tractor (-2.5%), Surya Citra Media (-1.7%), and Bumi Resources (-1.1%)."
+    },
     {
       "id": "mkt:01a11451-46e3-7ee0-a7c8-e2426bbae8ea",
       "time": "2026-10-07 11:03:53",
@@ -86535,78 +86576,6 @@
         "國際"
       ],
       "text": "【FF：機器人工廠目標年底前投入運營】9月30日，法拉第未來表示，正加快推進Next Futurist、Next Aegis、供應鏈、合規及美國本土製造，啟動向FCC申請機器人產品有條件批准；機器人工廠目標今年底前投入運營，首款新EAI本體產品目標於2027年Q1下線。"
-    },
-    {
-      "id": "mkt:01a0f047-f969-7338-ab23-87e8f4e3dd93",
-      "time": "2026-09-30 11:07:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "000002.SZ",
-        "Impact bullish",
-        "02202.HK",
-        "Impact bearish"
-      ],
-      "text": "Vanke A-share turned positive after being locked at the morning session's daily down-limit; A-share turnover exceeded 3.2 bln yuan. Vanke Enterprise (02202.HK) H-share loss narrowed to 1.4% after an intra-session drop of over 11%."
-    },
-    {
-      "id": "5119943",
-      "time": "2026-09-30 11:07:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "萬科AH股反彈，萬科A翻紅，早盤一度封住跌停板，成交額超32億元；萬科企業(02202.HK)跌幅收窄至1.4%，此前一度跌超11%。"
-    },
-    {
-      "id": "mkt:01a0f047-ac7e-7338-ab23-7cd33e82a05e",
-      "time": "2026-09-30 11:07:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【MOFCOM: Prepare 2027 automobile and motorcycle export license applications】The MOFCOM general office issued a notice on 2027 automobile and motorcycle export license applications. This year applications will be processed online. Manufacturers should log in to MOFCOM’s unified business management platform (enterprise portal), complete the Automobile and Motorcycle Export License Application form, upload supporting documents, and submit to their local commerce authority for review. The 2027 online application system opens on 30 September 2026."
-    },
-    {
-      "id": "mkt:01a0f047-8a1c-7338-ab23-76c5eb2c688b",
-      "time": "2026-09-30 11:06:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【EVE Energy's first 200MW/400MWh grid-side shared storage plant connects to grid】Sept 29 — Huizhou Risheng 200MW/400MWh grid-side independent shared energy storage plant was connected to the grid. The facility is EVE Energy’s first grid-connected grid-side shared storage project; connected at 220 kV with 200MW/400MWh capacity, it houses over 450,000 of the company’s self-developed storage cells and has expected annual charge–discharge throughput exceeding 100 million kWh (~100 GWh)."
-    },
-    {
-      "id": "em:qqyh_mlc:202609303887492660",
-      "time": "2026-09-30 11:06:46",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲古爾斯比：AI炒作過度或加劇通脹 忽視供給衝擊無異於“玩火”！】芝加哥聯儲主席奧斯坦·古爾斯比（AustanGoolsbee）週二表示，人們預期人工智慧（AI）將推動生產力大幅增長，但這可能會導致經濟增長過快。這種增長方式有可能加劇通脹，而通脹率已經連續五年多高於美聯儲2%的目標。"
-    },
-    {
-      "id": "5119942",
-      "time": "2026-09-30 11:05:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家能源局：2026年8月，國家能源局核發綠證3.54億個，環比增長15.75%，涉及可再生能源發電專案370.96萬個，其中可交易綠證2.12億個，佔比60.04%。本期核發2026年7月可再生能源電量對應綠證3.23億個，佔比91.41%。"
-    },
-    {
-      "id": "mkt:01a0f046-08df-7338-ab23-6be9d42e3e6d",
-      "time": "2026-09-30 11:05:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Film A Letter to Grandma ends run with 2.005 bln yuan box office】According to Maoyan Pro, A Letter to Grandma ended its theatrical run on Sept. 30 with a cumulative box office of 2.005 bln yuan and total admissions of 58.819 million."
-    },
-    {
-      "id": "5119941",
-      "time": "2026-09-30 11:05:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：蘋果2026年iPhone Duo銷量預計達600萬部】市場研究機構Counterpoint Research表示，蘋果今年預計將售出約600萬部iPhone Duo，這是外界首次對蘋果首款摺疊屏裝置市場表現作出的預測。Counterpoint高階分析師Ivan Lam表示，這一銷量規模更接近當前小眾摺疊屏手機市場的典型水平，而非蘋果通常智慧手機產品的銷量表現。最終銷量將取決於蘋果提升新硬體產能的速度。作為蘋果產品線中的旗艦機型，該款機型承載著整個行業對摺疊屏手機的期待，希望能夠激發人們對摺疊屏手機的更大興趣並促進其銷量增長。市場研究機構IDC預計，在蘋果iPhone Duo的推動下，摺疊屏手機今年出貨量將增長13%，達到2290萬部。如果沒有iPhone Duo的加入，IDC稱該細分市場今年可能出現下滑。"
     }
   ]
 }
