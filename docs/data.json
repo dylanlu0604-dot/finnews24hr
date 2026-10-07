@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-07 07:56:32",
-  "count": 9603,
+  "updated": "2026-10-07 08:00:22",
+  "count": 9599,
   "items": [
+    {
+      "id": "5129253",
+      "time": "2026-10-07 07:59:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國正準備向俄羅斯正式索取有關鼠疫死亡事件的資訊】據美國官員透露，特朗普政府正準備向俄羅斯傳送一份正式的外交照會，要求提供更多關於西伯利亞一處肺鼠疫研究設施相關死亡事件的細節，以及隨後實施的多項隔離措施的資訊。這一擬議中的請求，正值美國對俄羅斯缺乏詳細資訊日益感到不滿之際。此前，俄羅斯公共衛生機構報告稱，伊爾庫茨克地區一家專門研究鼠疫的研究所的一名實驗室員工在被診斷出患有“不明”原因肺炎後死亡。官員們表示，美國的正式資訊——在外交術語中被稱為“外交照會（démarche）”——旨在提醒俄羅斯，根據國際法，它有義務及時與其他政府分享疾病暴發的資訊。這些官員因討論敏感的外交事務而要求匿名。"
+    },
+    {
+      "id": "te:economy:589973",
+      "time": "2026-10-07 07:56:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "Japan Forex Reserves Fall Further in September — Japan’s official reserve assets fell by USD 29.1 billion, or 2.4%, to USD 1.178 trillion at the end of September 2026 from USD 1.208 trillion a month earlier, extending the decline following August’s record drop. The decrease was led by foreign currency reserves, which fell to USD 976.9 billion from USD 995.0 billion, with securities declining to USD 821.7 billion from USD 839.6 billion. Deposits with foreign central banks and the Bank for International Settlements edged down to USD 154.8 billion from USD 155.0 billion. Gold reserves also fell to USD 113.6 billion from USD 124.1 billion, while SDR holdings declined to USD 60.8 billion and the IMF reserve position to USD 11.3 billion. Other reserve assets stood at USD 15.8 billion. The latest decline follows the record USD 79.6 billion drop in August after Japan’s ¥15.4 trillion yen-buying intervention to support the currency."
+    },
     {
       "id": "5129252",
       "time": "2026-10-07 07:55:20",
@@ -88397,61 +88417,6 @@
         "市場"
       ],
       "text": "【日韓股市開盤】日經225指數上午開盤報66128.59點，漲幅0.99％。韓國綜合股價指數（KOSPI）開盤上漲1.1％，至6943.47點。"
-    },
-    {
-      "id": "5119648",
-      "time": "2026-09-30 07:59:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星重工贏得百慕大兩艘超大型液化氣船訂單，價值3074億韓元。"
-    },
-    {
-      "id": "5119647",
-      "time": "2026-09-30 07:58:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【北京 “金九” 樓市一線走訪：新房成交顯著回暖 二手房帶看、諮詢升溫】9月29日，記者對北京樓市進行實地走訪。記者瞭解到，“金九”期間，北京二手房帶看、諮詢量增加，但成交尚未達到1.5萬套“榮枯線”。目前，北京二手房掛牌量為14.1萬套左右，整體位於相對低位，受價格影響，很多優質房源業主出現“惜售”。 相比之下，新房熱度有所提升。9月1日至27日，新房住宅網籤量達到3876套，環比上漲59.9%。 業內人士表示，“金九銀十”剩餘階段，新房熱度將持續延續，核心改善盤、剛需優質盤成交會保持穩定，但遠郊剛需盤仍需以價換量。二手房市場料難有爆發式行情，整體以平穩築底為主。（中國證券報）"
-    },
-    {
-      "id": "mkt:01a0ef9a-e2f4-7338-ab1f-4b574110393d",
-      "time": "2026-09-30 07:58:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Jet fuel spike pushes U.S. airfares to 10-year high】On the 29th, a recent surge in U.S. jet fuel prices pushed domestic airfares during the late-November holiday period about 31% higher YoY, the largest increase in ten years. If jet fuel stays elevated, airfares are expected to rise further."
-    },
-    {
-      "id": "5119646",
-      "time": "2026-09-30 07:57:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【燃料漲價推高美國機票價格 創十年新高】當地時間29日，受油價高企影響，美國航空燃料價格近期暴漲，推高美國機票價格，今年11月末傳統假日期間美國境內航班機票價格較去年同期上漲約31%，達到十年來最高點。據悉，如果航空燃料價格持續高企，預計美國的機票價格還將繼續上漲。"
-    },
-    {
-      "id": "5119645",
-      "time": "2026-09-30 07:57:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "恆安國際在港交所公告：本集團之創辦人之一、本公司之主席兼執行董事及本公司提名委員會成員施文博先生，於二零二六年九月二十九日與世長辭。董事會認為，施先生的辭世不會對本集團的營運造成任何影響，並且董事會將繼續努力加強和發展本集團。董事會對施先生的辭世表示最深切的哀悼，並向其家人致以最深切的慰問。"
-    },
-    {
-      "id": "te:markets:587867",
-      "time": "2026-09-30 07:56:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "US Futures Edge Higher After Weak Session — US stock futures edged higher on Wednesday after the major averages came under pressure in the previous session, pressured by rising Treasury yields. Futures tied to the Dow, S&P 500 and Nasdaq 100 were each up around 0.2%. During regular trading on Tuesday, the Dow slipped 0.26%, while the S&P 500 and Nasdaq Composite fell 0.17% and 0.09%, respectively. Seven of the 11 S&P sectors finished lower, with energy, materials and consumer staples leading the declines. The moves came as the 30-year Treasury yield climbed as high as 5.62%, reaching levels not seen since June 2002, while the 10-year yield rose to fresh 2007 highs near 5.3%. Investors now await Wednesday’s PCE price index report, the Federal Reserve’s preferred measure of inflation. For the month, the Dow is down roughly 3.5%, while the S&P 500 is little changed and the Nasdaq Composite has gained 1.6%."
     }
   ]
 }
