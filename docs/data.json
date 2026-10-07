@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-08 06:12:31",
-  "count": 8931,
+  "updated": "2026-10-08 06:16:16",
+  "count": 8934,
   "items": [
+    {
+      "id": "te:markets:590289",
+      "time": "2026-10-08 06:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Depreciates by 0.80% — Top currency losers are Brazilian Real (-0.80%), Indian Rupee (-0.66%), Polish Zloty (-0.64%), Euro (-0.52%) and British Pound (-0.46%). Gains are led by Dollar Index (0.40%) and Japanese Yen (0.06%)."
+    },
+    {
+      "id": "mkt:01a1186e-f2bd-7ee0-a7e2-5e8e970df5a0",
+      "time": "2026-10-08 06:14:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jeff Bezos said Blue Origin has for the first time raised $10 billion from external investors, Fox News reported."
+    },
+    {
+      "id": "mkt:01a1186d-deb4-7ee0-a7e2-535f6d5c2cad",
+      "time": "2026-10-08 06:13:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported Jeff Bezos said Blue Origin will go public in the future."
+    },
+    {
+      "id": "5130749",
+      "time": "2026-10-08 06:13:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【昨日全社會跨區域人員流動量超2.9億人次】記者從交通運輸部瞭解到，國慶假期最後一天，全社會跨區域人員流動量超2.9億人次。其中鐵路客運量預計2415萬人次，公路人員流動量預計超2.6億人次，水路客運量預計98萬人次，民航客運量預計251萬人次。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1186d-74bd-7ee0-a7e2-487279f2a6c2",
+      "time": "2026-10-08 06:13:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jeff Bezos said he has invested $28 bln of his own funds in Blue Origin, according to Fox News."
+    },
+    {
+      "id": "5130748",
+      "time": "2026-10-08 06:13:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯黎部隊在黎以臨時邊界附近陣地遭襲】聯合國駐黎巴嫩臨時部隊（聯黎部隊）7日發表宣告說，位於黎巴嫩和以色列臨時邊界“藍線”附近舒巴村的一處陣地當天上午遭數輪輕武器射擊，事件未造成人員傷亡。（新華社）"
+    },
     {
       "id": "5130747",
       "time": "2026-10-08 06:11:53",
@@ -82252,35 +82304,6 @@
         "國際"
       ],
       "text": "波音：日本航空續簽波音綜合物料管理服務協議。"
-    },
-    {
-      "id": "5121767",
-      "time": "2026-10-01 06:15:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：持續的供給衝擊存在推高通脹預期的風險。"
-    },
-    {
-      "id": "te:markets:588376",
-      "time": "2026-10-01 06:15:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Australian Dollar Depreciates by 0.56% — Top currency losers are Australian Dollar (-0.56%), South Korean Won (-0.35%), Canadian Dollar (-0.30%), Euro (-0.09%) and Japanese Yen (-0.06%). Gains are led by Brazilian Real (0.35%), British Pound (0.25%) and Dollar Index (0.08%)."
-    },
-    {
-      "id": "5121766",
-      "time": "2026-10-01 06:14:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡利：鑑於通脹長時間高於目標，美聯儲必須將通脹回落至 2%。"
     }
   ]
 }
