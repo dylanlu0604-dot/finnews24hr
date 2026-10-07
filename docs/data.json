@@ -1,7 +1,98 @@
 {
-  "updated": "2026-10-07 17:07:46",
-  "count": 9307,
+  "updated": "2026-10-07 17:11:31",
+  "count": 9293,
   "items": [
+    {
+      "id": "te:economy:590152",
+      "time": "2026-10-07 17:10:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "Singapore Forex Reserves Hit Highest Level Since 2022 — Singapore’s official foreign exchange reserves rose to SGD 553.57 billion in September 2026, the highest level since February 2022, from SGD 550.73 billion in August. The increase was mainly driven by higher gold and foreign exchange reserves, which climbed to SGD 543.62 billion from SGD 540.73 billion. Meanwhile, special drawing rights edged down to SGD 8.18 billion from SGD 8.21 billion, while the reserve position in the IMF declined slightly to SGD 1.77 billion from SGD 1.78 billion. Compared with a year earlier, official foreign exchange reserves were significantly higher, rising from SGD 506.83 billion in September 2025."
+    },
+    {
+      "id": "5129929",
+      "time": "2026-10-07 17:10:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF招商：因交易價格溢價 10月8日起臨時停牌】納斯達克100ETF招商公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月30日，本基金二級市場收盤價為2.455元，收盤時基金份額參考淨值為2.2033元。為保護投資者利益，本基金將於2026年10月8日開市起停牌，自當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，本基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "mkt:01a115a0-c269-7ee0-a7d2-544f9b48c341",
+      "time": "2026-10-07 17:10:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Disruptive eyes $10bn fund to join Silicon Valley \"super fund\" ranks】The Wall Street Journal reports venture firm Disruptive is raising up to $10bn for a new fund, which would place it among Silicon Valley’s largest 'super funds.' Founded by Alex Davis, Disruptive gained attention after an early stake in Groq following NVIDIA’s roughly $20bn licensing agreement with Groq late last year. The firm has also backed open‑source AI model developer Reflection AI. Insiders say Disruptive has secured about $7.5bn in commitments and plans to deploy the capital into roughly 10 late‑stage companies over the next two years."
+    },
+    {
+      "id": "mkt:01a115a0-9519-7ee0-a7d2-4ca0c3f7b52d",
+      "time": "2026-10-07 17:10:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell nearly 3% to $1,136.10/oz."
+    },
+    {
+      "id": "mkt:01a1159f-623f-7ee0-a7d2-4090422dd5c2",
+      "time": "2026-10-07 17:08:49",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member Dolenc said current interest rates provide flexibility for future policy decisions."
+    },
+    {
+      "id": "mkt:01a1159f-543f-7ee0-a7d2-3a13670db37f",
+      "time": "2026-10-07 17:08:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "COALINDIA.NS",
+        "Impact bullish",
+        "NTPC.NS",
+        "Impact bearish",
+        "POWERGRID.NS",
+        "Impact mixed"
+      ],
+      "text": "【India coal-fired power stocks near five-year low; over 40% of capacity has coal for four days or less】As of Oct 4, media reported India’s coal-fired power plant inventories were near a five-year low: about 69 plants, representing over 40% of national coal-fired capacity, had coal stocks sufficient for four days or less. Unseasonably high October temperatures and patchy rainfall have kept cooling, irrigation and industrial electricity demand elevated. Coal deliveries are being disrupted by heavy rains that have halted some mines and by persistent rail-transport bottlenecks, forcing plants to draw down on-site inventories. The low stockpiles raise the risk of widespread outages."
+    },
+    {
+      "id": "5129928",
+      "time": "2026-10-07 17:08:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃爾多安表示，土耳其資本市場將“甩掉包袱”。"
+    },
+    {
+      "id": "5129927",
+      "time": "2026-10-07 17:07:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4120美元/盎司，日內跌1.06%。"
+    },
+    {
+      "id": "5129926",
+      "time": "2026-10-07 17:07:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安表示，基金髮行問題解決後，外匯流入將加速。"
+    },
     {
       "id": "5129925",
       "time": "2026-10-07 17:06:48",
@@ -85517,197 +85608,6 @@
         "DXY"
       ],
       "text": "CENTCOM said on Sept. 30 it completed the orderly withdrawal of U.S. troops and equipment from Erbil Air Base in Iraq, marking the end of Operation Inherent Resolve in Iraq."
-    },
-    {
-      "id": "5120642",
-      "time": "2026-09-30 17:11:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘浙特高壓受端換流站核心電氣裝置完成主體安裝】近日，甘浙特高壓工程受端換流站大件運輸全部完成。自3月13日首臺大容量柔直變壓器運抵紹興，歷時近半年，14臺換流變壓器全部安全運抵並安裝就位。同時，越州換流站換流閥同步完成主體安裝，為工程按期投運奠定基礎。（新華社）"
-    },
-    {
-      "id": "5120641",
-      "time": "2026-09-30 17:11:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國環境大臣伊格爾：不會迫使水務公司改變政策以干預市場，我們將支援英國農民。"
-    },
-    {
-      "id": "5120640",
-      "time": "2026-09-30 17:10:50",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【星光農機：玖元亨通受讓股份完成過戶 成為控股股東】星光農機公告稱，國金證券出具2026年第三季度權益變動持續督導意見。2026年6月30日玖元亨通與錢菊花等多方簽署股份轉讓協議，合計受讓5887.88萬股股份，佔總股本22.2004%，相關股份已於2026年8月10日完成過戶，玖元亨通成為控股股東，葉進為實控人。2026年7-9月，公司完成董事會及高管調整，推選葉進為董事長、聘任其為總經理；玖元亨通已提供8000萬元借款，剩餘3000萬元借款尚在約定期限內，未違反承諾。"
-    },
-    {
-      "id": "5120639",
-      "time": "2026-09-30 17:10:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【【快手成立“企業AI生產力”組織，統籌AI基建及協同】快手宣佈在公司層面成立跨事業部虛擬組織“企業AI生產力”，負責基礎辦公系統基座的穩定執行，統籌通用Agent、企業上下文體系和企業資訊系統的統一建設。據介紹，相比其他網際網路企業整合辦公套件和通用Agent的做法，快手進一步將內部資訊系統納入此次統一建設範圍內。（新浪科技）"
-    },
-    {
-      "id": "5120638",
-      "time": "2026-09-30 17:10:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國聯民生：累計回購1148萬股，價格8.44元/股~8.9元/股，支付1億元】國聯民生公告，公司此前擬以自有資金回購A股股份，回購金額1億元~2億元，價格不超過人民幣13元/股，用於維護公司價值及股東權益。截至2026年9月30日，公司已累計回購A股股份1148萬股，佔總股本的0.20%，回購價格8.44元/股~8.9元/股，已支付總金額1億元（不含交易費用）。"
-    },
-    {
-      "id": "5120637",
-      "time": "2026-09-30 17:10:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【南模生物：股票交易異常波動 無應披露未披露重大事項】南模生物公告稱，公司股票連續三個交易日（2026年9月28日、9月29日、9月30日）收盤價格漲幅偏離值累計超過30%，屬於股票交易異常波動情形。經自查並向控股股東、實控人核實，截至公告披露日，公司及控股股東、實控人不存在應披露而未披露的重大事項，董監高、控股股東及實控人及其一致行動人在異動期間未買賣公司股票。公司目前日常經營活動正常，2026年半年度實現營業收入2.32億元，同比增長18.73%；歸母淨利潤907.66萬元，同比下降50.04%。敬請廣大投資者注意投資風險。"
-    },
-    {
-      "id": "5120636",
-      "time": "2026-09-30 17:10:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【華新建材：子公司擬開展外匯衍生品交易業務】華新建材公告稱，公司子公司擬圍繞日常經營開展以套期保值為目的的外匯衍生品交易，交易品種包括遠期結售匯、外匯掉期、外匯期權等產品或組合，累計總金額不超過7500萬美元等值，預計動用交易保證金上限、任一交易日持有最高合約價值均不超過1500萬美元等值，資金來源為自有資金，交易期限為董事會審議透過之日起12個月內，單筆業務存續期不超1年。該事項已經公司第十一屆董事會第二十八次會議審議透過，無需提交股東會審議。開展該業務面臨匯率波動、流動性等風險，敬請投資者注意投資風險。"
-    },
-    {
-      "id": "5120635",
-      "time": "2026-09-30 17:10:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國聯民生：向香港子公司增資不超過20億元獲中國證監會無異議】國聯民生公告，公司此前審議透過以自有資金對全資子公司國聯證券（香港）有限公司增資不超過20億元人民幣，近日收到中國證監會覆函，對該增資事項無異議；事項尚需完成境外投資專案備案手續後方可實施。"
-    },
-    {
-      "id": "mkt:01a0f193-c56d-7338-ab2c-3d54d9dba0e2",
-      "time": "2026-09-30 17:09:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【State Council General Office issues plan to expand professional leagues including football, basketball, volleyball, table tennis, badminton, ice hockey, baseball and go】The State Council General Office issued Opinions on Developing Sports Events to Boost Consumption, directing upgrades to professional sports events and creation of a clear, connected tiered professional-events system with refined grading standards and stronger links between professional and amateur competition to ease talent mobility. The document calls for vigorous development of professional leagues in football, basketball, volleyball, table tennis, badminton, ice hockey, baseball and go, and supports hosting high-level professional events in tennis, sailing, boxing, snooker, auto, motorcycle and cycling. It encourages domestic and foreign quality capital to invest across all levels of domestic professional events, permits the lawful creation of new professional competitions, and endorses activities such as talent training, agency services and market development."
-    },
-    {
-      "id": "5120634",
-      "time": "2026-09-30 17:09:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年“誠信興商宣傳月”在京啟幕】9月30日，主題為“誠實守信 利企惠民”的2026年“誠信興商宣傳月”啟動儀式在京舉辦。開展“誠信興商宣傳月”活動，是建設社會信用體系的重要舉措，也是營造良好營商環境的積極實踐。2026年“誠信興商宣傳月”活動，由商務部會同中央宣傳部、國家發展改革委等13個部門共同舉辦。各地區各部門組織開展16項“誠信興商”主題宣傳活動，以多種形式宣傳信用政策、普及誠信理念，推動誠信融入經營活動、貼近人民群眾，讓信用可感可及。（新華社）"
-    },
-    {
-      "id": "5120633",
-      "time": "2026-09-30 17:09:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【摩根資管：全球資金持續助推美國AI熱潮 “隱性債務”風險引擔憂】摩根資管表示，儘管美國超大規模雲服務商的大部分AI資本支出需求由經營現金流提供資金，但它們還從債券市場獲得約2,500億美元資金，並從銀行貸款獲得大致相同規模的融資。摩根資管提醒稱，正密切關注租賃承諾、集中度風險等問題，以及部分融資透過表外方式籌集的風險。"
-    },
-    {
-      "id": "5120632",
-      "time": "2026-09-30 17:09:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【綠地控股：新增逾期債務15.81億元 累計逾期338.42億元】綠地控股公告稱，2026年9月20日至9月28日，公司及控股子公司新增逾期債務15.81億元，均涉及訴訟，累計逾期債務338.42億元；同期化解逾期債務14.58億元。同期新增訴訟663件，涉訴金額34.80億元，其中作為被告的訴訟633件，涉訴金額32.35億元；已結案696件，結案金額8.74億元。部分案件尚未審理判決，對後期利潤的影響存在不確定性。"
-    },
-    {
-      "id": "5120631",
-      "time": "2026-09-30 17:08:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【值得買：劉峰擬減持公司不超過1.90%股份，已減持152.42萬股觸及1%整數倍】值得買公告，持股5%以上股東、董事、高階管理人員劉峰計劃在2026年8月27日起十五個交易日後的3個月內，透過集中競價或大宗交易方式減持公司股份不超過377.82萬股，佔總股本比例1.90%。2026年9月28日至2026年9月29日，劉峰累計減持152.42萬股，佔總股本比例0.77%，持股比例由7.70%降至6.94%，本次減持計劃尚未實施完畢。"
-    },
-    {
-      "id": "mkt:01a0f192-e42c-7338-ab2c-32f89ec763ec",
-      "time": "2026-09-30 17:08:50",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【China's State Council General Office issues Opinions on developing sports events to stimulate consumption】China's State Council General Office issued Opinions on developing sports events to stimulate consumption, aimed at promoting sports events, boosting consumer spending and cultivating new drivers of economic growth. The document sets a 2030 target to establish a modern events system with Chinese characteristics, cultivate several sports events with global influence, significantly enhance industry coordination, and effectively stimulate event-driven consumption to support high-quality economic and social development."
-    },
-    {
-      "id": "5120630",
-      "time": "2026-09-30 17:08:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧尼電子：奧尼智慧簽署18.21億元採購合同】奧尼電子公告，公司全資子公司奧尼智慧與C公司簽署採購合同，向C公司採購GPU算力卡產品，合同總金額為人民幣18.21億元（含稅）；合同自雙方簽字蓋章之日起生效。"
-    },
-    {
-      "id": "5120629",
-      "time": "2026-09-30 17:08:38",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Meta透過將其資料中心歸類為實驗性設施，規避了數十億美元的聯邦稅。"
-    },
-    {
-      "id": "mkt:01a0f192-a184-7338-ab2c-2bd751744bee",
-      "time": "2026-09-30 17:08:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "New York Times reports Meta Platforms (META.O) classified its data centers as experimental facilities to avoid billions of dollars in U.S. federal taxes."
-    },
-    {
-      "id": "5120628",
-      "time": "2026-09-30 17:08:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【關志鷗會見中國電信董事長柯瑞文】9月29日下午，湖北省委書記關志鷗在武漢會見中國電信集團有限公司黨組書記、董事長柯瑞文。關志鷗代表省委、省政府對柯瑞文一行表示歡迎，感謝中國電信長期以來對湖北發展的大力支援。他說，近年來，湖北與中國電信戰略合作持續深化，取得了一系列新進展、新成效。當前，全省上下正深入學習貫徹習近平總書記考察湖北重要講話精神，認真落實省委十二屆十二次全會部署要求，以武漢區域科創中心為核心引擎，系統推進科技創新和產業創新深度融合‌，努力推動支點建設取得新突破。希望中國電信更大範圍、更深層次融入湖北發展，在光電子資訊、6G、時空地理資訊、數智湖北“一張圖”等領域深化務實合作，為湖北高水平建設武漢區域科創中心、推進高質量發展提供有力支撐。我們將堅持“有呼必應、無事不擾”，持續最佳化營商環境，為企業在鄂發展創造良好條件。（湖北釋出）"
-    },
-    {
-      "id": "5120627",
-      "time": "2026-09-30 17:08:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶地礦業：新疆有色集團擬間接收購公司46.36%股份 可免於要約】寶地礦業公告稱，新疆地礦集團股東將由新疆國資委變更為新疆有色集團，本次收購完成後，新疆有色集團將間接持有寶地礦業4.56億股股份，佔公司總股本的46.36%，成為公司間接控股股東，公司實際控制人仍為新疆國資委。本次收購屬於國有資產無償劃轉情形，符合免於發出要約的相關規定，目前已獲新疆維吾爾自治區人民政府批覆，尚需履行後續資訊披露義務。"
-    },
-    {
-      "id": "5120626",
-      "time": "2026-09-30 17:08:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶地礦業：新疆有色集團擬間接收購公司46.36%股份 可免於要約】寶地礦業公告稱，新疆地礦集團股東將由新疆國資委變更為新疆有色集團，本次收購完成後，新疆有色集團將間接持有寶地礦業4.56億股股份，佔公司總股本的46.36%，成為公司間接控股股東，公司實際控制人仍為新疆國資委。本次收購屬於國有資產無償劃轉情形，符合免於發出要約的相關規定，目前已獲新疆維吾爾自治區人民政府批覆，尚需履行後續資訊披露義務。"
-    },
-    {
-      "id": "5120625",
-      "time": "2026-09-30 17:08:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "得克薩斯州州總檢察長帕克斯頓稱達拉斯集會“導致我們的資料下滑”。"
-    },
-    {
-      "id": "5120624",
-      "time": "2026-09-30 17:08:01",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國辦：適應體育專案普及發展趨勢，支援群眾身邊的全民健身場地設施建設】國務院辦公廳釋出關於發展體育賽事激發消費活力的意見，其中提到，完善場地設施。適應體育專案普及發展趨勢，支援群眾身邊的全民健身場地設施建設。有序推動高質量戶外運動目的地建設，積極引入冰雪、山地、航空、水上等戶外運動賽事。創新體育場館管理體制和運營機制，推動場館設計、建設、運營、管理一體化，開展場館科技化、智慧化、數字化改造，加強無障礙、適老化、親子友好設施服務配套，鼓勵社會力量參與場館運營。"
-    },
-    {
-      "id": "5120623",
-      "time": "2026-09-30 17:07:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "得克薩斯州州總檢察長帕克斯頓告訴捐贈者，特朗普在達拉斯的集會損害了他的民調資料。"
     }
   ]
 }

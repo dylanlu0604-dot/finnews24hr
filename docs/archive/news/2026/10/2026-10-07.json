@@ -1,7 +1,98 @@
 {
   "date": "2026-10-07",
-  "count": 1078,
+  "count": 1087,
   "items": [
+    {
+      "id": "te:economy:590152",
+      "time": "2026-10-07 17:10:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "Singapore Forex Reserves Hit Highest Level Since 2022 — Singapore’s official foreign exchange reserves rose to SGD 553.57 billion in September 2026, the highest level since February 2022, from SGD 550.73 billion in August. The increase was mainly driven by higher gold and foreign exchange reserves, which climbed to SGD 543.62 billion from SGD 540.73 billion. Meanwhile, special drawing rights edged down to SGD 8.18 billion from SGD 8.21 billion, while the reserve position in the IMF declined slightly to SGD 1.77 billion from SGD 1.78 billion. Compared with a year earlier, official foreign exchange reserves were significantly higher, rising from SGD 506.83 billion in September 2025."
+    },
+    {
+      "id": "5129929",
+      "time": "2026-10-07 17:10:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF招商：因交易價格溢價 10月8日起臨時停牌】納斯達克100ETF招商公告稱，本基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年9月30日，本基金二級市場收盤價為2.455元，收盤時基金份額參考淨值為2.2033元。為保護投資者利益，本基金將於2026年10月8日開市起停牌，自當日10:30起復牌，停牌期間贖回業務照常辦理。若當日溢價幅度未有效回落，本基金有權申請盤中臨時停牌、延長停牌時間及連續停牌等措施。"
+    },
+    {
+      "id": "mkt:01a115a0-c269-7ee0-a7d2-544f9b48c341",
+      "time": "2026-10-07 17:10:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Disruptive eyes $10bn fund to join Silicon Valley \"super fund\" ranks】The Wall Street Journal reports venture firm Disruptive is raising up to $10bn for a new fund, which would place it among Silicon Valley’s largest 'super funds.' Founded by Alex Davis, Disruptive gained attention after an early stake in Groq following NVIDIA’s roughly $20bn licensing agreement with Groq late last year. The firm has also backed open‑source AI model developer Reflection AI. Insiders say Disruptive has secured about $7.5bn in commitments and plans to deploy the capital into roughly 10 late‑stage companies over the next two years."
+    },
+    {
+      "id": "mkt:01a115a0-9519-7ee0-a7d2-4ca0c3f7b52d",
+      "time": "2026-10-07 17:10:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell nearly 3% to $1,136.10/oz."
+    },
+    {
+      "id": "mkt:01a1159f-623f-7ee0-a7d2-4090422dd5c2",
+      "time": "2026-10-07 17:08:49",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB Governing Council member Dolenc said current interest rates provide flexibility for future policy decisions."
+    },
+    {
+      "id": "mkt:01a1159f-543f-7ee0-a7d2-3a13670db37f",
+      "time": "2026-10-07 17:08:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "COALINDIA.NS",
+        "Impact bullish",
+        "NTPC.NS",
+        "Impact bearish",
+        "POWERGRID.NS",
+        "Impact mixed"
+      ],
+      "text": "【India coal-fired power stocks near five-year low; over 40% of capacity has coal for four days or less】As of Oct 4, media reported India’s coal-fired power plant inventories were near a five-year low: about 69 plants, representing over 40% of national coal-fired capacity, had coal stocks sufficient for four days or less. Unseasonably high October temperatures and patchy rainfall have kept cooling, irrigation and industrial electricity demand elevated. Coal deliveries are being disrupted by heavy rains that have halted some mines and by persistent rail-transport bottlenecks, forcing plants to draw down on-site inventories. The low stockpiles raise the risk of widespread outages."
+    },
+    {
+      "id": "5129928",
+      "time": "2026-10-07 17:08:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃爾多安表示，土耳其資本市場將“甩掉包袱”。"
+    },
+    {
+      "id": "5129927",
+      "time": "2026-10-07 17:07:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4120美元/盎司，日內跌1.06%。"
+    },
+    {
+      "id": "5129926",
+      "time": "2026-10-07 17:07:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統埃爾多安表示，基金髮行問題解決後，外匯流入將加速。"
+    },
     {
       "id": "5129925",
       "time": "2026-10-07 17:06:48",
