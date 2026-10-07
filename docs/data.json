@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-08 05:30:19",
-  "count": 8930,
+  "updated": "2026-10-08 05:34:11",
+  "count": 8927,
   "items": [
+    {
+      "id": "5130729",
+      "time": "2026-10-08 05:31:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美擬就國際學生留美工作徵收高額費用】美國國土安全部7日公佈一項擬議規則，將就國際學生藉助“選擇性實習訓練”專案在美國工作徵收高額費用。這是美政府收緊留學生相關政策的最新舉動。 根據這項規則，學校為每名學生首次申請“選擇性實習訓練”專案時需支付7萬美元，申請延期還需再支付3萬美元。該專案允許持學生簽證的國際學生從事與所學專業直接相關的工作，是國際學生轉入工作簽證的重要過渡渠道。（新華社）"
+    },
+    {
+      "id": "5130728",
+      "time": "2026-10-08 05:30:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic推出Claude Haiku 5.5】Anthropic推出Claude Haiku 5.5，這是一款面向程式設計工作的子智慧體，適用於大規模、成本敏感型任務。Haiku 5.5的價格遠低於Haiku 4.5，同時將Sonnet 5.5快取讀取價格下調50%，至每百萬詞元0.10美元。將面向所有Max和Team使用者推出新的每月API額度。Haiku 5.5已在所有平臺上線，包括亞馬遜的AWS、谷歌雲和微軟Azure。"
+    },
     {
       "id": "te:economy:590286",
       "time": "2026-10-08 05:29:27",
@@ -82223,55 +82240,6 @@
         "公司"
       ],
       "text": "標普道瓊斯指數公司：預計將把秘魯、哈薩克納入iBoxx政府指數。"
-    },
-    {
-      "id": "mkt:01a0f43a-45b5-7338-ab3c-6f5842289f91",
-      "time": "2026-10-01 05:30:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said Bessent has 'good judgment' on long-term US Treasury auctions."
-    },
-    {
-      "id": "mkt:01a0f43a-1ebc-7338-ab3c-606442a258f5",
-      "time": "2026-10-01 05:30:44",
-      "tags": [
-        "MKT News",
-        "005380.KS",
-        "Impact bullish",
-        "373220.KS",
-        "Copper"
-      ],
-      "text": "South Korea urges the government to increase investment in the electric-vehicle industry."
-    },
-    {
-      "id": "mkt:01a0f439-f4dc-7338-ab3c-5be338048c68",
-      "time": "2026-10-01 05:30:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed's GOOLSBEE said consumer confidence diverges significantly from actual consumption data."
-    },
-    {
-      "id": "5121743",
-      "time": "2026-10-01 05:30:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "美光科技：仍然看不到“何時能夠滿足需求”的曙光。"
-    },
-    {
-      "id": "5121742",
-      "time": "2026-10-01 05:30:23",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【墨西哥比索淪為全球表現最差貨幣，套利交易者紛紛撤離】在墨西哥比索過去一個月表現遜於所有其他主要貨幣後，分析師正紛紛下調其年末預測。比索本月已下跌近6%，在美聯儲加息、墨西哥央行隨後維持利率不變的情況下，表現弱於彭博追蹤的所有貨幣。法國興業銀行、摩根士丹利和Banco Base均已下調對比索的預測，有策略師稱“套利交易派對已經結束”，比索的“套利故事正失去吸引力”。"
     }
   ]
 }
