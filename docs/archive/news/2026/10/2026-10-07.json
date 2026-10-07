@@ -1,7 +1,101 @@
 {
   "date": "2026-10-07",
-  "count": 1128,
+  "count": 1138,
   "items": [
+    {
+      "id": "5129960",
+      "time": "2026-10-07 17:33:44",
+      "tags": [
+        "行業",
+        "國際"
+      ],
+      "text": "【崔東樹：2026年世界新能源車滲透率24.7%，滲透率總體呈現快速提升趨勢】乘聯分會秘書長崔東樹發文表示，世界新能源車滲透率總體呈現快速提升趨勢，2022年已經達到13.1%水平，2023年達到15.9%，2024年達到19.5%，2025年滲透率達到23.6%，2026年世界新能源車滲透率24.7%，其中，德國達到33.4%，挪威達到80%，英國36%，而美國僅有7%，日本僅有4%，因此世界新能源發展的不均衡性極為明顯。"
+    },
+    {
+      "id": "5129959",
+      "time": "2026-10-07 17:33:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【崔東樹：1-8月美國新能源車銷量82萬臺，同比降低31%】2025年美國新能源的銷量172萬臺降2%，相對近幾年增速較低。由於高關稅和新能源補貼取消的漲價因素，美國新能源車2026年8月銷量11萬臺同比降44%，1-8月美國新能源車銷量82萬臺，同比降低31%。歐洲新能源乘用車2025年銷量386萬臺，較去年同期增量96萬臺，增33%。初步統計歐洲新能源乘用車8月32萬臺同比增33%，2026年1-8月312萬臺同比增34%。"
+    },
+    {
+      "id": "5129958",
+      "time": "2026-10-07 17:32:39",
+      "tags": [
+        "行業"
+      ],
+      "text": "【崔東樹：2026年1-8月世界新能源乘用車達到1570萬臺，同比增15%】乘聯分會秘書長崔東樹發文表示，2026年1-8月世界汽車銷量達到6343萬臺，新能源汽車達到1570萬臺。2026年1-8月世界新能源乘用車達到1570萬臺，同比增15%，其中8月新能源車銷量223萬臺增16%，增速回到歷史正常水平。2026年1-8月的新能源車份額達到24.5%，其中純電動車的佔比達到17.3%，插電混動達到7.5%的汽車比例。混合動力達到8%的表現優秀。"
+    },
+    {
+      "id": "5129957",
+      "time": "2026-10-07 17:32:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1138.59美元/盎司。"
+    },
+    {
+      "id": "5129956",
+      "time": "2026-10-07 17:31:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰訊10月7日回購了價值1.003億港元的股票。"
+    },
+    {
+      "id": "mkt:01a115b4-7e9b-7ee0-a7d2-c95971cc69be",
+      "time": "2026-10-07 17:31:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing shows Tencent Holdings (00700.HK) repurchased 238,000 shares for HKD100.3 mln on Oct 7."
+    },
+    {
+      "id": "5129955",
+      "time": "2026-10-07 17:31:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4145.09美元/盎司。"
+    },
+    {
+      "id": "te:markets:590161",
+      "time": "2026-10-07 17:31:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Slips as Oil Rebound Revives Inflation Concerns — Sterling traded around $1.32, close to a three-month low against the dollar touched last week, as a rebound in oil prices added to inflation concerns and reinforced expectations for UK interest rates to remain higher for longer. Brent crude rose back above $100 a barrel as Iran intensified attacks on shipping in the Strait of Hormuz, prompting markets to price more than 100 basis points of Bank of England tightening by the end of next year. BoE policymaker Catherine Mann said Tuesday that inflation above the Bank’s 2% target appeared embedded in the economy and warned it could reach 4% around the turn of the year, when wage negotiations typically take place. Meanwhile, the dollar remained supported by expectations that the Federal Reserve will raise rates for a second time this year in December. Against the euro, sterling rose to its highest level since June last year, as concerns over France’s deepening fiscal crisis weighed on the common currency."
+    },
+    {
+      "id": "5129954",
+      "time": "2026-10-07 17:30:52",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗股市站上800萬點大關】7日，伊朗股市收盤報8,131,092點，漲幅約1.93%，創歷史新高，前一交易日收盤報7,977,172 點。"
+    },
+    {
+      "id": "te:markets:590160",
+      "time": "2026-10-07 17:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Italy 10Y Bond Yield Rises by 13 bps — Government bonds yields are higher on Wednesday. Top gainers are Italy 10Y (12.98bps), US 10Y (3.30bps), Germany 10Y (0.79bps) and Japan 10Y (0.47bps)."
+    },
     {
       "id": "mkt:01a115b2-ad8f-7ee0-a7d2-c0a1b28b4e2c",
       "time": "2026-10-07 17:29:53",
