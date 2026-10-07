@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-07 10:23:22",
-  "count": 9429,
+  "updated": "2026-10-07 10:27:12",
+  "count": 9430,
   "items": [
+    {
+      "id": "mkt:01a1142f-3bdd-7ee0-a7c8-750dabbb171d",
+      "time": "2026-10-07 10:26:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dovish BOJ member backs staged hikes; JGB yields retreat with global bond decline】Dovish BOJ board member Ayano Sato said she supports phased, multiple rate increases, but 10-year JGB yields fell Wednesday, tracking a broader decline in global bond yields. Sato was one of two board members who cast a dissenting vote at the BOJ’s September rate increase. Meiji Yasuda portfolio manager Shuichi Ohsaki said Sato has adjusted her stance as Japanese political leaders move away from a reflation policy route. SMBC strategist Katsutoshi Inadome said market interpretation is mixed: some see Sato as less dovish, others do not; theoretically BOJ hikes should lift 10-year yields, but if hikes reduce worries that the BOJ is lagging on inflation, yields could instead fall."
+    },
+    {
+      "id": "mkt:01a1142c-ecaa-7ee0-a7c8-696c562bc484",
+      "time": "2026-10-07 10:24:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Healthcare Security Administration: Jan–Aug pooled medical insurance fund income ~2.07 trln yuan】NHSA data show Jan–Aug 2026 pooled basic medical insurance (incl. maternity) fund income 2.0728 trln yuan and expenditure 1.5504 trln yuan; overall fund operation described as stable. Income split: employee basic medical (incl. maternity) fund 1.2813 trln yuan; urban–rural resident basic medical pooled fund 791.46 bln yuan. Jan–Aug outflows: employee fund 889.35 bln yuan, of which maternity benefits total 88.93 bln yuan; urban–rural resident fund outflows 661.07 bln yuan."
+    },
+    {
+      "id": "5129357",
+      "time": "2026-10-07 10:23:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【國家外匯管理局：9月末我國外匯儲備規模為34003億美元 環比下降381億美元】國家外匯管理局統計資料顯示，截至2026年9月末，我國外匯儲備規模為34003億美元，較8月末下降381億美元，降幅為1.11%。2026年9月，受全球宏觀經濟環境、主要經濟體貨幣政策等因素影響，美元指數上漲，全球主要金融資產價格總體下跌。匯率折算和資產價格變化等因素綜合作用，當月外匯儲備規模下降。我國經濟執行總體平穩、動能向新、結構向優，高質量發展取得新成效，有利於外匯儲備規模保持基本穩定。"
+    },
     {
       "id": "5129356",
       "time": "2026-10-07 10:21:30",
@@ -300,6 +325,15 @@
         "國際"
       ],
       "text": "印尼基準股指開盤上漲0.3%，報6210.42點。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610073888851580",
+      "time": "2026-10-07 10:00:59",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國央行連續第23個月增持黃金】中國9月末黃金儲備報7747萬盎司（約2409.59噸），環比增加74萬盎司（約23.02噸），8月末黃金儲備報7673萬盎司（約2386.57噸）。中國央行已連續第23個月增持黃金。"
     },
     {
       "id": "mkt:01a11417-a26c-7ee0-a7c8-1c8e4db009d6",
@@ -86844,31 +86878,6 @@
         "其他"
       ],
       "text": "【問界新M8開啟預售】9月30日，問界汽車宣佈，問界新M8開啟預售，預售價格38.98萬元起。"
-    },
-    {
-      "id": "5119883",
-      "time": "2026-09-30 10:27:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "創業板指下行翻綠。"
-    },
-    {
-      "id": "5119882",
-      "time": "2026-09-30 10:26:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "FF EAI機器人生態系統公司（前身為AIXCRYPTO HOLDINGS, INC.）：將收購FF機器人業務以實現獨立上市；法拉第未來公佈\"美國製造\"加速計劃新執行方案並啟動有條件批准申請，將於2027年第一季度推出全新機器人產品。"
-    },
-    {
-      "id": "5119881",
-      "time": "2026-09-30 10:25:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【半導體板塊走低，芯原股份跌超10%】半導體板塊走低，芯原股份跌超10%，康強電子、華峰測控、摩爾執行緒、盛科通訊、燧原科技跟跌。"
     }
   ]
 }
