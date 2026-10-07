@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-07 10:53:42",
-  "count": 9413,
+  "updated": "2026-10-07 10:57:30",
+  "count": 9405,
   "items": [
+    {
+      "id": "mkt:01a1144a-d1e7-7ee0-a7c8-c45375bbc193",
+      "time": "2026-10-07 10:56:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China National Day box office tops 1.07 bln yuan; 'movie+' promotions support holiday consumption】China's 2026 National Day film box office, including presales, exceeded 1.07 bln yuan as of 10:00am, with multiple genre releases drawing audiences and regions rolling out 'movie+' promotion campaigns to bolster holiday spending. China UnionPay's Liaoning branch said viewers who validate tickets on its platform can unlock nearly 1,000 provincial partner discounts—restaurant instant reductions, supermarket rebates and hotel offers—and that ticket purchasing now covers full online and offline scenarios to extend consumer spending beyond cinemas."
+    },
+    {
+      "id": "mkt:01a1144a-1587-7ee0-a7c8-bf6d007571c0",
+      "time": "2026-10-07 10:56:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen’s Houthi movement claimed it struck Saudi Arabia’s ABHA airport with ballistic missiles and drones; Saudi authorities did not immediately confirm the report."
+    },
+    {
+      "id": "5129377",
+      "time": "2026-10-07 10:55:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱，他們用彈道導彈和無人機襲擊了沙烏地阿拉伯的阿卜哈機場；沙特方面尚未立即確認。"
+    },
+    {
+      "id": "mkt:01a11449-43fb-7ee0-a7c8-b24fb7107144",
+      "time": "2026-10-07 10:55:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Deutsche Bank: Australians less sensitive to Reserve Bank of Australia rate hikes】Deutsche Bank says despite high household debt, Australian households are more resilient to Reserve Bank of Australia rate hikes than expected. Improving household balance sheets are helping borrowers absorb tighter policy. Macro strategist Lachlan Dynan says household asset growth remains strong and debt-to-income has stabilised; he estimates the household debt-to-asset ratio is at its lowest since 1997. Dynan adds the cash-flow transmission of monetary policy appears weaker than over the past decade, and broader household balance-sheet strength — not just housing — may help offset wealth losses from weak house prices."
+    },
+    {
+      "id": "mkt:01a11448-c272-7ee0-a7c8-a91dfe6bd659",
+      "time": "2026-10-07 10:54:34",
+      "tags": [
+        "MKT News",
+        "06809.HK",
+        "Impact bearish",
+        "03986.HK",
+        "02676.HK"
+      ],
+      "text": "Hong Kong semiconductor stocks extended losses: Zhaoyi Innovation (03986.HK) and Naxin Micro (02676.HK) fell over 4%, Lanqi Technology (06809.HK) dropped more than 7%, and Birun Technology (06082.HK) declined about 3%."
+    },
     {
       "id": "5129376",
       "time": "2026-10-07 10:52:26",
@@ -86585,127 +86629,6 @@
         "國際"
       ],
       "text": "印尼央行（BI）：干預運算子合市場動態，不設定匯率點位目標。"
-    },
-    {
-      "id": "5119924",
-      "time": "2026-09-30 10:57:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部：做好2027年度汽車和摩托車出口許可申報工作】商務部辦公廳釋出關於做好2027年度汽車和摩托車出口許可申報工作的通知，本年度採用線上形式開展汽車和摩托車出口許可申報相關工作。生產企業可登入商務部業務統一管理平臺企業端，在“汽車及摩托車出口許可申報應用”中填寫申請表，上傳相關證明材料，提交至所在地商務主管部門稽核。2027年度線上申報系統將於2026年9月30日開通。"
-    },
-    {
-      "id": "5119923",
-      "time": "2026-09-30 10:56:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【豆包支援出行服務：覆蓋訂機票、火車票以及打車導航】豆包宣佈支援多種出行服務，使用者現已可透過豆包一站式完成機票預訂、火車票購買、打車及路線導航等多種出行需求，覆蓋從長途交通到市內出行的全場景。此外，豆包還上線了“出行用豆包”專屬入口，精選地圖導航、交通出行、酒店住宿、吃喝玩樂四大場景的高頻推薦，為使用者提供更多出行、旅行建議。"
-    },
-    {
-      "id": "5119922",
-      "time": "2026-09-30 10:56:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿里巴巴：集團成為布魯克林籃網隊官方技術與雲服務合作伙伴。"
-    },
-    {
-      "id": "te:markets:587959",
-      "time": "2026-09-30 10:55:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Offshore Yuan Holds Gains — The offshore yuan hovered around 6.70 per dollar on Wednesday as upbeat PMI data and fresh policy support strengthened confidence in China's economic outlook. Official data showed China's Composite PMI rose to 50.7 in September 2026, its highest level since December 2025, as both manufacturing (50.1 vs 49.8) and non-manufacturing (50.2 vs 49) returned to expansion territory. Meanwhile, a private survey showed the Composite PMI climbed to 52.1, with both manufacturing (52.1 vs 51.5) and services (51.6 vs 51.4) continuing to expand. The latest readings came as policymakers rolled out fresh stimulus measures, including mortgage subsidies and expanded central bank funding support, while the State Council also pledged \"a package of practical and effective additional policies.\" Despite resilient exports and an AI-driven boost to industrial profits, China's economy remains under pressure from sluggish consumer spending, a prolonged property downturn, and weak business confidence."
-    },
-    {
-      "id": "5119921",
-      "time": "2026-09-30 10:55:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南航集團國慶假期計劃執飛超2.7萬班次】9月30日，據南航集團訊息，2026年國慶假期前後（9月30日-10月8日），南航集團計劃執行航班超2.7萬班次。其中，南航計劃使用C919國產大飛機執行廣州往返青島、南京、寧波、西安、溫州，長沙往返北京大興、成都天府、三亞、西安等國內航線，計劃執行航班超400班次，投放座位數約7萬個。"
-    },
-    {
-      "id": "5119920",
-      "time": "2026-09-30 10:55:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行：減少外匯現貨市場干預並不意味著承諾減弱。"
-    },
-    {
-      "id": "mkt:01a0f03c-e43e-7338-ab23-57962ec78bc8",
-      "time": "2026-09-30 10:55:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AXISBANK.NS",
-        "Impact bullish"
-      ],
-      "text": "Axis Bank will offer Apple Pay to its Indian credit-card customers."
-    },
-    {
-      "id": "5119919",
-      "time": "2026-09-30 10:55:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行繼續致力於維護印尼盾的穩定。"
-    },
-    {
-      "id": "5119918",
-      "time": "2026-09-30 10:54:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡金管局（MAS）提議，將國內系統重要性銀行董事會最低人數提高至 7 人。"
-    },
-    {
-      "id": "5119917",
-      "time": "2026-09-30 10:54:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，電影《給阿嬤的情書》9月30日結束公映，累計總票房20.05億，總觀影人次5881.9萬，上映至今共打破17項紀錄，獲得172項里程碑成就。"
-    },
-    {
-      "id": "5119915",
-      "time": "2026-09-30 10:53:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "新加坡金管局就銀行及保險公司公司治理規則徵求意見。"
-    },
-    {
-      "id": "te:markets:587957",
-      "time": "2026-09-30 10:53:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Hits 9-Week Low — The Australian dollar fell below $0.70, hitting a nine-week low after August inflation figures undershot forecasts, trimming bets of near-term interest rate hikes. The monthly CPI rose 0.4%, below the expected 0.5%, while the annual pace accelerated to 4% from 3.5% in July but was below the 4.1% forecast. The trimmed-mean measure of core inflation rose 0.2% month-over-month, also under the 0.3% forecast, although annual core inflation held at 3.6% for a third straight month and remained above the Reserve Bank’s 2–3% target band, a key factor behind the central bank’s decision to lift rates to a 15-year high of 4.60% on Tuesday. The marginal inflation miss still led markets to cut the odds of another hike in November to 20% from 36% before the data, while the next increase is now seen more likely in March rather than February. The Aussie is now on track for a roughly 2.8% monthly loss, as a stronger US dollar and ongoing Middle East tensions weighed on the risk-sensitive currency."
-    },
-    {
-      "id": "5119914",
-      "time": "2026-09-30 10:53:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【房地產板塊觸底反彈，萬科A漲幅收窄至0.74%】A股房地產板塊觸底反彈，萬科A漲幅收窄至0.74%，世聯行跌6.85%，此前均跌停；招商蛇口、濱江集團跌幅均收窄至2%。"
     }
   ]
 }

@@ -1,7 +1,51 @@
 {
   "date": "2026-10-07",
-  "count": 648,
+  "count": 653,
   "items": [
+    {
+      "id": "mkt:01a1144a-d1e7-7ee0-a7c8-c45375bbc193",
+      "time": "2026-10-07 10:56:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China National Day box office tops 1.07 bln yuan; 'movie+' promotions support holiday consumption】China's 2026 National Day film box office, including presales, exceeded 1.07 bln yuan as of 10:00am, with multiple genre releases drawing audiences and regions rolling out 'movie+' promotion campaigns to bolster holiday spending. China UnionPay's Liaoning branch said viewers who validate tickets on its platform can unlock nearly 1,000 provincial partner discounts—restaurant instant reductions, supermarket rebates and hotel offers—and that ticket purchasing now covers full online and offline scenarios to extend consumer spending beyond cinemas."
+    },
+    {
+      "id": "mkt:01a1144a-1587-7ee0-a7c8-bf6d007571c0",
+      "time": "2026-10-07 10:56:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen’s Houthi movement claimed it struck Saudi Arabia’s ABHA airport with ballistic missiles and drones; Saudi authorities did not immediately confirm the report."
+    },
+    {
+      "id": "5129377",
+      "time": "2026-10-07 10:55:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱，他們用彈道導彈和無人機襲擊了沙烏地阿拉伯的阿卜哈機場；沙特方面尚未立即確認。"
+    },
+    {
+      "id": "mkt:01a11449-43fb-7ee0-a7c8-b24fb7107144",
+      "time": "2026-10-07 10:55:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Deutsche Bank: Australians less sensitive to Reserve Bank of Australia rate hikes】Deutsche Bank says despite high household debt, Australian households are more resilient to Reserve Bank of Australia rate hikes than expected. Improving household balance sheets are helping borrowers absorb tighter policy. Macro strategist Lachlan Dynan says household asset growth remains strong and debt-to-income has stabilised; he estimates the household debt-to-asset ratio is at its lowest since 1997. Dynan adds the cash-flow transmission of monetary policy appears weaker than over the past decade, and broader household balance-sheet strength — not just housing — may help offset wealth losses from weak house prices."
+    },
+    {
+      "id": "mkt:01a11448-c272-7ee0-a7c8-a91dfe6bd659",
+      "time": "2026-10-07 10:54:34",
+      "tags": [
+        "MKT News",
+        "06809.HK",
+        "Impact bearish",
+        "03986.HK",
+        "02676.HK"
+      ],
+      "text": "Hong Kong semiconductor stocks extended losses: Zhaoyi Innovation (03986.HK) and Naxin Micro (02676.HK) fell over 4%, Lanqi Technology (06809.HK) dropped more than 7%, and Birun Technology (06082.HK) declined about 3%."
+    },
     {
       "id": "5129376",
       "time": "2026-10-07 10:52:26",
