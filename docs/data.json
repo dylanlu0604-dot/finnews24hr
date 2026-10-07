@@ -1,7 +1,68 @@
 {
-  "updated": "2026-10-07 17:42:01",
-  "count": 9189,
+  "updated": "2026-10-07 17:45:51",
+  "count": 9182,
   "items": [
+    {
+      "id": "5129973",
+      "time": "2026-10-07 17:44:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前Coinbase股價下跌2.5%，Strategy股價下跌3.3%，Robinhood股價下滑2.2%。"
+    },
+    {
+      "id": "5129972",
+      "time": "2026-10-07 17:43:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【弘陽地產：2026年9月合約銷售金額1.26億元，銷售面積5857平方米】弘陽地產公告，2026年9月集團合約銷售金額為人民幣1.26億元，銷售面積為5857平方米，平均銷售價格為每平方米人民幣21511元；2026年1月至9月累計合約銷售金額為人民幣13.29億元，累計銷售面積為13.1萬平方米，平均銷售價格為每平方米人民幣10148元。"
+    },
+    {
+      "id": "5129971",
+      "time": "2026-10-07 17:43:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股上市加密概念股盤前下跌，比特幣跌至近一週低位。"
+    },
+    {
+      "id": "5129970",
+      "time": "2026-10-07 17:42:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿斯麥美股盤前跌超2%】阿斯麥美股盤前跌超2%，現報1797.151美元。"
+    },
+    {
+      "id": "mkt:01a115bd-dae7-7ee0-a7d3-0936862aa970",
+      "time": "2026-10-07 17:42:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【ECB Governing Council member Dolenc: current rate level preserves ample policy flexibility】ECB Governing Council member Dolenc said the bank’s current monetary policy stance and interest-rate level give policymakers sufficient flexibility to address a range of future shocks. He said future policy action will depend on inflation expectations and the evolution of related risks. Speaking in Ljubljana, Dolenc flagged geostrategic risks and elevated energy prices as key uncertainties that are translating into persistent inflationary pressure."
+    },
+    {
+      "id": "mkt:01a115bd-8149-7ee0-a7d3-05c3d778dd0f",
+      "time": "2026-10-07 17:41:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "RIA reported the European Commission's latest tranche to Ukraine is being funded from the defence portion of the €90 billion Ukraine support loan."
+    },
+    {
+      "id": "5129969",
+      "time": "2026-10-07 17:41:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我的鋼鐵網（Mysteel）：預計短期焦炭價格仍將承壓，存在二輪提降預期】國慶期間，全國焦炭市場穩中偏弱執行。10月1日首輪提降落地，溼熄焦下調100元/噸、幹熄焦下調110元/噸。供應端焦企維持正常生產，部分割槽域庫存微增；需求端鋼廠按需補庫，盈利承壓抑制採購意願。山西、河北、內蒙古、華東等地價格暫穩或偏弱。因終端需求反彈有限且鋼廠虧損面大，市場看空情緒濃，預計短期焦炭價格仍將承壓，存在二輪提降預期。"
+    },
     {
       "id": "te:economy:590162",
       "time": "2026-10-07 17:40:57",
@@ -127,6 +188,15 @@
         "MKT News"
       ],
       "text": "Gaza Health Ministry spokesperson said Israel's offensive has destroyed most hospitals in Gaza; medical teams are operating under extreme conditions and there are severe shortages of medicines and equipment."
+    },
+    {
+      "id": "5129962",
+      "time": "2026-10-07 17:34:08",
+      "tags": [
+        "行業",
+        "公司"
+      ],
+      "text": "【崔東樹：2026年1-8月中國新能源乘用車世界份額達到62%，中國在世界插電混動市場呈現超強的表現】乘聯分會秘書長崔東樹發文表示，2026年1-8月中國新能源乘用車世界份額達到62%,2026年7-8月達到65.3%的較好水平。從歷年銷量份額看，中國的比亞迪世界領先，吉利迅速崛起，特斯拉表現不強，下滑到第三位。近期上汽集團乘用車和上汽五菱兩家自主車企海外表現較好。2026年中國在世界純電動車市場份額59%份額，年初因素的中國純電動車表現暫時較差，3季度達到63.6%。2026年中國在世界插電混動份額達到71%的高水平，7-8月達到74%，中國在世界插電混動市場呈現超強的表現。"
     },
     {
       "id": "5129961",
@@ -84569,141 +84639,6 @@
         "國際"
       ],
       "text": "歐洲斯托克600指數漲幅收窄。"
-    },
-    {
-      "id": "mkt:01a0f1b4-bd88-7338-ab2d-93810f4eb648",
-      "time": "2026-09-30 17:45:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "【NYT: Meta classified AI data centers as R&D, cut nearly $4bn in taxes; IRS may challenge】The New York Times reports Meta has used U.S. research tax-credit rules to seek billions in tax relief for its AI data centers, describing data-center projects worth billions as \"experimental R&D\" and treating AI compute chips purchased from suppliers including NVIDIA as eligible R&D inputs. Documents show the credit cut Meta’s tax bill by nearly $4bn last year, making it one of the largest public-company beneficiaries. Internal accountants have warned of legal risk and the IRS could challenge the claims. Tax adviser Andre Shevchuck of BPM said classifying AI data centers as \"experimental R&D\" is \"beyond routine.\" The IRS has previously reviewed firms that treated ordinary commercial spending as R&D for credit purposes."
-    },
-    {
-      "id": "5120770",
-      "time": "2026-09-30 17:45:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華新科技：3萬t/年焚燒處置專案結項 節餘資金擬永久補流】華新科技公告稱，公司“3萬t/年焚燒處置專案”已達到預定可使用狀態，滿足結項條件。截至2026年9月29日，該募投專案形成節餘資金及利息，公司擬將其全部用於永久補充流動資金，用於日常生產經營。該事項已經公司董事會審議透過，尚需提交公司2026年第七次臨時股東會審議，後續將同步登出相關募集資金專用賬戶。保薦機構東興證券對該事項無異議。"
-    },
-    {
-      "id": "5120769",
-      "time": "2026-09-30 17:45:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普元資訊：劉相離職，新增認定曹宗偉；劉相持股45000股】普元資訊公告，公司核心技術人員劉相近日協商一致解除勞動關係並辦理完畢離職手續，離職後不再擔任任何職務；公司新增認定曹宗偉為核心技術人員。截至公告披露日，劉相持有公司股份45000股，已獲授但尚未歸屬的60000股第二類限制性股票將作廢失效；曹宗偉持有10500股。公司創新研發和日常經營正常進行。"
-    },
-    {
-      "id": "5120768",
-      "time": "2026-09-30 17:45:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：埃及總統塞西計劃於10月9日訪問馬來西亞。"
-    },
-    {
-      "id": "5120767",
-      "time": "2026-09-30 17:45:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "奕境 X9 正式上市，限時權益價 27.98 萬元起。"
-    },
-    {
-      "id": "te:economy:588175",
-      "time": "2026-09-30 17:44:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Sri Lanka Producer Inflation Eases Slightly in August — Producer prices in Sri Lanka rose 5.2% year-on-year in August 2026, slowing from an upwardly revised 5.4% increase in July. Agriculture prices increased 2.6%, rebounding from 0.1% growth, driven by stronger prices for non-perennial crops (9.6% vs 3.5%) and animal production (17.3% vs 14.8%), while prices for perennial crops remained in decline (-7.8% vs -8.8%). Manufacturing prices rose 5.1%, easing slightly from 5.6%, as higher prices for coke and refined petroleum products (63.3% vs 56.7%) were partly offset by slower growth in rubber and plastics products (13.1% vs 15.1%). Meanwhile, inflation in electricity, gas, steam and air conditioning supply eased (23.9% vs 27.0%), while water collection, treatment and supply edged up (5.4% vs 5.3%). On a monthly basis, producer prices increased 0.5%, easing from a 0.7 rise in the previous month."
-    },
-    {
-      "id": "5120766",
-      "time": "2026-09-30 17:44:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【UKMTO：9月29日霍爾木茲海峽報告有3艘油輪遇襲】英國海上貿易行動辦公室表示，9月29日，一艘原油油輪在霍爾木茲海峽內遭不明拋射物擊中左舷。UKMTO還收到一份延遲報告，稱9月29日另一艘油輪在駛入霍爾木茲海峽的途中被拋射物擊中。該機構還收到另一份延遲報告，稱9月29日一艘液化天然氣（LNG）油輪在霍爾木茲海峽被拋射物擊中。有關當局正在對這些事件展開調查。"
-    },
-    {
-      "id": "5120765",
-      "time": "2026-09-30 17:43:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "DFI零售集團將從美心交易中獲得約3.4億美元現金。"
-    },
-    {
-      "id": "mkt:01a0f1b3-02a1-7338-ab2d-886c9ac1311c",
-      "time": "2026-09-30 17:43:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's president said Tehran is earnestly fulfilling its responsibility to safeguard regional waterways and ensure safe navigation."
-    },
-    {
-      "id": "mkt:01a0f1b2-f04b-7338-ab2d-8489d753bdbd",
-      "time": "2026-09-30 17:43:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Kimi K3 added to OpenAI Codex enterprise channel; first Chinese large open‑source model in OpenAI enterprise billing system】US AI infrastructure firm Baseten said enterprise customers can call Kimi K3 within OpenAI’s Codex programming tool, with usage charged to customers’ existing OpenAI committed spend and no separate vendor procurement required. The move brings Kimi K3 into OpenAI’s mainstream enterprise billing channel and marks the first integration of a Chinese open‑source large model into that procurement framework."
-    },
-    {
-      "id": "5120764",
-      "time": "2026-09-30 17:43:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "DFI零售集團將收購星巴克在七個亞洲市場的特許經營業務。"
-    },
-    {
-      "id": "5120763",
-      "time": "2026-09-30 17:42:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科大訊飛回應與美團大模型訓練引數差異】有投資者向科大訊飛（002230.SZ）提問，美團公告稱在國產晶片上訓練出了1.6萬億引數的大模型，為什麼訊飛只能訓練出2千多億引數的大模型呢？9月30日，公司回答表示，模型引數規模是技術指標之一，評價模型能力還需結合模型架構、訓練資料、訓練方法及實際任務表現。對於採用混合專家架構的模型，總引數量與每次計算的啟用引數量也需要區分，不能僅根據已釋出模型的引數規模判斷一家企業的訓練能力上限。同樣使用國產晶片，晶片型號、叢集規模、互聯條件及軟體最佳化也會影響訓練效率。公司結合算力條件、應用需求和投入產出安排模型研發，不一味追求引數規模，持續提升星火大模型的端雲結合的比較優勢及在教育、醫療、汽車等領域的應用效果，推動技術進步轉化為產品競爭力與商業化成果。"
-    },
-    {
-      "id": "5120762",
-      "time": "2026-09-30 17:42:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國衛生大臣：將重新推出新的國家孕產婦護理標準。"
-    },
-    {
-      "id": "5120761",
-      "time": "2026-09-30 17:42:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【西部黃金：控股股東合併事項獲進展 持股比例升至59.55%】西部黃金公告稱，公司控股股東新疆有色集團擬與新疆地礦集團整體合併，2026年9月30日公司收到通知，新疆地礦集團股東已由新疆國資委變更為新疆有色集團。本次變更後，新疆有色集團直接及間接持有公司股權比例由54.57%上升至59.55%，公司控股股東仍為新疆有色集團，實際控制人仍為新疆國資委。本次權益變動符合免於發出要約的相關規定。"
-    },
-    {
-      "id": "5120760",
-      "time": "2026-09-30 17:42:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【鄢東會見日本國際貿易促進協會訪華團】商務部副部長鄢東會見以巖屋毅會長為團長的日本國際貿易促進協會訪華團。"
     }
   ]
 }

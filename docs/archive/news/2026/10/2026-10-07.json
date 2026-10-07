@@ -1,7 +1,68 @@
 {
   "date": "2026-10-07",
-  "count": 1152,
+  "count": 1160,
   "items": [
+    {
+      "id": "5129973",
+      "time": "2026-10-07 17:44:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前Coinbase股價下跌2.5%，Strategy股價下跌3.3%，Robinhood股價下滑2.2%。"
+    },
+    {
+      "id": "5129972",
+      "time": "2026-10-07 17:43:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【弘陽地產：2026年9月合約銷售金額1.26億元，銷售面積5857平方米】弘陽地產公告，2026年9月集團合約銷售金額為人民幣1.26億元，銷售面積為5857平方米，平均銷售價格為每平方米人民幣21511元；2026年1月至9月累計合約銷售金額為人民幣13.29億元，累計銷售面積為13.1萬平方米，平均銷售價格為每平方米人民幣10148元。"
+    },
+    {
+      "id": "5129971",
+      "time": "2026-10-07 17:43:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股上市加密概念股盤前下跌，比特幣跌至近一週低位。"
+    },
+    {
+      "id": "5129970",
+      "time": "2026-10-07 17:42:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿斯麥美股盤前跌超2%】阿斯麥美股盤前跌超2%，現報1797.151美元。"
+    },
+    {
+      "id": "mkt:01a115bd-dae7-7ee0-a7d3-0936862aa970",
+      "time": "2026-10-07 17:42:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【ECB Governing Council member Dolenc: current rate level preserves ample policy flexibility】ECB Governing Council member Dolenc said the bank’s current monetary policy stance and interest-rate level give policymakers sufficient flexibility to address a range of future shocks. He said future policy action will depend on inflation expectations and the evolution of related risks. Speaking in Ljubljana, Dolenc flagged geostrategic risks and elevated energy prices as key uncertainties that are translating into persistent inflationary pressure."
+    },
+    {
+      "id": "mkt:01a115bd-8149-7ee0-a7d3-05c3d778dd0f",
+      "time": "2026-10-07 17:41:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "RIA reported the European Commission's latest tranche to Ukraine is being funded from the defence portion of the €90 billion Ukraine support loan."
+    },
+    {
+      "id": "5129969",
+      "time": "2026-10-07 17:41:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我的鋼鐵網（Mysteel）：預計短期焦炭價格仍將承壓，存在二輪提降預期】國慶期間，全國焦炭市場穩中偏弱執行。10月1日首輪提降落地，溼熄焦下調100元/噸、幹熄焦下調110元/噸。供應端焦企維持正常生產，部分割槽域庫存微增；需求端鋼廠按需補庫，盈利承壓抑制採購意願。山西、河北、內蒙古、華東等地價格暫穩或偏弱。因終端需求反彈有限且鋼廠虧損面大，市場看空情緒濃，預計短期焦炭價格仍將承壓，存在二輪提降預期。"
+    },
     {
       "id": "te:economy:590162",
       "time": "2026-10-07 17:40:57",
@@ -127,6 +188,15 @@
         "MKT News"
       ],
       "text": "Gaza Health Ministry spokesperson said Israel's offensive has destroyed most hospitals in Gaza; medical teams are operating under extreme conditions and there are severe shortages of medicines and equipment."
+    },
+    {
+      "id": "5129962",
+      "time": "2026-10-07 17:34:08",
+      "tags": [
+        "行業",
+        "公司"
+      ],
+      "text": "【崔東樹：2026年1-8月中國新能源乘用車世界份額達到62%，中國在世界插電混動市場呈現超強的表現】乘聯分會秘書長崔東樹發文表示，2026年1-8月中國新能源乘用車世界份額達到62%,2026年7-8月達到65.3%的較好水平。從歷年銷量份額看，中國的比亞迪世界領先，吉利迅速崛起，特斯拉表現不強，下滑到第三位。近期上汽集團乘用車和上汽五菱兩家自主車企海外表現較好。2026年中國在世界純電動車市場份額59%份額，年初因素的中國純電動車表現暫時較差，3季度達到63.6%。2026年中國在世界插電混動份額達到71%的高水平，7-8月達到74%，中國在世界插電混動市場呈現超強的表現。"
     },
     {
       "id": "5129961",
