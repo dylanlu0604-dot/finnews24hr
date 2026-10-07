@@ -1,7 +1,35 @@
 {
   "date": "2026-10-08",
-  "count": 35,
+  "count": 38,
   "items": [
+    {
+      "id": "5130554",
+      "time": "2026-10-08 00:34:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：基輔發生爆炸後停電。有訊息稱，無人機殘骸可能落在輸電線路上。"
+    },
+    {
+      "id": "mkt:01a11735-ebfa-7ee0-a7dd-67a3cb909e67",
+      "time": "2026-10-08 00:32:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "An explosion in Kyiv was followed by a power outage; market sources say drone debris may have fallen onto power lines."
+    },
+    {
+      "id": "5130553",
+      "time": "2026-10-08 00:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：我們本可以在總統競選期間做得更多。"
+    },
     {
       "id": "5130552",
       "time": "2026-10-08 00:27:43",

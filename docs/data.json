@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-08 00:32:22",
+  "updated": "2026-10-08 00:36:13",
   "count": 9019,
   "items": [
+    {
+      "id": "5130554",
+      "time": "2026-10-08 00:34:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：基輔發生爆炸後停電。有訊息稱，無人機殘骸可能落在輸電線路上。"
+    },
+    {
+      "id": "mkt:01a11735-ebfa-7ee0-a7dd-67a3cb909e67",
+      "time": "2026-10-08 00:32:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "An explosion in Kyiv was followed by a power outage; market sources say drone debris may have fallen onto power lines."
+    },
+    {
+      "id": "5130553",
+      "time": "2026-10-08 00:32:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：我們本可以在總統競選期間做得更多。"
+    },
     {
       "id": "5130552",
       "time": "2026-10-08 00:27:43",
@@ -83030,41 +83058,6 @@
         "其他"
       ],
       "text": "【尚比亞宣佈暴發新一輪霍亂疫情】當地時間9月30日，尚比亞衛生部宣佈該國暴發新一輪霍亂疫情，該國的盧薩卡省、中央省、盧阿普拉省、北方省以及南方省5個省份共報告了304例病例，包括11例死亡病例。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0f32a-e4a7-7338-ab37-6366a129f628",
-      "time": "2026-10-01 00:34:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US 10-year Treasury yield rose to 5.29%, its highest level since 2007."
-    },
-    {
-      "id": "5121532",
-      "time": "2026-10-01 00:32:42",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率升至5.29%，創2007年以來新高。"
-    },
-    {
-      "id": "5121531",
-      "time": "2026-10-01 00:32:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "United Therapeutics（聯合治療公司）股價上漲12.2%，此前該公司贏得了針對Liquidia的法院裁決。"
     }
   ]
 }
