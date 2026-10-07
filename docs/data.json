@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-08 05:56:59",
-  "count": 8934,
+  "updated": "2026-10-08 06:01:06",
+  "count": 8937,
   "items": [
+    {
+      "id": "5130738",
+      "time": "2026-10-08 06:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破89美元/桶，日內漲0.82%。"
+    },
+    {
+      "id": "5130737",
+      "time": "2026-10-08 05:59:26",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【2026年中央金融機構注資特別國債今日發行】根據財政部日前公佈的有關安排，10月8日，2026年中央金融機構注資特別國債（一期）將進行首發招標。據悉，本期國債為5年期固定利率附息債，競爭性招標面值總額1500億元，國債票面利率透過競爭性招標確定。招標結束至2026年10月9日進行分銷，10月13日起上市交易。另據安排，11月18日還將進行中央金融機構注資特別國債7年期債券發行招標。（金融時報）"
+    },
+    {
+      "id": "mkt:01a11860-d493-7ee0-a7e2-3d294974ff11",
+      "time": "2026-10-08 05:59:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【2026 special treasury bonds for central financial institution capital injection auctioned today】The Ministry of Finance said the first auction of 2026 special treasury bonds for capital injection into central financial institutions (Phase I) will be held Oct 8. The issue is a 5-year fixed-rate, coupon-bearing bond with a total competitive offering of 150 bln yuan; the coupon will be set by competitive bidding. Allocation will run from auction close through Oct 9, and the bonds are scheduled to begin trading Oct 13. A separate competitive tender for a 7-year tranche is set for Nov 18."
+    },
+    {
+      "id": "5130736",
+      "time": "2026-10-08 05:57:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普新任AI主管將赴矽谷走訪頭部AI企業】美國國家情報總監、新近獲任命執掌特朗普政府所謂“超級智慧工作組”的傑伊·克萊頓，開啟新任期的首項工作便是前往矽谷，與一眾AI行業頂尖高管舉行會談。克萊頓計劃會晤英偉達執行長黃仁勳、OpenAI執行長山姆·奧特曼、Anthropic公司的達里奧·阿莫代伊，以及Meta平臺公司的馬克·扎克伯格。這是克萊頓執掌這個負責統籌聯邦政府人工智慧相關事務的新機構後，首次與科技行業領袖會面。"
+    },
+    {
+      "id": "5130735",
+      "time": "2026-10-08 05:56:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普新任AI主管克萊頓將赴矽谷走訪AI企業。"
+    },
     {
       "id": "mkt:01a1185e-10dd-7ee0-a7e2-345fd0b00fab",
       "time": "2026-10-08 05:56:20",
@@ -82290,24 +82335,6 @@
         "國際"
       ],
       "text": "美聯儲卡什卡利：通脹仍過高，目前處於約3%的水平，最新資料並未改變這一情況。"
-    },
-    {
-      "id": "5121750",
-      "time": "2026-10-01 06:00:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲10月加息的機率為38.2%】據CME“美聯儲觀察”：美聯儲10月會議維持利率在3.75%-4.00%不變的機率為61.8%，加息25個基點的機率為38.2%。美聯儲到12月維持利率在3.75%-4.00%不變的機率為13.3%，累計加息25個基點的機率為56.7%，累計加息50個基點的機率為30%。"
-    },
-    {
-      "id": "5121749",
-      "time": "2026-10-01 06:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破61美元/盎司，日內漲0.25%。"
     }
   ]
 }
