@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-07 10:46:09",
-  "count": 9421,
+  "updated": "2026-10-07 10:49:56",
+  "count": 9417,
   "items": [
+    {
+      "id": "5129373",
+      "time": "2026-10-07 10:49:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞副財長：受經濟增長推動，馬來西亞2026年上半年稅收收入將增長9%。"
+    },
+    {
+      "id": "5129372",
+      "time": "2026-10-07 10:48:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "出版業訊息人士透露，一家日本大型圖書批發商承認向美國人工智慧公司Anthropic出售了大量圖書。"
+    },
+    {
+      "id": "mkt:01a11442-d867-7ee0-a7c8-9b3dd03e92dc",
+      "time": "2026-10-07 10:48:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Mubird Homestays 2026 National Day report: tier‑3-and‑below daily homestay orders +17% YoY】Mubird Homestays released its 2026 National Day homestay consumption report showing notable YoY booking gains: average daily homestay orders in tier‑3-and‑below cities rose 17% YoY, stays of seven nights or longer were up 30% YoY, and family-travel bookings made up 53% of orders. County-level destinations accounted for 40% of users, making county trips a National Day hotspot; 15% of users departed before the holiday. Top 10 destinations by bookings were Beijing, Qingdao, Nanjing, Chongqing, Chengdu, Weihai, Changsha, Hangzhou, Kaifeng and Xi’an. Beijing led Top 10 growth, with average daily orders up 83% YoY versus last year’s double-holiday period; Kaifeng entered the Top 10 with daily orders up 69% YoY."
+    },
+    {
+      "id": "mkt:01a11442-b338-7ee0-a7c8-90f8aa883741",
+      "time": "2026-10-07 10:47:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KYODO reported that publishing industry sources said a major Japanese book wholesaler admitted selling a large volume of books to US AI firm ANTHROPIC."
+    },
+    {
+      "id": "5129371",
+      "time": "2026-10-07 10:47:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方敦促國際社會持續助力非洲國家和平與發展】中國常駐聯合國代表傅聰6日在“聯合國同非洲聯盟合作”安理會公開會上發言，敦促國際社會持續助力非洲國家的和平與發展。（新華社）"
+    },
+    {
+      "id": "te:economy:590013",
+      "time": "2026-10-07 10:46:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Fiji",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Fiji Inflation Eases From 15-Year High — Fiji’s annual inflation slowed to 6.8% in September 2026 from 7.6% in the previous month, which was the highest since December 2011. The moderation came as food inflation eased to 7.6% from a 28-month high of 9.5% in August, while housing inflation eased to a four-month low of 4.9% from 7.0% in August. Inflation also moderated for miscellaneous goods and services (3.1% vs 3.6%) and furnishings, household equipment, and routine household maintenance (0.1% vs 0.4%), while remaining flat for clothing and footwear (0.0% vs. 1.2%). Meanwhile, inflation accelerated for alcoholic beverages and tobacco (13.9% vs 13.3%) and transport (12.2% vs 11.7%), while education inflation was steady at 0.4%. Additionally, recreation and culture prices fell at a faster pace (-1.5% vs -1.4%). On a monthly basis, the CPI fell 0.4% in September, following a 0.1% decline in August and marking the third straight monthly decline."
+    },
+    {
+      "id": "5129370",
+      "time": "2026-10-07 10:45:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "StoneX將Marvell Technology的目標價從275美元上調至375美元。"
+    },
     {
       "id": "mkt:01a11440-1e90-7ee0-a7c8-8c93ba110a40",
       "time": "2026-10-07 10:45:08",
@@ -86694,116 +86757,6 @@
         "公司"
       ],
       "text": "【天銀機電成立衛星檢測服務公司】企查查APP顯示，近日，佛山市天銀衛星檢測服務有限公司成立，經營範圍包含：衛星導航服務；衛星通訊服務；工程和技術研究和試驗發展；資訊系統整合服務等。企查查股權穿透顯示，該公司由天銀機電(300342)全資持股。"
-    },
-    {
-      "id": "5119909",
-      "time": "2026-09-30 10:49:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "恒生生物科技指數漲超4%，金斯瑞生物科技漲超11%，英矽智慧漲超10%，石藥集團漲超6%。"
-    },
-    {
-      "id": "5119908",
-      "time": "2026-09-30 10:49:38",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：歡迎更多臺灣同胞來一場隨心即興的“大陸之行”】國務院臺辦舉行例行新聞釋出會。有記者問：“十一”假期臨近，請介紹大陸對臺灣同胞特別是“首來族”來大陸旅遊、交流等有哪些便利措施？發言人張晗表示，我們持續為臺灣同胞來往大陸創造更好的條件。目前，大陸多數A級以上景區對臺灣“首來族”減免景區門票費用，臺灣同胞享受到越來越多的便利服務。“十一”假期臨近，歡迎更多臺灣同胞來一場隨心即興的“大陸之行”，領略風光、感受文化、見證發展，體驗同胞的熱情友善。"
-    },
-    {
-      "id": "5119907",
-      "time": "2026-09-30 10:48:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武漢第五家山姆會員店開工建設】9月29日上午，武漢市洪山區楊春湖高鐵商務區科創產業園暨山姆會員店專案正式開工。專案選址洪山區和平街道團結大道南側核心地塊，佔地105畝，總投資近20億元，規劃建設約22.3萬平方米綜合性產業園。其中，西部地塊將建設武漢第五家山姆會員店（洪山店），建築面積7.5萬平方米。"
-    },
-    {
-      "id": "mkt:01a0f037-0888-7338-ab23-353ab0a5869b",
-      "time": "2026-09-30 10:48:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Goldman Sachs says Saudi exports have risen above their 2025 average, leading the export recovery; Iran posted no seaborne crude exports in September."
-    },
-    {
-      "id": "mkt:01a0f036-b903-7338-ab23-2ff139c2a3b9",
-      "time": "2026-09-30 10:48:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "02359.HK",
-        "Impact bullish"
-      ],
-      "text": "WuXi AppTec (02359.HK) shares rose 3.5% to a record high; the stock is up more than 120% year-to-date."
-    },
-    {
-      "id": "5119906",
-      "time": "2026-09-30 10:48:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥、CRO概念持續走強 南模生物等多股漲停】創新藥、CRO概念盤中漲勢擴大，南模生物20cm漲停，近岸蛋白、百普賽斯漲超10%，雙雙創歷史新高，此前康希諾、泰諾麥博、康辰藥業、奧賽康漲停，鍵凱科技、石藥創新、錦波生物、藥石科技等漲幅靠前。"
-    },
-    {
-      "id": "mkt:01a0f036-82bd-7338-ab23-23e3f01c8176",
-      "time": "2026-09-30 10:48:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Goldman Sachs estimates Persian Gulf oil exports, including covert shipments, doubled in September and have since returned to their 2025 average level."
-    },
-    {
-      "id": "5119905",
-      "time": "2026-09-30 10:48:11",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：沙特出口引領復甦，升至2025年均值上方，伊朗9月海運原油出口量為零。"
-    },
-    {
-      "id": "5119904",
-      "time": "2026-09-30 10:47:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：估計波斯灣石油出口（包括“灰色出口”）在9月份翻倍後，已回升至2025年的平均水平。"
-    },
-    {
-      "id": "mkt:01a0f035-9b87-7338-ab23-1d971ede8855",
-      "time": "2026-09-30 10:47:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish",
-        "Copper",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Citigroup raises South Korea growth forecasts; chip boom seen supporting expansion through 2028】Citigroup says that despite a temporary slowdown in industrial production in August—partly from labor strikes and summer holidays that briefly halted auto output—South Korea’s growth should exceed prior projections. Citigroup raised its 2026 GDP forecast by 0.1 percentage point to 3.8% and its 2027 forecast by 0.2 percentage point to 3.3%, citing an auto-sector rebound in September and broad manufacturing strength driven by a semiconductor upcycle. Citigroup expects chip-led expansion to underpin South Korea’s economy through 2028."
-    },
-    {
-      "id": "5119903",
-      "time": "2026-09-30 10:46:40",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【丁薛祥出席中國環境與發展國際合作委員會2026年年會並講話】9月29日下午，中共中央政治局常委、國務院副總理、中國環境與發展國際合作委員會主席丁薛祥在北京出席國合會2026年年會並講話。丁薛祥強調，實現可持續發展，需要各方攜手綠色前行。他提出3點建議：一是以務實行動推動綠色低碳發展，堅定維護《聯合國氣候變化框架公約》及其《巴黎協定》，全面落實“昆蒙框架”實施倡議，為全球氣候治理、生物多樣性保護注入更多確定性和正能量。二是以科技創新培育綠色生產力，加快完善綠色技術創新體系，聯合開展綠色低碳科技攻關，推動技術轉化落地，促進產業數字化、智慧化同綠色化深度融合。三是以開放合作完善全球環境和氣候治理，高質量推進共建綠色“一帶一路”，深化氣候變化南南合作，促進優質綠色技術和產品自由流通，讓綠色發展成果更好惠及各國人民。(外交部網站)"
     }
   ]
 }
