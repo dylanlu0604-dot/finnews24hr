@@ -1,7 +1,72 @@
 {
-  "updated": "2026-10-07 10:57:30",
-  "count": 9405,
+  "updated": "2026-10-07 11:01:17",
+  "count": 9403,
   "items": [
+    {
+      "id": "5129382",
+      "time": "2026-10-07 11:00:27",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【瘦西湖文旅已透過港交所主機板聆訊】江蘇瘦西湖文化旅遊股份有限公司已透過港交所主機板上市聆訊，獨家保薦人為光大證券國際。"
+    },
+    {
+      "id": "te:markets:590014",
+      "time": "2026-10-07 11:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Prices Extend Gains — US natural gas prices climbed to around $3.13 per MMBtu, extending gains for a fourth session and reaching their highest level since September 25, supported by falling production, LNG feedgas flows, and expectations of more demand. Average gas output in the US Lower 48 states fell to 111.7 bcfd so far in October, down from record highs of 113.3 bcfd in both August and September, while daily production continued to drop partly due to recent force majeure events and other disruptions affecting pipelines in Kentucky, Texas, and West Virginia. LNG demand also provided support, with daily feedgas flows rising as Freeport LNG in Texas ramps up gas intake following the return of a liquefaction train from maintenance. Meanwhile, forecasts shifted warmer, with above-average temperatures expected across the western two-thirds of the US through October 10, which could lift cooling demand and gas consumption for power generation."
+    },
+    {
+      "id": "5129381",
+      "time": "2026-10-07 11:00:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國SET指數開盤下跌0.5%，報1574.15點。"
+    },
+    {
+      "id": "5129380",
+      "time": "2026-10-07 10:58:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG電子股價跌幅擴大；最新報214500韓元，跌幅7.7%。"
+    },
+    {
+      "id": "mkt:01a1144b-45b6-7ee0-a7c8-ce6612970d62",
+      "time": "2026-10-07 10:57:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni Houthi forces claimed to have used ballistic missiles and drones to strike a Saudi airbase in Khamis Mushait."
+    },
+    {
+      "id": "5129379",
+      "time": "2026-10-07 10:57:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱，他們已使用彈道導彈和無人機襲擊了沙烏地阿拉伯海米斯穆謝特的一處空軍基地。"
+    },
+    {
+      "id": "5129378",
+      "time": "2026-10-07 10:57:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國慶檔電影票房超10.7億元 “電影+”為消費注入新活力】今年國慶假期，電影市場持續火熱，多元題材影片集中登入院線。網路平臺資料顯示，截至今天上午10點，2026年國慶檔電影票房（含預售）已超10.7億元，各地也推出形式多樣的“電影+”活動，為假期消費注入新活力。中國銀聯遼寧分公司市場部副總經理佟明川：影迷朋友們觀影后，透過平臺完成電影票根的認證，即可解鎖全省近千家合作商戶的餐飲立減、商超滿減及住宿折扣等權益。此外，我們在購票端也實現了線上線下的全場景覆蓋，讓觀影的幸福感從影院延伸至生活日常。（央視新聞）"
+    },
     {
       "id": "mkt:01a1144a-d1e7-7ee0-a7c8-c45375bbc193",
       "time": "2026-10-07 10:56:49",
@@ -86551,84 +86616,6 @@
         "國際"
       ],
       "text": "現年101歲的馬來西亞前總理馬哈蒂爾入院接受觀察。"
-    },
-    {
-      "id": "5119933",
-      "time": "2026-09-30 11:01:14",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【《電子病歷版式文件技術要求》國家標準釋出 醫療資料互通互認新方案來了】記者今天瞭解到，市場監管總局批准釋出《電子病歷版式文件技術要求》國家標準（OFD-H標準），該標準將自2027年4月29日起正式實施。電子病歷是醫療機構智慧化建設的核心。2025年全國總診療人次達106.5億，診療過程中產生了數量巨大、型別複雜的電子病歷資料。醫療機構系統林立，電子病歷格式各異，造成了資訊系統整合難、資料整合共享難、病歷歸檔利用難等問題。標準正為破解這些難題而研製。OFD是我國自主研發的版式文件標準，被稱為“中國的PDF”。OFD-H以此為基礎，針對我國電子病歷特點建立統一規範，並基於國產商用密碼升級病歷安全防護，為核實檔案來源、防範內容篡改提供堅實技術支撐，有利於提升關鍵醫療資料和核心業務的自主保障能力，維護醫患雙方合法權益。醫療機構完成統一適配後，既可查閱來自不同機構的病歷，也能核驗來源、提取資料，減少系統重複對接，為轉診、區域醫療協作及網際網路醫療等提供便利。同時還能整合病歷文書、醫學影像、音影片和結構化資料等資訊，同時支援視覺化檢視（人讀）和計算機讀取（機讀），既便於醫患雙方檢視，也為臨床診療、科研和人工智慧應用提供成體系的多模態資料。最佳化檔案組織和資源儲存，可有效降低病歷儲存和交換成本，併為歸檔利用提供有力支撐。"
-    },
-    {
-      "id": "5119932",
-      "time": "2026-09-30 11:00:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【豆包支援出行服務 上線“出行用豆包”專屬入口】豆包宣佈支援多種出行服務，使用者現已可透過豆包一站式完成機票預訂、火車票購買、打車及路線導航等多種出行需求，覆蓋從長途交通到市內出行的全場景。目前，豆包已上線“出行用豆包”專屬入口，精選地圖導航、交通出行、酒店住宿、吃喝玩樂四大場景的高頻推薦，為使用者提供更多出行、旅行建議。據介紹，此次出行服務升級，得益於豆包與多家行業頭部服務商的深度合作。在機票和火車票預訂方面，豆包與航班管家和高鐵管家合作，確保供給覆蓋與服務穩定性。在打車服務上，豆包與曹操出行等平臺達成合作。在導航功能上，百度地圖等合作方為豆包提供技術支援，提供公交、地鐵、駕車、步行等多種出行方式的路線規劃與實時導航。（新浪科技）"
-    },
-    {
-      "id": "5119931",
-      "time": "2026-09-30 11:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "法拉第未來計劃機器人工廠於2026年底前投產，目標明年第一季度實現首款新EAI機器人產品下線。"
-    },
-    {
-      "id": "5119929",
-      "time": "2026-09-30 10:59:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【億緯鋰能首個200MW/400MWh獨立共享儲能電站正式併網】9月29日，惠州日盛200MW/400MWh獨立共享儲能電站併網儀式舉行。惠州日盛200MW/400MWh獨立共享儲能電站是億緯鋰能首個併網的電網側獨立共享儲能電站，佔地25,333平方米，裝機200MW/400MWh，以220千伏接入電網，搭載公司自研儲能電芯逾45萬顆，年均充放電超1億度。"
-    },
-    {
-      "id": "5119928",
-      "time": "2026-09-30 10:59:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內漲3%，現報4938.00元。"
-    },
-    {
-      "id": "te:markets:587961",
-      "time": "2026-09-30 10:58:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "China 10Y Yield Remains at Over 1-Year Low — China’s 10-year government bond yield fell to around 1.68% on Wednesday, hovering near its lowest level since July 2025 as fresh policy stimulus and upbeat PMI data reinforced expectations of further support for the economy. Policymakers unveiled a new round of measures, including mortgage subsidies and expanded central bank funding support, while the State Council pledged to roll out \"a package of practical and effective additional policies.\" Despite solid exports and AI-driven support, China’s economy continues to face headwinds, particularly from weak consumer spending and a prolonged slump in the property sector. Meanwhile, official data showed China’s Composite PMI rose to 50.7 in September 2026, its highest since December 2025, as manufacturing (50.1 vs 49.8) and non-manufacturing (50.2 vs 49.0) returned to growth. A private survey also showed the Composite PMI climbed to 52.1, with manufacturing (52.1 vs 51.5) and services (51.6 vs 51.4) continuing to expand."
-    },
-    {
-      "id": "5119927",
-      "time": "2026-09-30 10:58:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【唐琿出任捨得酒業董事長兼總裁 復星體系仍控制捨得酒業】捨得酒業完成董事會換屆，唐琿當選董事長並續任總裁，李安華、羅超出任副總裁，鍾齡瑤續任首席財務官。唐琿此前自2023年12月起擔任捨得酒業總裁。天眼查App上市公司資訊顯示，捨得酒業註冊資本約3.32億元，當前董事長、總經理及法定代表人均顯示為唐琿。四川沱牌捨得集團有限公司持股約30.32%，為控股股東；股權穿透顯示，郭廣昌為實際控制人，最終受益股份約8.13%。此次變化屬於上市公司管理層換屆，未涉及控制權變更。"
-    },
-    {
-      "id": "5119926",
-      "time": "2026-09-30 10:57:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【丁宗紅任蘇銀金融租賃股份有限公司董事長】9月29日，蘇銀金融租賃股份有限公司公告，公司第三屆董事會第十九次會議審議透過《關於選舉蘇銀金融租賃股份有限公司董事長的議案》，經國家金融監督管理總局江蘇監管局核准批覆（蘇金復(2026)246號），丁宗紅擔任蘇銀金融租賃股份有限公司董事長。趙輝不再擔任公司董事長職務。"
-    },
-    {
-      "id": "5119925",
-      "time": "2026-09-30 10:57:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印尼央行（BI）：干預運算子合市場動態，不設定匯率點位目標。"
     }
   ]
 }

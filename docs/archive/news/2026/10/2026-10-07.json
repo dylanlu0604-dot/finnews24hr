@@ -1,7 +1,72 @@
 {
   "date": "2026-10-07",
-  "count": 653,
+  "count": 660,
   "items": [
+    {
+      "id": "5129382",
+      "time": "2026-10-07 11:00:27",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【瘦西湖文旅已透過港交所主機板聆訊】江蘇瘦西湖文化旅遊股份有限公司已透過港交所主機板上市聆訊，獨家保薦人為光大證券國際。"
+    },
+    {
+      "id": "te:markets:590014",
+      "time": "2026-10-07 11:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Prices Extend Gains — US natural gas prices climbed to around $3.13 per MMBtu, extending gains for a fourth session and reaching their highest level since September 25, supported by falling production, LNG feedgas flows, and expectations of more demand. Average gas output in the US Lower 48 states fell to 111.7 bcfd so far in October, down from record highs of 113.3 bcfd in both August and September, while daily production continued to drop partly due to recent force majeure events and other disruptions affecting pipelines in Kentucky, Texas, and West Virginia. LNG demand also provided support, with daily feedgas flows rising as Freeport LNG in Texas ramps up gas intake following the return of a liquefaction train from maintenance. Meanwhile, forecasts shifted warmer, with above-average temperatures expected across the western two-thirds of the US through October 10, which could lift cooling demand and gas consumption for power generation."
+    },
+    {
+      "id": "5129381",
+      "time": "2026-10-07 11:00:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國SET指數開盤下跌0.5%，報1574.15點。"
+    },
+    {
+      "id": "5129380",
+      "time": "2026-10-07 10:58:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG電子股價跌幅擴大；最新報214500韓元，跌幅7.7%。"
+    },
+    {
+      "id": "mkt:01a1144b-45b6-7ee0-a7c8-ce6612970d62",
+      "time": "2026-10-07 10:57:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni Houthi forces claimed to have used ballistic missiles and drones to strike a Saudi airbase in Khamis Mushait."
+    },
+    {
+      "id": "5129379",
+      "time": "2026-10-07 10:57:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱，他們已使用彈道導彈和無人機襲擊了沙烏地阿拉伯海米斯穆謝特的一處空軍基地。"
+    },
+    {
+      "id": "5129378",
+      "time": "2026-10-07 10:57:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國慶檔電影票房超10.7億元 “電影+”為消費注入新活力】今年國慶假期，電影市場持續火熱，多元題材影片集中登入院線。網路平臺資料顯示，截至今天上午10點，2026年國慶檔電影票房（含預售）已超10.7億元，各地也推出形式多樣的“電影+”活動，為假期消費注入新活力。中國銀聯遼寧分公司市場部副總經理佟明川：影迷朋友們觀影后，透過平臺完成電影票根的認證，即可解鎖全省近千家合作商戶的餐飲立減、商超滿減及住宿折扣等權益。此外，我們在購票端也實現了線上線下的全場景覆蓋，讓觀影的幸福感從影院延伸至生活日常。（央視新聞）"
+    },
     {
       "id": "mkt:01a1144a-d1e7-7ee0-a7c8-c45375bbc193",
       "time": "2026-10-07 10:56:49",
