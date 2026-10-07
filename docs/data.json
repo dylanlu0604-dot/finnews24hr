@@ -1,7 +1,44 @@
 {
-  "updated": "2026-10-08 00:47:50",
-  "count": 9013,
+  "updated": "2026-10-08 00:51:36",
+  "count": 9011,
   "items": [
+    {
+      "id": "mkt:01a11745-bb06-7ee0-a7dd-8e35f0ce43d5",
+      "time": "2026-10-08 00:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "US 10-year Treasury auction on Oct 7 — stop-out yield and BID-COVER RATIO due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a11743-c0ee-7ee0-a7dd-8001b50a48da",
+      "time": "2026-10-08 00:47:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "France will release 10 million barrels of diesel from its reserves, Franceinfo reported."
+    },
+    {
+      "id": "te:markets:590258",
+      "time": "2026-10-08 00:47:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Falls to 1-Year Low — Palladium futures fell below $1,230 an ounce to their lowest level since September 2025, pressured by investment flows and a weaker demand outlook. Elevated energy prices have fueled concerns over persistent inflation and debt affordability, pushing sovereign yields to multi-year highs and increasing the opportunity cost of holding non-yielding assets such as palladium. Additional supply could also weigh on prices, as a state-owned firm in Zimbabwe, the world’s third-largest platinum-group metal reserves, plans to develop a mining project in Darwendale next year. Over the longer term, however, rapid AI infrastructure expansion could support demand. Adding to the bearish pressure in the long-term, UBS forecasts a market surplus for the metal, as a decline in automotive demand is expected to more than offset lower mined output in South Africa, where elevated operating costs and power grid instability remain concerns, and Russia, where ongoing trade risks continue to weigh on supply."
+    },
     {
       "id": "mkt:01a11743-37b5-7ee0-a7dd-7debe9665d6e",
       "time": "2026-10-08 00:47:23",
@@ -82969,46 +83006,6 @@
         "MKT News"
       ],
       "text": "U.S. Senate Democrats blocked a new bill to restrict congressional stock trading, saying the measure was too weak."
-    },
-    {
-      "id": "mkt:01a0f33a-6054-7338-ab37-a12124f6c1d6",
-      "time": "2026-10-01 00:51:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US drone startup Powerus, linked to Trump’s son, is seeking to bring Ukrainian drone technology into the United States to meet Pentagon demand."
-    },
-    {
-      "id": "5121545",
-      "time": "2026-10-01 00:50:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院民主黨人阻止了一項對國會議員股票交易設定新限制的法案，稱該法案約束力度過弱。"
-    },
-    {
-      "id": "5121544",
-      "time": "2026-10-01 00:50:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "監測組織稱，土耳其因基金危機相關帖子再封禁147個X平臺賬號。"
-    },
-    {
-      "id": "mkt:01a0f338-6b32-7338-ab37-9c816f6d5788",
-      "time": "2026-10-01 00:49:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US extends special license for Serbia oil company to Oct 30】On Sept. 30 the US Treasury’s Office of Foreign Assets Control issued a special license extending authorization for Serbia’s oil company through Oct. 30, permitting the company and the country’s only active refinery, Pancevo, to continue operating."
-    },
-    {
-      "id": "5121543",
-      "time": "2026-10-01 00:48:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "與特朗普之子有關聯的無人機初創企業計劃將烏克蘭的（無人機）技術引入美國。"
     }
   ]
 }

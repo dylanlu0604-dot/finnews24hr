@@ -1,7 +1,44 @@
 {
   "date": "2026-10-08",
-  "count": 49,
+  "count": 52,
   "items": [
+    {
+      "id": "mkt:01a11745-bb06-7ee0-a7dd-8e35f0ce43d5",
+      "time": "2026-10-08 00:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "US 10-year Treasury auction on Oct 7 — stop-out yield and BID-COVER RATIO due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a11743-c0ee-7ee0-a7dd-8001b50a48da",
+      "time": "2026-10-08 00:47:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "France will release 10 million barrels of diesel from its reserves, Franceinfo reported."
+    },
+    {
+      "id": "te:markets:590258",
+      "time": "2026-10-08 00:47:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Falls to 1-Year Low — Palladium futures fell below $1,230 an ounce to their lowest level since September 2025, pressured by investment flows and a weaker demand outlook. Elevated energy prices have fueled concerns over persistent inflation and debt affordability, pushing sovereign yields to multi-year highs and increasing the opportunity cost of holding non-yielding assets such as palladium. Additional supply could also weigh on prices, as a state-owned firm in Zimbabwe, the world’s third-largest platinum-group metal reserves, plans to develop a mining project in Darwendale next year. Over the longer term, however, rapid AI infrastructure expansion could support demand. Adding to the bearish pressure in the long-term, UBS forecasts a market surplus for the metal, as a decline in automotive demand is expected to more than offset lower mined output in South Africa, where elevated operating costs and power grid instability remain concerns, and Russia, where ongoing trade risks continue to weigh on supply."
+    },
     {
       "id": "mkt:01a11743-37b5-7ee0-a7dd-7debe9665d6e",
       "time": "2026-10-08 00:47:23",
