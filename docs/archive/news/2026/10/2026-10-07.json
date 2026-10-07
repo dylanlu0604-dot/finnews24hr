@@ -1,7 +1,71 @@
 {
   "date": "2026-10-07",
-  "count": 660,
+  "count": 667,
   "items": [
+    {
+      "id": "mkt:01a11451-46e3-7ee0-a7c8-e2426bbae8ea",
+      "time": "2026-10-07 11:03:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CNPC Huabei oilfield posts reserve peak and production growth, bolstering energy security】China National Petroleum Corp (CNPC) said the Bayan oilfield in the Hetao Basin, Inner Mongolia, reached 5,080 t/d of crude — the first time above 5,000 t/d and a record high — marking a step-up in reserves and output in CNPC’s Huabei oilfield new area. CNPC engineer Liu Jing said technology-led exploration, including a late-stage rapid-subsidence basin theory and breakthroughs in deep continental clastic reservoirs, delivered western Inner Mongolia’s first million-tonne-per-year oilfield. Huabei’s crude output has held at the c.5 mln tonnes level for two consecutive years and remained stable; through end-September Huabei produced 3.86 mln tonnes YTD, with Bayan up 14% YoY and accounting for nearly one-third of Huabei’s daily output. CNPC said the reserve additions and output gains provide replicable experience for boosting production in mature onshore oilfield new areas."
+    },
+    {
+      "id": "5129386",
+      "time": "2026-10-07 11:03:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡將於10月14日釋出第三季度國內生產總值(GDP)初步預估資料。"
+    },
+    {
+      "id": "5129385",
+      "time": "2026-10-07 11:02:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股半導體股集體下跌 瀾起科技跌近8%】港股半導體股集體下跌，瀾起科技跌近8%，愛芯元智跌超5%，納芯微、晶合整合、兆易創新跌超4%，華虹宏力、江波龍、上海復旦跌超2%。"
+    },
+    {
+      "id": "mkt:01a1144f-7ffd-7ee0-a7c8-dfaf1660239c",
+      "time": "2026-10-07 11:01:56",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact mixed",
+        "CSI300"
+      ],
+      "text": "【Shenzhen property market during National Day: price no longer decisive】Field checks across Shenzhen's Longgang and Longhua districts during the National Day holiday show developers stepping up incentives—appliance giveaways, discounts and cash rebates—while viewing volumes remain roughly in line with prior years. Sales staff report visitor numbers rose but transactions did not, with longer decision cycles and heavier price comparison; market is bifurcated—a few projects stay active but most cooled versus late September. Buyers are prioritizing delivery certainty and product quality; price is no longer the sole deciding factor. Leyoujia Research Center data: Oct 1–5 Shenzhen new-home contracts +9% YoY, resale contracts +11% YoY. On Oct 1, one-day first-home viewings rose over 169.3% sequentially and signings rose 160% sequentially, with visits at the highest level since mid-September. Li Yujia, chief researcher at Guangdong Housing Policy Research Center, says Shenzhen is likely experiencing a structural 'Golden October'—transaction volumes may rebound sequentially but a simultaneous rise in prices is unlikely; demand will concentrate in high-value, well-located, high-quality projects, while a shortage of standout inventory versus abundant average stock persists."
+    },
+    {
+      "id": "5129384",
+      "time": "2026-10-07 11:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "Susquehanna將Marvell Technology的目標價從265美元上調至340美元。"
+    },
+    {
+      "id": "mkt:01a1144f-580f-7ee0-a7c8-d5c3a605edb9",
+      "time": "2026-10-07 11:01:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MAS to release monetary policy statement on Oct. 14."
+    },
+    {
+      "id": "5129383",
+      "time": "2026-10-07 11:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金管局將於10月14日釋出貨幣政策宣告。"
+    },
     {
       "id": "5129382",
       "time": "2026-10-07 11:00:27",
