@@ -1,7 +1,197 @@
 {
-  "updated": "2026-10-07 18:12:54",
-  "count": 9127,
+  "updated": "2026-10-07 18:16:41",
+  "count": 9143,
   "items": [
+    {
+      "id": "mkt:01a115dc-e1a3-7ee0-a7d3-ac52e04ba919",
+      "time": "2026-10-07 18:15:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Kremlin said, in response to France's test of a nuclear-capable missile, that establishing a European defense identity aimed at confronting Russia is a dead end."
+    },
+    {
+      "id": "mkt:01a115dc-bb76-7ee0-a7d3-a56285a02916",
+      "time": "2026-10-07 18:15:49",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Kremlin says problems should be resolved through dialogue, not missile launches."
+    },
+    {
+      "id": "mkt:01a115dc-98b6-7ee0-a7d3-98eb86821849",
+      "time": "2026-10-07 18:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said most media reports about the Siberian plague laboratory incident are incorrect."
+    },
+    {
+      "id": "5130016",
+      "time": "2026-10-07 18:15:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就法國試射可攜帶核彈頭的導彈表態：將歐洲防務認同構建在與俄羅斯對抗的基礎上是死衚衕。相關問題需透過對話解決，而非發射導彈。"
+    },
+    {
+      "id": "mkt:01a115dc-84f1-7ee0-a7d3-94ad16b30c44",
+      "time": "2026-10-07 18:15:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed minutes to show depth of officials' split】The Fed will release minutes of the September policy meeting at 2:00 a.m. Thursday; markets broadly expect officials to leave rates unchanged in October. Minutes are expected to reveal a wider split on the future rate path that could influence the Fed's next moves: some officials view inflation as persistent and favor further tightening — Dallas Fed President Logan says at least two additional 25bp hikes are needed — while others, including New York Fed President Williams and Vice Chair Jefferson, urge patience, saying there is no need to rush another rate increase."
+    },
+    {
+      "id": "mkt:01a115dc-6de2-7ee0-a7d3-8f83037852e5",
+      "time": "2026-10-07 18:15:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Russia has informed the World Health Organization, under established procedures, of the death of a plague laboratory employee."
+    },
+    {
+      "id": "5130015",
+      "time": "2026-10-07 18:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，俄羅斯已按照既定程式向世界衛生組織通報了鼠疫實驗室一名員工死亡的事件。"
+    },
+    {
+      "id": "5130014",
+      "time": "2026-10-07 18:15:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮：媒體目前報道的關於西伯利亞鼠疫實驗室事件的內容大多不實。"
+    },
+    {
+      "id": "mkt:01a115dc-4916-7ee0-a7d3-80c8aef841ec",
+      "time": "2026-10-07 18:15:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Poland's energy minister said the country is prepared to release energy inventories if a collective agreement is reached."
+    },
+    {
+      "id": "5130013",
+      "time": "2026-10-07 18:15:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，普京與特朗普的通話目前尚未達成任何安排。"
+    },
+    {
+      "id": "mkt:01a115dc-437c-7ee0-a7d3-7f696639ad83",
+      "time": "2026-10-07 18:15:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Reserve Bank of India’s first rate hike in four years fails to lift rupee; currency nears record low】Reserve Bank of India raised the repo rate 25bps to 5.50% — its first hike in four years — and shifted policy stance from \"neutral\" to \"calibrated tightening\". Governor Sanjay Malhotra said this signals entry into a \"relatively mild\" tightening cycle. The Indian rupee slid as much as 0.4% to 96.85 per US dollar on Wednesday, the worst-performing Asian currency that day and approaching May’s record low of 96.9650; traders said the 25bp hike and the absence of more aggressive liquidity tightening were insufficiently hawkish to offset pressure from higher oil prices and rising US interest rates."
+    },
+    {
+      "id": "mkt:01a115dc-3044-7ee0-a7d3-7393a97a70ec",
+      "time": "2026-10-07 18:15:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Poland's energy minister said he expects the IEA will not decide today on releasing oil and diesel stocks."
+    },
+    {
+      "id": "5130012",
+      "time": "2026-10-07 18:15:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "多倫茨：歐洲央行不負責財政政策。"
+    },
+    {
+      "id": "5130011",
+      "time": "2026-10-07 18:14:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭能源部長莫蒂卡表示，若達成集體共識，波蘭準備釋放庫存。"
+    },
+    {
+      "id": "mkt:01a115db-cd68-7ee0-a7d3-6d265b863c2a",
+      "time": "2026-10-07 18:14:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "South Korea's Blue House said it is closely reviewing facts and export controls on fuel shipments to Russia."
+    },
+    {
+      "id": "mkt:01a115db-b82a-7ee0-a7d3-6684cae98a44",
+      "time": "2026-10-07 18:14:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's presidential office said Ukraine's comments that Seoul supported shipments of fuel to Russia are not true."
+    },
+    {
+      "id": "5130010",
+      "time": "2026-10-07 18:14:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭能源部長莫蒂卡：預計國際能源署今日不會就石油、柴油庫存問題作出決定。"
+    },
+    {
+      "id": "5130009",
+      "time": "2026-10-07 18:14:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國改革黨捐款調查已證明該黨官員無不當行為。"
+    },
+    {
+      "id": "5130008",
+      "time": "2026-10-07 18:13:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國青瓦臺：烏克蘭有關韓國為俄羅斯油料運輸提供支援的說法不實。"
+    },
+    {
+      "id": "te:economy:590167",
+      "time": "2026-10-07 18:12:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macedonia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "North Macedonia Inflation at 3-Month High — The inflation rate in North Macedonia inched up by 2.7% year-on-year in September 2026 from 2.6% in the previous month. This marked the highest reading in three months as costs increased for food and non-alcoholic beverages (1.7% vs 1.0% in August), clothing and footwear (2.7% vs 2.1%), furniture and household equipment (2.2% vs 1.7%), education (5.4% vs 5.0%), restaurants and hotels (5.8% vs 4.8%), and miscellaneous goods and services (2.6% vs 1.9%). Moreover, price growth remained steady for insurance and financial services (at 0.3%). On the other hand, inflation moderated for alcoholic beverages and tobacco (6.5% vs 9.4%), housing utilities (3.7% vs 3.8%), health (1.3% vs 1.5%), transportation (3.3% vs 3.4%), information and communication (0.4% vs 1.9%), and recreation and culture (6.3% vs 8.8%). On a monthly basis, consumer prices stagnated in August, following a 0.4% increase in the preceding period."
+    },
     {
       "id": "5130007",
       "time": "2026-10-07 18:11:52",
@@ -84139,46 +84329,6 @@
         "Importance 1"
       ],
       "text": "Ireland Retail Sales Growth Eases in August — Retail sales in Ireland rose by 0.6% month-on-month in August 2026, easing from an upwardly revised six-month high of 1.6% in the previous month, marking the weakest growth since April. The slowdown was mainly driven by notable declines in sales of pharmaceuticals, medical and cosmetic articles (-4.3%) and fuel (-2.8%). Fuel sales also weakened, falling by 2.3% in value, while increasing by 1.8% in volume. On the other hand, the declines were partly offset by increases in sales of furniture and lighting (+2.6%), clothing, footwear, and textiles (+2.2%), and bars (+1.9%). On an annual basis, retail activity jumped 4.3% in August, following an upwardly revised 2.7% growth in the preceding period, marking the highest growth since August 2023."
-    },
-    {
-      "id": "te:economy:588195",
-      "time": "2026-09-30 18:14:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Ireland Jobless Rate Steady at 5% — Ireland’s seasonally adjusted unemployment rate rose to 5.0% in September 2026, matching the rate recorded in the previous two months and slightly above 4.9% in the same month last year. The total number of unemployed people increased by 900 from the previous month and by 5,800 from a year earlier, reaching 149,500. By gender, the unemployment rate for women held steady at 5.2% from August, while the number of unemployed women decreased by 300 to 72,800. For men, the unemployment rate edged up to 4.9% from 4.8%, with the number of unemployed men rising by 1,200 to 76,700. Meanwhile, the youth unemployment rate among those aged 15-24 edged up to 12.5% from 12.4% in August, while the rate for those aged 25-74 remained unchanged at 4.0%."
-    },
-    {
-      "id": "te:economy:588193",
-      "time": "2026-09-30 18:14:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Macedonia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "North Macedonia Retail Sales Growth Slows — North Macedonia’s retail sales rose 3.6% year-on-year in August 2026, slowing from a 5.6% increase in July. The moderation was mainly driven by weaker activity in the retail trade of automotive fuel, where sales growth eased to 8.4% from 13.2% in the previous month. Excluding fuel, retail sales growth also slowed, to 2.3% from 3.6%, while sales of non-food products increased 2.3%, down sharply from 6.7% in July. In contrast, retail sales of food, beverages and tobacco accelerated, rising 1.2% year-on-year after remaining flat in July."
-    },
-    {
-      "id": "mkt:01a0f1cd-e4f0-7338-ab2e-188c43a78429",
-      "time": "2026-09-30 18:13:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【LinkedIn: AI security jobs up 91% YoY】LinkedIn CEO Daniel Shapero said overall hiring remains stalled but some roles are expanding. LinkedIn research found AI security job openings rose 91% YoY over the past year; recent high-profile security incidents and ongoing bipartisan U.S. AI safety discussions are boosting demand. Roles include technical research, risk mitigation, policy work and integrating safety frameworks into AI products, and typically command above-average pay."
-    },
-    {
-      "id": "mkt:01a0f1cd-c2fa-7338-ab2e-1351b16367e6",
-      "time": "2026-09-30 18:13:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "German health minister Linnemann held an unscheduled press briefing on long-term care reform."
     }
   ]
 }
