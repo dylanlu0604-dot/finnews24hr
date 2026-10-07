@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-08 00:16:38",
-  "count": 9037,
+  "updated": "2026-10-08 00:20:42",
+  "count": 9034,
   "items": [
+    {
+      "id": "5130549",
+      "time": "2026-10-08 00:19:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：儘管情緒有時會讓美國與歐洲之間的友好紐帶承壓，但絕不能任由其斷裂。我們必須攜手鞏固這一聯盟，使其有能力應對我們這個時代面臨的各類威脅。"
+    },
+    {
+      "id": "mkt:01a11729-9650-7ee0-a7dd-511db61aac9e",
+      "time": "2026-10-08 00:19:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said that while public sentiment can at times strain U.S.-Europe ties, those ties must not be allowed to fracture; allies must strengthen the alliance to meet the threats of our time."
+    },
+    {
+      "id": "te:markets:590252",
+      "time": "2026-10-08 00:16:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "France Stocks Drop on Fiscal and Geopolitical Risks — The CAC 40 fell 1.2% to close at 7,769 on Wednesday, reversing the previous session’s gains and hitting its lowest level since March as geopolitical tensions and concerns over France’s fiscal outlook weighed on sentiment. Oil prices rose on renewed supply risks, raising inflationary pressures, while global yields resumed their rally. Meanwhile, ECB Governing Council member Emmanuel Moulin said France’s bond-market situation is serious but does not warrant intervention. Concerns over the government deficit persisted, weighing on credit-sensitive stocks. BNP Paribas shed 3.9% and Societe Generale lost 5%. Industrials also declined, with Safran down 3% and Schneider Electric losing 2.3%. On the economic front, France’s trade deficit narrowed to €6.1 billion in August from a revised €6.6 billion in July, beating expectations for a €6.5 billion shortfall. Luxury stocks outperformed, with LVMH up 0.7%."
+    },
     {
       "id": "te:markets:590251",
       "time": "2026-10-08 00:14:30",
@@ -83185,63 +83213,6 @@
         "Impact bearish"
       ],
       "text": "Italian Prime Minister Meloni said the EU's proposal to revise the emissions trading system (ETS) is insufficient."
-    },
-    {
-      "id": "mkt:01a0f31e-2201-7338-ab37-2ac33d9e277d",
-      "time": "2026-10-01 00:20:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump posted criticism of Fox News, saying the network gives Democrats excessive airtime to attack Republicans."
-    },
-    {
-      "id": "5121520",
-      "time": "2026-10-01 00:20:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利總理梅洛尼表示，歐盟關於修訂碳排放交易體系（ETS）的提案並不充分。"
-    },
-    {
-      "id": "5121519",
-      "time": "2026-10-01 00:18:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在社交媒體發文抨擊福克斯新聞。"
-    },
-    {
-      "id": "mkt:01a0f31b-644d-7338-ab37-22be0640e93b",
-      "time": "2026-10-01 00:17:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "VON DER LEYEN said Albania is among the first group of candidates in the EU accession process; the Commission is drawing up accession roadmaps for all initial candidate countries."
-    },
-    {
-      "id": "5121518",
-      "time": "2026-10-01 00:16:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "對沖基金億萬富豪比爾·阿克曼：女兒的疾病促使我投資了大腦研究所。"
-    },
-    {
-      "id": "mkt:01a0f31a-95c0-7338-ab37-1d075f2b6ea9",
-      "time": "2026-10-01 00:16:40",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Italy plans to spend €14 billion, invoking the EU escape clause to lower corporate energy costs."
     }
   ]
 }
