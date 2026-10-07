@@ -1,7 +1,33 @@
 {
   "date": "2026-10-07",
-  "count": 479,
+  "count": 482,
   "items": [
+    {
+      "id": "5129272",
+      "time": "2026-10-07 08:25:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報101.59美元/桶。"
+    },
+    {
+      "id": "5129271",
+      "time": "2026-10-07 08:23:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通：將濰柴動力目標價由55港元上調至57港元，維持增持評級。"
+    },
+    {
+      "id": "mkt:01a113bd-e9cf-7ee0-a7c7-526003d0fbaf",
+      "time": "2026-10-07 08:22:55",
+      "tags": [
+        "MKT News",
+        "GM.O",
+        "Impact bullish"
+      ],
+      "text": "Samsung said Samsung Wallet now supports digital key functionality for select General Motors models, initially for certain 2026 and 2027 Cadillac electric vehicles."
+    },
     {
       "id": "5129270",
       "time": "2026-10-07 08:20:52",
