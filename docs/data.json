@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-07 11:08:53",
-  "count": 9398,
+  "updated": "2026-10-07 11:12:42",
+  "count": 9395,
   "items": [
+    {
+      "id": "te:markets:590017",
+      "time": "2026-10-07 11:12:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Futures Rise on US Harvest Concerns — Corn futures rose toward $5.1 per bushel, hitting a one-week high as concerns over delayed US harvesting and weaker crop conditions supported prices. Only 23% of the US corn crop had been harvested by October 4, below the 27% five-year average and 26% expected by analysts, after heavy Midwest rainfall delayed fieldwork. The share of the crop rated good-to-excellent also fell to 54% from 57% a week earlier. Meanwhile, export demand remains relatively firm, with 2026/27 shipments running 4.4% above last year at a record pace for this point in the marketing year, despite weekly inspections falling to 1.368 million tonnes. Elsewhere, Brazil’s first corn crop was 38% planted, slightly behind 40% a year earlier. Traders now await Friday’s USDA report for updated production and yield estimates, with current forecasts at 178.5 bushels per acre and 15.8 billion bushels of output."
+    },
+    {
+      "id": "5129390",
+      "time": "2026-10-07 11:11:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【飛豬釋出《2026國慶出遊快報》：網紅打卡退潮，“原生旅遊”崛起】10月7日上午訊息，飛豬釋出《2026國慶假期出遊快報》。假期之初，飛豬觀察到“原生旅遊”正成為出遊新趨勢。“原生旅遊”帶動下，飛豬平臺自然風光及村寨商品預訂量同比增長超40%，喀什、百色、海西、宣城、武威等小城熱度領先，成為這一趨勢的代表性目的地。在“原生旅遊”的細分玩法中，“古村遊”的熱度尤為明顯。飛豬資料顯示，預訂“古村類”相關商品的使用者數同比增長超90%。同時，以非遺手作體驗為代表的“報班遊”是“原生旅遊”的另一種開啟方式，非遺手作體驗及參觀類商品預訂量同比翻倍增長。"
+    },
+    {
+      "id": "5129389",
+      "time": "2026-10-07 11:11:03",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【前瞻：食品價格上漲，9月CPI或溫和回升】國家統計局將於10月14日9時30分公佈9月物價資料。機構認為，9月居民消費價格（CPI）或溫和回升，但仍處於偏低水平；國際油價再度上行將帶動9月工業生產者出廠價格（PPI）增速回升。（澎湃）"
+    },
+    {
+      "id": "te:economy:590016",
+      "time": "2026-10-07 11:09:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "China Foreign Exchange Reserves Decline — China’s foreign exchange reserves fell to $3.4 trillion at the end of September 2026, down $38.1 billion from a month earlier. The decline was attributed to a negative valuation effect, with a stronger US dollar and surging US Treasury yields likely reducing the value of China’s reserves. Meanwhile, the People’s Bank of China increased its gold holdings to 77.47 million fine troy ounces from 76.73 million ounces at the end of August, extending its gold-buying streak to nearly two years."
+    },
     {
       "id": "mkt:01a11454-7bcd-7ee0-a7c8-ebd12bc029be",
       "time": "2026-10-07 11:07:23",
@@ -86507,75 +86547,6 @@
         "Greater China"
       ],
       "text": "China 30-year government bond futures (TL) most-active contract fell more than 0.50% intraday to 116.93 yuan."
-    },
-    {
-      "id": "mkt:01a0f04c-0f8a-7338-ab23-96dcdc946369",
-      "time": "2026-09-30 11:11:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share property sector rebounded after bottoming; Zhongtian Service surged straight to the daily limit, while Lujiazui, Nanjing Gaoke and Binjiang Group also gained."
-    },
-    {
-      "id": "5119947",
-      "time": "2026-09-30 11:10:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒：美國主導的國際聯盟部隊全部撤離伊拉克，相比原計劃提前一天】據卡達半島電視臺當地時間29日報道，伊拉克國防部發言人向該媒體表示，美國主導的國際聯盟部隊已全部撤出伊拉克，相比原計劃提前一天。 報道稱，伊拉克武裝部隊總司令發言人葉海亞·拉蘇爾表示，伊拉克將繼續保持與美國主導的國際聯盟的關係。他同時表示，伊拉克軍隊有能力捍衛國家主權。 此前，伊拉克總理新聞辦公室8月12日發表宣告說，伊拉克總理扎伊迪當天在會見美軍中央司令部司令庫珀時重申，今年9月30日是美國主導的打擊“伊斯蘭國”國際聯盟部隊結束在伊軍事任務並完成撤軍的最終期限。 美國2003年發動伊拉克戰爭，2011年底基本撤軍，僅留少量駐軍。極端組織“伊斯蘭國”2014年奪取伊拉克西部和北部大片地區，國際聯盟隨後增兵伊拉克。2017年12月，伊拉克政府宣佈擊敗“伊斯蘭國”。（環球網）"
-    },
-    {
-      "id": "5119946",
-      "time": "2026-09-30 11:10:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【房地產板塊探底回升，中天服務直線漲停】房地產板塊探底回升，中天服務直線漲停，陸家嘴、南京高科、濱江集團跟漲。萬科A漲1.47%，此前一度跌停。"
-    },
-    {
-      "id": "5119945",
-      "time": "2026-09-30 11:10:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Omdia：二季度全球公共顯示屏及標牌電視出貨量超過173萬臺】Omdia最新《公共顯示市場追蹤》研究顯示，2026年第二季度全球公共顯示屏及標牌電視出貨量超過173萬臺，高於上一季度的161萬臺。其中，IFP/觸控顯示屏引領市場增長，出貨量環比增長13.7%，同比增長0.7%。"
-    },
-    {
-      "id": "te:markets:587962",
-      "time": "2026-09-30 11:10:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Eases from 15-Year Peaks — Australia’s 10-year government bond yield fell below 5.4%, retreating from its highest level since mid-2011, as August inflation figures undershot forecasts, trimming bets of further policy tightening. The monthly CPI rose 0.4%, below the expected 0.5%, while the annual pace accelerated to 4% from 3.5% in July but remained below the 4.1% forecast. The trimmed-mean measure of core inflation rose 0.2% month-over-month, also below the 0.3% forecast, although annual core inflation held at 3.6% for a third straight month and remained above the RBA’s 2–3% target band, a key factor behind the central bank’s decision to lift rates to a 15-year high of 4.60% in September. The marginal inflation miss led traders to cut the odds of another hike in November to 20% from 36% before the data, while the next increase is now seen more likely in March rather than February. Meanwhile, rising inflation risks from elevated oil prices and the Federal Reserve’s tightening outlook kept global yields higher."
-    },
-    {
-      "id": "mkt:01a0f049-ee5f-7338-ab23-8bd1af79f031",
-      "time": "2026-09-30 11:09:31",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Yen breaches 157 as Japanese warnings and quarter‑end flows fuel rebound】The yen breached the 157 per dollar mark on Wednesday after repeated exchange‑rate warnings from the Japanese government and quarter‑end funding flows. In Asian trade the currency had earlier rallied about 0.6% to 156.38, making it the strongest G10 performer. A senior Japanese currency official said Tokyo and Washington have recently sent \"very clear\" signals on concern over yen depreciation. Prime Minister Takaichi said Trump raised worries about yen weakness during a meeting last week. OCBC strategist Moh Siong Sim said markets appear to be shifting toward expectations of policy more supportive of the yen, and Sumitomo Mitsui Trust trading head Koike Shinya flagged quarter‑end flows as an additional driver."
-    },
-    {
-      "id": "5119944",
-      "time": "2026-09-30 11:09:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【FF：機器人工廠目標年底前投入運營】9月30日，法拉第未來表示，正加快推進Next Futurist、Next Aegis、供應鏈、合規及美國本土製造，啟動向FCC申請機器人產品有條件批准；機器人工廠目標今年底前投入運營，首款新EAI本體產品目標於2027年Q1下線。"
     }
   ]
 }

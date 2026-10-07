@@ -1,7 +1,47 @@
 {
   "date": "2026-10-07",
-  "count": 671,
+  "count": 675,
   "items": [
+    {
+      "id": "te:markets:590017",
+      "time": "2026-10-07 11:12:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Futures Rise on US Harvest Concerns — Corn futures rose toward $5.1 per bushel, hitting a one-week high as concerns over delayed US harvesting and weaker crop conditions supported prices. Only 23% of the US corn crop had been harvested by October 4, below the 27% five-year average and 26% expected by analysts, after heavy Midwest rainfall delayed fieldwork. The share of the crop rated good-to-excellent also fell to 54% from 57% a week earlier. Meanwhile, export demand remains relatively firm, with 2026/27 shipments running 4.4% above last year at a record pace for this point in the marketing year, despite weekly inspections falling to 1.368 million tonnes. Elsewhere, Brazil’s first corn crop was 38% planted, slightly behind 40% a year earlier. Traders now await Friday’s USDA report for updated production and yield estimates, with current forecasts at 178.5 bushels per acre and 15.8 billion bushels of output."
+    },
+    {
+      "id": "5129390",
+      "time": "2026-10-07 11:11:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【飛豬釋出《2026國慶出遊快報》：網紅打卡退潮，“原生旅遊”崛起】10月7日上午訊息，飛豬釋出《2026國慶假期出遊快報》。假期之初，飛豬觀察到“原生旅遊”正成為出遊新趨勢。“原生旅遊”帶動下，飛豬平臺自然風光及村寨商品預訂量同比增長超40%，喀什、百色、海西、宣城、武威等小城熱度領先，成為這一趨勢的代表性目的地。在“原生旅遊”的細分玩法中，“古村遊”的熱度尤為明顯。飛豬資料顯示，預訂“古村類”相關商品的使用者數同比增長超90%。同時，以非遺手作體驗為代表的“報班遊”是“原生旅遊”的另一種開啟方式，非遺手作體驗及參觀類商品預訂量同比翻倍增長。"
+    },
+    {
+      "id": "5129389",
+      "time": "2026-10-07 11:11:03",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【前瞻：食品價格上漲，9月CPI或溫和回升】國家統計局將於10月14日9時30分公佈9月物價資料。機構認為，9月居民消費價格（CPI）或溫和回升，但仍處於偏低水平；國際油價再度上行將帶動9月工業生產者出廠價格（PPI）增速回升。（澎湃）"
+    },
+    {
+      "id": "te:economy:590016",
+      "time": "2026-10-07 11:09:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "China Foreign Exchange Reserves Decline — China’s foreign exchange reserves fell to $3.4 trillion at the end of September 2026, down $38.1 billion from a month earlier. The decline was attributed to a negative valuation effect, with a stronger US dollar and surging US Treasury yields likely reducing the value of China’s reserves. Meanwhile, the People’s Bank of China increased its gold holdings to 77.47 million fine troy ounces from 76.73 million ounces at the end of August, extending its gold-buying streak to nearly two years."
+    },
     {
       "id": "mkt:01a11454-7bcd-7ee0-a7c8-ebd12bc029be",
       "time": "2026-10-07 11:07:23",
