@@ -1,7 +1,65 @@
 {
   "date": "2026-10-07",
-  "count": 1111,
+  "count": 1117,
   "items": [
+    {
+      "id": "5129948",
+      "time": "2026-10-07 17:21:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數收盤下跌1.6%，報5608.44點。"
+    },
+    {
+      "id": "mkt:01a115aa-84b7-7ee0-a7d2-9dee57ec41f7",
+      "time": "2026-10-07 17:20:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01138.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing shows BlackRock's long position in COSCO Shipping Energy Transportation (01138.HK) H‑shares rose to 7.27% on Oct. 2 from 6.07%."
+    },
+    {
+      "id": "5129947",
+      "time": "2026-10-07 17:20:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "港交所檔案顯示，貝萊德在中遠海能<1138.HK>H股的持倉比例於10月2日從6.07%升至7.27%。"
+    },
+    {
+      "id": "5129946",
+      "time": "2026-10-07 17:20:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行多倫茨：當前貨幣政策立場可應對各類衝擊】歐央行管理委員會成員普里莫茲・多倫茨表示，歐洲央行現行貨幣政策立場能夠讓政策官員對任何衝擊作出反應。他週三稱：“我們評估，當前利率水平具備充足彈性，足以應對後續形勢變化。” 他補充，後續政策行動仍取決於通脹預期以及相關風險。多倫茨在盧布林雅那發表講話時表示，“地緣戰略風險與高能源價格仍是重要不確定性來源，這體現為持續的通脹壓力。”"
+    },
+    {
+      "id": "mkt:01a115a9-4deb-7ee0-a7d2-9590e2b2f641",
+      "time": "2026-10-07 17:19:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02333.HK"
+      ],
+      "text": "According to an HKEX filing, BlackRock's long position in the H-shares of Great Wall Motors (02333.HK) fell to 10.97% from 11.58% on Oct. 2."
+    },
+    {
+      "id": "mkt:01a115a8-c21e-7ee0-a7d2-8c5e3cafc6c3",
+      "time": "2026-10-07 17:19:03",
+      "tags": [
+        "MKT News",
+        "03750.HK",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing shows Morgan Stanley's short position in CATL's H shares (03750.HK) fell to 5.05% on Oct. 2 from 5.98%."
+    },
     {
       "id": "5129945",
       "time": "2026-10-07 17:18:38",
