@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-07 11:28:00",
-  "count": 9391,
+  "updated": "2026-10-07 11:31:52",
+  "count": 9388,
   "items": [
+    {
+      "id": "5129411",
+      "time": "2026-10-07 11:31:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比 <INR=IN> 開盤持平，報1美元兌96.42盧比。"
+    },
+    {
+      "id": "5129410",
+      "time": "2026-10-07 11:30:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行稱，截至10月6日，銀行現金餘額為8.02萬億盧比。"
+    },
+    {
+      "id": "5129409",
+      "time": "2026-10-07 11:30:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【力爭到2030年叢集營收超5000億元 浙江全鏈條支撐生物醫藥產業發展】為加快培育生物醫藥領域新質生產力，推動產業高質量發展，浙江省政府辦公廳日前印發《關於促進生物醫藥產業高質量發展的指導意見》，明確提出，力爭到2030年，全省規模以上生物醫藥企業研發費用佔營業收入比重的7%左右，在關鍵共性技術、前沿引領領域實現重要突破，生物醫藥產業叢集營業收入超5000億元。《指導意見》以臨床需求為牽引，將加快佈局細胞與基因治療、抗體藥物、核酸藥物、放射性藥品、現代中藥、醫學人工智慧與高階醫療器械等領域，制定重點研發清單，實施一批應用基礎研究專案和重大科技專項。企業創新主體地位進一步強化，為此浙江將建立領軍型和高成長型企業培育庫，企業牽頭或參與的省重大科技計劃專案佔比不低於80%。"
+    },
+    {
+      "id": "mkt:01a11468-eb7a-7ee0-a7c9-48a91799f320",
+      "time": "2026-10-07 11:29:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan may add nuclear-powered submarine study to security documents】Japanese media cited sources saying the government is considering language in revised security papers to 'launch research on introducing nuclear-powered submarines.' The proposed wording would likely stop short of presuming ownership, instead framing the item as a future research-and-discussion entry point. Inclusion would enable the government to begin investigative studies. A ruling-party official said phrasing such as 'repeated study and discussion' would permit public simulation of operational use and cost calculations. Prime Minister TAKAICHI has pushed revisions to the security documents and seeks to modify Japan's three non-nuclear principles. Chief Cabinet Secretary KIHARA and Defense Minister Shinjiro Koizumi have said discussion of possessing nuclear-powered submarines should not be ruled out, drawing domestic and international criticism."
+    },
+    {
+      "id": "5129408",
+      "time": "2026-10-07 11:29:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日安保三檔案或添核潛艇內容】據日本媒體今天（10月7日）援引訊息人士的話報道，日本政府正考慮在修改的“安保三檔案”中寫入“啟動研究引進核動力潛艇”相關內容。日媒報道稱，相關表述可能不會以“擁有”為前提，而是寫入“作為今後研究和討論切入點”的內容。據悉，如果在“安保三檔案”中寫入“研究引進核動力潛艇”內容，將為日本政府啟動相關調查研究創造條件。一位執政黨高層表示，如果寫入“反覆研究討論”，就可以公開模擬運用和演算成本。日本首相高市早苗上臺以來，一直推動修訂“安保三檔案”，試圖修改“無核三原則”。日本內閣官房長官木原稔和防衛大臣小泉進次郎都曾表示，“不應排除關於擁有核動力潛艇的討論”，引發國內外反對和批評。（CCTV國際時訊）"
+    },
+    {
+      "id": "5129407",
+      "time": "2026-10-07 11:28:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "Blue Cloud Softech Solutions旗下子公司將為IBM Cloud提供AI基礎設施服務，合同金額1550萬美元。"
+    },
     {
       "id": "5129406",
       "time": "2026-10-07 11:26:30",
@@ -86417,96 +86469,6 @@
         "國際"
       ],
       "text": "新加坡政府投資公司（GIC）收購日本 16 家萬豪運營的酒店。"
-    },
-    {
-      "id": "mkt:01a0f05d-c8af-7338-ab23-fa31abfdcc49",
-      "time": "2026-09-30 11:31:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【China index futures morning session close】China index futures closed the morning session: CSI 300 futures (IF) main contract +0.11%; SSE 50 futures (IH) -0.04%; CSI 500 futures (IC) -0.07%; CSI 1000 futures (IM) -0.18%."
-    },
-    {
-      "id": "mkt:01a0f05d-bffc-7338-ab23-f1ace3fdf770",
-      "time": "2026-09-30 11:31:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures morning close】2-year (TS) most-active contract down 0.04%, 5-year (TF) down 0.09%, 10-year (T) down 0.18%, 30-year (TL) down 0.60%."
-    },
-    {
-      "id": "5119972",
-      "time": "2026-09-30 11:31:03",
-      "tags": [
-        "公司",
-        "市場",
-        "A股"
-      ],
-      "text": "【午評：滬指窄幅震盪半日漲0.27%，生物製品、CRO概念、創新藥板塊漲幅居前】A股三大指數早盤漲跌不一，截至午盤，上證指數漲0.27%，深證成指跌0.06%，創業板指跌0.17%，北證50漲1.8%，科創50指數跌2.09%。全市場成交額9172億元，較上日放量329億元，全市場超2700只個股下跌。板塊題材上，生物製品、重組蛋白、CRO概念、醫療服務、創新藥板塊漲幅居前；元件、通訊服務、半導體、儲存晶片、MLCC概念板塊跌幅居前。盤面上，生物製品板塊表現強勢，康希諾、泰諾麥博、康辰藥業漲停，近岸蛋白、義翹神州、百普賽斯漲幅居前。CRO概念板塊亦表現活躍，蔚藍生物、美諾華、南華生物漲停，昭衍新藥、諾唯贊、藥石科技漲幅居前。種植業與林業板塊震盪走高，海南橡膠漲停，登海種業、萬向德農、秋樂種業漲幅居前。元件板塊持續下挫，澳弘電子跌停，協和電子、廣合科技、金祿電子跌幅居前。半導體板塊亦走勢疲軟，芯原股份盤中跌超10%，康強電子、華峰測控、盛科通訊跌幅居前。"
-    },
-    {
-      "id": "mkt:01a0f05d-a0da-7338-ab23-ec16f48c27ac",
-      "time": "2026-09-30 11:31:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Industrial Metals",
-        "Energy"
-      ],
-      "text": "At the morning close, China's main futures contracts were mostly higher: 20# rubber and rubber surged over 4%; PVC and synthetic rubber gained more than 3%; Soybean No.1, styrene (EB), benzene, propylene, rapeseed meal, rapeseed oil and alumina rose over 2%. On the downside, apples and low-sulfur fuel oil (LU) fell more than 2%; cotton, container freight Europe route, ethylene glycol (EG) and Shanghai nickel dropped over 1%; cotton yarn and asphalt were down around 1%."
-    },
-    {
-      "id": "te:markets:587964",
-      "time": "2026-09-30 11:30:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Mongolia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Mongolia Stocks Set for Strong Quarterly Gain — Mongolia’s MSE Top 20 Index traded around 66,500 on the final trading day of September, on track to gain about 26% since the end of June. The gain puts Mongolia among the world’s best-performing stock markets this quarter, after the index repeatedly reached record highs. The strong quarterly performance has been led by coal producer Tavantolgoi JSC, whose shares have climbed 87%, while banking and financial stocks have also contributed to the advance. Stronger copper and coal exports, particularly to China, greater market liquidity and measures aimed at easing taxes and attracting foreign investment have further supported investor sentiment. Intraday, the index was mixed, with United Investment gaining 3.2%, Mandal Insurance 2.4%, APU 0.8% and Golomt Bank 0.6%, while Khan Bank fell 2.6%, Trade and Development Bank slipped 0.3% and Tavantolgoi was little changed."
-    },
-    {
-      "id": "5119971",
-      "time": "2026-09-30 11:30:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美民調顯示57%美國人支援與中國友好合作，國臺辦回應】9月30日上午，國臺辦在新聞釋出廳舉行例行新聞釋出會。會上有記者提問：美國智庫芝加哥全球事務委員會近日釋出民調顯示，57%美國人支援與中國友好合作，在兩岸發生衝突後支援美軍“保護”臺灣的比例（38%）較5年前下降14%。有島內輿論認為，臺灣應“看懂風向”，設法“留在棋局裡”。請問對此有何評論？國臺辦發言人張晗表示，維護中美建設性戰略穩定關係符合中美雙方的共同利益。民進黨當局妄圖“倚美謀獨”是幻想。相信越來越多的臺灣民眾已經充分認清，民進黨當局所作所為只會將臺灣一步步帶入災難深淵。"
-    },
-    {
-      "id": "5119970",
-      "time": "2026-09-30 11:30:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.60%， 10年期主力合約跌0.18%， 5年期主力合約跌0.09%， 2年期主力合約跌0.04%。"
-    },
-    {
-      "id": "5119969",
-      "time": "2026-09-30 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續跌0.18%， 滬深300指數期貨連續漲0.11%， 中證500指數期貨連續跌0.07%， 上證50指數期貨連續跌0.04%。"
-    },
-    {
-      "id": "5119968",
-      "time": "2026-09-30 11:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨早盤收盤】20號膠連續漲4.69%，天然橡膠連續漲4.33%，PVC連續漲3.55%，丁二烯橡膠連續漲3.38%，豆一連續漲2.71%，苯乙烯連續漲2.52%。"
     }
   ]
 }
