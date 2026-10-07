@@ -1,7 +1,89 @@
 {
-  "updated": "2026-10-07 11:20:20",
-  "count": 9391,
+  "updated": "2026-10-07 11:24:11",
+  "count": 9390,
   "items": [
+    {
+      "id": "5129400",
+      "time": "2026-10-07 11:22:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電影《歡迎來龍餐館》代表中國內地申報奧斯卡最佳國際影片】10月7日，電影《歡迎來龍餐館》官方微博發文：電影《歡迎來龍餐館》將代表中國內地角逐第99屆奧斯卡最佳國際影片。"
+    },
+    {
+      "id": "5129399",
+      "time": "2026-10-07 11:22:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數回吐早盤漲幅，最新下跌1.0%，報6870.54點。"
+    },
+    {
+      "id": "5129398",
+      "time": "2026-10-07 11:21:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "交易商稱，印度石油公司透過招標購入300萬桶原油。"
+    },
+    {
+      "id": "5129397",
+      "time": "2026-10-07 11:21:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港入境處：皇崗口岸旅客通關只需排隊一次】香港入境事務處6日公佈，皇崗口岸將採用“合作查驗、一次放行”通關模式，旅客使用“合作查驗”自助通道時，只需排隊一次及出示一次證件，便可完成港深兩地出入境手續。（新華社）"
+    },
+    {
+      "id": "mkt:01a11461-4976-7ee0-a7c9-33c9780e2843",
+      "time": "2026-10-07 11:21:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hong Kong immigration: Huanggang port to adopt 'cooperative inspection, one-time release' single-queue clearance】Hong Kong Immigration Department said on the 6th Huanggang port will implement a 'cooperative inspection, one-time release' model. Passengers using the cooperative-inspection self-service channel will need to queue once and present documents once to complete both Hong Kong and Shenzhen exit-entry formalities."
+    },
+    {
+      "id": "mkt:01a11461-3d02-7ee0-a7c9-2c7d64d82900",
+      "time": "2026-10-07 11:21:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI erased morning gains, down 1.0% at 6,870.54 points."
+    },
+    {
+      "id": "mkt:01a11460-dca2-7ee0-a7c9-2016160f8fc2",
+      "time": "2026-10-07 11:20:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "AMD (AMD.O) CEO Lisa Su plans to meet Samsung Electronics' head of semiconductor business on Wednesday."
+    },
+    {
+      "id": "5129396",
+      "time": "2026-10-07 11:20:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鐵路上海站迎國慶假期返程最高峰，預計今日到達84.4萬人次】10月7日，國慶假期最後一天，全國鐵路迎來返程客流最高峰。記者從鐵路上海站（下轄上海站、上海南站、上海虹橋站、上海松江站、上海西站、南翔北站、安亭北站、安亭西站、金山北站、練塘站）獲悉，該站迎來返程客流最高峰，當日預計到達旅客84.4萬人次，其中上海站20.6萬人次，上海南站11.1萬人次，上海虹橋站46.8萬人次，上海松江站5.3萬人次；預計傳送旅客43.7萬人次。（澎湃）"
+    },
+    {
+      "id": "mkt:01a11460-74c5-7ee0-a7c9-1ab57f0b6fc2",
+      "time": "2026-10-07 11:20:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Tongcheng Travel: combining leave boosts long‑haul travel; National Day tourism broad‑based】Tongcheng Travel's 2026 National Day snapshot shows extended‑leave planning lifted demand for domestic long‑haul trips and boosted overnight stays, autumn‑leaf viewing and county‑level tourism. Urumqi led domestic long‑haul bookings, Chengdu ranked among top overnight destinations, Altay was the preferred autumn‑leaf spot, Huidong topped county destinations and smaller counties such as Lingchuan emerged as breakout county picks. Outbound demand remained concentrated in visa‑free Singapore, Malaysia and Thailand while bookings for Iceland and France roughly doubled. Inbound travel and domestic inbound flight bookings rose sharply as Hong Kong holidaymakers and overseas arrivals increased. Demand for AI itinerary planning and AI‑guided attractions surged, indicating faster adoption of smart travel services."
+    },
     {
       "id": "mkt:01a1145d-6a8e-7ee0-a7c9-14866a00e0c5",
       "time": "2026-10-07 11:17:08",
@@ -86413,99 +86495,6 @@
         "MKT News"
       ],
       "text": "【China NEA: August green certificates issued 354 mln, MoM +15.75%】China’s National Energy Administration issued 354 mln green certificates in August 2026, up 15.75% MoM, covering 3.7096 mln renewable power projects; 212 mln were tradable (60.04%). The issuance corresponded to 323 mln green certificates for July 2026 renewable generation (91.41%). Nationwide green-certificate trading in August totaled 60.55 mln, up 11.13% MoM and 25.18% YoY; green-power trading accounted for 25.52 mln, down 0.25% MoM and up 44.86% YoY."
-    },
-    {
-      "id": "em:qqyh_mlc:202609303887554824",
-      "time": "2026-09-30 11:24:00",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【多位美聯儲官員釋放加息訊號 紐約聯儲主席稱今年晚些時候加息或是合適的】本週，多名美聯儲官員密集就通脹、貨幣政策和經濟前景發表講話。紐約聯儲主席約翰·威廉姆斯表示，如果經濟符合預期，今年可能再加息一次，但9月加息後“沒有必要急於行動”；聖路易斯聯儲主席阿爾貝託·穆薩萊姆則強調，美聯儲應避免在沒有明確框架的情況下退出溝通，否則市場可能無法理解其政策和行動。"
-    },
-    {
-      "id": "5119961",
-      "time": "2026-09-30 11:23:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【銀行間主要利率債收益率升幅擴大】銀行間主要利率債收益率升幅擴大，30年期國債“26超長特別國債04”收益率上行1.5bp報2.1220%，50年期國債“26超長特別國債03”收益率上行2.75bp報2.2625%，10年期國債“26附息國債16”收益率上行1.25bp報1.6750%。"
-    },
-    {
-      "id": "te:markets:587963",
-      "time": "2026-09-30 11:23:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Attempts Recovery — Platinum futures rose above $1,700 an ounce, attempting to rebound from a recent two-month low as falling oil prices offset pressure from elevated Treasury yields and a firm US dollar. Easing crude prices amid signs of improving energy flows from the Middle East are now helping non-yielding metals by reducing inflation concerns and bets on higher-for-longer interest rates. However, Treasury yields remain elevated, with the US 10-year yield near 5.24%, close to its highest since 2007 as persistent energy-driven inflation, a resilient US economy and hawkish signals from Federal Reserve officials strengthened expectations for further rate hikes. Meanwhile, platinum’s fundamentals remain mixed, with WPIC forecasting industrial demand to rise 5% in 2026 but automotive demand to fall 4%, leaving the market with a projected 265,000-ounce surplus. Over the longer term, demand will be underpinned by the rapid build-out of artificial intelligence."
-    },
-    {
-      "id": "5119960",
-      "time": "2026-09-30 11:23:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【波音將造美海軍第六代戰機 研發合同超200億美元】美國國防部29日宣佈，已選定波音公司設計和建造美國海軍第六代戰機F/A-XX。美國國防部當天發表宣告說，美國海軍第六代戰機研發合同總值超過200億美元，包括採購多架測試機，用於地面、適航、系統及武器整合測試。該戰機將提供先進的艦載力量投射，拓展美軍航母的遠端打擊範圍。宣告說，波音公司將於2030年代開始交付該戰機，最終取代現役的F/A-18E/F“超級大黃蜂”和EA-18G“咆哮者”，並同F-35C協同作戰。（新華社）"
-    },
-    {
-      "id": "5119959",
-      "time": "2026-09-30 11:22:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "恆天然：紐西蘭8月乳製品出口同比增長8.3%，即增加14,371公噸。"
-    },
-    {
-      "id": "5119958",
-      "time": "2026-09-30 11:22:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家能源局：8月核發綠證3.54億個，全國交易綠證6055萬個】國家能源局釋出2026年8月全國可再生能源綠色電力證書核發及交易資料，2026年8月，國家能源局核發綠證3.54億個，環比增長15.75%，涉及可再生能源發電專案370.96萬個，其中可交易綠證2.12億個，佔比60.04%。本期核發2026年7月可再生能源電量對應綠證3.23億個，佔比91.41%。2026年8月，全國交易綠證6055萬個，環比增長11.13%，同比增長25.18%。其中綠色電力交易綠證2552萬個，環比減少0.25%，同比增長44.86%。2026年8月，全國單獨交易綠證3503萬個，環比增長21.21%，同比增長13.91%。其中電量生產年為2024年的綠證交易164萬個，平均價格0.61元/個；電量生產年為2025年的綠證交易1586萬個，平均價格3.21元/個；電量生產年為2026年的綠證交易1753萬個，平均價格6.32元/個。"
-    },
-    {
-      "id": "5119957",
-      "time": "2026-09-30 11:22:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "恆天然：澳大利亞7月牛奶產量較2025年7月增長4.7%。"
-    },
-    {
-      "id": "mkt:01a0f055-5374-7338-ab23-d2055074ac44",
-      "time": "2026-09-30 11:21:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "【Counterpoint: iPhone 18 Pro series first-week (three days) China sales up 12% YoY】Counterpoint Research's China Weekly Smartphone Sales Tracker shows weekly smartphone sales in China have stayed in double-digit YoY decline since July, citing rising storage costs and weak consumer demand. With the September product cycle approaching, Counterpoint expects a sequential recovery. iPhone 18 Pro series sales in its first three days (only three days of week 38) were 12% higher YoY versus the iPhone 17 Pro debut week, pushing Apple to the top of week 38 with a 33% share of the China smartphone market."
-    },
-    {
-      "id": "5119956",
-      "time": "2026-09-30 11:21:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德賽智儲與威思頓電氣達成戰略合作】9月29日，惠州市德賽電池有限公司的全資子公司——惠州市德賽智儲科技有限公司與煙臺東方威思頓電氣有限公司在山東煙臺舉行戰略合作框架協議簽約儀式。根據協議，雙方將建立為期兩年的戰略合作關係，圍繞離網儲能、微電網、獨立電站、重卡換電等應用場景展開全面合作。合作期內，雙方力爭完成儲能系統規模不低於500MWh，其中約一半規模將優先採用搭載AI主動安全電芯的儲能系統。"
-    },
-    {
-      "id": "mkt:01a0f054-c9d8-7338-ab23-cfa9814f9311",
-      "time": "2026-09-30 11:21:23",
-      "tags": [
-        "MKT News",
-        "01276.HK",
-        "Impact bullish"
-      ],
-      "text": "【Citi raises Hengrui Medicine PT 0.8% to HK$120; remains top pick】Citi raised Hengrui Medicine (01276.HK) H‑share PT to HK$120 (from HK$119) and A‑share PT to 111 yuan (from 109 yuan), increases of 0.8% and 1.8%, and kept the stock as a top pick. Citi flagged a licensing deal with Novo Nordisk (NVO.N) for HRS‑1596 that could be worth up to $2.6 billion, with an expected $300 million upfront in Q4 2026 and revenue to be recognized in Q4 2026 or Q1 2027; the bank noted the structure allows Hengrui to monetize ex‑China via Novo’s global metabolic platform while retaining full China commercialization rights."
     }
   ]
 }

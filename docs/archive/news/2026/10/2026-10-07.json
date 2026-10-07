@@ -1,7 +1,89 @@
 {
   "date": "2026-10-07",
-  "count": 685,
+  "count": 694,
   "items": [
+    {
+      "id": "5129400",
+      "time": "2026-10-07 11:22:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電影《歡迎來龍餐館》代表中國內地申報奧斯卡最佳國際影片】10月7日，電影《歡迎來龍餐館》官方微博發文：電影《歡迎來龍餐館》將代表中國內地角逐第99屆奧斯卡最佳國際影片。"
+    },
+    {
+      "id": "5129399",
+      "time": "2026-10-07 11:22:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數回吐早盤漲幅，最新下跌1.0%，報6870.54點。"
+    },
+    {
+      "id": "5129398",
+      "time": "2026-10-07 11:21:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "交易商稱，印度石油公司透過招標購入300萬桶原油。"
+    },
+    {
+      "id": "5129397",
+      "time": "2026-10-07 11:21:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港入境處：皇崗口岸旅客通關只需排隊一次】香港入境事務處6日公佈，皇崗口岸將採用“合作查驗、一次放行”通關模式，旅客使用“合作查驗”自助通道時，只需排隊一次及出示一次證件，便可完成港深兩地出入境手續。（新華社）"
+    },
+    {
+      "id": "mkt:01a11461-4976-7ee0-a7c9-33c9780e2843",
+      "time": "2026-10-07 11:21:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hong Kong immigration: Huanggang port to adopt 'cooperative inspection, one-time release' single-queue clearance】Hong Kong Immigration Department said on the 6th Huanggang port will implement a 'cooperative inspection, one-time release' model. Passengers using the cooperative-inspection self-service channel will need to queue once and present documents once to complete both Hong Kong and Shenzhen exit-entry formalities."
+    },
+    {
+      "id": "mkt:01a11461-3d02-7ee0-a7c9-2c7d64d82900",
+      "time": "2026-10-07 11:21:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI erased morning gains, down 1.0% at 6,870.54 points."
+    },
+    {
+      "id": "mkt:01a11460-dca2-7ee0-a7c9-2016160f8fc2",
+      "time": "2026-10-07 11:20:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "AMD (AMD.O) CEO Lisa Su plans to meet Samsung Electronics' head of semiconductor business on Wednesday."
+    },
+    {
+      "id": "5129396",
+      "time": "2026-10-07 11:20:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鐵路上海站迎國慶假期返程最高峰，預計今日到達84.4萬人次】10月7日，國慶假期最後一天，全國鐵路迎來返程客流最高峰。記者從鐵路上海站（下轄上海站、上海南站、上海虹橋站、上海松江站、上海西站、南翔北站、安亭北站、安亭西站、金山北站、練塘站）獲悉，該站迎來返程客流最高峰，當日預計到達旅客84.4萬人次，其中上海站20.6萬人次，上海南站11.1萬人次，上海虹橋站46.8萬人次，上海松江站5.3萬人次；預計傳送旅客43.7萬人次。（澎湃）"
+    },
+    {
+      "id": "mkt:01a11460-74c5-7ee0-a7c9-1ab57f0b6fc2",
+      "time": "2026-10-07 11:20:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Tongcheng Travel: combining leave boosts long‑haul travel; National Day tourism broad‑based】Tongcheng Travel's 2026 National Day snapshot shows extended‑leave planning lifted demand for domestic long‑haul trips and boosted overnight stays, autumn‑leaf viewing and county‑level tourism. Urumqi led domestic long‑haul bookings, Chengdu ranked among top overnight destinations, Altay was the preferred autumn‑leaf spot, Huidong topped county destinations and smaller counties such as Lingchuan emerged as breakout county picks. Outbound demand remained concentrated in visa‑free Singapore, Malaysia and Thailand while bookings for Iceland and France roughly doubled. Inbound travel and domestic inbound flight bookings rose sharply as Hong Kong holidaymakers and overseas arrivals increased. Demand for AI itinerary planning and AI‑guided attractions surged, indicating faster adoption of smart travel services."
+    },
     {
       "id": "mkt:01a1145d-6a8e-7ee0-a7c9-14866a00e0c5",
       "time": "2026-10-07 11:17:08",
