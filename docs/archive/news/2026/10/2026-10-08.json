@@ -1,7 +1,26 @@
 {
   "date": "2026-10-08",
-  "count": 43,
+  "count": 45,
   "items": [
+    {
+      "id": "5130558",
+      "time": "2026-10-08 00:41:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "富時羅素公司：將阿曼增添至“潛在重新歸類”清單，可能會被再次劃分為二級新興市場。"
+    },
+    {
+      "id": "te:markets:590257",
+      "time": "2026-10-08 00:40:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Crude Oil Eases to 1-Month Low — Crude oil eased below the $89-per-barrel mark on Wednesday, marking its lowest level in over a month and extending a 16% slide from September's four-month peak on signs of easing Middle Eastern supply risks. Saudi Arabia cut official selling prices for its flagship crude grade to $5 below the regional benchmark as tankers were able to depart the Persian Gulf with full cargoes. Evidence of a pickup in export volumes from regional OPEC+ producers coincided with reports that US and Iranian officials were holding talks with regional authorities this week. Further easing supply concerns, Saudi Arabia said its East-West pipeline was operating at full capacity, diverting up to 5.8 million bpd of crude to the Red Sea. Still, shipping costs remained elevated following reported strikes against vessels in the Strait of Hormuz. Stateside, EIA data showed crude stockpiles fell by over 3 million barrels last week, while the Strategic Petroleum Reserve remained pinned near multi-decade lows."
+    },
     {
       "id": "5130557",
       "time": "2026-10-08 00:39:34",

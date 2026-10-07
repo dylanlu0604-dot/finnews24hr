@@ -1,7 +1,26 @@
 {
-  "updated": "2026-10-08 00:40:09",
-  "count": 9020,
+  "updated": "2026-10-08 00:44:01",
+  "count": 9017,
   "items": [
+    {
+      "id": "5130558",
+      "time": "2026-10-08 00:41:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "富時羅素公司：將阿曼增添至“潛在重新歸類”清單，可能會被再次劃分為二級新興市場。"
+    },
+    {
+      "id": "te:markets:590257",
+      "time": "2026-10-08 00:40:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Crude Oil Eases to 1-Month Low — Crude oil eased below the $89-per-barrel mark on Wednesday, marking its lowest level in over a month and extending a 16% slide from September's four-month peak on signs of easing Middle Eastern supply risks. Saudi Arabia cut official selling prices for its flagship crude grade to $5 below the regional benchmark as tankers were able to depart the Persian Gulf with full cargoes. Evidence of a pickup in export volumes from regional OPEC+ producers coincided with reports that US and Iranian officials were holding talks with regional authorities this week. Further easing supply concerns, Saudi Arabia said its East-West pipeline was operating at full capacity, diverting up to 5.8 million bpd of crude to the Red Sea. Still, shipping costs remained elevated following reported strikes against vessels in the Strait of Hormuz. Stateside, EIA data showed crude stockpiles fell by over 3 million barrels last week, while the Strategic Petroleum Reserve remained pinned near multi-decade lows."
+    },
     {
       "id": "5130557",
       "time": "2026-10-08 00:39:34",
@@ -83027,47 +83046,6 @@
         "Impact bearish"
       ],
       "text": "The Houthi movement said that in the past 24 hours Saudi F-15s operating from Khamis Mushait air base carried out 51 air and missile strikes, while missiles launched from Najran and Jizan targeted civilian communications networks and infrastructure in Marib, Saada, Hodeidah, Taiz and Amran provinces. The group said total Saudi air and missile attacks since the conflict escalated have reached 1,209."
-    },
-    {
-      "id": "5121538",
-      "time": "2026-10-01 00:43:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普與內塔尼亞胡預計將在未來幾小時內就迪拜航空事件通電話。"
-    },
-    {
-      "id": "5121537",
-      "time": "2026-10-01 00:43:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列訊息人士：目前階段的評估認為，迪拜航空客機事件的涉事飛行員是“獨狼”，系單獨作案。"
-    },
-    {
-      "id": "mkt:01a0f332-100d-7338-ab37-7b9d15dee1ad",
-      "time": "2026-10-01 00:42:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM: Bahrain joins US 'Falcon Strike' task force and will participate in forming a multinational strike-drone force."
-    },
-    {
-      "id": "mkt:01a0f330-8572-7338-ab37-77d36c63fdb6",
-      "time": "2026-10-01 00:40:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Senate: bill aimed at tightening stock trading rules for members of Congress failed to secure enough votes to advance; voting is ongoing."
-    },
-    {
-      "id": "5121536",
-      "time": "2026-10-01 00:40:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "要求收緊國會議員股票交易規則的法案未能在美國參議院獲得足夠推進票數，目前投票仍在進行中。"
     }
   ]
 }
