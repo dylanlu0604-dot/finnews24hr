@@ -1,7 +1,1258 @@
 {
   "date": "2026-10-07",
-  "count": 482,
+  "count": 614,
   "items": [
+    {
+      "id": "5129356",
+      "time": "2026-10-07 10:21:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前8個月醫保統籌基金收入約2.07萬億元】國家醫保局日前釋出資料，2026年1月至8月，我國基本醫療保險（含生育保險）統籌基金總收入20727.72億元，基本醫療保險（含生育保險）統籌基金總支出15504.14億元，醫保基金整體執行平穩。資料顯示，在基本醫療保險（含生育保險）統籌基金收入方面，職工基本醫療保險（含生育保險）統籌基金收入12813.17億元，城鄉居民基本醫療保險統籌基金收入7914.55億元。2026年前8個月，職工基本醫療保險（含生育保險）統籌基金支出8893.49億元，其中生育保險基金待遇支出889.29億元；城鄉居民基本醫療保險統籌基金支出6610.65億元。（新華社）"
+    },
+    {
+      "id": "te:markets:590008",
+      "time": "2026-10-07 10:18:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies Ahead of Fed Minutes — The dollar index steadied around 102 on Wednesday after coming under pressure in the previous session, as investors awaited minutes from the Federal Reserve’s latest meeting for clues on the outlook for monetary policy. Traders also watched remarks from Fed officials, with policymakers increasingly signaling a less hawkish stance on interest rates following softer-than-expected PCE inflation and jobs data released last week. Markets are currently pricing in nearly an 80% chance that the Fed will keep policy unchanged this month. Meanwhile, investors continued to monitor bond markets after a recent selloff fueled by concerns over persistent inflation, rising fiscal risks and elevated levels of AI-related debt issuance. Elsewhere, oil prices climbed as Iran intensified attacks on tankers in the Strait of Hormuz and Saudi forces continued clashes with the Houthis, keeping inflationary pressures and rate hike concerns in focus."
+    },
+    {
+      "id": "mkt:01a11427-5979-7ee0-a7c8-60f93cf131e3",
+      "time": "2026-10-07 10:18:05",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH"
+      ],
+      "text": "【China's Ministry of Water Resources to ensure 1 trillion yuan annual water-construction investment】China's Ministry of Water Resources said it will step up efforts to ensure this year’s start of 40 major water projects and completion of 1 tln yuan of water-construction investment. January–September: 41,400 water projects were underway, 28 major projects were newly started—exceeding last year’s full-year starts—and water-construction investment reached 795 bln yuan; construction works absorbed 2.01 mln jobs. Li Ming, director of the ministry’s Planning and Programming Department, said authorities will expedite project preparatory work, broaden financing channels and accelerate construction to maintain a high level of water investment."
+    },
+    {
+      "id": "5129355",
+      "time": "2026-10-07 10:17:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱在立陶宛部署北約基地加劇緊張】當地時間10月6日，俄羅斯總統新聞秘書佩斯科夫稱，在立陶宛境內部署北約基地和核武器將進一步加劇緊張局勢，俄方將被迫採取一切必要措施以保障自身安全。（CCTV國際時訊）"
+    },
+    {
+      "id": "5129354",
+      "time": "2026-10-07 10:17:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股<9988.HK>跌幅擴大，股價下跌4%。"
+    },
+    {
+      "id": "mkt:01a11426-af60-7ee0-a7c8-58e2b131be28",
+      "time": "2026-10-07 10:17:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【AI boom lifts tech stocks near record highs; copper steady】Tech stocks remain near record highs on AI-driven optimism, while copper held steady. LME copper was flat on Wednesday as markets broadly stayed cautious. Accelerating AI data-center construction could lift copper demand; the market is consolidating after last month’s spike when concerns the US might impose tariffs on refined metals diverted flows to the US, tightening supply elsewhere and briefly pushing copper to a record high. Traders are awaiting China, the world’s largest metals consumer, to reopen after the long holiday for further price cues."
+    },
+    {
+      "id": "mkt:01a11426-95c8-7ee0-a7c8-528c4eaccb56",
+      "time": "2026-10-07 10:17:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【SAFE: China foreign exchange reserves $3.4003 trillion at end-September, down $38.1 billion (-1.11%)】China's foreign exchange reserves were $3.4003 trillion at end-September 2026, down $38.1 billion (1.11%) from end‑August, the State Administration of Foreign Exchange said. SAFE cited a stronger dollar and broad declines in global asset prices in September, with exchange‑rate translation and valuation effects driving the monthly drop. SAFE added that China's economy remains broadly stable with improving drivers and structure, supporting basic stability in the reserves."
+    },
+    {
+      "id": "5129353",
+      "time": "2026-10-07 10:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "華僑銀行：螞蟻國際將能夠全天候調動以新加坡元和美元計價的代幣化存款。"
+    },
+    {
+      "id": "mkt:01a11425-5bcd-7ee0-a7c8-4a2961d32dc7",
+      "time": "2026-10-07 10:15:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Analyst: Risk balance currently favors oil holding near $100/bbl】Analyst Eamonn Sheridan says a Gulf of Mexico storm is forecast to become the first Atlantic hurricane of 2026 within two days and may strike oil and gas infrastructure. Offshore areas along the storm track produce about 15% of US crude and 5% of US gas; as many as six refineries could be affected. US refining capacity is roughly 18 mln bpd, about half in Gulf Coast states, so fuel supply risk from the storm could match crude disruption; diesel prices are at historic highs. Middle East export flows had improved but recent escalation offsets that: Saudi airport was hit twice Monday evening and fighting between Saudi forces and Iran-backed Houthi fighters has intensified, with Saudi-backed Yemeni government forces advancing backed by Saudi air strikes. Diplomatic signals offer little relief. Sheridan assesses the risk balance is more supportive of oil remaining near $100/bbl than declining, unless the storm weakens or Middle East tensions ease."
+    },
+    {
+      "id": "5129352",
+      "time": "2026-10-07 10:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "華僑銀行與螞蟻國際推出代幣化存款解決方案，用於新加坡和馬來西亞之間的資金管理。"
+    },
+    {
+      "id": "te:markets:590007",
+      "time": "2026-10-07 10:15:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: New Zealand Dollar Depreciates by 0.25% — Top currency losers are New Zealand Dollar (-0.25%), Japanese Yen (-0.19%) and South Korean Won (-0.12%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "5129351",
+      "time": "2026-10-07 10:15:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數開盤基本持平，報1759.08點。"
+    },
+    {
+      "id": "5129350",
+      "time": "2026-10-07 10:13:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：確保全年完成水利建設投資1萬億元目標】記者近日從水利部瞭解到，水利部將進一步加大工作力度，確保實現全年新開工重大水利工程40項、完成水利建設投資1萬億元的目標。記者瞭解到，今年1月至9月，全國實施各類水利專案4.14萬個，新開工28項重大水利工程，超過去年全年開工數量；完成水利建設投資7950億元，繼續保持高位執行；水利專案施工吸納就業201萬人。（新華社）"
+    },
+    {
+      "id": "5129349",
+      "time": "2026-10-07 10:12:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股<9988.HK>下跌3%。"
+    },
+    {
+      "id": "mkt:01a11420-18d4-7ee0-a7c8-415ea44d1c98",
+      "time": "2026-10-07 10:10:10",
+      "tags": [
+        "MKT News",
+        "01548.HK",
+        "Impact bearish",
+        "02228.HK",
+        "03696.HK"
+      ],
+      "text": "Hang Seng Biotechnology Index fell more than 3%, as GenScript Biotech (01548.HK) slid over 14%, 02228.HK dropped about 13%, 03696.HK fell over 10% and Ascentage Pharma (06855.HK) declined nearly 8%."
+    },
+    {
+      "id": "5129348",
+      "time": "2026-10-07 10:10:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "天舞公司：約98.83%的要約收購票據已獲有效提交。"
+    },
+    {
+      "id": "5129347",
+      "time": "2026-10-07 10:06:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國洪災已造成60人死亡】泰國內政部防災減災廳10月7日通報，洪災已致該國超過148萬戶家庭、419萬人受影響，造成60人死亡。泰國自9月16日以來遭遇多輪強降雨，引發大範圍洪澇災害。截至10月5日，泰國仍有26個府及曼谷部分割槽域存在洪澇災情。（央視新聞）"
+    },
+    {
+      "id": "5129346",
+      "time": "2026-10-07 10:05:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG電子第三季度銷售額為23.83萬億韓元；預期為24.13萬億韓元。"
+    },
+    {
+      "id": "5129345",
+      "time": "2026-10-07 10:05:34",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國9月外匯儲備 34002.51億美元，前值34383.3億美元。"
+    },
+    {
+      "id": "mkt:01a1141b-d8da-7ee0-a7c8-38a0cef18726",
+      "time": "2026-10-07 10:05:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "China's foreign exchange reserves in September were $3.40025 tln, down from $3.43833 tln previously, a decline of about $38.08 bln."
+    },
+    {
+      "id": "mkt:01a1141b-a719-7ee0-a7c8-379c8857084d",
+      "time": "2026-10-07 10:05:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Foreign Exchange Reserves (Sep) | actual 3400251000000B | previous 3438330000000.0005B"
+    },
+    {
+      "id": "5129344",
+      "time": "2026-10-07 10:05:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌美元下跌0.21%，報1.1236美元。"
+    },
+    {
+      "id": "5129343",
+      "time": "2026-10-07 10:05:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4170美元/盎司，日內跌0.42%。"
+    },
+    {
+      "id": "5129342",
+      "time": "2026-10-07 10:04:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG電子第三季度營業利潤7818億韓元；預期利潤為9955億韓元。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610073888851580",
+      "time": "2026-10-07 10:03:59",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【中國央行連續第23個月增持黃金】中國9月末黃金儲備報7747萬盎司（約2409.59噸），環比增加74萬盎司（約23.02噸），8月末黃金儲備報7673萬盎司（約2386.57噸）。中國央行已連續第23個月增持黃金。"
+    },
+    {
+      "id": "mkt:01a11419-f99c-7ee0-a7c8-2bc4e016cbee",
+      "time": "2026-10-07 10:03:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【PBOC raises gold reserves for 23rd consecutive month】China's gold reserves were 77.47 mln oz (2,409.59 tonnes) at end-September, up 0.74 mln oz (23.02 tonnes) MoM from 76.73 mln oz (2,386.57 tonnes) at end-August. The PBOC has increased its gold holdings for 23 consecutive months."
+    },
+    {
+      "id": "5129341",
+      "time": "2026-10-07 10:03:27",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點"
+      ],
+      "text": "【中國央行連續第23個月增持黃金】中國9月末黃金儲備報7747萬盎司（約2409.59噸），環比增加74萬盎司（約23.02噸），8月末黃金儲備報7673萬盎司（約2386.57噸）。中國央行已連續第23個月增持黃金。"
+    },
+    {
+      "id": "mkt:01a11418-e885-7ee0-a7c8-27b5d26e8b5f",
+      "time": "2026-10-07 10:02:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic determination: at 10:00 on Oct 7 an earthquake of about magnitude 3.5 occurred near Gao County, Yibin, Sichuan (28.55°N, 104.66°E). Final determination pending official rapid bulletin."
+    },
+    {
+      "id": "5129340",
+      "time": "2026-10-07 10:01:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數下跌1%，報5644.55點。"
+    },
+    {
+      "id": "5129339",
+      "time": "2026-10-07 10:01:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破84000美元，日內跌1.82%。"
+    },
+    {
+      "id": "5129338",
+      "time": "2026-10-07 10:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指開盤上漲0.3%，報6210.42點。"
+    },
+    {
+      "id": "mkt:01a11417-a26c-7ee0-a7c8-1c8e4db009d6",
+      "time": "2026-10-07 10:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera said Yemeni forces launched an offensive to retake the al-Waziyah area in Taiz province from Houthi fighters."
+    },
+    {
+      "id": "5129337",
+      "time": "2026-10-07 10:00:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "Digital Realty啟動KIX15資料中心建設，擴大在日本的AI基礎設施佈局。"
+    },
+    {
+      "id": "te:markets:590003",
+      "time": "2026-10-07 10:00:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Retreat — The Hang Seng Index declined 0.6%, or 145 points, to 24,134 on Wednesday, reversing part of previous session's rebound, as renewed gains in oil prices revived inflation and interest-rate concerns. Brent crude rose above US$101 a barrel after a storm threatened US Gulf oil facilities and Iran-backed Houthis launched attacks on targets in Saudi Arabia, raising concerns over global energy supplies. The rise in oil prices offset positive cues from Wall Street, while markets continued to scale back expectations for another Federal Reserve rate hike this month. Hong Kong trading also remained subdued as mainland Chinese markets and Southbound Stock Connect stayed closed for the National Day holiday, limiting mainland buying support. Healthcare and technology stocks, which led Tuesday’s rebound, came under renewed selling pressure, with Tencent (-0.8%), Wuxi Biologics (-3.3%), Genscript Biotech (-14.4%), Xiaomi (-1.1%), and InSilico Medicine Cayman (-8.7%) among the notable decliners."
+    },
+    {
+      "id": "5129336",
+      "time": "2026-10-07 09:59:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "朝日集團：正全面配合日本公平交易委員會對旗下子公司的調查。"
+    },
+    {
+      "id": "5129335",
+      "time": "2026-10-07 09:58:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯盟稱，其在利雅得以北攔截並摧毀了一枚胡塞武裝發射的彈道導彈。"
+    },
+    {
+      "id": "mkt:01a11415-4714-7ee0-a7c8-140114e35306",
+      "time": "2026-10-07 09:58:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Malaysia's FTSE KLCI gave back gains, now down 1.1% at 1,616.08 points."
+    },
+    {
+      "id": "mkt:01a11414-9cc5-7ee0-a7c8-0d26bb6be591",
+      "time": "2026-10-07 09:57:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyodo reports sources say Japan may mention nuclear-powered submarines in its year-end revision of a key security document, designating them for further study and consideration. Some ruling-coalition lawmakers favor exploring acquisition, but the issue remains sensitive; sources say wording will likely stop short of implying a decision to procure."
+    },
+    {
+      "id": "5129334",
+      "time": "2026-10-07 09:57:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指上漲1%，報5735.01點。"
+    },
+    {
+      "id": "te:markets:590001",
+      "time": "2026-10-07 09:56:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rises for Second Day — US gasoline futures rose above $3.30 per gallon, gaining for the second straight session, as a storm in the Gulf of Mexico threatened to disrupt refinery operations. Refineries in US Gulf states account for about half of US refining capacity, which stands at 18.2 million barrels per day. Meanwhile, continued attacks in the Middle East kept energy-market risks elevated despite improvement in regional shipments. Russia’s ongoing restrictions on diesel exports and refinery disruptions, alongside China’s reported suspension of some October fuel exports, also tightened fuel markets. Gasoline inventories were 7% below the five-year average as of September 25, according to the EIA, while refinery utilization stood at 92.5%. The EIA also raised its 2026 and 2027 oil price forecasts, citing rapidly falling global inventories and supply risks. Separately, the G7’s planned release of emergency crude and diesel reserves could provide some relief."
+    },
+    {
+      "id": "mkt:01a11413-5140-7ee0-a7c8-00e0e0db5616",
+      "time": "2026-10-07 09:56:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says government to take 40% stake in next-generation submarine shipyard】President Trump said on Tuesday US taxpayers will hold a 40% stake in the planned Sparrows Point shipyard in Maryland. Defense contractor Anduril plans to invest $3.7 bln to manufacture components for Virginia‑class submarines and has won a US Navy contract worth up to $2.9 bln. Trump said the project is part of a $21 trln investment plan and will create about 3,000 jobs in Maryland."
+    },
+    {
+      "id": "5129333",
+      "time": "2026-10-07 09:53:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中越邊境河口口岸今年出入境流量已突破500萬人次】據河口出入境邊防檢查站統計，截至10月6日12時，2026年中越邊境雲南河口口岸出入境人數達500.03萬人次。日均出入境旅客達1.79萬人次，同比增長6.12%。"
+    },
+    {
+      "id": "mkt:01a11410-9fbb-7ee0-a7c7-fa982c62f615",
+      "time": "2026-10-07 09:53:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell below $61/oz, down 0.56% intraday."
+    },
+    {
+      "id": "5129332",
+      "time": "2026-10-07 09:52:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "朝日集團股價回吐漲幅，跌幅一度達1.7%。"
+    },
+    {
+      "id": "mkt:01a1140e-b9c0-7ee0-a7c7-f5e55a87e129",
+      "time": "2026-10-07 09:51:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "US dollar index (DXY) touched 102, up 0.16% on the day."
+    },
+    {
+      "id": "5129331",
+      "time": "2026-10-07 09:50:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破102關口，日內漲0.16%。"
+    },
+    {
+      "id": "5129330",
+      "time": "2026-10-07 09:49:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股醫藥股多數走弱 金斯瑞生物科技跌近14%】截至發稿，金斯瑞生物科技(01548.HK)跌13.72%，昭衍新藥(06127.HK)跌11.93%，維亞生物(01873.HK)跌7.12%，泰格醫藥(03347.HK)跌5.64%。"
+    },
+    {
+      "id": "5129329",
+      "time": "2026-10-07 09:49:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞KLCI指數下跌1%，報1616.50點。"
+    },
+    {
+      "id": "5129328",
+      "time": "2026-10-07 09:49:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【芬蘭下令停止兩座谷歌資料中心的建設工作】芬蘭當局已下令暫停兩座擬建的谷歌(GOOG.O)資料中心的施工，原因是對清理超過300公頃森林的舉措表示擔憂。這些專案是谷歌在芬蘭創紀錄的130億歐元投資計劃的一部分，該計劃於不到一個月前宣佈，被谷歌稱為其在歐洲最大的一筆單項投資。芬蘭監管機構表示，其中一個地點的施工是在未進行強制性環境影響評估的情況下進行的，並下令在10月23日前暫停那些會“顯著改變環境”的施工活動。谷歌表示，公司“在此次事件中未能達到自身的高標準”，並將遵循監管機構的指導意見。"
+    },
+    {
+      "id": "te:markets:589997",
+      "time": "2026-10-07 09:48:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Extend Gains — US heating oil prices rose above $4.60, extending gains from the previous session, as renewed supply concerns added to an already tight refined-products market. A developing storm in the Gulf of Mexico could disrupt oil and refining operations, with refineries in US Gulf states accounting for about 50% of the national refining capacity of 18.2 million barrels per day. Meanwhile, continued attacks in the Middle East raised concerns over energy flows despite increased regional shipments, while disruptions to Russia’s refining operations and extended diesel-export restrictions, along with China’s reported suspension of October fuel exports, added to global diesel supply constraints. The EIA raised its 2026 and 2027 oil price forecasts, citing rapidly falling global inventories and tight diesel markets. Separately, the Trump administration ordered temporary relief from certain diesel-tax payments and penalties for using dyed diesel on highways through the year-end."
+    },
+    {
+      "id": "mkt:01a1140b-bcf0-7ee0-a7c7-ef963e841b22",
+      "time": "2026-10-07 09:47:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "【Finland orders pause on construction of two Google data centres】Finnish authorities ordered a suspension of construction at two planned Google (GOOG.O) data centres over concerns about clearing more than 300 hectares of forest. The projects are part of Google’s record €13 billion investment plan in Finland announced less than a month ago and described by the company as its largest single investment in Europe. Finnish regulators said work at one site began without a mandatory environmental impact assessment and ordered a halt to activities that would \"significantly alter the environment\" until Oct. 23. Google said it \"failed to meet its own high standards\" and will follow the regulator’s guidance."
+    },
+    {
+      "id": "5129327",
+      "time": "2026-10-07 09:47:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "香港恒生生物科技指數 <.HSBIO> 下跌4%。"
+    },
+    {
+      "id": "te:markets:589996",
+      "time": "2026-10-07 09:46:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Halts 3-Day Rally — The Australian dollar held near $0.70 after a three-session rally as investors awaited key central bank updates for clues on the policy outlook. The Federal Reserve is due to release minutes from its September meeting and hear from several policymakers this week, while markets are pricing in around an 80% chance of no rate change this month following a weaker-than-expected labor market report. Meanwhile, the Aussie found some support as the US dollar weakened broadly, with its biggest decline against the euro as stress in European bond markets eased. In Australia, consumer sentiment slumped for a second straight month in October as higher borrowing costs squeezed household finances and added to cost-of-living pressures. Markets now see a 75.7% chance that the RBA will leave rates unchanged in November, versus a 24.3% chance of another hike. Attention will also turn to the RBA’s meeting minutes next week for further policy signals."
+    },
+    {
+      "id": "5129326",
+      "time": "2026-10-07 09:46:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交銀國際：新能源汽車終端需求仍具支撐 建議關注小鵬集團-W等】交銀國際釋出研報稱，9月新能源汽車車企銷量延續環比改善，10家樣本車企合計銷量約80.9萬輛，同比及環比分別升14.3%及3.8%。展望第四季度，“銀十”旺季疊加新車集中上市及年底衝量，終端需求仍具支撐，同時海外銷量增長仍將貢獻主要增量。該行表示，繼續關注三條主線，包括新品週期明確、智慧化能力持續升級的新勢力；海外銷量快速增長、具備規模及本地化生產優勢的整車龍頭；以及具備VLA(Vision-Language-Action)、Robotaxi及人形機器人等物理AI延展能力的標的。該行建議關注小鵬集團-W(09868)M03、GX、G9L及後續增程車型放量、海外本地化生產和物理AI業務落地；吉利汽車(00175)極氪持續高增長、內部資源協同及海外銷量快速提升；比亞迪股份(01211)海外銷量持續創新高、高階品牌發展和智慧化提速。"
+    },
+    {
+      "id": "mkt:01a11409-e58e-7ee0-a7c7-e75c321f0648",
+      "time": "2026-10-07 09:45:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Market Regions",
+        "Greater China",
+        "09988.HK",
+        "Impact bearish",
+        "09888.HK",
+        "HSI"
+      ],
+      "text": "Hong Kong open: tech/internet names slipped; Alibaba (09988.HK) and Baidu (09888.HK) down more than 2%."
+    },
+    {
+      "id": "5129325",
+      "time": "2026-10-07 09:45:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大秦鐵路開啟20天秋季集中修 每天9至12時全線停運】10月7日，我國重要能源通道大秦鐵路開啟為期20天的秋季集中修施工，為即將到來的冬季電煤保供運輸夯實線路基礎。集中修期間，大秦鐵路每天9時至12時全線列車停運，對線路鋼軌、軌枕、道床及供電接觸網、訊號裝置等進行立體式檢修和更新升級。施工計劃完成成段更換鋼軌、成段更換軌枕、大機清篩道床等施工任務，共計投入157個施工隊伍近1.6萬人。（央視新聞）"
+    },
+    {
+      "id": "5129324",
+      "time": "2026-10-07 09:44:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4180.650點；恒生指數現跌0.643%。阿里巴巴、百度集團跌逾2%，騰訊控股、小米集團跌超1%。"
+    },
+    {
+      "id": "5129323",
+      "time": "2026-10-07 09:43:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Keeta將在巴西新拓展21個城市業務】巴西時間10月6日，Keeta宣佈在巴西新拓展21個城市，業務由聖保羅州向內陸延伸，覆蓋達32城。"
+    },
+    {
+      "id": "te:markets:589995",
+      "time": "2026-10-07 09:40:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Decline on Chip Outlook — The benchmark KOSPI edged lower to around 6,910 on Wednesday, extending losses from the previous session as concerns over the sustainability of the semiconductor earnings boom and elevated global bond yields weighed on sentiment. Investors remained cautious ahead of Samsung Electronics' preliminary third-quarter earnings report on Thursday, with attention focused on whether strong memory-chip demand and pricing can last into 2027 and 2028. At the same time, US Treasury yields remained elevated despite retreating from multidecade highs, keeping pressure on equity valuations. Losses were seen in SK hynix (-0.9%), Hyundai Motor (-1.8%), Hanwha Aerospace (-2.5%), HD Hyundai Heavy Industries (-3.3%), and Kia Corporation (-1.3%). Meanwhile, oil prices fell amid recovering Middle Eastern exports and a planned G7 release of strategic reserves. South Korea's stronger coverage of November crude oil supplies also reduced concerns over potential energy disruptions."
+    },
+    {
+      "id": "mkt:01a11403-f0dd-7ee0-a7c7-de9e16984fd3",
+      "time": "2026-10-07 09:39:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "YONHAP: The number of South Korea's population-decline areas rose to 92 from 89."
+    },
+    {
+      "id": "5129322",
+      "time": "2026-10-07 09:37:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股<9988.HK>下跌2%。"
+    },
+    {
+      "id": "5129321",
+      "time": "2026-10-07 09:36:33",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【傳DRAM大廠計劃再度漲價，漲幅最高達20%】據報道，中國臺灣儲存廠商南亞科近期陸續通知客戶，將再度上調DRAM合約價格，最高漲幅可達20%。針對再度漲價的市場傳聞，南亞科方面表示，針對客戶報價相關事宜，不予置評。業內人士認為，隨著南亞科啟動新一輪合約價上調，漲價效應將逐步傳導落地，有望抬升公司平均售價，改善盈利水平，推動整體經營持續向好。（每經）"
+    },
+    {
+      "id": "mkt:01a11401-24f4-7ee0-a7c7-d111c2bd016a",
+      "time": "2026-10-07 09:36:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "2402.TW",
+        "Impact bullish",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "text": "【Nanya notifies customers of DRAM contract price rise up to 20%】Taiwan Economic Daily reported July 7 that Taiwan memory maker Nanya Technology has begun notifying customers of a new round of DRAM contract-price increases, with the largest hikes up to about 20%. Nanya declined to comment on customer pricing. Industry participants say the increases should feed through to higher ASPs, improved margins and stronger earnings for memory suppliers."
+    },
+    {
+      "id": "5129320",
+      "time": "2026-10-07 09:35:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港恒生生物科技指數延續跌勢，跌幅超過3%。"
+    },
+    {
+      "id": "5129319",
+      "time": "2026-10-07 09:32:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星斥資近50億美元在韓越擴產半導體基板】據報道，三星電機計劃到2028年在韓國和越南投資近50億美元，用於半導體基板生產，進一步提升越南在人工智慧伺服器和高效能運算關鍵零部件生產中的地位。作為韓國三星集團旗下的電子元件子公司，三星電機上週公佈了兩項FC-BGA（倒裝晶片球柵陣列）基板投資計劃。該產品用於AI伺服器、機器人和智慧汽車晶片。其中一項投資規模為4.27萬億韓元（32億美元），用於韓國世宗工廠，是公司迄今針對單一產品進行的最大規模投資；另一項投資規模為2.51萬億韓元（18.7億美元），用於越南子公司。該公司曾於2022年宣佈將在越南北部太原省測試FC-BGA基板。如今該設施的擴建表明試生產結果符合預期，公司已準備好進入大規模量產階段。"
+    },
+    {
+      "id": "5129318",
+      "time": "2026-10-07 09:31:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "香港恒生生物科技指數<.HSBIO>下跌2%。"
+    },
+    {
+      "id": "5129317",
+      "time": "2026-10-07 09:31:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市開盤上漲0.2%，報5688.55點。"
+    },
+    {
+      "id": "mkt:01a113fb-ecae-7ee0-a7c7-c88076210352",
+      "time": "2026-10-07 09:30:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Samsung to invest nearly $5bn in semiconductor substrate expansion in South Korea and Vietnam】Samsung Electro-Mechanics will invest nearly $5.1bn through 2028 to expand production of FC-BGA (flip‑chip ball grid array) substrates, used in AI servers, robotics and smart-car chips, strengthening Vietnam’s role in AI server and high-performance computing component manufacturing. The company, an electronic components unit of Samsung Group, plans 4.27 trillion won (~$3.2bn) for a Sejong, South Korea plant — its largest single-product investment to date — and 2.51 trillion won (~$1.87bn) for its Vietnam unit; the Vietnam facility, which ran FC-BGA trials in Thai Nguyen province in 2022, is being scaled to mass production."
+    },
+    {
+      "id": "5129316",
+      "time": "2026-10-07 09:30:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本公平交易委員會對4家日本啤酒商涉嫌壟斷展開調查。"
+    },
+    {
+      "id": "5129315",
+      "time": "2026-10-07 09:30:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本將於10月14日發行2.50萬億日元的5年期國債。"
+    },
+    {
+      "id": "mkt:01a113f9-e121-7ee0-a7c7-c0318110e7e4",
+      "time": "2026-10-07 09:28:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese team publishes first global 3D spatiotemporal single‑cell atlas of entire rice lifecycle】Yazhou Bay National Laboratory says Chinese researchers from multiple institutes published online in Cell on the evening of the 6th the first global 3D spatiotemporal single‑cell atlas covering rice from seed germination through flowering and grain set. The dataset integrates genome sequencing, single‑cell sequencing and spatial transcriptomics and provides a resource for understanding rice development and guiding grain‑quality improvement."
+    },
+    {
+      "id": "5129314",
+      "time": "2026-10-07 09:26:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國團隊全球首次構建水稻全生命週期三維時空細胞圖譜】記者從崖州灣國家實驗室獲悉，由我國多個科研機構分工協作完成的最新水稻研究成果，於6日晚在國際學術期刊《細胞》（Cell）線上發表。內容為我國研究團隊在全球範圍內首次構建了覆蓋水稻從種子萌發到開花結實全過程的三維時空細胞圖譜，整合了基因組測序、單細胞測序與空間轉錄組測序，為理解水稻生長發育、探索籽粒品質改良提供了新的研究資源。（央視新聞）"
+    },
+    {
+      "id": "5129313",
+      "time": "2026-10-07 09:24:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭將於10月8日釋出2025-26年度政府財務報表。"
+    },
+    {
+      "id": "mkt:01a113f5-6126-7ee0-a7c7-b999defbf6e3",
+      "time": "2026-10-07 09:23:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02269.HK",
+        "Impact bearish",
+        "06160.HK",
+        "01801.HK"
+      ],
+      "text": "Hong Kong-listed biopharma names pulled back in early trade; WuXi Biologics (02269.HK) opened down 3.11%, BeiGene (06160.HK) down 2.45% and Innovent Biologics (01801.HK) down 2.37%."
+    },
+    {
+      "id": "mkt:01a113f5-4cc5-7ee0-a7c7-b30ccfad0a3c",
+      "time": "2026-10-07 09:23:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,150/oz, down 0.33% intraday."
+    },
+    {
+      "id": "mkt:01a113f5-0672-7ee0-a7c7-ac58393fd691",
+      "time": "2026-10-07 09:23:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【A$70 billion Australian coal sector faces new climate-law risk after High Court ruling】Australia’s High Court on Wednesday ruled in a major coal mine expansion case that a local planning authority failed to properly consider measures to limit greenhouse gas emissions. A lower court had found scope 3 emissions from customers burning the coal would account for about 98% of the project’s potential pollution. The decision will directly affect New South Wales coal mine approvals and could serve as a precedent for similar projects nationwide; roughly 30 new or expanded coal projects are seeking government sign-off. Australia’s coal export sector is about A$70 billion (US$49 billion); miners warn approval delays could hit jobs and damage Australia’s standing as an energy supplier."
+    },
+    {
+      "id": "5129312",
+      "time": "2026-10-07 09:22:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本防相小泉進次郎 ：對這起駭人聽聞的罪行（沖繩美軍殺人事件）深感憤慨。"
+    },
+    {
+      "id": "5129311",
+      "time": "2026-10-07 09:22:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4150美元/盎司，日內跌0.33%。"
+    },
+    {
+      "id": "mkt:01a113f3-8e14-7ee0-a7c7-a2e4df59a9e0",
+      "time": "2026-10-07 09:21:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hong Kong equities opened lower on October 7 (Wednesday). The Hang Seng Index opened down 108.27 points (-0.45%) at 24,172.29. The Hang Seng TECH Index opened down 13.94 points (-0.33%) at 4,209.14. The Hang Seng China Enterprises Index opened down 33.89 points (-0.42%) at 8,095.08. The Hang Seng Red Chip Index opened up 10.60 points (+0.27%) at 4,009.24."
+    },
+    {
+      "id": "mkt:01a113f3-7cd3-7ee0-a7c7-98ffeadc227b",
+      "time": "2026-10-07 09:21:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks opened lower: HSI down 0.45%, Hang Seng Tech Index down 0.33%."
+    },
+    {
+      "id": "5129310",
+      "time": "2026-10-07 09:21:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.45%，恒生科技指數跌0.33%】美團-W跌1.06%，藥明康德跌1.10%，友邦保險跌1.16%，比亞迪電子跌1.59%，信達生物跌2.37%，百濟神州跌2.72%，藥明生物跌3.11%。"
+    },
+    {
+      "id": "5129309",
+      "time": "2026-10-07 09:16:28",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行將購買850億日元10年至25年期日本國債，上一輪操作為1000億日元。日本央行將購買3300億日元1年至3年期日本國債，上一輪操作為3550億日元。"
+    },
+    {
+      "id": "te:markets:589988",
+      "time": "2026-10-07 09:15:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Slips as Oil Prices Rebound — Silver slipped below $61 an ounce on Wednesday, paring gains from the previous session as oil prices rebounded on persistent risks to Middle East supply, keeping inflationary risks and rate hike concerns in focus. Oil prices advanced as Iran intensified attacks on tankers in the Strait of Hormuz in recent days, while Saudi forces continued to clash with the Houthis. Treasury yields also remained near multi-decade highs amid concerns over persistent inflation, rising fiscal risks and elevated AI-related debt issuances. Meanwhile, markets are pricing in nearly an 80% chance that the US Federal Reserve will keep rates unchanged this month following weaker-than-expected job growth in September and downward revisions to payrolls for the prior two months. Investors now await minutes from the Fed’s latest meeting for further clues on the monetary policy outlook."
+    },
+    {
+      "id": "5129308",
+      "time": "2026-10-07 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.18%，報24209.40點，低水71.16點。"
+    },
+    {
+      "id": "te:markets:589987",
+      "time": "2026-10-07 09:14:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Eases as Oil Prices Recover — Gold slipped below $4,150 an ounce on Wednesday, giving back some of the previous session’s gains as oil prices rebounded on persistent risks to Middle East supply, keeping inflationary risks and rate hike concerns in focus. Oil prices advanced as Iran intensified attacks on tankers in the Strait of Hormuz in recent days, while Saudi forces continued to clash with the Houthis. Treasury yields also remained near multi-decade highs amid concerns over persistent inflation, rising fiscal risks and elevated AI-related debt issuances. Meanwhile, markets are pricing in nearly an 80% chance that the US Federal Reserve will keep rates unchanged this month following weaker-than-expected job growth in September and downward revisions to payrolls for the prior two months. Investors now await minutes from the Fed’s latest meeting for further clues on the monetary policy outlook."
+    },
+    {
+      "id": "5129307",
+      "time": "2026-10-07 09:14:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印尼 2026 年鎳礦產量預計約 2.9 億噸。"
+    },
+    {
+      "id": "te:economy:589986",
+      "time": "2026-10-07 09:14:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Philippines Manufacturing Output Growth Picks Up in August — Manufacturing production in the Philippines increased by 10.8% year-on-year in August, accelerating from an upwardly revised 9.9% rise in the previous month. The largest positive contribution came from the manufacture of computer, electronic and optical products (30.1% vs 15.8%), which accounted for 57.3% of the acceleration in the annual growth rate. Other major contributors included the manufacture of transport equipment (11.5% vs 4.9%), basic metals (27.2% vs 23.9%), rubber and plastic products (15.0% vs 9.9%), electrical equipment (10.9% vs 2.9%), and beverages (4.2% vs 3.6%). Meanwhile, production growth moderated for coke and refined petroleum products (24.7% vs 47.6%) and food products (1.3% vs 2.6%). For the January-August period, manufacturing output was 9.3% higher than in the same period a year earlier."
+    },
+    {
+      "id": "te:economy:589985",
+      "time": "2026-10-07 09:14:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Philippines Jobless Rate Falls to 5.3% — The unemployment rate in the Philippines fell to 5.3% in August 2026 from a four-year high of 6% in the previous month. The number of unemployed persons declined to 2.77 million from 3.14 million, while the employment rate rose to 94.7% from 94% and the number of employed persons increased to 49.79 million from 49.21 million over the same period. The underemployment rate also eased to 11.9% from 12.9%, with 5.90 million workers seeking additional hours or another job. On a year-on-year basis, however, the unemployment rate remained above 3.9% in August 2025, while the employment rate was below 96.1% and the number of employed persons was down from 50.10 million. The underemployment rate was also higher than 10.7% a year earlier. The services sector remained the largest employer, accounting for 61.7% of total employment, followed by agriculture at 20.9% and industry at 17.3%. Average weekly working hours fell to 39.2 from 40.6 in July and 41.0 a year earlier."
+    },
+    {
+      "id": "5129306",
+      "time": "2026-10-07 09:13:25",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【貝森特執掌下的美國財政部：內部緊張、人事動盪及未達成的經濟目標】據媒體報道，知情人士稱，在1月財政部的一場會議上，美國財長貝森特當面質問負責恐怖主義與金融情報事務的財政部副部長約翰・赫爾利，當著多名下屬的面大聲斥責，口出穢言。貝森特音量極大，附近辦公的員工都能聽見。訊息人士表示，幾周之後，貝森特便和幕僚商議，打算為這位已經獲得參議院確認任職的赫爾利另尋一份財政部之外的崗位。赫爾利後來調任美國駐經濟合作與發展組織大使。彼時，財長正面臨職業生涯中最嚴峻的挑戰，赫爾利的離職也成了財政部高層一連串人事出走中的一例。知情人士稱，貝森特的行事風格是多名核心官員離職的誘因，有時甚至是最主要原因。據十餘名財政部現任及前任官員透露，自2025年初就任財長以來，無論事情大小，貝森特既斥責高階顧問，也訓斥基層工作人員。但特朗普反而進一步倚重貝森特，授權他去化解多項難題，包括借貸成本高企、受能源價格推動而難以遏制的通脹，以及政府債務快速累積的困境。與此同時，貝森特還受命透過一項名為“經濟棄兒行動”的計劃，以經濟手段終結對伊朗的戰爭。一名曾與貝森特共事的政府高階官員表示，總統整套經濟政策的重擔全部壓在這位財長身上。該官員稱：“斯科特輸不起。”貝森特曾建議特朗普推行“3-3-3”政策：到2028年將預算赤字降至國內生產總值的3%、推動國內生產總值實現3%增長、每日增產300萬桶石油。但實際經濟增速僅約2%，自特朗普上任以來石油日增產量不足100萬桶。美國負責任聯邦預算委員會資料顯示，當前預算赤字佔國內生產總值比重超過6%，美國債務總量近期突破40萬億美元。"
+    },
+    {
+      "id": "mkt:01a113eb-4195-7ee0-a7c7-914ae91bb3bc",
+      "time": "2026-10-07 09:12:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan will buy ¥85 billion of 10-25 year JGBs, down from ¥100 billion in the prior operation. It will buy ¥330 billion of 1-3 year JGBs, down from ¥355 billion previously."
+    },
+    {
+      "id": "5129305",
+      "time": "2026-10-07 09:09:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【青花汾20六連陽迭創新高 精品茅臺強勢反彈 飛天茅臺零售均價降至1799】新浪財經“酒價內參”過去24小時收集的資料顯示，10月7日中國白酒業12大單品的終端零售均價五漲三跌四平，平盤品種數量明顯增多，但上漲品種數量仍佔優，且累計漲幅超過下跌端，整體價盤延續回升態勢。贏家方面，精品茅臺上漲3元至2467元，強勢收復昨日失地，再度向2470元一線靠攏；青花汾20上漲2元至415元，六連陽強勢攀升，再創近一個月新高；古井貢古20上漲1元至553元，三連陽穩步走強，繼續重新整理近30天最高紀錄；習酒君品上漲3元至636元，結束此前三連跌；水晶劍南春上漲1元至415元，止住昨日回撥，價格重新走高。輸家方面，飛天茅臺下跌2元至1799元，此前連續17日挺立1800元關口之上；洋河夢之藍M6+下跌1元至617元，四連跌持續回探，自近期高點進一步回落；青花郎下跌1元至698元，昨日反彈後再度轉跌，重新落至700元關口下方。持平方面，茅臺1935維持688元不變，昨日回落後價格暫時企穩；五糧液普五八代保持806元不變，連續第二日平盤，已連續四天穩定在800元之上；五糧液1618維持830元，近期高位執行態勢未改；國窖1573保持882元不變，昨日大漲後進入高位整理。\n\n今日12大單品的終端零售總價繼續回升，4款產品價格為平盤，而贏家累計漲幅仍佔優，整體價盤延續修復走勢。如果12大單品各取一瓶整體打包售賣，今日總售價為10806元，較昨日溫和上漲6元，連續第二日站穩10800元整百關口，並創下5天以來新高。"
+    },
+    {
+      "id": "5129304",
+      "time": "2026-10-07 09:08:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國鐵路今天預計傳送旅客2415萬人次】今天是國慶中秋假期的最後一天，昨天起鐵路返程客流有明顯增長，今天全國鐵路預計傳送旅客2415萬人次。鐵路中秋國慶假期運輸自9月23日啟動，到昨天已經傳送旅客超2.5億人次。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a113e7-8a7d-7ee0-a7c7-8f205aa17956",
+      "time": "2026-10-07 09:08:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's railways expect 24.15 million passengers today】China's railways expect to carry 24.15 million passengers today, the final day of the National Day–Mid-Autumn holiday, after return flows rose from yesterday. Holiday rail services began Sept 23; through yesterday more than 250 million passenger trips have been handled. With the return peak, capacity has been increased: 2,449 additional passenger trains are scheduled today. China Railway Beijing Group expects volumes to be up 15% YoY and plans to add 169.5 train pairs, mainly on routes to Harbin, Shenyang, Dalian and Datong. China Railway Guangzhou Group expects volumes up 20.8% YoY and plans 765 additional passenger trains, mainly on Beijing–Guangzhou, Guangzhou–Shenzhen–Hong Kong, Hangzhou–Shenzhen and Jiangzhan routes."
+    },
+    {
+      "id": "mkt:01a113e6-c3e3-7ee0-a7c7-868469c6182d",
+      "time": "2026-10-07 09:07:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Wall Street Journal reports Trump is increasingly relying on Treasury Secretary Bessent and has tasked him with tackling high borrowing costs, oil-driven stubborn inflation and rapidly accumulating government debt. A senior official who worked with Bessent said the burden of the president’s entire economic-policy agenda rests on the secretary."
+    },
+    {
+      "id": "mkt:01a113e5-b1a5-7ee0-a7c7-7e422973d8e0",
+      "time": "2026-10-07 09:06:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal, citing current and former Treasury officials, reported U.S. Treasury Secretary Bessent's management style has been a factor—sometimes the primary factor—in the departures of several key officials. Officials say since Bessent took office in early 2025 he has frequently rebuked both senior advisers and junior staff over matters large and small."
+    },
+    {
+      "id": "5129303",
+      "time": "2026-10-07 09:05:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "伊藤忠商事：與擁有人工智慧藥物發現技術的 MOLCURE 公司簽署資本聯盟協議。"
+    },
+    {
+      "id": "5129302",
+      "time": "2026-10-07 09:04:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4180美元/盎司，日內跌0.17%。"
+    },
+    {
+      "id": "5129301",
+      "time": "2026-10-07 09:03:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓8月失業率為5.3%。"
+    },
+    {
+      "id": "5129300",
+      "time": "2026-10-07 09:03:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報90.36美元/桶。"
+    },
+    {
+      "id": "5129299",
+      "time": "2026-10-07 09:02:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【預計傳送旅客415萬人次 長三角鐵路今日迎來返程客流最高峰】從中國鐵路上海局集團有限公司（簡稱上鐵集團）獲悉，10月7日是國慶假期最後一天，全國鐵路迎來返程客流最高峰，上鐵集團當天預計傳送旅客415萬人次，較去年同比增長17.7%。"
+    },
+    {
+      "id": "5129298",
+      "time": "2026-10-07 09:02:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "珀斯鑄幣廠9月份白銀銷量增至605,408盎司。"
+    },
+    {
+      "id": "5129297",
+      "time": "2026-10-07 09:02:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞珀斯鑄幣廠9月份黃金銷量增至47,300盎司。"
+    },
+    {
+      "id": "5129296",
+      "time": "2026-10-07 09:01:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "新加坡海峽時報指數開盤下跌0.5%，至5670.60點。馬來西亞吉隆坡綜合指數開盤變化不大，報1633.54。"
+    },
+    {
+      "id": "5129295",
+      "time": "2026-10-07 09:01:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率下跌3.0個基點，至4.205%。"
+    },
+    {
+      "id": "mkt:01a113e1-1150-7ee0-a7c7-73825638a7e9",
+      "time": "2026-10-07 09:01:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact mixed"
+      ],
+      "text": "Japan's 30-year government bond yield fell 3.0 basis points to 4.205%."
+    },
+    {
+      "id": "mkt:01a113e0-f5f3-7ee0-a7c7-6a20e80fcbbe",
+      "time": "2026-10-07 09:01:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Taiwan's TAIEX opened down 165.37 points, or 0.33%, at 49,657.18 on Wednesday, Oct. 7."
+    },
+    {
+      "id": "5129294",
+      "time": "2026-10-07 09:00:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報49,857.32。"
+    },
+    {
+      "id": "mkt:01a113e0-5c12-7ee0-a7c7-66395423e58d",
+      "time": "2026-10-07 09:00:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.22% higher."
+    },
+    {
+      "id": "5129293",
+      "time": "2026-10-07 09:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨盤初上漲0.2%。"
+    },
+    {
+      "id": "5129292",
+      "time": "2026-10-07 08:59:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱其控制區遭沙特多次襲擊】當地時間6日夜間，總檯報道員在葉門首都薩那至少聽到兩聲爆炸聲以及戰鬥機飛過的聲音。此外，葉門胡塞武裝軍事發言人葉海亞·薩雷亞當天在社交媒體發文稱，6日夜間，沙特空襲了葉門薩那、阿姆蘭省、焦夫省、薩達省等地。葉門胡塞武裝軍事發言人葉海亞·薩雷亞稱，過去24小時，沙特針對胡塞武裝控制區發動了數次空襲和導彈襲擊，目標涉及焦夫省、塔伊茲省、阿姆蘭省、馬裡卜省、荷臺達省、哈傑省和薩達省。胡塞武裝稱自本輪局勢升級以來，沙特發動的空襲和導彈襲擊總數已達到1642次。此外，胡塞武裝稱6日使用導彈、無人機對葉門南部拉赫季省、北部焦夫省以及鄰近的馬裡卜省發動數十次襲擊。宣告還說，胡塞武裝正在西南部塔伊茲省繼續對葉門政府軍展開軍事行動。"
+    },
+    {
+      "id": "5129291",
+      "time": "2026-10-07 08:58:31",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【俄稱將對日採取反制措施 回應日方不友好舉動】當地時間5日，俄羅斯外交部發言人扎哈羅娃就日本近期出臺的對俄新制裁措施發表評論，明確指出俄方將採取相應反制措施，相關行動將聚焦日本重點利益領域，以回應日方一系列不友好舉動。（央視）"
+    },
+    {
+      "id": "5129290",
+      "time": "2026-10-07 08:56:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【油氣運輸量上升之際 伊朗對霍爾木茲海峽油輪的襲擊愈發頻繁】近日，隨著經由全球最重要能源咽喉要道的石油運輸量接近戰前水平，伊朗加快了對霍爾木茲海峽油輪的襲擊步伐。英國海上貿易行動辦公室報告稱，本月該水道已發生9起襲擊事件，佔9月份該辦公室在霍爾木茲海峽和波斯灣地區報告襲擊總數的一半。上個月的資料因最後兩天的4起襲擊而有所增加，這凸顯了近期襲擊的加速趨勢。在美伊戰爭的大部分時間裡，霍爾木茲海峽的船隻一直遭到襲擊，但強度不一。此前幾輪猛烈打擊曾導致運輸量短暫下降，不過這些下降通常會在隨後幾天因運輸量增加而得到彌補。海事安全官員和航運高管表示，目前尚不清楚最近的局勢升級是否會導致霍爾木茲海峽的運輸量下降。近幾周海上天然氣運輸量也有所上升，其受到的影響仍不確定。"
+    },
+    {
+      "id": "5129289",
+      "time": "2026-10-07 08:50:44",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【媒體：越南考慮股市午間不休市、擴大漲跌幅區間】越南新聞網站VnExpress援引越南國家證券委員會副主席黃文秋（Hoàng Văn Thu）訊息報道，監管部門正考慮取消午間休市、放寬個股日內漲跌幅限制，旨在提升股市流動性，增強對投資者吸引力。黃文秋週二在財政部簡報會上表示，監管機構還在評估取消部分定期集合競價時段。目前尚未確定實施時間。報道稱，交易所將評估上述改革方案對市場穩定性、技術系統及運營的影響，之後再製定實施路線圖。財政部副部長阮德志在同一場會議上表示，有關部門還在研究縮短結算週期，逐步向T+0交易機制推進。注：媒體上月報道，胡志明證券交易所提議在12月底前，將日內漲跌幅限制由7%上調至10%。越南在富時羅素提升市場分類後，考慮放寬股票日內漲跌幅。"
+    },
+    {
+      "id": "5129288",
+      "time": "2026-10-07 08:48:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，越南當局正考慮允許股票交易延長至午休時間，並擴大每日價格區間，以期提高股市流動性，使股票交易對投資者更具吸引力。"
+    },
+    {
+      "id": "te:economy:589981",
+      "time": "2026-10-07 08:45:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private House Approvals",
+        "Importance 1"
+      ],
+      "text": "Rebound in Australia Private House Approvals Confirmed — Private sector house approvals in Australia rose 3.7% month-on-month to 10,885 units in August 2026, in line with flash data. The latest result was the strongest monthly rise since July 2025, reversing from a 1.9% decline in the previous month. Permits grew the most in South Australia (27.7%), followed by Western Australia (8.6%), Queensland (6.5%), and Victoria (0.5%). In contrast, approvals in New South Wales fell 4.5%. On an annual basis, private house approvals jumped 18.4%, picking up from an 8.2% increase in July."
+    },
+    {
+      "id": "5129287",
+      "time": "2026-10-07 08:44:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普週三將釋出宣告 並在得州發表講話】白宮官方日程顯示，美國總統特朗普將於週三美國東部時間下午 1 點在橢圓形辦公室發表宣告。日程還顯示，特朗普將於美國中部時間下午 6 點在得克薩斯州聖安東尼奧發表講話。"
+    },
+    {
+      "id": "5129285",
+      "time": "2026-10-07 08:41:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本五年期國債收益率下跌0.5個基點，至2.385%。"
+    },
+    {
+      "id": "te:markets:589980",
+      "time": "2026-10-07 08:39:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Slip on Profit-Taking — The Nikkei 225 Index fell 0.2% to below 70,600 on Wednesday, snapping a two-day advance as investors locked in profits after the benchmark index rallied to a three-month high. Still, global equities remained supported by expectations that companies can withstand higher interest rates and energy costs, with the S&P 500 and Nasdaq Composite hitting fresh record highs overnight. Meanwhile, oil prices recovered as ongoing risks to Middle East energy flows outweighed signs of improving supply from the region. In corporate news, SpaceX was reportedly seeking to raise $40 billion to purchase Nvidia chips, strengthening the outlook for the technology sector. Among individual stocks, Fujikura (1.7%), SoftBank Group (1.6%) and Furukawa Electric (4.1%) posted notable gains, while Kioxia Holdings (-3.4%), Advantest (-1.2%) and Disco Corp (-4.8%) declined."
+    },
+    {
+      "id": "5129284",
+      "time": "2026-10-07 08:38:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧將於希臘當地時間週三晚上7點會見希臘總理。"
+    },
+    {
+      "id": "5129283",
+      "time": "2026-10-07 08:35:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【法國國債期貨在六個月最大漲幅後下跌】法國國債期貨週二創下六個月最大漲幅後，於亞洲交易時段走低。十年期國債期貨下跌43個點，報109.45。該合約週二最大漲幅達163個點，為4月以來最大。"
+    },
+    {
+      "id": "5129282",
+      "time": "2026-10-07 08:34:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【基輔傳出多次爆炸聲】據外媒報道，烏克蘭首都基輔7日凌晨傳出多次爆炸聲。（新華社）"
+    },
+    {
+      "id": "5129281",
+      "time": "2026-10-07 08:34:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中東部大部晴朗乾燥持續 氣溫回升晝夜溫差較大】未來三天（10月7日至9日），中東部大部以晴朗天氣居多，空氣乾燥，海南等地需防範強降雨。同時，南北方氣溫將在波動中回升，最高氣溫25℃以上的範圍逐漸擴大，但早晚溫差較大，公眾需及時添衣。"
+    },
+    {
+      "id": "te:economy:589979",
+      "time": "2026-10-07 08:34:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Building Permits MoM",
+        "Importance 1"
+      ],
+      "text": "Steep Decline in Australia Building Permits Confirmed — Australia’s seasonally adjusted dwelling approvals fell 6.1% month-on-month to a seven-month low of 16,953 units in August 2026, matching the flash estimate and deepening from a 1.9% decline in the previous month. It was the fifth time of contraction so far this year, with approvals for private-sector dwellings excluding houses plummeting (-21.2% vs 0.8% in July) to 5,674 units. In contrast, private-sector house approvals rebounded (3.7%vs -1.9%) to 10,885 units. Across the states, dwelling approvals declined in Queensland (-22.5%), New South Wales (-17.3%) and Tasmania (-1.5%), but increased in South Australia (24.0%), Victoria (8.9%) and Western Australia (3.2%). On a yearly basis, building approvals rose 10.3%, easing slightly from a 10.9% gain in July."
+    },
+    {
+      "id": "5129280",
+      "time": "2026-10-07 08:32:48",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通上調濰柴動力目標價，看好其強勁前景】摩根大通上調濰柴動力目標價，理由是公司出貨前景向好、利潤率具備韌性、AI資料中心業務增長提速以及固體氧化物燃料電池（SOFC）商業化推進。包括KarenLi在內的摩根大通分析師在研報中寫道，這家中國製造商近期股價回撥，源於市場對AI資料中心電源供應鏈的負面情緒以及宏觀逆風因素，並非濰柴的業務執行或基本面出現惡化。注：該股較5月曆史高點已下跌超30%。“Bloom Energy、Ceres以及船舶發動機/燃氣發動機頭部企業的行業對標資料均顯示，濰柴具備多年增長空間，海內外AIDC算力電源需求以及固體氧化物燃料電池業務帶來的上行潛力尚未完全反映在市場一致預期與估值之中。”摩根大通維持濰柴動力增持評級，目標價由55港元上調至57港元。"
+    },
+    {
+      "id": "5129279",
+      "time": "2026-10-07 08:32:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌0.5個基點至3.090%。"
+    },
+    {
+      "id": "5129278",
+      "time": "2026-10-07 08:30:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國Kospi指數逆轉開盤跌勢；最新漲0.1%，報6950.63點。"
+    },
+    {
+      "id": "5129277",
+      "time": "2026-10-07 08:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國國債期貨在經歷六個月來最大漲幅後回落。"
+    },
+    {
+      "id": "5129276",
+      "time": "2026-10-07 08:29:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普將於美國東部時間週三下午1點發表宣告。"
+    },
+    {
+      "id": "mkt:01a113c3-bf18-7ee0-a7c7-5b924c30bd68",
+      "time": "2026-10-07 08:29:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Aden Security Bureau media office said two missiles fired by Houthi forces struck Yemen's Aden International Airport; no casualties reported so far."
+    },
+    {
+      "id": "5129275",
+      "time": "2026-10-07 08:28:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞丁安全當局媒體辦公室：胡塞武裝發射的兩枚導彈襲擊了葉門亞丁國際機場，目前暫無人員傷亡報告。"
+    },
+    {
+      "id": "5129274",
+      "time": "2026-10-07 08:28:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞丁安全當局媒體辦公室：胡塞武裝發射的兩枚導彈襲擊了葉門亞丁國際機場。"
+    },
+    {
+      "id": "5129273",
+      "time": "2026-10-07 08:28:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴以衝突三載咫尺兩重天】2026年10月7日，巴以新一輪衝突爆發已三年。總檯記者近日在距加沙邊境不到三公里的以色列南部邊境小城斯代羅特看到，這裡的生活基本回歸軌道。 但在同一片天空下的加沙，時間彷彿停滯在戰火中，超八成建築受損、發展水平倒退77年，生存體系近乎崩塌，重建遙遙無期。雖然國際社會支援兩國方案、承認巴勒斯坦國的呼聲持續走高，但定居點擴張、耶路撒冷歸屬、難民迴歸、加沙重建等問題無一取得進展。這片土地通往真正和平的道路，依舊荊棘叢生、道阻且長。（CCTV國際時訊 ）"
+    },
     {
       "id": "5129272",
       "time": "2026-10-07 08:25:20",
