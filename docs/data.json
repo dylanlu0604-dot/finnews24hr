@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-07 08:11:50",
-  "count": 9595,
+  "updated": "2026-10-07 08:15:34",
+  "count": 9590,
   "items": [
+    {
+      "id": "5129261",
+      "time": "2026-10-07 08:14:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "上季度中國臺灣加權指數跑贏韓國綜合股價指數約23個百分點，盈利預期上調幅度也自2025年3月以來首次超過韓國同行。美國銀行上月調查的基金經理中，約40%表示超配中國臺灣股市，而超配韓國股市的基金經理僅佔25%。"
+    },
+    {
+      "id": "5129260",
+      "time": "2026-10-07 08:11:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數盤中升破歷史最高收盤水平。"
+    },
     {
       "id": "5129259",
       "time": "2026-10-07 08:08:52",
@@ -88323,67 +88340,6 @@
         "國際"
       ],
       "text": "市場分析：日本8月工業產出意外下滑，大機率源於九州地震造成供應鏈中斷，當地工廠曾臨時停產。原油供應緊張同樣拖累石油相關產品產量。本次產出受挫或將對第三季度國內生產總值（GDP）造成衝擊。"
-    },
-    {
-      "id": "5119664",
-      "time": "2026-09-30 08:14:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本東證指數漲幅擴大至1%。"
-    },
-    {
-      "id": "5119663",
-      "time": "2026-09-30 08:14:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【貸款貼息政策加力 買房、經營、消費都能省】9月29日，財政部、中國人民銀行、金融監管總局釋出了《關於實施居民購房貸款貼息政策的通知》，明確從10月1日起，對符合條件的居民家庭貸款購買首套住房，給予年化一個百分點的貼息。按照目前首套住房商業性個人住房貸款利率水平，相當於優惠了利率的三分之一。例如，對於一筆長期限的100萬元商業性個人住房貸款，貼息政策最多可幫助借款人累計減少付息近5萬元。據瞭解，政策實施期暫定1年。為便於廣大居民家庭就近貸、就近享，開展商業性個人住房貸款業務的全部銀行，都可以按規定經辦居民購房貸款貼息業務。購房人按照正常信貸流程在銀行辦理貸款，只需在簽訂貸款合同時同步授權銀行代為辦理貼息。銀行自動識別符合條件的借款人，在按月收息時自動計算並扣減對應的貼息金額。貼息優惠會直接體現在每期還款金額裡。（央視）"
-    },
-    {
-      "id": "mkt:01a0efa8-f40d-7338-ab1f-614b8b551619",
-      "time": "2026-09-30 08:13:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened up 9.70 points, or 0.11%, at 8,719.00 on Wednesday, Sept. 30."
-    },
-    {
-      "id": "mkt:01a0efa8-82fe-7338-ab1f-5a368129d6f0",
-      "time": "2026-09-30 08:13:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CITIC Securities: Optical-module thermal control becoming performance determinant as 800G ramps and 1.6T begins volume year】CITIC Securities says thermal management for optical modules is shifting from a supporting component to a performance-determining factor as 800G volumes scale and 1.6T enters its initial volume year, raising per-module power and temperature-precision requirements. Thermal solutions are evolving into a three-tier stack: chip-level precise temperature control (Micro-TEC plus ceramic-substrate heatsink), interface heat conduction (TIM gels and graphene pads), and module-level heat spreading (VC spreaders/cold plates). Per-module thermal content and pricing are rising with speed upgrades, and CPO/NPO architectures that colocate optical engines and switching ASICs increase same-domain cooling demand, supporting simultaneous volume and price growth across the supply chain. Core components such as TECs and ceramic substrates have been dominated by Japanese suppliers; domestic Chinese players are accelerating breakthroughs, leaving substantial onshore substitution potential. CITIC highlights three investment themes: TECs and ceramic substrates; TIMs and graphene thermal materials; and VC spreaders plus liquid-cooling structural parts."
-    },
-    {
-      "id": "5119662",
-      "time": "2026-09-30 08:13:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本太陽誘電股價上漲9.2%；將與TDK在零部件方面展開合作。"
-    },
-    {
-      "id": "te:economy:587873",
-      "time": "2026-09-30 08:12:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "New Zealand Business Sentiment Slips to 3-Month Low — New Zealand’s ANZ Business Outlook Index dropped to 51.9 in September 2026 from 53.7 in the prior month, marking the lowest reading since June. The latest result highlighted a moderation in business confidence amid ongoing cost pressures and uncertainty over the economic outlook."
-    },
-    {
-      "id": "5119661",
-      "time": "2026-09-30 08:12:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印媒：印度食品安全整治行動“前所未有”】“乾淨的餐盤、紅色的標識：食品安全風暴撼動印度千億美元市場。”印度《論壇報》28日以此為題報道稱，印度正在經歷一場前所未有的食品安全整治行動。從餐館、酒店、奶製品企業，到電商平臺和包裝食品巨頭，印度中央和地方監管部門近期連續展開檢查、突襲、查封和處罰，並推動在高糖、高鹽、高脂食品包裝正面增加醒目的紅色警示標識。印度媒體稱，今年以來，印度的食品安全監管已經從過去相對分散的常規檢查，逐漸演變為一場覆蓋生產、銷售和消費環節的集中整頓。（環球網）"
     }
   ]
 }
