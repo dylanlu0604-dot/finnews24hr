@@ -1,7 +1,25 @@
 {
   "date": "2026-10-08",
-  "count": 292,
+  "count": 294,
   "items": [
+    {
+      "id": "mkt:01a1184b-be8c-7ee0-a7e2-2273f17aefe2",
+      "time": "2026-10-08 05:36:19",
+      "tags": [
+        "MKT News",
+        "WOLF.N",
+        "Impact bullish"
+      ],
+      "text": "【Pentagon offers up to $1.5 bln loan to Wolfspeed for domestic SiC capacity, seeks warrants for up to 7.5% stake】The Pentagon has proposed a conditional senior secured loan commitment of up to $1.5 bln with a 30-year term to Wolfspeed (WOLF.N) to support U.S. silicon carbide (SiC) materials and wide-bandgap power device production. Under terms still to be negotiated, Wolfspeed would issue warrants allowing the Pentagon to acquire up to 7.5% of the company in tranches. Wolfspeed, which filed for bankruptcy in July after production problems at a key SiC wafer plant, said it will use the financing to expand SiC and power-device output for telecom, aerospace and defense and to upgrade materials supply for military communications systems. Shares jumped more than 28% in after-hours trading on the news."
+    },
+    {
+      "id": "mkt:01a11849-df13-7ee0-a7e2-1d2f3a4e67c0",
+      "time": "2026-10-08 05:34:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US proposes steep fees on international students' OPT】On the 7th the Department of Homeland Security proposed a rule imposing large fees on international students using Optional Practical Training (OPT). Under the proposal, schools would pay $70,000 for each student's initial OPT application and $30,000 for each extension. OPT allows F-1 students to work in roles directly related to their field of study and is a key transition pathway to employment visas. DHS said the measure is intended to curb visa fraud and abuse and to prevent OPT from becoming a backdoor into the US labor market."
+    },
     {
       "id": "5130729",
       "time": "2026-10-08 05:31:19",
