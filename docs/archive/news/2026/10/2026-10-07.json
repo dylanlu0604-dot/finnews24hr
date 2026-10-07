@@ -1,7 +1,19 @@
 {
   "date": "2026-10-07",
-  "count": 629,
+  "count": 630,
   "items": [
+    {
+      "id": "te:markets:590011",
+      "time": "2026-10-07 10:37:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Steadies Ahead of Fed Minutes — The yield on the 10-year US Treasury note steadied around 5.31% on Wednesday, remaining near 24-year highs as investors awaited minutes from the Federal Reserve’s latest meeting for clues on the outlook for monetary policy. Traders also monitored remarks from Fed officials, with policymakers increasingly signaling a less hawkish stance on interest rates following softer-than-expected PCE inflation and jobs data released last week. Markets are currently pricing in nearly an 80% chance that the Fed will keep policy unchanged this month. Meanwhile, Treasury bonds remained under pressure as concerns over persistent inflation, widening fiscal risks and increased issuance of AI-related debt continued to weigh on sentiment. Oil prices also advanced as renewed attacks on tankers in the Strait of Hormuz and continued fighting between Saudi forces and the Houthis heightened concerns over energy supplies, keeping inflation and potential rate hikes in focus."
+    },
     {
       "id": "5129365",
       "time": "2026-10-07 10:34:11",

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-07 10:34:46",
-  "count": 9428,
+  "updated": "2026-10-07 10:38:33",
+  "count": 9425,
   "items": [
+    {
+      "id": "te:markets:590011",
+      "time": "2026-10-07 10:37:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Steadies Ahead of Fed Minutes — The yield on the 10-year US Treasury note steadied around 5.31% on Wednesday, remaining near 24-year highs as investors awaited minutes from the Federal Reserve’s latest meeting for clues on the outlook for monetary policy. Traders also monitored remarks from Fed officials, with policymakers increasingly signaling a less hawkish stance on interest rates following softer-than-expected PCE inflation and jobs data released last week. Markets are currently pricing in nearly an 80% chance that the Fed will keep policy unchanged this month. Meanwhile, Treasury bonds remained under pressure as concerns over persistent inflation, widening fiscal risks and increased issuance of AI-related debt continued to weigh on sentiment. Oil prices also advanced as renewed attacks on tankers in the Strait of Hormuz and continued fighting between Saudi forces and the Houthis heightened concerns over energy supplies, keeping inflation and potential rate hikes in focus."
+    },
     {
       "id": "5129365",
       "time": "2026-10-07 10:34:11",
@@ -86827,46 +86839,6 @@
         "宏觀"
       ],
       "text": "【國臺辦：賴清德當局自取滅亡的惡劣行徑 必遭強烈反對】國務院臺辦舉行例行新聞釋出會，有記者問：近日，賴清德宣稱，明年將編列超1.3萬億新臺幣防務預算，投入軍事採購、國際合作及防務自主，尤其是強化無人機、機器人等產業。請問對此有何評論?發言人張晗表示，賴清德當局頑固堅持“臺獨”分裂立場，妄圖“倚外謀獨”“以武謀獨”，變本加厲揮霍臺灣民眾的血汗錢。這種害臺毀臺，自取滅亡的惡劣行徑，必遭強烈反對。無論賴清德編列多少預算，倒騰多少武器，都難逃“臺獨”必然敗亡的下場。"
-    },
-    {
-      "id": "mkt:01a0f02c-cc2b-7338-ab22-f8144e296c4c",
-      "time": "2026-09-30 10:37:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "Counterpoint predicts Apple will sell 6 million iPhone Duo units this year."
-    },
-    {
-      "id": "5119895",
-      "time": "2026-09-30 10:36:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【問界充電權益接入逸安啟超充網路】9月30日，賽力斯集團董事、副總裁康波發文宣佈，今天起，問界充電權益正式接入寶馬、賓士合資共建的逸安啟超充網路。"
-    },
-    {
-      "id": "mkt:01a0f02b-7465-7338-ab22-f15258f5ace9",
-      "time": "2026-09-30 10:36:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "Wenjie Auto opens pre-sales for the new M8, with pre-sale prices starting at 389,800 yuan."
-    },
-    {
-      "id": "5119894",
-      "time": "2026-09-30 10:35:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "COUNTERPOINT預測：蘋果iPhone Duo今年將售出600萬部。"
     }
   ]
 }
