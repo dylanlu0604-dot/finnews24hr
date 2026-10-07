@@ -1,7 +1,69 @@
 {
-  "updated": "2026-10-07 08:15:34",
+  "updated": "2026-10-07 08:19:22",
   "count": 9590,
   "items": [
+    {
+      "id": "5129267",
+      "time": "2026-10-07 08:18:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本東證指數升破歷史最高收盤水平】受美股上漲帶動，日本東證指數最高上漲0.4%，觸及4201.34點，超過8月14日創下的4197.20點歷史收盤紀錄。日經225指數基本持平。隔夜標普500指數收盤創歷史新高，得益於企業盈利韌性以及人工智慧相關支出前景向好。"
+    },
+    {
+      "id": "5129266",
+      "time": "2026-10-07 08:17:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【厄瓜多遭強降雨襲擊 超1.5萬人受災】受厄爾尼諾現象影響，厄瓜多正遭遇嚴重極端天氣。連日來，該國持續遭強降雨襲擊，全國24個省中已有21個出現洪水、內澇和山體滑坡等災害，超過1.5萬人受災。最新統計顯示，自8月29日厄瓜多針對厄爾尼諾現象釋出紅色警報以來，該國已報告200多起相關災害事件。目前，該國有超過1.5萬人受災，其中，西北部埃斯梅拉達斯省受災最為嚴重。該省已有7條河流發生洪水，另有13條河流水位仍呈上漲趨勢。"
+    },
+    {
+      "id": "5129265",
+      "time": "2026-10-07 08:16:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.4%，德國DAX指數期貨下跌0.4%，富時指數期貨持平。"
+    },
+    {
+      "id": "te:markets:589978",
+      "time": "2026-10-07 08:16:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Pause After Three-Day Rise — Australian shares were little changed, hovering around 8,731 in early deals on Wednesday after gaining in the prior three sessions. Retail trade, industrial services, and consumer durables provided modest support, but weakness in tech and financials kept the index flat. Traders digested September industry updates showing a sharp drop in construction output and further weakness in manufacturing, while awaiting August building permit figures later today and October inflation expectations in coming days. U.S. futures were subdued after Wall Street closed at fresh record highs overnight, buoyed by easing Treasury yields and optimism around AI-driven earnings. China’s markets remain shut and will reopen Thursday. Among local movers, Northern Star Resources jumped 3.4%, Evolution Mining rose 2.0%, Capricorn Metals gained 2.6%, and Perseus Mining added 2.3%. Meanwhile, three of the four big banks slipped between 0.3% and 0.8%, BHP fell 0.7%, and Rio Tinto dropped 0.6%."
+    },
+    {
+      "id": "5129264",
+      "time": "2026-10-07 08:16:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星：首批支援車型為部分 2026 及 2027 款凱迪拉克電動車型。"
+    },
+    {
+      "id": "5129263",
+      "time": "2026-10-07 08:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今日37個高速公路路段易發擁堵 主要集中在江蘇河北等地】今天是國慶假期最後一天，不少人將踏上返程。記者從交通運輸部瞭解到，根據動態研判，今天（7日）全國高速公路有37個路段易發擁堵，主要集中在江蘇、河北、安徽、廣東、山東等省份。全國高速公路預計有58個服務區充電特別繁忙，主要集中在河北、湖南、安徽等省份，大家可透過“e路暢通”微信小程式查詢服務區充電樁執行狀態。"
+    },
+    {
+      "id": "5129262",
+      "time": "2026-10-07 08:15:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星錢包現已支援部分通用汽車車型的數字車鑰匙。"
+    },
     {
       "id": "5129261",
       "time": "2026-10-07 08:14:42",
@@ -88271,75 +88333,6 @@
         "國際"
       ],
       "text": "【受美聯儲抗擊通脹提振，美元或創下6月以來最佳單月表現】隨著美聯儲重新將重心放在抑制通脹上，推高了利率預期和美國債券收益率，美元正迎來6月以來的最佳單月表現。9月份，彭博美元現貨指數上漲了1.9%，觸及兩個月來的最高水平。穩健的美國經濟資料和加劇的通脹風險一直在提振該貨幣。伊朗戰爭導致能源價格居高不下，並將美國國債收益率推至歷史峰值，其中30年期國債收益率達到了2002年以來的最高水平。當前市場定價顯示，預計美聯儲未來12個月累計加息近1個百分點，進一步提振美元。"
-    },
-    {
-      "id": "5119669",
-      "time": "2026-09-30 08:17:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部：全國烈士陵園不動產全部完成確權登記發證】記者今天（30日）從自然資源部瞭解到，自2025年起，自然資源部和退役軍人事務部組織集中攻堅開展烈士陵園不動產登記專項工作，目前這項工作已經全面完成。自然資源部表示，截至目前，全國5439處烈士陵園（含烈士集中安葬墓區、烈士骨灰堂）全部完成登記發證，實現“園園有證、權屬清晰、四至明確”的目標。"
-    },
-    {
-      "id": "mkt:01a0efac-2a47-7338-ab1f-7687d062bb44",
-      "time": "2026-09-30 08:17:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【Gold steadies as oil-led disinflation competes with rising US yields】Gold rose then steadied on Tuesday as traders weighed oil's decline, which eases energy-driven inflation pressures, against elevated US Treasury yields that limit gains. The 30-year US Treasury yield climbed for a sixth straight session to its highest since 2002; higher bond yields typically dent demand for non-yielding gold. Markets will focus on Wednesday's personal consumption expenditures (PCE) inflation data, the Federal Reserve's preferred gauge, and Friday's nonfarm payrolls for signals on the interest-rate path."
-    },
-    {
-      "id": "5119668",
-      "time": "2026-09-30 08:17:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江印發通知，加快打造數字經濟高質量發展強省】近日，浙江省政府辦公廳印發《浙江省“十五五”數字經濟和數字基礎設施規劃》，規劃期限為2026—2030年，展望至2035年。《規劃》明確，到2030年，浙江數字經濟發展水平穩居全國前列、達到世界先進水平，數字經濟增加值佔國內生產總值（GDP）比重達60%，加速向萬物智聯、人機協同、跨界融合、共創分享的智慧經濟新形態邁進。人工智慧創新發展高地全球影響力更加凸顯，建成數字經濟高質量發展強省。到2035年，全面邁入智慧經濟發展新階段，建成促進智慧經濟發展的制度體系和世界一流的智慧基礎設施，實現實體經濟與智慧經濟深度融合，產業模式、組織形態全面變革，資料要素價值充分釋放，智慧化紅利普惠共享，成為全球智慧技術創新、產業創新、開源生態重要策源地。"
-    },
-    {
-      "id": "5119667",
-      "time": "2026-09-30 08:16:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆安國際：集團創辦人之一施文博辭世，不會對集團營運造成任何影響】9月30日早間，恆安國際在港交所公告，董事會沉痛宣佈，集團創辦人之一、公司主席兼執行董事及公司提名委員會成員施文博先生，於2026年9月29日與世長辭。自集團於1985年成立以來，直至近期，施先生一直全身心投入帶領集團的整體發展方針及業務策略，致力將集團打造成中國最大的個人及家居衛生用品製造商和分銷商之一。董事會對施先生的辭世深感痛惜，並謹此衷心感謝施先生為集團提供的寶貴領導與指導，以及所作出的貢獻。董事會認為，施先生的辭世不會對集團的營運造成任何影響，並且董事會將繼續努力加強和發展集團。董事會對施先生的辭世表示最深切的哀悼，並向其家人致以最深切的慰問。"
-    },
-    {
-      "id": "5119666",
-      "time": "2026-09-30 08:16:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.5%，德國DAX指數期貨上漲0.5%，富時指數期貨上漲0.4%。"
-    },
-    {
-      "id": "mkt:01a0efab-2def-7338-ab1f-6a1fb253b46e",
-      "time": "2026-09-30 08:16:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "Euro STOXX 50 futures rose 0.5%, Germany's DAX futures gained 0.5% and UK FTSE 100 futures were up 0.4%."
-    },
-    {
-      "id": "5119665",
-      "time": "2026-09-30 08:15:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場分析：日本8月工業產出意外下滑，大機率源於九州地震造成供應鏈中斷，當地工廠曾臨時停產。原油供應緊張同樣拖累石油相關產品產量。本次產出受挫或將對第三季度國內生產總值（GDP）造成衝擊。"
     }
   ]
 }

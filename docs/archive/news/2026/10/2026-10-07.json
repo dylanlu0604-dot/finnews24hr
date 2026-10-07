@@ -1,7 +1,69 @@
 {
   "date": "2026-10-07",
-  "count": 468,
+  "count": 475,
   "items": [
+    {
+      "id": "5129267",
+      "time": "2026-10-07 08:18:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本東證指數升破歷史最高收盤水平】受美股上漲帶動，日本東證指數最高上漲0.4%，觸及4201.34點，超過8月14日創下的4197.20點歷史收盤紀錄。日經225指數基本持平。隔夜標普500指數收盤創歷史新高，得益於企業盈利韌性以及人工智慧相關支出前景向好。"
+    },
+    {
+      "id": "5129266",
+      "time": "2026-10-07 08:17:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【厄瓜多遭強降雨襲擊 超1.5萬人受災】受厄爾尼諾現象影響，厄瓜多正遭遇嚴重極端天氣。連日來，該國持續遭強降雨襲擊，全國24個省中已有21個出現洪水、內澇和山體滑坡等災害，超過1.5萬人受災。最新統計顯示，自8月29日厄瓜多針對厄爾尼諾現象釋出紅色警報以來，該國已報告200多起相關災害事件。目前，該國有超過1.5萬人受災，其中，西北部埃斯梅拉達斯省受災最為嚴重。該省已有7條河流發生洪水，另有13條河流水位仍呈上漲趨勢。"
+    },
+    {
+      "id": "5129265",
+      "time": "2026-10-07 08:16:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.4%，德國DAX指數期貨下跌0.4%，富時指數期貨持平。"
+    },
+    {
+      "id": "te:markets:589978",
+      "time": "2026-10-07 08:16:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Pause After Three-Day Rise — Australian shares were little changed, hovering around 8,731 in early deals on Wednesday after gaining in the prior three sessions. Retail trade, industrial services, and consumer durables provided modest support, but weakness in tech and financials kept the index flat. Traders digested September industry updates showing a sharp drop in construction output and further weakness in manufacturing, while awaiting August building permit figures later today and October inflation expectations in coming days. U.S. futures were subdued after Wall Street closed at fresh record highs overnight, buoyed by easing Treasury yields and optimism around AI-driven earnings. China’s markets remain shut and will reopen Thursday. Among local movers, Northern Star Resources jumped 3.4%, Evolution Mining rose 2.0%, Capricorn Metals gained 2.6%, and Perseus Mining added 2.3%. Meanwhile, three of the four big banks slipped between 0.3% and 0.8%, BHP fell 0.7%, and Rio Tinto dropped 0.6%."
+    },
+    {
+      "id": "5129264",
+      "time": "2026-10-07 08:16:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星：首批支援車型為部分 2026 及 2027 款凱迪拉克電動車型。"
+    },
+    {
+      "id": "5129263",
+      "time": "2026-10-07 08:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今日37個高速公路路段易發擁堵 主要集中在江蘇河北等地】今天是國慶假期最後一天，不少人將踏上返程。記者從交通運輸部瞭解到，根據動態研判，今天（7日）全國高速公路有37個路段易發擁堵，主要集中在江蘇、河北、安徽、廣東、山東等省份。全國高速公路預計有58個服務區充電特別繁忙，主要集中在河北、湖南、安徽等省份，大家可透過“e路暢通”微信小程式查詢服務區充電樁執行狀態。"
+    },
+    {
+      "id": "5129262",
+      "time": "2026-10-07 08:15:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星錢包現已支援部分通用汽車車型的數字車鑰匙。"
+    },
     {
       "id": "5129261",
       "time": "2026-10-07 08:14:42",
