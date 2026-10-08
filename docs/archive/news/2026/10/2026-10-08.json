@@ -1,7 +1,50 @@
 {
   "date": "2026-10-08",
-  "count": 826,
+  "count": 831,
   "items": [
+    {
+      "id": "mkt:01a1194f-7cee-7ee0-a7e6-4e57460d7d5f",
+      "time": "2026-10-08 10:20:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Malaysia-based semiconductor firm SQ Advanced Interconnect Bhd is considering an IPO in Q1 2027 to raise about 300 mln Ringgit (≈$73 mln), people familiar with the matter said."
+    },
+    {
+      "id": "5131119",
+      "time": "2026-10-08 10:19:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【固態電池概念持續走高 力王股份等近十股漲停】固態電池概念盤中持續走高，力王股份30cm漲停，此前金銀河、紫竹高科、豐元股份、雄韜股份、傳藝科技等多股漲停，武漢藍電漲超20%，納科諾爾、靈鴿科技雙雙漲超10%。"
+    },
+    {
+      "id": "5131118",
+      "time": "2026-10-08 10:18:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊震盪上揚，廣西能源漲停】電力板塊震盪上揚，廣西能源漲停，湖南發展、閩東電力、寶新能源、皖能電力跟漲。"
+    },
+    {
+      "id": "5131117",
+      "time": "2026-10-08 10:18:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "渣打銀行新加坡分行將在新加坡提供加密貨幣託管服務。"
+    },
+    {
+      "id": "5131116",
+      "time": "2026-10-08 10:18:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼財長：2026、2027年國家預算草案未納入Danantara股息。"
+    },
     {
       "id": "mkt:01a1194c-4711-7ee0-a7e6-466c892a6db2",
       "time": "2026-10-08 10:16:31",
