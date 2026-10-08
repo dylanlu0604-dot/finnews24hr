@@ -1,7 +1,105 @@
 {
-  "updated": "2026-10-08 23:04:45",
-  "count": 9168,
+  "updated": "2026-10-08 23:08:53",
+  "count": 9174,
   "items": [
+    {
+      "id": "mkt:01a11c0e-c4f1-7ee0-a7fe-7e2a1c155695",
+      "time": "2026-10-08 23:08:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's internet portal Yandex said it cannot yet confirm whether data-center equipment in the Ryazan region can be restored."
+    },
+    {
+      "id": "5132827",
+      "time": "2026-10-08 23:07:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會預算辦公室（CBO）主任斯瓦格爾：依靠增長穩定債務，需要GDP增速達到5%-6%；其債務穩定增長預估假設利率為4%-5%。"
+    },
+    {
+      "id": "mkt:01a11c0e-494d-7ee0-a7fe-7566b16f767d",
+      "time": "2026-10-08 23:07:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ANTHROPIC to open Claude to more than 15 U.S. federal agencies】ANTHROPIC said it will invest $150 million over three years in the Trump administration's Genesis Mission federal program and will provide its AI model Claude to more than 15 federal agencies, including NASA and NIH. The company will allocate Claude, Claude Code and API credits to the Genesis Mission."
+    },
+    {
+      "id": "mkt:01a11c0e-48bb-7ee0-a7fe-6bba96d3b6a1",
+      "time": "2026-10-08 23:07:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "The director of the U.S. Congressional Budget Office said GDP growth would need to reach 5-6% for growth alone to stabilize the debt."
+    },
+    {
+      "id": "5132826",
+      "time": "2026-10-08 23:07:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國聯邦貿易委員會指控Cleo AI誤導消費者，將返還1580萬美元】美國聯邦貿易委員會指控Cleo AI透過虛假現金預支承諾以及難以取消的訂閱服務欺騙消費者，將向受影響客戶返還超過1580萬美元。聯邦貿易委員會在2025年3月的訴狀中稱，Cleo AI承諾可提供數百美元預支款，但幾乎無人拿到。FTC還指控，Cleo為即時預支收取隱性費用，而資金往往要等到次日才到賬。退款將發放給2124796名符合條件、曾支付即時現金預支服務費用的Cleo AI使用者。"
+    },
+    {
+      "id": "5132825",
+      "time": "2026-10-08 23:06:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：龍飛船鼻錐已關閉並鎖定，做好再入（大氣層）準備，預計約 30 分鐘後濺落。\n注：鼻錐關閉是龍飛船重返大氣層前的關鍵步驟。"
+    },
+    {
+      "id": "mkt:01a11c0c-4feb-7ee0-a7fe-623870dc7621",
+      "time": "2026-10-08 23:05:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says a Ukrainian delegation is traveling to the US for talks."
+    },
+    {
+      "id": "mkt:01a11c0c-05bc-7ee0-a7fe-5f5baa76205c",
+      "time": "2026-10-08 23:05:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President ZELENSKIY agreed to meet European Commission President VON DER LEYEN and European Council President COSTA as soon as possible."
+    },
+    {
+      "id": "5132824",
+      "time": "2026-10-08 23:05:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：已同意近期與歐洲理事會主席科斯塔和歐盟委員會主席馮德萊恩會面。"
+    },
+    {
+      "id": "te:markets:590576",
+      "time": "2026-10-08 23:04:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Natural Gas Halts Rebound Momentum — Natural gas futures fell below $3.18 per MMBtu on Thursday, halting four consecutive sessions of gains as higher domestic storage momentarily offset the outlook for stronger heating demand and persistent supply tightness elsewhere. Data from the EIA showed US energy companies added 85 billion cubic feet to storage in the week ending October 2, exceeding expectations of 79 bcf and rivaling peak injections seen in June. On top of that, domestic supply availability could increase as Gulf hurricanes threaten to disrupt operations at major LNG export terminals. This stalled the steady rally in natural gas futures seen earlier this month, when forecasts of colder weather prompted utilities to position for early-season heating demand. Meanwhile, overseas demand for US LNG remained elevated across Europe and Asia as strikes against commercial vessels in the Strait of Hormuz clouded the export outlook for top producer Qatar."
+    },
+    {
+      "id": "5132823",
+      "time": "2026-10-08 23:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利外交部週四表示，其網站遭到網路攻擊，但安全系統已成功化解威脅，服務未受影響。"
+    },
     {
       "id": "5132822",
       "time": "2026-10-08 23:03:42",
@@ -84203,48 +84301,6 @@
         "市場"
       ],
       "text": "市場訊息：埃裡森與 CNN 執行長湯普森洽談新合約，尚未達成一致。"
-    },
-    {
-      "id": "5122928",
-      "time": "2026-10-01 23:08:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：加拿大將把擬建的西海岸石油管道定為國家利益專案。管道專案將創造14萬個就業崗位，每年為GDP貢獻超過200億加元，並在2060年前為政府帶來1000億加元收入。 原住民群體將可獲得該專案最低 10% 的股權。"
-    },
-    {
-      "id": "5122927",
-      "time": "2026-10-01 23:07:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：加拿大重大專案辦公室力爭在 2027 年 9 月 1 日前完成全部必要審查與徵詢工作。"
-    },
-    {
-      "id": "5122926",
-      "time": "2026-10-01 23:06:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "據美國紐約聯儲資料，上個交易日（9月30日）擔保隔夜融資利率（SOFR）報3.90%，之前一天報3.88%。上個交易日有效的聯邦基金利率報3.88%，之前一天報3.88%。"
-    },
-    {
-      "id": "5122925",
-      "time": "2026-10-01 23:05:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "法國10年期國債收益率較可比互換利率高出126個基點，創歷史新高。"
-    },
-    {
-      "id": "5122924",
-      "time": "2026-10-01 23:05:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行調查顯示，私營機構分析師預計 2027 年末基準利率為 6.50%，與此前調查預期持平。預計 2026 年末基準利率為 6.50%，與此前調查預期持平。"
     }
   ]
 }
