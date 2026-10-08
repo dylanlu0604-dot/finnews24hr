@@ -1,7 +1,148 @@
 {
   "date": "2026-10-08",
-  "count": 1876,
+  "count": 1892,
   "items": [
+    {
+      "id": "mkt:01a11c03-a562-7ee0-a7fd-e24352cd21b6",
+      "time": "2026-10-08 22:56:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said Commander Adm. Brad Cooper thanked industry leaders and other U.S. government agencies for ongoing support and acknowledged civilian mariners' sacrifices after unprovoked Iranian attacks."
+    },
+    {
+      "id": "mkt:01a11c03-57f1-7ee0-a7fd-dc0c403a4127",
+      "time": "2026-10-08 22:55:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said meeting attendees stressed that rising commercial shipping traffic is strengthening momentum for freedom of navigation."
+    },
+    {
+      "id": "mkt:01a11c03-33f8-7ee0-a7fd-d04b1b838755",
+      "time": "2026-10-08 22:55:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UKMTO said on Oct 6 it received a delayed report of an incident in the Strait of Hormuz."
+    },
+    {
+      "id": "5132804",
+      "time": "2026-10-08 22:55:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室：10月6日，一艘原油油輪被不明發射物擊中。"
+    },
+    {
+      "id": "5132803",
+      "time": "2026-10-08 22:55:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國調查哈佛大學、耶魯大學、斯坦福大學和布朗大學J-1簽證事宜。"
+    },
+    {
+      "id": "mkt:01a11c02-9ff9-7ee0-a7fd-cf7a550b22bd",
+      "time": "2026-10-08 22:54:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM briefed international maritime partners today on conditions in the Strait of Hormuz."
+    },
+    {
+      "id": "5132801",
+      "time": "2026-10-08 22:54:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室收到關於10月6日霍爾木茲海峽發生事件的遲報。"
+    },
+    {
+      "id": "5132800",
+      "time": "2026-10-08 22:54:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國中央司令部今日線上上討論中向國際航運夥伴通報了霍爾木茲海峽情況】美國中央司令部發文：今日線上上討論中向國際航運夥伴通報了霍爾木茲海峽情況。隨著商業交通流量增加，與會領導人強調推動航行自由的勢頭正在增強。中央司令部司令布拉德·庫珀海軍上將感謝行業領袖及其他美國政府機構的持續支援，並承認民用船員因伊朗無端襲擊而作出的犧牲"
+    },
+    {
+      "id": "mkt:01a11c01-8b83-7ee0-a7fd-c31b2756ef4e",
+      "time": "2026-10-08 22:53:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. Vice President Vance, on pausing Microsoft's permanent labor certification program, said it will continue for as long as necessary."
+    },
+    {
+      "id": "5132799",
+      "time": "2026-10-08 22:53:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：要記住，我們接手的是美國48年來最嚴重的通脹危機。"
+    },
+    {
+      "id": "5132798",
+      "time": "2026-10-08 22:52:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍色起源將在得州建設衛星製造園區，未來10年新增超2000個崗位】10月8日，藍色起源宣佈將在得克薩斯州哈託建設新的製造園區“星座園”，總面積約130萬平方英尺，將作為公司衛星及通訊專案的生產中心。藍色起源表示，該園區將用於生產TeraWave衛星通訊網路裝置、Quartz全球地面通訊網路裝置，以及太陽能電池陣列、航空電子裝置和通訊裝置等衛星零部件。園區未來10年將新增超過2000個製造及相關崗位。"
+    },
+    {
+      "id": "5132797",
+      "time": "2026-10-08 22:52:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達9月份外匯儲備為2622.8億卡達里亞爾。"
+    },
+    {
+      "id": "5132796",
+      "time": "2026-10-08 22:52:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "萬斯致信ADOBE及其他科技公司：停止欺騙美國工人。"
+    },
+    {
+      "id": "5132795",
+      "time": "2026-10-08 22:51:53",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國暫停面向微軟等科技公司的簽證專案】特朗普政府週四宣佈，將暫停包括微軟在內多家科技企業的移民專案，指控這些公司大規模濫用外籍勞工簽證體系。副總統 JD・萬斯在華盛頓的簡報會上稱：“遺憾的是，在美國，沒有哪家公司比微軟更嚴重地濫用這套體系。”勞工部長基思・松德林表示，被暫停永久勞工認證專案（PERM）的企業還包括高知特、Infosys、塔塔諮詢、Wipro、HCL 科技與Capgemini。他稱，針對此事有多起聯邦調查正在推進。這是特朗普政府打擊合法與非法移民渠道的最新舉措。涉事專案允許美國僱主擔保外籍員工申請永久居留權。萬斯週四表示：“微軟是一家優秀的美國企業，我們和它關係良好，該公司開展大量重要業務。我們對微軟傳遞的資訊不是要損害貴公司，而是希望貴公司能夠發展壯大，但要透過僱傭、賦能美國本土同胞來實現增長。”"
+    },
+    {
+      "id": "mkt:01a11bff-8f2e-7ee0-a7fd-ba8a793a5695",
+      "time": "2026-10-08 22:51:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PENTAGON announced a $350 mln investment in quantum computing projects and will allocate $200 mln in FY2028 to a cloud laboratory."
+    },
+    {
+      "id": "5132794",
+      "time": "2026-10-08 22:51:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "萬斯：微軟及其他公司的暫停措施將根據需要持續多久就持續多久。"
+    },
     {
       "id": "mkt:01a11bff-0985-7ee0-a7fd-b6e464b1c755",
       "time": "2026-10-08 22:51:01",
