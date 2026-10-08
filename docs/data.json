@@ -1,7 +1,57 @@
 {
-  "updated": "2026-10-08 09:54:21",
-  "count": 9073,
+  "updated": "2026-10-08 09:58:11",
+  "count": 9071,
   "items": [
+    {
+      "id": "5131076",
+      "time": "2026-10-08 09:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將向前棒球明星克萊門斯頒發總統自由勳章。"
+    },
+    {
+      "id": "mkt:01a11939-6de4-7ee0-a7e5-e617a0afe46e",
+      "time": "2026-10-08 09:55:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Tokyo Financial Exchange to launch Bank of Japan overnight rate futures】Tokyo Financial Exchange will launch this month a futures contract tied to the Bank of Japan overnight unsecured call rate (TONA), aimed at letting traders hedge or position for rate moves during the two upcoming BOJ policy meetings. The exchange said existing three-month TONA futures have not met traders’ needs as BOJ policy adjustment has accelerated; the TFX wholesale head said rate volatility and demand for derivatives are rising. Three-month TONA futures volumes have fallen in recent months, with September volume down nearly 50% YoY despite widespread expectations of further BOJ tightening."
+    },
+    {
+      "id": "5131075",
+      "time": "2026-10-08 09:55:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指翻綠，此前一度漲超1%。"
+    },
+    {
+      "id": "mkt:01a11939-4c46-7ee0-a7e5-db5079ad9fe4",
+      "time": "2026-10-08 09:55:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share semiconductor sector weakened intraday; Yuanjie Technology hit the daily limit-down, Changguang Huaxin fell over 19%. Naxinwei, Juguang Technology and Shengmei Shanghai also declined."
+    },
+    {
+      "id": "5131074",
+      "time": "2026-10-08 09:55:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體板塊短線走弱，源傑科技觸及20cm跌停】半導體板塊短線走弱，源傑科技觸及20cm跌停，長光華芯跌超19%，納芯微、炬光科技、盛美上海跟跌。"
+    },
     {
       "id": "5131073",
       "time": "2026-10-08 09:53:12",
@@ -83436,72 +83486,6 @@
         "國際"
       ],
       "text": "日本30年期國債收益率上升6個基點至4.2%。"
-    },
-    {
-      "id": "5121950",
-      "time": "2026-10-01 09:57:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上升5個基點，至3.11%。"
-    },
-    {
-      "id": "5121949",
-      "time": "2026-10-01 09:57:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國起訴6家石化企業串通投標】韓國檢方起訴六家石化公司及37名現任和前任高管和員工，指控他們涉嫌串通投標，涉及約16.4噸韓元的產品。 據稱，這些公司協調了2021年1月至2026年4月期間八種石化產品的價格變動時間和幅度。各公司還事先就主要客戶的中標人和投標價格達成一致。兩名前任和現任高管被拘留並被起訴，另有35名高管和員工被起訴但未被拘留。"
-    },
-    {
-      "id": "5121948",
-      "time": "2026-10-01 09:56:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭元兌美元跌至去年11月以來最低水平。"
-    },
-    {
-      "id": "te:markets:588458",
-      "time": "2026-10-01 09:55:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Australia Hit 16-week Low — ASX200 decreased to 8639.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Australia Stock Market Index (AU200) lost 3.74%, and in the last 12 months, it decreased 3.39%."
-    },
-    {
-      "id": "5121947",
-      "time": "2026-10-01 09:55:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國慶長假來臨 橫琴口岸單日車流量創新高】國慶長假來臨，琴澳跨境出遊持續火熱，橫琴口岸通關人流、車流攀升。總檯記者從拱北海關獲悉，9月30日，海關在橫琴口岸監管進出境車輛、進境車輛、出境車輛均創歷史新高，數值分別為14975輛次、7573輛次、7402輛次，同比分別增長22.2%、20.2%、24.2%。當日，澳門單牌車通行數量突破9731輛次，佔比達65%，同樣創下歷史新高。"
-    },
-    {
-      "id": "5121946",
-      "time": "2026-10-01 09:54:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "甲骨文：Jupiter專案關鍵基礎設施未在洪災中受損。"
-    },
-    {
-      "id": "te:markets:588457",
-      "time": "2026-10-01 09:54:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Treasury Yields Scale 24-Year Highs — The US 10-year Treasury yield traded near 5.3% on Thursday, while the 30-year yield stood around 5.64%, with both reaching their highest levels since 2002 amid concerns that persistent energy-driven inflation could prompt tighter monetary policy. Deteriorating fiscal conditions, growing US government debt and weaker-than-expected bond buybacks have also weighed on the Treasury market in recent weeks. Oil prices remain elevated as the US and Iran make little progress in negotiations despite signs of recovering Middle East flows, raising inflationary risks. Meanwhile, data released Wednesday showed the US PCE price index rose 0.3% in August, below expectations for a 0.4% increase, while core PCE advanced 0.2%, also below forecasts of 0.3%. Markets now see roughly a 38% chance of a Federal Reserve rate hike in October, down from 51% before the PCE data. Investors also await the latest weekly jobless claims on Thursday and the September jobs report on Friday."
     }
   ]
 }
