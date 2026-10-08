@@ -1,7 +1,198 @@
 {
-  "updated": "2026-10-08 23:00:43",
-  "count": 9151,
+  "updated": "2026-10-08 23:04:45",
+  "count": 9168,
   "items": [
+    {
+      "id": "5132822",
+      "time": "2026-10-08 23:03:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會預算辦公室（CBO）主任斯瓦格爾：結構性財政赤字率達6%。"
+    },
+    {
+      "id": "mkt:01a11c0a-6966-7ee0-a7fe-560574621396",
+      "time": "2026-10-08 23:03:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wanning, Hainan issues red rainstorm warning】At 21:43 on Oct 8 Wanning meteorological station upgraded its rainstorm warning from orange to red. Influenced by an easterly jet, Dong'ao town recorded 151.5 mm over the past 12 hours. Over the next 12 hours Wanning’s towns/districts and coastal stretches Shimei–Riyue Bay, Dahuajiao–Laoyehai, Zhengmenhai–Xiaohai are forecast to receive 150–200 mm of rain."
+    },
+    {
+      "id": "5132821",
+      "time": "2026-10-08 23:03:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空表示，鑑於地區局勢發展，已取消往返利雅得的航班，直至10月10日。"
+    },
+    {
+      "id": "mkt:01a11c09-f549-7ee0-a7fe-4fb4752a54c2",
+      "time": "2026-10-08 23:02:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico central bank minutes: a majority of board members said exchange-rate appreciation is consistent with continued lower inflationary pressures."
+    },
+    {
+      "id": "mkt:01a11c09-e7c6-7ee0-a7fe-47771b705707",
+      "time": "2026-10-08 23:02:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Air India has cancelled flights to and from Riyadh scheduled before October 10, citing regional developments."
+    },
+    {
+      "id": "5132820",
+      "time": "2026-10-08 23:02:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌表示，珍珠天然氣制油工廠二號裝置的維修工作正在進行，預計將於2027年第一季度完工。"
+    },
+    {
+      "id": "mkt:01a11c09-7ad7-7ee0-a7fe-3f3394b3ba3a",
+      "time": "2026-10-08 23:02:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Shell (SHEL.N) said a partial restart will allow it to build limited product inventories in storage, but transport capacity remains constrained by the regional security situation."
+    },
+    {
+      "id": "5132819",
+      "time": "2026-10-08 23:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic將向15個以上聯邦機構提供Claude模型，承諾三年內向Genesis Mission投入1.5億美元。"
+    },
+    {
+      "id": "mkt:01a11c09-390a-7ee0-a7fe-317c866a3412",
+      "time": "2026-10-08 23:02:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Banxico minutes: all members flagged upside risks from geopolitical conflicts; most said these conflicts have had a negative impact on energy markets."
+    },
+    {
+      "id": "5132818",
+      "time": "2026-10-08 23:02:07",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英偉達承諾未來五年投入10億美元用於科研。"
+    },
+    {
+      "id": "5132817",
+      "time": "2026-10-08 23:02:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破93美元/桶，日內漲5.35%。"
+    },
+    {
+      "id": "mkt:01a11c09-0534-7ee0-a7fe-2f838aa82011",
+      "time": "2026-10-08 23:01:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Banxico minutes: most C.BANK members said the risk balance for inf over the forecast horizon remains tilted to the upside."
+    },
+    {
+      "id": "5132816",
+      "time": "2026-10-08 23:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "殼牌發言人表示，已重啟卡達拉斯拉凡工業城珍珠天然氣制油工廠的部分裝置，對生產設施進行測試。"
+    },
+    {
+      "id": "mkt:01a11c08-c52b-7ee0-a7fe-26897fc46613",
+      "time": "2026-10-08 23:01:39",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Shell (SHEL.N) said it has partially restarted the Pearl GTL plant at Ras Laffan Industrial City in Qatar to test production facilities."
+    },
+    {
+      "id": "5132815",
+      "time": "2026-10-08 23:01:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "洛克希德·馬丁：合同包含截至2032年為菲律賓空軍提供的維護及備件保障服務。"
+    },
+    {
+      "id": "5132814",
+      "time": "2026-10-08 23:01:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "洛克希德·馬丁：簽署合同為菲律賓空軍提供S-70I“黑鷹”訓練裝置。"
+    },
+    {
+      "id": "mkt:01a11c08-76e7-7ee0-a7fe-1b5bdac3e73f",
+      "time": "2026-10-08 23:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "As of the 23:00 close, China's onshore futures main contracts were mixed. Methanol rose over 7%, LPG gained nearly 6%, benzene climbed more than 3% and fuel oil advanced around 3%. Plastics and polypropylene monthly averages were up over 2%; styrene (EB) rose nearly 2%. On the downside, ethylene glycol (EG), offset paper, iron ore and 20# rubber fell more than 1%; asphalt and pulp were down about 1%."
+    },
+    {
+      "id": "5132813",
+      "time": "2026-10-08 23:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "DocuSign推出PDF編輯器，簡化從文件製備到簽署的全流程。"
+    },
+    {
+      "id": "5132812",
+      "time": "2026-10-08 23:00:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "錫連續主力合約日內跌5%，現報388170.00元。"
+    },
+    {
+      "id": "5132811",
+      "time": "2026-10-08 23:00:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，文遠知行跌7.56%，寶尊電商跌7.32%，DCX跌7.08%，世紀互聯跌4.92%，小馬智行跌4.89%。"
+    },
+    {
+      "id": "mkt:01a11c07-9dee-7ee0-a7fe-1108ec4816b2",
+      "time": "2026-10-08 23:00:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC will provide its Claude AI model to more than 15 U.S. federal agencies, including NASA and the NIH."
+    },
     {
       "id": "te:markets:590575",
       "time": "2026-10-08 23:00:03",
@@ -84054,43 +84245,6 @@
         "其他"
       ],
       "text": "墨西哥央行調查顯示，私營機構分析師預計 2027 年末基準利率為 6.50%，與此前調查預期持平。預計 2026 年末基準利率為 6.50%，與此前調查預期持平。"
-    },
-    {
-      "id": "5122923",
-      "time": "2026-10-01 23:04:31",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行調查顯示，私營機構分析師預計 2026 年末匯率為 1 美元兌 17.50 墨西哥比索，與此前調查預期持平。預計 2027 年末匯率為 1 美元兌 18.04 墨西哥比索，此前調查預期為 18.05。"
-    },
-    {
-      "id": "5122922",
-      "time": "2026-10-01 23:04:11",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行調查顯示，私營機構分析師預計 2026 年末核心通脹率為 3.90%，此前調查預期為 3.99%。私營機構分析師預計 2027 年國內生產總值增速為 1.80%，與此前調查預期持平。"
-    },
-    {
-      "id": "5122921",
-      "time": "2026-10-01 23:03:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行調查顯示，私營機構分析師預計 2026 年末整體通脹率為 3.87%，此前調查預期為 3.90%。私營機構分析師預計 2027 年末整體通脹率為 3.82%，此前調查預期為 3.84%。"
-    },
-    {
-      "id": "5122920",
-      "time": "2026-10-01 23:02:17",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部：將於 10 月 1 日開展流動性回購操作，最多回購 60 億美元期限 10 至 20 年的國債。"
     }
   ]
 }
