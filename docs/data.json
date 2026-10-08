@@ -1,7 +1,157 @@
 {
-  "updated": "2026-10-08 09:58:11",
-  "count": 9071,
+  "updated": "2026-10-08 10:01:55",
+  "count": 9082,
   "items": [
+    {
+      "id": "5131088",
+      "time": "2026-10-08 10:01:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本東京9月辦公樓空置率降至1.85%。"
+    },
+    {
+      "id": "mkt:01a1193e-063e-7ee0-a7e6-06f5953bdccf",
+      "time": "2026-10-08 10:00:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index fell in early trade, losses widened to 1%; HSI down 0.31%."
+    },
+    {
+      "id": "5131087",
+      "time": "2026-10-08 10:00:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5131086",
+      "time": "2026-10-08 10:00:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內漲8%，現報9930.00元。"
+    },
+    {
+      "id": "mkt:01a1193d-955f-7ee0-a7e5-fa0273343e56",
+      "time": "2026-10-08 10:00:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose above $89/bbl, up 0.77% on the day."
+    },
+    {
+      "id": "5131085",
+      "time": "2026-10-08 10:00:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4152.450點；恒生指數現跌0.295%。"
+    },
+    {
+      "id": "5131084",
+      "time": "2026-10-08 10:00:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲9%，現報3200.00元。"
+    },
+    {
+      "id": "5131083",
+      "time": "2026-10-08 10:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲7%，現報5448.00元。"
+    },
+    {
+      "id": "5131082",
+      "time": "2026-10-08 09:59:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "短纖連續主力合約日內漲6%，現報8702.00元。"
+    },
+    {
+      "id": "mkt:01a1193b-cc5f-7ee0-a7e5-f402cbfda95b",
+      "time": "2026-10-08 09:58:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fuel oil most‑active contract surged 16.00% intraday to 5,077.00 yuan/ton."
+    },
+    {
+      "id": "mkt:01a1193b-b829-7ee0-a7e5-ef259ed58c7f",
+      "time": "2026-10-08 09:58:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Wuhan offline retail consumption during National Day holiday 149.54 bln yuan, +7.76% YoY】Wuhan municipal commerce bureau, citing UnionPay merchant big-data, said offline retail spending during the National Day holiday reached 149.54 billion yuan, up 7.76% YoY; transaction visits rose 23.99% to 37.24 million."
+    },
+    {
+      "id": "5131081",
+      "time": "2026-10-08 09:58:17",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【SK海力士旗下Solidigm據悉已為明年美國IPO選定承銷商】當地時間10月7日，據報道，知情人士透露，SK海力士旗下的Solidigm已為明年在美國的首次公開募股（IPO）選定主承銷商。知情人士表示，這家韓國晶片巨頭的快閃記憶體業務部門已選定高盛和摩根士丹利負責此次發行，預計IPO募資規模將達到約100億美元。Solidigm正與這兩家投行敲定一輪IPO前融資。知情人士稱，摩根大通、花旗和瑞銀也已獲選參與Solidigm的IPO。此前訊息稱，Solidigm最快明年上市，估值或高達1000億美元。"
+    },
+    {
+      "id": "5131080",
+      "time": "2026-10-08 09:58:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期武漢線下零售消費近150億元】武漢市商務局訊息，據銀聯商務大資料監測，國慶假期，武漢市累計線下零售消費149.54億元，同比增長7.76%；消費人次3723.95萬，同比增長23.99%。"
+    },
+    {
+      "id": "5131079",
+      "time": "2026-10-08 09:58:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲16%，現報5077.00元。"
+    },
+    {
+      "id": "5131078",
+      "time": "2026-10-08 09:58:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丙烯連續主力合約日內漲7%，現報9837.00元。"
+    },
+    {
+      "id": "5131077",
+      "time": "2026-10-08 09:57:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲天然氣價格上漲，近月期貨一度上漲2.6%，至每兆瓦時 80.070 歐元。此前有報道援引兩位美國政府官員的話稱，美國可能在中期選舉前打擊伊朗。"
+    },
     {
       "id": "5131076",
       "time": "2026-10-08 09:57:13",
@@ -83440,52 +83590,6 @@
         "其他"
       ],
       "text": "理想汽車： 2026年9月交付31,817輛汽車；截至 2026 年 9 月 30 日，歷史累計交付量為 1,833,651 輛。"
-    },
-    {
-      "id": "5121953",
-      "time": "2026-10-01 10:01:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數開盤下跌0.1%，報6062.89點。"
-    },
-    {
-      "id": "te:markets:588460",
-      "time": "2026-10-01 10:00:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Heating Oil Futures Ease — US heating oil futures eased to around $4.60 per gallon but remained close to the record $5.20 reached in mid-September, as reduced risks of a US diesel export ban countered expectations of additional diesel supplies. President Donald Trump signaled that his support for restricting diesel exports may be cooling amid concerns over unintended price increases, while Energy Secretary Chris Wright said the administration expected announcements soon from Europe on additional diesel supplies. The White House also urged the EU to draw down emergency diesel inventories to help ease global prices. Meanwhile, Russia extended its restrictions on most diesel exports through October, keeping global distillate markets tight. US distillate inventories also remain low ahead of the winter heating season, with EIA data showing stockpiles fell by 2.3 million barrels in the week ended September 25."
-    },
-    {
-      "id": "em:qqyh_rbyh:202610013888191791",
-      "time": "2026-10-01 10:00:17",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行會議紀要確認政策重點是防止通脹超出目標】日本央行在上個月的政策會議紀要中確認，其政策重點已轉向防止通脹超過目標水平。在此會議上，該行將政策利率上調至1995年以來最高水平。該紀要可能進一步強化市場對日本央行今年將再次加息的預期。在會議紀要公佈前，掉期市場顯示，交易員認為日本央行在12月底之前再次加息的機率超過95%，而在央行10月30日下一次政策會議上加息的機率約為21%。"
-    },
-    {
-      "id": "5121952",
-      "time": "2026-10-01 09:59:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國產業通商資源部：美國阿拉斯加液化天然氣專案投資尚未作出決定。"
-    },
-    {
-      "id": "5121951",
-      "time": "2026-10-01 09:59:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率上升6個基點至4.2%。"
     }
   ]
 }
