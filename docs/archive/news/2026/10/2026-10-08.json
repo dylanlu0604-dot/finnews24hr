@@ -1,7 +1,129 @@
 {
   "date": "2026-10-08",
-  "count": 663,
+  "count": 677,
   "items": [
+    {
+      "id": "mkt:01a11922-eb64-7ee0-a7e5-1c3150fb1bfd",
+      "time": "2026-10-08 09:31:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Index futures open】CSI 300 index futures (IF) most-active contract down 0.40%, SSE 50 futures (IH) down 0.38%, CSI 500 futures (IC) down 0.29%, CSI 1000 futures (IM) up 0.17%."
+    },
+    {
+      "id": "mkt:01a11922-cd8d-7ee0-a7e5-1690c0a64006",
+      "time": "2026-10-08 09:31:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China bond futures morning open】2-year China bond futures (TS) most-active contract unchanged; 5-year (TF) unchanged; 10-year (T) +0.03%; 30-year (TL) +0.06% at the morning open."
+    },
+    {
+      "id": "5131013",
+      "time": "2026-10-08 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.04%， 10年期主力合約漲0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5131012",
+      "time": "2026-10-08 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.14%， 滬深300指數期貨連續跌0.16%， 中證500指數期貨連續跌0.04%， 上證50指數期貨連續跌0.37%。"
+    },
+    {
+      "id": "5131011",
+      "time": "2026-10-08 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1％，成分股中，艾力斯跌16.80％，源傑科技跌15.62％，芯原股份跌2.14％，盛美上海跌1.47％。"
+    },
+    {
+      "id": "mkt:01a11921-9eee-7ee0-a7e5-0e28e43af42c",
+      "time": "2026-10-08 09:29:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Two Brazil ETFs hit limit-up】E Fund Brazil ETF (520870) and ChinaAMC Brazil ETF (159100) hit daily limit-up."
+    },
+    {
+      "id": "5131010",
+      "time": "2026-10-08 09:29:51",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部發行中央金融機構注資特別國債】財政部計劃於今天（8日）發行2026年中央金融機構注資特別國債（一期）。本次擬發行的國債為5年期固定利率附息債，競爭性招標面值總額1500億元，票面利率透過競爭性招標確定，明天（9日）開始計息，每年支付利息。"
+    },
+    {
+      "id": "mkt:01a11921-0ca5-7ee0-a7e5-0259d309bd3b",
+      "time": "2026-10-08 09:29:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China delegation completes ITU‑R SG6 meeting in Geneva】China completed participation in the ITU‑R Study Group 6 (SG6) and WP6A/B/C meetings in Geneva from Sep 21 to Oct 2, 2026, the sixth session in the WRC‑27 study cycle. A hybrid delegation of 24 representatives from eight government departments, research institutes, universities and companies had three papers on mobile broadcasting and media processing adopted; revisions progressed on three reports covering broadcast TV testing and audiovisual applications; and two information papers on emergency broadcast technologies and AI‑generated video evaluation were presented."
+    },
+    {
+      "id": "5131009",
+      "time": "2026-10-08 09:28:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【2只巴西ETF漲停】巴西ETF易方達（520870）、巴西ETF華夏（159100）漲停。"
+    },
+    {
+      "id": "mkt:01a1191f-e9d2-7ee0-a7e4-fb4021149194",
+      "time": "2026-10-08 09:28:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC to conduct CNY1.2 tln outright reverse repo operation】To keep banking-system liquidity ample, today (8th) the PBOC will conduct CNY1.2 tln outright reverse repos via fixed-quantity, rate-based bidding with multi-price allotment; tenor 3 months (89 days)."
+    },
+    {
+      "id": "5131008",
+      "time": "2026-10-08 09:28:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "醫藥醫療股開盤領漲，海特生物、貝瑞基因、魯抗醫藥、華北製藥、潤都股份競價漲停，聯環藥業、向日葵等漲超5%。"
+    },
+    {
+      "id": "5131007",
+      "time": "2026-10-08 09:27:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF開盤：巴西ETF領漲10.02%，標普生物科技ETF跌3.79%】ETF開盤漲跌不一，巴西ETF（520870）領漲10.02%，巴西ETF（159100）漲9.96%，能源化工ETF（159981）漲5.70%，現金流ETF（159225）領跌4.52%，標普生物科技ETF（159502）跌3.79%，科創成長ETF（588070）跌3.22%。"
+    },
+    {
+      "id": "5131006",
+      "time": "2026-10-08 09:27:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【疫苗股大幅高開，蔚藍生物2連板】疫苗股大幅高開，蔚藍生物2連板，達安基因漲停，聯環藥業、之江生物、東方生物多股高開。"
+    },
+    {
+      "id": "5131005",
+      "time": "2026-10-08 09:27:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中國代表團完成國際電信聯盟無線電通訊部門第六研究組會議參會任務】據工信部官網，2026年9月21日至10月2日，國際電信聯盟無線電通訊部門第六研究組（SG6）及其下設WP6A、WP6B和WP6C工作組會議在瑞士日內瓦召開。本次會議是2027年世界無線電通訊大會研究週期SG6及其下設工作組的第六次會議。SG6及其下設工作組主要研究廣播電視相關事宜，包括向公眾提供的視聽、多媒體和資料業務。本次會議重點圍繞多媒體移動廣播、廣播核心網、內容來源追溯、隱私保護機制、六自由度空間音訊、超高畫質和高動態範圍（HDR）電視等技術內容展開深入討論，審議透過了多篇建議書和報告的制修訂。我國提交的3篇移動廣播與媒體處理方面文稿被會議採納，參與的3項廣播電視測試與視聽應用方面報告的制修訂取得新進展。此外，會議還介紹了我國提交的關於應急廣播技術與人工智慧生成影片評價方面的2篇資訊文稿。來自國務院相關部門，研究機構、高校、企業等8家單位的24名代表，以線上線下相結合的方式參會。"
+    },
     {
       "id": "mkt:01a1191f-313a-7ee0-a7e4-f447b682a0fd",
       "time": "2026-10-08 09:27:16",
