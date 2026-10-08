@@ -1,7 +1,36 @@
 {
   "date": "2026-10-09",
-  "count": 401,
+  "count": 404,
   "items": [
+    {
+      "id": "mkt:01a11d62-db19-7ee0-a805-b05715988036",
+      "time": "2026-10-09 05:19:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil rallies; NYMEX Nov crude +$3.21 to $91.49, ICE Brent Dec +$4.08 to $104.28】At the close on the 8th, NYMEX November light, sweet crude futures rose $3.21 to settle at $91.49 a barrel, up 3.64%. ICE Brent December futures rose $4.08 to settle at $104.28 a barrel, up 4.07%."
+    },
+    {
+      "id": "5133213",
+      "time": "2026-10-09 05:18:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普道瓊斯指數將把得克薩斯證券交易所納入MLP指數。"
+    },
+    {
+      "id": "5133212",
+      "time": "2026-10-09 05:16:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.29%，報13677點。"
+    },
     {
       "id": "mkt:01a11d5d-07c2-7ee0-a805-a874cccf8d3d",
       "time": "2026-10-09 05:13:18",
