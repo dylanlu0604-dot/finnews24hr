@@ -1,7 +1,78 @@
 {
   "date": "2026-10-08",
-  "count": 806,
+  "count": 813,
   "items": [
+    {
+      "id": "mkt:01a11947-32b0-7ee0-a7e6-2e422bb3d43e",
+      "time": "2026-10-08 10:10:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00813.HK",
+        "Impact bullish",
+        "00688.HK",
+        "03383.HK"
+      ],
+      "text": "Hong Kong property stocks advanced: Shimao Group (00813.HK) up 7.69%, China Overseas Land & Investment (00688.HK) up 4.67%, Agile Group Holdings (03383.HK) up 4.40%, Greentown China Holdings (03900.HK) up 3.89%."
+    },
+    {
+      "id": "5131108",
+      "time": "2026-10-08 10:10:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯川技術在蘇州成立智慧裝備新公司】企查查APP顯示，近日，蘇州匯川智慧裝備有限公司成立，經營範圍包含工業自動控制系統裝置製造；工業自動控制系統裝置銷售；智慧控制系統整合等。企查查股權穿透顯示，該公司由匯川技術全資持股。"
+    },
+    {
+      "id": "te:markets:590340",
+      "time": "2026-10-08 10:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Yangtze Power Shares Hit 9-week High — China Yangtze Power shares increased to 28.86 CNY, the highest since August 2026. Over the past 4 weeks, China Yangtze Power gained 2.78%, and in the last 12 months, it increased 4.15%."
+    },
+    {
+      "id": "5131107",
+      "time": "2026-10-08 10:10:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多隻石油ETF漲超3%】多隻石油ETF漲超3%，布倫特原油主連價格超過101美元，燃油主連漲超15%。"
+    },
+    {
+      "id": "5131106",
+      "time": "2026-10-08 10:10:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股房地產股走強 世茂集團漲近8%】截至發稿，世茂集團(00813.HK)漲7.69%，中國海外發展(00688.HK)漲4.67%，雅居樂集團(03383.HK)漲4.40%，綠城中國(03900.HK)漲3.89%。"
+    },
+    {
+      "id": "5131105",
+      "time": "2026-10-08 10:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日產： 將於10月在墨西哥開始銷售中國製造的Frontier Pro皮卡。 該車型將於今年在拉丁美洲其他市場、菲律賓及中東地區上市，隨後於2027年在澳大利亞和紐西蘭推出。"
+    },
+    {
+      "id": "te:markets:590339",
+      "time": "2026-10-08 10:09:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Malaysia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Malaysian Stocks Slip Further, Hit Weakest Since Nov 2025 — Bursa Malaysia’s KLCI fell 0.6% to 1,602 in early Thursday trading, extending prior losses and hitting its lowest since November 2025. Persistent foreign selling, elevated U.S. Treasury yields, and higher oil prices pressured sentiment. Locally, caution was reinforced by the planned expansion of the KLCI from 30 to 50 constituents in phases beginning December, alongside risks of earnings disappointments amid higher-for-longer costs and supply-chain strains. Still, weakness was capped as traders awaited Budget 2027, to be tabled Friday, with hopes for clarity on fiscal priorities, infrastructure spending, and steps to support consumption. Tech, commercial services, manufacturing, and industrials led sector weakness, offset by strength in healthcare, energy minerals, and retail trade. Banks were among top laggards, including Hong Leong Bank (-2.1%) and CIMB (-1.9%). Other notable decliners included Kellington Group (-2.6%), Sime Darby Property (-1.6%), and Telekom Malaysia (-1.0%)."
+    },
     {
       "id": "5131104",
       "time": "2026-10-08 10:08:25",

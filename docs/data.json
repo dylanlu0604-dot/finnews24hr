@@ -1,7 +1,78 @@
 {
-  "updated": "2026-10-08 10:09:25",
-  "count": 9096,
+  "updated": "2026-10-08 10:13:20",
+  "count": 9098,
   "items": [
+    {
+      "id": "mkt:01a11947-32b0-7ee0-a7e6-2e422bb3d43e",
+      "time": "2026-10-08 10:10:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00813.HK",
+        "Impact bullish",
+        "00688.HK",
+        "03383.HK"
+      ],
+      "text": "Hong Kong property stocks advanced: Shimao Group (00813.HK) up 7.69%, China Overseas Land & Investment (00688.HK) up 4.67%, Agile Group Holdings (03383.HK) up 4.40%, Greentown China Holdings (03900.HK) up 3.89%."
+    },
+    {
+      "id": "5131108",
+      "time": "2026-10-08 10:10:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯川技術在蘇州成立智慧裝備新公司】企查查APP顯示，近日，蘇州匯川智慧裝備有限公司成立，經營範圍包含工業自動控制系統裝置製造；工業自動控制系統裝置銷售；智慧控制系統整合等。企查查股權穿透顯示，該公司由匯川技術全資持股。"
+    },
+    {
+      "id": "te:markets:590340",
+      "time": "2026-10-08 10:10:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Yangtze Power Shares Hit 9-week High — China Yangtze Power shares increased to 28.86 CNY, the highest since August 2026. Over the past 4 weeks, China Yangtze Power gained 2.78%, and in the last 12 months, it increased 4.15%."
+    },
+    {
+      "id": "5131107",
+      "time": "2026-10-08 10:10:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多隻石油ETF漲超3%】多隻石油ETF漲超3%，布倫特原油主連價格超過101美元，燃油主連漲超15%。"
+    },
+    {
+      "id": "5131106",
+      "time": "2026-10-08 10:10:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股房地產股走強 世茂集團漲近8%】截至發稿，世茂集團(00813.HK)漲7.69%，中國海外發展(00688.HK)漲4.67%，雅居樂集團(03383.HK)漲4.40%，綠城中國(03900.HK)漲3.89%。"
+    },
+    {
+      "id": "5131105",
+      "time": "2026-10-08 10:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日產： 將於10月在墨西哥開始銷售中國製造的Frontier Pro皮卡。 該車型將於今年在拉丁美洲其他市場、菲律賓及中東地區上市，隨後於2027年在澳大利亞和紐西蘭推出。"
+    },
+    {
+      "id": "te:markets:590339",
+      "time": "2026-10-08 10:09:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Malaysia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Malaysian Stocks Slip Further, Hit Weakest Since Nov 2025 — Bursa Malaysia’s KLCI fell 0.6% to 1,602 in early Thursday trading, extending prior losses and hitting its lowest since November 2025. Persistent foreign selling, elevated U.S. Treasury yields, and higher oil prices pressured sentiment. Locally, caution was reinforced by the planned expansion of the KLCI from 30 to 50 constituents in phases beginning December, alongside risks of earnings disappointments amid higher-for-longer costs and supply-chain strains. Still, weakness was capped as traders awaited Budget 2027, to be tabled Friday, with hopes for clarity on fiscal priorities, infrastructure spending, and steps to support consumption. Tech, commercial services, manufacturing, and industrials led sector weakness, offset by strength in healthcare, energy minerals, and retail trade. Banks were among top laggards, including Hong Leong Bank (-2.1%) and CIMB (-1.9%). Other notable decliners included Kellington Group (-2.6%), Sime Darby Property (-1.6%), and Telekom Malaysia (-1.0%)."
+    },
     {
       "id": "5131104",
       "time": "2026-10-08 10:08:25",
@@ -83672,56 +83743,6 @@
         "市場"
       ],
       "text": "加元兌美元跌至三個月低點，報1.4246。"
-    },
-    {
-      "id": "5121965",
-      "time": "2026-10-01 10:12:14",
-      "tags": [
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國將允許分析師匿名釋出賣出建議報告】韓國金融服務委員會發表宣告稱，作為提高券商研究獨立性和可信度的措施之一，韓國金融當局將允許分析師在包含賣出建議的研究報告中省略姓名。分析師在釋出賣出建議時可以選擇是否披露姓名，但須事先獲得券商合規官的批准。券商將被要求內部儲存記錄，包括報告作者姓名和審批流程詳情。韓國金融服務委員會表示，國內券商釋出的賣出建議佔比不到1%，並計劃採取措施減少對買入評級的過度依賴。"
-    },
-    {
-      "id": "te:markets:588464",
-      "time": "2026-10-01 10:10:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Falls to 11-Week Low — The Australian dollar weakened to around $0.69, hitting an eleven-week low as the US dollar strengthened on surging Treasury yields, while investors trimmed bets on another near-term RBA rate hike. Markets reduced the odds of another RBA rate increase in November to 20% from 36% previously after August inflation came in slightly below forecasts. The next hike is now seen more likely in March rather than February. Australia's trade data also weighed on sentiment as the trade surplus narrowed to its smallest in three months. Meanwhile, the Aussie finished 3.1% lower last month, partly due to a broadly stronger US dollar and ongoing Middle East tensions. The dollar index climbed to an almost 18-month high despite reduced expectations of another Fed hike this month, as Treasury yields surged to multi-decade peaks on concerns over persistent energy-driven inflation. Oil prices remain elevated as the US and Iran make little progress in talks, despite signs of a recovery in Middle East flows."
-    },
-    {
-      "id": "5121964",
-      "time": "2026-10-01 10:10:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美光科技CFO：2027財年第一財季收入將達615億美元 各季度毛利率預計逐步回升】美光科技首席財務官Mark Murphy在財報電話會上表示，2027財年第一財季收入將達615億美元，每股收益38.15美元，環比繼續攀升，並明確指出這一季度將是2027財年全年毛利率的低點，此後各季度毛利率預計逐步回升。"
-    },
-    {
-      "id": "te:markets:588463",
-      "time": "2026-10-01 10:10:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Weakens as Dollar, Treasury Yields Weigh — The Japanese yen weakened past 158 per dollar on Thursday, reversing recent gains as the dollar and Treasury yields continued to rise amid expectations that the Federal Reserve may need to raise interest rates further to contain energy-driven inflation. The Japanese currency also remained under pressure from wide US-Japan interest-rate differentials, as expectations for further Fed tightening continued to outweigh the Bank of Japan’s rate hikes. However, softer-than-expected US PCE inflation data prompted traders to reduce bets on a Fed rate hike in October. In Japan, a summary of opinions from the BOJ’s September meeting showed that policymakers saw a need to accelerate the pace of rate hikes or bring them closer to the central bank’s target in the near term. Meanwhile, traders remain alert to the possibility of currency intervention as Japanese authorities have stepped up verbal warnings in recent sessions."
-    },
-    {
-      "id": "5121963",
-      "time": "2026-10-01 10:09:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐西蘭元兌美元跌至0.5618，為2025年11月以來新低。"
     }
   ]
 }
