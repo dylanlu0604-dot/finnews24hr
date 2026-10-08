@@ -1,7 +1,55 @@
 {
   "date": "2026-10-09",
-  "count": 15,
+  "count": 20,
   "items": [
+    {
+      "id": "mkt:01a11c45-5675-7ee0-a800-17872489d422",
+      "time": "2026-10-09 00:07:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA and the U.S. Department of Energy (DOE) signed a memorandum of understanding to cooperate on developing space nuclear technology."
+    },
+    {
+      "id": "5132906",
+      "time": "2026-10-09 00:07:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國會預算辦公室：需實現5%至6%的實際GDP增長才能穩定債務】美國國會預算辦公室（CBO）主任Phillip Swagel表示，假設美國國債借貸成本接近4%至5%，美國需要實現5%至6%的實際GDP增長和7%至8%的名義增長，才能穩定債務佔GDP之比。Swagel警告稱，在聯邦債務約佔GDP的100%、結構性赤字達6%的背景下，當前的財政軌跡不可持續。他還警告稱，利率上升可能形成危險的反饋迴圈，推高赤字、債務和借貸成本。Swagel認為，人工智慧驅動的生產率提升可能成為增長動力，但僅靠增長無法解決赤字問題。"
+    },
+    {
+      "id": "te:markets:590584",
+      "time": "2026-10-09 00:07:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.15% Lower — The FTSE 100 Index fell 16 points or 0.15 percent on Thursday to close at 10443 points. Leading the losses are Standard Life (-4.50%), Lion Finance Group (-2.88%) and Vodafone (-2.86%). Top gainers were Tesco (5.46%), Imperial Brands (4.76%) and BP (3.79%)."
+    },
+    {
+      "id": "mkt:01a11c43-b6af-7ee0-a800-080ce55d0f9f",
+      "time": "2026-10-09 00:06:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "CENTCOM said U.S. forces have supported shipments of more than 1.25 bln barrels of crude from Gulf partners and via the Strait of Hormuz in recent months; by contrast, U.S. enforcement of port restrictions has prevented Iran from exporting any crude."
+    },
+    {
+      "id": "5132905",
+      "time": "2026-10-09 00:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局與美國能源部簽署太空核開發諒解備忘錄。"
+    },
     {
       "id": "5132904",
       "time": "2026-10-09 00:04:03",
