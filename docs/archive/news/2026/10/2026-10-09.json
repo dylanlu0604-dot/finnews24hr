@@ -1,7 +1,52 @@
 {
   "date": "2026-10-09",
-  "count": 366,
+  "count": 371,
   "items": [
+    {
+      "id": "mkt:01a11d3f-ae5e-7ee0-a805-72b443d997bd",
+      "time": "2026-10-09 04:41:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "AXP.N",
+        "Impact bearish"
+      ],
+      "text": "The Federal Reserve has taken enforcement action against American Express (AXP.N) over anti-money-laundering deficiencies."
+    },
+    {
+      "id": "5133191",
+      "time": "2026-10-09 04:40:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：這是SpaceX手機訊號覆蓋所需的最後一塊拼圖。"
+    },
+    {
+      "id": "5133190",
+      "time": "2026-10-09 04:40:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI新興市場股票指數跌1.6%，發展中國家外匯指數跌0.06%。"
+    },
+    {
+      "id": "5133189",
+      "time": "2026-10-09 04:40:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運通表示，3.5億美元罰款不會影響其2027年業績指引。"
+    },
+    {
+      "id": "5133188",
+      "time": "2026-10-09 04:39:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國運通同意接受美聯儲和貨幣監理署的合規令。"
+    },
     {
       "id": "5133187",
       "time": "2026-10-09 04:37:42",
