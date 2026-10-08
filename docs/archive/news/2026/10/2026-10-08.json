@@ -1,7 +1,227 @@
 {
   "date": "2026-10-08",
-  "count": 1303,
+  "count": 1327,
   "items": [
+    {
+      "id": "5131720",
+      "time": "2026-10-08 15:57:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超3%，現報4068.250點；恒生指數現跌1.585%。"
+    },
+    {
+      "id": "mkt:01a11a84-2c8a-7ee0-a7ef-42652ca79aad",
+      "time": "2026-10-08 15:57:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Saxo Bank: Gold reflects tug-of-war between macro and technical traders】Gold ticked up on Thursday as markets weighed the odds of another Fed rate hike this year. Fed minutes showed a majority of policymakers still expect at least one more increase before year-end but did not press for immediate action at the October meeting. Saxo Bank said price action reflects a continued tug-of-war: macro sellers pressured by higher financing costs and a stronger dollar versus buyers seeking hedges against rising debt and borrowing-cost risks."
+    },
+    {
+      "id": "mkt:01a11a84-22f5-7ee0-a7ef-3d26f2c77287",
+      "time": "2026-10-08 15:57:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures slipped below $59/oz, down 2.15% intraday."
+    },
+    {
+      "id": "5131719",
+      "time": "2026-10-08 15:57:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "法國CAC40指數下跌1%，創下六個多月以來的新低，較8月份的歷史高點已下跌超過12%。"
+    },
+    {
+      "id": "mkt:01a11a83-f0ab-7ee0-a7ef-36a76484ab37",
+      "time": "2026-10-08 15:56:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France's CAC 40 fell 1% to a six-plus-month low, more than 12% below its August record high."
+    },
+    {
+      "id": "5131718",
+      "time": "2026-10-08 15:56:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江淮汽車擁有多條制動踏板相關專利】天眼查App顯示，安徽江淮汽車集團股份有限公司成立於1999年9月，註冊資本約21.84億元，為A股上市、國有控股企業，經營範圍含道路機動車輛生產、汽車零部件研發、汽車零部件及配件製造等。智慧財產權資訊顯示，該公司擁有專利資訊2.1萬餘條，其中包括多條制動踏板相關專利。公開專利資訊顯示，江淮汽車曾申請“一種電動汽車的制動控制方法及系統”等，該專利摘要提到實時檢測制動踏板行程，並按目標主缸壓力控制整車減速，以提高電動汽車使用安全性、增加制動舒適性。"
+    },
+    {
+      "id": "5131717",
+      "time": "2026-10-08 15:56:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守59美元/盎司，日內跌2.19%。"
+    },
+    {
+      "id": "mkt:01a11a83-a916-7ee0-a7ef-2f05536c7119",
+      "time": "2026-10-08 15:56:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Data center boom pushes Finland investment plans above EUR 67 bln】Finland's data center buildout is accelerating. After Alphabet's Google announced last month its largest-ever European investment in the country, several new projects have followed. Benefiting from a cool climate, available renewable power and ready grid connections, companies including Alibaba Group and Applied Digital have announced plans to invest in Finnish data centers. Total planned or underway investment now exceeds EUR 67 bln (about $75 bln)."
+    },
+    {
+      "id": "5131716",
+      "time": "2026-10-08 15:56:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北宜化：一期年產3萬噸無水氟化氫專案投產】湖北宜化公告，公司此前披露擬分兩期建設2×3萬噸/年無水氟化氫專案。截至公告披露日，專案一期已建成一套年產3萬噸無水氟化氫裝置，經相關主管部門稽核後已安全順利投產。"
+    },
+    {
+      "id": "5131715",
+      "time": "2026-10-08 15:56:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫燕食品：子公司擬1.52億元參投產業基金】紫燕食品公告稱，公司全資子公司海南紫禧與天圖資本等合夥人共同投資設立四川天圖沐耘科技股權投資合夥企業（有限合夥）（暫定名），該基金認繳出資總額8億元，海南紫禧作為有限合夥人以自有資金認繳出資1.52億元，佔比19%。基金主要投資農產品精深加工產業鏈成長期、成熟期優質企業。本次交易不構成關聯交易及重大資產重組，無需提交董事會及股東會審議。目前基金尚未完成工商註冊及基金業協會備案，存在投資收益不達預期的風險。"
+    },
+    {
+      "id": "5131714",
+      "time": "2026-10-08 15:56:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民航局印發《國內航線航班評審最佳化措施》】據中國民航報，日前，民航局印發《國內航線航班評審最佳化措施》，進一步提升國內航線航班管理的科學化、精細化水平，促進行業差異化競爭和航空運輸資源高效配置使用，最佳化國內航線網路結構，推動民航高質量發展。《最佳化措施》自2026/2027年冬春航季換季起實施。《最佳化措施》共五個部分，圍繞“骨幹網擴能提質、基礎網通達便捷”的國內航線網路建設目標，聚焦打造航空樞紐功能體系，針對部分航線市場承運人過度集中、競爭同質化等問題，對航段市場準入、航段航班量管理、航班計劃安排、經營許可退出等方面作出系統安排。"
+    },
+    {
+      "id": "5131713",
+      "time": "2026-10-08 15:56:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報59.09美元/盎司。"
+    },
+    {
+      "id": "mkt:01a11a83-1190-7ee0-a7ef-222556329383",
+      "time": "2026-10-08 15:55:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude up 3.00% intraday, trading at $90.99/bbl."
+    },
+    {
+      "id": "5131712",
+      "time": "2026-10-08 15:55:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南凌科技：公司為包括人工智慧產業鏈企業在內的企業客戶提供“雲智網安”融合服務】有投資者向南凌科技（300921.SZ）提問，貴司的業務能為人工智慧企業防護網路攻擊做些什麼10月8日，公司回答表示，公司為包括人工智慧產業鏈企業在內的企業客戶提供“雲智網安”融合服務，透過SASE、零信任等產品強化訪問控制和網路安全防護，藉助MDR提供威脅監測、分析與響應，並利用雲WAF防護惡意Bot、爬蟲及API濫用等風險。"
+    },
+    {
+      "id": "5131711",
+      "time": "2026-10-08 15:55:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國商務部長蘇帕吉就美泰貿易協議發表評論：特朗普將在東盟峰會期間簽署關稅協議。"
+    },
+    {
+      "id": "5131710",
+      "time": "2026-10-08 15:55:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報104.25美元/桶。"
+    },
+    {
+      "id": "5131709",
+      "time": "2026-10-08 15:55:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國商務部長蘇帕吉就美泰貿易協議發表評論：特朗普將於下月在馬尼拉簽署美泰貿易協議。"
+    },
+    {
+      "id": "5131707",
+      "time": "2026-10-08 15:55:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI微短劇或成中國服務出口新亮點】《參考訊息》10月8日刊發的香港《南華早報》網站報道《AI微短劇是中國下一波出口浪潮的試驗案例》。在服務業領域，一場不易察覺的轉變正在發生。今年前7個月，中國服務出口同比增長17.1%，其中個人文化和娛樂服務出口激增57.8%。中國服務貿易仍處於逆差狀態，服務出口的體量遠不足以替代製造業。不過，數字服務無需工廠、集裝箱和港口即可在全球擴大規模。人工智慧（AI）生成的微短劇是一個早期例證。"
+    },
+    {
+      "id": "5131706",
+      "time": "2026-10-08 15:54:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湘佳股份：2026年9月活禽銷量351.97萬隻，同比下降10.14%】湘佳股份公告，2026年9月銷售活禽351.97萬隻，銷售收入9167.6萬元，銷售均價12.38元/公斤；銷量、收入、均價環比分別下降18.78%、下降8.20%、增長12.88%，同比分別下降10.14%、下降5.12%、增長2.31%。2026年累計銷量3448.43萬隻，累計銷售收入7.54億元。"
+    },
+    {
+      "id": "5131705",
+      "time": "2026-10-08 15:54:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞普生物：取得新獸藥註冊證書】瑞普生物(300119)10月8日公告，公司近日獲得由農業農村部核發的《新獸藥註冊證書》，新獸藥名稱為鴨病毒性肝炎二價活疫苗（1型BJ80株+3型HB80株）。"
+    },
+    {
+      "id": "5131704",
+      "time": "2026-10-08 15:54:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溫氏股份：2026年9月肉雞銷量1.26億隻，同比增長2.72%】溫氏股份公告，2026年9月銷售肉雞1.26億隻，收入37.31億元，毛雞銷售均價14.2元/公斤，同比分別增長2.72%、7.74%、4.95%；當年累計銷售肉雞9.96億隻、收入260.01億元。銷售白羽雞苗1671.01萬隻，當年累計1.29億隻。銷售肉豬298.83萬頭，收入40.56億元，毛豬銷售均價10.75元/公斤，同比分別下降10.13%、18.47%、18.44%；當年累計銷售2651.17萬頭、收入353.94億元。"
+    },
+    {
+      "id": "5131703",
+      "time": "2026-10-08 15:54:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據伊朗媒體，中東戰爭爆發以來，首架由外國航空公司運營的商業航班週四飛抵伊朗。此前，美國批准伊拉克國家航空公司飛往伊朗的制裁豁免。"
+    },
+    {
+      "id": "mkt:01a11a81-29cd-7ee0-a7ef-195655b429a4",
+      "time": "2026-10-08 15:53:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【First foreign-operated commercial flight lands in Iran since war began】Iranian state media said on Thursday the first foreign-operated commercial flight since the Middle East war began — an Iraqi Airways service — landed in Tehran from Najaf. State TV footage showed the round-trip pilgrimage service. The US last month approved a sanctions exemption for Iraqi Airways to operate pilgrim return flights between Najaf and Iran, and Iraq said last week it had reached an agreement with the US allowing Iranian carriers, excluding Mahan Air, to operate daily return flights to Najaf."
+    },
+    {
+      "id": "5131702",
+      "time": "2026-10-08 15:53:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST康佳A：主動終止上市 現金選擇權進入申報階段】*ST康佳A公告稱，公司以股東會決議方式主動終止股票上市事項已審議透過，公司股票自2026年9月4日開市起連續停牌，目前已完成現金選擇權派發，進入行權申報、清算交收階段，不再交易。現金選擇權申報期為2026年9月30日至10月13日的交易日交易時段，A股行權價2.48元/股，B股行權價0.73港幣/股，每1股有權行使現金選擇權的股票獲派1份權利，未申報或未有效申報的股東無法取得現金對價，未行權的現金選擇權到期將登出。"
+    },
     {
       "id": "5131701",
       "time": "2026-10-08 15:53:19",
