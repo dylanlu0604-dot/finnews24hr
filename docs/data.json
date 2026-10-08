@@ -1,7 +1,108 @@
 {
-  "updated": "2026-10-08 23:32:38",
-  "count": 9194,
+  "updated": "2026-10-08 23:36:33",
+  "count": 9201,
   "items": [
+    {
+      "id": "5132867",
+      "time": "2026-10-08 23:35:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌面向美國使用者推出Google Voice運營商直連功能。"
+    },
+    {
+      "id": "5132866",
+      "time": "2026-10-08 23:35:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX載人太空艙從太空返回後濺落海面。"
+    },
+    {
+      "id": "5132865",
+      "time": "2026-10-08 23:33:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國決定召回駐烏克蘭大使】韓國外交部8日表示，韓國決定召回駐烏克蘭大使。韓國外交部表示，韓國政府期待韓烏兩國間各項懸而未決的問題能夠得到妥善解決，並將為此繼續與烏克蘭方面保持磋商。（新華社）"
+    },
+    {
+      "id": "5132864",
+      "time": "2026-10-08 23:33:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院議長約翰遜表示，如果共和黨失去控制權，他對自己的未來感到不確定。"
+    },
+    {
+      "id": "mkt:01a11c25-6e66-7ee0-a7ff-6015498d0aaf",
+      "time": "2026-10-08 23:32:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. 8-week Treasury auction as of Oct. 8 — percentage of allotment at the awarded rate 8.93%, prior 65.05%."
+    },
+    {
+      "id": "mkt:01a11c25-4cb3-7ee0-a7ff-5de6d3a8d3bc",
+      "time": "2026-10-08 23:32:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 8-week Treasury auction on Oct. 8 — stop-out yield 3.98%, prior 3.99%."
+    },
+    {
+      "id": "5132863",
+      "time": "2026-10-08 23:32:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“十五五”北京中心城區將年增停車設施超2萬個】“十五五”期間，在京“找車位”能否更便捷？8日釋出的《北京市“十五五”時期現代化基礎設施發展規劃》提出，北京將加強停車需求保障。中心城區每年新增停車設施2萬個以上，在有條件的老舊小區周邊增加夜間限時停車位，積極推動錯時共享，引導機關、企事業單位停車場向社會開放，增加有效停車供給。（新華社）"
+    },
+    {
+      "id": "mkt:01a11c25-2edc-7ee0-a7ff-54df7994fd88",
+      "time": "2026-10-08 23:32:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Oct.8) | actual 3.98% | previous 3.99%"
+    },
+    {
+      "id": "mkt:01a11c25-0d53-7ee0-a7ff-4f221b86f7d2",
+      "time": "2026-10-08 23:32:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 8-week Treasury bill auction on Oct. 8: bid-cover ratio 2.77, prior 2.70."
+    },
+    {
+      "id": "5132862",
+      "time": "2026-10-08 23:32:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四周期國債，得標利率3.980%，投標倍數2.40。拍賣八週期國債，得標利率3.980%，投標倍數2.77。"
+    },
+    {
+      "id": "mkt:01a11c24-eb01-7ee0-a7ff-461da547bfd9",
+      "time": "2026-10-08 23:32:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Oct.8) | actual 2.77 | previous 2.7"
+    },
     {
       "id": "mkt:01a11c24-beed-7ee0-a7ff-3c6bfaf0f5a3",
       "time": "2026-10-08 23:32:12",
@@ -84445,42 +84546,6 @@
         "國際"
       ],
       "text": "交易員下調歐洲央行加息預期，市場不再完全定價三次加息的情景。"
-    },
-    {
-      "id": "5122961",
-      "time": "2026-10-01 23:36:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄警告北約勿試圖封鎖加里寧格勒】北約近期頻頻針對俄羅斯在波羅的海沿岸的“飛地”加里寧格勒開展演習。對此，俄方發出嚴厲警告稱，如果北約封鎖加里寧格勒州，俄方準備動用包括核武器在內的一切手段保衛領土。俄羅斯總統新聞秘書佩斯科夫今天（10月1日）再次強調，加里寧格勒州是俄羅斯聯邦不可分割的一部分，俄方不允許任何人覬覦該地區，任何向加里寧格勒州施壓的企圖都是不可接受的。 中國社會科學院俄羅斯東歐中亞研究所研究員張弘指出，北約近來針對加里寧格勒州的戰略目的主要有三，俄羅斯則將封鎖加里寧格勒視為戰略紅線。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:588865",
-      "time": "2026-10-01 23:35:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "TE Metals Index Hits 9-week Low — TE Metals Index decreased to 6783.00 Index Points, the lowest since July 2026. Over the past 4 weeks, TE Metals Index lost 3.18%, and in the last 12 months, it increased 20.86%."
-    },
-    {
-      "id": "5122960",
-      "time": "2026-10-01 23:34:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "橋水基金Pure Alpha在2026年1-9月增長18.4%，AIA Marco Fund增長16.4%。"
-    },
-    {
-      "id": "5122959",
-      "time": "2026-10-01 23:33:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：土耳其與聯合國代表計劃同俄羅斯、烏克蘭就黑海停火事宜舉行會談。"
     }
   ]
 }
