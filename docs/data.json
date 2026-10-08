@@ -1,7 +1,124 @@
 {
-  "updated": "2026-10-08 23:24:48",
-  "count": 9183,
+  "updated": "2026-10-08 23:28:45",
+  "count": 9189,
   "items": [
+    {
+      "id": "5132856",
+      "time": "2026-10-08 23:28:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國對Uni-Tile & Marble公司及其執行長提起民事欺詐訴訟。"
+    },
+    {
+      "id": "5132855",
+      "time": "2026-10-08 23:27:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西石油公司執行長：坎波斯盆地有潛力成為新的石油中心。"
+    },
+    {
+      "id": "mkt:01a11c20-9534-7ee0-a7ff-040586843871",
+      "time": "2026-10-08 23:27:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Coast Guard warns Philippines to immediately stop incursions, provocations and false claims】China Coast Guard spokesman Jiang Lue said on Oct. 8 that Philippine Coast Guard vessel 4409 went to waters near Ren'ai Reef and transferred one injured person from an illegally grounded vessel. For humanitarian reasons China allowed a small-boat transfer; the coast guard said it handled the matter in accordance with law and provided necessary facilitation. It accused Philippine statements of distorting facts and warned the Philippines to immediately cease incursions, provocations and false claims, reaffirming China’s indisputable sovereignty over the Spratly Islands and adjacent waters including Ren'ai Reef."
+    },
+    {
+      "id": "5132854",
+      "time": "2026-10-08 23:27:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：北美零售房地產投資信託基金的信用質量保持穩定。"
+    },
+    {
+      "id": "5132853",
+      "time": "2026-10-08 23:27:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中國海警局：正告菲方立即停止侵權挑釁和不實炒作】中國海警局新聞發言人姜略表示，10月8日，菲律賓海警4409號船赴仁愛礁附近海域，轉運非法“坐灘”船隻1名傷員。出於人道主義考慮，中方第一時間允許菲方採取小艇過駁方式轉運傷員，中國海警依法依規處置，並提供必要便利。菲方有關言論罔顧事實、顛倒黑白，企圖混淆視聽。中國對包括仁愛礁在內的南沙群島及其附近海域擁有無可爭辯的主權。我們正告菲方立即停止侵權挑釁和不實炒作。（央視新聞）"
+    },
+    {
+      "id": "5132852",
+      "time": "2026-10-08 23:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：蒙古經濟前景面臨的下行風險已加劇。"
+    },
+    {
+      "id": "5132850",
+      "time": "2026-10-08 23:26:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【真主黨收到伊朗提供的2億美元援助黎巴嫩民眾】真主黨收到伊朗提供的2億美元，用於援助流離失所的黎巴嫩民眾。伊朗提供的資金將為約5萬個流離失所的黎巴嫩家庭提供首批3000美元的款項。真主黨證實已獲得這筆資金，華盛頓否認存在這筆轉賬。"
+    },
+    {
+      "id": "mkt:01a11c1e-89f0-7ee0-a7fe-f88080703d11",
+      "time": "2026-10-08 23:25:25",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "NASA says SpaceX (SPCX.O) capsule is entering Earth's atmosphere."
+    },
+    {
+      "id": "mkt:01a11c1e-3f2b-7ee0-a7fe-f54cb0294143",
+      "time": "2026-10-08 23:25:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Russia expects Baltic grain exports in October to reach 1.5 mln t."
+    },
+    {
+      "id": "5132849",
+      "time": "2026-10-08 23:24:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織工作人員小組結束對蒙古國的訪問。"
+    },
+    {
+      "id": "5132848",
+      "time": "2026-10-08 23:24:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯預計10月波羅的海糧食出口量為150萬噸。"
+    },
+    {
+      "id": "5132847",
+      "time": "2026-10-08 23:24:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家航空航天局：SpaceX太空艙正進入地球大氣層。"
+    },
+    {
+      "id": "5132846",
+      "time": "2026-10-08 23:24:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX太空艙啟程返回地球，進入預計的通訊中斷階段。"
+    },
+    {
+      "id": "5132845",
+      "time": "2026-10-08 23:24:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "9月，外國投資者在伊斯坦布林證券交易所明星股和主機板股票市場的淨買入額為3.753億美元。"
+    },
     {
       "id": "5132844",
       "time": "2026-10-08 23:24:00",
@@ -84325,73 +84442,6 @@
         "Importance 1"
       ],
       "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 12 bps — Majority of government bonds yields are higher on Thursday. Top gainers are Brazil 10Y (12bps), Greece 10Y (11.53bps) and Japan 10Y (3.60bps). Biggest losers are Germany 10Y (-6.03bps) and US 10Y (-1.40bps)."
-    },
-    {
-      "id": "te:markets:588863",
-      "time": "2026-10-01 23:28:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "US Natgas Prices Fall to 1-Week Low — US natural gas prices slipped below $3.00 per MMBtu, reaching a one-week low as traders anticipated stronger production and relatively mild weather that could limit demand for both heating and cooling. The EIA reported a 64 bcf increase in gas storage for the week through September 25, matching forecasts but remaining below the five-year average build of 80 bcf. Production in the Lower 48 averaged a record 113.3 bcfd in September, although output dropped to about 110.7 bcfd over the past week following a temporary disruption on TC Energy’s Columbia Gas Transmission system. The force majeure, which affected roughly 1.4–1.8 bcfd of flows, was lifted after repairs on September 27. Looking ahead, forecasts call for mostly normal temperatures through October 16. Meanwhile, LNG feedgas demand strengthened, averaging 17.9 bcfd in September versus 17.2 bcfd in August."
-    },
-    {
-      "id": "5122952",
-      "time": "2026-10-01 23:28:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利國家銅業公司（CODELCO）：拉多米羅托米奇銅礦發生致命事故的區域已暫停作業。"
-    },
-    {
-      "id": "5122951",
-      "time": "2026-10-01 23:28:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：越來越多專家擔憂，人工智慧的普及會導致所有人喪失個體特質，趨向同質化。"
-    },
-    {
-      "id": "5122950",
-      "time": "2026-10-01 23:27:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局：SpaceX載人飛船已進入軌道，正飛往空間站。"
-    },
-    {
-      "id": "5122949",
-      "time": "2026-10-01 23:26:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：10 月 1 日白天，俄軍向烏克蘭境內發射 97 架各型攻擊無人機，其中包含 66 架噴氣式無人機與 “格貝拉” 無人機。防空部隊共攔截 78 架敵方無人機，含 55 個噴氣式目標。"
-    },
-    {
-      "id": "5122948",
-      "time": "2026-10-01 23:25:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：當前對聯合國存在合理的批評；聯合國的運作未能如設想那般體現集體協商與民主。"
-    },
-    {
-      "id": "5122947",
-      "time": "2026-10-01 23:25:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：西方在世界上的實際影響力正在衰退。"
-    },
-    {
-      "id": "5122946",
-      "time": "2026-10-01 23:24:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：龍飛船與獵鷹 9 號火箭二級箭體分離。"
     }
   ]
 }
