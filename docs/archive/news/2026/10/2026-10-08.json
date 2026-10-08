@@ -1,7 +1,32 @@
 {
   "date": "2026-10-08",
-  "count": 1967,
+  "count": 1970,
   "items": [
+    {
+      "id": "5132844",
+      "time": "2026-10-08 23:24:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：曼城（英超獨立委員會針對曼城偽裝融資騙局案）相關調查結論需要審慎考量，並未淡化曼城調查結論的嚴重性。"
+    },
+    {
+      "id": "mkt:01a11c1b-61fc-7ee0-a7fe-ea7677334929",
+      "time": "2026-10-08 23:21:58",
+      "tags": [
+        "MKT News",
+        "WTI"
+      ],
+      "text": "The US published a diesel fuel-related executive order in the Federal Register."
+    },
+    {
+      "id": "mkt:01a11c1a-e7b4-7ee0-a7fe-e656887faadd",
+      "time": "2026-10-08 23:21:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Times reports the U.S. will control the board of the new entity in the Lukoil transaction."
+    },
     {
       "id": "mkt:01a11c19-adc2-7ee0-a7fe-db0e3220ff76",
       "time": "2026-10-08 23:20:07",

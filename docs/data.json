@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-08 23:20:51",
-  "count": 9186,
+  "updated": "2026-10-08 23:24:48",
+  "count": 9183,
   "items": [
+    {
+      "id": "5132844",
+      "time": "2026-10-08 23:24:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：曼城（英超獨立委員會針對曼城偽裝融資騙局案）相關調查結論需要審慎考量，並未淡化曼城調查結論的嚴重性。"
+    },
+    {
+      "id": "mkt:01a11c1b-61fc-7ee0-a7fe-ea7677334929",
+      "time": "2026-10-08 23:21:58",
+      "tags": [
+        "MKT News",
+        "WTI"
+      ],
+      "text": "The US published a diesel fuel-related executive order in the Federal Register."
+    },
+    {
+      "id": "mkt:01a11c1a-e7b4-7ee0-a7fe-e656887faadd",
+      "time": "2026-10-08 23:21:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Times reports the U.S. will control the board of the new entity in the Lukoil transaction."
+    },
     {
       "id": "mkt:01a11c19-adc2-7ee0-a7fe-db0e3220ff76",
       "time": "2026-10-08 23:20:07",
@@ -84367,63 +84392,6 @@
         "其他"
       ],
       "text": "SpaceX：龍飛船與獵鷹 9 號火箭二級箭體分離。"
-    },
-    {
-      "id": "te:economy:588862",
-      "time": "2026-10-01 23:24:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Natural Gas Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Natural Gas Storage Rises as Expected — US energy companies added 64 billion cubic feet of natural gas to storage during the week ending September 25, 2026, matching market expectations. The injection was above the 56 bcf added during the same week last year but below the five-year seasonal average of 80 bcf. Total inventories increased to 3.415 trillion cubic feet, leaving stocks 3.9% below year-ago levels but approximately 2.4% above the five-year average for the period. The latest build was also larger than the 53 bcf injection recorded in the previous week through September 18. Looking ahead, preliminary estimates point to a further 79 bcf increase in storage for the week ending October 2. That expected build would be slightly above the 77 bcf added during the comparable week in 2025, but remains below the five-year average injection of 96 bcf."
-    },
-    {
-      "id": "5122945",
-      "time": "2026-10-01 23:23:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債收益率下行，兩年期國債收益率最新下跌 7.28 個基點，報 4.814%。\n10 年期國債收益率最新下跌 2.07 個基點，報 5.272%。 \n20 年期國債收益率最新下跌 1.19 個基點，報 5.674%。 \n30 年期國債收益率下跌 0.58 個基點，報 5.633%。"
-    },
-    {
-      "id": "5122944",
-      "time": "2026-10-01 23:22:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐元 3 個月期權隱含波動率升至 6.45%，為 4 月 13 日以來最高。"
-    },
-    {
-      "id": "5122943",
-      "time": "2026-10-01 23:22:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "期權市場顯示，交易員對歐元的看空情緒達到 3 月中旬以來最高水平。"
-    },
-    {
-      "id": "te:markets:588860",
-      "time": "2026-10-01 23:21:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Bund Rout Pauses After Yields Hit 17-Year High — Germany’s 10-year Bund yield fell below 3.55%, retreating from a 17-year high, as investors weighed demand for safe-haven assets against expectations for further ECB rate hikes through 2027 as the energy shock deepens. French bond yields, meanwhile, surged to an over two-decade high after posting their biggest quarterly increase in nearly four decades, as the minority government unveiled a plan to cut the budget deficit, although the fiscal watchdog warned that its economic assumptions were “optimistic.” Expectations for higher ECB rates are pushing borrowing costs across the euro area, raising concerns over debt affordability in the bloc’s most indebted economies. Political uncertainty ahead of the 2027 elections is adding to concerns over their fiscal outlooks. Money markets now price the ECB’s deposit rate at around 2.8% by December, implying one further 25-basis-point hike and a 24% chance of a second move. Markets also see the policy rate reaching around 3.4% by late 2027."
-    },
-    {
-      "id": "5122942",
-      "time": "2026-10-01 23:21:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦住房金融局局長的預算削減方案將使聯邦住房金融局監察部門最多裁員 80%。"
     }
   ]
 }
