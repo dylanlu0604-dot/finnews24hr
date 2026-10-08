@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-08 23:16:53",
-  "count": 9180,
+  "updated": "2026-10-08 23:20:51",
+  "count": 9186,
   "items": [
+    {
+      "id": "mkt:01a11c19-adc2-7ee0-a7fe-db0e3220ff76",
+      "time": "2026-10-08 23:20:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the New York Times, the U.S. will obtain roughly a 15% stake in a deal for Lukoil oil assets."
+    },
+    {
+      "id": "5132843",
+      "time": "2026-10-08 23:19:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國將在盧克石油資產交易中獲得約15%股份。"
+    },
+    {
+      "id": "te:economy:590577",
+      "time": "2026-10-08 23:19:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "GDPNow",
+        "Importance 1"
+      ],
+      "text": "Atlanta Fed GDPNow Estimate for Q3 Growth Eases to 3.6% — The Atlanta Fed’s GDPNow model estimate for third-quarter 2026 real GDP growth eased to 3.6% on October 8, from 3.7% on October 6. Following the latest US Census Bureau wholesale trade report, the estimated contribution of inventory investment to Q3 growth fell to 1.98 percentage points from 2.07 percentage points."
+    },
+    {
+      "id": "mkt:01a11c18-98c8-7ee0-a7fe-d52ac3e9ebfd",
+      "time": "2026-10-08 23:18:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine foreign ministry spokesman said on South Korea's decision to recall its ambassador that diplomacy should prevail over emotion and Ukraine is willing to resume constructive dialogue."
+    },
+    {
+      "id": "5132842",
+      "time": "2026-10-08 23:18:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭發言人表示，烏方願意恢復建設性對話。"
+    },
+    {
+      "id": "mkt:01a11c17-ecd1-7ee0-a7fe-ca42649f015b",
+      "time": "2026-10-08 23:18:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Houthi movement says it again struck Riyadh airport】Yemen’s Houthi movement said on the 8th it launched a second ballistic missile strike on Riyadh’s King Khalid International Airport, claiming the missile hit, caused damage and disrupted air traffic. The group’s military spokesman Yahya Sarea warned Saudi oil-sector personnel to stay away from facilities the movement has identified as potential strike targets."
+    },
+    {
+      "id": "5132841",
+      "time": "2026-10-08 23:18:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱再次襲擊沙特利雅得機場】葉門胡塞武裝8日稱，該組織當天第二次使用彈道導彈打擊沙烏地阿拉伯首都利雅得的哈立德國王國際機場，同時警告相關人員遠離被其認定為“打擊目標”的沙特石油設施。胡塞武裝軍事發言人葉海亞·薩雷亞當天在社交媒體發表宣告稱，該組織當天中午向哈立德國王國際機場發射一枚彈道導彈，導彈“成功命中目標”，造成設施受損及航空交通中斷。薩雷亞還向沙特石油行業工作人員發出警告，敦促專家、工程師及其他僱員遠離被胡塞武裝認定為潛在軍事“打擊目標”的石油設施及附近區域。（新華社）"
+    },
+    {
+      "id": "5132840",
+      "time": "2026-10-08 23:18:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外長發言人就韓國決定召回大使一事表示：外交應超越情緒，以理性為主導。"
+    },
+    {
+      "id": "5132839",
+      "time": "2026-10-08 23:17:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國在聯邦公報釋出柴油相關行政令。"
+    },
+    {
+      "id": "mkt:01a11c17-5b96-7ee0-a7fe-c7d7141f708a",
+      "time": "2026-10-08 23:17:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK police admit search warrant for Prince Andrew's residence was unlawful】Thames Valley Police told the High Court on Oct. 8 that a search warrant issued earlier this year for the residence of Prince Andrew, Duke of York, was unlawful and that information it submitted to the Crown Court contained inaccuracies."
+    },
+    {
+      "id": "5132838",
+      "time": "2026-10-08 23:17:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國警方承認對國王之弟安德魯住所的搜查令不合法】當地時間10月8日，英國泰晤士河谷警察局向英國高等法院承認，今年針對英國國王查爾斯三世的弟弟安德魯·蒙巴頓‑溫莎的住所出具的搜查令不合法，警方向中央刑事法院提交的相關資訊存在不準確。（央視新聞）"
+    },
     {
       "id": "mkt:01a11c15-cfae-7ee0-a7fe-bccf67a351e7",
       "time": "2026-10-08 23:15:53",
@@ -84325,46 +84424,6 @@
         "國際"
       ],
       "text": "美國聯邦住房金融局局長的預算削減方案將使聯邦住房金融局監察部門最多裁員 80%。"
-    },
-    {
-      "id": "5122941",
-      "time": "2026-10-01 23:19:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：我們正在為俄羅斯可能發起的大規模混合攻擊做準備，我們將迅速且明確地作出回應。"
-    },
-    {
-      "id": "5122940",
-      "time": "2026-10-01 23:19:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們確信，隨著西方霸權走向衰落，局勢將會好轉。"
-    },
-    {
-      "id": "5122939",
-      "time": "2026-10-01 23:19:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利與德國兩年期國債利差料將出現 2022 年以來最大幅度擴大。"
-    },
-    {
-      "id": "5122938",
-      "time": "2026-10-01 23:18:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：國際衝突持續下去是完全有可能的。"
-    },
-    {
-      "id": "5122937",
-      "time": "2026-10-01 23:17:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：技術可能引發全球性毀滅。"
     }
   ]
 }
