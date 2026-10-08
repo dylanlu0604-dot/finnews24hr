@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-08 23:36:33",
-  "count": 9201,
+  "updated": "2026-10-08 23:40:30",
+  "count": 9204,
   "items": [
+    {
+      "id": "mkt:01a11c2b-8adf-7ee0-a7ff-7e198f5ae96b",
+      "time": "2026-10-08 23:39:37",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "S&P500"
+      ],
+      "text": "European equities closed lower on Oct 8: Germany's DAX fell 1.21% to 24,801.36; UK's FTSE 100 down 0.22% to 10,435.34; France's CAC 40 down 0.51% to 7,729.69; EURO STOXX 50 down 0.91% to 6,124.35; Spain's IBEX 35 down 1.02% to 18,923.11; Italy's FTSE MIB down 1.39% to 49,278.50."
+    },
+    {
+      "id": "5132870",
+      "time": "2026-10-08 23:39:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴黎警方對抗議者使用水炮。"
+    },
+    {
+      "id": "5132869",
+      "time": "2026-10-08 23:38:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周星馳旗下上市公司剝離內地影院資產 售價1港元】據港交所公告，周星馳控股的上市公司比高集團（08220.HK）在10月6日以1港元售價賣出旗下一家公司，該公司主要在中國內地經營電影院。該交易是港股典型的以1港元為名義代價處置負債資產。標的公司為“比高電影院投資有限公司”，在香港註冊成立。比高電影院投資有限公司為淨負債狀態，截至2026年8月31日的未經稽核負債淨額（不包括公司間貸款）約860萬港元。 交易完成後，比高集團預計出售這家公司會帶來約540萬港元的賬面收益，完成負債業務剝離。"
+    },
+    {
+      "id": "mkt:01a11c29-6208-7ee0-a7ff-700e5a270c65",
+      "time": "2026-10-08 23:37:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) crewed capsule splashed down in the Pacific Ocean."
+    },
+    {
+      "id": "mkt:01a11c28-8a39-7ee0-a7ff-6d691a5df3bc",
+      "time": "2026-10-08 23:36:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "RIA reports a drone strike in Russia's Belgorod region killed one person."
+    },
+    {
+      "id": "5132868",
+      "time": "2026-10-08 23:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯別爾哥羅德州遭遇無人機襲擊，造成一人死亡。"
+    },
     {
       "id": "5132867",
       "time": "2026-10-08 23:35:32",
@@ -84516,36 +84570,6 @@
         "Importance 2"
       ],
       "text": "Treasury Sell-Off Eases — The yield on the US 10-year Treasury note topped 5.3% on Thursday, its highest level since early 2002, before retreating slightly to 5.27%. The bond market has remained under pressure amid expectations of further monetary policy tightening by the Fed, as persistent inflationary pressures from higher oil prices and the lack of a resolution to the Middle East conflict continue to weigh on sentiment. Concerns over the US fiscal and debt outlook, along with resilient economic data, have added to the pressure. The ISM Manufacturing PMI edged lower in September but still pointed to solid manufacturing activity, while the prices paid gauge soared. The jobs report due tomorrow will provide a fresh update on labor-market conditions and will help shape expectations for the Fed’s policy path. Traders have fully priced in a 25 bps rate hike by the Fed this year, although the probability of such a move in October has fallen to 34% from 70% last week."
-    },
-    {
-      "id": "te:economy:588866",
-      "time": "2026-10-01 23:39:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Colombia Manufacturing PMI Strengthens in September — Colombia’s Davivienda Manufacturing PMI rose to 54.6 in September 2026 from 54.3 in August, signaling the best improvement in sector conditions since October 2025. Factory output rose for a fifth month at the fastest pace since November 2025, while new orders strengthened markedly, with growth among the strongest in the survey’s history. Manufacturers raised purchasing substantially, while purchase inventories increased for a fourth month, although only marginally. Finished-goods inventories fell further as firms used stocks to meet stronger sales. Employment rose for a sixth consecutive month, while backlogs were broadly unchanged. Input-cost inflation eased to a nine-month low, while selling-price inflation also softened. Supplier performance deteriorated further, with delivery times lengthening the most in three months amid disruptions linked to the earthquake, business closures and traffic jams. Business confidence improved further at the end of the third quarter."
-    },
-    {
-      "id": "5122963",
-      "time": "2026-10-01 23:37:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗召見英國大使 抗議英方“無根據”指控】據伊朗媒體10月1日報道，伊朗外交部當天召見英國駐伊朗大使雨果·肖特，對英國近期指認伊朗涉嫌圖謀襲擊英國空軍費爾福德基地表示強烈抗議。據《德黑蘭時報》報道，伊朗強烈抗議英國政府持續對伊朗採取“破壞性做法”，稱相關指控“毫無根據”。另據伊朗新聞電視臺訊息，伊朗副外長拉萬奇告訴英國大使，英國政府必須就此事作出正式解釋，糾正不當立場。（新華社）"
-    },
-    {
-      "id": "5122962",
-      "time": "2026-10-01 23:37:28",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "交易員下調歐洲央行加息預期，市場不再完全定價三次加息的情景。"
     }
   ]
 }
