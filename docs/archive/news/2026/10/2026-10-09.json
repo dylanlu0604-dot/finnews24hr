@@ -1,7 +1,48 @@
 {
   "date": "2026-10-09",
-  "count": 343,
+  "count": 347,
   "items": [
+    {
+      "id": "5133174",
+      "time": "2026-10-09 04:25:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍爾木茲海峽南部航線據報發生爆炸。"
+    },
+    {
+      "id": "mkt:01a11d31-043c-7ee0-a805-496479c5169e",
+      "time": "2026-10-09 04:25:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【MUSALEM: Fed may need further hikes in next 6–9 months】St. Louis Fed President MUSALEM said the Fed will likely need additional rate hikes to bring inflation back to 2% and that policy must tighten further to achieve the target within a 'timely' horizon. He said if 'timely' is roughly 18 months, rates may need to be raised again at an appropriate time over the next 6–9 months. Inflation remains the principal US economic problem, he added, but strong growth and a stable labor market suggest the Fed could lower inflation without materially harming employment. Asked about the Oct. 27–28 FOMC meeting, he said he is open and has not pre-judged the outcome, but inflation dynamics require continued consideration of further tightening. Despite a notable rise in US Treasury yields, he judged financial conditions still accommodative and supportive of growth, saying higher yields reflect expected higher real rates and increased capital competition amid a strong economy rather than a loss of confidence in the Fed."
+    },
+    {
+      "id": "5133173",
+      "time": "2026-10-09 04:25:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "Crown Castle盤後上漲1.6%，American Tower盤後上漲1.2%。"
+    },
+    {
+      "id": "5133172",
+      "time": "2026-10-09 04:23:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥9月正式就業崗位新增128,803個。"
+    },
     {
       "id": "5133171",
       "time": "2026-10-09 04:21:14",

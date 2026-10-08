@@ -1,7 +1,48 @@
 {
-  "updated": "2026-10-09 04:22:49",
-  "count": 9134,
+  "updated": "2026-10-09 04:26:43",
+  "count": 9129,
   "items": [
+    {
+      "id": "5133174",
+      "time": "2026-10-09 04:25:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍爾木茲海峽南部航線據報發生爆炸。"
+    },
+    {
+      "id": "mkt:01a11d31-043c-7ee0-a805-496479c5169e",
+      "time": "2026-10-09 04:25:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【MUSALEM: Fed may need further hikes in next 6–9 months】St. Louis Fed President MUSALEM said the Fed will likely need additional rate hikes to bring inflation back to 2% and that policy must tighten further to achieve the target within a 'timely' horizon. He said if 'timely' is roughly 18 months, rates may need to be raised again at an appropriate time over the next 6–9 months. Inflation remains the principal US economic problem, he added, but strong growth and a stable labor market suggest the Fed could lower inflation without materially harming employment. Asked about the Oct. 27–28 FOMC meeting, he said he is open and has not pre-judged the outcome, but inflation dynamics require continued consideration of further tightening. Despite a notable rise in US Treasury yields, he judged financial conditions still accommodative and supportive of growth, saying higher yields reflect expected higher real rates and increased capital competition amid a strong economy rather than a loss of confidence in the Fed."
+    },
+    {
+      "id": "5133173",
+      "time": "2026-10-09 04:25:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "Crown Castle盤後上漲1.6%，American Tower盤後上漲1.2%。"
+    },
+    {
+      "id": "5133172",
+      "time": "2026-10-09 04:23:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥9月正式就業崗位新增128,803個。"
+    },
     {
       "id": "5133171",
       "time": "2026-10-09 04:21:14",
@@ -83655,85 +83696,6 @@
         "MKT News"
       ],
       "text": "Houthi forces said a Saudi attack targeted Yemen's capital Sanaa."
-    },
-    {
-      "id": "5123328",
-      "time": "2026-10-02 04:26:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "惠譽評級：透明度提升對美國私人信貸市場是利好。"
-    },
-    {
-      "id": "mkt:01a0f924-c960-7ee0-a77e-c979c7ce4b02",
-      "time": "2026-10-02 04:25:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump concluded remarks to reporters."
-    },
-    {
-      "id": "5123326",
-      "time": "2026-10-02 04:25:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數1日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.64%，在匯市尾市收於102.102。截至紐約匯市尾市，1歐元兌換1.1235美元，低於前一交易日的1.1332美元；1英鎊兌換1.3190美元，低於前一交易日的1.3262美元。1美元兌換158.11日元，高於前一交易日的157.34日元；1美元兌換0.8317瑞士法郎，低於前一交易日的0.8354瑞士法郎；1美元兌換1.4236加元，高於前一交易日的1.4229加元；1美元兌換10.0597瑞典克朗，高於前一交易日的10.0103瑞典克朗。"
-    },
-    {
-      "id": "mkt:01a0f924-51c9-7ee0-a77e-c099301bb0cd",
-      "time": "2026-10-02 04:25:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Dollar index up 0.64% to 102.102】The dollar index, measuring the currency against six major peers, rose 0.64% to 102.102 at the New York close. EUR/USD 1.1235 (prev. 1.1332); GBP/USD 1.3190 (prev. 1.3262). USD/JPY 158.11 (prev. 157.34); USD/CHF 0.8317 (prev. 0.8354); USD/CAD 1.4236 (prev. 1.4229); USD/SEK 10.0597 (prev. 10.0103)."
-    },
-    {
-      "id": "5123325",
-      "time": "2026-10-02 04:24:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報道：Anthropic計劃在上市前舉辦投資者日活動】據知情人士透露，Anthropic PBC將於10月14日與潛在投資者會面，為其首次公開募股做準備。儘管面臨AI安全方面的審查，該公司仍在推進其潛在重磅上市的計劃。活動邀請函近期剛剛發出。這是一場面向精選機構投資者的活動，屆時他們可以向公司高管提問。活動將在公司位於美國舊金山的總部舉行。上述時間安排將使Claude的開發商有望按預期在11月亮相。此前訊息稱，Anthropic最早可能於11月9日當週啟動IPO正式路演，從而有望在感恩節前開始交易。"
-    },
-    {
-      "id": "5123323",
-      "time": "2026-10-02 04:24:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及德克薩斯州選舉：無論你是否喜歡帕克斯頓，都要投票給他。"
-    },
-    {
-      "id": "mkt:01a0f923-2ba9-7ee0-a77e-bd2bb3287850",
-      "time": "2026-10-02 04:23:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Explosions Heard in Sanaa, Yemen; Suspected Airstrike】China's state broadcaster correspondent reported explosions were heard in Sanaa, Yemen, on the night of Oct 1 local time; the blasts were suspected to be from an airstrike."
-    },
-    {
-      "id": "5123322",
-      "time": "2026-10-02 04:23:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "耐克公司：受影響崗位的裁斷決定將於2027日曆年及之後開始作出。"
-    },
-    {
-      "id": "5123320",
-      "time": "2026-10-02 04:22:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "耐克：相關舉措包括推進供應鏈現代化、在印度新建園區、將業務重組為三大地理區域以及精簡運營。"
     }
   ]
 }
