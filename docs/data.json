@@ -1,7 +1,64 @@
 {
-  "updated": "2026-10-08 23:52:44",
-  "count": 9221,
+  "updated": "2026-10-08 23:56:51",
+  "count": 9222,
   "items": [
+    {
+      "id": "5132893",
+      "time": "2026-10-08 23:55:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：科曼奇1號反應堆功率從100%降至98%。"
+    },
+    {
+      "id": "5132892",
+      "time": "2026-10-08 23:55:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：德累斯頓3號反應堆功率從98%降至95%。"
+    },
+    {
+      "id": "5132891",
+      "time": "2026-10-08 23:55:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：哈奇2號反應堆功率從88%提高到95%。"
+    },
+    {
+      "id": "5132890",
+      "time": "2026-10-08 23:53:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500能源板塊上漲3.1%，創8月10日以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:01a11c38-8310-7ee0-a7ff-d6f909b42677",
+      "time": "2026-10-08 23:53:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps commander Vahidi said no external power has the right to threaten or interfere with the Strait of Hormuz or the Persian Gulf."
+    },
+    {
+      "id": "5132889",
+      "time": "2026-10-08 23:52:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱再次襲擊沙特利雅得機場】葉門胡塞武裝8日稱，該組織當天第二次使用彈道導彈打擊沙烏地阿拉伯首都利雅得的哈立德國王國際機場，同時警告相關人員遠離被其認定為“打擊目標”的沙特石油設施。胡塞武裝軍事發言人葉海亞·薩雷亞當天在社交媒體發表宣告稱，該組織當天中午向哈立德國王國際機場發射一枚彈道導彈，導彈“成功命中目標”，造成設施受損及航空交通中斷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a11c37-2ece-7ee0-a7ff-ca75a29443c5",
+      "time": "2026-10-08 23:52:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU gas coordination group says LNG supplies will depend on temperatures and demand."
+    },
     {
       "id": "mkt:01a11c37-20a7-7ee0-a7ff-c026bac723d8",
       "time": "2026-10-08 23:52:17",
@@ -84659,67 +84716,6 @@
         "國際"
       ],
       "text": "兩名歐盟外交官稱，歐盟能源聯盟工作組將於週五開會，討論可能釋放柴油儲備事宜。"
-    },
-    {
-      "id": "5122976",
-      "time": "2026-10-01 23:56:48",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根大通策略師預計美國中期選舉前市場波動率或加大】期權交易員似乎並未因美國中期選舉而感到不安，這令已經受到債券拋售以及美聯儲利率路徑不確定性影響的股市面臨潛在風險。巴克萊彙編的資料顯示，標普500指數預計將在11月4日、也就是中期選舉次日上下波動0.8%。根據Kalshi資料，博彩市場認為民主黨在國會兩院均獲勝的機率為62%，而國會分裂的機率約為29%，即共和黨保住參議院、民主黨贏得眾議院。投資者之所以淡化選舉風險，部分原因是市場仍寄望於出現“分裂政府”。這種局面通常會導致立法僵局，從而降低市場大幅波動的風險。不過，隨著投票臨近，波動率仍可能重新上升，也不能排除選舉結果陷入混亂的可能。富國銀行策略師表示，至少目前來看，交易員預計此次中期選舉將是一個“非事件”。摩根大通包括Dubravko Lakos-Bujas在內的策略師則認為，投資者應為這種局面發生變化做好準備。他們指出，儘管利率、燃料價格以及人工智慧帶來的衝擊等其他宏觀風險也在“籠罩市場”，隱含波動率仍處於低位。"
-    },
-    {
-      "id": "te:markets:588878",
-      "time": "2026-10-01 23:56:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Honeywell International Stock Price Hits 4-week High — Honeywell International shares increased to 213.65 USD, the highest since September 2026. Over the past 4 weeks, Honeywell International gained 3.49%, and in the last 12 months, it increased 1.07%."
-    },
-    {
-      "id": "5122975",
-      "time": "2026-10-01 23:55:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "彭博美元現貨指數上漲0.6%，創日內新高。"
-    },
-    {
-      "id": "te:markets:588876",
-      "time": "2026-10-01 23:55:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Plunges to Lowest in Over Three Months — The FTSE MIB plunged 2.2% to 50,238 on Thursday, its lowest level in three and a half months, weighed down by heavyweight financials and utilities. A global sell-off in government bonds pushed sovereign yields higher amid persistent inflation, fiscal concerns and resilient economic growth, while also strengthening expectations of higher-for-longer interest rates across major economies such as the EU and the US. Financials led the losses, with Banca Mediolanum, Mediobanca, UniCredit, FinecoBank and Intesa all falling more than 3.9%. MPS declined 3.7% following reports that CEO Lovaglio had sent a letter to Generali’s (-2.1%) board outlining “possible areas of industrial cooperation” as MPS pursues a takeover bid for Banca Generali. Utilities also declined as European natural gas prices extended gains for a second consecutive session, with Italgas leading losses in the sector at 2%. Luxury stocks also came under pressure, with Moncler falling 2.8% and Brunello Cucinelli declining 2.7%."
-    },
-    {
-      "id": "5122974",
-      "time": "2026-10-01 23:55:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國建築商股下跌，10年期美債收益率一度創2002年以來高位】美國建築商股下跌，因10年期美國國債收益率短暫突破2007年高點，加劇了市場對借貸成本已經居高不下的擔憂。標普1500建築指數（S15HOME）最多下跌2.6%，所有交易成分股全線下跌。\n領跌股：Dream Finders Home跌4.1%、Century Communities跌4.0%、M/I Homes跌2.9%、D.R. Horton跌3%、LGI Homes跌2.5%、KB Home跌2.5%、PulteGroup跌2.7%、NVR跌3%、Lennar跌3.0%、Installed Building Products跌2.7%。State Street SPDR 標普建築商ETF最多下跌2%。"
-    },
-    {
-      "id": "5122973",
-      "time": "2026-10-01 23:54:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們需要就現代戰爭開展客觀、專業的討論。"
     }
   ]
 }

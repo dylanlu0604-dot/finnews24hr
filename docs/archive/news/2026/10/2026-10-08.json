@@ -1,7 +1,64 @@
 {
   "date": "2026-10-08",
-  "count": 2042,
+  "count": 2049,
   "items": [
+    {
+      "id": "5132893",
+      "time": "2026-10-08 23:55:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：科曼奇1號反應堆功率從100%降至98%。"
+    },
+    {
+      "id": "5132892",
+      "time": "2026-10-08 23:55:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：德累斯頓3號反應堆功率從98%降至95%。"
+    },
+    {
+      "id": "5132891",
+      "time": "2026-10-08 23:55:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：哈奇2號反應堆功率從88%提高到95%。"
+    },
+    {
+      "id": "5132890",
+      "time": "2026-10-08 23:53:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "標普500能源板塊上漲3.1%，創8月10日以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:01a11c38-8310-7ee0-a7ff-d6f909b42677",
+      "time": "2026-10-08 23:53:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps commander Vahidi said no external power has the right to threaten or interfere with the Strait of Hormuz or the Persian Gulf."
+    },
+    {
+      "id": "5132889",
+      "time": "2026-10-08 23:52:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱再次襲擊沙特利雅得機場】葉門胡塞武裝8日稱，該組織當天第二次使用彈道導彈打擊沙烏地阿拉伯首都利雅得的哈立德國王國際機場，同時警告相關人員遠離被其認定為“打擊目標”的沙特石油設施。胡塞武裝軍事發言人葉海亞·薩雷亞當天在社交媒體發表宣告稱，該組織當天中午向哈立德國王國際機場發射一枚彈道導彈，導彈“成功命中目標”，造成設施受損及航空交通中斷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a11c37-2ece-7ee0-a7ff-ca75a29443c5",
+      "time": "2026-10-08 23:52:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU gas coordination group says LNG supplies will depend on temperatures and demand."
+    },
     {
       "id": "mkt:01a11c37-20a7-7ee0-a7ff-c026bac723d8",
       "time": "2026-10-08 23:52:17",
