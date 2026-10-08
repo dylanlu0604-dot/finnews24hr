@@ -1,7 +1,76 @@
 {
   "date": "2026-10-08",
-  "count": 655,
+  "count": 663,
   "items": [
+    {
+      "id": "mkt:01a1191f-313a-7ee0-a7e4-f447b682a0fd",
+      "time": "2026-10-08 09:27:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's Shanghai Composite opened down 3.22 points (-0.08%) at 3,838.98 on Oct. 8; Shenzhen Component opened up 8.83 points (+0.07%) at 12,896.45; CSI 300 Index opened down 2.69 points (-0.06%) at 4,354.93; ChiNext Index opened up 5.19 points (+0.17%) at 3,140.46; STAR 50 Index opened down 17.22 points (-1.13%) at 1,512.79."
+    },
+    {
+      "id": "5131004",
+      "time": "2026-10-08 09:26:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行將開展12000億元買斷式逆回購操作】為保持銀行體系流動性充裕，今天（8日），中國人民銀行將以固定數量、利率招標、多重價位中標方式開展12000億元買斷式逆回購操作，期限為3個月，共89天。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1191e-219c-7ee0-a7e4-eeef2ef8ee9f",
+      "time": "2026-10-08 09:26:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China A-share market opened: Shanghai Composite down 0.08%, Shenzhen Composite Index up 0.07%, ChiNext Index up 0.17%."
+    },
+    {
+      "id": "5131003",
+      "time": "2026-10-08 09:25:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤漲跌不一，上證指數跌0.08%，深證成指漲0.07%，創業板指漲0.17%。"
+    },
+    {
+      "id": "5131002",
+      "time": "2026-10-08 09:24:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報731.20元。"
+    },
+    {
+      "id": "5131001",
+      "time": "2026-10-08 09:24:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國際復材：目前公司不涉及電子布材料回收業務】國際復材(301526)10月8日在互動平臺表示，公司始終聚焦玻纖主業，堅持高階化、差異化產品策略，產品結構覆蓋中高階玻纖及製品，在電子布等高階產品領域持續佈局。目前公司不涉及電子布材料回收業務。"
+    },
+    {
+      "id": "5131000",
+      "time": "2026-10-08 09:24:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲4%，現報8517.00元。"
+    },
     {
       "id": "5130999",
       "time": "2026-10-08 09:23:25",
@@ -27,6 +96,15 @@
         "其他"
       ],
       "text": "央行逆回購今日淨回籠6,085億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610083889083418",
+      "time": "2026-10-08 09:22:44",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年10月8日7天期逆回購操作量為零。同時，開展了6060億元隔夜逆回購操作。"
     },
     {
       "id": "5130996",
