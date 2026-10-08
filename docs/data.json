@@ -1,7 +1,96 @@
 {
-  "updated": "2026-10-08 10:01:55",
-  "count": 9082,
+  "updated": "2026-10-08 10:05:42",
+  "count": 9087,
   "items": [
+    {
+      "id": "5131092",
+      "time": "2026-10-08 10:04:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本最大電力公司JERA及其合作伙伴簽署人工智慧在電力行業應用協議。"
+    },
+    {
+      "id": "5131091",
+      "time": "2026-10-08 10:03:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【環保股異動，楚環科技直線漲停】環保股異動，楚環科技直線漲停，嚴牌股份、青達環保、復潔科技、菲達環保、法爾勝跟漲。"
+    },
+    {
+      "id": "mkt:01a1193f-d4ce-7ee0-a7e6-1ddf4efd2497",
+      "time": "2026-10-08 10:02:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yangtze River Delta railway average daily National Day ridership exceeds 3.95 mln, up >5% YoY】China Railway Shanghai Group said the Yangtze River Delta rail network carried over 27.7 mln passengers during the Oct. 1–7, 2026 National Day holiday, averaging more than 3.95 mln passengers per day — about 1.36 mln higher than a year earlier, an increase of over 5%. Oct. 1 saw a single-day record of 4.427 mln passengers."
+    },
+    {
+      "id": "te:markets:590337",
+      "time": "2026-10-08 10:02:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Holds Firm on Hawkish FOMC Minutes — The dollar index held above 102 on Thursday, remaining near its strongest level since April 2025 as the latest FOMC minutes pointed to a hawkish stance among policymakers amid persistent inflation risks. Minutes from the Federal Reserve’s September meeting showed that all 19 policymakers supported the September rate hike, while most believed another increase would be appropriate by year-end. Markets broadly expect the Fed to keep policy unchanged this month, while the probability of a December hike currently stands at around 78%. Investors now await the latest weekly US jobless claims data for further insight into the health of the labor market. The greenback also continued to benefit from safe-haven demand as concerns over a potential escalation between the US and Iran, along with ongoing risks to oil flows from the Middle East, kept crude prices elevated and inflationary pressures high."
+    },
+    {
+      "id": "te:markets:590336",
+      "time": "2026-10-08 10:02:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Gain on Return From Golden Week — The Shanghai Composite rose 0.2% to 3,848 while the Shenzhen Component gained 0.6% to 12,960 on Thursday as investors returned from the week-long Golden Week holiday. Investors shrugged off broader Asian market uncertainty following an overnight Wall Street selloff driven by a sharp rise in US Treasury yields. Attention now turns to a series of key Chinese economic releases due next week, including inflation and trade data, for clues on whether Beijing's latest stimulus measures are gaining traction. The recently announced package, which included mortgage subsidies, expanded central bank funding support, and a State Council pledge to introduce \"a package of practical and effective additional policies,\" has so far failed to convince investors that it will be sufficient to revive domestic demand. Notable gainers included Sinopec (1.3%), China CSSC Holdings (2.7%), CATL (1.5%), and BYD (1.6%)."
+    },
+    {
+      "id": "mkt:01a1193e-fbff-7ee0-a7e6-16ecb398fc21",
+      "time": "2026-10-08 10:02:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "USDJPY"
+      ],
+      "text": "【Nomura: RESERVE BANK OF INDIA shift to 'orderly tightening' aimed at anchoring inflation expectations】Nomura analysts say the RESERVE BANK OF INDIA unexpectedly moved its policy stance from \"neutral\" to \"orderly tightening\" to anchor inflation expectations and build a buffer against adverse global conditions. Nomura expects one more 25bp hike in December then a pause, contrasting with market expectations of a longer tightening cycle. The bank raised its 2026/27 fiscal-year GDP and inflation forecasts to 7.1% and 5.2%, and lifted its one‑year‑ahead inflation forecast to 5.6%."
+    },
+    {
+      "id": "5131090",
+      "time": "2026-10-08 10:01:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正裕工業：柔性觸覺感測技術方向已完成核心產品技術攻關與樣品研發】正裕工業在10月8日召開的2026年半年度業績說明會上表示，公司積極佈局新賽道，構築業務發展新動能。在柔性觸覺感測技術方向，公司已完成核心產品技術攻關與樣品研發，核心演算法層面取得突破，觸覺訊號解析精度與響應速度顯著提升。以此為起點，公司將持續推動技術成果向實際場景的轉化落地，積極探索與工業機器人零部件、醫療康復、智慧穿戴等多元應用生態的協同融合。"
+    },
+    {
+      "id": "5131089",
+      "time": "2026-10-08 10:01:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長三角鐵路今年國慶假期日均傳送旅客超395萬人次，同比增幅超5%】10月8日，從中國鐵路上海局集團有限公司獲悉，剛剛過去的2026年國慶假期（10月1日至7日），長三角鐵路安全傳送旅客逾2770萬人次，日均傳送旅客超395萬人次，較去年同期多傳送旅客逾136萬人次，增幅超5%；其中，10月1日當天傳送旅客442.7萬人次，創歷年國慶假期單日客髮量新高。(澎湃新聞)"
+    },
+    {
+      "id": "mkt:01a1193e-a124-7ee0-a7e6-0bac5f33de66",
+      "time": "2026-10-08 10:01:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "STAR 50 Index extends losses to 2%; Ailisi and Yuanjie Technology hit daily limit down; Transsion Holdings drops more than 12%."
+    },
     {
       "id": "5131088",
       "time": "2026-10-08 10:01:12",
@@ -83558,38 +83647,6 @@
         "國際"
       ],
       "text": "韓國將允許分析師匿名釋出賣出建議的研究報告。"
-    },
-    {
-      "id": "5121957",
-      "time": "2026-10-01 10:04:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士：尚未就Solidigm做出決定；長期股東價值是關鍵。"
-    },
-    {
-      "id": "5121956",
-      "time": "2026-10-01 10:04:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【三峽樞紐2026年前三季度透過量達1.2億噸】據長江三峽通航管理局統計資料，2026年前三季度，三峽樞紐累計透過量達1.2億噸，共保障49.9萬人次旅客、3449.2萬噸民生物資、2368.9萬噸重點物資安全過壩，持續為長江黃金水道效益發揮和沿江地方經濟發展注入強勁動力。"
-    },
-    {
-      "id": "5121955",
-      "time": "2026-10-01 10:04:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本航空與日本通運建立亞洲及北美運輸合作伙伴關係。"
-    },
-    {
-      "id": "5121954",
-      "time": "2026-10-01 10:03:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "理想汽車： 2026年9月交付31,817輛汽車；截至 2026 年 9 月 30 日，歷史累計交付量為 1,833,651 輛。"
     }
   ]
 }
