@@ -1,7 +1,87 @@
 {
   "date": "2026-10-08",
-  "count": 756,
+  "count": 764,
   "items": [
+    {
+      "id": "5131073",
+      "time": "2026-10-08 09:53:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量1002億元。"
+    },
+    {
+      "id": "5131072",
+      "time": "2026-10-08 09:53:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲7%，現報6708.00元。"
+    },
+    {
+      "id": "mkt:01a11936-663c-7ee0-a7e5-d75f61c3a0bc",
+      "time": "2026-10-08 09:52:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Low-sulfur fuel oil (LU) most-active contract extended gains to 10.00%, trading at 6,004 yuan/ton."
+    },
+    {
+      "id": "5131071",
+      "time": "2026-10-08 09:52:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲10%，現報5729.00元。"
+    },
+    {
+      "id": "mkt:01a11935-35e8-7ee0-a7e5-cec228fa11d2",
+      "time": "2026-10-08 09:51:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Mainland A-share oil and gas stocks ticked higher; Bomaike hit the daily up-limit, while Tongyuan Petroleum, Shouhua Gas, Lanyan Holdings, Keli and Zhongman Petroleum also advanced."
+    },
+    {
+      "id": "5131070",
+      "time": "2026-10-08 09:50:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股醫藥股走低 百奧賽圖跌超5%】截至發稿，百奧賽圖-B(02315.HK)跌5.27%，歌禮制藥-B(01672.HK)跌4.85%，基石藥業-B(02616.HK)跌4.41%，和珀醫藥-B(02142.HK)跌4.37%。"
+    },
+    {
+      "id": "5131069",
+      "time": "2026-10-08 09:50:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲15%，現報5033.00元。"
+    },
+    {
+      "id": "5131068",
+      "time": "2026-10-08 09:50:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬集團Robotaxi正式定名小鵬悠遊】小鵬集團 Robotaxi 正式定名—— 小鵬悠遊，XPENG YOYO 中文名 “小鵬悠遊”，是悠然於心、暢遊於行的出行體驗。 英文名 “XPENG YOYO”，全世界都輕鬆好讀，是 Ta 走向世界的第一步。"
+    },
     {
       "id": "te:economy:590334",
       "time": "2026-10-08 09:49:54",
