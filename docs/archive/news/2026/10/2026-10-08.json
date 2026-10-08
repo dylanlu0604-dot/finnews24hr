@@ -1,7 +1,129 @@
 {
   "date": "2026-10-08",
-  "count": 1252,
+  "count": 1265,
   "items": [
+    {
+      "id": "mkt:01a11a76-6c0a-7ee0-a7ee-ced2d789a6c4",
+      "time": "2026-10-08 15:42:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ING: Fed hawkish signals persist; dollar supported by multiple factors】ING analyst Chris Turner says the Fed's September minutes indicate policymakers still expect another rate hike this year, supporting the dollar. Money markets have priced a 25bp December hike and further tightening into 2027; ING calls those expectations overly aggressive but says a near-term material repricing is unlikely. A strong US 10-year Treasury auction overnight — high bid-cover ratio and robust indirect demand — signals persistent demand for Treasuries at elevated yields, adding to dollar support. Elevated US yields and rising market volatility have driven arbitrage outflows, weighing on most Latin American currencies. ING expects the dollar to remain on an appreciating trend over the coming months, given recent developments in Europe."
+    },
+    {
+      "id": "5131675",
+      "time": "2026-10-08 15:41:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多哥部長會議主席福雷將訪華 外交部介紹有關情況】10月8日，外交部發言人毛寧主持例行記者會。有記者問：中方釋出了多哥部長會議主席福雷訪華的訊息，請問能否介紹此訪安排和中方期待？毛寧介紹，福雷主席是中國的老朋友，這是他執政以來第七次正式來華，充分體現了多哥對發展兩國關係的高度重視。中國和多哥是全面戰略伙伴。建交54年來，兩國傳統友誼歷久彌堅，雙方在涉及彼此核心利益和重大關切問題上堅定相互支援，各領域交流合作取得豐碩成果，樹立了大小國家平等相待、全球南方團結合作的典範。相信此訪將推動中國和多哥的關係邁上新臺階，為構建新時代全天候中非命運共同體作出積極貢獻。（央視新聞）"
+    },
+    {
+      "id": "5131674",
+      "time": "2026-10-08 15:40:57",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【希臘擬立法對加密貨幣徵收10%資本利得稅】根據週四公佈並徵求公眾意見的一項法案草案，希臘正準備立法對加密貨幣徵收10%的資本利得稅。該法案定於11月提交希臘議會審議，對每年不超過500歐元的加密貨幣資本利得將免徵這項新稅。希臘官員表示，很難估算希臘加密貨幣市場的規模，因為絕大多數投資者使用的是境外平臺。目前，針對這項新稅帶來的國家財政收入，尚無具體的預測資料。"
+    },
+    {
+      "id": "5131673",
+      "time": "2026-10-08 15:40:44",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "當地時間8日上午，沙烏地阿拉伯首都利雅得多次傳出爆炸聲。（新華社）"
+    },
+    {
+      "id": "mkt:01a11a74-fe6f-7ee0-a7ee-c1e233bdef14",
+      "time": "2026-10-08 15:40:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Multiple explosions heard in Riyadh, Saudi Arabia, state media reports."
+    },
+    {
+      "id": "mkt:01a11a74-ba15-7ee0-a7ee-b9da8c55fc11",
+      "time": "2026-10-08 15:40:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【When will the first US-China AI dialogue meeting be held? China's Foreign Ministry responds】Asked when the first meeting of the newly agreed US-China AI dialogue mechanism will take place and whether senior officials will attend, China's Foreign Ministry said timing and participant details should be sought from the Chinese authority responsible."
+    },
+    {
+      "id": "5131671",
+      "time": "2026-10-08 15:40:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度：以民用基礎設施為（襲擊）目標完全不可接受。"
+    },
+    {
+      "id": "5131670",
+      "time": "2026-10-08 15:39:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【大秦鐵路：2026年9月大秦線貨物運輸量3138萬噸，同比下降5.05%】大秦鐵路公告，2026年9月大秦線完成貨物運輸量3138萬噸，同比下降5.05%；日均運量104.6萬噸，日均開行重車84.1列，其中日均開行2萬噸列車48.2列。2026年1-9月，大秦線累計完成貨物運輸量2.98億噸，同比增長4.10%。"
+    },
+    {
+      "id": "5131669",
+      "time": "2026-10-08 15:39:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：就利雅得機場遇襲事件發表宣告。"
+    },
+    {
+      "id": "5131668",
+      "time": "2026-10-08 15:39:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇通客車：2026年9月銷量4158輛，同比下降12.57%】宇通客車公告，2026年9月產量4149輛，同比下降6.70%；銷量4158輛，同比下降12.57%。2026年年內累計產量31724輛，同比下降6.35%；累計銷量30929輛，同比下降7.83%。"
+    },
+    {
+      "id": "mkt:01a11a73-8398-7ee0-a7ee-b35d50bc60f9",
+      "time": "2026-10-08 15:39:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Brokerages' 1H sci‑tech financing 540 bln yuan; cumulative co‑investment near 40 bln yuan】China Securities Association data show the securities industry helped sci‑tech firms raise over 540 bln yuan in 1H via IPOs, sci‑tech innovation bonds and other instruments. Fifty‑six firms listed on the STAR Market, ChiNext and the Beijing Stock Exchange, raising 41.67 bln yuan. Brokerages underwrote or managed 553 sci‑tech innovation bonds/ABS totaling 500.08 bln yuan. As strategic investors, brokerages and their alternative subsidiaries participated in IPO follow‑on investments of 860 mln yuan in 1H, with cumulative follow‑on investment near 40 bln yuan, using primarily proprietary capital. As of end‑June, brokerage private‑fund product assets under management stood at 693.69 bln yuan, up 7.88% from last year‑end, directing social capital toward growth sectors."
+    },
+    {
+      "id": "5131667",
+      "time": "2026-10-08 15:38:46",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗策略師：科技股將推動美國企業盈利超預期】花旗策略師表示，受科技股帶動，預計美國第三季度盈利超預期的企業佔比將高於第二季度。由理查德·施拉特與戴維·周領銜的團隊稱，其模型預測羅素1000成分股中有66.2%盈利超出預期，而第二季度該比例為60.9%。科技板塊或是最大貢獻板塊，超預期比例超過88%；其次是醫療保健板塊（76%）與工業板塊（74%）。策略師認為盈利利好將集中在大盤股。分析師預計，受能源與科技板塊上調盈利預期推動，標普500指數成分股第三季度盈利同比增幅約30%。"
+    },
+    {
+      "id": "5131666",
+      "time": "2026-10-08 15:38:32",
+      "tags": [
+        "行業",
+        "焦點",
+        "國際"
+      ],
+      "text": "【中美人工智慧對話機制首次會議將何時舉行？外交部回應】10月8日，外交部發言人毛寧主持例行記者會。 彭博社記者提問，中美雙方同意成立中美人工智慧對話機制後，首次會議將在什麼時候舉行？兩國的高階別官員是否會參加？ 毛寧表示，這個問題建議你向中方的主管部門瞭解。 （北京日報）"
+    },
     {
       "id": "mkt:01a11a72-8bd3-7ee0-a7ee-a986008b4f9b",
       "time": "2026-10-08 15:37:56",
