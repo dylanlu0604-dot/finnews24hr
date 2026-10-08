@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-09 04:49:39",
+  "updated": "2026-10-09 04:53:30",
   "count": 9131,
   "items": [
+    {
+      "id": "5133202",
+      "time": "2026-10-09 04:52:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "Pioneer Acquisition I Corp與Green AI Cloud達成業務合併協議，後者是歐洲一家清潔能源超級計算AI平臺。"
+    },
+    {
+      "id": "te:markets:590611",
+      "time": "2026-10-09 04:52:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Gains Ahead of Election Runoff Poll — The Ibovespa rose 0.9% to close at 206,220 on Thursday ahead of the first Datafolha poll for the presidential runoff, due shortly after the close. A PoderData/Aya poll showed Senator Flávio Bolsonaro with 53% of valid votes, against 47% for incumbent Lula. In Sunday’s first-round election, Bolsonaro finished ahead of Lula, contrary to most polls, pushing the index to an all-time high on Monday, led by financial stocks. Markets view the senator as more fiscally restrictive amid elevated domestic yields and weak business activity. His economic team is considering spending cuts equivalent to around 2% of GDP. Financials traded mixed, with B3 gaining 2% and Bradesco falling 1.3%. Petrobras followed the sharp rise in international oil prices, gaining 2.1%. Retail stocks also supported the index, with Magazine Luiza jumping 5.6%. Meanwhile, Vale extended its losing streak to four sessions, falling 1.6% as iron ore prices hit an 18-month low in China."
+    },
+    {
+      "id": "5133201",
+      "time": "2026-10-09 04:51:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【霍爾木茲海峽南部航線發生數起猛烈爆炸】未具名軍方訊息人士稱，週四晚間，霍爾木茲海峽內發生數起“猛烈爆炸”，原因是“違規油輪”試圖沿南部航線航行時觸雷。訊息源沒有透露涉事船隻的身份，也沒有提供有關人員傷亡和損失情況的細節。"
+    },
     {
       "id": "mkt:01a11d43-eb51-7ee0-a805-7c62c640ce8c",
       "time": "2026-10-09 04:45:52",
@@ -83692,31 +83720,6 @@
         "WTI"
       ],
       "text": "【Putin: Russia may use \"all weapons\" if Kaliningrad attacked】President Putin said if Russian territory, including the Baltic exclave Kaliningrad, were directly attacked, Moscow would consider using \"all weapons the state possesses.\" He said recent warnings from the foreign ministry were not intended as intimidation but as a response to Western pressure. The foreign ministry had earlier warned that attempts by Western states to isolate Kaliningrad could prompt Russia to deploy its entire weapons arsenal in defence. NATO called the remarks \"irresponsible nuclear rhetoric,\" saying they were unacceptable and reaffirming it will continue to defend allied territory."
-    },
-    {
-      "id": "5123358",
-      "time": "2026-10-02 04:51:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：獵鷹9號運載火箭發射第18次“運輸者”（Transporter）拼車任務，將130個有效載荷送入軌道。"
-    },
-    {
-      "id": "mkt:01a0f93c-d8b3-7ee0-a77f-22464fcc241e",
-      "time": "2026-10-02 04:51:49",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "SpaceX (SPCX.O) launched a Falcon 9 on its 18th Transporter rideshare mission, deploying 130 payloads to orbit."
-    },
-    {
-      "id": "mkt:01a0f93b-e306-7ee0-a77f-1e7c9d2cd135",
-      "time": "2026-10-02 04:50:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy says Ukraine's FP-7 tactical ballistic missile used in combat, to enter mass production】On the evening of the 1st, Ukrainian President Zelenskiy said on social media the FP-7 tactical ballistic missile, produced by private defence firm \"Randian\", completed its first combat use and will enter mass production. The manufacturer's website lists a 200 kg payload, a maximum range of 250 km and land-based launch capability. A Freya air-defence system based on FP-7 technology is reportedly under development."
     }
   ]
 }

@@ -1,7 +1,35 @@
 {
   "date": "2026-10-09",
-  "count": 381,
+  "count": 384,
   "items": [
+    {
+      "id": "5133202",
+      "time": "2026-10-09 04:52:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "Pioneer Acquisition I Corp與Green AI Cloud達成業務合併協議，後者是歐洲一家清潔能源超級計算AI平臺。"
+    },
+    {
+      "id": "te:markets:590611",
+      "time": "2026-10-09 04:52:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Gains Ahead of Election Runoff Poll — The Ibovespa rose 0.9% to close at 206,220 on Thursday ahead of the first Datafolha poll for the presidential runoff, due shortly after the close. A PoderData/Aya poll showed Senator Flávio Bolsonaro with 53% of valid votes, against 47% for incumbent Lula. In Sunday’s first-round election, Bolsonaro finished ahead of Lula, contrary to most polls, pushing the index to an all-time high on Monday, led by financial stocks. Markets view the senator as more fiscally restrictive amid elevated domestic yields and weak business activity. His economic team is considering spending cuts equivalent to around 2% of GDP. Financials traded mixed, with B3 gaining 2% and Bradesco falling 1.3%. Petrobras followed the sharp rise in international oil prices, gaining 2.1%. Retail stocks also supported the index, with Magazine Luiza jumping 5.6%. Meanwhile, Vale extended its losing streak to four sessions, falling 1.6% as iron ore prices hit an 18-month low in China."
+    },
+    {
+      "id": "5133201",
+      "time": "2026-10-09 04:51:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【霍爾木茲海峽南部航線發生數起猛烈爆炸】未具名軍方訊息人士稱，週四晚間，霍爾木茲海峽內發生數起“猛烈爆炸”，原因是“違規油輪”試圖沿南部航線航行時觸雷。訊息源沒有透露涉事船隻的身份，也沒有提供有關人員傷亡和損失情況的細節。"
+    },
     {
       "id": "mkt:01a11d43-eb51-7ee0-a805-7c62c640ce8c",
       "time": "2026-10-09 04:45:52",
