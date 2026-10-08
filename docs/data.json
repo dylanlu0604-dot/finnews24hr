@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-09 05:23:58",
-  "count": 9126,
+  "updated": "2026-10-09 05:27:49",
+  "count": 9122,
   "items": [
+    {
+      "id": "5133216",
+      "time": "2026-10-09 05:25:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "Pilot Corp.與特斯拉在美國佐治亞州成立第一個超級充電中心（MegaCharger）。"
+    },
     {
       "id": "5133215",
       "time": "2026-10-09 05:20:34",
@@ -83659,51 +83667,6 @@
         "其他"
       ],
       "text": "耐克高管：PACE計劃的大部分節省將在2029財年和2030財年實現。預計供應鏈行動對收入所構成的壓力將持續至2028年。"
-    },
-    {
-      "id": "5123384",
-      "time": "2026-10-02 05:27:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客在獲得監管批准後，完成對 Quarkslab 的收購。"
-    },
-    {
-      "id": "5123383",
-      "time": "2026-10-02 05:27:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "耐克高管表示：耐克本季度業績業務增幅為中高個位數，得益於世界盃帶動需求。"
-    },
-    {
-      "id": "mkt:01a0f95b-c470-7ee0-a77f-5f44a83dce3e",
-      "time": "2026-10-02 05:25:35",
-      "tags": [
-        "MKT News",
-        "TWLO.O",
-        "Impact bullish",
-        "WBD.O",
-        "Impact bearish",
-        "VYLOR.O"
-      ],
-      "text": "S&P Dow Jones Indices said Twilio, a constituent of the S&P MidCap 400, will replace Warner Bros. Discovery (WBD.O) and be added to the S&P 500. Vylor has also been added to the S&P 500."
-    },
-    {
-      "id": "5123382",
-      "time": "2026-10-02 05:25:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI新興市場股票指數漲0.2%，發展中國家外匯指數跌0.3%。"
-    },
-    {
-      "id": "5123381",
-      "time": "2026-10-02 05:24:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列總統赫爾佐格週四稱美國總統特朗普是以色列的“頭號朋友”。"
     }
   ]
 }
