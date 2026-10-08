@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-09 04:26:43",
-  "count": 9129,
+  "updated": "2026-10-09 04:30:33",
+  "count": 9124,
   "items": [
+    {
+      "id": "5133176",
+      "time": "2026-10-09 04:29:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國電信運營商股價盤後下跌超過5%，此前SpaceX宣佈購買頻譜。"
+    },
+    {
+      "id": "5133175",
+      "time": "2026-10-09 04:28:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲穆薩萊姆：未來6至9個月內可能需要進一步加息】美國聖路易斯聯儲主席穆薩萊姆表示，美聯儲需要再次加息，以推動通脹回到2%的目標水平。他稱，為了在“及時”期限內實現通脹目標，貨幣政策需要進一步收緊。穆薩萊姆表示，如果“及時”意味著大約18個月，那麼未來6至9個月內利率可能需要在適當時間進一步上調。他稱，當前通脹仍是美國經濟面臨的主要問題，但經濟增長強勁、就業市場保持穩定，美聯儲可能在不明顯損害就業的情況下壓低通脹。在被問及10月27日至28日議息會議是否應加息時，穆薩萊姆表示自己保持開放態度，尚未預判會議結果，但通脹形勢要求政策制定者繼續考慮進一步收緊政策。穆薩萊姆表示，儘管美債收益率明顯上升，但金融環境仍然寬鬆，並支援經濟增長。他稱，收益率上升並非意味著投資者失去對美聯儲的信心，而是反映市場預計實際利率將上升，以及強勁經濟環境下資本競爭加劇。"
+    },
     {
       "id": "5133174",
       "time": "2026-10-09 04:25:59",
@@ -83631,71 +83649,6 @@
         "國際"
       ],
       "text": "美國至9月25日當週外國央行持有美國國債 -151.01億美元，前值-113.7億美元。"
-    },
-    {
-      "id": "mkt:01a0f929-4c0a-7ee0-a77e-e83b779d6f1f",
-      "time": "2026-10-02 04:30:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (Sep.25) | actual -15101000000B | previous -11370000000B"
-    },
-    {
-      "id": "5123332",
-      "time": "2026-10-02 04:30:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社英文賬號表示，彭博社有關伊朗向美國遞交核提議的報道 “完全不實”。"
-    },
-    {
-      "id": "mkt:01a0f928-eeb5-7ee0-a77e-e79db8b60bd0",
-      "time": "2026-10-02 04:30:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Iran did not load crude onto tankers in September, and the Trump administration is cutting off the Iranian regime's main revenue sources."
-    },
-    {
-      "id": "5123331",
-      "time": "2026-10-02 04:28:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗 9 月沒有向油輪裝載任何原油。特朗普政府正在切斷伊朗政權最核心的收入來源。"
-    },
-    {
-      "id": "mkt:01a0f927-364a-7ee0-a77e-da76c872a6b5",
-      "time": "2026-10-02 04:28:11",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Saba, the Houthi-controlled news agency, reports Saudi strikes also targeted Yemen's Saada, Taiz and Amran."
-    },
-    {
-      "id": "5123329",
-      "time": "2026-10-02 04:27:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門胡塞武裝運營的通訊社稱，沙特的襲擊目標為葉門首都薩那。沙特的襲擊還針對了葉門的薩達、塔伊茲和阿姆蘭。"
-    },
-    {
-      "id": "mkt:01a0f926-24f9-7ee0-a77e-d3ad991aaa2f",
-      "time": "2026-10-02 04:27:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Houthi forces said a Saudi attack targeted Yemen's capital Sanaa."
     }
   ]
 }
