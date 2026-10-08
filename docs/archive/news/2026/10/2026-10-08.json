@@ -1,7 +1,219 @@
 {
   "date": "2026-10-08",
-  "count": 1358,
+  "count": 1379,
   "items": [
+    {
+      "id": "te:markets:590480",
+      "time": "2026-10-08 16:05:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore CNY Falls by 2.63% — Top commodity losers are Iron Ore CNY (-2.63%), Steel Rebar (-1.48%) and Silver (-1.27%). Gains are led by Lithium Carbonate (1.75%), Platinum (0.70%) and Gold (0.38%)."
+    },
+    {
+      "id": "5131746",
+      "time": "2026-10-08 16:04:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【年內公募545億元參與定增 同比增長118.43%】2026年以來，公募定增熱情高漲。公募排排網資料顯示，截至2026年10月7日，今年以來共有29家公募機構參與到21個申萬一級行業中的105只A股定增，合計獲配金額達545.06億元，較去年同期的249.54億元相比，增幅高達118.43%。"
+    },
+    {
+      "id": "mkt:01a11a8b-0afd-7ee0-a7ef-fa314b77ba49",
+      "time": "2026-10-08 16:04:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Vietnam National Assembly chairman to visit China】At the invitation of Zhao Leji, chairman of the National People’s Congress Standing Committee, Vietnam National Assembly Chairman Tran Thanh Man will lead a delegation to China from Oct 11-15 to attend the second meeting of the China‑Vietnam Joint Committee of Legislative Bodies."
+    },
+    {
+      "id": "5131745",
+      "time": "2026-10-08 16:04:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "一汽、豐田與廣汽簽署戰略聯盟框架協議，開啟合資合作新篇章。"
+    },
+    {
+      "id": "mkt:01a11a8a-d7bf-7ee0-a7ef-f5cb4fe6cf6a",
+      "time": "2026-10-08 16:04:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "【20% limit-down; Yuanjie Technology says operations normal】Oct 8 — China's A-share optical‑chip sector weakened, with multiple stocks plunging. Changguang Huaxin and Yuanjie Technology hit 20% limit-downs, Dongshan Precision hit a 10% limit-down and Sijia Photonics fell over 17%. Market concern followed an overseas report suggesting potential restrictions on optical chips; market sources said implementation is highly uncertain and likely containable. Morgan Stanley's Oct. 1 note drew solely on exchanges between its strategy team and a Washington legal team and repeatedly used hypothetical language (potential, likely, could); it contained no FCC rule text, no proposal discussion record and no official release, and should be treated as a policy conjecture. Yuanjie said recent stock volatility was driven by the Morgan Stanley report, that the sector decline was not company-specific, it would not comment on the report, and that production and operations are normal."
+    },
+    {
+      "id": "5131744",
+      "time": "2026-10-08 16:04:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒稱德國總統計劃訪華，外交部：目前沒有可以提供的資訊】外交部發言人毛寧主持例行記者會。有報道稱，德國總統計劃在未來幾周訪華，中方可否證實有關安排？毛寧表示，這個問題我目前沒有可以提供的資訊。（北京日報）"
+    },
+    {
+      "id": "mkt:01a11a8a-4fe2-7ee0-a7ef-ecbb4b9f0612",
+      "time": "2026-10-08 16:03:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Sources: US, Russia discussed Nord Stream investor participation during Ukraine war】Five people familiar with the matter said senior US and Russian officials held talks during the Ukraine war about bringing US investors into the Nord Stream gas pipeline, which supplied gas to Germany before the conflict. Participants included Dmitriev, an adviser to President Putin, and Kushner. Kushner, who has worked to broker a ceasefire, said commercial cooperation is key to restoring peace and would allow US investors to profit from gas flows to Europe once the war ends."
+    },
+    {
+      "id": "mkt:01a11a8a-40c7-7ee0-a7ef-e6023d3c4310",
+      "time": "2026-10-08 16:03:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reports: German president to visit China in coming weeks; Chinese foreign ministry says it has no information】Foreign reports say the German president plans a visit to China in the coming weeks. The Chinese foreign ministry said it currently has no information to provide on the reported arrangements."
+    },
+    {
+      "id": "5131743",
+      "time": "2026-10-08 16:03:43",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "焦點"
+      ],
+      "text": "【“20cm”跌停，源傑科技回應：經營正常】10月8日，A股光晶片概念板塊走弱，多隻個股大幅下挫。截至收盤，長光華芯、源傑科技20%幅度跌停，東山精密10%幅度跌停，仕佳光子跌逾17%。近期，境外一則光晶片相關限制令的訊息迅速引起市場關注。多位業內人士分析認為，相關限制落地具有極強不確定性，影響相對可控。從資訊來源看，摩根士丹利10月1日報告的全部資訊來源，是其策略團隊與一支華盛頓法律團隊的交流——報告通篇使用的是potential、likely、could（“潛在”“可能”“或將”）這類推演性措辭，既無FCC任何正式規則文字，也無提案討論記錄，更無官方釋出。換言之，整份報告是一個政策猜想。對於股價大幅下跌，源傑科技表示，近期光晶片企業股價波動受摩根士丹利報告影響，行業整體下跌並非公司個例，公司對該報告不予置評。從公司層面看，目前生產經營正常，各項業務正常開展。（上海證券報）"
+    },
+    {
+      "id": "5131742",
+      "time": "2026-10-08 16:03:08",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【越南國會主席將訪華】應全國人大常委會委員長趙樂際邀請，越南國會主席陳青敏將於10月11日至15日率團訪華並出席中越立法機構聯合委員會第二次會議。（新華社）"
+    },
+    {
+      "id": "mkt:01a11a89-7a0e-7ee0-a7ef-dc9ac943d43c",
+      "time": "2026-10-08 16:02:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France's CAC 40 fell as much as 1.00% intraday."
+    },
+    {
+      "id": "5131741",
+      "time": "2026-10-08 16:02:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙特股市基準指數下跌1%。"
+    },
+    {
+      "id": "mkt:01a11a88-ed2b-7ee0-a7ef-d271336cad53",
+      "time": "2026-10-08 16:02:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Saudi benchmark stock index fell 1%."
+    },
+    {
+      "id": "mkt:01a11a88-e5b5-7ee0-a7ef-c88c4e9eb7d1",
+      "time": "2026-10-08 16:02:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China says it opposes hacking and political disinformation, says unaware of report linking cyberattack to Chinese AI】A cybersecurity firm recently reported an unverified actor attacked South Korean financial institutions, allegedly using Chinese-developed AI tools and Chinese-language commands and possibly operating from Guangdong. China’s Foreign Ministry spokesperson Mao Ning said she was not aware of the specifics. She reiterated that China opposes and, under law, combats hacking and rejects politically motivated disinformation, and said AI profoundly affects cybersecurity; she called for stronger international cooperation and new global rules to safeguard cyberspace."
+    },
+    {
+      "id": "5131740",
+      "time": "2026-10-08 16:02:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：小馬智行-W持續擴張Robotaxi車隊 維持“買入”評級】高盛釋出研報稱，小馬智行-W(02026)持續在中國及海外市場擴張其Robotaxi車隊，並維持今年底規模達3,500輛的目標;該行維持小馬智行“買入”評級。該行指出，小馬智行近期已在多哈開展Robotaxi商業營運，目標邁向全無人駕駛營運，並在克羅埃西亞首都薩格勒布進行全無人駕駛Robotaxi試乘。憑藉大規模量產能力、自動駕駛技術商業化及累積經驗，高盛認為小馬智行的業務已從中國主要一線城市擴充套件至更廣泛地區。小馬智行上月與廣汽商用車合作，基於廣汽T9純電動重卡平臺推出第四代Robotruck，高盛認為新一代Robotruck的自動駕駛套件(ADK)物料成本較上一代降低70%，有助降低每公里運輸成本，對該較高價效比新平臺支援Robotruck商業化持正面看法。"
+    },
+    {
+      "id": "5131739",
+      "time": "2026-10-08 16:02:14",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "wolfspeed股價盤前上漲17.9%，此前該公司獲得美國國防部15億美元有條件貸款承諾。"
+    },
+    {
+      "id": "mkt:01a11a88-b0d3-7ee0-a7ef-c7e5c71486fc",
+      "time": "2026-10-08 16:02:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "DXY"
+      ],
+      "text": "ECB policymaker Dolenc said amid rising yields and widening spreads, monetary policy is transmitting relatively evenly across the broader financial environment."
+    },
+    {
+      "id": "mkt:01a11a88-97c2-7ee0-a7ef-becf0467db22",
+      "time": "2026-10-08 16:02:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB governing council member dolenc said more-stable core indicators offer some reassurance and suggest broader price pressures are under control."
+    },
+    {
+      "id": "mkt:01a11a88-739a-7ee0-a7ef-b74fc888f0a6",
+      "time": "2026-10-08 16:01:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member dolenc said the timing and size of any action will be decided on a meeting-by-meeting basis."
+    },
+    {
+      "id": "mkt:01a11a88-42c1-7ee0-a7ef-aeaad2bb7821",
+      "time": "2026-10-08 16:01:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude hit $103/bbl for the first time since Sept. 16, up 3.22% intraday."
+    },
+    {
+      "id": "5131738",
+      "time": "2026-10-08 16:01:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500迷你股指期貨下跌0.37%，納斯達克100股指期貨下跌0.57%，道瓊斯股指期貨下跌0.69%。"
+    },
     {
       "id": "5131737",
       "time": "2026-10-08 16:01:27",
