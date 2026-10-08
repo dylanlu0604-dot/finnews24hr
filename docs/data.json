@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-08 23:12:55",
-  "count": 9178,
+  "updated": "2026-10-08 23:16:53",
+  "count": 9180,
   "items": [
+    {
+      "id": "mkt:01a11c15-cfae-7ee0-a7fe-bccf67a351e7",
+      "time": "2026-10-08 23:15:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the New York Times, Middle Eastern funds will hold majority ownership of U.S.-Russia oil transactions."
+    },
+    {
+      "id": "5132837",
+      "time": "2026-10-08 23:15:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美俄石油交易的大部分所有權將歸屬中東基金。"
+    },
+    {
+      "id": "mkt:01a11c14-dcd1-7ee0-a7fe-b012d262b122",
+      "time": "2026-10-08 23:14:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Copper",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Indonesia president presides over launch of Chinese-funded downstream mining projects】President Prabowo on the 8th presided over ground‑breaking for 11 Chinese‑funded downstream mining projects at Weda Bay Industrial Park, Central Halmahera, North Maluku. Total investment is about $10.2 bln; projects cover power batteries, nickel‑cobalt materials, electrolytic aluminum, new‑energy construction machinery and commercial vehicle manufacturing."
+    },
+    {
+      "id": "5132836",
+      "time": "2026-10-08 23:14:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會預算辦公室（CBO）主任斯瓦格爾：認為財政政策走向會對利率構成壓力。"
+    },
+    {
+      "id": "mkt:01a11c13-f8d2-7ee0-a7fe-ad9cd47eb5fc",
+      "time": "2026-10-08 23:13:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "CBO director said he believes the fiscal trajectory will put upward pressure on interest rates."
+    },
+    {
+      "id": "mkt:01a11c13-9f6c-7ee0-a7fe-a63e7ec98beb",
+      "time": "2026-10-08 23:13:30",
+      "tags": [
+        "MKT News",
+        "US10Y"
+      ],
+      "text": "U.S. Congressional Budget Office director said he believes debt concerns have a relatively small impact on yields."
+    },
+    {
+      "id": "5132835",
+      "time": "2026-10-08 23:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國共和黨參議員敦促特朗普政府打擊卡痛（含類阿片活性成分）。"
+    },
     {
       "id": "5132834",
       "time": "2026-10-08 23:12:04",
@@ -84299,52 +84365,6 @@
         "國際"
       ],
       "text": "俄羅斯總統普京：技術可能引發全球性毀滅。"
-    },
-    {
-      "id": "te:markets:588854",
-      "time": "2026-10-01 23:15:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Yield Rises Amid Global Bond Selloff — Brazil’s 10-year government bond yield rose above 14.15% in October amid external pressure from a global bond selloff ahead of the first round of the presidential election. Renewed selling in US Treasuries fueled a broader global bond rout, while higher oil prices added to inflation concerns and reinforced expectations of further interest-rate hikes by central banks, keeping government bonds under pressure worldwide. Meanwhile, final presidential election polls and a debate in the days ahead of the first round will mark the end of the campaign. Recent polls have reinforced expectations of a tight presidential race. On the data front, Brazil’s manufacturing sector posted its sharpest deterioration in operating conditions since April 2023, according to S&P Global PMI data. Recent labor market data remained consistent with gradual cooling and expectations for GDP to be near flat in 3Q26, despite strong payrolls, keeping expectations for continued Selic easing intact."
-    },
-    {
-      "id": "5122936",
-      "time": "2026-10-01 23:14:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：世界正處於發展的轉折點。"
-    },
-    {
-      "id": "5122935",
-      "time": "2026-10-01 23:14:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們必須思考如何避免出現災難性局面。"
-    },
-    {
-      "id": "5122934",
-      "time": "2026-10-01 23:14:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們現在必須思考如何維護全球安全。"
-    },
-    {
-      "id": "5122933",
-      "time": "2026-10-01 23:14:12",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率短暫觸及一週低位，下跌 6.03 個基點，報 4.827%。"
     }
   ]
 }

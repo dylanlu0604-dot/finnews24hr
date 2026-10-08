@@ -1,7 +1,73 @@
 {
   "date": "2026-10-08",
-  "count": 1949,
+  "count": 1956,
   "items": [
+    {
+      "id": "mkt:01a11c15-cfae-7ee0-a7fe-bccf67a351e7",
+      "time": "2026-10-08 23:15:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the New York Times, Middle Eastern funds will hold majority ownership of U.S.-Russia oil transactions."
+    },
+    {
+      "id": "5132837",
+      "time": "2026-10-08 23:15:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美俄石油交易的大部分所有權將歸屬中東基金。"
+    },
+    {
+      "id": "mkt:01a11c14-dcd1-7ee0-a7fe-b012d262b122",
+      "time": "2026-10-08 23:14:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Copper",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Indonesia president presides over launch of Chinese-funded downstream mining projects】President Prabowo on the 8th presided over ground‑breaking for 11 Chinese‑funded downstream mining projects at Weda Bay Industrial Park, Central Halmahera, North Maluku. Total investment is about $10.2 bln; projects cover power batteries, nickel‑cobalt materials, electrolytic aluminum, new‑energy construction machinery and commercial vehicle manufacturing."
+    },
+    {
+      "id": "5132836",
+      "time": "2026-10-08 23:14:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會預算辦公室（CBO）主任斯瓦格爾：認為財政政策走向會對利率構成壓力。"
+    },
+    {
+      "id": "mkt:01a11c13-f8d2-7ee0-a7fe-ad9cd47eb5fc",
+      "time": "2026-10-08 23:13:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "CBO director said he believes the fiscal trajectory will put upward pressure on interest rates."
+    },
+    {
+      "id": "mkt:01a11c13-9f6c-7ee0-a7fe-a63e7ec98beb",
+      "time": "2026-10-08 23:13:30",
+      "tags": [
+        "MKT News",
+        "US10Y"
+      ],
+      "text": "U.S. Congressional Budget Office director said he believes debt concerns have a relatively small impact on yields."
+    },
+    {
+      "id": "5132835",
+      "time": "2026-10-08 23:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國共和黨參議員敦促特朗普政府打擊卡痛（含類阿片活性成分）。"
+    },
     {
       "id": "5132834",
       "time": "2026-10-08 23:12:04",
