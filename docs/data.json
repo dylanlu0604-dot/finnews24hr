@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-09 05:04:54",
-  "count": 9126,
+  "updated": "2026-10-09 05:08:43",
+  "count": 9125,
   "items": [
+    {
+      "id": "mkt:01a11d58-4f9b-7ee0-a805-a3713b0ce5b2",
+      "time": "2026-10-09 05:08:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC said it is launching the Anthropic Cyber Mission, an initiative to secure critical infrastructure and open-source software."
+    },
+    {
+      "id": "5133207",
+      "time": "2026-10-09 05:07:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（10月8日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7035元，較週三紐約尾盤跌9點，日內整體交投於6.6999-6.7061元區間。"
+    },
+    {
+      "id": "5133206",
+      "time": "2026-10-09 05:05:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際金價漲0.5%】週四（10月8日）紐約尾盤，現貨黃金漲0.52%，報4132.62美元/盎司，大部分時間高位震盪。現貨白銀跌1.04%，報59.1632美元/盎司，過半交易時間低位震盪。COMEX銅期貨跌1.37%，報6.5595美元/磅，亞太早盤出現一波顯著上漲行情、北京時間09:47重新整理日高至6.7630美元，隨後持續下挫。在美股時段交易的費城金銀指數收漲1.41%，在美股時段交易的原材料指數收漲0.58%，金屬與礦業指數收跌0.43%。在全球市場全天交易的紐約證交所ARCA金礦開採商指數漲0.96%，報2479.37點，美股開盤後顯著反彈。State Street金屬與礦業ETF收跌0.22%，報104.61美元。"
+    },
     {
       "id": "mkt:01a11d54-e8fd-7ee0-a805-9874c3435cc8",
       "time": "2026-10-09 05:04:26",
@@ -83655,42 +83679,6 @@
         "公司"
       ],
       "text": "耐克執行長：空軍一號系列正帶動正價商品銷售。"
-    },
-    {
-      "id": "mkt:01a0f94b-ed4c-7ee0-a77f-4a5934f70ae3",
-      "time": "2026-10-02 05:08:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran urges Iraq to resolve flight disruptions caused by US sanctions】Press TV reported Iran’s embassy in Baghdad urged immediate action to restore Iraqi airport services for Iranian carriers, saying US sanctions have blocked ground handling and are straining bilateral ties. Iraqi ground handlers halted services fearing secondary US sanctions after Washington imposed a new round of sanctions on Iranian airlines, leading to suspension of flights to Baghdad, Najaf, Erbil and Sulaymaniyah. Reuters reported Baghdad has sought exemptions from the US Treasury and offered passenger screening and data-sharing safeguards; the US has so far issued only a one-month limited waiver."
-    },
-    {
-      "id": "5123371",
-      "time": "2026-10-02 05:07:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【離岸人民幣兌美元較週三紐約尾盤跌54點】週四（10月1日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7142元，較週三紐約尾盤跌54點，日內整體交投於6.7082-6.7222元區間。"
-    },
-    {
-      "id": "5123370",
-      "time": "2026-10-02 05:06:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利礦業部長丹尼爾・馬斯表示，在這個全球最大銅生產國遭遇一系列挫折後，近期產量下滑屬於暫時現象，並對明年的產出持樂觀態度。"
-    },
-    {
-      "id": "5123369",
-      "time": "2026-10-02 05:06:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "耐克執行長：大中華區、喬丹品牌與運動服飾業務的修復尚需時日。"
     }
   ]
 }
