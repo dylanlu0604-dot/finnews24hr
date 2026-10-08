@@ -1,7 +1,73 @@
 {
   "date": "2026-10-09",
-  "count": 360,
+  "count": 366,
   "items": [
+    {
+      "id": "5133187",
+      "time": "2026-10-09 04:37:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲對美國運通採取反洗錢執法行動。"
+    },
+    {
+      "id": "te:markets:590610",
+      "time": "2026-10-09 04:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher as Energy Stocks Rally — The S&P/TSX Composite Index edged 0.3% higher on Thursday, supported by gains in the energy and related industrial services sectors. Oil prices surged throughout the session on reports that the US is planning new strikes against Iran, risking the recent rebound in Middle Eastern oil exports. Energy producers gained, with Canadian Natural up 3%, Cenovus adding 2.5%, Suncor rising 3.7% and Imperial Oil advancing 2.6%. Enbridge rose 1.1% and TC Energy gained 1.6%. Mining shares picked up as gold prices firmed, with Agnico Eagle rising 1.7%, Barrick up 1.8% and WPM adding 0.9%. Global yields remained elevated amid intensifying inflationary pressures from high oil and fuel prices and a hawkish US Federal Reserve backdrop. Financials posted losses, with RBC losing 0.7%, BMO down 1%, CIBC shedding 0.6% and National Bank falling 1.7%. The tech sector tracked losses on Wall Street, with Shopify down 1%."
+    },
+    {
+      "id": "te:markets:590609",
+      "time": "2026-10-09 04:35:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.10% Higher — The Dow Jones Index rose 52 points or 0.10 percent on Thursday to close at 51232 points. Leading the gains are Home Depot (3.38%), Chevron (3.11%) and IBM (2.79%). Top losers were Nvidia (-2.90%), Amazon (-2.18%) and Cisco Systems (-2.10%)."
+    },
+    {
+      "id": "mkt:01a11d39-5827-7ee0-a805-6a536cd196c3",
+      "time": "2026-10-09 04:34:19",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Foreign central banks reduced holdings of U.S. Treasuries by $16.873 billion in the week to Oct. 2, versus a $15.101 billion decline in the prior week."
+    },
+    {
+      "id": "5133186",
+      "time": "2026-10-09 04:34:18",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至10月2日當週外國央行持有美國國債 -168.73億美元，前值-151.01億美元。"
+    },
+    {
+      "id": "mkt:01a11d39-318d-7ee0-a805-608cb542413c",
+      "time": "2026-10-09 04:34:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Oct.2) | actual -16872999999.999998B | previous -15101000000B"
+    },
     {
       "id": "5133185",
       "time": "2026-10-09 04:33:12",
