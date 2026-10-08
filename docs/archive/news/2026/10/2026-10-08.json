@@ -1,7 +1,137 @@
 {
   "date": "2026-10-08",
-  "count": 813,
+  "count": 826,
   "items": [
+    {
+      "id": "mkt:01a1194c-4711-7ee0-a7e6-466c892a6db2",
+      "time": "2026-10-08 10:16:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,140/oz, up 0.74% intraday."
+    },
+    {
+      "id": "5131115",
+      "time": "2026-10-08 10:16:29",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【馬斯克抨擊印度“寡頭”阻撓星鏈服務在印部署】馬斯克指責競爭對手阻撓SpaceX在印度部署星鏈衛星寬頻網路，雖然他沒有明確點名，但顯然是在暗指印度億萬富豪Mukesh Ambani和Sunil Bharti Mittal。SpaceX一直在等待印度總理莫迪政府批准其在印度提供星鏈服務，而Ambani控制的信實工業有限公司和Mittal麾下的Bharti Airtel Ltd.多年來在印度電信領域建立了強勢地位。“不幸的是，我們正受到某些寡頭的阻撓，他們試圖維持對印度人民的壟斷控制，”馬斯克在社交媒體平臺X上釋出帖文，“你們可以猜猜他們是誰……”"
+    },
+    {
+      "id": "te:markets:590344",
+      "time": "2026-10-08 10:15:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Climb on Hormuz Shipping Risks — European natural gas prices rose to around €80/MWh, the highest level in more than three weeks, as continued tanker attacks in the Strait of Hormuz fueled concerns over supply disruptions. Iran has sharply increased attacks on commercial and energy vessels transiting the waterway, highlighting persistent shipping risks and threatening to disrupt the broader recovery in fuel deliveries. Reports that Washington has asked the Pentagon to prepare options for potential strikes on Iran ahead of the November midterm elections further heightened fears of an escalation in the conflict. Further supporting prices, forecasts point to cooler weather across Northwestern Europe, which could boost heating demand as the region heads into winter. This weather-driven support comes amid steady additions to European storage reserves, with inventories now around 73% full. Still, storage levels remain below last year's, leaving the region vulnerable to prolonged supply disruptions and sudden demand spikes."
+    },
+    {
+      "id": "te:markets:590343",
+      "time": "2026-10-08 10:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indonesian Rupiah Appreciates by 0.29% — Top currency gainers are Indonesian Rupiah (0.29%), South Korean Won (0.23%) and Japanese Yen (0.20%). Biggest loser is Indian Rupee (-0.26%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "5131114",
+      "time": "2026-10-08 10:14:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【獐子島在大連成立種業科技新公司】企查查APP顯示，近日，獐子島北繁種業科技（大連）有限公司成立，經營範圍包含水產苗種銷售；水產品收購；水產品批發；水產品零售等。企查查股權穿透顯示，該公司由獐子島全資持股。"
+    },
+    {
+      "id": "5131113",
+      "time": "2026-10-08 10:14:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多家品牌金飾價格下調，老廟黃金克價1243元】10月8日，國內黃金飾品價格對比顯示，多家黃金珠寶品牌公佈的境內足金首飾價格較昨日有所調整，老廟黃金報價1243元/克，較前一日跌10元；周生生報價1248元/克，較前一日跌4元；周大福報價1249元/克，較前一日持平；老鳳祥報價1247元/克，較前一日跌4元。"
+    },
+    {
+      "id": "5131112",
+      "time": "2026-10-08 10:14:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破102美元/桶，日內漲1.80%。"
+    },
+    {
+      "id": "5131111",
+      "time": "2026-10-08 10:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國最高法院維持下級法院裁決，裁定滙豐控股短線交易指控不成立。"
+    },
+    {
+      "id": "mkt:01a11949-dfca-7ee0-a7e6-3d7050523833",
+      "time": "2026-10-08 10:13:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "XPEV.O",
+        "Impact bullish"
+      ],
+      "text": "【XPeng names Robotaxi XPENGYOYO, launches product page and invite-only app】Oct 8 — XPeng assigned its Robotaxi the Chinese brand XPeng Youyou and the English name XPENGYOYO. The group published a Robotaxi product page and an online-order mini-program, XPENG YOYO Autonomous Driving, and said it will expand closed beta access via invite codes. The move signals a shift from technical validation to open user testing and commercial exploration."
+    },
+    {
+      "id": "mkt:01a11949-9d77-7ee0-a7e6-33856fca158e",
+      "time": "2026-10-08 10:13:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600418.SS",
+        "Impact bearish"
+      ],
+      "text": "A-share-listed JAC Motors hit the daily down limit; turnover CNY 3.482 bln."
+    },
+    {
+      "id": "5131110",
+      "time": "2026-10-08 10:13:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "5131109",
+      "time": "2026-10-08 10:13:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "江淮汽車觸及跌停，成交額34.82億元。"
+    },
+    {
+      "id": "te:markets:590342",
+      "time": "2026-10-08 10:13:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Edge Lower — The Hang Seng Index edged down 0.2%, or 43 points, to 24,085 on Thursday, as a pullback on Wall Street and renewed concerns over inflation and interest rates weighed on sentiment. An overnight Wall Street selloff, coupled with a sharp rise in US Treasury yields, heightened concerns over higher-for-longer interest rates, while Brent crude remained above US$100 a barrel, adding to inflationary pressures. Locally, Hong Kong's private-sector activity remained in contraction, with the September PMI falling to 49.2 from 49.5 in August, marking a second straight month below the 50 threshold. Technology and biotech shares faced renewed selling pressure, while mainland markets reopened after the week-long National Day holiday. Genscript Biotech (-0.7%), Z.AI Co. (-3.8%), MiniMax (-5.9%), Shanghai Iluvatar CoreX (-6.1%), and InSilico Medicine Cayman (-5.1%) were among the notable decliners."
+    },
     {
       "id": "mkt:01a11947-32b0-7ee0-a7e6-2e422bb3d43e",
       "time": "2026-10-08 10:10:58",
