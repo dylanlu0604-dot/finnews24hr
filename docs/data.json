@@ -1,7 +1,30 @@
 {
-  "updated": "2026-10-09 04:45:50",
+  "updated": "2026-10-09 04:49:39",
   "count": 9131,
   "items": [
+    {
+      "id": "mkt:01a11d43-eb51-7ee0-a805-7c62c640ce8c",
+      "time": "2026-10-09 04:45:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The New York Times reports U.S. officials say the U.S. military is preparing plans to resume large-scale operations against Iran despite Trump's wavering on restarting a war. The Pentagon has drawn up a new three-day strike plan targeting Iran, and three aircraft carriers are set to deploy to the Middle East."
+    },
+    {
+      "id": "5133200",
+      "time": "2026-10-09 04:45:30",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲強制執行措施後，美國運通股價盤後下跌2%。"
+    },
     {
       "id": "5133199",
       "time": "2026-10-09 04:44:28",
@@ -83694,22 +83717,6 @@
         "MKT News"
       ],
       "text": "【Zelenskiy says Ukraine's FP-7 tactical ballistic missile used in combat, to enter mass production】On the evening of the 1st, Ukrainian President Zelenskiy said on social media the FP-7 tactical ballistic missile, produced by private defence firm \"Randian\", completed its first combat use and will enter mass production. The manufacturer's website lists a 200 kg payload, a maximum range of 250 km and land-based launch capability. A Freya air-defence system based on FP-7 technology is reportedly under development."
-    },
-    {
-      "id": "5123357",
-      "time": "2026-10-02 04:49:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI解僱三名研究員 指其不當分享敏感資訊】OpenAI以違反處理不公開資訊規定為由與三名員工解除僱傭關係，指其對外洩密。“我們的調查證實，這些人未按公司既定程式、不當處理了敏感資訊，違反了我們的政策，破壞了對我們工作至關重要的信任，” 該公司一位發言人週四發表宣告說。一位不願公開身份的知情人士透露，涉事員工是兩名安全研究員和一個研究專案經理，他們被指將公司敏感資訊洩露給一家外部人工智慧評估機構。該人士稱，部分被指遭洩露的資訊涉及OpenAI的基礎設施架構。"
-    },
-    {
-      "id": "5123356",
-      "time": "2026-10-02 04:48:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱烏國產FP-7彈道導彈完成首次實戰】烏克蘭總統澤連斯基1日晚在社交媒體發文稱，由烏克蘭私營防務企業生產的型號為FP-7的戰術彈道導彈完成首次實戰。澤連斯基稱，FP-7戰術彈道導彈接下來將進入量產階段。（新華社）"
     }
   ]
 }

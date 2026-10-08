@@ -1,7 +1,30 @@
 {
   "date": "2026-10-09",
-  "count": 379,
+  "count": 381,
   "items": [
+    {
+      "id": "mkt:01a11d43-eb51-7ee0-a805-7c62c640ce8c",
+      "time": "2026-10-09 04:45:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The New York Times reports U.S. officials say the U.S. military is preparing plans to resume large-scale operations against Iran despite Trump's wavering on restarting a war. The Pentagon has drawn up a new three-day strike plan targeting Iran, and three aircraft carriers are set to deploy to the Middle East."
+    },
+    {
+      "id": "5133200",
+      "time": "2026-10-09 04:45:30",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲強制執行措施後，美國運通股價盤後下跌2%。"
+    },
     {
       "id": "5133199",
       "time": "2026-10-09 04:44:28",
