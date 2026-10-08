@@ -1,7 +1,83 @@
 {
-  "updated": "2026-10-08 10:20:50",
-  "count": 9107,
+  "updated": "2026-10-08 10:24:39",
+  "count": 9114,
   "items": [
+    {
+      "id": "mkt:01a11953-1b15-7ee0-a7e6-605f614080e1",
+      "time": "2026-10-08 10:23:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "00100.HK",
+        "Impact bearish",
+        "02513.HK"
+      ],
+      "text": "Hong Kong AI-related stocks extended losses: MINIMAX-W (00100.HK) down 10%, Zhipu (02513.HK) down 5.6%."
+    },
+    {
+      "id": "5131124",
+      "time": "2026-10-08 10:23:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂心股份等成立智算科技公司 含AI及積體電路晶片業務】企查查APP顯示，近日，深圳市景昭智算科技有限公司成立，經營範圍包含人工智慧應用軟體開發；人工智慧行業應用系統整合服務；人工智慧硬體銷售；積體電路銷售；積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由樂心股份等共同持股。"
+    },
+    {
+      "id": "mkt:01a11952-508d-7ee0-a7e6-5a61c8d6d2c3",
+      "time": "2026-10-08 10:23:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【ANZ: Copper rises as Chile strike and US stockpiling raise supply concerns】Copper rose in Asian trade after ANZ Research flagged that strikes in Chile could disrupt supply; if action continues, output at the Centinela mine could be hit within two weeks. ANZ said the new supply risk compounds market concerns about shortages that were already elevated by US pre-tariff stockpiling. ICE data showed the LME three-month copper contract up 1.1% intraday at $14,633.50/t."
+    },
+    {
+      "id": "5131123",
+      "time": "2026-10-08 10:23:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱盛科技：UTG產品已實現向下遊客戶批次交付】凱盛科技在10月8日召開的2026年半年度業績說明會上表示，公司將密切跟蹤下游市場變化，推動科技創新與產業創新融合，夯實經營基礎，培育新質生產力。公司下半年強化應收、存貨精細化管控，多措並舉推動下半年經營現金流的改善。公司UTG產品已實現向下遊客戶批次交付，將持續推進工藝最佳化，穩步提升良率、壓降生產成本。"
+    },
+    {
+      "id": "5131122",
+      "time": "2026-10-08 10:22:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【小金屬板塊短線拉昇，西部材料、寶武鎂業雙雙漲停】小金屬板塊短線拉昇，西部材料、寶武鎂業雙雙漲停，安寧股份、雲南鍺業、貴研鉑業、東方鋯業、中鎢高新等跟漲。"
+    },
+    {
+      "id": "mkt:01a11951-f95a-7ee0-a7e6-564acd046534",
+      "time": "2026-10-08 10:22:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Multiple China oil & gas ETFs climb over 4% intraday】China oil & gas-themed ETFs strengthened intraday: oil & gas ETFs from Huitianfu, Bosera and Yinhua rose over 4%; oil ETFs from Penghua, E Fund, Fullgoal and ICBC advanced more than 3%."
+    },
+    {
+      "id": "5131121",
+      "time": "2026-10-08 10:22:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股大模型“雙雄”走弱，MINIMAX-W一度跌超10%，智譜跌超6%。"
+    },
+    {
+      "id": "5131120",
+      "time": "2026-10-08 10:20:29",
+      "tags": [
+        "央行"
+      ],
+      "text": "【人民銀行上海總部召開自貿離岸債業務推進會】近日，人民銀行上海總部召開自貿離岸債業務推進會。會議強調，自貿離岸債是服務金融高水平開放、人民幣國際化和上海國際金融中心建設的一個重要改革舉措。各金融機構要提高站位，加強統籌協調，合力推動市場建設邁上新臺階。一是持續擴大發行規模，夯實市場發展根基。深挖發行需求，構建“金融機構先行、實體企業跟進、境外主體逐步參與”的梯次發展格局。豐富中長期品種供給，穩定市場供給預期。二是拓寬投資渠道，激發市場活力。用好FTU投資政策，吸引境外專業機構、主權財富基金、國際組織等全球投資者入市；加快二級市場建設，提升市場流動性。三是立足服務實體經濟本源，凸顯業務價值。對接“走出去\"企業境外融資需求，服務“一帶一路\"共建國家和地區優質企業融資，提升人民幣資產定價影響力，助力上海人民幣資產全球配置中心建設。四是深化市場培育，加強政策宣介。持續面向全球市場開展推介宣講，總結推廣典型案例，發揮示範效應。五是統籌創新與風險管理，守牢風險底線。風險防控要貫穿業務全流程，保障自貿離岸債業務在法治化、規範化軌道上平穩執行。(中國人民銀行上海總部)"
+    },
     {
       "id": "mkt:01a1194f-7cee-7ee0-a7e6-4e57460d7d5f",
       "time": "2026-10-08 10:20:01",
@@ -83829,14 +83905,6 @@
         "Importance 1"
       ],
       "text": "Japan 10-Year Yield Rises on Hawkish BOJ Outlook — Japan’s 10-year government bond yield climbed to around 3.1% on Thursday, returning to 30-year highs as strong economic data and hawkish signals from the Bank of Japan reinforced expectations for a faster pace of policy tightening. Central bank data showed manufacturing sentiment improved in the third quarter to its highest level in more than eight years, while overall business conditions reached their most favorable levels in decades. Meanwhile, a summary of opinions from the BOJ’s September meeting showed that policymakers saw a need to accelerate the pace of rate hikes or move them closer to the central bank’s target in the near term. Japanese bonds have also faced sustained selling pressure since the election of Prime Minister Sane Takaichi, amid ambitious spending plans and worsening fiscal conditions. Recent reports suggested that PM Takaichi would pledge a flexible response to unexpected market movements in a policy speech scheduled for next week."
-    },
-    {
-      "id": "5121974",
-      "time": "2026-10-01 10:21:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美光科技：2027財年上半年資本支出約為250億美元 下半年將更高】美光科技預計2027財年上半年的資本支出約為250億美元，下半年將更高，且大部分增量將用於新建晶圓廠（建築支出）而非單純的裝置採購。美光科技CFO Mark Murphy解釋稱，這完全是因為長單提供了足夠的需求能見度，且新建綠地工廠需要極長的提前量。"
     }
   ]
 }
