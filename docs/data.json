@@ -1,7 +1,83 @@
 {
-  "updated": "2026-10-08 23:44:30",
-  "count": 9203,
+  "updated": "2026-10-08 23:48:51",
+  "count": 9208,
   "items": [
+    {
+      "id": "5132883",
+      "time": "2026-10-08 23:47:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【中東地緣局勢緊張刺激國際油價大漲】受中東地區地緣局勢再度緊張等因素刺激，國際原油期貨價格8日早間顯著上漲，紐約商品交易所輕質原油期貨價格和倫敦布倫特原油期貨價格均一度漲超5%。資料顯示，紐約商品交易所11月交貨的輕質原油期貨價格當日一度升至每桶92.84美元，與前一日收盤價相比上漲5.17%。12月交貨的倫敦布倫特原油期貨價格一度升至每桶105.48美元，上漲5.27%。（新華社）"
+    },
+    {
+      "id": "5132882",
+      "time": "2026-10-08 23:46:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：計劃於10月15日週四用獵鷹9號執行USSF-481任務發射。"
+    },
+    {
+      "id": "5132881",
+      "time": "2026-10-08 23:46:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉前總統馬杜羅之妻西莉亞·弗洛雷斯申請從美國監獄獲釋被拒。"
+    },
+    {
+      "id": "5132880",
+      "time": "2026-10-08 23:46:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍：準備對未經授權進入控制水域的船隻作出果斷回應。"
+    },
+    {
+      "id": "5132879",
+      "time": "2026-10-08 23:45:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：今晚用兩枚有翼導彈襲擊了利雅得的哈立德國王機場，用一枚彈道導彈襲擊了奈季蘭機場，並用一枚彈道導彈襲擊了海米斯穆謝特的空軍基地。襲擊精準直接，導致兩座機場空中交通中斷、設施受損，空軍基地也遭到破壞。"
+    },
+    {
+      "id": "5132878",
+      "time": "2026-10-08 23:44:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥比索兌美元下跌1.3%，報18.2090。"
+    },
+    {
+      "id": "mkt:01a11c2f-dfea-7ee0-a7ff-95cf64520fb1",
+      "time": "2026-10-08 23:44:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Mexican peso weakened 1.3% versus the dollar to 18.2090."
+    },
+    {
+      "id": "5132877",
+      "time": "2026-10-08 23:44:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌推出辦公AI智慧體 工作方式類似同事】谷歌宣佈推出面向辦公場景的Gemini智慧體，加大與OpenAI、Anthropic PBC和微軟爭奪企業客戶的力度。谷歌週四表示，這款人工智慧工具可用於回答問題、內容創作和程式設計等多種任務，並可在Gmail、Drive、Docs和Calendar等谷歌應用中執行。谷歌稱，這款新智慧體的工作方式更像同事，而不是聊天機器人，擁有自己的企業身份，並能夠持續數日推進一個目標。這超出了谷歌此前的智慧體產品；後者很多情況下只是響應提示詞，或在單個應用內執行預設任務。"
+    },
+    {
+      "id": "5132876",
+      "time": "2026-10-08 23:43:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "黑海運輸受阻之際，俄羅斯波羅的海港口糧食出口運力提升170%。"
+    },
     {
       "id": "5132875",
       "time": "2026-10-08 23:42:44",
@@ -84521,43 +84597,6 @@
         "國際"
       ],
       "text": "俄羅斯總統普京：我們需要就現代戰爭開展客觀、專業的討論。"
-    },
-    {
-      "id": "5122972",
-      "time": "2026-10-01 23:47:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：俄羅斯願同其他國家攜手製定一份世界發展路線圖。"
-    },
-    {
-      "id": "te:markets:588872",
-      "time": "2026-10-01 23:47:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Fall to 3-1/2-Month Low — European stocks opened the fourth quarter sharply lower on Thursday as rising global government bond yields continued to weigh on risk appetite. The STOXX 50 and STOXX 600 each fell more than 1%, reaching their lowest levels in about three and a half months as investors adjusted to expectations that major central banks could keep borrowing costs elevated for longer. Financial stocks led the declines, with banks falling more than 3.5%, while automobiles and parts and basic resources dropped between 1.5% and 2%. Chemicals, retail financial services, real estate, and construction and materials also posted losses of more than 1%. Technology stocks were among the few gainers, tracking stronger global peers after Micron Technology delivered an upbeat outlook. Among major STOXX 50 constituents, Banco Santander fell nearly 4%, while LVMH declined more than 2% and both Linde and L’Oréal lost around 2%."
-    },
-    {
-      "id": "5122971",
-      "time": "2026-10-01 23:46:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京：我們無法確定大國不會部署大規模殺傷性武器，我們必須避免這種情況發生。"
-    },
-    {
-      "id": "5122970",
-      "time": "2026-10-01 23:45:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國“龍”飛船送新一批宇航員飛赴國際空間站】美國太空探索技術公司的“龍”飛船10月1日搭載4名宇航員升空，開啟前往國際空間站的載人飛行任務。“龍”飛船於美國東部時間1日11時10分許（北京時間1日23時10分許）搭乘“獵鷹9”號火箭從佛羅里達州卡納維拉爾角太空軍基地發射升空。隨後，飛船與火箭分離，繼續飛往國際空間站。按計劃，“龍”飛船將飛行約8小時後與國際空間站對接。此次任務代號為“載人13號”，是載人“龍”飛船第13次執行為國際空間站運送輪換宇航員的任務。飛船上的4名宇航員分別是美國航空航天局宇航員傑茜卡·沃特金斯和盧克·德萊尼，加拿大航天局宇航員喬舒亞·庫特里克，俄羅斯國家航天集團宇航員謝爾蓋·捷捷里亞尼科夫。（央視新聞）"
     }
   ]
 }
