@@ -1,7 +1,294 @@
 {
-  "updated": "2026-10-08 15:58:10",
-  "count": 9220,
+  "updated": "2026-10-08 16:02:00",
+  "count": 9249,
   "items": [
+    {
+      "id": "5131737",
+      "time": "2026-10-08 16:01:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數下跌，蔚來跌1%】美股中概股盤前多數下跌，貝殼漲1%，攜程跌0.3%，阿里巴巴跌0.6%，網易跌0.8%，京東跌0.9%，嗶哩嗶哩、百度、蔚來跌1%。"
+    },
+    {
+      "id": "mkt:01a11a87-f909-7ee0-a7ef-a267865a9ab9",
+      "time": "2026-10-08 16:01:20",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB executive board member dolenc said inflation risks are tilted to the upside due to oil, natural gas, food and stronger growth."
+    },
+    {
+      "id": "mkt:01a11a87-d69b-7ee0-a7ef-9f0835aeb1a3",
+      "time": "2026-10-08 16:01:12",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "London Metal Exchange (LME) stocks: nickel unchanged; lead down 1,525 t; copper down 4,650 t; tin down 15 t; zinc down 325 t; aluminium unchanged."
+    },
+    {
+      "id": "5131736",
+      "time": "2026-10-08 16:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鎳庫存持平，鉛庫存減少1525噸，銅庫存減少4650噸，錫庫存減少15噸，鋅庫存減少325噸，鋁庫存持平。"
+    },
+    {
+      "id": "mkt:01a11a87-c2bd-7ee0-a7ef-90d9cbd20b00",
+      "time": "2026-10-08 16:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Dolenc said persistent elevated inflation supports the view that policy rates should be raised to more restrictive levels."
+    },
+    {
+      "id": "5131735",
+      "time": "2026-10-08 16:00:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行多倫茨：核心通脹趨於穩定，一定程度表明整體物價壓力得到控制。"
+    },
+    {
+      "id": "5131734",
+      "time": "2026-10-08 16:00:56",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式開展為期一週的黃金兌里拉賣出互換拍賣，規模6噸。"
+    },
+    {
+      "id": "5131733",
+      "time": "2026-10-08 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前漲跌不一】禮來漲0.09%，強生漲0.22%，Moderna跌0.75%，諾和諾德跌1.20%，艾伯維漲0.04%，默沙東跌0.41%。"
+    },
+    {
+      "id": "5131732",
+      "time": "2026-10-08 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普跌】Lumentum跌2.19%，康寧跌2.21%，Coherent跌2.84%，應用光電跌3.86%，Ciena跌2.34%，博通跌0.94%，邁威爾科技跌1.67%。"
+    },
+    {
+      "id": "5131731",
+      "time": "2026-10-08 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普跌】美光跌1.49%，閃迪跌1.15%，SK海力士跌0.70%，西部資料跌1.01%，希捷科技跌1.01%。"
+    },
+    {
+      "id": "5131730",
+      "time": "2026-10-08 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”漲跌不一】英偉達跌0.69%，蘋果漲0.12%，微軟漲0.04%，谷歌跌0.40%，亞馬遜跌0.40%，Meta漲0.10%，特斯拉跌0.40%。"
+    },
+    {
+      "id": "5131729",
+      "time": "2026-10-08 16:00:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國DAX指數跌破25000點，日內跌0.82%。"
+    },
+    {
+      "id": "mkt:01a11a87-6ec1-7ee0-a7ef-8cc0a9049661",
+      "time": "2026-10-08 16:00:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Foreign ministry urges EU to meet China halfway, resolve trade concerns through dialogue】Foreign ministry spokesperson Mao Ning said China views trade with Europe as mutually beneficial but noted European countries are pursuing stronger protective measures. On what steps China might take to allay EU concerns she referred queries to the relevant Chinese departments. As a principle, Mao said China hopes the EU will meet it halfway and resolve mutual concerns through dialogue and consultation to support healthy, stable China‑EU economic and trade relations, which she said serves both sides' interests."
+    },
+    {
+      "id": "mkt:01a11a87-5c6a-7ee0-a7ef-83d643ca58f7",
+      "time": "2026-10-08 16:00:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Harbour Energy is shutting production at some Gulf of Mexico facilities."
+    },
+    {
+      "id": "mkt:01a11a87-2551-7ee0-a7ef-794658d5f00a",
+      "time": "2026-10-08 16:00:26",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany's DAX fell below 25,000, down 0.82% on the day."
+    },
+    {
+      "id": "5131727",
+      "time": "2026-10-08 16:00:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京基智農：2026年9月商品肥豬銷量15.82萬頭，累計155.8萬頭】京基智農公告，2026年9月銷售商品肥豬15.82萬頭，銷售收入2.16億元，銷售均價11.06元/kg；2026年1-9月累計銷售商品肥豬155.8萬頭，累計銷售收入21.23億元。"
+    },
+    {
+      "id": "mkt:01a11a86-e9a9-7ee0-a7ef-7387f737bd4e",
+      "time": "2026-10-08 16:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Sep trade surplus USD 23.63 bln, vs expected USD 19.25 bln; Aug USD 22.3 bln."
+    },
+    {
+      "id": "5131726",
+      "time": "2026-10-08 16:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "te:markets:590478",
+      "time": "2026-10-08 16:00:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Oil Gains by 4.07% — Top commodity gainers are Brent Oil (4.07%), Crude Oil (3.87%) and Heating Oil (3.59%)."
+    },
+    {
+      "id": "mkt:01a11a86-bd9d-7ee0-a7ef-6831e22904dc",
+      "time": "2026-10-08 16:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Trade Balance (Sep) | actual 23630000000B | consensus 19250000000B | previous 22300000000B"
+    },
+    {
+      "id": "mkt:01a11a86-97f5-7ee0-a7ef-62329f01a0cc",
+      "time": "2026-10-08 15:59:50",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Taiwan September exports rose 60.9% YoY, versus expected 45.65% and prior 41.0%."
+    },
+    {
+      "id": "5131725",
+      "time": "2026-10-08 15:59:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美芯晟：工業控制領域系列產品出貨量突破千萬，預計下半年將保持快速增長態勢】10月8日，美芯晟（688458.SH）釋出投資者關係活動記錄表。在工業控制領域，公司提到其研發的通用磁感測、馬達驅動、漏電保護及角度磁感測等核心產品，已成功落地於工業自動化裝備、精密特種裝置、工業散熱等多元化工業場景。上半年，該系列產品出貨量突破千萬，預計下半年將保持快速增長態勢。在產品技術端，公司馬達驅動晶片憑藉高靈敏度、優異的溫度特性以及寬泛的場景適配能力，具備跨平臺相容與多場景複用基礎，後續將進一步向高階電機驅動等前沿領域拓展，持續豐富工業應用生態。"
+    },
+    {
+      "id": "mkt:01a11a86-8651-7ee0-a7ef-5dc8bd8a7086",
+      "time": "2026-10-08 15:59:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan September imports YoY 51.7% (est. 43.2%; Aug. 44.3%)."
+    },
+    {
+      "id": "mkt:01a11a86-7d86-7ee0-a7ef-537c440975fc",
+      "time": "2026-10-08 15:59:43",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Exports (YoY) (Sep) | actual 60.9% | consensus 45.65% | previous 41.00%"
+    },
+    {
+      "id": "mkt:01a11a86-5c8f-7ee0-a7ef-48850546bd30",
+      "time": "2026-10-08 15:59:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Imports (YoY) (Sep) | actual 51.7% | consensus 43.2% | previous 44.30%"
+    },
+    {
+      "id": "5131724",
+      "time": "2026-10-08 15:59:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晉拓股份：向特定物件發行A股股票獲證監會註冊批覆】晉拓股份公告稱，公司收到中國證監會出具的《關於同意晉拓科技股份有限公司向特定物件發行股票註冊的批覆》，同意公司向特定物件發行股票的註冊申請，批覆自同意註冊之日起12個月內有效。公司本次發行應嚴格按照報送上海證券交易所的申報檔案和發行方案實施，自同意註冊之日起至本次發行結束前，公司如發生重大事項，應及時報告上海證券交易所並按有關規定處理。公司將在規定期限內辦理本次發行相關事宜，並及時履行資訊披露義務。"
+    },
+    {
+      "id": "te:markets:590477",
+      "time": "2026-10-08 15:58:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Falls for Second Session — Frankfurt’s DAX 40 fell 0.8% to below 24,900 in early trading on Thursday, extending losses from the previous session as rising oil prices heightened inflation concerns. Oil prices climbed further amid reports that the White House had asked the Pentagon to prepare strike options against Iran that could be carried out before the US midterm elections, adding to pressure on bond yields and risk sentiment. Sentiment was also weighed down by continued weakness in Germany’s external demand, with exports falling 0.8% month-on-month in August. Among individual stocks, semiconductor maker Infineon led the declines, falling around 3%, while industrial shares were under pressure."
+    },
+    {
+      "id": "5131723",
+      "time": "2026-10-08 15:58:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傳音控股：H股發行價上限38.8港元 預計10月15日港交所上市】傳音控股公告稱，公司正在推進H股發行並在香港聯交所主機板掛牌上市相關工作，已完成中國證監會備案、港交所上市聆訊等流程，於2026年10月7日在港交所網站刊登H股招股說明書。本次全球發售H股基礎發行股數為8664.83萬股，其中香港公開發售佔10%、國際發售佔90%；超額配售權最多可發行1299.72萬股，悉數行使後最大發行股數為9964.55萬股。本次H股發行價格上限為每股38.80港元，香港公開發售於2026年10月7日啟動、10月12日結束，預計10月14日前公佈發行價，10月15日在港交所掛牌交易。"
+    },
+    {
+      "id": "5131722",
+      "time": "2026-10-08 15:58:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【精華製藥：孫公司獲甲磺酸沙非胺原料藥上市批准】精華製藥公告稱，公司孫公司精華製藥集團南通有限公司獲得國家藥監局核准簽發的甲磺酸沙非胺《化學原料藥上市申請批准通知書》。甲磺酸沙非胺為抗帕金森病原料藥，本次獲批標誌著南通公司具備該原料藥國內上市供應資格，其登記狀態同步轉為“A”，可供應國內製劑企業用於製劑申報及生產使用。本次獲批將豐富公司原料藥產品管線，提升特色原料藥領域市場競爭力，後續實際銷售及經營效益存在不確定性。"
+    },
+    {
+      "id": "te:markets:590476",
+      "time": "2026-10-08 15:58:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Hits More Than 4-Month Low — The FTSE MIB slid below 50,000 on Thursday, hitting its lowest level since May, as rising geopolitical tensions compounded fresh M&A uncertainty in the country’s banking sector. Reports showed that the White House asked the Pentagon to prepare strike options against Iran ahead of the midterm elections, pushing oil prices and bond yields higher again. Domestically, major MPS shareholder Francesco Gaetano Caltagirone said his holding company would oppose Monte dei Paschi di Siena’s plans to acquire Banco BPM and Banca Generali, dealing another blow to the lender’s efforts to fend off Intesa Sanpaolo’s takeover bid. Heavyweight financials bore the brunt, led by Mediobanca (-3.6%), MPS (-2.6%), UniCredit (-2.9%), Intesa Sanpaolo (-2.5%) and Banco BPM (-1.5%). Elsewhere, technology stocks also lagged, with STMicroelectronics down 3.3%, Prysmian down 1.7% and Telecom Italia falling 2.4%."
+    },
+    {
+      "id": "5131721",
+      "time": "2026-10-08 15:58:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI熱潮推動，芬蘭資料中心投資總額突破670億歐元。"
+    },
     {
       "id": "5131720",
       "time": "2026-10-08 15:57:20",
@@ -84737,29 +85024,6 @@
         "Importance 0"
       ],
       "text": "FTSE MIB Hits 16-Week Low — The FTSE MIB declined more than 1% to around 50,700 on the first trading day of October, hitting its lowest level since June, as surging global yields and higher oil prices weighed on risk sentiment. Losses were broad-based, with heavyweight financials taking the brunt. UniCredit fell 2.2%, while Intesa Sanpaolo, Banco BPM and BPER Banca dropped 1.4%, 2.3% and 2.1%, respectively. Among other major stocks, Eni and Enel slipped 0.9% and 0.9%, respectively, while Ferrari fell 0.7%. STMicroelectronics and Prysmian bucked the broader trend, gaining 0.9% and 1.7%, respectively. Domestically, Italy is seeking additional flexibility from EU budget rules to account for the impact of higher energy costs. On the data front, the PMI survey showed that Italy’s manufacturing sector returned to marginal expansion in September."
-    },
-    {
-      "id": "te:markets:588667",
-      "time": "2026-10-01 16:00:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Crude Oil Gains by 2.21% — Top commodity gainers are Crude Oil (2.21%), Brent Oil (2.01%) and Gasoline (1.93%). Biggest loser is Natural gas (-1.83%)."
-    },
-    {
-      "id": "te:economy:588662",
-      "time": "2026-10-01 15:58:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Hungary Manufacturing Growth at 9-Month High — Manufacturing PMI in Hungary rose 53.2 in September 2026 from an upwardly revised 51.5 in August, remaining above the 50-point threshold that separates expansion from contraction and the highest recorded since December 2025. The September PMI was also above the long-term monthly average of 52.6 and the average September reading of 51.9 over the past three years. The faster expansion was supported by stronger new orders and production, with both indices rising and remaining in expansion territory. Meanwhile, the employment index increased and showed expansion, while both export and import indicators also rose and recorded growth. On prices, the purchase price index increased and continued to signal a sharp rise in prices."
     }
   ]
 }
