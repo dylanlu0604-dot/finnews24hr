@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-09",
+  "count": 2,
+  "items": [
+    {
+      "id": "mkt:01a11c3e-651d-7ee0-a7ff-ea05389cfb5e",
+      "time": "2026-10-09 00:00:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Iranian Students' News Agency (ISNA), Islamic Revolutionary Guard Corps commander Vahidi said defending the Strait of Hormuz is defending Iran's national interests, security and dignity."
+    },
+    {
+      "id": "mkt:01a11c3e-46e7-7ee0-a7ff-e65ea87c095b",
+      "time": "2026-10-09 00:00:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "ISNA: IRGC commander-in-chief Vahidi said the Strait of Hormuz is the lifeline of global energy and a strategic red line for Iran."
+    }
+  ]
+}
