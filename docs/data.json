@@ -1,7 +1,22 @@
 {
-  "updated": "2026-10-09 05:12:31",
+  "updated": "2026-10-09 05:16:21",
   "count": 9127,
   "items": [
+    {
+      "id": "mkt:01a11d5d-07c2-7ee0-a805-a874cccf8d3d",
+      "time": "2026-10-09 05:13:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Sources: Apple (AAPL.O) to unveil first touchscreen MacBook Pro】Apple (AAPL.O) plans a product event on or around Oct. 27 to introduce its first touchscreen MacBook Pro, a new iPad mini, and 14-inch MacBook Pro and iMac models running the M6 chip, people familiar with the matter said. The touchscreen MacBook Pro is expected to use an OLED display, include the Dynamic Island interface and have a lighter chassis versus current models; the new iPad mini will also adopt an OLED screen and feature revised camera and speaker layouts. The event will combine an online video presentation with in-person media activities."
+    },
     {
       "id": "5133211",
       "time": "2026-10-09 05:11:09",
@@ -83689,14 +83704,6 @@
         "其他"
       ],
       "text": "Twilio 即將納入標普 500 指數。"
-    },
-    {
-      "id": "5123374",
-      "time": "2026-10-02 05:15:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "AI 研究實驗室 Inworld 收購語音智慧體平臺 Ultravox。"
     }
   ]
 }
