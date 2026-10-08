@@ -1,7 +1,168 @@
 {
   "date": "2026-10-08",
-  "count": 723,
+  "count": 741,
   "items": [
+    {
+      "id": "mkt:01a11930-b1c5-7ee0-a7e5-b2772b7a2361",
+      "time": "2026-10-08 09:46:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Benzene main contract on China's futures market hit the daily limit-up, rising 9.00% to 9,449 yuan/ton. Methanol main contract also hit the daily limit-up, up 9.02% to 3,625 yuan/ton."
+    },
+    {
+      "id": "5131057",
+      "time": "2026-10-08 09:46:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲5%，現報5432.00元。"
+    },
+    {
+      "id": "5131056",
+      "time": "2026-10-08 09:46:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內漲6%，現報8638.00元。"
+    },
+    {
+      "id": "5131055",
+      "time": "2026-10-08 09:46:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內漲7%，現報9838.00元。"
+    },
+    {
+      "id": "5131054",
+      "time": "2026-10-08 09:46:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲5%，現報8599.00元。"
+    },
+    {
+      "id": "5131053",
+      "time": "2026-10-08 09:45:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《全國重要飲用水水源地名錄》印發】水利部會同國家發展改革委、生態環境部制定印發《全國重要飲用水水源地名錄》（以下簡稱《名錄》），將859個全國重要集中式飲用水水源地納入《名錄》管理。本次印發的全國重要飲用水水源地，從所屬水資源一級區分佈看，長江區369個，黃河區125個，淮河區80個，海河區60個，珠江區89個，松花江、遼河區62個，西南諸河區3個，東南諸河區47個，西北諸河區24個；從水源地型別看，河道（河流）型水源地380個，水庫型水源地324個，湖泊型水源地21個，地下水型水源地134個。"
+    },
+    {
+      "id": "5131052",
+      "time": "2026-10-08 09:45:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲6%，現報6646.00元。"
+    },
+    {
+      "id": "5131051",
+      "time": "2026-10-08 09:45:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5131050",
+      "time": "2026-10-08 09:45:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲8%，現報10595.00元。"
+    },
+    {
+      "id": "5131049",
+      "time": "2026-10-08 09:44:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡基準股指一度下跌2.5%，至5467.15點，創7月中旬以來新低。"
+    },
+    {
+      "id": "5131048",
+      "time": "2026-10-08 09:44:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏阿里地區首個風電工程進入併網除錯階段】西藏阿里地區首個風電工程——中廣核阿里改則5萬千瓦風電專案近日完成全部風機吊裝，全面進入併網除錯階段，計劃於2026年底併網執行。國慶期間，專案現場仍有建設人員堅守，目前正推進工程質量驗收、升壓站裝置除錯等工作，為後續併網執行做準備。專案全容量投運後，年發電量可達1.8億千瓦時，等效減排二氧化碳約15萬噸，將有效填補區域清潔能源供給缺口。（央視網）"
+    },
+    {
+      "id": "mkt:01a1192e-fbcd-7ee0-a7e5-af6591af34f5",
+      "time": "2026-10-08 09:44:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【First wind project in Tibet's Ngari (Ali) region enters grid commissioning】CGN's 50 MW Gaize (Ngari) wind project in Tibet has completed turbine installation and entered grid-commissioning, with grid connection planned by end-2026. The project is undergoing quality acceptance and step-up substation equipment testing; at full capacity it should generate about 180 GWh/yr and cut roughly 150,000 tonnes of CO2, helping to close a local clean-energy supply gap."
+    },
+    {
+      "id": "mkt:01a1192e-2bd0-7ee0-a7e5-a27a4aaa0873",
+      "time": "2026-10-08 09:43:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "Chinese A-shares rose in early trade; ChiNext Index gained as much as 1% intraday, CHINA'S SHANGHAI COMPOSITE INDEX +0.43%, Shenzhen Composite Index +0.7%."
+    },
+    {
+      "id": "5131047",
+      "time": "2026-10-08 09:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【啟雲方將釋出EDA系統級電子設計工具鏈新品】10月8日，啟雲方宣佈，將於10月14日-16日舉行的2026灣芯展上釋出EDA系統級電子設計工具鏈新品。"
+    },
+    {
+      "id": "5131046",
+      "time": "2026-10-08 09:43:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
+    {
+      "id": "mkt:01a1192d-7f38-7ee0-a7e5-99b8ac243a7f",
+      "time": "2026-10-08 09:42:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Grain-related A-shares showed renewed activity: Yalian Development recorded a second consecutive limit-up, while Huifeng, Jinjian Rice Industry, Nongfa Seed, Lianhua Holdings and COFCO Technology also rose."
+    },
+    {
+      "id": "5131045",
+      "time": "2026-10-08 09:42:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.02%，現報3167.324點；上證指數漲0.46%，現報3859.714點；深證成指漲0.74%，現報12983.383點。"
+    },
+    {
+      "id": "5131044",
+      "time": "2026-10-08 09:42:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【糧食概念股反覆活躍，亞聯發展2連板】糧食概念股反覆活躍，亞聯發展2連板，輝豐股份、金健米業、農發種業、蓮花控股、中糧科技跟漲。"
+    },
     {
       "id": "5131043",
       "time": "2026-10-08 09:42:33",
