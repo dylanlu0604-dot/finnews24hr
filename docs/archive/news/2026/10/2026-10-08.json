@@ -1,7 +1,128 @@
 {
   "date": "2026-10-08",
-  "count": 1892,
+  "count": 1906,
   "items": [
+    {
+      "id": "te:markets:590575",
+      "time": "2026-10-08 23:00:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Depreciates by 0.30% — Top currency losers are Indian Rupee (-0.30%), Japanese Yen (-0.08%) and Dollar Index (-0.06%). Gains are led by Swedish Krona (0.26%), Euro (0.11%) and British Pound (0.09%)."
+    },
+    {
+      "id": "5132810",
+      "time": "2026-10-08 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】甲醇連續漲5.94%，液化石油氣連續漲5.84%，燃料油連續漲2.86%，聚丙烯連續漲2.55%，苯乙烯連續漲1.96%。"
+    },
+    {
+      "id": "mkt:01a11c07-3ae9-7ee0-a7fe-0858c6a94d40",
+      "time": "2026-10-08 22:59:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said fraudulent firms are misrepresenting visa applications."
+    },
+    {
+      "id": "mkt:01a11c07-22ad-7ee0-a7fe-0772f9927169",
+      "time": "2026-10-08 22:59:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC committed to invest $150m over three years in the federal \"Genesis Mission\" program."
+    },
+    {
+      "id": "te:markets:590574",
+      "time": "2026-10-08 22:59:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Heating Oil is up by 5.01% — Heating Oil increased 5.01% to 4.8545 USD/Gal"
+    },
+    {
+      "id": "mkt:01a11c06-d3b8-7ee0-a7fd-fc2d048ad61f",
+      "time": "2026-10-08 22:59:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "【Ukraine State Emergency Service: Kramatorsk attack kills 33】Ukraine's State Emergency Service said on social media on the 8th that Russian forces struck the eastern city of Kramatorsk, killing 33 and wounding 18. A passenger bus in the city was hit and caught fire, killing 30 people aboard; the blaze spread to two nearby buses. The service said three local residents were also killed."
+    },
+    {
+      "id": "5132809",
+      "time": "2026-10-08 22:58:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "Adobe股價轉跌。"
+    },
+    {
+      "id": "5132808",
+      "time": "2026-10-08 22:58:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：“龍”飛船的離軌制動已完成，非加壓貨艙已拋棄。"
+    },
+    {
+      "id": "5132807",
+      "time": "2026-10-08 22:57:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯談H-1B簽證：希望引進擁有超級專業化技能的勞動者。"
+    },
+    {
+      "id": "mkt:01a11c04-b7be-7ee0-a7fd-f49de06dbbb7",
+      "time": "2026-10-08 22:57:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UKMTO said a crude oil tanker was struck by an unidentified projectile on Oct 6."
+    },
+    {
+      "id": "mkt:01a11c04-6055-7ee0-a7fd-ecc11fd68306",
+      "time": "2026-10-08 22:56:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. is investigating Harvard University, Yale University, Stanford University and Brown University over J-1 visa matters."
+    },
+    {
+      "id": "5132806",
+      "time": "2026-10-08 22:56:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏國家緊急情況局：克拉馬托爾斯克遭襲致33人死亡】烏克蘭國家緊急情況局8日在社交媒體發文稱，烏東部城市克拉馬托爾斯克當天遭俄軍襲擊，造成33人死亡、18人受傷。（新華社）"
+    },
+    {
+      "id": "5132805",
+      "time": "2026-10-08 22:56:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：美國不是為世界其他地區提供就業的專案——我們創造這些就業是為了美國人。"
+    },
     {
       "id": "mkt:01a11c03-a562-7ee0-a7fd-e24352cd21b6",
       "time": "2026-10-08 22:56:03",
@@ -45,6 +166,14 @@
         "國際"
       ],
       "text": "美國調查哈佛大學、耶魯大學、斯坦福大學和布朗大學J-1簽證事宜。"
+    },
+    {
+      "id": "5132802",
+      "time": "2026-10-08 22:54:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國調查加州理工學院、亞利桑那州立大學和麻省理工學院的J-1簽證事宜。"
     },
     {
       "id": "mkt:01a11c02-9ff9-7ee0-a7fd-cf7a550b22bd",

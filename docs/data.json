@@ -1,7 +1,128 @@
 {
-  "updated": "2026-10-08 22:56:41",
+  "updated": "2026-10-08 23:00:43",
   "count": 9151,
   "items": [
+    {
+      "id": "te:markets:590575",
+      "time": "2026-10-08 23:00:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Indian Rupee Depreciates by 0.30% — Top currency losers are Indian Rupee (-0.30%), Japanese Yen (-0.08%) and Dollar Index (-0.06%). Gains are led by Swedish Krona (0.26%), Euro (0.11%) and British Pound (0.09%)."
+    },
+    {
+      "id": "5132810",
+      "time": "2026-10-08 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】甲醇連續漲5.94%，液化石油氣連續漲5.84%，燃料油連續漲2.86%，聚丙烯連續漲2.55%，苯乙烯連續漲1.96%。"
+    },
+    {
+      "id": "mkt:01a11c07-3ae9-7ee0-a7fe-0858c6a94d40",
+      "time": "2026-10-08 22:59:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said fraudulent firms are misrepresenting visa applications."
+    },
+    {
+      "id": "mkt:01a11c07-22ad-7ee0-a7fe-0772f9927169",
+      "time": "2026-10-08 22:59:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC committed to invest $150m over three years in the federal \"Genesis Mission\" program."
+    },
+    {
+      "id": "te:markets:590574",
+      "time": "2026-10-08 22:59:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Heating Oil is up by 5.01% — Heating Oil increased 5.01% to 4.8545 USD/Gal"
+    },
+    {
+      "id": "mkt:01a11c06-d3b8-7ee0-a7fd-fc2d048ad61f",
+      "time": "2026-10-08 22:59:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "【Ukraine State Emergency Service: Kramatorsk attack kills 33】Ukraine's State Emergency Service said on social media on the 8th that Russian forces struck the eastern city of Kramatorsk, killing 33 and wounding 18. A passenger bus in the city was hit and caught fire, killing 30 people aboard; the blaze spread to two nearby buses. The service said three local residents were also killed."
+    },
+    {
+      "id": "5132809",
+      "time": "2026-10-08 22:58:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "Adobe股價轉跌。"
+    },
+    {
+      "id": "5132808",
+      "time": "2026-10-08 22:58:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：“龍”飛船的離軌制動已完成，非加壓貨艙已拋棄。"
+    },
+    {
+      "id": "5132807",
+      "time": "2026-10-08 22:57:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯談H-1B簽證：希望引進擁有超級專業化技能的勞動者。"
+    },
+    {
+      "id": "mkt:01a11c04-b7be-7ee0-a7fd-f49de06dbbb7",
+      "time": "2026-10-08 22:57:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UKMTO said a crude oil tanker was struck by an unidentified projectile on Oct 6."
+    },
+    {
+      "id": "mkt:01a11c04-6055-7ee0-a7fd-ecc11fd68306",
+      "time": "2026-10-08 22:56:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. is investigating Harvard University, Yale University, Stanford University and Brown University over J-1 visa matters."
+    },
+    {
+      "id": "5132806",
+      "time": "2026-10-08 22:56:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏國家緊急情況局：克拉馬托爾斯克遭襲致33人死亡】烏克蘭國家緊急情況局8日在社交媒體發文稱，烏東部城市克拉馬托爾斯克當天遭俄軍襲擊，造成33人死亡、18人受傷。（新華社）"
+    },
+    {
+      "id": "5132805",
+      "time": "2026-10-08 22:56:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：美國不是為世界其他地區提供就業的專案——我們創造這些就業是為了美國人。"
+    },
     {
       "id": "mkt:01a11c03-a562-7ee0-a7fd-e24352cd21b6",
       "time": "2026-10-08 22:56:03",
@@ -45,6 +166,14 @@
         "國際"
       ],
       "text": "美國調查哈佛大學、耶魯大學、斯坦福大學和布朗大學J-1簽證事宜。"
+    },
+    {
+      "id": "5132802",
+      "time": "2026-10-08 22:54:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國調查加州理工學院、亞利桑那州立大學和麻省理工學院的J-1簽證事宜。"
     },
     {
       "id": "mkt:01a11c02-9ff9-7ee0-a7fd-cf7a550b22bd",
@@ -83962,130 +84091,6 @@
         "國際"
       ],
       "text": "美國財政部：將於 10 月 1 日開展流動性回購操作，最多回購 60 億美元期限 10 至 20 年的國債。"
-    },
-    {
-      "id": "5122919",
-      "time": "2026-10-01 23:00:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織發言人：技術工作組於9月21日至29日訪問布宜諾斯艾利斯，這是擴充套件基金機制安排下第三次評估磋商工作的一部分。"
-    },
-    {
-      "id": "5122918",
-      "time": "2026-10-01 23:00:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "國際貨幣基金組織發言人表示：過去幾年間，通脹水平大幅下降，外匯儲備積累推動對外頭寸狀況走強，財政紀律得到嚴格遵守，財政狀況已從赤字轉為盈餘。"
-    },
-    {
-      "id": "5122917",
-      "time": "2026-10-01 23:00:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織發言人表示：必須確保目前集中在能源、礦業和農業領域的增長實現擴容，讓增長更均衡地覆蓋經濟體各領域，同時也惠及更廣泛勞動者群體。"
-    },
-    {
-      "id": "5122916",
-      "time": "2026-10-01 23:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織發言人：阿根廷在極具挑戰性的環境中，為恢復宏觀經濟穩定取得了重大進展。"
-    },
-    {
-      "id": "5122915",
-      "time": "2026-10-01 23:00:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織發言人表示：這一穩定舉措至關重要，是阿根廷實現可持續增長的關鍵基礎。"
-    },
-    {
-      "id": "5122914",
-      "time": "2026-10-01 23:00:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織發言人：相關談判仍在進行中，並將在未來幾周繼續推進，這些談判旨在就第三次評估達成工作人員級別協議。"
-    },
-    {
-      "id": "5122913",
-      "time": "2026-10-01 23:00:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織發言人：國際貨幣基金組織與阿根廷達成共識，即加強阿根廷經濟韌性的工作仍需繼續推進。"
-    },
-    {
-      "id": "5122912",
-      "time": "2026-10-01 23:00:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織表示，債券市場目前執行有序。"
-    },
-    {
-      "id": "te:markets:588846",
-      "time": "2026-10-01 23:00:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Mexican Peso Depreciates by 1.15% — Top currency losers are Mexican Peso (-1.15%), Polish Zloty (-0.86%), Brazilian Real (-0.79%), Euro (-0.56%), British Pound (-0.41%) and Japanese Yen (-0.21%). Gains are led by Swiss Franc (0.60%) and Dollar Index (0.42%)."
-    },
-    {
-      "id": "5122911",
-      "time": "2026-10-01 23:00:10",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部將拍賣820億美元六個月期國庫券。"
-    },
-    {
-      "id": "te:economy:588845",
-      "time": "2026-10-01 22:59:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Peru",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Peru Inflation Rate Hits 3-Year High of 4.55% — The annual inflation rate in Peru's capital, Lima, rose further to 4.55% in September 2026, marking its fastest pace in three years, up from August's 4.44%.This marks the seventh consecutive month above the central bank's 1%-3% target range, as higher global fuel prices and adverse weather linked to the El Niño phenomenon continued to impact transport, agriculture and fishing. By categories, the highest rates were recorded for transportation (15.10% vs 14.79% in August); restaurants & hotels (4.35% vs 4.27%); food & non-alcholic beverages (3.87% vs 3.87%) and education (3.50% vs 3.50%). Meanwhile, prices declined for communications (-4.30% vs -4.35%). On a monthly basis, the CPI rose by 0.12% in September, after a 0.07% increase in the month before."
-    },
-    {
-      "id": "te:markets:588844",
-      "time": "2026-10-01 22:58:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Reverse Gains — US stocks moved into negative territory to start Q4, with the S&P 500 falling 0.3%, the Nasdaq declining 0.2% and the Dow Jones shedding 245 points, reversing early gains as Treasury yields continued to rise and oil prices climbed again, weighing on sentiment. Meanwhile, the ISM Manufacturing PMI pointed to a surge in manufacturing prices despite a smaller slowdown in factory activity. Materials and real estate were the worst-performing sectors, while energy outperformed. Shares of Micron tumbled 2% despite an earnings beat and forecasts topped expectations. Alphabet also failed to sustain early gains even after rolling out its latest AI model. Amazon (-1.1%), JPMorgan (-1.2%), AMD (-0.7%), Bank of America (-2.6%) were also lower."
-    },
-    {
-      "id": "5122910",
-      "time": "2026-10-01 22:58:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "默茨稱，歐洲的和平與自由正面臨俄羅斯威脅。"
-    },
-    {
-      "id": "5122909",
-      "time": "2026-10-01 22:57:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "墨西哥主要股指下跌1%。"
     }
   ]
 }
