@@ -1,7 +1,113 @@
 {
-  "updated": "2026-10-08 16:13:02",
-  "count": 9289,
+  "updated": "2026-10-08 16:16:47",
+  "count": 9301,
   "items": [
+    {
+      "id": "mkt:01a11a95-310a-7ee0-a7f0-6828e90b6ff9",
+      "time": "2026-10-08 16:15:47",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "00100.HK",
+        "01347.HK"
+      ],
+      "text": "【HSI down 1.43%; Hang Seng Tech hits lowest since Sep 2024】Hong Kong close: HSI down 1.43%, Hang Seng Tech Index down 2.89% to its lowest level since Sep 2024. Value traded HKD 207.3 bln. Large-model AI names led declines: MINIMAX-W (00100.HK) plunged >13%, 02513.HK fell >7%. Semiconductors and optical-communications stocks were broadly weaker: 01347.HK dropped >9%, 03986.HK and 09976.HK down >7%, 01191.HK down >13%. Optical-fiber and laminates names 06869.HK and 01888.HK fell >6%."
+    },
+    {
+      "id": "mkt:01a11a94-ccd2-7ee0-a7f0-63ec7956b69f",
+      "time": "2026-10-08 16:15:21",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Dolenc: ECB rate policy can prevent energy price shock from spreading】ECB Executive Board member Dolenc said interest-rate policy can prevent a surge in energy prices from spilling into broader, persistent inflation. He noted monetary policy cannot directly affect energy shocks, geopolitics or structural competitiveness, but can stop an initial price shock from becoming more widespread and long-lasting. The ECB has raised rates twice and is expected to hike again, most likely at the December meeting. September inflation rose to 3.8%, near twice the ECB’s 2% target; Dolenc said roughly 3% inflation is likely to persist through year-end and, absent new shocks, inflation should gradually return to 2% over the next two years while economic growth accelerates."
+    },
+    {
+      "id": "5131776",
+      "time": "2026-10-08 16:14:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯媒體報道，克里姆林宮發言人德米特里·佩斯科夫表示，美國總統唐納德·特朗普沒有向俄羅斯總統弗拉基米爾·普京傳送生日賀電。"
+    },
+    {
+      "id": "5131775",
+      "time": "2026-10-08 16:14:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國外交部：韓國將召回駐烏克蘭大使。"
+    },
+    {
+      "id": "5131774",
+      "time": "2026-10-08 16:14:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《煙花爆竹經營許可實施辦法（修訂徵求意見稿）》公開徵求意見】應急管理部就《煙花爆竹經營許可實施辦法（修訂徵求意見稿）》公開徵求意見。修訂的主要內容：一是嚴格許可程式要求，織牢制度“籬笆”。針對當前個別地區將經營許可許可權下放導致大量不符合安全生產條件的經營單位獲得許可等突出問題，明確“發證機關不得將本級負責的煙花爆竹經營許可證的審批、頒發工作委託下級發證機關實施”；為強化許可把關，刪除選擇性開展現場核查的要求，明確提出對所有批發企業和零售店（點）均應指派2名以上工作人員進行現場核查的要求；依據行政許可等法律法規，縮短了許可時限要求。二是細化經營布點要求，緩解供需矛盾。三是完善批發許可制度，強化源頭管控。四是最佳化零售許可制度，防範遏制安全事故。五是完善監管人員監督管理要求，規範許可行為。六是提高處罰標準，增強對違法違規行為的打擊力度。"
+    },
+    {
+      "id": "mkt:01a11a93-cf97-7ee0-a7f0-5b85e587747c",
+      "time": "2026-10-08 16:14:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea will recall its ambassador to Ukraine, the foreign ministry said."
+    },
+    {
+      "id": "5131773",
+      "time": "2026-10-08 16:13:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖諾生物：副總經理饒進增持計劃尚未實施】聖諾生物公告稱，公司副總經理、董事會秘書饒進原計劃於2026年6月9日至2026年12月8日增持公司股份，擬增持金額不低於800萬元且不超過1000萬元。截至2026年10月8日，增持計劃期間過半，饒進尚未增持公司股份，累計增持數量、金額均為0。本次增持計劃尚未實施完畢，饒進將繼續按計劃在實施期內推進增持，增持計劃存在因資本市場變化等因素無法實施的風險。"
+    },
+    {
+      "id": "mkt:01a11a93-2f94-7ee0-a7f0-53334855d7fb",
+      "time": "2026-10-08 16:13:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lithuania plans to propose that the EU ban transit of Russian grain."
+    },
+    {
+      "id": "5131772",
+      "time": "2026-10-08 16:13:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿特斯：累計回購股份比例達1.04% 耗資3.65億元】阿特斯公告稱，公司2026年度回購股份方案實施期限為2026年4月27日至2027年4月26日，擬使用4億元-6億元資金回購股份用於員工持股計劃或股權激勵，回購價格上限因權益分派調整為不超過21.05元/股。截至2026年9月30日，公司累計回購股份3779.11萬股，佔總股本比例1.04%，回購價格區間為8.16元/股-11.35元/股，累計回購金額3.65億元。其中2026年9月單月回購925.97萬股，佔總股本0.25%，支付資金8021.90萬元。"
+    },
+    {
+      "id": "mkt:01a11a92-ebee-7ee0-a7f0-49301e70f47e",
+      "time": "2026-10-08 16:13:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's FTSE MIB index fell as much as 1.00% intraday."
+    },
+    {
+      "id": "5131771",
+      "time": "2026-10-08 16:13:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝肯能源：公司圍繞油氣應用場景開展電碳耦合儲能裝置研發相關工作 尚未形成商業化運營】有投資者在互動平臺向貝肯能源提問，查閱公告：北京引恆科技為公司儲能新業務實施主體，增資擴股已終止，將自建團隊開展業務。請問目前該公司儲能相關業務是否仍在推進？有無可對外披露的階段性進展？貝肯能源回覆稱，公司圍繞油氣應用場景開展電碳耦合儲能裝置研發相關工作，截至目前仍處於研發測試階段，尚未形成商業化運營。請廣大投資者注意投資風險。"
+    },
+    {
+      "id": "5131769",
+      "time": "2026-10-08 16:12:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "瑞安航空執行長表示：由於在所有權規則相關問題上存在分歧，該航空可能將於年底退出歐洲航空業貿易協會。"
+    },
     {
       "id": "mkt:01a11a92-2ead-7ee0-a7f0-4646732eeae9",
       "time": "2026-10-08 16:12:30",
@@ -44,6 +150,14 @@
         "Impact bearish"
       ],
       "text": "Swiss National Bank deputy governor said inflationary pressure has edged up slightly since June."
+    },
+    {
+      "id": "5131765",
+      "time": "2026-10-08 16:11:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華蘭疫苗：截至10月8日已取得56批次流感疫苗批簽發】華蘭疫苗10月8日在互動平臺表示，流感疫苗的批簽發和銷售具有季節性特徵，受流感病毒流行毒株變化影響，公司2026年度流感疫苗批簽發時間較往年有所延後。目前公司正在有序推進流感疫苗的生產、批簽發及銷售工作，截至2026年10月8日，經查詢中國藥品檢定研究院公開資料，公司已取得56批次流感疫苗批簽發。公司將結合市場需求合理組織生產和供應。"
     },
     {
       "id": "mkt:01a11a91-0688-7ee0-a7f0-36ec4d554f94",
@@ -109,6 +223,14 @@
         "MKT News"
       ],
       "text": "SWISS NATIONAL BANK deputy governor said the recent rise in Swiss inflation is attributable to petroleum products."
+    },
+    {
+      "id": "5131762",
+      "time": "2026-10-08 16:09:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿拉丁：全資子公司銀行賬戶合計3310.68萬元被凍結】阿拉丁公告稱，公司全資子公司阿拉丁試劑（上海）有限公司中國建設銀行上海金橋支行基本戶新增被凍結資金1655.34萬元，合計被凍結金額3310.68萬元，佔公司2026年半年度末歸母淨資產的2.45%、貨幣資金的6.76%。本次新增凍結系原告撤回前案起訴後重新立案、前次保全尚未解除形成的重複凍結，公司正與法院溝通申請解除前次保全措施。本次凍結不會對公司生產經營造成重大不利影響。"
     },
     {
       "id": "5131761",
@@ -85352,30 +85474,6 @@
         "Importance 1"
       ],
       "text": "Bulgaria Inflation Rate Rises to 4-Month High — The annual inflation rate in Bulgaria rose to 5.6% in September 2026 from 5.1% in the previous month, preliminary estimates showed. This marked the highest reading since May, as prices accelerated for food and non-alcoholic beverages (1.4% vs 0.8% in August), transport (25.6% vs 21.5%), alcoholic beverages, tobacco, and narcotics (6.9% vs 6.1%), housing and utilities (5.4% vs 5.1%), information and communication (1.6% vs 1.5%), and recreation, sport, and culture (8.2% vs 7.6%). In contrast, prices increased at a slower pace in health (3.1% vs 3.3%), education (7.7% vs 9.1%), restaurants and accommodation services (9.5% vs 9.6%), and personal care, social protection, and miscellaneous goods and services (5.1% vs 5.6%), while prices declined for furnishings, household equipment, and routine household maintenance (-0.5% vs 0.3%). On a monthly basis, consumer prices fell 0.3%, reversing a 0.6% gain in August."
-    },
-    {
-      "id": "te:economy:588690",
-      "time": "2026-10-01 16:16:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Greece",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Greece Factory Activity Slows Slightly in September — The S&P Global Greece Manufacturing PMI edged down to 54.0 in September from 54.4 in August, signaling a solid improvement in operating conditions, albeit at a softer pace. The slowdown in the headline index came despite stronger demand, with new orders rising at the fastest pace since March and export orders recording their strongest increase in 18 months. Output growth accelerated slightly, while employment continued to expand at a sharp pace as firms responded to stronger order inflows. However, input purchasing lost momentum as firms relied more on existing inventories, while transport disruptions and material shortages kept delivery delays elevated.Cost pressures intensified due to higher oil, fuel, energy and material prices, prompting a faster rise in selling prices. Business confidence softened slightly over concerns about pricing power but remained high, supported by planned technology investment and new client and contract wins."
-    },
-    {
-      "id": "te:markets:588689",
-      "time": "2026-10-01 16:14:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Surge as Bond Selloff and Inflation Risks Intensify — UK 10-year gilt yields climbed to 5.5%, their highest since July 2007, while 30-year yields reached 6% for the first time since 1998 as a renewed global bond selloff gathered pace. The 10-year yield rose more than 20 basis points in September, as higher energy costs fueled inflation concerns and stronger-than-expected economic growth strengthened the case for higher-for-longer interest rates. Several Bank of England policymakers, including Governor Andrew Bailey and MPC members who voted to hold rates last month, have signaled growing openness to a rate hike as rising energy prices increase the risk of inflation remaining above target. Markets expect the Bank of England to begin tightening monetary policy as early as November, with LSEG data showing investors pricing in four rate hikes by July 2027. Higher borrowing costs come at a challenging time for the government, which is seeking to ease cost-of-living pressures ahead of the October 28 budget."
     }
   ]
 }
