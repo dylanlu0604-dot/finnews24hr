@@ -1,7 +1,111 @@
 {
-  "updated": "2026-10-08 23:08:53",
-  "count": 9174,
+  "updated": "2026-10-08 23:12:55",
+  "count": 9178,
   "items": [
+    {
+      "id": "5132834",
+      "time": "2026-10-08 23:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會預算辦公室（CBO）主任斯瓦格爾：認為債務擔憂對收益率的影響較小。"
+    },
+    {
+      "id": "mkt:01a11c12-0193-7ee0-a7fe-988f685f9331",
+      "time": "2026-10-08 23:11:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Mexico minutes: some members said assessing the impact of Federal Reserve rates on Mexico is crucial."
+    },
+    {
+      "id": "5132833",
+      "time": "2026-10-08 23:11:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【印尼總統主持中資礦業下游化專案啟動儀式】印度尼西亞總統普拉博沃8日在北馬魯古省中哈馬黑拉縣緯達貝工業園主持11箇中資礦業下游化專案啟動儀式。這些專案總投資約102億美元，涉及動力電池、鎳鈷材料、電解鋁、新能源工程機械及商用車製造等領域。（新華社）"
+    },
+    {
+      "id": "5132832",
+      "time": "2026-10-08 23:11:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普針對外籍員工的打擊行動波及微軟、Adobe及IT企業。"
+    },
+    {
+      "id": "5132831",
+      "time": "2026-10-08 23:10:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國和俄羅斯討論美方投資北溪管道】美國特使賈裡德·庫什納與俄羅斯總統普京的顧問基里爾·德米特里耶夫討論了引入美國投資者參與北溪管道的事宜，這為美國參與俄羅斯對德天然氣銷售開闢了一條潛在途徑。"
+    },
+    {
+      "id": "mkt:01a11c10-128b-7ee0-a7fe-951aa67b2118",
+      "time": "2026-10-08 23:09:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "CBO director says economic growth alone is unlikely to stabilize the U.S. debt trajectory."
+    },
+    {
+      "id": "mkt:01a11c0f-a4fd-7ee0-a7fe-89210bd1e1ed",
+      "time": "2026-10-08 23:09:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "Congressional Budget Office director says a 6% \"structural\" fiscal deficit exists."
+    },
+    {
+      "id": "5132830",
+      "time": "2026-10-08 23:09:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "烏茲別克9月份M2貨幣供應量同比增長38.392%。"
+    },
+    {
+      "id": "mkt:01a11c0f-6983-7ee0-a7fe-875db45c9532",
+      "time": "2026-10-08 23:08:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "CBO director: growth projections needed to stabilize federal debt assume interest rates of 4%–5%."
+    },
+    {
+      "id": "5132829",
+      "time": "2026-10-08 23:08:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "Yandex尚無法確認資料中心能否恢復。"
+    },
     {
       "id": "mkt:01a11c0e-c4f1-7ee0-a7fe-7e2a1c155695",
       "time": "2026-10-08 23:08:12",
@@ -9,6 +113,14 @@
         "MKT News"
       ],
       "text": "Russia's internet portal Yandex said it cannot yet confirm whether data-center equipment in the Ryazan region can be restored."
+    },
+    {
+      "id": "5132828",
+      "time": "2026-10-08 23:08:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯Yandex評估資料中心受損情況。"
     },
     {
       "id": "5132827",
@@ -84233,74 +84345,6 @@
         "國際"
       ],
       "text": "美國兩年期國債收益率短暫觸及一週低位，下跌 6.03 個基點，報 4.827%。"
-    },
-    {
-      "id": "te:markets:588853",
-      "time": "2026-10-01 23:12:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "French Bond Yields at 2002 High as Fiscal Concerns Deepen — France’s 10-year OAT yield surged above 4.9%, reaching its highest level since July 2002, after posting its biggest quarterly increase in nearly four decades. The move came as the minority government unveiled its long-awaited plan to rein in the budget deficit, targeting a reduction to 5% of GDP next year from 5.4% this year. The plan has already drawn scrutiny from the country’s fiscal watchdog, which warned that the budget’s economic assumptions are “optimistic.” French borrowing costs have also risen sharply amid a global bond selloff, with the 10-year yield spread over Germany widening to 130 bps, the highest since 2012, reflecting growing concerns over debt sustainability. With the debt burden expected to exceed 120% of GDP next year and political uncertainty ahead of April’s elections, interest costs are set to climb. Meanwhile, Agence France Trésor plans a record €340 billion of borrowing to finance the deficit and refinance maturing debt."
-    },
-    {
-      "id": "5122932",
-      "time": "2026-10-01 23:12:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷經濟部長：泛美能源將向塞羅德拉貢油田投資 12 億美元。"
-    },
-    {
-      "id": "5122931",
-      "time": "2026-10-01 23:11:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "SpaceX為美國國家航空航天局發射四人乘組前往空間站。"
-    },
-    {
-      "id": "te:economy:588852",
-      "time": "2026-10-01 23:10:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Mexico Manufacturing Activity Improves — The S&P Global Mexico Manufacturing PMI rose to 50.3 in September 2026 from 49.8 in the prior month, signaling a fractional improvement in the health of the sector. The decline in output extended the current sequence of contractions to 27 months, albeit at a softer pace then the prior month. New business volumes continued to rise, with firms citing resilient demand for certain products. However, export sales were a further source of weakness, having declined for a third consecutive month amid reports of softer demand from Europe and the US. Employment fell again. Outstanding business rose for the first time in eight months, with backlogs accumulating at the strongest rate since the start of the year. Inventories of finished goods declined as purchasing activity declined for a second month. Positive sentiment reached its highest level since November 2025, as firms expect greater sales, investment and export orders. Still, it remained below its historical average."
-    },
-    {
-      "id": "te:markets:588851",
-      "time": "2026-10-01 23:10:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Zinc Hits 6-week Low — Zinc decreased to 3731.00 USD/T, the lowest since August 2026. Over the past 4 weeks, Zinc lost 3.24%, and in the last 12 months, it increased 23.57%."
-    },
-    {
-      "id": "5122930",
-      "time": "2026-10-01 23:09:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬自達北美業務：9 月銷量 34519 臺，同比上升 31.9%。"
-    },
-    {
-      "id": "5122929",
-      "time": "2026-10-01 23:09:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "市場訊息：埃裡森與 CNN 執行長湯普森洽談新合約，尚未達成一致。"
     }
   ]
 }
