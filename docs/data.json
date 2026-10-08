@@ -1,7 +1,165 @@
 {
-  "updated": "2026-10-08 09:20:27",
-  "count": 8984,
+  "updated": "2026-10-08 09:24:11",
+  "count": 8995,
   "items": [
+    {
+      "id": "5130999",
+      "time": "2026-10-08 09:23:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲14%，現報4990.00元。"
+    },
+    {
+      "id": "5130998",
+      "time": "2026-10-08 09:23:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【追光生物完成超5000萬元Pre-A輪融資】10月8日，追光生物宣佈完成超5000萬元Pre-A輪融資。本輪由深創投領投，廣東中醫藥大健康基金、南山戰新投、及零以創投跟投。本輪融資將主要用於核心產品研發與工程化、重點應用場景驗證，以及AI驅動技術服務模式的進一步探索。"
+    },
+    {
+      "id": "5130997",
+      "time": "2026-10-08 09:22:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行逆回購今日淨回籠6,085億元人民幣。"
+    },
+    {
+      "id": "5130996",
+      "time": "2026-10-08 09:22:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年10月8日7天期逆回購操作量為零。同時，開展了6060億元隔夜逆回購操作。"
+    },
+    {
+      "id": "mkt:01a1191a-aabc-7ee0-a7e4-e1fbcc2236b0",
+      "time": "2026-10-08 09:22:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH"
+      ],
+      "text": "PBOC said that at the request of open-market primary dealers it offered zero 7-day reverse repos on Oct 8, 2026, and injected 606 billion yuan via overnight reverse repos."
+    },
+    {
+      "id": "5130995",
+      "time": "2026-10-08 09:21:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌1%至49,306.18點。"
+    },
+    {
+      "id": "mkt:01a11919-e7ac-7ee0-a7e4-dce2553d7b9f",
+      "time": "2026-10-08 09:21:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "At the open on Oct 8 (Thursday), Hong Kong's HSI fell 98.84 points, or 0.41%, to 24,031.66; the Hang Seng Tech Index fell 10.66 points, or 0.25%, to 4,183.83; the HSCEI fell 18.47 points, or 0.23%, to 8,063.93; the Red-chip Index rose 4.03 points, or 0.10%, to 4,012.33."
+    },
+    {
+      "id": "mkt:01a11919-e37a-7ee0-a7e4-d244b7699544",
+      "time": "2026-10-08 09:21:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02513.HK",
+        "Impact bearish",
+        "09868.HK",
+        "09888.HK"
+      ],
+      "text": "Hong Kong stocks opened lower: HSI down 0.41%, Hang Seng TECH down 0.25%. Zhipu (02513.HK) opened down 2.3%; XPeng (09868.HK) and Baidu (09888.HK) opened down more than 1%."
+    },
+    {
+      "id": "5130994",
+      "time": "2026-10-08 09:21:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內漲6%，現報9746.00元。"
+    },
+    {
+      "id": "5130993",
+      "time": "2026-10-08 09:21:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.41％，恒生科技指數跌0.25％】小鵬集團-W跌1.32％，東方海外國際跌1.39％，萬洲國際跌1.57％，華潤電力跌1.97％，智譜跌2.30％，滙豐控股跌2.33％。"
+    },
+    {
+      "id": "5130992",
+      "time": "2026-10-08 09:20:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內漲8%，現報9364.00元。"
+    },
+    {
+      "id": "te:markets:590327",
+      "time": "2026-10-08 09:19:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mitsubishi UFJ Financial Shares Hit 6-week Low — Mitsubishi UFJ Financial shares decreased to 3540.00 JPY, the lowest since August 2026. Over the past 4 weeks, Mitsubishi UFJ Financial lost 1.61%, and in the last 12 months, it increased 50.13%."
+    },
+    {
+      "id": "5130991",
+      "time": "2026-10-08 09:19:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "短纖連續主力合約日內漲5%，現報8620.00元。"
+    },
+    {
+      "id": "5130990",
+      "time": "2026-10-08 09:19:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲13%，現報4945.00元。"
+    },
+    {
+      "id": "5130989",
+      "time": "2026-10-08 09:19:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內漲5%，現報8556.00元。"
+    },
+    {
+      "id": "5130988",
+      "time": "2026-10-08 09:19:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲7%，現報10497.00元。"
+    },
     {
       "id": "5130987",
       "time": "2026-10-08 09:18:47",
@@ -82615,53 +82773,6 @@
         "其他"
       ],
       "text": "紐西蘭儲備銀行（RBNZ）董事會敦促貨幣政策委員會（MPC）對過往決策進行年度評估。"
-    },
-    {
-      "id": "te:markets:588440",
-      "time": "2026-10-01 09:22:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Shares Under Strain as October Begins — Australian stocks slipped 119 points, or 1.4%, to 8,669 in early October trade, erasing prior gains as Wall Street closed mostly lower overnight on rising U.S. Treasury yields and weakness in financials and defensives. Locally, home values fell for a sixth straight month in September amid plunging transaction volumes, with another rate hike this week expected to trigger the worst downturn in three decades. Factory activity also shrank at the fastest pace in 21 months as new orders weakened under rising costs and softer demand. Losses were broad, led by energy minerals, financials, healthcare, and logistics. Lynas Rare Earths tumbled 5.5%, Suncorp Group dropped 5.1%, PLS Group fell 3.0%, and Ampol lost 2.5%. The four big banks also posted notable declines. Still, weakness was tempered after RBA Governor Michele Bullock signaled September’s hike could be the last following four increases this year. Traders now await August trade data due later today."
-    },
-    {
-      "id": "mkt:01a0f50d-9b4f-7338-ab40-166e730e4879",
-      "time": "2026-10-01 09:21:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Wall Street Journal reports Democratic senators wrote to Rubio, Hegseth and Wright saying a Pentagon oil agreement with Venezuela undermines a democratic transition, and requested that Trump administration officials answer questions about the Venezuelan oil project."
-    },
-    {
-      "id": "5121919",
-      "time": "2026-10-01 09:21:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【武漢：8月28日起，新出讓土地的商品住房專案，優先選擇現房銷售】武漢市住房和城市更新局、武漢市自然資源和城鄉建設局、武漢市地方金融管理局釋出關於貫徹落實《關於完善商品住房銷售制度的通知》的實施意見。其中提到，穩步開展現房銷售。2026年8月28日起，新出讓土地的商品住房專案，優先選擇現房銷售。房地產開發企業在辦理不動產首次登記後，應制定現房銷售方案，報市住房管理部門備案後，按現房銷售方案組織銷售。規範現房定金銷售行為。實行現房銷售的商品住房專案，房地產開發企業取得建築工程施工許可證後，應制定定金銷售方案並報市住房管理部門備案，市房產交易中心同步在專案主辦銀行開立定金監管賬戶。定金銷售方案應載明專案基本資訊、銷售價格、定金收取標準、權利義務及違約責任處理等內容。房地產開發企業開展現房定金銷售時，應當透過銷售現場或網際網路平臺集中公示《營業執照》《房地產開發企業資質證書》《建設用地規劃許可證》《建設工程規劃許可證》《建築工程施工許可證》《定金銷售方案》《購房定金合同（示範文字）》及銷售人員資訊等資料。《購房定金合同（示範文字）》由市住房管理部門牽頭制定。"
-    },
-    {
-      "id": "mkt:01a0f50c-f357-7338-ab40-0c942673c341",
-      "time": "2026-10-01 09:21:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Wall Street Journal reports Democratic senators have questioned Trump administration officials about the Pentagon's oil transactions with Venezuela, saying the legal basis for the deals is in doubt."
-    },
-    {
-      "id": "5121918",
-      "time": "2026-10-01 09:20:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本財務省將於10月8日拍賣3.0萬億日元短期國債。"
     }
   ]
 }
