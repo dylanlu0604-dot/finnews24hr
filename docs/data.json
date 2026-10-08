@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-09 04:41:58",
-  "count": 9129,
+  "updated": "2026-10-09 04:45:50",
+  "count": 9131,
   "items": [
+    {
+      "id": "5133199",
+      "time": "2026-10-09 04:44:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SpaceX將收購低頻段頻譜 用於行動通訊服務】埃隆·馬斯克領導的SpaceX週四表示，該公司已同意收購一套覆蓋全美低頻段頻譜牌照組合。該公司在社交平臺上表示，這筆交易將使SpaceX能夠利用星鏈（Starlink）衛星服務，成為美國一家主要移動運營商。T-Mobile US Inc.、Verizon Communications Inc.和美國電話電報公司股價在紐約盤後交易中均跌逾5%。"
+    },
+    {
+      "id": "5133198",
+      "time": "2026-10-09 04:43:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "AT&T股價跌幅擴大至8%；VERIZON股價下跌6.8%。"
+    },
+    {
+      "id": "5133197",
+      "time": "2026-10-09 04:43:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：三艘航空母艦即將部署在中東。"
+    },
+    {
+      "id": "5133196",
+      "time": "2026-10-09 04:42:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：五角大樓制定了為期三天的伊朗空襲新計劃。"
+    },
+    {
+      "id": "5133195",
+      "time": "2026-10-09 04:42:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道五角大樓擬定新的對伊朗打擊方案，而特朗普猶豫不決。"
+    },
+    {
+      "id": "5133194",
+      "time": "2026-10-09 04:42:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "馬斯克發表評論後，SPACEX股價盤後上漲1.3%。"
+    },
+    {
+      "id": "5133193",
+      "time": "2026-10-09 04:41:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦醫療保險和醫療補助服務中心：2027年醫保優勢處方藥計劃合同中，37%獲得四星或更高評級。"
+    },
+    {
+      "id": "5133192",
+      "time": "2026-10-09 04:41:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克：Spectrum將在美國提供完整的手機覆蓋。"
+    },
     {
       "id": "mkt:01a11d3f-ae5e-7ee0-a805-72b443d997bd",
       "time": "2026-10-09 04:41:14",
@@ -83644,65 +83710,6 @@
         "國際"
       ],
       "text": "【澤連斯基稱烏國產FP-7彈道導彈完成首次實戰】烏克蘭總統澤連斯基1日晚在社交媒體發文稱，由烏克蘭私營防務企業生產的型號為FP-7的戰術彈道導彈完成首次實戰。澤連斯基稱，FP-7戰術彈道導彈接下來將進入量產階段。（新華社）"
-    },
-    {
-      "id": "mkt:01a0f937-0d00-7ee0-a77f-12a927f21476",
-      "time": "2026-10-02 04:45:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Fed's Bowman: No urgency to adjust rates further】Michelle Bowman, Fed vice chair for supervision, said Thursday she does not currently see an urgency to take further action on rates. She said officials should wait to assess current economic trends and the impact of September's rate hike before deciding on further policy moves, adding that inflation remains above the Fed's target and a clearer read on trends is needed."
-    },
-    {
-      "id": "5123355",
-      "time": "2026-10-02 04:43:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗波斯灣海峽管理局：近期三艘遭襲油輪曾被列入違規名單】當地時間10月1日，伊朗“波斯灣海峽管理局”發表宣告稱，近期霍爾木茲海峽發生多起油輪遇襲事件，其中最近遇襲的三艘油輪均為阿聯酋擁有或租賃。調查顯示，“Al Ruwais”號、“Sinbad”號和“Mersin Prosperity”號油輪在過去兩個月中曾多次透過霍爾木茲海峽，上述三艘油輪的名稱曾出現在“波斯灣海峽管理局”最新更新的違規名單中。（央視新聞）"
-    },
-    {
-      "id": "5123354",
-      "time": "2026-10-02 04:42:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 如果民主黨上臺，我們最終將陷入金融大蕭條。我們會遭遇前所未有的蕭條，重演 1929 年的危機 —— 這是我的觀點。他們極度無能，根本不知道自己在做什麼。"
-    },
-    {
-      "id": "te:markets:588909",
-      "time": "2026-10-02 04:42:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "bovespa Rises on Energy and Mining Gains — The Ibovespa gained 0.5% to close at 187,197 on Thursday, supported by energy and mining stocks. Petrobras rose 1.3% as the oil rally accelerated after reports that the US is sending a third aircraft carrier strike group to the Middle East. Vale gained 0.6% during a session without iron ore trading in China due to the Golden Week holiday. Major banks ended mixed amid elevated global bond yields and energy-driven inflation concerns. Banco do Brasil fell 0.2%, while Bradesco rose 0.3%. Itaú and Santander declined 0.3% and 3%, respectively. Retail stocks performed well, with Magazine Luiza extending gains from the previous session to rise 1.5%. Azzas jumped 7% amid new proposals for Farm. Meanwhile, Datafolha is due to release a new election poll after the bell. Globo will also host a debate among presidential candidates at night, marking the end of the campaign. Senator Flávio Bolsonaro confirmed his attendance, while President Lula is unlikely to attend."
-    },
-    {
-      "id": "5123353",
-      "time": "2026-10-02 04:42:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "PALEBLUEDOT AI：完成由COMPUTECORE領投的2億美元C輪融資，估值達32億美元。"
-    },
-    {
-      "id": "5123352",
-      "time": "2026-10-02 04:42:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "PALEBLUEDOT AI完成2億美元C輪融資，用於擴充套件超級智慧基礎設施平臺。"
     }
   ]
 }
