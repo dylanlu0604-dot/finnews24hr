@@ -1,7 +1,135 @@
 {
   "date": "2026-10-09",
-  "count": 2,
+  "count": 15,
   "items": [
+    {
+      "id": "5132904",
+      "time": "2026-10-09 00:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影 《復仇者聯盟4：終局之戰（加碼臻享版）》 總票房破44億。"
+    },
+    {
+      "id": "5132903",
+      "time": "2026-10-09 00:03:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：由於美國對伊朗港口實施鐵桶式封鎖，伊朗未能運出任何石油。"
+    },
+    {
+      "id": "5132902",
+      "time": "2026-10-09 00:02:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：近幾個月，美軍支援了超過12.5億桶原油從海灣夥伴國經由霍爾木茲海峽的運輸。"
+    },
+    {
+      "id": "mkt:01a11c40-8924-7ee0-a800-07e1c71ebf33",
+      "time": "2026-10-09 00:02:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple said it will hold a 'Welcome Home' product launch in New York on Oct. 13."
+    },
+    {
+      "id": "te:markets:590583",
+      "time": "2026-10-09 00:02:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Drops to Nearly Two-Month Low — Frankfurt's DAX closed 1.2% lower at 24,823 on Thursday, reaching it lowest level in almost two months, amid elevated energy prices and persistent concerns over Europe's fiscal outlook. High sovereign yields due to French concerns continue to pressure banks and financials. Deutsch Bank fell 0.7%, while Commerzbank declined 2.4% as Germany’s finance minister said he was coordinating with counterparts on UniCredit’s takeover bid for the German lender. Tech and industrials were also under pressure, with Infineon down 3.4% and Siemens falling 2.6%. Automakers fell as European buyers continue to shift toward electric vehicles amid higher fuel prices, with Volkswagen down 4.5%. BMW (2.8%) and Mercedes Benz (2%) also fell. On the upside, defense Rheinmetall (0.9%) advanced while British Premier Burnham stated the UK would be open to Germany joining a partnershipto develop a new fighter jet alongside other countries. E.ON rose 0.4% after reporting its successful acquisition of OVO in the UK."
+    },
+    {
+      "id": "5132901",
+      "time": "2026-10-09 00:02:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破81000美元，日內跌2.85%。"
+    },
+    {
+      "id": "5132900",
+      "time": "2026-10-09 00:02:08",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "蘋果宣佈將於10月13日在紐約舉行名為“歡迎回家”的產品釋出會。"
+    },
+    {
+      "id": "5132899",
+      "time": "2026-10-09 00:01:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國房貸利率觸及7.4%，房主紛紛降價出售】美國30年期固定抵押貸款平均利率升至7.4%，為2023年11月以來最高，進一步削弱了購房需求。隨著買家退出，21%的賣家下調要價，創下Redfin資料中歷年同期最高比例。多個主要市場房價同比下跌，包括達拉斯（-5%）、奧斯汀（-3.4%）和坦帕（-1.9%）。賣家越來越多地提供過戶費補貼和抵押貸款利率買斷，儘管借貸成本高企，議價能力正轉向買家。"
+    },
+    {
+      "id": "mkt:01a11c3f-fdc0-7ee0-a7ff-f87ec6f1dc08",
+      "time": "2026-10-09 00:01:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Audi CEO said the Neckarsulm plant has expertise and history, but that does not guarantee its future."
+    },
+    {
+      "id": "mkt:01a11c3f-cf40-7ee0-a7ff-f4fba3d27d9b",
+      "time": "2026-10-09 00:01:46",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fannie Mae: U.S. 30-year fixed-rate mortgage averaged 7.40% in the week ended Oct. 8, the highest since Nov. 16, 2023, up from 7.28% the prior week."
+    },
+    {
+      "id": "5132898",
+      "time": "2026-10-09 00:00:52",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國抵押貸款利率連續第七週上漲，升至7.4%。"
+    },
+    {
+      "id": "te:markets:590582",
+      "time": "2026-10-09 00:00:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Extend Downturn — European stocks closed sharply lower for a second session on Thursday as sovereign yields reignited their surge. The Euro STOXX 50 fell 0.8% to 6,132 and the STOXX Europe 600 dropped 0.7% to 625.7. Benchmark bond yields across the eurozone's largest economies extended yesterday's surge, especially among more indebted member states, reinforcing concerns over fragmentation across eurozone sovereign bond markets. Contagion fears continued to weigh on banking stocks, with UniCredit, Intesa Sanpaolo, ING, and Santander dropping between 2.5% and 3.1%. In addition, accounts of the latest ECB meeting confirmed that the Governing Council continues to see upside inflation risks in the bloc's economy. Meanwhile, Argenx tumbled over 15% after discontinuing its late-stage study of Vyvgart, a drug for adults with Sjögren's disease."
+    },
+    {
+      "id": "5132897",
+      "time": "2026-10-09 00:00:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際刑事法院認定杜特爾特“適合接受審判”】國際刑事法院8日稱，菲律賓前總統杜特爾特能夠在訴訟程式中有效行使公平審判權，認定其“適合接受審判”。位於荷蘭海牙的國際刑事法院當天釋出宣告說，該院第三審判分庭綜合獨立專家小組調查和各方當事人意見作出以上決定。專家小組一致認為，杜特爾特有能力理解指控，理解訴訟程式、目的和後果，並可以指導律師準備和進行辯護。（新華社）"
+    },
     {
       "id": "mkt:01a11c3e-651d-7ee0-a7ff-ea05389cfb5e",
       "time": "2026-10-09 00:00:13",
