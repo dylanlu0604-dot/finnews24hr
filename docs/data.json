@@ -1,7 +1,130 @@
 {
-  "updated": "2026-10-08 23:48:51",
-  "count": 9208,
+  "updated": "2026-10-08 23:52:44",
+  "count": 9221,
   "items": [
+    {
+      "id": "mkt:01a11c37-20a7-7ee0-a7ff-c026bac723d8",
+      "time": "2026-10-08 23:52:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU Gas Coordination Group says the bloc's gas system has sufficient flexibility for the winter."
+    },
+    {
+      "id": "te:markets:590580",
+      "time": "2026-10-08 23:52:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Plunges to Over Four-Month Low — The FTSE MIB closed 1.4% lower at 49,298 on Thursday, reaching a more than four-month low, weighed down by financials and Milan's bank mergers. Banks underperformed as French concerns continued to pressure the sector, while the Italian government held talks with banks and energy groups over a potential contribution to state finances. MPS fell 2.9% after its second-largest shareholder said it would not support its dual bid for Banco BPM (-2%) and Banca Generali. Crédit Agricole also decided not to tender its Banco BPM shares to MPS. Generali fell 1.4% amid reports it could be preparing a bid for Banca Generali. UniCredit dropped 3.1% as Germany’s finance minister said he was coordinating with counterparts on its takeover bid for Commerzbank. Stellantis lost 3% as higher fuel prices boosted demand for EVs. On the upside, utilities advanced after US-Russia talks on potential US investment in Nord Stream, a pipeline that delivered gas to Germany before the conflict with Ukraine."
+    },
+    {
+      "id": "mkt:01a11c36-d6dd-7ee0-a7ff-bfe33228f444",
+      "time": "2026-10-08 23:51:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi authorities have not yet confirmed an alleged Houthi attack on an airport."
+    },
+    {
+      "id": "5132888",
+      "time": "2026-10-08 23:51:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟天然氣協調小組：液化天然氣供應量將取決於溫度和需求。"
+    },
+    {
+      "id": "5132887",
+      "time": "2026-10-08 23:51:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯官方暫未對胡塞武裝襲擊機場作出立即確認。"
+    },
+    {
+      "id": "te:economy:590579",
+      "time": "2026-10-08 23:51:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Namibia",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Namibia Inflation Rate Hits Over 2-Year High of 5.4% — Namibia's annual inflation rate rose to 5.4% in September 2026, the highest in over two years, from 5.0% in August. The pickup was driven mainly by transportation, where inflation increased to 14.9% from 13.2% in August, owing to fuels (30.4% vs 25.1%). Prices also advanced faster for health (5.3% vs 5%) and hotels, cafés and restaurants (6.3% vs 6.2%), while food & non-alcoholic beverages held steady at 4%. By contrast, housing & utilities eased (4.2% vs 4.3%) and the decline in communication prices narrowed (-0.9% vs -1.1%). On a monthly basis, the CPI rose by 0.4%, slowing from a 0.6% increase in the prior month."
+    },
+    {
+      "id": "mkt:01a11c35-eb72-7ee0-a7ff-b4efab5d0b42",
+      "time": "2026-10-08 23:50:57",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) aims to launch the USSF-481 mission on a Falcon 9 rocket on Thursday, Oct. 15 local time."
+    },
+    {
+      "id": "5132886",
+      "time": "2026-10-08 23:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟：儘管儲氣量較低，天然氣系統已做好應對冬季的準備。"
+    },
+    {
+      "id": "mkt:01a11c35-49bd-7ee0-a7ff-ae2fbce5f2f5",
+      "time": "2026-10-08 23:50:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The EU said that despite low storage levels, the European natural gas system is prepared for winter."
+    },
+    {
+      "id": "5132885",
+      "time": "2026-10-08 23:49:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗原子能組織負責人稱，伊朗不會放棄鈾濃縮活動，也不會交出本國庫存鈾。"
+    },
+    {
+      "id": "5132884",
+      "time": "2026-10-08 23:48:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗瓦希迪少將：任何域外國家均無權威脅或干涉霍爾木茲海峽及波斯灣事務。"
+    },
+    {
+      "id": "mkt:01a11c34-17d4-7ee0-a7ff-a2e976721b31",
+      "time": "2026-10-08 23:48:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemen’s Houthi movement said it fired ballistic missiles at Najran airport and the Khamis Mushait air base in southern Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a11c33-b0c5-7ee0-a7ff-9ec88ed24c72",
+      "time": "2026-10-08 23:48:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's Houthi forces said they used two missiles to attack Riyadh's King Khalid International Airport."
+    },
     {
       "id": "5132883",
       "time": "2026-10-08 23:47:17",
