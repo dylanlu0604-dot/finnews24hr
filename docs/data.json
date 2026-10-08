@@ -1,7 +1,108 @@
 {
-  "updated": "2026-10-08 23:28:45",
-  "count": 9189,
+  "updated": "2026-10-08 23:32:38",
+  "count": 9194,
   "items": [
+    {
+      "id": "mkt:01a11c24-beed-7ee0-a7ff-3c6bfaf0f5a3",
+      "time": "2026-10-08 23:32:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 4-week Treasury bill auction to Oct. 8: share awarded at the stop-out yield 50.05% (prev. 23.52%)."
+    },
+    {
+      "id": "mkt:01a11c24-bc5c-7ee0-a7ff-30d1ad276ba7",
+      "time": "2026-10-08 23:32:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 4-week Treasury auction to Oct 8: bid-cover ratio 2.4; prior 2.83."
+    },
+    {
+      "id": "mkt:01a11c24-bba6-7ee0-a7ff-2a58e90d2810",
+      "time": "2026-10-08 23:32:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 4-week Treasury bill auction to Oct. 8: stop-out yield 3.98% vs 3.89% prior (+9 bps)."
+    },
+    {
+      "id": "mkt:01a11c24-9caf-7ee0-a7ff-20a51a050c6a",
+      "time": "2026-10-08 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Oct.8) | actual 2.4 | previous 2.83"
+    },
+    {
+      "id": "mkt:01a11c24-9c95-7ee0-a7ff-1fc5fc7794f3",
+      "time": "2026-10-08 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Oct.8) | actual 50.05% | previous 23.52%"
+    },
+    {
+      "id": "mkt:01a11c24-9c4f-7ee0-a7ff-154ac4ab0cc2",
+      "time": "2026-10-08 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Oct.8) | actual 3.98% | previous 3.89%"
+    },
+    {
+      "id": "5132861",
+      "time": "2026-10-08 23:31:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：減速傘已展開。"
+    },
+    {
+      "id": "mkt:01a11c24-350e-7ee0-a7ff-0cbe0baaa511",
+      "time": "2026-10-08 23:31:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Poland central bank warns of inflation risk, may raise rates for first time in four years if necessary】Poland central bank governor Adam Glapiński said the bank is prepared to deliver the first rate hike in four years if inflation risks intensify. He added there are currently no signs the recent fuel-price surge is passing through to the broader economy, lowering the likelihood of a November tightening; derivatives-implied odds of a November hike fell after his remarks. The Monetary Policy Council (MPC) led by Glapiński held the policy rate at 3.75% on Wednesday, in line with expectations. A government cap on retail fuel prices is expected to help pull this month’s inflation down from September’s 4% 15-month high."
+    },
+    {
+      "id": "5132860",
+      "time": "2026-10-08 23:31:29",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌0.72%，歐元斯托克指數下跌0.82%，歐元區藍籌股指數下跌0.79%。法國CAC 40指數下跌0.51%，西班牙IBEX指數下跌0.87%，英國富時100指數下跌0.16%，德國DAX指數下跌1.12%。"
+    },
+    {
+      "id": "5132859",
+      "time": "2026-10-08 23:30:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【迪拜航空航班險情中挺身而出 6名以色列人獲表彰】當地時間8日，以色列總統赫爾佐格在總統官邸舉行儀式，向六名以色列人頒發“總統平民英雄獎”。據瞭解，獲得表彰的六人於今年9月30日搭乘一架從阿聯酋迪拜飛往以色列特拉維夫的航班，他們在該航班飛行期間“因表現出非凡的英勇行為”而獲得該榮譽。（央視新聞）"
+    },
+    {
+      "id": "5132858",
+      "time": "2026-10-08 23:29:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA與SpaceX載人飛船恢復通訊。"
+    },
+    {
+      "id": "5132857",
+      "time": "2026-10-08 23:29:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國尋求在Uni-Tile & Marble案中判處超過2.9億美元的總罰款。"
+    },
     {
       "id": "5132856",
       "time": "2026-10-08 23:28:02",
@@ -84380,68 +84481,6 @@
         "國際"
       ],
       "text": "市場訊息：土耳其與聯合國代表計劃同俄羅斯、烏克蘭就黑海停火事宜舉行會談。"
-    },
-    {
-      "id": "5122958",
-      "time": "2026-10-01 23:32:37",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四周期國債，得標利率3.890%，投標倍數2.83。拍賣八週期國債，得標利率3.990%，投標倍數2.70。"
-    },
-    {
-      "id": "5122957",
-      "time": "2026-10-01 23:31:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收跌1.21%，報627.23點。歐元區STOXX 50指數初步收跌1.35%，報6185.56點。富時泛歐績優300指數初步收跌1.15%，報2504.81點。"
-    },
-    {
-      "id": "5122956",
-      "time": "2026-10-01 23:31:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收跌0.93%，報24965.61點。法國股指初步收跌1.49%，義大利股指初步收跌2.01%、銀行指數跌3.65%，英國股指初步收跌1.70%。"
-    },
-    {
-      "id": "5122955",
-      "time": "2026-10-01 23:30:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "通用汽車三季度美國交付67.0974輛，同比下滑5.5%。"
-    },
-    {
-      "id": "5122954",
-      "time": "2026-10-01 23:30:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美元指數突破102關口，日內漲0.53%。"
-    },
-    {
-      "id": "5122953",
-      "time": "2026-10-01 23:30:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "豐田 9 月美國新車銷量增長 8.4%，達 201306 輛。9 月電動化車型銷量佔比達 58.2%。"
-    },
-    {
-      "id": "te:markets:588864",
-      "time": "2026-10-01 23:30:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 12 bps — Majority of government bonds yields are higher on Thursday. Top gainers are Brazil 10Y (12bps), Greece 10Y (11.53bps) and Japan 10Y (3.60bps). Biggest losers are Germany 10Y (-6.03bps) and US 10Y (-1.40bps)."
     }
   ]
 }
