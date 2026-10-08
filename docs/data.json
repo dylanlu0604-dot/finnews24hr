@@ -1,7 +1,65 @@
 {
-  "updated": "2026-10-09 05:01:06",
+  "updated": "2026-10-09 05:04:54",
   "count": 9126,
   "items": [
+    {
+      "id": "mkt:01a11d54-e8fd-7ee0-a805-9874c3435cc8",
+      "time": "2026-10-09 05:04:26",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "The Pentagon awarded Raytheon a $6.3 billion multi-year contract for SM-3 IB interceptors."
+    },
+    {
+      "id": "5133205",
+      "time": "2026-10-09 05:03:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國電信運營商尾盤跌幅擴大，威瑞森股價下跌6.6%，AT&T下跌7.2%，T-Mobile US下跌6.6%。"
+    },
+    {
+      "id": "mkt:01a11d53-47b9-7ee0-a805-90fd3be70897",
+      "time": "2026-10-09 05:02:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said that, despite a defense pact with Saudi Arabia, Turkey will not deploy troops onto foreign territory to carry out attacks."
+    },
+    {
+      "id": "te:markets:590613",
+      "time": "2026-10-09 05:02:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Arab Emirates",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "International Holding Company PJSC Shares Hit 4-year Low — International Holding Company PJSC shares decreased to 358.00 AED, the lowest since October 2022. Over the past 4 weeks, International Holding Company PJSC lost 2.19%, and in the last 12 months, it decreased 10.5%."
+    },
+    {
+      "id": "5133204",
+      "time": "2026-10-09 05:02:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部：RTX旗下雷神獲得63億美元多年期合同，用於生產SM-3 IB攔截彈。"
+    },
+    {
+      "id": "mkt:01a11d51-efaa-7ee0-a805-8d6f3c458efe",
+      "time": "2026-10-09 05:01:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury is cutting off funding Tehran uses to wage war in the region and will continue to expose entities that help the regime sell oil. She warned anyone assisting Iran to evade sanctions will not escape comprehensive Treasury sanctions."
+    },
     {
       "id": "mkt:01a11d51-3e50-7ee0-a805-82dcf89dfc36",
       "time": "2026-10-09 05:00:25",
@@ -83633,57 +83691,6 @@
         "公司"
       ],
       "text": "耐克執行長：大中華區、喬丹品牌與運動服飾業務的修復尚需時日。"
-    },
-    {
-      "id": "5123368",
-      "time": "2026-10-02 05:02:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國海軍授予雷神技術公司（RTX）一份價值244億美元的標準-6導彈多年生產合同。"
-    },
-    {
-      "id": "mkt:01a0f946-e6fb-7ee0-a77f-446f03c7e26d",
-      "time": "2026-10-02 05:02:48",
-      "tags": [
-        "MKT News",
-        "RTX.O",
-        "Impact bullish"
-      ],
-      "text": "The U.S. Navy awarded Raytheon a $24.4 billion multi-year contract to produce the Standard Missile-6 (SM-6)."
-    },
-    {
-      "id": "mkt:01a0f946-d36f-7ee0-a77f-3f7b563f01db",
-      "time": "2026-10-02 05:02:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Cairo News reported an Egyptian official said Egypt has declared an Ethiopian embassy counselor persona non grata and ordered the diplomat to leave within 48 hours."
-    },
-    {
-      "id": "5123367",
-      "time": "2026-10-02 05:02:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局：五年基礎合同期持續至 2031 年 9 月 30 日。"
-    },
-    {
-      "id": "5123366",
-      "time": "2026-10-02 05:02:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局：簽訂總價值 14 億美元一攬子採購協議。"
-    },
-    {
-      "id": "5123365",
-      "time": "2026-10-02 05:01:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局：選定 16 家企業提供相關服務。"
     }
   ]
 }
