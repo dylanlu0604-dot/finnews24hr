@@ -1,7 +1,103 @@
 {
   "date": "2026-10-09",
-  "count": 349,
+  "count": 360,
   "items": [
+    {
+      "id": "5133185",
+      "time": "2026-10-09 04:33:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic宣佈禁止“虐待”其旗下AI】據報道，Anthropic對其AI使用政策作出調整，以應對新的高風險濫用行為，包括選舉干預、武器開發、監控，以及醫療和金融領域的應用。但其中一項最重要的變化是，禁止對Claude進行“持續且不必要的虐待或殘忍行為”。去年8月，該公司宣佈，作為其“模型福祉”研究的一部分，將允許Claude終止與“持續實施有害或辱罵行為”的使用者的對話。此次更新指出，終止對話仍是“主要執行機制”；對於是否會採取進一步的執行措施（例如可能封禁使用者），Anthropic未予置評。Anthropic表示，新政策更新“僅適用於極端情況，即使用者在毫無明顯目的的情況下反覆對我們的模型實施殘酷行為。該政策不適用於使用者常見的不滿、反駁、黑暗創意主題，以及模型測試和研究等情況。”"
+    },
+    {
+      "id": "5133184",
+      "time": "2026-10-09 04:32:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心稱西蒙幾乎已成為颶風，向墨西哥西南部和中西部發布颶風警報。"
+    },
+    {
+      "id": "mkt:01a11d37-aa6f-7ee0-a805-5aeb52a8ea45",
+      "time": "2026-10-09 04:32:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Anthropic updates AI-use policy to ban persistent, unnecessary abuse of Claude】Anthropic revised its AI-use policy to bar high-risk misuse — including election interference, weapons development, surveillance, and medical and financial applications — and to prohibit persistent and unnecessary abuse or cruelty toward its model Claude. The firm said terminating conversations remains the primary enforcement mechanism and declined to comment on whether it will take further measures such as account bans. The update follows an August policy that allowed Claude to end dialogues with users who repeatedly engage in harmful or abusive behavior and clarifies the new rule applies only to extreme, purposeless repeated cruelty; it excludes routine complaints, legitimate challenge, dark creative prompts, and model testing or research."
+    },
+    {
+      "id": "5133183",
+      "time": "2026-10-09 04:32:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官員：伊朗因美國封鎖和制裁已停止原油船隻的裝卸。"
+    },
+    {
+      "id": "5133182",
+      "time": "2026-10-09 04:32:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統：伊朗不會退出談判桌】據報道，伊朗總統佩澤希齊揚在會見俄羅斯總統普京時表示，伊朗正在進行對話，但每次與美國談判，他們都會再次發動襲擊。伊朗不會退出談判桌，也不會放棄對話。伊方透過中間人與美方交換的提案，在最終敲定後將進行彙總整理。美國試圖將自己的政策和主張強加於所有國家，並謀求支配其他國家。如今，美國還試圖將其國內政策強加給其他國家。"
+    },
+    {
+      "id": "mkt:01a11d37-298d-7ee0-a805-51c8427ec478",
+      "time": "2026-10-09 04:31:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury official: Iran has halted loading and unloading of crude tankers due to U.S. blockades and sanctions."
+    },
+    {
+      "id": "5133181",
+      "time": "2026-10-09 04:31:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "Humana股價上漲17%，此前其聯邦醫療保險星級評級有所改善。"
+    },
+    {
+      "id": "5133180",
+      "time": "2026-10-09 04:31:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "位元小鹿AI簽署8年期協議，在馬來西亞賽城獲得60兆瓦A103設施。"
+    },
+    {
+      "id": "5133179",
+      "time": "2026-10-09 04:30:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "Verizon股價在盤後交易中下跌5.1%，AT&T股價下跌5.8%，T-Mobile美國股價下跌5.8%。"
+    },
+    {
+      "id": "5133178",
+      "time": "2026-10-09 04:30:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貨幣監理署(OCC)稱，美國運通在過去十年中未能及時識別、評估並充分報告約130億美元涉嫌貿易洗錢的活動。"
+    },
+    {
+      "id": "5133177",
+      "time": "2026-10-09 04:30:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行監管機構因美國運通國家銀行在反洗錢管控方面存在缺陷，對其處以3.5億美元罰款。"
+    },
     {
       "id": "5133176",
       "time": "2026-10-09 04:29:33",
