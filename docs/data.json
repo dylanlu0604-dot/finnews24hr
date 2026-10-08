@@ -1,7 +1,113 @@
 {
-  "updated": "2026-10-08 09:39:15",
-  "count": 9036,
+  "updated": "2026-10-08 09:43:01",
+  "count": 9039,
   "items": [
+    {
+      "id": "5131043",
+      "time": "2026-10-08 09:42:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7244.00點。"
+    },
+    {
+      "id": "mkt:01a1192c-fbb0-7ee0-a7e5-93d14c67446c",
+      "time": "2026-10-08 09:42:20",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "FTSE China A50 index futures gains widened to 1%."
+    },
+    {
+      "id": "5131042",
+      "time": "2026-10-08 09:42:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：今年內不會支付價格措施款項。"
+    },
+    {
+      "id": "5131041",
+      "time": "2026-10-08 09:41:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期前3天高速公路新能源汽車充電近300萬次、充電量超0.71億千瓦時】國慶假期前3天新能源汽車充電需求旺盛，高速公路充電基礎設施執行平穩。10月1日0時至10月3日24時，透過對納入國家充電設施監測服務平臺的6.27萬個高速公路充電設施（槍）進行統計分析，今年國慶假期前三天全國高速公路新能源汽車充電次數共計296.86萬次，日均98.95萬次，較去年國慶假期同期增長48.41%；充電量達到7161.93萬千瓦時，日均2387.31萬千瓦時，較去年國慶假期同期增長49.39%，節假日綠色出行滲透率持續提升，人民群眾使用新能源汽車長途旅行趨勢愈發明顯。 未來幾天，將迎來國慶假期返程高峰，國家能源局將會同有關方面進一步加強排程監測，持續做好假期新能源汽車的出行保障。（國家能源局）"
+    },
+    {
+      "id": "5131040",
+      "time": "2026-10-08 09:40:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲幅擴大至1%。"
+    },
+    {
+      "id": "mkt:01a1192b-28b9-7ee0-a7e5-8ace235fa904",
+      "time": "2026-10-08 09:40:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "601398.SS",
+        "Impact bullish"
+      ],
+      "text": "【ICBC A-shares hit record intraday high】Industrial and Commercial Bank of China A-shares hit a record intraday high, trading up 0.72% at 8.34 yuan."
+    },
+    {
+      "id": "5131039",
+      "time": "2026-10-08 09:40:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲3%，現報1489.50元。"
+    },
+    {
+      "id": "mkt:01a1192a-e137-7ee0-a7e5-800cdf3f0854",
+      "time": "2026-10-08 09:40:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said US Middle East special envoy Witkoff is working to reach an agreement with Iran and has made very good progress."
+    },
+    {
+      "id": "5131038",
+      "time": "2026-10-08 09:39:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工商銀行股價創歷史新高】工商銀行盤中股價創歷史新高，現漲0.72%，報8.34元。"
+    },
+    {
+      "id": "5131037",
+      "time": "2026-10-08 09:39:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥板塊高開低走，艾力斯20cm跌停】創新藥板塊高開低走，艾力斯20cm跌停，百普賽斯、亞虹醫藥跌超10%，泰諾麥博、邁威生物、賽倫生物、匯宇製藥、麗珠集團跟跌。"
+    },
+    {
+      "id": "mkt:01a11929-e595-7ee0-a7e5-7c3046ca5eec",
+      "time": "2026-10-08 09:38:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Market sources: US President Trump said Iranians are willing to offer any terms to prevent further developments, though reaching an agreement \"is not really the option I want\"."
+    },
     {
       "id": "5131036",
       "time": "2026-10-08 09:38:43",
@@ -83079,82 +83185,6 @@
         "公司"
       ],
       "text": "奈飛聯席執行長表示，希望公司增長速度能更快。"
-    },
-    {
-      "id": "5121940",
-      "time": "2026-10-01 09:42:50",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【今天起房貸利息“國補”啟動，另一項財政增量政策將出】房貸利息財政貼息被一些老百姓稱之為房貸利息“國補”，今天起這項惠民政策正式開啟。多位財稅專家表示，房貸利息“國補”政策落地可以減輕中低收入群體購房的房貸成本，助力更多的人住有所居，體現了更多財政資金“投資於人”，有利於託舉房地產合理購房需求，推動樓市穩定，促進消費。房貸利息“國補”政策只是第四季度國家出臺的財政增量政策之一，而另一項財政增量政策也將醞釀出臺。9月28日召開的國務院常務會議在部署提及推出一批務實管用的增量政策時要求，“用好地方政府債務結存限額”。多位財稅專家告訴第一財經，這意味著今年第四季度地方政府可以動用債務存量限額，額外發行部分新增地方政府債券，籌集資金用於專案建設等，從而推動經濟平穩增長。（第一財經）"
-    },
-    {
-      "id": "5121939",
-      "time": "2026-10-01 09:41:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士表示將重新審視與SOLIDIGM相關的股東保護措施。"
-    },
-    {
-      "id": "te:economy:588450",
-      "time": "2026-10-01 09:41:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "Australia Posts Smallest Trade Surplus in 3 Months — Australia’s trade surplus narrowed to AUD 0.50 billion in August 2026 from a downwardly revised AUD 1.35 billion surplus in the previous month, and was far below market expectations of an AUD 2 billion deficit. It was the smallest trade surplus since May, when the trade balance posted a deficit, as exports rose less than imports. Imports grew 5.8% month-on-month to a record high of AUD 46.94 billion, after a downwardly revised 2.4% drop in July, driven by ADP equipment and non-monetary gold. Meanwhile, exports rose 3.7% month-on-month to a 29-month high of AUD 47.43 billion in August, rebounding from a revised 3.6% fall in July, primarily boosted by higher exports of non-monetary gold and coal, coke, and briquettes."
-    },
-    {
-      "id": "te:markets:588449",
-      "time": "2026-10-01 09:41:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Futures Hold Rebound — US gasoline futures held above $3.25 per gallon after rebounding from a four-week low, supported by tighter US fuel inventories and uncertainty over global energy supplies. EIA data showed US gasoline inventories fell by 1.7 million barrels in the week ended September 25, while refinery utilization declined to 92.5%. Global fuel markets remained affected by Russia’s extension of restrictions on most diesel exports through October, keeping global distillate markets tight. Meanwhile, lower risk of a US diesel export ban eased some concerns over higher gasoline prices, as President Trump signaled less support for the measure. Energy Secretary Chris Wright said the administration expected announcements soon from Europe on additional diesel supplies, while the White House urged the EU to draw down emergency diesel inventories. Gasoline prices remained below their peaks following the US summer driving season."
-    },
-    {
-      "id": "5121938",
-      "time": "2026-10-01 09:40:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率上漲4.5個基點，至3.945%。"
-    },
-    {
-      "id": "5121937",
-      "time": "2026-10-01 09:40:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率上升5個基點，至4.19%。"
-    },
-    {
-      "id": "5121936",
-      "time": "2026-10-01 09:39:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：韓國將升級導彈防禦系統，包括基於人工智慧的指揮網路和鐳射攔截器。"
-    },
-    {
-      "id": "5121935",
-      "time": "2026-10-01 09:39:35",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際",
-        "原創"
-      ],
-      "text": "【T. Rowe稱10年期美債收益率有充分理由升至6%】T. Rowe Price多資產全球收益策略的聯席投資組合經理David Clewell表示，10年期美國國債收益率5%的水平一直是投資人關注的重要心理關口。一旦像這樣的關鍵技術水準遭到突破，系統化及量化交易倉位可能會放大走勢，引發進一步賣壓。不過，重要的是要把近期走勢的速度與幅度，和背後的基本面因素區分開來。這波拋售異常猛烈，但整體方向符合我們的看法，也就是長天期收益率仍可能進一步走高。鑑於美國經濟增長展現韌性，10年期美債收益率升向5.5%至6%，是有充分理由支援的情境。"
     }
   ]
 }

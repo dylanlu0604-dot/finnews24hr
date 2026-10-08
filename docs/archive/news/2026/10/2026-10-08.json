@@ -1,7 +1,113 @@
 {
   "date": "2026-10-08",
-  "count": 712,
+  "count": 723,
   "items": [
+    {
+      "id": "5131043",
+      "time": "2026-10-08 09:42:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7244.00點。"
+    },
+    {
+      "id": "mkt:01a1192c-fbb0-7ee0-a7e5-93d14c67446c",
+      "time": "2026-10-08 09:42:20",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "FTSE China A50 index futures gains widened to 1%."
+    },
+    {
+      "id": "5131042",
+      "time": "2026-10-08 09:42:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：今年內不會支付價格措施款項。"
+    },
+    {
+      "id": "5131041",
+      "time": "2026-10-08 09:41:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶假期前3天高速公路新能源汽車充電近300萬次、充電量超0.71億千瓦時】國慶假期前3天新能源汽車充電需求旺盛，高速公路充電基礎設施執行平穩。10月1日0時至10月3日24時，透過對納入國家充電設施監測服務平臺的6.27萬個高速公路充電設施（槍）進行統計分析，今年國慶假期前三天全國高速公路新能源汽車充電次數共計296.86萬次，日均98.95萬次，較去年國慶假期同期增長48.41%；充電量達到7161.93萬千瓦時，日均2387.31萬千瓦時，較去年國慶假期同期增長49.39%，節假日綠色出行滲透率持續提升，人民群眾使用新能源汽車長途旅行趨勢愈發明顯。 未來幾天，將迎來國慶假期返程高峰，國家能源局將會同有關方面進一步加強排程監測，持續做好假期新能源汽車的出行保障。（國家能源局）"
+    },
+    {
+      "id": "5131040",
+      "time": "2026-10-08 09:40:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲幅擴大至1%。"
+    },
+    {
+      "id": "mkt:01a1192b-28b9-7ee0-a7e5-8ace235fa904",
+      "time": "2026-10-08 09:40:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "601398.SS",
+        "Impact bullish"
+      ],
+      "text": "【ICBC A-shares hit record intraday high】Industrial and Commercial Bank of China A-shares hit a record intraday high, trading up 0.72% at 8.34 yuan."
+    },
+    {
+      "id": "5131039",
+      "time": "2026-10-08 09:40:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲3%，現報1489.50元。"
+    },
+    {
+      "id": "mkt:01a1192a-e137-7ee0-a7e5-800cdf3f0854",
+      "time": "2026-10-08 09:40:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said US Middle East special envoy Witkoff is working to reach an agreement with Iran and has made very good progress."
+    },
+    {
+      "id": "5131038",
+      "time": "2026-10-08 09:39:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工商銀行股價創歷史新高】工商銀行盤中股價創歷史新高，現漲0.72%，報8.34元。"
+    },
+    {
+      "id": "5131037",
+      "time": "2026-10-08 09:39:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥板塊高開低走，艾力斯20cm跌停】創新藥板塊高開低走，艾力斯20cm跌停，百普賽斯、亞虹醫藥跌超10%，泰諾麥博、邁威生物、賽倫生物、匯宇製藥、麗珠集團跟跌。"
+    },
+    {
+      "id": "mkt:01a11929-e595-7ee0-a7e5-7c3046ca5eec",
+      "time": "2026-10-08 09:38:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Market sources: US President Trump said Iranians are willing to offer any terms to prevent further developments, though reaching an agreement \"is not really the option I want\"."
+    },
     {
       "id": "5131036",
       "time": "2026-10-08 09:38:43",
