@@ -1,7 +1,70 @@
 {
   "date": "2026-10-08",
-  "count": 2013,
+  "count": 2020,
   "items": [
+    {
+      "id": "5132875",
+      "time": "2026-10-08 23:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：1月至9月交付量547架。"
+    },
+    {
+      "id": "5132874",
+      "time": "2026-10-08 23:42:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：1-9月淨飛機訂單量為1105架。"
+    },
+    {
+      "id": "5132873",
+      "time": "2026-10-08 23:42:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客9月飛機總訂單為17架。"
+    },
+    {
+      "id": "mkt:01a11c2d-f557-7ee0-a7ff-8afce9b7e45b",
+      "time": "2026-10-08 23:42:16",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus delivered 72 aircraft in September; total orders stood at 17 aircraft."
+    },
+    {
+      "id": "5132872",
+      "time": "2026-10-08 23:42:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客9月交付飛機72架。"
+    },
+    {
+      "id": "5132871",
+      "time": "2026-10-08 23:40:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界氣象組織預測今年第四季度出現厄爾尼諾增強現象】世界氣象組織網站8日釋出通報說，預計今年第四季度將出現厄爾尼諾增強現象，這將影響全球的天氣模式，並對全球經濟、生態系統和社群產生影響。（新華社）"
+    },
+    {
+      "id": "mkt:01a11c2c-477c-7ee0-a7ff-8742140da13d",
+      "time": "2026-10-08 23:40:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ING: ECB September hike widely supported, October hike unlikely】ING economist Carsten Brzeski said ECB minutes from September show the decision to raise rates had broad support, but internal discussion was more balanced than ECB President LAGARDE’s post-meeting remarks implied, making a further hike in October unlikely. Some officials judged the energy shock may be shorter than previously assumed, while others questioned claims of the economy’s resilience to the shock. Continued rises in bond yields have reinforced views among some officials that additional tightening is unnecessary. Brzeski added that, with the bond market effectively tightening financial conditions for the ECB, appetite for further rate increases may be weaker than at the September meeting."
+    },
     {
       "id": "mkt:01a11c2b-8adf-7ee0-a7ff-7e198f5ae96b",
       "time": "2026-10-08 23:39:37",

@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-08 23:40:30",
-  "count": 9204,
+  "updated": "2026-10-08 23:44:30",
+  "count": 9203,
   "items": [
+    {
+      "id": "5132875",
+      "time": "2026-10-08 23:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：1月至9月交付量547架。"
+    },
+    {
+      "id": "5132874",
+      "time": "2026-10-08 23:42:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：1-9月淨飛機訂單量為1105架。"
+    },
+    {
+      "id": "5132873",
+      "time": "2026-10-08 23:42:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客9月飛機總訂單為17架。"
+    },
+    {
+      "id": "mkt:01a11c2d-f557-7ee0-a7ff-8afce9b7e45b",
+      "time": "2026-10-08 23:42:16",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus delivered 72 aircraft in September; total orders stood at 17 aircraft."
+    },
+    {
+      "id": "5132872",
+      "time": "2026-10-08 23:42:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客9月交付飛機72架。"
+    },
+    {
+      "id": "5132871",
+      "time": "2026-10-08 23:40:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界氣象組織預測今年第四季度出現厄爾尼諾增強現象】世界氣象組織網站8日釋出通報說，預計今年第四季度將出現厄爾尼諾增強現象，這將影響全球的天氣模式，並對全球經濟、生態系統和社群產生影響。（新華社）"
+    },
+    {
+      "id": "mkt:01a11c2c-477c-7ee0-a7ff-8742140da13d",
+      "time": "2026-10-08 23:40:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【ING: ECB September hike widely supported, October hike unlikely】ING economist Carsten Brzeski said ECB minutes from September show the decision to raise rates had broad support, but internal discussion was more balanced than ECB President LAGARDE’s post-meeting remarks implied, making a further hike in October unlikely. Some officials judged the energy shock may be shorter than previously assumed, while others questioned claims of the economy’s resilience to the shock. Continued rises in bond yields have reinforced views among some officials that additional tightening is unnecessary. Brzeski added that, with the bond market effectively tightening financial conditions for the ECB, appetite for further rate increases may be weaker than at the September meeting."
+    },
     {
       "id": "mkt:01a11c2b-8adf-7ee0-a7ff-7e198f5ae96b",
       "time": "2026-10-08 23:39:37",
@@ -84495,81 +84558,6 @@
         "國際"
       ],
       "text": "【美國“龍”飛船送新一批宇航員飛赴國際空間站】美國太空探索技術公司的“龍”飛船10月1日搭載4名宇航員升空，開啟前往國際空間站的載人飛行任務。“龍”飛船於美國東部時間1日11時10分許（北京時間1日23時10分許）搭乘“獵鷹9”號火箭從佛羅里達州卡納維拉爾角太空軍基地發射升空。隨後，飛船與火箭分離，繼續飛往國際空間站。按計劃，“龍”飛船將飛行約8小時後與國際空間站對接。此次任務代號為“載人13號”，是載人“龍”飛船第13次執行為國際空間站運送輪換宇航員的任務。飛船上的4名宇航員分別是美國航空航天局宇航員傑茜卡·沃特金斯和盧克·德萊尼，加拿大航天局宇航員喬舒亞·庫特里克，俄羅斯國家航天集團宇航員謝爾蓋·捷捷里亞尼科夫。（央視新聞）"
-    },
-    {
-      "id": "5122969",
-      "time": "2026-10-01 23:44:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：新建石油管道或將為麥克默裡堡地區帶來持續性增長，而非短期繁榮。"
-    },
-    {
-      "id": "5122968",
-      "time": "2026-10-01 23:43:53",
-      "tags": [
-        "央行",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "交易員不再完全定價英國央行在 2027 年底前加息 4 次。"
-    },
-    {
-      "id": "5122967",
-      "time": "2026-10-01 23:42:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率跌10個基點，報4.785%。"
-    },
-    {
-      "id": "5122966",
-      "time": "2026-10-01 23:42:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：擬議新建石油管道將每年為石油企業額外帶來 60 億加元收入。"
-    },
-    {
-      "id": "5122965",
-      "time": "2026-10-01 23:42:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "知情人士透露：德國政府草案預計該國 2028 年經濟增長 0.6%。\n將 2027 年經濟增長預期上調至 1.1%，4 月預測值為 0.9%。\n將 2026 年經濟增長預期上調至 1.3%，4 月預測值為 0.5%。"
-    },
-    {
-      "id": "te:markets:588869",
-      "time": "2026-10-01 23:41:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Sugar Futures Remain High — US sugar futures traded near 19 per pound, close to their highest since April 2025, amid growing supply concerns. While current supplies remain ample, the outlook is tightening rapidly as El Niño raises the risk of a deficit in the new season. Sugar is particularly exposed, with production concentrated in Brazil, India and Thailand, where weather risks are already mounting. StoneX recently projected a global sugar deficit of 900,000 tons in 2026/27, with several major producers expected to see lower output, including Thailand, India and the European Union. Thai production is expected to fall by at least 17% to below 10 million tons, while below-normal monsoon rainfall is raising concerns over India’s cane yields. In Europe, extreme summer heat is weighing on the sugar-beet crop, with output expected to decline by 19%. Meanwhile, wetter-than-normal conditions in Brazil’s Center-South are delaying harvesting and crushing, limiting mills’ ability to increase sugar production."
-    },
-    {
-      "id": "5122964",
-      "time": "2026-10-01 23:41:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭在實戰中發射 FP-7 彈道導彈。"
-    },
-    {
-      "id": "te:markets:588867",
-      "time": "2026-10-01 23:40:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "Treasury Sell-Off Eases — The yield on the US 10-year Treasury note topped 5.3% on Thursday, its highest level since early 2002, before retreating slightly to 5.27%. The bond market has remained under pressure amid expectations of further monetary policy tightening by the Fed, as persistent inflationary pressures from higher oil prices and the lack of a resolution to the Middle East conflict continue to weigh on sentiment. Concerns over the US fiscal and debt outlook, along with resilient economic data, have added to the pressure. The ISM Manufacturing PMI edged lower in September but still pointed to solid manufacturing activity, while the prices paid gauge soared. The jobs report due tomorrow will provide a fresh update on labor-market conditions and will help shape expectations for the Fed’s policy path. Traders have fully priced in a 25 bps rate hike by the Fed this year, although the probability of such a move in October has fallen to 34% from 70% last week."
     }
   ]
 }
