@@ -1,7 +1,40 @@
 {
   "date": "2026-10-09",
-  "count": 384,
+  "count": 387,
   "items": [
+    {
+      "id": "mkt:01a11d51-3e50-7ee0-a805-82dcf89dfc36",
+      "time": "2026-10-09 05:00:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【NYT: US military readies options for large-scale strikes on Iran; Trump repeatedly vetoed plans】The New York Times, citing US officials, reports the Pentagon has drawn up options to resume large-scale strikes on Iran, including plans to hit Iranian drone and missile stockpiles, energy infrastructure and other military targets. Three aircraft carriers are due to arrive in the Middle East. Officials said Trump's national security team and the Pentagon presented him with proposals for major action against Iran or Houthi forces five times in recent months; each was vetoed, though Trump has recently ordered a strike plan activated. Vice President Pence led senior national security officials at a Camp David meeting last Friday. Sources said the core option envisages a short, high‑intensity operation of roughly three days, with potential targets including missile and drone arsenals, energy facilities and IRGC command centers and headquarters. Trump has said talks with Iran are productive and he would not attack before the midterm elections."
+    },
+    {
+      "id": "5133203",
+      "time": "2026-10-09 04:59:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，颶風獵人偵察機發現“伊薩亞斯”目前風速達每小時100英里，預警區域內應於今天儘快完成防範風暴潮和破壞性大風的各項準備，以保護生命和財產安全。"
+    },
+    {
+      "id": "te:economy:590612",
+      "time": "2026-10-09 04:58:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Central Bank Hikes Policy Rate — Uruguay’s central bank raised its monetary policy rate by 25 bps to 6.0%, aiming to keep inflation expectations anchored and bring inflation toward the 4.5% target over the two-year monetary policy horizon. The bank said international geopolitical tensions continue to push up energy prices and, indirectly, those of other tradable goods, contributing to upward revisions in inflation expectations. Against this backdrop, rates at major central banks and in international financial markets have also moved higher. Domestically, the economy is showing signs of resilience after sector-specific and weather-related shocks temporarily affected activity. The bank said inflation remains on a convergent path toward the target as these temporary effects fade, but warned that persistent geopolitical and climate-related shocks pose significant risks to prices and inflation expectations."
+    },
     {
       "id": "5133202",
       "time": "2026-10-09 04:52:45",

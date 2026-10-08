@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-09 04:57:18",
-  "count": 9129,
+  "updated": "2026-10-09 05:01:06",
+  "count": 9126,
   "items": [
+    {
+      "id": "mkt:01a11d51-3e50-7ee0-a805-82dcf89dfc36",
+      "time": "2026-10-09 05:00:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【NYT: US military readies options for large-scale strikes on Iran; Trump repeatedly vetoed plans】The New York Times, citing US officials, reports the Pentagon has drawn up options to resume large-scale strikes on Iran, including plans to hit Iranian drone and missile stockpiles, energy infrastructure and other military targets. Three aircraft carriers are due to arrive in the Middle East. Officials said Trump's national security team and the Pentagon presented him with proposals for major action against Iran or Houthi forces five times in recent months; each was vetoed, though Trump has recently ordered a strike plan activated. Vice President Pence led senior national security officials at a Camp David meeting last Friday. Sources said the core option envisages a short, high‑intensity operation of roughly three days, with potential targets including missile and drone arsenals, energy facilities and IRGC command centers and headquarters. Trump has said talks with Iran are productive and he would not attack before the midterm elections."
+    },
+    {
+      "id": "5133203",
+      "time": "2026-10-09 04:59:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，颶風獵人偵察機發現“伊薩亞斯”目前風速達每小時100英里，預警區域內應於今天儘快完成防範風暴潮和破壞性大風的各項準備，以保護生命和財產安全。"
+    },
+    {
+      "id": "te:economy:590612",
+      "time": "2026-10-09 04:58:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Central Bank Hikes Policy Rate — Uruguay’s central bank raised its monetary policy rate by 25 bps to 6.0%, aiming to keep inflation expectations anchored and bring inflation toward the 4.5% target over the two-year monetary policy horizon. The bank said international geopolitical tensions continue to push up energy prices and, indirectly, those of other tradable goods, contributing to upward revisions in inflation expectations. Against this backdrop, rates at major central banks and in international financial markets have also moved higher. Domestically, the economy is showing signs of resilience after sector-specific and weather-related shocks temporarily affected activity. The bank said inflation remains on a convergent path toward the target as these temporary effects fade, but warned that persistent geopolitical and climate-related shocks pose significant risks to prices and inflation expectations."
+    },
     {
       "id": "5133202",
       "time": "2026-10-09 04:52:45",
@@ -83651,55 +83684,6 @@
         "國際"
       ],
       "text": "美國國家航空航天局：選定 16 家企業提供相關服務。"
-    },
-    {
-      "id": "5123364",
-      "time": "2026-10-02 05:00:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家航空航天局授予企業級後勤保障服務合同。"
-    },
-    {
-      "id": "5123363",
-      "time": "2026-10-02 05:00:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國能源服務公司擬收購 FAMCO。"
-    },
-    {
-      "id": "5123362",
-      "time": "2026-10-02 05:00:10",
-      "tags": [
-        "資料"
-      ],
-      "text": "紐西蘭9月消費者信心指數降至97.6。"
-    },
-    {
-      "id": "5123361",
-      "time": "2026-10-02 04:59:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際金價漲約0.5%，費城金銀指數收跌0.9%】週四（10月1日）紐約尾盤，現貨黃金漲0.47%，報4177.04美元/盎司，日內主要處於上漲狀態、北京時間13:37重新整理日高至4192.99點。現貨白銀漲0.93%，報60.9887美元/盎司，13:37重新整理日高至61.4332美元。COMEX銅期貨跌0.68%，報6.5765美元/磅，16:00前後短線快速擴大跌幅。在美股時段交易的費城金銀指數收跌0.90%，報357.91點。在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌1.16%，報2493.33點。在美股時段交易的原材料指數收跌0.28%，全時段處於下跌狀態、跳空低開之後逐步收復失地；金屬與礦業指數收漲0.22%。State Street金屬與礦業ETF收漲0.7%，報104.29美元。"
-    },
-    {
-      "id": "mkt:01a0f943-392f-7ee0-a77f-352eab19f185",
-      "time": "2026-10-02 04:58:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fighting intensifies in southwest Yemen; government says 30 Houthi fighters killed】Sanaa — Yemen Republic TV reported on the 1st that fighting has escalated across multiple fronts in Taiz province in southwest Yemen. A government statement said forces killed 30 Houthi fighters and wounded 50 in clashes in southern Taiz."
-    },
-    {
-      "id": "5123360",
-      "time": "2026-10-02 04:58:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門西南省份戰事加劇 30名胡塞武裝人員被打死】薩那訊息：據葉門共和國電視臺1日報道稱，葉門西南部塔伊茲省多個戰線戰鬥加劇。報道援引政府軍宣告說，政府軍當天在塔伊茲省南部地區與胡塞武裝激戰，打死30名胡塞武裝人員，打傷50人。另據葉門政府軍訊息，自1日清晨以來，塔伊茲省5條戰線持續交戰，政府軍和胡塞武裝均遭受重大人員傷亡。一名不願透露姓名的軍方人士稱，當天戰事從清晨開始，雙方進行猛烈炮擊，並發動無人機攻擊。截至1日下午戰鬥仍在持續。政府軍加大地面軍事行動力度。此外，沙烏地阿拉伯戰機當天也對塔伊茲省受胡塞武裝控制的多處陣地發動空襲。（新華社）"
     }
   ]
 }
