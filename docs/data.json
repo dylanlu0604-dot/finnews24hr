@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-09 08:41:54",
-  "count": 9121,
+  "updated": "2026-10-09 08:45:41",
+  "count": 9122,
   "items": [
+    {
+      "id": "mkt:01a11e1e-e44b-7ee0-a806-d4f6513fdaa1",
+      "time": "2026-10-09 08:45:03",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "Japan's finance minister Katayama said a Japan version of the \"DOGE initiative\" is crucial for the Sanae Takaichi cabinet to pursue growth-promoting budgets while maintaining fiscal sustainability."
+    },
+    {
+      "id": "5133599",
+      "time": "2026-10-09 08:43:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：敦促金融機構審查網路安全。"
+    },
+    {
+      "id": "5133598",
+      "time": "2026-10-09 08:43:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：日本的DOGE倡議對於高市政府推行在維持財政可持續性的同時促進增長的預算不可或缺。"
+    },
+    {
+      "id": "5133596",
+      "time": "2026-10-09 08:42:41",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "HSBC：將華能國際A股評級上調至買進，目標價8元；將華電國際A股評級上調至買進，目標價6.30元。"
+    },
+    {
+      "id": "5133591",
+      "time": "2026-10-09 08:41:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：將加強對支出的審查。"
+    },
+    {
+      "id": "te:markets:590631",
+      "time": "2026-10-09 08:41:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mizuho Financial Shares Hit 6-week Low — Mizuho Financial shares decreased to 8277.00 JPY, the lowest since August 2026. Over the past 4 weeks, Mizuho Financial lost 3.51%, and in the last 12 months, it increased 74.6%."
+    },
     {
       "id": "5133585",
       "time": "2026-10-09 08:40:30",
@@ -83585,53 +83641,6 @@
         "Importance 2"
       ],
       "text": "Japanese Shares Fall as Oil Prices Gain — The Nikkei 225 Index fell 0.6% to around 68,500 on Friday, ending a two-day winning streak as oil prices climbed amid concerns that a potential escalation in the US-Iran conflict could further disrupt Middle East energy supplies and reignite inflation pressures. Investors also assessed data showing Tokyo’s core inflation accelerated to 2.7% in September, rising above the Bank of Japan’s 2% target for the first time in nine months, partly due to higher oil prices. In corporate news, SoftBank Group said it completed the third and final $10 billion tranche of its follow-on investment in OpenAI, bringing its total investment in the AI company to $64.6 billion for an ownership stake of about 13%. Notable declines came from major firms including Kioxia (-2.3%), SoftBank (-3.8%), Taiyo Yuden (-3.3%), Fast Retailing (-1.5%) and Toyota (-1.8%). For the week, the Nikkei remains on track to advance more than 3%, marking its third consecutive weekly gain."
-    },
-    {
-      "id": "5123515",
-      "time": "2026-10-02 08:45:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國稱，非江南區域房價持續上漲。"
-    },
-    {
-      "id": "5123514",
-      "time": "2026-10-02 08:44:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國表示，債券市場收益率已普遍上行。"
-    },
-    {
-      "id": "mkt:01a0fa10-a810-7ee0-a781-f91e56f12337",
-      "time": "2026-10-02 08:43:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's finance ministry said it may further cut government bond issuance if needed."
-    },
-    {
-      "id": "mkt:01a0fa10-9450-7ee0-a781-f62ff76d7c5d",
-      "time": "2026-10-02 08:43:05",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Houthi forces strike Saudi-led coalition facility in Aden; declare maritime blockade】On Oct 2 local time Houthis struck a Saudi-led coalition military facility in Aden with drones and missiles; explosions were reported and casualties are unclear. Houthis have stepped up offensives against government forces and announced a maritime blockade targeting Saudi Arabia for its support of the Yemeni government. The conflict between Houthis and Saudi-linked forces has escalated, with reciprocal missile and drone strikes reported."
-    },
-    {
-      "id": "5123513",
-      "time": "2026-10-02 08:42:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝襲擊地區軍事設施 葉門亞丁傳出爆炸聲】當地時間10月2日凌晨，葉門胡塞武裝透過無人機和導彈襲擊了沙特主導的聯軍位於葉門亞丁的一處軍事設施。總檯報道員在亞丁市內聽到爆炸聲。一名不願透露姓名的該軍事設施內的人員向總檯報道員證實了此事。尚不清楚該襲擊是否造成人員傷亡。（央視新聞）"
     }
   ]
 }
