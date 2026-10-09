@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-09 22:44:39",
-  "count": 9366,
+  "updated": "2026-10-09 22:48:38",
+  "count": 9367,
   "items": [
+    {
+      "id": "5135356",
+      "time": "2026-10-09 22:47:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，預計颶風西蒙本週末將快速增強，並以危險的大型颶風姿態逼近墨西哥海岸，相關防災準備工作需於今日趕工完成。"
+    },
+    {
+      "id": "5135355",
+      "time": "2026-10-09 22:45:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦本財年迄今海外匯款總額為109億美元。"
+    },
+    {
+      "id": "5135354",
+      "time": "2026-10-09 22:45:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦9月海外匯款同比增長12.7%，至36億美元。"
+    },
+    {
+      "id": "5135353",
+      "time": "2026-10-09 22:45:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：更高的票價“非常可持續”。"
+    },
+    {
+      "id": "5135351",
+      "time": "2026-10-09 22:44:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會因Jefferies在電子藍單系統報告方面存在缺陷，對其處以65萬美元罰款。"
+    },
     {
       "id": "5135350",
       "time": "2026-10-09 22:43:19",
@@ -85855,44 +85895,6 @@
         "市場"
       ],
       "text": "惠特貝瑞在倫敦市場上漲3.4%。"
-    },
-    {
-      "id": "5124423",
-      "time": "2026-10-02 22:47:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【七國集團就推動主要煉油國家增產增加柴油供應達成一致】七國集團領導人召開視訊會議，應對油價飆升及能源供應壓力，同意採取協調行動，穩定市場、緩解家庭和企業負擔，並增強能源體系長期韌性。七國集團將協調煉油廠檢修安排，適度提高產能利用率，並推動主要煉油國家增產，重點增加柴油供應。同時，透過國際能源署立即啟動釋放1億桶石油儲備，四個月內完成，首批20天內集中釋放大量柴油。各國重申不在集團內部限制能源出口，並呼籲生產國避免實施禁令。國際能源署將在20天內提交落實情況及政策建議報告，涵蓋儲備補充安排。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a0fd15-5303-7ee0-a789-2c8b2c0542d1",
-      "time": "2026-10-02 22:47:08",
-      "tags": [
-        "MKT News",
-        "GS.O",
-        "Impact bullish"
-      ],
-      "text": "【Goldman Sachs earned sizable gains from early client investments in SpaceX, reports say】Foreign media reported Goldman Sachs bankers earned hefty fees handling SpaceX’s June IPO, but a larger payoff was seeded more than five years earlier when the bank helped high-net-worth clients buy into SpaceX. People familiar said clients who sold shares at SpaceX’s $1.77 trillion IPO valuation realized substantial gains and paid Goldman hundreds of millions of dollars in incentive fees. Goldman partners were able to invest alongside clients, meaning some current and former top executives may also have realized sizable profits."
-    },
-    {
-      "id": "5124422",
-      "time": "2026-10-02 22:45:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦總理夏巴茲·謝里夫致電伊朗外長阿拉格齊，就其胞妹逝世表示哀悼。"
-    },
-    {
-      "id": "te:markets:589219",
-      "time": "2026-10-02 22:45:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Western Digital Shares Hit 22-week Low — Western Digital shares decreased to 407.00 USD, the lowest since May 2026. Over the past 4 weeks, Western Digital lost 7.42%, and in the last 12 months, it increased 211.33%."
     }
   ]
 }
