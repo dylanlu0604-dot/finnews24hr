@@ -1,7 +1,30 @@
 {
   "date": "2026-10-10",
-  "count": 409,
+  "count": 411,
   "items": [
+    {
+      "id": "mkt:01a12252-a319-7ee0-a820-444d295249a7",
+      "time": "2026-10-10 04:20:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Hurricane Isaias forces shutdown of 72% of US Gulf crude output】As Category 3 Hurricane Isaias approached the US Gulf coast, producers shut about 1.46 mln b/d of crude — roughly 72% of regional output. The US Bureau of Ocean Energy Management said personnel were evacuated from 129 offshore platforms and two mobile drilling rigs were moved out of the storm path as of 1200 EDT Friday. BP shut Thunder Horse and Na Kika and removed non‑essential staff from three additional platforms. The outages pushed Gulf differentials wider: Mars crude traded about $3/bbl over WTI and Thunder Horse crude carried a premium of more than $4/bbl for a second straight session."
+    },
+    {
+      "id": "5135747",
+      "time": "2026-10-10 04:19:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【黃金ETF收漲將近1.6%】週五（10月9日），黃金ETF收漲1.57%，美國房地產ETF漲1.45%，新興市場ETF漲1.06%，道指ETF、巴克萊美國可轉債ETF、標普500 ETF、美國布倫特油價基金、大豆基金、納斯達克100 ETF、美國國債20+年ETF、做多美元指數等至多漲0.87%。農產品基金、美國投資級公司債ETF、歐元多做至多收跌0.12%，日元做多跌0.26%，恐慌指數做多跌1.45%。"
+    },
     {
       "id": "mkt:01a1224f-b28c-7ee0-a820-386c01baa095",
       "time": "2026-10-10 04:16:50",
