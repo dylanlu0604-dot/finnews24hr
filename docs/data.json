@@ -1,7 +1,223 @@
 {
-  "updated": "2026-10-09 09:31:15",
-  "count": 9148,
+  "updated": "2026-10-09 09:35:02",
+  "count": 9164,
   "items": [
+    {
+      "id": "mkt:01a11e4c-54dc-7ee0-a807-cda67322ac36",
+      "time": "2026-10-09 09:34:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India IT sector set for fourth straight year of weak growth as geopolitical and AI risks weigh】After Tata Consultancy Services’ results, HCL Technologies and Tech Mahindra are due to report. Analysts say clients remain cautious on non-essential IT projects, keeping sector growth subdued. Accenture’s recent results suggest spending is not decreasing but reallocating to large, AI-led transformational projects. On Thursday TCS beat profit expectations, but constant-currency revenue rose only 0.5% QoQ. Brokerage Nuvama says the IT sector has materially underperformed the broader market over the past nine months, driven by negative sentiment around generative AI platform companies and uncertainty tied to the Gulf conflict, but still views the IT services model as durable and generative AI as a longer-term opportunity."
+    },
+    {
+      "id": "mkt:01a11e4c-261c-7ee0-a807-c2f6e0580853",
+      "time": "2026-10-09 09:34:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share PCB stocks opened sharply lower in early trade; Jin'an Guoji hit limit down, while Huazheng New Materials, Tongfeng Electronics, Xianfeng Holdings, Shengyi Technology and Dongshan Precision fell more than 5%."
+    },
+    {
+      "id": "5133821",
+      "time": "2026-10-09 09:34:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，艾力斯跌7.99％，源傑科技跌5.98％，生益電子跌3.91％，華豐科技跌3.45％。"
+    },
+    {
+      "id": "5133820",
+      "time": "2026-10-09 09:33:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指跌破3000點，創2015年11月來新低，日內跌1.2%。"
+    },
+    {
+      "id": "mkt:01a11e4b-8453-7ee0-a807-bd8a4fea797f",
+      "time": "2026-10-09 09:33:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share property sector active; Shilianhang hit the daily trading limit, while Shenzhen Property A, I Love My Home and Damingcheng also rose."
+    },
+    {
+      "id": "5133819",
+      "time": "2026-10-09 09:33:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【固態電池概念反覆走強 紫竹高科4連板】固態電池概念反覆走強，紫竹高科4連板，豐元股份、龍蟠科技、科恆股份、海科新源、盟固利等跟漲。"
+    },
+    {
+      "id": "mkt:01a11e4b-58cc-7ee0-a807-b66a62d0dad2",
+      "time": "2026-10-09 09:33:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share major indexes extended early losses: Shenzhen Composite down 1.0%, ChiNext down 1.1%, China's Shanghai Composite down 0.42%."
+    },
+    {
+      "id": "5133817",
+      "time": "2026-10-09 09:33:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB板塊盤初走弱，金安國紀跌停】PCB板塊盤初走弱，金安國紀跌停，華正新材、凌瑋科技、東材科技、蓮花控股、東山精密等跟跌。"
+    },
+    {
+      "id": "5133815",
+      "time": "2026-10-09 09:33:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.03%，現報12491.023點；上證指數跌0.42%，現報3796.008點；創業板指跌1.21%，現報2999.911點。"
+    },
+    {
+      "id": "5133810",
+      "time": "2026-10-09 09:32:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【房地產板塊表現活躍 世聯行漲停】房地產板塊表現活躍，世聯行漲停，深物業A、我愛我家、大名城跟漲。"
+    },
+    {
+      "id": "mkt:01a11e4a-a877-7ee0-a807-ae7a23ee8e9b",
+      "time": "2026-10-09 09:32:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-share CPO and optical-chip concept stocks extended losses; Yuanjie Technology fell nearly 10%, with Woge Optoelectronics, Dongshan Precision and Changguang Huaxin among the largest decliners."
+    },
+    {
+      "id": "mkt:01a11e4a-8821-7ee0-a807-a6f5f179a488",
+      "time": "2026-10-09 09:32:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US dollar index (DXY) fell below 102, down 0.12% intraday."
+    },
+    {
+      "id": "5133808",
+      "time": "2026-10-09 09:32:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲2%，現報9256.00元。"
+    },
+    {
+      "id": "5133807",
+      "time": "2026-10-09 09:32:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：9月下旬生豬（外三元）為10.3元/千克，環比下降3.7%】據國家統計局，9月下旬流通領域重要生產資料市場價格中生豬（外三元）為10.3元/千克，環比下降3.7%；電解銅為111742.5元/噸，環比增長2.7%；液化天然氣為6185.9元/噸，環比下降0.6%；螺紋鋼為3175.9元/噸，環比增長0.3%；複合肥為3599.7元/噸，環比下降0.3%；液化石油氣為7506.1元/噸，環比增長0.2%。"
+    },
+    {
+      "id": "5133806",
+      "time": "2026-10-09 09:32:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國專家當選先進製造領域IEC新技術機構首任主席】據“市說新語”，近日，我國專家當選國際電工委員會（IEC）智慧製造與企業應用分技術委員會（IEC/SC65F）首任主席。這是我國在國際標準組織擔任技術機構關鍵職務的又一重要成果，也是國際社會對我國在先進製造領域國際標準化貢獻的認可。下一步，我國將以此為契機，聚焦先進製造發展需求，持續深化國際交流與雙多邊合作，積極組織研製高水平國際標準，推動國際標準化工作與產業創新深度融合，為推進質量強國、製造強國建設提供更有力支撐，也為全球先進製造產業高質量發展貢獻中國智慧和中國方案。"
+    },
+    {
+      "id": "5133805",
+      "time": "2026-10-09 09:32:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數跌破101關口，日內跌0.12%。"
+    },
+    {
+      "id": "5133802",
+      "time": "2026-10-09 09:32:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO、光晶片概念股續跌，源傑科技跌近10%】CPO、光晶片概念股續跌，源傑科技跌近10%，沃格光電、東山精密、長光華芯跌幅居前。"
+    },
+    {
+      "id": "5133801",
+      "time": "2026-10-09 09:32:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4190美元/盎司，日內漲0.79%。"
+    },
+    {
+      "id": "5133797",
+      "time": "2026-10-09 09:31:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.01%，現報3005.978點；上證指數跌0.22%，現報3803.398點；深證成指跌0.83%，現報12515.930點。"
+    },
+    {
+      "id": "mkt:01a11e49-60fe-7ee0-a807-9e6fb4ebddd5",
+      "time": "2026-10-09 09:31:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Chengdu National Day holiday: daily new-home sales at 42 key projects up 7.1% YoY】In September Chengdu recorded 22,211 transactions of new and second‑hand homes, a slight MoM increase. During the National Day holiday in October, daily volumes rose: new-home daily sales at 42 key projects were up 7.1% YoY; second‑hand daily sales averaged 223 units, up over 21% YoY."
+    },
+    {
+      "id": "mkt:01a11e49-3e92-7ee0-a807-925b5035f80b",
+      "time": "2026-10-09 09:31:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open】China government bond futures: 2-year (TS) most-active contract up 0.01%; 5-year (TF) up 0.03%; 10-year (T) up 0.05%; 30-year (TL) up 0.07% at the morning open."
+    },
+    {
+      "id": "mkt:01a11e49-38e8-7ee0-a807-8903c1005032",
+      "time": "2026-10-09 09:31:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Index futures open in early trade】China equity index futures opened higher in early trade: CSI 300 (IF) most-active contract +0.22%, SSE 50 (IH) +0.34%, CSI 500 (IC) +0.09%, CSI 1000 (IM) +0.05%."
+    },
+    {
+      "id": "5133792",
+      "time": "2026-10-09 09:30:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "TREXBIO生物科技公司宣佈首次公開募股定價，將發行8333334股股票，發行價定為每股14美元。"
+    },
     {
       "id": "5133788",
       "time": "2026-10-09 09:30:21",
@@ -83833,70 +84049,6 @@
         "其他"
       ],
       "text": "越南最大的煉油廠表示，已落實直至11月底的原油供應，主要來自科威特。"
-    },
-    {
-      "id": "5123573",
-      "time": "2026-10-02 09:34:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【賽力斯港股漲超7%】賽力斯港股漲超7%，報37.62港元。"
-    },
-    {
-      "id": "5123572",
-      "time": "2026-10-02 09:34:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "滙豐控股港股一度下跌5.7%。"
-    },
-    {
-      "id": "mkt:01a0fa3f-648a-7ee0-a782-9d774ee9c58e",
-      "time": "2026-10-02 09:34:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "09927.HK",
-        "Impact bullish"
-      ],
-      "text": "SERES (09927.HK) Hong Kong-listed shares rose over 7%."
-    },
-    {
-      "id": "5123571",
-      "time": "2026-10-02 09:33:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國慶假期廣東省4A級及以上景區首日迎客超290萬人次 同比增長6.1%】據廣東省文化和旅遊廳訊息，國慶假期首日（10月1日），據初步測算，全省4A級及以上景區接待遊客290.6萬人次，同比增長6.1%。"
-    },
-    {
-      "id": "mkt:01a0fa3e-c685-7ee0-a782-91bcc9682041",
-      "time": "2026-10-02 09:33:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guangdong 4A+ attractions drew 2.906 million visitors on Oct 1, up 6.1% YoY】On Oct 1, Guangdong's 4A and above scenic spots received an estimated 2.906 million visitors, a 6.1% increase year-on-year."
-    },
-    {
-      "id": "5123570",
-      "time": "2026-10-02 09:33:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本東證指數跌1%，報4090.42點。"
-    },
-    {
-      "id": "mkt:01a0fa3e-5351-7ee0-a782-8e915d343c5d",
-      "time": "2026-10-02 09:33:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "01810.HK",
-        "Impact bearish"
-      ],
-      "text": "Xiaomi Group (01810.HK) extended losses to 5%."
     }
   ]
 }
