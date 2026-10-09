@@ -1,7 +1,144 @@
 {
   "date": "2026-10-10",
-  "count": 379,
+  "count": 393,
   "items": [
+    {
+      "id": "mkt:01a12249-28b3-7ee0-a81f-eeab6671adb0",
+      "time": "2026-10-10 04:09:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "S&P says further escalation of the conflict in Egypt would keep energy prices elevated for an extended period and could intensify inflationary pressures."
+    },
+    {
+      "id": "5135741",
+      "time": "2026-10-10 04:09:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月10日04時04分在新疆阿克蘇地區庫車市（北緯41.21度，東經83.71度）發生3.4級地震，震源深度19千米。"
+    },
+    {
+      "id": "5135740",
+      "time": "2026-10-10 04:09:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普就埃及表示：衝突若進一步加劇並導致能源價格在更長時間內維持高位，可能加大通脹壓力。"
+    },
+    {
+      "id": "mkt:01a12248-ed72-7ee0-a81f-e7bfb3326606",
+      "time": "2026-10-10 04:09:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed official COLLINS declined to comment on monetary policy or the economic outlook."
+    },
+    {
+      "id": "5135739",
+      "time": "2026-10-10 04:09:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯未就貨幣政策及經濟前景置評。"
+    },
+    {
+      "id": "5135738",
+      "time": "2026-10-10 04:09:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：確認埃及評級為B/B，展望穩定。"
+    },
+    {
+      "id": "mkt:01a12248-43d7-7ee0-a81f-d8250725927b",
+      "time": "2026-10-10 04:08:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P affirms Egypt's 'B/B' rating; outlook stable."
+    },
+    {
+      "id": "mkt:01a12248-0954-7ee0-a81f-d03570a745e4",
+      "time": "2026-10-10 04:08:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "S&P said spending plans must be balanced against revenue constraints and warned an excessively high tax burden could weigh on UK GDP growth."
+    },
+    {
+      "id": "5135737",
+      "time": "2026-10-10 04:08:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：支出計劃必須與收入限制相平衡，英國稅負過高可能抑制GDP增長。"
+    },
+    {
+      "id": "mkt:01a12247-1330-7ee0-a81f-cf172a09c49f",
+      "time": "2026-10-10 04:07:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "GBPUSD",
+        "Impact bullish",
+        "WTI",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "S&P said Middle East conflict-driven rises in oil, gas and other input costs, including fertilizer, will affect UK inflation and interest rates."
+    },
+    {
+      "id": "mkt:01a12246-fa8c-7ee0-a81f-c57baf8b9a57",
+      "time": "2026-10-10 04:07:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "S&P says UK Labour holds a majority of seats and, barring unforeseen events, should remain in government until the next scheduled election in 2029."
+    },
+    {
+      "id": "5135736",
+      "time": "2026-10-10 04:07:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普就英國表示：與中東衝突相關的石油、天然氣及其他投入品（如化肥）價格正在影響通脹和利率。"
+    },
+    {
+      "id": "5135735",
+      "time": "2026-10-10 04:07:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普就英國表示：工黨擁有多數席位，除非發生意外事件，否則應能使其執政至2029年下屆大選。"
+    },
+    {
+      "id": "5135734",
+      "time": "2026-10-10 04:06:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：穩定展望反映出我們認為，英國經濟面對源自中東衝突的能源衝擊仍將保持韌性。"
+    },
     {
       "id": "mkt:01a12245-f803-7ee0-a81f-bf7f18eab5d4",
       "time": "2026-10-10 04:06:13",
