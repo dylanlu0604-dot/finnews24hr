@@ -1,7 +1,53 @@
 {
-  "updated": "2026-10-10 03:13:38",
-  "count": 9458,
+  "updated": "2026-10-10 03:17:27",
+  "count": 9459,
   "items": [
+    {
+      "id": "5135660",
+      "time": "2026-10-10 03:15:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：基思·桑德林正式宣誓就任美國勞工部長。"
+    },
+    {
+      "id": "mkt:01a12217-5bf6-7ee0-a81e-90c345fbd15f",
+      "time": "2026-10-10 03:15:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHITE HOUSE: Keith Sonderling sworn in as U.S. labor secretary."
+    },
+    {
+      "id": "mkt:01a12217-180a-7ee0-a81e-8d2238f05931",
+      "time": "2026-10-10 03:15:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Panama power company Naturgy said an earthquake caused electricity supply disruptions across six provinces."
+    },
+    {
+      "id": "5135659",
+      "time": "2026-10-10 03:14:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "能源公司納圖吉（Naturgy）表示，地震發生後，巴拿馬六個省份的電力供應全面中斷。"
+    },
+    {
+      "id": "te:markets:590951",
+      "time": "2026-10-10 03:13:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Strengthens on Election Runoff Polls — The Brazilian real strengthened to below 5.00 per US dollar on Friday following the release of the first polls for the presidential runoff. A Datafolha poll showed Senator Flávio Bolsonaro with 49% of voting intentions against 45% for President Lula, a statistical tie at the limit of the survey’s two-percentage-point margin of error. An Atlas/Bloomberg poll put Flávio at 51.1%, compared with 45.7% for Lula, ending the statistical tie in the previous survey’s runoff scenario. Markets view Bolsonaro as more fiscally restrictive amid elevated domestic yields and weak business activity, and his economic team is considering spending cuts equivalent to around 2% of GDP. Flávio finished ahead of Lula in the first round, defying most polls and sending the real to a 17-month high on Monday. Meanwhile, the BCB held a regular foreign-exchange swap rollover auction on Friday. Such interventions are used to help reduce exchange-rate volatility during periods of political and economic uncertainty."
+    },
     {
       "id": "5135658",
       "time": "2026-10-10 03:11:49",
@@ -86600,39 +86646,6 @@
         "國際"
       ],
       "text": "週五（10月2日）紐約尾盤，彭博穀物分類指數跌0.48%，報32.9219點，本週累計下跌4.01%，整體持續走低，9月30日美國農業部（USDA）釋出時短線跳水。本週，CBOT玉米期貨累跌5.87%，報4.9725美元/蒲式耳。CBOT小麥期貨累跌2.88%，報6.83美元/蒲式耳。CBOT大豆期貨累跌3.17%，報12.7725美元/蒲式耳，豆粕期貨跌6.47%，豆油期貨漲1.16%。"
-    },
-    {
-      "id": "5124639",
-      "time": "2026-10-03 03:14:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美國司法部長稱不會重啟對前美聯儲主席鮑威爾的刑事調查】美國司法部不會就美聯儲大樓翻修專案成本超支問題對美聯儲前主席傑羅姆·鮑威爾重新啟動刑事調查。美國司法部長託德·布蘭奇並未排除繼續審查該專案的監管情況以及如果出現違法證據的情況下採取行動的可能性。布蘭奇週五接受採訪時表示：“我們不會重新啟動針對他的刑事調查。”布蘭奇是在評論美聯儲監察長本週釋出的一份報告時作出上述表示的。該報告沒有發現鮑威爾在這項24億美元專案中存在刑事違法行為的證據。布蘭奇稱，他對這份報告感到滿意，但認為鮑威爾沒有對該專案進行適當監督。美聯儲表示，將聘請獨立審計機構審查大樓相關成本。布蘭奇補充說，如果這項審查發現任何刑事違法行為的證據，司法部可能會展開調查。"
-    },
-    {
-      "id": "5124638",
-      "time": "2026-10-03 03:14:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國獨立社群銀行家協會稱，向這類企業發放牌照超出監管許可權。"
-    },
-    {
-      "id": "5124637",
-      "time": "2026-10-03 03:13:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國社群銀行機構起訴貨幣監理署，抗議其向加密貨幣企業發放信託牌照。"
-    },
-    {
-      "id": "mkt:01a0fe09-6a3f-7ee0-a78c-4e45b20a0b45",
-      "time": "2026-10-03 03:13:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. Justice Department will not reopen criminal probe into former Fed chair Powell】The U.S. Justice Department will not reopen a criminal investigation into former Federal Reserve Chair Powell, Attorney General Todd Blanche said. The Federal Reserve inspector general's report this week found no criminal conduct in the Fed headquarters renovation cost overrun, which rose to about $2.4 billion; Blanche said he was satisfied with the report but that Powell did not provide adequate oversight of the project. The Federal Reserve will hire an independent auditor to further review the renovation costs, and Blanche said the Justice Department could still open an investigation if that audit uncovers evidence of criminal conduct."
     }
   ]
 }

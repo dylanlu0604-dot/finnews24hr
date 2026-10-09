@@ -1,7 +1,53 @@
 {
   "date": "2026-10-10",
-  "count": 262,
+  "count": 267,
   "items": [
+    {
+      "id": "5135660",
+      "time": "2026-10-10 03:15:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：基思·桑德林正式宣誓就任美國勞工部長。"
+    },
+    {
+      "id": "mkt:01a12217-5bf6-7ee0-a81e-90c345fbd15f",
+      "time": "2026-10-10 03:15:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHITE HOUSE: Keith Sonderling sworn in as U.S. labor secretary."
+    },
+    {
+      "id": "mkt:01a12217-180a-7ee0-a81e-8d2238f05931",
+      "time": "2026-10-10 03:15:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Panama power company Naturgy said an earthquake caused electricity supply disruptions across six provinces."
+    },
+    {
+      "id": "5135659",
+      "time": "2026-10-10 03:14:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "能源公司納圖吉（Naturgy）表示，地震發生後，巴拿馬六個省份的電力供應全面中斷。"
+    },
+    {
+      "id": "te:markets:590951",
+      "time": "2026-10-10 03:13:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Strengthens on Election Runoff Polls — The Brazilian real strengthened to below 5.00 per US dollar on Friday following the release of the first polls for the presidential runoff. A Datafolha poll showed Senator Flávio Bolsonaro with 49% of voting intentions against 45% for President Lula, a statistical tie at the limit of the survey’s two-percentage-point margin of error. An Atlas/Bloomberg poll put Flávio at 51.1%, compared with 45.7% for Lula, ending the statistical tie in the previous survey’s runoff scenario. Markets view Bolsonaro as more fiscally restrictive amid elevated domestic yields and weak business activity, and his economic team is considering spending cuts equivalent to around 2% of GDP. Flávio finished ahead of Lula in the first round, defying most polls and sending the real to a 17-month high on Monday. Meanwhile, the BCB held a regular foreign-exchange swap rollover auction on Friday. Such interventions are used to help reduce exchange-rate volatility during periods of political and economic uncertainty."
+    },
     {
       "id": "5135658",
       "time": "2026-10-10 03:11:49",
