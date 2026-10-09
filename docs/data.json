@@ -1,7 +1,163 @@
 {
-  "updated": "2026-10-09 22:13:07",
-  "count": 9358,
+  "updated": "2026-10-09 22:17:02",
+  "count": 9364,
   "items": [
+    {
+      "id": "mkt:01a12105-c3c1-7ee0-a817-e09881231673",
+      "time": "2026-10-09 22:16:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Delta Air Lines (DAL.N) expects Q4 revenue to rise about 20% YoY and capacity to increase roughly 3%."
+    },
+    {
+      "id": "5135319",
+      "time": "2026-10-09 22:16:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：第四季度營收同比增長20%，運力增長約3%。"
+    },
+    {
+      "id": "5135318",
+      "time": "2026-10-09 22:16:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲：2022-25年間美國家庭收入、財富及債務壓力上升】美聯儲消費者財務調查顯示：2022-25年間，美國實際家庭收入中位數上升7%至82,200美元，低收入群體收入增長，高收入群體收入下降。實際淨資產中位數上升2%至215,900美元，財富和收入分佈各層的家庭均有所受益。家庭債務中位數與2022年基本持平，但債務償還佔收入比超過40%的家庭比例從6.5%升至8.6%，為2013年以來最高。"
+    },
+    {
+      "id": "5135317",
+      "time": "2026-10-09 22:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國大洋100航次第二航段起航 “蛟龍”號首赴南太平洋開展作業】記者9日從中國大洋事務管理局獲悉，搭載“蛟龍”號載人潛水器的“深海一號”船近日從福建廈門起航，赴南太平洋執行中國大洋100航次第二航段科學考察，這也是“蛟龍”號首次在南太平洋開展調查作業。（新華社）"
+    },
+    {
+      "id": "5135316",
+      "time": "2026-10-09 22:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "ZALANDO SE <ZALG.DE> 股價上漲5.2%，有望創下4月以來最佳單日表現。"
+    },
+    {
+      "id": "5135315",
+      "time": "2026-10-09 22:15:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電網路：法院受理債權人對公司的預重整申請】廣電網路公告稱，公司收到債權人西安廣華通訊技術有限公司送達的告知函，申請人以公司不能清償到期債務511.33萬元且明顯缺乏清償能力、仍具備重整價值為由，申請對公司進行預重整及重整。2026年10月9日，公司收到西安市中院作出的決定書，法院決定受理該預重整申請，並指定公司清算組為預重整臨時管理人。本次受理預重整不代表法院正式受理重整申請，公司後續能否進入重整程式尚存在不確定性；若法院裁定受理重整申請，公司股票將被實施退市風險警示，若重整失敗將存在被宣告破產、股票終止上市的風險。"
+    },
+    {
+      "id": "mkt:01a12104-6a7e-7ee0-a817-dc7128953248",
+      "time": "2026-10-09 22:14:59",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The S&P 500 Telecommunications Services Index fell 7.2%, its largest percentage decline since March 2020."
+    },
+    {
+      "id": "5135314",
+      "time": "2026-10-09 22:14:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電網路：公開招募重整投資人 推進預重整工作】廣電網路公告稱，西安市中院已受理申請人對公司提出的預重整申請，並指定公司清算組為預重整臨時管理人。臨時管理人現公開招募重整投資人，意向投資人需在2026年11月8日18時前提交報名材料並繳納1000萬元報名保證金。公司能否進入正式重整程式、本次招募能否招募到合格投資人均存在不確定性，若法院裁定受理重整申請，公司股票將被實施退市風險警示，若重整失敗將存在被宣告破產、股票終止上市的風險。"
+    },
+    {
+      "id": "5135313",
+      "time": "2026-10-09 22:14:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：NBA希望獲取資料以監測內幕交易。"
+    },
+    {
+      "id": "5135312",
+      "time": "2026-10-09 22:14:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：NBA希望獲取預測市場資料。"
+    },
+    {
+      "id": "mkt:01a12103-daca-7ee0-a817-d2af61da3fbf",
+      "time": "2026-10-09 22:14:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local residents reported a loud explosion near Aden airport in Yemen."
+    },
+    {
+      "id": "mkt:01a12103-345e-7ee0-a817-c866a10d3719",
+      "time": "2026-10-09 22:13:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury issued a third license authorizing transactions related to pension payments for the International Criminal Court."
+    },
+    {
+      "id": "te:markets:590910",
+      "time": "2026-10-09 22:13:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises on BoC Rate-Hold Expectations — The S&P/TSX Composite Index rose about 1% to near 35,500 on Friday as weaker employment data reinforced expectations that the Bank of Canada will refrain from hiking rates. Employment fell by 68,300, missing expectations for a 7,000 increase, while the unemployment rate edged up 0.1 percentage point to 6.5%, in line with forecasts. Canadian bond yields moved lower and oil prices eased from recent peaks, supporting credit-sensitive stocks. RBC, BMO, Scotiabank and CIBC rose around 0.5% each. Gold prices also advanced, lifting mining shares, with Agnico Eagle, Barrick and WPM gaining more than 2% each. Energy stocks rose as oil prices remained elevated, with Canadian Natural and Suncor up about 1%. Elsewhere, Aritzia surged nearly 15% after beating expectations for second-quarter revenue and profit."
+    },
+    {
+      "id": "5135311",
+      "time": "2026-10-09 22:13:21",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "當地居民稱葉門亞丁機場附近聽到巨大爆炸聲。"
+    },
+    {
+      "id": "mkt:01a12102-ce94-7ee0-a817-c42d1490469a",
+      "time": "2026-10-09 22:13:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury issued a general license authorizing certain telecom and enterprise-software transactions involving the International Criminal Court."
+    },
+    {
+      "id": "mkt:01a12102-956f-7ee0-a817-b938a5b0b777",
+      "time": "2026-10-09 22:12:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. announced sanctions on the International Criminal Court (ICC) and subsequently issued a general license authorizing certain transactions with the ICC."
+    },
+    {
+      "id": "5135310",
+      "time": "2026-10-09 22:12:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【10月9日增減持彙總】10月9日盤後，據不完全統計，包括弘業期貨、富特科技、三暉電氣在內的3家A股上市公司披露擬減持情況，當日暫無A股上市公司披露擬增持情況。"
+    },
+    {
+      "id": "5135309",
+      "time": "2026-10-09 22:12:40",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部宣佈與飛馬全球物流公司達成和解。"
+    },
     {
       "id": "5135308",
       "time": "2026-10-09 22:12:25",
@@ -85756,126 +85912,6 @@
         "市場"
       ],
       "text": "義大利10年期國債收益率較德國國債收益率溢價收窄1個基點至118個基點。"
-    },
-    {
-      "id": "5124395",
-      "time": "2026-10-02 22:16:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國總統府：柴油釋放將在頭20天內“大幅”推進。"
-    },
-    {
-      "id": "5124394",
-      "time": "2026-10-02 22:16:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲傳聲筒：就業報告表現一般，美聯儲關注點仍落在通脹】美聯儲傳聲筒Nick Timiraos發文稱，9 月就業報告幾乎不會促使美聯儲官員改變其對經濟的核心判斷，同時也掃清了本月維持利率不變的一大潛在阻礙。這份報告幾乎沒有釋放出勞動力市場再度收緊、進而加劇物價壓力的訊號，這是其中最為關鍵的變化。美聯儲高層官員本週釋放訊號：自上月加息之後，他們希望留出更多時間評估通脹的演變態勢，而週五出爐的就業報告，給了他們觀望等待的空間。9 月招聘步伐放緩，資料修正結果顯示，夏季的就業增長略低於此前公佈水平。失業率從 4.1% 升至 4.2%，但該漲幅實際沒有看上去那麼明顯：未經四捨五入的原始資料顯示，失業率僅從 4.14% 微升至 4.18%。相較於月度非農新增崗位，美聯儲官員更為關注失業率。倘若失業率出現顯著下行，就意味著勞動力成本上行壓力升溫，這將令凱文・沃什主席及其同僚在本月是否再度加息的抉擇變得更加棘手。而週五的就業報告並未傳遞出這類訊號。將於 10 月 14 日公佈的 9 月消費者物價指數，或將對後續加息時點以及本輪緊縮週期的終點產生更大影響。"
-    },
-    {
-      "id": "5124393",
-      "time": "2026-10-02 22:16:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：紐西蘭因格爾伍德以東6公里處發生5.0級地震。"
-    },
-    {
-      "id": "mkt:01a0fcf9-56a1-7ee0-a788-b8ede2463457",
-      "time": "2026-10-02 22:16:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "German 2-year government bond yield pared losses to finish near flat at 3.0532%."
-    },
-    {
-      "id": "5124392",
-      "time": "2026-10-02 22:16:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受特朗普稱歐洲將釋放柴油儲備影響，歐洲柴油期貨較前收盤價每噸下跌約110美元。"
-    },
-    {
-      "id": "5124391",
-      "time": "2026-10-02 22:15:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "ICE原糖期貨<SBc1>跳漲逾3%，至每磅19.61美分。"
-    },
-    {
-      "id": "mkt:01a0fcf8-7eaa-7ee0-a788-b13b6e2abce8",
-      "time": "2026-10-02 22:15:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bomb threat forces evacuation at Chișinău International Airport; check-in suspended, flights may be disrupted】On Oct. 2 local time Chișinău International Airport received a bomb threat; passengers and staff were evacuated. Airport personnel and border police have responded and Moldova’s Interior Ministry officers are en route. Check-in operations are suspended and scheduled flights may be affected."
-    },
-    {
-      "id": "mkt:01a0fcf7-c22f-7ee0-a788-a9c7f5319c53",
-      "time": "2026-10-02 22:14:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "US10Y",
-        "Impact mixed",
-        "DXY",
-        "EURUSD"
-      ],
-      "text": "U.S. 2-year and 5-year Treasury yields retraced to levels seen before the nonfarm payrolls release."
-    },
-    {
-      "id": "mkt:01a0fcf7-5e59-7ee0-a788-a1af5226b754",
-      "time": "2026-10-02 22:14:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【NVIDIA shares hit record as market cap nears $6 trillion】After a two-month selloff that wiped out more than $1 trillion in market value, investors piled back into NVIDIA; the stock intraday hit a fresh all-time high, up as much as 2.9%. Recent optimism that AI agents such as Meta’s Muse will boost semiconductor demand has supported the rally. Shares received an extra lift after NVIDIA on Monday raised its buyback program by a record $150 billion. Sentiment had swung in prior months amid doubts about whether companies would commit hundreds of billions to AI infrastructure and concerns over AI safety. NVIDIA is up about 27% year-to-date and is on track for a fourth straight year of double-digit gains; market cap is roughly $5.7 trillion, less than $300 billion shy of $6 trillion."
-    },
-    {
-      "id": "mkt:01a0fcf6-c69f-7ee0-a788-9d357e6d1b77",
-      "time": "2026-10-02 22:13:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla (TSLA.O) shares extended gains to over 5%."
-    },
-    {
-      "id": "5124390",
-      "time": "2026-10-02 22:13:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國兩年期國債收益率縮減了早些時候的跌幅，最新資料顯示，日內整體幾乎無變化，報3.0532%。"
-    },
-    {
-      "id": "5124389",
-      "time": "2026-10-02 22:13:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國2年期和5年期國債收益率回落至就業資料公佈前的水平。"
     }
   ]
 }

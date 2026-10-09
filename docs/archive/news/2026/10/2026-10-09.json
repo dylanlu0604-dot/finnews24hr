@@ -1,7 +1,163 @@
 {
   "date": "2026-10-09",
-  "count": 1784,
+  "count": 1802,
   "items": [
+    {
+      "id": "mkt:01a12105-c3c1-7ee0-a817-e09881231673",
+      "time": "2026-10-09 22:16:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Delta Air Lines (DAL.N) expects Q4 revenue to rise about 20% YoY and capacity to increase roughly 3%."
+    },
+    {
+      "id": "5135319",
+      "time": "2026-10-09 22:16:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：第四季度營收同比增長20%，運力增長約3%。"
+    },
+    {
+      "id": "5135318",
+      "time": "2026-10-09 22:16:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲：2022-25年間美國家庭收入、財富及債務壓力上升】美聯儲消費者財務調查顯示：2022-25年間，美國實際家庭收入中位數上升7%至82,200美元，低收入群體收入增長，高收入群體收入下降。實際淨資產中位數上升2%至215,900美元，財富和收入分佈各層的家庭均有所受益。家庭債務中位數與2022年基本持平，但債務償還佔收入比超過40%的家庭比例從6.5%升至8.6%，為2013年以來最高。"
+    },
+    {
+      "id": "5135317",
+      "time": "2026-10-09 22:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國大洋100航次第二航段起航 “蛟龍”號首赴南太平洋開展作業】記者9日從中國大洋事務管理局獲悉，搭載“蛟龍”號載人潛水器的“深海一號”船近日從福建廈門起航，赴南太平洋執行中國大洋100航次第二航段科學考察，這也是“蛟龍”號首次在南太平洋開展調查作業。（新華社）"
+    },
+    {
+      "id": "5135316",
+      "time": "2026-10-09 22:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "ZALANDO SE <ZALG.DE> 股價上漲5.2%，有望創下4月以來最佳單日表現。"
+    },
+    {
+      "id": "5135315",
+      "time": "2026-10-09 22:15:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電網路：法院受理債權人對公司的預重整申請】廣電網路公告稱，公司收到債權人西安廣華通訊技術有限公司送達的告知函，申請人以公司不能清償到期債務511.33萬元且明顯缺乏清償能力、仍具備重整價值為由，申請對公司進行預重整及重整。2026年10月9日，公司收到西安市中院作出的決定書，法院決定受理該預重整申請，並指定公司清算組為預重整臨時管理人。本次受理預重整不代表法院正式受理重整申請，公司後續能否進入重整程式尚存在不確定性；若法院裁定受理重整申請，公司股票將被實施退市風險警示，若重整失敗將存在被宣告破產、股票終止上市的風險。"
+    },
+    {
+      "id": "mkt:01a12104-6a7e-7ee0-a817-dc7128953248",
+      "time": "2026-10-09 22:14:59",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The S&P 500 Telecommunications Services Index fell 7.2%, its largest percentage decline since March 2020."
+    },
+    {
+      "id": "5135314",
+      "time": "2026-10-09 22:14:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電網路：公開招募重整投資人 推進預重整工作】廣電網路公告稱，西安市中院已受理申請人對公司提出的預重整申請，並指定公司清算組為預重整臨時管理人。臨時管理人現公開招募重整投資人，意向投資人需在2026年11月8日18時前提交報名材料並繳納1000萬元報名保證金。公司能否進入正式重整程式、本次招募能否招募到合格投資人均存在不確定性，若法院裁定受理重整申請，公司股票將被實施退市風險警示，若重整失敗將存在被宣告破產、股票終止上市的風險。"
+    },
+    {
+      "id": "5135313",
+      "time": "2026-10-09 22:14:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：NBA希望獲取資料以監測內幕交易。"
+    },
+    {
+      "id": "5135312",
+      "time": "2026-10-09 22:14:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：NBA希望獲取預測市場資料。"
+    },
+    {
+      "id": "mkt:01a12103-daca-7ee0-a817-d2af61da3fbf",
+      "time": "2026-10-09 22:14:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local residents reported a loud explosion near Aden airport in Yemen."
+    },
+    {
+      "id": "mkt:01a12103-345e-7ee0-a817-c866a10d3719",
+      "time": "2026-10-09 22:13:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury issued a third license authorizing transactions related to pension payments for the International Criminal Court."
+    },
+    {
+      "id": "te:markets:590910",
+      "time": "2026-10-09 22:13:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises on BoC Rate-Hold Expectations — The S&P/TSX Composite Index rose about 1% to near 35,500 on Friday as weaker employment data reinforced expectations that the Bank of Canada will refrain from hiking rates. Employment fell by 68,300, missing expectations for a 7,000 increase, while the unemployment rate edged up 0.1 percentage point to 6.5%, in line with forecasts. Canadian bond yields moved lower and oil prices eased from recent peaks, supporting credit-sensitive stocks. RBC, BMO, Scotiabank and CIBC rose around 0.5% each. Gold prices also advanced, lifting mining shares, with Agnico Eagle, Barrick and WPM gaining more than 2% each. Energy stocks rose as oil prices remained elevated, with Canadian Natural and Suncor up about 1%. Elsewhere, Aritzia surged nearly 15% after beating expectations for second-quarter revenue and profit."
+    },
+    {
+      "id": "5135311",
+      "time": "2026-10-09 22:13:21",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "當地居民稱葉門亞丁機場附近聽到巨大爆炸聲。"
+    },
+    {
+      "id": "mkt:01a12102-ce94-7ee0-a817-c42d1490469a",
+      "time": "2026-10-09 22:13:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury issued a general license authorizing certain telecom and enterprise-software transactions involving the International Criminal Court."
+    },
+    {
+      "id": "mkt:01a12102-956f-7ee0-a817-b938a5b0b777",
+      "time": "2026-10-09 22:12:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. announced sanctions on the International Criminal Court (ICC) and subsequently issued a general license authorizing certain transactions with the ICC."
+    },
+    {
+      "id": "5135310",
+      "time": "2026-10-09 22:12:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【10月9日增減持彙總】10月9日盤後，據不完全統計，包括弘業期貨、富特科技、三暉電氣在內的3家A股上市公司披露擬減持情況，當日暫無A股上市公司披露擬增持情況。"
+    },
+    {
+      "id": "5135309",
+      "time": "2026-10-09 22:12:40",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國財政部宣佈與飛馬全球物流公司達成和解。"
+    },
     {
       "id": "5135308",
       "time": "2026-10-09 22:12:25",
