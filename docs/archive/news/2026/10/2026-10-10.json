@@ -1,7 +1,124 @@
 {
   "date": "2026-10-10",
-  "count": 318,
+  "count": 331,
   "items": [
+    {
+      "id": "mkt:01a1222d-8c73-7ee0-a81f-28c3f15c0b41",
+      "time": "2026-10-10 03:39:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said allowing Russia to sell oil products would fund its war and would be repaid only with more attacks and treachery."
+    },
+    {
+      "id": "5135703",
+      "time": "2026-10-10 03:39:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價9日微漲】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格上漲36美分，收於每桶91.85美元，漲幅為0.39%；12月交貨的倫敦布倫特原油期貨價格上漲44美分，收於每桶104.72美元，漲幅為0.42%。"
+    },
+    {
+      "id": "mkt:01a1222c-ec32-7ee0-a81f-26ce786b70d5",
+      "time": "2026-10-10 03:38:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lockheed Martin unveils PAC-3 EDGE to support a U.S. Army program."
+    },
+    {
+      "id": "5135702",
+      "time": "2026-10-10 03:38:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭政府對特朗普的與俄羅斯柴油交易宣告感到意外。"
+    },
+    {
+      "id": "mkt:01a1222c-6967-7ee0-a81f-1defbb68f551",
+      "time": "2026-10-10 03:38:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index up 0.08% to 102.216 at New York close on the 9th】Dollar index (DXY) rose 0.08% to 102.216 at the New York close on the 9th. EUR/USD 1.1202 (prev. 1.1209); GBP/USD 1.3241 (1.3225); USD/JPY 158.21 (157.86); USD/CHF 0.8298 (0.8316); USD/CAD 1.4266 (1.4224); USD/SEK 9.9909 (9.9757)."
+    },
+    {
+      "id": "mkt:01a1222b-ad71-7ee0-a81f-1392c5d2c833",
+      "time": "2026-10-10 03:37:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Axios reported a Ukrainian official said the Ukrainian government was surprised by Trump's announcement that he had reached an agreement with Russia on diesel supplies."
+    },
+    {
+      "id": "5135701",
+      "time": "2026-10-10 03:37:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：如果俄羅斯停止摧毀我們的能源基礎設施，烏克蘭就不會再縱火襲擊俄羅斯煉油廠。這正是我們向美國提議的那類協議，我們相信美國有足夠實力促成這樣的妥協。"
+    },
+    {
+      "id": "5135700",
+      "time": "2026-10-10 03:36:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數9日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.08%，在匯市尾市收於102.216。截至紐約匯市尾市，1歐元兌換1.1202美元，低於前一交易日的1.1209美元；1英鎊兌換1.3241美元，高於前一交易日的1.3225美元。1美元兌換158.21日元，高於前一交易日的157.86日元；1美元兌換0.8298瑞士法郎，低於前一交易日的0.8316瑞士法郎；1美元兌換1.4266加元，高於前一交易日的1.4224加元；1美元兌換9.9909瑞典克朗，高於前一交易日的9.9757瑞典克朗。"
+    },
+    {
+      "id": "te:markets:590953",
+      "time": "2026-10-10 03:36:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Weakens Toward One-Year Low — The Mexican peso weakened to around 18.44 per US dollar in October, nearing a one-year low after the release of the Bank of Mexico’s meeting minutes. The currency became one of the worst performers among emerging markets as the minutes left open the possibility of further interest-rate cuts. Most members of the Governing Board said moderating core inflation and weak domestic consumption provide room to continue easing monetary policy into late 2026 and early 2027. Expectations of a narrowing interest-rate differential between Mexico and the US reduced the peso’s appeal in carry trades, boosting demand for dollars in the spot market. Meanwhile, annual inflation rose to 3.45% in September from 3.26% in August. Although slightly below market expectations, the reading added uncertainty to the domestic monetary policy outlook."
+    },
+    {
+      "id": "mkt:01a1222a-b236-7ee0-a81f-099f34abe7f0",
+      "time": "2026-10-10 03:36:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. tsunami-warning system: Following an earthquake, parts of Panama's coast could see 1–3m tsunami waves."
+    },
+    {
+      "id": "mkt:01a1222a-6a1a-7ee0-a81f-06d937c98f48",
+      "time": "2026-10-10 03:36:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP to miss Alabama vs. Georgia game due to a major storm; will travel to Tennessee to campaign."
+    },
+    {
+      "id": "5135699",
+      "time": "2026-10-10 03:36:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海嘯預警系統：巴拿馬地震後，部分沿岸海嘯波可能高出潮位1至3米。"
+    },
+    {
+      "id": "5135698",
+      "time": "2026-10-10 03:35:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：要去田納西州參加（競選）集會。"
+    },
     {
       "id": "5135697",
       "time": "2026-10-10 03:35:35",
