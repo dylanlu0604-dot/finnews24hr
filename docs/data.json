@@ -1,7 +1,94 @@
 {
-  "updated": "2026-10-10 03:59:03",
-  "count": 9518,
+  "updated": "2026-10-10 04:02:49",
+  "count": 9509,
   "items": [
+    {
+      "id": "5135728",
+      "time": "2026-10-10 04:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "道瓊斯指數創下截至8月7日當週以來最大單週漲幅。"
+    },
+    {
+      "id": "5135727",
+      "time": "2026-10-10 04:01:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "威瑞森股價大跌8.7%，創2002年以來最大單日跌幅。"
+    },
+    {
+      "id": "5135726",
+      "time": "2026-10-10 04:01:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "T-MOBILE股價收盤下跌13%，創2013年以來最大跌幅。"
+    },
+    {
+      "id": "5135725",
+      "time": "2026-10-10 04:00:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "迪爾公司股價遭遇自2023年4月以來最大單週跌幅，下跌9.6%。"
+    },
+    {
+      "id": "5135724",
+      "time": "2026-10-10 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.83%，標普500指數漲0.59%，納指漲0.64%。冠城漲15.61%，Moderna漲14.21%，休曼納漲11.54%，美國電塔漲9.30%，SBA通訊公司漲7.34%，Datadog漲7.11%。“七姐妹”方面：亞馬遜漲3.29%，微軟漲2.38%，特斯拉漲2.05%，谷歌漲0.87%，Meta Platforms跌0.31%，英偉達跌0.52%，蘋果跌1.11%。"
+    },
+    {
+      "id": "5135723",
+      "time": "2026-10-10 04:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京在與特朗普通電話後發表宣告】俄羅斯總統普京在10月9日與美國總統特朗普通電話時，雙方高度關注解決烏克蘭危機的前景。雙方還討論了伊朗周邊局勢以及雙邊關係的各個方面。在討論全球能源行業狀況時，俄方重申準備向美國和全球市場供應石油和石油產品。我相信這將對整個全球經濟產生積極影響。雙方重申同意繼續兩國總統之間的個人接觸，以及總統行政機構、安全部門和其他機構之間的合作。"
+    },
+    {
+      "id": "5135722",
+      "time": "2026-10-10 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲2.75%】網易有道漲7.85%，AIFU漲7.81%，世紀互聯漲7.06%，文遠知行漲6.54%，理想汽車漲6.03%。"
+    },
+    {
+      "id": "mkt:01a1223f-a353-7ee0-a81f-93718275a8b6",
+      "time": "2026-10-10 03:59:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian President Pezeshkian said regional diplomacy should move beyond meetings and become a practical tool to respond to crises, maintain dialogue, prevent escalation and advance pragmatic cooperation."
+    },
+    {
+      "id": "5135721",
+      "time": "2026-10-10 03:59:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄總統特別代表：俄美能源和經濟合作將繼續】當地時間10月9日，俄羅斯總統特別代表德米特里耶夫在社交平臺上發文評論了美國總統特朗普關於美俄總統通話的通報。他表示，俄美總統剛剛舉行了一次成功的通話。俄羅斯與美國的能源和經濟合作將繼續，並將給全球市場帶來好處。（央視新聞）"
+    },
+    {
+      "id": "5135720",
+      "time": "2026-10-10 03:58:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：普京與特朗普的通話聚焦於烏克蘭危機的解決前景，同時也談及伊朗問題。"
+    },
     {
       "id": "5135719",
       "time": "2026-10-10 03:58:22",
@@ -86984,190 +87071,6 @@
         "The Trump Trade"
       ],
       "text": "Trump said a U.S. diesel export ban was never seriously under consideration."
-    },
-    {
-      "id": "5124681",
-      "time": "2026-10-03 04:02:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "芝商所：若不開展進一步盡職調查就推出能源全天候交易，可能會帶來額外風險，對此存在擔憂。"
-    },
-    {
-      "id": "mkt:01a0fe36-3a7c-7ee0-a78c-eb31bda316c8",
-      "time": "2026-10-03 04:02:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Tesla",
-        "Alibaba",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "SPCX.O"
-      ],
-      "text": "【US stocks close higher; SpaceX up over 7%】US stocks closed Friday: Dow +0.49%, S&P 500 +0.74%, Nasdaq +1.19%. Top movers: SpaceX (SPCX.O) +7.35%, Tesla (TSLA.O) +4.65%, Dell (DELL.N) +3.80%, Broadcom (AVGO.O) +3.35%, ASML (ASML.O) +3.25%, NVIDIA (NVDA.O) +1.34%. Decliners: Accenture (ACN.N) -6.27%, SanDisk -3.79%. Nasdaq Golden Dragon China Index -2.09%; Alibaba (BABA.N) -1.47%, Baidu (BIDU.O) -1.48%."
-    },
-    {
-      "id": "5124679",
-      "time": "2026-10-03 04:02:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：密切關注巴西大選。"
-    },
-    {
-      "id": "5124677",
-      "time": "2026-10-03 04:02:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "SPACEX股價收漲7.4%，創8月12日以來最佳單日表現。"
-    },
-    {
-      "id": "5124676",
-      "time": "2026-10-03 04:01:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及柴油：出口禁令從未真正納入考量。"
-    },
-    {
-      "id": "5124675",
-      "time": "2026-10-03 04:01:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "5124674",
-      "time": "2026-10-03 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.49%，標普500指數漲0.74%，納指漲1.19%。泰瑞達漲8.00%，慧與漲7.37%，SpaceX漲7.35%，Echo Global Logistics漲6.80%，ON SEMICONDUCTOR漲6.01%，Monolithic Power Systems漲5.79%。“七姐妹”方面：特斯拉漲4.65%，谷歌漲1.62%，英偉達漲1.34%，亞馬遜漲1.33%，蘋果漲1.02%，微軟漲0.94%，Meta Platforms漲0.29%。"
-    },
-    {
-      "id": "mkt:01a0fe34-6077-7ee0-a78c-e46af57b26da",
-      "time": "2026-10-03 04:00:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "President Trump, on diesel, said U.S. ties with Europe are very good."
-    },
-    {
-      "id": "5124673",
-      "time": "2026-10-03 04:00:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及柴油：我們與歐洲關係十分良好。"
-    },
-    {
-      "id": "5124672",
-      "time": "2026-10-03 04:00:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝商所（CME Group）暫停推出全天候 10 桶原油期貨合約的計劃。"
-    },
-    {
-      "id": "mkt:01a0fe33-f762-7ee0-a78c-da497ca6a890",
-      "time": "2026-10-03 04:00:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said the U.S. will not impose a diesel export ban."
-    },
-    {
-      "id": "5124671",
-      "time": "2026-10-03 04:00:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：歐洲做出了重大貢獻，我們也是如此。"
-    },
-    {
-      "id": "mkt:01a0fe33-d68e-7ee0-a78c-d1cd02aa4fb0",
-      "time": "2026-10-03 04:00:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP, on South Korean investment in the US, said he is not in a hurry to act on the Alaska pipeline project."
-    },
-    {
-      "id": "5124670",
-      "time": "2026-10-03 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌2.01%】陸金所控股跌14.29%，MAAS跌12.08%，AIFU跌7.55%，萬國資料跌7.48%，世紀互聯跌7.30%。"
-    },
-    {
-      "id": "5124669",
-      "time": "2026-10-03 04:00:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談及柴油：我們不會實施出口禁令。"
-    },
-    {
-      "id": "mkt:01a0fe33-91dd-7ee0-a78c-ce6cd0c7a9f9",
-      "time": "2026-10-03 03:59:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US President Trump said Iran's situation is not good."
-    },
-    {
-      "id": "te:markets:589274",
-      "time": "2026-10-03 03:59:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Cisco Systems Shares Hit 5-week High — Cisco Systems shares increased to 112.22 USD, the highest since August 2026. Over the past 4 weeks, Cisco Systems gained 3.28%, and in the last 12 months, it increased 65.15%."
-    },
-    {
-      "id": "5124668",
-      "time": "2026-10-03 03:59:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談韓國投資：我沒有操之過急。"
-    },
-    {
-      "id": "5124667",
-      "time": "2026-10-03 03:59:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及韓國對美投資：我並未搶先公佈阿拉斯加管道專案。"
     }
   ]
 }
