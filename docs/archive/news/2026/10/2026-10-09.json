@@ -1,7 +1,55 @@
 {
   "date": "2026-10-09",
-  "count": 1116,
+  "count": 1121,
   "items": [
+    {
+      "id": "te:markets:590750",
+      "time": "2026-10-09 14:43:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Prices Ease — UK natural gas prices fell to 192 pence per therm, easing from an over three-week high after President Trump said the US would not resume military strikes on Iran before the midterm elections, alleviating fears of further escalation. However, continued attacks on Gulf shipping raised fresh concerns over transit safety. Meanwhile, cooler weather forecasts for Northwestern Europe could lift heating demand. While Europe's gas inventories have risen steadily in recent weeks, facilities are around 73% full, still below year-ago levels. The region’s gas network operators said the system is flexible enough to meet winter demand but warned that limited LNG supplies could push storage below 30% by winter’s end, increasing vulnerability to late-season cold snaps. In Britain, strong wind generation in September reduced reliance on gas-fired power, but the country remains exposed to broader price pressures. Despite Friday’s drop, UK gas prices rose over 2% this week, marking a second weekly gain."
+    },
+    {
+      "id": "5134369",
+      "time": "2026-10-09 14:43:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全國鐵路中秋國慶假期運輸傳送旅客3.02億人次，同比增長24.6%】10月9日，從國鐵集團獲悉，9月23日至10月8日，為期16天的鐵路中秋國慶假期運輸圓滿收官，運輸安全平穩有序，全國鐵路累計傳送旅客3.02億人次，國家鐵路累計傳送貨物1.92億噸，同比分別增長24.6%、5%，呈現客貨兩旺的良好態勢。其中，全國鐵路日均開行旅客列車1.33萬列、同比增長3.3%，其中10月1日開行旅客列車14885列、創單日客運能力投放歷史新高，10月1日傳送旅客2520.4萬人次、創單日旅客傳送量歷史新高。(澎湃新聞)"
+    },
+    {
+      "id": "5134368",
+      "time": "2026-10-09 14:41:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月9日：“農產品批發價格200指數”比昨天下降0.05個點】據農業農村部監測，10月9日“農產品批發價格200指數”為114.78，比昨天下降0.05個點，“菜籃子”產品批發價格指數為114.92，比昨天下降0.06個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.04元/公斤，比昨天下降0.4%；牛肉71.82元/公斤，比昨天下降1.8%；羊肉66.61元/公斤，比昨天下降1.7%；雞蛋10.00元/公斤，比昨天下降0.7%；白條雞17.25元/公斤，比昨天下降1.4%。重點監測的28種蔬菜平均價格為4.32元/公斤，比昨天下降0.7%；重點監測的6種水果平均價格為6.63元/公斤，比昨天上升0.9%。鯽魚19.40元/公斤，比昨天下降0.5%；鯉魚13.72元/公斤，比昨天下降3.0%；白鰱魚10.06元/公斤，比昨天下降1.8%；大帶魚40.42元/公斤，比昨天下降4.6%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是巨峰葡萄、菠蘿、芹菜、生菜和豆角，幅度分別為2.7%、1.5%、1.2%、1.1%和0.9%；價格降幅前五名的是大帶魚、萵筍、菜花、鯉魚和花鰱魚，幅度分別為4.6%、4.1%、3.1%、3.0%和2.9%。"
+    },
+    {
+      "id": "5134367",
+      "time": "2026-10-09 14:40:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【監管機構稱歐盟銀行業的主權債持倉風險面臨額外審查】歐洲主要銀行監管機構負責人表示，監管部門正針對銀行規模達數萬億歐元的主權債券投資組合開展額外風險審查。隨著部分歐洲核心國家國債收益率升至多年高位，歐洲銀行管理局主席Francois-Louis Michaud表示，需要加強對銀行主權債券投資組合的監測。他在歐洲銀行管理局巴黎總部接受採訪時表示：“監管機構目前正在這樣做。”Michaud補充稱，目前相關風險敞口看來仍“處於可控範圍內”。他說，“到目前為止，我們沒有看到銀行因當前市場變化而承壓，我們也相信監管機構正在採取必要措施。”"
+    },
+    {
+      "id": "te:economy:590749",
+      "time": "2026-10-09 14:40:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Denmark Trade Surplus Narrows in August — Denmark’s seasonally adjusted trade surplus narrowed to DKK 31.2 billion in August 2026 from a downwardly revised record high of DKK 38.9 billion in the previous month. Imports rose 0.7% month-on-month to DKK 162.8 billion, as a 3.8% increase in goods imports more than offset a 2.9% decline in services imports. Meanwhile, exports fell 3.3% to DKK 194 billion, as a 6.2% drop in goods exports outweighed a 0.7% rise in services exports. In the first eight months of the year, the total trade surplus widened to DKK 232.3 billion from DKK 219.1 billion in the same period a year earlier. Exports of goods and services increased to DKK 1,501.6 billion from DKK 1,413.2 billion, while imports rose to DKK 1,269.3 billion from DKK 1,194.2 billion."
+    },
     {
       "id": "5134366",
       "time": "2026-10-09 14:39:27",
