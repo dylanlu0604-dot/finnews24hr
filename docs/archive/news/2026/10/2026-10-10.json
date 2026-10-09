@@ -1,7 +1,142 @@
 {
   "date": "2026-10-10",
-  "count": 393,
+  "count": 407,
   "items": [
+    {
+      "id": "mkt:01a1224c-3213-7ee0-a820-31a294bf5276",
+      "time": "2026-10-10 04:13:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said Russia's domestic diesel supplies will be fully guaranteed."
+    },
+    {
+      "id": "5135746",
+      "time": "2026-10-10 04:12:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：俄羅斯國內市場也將獲得充足的柴油供應。"
+    },
+    {
+      "id": "mkt:01a1224b-ba33-7ee0-a820-2c6d1c276e9e",
+      "time": "2026-10-10 04:12:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said exports should rise further in November and December as refineries resume operations after maintenance."
+    },
+    {
+      "id": "5135745",
+      "time": "2026-10-10 04:12:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：隨著煉油廠在維護後恢復運營，11月和12月的出口量預計將進一步增加。"
+    },
+    {
+      "id": "mkt:01a1224b-856d-7ee0-a820-26c9edf322dd",
+      "time": "2026-10-10 04:12:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P says it will treat Egypt's banking system as a stable, reliable source of domestic-currency funding for the government."
+    },
+    {
+      "id": "mkt:01a1224b-7e0c-7ee0-a820-1aeaa383d4dd",
+      "time": "2026-10-10 04:12:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said Russia is prepared to supply additional diesel fuel to the U.S. market and to all partners in October."
+    },
+    {
+      "id": "5135744",
+      "time": "2026-10-10 04:12:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：俄羅斯準備最早在10月向美國市場及其所有合作伙伴供應額外數量的柴油。"
+    },
+    {
+      "id": "mkt:01a1224b-51bb-7ee0-a820-16acec8701f1",
+      "time": "2026-10-10 04:12:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P expects GCC members to continue providing fiscal support to Egypt despite the conflict."
+    },
+    {
+      "id": "mkt:01a1224b-42e5-7ee0-a820-0cb07d494f39",
+      "time": "2026-10-10 04:11:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P: Egypt continues to benefit from robust concessional external support, although a successor IMF arrangement appears unlikely."
+    },
+    {
+      "id": "mkt:01a1224b-3329-7ee0-a820-027ed8b0e715",
+      "time": "2026-10-10 04:11:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russia's Deputy Prime Minister Novak said Russia is positive about US measures aimed at stabilizing global energy markets."
+    },
+    {
+      "id": "mkt:01a1224b-2489-7ee0-a81f-f9f714392cb4",
+      "time": "2026-10-10 04:11:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia will immediately begin lifting diesel export restrictions, Deputy Prime Minister Novak said."
+    },
+    {
+      "id": "5135743",
+      "time": "2026-10-10 04:11:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：儘管衝突仍在持續，我們預計海灣阿拉伯國家合作委員會成員國仍將持續為埃及提供資金支援。"
+    },
+    {
+      "id": "5135742",
+      "time": "2026-10-10 04:11:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：俄羅斯立即開始解除柴油出口限制。"
+    },
+    {
+      "id": "mkt:01a1224a-be45-7ee0-a81f-f14d09549278",
+      "time": "2026-10-10 04:11:26",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Russian presidential special representative: Russia-U.S. energy and economic cooperation will continue】On Oct. 9 local time, Russian presidential special representative Dmitriev posted on social media responding to U.S. President Trump’s summary of a presidential call, saying the call was successful and that Russia-U.S. energy and economic cooperation will continue and benefit global markets."
+    },
     {
       "id": "mkt:01a12249-28b3-7ee0-a81f-eeab6671adb0",
       "time": "2026-10-10 04:09:42",
