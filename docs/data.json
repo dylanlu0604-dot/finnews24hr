@@ -1,7 +1,153 @@
 {
-  "updated": "2026-10-09 15:27:07",
-  "count": 9295,
+  "updated": "2026-10-09 15:30:56",
+  "count": 9299,
   "items": [
+    {
+      "id": "5134458",
+      "time": "2026-10-09 15:30:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行：10月2日泰國國際儲備規模為2756億美元，9月25日為2784億美元。"
+    },
+    {
+      "id": "te:markets:590770",
+      "time": "2026-10-09 15:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.77% Higher — The CAC 40 Index is gaining 59 points or 0.77 percent on Friday. Leading the gains are ArcelorMittal (3.61%), Capgemini (3.11%) and Bureau Veritas (3.06%). Top losers are Orange (-2.20%), STMicroelectronics (-2.13%) and TotalEnergies SE (-0.55%)."
+    },
+    {
+      "id": "5134457",
+      "time": "2026-10-09 15:30:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞將2027年預算赤字設定為GDP的3.3%，低於2026年的3.6%。"
+    },
+    {
+      "id": "5134456",
+      "time": "2026-10-09 15:30:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞預計2027年GDP增長率為4.2%-5.2%，並上調2026年經濟增長預期。"
+    },
+    {
+      "id": "mkt:01a11f90-70d1-7ee0-a80e-5513130516b8",
+      "time": "2026-10-09 15:28:42",
+      "tags": [
+        "MKT News",
+        "YNDX.O",
+        "Impact bearish"
+      ],
+      "text": "Russian internet portal YANDEX said some services may be disrupted."
+    },
+    {
+      "id": "5134455",
+      "time": "2026-10-09 15:28:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力景氣多點共振，創業板算力ETF華夏（158041）探底回升】10月9日，創業板算力ETF華夏（158041）探底回升，盤中跌6%，截止收盤跌1.18%，全天成交額3.02億元。資金流向方面，近5個交易日淨申購4.05億元，近10日淨申購7.22億元。國盛證券表示，算力景氣多點共振，國內政策端算力網建設納入PSL支援範圍，“十五五”規劃加碼人工智慧等方向，政策與產業共振。配置上建議繼續圍繞國產儲存產業鏈、AI應用鏈等主線佈局。東北證券認為，AI算力需求驅動雲廠商資本開支擴張，高速光模組行業景氣持續上行。超節點擴容推動光互聯向晶片近端延伸，NPO將獨立封裝的光引擎部署於晶片近端，在降低鏈路損耗的同時兼顧製造良率與可維護性；CPO將光引擎與晶片共封裝，進一步提升頻寬密度與能效。可插拔、NPO與CPO有望依據應用需求長期並存，帶動光引擎、光源及高密度聯結器等環節價值提升，隨著800G及1.6T產品加速放量，行業增長由需求擴張與產品升級共同驅動。創業板算力ETF華夏（158041）緊密跟蹤創業板算力基礎設施指數，指數聚焦AI算力基礎設施產業鏈，是一鍵佈局算力硬體核心環節的便捷工具。"
+    },
+    {
+      "id": "5134454",
+      "time": "2026-10-09 15:28:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "西門子能源印度公司：俄羅斯最高法院駁回了西門子能源印度公司的上訴。"
+    },
+    {
+      "id": "5134453",
+      "time": "2026-10-09 15:28:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯YANDEX公司：部分YANDEX服務可能出現中斷。"
+    },
+    {
+      "id": "5134452",
+      "time": "2026-10-09 15:27:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠科股份增資至74.1億 增幅約13%】天眼查App顯示，近日，惠科股份有限公司發生工商變更，註冊資本由約65.7億元人民幣增至約74.1億元人民幣，增幅約13%。該公司成立於2001年12月，法定代表人為王智勇，經營範圍包括半導體顯示技術的研發及其相關產品的生產、銷售，相關配件的設計、研發、生產和銷售等。"
+    },
+    {
+      "id": "mkt:01a11f8f-9532-7ee0-a80e-4ea70c7605de",
+      "time": "2026-10-09 15:27:45",
+      "tags": [
+        "MKT News",
+        "YNDX.O",
+        "Impact bearish"
+      ],
+      "text": "Yandex says multiple data-center modules have been taken offline."
+    },
+    {
+      "id": "te:economy:590768",
+      "time": "2026-10-09 15:27:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Moldova Inflation Rate Highest in 18 Months — Moldova’s annual inflation rate rose to 8.6% in September 2026 from 7.0% in the previous month, marking the highest level since March 2025. Food inflation accelerated to 5.1% from 4.7% in August, with the largest increases recorded in vegetables (+8.0%), fruits (+6.6%), and milk and dairy products (+5.7%), followed by wheat flour and bread, eggs, vegetable oil, and meat, meat preparations and canned goods. Prices of non-food products also rose at a faster pace (9.0% vs. 8.2%), particularly for fuels and motor fuels (+34.5%), as well as footwear, clothing, medicines, and construction materials. Meanwhile, services inflation climbed to 12.6% from 8.1%, amid higher costs for passenger transport, regulated electricity and natural gas tariffs, drinking water supply, sewage services, and public catering. On a monthly basis, consumer prices rose by 1.7% in September, up from 0.2% in the previous month."
+    },
+    {
+      "id": "mkt:01a11f8f-7fde-7ee0-a80e-40afddd99a86",
+      "time": "2026-10-09 15:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moldova statistics bureau says September inflation was 8.6% year-on-year."
+    },
+    {
+      "id": "5134451",
+      "time": "2026-10-09 15:27:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯網路門戶公司Yandex：俄羅斯卡盧加地區的資料中心遭到無人機襲擊，多個資料中心模組已完全停用。"
+    },
+    {
+      "id": "mkt:01a11f8f-4ee0-7ee0-a80e-3b7849f12b6c",
+      "time": "2026-10-09 15:27:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yandex says a data center in Russia's Kaluga region was struck in a drone attack."
+    },
+    {
+      "id": "5134450",
+      "time": "2026-10-09 15:27:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【什麼值得買：國慶相關消費GMV同比增長136.2%】什麼值得買釋出的2026年國慶假期消費趨勢顯示，10月1日至7日，平臺內國慶相關消費GMV同比增長136.2%。"
+    },
+    {
+      "id": "5134449",
+      "time": "2026-10-09 15:26:44",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【10月9日滬深兩市漲停分析】深V反彈！三大指數小幅收漲，成交額超1.9萬億，AI影視概念爆發。新華傳媒9連板，一圖看懂>>"
+    },
     {
       "id": "5134448",
       "time": "2026-10-09 15:26:08",
@@ -85133,126 +85279,6 @@
         "其他"
       ],
       "text": "貝恩資本據悉正考慮投資新世界發展。"
-    },
-    {
-      "id": "5123873",
-      "time": "2026-10-02 15:30:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行雷恩：歐洲央行的預測面臨極高且普遍的的不確定性。"
-    },
-    {
-      "id": "mkt:01a0fb85-bb9e-7ee0-a787-71ab5cc4a3d7",
-      "time": "2026-10-02 15:30:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "ECB governing council member Rehn said higher long-term rates will slow economic growth and reduce the pass-through of energy shocks to prices and wages."
-    },
-    {
-      "id": "5123872",
-      "time": "2026-10-02 15:30:30",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委雷恩：能源價格上漲使我們更接近歐洲央行通脹不利情景。"
-    },
-    {
-      "id": "mkt:01a0fb85-9422-7ee0-a787-6e9b0f112b08",
-      "time": "2026-10-02 15:30:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "REHN said higher energy prices bring the ECB closer to its adverse inflation scenario."
-    },
-    {
-      "id": "5123871",
-      "time": "2026-10-02 15:30:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委雷恩：一個不確定性是市場對人工智慧的情緒可能突然逆轉。"
-    },
-    {
-      "id": "5123870",
-      "time": "2026-10-02 15:30:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委雷恩：長期利率上升將減緩經濟增長，並降低能源衝擊對物價和工資的傳導效應。"
-    },
-    {
-      "id": "mkt:01a0fb85-6aba-7ee0-a787-64ce6bc1fdef",
-      "time": "2026-10-02 15:30:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ECB Governing Council member Rehn said the ECB's forecasts face extremely high and widespread uncertainty."
-    },
-    {
-      "id": "5123869",
-      "time": "2026-10-02 15:30:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國外匯儲備降至2783.9億美元。"
-    },
-    {
-      "id": "te:markets:589054",
-      "time": "2026-10-02 15:30:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.08% Higher — The CAC 40 Index is gaining 6 points or 0.08 percent on Friday. Leading the gains are Stellantis NV (3.05%), Danone (2.61%) and Legrand (1.97%). Top losers are Sanofi (-4.49%), Kering (-1.93%) and Credit Agricole (-1.02%)."
-    },
-    {
-      "id": "5123868",
-      "time": "2026-10-02 15:29:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：截至目前，俄方本次夜間襲擊已造成四人受傷。我方救援力量正在各處開展工作。"
-    },
-    {
-      "id": "mkt:01a0fb83-da82-7ee0-a787-5e4824f60eeb",
-      "time": "2026-10-02 15:28:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Ukrainian President Zelenskiy said Russia launched more than 100 attack drones against Ukraine overnight."
-    },
-    {
-      "id": "mkt:01a0fb83-6b7c-7ee0-a787-5591110221f0",
-      "time": "2026-10-02 15:28:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's agriculture minister said September exports totaled 1.4 mln tonnes of grain, 444,000 tonnes of oilseeds and 311,000 tonnes of vegetable oil."
     }
   ]
 }
