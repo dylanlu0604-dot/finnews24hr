@@ -1,7 +1,61 @@
 {
   "date": "2026-10-09",
-  "count": 1855,
+  "count": 1861,
   "items": [
+    {
+      "id": "5135360",
+      "time": "2026-10-09 22:51:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：將不限於在霍爾木茲海峽打擊違規船隻】伊朗伊斯蘭革命衛隊海軍9日發表宣告稱，今後針對違規船隻的行動將不侷限於霍爾木茲海峽。凡是擅自透過非授權航線航行的船隻，都將遭到“嚴厲懲處”。宣告說，海軍過去數小時內擊中了一艘載有液化石油氣的“大型”船隻，該船試圖經由“非法”航線穿越海峽。（新華社）"
+    },
+    {
+      "id": "5135359",
+      "time": "2026-10-09 22:51:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "Coinbase Global Inc（Coinbase全球公司）：已注意到部分使用者在XRP網路上的提幣交易出現延遲。"
+    },
+    {
+      "id": "5135358",
+      "time": "2026-10-09 22:50:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：今天，我們討論了可能的新貢獻以及為防空採購爭取額外資金的方式。我們兩國之間的無人機協議使烏克蘭能夠向愛沙尼亞出口武器。愛沙尼亞獲得經過實戰檢驗的武器，烏克蘭則獲得額外的國防資金。我們商定，雙方團隊將迅速行動，敲定這一出口方案。"
+    },
+    {
+      "id": "5135357",
+      "time": "2026-10-09 22:50:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我會見了愛沙尼亞國防部長。"
+    },
+    {
+      "id": "mkt:01a12123-ba97-7ee0-a818-6bf61720b62e",
+      "time": "2026-10-09 22:49:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Oxford Economics: Weak Canadian jobs data cuts odds of October BOC hike but still expects two hikes this year】Oxford Economics economist Tony Stillo said soft Canadian labor-market data for September reduced the likelihood of a BOC rate increase at the end of October, though he did not rule out the option. He still expects the BOC to raise rates by 25 bps in October and again in December, citing sustained inflation risk from higher gasoline prices. Stillo said this would likely be a pre-emptive move to restore the policy rate to neutral rather than the start of a new tightening cycle."
+    },
+    {
+      "id": "mkt:01a12123-2ae5-7ee0-a818-678649d905c9",
+      "time": "2026-10-09 22:48:35",
+      "tags": [
+        "MKT News",
+        "VZ.N",
+        "Impact bearish",
+        "TMUS.O",
+        "T.N"
+      ],
+      "text": "【JP Morgan: SpaceX spectrum deal could intensify US wireless competition, pressure carriers' auction budgets】JP Morgan analysts say SpaceX’s latest spectrum transaction may rekindle concerns about stronger competition among the three major US wireless carriers and increase the risk that incumbents will need to spend more in future spectrum auctions. While SpaceX could emerge as a new market participant—potentially growing into a fourth major US operator—JP Morgan judges its near-term competitive threat to Verizon, T‑Mobile and AT&T is limited because building a competitive terrestrial mobile network requires substantial time, infrastructure and capital."
+    },
     {
       "id": "5135356",
       "time": "2026-10-09 22:47:35",

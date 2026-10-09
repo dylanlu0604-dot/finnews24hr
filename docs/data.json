@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-09 22:48:38",
+  "updated": "2026-10-09 22:52:37",
   "count": 9367,
   "items": [
+    {
+      "id": "5135360",
+      "time": "2026-10-09 22:51:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：將不限於在霍爾木茲海峽打擊違規船隻】伊朗伊斯蘭革命衛隊海軍9日發表宣告稱，今後針對違規船隻的行動將不侷限於霍爾木茲海峽。凡是擅自透過非授權航線航行的船隻，都將遭到“嚴厲懲處”。宣告說，海軍過去數小時內擊中了一艘載有液化石油氣的“大型”船隻，該船試圖經由“非法”航線穿越海峽。（新華社）"
+    },
+    {
+      "id": "5135359",
+      "time": "2026-10-09 22:51:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "Coinbase Global Inc（Coinbase全球公司）：已注意到部分使用者在XRP網路上的提幣交易出現延遲。"
+    },
+    {
+      "id": "5135358",
+      "time": "2026-10-09 22:50:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：今天，我們討論了可能的新貢獻以及為防空採購爭取額外資金的方式。我們兩國之間的無人機協議使烏克蘭能夠向愛沙尼亞出口武器。愛沙尼亞獲得經過實戰檢驗的武器，烏克蘭則獲得額外的國防資金。我們商定，雙方團隊將迅速行動，敲定這一出口方案。"
+    },
+    {
+      "id": "5135357",
+      "time": "2026-10-09 22:50:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我會見了愛沙尼亞國防部長。"
+    },
+    {
+      "id": "mkt:01a12123-ba97-7ee0-a818-6bf61720b62e",
+      "time": "2026-10-09 22:49:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Oxford Economics: Weak Canadian jobs data cuts odds of October BOC hike but still expects two hikes this year】Oxford Economics economist Tony Stillo said soft Canadian labor-market data for September reduced the likelihood of a BOC rate increase at the end of October, though he did not rule out the option. He still expects the BOC to raise rates by 25 bps in October and again in December, citing sustained inflation risk from higher gasoline prices. Stillo said this would likely be a pre-emptive move to restore the policy rate to neutral rather than the start of a new tightening cycle."
+    },
+    {
+      "id": "mkt:01a12123-2ae5-7ee0-a818-678649d905c9",
+      "time": "2026-10-09 22:48:35",
+      "tags": [
+        "MKT News",
+        "VZ.N",
+        "Impact bearish",
+        "TMUS.O",
+        "T.N"
+      ],
+      "text": "【JP Morgan: SpaceX spectrum deal could intensify US wireless competition, pressure carriers' auction budgets】JP Morgan analysts say SpaceX’s latest spectrum transaction may rekindle concerns about stronger competition among the three major US wireless carriers and increase the risk that incumbents will need to spend more in future spectrum auctions. While SpaceX could emerge as a new market participant—potentially growing into a fourth major US operator—JP Morgan judges its near-term competitive threat to Verizon, T‑Mobile and AT&T is limited because building a competitive terrestrial mobile network requires substantial time, infrastructure and capital."
+    },
     {
       "id": "5135356",
       "time": "2026-10-09 22:47:35",
@@ -85846,55 +85900,6 @@
         "MKT News"
       ],
       "text": "Kyiv mayor says southern bridge was struck again in a Russian airstrike."
-    },
-    {
-      "id": "mkt:01a0fd1a-4dc3-7ee0-a789-3e1d8a24cf25",
-      "time": "2026-10-02 22:52:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reports Russia is seeking to seize assets of FIDE president Turlov."
-    },
-    {
-      "id": "5124427",
-      "time": "2026-10-02 22:51:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓多家銀行遭駭客攻擊 三家客戶資訊洩露】韓國五大商業銀行均遭疑似由人工智慧（AI）驅動的駭客攻擊，其中三家發生客戶資訊洩露。五大銀行同時遇襲，在韓國金融業尚屬首次。據韓國金融部門2日訊息，繼新韓銀行之後，KB國民銀行和韓亞銀行也遭到疑似由AI驅動的駭客攻擊，造成客戶資訊洩露。BNK釜山銀行因駭客攻擊，導致11名外包員工的個人資訊外洩。KB國民銀行當天表示，119名客戶的資訊因駭客攻擊被洩露，包括姓名、電話號碼、地址、經加密處理的身份證號碼等，每位客戶被洩露的資訊各不相同。此次駭客攻擊物件是職員專用移動辦公支援系統，與網銀、手機銀行等客戶的金融交易無關。"
-    },
-    {
-      "id": "5124426",
-      "time": "2026-10-02 22:51:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯尋求查封國際棋聯主席圖爾洛夫資產。"
-    },
-    {
-      "id": "mkt:01a0fd19-1c72-7ee0-a789-32321c77832a",
-      "time": "2026-10-02 22:51:15",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "YONHAP: A South Korean Ministry of Trade, Industry and Energy official said the $8.4 billion oil project referenced by U.S. President Trump is not part of a South Korea-U.S. agreement."
-    },
-    {
-      "id": "5124425",
-      "time": "2026-10-02 22:50:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：韓國產業部官員表示，特朗普提及的84億美元石油專案並非韓美之間達成的協議內容。"
-    },
-    {
-      "id": "5124424",
-      "time": "2026-10-02 22:49:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "惠特貝瑞在倫敦市場上漲3.4%。"
     }
   ]
 }
