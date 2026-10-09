@@ -1,7 +1,54 @@
 {
   "date": "2026-10-09",
-  "count": 613,
+  "count": 618,
   "items": [
+    {
+      "id": "te:markets:590632",
+      "time": "2026-10-09 08:56:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Heating Oil Holds Near Record — US heating oil prices held above $4.80 per gallon, near their mid-September record of $5.20, as supply pressures persisted ahead of peak winter demand. Tanker attacks in the Strait of Hormuz and fresh US sanctions on Iran intensified concerns over Middle Eastern energy shipments, although President Trump's remarks eased fears of further US military action. Separately, Hurricane Isaias forced the shutdown of about 1.3 million barrels per day of oil production in the US Gulf of Mexico, or roughly 63% of regional output, adding to near-term supply disruptions. Diesel supplies also faced pressure from disruptions to Russian refineries, extended Russian diesel-export restrictions and China's reported suspension of fuel exports for October. The tight backdrop was reinforced by EIA data showing US distillate inventories, which include diesel and heating oil, were 12% below the five-year average in the week ended October 2."
+    },
+    {
+      "id": "5133633",
+      "time": "2026-10-09 08:55:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中材科技定增落地 葛衛東獲配約7億元】玻纖巨頭中材科技定增落地。公司10月8日晚釋出的公告顯示，公司以51.40元/股，向15名物件合計發行了8718.19萬股股份，募資總額為44.81億元。證券時報記者注意到，知名投資人葛衛東以全場最高的報價參與申購，最終獲配約7億元，成為公司第五大股東；而更早潛伏進場、與葛衛東關係密切的王萍，位列公司第九大股東。"
+    },
+    {
+      "id": "5133632",
+      "time": "2026-10-09 08:55:27",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金財富期貨：黃金短線弱震盪執行，關注油價變化和9月美國核心通脹資料指引】日內COMEX黃金窄幅震盪執行，美元持續走強及美債收益率維持高位仍限制金價表現。美聯儲9月議息會議紀要顯示，官員一致支援9月加息25b、在加息理由上存在較大分歧，但大多數官員表示年底前適合再加息一次。“一些與會者”認為，能源價格高位維持越久，部分行業成本上漲擴散為全面通脹的風險越高，有必要加息以遏制能源及其他價格衝擊的影響；而立場更為鷹派的官員則認為，中期內AI建設總需求可能超過總供給、推升通脹，關稅再度上調同樣是通脹上行風險，需要加息以防範正在顯現的需求驅動型通脹。不過，官員對後續加息必要性存在分歧，疊加美國9月非農資料走弱和統計方法修訂下美國8月PCE資料超預期回落，市場對10月加息的預期仍相對有限。而美元走強及美債收益率近期維持高位，實際利率持續上行重新強化對黃金的壓制，但央行購金和ETF配置需求仍提供一定支撐。央行購金方面，土耳其於八月重新成為淨買方，9月全球央行繼續買入黃金，中國央行已連續第23個月增持黃金，俄羅斯亦宣佈將於10月7日至11月6日將該國外匯和黃金購買量提高至9月的五倍，為黃金價格中樞提供支撐。資金方面，截至10月7日，全球黃金ETF持倉量持續上升；而截至9月29日當週，COMEX黃金持倉量有所下降。"
+    },
+    {
+      "id": "5133631",
+      "time": "2026-10-09 08:54:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行重磅表態 人民幣匯率到底怎麼看？】很多老觀念覺得，人民幣匯率是央行說了算，想讓它漲就漲、想讓它跌就跌。這其實是大錯特錯，央行這次在立場裡也再次重申：中國堅持讓市場在匯率形成中發揮決定性作用。我國實行的是市場化匯率制度，2017年之後就徹底退出了常態化干預。未來的人民幣匯率，不會刻意升值，也不會刻意貶值。我們仍然將尊重市場、守住底線、不搞博弈、不玩套路，這就是未來幾年人民幣匯率最核心、最確定的大趨勢。（央視）"
+    },
+    {
+      "id": "5133630",
+      "time": "2026-10-09 08:54:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中東部大部天氣晴好晝夜溫差增大 後天起冷空氣攜降雨降溫來襲】據央視新聞，今明兩天（10月9日至10日），中東部仍以晴好天氣為主，大部地區白天氣溫偏高，晝夜溫差較大，不過海南島今天雨勢仍然較強，局地有大暴雨。後天起，冷空氣將給北方大部帶來大風降溫天氣，同時中東部降雨會明顯增多，需及時關注天氣預報。"
+    },
     {
       "id": "5133629",
       "time": "2026-10-09 08:51:43",
