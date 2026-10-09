@@ -1,7 +1,111 @@
 {
-  "updated": "2026-10-09 22:09:06",
-  "count": 9350,
+  "updated": "2026-10-09 22:13:07",
+  "count": 9358,
   "items": [
+    {
+      "id": "5135308",
+      "time": "2026-10-09 22:12:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500通訊服務指數下跌7.2%，勢將創下2020年3月以來最大百分比跌幅。"
+    },
+    {
+      "id": "5135307",
+      "time": "2026-10-09 22:11:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：企業銷售強勁，同比實現兩位數增長。"
+    },
+    {
+      "id": "5135306",
+      "time": "2026-10-09 22:11:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "達美航空高管表示：勞工節後那一週是我們公司歷史上企業銷售業績最好的一週。"
+    },
+    {
+      "id": "5135305",
+      "time": "2026-10-09 22:11:19",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部授權部分涉及國際刑事法院的制裁。"
+    },
+    {
+      "id": "5135304",
+      "time": "2026-10-09 22:10:32",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部發布與ICC相關的第13號通用許可證。"
+    },
+    {
+      "id": "mkt:01a12100-2abd-7ee0-a817-b1dc5452b705",
+      "time": "2026-10-09 22:10:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Survey of Consumer Finances shows household stock-market participation declined between 2022 and 2025."
+    },
+    {
+      "id": "5135303",
+      "time": "2026-10-09 22:10:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪與SCAN推出聯合品牌聯邦醫療保險優勢計劃。"
+    },
+    {
+      "id": "mkt:01a120ff-e0e5-7ee0-a817-aa56e4f04c6c",
+      "time": "2026-10-09 22:10:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Survey of Consumer Finances: U.S. income inequality edged down slightly between 2022 and 2025."
+    },
+    {
+      "id": "mkt:01a120ff-a75c-7ee0-a817-a78adf69c822",
+      "time": "2026-10-09 22:09:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Survey of Consumer Finances: wealth inequality showed little change between 2022 and 2025."
+    },
+    {
+      "id": "5135302",
+      "time": "2026-10-09 22:09:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：核大國將自己的武器視為自由與安全的保障，卻把同樣的邏輯稱為對他人的威脅，這不是和平，而是基於自我優越感的權力壟斷。一種不把享有安全與和平視為所有人權利的制度，與其說是和平的守護者，不如說是特定群體霸權主義的推動者。"
+    },
+    {
+      "id": "mkt:01a120ff-50e2-7ee0-a817-9f83c7dcfc5e",
+      "time": "2026-10-09 22:09:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Federal Reserve released results of the triennial Survey of Consumer Finances (SCF)."
+    },
+    {
+      "id": "mkt:01a120ff-00b2-7ee0-a817-96836b314a6f",
+      "time": "2026-10-09 22:09:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump administration imposes sweeping sanctions on International Criminal Court】The Trump administration on Friday announced sweeping sanctions on the International Criminal Court (ICC), according to foreign media. The move, which could spark a new diplomatic rift between Washington and European allies over international justice, expands earlier measures that targeted several ICC prosecutors and judges. New measures would extend beyond court staff to punish firms that provide services to the ICC, potentially disrupting the court's operations. Secretary of State Rubio said President Trump will never allow the ICC to prosecute U.S. citizens and that the U.S. will bar transactions with the court, cut off its resources and seek to render it inoperable."
+    },
     {
       "id": "5135301",
       "time": "2026-10-09 22:08:03",
@@ -85772,42 +85876,6 @@
         "國際"
       ],
       "text": "美國2年期和5年期國債收益率回落至就業資料公佈前的水平。"
-    },
-    {
-      "id": "5124388",
-      "time": "2026-10-02 22:12:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "特斯拉股價上漲5.3%，創近一個月來最大漲幅。"
-    },
-    {
-      "id": "5124387",
-      "time": "2026-10-02 22:12:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局（FDA）：截至10月，美國疾病控制與預防中心（CDC）已宣佈此次沙門氏菌-墨西哥辣椒引發的疫情已結束。"
-    },
-    {
-      "id": "5124386",
-      "time": "2026-10-02 22:11:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普料任命國家情報總監Clayton總管AI事務】兩名不具名知情人士報道稱，美國總統特朗普預計將任命Jay Clayton為人工智慧“沙皇”，Clayton是美國國家情報總監。"
-    },
-    {
-      "id": "te:economy:589204",
-      "time": "2026-10-02 22:09:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Manufacturing PMI",
-        "Importance 0"
-      ],
-      "text": "Singapore Manufacturing Growth Picks Up in September — Singapore's Manufacturing PMI edged up to 51.7 in September 2026 from 51.5 in August, marking 14 consecutive months of expansion and the highest reading since October 2018, supported by still strong AI-related demand. The Electronics PMI, which accounts for more than one-third of manufacturing output, rose to 52.9 from 52.6, a 16th straight month of growth and the strongest since January 2018, as the sector supported stronger orders, factory output and employment. Order backlogs continued to build while finished goods inventories declined for an 11th consecutive month, reflecting supply-side disruptions and higher import costs rather than weaker demand. Meanwhile, supplier deliveries lengthened for a ninth straight month and rising input costs intensified operational pressures, particularly for chemicals and petrochemicals."
     }
   ]
 }
