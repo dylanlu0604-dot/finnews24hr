@@ -1,7 +1,52 @@
 {
   "date": "2026-10-09",
-  "count": 1140,
+  "count": 1145,
   "items": [
+    {
+      "id": "5134389",
+      "time": "2026-10-09 14:55:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【亞洲黃金相關個股隨金價上漲】30年期美國國債拍賣需求旺盛，推動長端美債收益率從二十餘年高位回落，受貴金屬價格上漲帶動，亞洲黃金相關股票走高。週五黃金現貨最大漲幅達1.8%，價格突破每盎司4200美元，延續本週早些時候從兩個月低點開啟的上漲行情。"
+    },
+    {
+      "id": "5134388",
+      "time": "2026-10-09 14:55:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報2701.00點。"
+    },
+    {
+      "id": "5134386",
+      "time": "2026-10-09 14:54:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "北約秘書長將於10月14日訪問愛沙尼亞。"
+    },
+    {
+      "id": "mkt:01a11f6f-9170-7ee0-a80d-1b952b83c762",
+      "time": "2026-10-09 14:52:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Euro area liquidity squeeze puts ECB repo tool in focus】Euro-area bond-market volatility has renewed debate over which tools could keep markets functioning in a wider crisis, with some analysts flagging the ECB’s repo operations—banks obtaining cash by pledging collateral—as a contingency liquidity source if conditions tighten. The ECB’s main refinancing operation (MRO) was not designed as a crisis facility and take-up has been low because market funding is often cheaper. Although market liquidity is still ample, banks may avoid the MRO due to stigma; analysts advise the ECB to consider lowering MRO financing costs, as the Bank of England has done, to make the tool more attractive and reduce that stigma."
+    },
+    {
+      "id": "5134383",
+      "time": "2026-10-09 14:52:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【菲律賓央行行長：最擔憂厄爾尼諾現象】菲律賓央行行長埃利·雷莫洛納二世表示，央行當前最擔心厄爾尼諾現象，並稱該氣候事件將影響貨幣政策決議。雷莫洛納在馬尼拉一場商業論壇上稱：“目前我們最關注的情景就是厄爾尼諾。”他補充道：“存在普通厄爾尼諾，也就是偏溫和的厄爾尼諾，這已經是壞訊息。但還有強厄爾尼諾，那將是非常嚴重的壞訊息。因此我們必須考量這兩種情景，並據此制定貨幣政策。”通脹預期正朝著央行3%的目標靠攏。"
+    },
     {
       "id": "mkt:01a11f6e-d420-7ee0-a80d-176e34c163b7",
       "time": "2026-10-09 14:51:59",
