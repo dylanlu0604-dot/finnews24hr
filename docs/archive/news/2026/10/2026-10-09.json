@@ -1,7 +1,104 @@
 {
   "date": "2026-10-09",
-  "count": 1341,
+  "count": 1352,
   "items": [
+    {
+      "id": "mkt:01a11fa3-ade2-7ee0-a80f-3a019e7b3c83",
+      "time": "2026-10-09 15:49:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Regional sources said Saudi Arabia will not agree to a ceasefire with the Houthis until the Yemeni government recaptures lost territory; Riyadh said it will not yield to Houthi \"military blackmail\"."
+    },
+    {
+      "id": "5134511",
+      "time": "2026-10-09 15:49:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞總理：預計2027年現金援助規模將達160億林吉特。"
+    },
+    {
+      "id": "5134510",
+      "time": "2026-10-09 15:49:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【三部門就《關於嚴禁制售非法電子煙的通告（徵求意見稿）》公開徵求意見】為貫徹落實《國務院辦公廳關於全鏈條打擊涉煙違法活動的意見》（國辦發〔2025〕44號），嚴查涉電子煙違法活動，保護社會公眾特別是未成年人身心健康，切實維護消費者權益，國家菸草專賣局、國家市場監督管理總局和國家藥品監督管理局聯合起草了《國家菸草專賣局 國家市場監督管理總局 國家藥品監督管理局 關於嚴禁制售非法電子煙的通告（徵求意見稿）》，現公開徵求意見。有關意見建議請於2026年10月29日前透過電子郵件的方式反饋。"
+    },
+    {
+      "id": "5134509",
+      "time": "2026-10-09 15:48:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞總理：燃油補貼將維持在400億令吉的高位。"
+    },
+    {
+      "id": "5134508",
+      "time": "2026-10-09 15:48:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞總理：到2027年，補貼和艾滋病防治費用將超過800億令吉。"
+    },
+    {
+      "id": "5134507",
+      "time": "2026-10-09 15:48:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【多氟多：控股股東一致行動人李凌雲解質押100萬股】多氟多公告稱，公司控股股東李世江的一致行動人李凌雲於2026年10月8日辦理完成部分股份解質押手續，本次解質押股份100萬股，佔其所持股份比例13.57%，佔公司總股本比例0.08%。本次解質押後，李凌雲剩餘質押股份464.09萬股，佔其所持股份比例62.99%，佔公司總股本比例0.39%；李世江及其一致行動人合計質押股份1929.09萬股，佔合計持股比例11.79%，佔公司總股本比例1.62%。"
+    },
+    {
+      "id": "5134506",
+      "time": "2026-10-09 15:48:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國慶小長假：烏魯木齊位居全國長線遊目的地榜首】剛剛過去的國慶假期，拼假出遊催旺全國跨省長線遊。同程旅行釋出文旅資料顯示，烏魯木齊位居全國長線遊目的地榜首。依託豐富的城市文旅資源、夜遊經濟和近郊業態，烏魯木齊成功實現從入疆中轉樞紐向深度旅遊目的地轉變。（新華社）"
+    },
+    {
+      "id": "mkt:01a11fa2-77dc-7ee0-a80f-32740cf144df",
+      "time": "2026-10-09 15:48:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Firmus seeks $2–3 bln private financing after shelving IPO, sources say】NVIDIA-backed data-centre operator Firmus and its advisers are negotiating a $2–3 bln private placement with existing investors after abandoning an IPO that would have been among Australia’s largest, people familiar with the matter said. Firmus needs ongoing capital to complete under-construction data centres; some existing investors had planned to subscribe roughly half of the original IPO proceeds, which could speed this round. Sources said the financing mix is not final and may combine equity and debt. They declined to say whether NVIDIA will participate."
+    },
+    {
+      "id": "5134505",
+      "time": "2026-10-09 15:48:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "加中貿易理事會總裁向峰說，今年加拿大將擔任中國國際進口博覽會主賓國，加拿大企業都確信將受到中方熱烈歡迎，並致力於發展在華業務。他對加拿大提前實現2030年對華出口增長50%的目標充滿信心。（新華社）"
+    },
+    {
+      "id": "te:markets:590786",
+      "time": "2026-10-09 15:47:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "French Bond Yields Ease as ECB Rate Hike Bets Retreat — France’s 10-year OAT yield eased to 4.85%, retreating slightly from a more than two-decade high, as markets scaled back expectations for European Central Bank tightening following a stall in the oil rally after US President Donald Trump said Washington would not attack Iran before the November midterm elections. Money markets now price the ECB deposit rate rising from 2.50% currently to 2.72% by December and 3.20% by late 2027. Before the recent widening in bond spreads, investors had anticipated roughly one additional rate hike in early 2027. French bonds remain under pressure from expectations of higher ECB rates and political uncertainty ahead of the 2027 presidential election, which have heightened concerns over France’s ability to rein in its public finances. The spread between French OATs and German Bunds narrowed slightly this week to around 135 basis points, down from 159 bps last Friday, its widest level since November 2011."
+    },
+    {
+      "id": "5134504",
+      "time": "2026-10-09 15:47:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公司是否有司美格魯肽產品產線？愛美客回應】有投資者向愛美客（300896.SZ）提問，你們有司美格魯肽這個產品產線嗎？有什麼規劃？10月9日，公司回答表示，公司在研司美格魯肽注射液專案目前處於臨床試驗階段，本研發專案將進一步強化公司未來在體重管理與減脂領域的戰略佈局。"
+    },
     {
       "id": "5134503",
       "time": "2026-10-09 15:45:36",
