@@ -1,7 +1,167 @@
 {
   "date": "2026-10-09",
-  "count": 1874,
+  "count": 1891,
   "items": [
+    {
+      "id": "mkt:01a1212d-88e1-7ee0-a818-f60b15a7adb3",
+      "time": "2026-10-09 22:59:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission says it will work closely with the International Criminal Court to ensure the court's continued effective operation."
+    },
+    {
+      "id": "mkt:01a1212d-68dd-7ee0-a818-ed260d81fe24",
+      "time": "2026-10-09 22:59:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission says the EU has long been a staunch supporter of the International Criminal Court (ICC)."
+    },
+    {
+      "id": "mkt:01a1212c-f80b-7ee0-a818-e6ccbc4f4764",
+      "time": "2026-10-09 22:59:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said the government will grant tax relief on hydrous ethanol, adjust ethanol subsidies and introduce a diesel subsidy, with all measures effective for one month."
+    },
+    {
+      "id": "5135375",
+      "time": "2026-10-09 22:58:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西經濟部長莫雷蒂：此舉實際上將汽油的聯邦稅收歸零。"
+    },
+    {
+      "id": "mkt:01a1212c-5629-7ee0-a818-deaa60616613",
+      "time": "2026-10-09 22:58:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said the government is using revenue growth to protect Brazilian consumers."
+    },
+    {
+      "id": "mkt:01a1212c-3457-7ee0-a818-d652837fc115",
+      "time": "2026-10-09 22:58:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Brazil's finance minister announced measures to extend and broaden gasoline-related tax cuts."
+    },
+    {
+      "id": "mkt:01a1212b-e714-7ee0-a818-cf59cbb5669b",
+      "time": "2026-10-09 22:58:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Brazil's finance minister announced additional measures on fuel amid the Middle East conflict."
+    },
+    {
+      "id": "mkt:01a1212b-d6d2-7ee0-a818-c103cf950c31",
+      "time": "2026-10-09 22:58:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing: Changzhou Weiyi Zhizao Technology Co., Ltd. passed the exchange's listing hearing."
+    },
+    {
+      "id": "5135373",
+      "time": "2026-10-09 22:58:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：常州微億智造科技股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "5135372",
+      "time": "2026-10-09 22:57:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿斯利康的Breztri Aerosphere吸入器新藥申請獲得美國食品藥品監督管理局批准。"
+    },
+    {
+      "id": "mkt:01a1212b-16be-7ee0-a818-ba0f1d05533d",
+      "time": "2026-10-09 22:57:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Societe Generale cuts Tesla (TSLA.O) price target to $266 from $268."
+    },
+    {
+      "id": "mkt:01a1212a-f865-7ee0-a818-b5bb9e49c47b",
+      "time": "2026-10-09 22:57:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Canadian Chamber: Employment down for second month; BOC likely to signal dovish tilt on Oct. 28】Canadian Chamber economist Anupriya Gangopadhyay said Canada’s labor market weakened further in September after strong spring and summer gains, with employment falling for a second consecutive month. She said the report strengthens the case for the BOC to adopt a more dovish stance at its Oct. 28 policy meeting, adding the bank still must balance weak hiring, inflationary pressure and broader economic uncertainty."
+    },
+    {
+      "id": "mkt:01a1212a-f73b-7ee0-a818-ad497045c1b1",
+      "time": "2026-10-09 22:57:06",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) says Falcon 9 is targeting an Oct. 10 launch of the U.S. Space Development Agency's fourth Tranche-1 mission to low Earth orbit."
+    },
+    {
+      "id": "mkt:01a1212a-5553-7ee0-a818-a45b33bc7530",
+      "time": "2026-10-09 22:56:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "COOK's lawyer said if the hearing is broadly objective it will show COOK did not commit mortgage fraud and therefore there is no basis for his removal from office."
+    },
+    {
+      "id": "5135371",
+      "time": "2026-10-09 22:56:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "太空探索技術公司（SpaceX）官網訊息：獵鷹9號計劃於10月10日發射太空發展局第四批次第一期任務，送往近地軌道。"
+    },
+    {
+      "id": "5135370",
+      "time": "2026-10-09 22:56:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西將加大對乙醇和柴油的支援力度，以應對燃料價格上漲。"
+    },
+    {
+      "id": "5135369",
+      "time": "2026-10-09 22:55:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳廣電與香港電臺簽署合作協議】10月9日，深圳廣播電影電視集團與香港電臺簽署合作協議。在節目資源、人才交流、節目製作等多個範疇展開合作，共同推動粵港澳大灣區的進一步融合，向世界展示大灣區的最新發展及活力，講好中國故事、大灣區故事。（深圳釋出）"
+    },
     {
       "id": "mkt:01a12129-e2ee-7ee0-a818-9c30fcd01011",
       "time": "2026-10-09 22:55:55",

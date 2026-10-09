@@ -1,7 +1,167 @@
 {
-  "updated": "2026-10-09 22:56:30",
-  "count": 9376,
+  "updated": "2026-10-09 23:00:25",
+  "count": 9386,
   "items": [
+    {
+      "id": "mkt:01a1212d-88e1-7ee0-a818-f60b15a7adb3",
+      "time": "2026-10-09 22:59:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission says it will work closely with the International Criminal Court to ensure the court's continued effective operation."
+    },
+    {
+      "id": "mkt:01a1212d-68dd-7ee0-a818-ed260d81fe24",
+      "time": "2026-10-09 22:59:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission says the EU has long been a staunch supporter of the International Criminal Court (ICC)."
+    },
+    {
+      "id": "mkt:01a1212c-f80b-7ee0-a818-e6ccbc4f4764",
+      "time": "2026-10-09 22:59:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said the government will grant tax relief on hydrous ethanol, adjust ethanol subsidies and introduce a diesel subsidy, with all measures effective for one month."
+    },
+    {
+      "id": "5135375",
+      "time": "2026-10-09 22:58:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西經濟部長莫雷蒂：此舉實際上將汽油的聯邦稅收歸零。"
+    },
+    {
+      "id": "mkt:01a1212c-5629-7ee0-a818-deaa60616613",
+      "time": "2026-10-09 22:58:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister said the government is using revenue growth to protect Brazilian consumers."
+    },
+    {
+      "id": "mkt:01a1212c-3457-7ee0-a818-d652837fc115",
+      "time": "2026-10-09 22:58:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Brazil's finance minister announced measures to extend and broaden gasoline-related tax cuts."
+    },
+    {
+      "id": "mkt:01a1212b-e714-7ee0-a818-cf59cbb5669b",
+      "time": "2026-10-09 22:58:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Brazil's finance minister announced additional measures on fuel amid the Middle East conflict."
+    },
+    {
+      "id": "5135373",
+      "time": "2026-10-09 22:58:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：常州微億智造科技股份有限公司透過港交所上市聆訊。"
+    },
+    {
+      "id": "mkt:01a1212b-d6d2-7ee0-a818-c103cf950c31",
+      "time": "2026-10-09 22:58:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HKEX filing: Changzhou Weiyi Zhizao Technology Co., Ltd. passed the exchange's listing hearing."
+    },
+    {
+      "id": "5135372",
+      "time": "2026-10-09 22:57:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿斯利康的Breztri Aerosphere吸入器新藥申請獲得美國食品藥品監督管理局批准。"
+    },
+    {
+      "id": "mkt:01a1212b-16be-7ee0-a818-ba0f1d05533d",
+      "time": "2026-10-09 22:57:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Societe Generale cuts Tesla (TSLA.O) price target to $266 from $268."
+    },
+    {
+      "id": "mkt:01a1212a-f865-7ee0-a818-b5bb9e49c47b",
+      "time": "2026-10-09 22:57:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Canadian Chamber: Employment down for second month; BOC likely to signal dovish tilt on Oct. 28】Canadian Chamber economist Anupriya Gangopadhyay said Canada’s labor market weakened further in September after strong spring and summer gains, with employment falling for a second consecutive month. She said the report strengthens the case for the BOC to adopt a more dovish stance at its Oct. 28 policy meeting, adding the bank still must balance weak hiring, inflationary pressure and broader economic uncertainty."
+    },
+    {
+      "id": "mkt:01a1212a-f73b-7ee0-a818-ad497045c1b1",
+      "time": "2026-10-09 22:57:06",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) says Falcon 9 is targeting an Oct. 10 launch of the U.S. Space Development Agency's fourth Tranche-1 mission to low Earth orbit."
+    },
+    {
+      "id": "mkt:01a1212a-5553-7ee0-a818-a45b33bc7530",
+      "time": "2026-10-09 22:56:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "COOK's lawyer said if the hearing is broadly objective it will show COOK did not commit mortgage fraud and therefore there is no basis for his removal from office."
+    },
+    {
+      "id": "5135371",
+      "time": "2026-10-09 22:56:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "太空探索技術公司（SpaceX）官網訊息：獵鷹9號計劃於10月10日發射太空發展局第四批次第一期任務，送往近地軌道。"
+    },
+    {
+      "id": "5135370",
+      "time": "2026-10-09 22:56:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西將加大對乙醇和柴油的支援力度，以應對燃料價格上漲。"
+    },
+    {
+      "id": "5135369",
+      "time": "2026-10-09 22:55:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳廣電與香港電臺簽署合作協議】10月9日，深圳廣播電影電視集團與香港電臺簽署合作協議。在節目資源、人才交流、節目製作等多個範疇展開合作，共同推動粵港澳大灣區的進一步融合，向世界展示大灣區的最新發展及活力，講好中國故事、大灣區故事。（深圳釋出）"
+    },
     {
       "id": "mkt:01a12129-e2ee-7ee0-a818-9c30fcd01011",
       "time": "2026-10-09 22:55:55",
@@ -85904,72 +86064,6 @@
         "其他"
       ],
       "text": "丹麥央行表示，9月未對外匯市場進行干預。"
-    },
-    {
-      "id": "5124434",
-      "time": "2026-10-02 23:00:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "丹麥9月份外匯儲備為6932億丹麥克朗。環比下降4億丹麥克朗。"
-    },
-    {
-      "id": "te:markets:589221",
-      "time": "2026-10-02 23:00:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Increases by 1.08% — Top currency gainers are South Korean Won (1.08%), Mexican Peso (0.87%), Australian Dollar (0.56%), British Pound (0.40%), Euro (0.32%) and Japanese Yen (0.27%). Biggest losers are Turkish Lira (-0.49%) and Dollar Index (-0.35%)."
-    },
-    {
-      "id": "mkt:01a0fd21-1aec-7ee0-a789-53c877eda2e5",
-      "time": "2026-10-02 23:00:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. Treasury yields reversed earlier declines; 10-year yield rose 0.91 bps to 5.243%, 2-year yield rose 2.52 bps to 4.812%."
-    },
-    {
-      "id": "5124433",
-      "time": "2026-10-02 22:59:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率進一步上行，最新上漲2.52個基點，報4.812%。美國國債收益率扭轉早間跌勢；10年期美國國債收益率最新上漲0.91個基點，報5.243%。"
-    },
-    {
-      "id": "5124432",
-      "time": "2026-10-02 22:58:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "GAW Capital房地產私募信貸提交香港IPO申請。"
-    },
-    {
-      "id": "5124431",
-      "time": "2026-10-02 22:57:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽確認沃爾瑪評級為“AA”和“F1+”，展望穩定。"
-    },
-    {
-      "id": "5124430",
-      "time": "2026-10-02 22:57:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美海岸警衛隊稱與墨西哥聯合攔截M/V Grace號油輪 指其向古巴非法運送燃料 】美國海岸警衛隊10月2日宣佈，在與墨西哥政府的協調執法行動後，已完成對機動船M/V Grace號的攔截，並稱該船涉嫌向古巴非法販運燃料。公告未披露攔截時間、海域、查獲燃料數量及船旗等細節，也未說明墨西哥方面具體參與方式與後續處置安排。"
     }
   ]
 }
