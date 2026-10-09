@@ -1,7 +1,63 @@
 {
   "date": "2026-10-09",
-  "count": 1811,
+  "count": 1817,
   "items": [
+    {
+      "id": "mkt:01a1210c-edc0-7ee0-a818-0c9d5ee1e462",
+      "time": "2026-10-09 22:24:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. consumer sentiment falls to 46.3 in early October; current conditions index hits record low; inflation expectations rise】University of Michigan preliminary October consumer sentiment index fell to 46.3, the lowest since May, the survey showed on Friday. The current economic conditions index dropped to 44.7 from 50.9 in September, a record low. The expectations index rose to 47.3 from 46.3, its first uptick since July. One-year inflation expectations rose to 4.7% (from 4.6%); five- to ten-year expectations edged up to 3.5%, slightly above September. The survey cited high gasoline prices, rising borrowing costs and slowing hiring as pressures on household finances; survey director Joanne Hsu said the confidence decline was concentrated among low-income households and those with small equity portfolios."
+    },
+    {
+      "id": "5135329",
+      "time": "2026-10-09 22:23:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗東南部發生路邊炸彈襲擊 一名警官身亡。"
+    },
+    {
+      "id": "5135328",
+      "time": "2026-10-09 22:22:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年9月基金新開戶13.88萬戶 同比下降29.08% 2026年累計新開233.79萬戶】上交所資料顯示，2026年9月基金新開戶13.88萬戶，環比下降17.67%，同比2025年9月的19.57萬戶下降29.08%。2026年累計新開233.79萬戶，同比增長14.37%。"
+    },
+    {
+      "id": "5135327",
+      "time": "2026-10-09 22:21:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲3%，現報1563.50元。"
+    },
+    {
+      "id": "mkt:01a12109-b7ab-7ee0-a818-045e1fc88369",
+      "time": "2026-10-09 22:20:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite"
+      ],
+      "text": "【Sep 2026 A-share new accounts 1.9119 mln】Shanghai Stock Exchange data: Sep 2026 A-share new accounts 1.9119 mln, down 35.0% YoY (Sep 2025: 2.9372 mln); cumulative new accounts Jan–Sep 2026 27.1259 mln, up 35.0% YoY."
+    },
+    {
+      "id": "5135326",
+      "time": "2026-10-09 22:20:45",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【2026年9月A股新開戶191.19萬戶 同比下降34.91% 2026年累計新開2712.6萬戶】上交所資料顯示，2026年9月A股新開戶191.19萬戶，環比下降20.25%，同比2025年9月的293.72萬戶下降34.91%。2026年累計新開2712.6萬戶，同比增長34.63%。"
+    },
     {
       "id": "5135325",
       "time": "2026-10-09 22:20:05",
