@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-10 03:25:01",
+  "updated": "2026-10-10 03:28:48",
   "count": 9468,
   "items": [
+    {
+      "id": "5135670",
+      "time": "2026-10-10 03:28:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國宇航局徵集商業空間站方案】美國宇航局（NASA）釋出下一代商業空間站方案的最終招標書。提案截止日期為12月8日。合同預計於2027年春季授出。將授予固定價格、多項授標、不定期交付/不定量合同。用於支援持續近地軌道研究的開發和服務。將透過早期開發階段選出兩家或以上承包商。"
+    },
+    {
+      "id": "5135669",
+      "time": "2026-10-10 03:26:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "Service Properties Trust股價延續漲勢，最新上漲14.7%，報7美元。"
+    },
     {
       "id": "5135668",
       "time": "2026-10-10 03:24:28",
@@ -86706,26 +86722,6 @@
         "公司"
       ],
       "text": "西捷航空發給飛行員的備忘錄稱，該公司在 2024 年開展波音 737 MAX 投入運營驗證飛行時首次發現軟體異常。西捷航空已將該事件上報波音並提供相關佐證資料。 西捷航空稱其他使用 U14 或 U14.1 版本軟體的航空公司報告的相關故障案例極少。"
-    },
-    {
-      "id": "mkt:01a0fe17-0401-7ee0-a78c-5953ff56ccab",
-      "time": "2026-10-03 03:28:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "People familiar with the matter said AI infrastructure firm Nscale has hired a senior Meta Platforms executive as chief operating officer to help prepare the company for an IPO."
-    },
-    {
-      "id": "5124644",
-      "time": "2026-10-03 03:25:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西基準股指博維斯帕指數上漲約 2.5%。"
     }
   ]
 }
