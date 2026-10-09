@@ -1,7 +1,129 @@
 {
   "date": "2026-10-09",
-  "count": 1198,
+  "count": 1212,
   "items": [
+    {
+      "id": "mkt:01a11f83-7c2f-7ee0-a80d-d19f9ee4b29b",
+      "time": "2026-10-09 15:14:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Ministry of External Affairs said it will continue to monitor developments."
+    },
+    {
+      "id": "mkt:01a11f83-13a4-7ee0-a80d-cc77805e7385",
+      "time": "2026-10-09 15:14:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's foreign ministry said measures announced by the United States do not help realize the two countries' shared vision."
+    },
+    {
+      "id": "mkt:01a11f82-f2c1-7ee0-a80d-c05b3f85662c",
+      "time": "2026-10-09 15:13:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's foreign ministry said it noted the US Department of Labor's decision on permanent labor certification for certain occupations, adding that talent mobility is mutually beneficial and it expects parties involved to recognize that."
+    },
+    {
+      "id": "5134428",
+      "time": "2026-10-09 15:13:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼棕櫚油協會：預計2026年毛棕櫚油產量為5370萬噸，2027年產量為5170萬噸。"
+    },
+    {
+      "id": "mkt:01a11f82-79db-7ee0-a80d-b95e1d0cb143",
+      "time": "2026-10-09 15:13:26",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "ZDNet reports CoreWeave (CRWV.O) is in talks with South Korea on data center cooperation."
+    },
+    {
+      "id": "5134427",
+      "time": "2026-10-09 15:13:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍蟠科技投資成立智聯科技公司】企查查APP顯示，近日，江蘇一卡智聯科技有限公司成立，經營範圍包含國內貿易代理；貨物進出口；汽車零配件零售；汽車零配件批發；汽車裝飾用品銷售等。企查查股權穿透顯示，該公司由龍蟠科技間接全資持股。"
+    },
+    {
+      "id": "te:economy:590759",
+      "time": "2026-10-09 15:13:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Consumer Confidence",
+        "Importance 2"
+      ],
+      "text": "Switzerland Consumer Mood at 3-Month Low — Switzerland's consumer confidence index edged down to -36 in September 2026 from -37 in the same month a year earlier, pointing to a deterioration in household confidence and coming in below market expectations of -31. This marked the most negative reading since June, with the biggest deterioration in the financial outlook, which fell to -31 from -28 in September last year. Meanwhile, sentiment regarding the past financial situation weakened slightly to -42 from -40. The index measuring whether it was a good time to make major purchases also declined to -27 from -25, suggesting households remained cautious about discretionary spending. However, the decline was partly offset by an improvement in the economic outlook, as the corresponding index rose to -43 from -53. The overall reading also weakened from the previous month, when the index stood at -33."
+    },
+    {
+      "id": "5134426",
+      "time": "2026-10-09 15:12:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：已獲悉美國勞工部針對部分企業暫停永久勞工認證專案的決定。"
+    },
+    {
+      "id": "te:economy:590758",
+      "time": "2026-10-09 15:12:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Slovakia Records Trade Deficit in August — Slovakia posted a trade deficit of EUR 125 million in August 2026, shifting from a surplus of EUR 2.3 million in the corresponding month of the previous year. This marked the first deficit after six consecutive months of trade surpluses, as imports outpaced exports. Imports rose 7% to EUR 8,414 million, driven mainly by an increase in mineral fuels, lubricants and related materials, alongside higher purchases of machinery and transport equipment. Imports from EU member states increased by more than 11%, while those from non-EU countries edged up 0.1%. Meanwhile, exports grew 5.4% to EUR 8,289.1 million, supported by increase in manufactured goods classified chiefly by material and a rise in mineral fuels and related materials. Exports to the EU rose by more than 8%, while shipments to non-EU countries fell 6%. Over the January–August 2026 period, Slovakia's trade surplus stood at EUR 1,538.1 million, from EUR 1,460.7 million in the same period of 2025."
+    },
+    {
+      "id": "5134425",
+      "time": "2026-10-09 15:12:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SCFI綜合指數報3664.11點，CCFI綜合指數報1912.38點】上海航運交易所資料顯示，截至10月9日，上海出口集裝箱運價指數（綜合指數）SCFI報3664.11點，與上期相比上漲1.81點。中國出口集裝箱運價綜合指數CCFI報1912.38點，與上期相比跌0.6%。"
+    },
+    {
+      "id": "5134424",
+      "time": "2026-10-09 15:12:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度：美國宣佈的措施無助於推進雙方共同目標。"
+    },
+    {
+      "id": "5134423",
+      "time": "2026-10-09 15:11:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【理想汽車在山東成立新電池科技公司 註冊資本1000萬】天眼查App顯示，近日，山東理想汽車電池科技有限公司成立，法定代表人為柳志民，註冊資本1000萬元人民幣，經營範圍包括電池製造、電池銷售、新興能源技術研發、資源再生利用技術研發、能量回收系統研發、電子專用材料研發等。股東資訊顯示，該公司由北京理想汽車有限公司全資持股。"
+    },
+    {
+      "id": "5134422",
+      "time": "2026-10-09 15:11:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：美國副總統的言論“毫無根據”。"
+    },
+    {
+      "id": "5134421",
+      "time": "2026-10-09 15:11:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：知悉美國勞工部的決定。"
+    },
     {
       "id": "5134420",
       "time": "2026-10-09 15:11:12",
