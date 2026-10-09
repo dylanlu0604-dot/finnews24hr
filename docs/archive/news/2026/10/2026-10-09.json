@@ -1,7 +1,172 @@
 {
   "date": "2026-10-09",
-  "count": 1735,
+  "count": 1752,
   "items": [
+    {
+      "id": "mkt:01a120f6-d9d2-7ee0-a817-6f2dbf2f7f86",
+      "time": "2026-10-09 22:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US preliminary University of Michigan current conditions index for October 44.7, consensus 51.0, prior 50.9."
+    },
+    {
+      "id": "mkt:01a120f6-d85a-7ee0-a817-64353191ba2f",
+      "time": "2026-10-09 22:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. University of Michigan preliminary consumer expectations index for Oct 47.3, vs 45.5 expected and 46.3 prior."
+    },
+    {
+      "id": "mkt:01a120f6-cdb7-7ee0-a817-583b2bedf1b7",
+      "time": "2026-10-09 22:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "US 1‑year inflation expectations, Oct preliminary 4.7% vs consensus 4.7%; prior 4.60%."
+    },
+    {
+      "id": "mkt:01a120f6-cdb6-7ee0-a817-5065f4f63b88",
+      "time": "2026-10-09 22:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US October initial 5–10yr inflation expectations 3.50% (consensus 3.50%; prior 3.40%)."
+    },
+    {
+      "id": "mkt:01a120f6-cd52-7ee0-a817-4a5153c78488",
+      "time": "2026-10-09 22:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Oct University of Michigan preliminary consumer sentiment 46.3, below 47.8 consensus and prior 48.1."
+    },
+    {
+      "id": "mkt:01a120f6-b137-7ee0-a817-468add3db273",
+      "time": "2026-10-09 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Expectations Index Flash (Oct) | actual 47.3 | consensus 45.5 | previous 46.3"
+    },
+    {
+      "id": "mkt:01a120f6-b136-7ee0-a817-3d8a0dcb2f0c",
+      "time": "2026-10-09 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Expected Changes in Prices During the Next Five Years (Oct) | actual 3.5% | consensus 3.5% | previous 3.40%"
+    },
+    {
+      "id": "mkt:01a120f6-b135-7ee0-a817-35e155afbdf7",
+      "time": "2026-10-09 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Consumer Sentiment Index Flash (Oct) | actual 46.3 | consensus 47.8 | previous 48.1"
+    },
+    {
+      "id": "mkt:01a120f6-b0f5-7ee0-a817-2ab9c40f0d1d",
+      "time": "2026-10-09 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Expected Changes in Prices During the Next Year (Oct) | actual 4.7% | consensus 4.7% | previous 4.60%"
+    },
+    {
+      "id": "mkt:01a120f6-b0e6-7ee0-a817-2656c151988f",
+      "time": "2026-10-09 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | University of Michigan Current Conditions Index Flash (Oct) | actual 44.7 | consensus 51 | previous 50.9"
+    },
+    {
+      "id": "5135289",
+      "time": "2026-10-09 21:59:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲2%，現報4531.00元。"
+    },
+    {
+      "id": "5135288",
+      "time": "2026-10-09 21:58:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科學院院士郭華東獲頒2026年度國際宇航聯合會“名人堂”獎】10月9日，第77屆國際宇航大會在土耳其閉幕。閉幕式上，國際宇航聯合會為中國科學院院士、中國科學院空天資訊創新研究院研究員郭華東頒發2026年度國際宇航聯合會“名人堂”獎，以表彰其畢生深耕宇航領域並作出卓越貢獻。郭華東院士此次獲獎的一項重要成果，是主持研發了全球首顆可持續發展科學衛星1號（SDGSAT-1）。該衛星透過“光-熱-譜”多載荷晝夜協同探測，實現對“人類活動痕跡”的精細刻畫，為可持續發展目標系統性監測提供新途徑。目前，該衛星資料實現全球開放共享，惠及121個聯合國會員國，開創了中國衛星資料全球服務新模式。（央視新聞）"
+    },
+    {
+      "id": "em:qqyh_mlc:202610093891520594",
+      "time": "2026-10-09 21:57:56",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "白宮宣佈成立委員會，調查有關美聯儲理事麗莎·庫克虛假陳述的指控。"
+    },
+    {
+      "id": "mkt:01a120f4-53f8-7ee0-a817-1dc7ad6987e9",
+      "time": "2026-10-09 21:57:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign ministry said troops stationed in Saudi Arabia are serving in a defensive role."
+    },
+    {
+      "id": "5135287",
+      "time": "2026-10-09 21:57:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國教科文組織報告：全球教育性別差距縮小】聯合國教科文組織10月8日釋出的《2026年全球教育監測報告》性別專題報告顯示，全球教育領域性別差距縮小。從全球總體水平來看，從學前到高中的各教育階段在入學人數上均已實現性別均等，但部分地區仍存在差距。與此同時，女童完成學業仍面臨早婚早育、經濟困難和缺乏支援等障礙。"
+    },
+    {
+      "id": "mkt:01a120f3-c5b1-7ee0-a817-142976ce2f5f",
+      "time": "2026-10-09 21:56:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The White House has formed a committee to investigate allegations that Federal Reserve governor Cook made false statements."
+    },
+    {
+      "id": "5135286",
+      "time": "2026-10-09 21:56:39",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "白宮宣佈成立委員會，調查美聯儲官員麗莎·庫克涉嫌發表虛假陳述的指控。"
+    },
     {
       "id": "5135285",
       "time": "2026-10-09 21:56:14",
