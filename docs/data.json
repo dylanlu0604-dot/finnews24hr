@@ -1,7 +1,48 @@
 {
-  "updated": "2026-10-09 22:36:40",
+  "updated": "2026-10-09 22:40:43",
   "count": 9364,
   "items": [
+    {
+      "id": "5135344",
+      "time": "2026-10-09 22:38:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯邦調查局局長髮文稱，聯邦調查局已逮捕另一名與聯邦調查局招聘網站駭客入侵事件有關聯的人員。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610093891556040",
+      "time": "2026-10-09 22:37:18",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國10月消費者信心指數跌至五個月低點 通脹預期略有上升】財聯社10月9日電，美國消費者信心10月初下滑，通脹繼續給家庭帶來壓力，人們對當前經濟狀況的看法降至歷史低點，密歇根大學週五公佈的調查顯示，消費者信心指數初值降至46.3，為5月以來最低，也低於經濟學家47.6的預測中值。當前狀況指標從上月的50.9降至44.7，創歷史最低。預期指標從46.3升至47.3，為7月以來首次上升。"
+    },
+    {
+      "id": "5135343",
+      "time": "2026-10-09 22:37:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京釋出第十二輪3宗擬供宅地清單】今日，北京市規劃和自然資源委員會網站釋出了2026年第十二輪擬供應商品住宅用地清單，共涉及3宗地，土地面積約8公頃，建築規模約14萬平方米，上述用地擬於近期供應。"
+    },
+    {
+      "id": "5135342",
+      "time": "2026-10-09 22:36:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【9月工程機械主要產品月平均工作時長為80.7小時 同比增長3.32%】據中國工程機械工業協會統計：2026年9月工程機械主要產品月平均工作時長為80.7小時，同比增長3.32%，環比增長8.45%；工程機械主要產品月開工率為52.4%，同比下降2.73個百分點，環比增長1.48個百分點。"
+    },
+    {
+      "id": "mkt:01a12117-d698-7ee0-a818-44a116852715",
+      "time": "2026-10-09 22:36:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The International Criminal Court said US sanctions are aimed at undermining its operations and threaten individuals who work for or cooperate with the court. The ICC said it will continue to fulfil its mandate and urged member states to ensure it can continue operating."
+    },
     {
       "id": "mkt:01a12117-572b-7ee0-a818-388b5d2c79cd",
       "time": "2026-10-09 22:35:40",
@@ -85844,56 +85885,6 @@
         "市場"
       ],
       "text": "法德10年期國債收益率差收窄至140個基點，此前為159個基點。"
-    },
-    {
-      "id": "te:markets:589215",
-      "time": "2026-10-02 22:40:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Up for 2nd Day — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, was up for a second session on Friday, rising about 0.3% to 3,148 points, buoyed by the bigger-size segment. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, also increased for the second session, advancing 0.6% to 5,042 points. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell by 0.3% to 2,372 points; and the supramax index decreased by 0.3% to 1,789 points. For the week, the benchmark index logged a 8.1% decline."
-    },
-    {
-      "id": "mkt:01a0fd0e-80a1-7ee0-a789-1dd020769880",
-      "time": "2026-10-02 22:39:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRNA reported that Iranian commander Naghdi said an economic siege by adversaries would have no effect and warned that if they do not back down they will face heavy strikes from Iran's armed forces."
-    },
-    {
-      "id": "5124415",
-      "time": "2026-10-02 22:39:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "AZENTA股價上漲20%，創三年來最大單日漲幅。"
-    },
-    {
-      "id": "5124414",
-      "time": "2026-10-02 22:38:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部稱，俄軍打擊了尼古拉耶夫一處資料中心，該中心曾為烏克蘭軍隊處理資料並託管網站。此外，俄軍還打擊了一艘向敖德薩港運送軍用物資的乾貨船。"
-    },
-    {
-      "id": "mkt:01a0fd0d-2924-7ee0-a789-105e0f6aadbc",
-      "time": "2026-10-02 22:38:13",
-      "tags": [
-        "MKT News",
-        "STX.O",
-        "Impact bearish",
-        "WDC.O"
-      ],
-      "text": "【Toshiba to double HDD capacity by FY2027; Seagate, Western Digital shares slump】Toshiba plans to double hard-disk drive (HDD) production capacity by fiscal 2027, investing about JPY60 billion (roughly $380m) to expand manufacturing in the Philippines, Nikkei reported. The expansion is Toshiba’s first major HDD investment in years and targets boosting its capacity-based market share from just above 10% to about 30% over the medium term. Seagate Technology shares opened down about 12.4% and Western Digital fell about 11% on the report, though both still retain large YTD gains of roughly 200% and 140%, respectively."
     }
   ]
 }
