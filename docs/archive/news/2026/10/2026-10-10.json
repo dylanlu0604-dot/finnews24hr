@@ -1,7 +1,84 @@
 {
   "date": "2026-10-10",
-  "count": 351,
+  "count": 359,
   "items": [
+    {
+      "id": "5135719",
+      "time": "2026-10-10 03:58:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：地區外交不應只停留在開會層面，而必須成為真正的工具，用於危機管理、保持對話、防止局勢升級和推動務實合作。"
+    },
+    {
+      "id": "5135718",
+      "time": "2026-10-10 03:58:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "跨巴拿馬輸油管道運營商：地震後管道執行正常。"
+    },
+    {
+      "id": "mkt:01a1223e-74bd-7ee0-a81f-8d4c927e7857",
+      "time": "2026-10-10 03:58:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin said he and Trump focused on prospects for resolving the Ukraine crisis during a phone call."
+    },
+    {
+      "id": "5135717",
+      "time": "2026-10-10 03:57:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：在與特朗普的電話交談中，雙方高度關注解決烏克蘭危機的前景。"
+    },
+    {
+      "id": "mkt:01a1223d-893e-7ee0-a81f-81ed93a042dc",
+      "time": "2026-10-10 03:57:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Putin confirmed Russia is prepared to supply oil and petroleum products to the United States and global markets."
+    },
+    {
+      "id": "mkt:01a1223d-6774-7ee0-a81f-7c4b6f5cfd03",
+      "time": "2026-10-10 03:56:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Putin said Russian oil entering the U.S. market would have a positive impact on the global economy."
+    },
+    {
+      "id": "5135716",
+      "time": "2026-10-10 03:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：俄羅斯石油進入美國市場將對整體全球經濟產生積極影響。"
+    },
+    {
+      "id": "5135715",
+      "time": "2026-10-10 03:55:35",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "普京：俄羅斯已確認準備好向美國及全球市場供應石油與石油產品。"
+    },
     {
       "id": "5135714",
       "time": "2026-10-10 03:52:12",
