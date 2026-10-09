@@ -1,7 +1,152 @@
 {
   "date": "2026-10-09",
-  "count": 628,
+  "count": 643,
   "items": [
+    {
+      "id": "5133648",
+      "time": "2026-10-09 09:04:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報60.02美元/盎司。"
+    },
+    {
+      "id": "5133647",
+      "time": "2026-10-09 09:04:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破60美元/盎司，日內漲0.98%。"
+    },
+    {
+      "id": "5133646",
+      "time": "2026-10-09 09:03:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報3306.00元。"
+    },
+    {
+      "id": "mkt:01a11e2f-b057-7ee0-a807-1a50e36e06ac",
+      "time": "2026-10-09 09:03:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japan relaunches US-style \"DOGE\" fiscal review to fund Takaichi’s costlier pledges】Japan said Friday it will relaunch a broad fiscal spending review, expanding scrutiny of public funds and subsidy programs to find financing for Prime Minister Takaichi Sanae’s high-cost policy commitments. The restart revives a Japan version of the US-style DOGE program (Government Efficiency Office plan). An earlier review of about 120 tax preferences yielded only three abolition proposals, prompting a tougher approach. The new round will target 201 special government funds, whose combined balances are estimated at about ¥7 trillion ($443.5 billion) by the end of the next fiscal year."
+    },
+    {
+      "id": "5133645",
+      "time": "2026-10-09 09:03:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌5%，現報115460.00元。"
+    },
+    {
+      "id": "5133644",
+      "time": "2026-10-09 09:03:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報1016.00元。"
+    },
+    {
+      "id": "te:markets:590636",
+      "time": "2026-10-09 09:02:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Holds Gains — US gasoline futures traded above $3.30 per gallon, holding most of their recent gains amid persistent supply concerns. Tanker attacks in the Strait of Hormuz and fresh US sanctions on Iran kept concerns over regional energy shipments elevated, although President Trump's pledge to avoid military action against Iran before the November 3 midterm elections offered some relief. Meanwhile, Hurricane Isaias prompted the shutdown of about 1.3 million barrels per day of oil production in the US Gulf of Mexico, or roughly 63% of regional output, adding to near-term supply risks. Russian refinery disruptions and diesel-export restrictions, alongside China's reported suspension of some October fuel exports, added to broader refined-product market tightness. However, EIA data showed US gasoline inventories unexpectedly rose by 382 thousand barrels in the week ended October 2, rebounding after two consecutive weekly draws, although stocks remained 6% below the five-year average."
+    },
+    {
+      "id": "mkt:01a11e2e-611c-7ee0-a807-11ca7f2817ed",
+      "time": "2026-10-09 09:01:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "China lithium carbonate most-active contract extended its intraday decline to 4.77%, trading at 115,820 yuan/ton."
+    },
+    {
+      "id": "mkt:01a11e2d-e31f-7ee0-a807-0df34b5f94f3",
+      "time": "2026-10-09 09:01:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On Friday, Oct. 8, the Taiwan Weighted Index opened 492.93 points, or 0.99%, lower at 49,313.44."
+    },
+    {
+      "id": "5133643",
+      "time": "2026-10-09 09:01:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "新加坡海峽時報指數開盤上漲0.3%，至5430.55點。馬來西亞吉隆坡綜合指數開盤上漲0.1%，至1602.94點。"
+    },
+    {
+      "id": "5133642",
+      "time": "2026-10-09 09:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年第三季度見義勇為勇士榜釋出 79位勇士上榜】10月9日，中央政法委在京釋出2026年第三季度見義勇為勇士榜。根據見義勇為典型事蹟突出程度、網路關注度、各地依法確認和申報意見，進行綜合評審評議，共有79位見義勇為勇士獲通報表揚和獎勵慰問，其中有13位因見義勇為不幸犧牲。（央視）"
+    },
+    {
+      "id": "mkt:01a11e2d-36cd-7ee0-a807-02d313780f1e",
+      "time": "2026-10-09 09:00:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 futures opened down 0.29%."
+    },
+    {
+      "id": "mkt:01a11e2d-308e-7ee0-a806-f97e633a37a7",
+      "time": "2026-10-09 09:00:40",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan 2-year government bond yield fell 1.5 bps to 1.915%."
+    },
+    {
+      "id": "mkt:01a11e2d-26ca-7ee0-a806-f29b270d4bd6",
+      "time": "2026-10-09 09:00:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 0.41% to 895.66 yuan/gram in early trade on Friday, Oct 9. Silver T+D was up 0.09% at 14,465.0 yuan/kg."
+    },
+    {
+      "id": "5133641",
+      "time": "2026-10-09 09:00:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報116640.00元。"
+    },
     {
       "id": "mkt:01a11e2c-c5e9-7ee0-a806-ebfc9171ac7b",
       "time": "2026-10-09 09:00:12",
