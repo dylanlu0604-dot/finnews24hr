@@ -1,7 +1,63 @@
 {
   "date": "2026-10-09",
-  "count": 654,
+  "count": 660,
   "items": [
+    {
+      "id": "mkt:01a11e3a-fedf-7ee0-a807-35ffce1c0799",
+      "time": "2026-10-09 09:15:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brent crude slipped below $102/bbl, down 0.50% intraday."
+    },
+    {
+      "id": "5133708",
+      "time": "2026-10-09 09:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7330元。"
+    },
+    {
+      "id": "5133702",
+      "time": "2026-10-09 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.35%，報23855.31點，高水69.52點。"
+    },
+    {
+      "id": "5133698",
+      "time": "2026-10-09 09:13:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4180美元/盎司，日內漲0.55%。"
+    },
+    {
+      "id": "mkt:01a11e38-5158-7ee0-a807-2fa98ea686fe",
+      "time": "2026-10-09 09:12:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver breached $60/oz, up 1.4% on the day."
+    },
+    {
+      "id": "mkt:01a11e38-3f5d-7ee0-a807-2016398e8be7",
+      "time": "2026-10-09 09:12:44",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【Economic Daily's Jin Guanping: Three dimensions for coordinating central-local efforts to stabilise investment】A recent State Council executive meeting on macro policy to boost effective investment called for coordinated central-local action to stabilize investment. Economic Daily columnist Jin Guanping says effective coordination requires three dimensions: vertical—activate both central and local initiatives; horizontal—align cross-ministerial and cross-regional investment efforts; and government–market—use government guidance while mobilizing private investment. He warns China is at a critical stage of structural upgrading and investment faces both new opportunities and significant implementation obstacles; clearing coordination bottlenecks from top-level design to local delivery is needed to unlock policy effectiveness and restore investment’s role in growth."
+    },
     {
       "id": "5133686",
       "time": "2026-10-09 09:11:15",
