@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-10 03:17:27",
-  "count": 9459,
+  "updated": "2026-10-10 03:21:12",
+  "count": 9463,
   "items": [
+    {
+      "id": "5135664",
+      "time": "2026-10-10 03:20:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA：釋出了最終提案徵詢書。"
+    },
+    {
+      "id": "5135663",
+      "time": "2026-10-10 03:20:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA計劃打造下一代商業空間站。"
+    },
+    {
+      "id": "mkt:01a1221b-7f77-7ee0-a81e-9b86330ef125",
+      "time": "2026-10-10 03:19:49",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "BA.O"
+      ],
+      "text": "NASA solicits commercial space-station proposals from U.S. industry."
+    },
+    {
+      "id": "5135662",
+      "time": "2026-10-10 03:19:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "NASA尋求美國業界提交商業空間站方案。"
+    },
+    {
+      "id": "5135661",
+      "time": "2026-10-10 03:19:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：一架美國間諜無人機在伊朗中部城市亞茲德上空被擊落。"
+    },
     {
       "id": "5135660",
       "time": "2026-10-10 03:15:40",
@@ -86637,15 +86681,6 @@
         "MKT News"
       ],
       "text": "【Hackers breached propulsion-control system on VLCC bound for U.S.】U.S. officials say the FBI and Coast Guard have found that this summer the VLCC \"VL Prosperity\", fully laden with crude and en route to Galveston, Texas, suffered a cyber intrusion into its digital propulsion-control system. Investigators are still determining how the intruders accessed the system and who is responsible; it is unclear how long access persisted or which functions could be controlled. The FBI says it has found no evidence the incident caused operational disruption, instability, danger to crew, or environmental harm. Law enforcement boarded the ship after a loss of communications and suspected network intrusion in late August. As of September, U.S. agencies are tracking cyber threats to nearly 20 vessels worldwide. The rare breach of a ship’s core operating systems has raised U.S. military and intelligence concerns about the potential for remote interference with large tanker operations."
-    },
-    {
-      "id": "5124641",
-      "time": "2026-10-03 03:20:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "週五（10月2日）紐約尾盤，彭博穀物分類指數跌0.48%，報32.9219點，本週累計下跌4.01%，整體持續走低，9月30日美國農業部（USDA）釋出時短線跳水。本週，CBOT玉米期貨累跌5.87%，報4.9725美元/蒲式耳。CBOT小麥期貨累跌2.88%，報6.83美元/蒲式耳。CBOT大豆期貨累跌3.17%，報12.7725美元/蒲式耳，豆粕期貨跌6.47%，豆油期貨漲1.16%。"
     }
   ]
 }
