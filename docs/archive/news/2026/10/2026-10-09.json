@@ -1,7 +1,28 @@
 {
   "date": "2026-10-09",
-  "count": 608,
+  "count": 610,
   "items": [
+    {
+      "id": "5133614",
+      "time": "2026-10-09 08:46:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加40.47億元】截至10月8日，上交所融資餘額報12984.38億元，較前一交易日增加19.18億元；深交所融資餘額報12380.27億元，較前一交易日增加21.29億元；兩市合計25364.65億元，較前一交易日增加40.47億元。"
+    },
+    {
+      "id": "mkt:01a11e1f-aaa2-7ee0-a806-df72b7be7e06",
+      "time": "2026-10-09 08:45:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Vitol CEO: Without ship-to-ship transshipments oil could hit $200/bbl】Vitol CEO Russell Hardy said ship-to-ship transshipments in the Gulf of Oman are sustaining Middle East exports and warned that without them oil could reach $200/bbl, adding Western inventories have little left to draw on. STS activity has surged in recent weeks; some estimates put flows through the Strait of Hormuz at or above pre-war ~20 mln b/d. Hardy said the energy shock is turning into a shipping crisis: shuttle movements through the Strait are highly inefficient, tying up global tanker capacity and driving freight to record levels. Data show average daily earnings for crude tankers topped $500,000/day in early October, roughly ten times the 2025 average. Saudi-to-Rotterdam transport costs have jumped from about $2/bbl to over $35/bbl, adding further upward pressure on fuel prices."
+    },
     {
       "id": "mkt:01a11e1e-e44b-7ee0-a806-d4f6513fdaa1",
       "time": "2026-10-09 08:45:03",

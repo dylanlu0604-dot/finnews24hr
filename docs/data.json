@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-09 08:45:41",
-  "count": 9122,
+  "updated": "2026-10-09 08:49:27",
+  "count": 9119,
   "items": [
+    {
+      "id": "5133614",
+      "time": "2026-10-09 08:46:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加40.47億元】截至10月8日，上交所融資餘額報12984.38億元，較前一交易日增加19.18億元；深交所融資餘額報12380.27億元，較前一交易日增加21.29億元；兩市合計25364.65億元，較前一交易日增加40.47億元。"
+    },
+    {
+      "id": "mkt:01a11e1f-aaa2-7ee0-a806-df72b7be7e06",
+      "time": "2026-10-09 08:45:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Vitol CEO: Without ship-to-ship transshipments oil could hit $200/bbl】Vitol CEO Russell Hardy said ship-to-ship transshipments in the Gulf of Oman are sustaining Middle East exports and warned that without them oil could reach $200/bbl, adding Western inventories have little left to draw on. STS activity has surged in recent weeks; some estimates put flows through the Strait of Hormuz at or above pre-war ~20 mln b/d. Hardy said the energy shock is turning into a shipping crisis: shuttle movements through the Strait are highly inefficient, tying up global tanker capacity and driving freight to record levels. Data show average daily earnings for crude tankers topped $500,000/day in early October, roughly ten times the 2025 average. Saudi-to-Rotterdam transport costs have jumped from about $2/bbl to over $35/bbl, adding further upward pressure on fuel prices."
+    },
     {
       "id": "mkt:01a11e1e-e44b-7ee0-a806-d4f6513fdaa1",
       "time": "2026-10-09 08:45:03",
@@ -83596,51 +83617,6 @@
         "MKT News"
       ],
       "text": "South Korea's finance ministry said bond yields have broadly risen."
-    },
-    {
-      "id": "5123517",
-      "time": "2026-10-02 08:48:17",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通：儘管出現回撥，仍看好全球利差交易】摩根大通表示，儘管近期市場出現回撥，但依託穩健的增長前景，該行依舊看好全球外匯利差交易。 策略師安東尼·德萊爾等人撰文稱，全球及新興市場利差組合已從9月中旬高點回落，但相對於利率市場所反映的基本面，本次回撥幅度似乎過大。 儘管如此，“我們仍傾向於看好全球外匯利差交易”，因為經濟增長預計維持穩健。 “美國短期利率進一步遭遇拋售仍是一項風險。”"
-    },
-    {
-      "id": "5123516",
-      "time": "2026-10-02 08:47:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院少數黨領袖舒默：特朗普正爭取成為有史以來最腐敗的人。"
-    },
-    {
-      "id": "mkt:01a0fa14-ca02-7ee0-a782-08664b3a9a7c",
-      "time": "2026-10-02 08:47:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance ministry said it will closely monitor markets and take pre-emptive measures if necessary."
-    },
-    {
-      "id": "mkt:01a0fa14-c56d-7ee0-a782-06dfb49c3e0e",
-      "time": "2026-10-02 08:47:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Senate minority leader Schumer said Trump is seeking to become the most corrupt person in history."
-    },
-    {
-      "id": "te:markets:588946",
-      "time": "2026-10-02 08:47:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Fall as Oil Prices Gain — The Nikkei 225 Index fell 0.6% to around 68,500 on Friday, ending a two-day winning streak as oil prices climbed amid concerns that a potential escalation in the US-Iran conflict could further disrupt Middle East energy supplies and reignite inflation pressures. Investors also assessed data showing Tokyo’s core inflation accelerated to 2.7% in September, rising above the Bank of Japan’s 2% target for the first time in nine months, partly due to higher oil prices. In corporate news, SoftBank Group said it completed the third and final $10 billion tranche of its follow-on investment in OpenAI, bringing its total investment in the AI company to $64.6 billion for an ownership stake of about 13%. Notable declines came from major firms including Kioxia (-2.3%), SoftBank (-3.8%), Taiyo Yuden (-3.3%), Fast Retailing (-1.5%) and Toyota (-1.8%). For the week, the Nikkei remains on track to advance more than 3%, marking its third consecutive weekly gain."
     }
   ]
 }
