@@ -1,7 +1,107 @@
 {
   "date": "2026-10-10",
-  "count": 307,
+  "count": 318,
   "items": [
+    {
+      "id": "5135697",
+      "time": "2026-10-10 03:35:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將缺席阿拉巴馬州對陣佐治亞州的橄欖球比賽。"
+    },
+    {
+      "id": "5135696",
+      "time": "2026-10-10 03:35:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：（特朗普）給普京的禮物不會帶來和平，也不會給文明世界帶來任何好處。允許俄羅斯出售石油產品，就是在投資一場必須結束、而非拖延的衝突。"
+    },
+    {
+      "id": "mkt:01a12228-ec6a-7ee0-a81e-f9d84dff90e3",
+      "time": "2026-10-10 03:34:29",
+      "tags": [
+        "MKT News",
+        "TXN.O",
+        "Impact mixed"
+      ],
+      "text": "U.S. Trade Representative Greer will visit Texas Instruments' Lehi, Utah, factory on Oct. 16."
+    },
+    {
+      "id": "5135695",
+      "time": "2026-10-10 03:33:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表辦公室：格里爾將於下週參觀猶他州工廠。"
+    },
+    {
+      "id": "mkt:01a12228-40f5-7ee0-a81e-f115ebb69441",
+      "time": "2026-10-10 03:33:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv mayor says air-raid alerts have been issued due to a drone threat."
+    },
+    {
+      "id": "5135694",
+      "time": "2026-10-10 03:33:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "微軟CEO薩提亞·納德拉：Microsoft-Decision-1模型在結構化決策任務上實現頂級效能，在延遲表現與輸出質量兩方面均優於大語言模型及其他決策模型。"
+    },
+    {
+      "id": "5135693",
+      "time": "2026-10-10 03:32:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟推出面向快速決策的Microsoft-Decision-1模型。"
+    },
+    {
+      "id": "mkt:01a12227-4280-7ee0-a81e-e9642996eb14",
+      "time": "2026-10-10 03:32:40",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "CFTC: for the week to Oct. 6, speculators' net short position in CBOT U.S. 2-year Treasury futures rose by 60,880 contracts to 852,904; net short in CBOT U.S. ultra‑long Treasury futures fell by 50,097 contracts to 276,339; net short in CBOT U.S. Treasury futures fell by 67,063 contracts to 119,812."
+    },
+    {
+      "id": "5135692",
+      "time": "2026-10-10 03:32:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "洛克希德公司計劃2031年前實現快速部署。"
+    },
+    {
+      "id": "mkt:01a12226-f36f-7ee0-a81e-e5b5fe887f53",
+      "time": "2026-10-10 03:32:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "CFTC: For the week ended Oct. 6, speculative net short positions in CBOT U.S. 5-year Treasury futures rose by 167,830 contracts to 1,163,531; speculative net short positions in CBOT U.S. 10-year Treasury futures fell by 4,134 contracts to 896,481."
+    },
+    {
+      "id": "5135691",
+      "time": "2026-10-10 03:32:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "洛克希德公司將推進PAC-3 EDGE攔截彈專案研發，2027年啟動測試。"
+    },
     {
       "id": "mkt:01a12226-ac35-7ee0-a81e-d893ba62a468",
       "time": "2026-10-10 03:32:02",
