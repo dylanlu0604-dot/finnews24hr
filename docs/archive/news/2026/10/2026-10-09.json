@@ -1,7 +1,64 @@
 {
   "date": "2026-10-09",
-  "count": 1909,
+  "count": 1916,
   "items": [
+    {
+      "id": "5135388",
+      "time": "2026-10-09 23:07:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破105美元/桶，日內漲0.70%。"
+    },
+    {
+      "id": "5135387",
+      "time": "2026-10-09 23:07:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "銀行業今年有望從黃金交易中斬獲50億美元創紀錄收入。"
+    },
+    {
+      "id": "5135386",
+      "time": "2026-10-09 23:06:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【茅利塔尼亞總理遞交政府辭呈】據茅利塔尼亞通訊社9日報道，茅利塔尼亞總理艾賈伊當天向總統加茲瓦尼遞交政府辭呈。報道說，加茲瓦尼當天上午在首都努瓦克肖特的總統府會見艾賈伊。其間，艾賈伊遞交辭呈。官方未說明政府辭職的原因。（新華社）"
+    },
+    {
+      "id": "mkt:01a12133-6102-7ee0-a819-4e8cd896b05f",
+      "time": "2026-10-09 23:06:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mauritania prime minister submits government resignation to President Ghazouani】On the 9th Mauritania’s prime minister Ai Jiayi submitted his government’s resignation to President Ghazouani at the presidential palace in Nouakchott; officials gave no reason."
+    },
+    {
+      "id": "5135385",
+      "time": "2026-10-09 23:05:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "參議員裡德批評赫格塞思計劃直播處決。"
+    },
+    {
+      "id": "5135384",
+      "time": "2026-10-09 23:04:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫雷蒂：我們將在30天內對進口柴油實施專項補貼，成本為16億雷亞爾。"
+    },
+    {
+      "id": "mkt:01a12131-8bc1-7ee0-a819-4259384659aa",
+      "time": "2026-10-09 23:04:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Planning and Budget Minister said the government will introduce a targeted subsidy for imported diesel, costing 1.6 billion reais and lasting 30 days."
+    },
     {
       "id": "mkt:01a12131-37e5-7ee0-a819-381cafeb6550",
       "time": "2026-10-09 23:03:55",
