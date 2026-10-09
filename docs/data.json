@@ -1,7 +1,112 @@
 {
-  "updated": "2026-10-09 22:04:48",
+  "updated": "2026-10-09 22:09:06",
   "count": 9350,
   "items": [
+    {
+      "id": "5135301",
+      "time": "2026-10-09 22:08:03",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部網站訊息：美國解除對一名緬甸相關個人的制裁。"
+    },
+    {
+      "id": "5135300",
+      "time": "2026-10-09 22:07:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "達美航空執行長表示，即使燃油價格最終回落，我們仍相信我們核心營收的強勁表現具備可持續性。"
+    },
+    {
+      "id": "te:economy:590908",
+      "time": "2026-10-09 22:07:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Michigan Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US Year-Ahead Inflation Expectations Hits 5-Month High — Year-ahead inflation expectations in the US, measured by the University of Michigan Surveys of Consumers, rose for the second month to 4.7% in October 2026, the highest level since May, up from 4.7% in September, according to a preliminary estimate. Meanwhile, the five-year inflation outlook also increased for the second month to 3.5% in October, its highest since May, up from 3.4% in September."
+    },
+    {
+      "id": "5135299",
+      "time": "2026-10-09 22:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國否認退出德法聯合坦克專案】德國政府當地時間9日否認已決定退出與法國聯合研發下一代坦克的專案。此前，法國三軍參謀長法比安·芒東8日宣佈，德方已決定退出“地面主戰系統”專案。德國國防部發言人表示，德法兩國數月前已宣佈調整聯合主戰坦克系統專案，以吸取俄羅斯對烏克蘭發動軍事行動帶來的經驗教訓，但這並不意味著專案已經失敗。德國仍致力於與法國保持平等夥伴關係，合作重點將放在裝甲作戰領域的未來技術上。德法兩國2017年啟動“地面主戰系統”專案，構建以坦克為核心的地面作戰系統，計劃2045年開始投入使用，替代法國的“勒克萊爾”式和德國“豹2”式主戰坦克。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a120fd-6a29-7ee0-a817-8a9a450f4b89",
+      "time": "2026-10-09 22:07:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Germany denies exiting Franco-German next‑gen tank project】Germany on the 9th denied it had decided to withdraw from the Franco‑German joint programme to develop the next‑generation tank, after the French army chief said a day earlier Berlin had quit the Main Ground Combat System (MGCS). A German defence ministry spokesperson said the two countries agreed months ago to adjust the MGCS to incorporate lessons from Russia’s invasion of Ukraine, but that did not mean the project had failed. Germany said it remains committed to equal partnership with France and that cooperation will focus on future armoured‑combat technologies. The MGCS, launched in 2017, is intended to replace France’s Leclerc and Germany’s Leopard 2 main battle tanks from about 2045."
+    },
+    {
+      "id": "5135298",
+      "time": "2026-10-09 22:06:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：休閒和商務出行需求明顯，各艙位均表現強勁。"
+    },
+    {
+      "id": "5135297",
+      "time": "2026-10-09 22:06:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際刑事法院副檢察官表示，美國週五宣佈的針對該法院的制裁“必須受到譴責”，但不會阻止法院的工作。他表示，這些制裁旨在破壞國際法治以及一個獨立司法機構正在開展的工作，法院在所有情勢、調查和起訴方面的工作都將繼續進行。"
+    },
+    {
+      "id": "5135296",
+      "time": "2026-10-09 22:05:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際刑事法院副檢察官表示，美國製裁“必須受到譴責”，但不會阻止法庭的工作。"
+    },
+    {
+      "id": "te:economy:590907",
+      "time": "2026-10-09 22:05:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Consumer Confidence",
+        "Importance 3"
+      ],
+      "text": "US Consumer Sentiment Falls to Five-Month Low — The University of Michigan’s consumer sentiment index fell to 46.3 in early October 2026, according to the preliminary estimate, its lowest level since May’s record low and well below market expectations of 47.6. While year-ahead expectations for personal finances and business conditions edged up slightly, buying conditions for durable goods deteriorated sharply amid elevated prices and borrowing costs. Lower-income consumers and households with smaller stock portfolios recorded particularly steep declines, reflecting their limited capacity to absorb further price increases. Frustration over the cost of living continues to mount, with consumers across the political spectrum increasingly perceiving a deterioration in the economic outlook since the beginning of the year. Meanwhile, inflation expectations edged higher, with year-ahead expectations rising to 4.7% from 4.6% in September, while long-run inflation expectations increased to 3.5% from 3.4%."
+    },
+    {
+      "id": "mkt:01a120fb-9646-7ee0-a817-8748732c530c",
+      "time": "2026-10-09 22:05:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ship struck by unknown projectile west of UAE; fire extinguished — UKMTO】UK Maritime Trade Operations (UKMTO) said on the 9th a vessel about 13 nautical miles (24 km) west of the United Arab Emirates was hit by an unknown projectile and caught fire. The blaze has been extinguished; crew status, vessel damage and environmental impact remain unclear. Authorities are investigating. UKMTO advised vessels in the area to transit with caution and report any suspicious activity."
+    },
+    {
+      "id": "5135295",
+      "time": "2026-10-09 22:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一船舶在阿聯酋附近海域遭不明投射物擊中起火】英國海上貿易行動辦公室9日通報說，一艘船舶在阿聯酋以西海域被不明投射物擊中起火。事發地點位於阿聯酋以西13海里（約合24公里）處。目前，火勢已被撲滅，船員狀況、船舶受損情況以及對環境造成的影響尚不明確。英國海上貿易行動辦公室說，有關部門正在進行調查，建議相關海域上的船隻謹慎通行並向該辦公室報告任何可疑活動。（新華社）"
+    },
+    {
+      "id": "5135294",
+      "time": "2026-10-09 22:04:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "達美航空執行長在電話會議上表示，受消費者行為長期結構性轉變支撐，需求仍保持強勁。"
+    },
     {
       "id": "mkt:01a120f9-d40c-7ee0-a817-7e07d2ee90db",
       "time": "2026-10-09 22:03:25",
@@ -85703,120 +85808,6 @@
         "Importance 0"
       ],
       "text": "Singapore Manufacturing Growth Picks Up in September — Singapore's Manufacturing PMI edged up to 51.7 in September 2026 from 51.5 in August, marking 14 consecutive months of expansion and the highest reading since October 2018, supported by still strong AI-related demand. The Electronics PMI, which accounts for more than one-third of manufacturing output, rose to 52.9 from 52.6, a 16th straight month of growth and the strongest since January 2018, as the sector supported stronger orders, factory output and employment. Order backlogs continued to build while finished goods inventories declined for an 11th consecutive month, reflecting supply-side disruptions and higher import costs rather than weaker demand. Meanwhile, supplier deliveries lengthened for a ninth straight month and rising input costs intensified operational pressures, particularly for chemicals and petrochemicals."
-    },
-    {
-      "id": "te:economy:589203",
-      "time": "2026-10-02 22:08:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Pakistan",
-        "Balance of Trade",
-        "Importance 0"
-      ],
-      "text": "Pakistan Trade Deficit Widens in September — Pakistan recorded a trade deficit of PKR 988.4 billion in September 2026, widening from PKR 945.1 billion a year earlier and from PKR 916.1 billion in the previous month. The September gap is equivalent to USD 3.56 billion. On a year-on-year basis, exports rose 15.8% to PKR 815.1 billion, outpaced in absolute terms by imports, which climbed 9.4% to PKR 1,803.5 billion. Over the July–September 2026 period, the first quarter of the 2026-27 fiscal year, shipments increased 8.8% to PKR 2,338.9 billion while purchases advanced 11.2% to PKR 5,343.1 billion, widening the cumulative trade deficit by 13.2% to PKR 3,004.2 billion (USD 10.79 billion)."
-    },
-    {
-      "id": "te:economy:589201",
-      "time": "2026-10-02 22:08:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Factory Orders",
-        "Importance 2"
-      ],
-      "text": "US Factory Orders Barely Grow in August — New orders for US manufactured goods edged up by 0.1% month over month in August 2026, following a downwardly revised 0.8% increase in July and matching market forecasts. Non-durable goods orders rose by 0.3%, slowing a from a 0.7% increase previously. Among the components, order growth slowed for primary metals (1.2% vs. 2.1% in July) and machinery (1.1% vs. 1.5%), while orders for defense communications equipment slipped 7.3%.Meanwhile, durable goods orders fell by 0.1%, reversing a 0.9% advance in the prior month. Excluding transportation, factory orders rose 0.3%, while excluding defense they increased 0.1%."
-    },
-    {
-      "id": "mkt:01a0fcf1-6c2d-7ee0-a788-90e631cdb88a",
-      "time": "2026-10-02 22:07:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "French President Macron agreed to continue coordinated action to help supplies transit the Strait of Hormuz."
-    },
-    {
-      "id": "5124385",
-      "time": "2026-10-02 22:07:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：已同意繼續協調行動，保障霍爾木茲海峽物資輸出通暢。"
-    },
-    {
-      "id": "mkt:01a0fcf0-8029-7ee0-a788-8eb8a78219cf",
-      "time": "2026-10-02 22:06:54",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "REUTERS SURVEY: If President LULA wins Sunday’s first‑round vote, the Brazilian real is expected to fall about 1.5% immediately to 5.30 per dollar."
-    },
-    {
-      "id": "5124384",
-      "time": "2026-10-02 22:06:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥總統辛鮑姆預計將於下週頒佈法令，要求社交媒體平臺刪除煽動暴力的內容，此舉系在校園致命襲擊事件後推出。"
-    },
-    {
-      "id": "5124383",
-      "time": "2026-10-02 22:06:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓方提議韓朝就軍事分界線分歧見面溝通】據韓聯社2日報道，韓國統一部長官鄭東泳當天提議韓國和朝鮮見面溝通圍繞軍事分界線的分歧。鄭東泳當天表示，近期發生的非軍事區地雷爆炸事故的核心原因在於軍事分界線分歧。“韓國、朝鮮以及‘聯合國軍司令部’測定的界線都不一樣。如果不解決這個問題，同樣的事故隨時可能再次發生。”鄭東泳表示，作為統一部長官，他向朝方提議應見面溝通，至少應就軍事分界線測定和確認事宜進行溝通。（新華社）"
-    },
-    {
-      "id": "mkt:01a0fcf0-0eea-7ee0-a788-82916efe3abd",
-      "time": "2026-10-02 22:06:25",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Reuters survey: If Brazilian senator Flavio Bolsonaro wins Sunday's first-round vote, BRL/USD would appreciate about 4.6% in the near term to around 5.0 per USD."
-    },
-    {
-      "id": "mkt:01a0fcef-9e89-7ee0-a788-799a18694f5d",
-      "time": "2026-10-02 22:05:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS SURVEY: Brazilian real expected to be 5.23 per dollar over the next 12 months, unchanged from the September survey."
-    },
-    {
-      "id": "5124382",
-      "time": "2026-10-02 22:05:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪拜航空執行長：迪拜航空全力支援對FZ1073航班的調查。"
-    },
-    {
-      "id": "5124381",
-      "time": "2026-10-02 22:05:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪拜航空執行長：針對FZ1073航班的正式全面調查正在進行中。"
-    },
-    {
-      "id": "5124380",
-      "time": "2026-10-02 22:05:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【英偉達自5月以來首次創下歷史新高 6萬億美元市值在望】英偉達股價週五創下四個多月來的首個紀錄新高，投資者繼續重新買入這家人工智慧晶片領域的龍頭企業。股價一度上漲2.5%，至236.59美元，突破了5月14日創下的236.54美元的盤中紀錄高點。該股較7月底低點已上漲約25%，今年以來股價上漲近30%，跑贏納斯達克100指數22%的漲幅，但落後於費城證券交易所半導體指數86%的漲幅。此輪上漲使英偉達市值達到5.7萬億美元，距離6萬億美元已不遠；此前從未有任何公司市值突破這一水平。"
     }
   ]
 }
