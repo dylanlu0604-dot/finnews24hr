@@ -1,7 +1,60 @@
 {
   "date": "2026-10-10",
-  "count": 272,
+  "count": 278,
   "items": [
+    {
+      "id": "5135668",
+      "time": "2026-10-10 03:24:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普因颶風“伊薩亞斯”將不出席阿拉巴馬大學對佐治亞大學的比賽。"
+    },
+    {
+      "id": "mkt:01a1221f-71f2-7ee0-a81e-a693ead4fb6c",
+      "time": "2026-10-10 03:24:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Roadside bomb kills policeman in southeast Iran】A roadside bomb detonated on a road near Zahedan in Iran's southeastern Sistan-Baluchestan province on the 9th, killing one policeman and injuring several others, TASNIM News reported. The police vehicle was struck while officers were on duty, and a local police spokesman said the main planner was shot dead while attempting to flee."
+    },
+    {
+      "id": "5135667",
+      "time": "2026-10-10 03:24:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Service Properties Trust股價在成交量激增中大漲，最新上漲7%，此前TKO Hotels宣佈擬以20億美元收購該公司的酒店資產組合。"
+    },
+    {
+      "id": "5135666",
+      "time": "2026-10-10 03:23:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗東南邊境省份發生路邊炸彈襲擊 一名警察死亡】伊朗東南部錫斯坦-俾路支斯坦省扎黑丹市9日發生路邊炸彈爆炸事件，造成一名警察死亡、多名警察受傷。（新華社）"
+    },
+    {
+      "id": "te:markets:590952",
+      "time": "2026-10-10 03:22:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Yield Falls to Two-Year Low — Brazil’s 10-year government bond yield fell to around 12.68% in October, reaching a two-year low amid a rally in domestic assets driven by the election outlook. The first voting-intention polls released after the first round confirmed Senator Flávio Bolsonaro’s lead over President Lula in the runoff scheduled for October 25th, although some results remained within a statistical tie. Markets view Bolsonaro as more fiscally restrictive, and his lead strengthened expectations that a potential administration could tighten control over public spending and take steps to improve Brazil’s fiscal position. Lower pressure on public finances could reduce the risk premium demanded by investors, while tighter fiscal policy could ease inflationary pressures, potentially allowing the Central Bank of Brazil to cut interest rates more quickly."
+    },
+    {
+      "id": "5135665",
+      "time": "2026-10-10 03:21:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA：提案截止日期為12月8日星期二。"
+    },
     {
       "id": "5135664",
       "time": "2026-10-10 03:20:18",
