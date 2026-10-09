@@ -1,7 +1,120 @@
 {
   "date": "2026-10-09",
-  "count": 1212,
+  "count": 1224,
   "items": [
+    {
+      "id": "te:economy:590762",
+      "time": "2026-10-09 15:18:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Austria Industrial Production Drop Eases in August — Austria’s industrial production fell by 0.5% year-on-year in August 2026, easing from a revised one-year low of 0.7% in the previous month. Output in the industrial sector declined at a slower pace (-1.2% vs -1.7% in July), while production growth in the other sector moderated to 1.4% from 2.4%. Among the main industrial groupings, output growth accelerated in intermediate goods (5.2% vs 4.5%), while the decline in consumer non-durables eased sharply (-0.1% vs -17.4%). In contrast, output fell further in energy (-13.0% vs -5.5%) and declined in capital goods (-2.5% vs 1.5%) and consumer durables (-2.6% vs 9.1%). On a seasonally adjusted monthly basis, industrial output fell by 0.9% in August, following an upwardly revised 0.1% decline in the previous month."
+    },
+    {
+      "id": "5134434",
+      "time": "2026-10-09 15:18:11",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【山姆擬限制親友卡繫結】10月9日，山姆會員商店宣佈擬更新《山姆會員商店會員章程》，現公開徵求意見。《山姆會員商店會員章程》擬新增：自首次啟用親友卡之日起每365天，該親友卡關聯的實名身份資訊僅能用於啟用兩名個人主卡會員的親友卡，且每次僅能啟用一名個人主卡會員的親友卡。"
+    },
+    {
+      "id": "mkt:01a11f86-6306-7ee0-a80d-f3556f58c84e",
+      "time": "2026-10-09 15:17:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Russian President Putin attended a CIS leaders' summit chaired by Turkmenistan's president."
+    },
+    {
+      "id": "5134433",
+      "time": "2026-10-09 15:16:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京參加由土庫曼總統主持的獨聯體領導人峰會會議。"
+    },
+    {
+      "id": "mkt:01a11f85-2465-7ee0-a80d-efdc750b27bc",
+      "time": "2026-10-09 15:16:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【India rebuts US labor measures, says PERM pause may delay green-card cases】India's foreign ministry said the US Department of Labor's actions on PERM (permanent labor certification) are distinct from H-1B visas: suspending PERM will not affect the status of existing H-1B holders or their dependents but may delay employees' US permanent-residence (green-card) processes. New Delhi said talent mobility benefits both countries, that Indian professionals are highly educated and skilled contributors to US innovation, productivity and jobs, and described recent remarks by the US vice president as lacking basis and offensive. India said it will continue to monitor developments."
+    },
+    {
+      "id": "mkt:01a11f85-22d5-7ee0-a80d-e5723f56e850",
+      "time": "2026-10-09 15:16:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "【Bond futures midday close】At midday, China bond futures main contracts: 2-year (TS) +0.02%, 5-year (TF) +0.08%, 10-year (T) +0.09%, 30-year (TL) +0.32%."
+    },
+    {
+      "id": "mkt:01a11f85-222e-7ee0-a80d-db97588659ad",
+      "time": "2026-10-09 15:16:21",
+      "tags": [
+        "MKT News",
+        "EVK.DE",
+        "Impact bullish"
+      ],
+      "text": "Sources close to BASF say the current bid for Evonik is not expected to be final."
+    },
+    {
+      "id": "te:markets:590761",
+      "time": "2026-10-09 15:16:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.10% Higher — The Shangai Composite Index gained 4 points or 0.10 percent on Friday to close at 3816 points. Gains were led by Zijin Mining (4.90%), Fuyao Glass Indu (4.59%) and China Molybdenum (3.85%). Biggest losers were NARI Technology (-1.92%), Guangzhou Automobile (-1.87%) and Bank Of Beijing (-1.77%)."
+    },
+    {
+      "id": "5134432",
+      "time": "2026-10-09 15:16:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "據接近巴斯夫（BASF）的訊息人士稱，針對Evonik目前的報價料非最終方案。"
+    },
+    {
+      "id": "5134431",
+      "time": "2026-10-09 15:15:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "西班牙電信股價下跌2.7%，位居IBEX 35指數跌幅榜首位。"
+    },
+    {
+      "id": "5134430",
+      "time": "2026-10-09 15:15:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "海德堡材料<HEIG.DE>股價上漲3%，此前加拿大皇家銀行將其股票評級從“符合行業表現”上調至“跑贏大盤”。"
+    },
+    {
+      "id": "5134429",
+      "time": "2026-10-09 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.32%， 10年期主力合約漲0.09%， 5年期主力合約漲0.08%， 2年期主力合約漲0.02%。"
+    },
     {
       "id": "mkt:01a11f83-7c2f-7ee0-a80d-d19f9ee4b29b",
       "time": "2026-10-09 15:14:32",
