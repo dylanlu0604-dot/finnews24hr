@@ -1,7 +1,83 @@
 {
-  "updated": "2026-10-09 22:40:43",
-  "count": 9364,
+  "updated": "2026-10-09 22:44:39",
+  "count": 9366,
   "items": [
+    {
+      "id": "5135350",
+      "time": "2026-10-09 22:43:19",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【尊界V800正常銷售交付中 現車仍需加價數千元】制動踏板爭議發生後的第二天，尊界V800仍在正常銷售和交付，也有部分消費者已經改變了原定的購車安排。10月9日，北京一家鴻蒙智行門店外，一輛棕金雙色的尊界V800停在門口。銷售人員向介面新聞介紹，這輛車當天剛剛完成交付手續。在交付過程中，該車主沒有主動提及近期發酵的尊界V800制動踏板測試斷裂事件。他更關心的還是日常用車的情況，認為過去開燃油車費用高，現在換成電動車，省錢，也更加舒適。門店工作人員告訴介面新聞，已經知道將為已交付使用者免費升級制動踏板支架底座，但尚未收到更換部件、實施時間和預約方式等具體通知，也還沒有接受相關操作培訓。（介面新聞）"
+    },
+    {
+      "id": "5135349",
+      "time": "2026-10-09 22:42:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳機場國慶假期跨境客流增長超10%】據深圳機場釋出，今年國慶假期（10月1日至7日），深圳機場執行平穩有序，累計保障航班超7500架次，旅客超125萬人次。受今年8月下旬開始的二跑道階段性施工影響，機場高峰小時容量有所調減，航班計劃和航線班次也作了相應調減，國慶期間日均航班量和旅客量同比有所下降，但多條往來深圳的熱門航線仍保持較高客座率，同時出入境日均客流增長超10%。"
+    },
+    {
+      "id": "5135348",
+      "time": "2026-10-09 22:42:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲2%，現報9470.00元。"
+    },
+    {
+      "id": "5135347",
+      "time": "2026-10-09 22:41:47",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【聖諾生物：全資子公司及實控人收到串通投標罪起訴書】聖諾生物公告稱，公司全資子公司聖諾製藥及實際控制人兼董事長文永均近日收到南京市雨花臺區人民檢察院起訴書，因涉嫌在第七批國家藥品集採中串通投標，被以串通投標罪提起公訴。涉案違法所得1097.96萬元，聖諾製藥銷售涉案藥品金額1.17億元。公司已就該違法所得在2025年度財務報表中計提預計負債，罰金金額暫未確定，預計將影響公司本年度或以後年度歸母淨利潤，案件對後續製劑品種銷售存在不確定性。目前公司生產經營正常，文永均仍正常履職。"
+    },
+    {
+      "id": "mkt:01a1211c-c511-7ee0-a818-58ef81e732d9",
+      "time": "2026-10-09 22:41:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. will continue efforts to dismantle the International Criminal Court if it is not constrained."
+    },
+    {
+      "id": "mkt:01a1211c-c201-7ee0-a818-52bc7512ee29",
+      "time": "2026-10-09 22:41:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the US will impose sanctions barring transactions with the International Criminal Court (ICC), cutting off its funding sources and undermining its ability to act against US operations."
+    },
+    {
+      "id": "mkt:01a1211c-332a-7ee0-a818-492957c0c1df",
+      "time": "2026-10-09 22:40:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said the U.S. imposed sanctions on the International Criminal Court today and that President Trump will not allow the ICC to prosecute U.S. citizens."
+    },
+    {
+      "id": "5135346",
+      "time": "2026-10-09 22:40:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧地利政府有條件批准京東對Ceconomy的交易。"
+    },
+    {
+      "id": "5135345",
+      "time": "2026-10-09 22:40:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將10月10日美元對盧布官方匯率設定為1美元兌換84.9048盧布（此前匯率為1美元兌換85.4173盧布）。"
+    },
     {
       "id": "5135344",
       "time": "2026-10-09 22:38:35",
@@ -9,6 +85,15 @@
         "其他"
       ],
       "text": "聯邦調查局局長髮文稱，聯邦調查局已逮捕另一名與聯邦調查局招聘網站駭客入侵事件有關聯的人員。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610093891562860",
+      "time": "2026-10-09 22:38:16",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【9月工程機械主要產品月平均工作時長為80.7小時 同比增長3.32%】據中國工程機械工業協會統計：2026年9月工程機械主要產品月平均工作時長為80.7小時，同比增長3.32%，環比增長8.45%；工程機械主要產品月開工率為52.4%，同比下降2.73個百分點，環比增長1.48個百分點。"
     },
     {
       "id": "em:jjsj_mgsj:202610093891556040",
@@ -85808,83 +85893,6 @@
         "Importance 1"
       ],
       "text": "Western Digital Shares Hit 22-week Low — Western Digital shares decreased to 407.00 USD, the lowest since May 2026. Over the past 4 weeks, Western Digital lost 7.42%, and in the last 12 months, it increased 211.33%."
-    },
-    {
-      "id": "5124421",
-      "time": "2026-10-02 22:43:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "凱傲集團（KION GROUP AG，股票程式碼：KGX.DE）股價下跌8.1%，創下2025年4月以來新低。"
-    },
-    {
-      "id": "5124420",
-      "time": "2026-10-02 22:43:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率抹平此前跌幅，最新持平於4.789%。"
-    },
-    {
-      "id": "5124419",
-      "time": "2026-10-02 22:43:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國兩年期和10年期公債收益率曲線最新報正42.3個基點。"
-    },
-    {
-      "id": "5124418",
-      "time": "2026-10-02 22:43:27",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛從SpaceX IPO早期客戶配售中獲大額激勵費 擬提前慈善捐贈以提升稅務效率 】高盛集團因主導SpaceX 6月首次公開募股獲得約1億美元承銷費，並因早年為高淨值客戶安排SpaceX私募投資而收取大額激勵費，部分合夥人亦隨同客戶參與早期投資。知情人士稱，SpaceX以約1.77萬億美元估值上市，出售股份的高盛客戶獲得顯著收益，銀行由此獲得數億美元激勵費。高盛財務主管決定將該筆未納入此前財務預測的意外收入用於提前進行慈善捐贈，以提升稅務效率；執行長大衛·所羅門上月底曾暗示公司將“以非常、非常節稅的方式”提前多年慈善支出。該安排預計將推高10月13日公佈的第三季度非薪酬支出。SpaceX此次IPO總承銷費約5億美元，對應750億美元募資額費率約0.67%，若行使綠鞋期權追加出售112.5億美元股份，SpaceX無需支付額外費用。"
-    },
-    {
-      "id": "te:markets:589217",
-      "time": "2026-10-02 22:42:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Retreats Further — US gasoline futures fell below $3.30 a gallon, retreating further from its highest level in a week, following reports that Group of Seven nations will release emergency oil and diesel reserves. President Macron stated that G7 nations agreed to release 100 million barrels of emergency reserves over the next four months to contain elevated energy prices. President Trump had threatened a diesel export ban otherwise, despite acknowledging its impact on gasoline prices, which have eased from recent peaks following the end of the summer driving season. Nevertheless, global fuel markets remain tight as EIA data showed that US gasoline inventories fell by 1.7 million barrels in the week ended September 25th, while refinery utilization falling to 92.5%. Russia extended restrictions on most diesel exports through October, although it is considering a partial lift in case of overproduction as the domestic fuel market is reportedly balanced. China also extended its ban on some oil-product exports."
-    },
-    {
-      "id": "mkt:01a0fd10-d5e4-7ee0-a789-268fa37d030f",
-      "time": "2026-10-02 22:42:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX",
-        "Copper"
-      ],
-      "text": "France-Germany 10-year yield spread narrowed to 140 bps, down sharply from 159 bps previously."
-    },
-    {
-      "id": "5124417",
-      "time": "2026-10-02 22:41:27",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛從客戶提前押注SpaceX的減倉中獲利豐厚。"
-    },
-    {
-      "id": "5124416",
-      "time": "2026-10-02 22:41:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "法德10年期國債收益率差收窄至140個基點，此前為159個基點。"
     }
   ]
 }
