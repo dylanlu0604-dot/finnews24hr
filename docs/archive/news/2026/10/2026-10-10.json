@@ -1,7 +1,114 @@
 {
   "date": "2026-10-10",
-  "count": 369,
+  "count": 379,
   "items": [
+    {
+      "id": "mkt:01a12245-f803-7ee0-a81f-bf7f18eab5d4",
+      "time": "2026-10-10 04:06:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P says UK high-carbon hydrocarbon prices have been affecting inflation and expects the Bank of England to raise its policy rate by 25bps at end-2026."
+    },
+    {
+      "id": "5135733",
+      "time": "2026-10-10 04:06:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：基於英國上半年好於預期的表現，我們將2026年實際GDP增長預期上調至1.3%。"
+    },
+    {
+      "id": "mkt:01a12245-68c4-7ee0-a81f-b4df5470ab7a",
+      "time": "2026-10-10 04:05:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "S&P says the stable outlook reflects its view that the UK economy will remain resilient to an energy shock from the Middle East conflict."
+    },
+    {
+      "id": "mkt:01a12244-faad-7ee0-a81f-ad83ea5f763e",
+      "time": "2026-10-10 04:05:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "S&P affirmed the United Kingdom's sovereign ratings at 'AA/A-1+'; outlook stable."
+    },
+    {
+      "id": "5135732",
+      "time": "2026-10-10 04:04:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "標普對英國的評估：高油價持續影響通脹，預計英國央行將在2026年末加息25個基點。"
+    },
+    {
+      "id": "mkt:01a12244-8632-7ee0-a81f-a63fac5a165e",
+      "time": "2026-10-10 04:04:38",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed higher on Friday Oct. 9: the Dow Jones Industrial Average rose 423.31 points (0.83%) to 51,654.95; the S&P 500 gained 46.15 points (0.59%) to 7,811.51; the Nasdaq Composite added 172.83 points (0.64%) to 27,366.17."
+    },
+    {
+      "id": "5135731",
+      "time": "2026-10-10 04:04:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：美俄就柴油達成的協議是強大夥伴做出的“軟弱決定”。"
+    },
+    {
+      "id": "mkt:01a12244-61f3-7ee0-a81f-9ffbef3ae0c8",
+      "time": "2026-10-10 04:04:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Microsoft",
+        "Amazon",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Magnificent 7",
+        "MRNA.O",
+        "Impact bullish",
+        "BABA.N",
+        "DAO.N"
+      ],
+      "text": "【U.S. close: Stocks rise; Moderna jumps >14%】U.S. stocks closed higher on Friday. Dow Jones Industrial Average preliminary close up 0.83%; S&P 500 up 0.59%; Nasdaq Composite up 0.64%. Moderna (MRNA.O) surged 14.21%; Oracle (ORCL.N) +4.69%; Amazon (AMZN.O) +3.29%; Microsoft (MSFT.O) +2.38%; Tesla (TSLA.O) +2.05%; SpaceX (SPCX.O) +1.25%. Nasdaq Golden Dragon China Index +2.69%; NetEase Youdao (DAO.N) +7.36%; Alibaba (BABA.N) +5.36%."
+    },
+    {
+      "id": "5135730",
+      "time": "2026-10-10 04:03:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認英國“AA/A-1+”評級，展望穩定。"
+    },
+    {
+      "id": "5135729",
+      "time": "2026-10-10 04:02:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "AT&T股價下跌9.9%，創2023年以來最大單日跌幅。"
+    },
     {
       "id": "5135728",
       "time": "2026-10-10 04:02:00",
