@@ -1,7 +1,90 @@
 {
   "date": "2026-10-10",
-  "count": 331,
+  "count": 340,
   "items": [
+    {
+      "id": "5135708",
+      "time": "2026-10-10 03:42:57",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "谷歌員工正在測試新版Gemini 4，代號“Carbon”。"
+    },
+    {
+      "id": "5135707",
+      "time": "2026-10-10 03:42:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌即將推出新的人工智慧模型。"
+    },
+    {
+      "id": "5135706",
+      "time": "2026-10-10 03:42:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "太平洋海嘯預警中心：巴拿馬地震不再構成海嘯威脅。"
+    },
+    {
+      "id": "mkt:01a1222e-f5d4-7ee0-a81f-4d665d6194bc",
+      "time": "2026-10-10 03:41:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal Authority: operations normal; emergency protocols activated; technicians are assessing facilities."
+    },
+    {
+      "id": "5135705",
+      "time": "2026-10-10 03:40:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局表示，目前運河運營維持正常，已啟動應急預案，技術人員正對相關設施進行評估。"
+    },
+    {
+      "id": "mkt:01a1222e-8a02-7ee0-a81f-478e59d4b4dd",
+      "time": "2026-10-10 03:40:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama Canal Authority says staff are inspecting facilities to assess possible damage following an earthquake."
+    },
+    {
+      "id": "5135704",
+      "time": "2026-10-10 03:40:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局表示，地震發生後工作人員正在對設施進行檢查，排查潛在受損情況。"
+    },
+    {
+      "id": "mkt:01a1222e-6cb7-7ee0-a81f-39f739b1d827",
+      "time": "2026-10-10 03:40:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International oil prices ticked up on the 9th】At the close, NYMEX light sweet crude futures for November delivery rose $0.36 to $91.85 per barrel, up 0.39%; ICE Brent futures for December delivery rose $0.44 to $104.72 per barrel, up 0.42%."
+    },
+    {
+      "id": "mkt:01a1222d-ea90-7ee0-a81f-3508208fbcbf",
+      "time": "2026-10-10 03:39:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Ukraine President Zelenskiy said Kyiv is willing to take reciprocal de-escalation measures: if Russia stops attacking Ukrainian energy infrastructure, Ukraine will refrain from striking Russian refineries."
+    },
     {
       "id": "mkt:01a1222d-8c73-7ee0-a81f-28c3f15c0b41",
       "time": "2026-10-10 03:39:32",
