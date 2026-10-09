@@ -1,7 +1,504 @@
 {
   "date": "2026-10-09",
-  "count": 1916,
+  "count": 1976,
   "items": [
+    {
+      "id": "5135463",
+      "time": "2026-10-09 23:58:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：美中部夏令時間上午11時位置更新，佛羅里達州狹長地帶和阿拉巴馬州沿海可能發生危及生命的風暴潮和破壞性大風。"
+    },
+    {
+      "id": "5135462",
+      "time": "2026-10-09 23:57:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國2/10年期國債收益率本週漲超7個基點】週五（10月9日）歐市尾盤，英國10年期國債收益率跌3.8個基點，報5.442%，本週累計上漲7.6個基點，10月6日微跌至5.347%之後持續上揚、10月8日達到5.521%。兩年期英債收益率跌2.4個基點，報4.890%，本週累漲7.9個基點。本週，30年期英債收益率累漲5.6個基點，報5.947%，10月8日曾達到6.045%；50年期英債收益率累漲5.0個基點，報5.359%，10月8日曾漲至5.448%。2/10年期英債收益率利差累漲0.313個基點，報+55.079個基點。"
+    },
+    {
+      "id": "te:markets:590921",
+      "time": "2026-10-09 23:57:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Closes at Over 1-Week High — The UK's FTSE 100 rose further to close about 1.1% up at 10,552 on Friday, its highest since September 30, halting a two-day losing streak. Sentiment improved as oil prices retreated, easing pressure on bond yields, after Trump signalled a pause in potential US military action against Iran ahead of next month's midterm elections and described ongoing talks as “productive”. Software-related stocks were among the best performers, with Relx, Sage Group and Experian rising 4.8%, 4.3% and 4.2%, respectively. Mining stocks also advanced strongly, with Antofagasta surging over 5%, amid firmer prices of copper. Fresnillo rose more than 3%, tracking gains in silver and gold. On the flip side, telecom stocks including Airtel Africa (-6.3%), Vodafone (-4.9%) and BT Group (-2.4%) faced pressure after SpaceX agreed to acquire spectrum to strengthen Starlink Mobile’s US ambitions. For the week, the FTSE 100 rose by 0.9%."
+    },
+    {
+      "id": "5135461",
+      "time": "2026-10-09 23:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱胡德堡槍擊案兇手應被行刑隊處決。"
+    },
+    {
+      "id": "te:markets:590920",
+      "time": "2026-10-09 23:55:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Recovers from Four-Month Low — The FTSE MIB closed 0.9% higher at 49,746 on Friday, rebounding from a four-month low as a slowdown in the bond market selloff provided some relief. Financial stocks pared recent losses, with UniCredit rising 1.1% as it sought approval from Brussels for its Commerzbank deal, with a decision expected on November 16th. MPS gained 1.3% after its largest shareholder, Delfin, agreed to suspend additional share purchases until after Intesa’s deal. Nexi advanced 1.8% amid further details on the adoption of the digital euro. Defense stocks also recovered, led by Fincantieri at 6.9%. Utilities also advanced while Italy and the European Commission are to reach a deal on a natural gas price cap following a recent surge in prices, led by Enel (1.3%). Stellantis edged up 0.1% while the EU reached an agreement with China that could halve its hybrid car exports. Elsewhere, Amplifon, Inwit, Saipem, and Buzzi posted strong gains, rising between 2.3% and 6.8%."
+    },
+    {
+      "id": "5135460",
+      "time": "2026-10-09 23:53:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "荷蘭政府提議立法，允許攔截俄羅斯影子艦隊。"
+    },
+    {
+      "id": "5135459",
+      "time": "2026-10-09 23:52:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE10月柴油期貨結算價為每噸1483.00美元。"
+    },
+    {
+      "id": "5135458",
+      "time": "2026-10-09 23:51:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：國土安全部部長乾得很出色。"
+    },
+    {
+      "id": "5135457",
+      "time": "2026-10-09 23:51:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織表示，尚比亞與非洲進出口銀行已就債務重組基本達成一致，目前僅剩手續性事宜。"
+    },
+    {
+      "id": "5135455",
+      "time": "2026-10-09 23:46:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯1至9月預算赤字佔GDP的2.2%。"
+    },
+    {
+      "id": "5135454",
+      "time": "2026-10-09 23:45:46",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯財政部：1-9月預算赤字為5.2萬億盧布，上月同期為5.8萬億盧布。"
+    },
+    {
+      "id": "5135453",
+      "time": "2026-10-09 23:45:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合宣告：這些制裁若生效，將對該法院的工作產生重大影響。"
+    },
+    {
+      "id": "5135452",
+      "time": "2026-10-09 23:45:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫雷蒂：對石油出口徵稅並非永久性措施。"
+    },
+    {
+      "id": "5135451",
+      "time": "2026-10-09 23:45:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合宣告：作為國際刑事法院的堅定支持者，我們對美國宣佈將對法院實施制裁感到遺憾並強烈反對。"
+    },
+    {
+      "id": "5135450",
+      "time": "2026-10-09 23:45:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西計劃和預算部長莫雷蒂：石油出口稅應儘快取消。"
+    },
+    {
+      "id": "5135449",
+      "time": "2026-10-09 23:44:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "宣告表示：我們重申，繼續堅定支援國際刑事法院的獨立性、公正性和完整性。"
+    },
+    {
+      "id": "5135448",
+      "time": "2026-10-09 23:44:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大、丹麥、德國、法國、義大利、日本、荷蘭與英國外長就國際刑事法院發表聯合宣告。"
+    },
+    {
+      "id": "5135447",
+      "time": "2026-10-09 23:43:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西計劃和預算部長莫雷蒂：如有必要遵守財政規則，將凍結支出。"
+    },
+    {
+      "id": "5135446",
+      "time": "2026-10-09 23:43:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫雷蒂：石油出口稅目前仍將維持。"
+    },
+    {
+      "id": "5135445",
+      "time": "2026-10-09 23:42:33",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "VF Corp股價上漲約2%，此前摩根大通將其評級從中性上調至中性。"
+    },
+    {
+      "id": "5135443",
+      "time": "2026-10-09 23:40:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI北歐國家指數漲1.4%，創7月9日以來最大單日漲幅，報391.12點。在十個板塊中，北歐工業板塊漲幅最大。Demant A/S漲6.2%，在一眾北歐個股裡領跑。"
+    },
+    {
+      "id": "5135442",
+      "time": "2026-10-09 23:40:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE英國天然氣11月期貨結算價為202.56便士/撒姆。"
+    },
+    {
+      "id": "5135441",
+      "time": "2026-10-09 23:40:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本將強化太空運輸能力 加速佈局太空軍事力量】據日本方面9日訊息，日本防衛省已敲定方針，將開展相關調研強化太空運輸能力，保障人造衛星情報收集活動穩定執行。日本防衛省認為，當前多國不斷推進太空軍事利用，太空在安全保障層面的戰略重要性持續上升。因此，日本計劃在本財年內，將航空自衛隊改編為“航空宇宙自衛隊”，加強利用人造衛星進行情報收集等活動。（央視新聞）"
+    },
+    {
+      "id": "5135440",
+      "time": "2026-10-09 23:39:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國民主黨參議員沃倫在宣告中稱，調查美聯儲理事庫克的舉動不合法。"
+    },
+    {
+      "id": "5135439",
+      "time": "2026-10-09 23:38:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：昨天從霍爾木茲海峽運出了2800萬桶石油。"
+    },
+    {
+      "id": "5135438",
+      "time": "2026-10-09 23:38:01",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛策略師稱，英國股市依賴國防開支。"
+    },
+    {
+      "id": "5135437",
+      "time": "2026-10-09 23:37:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "Chipotle Mexican Grill股價下跌約4%，此前週四曾上漲6.2%。"
+    },
+    {
+      "id": "5135436",
+      "time": "2026-10-09 23:37:03",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：很快會以某種方式結束。"
+    },
+    {
+      "id": "5135435",
+      "time": "2026-10-09 23:36:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申，伊朗戰爭結束後物價將會下降。"
+    },
+    {
+      "id": "5135434",
+      "time": "2026-10-09 23:36:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：即將釋出關於柴油的重大訊息。"
+    },
+    {
+      "id": "5135433",
+      "time": "2026-10-09 23:36:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在白宮活動上發表講話。"
+    },
+    {
+      "id": "5135432",
+      "time": "2026-10-09 23:35:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長杜里根表示，預計10月份燃油價格將下降。"
+    },
+    {
+      "id": "5135431",
+      "time": "2026-10-09 23:35:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威外交大臣：我們正與其他國家一道，持續評估在當前嚴峻形勢下如何最好地支援和保護該法院，以及是否有可能阻止制裁真正實施。"
+    },
+    {
+      "id": "5135430",
+      "time": "2026-10-09 23:35:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長杜里根：燃油價格決定背後並無選舉意圖。"
+    },
+    {
+      "id": "5135429",
+      "time": "2026-10-09 23:34:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "T-MOBILE股價跌幅擴大至12%，創2020年3月以來最大跌幅。"
+    },
+    {
+      "id": "5135428",
+      "time": "2026-10-09 23:34:39",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛策略師表示，法國股市的相對便宜尚不構成買入理由，他們認為縮小折價所需的條件目前均未出現。"
+    },
+    {
+      "id": "5135427",
+      "time": "2026-10-09 23:34:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫雷蒂：一個月的補貼總額接近27億雷亞爾。"
+    },
+    {
+      "id": "5135426",
+      "time": "2026-10-09 23:33:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "挪威外交大臣就國際刑事法院制裁問題表示：美國宣佈計劃擴大對國際刑事法院的制裁，令人深感擔憂。"
+    },
+    {
+      "id": "5135425",
+      "time": "2026-10-09 23:33:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "AST SpaceMobile股價創52周新低，下跌15%。"
+    },
+    {
+      "id": "5135424",
+      "time": "2026-10-09 23:32:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪拜航空表示，飛往沙烏地阿拉伯利雅得和延布的航班取消至10月10日，飛往艾卜哈的航班取消至10月11日。"
+    },
+    {
+      "id": "5135423",
+      "time": "2026-10-09 23:31:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奈及利亞襲擊事件致一中國公民死亡】奈及利亞凱比州警方9日釋出公告說，該州8日發生一起襲擊事件，造成一名外國公民和兩名當地安保人員死亡。警方9日對新華社記者確認，死亡的這名外國公民為中國公民。武裝分子從鄰近的索科託州進入該地區，襲擊了一處建築工地，另有兩人受傷並被送往醫院治療。警方還說，警方8日在該州另一地點選退一起襲擊。安全部隊已被派往相關地區加強警戒。（新華社）"
+    },
+    {
+      "id": "5135422",
+      "time": "2026-10-09 23:31:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩名男子在劍橋郡皇家空軍基地被捕後獲保釋。"
+    },
+    {
+      "id": "5135421",
+      "time": "2026-10-09 23:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元區藍籌股上漲0.83%。"
+    },
+    {
+      "id": "5135420",
+      "time": "2026-10-09 23:31:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國CAC 40指數上漲0.96%；西班牙IBEX指數上漲0.82%。"
+    },
+    {
+      "id": "5135419",
+      "time": "2026-10-09 23:30:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數上漲1.03%。"
+    },
+    {
+      "id": "5135418",
+      "time": "2026-10-09 23:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國富時100指數上漲1.13%；德國DAX指數上漲1.19%。"
+    },
+    {
+      "id": "5135417",
+      "time": "2026-10-09 23:29:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會主席卡爾在採訪中表示，關於軍事處決能否在廣播電視網路上播出，該機構將聽從五角大樓的意見。"
+    },
+    {
+      "id": "5135416",
+      "time": "2026-10-09 23:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "普雷沃：比利時呼籲啟動歐盟《阻斷法令》以保護國際刑事法院。"
+    },
+    {
+      "id": "5135415",
+      "time": "2026-10-09 23:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名特朗普政府高階官員稱：在封鎖伊朗以及重創其經濟的時間表問題上，時間對我們有利。對伊朗的封鎖增強了制裁的有效性，並使其無法依賴石油收入。"
+    },
+    {
+      "id": "5135414",
+      "time": "2026-10-09 23:28:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "比利時副首相普雷沃：強烈譴責美國對國際刑事法院實施的新制裁。"
+    },
+    {
+      "id": "5135413",
+      "time": "2026-10-09 23:26:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第六屆巴西“中國影視作品展播季”線下展映閉幕暨線上展播啟幕】當地時間10月8日，由中央廣播電視總檯、巴西里約國際電影節及RioMarket、巴西盒子媒體集團共同舉辦的第六屆巴西“中國影視作品展播季”線下展映閉幕暨線上展播啟動儀式在巴西里約熱內盧舉行。中國駐巴西大使館、中國駐累西腓總領事館、中國駐聖保羅總領事館、中國駐里約熱內盧總領事館對活動給予支援。來自中巴兩國政府、媒體及影視文化界的150位嘉賓出席活動，共同回顧本屆展播季的線下展映成果，並見證線上展播啟動。（央視新聞）"
+    },
+    {
+      "id": "5135412",
+      "time": "2026-10-09 23:24:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡爾表示，對迪士尼訴訟案的現狀“感覺良好”。"
+    },
+    {
+      "id": "5135411",
+      "time": "2026-10-09 23:24:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "Proofpoint和Sophos的受壓貸款因AI擔憂緩解而上漲。"
+    },
+    {
+      "id": "5135410",
+      "time": "2026-10-09 23:24:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿拉巴馬電力公司為應對颶風伊薩亞斯提前調集人員和資源。"
+    },
+    {
+      "id": "5135409",
+      "time": "2026-10-09 23:23:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "莫雷蒂：我們不會與巴西石油公司商討定價事宜；該公司有自身的治理體系。"
+    },
+    {
+      "id": "5135408",
+      "time": "2026-10-09 23:23:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "委內瑞拉國家石油公司負責人表示，委內瑞拉煉油廠日加工量為35萬桶。"
+    },
+    {
+      "id": "5135407",
+      "time": "2026-10-09 23:22:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會主席表示，市場將會有“更多頻譜”入市。"
+    },
+    {
+      "id": "5135406",
+      "time": "2026-10-09 23:20:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會（FCC）主席卡爾表示，市場將決定贏家和輸家。"
+    },
+    {
+      "id": "5135405",
+      "time": "2026-10-09 23:19:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會（FCC）主席卡爾預計，未來兩年將有超過1000億美元的頻譜待售。"
+    },
+    {
+      "id": "te:markets:590917",
+      "time": "2026-10-09 23:17:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Futures at Over 2-Year High — Rice futures have sustained their recent gains, trading near $17 per hundredweight, their highest level since July 2024, amid concerns over tightening supply and rising logistical costs. In its October outlook, the FAO forecast global rice production at 552.5 million tonnes for the 2026/27 season, down 2.4% from the prior season’s record. Although global stocks are expected to remain historically high, potentially cushioning supply pressures, adverse weather is adding to production risks in key Asian markets. In India, output is forecast to fall by 6.5% in 2026 to 144 million tonnes, as below-normal monsoon rainfall and reduced summer planting weigh on production. Meanwhile, flooding in Thailand is disrupting river transport and delaying planting for the next crop, while the risk of El Niño-related weather disruptions adds further uncertainty over yields across Asia. Higher fuel, freight and insurance costs amid geopolitical tensions in the Middle East are also supporting prices."
+    },
     {
       "id": "5135388",
       "time": "2026-10-09 23:07:35",
