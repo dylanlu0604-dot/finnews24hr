@@ -1,7 +1,82 @@
 {
-  "updated": "2026-10-09 14:44:58",
-  "count": 9258,
+  "updated": "2026-10-09 14:48:43",
+  "count": 9259,
   "items": [
+    {
+      "id": "mkt:01a11f6b-6b72-7ee0-a80c-f2dd721c04f4",
+      "time": "2026-10-09 14:48:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share property sector extended gains; Zhongjiao Development hit limit-up, while Shenwuye A, Shahe and Rongan Real Estate rose as of publication."
+    },
+    {
+      "id": "mkt:01a11f6b-1ac7-7ee0-a80c-ed466d48ded7",
+      "time": "2026-10-09 14:47:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU banks under extra scrutiny over sovereign bond risk — EBA】European Banking Authority (EBA) chief said regulators are carrying out an additional review of banks' sovereign bond portfolios worth trillions of euros after yields in some core euro-area countries jumped to multi‑year highs. He said exposures appear to remain within manageable bounds and that higher net interest income has largely offset mark‑to‑market losses to banks' equity values. \"So far, we have not seen banks suffer material damage from the current situation, and we are confident regulators are taking necessary measures,\" he added."
+    },
+    {
+      "id": "mkt:01a11f69-fc19-7ee0-a80c-e78323495c87",
+      "time": "2026-10-09 14:46:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistani security forces kill seven militants】The Prime Minister's Office said on the 9th that Pakistani security forces killed seven militants and seized large quantities of weapons and ammunition during an operation in North Waziristan."
+    },
+    {
+      "id": "5134376",
+      "time": "2026-10-09 14:46:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦安全部隊打死7名武裝分子】據巴基斯坦總理辦公室9日訊息，巴安全部隊在北瓦濟里斯坦地區開展的一場行動中，打死7名武裝分子並繳獲了大量武器和彈藥。（央視新聞）"
+    },
+    {
+      "id": "5134375",
+      "time": "2026-10-09 14:45:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟氣候事務專員霍克斯特拉：今日將在歐盟財長會議討論超額利潤。"
+    },
+    {
+      "id": "mkt:01a11f68-fff4-7ee0-a80c-d9f50e68bf50",
+      "time": "2026-10-09 14:45:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesia orders 30% cuts to unused travel budgets as energy costs squeeze budget】Indonesia has told ministries and agencies to cut unspent travel budgets by 30% as rising oil prices and increased project spending tighten year‑end government outlays. The budget deficit widened to 1.24% of GDP through September. Finance Minister Suahasil said Friday the government still expects to meet a full‑year deficit target of about 2.8% of GDP. Energy subsidies and compensation rose more than 50% YoY to IDR 377 trillion (~$21.1bn) through September, driven by higher oil prices, stronger domestic demand for subsidized fuels and LPG, and a switch to monthly payment settlements."
+    },
+    {
+      "id": "5134374",
+      "time": "2026-10-09 14:45:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【巴克萊：儘管歐洲存在風險，今年股市仍將上行】巴克萊策略師預計全球股市在年底前將繼續走高，但這一前景取決於債券收益率與油價保持穩定，以及市場對人工智慧領域投入持續保有信心。由埃馬紐埃爾·考帶領的團隊撰文稱，美股仍受AI相關收益支撐，但市場越來越依賴少數幾家科技企業，使得大盤較為脆弱。歐洲面臨融資成本上行、油價走高以及法國財政困境帶來的壓力。投資者對歐洲股市的看法愈發悲觀，但分析師表示，市場對於大範圍金融危機的擔憂言過其實。歐洲銀行股或進一步遭拋售，但其基本面業務依舊穩健，三季度財報有望提振市場信心。"
+    },
+    {
+      "id": "5134373",
+      "time": "2026-10-09 14:45:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新成交額超100億元】兆易創新成交額超100億元，現跌超2%。"
+    },
+    {
+      "id": "5134372",
+      "time": "2026-10-09 14:44:48",
+      "tags": [
+        "市場",
+        "觀點",
+        "其他"
+      ],
+      "text": "【但斌：控制好倉位、保持耐心】10月9日，知名私募大佬但斌在社交平臺發帖稱，短期價格波動無法預測，但投資的本質，是評估企業長期價值。泥沙俱下之時，恰恰是靜下心篩選優質資產的視窗。控制好倉位，保持耐心，穿越週期。（財聞）"
+    },
     {
       "id": "te:markets:590750",
       "time": "2026-10-09 14:43:33",
@@ -84864,79 +84939,6 @@
         "Importance 1"
       ],
       "text": "TAIEX Ends at Record High, Logs 3rd Weekly Gain — The TAIEX, Taiwan’s benchmark stock index, advanced 122 points, or 0.3%, to close at a new record peak of 48,476 on Friday, extending gains from the previous two sessions, mainly buoyed by gains in energy minerals, producer manufacturing, and process industries. Traders were attempting to maintain momentum after the index reached a record high on Thursday. The broader index tracked an upbeat session on Wall Street overnight, due to easing Treasury yields. Energy and mineral sectors surged 6.1%, boosted by a jump in Formosa Petrochemical Corp., which soared 6.2% due to surging oil prices and strong refining margins. However, electronic technology edged up 0.2%, with TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, retreating 0.4%. Other notable gains were Unimicron Tech (7.4%), Elite Material (3.9%), and Nan Ya Plastics (2.6%). For the week, the index climbed 0.9%, marking the third straight weekly gain."
-    },
-    {
-      "id": "5123820",
-      "time": "2026-10-02 14:48:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【逢低買入科技股支撐韓股週五小幅收漲】週五韓國股市小幅收高，投資者逢低吸納大型科技股，抵消了市場對利率與油價上行的擔憂。韓元兌美元走高。韓國綜合股價指數（KOSPI）低開後上揚，收盤上漲32.39點，漲幅0.45%，報7003.74點。截至下午3點30分，韓元兌美元匯率報1350.6韓元，較上一交易日收盤升值7.6韓元。"
-    },
-    {
-      "id": "5123819",
-      "time": "2026-10-02 14:47:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "IG Group在Tradegate交易所股價較倫敦收盤價下跌10%。"
-    },
-    {
-      "id": "5123818",
-      "time": "2026-10-02 14:46:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "採埃孚商用車控制系統印度有限公司：稅務部門撤銷了1790萬盧比的稅款追繳及180萬盧比的罰款。"
-    },
-    {
-      "id": "te:economy:589026",
-      "time": "2026-10-02 14:46:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Norway",
-        "Unemployed Persons",
-        "Importance 1"
-      ],
-      "text": "Norway Jobseekers Lowest in 17 Months — Norway’s seasonally adjusted number of people registered as out of work declined to 61.3 thousand in September 2026, the lowest level since April 2025, from a downwardly revised 61.9 thousand in August. This represented 2.0% of the workforce, unchanged from the previous month, while gross unemployment held steady at 2.6%. Among occupations, tourism and transport recorded the highest gross unemployment rate at 3.5%, while academic professions and health, nursing and care had the lowest rates at 1.0% and 1.1%, respectively. By region, gross unemployment was highest in Østfold (3.2%) and Oslo (3.1%), while lowest in Troms at 1.5%. Labor demand remained firm, with 44.5 thousand vacancies advertised in September, or around 1,900 per working day, up 3% from a year earlier. On an unadjusted basis, fully unemployed people totaled 59.4 thousand, down from 62 thousand a year earlier."
-    },
-    {
-      "id": "5123817",
-      "time": "2026-10-02 14:46:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國Dunamu交易所執行長稱，強勁的零售交易是韓國加密貨幣市場的主要優勢。"
-    },
-    {
-      "id": "5123816",
-      "time": "2026-10-02 14:46:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國Dunamu交易所執行長稱， 正為穩定幣準備技術和分銷支援。"
-    },
-    {
-      "id": "5123815",
-      "time": "2026-10-02 14:45:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國Dunamu交易所執行長稱，韓國應儘快推出錨定韓元的穩定幣。"
-    },
-    {
-      "id": "5123814",
-      "time": "2026-10-02 14:45:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本佐川急便將從1月起調整運費和手續費。"
     }
   ]
 }

@@ -1,7 +1,82 @@
 {
   "date": "2026-10-09",
-  "count": 1121,
+  "count": 1130,
   "items": [
+    {
+      "id": "mkt:01a11f6b-6b72-7ee0-a80c-f2dd721c04f4",
+      "time": "2026-10-09 14:48:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share property sector extended gains; Zhongjiao Development hit limit-up, while Shenwuye A, Shahe and Rongan Real Estate rose as of publication."
+    },
+    {
+      "id": "mkt:01a11f6b-1ac7-7ee0-a80c-ed466d48ded7",
+      "time": "2026-10-09 14:47:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【EU banks under extra scrutiny over sovereign bond risk — EBA】European Banking Authority (EBA) chief said regulators are carrying out an additional review of banks' sovereign bond portfolios worth trillions of euros after yields in some core euro-area countries jumped to multi‑year highs. He said exposures appear to remain within manageable bounds and that higher net interest income has largely offset mark‑to‑market losses to banks' equity values. \"So far, we have not seen banks suffer material damage from the current situation, and we are confident regulators are taking necessary measures,\" he added."
+    },
+    {
+      "id": "mkt:01a11f69-fc19-7ee0-a80c-e78323495c87",
+      "time": "2026-10-09 14:46:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistani security forces kill seven militants】The Prime Minister's Office said on the 9th that Pakistani security forces killed seven militants and seized large quantities of weapons and ammunition during an operation in North Waziristan."
+    },
+    {
+      "id": "5134376",
+      "time": "2026-10-09 14:46:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦安全部隊打死7名武裝分子】據巴基斯坦總理辦公室9日訊息，巴安全部隊在北瓦濟里斯坦地區開展的一場行動中，打死7名武裝分子並繳獲了大量武器和彈藥。（央視新聞）"
+    },
+    {
+      "id": "5134375",
+      "time": "2026-10-09 14:45:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟氣候事務專員霍克斯特拉：今日將在歐盟財長會議討論超額利潤。"
+    },
+    {
+      "id": "mkt:01a11f68-fff4-7ee0-a80c-d9f50e68bf50",
+      "time": "2026-10-09 14:45:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesia orders 30% cuts to unused travel budgets as energy costs squeeze budget】Indonesia has told ministries and agencies to cut unspent travel budgets by 30% as rising oil prices and increased project spending tighten year‑end government outlays. The budget deficit widened to 1.24% of GDP through September. Finance Minister Suahasil said Friday the government still expects to meet a full‑year deficit target of about 2.8% of GDP. Energy subsidies and compensation rose more than 50% YoY to IDR 377 trillion (~$21.1bn) through September, driven by higher oil prices, stronger domestic demand for subsidized fuels and LPG, and a switch to monthly payment settlements."
+    },
+    {
+      "id": "5134374",
+      "time": "2026-10-09 14:45:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【巴克萊：儘管歐洲存在風險，今年股市仍將上行】巴克萊策略師預計全球股市在年底前將繼續走高，但這一前景取決於債券收益率與油價保持穩定，以及市場對人工智慧領域投入持續保有信心。由埃馬紐埃爾·考帶領的團隊撰文稱，美股仍受AI相關收益支撐，但市場越來越依賴少數幾家科技企業，使得大盤較為脆弱。歐洲面臨融資成本上行、油價走高以及法國財政困境帶來的壓力。投資者對歐洲股市的看法愈發悲觀，但分析師表示，市場對於大範圍金融危機的擔憂言過其實。歐洲銀行股或進一步遭拋售，但其基本面業務依舊穩健，三季度財報有望提振市場信心。"
+    },
+    {
+      "id": "5134373",
+      "time": "2026-10-09 14:45:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新成交額超100億元】兆易創新成交額超100億元，現跌超2%。"
+    },
+    {
+      "id": "5134372",
+      "time": "2026-10-09 14:44:48",
+      "tags": [
+        "市場",
+        "觀點",
+        "其他"
+      ],
+      "text": "【但斌：控制好倉位、保持耐心】10月9日，知名私募大佬但斌在社交平臺發帖稱，短期價格波動無法預測，但投資的本質，是評估企業長期價值。泥沙俱下之時，恰恰是靜下心篩選優質資產的視窗。控制好倉位，保持耐心，穿越週期。（財聞）"
+    },
     {
       "id": "te:markets:590750",
       "time": "2026-10-09 14:43:33",
