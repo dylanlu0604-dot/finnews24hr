@@ -1,7 +1,258 @@
 {
   "date": "2026-10-09",
-  "count": 1156,
+  "count": 1183,
   "items": [
+    {
+      "id": "5134409",
+      "time": "2026-10-09 15:03:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "波札那總統博科將訪華。"
+    },
+    {
+      "id": "mkt:01a11f79-5c79-7ee0-a80d-93defedb7518",
+      "time": "2026-10-09 15:03:29",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Porsche reports first nine months deliveries down 16% YoY to 178,532 units. Europe ex-Germany down 11% YoY; Germany down 7% YoY; North America down 13% YoY."
+    },
+    {
+      "id": "mkt:01a11f78-eccf-7ee0-a80d-8b0119adb46b",
+      "time": "2026-10-09 15:03:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "Oct 9 — China's Shanghai Composite Index closed up 1.89 points (+0.05%) at 3,813.79; Shenzhen Composite Index closed up 20.96 points (+0.17%) at 12,641.86; CSI 300 Index closed up 6.98 points (+0.16%) at 4,317.25; ChiNext Index closed up 6.68 points (+0.22%) at 3,043.33; Sci‑Tech Innovation 50 Index closed up 0.95 points (+0.07%) at 1,457.27."
+    },
+    {
+      "id": "5134408",
+      "time": "2026-10-09 15:02:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西精誠礦業瞞報礦工死亡一審宣判】2026年10月9日，山西省原平市人民法院依法對潘當仁等41名被告人犯重大責任事故罪、不報安全事故罪、行賄罪一案一審公開宣判。"
+    },
+    {
+      "id": "mkt:01a11f78-a273-7ee0-a80d-8723b8cee7de",
+      "time": "2026-10-09 15:02:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Franklin Templeton: short-term bonds an ideal entry into AI exposure】Franklin Templeton CEO Jenny Johnson said short-term debt issued by large tech firms presents an attractive way to gain AI exposure given those firms’ strong cash flows and balance sheets. She said tech financing has grown more complex — extending beyond traditional creditors to include off-balance-sheet facilities guaranteed by major cloud providers and vendor financing where suppliers act as lenders. Holding long-term bonds, she warned, exposes investors to uncertainty from rapid technological change. Johnson added the AI wave has not yet materially raised productivity; current U.S. productivity growth of roughly 2% reflects past two decades of technology and AI will take time to integrate into the economy."
+    },
+    {
+      "id": "mkt:01a11f77-df4b-7ee0-a80d-7f78d99a1216",
+      "time": "2026-10-09 15:01:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai-Shenzhen combined turnover CNY1.90 trillion; Zhongji Xuchuang tops list】Oct 9 — Shanghai and Shenzhen markets posted combined turnover of 1.9006 trillion yuan, up 218.43 billion yuan from the prior session. Shanghai turnover was 888.56 billion yuan (previous 811.18 billion), volume 535 mln lots (previous 482 mln); Shenzhen turnover was 1.012 trillion yuan (previous 870.94 billion), volume 633 mln lots (previous 533 mln). Zhongji Xuchuang led stock-level turnover at 21.09 billion yuan, followed by CATL 16.03 billion, Changxin Technology 14.98 billion, Xinyisheng 14.62 billion and Dongshan Precision 12.83 billion."
+    },
+    {
+      "id": "mkt:01a11f77-c820-7ee0-a80d-75b762ab34f7",
+      "time": "2026-10-09 15:01:45",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Austria industrial production fell 0.5% YoY in August."
+    },
+    {
+      "id": "5134407",
+      "time": "2026-10-09 15:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報5033.13億元，較昨日此時放量726.73億元】截至目前，ETF兩市成交額報5033.13億元，較昨日此時放量726.73億元，分型別來看，股票型ETF成交額1669.61億元，債券型ETF成交額2073.2億元，貨幣型ETF成交額403.32億元，商品型ETF成交額113.3億元，QDII型ETF成交額773.71億元。"
+    },
+    {
+      "id": "mkt:01a11f77-b8d9-7ee0-a80d-6e1dcd98f0e3",
+      "time": "2026-10-09 15:01:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Slovakia industrial production fell 0.2% YoY in August, against market expectations for a 2.1% YoY gain."
+    },
+    {
+      "id": "5134406",
+      "time": "2026-10-09 15:01:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【A股收評：創業板指探底回升漲0.22%，AI影片、影視院線板塊午後大幅拉昇】A股三大指數今日集體上漲，截至收盤，上證指數漲0.05%，深證成指漲0.17%，創業板指漲0.22%，北證50漲2.49%，科創50指數漲0.07%。全市場成交額19167億元，較上日放量2224億元，全市場超3200只個股上漲。板塊題材上，AI影片、貴金屬、軟體開發、糧食種植、零售、乳業、證券、電池板塊漲幅居前；風電裝置、MLCC、PCB、CPO、先進封裝、儲存晶片板塊跌幅居前。盤面上，國內首部AI超寫實院線電影定檔10月23日登陸全國院線，影視院線、AI影片概念股午後暴力拉昇，中文線上、芒果超媒、吉視傳媒等10餘股漲停。國際金價反彈，貴金屬板塊午後走高，西部黃金封板。金融IT、軟體板塊午後同步走高，綠盟科技、麒麟信安收穫20cm漲停。此外，糧食種植、乳業、電池等板塊盤中均有表現。另一方面，MLCC、PCB等算力硬體股延續弱勢，風華高科早盤一度跌停，金安國紀封死跌停，國瓷材料、深南電路等多股下跌。風電裝置板塊同樣表現不佳，大金重工盤中跳水跌停，海力風電、天順風能跌幅居前。"
+    },
+    {
+      "id": "mkt:01a11f77-a5fb-7ee0-a80d-62d49b2d12ee",
+      "time": "2026-10-09 15:01:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities opened on Oct 9: Germany's DAX 30 +151.78 pts (+0.61%) at 24,958.75; UK FTSE 100 +85.05 pts (+0.81%) at 10,526.65; France CAC 40 +54.15 pts (+0.70%) at 7,783.84; EUROSTOXX 50 +36.62 pts (+0.60%) at 6,163.35; Spain IBEX 35 +189.52 pts (+1.00%) at 19,118.42; Italy FTSE MIB -325.75 pts (-0.65%) at 49,646.50."
+    },
+    {
+      "id": "5134405",
+      "time": "2026-10-09 15:01:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "派拉蒙影業正在開發一部以《賽博朋克2077》宇宙為背景的真人電影，訊息傳出後，CD Projekt股價上漲1.7%。"
+    },
+    {
+      "id": "mkt:01a11f77-47ad-7ee0-a80d-5f5f6d3c53ef",
+      "time": "2026-10-09 15:01:13",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China index futures midday close】China index futures midday: CSI 300 (IF) main contract up 0.21%; SSE 50 (IH) main contract up 0.23%; CSI 500 (IC) main contract up 0.24%; CSI 1000 (IM) main contract up 0.37%."
+    },
+    {
+      "id": "5134404",
+      "time": "2026-10-09 15:01:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指上漲1%，至108,201.00點。"
+    },
+    {
+      "id": "5134403",
+      "time": "2026-10-09 15:01:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【滬深兩市今日成交額合計1.9萬億元，中際旭創成交額居首】滬深兩市今日全天成交額合計1.9萬億元，較上一日增量2184.32億元。其中，滬市成交額為8885.61億元（上一交易日為8111.83億元），成交量為5.35億手（上一交易日為4.82億手）；深市成交額為1.01萬億元（上一交易日為8709.26億元），成交量為6.32億手（上一交易日為5.33億手）。中際旭創成交額居首，為210.92億元。其次是寧德時代、長鑫科技、新易盛、東山精密，成交額分別為160.28億元、149.79億元、146.19億元、128.33億元。"
+    },
+    {
+      "id": "5134402",
+      "time": "2026-10-09 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.05%，深證成指漲0.17%，創業板指漲0.22%。"
+    },
+    {
+      "id": "mkt:01a11f77-0b87-7ee0-a80d-516c4f2a8f52",
+      "time": "2026-10-09 15:00:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Swiss consumer confidence index (September) -35.8, expected -31.5, prior -32.8."
+    },
+    {
+      "id": "mkt:01a11f77-0610-7ee0-a80d-4bc0eae99e8b",
+      "time": "2026-10-09 15:00:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "At midday close in China, domestic main futures contracts were mostly higher: methanol up over 7%, coking coal up over 4%, LPG up nearly 4%, polypropylene and plastics up over 3%, and coke, rubber and 20-grade natural rubber up about 3%. Decliners included container-shipping Europe-route futures, down over 5%; Shanghai tin and ethylene glycol (EG) down over 4%; lithium carbonate down over 3%; bitumen down nearly 3%; coated paper and urea down over 2%."
+    },
+    {
+      "id": "mkt:01a11f76-f223-7ee0-a80d-4159564b0364",
+      "time": "2026-10-09 15:00:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Consumer Confidence Index (Sep) | actual -35.8 | consensus -31.5 | previous -32.8"
+    },
+    {
+      "id": "5134401",
+      "time": "2026-10-09 15:00:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：影視ETF領漲7.73%，科創綜指增強ETF領跌3.55%】ETF收盤漲跌不一，影視ETF（516620）領漲7.73%，影視ETF（159855）漲7.53%，巴西ETF（159100）漲6.66%，科創綜指增強ETF（588550）領跌3.55%，科創新材料ETF（589510）跌3.42%，科創100ETF（589270）跌2.64%。"
+    },
+    {
+      "id": "mkt:01a11f76-c025-7ee0-a80d-38e8acc825f2",
+      "time": "2026-10-09 15:00:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "During the National Day holiday, China recorded 826 million domestic trips and total domestic travel spending of 738.375 bln yuan."
+    },
+    {
+      "id": "5134400",
+      "time": "2026-10-09 15:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "保時捷2026年前九個月全球交付量為178,532輛。"
+    },
+    {
+      "id": "5134399",
+      "time": "2026-10-09 15:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "保時捷2026年前九個月全球交付量達178,532輛。"
+    },
+    {
+      "id": "5134398",
+      "time": "2026-10-09 15:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年國慶節假期國內出遊8.26億人次】2026年國慶節假期，全國文化和旅遊市場平穩有序。經文化和旅遊部資料中心測算，國慶節假期7天，全國國內出遊8.26億人次，國內出遊總花費7383.75億元，按可比口徑（日均）同比2025年分別增長6.3%、4.3%。（央視新聞）"
+    },
+    {
+      "id": "5134397",
+      "time": "2026-10-09 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】甲醇連續漲6.04%，集運指數歐線期貨連續跌5.05%，焦煤連續漲4.30%，錫連續跌4.21%，乙二醇連續跌4.16%。"
+    },
+    {
+      "id": "5134396",
+      "time": "2026-10-09 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.37%， 滬深300指數期貨連續漲0.21%， 中證500指數期貨連續漲0.24%， 上證50指數期貨連續漲0.23%。"
+    },
+    {
+      "id": "5134395",
+      "time": "2026-10-09 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普跌，德國DAX指數跌1.18%，英國富時100指數跌0.16%，法國CAC40指數跌0.51%，歐洲斯托克50指數跌0.87%，義大利富時MIB指數跌1.35%。"
+    },
     {
       "id": "te:markets:590756",
       "time": "2026-10-09 14:58:33",
