@@ -1,7 +1,100 @@
 {
-  "updated": "2026-10-09 14:56:18",
-  "count": 9264,
+  "updated": "2026-10-09 15:00:21",
+  "count": 9267,
   "items": [
+    {
+      "id": "te:markets:590756",
+      "time": "2026-10-09 14:58:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Advances Modestly, on Track for Second Weekly Rise — The Indonesian rupiah traded near IDR 17,875 per U.S. dollar on Friday, recovering after touching IDR 17,930 in the previous session. The currency drew support from a softer U.S. dollar and easing Treasury yields following strong demand at a 30-year bond auction. Locally, August retail sales posted their fastest growth in five months, amid continued government measures to cushion households against persistent cost pressures. Meanwhile, forex reserves remained near a five-month high in September, although sustained Bank Indonesia intervention and uncertain portfolio inflows posed potential risks. Inflation risks remain in focus after September figures accelerated to a three-month high, with food prices expected to remain a key source of upward pressure through year-end. Separately, analysts expect the trade surplus to remain modest amid strong imports and subdued exports. For the week, the rupiah was on track to gain around 0.1%, marking its second straight weekly advance."
+    },
+    {
+      "id": "5134394",
+      "time": "2026-10-09 14:58:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大商股份等成立醫藥商業管理公司】企查查APP顯示，近日，大商醫藥商業管理（遼寧）有限公司成立，經營範圍包含企業管理；企業管理諮詢；資訊諮詢服務（不含許可類資訊諮詢服務）等。企查查股權穿透顯示，該公司由大商股份等共同持股。"
+    },
+    {
+      "id": "5134393",
+      "time": "2026-10-09 14:57:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國外層空間事務司司長：中國展現出真正國際合作精神與包容】第77屆國際宇航大會正在土耳其安塔利亞舉行。會議期間，聯合國外層空間事務司司長阿爾蒂·霍拉-邁尼接受了總檯記者的採訪。她對於中國在聯合國多邊太空合作中的重要地位予以肯定，並指出，在當今充滿分歧的大環境下，中國展現出真正國際合作精神與包容。（CCTV國際時訊）"
+    },
+    {
+      "id": "5134392",
+      "time": "2026-10-09 14:57:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞棕櫚油協會：8月棕櫚油出口量（含精煉棕櫚油）為359萬噸。"
+    },
+    {
+      "id": "5134391",
+      "time": "2026-10-09 14:56:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度儲備銀行：印度儲備銀行已登出13家非銀行金融公司的註冊證書。"
+    },
+    {
+      "id": "mkt:01a11f73-3c6b-7ee0-a80d-310cd7371c98",
+      "time": "2026-10-09 14:56:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Ethiopia told the UN Security Council it had 'no choice but to act in self-defense against Eritrea'."
+    },
+    {
+      "id": "te:markets:590755",
+      "time": "2026-10-09 14:56:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Stocks Recover on OpenAI Reports — The Nikkei 225 Index ended virtually flat at 69,031 on Friday, recovering most of its earlier losses after reports indicated that OpenAI expects annualized revenue to reach or exceed $70 billion by year-end. The news eased concerns triggered by earlier reports that the company’s annualized revenue was $20 billion below previously indicated levels as of September. Investors remain focused on whether AI-related revenues can justify the sector’s substantial investment spending, particularly as Japanese companies play a key role in the global AI infrastructure buildout. Equities also drew support from easing bond yields and retreating oil prices after President Donald Trump said the US was engaged in “productive discussions” with Iran and would refrain from attacking the country before the midterm elections. However, technology and AI-related stocks remained under pressure, with Kioxia Holdings falling 2.2%, SoftBank Group declining 3.9% and Murata Manufacturing losing 3.6%."
+    },
+    {
+      "id": "mkt:01a11f73-0436-7ee0-a80d-2e14c34d4925",
+      "time": "2026-10-09 14:56:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ethiopia has written to the UN Security Council demanding the immediate withdrawal of Eritrean forces from Ethiopian territory."
+    },
+    {
+      "id": "5134390",
+      "time": "2026-10-09 14:56:22",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "衣索比亞在致聯合國安理會的信函中，要求厄利垂亞軍隊立即從其領土撤出。"
+    },
+    {
+      "id": "mkt:01a11f72-cb3c-7ee0-a80d-25e56b95da1b",
+      "time": "2026-10-09 14:56:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China container shipping index (Europe route) most-active contract fell over 5.00% intraday to 2701.0 points."
+    },
     {
       "id": "5134389",
       "time": "2026-10-09 14:55:28",
@@ -210,6 +303,14 @@
         "其他"
       ],
       "text": "【但斌：控制好倉位、保持耐心】10月9日，知名私募大佬但斌在社交平臺發帖稱，短期價格波動無法預測，但投資的本質，是評估企業長期價值。泥沙俱下之時，恰恰是靜下心篩選優質資產的視窗。控制好倉位，保持耐心，穿越週期。（財聞）"
+    },
+    {
+      "id": "5134370",
+      "time": "2026-10-09 14:43:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基怒懟魯比奧“僵局論”，佩斯科夫：我們同意美方觀點】據俄新社10月8日報道，俄羅斯總統新聞秘書佩斯科夫對媒體表示，俄羅斯同意美國國務卿魯比奧有關目前看不到任何透過外交途徑解決烏克蘭危機的前景的觀點。 佩斯科夫在應俄羅斯新聞頻道的請求評論魯比奧的相關表態時說：“是的，我們同意他的觀點。” （參考訊息）"
     },
     {
       "id": "te:markets:590750",
@@ -84896,77 +84997,6 @@
         "國際"
       ],
       "text": "菲律賓股市指數收盤基本持平，報5629.03點。"
-    },
-    {
-      "id": "5123831",
-      "time": "2026-10-02 15:00:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙9月份登記就業人數環比增加108,832人，9月失業人數環比增加23587人。"
-    },
-    {
-      "id": "mkt:01a0fb69-b2bb-7ee0-a786-af9695e476cf",
-      "time": "2026-10-02 15:00:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【WTI and Brent crude both down more than 1% intraday】Brent crude down more than 1.0% intraday at $100.42/bbl; WTI down 1.3% at $90.68/bbl."
-    },
-    {
-      "id": "5123830",
-      "time": "2026-10-02 15:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤普跌，德國DAX指數跌1.03%，英國富時100指數跌1.68%，法國CAC40指數跌1.62%，歐洲斯托克50指數跌1.49%，義大利富時MIB指數跌2.21%。"
-    },
-    {
-      "id": "5123829",
-      "time": "2026-10-02 14:59:08",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：美光DRAM市場份額緊追SK海力士 位列第三】美光科技交出史上最佳季度業績，在DRAM市場不斷逼近排名第二的SK海力士。二季度二者市場份額差距縮小至1個百分點，這家美國晶片廠商在三季度延續高速增長，兩家企業的競爭進一步加劇。 市場研究機構Counterpoint於2日釋出資料，按營收口徑，美光二季度DRAM市場份額為24%，位列行業第三。美光份額較上一季度提升2個百分點；同期第二名SK海力士份額下滑4個百分點至25%，雙方差距收窄至1個百分點。 分析師認為，這一變化源於二季度SK海力士相比競品更加側重高頻寬記憶體（HBM）供應，在普通DRAM價格大幅上漲行情中受益有限。二季度普通DRAM價格漲幅遠超HBM，廠商業績因此隨產品結構出現分化。三星電子在普通DRAM領域同樣保持較高份額，以38%的佔比穩居龍頭地位。"
-    },
-    {
-      "id": "5123828",
-      "time": "2026-10-02 14:59:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報101.28美元/桶。"
-    },
-    {
-      "id": "5123827",
-      "time": "2026-10-02 14:57:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭政府將燃料增值稅稅率下調至8%，措施持續至12月31日。"
-    },
-    {
-      "id": "5123826",
-      "time": "2026-10-02 14:56:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "迅銷：因天氣轉涼，秋冬服裝銷售強勁。"
-    },
-    {
-      "id": "5123825",
-      "time": "2026-10-02 14:56:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大擬建石油運輸管道降低對美依賴】加拿大政府1日將一條擬修建的西海岸石油管道改名為“太平洋聯線管道”，並將其列為“國家利益”專案，預計該專案將大幅降低加石油透過管道運輸的對美依賴。據加拿大樞密院指令說明檔案，結合跨山輸油管道系統的最佳化，該專案帶來的出口能力提升有望將加拿大對美國石油管道外輸的依賴度從2025年約82%-83%降至65%-70%，還有望使加拿大重質原油與西得克薩斯輕質原油之間的每桶價差縮小3至5美元。（新華社）"
     }
   ]
 }
