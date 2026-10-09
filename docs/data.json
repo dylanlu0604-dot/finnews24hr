@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-09 15:07:58",
-  "count": 9272,
+  "updated": "2026-10-09 15:11:43",
+  "count": 9270,
   "items": [
+    {
+      "id": "5134420",
+      "time": "2026-10-09 15:11:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【讓科研成果更快惠及老年人 北京為老實驗室正式成立】記者從今天（9日）舉辦的2026北京養老服務行業發展四季青論壇獲悉，北京為老實驗室正式揭牌成立，旨在整合北京市涉老科研、教學、產業、服務等各領域優質資源，破解養老服務專業支撐不足、科技融合不深、供需對接不暢等現實難題，打通養老領域“基礎研究—技術攻關—成果轉化—產業應用”全鏈條。（央視新聞）"
+    },
+    {
+      "id": "5134418",
+      "time": "2026-10-09 15:10:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中亦科技中標中國移動磐維資料庫運維框架專案】10月9日，據中亦科技訊息，中亦科技近日成功中選中移動資訊2026年至2028年磐維資料庫運維服務框架採購專案採購包2：磐維OLTP(省中心)。該採購包規模近3000萬元，為三年期框架合同，由三家服務商共同中選。"
+    },
+    {
+      "id": "5134417",
+      "time": "2026-10-09 15:10:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "斯托克歐洲電信指數<.SXKP>下跌2.7%。"
+    },
+    {
+      "id": "5134416",
+      "time": "2026-10-09 15:09:07",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "SpaceX收購美國頻譜資產後，沃達豐股價下跌3.3%，英國電信集團股價下跌2.3%。"
+    },
+    {
+      "id": "te:markets:590757",
+      "time": "2026-10-09 15:08:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Rebound From Four-Month Lows — European stocks rose on Friday, with the STOXX 50 gaining 0.8% after hitting a four-month low, supported by easing oil prices and bond yields. Brent crude retreated from recent highs after US President Donald Trump said Washington would not launch an attack on Iran before the November midterm congressional elections, citing productive talks aimed at ending the conflict. Meanwhile, strong demand at a US 30-year Treasury bond auction helped push yields lower, suggesting investors remained willing to buy long-dated government debt despite the recent selloff. AI-related sentiment also strengthened following reports that OpenAI expected its annualized revenue to reach or exceed $70 billion by year-end, helping ease concerns triggered by earlier reports that revenue was running $20 billion below previously indicated levels. Separately, LSEG IBES data showed European third-quarter earnings growth expectations rising to 21%, from 19.4% a week earlier, ahead of the earnings season."
+    },
+    {
+      "id": "5134415",
+      "time": "2026-10-09 15:08:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中煤能源在雄安成立供應鏈管理公司】企查查APP顯示，近日，中煤能源供應鏈管理（雄安）有限責任公司成立，經營範圍包含供應鏈管理服務；採購代理服務；金屬材料銷售；礦山機械銷售等。企查查股權穿透顯示，該公司由中煤能源間接全資持股。"
+    },
     {
       "id": "5134414",
       "time": "2026-10-09 15:06:33",
@@ -84961,87 +85016,6 @@
         "觀點"
       ],
       "text": "摩根士丹利將埃森哲目標股價從175美元上調至195美元。"
-    },
-    {
-      "id": "mkt:01a0fb73-b522-7ee0-a787-24f8d7a6bd4c",
-      "time": "2026-10-02 15:10:59",
-      "tags": [
-        "MKT News",
-        "IGG.L",
-        "Impact bearish"
-      ],
-      "text": "IG Group shares fell 25% after the company issued a trading update warning revenue and margins are under pressure."
-    },
-    {
-      "id": "te:markets:589043",
-      "time": "2026-10-02 15:10:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK 10-Year Gilt Yield Eases After 2007 High — UK 10-year gilt yields eased to around 5.4% after touching their highest level since July 2007, as the recent rise in oil prices paused and investors took a breather following a sharp sell-off. Gilt yields remain elevated, as higher energy costs heightened inflation concerns and stronger-than-expected economic growth reinforced expectations for interest rates to remain higher for longer. Several Bank of England policymakers, including Governor Andrew Bailey and MPC members who voted to hold rates last month, have signaled greater openness to a rate hike as rising energy prices increase the risk of inflation remaining above target. Markets are now pricing in the possibility of the Bank beginning to tighten monetary policy as early as November, with LSEG data indicating that investors expect four rate hikes by July 2027. Higher borrowing costs pose an additional challenge for the government as it seeks to ease cost-of-living pressures ahead of the October 28 budget."
-    },
-    {
-      "id": "mkt:01a0fb73-524e-7ee0-a787-1f1719b6a9d0",
-      "time": "2026-10-02 15:10:33",
-      "tags": [
-        "MKT News",
-        "000760.KS",
-        "Impact bearish"
-      ],
-      "text": "YONHAP reports SK Group chairman Choi Tae-won has decided to sell 2.3% of SK shares, totaling about 944 billion won."
-    },
-    {
-      "id": "te:economy:589038",
-      "time": "2026-10-02 15:09:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Austria Inflation Hits 4-Month High — The annual inflation rate in Austria rose to 3.6% in September 2026 from 3.2% in August, preliminary estimates showed. This marked the highest reading since May, driven entirely by higher fuel and heating oil prices. Energy prices jumped 14.5% year-on-year, accelerating from a 9.9% increase in August. Services also remained the biggest contributor to inflation, although services inflation eased to 4.2% from 4.4%. Additionally, inflation for food, tobacco and alcohol accelerated to 1.0% from 0.3%, while industrial goods prices increased 0.7%. Meanwhile, core inflation, which excludes energy and food, rose to 3.0%. On a monthly basis, consumer prices increased 0.2%. On a monthly basis, consumer prices increased by 0.2% in September, easing from a six-month high of 0.6% in the preceding period."
-    },
-    {
-      "id": "5123851",
-      "time": "2026-10-02 15:09:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "IG集團股價一度下跌25%，此前該公司更新了業績展望。"
-    },
-    {
-      "id": "mkt:01a0fb71-df36-7ee0-a787-1539a828f7ef",
-      "time": "2026-10-02 15:08:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mutual funds distribute >CNY120.0bn YTD; bond funds supply >60%】As of Sept. 28, Chinese mutual funds have paid CNY121.57 billion in dividends year-to-date across 2,543 products and 4,829 distributions. Bond funds led payouts, with 1,870 bond funds disbursing CNY76.50 billion (over 60% of the total); 1,352 pure-bond funds accounted for CNY59.37 billion, roughly 80% of bond-fund distributions. Equity funds paid CNY35.51 billion from 462 funds (stock funds CNY28.15 billion; equity-biased hybrids CNY7.36 billion), and equity fund dividend frequency is up about 80% YoY. Thirty-one asset managers had products distributing more than CNY1 billion; several broad-based ETFs ranked among the largest payouts. Industry participants say dividends are being used to crystallize gains and relieve holding pressure amid market volatility."
-    },
-    {
-      "id": "te:economy:589036",
-      "time": "2026-10-02 15:08:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Georgia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Georgia Inflation Holds Steady in September — The annual inflation rate in Georgia remained at 5.6% in September 2026, unchanged from the previous month. The inflation rate was supported by faster price growth for transport (18.7% vs. 15.2% in August), housing and utilities (9.2% vs. 8.5%), health (8.0% vs. 5.2%), and miscellaneous goods and services (9.4% vs. 7.1%). Inflation also accelerated for alcoholic beverages and tobacco (6.2% vs. 5.5%), recreation and culture (2.9% vs. 1.5%), and restaurants and hotels (7.3% vs. 6.8%). Meanwhile, food and non-alcoholic beverages inflation slowed (3.4% vs 5.0%), while clothing and footwear prices fell (-1.8% vs 0.6%). Education costs declined (-12.5% vs 2.4%), while communication prices fell at a slower pace (-2.8% vs. -7.5%). On a monthly basis, consumer prices in Georgia rose 0.4% in September, unchanged from the previous month."
-    },
-    {
-      "id": "5123850",
-      "time": "2026-10-02 15:08:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥德龍將停止在哈薩克的業務運營。"
     }
   ]
 }
