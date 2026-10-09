@@ -1,7 +1,34 @@
 {
   "date": "2026-10-10",
-  "count": 340,
+  "count": 343,
   "items": [
+    {
+      "id": "mkt:01a12232-ea1e-7ee0-a81f-5f66522f2ad0",
+      "time": "2026-10-10 03:45:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pacific Tsunami Warning Center: Panama earthquake no longer poses a tsunami threat."
+    },
+    {
+      "id": "mkt:01a12232-5580-7ee0-a81f-522f7b51ee22",
+      "time": "2026-10-10 03:44:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O"
+      ],
+      "text": "Business Insider reports Google (GOOG.O) is internally testing a new AI model called Carbon; employees say its coding ability is comparable to Claude Opus 5.5."
+    },
+    {
+      "id": "5135709",
+      "time": "2026-10-10 03:44:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海嘯預警系統：巴拿馬地震後無海嘯預警、建議、觀察或威脅。"
+    },
     {
       "id": "5135708",
       "time": "2026-10-10 03:42:57",
