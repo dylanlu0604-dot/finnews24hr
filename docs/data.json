@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-10 04:14:08",
-  "count": 9539,
+  "updated": "2026-10-10 04:17:54",
+  "count": 9541,
   "items": [
+    {
+      "id": "mkt:01a1224f-b28c-7ee0-a820-386c01baa095",
+      "time": "2026-10-10 04:16:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US bank deposits rose to $19.693 tln from $19.638 tln the prior week, an increase of $55 bln."
+    },
+    {
+      "id": "te:markets:590955",
+      "time": "2026-10-10 04:15:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise on Earnings Optimism — US stock indices closed higher on Friday amid expectations of a strong earnings season. The S&P 500 rose 0.6%, the Nasdaq 100 gained 0.5%, both nearing their record highs, while the Dow added 423 points. Robust results across sectors have helped drive equity returns this year. Wall Street’s largest banks are expected to report nearly $19 billion in stock-trading revenue when they release quarterly earnings next week. Goldman Sachs (+1.4%), which reports Tuesday, is forecast to post $5.1 billion, followed by Morgan Stanley (+1.4%) at $4.9 billion, according to estimates. JPMorgan (+0.5%) is expected to report $4.5 billion, while Bank of America (+1.4%) is forecast to generate $2.6 billion. AI Hyperscalers gained on expectations that OpenAI will exceed $70 billion in annualized revenue by year-end. Alphabet rose 1%, Microsoft added 2.4% and Amazon gained 3.3%. For the week, the S&P 500 rose 0.9%, the Nasdaq shed 0.1% and the Dow gained 585 points."
+    },
     {
       "id": "mkt:01a1224c-3213-7ee0-a820-31a294bf5276",
       "time": "2026-10-10 04:13:01",
