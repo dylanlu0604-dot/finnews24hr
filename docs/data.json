@@ -1,7 +1,107 @@
 {
-  "updated": "2026-10-09 09:42:35",
-  "count": 9174,
+  "updated": "2026-10-09 09:46:21",
+  "count": 9177,
   "items": [
+    {
+      "id": "mkt:01a11e56-949c-7ee0-a808-261f6394b6b2",
+      "time": "2026-10-09 09:45:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China retail money-market yield snapshot】Tencent Licaitong (current+7-day) 7-day annualized yield 0.6480% to 1.0650%. WeChat Wallet 7-day annualized yield 0.8710% to 0.9290%. Alipay Yu'e Bao 7-day annualized yield 0.9010% to 0.9650%."
+    },
+    {
+      "id": "5133892",
+      "time": "2026-10-09 09:45:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國公共服務領域將提供國家通用手語、盲文服務】我國將在教育考試、醫療、政務、司法、應急救援、交通運輸、商業、文旅等公共服務領域提供國家通用手語和國家通用盲文服務。這是中國殘聯、中央宣傳部等7部門10月9日公佈的《第三期國家手語和盲文規範化行動計劃（2026—2030年）》中明確的。（新華社）"
+    },
+    {
+      "id": "mkt:01a11e55-6fc2-7ee0-a808-18236d15bf19",
+      "time": "2026-10-09 09:44:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "Methanol front-month contract extended intraday gains to 7.00%, trading at 3,818 yuan/ton."
+    },
+    {
+      "id": "5133879",
+      "time": "2026-10-09 09:44:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲6%，現報3337.00元。"
+    },
+    {
+      "id": "5133874",
+      "time": "2026-10-09 09:43:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金上漲約1%，報每盎司4173.05美元。"
+    },
+    {
+      "id": "mkt:01a11e54-0dbf-7ee0-a808-10d1256b5687",
+      "time": "2026-10-09 09:43:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01377.HK",
+        "Impact bearish",
+        "00148.HK",
+        "02476.HK"
+      ],
+      "text": "Hong Kong PCB-related stocks weakened; Dingtai High-Tech (01377.HK) fell more than 6%, while Kingboard Holdings (00148.HK) and Shenghong Technology (02476.HK) dropped over 4%."
+    },
+    {
+      "id": "5133871",
+      "time": "2026-10-09 09:42:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OpenAI預計到2026年底年化收入將達到700億美元。"
+    },
+    {
+      "id": "5133867",
+      "time": "2026-10-09 09:42:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股PCB概念股走弱 鼎泰高科跌近7%】截至發稿，鼎泰高科(01377.HK)跌6.64%、建滔集團(00148.HK)跌4.51%，勝宏科技(02476.HK)跌4.39%。"
+    },
+    {
+      "id": "5133866",
+      "time": "2026-10-09 09:42:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲1%至5667.84點。"
+    },
+    {
+      "id": "mkt:01a11e53-35f6-7ee0-a808-0e40c62327c8",
+      "time": "2026-10-09 09:42:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Doubao reported enabling in‑app utility bill payments; firm says it is building daily‑life service capabilities】Social media users reported the Doubao app accepted voice or text commands to initiate water, electricity and gas bill payments. On Oct. 9, a person close to Doubao told reporters the company is progressively building daily‑life service capabilities, including travel services and utility bill payments."
+    },
+    {
+      "id": "5133864",
+      "time": "2026-10-09 09:42:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有機矽、矽能源板塊盤初拉昇，東嶽矽材、晨光新材雙雙漲停】有機矽、矽能源板塊盤初拉昇，東嶽矽材、晨光新材雙雙漲停，矽寶科技漲超10%，矽烷科技、合盛矽業、道氏技術、宏柏新材、新安股份跟漲。"
+    },
     {
       "id": "5133862",
       "time": "2026-10-09 09:41:36",
@@ -84068,84 +84168,6 @@
         "市場"
       ],
       "text": "賽力斯港股盤中一度漲超9%，報38.3港元/股。"
-    },
-    {
-      "id": "5123583",
-      "time": "2026-10-02 09:46:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗問題：也許我們會達成協議，也許不會。"
-    },
-    {
-      "id": "5123582",
-      "time": "2026-10-02 09:45:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗不會擁有核武器。"
-    },
-    {
-      "id": "te:markets:588959",
-      "time": "2026-10-02 09:45:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "HSBC Holdings Stock Price Hits 13-week Low — HSBC Holdings shares decreased to 149.40 HKD, the lowest since July 2026. Over the past 4 weeks, HSBC Holdings lost 1.86%, and in the last 12 months, it increased 42.6%."
-    },
-    {
-      "id": "5123581",
-      "time": "2026-10-02 09:44:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1164.88美元/盎司。"
-    },
-    {
-      "id": "te:markets:588958",
-      "time": "2026-10-02 09:44:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Edge Lower on Inflation Concerns — The benchmark KOSPI edged down to around 6,950 on Friday, reversing gains from the previous session as concerns over domestic inflation and elevated global bond yields weighed on the index. Korea’s CPI held at 2.9% in September, while the BOK warned that inflation could stay around 3% in October, raising the prospect of another rate hike. At the same time, US Treasury yields stayed high after the 10-year yield briefly topped 5.3%, while oil prices climbed above $100 a barrel amid renewed Middle East tensions, adding to inflation risks. However, stronger-than-expected results and an upbeat memory outlook from Micron provided a positive read-through for Samsung Electronics and SK hynix, while record South Korean semiconductor exports reinforced the sector’s strong outlook. Large-cap stocks were mixed, with losses seen in Samsung C&T Corp (-1.4%), Doosan Enerbility (-0.85%), and HD Hyundai Heavy Industries (-1.0%), while Samsung Electronics and SK Square edged higher."
-    },
-    {
-      "id": "mkt:01a0fa47-9c1a-7ee0-a782-d406bc71c2b8",
-      "time": "2026-10-02 09:43:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Goldman Sachs says the diesel market is global, so supply could adjust rapidly."
-    },
-    {
-      "id": "mkt:01a0fa47-6775-7ee0-a782-cb3e13add401",
-      "time": "2026-10-02 09:42:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "06802.HK",
-        "Impact bearish",
-        "02432.HK",
-        "03317.HK"
-      ],
-      "text": "Hong Kong physical-AI names weakened: Huan Chuang Technology (06802.HK) fell 37.59%, Yuejiang (02432.HK) fell 4.29%, Xunce (03317.HK) fell 4.17%."
-    },
-    {
-      "id": "5123580",
-      "time": "2026-10-02 09:42:57",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：鑑於柴油市場的全球性，供應可能會迅速調整。"
     }
   ]
 }

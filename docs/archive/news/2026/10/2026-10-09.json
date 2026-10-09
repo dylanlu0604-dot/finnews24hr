@@ -1,7 +1,107 @@
 {
   "date": "2026-10-09",
-  "count": 746,
+  "count": 757,
   "items": [
+    {
+      "id": "mkt:01a11e56-949c-7ee0-a808-261f6394b6b2",
+      "time": "2026-10-09 09:45:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China retail money-market yield snapshot】Tencent Licaitong (current+7-day) 7-day annualized yield 0.6480% to 1.0650%. WeChat Wallet 7-day annualized yield 0.8710% to 0.9290%. Alipay Yu'e Bao 7-day annualized yield 0.9010% to 0.9650%."
+    },
+    {
+      "id": "5133892",
+      "time": "2026-10-09 09:45:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國公共服務領域將提供國家通用手語、盲文服務】我國將在教育考試、醫療、政務、司法、應急救援、交通運輸、商業、文旅等公共服務領域提供國家通用手語和國家通用盲文服務。這是中國殘聯、中央宣傳部等7部門10月9日公佈的《第三期國家手語和盲文規範化行動計劃（2026—2030年）》中明確的。（新華社）"
+    },
+    {
+      "id": "mkt:01a11e55-6fc2-7ee0-a808-18236d15bf19",
+      "time": "2026-10-09 09:44:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities"
+      ],
+      "text": "Methanol front-month contract extended intraday gains to 7.00%, trading at 3,818 yuan/ton."
+    },
+    {
+      "id": "5133879",
+      "time": "2026-10-09 09:44:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲6%，現報3337.00元。"
+    },
+    {
+      "id": "5133874",
+      "time": "2026-10-09 09:43:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金上漲約1%，報每盎司4173.05美元。"
+    },
+    {
+      "id": "mkt:01a11e54-0dbf-7ee0-a808-10d1256b5687",
+      "time": "2026-10-09 09:43:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01377.HK",
+        "Impact bearish",
+        "00148.HK",
+        "02476.HK"
+      ],
+      "text": "Hong Kong PCB-related stocks weakened; Dingtai High-Tech (01377.HK) fell more than 6%, while Kingboard Holdings (00148.HK) and Shenghong Technology (02476.HK) dropped over 4%."
+    },
+    {
+      "id": "5133871",
+      "time": "2026-10-09 09:42:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OpenAI預計到2026年底年化收入將達到700億美元。"
+    },
+    {
+      "id": "5133867",
+      "time": "2026-10-09 09:42:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股PCB概念股走弱 鼎泰高科跌近7%】截至發稿，鼎泰高科(01377.HK)跌6.64%、建滔集團(00148.HK)跌4.51%，勝宏科技(02476.HK)跌4.39%。"
+    },
+    {
+      "id": "5133866",
+      "time": "2026-10-09 09:42:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲1%至5667.84點。"
+    },
+    {
+      "id": "mkt:01a11e53-35f6-7ee0-a808-0e40c62327c8",
+      "time": "2026-10-09 09:42:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Doubao reported enabling in‑app utility bill payments; firm says it is building daily‑life service capabilities】Social media users reported the Doubao app accepted voice or text commands to initiate water, electricity and gas bill payments. On Oct. 9, a person close to Doubao told reporters the company is progressively building daily‑life service capabilities, including travel services and utility bill payments."
+    },
+    {
+      "id": "5133864",
+      "time": "2026-10-09 09:42:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有機矽、矽能源板塊盤初拉昇，東嶽矽材、晨光新材雙雙漲停】有機矽、矽能源板塊盤初拉昇，東嶽矽材、晨光新材雙雙漲停，矽寶科技漲超10%，矽烷科技、合盛矽業、道氏技術、宏柏新材、新安股份跟漲。"
+    },
     {
       "id": "5133862",
       "time": "2026-10-09 09:41:36",
