@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-09 09:23:43",
-  "count": 9130,
+  "updated": "2026-10-09 09:27:29",
+  "count": 9135,
   "items": [
+    {
+      "id": "5133769",
+      "time": "2026-10-09 09:26:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【宇特光電上市首日開盤大漲超489%】宇特光電上市首日開盤漲489.82%，現報81.1元，該股發行價為13.75元。"
+    },
+    {
+      "id": "5133763",
+      "time": "2026-10-09 09:25:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊跌，上證指數跌0.21%，深證成指跌0.51%，創業板指跌0.50%。"
+    },
+    {
+      "id": "mkt:01a11e43-d888-7ee0-a807-5afda8f035bf",
+      "time": "2026-10-09 09:25:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the A-share open, the Shanghai Composite was down 0.21%, the Shenzhen Composite Index down 0.51%, and the ChiNext Index down 0.5%."
+    },
+    {
+      "id": "te:markets:590643",
+      "time": "2026-10-09 09:24:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Set for 1st Weekly Gain in Five — The Australian dollar edged up toward US$0.70, trading above multi-month lows as a sharp decline in US Treasury yields weighed on the greenback. A rally in US government bonds pulled yields down from a 24-year peak, offering some relief to global markets after weeks of heavy selling. The drop in yields helped the Aussie stay on track for a modest weekly advance, its first in five weeks. Attention is now turning to Australia's September employment report due next Thursday, following an unexpected rise in the unemployment rate to 4.6% in August. A further increase in joblessness would strengthen the case against another Reserve Bank of Australia rate hike after last month's increase lifted the cash rate to 4.60%. Markets are pricing in around a 30% chance of a hike in November, rising to 46% in December. The central bank's October 13 meeting minutes will also be on focus, as well as the September-quarter CPI report later this month, with core inflation expected to remain elevated."
+    },
+    {
+      "id": "mkt:01a11e42-07de-7ee0-a807-52b61e4061f4",
+      "time": "2026-10-09 09:23:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "01256.HK",
+        "Impact bearish"
+      ],
+      "text": "Yisiwei Computing (01256.HK) opened down 0.65% on its Hong Kong debut. The company sold about 1.57 bln H shares in a global offering at HK$1.55 each, raising HK$2.434 bln; it is a China-based RISC-V chip provider."
+    },
+    {
+      "id": "5133749",
+      "time": "2026-10-09 09:23:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4160美元/盎司，日內漲0.65%。"
+    },
     {
       "id": "5133745",
       "time": "2026-10-09 09:23:12",
@@ -44,6 +108,15 @@
         "Macro & Rates"
       ],
       "text": "PBOC conducted CNY20 bln 7-day reverse repo today; bids CNY20 bln, allotment CNY20 bln; rate held at 1.40%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202610093890505030",
+      "time": "2026-10-09 09:21:18",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展20億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "5133730",
@@ -83701,28 +83774,6 @@
         "國際"
       ],
       "text": "特朗普重申，美國應該擁有全球最低利率。"
-    },
-    {
-      "id": "5123565",
-      "time": "2026-10-02 09:26:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部對重慶貴州啟動地質災害防禦IV級響應】據氣象部門預報，未來三天，重慶、貴州等地部分地區有大到暴雨，局地大暴雨。經自然資源部地質災害技術指導中心研判 ，重慶北部、 貴州東部發生地質災害的風險較高。自然資源部於9月30日18時對重慶、貴州啟動地質災害防禦IV級響應。 自然資源部要求重慶市規劃和自然資源局、貴州省自然資源廳增強風險意識和憂患意識，強化底線思維和極限思維，高度重視強降雨引發地質災害防範應對，及時組織開展巡查排查，切實做好監測預警、會商研判、災情險情處置和值班值守、資訊報送等工作；中國地質調查局、自然資源部地質災害技術指導中心加強會商研判和專家排程，全力協助地方做好地質災害防禦工作。"
-    },
-    {
-      "id": "mkt:01a0fa36-2c88-7ee0-a782-7d9226e6d028",
-      "time": "2026-10-02 09:24:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01236.HK",
-        "Impact bullish",
-        "02590.HK",
-        "06651.HK"
-      ],
-      "text": "Hong Kong physical-AI stocks extended gains: 01236.HK up 8.16%, 02590.HK up 1.33%, 06651.HK up 0.90%."
     }
   ]
 }
