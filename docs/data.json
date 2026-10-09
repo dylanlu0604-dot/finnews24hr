@@ -1,7 +1,185 @@
 {
-  "updated": "2026-10-09 09:27:29",
-  "count": 9135,
+  "updated": "2026-10-09 09:31:15",
+  "count": 9148,
   "items": [
+    {
+      "id": "5133788",
+      "time": "2026-10-09 09:30:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2729.00點。"
+    },
+    {
+      "id": "5133787",
+      "time": "2026-10-09 09:30:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.07%。聯瑞轉債、頎中轉債、中崙轉債、盛德轉債、藍曉轉02跌幅居前，分別跌1.79%、1.77%、0.93%、0.88%、0.81%。本川轉債、賽特轉債、東亞轉債、振26轉債、天奈轉債漲幅居前，分別漲5.14%、1.62%、1.37%、1.28%、1.22%。"
+    },
+    {
+      "id": "5133786",
+      "time": "2026-10-09 09:30:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.05%，成分股中，源傑科技跌4.04%，華海清科跌2.37%，艾力斯跌2.29%，盛科通訊跌2.21%。"
+    },
+    {
+      "id": "5133785",
+      "time": "2026-10-09 09:30:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24024.930點；恒生科技指數現漲0.880%。"
+    },
+    {
+      "id": "5133784",
+      "time": "2026-10-09 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.15%， 滬深300指數期貨連續漲0.04%， 中證500指數期貨連續漲0.22%， 上證50指數期貨連續漲0.05%。"
+    },
+    {
+      "id": "5133783",
+      "time": "2026-10-09 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.08%， 10年期主力合約漲0.02%， 5年期主力合約漲0.02%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "mkt:01a11e47-ddd7-7ee0-a807-830b96c1c061",
+      "time": "2026-10-09 09:29:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600418.SS",
+        "Impact bearish"
+      ],
+      "text": "A-share Jianghuai Automobile (JAC Motors) again opened locked at the daily down limit, trading at 22.25 yuan."
+    },
+    {
+      "id": "5133782",
+      "time": "2026-10-09 09:29:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天陽科技採購2萬張英偉達GPU】近日，天陽科技與X公司簽署《GPU採購協議》，採購20000張NVIDIA RTX PRO 5500 Blackwell。"
+    },
+    {
+      "id": "5133781",
+      "time": "2026-10-09 09:29:32",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【江淮汽車連續第二日跌停】江淮汽車連續第二日跌停，據2026年10月8日尊界汽車情況說明，尊界V800制動測試中出現剎車踏板支架斷裂，尊界汽車表示將進一步最佳化部件設計，併為已交付使用者提供免費升級選擇。"
+    },
+    {
+      "id": "5133780",
+      "time": "2026-10-09 09:29:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【滬金進入8字頭，多品牌金飾降價延續國慶熱度】國慶長假結束後，黃金零售端出現新變化，足金飾品克價下降，節日優惠依舊保持。走訪商場黃金專櫃發現，國慶假期收官後，多家黃金品牌門店仍然在彈性延續國慶檔的優惠活動。要客研究院院長周婷表示，以往金價漲跌與門店優惠並不同步，核心原因在於金價上行週期行業利潤充足，漲價行情本身就能刺激消費。而當前黃金市場處於高位震盪狀態，疊加消費觀望情緒濃厚、行業競爭加劇、門店庫存積壓的三重壓力，常態化優惠已成為門店撬動成交的必要方式。本輪金價回撥，為消費者營造了抄底氛圍，盤面降價疊加門店促銷，形成雙重消費刺激，也是行業承壓之下的理性經營選擇。（北京商報）"
+    },
+    {
+      "id": "mkt:01a11e47-50d1-7ee0-a807-7e6688e248d4",
+      "time": "2026-10-09 09:29:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Shanghai gold slides into 800‑yuan range; multiple jewelry brands extend post‑National Day discounts】Retail gold saw renewed price cuts after the National Day holiday as several jewelry brands prolonged holiday promotions. Store checks found many outlets maintaining National Day discounts, with Shanghai gold moving into the 800‑yuan range. Zhou Ting, head of Key Customer Research Institute, said unlike past upcycles—when rising gold prices sustained industry margins and made store pricing less synchronized—today’s high‑level volatility, strong consumer wait‑and‑see sentiment, intensified competition and inventory buildup have made routine discounts necessary to drive sales. The recent price pullback has created a buy‑the‑dip atmosphere; market markdowns combined with store promotions constitute a dual stimulus and reflect industry cost‑management under pressure."
+    },
+    {
+      "id": "5133779",
+      "time": "2026-10-09 09:28:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "渣打銀行執行長：法國預算赤字存在真正的問題。"
+    },
+    {
+      "id": "5133778",
+      "time": "2026-10-09 09:28:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先導智慧：目前已獲得相關AIDC儲能客戶產線裝置訂單】先導智慧(300450)10月9日在互動平臺表示，公司可為全球AIDC儲能電池提供定製化整線解決方案，目前已獲得相關AIDC儲能客戶產線裝置訂單。此外，公司儲能產線方案同樣適配資料中心集裝箱儲能建設場景，公司將持續把握相關領域的業務拓展機會。"
+    },
+    {
+      "id": "5133777",
+      "time": "2026-10-09 09:27:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【波長光電低開超5%】波長光電低開超5%，公司及董事長等被提起公訴，涉走私國家禁止進出口貨物罪。"
+    },
+    {
+      "id": "5133773",
+      "time": "2026-10-09 09:27:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【本川智慧高開超5%】本川智慧高開超5%，公司預計前三季度淨利9600萬元-1.44億元，同比增長190%-335%。"
+    },
+    {
+      "id": "mkt:01a11e45-b20d-7ee0-a807-710c14f1bd72",
+      "time": "2026-10-09 09:27:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index opened Oct 9 down 7.81 points (-0.21%) at 3,804.09; Shenzhen Composite Index opened down 63.88 points (-0.51%) at 12,557.01; CSI 300 Index opened down 13.03 points (-0.30%) at 4,297.25; ChiNext Index opened down 15.33 points (-0.50%) at 3,021.33; STAR 50 Index opened down 14.60 points (-1.00%) at 1,441.72."
+    },
+    {
+      "id": "mkt:01a11e45-a839-7ee0-a807-69911a81d9a3",
+      "time": "2026-10-09 09:27:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dongyue Silicon Material expects Jan–Sep net profit of 547–567 mln yuan, up 19,050–19,750% YoY. Its A-shares opened more than 7% higher."
+    },
+    {
+      "id": "mkt:01a11e45-6cca-7ee0-a807-675faed64186",
+      "time": "2026-10-09 09:27:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share MLCC-related stocks opened lower; Huaci Co. fell more than 6% at the open, Dongcai Technology and Guoci Materials dropped over 3%, with Fenghua Hi‑Tech, Boqian New Materials and Longxin Intelligent among the top decliners."
+    },
+    {
+      "id": "5133770",
+      "time": "2026-10-09 09:27:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東嶽矽材高開超7%】東嶽矽材高開超7%，公司預計前三季度淨利潤5.47億元-5.67億元，同比增長19050%-19750%。"
+    },
     {
       "id": "5133769",
       "time": "2026-10-09 09:26:32",
@@ -83719,61 +83897,6 @@
         "Impact bearish"
       ],
       "text": "Xiaomi Group (01810.HK) extended losses to 5%."
-    },
-    {
-      "id": "5123569",
-      "time": "2026-10-02 09:30:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數跌超2%，現報24073.070點；恒生科技指數現跌2.055%。"
-    },
-    {
-      "id": "te:markets:588956",
-      "time": "2026-10-02 09:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Hong Kong Hit 11-week Low — HK50 decreased to 24043.00 Index Points, the lowest since July 2026. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) lost 4.75%, and in the last 12 months, it decreased 11.52%."
-    },
-    {
-      "id": "5123568",
-      "time": "2026-10-02 09:29:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西聯邦大律師局1日要求聯邦警察和聯邦總檢察院，就美國政府涉嫌為干涉巴西選舉並削弱巴西聯邦最高法院合法性而提供資金一事展開調查。（新華社）"
-    },
-    {
-      "id": "mkt:01a0fa3b-1b20-7ee0-a782-854ec4ce4d44",
-      "time": "2026-10-02 09:29:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Brazil attorney general asks police, prosecutors to probe alleged U.S. funding to influence election, weaken Supreme court】Brazil’s Attorney General Jorge Messias on Oct. 1 asked federal police and the federal prosecutor’s office to investigate a Guardian report that the U.S. government allegedly provided $1m to fund civil groups campaigning against the Supreme Federal Court for 'judicial overreach' and 'censorship'. Messias called the allegations extremely serious amid a critical election phase and said foreign political forces must not be allowed to interfere with Brazilian institutions or affect voters’ choices."
-    },
-    {
-      "id": "5123567",
-      "time": "2026-10-02 09:28:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 我們上任後發現，在狡詐的喬·拜登以及民主黨執政時期，有近百萬戶透過奧巴馬醫改購買醫療保險的家庭被嚴重多收費用，而貪婪的民主黨人卻把這筆錢扣下了！現在我們要把錢退還給大家。昨日，近100萬張奧巴馬醫改退款支票已經寄出，每張金額500美元，其中得克薩斯州與俄克拉荷馬州就有將近15萬戶家庭收到退款。"
-    },
-    {
-      "id": "5123566",
-      "time": "2026-10-02 09:27:34",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普重申，美國應該擁有全球最低利率。"
     }
   ]
 }
