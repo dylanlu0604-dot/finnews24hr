@@ -1,7 +1,86 @@
 {
   "date": "2026-10-09",
-  "count": 724,
+  "count": 732,
   "items": [
+    {
+      "id": "mkt:01a11e4f-23ca-7ee0-a807-e00c6f34cedd",
+      "time": "2026-10-09 09:37:45",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share battery sector rallied in early trade; Shidai Wanheng notched a fifth consecutive limit-up, Zizhu Hi-Tech a fourth and Xiongtai a second. Fengyuan and Lingpai Technology gained over 10%; Liwang, Keheng, Longpan Technology, Shangshui Intelligent and Haike New Energy also advanced."
+    },
+    {
+      "id": "5133838",
+      "time": "2026-10-09 09:37:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本金融廳要求企業審查網路安全措施。"
+    },
+    {
+      "id": "mkt:01a11e4e-6e30-7ee0-a807-df2718771a5a",
+      "time": "2026-10-09 09:36:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Beijing Stock Exchange new listing N Yute opened 489.82% above its IPO price on debut."
+    },
+    {
+      "id": "5133837",
+      "time": "2026-10-09 09:36:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4170美元/盎司，日內漲0.89%。"
+    },
+    {
+      "id": "5133829",
+      "time": "2026-10-09 09:36:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股有機矽板塊異動拉昇】晨光新材觸及漲停，東嶽矽材、矽寶科技、合盛矽業、錦華新材、迴天新材、江瀚新材跟漲。"
+    },
+    {
+      "id": "5133828",
+      "time": "2026-10-09 09:35:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【有機矽板塊再度拉昇，東嶽矽材漲超10%】有機矽板塊再度拉昇，東嶽矽材漲超10%，晨光新材、宏柏新材、矽寶科技、迴天新材、錦華新材等跟漲。"
+    },
+    {
+      "id": "mkt:01a11e4c-7051-7ee0-a807-d48ff681ade1",
+      "time": "2026-10-09 09:34:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's ChiNext index dropped below 3,000, marking its lowest level since November last year."
+    },
+    {
+      "id": "5133822",
+      "time": "2026-10-09 09:34:44",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "富蘭克林鄧普頓執行長約翰遜：美聯儲將在12月加息。"
+    },
     {
       "id": "mkt:01a11e4c-54dc-7ee0-a807-cda67322ac36",
       "time": "2026-10-09 09:34:41",
