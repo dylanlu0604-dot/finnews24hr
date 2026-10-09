@@ -1,7 +1,117 @@
 {
-  "updated": "2026-10-09 22:52:37",
-  "count": 9367,
+  "updated": "2026-10-09 22:56:30",
+  "count": 9376,
   "items": [
+    {
+      "id": "mkt:01a12129-e2ee-7ee0-a818-9c30fcd01011",
+      "time": "2026-10-09 22:55:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Governor COOK's lawyer said he has contacted the WHITE HOUSE about planned hearings on allegations against COOK and expressed serious doubts about their legality."
+    },
+    {
+      "id": "5135368",
+      "time": "2026-10-09 22:55:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員庫克的律師稱，如果聽證會能保持基本客觀，就能證明庫克沒有犯下抵押貸款欺詐罪，也就不存在將其免職的理由了。"
+    },
+    {
+      "id": "mkt:01a12129-b51e-7ee0-a818-934245db62f0",
+      "time": "2026-10-09 22:55:43",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Italy and the EU are close to reaching an agreement to cap energy bills."
+    },
+    {
+      "id": "5135367",
+      "time": "2026-10-09 22:55:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長表示，巴西將延長並擴大汽油補貼。"
+    },
+    {
+      "id": "5135366",
+      "time": "2026-10-09 22:55:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白俄羅斯因本國公民遇襲召見烏克蘭臨時代辦】白俄羅斯外交部9日發表宣告說，白外交部當天召見了烏克蘭駐白俄羅斯臨時代辦諾維茨基，就烏無人機在俄羅斯境內攻擊白俄羅斯車牌貨車並致白公民重傷一事遞交抗議照會。"
+    },
+    {
+      "id": "5135365",
+      "time": "2026-10-09 22:55:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲庫克的律師在一份宣告中表示，其已就白宮計劃針對庫克相關指控舉行聽證會一事與白宮進行了接觸，並對該聽證會的合法性深表懷疑。"
+    },
+    {
+      "id": "mkt:01a12128-a62e-7ee0-a818-8c5f3f3ed82f",
+      "time": "2026-10-09 22:54:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【International Criminal Court says it will not yield to U.S. pressure】Foreign media reported on the 9th that after the U.S. Treasury added the International Criminal Court to its sanctions list, the court said the measures are intended to disrupt its work and intimidate partners and that it will not yield to U.S. pressure."
+    },
+    {
+      "id": "mkt:01a12128-837c-7ee0-a818-876b065f6774",
+      "time": "2026-10-09 22:54:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【RBC: September job drop driven by youth; unemployment likely to decline through remainder of 2026】RBC economist Claire Fan said Canada’s September employment decline is highly volatile and should not be over-interpreted. Roughly 70% of the fall came from 15–24-year-olds; seasonal hiring patterns around the new school year mean the drop does not necessarily signal broad labour‑market deterioration. Leading indicators show hiring demand has not fallen to worrying levels since the imposition of recent US tariffs. Fan expects earlier improvements in Canada’s labour market to persist and for the unemployment rate to trend down over the remainder of 2026."
+    },
+    {
+      "id": "5135364",
+      "time": "2026-10-09 22:53:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，預計“伊薩亞斯”的風眼將於今晚抵達佛羅里達州西部狹長地帶海岸，佛羅里達州狹長地帶和阿拉巴馬州沿海可能出現危及生命的風暴潮和破壞性大風。"
+    },
+    {
+      "id": "mkt:01a12127-1a6d-7ee0-a818-7e7b3eec1cec",
+      "time": "2026-10-09 22:52:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dutch foreign minister said there remains room to engage with the United States on sanctions related to the International Criminal Court."
+    },
+    {
+      "id": "mkt:01a12126-f79a-7ee0-a818-72801ad27d31",
+      "time": "2026-10-09 22:52:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Dutch foreign minister said after the U.S. announced sanctions that the Netherlands will support the International Criminal Court."
+    },
+    {
+      "id": "5135363",
+      "time": "2026-10-09 22:52:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【國際刑事法院說不會屈服於美方壓力】針對美國財政部將國際刑事法院列入制裁名單，國際刑事法院表示，美方制裁旨在干擾法院工作，恐嚇與其合作者，法院不會屈服於壓力。（新華社）"
+    },
+    {
+      "id": "5135362",
+      "time": "2026-10-09 22:52:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "荷蘭外交大臣表示，在美國實施制裁後，荷蘭將支援國際刑事法院。"
+    },
     {
       "id": "5135360",
       "time": "2026-10-09 22:51:40",
@@ -85860,46 +85970,6 @@
         "國際"
       ],
       "text": "【美海岸警衛隊稱與墨西哥聯合攔截M/V Grace號油輪 指其向古巴非法運送燃料 】美國海岸警衛隊10月2日宣佈，在與墨西哥政府的協調執法行動後，已完成對機動船M/V Grace號的攔截，並稱該船涉嫌向古巴非法販運燃料。公告未披露攔截時間、海域、查獲燃料數量及船旗等細節，也未說明墨西哥方面具體參與方式與後續處置安排。"
-    },
-    {
-      "id": "5124429",
-      "time": "2026-10-02 22:56:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍：攔截涉嫌走私燃料的“格蕾絲”號貨輪。"
-    },
-    {
-      "id": "mkt:01a0fd1d-3df6-7ee0-a789-4e3043dd213d",
-      "time": "2026-10-02 22:55:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "TD Securities now expects the Federal Reserve to raise rates in December and March, versus previous estimates of October and January."
-    },
-    {
-      "id": "5124428",
-      "time": "2026-10-02 22:55:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "道明證券預計美聯儲將在12月和3月加息，此前預計為10月和1月。"
-    },
-    {
-      "id": "mkt:01a0fd1c-af74-7ee0-a789-4787020369ca",
-      "time": "2026-10-02 22:55:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kyiv mayor says southern bridge was struck again in a Russian airstrike."
     }
   ]
 }
