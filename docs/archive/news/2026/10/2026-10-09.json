@@ -1,7 +1,150 @@
 {
   "date": "2026-10-09",
-  "count": 1891,
+  "count": 1909,
   "items": [
+    {
+      "id": "mkt:01a12131-37e5-7ee0-a819-381cafeb6550",
+      "time": "2026-10-09 23:03:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ARAMCO will deliver full contracted crude volumes to European customers in November."
+    },
+    {
+      "id": "5135383",
+      "time": "2026-10-09 23:03:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特阿美將於11月向歐洲客戶供應全部石油量。"
+    },
+    {
+      "id": "5135382",
+      "time": "2026-10-09 23:02:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫雷蒂：為保持乙醇的競爭優勢而支付乙醇補貼，還將產生8億雷亞爾的財政影響。"
+    },
+    {
+      "id": "mkt:01a1212f-b2b2-7ee0-a819-373b3965601d",
+      "time": "2026-10-09 23:02:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's planning and budget minister said the measures will carry a fiscal impact of 800 million reais to finance ethanol subsidies aimed at preserving its competitiveness."
+    },
+    {
+      "id": "mkt:01a1212e-eafe-7ee0-a819-2dbdee8e671f",
+      "time": "2026-10-09 23:01:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Capital Economics: Odds of a Canadian October rate hike fall sharply; expects rate normalization only next year】Capital Economics economist Thomas Ryan said that after two consecutive months of sizable employment declines and a small rise in the unemployment rate, only a September inflation print well above expectations would put an October BoC rate hike back on the table. Canadian employment fell 68,300 in September, far below consensus for a modest increase and below Capital Economics’ prior forecast of no change. Ryan said the labour market is not as weak as the aggregate data suggest: part of the drop reflects a pullback among younger workers after unusually strong summer hiring, and weakness is concentrated in the public sector. He still expects the BoC to wait until 2027 to begin normalizing policy rates."
+    },
+    {
+      "id": "mkt:01a1212e-b7c6-7ee0-a819-267f0021fc3b",
+      "time": "2026-10-09 23:01:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's minister of planning and budget said the fiscal impact will total 2.8 billion reais, 700 million reais more than previous fuel measures."
+    },
+    {
+      "id": "5135380",
+      "time": "2026-10-09 23:00:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會(SEC)表示，提議擴大註冊基金可進行交叉交易的證券範圍。"
+    },
+    {
+      "id": "mkt:01a1212e-755d-7ee0-a819-1be1f7a845c2",
+      "time": "2026-10-09 23:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's minister of planning and budget said this effectively cuts the federal tax on gasoline to zero."
+    },
+    {
+      "id": "mkt:01a1212e-1c63-7ee0-a819-144008558474",
+      "time": "2026-10-09 23:00:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【KPMG: Canadian employment down second month complicates rate outlook but still expects 25bp hike in December】KPMG Canada economist Daniel Hyun says the Bank of Canada faces a difficult trade-off: current conditions still warrant some monetary easing while inflation risks are rising. Canadian employment fell for a second consecutive month, and September payrolls were notably weak, complicating the case for a December hike. Hyun nonetheless expects the BOC to raise rates 25bp in December, citing the bank’s exposure to upside inflation risks and pressure to defend policy credibility."
+    },
+    {
+      "id": "mkt:01a1212e-00f6-7ee0-a819-090a07a43208",
+      "time": "2026-10-09 23:00:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission stands ready to take necessary measures to support the International Criminal Court's work."
+    },
+    {
+      "id": "5135379",
+      "time": "2026-10-09 23:00:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟：隨時準備採取一切必要措施，確保國際刑事法院能夠履行其職責。"
+    },
+    {
+      "id": "te:markets:590915",
+      "time": "2026-10-09 23:00:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Drops by 1.05% — Top currency losers are Mexican Peso (-1.05%), Canadian Dollar (-0.35%), Polish Zloty (-0.35%), Japanese Yen (-0.34%) and Euro (-0.14%). Gains are led by Brazilian Real (0.69%) and Dollar Index (0.16%). Meanwhile British Pound was little changed."
+    },
+    {
+      "id": "mkt:01a1212d-cc52-7ee0-a819-01afe032df85",
+      "time": "2026-10-09 23:00:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission said that because U.S. sanctions on the International Criminal Court will take effect in six months, there remains room for dialogue."
+    },
+    {
+      "id": "mkt:01a1212d-c088-7ee0-a818-ff06ff3920b5",
+      "time": "2026-10-09 23:00:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Fed survey: Nearly 20% of U.S. households report delinquencies; debt-service burden highest since 2013】The Federal Reserve's latest consumer finances survey shows rising U.S. household debt stress. Median debt-service-to-income ratio climbed to 15.4% (up 2ppt vs 2022); the Fed cited higher mortgage and consumer loan rates as a likely driver. The share of households with debt-service ratios at or above 40% rose to 8.6% from 6.5%, the highest since 2013. Households reporting loan delinquencies rose to nearly 20% in 2025 from about 12% in 2022, underscoring worsening repayment strain as borrowing costs have increased."
+    },
+    {
+      "id": "5135378",
+      "time": "2026-10-09 23:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "奮進礦業(Endeavour Mining)報告稱，10月7日伊蒂(Ity)礦區發生一起員工死亡事故。"
+    },
+    {
+      "id": "5135377",
+      "time": "2026-10-09 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】20號膠連續漲4.71%，天然橡膠連續漲3.76%，焦煤連續漲3.39%，焦炭連續漲2.81%，豆一連續漲2.37%，聚丙烯連續漲2.13%，燃料油連續漲2.00%。"
+    },
     {
       "id": "mkt:01a1212d-88e1-7ee0-a818-f60b15a7adb3",
       "time": "2026-10-09 22:59:54",
@@ -17,6 +160,14 @@
         "MKT News"
       ],
       "text": "European Commission says the EU has long been a staunch supporter of the International Criminal Court (ICC)."
+    },
+    {
+      "id": "5135376",
+      "time": "2026-10-09 22:59:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟就美國製裁國際刑事法院表態：相關制裁措施生效前有六個月的緩衝期，因此仍有對話空間。"
     },
     {
       "id": "mkt:01a1212c-f80b-7ee0-a818-e6ccbc4f4764",
@@ -41,6 +192,14 @@
         "MKT News"
       ],
       "text": "Brazil's finance minister said the government is using revenue growth to protect Brazilian consumers."
+    },
+    {
+      "id": "5135374",
+      "time": "2026-10-09 22:58:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：美國宣佈打算對國際刑事法院（ICC）實施制裁，這一行為令人深感遺憾。"
     },
     {
       "id": "mkt:01a1212c-3457-7ee0-a818-d652837fc115",
