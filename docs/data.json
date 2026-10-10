@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11 03:45:41",
-  "count": 10057,
+  "updated": "2026-10-11 03:49:27",
+  "count": 10056,
   "items": [
     {
       "id": "mkt:01a12757-b56f-7ee0-a826-44df9f56392c",
@@ -91741,14 +91741,6 @@
         "國際"
       ],
       "text": "美國銀行存款從前一週的 19.571 萬億美元增至 19.637 萬億美元。"
-    },
-    {
-      "id": "mkt:01a1034e-eb0c-7ee0-a791-39c627830534",
-      "time": "2026-10-04 03:47:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NASA and SpaceX have set Crew-12's earliest departure from the International Space Station for Oct. 7."
     }
   ]
 }
