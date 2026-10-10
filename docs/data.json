@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-10 16:56:33",
+  "updated": "2026-10-10 17:00:25",
   "count": 9958,
   "items": [
+    {
+      "id": "5136324",
+      "time": "2026-10-10 16:57:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝晉能源通道建設提速 神瓦鐵路黃河特大橋合龍】10月10日，由中鐵第一勘察設計院集團有限公司勘察設計、中鐵十八局承建的神瓦鐵路黃河特大橋順利合龍。作為神瓦鐵路全線唯一一座跨越黃河的橋樑，它的合龍標誌著這條陝晉能源大通道的重難點控制性工程取得關鍵突破，為專案全面建設按下了“快進鍵”。"
+    },
     {
       "id": "5136323",
       "time": "2026-10-10 16:55:08",
@@ -90876,21 +90884,6 @@
         "國際"
       ],
       "text": "印度考慮調整大宗商品衍生品相關規則，以改善市場流動性。"
-    },
-    {
-      "id": "mkt:01a100fe-0c0e-7ee0-a78f-6693a3d03830",
-      "time": "2026-10-03 17:00:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "【UK diesel retail price hits multi-year high】Middle East tensions have lifted global refined-fuel prices. On Oct 2 a UK roadside assistance and vehicle recovery firm reported average UK retail diesel at £2.00/litre (~RMB17.75), above the June 2022 peak, and said the price may rise further."
     }
   ]
 }
