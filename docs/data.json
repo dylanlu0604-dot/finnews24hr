@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-10 17:38:27",
-  "count": 9973,
+  "updated": "2026-10-10 17:42:18",
+  "count": 9972,
   "items": [
+    {
+      "id": "mkt:01a12530-5a7b-7ee0-a824-4d6b5217043f",
+      "time": "2026-10-10 17:41:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Ex-IDF deputy chief says killing Khamenei was a mistake】US and Israeli forces launched military action against Iran on Feb. 28 that killed Iran’s former supreme leader Khamenei and several senior Iranian political and military officials. Iran retaliated by striking targets inside Israel and multiple US bases in the Middle East. Yair Golan, former IDF deputy chief of staff, told a political forum Israel’s killing of Khamenei \"was a mistake and not in Israel’s interests,\" saying removing an elderly hardline leader upset a strategic balance, empowered more extreme, violent factions, worsened Israel’s long-term strategic position and meant Prime Minister Netanyahu’s bid to overturn the Iranian regime has been declared a failure."
+    },
     {
       "id": "5136351",
       "time": "2026-10-10 17:37:09",
@@ -90998,22 +91010,6 @@
         "國際"
       ],
       "text": "【馬來西亞將於11月起取消部分黃金產品10%的關稅】根據馬來西亞財政部10月2日釋出的檔案，馬來西亞將從11月1日起取消部分黃金產品10%的進口關稅。"
-    },
-    {
-      "id": "mkt:01a10121-b2f8-7ee0-a78f-8dbb6b8fe916",
-      "time": "2026-10-03 17:39:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Attack in Ukraine's Luhansk region kills two and injures three."
-    },
-    {
-      "id": "mkt:01a10121-7e65-7ee0-a78f-824332ca76c0",
-      "time": "2026-10-03 17:38:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli airstrike kills five; target said to be senior Hamas official】Israel said on the 3rd that an airstrike on the 2nd in western Gaza City aimed at Ali Amudi — viewed as a potential successor to late Hamas leader Yahya Sinwar — could not be confirmed by the military as successful. Palestinian sources reported five killed, including women and children. Amudi is reported to be among senior Hamas figures still in Gaza and previously handled the group's media communications."
     }
   ]
 }
