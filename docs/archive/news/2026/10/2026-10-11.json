@@ -1,7 +1,374 @@
 {
   "date": "2026-10-11",
-  "count": 111,
+  "count": 153,
   "items": [
+    {
+      "id": "5136726",
+      "time": "2026-10-11 06:25:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱，在海爾季省攔截並摧毀了一枚由葉門胡塞武裝發射的彈道導彈。"
+    },
+    {
+      "id": "5136725",
+      "time": "2026-10-11 06:22:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前8月貨物貿易進出口總值同比增長17.6%】據海關統計，前8月，我國貨物貿易進出口總值34.78萬億元，同比增長17.6%。其中，出口20.17萬億元，同比增長14.6%；進口14.61萬億元，同比增長22%。"
+    },
+    {
+      "id": "5136724",
+      "time": "2026-10-11 06:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及航空宣佈暫停從開羅機場飛往利雅得的航班。"
+    },
+    {
+      "id": "5136723",
+      "time": "2026-10-11 06:09:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：一艘離港油輪的船長報告稱，船舶左舷被未知射彈擊中，導致船上起火。"
+    },
+    {
+      "id": "5136722",
+      "time": "2026-10-11 06:09:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國聯合海事行動中心（UKMTO）：已收到一份關於霍爾木茲海峽內發生一起事件的報告。"
+    },
+    {
+      "id": "5136721",
+      "time": "2026-10-11 06:04:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特利雅得機場遭襲造成12人死亡309人受傷】沙烏地阿拉伯民航部門11日凌晨釋出宣告說，首都利雅得的國際機場遭襲造成12人死亡、309人受傷。當地時間10日，沙烏地阿拉伯民航總局釋出宣告稱，當天下午，首都利雅得哈立德國王國際機場再次遭到襲擊，造成多人受傷，目前傷亡情況仍在統計中。宣告稱，鑑於近期針對沙特民航設施的襲擊持續發生，相關部門已暫時停止哈立德國王國際機場的運營，以完成損失評估並檢查機場設施安全。（央視新聞）"
+    },
+    {
+      "id": "5136720",
+      "time": "2026-10-11 05:54:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這場歷時近七個月的軍事行動已永久阻止伊朗獲取核武器，在這場衝突中陣亡的18名美軍將士“沒有白白犧牲”。"
+    },
+    {
+      "id": "5136719",
+      "time": "2026-10-11 05:49:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民航局：週六利雅得哈立德國王國際機場遇襲事件已造成至少12人死亡、309人受傷。"
+    },
+    {
+      "id": "5136718",
+      "time": "2026-10-11 05:32:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普田納西集會調侃梅拉尼婭紀錄片】在美國田納西州的集會上，特朗普誇讚第一夫人梅拉尼婭·特朗普及其紀錄片，稱這部影片是年度最熱門影片。他打趣道：“我可不喜歡這樣，一個家裡只能有一位明星。”"
+    },
+    {
+      "id": "5136717",
+      "time": "2026-10-11 05:31:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果我們中期選舉失利，他們就會怪罪到我頭上。"
+    },
+    {
+      "id": "5136716",
+      "time": "2026-10-11 05:25:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國多州數十萬使用者因颶風斷電】目前“伊薩亞斯”已減弱為後熱帶氣旋，佛羅里達州、阿拉巴馬州、佐治亞州和密西西比州仍有大約67萬使用者處於停電狀態。美國國家颶風中心表示，危險狀況依然存在，美國東南部部分地區面臨出現風暴潮、突發洪水、破壞性大風以及龍捲風的風險。（CCTV國際時訊）"
+    },
+    {
+      "id": "5136715",
+      "time": "2026-10-11 05:25:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颶風伊薩亞斯致美國4人死】今年大西洋颶風季首個颶風“伊薩亞斯”登陸美國東南沿海，帶來狂風和強降雨。據美聯社報道，截至當地時間10月10日下午，颶風已造成至少4人死亡。（CCTV國際時訊）"
+    },
+    {
+      "id": "5136714",
+      "time": "2026-10-11 05:21:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：日本將研發可突破防空系統的低成本巡航導彈。"
+    },
+    {
+      "id": "mkt:01a127a9-8407-7ee0-a826-b2d93a223934",
+      "time": "2026-10-11 05:13:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Projectile lands near King Fahd International Airport in eastern Saudi Arabia】A Saudi-led coalition spokesman, Turki al-Maliki, posted on social media on the evening of the 10th that a projectile landed near King Fahd International Airport in Dammam, eastern Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a127a7-ecae-7ee0-a826-aad55b6f02e9",
+      "time": "2026-10-11 05:11:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Attack at Riyadh's King Khalid International Airport kills at least 12 and injures more than 50."
+    },
+    {
+      "id": "5136713",
+      "time": "2026-10-11 05:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一枚投射物落在沙特東部國際機場附近】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基10日晚在社交媒體上說，一枚投射物落在位於沙特東部城市達曼的法赫德國王國際機場附近。（新華社）"
+    },
+    {
+      "id": "mkt:01a127a6-785f-7ee0-a826-a0533f6f32c2",
+      "time": "2026-10-11 05:09:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he believes French President Macron has been unhappy recently."
+    },
+    {
+      "id": "5136712",
+      "time": "2026-10-11 05:09:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國豪宅稅不會擴大至150萬英鎊房產，財政大臣希利駁回下調豪宅稅起徵門檻的呼籲。"
+    },
+    {
+      "id": "5136711",
+      "time": "2026-10-11 05:07:56",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人表示，美國譴責胡塞武裝針對民用基礎設施與機場的襲擊，稱襲擊已造成“大量人員傷亡”。華盛頓方面暫未獲悉有美國人遇難。"
+    },
+    {
+      "id": "5136710",
+      "time": "2026-10-11 05:06:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為法國總統近來心情不佳。"
+    },
+    {
+      "id": "5136709",
+      "time": "2026-10-11 05:04:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及加拿大：我們不需要曲棍球杆，不需要口罩，不需要那些他們賣給我們的東西。"
+    },
+    {
+      "id": "5136708",
+      "time": "2026-10-11 05:03:13",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場資訊：胡塞武裝襲擊利雅得哈立德國王國際機場，造成至少12人死亡、50人受傷。"
+    },
+    {
+      "id": "mkt:01a127a0-6197-7ee0-a826-9abbe4bb90a4",
+      "time": "2026-10-11 05:03:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP said Canada has never shown the US proper respect, that Canada assumes entitlements it does not have, and that the US does not need what Canada offers."
+    },
+    {
+      "id": "5136707",
+      "time": "2026-10-11 05:02:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及加拿大：加拿大從未尊重過我們。他們自以為享有特權，但事實並非如此。他們的東西我們一概不需要。"
+    },
+    {
+      "id": "mkt:01a1279b-8706-7ee0-a826-97729f3046ac",
+      "time": "2026-10-11 04:57:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "The Saudi-led coalition said a projectile landed in the vicinity of Riyadh’s King Khalid International Airport."
+    },
+    {
+      "id": "5136706",
+      "time": "2026-10-11 04:57:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "T-Mobile：截至週六上午，墨西哥灣沿岸96%的T-Mobile基站已恢復運營。"
+    },
+    {
+      "id": "5136705",
+      "time": "2026-10-11 04:55:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱，一枚炮彈落在達曼法赫德國王國際機場附近區域。"
+    },
+    {
+      "id": "5136704",
+      "time": "2026-10-11 04:55:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "T-Mobile團隊助力墨西哥灣沿岸社群從颶風\"伊薩亞斯\"中恢復，搶修通訊網路。"
+    },
+    {
+      "id": "5136703",
+      "time": "2026-10-11 04:54:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【法國債務高企，德國適度鬆綁債務剎車】法國債務佔國內生產總值比重達到119%，創二戰後新高，而德國該比例為64%。歐元誕生之初兩國債務率均約60%，但2010年後走勢大幅分化。德國憲法債務剎車機制要求實現預算平衡與基本財政盈餘，推動其債務率從81%降至2019年的59%。法國自1974年起就未曾實現財政盈餘。2025年財政赤字約5.1%；若不實施大規模削減支出，預計到2027年債務率將升至約122%。勒科爾尼總理提出540億歐元的節約方案，但議會派系分散，法案能否透過尚不確定。與此同時，德國憑藉自身穩固的財政基礎，小幅放寬債務剎車以增加國防開支，而法國已不再擁有這樣的底氣。起標題"
+    },
+    {
+      "id": "5136702",
+      "time": "2026-10-11 04:53:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：請投票。"
+    },
+    {
+      "id": "5136701",
+      "time": "2026-10-11 04:48:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：真是不可思議。就算我說些蠢話，你們照樣鼓掌。"
+    },
+    {
+      "id": "mkt:01a12793-33c3-7ee0-a826-8ae60a515cce",
+      "time": "2026-10-11 04:48:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said it was unbelievable, that he could say the most foolish things and people would applaud."
+    },
+    {
+      "id": "5136700",
+      "time": "2026-10-11 04:46:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱伊朗為“瘋子國家”，並表示德黑蘭可能在11月3日中期選舉前採取進一步行動，以在政治上打擊他。"
+    },
+    {
+      "id": "5136699",
+      "time": "2026-10-11 04:45:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：我們想要低利率，但我們的美聯儲理事會很糟糕。"
+    },
+    {
+      "id": "5136697",
+      "time": "2026-10-11 04:44:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果我環顧四周，看到聽眾像聽其他候選人演講那樣紛紛離場，那我就該縮短演講時長了。"
+    },
+    {
+      "id": "5136696",
+      "time": "2026-10-11 04:43:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭對俄羅斯發起新的大規模無人機群襲擊。"
+    },
+    {
+      "id": "mkt:01a1278b-d6fb-7ee0-a826-845654878683",
+      "time": "2026-10-11 04:40:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said he had considered renaming the Atlantic or Pacific Ocean to Trump Ocean or Ocean of the Americas."
+    },
+    {
+      "id": "mkt:01a12787-bf68-7ee0-a826-79c54158e225",
+      "time": "2026-10-11 04:36:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he is considering renaming the Strait of Hormuz to 'Trump Strait'."
+    },
+    {
+      "id": "mkt:01a12787-1acc-7ee0-a826-71f3614cbdb4",
+      "time": "2026-10-11 04:35:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "US President Trump said on Iran that the US can end the matter quickly and that Iran has no idea how well he has treated them."
+    },
+    {
+      "id": "mkt:01a12783-5da5-7ee0-a826-685af83fd63f",
+      "time": "2026-10-11 04:31:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Former UK prime minister Boris Johnson called the US decision to lift sanctions on Russian fuel disgusting, said blaming Ukraine for recent oil-price rises is obviously absurd and argued the increase began with the Strait of Hormuz closure. He accused the White House of trying to make US motorists pay for Putin's \"massacre\", said the policy will not succeed and doubted it would materially affect fuel prices."
+    },
+    {
+      "id": "5136683",
+      "time": "2026-10-11 04:28:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在田納西州克拉克維爾集會上發表講話。"
+    },
+    {
+      "id": "mkt:01a12780-5a0c-7ee0-a826-665b700ae30a",
+      "time": "2026-10-11 04:28:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "President Trump said gasoline prices are lower than during Biden's presidency and that the U.S. also prevented Iran from acquiring nuclear weapons."
+    },
     {
       "id": "5136651",
       "time": "2026-10-11 03:58:10",

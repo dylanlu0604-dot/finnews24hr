@@ -1,7 +1,374 @@
 {
-  "updated": "2026-10-11 04:19:46",
-  "count": 10059,
+  "updated": "2026-10-11 06:30:01",
+  "count": 10074,
   "items": [
+    {
+      "id": "5136726",
+      "time": "2026-10-11 06:25:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱，在海爾季省攔截並摧毀了一枚由葉門胡塞武裝發射的彈道導彈。"
+    },
+    {
+      "id": "5136725",
+      "time": "2026-10-11 06:22:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前8月貨物貿易進出口總值同比增長17.6%】據海關統計，前8月，我國貨物貿易進出口總值34.78萬億元，同比增長17.6%。其中，出口20.17萬億元，同比增長14.6%；進口14.61萬億元，同比增長22%。"
+    },
+    {
+      "id": "5136724",
+      "time": "2026-10-11 06:20:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及航空宣佈暫停從開羅機場飛往利雅得的航班。"
+    },
+    {
+      "id": "5136723",
+      "time": "2026-10-11 06:09:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：一艘離港油輪的船長報告稱，船舶左舷被未知射彈擊中，導致船上起火。"
+    },
+    {
+      "id": "5136722",
+      "time": "2026-10-11 06:09:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國聯合海事行動中心（UKMTO）：已收到一份關於霍爾木茲海峽內發生一起事件的報告。"
+    },
+    {
+      "id": "5136721",
+      "time": "2026-10-11 06:04:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特利雅得機場遭襲造成12人死亡309人受傷】沙烏地阿拉伯民航部門11日凌晨釋出宣告說，首都利雅得的國際機場遭襲造成12人死亡、309人受傷。當地時間10日，沙烏地阿拉伯民航總局釋出宣告稱，當天下午，首都利雅得哈立德國王國際機場再次遭到襲擊，造成多人受傷，目前傷亡情況仍在統計中。宣告稱，鑑於近期針對沙特民航設施的襲擊持續發生，相關部門已暫時停止哈立德國王國際機場的運營，以完成損失評估並檢查機場設施安全。（央視新聞）"
+    },
+    {
+      "id": "5136720",
+      "time": "2026-10-11 05:54:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這場歷時近七個月的軍事行動已永久阻止伊朗獲取核武器，在這場衝突中陣亡的18名美軍將士“沒有白白犧牲”。"
+    },
+    {
+      "id": "5136719",
+      "time": "2026-10-11 05:49:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民航局：週六利雅得哈立德國王國際機場遇襲事件已造成至少12人死亡、309人受傷。"
+    },
+    {
+      "id": "5136718",
+      "time": "2026-10-11 05:32:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普田納西集會調侃梅拉尼婭紀錄片】在美國田納西州的集會上，特朗普誇讚第一夫人梅拉尼婭·特朗普及其紀錄片，稱這部影片是年度最熱門影片。他打趣道：“我可不喜歡這樣，一個家裡只能有一位明星。”"
+    },
+    {
+      "id": "5136717",
+      "time": "2026-10-11 05:31:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果我們中期選舉失利，他們就會怪罪到我頭上。"
+    },
+    {
+      "id": "5136716",
+      "time": "2026-10-11 05:25:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國多州數十萬使用者因颶風斷電】目前“伊薩亞斯”已減弱為後熱帶氣旋，佛羅里達州、阿拉巴馬州、佐治亞州和密西西比州仍有大約67萬使用者處於停電狀態。美國國家颶風中心表示，危險狀況依然存在，美國東南部部分地區面臨出現風暴潮、突發洪水、破壞性大風以及龍捲風的風險。（CCTV國際時訊）"
+    },
+    {
+      "id": "5136715",
+      "time": "2026-10-11 05:25:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颶風伊薩亞斯致美國4人死】今年大西洋颶風季首個颶風“伊薩亞斯”登陸美國東南沿海，帶來狂風和強降雨。據美聯社報道，截至當地時間10月10日下午，颶風已造成至少4人死亡。（CCTV國際時訊）"
+    },
+    {
+      "id": "5136714",
+      "time": "2026-10-11 05:21:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：日本將研發可突破防空系統的低成本巡航導彈。"
+    },
+    {
+      "id": "mkt:01a127a9-8407-7ee0-a826-b2d93a223934",
+      "time": "2026-10-11 05:13:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Projectile lands near King Fahd International Airport in eastern Saudi Arabia】A Saudi-led coalition spokesman, Turki al-Maliki, posted on social media on the evening of the 10th that a projectile landed near King Fahd International Airport in Dammam, eastern Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a127a7-ecae-7ee0-a826-aad55b6f02e9",
+      "time": "2026-10-11 05:11:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Attack at Riyadh's King Khalid International Airport kills at least 12 and injures more than 50."
+    },
+    {
+      "id": "5136713",
+      "time": "2026-10-11 05:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一枚投射物落在沙特東部國際機場附近】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基10日晚在社交媒體上說，一枚投射物落在位於沙特東部城市達曼的法赫德國王國際機場附近。（新華社）"
+    },
+    {
+      "id": "mkt:01a127a6-785f-7ee0-a826-a0533f6f32c2",
+      "time": "2026-10-11 05:09:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he believes French President Macron has been unhappy recently."
+    },
+    {
+      "id": "5136712",
+      "time": "2026-10-11 05:09:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國豪宅稅不會擴大至150萬英鎊房產，財政大臣希利駁回下調豪宅稅起徵門檻的呼籲。"
+    },
+    {
+      "id": "5136711",
+      "time": "2026-10-11 05:07:56",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人表示，美國譴責胡塞武裝針對民用基礎設施與機場的襲擊，稱襲擊已造成“大量人員傷亡”。華盛頓方面暫未獲悉有美國人遇難。"
+    },
+    {
+      "id": "5136710",
+      "time": "2026-10-11 05:06:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為法國總統近來心情不佳。"
+    },
+    {
+      "id": "5136709",
+      "time": "2026-10-11 05:04:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及加拿大：我們不需要曲棍球杆，不需要口罩，不需要那些他們賣給我們的東西。"
+    },
+    {
+      "id": "5136708",
+      "time": "2026-10-11 05:03:13",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場資訊：胡塞武裝襲擊利雅得哈立德國王國際機場，造成至少12人死亡、50人受傷。"
+    },
+    {
+      "id": "mkt:01a127a0-6197-7ee0-a826-9abbe4bb90a4",
+      "time": "2026-10-11 05:03:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "TRUMP said Canada has never shown the US proper respect, that Canada assumes entitlements it does not have, and that the US does not need what Canada offers."
+    },
+    {
+      "id": "5136707",
+      "time": "2026-10-11 05:02:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及加拿大：加拿大從未尊重過我們。他們自以為享有特權，但事實並非如此。他們的東西我們一概不需要。"
+    },
+    {
+      "id": "mkt:01a1279b-8706-7ee0-a826-97729f3046ac",
+      "time": "2026-10-11 04:57:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "The Saudi-led coalition said a projectile landed in the vicinity of Riyadh’s King Khalid International Airport."
+    },
+    {
+      "id": "5136706",
+      "time": "2026-10-11 04:57:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "T-Mobile：截至週六上午，墨西哥灣沿岸96%的T-Mobile基站已恢復運營。"
+    },
+    {
+      "id": "5136705",
+      "time": "2026-10-11 04:55:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱，一枚炮彈落在達曼法赫德國王國際機場附近區域。"
+    },
+    {
+      "id": "5136704",
+      "time": "2026-10-11 04:55:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "T-Mobile團隊助力墨西哥灣沿岸社群從颶風\"伊薩亞斯\"中恢復，搶修通訊網路。"
+    },
+    {
+      "id": "5136703",
+      "time": "2026-10-11 04:54:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【法國債務高企，德國適度鬆綁債務剎車】法國債務佔國內生產總值比重達到119%，創二戰後新高，而德國該比例為64%。歐元誕生之初兩國債務率均約60%，但2010年後走勢大幅分化。德國憲法債務剎車機制要求實現預算平衡與基本財政盈餘，推動其債務率從81%降至2019年的59%。法國自1974年起就未曾實現財政盈餘。2025年財政赤字約5.1%；若不實施大規模削減支出，預計到2027年債務率將升至約122%。勒科爾尼總理提出540億歐元的節約方案，但議會派系分散，法案能否透過尚不確定。與此同時，德國憑藉自身穩固的財政基礎，小幅放寬債務剎車以增加國防開支，而法國已不再擁有這樣的底氣。起標題"
+    },
+    {
+      "id": "5136702",
+      "time": "2026-10-11 04:53:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：請投票。"
+    },
+    {
+      "id": "5136701",
+      "time": "2026-10-11 04:48:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：真是不可思議。就算我說些蠢話，你們照樣鼓掌。"
+    },
+    {
+      "id": "mkt:01a12793-33c3-7ee0-a826-8ae60a515cce",
+      "time": "2026-10-11 04:48:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said it was unbelievable, that he could say the most foolish things and people would applaud."
+    },
+    {
+      "id": "5136700",
+      "time": "2026-10-11 04:46:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱伊朗為“瘋子國家”，並表示德黑蘭可能在11月3日中期選舉前採取進一步行動，以在政治上打擊他。"
+    },
+    {
+      "id": "5136699",
+      "time": "2026-10-11 04:45:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：我們想要低利率，但我們的美聯儲理事會很糟糕。"
+    },
+    {
+      "id": "5136697",
+      "time": "2026-10-11 04:44:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果我環顧四周，看到聽眾像聽其他候選人演講那樣紛紛離場，那我就該縮短演講時長了。"
+    },
+    {
+      "id": "5136696",
+      "time": "2026-10-11 04:43:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭對俄羅斯發起新的大規模無人機群襲擊。"
+    },
+    {
+      "id": "mkt:01a1278b-d6fb-7ee0-a826-845654878683",
+      "time": "2026-10-11 04:40:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said he had considered renaming the Atlantic or Pacific Ocean to Trump Ocean or Ocean of the Americas."
+    },
+    {
+      "id": "mkt:01a12787-bf68-7ee0-a826-79c54158e225",
+      "time": "2026-10-11 04:36:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he is considering renaming the Strait of Hormuz to 'Trump Strait'."
+    },
+    {
+      "id": "mkt:01a12787-1acc-7ee0-a826-71f3614cbdb4",
+      "time": "2026-10-11 04:35:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "US President Trump said on Iran that the US can end the matter quickly and that Iran has no idea how well he has treated them."
+    },
+    {
+      "id": "mkt:01a12783-5da5-7ee0-a826-685af83fd63f",
+      "time": "2026-10-11 04:31:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Former UK prime minister Boris Johnson called the US decision to lift sanctions on Russian fuel disgusting, said blaming Ukraine for recent oil-price rises is obviously absurd and argued the increase began with the Strait of Hormuz closure. He accused the White House of trying to make US motorists pay for Putin's \"massacre\", said the policy will not succeed and doubted it would materially affect fuel prices."
+    },
+    {
+      "id": "5136683",
+      "time": "2026-10-11 04:28:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在田納西州克拉克維爾集會上發表講話。"
+    },
+    {
+      "id": "mkt:01a12780-5a0c-7ee0-a826-665b700ae30a",
+      "time": "2026-10-11 04:28:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "President Trump said gasoline prices are lower than during Biden's presidency and that the U.S. also prevented Iran from acquiring nuclear weapons."
+    },
     {
       "id": "5136651",
       "time": "2026-10-11 03:58:10",
@@ -91535,241 +91902,6 @@
         "國際"
       ],
       "text": "市場訊息：在公眾與業界表達擔憂後，美國將成立全新人工智慧特別工作組，針對該技術的風險提交報告。"
-    },
-    {
-      "id": "5125037",
-      "time": "2026-10-04 06:25:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱對哈馬斯高階官員發動打擊】當地時間3日晚間，以色列國防軍與以國家安全總局（辛貝特）發表聯合宣告稱，2日夜間，以軍在加沙地帶發動空襲，目標是哈馬斯高階官員阿里·阿穆迪。襲擊發生時，阿穆迪正身處於一間公寓內。宣告稱，阿穆迪曾是原哈馬斯領導人葉海亞·辛瓦爾的助手，並參與策劃了包括2023年10月7日襲擊事件在內的多起針對以色列的襲擊。目前以軍正在評估此次打擊的結果。（央視新聞）"
-    },
-    {
-      "id": "5125036",
-      "time": "2026-10-04 05:57:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社：由於葉門的導彈襲擊，沙烏地阿拉伯達曼的法赫德國王機場航班出現了中斷和停飛。"
-    },
-    {
-      "id": "5125035",
-      "time": "2026-10-04 05:57:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：10月04日05時56分在貴州畢節市威寧縣附近（北緯26.74度，東經104.18度）發生3.4級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "mkt:01a103c5-b4d3-7ee0-a791-8fb3ee297901",
-      "time": "2026-10-04 05:57:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Tasnim News reports missile strikes from Yemen disrupted flights and forced suspensions at King Fahd International Airport in Dammam, Saudi Arabia."
-    },
-    {
-      "id": "mkt:01a103bb-475e-7ee0-a791-847723c90ea8",
-      "time": "2026-10-04 05:46:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Fars News Agency, citing Arab sources, says Yemeni armed forces launched an attack on Dammam, Saudi Arabia."
-    },
-    {
-      "id": "mkt:01a103b4-657c-7ee0-a791-7e770a19d994",
-      "time": "2026-10-04 05:38:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Datafolha poll shows a hypothetical second-round presidential vote in Brazil at Lula 47% and Flavio Bolsonaro 46%."
-    },
-    {
-      "id": "5125034",
-      "time": "2026-10-04 05:37:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "Datafolha 民調：在巴西總統大選潛在第二輪對決中，盧拉支援率 47%，博索納羅為 46%。"
-    },
-    {
-      "id": "5125033",
-      "time": "2026-10-04 05:36:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "Datafolha 民調：巴西總統大選首輪，盧拉獲得 45% 有效選票，博索納羅為 42%。"
-    },
-    {
-      "id": "mkt:01a103b2-41ec-7ee0-a791-715149c1c942",
-      "time": "2026-10-04 05:36:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Datafolha poll: in Brazil's presidential first-round, Lula 45% of valid votes, Flavio Bolsonaro 42%."
-    },
-    {
-      "id": "5125032",
-      "time": "2026-10-04 05:35:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "厄瓜多國家石油公司：因 10 月 1 日發生火災，跨厄瓜多輸油管道（SOTE）一處泵站宣佈遭遇不可抗力。"
-    },
-    {
-      "id": "mkt:01a103b1-012c-7ee0-a791-6a71e4d0bd3f",
-      "time": "2026-10-04 05:34:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSNow White House reporter asked Trump if he had any regrets about his first two years back in the White House; he replied, \"Oh, I like it. It's terrific. I think it's the most productive two years in presidential history.\" When pressed on whether he'd do anything differently, he did not answer."
-    },
-    {
-      "id": "5125031",
-      "time": "2026-10-04 05:17:57",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：“強烈敦促” 衣索比亞和厄利垂亞保持最大限度剋制，重啟對話與合作。"
-    },
-    {
-      "id": "mkt:01a103a1-7fb4-7ee0-a791-6611853dbe60",
-      "time": "2026-10-04 05:17:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. State Department strongly urged Ethiopia and Eritrea to respect their neighbors' sovereignty and territorial integrity, exercise maximum restraint, and return to dialogue and cooperation."
-    },
-    {
-      "id": "5125030",
-      "time": "2026-10-04 05:17:51",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：“強烈敦促” 衣索比亞與厄利垂亞尊重鄰國主權與領土完整。"
-    },
-    {
-      "id": "mkt:01a103a1-23ab-7ee0-a791-58ad2321a712",
-      "time": "2026-10-04 05:17:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US State Department says escalating cross-border tensions between Ethiopia and Eritrea could affect the wider region."
-    },
-    {
-      "id": "5125029",
-      "time": "2026-10-04 05:16:55",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：衣索比亞與厄利垂亞跨境緊張局勢持續升級，有可能影響整個地區。"
-    },
-    {
-      "id": "5125028",
-      "time": "2026-10-04 05:15:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門胡塞武裝旗下馬西拉電視臺報道，沙特襲擊薩那；沙特方面暫未證實。"
-    },
-    {
-      "id": "5125027",
-      "time": "2026-10-04 05:05:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒：伊朗革命衛隊近日對7艘“違規”油輪採取行動】據伊朗法爾斯通訊社3日報道，過去5天內，伊朗伊斯蘭革命衛隊海軍在霍爾木茲海峽針對至少7艘“違規”油輪採取行動。報道援引多方訊息稱，儘管美國政府一直聲稱“霍爾木茲海峽保持開放並處在美國控制之下”，但伊方實際上平均每天針對不止一艘油輪採取行動。（新華社）"
-    },
-    {
-      "id": "mkt:01a10394-ef8b-7ee0-a791-5418be476702",
-      "time": "2026-10-04 05:04:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iranian media: IRGC recently acted against 7 \"violating\" oil tankers in Strait of Hormuz】Iran’s Islamic Revolutionary Guard Corps navy has taken action against at least 7 \"violating\" oil tankers in the Strait of Hormuz over the past five days, Iranian media reported, citing multiple sources. The report says this averages to more than one tanker targeted per day, contradicting U.S. government assertions that the strait remains open and under U.S. control."
-    },
-    {
-      "id": "5125026",
-      "time": "2026-10-04 05:02:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗實際上已經放棄研發核武器的所有計劃。"
-    },
-    {
-      "id": "5125025",
-      "time": "2026-10-04 05:01:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我將對伊朗作出一項決定。伊朗已遭到重創，所以唯一的問題是，選擇溫和方式還是強硬手段。"
-    },
-    {
-      "id": "5125024",
-      "time": "2026-10-04 05:01:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios援引一名美國官員訊息： 出席紐約聯合國大會的伊朗代表團兩名成員於週六被美方驅逐離境，此前二人多次收到離境指令卻拒不執行。據該官員訊息，其中一名伊朗外交官於週五晚間離境，另一名則在週六上午離開。"
-    },
-    {
-      "id": "mkt:01a10384-889f-7ee0-a791-491c915907f8",
-      "time": "2026-10-04 04:46:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "EURUSD",
-        "US10Y"
-      ],
-      "text": "【Fed and ECB minutes due next week, likely to highlight inflation concerns】The Fed and ECB will publish minutes from last month’s meetings next week. Both raised rates in September citing rising inflation pressure; the Fed minutes could show many policymakers were deeply worried about price trends and expected at least one more hike before year-end. Weaker-than-expected US nonfarm payrolls, soft wage growth, a government PCE revision showing slightly lower inflation YTD, and recent turmoil in French financial markets have collectively reduced near-term urgency for further tightening and raised the bar for an October hike. Minutes may recall officials’ hawkish September stance, but subsequent data strengthen arguments for patience; services inflation could keep a December hike on the table, though the Fed will likely need clearer evidence of renewed price pressure before moving again."
-    },
-    {
-      "id": "5125023",
-      "time": "2026-10-04 04:33:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【盧拉競選團隊請求選舉法院調查美使領館暫停服務一事】據巴西媒體3日報道，巴西總統盧拉的競選團隊已請求巴西最高選舉法院，將美國駐巴西使領館2日暫停線下領事服務一事，納入正在進行的外部勢力干預巴西選舉相關調查。巴西媒體援引盧拉競選團隊的請求書指出，此事是美國政府幹預巴西選舉的又一例證。美國政府在選舉關鍵時期發起如此規模的“異常外交舉動”，給巴西選舉環境帶來不穩定因素。（新華社）"
-    },
-    {
-      "id": "mkt:01a10375-39e3-7ee0-a791-4560a5fc81cd",
-      "time": "2026-10-04 04:29:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【India summons Pakistan acting charge d'affaires over India-Pakistan border incident】India's foreign ministry said on the 3rd it summoned Pakistan's acting charge d'affaires in New Delhi to strongly protest what it called Pakistani facilitation of \"illegal cross-border infiltration.\" India said three people crossed the boundary into Indian territory, ignored repeated warnings and moved toward the border fence; because they constituted an \"imminent security threat\" Indian border security forces took action. Pakistan on the same day summoned India's acting charge d'affaires in Islamabad to strongly protest that Indian border security personnel shot dead two Pakistani civilians at the India-Pakistan border on the 2nd."
-    },
-    {
-      "id": "5125022",
-      "time": "2026-10-04 04:29:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度就印巴邊界事件召見巴基斯坦臨時代辦】印度外交部3日發表宣告稱，印方當天召見巴基斯坦駐印度高階專員公署臨時代辦，就印方所指巴方“為非法跨境滲透提供便利”的行為提出強烈抗議。宣告稱，當時有三人越過邊界“滲入”印度境內，印邊境安全部隊多次警告要求其返回，但對方繼續向邊境圍欄方向移動。印方稱，由於對方構成“迫在眉睫的安全威脅”，印邊境安全部隊遂採取行動。巴方當天召見印度駐巴基斯坦高階專員公署臨時代辦，就2日印度邊境安全部隊人員在巴印邊境打死兩名巴基斯坦平民一事，向印方提出強烈抗議。（新華社）"
-    },
-    {
-      "id": "5125021",
-      "time": "2026-10-04 04:24:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：俄羅斯維柳欽斯克東南偏南 182 公里處發生 5.1 級地震。"
     }
   ]
 }
