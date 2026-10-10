@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-10 11:18:25",
-  "count": 9800,
+  "updated": "2026-10-10 11:22:19",
+  "count": 9803,
   "items": [
+    {
+      "id": "mkt:01a123d3-0b37-7ee0-a822-9dbd0a5f6a35",
+      "time": "2026-10-10 11:19:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China software business revenue topped 10.282 trillion yuan in first eight months】Ministry of Industry and Information Technology data show China’s software and information technology services sector ran solidly in Jan–Aug; software business revenue totaled 10.282 trillion yuan, up 8.8% YoY."
+    },
+    {
+      "id": "5136090",
+      "time": "2026-10-10 11:19:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內稀土市場整體行情暫無明顯變動】國內稀土市場整體行情暫無明顯變動，在多空因素的互相交織下，買賣雙方進場交易心態偏謹慎，產品價格窄幅震盪，成交節奏緩慢。目前，氧化鐠釹、氧化釓與氧化鈥價格分別約為740,000元/噸、898,000元/噸和640,000元/噸。從利好因素上看，一是市場低價貨源供應趨緊與高階製造業發展態勢良好，供應商降價意願較低；二是北方稀土2026年第四季度稀土精礦交易價格上漲，有力支撐供應商報價堅挺。從利空因素上看，原料現貨供應相對寬鬆以及短期稀土價格缺乏大幅上漲動力，共同導致下游使用者採購意願下降。"
+    },
+    {
+      "id": "5136089",
+      "time": "2026-10-10 11:18:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鉬鐵與氧化鉬價格下調】10日，國內鉬市整體呈現高位偏弱態勢，主要表現在部分鉬產品價格小幅下跌、訂單增速緩慢以及業者對後市信心略顯不足。今日，鉬精礦與鉬鐵價格分別下降20元/噸度和1000元/噸左右。鉬精礦市場上，場內購銷氣氛偏淡，受海外鉬市國慶假期表現欠佳以及節後下遊詢盤較少的影響，供應商報價普遍下調。鉬鐵市場上，產品價格繼續微跌，主要歸因於鋼企壓價情緒濃厚與鉬精礦市場帶動能力不足。今日，鋼招價格在34萬元/噸附近。鉬化工及其製品市場上，行情平穩，在供需格局處於相對平衡以及原料售價下調空間較小的背景下，四鉬酸銨、鉬粉與鉬條價格分別在327,000元/噸、615元/千克和620元/千克左右。"
+    },
+    {
+      "id": "5136087",
+      "time": "2026-10-10 11:18:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海螞蟻靈波科技有限公司增資至1.2億，增幅20%】天眼查App顯示，近日，上海螞蟻靈波科技有限公司發生工商變更，新增上海靈啟共創企業管理合夥企業（有限合夥）、上海靈翼共創企業管理合夥企業（有限合夥）為股東，同時，註冊資本由1億元人民幣增至1.2億元人民幣，增幅20%。該公司成立於2024年12月，法定代表人為朱興，經營範圍含技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣等。股東資訊顯示，該公司由螞蟻智慧（杭州）科技有限公司及上述新增股東共同持股。"
+    },
     {
       "id": "5136086",
       "time": "2026-10-10 11:14:57",
@@ -89544,15 +89580,6 @@
         "Emerging Markets"
       ],
       "text": "【Vietnam Q3 GDP +9.95% YoY, nears 10% annual target】Vietnam GDP rose 9.95% YoY in Q3, the fastest pace since Q3 2022 and above a 8.65% median forecast and the revised Q2 8.81%, the General Statistics Office said. Growth was driven by higher foreign investment, stronger factory output and large-scale infrastructure spending. Trade surged in September: exports +39.1% YoY (expected 26.6%), imports +45.8% YoY (expected 38.1%), producing a $1.27 bln surplus after eight months of deficit. Committed FDI through September rose 76.4% YoY to $50.4 bln; realized FDI inflows were up 12.1% YoY. September CPI was up 5.08% YoY, marginally below a 5.10% forecast."
-    },
-    {
-      "id": "5124806",
-      "time": "2026-10-03 11:21:59",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【臺積電或與馬斯克晶圓廠合作】10 月 3 日，科技媒體人 Tim Culpan（高鳴璨）爆料稱，臺積電 (TSMC) 正在探索與 Elon Musk（埃隆 · 馬斯克）旗下 Terafab 晶圓廠的合作事宜。 Terafab 此前已與 Intel（英特爾）達成合作；近來有風聲傳出臺積電考慮在美國設立第二園區，Terafab 所在的得克薩斯州是最可能的落腳點。"
     }
   ]
 }
