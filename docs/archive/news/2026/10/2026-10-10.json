@@ -1,7 +1,79 @@
 {
   "date": "2026-10-10",
-  "count": 612,
+  "count": 620,
   "items": [
+    {
+      "id": "mkt:01a1232d-3765-7ee0-a821-954fadddffd7",
+      "time": "2026-10-10 08:18:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Small twin-engine aircraft crashes near Vale do Açu, Brazil; three military police killed】Local time Oct 9, a small twin-engine aircraft crashed near the airport serving Vale do Açu, Brazil, killing all three on board, who were military police. The aircraft departed from a southeast Brazil airport bound for Vale do Açu. Cause of the crash is under investigation."
+    },
+    {
+      "id": "5135906",
+      "time": "2026-10-10 08:18:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 請假裝我在（中期選舉）選票上，好嗎？"
+    },
+    {
+      "id": "5135905",
+      "time": "2026-10-10 08:17:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【經濟日報：保護主義撐不起歐洲競爭力】經濟日報刊文指出，據媒體報道，10月5日，德國和法國向歐委會提交非正式檔案，要求歐盟強化使用貿易防禦措施，並推出多項保護主義新工具。此舉既不利於中歐合作，也解決不了歐洲發展難題，最終只會反噬自身經濟。德國和法國是全球重要經濟體，一舉一動都有重要影響，理應堅持自由貿易，遵守世貿規則，推動全球開放合作，而不是鼓動歐盟使用保護主義工具。"
+    },
+    {
+      "id": "5135904",
+      "time": "2026-10-10 08:17:11",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【巴西一小型飛機墜毀 致3人死亡】總檯記者獲悉，當地時間10月9日，一架小型飛機在巴西瓦萊-杜阿蘇地區機場附近墜毀，機上3名軍事警察死亡。據悉，失事飛機是一架雙發飛機。該飛機從巴西東南部一機場起飛，目的地是瓦萊-杜阿蘇地區。目前，墜機原因仍在調查中。（央視新聞）"
+    },
+    {
+      "id": "5135903",
+      "time": "2026-10-10 08:16:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤白銀突破55美元/盎司，日內漲幅0.0%。"
+    },
+    {
+      "id": "5135902",
+      "time": "2026-10-10 08:16:20",
+      "tags": [
+        "行業",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普政府要求AI公司在發生安全事件後立即上報】當地時間10月9日，央視記者獲悉，在人工智慧公司Anthropic發生多起未經授權使用美國政府系統的安全事件後，特朗普政府宣佈實施新的強制性AI安全事件報告要求。訊息稱，Anthropic公司已於9月底向美國政府披露相關事件，並表示未經授權的活動已經停止。根據新要求，AI公司今後發生安全事件後必須立即向政府報告，提高事件透明度，並對受到影響的機構採取補救和糾正措施。據美國方面訊息，特朗普設立的“超級智慧特別工作組”將負責監督相關要求的執行。白宮官員表示，政府不會接受延遲報告或企業未承擔責任的情況，但目前具體的執法和處罰機制尚不明確。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1232a-bdf7-7ee0-a821-8a1767c41b03",
+      "time": "2026-10-10 08:16:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Sources say Russian envoy Dmitriyev, during a recent Washington visit, requested that US authorities grant licenses allowing all major Russian oil companies to export diesel to the US market."
+    },
+    {
+      "id": "5135901",
+      "time": "2026-10-10 08:15:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第三季度21家上市銀行獲511家機構調研】今年第三季度，證券公司、基金公司、保險公司、保險資管公司以及外資等各類機構密集對上市銀行進行調研。Wind資料顯示，第三季度，共有21家上市銀行獲511家機構調研。調研內容顯示，信貸投放、淨息差、資產質量等話題備受關注。從調研情況來看，機構投資者對區域性銀行的關注度較高。其中，江蘇銀行最受機構青睞，共被146家機構調研；杭州銀行被73家機構調研；瑞豐銀行被64家機構調研；寧波銀行被63家機構調研；南京銀行被43家機構調研；紫金銀行被29家機構調研；廈門銀行被21家機構調研。（證券日報）"
+    },
     {
       "id": "mkt:01a12327-4df8-7ee0-a821-84caac12e7f9",
       "time": "2026-10-10 08:12:20",
