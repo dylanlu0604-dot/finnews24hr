@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-10 17:08:09",
-  "count": 9964,
+  "updated": "2026-10-10 17:12:01",
+  "count": 9967,
   "items": [
+    {
+      "id": "5136334",
+      "time": "2026-10-10 17:10:00",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【預告】國務院新聞辦公室將於2026年10月14日（星期三）上午10時舉行新聞釋出會，請海關總署新聞發言人、副署長王軍介紹2026年前三季度進出口情況，並答記者問。"
+    },
+    {
+      "id": "mkt:01a12513-2146-7ee0-a824-2188bb16b675",
+      "time": "2026-10-10 17:09:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Taiwan Affairs Office condemns Lai’s Double Ten speech, vows to uphold One China and crack down on 'Taiwan independence'】Taiwan Affairs Office spokesperson Zhang Han said Lai Ching-te’s Double Ten address disregarded facts and misled the public. The office reaffirmed adherence to the One China principle and the 1992 Consensus, pledged to unite mainland support against 'Taiwan independence' forces, oppose external interference and safeguard peace and stability across the Taiwan Strait."
+    },
+    {
+      "id": "5136333",
+      "time": "2026-10-10 17:08:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭提議削減歐盟下一個七年預算約1600億歐元。"
+    },
+    {
+      "id": "5136332",
+      "time": "2026-10-10 17:08:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟領導人將於下週峰會上討論修訂後的多年期財政框架數字。"
+    },
     {
       "id": "mkt:01a12510-3f65-7ee0-a824-1f46cafacc15",
       "time": "2026-10-10 17:06:24",
@@ -90926,14 +90960,6 @@
         "焦點"
       ],
       "text": "紐約原油暗盤突破90美元，日內漲超2.2%。"
-    },
-    {
-      "id": "5124887",
-      "time": "2026-10-03 17:09:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 美俄關於烏克蘭問題的會談包含石油交易。"
     }
   ]
 }
