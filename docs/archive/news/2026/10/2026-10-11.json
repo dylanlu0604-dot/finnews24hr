@@ -1,7 +1,710 @@
 {
   "date": "2026-10-11",
-  "count": 13,
+  "count": 87,
   "items": [
+    {
+      "id": "mkt:01a12735-4a6e-7ee0-a826-2eff9eb5667a",
+      "time": "2026-10-11 03:06:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "DOE approves emergency exchange of up to 4 mln barrels from the Strategic Petroleum Reserve to offset supply disruptions from severe weather in the Gulf of Mexico; borrowed crude must be returned in 2027 and repaid with additional barrels as compensation."
+    },
+    {
+      "id": "mkt:01a12731-58cd-7ee0-a826-272913a7c648",
+      "time": "2026-10-11 03:01:47",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Dutch foreign minister condemned Houthi attacks on Saudi Arabia, including multiple strikes on airports that caused casualties."
+    },
+    {
+      "id": "mkt:01a12730-9d13-7ee0-a826-185bad73726b",
+      "time": "2026-10-11 03:00:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Democrats and the fake-news media are pushing a false narrative that he is unpopular and that Republicans will lose; he said he is popular and Republicans will win, citing record rallies and an upcoming Tennessee event."
+    },
+    {
+      "id": "mkt:01a12726-6bb7-7ee0-a826-13d29fbf4f7b",
+      "time": "2026-10-11 02:49:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "【Microsoft CEO urges emergency 'brake' for advanced AI models】Microsoft (MSFT.O) CEO Satya Nadella said companies should treat powerful AI models as potential internal threats and assume models may be compromised, urging built-in \"emergency brake\" mechanisms so authorized personnel can pause or shut down autonomous agents during task execution. He advised against relying on a single model for critical decisions, called for immutable logs of agent behavior, independent audits of systems, and mandatory disclosure of major failures or security vulnerabilities including causes and details to help others strengthen defenses."
+    },
+    {
+      "id": "5136605",
+      "time": "2026-10-11 02:44:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯將於10月10日起允許出口50萬噸柴油。"
+    },
+    {
+      "id": "5136604",
+      "time": "2026-10-11 02:43:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "俄羅斯政府表示，在特朗普與普京達成協議後，已部分解除柴油出口禁令。"
+    },
+    {
+      "id": "mkt:01a1271f-cbf6-7ee0-a826-0a47cbbad338",
+      "time": "2026-10-11 02:42:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he will arrive in Tennessee shortly."
+    },
+    {
+      "id": "mkt:01a1271e-c19f-7ee0-a826-03f86ee7ecfb",
+      "time": "2026-10-11 02:41:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russian government says it will partially lift a diesel export ban following an agreement between Trump and Putin."
+    },
+    {
+      "id": "mkt:01a1271e-70b7-7ee0-a825-f8ebfc0064aa",
+      "time": "2026-10-11 02:41:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Axios reports two US officials and one Israeli official say the US did not ask Israel to carry out strikes on Iran before Israel’s Oct. 27 election. Earlier media reports said the US had urged Israel in recent weeks to strike Iran ahead of Oct. 27 to avoid US direct military action that could affect the Nov. 3 US midterm elections."
+    },
+    {
+      "id": "5136600",
+      "time": "2026-10-11 02:30:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒稱美以領導人就再襲伊朗溝通】當地時間10月10日，據以色列第13頻道電視臺報道，美國總統特朗普與以色列總理內塔尼亞胡近期“就美以可能再對伊朗發動軍事打擊一事進行了頻繁、緊急溝通”。報道援引多名以色列安全機構高階官員訊息稱，“美以尚未就此作出最終決定，內塔尼亞胡無意在以色列本月底舉行議會選舉前採取軍事行動。”報道還稱，以軍內部認為，美方未來傾向於重啟對伊朗軍事行動。目前，以軍正據此為應對一切可能情況作準備。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a12711-808b-7ee0-a825-f1e853969058",
+      "time": "2026-10-11 02:27:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Channel 13: Trump, Netanyahu hold urgent talks on possible renewed strikes on Iran; Netanyahu avoids action before Israel’s end‑of‑month election】On Oct 10, Israel’s Channel 13 reported that US President Trump and Prime Minister Netanyahu have held frequent, urgent communications about possible renewed US‑Israel strikes on Iran, citing multiple senior Israeli security officials. The officials said no final decision has been made and Netanyahu does not intend to take military action before Israel’s parliamentary election at the end of the month. The report added the Israeli military assesses the US may be inclined to resume operations against Iran in the future and is preparing for all contingencies."
+    },
+    {
+      "id": "mkt:01a1270f-7948-7ee0-a825-edf0d3eb4161",
+      "time": "2026-10-11 02:24:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA reportedly in talks to acquire US AI startup Reflection AI】According to the Financial Times, NVIDIA is in early-stage talks to acquire US startup Reflection AI or increase its investment, people familiar with the matter said. Reflection AI develops open-weight models. Talks could take multiple forms, including a talent acquisition — hiring staff and licensing technology — to avoid lengthy regulatory review. NVIDIA is already one of Reflection’s largest shareholders and could instead deepen ties via further equity or by supplying more chips and compute. People said a deal could be reached within weeks. Reflection was valued at $25 bln in a March funding round."
+    },
+    {
+      "id": "5136599",
+      "time": "2026-10-11 02:22:21",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【英偉達正洽談收購reflection AI】英偉達正洽談收購美國開放權重模型初創企業 Reflection AI，或是進一步加大對該公司的投資。目前暫無法確定談判涉及的交易條款；Reflection AI 在今年 3 月一輪融資中的最新估值為 250 億美元。"
+    },
+    {
+      "id": "mkt:01a1270c-717a-7ee0-a825-e21148d8f8cd",
+      "time": "2026-10-11 02:21:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "The Financial Times, citing people familiar with the matter, reports NVIDIA (NVDA.O) is in early-stage talks to acquire Reflection AI, a US developer of open-weight models, or to increase its investment; negotiations are at an early stage and any transaction could take multiple forms."
+    },
+    {
+      "id": "mkt:01a12707-da5b-7ee0-a825-de92eeb3c13f",
+      "time": "2026-10-11 02:16:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Yemen's Houthi forces say willing to avoid reciprocal strikes on civilian airports and seaports】On the 10th Houthi forces said they are willing to take reciprocal measures with Saudi Arabia to avoid drawing airports, seaports and other humanitarian facilities into escalating military confrontation, Masirah TV (controlled by the group) reported. The group said it would push parties to avoid attacking such facilities and would designate airports and seaports as priority protected sites, and accused Saudi forces of striking Sana'a international airport on July 13, which it said ended a prior period of accommodation. The Houthis said they do not accept Saudi troop presence in Yemen. In recent days the group has carried out multiple attacks on Saudi airports and oil facilities. The Saudi-led coalition said it is conducting large-scale operations to degrade Houthi military capabilities, dismantle its ballistic missile network and provide round-the-clock air support to Yemeni government forces."
+    },
+    {
+      "id": "5136598",
+      "time": "2026-10-11 02:16:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達正洽談收購Reflection AI，雙方談判尚處於早期階段。"
+    },
+    {
+      "id": "5136597",
+      "time": "2026-10-11 02:16:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝：願與沙特避免互襲民用設施】葉門胡塞武裝10日表示，願意與沙烏地阿拉伯採取相互對等的措施，避免將機場、海港及其他具有人道主義功能的設施捲入不斷升級的軍事對抗。（新華社）"
+    },
+    {
+      "id": "5136596",
+      "time": "2026-10-11 02:15:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度駐日內瓦代表團就德里抗議活動發聲：聯合國人權高專辦的關切毫無根據，屬於對印度內政的不當干涉。"
+    },
+    {
+      "id": "5136595",
+      "time": "2026-10-11 02:07:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度常駐日內瓦代表團就新德里抗議活動表態：已關注聯合國對新德里今日相關事件的言論。"
+    },
+    {
+      "id": "5136594",
+      "time": "2026-10-11 02:07:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度常駐日內瓦代表團就德里抗議活動發聲：印度公民可行使抗議權利，但須以符合公共秩序利益為前提，受到合理限制。"
+    },
+    {
+      "id": "mkt:01a126f9-04e9-7ee0-a825-d1458b836df0",
+      "time": "2026-10-11 02:00:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pentagon raises US deaths tied to Iran-related operations to 21】The Pentagon has revised upward the number of US service members who died in Iran-related military operations in the Middle East to 21, the Washington Post reports, after adding two non-combat deaths to its Defense Casualty Analysis System. The newly included cases are Army National Guard Maj. Saufley Davious, 46, who died in Kuwait on March 6, and an unnamed Navy service member who died by suicide in September. The Post last month cited US officials saying fatalities exceeded the Pentagon’s published totals; Defense Secretary Hegseth at the time called that reporting “a complete lie.”"
+    },
+    {
+      "id": "5136593",
+      "time": "2026-10-11 01:59:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普的集會行程包含下週三蒙大拿州一站。"
+    },
+    {
+      "id": "5136592",
+      "time": "2026-10-11 01:48:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "古巴國家電力公司稱，新一輪停電造成古巴東部地區斷電。"
+    },
+    {
+      "id": "5136591",
+      "time": "2026-10-11 01:48:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普的集會行程包含週三蒙大拿州一站。"
+    },
+    {
+      "id": "mkt:01a126e2-bb90-7ee0-a825-cda759c42dd0",
+      "time": "2026-10-11 01:35:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Axios: Trump urged replacing Zelensky; U.S.-Ukraine ties at worst point since Feb 2025 White House clash】Axios reports Trump urged Ukraine to replace President Zelensky with someone willing to strike a deal with Russia to end the war. Trump announced a deal with Russia to lift related sanctions and permit Russian diesel exports to the U.S. and global energy markets. U.S. officials told Axios Trump pursued the deal after Zelensky allegedly ignored about six U.S. requests to stop attacks on Russian refineries. Zelensky said he was surprised, calling the move \"weak\" and a \"birthday gift\" to Putin; Trump said Zelensky had multiple chances to make a deal and that his actions harmed U.S. farmers. Axios characterizes this as the most serious U.S.-Ukraine rift since the Feb 2025 White House meeting."
+    },
+    {
+      "id": "5136590",
+      "time": "2026-10-11 01:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱控制兩個居民點 烏稱打擊俄石油設施】10日，俄羅斯方面稱控制哈爾科夫地區的兩個居民點，烏克蘭方面稱打擊了俄羅斯薩馬拉州的一處石油設施。（央視新聞）"
+    },
+    {
+      "id": "5136589",
+      "time": "2026-10-11 01:20:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱烏克蘭該換總統了】當地時間10月10日，美國總統特朗普在白宮回答記者提問時表示，美國曾反覆警告烏克蘭總統澤連斯基“不要襲擊俄羅斯煉油廠，因為這會造成世界性問題”，但澤連斯基還是這麼做了，“所以他最好能住手”。特朗普還稱，澤連斯基原本有多次機會可以結束這場戰爭，但他選擇了不結束，“烏克蘭是時候換一位新總統了，換一個能達成協議（結束戰爭）的領導人”。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a126ce-5073-7ee0-a825-c188f197cfed",
+      "time": "2026-10-11 01:13:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS: The Islamic Revolutionary Guard Corps navy public relations office said a crude-oil supertanker operating outside designated routes tried to exit the Strait of Hormuz via a non-designated channel, struck a mine and exploded in a waterway declared high-risk. The IRGC navy warned any tankers that ignore Strait of Hormuz safety rules and related regulations will be met with heavy fire."
+    },
+    {
+      "id": "mkt:01a126cb-ddee-7ee0-a825-ba6f599ddc75",
+      "time": "2026-10-11 01:10:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK government said Prime Minister Burnham will hold a face-to-face meeting with Ukrainian President Zelenskiy in the coming days to continue consultations."
+    },
+    {
+      "id": "mkt:01a126cb-159d-7ee0-a825-b2c1db2e3d2d",
+      "time": "2026-10-11 01:10:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "UK government said Russia must agree to a ceasefire for energy facilities, stop attacks on Ukrainian infrastructure and cease Black Sea attacks targeting shipping."
+    },
+    {
+      "id": "5136588",
+      "time": "2026-10-11 01:09:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府：伯納姆與澤連斯基已約定近日進行面對面會晤，以繼續相關討論。"
+    },
+    {
+      "id": "5136587",
+      "time": "2026-10-11 01:08:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府：強調俄羅斯應當同意能源停火，停止其對烏克蘭基礎設施的襲擊以及在黑海的航運攻擊。"
+    },
+    {
+      "id": "mkt:01a126c9-639f-7ee0-a825-ab17ccf2de8d",
+      "time": "2026-10-11 01:08:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UK government said Prime Minister Burnham and Ukrainian President Zelenskiy discussed the importance of continuing to apply pressure on Russia."
+    },
+    {
+      "id": "5136586",
+      "time": "2026-10-11 01:07:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府：首相伯納姆明確表示，英國將繼續加強對俄羅斯的制裁。"
+    },
+    {
+      "id": "5136585",
+      "time": "2026-10-11 01:07:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，一艘油輪在霍爾木茲海峽觸碰到水雷後發生爆炸。"
+    },
+    {
+      "id": "mkt:01a126c8-4936-7ee0-a825-a617054fabbb",
+      "time": "2026-10-11 01:07:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump will assess whether Saudi attack alters plan to use force against Iran】Asked whether Saudi Arabia’s recent attack changes his earlier pledge not to strike Iran before the U.S. midterm elections, President Trump said, \"We will assess.\""
+    },
+    {
+      "id": "5136584",
+      "time": "2026-10-11 01:06:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府：伯納姆與澤連斯基討論維持對俄施壓的重要性。"
+    },
+    {
+      "id": "5136583",
+      "time": "2026-10-11 01:06:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府：英國首相今日與烏克蘭總統澤連斯基舉行了通話。"
+    },
+    {
+      "id": "mkt:01a126c0-cbcc-7ee0-a825-9ba1534a6b3c",
+      "time": "2026-10-11 00:58:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says US may join Saudi strikes on Houthi rebels】President Trump said the United States may participate in Saudi strikes against Houthi rebels, adding the administration will assess the situation and make a decision. He said the US had only just learned of the recent attacks and that any US action would be rapid."
+    },
+    {
+      "id": "mkt:01a126bf-0276-7ee0-a825-9065008b57b1",
+      "time": "2026-10-11 00:56:54",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "Zelenskiy spoke with British Prime Minister Burnham and reported that Russia carried out sustained strikes across multiple Ukrainian cities today using air-dropped bombs, Shahed drones and ballistic missiles."
+    },
+    {
+      "id": "mkt:01a126be-2de1-7ee0-a825-8891065132c7",
+      "time": "2026-10-11 00:56:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump pledges to accept midterm results but stresses he will not allow fraud】Asked whether he would accept the midterm election results regardless of which party won, President Trump said \"Of course I will accept,\" but repeatedly warned \"we don't want fraud.\""
+    },
+    {
+      "id": "mkt:01a126bc-3597-7ee0-a825-863bc4d0fc81",
+      "time": "2026-10-11 00:53:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At the White House, Trump disparaged the Nobel Peace Prize laureate, saying \"none of the people I know have heard of her\" and adding \"there is something wrong with Norway.\""
+    },
+    {
+      "id": "5136582",
+      "time": "2026-10-11 00:53:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：無論哪個政黨獲勝，你是否承諾接受中期選舉結果？\n特朗普：你怎麼看？我當然會。但我們不能容忍舞弊，不能容忍舞弊，不能容忍舞弊。明白我的意思嗎？"
+    },
+    {
+      "id": "5136581",
+      "time": "2026-10-11 00:51:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們即將前往田納西州。"
+    },
+    {
+      "id": "mkt:01a126b9-5add-7ee0-a825-7ee183d6a62b",
+      "time": "2026-10-11 00:50:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Saudi civil aviation authority says Riyadh airport attacked, operations suspended; multiple injured】Saudi Arabia's General Authority of Civil Aviation said on Oct. 10 local time Riyadh's King Khalid International Airport was attacked again, injuring multiple people; casualties are still being tallied. The authority said it has temporarily suspended airport operations to complete damage assessments and safety inspections and is coordinating with relevant agencies; further updates will be issued. On Oct. 9 the authority said the airport had been struck twice on Oct. 8, killing three Saudi citizens and injuring others."
+    },
+    {
+      "id": "5136580",
+      "time": "2026-10-11 00:50:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特民航總局：利雅得機場遭襲暫停運營 多人受傷】當地時間10月10日，沙烏地阿拉伯民航總局釋出宣告稱，當天下午，首都利雅得哈立德國王國際機場再次遭到襲擊，造成多人受傷，目前傷亡情況仍在統計中。宣告稱，鑑於近期針對沙特民航設施的襲擊持續發生，相關部門已暫時停止哈立德國王國際機場的運營，以完成損失評估並檢查機場設施安全。（央視新聞）"
+    },
+    {
+      "id": "5136579",
+      "time": "2026-10-11 00:50:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及俄烏衝突：澤連斯基想給全世界製造麻煩。他打擊俄羅斯煉油廠，會給我國農民帶來麻煩。"
+    },
+    {
+      "id": "5136578",
+      "time": "2026-10-11 00:48:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全國鐵路實行新的貨物列車執行圖】記者從中國國家鐵路集團有限公司獲悉，全國鐵路10日18時起實行新的貨物列車執行圖，進一步最佳化鐵路物流產品體系，提升運輸效率，助力降低全社會物流成本。（新華社）"
+    },
+    {
+      "id": "mkt:01a126b6-7a24-7ee0-a825-764b5f0d01fa",
+      "time": "2026-10-11 00:47:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Trump said the US will review the situation regarding Iran and related attacks."
+    },
+    {
+      "id": "5136577",
+      "time": "2026-10-11 00:47:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就計劃對死刑執行進行直播一事表態：將對此作出決定。"
+    },
+    {
+      "id": "5136576",
+      "time": "2026-10-11 00:46:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗及相關襲擊事件：會進行評估。"
+    },
+    {
+      "id": "mkt:01a126b5-a147-7ee0-a825-6f385556d7dd",
+      "time": "2026-10-11 00:46:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump suggested Ukraine appoint a new leader to help secure an agreement, saying now is the time for such an appointment."
+    },
+    {
+      "id": "5136575",
+      "time": "2026-10-11 00:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及利雅得機場爆炸事件：剛剛得知此次襲擊，將會作出決定。"
+    },
+    {
+      "id": "5136574",
+      "time": "2026-10-11 00:46:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：建議他們（烏克蘭）更換領導人，這樣才能達成協議。"
+    },
+    {
+      "id": "mkt:01a126b4-e18d-7ee0-a825-61c582103435",
+      "time": "2026-10-11 00:45:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "President Trump said Zelensky can do whatever he wants but must avoid attacking refineries and should stop immediately."
+    },
+    {
+      "id": "5136573",
+      "time": "2026-10-11 00:45:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及烏克蘭局勢：烏克蘭該換一位新總統了。"
+    },
+    {
+      "id": "mkt:01a126b3-ef56-7ee0-a825-5ef825a740c1",
+      "time": "2026-10-11 00:44:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Zelenskiy could have ended the Ukraine war many times."
+    },
+    {
+      "id": "5136572",
+      "time": "2026-10-11 00:44:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：澤連斯基最好趕緊停止打擊。"
+    },
+    {
+      "id": "5136571",
+      "time": "2026-10-11 00:44:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：澤連斯基不應打擊俄羅斯柴油燃料設施。"
+    },
+    {
+      "id": "5136570",
+      "time": "2026-10-11 00:43:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：澤連斯基本有多次機會結束這場俄烏衝突。"
+    },
+    {
+      "id": "5136569",
+      "time": "2026-10-11 00:41:52",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "沙特方面稱，利雅得機場運營已臨時暫停。"
+    },
+    {
+      "id": "mkt:01a126af-cd58-7ee0-a825-5355af2644f5",
+      "time": "2026-10-11 00:40:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Hainan launches five-year \"skills free-trade port\" push, tightens hazardous-goods port oversight】Hainan held a provincial executive meeting on Oct. 10 to approve measures boosting vocational talent and port safety. The province will implement a five-year \"skills free-trade port\" action to expand international cooperation, strengthen skills competitions and high‑skilled talent awards, enhance youth skills education, and better align industry demand, training, assessment and employment services. The meeting also ordered end-to-end safety supervision for hazardous goods and port operations: tighter oversight of hazardous chemicals, a cross‑department reporting mechanism for suspected violations, expanded social supervision of production safety and upgrades to port safety regulation and enforcement."
+    },
+    {
+      "id": "mkt:01a126ac-6457-7ee0-a825-4c9cc5221120",
+      "time": "2026-10-11 00:36:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi civil aviation authority says an attack at Riyadh's King Khalid International Airport on Saturday injured several people and the airport has temporarily suspended operations."
+    },
+    {
+      "id": "5136568",
+      "time": "2026-10-11 00:36:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國墨西哥灣地區約68.76%的當前每日石油產量和57.44%的當前每日天然氣產量已關閉。"
+    },
+    {
+      "id": "5136567",
+      "time": "2026-10-11 00:35:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海洋礦產管理局：已從美洲灣總計113座生產平臺撤離人員，佔該區域371座有人駐守平臺的30.46%。"
+    },
+    {
+      "id": "5136566",
+      "time": "2026-10-11 00:35:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民航局：利雅得哈立德國王國際機場週六遭遇襲擊。"
+    },
+    {
+      "id": "5136565",
+      "time": "2026-10-11 00:35:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民航局：週六利雅得機場遇襲造成多人受傷。"
+    },
+    {
+      "id": "mkt:01a126a9-cb2a-7ee0-a825-40f0df63cbea",
+      "time": "2026-10-11 00:33:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: US negotiators leading Ukraine peace talks may visit Moscow within two weeks】Oct 10 local time — Russia, citing sources, said US negotiators leading mediation on a Ukraine peace agreement, Witkoff and Kushner, may visit Moscow within the next two weeks."
+    },
+    {
+      "id": "5136564",
+      "time": "2026-10-11 00:33:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：美國特使可能在兩週內訪問莫斯科】當地時間10月10日，俄羅斯方面援引訊息人士的話稱，牽頭斡旋烏克蘭和平協議的美國談判代表威特科夫和庫什納可能會在未來兩週內訪問莫斯科。（央視新聞）"
+    },
+    {
+      "id": "5136563",
+      "time": "2026-10-11 00:30:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門胡塞武裝接連發動襲擊後，美國、英國、德國與西班牙於週六警告本國公民，避開沙特首都利雅得的哈立德國王國際機場及其周邊區域。"
+    },
+    {
+      "id": "5136562",
+      "time": "2026-10-11 00:27:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬達加斯加企業食物中毒事件受影響人數升至274人】馬達加斯加公共衛生部10日說，首都塔那那利佛一家企業發生的食物中毒事件已致274人受影響，目前尚無人員死亡報告。 公共衛生部說，經對採集的樣本進行檢測，分析結果認為此次事件屬於群體性食物中毒事件。（新華社）"
+    },
+    {
+      "id": "mkt:01a1269a-b1c6-7ee0-a825-3fdf463a4f05",
+      "time": "2026-10-11 00:17:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "300750.SZ",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【CATL, SERES sign long-term strategic cooperation agreement】Oct 10, Chongqing — CATL and SERES signed a long-term strategic cooperation agreement. SERES’ Wenjie brand currently fits CATL batteries across its model range and has cumulatively delivered over 1.2 mln vehicles; under the deal Wenjie will continue to deploy CATL cells across its full lineup. The partners will expand ‘factory-within-a-factory’ capacity: SERES’ super factory phase II is planned at 10–12 GWh/year, bringing combined phase I and II capacity to more than 20 GWh/year once completed. They will also cooperate on ultra-fast charging and battery services to build a full-life-cycle service ecosystem and jointly pursue overseas expansion in Europe, the Middle East and Central Asia."
+    },
+    {
+      "id": "5136561",
+      "time": "2026-10-11 00:13:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代與賽力斯簽署長期戰略合作協議】寧德時代與賽力斯集團週六在重慶簽署長期戰略合作協議。重慶市市委常委、市政府副市長、兩江新區區委書記徐建，重慶市市政府副市長鄭向東，賽力斯集團董事長(創始人)張興海與寧德時代董事長兼CEO曾毓群等共同出席並見證簽約。問界品牌自創立以來，全系車型均搭載寧德時代電池，截至目前累計交付已突破120萬臺。"
+    },
+    {
+      "id": "mkt:01a12695-9a72-7ee0-a825-34b8035aec15",
+      "time": "2026-10-11 00:11:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait Airways canceled two flights between Kuwait and Riyadh—one outbound and one return—citing security concerns, Kuwait News Agency said."
+    },
     {
       "id": "mkt:01a12695-080f-7ee0-a825-29d04a542519",
       "time": "2026-10-11 00:11:03",
