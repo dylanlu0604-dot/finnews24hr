@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-11 03:53:14",
-  "count": 10056,
+  "updated": "2026-10-11 03:56:59",
+  "count": 10058,
   "items": [
+    {
+      "id": "mkt:01a12762-2e38-7ee0-a826-5179744433e5",
+      "time": "2026-10-11 03:55:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Zelenskiy holds calls with multiple European leaders】Ukrainian President Zelenskiy said on Oct. 10 he held calls that day with Finland President Stubb, French President Macron, Norwegian Prime Minister Støre and UK Prime Minister Burnham, urging increased support for Ukraine and tougher sanctions on Russia. He briefed them on the conflict, discussed challenges from the U.S. easing of sanctions on Russian oil products, and coordinated response measures and plans for follow-up meetings."
+    },
+    {
+      "id": "5136647",
+      "time": "2026-10-11 03:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基與多個歐洲國家領導人通話】烏克蘭總統澤連斯基10日在社交媒體釋出訊息說，他當天與多個歐洲國家領導人通電話，呼籲加大對烏援助和對俄羅斯制裁。澤連斯基分別與芬蘭總統斯圖布、法國總統馬克龍、挪威首相斯特勒以及英國首相伯納姆通話。他在通話中，通報俄烏衝突近況，討論美國放寬對俄石油產品制裁引發的挑戰，並就協調應對措施及籌備後續會晤等事宜進行溝通。（新華社）"
+    },
+    {
+      "id": "mkt:01a12761-bd8e-7ee0-a826-4ecdc7fb1c95",
+      "time": "2026-10-11 03:54:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign ministry spokesperson: US people's real enemy is their warmongering ruling group】Iran foreign ministry spokesperson Baghaei posted on social media responding to Trump's earlier remark that \"even if Iran destroyed Los Angeles or San Diego it would be a very small price\", saying: \"To frighten their population they fabricate an imagined aerial enemy to cover the real threat on the ground. The real danger is neither outside their borders nor in the skies over Los Angeles and San Diego. The real danger comes from a ruling group that imposes illegal wars on the world and causes global consequences. The US president even described the destruction of Los Angeles and San Diego as 'a very small price'. This is a classic case of fear politics: using a fictional threat to intimidate the public, portraying the destruction of one's own cities as an acceptable price, and diverting attention from the real danger.\""
+    },
     {
       "id": "mkt:01a12757-b56f-7ee0-a826-44df9f56392c",
       "time": "2026-10-11 03:43:41",
@@ -91733,14 +91762,6 @@
         "國際"
       ],
       "text": "白宮附近兩家達美樂門店均顯示客流量極高。美國東部時間下午 3 點 54 分資料。五角大樓周邊披薩店客流量低於均值，弗雷迪海灘酒吧客流量同樣低於均值。"
-    },
-    {
-      "id": "5125019",
-      "time": "2026-10-04 03:56:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行存款從前一週的 19.571 萬億美元增至 19.637 萬億美元。"
     }
   ]
 }
