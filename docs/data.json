@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-11 00:07:34",
-  "count": 10004,
+  "updated": "2026-10-11 00:11:54",
+  "count": 10011,
   "items": [
+    {
+      "id": "mkt:01a12695-080f-7ee0-a825-29d04a542519",
+      "time": "2026-10-11 00:11:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE National Guard said the coast guard rescued 22 people after a tanker caught fire in Gulf waters."
+    },
+    {
+      "id": "5136560",
+      "time": "2026-10-11 00:10:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋國民衛隊表示，海岸警衛隊已在海灣地區一艘油輪起火後救起22人。"
+    },
+    {
+      "id": "5136559",
+      "time": "2026-10-11 00:10:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝導彈擊中利雅得機場客運航站樓，造成多人傷亡。"
+    },
+    {
+      "id": "mkt:01a12694-2856-7ee0-a825-22fda19ea997",
+      "time": "2026-10-11 00:10:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Embassy in Riyadh urged all U.S. citizens to avoid King Khalid International Airport and its surrounding areas."
+    },
+    {
+      "id": "5136558",
+      "time": "2026-10-11 00:07:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐利雅得大使館：我們已獲悉10月10日利雅得哈立德國王國際機場遇襲一事。"
+    },
+    {
+      "id": "5136557",
+      "time": "2026-10-11 00:07:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐利雅得大使館：強烈建議所有美國公民避開哈立德國王國際機場及周邊區域。"
+    },
+    {
+      "id": "5136556",
+      "time": "2026-10-11 00:07:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國方面表示已獲悉哈立德國王國際機場遭受襲擊事件。"
+    },
     {
       "id": "5136555",
       "time": "2026-10-11 00:06:01",
