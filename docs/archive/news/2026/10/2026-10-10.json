@@ -1,7 +1,20 @@
 {
   "date": "2026-10-10",
-  "count": 837,
+  "count": 838,
   "items": [
+    {
+      "id": "mkt:01a123dc-fb7b-7ee0-a822-a9d689dd6ded",
+      "time": "2026-10-10 11:30:47",
+      "tags": [
+        "MKT News",
+        "ASML.O",
+        "Impact bullish",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【ASML to raise replacement-part prices in South Korea by 10%】ASML, the world’s largest semiconductor-equipment maker, will raise prices of replacement parts supplied in South Korea by 10%, effective from January. The increase covers all parts for EUV and DUV lithography machines. ASML’s headquarters informed Samsung Electronics and SK Hynix of the intent in early last month via its Korean unit; the final price increase was confirmed after procurement-level negotiations with the two firms."
+    },
     {
       "id": "5136099",
       "time": "2026-10-10 11:29:07",
