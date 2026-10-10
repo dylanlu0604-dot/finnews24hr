@@ -1,7 +1,49 @@
 {
   "date": "2026-10-10",
-  "count": 802,
+  "count": 807,
   "items": [
+    {
+      "id": "mkt:01a123bb-b7fb-7ee0-a822-8ee4f0adbfb1",
+      "time": "2026-10-10 10:54:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Homeland Security secretary has approved emergency declarations for Florida and Alabama after Hurricane Isaias affected the states."
+    },
+    {
+      "id": "5136071",
+      "time": "2026-10-10 10:53:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國土安全部部長：受颶風“伊薩亞斯”影響，已批准佛羅里達州和阿拉巴馬州進入緊急狀態。"
+    },
+    {
+      "id": "mkt:01a123b9-febe-7ee0-a822-8343931674f4",
+      "time": "2026-10-10 10:52:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Construction began today on upstream and downstream cofferdams for the Gezhouba navigation capacity-expansion works, part of the Three Gorges water-transport new channel project."
+    },
+    {
+      "id": "5136070",
+      "time": "2026-10-10 10:52:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基就俄美領導人通話發聲 稱應抵制俄石油】俄羅斯總統普京與美國總統特朗普9日通話後，烏克蘭總統澤連斯基就此在社交媒體發文稱，烏方“指望美國給予公平支援”，允許俄羅斯出售石油產品“就是在投資戰爭”。普京9日晚透過總統官網釋出宣告說，當天在同特朗普通話中，俄確認將向美國和全球市場提供石油和石油產品。特朗普當天也宣佈，美俄領導人就俄向美國及全球市場提供柴油達成一致。澤連斯基在帖文中說，美國國會一個兩黨代表團當天正在烏首都基輔訪問，他們談及如何結束當前衝突。澤連斯基稱，必須對俄實施制裁、對烏進行援助，但美俄兩國領導人的通話卻“走向不一樣的結果”。（央視新聞）"
+    },
+    {
+      "id": "5136069",
+      "time": "2026-10-10 10:51:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江淮汽車增資至約22.54億】天眼查App顯示，近日，安徽江淮汽車集團股份有限公司發生工商變更，註冊資本由約21.84億人民幣增至約22.54億人民幣。該公司成立於1999年9月，法定代表人為項興初，經營範圍含道路機動車輛生產、貨物進出口、技術進出口等，由安徽江淮汽車集團控股有限公司、香港中央結算有限公司、安徽省國有資本運營控股集團有限公司等共同持股。"
+    },
     {
       "id": "5136068",
       "time": "2026-10-10 10:49:44",
