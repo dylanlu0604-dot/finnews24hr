@@ -1,7 +1,23 @@
 {
   "date": "2026-10-11",
-  "count": 104,
+  "count": 106,
   "items": [
+    {
+      "id": "mkt:01a12757-b56f-7ee0-a826-44df9f56392c",
+      "time": "2026-10-11 03:43:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Panama declares state of emergency after strong earthquake】Panama declared a state of emergency on Oct. 10 after a strong earthquake, mobilizing government departments and public agencies to standby and allocate resources for relief. The presidency said the president ordered a special committee to coordinate rescue operations and manage aid resources. A relief supply collection point has been established in Panama City and provincial governments will receive public donations."
+    },
+    {
+      "id": "5136646",
+      "time": "2026-10-11 03:43:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴拿馬政府宣佈進入緊急狀態應對強震】巴拿馬政府10日宣佈進入緊急狀態以應對強震，協調救災和援助工作。巴拿馬總統府部長奧裡利亞克當天在總統府舉行的新聞釋出會上說，政府已宣佈進入緊急狀態，要求各部門和公共機構隨時待命，調配必要資源，為受災民眾提供援助。（新華社）"
+    },
     {
       "id": "5136644",
       "time": "2026-10-11 03:32:59",
