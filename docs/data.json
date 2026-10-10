@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-10 11:22:19",
-  "count": 9803,
+  "updated": "2026-10-10 11:26:16",
+  "count": 9805,
   "items": [
+    {
+      "id": "5136092",
+      "time": "2026-10-10 11:23:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿斯麥將統一上調在韓國供應的裝置替換零部件價格，漲幅10%。新價格將從明年1月起生效，本次漲價範圍涵蓋EUV及DUV光刻機的全部零部件。"
+    },
+    {
+      "id": "mkt:01a123d6-27a1-7ee0-a822-a3c82410a25f",
+      "time": "2026-10-10 11:23:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai’s Putuo district to propose compute-support policy; digital advertising firms may receive up to 50% subsidy】At the opening of the Shanghai Cultural and Tourism Big Data Innovation Lab and the Oct. 9 launch of the Haina SmartCompute token platform in Putuo, organizers said the district is studying a dedicated support policy for digital advertising that would subsidize firms’ compute usage, with subsidies of up to 50%."
+    },
+    {
+      "id": "5136091",
+      "time": "2026-10-10 11:22:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商局中國基金4500萬元投資曦合超導，後者核聚變磁體測量專利已獲授權】近日，招商局中國基金公告稱，全資附屬公司天正向合肥曦合超導科技股份有限公司出資4500萬元，參與其C輪融資，本次出資已於9月24日完成。據天眼查顯示，曦合超導申請的“一種核聚變仿星器磁體線圈曲率變形精密掃描測量裝置及方法”發明專利，已於今年9月1日獲授權。該公司申請的“一種高溫超導纜線測試裝置”發明專利也於今年9月公開，目前處於實質審查階段。"
+    },
     {
       "id": "mkt:01a123d3-0b37-7ee0-a822-9dbd0a5f6a35",
       "time": "2026-10-10 11:19:55",
@@ -89570,16 +89594,6 @@
         "TSM.O"
       ],
       "text": "【Report: TSMC exploring cooperation with Elon Musk's Terafab wafer fab】An independent tech reporter on Oct 3 said TSMC is exploring cooperation with Elon Musk's Terafab wafer fab. Terafab previously reached a partnership with Intel. Separately, sources say TSMC is weighing a second US campus, with Texas—where Terafab is based—seen as a leading candidate."
-    },
-    {
-      "id": "mkt:01a0ffcb-dea3-7ee0-a78e-412a6d412e71",
-      "time": "2026-10-03 11:25:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Vietnam Q3 GDP +9.95% YoY, nears 10% annual target】Vietnam GDP rose 9.95% YoY in Q3, the fastest pace since Q3 2022 and above a 8.65% median forecast and the revised Q2 8.81%, the General Statistics Office said. Growth was driven by higher foreign investment, stronger factory output and large-scale infrastructure spending. Trade surged in September: exports +39.1% YoY (expected 26.6%), imports +45.8% YoY (expected 38.1%), producing a $1.27 bln surplus after eight months of deficit. Committed FDI through September rose 76.4% YoY to $50.4 bln; realized FDI inflows were up 12.1% YoY. September CPI was up 5.08% YoY, marginally below a 5.10% forecast."
     }
   ]
 }
