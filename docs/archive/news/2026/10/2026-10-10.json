@@ -1,7 +1,26 @@
 {
   "date": "2026-10-10",
-  "count": 794,
+  "count": 796,
   "items": [
+    {
+      "id": "mkt:01a123ad-ecd2-7ee0-a822-630193acc579",
+      "time": "2026-10-10 10:39:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "NHC: Simon has become a major hurricane; preparations to protect life and property should be nearing completion."
+    },
+    {
+      "id": "5136065",
+      "time": "2026-10-10 10:36:05",
+      "tags": [
+        "行業"
+      ],
+      "text": "【國產手機新一輪漲價，部分機型漲幅達1000元】記者10月9日從華為線下門店獲悉，自2026年10月9日零時起，華為對nova16系列進行價格調整：nova16與nova16 Pro建議零售價（RRP）上調400元，nova16 SE上調200元，渠道提貨價（STP）同步上調。同日，小米17 Ultra全系也上調售價，漲幅達1000元：標準版起售價由6999元漲至7999元，定位更高的徠卡版起售價由7999元漲至8999元，小米官網在售版本定價均已完成調整。 （介面新聞）"
+    },
     {
       "id": "5136064",
       "time": "2026-10-10 10:35:35",
