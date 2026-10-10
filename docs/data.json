@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-10 17:23:24",
-  "count": 9968,
+  "updated": "2026-10-10 17:27:10",
+  "count": 9972,
   "items": [
+    {
+      "id": "5136343",
+      "time": "2026-10-10 17:24:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多部門擬規範汽車採用虛擬操縱件替代傳統物理按鍵的產品】工業和資訊化部等四部門聯合釋出了關於進一步加強汽車產品創新設計和研發測試驗證有關管理工作的通知（徵求意見稿），徵求意見稿提出，採用虛擬操縱件（觸控按鍵、壓感按鍵等）替代傳統物理按鍵的產品，除應滿足《機動車執行安全技術條件》（GB 7258）、《汽車操縱件、指示器及訊號裝置的標誌》（GB 4094）等要求外，還應完成觸控可靠性、防誤觸效能、反饋清晰度等評估驗證。涉及關鍵駕駛安全的功能（燈光、雨刮、除霜除霧等）採用虛擬操縱件的，應評估其在各種駕駛場景下的操作便捷性、可靠性和安全性，並同時具備實體操縱件。汽車應急逃生裝置、應急制動裝置、驅動系統電源切斷裝置等涉及安全的應急操縱件，應具備實體操縱件和醒目標識，便於應急操作。"
+    },
+    {
+      "id": "mkt:01a12520-4b94-7ee0-a824-45ffb1e2a4b6",
+      "time": "2026-10-10 17:23:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "【CPCA: Sept 1-30 China passenger car NEV retail 1.141 mln, down 12% YoY; NEV retail penetration 67.1%】CPCA data: Sept 1-30 China passenger car retail sales 1.702 mln, down 24% YoY, up 10% vs prior month; YTD cumulative retail 13.418 mln, down 21% YoY. Sept 1-30 China passenger car NEV retail sales 1.141 mln, down 12% YoY, up 14% vs prior month; YTD NEV retail cumulative 7.816 mln, down 12% YoY. Sept 1-30 NEV retail penetration 67.1%; NEV manufacturers' wholesale penetration 66.1%."
+    },
+    {
+      "id": "5136342",
+      "time": "2026-10-10 17:23:30",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【褪黑素、輔酶Q10等四項保健食品原料國家標準首次釋出】市場監管總局釋出了《保健食品原料 破壁靈芝孢子粉》《保健食品原料 褪黑素》《保健食品原料 輔酶Q10》《保健食品原料 螺旋藻》四項推薦性國家標準，進一步規範相關保健食品原料質量控制，保障產品質量安全，促進保健食品產業高質量發展。破壁靈芝孢子粉、褪黑素、輔酶Q10和螺旋藻均於2020年11月被納入《保健食品原料目錄》，以其為原料的保健食品實施備案管理。截至2026年8月31日，全國已有以破壁靈芝孢子粉為原料的保健食品1900餘個、以褪黑素為原料的保健食品1100餘個、以輔酶Q10為原料的保健食品2300餘個、以螺旋藻為原料的保健食品180餘個獲得備案憑證。"
+    },
+    {
+      "id": "te:economy:590972",
+      "time": "2026-10-10 17:23:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Rwanda",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Rwanda Inflation Hits Over 3-Year High — Rwanda's overall inflation rate accelerated for the sixth straight month to 20.0% in September 2026 from 15.9% in August, marking the fastest increase since June 2023. The acceleration came as inflation for food and non-alcoholic beverages, the largest component of the inflation basket, surged to 25.2%, the highest since September 2023, from 16.7% in August. Inflation also accelerated for communications (29.1% vs 27.6% in August), restaurants and hotels (16.0% vs 13.7%), furnishings (10.8% vs 10.2%), and clothing and footwear (5.3% vs 5.0%). Meanwhile, inflation eased for transportation (26.0% vs 27.5% in August) and housing and utilities (19.1% vs 19.9%). On a monthly basis, the CPI rose by 5.0%, following a 2.6% gain in the prior month, marking the fastest pace in five months."
+    },
     {
       "id": "5136340",
       "time": "2026-10-10 17:21:42",
