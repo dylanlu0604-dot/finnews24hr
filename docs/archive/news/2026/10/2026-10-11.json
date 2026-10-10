@@ -1,7 +1,20 @@
 {
   "date": "2026-10-11",
-  "count": 93,
+  "count": 94,
   "items": [
+    {
+      "id": "mkt:01a1273d-3950-7ee0-a826-3b5602e23862",
+      "time": "2026-10-11 03:14:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【DOE approves up to 4 mln barrels from SPR via emergency swaps to offset Gulf of Mexico weather disruptions】The U.S. Department of Energy approved emergency swap arrangements to release up to 4 mln barrels of crude from the Strategic Petroleum Reserve to address Gulf of Mexico weather-related supply disruptions. Under the agreements companies must return the crude by 2027 and provide additional barrels as premium compensation; DOE approved ExxonMobil and BP America to each swap up to 2 mln barrels."
+    },
     {
       "id": "5136619",
       "time": "2026-10-11 03:08:34",
