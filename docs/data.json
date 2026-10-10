@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-11 03:56:59",
-  "count": 10058,
+  "updated": "2026-10-11 04:00:44",
+  "count": 10059,
   "items": [
+    {
+      "id": "5136651",
+      "time": "2026-10-11 03:58:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏方稱俄軍襲擊扎波羅熱地區致死人數上升到20人】據烏克蘭國家通訊社10日報道，俄軍當天凌晨空襲扎波羅熱地區，致死人數已上升到20人，另有32人受傷。報道說，10日凌晨4時48分，俄軍使用校正航空炸彈對扎波羅熱地區進行空襲。死者包含3名兒童，傷者正在醫院接受治療。目前，建築廢墟下的搜救工作仍在繼續。（新華社）"
+    },
+    {
+      "id": "mkt:01a12764-d5fc-7ee0-a826-58e1e2a788d8",
+      "time": "2026-10-11 03:58:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine reports 20 killed in Russian strike on Zaporizhzhia region】Ukrainian authorities said a Russian airstrike on the Zaporizhzhia region in the early hours of the 10th killed 20 people and wounded 32. The strike occurred at 04:48 and used precision-guided aerial bombs, officials said. The dead include three children; the injured are being treated in hospital and search-and-rescue work under the rubble is ongoing."
+    },
     {
       "id": "mkt:01a12762-2e38-7ee0-a826-5179744433e5",
       "time": "2026-10-11 03:55:08",
@@ -91754,14 +91770,6 @@
         "國際"
       ],
       "text": "美國地質調查局：俄羅斯維柳欽斯克東南偏南 182 公里處發生 5.1 級地震。"
-    },
-    {
-      "id": "5125020",
-      "time": "2026-10-04 04:00:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮附近兩家達美樂門店均顯示客流量極高。美國東部時間下午 3 點 54 分資料。五角大樓周邊披薩店客流量低於均值，弗雷迪海灘酒吧客流量同樣低於均值。"
     }
   ]
 }
