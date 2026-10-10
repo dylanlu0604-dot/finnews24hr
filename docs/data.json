@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-10 23:58:08",
-  "count": 10012,
+  "updated": "2026-10-11 00:02:29",
+  "count": 10005,
   "items": [
+    {
+      "id": "5136550",
+      "time": "2026-10-11 00:00:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界衛生組織：10月2日，世衛組織透過媒體報道獲悉，俄羅斯西伯利亞與遠東地區伊爾庫茨克抗鼠疫研究所一名僱員死亡。據報道，該患者於9月29日因重症肺炎住院後死亡，疑似死因為肺鼠疫。"
+    },
     {
       "id": "5136542",
       "time": "2026-10-10 23:51:51",
@@ -91259,79 +91267,6 @@
         "Brent"
       ],
       "text": "ZELENSKIY said Ukraine will respond to Russian air strikes and will target refineries."
-    },
-    {
-      "id": "5124989",
-      "time": "2026-10-04 00:02:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭不會襲擊俄羅斯民用目標。"
-    },
-    {
-      "id": "5124988",
-      "time": "2026-10-04 00:02:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：俄羅斯對烏克蘭城市發動打擊，是因為莫斯科在戰場上無法實現其目標。"
-    },
-    {
-      "id": "mkt:01a10280-2860-7ee0-a790-76dad5e04d78",
-      "time": "2026-10-04 00:01:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Zelenskiy said Russian attacks on Ukrainian cities are occurring as Moscow fails to achieve its objectives on the battlefield."
-    },
-    {
-      "id": "5124987",
-      "time": "2026-10-04 00:01:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭將對俄羅斯加劇的打擊行動作出回應，打擊目標將包括煉油廠。"
-    },
-    {
-      "id": "5124986",
-      "time": "2026-10-04 00:01:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭國產 FP-9 彈道導彈預計將於秋季準備就緒。烏克蘭高度依賴航空力量擊落俄羅斯噴氣式無人機，目前急需 20 毫米彈藥。"
-    },
-    {
-      "id": "mkt:01a1027f-af67-7ee0-a790-6bcce78393ea",
-      "time": "2026-10-04 00:01:24",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Zelenskiy said Ukraine will not strike civilian targets in Russia."
-    },
-    {
-      "id": "5124985",
-      "time": "2026-10-04 00:01:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭已穩住頓涅茨克東部戰線局勢，“維瓦爾第行動” 取得成功，目前仍在推進。"
-    },
-    {
-      "id": "5124984",
-      "time": "2026-10-04 00:00:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭總統澤連斯基稱，俄羅斯針對歐洲發動混合攻擊，目的是製造分裂、削弱對烏克蘭的支援。"
     }
   ]
 }
