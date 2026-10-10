@@ -1,7 +1,27 @@
 {
   "date": "2026-10-10",
-  "count": 1111,
+  "count": 1113,
   "items": [
+    {
+      "id": "mkt:01a1251b-890a-7ee0-a824-3d0121caae8d",
+      "time": "2026-10-10 17:18:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "XPEV.O",
+        "Impact bullish"
+      ],
+      "text": "【He Xiaopeng on XPeng’s election as secretary-general of UNECE autonomous-driving task force】On Oct. 10 He Xiaopeng said XPeng has been elected secretary-general of the newly formed Task Force on Autonomous Driving Scenario-Related Information Exchange (TF-ESRI) under the UNECE GRVA. He said this should be the first time a Chinese company holds a secretary-general role within the UNECE autonomous-driving regulatory framework and that XPeng will work to bring Chinese autonomous-driving operational experience into global rule coordination to support safe global deployment."
+    },
+    {
+      "id": "5136337",
+      "time": "2026-10-10 17:16:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何小鵬回應小鵬當選聯合國自動駕駛工作組秘書長】10月10日，何小鵬發文回應小鵬集團當選聯合國歐洲經濟委員會（UNECE）車輛法規協調體系下自動化/自動駕駛及網聯車輛工作組（GRVA）新設“自動駕駛場景相關資訊交換工作組”（TF-ESRI）秘書長。他表示：“感謝大家的信任！這應該是中國企業首次在聯合國自動駕駛法規核心框架下擔任秘書長。小鵬也會努力把中國自動駕駛的實踐經驗帶入全球規則協作，為自動駕駛的全球安全落地貢獻中國力量。”"
+    },
     {
       "id": "mkt:01a12515-fc65-7ee0-a824-37137d62a727",
       "time": "2026-10-10 17:12:40",
