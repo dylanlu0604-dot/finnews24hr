@@ -1,7 +1,47 @@
 {
   "date": "2026-10-10",
-  "count": 606,
+  "count": 611,
   "items": [
+    {
+      "id": "mkt:01a12325-64ef-7ee0-a821-7bd7a8fc1e3b",
+      "time": "2026-10-10 08:10:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Inter-American Development Bank donated US$250,000 to Panama after the earthquake and established a natural-disaster credit line of up to US$50 million."
+    },
+    {
+      "id": "mkt:01a12324-b173-7ee0-a821-724e1405a185",
+      "time": "2026-10-10 08:09:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump asked the US Supreme Court to review a dismissed lawsuit alleging Hillary Clinton conspired against him in the 2016 presidential election."
+    },
+    {
+      "id": "5135900",
+      "time": "2026-10-10 08:08:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "星鏈： 對於巴拿馬地震受影響的人群，Starlink 將為受災地區的現有客戶和新客戶提供免費服務，直至11月10日。我們正在與緊急響應機構協調，以幫助恢復受災最嚴重的社群的連線。"
+    },
+    {
+      "id": "mkt:01a12323-a7d4-7ee0-a821-6d0caad1be27",
+      "time": "2026-10-10 08:08:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Hurricane Isaias located about 95 miles (155 km) southeast of Mobile, Alabama; maximum sustained winds 110 mph (175 km/h)."
+    },
+    {
+      "id": "5135899",
+      "time": "2026-10-10 08:07:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“金九”期間重點城市樓市延續高活躍度】隨著政策紅利不斷落地、住房消費需求持續釋放，9月房地產市場延續回暖態勢，重點城市二手房成交放量，“金九”表現亮眼。中指研究院資料顯示，9月，二手房活躍度繼續高位執行，重點20城二手房成交11.9萬套，同比增長7.4%。今年前9個月，重點20城二手住宅成交111.8萬套，同比增長6.4%。其中，北京、上海等城市二手房市場成交持續放量。9月，北京、上海二手房分別成交1.6萬套、2.4萬套，環比分別增長13.7%、3.3%。值得注意的是，上海9月二手房成交量同比增長17.2%，連續七個月同比增長。（證券日報）"
+    },
     {
       "id": "mkt:01a12323-0bff-7ee0-a821-609e6b670b38",
       "time": "2026-10-10 08:07:41",
