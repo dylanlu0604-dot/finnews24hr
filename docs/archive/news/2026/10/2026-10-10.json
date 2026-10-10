@@ -1,7 +1,31 @@
 {
   "date": "2026-10-10",
-  "count": 631,
+  "count": 635,
   "items": [
+    {
+      "id": "5135919",
+      "time": "2026-10-10 08:33:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海航交所：海岬型船運價大幅下跌 遠東租金指數明顯走低】據上海航交所，本週，國際幹散貨運輸市場三大船型市場運價跌多漲少，遠東干散貨租金指數明顯走低。分船型來看，海岬型船市場運價大幅下跌，節前太平洋市場貨盤偏少、可用運力過剩，疊加FFA遠期合約持續下跌，運價承壓下行；節後市場貨盤尚可，運價止跌小幅反彈。巴拿馬型船市場日租金持續上漲，煤炭貨盤總體較好，糧食運輸需求略有支撐，日租金持續上行。超靈便型船市場日租金先跌後漲，出口鋼材、鎳礦貨盤平穩執行，煤炭貨盤節前略有縮減，日租金窄幅波動。10月8日，上海航運交易所釋出的遠東干散貨租金指數為2303.98點，較上期下跌10.2%。"
+    },
+    {
+      "id": "5135918",
+      "time": "2026-10-10 08:33:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海航交所：長假前後商談氛圍平淡 綜合指數連續下跌】據上海航交所，本週，國慶假期前後，電煤處於淡季，南方暑熱消退、氣溫回落，電廠日耗維持低位，庫存整體充裕，加之北方港口煤炭調入量偏低，下游對高價煤接受意願不強，補庫積極性偏弱，僅少量剛需採購，市場商談氛圍平淡，沿海散貨綜合指數小幅下跌。 9月30日，上海航運交易所釋出的中國沿海（散貨）綜合運價指數報收1085.02點，較上期下跌2.6%。 10月9日，上海航運交易所釋出的中國沿海（散貨）綜合運價指數報收1069.35點，較上期下跌1.4%。"
+    },
+    {
+      "id": "5135917",
+      "time": "2026-10-10 08:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海航交所：節後市場平穩恢復 綜合指數平穩執行】據上海航交所，國慶”長假後，中國出口集裝箱運輸市場平穩恢復，運輸需求保持穩定，多數航線市場運價小幅波動，綜合指數平穩執行。10月9日，上海航運交易研究所（籌）釋出的上海出口集裝箱綜合運價指數為3664.11點，與上期持平。"
+    },
     {
       "id": "mkt:01a12337-d73a-7ee0-a821-a129ff446c61",
       "time": "2026-10-10 08:30:24",
@@ -10,6 +34,14 @@
         "Important"
       ],
       "text": "【Putin says Russia cannot currently resume talks with Ukraine after call with Trump】Kremlin aide Ushakov said early on the 10th that in a call with Trump Putin outlined measures Russia has taken in response to what he described as terrorist attacks by Ukrainian armed forces. Putin said Ukrainian efforts to disrupt the State Duma vote and attacks on civilians have destroyed the possibility of an immediate resumption of talks. He added that Ukrainian attempts to stop Russian advances have no prospect of success, that Russian forces hold the initiative on the battlefield and are continuing to push forward. Trump has instructed that Putin’s message be passed to the Ukrainian delegation. Ushakov said no concrete discussion has taken place on a bilateral Putin‑Trump meeting."
+    },
+    {
+      "id": "5135916",
+      "time": "2026-10-10 08:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Grok Bot可以模擬任何事物。"
     },
     {
       "id": "5135915",
