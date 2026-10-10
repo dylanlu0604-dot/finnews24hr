@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-10 08:11:52",
-  "count": 9677,
+  "updated": "2026-10-10 08:15:42",
+  "count": 9674,
   "items": [
+    {
+      "id": "mkt:01a12327-4df8-7ee0-a821-84caac12e7f9",
+      "time": "2026-10-10 08:12:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC said the described cases involved websites run by U.S. federal, state and local government agencies, and that it has reported them to the White House and notified each relevant agency."
+    },
     {
       "id": "mkt:01a12325-64ef-7ee0-a821-7bd7a8fc1e3b",
       "time": "2026-10-10 08:10:15",
@@ -88513,38 +88521,6 @@
         "國際"
       ],
       "text": "特朗普：將很快用委內瑞拉石油填滿戰略石油儲備。"
-    },
-    {
-      "id": "5124751",
-      "time": "2026-10-03 08:15:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "全球最大黃金ETF--SPDR Gold Trust持倉較上日減少0.855噸，當前持倉量為1055.696噸。"
-    },
-    {
-      "id": "5124750",
-      "time": "2026-10-03 08:14:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "優步就背景審查性侵案達成和解。"
-    },
-    {
-      "id": "mkt:01a0ff1c-c12c-7ee0-a78d-730752e1639a",
-      "time": "2026-10-03 08:14:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Second day of China's National Day holiday sees cross‑region mobility exceed 300 million person‑trips】Yesterday, the second day of China’s National Day holiday, cross‑region mobility exceeded 300 million person‑trips, with short‑ and medium‑distance travel rising notably. Road movements accounted for over 280 million person‑trips nationwide; highway traffic remained elevated and travel was dominated by inter‑scenic roaming and short intra‑regional transfers. Railways carried about 20.4 million passengers as multiple regional rail authorities increased intercity service frequency to accommodate concentrated short‑haul holiday demand and release additional transport capacity."
-    },
-    {
-      "id": "5124749",
-      "time": "2026-10-03 08:13:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【130餘家公司國慶節後率先披露三季報 部分上半年盈利個股獲融資客重點加倉】今年前三季度已結束，部分公司率先披露前三季度業績預告。據統計，截至當前，已有近40家公司預告三季報業績情況（不含業績型別為“不確定”的公司）。隨著三季度的結束，交易所已公佈三季報預計披露日期。據統計，今年國慶節後前10個交易日（10月8日至21日）將披露三季報的公司有134家，主要分佈於電子、基礎化工、醫藥生物、有色金屬等行業。上述134家公司中，今年上半年實現盈利，且最新（9月29日）融資餘額較8月末增幅超過10%的公司有15家，分佈於電力裝置、基礎化工、有色金屬等行業。從融資餘額變動來看，最新融資餘額較8月末增幅超過20%的公司有春風動力、聖暉整合、富信科技等11家。"
     }
   ]
 }

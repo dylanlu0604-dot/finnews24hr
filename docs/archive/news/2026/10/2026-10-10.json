@@ -1,7 +1,15 @@
 {
   "date": "2026-10-10",
-  "count": 611,
+  "count": 612,
   "items": [
+    {
+      "id": "mkt:01a12327-4df8-7ee0-a821-84caac12e7f9",
+      "time": "2026-10-10 08:12:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC said the described cases involved websites run by U.S. federal, state and local government agencies, and that it has reported them to the White House and notified each relevant agency."
+    },
     {
       "id": "mkt:01a12325-64ef-7ee0-a821-7bd7a8fc1e3b",
       "time": "2026-10-10 08:10:15",
