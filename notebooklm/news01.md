@@ -1,7 +1,367 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-10-11 03:26:47_
-_本檔包含 2053 則快訊，約 384891 字_
+_更新時間：2026-10-11 06:53:00_
+_本檔包含 2091 則快訊，約 385243 字_
+
+---
+
+### 2026-10-11 06:37:21  #國際
+
+【特朗普提議以自己名字命名大洋】週六，特朗普在田納西州克拉克斯維爾的競選集會上再度提出為更多水域更名的想法。此前他已經推動將墨西哥灣、安大略湖更改名稱。“我們已經搞定了海灣，還有一處漂亮的湖泊，”特朗普在集會上表示，“現在有人跟我說，你還需要一條河流，我們得有一條大河，還得有一片大洋。”特朗普琢磨可以把大西洋或者太平洋重新命名，還半開玩笑地提出可以用他本人的名字來命名這片大洋。“我們可以叫它‘特朗普大洋’，或者‘美洲大洋’之類的名字。”
+
+---
+
+### 2026-10-11 06:35:50  #市場 #焦點
+
+紐約原油暗盤突破91美元，日內漲超0.1%。
+
+---
+
+### 2026-10-11 06:34:43  #其他
+
+英國海事組織：事故導致船上起火，船員安全獲救。
+
+---
+
+### 2026-10-11 06:25:10  #其他
+
+沙特領導的聯軍稱，在海爾季省攔截並摧毀了一枚由葉門胡塞武裝發射的彈道導彈。
+
+---
+
+### 2026-10-11 06:22:57  #其他
+
+【前8月貨物貿易進出口總值同比增長17.6%】據海關統計，前8月，我國貨物貿易進出口總值34.78萬億元，同比增長17.6%。其中，出口20.17萬億元，同比增長14.6%；進口14.61萬億元，同比增長22%。
+
+---
+
+### 2026-10-11 06:20:57  #國際
+
+埃及航空宣佈暫停從開羅機場飛往利雅得的航班。
+
+---
+
+### 2026-10-11 06:09:34  #其他
+
+英國海上貿易行動辦公室（UKMTO）：一艘離港油輪的船長報告稱，船舶左舷被未知射彈擊中，導致船上起火。
+
+---
+
+### 2026-10-11 06:09:07  #其他
+
+英國聯合海事行動中心（UKMTO）：已收到一份關於霍爾木茲海峽內發生一起事件的報告。
+
+---
+
+### 2026-10-11 06:04:39  #其他
+
+【沙特利雅得機場遭襲造成12人死亡309人受傷】沙烏地阿拉伯民航部門11日凌晨釋出宣告說，首都利雅得的國際機場遭襲造成12人死亡、309人受傷。當地時間10日，沙烏地阿拉伯民航總局釋出宣告稱，當天下午，首都利雅得哈立德國王國際機場再次遭到襲擊，造成多人受傷，目前傷亡情況仍在統計中。宣告稱，鑑於近期針對沙特民航設施的襲擊持續發生，相關部門已暫時停止哈立德國王國際機場的運營，以完成損失評估並檢查機場設施安全。（央視新聞）
+
+---
+
+### 2026-10-11 05:54:44  #國際
+
+特朗普：這場歷時近七個月的軍事行動已永久阻止伊朗獲取核武器，在這場衝突中陣亡的18名美軍將士“沒有白白犧牲”。
+
+---
+
+### 2026-10-11 05:49:31  #其他
+
+沙特民航局：週六利雅得哈立德國王國際機場遇襲事件已造成至少12人死亡、309人受傷。
+
+---
+
+### 2026-10-11 05:32:04  #國際
+
+【特朗普田納西集會調侃梅拉尼婭紀錄片】在美國田納西州的集會上，特朗普誇讚第一夫人梅拉尼婭·特朗普及其紀錄片，稱這部影片是年度最熱門影片。他打趣道：“我可不喜歡這樣，一個家裡只能有一位明星。”
+
+---
+
+### 2026-10-11 05:31:08  #國際
+
+特朗普：如果我們中期選舉失利，他們就會怪罪到我頭上。
+
+---
+
+### 2026-10-11 05:25:47  #國際
+
+【美國多州數十萬使用者因颶風斷電】目前“伊薩亞斯”已減弱為後熱帶氣旋，佛羅里達州、阿拉巴馬州、佐治亞州和密西西比州仍有大約67萬使用者處於停電狀態。美國國家颶風中心表示，危險狀況依然存在，美國東南部部分地區面臨出現風暴潮、突發洪水、破壞性大風以及龍捲風的風險。（CCTV國際時訊）
+
+---
+
+### 2026-10-11 05:25:26  #國際
+
+【颶風伊薩亞斯致美國4人死】今年大西洋颶風季首個颶風“伊薩亞斯”登陸美國東南沿海，帶來狂風和強降雨。據美聯社報道，截至當地時間10月10日下午，颶風已造成至少4人死亡。（CCTV國際時訊）
+
+---
+
+### 2026-10-11 05:21:55  #國際
+
+市場資訊：日本將研發可突破防空系統的低成本巡航導彈。
+
+---
+
+### 2026-10-11 05:13:03  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Projectile lands near King Fahd International Airport in eastern Saudi Arabia】A Saudi-led coalition spokesman, Turki al-Maliki, posted on social media on the evening of the 10th that a projectile landed near King Fahd International Airport in Dammam, eastern Saudi Arabia.
+
+---
+
+### 2026-10-11 05:11:18  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Attack at Riyadh's King Khalid International Airport kills at least 12 and injures more than 50.
+
+---
+
+### 2026-10-11 05:10:24  #其他
+
+【一枚投射物落在沙特東部國際機場附近】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基10日晚在社交媒體上說，一枚投射物落在位於沙特東部城市達曼的法赫德國王國際機場附近。（新華社）
+
+---
+
+### 2026-10-11 05:09:43  #MKT News
+
+Trump said he believes French President Macron has been unhappy recently.
+
+---
+
+### 2026-10-11 05:09:10  #其他
+
+英國豪宅稅不會擴大至150萬英鎊房產，財政大臣希利駁回下調豪宅稅起徵門檻的呼籲。
+
+---
+
+### 2026-10-11 05:07:56  #宏觀 #國際
+
+美國國務院發言人表示，美國譴責胡塞武裝針對民用基礎設施與機場的襲擊，稱襲擊已造成“大量人員傷亡”。華盛頓方面暫未獲悉有美國人遇難。
+
+---
+
+### 2026-10-11 05:06:27  #國際
+
+特朗普：我認為法國總統近來心情不佳。
+
+---
+
+### 2026-10-11 05:04:52  #國際
+
+特朗普談及加拿大：我們不需要曲棍球杆，不需要口罩，不需要那些他們賣給我們的東西。
+
+---
+
+### 2026-10-11 05:03:13  #其他 #焦點
+
+市場資訊：胡塞武裝襲擊利雅得哈立德國王國際機場，造成至少12人死亡、50人受傷。
+
+---
+
+### 2026-10-11 05:03:04  #MKT News #Market Themes #The Trump Trade
+
+TRUMP said Canada has never shown the US proper respect, that Canada assumes entitlements it does not have, and that the US does not need what Canada offers.
+
+---
+
+### 2026-10-11 05:02:30  #國際
+
+特朗普談及加拿大：加拿大從未尊重過我們。他們自以為享有特權，但事實並非如此。他們的東西我們一概不需要。
+
+---
+
+### 2026-10-11 04:57:46  #MKT News #Brent #Impact bullish #WTI
+
+The Saudi-led coalition said a projectile landed in the vicinity of Riyadh’s King Khalid International Airport.
+
+---
+
+### 2026-10-11 04:57:44  #其他
+
+T-Mobile：截至週六上午，墨西哥灣沿岸96%的T-Mobile基站已恢復運營。
+
+---
+
+### 2026-10-11 04:55:51  #其他
+
+沙特領導的聯軍稱，一枚炮彈落在達曼法赫德國王國際機場附近區域。
+
+---
+
+### 2026-10-11 04:55:29  #其他
+
+T-Mobile團隊助力墨西哥灣沿岸社群從颶風"伊薩亞斯"中恢復，搶修通訊網路。
+
+---
+
+### 2026-10-11 04:54:47  #市場
+
+【法國債務高企，德國適度鬆綁債務剎車】法國債務佔國內生產總值比重達到119%，創二戰後新高，而德國該比例為64%。歐元誕生之初兩國債務率均約60%，但2010年後走勢大幅分化。德國憲法債務剎車機制要求實現預算平衡與基本財政盈餘，推動其債務率從81%降至2019年的59%。法國自1974年起就未曾實現財政盈餘。2025年財政赤字約5.1%；若不實施大規模削減支出，預計到2027年債務率將升至約122%。勒科爾尼總理提出540億歐元的節約方案，但議會派系分散，法案能否透過尚不確定。與此同時，德國憑藉自身穩固的財政基礎，小幅放寬債務剎車以增加國防開支，而法國已不再擁有這樣的底氣。起標題
+
+---
+
+### 2026-10-11 04:53:44  #國際
+
+特朗普：請投票。
+
+---
+
+### 2026-10-11 04:48:52  #國際
+
+特朗普：真是不可思議。就算我說些蠢話，你們照樣鼓掌。
+
+---
+
+### 2026-10-11 04:48:40  #MKT News
+
+U.S. President Trump said it was unbelievable, that he could say the most foolish things and people would applaud.
+
+---
+
+### 2026-10-11 04:46:35  #國際
+
+特朗普稱伊朗為“瘋子國家”，並表示德黑蘭可能在11月3日中期選舉前採取進一步行動，以在政治上打擊他。
+
+---
+
+### 2026-10-11 04:45:09  #央行 #國際
+
+特朗普：我們想要低利率，但我們的美聯儲理事會很糟糕。
+
+---
+
+### 2026-10-11 04:44:18  #國際
+
+特朗普：如果我環顧四周，看到聽眾像聽其他候選人演講那樣紛紛離場，那我就該縮短演講時長了。
+
+---
+
+### 2026-10-11 04:43:54  #國際
+
+烏克蘭對俄羅斯發起新的大規模無人機群襲擊。
+
+---
+
+### 2026-10-11 04:40:38  #MKT News #Market Themes #The Trump Trade
+
+US President Trump said he had considered renaming the Atlantic or Pacific Ocean to Trump Ocean or Ocean of the Americas.
+
+---
+
+### 2026-10-11 04:36:10  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said he is considering renaming the Strait of Hormuz to 'Trump Strait'.
+
+---
+
+### 2026-10-11 04:35:27  #MKT News #WTI #Brent
+
+US President Trump said on Iran that the US can end the matter quickly and that Iran has no idea how well he has treated them.
+
+---
+
+### 2026-10-11 04:31:22  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Former UK prime minister Boris Johnson called the US decision to lift sanctions on Russian fuel disgusting, said blaming Ukraine for recent oil-price rises is obviously absurd and argued the increase began with the Strait of Hormuz closure. He accused the White House of trying to make US motorists pay for Putin's "massacre", said the policy will not succeed and doubted it would materially affect fuel prices.
+
+---
+
+### 2026-10-11 04:28:23  #國際
+
+特朗普在田納西州克拉克維爾集會上發表講話。
+
+---
+
+### 2026-10-11 04:28:05  #MKT News #Commodities #Energy #WTI #XAUUSD
+
+President Trump said gasoline prices are lower than during Biden's presidency and that the U.S. also prevented Iran from acquiring nuclear weapons.
+
+---
+
+### 2026-10-11 03:58:10  #國際
+
+【烏方稱俄軍襲擊扎波羅熱地區致死人數上升到20人】據烏克蘭國家通訊社10日報道，俄軍當天凌晨空襲扎波羅熱地區，致死人數已上升到20人，另有32人受傷。報道說，10日凌晨4時48分，俄軍使用校正航空炸彈對扎波羅熱地區進行空襲。死者包含3名兒童，傷者正在醫院接受治療。目前，建築廢墟下的搜救工作仍在繼續。（新華社）
+
+---
+
+### 2026-10-11 03:58:02  #MKT News
+
+【Ukraine reports 20 killed in Russian strike on Zaporizhzhia region】Ukrainian authorities said a Russian airstrike on the Zaporizhzhia region in the early hours of the 10th killed 20 people and wounded 32. The strike occurred at 04:48 and used precision-guided aerial bombs, officials said. The dead include three children; the injured are being treated in hospital and search-and-rescue work under the rubble is ongoing.
+
+---
+
+### 2026-10-11 03:55:08  #MKT News #Market Regions #Europe & UK #WTI #Impact bearish #Brent
+
+【Zelenskiy holds calls with multiple European leaders】Ukrainian President Zelenskiy said on Oct. 10 he held calls that day with Finland President Stubb, French President Macron, Norwegian Prime Minister Støre and UK Prime Minister Burnham, urging increased support for Ukraine and tougher sanctions on Russia. He briefed them on the conflict, discussed challenges from the U.S. easing of sanctions on Russian oil products, and coordinated response measures and plans for follow-up meetings.
+
+---
+
+### 2026-10-11 03:55:00  #國際
+
+【澤連斯基與多個歐洲國家領導人通話】烏克蘭總統澤連斯基10日在社交媒體釋出訊息說，他當天與多個歐洲國家領導人通電話，呼籲加大對烏援助和對俄羅斯制裁。澤連斯基分別與芬蘭總統斯圖布、法國總統馬克龍、挪威首相斯特勒以及英國首相伯納姆通話。他在通話中，通報俄烏衝突近況，討論美國放寬對俄石油產品制裁引發的挑戰，並就協調應對措施及籌備後續會晤等事宜進行溝通。（新華社）
+
+---
+
+### 2026-10-11 03:54:39  #MKT News
+
+【Iran foreign ministry spokesperson: US people's real enemy is their warmongering ruling group】Iran foreign ministry spokesperson Baghaei posted on social media responding to Trump's earlier remark that "even if Iran destroyed Los Angeles or San Diego it would be a very small price", saying: "To frighten their population they fabricate an imagined aerial enemy to cover the real threat on the ground. The real danger is neither outside their borders nor in the skies over Los Angeles and San Diego. The real danger comes from a ruling group that imposes illegal wars on the world and causes global consequences. The US president even described the destruction of Los Angeles and San Diego as 'a very small price'. This is a classic case of fear politics: using a fictional threat to intimidate the public, portraying the destruction of one's own cities as an acceptable price, and diverting attention from the real danger."
+
+---
+
+### 2026-10-11 03:43:41  #MKT News
+
+【Panama declares state of emergency after strong earthquake】Panama declared a state of emergency on Oct. 10 after a strong earthquake, mobilizing government departments and public agencies to standby and allocate resources for relief. The presidency said the president ordered a special committee to coordinate rescue operations and manage aid resources. A relief supply collection point has been established in Panama City and provincial governments will receive public donations.
+
+---
+
+### 2026-10-11 03:43:31  #其他
+
+【巴拿馬政府宣佈進入緊急狀態應對強震】巴拿馬政府10日宣佈進入緊急狀態以應對強震，協調救災和援助工作。巴拿馬總統府部長奧裡利亞克當天在總統府舉行的新聞釋出會上說，政府已宣佈進入緊急狀態，要求各部門和公共機構隨時待命，調配必要資源，為受災民眾提供援助。（新華社）
+
+---
+
+### 2026-10-11 03:32:59  #其他
+
+英國海上貿易組織(UKMTO)：阿聯酋哈伊馬角附近的多名船長透過甚高頻(VHF)廣播接到指令，要求他們駛離錨地。
+
+---
+
+### 2026-10-11 03:31:06  #國際
+
+【特朗普稱或加入打擊胡塞武裝行動】沙特首都利雅得的哈立德國王國際機場10月10日再遭襲擊。本週早些時候，該機場已遭葉門胡塞武裝多次導彈襲擊，造成多人死亡。美國總統特朗普當天在白宮被問及“美國是否計劃加入沙特對胡塞武裝的打擊行動”時表示：“我們可能會。我們會考慮的。我們剛剛才得知最近的這次襲擊。”美國駐利雅得大使館表示，已“獲悉襲擊事件”，並“強烈建議所有美國公民避開該機場及周邊地區”。（CCTV國際時訊）
+
+---
+
+### 2026-10-11 03:30:49  #公司 #國際
+
+【俄部分解禁柴油出口】當地時間10月10日晚，俄羅斯政府宣佈部分解除柴油出口禁令，相關措施自當天正式生效。俄羅斯政府公告稱，此舉旨在落實俄羅斯總統普京與美國總統特朗普達成的協議。據相關決定，俄羅斯現階段將允許向國際市場出口50萬噸柴油。 （CCTV國際時訊）
+
+---
+
+### 2026-10-11 03:29:48  #其他
+
+威瑞森：為颶風伊薩亞斯部署移動基站資產並啟動發電機。
+
+---
+
+### 2026-10-11 03:29:43  #其他
+
+威瑞森：為颶風伊薩亞斯籌備1000臺發電機與3000件網路裝置資產。
+
+---
+
+### 2026-10-11 03:29:37  #其他
+
+威瑞森：已部署網路團隊與資產應對颶風伊賽亞斯。
+
+---
+
+### 2026-10-11 03:29:29  #其他
+
+威瑞森：10月9日至15日期間，向受颶風“伊賽亞斯”影響的使用者提供無限通話、簡訊及流量服務。
+
+---
+
+### 2026-10-11 03:29:22  #其他
+
+威瑞森颶風伊薩亞斯過後啟動網路修復工作。
 
 ---
 
@@ -12277,151 +12637,5 @@ Iran's deputy interior minister said Trump has resumed sanctions and a 'maximum 
 四是持續加強儲蓄國債電子渠道建設。新增手機銀行渠道銷售成員，目前40家儲蓄國債承銷團成員已全部可透過手機銀行向投資者銷售儲蓄國債（電子式），人民群眾購債便利度進一步提高。同時，合理調整單人購買單期儲蓄國債限額，使儲蓄國債惠及更多群眾。 
 
 五是推動國債納入中英櫃檯債業務並完成首筆交易。指導境內國債登記託管結算機構完善相關係統建設，為境外投資者在境內開立實名賬戶，在保障中英櫃檯國債業務順暢有序執行的同時，全面夯實跨境互聯業務的風險防範基礎。中國建設銀行正式將國債納入中英櫃檯債業務品種，並於6月1日與滙豐銀行完成首筆1億元人民幣國債交易。
-
----
-
-### 2026-10-09 15:40:28  #MKT News
-
-Saudi General Authority of Civil Aviation says an aircraft was damaged while parked at Riyadh King Khalid International Airport; no passengers were on board at the time.
-
----
-
-### 2026-10-09 15:40:19  #MKT News
-
-Saudi civil aviation authority said an employee died in an accident at Riyadh's King Khalid International Airport.
-
----
-
-### 2026-10-09 15:40:17  #MKT News #Market Regions #Japan & APAC #CNH #Impact bullish #EURUSD
-
-【Ministry of Finance: 572 billion yuan of ultra‑long special sovereign bonds issued in 1H 2026, 44% of annual target】The Ministry of Finance said in its 1H 2026 fiscal report it has begun orderly 2026 sovereign bond issuance and will calibrate external‑debt currency and tenor mix, issuance locations and innovative products. It has issued 572 billion yuan of ultra‑long special sovereign bonds in 1H, completing 44% of the year’s issuance plan. In May it sold 60 billion yuan of green sovereign bonds in Hong Kong via bookbuild; the yield was a record low for RMB sovereign bookbuilds, subscription was 10.4x and the order book set an offshore RMB record, with sovereign investor allocations and share at new highs. In June it issued €5bn in Luxembourg, marking the largest APAC euro bond and the lowest issuance spread on record. Regular Hong Kong RMB government bond issuance reached 50.5 billion yuan in H1.
-
----
-
-### 2026-10-09 15:40:15  #公司
-
-【廈門鎢業：公司目前未生產六氟化鎢產品】有投資者向廈門鎢業（600549.SH）提問，請問董秘貴公司六氟化鎢技術處於什麼水平，可以大量生產嗎？下游頭部企業基本驗證過了嗎？10月9日，公司回答表示，公司目前未生產六氟化鎢產品。
-
----
-
-### 2026-10-09 15:40:15  #MKT News #Commodities #Industrial Metals
-
-【Investor asked about acquisitions in Tajikistan, Kazakhstan; Xiamen Tungsten says it's monitoring overseas tungsten/molybdenum assets】An investor asked whether Xiamen Tungsten would acquire tungsten or molybdenum mines in Tajikistan or Kazakhstan. The company said it is monitoring overseas resource acquisitions and is conducting a global strategic-metals resource-mapping exercise and studies of the investment environment and regulatory rules for each mineral.
-
----
-
-### 2026-10-09 15:40:06  #宏觀
-
-【財政部：截至7月末各地發行置換債券1.73萬億元 完成2026年2萬億元額度的86.7%】財政部發布2026年上半年中國財政政策執行情況報告，其中提到，存量隱性債務風險有效緩釋。 
-
-一是有序化解存量隱性債務。落實一攬子化債方案，指導各地紮實推進地方存量隱性債務化解工作。截至7月末，各地發行置換債券1.73萬億元，完成2026年2萬億元額度的86.7%。 
-
-二是加快推動地方政府融資平臺改革轉型。指導地方加快化解融資平臺存量隱性債務，依法依規釐清政府和企業權責，加快剝離融資平臺政府融資功能。配合金融管理部門最佳化金融支援融資平臺債務風險化解政策，引導金融機構透過債務重組等方式，降低融資平臺流動性風險和利息負擔。 
-
-專項債券管理最佳化完善。 
-
-一是最佳化專項債券用途管理。新增專項債券重點支援重大專案建設、置換隱性債務、消化政府拖欠賬款等。堅持正向激勵原則，統籌考慮黨中央、國務院確定的重大戰略和重大專案支出需要，根據各地區債務風險、財力狀況、管理水平以及專案資金需求等情況合理分配額度，向專案準備充分、投資效率較高、資金使用效益好的地區傾斜。截至7月末，發行新增專項債券2.41萬億元，支援建設專案超1.8萬個。 
-
-二是擴大“自審自發”試點範圍。經國務院批准，2026年將河北省、江西省、湖北省、重慶市納入新增“自審自發”試點範圍。指導督促新納入試點地區進一步完善工作機制，制定本地區試點工作方案，強化部門協同配合，提升專案儲備質量，加快發行使用進度。上半年，“自審自發”試點地區發行新增專項債券1.6萬億元，佔全國發行額的77%。 
-
-三是強化專項債券專案稽核。指導督促各地健全專案常態化謀劃儲備機制，做深做實專案前期工作，推動儘快具備開工條件。指導督促“自審自發”試點地區完善稽核標準，加強對非“自審自發”試點地區專案稽核和指導把關，對無收益專案堅決禁止，對重複建設、投入產出比低的專案加強把關。 
-
-四是完善專項債券全鏈條管理。指導督促各地統籌把握專項債券發行節奏和進度，做到早發行、早使用。加強專項債券資金穿透式監管，開展專項債券資金使用情況“掃描式”核查，對違規行為堅決查處。加強專項債券專案資產管理，建立專項債券專案資產臺賬，推動形成從資金管理到資產管理、從債務端到資產端的管理閉環。
-
----
-
-### 2026-10-09 15:40:05  #MKT News
-
-Saudi General Authority of Civil Aviation said the first attack targeted airport facilities and the second targeted Saudia aircraft.
-
----
-
-### 2026-10-09 15:39:51  #MKT News
-
-Saudi General Authority of Civil Aviation says Riyadh's King Khalid International Airport has resumed operations and air traffic has returned to normal.
-
----
-
-### 2026-10-09 15:39:27  #公司
-
-【公司是否去塔吉克、哈薩克收購鎢鉬礦？廈門鎢業回應】有投資者向廈門鎢業（600549.SH）提問，公司會去塔吉克，哈薩克收購鎢鉬礦嗎？10月9日，公司回答表示，公司正在關注海外資源的收購，部署全球戰略金屬資源圖譜研究及各礦種的投資環境與投資規則研究。
-
----
-
-### 2026-10-09 15:39:05  #公司
-
-【金開新能：截至9月底累計回購股份4.00%】金開新能公告稱，公司回購股份方案於2026年2月9日經股東會審議透過，擬以5億元-6億元自有或自籌資金回購股份用於登出減少註冊資本，回購價格不超7.50元/股，實施期限為股東會審議透過之日起12個月內。2026年9月公司未回購股份，截至2026年9月底，累計回購股份7876.12萬股，佔總股本4.00%，回購價格區間5.87元/股-6.85元/股，累計支付金額5.05億元。
-
----
-
-### 2026-10-09 15:38:56  #焦點 #國際
-
-據伊朗媒體報道，伊朗革命衛隊副總司令穆斯塔法·伊扎迪表示，霍爾木茲海峽處於伊朗軍隊的控制之下，其防禦措施和戰備狀態正日益加強。
-
----
-
-### 2026-10-09 15:38:55  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian media reported Islamic Revolutionary Guard Corps deputy commander Mustafa Izadi said the Strait of Hormuz is under Iranian military control and that defensive measures and combat readiness there are strengthening.
-
----
-
-### 2026-10-09 15:38:53  #公司
-
-【財達證券：50億元次級債券公開發行獲證監會註冊批覆】財達證券公告稱，公司收到中國證監會批覆，同意公司向專業投資者公開發行面值總額不超過50億元次級債券的註冊申請。本次發行應嚴格按照報送上海證券交易所的募集說明書進行，批覆自同意註冊之日起24個月內有效，公司可在註冊有效期內分期發行。自同意註冊之日起至本次次級債券發行結束前，公司如發生重大事項，應及時報告並按有關規定處理。
-
----
-
-### 2026-10-09 15:38:49  #公司
-
-【清溢光電：擬豁免實控人唐英敏股份轉讓自願承諾】清溢光電公告稱，公司2026年第一次臨時股東會將審議《關於豁免實際控制人、董事長自願性承諾的議案》。公司實際控制人之一、董事長唐英敏申請豁免其在IPO招股說明書中作出的“任職期間每年轉讓股份不超過間接持有或控制公司股份總數25%”的自願性承諾，其餘承諾內容不變。本次申請豁免係為順利完成遺產分配、實現家族財產傳承及長期管理，保障公司控制權穩定。該議案已經公司第十屆董事會第十九次會議審議透過。
-
----
-
-### 2026-10-09 15:38:45  #公司
-
-沙特航空在一份宣告中表示，該公司一名僱員在利雅得哈立德國王國際機場的一起事件中身亡。
-
----
-
-### 2026-10-09 15:38:33  #其他
-
-上期所：本週銅庫存增加20000噸，鋁庫存減少22391噸，鋅庫存增加2637噸，鉛庫存不變，鎳庫存減少245噸，錫庫存減少102噸，天然橡膠庫存減少310噸。
-
----
-
-### 2026-10-09 15:38:32  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bearish
-
-Shanghai Futures Exchange weekly inventory update: copper inventories rose 20,000 t week-on-week; aluminium down 22,391 t; zinc up 2,637 t; lead unchanged; nickel down 245 t; tin down 102 t; natural rubber down 310 t.
-
----
-
-### 2026-10-09 15:38:19  #其他
-
-沙特民航局：利雅得哈立德國王國際機場已恢復運營，空中交通迴歸正常。
-
----
-
-### 2026-10-09 15:37:49  #MKT News
-
-【Ministry of Finance: proactively stabilize employment to boost incomes; strengthen employment aid for key and vulnerable groups】China’s Ministry of Finance released its 1H 2026 fiscal policy implementation report saying it will proactively stabilize employment to raise incomes and strengthen employment support for priority and vulnerable groups. The report calls for adapting to structural demographic shifts and migration by optimizing basic public-service layouts (education, healthcare), implementing childcare subsidies, free preschool and elderly-care consumption subsidies, and reinforcing inclusive, foundational and safety-net social services by improving elder/child service systems and a tiered social assistance framework. It also stresses bolstering emergency disaster relief and enhancing natural-disaster prevention and response capacity.
-
----
-
-### 2026-10-09 15:37:29  #其他
-
-沙特民航局：兩名沙特國民在利雅得哈立德國王國際機場的兩起襲擊中身亡。
-
----
-
-### 2026-10-09 15:37:16  #MKT News
-
-【Zimbabwe says no reason to delay lithium concentrate export ban】Zimbabwe reaffirmed a ban on lithium concentrate exports due to take effect in January 2027, saying producers have had ample time to meet the beneficiation deadline and there is no basis for further delay. The government suspended concentrate exports in February to force domestic value‑added processing and curb illegal shipments for EV batteries, relaxed restrictions in April, and rejected producers’ requests for more preparation time, according to Nick Mangwana, permanent secretary at the information ministry.
-
----
-
-### 2026-10-09 15:37:16  #MKT News #CNH #Impact bullish #CSI300
-
-【Ministry of Finance: As of end-July localities issued 1.73 trillion yuan of replacement bonds, completing 86.7% of 2026 2 trillion yuan quota】The Ministry of Finance said in its 1H fiscal policy execution report that risks from stock implicit local government debt have been effectively mitigated. It reported localities had issued 1.73 trillion yuan of replacement bonds by end-July, completing 86.7% of the 2026 2 trillion yuan quota. The ministry said it will accelerate reform and transformation of local government financing vehicles (LGFVs), guide localities to resolve LGFV stock implicit debt, legally clarify government versus enterprise responsibilities, and speed the removal of financing functions from platforms. It will coordinate with financial regulators to optimize financial support policies for debt-risk resolution and guide financial institutions to use measures such as debt restructuring to reduce LGFVs’ liquidity risks and interest burdens.
 
 ---

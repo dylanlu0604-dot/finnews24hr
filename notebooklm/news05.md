@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-11 03:26:47_
-_本檔包含 1933 則快訊，約 384152 字_
+_更新時間：2026-10-11 06:53:00_
+_本檔包含 1934 則快訊，約 384790 字_
+
+---
+
+### 2026-10-06 09:19:31  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
+
+【Shift from single-network construction to system networking to boost six-network infrastructure efficiency】The Investment Department of the National Development and Reform Commission said China’s current six-networks push is moving from ‘single-point’ buildouts to system-level networking to unlock multiplier effects across water, new power grids, compute, next-generation communications, urban underground utilities and logistics networks. The aim is demand integration and resource sharing so investment yields whole-system gains rather than a simple sum of single networks. Remaining frictions include non‑uniform technical standards, weak cross‑entity coordination and unclear revenue-sharing. The NDRC plans to tackle these by establishing unified technical standards and data interfaces to enable facility sharing and data interoperability; improving market-based coordination, clarifying cross-network roles and revenue allocation and supporting corporate consortia in integrated projects; and running regional integrated pilots in major city clusters to develop replicable models before national rollout.
+
+---
+
+### 2026-10-06 09:19:23  #Trading Economics #Economy #Philippines #Inflation Rate #Importance 2
+
+Philippines Inflation Rate Jumps to 7.2% — The annual inflation rate in the Philippines accelerated to 7.2% in September 2026 from 6.1% in August, overshooting forecasts of 6.6% and matching April’s three-year high. Main upward pressure came from transport inflation, which rose to 14.6% from 13.5%, while housing, water, electricity, gas and other fuels increased to 8.4% from 7.9%, as the country’s heavy reliance on Middle Eastern oil left it particularly exposed to higher energy costs amid the regional conflict. Food and non-alcoholic beverage inflation also rose to 6.7% from 4.6%, while inflation for restaurants and accommodation services rose to 7% from 6.8%. Meanwhile, core inflation jumped to 4.7%, the highest since November 2023, above the expected 4.4% and up from 4.1% in August. On a monthly basis, consumer prices rose 1%, the most since April, exceeding expectations and August’s 0.6% growth.
+
+---
+
+### 2026-10-06 09:17:39  #公司 #國際 #原創
+
+【特斯拉連續八個月蟬聯韓國進口車銷量冠軍】特斯拉在9月份連續第八個月成為韓國銷量最高的進口乘用車品牌。據韓國汽車進口商和分銷商協會（KAIDA）統計，上個月韓國新註冊進口乘用車總數為34904輛，同比增長6.3%。特斯拉以12372輛的銷量領跑市場，自2月以來一直穩居榜首。寶馬以6066輛位居第二，緊隨其後的是梅賽德斯賓士（5477輛）和比亞迪（2614輛）。
+
+---
+
+### 2026-10-06 09:16:55  #其他
+
+白宮釋出有關柴油緊急稅收減免的命令。
+
+---
+
+### 2026-10-06 09:15:02  #市場
+
+恒指期貨日盤開盤漲0.87%，報24242.72點，高水202.38點。
+
+---
+
+### 2026-10-06 09:14:59  #國際
+
+美國財長貝森特：美國經濟正在“加速增長”。
+
+---
+
+### 2026-10-06 09:13:34  #國際
+
+韓國總統李在明在內閣會議上呼籲迅速調查銀行網路攻擊事件。
+
+---
+
+### 2026-10-06 09:13:13  #MKT News #Market Themes #AI Revolution
+
+South Korea's Lee called for developing cybersecurity approaches suited to the AI era.
+
+---
+
+### 2026-10-06 09:12:50  #MKT News #DXY #Impact bearish #USDJPY #XAUUSD #Impact bullish
+
+South Korea's finance minister said the government will work to stabilize the foreign-exchange market.
+
+---
+
+### 2026-10-06 09:12:41  #MKT News
+
+South Korea's Lee said some believe recent hacking incidents targeting banks employed AI models.
+
+---
+
+### 2026-10-06 09:12:09  #MKT News
+
+Documents show Berkshire Hathaway acquired about 2.4 million Class A shares of Lainer Co. between Oct. 1-2.
+
+---
+
+### 2026-10-06 09:11:55  #公司
+
+披露檔案顯示，伯克希爾哈撒韋在10月1日至2日期間購入了約240萬股萊納公司A類股票。
+
+---
+
+### 2026-10-06 09:11:37  #MKT News #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+South Korea's President Lee said some hacking attacks show signs of AI involvement.
+
+---
+
+### 2026-10-06 09:09:52  #其他
+
+【從“單點建網”轉向“系統組網” 六網協同如何釋放乘數效應】這一輪 “六張網” 建設從頂層設計階段就將 “協同聯動” 作為核心導向，本質是從 “單點建網” 轉向 “系統組網”，把水網、新型電網、算力網、新一代通訊網、城市地下管網、物流網的需求打通、資源共享，讓投資從 “單張網的簡單相加” 變成 “全體系的乘數效應”，放大基礎設施的整體效能。目前不少領域已經顯現出協同成效。在能源算力領域，新型電網與算力網雙向賦能：算力中心接入綠電直連專案降低用能成本，算力平臺反過來為電網提供智慧調峰服務，部分試點區域綠電消納率提升超15%。在城市執行領域，新一代通訊網為城市地下管網裝上 “數字神經”，實時監測管線狀態，再結合物流網的排程能力，讓城市管線運維、終端物資配送效率提升近兩成。在水利領域，水網與電網、算力網聯動，實現水資源智慧排程與水電協同發電，既強化了供水保障能力，也提高了清潔能源產出效率。從生產端到民生端，六網協同正在把分散的基礎設施擰成一股繩。（央視）
+
+---
+
+### 2026-10-06 09:08:44  #MKT News
+
+South Korea's finance minister expects economic growth this year to reach 3%.
+
+---
+
+### 2026-10-06 09:08:28  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #US10Y #Impact mixed
+
+Market sources: US Treasury Secretary Bessent expects Q3 GDP growth to exceed 3% and says mortgage rates will decline once the Iran war ends.
+
+---
+
+### 2026-10-06 09:07:46  #MKT News #Market Regions #Japan & APAC #USDJPY
+
+Japan 20-year government bond yield rose 1bp to 3.98%.
+
+---
+
+### 2026-10-06 09:07:39  #市場 #國際
+
+20年期日本國債收益率上漲1個基點，至3.98%。
+
+---
+
+### 2026-10-06 09:07:33  #其他
+
+東麗萊卡（Toray Lycra）滋賀工廠發生爆炸，一人受傷。
+
+---
+
+### 2026-10-06 09:06:14  #國際
+
+美國財長貝森特：伊朗戰爭結束抵押貸款利率將會回落。
+
+---
+
+### 2026-10-06 09:05:21  #公司 #國際
+
+【谷歌與Constellation接近達成十億美元核電採購協議】隨著各大科技企業爭相為資料中心擴容保障電力供應，谷歌母公司字母表公司即將與Constellation EnergyCorp.達成核電採購協議。知情人士透露，這家科技巨頭即將簽訂一份多年期協議，向Constellation支付至少 10 億美元，預計最快本週官宣。因資訊尚未公開，知情人士要求匿名。美國最大核反應堆運營商Constellation與谷歌週一均拒絕對此置評。目前尚無法確定本次核電專案的確切規模與選址。
+
+---
+
+### 2026-10-06 09:02:48  #公司
+
+谷歌與Constellation 接近達成十億美元的核電交易。
+
+---
+
+### 2026-10-06 09:02:10  #MKT News
+
+Philippine Statistics Bureau said September inflation rose 7.2% YoY, versus Refinitiv estimate of 6.6%.
+
+---
+
+### 2026-10-06 09:01:56  #國際
+
+菲律賓統計局公佈，該國9月通脹率同比上升7.2%，調查預期為上升6.6%。
+
+---
+
+### 2026-10-06 09:01:21  #公司 #市場
+
+三星電機股價上漲5.8%，至1,673,000韓元。
+
+---
+
+### 2026-10-06 09:01:11  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH
+
+FTSE China A50 index futures opened 0.34% higher.
+
+---
+
+### 2026-10-06 09:00:34  #國際
+
+美國財長貝森特：可能會很快開始扭轉債務曲線。
+
+---
+
+### 2026-10-06 09:00:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D opened 1.37% higher at 906.8 yuan/gram on Oct. 6 (Tuesday); silver T+D opened 0.67% higher at 14,890 yuan/kg.
+
+---
+
+### 2026-10-06 09:00:19  #市場
+
+臺灣證交所加權股價指數開盤變動不大，報報49,736.37。
+
+---
+
+### 2026-10-06 09:00:13  #國際
+
+美國財長貝森特：我認為第三季度增長率將超過3%。
+
+---
+
+### 2026-10-06 09:00:10  #市場 #焦點
+
+現貨黃金突破4150美元/盎司，日內漲0.24%。
+
+---
+
+### 2026-10-06 09:00:06  #國際
+
+美國財長貝森特：我認為第三季度增長率將超過3%。
+
+---
+
+### 2026-10-06 08:59:55  #國際
+
+美國財長貝森特：繼承了“鉅額債務”。
+
+---
+
+### 2026-10-06 08:59:32  #Trading Economics #Markets #Commodity #Importance 0
+
+Gasoline Falls for Third Session — US gasoline futures fell to around $3.30 per gallon, declining for the third straight session, pressured by seasonal weakness in fuel demand and the G7’s planned release of emergency oil and diesel reserves. The release will be coordinated by the International Energy Agency over the next four months. The broader refined-products complex also faced pressure after President Trump signed an executive order expanding access to tax-exempt diesel. Meanwhile, gasoline pump prices have eased from recent peaks as demand weakens following the end of the summer driving season. Nevertheless, global fuel markets remain tight as EIA data showed US gasoline inventories fell by 1.7 million barrels in the week ended September 25, while refinery utilization stood at 92.5%. Russia extended restrictions on most diesel exports through October, although it is considering a partial lift amid balanced domestic supplies. China also suspended some oil-product exports for October.
+
+---
+
+### 2026-10-06 08:59:04  #其他
+
+【澳大利亞陸軍訓練事故1死5傷 】據澳大利亞國防部今天（10月6日）通報，一名澳大利亞陸軍士兵10月5日在澳大利亞北領地參加訓練時死亡，另有5名士兵受傷。澳大利亞國防部的通報未披露事故具體原因。
+
+---
+
+### 2026-10-06 08:58:42  #公司 #國際
+
+【加拿大魁北克分離主義政黨贏得選舉，卡尼政府迎來新挑戰】加拿大魁北克選民十餘年來首次選出分離主義政黨執政，這將令該省與馬克・卡尼總理領導的聯邦政府關係更加緊張，並且可能最終舉行魁北克脫離加拿大的獨立公投。加拿大廣播公司在蒙特利爾時間週一晚 8:40 前不久宣佈，魁北克人黨贏得省選舉。目前尚不確定魁北克人黨能否拿下省議會 127 個席位中的多數席位，從而無需小政黨支援即可主導議事議程。49 歲、曾為律師的魁北克人黨領袖保羅・聖皮埃爾・普拉蒙東將出任這個法語省份的新任省長。他承諾，將在首個四年任期內發起獨立公投，但不會在美國總統特朗普卸任之前舉行。普拉蒙東在近期電視辯論中表示：“我們剛剛經歷的與美方之間前所未有的局面，特朗普政府的所作所為讓人無法接受，當下的環境並不適合冷靜思考我們的未來。”這將是魁北克省歷史上第三次獨立公投。上一次 1995 年公投中，支援主權獨立的贊成票僅差 1 個多百分點惜敗。
 
 ---
 
@@ -11437,215 +11653,5 @@ Indonesia's Meteorology, Climatology and Geophysics Agency (BMKG) reported a mag
 ### 2026-10-04 06:53:27  #其他
 
 【金正恩觀摩中程戰略導彈發射訓練】據朝中社4日報道，朝鮮3日凌晨在東部地區進行了中程戰略導彈發射訓練。朝鮮勞動黨總書記、國務委員長金正恩現場觀摩訓練。報道說，用於訓練的導彈命中了設定在朝鮮東部海域的目標。訓練旨在讓操縱高超音速戰略武器系統的導彈兵熟練掌握火力操縱能力。金正恩表示，要以強大的遏制力管控各種威脅，為國家建設保證安全環境。（新華社）
-
----
-
-### 2026-10-04 06:35:16  #公司
-
-厄瓜多國家石油公司：正開展作業，計劃於 6 天內恢復跨厄瓜多輸油管道（SOTE）的運營。
-
----
-
-### 2026-10-04 06:34:15  #國際
-
-【報道：白宮新設人工智慧專項工作組評估技術風險】白宮成立全新專項工作組，要求在120 天內完成報告，梳理人工智慧帶來的風險與機遇，並明確美國聯邦政府對於這項高速發展技術應當承擔的職責。該工作組採用特朗普偏好的命名 ——“超級智慧工作組（Super Intelligence Force）”。美國國家情報總監辦公室負責人傑伊・克萊頓擔任工作組主席，實質上成為特朗普政府的人工智慧事務總管，一名白宮高階官員證實了這一身份定位。克萊頓表示：“特朗普要求組建該工作組，核心目標就是兌現他提出的主張：確保美國維持在超級智慧領域的領先地位，並且將美國民眾的利益放在首位。”
-
----
-
-### 2026-10-04 06:30:50  #國際
-
-白宮新設專項工作組，需在 120 天內撰寫報告，梳理人工智慧的風險、機遇以及美國聯邦政府的相關職責。
-
----
-
-### 2026-10-04 06:30:28  #國際
-
-市場訊息：在公眾與業界表達擔憂後，美國將成立全新人工智慧特別工作組，針對該技術的風險提交報告。
-
----
-
-### 2026-10-04 06:25:04  #國際
-
-【以軍稱對哈馬斯高階官員發動打擊】當地時間3日晚間，以色列國防軍與以國家安全總局（辛貝特）發表聯合宣告稱，2日夜間，以軍在加沙地帶發動空襲，目標是哈馬斯高階官員阿里·阿穆迪。襲擊發生時，阿穆迪正身處於一間公寓內。宣告稱，阿穆迪曾是原哈馬斯領導人葉海亞·辛瓦爾的助手，並參與策劃了包括2023年10月7日襲擊事件在內的多起針對以色列的襲擊。目前以軍正在評估此次打擊的結果。（央視新聞）
-
----
-
-### 2026-10-04 05:57:49  #國際
-
-據伊朗塔斯尼姆通訊社：由於葉門的導彈襲擊，沙烏地阿拉伯達曼的法赫德國王機場航班出現了中斷和停飛。
-
----
-
-### 2026-10-04 05:57:44  #其他
-
-中國地震臺網自動測定：10月04日05時56分在貴州畢節市威寧縣附近（北緯26.74度，東經104.18度）發生3.4級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-10-04 05:57:30  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Tasnim News reports missile strikes from Yemen disrupted flights and forced suspensions at King Fahd International Airport in Dammam, Saudi Arabia.
-
----
-
-### 2026-10-04 05:46:07  #MKT News
-
-Iran's Fars News Agency, citing Arab sources, says Yemeni armed forces launched an attack on Dammam, Saudi Arabia.
-
----
-
-### 2026-10-04 05:38:36  #MKT News
-
-Datafolha poll shows a hypothetical second-round presidential vote in Brazil at Lula 47% and Flavio Bolsonaro 46%.
-
----
-
-### 2026-10-04 05:37:22  #其他
-
-Datafolha 民調：在巴西總統大選潛在第二輪對決中，盧拉支援率 47%，博索納羅為 46%。
-
----
-
-### 2026-10-04 05:36:33  #其他
-
-Datafolha 民調：巴西總統大選首輪，盧拉獲得 45% 有效選票，博索納羅為 42%。
-
----
-
-### 2026-10-04 05:36:16  #MKT News
-
-Datafolha poll: in Brazil's presidential first-round, Lula 45% of valid votes, Flavio Bolsonaro 42%.
-
----
-
-### 2026-10-04 05:35:17  #公司
-
-厄瓜多國家石油公司：因 10 月 1 日發生火災，跨厄瓜多輸油管道（SOTE）一處泵站宣佈遭遇不可抗力。
-
----
-
-### 2026-10-04 05:34:54  #MKT News
-
-MSNow White House reporter asked Trump if he had any regrets about his first two years back in the White House; he replied, "Oh, I like it. It's terrific. I think it's the most productive two years in presidential history." When pressed on whether he'd do anything differently, he did not answer.
-
----
-
-### 2026-10-04 05:17:57  #宏觀 #國際
-
-美國國務院：“強烈敦促” 衣索比亞和厄利垂亞保持最大限度剋制，重啟對話與合作。
-
----
-
-### 2026-10-04 05:17:57  #MKT News
-
-U.S. State Department strongly urged Ethiopia and Eritrea to respect their neighbors' sovereignty and territorial integrity, exercise maximum restraint, and return to dialogue and cooperation.
-
----
-
-### 2026-10-04 05:17:51  #宏觀 #國際
-
-美國國務院：“強烈敦促” 衣索比亞與厄利垂亞尊重鄰國主權與領土完整。
-
----
-
-### 2026-10-04 05:17:34  #MKT News
-
-US State Department says escalating cross-border tensions between Ethiopia and Eritrea could affect the wider region.
-
----
-
-### 2026-10-04 05:16:55  #宏觀 #國際
-
-美國國務院：衣索比亞與厄利垂亞跨境緊張局勢持續升級，有可能影響整個地區。
-
----
-
-### 2026-10-04 05:15:30  #其他
-
-葉門胡塞武裝旗下馬西拉電視臺報道，沙特襲擊薩那；沙特方面暫未證實。
-
----
-
-### 2026-10-04 05:05:10  #國際
-
-【伊媒：伊朗革命衛隊近日對7艘“違規”油輪採取行動】據伊朗法爾斯通訊社3日報道，過去5天內，伊朗伊斯蘭革命衛隊海軍在霍爾木茲海峽針對至少7艘“違規”油輪採取行動。報道援引多方訊息稱，儘管美國政府一直聲稱“霍爾木茲海峽保持開放並處在美國控制之下”，但伊方實際上平均每天針對不止一艘油輪採取行動。（新華社）
-
----
-
-### 2026-10-04 05:04:14  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Iranian media: IRGC recently acted against 7 "violating" oil tankers in Strait of Hormuz】Iran’s Islamic Revolutionary Guard Corps navy has taken action against at least 7 "violating" oil tankers in the Strait of Hormuz over the past five days, Iranian media reported, citing multiple sources. The report says this averages to more than one tanker targeted per day, contradicting U.S. government assertions that the strait remains open and under U.S. control.
-
----
-
-### 2026-10-04 05:02:09  #國際
-
-特朗普：伊朗實際上已經放棄研發核武器的所有計劃。
-
----
-
-### 2026-10-04 05:01:54  #國際
-
-特朗普：我將對伊朗作出一項決定。伊朗已遭到重創，所以唯一的問題是，選擇溫和方式還是強硬手段。
-
----
-
-### 2026-10-04 05:01:28  #國際
-
-據Axios援引一名美國官員訊息： 出席紐約聯合國大會的伊朗代表團兩名成員於週六被美方驅逐離境，此前二人多次收到離境指令卻拒不執行。據該官員訊息，其中一名伊朗外交官於週五晚間離境，另一名則在週六上午離開。
-
----
-
-### 2026-10-04 04:46:19  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact mixed #EURUSD #US10Y
-
-【Fed and ECB minutes due next week, likely to highlight inflation concerns】The Fed and ECB will publish minutes from last month’s meetings next week. Both raised rates in September citing rising inflation pressure; the Fed minutes could show many policymakers were deeply worried about price trends and expected at least one more hike before year-end. Weaker-than-expected US nonfarm payrolls, soft wage growth, a government PCE revision showing slightly lower inflation YTD, and recent turmoil in French financial markets have collectively reduced near-term urgency for further tightening and raised the bar for an October hike. Minutes may recall officials’ hawkish September stance, but subsequent data strengthen arguments for patience; services inflation could keep a December hike on the table, though the Fed will likely need clearer evidence of renewed price pressure before moving again.
-
----
-
-### 2026-10-04 04:33:51  #國際
-
-【盧拉競選團隊請求選舉法院調查美使領館暫停服務一事】據巴西媒體3日報道，巴西總統盧拉的競選團隊已請求巴西最高選舉法院，將美國駐巴西使領館2日暫停線下領事服務一事，納入正在進行的外部勢力干預巴西選舉相關調查。巴西媒體援引盧拉競選團隊的請求書指出，此事是美國政府幹預巴西選舉的又一例證。美國政府在選舉關鍵時期發起如此規模的“異常外交舉動”，給巴西選舉環境帶來不穩定因素。（新華社）
-
----
-
-### 2026-10-04 04:29:36  #MKT News
-
-【India summons Pakistan acting charge d'affaires over India-Pakistan border incident】India's foreign ministry said on the 3rd it summoned Pakistan's acting charge d'affaires in New Delhi to strongly protest what it called Pakistani facilitation of "illegal cross-border infiltration." India said three people crossed the boundary into Indian territory, ignored repeated warnings and moved toward the border fence; because they constituted an "imminent security threat" Indian border security forces took action. Pakistan on the same day summoned India's acting charge d'affaires in Islamabad to strongly protest that Indian border security personnel shot dead two Pakistani civilians at the India-Pakistan border on the 2nd.
-
----
-
-### 2026-10-04 04:29:35  #國際
-
-【印度就印巴邊界事件召見巴基斯坦臨時代辦】印度外交部3日發表宣告稱，印方當天召見巴基斯坦駐印度高階專員公署臨時代辦，就印方所指巴方“為非法跨境滲透提供便利”的行為提出強烈抗議。宣告稱，當時有三人越過邊界“滲入”印度境內，印邊境安全部隊多次警告要求其返回，但對方繼續向邊境圍欄方向移動。印方稱，由於對方構成“迫在眉睫的安全威脅”，印邊境安全部隊遂採取行動。巴方當天召見印度駐巴基斯坦高階專員公署臨時代辦，就2日印度邊境安全部隊人員在巴印邊境打死兩名巴基斯坦平民一事，向印方提出強烈抗議。（新華社）
-
----
-
-### 2026-10-04 04:24:00  #國際
-
-美國地質調查局：俄羅斯維柳欽斯克東南偏南 182 公里處發生 5.1 級地震。
-
----
-
-### 2026-10-04 04:00:25  #國際
-
-白宮附近兩家達美樂門店均顯示客流量極高。美國東部時間下午 3 點 54 分資料。五角大樓周邊披薩店客流量低於均值，弗雷迪海灘酒吧客流量同樣低於均值。
-
----
-
-### 2026-10-04 03:56:29  #國際
-
-美國銀行存款從前一週的 19.571 萬億美元增至 19.637 萬億美元。
-
----
-
-### 2026-10-04 03:47:45  #MKT News
-
-NASA and SpaceX have set Crew-12's earliest departure from the International Space Station for Oct. 7.
-
----
-
-### 2026-10-04 03:34:51  #國際
-
-美國國家航空航天局與SpaceX確定，Crew-12 乘組最早將於 10 月 7 日撤離空間站。
 
 ---
