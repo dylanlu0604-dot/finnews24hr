@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-11 00:02:29",
-  "count": 10005,
+  "updated": "2026-10-11 00:07:34",
+  "count": 10004,
   "items": [
+    {
+      "id": "5136555",
+      "time": "2026-10-11 00:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國對利雅得哈立德國王國際機場釋出安全警報。"
+    },
+    {
+      "id": "5136554",
+      "time": "2026-10-11 00:05:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國：10月10日利雅得機場發生“嚴重事件”，該事件發生後，已更新針對沙烏地阿拉伯的旅行警告。"
+    },
+    {
+      "id": "5136553",
+      "time": "2026-10-11 00:05:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "雪佛龍就颶風“伊賽亞斯”釋出宣告稱，公司四座墨西哥灣平臺維持生產，五座設施已關停。"
+    },
+    {
+      "id": "5136552",
+      "time": "2026-10-11 00:03:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國建議本國公民避開利雅得哈立德國王機場。"
+    },
+    {
+      "id": "5136551",
+      "time": "2026-10-11 00:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界衛生組織（WHO）：俄羅斯《國際衛生條例》國家歸口單位確認了此次死亡病例，並告知世界衛生組織，俄羅斯此前並未登記過任何鼠疫病例。"
+    },
     {
       "id": "5136550",
       "time": "2026-10-11 00:00:39",
@@ -91211,62 +91251,6 @@
         "國際"
       ],
       "text": "市場訊息：以色列調查人員已抵達阿聯酋，參與對這名企圖使迪拜航空航班墜毀的阿曼籍飛行員的訊問。"
-    },
-    {
-      "id": "mkt:01a10283-12cd-7ee0-a790-9cd4cecec7a2",
-      "time": "2026-10-04 00:05:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said Russia's hybrid attacks on Europe are intended to sow division and weaken European support for Ukraine."
-    },
-    {
-      "id": "mkt:01a10282-d3b2-7ee0-a790-943550805e0e",
-      "time": "2026-10-04 00:04:50",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Ukraine President Zelenskiy said Kyiv has stabilized the frontline east of Donetsk; the \"Vivaldi operation\" has been successful and remains ongoing."
-    },
-    {
-      "id": "5124990",
-      "time": "2026-10-04 00:04:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果將加強Mac隱私控制 警告AI智慧體帶來的風險上升】蘋果公司表示，計劃為Mac使用者推出新的隱私控制措施，並警告稱，向包括AI智慧體在內的第三方軟體授予廣泛的資料訪問許可權所帶來的風險正在上升。這家iPhone製造商週五在一份宣告中表示，將推出更多控制措施，以確保希望向某款應用授予“完全磁碟訪問許可權”——也就是允許其完全訪問系統檔案、郵件、資訊和瀏覽歷史——的使用者只能透過“非常明確的使用者操作”來完成授權。蘋果表示：“我們致力於確保使用者在授予此類訪問許可權之前，能夠清楚瞭解這些風險，從而就自己的資料和隱私作出知情決定。”蘋果在宣告中沒有點名具體程式或開發商，但表示，隨著“AI智慧體的能力和自主性不斷增強”，“與這種級別訪問許可權相關的風險將大幅上升”。"
-    },
-    {
-      "id": "mkt:01a10282-617e-7ee0-a790-8bdcfe19567d",
-      "time": "2026-10-04 00:04:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said he expects Ukraine's domestically produced FP-9 ballistic missile to be ready by autumn."
-    },
-    {
-      "id": "mkt:01a10282-47f1-7ee0-a790-825f23a8d6e3",
-      "time": "2026-10-04 00:04:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine President Zelenskiy said Ukraine is heavily reliant on air power to shoot down Russian jet-powered UAVs and needs 20mm ammunition."
-    },
-    {
-      "id": "mkt:01a10280-db23-7ee0-a790-79ef04696584",
-      "time": "2026-10-04 00:02:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ZELENSKIY said Ukraine will respond to Russian air strikes and will target refineries."
     }
   ]
 }
