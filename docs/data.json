@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-10 17:12:01",
-  "count": 9967,
+  "updated": "2026-10-10 17:15:44",
+  "count": 9968,
   "items": [
+    {
+      "id": "mkt:01a12515-fc65-7ee0-a824-37137d62a727",
+      "time": "2026-10-10 17:12:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said Putin, in coordination with Iran, conveyed to US President Trump Iran's views on a possible resolution of the conflict."
+    },
+    {
+      "id": "mkt:01a12515-ab77-7ee0-a824-2d558ec167ec",
+      "time": "2026-10-10 17:12:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Preview: State Council Information Office to hold press briefing Oct 14; CUSTOMS to release China Jan–Sep 2026 trade data】China's State Council Information Office will hold a press briefing at 10:00 Beijing time on Oct 14, 2026. CUSTOMS spokesperson and deputy commissioner Wang Jun will present China's import‑export figures for the first three quarters of 2026 and take questions."
+    },
+    {
+      "id": "5136336",
+      "time": "2026-10-10 17:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，普京在與伊朗協調後，向特朗普轉達了伊朗對該衝突可能解決方案的立場。"
+    },
+    {
+      "id": "5136335",
+      "time": "2026-10-10 17:11:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西省財政廳原巡視員潘昌坤接受審查調查】中央紀委國家監委網站10月10日通報，據江西省紀委監委訊息：江西省財政廳原巡視員潘昌坤涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受江西省紀委監委紀律審查和監察調查。"
+    },
     {
       "id": "5136334",
       "time": "2026-10-10 17:10:00",
@@ -90934,32 +90966,6 @@
         "國際"
       ],
       "text": "【訊息稱美俄關於烏克蘭問題的會談包含石油交易】據知情人士透露，俄羅斯總統普京在與美國特使會面時，提出了涉及出售俄羅斯能源資產的潛在商業交易。美俄雙方還探討了透過戰後美俄能源合作等經濟舉措來推動雙邊關係“重啟”的可能性。知情人士稱，普京在會面中主動提議，推動出售俄羅斯最大私營能源巨頭之一——盧克石油公司（Lukoil）旗下的龐大資產包。這其中包括該公司分佈在全球各地的油田、煉油廠以及加油站（如非洲喀麥隆的油田、歐洲的煉油廠以及美國新澤西州的加油站等）。目前正在爭取這筆交易的財團包括：美國億萬富豪、洛杉磯道奇隊共同所有者託德·伯利（Todd Boehly）（他曾向特朗普的政治籌款組織捐贈了巨資）；兩個與庫什納或威特科夫家族有深度商業合作的中東財團（包括阿聯酋和卡達的皇室及主權相關背景基金）；美國政府本身（計劃透過美國國際發展金融公司直接參股該新企業）。"
-    },
-    {
-      "id": "mkt:01a1010b-ddbc-7ee0-a78f-6cb716d8a865",
-      "time": "2026-10-03 17:15:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New York Times reports US-Russia talks on Ukraine now involve a multibillion-dollar oil deal linked to a Trump ally."
-    },
-    {
-      "id": "5124889",
-      "time": "2026-10-03 17:14:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤突破102美元，日內漲超3.1%。"
-    },
-    {
-      "id": "5124888",
-      "time": "2026-10-03 17:14:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約原油暗盤突破90美元，日內漲超2.2%。"
     }
   ]
 }
