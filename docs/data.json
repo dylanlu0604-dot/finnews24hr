@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-10 22:55:00",
-  "count": 10002,
+  "updated": "2026-10-10 22:58:59",
+  "count": 10003,
   "items": [
+    {
+      "id": "mkt:01a12650-ae88-7ee0-a825-1a433c608d08",
+      "time": "2026-10-10 22:56:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces said it fired interceptors at a suspicious aerial target over southern Lebanon; troops are operating."
+    },
+    {
+      "id": "5136494",
+      "time": "2026-10-10 22:54:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "微軟CEO納德拉：需要相關工具，將AI行為追蹤至具體程式碼路徑。"
+    },
     {
       "id": "5136493",
       "time": "2026-10-10 22:51:40",
@@ -91239,17 +91260,6 @@
         "國際"
       ],
       "text": "【埃及總統呼籲非洲深化經濟一體化應對全球挑戰】埃及總統塞西3日表示，面對地緣政治緊張和經濟挑戰，非洲應增強自身能力和韌性，深化經濟一體化以應對全球形勢快速變化。塞西當天在於埃及阿拉曼新城舉行的阿拉曼非洲論壇開幕式致辭中說，此次論壇旨在彌合資訊鴻溝，加強非洲企業和投資者之間的聯絡，推動落實《非洲大陸自由貿易區協定》。非洲擁有豐富的人力和自然資源，應透過加強合作推動發展和繁榮。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a10246-693c-7ee0-a790-60ab565fde56",
-      "time": "2026-10-03 22:58:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran reviewing US proposal delivered via Qatar】Iran is reviewing a new US proposal delivered via Qatar that lays out a roadmap and timetable for final nuclear talks, Iran International reported citing conservative paper New Morning. The offer is based on the Islamabad framework but seeks an earlier resumption of nuclear negotiations. Iran says the US must first meet its commitments—including sanctions relief and release of frozen funds—and Tehran’s seven principal conditions remain unchanged. Separately, Iran and Oman have made progress on talks to open a new shipping route through the Strait of Hormuz."
     }
   ]
 }

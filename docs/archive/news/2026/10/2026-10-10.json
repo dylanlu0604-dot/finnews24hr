@@ -1,7 +1,28 @@
 {
   "date": "2026-10-10",
-  "count": 1260,
+  "count": 1262,
   "items": [
+    {
+      "id": "mkt:01a12650-ae88-7ee0-a825-1a433c608d08",
+      "time": "2026-10-10 22:56:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces said it fired interceptors at a suspicious aerial target over southern Lebanon; troops are operating."
+    },
+    {
+      "id": "5136494",
+      "time": "2026-10-10 22:54:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "微軟CEO納德拉：需要相關工具，將AI行為追蹤至具體程式碼路徑。"
+    },
     {
       "id": "5136493",
       "time": "2026-10-10 22:51:40",
