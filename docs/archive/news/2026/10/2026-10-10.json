@@ -1,7 +1,31 @@
 {
   "date": "2026-10-10",
-  "count": 796,
+  "count": 799,
   "items": [
+    {
+      "id": "mkt:01a123af-c9fb-7ee0-a822-777aba61aea3",
+      "time": "2026-10-10 10:41:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Florida Division of Emergency Management says an alert covering all of North Florida is in effect for flash flooding, storm surge, damaging winds and tornado warnings."
+    },
+    {
+      "id": "5136066",
+      "time": "2026-10-10 10:41:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST聞泰在無錫成立半導體公司】企查查APP顯示，近日，聞世芯（無錫）半導體有限責任公司成立，法定代表人為楊沐，註冊資本為1000萬元，經營範圍包含：電子元器件製造；電力電子元器件製造；半導體器件專用裝置製造；積體電路晶片及產品製造等。企查查股權穿透顯示，該公司由*ST聞泰間接全資持股。"
+    },
+    {
+      "id": "mkt:01a123ae-79b5-7ee0-a822-6952740efbf9",
+      "time": "2026-10-10 10:39:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Florida Division of Emergency Management: Hurricane Isaias made landfall near Destin as a Category 2. Residents should remain sheltered in place following landfall."
+    },
     {
       "id": "mkt:01a123ad-ecd2-7ee0-a822-630193acc579",
       "time": "2026-10-10 10:39:23",
