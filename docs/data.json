@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12 06:58:08",
-  "count": 10415,
+  "updated": "2026-10-12 07:02:47",
+  "count": 10412,
   "items": [
     {
       "id": "mkt:01a12d2f-8208-7ee0-a82c-951fca7f04b5",
@@ -94871,44 +94871,6 @@
         "其他"
       ],
       "text": "【今起至假期結束我國大部晴好 總體利於外出與返程】昨天是整個國慶假期大範圍降水的最後階段。從今天起到7日，我國大部地區降水稀少，晴或多雲天氣成為主流，總體利於假期外出和返程。（央視新聞）"
-    },
-    {
-      "id": "te:economy:589314",
-      "time": "2026-10-05 07:02:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Australia Services Growth Revised Upward — The S&P Global Australia Services PMI Business Activity Index eased to 51.9 in September 2026 from 53.2 in August, but came above the preliminary estimate of 51.4. This marked a fourth straight month of expansion, although growth slowed to its weakest pace in three months as new business increased at the softest rate in the three-month growth sequence. Export business improved, with overseas demand rising for the first time in five months, albeit marginally. Employment fell for the first time since May as firms cited softer new orders and efforts to limit costs, while backlogs increased for a third consecutive month. On prices, input-cost inflation accelerated due to higher fuel, labour and other input expenses, while output price inflation also picked up as firms passed higher costs on to clients. Both measures remained above their respective long-run averages. Business confidence fell to a three-month low, with some firms expressing concerns over the economic outlook and sales."
-    },
-    {
-      "id": "te:markets:589313",
-      "time": "2026-10-05 07:02:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Trades in the Green to Start the Week — The NZX 50 advanced 41 points, or 0.3%, to 13,722 in Monday morning deals, erasing losses from the previous two sessions and moving away from its lowest level since September 15, touched in the previous session, tracking a rise on Wall Street on Friday as a weaker-than-expected jobs report eased expectations of a Fed interest rate hike. The broader index was mainly driven by the financials, real estate, and industrial sectors. However, falls in energy, consumer staples, and consumer discretionary capped the gain. Traders also anticipated the FOMC minutes later this week and continued to monitor developments in oil prices after Yemen's Saudi-backed forces announced a major operation in an effort to take all territory held by the Houthis. Among the early gainers were Port of Tauranga (2.5%), Mainfreight (1.2%), Infratil (1.4%), Ebos Group (1.1%), Auckland International Airport (1.0%), FC Investment (1.0%), and Chorus (0.6%)."
-    },
-    {
-      "id": "mkt:01a10926-fe8f-7ee0-a795-af9df3b30680",
-      "time": "2026-10-05 07:01:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "A UK union said Apache employees' strike could disrupt flows through the Forties crude oil pipeline in the North Sea."
     }
   ]
 }
