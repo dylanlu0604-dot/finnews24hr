@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-11 22:28:17",
-  "count": 10288,
+  "updated": "2026-10-11 22:32:08",
+  "count": 10290,
   "items": [
+    {
+      "id": "mkt:01a12b60-4361-7ee0-a829-eb0a041279e9",
+      "time": "2026-10-11 22:31:31",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "The Saudi-led coalition said an unidentified aerial object struck Terminal 4 at Riyadh's King Khalid International Airport."
+    },
+    {
+      "id": "5137739",
+      "time": "2026-10-11 22:31:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍表示，一枚不明射彈襲擊了利雅得哈立德國王國際機場的4號航站樓。"
+    },
+    {
+      "id": "5137738",
+      "time": "2026-10-11 22:30:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超強厄爾尼諾衝擊咖啡市場】近日，“超強厄爾尼諾已形成”的話題衝上熱搜。聯合國糧農組織報告顯示，9月糧農組織食品價格指數升至近四年來最高水平。專家指出，氣候衝擊的“重災區”集中在熱帶經濟作物， 按受影響機率依次為：可可、羅布斯塔咖啡、棕櫚油、糖。熱帶經濟作物多為多年生樹種，抗短期氣候擾動能力偏弱，價格上行，壓力也會逐步向下游食品、油脂加工行業傳導。（央視財經）"
+    },
+    {
+      "id": "5137737",
+      "time": "2026-10-11 22:28:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局訊息，巴布亞紐幾內亞潘古納東南偏南79公里處發生6.2級地震。"
+    },
     {
       "id": "5137733",
       "time": "2026-10-11 22:22:45",
@@ -93695,24 +93731,6 @@
         "國際"
       ],
       "text": "美國能源部長賴特：霍爾木茲海峽的石油供應持續增加。"
-    },
-    {
-      "id": "mkt:01a10753-f048-7ee0-a794-57eeaee36907",
-      "time": "2026-10-04 22:31:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Hassett: Disagrees with rate hike but says Fed Chair Kevin Warsh acted for the right reasons】White House National Economic Council director Kevin Hassett said it is time for Powell to go. He said he respects Fed Chair Kevin Warsh’s decision, calling Warsh’s vote to raise rates “with the people”, and added that while he disagrees with the hike he respects that Warsh acted for the right reasons."
-    },
-    {
-      "id": "5125301",
-      "time": "2026-10-04 22:29:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局訊息，巴拿馬布裡卡以南295公里處發生5.0級地震。"
     }
   ]
 }
