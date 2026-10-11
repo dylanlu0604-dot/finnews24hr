@@ -1,7 +1,39 @@
 {
   "date": "2026-10-12",
-  "count": 234,
+  "count": 238,
   "items": [
+    {
+      "id": "mkt:01a12d56-4b25-7ee0-a82c-cbc958f165e6",
+      "time": "2026-10-12 07:39:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports a U.S. judge has ordered an immediate halt to taxpayer-funded advertisements supporting Trump."
+    },
+    {
+      "id": "5138130",
+      "time": "2026-10-12 07:38:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國萬噸級深遠海工程綜合勘測船完成技術研發】11日從中交公路規劃設計院有限公司獲悉，由該院牽頭研發的中交集團特大研發專案“基於北斗的深遠海智慧綜合勘測系統研發及應用（二期）”第一階段研究成果順利透過專家組評審。這標誌著我國萬噸級深遠海工程綜合勘測船已順利完成技術研發，為下一階段的建造打下堅實基礎。（科技日報）"
+    },
+    {
+      "id": "5138129",
+      "time": "2026-10-12 07:37:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【提醒】今日日本股市因公共假期休市一日。"
+    },
+    {
+      "id": "mkt:01a12d53-d2f9-7ee0-a82c-c38b9579ff43",
+      "time": "2026-10-12 07:37:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New Zealand governing National Party says now is not the time for tax cuts】New Zealand's governing National Party said high debt and budget deficits make now the wrong time for tax cuts. Finance spokeswoman Nicola Willis said the immediate priority is reducing debt and investing in frontline services, especially health and infrastructure. The party's policy paper says tax cuts will be considered only once finances return to surplus and surpluses are increasing; the current focus is achieving a fiscal surplus and lowering debt."
+    },
     {
       "id": "5138128",
       "time": "2026-10-12 07:34:35",
