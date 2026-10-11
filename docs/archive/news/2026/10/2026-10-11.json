@@ -1,7 +1,19 @@
 {
   "date": "2026-10-11",
-  "count": 435,
+  "count": 436,
   "items": [
+    {
+      "id": "mkt:01a129db-d177-7ee0-a828-345f3cf16ec2",
+      "time": "2026-10-11 15:27:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi militants in Yemen said their warnings \"should be taken seriously\" and that Saudi Arabia \"bears responsibility for the failed interception\"."
+    },
     {
       "id": "5137470",
       "time": "2026-10-11 15:25:48",
