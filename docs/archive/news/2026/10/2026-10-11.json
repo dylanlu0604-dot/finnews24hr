@@ -1,7 +1,1183 @@
 {
   "date": "2026-10-11",
-  "count": 292,
+  "count": 430,
   "items": [
+    {
+      "id": "5137466",
+      "time": "2026-10-11 15:15:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科億智慧AI視覺檢測裝備擴產專案在合肥開建】10月11日，據合肥高新區管委會訊息，安徽科億智慧科技股份有限公司（以下簡稱“科億智慧”）增資擴產專案已於近日開工建設。專案位於春桃路與雲竹路交口，總投資約3億元，佔地約33畝，總建築面積約3.4萬平方米，將重點建設研發與生產載體，擴大AI檢測裝備產能，預計2027年7月竣工。"
+    },
+    {
+      "id": "mkt:01a129cb-ee07-7ee0-a828-21cd26843402",
+      "time": "2026-10-11 15:09:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Middle Eastern equities opened lower; Qatar's benchmark index fell 1% in early trade."
+    },
+    {
+      "id": "5137465",
+      "time": "2026-10-11 15:09:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "卡達股指早盤下跌1%。"
+    },
+    {
+      "id": "mkt:01a129cb-491f-7ee0-a828-1c0d6f8a7385",
+      "time": "2026-10-11 15:09:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Saudi Ministry of Energy said the 25th World Petroleum Congress will begin on Sunday in Riyadh."
+    },
+    {
+      "id": "5137464",
+      "time": "2026-10-11 15:07:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特能源部表示，第25屆世界石油理事會能源大會週日於利雅得開幕。"
+    },
+    {
+      "id": "5137463",
+      "time": "2026-10-11 15:06:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "沙特基礎工業公司（SABIC）旗下沙特凱揚公司（Saudi Kayan）股價早盤下跌1.7%。"
+    },
+    {
+      "id": "5137462",
+      "time": "2026-10-11 15:02:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【陳茂波：皇崗口岸促港深通關便利】香港特區政府財政司司長陳茂波11日發表網誌表示，香港正全面加強“內聯外通”。皇崗口岸將正式啟用，這對經常往返港深兩地的市民、商務人士和旅客來說十分便利。同時，亞太經合組織（APEC）財政部長會議將在港舉行，更凸顯國家對香港的厚愛。（新華社）"
+    },
+    {
+      "id": "mkt:01a129c4-55ff-7ee0-a828-15a18d1dc474",
+      "time": "2026-10-11 15:01:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China corporate credit index edges up in August】China’s corporate credit index rose to 161.32 in August, up 2.45 points MoM, the State Administration for Market Regulation said. Operational and regulatory subindices drove the improvement; new entries to the abnormal-operations list fell sharply while removals increased and the share of high-credit-risk firms declined, supporting a stabilization and rebound in overall credit. Top five sectors by index were financials, manufacturing, water/environment and public facilities management, utilities (power/heat/gas/water), and transportation/warehousing/postal; manufacturing, transport/warehousing/postal and wholesale & retail posted the fastest MoM gains, with manufacturing at its highest rank this year."
+    },
+    {
+      "id": "5137461",
+      "time": "2026-10-11 15:01:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙烏地阿拉伯基準股指在早盤交易中下跌1%，沙特國家銀行股價早盤下跌1.6%。"
+    },
+    {
+      "id": "5137460",
+      "time": "2026-10-11 15:01:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【今年8月全國企業信用水平穩步回升】記者今天（11日）從市場監管總局瞭解到，今年8月中國企業信用指數為161.32，較7月上升2.45點。與上月相比，經營性分指標與監管性分指標升幅較高，新列入經營異常名錄數量明顯減少，新移出經營異常名錄數量大幅增多，信用風險較高企業佔比降低，推動整體信用水平企穩回升。（央視）"
+    },
+    {
+      "id": "mkt:01a129c3-8ae2-7ee0-a828-0d9e4dbcbf5f",
+      "time": "2026-10-11 15:00:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Saudi Arabia's benchmark stock index fell 1% in early trading."
+    },
+    {
+      "id": "5137459",
+      "time": "2026-10-11 14:51:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沃爾瑪深圳福田KK ONE店開業】10月11日，沃爾瑪深圳福田KK ONE店開業，新店位於深圳福田區KK ONE購物中心負一層。這是沃爾瑪在深圳的第49家門店，也是此店型在深圳的首個新店，是繼成都溫江新光天地店、南寧東盟盛天地店之後，沃爾瑪在一個月內開出的第三家新一代門店。"
+    },
+    {
+      "id": "5137458",
+      "time": "2026-10-11 14:36:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《2026AI+高階製造產業應用圖譜》釋出在即】《2026AI+高階製造產業應用圖譜》10月12日下午將作為2026中國國際工業博覽會期間的重要產業成果，在“工業具身·智造無界”2026工業具身智慧產業創新高峰論壇上正式釋出。"
+    },
+    {
+      "id": "mkt:01a129aa-372a-7ee0-a828-060fa94192a6",
+      "time": "2026-10-11 14:33:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's industrial production fell 23.5% YoY in August."
+    },
+    {
+      "id": "5137457",
+      "time": "2026-10-11 14:31:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "蔚來：截至目前，廣東蔚來換電站累計換電服務已突破1700萬次，佔全國換電總量約13%。2026年1-8月，蔚來公司廣東市場銷量高速增長，同比增長76.3%。"
+    },
+    {
+      "id": "5137456",
+      "time": "2026-10-11 14:30:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯8月份工業生產同比下降23.5%。"
+    },
+    {
+      "id": "5137455",
+      "time": "2026-10-11 14:29:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機票價格明顯回落、住宿折扣加大 節後錯峰出遊持續升溫】金秋十月，旅遊市場打出“高價效比”組合拳。線上旅遊平臺資料顯示，截至目前，熱門城市機票平均支付價格較國慶假期降低超三成。從北京、上海、廣州等主要客源地出發，不少假期熱門方向的機票已降至兩三百元區間。10月中下旬至11月的機票預訂量隨之明顯增長。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a129a2-9de2-7ee0-a827-fe11d01bcd3c",
+      "time": "2026-10-11 14:24:45",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Riyadh schools move online 11-15 after airport attack】On the 11th local time the Saudi Ministry of Education ordered all schools in Riyadh to switch to online learning from the 11th through the 15th. The Saudi civil aviation authority said in an early-morning statement on the 11th that Riyadh International Airport was attacked on the 10th, causing 12 deaths and 309 injuries."
+    },
+    {
+      "id": "5137454",
+      "time": "2026-10-11 14:21:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【仿冒光伏元件低價搶海外市場？上海海關前9月攔截16起，價值超500萬】據上海海關10日釋出的資料，1月至9月，上海海關所屬上海外高橋港區海關、洋山海關等口岸一線部門，累計查發涉嫌侵權光伏產品案16起，價值合計500餘萬元。"
+    },
+    {
+      "id": "5137453",
+      "time": "2026-10-11 14:16:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普在白宮被問及“美國是否計劃加入沙特對胡塞武裝的打擊行動”時表示：“我們可能會。我們會考慮的。我們剛剛才得知最近的這次襲擊。”\n2、特朗普當地時間10日表示“烏克蘭應該換個總統”，暗示烏總統澤連斯基在結束俄烏衝突方面做得不夠，同時指責澤連斯基導致美國柴油價格上漲。\n3、據以色列第13頻道電視臺報道，美國總統特朗普與以色列總理內塔尼亞胡近期“就美以可能再對伊朗發動軍事打擊一事進行了頻繁、緊急溝通”。\n4、特朗普對記者表示，他將與沙特王儲穆罕默德·本·薩勒曼“進行對話”，並補充稱“沙烏地阿拉伯遭遇的事情是不可接受的”。\n5、特朗普聲稱，“這場歷時近七個月的軍事行動已永久阻止伊朗獲取核武器”，在這場衝突中陣亡的18名美軍將士“沒有白白犧牲”。\n6、特朗普宣佈任命Katie Bailey擔任立法事務辦公室主任。\n7、在受到共和黨人強烈反對後，美國總統特朗普當地時間10日表示，他將“最終決定”是否對美軍胡德堡基地槍擊案罪犯尼達爾·哈桑槍決過程進行直播。"
+    },
+    {
+      "id": "te:economy:590973",
+      "time": "2026-10-11 14:15:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Saudi Arabia Industrial Output Slumps 23.5% in August — Industrial production in Saudi Arabia plunged 23.5% year-on-year in August 2026, following an upwardly revised 8.3% drop in the previous month. The oil sector slumped 33.66% after an 11.4% drop in July, largely reflecting steeper declines in both the extraction of crude petroleum and natural gas (-35.8% vs. -10.9%) and the output of coke and refined petroleum products (-24.1% vs. -13.6%). However, the decline was partly offset by faster growth in output in other economic activities (5.1% vs 3.4%), with electricity, gas, steam, and air-conditioning supply growing much faster than in July (9.4% vs 4.5%), while water supply, sewerage, waste management, and remediation activities rose more slowly (7.4% vs. 7.8%). The decline was also offset by a rebound in output in non-oil activities (1.2% vs -0.3%), though the manufacturing sector edged down 0.3%. On a monthly basis, industrial output fell 14.0% in August, reversing sharply from a downwardly revised 10.0% increase in July."
+    },
+    {
+      "id": "5137452",
+      "time": "2026-10-11 14:14:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特利雅得所有學校11至15日改為線上學習】當地時間11日，沙特教育部要求首都利雅得所有學校11日至15日改為線上學習。沙烏地阿拉伯民航部門11日凌晨釋出宣告說，首都利雅得的國際機場10日遭襲造成12人死亡、309人受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a12994-4cf8-7ee0-a827-f5f527811d73",
+      "time": "2026-10-11 14:09:07",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said it shot down 479 Ukrainian drones overnight."
+    },
+    {
+      "id": "mkt:01a1298e-2583-7ee0-a827-e935665677f9",
+      "time": "2026-10-11 14:02:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Extremely dangerous Hurricane Simon is approaching Mexico's west-central coast."
+    },
+    {
+      "id": "mkt:01a1298d-fb5f-7ee0-a827-e50a05092d8f",
+      "time": "2026-10-11 14:02:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "World Bank President Banga: initial impact of the Middle East war not as severe as feared, but pressure is mounting again."
+    },
+    {
+      "id": "mkt:01a1298d-9d84-7ee0-a827-df8bd4ef91be",
+      "time": "2026-10-11 14:01:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "World Bank President Banga said more must be done to attract private capital into smaller, fragile or conflict-affected countries."
+    },
+    {
+      "id": "mkt:01a1298d-4d40-7ee0-a827-d45d4b77ece4",
+      "time": "2026-10-11 14:01:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANGA says the WBG is in talks with 30–40 countries on crisis assistance related to the Middle East war."
+    },
+    {
+      "id": "mkt:01a1298d-2ac7-7ee0-a827-ca105d7576fc",
+      "time": "2026-10-11 14:01:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG President Banga said if this year’s super El Nifio causes significant adverse impacts, the bank stands ready to assist affected countries."
+    },
+    {
+      "id": "mkt:01a1298c-fc18-7ee0-a827-c079a386f55f",
+      "time": "2026-10-11 14:01:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Heavy rain expected tonight across parts of California and the U.S. Southwest."
+    },
+    {
+      "id": "mkt:01a1298c-e986-7ee0-a827-b88e5bf862d0",
+      "time": "2026-10-11 14:01:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANGA: WBG is advancing 14 or 15 debt-for-development swap projects to replace high-cost legacy debt."
+    },
+    {
+      "id": "5137451",
+      "time": "2026-10-11 14:00:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行行長班加預計，在吸引更多私人資本用於發展專案方面將取得進一步穩步進展。"
+    },
+    {
+      "id": "5137450",
+      "time": "2026-10-11 14:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行行長班加表示，需要採取更多措施吸引私人資本流向規模較小、更為脆弱或受衝突影響的國家。"
+    },
+    {
+      "id": "5137449",
+      "time": "2026-10-11 14:00:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界銀行行長班加表示，世行正與30至40個國家就與中東戰爭相關的危機援助進行對話。"
+    },
+    {
+      "id": "5137448",
+      "time": "2026-10-11 14:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行隨時準備協助各國應對今年超級厄爾尼諾現象可能帶來的重大負面影響。"
+    },
+    {
+      "id": "5137447",
+      "time": "2026-10-11 14:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "班加表示，世界銀行目前有14至15筆債務換髮展交易正在籌備中，用於置換成本更高的舊債務。"
+    },
+    {
+      "id": "5137446",
+      "time": "2026-10-11 14:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "世界銀行行長班加表示，中東戰爭的初始影響沒有原先擔心的那般嚴重，但目前壓力正在再次上升。"
+    },
+    {
+      "id": "5137445",
+      "time": "2026-10-11 13:56:28",
+      "tags": [
+        "公司",
+        "焦點",
+        "原創"
+      ],
+      "text": "【獨家 | 螞蟻“靈光”開啟小範圍內測，新版對標“Meta Muse”】新浪科技獨家獲悉，螞蟻集團旗下AI產品“靈光”已於近日開啟新版本的小範圍內測，新版對標“Meta Muse”。\n公開資訊顯示，今年9月，Meta推出個人智慧體Muse。該智慧體可介入使用者日常生活，並持續跟進使用者交待的事宜。\n接近專案人士透露，靈光相關方向約半年前已開始籌備，期間迭代多個版本，計劃本月全面開放。\n該人士還透露，此次升級的核心，是靈光從能聊天、能生成應用的AI助手，轉向擁有長期記憶、可主動推進任務的AI原生個人智慧體。靈光新版本還能透過呼叫Skill和MCP，實現釘釘發資訊、呼叫智慧家居裝置等功能。\n據悉，靈光2.0的內測用例集中在長程、變數多、普通人難盯住的場景，例如幫上班族跟蹤市場異動、幫家長管理釘釘打卡、旅行中遇航班延誤或景區限流重排路線等。（新浪科技）"
+    },
+    {
+      "id": "5137444",
+      "time": "2026-10-11 13:52:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科研團隊發現並命名鯉科魚類首個性別決定基因，命名“盤古”】記者從上海海洋大學獲悉，經過十多年的探索研究，上海海洋大學胡煒教授團隊與中國科學院水生生物研究所等單位開展合作，以鯉科代表物種黃河鯉為物件，發現了鯉科魚類的首個性別決定主效基因，這是一個此前未見任何研究報道的新基因。為此，團隊以中國古代神話中體現雄性力量的代表和開天闢地起始功能的“盤古（pangu）”命名該新基因，寓意其在決定魚類雄性發生、開啟雌雄發育命運的關鍵功能。（澎湃）"
+    },
+    {
+      "id": "5137443",
+      "time": "2026-10-11 13:51:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國個人資訊洩露事件持續蔓延 AI應用加劇風險】韓國金融界遭駭客攻擊引發的個人資訊洩露事件正蔓延至公共企業、高校、大型教會等多個領域。人工智慧（AI）的普及導致駭客攻擊的速度加快，範圍加大，加劇風險。據金融行業和網路安全行業11日訊息，從上月底至本月初，新韓銀行、KB銀行、韓亞銀行等7家金融公司被黑，導致資訊外洩。其中，新韓銀行受害規模最大，約2.5萬名客戶資訊被洩。個人資訊洩露事件已不僅限於金融機構，正蔓延至國營企業和各大高校。韓國電力公社約2.4萬名員工的姓名、所屬部門、電話號碼等被洩露至外部網頁。"
+    },
+    {
+      "id": "5137442",
+      "time": "2026-10-11 13:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄主要搜尋引擎服務商資料中心再次遭襲】俄羅斯主要搜尋引擎央捷科斯（Yandex）10月11日在社交平臺通報，其在弗拉基米爾市一處資料中心的基礎設施因無人機襲擊受損，無人員傷亡。該中心執行已停止。俄羅斯弗拉基米爾州州長阿夫傑耶夫當天通報，該州弗拉基米爾市郊基礎設施遭無人機襲擊起火，2座為5000名居民供電的變電站斷電。目前暫無人員傷亡報告。（央視新聞）"
+    },
+    {
+      "id": "5137441",
+      "time": "2026-10-11 13:50:43",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【財信證券袁闖：證監會座談會釋放積極訊號 市場底部支撐有力】財信證券首席經濟學家、研究發展中心總經理袁闖認為，證監會座談會釋放積極訊號，A股中長期向好趨勢沒有改變。10月9日，A股市場呈現“V型”走勢，午後多隻寬基ETF大幅放量，帶動大盤指數觸底回升。袁闖表示，市場底部獲得有力支撐。短期看，中證1000IV在7月中下旬一度攀升至45.36點，當前為24.80點，市場情緒未出現明顯恐慌，預計後續反彈幅度將較8月份更為溫和。中期看，袁闖認為，經過數月低位震盪整理，A股對AI產業趨勢放緩擔憂、國際油價高企、美債收益率攀升、美聯儲重啟加息週期等利空因素已反映較為充分，萬得全A指數仍表現出一定韌性。在基準情形下，預計10月至11月A股有望逐步企穩，國內增量政策集中出臺或將成為市場走出震盪區間的關鍵。（中證金牛座）"
+    },
+    {
+      "id": "mkt:01a12980-9e5a-7ee0-a827-b76d329d205e",
+      "time": "2026-10-11 13:47:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【2026 Canton Fair design innovation awards announced; Zhang Xue 820RR locomotive wins Supreme Gold】China Foreign Trade Center said the 2026 Canton Fair Design Innovation Awards (CF Award) list was published, with 222 product awards across 174 companies. Zhang Xue’s 820RR locomotive won a CF Award Supreme Gold; the other Supreme Gold went to the ZhiXun capsule-robot gastric endoscope system."
+    },
+    {
+      "id": "5137440",
+      "time": "2026-10-11 13:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026廣交會設計創新獎公佈 張雪機車獲至尊金獎】記者從中國對外貿易中心瞭解到，2026年廣交會設計創新獎（簡稱“CF獎”）名單已公佈，共有174家企業的222件產品獲獎，其中，張雪機車820RR獲廣交會CF獎至尊金獎，另一款獲至尊金獎的產品是智巡膠囊機器人胃內窺鏡系統。（央視新聞）"
+    },
+    {
+      "id": "5137439",
+      "time": "2026-10-11 13:46:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【下週小鵬集團將攜物理AI全品類產品亮相巴黎車展】小鵬汽車宣佈，下週，小鵬集團將攜物理 AI 全品類產品亮相巴黎車展。 屆時將展出小鵬 G9L、MONA L03、小鵬 P7+、小鵬 G6、小鵬 G9、小鵬 X9 車型，以及陸地航母、IRON 機器人。新科技旗艦小鵬 G9L 也將迎來海外公開亮相及全球上市。 小鵬還將與特斯拉同臺參與本屆巴黎車展官方舉辦的“智駕實驗室”公開體驗活動，這也是小鵬圖靈 AI 智駕首次在歐洲面向公眾大規模開放體驗。"
+    },
+    {
+      "id": "5137438",
+      "time": "2026-10-11 13:46:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【本週港股通成交活躍股淨買入排行出爐】據證券時報·資料寶統計，本週南向資金合計兩個交易日成交淨買入67.68億港元，連續七週為淨買入。從成交淨買入金額來看，本週南向資金對網際網路巨頭以買入為主，騰訊控股獲淨買入21.93億港元，阿里巴巴-W獲淨買入4.66億港元；小米集團-W遭淨賣出4.89億港元，長飛光纖光纜、中芯國際分別被淨賣出9.86億港元、6.67億港元。"
+    },
+    {
+      "id": "5137437",
+      "time": "2026-10-11 13:44:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【利太智藥完成近5000萬元種子輪融資】10月10日，利太智藥宣佈已完成近5000萬元種子輪融資。本輪融資由訊飛創投、L2F光源創業者基金及知名產業方聯合投資，光源資本擔任獨家財務顧問。本輪資金將主要用於核心管線研發、算力投入、專利佈局、人才招募及日常運營。"
+    },
+    {
+      "id": "mkt:01a1297d-4726-7ee0-a827-ab0e34cf3f5b",
+      "time": "2026-10-11 13:43:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Russian Defence Ministry says drones struck Ukrainian data center in Odesa】The Russian Defence Ministry said on Oct. 11 that Russian drones in the early hours struck a Ukrainian military data center in Odesa used to process, transmit and store information, and hit a cargo ship carrying military supplies at the port of Chernomorsk."
+    },
+    {
+      "id": "5137436",
+      "time": "2026-10-11 13:43:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱擊中烏克蘭南部一資料中心】俄羅斯國防部10月11日通報，俄軍無人機當天凌晨擊中烏克蘭南部敖德薩市1處烏軍用於處理、傳輸和儲存資訊的資料中心以及切爾諾莫爾斯克港1艘運送軍用物資的貨船。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1297a-5f61-7ee0-a827-a57dd8bce54a",
+      "time": "2026-10-11 13:40:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait Peninsula Airlines said its flights to Riyadh were affected after King Khalid International Airport suspended operations."
+    },
+    {
+      "id": "5137435",
+      "time": "2026-10-11 13:40:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克親自演示用Grok網購】馬斯克：我剛剛讓Grok去查詢最適合低齡小朋友、趣味性最高的樂高星球大戰套裝，並且直接下單。就這麼簡單。（馬斯克釋出的截圖顯示，Grok稱樂高訂單提交成功，已使用美國運通卡支付，收據會傳送到郵箱，商品發貨後會同步物流單號。）"
+    },
+    {
+      "id": "5137434",
+      "time": "2026-10-11 13:39:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特Jazeera Airways在一份宣告中表示，利雅得航班受哈立德國王國際機場運營臨時暫停的影響。"
+    },
+    {
+      "id": "5137433",
+      "time": "2026-10-11 13:39:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商蛇口合肥公司專案經理張彪接受審查調查】據“清風合肥”微信公眾號訊息，招商局蛇口工業區控股股份有限公司合肥公司專案經理張彪涉嫌嚴重違紀違法，目前正接受招商局蛇口工業區控股股份有限公司紀委紀律審查；經合肥市監委指定管轄，接受合肥市廬陽區監委監察調查。"
+    },
+    {
+      "id": "5137432",
+      "time": "2026-10-11 13:38:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海鏈家“誠意賣”成交破100單，平均成交週期縮短至8天】10月11日，上海鏈家披露，自9月16號上新至今三週，全新服務“誠意賣”成交突破100單。成交房源中，近四分之一此前掛牌超過90天，平均掛牌天數達63天；而透過“誠意賣”成交後，平均成交週期縮短至8天左右。而中指研究院資料顯示，2025年上海全市二手房平均成交週期約為102天。“誠意賣”將二手房交易中最耗時的談價環節進行標準化改造：業主設定起始價、可談價和心理底價三個價格層級；買賣方各繳納5萬元保證金至第三方監管賬戶；買家最多出價兩次，達到底價即自動鎖定成交。該服務在置換、異地賣房型兩類需求上表現突出。一位掛牌超一年的置換業主，進入“誠意賣”後4天成交；而異地業主則可全流程線上操作完成簽約。（澎湃）"
+    },
+    {
+      "id": "5137431",
+      "time": "2026-10-11 13:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息稱蘋果計劃與美國最大家庭安防企業 ADT 合作，首款智慧家居中樞下週到來】蘋果“Welcome home（歡迎回家）”釋出會定檔美國東部時間 10 月 13 日上午 9 點（北京時間 10 月 13 日晚 9 點），有望推出首款智慧家居中樞產品。隨著釋出會的臨近，更多訊息被爆料出來。報道稱，根據多條線索，蘋果可能計劃與美國最大家庭安防企業 ADT 建立新合作關係，同時推出其全新智慧家居中樞。蘋果邀請媒體於 10 月 13 日前往紐約參加“歡迎回家”釋出會，並宣佈合作關係。"
+    },
+    {
+      "id": "5137430",
+      "time": "2026-10-11 13:33:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小米汽車副總裁李肖爽回顧澎程座椅滑軌拉礦卡挑戰，重申“安全高於一切”】小米汽車副總裁李肖爽今日釋出影片，回顧了小米澎程的座椅滑軌拉礦卡挑戰。他重申：“安全高於一切。”"
+    },
+    {
+      "id": "mkt:01a12973-61fa-7ee0-a827-9d65d0bbcb72",
+      "time": "2026-10-11 13:33:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Calls for Indian election chief to resign intensify as protesters clash with police】New Delhi prepared for a second day of youth protests on Sunday as demonstrators demanded the resignation of the Indian election chief. A court ordered the release of 'Cockroach' movement founder Deepak and two other senior leaders who were detained on arrival Saturday; 'Cockroach People's Party' lawyer Rattan Singh said they were released on the condition they refrain from disturbing the peace for one year. Police detained more than 2,000 people and sealed central Delhi to thwart a planned gathering of thousands at Jantar Mantar. Mobile internet and metro services were restored, but thousands of police and paramilitary personnel remained deployed across the city. Authorities said most people detained on the first day were released late Saturday."
+    },
+    {
+      "id": "5137429",
+      "time": "2026-10-11 13:20:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "據阿拉伯電視臺週日援引軍方訊息人士的話報道，戰機加大了對塔伊茲市東西部胡塞武裝陣地、增援部隊以及通往該市各條道路的打擊力度。"
+    },
+    {
+      "id": "5137428",
+      "time": "2026-10-11 13:19:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東風日產副總經理王騫：新能源賽道拼速度更要拼長跑，不做速成車】10月11日，東風日產汽車銷售有限公司副總經理王騫今日在微博發文稱，市場對車輛品質的關注度越來越高，新能源賽道“拼速度更要拼長跑實力”。王騫表示，東風日產新能源堅持合資體系的完整驗證標準，“不做速成車”，將全球製造積累應用到每一臺N序列車型上，透過產品體驗與嚴苛測試落實品質要求。 服務方面，王騫稱，東風日產配套推出“三無憂”服務，覆蓋三電、小修出險及長途出行等用車環節，為使用者提供保障。此次發文未披露該服務的具體適用車型、保障期限及使用條件。 王騫還表示，品質需要在展廳、試駕和售後環節得到體現。東風日產將與全國門店夥伴共同推進，將品質優勢轉化為終端競爭力，讓更多家庭買車放心、用車無憂。"
+    },
+    {
+      "id": "5137427",
+      "time": "2026-10-11 13:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【丘成桐說AI發展數學家不能缺席】10月11日，丘成桐數學與人工智慧實驗室聯盟成立儀式在清華大學求真書院舉行。聯盟由清華大學講席教授、求真書院院長丘成桐發起，聯合多家數學科研機構，匯聚國內數學與人工智慧領域的科研力量，推動數學研究與人工智慧深度融合。丘成桐在現場呼籲，組織更多數學家共同參與人工智慧研究，提升人工智慧的數學推理能力。  丘成桐在致辭中表示，當前既是令學者興奮的時代，也是充滿挑戰的時代。人工智慧快速發展，正給數學及其他基礎學科帶來巨大沖擊，其影響之深、變化之快，是他多年來從事科研工作未曾遇到過的。如何正確認識和應對人工智慧帶來的變化，對我國基礎科學發展至關重要。   （北京日報）"
+    },
+    {
+      "id": "5137426",
+      "time": "2026-10-11 13:12:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【ASML零部件價格全線上調10%，三星SK海力士接受漲價】據報道，ASML總部於上月初透過韓國法人向三星和SK海力士發出漲價通知，經雙方採購部門協商後確認。此次漲價覆蓋EUV與DUV光刻機的全部零部件，包括定期採購的消耗性部件，以及因故障或效能下降而需更換的核心元件，涉及光學系統、光源、精密驅動裝置等。"
+    },
+    {
+      "id": "5137425",
+      "time": "2026-10-11 13:09:53",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：到2027年美國資料中心增長前景大體不變】儘管美國地方社群與政界的抵制聲浪不斷加劇，但人工智慧相關需求持續支撐新增算力供給，並未實質性放緩美國資料中心的擴張節奏。高盛表示，更新後的預測仍顯示行業到2027年將保持強勁增長，僅在2026、2027兩年的預測值之間小幅調整。高盛將2026年美國資料中心容量預測上調5吉瓦至64吉瓦，同時把2027年的預測下調5吉瓦至90吉瓦。"
+    },
+    {
+      "id": "5137424",
+      "time": "2026-10-11 13:08:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【睿質科技完成首輪數千萬元融資】10月11日，據中關村資本訊息，睿質科技完成首輪數千萬元融資。本輪融資由中關村資本領投，中關村科學城公司跟投。本輪融資將主要用於核心團隊建設、科研智慧體工作平臺與工業級跨尺度智慧計算引擎的持續迭代、自動化實驗驗證體系建設，以及產業應用場景的進一步拓展與落地。"
+    },
+    {
+      "id": "5137423",
+      "time": "2026-10-11 13:03:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【數學家AI炒股做市一年大賺超640億元】據《星期日泰晤士報》最新發布的2026英國富豪榜，被業內稱為“數學家”的亞歷克斯·格爾科排在第八，今年46歲，成為英國前十的富豪。他透過其旗下平臺炒股、做市，讓自己的總資產超過了160億英鎊（約合人民幣1417.40億元），較2025年財富暴漲72.61億英鎊（約合人民幣642.99億元）。"
+    },
+    {
+      "id": "5137422",
+      "time": "2026-10-11 13:02:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【蘋果透過反向人才收購拿下Huxe】蘋果在歐盟《數字市場法案》案件資料庫網站披露，其已達成協議，將吸納個性化音訊初創公司Huxe的團隊成員與相關技術，這筆交易屬於業內常說的反向人才收購（reverse acqui‑hire）。 據報道，蘋果向歐盟委員會報備稱，同意向“Huxe AI的部分員工”發出錄用邀約，同時“獲得Huxe智慧財產權的非獨佔許可授權”。 Huxe的創始團隊此前供職於谷歌NotebookLM專案（該產品近期已更名為Gemini Notebook）。Huxe在5月21日宣佈關停業務；團隊在官網huxe.com發文表示，會將應用從蘋果、谷歌應用商店下架，停止服務並刪除全部使用者資料。"
+    },
+    {
+      "id": "mkt:01a12957-382f-7ee0-a827-91b79e311008",
+      "time": "2026-10-11 13:02:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UN rights office raises concern over New Delhi protest detentions; India rebukes】The UN Office of the High Commissioner for Human Rights (OHCHR) on Saturday expressed concern about detentions before and after large protests in New Delhi, urging Indian authorities to fully protect the right to peaceful assembly and to immediately release anyone arbitrarily detained. India’s Ministry of External Affairs said the right to peaceful assembly is guaranteed by the constitution and upheld by robust institutions, an independent judiciary and a free press, and that assemblies are exercised subject to public order and security; it called the OHCHR’s concerns unfounded and an unacceptable interference in India’s internal affairs."
+    },
+    {
+      "id": "mkt:01a12953-794c-7ee0-a827-8bdea319ea63",
+      "time": "2026-10-11 12:58:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-5.7 earthquake offshore West Java; no tsunami risk】The Indonesian Agency for Meteorology, Climatology and Geophysics (BMKG) said a magnitude-5.7 earthquake struck at 10:30 local time on Oct. 11 about 193 km southwest of Sukabumi, West Java, at a depth of 10 km; there is no tsunami risk."
+    },
+    {
+      "id": "5137419",
+      "time": "2026-10-11 12:56:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼西爪哇省附近海域發生5.7級地震 暫無海嘯風險】據印尼氣象、氣候和地球物理局訊息，當地時間10月11日10時30分，印尼西爪哇省蘇加武眉西南193公里處海域發生5.7級地震，震源深度為10公里。本次地震暫無海嘯風險。（央視新聞）"
+    },
+    {
+      "id": "5137418",
+      "time": "2026-10-11 12:50:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國產汽車出海通道+1！“南京—歐洲”新航線開通】今天（10月11日）上午，裝載1530臺國產新能源汽車的大型滾裝船“廣榮”輪從南京港啟航，駛向西班牙巴塞羅那港、比利時澤布呂赫港，標誌著“南京—歐洲”外貿滾裝新航線正式開通，為國產汽車出海新增一條江海直達通道。本次首航的“廣榮”輪是新一代甲醇雙燃料動力滾裝船，船長199.9米，擁有7800個標準艙位，也是目前靠泊南京港的最大尺度滾裝船舶。（央視新聞）"
+    },
+    {
+      "id": "5137417",
+      "time": "2026-10-11 12:48:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南省政府與中交集團簽署“十五五”戰略合作協議 沈曉明見證簽約 毛偉明宋海良座談】10月9日中午，湖南省政府與中國交通建設集團有限公司在長沙簽署“十五五”戰略合作協議。雙方深入貫徹習近平總書記關於湖南工作的重要講話和指示批示精神，攜手推動基礎設施提質增效，共促產業綠色轉型升級，共建校企聯動創新平臺，助力湖南經濟社會高質量發展。省委書記沈曉明見證簽約，省委副書記、省長毛偉明與中交集團黨委書記、董事長宋海良座談。（湖南國資）"
+    },
+    {
+      "id": "mkt:01a12942-be74-7ee0-a827-84e0d2278e78",
+      "time": "2026-10-11 12:40:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian consulate in Dubai says all 22 Indian crew were rescued unharmed after a vessel incident off the coast of Ras Al Khaimah, UAE."
+    },
+    {
+      "id": "5137416",
+      "time": "2026-10-11 12:39:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：阿聯酋哈伊馬角海岸外船隻遇險事件中，22名印度籍船員全部獲救且平安。"
+    },
+    {
+      "id": "5137415",
+      "time": "2026-10-11 12:37:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐約肯尼迪國際機場：美國海關及邊境保衛局系統已恢復正常執行。"
+    },
+    {
+      "id": "5137414",
+      "time": "2026-10-11 12:35:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省政府召開全省投資工作推進會議】10月10日，江蘇省政府召開全省投資工作推進會議，省委常委、省政府黨組副書記張文兵出席並講話。會議要求，準確把握當前投資的積極因素，更大力度抓好產業專案投資，積極推進增資擴產，持續提升招商工作質效，完善省市縣重大專案服務機制。要加力推進“六張網”規劃建設，加強專案謀劃，動態更新專案庫，完善社會資本參與機制，推動專案加快落地見效。要用足用好各項政策性資金，加快已獲批資金的支付使用，更大力度爭取政策性資金支援。要提速推進重大專案建設，狠抓專案開工、建設全過程，推動形成更多實物工作量。要充分激發民間投資潛能，有效拓展民間投資渠道，持續最佳化民間投資專案的服務保障。（新華日報）"
+    },
+    {
+      "id": "5137413",
+      "time": "2026-10-11 12:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【二連浩特片區首列寬軌直達班列開行】10月10日，在內蒙古二連浩特市二連車站，一列滿載半焦炭的蒙方寬軌直達班列緩緩駛出，開往蒙古國烏蘭巴托巴彥站。這標誌著中國（內蒙古）自由貿易試驗區二連浩特片區物流創新產品正式落地。（央視新聞）"
+    },
+    {
+      "id": "5137412",
+      "time": "2026-10-11 12:33:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劉小濤主持召開第十期政企懇談會 打造現代物流體系 更好服務實體經濟】10月9日，江蘇省長劉小濤主持召開今年第十期政企懇談會，深入學習貫徹習近平總書記關於現代物流業發展的重要論述，圍繞加快構建現代物流體系、推動產業高質量發展聽取相關企業和行業協會意見建議。會上，南京港龍潭集裝箱物流公司、無錫空港物流公司、中儲智運科技公司、中聯即送網路科技公司、飛力達國際物流公司、好三由資訊科技公司、皋德食材公司等企業及省物流產業促進會負責人發言。大家表示，當前江蘇物流樞紐網路加快成型、行業數智化轉型加速，將以智慧化、綠色化、融合化引領物流業發展，助力全省打造更低成本、更高效率的現代物流體系。省有關部門單位和設區市認真回應企業訴求關切，表示將加快集疏運體系建設，深化拓展“人工智慧+”應用場景，持續提升物流樞紐承載能級與輻射能力，推動物流企業提質增效，更好服務實體經濟高質量發展。（新華日報）"
+    },
+    {
+      "id": "mkt:01a1293c-7556-7ee0-a827-7c9aeb76c5f1",
+      "time": "2026-10-11 12:33:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lawyer for Indian \"Cockroach\" movement leader Dipak said he has been released."
+    },
+    {
+      "id": "5137411",
+      "time": "2026-10-11 12:27:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三亞機場恢復兩條國際航線】10月10日起，海南控股旗下三亞鳳凰國際機場（簡稱三亞機場）恢復柬埔寨航空執飛的“金邊⇌三亞⇌新加坡”第五航權客運航線，以及峇迪航空執飛的“三亞⇌吉隆坡”航線，進一步完善三亞面向東盟的國際航空網路。（海南日報）"
+    },
+    {
+      "id": "mkt:01a12937-1d05-7ee0-a827-70dc768fe684",
+      "time": "2026-10-11 12:27:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "BP.O",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "BP is arranging personnel returns and working to safely restart production at the Na Kika and Thunder Horse platforms in the Gulf of Mexico as weather improves."
+    },
+    {
+      "id": "mkt:01a12936-5bf8-7ee0-a827-6e949380d1af",
+      "time": "2026-10-11 12:26:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Former New Zealand PM Ardern breaks silence to campaign for Labour ahead of Nov. 7 vote】Former New Zealand Prime Minister Jacinda Ardern, largely out of politics for more than three years, has publicly endorsed Labour leader Chris Hipkins in a video appeal urging donations ahead of the Nov. 7 general election. Ardern — who led Labour to a 50% vote share in 2020 — said she wholeheartedly supports Hipkins and asked supporters to contribute what they can. Her intervention comes as polls show both the incumbent National Party and Labour losing support, with voters increasingly shifting toward smaller parties offering distinct policy visions."
+    },
+    {
+      "id": "5137410",
+      "time": "2026-10-11 12:26:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本群馬縣出現豬瘟疫情】日本農林水產省10日通報，位於關東地區西北部的群馬縣一家養豬農場出現豬瘟疫情。 根據農林水產省的通報，發生豬瘟的農場共飼養約1900頭豬。與這家農場存在流行病學關聯的另一家農場飼養了約900頭豬。(新華社)"
+    },
+    {
+      "id": "5137409",
+      "time": "2026-10-11 12:24:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門軌道集團100億元小公募債申報獲上交所受理】上交所公司債券專案資訊平臺顯示，廈門軌道建設發展集團有限公司100億元小公募債專案狀態更新為“已受理”，受理日期為2026年10月9日。募集說明書申報稿顯示，本次債券募集資金在扣除發行費用後，擬將不超過57億元用於償還到期/回售的公司債券本金，不超過10億元用於固定資產投資專案，不超過21億元用於償還有息債務，不超過12億元用於補充流動資金。"
+    },
+    {
+      "id": "5137408",
+      "time": "2026-10-11 12:24:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司（BP）：正安排非必要人員返回我們的Argos、Atlantis和Mad Dog平臺。"
+    },
+    {
+      "id": "5137407",
+      "time": "2026-10-11 12:23:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司（BP）：隨著天氣狀況好轉，BP正安排人員返回，並致力於安全重啟Na Kika和Thunder Horse平臺的生產。"
+    },
+    {
+      "id": "5137406",
+      "time": "2026-10-11 12:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國經濟部對俄美柴油協議作出反應】德國經濟和能源部對俄羅斯總統弗拉基米爾·普京和美國總統唐納德·特朗普達成的燃油供應協議作出反應，聲稱柏林完全不依賴於俄羅斯的能源資源。德國經濟部指出，德國從2023年起就沒有買過俄羅斯的石油和石油產品。"
+    },
+    {
+      "id": "5137405",
+      "time": "2026-10-11 12:14:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲多國舉行支援巴勒斯坦示威活動】10日，歐洲多國舉行支援巴勒斯坦的示威活動。示威者要求以色列停止對巴勒斯坦的種族滅絕，並呼籲歐洲各國政府不再向以色列提供武器或其他支援。當天，大批民眾聚集在英國倫敦參與支援巴勒斯坦的示威活動。據英國警方預計，有數千人參加了這次活動。（央視新聞）"
+    },
+    {
+      "id": "5137404",
+      "time": "2026-10-11 12:13:00",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通計劃未來五年歐洲管理資產規模翻倍至2萬億美元】摩根大通資產管理公司公佈了雄心勃勃的發展目標，計劃在未來五年內將其歐洲地區管理資產規模擴大一倍，達到2萬億美元。該機構押注歐洲富裕人群能夠推動這家華爾街銀行旗下資管部門的業務增長。摩根大通資管歐洲、中東及非洲地區執行長帕特里克·湯姆森在採訪中表示：“歐洲是我們持續拓展業務的優質市場。我們的三大戰略重點——主動型交易所交易基金（主動ETF）、另類資產，以及與頭部財富管理機構搭建合作關係，將成為拉動增長的核心動力。”得益於市場上漲以及新老客戶持續流入資金，摩根大通資管歐洲業務的管理資產規模在過去9年間已經實現翻倍，從5000億美元增長至1萬億美元。"
+    },
+    {
+      "id": "5137403",
+      "time": "2026-10-11 12:10:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【孟凡利會見美國蘋果公司蒂姆·庫克一行】10月11日，廣東省委副書記、省長孟凡利在廣州會見美國蘋果公司執行董事長蒂姆·庫克一行。蒂姆·庫克感謝廣東省對蘋果公司發展的長期支援。他表示，廣東是全球重要的製造業中心，擁有完備的產業鏈供應鏈、強勁的創新創造活力，更有極富潛力的消費市場與合作空間，聚集了大量蘋果供應鏈夥伴和生態開發者。廣東對蘋果公司在華髮展至關重要，公司很願意進一步擴大在粵業務佈局，圍繞供應鏈協同、創新生態賦能、智慧製造和綠色製造、銷售渠道拓展等方面，與廣東有關城市和企業探討更多合作，更好實現互利共贏。孟凡利對蒂姆·庫克一行表示歡迎。他說，蘋果公司是全球知名的科技領軍企業，不論是生產端、銷售端還是研發端都與廣東有著長期廣泛深入的合作。當前廣東正錨定智慧化、綠色化、融合化發展方向，加快構建以先進製造業為骨幹的現代化產業體系，我們十分歡迎並支援蘋果公司與廣東各方面緊密對接，把更多創新產品、新興業務及研發平臺放在廣東，不斷拓展合作新領域新空間。廣東將持續擴大高水平對外開放，打造市場化法治化國際化一流營商環境，為包括蘋果公司在內的各類企業在粵發展提供優質服務。（南方+）"
+    },
+    {
+      "id": "5137402",
+      "time": "2026-10-11 12:09:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克稱自己用Grok成功購買樂高】對於馬斯克釋出的用Grok購物一帖，網友表示，亞馬遜開始阻止Grok訪問。馬斯克則回覆稱：“Grok會另想辦法完成購物。我剛下單樂高，Grok直接從樂高官網完成了購買。”"
+    },
+    {
+      "id": "5137401",
+      "time": "2026-10-11 12:04:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李家超：皇崗口岸開通有三個重要意義】新皇崗口岸將於10月12日上午6時30分正式開通執行，為旅客和客運車輛提供24小時通關服務。港深兩地今日（11日）上午在深方口岸區舉行開通儀式。香港特區行政長官李家超致辭時表示，皇崗口岸開通有三個重要意義，包括體現落實國家規劃、實踐制度創新及促進跨境流動。 李家超指出，原有的皇崗口岸即將完成歷史任務。重建後的新皇崗口岸明天正式開通，通關將更快捷、更方便。這個專案是港深兩地同心協力、共建共享的標誌性工程，是粵港澳大灣區互聯互通的重要里程碑。隨著香港與深圳的交通聯絡進一步加強，兩地人流、物流、資金流和資訊流將會更高效流動，進一步推動大灣區深度融合。 （大灣區之聲）"
+    },
+    {
+      "id": "5137400",
+      "time": "2026-10-11 12:02:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "戴姆勒北美卡車有限責任公司（Daimler Trucks North America LLC）向美國國家公路交通安全管理局（NHTSA）提交了30輛汽車的召回申請。"
+    },
+    {
+      "id": "5137399",
+      "time": "2026-10-11 12:02:05",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通計劃在未來5年內將其在歐洲的資產管理規模（AUM）翻一番。"
+    },
+    {
+      "id": "mkt:01a1291f-f711-7ee0-a827-6510ecbfb3d3",
+      "time": "2026-10-11 12:02:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney strongly condemned Houthi attacks on Saudi Arabia."
+    },
+    {
+      "id": "5137398",
+      "time": "2026-10-11 12:01:43",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通押注歐洲資產管理業務的增長。"
+    },
+    {
+      "id": "5137397",
+      "time": "2026-10-11 12:01:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "梅賽德斯-賓士美國有限責任公司（Mercedes-Benz USA LLC）向美國國家公路交通安全管理局（NHTSA）提交了4輛汽車的召回申請。"
+    },
+    {
+      "id": "5137396",
+      "time": "2026-10-11 12:01:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "大眾汽車美國公司因車輛安全問題向美國國家公路交通安全管理局（NHTSA）提交了22,524輛汽車的召回申請。"
+    },
+    {
+      "id": "5137395",
+      "time": "2026-10-11 12:00:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理強烈譴責胡塞武裝對沙烏地阿拉伯的襲擊。"
+    },
+    {
+      "id": "5137394",
+      "time": "2026-10-11 11:59:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【近八成權益類保險資管產品第三季度負收益】2026年第三季度，權益類保險資管產品收益表現明顯承壓。10月10日，據記者統計，在披露三季度資料的約270只權益類保險資管產品中，近八成產品第三季度收益為負。業內人士認為，第三季度A股市場大幅回撥導致權益類保險資管產品大面積負收益，而險企利潤波動主要受投資影響，尤其權益投資收益對淨利潤影響較大，可以預見上市險企第三季度業績下滑壓力較大。（上海證券報）"
+    },
+    {
+      "id": "5137393",
+      "time": "2026-10-11 11:57:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐約肯尼迪國際機場：美國海關及邊境保護局系統已逐步恢復線上，目前正全力恢復全面服務。"
+    },
+    {
+      "id": "mkt:01a1291a-0844-7ee0-a827-589f12df3617",
+      "time": "2026-10-11 11:55:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHO says no evidence of sustained transmission in Russia's unexplained pneumonia death】The World Health Organization said on Oct. 10 on its website that, regarding the illness and death of a staff member at the Siberia and Far East Anti‑Plague Research Institute in Irkutsk, and based on the report from Russian authorities, it has not found evidence of sustained transmission linked to the event, but the pathogen causing the fatal illness has not yet been identified."
+    },
+    {
+      "id": "5137392",
+      "time": "2026-10-11 11:53:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土耳其禁止未滿15週歲者開社媒賬號】土耳其總統府10月10日釋出條例，禁止未滿15週歲的未成年人開設社交媒體賬號。該條例將於11月1日正式生效。根據條例，社交網路服務商在使用者建立賬號階段，必須對其年齡予以驗證。對未滿15週歲未成年人的賬號申請應予以拒絕，對已滿15週歲未滿18週歲的未成年人賬號，強制要求提供家長管控工具，還要求服務商設定高等級隱私保護，實施內容過濾等。條例還規定社交網路服務商“不得提供任何可能產生成癮效果的服務”“不得包含直播功能”等。（CCTV國際時訊）"
+    },
+    {
+      "id": "5137391",
+      "time": "2026-10-11 11:51:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【明天專精特新重點“小巨人”來了】Wind資料顯示，根據目前的發行安排，下週一（10月12日）有1只北交所新股文峰光電可申購，發行價為11.45元/股，發行市盈率為14.01倍。文峰光電主要從事高效能、高可靠性特種線纜及光電元件等產品的研發、生產和銷售，產品廣泛應用於航空、航天等領域，具備特種線纜定製化生產、柔性製造、精密檢測和供應保障及時的科研生產能力。（中證網）"
+    },
+    {
+      "id": "5137390",
+      "time": "2026-10-11 11:44:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世衛：俄不明原因肺炎事件無持續傳播證據】世界衛生組織10日在其官網釋出公報說，關於俄羅斯伊爾庫茨克西伯利亞與遠東防鼠疫研究所一名工作人員患病死亡事件，根據俄方通報，世衛組織尚未發現與這一事件相關的持續傳播證據，但目前尚未確認導致致命疾病的病原體。（新華社）"
+    },
+    {
+      "id": "5137389",
+      "time": "2026-10-11 11:43:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國首個南亞熱帶人工林全要素碳通量綜合監測應用場景建成】廣西壯族自治區市場監督管理局10日介紹，日前，廣西壯族自治區計量檢測研究院聯合中國計量科學研究院、廣西科學院，依託中國林業科學研究院熱帶林業實驗中心，在憑祥市建成中國首個面向南亞熱帶人工林的“天—空—塔—地”全要素碳通量綜合監測應用場景。"
+    },
+    {
+      "id": "5137388",
+      "time": "2026-10-11 11:38:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬斯克：Terrafab工廠將重塑晶片製造】馬斯克表示，鑑於其旗下公司在製造定製裝置方面的專長，他認為它們很可能會“找到比任何人都更好地製造晶片的方法”。馬斯克在得州奧斯汀特斯拉超級工廠外對一群客戶和投資者表示，儘管他目前“不知道如何製造微晶片，但我們會弄明白”。他週六透過直播出席X Takeover活動時指出，在參觀競爭對手設施時，他沒有看到多少定製裝置，而他說自己的公司在製造這類裝置方面擁有豐富經驗，這使它們能夠改進製造工藝。馬斯克說：“我認為可以說，這是世界上最難做的事情之一。”“我不想表現得自滿或理所當然，但我認為我們很可能會找到比任何人都更好地製造晶片的方法。說實話。我不知道這需要多長時間。可能需要好幾年。”"
+    },
+    {
+      "id": "mkt:01a12909-fd86-7ee0-a827-538d0ecc50f7",
+      "time": "2026-10-11 11:38:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Musk: Terrafab plant will reshape chip manufacturing】Speaking outside Tesla's Austin Gigafactory, Musk said his companies' expertise in building custom equipment makes it likely they will \"find a better way than anyone to manufacture chips.\" He said he currently \"doesn't know how to make microchips, but we'll figure it out,\" and cautioned it could \"take years.\" Speaking via livestream at an X Takeover event, Musk said he saw little custom equipment at rival facilities and that his firms' experience building such tools could enable process improvements, calling advanced chipmaking \"one of the hardest things in the world.\""
+    },
+    {
+      "id": "5137387",
+      "time": "2026-10-11 11:34:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中央匯金“打假”：公司不開展代客投資理財活動】10月9日，中央匯金投資有限責任公司釋出宣告稱，公司不開展代客投資理財活動。對於假冒公司或公司工作人員名義進行詐騙的單位或個人，將依法追究其法律責任。中央匯金更新仿冒公司名單，並在宣告中表示相關公司及其所出資公司與公司無任何隸屬或股權關係，也不存在任何投資、合作、業務等關係，其一切活動均與公司無關。"
+    },
+    {
+      "id": "5137381",
+      "time": "2026-10-11 11:29:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國肯尼迪國際機場：海關與邊境保護局（CBP）系統故障，影響入境旅客安檢。"
+    },
+    {
+      "id": "5137380",
+      "time": "2026-10-11 11:25:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國現代汽車在印度累計銷量有望突破1000萬輛】行業資料週日顯示，現代汽車在印度開展本土銷售近三十年後，其在印度累計汽車銷量預計將於今年突破1000萬輛。印度汽車製造商協會（SIAM）的資料顯示，現代汽車自1998年在金奈工廠投產Santro微型轎車，截至今年第三季度，在印度累計銷量已達988萬輛。按照當前銷售節奏，現代汽車在印度累計銷量有望在今年年底突破1000萬輛大關。"
+    },
+    {
+      "id": "5137379",
+      "time": "2026-10-11 11:22:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒爆料：赫格塞思宣佈將公開處決胡德堡基地槍擊案罪犯，令美軍方內部“猝不及防”】據美國有線電視新聞網（CNN）當地時間10日報道，三名知情人士向該媒體透露，美國國防部長赫格塞思日前宣佈將公開處決美軍胡德堡基地槍擊案罪犯尼達爾·哈桑，令美國陸軍和五角大樓內部許多人“猝不及防”。報道稱，赫格塞思當地時間7日在“林肯”號航母上接受採訪時宣佈了這一訊息。當時，他正在該航母上迎接結束在中東地區為期數月部署任務的船員們回國。“我們會確保人們能夠看到它（槍決過程），確保它是公開的，因為人們需要明白，此類行為會帶來嚴重後果。”赫格塞思表示。（環球網）"
+    },
+    {
+      "id": "5137378",
+      "time": "2026-10-11 11:20:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【接連遭遇駭客攻擊後 韓國銀行據悉增加網路安全投入】業內訊息人士週日稱，韓國多家銀行在本土接連遭遇駭客攻擊後，正考慮增加網路安全系統與人員方面的投入。 新韓銀行、韓亞銀行、KB國民銀行等主流銀行本月先後曝出駭客事件造成客戶資料洩露，外界擔憂資訊洩露的實際規模。 訊息顯示，針對這類藉助AI實施的攻擊，KB國民銀行計劃在2027年將網路安全預算提升至1000億韓元（摺合7400萬美元）以上，高於本年度的860.7億韓元。 訊息人士表示，新韓銀行計劃劃撥創紀錄水平的網路安全預算；韓亞銀行擬於明年投入數百億韓元加固安全系統。各家銀行還計劃在明年擴充網路安全人員隊伍。"
+    },
+    {
+      "id": "mkt:01a128f5-d360-7ee0-a827-4f42e297f906",
+      "time": "2026-10-11 11:16:01",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【China says PLA drills around Taiwan are deterrent, accuses Taiwan leader of pushing independence and militarization】China's defense ministry reiterated there is one China and called Taiwan part of China, accusing Taiwan leader Lai Ching-te of persisting in a 'Taiwan independence' stance and stoking cross‑Strait confrontation. The ministry said the DPP has promoted \"total defense\" and an \"all‑island battlefield\" narrative to justify greater defense mobilization and investment. It added the PLA routinely conducts training and exercises around Taiwan to deter independence moves and foreign interference and to protect Taiwan residents' security."
+    },
+    {
+      "id": "5137377",
+      "time": "2026-10-11 11:13:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【胡塞武裝利雅得機場襲擊發酵：外交官就地避難、部分公司撤離員工】當地時間10日，胡塞武裝組織對沙特首都利雅得的哈立德國王國際機場發動致命襲擊。沙特官方表示，襲擊造成至少12人死亡、超過300人受傷，機場暫停運營。這是自今年2月美以對伊戰爭爆發以來，海灣阿拉伯國家境內傷亡最慘重的襲擊。據法新社報道，在利雅得有大量非沙特公民居住，外交官們被指示在各自的大使館內就地避難。利雅得的國際學校正在採取預防措施，至少有一所學校為了安全起見，將孩子們送到了地下室。兩名在利雅得商業中心阿卜杜拉國王金融區工作的人士稱，一些公司正在從該地區撤離員工。包括美國、英國、德國、澳大利亞和加拿大在內的多個國家警告公民避開哈立德國王國際機場。航空追蹤網站Flightradar顯示，所有飛往利雅得的航班已改道或取消。在這次襲擊之前，印度航空、迪拜航空、漢莎航空集團和巴基斯坦國際航空公司等航空公司都曾暫停往返利雅得和其他沙特機場的航班。（澎湃）"
+    },
+    {
+      "id": "5137376",
+      "time": "2026-10-11 11:13:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國防部新聞發言人陳曦就賴清德發表所謂“雙十”講話答記者問】記者：據報道，賴清德近日發表所謂“雙十”講話，炒作大陸持續以軍事行動施壓改變臺海現狀，鼓譟增加防衛投資，強化“全社會防衛韌性”。請問對此有何評論？陳曦：世界上只有一箇中國，臺灣是中國的一部分，這是真正的臺海現狀。賴清德頑固堅持“臺獨”立場，顛倒是非，渲染所謂“大陸軍事威脅”，煽動兩岸對立對抗，妄圖“以武謀獨”、“倚外謀獨”，再次暴露其“臺灣之禍”、“和平之災”的本質。近年來，民進黨當局為一黨之私大搞謀“獨”拒統、媚外輸誠，強推所謂“全民皆兵”、“全臺戰場”，把臺灣老百姓綁上“臺獨”戰車，破壞臺海穩定、犧牲臺灣未來。解放軍位臺島周邊常態開展演訓活動，就是震懾“臺獨”妄動和外來干涉圖謀，維護臺灣民眾的安全福祉，天經地義、無可厚非。“臺獨”與臺海和平水火不容，祖國統一是大勢所趨、大義所在、民心所向。希望臺灣同胞認清賴清德當局頑固謀“獨”的極端危險性和危害性，與我們一道堅決打擊“臺獨”分裂勢力，反對外部勢力干涉，共護和平安寧的美好家園，共享民族復興的福祉榮光。（央視軍事）"
+    },
+    {
+      "id": "mkt:01a128f1-7f80-7ee0-a827-439d45c4dba3",
+      "time": "2026-10-11 11:11:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister said attacks on civilians and critical infrastructure are absolutely unacceptable."
+    },
+    {
+      "id": "mkt:01a128f1-3813-7ee0-a827-38ae47751aa6",
+      "time": "2026-10-11 11:10:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Australian home auction clearance rate below 50% for second week】Australia's home auction clearance rate slipped below 50% for a second straight week after the Reserve Bank of Australia raised rates to a 15-year high, weighing on buyer demand. Cotality data show 1,781 properties went to auction across six state capitals last week, with a 48.8% clearance rate versus 45.4% the prior week. National house prices in September fell back to year-ago levels; higher borrowing costs and May budget tax changes that limit investor concessions have damped demand. Sydney prices are down nearly 9% from the February peak. Auctions, common in Sydney and Melbourne, normally see lower clearance rates in downturns as seller price expectations diverge from market levels."
+    },
+    {
+      "id": "5137375",
+      "time": "2026-10-11 11:09:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鹿明機器人與面壁智慧達成戰略合作】10月10日，鹿明機器人宣佈，已與面壁智慧達成戰略合作。雙方將圍繞具身智慧的資料採集、模型訓練與場景應用等展開合作。"
+    },
+    {
+      "id": "5137374",
+      "time": "2026-10-11 11:08:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海實彈射擊】據中國海事局網站訊息，秦皇島海事局釋出航行警告，10月12日6時至16日24時，渤海部分海域開展實裝作業，禁止駛入。"
+    },
+    {
+      "id": "5137373",
+      "time": "2026-10-11 11:07:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國央行2025年海外資產收益近17萬億韓元】韓國央行週日公佈的資料顯示，受韓元貶值及股市上漲推動，2025年該行海外資產收益接近17萬億韓元（摺合125億美元）。 提交給最大反對黨國民力量黨一名議員的資料顯示，韓國央行去年海外資產收益達16.9萬億韓元，同比增長32%。 海外資產收益在2016至2018年穩定在每年約8萬億韓元，2021年增至13.8萬億韓元，隨後在2022年暴跌至3.9萬億韓元。"
+    },
+    {
+      "id": "5137372",
+      "time": "2026-10-11 11:05:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國建議公民避免使用沙烏地阿拉伯的哈立德國王機場】美國駐利雅得大使館在X上發帖表示，在10月10日襲擊事件發生後，“強烈建議”公民避開哈立德國王國際機場及其周邊地區。在沙烏地阿拉伯工作的美國政府僱員需要獲得特別許可才能使用利雅得的這個機場，以及在吉達和達曼的機場。由於安全風險，在沙特的政府僱員不得前往葉門邊境20英里範圍內的地區，且前往吉贊省、阿西爾省、納季蘭省以及蓋提夫市、延布市和塔伊夫市均需獲得特別許可。"
+    },
+    {
+      "id": "5137371",
+      "time": "2026-10-11 11:04:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）：阿曼灣海域發生油輪與軍事力量相關事件。"
+    },
+    {
+      "id": "5137370",
+      "time": "2026-10-11 11:03:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事運輸辦公室收到有關阿曼灣油輪事故的報告。"
+    },
+    {
+      "id": "mkt:01a128e8-aabd-7ee0-a827-336d79e5ef37",
+      "time": "2026-10-11 11:01:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Gongbei port crossings top 100 million YTD on Oct 11, 2026; milestone 14 days ahead of 2025】Gongbei border inspection station reported cumulative passenger inspections at the Gongbei land port between Zhuhai and Macau surpassed 100 million year-to-date on Oct 11, 2026, 14 days earlier than in 2025. The station said the port, the main civil link between Zhuhai and Macau, reflects accelerating hard and soft connectivity in the Guangdong–Hong Kong–Macau Greater Bay Area and is injecting momentum into regional economic development."
+    },
+    {
+      "id": "5137369",
+      "time": "2026-10-11 11:01:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "殼牌：颶風伊賽亞斯過後，正監測改善中的離岸作業條件；公司的馬斯、奧林巴斯、烏爾薩、維託以及阿波馬托克斯資產均未遭受風暴損壞。"
+    },
+    {
+      "id": "5137368",
+      "time": "2026-10-11 11:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拱北邊檢站2026年出入境人員突破1億人次】記者從拱北出入境邊防檢查站獲悉，10月11日，該站年內累計查驗出入境人員突破1億人次大關，較2025年提前14天。作為連線珠海與澳門的核心民生通道，拱北口岸以高效往來，見證著粵港澳大灣區“硬聯通”與“軟聯通”的協同提速，為區域經濟高質量發展注入澎湃動能。（央視新聞）"
+    },
+    {
+      "id": "5137367",
+      "time": "2026-10-11 11:00:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多地積極最佳化調整住房公積金政策 房地產市場成交活躍】隨著各項樓市支援政策落地見效，10月以來，北京新房市場迎來積極變化，成交活躍。在北京通州的一個新房售樓處裡，記者看到，來選房看房的市民有不少，接待區幾乎都坐滿了。工作人員介紹，最近平均每天要接待200到300組客戶。最新資料顯示，10月1日至8日，北京新建商品住宅成交12.84萬平方米，同比增長163%，市場活躍度顯著提升，成交保持較快增長。（央視新聞）"
+    },
+    {
+      "id": "5137366",
+      "time": "2026-10-11 10:59:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【下週37只個股解禁】下週（10月12日至16日），A股共有37只個股限售股解禁，合計解禁股份數量約48.07億股，其中，陝西能源、金科股份解禁股份數量最多，佔到下週總解禁數的超八成。下週，解禁股的市值合計約414.62億元，其中，陝西能源最高，超過230億元。另外，首藥控股-U、大普微-UW、金科股份、傑理科技、長江能科5只個股解禁市值超過10億元。"
+    },
+    {
+      "id": "mkt:01a128e5-b164-7ee0-a827-2ffe4309007b",
+      "time": "2026-10-11 10:58:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister said Islamabad stands united with Saudi Arabia and reaffirmed Pakistan's commitment to Saudi sovereignty under the Mecca mutual defense pact."
+    },
+    {
+      "id": "5137365",
+      "time": "2026-10-11 10:56:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國生物與廣州實驗室簽署呼吸道聯合疫苗專利轉讓協議】據中國生物訊息，9月29日，國藥集團中國生物與廣州實驗室簽署呼吸道聯合疫苗專利轉讓協議。雙方將圍繞呼吸道聯合疫苗創新抗原的工藝開發及產業化應用開展深度合作。"
+    },
+    {
+      "id": "5137364",
+      "time": "2026-10-11 10:54:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：就駐日美軍涉嫌殺人案，日本防衛大臣向美國太平洋司令部司令提出強烈抗議】據日本共同社、美國“防務部落格”網站10日報道，日本防衛大臣小泉進次郎週五（9日）在防衛省與正在訪日的美國太平洋司令部司令帕帕羅會面。針對駐日美軍士兵因涉嫌搶劫殺人被逮捕一事，小泉進次郎向美方提出強烈抗議。（環球網）"
+    },
+    {
+      "id": "5137363",
+      "time": "2026-10-11 10:53:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理：針對平民和關鍵基礎設施的襲擊完全不可接受，並對地區和平與穩定構成嚴重威脅。"
+    },
+    {
+      "id": "mkt:01a128e0-d3c6-7ee0-a827-22f24971ee78",
+      "time": "2026-10-11 10:53:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister strongly condemned the Houthi militia's attack on Riyadh's King Khalid International Airport."
+    },
+    {
+      "id": "5137362",
+      "time": "2026-10-11 10:51:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中國有色金屬工業協會黨委副書記範順科在杜塞爾多夫與歐洲鋁行業企業座談交流】在杜塞爾多夫鋁工業展期間，中國有色金屬工業協會黨委副書記、中國有色金屬加工工業協會理事長範順科一行與歐洲鋁業協會總幹事Paul Voss、英國鋁業協會執行長Nadine Bloxsome舉行會談，重點圍繞全球及歐洲鋁工業綠色低碳發展、鋁產業及貿易政策、全球化佈局趨勢等議題深入交換意見，還實地參觀了阿盧諾夫（Alunorf）鋁軋製廠，並與運營董事總經理Geert Vannuffelen進行了座談交流。在與歐洲和英國鋁業協會座談中，範順科重點分享了中國鋁工業在綠色低碳轉型和供給側結構性改革等方面的成功實踐，介紹了中歐、中英鋁產品貿易情況，表達了對於歐盟CBAM的意見和看法。"
+    },
+    {
+      "id": "5137361",
+      "time": "2026-10-11 10:49:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【浙江印發市場監管領域經營主體信用評價實施辦法】近日，浙江省市場監督管理局印發《市場監管領域經營主體信用評價實施辦法（試行）》，自10月30日起實施。《實施辦法》明確，市場監管領域信用評價以“通用+專業”為總體框架，在全覆蓋開展各類經營主體通用信用評價基礎上，緊扣不同行業經營特點與監管工作實際，在食品、特種裝置、檢驗檢測、智慧財產權等重點領域同步推行專業信用評價，進一步提升信用評價的科學性、適配性，增強監管服務綜合效能。"
+    },
+    {
+      "id": "5137360",
+      "time": "2026-10-11 10:46:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【徐麟李炳軍會見中國商飛公司黨委書記、董事長賀東風一行】10月10日，貴州省委書記徐麟，省委副書記、省長李炳軍在貴陽會見中國商飛公司黨委書記、董事長賀東風，黨委副書記、副董事長、總經理沈波一行。中國商飛公司黨委副書記、董事羅曉，黨委常委、副總經理張小光，省領導胡廣傑、曲林、羅強參加。（貴州釋出）"
+    },
+    {
+      "id": "5137359",
+      "time": "2026-10-11 10:43:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國秘書長譴責胡塞武裝對沙特機場發動襲擊】據路透社11日報道，聯合國秘書長古特雷斯表示，強烈譴責胡塞武裝10日對沙烏地阿拉伯利雅得哈立德國王國際機場發動的致命襲擊。（央視新聞）"
+    },
+    {
+      "id": "5137358",
+      "time": "2026-10-11 10:41:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，颶風伊薩亞斯（Isaias）向田納西州移動過程中，暴洪風險仍將持續。"
+    },
+    {
+      "id": "5137355",
+      "time": "2026-10-11 10:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葛均波院士當選世界心臟聯盟候任主席】世界心臟病學大會當地時間10日在巴西里約熱內盧閉幕。在本次會議上，世界心臟聯盟公佈，中國科學院院士、復旦大學附屬中山醫院心內科主任葛均波當選該機構候任主席（2027年-2028年）。葛均波表示，將與全球合作伙伴共同推動心血管健康事業，推進五大方向：促進全球心血管健康公平、加強心血管急救體系建設、培養全球心血管人才隊伍、賦能區域心血管事業發展、深化全球心血管領域合作。（新華社）"
+    },
+    {
+      "id": "5137350",
+      "time": "2026-10-11 10:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【民調：特朗普結束戰爭也難改選民立場，共和黨中期選舉翻盤無望】一項民調發現，隨著中期選舉進入最後幾周，多數美國人認為共和黨找不到清晰途徑重獲競選優勢；就連共和黨選民也懷疑，總統唐納德·特朗普能否拿出臨門一腳的舉措改寫選情。多數選民表示，即便特朗普在11月大選前取得重大政績——例如宣佈結束伊朗戰爭、將汽油價格下調1美元，或是新增10萬個就業崗位，他們也不會因此更傾向投給共和黨。 民調顯示，民主黨選民和搖擺選民尤其如此：無論發生哪類事件，無論政績有多重大，這兩類群體的投票意願幾乎沒有變化。 選民對於特朗普施政表現和經濟狀況的看法已經固化，這對於選情愈發艱難的共和黨而言是個不妙訊號。"
+    },
     {
       "id": "5137339",
       "time": "2026-10-11 10:29:34",
