@@ -1,7 +1,313 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-11 23:03:32_
-_本檔包含 1977 則快訊，約 393132 字_
+_更新時間：2026-10-12 03:29:08_
+_本檔包含 1980 則快訊，約 394701 字_
+
+---
+
+### 2026-10-06 15:16:46  #央行 #其他
+
+匈牙利央行副行長庫拉利：若財政與貨幣政策始終以加入歐元區為目標，市場預期將自行確定入匯時的均衡匯率水平。
+
+---
+
+### 2026-10-06 15:16:44  #Trading Economics #Economy #Switzerland #Unemployment Rate #Importance 1
+
+Switzerland Jobless Rate Steady at 3% — Switzerland’s non-seasonally adjusted unemployment rate was 3.0% in September 2026, unchanged from the previous two months. The number of unemployed people fell by 1,064 from a month earlier to 140,480. Across the cantons, the largest decreases were recorded in Zurich (-355), St. Gallen (-224), Aargau (-204), Freiburg (-185), and Waadt (-147). The drop in unemployment was limited to the industry (-548) and services (-546) sectors. The jobless rate among young people aged 15 to 24 edged down to 3.3% from a five-and-a-half-year high of 3.4% in August, with the number of unemployed youth falling by 332 to 14,346. The unemployment rate for workers aged 50 to 64 also ticked lower to 2.6% from 2.7%, as the number of unemployed people in this age group decreased by 201 to 38,482. Registered job seekers rose by 466 to 44,199. Seasonally adjusted, the jobless rate was unchanged at 3.1% for the fifth month in a row.
+
+---
+
+### 2026-10-06 15:16:07  #國際
+
+【泰國稱美國希望借特朗普亞洲之行敲定關稅協議】泰國政府發言人週二表示，泰國政府收到特朗普的信函，信中稱美國希望在總統唐納德・特朗普即將開啟的亞洲之行期間，完成並簽署一份美泰關稅協議。信函並未寫明協議簽署的具體時間。泰國商務部稱，談判已進入最後階段。
+
+---
+
+### 2026-10-06 15:15:35  #其他
+
+義大利富時MIB指數日內漲幅達1.00%。西班牙IBEX35指數突破19500點，日內漲1.04%。
+
+---
+
+### 2026-10-06 15:15:31  #市場 #國際
+
+印度國家證券交易所Nifty金融服務指數上漲1.15%。
+
+---
+
+### 2026-10-06 15:15:25  #MKT News #Commodities #Energy #EURUSD #Impact bullish
+
+European Commission President Von der Leyen said the commission will set up a task force to pool energy demand and instruct market operators to carry out joint procurement.
+
+---
+
+### 2026-10-06 15:15:24  #市場
+
+伊拉克8月份消費者價格指數同比上漲3.3%。
+
+---
+
+### 2026-10-06 15:15:15  #其他
+
+Live Nation Entertainment宣佈啟動高階無擔保票據非公開發行。
+
+---
+
+### 2026-10-06 15:15:14  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish
+
+Italy's FTSE MIB rose 1.00% intraday. Spain's IBEX 35 breached 19,500 points and was up 1.04% intraday.
+
+---
+
+### 2026-10-06 15:15:00  #國際
+
+歐盟委員會主席馮德萊恩：我們將成立特別工作組整合能源需求，並委託一家市場運營商負責聯合採購。
+
+---
+
+### 2026-10-06 15:14:57  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
+
+【Apple-1 could fetch up to $800,000 at Bonhams auction】A rare Apple-1 computer is being offered in an online Bonhams auction with bidding open Oct. 4-14 and an estimate of $500,000-$800,000. The machine, bought by its original owner in 1976, has a motherboard signed by Apple co-founder Steve Wozniak. The Apple-1 was sold as an assembled circuit board for $666 at launch; fewer than 75 units are confirmed to survive.
+
+---
+
+### 2026-10-06 15:14:54  #其他
+
+【法國工業生產意外下滑，電力產量下降】法國8月份工業生產意外下滑，電力需求下降抵消了製造業的小幅增長。法國8月份工業生產環比下降0.3%，主要反映出發電量較7月有所回落。7月份法國的工業生產曾創下自2021年以來的最高水平，經濟學家此前預測8月份工業生產將小幅增長。此次下滑抵消了製造業產出環比增長0.3%的表現。資料凸顯出該歐元區第二大經濟體在恢復經濟增長方面舉步維艱。法國今年上半年勉強避免陷入衰退，如今又面臨新的阻力，市場擔憂少數派政府能否遏制不斷擴大的財政赤字。經濟和財政方面的挑戰加劇了債券市場的拋售，導致法國相對於其他國家的借貸成本升至歐元區債務危機以來的最高水平。
+
+---
+
+### 2026-10-06 15:14:49  #國際
+
+歐盟委員會主席馮德萊恩：我們將啟動歐洲煉油行業戰略對話，以降低成本並保障供應穩定，將根據甲烷法規給予出口商一年額外寬限期。
+
+---
+
+### 2026-10-06 15:14:37  #央行 #國際
+
+【歐洲央行首席經濟學家：各國規劃不能只著眼短期】歐洲央行首席經濟學家連恩表示：各國政府的規劃不能只著眼短期。雖然各國需要制定 2027 年預算，但在思考未來五到十年的挑戰時，必須重視長期利率水平，同時關注經濟增長潛力。政府必須保持現實，把未來數年將要面對的利率水平納入考量。這更加凸顯提振經濟增速的重要性。
+
+---
+
+### 2026-10-06 15:14:07  #MKT News #Brent #Impact bearish #WTI
+
+EU Commission President Von der Leyen said the commission will launch a strategic dialogue with European refineries to lower costs and secure supplies.
+
+---
+
+### 2026-10-06 15:13:59  #MKT News #EURUSD #Impact bullish
+
+EU Commission President von der Leyen said the Commission will grant exporters an additional one-year grace period under the methane regulation.
+
+---
+
+### 2026-10-06 15:13:43  #Trading Economics #Economy #Slovakia #Retail Sales YoY #Importance 1
+
+Slovakia Retail Sales Rebound in August — Retail sales in Slovakia rose by 1.6% year-on-year in August 2026, rebounding from a 0.1% fall in the previous month. Turnover recovered in food, beverages, and tobacco in specialized stores (0.4% vs -1.6% in July), while activity increased in information and communication equipment (8.5% vs 8.1%), other household goods in specialized stores (8.6% vs 3.3%), and other goods in specialized stores (1.8% vs 0.3%). Moreover, activity dropped at a softer pace in sales via stalls and markets (-10.2% vs -16.9%) and sales not in stores, stalls, or markets (-4.6% vs -11.8%). In contrast, sales growth moderated in automotive fuels in specialized stores (0.4% vs 1.6%), while activity declined in cultural and recreational goods in specialized stores (-4.3% vs 0.3%). On a seasonally adjusted monthly basis, retail trade grew by 0.9%, following a 0.2% increase in the preceding period.
+
+---
+
+### 2026-10-06 15:13:38  #其他
+
+東芝：有關與 TDK 洽談硬碟磁頭業務的報道並非我方訊息源。
+
+---
+
+### 2026-10-06 15:13:33  #MKT News #ALO.PA #Impact bullish
+
+Vingroup said France’s Alstom will supply 200 Metropolis trainsets for Hanoi’s urban rail transit project and will transfer technology to Vietnam.
+
+---
+
+### 2026-10-06 15:13:15  #國際
+
+匈牙利官員表示，一旦政府就歐元作出決定，匈牙利不應推遲加入歐洲匯率機制II。
+
+---
+
+### 2026-10-06 15:13:10  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed
+
+European Commission President Von der Leyen said state aid must be targeted at households most in need to help them pay energy bills.
+
+---
+
+### 2026-10-06 15:13:07  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
+
+【France industrial production unexpectedly falls in August as power generation drops】France industrial production fell 0.3% MoM in August, driven mainly by a pullback in power generation that offset a 0.3% MoM rise in manufacturing. July's output had been the strongest since 2021 and economists had expected a slight increase for August. The print highlights continued weakness in the eurozone's second-largest economy; France narrowly avoided recession in 1H and now faces new headwinds. Markets worry the minority government may struggle to rein in a widening fiscal deficit, a dynamic that has intensified sovereign bond selling and pushed France's borrowing costs versus peers to levels not seen since the eurozone debt crisis.
+
+---
+
+### 2026-10-06 15:13:01  #公司
+
+【蘋果一號電腦或拍出80萬美元】一臺罕見的蘋果一號電腦正在邦瀚斯拍賣行進行線上拍賣，開放競價日期為本月（10月）4日至14日，估價為50萬美元至80萬美元。據拍賣行介紹，這臺電腦由原主人於1976年購入，主機板上有蘋果聯合創始人沃茲尼亞克的簽名。蘋果一號電腦是蘋果公司的首款電腦產品，以組裝好的電路板形式出售，當時售價666美元，目前確認存世的不足75臺。 （央視財經）
+
+---
+
+### 2026-10-06 15:12:47  #國際
+
+歐盟的馮德萊恩：幫助家庭支付能源賬單的補貼必須精準投向最需要的人群。
+
+---
+
+### 2026-10-06 15:12:40  #其他
+
+VinGroup：首批83列五節編組列車將在法國完成設計與製造，剩餘117列將在越南生產組裝。
+
+---
+
+### 2026-10-06 15:12:37  #公司
+
+越南Vingroup集團：法國阿爾斯通將為河內城市軌道交通專案供應總計200列大都會型地鐵列車組，並向越南轉讓技術。
+
+---
+
+### 2026-10-06 15:12:32  #央行 #其他
+
+匈牙利央行官員表示，匈牙利需要與通脹目標相符的ERM2匯率水平。
+
+---
+
+### 2026-10-06 15:12:20  #國際
+
+【中方敦促推動全球發展事業】中國常駐聯合國副代表孫磊5日在聯大第二委員會一般性辯論上發言，敦促國際社會推動全球發展事業。他說，當前2030年可持續發展議程落實嚴重滯後，南北發展鴻溝擴大，發展資源不足，發展動力下降。國際社會需要展現擔當，為重振全球發展事業注入新動能。他就此提出四點看法。一要錨定戰略方向，始終將發展置於國際議程中心，將2030年議程任務目標同各國實際緊密結合，完善中長期戰略，保持政策連續性和穩定性。要深化聯合國改革，各發展機構要提質增效，幫助各國完善發展規劃，制定長期穩定的實施和督促評估機制。二要回應人民期盼，在減貧、糧食和能源安全、環境保護等事關人民福祉的領域加大投入。人工智慧、數字經濟、綠色能源等新興領域要堅持以人為本、向上向善，讓科技創新成果真正惠及世界。中方發起世界人工智慧合作組織，目的是支援全球南方能力建設、彌合數字和智慧鴻溝。中方歡迎各方積極加入，共享智慧紅利。三要堅持務實合作與行動導向，迎難而上，解決制約全球發展合作的瓶頸和關鍵問題。發達國家要切實將發展籌資和氣候融資承諾落到實處。儘快推動國際金融架構改革取得實質性進展，擴大發展中國家代表性和發言權。要恢復世貿組織爭端解決機制正常運轉，推進世貿組織規則與時俱進。四要發揚同舟共濟精神，建設團結、平等、均衡、普惠的全球發展夥伴關係。要反對“脫鉤斷鏈”和貿易保護主義，推動普惠包容的經濟全球化。（央視新聞）
+
+---
+
+### 2026-10-06 15:12:13  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+WTI crude fell more than 1.0% intraday to $87.59/bbl.
+
+---
+
+### 2026-10-06 15:12:09  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB chief economist Lane said inflation below the ECB's 2% target would be a problem.
+
+---
+
+### 2026-10-06 15:12:00  #MKT News
+
+Von der Leyen said the EU must address structural issues that leave it exposed to volatility in foreign fossil-fuel markets.
+
+---
+
+### 2026-10-06 15:11:56  #央行 #國際
+
+歐洲央行萊恩：若通脹相較我們2%的目標水平過低，也會產生問題。
+
+---
+
+### 2026-10-06 15:11:51  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+ECB chief economist Lane, speaking on Italy, said inflation is extremely harmful and that excessively high inflation would cause severe hardship for households.
+
+---
+
+### 2026-10-06 15:11:50  #國際
+
+歐盟馮德萊恩：我們必須解決致使我們易受境外化石能源市場波動影響的結構性問題。
+
+---
+
+### 2026-10-06 15:11:44  #市場 #央行 #國際
+
+【歐洲央行首席經濟學家：加息核心考量是能源衝擊對通脹帶來的影響】歐洲央行首席經濟學家連恩表示：加息決策的核心考量，是能源衝擊對通脹帶來的影響。今年春季中東衝突爆發時，市場曾擔憂經濟會遭受更大沖擊。但整個夏季並未顯現這種負面影響，部分原因在於能源價格一度回落；伊美達成諒解備忘錄後，市場情緒改善，能源價格有所下跌，我認為這在夏季支撐了歐洲經濟。但如今新一輪價格上漲出現，衝突持續時間再度蒙上不確定性，我們將依託資料繼續研究一個問題：經濟獲得的這部分支撐能否延續。另外，除能源衝擊外，今年還有財政支援因素，他表示重點提兩點。一是德國的基礎設施與國防專案。另一點是人工智慧對經濟的支撐作用。
+
+---
+
+### 2026-10-06 15:11:39  #MKT News #Market Regions #Greater China
+
+【Shenzhen rail expects daily arrivals above 400,000 on Oct 6-7】Shenzhen rail expects a return-peak on Oct 6 with total arrivals and departures around 882,000 passenger trips, up 28.8% YoY. Shenzhen North is forecast to handle about 604,000 passenger trips, up 25.5%; arrivals at major hubs are projected to average more than 400,000 per day on Oct 6-7. Since the start of the National Day holiday through Oct 5, Shenzhen rail has handled 4.442 million passenger trips, averaging 888,000 per day. To manage the return flow, waiting rooms at Shenzhen North, Shenzhen station, Shenzhen East and Futian will be open overnight on Oct 6-8.
+
+---
+
+### 2026-10-06 15:11:17  #央行 #國際
+
+歐洲央行首席經濟學家：增長下行風險尚未成為現實。
+
+---
+
+### 2026-10-06 15:10:14  #MKT News #Copper #Impact bullish #CNH #S&P500
+
+【Western Land‑Sea New Corridor rail‑sea intermodal trains exceed 1.0 mln TEU YTD】As of Oct. 6, the Western Land‑Sea New Corridor's rail‑sea intermodal trains have carried over 1.0 mln TEU year‑to‑date. Sichuan‑Chongqing links with Beibu Gulf ports remain active: Chongqing‑to‑Qinzhou trains moved 120,000 TEU, up 31.7% YoY, with outbound industrial products — auto parts, construction machinery and tyres — rising about 95%. Qinzhou‑to‑Chongqing trains carried 53,000 TEU, up 28.7% YoY; shipments of industrial raw materials including quartz sand, spodumene and zinc concentrate nearly tripled YoY, signalling continued release of hinterland supply‑chain logistics demand.
+
+---
+
+### 2026-10-06 15:10:13  #其他
+
+西班牙首相桑切斯將於馬德里時間下午12點30分發表講話。
+
+---
+
+### 2026-10-06 15:10:08  #MKT News #Market Regions #Europe & UK
+
+ECB chief economist LANE said the ECB has treated broader financial conditions, including long-term interest rates, as an important factor in its monetary policy decisions.
+
+---
+
+### 2026-10-06 15:10:01  #市場 #央行 #國際
+
+【歐洲央行首席經濟學家：核心在於AI 收益率上行背後是美國投資激增】歐洲央行首席經濟學家連恩表示：放眼全球，最核心的問題或許是人工智慧。人工智慧拉動今年全球貿易走強，帶動大量商品交易，包括半導體晶片和其他原材料，歐洲企業也參與其中，我們在一定程度上處於 AI 供應鏈之中。但眾所周知，美國的 AI 投資熱潮也意味著相關企業大舉發行長期債務。收益率上行，背後原因之一就是美國投資激增。我們花費大量精力研判廣義融資環境，其中長期利率尤為關鍵。我們確信，長期利率會對經濟與通脹產生實質性影響。因此，我們一貫強調，貨幣政策評估必須納入全部金融指標，而不只是我們設定的政策利率。
+
+---
+
+### 2026-10-06 15:09:58  #央行 #國際
+
+歐洲央行萊恩接受安莎通訊社採訪時表示：我們已將包括長期利率在內的更廣泛金融狀況認定為影響貨幣政策決策的一項重要因素。
+
+---
+
+### 2026-10-06 15:09:15  #Trading Economics #Economy #Czech Republic #Inflation Rate #Importance 1
+
+Czechia Inflation Rate at 5-Month High — The annual inflation rate in the Czech Republic rose to 2.5% in September 2026 from 1.9% in August, slightly above expectations of 2.4%, according to preliminary estimates. This marked the highest reading since April, as price growth accelerated for energy (5.9% vs 2.3% in August) and goods (1.2% vs 0.2%), while it also edged up for services (4.6% vs 4.5%). At the same time, deflation eased for food and soft drinks (-3.5% vs -4.3%). Meanwhile, inflation eased slightly for alcoholic beverages and tobacco (4.6% vs 4.7%). On a monthly basis, consumer prices were unchanged in September after rising 0.3% in August, marking the lowest reading since June.
+
+---
+
+### 2026-10-06 15:08:58  #央行 #國際
+
+【歐洲央行首席經濟學家：尚未觀察到非常強烈的二次效應】歐洲央行執行委員會委員（首席經濟學家）連恩在採訪中表示：客觀事實是，能源價格高於基準情景的預期，但我不能就此判定我們正落入某單一情景，因為各情景是一整套不同假設的集合。至於二次效應，到目前為止，我們尚未觀察到非常強烈的二次效應，相關監測仍在持續。所以，儘管我支援情景分析這一工具，但簡單判定我們處於不利情景或是基準情景，是過於片面的。情景分析是有效的參考工具，但我們會開展全面分析。再次重申，能源價格目前處於高位，但其向經濟其他環節傳導的力度仍存在不確定性。
+
+---
+
+### 2026-10-06 15:08:50  #Trading Economics #Markets #France #stocks #Importance 1
+
+Schneider Electric Shares Hit 9-week Low — Schneider Electric shares decreased to 268.45 EUR, the lowest since July 2026. Over the past 4 weeks, Schneider Electric lost 9%, and in the last 12 months, it increased 9.35%.
+
+---
+
+### 2026-10-06 15:08:31  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
+
+French finance minister: EUR/USD around 1.10 does not appear undervalued; euro weakness gives exporters breathing room.
+
+---
+
+### 2026-10-06 15:08:15  #MKT News #Market Themes #AI Revolution
+
+ECB chief economist Lane said he does see AI supporting the economy.
+
+---
+
+### 2026-10-06 15:08:11  #MKT News #EURUSD
+
+ECB chief economist Lane said fiscal support in 2027-28 will differ from 2026.
+
+---
+
+### 2026-10-06 15:08:05  #Trading Economics #Markets #Japan #Stock Market #Importance 1
+
+Japanese Shares Rise on Wall Street Lead — The Nikkei 225 Index advanced 1.05% to finish at 70,684 on Tuesday, scaling a three-month high as Japanese equities followed Wall Street’s strong performance and investors looked past concerns over elevated bond yields. Market sentiment was also lifted by softer oil prices as signs of increased Middle Eastern supply eased pressure on Japan’s import-dependent economy. Meanwhile, Prime Minister Sanae Takaichi continued to pursue expansionary fiscal measures despite concerns surrounding the weak yen and rising domestic bond yields. In corporate developments, Toyota Motor Corp. is turning to its new Land Cruiser FJ to strengthen its position against intensifying competition from Chinese automakers, with sales across Japan and Southeast Asia exceeding initial expectations. Technology and AI-related shares were among the biggest gainers, led by Advantest (3.9%), Taiyo Yuden (6.2%), Fujikura (5.2%), Murata Manufacturing (1%) and Lasertec (0.8%).
+
+---
+
+### 2026-10-06 15:07:13  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed
+
+French finance minister said recent selling of French government bonds stems from fewer buyers rather than a lack of investor confidence.
+
+---
+
+### 2026-10-06 15:07:04  #MKT News
+
+【Israeli military reportedly nearly shot down Dubai passenger jet】CBS, citing two Israeli sources, reports that on Sept. 30 Israeli jets were scrambled and were prepared to shoot down a Dubai passenger aircraft after an attempted in-flight attack; the plane reportedly carried more than 150 Israeli nationals. Israel closed its airspace and set up an emergency command center; fighters stood down and the shoot-down order was rescinded only after the jet diverted to Saudi Arabia and was escorted by Saudi fighters. The report says Israel maintains long-running protocols for 9/11-style threats and the prime minister has final authority on shoot-down decisions.
 
 ---
 
@@ -11593,293 +11899,5 @@ Austria's vice‑chancellor said the finance minister will assume the vice‑cha
 ### 2026-10-05 03:30:08  #宏觀
 
 奧地利副總理：財政部長將於明年初接替他出任副總理。
-
----
-
-### 2026-10-05 03:23:24  #公司 #國際
-
-【以媒：迪拜航空副駕駛稱原計劃駕機撞向以機場航站樓】據多家以色列媒體4日報道，迪拜航空公司客機駕駛艙衝突事件中的阿曼籍副駕駛哈馬姆·哈馬米接受審訊時稱，他原本計劃駕機撞向以色列特拉維夫本-古裡安機場航站樓。據以色列第12頻道報道，哈馬米選擇在客機飛至約旦上空時襲擊機長，原計劃讓飛機正常飛行至快要抵達本-古裡安機場、以軍機來不及實施攔截時，駕機撞向機場航站樓。受傷機長不惜一切代價開啟駕駛艙門，挫敗了哈馬米的企圖。（新華社）
-
----
-
-### 2026-10-05 03:21:33  #MKT News
-
-France's education minister said on Sunday that as many as 500 schools could be partially or fully closed on Monday after clashes between riot police and student protesters.
-
----
-
-### 2026-10-05 03:18:05  #國際
-
-【俄烏相互升級威脅 俄警告駐基輔外交人員面臨致命風險】在烏克蘭總統澤連斯基誓言將進一步加強對俄羅斯煉油廠的打擊之後，俄羅斯表示，將加大對烏克蘭基礎設施的打擊力度。之前一天，俄羅斯外交部還警告稱，身在基輔的外交人員和外國官員處於“致命危險”之中。俄羅斯國防部週日表示：“俄羅斯武裝力量將加大對基輔及烏克蘭其他地區軍事和軍工設施以及相關基礎設施的打擊力度。”俄羅斯國防部援引了澤連斯基接受採訪時的言論。這篇採訪於週日刊發，澤連斯基在採訪中表示，烏克蘭必須透過打擊俄羅斯煉油廠來回應針對能源基礎設施的襲擊，因為這些煉油廠“為他們進行這場戰爭提供資金”。
-
----
-
-### 2026-10-05 02:56:29  #MKT News #Brent #Impact bullish #WTI
-
-UK Maritime Trade Operations said it received reports of an incident 60 nautical miles south of Yemen's Mocha port. A tanker reported multiple explosions nearby; crew were reported safe and no environmental impact observed.
-
----
-
-### 2026-10-05 02:56:13  #其他
-
-英國海上貿易行動辦公室（UKMTO）：據報告船員安全，暫未發現造成環境影響。
-
----
-
-### 2026-10-05 02:55:56  #其他
-
-英國海上貿易行動辦公室（UKMTO）：一艘油輪目擊船體附近發生多起爆炸。
-
----
-
-### 2026-10-05 02:55:48  #其他
-
-英國海上貿易行動辦公室（UKMTO）：收到一則發生在葉門穆哈以南 60 海里海域的事件報告。
-
----
-
-### 2026-10-05 02:43:33  #央行 #公司 #觀點 #國際
-
-【歐洲債市重燃傳染風險，大摩：若持續鉅額波動，恐引起央行關注】在一輪拋售潮勾起人們對十五年前歐元區債務危機的記憶後，交易員正對歐洲政府債券市場的傳染跡象保持高度警惕。當某一主權債券市場的金融壓力蔓延至其他市場——即使這種蔓延看似缺乏充分理由——就會引發令央行擔憂的混亂價格波動，並迫使它們在極端情況下出手干預。這正是2011-12年歐元區債務危機的典型特徵。摩根士丹利投資管理公司固定收益聯席主管Jeff Mueller表示：“我們開始看到傳染的初步跡象。如果10月1日觀察到的劇烈價格波動持續一段時間，這可能會引起政策制定者的關注。”
-
----
-
-### 2026-10-05 02:28:46  #其他
-
-週一悉尼盤初，美元兌G10貨幣報價持穩。
-
----
-
-### 2026-10-05 02:19:46  #國際
-
-據伊通社（IRNA）：不久前，伊朗格什姆島聽到來自海上方向的爆炸聲。島上未見任何遭到撞擊的痕跡。截至目前，當地訊息源尚未向媒體通報事件詳情。
-
----
-
-### 2026-10-05 02:11:47  #MKT News
-
-TASNIM NEWS: The deputy communications director of the Iranian presidential office said Paknejad had earlier submitted a resignation for personal reasons, which the president initially did not accept; the president accepted it today.
-
----
-
-### 2026-10-05 01:52:53  #公司 #國際
-
-【伊朗石油部長辭職 伊朗國家石油公司CEO任代理部長】當地時間4日，伊朗總統辦公室官員表示，在接受石油部長帕克內賈德的辭呈後，伊朗總統佩澤希齊揚已任命伊朗國家石油公司執行長哈米德·博爾德為伊朗石油部代理部長。（央視新聞）
-
----
-
-### 2026-10-05 01:51:35  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Islamic Republic News Agency (IRNA) reported explosions in waters off Iran's Qeshm Island.
-
----
-
-### 2026-10-05 01:47:32  #公司 #國際
-
-美國參議院少數黨領袖舒默要求安防科技公司Flock Safety 在 10 月 16 日前答覆有關資料使用的問題。
-
----
-
-### 2026-10-05 01:33:41  #國際
-
-【以總理下令對外國民航客機赴以安保工作進行徹底審查】當地時間10月4日晚間，以色列總理辦公室透過社交賬號釋出宣告稱，以總理內塔尼亞胡已指示該國國家安全委員會主席什穆埃爾·本·埃茲拉，要求其任命一名專門審查員，針對外國民用航空赴以飛行的所有安保環節展開全面、徹底的深入審查。（央視新聞）
-
----
-
-### 2026-10-05 01:25:05  #公司 #國際
-
-【尼加拉瓜宣佈退出中美洲議會】尼加拉瓜外交部3日簽署公告，宣佈立即退出中美洲議會。尼加拉瓜外交部表示，“在充分行使主權的情況下”做出這一決定，該決定“立即生效”。（央視新聞）
-
----
-
-### 2026-10-05 01:22:44  #MKT News
-
-cenc automatic detection: Oct 5 01:19, an about M3.7 earthquake occurred near Gaoxian, Yibin, Sichuan (28.56°N, 104.66°E). Final parameters subject to official rapid report.
-
----
-
-### 2026-10-05 01:22:03  #其他
-
-中國地震臺網自動測定：10月05日01時19分在四川宜賓市高縣附近（北緯28.56度，東經104.66度）發生3.7級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-10-05 01:16:50  #國際
-
-伊朗國家電視臺：伊朗總統任命Hamid Bovard為代理石油部長。
-
----
-
-### 2026-10-05 01:06:59  #焦點 #國際
-
-據伊朗塔斯尼姆通訊社：伊朗石油部長辭職。
-
----
-
-### 2026-10-05 01:06:52  #MKT News #Important
-
-TASNIM NEWS reports Iran's oil minister has resigned.
-
----
-
-### 2026-10-05 01:06:19  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【Nikkei: Saudi Arabia, UAE to assist Asia in building oil reserves】Nikkei reports Saudi Arabia and the UAE will help Asian countries accumulate oil reserves. Japan-led Asia Zero-Emissions Community, comprising 11 countries, held a ministerial meeting Thursday in the Philippines; senior Saudi and UAE officials will attend special consultations and are expected to signal cooperation on reserve accumulation. The International Energy Forum will meet in Saudi Arabia on Oct. 11; Japan is expected to present a framework for Asia-Middle East cooperation. The community plans a joint statement to form the basis for talks with Middle Eastern producers, followed by bilateral discussions to finalize scale and mechanics; Saudi and UAE officials are expected to expand exports to target countries and prioritise supply in emergency situations.
-
----
-
-### 2026-10-05 00:58:14  #MKT News
-
-【Hassett urges Powell to leave Fed board】Kevin Hassett, White House National Economic Council director and chief economic adviser to President Trump, said on Fox News' Sunday Morning Futures that former Fed chair Powell should leave the Federal Reserve Board "now" to respect the Fed's independence. The remarks followed an internal report that found management failures in the Federal Reserve's Washington headquarters renovation.
-
----
-
-### 2026-10-05 00:53:34  #國際
-
-【以總理稱將讓以軍成為海戰領軍者】以色列總理辦公室10月4日透過社交媒體發文表示，以色列總理內塔尼亞胡當天與以色列國防部長卡茨共同視察了位於阿什杜德的以色列海軍基地。內塔尼亞胡在視察中表示，海洋已成為“國際戰場”，以色列將加大對先進水面、水下武器裝備的投入，以應對地中海等海域的海上安全威脅。 內塔尼亞胡透露，根據軍方和安全部門的報告，以色列海軍目前亟需補充更多武器裝備。他證實，第六艘潛艇現已運抵以色列，但軍方提出了追加更多艦艇等需求。內塔尼亞胡稱，以色列的目標是在水面與水下作戰領域成為“全球領軍者之一”，並承諾將從海上捍衛以色列的國家安全。（CCTV國際時訊）
-
----
-
-### 2026-10-05 00:52:36  #其他 #國際
-
-市場訊息：沙烏地阿拉伯與阿聯酋將協助擴充亞洲石油儲備，沙特與阿聯酋政府將出席週四的亞洲零排放共同體（AZEC）會議。
-
----
-
-### 2026-10-05 00:41:39  #國際
-
-市場訊息：以色列總理內塔尼亞胡下令國家安全委員會，針對迪拜航空劫機未遂事件，評估外國民航安全狀況。
-
----
-
-### 2026-10-05 00:37:51  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-【Israeli military says it will expand forces to meet multi-front threats】Israeli military said on Oct. 4 Chief of General Staff Zamir chaired a senior commanders’ meeting and that the force is drawing lessons from the Oct. 7, 2023 attacks. Future military strategy will prioritize preventing sudden war and include a comprehensive expansion of forces. Zamir said a core lesson is the need to expand Israel’s security perimeter, and that, given limited strategic depth and “multi‑front threats,” the army must grow to meet widening operational tasks. He said the military is building a new strategy centered on constant readiness to respond to surprise war and neutralize threats at an early stage.
-
----
-
-### 2026-10-05 00:34:46  #央行 #國際
-
-【白宮國家經濟委員會主任哈塞特：鮑威爾應該離開美聯儲理事會】美國總統唐納德·特朗普的首席經濟顧問呼籲美聯儲前主席傑羅姆·鮑威爾離開美聯儲理事會，此前美聯儲一份內部報告指出其總部翻修工程存在管理失誤。白宮國家經濟委員會主任凱文·哈塞特在福克斯新聞Sunday Morning Futures節目中被問及鮑威爾是否應該辭職時表示：“我認為他是時候離開了，也是時候尊重美聯儲獨立性了。”美聯儲內部監察機構在9月30日的一份報告中表示，沒有發現刑事違法行為的證據，也沒有認定與這項24億美元翻修工程有關的任何“行政不當行為”，但報告指出，管理上的缺陷是導致專案成本較最初預算接近翻倍的部分原因。特朗普隨後在社交媒體發文稱，鮑威爾“應該被迫辭去在理事會的職務”。特朗普曾在鮑威爾擔任美聯儲主席期間不斷施壓，要求其降息。
-
----
-
-### 2026-10-05 00:34:03  #國際
-
-【以軍稱將擴編以應對多線威脅】以色列軍方10月4日釋出通告稱，以軍總參謀長扎米爾當天主持召開高階指揮官會議，並在會上表示，以軍正吸取2023年10月7日遭襲的教訓，未來的軍事戰略將以“防範突發戰爭”為基準，並全面推進軍隊擴編。通告稱，扎米爾表示，以軍的一大“核心教訓”是必須“擴大安全邊界”。他明確提出，由於以色列缺乏戰略縱深且面臨“多線威脅”，必須透過擴編軍隊來應對擴張的軍事任務。扎米爾透露，以軍正在構建新的戰略，其核心指導方針是“隨時準備應對突發戰爭，並將安全威脅消除在萌芽狀態”。（CCTV國際時訊）
-
----
-
-### 2026-10-05 00:17:18  #國際
-
-以色列總理內塔尼亞胡：我們的敵人企圖威脅我國在地中海的港口與海域，我們絕不會允許這種情況發生。
-
----
-
-### 2026-10-05 00:17:01  #MKT News
-
-【Netanyahu: Israel will not allow enemies to threaten its maritime lifeline】Visiting the Ashdod naval base, Prime Minister Netanyahu said the maritime domain has become an international battlefield, citing the Strait of Hormuz and Bab el‑Mandeb. He warned adversaries are threatening Israel’s Mediterranean waters, ports and shipping and said Israel will not allow it. Security officials have asked for more equipment; the sixth submarine has arrived in Israel and officials are seeking additional ships, weapons and other unspecified capabilities. Netanyahu said he intends to make Israel a global leader in maritime combat capabilities and to protect Israel via the seas.
-
----
-
-### 2026-10-05 00:14:46  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【Turkish foreign-policy expert: West and Ukrainian elites intend to continue war at cost of destroying state】Turkish foreign-policy expert Bilyal Sambur said Kyiv’s plan to step up strikes on Russian refineries breaches the laws of armed conflict, which prohibit attacks on civilian infrastructure, and signals more intense military action in the coming months and this winter. He added the West may prefer escalation because it would allow them to attribute any global economic shock to the Russia‑Ukraine war rather than Iran tensions, and argued Ukrainian elites and oligarchs have incentives to prolong the conflict to consolidate power, increasing the likelihood of provocative actions against Russia despite severe consequences.
-
----
-
-### 2026-10-05 00:11:04  #公司
-
-【胡塞武裝襲擊沙特兩處石油設施】葉門胡塞武裝發言人葉海亞·薩雷亞10月4日發表影片宣告稱，過去12小時內，沙特對葉門首都薩那以及焦夫省、塔伊茲省、阿姆蘭省、荷臺達省和薩達省發動50次空襲和導彈襲擊——自9月初本輪局勢升級以來，沙特對葉門發動的空襲和導彈襲擊累計達到1460次。薩雷亞稱，作為報復，胡塞武裝當天使用導彈和無人機，襲擊了沙特首都利雅得和胡賴斯地區的沙特阿美石油公司設施，並稱襲擊“成功命中目標”。 薩雷亞稱，胡塞武裝將繼續使用葉門自產的導彈和無人機襲擊沙特軍事基地及石油設施，直至沙特停止軍事行動並解除對葉門的封鎖。（CCTV國際時訊）
-
----
-
-### 2026-10-05 00:07:42  #國際
-
-【日本將召集第222屆臨時國會】日本定於當地時間10月5日召集第222屆臨時國會，首相高市早苗將在當天分別出席參議院和眾議院全體會議，發表施政演說。本期國會會期預計持續至12月12日，為期69天。（央視新聞）
-
----
-
-### 2026-10-05 00:07:38  #MKT News
-
-【Japan to convene 222nd extraordinary Diet session】Japan will convene the 222nd extraordinary Diet session on Oct. 5 local time. Prime Minister Sanae Takaichi will address full sittings of both the House of Councillors and the House of Representatives that day. The session is scheduled to run through Dec. 12, a 69-day term.
-
----
-
-### 2026-10-05 00:00:00  #MKT News
-
-HEZBOLLAH executive council chairman said resistance is a necessary national choice to defend Lebanese territory and resist Israeli greed, and that HEZBOLLAH will steadfastly continue on this path.
-
----
-
-### 2026-10-04 23:42:27  #國際
-
-美國能源部長賴特：特朗普正同步對伊朗施加外交與軍事壓力。
-
----
-
-### 2026-10-04 23:39:22  #其他
-
-葉門總理：我們堅定致力於將國家權力擴大至整個葉門，並結束胡塞武裝的叛亂。我們以高度的責任感應對當前局勢，為收復薩那和結束葉門人民的苦難做好準備。
-
----
-
-### 2026-10-04 23:34:06  #MKT News
-
-Yemen's prime minister said the government was responding to the current situation with a high sense of responsibility and was prepared to retake Sanaa and end the suffering of the Yemeni people.
-
----
-
-### 2026-10-04 23:33:29  #MKT News
-
-Yemen prime minister says government is committed to extending state authority across all of Yemen and ending the Houthi rebellion.
-
----
-
-### 2026-10-04 23:30:27  #國際
-
-美國駐以色列大使：迪拜航空事件屬於恐怖襲擊，目前尚未發現存在境外關聯。
-
----
-
-### 2026-10-04 23:28:37  #國際
-
-【澤連斯基：烏德強化防務合作 對烏美俄三方會談持積極態度】當地時間10月4日，烏克蘭總統澤連斯基與德國總理默茨在烏首都基輔召開聯合新聞釋出會，公佈多項防務合作成果，並介紹了烏美俄三方會談的相關進展。澤連斯基表示，烏克蘭與德國將聯合生產2000架“巴爾斯”遠端攔截無人機。與此同時，烏克蘭正加快推進本土防空體系建設，“炮塔”防禦計劃已進入系統化實施階段，後續將部署數十套防禦炮塔。此外，烏克蘭多款小型導彈正在研發中，預計本月下半月開展測試驗收。此外，澤連斯基指出，美國目前正分別與烏克蘭、俄羅斯保持溝通，並提議在10月底前舉行三方技術性會談。烏克蘭已明確對此表示支援，對在阿聯酋或美方提議的其他國家舉辦會談持開放、積極態度。現階段，美方將向俄方正式提出該會談提議，烏克蘭將靜待俄方回應。（央視新聞）
-
----
-
-### 2026-10-04 23:20:51  #MKT News
-
-The UN World Food Programme said one of its humanitarian aid convoys was struck by an airstrike in South Kordofan in southern Sudan in the early hours of the 3rd, killing one driver.
-
----
-
-### 2026-10-04 23:17:52  #國際
-
-【葉門‌總統領導委員會稱反攻胡塞武裝】葉門行使總統職權的總統領導委員會主席拉沙德·阿里米今天（10月4日）發表電視講話，宣佈對葉門胡塞武裝發動“重大軍事行動”，以奪取其控制下的領土。阿里米稱，發動反攻的決定是在“所有緩和局勢的機會都已耗盡”之後做出的，他指責胡塞武裝以進一步的升級來回應緩和衝突的努力。他在電視講話中表示：“今天，我宣佈開始軍事行動，以收復領土，並將國家及其機構的權力擴充套件到整個國土。” 據知情人士透露，本次軍事行動，將由沙特方面主導空戰，葉門政府軍負責地面作戰。美國為沙特在葉門的行動提供情報支援，一些地區國家和歐洲國家主要向沙特提供防禦性軍事援助。（CCTV國際時訊）
-
----
-
-### 2026-10-04 23:16:06  #其他
-
-英國海上貿易行動辦公室週日稱，10 月 1 日至 4 日霍爾木茲海峽共發生四起襲擊事件，均發生在海峽阿曼一側，每艘遇襲船隻都遭到不明射彈擊中。
-
----
-
-### 2026-10-04 23:12:02  #公司
-
-【軟銀集團孫正義罕見地就AI安全風險表達擔憂 呼籲各國攜手應對威脅】軟銀集團領導人孫正義是人工智慧最堅定的信奉者之一，但即便是他也表示，隨著機器正迅速獲得更多能力，他對安全風險感到擔憂。孫正義週日在京都舉行的“科技與社會”論壇期間的一場活動上表示，人工智慧的能力呈指數級增長，這就要求各國必須建立互信，才能共同駕馭這項技術。孫正義說：“我們已經沒有讓人類彼此爭鬥的奢侈選項了，” 各國需要攜手合作來控制強大人工智慧模型所帶來的更大威脅。他表示，如果超級智慧落入錯誤的人手中，可能會變得“超級危險”。
-
----
-
-### 2026-10-04 23:10:15  #MKT News
-
-【Israeli media: preliminary probe finds Dubai airline attacker acted alone】Israeli preliminary investigations indicate the co-pilot who attacked the captain aboard a Dubai airline flight acted alone, Channel 12 reported on April 4, citing sources. Security agencies opened an immediate probe that remains ongoing; investigators view the co-pilot as a "lone-wolf". Media identified him as 29-year-old Omani Hamam Hammami and reported he had planned to kill the captain and crash the aircraft into a skyscraper in Tel Aviv.
-
----
-
-### 2026-10-04 23:07:25  #公司 #國際
-
-【以媒稱初步調查顯示迪拜航空襲擊者系單獨作案】據以色列媒體4日報道，以色列方面的初步調查顯示，在迪拜航空公司客機駕駛艙中襲擊機長的副駕駛系單獨作案。以色列第12頻道電視臺援引訊息人士的話說，以安全機構在事發後立即啟動調查，目前調查仍在進行。調查人員認為，涉事副駕駛是“獨狼式”作案。另據媒體報道，這名副駕駛為29歲的阿曼籍男子哈馬姆·哈馬米。他原計劃殺宕機長，並駕駛飛機撞向以色列特拉維夫的摩天大樓。（新華社）
 
 ---
