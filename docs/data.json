@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-12 07:41:09",
-  "count": 10447,
+  "updated": "2026-10-12 07:45:05",
+  "count": 10451,
   "items": [
+    {
+      "id": "mkt:01a12d5a-583a-7ee0-a82c-e75485575d61",
+      "time": "2026-10-12 07:44:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense said the threat to ABHA has been eliminated."
+    },
+    {
+      "id": "mkt:01a12d5a-2303-7ee0-a82c-d997a2adfa7f",
+      "time": "2026-10-12 07:44:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's finance minister said the government will implement market-stabilization measures if global yields continue to rise."
+    },
+    {
+      "id": "5138132",
+      "time": "2026-10-12 07:43:55",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：TLVR晶片電感單位價值量提升 行業空間極速擴容】中信建投證券研報稱，多相TLVR電感是大勢所趨。AI晶片電感未來三大產業趨勢：1.單相電感走向多相電感，密度提升；2.水平供電轉向VPD垂直供電，供電效率提升；3.NON-TTLVR轉向TLVR電感，價值量提升。多相TLVR電感將成為必須。AI晶片電感從2025年到2028年市場規模擴容10倍以上。未來晶片電感面臨多重驅動，隨著AI晶片出貨增加、晶片功率上升、電感效能升級，AI晶片電感市場規模將快速擴容，規模增速=晶片出貨倍數×功率提升倍數×單顆價值提升倍數。"
+    },
+    {
+      "id": "te:markets:590989",
+      "time": "2026-10-12 07:43:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Extend Gains as Week Begins — Australian shares rose 24 points or 0.3% to 8,740 in early Monday trade, sustaining prior gains as U.S. futures firmed after Wall Street closed higher last week ahead of a busy run of earnings and inflation data. Locally, investors awaited the Reserve Bank's latest meeting minutes later this week, alongside September labor market, business confidence, and leading index figures. Focus in China, Australia's largest trading partner, turned to CPI/PPI and trade performance. However, gains were tempered by geopolitical risks after reports that U.S. President Donald Trump may join Saudi Arabia in retaliating against Iran-backed Houthis in Yemen. Tech, manufacturing, and consumer durables led advances, though steep losses in communications capped momentum. Notable movers included BHP Group (2.3%), Bluescope Steel (3.2%), South32 (2.8%), and Fortescue Ltd. (1.6%), while three of the four major banks added between 0.2% and 0.8%."
+    },
+    {
+      "id": "5138131",
+      "time": "2026-10-12 07:42:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：在全球收益率高企的背景下，必要時將出臺市場穩定措施。"
+    },
+    {
+      "id": "mkt:01a12d58-cd22-7ee0-a82c-d380065f7e92",
+      "time": "2026-10-12 07:42:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an alert over a possible threat to Abha."
+    },
     {
       "id": "mkt:01a12d56-4b25-7ee0-a82c-cbc958f165e6",
       "time": "2026-10-12 07:39:52",
@@ -95145,22 +95200,6 @@
         "Impact bullish"
       ],
       "text": "Japan's Nikkei 225 futures rose 1.86% in early trade."
-    },
-    {
-      "id": "5125460",
-      "time": "2026-10-05 07:44:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本防相召見駐日美軍司令】據日本富士電視臺今天（10月5日）報道，針對沖繩縣那霸市發生的駐日美軍涉嫌殺人案，日本防衛大臣小泉進次郎召見駐日美軍司令，表示日方“極其嚴肅看待”此事，並向美方提出抗議。日本警方10月4日逮捕了一名駐沖繩美國士兵，此人涉嫌10月3日凌晨在那霸市一家酒店搶劫並殺害一名當地女性。據日本廣播協會（NHK）今天報道，受害女性的頸部纏有類似繩索的物品，留有被勒過的痕跡，死因繫頸部受壓導致的窒息。嫌疑人、隸屬於普天間駐日美軍基地的美國海軍陸戰隊上等兵德文·雅各布·巴拉德在調查中否認了指控，稱“我不知道（此事）”。（CCTV國際時訊）"
-    },
-    {
-      "id": "5125459",
-      "time": "2026-10-05 07:41:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瓊州海峽明起將迎來國慶假期返程高峰】記者從瓊州海峽運輸企業瞭解到，瓊州海峽明天起將迎來國慶假期返程高峰。瓊州海峽南岸海口新海港、秀英港全部實行全預約過海，線下不設小車售票視窗，未購票成功的車輛請勿前往港口。小車須在航班開航前60分鐘至120分鐘時段內到港，過早或過晚都將被限制進港；散客在航班開航前20分鐘停止檢票。新能源車輛過海可優先選擇海口秀英港。（央視新聞）"
     }
   ]
 }
