@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-12 03:48:14",
-  "count": 10398,
+  "updated": "2026-10-12 03:52:09",
+  "count": 10399,
   "items": [
+    {
+      "id": "mkt:01a12c84-d885-7ee0-a82b-9496e3301c5b",
+      "time": "2026-10-12 03:51:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Axios reported White House officials said Trump's Sunday announcement of an \"energy ceasefire\" between Russia and Ukraine referred to a potential agreement and that Trump expects Zelensky to comply; officials added Ukrainian strikes on Russian refineries have damaged Zelensky's relationship with Trump more than they have hurt Russia."
+    },
     {
       "id": "5138013",
       "time": "2026-10-12 03:47:10",
