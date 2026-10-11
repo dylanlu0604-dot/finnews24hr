@@ -1,7 +1,181 @@
 {
   "date": "2026-10-11",
-  "count": 753,
+  "count": 771,
   "items": [
+    {
+      "id": "5137847",
+      "time": "2026-10-11 23:58:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家安全委員會秘書：兩週前我們已向華盛頓告知我們的條件，並表示霍爾木茲海峽不會開放，且在未滿足這些條件的情況下我們不會進行談判。"
+    },
+    {
+      "id": "mkt:01a12baa-9f18-7ee0-a82a-86586913dfa9",
+      "time": "2026-10-11 23:52:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Iran's Fars news agency: Secretary of Iran's Supreme National Security Council said the US response to Iran's latest proposal was \"not sufficient\", adding Washington has accepted some Iranian conditions while other issues remain unclear and the US must clarify outstanding questions."
+    },
+    {
+      "id": "5137839",
+      "time": "2026-10-11 23:52:14",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書：美國接受了我方部分條件，其餘條件仍未明確。"
+    },
+    {
+      "id": "5137838",
+      "time": "2026-10-11 23:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書：美國需要就仍未向伊朗澄清的問題作出說明。"
+    },
+    {
+      "id": "5137837",
+      "time": "2026-10-11 23:51:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗安全官員稱美國對伊朗最新提案的回覆“不充分”。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610113892130329",
+      "time": "2026-10-11 23:48:28",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國物流業景氣指數連續5個月處於擴張區間】10月11日，中國物流與採購聯合會釋出資料顯示，2026年9月，中國物流業景氣指數為51.5%，較8月回升0.6個百分點，連續5個月處在擴張區間。"
+    },
+    {
+      "id": "mkt:01a12ba5-1117-7ee0-a82a-7a5988823dec",
+      "time": "2026-10-11 23:46:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "French President Macron said France fully supports calls for a genuine energy ceasefire; Ukraine has signalled willingness to accept such an arrangement, while Russia continues to reject it and has intensified strikes on Ukrainian infrastructure in recent hours. France will continue to stand with Ukraine and President Zelenskiy."
+    },
+    {
+      "id": "5137832",
+      "time": "2026-10-11 23:45:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【生豬養殖企業相繼釋出前三季度銷售資料】截至10月11日，擁有生豬養殖業務的上市公司相繼釋出前三季度的銷售資料。從資料透露的資訊可知，受全年銷售價格偏低的影響，相關上市公司仍然面臨著較大的經營壓力。 上海鋼聯生豬行業分析師王紅焱在接受採訪時介紹，今年上半年，豬價相對平穩，多數養殖企業維持盈利或微利，隨著下半年豬價震盪下行，行業整體進入盈虧平衡線附近，成本控制較好的企業尚能維持，成本偏高的已出現虧損。（證券日報）"
+    },
+    {
+      "id": "mkt:01a12ba2-5806-7ee0-a82a-74b91fb38b1f",
+      "time": "2026-10-11 23:43:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "India's shipping minister said that after the M/T VALTHERA was hit by unidentified projectiles, all 11 Indian crew members were reported safe."
+    },
+    {
+      "id": "5137829",
+      "time": "2026-10-11 23:43:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長：不明炮彈擊中“瓦爾瑟拉”號油輪後，船上11名印度籍船員全部安全。"
+    },
+    {
+      "id": "5137825",
+      "time": "2026-10-11 23:42:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長：10月11日，懸掛馬紹爾群島旗幟的油輪“瓦爾瑟拉號”在霍爾木茲海峽被炮彈擊中，船上載有11名印度海員。"
+    },
+    {
+      "id": "mkt:01a12ba1-0fd4-7ee0-a82a-6ec2b901bc8a",
+      "time": "2026-10-11 23:42:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Indian shipping minister said on Oct. 11 the Marshall Islands-flagged oil tanker M/T Valthera sustained a projectile attack in the Strait of Hormuz; the vessel was carrying 11 Indian crew."
+    },
+    {
+      "id": "mkt:01a12b9f-34e0-7ee0-a82a-6532c0285588",
+      "time": "2026-10-11 23:40:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Ukrainian President Zelenskiy said he spoke with Canadian Prime Minister Carney, Finnish President Stubb and NATO Secretary‑General Rutte about an energy ceasefire announced by U.S. President Trump. Zelenskiy said Ukraine supports the ceasefire, that Russia should also back it, and that Kyiv is awaiting details from the U.S."
+    },
+    {
+      "id": "5137822",
+      "time": "2026-10-11 23:40:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：剛與加拿大總理卡尼、芬蘭總統斯圖布以及北約秘書長呂特通話，討論了特朗普宣佈的能源停火。烏克蘭支援這一停火，俄羅斯也支援這一點至關重要。我們正在等待美方提供細節。就我方而言，烏克蘭始終完全支援緩和局勢、保護生命以及為結束戰爭和保障持久和平所需的各項決定。"
+    },
+    {
+      "id": "5137816",
+      "time": "2026-10-11 23:38:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超強厄爾尼諾“攪動”全球餐桌】最近，“超強厄爾尼諾已形成”的話題衝上熱搜。聯合國糧農組織最新資料顯示，受物流運輸受阻和天氣風險等因素影響，9月糧農組織食品價格指數升至近四年來最高水平。而這場可能是1950年以來最強的厄爾尼諾，進一步加劇市場對食品價格通脹的擔憂。熱帶經濟作物成價格波動“重災區”。荷蘭合作銀行農業大宗商品市場主管卡洛斯·梅拉表示，受影響機率從高到低依次是：可可、羅布斯塔咖啡、棕櫚油、糖。"
+    },
+    {
+      "id": "5137811",
+      "time": "2026-10-11 23:36:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基回應“能源停火”：對他來說也是個新聞】烏克蘭總統澤連斯基11日對美國阿克西奧斯新聞網站說，烏克蘭和俄羅斯的“能源停火”對他來說也是個新聞。 澤連斯基說，如果俄羅斯人同意能源停火，烏克蘭就會同意。如果美總統特朗普與俄總統普京談成了，請告訴烏克蘭停火何時開始。他說：“我們準備好了，我們會接受。”（新華社）"
+    },
+    {
+      "id": "mkt:01a12b9c-119b-7ee0-a82a-5dd01f324837",
+      "time": "2026-10-11 23:36:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EU Commission President Von der Leyen said the European Council meeting this week will put Ukraine at the centre, reviewing Kyiv's funding needs for the year ahead and how to mobilize fresh global support. She said the EU will this week provide additional funding for drones and missiles to strengthen Ukraine's defenses and protect its airspace."
+    },
+    {
+      "id": "mkt:01a12b9b-d3f4-7ee0-a82a-5334ff4964b1",
+      "time": "2026-10-11 23:36:34",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "VON DER LEYEN said today she held a constructive call with ZELENSKIY and fully supports his call for a ceasefire to protect global food supplies and energy infrastructure in Ukraine and Russia."
+    },
     {
       "id": "5137794",
       "time": "2026-10-11 23:26:42",
