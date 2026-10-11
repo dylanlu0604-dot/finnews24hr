@@ -1,7 +1,43 @@
 {
   "date": "2026-10-12",
-  "count": 247,
+  "count": 251,
   "items": [
+    {
+      "id": "5138138",
+      "time": "2026-10-12 07:51:39",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：星網完成首次跨極區在軌通訊試驗 衛星網際網路商業化加速落地】中信建投研報指出，近日，中國星網GW星座完成首次跨極區在軌通訊試驗，“雪龍”號等科考船與南極秦嶺站實現南北兩極四節點雙向影片連線，時延不足1秒、上下行峰值約30Mbps，資料全程不經境外節點，標誌我國極區通訊實現全鏈路自主可控。依託GW-A59/A2多層軌道佈局、Ka頻段寬頻載荷與鐳射星間鏈路，試驗突破了GEO衛星無法覆蓋75°以上極區的盲區。"
+    },
+    {
+      "id": "5138137",
+      "time": "2026-10-12 07:51:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬克·古爾曼：蘋果將推出智慧家居中樞HomeView，聯手LG完善產品線】當地時間10月11日，知名科技記者馬克·古爾曼發文稱，蘋果計劃於10月13日釋出新一代智慧家居產品，包括搭載A18晶片、配備顯示屏的智慧家居中樞HomeView，以及搭載S10晶片的新款HomePod mini和搭載A19晶片的Apple TV。HomeView提供桌面和壁掛兩種版本，預計11月中旬上市；後兩款產品預計10月30日開售。古爾曼稱，蘋果還與LG電子合作開發智慧門鈴、門鎖、恆溫器及安防攝像頭等裝置，並計劃以“Apple Home Collection”品牌推出，相關產品預計最早於今年晚些時候上市。蘋果此次佈局旨在完善智慧家居生態，透過整合硬體、Siri人工智慧功能及Matter、Thread連線標準，提升裝置相容性，增強使用者對蘋果生態的依賴。"
+    },
+    {
+      "id": "5138136",
+      "time": "2026-10-12 07:50:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "油價回落，標普500股指期貨上漲0.2%，納斯達克股指期貨攀升0.5%。"
+    },
+    {
+      "id": "te:markets:590990",
+      "time": "2026-10-12 07:48:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rise Ahead of Bank Earnings — US stock futures edged higher on Monday as investors prepared for a busy week of major bank earnings, marking the start of the third-quarter reporting season. JPMorgan, Goldman Sachs, Citigroup and Wells Fargo are scheduled to report on Tuesday, followed by Bank of America and Morgan Stanley on Wednesday. Investors are also awaiting key inflation data, with the September consumer and producer price indexes due on Wednesday and Thursday, respectively. Last week, all three major US stock indexes closed higher as a rally in technology shares helped offset concerns over rising oil prices and bond yields. Meanwhile, energy market concerns resurfaced after President Donald Trump told reporters over the weekend that he was considering joining Saudi Arabia in its campaign against Iran-backed Houthi militants in Yemen following another deadly attack on Riyadh’s international airport."
+    },
     {
       "id": "5138135",
       "time": "2026-10-12 07:48:13",
