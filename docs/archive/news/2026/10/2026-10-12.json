@@ -1,7 +1,17 @@
 {
   "date": "2026-10-12",
-  "count": 124,
+  "count": 125,
   "items": [
+    {
+      "id": "mkt:01a12c90-2259-7ee0-a82b-af3c14d7e068",
+      "time": "2026-10-12 04:03:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Saudi state news agency reported Saudi Arabia and Qatar signed a memorandum of understanding to establish a cooperation framework in oil, gas and petrochemicals and to explore joint opportunities to build pipelines for transport and export."
+    },
     {
       "id": "5138025",
       "time": "2026-10-12 04:03:08",
