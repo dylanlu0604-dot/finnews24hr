@@ -1,7 +1,44 @@
 {
   "date": "2026-10-11",
-  "count": 705,
+  "count": 709,
   "items": [
+    {
+      "id": "5137728",
+      "time": "2026-10-11 22:18:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：別打破（能源停火協議）。"
+    },
+    {
+      "id": "mkt:01a12b53-a556-7ee0-a829-e256f107dae0",
+      "time": "2026-10-11 22:17:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump: Effective immediately, an \"energy ceasefire\" has been reached in the Russia-Ukraine war; both sides have agreed not to sabotage."
+    },
+    {
+      "id": "5137727",
+      "time": "2026-10-11 22:17:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：能源停火協議立即生效 。"
+    },
+    {
+      "id": "5137726",
+      "time": "2026-10-11 22:16:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：俄烏雙方已實現能源停火，能源停火協議立即生效 。"
+    },
     {
       "id": "mkt:01a12b51-3110-7ee0-a829-d80eb5373adb",
       "time": "2026-10-11 22:15:03",

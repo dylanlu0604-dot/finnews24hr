@@ -1,7 +1,44 @@
 {
-  "updated": "2026-10-11 22:16:24",
-  "count": 10286,
+  "updated": "2026-10-11 22:20:24",
+  "count": 10285,
   "items": [
+    {
+      "id": "5137728",
+      "time": "2026-10-11 22:18:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：別打破（能源停火協議）。"
+    },
+    {
+      "id": "mkt:01a12b53-a556-7ee0-a829-e256f107dae0",
+      "time": "2026-10-11 22:17:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Trump: Effective immediately, an \"energy ceasefire\" has been reached in the Russia-Ukraine war; both sides have agreed not to sabotage."
+    },
+    {
+      "id": "5137727",
+      "time": "2026-10-11 22:17:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：能源停火協議立即生效 。"
+    },
+    {
+      "id": "5137726",
+      "time": "2026-10-11 22:16:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普：俄烏雙方已實現能源停火，能源停火協議立即生效 。"
+    },
     {
       "id": "mkt:01a12b51-3110-7ee0-a829-d80eb5373adb",
       "time": "2026-10-11 22:15:03",
@@ -93652,56 +93689,6 @@
         "國際"
       ],
       "text": "美國地質調查局訊息，巴拿馬布裡卡以南295公里處發生5.0級地震。"
-    },
-    {
-      "id": "5125300",
-      "time": "2026-10-04 22:19:56",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "白宮國家經濟委員會主任哈塞特：雖然不同意加息，但尊重沃什出於正確原因所做的決定。"
-    },
-    {
-      "id": "mkt:01a10748-7dcc-7ee0-a794-4fe928a52453",
-      "time": "2026-10-04 22:19:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "HASSETT says Powell should step down."
-    },
-    {
-      "id": "mkt:01a10748-7a01-7ee0-a794-413d17a6f972",
-      "time": "2026-10-04 22:19:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Hassett: We respect Walsh's decision to vote with the commissioners in support of raising interest rates."
-    },
-    {
-      "id": "5125299",
-      "time": "2026-10-04 22:17:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮國家經濟委員會主任哈塞特：鮑威爾該離開了。"
-    },
-    {
-      "id": "5125298",
-      "time": "2026-10-04 22:16:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮國家經濟委員會主任哈塞特：我們尊重沃什與民眾一起投票支援提高利率的決定。"
     }
   ]
 }
