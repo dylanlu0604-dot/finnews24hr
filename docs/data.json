@@ -1,7 +1,40 @@
 {
-  "updated": "2026-10-11 22:32:08",
+  "updated": "2026-10-11 22:36:05",
   "count": 10290,
   "items": [
+    {
+      "id": "5137744",
+      "time": "2026-10-11 22:35:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍表示，襲擊引發的火情正由現場主管部門直接處置。"
+    },
+    {
+      "id": "mkt:01a12b63-b73d-7ee0-a829-f15af1eda7fb",
+      "time": "2026-10-11 22:35:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump wished everyone a Happy Columbus Day, especially the Italian‑American community, saying that community has been forced to endure the pain of radical left \"dumb Democrats\", socialists and communists running rampant in U.S. cities and towns."
+    },
+    {
+      "id": "5137743",
+      "time": "2026-10-11 22:34:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：一枚炮彈擊中利雅得機場，引發火災。"
+    },
+    {
+      "id": "5137742",
+      "time": "2026-10-11 22:34:26",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【浦發銀行落地全國首單掛鉤粵港澳大灣區氣溫指數結構性存款】近日，浦發銀行聯合國家氣象資訊中心、TCL實業控股股份有限公司（下稱“TCL實業”）、國泰君安風險管理有限公司（下稱“國君風險子公司”）成功落地全國首單“掛鉤粵港澳大灣區氣溫指數結構性存款”試點專案。該專案是“氣象×金融”服務場景的一次創新探索，旨在透過天氣指數衍生品工具，為實體企業提供應對氣象變化的新型風險管理手段。（上證報）"
+    },
     {
       "id": "mkt:01a12b60-4361-7ee0-a829-eb0a041279e9",
       "time": "2026-10-11 22:31:31",
@@ -93694,43 +93727,6 @@
         "MKT News"
       ],
       "text": "NHC: Hurricane Rachel has strengthened slightly further."
-    },
-    {
-      "id": "5125304",
-      "time": "2026-10-04 22:35:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，颶風“雷切爾”強度進一步小幅增強。"
-    },
-    {
-      "id": "mkt:01a10756-a288-7ee0-a794-5804042a2abd",
-      "time": "2026-10-04 22:34:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US energy secretary Wright said energy shipments through the Strait of Hormuz continue to increase."
-    },
-    {
-      "id": "5125303",
-      "time": "2026-10-04 22:33:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：柴油受到俄烏衝突影響。"
-    },
-    {
-      "id": "5125302",
-      "time": "2026-10-04 22:33:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：霍爾木茲海峽的石油供應持續增加。"
     }
   ]
 }
