@@ -1,7 +1,28 @@
 {
   "date": "2026-10-11",
-  "count": 738,
+  "count": 740,
   "items": [
+    {
+      "id": "mkt:01a12b80-4e01-7ee0-a82a-25c5fd1c8b08",
+      "time": "2026-10-11 23:06:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran security council secretary warns renewed war would target regional cables, data centres and AI facilities】The secretary of Iran's Supreme National Security Council said Iran is fully prepared and that, should war resume, it will demonstrate new capabilities. He said US assets in the UAE and around the Strait of Hormuz are highly valuable but have not been placed on Iran's target list to date. He warned that renewed conflict would see many regional undersea cables, data centres, AI facilities and other sites destroyed, assets he valued at more than $2 trillion."
+    },
+    {
+      "id": "5137779",
+      "time": "2026-10-11 23:06:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱對俄烏能源停火不知情】據美國“阿克西奧斯新聞網（Axios）”報道，烏克蘭總統澤連斯基稱，他對特朗普稍早前宣佈的“俄烏已同意能源停火”一事並不知情。他同時表示，如果俄方同意這一停火，烏方也將接受。美國總統特朗普今天（10月11日）在“真實社交”平臺上發文稱，俄烏已達成一致，同意即刻開始實施能源停火。（CCTV國際時訊）"
+    },
     {
       "id": "5137775",
       "time": "2026-10-11 23:02:43",

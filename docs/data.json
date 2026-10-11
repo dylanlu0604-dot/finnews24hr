@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-11 23:03:32",
-  "count": 10301,
+  "updated": "2026-10-11 23:07:38",
+  "count": 10302,
   "items": [
+    {
+      "id": "mkt:01a12b80-4e01-7ee0-a82a-25c5fd1c8b08",
+      "time": "2026-10-11 23:06:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran security council secretary warns renewed war would target regional cables, data centres and AI facilities】The secretary of Iran's Supreme National Security Council said Iran is fully prepared and that, should war resume, it will demonstrate new capabilities. He said US assets in the UAE and around the Strait of Hormuz are highly valuable but have not been placed on Iran's target list to date. He warned that renewed conflict would see many regional undersea cables, data centres, AI facilities and other sites destroyed, assets he valued at more than $2 trillion."
+    },
+    {
+      "id": "5137779",
+      "time": "2026-10-11 23:06:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱對俄烏能源停火不知情】據美國“阿克西奧斯新聞網（Axios）”報道，烏克蘭總統澤連斯基稱，他對特朗普稍早前宣佈的“俄烏已同意能源停火”一事並不知情。他同時表示，如果俄方同意這一停火，烏方也將接受。美國總統特朗普今天（10月11日）在“真實社交”平臺上發文稱，俄烏已達成一致，同意即刻開始實施能源停火。（CCTV國際時訊）"
+    },
     {
       "id": "5137775",
       "time": "2026-10-11 23:02:43",
@@ -93821,15 +93842,6 @@
         "MKT News"
       ],
       "text": "【Israeli media: preliminary probe finds Dubai airline attacker acted alone】Israeli preliminary investigations indicate the co-pilot who attacked the captain aboard a Dubai airline flight acted alone, Channel 12 reported on April 4, citing sources. Security agencies opened an immediate probe that remains ongoing; investigators view the co-pilot as a \"lone-wolf\". Media identified him as 29-year-old Omani Hamam Hammami and reported he had planned to kill the captain and crash the aircraft into a skyscraper in Tel Aviv."
-    },
-    {
-      "id": "5125309",
-      "time": "2026-10-04 23:07:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【以媒稱初步調查顯示迪拜航空襲擊者系單獨作案】據以色列媒體4日報道，以色列方面的初步調查顯示，在迪拜航空公司客機駕駛艙中襲擊機長的副駕駛系單獨作案。以色列第12頻道電視臺援引訊息人士的話說，以安全機構在事發後立即啟動調查，目前調查仍在進行。調查人員認為，涉事副駕駛是“獨狼式”作案。另據媒體報道，這名副駕駛為29歲的阿曼籍男子哈馬姆·哈馬米。他原計劃殺宕機長，並駕駛飛機撞向以色列特拉維夫的摩天大樓。（新華社）"
     }
   ]
 }
