@@ -1,7 +1,19 @@
 {
-  "updated": "2026-10-11 10:15:13",
-  "count": 10164,
+  "updated": "2026-10-11 10:18:59",
+  "count": 10163,
   "items": [
+    {
+      "id": "mkt:01a128c0-5fa4-7ee0-a827-1a7cb8c04200",
+      "time": "2026-10-11 10:17:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UN Secretary-General GUTERRES strongly condemned the Houthi armed group's deadly attack on Riyadh's King Khalid International Airport, saying attacks on Saudi civilian infrastructure violate international law and must stop immediately."
+    },
     {
       "id": "5137286",
       "time": "2026-10-11 10:13:43",
@@ -92640,23 +92652,6 @@
         "The Trump Trade"
       ],
       "text": "【Trump in Ohio cites Stellantis, Electra.aero and Bayer investment pledges, credits tariffs ahead of midterms】President Donald Trump campaigned in Vandalia, Ohio, saying \"your state is booming,\" and cited investment pledges to the state from Stellantis, Electra.aero and Bayer. He credited his tariff policies for securing those commitments and urged supporters to vote. The event was part of a month-long, intensified pre-election campaign to mobilize his base ahead of November midterms."
-    },
-    {
-      "id": "5125075",
-      "time": "2026-10-04 10:16:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音旗下中融小貸已更名為海豚小貸】10月4日，企查查資訊顯示，抖音旗下的小貸公司“深圳市中融小額貸款有限公司”（簡稱“中融小貸”），日前已更名為“深圳海豚小額貸款有限公司”（簡稱“海豚小貸”）。此前，該公司釋出更名公告稱，企業更名後，依照相關法律規定，企業主體和法律關係不受任何影響，以原名稱所開展的業務、簽訂的合同、作出的服務承諾繼續有效，相應由海豚小貸繼續履行。"
-    },
-    {
-      "id": "5125074",
-      "time": "2026-10-04 10:16:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【10月A股解禁規模超3100億元，5股解禁比例超70%】2026年10月，A股市場有138家上市公司的限售股份將迎來上市流通。據統計，以9月30日收盤價計算（下同），10月解禁總市值超3100億元。其中，共有13股解禁股份佔總股本比例超過50%。具體來看，解禁比例超50%的個股為泰凱英、天元智慧、長江能科、中船特氣、西安奕材、奧美森、頎中科技、陝西能源、光大同創、森泰股份、百瑞吉、首藥控股、禾元生物。其中，泰凱英以73.64%的解禁比例居首，天元智慧、長江能科、中船特氣、西安奕材緊隨其後，解禁比例分別約為73.46%、73.25%、72.62%、70.26%，前五家均超過70%。從股份型別看，上述高比例解禁個股多涉及首發原股東限售股份或首發戰略配售股份。"
     }
   ]
 }

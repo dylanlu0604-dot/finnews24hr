@@ -1,7 +1,19 @@
 {
   "date": "2026-10-11",
-  "count": 284,
+  "count": 285,
   "items": [
+    {
+      "id": "mkt:01a128c0-5fa4-7ee0-a827-1a7cb8c04200",
+      "time": "2026-10-11 10:17:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UN Secretary-General GUTERRES strongly condemned the Houthi armed group's deadly attack on Riyadh's King Khalid International Airport, saying attacks on Saudi civilian infrastructure violate international law and must stop immediately."
+    },
     {
       "id": "5137286",
       "time": "2026-10-11 10:13:43",
