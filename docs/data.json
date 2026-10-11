@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-12 03:06:00",
-  "count": 10390,
+  "updated": "2026-10-12 03:09:52",
+  "count": 10391,
   "items": [
+    {
+      "id": "mkt:01a12c5c-b05c-7ee0-a82b-710163f6ce1e",
+      "time": "2026-10-12 03:07:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi civil aviation authority: King Fahd International Airport in Dammam attacked】On the evening of Oct. 11 local time, the Saudi General Authority of Civil Aviation said King Fahd International Airport in Dammam was attacked. The authority said attacks on Saudi civil aviation facilities have continued recently. Authorities are coordinating an assessment of airport damage and conducting security inspections of affected facilities."
+    },
     {
       "id": "5137987",
       "time": "2026-10-12 03:01:54",
