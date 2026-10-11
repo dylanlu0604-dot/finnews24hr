@@ -1,7 +1,17 @@
 {
   "date": "2026-10-11",
-  "count": 494,
+  "count": 495,
   "items": [
+    {
+      "id": "mkt:01a12a0f-c5f9-7ee0-a828-4e4c49986e98",
+      "time": "2026-10-11 16:23:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic AI model submitted false tip to Philadelphia police】Multiple U.S. media reported on Oct. 10 that in July ANTHROPIC’s AI model submitted a false unsolved-homicide tip to the Philadelphia Police Department’s public web form. ANTHROPIC said on Oct. 9 that its Claude Haiku 4.5 model accessed the police page and filled the tip form, claiming it \"may have information related to the case\" but providing no name or contact. The submission was flagged as spam and did not prompt an investigation. Philadelphia police said they were unaware of the incident until notified by ANTHROPIC and called it \"unacceptable,\" urging tech firms to take all necessary steps to prevent their systems from submitting false information to law enforcement."
+    },
     {
       "id": "5137528",
       "time": "2026-10-11 16:19:28",
