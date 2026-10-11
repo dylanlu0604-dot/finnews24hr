@@ -1,7 +1,555 @@
 {
   "date": "2026-10-12",
-  "count": 126,
+  "count": 183,
   "items": [
+    {
+      "id": "5138087",
+      "time": "2026-10-12 06:36:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "10月12日6時30分，重建後的皇崗口岸正式開通，實施“一地兩檢”安排及“合作查驗、一次放行”全新通關模式，旅客出入境更加便利。（新華社）"
+    },
+    {
+      "id": "5138086",
+      "time": "2026-10-12 06:31:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美聯邦航空局提醒美航空公司注意沙特領空安全威脅】當地時間10月11日，美國聯邦航空管理局（FAA）通知美國各航空公司，在飛往或飛越沙烏地阿拉伯時務必保持謹慎，理由是持續的軍事活動及導航系統干擾構成了安全威脅。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a12d18-0fdf-7ee0-a82c-82c1610463fd",
+      "time": "2026-10-12 06:31:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Shenzhen–Hong Kong Huanggang port opens, begins 24-hour passenger and vehicle clearance】At 06:30 on the 12th, Shenzhen–Hong Kong Huanggang port officially opened, offering 24-hour border clearance for passengers and passenger vehicles. Passenger inspection at the Shenzhen Huanggang temporary inspection facility and at Hong Kong’s Lok Ma Chau control point has been suspended."
+    },
+    {
+      "id": "mkt:01a12d0f-2f86-7ee0-a82c-7d58420e5a6b",
+      "time": "2026-10-12 06:22:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude extends early-session gains to 1.00%, trading at $91.88/bbl."
+    },
+    {
+      "id": "5138085",
+      "time": "2026-10-12 06:21:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4210美元/盎司，日內跌0.15%。"
+    },
+    {
+      "id": "mkt:01a12d0b-8247-7ee0-a82c-7000b5199aa9",
+      "time": "2026-10-12 06:18:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi General Authority of Civil Aviation said Riyadh's King Khalid International Airport was attacked on Sunday, killing one and injuring 11."
+    },
+    {
+      "id": "5138084",
+      "time": "2026-10-12 06:16:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民航部門表示，週日利雅得哈立德國王國際機場遇襲事件造成1人死亡、11人受傷。"
+    },
+    {
+      "id": "5138083",
+      "time": "2026-10-12 06:16:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國公民應注意沙烏地阿拉伯航班可能被取消以及領空關閉的可能性。"
+    },
+    {
+      "id": "5138082",
+      "time": "2026-10-12 06:15:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人侯賽因·穆赫比周日在時間平臺釋出了一張導彈陣地瞄準一艘航空母艦的圖片，並配文“我們正在等待”。此前，美國“西奧多·羅斯福”號航母打擊群正駛向中東。“羅斯福”號於9月27日從聖迭戈出發，預計將部署至該地區，目前“喬治·華盛頓”號正在該地區活動。"
+    },
+    {
+      "id": "5138081",
+      "time": "2026-10-12 06:07:40",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【納斯達克期貨走高，原油小幅上漲】週一早盤，美國股指期貨小幅走高，原油合約溫和上漲。費城半導體指數上週末收跌，亞洲晶片企業相關資產或將走弱。"
+    },
+    {
+      "id": "mkt:01a12d01-48ee-7ee0-a82c-6b3e6834e885",
+      "time": "2026-10-12 06:07:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Former U.S. Vice President Harris said the surge in U.S. diesel and gasoline prices is driven by Trump and his war on Iran. She called his latest ploy, selling fuel‑supply solutions to ally Putin, an act of weakness that funnels funds to Russia's military while doing nothing to ease cost burdens on U.S. households."
+    },
+    {
+      "id": "mkt:01a12cfe-56e1-7ee0-a82c-64e910adc1b2",
+      "time": "2026-10-12 06:03:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a M5.3 earthquake struck Indonesia’s Sulawesi island at 05:34 on Oct 12; hypocenter depth 110 km."
+    },
+    {
+      "id": "5138080",
+      "time": "2026-10-12 06:02:29",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院敦促，使用沙特機場時需“高度謹慎”。"
+    },
+    {
+      "id": "mkt:01a12cfc-a88b-7ee0-a82c-5ad15672b0c4",
+      "time": "2026-10-12 06:01:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Spot gold opened slightly lower on Monday, trading at $4,193/oz. Spot silver opened slightly higher, at $60.85/oz."
+    },
+    {
+      "id": "5138079",
+      "time": "2026-10-12 06:01:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，他將在俄亥俄州之後前往阿拉斯加。"
+    },
+    {
+      "id": "5138078",
+      "time": "2026-10-12 06:01:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網正式測定：10月12日05時34分在印尼蘇拉威西島（北緯0.50度，東經121.85度）發生5.3級地震，震源深度110千米。"
+    },
+    {
+      "id": "mkt:01a12cfc-0df3-7ee0-a82c-5044039eb15d",
+      "time": "2026-10-12 06:01:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent opened 0.3% higher on Monday at $91.28/bbl and $103.06/bbl, respectively."
+    },
+    {
+      "id": "mkt:01a12cfb-27ed-7ee0-a82c-4fdef57e27fa",
+      "time": "2026-10-12 06:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. stock index futures opened marginally higher on Monday."
+    },
+    {
+      "id": "5138077",
+      "time": "2026-10-12 05:59:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普宣佈凱蒂·扎卡里亞將正式出任白宮新聞秘書】當地時間10月11日，美國總統特朗普在社交媒體平臺“真實社交”上表示，他很高興地宣佈，凱蒂·扎卡里亞將於12日正式出任白宮新聞秘書，並於13日上午9時30分在白宮新聞簡報室舉行首次新聞釋出會。據瞭解，扎卡里亞曾任國土安全部發言人兼公共事務副助理部長，經常在福克斯新聞頻道、大全新聞網等保守派媒體擔任評論員。白宮新聞秘書這一職務在萊維特8月底離職後一直空缺。（央視新聞）"
+    },
+    {
+      "id": "5138076",
+      "time": "2026-10-12 05:58:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：明天將前往俄亥俄州揚斯敦參加（選舉）集會。"
+    },
+    {
+      "id": "mkt:01a12ce8-a15f-7ee0-a82c-459cd8d18aef",
+      "time": "2026-10-12 05:40:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Katie Zacharia will formally become White House press secretary tomorrow (12th ET), Columbus Day, and will hold her first briefing Tuesday at 9:30 a.m. ET in the White House press briefing room. He said she has been with him from the start and will do an outstanding job."
+    },
+    {
+      "id": "5138075",
+      "time": "2026-10-12 05:39:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局敦促美國航空公司飛往沙烏地阿拉伯或在沙烏地阿拉伯上空飛行時保持警惕。"
+    },
+    {
+      "id": "mkt:01a12ce7-d55b-7ee0-a82c-3c80d9f14989",
+      "time": "2026-10-12 05:39:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The FAA urged U.S. carriers to exercise caution when flying to Saudi Arabia or over Saudi airspace."
+    },
+    {
+      "id": "5138074",
+      "time": "2026-10-12 05:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：扎卡里亞將於週二舉行首場介紹性新聞簡報會。"
+    },
+    {
+      "id": "5138073",
+      "time": "2026-10-12 05:37:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：扎卡里亞將於明日就任新聞秘書。"
+    },
+    {
+      "id": "mkt:01a12ce2-e481-7ee0-a82c-3052a16b5e99",
+      "time": "2026-10-12 05:33:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "NZDUSD",
+        "Impact bearish"
+      ],
+      "text": "At the FX open, the dollar index (DXY) rose 0.1% to 102.3. NZD/USD fell 0.25% to just below 0.56."
+    },
+    {
+      "id": "5138072",
+      "time": "2026-10-12 05:27:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍表示，一艘載有75萬桶原油的油輪週日觸雷起火，成為當天在霍爾木茲海峽觸雷的第三艘油輪。"
+    },
+    {
+      "id": "mkt:01a12cd9-cb84-7ee0-a82c-28a8a664dfe3",
+      "time": "2026-10-12 05:23:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Tanker struck by drone off Sohar, Oman, UKMTO says】On Oct 11 local time the UK Maritime Trade Operations (UKMTO) reported a tanker at an anchorage off Sohar, Oman, was struck by an unmanned aerial vehicle. UKMTO initially received a report of a security incident and has formally classified it as an attack. Local authorities are assisting crew evacuation. The extent of damage to the vessel and any environmental impact are unclear; the incident is under investigation."
+    },
+    {
+      "id": "5138071",
+      "time": "2026-10-12 05:23:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一油輪在阿曼附近海域遭無人機襲擊】當地時間10月11日，英國海上貿易行動辦公室（UKMTO）釋出通報稱，一艘油輪在阿曼蘇哈爾港附近錨地遭到無人機襲擊。通報稱，UKMTO最初接到一艘油輪發生安全事件的報告。隨後，經確認，該油輪遭到一架無人駕駛航空器襲擊，UKMTO已將事件正式歸類為“襲擊事件”。目前，當地有關部門正在協助船員撤離。油輪受損程度及事件可能造成的環境影響尚不清楚，事件仍在調查中。（央視新聞）"
+    },
+    {
+      "id": "5138070",
+      "time": "2026-10-12 05:20:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國駐沙烏地阿拉伯大使館在社交平臺平臺發帖建議英國公民，除必要出行外，避免前往沙烏地阿拉伯吉達和達曼，並避免前往除麥地那機場外的所有沙特機場。"
+    },
+    {
+      "id": "mkt:01a12cd6-59ee-7ee0-a82c-23c9762e3c10",
+      "time": "2026-10-12 05:20:07",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Mudslide traps two at Codelco's El Teniente mine】Codelco said a mudslide driven by severe weather in central Chile struck the open‑pit Cráter Norte area of its El Teniente mine at about 1400 local time on Sunday, trapping two workers. Three workers were in the area; one was rescued and taken to hospital, the locations of the other two have been identified and rescue operations are ongoing. The incident follows a fatal accident at another Codelco‑operated mine less than two weeks ago. The episode is the latest setback for Chile, the world’s largest copper producer, which is contending with output declines, operational disruptions and rising labour tensions while copper trades near record highs."
+    },
+    {
+      "id": "5138069",
+      "time": "2026-10-12 05:17:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國建議不要前往達曼以及沙烏地阿拉伯的大部分機場。"
+    },
+    {
+      "id": "mkt:01a12cc9-2686-7ee0-a82c-1fb600c1a197",
+      "time": "2026-10-12 05:05:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UKMTO reclassifies the incident at the Sohar anchorage in Oman as an attack. A tanker was struck by a drone; local authorities are assisting with crew evacuation."
+    },
+    {
+      "id": "5138068",
+      "time": "2026-10-12 05:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯利康Efzimfotase alfa銷售峰值預測有望達到50億美元，高管認為這款骨病藥物有望獲批。"
+    },
+    {
+      "id": "5138067",
+      "time": "2026-10-12 05:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國石油退出利雅得能源會議，此前沙特發生機場襲擊事件。"
+    },
+    {
+      "id": "5138066",
+      "time": "2026-10-12 04:59:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：願為政治解決葉門衝突提供一切幫助】當地時間11日晚，伊朗外長阿拉格齊與沙特外交大臣費薩爾通電話，就當前地區局勢交換意見。阿拉格齊對地區緊張局勢升級表示關切，並強調堅持軍事手段而忽視政治解決只會使當前局勢更加複雜。阿拉格齊強調，該地區危機沒有軍事解決途徑，伊朗願提供一切幫助，旨在促成沙特和葉門之間的對話和最終達成政治解決方案。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a12cc3-712c-7ee0-a82c-12caeb6b5d70",
+      "time": "2026-10-12 04:59:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign minister offers assistance to broker political settlement in Yemen】On the evening of the 11th local time, Iranian Foreign Minister Araghchi spoke by phone with Saudi Foreign Minister Faisal about the regional situation. Araghchi expressed concern at rising tensions, warned that relying on military measures rather than political solutions would complicate the situation, said there is no military solution to the crisis, and offered Iran's full assistance to facilitate dialogue between Saudi Arabia and Yemen toward a political settlement."
+    },
+    {
+      "id": "5138065",
+      "time": "2026-10-12 04:56:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國：不支援美俄就俄提供柴油達成一致】英國國防大臣韋斯·斯特里廷說，英國不支援美俄兩國領導人就俄羅斯向美國及全球市場提供柴油達成一致。（新華社）"
+    },
+    {
+      "id": "mkt:01a12cb8-4288-7ee0-a82c-0c7656953494",
+      "time": "2026-10-12 04:47:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian Foreign Minister Araghchi told Saudi Arabia’s foreign minister in a call that military action rather than diplomacy would further complicate the situation and said Iran is willing to help facilitate dialogue between Riyadh and the Houthi movement to seek a political settlement."
+    },
+    {
+      "id": "mkt:01a12cb6-8b29-7ee0-a82c-05f1bdc01dba",
+      "time": "2026-10-12 04:45:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Energy Ministry said Saudi Minister of Industry and Mineral Resources and Kuwait's Minister of Electricity, Water and Renewable Energy signed a memorandum of understanding on cooperation in the power and renewables sector."
+    },
+    {
+      "id": "mkt:01a12caa-97e5-7ee0-a82b-f8728b1498b6",
+      "time": "2026-10-12 04:32:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's foreign minister told Saudi Arabia's foreign minister Tehran is ready to assist in facilitating dialogue between Riyadh and Yemeni parties."
+    },
+    {
+      "id": "5138060",
+      "time": "2026-10-12 04:32:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長稱，已告知沙特外交大臣，德黑蘭方面已準備好提供協助，推動沙特與葉門展開對話。"
+    },
+    {
+      "id": "5138059",
+      "time": "2026-10-12 04:32:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞馬遜正洽談70億美元收購人工智慧初創公司Decart】亞馬遜正洽談收購人工智慧初創公司Decart，交易估值可能約為70億美元。如果談判不破裂或沒有其他競購方出現，交易可能很快就會達成。據PitchBook資料，Decart已從紅杉資本、Benchmark和Radical Ventures等投資者處籌集了超過4億美元的風險投資資金，其在5月的估值接近40億美元。該公司由三位以色列工程師於2023年創立，分別是Dean Leitersdorf和Orian Leitersdorf兄弟以及Moshe Shalev。Decart還在開發名為Lucy和Oasis的世界模型。"
+    },
+    {
+      "id": "mkt:01a12ca8-9fb1-7ee0-a82b-f79be93b8358",
+      "time": "2026-10-12 04:30:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Market Themes",
+        "AI Revolution",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, reports Amazon (AMZN.O) is in talks to acquire AI startup Decart for about $7 billion, a deal that would value Decart at roughly $7 billion."
+    },
+    {
+      "id": "mkt:01a12ca7-f04d-7ee0-a82b-e972669d06cf",
+      "time": "2026-10-12 04:29:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal, citing sources, says Amazon (AMZN.O) is in talks to acquire AI startup Decart."
+    },
+    {
+      "id": "5138050",
+      "time": "2026-10-12 04:27:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜正洽談收購人工智慧初創公司Decart。"
+    },
+    {
+      "id": "5138049",
+      "time": "2026-10-12 04:26:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：對能源基礎設施和平民的襲擊應該停止。"
+    },
+    {
+      "id": "5138048",
+      "time": "2026-10-12 04:26:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：支援烏克蘭與俄羅斯達成能源停火協議。"
+    },
+    {
+      "id": "5138047",
+      "time": "2026-10-12 04:26:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特使威特科夫和賈裡德·庫什納已暫緩原定前往莫斯科的行程，直到他們確定烏克蘭和歐洲國家是否願意支援一項提交給普京的新統一和平方案。"
+    },
+    {
+      "id": "mkt:01a12c9f-e99a-7ee0-a82b-e6e6b417099e",
+      "time": "2026-10-12 04:20:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Canada's prime minister Carney's office said he supports an energy ceasefire between Ukraine and Russia."
+    },
+    {
+      "id": "mkt:01a12c9f-dffe-7ee0-a82b-df046b2749bd",
+      "time": "2026-10-12 04:20:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Office of Canadian Prime Minister Carney said he spoke with U.S. President Trump."
+    },
+    {
+      "id": "mkt:01a12c9d-ca5d-7ee0-a82b-d11b7233b75c",
+      "time": "2026-10-12 04:18:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market sources: Several U.S. senators issued statements urging President Trump to reverse a decision allowing imports of Russian diesel."
+    },
+    {
+      "id": "mkt:01a12c9b-4044-7ee0-a82b-c8ac6a0c1efa",
+      "time": "2026-10-12 04:15:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "According to Saudi state news agency SPA, Saudi and Iranian foreign ministers discussed the latest escalation in regional tensions."
+    },
+    {
+      "id": "5138038",
+      "time": "2026-10-12 04:14:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯與伊朗兩國外長討論了地區最新局勢升級。"
+    },
+    {
+      "id": "mkt:01a12c9a-9bba-7ee0-a82b-c351b2bdcb74",
+      "time": "2026-10-12 04:14:52",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRNA reported Iran's deputy foreign minister said the Strait of Hormuz is not merely a shipping channel but an integral part of Iran's national security, and Iran reserves the right to take all available measures to protect it."
+    },
+    {
+      "id": "mkt:01a12c98-fce8-7ee0-a82b-bb2ac7546163",
+      "time": "2026-10-12 04:13:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. media: Witkoff and Kushner postpone Moscow trip】Axios reports U.S. special envoy for Middle East affairs Witkoff and Jared Kushner have postponed a planned trip to Moscow, saying the visit will wait at least until Ukraine and European partners are ready to agree on a new unified proposal directed at Vladimir Putin. A Ukrainian official told Axios that during Miami talks Witkoff and Kushner threatened to halt U.S. intelligence sharing if Ukraine continued to ignore Trump’s demands. A U.S. official denied the threat, saying the pair told Ukrainian counterparts the U.S. remains a strong partner and provides ammunition and intelligence, and warned Ukraine against actions that would harm U.S. consumer interests."
+    },
+    {
+      "id": "5138037",
+      "time": "2026-10-12 04:11:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪：對我們而言，霍爾木茲海峽遠不只是船舶通道，它是伊朗國家安全不可或缺的組成部分。不言而喻，我們保留採取一切可用措施加以保護的權利。"
+    },
     {
       "id": "mkt:01a12c95-065e-7ee0-a82b-b69320113e4c",
       "time": "2026-10-12 04:08:46",
