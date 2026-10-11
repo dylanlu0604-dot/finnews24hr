@@ -1,7 +1,38 @@
 {
-  "updated": "2026-10-11 09:18:54",
-  "count": 10136,
+  "updated": "2026-10-11 09:22:38",
+  "count": 10138,
   "items": [
+    {
+      "id": "mkt:01a1288c-77e7-7ee0-a827-0853f18cfca2",
+      "time": "2026-10-11 09:20:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【AI buying fades in South Korea; turnover down 70% from late-May as foreigners exit】South Korea’s equity market has seen AI-driven buying evaporate: market turnover is down about 70% from a late‑May peak as foreign investors accelerate withdrawals and domestic retail selling intensifies. The reversal reflects heavy concentration in Samsung Electronics and SK Hynix. Phillip Wool, portfolio manager at Rayliant Global Advisors, said his fund has been taking profits on Korean AI names and is underweight SK Hynix and Samsung. Julius Baer’s Richard Tang said capital is rotating back into US equities, prompting sustained foreign outflows from Korean stocks. UBS Global Wealth Management’s Chun‑Lai Wu said the firm prefers Taiwan equities for AI exposure, citing a more complete hardware ecosystem and stronger capex plans among major tech companies."
+    },
+    {
+      "id": "5137052",
+      "time": "2026-10-11 09:19:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西渝高鐵高升二號隧道今日貫通 全線建設進入關鍵攻堅階段】記者從京昆高速鐵路西昆公司獲悉，10月11日，隨著最後一次爆破作業順利完成，西安至重慶高速鐵路（以下簡稱“西渝高鐵”）高升二號隧道貫通，為全線按期建成通車奠定堅實基礎。（央視新聞）"
+    },
+    {
+      "id": "5137051",
+      "time": "2026-10-11 09:18:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三季度高頻資料折射我國經濟向好態勢】記者11日從國家發展改革委國家資訊中心瞭解到，三季度，消費、外貿、投資等領域多項高頻資料平穩向好，我國經濟頂壓前行，保持穩中有進、穩中向優態勢，增長動能不斷積蓄。 線下消費大資料顯示，三季度，各類消費支付金額同比增長2.6%，增速較二季度提高0.7個百分點。9月線下支付金額同比增長3.1%，增速較8月提高0.5個百分點，連續3個月上行。 “三季度以來，我國各項促消費政策持續擴圍加力，居民消費意願穩步回暖，市場消費需求不斷釋放，超大規模市場優勢進一步凸顯，為擴內需、穩增長提供了有力支撐。”國家發展改革委國家資訊中心大資料發展部副主任魏穎說。 資料顯示，三季度主要港口貨運船舶離港、到港載重同比分別增長43.1%、0.3%，較二季度提高43.0、0.7個百分點。其中，9月主要港口貨運船舶離港、到港載重同比分別增長53.2%、4.5%。面對複雜嚴峻的國際環境，我國外貿繼續保持高景氣態勢，展現出強大韌性和活力，為全球市場注入更多確定性。（新華社）"
+    },
     {
       "id": "5137050",
       "time": "2026-10-11 09:16:55",
@@ -92420,14 +92451,6 @@
         "MKT News"
       ],
       "text": "【US media: US expels two members of Iran's UN delegation】Axios, citing US officials, reported on the 3rd that two members of Iran's delegation to the UN General Assembly in New York were \"expelled\" from the United States on the 3rd after being ordered to leave days earlier."
-    },
-    {
-      "id": "mkt:01a1047e-d211-7ee0-a791-b0f801e73aa1",
-      "time": "2026-10-04 09:19:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yangtze River Delta rail traffic expected 3.84 mln passengers on Oct 4; 104 extra trains】China Railway Shanghai Group said Yangtze River Delta rail traffic is expected to carry 3.84 mln passengers on Oct 4, versus 3.729 mln on Oct 3. Since holiday transport began on Sep 23 through Oct 3 cumulative ridership reached 37.234 mln, averaging about 3.385 mln per day. Routes to Shanghai, Suzhou, Yangzhou, Hangzhou, Nanjing, Huangshan, Changsha, Qingdao, Fuzhou and Xiamen remain busy. To match demand the group plans 104 additional services on Oct 4, will couple 294 EMU trains into longer formations and add 131 conventional cars to expand capacity."
     }
   ]
 }
