@@ -1,7 +1,28 @@
 {
   "date": "2026-10-12",
-  "count": 104,
+  "count": 106,
   "items": [
+    {
+      "id": "mkt:01a12c73-a939-7ee0-a82b-7f6f8ad026aa",
+      "time": "2026-10-12 03:32:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Kremlin says Russia will smoothly sell diesel on global markets."
+    },
+    {
+      "id": "5138000",
+      "time": "2026-10-12 03:31:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：俄羅斯將在全球市場順利銷售柴油。"
+    },
     {
       "id": "5137997",
       "time": "2026-10-12 03:23:25",

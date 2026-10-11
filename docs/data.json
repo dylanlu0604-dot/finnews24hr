@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-12 03:29:08",
+  "updated": "2026-10-12 03:32:58",
   "count": 10390,
   "items": [
+    {
+      "id": "mkt:01a12c73-a939-7ee0-a82b-7f6f8ad026aa",
+      "time": "2026-10-12 03:32:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Kremlin says Russia will smoothly sell diesel on global markets."
+    },
+    {
+      "id": "5138000",
+      "time": "2026-10-12 03:31:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：俄羅斯將在全球市場順利銷售柴油。"
+    },
     {
       "id": "5137997",
       "time": "2026-10-12 03:23:25",
@@ -94637,22 +94658,6 @@
         "其他"
       ],
       "text": "市場訊息：施耐德電氣接近達成一項交易，擬以 200 億美元收購工業軟體企業 PTC。交易最早可能於週一公佈。"
-    },
-    {
-      "id": "mkt:01a10865-cc48-7ee0-a795-020ca209f33c",
-      "time": "2026-10-05 03:30:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Austria's vice‑chancellor said the finance minister will assume the vice‑chancellor role early next year."
-    },
-    {
-      "id": "5125373",
-      "time": "2026-10-05 03:30:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "奧地利副總理：財政部長將於明年初接替他出任副總理。"
     }
   ]
 }
