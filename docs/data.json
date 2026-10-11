@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-12 07:33:28",
-  "count": 10445,
+  "updated": "2026-10-12 07:37:17",
+  "count": 10443,
   "items": [
+    {
+      "id": "5138128",
+      "time": "2026-10-12 07:34:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國臺灣阿波羅電力採購特斯拉 Megapack 儲能裝置】根據中國臺灣證券交易所週日披露的公告，綜合能源服務商阿波羅電力於 10 月 8 日簽署採購協議，購入 260 套特斯拉 Megapack 2XL 儲能系統，總容量約 1 吉瓦時。受保密協議約束，合同金額未對外披露。裝置預計在 2027 年底前完成交付，專案計劃 2028 年投入運營。專案時間表取決於裝置交付、工程施工與電網接入進度。"
+    },
     {
       "id": "5138127",
       "time": "2026-10-12 07:31:58",
@@ -95121,36 +95129,6 @@
         "其他"
       ],
       "text": "【瓊州海峽明起將迎來國慶假期返程高峰】記者從瓊州海峽運輸企業瞭解到，瓊州海峽明天起將迎來國慶假期返程高峰。瓊州海峽南岸海口新海港、秀英港全部實行全預約過海，線下不設小車售票視窗，未購票成功的車輛請勿前往港口。小車須在航班開航前60分鐘至120分鐘時段內到港，過早或過晚都將被限制進港；散客在航班開航前20分鐘停止檢票。新能源車輛過海可優先選擇海口秀英港。（央視新聞）"
-    },
-    {
-      "id": "te:markets:589317",
-      "time": "2026-10-05 07:36:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Steady as Traders Weigh Middle East Risks — Brent crude held steady above $102 per barrel on Monday as investors continued to monitor rising tensions in the Middle East, while OPEC+ agreed to maintain oil production quotas unchanged next month. Saudi-backed forces in Yemen launched a full-scale military operation to retake areas controlled by the Houthis following weeks of escalating tensions between the Iran-backed group and Saudi Arabia. The Houthis seized control of the Bab el-Mandeb, a strategic chokepoint between the Red Sea and the Gulf of Aden that Saudi Arabia had been using to export oil while avoiding the Strait of Hormuz. Meanwhile, major OPEC+ members agreed over the weekend to leave production quotas unchanged next month amid prolonged supply disruptions from the Middle East conflict. The decision comes as oil prices climb back toward the $100-a-barrel level and diesel prices reach record highs at the pump, prompting G7 nations to release emergency oil reserves amid the continuing conflict."
-    },
-    {
-      "id": "te:markets:589316",
-      "time": "2026-10-05 07:34:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Steady as Traders Weigh Middle East Risks — Crude oil held steady near $91 per barrel on Monday as investors continued to monitor rising tensions in the Middle East, while OPEC+ agreed to maintain oil production quotas unchanged next month. Saudi-backed forces in Yemen launched a full-scale military operation to retake areas controlled by the Houthis following weeks of escalating tensions between the Iran-backed group and Saudi Arabia. The Houthis seized control of the Bab el-Mandeb, a strategic chokepoint between the Red Sea and the Gulf of Aden that Saudi Arabia had been using to export oil while avoiding the Strait of Hormuz. Meanwhile, major OPEC+ members agreed over the weekend to leave production quotas unchanged next month amid prolonged supply disruptions from the Middle East conflict. The decision comes as oil prices climb back toward the $100-a-barrel level and diesel prices reach record highs at the pump, prompting G7 nations to release emergency oil reserves amid the continuing conflict."
-    },
-    {
-      "id": "5125458",
-      "time": "2026-10-05 07:34:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "澳大利亞AI基礎設施公司Firmus告知各方基金，本次IPO獲得的認購需求已超過募資目標。"
     }
   ]
 }
