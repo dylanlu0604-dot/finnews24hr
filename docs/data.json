@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-11 15:54:25",
-  "count": 10232,
+  "updated": "2026-10-11 15:58:19",
+  "count": 10231,
   "items": [
+    {
+      "id": "5137505",
+      "time": "2026-10-11 15:57:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【讀客文化：控股股東華楠擬詢價轉讓3%股份】讀客文化公告，控股股東、實際控制人、持股5%以上股東、董事長及總編輯華楠擬透過詢價轉讓方式轉讓1200.93萬股，佔公司總股本3.00%，原因為自身資金需求。本次轉讓不透過集中競價或大宗交易，不屬於二級市場減持，轉讓價格下限不低於2026年10月9日前20個交易日股票交易均價的70%。受讓方為機構投資者，受讓股份6個月內不得轉讓，且不會導致公司控制權變更。"
+    },
+    {
+      "id": "mkt:01a129f6-f403-7ee0-a828-3902dd5f684f",
+      "time": "2026-10-11 15:56:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【People's Daily: MIIT and three departments publish draft to curb 'quick-built' cars】MIIT and three other departments on Oct. 10 published a draft notice soliciting comments to tighten oversight of automotive product innovation design and R&D testing/validation. Market participants see the move as a direct pushback against rapidly developed \"quick-built\" cars. The notice follows public scrutiny of a Zunjie V800 brake-pedal bracket fracture that has focused attention on the safety of new-energy vehicles; an authoritative investigation is pending. People's Daily stressed that a brake pedal must not fracture in operation."
+    },
+    {
+      "id": "5137504",
+      "time": "2026-10-11 15:53:59",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：防禦優先，等待轉機】中信建投釋出研報指出，節後A股行情低於預期，科技板塊成為調整重心。短期看直接受FCC光模組限制與OpenAI收入不及預期衝擊；根本原因是A股處於第二波槓桿結構調整期，疊加海外流動性緊縮與中東地緣擾動，風險偏好持續承壓。但積極訊號已開始累積：海外地緣緩和，國內穩市機制就位，同時科技板塊業績保持景氣，後續若宏觀擾動減輕疊加三季報業績驗證，市場預期有望扭轉。配置上防禦優先，紅利資產為底倉；景氣方向圍繞三季報佈局AI算力、化工資源品等盈利改善環節，以及歐洲能源安全邏輯下的新能源板塊。"
+    },
     {
       "id": "5137503",
       "time": "2026-10-11 15:53:22",
@@ -93183,39 +93208,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人表示，未討論國際原子能機構核查人員返回一事。"
-    },
-    {
-      "id": "5125167",
-      "time": "2026-10-04 15:57:52",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗表示，美國的提議與先前幾項類似，其聚焦於核問題，而德黑蘭方面希望聚焦霍爾木茲海峽。"
-    },
-    {
-      "id": "5125166",
-      "time": "2026-10-04 15:57:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，德黑蘭方面已對美國的提議作出答覆。"
-    },
-    {
-      "id": "5125165",
-      "time": "2026-10-04 15:54:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒：“林肯”號航母剛走不久，美軍“布什”號航母又抵達泰國普吉島休整】據路透社、泰國《曼谷郵報》等媒體最新報道，當地時間10月4日，美國“喬治·H·W·布什”號航空母艦抵達泰國普吉島附近海域。報道稱，該航母載有約4800名人員，在中東地區執行數月支援任務後將在此進行為期六日的休整。（環球網）"
-    },
-    {
-      "id": "5125164",
-      "time": "2026-10-04 15:54:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本外相：就10月3日駐日美軍涉嫌殺人案一事，日本外務省召見美國駐日大使喬治·格拉斯並提出抗議。"
     }
   ]
 }
