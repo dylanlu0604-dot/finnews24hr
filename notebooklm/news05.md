@@ -1,7 +1,349 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-12 03:29:08_
-_本檔包含 1980 則快訊，約 394701 字_
+_更新時間：2026-10-12 07:06:36_
+_本檔包含 1971 則快訊，約 395581 字_
+
+---
+
+### 2026-10-06 15:33:58  #市場
+
+歐元債券延續漲勢，法國30年期國債收益率下跌10個基點至5.30%。
+
+---
+
+### 2026-10-06 15:33:14  #其他
+
+國際貨幣基金組織（IMF）表示：在IMF執行董事會完成審查後，盧安達將可獲得約3570萬美元的資金。
+
+---
+
+### 2026-10-06 15:32:35  #公司 #國際
+
+【報道：印度最大行動網路運營商Jio據稱在IPO中尋求約1140億美元估值】據知情人士透露，Jio Platforms Ltd. 在其計劃中的首次公開募股（IPO）中，可能尋求約11萬億盧比（約合1140億美元）的估值，低於市場預期。此前市場預計該公司將成為印度史上最大規模的IPO。知情人士稱，億萬富翁安巴尼旗下信實工業有限公司（Reliance Industries Ltd.）的電信和數字服務部門已完成對此次發行的需求摸底，預計本週將開始與潛在投資者會面，討論估值和定價事宜。
+
+---
+
+### 2026-10-06 15:32:25  #公司 #市場
+
+【老鋪黃金打折降價 實探假期黃金市場】國慶假期期間，記者對北京地區黃金消費市場進行實地走訪發現，多家黃金珠寶品牌推出優惠活動，其中最受關注的是“以舊換新”優惠。從銷售情況看，多家門店反饋，節假日客流和消費情況整體好於平時。值得注意的是，記者走訪瞭解到，老鋪黃金已開啟打折降價活動，部分款式在原價9折的基礎上還可疊加VIP會員9.5折優惠。據上述老鋪黃金銷售人員介紹，此次優惠是公司成立以來首次迭代降價。（中證報）
+
+---
+
+### 2026-10-06 15:32:09  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Opens 0.72% Higher — The FTSE 100 Index is picking up 76 points or 0.72 percent on Tuesday. Gains are led by Weir (2.32%), Informa (2.30%) and AstraZeneca (2.17%). Biggest losers are BAE Systems (-0.93%), Babcock International (-0.84%) and M&G (-0.83%).
+
+---
+
+### 2026-10-06 15:31:55  #MKT News #GBPUSD #Impact bearish
+
+Morgan Stanley recommends shorting GBP/USD ahead of the UK budget announcement.
+
+---
+
+### 2026-10-06 15:31:48  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Rises for Third Session — The FTSE 100 rose to around 10,500 on Tuesday, advancing for a third consecutive session and tracking a broader global equity rally, as easing oil prices helped lift market sentiment. Healthcare stocks led the gains, with AstraZeneca jumping 2.9% after announcing more than $1 billion of investment in Massachusetts, while peer GSK also advanced 1.5%. Financials and miners also gained broadly, with Standard Chartered rising 1.1%, Glencore adding 1.3% and Barclays advancing 0.7%. Informa also rose 0.6% after agreeing to acquire Clarion for £2.24 billion and reviewing options for its Taylor & Francis publishing arm. Meanwhile, energy stocks were mixed, with Shell little changed and BP down 1.0%. BAE Systems also fell around 1%.
+
+---
+
+### 2026-10-06 15:31:44  #Trading Economics #Markets #Germany #Stock Market #Importance 0
+
+DAX Opens Higher — Frankfurt’s DAX 40 opened 0.8% higher to above 25,400 on Tuesday, rising for a third consecutive session as gains in major US technology stocks lifted global equities. The Nasdaq reached a fresh record high on Monday, while Asian stocks also advanced. Markets are also focused on a series of economic releases, with German industrial orders falling sharply in August, while construction PMI and eurozone retail sales are due later in the day. Investors will also watch comments from ECB Governing Council member Olli Rehn on the economy and monetary policy. Concerns over France’s budget position remain a headwind, however, after pushing the euro to a 17-month low. On the corporate side, Porsche is in focus as the automaker holds a media day.
+
+---
+
+### 2026-10-06 15:31:27  #MKT News #Important
+
+Saudi civil aviation authority said Najran and Jizan airports were attacked on Monday evening; three people were injured and property damage was reported.
+
+---
+
+### 2026-10-06 15:31:26  #國際
+
+波蘭統計局將波蘭2025年國內生產總值同比增速從此前公佈的3.6%上調至3.8%。
+
+---
+
+### 2026-10-06 15:31:23  #MKT News #Brent #Impact bullish #WTI
+
+【UK grid warns of tight power supply as wind output plunges】National Electricity System Operator (NESO) warned Tuesday of potentially tight power supply as wind generation is expected to fall sharply overnight. NESO projects a possible 1.9 GW shortfall between 1500 and 2300 London time, larger than the warning issued Monday evening. Cold weather is lifting demand; volatile forecasts may force rapid reliance on gas-fired plants to fill the gap.
+
+---
+
+### 2026-10-06 15:31:17  #市場 #觀點
+
+摩根士丹利建議在英國預算公佈前做空英鎊兌美元。
+
+---
+
+### 2026-10-06 15:31:09  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Opens 0.69% Higher — The DAX Index is up by 175 points or 0.69 percent on Tuesday. Top gainers are Merck (3.79%), Qiagen NV (3.40%) and Henkel (1.67%). Biggest losses came from Daimler Truck Holding AG (-1.07%), Rheinmetall (-0.53%) and Beiersdorf (-0.34%).
+
+---
+
+### 2026-10-06 15:30:44  #其他
+
+沙特方面稱，針對兩座機場的襲擊造成3人受傷，並造成損壞。
+
+---
+
+### 2026-10-06 15:30:15  #資料
+
+德國9月建築業PMI 43.5，前值48.7。
+
+---
+
+### 2026-10-06 15:30:11  #其他
+
+聯電9月銷售額253.5億元臺幣。
+
+---
+
+### 2026-10-06 15:30:09  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Opens 0.28% Higher — The CAC 40 Index is gaining 22 points or 0.28 percent on Tuesday. Leading the gains are Eurofins Scientific SE (2.75%), STMicroelectronics (2.24%) and Kering (2.01%). Top losers are Schneider Electric (-2.01%), L'Oréal (-0.98%) and Renault (-0.83%).
+
+---
+
+### 2026-10-06 15:30:08  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX
+
+Germany construction PMI 43.5 in September, down from 48.7 previously; reading below 50 indicates sector contraction.
+
+---
+
+### 2026-10-06 15:30:00  #MKT News #Economic Calendar #Important
+
+Germany | Construction PMI (Sep) | actual 43.5 | previous 48.7
+
+---
+
+### 2026-10-06 15:29:42  #其他
+
+沙特方面稱，賈贊和奈季蘭機場週一遭到襲擊。
+
+---
+
+### 2026-10-06 15:29:05  #其他
+
+沙特稱吉贊和納季蘭機場遭到襲擊。
+
+---
+
+### 2026-10-06 15:29:03  #公司
+
+【微軟將內部Claude 使用支出削減三分之一】兩名瞭解該項支出情況的人士稱，微軟高管今年早些時候預計，公司內部使用Anthropic技術的年度支出至少將達到10億美元。其中一位人士表示，此後微軟要求員工減少使用Claude以節約成本、更多使用微軟自研 AI 工具，相關預算規模隨之削減超三分之一。直接知情人士稱，微軟Azure雲業務負責人斯科特・格思裡、開發者工具部門負責人傑伊・帕裡克等高管要求員工在程式碼開發場景謹慎使用模型，督促各負責人監控員工消耗，優先選用非Anthropic模型。一名現任微軟員工表示，高管現在可以檢視員工每日 AI 消耗，以及員工在GitHub Copilot上呼叫的具體模型。近期微軟進一步下調員工整體 AI 使用額度。例如，擁有6萬多名員工的雲與 AI 事業部，此前每名員工每月可使用價值10萬美元的 AI 模型。知情人士稱，該雲部門近期將多數場景下的個人月度預算下調至約1萬美元。現任員工表示，預算縮減引發部分工程師不滿，抱怨模型使用不再自由。
+
+---
+
+### 2026-10-06 15:28:50  #MKT News
+
+LSEG data show French OTC next-day baseload power prices fell 7.1% to €186/MWh.
+
+---
+
+### 2026-10-06 15:28:49  #國際
+
+伊朗內政部長埃斯坎達爾·莫梅尼週二表示，伊朗與卡達就三名失蹤伊朗陸軍飛行員的情況舉行了會談，雙方同意一個技術團隊將再次會面以繼續相關工作。
+
+---
+
+### 2026-10-06 15:28:28  #MKT News #XAUUSD #Impact bullish #DXY
+
+Four sources said the UK would likely expel Israeli diplomats if Israel carries out an order to close the British consulate.
+
+---
+
+### 2026-10-06 15:28:17  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
+
+Eurozone bond yields fell. German 10-year bond yield dropped 6bp to 3.431%; German 2-year down 2bp to 3.037%. Italian 10-year bond yield fell 10bp to 4.555%; Italian 2-year down 3bp to 3.46%.
+
+---
+
+### 2026-10-06 15:28:15  #Trading Economics #Economy #Spain #Industrial Production #Importance 1
+
+Spain Industrial Production Growth Slows in August — Industrial production in Spain increased by 1.5% year-on-year in August 2026, following an upwardly revised 2.5% increase in July. Energy production recorded the strongest growth, rising by 4.7%, followed by intermediate goods (2%) and capital goods (0.9%). By contrast, consumer goods production declined by 1%. On a monthly basis, industrial production fell by 0.7%, reversing the 0.6% increase recorded in July. Durable consumer goods was the only sector to post positive monthly growth, at 1%, while energy recorded the sharpest decline, falling by 2%.
+
+---
+
+### 2026-10-06 15:28:12  #其他
+
+兩艘船隻在保加利亞黑海經濟區遭無人機襲擊。
+
+---
+
+### 2026-10-06 15:28:04  #市場
+
+德國兩年期國債收益率下跌2個基點，至3.037%。
+
+---
+
+### 2026-10-06 15:28:01  #市場
+
+歐元區債券收益率下行，德國10年期國債收益率下跌6個基點，至3.431%。
+
+---
+
+### 2026-10-06 15:27:55  #市場
+
+義大利10年期國債收益率下跌10個基點，報4.555%。義大利兩年期國債收益率下行3個基點，報3.46%。
+
+---
+
+### 2026-10-06 15:27:48  #國際
+
+市場訊息：若以色列執行關閉英國領事館的命令，英國很可能會驅逐以色列外交官。
+
+---
+
+### 2026-10-06 15:27:42  #市場
+
+法國場外市場日前基荷電力價格下跌7.1%，至每兆瓦時186歐元。
+
+---
+
+### 2026-10-06 15:25:07  #MKT News #Commodities #Energy #DAX #Impact bearish
+
+LSEG data show German OTC next-day baseload electricity price fell 10.1% to €189/MWh.
+
+---
+
+### 2026-10-06 15:25:03  #公司 #市場 #國際
+
+【投資者開始對AI高估值說“不” 華爾街IPO活動驟減】華爾街IPO活動已放緩至寥寥無幾，投資者對新股發行需求低迷，加之市場擔憂估值過高，令原本預計將迎來上市熱潮的這個季度承壓。Anthropic和OpenAI上市延期也打擊了美國股權資本市場的情緒。一家美國大型資產管理公司的股權資本市場負責人表示：“現在沒人關心Anthropic以外的任何公司。”投資銀行家今年業務紅火在很大程度上得益於SpaceX的6月IPO。但市場日益擔憂AI行業下行以及公眾對資料中心的反對情緒，IPO市場近幾周已經趨於枯竭。上述銀行家補充稱，投資者日益質疑那些與AI投資熱潮相關企業所獲得的“脫離實際”的估值。BCA Research資料顯示，今年上市的科技公司股價自首個交易日以來平均下跌約23%，進一步加劇了市場對於銀行為爭取承銷業務而對交易定價過高的擔憂。
+
+---
+
+### 2026-10-06 15:24:47  #市場
+
+德國日前基荷電力場外價格下跌10.1%，至每兆瓦時189歐元。
+
+---
+
+### 2026-10-06 15:23:55  #MKT News #Commodities #Energy #EURUSD #Impact bullish #DXY #Impact bearish
+
+【ECB chief economist Lane: no clear second‑round inflation effects】ECB chief economist Lane said elevated euro-area energy costs have not yet produced a clear second‑round inflation effect and the strength of pass-through to other sectors remains uncertain. "So far we have not seen a very strong second‑round effect. We will continue to monitor this. While I advocate scenario analysis, it is too simplistic to categorise the situation as simply adverse or baseline," he said.
+
+---
+
+### 2026-10-06 15:23:24  #市場
+
+EUROFINS SCIENTIFIC SE股價上漲3%，領漲CAC 40指數。
+
+---
+
+### 2026-10-06 15:22:30  #其他
+
+OpenAI Codex負責人Tibo：我們已讓所有透過ChatGPT賬戶登入的使用者免費使用自動稽核功能。你可以在設定 > 許可權 > 自動稽核中啟用它。自動稽核改進了預設的沙盒設定，後者要求你批准所有操作，除非你花大量時間配置具體規則，否則容易導致決策疲勞。
+
+---
+
+### 2026-10-06 15:22:20  #MKT News
+
+Lithuanian parliament voted in favor of lifting the ban on nuclear weapons; this was the first of two required votes.
+
+---
+
+### 2026-10-06 15:21:18  #央行 #宏觀 #國際
+
+匈牙利央行副行長：若政府出臺一份可信的加入歐元區中期計劃，且市場認可該計劃的可信度，則沒有理由推遲加入ERM-Ⅱ（歐洲匯率機制Ⅱ）。
+
+---
+
+### 2026-10-06 15:20:55  #MKT News #Market Regions #CSI300 #Impact bullish #Copper #CNH
+
+【CHINA STATE PLANNER: six-network initiative to open major projects to private firms】Li Hui, director of the Private Economy Development Bureau at CHINA STATE PLANNER, said converting new capacity from the six-network initiative into real returns requires three actions. First, broaden access: establish long-term mechanisms for private participation in major projects and open competitive infrastructure sectors fairly to operators of different sizes and specializations. Second, improve retention: address private firms’ concerns on return mechanisms and competition by rolling out projects with stable operating returns suitable for private capital, enhancing financing channels, strengthening factor support, and removing market-access, standards-alignment and information-sharing bottlenecks. Third, remove implementation barriers: CHINA STATE PLANNER promoted 88 projects to private capital on Sept. 10 and Sept. 29 and will continue project promotion, set up a problem-resolution mechanism, and enforce project-list management to coordinate fixes to specific participation obstacles.
+
+---
+
+### 2026-10-06 15:19:58  #其他
+
+安巴尼旗下的Jio據悉在IPO中尋求約1140億美元估值。Jio計劃在10月19日當週啟動IPO，並於10月30日前上市。
+
+---
+
+### 2026-10-06 15:19:52  #其他
+
+【10月6日返程客流攀升，北京各火車站預計91.8萬旅客抵京】10月6日，國慶假期返程客流持續攀升。記者從國鐵北京局獲悉，當日預計傳送旅客158萬人次。其中，北京地區預計傳送63.2萬人次、到達91.8萬人次。計劃增開旅客列車143對，主要開往哈爾濱、瀋陽、大連、大同、青島、上海、武漢以及天津、石家莊、秦皇島等方向。（北京青年報）
+
+---
+
+### 2026-10-06 15:18:35  #央行 #其他
+
+匈牙利央行副行長庫拉利：需要找到一個能在確保持續達成通脹目標的同時，不對經濟競爭力造成損害的匯率水平。
+
+---
+
+### 2026-10-06 15:18:33  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish #XAUUSD
+
+The 10-year French-German government bond yield spread narrowed to 135 bps.
+
+---
+
+### 2026-10-06 15:18:23  #市場
+
+法國10年期國債相對德國10年期國債的風險溢價收窄至135個基點。 法國10年期國債收益率下跌7個基點，報4.793%。
+
+---
+
+### 2026-10-06 15:18:19  #MKT News #Macro & Rates #Treasury Yields
+
+France's 10-year bond yield fell 7 bps to 4.793%.
+
+---
+
+### 2026-10-06 15:18:19  #MKT News
+
+【Sheinbaum says Mexico will boost security deployment on U.S. border】President Sheinbaum said on the 5th Mexico will strengthen security deployments along the border and conduct a new round of “mirror operations” with the U.S. in response to recent developments. U.S. officials have alleged shots were fired from the Mexican side toward the U.S.; Mexico has requested evidence but has not obtained material confirming the claim, and Mexico’s National Guard, Defense Ministry and Navy have found no such shooting. To prevent similar incidents, Mexico’s Defense Ministry and Navy, via the foreign ministry, have communicated directly with U.S. Northern Command and the Coast Guard to propose mirror operations in Tamaulipas along the Texas border, deploying forces on both banks of the Rio Grande for synchronized patrols.
+
+---
+
+### 2026-10-06 15:17:55  #宏觀
+
+【國家發改委：六張網不只是國家的工程 更是民營企業的舞臺】國家發展改革委民營經濟發展局局長李慧表示：要把新空間變成真收益，還需要從三個方面持續發力。
+
+敞開大門，讓民營企業“進得去”。我們正在完善民營企業參與重大專案建設長效機制，推進基礎設施競爭性領域向經營主體公平開放。不同體量、專長的企業，都能在這張網上找到自己的位置。
+
+分類施策，讓民營企業“留得住”。“六張網”中，民營企業可參與性並不完全一致，我們將聚焦民營企業對回報機制、競爭秩序等方面主要關切，推出一批經營收益穩定、適合民間資本參與的專案，完善投融資機制，強化要素保障，破除市場準入、標準銜接、資訊共享等方面的堵點卡點。
+
+解決問題，讓民營企業“做得好”。9月10日、29日，我們分兩批集中向民間資本公開推介88個專案，隨著“六張網”建設鋪開，我們將持續開展專案推介工作，建立問題解決機制，加強專案清單化管理，以點帶面協調解決民營企業參與專案建設中的具體困難問題。（央視新聞）
+
+---
+
+### 2026-10-06 15:17:54  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bearish #S&P500 #DXY #Impact bullish
+
+【Investors Start Saying No to AI's High Valuations; Wall Street IPO Activity Plummets】Wall Street IPO activity has slowed to a trickle as investor demand for new issues weakens amid concerns about elevated valuations, pressuring what had been expected to be a busy quarter. Delays to Anthropic and OpenAI listings have dented equity capital markets sentiment. The head of equity capital markets at a large U.S. asset manager said: "Nobody cares about any company other than Anthropic right now." Investment bankers' strong fee income this year has largely reflected SpaceX's June IPO. Bankers said fears of an AI downturn and public opposition to data centers have left the IPO market essentially stalled in recent weeks. Investors are increasingly questioning out-of-touch valuations assigned to AI-linked companies. BCA Research shows tech companies that listed this year have fallen about 23% on average since their first trading day, adding to concerns that banks may have priced deals too aggressively to win mandates.
+
+---
+
+### 2026-10-06 15:17:38  #Trading Economics #Economy #France #Government Budget Value #Importance 1
+
+France Budget Deficit Widens in Jan-Aug — France’s state budget deficit widened to EUR 159.6 billion in the January-August period from EUR 157.5 billion a year earlier. Expenditure rose 4.4% year-on-year to EUR 362.97 billion, driven mainly by higher debt-servicing costs amid rising interest rates and inflation, increased military spending, and higher public energy service charges (CSPE). Meanwhile, general budget revenue increased 3.1% to EUR 228.55 billion. Net tax revenue rose to EUR 206 billion, supported by higher net personal income tax, the State’s share of net VAT revenue, net corporate income tax, and other net tax revenue. Non-tax revenue increased to EUR 18.9 billion, mainly due to the return to the State in January 2026 of EUR 6.9 billion in non-consumable endowments allocated under the Future Investment Programs (PIA) in 2010 and 2014, which had reached maturity. Special Treasury accounts posted a EUR 25.2 billion deficit, an improvement of EUR 6.3 billion from the end of August 2025.
+
+---
+
+### 2026-10-06 15:17:23  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #Copper #EURUSD #Impact mixed
+
+European Commission President VON DER LEYEN said the Commission will propose measures in coming months to raise electricity’s share of total energy demand.
+
+---
+
+### 2026-10-06 15:17:19  #MKT News #Macro & Rates #Treasury Yields #EURUSD #Impact bullish #DXY #Impact bearish
+
+【EUR/USD off lows after France-Germany 10yr spread narrows】EUR/USD dipped intraday but remains above Monday's multi-month low after the France-Germany 10-year yield spread narrowed. Extreme-right presidential candidate Marine Le Pen is expected to unveil her 2027 budget on Tuesday; Danske Bank analyst Jens Peter Sorensen said this could clarify the fiscal outlook and potentially pave the way for a budget agreement. LSEG data show the France-Germany 10-year spread at 138.32 bps, down from 158.67 bps on Friday, the highest since Nov 2011.
+
+---
+
+### 2026-10-06 15:17:03  #國際
+
+【墨西哥向墨美邊境增派安全力量】墨西哥總統辛鮑姆5日表示，墨西哥將在邊境地區加強安全力量部署，同美方開展新一輪“映象行動”，以應對相關局勢變化。辛鮑姆當天在新聞釋出會上說，美方此前透過口頭和書面方式稱，曾發生從墨西哥一側向美國方向開槍的情況。墨方已要求美方提供相關證據，但目前尚未掌握能證實這一說法的材料。墨西哥國民警衛隊、國防部和海軍部人員也未發現相關槍擊情況。（新華社）
+
+---
+
+### 2026-10-06 15:16:59  #Trading Economics #Economy #Hungary #Retail Sales YoY #Importance 1
+
+Hungary Retail Sales Growth Slows to Over 1-Year Low — Retail sales in Hungary rose by 2.4% year-on-year in August 2026, easing from a 4.9% increase in the previous month. This reading marked the weakest growth since May 2025, as sales moderated in food products (0.5% vs 2.2% in July), with lower activity in non-specialized food and beverages (1.9% vs 3.6%) and a continued decline in food, beverages and tobacco (-4.8% vs -2.2%). Sales of non-food products also slowed (5.0% vs 6.5%), including manufactured goods in non-specialized shops (4.2% vs 5.1%), textiles, clothing and footwear (2.7% vs 5.4%), furniture and electrical goods (1.0% vs 5.2%), books, computer equipment and other goods (0.6% vs 5.9%), and pharmaceutical and medical goods and cosmetic articles (5.4% vs 9.2%). Automotive fuel sales also rose at a softer pace (3.1% vs 8.1%). On a seasonally adjusted monthly basis, retail trade fell by 0.7% in August, following a 1.0% rise in the previous month.
 
 ---
 
@@ -11508,396 +11850,5 @@ Oil Steady as Traders Weigh Middle East Risks — Crude oil held steady near $91
 ### 2026-10-05 07:10:52  #MKT News
 
 Australia's S&P/ASX 200 index opened up 28.10 points (+0.32%) to 8,710.20 on Oct. 5 (Monday).
-
----
-
-### 2026-10-05 07:06:33  #其他
-
-巴西總統選舉已統計84.96%的選票，弗拉維奧·博索納羅得票率為48.47%，盧拉為43.49%。
-
----
-
-### 2026-10-05 07:05:58  #國際
-
-日本立邦塗料將斥資13.5億美元收購阿克蘇諾貝爾東南亞業務。
-
----
-
-### 2026-10-05 07:05:11  #其他
-
-【今起至假期結束我國大部晴好 總體利於外出與返程】昨天是整個國慶假期大範圍降水的最後階段。從今天起到7日，我國大部地區降水稀少，晴或多雲天氣成為主流，總體利於假期外出和返程。（央視新聞）
-
----
-
-### 2026-10-05 07:02:32  #Trading Economics #Economy #Australia #Services PMI #Importance 1
-
-Australia Services Growth Revised Upward — The S&P Global Australia Services PMI Business Activity Index eased to 51.9 in September 2026 from 53.2 in August, but came above the preliminary estimate of 51.4. This marked a fourth straight month of expansion, although growth slowed to its weakest pace in three months as new business increased at the softest rate in the three-month growth sequence. Export business improved, with overseas demand rising for the first time in five months, albeit marginally. Employment fell for the first time since May as firms cited softer new orders and efforts to limit costs, while backlogs increased for a third consecutive month. On prices, input-cost inflation accelerated due to higher fuel, labour and other input expenses, while output price inflation also picked up as firms passed higher costs on to clients. Both measures remained above their respective long-run averages. Business confidence fell to a three-month low, with some firms expressing concerns over the economic outlook and sales.
-
----
-
-### 2026-10-05 07:02:08  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Trades in the Green to Start the Week — The NZX 50 advanced 41 points, or 0.3%, to 13,722 in Monday morning deals, erasing losses from the previous two sessions and moving away from its lowest level since September 15, touched in the previous session, tracking a rise on Wall Street on Friday as a weaker-than-expected jobs report eased expectations of a Fed interest rate hike. The broader index was mainly driven by the financials, real estate, and industrial sectors. However, falls in energy, consumer staples, and consumer discretionary capped the gain. Traders also anticipated the FOMC minutes later this week and continued to monitor developments in oil prices after Yemen's Saudi-backed forces announced a major operation in an effort to take all territory held by the Houthis. Among the early gainers were Port of Tauranga (2.5%), Mainfreight (1.2%), Infratil (1.4%), Ebos Group (1.1%), Auckland International Airport (1.0%), FC Investment (1.0%), and Chorus (0.6%).
-
----
-
-### 2026-10-05 07:01:52  #MKT News #Commodities #Energy #Market Regions #Europe & UK #Brent #Impact bullish
-
-A UK union said Apache employees' strike could disrupt flows through the Forties crude oil pipeline in the North Sea.
-
----
-
-### 2026-10-05 06:56:22  #其他
-
-【胡塞武裝稱沙特24小時內發動百次空襲和導彈襲擊】葉門胡塞武裝4日稱，過去24小時內，沙烏地阿拉伯對胡塞武裝控制區發動106次空襲和導彈襲擊。胡塞武裝軍事發言人葉海亞·薩雷亞當天在社交媒體平臺上說，沙特的襲擊針對葉門首都薩那以及焦夫、塔伊茲等省。最新襲擊使本輪局勢升級以來沙特對葉門發動的空襲和導彈襲擊總數達到1516次。沙特方面對此暫未發表評論。
-
----
-
-### 2026-10-05 06:55:45  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Houthi militants say Saudi Arabia launched 106 airstrikes and missile attacks in past 24 hours】Yemen’s Houthi militants said on the 4th that Saudi Arabia carried out 106 airstrikes and missile attacks on Houthi-controlled areas over the previous 24 hours, Xinhua reported.
-
----
-
-### 2026-10-05 06:43:22  #MKT News #Commodities #Energy #WTI
-
-WTI crude slid to $90.00/bbl, down 0.37% intraday.
-
----
-
-### 2026-10-05 06:43:06  #市場 #焦點
-
-WTI原油失守90美元/桶，日內跌0.13%。
-
----
-
-### 2026-10-05 06:42:43  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
-
-Australia Composite PMI Revised Higher — Australia’s S&P Global Flash Composite PMI was revised higher to 51.3 in September 2026 from a preliminary estimate of 50.8, but remained below the final reading of 52.7 in August. However, it still marked the lowest reading since June. The latest result marked the fourth straight month of expansion in private-sector activity, with the services sector continuing to grow, though at its slowest pace in three months. Meanwhile, manufacturing output contraction deepened, with a renewed fall in new goods orders. Rising services new business, meanwhile, kept overall new orders in expansion, but total export business declined due to a drop in manufacturing export orders. Employment also resumed growth in September. On the price front, output cost inflation accelerated, with input and output cost pressures intensifying in the services sector, while easing in manufacturing activity but remaining elevated by historical standards. Finally, business sentiment weakened to a three-month low.
-
----
-
-### 2026-10-05 06:31:12  #市場
-
-芝加哥商品交易所（CME）交易資料顯示，美元兌巴西雷亞爾近月期貨報 5.09，前收盤價 5.25。
-
----
-
-### 2026-10-05 06:25:20  #MKT News
-
-Datafolha poll projects incumbent President Lula and Senator Flávio Bolsonaro will advance to Brazil's presidential runoff.
-
----
-
-### 2026-10-05 06:17:18  #國際
-
-【德國承諾向烏克蘭再提供10億歐元軍援】德國聯邦政府4日稱，德國總理默茨當天訪問烏克蘭首都基輔，承諾對烏追加約10億歐元軍事援助。新一批軍援重在提升烏克蘭防空能力，包括聯合生產遠端武器和用於防禦噴氣式無人機的攔截系統。此外，德國將在冬季來臨前向烏方提供約3.5億歐元，用於修復烏克蘭的能源基礎設施。（新華社）
-
----
-
-### 2026-10-05 06:09:04  #其他
-
-Datafolha 預測：博索納羅與盧拉將進入巴西總統大選第二輪投票。
-
----
-
-### 2026-10-05 06:03:53  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish #Dow #S&P500
-
-US equity index futures ticked higher; Nasdaq futures rose over 0.2%, Dow and S&P 500 futures rose over 0.1%.
-
----
-
-### 2026-10-05 06:02:32  #MKT News #Important #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures opened about $1/bbl higher on Monday after Yemen's Houthi movement said it attacked ARAMCO facilities.
-
----
-
-### 2026-10-05 06:02:24  #市場 #焦點
-
-現貨黃金突破4140美元/盎司，日內漲0.08%。
-
----
-
-### 2026-10-05 06:02:19  #市場 #焦點
-
-紐約期金突破4170美元/盎司，日內漲0.19%。
-
----
-
-### 2026-10-05 06:02:18  #市場
-
-紐約期銀日內漲1%，現報61.03美元/盎司。
-
----
-
-### 2026-10-05 06:02:15  #市場 #焦點
-
-紐約期銀突破61美元/盎司，日內漲0.97%。
-
----
-
-### 2026-10-05 06:01:49  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
-
-Spot gold opened higher then slipped, swinging nearly $10 intraday to $4,135.16/oz.
-
----
-
-### 2026-10-05 06:01:05  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude opened slightly higher on Monday at $90.54/bbl.
-
----
-
-### 2026-10-05 06:00:38  #資料
-
-澳大利亞9月標普全球綜合PMI終值 51.3，前值50.8。
-澳大利亞9月標普全球服務業PMI終值 51.9，前值51.4。
-
----
-
-### 2026-10-05 06:00:29  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold opened higher on Monday at $4,141.05/oz.
-
----
-
-### 2026-10-05 06:00:28  #市場 #焦點
-
-現貨白銀突破61美元/盎司，日內漲0.13%。
-
----
-
-### 2026-10-05 06:00:08  #MKT News
-
-Australia September S&P Global services PMI (final) 51.9, up from 51.4 previously.
-
----
-
-### 2026-10-05 06:00:07  #央行 #國際
-
-【美聯儲10月維持利率不變的機率升至77.9%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為77.9%，累計加息25個基點的機率為22.1%。美聯儲到12月維持利率不變的機率為12.8%，累計加息25個基點的機率68.7%，累計加息50個基點的機率為18.5%。
-
----
-
-### 2026-10-05 06:00:07  #MKT News #AUDUSD #Impact bullish
-
-Australia September S&P Global composite PMI (final) 51.3, prior 50.8.
-
----
-
-### 2026-10-05 06:00:01  #市場 #焦點
-
-布倫特原油日內漲1%，現報103.28美元/桶。
-
----
-
-### 2026-10-05 05:38:23  #其他
-
-巴西已統計32%的選票，總統候選人博索納羅得票率50.7%，現任總統盧拉41.1%。
-
----
-
-### 2026-10-05 05:33:16  #其他
-
-【沙特主導聯軍稱將繼續向葉門政府提供支援 應對胡塞武裝襲擊】沙烏地阿拉伯主導的多國聯軍司令部發表宣告稱，聯軍將繼續向葉門政府及其武裝部隊提供全面作戰支援，以“恢復國家”。多國聯軍發言人圖爾基·馬利基指責胡塞武裝蓄意、系統性地襲擊沙特利雅得等多個城市的平民和民用設施，還企圖襲擊麥加、麥地那兩座城市，並試圖襲擊紅海南部和曼德海峽的沙特船隻。他表示，聯軍將繼續採取必要措施，遏制胡塞武裝的敵對行動，維護沙特的安全與主權。馬利基強調，沙特將採取相關作戰措施，應對胡塞武裝的襲擊，消除其對紅海南部和曼德海峽航行自由的威脅。他稱，這類威脅不僅危及地區和國際安全，也威脅國際貿易、全球經濟及各國利益。 (央視新聞)
-
----
-
-### 2026-10-05 05:30:40  #MKT News #WTI #Impact bullish #Brent
-
-【Saudi-led coalition says will continue supporting Yemeni government against Houthi attacks】On Oct. 4 the Saudi-led coalition said it will continue to provide full operational support to the Yemeni government and armed forces to restore state authority. Coalition spokesman Turki al-Maliki accused the Houthis of deliberate, systematic attacks on civilians and civilian infrastructure in Riyadh and other cities, and said the group attempted strikes on Mecca and Medina and on Saudi vessels in the southern Red Sea and Bab al-Mandeb. He said the coalition will take necessary measures to curb Houthi hostility, safeguard Saudi security and sovereignty, and conduct operations to remove threats to navigation in the southern Red Sea and Bab al-Mandeb, noting such threats endanger regional and international security, international trade and the global economy.
-
----
-
-### 2026-10-05 05:30:24  #焦點 #國際
-
-沙特阿美：將11月銷往亞洲的阿拉伯輕質原油官方售價定為較阿曼/迪拜原油均價貼水5美元/桶。將11月銷往西北歐的阿拉伯輕質原油官方售價定為較ICE布倫特原油升水0.85美元/桶，將11月銷往美國的阿拉伯輕質原油官方售價定為比阿拉伯輕質原油升水4.60美元/桶。
-
----
-
-### 2026-10-05 05:28:03  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Aramco set its November OSP for Arab Light to Northwest Europe at a $0.85/bbl premium to ICE Brent, and set its November OSP for US deliveries of Arab Light at a $4.60/bbl premium to Arab Light.
-
----
-
-### 2026-10-05 05:26:41  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
-
-ARAMCO set its November official selling price for Arab Light crude to Asia at a $5/bbl discount to the Oman/Dubai average.
-
----
-
-### 2026-10-05 05:19:12  #公司
-
-OpenAI 執行長山姆·奧特曼：AI技術的益處有助於證明值得承擔風險。
-
----
-
-### 2026-10-05 05:18:12  #其他
-
-巴西總統選舉初步計票結果：已統計17%的選票，博索納羅得票率51.2%，盧拉40.7%。
-
----
-
-### 2026-10-05 05:11:19  #市場 #焦點
-
-比特幣升破86000美元，日內漲1.49%。
-
----
-
-### 2026-10-05 05:08:14  #市場
-
-奧克蘭 9 月房屋均價環比下跌 2.2%。
-
----
-
-### 2026-10-05 05:07:31  #公司
-
-市場訊息：OpenAI 執行長山姆·奧特曼在人工智慧風險問題上與 Anthropic 立場出現分歧。奧特曼表示，他並不認同存在 “極高毀滅性風險”，對 AI 將引發嚴重失控的風險持否定態度。
-
----
-
-### 2026-10-05 05:01:43  #公司 #資料
-
-【警告AI失控的前Anthropic研究員將出席紐約聽證會】曾在Anthropic任職的前研究員雅各布·考克森將於週一出席紐約市議會的一場聽證會，與全球一些大型AI公司的代表同場作證，雅各布·考克森曾警告稱，人工智慧可能變得過於強大，以至於人類無法控制。據知情人士透露，應紐約市議會議長朱莉·梅寧的要求，考克森將出席此次聽證會。目前，紐約市議員正在考慮一系列法案，旨在圍繞這項技術建立安全保障機制。考克森上月離開Anthropic，並對開發越來越強大AI的競賽發出嚴厲警告，指責前僱主Anthropic和OpenAI是在“拿我們的生命下注”。他已確認計劃於週一出席聽證會作證。此次聽證會將讓一些業內最直言不諱的批評者與Anthropic、OpenAI、Alphabet旗下谷歌以及Meta Platforms的代表同場出席。據其中一名知情人士透露，前谷歌DeepMind研究員亞歷克斯·特納以及AI Futures Project執行董事、前OpenAI研究員丹尼爾·科科塔伊洛也預計將出席作證。該人士稱，上述四家大型AI公司將派出負責政策和安全事務的官員參加聽證會。
-
----
-
-### 2026-10-05 05:01:40  #國際
-
-【美海岸警衛隊繼續搜尋失事飛機機上人員】美國海岸警衛隊東北區司令馬特·萊克4日在新聞釋出會上說，對3日失事飛機機上6人和黑匣子的搜尋工作仍在繼續，鑑於飛機殘骸涉及範圍非常廣，工作難度大。萊克說，首要任務是找到6名機上人員，下一步是尋找飛機黑匣子。發現飛機殘骸的地方距馬薩諸塞州楠塔基特島海岸約32公里，該區域水深24至28米。
-
----
-
-### 2026-10-05 05:01:32  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #Alphabet
-
-【Ex-Anthropic researcher to testify at NYC AI hearing with Anthropic, OpenAI, Google and Meta】Former Anthropic researcher Jacob Coxon will testify Monday at a New York City Council hearing on AI alongside representatives from Anthropic, OpenAI, Alphabet-owned Google and Meta, sources said. Coxon, who left Anthropic last month, has warned AI could become uncontrollable and accused Anthropic and OpenAI of “betting with our lives” by racing to develop more powerful systems. The hearing, requested by City Council Speaker Julie Menin, comes as council members consider bills to establish safety safeguards for the technology. Former DeepMind researcher Alex Turner and Daniel Kokotajlo, executive director of the AI Futures Project and a former OpenAI researcher, are also expected to testify. Sources said the four large AI firms will be represented by officials responsible for policy and security.
-
----
-
-### 2026-10-05 04:58:19  #其他
-
-【波黑公佈主席團成員選舉初步結果】當地時間10月4日晚，波黑中央選舉委員會公佈波黑主席團選舉初步結果，戴尼斯·貝契羅維奇（Denis Bećirović）、達里亞娜·菲利波維奇（Darijana Filipović）、熱莉卡·茨維亞諾維奇（Željka Cvijanović）分別在波什尼亞克族、克羅埃西亞族、塞爾維亞族候選人中領先。（央視新聞）
-
----
-
-### 2026-10-05 04:42:58  #其他
-
-巴西總統選舉初步計票結果：已統計 5% 選票，博索納羅得票率 50.3%，盧拉 41.2%。
-
----
-
-### 2026-10-05 04:42:03  #國際
-
-【美國撤回部署在英國的B-1轟炸機】當地時間10月4日，據美國方面訊息，美國已將部署在英國皇家空軍費爾福德基地的全部B-1轟炸機撤回美國。美方作出這一決定，是出於對針對該基地疑似恐怖襲擊陰謀的安全擔憂。訊息稱，美國此前將位於倫敦西北部的費爾福德基地作為對伊朗發動轟炸行動的樞紐。在近期撤離前，共有12架B-1轟炸機部署在該基地。（央視新聞）
-
----
-
-### 2026-10-05 04:36:56  #其他
-
-OpenAI首席產品官Tibo：未來 28 天內，我們每天要麼推出一項對大多數 Codex / 工作使用者來說顯著且相關的改進，要麼進行一次完整重置。改進之旅正式開啟。
-
----
-
-### 2026-10-05 04:30:59  #市場 #焦點
-
-美銅暗盤突破6.6美元，日內漲幅0.3%。
-
----
-
-### 2026-10-05 04:25:56  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【Explosions reported near tanker off southwest Yemen】On Oct 4 local time UK Maritime Trade Operations (UKMTO) reported multiple explosions near a tanker transiting about 60 nm south of Mocha, the Red Sea port in Taiz province, Yemen. UKMTO said the crew are reported safe and no environmental impact has been reported; authorities are investigating. UKMTO advised transiting vessels to exercise caution and report any suspicious activity.
-
----
-
-### 2026-10-05 04:25:19  #其他
-
-【一油輪在葉門西南部海域航行時附近發生多次爆炸】當地時間10月4日，英國海上貿易行動辦公室（UKMTO）釋出通報稱，一艘油輪在葉門西南部塔伊茲省的紅海港口城市穆哈以南約60海里海域航行時，發現船隻附近發生多次爆炸。UKMTO稱，目前船員安全，尚未報告環境影響。有關部門正在對事件展開調查。UKMTO同時提醒過往船隻謹慎航行，並報告任何可疑活動。（央視新聞）
-
----
-
-### 2026-10-05 04:24:50  #其他
-
-巴西總統選舉初步計票結果：已統計 1.23% 選票，博索納羅得票率 48.85%，盧拉得票率 42.50%。
-
----
-
-### 2026-10-05 04:23:48  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish
-
-【US withdraws all B-1 bombers from RAF Fairford after suspected terror threat】The Wall Street Journal reports US officials said on Sunday all B-1 bombers were pulled from RAF Fairford amid concerns the base could be targeted in a terror attack. The PENTAGON said operational-security constraints previously prevented real-time confirmation of force movements but now confirms all US bombers that had been at Fairford—12 aircraft prior to the withdrawal—have returned to US home stations and retain the capability to conduct global strikes from the United States. The pullback followed UK arrests of six suspects accused of plotting an attack on the base; US and UK officials said a suspected plot was foiled last Sunday and the UK prime minister said there are strong indications of Iranian involvement, though the suspects were later released on bail and investigations continue.
-
----
-
-### 2026-10-05 04:21:24  #國際
-
-市場訊息：白宮正在監測俄羅斯境內疑似鼠疫爆發事件。白宮表示已知曉相關情況，並正在評估應對方案。
-
----
-
-### 2026-10-05 04:19:48  #MKT News
-
-【Israel tightens restrictions on foreign crew on flights to Israel】Israel's Transport Ministry notified foreign carriers on the 4th that, citing a recent attack by an Omani co‑pilot on a Dubai airline captain, crew holding single or dual nationality of 27 countries — including Iran, Iraq, Lebanon, Oman, Pakistan, Qatar and Saudi Arabia — are barred from operating on or travelling on flights to Israel.
-
----
-
-### 2026-10-05 04:19:32  #國際
-
-【以色列交通部收緊對赴以航班外國機組人員限制】當地時間4日獲悉，以色列方面訊息稱，鑑於近期發生的阿曼籍副駕駛襲擊迪拜航空客機機長事件，以色列交通部日前向外國航空運營商發出通知，嚴禁擁有伊朗、伊拉克、黎巴嫩、阿曼、巴基斯坦、卡達和沙特等27國單一或雙重國籍的機組人員執飛或搭乘赴以航班。（央視新聞）
-
----
-
-### 2026-10-05 04:17:20  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Omani co-pilot on trial in UAE says he planned to crash Dubai carrier plane into Tel Aviv's Ben-Gurion terminal】Israeli sources said on Oct. 4 that Omani co-pilot Hamam Hammami told UAE investigators he had planned to fly a Dubai-based carrier's aircraft directly into Tel Aviv's Ben-Gurion International Airport. The Sept. 30 incident began when Hammami allegedly attacked the captain over Jordanian airspace; he told authorities he intended to let the aircraft continue toward Ben-Gurion and strike the terminal at a point when Israeli jets could not intercept. The injured captain forced the cockpit door open and foiled the attempt, sources said. Hammami said the plot predated his hiring: he researched carriers operating flights to Tel Aviv, sought employment with them and was ultimately hired by the Dubai airline.
-
----
-
-### 2026-10-05 04:12:11  #其他
-
-【巴西投票站關閉 計票工作即將開始】巴西各投票站已於當地時間下午5點關閉，大選計票工作應很快開始。巴西選民週日投票選舉新一任總統，此外還將選舉26個州和一個聯邦區的州長、參議院81名議員中的54名、眾議院全部513名議員，以及約1,000名州和地區議員。
-
----
-
-### 2026-10-05 03:59:44  #MKT News
-
-Wall Street Journal reports the US has withdrawn all B-1 bombers from a UK air base.
-
----
-
-### 2026-10-05 03:57:01  #國際
-
-市場訊息：美國已從英國空軍基地撤回所有B-1轟炸機。
-
----
-
-### 2026-10-05 03:52:32  #公司 #國際
-
-日本 Rapidus 公司將協助 17 家企業為其客戶開展晶片設計工作，合作方包括東芝旗下子公司東芝資訊系統（日本）、大日本印刷、凸版印刷及其他企業。
-
----
-
-### 2026-10-05 03:44:24  #MKT News
-
-Iranian general Sardar Fadavi said diesel in Europe is about €2 per liter (roughly 700,000 Iranian rials). By contrast, a 10,000-rial increase in local gasoline still leaves retail price below $1 per liter, a gap he said he cannot comprehend.
-
----
-
-### 2026-10-05 03:36:18  #其他
-
-市場訊息：施耐德電氣接近達成一項交易，擬以 200 億美元收購工業軟體企業 PTC。交易最早可能於週一公佈。
-
----
-
-### 2026-10-05 03:30:51  #MKT News
-
-Austria's vice‑chancellor said the finance minister will assume the vice‑chancellor role early next year.
-
----
-
-### 2026-10-05 03:30:08  #宏觀
-
-奧地利副總理：財政部長將於明年初接替他出任副總理。
 
 ---
