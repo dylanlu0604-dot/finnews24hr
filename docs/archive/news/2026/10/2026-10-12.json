@@ -1,7 +1,33 @@
 {
   "date": "2026-10-12",
-  "count": 121,
+  "count": 124,
   "items": [
+    {
+      "id": "5138025",
+      "time": "2026-10-12 04:03:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特媒體：沙特與卡達簽署的諒解備忘錄旨在為石油、天然氣、石化及其他領域合作搭建框架，並探索建設運輸與出口管道的聯合機遇。"
+    },
+    {
+      "id": "5138024",
+      "time": "2026-10-12 04:02:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達：和沙烏地阿拉伯簽署能源合作諒解備忘錄，協議將涉及能源行業的各個方面。"
+    },
+    {
+      "id": "mkt:01a12c8d-f26a-7ee0-a82b-a186f8ba6e16",
+      "time": "2026-10-12 04:01:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Saudi Energy Minister signed three memoranda of understanding on energy cooperation with Kuwait, Qatar and Egypt, the Saudi Press Agency reported."
+    },
     {
       "id": "5138021",
       "time": "2026-10-12 03:55:08",
