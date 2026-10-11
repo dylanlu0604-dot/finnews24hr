@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-11 22:36:05",
-  "count": 10290,
+  "updated": "2026-10-11 22:39:58",
+  "count": 10289,
   "items": [
+    {
+      "id": "mkt:01a12b66-c670-7ee0-a82a-07e50d19e7af",
+      "time": "2026-10-11 22:38:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "A Saudi-led coalition said its air defense system intercepted a missile near Riyadh airport."
+    },
+    {
+      "id": "5137745",
+      "time": "2026-10-11 22:37:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱防空系統在首都利雅得機場附近攔截了一枚導彈。"
+    },
+    {
+      "id": "mkt:01a12b64-31c4-7ee0-a829-f959566cfb87",
+      "time": "2026-10-11 22:35:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi-led coalition said fires from the attack are being handled directly by authorities at King Khalid International Airport."
+    },
     {
       "id": "5137744",
       "time": "2026-10-11 22:35:24",
@@ -93695,38 +93723,6 @@
         "Impact bearish"
       ],
       "text": "U.S. Energy Secretary Wright said diesel prices should fall below $6 a gallon soon."
-    },
-    {
-      "id": "5125307",
-      "time": "2026-10-04 22:39:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：柴油價格應該不久就會跌至每加侖6美元以下。"
-    },
-    {
-      "id": "5125306",
-      "time": "2026-10-04 22:37:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長：歐洲釋放柴油將推動柴油價格在整個冬季下行。"
-    },
-    {
-      "id": "5125305",
-      "time": "2026-10-04 22:36:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：不能保證衝突中的（柴油供應），但美國正試圖增加柴油供應。"
-    },
-    {
-      "id": "mkt:01a10757-ef1e-7ee0-a794-66dff2bdd9f3",
-      "time": "2026-10-04 22:36:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC: Hurricane Rachel has strengthened slightly further."
     }
   ]
 }
