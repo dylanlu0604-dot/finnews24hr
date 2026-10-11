@@ -1,7 +1,53 @@
 {
   "date": "2026-10-12",
-  "count": 225,
+  "count": 230,
   "items": [
+    {
+      "id": "5138125",
+      "time": "2026-10-12 07:29:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特首都機場週日再遭襲擊 而該市即將舉辦重大活動】沙烏地阿拉伯的主要機場週日再次遭到胡塞武裝的襲擊。此前一天，該機場遭到襲擊，造成12人死亡，給這個中東最大經濟體帶來巨大壓力，因為該國正準備舉辦旨在促進外國投資的大型活動。沙特領導的聯軍在一份宣告中表示，週日一枚不明射彈擊中了利雅得的哈立德國王國際機場的一座客運航站樓，當局正在撲滅火災。聯軍正在葉門與伊朗支援的胡塞武裝作戰。胡塞武裝迅速宣稱對此次襲擊負責，稱這是對“沙特侵略”的回應，其中包括對葉門首都薩那機場的襲擊。沙特民航局稱，此次襲擊造成1人死亡，11人受傷。聯軍方面也表示，防空部隊在沙特首都同一地點附近攔截了一枚導彈。此前在哈立德國王國際機場週六遭到的襲擊中，還有300多人受傷，這是自2月伊朗戰爭爆發以來沙烏地阿拉伯境內傷亡最慘重的單次事件。另外，沙特民航局在社交媒體平臺X上發帖稱，達曼的法赫德國王國際機場週日晚間遭到襲擊。當局已表示，原定於週日至10月15日舉行的第25屆世界石油大會及相關活動將如期舉行。此外，利雅得還計劃於本月晚些時候舉辦未來投資倡議活動，這是利雅得最重要的投資者盛會。"
+    },
+    {
+      "id": "mkt:01a12d4c-2700-7ee0-a82c-b258b766e6ec",
+      "time": "2026-10-12 07:28:47",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "【IFS: Chancellor must raise £35bn to deliver spending plans】London-based Institute for Fiscal Studies said ahead of the budget later this month that Chancellor John Healey must raise about £35bn to deliver Labour’s ambitious spending plans. The IFS added Healey may have more fiscal headroom than expected, but the plans’ credibility is at risk; unless the government intervenes, inf will squeeze public spending and leave departments underfunded. IFS director Helen Miller said: If you want to increase spending and do not want to cut public services, you must consider tax rises."
+    },
+    {
+      "id": "mkt:01a12d4b-bafd-7ee0-a82c-ac6d2bd814fc",
+      "time": "2026-10-12 07:28:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N"
+      ],
+      "text": "【TSMC pushes for US advanced packaging start in 1H2028】TSMC is targeting US advanced-packaging production in 1H2028 after GlobalFoundries said it signed a $2bn manufacturing agreement to mass-produce COWOS silicon interposers in the US in 1H2028. Amkor’s Arizona plant is also slated to begin production in early 2028, aligning supply-chain timing. Industry estimates TSMC’s first Arizona advanced-packaging fab could start operations as early as 1H2028; market focus is on whether trial production will begin ahead of commercial output."
+    },
+    {
+      "id": "5138123",
+      "time": "2026-10-12 07:27:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國首相伯納姆將於週二與商界高管舉行招待會】據英國《金融時報》援引知情人士的訊息報道，英國首相安迪·伯納姆預計將於週二在唐寧街10號出席三場獨立會議，與會者包括科技企業家、風險投資家、富時指數（FTSE）大型企業負責人以及商界遊說團體。"
+    },
+    {
+      "id": "5138122",
+      "time": "2026-10-12 07:25:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【汽車行業監管再升級，車企迅速掀起學習、自查熱潮】直擊“速成造車”的痛點，汽車行業監管再升級。10月10日，工業和資訊化部等四部門聯合公開發布《關於進一步加強汽車產品創新設計和研發測試驗證有關管理工作的通知（徵求意見稿）》（以下簡稱《徵求意見稿》），對汽車制動系統等關鍵結構件、可靠性與耐久性驗證以及隱藏式門把手、零重力座椅創新設計等提出了要求。記者瞭解到，《徵求意見稿》釋出後，整車企業迅速掀起學習、自查熱潮。多家車企相關負責人告訴記者，週末期間就對《徵求意見稿》組織開展了學習，後續將在全公司範圍傳達；還有一些車企向記者確認，地方相關部門也在組織學習和落實。受訪企業和專家普遍認為，此次監管精準糾偏行業“重創新噱頭、輕安全驗證”的偽創新亂象，倒逼產業告別快消式造車邏輯，全面開啟從搶快迭代到深耕品質、穩質長跑的全新發展階段。（人民財訊）"
+    },
     {
       "id": "te:markets:590986",
       "time": "2026-10-12 07:25:18",
