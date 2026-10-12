@@ -1,7 +1,37 @@
 {
   "date": "2026-10-13",
-  "count": 159,
+  "count": 162,
   "items": [
+    {
+      "id": "mkt:01a1315a-2ab8-7ee0-a841-acf82253206f",
+      "time": "2026-10-13 02:22:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "UK Maritime Trade Operations said it received a report that a container ship was struck by an unidentified object while transiting the Strait of Hormuz."
+    },
+    {
+      "id": "5140042",
+      "time": "2026-10-13 02:21:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易組織：收到報告稱一艘集裝箱船在駛入霍爾木茲海峽途中遭不明拋射物擊中。"
+    },
+    {
+      "id": "te:markets:591238",
+      "time": "2026-10-13 02:20:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Plunges by 5.68% — Top commodity losers are Lithium Carbonate (-5.68%), Silver (-0.84%), Aluminum Alloy (-0.82%) and Gold (-0.53%). Gains are led by Copper (0.95%) and Silicon (0.58%)."
+    },
     {
       "id": "mkt:01a13155-3793-7ee0-a841-a43a58f8c779",
       "time": "2026-10-13 02:17:10",
