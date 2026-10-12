@@ -1,7 +1,95 @@
 {
   "date": "2026-10-12",
-  "count": 556,
+  "count": 566,
   "items": [
+    {
+      "id": "5138372",
+      "time": "2026-10-12 10:23:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "之江生物：公司海外收入有望逐步提升。"
+    },
+    {
+      "id": "5138371",
+      "time": "2026-10-12 10:23:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華電新能等成立氫能科技新公司】企查查APP顯示，近日，松原華電康乃爾氫能科技有限公司成立，經營範圍包含新興能源技術研發；儲能技術服務；氣體、液體分離及純淨裝置製造；氣體、液體分離及純淨裝置銷售等。企查查股權穿透顯示，該公司由華電新能等共同持股。"
+    },
+    {
+      "id": "5138370",
+      "time": "2026-10-12 10:23:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念股短線拉昇，鵬鼎控股漲停】PCB概念股短線拉昇，鵬鼎控股漲停，弘信電子、威派格、澳弘電子、景旺電子、揚帆新材跟漲。"
+    },
+    {
+      "id": "5138369",
+      "time": "2026-10-12 10:23:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市產業地圖2026版釋出】10 月 12 日，上海市產業地圖 2026 版在第二十六屆中國國際工業博覽會上正式釋出， 並公佈 30 個 “ 市區協同 ” 千億級產業叢集名單。 產業地圖以上海 “ 十五五 ” 現代化產業體系為骨架， 採用 “ 天地圖 ” 統一空間底圖， 按照 “ 一個產業體系、 一套產業生態、 一組基礎設施 ” 總體架構， 編制總體佈局、 區域佈局、 行業地圖與專題地圖 4 類 4144 組共 100101 張地圖， 涵蓋重點公共平臺近 900 個、 核心專業服務機構近 700 家、 重要政策超 100 個、 產業基礎環節企業超300家。 （第一財經）"
+    },
+    {
+      "id": "mkt:01a12deb-746a-7ee0-a82f-7251e7e019ba",
+      "time": "2026-10-12 10:22:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share helium-related stocks briefly rebounded; Kaimeiteqi hit the daily limit, while Hangyang Co., Zhengfan Technology and Binglun Environment also advanced."
+    },
+    {
+      "id": "5138368",
+      "time": "2026-10-12 10:21:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置概念震盪拉昇 京儀裝備漲近10%】半導體裝置概念震盪拉昇，京儀裝備漲近10%，華峰測控、拓荊科技、託倫斯、中科飛測跟漲。"
+    },
+    {
+      "id": "5138367",
+      "time": "2026-10-12 10:21:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪與榮耀戰略合作，共創AI語音融合】比亞迪宣佈，比亞迪與榮耀戰略合作，共創AI語音融合，A2A打通車機與手機語音智慧體，將手機AI能力和服務帶入座艙空間，樹立AI生態融合標杆。"
+    },
+    {
+      "id": "mkt:01a12dea-7247-7ee0-a82f-6f7c798e7b06",
+      "time": "2026-10-12 10:21:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Zhijiang Biological: Overseas revenue expected to rise gradually】At its Oct. 12, 2026 semiannual results briefing, Zhijiang Biological said overseas markets are a strategic priority. In 1H2026 the company secured seven new international certifications. With ongoing deliveries of overseas orders, expanded CE/FDA coverage and deeper distribution channels, it expects overseas revenue to increase gradually, targeting Europe, Africa, the Middle East and Southeast Asia."
+    },
+    {
+      "id": "mkt:01a12de9-fd36-7ee0-a82f-67d684c2d12a",
+      "time": "2026-10-12 10:21:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【Nomura: Rising US, European yields and credit worries weaken bond investors' risk appetite】Nomura said rising US and European yields and credit‑risk concerns have materially reduced bond investors' risk tolerance. Investors remain willing to bet on higher JGB yields but are cautious about positioning for lower yields or buying duration. After meetings with North American investors Nomura flagged three priorities: the BOJ's terminal rate level, the pace of further tightening, and the risk of Japanese investor fund repatriation; it warned that \"if US and European credit concerns deteriorate further, one must also consider the risk that global rate‑hike expectations could temporarily recede.\""
+    },
+    {
+      "id": "mkt:01a12de9-7055-7ee0-a82f-597ee3ec8730",
+      "time": "2026-10-12 10:20:35",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share semiconductor sector rebounded; Jingyi Equipment rose over 7%, with Helin Weina, Huafeng Cekong, Tuolunsi, Jinhaitong and Fuchuang Precision also gaining."
+    },
     {
       "id": "5138366",
       "time": "2026-10-12 10:20:03",
