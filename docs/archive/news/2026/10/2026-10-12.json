@@ -1,7 +1,90 @@
 {
   "date": "2026-10-12",
-  "count": 566,
+  "count": 575,
   "items": [
+    {
+      "id": "mkt:01a12def-fc7d-7ee0-a82f-8530f7e1810e",
+      "time": "2026-10-12 10:27:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Ministry of Finance is seeking public comment on a consultation draft of the International Accounting Standards Board's post-implementation review of the financial instruments standard."
+    },
+    {
+      "id": "5138378",
+      "time": "2026-10-12 10:26:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美媒爆：美國駐希臘大使涉嫌多項不當行為，特朗普和魯比奧“極其憤怒”，正考慮將其解僱】據美聯社當地時間11日報道，美國總統特朗普和國務卿魯比奧正考慮解僱美國駐希臘大使金伯利·吉爾福伊爾，此前有一系列報道指控她在擔任該職務之前和期間存在不當甚至可能違法的行為。報道稱，一名美國高階官員11日表示，特朗普和魯比奧對報道中吉爾福伊爾的行為“極其憤怒”，可能會在本週決定採取何種行動。該官員表示，魯比奧對此尤其憤怒，部分原因是他上週剛剛訪問希臘首都雅典，而吉爾福伊爾參加了他在此期間幾乎所有的活動，並在指控甚囂塵上之際，在魯比奧到達雅典時熱情擁抱了他。（環球網）"
+    },
+    {
+      "id": "5138377",
+      "time": "2026-10-12 10:26:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數漲幅擴大至1%，此前跌超1%】科創50指數漲幅擴大至1%，此前跌超1%，現報1472.21點。"
+    },
+    {
+      "id": "5138376",
+      "time": "2026-10-12 10:26:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "新臺幣兌美元下跌0.3%至31.971。"
+    },
+    {
+      "id": "mkt:01a12dee-90f8-7ee0-a82f-787e32bc0fd5",
+      "time": "2026-10-12 10:26:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "STAR 50 Index rose more than 1% as the semiconductor sector rebounded; constituent Zhongke Feice jumped over 5%."
+    },
+    {
+      "id": "5138375",
+      "time": "2026-10-12 10:26:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【原料藥板塊走弱，東亞藥業跌停】原料藥板塊走弱，東亞藥業跌停，聖諾生物、向日葵、潤都股份、美諾華、新贛江、新華製藥等跟跌。"
+    },
+    {
+      "id": "5138374",
+      "time": "2026-10-12 10:26:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新紫光集團等成立新公司 含積體電路設計業務】企查查APP顯示，近日，北京海光數科資訊科技有限公司成立，法定代表人為王巖，註冊資本為5000萬元，經營範圍包含積體電路設計；積體電路晶片及產品製造；積體電路晶片及產品銷售；電子元器件零售等。企查查股權穿透顯示，該公司由北京海國數科企業管理有限公司、新紫光集團有限公司旗下北京紫光通訊科技集團有限公司共同持股。（人民財訊）"
+    },
+    {
+      "id": "te:markets:591032",
+      "time": "2026-10-12 10:25:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Fall on Higher US Supply Outlook — Soybean futures fell below $12.9 per bushel, reaching a one-week low as the USDA's latest report pointed to a more abundant US supply outlook for the 2026/27 season. The agency raised its soybean yield estimate to 53.1 bushels per acre from 52.8 in September, lifting projected production to 4.56 billion bushels from 4.535 billion. US ending stocks were also revised higher to 315 million bushels from 310 million, adding to concerns over ample supplies. However, the USDA increased its export forecast by 10 million bushels, providing some offset to the bearish outlook, while its season-average farm price estimate remained unchanged at $12 per bushel. Meanwhile, China's Agriculture Ministry cut its 2026/27 soybean output forecast by 590,000 tonnes to 20.36 million tonnes in its October outlook, citing lower-than-expected planted area and yields. The reduction, alongside higher production costs and rising global prices, supported new-crop soybean prices in China."
+    },
+    {
+      "id": "5138373",
+      "time": "2026-10-12 10:25:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【米爾斯海默：美國在中東沒有制勝戰略】近期，葉門胡塞武裝與支援葉門政府軍的沙烏地阿拉伯之間衝突持續升級，雙方相互發動導彈、無人機襲擊。美國總統特朗普10月10日公開表態“可能會”加入沙特對葉門胡塞武裝的打擊行動，並將“儘快做出決定”。對此，美國芝加哥大學教授約翰·米爾斯海預設為，對葉門胡塞武裝開戰不僅無法破局，反而會讓美國徹底陷入中東雙線泥潭。他指出，美軍2025年春季曾大規模空襲葉門以打擊胡塞武裝，耗時兩個月卻未能擊潰對手，最終只能草草收場、主動撤軍。現在疊加美伊長期對峙、彈藥庫存持續告急的狀況，美國目前完全不具備再度開戰、擊敗胡塞武裝的現實條件。（總檯環球資訊廣播）"
+    },
     {
       "id": "5138372",
       "time": "2026-10-12 10:23:50",
