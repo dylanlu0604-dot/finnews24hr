@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-13 02:42:56",
-  "count": 10821,
+  "updated": "2026-10-13 02:46:41",
+  "count": 10819,
   "items": [
+    {
+      "id": "mkt:01a1316f-27ee-7ee0-a842-0d0768e28655",
+      "time": "2026-10-13 02:45:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) Falcon 9 for Dragon's 35th commercial resupply services mission is vertical at Cape Canaveral Launch Complex 40 and targeting liftoff at 06:33 ET on the 13th (18:33 Beijing time)."
+    },
     {
       "id": "mkt:01a1316b-a1be-7ee0-a842-03ff776d7f79",
       "time": "2026-10-13 02:41:39",
@@ -98231,41 +98239,6 @@
         "JETS.O"
       ],
       "text": "U.S. Department of Transportation said airlines should avoid using \"person-specific data\" to set prices."
-    },
-    {
-      "id": "mkt:01a10d63-a956-7ee0-a7a8-f85fbd06d6df",
-      "time": "2026-10-06 02:46:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude futures settled at $100.32/bbl, down $1.93, or 1.89%."
-    },
-    {
-      "id": "mkt:01a10d62-a7ec-7ee0-a7a8-f7689abebe3e",
-      "time": "2026-10-06 02:45:31",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【Iranian media: Houthi leadership denies Saudi control of Bab al‑Mandeb】Mohammed Buhaithi, a member of the Yemeni Houthi political bureau, told Iranian Al‑Alam TV reports that Saudi forces control Mocha and the Bab al‑Mandeb are “not true.” He said Saudi troops exploited a military vacuum to enter the areas but were subsequently expelled and that local security has been restored. Buhaithi called for an end to the war and the blockade of Yemen and warned the Houthis would respond if Saudi forces continue to escalate."
-    },
-    {
-      "id": "mkt:01a10d61-9c10-7ee0-a7a8-edf860c0f7b9",
-      "time": "2026-10-06 02:44:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. crude futures settled at $89.43 per barrel, down $1.68, or 1.84%."
     }
   ]
 }
