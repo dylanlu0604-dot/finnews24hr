@@ -1,7 +1,91 @@
 {
-  "updated": "2026-10-12 10:28:05",
-  "count": 10604,
+  "updated": "2026-10-12 10:31:49",
+  "count": 10610,
   "items": [
+    {
+      "id": "5138385",
+      "time": "2026-10-12 10:31:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌3%，現報6502.00元。"
+    },
+    {
+      "id": "5138384",
+      "time": "2026-10-12 10:30:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票ETF連續5個交易日淨流入774億 10月僅2個交易日流入407億】Wind資料顯示，上週五（10月9日），股票ETF淨流入227.82億元，已連續第5個交易日淨流入。這輪淨流入從9月28日開始，截至目前，區間合計淨流入額已經達到773.97億元。上週2個交易日淨流入額逐日增加，使得10月股票ETF淨流入達到406.89億元，暫時位於年內淨流入第三高的單月。具體到單隻產品，科創50ETF華夏既是上週五淨流入最多的產品（淨流入36.72億元），也是9月28日以來唯一一隻淨流入超百億的（淨流入125.14億元），最新規模969.62億元。創業板ETF易方達近5個交易日淨流入63.9億元，上週五淨流入21.46億元。中證1000ETF南方、科創50ETF易方達、上證指數ETF富國、滬深300ETF華泰柏瑞等淨5個交易日淨流入超20億元。"
+    },
+    {
+      "id": "5138383",
+      "time": "2026-10-12 10:30:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元一度上漲 0.8%，報 1333.30，隨後漲幅收窄至 0.5%。韓元今年已升值 7.7%。"
+    },
+    {
+      "id": "5138382",
+      "time": "2026-10-12 10:29:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.3%，納斯達克100指數期貨上漲0.4%。"
+    },
+    {
+      "id": "mkt:01a12df1-4d1b-7ee0-a82f-9f4588a03d27",
+      "time": "2026-10-12 10:29:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "WTI"
+      ],
+      "text": "【Won hits two-year high as oil slides and corporate dollar sales bolster currency】The South Korean won rallied on Monday to a two-year high, supported by weaker oil prices and heavy dollar selling by domestic corporates. The won rose as much as 0.8% to 1,333.30 per dollar after markets reopened following a three-day holiday, before trimming gains to 0.5%; most Asian currencies also strengthened. Market participants say exporters—particularly semiconductor firms—are continuing to sell dollars, which should keep providing support, though liquidity was light. The won has gained 7.7% YTD, moving from Asia's weakest performer in 1H to one of H2's best performers on the back of strong exports and corporate dollar sales."
+    },
+    {
+      "id": "mkt:01a12df0-62b8-7ee0-a82f-92164ef09f4c",
+      "time": "2026-10-12 10:28:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Yongtai Energy says first‑gen solid cathode material for vanadium flow batteries completes multi‑power system tests】Yongtai Energy told investors on Oct. 12 at its 2026 interim results briefing that its first‑generation, in‑house solid cathode capacity‑enhancing material for vanadium redox flow batteries has completed multi‑power system testing and the company is advancing trial production, pilot runs and preparations for mass production. The company says the material markedly lowers initial electrolyte installation cost and widens system operating temperature range, offering cost and efficiency gains that establish a core technology barrier for its energy-storage business. Separately, Singapore firm Vnergy and a Southwest Chinese chemical group have moved a joint project into the approval stage and are seeking product certification with Singapore’s Agency for Science, Technology and Research (A*STAR)."
+    },
+    {
+      "id": "5138380",
+      "time": "2026-10-12 10:28:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永泰能源：自研釩電池正極固體增容材料已完成多功率系統測試】永泰能源在10月12日召開的2026年半年度業績說明會上表示，公司自主研發的第一代釩電池正極固體增容材料已完成多功率系統測試，目前正在有序推進試生產、中試和量產各項工作。該材料在大幅降低釩電池電解液初裝成本的同時，可有效拓寬系統工作溫度區間，具有顯著的降本增效優勢，形成了公司儲能業務的核心技術壁壘。目前，新加坡Vnergy公司與西南地區有關重點化工集團合作專案進入立項階段，同時聯合新加坡科技研究局等權威機構開展產品認證。"
+    },
+    {
+      "id": "mkt:01a12df0-258a-7ee0-a82f-8f4f5b2920cc",
+      "time": "2026-10-12 10:27:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "300750.SZ",
+        "Impact bullish",
+        "CATL.HK"
+      ],
+      "text": "CATL's A- and H-shares both rose; A-shares up over 1%, H-shares up over 3%."
+    },
+    {
+      "id": "5138379",
+      "time": "2026-10-12 10:27:45",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "財政部就國際會計準則理事會發布的金融工具準則實施後審議意見徵詢稿公開徵求意見。"
+    },
     {
       "id": "mkt:01a12def-fc7d-7ee0-a82f-8530f7e1810e",
       "time": "2026-10-12 10:27:44",
@@ -96495,39 +96579,6 @@
         "MKT News"
       ],
       "text": "IMF reached a staff-level agreement with Sri Lanka on the seventh review of its Extended Fund Facility; pending IMF Executive Board approval, Sri Lanka would receive about $345 million."
-    },
-    {
-      "id": "5125566",
-      "time": "2026-10-05 10:31:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數早盤收盤上漲2.5%，報70,037.61點。東證指數早盤收盤上漲1.2%，報4138.57點。"
-    },
-    {
-      "id": "te:markets:589357",
-      "time": "2026-10-05 10:30:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Treasury Yields Ease as Fed Hike Bets Recede — The US 10-year Treasury yield eased to around 5.25% on Monday, while the 30-year yield slipped toward 5.6% as traders scaled back expectations for an imminent Federal Reserve rate hike following weaker-than-expected US jobs data. Data released Friday showed the US economy added just 29,000 jobs in September, well below expectations of 90,000, after August’s gain was revised down to 133,000. The unemployment rate climbed to 4.2%, while annual wage growth unexpectedly slowed to 3.0%, its weakest pace since May 2021. Markets are now pricing in nearly an 80% probability that the Fed will keep policy unchanged this month, while expectations for a December hike remained around 69%. Still, Treasury yields remained near their highest levels in more than two decades amid concerns over persistent energy-driven inflation, rising US fiscal risks and increasing debt issuance linked to artificial intelligence."
-    },
-    {
-      "id": "mkt:01a109e4-1612-7ee0-a797-8c79c895e6af",
-      "time": "2026-10-05 10:28:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "EUR/USD fell 0.38% to 1.1211, its lowest level since May 2025."
     }
   ]
 }
