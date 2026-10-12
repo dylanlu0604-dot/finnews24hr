@@ -1,7 +1,81 @@
 {
-  "updated": "2026-10-13 03:09:39",
-  "count": 10825,
+  "updated": "2026-10-13 03:13:28",
+  "count": 10831,
   "items": [
+    {
+      "id": "5140071",
+      "time": "2026-10-13 03:12:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長加里巴巴迪：伊朗正在敲定對美國的回應，一旦磋商完成，將透過中間人傳達其立場。"
+    },
+    {
+      "id": "mkt:01a13187-09c9-7ee0-a842-7ca51e64026c",
+      "time": "2026-10-13 03:11:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv mayor says an explosion occurred in the city."
+    },
+    {
+      "id": "mkt:01a13186-b912-7ee0-a842-74f0937bfd38",
+      "time": "2026-10-13 03:11:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India requires foreign exchange risk margin (FERR) to be deposited in cash and maintained daily in an RBI account until the related derivatives contract expires."
+    },
+    {
+      "id": "5140070",
+      "time": "2026-10-13 03:11:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：遠期外匯結算交易要求在印度境內以現金形式每日存入該行並由該行保管，且該現金需一直留存至合同終止。"
+    },
+    {
+      "id": "mkt:01a13186-9c91-7ee0-a842-6808f356d205",
+      "time": "2026-10-13 03:11:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India said the foreign exchange risk margin (FERR) per derivatives contract should equal 20% of the contract's notional value in rupees."
+    },
+    {
+      "id": "mkt:01a13186-922e-7ee0-a842-66d4e041eee0",
+      "time": "2026-10-13 03:11:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India says all rupee-involving FX derivative contracts in which authorized dealers buy foreign currency and sell Indian rupees will be subject to foreign exchange risk margin (FERR) requirements."
+    },
+    {
+      "id": "5140069",
+      "time": "2026-10-13 03:10:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度儲備銀行：外匯風險溢價應等於每筆衍生品合約名義本金等值印度盧比金額的20%。"
+    },
+    {
+      "id": "5140068",
+      "time": "2026-10-13 03:09:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度儲備銀行：對於所有涉及印度盧比且由授權交易商買入外幣兌印度盧比的外匯衍生品合約，均適用遠期匯率法。"
+    },
+    {
+      "id": "5140067",
+      "time": "2026-10-13 03:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【內塔尼亞胡尋求美國牽線，希望以軍參戰葉門打擊胡塞】以色列總理內塔尼亞胡正尋求美國斡旋，以說服沙烏地阿拉伯允許以色列軍事介入葉門打擊胡塞武裝，希望藉此加強關係併為關係正常化鋪路。但沙特王儲穆罕默德·本·薩勒曼已否決了這一提議。"
+    },
     {
       "id": "5140066",
       "time": "2026-10-13 03:09:05",
@@ -98262,34 +98336,6 @@
         "國際"
       ],
       "text": "【外媒：土巴兩國將向沙特部署軍事力量】據多家外媒報道，沙烏地阿拉伯、土耳其和巴基斯坦三國5日發表聯合宣告稱，在葉門胡塞武裝發動襲擊之際，土耳其與巴基斯坦將向沙特部署軍事力量。（新華社）"
-    },
-    {
-      "id": "5126557",
-      "time": "2026-10-06 03:12:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX股價在午盤交易中觸及盤中新高，最新上漲超6%，報169.50美元。"
-    },
-    {
-      "id": "te:economy:589654",
-      "time": "2026-10-06 03:11:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Uruguay Inflation Rises in September — Uruguay’s annual inflation rate rose to 4.68% in September 2026 from 4.55% in August. The largest price increases were recorded in education (7.29%), transport (7.13%), healthcare (6.72%), restaurants and lodging (6.64%), and personal care and social security (5.66%). Food and non-alcoholic beverages increased 4.26%. In contrast, clothing and footwear fell 6.21%, making it the only category to record deflation. On a monthly basis, consumer prices rose 0.54%, bringing year-to-date inflation to 4.21%."
-    },
-    {
-      "id": "mkt:01a10d78-c3de-7ee0-a7a9-2f2a1983f04e",
-      "time": "2026-10-06 03:09:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio phoned Mongolia's foreign minister Battsetseg and Azerbaijan's foreign minister Bayramov en route to Iceland, market sources said."
     }
   ]
 }
