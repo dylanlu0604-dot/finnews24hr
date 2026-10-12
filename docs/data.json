@@ -1,7 +1,64 @@
 {
-  "updated": "2026-10-13 03:02:04",
-  "count": 10818,
+  "updated": "2026-10-13 03:05:52",
+  "count": 10822,
   "items": [
+    {
+      "id": "mkt:01a13181-01bc-7ee0-a842-48a8c44e86bd",
+      "time": "2026-10-13 03:05:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemen's Houthi forces said they attacked Saudi Arabia's Khamis Mushait air base with drones."
+    },
+    {
+      "id": "5140062",
+      "time": "2026-10-13 03:04:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱，使用無人機襲擊了沙烏地阿拉伯海米斯穆謝特的一處空軍基地。"
+    },
+    {
+      "id": "5140061",
+      "time": "2026-10-13 03:04:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "胡塞武裝：再次警告所有國際航空公司、專家、員工、工作人員以及各國旅客：避免運營飛往沙烏地阿拉伯機場的航班，因為這些機場不安全，但麥加和麥地那的機場及空域除外。"
+    },
+    {
+      "id": "mkt:01a1317f-c2b6-7ee0-a842-44ec1df03195",
+      "time": "2026-10-13 03:03:38",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Yemen's Houthi movement said it attacked Riyadh airport with ballistic missiles on Monday."
+    },
+    {
+      "id": "5140060",
+      "time": "2026-10-13 03:03:30",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "葉門胡塞武裝稱他們週一用彈道導彈襲擊了利雅得機場。"
+    },
+    {
+      "id": "5140059",
+      "time": "2026-10-13 03:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海軍：霍爾木茲海峽一艘原油油輪遭不明彈丸擊中。"
+    },
     {
       "id": "mkt:01a1317d-47a9-7ee0-a842-3f7b6c0e881a",
       "time": "2026-10-13 03:00:56",
@@ -98203,26 +98260,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧在前往冰島途中，分別與蒙古、亞塞拜然及以色列領導人通電話。"
-    },
-    {
-      "id": "mkt:01a10d73-e093-7ee0-a7a9-246948ab4aa9",
-      "time": "2026-10-06 03:04:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Israeli sources: Omani co-pilot of Dubai airline says motive was 'revenge for Gaza'】Israeli sources said on Oct. 5 Omani co-pilot Hamam Hamami told investigators and in court his motive for the cockpit incident on a Dubai airline flight was \"revenge for Gaza.\" The sources said Hamami, during a multinational interrogation in the UAE, admitted he deliberately chose the Israel-bound flight and attempted to crash the aircraft as a premeditated act of revenge. Israeli and Emirati officials have not confirmed the account."
-    },
-    {
-      "id": "5126553",
-      "time": "2026-10-06 03:02:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【共和黨選情危急，特朗普全力衝刺紅州選舉】特朗普中期選舉最後衝刺階段幾乎全部在共和黨票倉州造勢，凸顯共和黨愈發擔憂失去國會控制權。一名共和黨議員稱當前局勢已是“五級火警（最高階別緊急險情）”，並表示“我們一向歡迎總統，但我不知道他是否瞭解基層的真實情緒。”"
     }
   ]
 }
