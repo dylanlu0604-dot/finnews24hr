@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-13 02:31:35",
-  "count": 10820,
+  "updated": "2026-10-13 02:35:21",
+  "count": 10823,
   "items": [
+    {
+      "id": "mkt:01a13164-242e-7ee0-a841-f47012c3a00c",
+      "time": "2026-10-13 02:33:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session most-active contracts close】As of 02:30, Shanghai gold most-active contract closed down 0.58% at 903 yuan/gram; Shanghai silver most-active contract closed down 1.10% at 14,690 yuan/kg; SC crude oil most-active contract closed up 3.26% at 754 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a13162-57cd-7ee0-a841-ebf3d6c4712e",
+      "time": "2026-10-13 02:31:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russian Deputy Prime Minister NOVAK said OPEC has discussed transport costs, which have risen sharply."
+    },
+    {
+      "id": "5140050",
+      "time": "2026-10-13 02:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 11月原油期貨收報93.74美元/桶。NYMEX 11月天然氣期貨收報3.1670美元/百萬英熱單位。NYMEX 11月汽油期貨收報3.2917美元/加侖，NYMEX 11月取暖油期貨收報4.7232美元/加侖。"
+    },
     {
       "id": "5140049",
       "time": "2026-10-13 02:31:09",
