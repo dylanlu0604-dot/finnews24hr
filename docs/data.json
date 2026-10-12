@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-13 02:35:21",
-  "count": 10823,
+  "updated": "2026-10-13 02:39:08",
+  "count": 10825,
   "items": [
+    {
+      "id": "mkt:01a13168-fac8-7ee0-a841-fe69e9a07de8",
+      "time": "2026-10-13 02:38:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports the Trump administration plans to bring some officials from the Center for AI Safety (CAISI) into the White House and to integrate CAISI into AI policy decision-making."
+    },
+    {
+      "id": "5140051",
+      "time": "2026-10-13 02:38:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府計劃將人工智慧測試機構人員調至白宮。"
+    },
     {
       "id": "mkt:01a13164-242e-7ee0-a841-f47012c3a00c",
       "time": "2026-10-13 02:33:28",
