@@ -1,0 +1,1371 @@
+{
+  "date": "2026-10-13",
+  "count": 134,
+  "items": [
+    {
+      "id": "5140028",
+      "time": "2026-10-13 01:58:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指上漲1.2%。"
+    },
+    {
+      "id": "mkt:01a13143-a12c-7ee0-a841-433289f44f79",
+      "time": "2026-10-13 01:57:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's main stock index rose 1.2%."
+    },
+    {
+      "id": "mkt:01a13143-8c5e-7ee0-a841-3c61fa20d127",
+      "time": "2026-10-13 01:57:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qatar Airways suspends flights to/from Riyadh and Dammam】On Oct 12 local time Qatar Airways issued a travel advisory and temporarily suspended flights to and from Riyadh and Dammam. The airline did not specify the duration and said it is coordinating with authorities and closely monitoring developments in Saudi Arabia."
+    },
+    {
+      "id": "5140027",
+      "time": "2026-10-13 01:57:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【卡達航空暫停往返沙特利雅得和達曼的航班】當地時間10月12日，卡達航空公司釋出旅行警示，宣佈暫時停飛往返沙烏地阿拉伯利雅得和達曼的航班。卡達航空公司尚未說明此次航班暫停的具體期限。該公司表示，正與有關部門保持協調，密切關注沙烏地阿拉伯局勢的發展。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a13142-7bfb-7ee0-a841-32a672eb6889",
+      "time": "2026-10-13 01:56:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "European Council President Costa said the EU strongly condemns the Houthis' ongoing attacks on the Kingdom of Saudi Arabia, particularly strikes on civilian infrastructure including airports. The EU stands with Saudi Arabia and Yemen's legitimate government. Such attacks violate international law and must stop immediately."
+    },
+    {
+      "id": "mkt:01a13141-e363-7ee0-a841-2b56e6a36a6c",
+      "time": "2026-10-13 01:56:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Attack on Kyiv kills 1, injures 11】On the 12th local time, Kyiv mayor Klitschko said an attack on Ukraine’s capital killed 1 person and injured 11. Further details are still being verified."
+    },
+    {
+      "id": "5140024",
+      "time": "2026-10-13 01:53:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔遭襲 已致1死11傷】當地時間12日，烏克蘭首都基輔市市長克利奇科表示，當天基輔遭遇的襲擊已造成1人死亡、11人受傷。目前，襲擊相關後續詳細情況仍在進一步核實中。"
+    },
+    {
+      "id": "5140022",
+      "time": "2026-10-13 01:53:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多艘空載超級油輪避開波斯灣，霍爾木茲石油運輸再添風險】隨著伊朗襲擊升級，越來越多空載超級油輪開始掉頭遠離波斯灣。根據彭博彙總的油輪追蹤資料，近日至少10艘超大型原油運輸船(VLCC)以及數艘蘇伊士型油輪在駛近阿聯酋富查伊拉港時停航或掉頭。雖然仍有其他船隻繼續駛往該地區，但在霍爾木茲海峽周邊幾乎每天都發生襲擊、部分襲擊甚至就在富查伊拉附近之際，這些超級油輪的撤離再次令外界擔心石油能否持續透過這一水道運輸。"
+    },
+    {
+      "id": "mkt:01a13139-caf4-7ee0-a841-227a20c86f55",
+      "time": "2026-10-13 01:47:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【At least 10 VLCCs avoid Fujairah as risk of Iranian attacks near Strait of Hormuz rises】Ship-tracking data show at least 10 very large crude carriers (VLCCs) and several Suezmax tankers bound for Fujairah have paused or turned back as the perceived risk of Iranian attacks near the Strait of Hormuz rises. Fujairah is a major transshipment hub for Persian Gulf oil exports; VLCCs often wait outside the strait and transship via smaller tankers. Withdrawal of large tankers could disrupt that bypass pattern and add pressure to crude logistics. Some vessels remain en route, but repeated recent attacks near the Strait of Hormuz and Fujairah have raised market concern about the continuity of oil shipments."
+    },
+    {
+      "id": "5140019",
+      "time": "2026-10-13 01:46:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Andreessen Horowitz洽談擴大GPU供應。General Catalyst正在打造一個資料中心。Andreessen可能會透過兩家資料中心公司擴大（前述GPU的）供應。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610133893051425",
+      "time": "2026-10-13 01:43:44",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲哈瑪克稱，對中性利率的預期在FOMC中屬於偏高水平。"
+    },
+    {
+      "id": "5140017",
+      "time": "2026-10-13 01:42:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：需要推出更具限制性的政策，關鍵在於時間視窗。我對中性利率的預測屬於聯邦公開市場委員會里偏高的一檔。"
+    },
+    {
+      "id": "mkt:01a13135-2d1e-7ee0-a841-1d8b4209dcb5",
+      "time": "2026-10-13 01:42:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Governor Hammack said his estimate of the neutral interest rate is on the high side among FOMC participants."
+    },
+    {
+      "id": "mkt:01a13134-afeb-7ee0-a841-10b7e2272844",
+      "time": "2026-10-13 01:41:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack said low-income workers had previously mainly reported “trading down” consumption; now they are beginning to have to choose between paying different bills."
+    },
+    {
+      "id": "5140016",
+      "time": "2026-10-13 01:41:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國零售協會稱，網路攻擊波及法國及其他多個歐洲國家的多家連鎖超市。"
+    },
+    {
+      "id": "5140015",
+      "time": "2026-10-13 01:40:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：低收入勞動者最初的應對是降級消費，如今他們已經開始權衡優先支付哪些賬單。"
+    },
+    {
+      "id": "5140013",
+      "time": "2026-10-13 01:39:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：仍需進一步收緊政策；如果貨幣政策按兵不動，市場環境將會發生變化。"
+    },
+    {
+      "id": "mkt:01a13133-1b93-7ee0-a841-0dd863415a26",
+      "time": "2026-10-13 01:39:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's Hammack says policymakers should exercise greater restraint; if monetary policy takes no action, market conditions will change."
+    },
+    {
+      "id": "mkt:01a1312f-eac8-7ee0-a841-003abfcdbc7c",
+      "time": "2026-10-13 01:36:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed official Hammack said he does not want policy to threaten the Fed's employment objective under its dual mandate."
+    },
+    {
+      "id": "mkt:01a1312f-bdf8-7ee0-a840-fce651c15e67",
+      "time": "2026-10-13 01:36:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack said the Fed currently faces the question of how quickly to tighten monetary policy."
+    },
+    {
+      "id": "mkt:01a1312f-914f-7ee0-a840-f2270cf7c089",
+      "time": "2026-10-13 01:36:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve's HAMMACK said the Fed has no intention of using interest rates to cause severe disruption to the economy."
+    },
+    {
+      "id": "5140008",
+      "time": "2026-10-13 01:35:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：不希望損害美聯儲政策目標中的就業維度。"
+    },
+    {
+      "id": "mkt:01a1312f-327c-7ee0-a840-ee345b5b1608",
+      "time": "2026-10-13 01:35:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【OPEC+ warns energy-flow disruptions push shipping and insurance costs above one-third of cargo value】OPEC+ ministers met in Riyadh on Oct. 12 and said they will continue coordinating via the Joint Ministerial Monitoring Committee (JMMC) to preserve oil-market stability, stressing that securing international sea lanes and continuous energy flows is vital. They warned transport disruptions have driven shipping and insurance costs to unprecedented levels—exceeding one-third of related cargo value—hindering timely crude and refined-fuel shipments and adding to global inflationary pressure; high transport costs are expected to pass along the oil supply chain, raising costs for producers and consumers and weighing on growth. Ministers said they will keep monitoring the situation and work with governments, industry and international bodies including the IEF and IEA to improve global shipping conditions."
+    },
+    {
+      "id": "5140007",
+      "time": "2026-10-13 01:35:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：美聯儲當前面臨的問題是，應以多快的速度收緊政策。"
+    },
+    {
+      "id": "5140006",
+      "time": "2026-10-13 01:35:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：政策目標並非依靠利率對經濟造成劇烈衝擊。"
+    },
+    {
+      "id": "5140005",
+      "time": "2026-10-13 01:34:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國賓夕法尼亞州報告第六例麻疹死亡病例】當地時間10月12日，美國賓夕法尼亞州富蘭克林縣驗屍官辦公室釋出訊息稱，該縣一名此前被確診患有麻疹的39歲女性已經去世。這是該州自今年暴發麻疹疫情以來報告的第六例此類死亡病例。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1312d-a67c-7ee0-a840-e50a234d4bcf",
+      "time": "2026-10-13 01:33:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed official Hammack said higher interest rates will not halt mega-cap firms but could weigh on companies in other sectors."
+    },
+    {
+      "id": "5140004",
+      "time": "2026-10-13 01:33:50",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：高利率不會抑制超大規模科技企業，但可能對其他行業的公司產生影響。"
+    },
+    {
+      "id": "mkt:01a1312d-70bf-7ee0-a840-d8a9869f52d2",
+      "time": "2026-10-13 01:33:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "IRGC navy said the U.S. has mobilized all resources to try to move four or five oil tankers through the strait, behaving like a small‑time smuggler."
+    },
+    {
+      "id": "mkt:01a1312d-36eb-7ee0-a840-d18ac555a9b1",
+      "time": "2026-10-13 01:33:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed official Hammack said the economy needs moderate cooling."
+    },
+    {
+      "id": "5140003",
+      "time": "2026-10-13 01:33:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：需要在邊際層面為經濟降溫。"
+    },
+    {
+      "id": "5140002",
+      "time": "2026-10-13 01:32:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍司令：美國動用全部力量，只為護送四五艘油輪透過海峽，活像個小走私販子。"
+    },
+    {
+      "id": "mkt:01a1312c-85a7-7ee0-a840-c94bcdf851de",
+      "time": "2026-10-13 01:32:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's HAMMACK says he has detected \"early warning signals\" that inflation expectations may be problematic."
+    },
+    {
+      "id": "5140000",
+      "time": "2026-10-13 01:32:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會秘書雷扎伊：我們不會再回到過去那種處理外交的方式。美國對伊朗停戰條件的回應 “並不充分”。"
+    },
+    {
+      "id": "5139999",
+      "time": "2026-10-13 01:31:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：已收到通脹預期可能出現問題的 “早期預警訊號”。"
+    },
+    {
+      "id": "mkt:01a1312b-354f-7ee0-a840-c22fcff7880e",
+      "time": "2026-10-13 01:31:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said the US response to Iran's conditions for ending the war was \"insufficient\" and that Iran will not return to its previous diplomatic approach."
+    },
+    {
+      "id": "em:qqyh_mlc:202610133893050739",
+      "time": "2026-10-13 01:28:38",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲哈瑪克表示，目前的國債利率在歷史標準下是\"適度的\"。"
+    },
+    {
+      "id": "5139997",
+      "time": "2026-10-13 01:28:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：美聯儲若把利率預測與經濟預期關聯起來，將有所助益。"
+    },
+    {
+      "id": "5139996",
+      "time": "2026-10-13 01:28:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：如果住房抵押貸款利率回落至 3%，大機率意味著經濟出現了問題。中性利率可能更高，但很難確定。"
+    },
+    {
+      "id": "mkt:01a13128-6179-7ee0-a840-b82588a90b98",
+      "time": "2026-10-13 01:28:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed official Hammack said the neutral interest rate may be higher but is difficult to determine."
+    },
+    {
+      "id": "mkt:01a13128-3d8e-7ee0-a840-b31be0b07853",
+      "time": "2026-10-13 01:28:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed governor Hammack said if mortgage rates returned to around 3%, that could signal a problem in the economy."
+    },
+    {
+      "id": "mkt:01a13128-2cd0-7ee0-a840-a90891017d7a",
+      "time": "2026-10-13 01:27:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's Hammack said current Treasury yields are 'moderate' by historical standards."
+    },
+    {
+      "id": "5139994",
+      "time": "2026-10-13 01:27:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：從歷史維度看，當前美債收益率處於適中水平。"
+    },
+    {
+      "id": "5139992",
+      "time": "2026-10-13 01:24:56",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【OPEC+ 部長在利雅得會議間隙舉行會晤】OPEC+（石油輸出國組織/歐佩克及其盟友們）在一份宣告中表示：“部長們評估了市場狀況，並同意透過定期會議機制，繼續與所有OPEC+國家進行磋商。”他們“重申保障國際海運航道、確保能源運輸不間斷具有至關重要的意義”，指出當前能源運輸中斷已推高航運和保險成本，這“正給全球經濟帶來額外的通脹壓力”。"
+    },
+    {
+      "id": "mkt:01a13125-3339-7ee0-a840-a45fc2d31489",
+      "time": "2026-10-13 01:24:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Hammack said rate projections provide useful information."
+    },
+    {
+      "id": "mkt:01a13125-15bf-7ee0-a840-9c25163620d1",
+      "time": "2026-10-13 01:24:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "OPEC+ minister said current disruptions to energy flows have pushed shipping and insurance costs to unprecedented levels."
+    },
+    {
+      "id": "mkt:01a13124-d53b-7ee0-a840-979e8d5cedb6",
+      "time": "2026-10-13 01:24:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "OPEC+ ministerial-level officials issued a statement stressing that protecting international sea lanes is essential to ensuring uninterrupted energy flows."
+    },
+    {
+      "id": "5139990",
+      "time": "2026-10-13 01:24:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：利率預測能夠提供有用資訊。"
+    },
+    {
+      "id": "mkt:01a1311b-8827-7ee0-a840-8d208b4edc8f",
+      "time": "2026-10-13 01:14:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "OPEC+ ministers held talks in Riyadh."
+    },
+    {
+      "id": "5139986",
+      "time": "2026-10-13 01:13:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝：過去 24 小時內，沙特戰機發動 119 次空襲與導彈襲擊，打擊首都薩那以及焦夫、塔伊茲、薩達、馬裡卜、拉赫季、貝達、伊卜省的民用設施。動用從海米斯穆謝特與塔伊夫空軍基地起飛的 F-15 和颱風戰機，導彈攻擊自奈季蘭與吉贊發起，造成平民傷亡，其中包含婦女與兒童。 自針對我方的衝突升級以來，沙特方面的空襲與導彈打擊累計已達 2177 次。"
+    },
+    {
+      "id": "5139983",
+      "time": "2026-10-13 01:11:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克 + 部長在利雅得會議期間舉行會晤。"
+    },
+    {
+      "id": "mkt:01a13118-b659-7ee0-a840-81377fd57faf",
+      "time": "2026-10-13 01:11:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O): Muse Wonder is now available via Meta's model API; Muse Code subscribers can access the full version of Muse Wonder."
+    },
+    {
+      "id": "5139982",
+      "time": "2026-10-13 01:09:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟對 1569 個俄羅斯軍工相關實體及個人實施制裁。"
+    },
+    {
+      "id": "mkt:01a13114-a896-7ee0-a840-7cca5d852c50",
+      "time": "2026-10-13 01:06:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) hit an intraday high, up 4.47%."
+    },
+    {
+      "id": "5139977",
+      "time": "2026-10-13 01:04:02",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "Meta執行長扎克伯格：Meta 已抵達 AI “前沿”，並拒絕放緩研發節奏的呼籲。將繼續增加投入，Meta “已經在研發下一代更強模型”。"
+    },
+    {
+      "id": "5139976",
+      "time": "2026-10-13 01:03:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格：保障模型安全的責任應由各家實驗室自行承擔。"
+    },
+    {
+      "id": "mkt:01a13111-7149-7ee0-a840-723d3e41db58",
+      "time": "2026-10-13 01:03:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's military says it is working to counter rumors aimed at undermining relations with Sudan."
+    },
+    {
+      "id": "5139975",
+      "time": "2026-10-13 01:03:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及軍方表示，將反擊旨在破壞埃蘇兩國關係的謠言。"
+    },
+    {
+      "id": "mkt:01a13111-480d-7ee0-a840-6a283bba8684",
+      "time": "2026-10-13 01:02:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Zuckerberg told the Financial Times Meta Platforms (META.O) will further increase spending as the company is \"already preparing for the next step\"."
+    },
+    {
+      "id": "5139974",
+      "time": "2026-10-13 01:02:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及軍方：正在對東撒哈拉地區的非法採金活動展開行動。此次行動旨在保護國家主權和資源。"
+    },
+    {
+      "id": "5139973",
+      "time": "2026-10-13 01:01:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta推出具備“前沿”功能的人工智慧模型Muse Wonder】Meta 釋出名為 Muse Wonder 的全新人工智慧模型，公司稱該模型較前代產品實現重大躍升。其內部代號為 “Watermelon”。據稱該模型具備 “前沿能力”，在程式碼編寫、處理金融與法律問題等領域，可對標 OpenAI 的 ChatGPT 以及 Anthropic 的 Claude 等頂尖模型。開發者可透過 Meta 模型 API 與 Muse Code 呼叫 Muse Wonder，該模型不久後將為 Meta 個人 AI 助手 Muse 的訂閱版提供底層支援。Meta AI 負責人 Alexandr Wang 週一在採訪中表示：“這是真正的前沿模型。我們堅信它能與市面上最優模型競爭，尤其在個人及專業智慧代理任務上達到頂尖水平。” 對於質疑 Meta 打造出尖端模型的聲音，Wang 稱：“我建議大家親自試用，自行評判。”"
+    },
+    {
+      "id": "mkt:01a13110-41ee-7ee0-a840-63ddbb600c11",
+      "time": "2026-10-13 01:01:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egyptian military says operation aims to protect national sovereignty and resources."
+    },
+    {
+      "id": "mkt:01a13110-2cf5-7ee0-a840-5e7dcaa633ba",
+      "time": "2026-10-13 01:01:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Egyptian military says it is conducting operations against illegal gold mining in the eastern Sahara."
+    },
+    {
+      "id": "mkt:01a13110-1141-7ee0-a840-53057f532043",
+      "time": "2026-10-13 01:01:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "According to the Financial Times, Mark Zuckerberg said Meta Platforms (META.O) has reached the AI \"frontier\" and rejected calls to slow development."
+    },
+    {
+      "id": "5139972",
+      "time": "2026-10-13 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.39%，滬銅收漲0.11%，滬鋁收跌0.40%，滬鋅收跌0.73%，滬鉛收漲0.44%，滬鎳收跌0.40%，滬錫收跌0.23%。氧化鋁夜盤收跌1.15%，鋁合金收跌0.96%。不鏽鋼夜盤收跌0.33%。"
+    },
+    {
+      "id": "mkt:01a1310d-833f-7ee0-a840-4dec5e4b9ea1",
+      "time": "2026-10-13 00:58:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemen armed forces spokesman said Saudi warplanes — F-15s and Typhoons — launched 119 air and missile strikes in the past 24 hours from Khamis Mushait and Taif air bases against civilian targets in Sana'a, al-Jawf, Taiz and other areas. He said the total number of air and missile strikes since Saudi escalation began has reached 2,177."
+    },
+    {
+      "id": "5139971",
+      "time": "2026-10-13 00:58:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格：Muse Wonder 可透過 Muse Code、Meta 模型 API 獲取。Muse Wonder 不久將接入其他產品。"
+    },
+    {
+      "id": "mkt:01a1310c-aa6e-7ee0-a840-448a28607470",
+      "time": "2026-10-13 00:57:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CEO Zuckerberg said the company will release two models today."
+    },
+    {
+      "id": "mkt:01a1310c-874c-7ee0-a840-3f60519d344c",
+      "time": "2026-10-13 00:57:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Hammack: Fed needs more tightening to restore disinflation to 2%】Cleveland Fed Chair Hammack said policy must move to restrictive levels to drive disinflation back to the 2% target, warning the current stance risks a longer-than-acceptable path and therefore requires more tightening. She left open the possibility of further rate hikes but gave no timing, and said she favors small, more frequent adjustments to help firms and households plan. Hammack flagged rising input costs and increasing pass-through to consumers; if prices are no longer constrained by demand, inf could rise or remain elevated. The biggest risk is firms and households forming higher inf expectations, and she said there are early signs of that. On US yields, she cited stronger growth expectations, market repricing of Fed policy, fiscal pressures and heavy issuance; data-center investment is boosting growth but financial conditions still need further tightening. She reiterated that Fed independence remains crucial."
+    },
+    {
+      "id": "mkt:01a1310b-d210-7ee0-a840-30875f11a8f2",
+      "time": "2026-10-13 00:57:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) CEO Mark Zuckerberg announced the launch of Muse Wonder."
+    },
+    {
+      "id": "5139970",
+      "time": "2026-10-13 00:56:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格：今日釋出 Muse Wonder 與 Muse Wonder Full 兩款模型。"
+    },
+    {
+      "id": "5139969",
+      "time": "2026-10-13 00:56:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格：Muse Wonder 屬於規模更大、能力更先進的模型系列。"
+    },
+    {
+      "id": "5139968",
+      "time": "2026-10-13 00:55:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta執行長扎克伯格：推出 Muse Wonder。"
+    },
+    {
+      "id": "5139967",
+      "time": "2026-10-13 00:53:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲78美元，報14618美元/噸。LME期鋁收漲4美元，報3052美元/噸。LME期鋅收跌48美元，報3758美元/噸。LME期鉛收跌4美元，報1884美元/噸。LME期鎳收跌3美元，報15619美元/噸。LME期錫收漲203美元，報53209美元/噸。LME期鈷收漲100美元，報39345美元/噸。"
+    },
+    {
+      "id": "mkt:01a13108-a7a1-7ee0-a840-2b6f0d1b76b4",
+      "time": "2026-10-13 00:53:33",
+      "tags": [
+        "MKT News",
+        "MC.PA",
+        "Impact bullish"
+      ],
+      "text": "LVMH CFO says the group does not believe in drastic measures such as price cuts."
+    },
+    {
+      "id": "mkt:01a13108-566d-7ee0-a840-2090a5a3da84",
+      "time": "2026-10-13 00:53:12",
+      "tags": [
+        "MKT News",
+        "S&P500"
+      ],
+      "text": "S&P Dow Jones Indices will partner with HKEX to launch the S&P 500 and HKEX Tech 100 indexes."
+    },
+    {
+      "id": "5139966",
+      "time": "2026-10-13 00:53:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海洋礦產管理局（MMA）：已從總計 5 座生產平臺撤離人員，佔墨西哥灣 371 座有人值守平臺的 1.35%。 墨西哥灣當前約 29.63% 的原油日產量以及 24.81% 的天然氣日產量已關停。已撤離 1 座非動力定位鑽井平臺人員，佔墨西哥灣當前在役的 11 座該型別鑽井平臺的 9.09%。"
+    },
+    {
+      "id": "mkt:01a13107-dd83-7ee0-a840-1e2c4d370cbb",
+      "time": "2026-10-13 00:52:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Marine Minerals Administration (MMA) said it evacuated personnel from one non-dynamically positioned drilling rig, representing 9.09% of the 11 non-DP rigs currently operating in the Gulf of Mexico."
+    },
+    {
+      "id": "mkt:01a13107-a957-7ee0-a840-16b5fde8b85e",
+      "time": "2026-10-13 00:52:27",
+      "tags": [
+        "MKT News",
+        "WTI"
+      ],
+      "text": "U.S. Marine Minerals Management Agency (MMA) said it evacuated personnel from five production platforms, equivalent to 1.35% of the 371 manned platforms in the U.S. Gulf of Mexico."
+    },
+    {
+      "id": "5139965",
+      "time": "2026-10-13 00:52:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普道瓊斯指數公司：推出標普 500 港交所科技 100 指數，該指數由公司與香港交易及結算所有限公司合作編制。"
+    },
+    {
+      "id": "5139964",
+      "time": "2026-10-13 00:51:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：當前趨勢通脹處於 2% 中高位區間，即便實施恰當的貨幣政策，預計仍需一段時間才能回落至 2% 目標。 政策反應機制不等於有約束力的前瞻性指引。"
+    },
+    {
+      "id": "5139963",
+      "time": "2026-10-13 00:51:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：不要想當然認為通脹預期已經穩定。企業計劃提價幅度超過投入成本漲幅，就是 “通脹思維” 正在固化的訊號。穩定的勞動力市場為應對通脹留出了空間。能源並非唯一因素，強勁需求也在推動價格壓力。"
+    },
+    {
+      "id": "mkt:01a13106-94cc-7ee0-a840-0c03f2df4759",
+      "time": "2026-10-13 00:51:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve official Hammack said the Fed's reaction function is not the same as commitment-style forward guidance."
+    },
+    {
+      "id": "5139962",
+      "time": "2026-10-13 00:51:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報60.44美元/盎司。"
+    },
+    {
+      "id": "mkt:01a13106-7c66-7ee0-a840-01b88e0695f4",
+      "time": "2026-10-13 00:51:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's HAMMACK said if the public understands the Fed's direction it can limit market volatility and avoid errors."
+    },
+    {
+      "id": "5139961",
+      "time": "2026-10-13 00:51:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報60.16美元/盎司。"
+    },
+    {
+      "id": "5139960",
+      "time": "2026-10-13 00:50:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：清晰闡明政策反應機制十分重要，這樣企業和家庭才能有效制定規劃。美聯儲官員有責任解釋他們的決策。"
+    },
+    {
+      "id": "mkt:01a13106-35a2-7ee0-a83f-fd8608478dba",
+      "time": "2026-10-13 00:50:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack said a clear reaction function is essential for firms and households to plan effectively."
+    },
+    {
+      "id": "mkt:01a13106-19e9-7ee0-a83f-f4f195666be4",
+      "time": "2026-10-13 00:50:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Hammack said Federal Reserve officials have a responsibility to explain their decisions."
+    },
+    {
+      "id": "mkt:01a13106-0bd6-7ee0-a83f-ed4a20868236",
+      "time": "2026-10-13 00:50:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's HAMMACK warned not to assume inflation expectations are anchored; firms plan to raise prices beyond raw-material cost increases, indicating an 'inflation mindset' is forming."
+    },
+    {
+      "id": "5139959",
+      "time": "2026-10-13 00:50:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：如果公眾理解美聯儲的政策方向，將有助於抑制市場波動、避免誤判。"
+    },
+    {
+      "id": "mkt:01a13105-e26e-7ee0-a83f-e5ff7c76b8b9",
+      "time": "2026-10-13 00:50:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "HAMMACK (Federal Reserve) said a stable labor market has left room to address inf."
+    },
+    {
+      "id": "mkt:01a13105-d0f7-7ee0-a83f-dff536b62769",
+      "time": "2026-10-13 00:50:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Hammack said energy is not the only factor; strong demand is also driving price pressures."
+    },
+    {
+      "id": "mkt:01a13105-0fae-7ee0-a83f-d7180d378549",
+      "time": "2026-10-13 00:49:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Hammack said he remains open on appropriate timing."
+    },
+    {
+      "id": "5139958",
+      "time": "2026-10-13 00:49:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國內政大臣馬哈茂德：在前大臣遇害事件後，宣佈擴大對非議員政治人士的警務安保支援。宣佈對知名人士安保安排展開審查。"
+    },
+    {
+      "id": "mkt:01a13104-ce04-7ee0-a83f-cfe1bd4183fa",
+      "time": "2026-10-13 00:49:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Hammack says the biggest risk is an inflation mindset."
+    },
+    {
+      "id": "mkt:01a13103-76cc-7ee0-a83f-c24040d09e7c",
+      "time": "2026-10-13 00:47:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Hammack said firms are passing higher input costs through to consumers."
+    },
+    {
+      "id": "mkt:01a13103-6117-7ee0-a83f-b9d4058f6eb8",
+      "time": "2026-10-13 00:47:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's HAMMACK said the risk of high inflation becoming entrenched is rising."
+    },
+    {
+      "id": "5139956",
+      "time": "2026-10-13 00:46:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲哈瑪克呼籲繼續加息，通脹風險持續存在】克利夫蘭聯儲主席哈瑪克表示，美國利率需要進一步上行，以將通脹拉回美聯儲 2% 的目標。哈瑪克在接受《巴倫週刊》採訪時警示，儘管債券收益率走高，但當前貨幣政策的緊縮力度仍不足。 她傾向於幅度更小、頻次更高的加息，但對下次加息時點持開放態度。 “經濟需要進一步收緊。”哈瑪克同時警告，若通脹長期持續，可能固化在消費者與企業的預期之中，令美聯儲恢復物價穩定的難度加大。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610133893045895",
+      "time": "2026-10-13 00:44:19",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲哈瑪克：利率需要進一步上調】美聯儲哈瑪克表示，利率需要進一步上調；傾向於幅度更小、頻率更高的加息；當前政策的限制性還不夠；通脹迴歸速度過慢，高通脹風險仍在上升。"
+    },
+    {
+      "id": "5139954",
+      "time": "2026-10-13 00:43:47",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：利率需要進一步上調。"
+    },
+    {
+      "id": "te:markets:591233",
+      "time": "2026-10-13 00:41:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Rises to One-Month High — Lumber futures rose to $540 per thousand board feet, their highest level in nearly a month, as Hurricane Isaias threatened supplies across key producing regions. The storm swept through the US Gulf Coast, causing major power outages in Alabama and Mississippi, both significant lumber-producing states, raising concerns over supply disruptions and pressuring prices. Lumber supplies were already constrained by escalating trade tensions between the US and Canada. Ottawa had announced counter-tariffs of 25% on US lumber and 50% on plywood in response to US tariffs on several lumber-related products. US forestry groups have long accused Canada of distorting the market, arguing that the largely public owned Canadian forestland gives domestic producers a cost advantage. However, gains remain tempered by weakness in the US housing market. Mortgage rates have climbed to 7.4%, their highest in nearly three years, raising borrowing costs for homebuyers and weighing on housing demand."
+    },
+    {
+      "id": "5139951",
+      "time": "2026-10-13 00:37:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭內政部長：兩名土耳其公民因星鏈地面站起火案在德國被捕。"
+    },
+    {
+      "id": "5139949",
+      "time": "2026-10-13 00:35:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列北部爆炸1死24傷】以色列北部靠近黎巴嫩邊境的拉明嶺地區發生爆炸事件。以色列軍方與警方初步聯合通報稱，導致多名遠足學生及教師死傷的爆炸物“極有可能是黎巴嫩真主黨火箭彈散落的‘子炸彈’”。以色列警方稱，這枚彈藥被一名學生放入包裡，併發生爆炸，目前已造成1人死亡、24人受傷。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5139946",
+      "time": "2026-10-13 00:33:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源公司：維持 2026 年 3 月推出的價格上限政策，該政策保障消費者柴油最高售價為每升 2.25 歐元，有效期延續至 2027 年 1 月之後。"
+    },
+    {
+      "id": "5139945",
+      "time": "2026-10-13 00:33:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源公司：家用取暖油每立方米優惠 200 歐元。該政策將於 2026 年 11 月 1 日至 2027 年 1 月 31 日實施。柴油每升讓利約 10 歐分，在加油站直接兌現。面向農戶、漁民及公共工程承包商的非道路用柴油每升優惠 20 歐分。"
+    },
+    {
+      "id": "5139944",
+      "time": "2026-10-13 00:32:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源公司：道達爾能源承諾將釋放戰略柴油儲備所產生的收益惠及法國民眾。"
+    },
+    {
+      "id": "5139943",
+      "time": "2026-10-13 00:31:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國墨西哥灣原油關停產量 604503 桶 / 日，佔總產量 30%。"
+    },
+    {
+      "id": "5139942",
+      "time": "2026-10-13 00:28:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際移民組織：葉門流離失所人數超21.7萬】國際移民組織10月12日表示，自9月初葉門西海岸衝突升級以來，截至10月12日，該機構已記錄了217303名流離失所者，其中超過一半（55%）在塔伊茲省。（央視新聞）"
+    },
+    {
+      "id": "5139941",
+      "time": "2026-10-13 00:26:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊通社（IRNA）：伊朗駐英國大使表示，德黑蘭願意與英國合作調查該事件。"
+    },
+    {
+      "id": "5139938",
+      "time": "2026-10-13 00:24:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "路威酩軒CFO：路易威登第三季度物流問題，拖累品牌有機增長超 1 個百分點。"
+    },
+    {
+      "id": "5139937",
+      "time": "2026-10-13 00:23:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "路威酩軒CFO：外匯因素在下半年仍將是不利拖累。"
+    },
+    {
+      "id": "5139936",
+      "time": "2026-10-13 00:22:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿布扎比國家石油公司物流業務正洽談收購 HEA 股權，標的估值 30 億美元。"
+    },
+    {
+      "id": "5139935",
+      "time": "2026-10-13 00:22:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊通社（IRNA）：伊朗駐英大使駁斥英國關於費爾福德基地的指控。"
+    },
+    {
+      "id": "5139933",
+      "time": "2026-10-13 00:20:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國首相：考慮對沙特提供進一步支援】英國首相伯納姆12日表示，英國將對沙烏地阿拉伯提出的任何進一步支援請求予以考慮。伯納姆當天在議會表示，英國將根據沙特提出請求的具體情況，考慮提供進一步支援。沙烏地阿拉伯近期遭到葉門胡塞武裝襲擊，該國已請求法國、英國、巴基斯坦和埃及向該地區支援防空系統。英國早前已同意沙特提出的請求，在有限時期內提供防禦性空中加油支援，以協助沙特應對相關安全威脅。（央視新聞）"
+    },
+    {
+      "id": "5139932",
+      "time": "2026-10-13 00:19:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：格陵蘭多數議員在週一的辯論中表態支援這座北極島嶼與美國總統唐納德・特朗普達成的最新安全協議，但部分反對黨成員對該協議的經濟價值提出質疑。"
+    },
+    {
+      "id": "5139930",
+      "time": "2026-10-13 00:17:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "路威酩軒CFO：路易威登第三季度的業績和整體平均水平差距不大。"
+    },
+    {
+      "id": "5139929",
+      "time": "2026-10-13 00:14:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和伊拉克外長通話討論葉門問題。"
+    },
+    {
+      "id": "5139928",
+      "time": "2026-10-13 00:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "路威酩軒CFO：中東局勢仍構成不利因素，自救舉措為首要任務。"
+    },
+    {
+      "id": "5139927",
+      "time": "2026-10-13 00:13:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國威脅切斷對烏武器供應 俄烏局勢或出現重大轉折】有歐洲官員近日表示，美國正威脅停止向烏克蘭提供武器供應的機制，以此向烏克蘭方面施壓，要求其停止對俄能源基礎設施的縱深打擊。剛剛過去的這個週末，部分歐洲官員接到美國方面打來的電話，美國遊說歐洲相關國家並向烏克蘭方面施壓，試圖結束烏克蘭對俄羅斯煉油廠的襲擊。美方傳達的資訊包括，威脅停止情報共享，以及切斷“烏克蘭優先需求清單”機制。該機制由部分北約歐洲成員國出資，向美國購買武器援助烏克蘭，美國並不向這一機制出資。不過，針對以上訊息，白宮方面拒絕發表評論。（央視新聞）"
+    },
+    {
+      "id": "te:markets:591231",
+      "time": "2026-10-13 00:12:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.58% Higher — The FTSE MIB Index rose 289 points or 0.58 percent on Monday to close at 50035 points. Leading the gains are Davide Campari-Milano (2.99%), Avio (2.75%) and Infrastrutture Wire (2.56%). Top losers were STMicroelectronics (-2.17%), Unipol Gruppo (-1.65%) and Amplifon (-1.63%)."
+    },
+    {
+      "id": "te:markets:591230",
+      "time": "2026-10-13 00:11:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "EU Gas Hits Near 4-year High — EU Gas increased to 84.52 EUR/MWh, the highest since December 2022. Over the past 4 weeks, Natural Gas EU gained 2.19%, and in the last 12 months, it increased 168.06%."
+    },
+    {
+      "id": "te:markets:591229",
+      "time": "2026-10-13 00:11:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Extends Gains — The FTSE MIB closed 0.6% higher at 50,035 on Monday, extending gains from the prior session amid gains across sectors. Financials moved mostly higher ahead of further news on Milan's banking game. MPS gained 1.4% ahead of an extraordinary board meeting to review the relaunch of Intesa’s takeover bid last week. BPER (2.2%), Mediobanca (1.3%), Intesa (1.1%) and Generali (1.1%) also gained, while Unicredit traded near the flat line. Inwit climbed 1.8% following reports that its largest shareholders were arranging financing for a potential take-private deal. Luxury stocks also moved higher, with Campari leading the index at 3%. On the downside, Stellantis fell 0.8% as its CEO rejected the idea of separating the group’s European and US brands. The automaker is reviewing its strategy to better allocate spending across its brands, while its shares are down nearly 60% so far this year. Technology stocks underperformed, led by Technoprobe (-2.5%), and STMicroelectronics (-2.1%)."
+    },
+    {
+      "id": "te:markets:591228",
+      "time": "2026-10-13 00:11:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.76% Higher — The DAX Index gained 190 points or 0.76 percent on Monday to close at 25278 points. Gains were led by Rheinmetall (2.88%), RWE (2.17%) and Zalando (1.68%). Biggest losers were Infineon (-2.55%), Daimler Truck Holding AG (-0.85%) and Mercedes-Benz AG (-0.82%)."
+    },
+    {
+      "id": "te:markets:591227",
+      "time": "2026-10-13 00:10:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.24% Higher — The CAC 40 Index went up by 19 points or 0.24 percent on Monday to close at 7822 points. The rise was led by Hermes International (2.32%), Dassault Systemes (1.93%) and Publicis (1.91%). On the downside, the weakerst performers were STMicroelectronics (-2.37%), Stellantis NV (-1.31%) and Orange (-1.01%)."
+    },
+    {
+      "id": "te:markets:591226",
+      "time": "2026-10-13 00:09:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Higher — European stocks closed higher for a second session on Monday, tracking the positive momentum for most sectors in US equity markets on upbeat earnings projections. The Euro STOXX 50 added 0.4% to 6,169 and the STOXX Europe 600 gained 0.6% to 635. Sell-side firms signaled that global earnings growth is expected to remain robust ahead of the incoming results-sharing season, supporting most sectors despite the elevated yields backdrop. LVMH added 1.2% before releasing its third-quarter revenues, while Hermes rose over 2% to consolidate a strong session for luxury brands. Meanwhile, banks enjoyed some respite with Santander, BBVA, and ING adding close to 2%. On the other hand, ASML fell 1.5% amid a broad pullback for companies in AI infrastructure. The Eurozone's largest economy is due to report results this week."
+    },
+    {
+      "id": "te:markets:591225",
+      "time": "2026-10-13 00:08:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Starts Week Higher — The FTSE 100 climbed 1% on Monday, following a 1.1% rise in the previous session, with banking stocks providing the strongest support. Lloyds Banking Group rose more than 2%, while HSBC gained nearly 2%, followed by Standard Chartered at 1.8%, Barclays at 1.5% and NatWest at 1.4%. HSBC also attracted attention after reports that it plans to place greater emphasis on performance-related bonuses rather than fixed salaries. Oil-related shares advanced as crude prices strengthened amid renewed geopolitical uncertainty. Shell gained 1% as concerns over attacks in Ukraine and Saudi Arabia raised questions about regional energy security. Unilever also added more than 1%, contributing to the broader market’s gains. However, Informa fell more than 1% ahead of its Global Health Exhibition in Riyadh later this month. The decline followed Houthi attacks on Saudi Arabia’s main airport over the weekend and new UK travel warnings for parts of the country."
+    },
+    {
+      "id": "5139925",
+      "time": "2026-10-13 00:08:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌雲：宣佈推出預覽版 Looker 資料應用，這是具備原生治理與安全能力的 AI 生成式應用。"
+    },
+    {
+      "id": "5139924",
+      "time": "2026-10-13 00:07:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：這是談判小組在美國會談後，並結合與美國總統團隊日常溝通形成的報告。烏克蘭願意拿出切實方案與緩和局勢舉措，推動衝突走向終結。烏克蘭支援能源停火。我方立場十分明確：如美國總統所宣佈，烏克蘭願意承諾落實能源停火，但俄羅斯必須採取相應行動。"
+    },
+    {
+      "id": "te:markets:591224",
+      "time": "2026-10-13 00:07:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.88% Higher — The FTSE 100 Index rose 93 points or 0.88 percent on Monday to close at 10645 points. Leading the gains are Convatec Group (4.64%), Lion Finance Group (2.91%) and Burberry (2.20%). Top losers were Vodafone (-1.54%), Informa (-1.46%) and Polar Capital Holdings (-1.33%)."
+    },
+    {
+      "id": "5139923",
+      "time": "2026-10-13 00:04:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華碩釋出搭載NVIDIA Vera CPU的XA P2N-E2，面向智慧體AI工作負載】華碩推出XA P2N-E2，進一步擴充套件其人工智慧（AI）基礎設施產品組合。這是一款基於英偉達NVIDIA MGX架構的2U伺服器，搭載NVIDIA Vera CPU，專為智慧體AI和強化學習工作負載設計。該產品在OCP全球峰會2026上首次亮相，面向AI應用的執行層，處理程式碼執行、工具呼叫、沙箱隔離、資料處理和編排等超出AI模型本身的工作負載。XA P2N-E2最多支援兩顆雙槽位NVIDIA RTX PRO 6000 Blackwell Server Edition GPU，在緊湊的2U平臺中將高效能CPU計算與靈活的GPU加速相結合。其高單執行緒CPU效能和高頻寬、高能效記憶體設計，旨在確保AI智慧體在繁重的執行和評估任務中保持響應能力。"
+    },
+    {
+      "id": "5139922",
+      "time": "2026-10-13 00:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "路威酩軒：第三季度美國地區營收增長 5%，不含日本的亞洲地區營收下降 5%。"
+    },
+    {
+      "id": "5139921",
+      "time": "2026-10-13 00:03:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英國召見伊朗駐英大使並制裁兩名伊朗籍人士】英國外交大臣米利班德表示，英國已就伊朗持續開展的所謂“惡意活動”正式召見伊朗駐英國大使阿里·穆薩維，提出嚴正交涉。英國政府當天還宣佈，對兩名伊朗籍人士實施制裁，包括立即凍結資產、禁止入境英國及取消擔任公司董事的資格。兩人分別為伊朗伊斯蘭革命衛隊反間諜行動負責人魯霍拉·巴茲甘迪，以及涉嫌協助津達什蒂犯罪網路的沙赫拉姆·阿里·禮薩·塔馬爾扎德·賈基。英方稱，該犯罪網路涉及多起針對伊朗異見人士的陰謀。（央視新聞）"
+    },
+    {
+      "id": "te:markets:591222",
+      "time": "2026-10-13 00:02:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Closes Higher — Frankfurt’s DAX 40 closed 0.8% higher at 25,268 on Monday, extending gains from the previous session amid broad-based advances across sectors. Automakers rose after European manufacturers backed a plan to cap imports of Chinese hybrid vehicles, which have posed increasing competition for the industry. BMW gained 1.8%, while Mercedes-Benz advanced 0.6%. Volkswagen rose 0.7% after reporting a 14.3% decline in global deliveries in the third quarter, its sharpest drop in more than four years. Defense Rheinmetall climbed 3.2%. Utilities RWE (3.5%) and E.ON (0.7%) also advanced after Chancellor Friedrich Merz backed using any available budgetary leeway to reduce electricity taxes. Financial stocks moved higher as Deutsche Bank advanced 2.1% amid progress toward a possible settlement related to Malaysia’s 1MDB financial scandal. Commerzbank added 0.6%. Tech and industrial shares also advanced, led by Siemens (4.4%) and Siemens Energy (3%)."
+    }
+  ]
+}
