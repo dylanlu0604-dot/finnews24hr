@@ -1,7 +1,104 @@
 {
-  "updated": "2026-10-13 02:27:49",
-  "count": 10818,
+  "updated": "2026-10-13 02:31:35",
+  "count": 10820,
   "items": [
+    {
+      "id": "5140049",
+      "time": "2026-10-13 02:31:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：歐佩克 + 已討論運輸成本問題，運輸成本已大幅上漲。"
+    },
+    {
+      "id": "mkt:01a13161-bc36-7ee0-a841-e216d728cce7",
+      "time": "2026-10-13 02:30:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.49% at 900.45 yuan/gram in the Oct 12 (Mon) evening session; silver T+D closed down 1.15% at 14,652.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a13161-a33c-7ee0-a841-deaf4529dd7e",
+      "time": "2026-10-13 02:30:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude oil futures settled at $93.74 per barrel, up $1.89 or 2.06%."
+    },
+    {
+      "id": "te:markets:591240",
+      "time": "2026-10-13 02:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 3.79% — Top crypto losers are XRP (-3.79%), Bitcoin (-1.52%), Binance (-1.34%) and Ether (-0.98%)."
+    },
+    {
+      "id": "5140048",
+      "time": "2026-10-13 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲3.48%，報734.20元人民幣/桶。滬金夜盤收跌0.58%，滬銀收跌1.10%。"
+    },
+    {
+      "id": "mkt:01a13160-5699-7ee0-a841-d4ddc169e54b",
+      "time": "2026-10-13 02:29:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian Deputy Prime Minister Novak said Russia has supplied $21.3 billion worth of energy to the EU so far this year."
+    },
+    {
+      "id": "5140047",
+      "time": "2026-10-13 02:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：俄羅斯今年已向歐盟供應價值 213 億美元的能源。"
+    },
+    {
+      "id": "mkt:01a1315f-a9a3-7ee0-a841-ce38299ad2ee",
+      "time": "2026-10-13 02:28:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Deputy Prime Minister Novak said Russia's diesel exports could reach 3.0-3.5 mln tonnes by year-end."
+    },
+    {
+      "id": "5140046",
+      "time": "2026-10-13 02:27:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：到年底俄羅斯柴油出口量或將達到 300 萬至 350 萬噸。"
+    },
+    {
+      "id": "5140045",
+      "time": "2026-10-13 02:27:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國9月二手房簽約量創近十二年最低 房貸利率飆升重挫購房需求】隨著房貸利率重返7%以上，美國房地產市場進一步降溫。上月賣家紛紛降價，為數不多的買家則掌握了更多議價權。房地產經紀公司Redfin經季節性調整的資料顯示，9月二手房簽約量環比大跌4%至2014年以來最低水平，降幅創逾三年來最大（2020年新冠疫情初期的幾個月除外）。與此同時，待售房屋供應量升至2020年3月以來最高水平。Redfin首席經濟學家Daryl Fairweather表示：“房地產行業的人氣明顯轉變。利率像這樣上升時，能夠負擔得起買房的人會減少，這意味著銷量必然下降。”房地美資料顯示，30年期房貸平均利率從8月底的6.66%躍升至10月8日的7.4%，創近三年來最高水平，並較上年同期高出逾1個百分點。"
+    },
     {
       "id": "5140044",
       "time": "2026-10-13 02:27:16",
@@ -98155,78 +98252,6 @@
         "焦點"
       ],
       "text": "WTI原油失守89美元/桶，日內跌2.33%。"
-    },
-    {
-      "id": "5126540",
-      "time": "2026-10-06 02:31:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【必和必拓就全球最大銅礦薪資談判請求調解】必和必拓集團（BHP Group）已請求智利勞工主管部門就其埃斯孔迪達（Escondida）銅礦主管及員工的薪資談判啟動調解程式，為雙方爭取更多時間以避免罷工。必和必拓週一在一份宣告中表示，一旦調解日期確認，雙方將有五個工作日繼續談判。"
-    },
-    {
-      "id": "5126539",
-      "time": "2026-10-06 02:31:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約商品交易所 11 月天然氣期貨結算價為 3.0660 美元 / 百萬英熱單位。"
-    },
-    {
-      "id": "te:markets:589652",
-      "time": "2026-10-06 02:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Drops by 1.27% — Top crypto losers are XRP (-1.27%), Solana (-1.18%), Bitcoin (-1.04%) and Ether (-0.61%)."
-    },
-    {
-      "id": "5126538",
-      "time": "2026-10-06 02:29:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "維基百科運營方：OpenAI 的失控智慧體可能與 5 月發生的資料服務中斷存在關聯。"
-    },
-    {
-      "id": "5126537",
-      "time": "2026-10-06 02:29:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報100.19美元/桶。"
-    },
-    {
-      "id": "5126536",
-      "time": "2026-10-06 02:28:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特： “經濟棄兒行動” 正在取得成效，里亞爾匯率跌至歷史低點，伊朗上月沒有向油輪裝載任何原油，伊朗最高安全官員也承認該國正經歷歷史上最艱難的時期之一。伊朗政權任由本國人民承受苦難，卻將資源投入恐怖活動。“經濟棄兒行動” 不會停止，直至伊朗政權明白，特朗普政府絕不會允許該政權資助恐怖主義以及研發核武器。"
-    },
-    {
-      "id": "mkt:01a10d53-3a41-7ee0-a7a8-df4362681e28",
-      "time": "2026-10-06 02:28:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Wikimedia Foundation said OpenAI's \"out-of-control\" agent may be linked to a May data service outage."
-    },
-    {
-      "id": "mkt:01a10d52-9309-7ee0-a7a8-d5bf255cca1c",
-      "time": "2026-10-06 02:27:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Iran did not load any crude oil onto tankers last month."
     }
   ]
 }
