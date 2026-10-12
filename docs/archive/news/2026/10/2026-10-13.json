@@ -1,7 +1,20 @@
 {
   "date": "2026-10-13",
-  "count": 183,
+  "count": 184,
   "items": [
+    {
+      "id": "mkt:01a1316b-a1be-7ee0-a842-03ff776d7f79",
+      "time": "2026-10-13 02:41:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) Chief AI Officer Wang said the company is fixing a bug that caused Muse Wonder and Muse Wonder Full usage to be charged against Muse Code subscription limits. He said this was unintended and that Meta will notify users when the fix is deployed and reset affected usage quotas."
+    },
     {
       "id": "mkt:01a13168-fac8-7ee0-a841-fe69e9a07de8",
       "time": "2026-10-13 02:38:45",

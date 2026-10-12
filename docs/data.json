@@ -1,7 +1,20 @@
 {
-  "updated": "2026-10-13 02:39:08",
-  "count": 10825,
+  "updated": "2026-10-13 02:42:56",
+  "count": 10821,
   "items": [
+    {
+      "id": "mkt:01a1316b-a1be-7ee0-a842-03ff776d7f79",
+      "time": "2026-10-13 02:41:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) Chief AI Officer Wang said the company is fixing a bug that caused Muse Wonder and Muse Wonder Full usage to be charged against Muse Code subscription limits. He said this was unintended and that Meta will notify users when the fix is deployed and reset affected usage quotas."
+    },
     {
       "id": "mkt:01a13168-fac8-7ee0-a841-fe69e9a07de8",
       "time": "2026-10-13 02:38:45",
@@ -98253,53 +98266,6 @@
         "Impact bearish"
       ],
       "text": "U.S. crude futures settled at $89.43 per barrel, down $1.68, or 1.84%."
-    },
-    {
-      "id": "mkt:01a10d60-3d26-7ee0-a7a8-e30952a733cf",
-      "time": "2026-10-06 02:42:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "AAL.O",
-        "Impact bullish"
-      ],
-      "text": "A memorandum shows the Trump administration closed a 2024 privacy probe into American Airlines Group (AAL.O) and sought no penalties."
-    },
-    {
-      "id": "5126544",
-      "time": "2026-10-06 02:42:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據一份備忘錄，特朗普政府結束 2024 年針對美國航空公司開展的隱私調查，未尋求任何處罰。"
-    },
-    {
-      "id": "5126543",
-      "time": "2026-10-06 02:42:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守100美元/桶，日內跌2.20%。"
-    },
-    {
-      "id": "5126542",
-      "time": "2026-10-06 02:42:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX 提議修建 32 英里天然氣管道，用於星艦專案】SpaceX 正尋求批准，在佛羅里達州修建一條 32.4 英里長的天然氣管道，為卡納維拉爾角的星艦發射提供甲烷燃料。該管道將接入佛羅里達天然氣輸送管網，隨著 SpaceX 擴大發射業務，以此替代依靠卡車運輸液化天然氣的模式，實現持續供氣。該公司仍需配套基礎設施，將天然氣液化為火箭燃料。"
-    },
-    {
-      "id": "5126541",
-      "time": "2026-10-06 02:42:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守89美元/桶，日內跌2.33%。"
     }
   ]
 }
