@@ -1,7 +1,67 @@
 {
   "date": "2026-10-13",
-  "count": 191,
+  "count": 197,
   "items": [
+    {
+      "id": "mkt:01a1317d-47a9-7ee0-a842-3f7b6c0e881a",
+      "time": "2026-10-13 03:00:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The U.S. State Department said Rubio and U.K. foreign secretary Miliband discussed continuing cooperation to safeguard U.S. assets in the U.K."
+    },
+    {
+      "id": "5140057",
+      "time": "2026-10-13 03:00:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：魯比奧與英國米利班德討論持續協作，以保障美國在英資產安全。"
+    },
+    {
+      "id": "5140056",
+      "time": "2026-10-13 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.09%，報24224.22點，低水46.98點。"
+    },
+    {
+      "id": "mkt:01a1317c-72fb-7ee0-a842-333104fd245a",
+      "time": "2026-10-13 03:00:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures' night session closed down 0.08% at 24,227, trading 43 points below the cash index."
+    },
+    {
+      "id": "mkt:01a1317b-ef58-7ee0-a842-29aa19a5461a",
+      "time": "2026-10-13 02:59:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Saudi-led coalition says it intercepted Houthi ballistic missile fired at Riyadh】Saudi-led coalition spokesman Turki al-Maliki said on the evening of the 12th the coalition intercepted and destroyed a ballistic missile launched by Yemen’s Houthi movement toward Riyadh."
+    },
+    {
+      "id": "5140055",
+      "time": "2026-10-13 02:59:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：魯比奧今日與英國外交大臣埃德・米利班德通話。"
+    },
     {
       "id": "5140054",
       "time": "2026-10-13 02:55:43",
