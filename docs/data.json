@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-12 10:09:18",
-  "count": 10574,
+  "updated": "2026-10-12 10:13:02",
+  "count": 10579,
   "items": [
+    {
+      "id": "5138356",
+      "time": "2026-10-12 10:12:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富信科技：TEC相關業務後續盈利貢獻取決於市場供求關係變化】富信科技在10月12日召開的2026年半年度業績說明會上表示，公司應用於通訊領域的Micro TEC的毛利率高於原有消費電子TEC；公司TEC相關業務後續訂單規模及盈利貢獻取決於市場供求關係變化，存在不確定性。"
+    },
+    {
+      "id": "5138355",
+      "time": "2026-10-12 10:11:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "創業板指跌1.5%，跌至3000點下方。"
+    },
+    {
+      "id": "5138354",
+      "time": "2026-10-12 10:11:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤化工板塊震盪走弱，金牛化工跌停】煤化工板塊震盪走弱，金牛化工跌停，赤天化、金煤科技、黑貓股份、瀘天化、潞化科技、陝西黑貓等跟跌。"
+    },
+    {
+      "id": "5138353",
+      "time": "2026-10-12 10:09:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【文化傳媒板塊再度拉昇，果麥文化20cm漲停】文化傳媒板塊再度拉昇，果麥文化20cm漲停，廣電網路、龍版傳媒、新經典、新華傳媒此前封板。"
+    },
+    {
+      "id": "5138352",
+      "time": "2026-10-12 10:09:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST美芝成立智慧科技公司 含AI相關業務】企查查APP顯示，近日，美芝未來（深圳）智慧科技有限公司成立，經營範圍包含人工智慧公共資料平臺；人工智慧雙創服務平臺；人工智慧基礎資源與技術平臺；人工智慧公共服務平臺技術諮詢服務；智慧無人飛行器製造等。企查查股權穿透顯示，該公司由*ST美芝全資持股。"
+    },
+    {
+      "id": "te:markets:591025",
+      "time": "2026-10-12 10:09:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies as Inflation Data Eyed — The dollar index held above 102 on Monday following four consecutive weeks of gains, as investors cautiously awaited key inflation reports due this week for fresh signals on the Federal Reserve’s next policy move. The September consumer and producer price indexes are scheduled for release on Wednesday and Thursday, respectively. A stronger-than-expected inflation reading could reignite the recent bond selloff by increasing pressure on the Fed to pursue a more aggressive tightening path. Markets are currently pricing in an approximately 83% chance that the Fed will leave interest rates unchanged this month, while the probability of a rate hike in December stands at around 86%. Meanwhile, oil prices declined on hopes that Russian diesel can ease global fuel shortages, reducing inflationary risks. President Trump said Moscow agreed to release diesel fuel to global markets, while claiming that Russia and Ukraine had agreed to an “energy ceasefire” that would take effect immediately."
+    },
+    {
+      "id": "mkt:01a12dde-f8c1-7ee0-a82f-2e669b1e8f50",
+      "time": "2026-10-12 10:09:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Musk warns against 'torturing superintelligence' after reviewing Grok traces】Musk said he agrees with parts of ANTHROPIC's views and, after reading internal reasoning traces produced by Grok during reinforcement learning, warned against \"torturing superintelligence (SI).\" He said \"this feels like a person under extreme stress with a gun to their head.\""
+    },
     {
       "id": "5138351",
       "time": "2026-10-12 10:08:48",
@@ -96242,27 +96305,6 @@
         "公司"
       ],
       "text": "【一汽豐田釋出針對“大降價”等有關不實言論的宣告】10月5日，一汽豐田官方微博釋出針對近期網路上出現的有關一汽豐田不實言論的宣告： 近期，中國第一汽車集團有限公司與廣州汽車工業集團有限公司簽署戰略合作框架協議，引發行業及消費者廣泛關注。 一汽豐田深耕國內市場23年，擁有成熟的產品矩陣、完備的產銷售後體系和千萬使用者保有規模。目前全系車型產銷、迭代規劃均按計劃有序推進，後續將依託集團合作的更大資源優勢，持續創新，回饋廣大使用者信任。 針對部分網路賬號散佈的“一汽豐田或將徹底退出歷史舞臺”“豐田大降價”等不實言論，我司保留法律追責權利。"
-    },
-    {
-      "id": "te:markets:589353",
-      "time": "2026-10-05 10:12:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Holds Near 18-Month High — The dollar index held firm around 102 on Monday, staying close to its highest level since April 2025 even as traders scaled back expectations for an imminent Federal Reserve rate hike following weaker-than-expected US jobs data. The greenback also continued to benefit from weakness in the euro, amid rising fiscal debt and ongoing political gridlock in France. Meanwhile, data released Friday showed the US economy added just 29,000 jobs in September, well below expectations of 90,000, following a downwardly revised gain of 133,000 in August. The unemployment rate climbed to 4.2%, while annual wage growth unexpectedly slowed to 3.0%, its weakest pace since May 2021. Markets are now pricing in nearly an 80% chance that the Fed will keep policy unchanged this month, while expectations for a December hike remained around 69%."
-    },
-    {
-      "id": "5125556",
-      "time": "2026-10-05 10:09:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股指上漲1%，至5,685.87點。"
     }
   ]
 }
