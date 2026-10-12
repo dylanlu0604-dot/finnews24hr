@@ -1,7 +1,107 @@
 {
-  "updated": "2026-10-12 10:05:31",
-  "count": 10570,
+  "updated": "2026-10-12 10:09:18",
+  "count": 10574,
   "items": [
+    {
+      "id": "5138351",
+      "time": "2026-10-12 10:08:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【摯達科技盤中漲超5%，獲沙特品牌獨家供應】10月12日，摯達科技（02650.HK）盤中漲超5%，截至10時4分，漲5.36%，報6.68港元/股，成交額4576.81萬港元。"
+    },
+    {
+      "id": "5138350",
+      "time": "2026-10-12 10:08:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國現券債市週一休市 美股及美債期貨正常交易】美國證券業與金融市場協會（SIFMA）的休市安排顯示，美國現券債券市場將於週一（10月12日）休市。10月12日是美國哥倫布日，為美國聯邦法定假日之一，但各地放假安排並不完全一致。對於金融市場而言，屆時，美國股市將正常開市，CME的美國國債期貨也將正常交易，但美國現券債券市場將全天休市。美國現券債券和美債期貨並不是同一種交易品種：現券債券指實際發行的美國國債、企業債、商業票據等，美債期貨則是以美國國債為標的的標準化期貨合約。"
+    },
+    {
+      "id": "mkt:01a12dde-2742-7ee0-a82f-24279211c423",
+      "time": "2026-10-12 10:08:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "【US cash bond market closed Oct. 12; equities and Treasury futures to trade】SIFMA’s holiday schedule shows the US cash bond market will be closed Monday, Oct. 12, for Columbus Day. US equity markets will remain open and CME-traded US Treasury futures will trade normally, while the cash market for issued Treasuries, corporate bonds and commercial paper will be closed all day. Cash Treasuries and Treasury futures are distinct instruments."
+    },
+    {
+      "id": "mkt:01a12ddd-ef1c-7ee0-a82f-1aa3452817ac",
+      "time": "2026-10-12 10:08:01",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share PCB sector slid; Jin'an Guoji hit the daily limit down, Xunjiexing fell over 7%. Guanghe Technology, Tongyu New Material and Kangda New Material were among the largest decliners."
+    },
+    {
+      "id": "5138349",
+      "time": "2026-10-12 10:07:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "te:markets:591024",
+      "time": "2026-10-12 10:07:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "China Stocks Open Week on Uneven Note — The Shanghai Composite edged up 0.2% to 3,820, while the Shenzhen Component fell 0.4% to 12,589 on Monday, as investors turned cautious ahead of key economic data due later this week. China’s economic outlook remains heavily reliant on exports as weak domestic demand continues to weigh on growth. Data are expected to show accelerating consumer and producer inflation, while export growth is projected to edge higher and import growth to slow. The figures will offer fresh insights into the resilience of external demand and the challenges facing China’s domestic economy. Meanwhile, the EU said China had agreed to reduce hybrid car exports by millions of units, as the bloc moves to curb imports through safeguard measures. Financial stocks gained, particularly Agricultural Bank of China (1%), Bank of China (1.5%) and China Merchants Bank (1.1%). In contrast, technology stocks fell, led by Eoptolink Technology (-1.9%), Zhongji Innolight (-1.7%) and Victory Giant Technology (-1.4%)."
+    },
+    {
+      "id": "5138348",
+      "time": "2026-10-12 10:06:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念股再度走低，金安國紀跌停】PCB概念股再度走低，金安國紀跌停，迅捷興跌超7%，廣合科技、同宇新材、康達新材跌幅居前。"
+    },
+    {
+      "id": "5138347",
+      "time": "2026-10-12 10:06:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【手機又漲1000塊 供貨商稱“記憶體條像黃金一天一個價”】手機又開啟新一輪調價。此次手機、電腦集體漲價，根源是AI伺服器擠佔儲存產能，消費級DRAM、NAND供給被嚴重壓縮，成本沿產業鏈傳導至整機。一位給深圳華強北商家供貨的廠商對記者表示，“現在的記憶體條和黃金一樣，一天一個價，12月份價格肯定還要再大幅上漲一波。”業內人士分析稱，本輪手機、電腦漲價潮至少延續至2027年下半年，2028年前後或逐步回落，但若AI需求持續超預期，拐點還會推遲。（貝殼財經）"
+    },
+    {
+      "id": "5138346",
+      "time": "2026-10-12 10:05:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【之江生物：審慎評估併購、參股及合作機會 相關專案正在積極對接中】之江生物在10月12日召開的2026年半年度業績說明會上表示，截至2026年上半年，公司貨幣資金約24.51億元，正圍繞“預防、診斷、治療”一體化戰略，審慎評估符合公司方向的併購、參股及合作機會。標的篩選方面，重點關注產業鏈中上游具有較高技術壁壘和核心競爭力的專案，方向上更聚焦腫瘤診斷、藥物治療及上游核心原材料等領域，與公司現有試劑、儀器、耗材及關鍵原材料佈局形成協同。目前相關專案正在積極對接中。"
+    },
+    {
+      "id": "mkt:01a12ddb-d838-7ee0-a82f-163b4050665f",
+      "time": "2026-10-12 10:05:44",
+      "tags": [
+        "MKT News",
+        "601398.SS"
+      ],
+      "text": "Industrial and Commercial Bank of China (ICBC) shares hit an intraday record high, trading up 2.07% at 8.38 yuan."
+    },
+    {
+      "id": "5138345",
+      "time": "2026-10-12 10:05:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工商銀行股價創歷史新高】工商銀行盤中股價創歷史新高，現漲2.07%，報8.38元。"
+    },
     {
       "id": "5138344",
       "time": "2026-10-12 10:04:17",
@@ -96163,70 +96263,6 @@
         "國際"
       ],
       "text": "菲律賓股指上漲1%，至5,685.87點。"
-    },
-    {
-      "id": "mkt:01a109d2-4540-7ee0-a797-767b6a0d2104",
-      "time": "2026-10-05 10:08:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude slipped below $89/bbl, down about 1.5% intraday."
-    },
-    {
-      "id": "5125555",
-      "time": "2026-10-05 10:08:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "臺積電股價早盤一度上漲3%，此前馬斯克證實正在與臺積電就TeraFab專案合作進行談判。"
-    },
-    {
-      "id": "5125554",
-      "time": "2026-10-05 10:08:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4190美元/盎司，日內漲0.68%。"
-    },
-    {
-      "id": "5125553",
-      "time": "2026-10-05 10:06:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙倫賽當選寮國政府總理】當地時間5日，在寮國第十屆國會第二次常務會議期間，國會議員投票選舉沙倫賽·貢馬西擔任新任政府總理。"
-    },
-    {
-      "id": "5125552",
-      "time": "2026-10-05 10:06:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒生科技指數回升轉漲，此前一度跌超0.8%。"
-    },
-    {
-      "id": "5125551",
-      "time": "2026-10-05 10:06:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：檢察改革不是為了向檢察機關復仇或破壞檢察職能，而是為了將調查和起訴職能分離，使這兩個職能既不被政權濫用，又能以最優方式良好運作。"
-    },
-    {
-      "id": "mkt:01a109cf-9330-7ee0-a797-6fea5ee9d948",
-      "time": "2026-10-05 10:06:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Tech Index turned positive after earlier sliding more than 0.8%."
     }
   ]
 }
