@@ -1,7 +1,296 @@
 {
   "date": "2026-10-12",
-  "count": 995,
+  "count": 1027,
   "items": [
+    {
+      "id": "mkt:01a12f30-0d95-7ee0-a837-1a8e299786c9",
+      "time": "2026-10-12 16:17:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York gold futures slipped below $4,200/oz, down 0.39% on the day."
+    },
+    {
+      "id": "mkt:01a12f2f-fe0f-7ee0-a837-14a84e69a68b",
+      "time": "2026-10-12 16:17:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Ukrainian President Zelenskiy said he is ready to sign a ceasefire guarantee agreement."
+    },
+    {
+      "id": "5138992",
+      "time": "2026-10-12 16:17:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4200美元/盎司，日內跌0.39%。"
+    },
+    {
+      "id": "mkt:01a12f2f-a631-7ee0-a837-09753959cf83",
+      "time": "2026-10-12 16:16:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "EU foreign ministers have just approved nearly 1,600 new sanctions targeting the Russian defense-industrial complex, EU High Representative for Foreign Affairs and Security Policy Kallas said."
+    },
+    {
+      "id": "5138991",
+      "time": "2026-10-12 16:16:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我們已準備好簽署停火保障協議。"
+    },
+    {
+      "id": "5138990",
+      "time": "2026-10-12 16:16:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【報道：高盛、滙豐和瑞銀掌門人據悉將出席香港國際金融領袖投資峰會】據知情人士透露，香港第五屆國際金融領袖投資峰會的演講嘉賓將包括高盛集團、瑞銀集團、摩根士丹利、滙豐控股和城堡證券的掌門人。該11月初的峰會由香港金融管理局主辦。知情人士稱，其他參會者還包括渣打、富蘭克林鄧普頓、道富、貝恩資本和Vontobel Holding AG的高管。"
+    },
+    {
+      "id": "mkt:01a12f2e-e8f6-7ee0-a837-0441296aaaa7",
+      "time": "2026-10-12 16:16:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi keeps Riyadh King Khalid International Airport suspended】The Saudi General Authority of Civil Aviation said on social media on the 12th it will keep operations at Riyadh's King Khalid International Airport suspended to complete necessary inspections."
+    },
+    {
+      "id": "5138989",
+      "time": "2026-10-12 16:15:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【露笑科技：目前8英寸碳化矽襯底片已形成銷售，部分樣品已送國內頭部客戶進行測試驗證】有投資者向露笑科技（002617.SZ）提問，目前貴司終止了碳化矽產業園的擴產投資計劃，專心解決當下良率以及產量提升，短期來說我認為是非常明智的。但是後續科技發展飛速，升級版的人性機器人，各類飛行器都可能需要用到碳化矽，最近馬斯克也說了，20年後全球可能會有1000億臺人形機器人，面對如此龐大的需求，公司還是要做出長久規劃，不能總是作為後來者或者陪跑者，6、8英寸都是慢人一步，12英寸的能不能盡全力去加速推進？在整體日程上超越天嶽10月12日，公司回答表示，公司目前8英寸碳化矽襯底片已形成銷售，部分樣品已送國內頭部客戶進行測試驗證，12英寸產品業務也在拓展中。"
+    },
+    {
+      "id": "5138988",
+      "time": "2026-10-12 16:15:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰集團：相關高純氧化鈮已生產批次合格產品】有投資者向國泰集團（603977.SH）提問，2025年12月11日公司互動稱，目前，三石有色實現4條生產線貫通，提煉出高純氫氧化鈮實驗品，進一步助推高純鉭鈮氧化產品達產達標，經過下游加工環節後終端產品有望進入超導腔、光模組等領域。請問快兩年了，該實驗品量產了嗎？是否終端產品已經進入超導腔、光模組等領域？謝謝。10月12日，公司回答表示，全資子公司三石有色生產的鉭鈮氧化物涉及多規格產品，按照客戶具體指標進行生產，應用領域較為廣泛。相關高純氧化鈮已生產批次合格產品，"
+    },
+    {
+      "id": "mkt:01a12f2e-8667-7ee0-a836-fc057b20954e",
+      "time": "2026-10-12 16:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's President ZELENSKIY said the United States must ensure Russia respects the energy ceasefire agreement."
+    },
+    {
+      "id": "mkt:01a12f2e-4365-7ee0-a836-f37f6769ea6d",
+      "time": "2026-10-12 16:15:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Ukrainian President Zelenskiy said he is awaiting details of US-Russia talks and described an energy ceasefire agreement as feasible."
+    },
+    {
+      "id": "5138986",
+      "time": "2026-10-12 16:15:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：美國人必須確保俄羅斯遵守能源停火協議。"
+    },
+    {
+      "id": "5138985",
+      "time": "2026-10-12 16:14:58",
+      "tags": [
+        "公司",
+        "兩會"
+      ],
+      "text": "【內蒙古自治區包頭市人大常委會原黨組書記、主任徐德林等5人被提起公訴】據最高檢訊息，檢察機關依法分別對內蒙古自治區包頭市人大常委會原黨組書記、主任徐德林，上海市嘉定區政協原黨組書記、主席劉海濤，廣西壯族自治區賀州市人大常委會原黨組成員、副主任李裕科，雲南省大理州委原常委、大理市委原書記褚中志，上海市現代農業投資發展集團有限公司原黨委書記、董事長張國坤提起公訴。"
+    },
+    {
+      "id": "5138984",
+      "time": "2026-10-12 16:14:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：我們正在等待美俄對話的細節，這份能源停火協議能夠發揮作用。"
+    },
+    {
+      "id": "mkt:01a12f2d-ccd2-7ee0-a836-e8c700e2bdf2",
+      "time": "2026-10-12 16:14:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "03968.HK",
+        "Impact bullish",
+        "02696.HK",
+        "06166.HK",
+        "Impact bearish"
+      ],
+      "text": "【Hong Kong close: HSI +0.25%; mainland banks rally】Hong Kong stocks closed mixed after an intraday high above 1% for the HSI. The Hang Seng Index (HSI) ended up 0.25%; the Hang Seng Tech Index fell 0.67%. Mainland bank names were bid—China Merchants Bank (03968.HK) rose over 3%. Stablecoin-themed and biotech names saw gains—01328.HK and 02696.HK each climbed more than 3%. Outperforming sectors included power, Chinese brokerages, marquee internet, lithium batteries and AI. Optical-communications shares extended losses—Cambridge Technology (06166.HK) tumbled over 11% and 06869.HK fell more than 7%. PCB names underperformed—03200.HK dropped over 9%. Chips, mainland property, new-consumption and NEV sectors were also weaker."
+    },
+    {
+      "id": "5138983",
+      "time": "2026-10-12 16:14:51",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯民航總局12日在社交媒體上發表宣告說，將繼續暫停首都利雅得哈立德國王國際機場運營，以完成必要核查工作。（新華社）"
+    },
+    {
+      "id": "mkt:01a12f2d-9622-7ee0-a836-e380b2e03c5a",
+      "time": "2026-10-12 16:14:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Kazakhstan state oil transporter KazTransOil reported oil exports of 35.8 mln tonnes from January to September."
+    },
+    {
+      "id": "mkt:01a12f2d-557a-7ee0-a836-dafdf730522a",
+      "time": "2026-10-12 16:14:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia violated an energy ceasefire declared by US President Trump."
+    },
+    {
+      "id": "5138982",
+      "time": "2026-10-12 16:14:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：俄羅斯違反了特朗普總統宣佈的能源停火協議。"
+    },
+    {
+      "id": "5138981",
+      "time": "2026-10-12 16:14:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "哈薩克跨原油運輸公司（KazTransOil）：1-9月石油出口量為3580萬噸。"
+    },
+    {
+      "id": "mkt:01a12f2d-14e2-7ee0-a836-d22b99ec3743",
+      "time": "2026-10-12 16:14:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said a Russian refinery did not catch fire last night."
+    },
+    {
+      "id": "5138980",
+      "time": "2026-10-12 16:13:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【海關總署公告2026年第145號（關於進口烏茲別克鮮食西瓜植物檢疫要求的公告）】根據我國相關法律法規和中華人民共和國海關總署（以下稱中方）與烏茲別克共和國食品安全委員會（以下稱烏方）有關烏茲別克鮮食西瓜輸華植物檢疫要求的規定，即日起，允許符合相關要求的烏茲別克鮮食西瓜進口。"
+    },
+    {
+      "id": "5138979",
+      "time": "2026-10-12 16:13:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：昨晚俄羅斯煉油廠沒有起火。"
+    },
+    {
+      "id": "mkt:01a12f2c-ce90-7ee0-a836-cf04da547c62",
+      "time": "2026-10-12 16:13:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine is prepared to abide by an energy ceasefire agreement if Russia does the same."
+    },
+    {
+      "id": "mkt:01a12f2c-cda4-7ee0-a836-c52a74d07407",
+      "time": "2026-10-12 16:13:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【SGX opens new trading slot for Asian bond futures to attract European investors】SGX will open a one-hour \"liquidity window\" from Tuesday to enable European investors to trade Asian bond futures during normal business hours. The window will run 10:00 London / 17:00 Singapore. The initiative is designed to draw market makers and asset managers into the close of the Asian session, reduce the need for European firms to trade overnight or station local staff in Asia, and boost bond-futures turnover."
+    },
+    {
+      "id": "5138978",
+      "time": "2026-10-12 16:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：若俄羅斯同樣遵守，烏克蘭願尊重能源停火協議。"
+    },
+    {
+      "id": "5138977",
+      "time": "2026-10-12 16:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：除非俄羅斯停止遠端打擊，否則遠端打擊不會停止。"
+    },
+    {
+      "id": "5138976",
+      "time": "2026-10-12 16:13:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：歐盟外長剛剛透過了近1600項新增制裁名單，制裁物件為俄羅斯軍工複合體。"
+    },
+    {
+      "id": "5138975",
+      "time": "2026-10-12 16:13:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福昕軟體：聘任李蔚嵐為副總裁、尚玉柱為董秘】福昕軟體公告稱，公司董事會秘書李蔚嵐因工作調整申請辭去董事會秘書職務，辭任後繼續擔任公司首席財務官（財務負責人）；經總裁提名、董事會提名委員會資格審查，董事會同意聘任李蔚嵐為公司副總裁。經董事長提名、董事會提名委員會資格審查，董事會同意聘任尚玉柱為公司董事會秘書。二人任期均自本次董事會審議透過之日起至第五屆董事會任期屆滿之日止。"
+    },
+    {
+      "id": "mkt:01a12f2c-163c-7ee0-a836-b8cc228b6dc8",
+      "time": "2026-10-12 16:13:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine President Zelenskiy said Russia must stop attacking Ukrainian energy infrastructure if it wants Ukraine to halt strikes on Russian refineries."
+    },
+    {
+      "id": "5138974",
+      "time": "2026-10-12 16:12:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：如果俄羅斯想要我們停止襲擊其煉油廠，俄羅斯就必須停止襲擊我國能源基礎設施。"
+    },
+    {
+      "id": "5138973",
+      "time": "2026-10-12 16:12:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【優選8個重點領域 職業教育助力服務業擴能提質工作方案來了】記者從教育部今天召開的新聞釋出會獲悉，教育部將啟動實施職業教育助力服務業擴能提質工作方案。（央視新聞）"
+    },
     {
       "id": "mkt:01a12f2b-b49c-7ee0-a836-b102657cffd0",
       "time": "2026-10-12 16:12:35",
