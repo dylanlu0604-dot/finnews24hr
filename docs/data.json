@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-13 02:04:51",
-  "count": 10819,
+  "updated": "2026-10-13 02:08:41",
+  "count": 10818,
   "items": [
+    {
+      "id": "5140036",
+      "time": "2026-10-13 02:07:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特利雅得傳出劇烈爆炸聲】當地時間12日晚，沙特利雅得市區居民收到防空警報，隨後傳來劇烈爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "5140035",
+      "time": "2026-10-13 02:07:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於週五在佐治亞州多爾頓舉辦中期選舉集會。"
+    },
+    {
+      "id": "5140034",
+      "time": "2026-10-13 02:06:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古巴頒佈新的石油和天然氣法令 旨在推動能源獨立】當地時間10月12日，古巴能源和礦業部舉行記者會，頒佈第135號石油和天然氣法令。多位部門負責人在記者會上對新法令進行了解釋說明。據介紹，舊有相關法令已不再適用，古巴在研究了多國法規並綜合31家諮詢機構的意見後製定了新法令。新法令旨在逐步增加原油和天然氣產量與儲量，儘可能滿足國家燃料及衍生品需求，為石化工業未來發展提供原料和產品，配合國家電力系統恢復，並推動能源獨立。新法令強調國家對能源的主權和管轄權，同時歡迎國內外投資，允許採取多樣化合作模式，並強調產業安全與環境保護。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a13149-b128-7ee0-a841-74857889527e",
+      "time": "2026-10-13 02:04:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local witnesses reported hearing three explosions in Riyadh."
+    },
     {
       "id": "5140033",
       "time": "2026-10-13 02:04:10",
@@ -98190,46 +98222,6 @@
         "XAUUSD"
       ],
       "text": "Pakistan's foreign ministry said it has agreed to rapidly deploy military forces and capabilities to Saudi Arabia."
-    },
-    {
-      "id": "5126525",
-      "time": "2026-10-06 02:06:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部：巴基斯坦、沙烏地阿拉伯與土耳其譴責針對麥加和麥地那的襲擊企圖。"
-    },
-    {
-      "id": "5126524",
-      "time": "2026-10-06 02:06:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗伊斯蘭共和國廣播電視臺（IRIB）：有訊息稱一枚導彈可能擊中利雅得機場。"
-    },
-    {
-      "id": "mkt:01a10d3e-bda9-7ee0-a7a8-89e2bb309ecf",
-      "time": "2026-10-06 02:06:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's Foreign Ministry said Nauman Mahmood has been appointed the inaugural secretary-general of the Makkah Defense Alliance for a three-year term."
-    },
-    {
-      "id": "mkt:01a10d3e-635b-7ee0-a7a8-827779ae5e62",
-      "time": "2026-10-06 02:05:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's Foreign Ministry said Pakistan, Saudi Arabia and Turkey reached an agreement to provide specified military forces and capabilities."
-    },
-    {
-      "id": "5126523",
-      "time": "2026-10-06 02:05:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部：巴基斯坦、沙烏地阿拉伯和土耳其同意提供各方商定的軍事力量及相關能力。"
     }
   ]
 }
