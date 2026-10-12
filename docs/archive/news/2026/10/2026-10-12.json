@@ -1,7 +1,78 @@
 {
   "date": "2026-10-12",
-  "count": 538,
+  "count": 546,
   "items": [
+    {
+      "id": "5138360",
+      "time": "2026-10-12 10:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士：東山精密已啟動香港上市預推介，可能募資約20億至30億美元。"
+    },
+    {
+      "id": "te:markets:591027",
+      "time": "2026-10-12 10:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: Indian Rupee Appreciates by 0.76% — Top currency gainers are Indian Rupee (0.76%), South Korean Won (0.39%) and Japanese Yen (0.11%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "5138359",
+      "time": "2026-10-12 10:15:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額超2000億元】截至目前，ETF兩市成交額超2000億元。其中，成交額最高的非貨幣型ETF分別是港股創新藥ETF（513120）、科創50ETF（588000）、創業板ETF（159915），成交額分別為24.29億元、21.17億元、19.52億元。"
+    },
+    {
+      "id": "5138358",
+      "time": "2026-10-12 10:15:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數開盤基本持平，報1735.09點。"
+    },
+    {
+      "id": "mkt:01a12de3-f490-7ee0-a82f-3e73582d86d1",
+      "time": "2026-10-12 10:14:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Copernicus Climate Change Service: global temperatures remain above 1.5°C; September was the second-warmest September on record."
+    },
+    {
+      "id": "5138357",
+      "time": "2026-10-12 10:14:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【園林股份等在杭州成立鄉村產業發展公司】企查查APP顯示，近日，杭州林尚鄉村產業發展有限公司成立，經營範圍包含休閒農業和鄉村旅遊資源的開發經營；體驗式拓展活動及策劃；專案策劃與公關服務等。企查查股權穿透顯示，該公司由園林股份等共同持股。"
+    },
+    {
+      "id": "te:markets:591026",
+      "time": "2026-10-12 10:13:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Malaysia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Malaysian Shares Rise Further After 2027 Budget Release — Bursa Malaysia’s KLCI rose 0.4% to 1,614 in Monday morning trade, extending last week’s momentum after the government unveiled its 2027 budget. Kuala Lumpur plans MYR 460 billion in spending, broadening welfare aid and tax relief while retaining fuel subsidies to ease household pressures. Officials project slower growth of 4.2–5.2% next year and inflation at 1.8–2.8%, though the fiscal deficit is seen narrowing to 3.3% of GDP from a revised 3.6%. Recent data showed August industrial output and retail sales accelerating, with unemployment edging lower. Meanwhile, U.S. stock futures advanced after President Trump said he is considering joining Saudi Arabia in retaliation against Tehran-backed Houthis following a deadly strike on Riyadh’s main airport. Transport, communication, and financials led gains, while consumer services, retail, and healthcare fell. Lenders advanced, including Maybank (1.2%) and CIMB (1.0%). Other major movers were Sunway (2.0%), MISC (1.6%), and Axiata (1.2%)."
+    },
+    {
+      "id": "mkt:01a12de2-5f06-7ee0-a82f-35fc84f36cb6",
+      "time": "2026-10-12 10:12:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fuxin Technology: TEC business profit contribution hinges on supply-demand; Micro TEC margin higher than consumer TEC】At its Oct. 12, 2026 interim results briefing, Fuxin Technology said its Micro TEC for communications achieves higher gross margins than its prior consumer-electronics TEC. The company said future order size and profit contribution from TEC-related businesses will depend on changes in market supply and demand and remain uncertain."
+    },
     {
       "id": "5138356",
       "time": "2026-10-12 10:12:33",
