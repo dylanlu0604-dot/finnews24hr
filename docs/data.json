@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-13 02:01:01",
-  "count": 10818,
+  "updated": "2026-10-13 02:04:51",
+  "count": 10819,
   "items": [
+    {
+      "id": "5140033",
+      "time": "2026-10-13 02:04:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：利雅得傳來三聲巨響。"
+    },
+    {
+      "id": "mkt:01a13149-5151-7ee0-a841-6c20ede10de5",
+      "time": "2026-10-13 02:04:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB chief Mu Lan said France's Banque de France industry uncertainty index rose to its highest level since April."
+    },
+    {
+      "id": "mkt:01a13148-35d5-7ee0-a841-67fbd6b69ae5",
+      "time": "2026-10-13 02:02:58",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of France says French economy remains stable despite energy shock."
+    },
+    {
+      "id": "mkt:01a13147-ef9c-7ee0-a841-5cc5f0f796bb",
+      "time": "2026-10-13 02:02:40",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia issued an early warning of potential hostile threats against Riyadh."
+    },
+    {
+      "id": "5140032",
+      "time": "2026-10-13 02:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面稱，已在利雅得釋出潛在危險預警。"
+    },
+    {
+      "id": "5140031",
+      "time": "2026-10-13 02:01:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委穆蘭：法國經濟在能源衝擊下仍保持韌性。"
+    },
+    {
+      "id": "mkt:01a13146-a875-7ee0-a841-504064071092",
+      "time": "2026-10-13 02:01:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of France forecasts France's Q3 economic growth at 0.1%, unchanged from its previous estimate."
+    },
+    {
+      "id": "mkt:01a13146-58ca-7ee0-a841-4f67f3b59ced",
+      "time": "2026-10-13 02:00:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump again criticized the New York Times for altering photos of resorts owned by his family."
+    },
+    {
+      "id": "5140030",
+      "time": "2026-10-13 02:00:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行工業不確定性指標創4月份以來新高。仍然預計三季度GDP將增長0.1%。"
+    },
     {
       "id": "5140028",
       "time": "2026-10-13 01:58:06",
@@ -98142,80 +98230,6 @@
         "國際"
       ],
       "text": "巴基斯坦外交部：巴基斯坦、沙烏地阿拉伯和土耳其同意提供各方商定的軍事力量及相關能力。"
-    },
-    {
-      "id": "mkt:01a10d3d-681c-7ee0-a7a8-7e603f8bf0e5",
-      "time": "2026-10-06 02:04:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Mecca Alliance launches collective deterrence measures after attacks on Saudi Arabia】Saudi Arabia, Pakistan and Turkey held an emergency meeting of the Mecca Alliance strategic political and defense committee. Saudi defence minister said members agreed to act in unity and launch collective deterrence measures to respond to attacks on Saudi Arabia and Islamic holy sites and to those responsible. The Saudi foreign ministry condemned Houthi attacks on Mecca, Medina and civilian infrastructure inside Saudi Arabia, saying Riyadh has sought a political solution since the Houthi coup but the Houthis chose escalation over peace and serve an \"external agenda\", inflicting further suffering on Yemen and its people."
-    },
-    {
-      "id": "5126522",
-      "time": "2026-10-06 02:04:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部：巴基斯坦的瑙曼・馬哈茂德出任麥加防務聯盟首任秘書長，任期三年。"
-    },
-    {
-      "id": "mkt:01a10d3c-ded1-7ee0-a7a8-736f0de0b581",
-      "time": "2026-10-06 02:04:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Saudi defense minister said the Makkah Alliance launched a collective deterrence mechanism to counter attacks targeting Saudi Arabia."
-    },
-    {
-      "id": "5126521",
-      "time": "2026-10-06 02:04:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部：沙烏地阿拉伯、巴基斯坦、土耳其召開麥加聯盟戰略政治及防務委員會緊急會議。"
-    },
-    {
-      "id": "mkt:01a10d3c-b457-7ee0-a7a8-6ea6fa725ff7",
-      "time": "2026-10-06 02:04:04",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Boeing (BA.N) won a seven-year contract to accelerate production of PAC-3 MSE missile seekers."
-    },
-    {
-      "id": "5126520",
-      "time": "2026-10-06 02:02:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特國防部長：麥加聯盟重申其承諾，將對抗針對沙烏地阿拉伯以及聖地的襲擊。"
-    },
-    {
-      "id": "5126519",
-      "time": "2026-10-06 02:02:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特國防部長：麥加防務聯盟委員會稱，將實施集體威懾措施，回擊襲擊行為並追究相關責任方。"
-    },
-    {
-      "id": "5126518",
-      "time": "2026-10-06 02:01:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：獲得洛克希德・馬丁價值 147 億美元的 PAC-3 MSE 導彈導引頭合同，合同確立了為期七年的合作框架，PAC-3 MSE 導彈導引頭的產量將增至原先的三倍。"
     }
   ]
 }

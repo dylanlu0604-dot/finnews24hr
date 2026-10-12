@@ -1,7 +1,95 @@
 {
   "date": "2026-10-13",
-  "count": 134,
+  "count": 143,
   "items": [
+    {
+      "id": "mkt:01a13149-5151-7ee0-a841-6c20ede10de5",
+      "time": "2026-10-13 02:04:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB chief Mu Lan said France's Banque de France industry uncertainty index rose to its highest level since April."
+    },
+    {
+      "id": "5140033",
+      "time": "2026-10-13 02:04:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：利雅得傳來三聲巨響。"
+    },
+    {
+      "id": "mkt:01a13148-35d5-7ee0-a841-67fbd6b69ae5",
+      "time": "2026-10-13 02:02:58",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of France says French economy remains stable despite energy shock."
+    },
+    {
+      "id": "mkt:01a13147-ef9c-7ee0-a841-5cc5f0f796bb",
+      "time": "2026-10-13 02:02:40",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia issued an early warning of potential hostile threats against Riyadh."
+    },
+    {
+      "id": "5140032",
+      "time": "2026-10-13 02:01:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面稱，已在利雅得釋出潛在危險預警。"
+    },
+    {
+      "id": "5140031",
+      "time": "2026-10-13 02:01:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委穆蘭：法國經濟在能源衝擊下仍保持韌性。"
+    },
+    {
+      "id": "mkt:01a13146-a875-7ee0-a841-504064071092",
+      "time": "2026-10-13 02:01:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of France forecasts France's Q3 economic growth at 0.1%, unchanged from its previous estimate."
+    },
+    {
+      "id": "mkt:01a13146-58ca-7ee0-a841-4f67f3b59ced",
+      "time": "2026-10-13 02:00:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump again criticized the New York Times for altering photos of resorts owned by his family."
+    },
+    {
+      "id": "5140030",
+      "time": "2026-10-13 02:00:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "法國央行工業不確定性指標創4月份以來新高。仍然預計三季度GDP將增長0.1%。"
+    },
     {
       "id": "5140028",
       "time": "2026-10-13 01:58:06",
