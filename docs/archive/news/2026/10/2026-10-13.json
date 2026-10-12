@@ -1,7 +1,39 @@
 {
   "date": "2026-10-13",
-  "count": 186,
+  "count": 190,
   "items": [
+    {
+      "id": "mkt:01a13176-d31c-7ee0-a842-2469d5f7cabe",
+      "time": "2026-10-13 02:53:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president Zelenskiy said Russia continues to deploy Shahed drones despite US proposals and urged Washington to take stronger measures to increase pressure and force Russia to end the war."
+    },
+    {
+      "id": "mkt:01a13176-d189-7ee0-a842-1c96c64a8243",
+      "time": "2026-10-13 02:53:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brent crude futures settled at $106.65/bbl, up $1.93, or 1.84%."
+    },
+    {
+      "id": "5140053",
+      "time": "2026-10-13 02:53:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於 106.65 美元 / 桶，上漲 1.93 美元，漲幅 1.84%。"
+    },
+    {
+      "id": "mkt:01a13174-0377-7ee0-a842-1393e0fb9b9b",
+      "time": "2026-10-13 02:50:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH: Mexican local governments remain fiscally stable amid modest growth prospects."
+    },
     {
       "id": "5140052",
       "time": "2026-10-13 02:49:12",
