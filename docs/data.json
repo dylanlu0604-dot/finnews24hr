@@ -1,7 +1,102 @@
 {
-  "updated": "2026-10-12 09:54:11",
-  "count": 10553,
+  "updated": "2026-10-12 09:58:02",
+  "count": 10563,
   "items": [
+    {
+      "id": "5138331",
+      "time": "2026-10-12 09:57:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【碧興物聯新設科技公司 含新興能源技術研發業務】企查查APP顯示，近日，碧泓境科技（北京）有限責任公司成立，經營範圍包含物聯網應用服務；新興能源技術研發；市政設施管理；水利相關諮詢服務等。企查查股權穿透顯示，該公司由碧興物聯全資持股。"
+    },
+    {
+      "id": "5138330",
+      "time": "2026-10-12 09:56:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電網裝置概念表現活躍 保變電氣漲停】電網裝置概念表現活躍，保變電氣漲停，億能電力、雙傑電氣、燦能電力、中國西電、和順電氣跟漲。"
+    },
+    {
+      "id": "5138329",
+      "time": "2026-10-12 09:56:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量76億元。"
+    },
+    {
+      "id": "mkt:01a12dd2-ac87-7ee0-a82e-fb3688e8fad9",
+      "time": "2026-10-12 09:55:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "601988.SS",
+        "Impact bullish",
+        "601998.SS",
+        "601939.SS"
+      ],
+      "text": "China A-share banking sector firmed; Bank of China and China CITIC Bank made intraday record highs. Chongqing Rural Commercial Bank rose more than 3%; Bank of Chongqing, China Minsheng Banking Corp, China Construction Bank and Bank of Ningbo also advanced."
+    },
+    {
+      "id": "5138328",
+      "time": "2026-10-12 09:55:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克認同Anthropic的部分觀點，警告不要“折磨超級智慧（SI）”，表示，“折磨超級智慧可能不是個好主意。它可能會想要報復。”"
+    },
+    {
+      "id": "mkt:01a12dd1-7f80-7ee0-a82e-f396509c9b5c",
+      "time": "2026-10-12 09:54:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06166.HK",
+        "Impact bearish",
+        "06869.HK",
+        "01347.HK"
+      ],
+      "text": "Hong Kong-listed optical-communications stocks slipped. Cambridge Technology (06166.HK) fell more than 8%; peers Yangtze Optical Fibre and Cable (06869.HK), Hua Hong Hongli (01347.HK), Huiju Technology (01729.HK) and Zhongji Xuchuang (03308.HK) also declined."
+    },
+    {
+      "id": "5138327",
+      "time": "2026-10-12 09:54:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【銀行板塊再度走強 中國銀行、中信銀行漲超2%續創歷史新高】銀行板塊盤中再度走強，中國銀行、中信銀行漲超2%。續創歷史新高，渝農商行、重慶銀行、民生銀行、寧波銀行漲幅靠前。訊息面上，截至目前，已有21家A股銀行披露2026年中期分紅方案，合計擬派息超2600億元，其中15家分紅比例較去年提升。六大行現金分紅比例從30%統一提至31%，合計擬派息超2200億元，佔比超八成。"
+    },
+    {
+      "id": "5138326",
+      "time": "2026-10-12 09:54:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克轉發Terafab招聘並表示：加入Terafab專案。這一巨型設施的產出價值將躋身全球國家GDP前20名。"
+    },
+    {
+      "id": "5138325",
+      "time": "2026-10-12 09:53:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "早盤PCB概念震盪走弱，宏昌電子逼近跌停，迅捷興、金安國紀、華正新材、賢豐控股、廣合科技等多股跌超5%。"
+    },
+    {
+      "id": "5138324",
+      "time": "2026-10-12 09:53:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO板塊快速下跌】CRO板塊快速下跌，百奧賽圖、義翹神州、萬邦醫藥等股跌幅居前。"
+    },
     {
       "id": "5138323",
       "time": "2026-10-12 09:53:18",
