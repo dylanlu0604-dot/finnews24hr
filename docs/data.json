@@ -1,7 +1,66 @@
 {
-  "updated": "2026-10-13 02:24:00",
-  "count": 10814,
+  "updated": "2026-10-13 02:27:49",
+  "count": 10818,
   "items": [
+    {
+      "id": "5140044",
+      "time": "2026-10-13 02:27:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：俄羅斯的增量供應將部分平衡供需。"
+    },
+    {
+      "id": "mkt:01a1315e-44d3-7ee0-a841-c5c9b011c71a",
+      "time": "2026-10-13 02:27:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia's Deputy Prime Minister Novak said additional Russian supply will partially ease the supply-demand imbalance."
+    },
+    {
+      "id": "5140043",
+      "time": "2026-10-13 02:26:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副總理諾瓦克：（談及與特朗普的柴油供應協議）俄美兩國政府正在就供應事宜展開談判。我方具備向全球市場追加供應柴油的能力。"
+    },
+    {
+      "id": "mkt:01a1315e-0d9e-7ee0-a841-b84bf9acea57",
+      "time": "2026-10-13 02:26:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russia's Deputy Prime Minister Novak said Russia may increase diesel supplies to global markets."
+    },
+    {
+      "id": "mkt:01a1315d-ec2f-7ee0-a841-b7edb544ca24",
+      "time": "2026-10-13 02:26:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Novak said negotiations are underway between the Russian and U.S. governments on a diesel supply agreement with President Trump."
+    },
+    {
+      "id": "te:markets:591239",
+      "time": "2026-10-13 02:25:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Gains by 3.01% — Top commodity gainers are Sugar (3.01%) and Rubber (2.24%). Biggest loser is Oat (-2.51%)."
+    },
     {
       "id": "mkt:01a1315a-2ab8-7ee0-a841-acf82253206f",
       "time": "2026-10-13 02:22:35",
@@ -98168,25 +98227,6 @@
         "Brent"
       ],
       "text": "U.S. Treasury Secretary Bessent said Iran did not load any crude oil onto tankers last month."
-    },
-    {
-      "id": "5126535",
-      "time": "2026-10-06 02:27:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗上個月沒有向油輪裝載任何原油。"
-    },
-    {
-      "id": "te:markets:589651",
-      "time": "2026-10-06 02:25:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Sugar Rises by 4.26% — Top commodity gainers are Sugar (4.26%) and Cocoa (3.21%). Biggest loser is Rice (-1.07%)."
     }
   ]
 }
