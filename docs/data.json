@@ -1,7 +1,80 @@
 {
-  "updated": "2026-10-12 10:35:34",
-  "count": 10617,
+  "updated": "2026-10-12 10:39:18",
+  "count": 10621,
   "items": [
+    {
+      "id": "mkt:01a12df9-a161-7ee0-a82f-b25ec7bee987",
+      "time": "2026-10-12 10:38:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Panama records 200+ aftershocks in three days】Refinitiv on the 11th quoted Nestor Luke, head of the University of Panama’s Institute of Earth Sciences, saying more than 200 aftershocks have been recorded in central Panama since a magnitude-7.5 quake on the 9th. He said the aftershocks are weakening and occurring at longer intervals, though further aftershocks are expected."
+    },
+    {
+      "id": "5138400",
+      "time": "2026-10-12 10:38:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商證券：Token消費持續爆發 Token運營迎來發展拐點】招商證券釋出研報稱，多模型時代，Token運營有望成為連線模型供給與AI應用的重要基礎設施。隨著基礎模型數量持續增加、不同模型在能力、成本、速度及穩定性上不斷分化，下游開發者同時呼叫多模型及多Provider逐漸成為常態。Token運營平臺透過統一API聚合模型，並進一步提供模型選擇、智慧路由、Token計量、統一結算及企業治理等服務，其角色正由簡單的模型接入工具向AI流量分發與企業呼叫控制層演進。該行認為，隨著Token呼叫規模和使用場景持續擴張，Token運營價值有望進一步提升。"
+    },
+    {
+      "id": "5138399",
+      "time": "2026-10-12 10:38:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【被曝將推手機子品牌“星芒”？華為回應】10月11日，“華為被曝將推子品牌星芒”話題登上微博熱搜。訊息稱，“星芒”定位或對標早年榮耀，主打中端價效比市場，將搭載麒麟8系自研晶片與原生鴻蒙系統，但不配備衛星通訊等高階旗艦功能。針對上述傳聞，華為相關人士向北京商報記者回應稱，請以官方資訊為準。12日上午，介面新聞記者以消費者身份諮詢華為客服，工作人員表示：“目前沒有核實到相關資訊，建議以公司後續公告為準。”"
+    },
+    {
+      "id": "5138398",
+      "time": "2026-10-12 10:37:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西部證券：汽車+AIDC重塑行業供需關係 功率半導體漲價潮密集來襲】西部證券釋出研報稱，功率半導體行業正由“產能擴張→價格下行”逐步轉向“供需改善→價格修復→結構升級”。展望未來行業景氣度，該行建議短期關注價格與盈利修復，中長期關注AIDC需求爆發、SiC/GaN滲透率提升、大尺寸晶圓良率提升及國產替代帶來的結構性成長機會。"
+    },
+    {
+      "id": "5138397",
+      "time": "2026-10-12 10:37:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "巴基斯坦財政部長：巴基斯坦正與美國就100億美元融資安排進行談判。"
+    },
+    {
+      "id": "5138396",
+      "time": "2026-10-12 10:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2026雅典車展中國汽車品牌受青睞】為期9天的2026雅典車展11日在希臘首都雅典閉幕。來自中國的多家汽車品牌攜新車型和新技術集中亮相，成為展會一大看點。 本屆車展於10月3日至11日在雅典大都會展覽中心舉行，共有52個汽車品牌參展，品牌數量創新高。比亞迪、名爵、吉利、長安等10多箇中國汽車品牌參展，展品涵蓋純電動汽車、插電式混合動力汽車及商用車等。中國汽車品牌帶來面向希臘及歐洲市場的新車型，吸引當地消費者關注。 隨著汽車市場電動化轉型持續推進，希臘消費者對新能源汽車的需求也在發生變化。據調查，今年1月至8月，純電動汽車佔希臘新註冊乘用車的6.7%，較去年同期上升1.4個百分點。（新華社）"
+    },
+    {
+      "id": "5138395",
+      "time": "2026-10-12 10:36:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【ETF兩市成交額超3000億元】截至目前，ETF兩市成交額超3000億元。其中，成交額最高的非貨幣型ETF分別是中韓半導體ETF（513310）、科創50ETF（588000）、科創半導體ETF（588170），成交額分別為34.70億元、32.49億元、30.53億元。"
+    },
+    {
+      "id": "5138394",
+      "time": "2026-10-12 10:35:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴拿馬三天內餘震200多次】巴拿馬研究人員說，該國中部自9日發生7.5級地震以來，又陸續發生了200多次餘震，所幸震級減弱且間隔時間變長。路透社11日引述巴拿馬大學地球科學研究所負責人內斯托爾·盧克的話報道，已經記錄到200多次餘震，且後續還會有餘震發生。不過，這些餘震的強度正持續減弱，發生餘震的間隔時間也越來越長。（新華社）"
+    },
+    {
+      "id": "5138393",
+      "time": "2026-10-12 10:35:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【網路安全概念震盪回升 博彙科技20cm漲停】網路安全概念盤中震盪回升，博彙科技20cm漲停，綠盟科技、兆日科技、安恆資訊、中新賽克、天融信跟漲。"
+    },
     {
       "id": "5138392",
       "time": "2026-10-12 10:35:05",
@@ -96598,52 +96671,6 @@
         "其他"
       ],
       "text": "【上半年熊貓債外資發行人募資佔比首超中資】國家外匯管理局日前釋出的《2026年上半年中國國際收支報告》顯示，上半年，熊貓債外資發行人募資規模上升。外資發行人募資規模佔熊貓債市場總募資規模的54%，首次超過中資背景發行人募資規模。近年來，熊貓債發行主體結構逐步變化，從早期國際機構試點、境外中資機構主導，逐漸演變為境外中資和外資主體共同參與。從募集資金在境內外使用看，外資發行人募集資金擬用於境外的規模為587億元人民幣，佔外資募資規模的68%。（新華國際）"
-    },
-    {
-      "id": "5125571",
-      "time": "2026-10-05 10:38:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【東盟與中日韓宏觀經濟研究辦公室：區域整體仍表現穩健】當地時間5日，東盟與中日韓宏觀經濟研究辦公室正式釋出《東盟與中日韓區域金融穩定報告（2026）》和《2026年東盟與中日韓區域經濟展望》10月更新版。報告指出，儘管受到中東能源衝擊的影響，區域整體表現仍然穩健。東盟與中日韓宏觀經濟研究辦公室預計，2026年和2027年區域經濟增長率均為4.1%，通脹率分別為1.6%和1.7%。人工智慧相關出口和投資走強，為經濟增長提供支撐，而能源價格上漲以及厄爾尼諾現象帶來的食品價格壓力可能推高通脹。此外，霍爾木茲海峽航運受阻推高了能源價格，並再度引發市場對全球通脹的擔憂。報告指出，儘管面臨外部不利因素和美元利率上升，東盟與中日韓經濟體仍展現出較強韌性。"
-    },
-    {
-      "id": "5125570",
-      "time": "2026-10-05 10:37:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國推進7項天然氣國際標準成功立項】從國家市場監督管理總局獲悉，國際標準化組織日前批准由我國牽頭的7項天然氣國際標準全部立項。據瞭解，本批標準涵蓋頁岩氣勘探開發、天然氣碳足跡核算、天然氣儲層岩心取樣、天然氣水合物測試等產業鏈上游關鍵領域，將有利於構建全球統一的天然氣技術規則，推動清潔低碳、安全高效的全球能源體系建設。其中，3項頁岩氣檢測標準將為非常規油氣開發提供統一技術依據，補齊頁岩氣儲量評估與工程安全規範短板。"
-    },
-    {
-      "id": "5125569",
-      "time": "2026-10-05 10:36:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣加權指數上漲 2.7%，創下 49,770.66 點的歷史新高。"
-    },
-    {
-      "id": "te:markets:589360",
-      "time": "2026-10-05 10:35:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesian Stocks Extend Strength as Week Begins — Indonesian shares rose 32 points, or 0.5%, to 6,070 in Monday’s morning session, building on gains from the prior session as softer U.S. jobs data lifted futures and eased pressure on the Fed to keep tightening. Bargain hunters continued to step in after local markets hit their lowest since mid-July. However, caution lingered ahead of key domestic releases this week, including September forex reserves, consumer sentiment, and August retail sales. Meanwhile, concerns persisted over Indonesia’s external vulnerabilities despite August’s trade surplus, with inflation risks growing after September CPI accelerated to 3.28%, edging closer to Bank Indonesia’s upper target band of 3-1/2%. In main trading partner China, markets remained shut for the Golden Week holiday, capping trading cues. Gains were broad across industry, transport, cyclicals, and basic materials. Early standouts included Rukun Raharja (7.8%), Kawasan Industri Jababeka (3.3%), Summarecon Agung (2.6%), and Jasa Marga (2.0%)."
-    },
-    {
-      "id": "5125568",
-      "time": "2026-10-05 10:35:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【截至二季度末資產管理產品總規模突破88萬億元】中國基金業協會最新發布的資料顯示，截至2026年二季度末，基金管理公司及其子公司、證券公司及其子公司、期貨公司及其資管子公司、私募基金管理機構資產管理產品總規模達88.37萬億元。"
     }
   ]
 }
