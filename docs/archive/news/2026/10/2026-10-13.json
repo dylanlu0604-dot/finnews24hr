@@ -1,7 +1,35 @@
 {
   "date": "2026-10-13",
-  "count": 147,
+  "count": 150,
   "items": [
+    {
+      "id": "5140037",
+      "time": "2026-10-13 02:11:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Bumble 正就估值 10 億美元的私有化交易進入深度談判。"
+    },
+    {
+      "id": "mkt:01a1314f-f8c5-7ee0-a841-826e6734198d",
+      "time": "2026-10-13 02:11:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense says danger in Riyadh has been lifted."
+    },
+    {
+      "id": "mkt:01a1314d-a37c-7ee0-a841-7c2cae5fa41e",
+      "time": "2026-10-13 02:08:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Loud explosions heard in Riyadh after air‑raid alert】On the evening of the 12th local time, residents in Riyadh's urban area received an air‑raid alert, followed by loud explosions."
+    },
     {
       "id": "5140036",
       "time": "2026-10-13 02:07:46",

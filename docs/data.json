@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-13 02:08:41",
-  "count": 10818,
+  "updated": "2026-10-13 02:12:30",
+  "count": 10819,
   "items": [
+    {
+      "id": "5140037",
+      "time": "2026-10-13 02:11:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Bumble 正就估值 10 億美元的私有化交易進入深度談判。"
+    },
+    {
+      "id": "mkt:01a1314f-f8c5-7ee0-a841-826e6734198d",
+      "time": "2026-10-13 02:11:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Civil Defense says danger in Riyadh has been lifted."
+    },
+    {
+      "id": "mkt:01a1314d-a37c-7ee0-a841-7c2cae5fa41e",
+      "time": "2026-10-13 02:08:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Loud explosions heard in Riyadh after air‑raid alert】On the evening of the 12th local time, residents in Riyadh's urban area received an air‑raid alert, followed by loud explosions."
+    },
     {
       "id": "5140036",
       "time": "2026-10-13 02:07:46",
@@ -98202,26 +98230,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Natural Gas UK Drops by 2.17% — Top commodity losers are Natural Gas UK (-2.17%), Natural Gas EU (-1.78%), Gasoline (-1.76%), Brent Oil (-1.21%) and Crude Oil (-1.15%). Gains are led by Propane (1.78%) and Heating Oil (1.08%)."
-    },
-    {
-      "id": "5126526",
-      "time": "2026-10-06 02:09:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部：各方商定的軍事力量與作戰能力將在沙烏地阿拉伯迅速部署。"
-    },
-    {
-      "id": "mkt:01a10d41-858a-7ee0-a7a8-96b36cad3e52",
-      "time": "2026-10-06 02:09:20",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Pakistan's foreign ministry said it has agreed to rapidly deploy military forces and capabilities to Saudi Arabia."
     }
   ]
 }
