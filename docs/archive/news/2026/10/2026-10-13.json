@@ -1,7 +1,77 @@
 {
   "date": "2026-10-13",
-  "count": 150,
+  "count": 157,
   "items": [
+    {
+      "id": "te:markets:591237",
+      "time": "2026-10-13 02:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Plunges by 7.16% — Top commodity losers are Methanol (-7.16%), Natural gas (-2.53%) and Coking Coal (-1.11%). Gains are led by Germany Natural Gas THE (4.96%), Natural Gas EU (3.40%), Natural Gas UK (3.18%), Crude Oil (2.35%) and Brent Oil (1.97%)."
+    },
+    {
+      "id": "mkt:01a13152-a8ef-7ee0-a841-9ea3b1ac708d",
+      "time": "2026-10-13 02:14:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Qatar set November OSPs: offshore crude at $8/bl discount to the Oman/Dubai benchmark and onshore crude at $7.50/bl discount, pricing documents show."
+    },
+    {
+      "id": "5140040",
+      "time": "2026-10-13 02:14:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍稱，其攔截摧毀了葉門胡塞武裝射向利雅得的彈道導彈。"
+    },
+    {
+      "id": "mkt:01a13152-2490-7ee0-a841-97703f09e62a",
+      "time": "2026-10-13 02:13:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "A Saudi-led coalition spokesman said forces intercepted and destroyed a ballistic missile fired at Riyadh by the Houthi armed terrorist group."
+    },
+    {
+      "id": "mkt:01a13151-bb16-7ee0-a841-8902b15d9046",
+      "time": "2026-10-13 02:13:22",
+      "tags": [
+        "MKT News",
+        "BMBL.O",
+        "Impact bearish"
+      ],
+      "text": "Wall Street Journal reports dating app Bumble is in advanced talks to go private at about $1 billion valuation."
+    },
+    {
+      "id": "5140039",
+      "time": "2026-10-13 02:12:32",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "卡達將 11 月海洋原油官方售價定為較阿曼 / 迪拜基準貼水 8 美元 / 桶；陸地原油官方售價定為較阿曼 / 迪拜基準貼水 7.5 美元 / 桶。"
+    },
+    {
+      "id": "5140038",
+      "time": "2026-10-13 02:12:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特當局表示威脅已解除。"
+    },
     {
       "id": "5140037",
       "time": "2026-10-13 02:11:55",
