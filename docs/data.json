@@ -1,7 +1,69 @@
 {
-  "updated": "2026-10-12 10:46:46",
+  "updated": "2026-10-12 10:50:30",
   "count": 10635,
   "items": [
+    {
+      "id": "5138420",
+      "time": "2026-10-12 10:49:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，颶風“西蒙”正緩慢移動至墨西哥中西部近海沿岸區域，破壞性大風與暴雨洪災的威脅仍將持續籠罩該國沿海地帶。"
+    },
+    {
+      "id": "5138419",
+      "time": "2026-10-12 10:49:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【無問芯穹完成23億元C輪融資，累計融資額達43億元】AI原生基礎設施企業無問芯穹宣佈完成C輪融資，本輪融資金額23億元，創立以來累計融資額達43億元，單輪及累計融資額均創下國內AI原生基礎設施賽道新高。（新浪科技）"
+    },
+    {
+      "id": "5138418",
+      "time": "2026-10-12 10:48:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內跌4%，現報9137.00元。"
+    },
+    {
+      "id": "5138417",
+      "time": "2026-10-12 10:48:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【陝西實施“兩業”融合發展行動計劃壯大實體經濟】記者從省發展改革委獲悉：《陝西省先進製造業和現代服務業融合發展行動計劃（2026—2028年）》日前由省發展改革委、省工信廳、省商務廳、省市場監管局、省統計局聯合印發實施，持續鞏固壯大陝西實體經濟根基。行動計劃從推動先進製造業拓展全鏈條服務、推動生產性服務業賦能製造業、構建“兩業”融合協同發展新格局3個方面著力。推動先進製造業拓展全鏈條服務方面，聚焦汽車、航空航天、成套裝備、醫療裝備、先進材料、消費品製造6個優勢產業，支援製造企業向系統整合和智慧裝備整體解決方案提供商轉型、原材料企業向產品及專業服務解決方案提供商轉型，引導消費品製造企業開展規模化、個性化、柔性化定製服務，發揮重點企業資源整合優勢帶動上下游企業強化協同配套、提升精益生產等能力；推動生產性服務業賦能製造業方面，瞄準數字智慧服務、研發技術服務、金融商務服務、綠色低碳服務4個方向，整合優質生產性服務資源，構建覆蓋製造業研發、生產、管理、改造的全方位支撐體系，推動企業開放共享服務資源，大力培育一批專業化生產性服務業主體，建設一站式綜合性公共服務平臺；構建“兩業”融合協同發展新格局方面，相關省級部門協同配合，健全完善統籌推進、統計監測等機制，加強政策保障，加力支援企業打造“兩業”融合創新場景、總結推廣先進模式，進一步壯大柔性定製、系統整合、全生命週期運維、檢驗檢測認證一體化等融合新業態，同時聚焦品牌賦能製造，系統培育區域公共品牌、產業叢集品牌、優質產品品牌，推動陝西地方標準、團體標準迭代升級、對外輸出，以標準化、品牌化服務牽引製造業轉型升級。（陝西釋出）"
+    },
+    {
+      "id": "te:markets:591039",
+      "time": "2026-10-12 10:47:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Shares Trade Lower After Recent Rally — Indonesian stocks fell 0.3% to 6,077 in Monday morning trade, easing after a prior rally as infrastructure, financials, and transport weighed. Sentiment turned cautious after U.S. President Donald Trump said he may join Saudi Arabia in retaliating against Tehran-backed Houthis following a deadly attack on Riyadh’s main airport over the weekend. Traders also vigilantly awaited CPI/PPI and trade data from main trading partner China due later this week as activity resumed after a major break. Locally, inflation risks stayed in focus after September figures hit a three-month high, with food prices expected to remain a key driver through year-end. Still, losses were limited by August retail sales, which posted their fastest growth in five months amid government measures to cushion households against cost pressures. Notable laggards included Gojek Tokopedia (-6.7%), XL Smart Telecom (-3.4%), Mitra Adiperkasa (-2.3%), and Indika Energy (-2.2%)."
+    },
+    {
+      "id": "5138416",
+      "time": "2026-10-12 10:47:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌2%，現報5148.00元。"
+    },
+    {
+      "id": "5138415",
+      "time": "2026-10-12 10:47:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：東山精密據悉評估最高30億美元香港上市需求，此前有訊息稱，東山精密已啟動香港上市預推介，可能募資約20億至30億美元。"
+    },
     {
       "id": "5138414",
       "time": "2026-10-12 10:45:13",
@@ -96720,74 +96782,6 @@
         "市場"
       ],
       "text": "歐元兌美元跌幅擴大至0.6%。"
-    },
-    {
-      "id": "mkt:01a109f7-427f-7ee0-a797-b07b9e5b3917",
-      "time": "2026-10-05 10:49:21",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "EUR/USD fell 0.50% intraday to 1.1194."
-    },
-    {
-      "id": "mkt:01a109f7-25ee-7ee0-a797-a9d09c9fb2bd",
-      "time": "2026-10-05 10:49:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's finance ministry plans to sell up to 361.2 bln baht of government bonds from October to December."
-    },
-    {
-      "id": "te:markets:589362",
-      "time": "2026-10-05 10:48:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Holds Steady as Traders Await Economic Data — The Japanese yen was little changed around 157.8 per dollar on Monday, remaining in a sideways range for roughly two weeks now as traders awaited a series of economic reports due this week. Key releases include August wage, current account and household spending data, along with September figures for consumer confidence and machine tool orders. Last week, a summary of opinions from the Bank of Japan’s September meeting pointed to a growing focus on preventing inflation from rising above the central bank’s 2% target, signaling the possibility of another rate increase this year but offering little clarity on its timing ahead of policy decisions in October and December. Meanwhile, the yen remained under pressure from a strong dollar and elevated Treasury yields, even as weaker-than-expected US jobs data reduced pressure on the Federal Reserve to raise interest rates further."
-    },
-    {
-      "id": "5125577",
-      "time": "2026-10-05 10:48:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國慶假期返程客流啟動，長三角鐵路今日預計傳送超380萬人次】從中國鐵路上海局集團有限公司獲悉，國慶假期第5天，長三角鐵路返程客流增多，出行客流維持高位，當天預計傳送旅客超380萬人次。10月4日，上鐵集團傳送旅客375.5萬人次。自9月23日中秋國慶假期運輸啟動以來，截至10月4日，長三角鐵路累計傳送旅客4098.9萬人次，日均傳送約341.6萬人次，假期客流持續處於高位執行。"
-    },
-    {
-      "id": "te:markets:589361",
-      "time": "2026-10-05 10:47:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Remains Subdued — The New Zealand dollar fell to around $0.559, hovering at its lowest level since November 2025, as continued strength in the US dollar weighed on the currency. The greenback rose despite a soft US jobs report on Friday, which tempered expectations for a Federal Reserve rate hike later this month. Meanwhile, elevated energy prices are threatening New Zealand’s already fragile economy, given the country’s reliance on imported energy. While the recent spike in oil prices raised upside risks to inflation and reinforced the case of further rate hikes from the Reserve Bank of New Zealand, it is also squeezing household purchasing power and increasing operating costs for businesses, potentially weakening domestic demand. Political uncertainty ahead of November’s general election has also added to pressure on the currency."
-    },
-    {
-      "id": "mkt:01a109f5-9832-7ee0-a797-a59f609a1eac",
-      "time": "2026-10-05 10:47:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【FAW Toyota denies reports it will exit market】Oct 5 — FAW Toyota said on its official Weibo account that a strategic cooperation framework agreement between China First Automobile Group (FAW Group) and Guangzhou Automobile Group (GAC) sparked market and consumer attention. The company, present in China for 23 years with a full product lineup, established production, sales and after-sales networks and tens of millions of vehicles in use, said production, sales and model refresh plans are proceeding as scheduled and it will leverage broader group resources to continue innovation. FAW Toyota said online claims that it will withdraw or that Toyota will make steep price cuts are false and the company reserves the right to pursue legal action."
-    },
-    {
-      "id": "5125576",
-      "time": "2026-10-05 10:47:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【今年以來我國投資結構最佳化持續推進】從國家統計局獲悉，今年以來，我國新質生產力領域投資延續年初以來的良好增長態勢，技術進步、產業升級等相關投資增速加快，重點領域投資較快增長，投資結構最佳化持續推進。資料顯示，新興產業快速成長，新質生產力領域投資活躍，高技術產業投資增速持續加快。1至8月份，高技術產業投資同比增長5.2%，增速比1至7月份加快0.2個百分點，拉動全部投資增長0.5個百分點。“科技創新投入持續強化，智慧財產權產品投資保持較快增長。1至8月份，全國智慧財產權產品投資同比增長9.2%，增速比1至7月份加快0.1個百分點。”國家統計局投資司相關負責人說。國家統計局新聞發言人王冠華表示，前八個月，新動能投資快速增長，不少領域投資增速有所加快，投資由過去側重規模擴張轉向更加註重科技創新、產業升級和基礎支撐，這種資金投向的最佳化正是推動高質量發展所期盼和需要的。“總的來看，我國投資結構呈現向新向優的發展態勢，投資質量和效益不斷提高。各類政策協同發力，有利於進一步激發和釋放投資潛力，以有效投資助力經濟社會高質量發展。”王冠華說。（新華社）"
     }
   ]
 }
