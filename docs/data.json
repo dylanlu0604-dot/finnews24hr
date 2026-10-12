@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-13 02:16:17",
-  "count": 10824,
+  "updated": "2026-10-13 02:20:08",
+  "count": 10813,
   "items": [
+    {
+      "id": "mkt:01a13155-3793-7ee0-a841-a43a58f8c779",
+      "time": "2026-10-13 02:17:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezai held talks with India's national security adviser Ajit Doval on recent regional and international developments and matters of mutual concern, state Mehr news agency reported."
+    },
+    {
+      "id": "5140041",
+      "time": "2026-10-13 02:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社報道雷扎伊與印度國家安全顧問通話。"
+    },
     {
       "id": "te:markets:591237",
       "time": "2026-10-13 02:15:18",
@@ -98157,130 +98173,6 @@
         "MKT News"
       ],
       "text": "Market sources: SpaceX (SPCX.O) plans to build a natural gas pipeline in Florida, US."
-    },
-    {
-      "id": "te:markets:589650",
-      "time": "2026-10-06 02:20:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Rises by 1.62% — Top commodity gainers are Platinum (1.62%), Copper (1.39%) and Silver (1.18%). Biggest loser is Gold (-0.11%)."
-    },
-    {
-      "id": "mkt:01a10d4b-381f-7ee0-a7a8-c48390487a13",
-      "time": "2026-10-06 02:19:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "MSFT.O"
-      ],
-      "text": "According to The Information, Meta Platforms (META.O) and Microsoft (MSFT.O) are working to reduce employees' reliance on ANTHROPIC's Claude."
-    },
-    {
-      "id": "5126533",
-      "time": "2026-10-06 02:19:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗學生通訊社（ISNA）：葉門胡塞武裝表示，曼德海峽、祖巴卜以及穆哈處於己方控制之下。"
-    },
-    {
-      "id": "5126532",
-      "time": "2026-10-06 02:18:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國 10 年期國債收益率最新上漲 6.59 個基點，報 5.343%，此前一度觸及 5.3493%，重新整理 24 年高點。"
-    },
-    {
-      "id": "mkt:01a10d49-d670-7ee0-a7a8-be535c75c070",
-      "time": "2026-10-06 02:18:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Amazon Web Services has launched an AWS Digital Sovereignty Perspective for its Well‑Architected Framework."
-    },
-    {
-      "id": "5126531",
-      "time": "2026-10-06 02:18:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Meta 與微軟正採取措施，讓員工逐步停用 Anthropic 的 Claude 模型。Meta 大力推廣自研內部 AI 工具，Claude Code 在公司內部的使用者數量已減半。"
-    },
-    {
-      "id": "mkt:01a10d49-954e-7ee0-a7a8-b2d8f3604dc8",
-      "time": "2026-10-06 02:18:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's foreign minister said Saudi Arabia has taken a very constructive stance in resolving the issue."
-    },
-    {
-      "id": "mkt:01a10d49-8094-7ee0-a7a8-ae81a31b26a6",
-      "time": "2026-10-06 02:18:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's foreign minister said Turkey, Saudi Arabia and Pakistan discussed possible measures to resolve issues peacefully through dialogue."
-    },
-    {
-      "id": "5126530",
-      "time": "2026-10-06 02:17:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其外長：土耳其、沙烏地阿拉伯與巴基斯坦還討論了可採取的舉措，以期透過對話和平解決該問題。 在麥加聯盟週一舉行的緊急會議上，討論了圍繞葉門問題為沙特的防務提供支援的相關辦法。"
-    },
-    {
-      "id": "mkt:01a10d49-1ff6-7ee0-a7a8-a6443e03ea43",
-      "time": "2026-10-06 02:17:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Turkey's foreign minister said Turkey, Saudi Arabia and Pakistan discussed ways to support Saudi Arabia's defense on the Yemen issue at a Mecca Alliance emergency meeting on Monday."
-    },
-    {
-      "id": "5126529",
-      "time": "2026-10-06 02:17:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其外長：沙烏地阿拉伯正以極具建設性的態度處理相關爭端。"
-    },
-    {
-      "id": "5126528",
-      "time": "2026-10-06 02:17:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯、土耳其和巴基斯坦同意在沙特境內提供並快速部署各方商定的部隊及軍事能力。"
-    },
-    {
-      "id": "5126527",
-      "time": "2026-10-06 02:16:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "AWS 宣佈推出適用於良好架構框架的數字主權專項評估工具。"
     }
   ]
 }

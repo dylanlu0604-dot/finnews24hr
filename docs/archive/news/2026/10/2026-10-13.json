@@ -1,7 +1,23 @@
 {
   "date": "2026-10-13",
-  "count": 157,
+  "count": 159,
   "items": [
+    {
+      "id": "mkt:01a13155-3793-7ee0-a841-a43a58f8c779",
+      "time": "2026-10-13 02:17:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezai held talks with India's national security adviser Ajit Doval on recent regional and international developments and matters of mutual concern, state Mehr news agency reported."
+    },
+    {
+      "id": "5140041",
+      "time": "2026-10-13 02:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社報道雷扎伊與印度國家安全顧問通話。"
+    },
     {
       "id": "te:markets:591237",
       "time": "2026-10-13 02:15:18",
