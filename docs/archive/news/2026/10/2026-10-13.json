@@ -1,7 +1,72 @@
 {
   "date": "2026-10-13",
-  "count": 617,
+  "count": 624,
   "items": [
+    {
+      "id": "te:economy:591292",
+      "time": "2026-10-13 09:19:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Government Bond Korea",
+        "Importance 1"
+      ],
+      "text": "South Korea 10Y Bond Yield Hits 6-week Low — South Korea 10 Year Government Bond Yield decreased to 4.28%, the lowest since August 2026. Over the past 4 weeks, South Korea 10Y Bond Yield lost 25.10 basis points, and in the last 12 months, it increased 141.60 basis points."
+    },
+    {
+      "id": "5140401",
+      "time": "2026-10-13 09:18:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "李在明：韓國在外交中必須避免“卑躬屈膝”的態度。"
+    },
+    {
+      "id": "5140398",
+      "time": "2026-10-13 09:17:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌2%，現報4853.00元。"
+    },
+    {
+      "id": "5140383",
+      "time": "2026-10-13 09:16:19",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【晶片股拖累韓國Kospi指數下挫】隨著對競爭以及AI股已漲得太高的擔憂加劇，三星電子和SK海力士股價延續跌勢。這兩隻股票週二雙雙下跌超過5%，邁向五連跌；美國晶片製造商股價隔夜也下挫，美光科技跌3.9%。韓國基準指數KOSPI亦下跌逾5%。當地時間上午9:47，在Kospi 200指數期貨下跌逾5%後，韓國交易所還啟動了所謂的sidecar機制，暫停Kospi程式化賣盤5分鐘。與此同時，博通CEO有關AI股投資有賭博性質的言論，加劇了市場擔憂。韓國晶片製造商“的估值和股價似乎正在受到景氣週期能否持續到2028年及以後的不確定性拖累，”Eugene Asset Management首席投資官Ha SeokKeun稱。"
+    },
+    {
+      "id": "5140381",
+      "time": "2026-10-13 09:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：國家利益應是外交中的首要考量。"
+    },
+    {
+      "id": "mkt:01a132d4-75f4-7ee0-a846-661c09a3f602",
+      "time": "2026-10-13 09:15:46",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.26% at 24,182, trading 89 points below the cash index."
+    },
+    {
+      "id": "5140378",
+      "time": "2026-10-13 09:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7298元，較上日調高15點。"
+    },
     {
       "id": "5140376",
       "time": "2026-10-13 09:15:03",

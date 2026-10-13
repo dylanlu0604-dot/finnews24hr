@@ -1,7 +1,72 @@
 {
-  "updated": "2026-10-13 09:15:40",
-  "count": 10923,
+  "updated": "2026-10-13 09:19:26",
+  "count": 10927,
   "items": [
+    {
+      "id": "te:economy:591292",
+      "time": "2026-10-13 09:19:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Government Bond Korea",
+        "Importance 1"
+      ],
+      "text": "South Korea 10Y Bond Yield Hits 6-week Low — South Korea 10 Year Government Bond Yield decreased to 4.28%, the lowest since August 2026. Over the past 4 weeks, South Korea 10Y Bond Yield lost 25.10 basis points, and in the last 12 months, it increased 141.60 basis points."
+    },
+    {
+      "id": "5140401",
+      "time": "2026-10-13 09:18:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "李在明：韓國在外交中必須避免“卑躬屈膝”的態度。"
+    },
+    {
+      "id": "5140398",
+      "time": "2026-10-13 09:17:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌2%，現報4853.00元。"
+    },
+    {
+      "id": "5140383",
+      "time": "2026-10-13 09:16:19",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【晶片股拖累韓國Kospi指數下挫】隨著對競爭以及AI股已漲得太高的擔憂加劇，三星電子和SK海力士股價延續跌勢。這兩隻股票週二雙雙下跌超過5%，邁向五連跌；美國晶片製造商股價隔夜也下挫，美光科技跌3.9%。韓國基準指數KOSPI亦下跌逾5%。當地時間上午9:47，在Kospi 200指數期貨下跌逾5%後，韓國交易所還啟動了所謂的sidecar機制，暫停Kospi程式化賣盤5分鐘。與此同時，博通CEO有關AI股投資有賭博性質的言論，加劇了市場擔憂。韓國晶片製造商“的估值和股價似乎正在受到景氣週期能否持續到2028年及以後的不確定性拖累，”Eugene Asset Management首席投資官Ha SeokKeun稱。"
+    },
+    {
+      "id": "5140381",
+      "time": "2026-10-13 09:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：國家利益應是外交中的首要考量。"
+    },
+    {
+      "id": "mkt:01a132d4-75f4-7ee0-a846-661c09a3f602",
+      "time": "2026-10-13 09:15:46",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.26% at 24,182, trading 89 points below the cash index."
+    },
+    {
+      "id": "5140378",
+      "time": "2026-10-13 09:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7298元，較上日調高15點。"
+    },
     {
       "id": "5140376",
       "time": "2026-10-13 09:15:03",
@@ -99136,36 +99201,6 @@
         "CNH"
       ],
       "text": "【Shift from single-network construction to system networking to boost six-network infrastructure efficiency】The Investment Department of the National Development and Reform Commission said China’s current six-networks push is moving from ‘single-point’ buildouts to system-level networking to unlock multiplier effects across water, new power grids, compute, next-generation communications, urban underground utilities and logistics networks. The aim is demand integration and resource sharing so investment yields whole-system gains rather than a simple sum of single networks. Remaining frictions include non‑uniform technical standards, weak cross‑entity coordination and unclear revenue-sharing. The NDRC plans to tackle these by establishing unified technical standards and data interfaces to enable facility sharing and data interoperability; improving market-based coordination, clarifying cross-network roles and revenue allocation and supporting corporate consortia in integrated projects; and running regional integrated pilots in major city clusters to develop replicable models before national rollout."
-    },
-    {
-      "id": "te:economy:589693",
-      "time": "2026-10-06 09:19:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Philippines Inflation Rate Jumps to 7.2% — The annual inflation rate in the Philippines accelerated to 7.2% in September 2026 from 6.1% in August, overshooting forecasts of 6.6% and matching April’s three-year high. Main upward pressure came from transport inflation, which rose to 14.6% from 13.5%, while housing, water, electricity, gas and other fuels increased to 8.4% from 7.9%, as the country’s heavy reliance on Middle Eastern oil left it particularly exposed to higher energy costs amid the regional conflict. Food and non-alcoholic beverage inflation also rose to 6.7% from 4.6%, while inflation for restaurants and accommodation services rose to 7% from 6.8%. Meanwhile, core inflation jumped to 4.7%, the highest since November 2023, above the expected 4.4% and up from 4.1% in August. On a monthly basis, consumer prices rose 1%, the most since April, exceeding expectations and August’s 0.6% growth."
-    },
-    {
-      "id": "5127691",
-      "time": "2026-10-06 09:17:39",
-      "tags": [
-        "公司",
-        "國際",
-        "原創"
-      ],
-      "text": "【特斯拉連續八個月蟬聯韓國進口車銷量冠軍】特斯拉在9月份連續第八個月成為韓國銷量最高的進口乘用車品牌。據韓國汽車進口商和分銷商協會（KAIDA）統計，上個月韓國新註冊進口乘用車總數為34904輛，同比增長6.3%。特斯拉以12372輛的銷量領跑市場，自2月以來一直穩居榜首。寶馬以6066輛位居第二，緊隨其後的是梅賽德斯賓士（5477輛）和比亞迪（2614輛）。"
-    },
-    {
-      "id": "5127690",
-      "time": "2026-10-06 09:16:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮釋出有關柴油緊急稅收減免的命令。"
     }
   ]
 }
