@@ -1,7 +1,41 @@
 {
   "date": "2026-10-13",
-  "count": 1634,
+  "count": 1638,
   "items": [
+    {
+      "id": "5142728",
+      "time": "2026-10-13 22:58:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本記者涉嫌間諜活動在俄被拘】最新訊息：據國際文傳電訊社今天（10月13日）報道，俄羅斯聯邦安全域性證實，一名日本記者因“涉嫌從事間諜活動”在莫斯科被拘留。（CCTV國際時訊）"
+    },
+    {
+      "id": "5142727",
+      "time": "2026-10-13 22:58:05",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通財報及分析師電話會議要點總結】1、美國最大銀行摩根大通公佈營收為502億美元，淨利潤為153億美元，兩項資料均低於分析師預期。2、這主要受固定收益交易收入同比下滑4%拖累；而股票交易收入同比大增49%，創歷史第二高季度表現，主要得益於服務對沖基金客戶的主經紀商業務強勁。3、該行上調2026財年全年指引，將淨利息收入上調至1062億美元，支出上調至1086億美元。4、分析師尤其關注該行如何看待智慧體AI（agentic AI）以及在該技術上的投入。銀行高管表示，該行目前的重心是保護客戶安全，但同時也在花大量時間思考如何應用AI智慧體。5、執行長傑米·戴蒙表示，該行正在“略微收緊信貸標準”，並稱部分信貸條款已經變得“過於寬鬆”。他表示，該行覺得自己不必再去“追逐這類業務”。"
+    },
+    {
+      "id": "mkt:01a135c4-9dd0-7ee0-a85b-1606086c207c",
+      "time": "2026-10-13 22:57:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【California 5% one‑time billionaire wealth tax faces intense fight as opponents raise $318m】A political group funded by Google co‑founder Sergey Brin and other billionaires, Building a Better California, has raised about $318m since its formation earlier this year, including a $21m donation disclosed Saturday. Most of the funds are being deployed to oppose Proposition 40, which would impose a one‑time 5% wealth tax on California billionaires; the group expects to reach roughly $350m in fundraising by election day. The large spending has intensified one of the costliest U.S. political fights this cycle, split California Democrats and is being used to run heavy TV and digital ad campaigns as polls show the race close with under a month to go."
+    },
+    {
+      "id": "mkt:01a135c3-767c-7ee0-a85b-0c62b6c5d10a",
+      "time": "2026-10-13 22:56:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hyundai Motor Group to invest $15.5 bln in India over next six years】Hyundai Motor Group pledged to invest $15.5 billion in India by 2032, designating the market as a core strategic growth engine. The company said the investment will cover expanded manufacturing capacity, R&D, infrastructure, deepening the local supplier ecosystem and technology development."
+    },
     {
       "id": "5142726",
       "time": "2026-10-13 22:54:06",
