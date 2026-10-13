@@ -1,7 +1,75 @@
 {
   "date": "2026-10-13",
-  "count": 1007,
+  "count": 1015,
   "items": [
+    {
+      "id": "mkt:01a1340e-44ab-7ee0-a84f-c6851b5e6189",
+      "time": "2026-10-13 14:58:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Bond ETF turnover hits record 340.2 bln yuan】Bond ETF turnover reached a record 340.2 bln yuan today, edging past the prior high of 340.1 bln yuan on Jan. 15, 2026. Top three by turnover: short-term debt ETF (511360) 69.5 bln yuan; corporate-bond ETF (511070) 20.2 bln yuan, marking a second consecutive day of record turnover; sci‑tech bond ETF (551520) 16.5 bln yuan."
+    },
+    {
+      "id": "5141420",
+      "time": "2026-10-13 14:58:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【債券型ETF成交額創歷史新高記錄】債券型ETF成交額今日突破3402億元，重新整理歷史新高記錄，此前最高記錄為2026年1月15日的3401億元，今日債券型ETF成交榜前三分別為：短融ETF海富通（511360）成交額為695億元，公司債ETF南方（511070）成交額為202億元，連續兩日重新整理成交額記錄，科創債ETF匯添富（551520）成交額為165億元。"
+    },
+    {
+      "id": "5141419",
+      "time": "2026-10-13 14:58:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東家政釋出標準化培訓體系 每年創造10萬就業機會】10月12日，京東家政與上海共建的行業首個“智慧家庭服務實訓中心”正式啟用。該中心聚焦數智化家庭服務，建設日常保潔、家電清洗、整理收納、母嬰護理、養老照護、寵物服務等實訓區域，將人機協同融入家政技能培訓，並透過AI服務報告、智慧考核體系、資料採集系統等數智培訓實踐，讓專業經驗產生新的價值。對趙玲來說，這不僅是一次技能培訓，更是職業的底氣，“來這裡培訓後，我去客戶家裡服務都更有自信了”。截至目前，京東家政全國培訓基地年培訓人次超20萬，每年創造10萬個就業機會。"
+    },
+    {
+      "id": "5141418",
+      "time": "2026-10-13 14:58:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：黑海已成為俄羅斯對烏戰爭局勢升級的又一前沿。這是不可接受的。"
+    },
+    {
+      "id": "mkt:01a1340d-398f-7ee0-a84f-bc9fc943c6a6",
+      "time": "2026-10-13 14:57:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Hua Microelectronics to focus on power semiconductors over next five years】Hua Microelectronics said at its Oct. 13, 2026 interim results briefing that its eight‑inch wafer line is expanding on schedule and is running at full production and sales with high capacity utilization. Silicon carbide (SiC) PM modules are still in development; SiC IPM modules have entered small‑volume sales. Over the next five years the company will prioritize power semiconductors and related industries, targeting IGBT, MOSFET, diode and wide‑bandgap product lines and accelerating construction of chip and packaging production lines."
+    },
+    {
+      "id": "5141417",
+      "time": "2026-10-13 14:56:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華微電子：未來五年將聚焦功率半導體及相關產業】華微電子在10月13日召開的2026年半年度業績說明會上表示，目前公司八英寸線按照計劃正常擴產，處於滿產滿銷的狀態，產能利用率處於較高水平。SiC PM模組目前還在開發中，SiC IPM模組已經開始小批次銷售。未來五年，公司將主要聚焦功率半導體及相關產業，核心產品覆蓋IGBT、MOSFET、二極體類及寬禁帶半導體等方面；同時將加大晶片和封裝生產線的建設。"
+    },
+    {
+      "id": "5141416",
+      "time": "2026-10-13 14:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Character.AI申請破產重組，同意向迪士尼出售部分資產】Character.AI當地時間10月12日宣佈，已在美國根據破產法第11章申請破產重組，並同意以2000萬美元的價格將部分資產出售給華特迪士尼。法庭檔案顯示，Character.AI列出的預估資產和負債規模均在5000萬美元至1億美元之間。"
+    },
+    {
+      "id": "5141415",
+      "time": "2026-10-13 14:55:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【風電裝置板塊尾盤再度走弱，大金重工跌停】風電裝置板塊尾盤再度走弱，大金重工跌停，海力風電、德力佳跌超9%，新強聯、天能重工跟跌。"
+    },
     {
       "id": "5141414",
       "time": "2026-10-13 14:54:37",

@@ -1,7 +1,75 @@
 {
-  "updated": "2026-10-13 14:55:14",
-  "count": 10951,
+  "updated": "2026-10-13 14:59:02",
+  "count": 10956,
   "items": [
+    {
+      "id": "mkt:01a1340e-44ab-7ee0-a84f-c6851b5e6189",
+      "time": "2026-10-13 14:58:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Bond ETF turnover hits record 340.2 bln yuan】Bond ETF turnover reached a record 340.2 bln yuan today, edging past the prior high of 340.1 bln yuan on Jan. 15, 2026. Top three by turnover: short-term debt ETF (511360) 69.5 bln yuan; corporate-bond ETF (511070) 20.2 bln yuan, marking a second consecutive day of record turnover; sci‑tech bond ETF (551520) 16.5 bln yuan."
+    },
+    {
+      "id": "5141420",
+      "time": "2026-10-13 14:58:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【債券型ETF成交額創歷史新高記錄】債券型ETF成交額今日突破3402億元，重新整理歷史新高記錄，此前最高記錄為2026年1月15日的3401億元，今日債券型ETF成交榜前三分別為：短融ETF海富通（511360）成交額為695億元，公司債ETF南方（511070）成交額為202億元，連續兩日重新整理成交額記錄，科創債ETF匯添富（551520）成交額為165億元。"
+    },
+    {
+      "id": "5141419",
+      "time": "2026-10-13 14:58:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東家政釋出標準化培訓體系 每年創造10萬就業機會】10月12日，京東家政與上海共建的行業首個“智慧家庭服務實訓中心”正式啟用。該中心聚焦數智化家庭服務，建設日常保潔、家電清洗、整理收納、母嬰護理、養老照護、寵物服務等實訓區域，將人機協同融入家政技能培訓，並透過AI服務報告、智慧考核體系、資料採集系統等數智培訓實踐，讓專業經驗產生新的價值。對趙玲來說，這不僅是一次技能培訓，更是職業的底氣，“來這裡培訓後，我去客戶家裡服務都更有自信了”。截至目前，京東家政全國培訓基地年培訓人次超20萬，每年創造10萬個就業機會。"
+    },
+    {
+      "id": "5141418",
+      "time": "2026-10-13 14:58:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：黑海已成為俄羅斯對烏戰爭局勢升級的又一前沿。這是不可接受的。"
+    },
+    {
+      "id": "mkt:01a1340d-398f-7ee0-a84f-bc9fc943c6a6",
+      "time": "2026-10-13 14:57:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Hua Microelectronics to focus on power semiconductors over next five years】Hua Microelectronics said at its Oct. 13, 2026 interim results briefing that its eight‑inch wafer line is expanding on schedule and is running at full production and sales with high capacity utilization. Silicon carbide (SiC) PM modules are still in development; SiC IPM modules have entered small‑volume sales. Over the next five years the company will prioritize power semiconductors and related industries, targeting IGBT, MOSFET, diode and wide‑bandgap product lines and accelerating construction of chip and packaging production lines."
+    },
+    {
+      "id": "5141417",
+      "time": "2026-10-13 14:56:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華微電子：未來五年將聚焦功率半導體及相關產業】華微電子在10月13日召開的2026年半年度業績說明會上表示，目前公司八英寸線按照計劃正常擴產，處於滿產滿銷的狀態，產能利用率處於較高水平。SiC PM模組目前還在開發中，SiC IPM模組已經開始小批次銷售。未來五年，公司將主要聚焦功率半導體及相關產業，核心產品覆蓋IGBT、MOSFET、二極體類及寬禁帶半導體等方面；同時將加大晶片和封裝生產線的建設。"
+    },
+    {
+      "id": "5141416",
+      "time": "2026-10-13 14:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Character.AI申請破產重組，同意向迪士尼出售部分資產】Character.AI當地時間10月12日宣佈，已在美國根據破產法第11章申請破產重組，並同意以2000萬美元的價格將部分資產出售給華特迪士尼。法庭檔案顯示，Character.AI列出的預估資產和負債規模均在5000萬美元至1億美元之間。"
+    },
+    {
+      "id": "5141415",
+      "time": "2026-10-13 14:55:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【風電裝置板塊尾盤再度走弱，大金重工跌停】風電裝置板塊尾盤再度走弱，大金重工跌停，海力風電、德力佳跌超9%，新強聯、天能重工跟跌。"
+    },
     {
       "id": "5141414",
       "time": "2026-10-13 14:54:37",
@@ -99377,35 +99445,6 @@
         "其他"
       ],
       "text": "土耳其逮捕伊斯坦布林埃於普蘇丹區區長。"
-    },
-    {
-      "id": "te:economy:589772",
-      "time": "2026-10-06 14:57:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Industrial Production Mom",
-        "Importance 2"
-      ],
-      "text": "France Industrial Output Surprisingly Falls — Industrial production in France fell 0.3% month-on-month in August 2026, defying expectations for a 0.3% rise and following a 0.6% decline in July. The drop was mainly driven by a 2.4% decline in extractive industries, energy and water, which more than offset a 0.3% increase in manufacturing. The energy decline was largely due to lower electricity production after output reached its highest level since December 2021 in July. Within manufacturing, output of other industrial products rose 1.2%, while electrical, electronic and computer equipment increased 0.9%. Coking and refining output also rose 3.3%. In contrast, transport equipment manufacturing fell 2.2%, while agri-food production dropped 1.2%. On a yearly basis, industrial output rose 0.3%, rebounding from a 0.6% fall in July. Over the three months to August, industrial production was down 0.1% from a year earlier."
-    },
-    {
-      "id": "5128121",
-      "time": "2026-10-06 14:57:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Reflection AI正式釋出Beam 對標主流開源模型】Reflection AI正式推出其首款前沿開源權重模型Beam。這家成立兩年、總部位於布魯克林的初創企業稱，Beam在高階推理基準測試上效能對標主流開源模型，同時成本大幅降低。企業週一在一篇長篇部落格中披露更多細節，稱Beam為純文字混合專家模型，基於高算力強化學習訓練，在推理、程式碼編寫與智慧體任務上具備出色能力，“token成本與推理算力僅為競品的一小部分”。Beam總引數量5010億，啟用引數量230億。預訓練使用23.8萬億token，上下文視窗達100萬token。Reflection宣稱的效能尚未經過獨立驗證，但該公司表示，在高階推理基準測試中，Beam得分與Z.ai的GLM-5.2相當，且優於當前主流西方開源模型，同時推理算力消耗“低3至4倍”。Reflection將其定位為面向企業、公共部門與開發者的“主力模型”。"
-    },
-    {
-      "id": "mkt:01a10fff-16a9-7ee0-a7b1-9f97f111cdcb",
-      "time": "2026-10-06 14:55:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【OpenAI apologizes for AI model intrusion into Australian government website, vows faster disclosure】OpenAI chief strategy officer Jason Kwon apologized Tuesday for an AI model’s intrusion into an Australian government website and pledged faster responses and steps to prevent recurrence. The company said it discovered the intrusion in Aug. and notified the Australian government on Sept. 10 after verifying and investigating which information had been accessed. Kwon said OpenAI is improving internal processes and has added monitoring during model training so systems will alert and pause training if a model improperly accesses the internet. He said the company supports governments implementing mandatory major-incident reporting."
     }
   ]
 }
