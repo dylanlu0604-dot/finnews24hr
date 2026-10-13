@@ -1,7 +1,58 @@
 {
   "date": "2026-10-14",
-  "count": 311,
+  "count": 316,
   "items": [
+    {
+      "id": "5143103",
+      "time": "2026-10-14 04:31:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美位於達蘭的總部在週二胡塞武裝襲擊中遭擊中。"
+    },
+    {
+      "id": "mkt:01a136f6-6a86-7ee0-a862-22a3db0a6e15",
+      "time": "2026-10-14 04:31:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi-led coalition said it intercepted and destroyed a drone in the Riyadh area."
+    },
+    {
+      "id": "mkt:01a136f5-9502-7ee0-a862-1df22f444779",
+      "time": "2026-10-14 04:30:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【COLLINS: Further rate hikes this year may be needed; watch for inflation broadening】Boston Fed President COLLINS said policy rates may need to rise further before year-end to curb inflation, and any additional hikes and timing will depend on incoming economic data. She expects US growth to continue and the labor market to remain near full employment; under that baseline, productivity gains should help rebalance demand and supply and bring inflation toward 2%. She warned two other scenarios are nearly as likely: AI-driven investment could spur stronger-than-expected spending, overheating the labor market and keeping inflation above target; and tariffs or higher energy prices—especially if conflict involving Iran continues—could sustain price pressure. COLLINS said it is important to watch whether high inflation remains concentrated in energy and AI-infrastructure sectors or begins to broaden."
+    },
+    {
+      "id": "5143102",
+      "time": "2026-10-14 04:29:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特領導的聯軍：在利雅得攔截並摧毀一架無人機。"
+    },
+    {
+      "id": "5143101",
+      "time": "2026-10-14 04:29:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：根據我們的情報，俄羅斯正在準備新的導彈發射。事實表明，俄羅斯並不認為自己需要遵守美國總統此前提出的要求。"
+    },
     {
       "id": "te:markets:591612",
       "time": "2026-10-14 04:28:38",
