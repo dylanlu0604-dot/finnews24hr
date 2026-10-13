@@ -1,7 +1,54 @@
 {
-  "updated": "2026-10-13 08:56:31",
-  "count": 10913,
+  "updated": "2026-10-13 09:00:36",
+  "count": 10906,
   "items": [
+    {
+      "id": "mkt:01a132c5-810b-7ee0-a846-197dfd2a2835",
+      "time": "2026-10-13 08:59:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Reserve Bank of Australia minutes: inflation still upside risk; fifth hike this year not ruled out】Minutes of the Reserve Bank of Australia (RBA) Sep. 28–29 meeting, published Tuesday, show the board briefly considered leaving the cash rate unchanged but then voted unanimously to raise it to 4.6%. The minutes point to stronger-than-expected domestic demand and a spike in oil prices from the Middle East conflict that has increased global cost pressures. The board said timely action was needed to stabilise inflation expectations, noting financial conditions are restrictive but only modestly so. Given excess domestic demand and higher global energy costs, the RBA judged inflation may prove more persistent and said a fifth rate increase this year remains possible if required."
+    },
+    {
+      "id": "5140334",
+      "time": "2026-10-13 08:59:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪美新材在佛山成立新材料公司】企查查APP顯示，近日，佛山喜得新材料有限公司成立，經營範圍包含新材料技術研發；新材料技術推廣服務；新型金屬功能材料銷售。企查查股權穿透顯示，該公司由豪美新材全資持股。"
+    },
+    {
+      "id": "5140333",
+      "time": "2026-10-13 08:58:47",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗稱，MSCI可能會維持印尼的新興市場地位，但可能會將指數凍結期延長至明年。"
+    },
+    {
+      "id": "5140332",
+      "time": "2026-10-13 08:58:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月12日202股獲融資買入超億元 中際旭創穫買入12.73億元居首】10月12日共有3527只個股獲融資資金買入，有202股買入金額超億元。其中，中際旭創、長鑫科技、寒武紀融資買入金額排名前三，分別獲買入12.73億元、9.62億元、8.98億元。"
+    },
+    {
+      "id": "5140331",
+      "time": "2026-10-13 08:56:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通和高盛降低對AI雲初創公司Volta 50億美元貸款交易的風險敞口】隨著投資者對與人工智慧(AI)熱潮相關的高風險債務提出更高收益率要求，摩根大通和高盛在為AI初創公司Volta Infrastructure Holdings Ltd.安排50億美元貸款交易時，罕見地採取措施限制自身風險敞口。這兩家銀行正牽頭為新興AI雲公司Volta安排貸款融資。據知情人士透露，兩家銀行為Volta承銷了其中13億美元的定期貸款，而未承銷另外37億美元晶片貸款，旨在降低潛在風險。Volta的債務融資收益率約為11%，是目前AI融資領域流行的槓桿貸款市場中最高的借貸成本之一。值得注意的是，該交易未獲評級，這通常會讓此類債務的最大買家貸款抵押債券(CLO)卻步。知情人士還表示，為AI熱潮提供融資，尤其是幫助那些新成立或商業模式尚未經過市場檢驗的企業融資時，銀行往往需要在槓桿融資市場採用非常規的承銷結構。他們補充說，銀行正試圖規避潛在風險，確保不會陷入被動局面。"
+    },
     {
       "id": "5140330",
       "time": "2026-10-13 08:55:47",
@@ -98973,113 +99020,6 @@
         "CNH"
       ],
       "text": "FTSE China A50 index futures opened 0.34% higher."
-    },
-    {
-      "id": "5127427",
-      "time": "2026-10-06 09:00:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：可能會很快開始扭轉債務曲線。"
-    },
-    {
-      "id": "mkt:01a10eb9-de73-7ee0-a7ab-b098ef957066",
-      "time": "2026-10-06 09:00:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D opened 1.37% higher at 906.8 yuan/gram on Oct. 6 (Tuesday); silver T+D opened 0.67% higher at 14,890 yuan/kg."
-    },
-    {
-      "id": "5127426",
-      "time": "2026-10-06 09:00:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數開盤變動不大，報報49,736.37。"
-    },
-    {
-      "id": "5127425",
-      "time": "2026-10-06 09:00:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我認為第三季度增長率將超過3%。"
-    },
-    {
-      "id": "5127424",
-      "time": "2026-10-06 09:00:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4150美元/盎司，日內漲0.24%。"
-    },
-    {
-      "id": "5127423",
-      "time": "2026-10-06 09:00:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：我認為第三季度增長率將超過3%。"
-    },
-    {
-      "id": "5127422",
-      "time": "2026-10-06 08:59:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：繼承了“鉅額債務”。"
-    },
-    {
-      "id": "te:markets:589689",
-      "time": "2026-10-06 08:59:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Falls for Third Session — US gasoline futures fell to around $3.30 per gallon, declining for the third straight session, pressured by seasonal weakness in fuel demand and the G7’s planned release of emergency oil and diesel reserves. The release will be coordinated by the International Energy Agency over the next four months. The broader refined-products complex also faced pressure after President Trump signed an executive order expanding access to tax-exempt diesel. Meanwhile, gasoline pump prices have eased from recent peaks as demand weakens following the end of the summer driving season. Nevertheless, global fuel markets remain tight as EIA data showed US gasoline inventories fell by 1.7 million barrels in the week ended September 25, while refinery utilization stood at 92.5%. Russia extended restrictions on most diesel exports through October, although it is considering a partial lift amid balanced domestic supplies. China also suspended some oil-product exports for October."
-    },
-    {
-      "id": "5127421",
-      "time": "2026-10-06 08:59:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞陸軍訓練事故1死5傷 】據澳大利亞國防部今天（10月6日）通報，一名澳大利亞陸軍士兵10月5日在澳大利亞北領地參加訓練時死亡，另有5名士兵受傷。澳大利亞國防部的通報未披露事故具體原因。"
-    },
-    {
-      "id": "5127420",
-      "time": "2026-10-06 08:58:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【加拿大魁北克分離主義政黨贏得選舉，卡尼政府迎來新挑戰】加拿大魁北克選民十餘年來首次選出分離主義政黨執政，這將令該省與馬克・卡尼總理領導的聯邦政府關係更加緊張，並且可能最終舉行魁北克脫離加拿大的獨立公投。加拿大廣播公司在蒙特利爾時間週一晚 8:40 前不久宣佈，魁北克人黨贏得省選舉。目前尚不確定魁北克人黨能否拿下省議會 127 個席位中的多數席位，從而無需小政黨支援即可主導議事議程。49 歲、曾為律師的魁北克人黨領袖保羅・聖皮埃爾・普拉蒙東將出任這個法語省份的新任省長。他承諾，將在首個四年任期內發起獨立公投，但不會在美國總統特朗普卸任之前舉行。普拉蒙東在近期電視辯論中表示：“我們剛剛經歷的與美方之間前所未有的局面，特朗普政府的所作所為讓人無法接受，當下的環境並不適合冷靜思考我們的未來。”這將是魁北克省歷史上第三次獨立公投。上一次 1995 年公投中，支援主權獨立的贊成票僅差 1 個多百分點惜敗。"
-    },
-    {
-      "id": "mkt:01a10eb8-0805-7ee0-a7ab-a91a1f3c084f",
-      "time": "2026-10-06 08:58:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Vietnam extends fuel tax waivers to year-end to counter energy supply disruption】Vietnam has extended tax exemptions on environmental levies, aviation fuel, VAT and import duties through Dec. 31 to offset global energy-supply disruptions from the Middle East conflict and to help cap fuel prices and curb Q4 inflation, the finance ministry said. The measures will cost the government VND138 trillion (about $530m) and are intended to lower transport, logistics and production costs; officials added the economy must grow at least 12.5% in Q4 to meet an ambitious 10% growth target for 2026, highlighting the policy trade-off between supporting activity and containing inflation."
-    },
-    {
-      "id": "5127419",
-      "time": "2026-10-06 08:57:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【最新籌碼大幅變動股名單出爐】 據統計，約有650只個股公佈了9月20日股東戶數，與上期（9月10日）相比，股東戶數下降的有346股，其中股東戶數降幅超10%的有13股；股東戶數增長超10%的也有13股。相比之前各期，有近60只個股股東戶數連續減少3期以上，股東戶數最多已連降19期。也就是說籌碼呈持續集中趨勢。從機構動向看，股東戶數連降股中，近一個月獲機構調研的有9只，機構調研次數較為頻繁的有中航西飛、歐普康視等，其間分別獲機構調研4次、3次；從機構調研家數看，機構較為扎堆的是崇達技術、中航西飛，均有不低於30家機構參與調研。（ 證券時報 ）"
     }
   ]
 }

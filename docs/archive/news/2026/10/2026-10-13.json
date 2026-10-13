@@ -1,7 +1,54 @@
 {
   "date": "2026-10-13",
-  "count": 573,
+  "count": 578,
   "items": [
+    {
+      "id": "mkt:01a132c5-810b-7ee0-a846-197dfd2a2835",
+      "time": "2026-10-13 08:59:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Reserve Bank of Australia minutes: inflation still upside risk; fifth hike this year not ruled out】Minutes of the Reserve Bank of Australia (RBA) Sep. 28–29 meeting, published Tuesday, show the board briefly considered leaving the cash rate unchanged but then voted unanimously to raise it to 4.6%. The minutes point to stronger-than-expected domestic demand and a spike in oil prices from the Middle East conflict that has increased global cost pressures. The board said timely action was needed to stabilise inflation expectations, noting financial conditions are restrictive but only modestly so. Given excess domestic demand and higher global energy costs, the RBA judged inflation may prove more persistent and said a fifth rate increase this year remains possible if required."
+    },
+    {
+      "id": "5140334",
+      "time": "2026-10-13 08:59:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪美新材在佛山成立新材料公司】企查查APP顯示，近日，佛山喜得新材料有限公司成立，經營範圍包含新材料技術研發；新材料技術推廣服務；新型金屬功能材料銷售。企查查股權穿透顯示，該公司由豪美新材全資持股。"
+    },
+    {
+      "id": "5140333",
+      "time": "2026-10-13 08:58:47",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗稱，MSCI可能會維持印尼的新興市場地位，但可能會將指數凍結期延長至明年。"
+    },
+    {
+      "id": "5140332",
+      "time": "2026-10-13 08:58:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10月12日202股獲融資買入超億元 中際旭創穫買入12.73億元居首】10月12日共有3527只個股獲融資資金買入，有202股買入金額超億元。其中，中際旭創、長鑫科技、寒武紀融資買入金額排名前三，分別獲買入12.73億元、9.62億元、8.98億元。"
+    },
+    {
+      "id": "5140331",
+      "time": "2026-10-13 08:56:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通和高盛降低對AI雲初創公司Volta 50億美元貸款交易的風險敞口】隨著投資者對與人工智慧(AI)熱潮相關的高風險債務提出更高收益率要求，摩根大通和高盛在為AI初創公司Volta Infrastructure Holdings Ltd.安排50億美元貸款交易時，罕見地採取措施限制自身風險敞口。這兩家銀行正牽頭為新興AI雲公司Volta安排貸款融資。據知情人士透露，兩家銀行為Volta承銷了其中13億美元的定期貸款，而未承銷另外37億美元晶片貸款，旨在降低潛在風險。Volta的債務融資收益率約為11%，是目前AI融資領域流行的槓桿貸款市場中最高的借貸成本之一。值得注意的是，該交易未獲評級，這通常會讓此類債務的最大買家貸款抵押債券(CLO)卻步。知情人士還表示，為AI熱潮提供融資，尤其是幫助那些新成立或商業模式尚未經過市場檢驗的企業融資時，銀行往往需要在槓桿融資市場採用非常規的承銷結構。他們補充說，銀行正試圖規避潛在風險，確保不會陷入被動局面。"
+    },
     {
       "id": "5140330",
       "time": "2026-10-13 08:55:47",
