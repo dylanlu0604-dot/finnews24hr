@@ -1,7 +1,101 @@
 {
   "date": "2026-10-13",
-  "count": 1057,
+  "count": 1067,
   "items": [
+    {
+      "id": "5141456",
+      "time": "2026-10-13 15:10:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國警方拘留與波蘭星鏈基站火災有關的第三人。"
+    },
+    {
+      "id": "mkt:01a13417-fffb-7ee0-a850-324256aa3821",
+      "time": "2026-10-13 15:09:10",
+      "tags": [
+        "MKT News",
+        "AVGO.O",
+        "Impact bullish"
+      ],
+      "text": "Broadcom (AVGO.O) launches VMware HyperArmor security solution for the VMware cloud platform."
+    },
+    {
+      "id": "5141455",
+      "time": "2026-10-13 15:09:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【新臺幣因AI股拋售創一年多最大跌幅】人工智慧板塊股票遭遇拋售，市場對新臺幣情緒轉弱，新臺幣創下一年多來最大單日跌幅。新臺幣一度貶值1%，至1美元兌32.222新臺幣，為2025年6月以來最大跌幅。中國臺灣股市指標下跌近2%，臺積電對大盤拖累幅度最大。全球股市拋售行情進一步加劇，市場再度擔憂AI交易行情，衝擊科技股佔比較高的亞洲市場，新臺幣應聲下挫。股市下跌同樣打壓韓元，韓元創下9月末以來最大跌幅。"
+    },
+    {
+      "id": "5141454",
+      "time": "2026-10-13 15:08:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧：有序推進農村集體經營性建設用地入市改革】遼寧省政府新聞辦召開新聞釋出會，全面介紹《遼寧省推動要素市場化配置改革若干舉措》。《舉措》提出，要著力破除要素流動障礙。在土地領域，既抓新增用地保障，也抓存量資源盤活，推進土地二級市場建設，吸引各類市場主體進場交易，探索拓展交易服務領域；在農村土地方面，支援鄉村產業用地需求，推進閒置農房盤活利用，有序推進農村集體經營性建設用地入市改革，進一步提升城鄉土地資源配置效率和節約集約利用水平。自然資源領域建立用地稽核部門聯動機制，優先保障主導產業、重大專案合理用地；金融領域提出每年向金融機構推介專案100個以上，引導金融機構在總投資10億元以上的重大專案可行性研究階段早期介入，共同參與融資方案設計；科技領域支援企業、高校和科研機構組建創新聯合體，按照不超過研發總投入30%比例給予最高1000萬元資金支援，加快破解產業關鍵核心技術問題。（上證報）"
+    },
+    {
+      "id": "mkt:01a13417-81d4-7ee0-a850-28454782894c",
+      "time": "2026-10-13 15:08:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Liaoning to open rural collective operational construction land to market】Liaoning provincial government unveiled measures to remove factor-flow barriers and activate stock land. The province will build a secondary land market, attract a range of market participants, support rural industrial land demand, repurpose idle farmhouses and orderly allow rural collective operational construction land to enter the market to improve urban–rural land allocation efficiency and intensify land use. Natural resources authorities will establish a land-review coordination mechanism to prioritise reasonable land for leading industries and major projects. Financial measures include annually recommending more than 100 projects to financial institutions and guiding early financial involvement during feasibility for projects with total investment above 1 bln yuan to jointly design financing. Technology support will back innovation consortia of firms, universities and research institutes with grants up to 10 mln yuan, capped at 30% of R&D spend, to tackle key industrial core technologies."
+    },
+    {
+      "id": "mkt:01a13417-4e28-7ee0-a850-25b671bd609b",
+      "time": "2026-10-13 15:08:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Emir said total revenue fell 42% in 1H."
+    },
+    {
+      "id": "5141453",
+      "time": "2026-10-13 15:07:21",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "【華為披露麒麟9050系列已經成功量產】10月13日，在2026華為終端創新技術溝通會上，華為詳細介紹了近期隨華為三摺疊手機Mate XT 2及直板旗艦Mate90 Pro Max面世的麒麟9050系列晶片。據華為半導體業務無線終端晶片產品管理部部長徐松餘介紹，2023年以來，基於麒麟晶片的終端產品累計發貨已經過億。在中國電子產業的託舉下，麒麟9050系列已經成功量產。麒麟9050系列的推出，是麒麟迴歸之後面向未來持續演進的重要一步，開啟了麒麟晶片未來10年新徵程。（上證報）"
+    },
+    {
+      "id": "mkt:01a13415-fb9c-7ee0-a850-1f78902d8698",
+      "time": "2026-10-13 15:06:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "【China A-shares close: Shanghai Composite up 0.10%; components sector sparks wave of limit-ups】China A-shares closed mixed. Shanghai Composite Index rose 0.10%, Shenzhen Composite Index fell 0.25% and the ChiNext Index closed down 0.18% after trading up more than 1% intraday. Electronic components stocks drove gains, with Xunjiexing and Jinbaize both hitting the 20% daily limit and firms including Chaosheng Electronics, Zhongjing Electronics and Aohong Electronics also limit-up. Defense and marine-equipment names rallied in the afternoon; Hangfa Technology hit limit-up and Jianglong Shipbuilding rallied over 9%. The CPO sector recovered intraday—Taichengguang +8%+, Tianfu Communications +7%+. Ice-and-snow (winter-sports) plays, retail, F5G, helium and lab-grown diamond sectors strengthened. Lagging sectors included insurance, batteries, wind-power equipment, CROs, innovative drugs and energy metals. Combined turnover on Shanghai and Shenzhen reached 1.67 tln yuan, about 138.1 bln yuan higher than the prior session. Around 2,800 stocks advanced and about 2,300 declined."
+    },
+    {
+      "id": "5141452",
+      "time": "2026-10-13 15:06:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "博通推出面向VMware雲平臺的VMware HyperArmor安全方案。"
+    },
+    {
+      "id": "5141451",
+      "time": "2026-10-13 15:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局四川監管辦公室原黨組書記何淑蘭接受審查調查】據中央紀委國家監委駐國家發展改革委紀檢監察組、四川省紀委監委訊息：國家能源局四川監管辦公室原黨組書記、監管專員何淑蘭涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家發展改革委紀檢監察組紀律審查和四川省監委監察調查。"
+    },
     {
       "id": "5141450",
       "time": "2026-10-13 15:06:28",
