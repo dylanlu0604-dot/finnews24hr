@@ -1,7 +1,47 @@
 {
   "date": "2026-10-13",
-  "count": 1630,
+  "count": 1634,
   "items": [
+    {
+      "id": "5142726",
+      "time": "2026-10-13 22:54:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱美軍海上力量已大幅後撤】12日，伊朗海軍副司令法拉馬茲·貝馬尼表示，美軍海上力量已大幅後撤，遠離伊朗海上邊界。伊朗海軍副司令 法拉馬茲·貝馬尼：敵方已從我們的海上邊界大幅後撤，並儘可能與我方海域保持距離。美國的海軍艦艇、驅逐艦和航空母艦都已大幅後撤。（央視新聞）"
+    },
+    {
+      "id": "5142725",
+      "time": "2026-10-13 22:52:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "蘋果股價創歷史新高，最新上漲1.4%。"
+    },
+    {
+      "id": "mkt:01a135c0-8ffc-7ee0-a85b-0654d0c3b664",
+      "time": "2026-10-13 22:52:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) shares hit an all-time high, up 1.4%."
+    },
+    {
+      "id": "te:markets:591567",
+      "time": "2026-10-13 22:51:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Erases Decline — The yield on the 10-year US Treasury note erased its early pullback on Tuesday to hover above the 5.2% threshold, as markets continued to assess the magnitude of inflation risks from higher energy prices and the outlook for bond issuance by the tech sector. Energy benchmarks recovered in the session as the tight supply backdrop is likely to persist. Signals that Saudi Arabia would strike Houthi targets prolonged the conflict that jeopardizes tanker flows through the Red Sea, while evidence of low oil loadings at Russian Black Sea ports erased any signals that Russia would step up energy exports. Still, improvements in Chinese AI chip technology raised concerns of foreign competition for domestic semiconductor giants, limiting the outlook for corporate credit. The latest research showed industry players penning $4.1 trillion in AI-related debt to be issued by 2030, crowding out the Treasury in its issuance of new securities."
+    },
     {
       "id": "5142724",
       "time": "2026-10-13 22:48:25",
