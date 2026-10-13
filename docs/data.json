@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-14 04:40:46",
-  "count": 10995,
+  "updated": "2026-10-14 04:44:33",
+  "count": 10992,
   "items": [
+    {
+      "id": "mkt:01a13701-e1f0-7ee0-a862-43808a4400a8",
+      "time": "2026-10-14 04:43:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian media report Saudi Aramco's headquarters was forced to evacuate after a missile strike."
+    },
     {
       "id": "5143110",
       "time": "2026-10-14 04:39:47",
@@ -99786,43 +99797,6 @@
         "國際"
       ],
       "text": "【Anthropic擴大先進AI模型訪問許可權 允許特定機構開展網路安全測試】Anthropic PBC正與美國政府合作，擴大其最先進AI模型的使用許可權，允許一批經過篩選的機構測試這家初創公司的尖端網路能力根據週二釋出的宣告，這家總部位於舊金山的公司將允許經過驗證的機構使用其能力最強的模型，包括Claude Opus 5.5、Claude Sonnet 5.5、Claude Mythos 5.1，以及未來推出的新模型。宣告稱，獲得許可權的機構可以對旨在保護電網、銀行和航班執行系統等關鍵基礎設施的安全系統進行“高風險攻擊性測試”。Anthropic週二表示，最新一輪有限開放將涵蓋“玻璃翼計劃”的所有成員，同時該公司將與美國政府合作，對所有新加入的機構進行稽核。"
-    },
-    {
-      "id": "mkt:01a112f5-d954-7ee0-a7c5-56defd96638a",
-      "time": "2026-10-07 04:44:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary BESSENT said since Aug. 25 Iran has not loaded a single barrel of crude onto any vessel."
-    },
-    {
-      "id": "5129165",
-      "time": "2026-10-07 04:43:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗迎來新任石油部長。既然自 8 月 25 日起伊朗沒有向任何船隻裝載一桶原油，這位石油部長在管理什麼？"
-    },
-    {
-      "id": "5129164",
-      "time": "2026-10-07 04:42:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "本田推遲下一代CR-V混合動力車型在美國和加拿大的上市時間。"
-    },
-    {
-      "id": "5129163",
-      "time": "2026-10-07 04:42:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司MSCI新興市場股票指數漲0.2%，發展中國家外匯指數大致持平%。"
     }
   ]
 }

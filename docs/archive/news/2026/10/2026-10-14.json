@@ -1,7 +1,18 @@
 {
   "date": "2026-10-14",
-  "count": 327,
+  "count": 328,
   "items": [
+    {
+      "id": "mkt:01a13701-e1f0-7ee0-a862-43808a4400a8",
+      "time": "2026-10-14 04:43:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian media report Saudi Aramco's headquarters was forced to evacuate after a missile strike."
+    },
     {
       "id": "5143110",
       "time": "2026-10-14 04:39:47",
