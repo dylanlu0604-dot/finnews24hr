@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-14 05:03:31",
-  "count": 10989,
+  "updated": "2026-10-14 05:07:16",
+  "count": 10986,
   "items": [
+    {
+      "id": "5143116",
+      "time": "2026-10-14 05:03:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【甲骨文敦促監管機構加快審批資料中心天然氣管道專案】甲骨文再次請求聯邦監管機構儘快批准一條天然氣管道，以滿足其在新墨西哥州大型資料中心專案的供電需求。甲骨文政府事務高階副總裁Josh Pitcock週二在致美國聯邦能源監管委員會的信中指出，如果該委員會繼續推遲批准由Energy Transfer LP旗下子公司運營的管道專案，將“威脅到木星專案（Project Jupiter）的運營進度，進而影響由此帶來的就業機會、經濟活動及社群效益”。這條名為Green Chile的管道將每天輸送約4億立方英尺天然氣，為Bloom Energy公司提供的燃料電池供能，以支援木星專案執行。目前，該管道的投運時間已推遲至2027年2月，遠晚於此前計劃的8月15日投運日期。"
+    },
     {
       "id": "mkt:01a13713-2466-7ee0-a862-9203322e3d0f",
       "time": "2026-10-14 05:02:43",
@@ -99734,42 +99743,6 @@
         "國際"
       ],
       "text": "特朗普：已安排很快與普京通話。"
-    },
-    {
-      "id": "5129177",
-      "time": "2026-10-07 05:07:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "蘋果與 LG 還在籌備室內及室外安防攝像頭，蘋果與 LG 的合作舉措將加劇其與亞馬遜、谷歌之間的競爭。"
-    },
-    {
-      "id": "5129176",
-      "time": "2026-10-07 05:06:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘋果將推出與LG聯合開發的門鈴、門鎖和恆溫器】蘋果公司即將推出的智慧家居裝置將包括與LG電子聯合開發的門鈴、恆溫器及其他配件。與LG合作開發的產品還包括智慧插芯鎖、室內安防攝像頭、室外安防攝像頭和泛光安防攝像頭，並將使用LG品牌。包括升級版HomePod mini和全新電視盒在內的新款蘋果裝置將於10月13日釋出，而LG配件預計還需數月才能面向消費者。"
-    },
-    {
-      "id": "te:markets:589944",
-      "time": "2026-10-07 05:04:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Nears One-Year High as Yields Retreat — The S&P/TSX Composite Index rose 0.4% to close at 35,649 on Tuesday, nearing a one-year high as the recent global bond sell-off eased. Yields retreated from multi-year highs, offering some respite to credit-sensitive markets. RBC gained 0.6%, TD Bank added 0.5%, BMO rose 0.7% and CIBC advanced 0.9%. Utilities also gained as lower yields increased the appeal of high-dividend-paying stocks. Miners advanced as gold prices rebounded, with Agnico Eagle up 1.2% and Barrick adding 1.6%. The tech sector rose, tracking gains on Wall Street, with Shopify up 2.4%. Meanwhile, Emera (-2.9%) said it would acquire Canadian Utilities (-1.9%) in a deal that would create one of Canada’s largest power providers. ATCO (+9.2%), which holds nearly 37% of Canadian Utilities’ outstanding non-voting shares and all outstanding voting shares, said it would separate into a publicly traded industrial services company."
-    },
-    {
-      "id": "5129175",
-      "time": "2026-10-07 05:03:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（10月6日）紐約尾盤（週三北京時間04:59），離岸人民幣（CNH）兌美元報6.7015元，較週一紐約尾盤漲22點，日內整體交投於6.7058-6.695元區間，連續三個交易日上揚。"
     }
   ]
 }
