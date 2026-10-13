@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-14 04:44:33",
+  "updated": "2026-10-14 04:48:24",
   "count": 10992,
   "items": [
+    {
+      "id": "mkt:01a13703-f980-7ee0-a862-537273ad3e02",
+      "time": "2026-10-14 04:46:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Department of Justice said a Saudi national was arrested on suspicion of secretly installing recording devices at a San Francisco company that works for OpenAI."
+    },
+    {
+      "id": "mkt:01a13703-d03d-7ee0-a862-4a7480b959a5",
+      "time": "2026-10-14 04:45:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said the IRGC naval commander today claimed the Strait of Hormuz is under Revolutionary Guard control and that any US warship approaching would be \"sunk\". CENTCOM said the IRGC has no navy and that US forces and regional partners control the strait. Yesterday the US military assisted Gulf partners in transiting more than 19 mln barrels of crude through the Strait of Hormuz."
+    },
     {
       "id": "mkt:01a13701-e1f0-7ee0-a862-43808a4400a8",
       "time": "2026-10-14 04:43:52",
@@ -99779,24 +99803,6 @@
         "國際"
       ],
       "text": "富時羅素：將持續監控韓國市場的結算資金要求。將持續關注韓國賣空、結算及市場預警機制相關進展。將 持續監控韓國交易所市場預警系統的執行情況。"
-    },
-    {
-      "id": "5129167",
-      "time": "2026-10-07 04:47:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "阿根廷央行市場預期調查：阿根廷 2026 年 GDP 增速預期為 1.5%，較此前預測下調 0.6 個百分點。"
-    },
-    {
-      "id": "5129166",
-      "time": "2026-10-07 04:44:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Anthropic擴大先進AI模型訪問許可權 允許特定機構開展網路安全測試】Anthropic PBC正與美國政府合作，擴大其最先進AI模型的使用許可權，允許一批經過篩選的機構測試這家初創公司的尖端網路能力根據週二釋出的宣告，這家總部位於舊金山的公司將允許經過驗證的機構使用其能力最強的模型，包括Claude Opus 5.5、Claude Sonnet 5.5、Claude Mythos 5.1，以及未來推出的新模型。宣告稱，獲得許可權的機構可以對旨在保護電網、銀行和航班執行系統等關鍵基礎設施的安全系統進行“高風險攻擊性測試”。Anthropic週二表示，最新一輪有限開放將涵蓋“玻璃翼計劃”的所有成員，同時該公司將與美國政府合作，對所有新加入的機構進行稽核。"
     }
   ]
 }

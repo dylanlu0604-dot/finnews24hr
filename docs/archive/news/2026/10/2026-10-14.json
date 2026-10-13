@@ -1,7 +1,31 @@
 {
   "date": "2026-10-14",
-  "count": 328,
+  "count": 330,
   "items": [
+    {
+      "id": "mkt:01a13703-f980-7ee0-a862-537273ad3e02",
+      "time": "2026-10-14 04:46:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Department of Justice said a Saudi national was arrested on suspicion of secretly installing recording devices at a San Francisco company that works for OpenAI."
+    },
+    {
+      "id": "mkt:01a13703-d03d-7ee0-a862-4a7480b959a5",
+      "time": "2026-10-14 04:45:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said the IRGC naval commander today claimed the Strait of Hormuz is under Revolutionary Guard control and that any US warship approaching would be \"sunk\". CENTCOM said the IRGC has no navy and that US forces and regional partners control the strait. Yesterday the US military assisted Gulf partners in transiting more than 19 mln barrels of crude through the Strait of Hormuz."
+    },
     {
       "id": "mkt:01a13701-e1f0-7ee0-a862-43808a4400a8",
       "time": "2026-10-14 04:43:52",
