@@ -1,0 +1,183 @@
+{
+  "date": "2026-10-14",
+  "count": 19,
+  "items": [
+    {
+      "id": "mkt:01a13600-a2c4-7ee0-a85d-3e2ff10aedc6",
+      "time": "2026-10-14 00:02:53",
+      "tags": [
+        "MKT News",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) to expand its Fairwind program to hundreds of additional partners."
+    },
+    {
+      "id": "5142819",
+      "time": "2026-10-14 00:02:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德·馬丁與AVIO宣佈達成固體火箭發動機生產戰略合作協議。"
+    },
+    {
+      "id": "mkt:01a13600-5a4e-7ee0-a85d-35995310891f",
+      "time": "2026-10-14 00:02:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu warned that security threats are intensifying ahead of the election."
+    },
+    {
+      "id": "mkt:01a13600-46d2-7ee0-a85d-2dda55913151",
+      "time": "2026-10-14 00:02:30",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish"
+      ],
+      "text": "LOCKHEED and AVIO will jointly produce the SCLID rocket engine."
+    },
+    {
+      "id": "5142818",
+      "time": "2026-10-14 00:02:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：巴勒斯坦人不會返回以軍清空的區域。"
+    },
+    {
+      "id": "mkt:01a13600-1729-7ee0-a85d-2308c4240156",
+      "time": "2026-10-14 00:02:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Palestinians will not return to areas cleared by the Israel Defense Forces."
+    },
+    {
+      "id": "mkt:01a135ff-e416-7ee0-a85d-182daaabf945",
+      "time": "2026-10-14 00:02:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Google (GOOG.O) has begun rolling out GEMINI 4 Argon to Google AI subscribers on Google Antigravity, the GEMINI app and AI mode in Google Search. Promotional pricing is $2 per mln input tokens and $10 per mln output tokens."
+    },
+    {
+      "id": "5142816",
+      "time": "2026-10-14 00:02:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡警告，選舉前安全威脅加劇。"
+    },
+    {
+      "id": "5142815",
+      "time": "2026-10-14 00:01:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團執行長：轉型成本正在下降。"
+    },
+    {
+      "id": "mkt:01a135fe-b2aa-7ee0-a85d-106cb19d0837",
+      "time": "2026-10-14 00:00:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ETR.N"
+      ],
+      "text": "NRC said the Waterford 3 reactor increased power to 97% from 91%."
+    },
+    {
+      "id": "mkt:01a135fe-9176-7ee0-a85d-0e7750bf2987",
+      "time": "2026-10-14 00:00:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. NRC: Comanche Peak Unit 1 reduced reactor power to 94% from 95%."
+    },
+    {
+      "id": "mkt:01a135fe-616b-7ee0-a85d-015416021cff",
+      "time": "2026-10-14 00:00:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NRC reports Limerick Unit 1 reactor power reduced from 100% to 62%."
+    },
+    {
+      "id": "5142814",
+      "time": "2026-10-14 00:00:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：科曼奇1號反應堆功率從95%降至94%。"
+    },
+    {
+      "id": "mkt:01a135fe-4881-7ee0-a85c-fff1f87a85eb",
+      "time": "2026-10-14 00:00:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SO.O",
+        "Impact bullish"
+      ],
+      "text": "NRC said Vogtle Unit 3 reactor power rose from 93% to 100%."
+    },
+    {
+      "id": "5142813",
+      "time": "2026-10-14 00:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：布朗斯費裡1號反應堆功率從35%提高到94%。"
+    },
+    {
+      "id": "5142812",
+      "time": "2026-10-14 00:00:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：沃格特勒3號反應堆功率從93%提升至100%。"
+    },
+    {
+      "id": "5142808",
+      "time": "2026-10-14 00:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：德累斯頓3號反應堆功率從94%提高到95%。"
+    },
+    {
+      "id": "mkt:01a135fe-0e36-7ee0-a85c-f044f443c0c9",
+      "time": "2026-10-14 00:00:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "NRC says Browns Ferry Unit 1 reactor power increased from 35% to 94%."
+    },
+    {
+      "id": "5142807",
+      "time": "2026-10-14 00:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：利默里克1號反應堆功率從100%降至62%。"
+    }
+  ]
+}

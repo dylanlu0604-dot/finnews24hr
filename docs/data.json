@@ -1,7 +1,195 @@
 {
-  "updated": "2026-10-13 23:59:29",
-  "count": 10959,
+  "updated": "2026-10-14 00:04:07",
+  "count": 10962,
   "items": [
+    {
+      "id": "mkt:01a13600-a2c4-7ee0-a85d-3e2ff10aedc6",
+      "time": "2026-10-14 00:02:53",
+      "tags": [
+        "MKT News",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) to expand its Fairwind program to hundreds of additional partners."
+    },
+    {
+      "id": "5142819",
+      "time": "2026-10-14 00:02:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德·馬丁與AVIO宣佈達成固體火箭發動機生產戰略合作協議。"
+    },
+    {
+      "id": "mkt:01a13600-5a4e-7ee0-a85d-35995310891f",
+      "time": "2026-10-14 00:02:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu warned that security threats are intensifying ahead of the election."
+    },
+    {
+      "id": "mkt:01a13600-46d2-7ee0-a85d-2dda55913151",
+      "time": "2026-10-14 00:02:30",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish"
+      ],
+      "text": "LOCKHEED and AVIO will jointly produce the SCLID rocket engine."
+    },
+    {
+      "id": "5142818",
+      "time": "2026-10-14 00:02:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：巴勒斯坦人不會返回以軍清空的區域。"
+    },
+    {
+      "id": "mkt:01a13600-1729-7ee0-a85d-2308c4240156",
+      "time": "2026-10-14 00:02:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Palestinians will not return to areas cleared by the Israel Defense Forces."
+    },
+    {
+      "id": "mkt:01a135ff-e416-7ee0-a85d-182daaabf945",
+      "time": "2026-10-14 00:02:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Google (GOOG.O) has begun rolling out GEMINI 4 Argon to Google AI subscribers on Google Antigravity, the GEMINI app and AI mode in Google Search. Promotional pricing is $2 per mln input tokens and $10 per mln output tokens."
+    },
+    {
+      "id": "5142816",
+      "time": "2026-10-14 00:02:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡警告，選舉前安全威脅加劇。"
+    },
+    {
+      "id": "5142815",
+      "time": "2026-10-14 00:01:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團執行長：轉型成本正在下降。"
+    },
+    {
+      "id": "mkt:01a135fe-b2aa-7ee0-a85d-106cb19d0837",
+      "time": "2026-10-14 00:00:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ETR.N"
+      ],
+      "text": "NRC said the Waterford 3 reactor increased power to 97% from 91%."
+    },
+    {
+      "id": "mkt:01a135fe-9176-7ee0-a85d-0e7750bf2987",
+      "time": "2026-10-14 00:00:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. NRC: Comanche Peak Unit 1 reduced reactor power to 94% from 95%."
+    },
+    {
+      "id": "mkt:01a135fe-616b-7ee0-a85d-015416021cff",
+      "time": "2026-10-14 00:00:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NRC reports Limerick Unit 1 reactor power reduced from 100% to 62%."
+    },
+    {
+      "id": "5142814",
+      "time": "2026-10-14 00:00:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：科曼奇1號反應堆功率從95%降至94%。"
+    },
+    {
+      "id": "5142813",
+      "time": "2026-10-14 00:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：布朗斯費裡1號反應堆功率從35%提高到94%。"
+    },
+    {
+      "id": "mkt:01a135fe-4881-7ee0-a85c-fff1f87a85eb",
+      "time": "2026-10-14 00:00:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "SO.O",
+        "Impact bullish"
+      ],
+      "text": "NRC said Vogtle Unit 3 reactor power rose from 93% to 100%."
+    },
+    {
+      "id": "5142812",
+      "time": "2026-10-14 00:00:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：沃格特勒3號反應堆功率從93%提升至100%。"
+    },
+    {
+      "id": "5142808",
+      "time": "2026-10-14 00:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：德累斯頓3號反應堆功率從94%提高到95%。"
+    },
+    {
+      "id": "5142807",
+      "time": "2026-10-14 00:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國核管理委員會：利默里克1號反應堆功率從100%降至62%。"
+    },
+    {
+      "id": "mkt:01a135fe-0e36-7ee0-a85c-f044f443c0c9",
+      "time": "2026-10-14 00:00:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "NRC says Browns Ferry Unit 1 reactor power increased from 35% to 94%."
+    },
+    {
+      "id": "te:markets:591579",
+      "time": "2026-10-13 23:59:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Futures at 1-Month High — Cocoa prices rose further to around $5,800 a tonne, their highest level since mid-September, supported by weather-related supply concerns. Local reports indicated that heavy rainfall in the Ivory Coast, the world’s largest cocoa producer, had disrupted harvesting and delayed bean deliveries to ports, limiting near-term availability. However, both the Ivory Coast and Ghana have received below-average rainfall in recent months, raising the risk of stress on the next crop. Local farmers remained worried about the size and quality of the next cocoa crop, which is expected to be harvested from early 2027. The possible strengthening of El Niño adds to these concerns, as it could bring hotter, drier weather to West Africa and increase the risk of heavy rain and flooding in parts of Latin America, including Ecuador. Meanwhile, third-quarter cocoa-grinding data from Europe and North America, due on October 15, will provide further insight into demand."
+    },
     {
       "id": "5142806",
       "time": "2026-10-13 23:58:43",
@@ -99316,151 +99504,6 @@
         "其他"
       ],
       "text": "OpenAI：根據新協議，OpenAI前沿模型將為Atlassian全平臺以及Rovo的智慧代理提供算力支援。該協議將擴大Atlassian對OpenAI最新前沿模型的使用許可權，包括GPT‑6 Astra以及GPT‑5.6系列。"
-    },
-    {
-      "id": "te:markets:589921",
-      "time": "2026-10-07 00:03:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Italian Stocks Gain — The FTSE MIB ended 0.9% higher at 51261 on Tuesday, tracking a broadly positive mood across European and US markets, supported by lower oil prices and bond yields. Heavyweight financial stocks led the advance, with the sector remaining in focus amid ongoing M&A activity in the Italian banking sector. UniCredit (1.6%), Intesa Sanpaolo (1.3%), Bper Banca (1.5%) and Banca Monte dei Paschi di Siena (2.3%) were higher. In contrast, Telecom Italia lost 3.7%, Leonardo fell 2.2% and Tenaris lost 2.8%. The energy sector was also under pressure, with Eni falling 1.1%"
-    },
-    {
-      "id": "5128959",
-      "time": "2026-10-07 00:03:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料顯示：10月美國石油產量預計平均為1400萬桶/日，9月為1396萬桶/日；11月預計平均為1404萬桶/日。"
-    },
-    {
-      "id": "5128958",
-      "time": "2026-10-07 00:03:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料顯示：10月美國天然氣產量日均預計為1250億立方英尺，9月為日均1249億立方英尺；11月產量預計將達日均1253億立方英尺。"
-    },
-    {
-      "id": "5128957",
-      "time": "2026-10-07 00:02:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計，2026年美國原油產量將達到1387萬桶/日，此前預測為1383萬桶/日；預計2027年原油產量為1430萬桶/日，此前預測為1426萬桶/日。"
-    },
-    {
-      "id": "5128956",
-      "time": "2026-10-07 00:02:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計2026年美國石油需求量為2060萬桶/日，此前預測值也為2060萬桶/日；預計2027年需求量為2080萬桶/日，此前預測值也為2080萬桶/日。"
-    },
-    {
-      "id": "5128955",
-      "time": "2026-10-07 00:02:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計，2026年美國天然氣日需求量將為924億立方英尺，此前預測值為922億立方英尺；預計2027年天然氣日需求量為938億立方英尺，此前預測值為943億立方英尺。"
-    },
-    {
-      "id": "5128954",
-      "time": "2026-10-07 00:02:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計，2026年全球石油產量將達到每日1.011億桶，此前預測為每日1.006億桶；預計2027年全球石油產量為每日1.096億桶，此前預測為每日1.099億桶。"
-    },
-    {
-      "id": "5128953",
-      "time": "2026-10-07 00:02:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計，2026年全球石油需求量為1.024億桶/日，此前預測值為1.026億桶/日；預計2027年需求量為1.046億桶/日，此前預測值為1.05億桶/日。"
-    },
-    {
-      "id": "5128952",
-      "time": "2026-10-07 00:02:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預計2026年西得克薩斯中質原油（WTI）均價為每桶88.21美元，此前預測為每桶84.65美元；2027年預測均價為每桶79.74美元，此前預測為每桶69.74美元。"
-    },
-    {
-      "id": "5128951",
-      "time": "2026-10-07 00:02:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）預測2026年布倫特原油均價為每桶96.32美元，此前預測值為每桶91.01美元；2027年預測價為每桶83.74美元，此前預測值為每桶73.74美元。"
-    },
-    {
-      "id": "5128950",
-      "time": "2026-10-07 00:02:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西南航空與OpenAI和亞馬遜雲科技（AWS）展開合作。"
-    },
-    {
-      "id": "5128949",
-      "time": "2026-10-07 00:00:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：美聯儲預計各類衝擊將在1至3年內逐步消退。"
-    },
-    {
-      "id": "em:qqyh_mlc:202610073888825110",
-      "time": "2026-10-07 00:00:49",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲戴利表示可能需要進一步收緊政策】美聯儲戴利表示可能需要進一步收緊政策，對人工智慧、關稅和能源成本可能持續更長時間表示擔憂，這些因素可能會導致通脹保持高位，美聯儲可能在1-3年內看到衝擊減弱。"
-    },
-    {
-      "id": "5128948",
-      "time": "2026-10-07 00:00:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：較低的違約率和較高的回收率支援多邊開發銀行的PFD債權人地位。"
-    },
-    {
-      "id": "5128947",
-      "time": "2026-10-07 00:00:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "戴利：擔憂人工智慧、關稅、能源成本帶來的影響或將持續更久，上述因素可能使通脹維持高位。"
-    },
-    {
-      "id": "5128946",
-      "time": "2026-10-07 00:00:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美元指數跌破101關口，日內跌0.27%。"
-    },
-    {
-      "id": "5128945",
-      "time": "2026-10-06 23:59:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：擔憂人工智慧、關稅、能源成本帶來的影響或將持續更久。"
     }
   ]
 }
