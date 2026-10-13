@@ -1,7 +1,75 @@
 {
-  "updated": "2026-10-13 15:22:31",
-  "count": 10929,
+  "updated": "2026-10-13 15:26:26",
+  "count": 10932,
   "items": [
+    {
+      "id": "5141481",
+      "time": "2026-10-13 15:25:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑石支援的資料中心運營商AirTrunk據悉推遲15億美元REIT上市交易】據知情人士稱，資料中心運營商AirTrunk將原計劃在新加坡進行的不動產投資信託基金(REIT)首次公開發行推遲到明年，因利率上升和市場波動抑制投資者需求。知情人士表示，這家由黑石集團支援的公司原計劃在10月初正式啟動評估投資者對15億美元REIT上市交易的興趣。"
+    },
+    {
+      "id": "5141480",
+      "time": "2026-10-13 15:25:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "據菲律賓媒體13日報道，菲檢方已撤回副總統莎拉·杜特爾特彈劾案四項指控中的三項，僅指控莎拉2022年至2025年未如實申報來源不明資產。（新華社）"
+    },
+    {
+      "id": "mkt:01a13427-0b34-7ee0-a850-65f36e77779d",
+      "time": "2026-10-13 15:25:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Knife attack in South Korea injures 8; suspect arrested】YONHAP reported on the 13th that a knife attack at a large supermarket in Namdong district, Incheon, injured eight people, including one who went into cardiac arrest. Emergency services received a report at about 1:49 p.m. local time. Police have arrested a suspect and are investigating the circumstances."
+    },
+    {
+      "id": "5141479",
+      "time": "2026-10-13 15:25:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國防部：烏克蘭議會支援國防部的一項倡議，即將國防出口許可費的100%撥付給烏克蘭武裝部隊。軍事和兩用物品出口管制檔案的費用將平均分配：一半用於採購、現代化改造和維修武器及裝備，另一半用於軍人薪酬。"
+    },
+    {
+      "id": "mkt:01a13426-8359-7ee0-a850-5b047f478174",
+      "time": "2026-10-13 15:25:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's parliament backed the defense ministry's proposal to allocate 100% of defense-export licensing fees to the armed forces. Fees collected under export controls for military and dual-use goods will be split 50/50: half for procurement, modernization and maintenance of weapons and equipment, and half for military personnel pay."
+    },
+    {
+      "id": "5141478",
+      "time": "2026-10-13 15:24:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克大讚中國製造：一旦掌握，擴產能力往往能超越全球總和】埃隆 · 馬斯克今天在 X 平臺表示，一旦中國掌握某種產品的製造方法後，他們的擴產能力往往能超過世界其他地區之總和。"
+    },
+    {
+      "id": "te:markets:591414",
+      "time": "2026-10-13 15:22:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Extends Decline on Ample Supply — Iron ore futures fell toward CNY 680 per ton, approaching four-year lows as abundant global supply, elevated Chinese inventories and falling shipping costs continued to pressure prices. Global mining capacity is expanding, while producers are boosting shipments in the fourth quarter to meet quarterly and annual targets. Iron ore shipments and arrivals at Chinese ports have also remained elevated, supported by a significant increase in volumes from smaller mining operations. Meanwhile, freight costs continued to ease, with industry data showing the Capesize C5 route from Australia to China declining by $0.64 per ton and the C3 route from Brazil to China falling by $0.37 per ton on Monday. Adding to the bearish outlook, the World Steel Association projected global steel demand would contract by 0.1% in 2026, reversing its April forecast for 0.3% growth amid weakening demand in China and disruptions stemming from the US-Iran conflict."
+    },
+    {
+      "id": "5141477",
+      "time": "2026-10-13 15:22:13",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "義大利財長： 義大利將持續改善公共財政狀況。"
+    },
     {
       "id": "5141476",
       "time": "2026-10-13 15:21:05",
@@ -99095,58 +99163,6 @@
         "市場"
       ],
       "text": "法國場外市場日前基荷電力價格下跌7.1%，至每兆瓦時186歐元。"
-    },
-    {
-      "id": "mkt:01a1101a-14f4-7ee0-a7b2-ebc52c162837",
-      "time": "2026-10-06 15:25:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DAX",
-        "Impact bearish"
-      ],
-      "text": "LSEG data show German OTC next-day baseload electricity price fell 10.1% to €189/MWh."
-    },
-    {
-      "id": "5128180",
-      "time": "2026-10-06 15:25:03",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【投資者開始對AI高估值說“不” 華爾街IPO活動驟減】華爾街IPO活動已放緩至寥寥無幾，投資者對新股發行需求低迷，加之市場擔憂估值過高，令原本預計將迎來上市熱潮的這個季度承壓。Anthropic和OpenAI上市延期也打擊了美國股權資本市場的情緒。一家美國大型資產管理公司的股權資本市場負責人表示：“現在沒人關心Anthropic以外的任何公司。”投資銀行家今年業務紅火在很大程度上得益於SpaceX的6月IPO。但市場日益擔憂AI行業下行以及公眾對資料中心的反對情緒，IPO市場近幾周已經趨於枯竭。上述銀行家補充稱，投資者日益質疑那些與AI投資熱潮相關企業所獲得的“脫離實際”的估值。BCA Research資料顯示，今年上市的科技公司股價自首個交易日以來平均下跌約23%，進一步加劇了市場對於銀行為爭取承銷業務而對交易定價過高的擔憂。"
-    },
-    {
-      "id": "5128179",
-      "time": "2026-10-06 15:24:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國日前基荷電力場外價格下跌10.1%，至每兆瓦時189歐元。"
-    },
-    {
-      "id": "mkt:01a11018-ff8d-7ee0-a7b2-e678ffb92bae",
-      "time": "2026-10-06 15:23:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【ECB chief economist Lane: no clear second‑round inflation effects】ECB chief economist Lane said elevated euro-area energy costs have not yet produced a clear second‑round inflation effect and the strength of pass-through to other sectors remains uncertain. \"So far we have not seen a very strong second‑round effect. We will continue to monitor this. While I advocate scenario analysis, it is too simplistic to categorise the situation as simply adverse or baseline,\" he said."
-    },
-    {
-      "id": "5128178",
-      "time": "2026-10-06 15:23:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "EUROFINS SCIENTIFIC SE股價上漲3%，領漲CAC 40指數。"
     }
   ]
 }
