@@ -1,7 +1,195 @@
 {
   "date": "2026-10-13",
-  "count": 1037,
+  "count": 1057,
   "items": [
+    {
+      "id": "5141450",
+      "time": "2026-10-13 15:06:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "GREENCORE上調調整後盈利預期後，股價上漲6.8%。"
+    },
+    {
+      "id": "5141449",
+      "time": "2026-10-13 15:06:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "奇華頓股價上漲7%，此前其同店銷售增長超出預期。"
+    },
+    {
+      "id": "5141448",
+      "time": "2026-10-13 15:05:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家電投集團首臺電解鋁柔性負荷試驗槽通電】近日，國家電投集團首臺電解鋁柔性負荷試驗槽在國家電投集團鋁電公司寧東分公司正式通電投運。該專案透過電解槽結構革新、控制系統升級與柔性生產工藝重構，可實現鋁電解生產負荷動態可調，是國家電投集團主動服務新型電力系統建設、推動有色冶金產業綠色低碳轉型、探索存量產能提質增效的重要技術創新實踐，為高耗能工業負荷參與國家電網協同調節、提升綠電就地消納水平、挖掘存量資產效益開闢新路徑。"
+    },
+    {
+      "id": "5141447",
+      "time": "2026-10-13 15:05:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾基亞股價在出售企業園區邊緣業務協議達成後下跌3.6%。"
+    },
+    {
+      "id": "5141446",
+      "time": "2026-10-13 15:05:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【京元電子董事會批准與英偉達簽訂美國測試業務付款協議】根據一份臺灣證券交易所公告，京元電子董事會批准旗下美國子公司AeternZ Semiconductor Testing Corporation與英偉達國際公司簽署客戶預付款協議。協議約定，英偉達國際將支付預付款，京元電子及AeternZ將在美國擴產、預留產能，併為該客戶提供測試服務。預付款將用於抵扣後續服務費。京元電子表示，預計該協議將對公司財務與業務發展產生積極影響。"
+    },
+    {
+      "id": "5141445",
+      "time": "2026-10-13 15:04:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債全線高開；英國10年期國債收益率下跌7個基點至5.37%。"
+    },
+    {
+      "id": "mkt:01a13413-be4c-7ee0-a850-170cac48712d",
+      "time": "2026-10-13 15:04:31",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Shanghai, Shenzhen trade RMB1,675.9bn; Zhongji Xuchuang tops single-stock turnover】On Oct. 13 Shanghai and Shenzhen stocks traded a combined RMB1,675.92bn, up RMB138.09bn from the prior session. Shanghai turnover was RMB779.30bn with volume of 483m lots; Shenzhen turnover was RMB896.62bn with volume of 562m lots. Single-stock turnover leader was Zhongji Xuchuang at RMB22.11bn, followed by Xinyisheng RMB14.61bn, CATL RMB11.91bn, Changxin Technology RMB11.07bn and Dongshan Precision RMB9.95bn."
+    },
+    {
+      "id": "5141444",
+      "time": "2026-10-13 15:04:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：印度央行回籠流動性疊加進口商買入美元，印度盧比遠期匯率飆升】Finrex Treasury Advisors資金主管阿尼爾·庫馬爾·班薩利稱，印度央行最新的流動性回籠舉措推高隔夜融資成本，同時進口商趁盧比走強買入遠期美元，美元兌印度盧比遠期升水大幅走高。美元兌盧比三個月遠期升水上漲30個基點至5.67%，為4月6日以來最高水平。加權平均拆借利率升至5.40%，創三個多月新高。班薩利表示，印度央行最新外匯政策降低銀行市場參與度，遠期市場流動性趨於枯竭。他稱，出口商暫不賣出遠期美元，等待美元兌盧比匯率回升至96上方。"
+    },
+    {
+      "id": "mkt:01a13413-758f-7ee0-a850-0ea59db3a939",
+      "time": "2026-10-13 15:04:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "Oct 13 — China's Shanghai Composite closed up 3.62 pts (+0.10%) at 3,800.86. Shenzhen Composite closed down 31.17 pts (-0.25%) at 12,353.70. CSI 300 Index closed down 12.30 pts (-0.29%) at 4,275.68. ChiNext Index closed down 5.48 pts (-0.18%) at 2,958.34. STAR 50 Index closed up 0.46 pts (+0.03%) at 1,427.18."
+    },
+    {
+      "id": "5141443",
+      "time": "2026-10-13 15:04:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英飛凌科技股份公司<IFXGn.DE>股價下跌4.8%。"
+    },
+    {
+      "id": "5141442",
+      "time": "2026-10-13 15:03:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國烈酒生產商保樂力加與人頭馬君度股價分別上漲3.1%和5.7%。"
+    },
+    {
+      "id": "mkt:01a13413-083a-7ee0-a850-0603973423ec",
+      "time": "2026-10-13 15:03:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Bulgaria PM says two vessels attacked by drones off Black Sea coast】On Oct 13 local time, Bulgaria's Prime Minister Radev said two merchant vessels were struck by drones off the Bulgarian Black Sea coast; one vessel sank. A freighter about 18 nautical miles east of Byala was hit by three drones; all 15 crew were rescued. Another merchant ship was struck near Krapets and sank; one crew member was rescued. Radev said there is no clear evidence identifying the attacker. He said he will speak with NATO Secretary General Rutte and summon Russia’s ambassador to Bulgaria over the incident."
+    },
+    {
+      "id": "5141441",
+      "time": "2026-10-13 15:03:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【市場供給收緊，歐洲天然氣價格升至2022年末以來最高水平】中東衝突持續，未來數月供應前景蒙上陰影，歐洲天然氣價格攀升至2022年12月以來高位。基準期貨連續第六日上漲，本月累計漲幅接近18%。最新一輪衝突升級，伊朗支援的胡塞武裝襲擊沙烏地阿拉伯。冬季臨近，波斯灣能源輸送持續存在不確定性。下週短暫寒潮或將成為歐洲天然氣市場的首輪考驗。歐洲供暖季天然氣消耗量通常會翻倍。歐洲儲氣庫存處於季節性低位，若中東能源供給無法恢復，歐洲將不得不加大資源爭奪力度。"
+    },
+    {
+      "id": "5141440",
+      "time": "2026-10-13 15:03:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【精進電動：歐洲乘用車三合一專案預計明年下半年投產】精進電動在10月13日召開的2026年半年度業績說明會上表示，公司為北美新興新能源車企定製開發的乘用車三合一系統專案，整體進度符合預期，2026年第四季度實現投產。歐洲乘用車三合一專案目前產品開發順利，產線正在按計劃進行建設，預計明年下半年投產。"
+    },
+    {
+      "id": "5141439",
+      "time": "2026-10-13 15:02:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星計劃擴充AI記憶體與儲存戰略】三星電子週二公佈下一代記憶體與儲存技術戰略，旨在提升人工智慧基礎設施的效能。這家韓國晶片廠商在舊金山開幕的2026年開放計算專案全球峰會上釋出相關方案。三星提出提升AI基礎設施效能的三大核心技術方向：高效能記憶體、基於CXL的記憶體擴充套件技術，以及搭載新一代固態硬碟（SSD）的資料儲存與管理解決方案。三星企業副總裁、應用工程團隊負責人沈浩俊進行主題演講。沈浩俊表示：隨著AI模型體量持續增大，推理所需的資料與鍵值快取規模不斷膨脹。要提升AI系統效能，除記憶體頻寬之外，記憶體擴容與資料儲存技術的重要性正持續上升。他補充，三星正從研發早期階段就加強與全球客戶及合作伙伴的聯合設計與技術驗證，對整套AI系統做全棧最佳化。三星還計劃在本次峰會與超威（AMD）聯合展示基於CXL的記憶體擴充套件方案，提供解決現有系統記憶體容量瓶頸的技術路徑。"
+    },
+    {
+      "id": "5141438",
+      "time": "2026-10-13 15:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【規模創歷屆之最 第四屆全國危險化學品救援技能競賽今天開幕】10月13日，第四屆全國危險化學品救援技能競賽在河南省濮陽市開幕。競賽為期4天，設定危險化學品組和油氣管道組、17個比賽科目，來自全國各省（區、市）以及新疆生產建設兵團和中央企業的62支參賽隊伍572名隊員參賽，規模創歷屆之最。競賽期間，同步設定應急救援技術裝備展示。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a13412-1ca2-7ee0-a84f-fc3ec9ce007c",
+      "time": "2026-10-13 15:02:44",
+      "tags": [
+        "MKT News",
+        "DAL.O"
+      ],
+      "text": "【Delta New York–Tel Aviv flight receives bomb threat】Israeli media reported that on Oct 13 a Delta Air Lines flight from New York to Tel Aviv received an anonymous bomb threat. After landing at Tel Aviv's Ben Gurion International Airport the aircraft was directed to a remote taxiway for inspection and passengers and crew were evacuated. Media said the threat may be a false alarm."
+    },
+    {
+      "id": "mkt:01a13412-0004-7ee0-a84f-f1185dc41ba7",
+      "time": "2026-10-13 15:02:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European stocks opened mixed on Oct 13 (Tue): Germany's DAX up 59.43 points (0.24%) at 25,337.11; EUROSTOXX 50 down 5.26 points (0.08%) at 6,195.95; Spain's IBEX 35 up 57.05 points (0.30%) at 19,342.85; Italy's FTSE MIB up 86.50 points (0.17%) at 50,121.50; UK's FTSE 100 up 64.85 points (0.61%) at 10,721.13; France's CAC 40 up 30.54 points (0.39%) at 7,863.42."
+    },
+    {
+      "id": "5141437",
+      "time": "2026-10-13 15:02:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "米蘭上市的意法半導體股價早盤下跌4.3%，泰諾寶股價下跌4.5%。"
+    },
+    {
+      "id": "5141436",
+      "time": "2026-10-13 15:02:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國飛以色列客機接到炸彈威脅】據以色列媒體報道，今天（10月13日）上午，美國達美航空公司一架從美國紐約飛往以色列特拉維夫的客機，接到匿名炸彈威脅。客機降落在特拉維夫的本-古裡安國際機場後，已被引導至偏遠滑行道接受檢查。乘客和機組人員已從機上撤離。據稱，這有可能是一場虛驚。 （CCTV國際時訊）"
+    },
     {
       "id": "te:markets:591406",
       "time": "2026-10-13 15:02:21",
