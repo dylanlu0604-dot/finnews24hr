@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-13 23:43:46",
+  "updated": "2026-10-13 23:47:39",
   "count": 10949,
   "items": [
+    {
+      "id": "5142795",
+      "time": "2026-10-13 23:46:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院報告稱，學校及圖書館聯邦通訊委員會網際網路補貼專案的顧問支出每年超過2億美元。"
+    },
+    {
+      "id": "5142794",
+      "time": "2026-10-13 23:45:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達本週將在歐洲宣佈20億美元的人工智慧投資。"
+    },
+    {
+      "id": "5142793",
+      "time": "2026-10-13 23:45:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國網路安全機構稱，艾默生旗下製冷裝置廠商Copeland與知名製冷控制器品牌Dixell製冷系統遭到駭客入侵。"
+    },
+    {
+      "id": "mkt:01a135f0-458b-7ee0-a85c-bfd20e3b2af2",
+      "time": "2026-10-13 23:45:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA will announce a $2 billion AI investment in Europe this week."
+    },
+    {
+      "id": "mkt:01a135f0-2c1d-7ee0-a85c-b00959f1c422",
+      "time": "2026-10-13 23:44:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Citigroup CEO said market volatility is 'a normal seasonal phenomenon'."
+    },
+    {
+      "id": "5142792",
+      "time": "2026-10-13 23:44:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團執行長：市場波動只是“正常的季節性現象”。"
+    },
+    {
+      "id": "5142791",
+      "time": "2026-10-13 23:44:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "達飛集團與Engie簽署框架協議，將在勒阿弗爾開發一座生物甲烷生產設施。達飛集團表示，自2029年起，該設施每年將向達飛集團船隊供應7000噸生物甲烷（相當於100吉瓦時）。"
+    },
     {
       "id": "mkt:01a135ee-4764-7ee0-a85c-aeb5af9b1b2d",
       "time": "2026-10-13 23:42:50",
@@ -99307,62 +99370,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Rebounds as Oil Prices and Bond Yields Ease — The CAC 40 rose 0.4% to 7,865 on Tuesday, rebounding from the previous session amid easing oil prices and a pullback in global bond yields. Oil prices fell as resilient Middle Eastern crude exports and a G7 emergency stockpile release eased supply concerns, reducing energy-driven inflation pressures. Yields also eased from multi-year highs, offering some respite to credit-sensitive markets. Financials posted solid gains, with BNP Paribas up 2.5% and AXA adding 1.5%. Luxury and industrial stocks were mixed as concerns over France’s high debt levels and political uncertainty lingered. The government sought to ease market jitters by unveiling its 2027 budget. The state budget deficit widened to €159.6 billion in January-August from €157.5 billion a year earlier. LVMH added 1%, while Hermes shed 0.5%. Among industrials, STMicroelectronics gained 2.5%, tracking strength in US chipmakers. Schneider Electric lost 3.8%, extending Monday’s losses after announcing its acquisition of PTC."
-    },
-    {
-      "id": "5128937",
-      "time": "2026-10-06 23:46:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利政府預估2026年銅均價為每磅6.15美元。"
-    },
-    {
-      "id": "5128936",
-      "time": "2026-10-06 23:46:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利政府預計2027年銅均價為每磅5.65美元。"
-    },
-    {
-      "id": "5128935",
-      "time": "2026-10-06 23:45:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交官稱，制裁影響約1650個新實體和個人，使與俄羅斯相關的制裁物件總數增加50%。"
-    },
-    {
-      "id": "5128934",
-      "time": "2026-10-06 23:45:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交官表示，新增制裁物件包括約1,570家俄羅斯企業和個人，這些實體涉及軍工綜合體，特別是導彈生產領域。"
-    },
-    {
-      "id": "5128933",
-      "time": "2026-10-06 23:45:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交官稱，歐盟特使預計將於週三批准一系列針對俄羅斯的重大新制裁措施。"
-    },
-    {
-      "id": "5128932",
-      "time": "2026-10-06 23:45:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：瓦良格獨立旅攻擊無人機分隊對基輔北橋實施打擊。該橋樑被用於向烏克蘭武裝力量調運部隊、運送軍用物資。"
-    },
-    {
-      "id": "5128931",
-      "time": "2026-10-06 23:44:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "康菲石油首席經濟學家表示，委內瑞拉石油產業的復甦可能需要十年時間，還需投入數十億美元投資。"
     }
   ]
 }

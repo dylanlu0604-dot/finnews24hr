@@ -1,7 +1,70 @@
 {
   "date": "2026-10-13",
-  "count": 1756,
+  "count": 1763,
   "items": [
+    {
+      "id": "5142795",
+      "time": "2026-10-13 23:46:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院報告稱，學校及圖書館聯邦通訊委員會網際網路補貼專案的顧問支出每年超過2億美元。"
+    },
+    {
+      "id": "5142794",
+      "time": "2026-10-13 23:45:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達本週將在歐洲宣佈20億美元的人工智慧投資。"
+    },
+    {
+      "id": "5142793",
+      "time": "2026-10-13 23:45:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國網路安全機構稱，艾默生旗下製冷裝置廠商Copeland與知名製冷控制器品牌Dixell製冷系統遭到駭客入侵。"
+    },
+    {
+      "id": "mkt:01a135f0-458b-7ee0-a85c-bfd20e3b2af2",
+      "time": "2026-10-13 23:45:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA will announce a $2 billion AI investment in Europe this week."
+    },
+    {
+      "id": "mkt:01a135f0-2c1d-7ee0-a85c-b00959f1c422",
+      "time": "2026-10-13 23:44:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Citigroup CEO said market volatility is 'a normal seasonal phenomenon'."
+    },
+    {
+      "id": "5142792",
+      "time": "2026-10-13 23:44:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團執行長：市場波動只是“正常的季節性現象”。"
+    },
+    {
+      "id": "5142791",
+      "time": "2026-10-13 23:44:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "達飛集團與Engie簽署框架協議，將在勒阿弗爾開發一座生物甲烷生產設施。達飛集團表示，自2029年起，該設施每年將向達飛集團船隊供應7000噸生物甲烷（相當於100吉瓦時）。"
+    },
     {
       "id": "mkt:01a135ee-4764-7ee0-a85c-aeb5af9b1b2d",
       "time": "2026-10-13 23:42:50",
