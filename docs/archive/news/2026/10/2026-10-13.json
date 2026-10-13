@@ -1,7 +1,42 @@
 {
   "date": "2026-10-13",
-  "count": 493,
+  "count": 497,
   "items": [
+    {
+      "id": "5140287",
+      "time": "2026-10-13 08:21:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士股價下跌6%，三星電子股價下跌5%。"
+    },
+    {
+      "id": "5140286",
+      "time": "2026-10-13 08:21:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "IPT：騰訊離岸人民幣10年期票據在2.90%區域，30年期在3.50%區域。"
+    },
+    {
+      "id": "5140285",
+      "time": "2026-10-13 08:21:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭商務部長：紐西蘭不會對鋁擠壓產品進口實施保障措施。"
+    },
+    {
+      "id": "mkt:01a132a1-6ea8-7ee0-a845-311db9f4cae7",
+      "time": "2026-10-13 08:20:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD"
+      ],
+      "text": "The Reserve Bank of Australia will release minutes of its September monetary policy meeting in 10 minutes."
+    },
     {
       "id": "5140284",
       "time": "2026-10-13 08:17:21",
