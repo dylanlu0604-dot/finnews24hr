@@ -1,7 +1,110 @@
 {
   "date": "2026-10-13",
-  "count": 1075,
+  "count": 1086,
   "items": [
+    {
+      "id": "te:economy:591413",
+      "time": "2026-10-13 15:18:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "World",
+        "Full Year GDP Growth",
+        "Importance 3"
+      ],
+      "text": "IMF Upgrades 2026 Global Growth Forecast — The IMF raised its 2026 global growth forecast by 0.1 percentage points to 3.1%, with growth projected to rebound to 3.4% in 2027, according to its October 2026 World Economic Outlook. Resilient advanced economies and increased AI investment underpin the upgrade, although growth is expected to slow from 3.5% in 2025 as high energy prices linked to the US–Iran war pose significant risks, particularly for low-income countries and energy-importing economies. US growth is forecast at 2.3% in both 2026 and 2027, while China’s expansion is expected to slow to 4.5% and 4.0%, respectively, largely due to weak domestic demand. Japan’s economy is forecast to expand by 0.7% in both years, while India is projected to grow by 7.0% annually over the same period. Eurozone growth is expected to ease to 1.1% this year before recovering to 1.2% in 2027, amid high energy costs and weak consumer confidence. The UK’s 2026 forecast was raised to 1.3%, while its 2027 outlook was lowered to 1.2%."
+    },
+    {
+      "id": "5141468",
+      "time": "2026-10-13 15:17:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：料京東集團第三季零售收入穩健】中金髮布研報稱，預測京東集團第三季零售收入表現穩健，集團第三季收入同比增長3.5%至3,095億元人民幣，非通用會計準則淨利潤料同比提升41%至81.6億元人民幣，非通用會計準則淨利率達約2.6%；該行維持京東“跑贏行業”評級及目標價36美元。"
+    },
+    {
+      "id": "5141467",
+      "time": "2026-10-13 15:17:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博通CEO：許多AI投資者就像賭徒 根本不知道自己在投資什麼】博通CEO陳福陽表示，許多押注AI與晶片賽道的投資者，其投資策略如同賭場賭徒，其中部分人根本不清楚自己在押注什麼。 作為全球最大的資料中心基礎設施供應商之一，陳福陽還批評部分企業在AI專案上存在資金浪費現象，並對持續虧損的AI實驗室能否實現長期商業價值提出質疑。 “很多投資者根本不知道自己在投資什麼。”陳福陽稱，投資者抱有極度樂觀的預期，到頭來卻發現，這幾乎就像置身賭場。 陳福陽同時提到，OpenAI在9月實現500億美元年化營收，說明其商業模式具備可行性，但無法保證長期盈利。 “目前它仍處於虧損狀態，因為需要投入鉅額資金用於模型訓練。”這位博通CEO補充道，“坦白來講，現階段這隻能證明前沿生成式AI模型具備巨大的營收增長潛力，僅此而已。”"
+    },
+    {
+      "id": "5141466",
+      "time": "2026-10-13 15:16:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指上漲1%，至109,852.70。"
+    },
+    {
+      "id": "5141465",
+      "time": "2026-10-13 15:16:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：光電測試平臺成CPO量產關鍵，測試裝置供應鏈版圖將迎新變局】根據TrendForce集邦諮詢最新AI互連技術研究，隨AI資料中心推升高速傳輸需求，共封裝光學（CPO）逐步邁向量產，縮短測試時間、降低成本成為重要課題。由於CPO需協同進行電學與光學量測，測試裝置與軟體的整合需求升高，預估2027年將是測試架構收斂的關鍵年。傳統半導體自動測試裝置（ATE）大廠積極佈局的同時，新的製程、技術挑戰也為相關裝置、測試介面與封測服務供應商創造全新商機。"
+    },
+    {
+      "id": "mkt:01a1341e-868e-7ee0-a850-55bcf308fbd2",
+      "time": "2026-10-13 15:16:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures midday close】2-year bond futures (TS) front contract up 0.01%, 5-year (TF) up 0.04%, 10-year (T) up 0.06%, 30-year (TL) unchanged."
+    },
+    {
+      "id": "te:markets:591412",
+      "time": "2026-10-13 15:16:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.06% Higher — The Shangai Composite Index gained 2 points or 0.06 percent on Tuesday to close at 3800 points. Gains were led by Avic Aviation Engine (4.92%), Avic Shenyang Aircraft (4.10%) and Yonyou Soft (2.77%). Biggest losers were China Pacific Insu (-4.12%), Ping An Insurance (-3.06%) and China Life Insurance (-2.71%)."
+    },
+    {
+      "id": "5141464",
+      "time": "2026-10-13 15:15:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軟體股走強，金蝶看漲期權交易規模創紀錄】金蝶看漲期權交易量連續第二個交易日激增並創下歷史新高。半導體與硬體股走弱之際，金蝶股價延續漲勢，同板塊軟體股同步上行。金蝶認購期權成交量達6800張合約，為20日均值的12倍；認沽期權成交1600張。2026年10月29日到期、行權價8.25港元的認購期權，以及2026年11月27日到期、行權價8.50港元和8港元的認購期權交易最為活躍。該股盤中最高上漲7%至8.67港元，三日累計漲幅接近20%，為6月以來最大三日漲幅。"
+    },
+    {
+      "id": "5141463",
+      "time": "2026-10-13 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約基本持平， 10年期主力合約漲0.06%， 5年期主力合約漲0.04%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5141462",
+      "time": "2026-10-13 15:14:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【里昂：金蝶國際第三季ARR持續增長，重申“跑贏大市”評級】里昂發表研報指，金蝶國際截至9月底止第三季訂閱服務年度經常性收入(ARR)同比增長19.3%至46.04億元，第三季淨新增ARR同比升46.9%，受金蝶AI套件及靈基(Lingee)強勁需求帶動。該行指出，今年首三季金蝶AI原生合約價值達10.02億元，意味第三季新增約3.97億元，高於第二季的3.75億元及第一季的2.3億元，反映公司的AI原生產品正帶來增量經常性收入，同時現有主要訂閱服務業務亦持續健康增長。該行重申對其“跑贏大市”評級，目標價12.6港元。"
+    },
+    {
+      "id": "5141461",
+      "time": "2026-10-13 15:14:19",
+      "tags": [
+        "行業",
+        "資料",
+        "其他"
+      ],
+      "text": "【去年上海接待遊客4.25億人次，入境外國遊客數居全國首位】上海市文化和旅遊局局長趙勇在釋出會上介紹，2025年，上海市接待遊客4.25億人次、實現旅遊收入6723.65億元，相比2020年分別實現年均增長12.39%、16.45%。2025年，全市舉辦營業性演出6.14萬場，較2020年翻番；舉辦文博美展超1500場，吸引客流超5000萬人次，其中，超六成為跨城觀演觀展的外省遊客。2025年，全市接待入境遊客數936.02萬人次，其中入境外國遊客佔到全國五分之一，居全國首位。（澎湃新聞）"
+    },
     {
       "id": "5141460",
       "time": "2026-10-13 15:13:57",
