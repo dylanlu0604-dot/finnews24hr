@@ -1,7 +1,118 @@
 {
-  "updated": "2026-10-13 23:27:41",
-  "count": 10906,
+  "updated": "2026-10-13 23:31:41",
+  "count": 10915,
   "items": [
+    {
+      "id": "te:markets:591574",
+      "time": "2026-10-13 23:30:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Berkshire Hathaway Shares Hit 9-week High — Berkshire Hathaway shares increased to 523.81 USD, the highest since August 2026. Over the past 4 weeks, Berkshire Hathaway gained 1.71%, and in the last 12 months, it increased 5.6%."
+    },
+    {
+      "id": "5142769",
+      "time": "2026-10-13 23:30:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "應用材料跌幅擴大至7.7%。"
+    },
+    {
+      "id": "te:markets:591573",
+      "time": "2026-10-13 23:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 9 bps — Majority of government bonds yields are lower on Tuesday. Top gainers are Brazil 10Y (8.50bps). Biggest losers are South Korea 10Y (-7.20bps), France 10Y (-6.80bps), Italy 10Y (-5.47bps), US 10Y (-1.70bps), Japan 10Y (-1.30bps) and Germany 10Y (-1.23bps)."
+    },
+    {
+      "id": "mkt:01a135e2-7f38-7ee0-a85b-cfa10690a803",
+      "time": "2026-10-13 23:29:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell $1.00 intraday to $59.29/oz, down 1.66%."
+    },
+    {
+      "id": "mkt:01a135e2-7804-7ee0-a85b-c75a1d0fb69e",
+      "time": "2026-10-13 23:29:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose 1.00% intraday to $93.32/bbl."
+    },
+    {
+      "id": "5142768",
+      "time": "2026-10-13 23:29:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士議會支援瑞銀為政府流動性支援支付費用。"
+    },
+    {
+      "id": "5142767",
+      "time": "2026-10-13 23:29:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4160美元/盎司，日內跌0.28%。"
+    },
+    {
+      "id": "te:markets:591572",
+      "time": "2026-10-13 23:29:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Erase Gains — US stock indices pulled back from session highs on Tuesday as Treasuries reversed gains and pressured AI infrastructure names alongside major earnings. Chipmakers extended declines on reports that China's CXMT advanced new memory architecture, threatening US and Korean rivals. Broadcom CEO Hock Tan also warned of excessive AI lab spending yielding poor returns, sending Micron, Marvell, and SanDisk down 4% to 6%. In turn, J&J sank 5.5% on soft sales, while UNH gained 2% on an upgraded profit outlook. Financials saw uneven results, with Citigroup falling 2% despite posting strong revenues and Wells Fargo slipping 1.4% after publishing results. On the other hand Goldman Sachs jumped 1% on a boost from equity trading. JPMorgan rose 1.5% as a raised net interest income forecast offset weaker fixed-income trading and higher costs."
+    },
+    {
+      "id": "5142766",
+      "time": "2026-10-13 23:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩總統重申：堅持透過談判結束黎以敵對狀態】當地時間13日，黎巴嫩總統約瑟夫·奧恩重申，黎巴嫩致力於透過談判結束與以色列的敵對狀態，確保以軍撤出黎巴嫩、釋放被扣押人員，並推進重建工作。（央視新聞）"
+    },
+    {
+      "id": "5142765",
+      "time": "2026-10-13 23:28:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "PIMCO首席投資官：美國國債收益率尚未見頂，長端國債能夠承受美聯儲進一步收緊政策；對利率敏感行業的溢位風險最大，比如住房和商業房地產。"
+    },
+    {
+      "id": "mkt:01a135e0-8212-7ee0-a85b-b9a19955572f",
+      "time": "2026-10-13 23:27:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Strait of Hormuz shipping risk rises as more than a dozen VLCCs turn back near Fujairah】Iranian attacks on vessels transiting the Strait of Hormuz have surged, potentially threatening the recent rebound in Persian Gulf oil exports. Shipping sources say cargo volumes via the strait earlier this month recovered close to pre-conflict levels, but recent signs point to a possible slowdown. There is no clear evidence that crude loading at several major producers has changed, and one owner said ship transits appear unrestricted. Aggregated tanker-tracking data show more than a dozen VLCCs and several Suezmaxes turned back or altered course near Fujairah, a major hub at the entrance to the strait. Brokers and some owners report additional slowdowns, notably longer wait times for ship-to-ship transfers, though an STS operator said his business had not been affected."
+    },
     {
       "id": "mkt:01a135df-db37-7ee0-a85b-b05ccad31b5d",
       "time": "2026-10-13 23:27:05",
@@ -98904,25 +99015,6 @@
         "國際"
       ],
       "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.47%，歐洲斯托克指數上漲0.58%，歐元區藍籌股指數上漲0.52%。英國富時100指數上漲0.43%，德國DAX指數上漲0.82%，法國CAC 40指數上漲0.44%，西班牙IBEX指數上漲0.66%。"
-    },
-    {
-      "id": "te:markets:589916",
-      "time": "2026-10-06 23:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Falls by 14 bps — Majority of government bonds yields are lower on Tuesday. Top losers are Brazil 10Y (-13.50bps), Italy 10Y (-10.18bps), US 10Y (-5bps) and Germany 10Y (-1.25bps). Gains are led by Japan 10Y (1bps)."
-    },
-    {
-      "id": "5128917",
-      "time": "2026-10-06 23:28:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西議員弗拉維奧·博索納羅：特朗普對巴西選舉的言論凸顯盧拉在全球舞臺上何等孤立。"
     }
   ]
 }
