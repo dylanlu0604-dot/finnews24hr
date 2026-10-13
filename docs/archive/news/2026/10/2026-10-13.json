@@ -1,7 +1,196 @@
 {
   "date": "2026-10-13",
-  "count": 578,
+  "count": 599,
   "items": [
+    {
+      "id": "mkt:01a132c9-b0cd-7ee0-a846-55ba1b13841e",
+      "time": "2026-10-13 09:04:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea KOSPI plunges about 4% intraday, triggers sell-side circuit breaker after two months】About one hour after Tuesday's open the KOSPI fell roughly 4% and triggered a sell-side circuit breaker, suspending sell-order quote effectiveness for five minutes amid KOSPI 200 futures volatility. At the trigger KOSPI 200 futures quoted 955.02, down 51.20 points or 5.08% from the prior close. The sell circuit breaches when KOSPI 200 futures drop more than 5% and persist for one minute. This is the first market circuit breaker since Aug. 20 and the first sell-side trigger since Aug. 19."
+    },
+    {
+      "id": "5140347",
+      "time": "2026-10-13 09:03:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬斯克砸3.66億美元助選共和黨】據美國《紐約時報》等媒體當地時間10月12日報道，美國企業家、億萬富翁馬斯克在2026年美國中期選舉週期（2025年1月1日開始）迄今已花費約3.66億美元，其中自今年7月以來投入了2.76億美元，以幫助共和黨保住對國會的控制權。競選財務記錄還顯示，這位世界首富很可能已成為今年美國中期選舉單筆投入最大的政治捐款人。據《紐約時報》報道，馬斯克還透過不披露捐款人資訊的團體捐贈了更多資金。"
+    },
+    {
+      "id": "5140346",
+      "time": "2026-10-13 09:02:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟重組Azure雲端計算部門以推進人工智慧改革。"
+    },
+    {
+      "id": "te:economy:591283",
+      "time": "2026-10-13 09:02:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Foreign Direct Investment",
+        "Importance 1"
+      ],
+      "text": "Philippines FDI Drops 44.1% in July — Net foreign direct investment (FDI) in the Philippines plunged by 44.1% year-on-year to USD 689 million in July 2026. The decline was driven by lower net inflows in net equity capital investments other than reinvestment of earnings and net debt instruments, dropping 55.5% and 49.1%, respectively, which more than offset the 39.9% increase in reinvestment of earnings. In the first seven months of the year, net FDI inflows decreased by 23.9% to USD 4.07 billion, reflecting lower net inflows across all major FDI components, such as net equity capital investments other than reinvestment of earnings (-6.9%), reinvestment of earnings (-14.2%), and net debt instruments (-30.6%).Capital placements came primarily from Japan, the United States, and Singapore. These funds were channeled largely into the manufacturing, financial and insurance, and real estate industries."
+    },
+    {
+      "id": "mkt:01a132c7-8344-7ee0-a846-4beb8d624c87",
+      "time": "2026-10-13 09:01:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Weighted Index opened down 830.97 points (-1.69%) at 48,470.99 on Oct 13 (Tuesday)."
+    },
+    {
+      "id": "mkt:01a132c7-7f2d-7ee0-a846-438b6d452e3b",
+      "time": "2026-10-13 09:01:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 0.8% in early trade on Tuesday, Oct. 13, to 897.64 yuan/gram; Shanghai Gold Exchange silver T+D fell 1.75% to 14,563.0 yuan/kg."
+    },
+    {
+      "id": "5140345",
+      "time": "2026-10-13 09:01:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1134.08美元/盎司。"
+    },
+    {
+      "id": "5140344",
+      "time": "2026-10-13 09:01:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普聯手普京壓低柴油價格 讓美國共和黨選前出現內部分歧】距離美國中期選舉僅剩數週，而選情正愈發朝有利於民主黨的方向發展，美國總統唐納德·特朗普就俄羅斯柴油出口作出的安排以及他對俄羅斯總統弗拉基米爾·普京的公開讚揚，成為近期一系列涉俄事件中的最新一宗，也引發共和黨人公開批評。特朗普表示，他正與普京合作，推動俄羅斯柴油重新進入全球市場，希望藉此在11月3日中期選舉前緩解燃油價格壓力。這實際上顛覆了持續多年的對俄製裁政策。歐洲官員則警告稱，增加俄羅斯柴油出口將增強莫斯科對烏克蘭作戰的能力。對於一些選情膠著的共和黨候選人而言，總統此舉無異於一場不受歡迎的“十月驚奇”。目前共和黨正艱難維持其在參眾兩院的微弱多數優勢。“我們需要一位能夠領導自由世界的總統，”內布拉斯加州共和黨眾議員Don Bacon在社交媒體上表示。“坦率地說，特朗普過去如此，現在依然如此，在普京問題上態度軟弱。”長期與特朗普意見不合的Bacon即將退休，而其所在的奧馬哈選區預計將轉為民主黨席位。"
+    },
+    {
+      "id": "mkt:01a132c6-db8a-7ee0-a846-38284a825ae1",
+      "time": "2026-10-13 09:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: military training in South China Sea】The Qinglan Maritime Safety Administration posted on the China Maritime Safety Administration website that military training will take place in parts of the South China Sea on Oct 13 from 09:00 to 11:00 local time; vessels are prohibited from entering the affected area."
+    },
+    {
+      "id": "5140343",
+      "time": "2026-10-13 09:00:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報4651.00元。"
+    },
+    {
+      "id": "mkt:01a132c6-9d0a-7ee0-a846-36266af47d8e",
+      "time": "2026-10-13 09:00:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China fuel oil front-month futures rose 4.00% intraday to 5,295 yuan/ton."
+    },
+    {
+      "id": "5140342",
+      "time": "2026-10-13 09:00:34",
+      "tags": [],
+      "text": "國內期貨主力合約漲跌不一。低硫燃料油（LU）漲近6％，燃料油漲超3％，SC原油漲超2％。跌幅方面，甲醇跌超5％，碳酸鋰跌超4％，乙二醇（EG）、瀝青、蘋果跌超2％。"
+    },
+    {
+      "id": "5140341",
+      "time": "2026-10-13 09:00:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1.5%至48,564.60點。"
+    },
+    {
+      "id": "mkt:01a132c6-4974-7ee0-a846-2bfc635870c0",
+      "time": "2026-10-13 09:00:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.44%."
+    },
+    {
+      "id": "5140340",
+      "time": "2026-10-13 09:00:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲6%，現報5949.00元。"
+    },
+    {
+      "id": "mkt:01a132c6-2b01-7ee0-a846-2754297fb99f",
+      "time": "2026-10-13 09:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "At the open, China’s most-active futures were mixed. Low-sulfur fuel oil (LU) jumped nearly 6%, fuel oil rose over 3% and SC crude gained more than 2%; methanol fell over 5%, lithium carbonate dropped more than 4%, and ethylene glycol (EG), asphalt and apples declined over 2%."
+    },
+    {
+      "id": "5140339",
+      "time": "2026-10-13 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報4885.00元。"
+    },
+    {
+      "id": "5140338",
+      "time": "2026-10-13 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報5935.00元。"
+    },
+    {
+      "id": "5140337",
+      "time": "2026-10-13 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報104480.00元。"
+    },
+    {
+      "id": "5140336",
+      "time": "2026-10-13 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】低硫燃料油連續漲5.99%，碳酸鋰連續跌4.22%，燃料油連續漲3.73%，上海原油連續漲2.72%，乙二醇連續跌2.23%。"
+    },
+    {
+      "id": "5140335",
+      "time": "2026-10-13 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.43%。"
+    },
     {
       "id": "mkt:01a132c5-810b-7ee0-a846-197dfd2a2835",
       "time": "2026-10-13 08:59:26",
