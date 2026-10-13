@@ -1,7 +1,52 @@
 {
   "date": "2026-10-13",
-  "count": 502,
+  "count": 507,
   "items": [
+    {
+      "id": "5140294",
+      "time": "2026-10-13 08:28:55",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：考慮當前估值和股息率水平 看好家電龍頭後市表現】中信證券研報稱，2026年第三季度家電行業受需求和原材料價格波動影響，經營有所承壓。分板塊看，中信證券認為2026年第三季度白電龍頭業績或有所承壓；黑電龍頭業績或表現較好；小家電和廚電行業整體業績仍等待修復。考慮當前的估值和股息率水平，看好家電龍頭的後市表現。"
+    },
+    {
+      "id": "5140293",
+      "time": "2026-10-13 08:28:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿提哈德航空表示，阿布扎比與利雅得之間的所有航班已取消，停飛期持續至10月19日。"
+    },
+    {
+      "id": "5140292",
+      "time": "2026-10-13 08:27:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋航空表示，因“區域局勢動盪”，已取消阿布扎比往返沙烏地阿拉伯利雅得、吉達以及達曼的航班。"
+    },
+    {
+      "id": "5140291",
+      "time": "2026-10-13 08:27:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜推出了基於 GLM-5.3-Flash 底層架構構建的垂直領域法律模型 GLM-Legal】智譜 AI（Z.ai）正式宣佈推出專為法律行業工作流程打造的垂直領域大模型——GLM-Legal。該模型基於智譜最新的 GLM-5.3-Flash 底層架構構建，旨在透過強大的長文字處理能力與深度法律知識推理，全面賦能合同審查、證據分析、合規審查及跨境業務等法律實務場景。"
+    },
+    {
+      "id": "mkt:01a132a8-9550-7ee0-a845-458a6b7e7906",
+      "time": "2026-10-13 08:27:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China International Capital Co: Continue to favor large Chinese banks vs. overseas peers】China International Capital Co says since August shares of overseas systemically important banks have fallen about 8% on average while large Chinese banks are up roughly 9%, with Chinese banks' YTD average return near 32%, outpacing foreign peers. The firm warns short-term price moves do not confirm a long-term trend reversal, but differences in fiscal policy, interest-rate and credit cycles and a market repricing of banks' future profitability and balance-sheet risk make large Chinese banks relatively attractive on a risk‑return basis. China International Capital Co continues to favor large Chinese banks versus overseas peers."
+    },
     {
       "id": "5140290",
       "time": "2026-10-13 08:25:48",

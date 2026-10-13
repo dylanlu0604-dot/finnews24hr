@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-13 08:26:22",
+  "updated": "2026-10-13 08:30:08",
   "count": 10875,
   "items": [
+    {
+      "id": "5140294",
+      "time": "2026-10-13 08:28:55",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：考慮當前估值和股息率水平 看好家電龍頭後市表現】中信證券研報稱，2026年第三季度家電行業受需求和原材料價格波動影響，經營有所承壓。分板塊看，中信證券認為2026年第三季度白電龍頭業績或有所承壓；黑電龍頭業績或表現較好；小家電和廚電行業整體業績仍等待修復。考慮當前的估值和股息率水平，看好家電龍頭的後市表現。"
+    },
+    {
+      "id": "5140293",
+      "time": "2026-10-13 08:28:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿提哈德航空表示，阿布扎比與利雅得之間的所有航班已取消，停飛期持續至10月19日。"
+    },
+    {
+      "id": "5140292",
+      "time": "2026-10-13 08:27:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋航空表示，因“區域局勢動盪”，已取消阿布扎比往返沙烏地阿拉伯利雅得、吉達以及達曼的航班。"
+    },
+    {
+      "id": "5140291",
+      "time": "2026-10-13 08:27:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜推出了基於 GLM-5.3-Flash 底層架構構建的垂直領域法律模型 GLM-Legal】智譜 AI（Z.ai）正式宣佈推出專為法律行業工作流程打造的垂直領域大模型——GLM-Legal。該模型基於智譜最新的 GLM-5.3-Flash 底層架構構建，旨在透過強大的長文字處理能力與深度法律知識推理，全面賦能合同審查、證據分析、合規審查及跨境業務等法律實務場景。"
+    },
+    {
+      "id": "mkt:01a132a8-9550-7ee0-a845-458a6b7e7906",
+      "time": "2026-10-13 08:27:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China International Capital Co: Continue to favor large Chinese banks vs. overseas peers】China International Capital Co says since August shares of overseas systemically important banks have fallen about 8% on average while large Chinese banks are up roughly 9%, with Chinese banks' YTD average return near 32%, outpacing foreign peers. The firm warns short-term price moves do not confirm a long-term trend reversal, but differences in fiscal policy, interest-rate and credit cycles and a market repricing of banks' future profitability and balance-sheet risk make large Chinese banks relatively attractive on a risk‑return basis. China International Capital Co continues to favor large Chinese banks versus overseas peers."
+    },
     {
       "id": "5140290",
       "time": "2026-10-13 08:25:48",
@@ -98682,51 +98727,6 @@
         "MKT News"
       ],
       "text": "Hong Kong S&P Global Manufacturing PMI 49.2 in September, down from 49.5 previously."
-    },
-    {
-      "id": "mkt:01a10e9e-0892-7ee0-a7ab-5aedc7c15d3b",
-      "time": "2026-10-06 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Hong Kong | Manufacturing PMI (Sep) | actual 49.2 | previous 49.5"
-    },
-    {
-      "id": "5127261",
-      "time": "2026-10-06 08:29:19",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通稱韓國股市有望有序追趕AI復甦後行情】摩根大通指出，考慮到投資者持倉結構和盈利增長，韓國股市在7月AI/記憶體復甦後的回撥可能比以往的AI反彈週期更為有序。 分析師包括Tony Lee在一份報告中寫道，當前走勢“看起來比爆發式更受控制”，並引用了“改善的Gamma背景”來降低機械放大波動及每股收益修正風險。 儘管韓國記憶體基本面有所改善，但其在7月AI/記憶體復甦後仍處於落後狀態，仍有空間進行追趕，尤其是當高收益率、油價以及亞洲市場風險偏好下降等宏觀經濟因素趨於穩定時。 韓國9月份波動性環境有所改善，使交易商在股票上的長Gamma頭寸達到約4.3億美元，這是過去一年以來最長的Gamma持倉。 “由於看漲期權端價格偏高，我們認為透過具有豐富凸性特徵的結構性產品持有KOSPI2看漲敞口最為合適。”在三星和SK海力士第三季度財報釋出之前，分析師認為“HBM需求、定價與產品組合、匯率以及資本支出管控和股東回報更新是關鍵催化劑，市場存在大幅波動的可能”。"
-    },
-    {
-      "id": "5127259",
-      "time": "2026-10-06 08:29:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【強颱風“彩雲”將向東北方向移動，強度逐漸減弱】據@中國天氣 訊息，今年第27號颱風“彩雲”（強颱風級）的中心今天早晨5點鐘位於距離日本東京東南方向約945公里的海面上，中心附近最大風力14級（45米/秒），中心最低氣壓為950百帕。預計，“彩雲”將以每小時30-35公里的速度向東北方向移動，強度逐漸減弱。"
-    },
-    {
-      "id": "5127250",
-      "time": "2026-10-06 08:27:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人權理事會透過中國提出的人人享有無障礙決議】聯合國人權理事會第63屆會議5日協商一致透過中國代表47國提出的“無障礙建設促進所有人享有人權”決議。中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德在介紹決議草案時表示，無障礙環境建設為各類群體平等便捷參與社會生活、充分實現各項人權提供重要保障。本次決議草案著眼人口老齡化，致力於推動無障礙和適老化建設；聚焦人工智慧等新興技術帶來的機遇和挑戰，呼籲各國在新興數字技術開發使用中，堅持創新、包容、開放、公平、安全、可靠等原則，促進無障礙資訊交流。"
-    },
-    {
-      "id": "5127249",
-      "time": "2026-10-06 08:26:34",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "摩根大通表示，韓國股市有望有序地追趕人工智慧領域的復甦行情。"
     }
   ]
 }
