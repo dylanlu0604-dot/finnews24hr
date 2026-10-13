@@ -1,7 +1,23 @@
 {
   "date": "2026-10-14",
-  "count": 335,
+  "count": 337,
   "items": [
+    {
+      "id": "mkt:01a1370c-a11c-7ee0-a862-7b30f3346a28",
+      "time": "2026-10-14 04:55:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi national arrested after concealed recorder found in OpenAI meeting room】OpenAI and the U.S. Department of Justice said a Saudi national, Abdulrahman Alfozan, was arrested on Oct. 9 on criminal charges after a concealed recording device was found behind a television in an executive meeting room. Alfozan, who joined OpenAI’s product team in July 2025, has been detained by federal authorities and was fired. OpenAI said it used its AI models to analyze the device and identify the person who placed it; the room is regularly used for confidential discussions of research, product plans, commercial strategy, government affairs and business relationships. The company reported the matter to the FBI, which carried out the arrest, and said there is no evidence the individual improperly accessed or stole model weights, source code or customer data. The investigation is ongoing."
+    },
+    {
+      "id": "5143112",
+      "time": "2026-10-14 04:54:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局解除里根國家機場（DCA）的地面停飛指令。"
+    },
     {
       "id": "te:markets:591614",
       "time": "2026-10-14 04:51:03",

@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-14 04:52:11",
-  "count": 10994,
+  "updated": "2026-10-14 04:56:00",
+  "count": 10985,
   "items": [
+    {
+      "id": "mkt:01a1370c-a11c-7ee0-a862-7b30f3346a28",
+      "time": "2026-10-14 04:55:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi national arrested after concealed recorder found in OpenAI meeting room】OpenAI and the U.S. Department of Justice said a Saudi national, Abdulrahman Alfozan, was arrested on Oct. 9 on criminal charges after a concealed recording device was found behind a television in an executive meeting room. Alfozan, who joined OpenAI’s product team in July 2025, has been detained by federal authorities and was fired. OpenAI said it used its AI models to analyze the device and identify the person who placed it; the room is regularly used for confidential discussions of research, product plans, commercial strategy, government affairs and business relationships. The company reported the matter to the FBI, which carried out the arrest, and said there is no evidence the individual improperly accessed or stole model weights, source code or customer data. The investigation is ongoing."
+    },
+    {
+      "id": "5143112",
+      "time": "2026-10-14 04:54:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局解除里根國家機場（DCA）的地面停飛指令。"
+    },
     {
       "id": "te:markets:591614",
       "time": "2026-10-14 04:51:03",
@@ -99713,127 +99729,6 @@
         "其他"
       ],
       "text": "【委內瑞拉一煉油廠發生火災後停產】當地時間10月6日，位於委內瑞拉西北部的卡登煉油廠發生火災，現場可見明火和濃煙。目前，煉油廠工作人員已被緊急疏散，工廠暫時停產。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a112ff-a474-7ee0-a7c5-a77011f98c11",
-      "time": "2026-10-07 04:55:05",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Shipowners pay heavy premiums for Strait of Hormuz transits; crew likened to mercenaries】Financial Times reports that as Iran has stepped up attacks on vessels, Gulf tanker captains can earn about $100k/month plus a $50k bonus per voyage for transits of the Strait of Hormuz, according to three sources close to owners and crew. Shipowners are offering large hazard allowances to persuade seafarers to remain aboard while Gulf states seek to keep crude moving through the choke point. Normal wages are about $1,500/month for ordinary crew and ~$15,000 for captains; pay typically doubles in the southern Red Sea and Gulf of Oman and rises further for each Hormuz transit, with ordinary crew receiving at least 4-6x their normal pay. One source said the seafarers are 'almost treated like mercenaries.'"
-    },
-    {
-      "id": "mkt:01a112fe-614d-7ee0-a7c5-9eb5ba473160",
-      "time": "2026-10-07 04:53:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. API refined product inventories for the week to Oct. 2 rose 461,000 barrels, versus forecasts for a 2.341 mln-barrel draw and a prior 286,000-barrel draw."
-    },
-    {
-      "id": "mkt:01a112fe-3bde-7ee0-a7c5-92f6fe959c5b",
-      "time": "2026-10-07 04:53:33",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Distillate Stocks Change (Oct.2) | actual 461000M | consensus -2341000M | previous -286000M"
-    },
-    {
-      "id": "mkt:01a112fe-2cde-7ee0-a7c5-8e479bbb987c",
-      "time": "2026-10-07 04:53:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US API Cushing crude inventories rose 866,000 barrels in the week to Oct. 2, versus a 233,000-barrel build previously."
-    },
-    {
-      "id": "mkt:01a112fe-136d-7ee0-a7c5-818352b1f752",
-      "time": "2026-10-07 04:53:23",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Oct.2) | actual 866000M | previous 233000M"
-    },
-    {
-      "id": "mkt:01a112fd-fc41-7ee0-a7c5-7f69bf3be104",
-      "time": "2026-10-07 04:53:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US gasoline stocks (API) for week to Oct. 2: -1.4 mln barrels; prior +2.991 mln barrels."
-    },
-    {
-      "id": "mkt:01a112fd-d7a8-7ee0-a7c5-720e5549f89b",
-      "time": "2026-10-07 04:53:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Gasoline Stocks Change (Oct.2) | actual -1400000M | previous 2991000M"
-    },
-    {
-      "id": "5129171",
-      "time": "2026-10-07 04:53:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至10月2日當週API原油庫存 -210萬桶，前值101.9萬桶。\n美國至10月2日當週API汽油庫存 -140萬桶，前值299.1萬桶。\n美國至10月2日當週API庫欣原油庫存 86.6萬桶，前值23.3萬桶。"
-    },
-    {
-      "id": "mkt:01a112fd-b4f6-7ee0-a7c5-6a69d7964592",
-      "time": "2026-10-07 04:52:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "API U.S. weekly crude stocks for week to Oct. 2: -2.10 mln bbl; prior +1.019 mln bbl."
-    },
-    {
-      "id": "mkt:01a112fd-9379-7ee0-a7c5-612439bf7861",
-      "time": "2026-10-07 04:52:50",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | API Weekly Crude Oil Stocks Change (Oct.2) | actual -2100000M | previous 1019000M"
-    },
-    {
-      "id": "5129170",
-      "time": "2026-10-07 04:52:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "週二（10月6日）紐約尾盤，現貨黃金髒0.58%，報4163.20美元/盎司。現貨白銀漲0.44%，報61.3410美元/盎司。COMEX銅期貨漲0.24%，報6.6570美元/磅。"
     }
   ]
 }
