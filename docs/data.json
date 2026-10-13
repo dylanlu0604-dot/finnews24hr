@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-14 04:59:46",
-  "count": 10984,
+  "updated": "2026-10-14 05:03:31",
+  "count": 10989,
   "items": [
+    {
+      "id": "mkt:01a13713-2466-7ee0-a862-9203322e3d0f",
+      "time": "2026-10-14 05:02:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Foreign Minister Araghchi held a phone call with Oman's foreign minister to discuss recent regional developments, including Yemen, and to explore paths to regional peace and stability."
+    },
+    {
+      "id": "mkt:01a13713-1789-7ee0-a862-8dae8f45f7ef",
+      "time": "2026-10-14 05:02:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi missile strike hits ARAMCO Dhahran HQ; partial fire reported】Six people familiar with the matter said on Tuesday that Houthi forces launched a missile strike that hit ARAMCO’s headquarters in Dhahran in eastern Saudi Arabia, causing a partial fire. One source said the blaze was later extinguished. The extent of damage is unclear and it is not yet known whether the fire was caused by intercepted debris. The Saudi-led coalition conducting operations in Yemen said Houthi missiles struck multiple Saudi cities including Riyadh and Dhahran, and that debris from intercepts fell into a residential area in Dhahran. Dhahran, on Saudi Arabia’s Persian Gulf coast, is at the center of the country’s oil industry."
+    },
+    {
+      "id": "te:economy:591616",
+      "time": "2026-10-14 05:02:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "Argentina Inflation Rises in September — Argentina’s consumer price index rose 1.9% month-over-month in September 2026, up from 1.7% in August, and accumulated 23.6% year-to-date. Housing, water, electricity, gas and other fuels recorded the largest monthly increase at 3.1%, followed by education at 3.0%. Restaurants and hotels posted the smallest increase at 1.1%, while clothing and footwear rose 1.4%. Food and non-alcoholic beverages made the largest contribution to monthly inflation across regions, except in Greater Buenos Aires, where housing and utilities had the greatest impact. Core CPI rose 1.7%, driven in part by higher prices for dining out and pharmaceutical products. Seasonal prices increased 2.9%, led by vegetables, tubers and legumes, while regulated prices rose 2.3%, reflecting higher gas, electricity and private healthcare costs."
+    },
+    {
+      "id": "5143115",
+      "time": "2026-10-14 05:01:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長與阿曼外長通話，雙方討論包括葉門局勢在內的地區最新動態，並探討實現地區和平穩定的途徑。"
+    },
+    {
+      "id": "mkt:01a13710-728f-7ee0-a862-8748c4e56986",
+      "time": "2026-10-14 04:59:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel reinstates free trade agreement with Colombia】Israel's Foreign Ministry said on the 13th it has reinstated the free trade agreement with Colombia."
+    },
     {
       "id": "5143114",
       "time": "2026-10-14 04:58:42",
