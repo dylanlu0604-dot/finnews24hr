@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-14 05:14:51",
-  "count": 10986,
+  "updated": "2026-10-14 05:18:40",
+  "count": 10982,
   "items": [
+    {
+      "id": "mkt:01a1371e-ca31-7ee0-a862-9bc3adf18ffb",
+      "time": "2026-10-14 05:15:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Sources said the lawyer for Fed Governor Cook condemned U.S. President Trump for launching a new round of investigations."
+    },
+    {
+      "id": "5143119",
+      "time": "2026-10-14 05:15:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.04%，報13707點。"
+    },
     {
       "id": "5143118",
       "time": "2026-10-14 05:12:50",
@@ -99692,58 +99712,6 @@
         "MKT News"
       ],
       "text": "US President Trump said he will soon speak with Russian President Putin about a \"suspected plague\" case."
-    },
-    {
-      "id": "5129183",
-      "time": "2026-10-07 05:18:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【拉脫維亞總統支援現總理牽頭組建新政府】拉脫維亞總統林克維奇斯6日在記者會上宣佈，他支援現任總理安德里斯·庫爾貝格斯牽頭展開新一屆政府組建談判。據拉脫維亞中央選舉委員會公佈的初步計票結果，在3日舉行的拉脫維亞第15屆議會選舉中，共有6個政黨或政黨聯盟獲得5%以上選票，進入新一屆議會。庫爾貝格斯領導的政黨聯盟“聯合名單”獲得35.3%的選票，並在拉脫維亞議會100個議席中贏得41個席位，成為議會第一大政治力量。（新華社）"
-    },
-    {
-      "id": "5129182",
-      "time": "2026-10-07 05:16:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴西9月石油出口創歷史新高，受產量上升與需求強勁推動】巴西政府週二公佈的資料顯示，巴西9月石油出口創下歷史新高，總量達到1,170萬公噸；國內產量上升以及強勁的國際需求推動了整月裝運增長。當月裝運量超過了2023年3月創下的此前月度紀錄1,100萬噸。與去年同期相比，9月出口量增長42.2%，石油裝運收入則躍升77.3%，達到約65億美元。這一強勁表現得益於巴西產量創下新高與國際需求上升的共同支撐。美國與以色列對伊朗的戰爭已使全球石油流動承壓，主要透過霍爾木茲海峽的航運中斷推高了原油價格。巴西石油生產則受益於鹽下油田的持續擴張，尤其是桑托斯盆地的布濟烏斯和梅羅區域。"
-    },
-    {
-      "id": "5129181",
-      "time": "2026-10-07 05:16:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：預計明日可以通報相關磋商情況。"
-    },
-    {
-      "id": "5129180",
-      "time": "2026-10-07 05:16:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及俄羅斯疑似鼠疫事件：雙方正在進行深度磋商。"
-    },
-    {
-      "id": "mkt:01a11312-ca68-7ee0-a7c5-b93cba8faa6e",
-      "time": "2026-10-07 05:16:00",
-      "tags": [
-        "MKT News",
-        "JBLU.O",
-        "Impact bullish",
-        "SAVE.O",
-        "Impact bearish"
-      ],
-      "text": "Documents show the US Federal Aviation Administration (FAA) has approved transfer of 22 LaGuardia Airport slots from the now-defunct Spirit Airlines to JetBlue."
-    },
-    {
-      "id": "5129179",
-      "time": "2026-10-07 05:15:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.12%，報13872點。"
     }
   ]
 }

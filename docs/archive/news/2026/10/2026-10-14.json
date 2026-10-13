@@ -1,7 +1,27 @@
 {
   "date": "2026-10-14",
-  "count": 348,
+  "count": 350,
   "items": [
+    {
+      "id": "mkt:01a1371e-ca31-7ee0-a862-9bc3adf18ffb",
+      "time": "2026-10-14 05:15:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Sources said the lawyer for Fed Governor Cook condemned U.S. President Trump for launching a new round of investigations."
+    },
+    {
+      "id": "5143119",
+      "time": "2026-10-14 05:15:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.04%，報13707點。"
+    },
     {
       "id": "5143118",
       "time": "2026-10-14 05:12:50",
