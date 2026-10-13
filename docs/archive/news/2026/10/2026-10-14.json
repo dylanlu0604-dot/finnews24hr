@@ -1,7 +1,66 @@
 {
   "date": "2026-10-14",
-  "count": 330,
+  "count": 335,
   "items": [
+    {
+      "id": "te:markets:591614",
+      "time": "2026-10-14 04:51:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Banks and Energy Stocks Advance — The S&P/TSX Composite Index rose 0.9% to close at 35,984 on Tuesday as Canadian bond yields stabilized. The pause in the recent rally that had pushed yields to multi-year highs supported credit-sensitive sectors such as banking. RBC rose 1.3%, TD Bank gained 2.2%, BMO advanced 1.3%, and Scotiabank and CIBC added 1.8% each. Energy producers also advanced as oil prices erased earlier losses. Canadian Natural jumped 4.8%, Suncor rose 3.7%, Imperial Oil gained 4.5% and Cenovus advanced 4.2%. In technology, Shopify and Constellation Software rose 3% each amid gains in US hyperscalers, while Celestica fell 1.7%, tracking losses among chipmakers. Elsewhere, CSG acquired a 9.5% stake in MDA Space, becoming its largest shareholder; MDA gained 1.1%. Miners declined as gold prices fell, with Barrick down 1.4% and Agnico Eagle and WPM shedding 2.1% each."
+    },
+    {
+      "id": "mkt:01a13708-2a0a-7ee0-a862-757d7e9dfac1",
+      "time": "2026-10-14 04:50:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense said the danger alert for Wadi ad-Dawasir governorate in Riyadh province has been lifted."
+    },
+    {
+      "id": "mkt:01a13706-a245-7ee0-a862-6e1e00bb1870",
+      "time": "2026-10-14 04:49:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ET",
+        "Impact bullish",
+        "BE",
+        "ORCL.O",
+        "Impact bearish"
+      ],
+      "text": "【Oracle urges regulators to speed approval of gas pipeline for New Mexico data center】Oracle urged federal regulators to promptly approve the Green Chile natural gas pipeline to meet fuel needs for its large New Mexico data-center Project Jupiter. In a letter to FERC, Oracle SVP Josh Pitcock said continued delay of the Energy Transfer LP subsidiary-run pipeline would threaten Project Jupiter’s construction schedule and associated jobs, economic activity and community benefits. The Green Chile line is expected to deliver roughly 400 million cubic feet/day to Bloom Energy fuel cells powering Project Jupiter; commissioning has slipped to February 2027 from an earlier Aug. 15 target."
+    },
+    {
+      "id": "mkt:01a13706-75e4-7ee0-a862-652faf83ce43",
+      "time": "2026-10-14 04:48:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Collins said the Federal Reserve's economic models will fully account for government debt levels."
+    },
+    {
+      "id": "mkt:01a13706-3392-7ee0-a862-5dda02cead26",
+      "time": "2026-10-14 04:48:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Collins said the Fed will not reconsider its 2% inf target."
+    },
     {
       "id": "mkt:01a13703-f980-7ee0-a862-537273ad3e02",
       "time": "2026-10-14 04:46:09",
