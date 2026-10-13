@@ -1,7 +1,94 @@
 {
   "date": "2026-10-14",
-  "count": 498,
+  "count": 509,
   "items": [
+    {
+      "id": "te:markets:591629",
+      "time": "2026-10-14 07:58:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Steady Ahead of Inflation Report — US stock futures were little changed on Wednesday as investors awaited September’s consumer inflation report for clues on the Federal Reserve’s next interest rate decision. In corporate news, Bank of America shares dropped more than 2% in after-hours trading after federal regulators imposed over $1.2 billion in penalties, alleging that the bank had failed for years to report more than $5 billion in suspicious transactions. During Tuesday’s regular session, the Dow Jones fell 0.35%, the S&P 500 slipped 0.02%, and the Nasdaq Composite declined 0.15%. Memory stocks extended losses amid mounting concerns over AI-related investments and intensifying competition from China, with Micron falling 4.6%, SanDisk dropping 1.7%, Lam Research losing 3.2%, and Applied Materials tumbling 7.2%. Financial stocks also mostly ended lower following quarterly earnings releases, including Citigroup (-5.3%), Wells Fargo (-2.6%), Goldman Sachs (-0.1%), and JPMorgan (-0.3%)."
+    },
+    {
+      "id": "5143236",
+      "time": "2026-10-14 07:57:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國是否會在中東開闢“第二戰線”？胡塞武裝警告：若介入衝突，將面臨“沉重打擊”】葉門胡塞武裝與沙特之間的衝突呈螺旋式升級。胡塞武裝頻頻向沙特首都利雅得及軍事基地發射彈道導彈與無人機，對利雅得國際機場和沙特石油設施等的襲擊造成嚴重人員傷亡和財產損失，迫使多國航空公司暫停飛往利雅得的航班。面對本土屢遭重創、防禦體系捉襟見肘的困境，沙特已向美國緊急求援，請求直接軍事介入。胡塞武裝則公開發出警告稱，如果美國參與“對葉門的侵略”，將會“對美國在本地區的所有利益進行沉重打擊”。與此同時，沙特的請求讓正面臨中期選舉壓力的美國總統特朗普陷入兩難：若恢復對胡塞武裝的轟炸，不僅會進一步推高全球能源價格，更恐將美國拖入繼伊朗戰爭後的中東第二個戰爭泥潭；若繼續袖手旁觀，則可能動搖美沙同盟根基。隨著利雅得誓言“嚴肅回應”，地區局勢可能將滑向更危險的懸崖邊緣。（環球時報）"
+    },
+    {
+      "id": "5143235",
+      "time": "2026-10-14 07:57:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗副外長：若美再次侵略伊朗 後果將延伸至地區外】伊朗外交部副部長加里巴巴迪13日表示，如果美國再次侵略伊朗，其後果將延伸到地區外。加里巴巴迪警告稱，透過訴諸軍事和威脅重蹈覆轍，將導致遠超該地區的後果。他說，美國現在必須決定採取哪條道路。加里巴巴迪表示，伊朗一直對外交和談判保持建設性態度，同時為任何可能的情況做好準備。美國總統特朗普13日在白宮表示，他將很快就伊朗問題作出決定。"
+    },
+    {
+      "id": "5143234",
+      "time": "2026-10-14 07:56:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟發言人：Azure領導層未指示團隊制定成本削減計劃。"
+    },
+    {
+      "id": "5143233",
+      "time": "2026-10-14 07:55:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI正就收購安全初創公司Trail of Bits進行初步談判】知情人士透露，OpenAI正就收購安全初創公司Trail of Bits進行初步談判。目前尚無法獲悉這筆潛在交易的規模，談判仍在進行中。"
+    },
+    {
+      "id": "5143232",
+      "time": "2026-10-14 07:55:53",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：證券板塊具備中長期配置價值 建議關注三條主線】中信建投證券研報稱，證券板塊具備中長期配置價值，建議關注三條主線。節後成交額環比回升，主要源於資金迴流的日曆效應，但同比仍處回落態勢，且資金迴流更多體現為存量調倉，市場總體仍處於縮量整固階段。兩融餘額處於歷史高位但槓桿水平與市值擴張基本匹配，系統性加槓桿風險可控，市場風險偏好仍在修復通道。股權融資節奏平穩，資源持續向新質生產力領域傾斜。當前板塊估值處於歷史相對低位，具備一定安全邊際。建議關注科技投行差異化競爭力券商、大財富業務領先券商及金融科技標的、國際化提速驅動ROE上行的頭部券商。"
+    },
+    {
+      "id": "5143230",
+      "time": "2026-10-14 07:54:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西國家石油公司：根據監管檔案，收到與巴西汽油和柴油補貼計劃相關的約28億雷亞爾。"
+    },
+    {
+      "id": "5143229",
+      "time": "2026-10-14 07:52:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門石油設施遭襲 沙特主導聯軍攔截導彈】13日，沙特主導的多國聯軍對葉門首都薩那、西部荷臺達省等地發動空襲。當天晚些時候，多國聯軍攔截並摧毀了葉門胡塞武裝發射的導彈和無人機。（央視）"
+    },
+    {
+      "id": "em:jjsj_rbsj:202610143894732729",
+      "time": "2026-10-14 07:52:06",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本9月貨幣供應M3同比增長1.2%，前值1.20%。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202610143894727256",
+      "time": "2026-10-14 07:51:16",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本9月貨幣供應M2同比增加2%，前值2.00%。"
+    },
     {
       "id": "mkt:01a137ad-361e-7ee0-a863-8a4ef4ead7de",
       "time": "2026-10-14 07:51:00",
@@ -41,6 +128,14 @@
         "Important"
       ],
       "text": "Japan | M3 Money Supply (YoY) (Sep) | actual 1.2% | previous 1.20%"
+    },
+    {
+      "id": "5143228",
+      "time": "2026-10-14 07:50:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本9月貨幣供應M2同比增加2%，前值2.00%。"
     },
     {
       "id": "mkt:01a137ac-eeb3-7ee0-a863-6af6d9198523",
