@@ -1,7 +1,145 @@
 {
   "date": "2026-10-13",
-  "count": 507,
+  "count": 522,
   "items": [
+    {
+      "id": "mkt:01a132ad-b5d8-7ee0-a845-863066fe0116",
+      "time": "2026-10-13 08:33:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RESERVE BANK OF AUSTRALIA minutes said the board discussed upside risks to inflation and factors that may keep inflation elevated; some of those risks have emerged or been building since August."
+    },
+    {
+      "id": "5140301",
+      "time": "2026-10-13 08:33:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "澳洲聯儲：中東衝突升級，油價遠高於假設水平。"
+    },
+    {
+      "id": "mkt:01a132ad-4af2-7ee0-a845-79e0f09a5e92",
+      "time": "2026-10-13 08:32:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia minutes: all board members unanimously agreed a 25bp cash rate increase was needed."
+    },
+    {
+      "id": "mkt:01a132ad-203e-7ee0-a845-738f61d4fc9b",
+      "time": "2026-10-13 08:32:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia minutes said the board \"briefly\" considered holding the cash rate unchanged, citing recent falls in house prices."
+    },
+    {
+      "id": "5140300",
+      "time": "2026-10-13 08:32:49",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "澳元/美元下跌0.1%至0.6953美元，在澳洲聯儲會議記錄公佈後變動不大。"
+    },
+    {
+      "id": "mkt:01a132ac-f628-7ee0-a845-6c5feb0a3317",
+      "time": "2026-10-13 08:32:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia minutes: the board saw rising risk of persistent high inflation and judged economic demand had exceeded prior expectations."
+    },
+    {
+      "id": "5140299",
+      "time": "2026-10-13 08:32:25",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲：委員會擔憂經濟中的過度需求大於此前預期。"
+    },
+    {
+      "id": "5140298",
+      "time": "2026-10-13 08:31:55",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：看好AI影視與AI+IP兩條主線】中信證券研報稱，短劇與漫劇加速成為主流內容消費形態，據QuestMobile，2026年7月紅果短劇獨立App日活達1.68億，同比增長107%。海外市場方面，據短劇自習室微信公眾號，GoodShort與DramaBox將戰略合併，行業短期增長承壓疊加AI內容供給擴張，推動頭部平臺整合資源，具備內容製作、投放及使用者運營協同能力的平臺有望強化競爭優勢。同時，AI影視正向長篇、精品內容延伸，AI原生影視公司Utopai的《Space Nation》《Cortés》有望於2027年交付，據福布斯，若按計劃交付版權預售收入合計最高可達約1.1億美元，有望透過專案交付與商業化驗證推動產業持續發展。看好AI影視與AI+IP兩條主線。"
+    },
+    {
+      "id": "5140297",
+      "time": "2026-10-13 08:31:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上漲1.0個基點，至1.915%。5年期日本國債收益率上漲1.5個基點，至2.350%。"
+    },
+    {
+      "id": "5140295",
+      "time": "2026-10-13 08:30:47",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：製冷劑主力牌號配額壓減 邏輯不改價格堅挺】中信證券研報稱，2026年第二次製冷劑配額調整方案公示，總量小幅收縮；主力三代製冷劑配額壓減，部分配套品種配額上調。2026年上半年，製冷劑出口和內需均走弱，但底層邏輯不改，製冷劑價格依舊堅挺，行業有望維持高景氣。順應行業發展趨勢，在手握三代製冷劑配額的同時具有第四代製冷劑乃至混配製冷劑自主生產能力的企業有望進一步鞏固行業地位。"
+    },
+    {
+      "id": "em:jjsj_ozsj:202610133893320596",
+      "time": "2026-10-13 08:30:28",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "澳大利亞9月NAB商業信心指數為-13，前值-8。"
+    },
+    {
+      "id": "mkt:01a132aa-a1e9-7ee0-a845-64cb6ed69703",
+      "time": "2026-10-13 08:30:05",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia September NAB business confidence index -13, prior -8."
+    },
+    {
+      "id": "mkt:01a132aa-a031-7ee0-a845-585745a9bfe7",
+      "time": "2026-10-13 08:30:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia September NAB business confidence index -1, unchanged from prior -1."
+    },
+    {
+      "id": "mkt:01a132aa-8c2b-7ee0-a845-50cffc14b326",
+      "time": "2026-10-13 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business conditions Index (Sep) | actual -1 | previous -1"
+    },
+    {
+      "id": "mkt:01a132aa-8c25-7ee0-a845-4cd4012ef5a2",
+      "time": "2026-10-13 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business Confidence Index (Sep) | actual -13 | previous -8"
+    },
     {
       "id": "5140294",
       "time": "2026-10-13 08:28:55",
