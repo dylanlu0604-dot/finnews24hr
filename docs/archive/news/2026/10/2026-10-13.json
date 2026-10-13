@@ -1,7 +1,110 @@
 {
   "date": "2026-10-13",
-  "count": 551,
+  "count": 562,
   "items": [
+    {
+      "id": "5140323",
+      "time": "2026-10-13 08:48:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化交易。"
+    },
+    {
+      "id": "5140322",
+      "time": "2026-10-13 08:47:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國進出口銀行將發行日元計價多期債券。"
+    },
+    {
+      "id": "5140321",
+      "time": "2026-10-13 08:47:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普結束在俄亥俄州的講話。"
+    },
+    {
+      "id": "mkt:01a132ba-1c5d-7ee0-a845-fd88cbc3ce05",
+      "time": "2026-10-13 08:47:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China A-share margin financing balance down CNY 4.696 bln】As of Oct 12, margin financing on the Shanghai Stock Exchange was CNY 1,289.167 bln, down CNY 2.271 bln from the prior session; Shenzhen stood at CNY 1,228.022 bln, down CNY 2.425 bln. Combined margin financing across both exchanges was CNY 2,517.189 bln, a net decline of CNY 4.696 bln."
+    },
+    {
+      "id": "5140320",
+      "time": "2026-10-13 08:46:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少46.96億元】截至10月12日，上交所融資餘額報12891.67億元，較前一交易日減少22.71億元；深交所融資餘額報12280.22億元，較前一交易日減少24.25億元；兩市合計25171.89億元，較前一交易日減少46.96億元。"
+    },
+    {
+      "id": "5140319",
+      "time": "2026-10-13 08:46:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金髮科技等投資成立特種材料公司】企查查APP顯示，近日，四川明宏嘉成特種材料有限公司成立，經營範圍包含新型催化材料及助劑銷售；新材料技術推廣服務；電子專用材料製造；電子專用材料銷售等。企查查股權穿透顯示，該公司由金髮科技全資子公司廣州金髮催化新材料有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:01a132b9-a95f-7ee0-a845-f7ac2354ca0c",
+      "time": "2026-10-13 08:46:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil dips as Russian diesel outlook offsets Gulf attack risk】Oil prices fell slightly on Tuesday as markets balanced supply risk from an attack on Saudi Arabia against the prospect of added Russian diesel exports. President Trump said Russia had agreed to supply diesel to global markets and that his administration would temporarily lift sanctions on Russian fuel; US bipartisan lawmakers said the deal appears to violate a US law banning imports of Russian energy until the Russia‑Ukraine conflict ends. KCM Trade chief analyst Tim Waterer said increased Russian diesel flows and steady Saudi pipeline deliveries have eased some supply pressure, but markets remain concerned about the risk of further attacks on Gulf vessels or pipelines."
+    },
+    {
+      "id": "5140318",
+      "time": "2026-10-13 08:45:43",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗因董事長貸款引發擔憂下調海底撈目標價】花旗銀行下調了海底撈的目標價。此前，這家連鎖餐飲企業同意向其董事長張勇提供1億元人民幣貸款，用於其個人財務安排。花旗表示，此舉可能會重新引發投資者對控股股東資金需求的擔憂。分析師Xiaopo Wei在一份報告中寫道：“鑑於這筆貸款發生在控股股東於9月8日減持股份後僅約五週，考慮到市場重新開始擔憂其控股股東的資金需求，我們預計短期內投資者對海底撈的情緒將趨於負面。”花旗將海底撈的目標價從19.3港元下調至15.5港元。"
+    },
+    {
+      "id": "5140317",
+      "time": "2026-10-13 08:45:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據印度《經濟時報》報道，印度人工智慧初創公司SARVAM尋求2.5億至3億美元的新融資。SARVAM 正在洽談以 30 億美元的估值融資至多 3 億美元。"
+    },
+    {
+      "id": "mkt:01a132b8-5a66-7ee0-a845-eb6416c891de",
+      "time": "2026-10-13 08:45:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02555.HK"
+      ],
+      "text": "Cha Bai Dao (02555.HK) will suspend trading on the Hong Kong market from 09:00 local time on Oct. 13."
+    },
+    {
+      "id": "5140316",
+      "time": "2026-10-13 08:45:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾誠健華美托克拉聯合奧布替尼針對邊緣區淋巴瘤獲批開展註冊III期臨床】諾誠健華10月13日宣佈，公司自主研發的新型BCL2抑制劑美托克拉（Mesutocalx，ICP-248）聯合奧布替尼治療復發/難治性邊緣區淋巴瘤（r/r MZL）已經獲國家藥品監督管理局（NMPA）藥品審評中心（CDE）批准開展註冊III期臨床試驗。這是美托克拉獲批開展的第五項註冊臨床試驗。"
+    },
     {
       "id": "5140315",
       "time": "2026-10-13 08:43:24",
