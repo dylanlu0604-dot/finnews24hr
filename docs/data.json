@@ -1,7 +1,50 @@
 {
-  "updated": "2026-10-14 05:30:05",
-  "count": 10986,
+  "updated": "2026-10-14 05:33:49",
+  "count": 10991,
   "items": [
+    {
+      "id": "mkt:01a1372d-dd91-7ee0-a862-a131b4730ce9",
+      "time": "2026-10-14 05:31:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Cook's lawyer condemns Trump's new probe】The New York Times reports Fed Governor Cook is disputing President Trump's latest effort to remove her and has questioned the objectivity of a White House investigation into alleged mortgage fraud. In a letter to the White House, Cook's lawyer Abe Lowell said she cannot attend a hearing scheduled for Nov. 5 because she will be in Europe for a finance and monetary policy meeting, and that any hearing would be held no earlier than after the Fed's Dec. 8-9 policy meeting. Lowell also challenged the probe's neutrality, noting the committee conducting it is composed of Trump-appointed political officials, including White House National Economic Council director Hassett. Trump has long pushed to increase control over the Fed to lower borrowing costs; when asked last Friday about the probe he called Cook \"dishonest\" and said he would \"absolutely\" fire her if the committee found grounds for removal."
+    },
+    {
+      "id": "5143130",
+      "time": "2026-10-14 05:31:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國試圖施壓俄羅斯加入特朗普提出的能源停火協議。"
+    },
+    {
+      "id": "5143129",
+      "time": "2026-10-14 05:31:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆將於週三在唐寧街接待澤連斯基。"
+    },
+    {
+      "id": "5143128",
+      "time": "2026-10-14 05:30:50",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛：庫存偏低疊加中東液化天然氣出口環比下滑，支撐 TTF 天然氣價格維持在 80 多歐元 / 兆瓦時區間。"
+    },
+    {
+      "id": "5143127",
+      "time": "2026-10-14 05:30:10",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：冬季天氣的不確定性進一步擴大了今年冬季 TTF 天然氣價格的波動區間。"
+    },
     {
       "id": "5143126",
       "time": "2026-10-14 05:29:22",
