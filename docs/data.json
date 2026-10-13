@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-14 04:36:58",
-  "count": 10990,
+  "updated": "2026-10-14 04:40:46",
+  "count": 10995,
   "items": [
+    {
+      "id": "5143110",
+      "time": "2026-10-14 04:39:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：利雅得省達瓦西爾河谷與蘇萊伊勒行政區的危險已解除。"
+    },
+    {
+      "id": "5143109",
+      "time": "2026-10-14 04:39:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列 N12 新聞：伊朗近日開展了一系列彈道導彈發射試驗。"
+    },
+    {
+      "id": "5143108",
+      "time": "2026-10-14 04:38:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門預警，利雅得省蘇萊伊勒行政區存在潛在危險。"
+    },
+    {
+      "id": "5143107",
+      "time": "2026-10-14 04:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：日本利用駐俄記者蒐集情報將惡化俄日關係】俄羅斯外交部發言人扎哈羅娃13日就俄聯邦安全域性逮捕一名涉嫌從事間諜活動的日本人發表評論說，日方企圖利用其駐俄記者收集旨在破壞俄安全的情報，這種做法令人遺憾，將進一步惡化俄日關係。（新華社）"
+    },
+    {
+      "id": "mkt:01a136fb-a1cd-7ee0-a862-3b408008ef64",
+      "time": "2026-10-14 04:37:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense says it has issued a potential danger alert for Wadi ad-Dawasir county in Riyadh province."
+    },
+    {
+      "id": "mkt:01a136fb-a087-7ee0-a862-370a3d875d20",
+      "time": "2026-10-14 04:37:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Market reports: ARAMCO's headquarters in Dhahran was struck by Houthi forces."
+    },
     {
       "id": "5143106",
       "time": "2026-10-14 04:36:16",
@@ -99769,18 +99823,6 @@
         "公司"
       ],
       "text": "明晟公司MSCI新興市場股票指數漲0.2%，發展中國家外匯指數大致持平%。"
-    },
-    {
-      "id": "te:markets:589943",
-      "time": "2026-10-07 04:37:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Retreats After Election-Driven Rally — The Ibovespa fell 0.5% to close at 205,835 on Tuesday after hitting a record 206,912 in the previous session, when Flávio Bolsonaro finished ahead in Sunday’s first election round, defying most polls. The index was weighed by Petrobras (-2.8%) and Vale (-1.4%). Petrobras fell as the oil rally lost steam before prices edged higher late in the session. Vale extended losses ahead of the reopening of China’s iron ore market, which was closed from October 1 to October 7 for the weeklong National Day holiday. Banco do Brasil (-6.4%) and B3 (-2.7%) pulled back after surging 11% and 22.6%, respectively, on Monday. Other laggards included Axia (-3.1%), WEG (-1%) and Ambev (-1.5%). In contrast, Itaú (+2%) and Bradesco (+4.4%) extended gains after rallying 10.4% and 13.6%, respectively, on Monday. Brazil’s trade surplus surged 146.4% year over year in September, above forecasts of $7.19 billion and marking the sharpest annual increase since January 2024."
     }
   ]
 }
