@@ -1,7 +1,44 @@
 {
-  "updated": "2026-10-14 05:33:49",
-  "count": 10991,
+  "updated": "2026-10-14 05:37:36",
+  "count": 10993,
   "items": [
+    {
+      "id": "5143133",
+      "time": "2026-10-14 05:35:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【英國央行行長貝利警告稱能源衝擊持續越久 通脹壓力越難抵擋】英國央行行長貝利表示，美伊戰爭引發的能源成本衝擊目前對英國整體通脹的影響仍較有限，但隨著時間推移，避免更廣泛的通脹影響正變得越來越困難。“我們需要重點關注，這種通脹衝擊向間接效應和二輪效應傳導。”貝利在採訪中表示，“目前來看，這種傳導在英國相對溫和，這顯然令我感到鼓舞。但持續時間越長，情況就越難應對。”當被問及英國利率是否很快會上調時，貝利沒有直接作答。他表示，“我們一直以來所依據的分析框架並沒有改變。”上個月，貝利曾警告稱，石油和天然氣成本維持高位的時間越長，就越難抵擋加息壓力。"
+    },
+    {
+      "id": "5143132",
+      "time": "2026-10-14 05:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國財政大臣希利針對線上交易平臺發起規模 10 億英鎊的稅務稽查行動。英國財政大臣希利將宣佈，線上交易平臺須負責代收平臺內零售商所欠稅款。"
+    },
+    {
+      "id": "5143131",
+      "time": "2026-10-14 05:34:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特國家通訊社援引能源部官員訊息：沙特阿美大樓遇襲，引發小規模火情，無人員傷亡。"
+    },
+    {
+      "id": "mkt:01a1372f-88a3-7ee0-a862-a8a0192d0fa0",
+      "time": "2026-10-14 05:33:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Zelenskiy implies U.S. paused intelligence sharing; Russian ballistic missile struck Kyiv without warning】Ukrainian President Zelenskiy told Canadian Prime Minister Carney he had briefed him on a recent Russian strike and thanked Canada. Zelenskiy said Ukraine did not receive partner advance warnings about Russian ballistic missile launches, the second such lapse this week. The attack damaged a Kyiv residential building, igniting fires across floors 1–8; authorities report 1 dead and 6 injured. A major Kyiv energy facility was also struck. Zelenskiy said Ukraine is in contact with the U.S. and discussing possible diplomatic developments this week."
+    },
     {
       "id": "mkt:01a1372d-dd91-7ee0-a862-a131b4730ce9",
       "time": "2026-10-14 05:31:55",
@@ -99762,26 +99799,6 @@
         "其他"
       ],
       "text": "沙特主導聯軍稱，已攔截並摧毀葉門胡塞武裝射向海米斯穆謝特的彈道導彈。"
-    },
-    {
-      "id": "te:economy:589945",
-      "time": "2026-10-07 05:35:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "API Crude Oil Stock Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Inventories Fall 2.09 Million Barrels — US crude oil inventories fell by 2.09 million barrels in the week ending October 2, after rising 1.019 million barrels in the previous week. Commercial crude inventories excluding the SPR have declined by more than 38 million barrels over the past 25 weeks, while total US crude inventories are up nearly 13 million barrels year to date. Another 800,000 barrels were released from the SPR, bringing total holdings to 283 million barrels. The generally accepted operational minimum for the SPR is between 250 million and 300 million barrels. Cushing inventories rose by 866,000 barrels. Gasoline inventories fell by 1.37 million barrels after rising 2.991 million barrels the previous week, while distillate inventories increased by 461,000 barrels following a 286,000-barrel decline. US oil production rose to 13.955 million bpd in the week ending September 25, from 13.939 million bpd a week earlier."
-    },
-    {
-      "id": "mkt:01a11323-a69f-7ee0-a7c5-d4b0520dcdb6",
-      "time": "2026-10-07 05:34:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump to speak with Putin soon on suspected plague case in Russia】President Trump said he has arranged a call with President Putin to discuss a suspected pneumonic plague case in Russia and that the call would take place soon. A staffer at a research institute in Irkutsk region reportedly died after a suspected pneumonic plague infection; the U.S. embassy in Russia issued a health alert."
     }
   ]
 }
