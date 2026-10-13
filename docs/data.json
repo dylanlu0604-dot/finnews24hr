@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-13 23:51:40",
-  "count": 10952,
+  "updated": "2026-10-13 23:55:35",
+  "count": 10954,
   "items": [
+    {
+      "id": "5142800",
+      "time": "2026-10-13 23:54:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱美軍海上力量大幅後撤】伊朗海軍副司令法拉馬茲·貝馬尼10月12日表示，美軍海上力量已大幅後撤，遠離伊朗海上邊界。同時，美軍艦船無法進入位於巴林的美軍第五艦隊基地，該基地已經變成“空城”。貝馬尼警告稱，如果美國再次“誤判”局勢，伊朗軍隊將作出回應，讓美軍更加遠離伊朗海上邊界。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a135f8-0564-7ee0-a85c-dfe8c8d4708c",
+      "time": "2026-10-13 23:53:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Foreign Ministry urged Belgium to tone down anti-Russian rhetoric, warning it could escalate tensions and increase the risk of confrontations spiraling out of control."
+    },
+    {
+      "id": "te:markets:591577",
+      "time": "2026-10-13 23:51:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mastercard Shares Hit All-time High — Mastercard shares increased to an all-time high of 602.21 USD. Over the past 4 weeks, Mastercard gained 4.81%, and in the last 12 months, it increased 6.01%."
+    },
+    {
+      "id": "5142799",
+      "time": "2026-10-13 23:51:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談烏克蘭衝突：歸根結底，一切都會解決的。你知道為什麼嗎？向來如此。"
+    },
     {
       "id": "te:markets:591576",
       "time": "2026-10-13 23:51:02",
@@ -99378,26 +99414,6 @@
         "國際"
       ],
       "text": "美國核管理委員會（NRC）：麥圭爾1號反應堆功率從55%提升至81%。"
-    },
-    {
-      "id": "te:markets:589919",
-      "time": "2026-10-06 23:54:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "German Stocks at Nearly 2-Week High — The DAX closed 0.8% higher at 25,449 on Tuesday, extending gains for a third consecutive session and reaching its highest level in around two weeks. The index tracked a broadly positive mood across European and US markets, supported by lower oil prices and bond yields. Concerns over France’s fiscal position remained a headwind for the broader market, however, alongside political uncertainty surrounding a snap election in Spain. Expectations for further ECB rate hikes have also receded, with markets now pricing in a nearly 80% probability of another rate increase by the end of the year. SAP (2.2%), Infineon (1.9%), Siemens (1.5%) and Siemens Energy (1.4%) posted strong gains, while Rheinmetall (-2.8%) was the worst performer on the DAX."
-    },
-    {
-      "id": "5128941",
-      "time": "2026-10-06 23:53:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱擊中烏克蘭皮夫登內港一艘油輪。"
     }
   ]
 }
