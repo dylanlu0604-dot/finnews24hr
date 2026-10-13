@@ -1,7 +1,99 @@
 {
   "date": "2026-10-13",
-  "count": 1688,
+  "count": 1696,
   "items": [
+    {
+      "id": "mkt:01a135df-db37-7ee0-a85b-b05ccad31b5d",
+      "time": "2026-10-13 23:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PIMCO says long-dated government bonds can withstand further Federal Reserve rate hikes."
+    },
+    {
+      "id": "mkt:01a135df-c713-7ee0-a85b-ad1531551bd8",
+      "time": "2026-10-13 23:27:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "PIMCO expects the Federal Reserve to hold rates steady this month and anticipates one to two additional rate hikes in the current tightening cycle."
+    },
+    {
+      "id": "mkt:01a135df-a98c-7ee0-a85b-a4736c6cce65",
+      "time": "2026-10-13 23:26:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "PIMCO says markets have not yet seen the peak in US Treasury yields."
+    },
+    {
+      "id": "5142764",
+      "time": "2026-10-13 23:26:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "雪佛龍股價創歷史新高，最新上漲1.5%。"
+    },
+    {
+      "id": "mkt:01a135dd-f4c8-7ee0-a85b-9fa490585be2",
+      "time": "2026-10-13 23:25:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said NVIDIA invested $8 billion in Europe over the past year."
+    },
+    {
+      "id": "5142763",
+      "time": "2026-10-13 23:24:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達CEO黃仁勳：英偉達過去一年在歐洲投資了80億美元。"
+    },
+    {
+      "id": "mkt:01a135dc-c7a0-7ee0-a85b-9238caed5bbf",
+      "time": "2026-10-13 23:23:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said open models are a \"huge advantage\" for Europe."
+    },
+    {
+      "id": "5142762",
+      "time": "2026-10-13 23:23:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英偉達CEO黃仁勳：開放模型對歐洲而言是一大優勢。"
+    },
     {
       "id": "mkt:01a135db-7306-7ee0-a85b-8d798decaff4",
       "time": "2026-10-13 23:22:16",
