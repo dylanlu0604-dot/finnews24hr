@@ -1,7 +1,69 @@
 {
-  "updated": "2026-10-13 09:04:22",
-  "count": 10922,
+  "updated": "2026-10-13 09:08:08",
+  "count": 10924,
   "items": [
+    {
+      "id": "5140351",
+      "time": "2026-10-13 09:07:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微軟推進 AI 架構改革，重組 Azure 雲業務部門】Azure 雲業務負責人斯科特・格思裡（Scott Guthrie）週一向員工表示，微軟正在調整 Azure 雲業務管理層，整合內部部門，圍繞人工智慧重新佈局。本次重組中，此前負責 Azure 資料庫產品的阿倫・烏拉格（Arun Ulag），將同時接管 Azure 核心業務與 Azure 工程部門高管團隊。Azure 核心業務為 OpenAI 等客戶提供算力資源。斯科特・格思裡（Scott Guthrie）告知員工，受其管轄的高管包括吉里什・巴布拉尼（Girish Bablani）、比利・安德斯（Billy Anders）、道格拉斯・菲利普斯（Douglas Phillips）和馬克・魯西諾維奇（Mark Russinovich）。瞭解本次重組的知情人士稱，今年早些時候卸任微軟安全業務負責人、轉為顧問角色的查理・貝爾（Charlie Bell），現在也向阿倫・烏拉格（Arun Ulag）彙報。今年微軟已有多名高管離職，其中包括 Azure AI 負責人埃裡克・博伊德（Eric Boyd），他於今年春季離職，出任 Anthropic 基礎設施主管，此次人事調整正是發生在這一系列高管離任之後。"
+    },
+    {
+      "id": "te:markets:591285",
+      "time": "2026-10-13 09:06:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Edges Lower on Dollar Strength — Gold fell toward $4,150 an ounce on Tuesday, declining for a second consecutive session as the US dollar climbed to an 18-month high ahead of key inflation reports that could shape the Federal Reserve’s next interest rate decision. The US consumer price index is due on Wednesday, followed by producer inflation data on Thursday. Markets are pricing in roughly an 80% probability that the Fed will leave interest rates unchanged this month, while assigning nearly an 88% chance of a rate hike in December. Investors also monitored geopolitical tensions as the US considers joining Saudi Arabia in its campaign against Iran-backed Houthi militants in Yemen, while the recently announced Russia-Ukraine “energy ceasefire” has already been violated. These developments have kept oil prices elevated, fueling inflation concerns and increasing expectations of further interest rate hikes."
+    },
+    {
+      "id": "5140350",
+      "time": "2026-10-13 09:05:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報105.58美元/桶。"
+    },
+    {
+      "id": "mkt:01a132ca-c0b1-7ee0-a846-5ab18308455e",
+      "time": "2026-10-13 09:05:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact mixed"
+      ],
+      "text": "The Information reports Microsoft is reorganizing its Azure cloud division as part of an AI-driven overhaul."
+    },
+    {
+      "id": "te:economy:591284",
+      "time": "2026-10-13 09:04:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Inflation Risks Prompt September Rate Hike: RBA Minutes — Minutes from the Reserve Bank of Australia’s September meeting showed that policymakers unanimously raised the cash rate by 25bps to 4.6%, citing persistent inflation risks. Several upside threats flagged in August had materialised, including Middle East tensions driving oil above forecasts, global cost pressures partly tied to AI demand, and stronger domestic activity. Inflation readings exceeded expectations, with businesses reporting widespread cost pass-throughs. Short-term expectations stayed high, raising concern about medium-term drift. While the labour market eased broadly as anticipated, demand remained firm and capacity pressures stronger than assessed. Members warned that delaying action risked entrenching inflation after a prolonged period above target. They also noted that holding steady could weaken the Australian dollar as other central banks tightened. The priority remained returning inflation to target, with forecasts pointing to a mid-2027 return to the midpoint."
+    },
+    {
+      "id": "5140349",
+      "time": "2026-10-13 09:04:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.3%至31.992。"
+    },
     {
       "id": "mkt:01a132c9-b0cd-7ee0-a846-55ba1b13841e",
       "time": "2026-10-13 09:04:01",
@@ -9,6 +71,14 @@
         "MKT News"
       ],
       "text": "【South Korea KOSPI plunges about 4% intraday, triggers sell-side circuit breaker after two months】About one hour after Tuesday's open the KOSPI fell roughly 4% and triggered a sell-side circuit breaker, suspending sell-order quote effectiveness for five minutes amid KOSPI 200 futures volatility. At the trigger KOSPI 200 futures quoted 955.02, down 51.20 points or 5.08% from the prior close. The sell circuit breaches when KOSPI 200 futures drop more than 5% and persist for one minute. This is the first market circuit breaker since Aug. 20 and the first sell-side trigger since Aug. 19."
+    },
+    {
+      "id": "5140348",
+      "time": "2026-10-13 09:03:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本內閣官房長官木原稔：對美國製裁國際刑事法院深表關切。"
     },
     {
       "id": "5140347",
@@ -99118,51 +99188,6 @@
         "Impact mixed"
       ],
       "text": "Market sources: US Treasury Secretary Bessent expects Q3 GDP growth to exceed 3% and says mortgage rates will decline once the Iran war ends."
-    },
-    {
-      "id": "mkt:01a10ec0-9cb4-7ee0-a7ab-cdfe34884a0d",
-      "time": "2026-10-06 09:07:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan 20-year government bond yield rose 1bp to 3.98%."
-    },
-    {
-      "id": "5127593",
-      "time": "2026-10-06 09:07:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率上漲1個基點，至3.98%。"
-    },
-    {
-      "id": "5127588",
-      "time": "2026-10-06 09:07:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "東麗萊卡（Toray Lycra）滋賀工廠發生爆炸，一人受傷。"
-    },
-    {
-      "id": "5127570",
-      "time": "2026-10-06 09:06:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗戰爭結束抵押貸款利率將會回落。"
-    },
-    {
-      "id": "5127560",
-      "time": "2026-10-06 09:05:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【谷歌與Constellation接近達成十億美元核電採購協議】隨著各大科技企業爭相為資料中心擴容保障電力供應，谷歌母公司字母表公司即將與Constellation EnergyCorp.達成核電採購協議。知情人士透露，這家科技巨頭即將簽訂一份多年期協議，向Constellation支付至少 10 億美元，預計最快本週官宣。因資訊尚未公開，知情人士要求匿名。美國最大核反應堆運營商Constellation與谷歌週一均拒絕對此置評。目前尚無法確定本次核電專案的確切規模與選址。"
     }
   ]
 }
