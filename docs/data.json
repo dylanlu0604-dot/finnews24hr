@@ -1,7 +1,102 @@
 {
-  "updated": "2026-10-13 08:37:42",
-  "count": 10897,
+  "updated": "2026-10-13 08:41:29",
+  "count": 10905,
   "items": [
+    {
+      "id": "5140312",
+      "time": "2026-10-13 08:40:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【馬來西亞最高元首買入一家礦業公司股權 後者正拓展稀土業務】馬來西亞最高元首易卜拉欣·伊斯干達買入了當地礦業公司Southern Alliance Mining Ltd.的一些股權，該公司在宣告中表示，交易金額為610萬新元（480萬美元）。此次收購正值在新加坡上市的鐵礦石開採商Southern Alliance Mining向馬來西亞稀土領域擴張，該公司在最高元首的故鄉柔佛州也開展了一個專案。易卜拉欣從該公司總經理Pek Kok Sam手中購入了該公司已發行股份的2.25%，每股0.425新元，較週一收盤價0.380新元溢價近12%。該公司在週一晚間釋出的宣告中表示，公司並非此次交易的參與方，未從中獲得任何收益。"
+    },
+    {
+      "id": "5140311",
+      "time": "2026-10-13 08:39:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【東北多地最低溫或跌破冰點 南方大範圍秋雨上線】今明天（10月13日至14日），受冷空氣影響，北方涼意加重，東北多地最低氣溫將跌至冰點上下，或重新整理今年下半年來新低，公眾需加強保暖措施，謹防感冒。受冷暖空氣交匯影響，南方秋雨發展，西南地區至長江中下游一帶將迎降雨過程，局地降雨有一定極端性，需警惕次生災害。"
+    },
+    {
+      "id": "mkt:01a132b3-443d-7ee0-a845-e4fe7ef2fc25",
+      "time": "2026-10-13 08:39:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia meeting minutes said inf faces multiple upside risks, with domestic capacity pressures possibly broader than expected and international developments adding to those risks."
+    },
+    {
+      "id": "mkt:01a132b3-280c-7ee0-a845-db5a7e7c1654",
+      "time": "2026-10-13 08:39:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia minutes said it could raise the cash rate again if necessary."
+    },
+    {
+      "id": "mkt:01a132b2-6df8-7ee0-a845-d26160d434cc",
+      "time": "2026-10-13 08:38:36",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia minutes said overseas monetary policy tightening could indirectly ease Australian financial conditions by prompting AUD depreciation."
+    },
+    {
+      "id": "5140310",
+      "time": "2026-10-13 08:38:02",
+      "tags": [
+        "資料",
+        "央行"
+      ],
+      "text": "澳洲聯儲會議紀要：若有必要可能再次上調現金利率。"
+    },
+    {
+      "id": "mkt:01a132b1-a324-7ee0-a845-c873882d103f",
+      "time": "2026-10-13 08:37:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia minutes: house price declines exceeded expectations, indicating financial conditions may be relatively tight."
+    },
+    {
+      "id": "mkt:01a132b1-8ff5-7ee0-a845-c460dd4cc6e0",
+      "time": "2026-10-13 08:37:39",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia minutes: a neutral-rate model indicates policy is modestly restrictive; the neutral rate may have risen."
+    },
+    {
+      "id": "te:markets:591279",
+      "time": "2026-10-13 08:37:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "New Zealand Dollar Hits 18-month Low — NZDUSD decreased to 0.56, the lowest since April 2025. Over the past 4 weeks, New Zealand Dollar US Dollar lost 3.44%, and in the last 12 months, it decreased 2.42%."
+    },
     {
       "id": "5140309",
       "time": "2026-10-13 08:36:50",
@@ -98920,18 +99015,6 @@
         "公司"
       ],
       "text": "加拿大廣播公司法語臺預測，魁北克分離主義政黨贏得魁北克省選舉。"
-    },
-    {
-      "id": "te:economy:589681",
-      "time": "2026-10-06 08:38:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hong Kong",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Private Sector Contracts the Most in 5 Months — The S&P Global Hong Kong SAR PMI declined to 49.2 in September 2026 from 49.1 in August, marking the second straight month of contraction. It was the fastest contraction in private-sector business activity since April, as new orders fell for the second consecutive month, though there were signs of improvement in international demand. Output also shrank for the second straight month due to challenges in the economic environment, including a decline in customer numbers and competitive pressures."
     }
   ]
 }
