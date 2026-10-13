@@ -1,7 +1,54 @@
 {
   "date": "2026-10-13",
-  "count": 497,
+  "count": 502,
   "items": [
+    {
+      "id": "5140290",
+      "time": "2026-10-13 08:25:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "以太幣下跌3.8%，至2,422.91美元；比特幣 下跌1.97%，報81,384.86美元。"
+    },
+    {
+      "id": "mkt:01a132a4-b25a-7ee0-a845-39e357662887",
+      "time": "2026-10-13 08:23:36",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "SK Hynix shares fell more than 6%, Samsung Electronics shares fell more than 5%."
+    },
+    {
+      "id": "te:markets:591275",
+      "time": "2026-10-13 08:23:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Inch Lower — Australian stocks slipped 21 points or 0.2% to 8,762 in early Tuesday trade, snapping two sessions of gains as U.S. stock futures weakened after a mixed Wall Street close overnight. Rising crude oil prices stoked inflation worries ahead of key U.S. CPI data this week. Locally, traders turned cautious ahead of September business confidence later today and upcoming labor market figures in the coming days. In main trading partner China, key data will also be released, including CPI/ PPI and trade performance, adding to the watchlist. Sectoral losses in non-energy minerals, tech, and consumer durables were partly offset by gains in energy minerals, financials, and retail trade. Heavyweights BHP Group slipped 1.6%, along with Fortescue (-2.1%), South32 (-3.3%), and Pro Medicus (-1.6%). In contrast, three of the four big banks managed modest advances."
+    },
+    {
+      "id": "5140289",
+      "time": "2026-10-13 08:23:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "IPT：騰訊10年期美元債在+115個基點區域，20年期在+140個基點區域。"
+    },
+    {
+      "id": "5140288",
+      "time": "2026-10-13 08:22:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭不對鋁型材進口實施保障措施】紐西蘭商務部長卡梅倫・布魯爾在電子郵件宣告中表示，紐西蘭決定不對鋁型材進口徵收保障措施。本土產業稱進口產品造成損害後，紐西蘭商業、創新與就業部（MBIE）官員完成調查，結論是綜合公共利益考量，不應實施保障措施。布魯爾採納了該建議。他稱，商業、創新與就業部發現該行業確實面臨困境，進口加劇了相關壓力。“但調查同時發現，進口只是行業困境的眾多誘因之一，建築活動低迷、生產成本上升等因素同樣影響顯著。”商業、創新與就業部報告指出，實施保障措施或將推高下游製造企業、終端使用者與消費者的成本，也不利於紐西蘭的國際關係與貿易目標。布魯爾表示，該行業仍可另行申請反傾銷或反補貼稅調查，核查進口產品是否存在定價不公或獲得補貼的情況。他稱，如果行業打算走上述途徑，商業、創新與就業部願意與其開展建設性協作。"
+    },
     {
       "id": "5140287",
       "time": "2026-10-13 08:21:44",
