@@ -1,7 +1,105 @@
 {
   "date": "2026-10-13",
-  "count": 1638,
+  "count": 1648,
   "items": [
+    {
+      "id": "5142733",
+      "time": "2026-10-13 23:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會發布檔案，擬審查募集資金用途披露情況。"
+    },
+    {
+      "id": "5142732",
+      "time": "2026-10-13 23:02:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國將於10月15日發行1100億美元4週期國債，10月20日結算。"
+    },
+    {
+      "id": "5142731",
+      "time": "2026-10-13 23:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會就修訂上市義務和披露要求條例釋出諮詢檔案。"
+    },
+    {
+      "id": "mkt:01a135c8-3b83-7ee0-a85b-295495a19e2e",
+      "time": "2026-10-13 23:01:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures rose above $94/bbl, up 0.28% on the day."
+    },
+    {
+      "id": "mkt:01a135c8-09b2-7ee0-a85b-22e4a3dec149",
+      "time": "2026-10-13 23:01:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "China's front-month futures were mixed at the 23:00 Beijing close. Benzene and fuel oil rose more than 2%; ethylene glycol (EG), palm oil, styrene (EB), soybean oil and polypropylene rose over 1%. On the downside, soda ash, 20# rubber and short fiber fell more than 1%; bottle-grade PET chips, rubber and low‑sulfur fuel oil (LU) declined about 1%."
+    },
+    {
+      "id": "5142730",
+      "time": "2026-10-13 23:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破94美元/桶，日內漲0.28%。"
+    },
+    {
+      "id": "mkt:01a135c7-72ea-7ee0-a85b-1a0b407eba73",
+      "time": "2026-10-13 23:00:25",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "Boeing delivered 57 aircraft in September 2026."
+    },
+    {
+      "id": "te:markets:591569",
+      "time": "2026-10-13 23:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Polish Zloty Increases by 0.67% — Top currency gainers are Polish Zloty (0.67%), Swedish Krona (0.64%), Norwegian Krone (0.51%), Euro (0.34%), British Pound (0.30%) and Japanese Yen (0.14%). Biggest losers are South Korean Won (-0.52%), Mexican Peso (-0.42%), Brazilian Real (-0.42%) and Dollar Index (-0.34%)."
+    },
+    {
+      "id": "5142729",
+      "time": "2026-10-13 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】瀝青連續漲2.97%，燃料油連續漲2.02%，純鹼連續跌1.54%，乙二醇連續漲1.40%，棕櫚油連續漲1.34%。"
+    },
+    {
+      "id": "te:economy:591568",
+      "time": "2026-10-13 22:59:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Azerbaijan",
+        "Inflation Rate MoM",
+        "Importance 0"
+      ],
+      "text": "Azerbaijan CPI Rises the Most in 8 Months — The CPI in Azerbaijan increased 0.9% month-over-month in September 2026, the most in eight months, following a 0.2% rise in August. Prices for food, alcoholic beverages and tobacco products went up 1.4%, with cost for buckwheat, beef, mutton and chicken, fresh and frozen fish, eggs, plums, peaches, chestnuts, greens, cucumbers, tomatoes, sweet peppers, eggplant, green beans, carrots, onions and potatoes rising. Prices for non-food products increased 0.4%, led by clothing, paint, sawn wood, furniture, laptops and tablet computers while prices for jewelry decreased. Year-on-year, the CPI rose 5.5%, slightly less than 5.7% in August."
+    },
     {
       "id": "5142728",
       "time": "2026-10-13 22:58:20",

@@ -1,7 +1,105 @@
 {
-  "updated": "2026-10-13 22:59:31",
-  "count": 10887,
+  "updated": "2026-10-13 23:03:38",
+  "count": 10893,
   "items": [
+    {
+      "id": "5142733",
+      "time": "2026-10-13 23:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會發布檔案，擬審查募集資金用途披露情況。"
+    },
+    {
+      "id": "5142732",
+      "time": "2026-10-13 23:02:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國將於10月15日發行1100億美元4週期國債，10月20日結算。"
+    },
+    {
+      "id": "5142731",
+      "time": "2026-10-13 23:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會就修訂上市義務和披露要求條例釋出諮詢檔案。"
+    },
+    {
+      "id": "mkt:01a135c8-3b83-7ee0-a85b-295495a19e2e",
+      "time": "2026-10-13 23:01:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures rose above $94/bbl, up 0.28% on the day."
+    },
+    {
+      "id": "mkt:01a135c8-09b2-7ee0-a85b-22e4a3dec149",
+      "time": "2026-10-13 23:01:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "China's front-month futures were mixed at the 23:00 Beijing close. Benzene and fuel oil rose more than 2%; ethylene glycol (EG), palm oil, styrene (EB), soybean oil and polypropylene rose over 1%. On the downside, soda ash, 20# rubber and short fiber fell more than 1%; bottle-grade PET chips, rubber and low‑sulfur fuel oil (LU) declined about 1%."
+    },
+    {
+      "id": "5142730",
+      "time": "2026-10-13 23:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破94美元/桶，日內漲0.28%。"
+    },
+    {
+      "id": "mkt:01a135c7-72ea-7ee0-a85b-1a0b407eba73",
+      "time": "2026-10-13 23:00:25",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "Boeing delivered 57 aircraft in September 2026."
+    },
+    {
+      "id": "te:markets:591569",
+      "time": "2026-10-13 23:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Polish Zloty Increases by 0.67% — Top currency gainers are Polish Zloty (0.67%), Swedish Krona (0.64%), Norwegian Krone (0.51%), Euro (0.34%), British Pound (0.30%) and Japanese Yen (0.14%). Biggest losers are South Korean Won (-0.52%), Mexican Peso (-0.42%), Brazilian Real (-0.42%) and Dollar Index (-0.34%)."
+    },
+    {
+      "id": "5142729",
+      "time": "2026-10-13 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】瀝青連續漲2.97%，燃料油連續漲2.02%，純鹼連續跌1.54%，乙二醇連續漲1.40%，棕櫚油連續漲1.34%。"
+    },
+    {
+      "id": "te:economy:591568",
+      "time": "2026-10-13 22:59:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Azerbaijan",
+        "Inflation Rate MoM",
+        "Importance 0"
+      ],
+      "text": "Azerbaijan CPI Rises the Most in 8 Months — The CPI in Azerbaijan increased 0.9% month-over-month in September 2026, the most in eight months, following a 0.2% rise in August. Prices for food, alcoholic beverages and tobacco products went up 1.4%, with cost for buckwheat, beef, mutton and chicken, fresh and frozen fish, eggs, plums, peaches, chestnuts, greens, cucumbers, tomatoes, sweet peppers, eggplant, green beans, carrots, onions and potatoes rising. Prices for non-food products increased 0.4%, led by clothing, paint, sawn wood, furniture, laptops and tablet computers while prices for jewelry decreased. Year-on-year, the CPI rose 5.5%, slightly less than 5.7% in August."
+    },
     {
       "id": "5142728",
       "time": "2026-10-13 22:58:20",
@@ -98677,47 +98775,6 @@
         "國際"
       ],
       "text": "兩名訊息人士稱，俄羅斯伏爾加格勒煉油廠在遭遇無人機襲擊後，已於10月2日停止原油加工。"
-    },
-    {
-      "id": "5128884",
-      "time": "2026-10-06 23:03:21",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行稱，9月核心月度消費者物價指數有所下降。"
-    },
-    {
-      "id": "mkt:01a111bd-0cfc-7ee0-a7bf-3bf6e00a00d8",
-      "time": "2026-10-06 23:02:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Two sources said Russia's Volgograd refinery halted refining operations after a drone strike on Oct. 2."
-    },
-    {
-      "id": "5128883",
-      "time": "2026-10-06 23:01:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：節後情緒有望出現回升】中信建投釋出研報稱，9月市場持續弱勢，情緒指數在上半月持續下滑，到9月15日降至35附近的階段低點後展開修復行情。然而情緒指數在9月22日升至52附近後再次回落，未能突破55，甚至很快跌至50下方，到月末再次降至38以下。從短期看，國慶節前市場明顯縮量、情緒回落符合季節效應，節後情緒有望出現回升，展開修復行情。從長期看，相比8月情緒指數未能突破60，9月情緒指數甚至未能突破55隨即開始回落，導致情緒指數高點進一步下行，後續需要警惕增量資金存量博弈的情況，可以觀察節後情緒指數能否突破55回升至60-65區間。"
-    },
-    {
-      "id": "te:markets:589912",
-      "time": "2026-10-06 23:00:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Mexican Peso Rises by 0.58% — Top currency gainers are Mexican Peso (0.58%), Polish Zloty (0.54%), Swedish Krona (0.52%), British Pound (0.43%) and Euro (0.31%). Biggest losers are Dollar Index (-0.31%) and Japanese Yen (-0.10%)."
     }
   ]
 }
