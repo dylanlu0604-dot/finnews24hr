@@ -1,7 +1,60 @@
 {
   "date": "2026-10-13",
-  "count": 1624,
+  "count": 1630,
   "items": [
+    {
+      "id": "5142724",
+      "time": "2026-10-13 22:48:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【OpenAI稱可攻克數學難題引學界爭議】近日，美國開放人工智慧研究中心OpenAI釋出700多篇由其內部模型生成的數學手稿，聲稱其模型能夠解決上百個數學難題，此舉在學界引發爭議。OpenAI聲稱，這些手稿解決了300多道人類之前無法攻克的數學難題，覆蓋代數、邏輯、幾何、機率等領域。這一事件引發廣泛關注，促使數學家思考人工智慧將如何衝擊、重塑數學研究。法國數學家塞德里克·維拉尼直言，這將是數學領域的一場變革。不過，有不少數學家對OpenAI宣稱的成果持懷疑態度。菲爾茲獎得主雨果·迪米尼-科潘表示，這批手稿涉及海量理論與資料，驗證工作量巨大。而OpenAI在釋出700多篇手稿後，也因為出現錯誤而撤回了3篇。還有學者指出，不少AI生成的證明方式不符合人類的思維習慣。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a135bb-7338-7ee0-a85a-fa3dee4ae207",
+      "time": "2026-10-13 22:47:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Earnings growth expectations cool; analysts warn limited tolerance for misses in overvalued US stocks】BofA aggregate data show S&P 500 Q3 earnings expectations remain strong, but 10 of 11 sectors are projected to see slower earnings growth versus the prior quarter. Analysts forecast S&P 500 constituent earnings growth to slow from 25% in 2026 Q3 and 28% in 2026 Q4 to 18% in 1H 2027, indicating modest weakening in forward momentum. Slowing earnings growth alone may not halt the rally, but with US equities near record highs and growing concern that inflation could be stickier than expected, companies will need materially strong results to lift the market further. Pictet Asset Management chief strategist Luca Paolini said: \"We see early signs that earnings momentum may be peaking. With expectations so elevated, even slight misses could trigger strong market reactions.\""
+    },
+    {
+      "id": "mkt:01a135bb-5ce7-7ee0-a85a-f4114182c695",
+      "time": "2026-10-13 22:47:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Federal Security Service (FSB) said a Japanese journalist has been detained in Moscow on suspicion of espionage."
+    },
+    {
+      "id": "5142723",
+      "time": "2026-10-13 22:46:40",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【上海離岸金融試點推進，多項“首單”落地】上海銀行業跨境金融業務持續拓展，離岸金融創新、跨境結算便利化和跨國公司全球資金管理等領域迎來新進展。10月13日，上海市銀行同業公會舉辦“跨境金融賦能高水平對外開放 助力上海國際金融中心能級提升”新聞通氣會。中國銀行上海市分行、進出口銀行上海分行、農業銀行上海市分行、中信銀行上海分行、浦發銀行上海分行、渣打中國、花旗中國等七家銀行介紹了跨境金融業務發展情況。"
+    },
+    {
+      "id": "mkt:01a135ba-8b2e-7ee0-a85a-eb7b106dee32",
+      "time": "2026-10-13 22:46:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Goldman CEO denies stepping-down rumors; says no succession plan or timetable】Goldman Sachs CEO David Solomon dismissed recent speculation about a leadership handover as \"noise,\" saying there is no active succession process or timetable. Reports had identified COO John Waldron as a likely successor and suggested Solomon could step down as early as next year. On Tuesday's earnings call with analysts Solomon said the board and he are fully focused on the firm's growth strategy and client service, and that he is satisfied with the company's progress and enjoying his role."
+    },
+    {
+      "id": "5142722",
+      "time": "2026-10-13 22:46:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱拘留一名日本記者。"
+    },
     {
       "id": "5142721",
       "time": "2026-10-13 22:44:16",
