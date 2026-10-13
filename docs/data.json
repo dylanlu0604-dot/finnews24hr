@@ -1,7 +1,79 @@
 {
-  "updated": "2026-10-13 23:07:30",
-  "count": 10893,
+  "updated": "2026-10-13 23:11:31",
+  "count": 10897,
   "items": [
+    {
+      "id": "5142745",
+      "time": "2026-10-13 23:10:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）本輪埃博拉疫情確診病例超9000例】剛果（金）衛生部13日釋出的最新報告稱，該國本輪埃博拉疫情累計確診病例已升至9066例，其中死亡4381例。與此同時，針對本輪疫情所涉病毒疫苗的一項臨床試驗正進入最後籌備階段。（新華社）"
+    },
+    {
+      "id": "mkt:01a135d0-efe1-7ee0-a85b-3bb4b90a47ff",
+      "time": "2026-10-13 23:10:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister's Office said Carney spoke with Indian Prime Minister Modi on Tuesday about Modi's planned December visit to Canada."
+    },
+    {
+      "id": "5142744",
+      "time": "2026-10-13 23:10:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理辦公室：卡尼與印度總理莫迪已於週二通話，為莫迪12月對加拿大的訪問做前置溝通。"
+    },
+    {
+      "id": "mkt:01a135cf-36da-7ee0-a85b-3709b2588911",
+      "time": "2026-10-13 23:08:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said the central bank will take further measures to curb FX speculation if necessary."
+    },
+    {
+      "id": "5142743",
+      "time": "2026-10-13 23:08:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國和烏克蘭希望俄羅斯總統普京加入全面能源領域休戰協議。"
+    },
+    {
+      "id": "5142742",
+      "time": "2026-10-13 23:08:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土耳其總統與沙特王儲通話表達堅定支援】土耳其總統府新聞局當地時間13日發表宣告說，土總統埃爾多安當天與沙烏地阿拉伯王儲兼首相穆罕默德·本·薩勒曼通電話，表達對沙特的堅定支援。宣告說，埃爾多安強烈譴責葉門胡塞武裝對沙特的襲擊，並對襲擊導致的傷亡表示悲痛。埃爾多安表示，土耳其將繼續與沙特站在一起，並相信當前挑戰將會被克服。（央視新聞）"
+    },
+    {
+      "id": "5142741",
+      "time": "2026-10-13 23:07:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會工作組建議：無論發行規模大小，所有發行均須強制任命監控機構。"
+    },
+    {
+      "id": "5142740",
+      "time": "2026-10-13 23:07:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Naspers於10月5日至9日期間以每股平均707.69南非蘭特回購約56萬股股票。"
+    },
+    {
+      "id": "5142739",
+      "time": "2026-10-13 23:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會工作組建議：若監測機構報告上市實體不予配合，證券交易所可對其處以罰款。"
+    },
     {
       "id": "5142738",
       "time": "2026-10-13 23:06:12",
@@ -98730,53 +98802,6 @@
         "國際"
       ],
       "text": "烏克蘭基輔北橋受損路段修復工作已完工。"
-    },
-    {
-      "id": "5128893",
-      "time": "2026-10-06 23:11:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行政策委員會審議委員佐藤：希望評估消費與收入的變化態勢。"
-    },
-    {
-      "id": "te:economy:589915",
-      "time": "2026-10-06 23:11:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "GDPNow",
-        "Importance 1"
-      ],
-      "text": "Atlanta Fed GDPNow Holds Q3 Growth Estimate at 3.7% — The Atlanta Fed’s GDPNow model estimate for third-quarter 2026 real GDP growth, at a seasonally adjusted annual rate, stood at 3.7% on October 6, unchanged from October 1 after rounding. Following recent releases from the US Census Bureau, Bureau of Labor Statistics, Bureau of Economic Analysis and Institute for Supply Management, increases in the nowcasts for third-quarter real personal consumption expenditures growth and real gross private domestic investment growth, from 3.3% to 3.4% and 21.4% to 21.5%, respectively, were offset by a larger drag from net exports. The estimated contribution of net exports to third-quarter real GDP growth fell from -2.59 percentage points to -2.69 percentage points."
-    },
-    {
-      "id": "5128892",
-      "time": "2026-10-06 23:11:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行政策委員會審議委員佐藤：個人消費動能不強。"
-    },
-    {
-      "id": "5128891",
-      "time": "2026-10-06 23:10:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "法庭聽證會摘要顯示：迪士尼法務稱美國聯邦通訊委員會“想要叫停、審查、管控”美國廣播公司對特朗普政府的相關報道。"
-    },
-    {
-      "id": "5128890",
-      "time": "2026-10-06 23:08:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將Shopify目標股價從每股185美元上調至每股200美元，維持Shopify增持評級。"
     }
   ]
 }
