@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-13 23:47:39",
-  "count": 10949,
+  "updated": "2026-10-13 23:51:40",
+  "count": 10952,
   "items": [
+    {
+      "id": "te:markets:591576",
+      "time": "2026-10-13 23:51:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Flat — The FTSE MIB closed largely unchanged at 50,057 on Tuesday following the start of the earnings season. Financial stocks mostly outperformed, supported by a retreat in global bond yields and upbeat sentiment following record third-quarter earnings from major US lenders. MPS gained 0.5% after its shareholder meeting provided no further updates on its counterbid for Intesa Sanpaolo (0.2%). Unipol, Banca Mediolanum and BPER Banca each advanced over 1%, while Banco BPM fell 1.5% and Azimut shed 1.7%.Tech stocks fell as concerns of overspending ahead of earnings reports extended a selloff in chipmakers, while a breakthrough from China's CXMT added to the sector’s headwinds. Technoprobe led the index’s losses, falling 5.1%, followed by STMicroelectronics (-3.9%) and Prysmian (-2.2%). Stellantis fell 1.1% despite the autofirm's growing confidence in their EVs at the 2026 Paris auto show. Luxury Moncler fell 0.6% following LVMH's quarterly sales miss, underscoring weak demand from China."
+    },
+    {
+      "id": "5142798",
+      "time": "2026-10-13 23:50:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及以色列： 我們甚至還沒有考量以色列大選這件事，我或許會採取某些行動。"
+    },
+    {
+      "id": "mkt:01a135f5-355e-7ee0-a85c-d7b45f4f3a08",
+      "time": "2026-10-13 23:50:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Foreign Ministry rejected Belgian leaders' allegations that Russia is conducting hybrid warfare, carrying out sabotage and poses a direct military threat."
+    },
+    {
+      "id": "mkt:01a135f4-c386-7ee0-a85c-ca0b4f2009d8",
+      "time": "2026-10-13 23:49:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Guyana's oil exports are expected to exceed 1.0 mln barrels per day for the first time."
+    },
+    {
+      "id": "5142797",
+      "time": "2026-10-13 23:49:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "記者提問：是什麼讓你如此確信，普京比澤連斯基更希望結束這場衝突？\n\n特朗普：靠談判。我一輩子做的事，就是促成交易。"
+    },
+    {
+      "id": "5142796",
+      "time": "2026-10-13 23:48:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：烏克蘭襲擊了俄羅斯的多個目標，兩國在相互打擊。"
+    },
+    {
+      "id": "mkt:01a135f3-77e3-7ee0-a85c-c5936d7d4134",
+      "time": "2026-10-13 23:48:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Belgium's ambassador in Moscow was summoned to Russia's Foreign Ministry on Tuesday, according to reports."
+    },
     {
       "id": "5142795",
       "time": "2026-10-13 23:46:05",
@@ -99334,42 +99398,6 @@
         "國際"
       ],
       "text": "俄羅斯稱擊中烏克蘭皮夫登內港一艘油輪。"
-    },
-    {
-      "id": "5128940",
-      "time": "2026-10-06 23:48:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利政府預測2027年年度平均通脹率為2.9%。"
-    },
-    {
-      "id": "5128939",
-      "time": "2026-10-06 23:48:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利政府預估2026年年度平均通脹率為3.8%。"
-    },
-    {
-      "id": "5128938",
-      "time": "2026-10-06 23:48:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦試射國產增程版“法塔赫-4”陸基巡航導彈】據巴基斯坦三軍新聞局10月6日訊息，巴基斯坦當天成功進行了一次國產增程版“法塔赫-4”陸基巡航導彈的試射。巴基斯坦三軍新聞局稱，該系統配備先進航空電子裝置和最先進的導航輔助裝置，能夠以高精度和高殺傷力打擊目標。此次試射還驗證了為提高精度和增強生存能力而整合的各子系統的額外技術引數。（央視新聞）"
-    },
-    {
-      "id": "te:markets:589918",
-      "time": "2026-10-06 23:47:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rebounds as Oil Prices and Bond Yields Ease — The CAC 40 rose 0.4% to 7,865 on Tuesday, rebounding from the previous session amid easing oil prices and a pullback in global bond yields. Oil prices fell as resilient Middle Eastern crude exports and a G7 emergency stockpile release eased supply concerns, reducing energy-driven inflation pressures. Yields also eased from multi-year highs, offering some respite to credit-sensitive markets. Financials posted solid gains, with BNP Paribas up 2.5% and AXA adding 1.5%. Luxury and industrial stocks were mixed as concerns over France’s high debt levels and political uncertainty lingered. The government sought to ease market jitters by unveiling its 2027 budget. The state budget deficit widened to €159.6 billion in January-August from €157.5 billion a year earlier. LVMH added 1%, while Hermes shed 0.5%. Among industrials, STMicroelectronics gained 2.5%, tracking strength in US chipmakers. Schneider Electric lost 3.8%, extending Monday’s losses after announcing its acquisition of PTC."
     }
   ]
 }
