@@ -1,7 +1,35 @@
 {
   "date": "2026-10-14",
-  "count": 337,
+  "count": 340,
   "items": [
+    {
+      "id": "5143114",
+      "time": "2026-10-14 04:58:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際金價跌0.3%，亞太中午曾漲穿4200美元】週二（10月13日）紐約尾盤，現貨黃金跌0.31%，報4159.37美元/盎司，全天衝高回落、北京時間13:18曾重新整理日高至4200.54美元。現貨白銀跌1.85%，報59.14美元/盎司，16:00以來持續下挫。COMEX銅期貨跌0.3%，報6.7270美元/磅。在美股時段交易的費城金銀指數收跌1.73%，原材料指數收跌0.06%，金屬與礦業指數收跌0.24%。在全球市場全天交易的紐約證交所ARCA金礦開採商指數跌1.30%，報2501.18點。State Street金屬與礦業ETF收跌1.04%，報103.76美元。"
+    },
+    {
+      "id": "5143113",
+      "time": "2026-10-14 04:58:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列宣佈恢復與哥倫比亞的自由貿易協定。（新華社）"
+    },
+    {
+      "id": "te:markets:591615",
+      "time": "2026-10-14 04:57:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Drops as Inflation Forecast Rises — The Ibovespa fell 1% to close at 206,887 on Tuesday, weighed down by losses in major banks, utilities and mining stocks. The Focus survey raised its 2026 inflation forecast to 5.22% from 5.01%, marking a fourth consecutive increase, while the Selic benchmark rate remained unchanged at 13.25%. The IMF also cut its 2026 GDP growth forecast for Brazil to 2.2% from 2.4%, citing a slowdown expected in 2026–2027 due to restrictive interest rates aimed at bringing inflation back to target, the withdrawal of fiscal stimulus and global uncertainty. Major banks declined, with Itaú falling 1.6% and Bradesco losing 1%. Utilities also retreated, with Axia down 1.6% and Sabesp shedding 3.1%. Mining stocks weakened as ample global supply, high Chinese inventories and lower shipping costs continued to weigh on iron ore prices. Vale fell 1.1%. In contrast, Petrobras gained 1.5% as oil prices rebounded."
+    },
     {
       "id": "mkt:01a1370c-a11c-7ee0-a862-7b30f3346a28",
       "time": "2026-10-14 04:55:36",
