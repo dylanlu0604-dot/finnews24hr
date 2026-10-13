@@ -1,7 +1,106 @@
 {
   "date": "2026-10-13",
-  "count": 624,
+  "count": 634,
   "items": [
+    {
+      "id": "5140419",
+      "time": "2026-10-13 09:22:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞逮捕 29 名、擊斃 2 名武裝犯罪集團與販毒組織海灣氏族（Clan del Golfo）成員。"
+    },
+    {
+      "id": "mkt:01a132da-2be6-7ee0-a846-8cc0280e98bf",
+      "time": "2026-10-13 09:22:01",
+      "tags": [
+        "MKT News",
+        "HSI",
+        "Impact bearish",
+        "HSCEI",
+        "HSTECH"
+      ],
+      "text": "Hong Kong equities opened lower on Oct 13. Hang Seng Index (HSI) opened down 99.11 pts (-0.41%) at 24,172.09; Hang Seng Tech Index opened down 39.91 pts (-0.96%) at 4,129.66; Hang Seng China Enterprises Index (HSCEI) opened down 32.16 pts (-0.39%) at 8,136.41; Red Chip Index opened down 1.98 pts (-0.05%) at 4,042.76."
+    },
+    {
+      "id": "5140410",
+      "time": "2026-10-13 09:21:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放650.0億元人民幣。"
+    },
+    {
+      "id": "5140407",
+      "time": "2026-10-13 09:21:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行進行 650 億元 7 天期逆回購操作 操作利率 1.4%。"
+    },
+    {
+      "id": "mkt:01a132d9-8e78-7ee0-a846-8675da09601c",
+      "time": "2026-10-13 09:21:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 65 bln yuan 7-day reverse repo today; bid volume 65 bln yuan, amount allotted 65 bln yuan, rate 1.40%, unchanged."
+    },
+    {
+      "id": "5140405",
+      "time": "2026-10-13 09:21:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價延續跌勢：最新報147.2萬韓元，跌幅8.3%。"
+    },
+    {
+      "id": "5140404",
+      "time": "2026-10-13 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.41%，恒生科技指數跌0.96%】華虹宏力跌2.45%，聯想集團跌2.54%，京東集團-SW跌2.95%，天數智芯跌3.01%，智譜跌3.07%，藥明生物跌3.13%，MINIMAX-W跌4.49%。"
+    },
+    {
+      "id": "mkt:01a132d9-1e8a-7ee0-a846-7c5587200af1",
+      "time": "2026-10-13 09:20:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong market opened with the Hang Seng Index down 0.41% and the Hang Seng Tech Index down 0.96%. Base metals, mainland brokerage and insurer stocks led gains while optical-communications names extended multi-day declines."
+    },
+    {
+      "id": "mkt:01a132d9-047e-7ee0-a846-70cdfa578dd9",
+      "time": "2026-10-13 09:20:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Japan 30-year government bond yield fell 1.0 bps to 4.045%."
+    },
+    {
+      "id": "mkt:01a132d7-dbe4-7ee0-a846-68b4f19b390c",
+      "time": "2026-10-13 09:19:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Most-active live hog futures fell 2.00% intraday to 10,155 yuan/ton."
+    },
     {
       "id": "te:economy:591292",
       "time": "2026-10-13 09:19:01",

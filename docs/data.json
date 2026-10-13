@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-13 09:19:26",
-  "count": 10927,
+  "updated": "2026-10-13 09:23:09",
+  "count": 10930,
   "items": [
+    {
+      "id": "5140419",
+      "time": "2026-10-13 09:22:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞逮捕 29 名、擊斃 2 名武裝犯罪集團與販毒組織海灣氏族（Clan del Golfo）成員。"
+    },
+    {
+      "id": "mkt:01a132da-2be6-7ee0-a846-8cc0280e98bf",
+      "time": "2026-10-13 09:22:01",
+      "tags": [
+        "MKT News",
+        "HSI",
+        "Impact bearish",
+        "HSCEI",
+        "HSTECH"
+      ],
+      "text": "Hong Kong equities opened lower on Oct 13. Hang Seng Index (HSI) opened down 99.11 pts (-0.41%) at 24,172.09; Hang Seng Tech Index opened down 39.91 pts (-0.96%) at 4,129.66; Hang Seng China Enterprises Index (HSCEI) opened down 32.16 pts (-0.39%) at 8,136.41; Red Chip Index opened down 1.98 pts (-0.05%) at 4,042.76."
+    },
+    {
+      "id": "5140410",
+      "time": "2026-10-13 09:21:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放650.0億元人民幣。"
+    },
+    {
+      "id": "5140407",
+      "time": "2026-10-13 09:21:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行進行 650 億元 7 天期逆回購操作 操作利率 1.4%。"
+    },
+    {
+      "id": "mkt:01a132d9-8e78-7ee0-a846-8675da09601c",
+      "time": "2026-10-13 09:21:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 65 bln yuan 7-day reverse repo today; bid volume 65 bln yuan, amount allotted 65 bln yuan, rate 1.40%, unchanged."
+    },
+    {
+      "id": "5140405",
+      "time": "2026-10-13 09:21:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價延續跌勢：最新報147.2萬韓元，跌幅8.3%。"
+    },
+    {
+      "id": "5140404",
+      "time": "2026-10-13 09:21:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數跌0.41%，恒生科技指數跌0.96%】華虹宏力跌2.45%，聯想集團跌2.54%，京東集團-SW跌2.95%，天數智芯跌3.01%，智譜跌3.07%，藥明生物跌3.13%，MINIMAX-W跌4.49%。"
+    },
+    {
+      "id": "mkt:01a132d9-1e8a-7ee0-a846-7c5587200af1",
+      "time": "2026-10-13 09:20:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong market opened with the Hang Seng Index down 0.41% and the Hang Seng Tech Index down 0.96%. Base metals, mainland brokerage and insurer stocks led gains while optical-communications names extended multi-day declines."
+    },
+    {
+      "id": "mkt:01a132d9-047e-7ee0-a846-70cdfa578dd9",
+      "time": "2026-10-13 09:20:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Japan 30-year government bond yield fell 1.0 bps to 4.045%."
+    },
+    {
+      "id": "mkt:01a132d7-dbe4-7ee0-a846-68b4f19b390c",
+      "time": "2026-10-13 09:19:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Most-active live hog futures fell 2.00% intraday to 10,155 yuan/ton."
+    },
     {
       "id": "te:economy:591292",
       "time": "2026-10-13 09:19:01",
@@ -99120,87 +99219,6 @@
         "09973.HK"
       ],
       "text": "Hong Kong-listed auto stocks opened mostly higher: Leapmotor (09863.HK), Geely Automobile (00175.HK) and Chery Automobile (09973.HK) rose over 2% at the open; GAC Group (02238.HK), BYD Company (01211.HK) and XPeng (09868.HK) were up more than 1%."
-    },
-    {
-      "id": "5127738",
-      "time": "2026-10-06 09:22:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "備案檔案顯示，伯克希爾哈撒韋在10月1日至2日期間收購了約15028股萊納公司B類股票。"
-    },
-    {
-      "id": "mkt:01a10ecd-275f-7ee0-a7ac-2128194d5d87",
-      "time": "2026-10-06 09:21:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "Hang Seng Index",
-        "Impact bullish",
-        "09988.HK"
-      ],
-      "text": "Hong Kong stocks opened higher: HSI up 1%, Hang Seng Tech Index up 1.02%; Alibaba (09988.HK) up 2.94% at the open."
-    },
-    {
-      "id": "mkt:01a10ecc-f907-7ee0-a7ac-1cb9e7981c2f",
-      "time": "2026-10-06 09:21:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Toyota and Isuzu to launch upgraded hydrogen fuel-cell bus."
-    },
-    {
-      "id": "5127715",
-      "time": "2026-10-06 09:21:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股開盤：恒生指數漲0.99%，恒生科技指數漲1.02%】阿里巴巴-W漲2.85%，中國生物製藥漲2.52%，零跑汽車漲2.46%，信達生物漲2.06%，中國石油股份漲1.99%，百度集團-W漲1.92%，美團-W漲1.91%。"
-    },
-    {
-      "id": "mkt:01a10ecc-0f16-7ee0-a7ac-172dacb0a996",
-      "time": "2026-10-06 09:20:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "【Tesla tops South Korea import passenger-car sales for eighth straight month】Tesla was the best-selling imported passenger-car brand in South Korea for the eighth consecutive month in September, KAIDA data showed. Total new registrations of imported passenger cars were 34,904 in September, up 6.3% YoY. Tesla sold 12,372 units and has led the import market since February. BMW was second with 6,066 units, Mercedes‑Benz 5,477 and BYD 2,614."
-    },
-    {
-      "id": "te:markets:589694",
-      "time": "2026-10-06 09:19:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Holds Ground — The Australian dollar held its recent gains near $0.70, after rebounding from a multi-month low hit on October 1, as weakness in the New Zealand dollar and euro supported the currency. The Australian dollar climbed to a six-day high against the kiwi and a nearly two-week high against the euro, with the New Zealand dollar weakening and the euro pressured by growing concerns over France’s fiscal position and political uncertainty. Domestically, consumer confidence weakened for a second straight month, with higher fuel and interest rates weighing on household sentiment. The Reserve Bank of Australia raised its cash rate to a 15-year high of 4.6% in September, its fourth hike this year, as it sought to curb inflationary pressures. Meanwhile, the stronger US dollar and elevated Treasury yields continued to limit the Australian dollar’s upside."
-    },
-    {
-      "id": "mkt:01a10ecb-6144-7ee0-a7ac-082d32917a23",
-      "time": "2026-10-06 09:19:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【Shift from single-network construction to system networking to boost six-network infrastructure efficiency】The Investment Department of the National Development and Reform Commission said China’s current six-networks push is moving from ‘single-point’ buildouts to system-level networking to unlock multiplier effects across water, new power grids, compute, next-generation communications, urban underground utilities and logistics networks. The aim is demand integration and resource sharing so investment yields whole-system gains rather than a simple sum of single networks. Remaining frictions include non‑uniform technical standards, weak cross‑entity coordination and unclear revenue-sharing. The NDRC plans to tackle these by establishing unified technical standards and data interfaces to enable facility sharing and data interoperability; improving market-based coordination, clarifying cross-network roles and revenue allocation and supporting corporate consortia in integrated projects; and running regional integrated pilots in major city clusters to develop replicable models before national rollout."
     }
   ]
 }
