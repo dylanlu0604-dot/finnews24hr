@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-14 05:11:04",
+  "updated": "2026-10-14 05:14:51",
   "count": 10986,
   "items": [
+    {
+      "id": "5143118",
+      "time": "2026-10-14 05:12:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：美聯儲庫克的律師譴責特朗普發起的新一輪調查。"
+    },
     {
       "id": "5143117",
       "time": "2026-10-14 05:08:59",
@@ -99735,14 +99744,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收漲0.12%，報13872點。"
-    },
-    {
-      "id": "mkt:01a1130f-bddd-7ee0-a7c5-b6dab5e5f1cc",
-      "time": "2026-10-07 05:12:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he will speak by phone with Russian President Putin soon."
     }
   ]
 }
