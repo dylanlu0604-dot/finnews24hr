@@ -1,7 +1,280 @@
 {
   "date": "2026-10-13",
-  "count": 1707,
+  "count": 1733,
   "items": [
+    {
+      "id": "mkt:01a135e7-1d60-7ee0-a85c-53f59ee6e637",
+      "time": "2026-10-13 23:35:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump said diesel will be released to the global market rather than reserved for U.S. use, and that Russia is releasing it worldwide."
+    },
+    {
+      "id": "5142778",
+      "time": "2026-10-13 23:34:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談俄美柴油協議：將面向全球市場。"
+    },
+    {
+      "id": "5142777",
+      "time": "2026-10-13 23:33:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正與俄羅斯合作結束衝突。"
+    },
+    {
+      "id": "mkt:01a135e6-038b-7ee0-a85c-4a7283ccdbe8",
+      "time": "2026-10-13 23:33:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Zelenskiy and Putin want to end the situation."
+    },
+    {
+      "id": "5142776",
+      "time": "2026-10-13 23:33:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我認為澤連斯基和普京都希望這一切結束。"
+    },
+    {
+      "id": "mkt:01a135e5-b07c-7ee0-a85c-438f80dc3565",
+      "time": "2026-10-13 23:33:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Trump said he has not stopped sharing intelligence and is assisting Ukraine, and that he is working with both Ukraine and Russia to end the war."
+    },
+    {
+      "id": "5142775",
+      "time": "2026-10-13 23:33:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正與烏克蘭和俄羅斯合作結束衝突。"
+    },
+    {
+      "id": "5142774",
+      "time": "2026-10-13 23:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（一直在）幫助烏克蘭並分享情報。"
+    },
+    {
+      "id": "5142773",
+      "time": "2026-10-13 23:32:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：從未停止與烏克蘭分享情報。"
+    },
+    {
+      "id": "5142772",
+      "time": "2026-10-13 23:32:50",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率4.085%，投標倍數2.68。拍賣六個月期國債，得標利率4.2%，投標倍數2.76。"
+    },
+    {
+      "id": "5142771",
+      "time": "2026-10-13 23:32:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達投資了法國醫療數字化平臺Doctolib、AI創藥企業Genesis AI、法國企業財務規劃AI軟體廠商Pigment。"
+    },
+    {
+      "id": "mkt:01a135e4-972c-7ee0-a85c-3bdb2a7539ae",
+      "time": "2026-10-13 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. 6-month Treasury auction to Oct. 13 — share awarded at the stop-out rate 78.17%, prior 40.62%."
+    },
+    {
+      "id": "mkt:01a135e4-94ec-7ee0-a85c-317d9c6f7368",
+      "time": "2026-10-13 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 6-month Treasury auction (settlement Oct. 13) stop-out yield 4.20%, previous 4.17%."
+    },
+    {
+      "id": "mkt:01a135e4-9445-7ee0-a85c-2d7deb33831a",
+      "time": "2026-10-13 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 6-month Treasury auction bid-cover ratio 2.76 on Oct 13, previous 2.79."
+    },
+    {
+      "id": "mkt:01a135e4-93d0-7ee0-a85c-20a5eaa2eb28",
+      "time": "2026-10-13 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "U.S. 3-month Treasury auction through Oct. 13: share of awards at the stop-out rate 36.71% vs 21.3% previously."
+    },
+    {
+      "id": "mkt:01a135e4-939c-7ee0-a85c-1a12ba4425c8",
+      "time": "2026-10-13 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 3-month Treasury bill auction bid-cover ratio 2.68 on Oct. 13; prior 2.51."
+    },
+    {
+      "id": "mkt:01a135e4-8536-7ee0-a85c-1413c6288de3",
+      "time": "2026-10-13 23:32:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 3-month Treasury auction on Oct. 13 - stop-out yield 4.085%, prior 4.05%."
+    },
+    {
+      "id": "mkt:01a135e4-64e8-7ee0-a85c-0e916c4401ad",
+      "time": "2026-10-13 23:32:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Oct.13) | actual 2.76 | previous 2.79"
+    },
+    {
+      "id": "mkt:01a135e4-6449-7ee0-a85c-035197e6fb1f",
+      "time": "2026-10-13 23:32:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Oct.13) | actual 78.17% | previous 40.62%"
+    },
+    {
+      "id": "mkt:01a135e4-643b-7ee0-a85b-fc8a6009f442",
+      "time": "2026-10-13 23:32:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Oct.13) | actual 4.2% | previous 4.17%"
+    },
+    {
+      "id": "mkt:01a135e4-6364-7ee0-a85b-f28aaa4fdd2b",
+      "time": "2026-10-13 23:32:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Oct.13) | actual 2.68 | previous 2.51"
+    },
+    {
+      "id": "mkt:01a135e4-634b-7ee0-a85b-e85305e8c01f",
+      "time": "2026-10-13 23:32:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Oct.13) | actual 36.71% | previous 21.3%"
+    },
+    {
+      "id": "mkt:01a135e4-6349-7ee0-a85b-e5b8a752ce67",
+      "time": "2026-10-13 23:32:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Oct.13) | actual 4.085% | previous 4.05%"
+    },
+    {
+      "id": "5142770",
+      "time": "2026-10-13 23:31:47",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌0.1%，歐洲斯托克指數下跌0.38%，歐元區藍籌股指數下跌0.57%。法國CAC 40指數下跌0.1%，西班牙IBEX指數下跌0.36%，英國富時100指數下跌0.07%，德國DAX指數下跌0.1%。"
+    },
+    {
+      "id": "mkt:01a135e4-1fa4-7ee0-a85b-dd411940bdf7",
+      "time": "2026-10-13 23:31:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Market sources say NVIDIA has invested in Doctolib, GenesisAI and Pigment."
+    },
+    {
+      "id": "mkt:01a135e3-ecdc-7ee0-a85b-d4d95d7b8cd8",
+      "time": "2026-10-13 23:31:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Republican senators urged President Trump to withdraw from an oil agreement with Russia."
+    },
     {
       "id": "te:markets:591574",
       "time": "2026-10-13 23:30:43",
