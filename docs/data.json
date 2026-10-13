@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-13 15:26:26",
-  "count": 10932,
+  "updated": "2026-10-13 15:30:18",
+  "count": 10924,
   "items": [
+    {
+      "id": "te:economy:591419",
+      "time": "2026-10-13 15:29:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Czechia Inflation Confirmed at 5-Month High — The annual inflation rate in the Czech Republic rose to 2.5% in September 2026 from 1.9% in the previous month. This marked the highest reading since April, driven by an acceleration in transport costs (13.2% vs. 9.6% in August), with fuel and lubricant prices surging by 37.5% year-on-year, and a moderation in the deflation of food and non-alcoholic beverages (-3.5% vs. -4.3%). Prices also rose faster for housing and utilities (1.7% vs. 1.5%), recreation and culture (2.5% vs. 0.4%), personal care, social protection, and miscellaneous goods and services (4.0% vs. 3.8%), information and communication (2.9% vs. 2.0%), and education (4.7% vs. 4.0%). Meanwhile, inflation eased for alcoholic beverages and tobacco (4.6% vs. 4.7%), health (3.8% vs. 4.2%), and restaurants and accommodation services (4.2% vs. 4.3%). On a monthly basis, consumer prices were unchanged in September, down from a 0.3% increase in August."
+    },
+    {
+      "id": "mkt:01a1342a-6b45-7ee0-a850-70238a8d70cb",
+      "time": "2026-10-13 15:29:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Citigroup sees Gulf economies contracting 3.1% in 2026】Citigroup projects the Gulf region will contract 3.1% in 2026 as regional conflict disrupts oil production and weighs on non-oil activity. It forecasts oil-sector output to fall 13.7% and non-oil growth to slow to 1.0% from 5.1% in 2025. Impact will vary across six Gulf economies depending on access to alternative export routes and the severity of trade and tourism disruption. The forecast assumes shipping through the Strait of Hormuz normalises in Q4; continued disruption would pose additional downside risk."
+    },
+    {
+      "id": "5141486",
+      "time": "2026-10-13 15:29:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：幣安正考慮在包括中國香港和韓國在內的市場推出股票交易服務。"
+    },
+    {
+      "id": "te:markets:591417",
+      "time": "2026-10-13 15:28:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Eases From 3-Year High — The yield on India’s 10-year G-Sec hovered around 7.37%, easing from three-year highs as investors stepped in to seek value after a sharp selloff, with heavy purchases by local lenders, particularly state-run banks, helping support prices. However, gains remained limited ahead of INR 312 billion in state debt sales and the RBI’s INR 250 billion open market bond sale, while another INR 340 billion auction is scheduled for Friday. Yields have risen 20 basis points over four sessions since the RBI raised its policy rate by 25 basis points and shifted to a calibrated tightening stance. Expectations of further rate hikes strengthened after September inflation accelerated to 5.54%, while Brent crude remained above $105 a barrel. Investors also awaited US inflation data for clues on the Federal Reserve’s policy outlook."
+    },
+    {
+      "id": "5141485",
+      "time": "2026-10-13 15:28:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "財政部將於10月20日拍賣發行550億元6個月期國庫券。"
+    },
+    {
+      "id": "5141484",
+      "time": "2026-10-13 15:28:10",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "財政部將於10月20日續發800億元10年期國債。"
+    },
+    {
+      "id": "5141483",
+      "time": "2026-10-13 15:27:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鍾薛高被列入稅務非正常戶】近日，天眼查App顯示，鍾薛高原運營公司鍾薛高食品（上海）有限公司新增1條稅務非正常戶資訊，納稅人狀態為“非正常”，認定機關為國家稅務總局上海市嘉定區稅務局。"
+    },
+    {
+      "id": "5141482",
+      "time": "2026-10-13 15:26:59",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【2026冬航季：東航在上海加密多條國際航線】東方航空：新航季，東航將加密上海浦東至吉隆坡、普吉、胡志明、悉尼、墨爾本、布里斯班、奧克蘭、法蘭克福、聖彼得堡、倫敦希斯羅等國際航點的航班頻次。"
+    },
+    {
+      "id": "te:economy:591416",
+      "time": "2026-10-13 15:26:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Slovakia Construction Output Falls at Fastest Pace in Nearly 2 Years — Slovakia’s construction output fell by 4.8% year-on-year in August 2026, reversing a 2.3% increase in the previous month. This marked the second annual decline this year, after January, and the steepest drop since September 2024. The result for the second month of the summer holiday period reflected a decline in domestic construction (-3.0% vs 4.7% in July), with decreases in the dominant new construction activity (-0.7% vs 4.9%), repair and maintenance of buildings (-6.4% vs 5.0%), and civil engineering works (-10.3% vs 1.1%). At the same time, growth in building construction slowed sharply to 0.6% from 6.5%. Construction activity abroad also declined further, falling by 16.0%, the largest decrease since January, after a 13.5% drop in July. On a seasonally adjusted monthly basis, construction output dropped by 4.9%. In the first eight months of 2026, construction activity was 6.3% higher than in the same period last year."
+    },
+    {
+      "id": "mkt:01a13427-e3ba-7ee0-a850-6c23749233ad",
+      "time": "2026-10-13 15:26:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Philippine prosecutors withdraw three impeachment charges against Vice President Sara Duterte】Philippine media reported on the 13th that prosecutors withdrew three of four charges in Vice President Sara Duterte’s impeachment case, leaving only an allegation she failed to properly declare unexplained assets for 2022–2025."
+    },
     {
       "id": "5141481",
       "time": "2026-10-13 15:25:52",
@@ -103,6 +202,14 @@
         "其他"
       ],
       "text": "【霍爾果斯口岸今年前三季度通行中歐（亞）班列7264列】據霍爾果斯鐵路口岸站統計，今年前三季度霍爾果斯口岸通行中歐（亞）班列7264列，過貨量1228.3萬噸。截至目前，經霍爾果斯鐵路口岸通行的中歐（亞）班列累計超6萬列，通行班列線路總數已達91條，可輻射境外18個國家、46個城市和地區，搭載貨物品類達200餘種。（央視新聞）"
+    },
+    {
+      "id": "5141472",
+      "time": "2026-10-13 15:19:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普當地時間10月12日下午在白宮對媒體表示，他認為俄羅斯和烏克蘭都同意他提出的“能源停火”。\n2、特朗普表示，澤連斯基和普京必須會面，結束衝突。他還表示，俄烏雙方均存在違反停火的行為。\n3、特朗普聲稱：“我與俄羅斯的柴油協議對我來說算不上什麼協議，這是為世界其他地區達成的協議。”\n4、被問及是否預計共和黨將贏得眾議院，特朗普表示：“我們會表現得很出色。”\n5、特朗普表示可能取消對哥倫比亞的關稅。\n6、特朗普當天說，他正在考慮解除美國駐希臘大使金伯莉·吉爾福伊爾的職務。\n7、特朗普當地時間週一（12日）對“美聯邦特工突擊搜查索馬利亞裔民主黨眾議員伊爾汗·奧馬爾住所”作出回應，稱此事“與我無關”。"
     },
     {
       "id": "5141471",
@@ -98987,182 +99094,6 @@
         "其他"
       ],
       "text": "沙特方面稱，針對兩座機場的襲擊造成3人受傷，並造成損壞。"
-    },
-    {
-      "id": "5128192",
-      "time": "2026-10-06 15:30:15",
-      "tags": [
-        "資料"
-      ],
-      "text": "德國9月建築業PMI 43.5，前值48.7。"
-    },
-    {
-      "id": "5128191",
-      "time": "2026-10-06 15:30:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯電9月銷售額253.5億元臺幣。"
-    },
-    {
-      "id": "te:markets:589798",
-      "time": "2026-10-06 15:30:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.28% Higher — The CAC 40 Index is gaining 22 points or 0.28 percent on Tuesday. Leading the gains are Eurofins Scientific SE (2.75%), STMicroelectronics (2.24%) and Kering (2.01%). Top losers are Schneider Electric (-2.01%), L'Oréal (-0.98%) and Renault (-0.83%)."
-    },
-    {
-      "id": "mkt:01a1101e-afc1-7ee0-a7b3-144d20ec8608",
-      "time": "2026-10-06 15:30:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DAX"
-      ],
-      "text": "Germany construction PMI 43.5 in September, down from 48.7 previously; reading below 50 indicates sector contraction."
-    },
-    {
-      "id": "mkt:01a1101e-8d9a-7ee0-a7b3-0a82085593db",
-      "time": "2026-10-06 15:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Germany | Construction PMI (Sep) | actual 43.5 | previous 48.7"
-    },
-    {
-      "id": "5128190",
-      "time": "2026-10-06 15:29:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特方面稱，賈贊和奈季蘭機場週一遭到襲擊。"
-    },
-    {
-      "id": "5128189",
-      "time": "2026-10-06 15:29:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特稱吉贊和納季蘭機場遭到襲擊。"
-    },
-    {
-      "id": "5128188",
-      "time": "2026-10-06 15:29:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【微軟將內部Claude 使用支出削減三分之一】兩名瞭解該項支出情況的人士稱，微軟高管今年早些時候預計，公司內部使用Anthropic技術的年度支出至少將達到10億美元。其中一位人士表示，此後微軟要求員工減少使用Claude以節約成本、更多使用微軟自研 AI 工具，相關預算規模隨之削減超三分之一。直接知情人士稱，微軟Azure雲業務負責人斯科特・格思裡、開發者工具部門負責人傑伊・帕裡克等高管要求員工在程式碼開發場景謹慎使用模型，督促各負責人監控員工消耗，優先選用非Anthropic模型。一名現任微軟員工表示，高管現在可以檢視員工每日 AI 消耗，以及員工在GitHub Copilot上呼叫的具體模型。近期微軟進一步下調員工整體 AI 使用額度。例如，擁有6萬多名員工的雲與 AI 事業部，此前每名員工每月可使用價值10萬美元的 AI 模型。知情人士稱，該雲部門近期將多數場景下的個人月度預算下調至約1萬美元。現任員工表示，預算縮減引發部分工程師不滿，抱怨模型使用不再自由。"
-    },
-    {
-      "id": "mkt:01a1101d-7ecd-7ee0-a7b3-00f50a9adab8",
-      "time": "2026-10-06 15:28:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "LSEG data show French OTC next-day baseload power prices fell 7.1% to €186/MWh."
-    },
-    {
-      "id": "5128187",
-      "time": "2026-10-06 15:28:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗內政部長埃斯坎達爾·莫梅尼週二表示，伊朗與卡達就三名失蹤伊朗陸軍飛行員的情況舉行了會談，雙方同意一個技術團隊將再次會面以繼續相關工作。"
-    },
-    {
-      "id": "mkt:01a1101d-284b-7ee0-a7b2-fcae9b109136",
-      "time": "2026-10-06 15:28:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Four sources said the UK would likely expel Israeli diplomats if Israel carries out an order to close the British consulate."
-    },
-    {
-      "id": "mkt:01a1101c-fc08-7ee0-a7b2-f0e97911dc2f",
-      "time": "2026-10-06 15:28:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Eurozone bond yields fell. German 10-year bond yield dropped 6bp to 3.431%; German 2-year down 2bp to 3.037%. Italian 10-year bond yield fell 10bp to 4.555%; Italian 2-year down 3bp to 3.46%."
-    },
-    {
-      "id": "te:economy:589796",
-      "time": "2026-10-06 15:28:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Spain Industrial Production Growth Slows in August — Industrial production in Spain increased by 1.5% year-on-year in August 2026, following an upwardly revised 2.5% increase in July. Energy production recorded the strongest growth, rising by 4.7%, followed by intermediate goods (2%) and capital goods (0.9%). By contrast, consumer goods production declined by 1%. On a monthly basis, industrial production fell by 0.7%, reversing the 0.6% increase recorded in July. Durable consumer goods was the only sector to post positive monthly growth, at 1%, while energy recorded the sharpest decline, falling by 2%."
-    },
-    {
-      "id": "5128186",
-      "time": "2026-10-06 15:28:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "兩艘船隻在保加利亞黑海經濟區遭無人機襲擊。"
-    },
-    {
-      "id": "5128185",
-      "time": "2026-10-06 15:28:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國兩年期國債收益率下跌2個基點，至3.037%。"
-    },
-    {
-      "id": "5128184",
-      "time": "2026-10-06 15:28:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元區債券收益率下行，德國10年期國債收益率下跌6個基點，至3.431%。"
-    },
-    {
-      "id": "5128183",
-      "time": "2026-10-06 15:27:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "義大利10年期國債收益率下跌10個基點，報4.555%。義大利兩年期國債收益率下行3個基點，報3.46%。"
-    },
-    {
-      "id": "5128182",
-      "time": "2026-10-06 15:27:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：若以色列執行關閉英國領事館的命令，英國很可能會驅逐以色列外交官。"
-    },
-    {
-      "id": "5128181",
-      "time": "2026-10-06 15:27:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "法國場外市場日前基荷電力價格下跌7.1%，至每兆瓦時186歐元。"
     }
   ]
 }

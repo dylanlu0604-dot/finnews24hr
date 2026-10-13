@@ -1,7 +1,106 @@
 {
   "date": "2026-10-13",
-  "count": 1101,
+  "count": 1112,
   "items": [
+    {
+      "id": "te:economy:591419",
+      "time": "2026-10-13 15:29:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Czechia Inflation Confirmed at 5-Month High — The annual inflation rate in the Czech Republic rose to 2.5% in September 2026 from 1.9% in the previous month. This marked the highest reading since April, driven by an acceleration in transport costs (13.2% vs. 9.6% in August), with fuel and lubricant prices surging by 37.5% year-on-year, and a moderation in the deflation of food and non-alcoholic beverages (-3.5% vs. -4.3%). Prices also rose faster for housing and utilities (1.7% vs. 1.5%), recreation and culture (2.5% vs. 0.4%), personal care, social protection, and miscellaneous goods and services (4.0% vs. 3.8%), information and communication (2.9% vs. 2.0%), and education (4.7% vs. 4.0%). Meanwhile, inflation eased for alcoholic beverages and tobacco (4.6% vs. 4.7%), health (3.8% vs. 4.2%), and restaurants and accommodation services (4.2% vs. 4.3%). On a monthly basis, consumer prices were unchanged in September, down from a 0.3% increase in August."
+    },
+    {
+      "id": "mkt:01a1342a-6b45-7ee0-a850-70238a8d70cb",
+      "time": "2026-10-13 15:29:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Citigroup sees Gulf economies contracting 3.1% in 2026】Citigroup projects the Gulf region will contract 3.1% in 2026 as regional conflict disrupts oil production and weighs on non-oil activity. It forecasts oil-sector output to fall 13.7% and non-oil growth to slow to 1.0% from 5.1% in 2025. Impact will vary across six Gulf economies depending on access to alternative export routes and the severity of trade and tourism disruption. The forecast assumes shipping through the Strait of Hormuz normalises in Q4; continued disruption would pose additional downside risk."
+    },
+    {
+      "id": "5141486",
+      "time": "2026-10-13 15:29:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：幣安正考慮在包括中國香港和韓國在內的市場推出股票交易服務。"
+    },
+    {
+      "id": "te:markets:591417",
+      "time": "2026-10-13 15:28:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Eases From 3-Year High — The yield on India’s 10-year G-Sec hovered around 7.37%, easing from three-year highs as investors stepped in to seek value after a sharp selloff, with heavy purchases by local lenders, particularly state-run banks, helping support prices. However, gains remained limited ahead of INR 312 billion in state debt sales and the RBI’s INR 250 billion open market bond sale, while another INR 340 billion auction is scheduled for Friday. Yields have risen 20 basis points over four sessions since the RBI raised its policy rate by 25 basis points and shifted to a calibrated tightening stance. Expectations of further rate hikes strengthened after September inflation accelerated to 5.54%, while Brent crude remained above $105 a barrel. Investors also awaited US inflation data for clues on the Federal Reserve’s policy outlook."
+    },
+    {
+      "id": "5141485",
+      "time": "2026-10-13 15:28:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "財政部將於10月20日拍賣發行550億元6個月期國庫券。"
+    },
+    {
+      "id": "5141484",
+      "time": "2026-10-13 15:28:10",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "財政部將於10月20日續發800億元10年期國債。"
+    },
+    {
+      "id": "5141483",
+      "time": "2026-10-13 15:27:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鍾薛高被列入稅務非正常戶】近日，天眼查App顯示，鍾薛高原運營公司鍾薛高食品（上海）有限公司新增1條稅務非正常戶資訊，納稅人狀態為“非正常”，認定機關為國家稅務總局上海市嘉定區稅務局。"
+    },
+    {
+      "id": "5141482",
+      "time": "2026-10-13 15:26:59",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【2026冬航季：東航在上海加密多條國際航線】東方航空：新航季，東航將加密上海浦東至吉隆坡、普吉、胡志明、悉尼、墨爾本、布里斯班、奧克蘭、法蘭克福、聖彼得堡、倫敦希斯羅等國際航點的航班頻次。"
+    },
+    {
+      "id": "te:economy:591416",
+      "time": "2026-10-13 15:26:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Slovakia Construction Output Falls at Fastest Pace in Nearly 2 Years — Slovakia’s construction output fell by 4.8% year-on-year in August 2026, reversing a 2.3% increase in the previous month. This marked the second annual decline this year, after January, and the steepest drop since September 2024. The result for the second month of the summer holiday period reflected a decline in domestic construction (-3.0% vs 4.7% in July), with decreases in the dominant new construction activity (-0.7% vs 4.9%), repair and maintenance of buildings (-6.4% vs 5.0%), and civil engineering works (-10.3% vs 1.1%). At the same time, growth in building construction slowed sharply to 0.6% from 6.5%. Construction activity abroad also declined further, falling by 16.0%, the largest decrease since January, after a 13.5% drop in July. On a seasonally adjusted monthly basis, construction output dropped by 4.9%. In the first eight months of 2026, construction activity was 6.3% higher than in the same period last year."
+    },
+    {
+      "id": "mkt:01a13427-e3ba-7ee0-a850-6c23749233ad",
+      "time": "2026-10-13 15:26:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Philippine prosecutors withdraw three impeachment charges against Vice President Sara Duterte】Philippine media reported on the 13th that prosecutors withdrew three of four charges in Vice President Sara Duterte’s impeachment case, leaving only an allegation she failed to properly declare unexplained assets for 2022–2025."
+    },
     {
       "id": "5141481",
       "time": "2026-10-13 15:25:52",
@@ -103,6 +202,14 @@
         "其他"
       ],
       "text": "【霍爾果斯口岸今年前三季度通行中歐（亞）班列7264列】據霍爾果斯鐵路口岸站統計，今年前三季度霍爾果斯口岸通行中歐（亞）班列7264列，過貨量1228.3萬噸。截至目前，經霍爾果斯鐵路口岸通行的中歐（亞）班列累計超6萬列，通行班列線路總數已達91條，可輻射境外18個國家、46個城市和地區，搭載貨物品類達200餘種。（央視新聞）"
+    },
+    {
+      "id": "5141472",
+      "time": "2026-10-13 15:19:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、特朗普當地時間10月12日下午在白宮對媒體表示，他認為俄羅斯和烏克蘭都同意他提出的“能源停火”。\n2、特朗普表示，澤連斯基和普京必須會面，結束衝突。他還表示，俄烏雙方均存在違反停火的行為。\n3、特朗普聲稱：“我與俄羅斯的柴油協議對我來說算不上什麼協議，這是為世界其他地區達成的協議。”\n4、被問及是否預計共和黨將贏得眾議院，特朗普表示：“我們會表現得很出色。”\n5、特朗普表示可能取消對哥倫比亞的關稅。\n6、特朗普當天說，他正在考慮解除美國駐希臘大使金伯莉·吉爾福伊爾的職務。\n7、特朗普當地時間週一（12日）對“美聯邦特工突擊搜查索馬利亞裔民主黨眾議員伊爾汗·奧馬爾住所”作出回應，稱此事“與我無關”。"
     },
     {
       "id": "5141471",
