@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-14 04:33:13",
-  "count": 10986,
+  "updated": "2026-10-14 04:36:58",
+  "count": 10990,
   "items": [
+    {
+      "id": "5143106",
+      "time": "2026-10-14 04:36:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局因裝置故障，對飛往裡根國家機場（DCA）的航班釋出地面停飛指令。"
+    },
+    {
+      "id": "mkt:01a136fa-51e0-7ee0-a862-2e4ee9fa4e40",
+      "time": "2026-10-14 04:35:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Fed's COLLINS said officials are well aware that higher interest rates could pose a range of challenges."
+    },
+    {
+      "id": "te:markets:591613",
+      "time": "2026-10-14 04:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.35% Lower — The Dow Jones Index fell 180 points or 0.35 percent on Tuesday to close at 51671 points. Leading the losses are J&J (-5.64%), Caterpillar (-3.38%) and Merck (-2.40%). Top gainers were Salesforce (1.75%), IBM (1.60%) and Visa (1.58%)."
+    },
+    {
+      "id": "5143105",
+      "time": "2026-10-14 04:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門釋出預警，利雅得省達瓦西爾河谷地區存在潛在危險。"
+    },
+    {
+      "id": "5143104",
+      "time": "2026-10-14 04:34:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲柯林斯：官員們充分知曉高利率會帶來各類挑戰。"
+    },
     {
       "id": "5143103",
       "time": "2026-10-14 04:31:56",
@@ -99729,18 +99781,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Retreats After Election-Driven Rally — The Ibovespa fell 0.5% to close at 205,835 on Tuesday after hitting a record 206,912 in the previous session, when Flávio Bolsonaro finished ahead in Sunday’s first election round, defying most polls. The index was weighed by Petrobras (-2.8%) and Vale (-1.4%). Petrobras fell as the oil rally lost steam before prices edged higher late in the session. Vale extended losses ahead of the reopening of China’s iron ore market, which was closed from October 1 to October 7 for the weeklong National Day holiday. Banco do Brasil (-6.4%) and B3 (-2.7%) pulled back after surging 11% and 22.6%, respectively, on Monday. Other laggards included Axia (-3.1%), WEG (-1%) and Ambev (-1.5%). In contrast, Itaú (+2%) and Bradesco (+4.4%) extended gains after rallying 10.4% and 13.6%, respectively, on Monday. Brazil’s trade surplus surged 146.4% year over year in September, above forecasts of $7.19 billion and marking the sharpest annual increase since January 2024."
-    },
-    {
-      "id": "te:markets:589942",
-      "time": "2026-10-07 04:35:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.49% Higher — The Dow Jones Index went up by 253 points or 0.49 percent on Tuesday to close at 51521 points. The rise was led by Cisco Systems (4.45%), Walmart (2.05%) and Amazon (2.00%). On the downside, the weakerst performers were Salesforce (-2.09%), Boeing (-1.52%) and UnitedHealth (-0.75%)."
     }
   ]
 }
