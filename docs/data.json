@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-13 08:41:29",
-  "count": 10905,
+  "updated": "2026-10-13 08:45:15",
+  "count": 10903,
   "items": [
+    {
+      "id": "5140315",
+      "time": "2026-10-13 08:43:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：將海底撈目標價從19.3港元下調至15.5港元。"
+    },
+    {
+      "id": "te:markets:591282",
+      "time": "2026-10-13 08:42:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Drop on Tech Selloff — The Nikkei 225 Index fell 2% to below 68,000 in post-holiday trading on Tuesday, extending its decline to a fourth consecutive session and following an overnight tech-led selloff on Wall Street. Technology stocks faced heavy selling pressure as concerns over the AI trade intensified, with investors reassessing capital spending prospects amid rising borrowing costs. Broadcom CEO Hock Tan said that the AI boom had attracted investors whose strategies resembled gambling, while billionaire Ray Dalio described AI as a “classic bubble” approaching a potential burst as interest rates rise and investors seek to convert wealth into cash. Significant losses were recorded among technology and AI-related stocks, including Kioxia Holdings (-9.3%), Advantest (-5.3%), SoftBank Group (-7%), Taiyo Yuden (-5.6%) and Tokyo Electron (-4.5%)."
+    },
+    {
+      "id": "5140314",
+      "time": "2026-10-13 08:42:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本經濟產業大臣赤澤亮正：中東局勢對亞洲能源的影響極其嚴重】日本經濟產業大臣赤澤亮正表示，中東地區日益加劇的緊張局勢正對亞洲能源市場造成極其嚴重的影響。赤澤亮正在東京告訴記者，鑑於當前的中東局勢，日本內閣已批准三項法案，以增強國家能源供需結構的韌性。由於沙烏地阿拉伯利雅得機場遭到襲擊，赤澤亮正改為以線上方式參加了週日在利雅得舉行的國際能源論壇部長級會議。赤澤亮正表達了對沙烏地阿拉伯的聲援，並向所有受影響的人士致以誠摯的慰問。他表示，將繼續高度關注局勢發展，包括其對日本原油採購造成的影響。"
+    },
+    {
+      "id": "5140313",
+      "time": "2026-10-13 08:42:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【南亞科技預計四季度毛利率會更高 DRAM會繼續漲價】據臺灣經濟日報引述南亞科技總經理李培瑛報道，預計第四季度動態隨機存取儲存器(DRAM)價格將繼續上漲，各產品漲幅將有所不同。 毛利率可能優於第三季度。李培瑛稱，客戶正在積極洽談長期供應協議，一些戰略合作伙伴盼望透過入股確保產能。"
+    },
     {
       "id": "5140312",
       "time": "2026-10-13 08:40:28",
@@ -98953,68 +98989,6 @@
         "國際"
       ],
       "text": "30年期日本國債收益率上漲1個基點，觸及4.24%的歷史新高。"
-    },
-    {
-      "id": "mkt:01a10eab-9dad-7ee0-a7ab-9335ac9467b1",
-      "time": "2026-10-06 08:44:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 5-year government bond yield rose 3 bps to 2.39%."
-    },
-    {
-      "id": "5127410",
-      "time": "2026-10-06 08:44:48",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【菲律賓股市申報網站出現宕機】週二開盤前，菲律賓證券交易所的上市公司材料申報網站發生服務中斷。網站提示：“網頁伺服器返回未知錯誤。”注：9 月下旬，菲交所申報網站也曾發生故障，後恢復，交易未受影響。"
-    },
-    {
-      "id": "5127403",
-      "time": "2026-10-06 08:44:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【歐元兌美元跌至17個月低點】受法國財政壓力與政治不確定性帶來的市場擔憂拖累，歐元5日明顯走弱，一度下探至1歐元兌1.1161美元，創下2025年5月以來的最低水平。此前，歐元已經連續4周收跌。"
-    },
-    {
-      "id": "mkt:01a10eaa-d587-7ee0-a7ab-89b3519581d4",
-      "time": "2026-10-06 08:43:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Euro falls to 17-month low vs dollar】The euro slid to $1.1161 on the 5th, its weakest since May 2025, after four straight weekly declines, pressured by concerns over French fiscal strain and political uncertainty. The spread between French and German 10-year yields briefly topped 150bps, the widest since end-2011. Markets warn rising French debt, higher debt-servicing costs and a potential pre-election political deadlock could amplify eurozone fiscal risk; US reports on the 5th said France has become a \"typical example\" of stress in European bond markets."
-    },
-    {
-      "id": "te:economy:589682",
-      "time": "2026-10-06 08:43:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Job Advertisements",
-        "Importance 1"
-      ],
-      "text": "Australia Job Ads Rise for 3rd Month — Australia’s ANZ–Indeed Job Ads rose 2.2% month -over-month in September 2026, slowing from a marginally revised 2.6% gain in the previous month despite marking the third straight month of expansion. The continued increase suggested that labour demand remained resilient, although the slower pace pointed to some moderation in hiring momentum"
-    },
-    {
-      "id": "5127385",
-      "time": "2026-10-06 08:41:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大廣播公司法語臺預測，魁北克分離主義政黨贏得魁北克省選舉。"
     }
   ]
 }
