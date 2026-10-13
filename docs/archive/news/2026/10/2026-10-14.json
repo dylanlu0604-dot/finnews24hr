@@ -1,7 +1,39 @@
 {
   "date": "2026-10-14",
-  "count": 366,
+  "count": 369,
   "items": [
+    {
+      "id": "5143134",
+      "time": "2026-10-14 05:40:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門荷臺達省燃油設施遭空襲致2死2傷】葉門胡塞武裝方面13日訊息，沙烏地阿拉伯主導的多國聯軍戰機當天對葉門西部荷臺達省多處燃油設施發動空襲，造成2人死亡、2人受傷。一名葉門安全部門官員稱，沙特聯軍戰機對胡塞武裝控制的荷臺達省紅海沿岸伊薩角地區多處燃油儲存設施發動多次空襲。聯軍戰機還襲擊了荷臺達省巴吉勒地區的燃油供應倉庫。目前尚不清楚遭襲設施的受損程度。當地居民稱，空襲後，遭襲地區升起滾滾黑煙。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a13734-f6e5-7ee0-a862-be2a76745a26",
+      "time": "2026-10-14 05:39:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Saudi-led airstrikes hit fuel facilities in Yemen's Hodeidah; 2 killed】Saudi-led coalition warplanes struck multiple fuel storage facilities in Yemen’s western Hodeidah province on the 13th, killing two and wounding two, the Houthi movement said. A Yemeni security official said the strikes hit Houthi-controlled fuel depots along the Red Sea coast at Ras Issa and a fuel supply warehouse in Bajil. Hours earlier, a Saudi airstrike struck a fuel storage and distribution facility in Sabbaha west of Sanaa. The extent of damage to the targeted facilities is unclear."
+    },
+    {
+      "id": "mkt:01a13734-e697-7ee0-a862-b60b0300ebd0",
+      "time": "2026-10-14 05:39:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Saudi Press Agency quoted a Saudi energy ministry official saying ARAMCO's headquarters was attacked, causing a minor fire and no casualties."
+    },
     {
       "id": "5143133",
       "time": "2026-10-14 05:35:47",
