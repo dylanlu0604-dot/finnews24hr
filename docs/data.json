@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-14 05:22:28",
+  "updated": "2026-10-14 05:26:15",
   "count": 10980,
   "items": [
+    {
+      "id": "5143120",
+      "time": "2026-10-14 05:25:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "力拓第三季度鋁土礦產量1575萬噸，預估1522萬。\n氧化鋁產量207萬噸，預估200萬。"
+    },
     {
       "id": "mkt:01a1371e-ca31-7ee0-a862-9bc3adf18ffb",
       "time": "2026-10-14 05:15:27",
@@ -99681,14 +99689,6 @@
         "MKT News"
       ],
       "text": "【Trump to speak with Putin soon on suspected plague case in Russia】President Trump said he has arranged a call with President Putin to discuss a suspected pneumonic plague case in Russia and that the call would take place soon. A staffer at a research institute in Irkutsk region reportedly died after a suspected pneumonic plague infection; the U.S. embassy in Russia issued a health alert."
-    },
-    {
-      "id": "5129184",
-      "time": "2026-10-07 05:23:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "雪佛龍將出售所持赫斯中游、DJ盆地中游資產的權益，預計因赫斯中游資產交易產生約30億至40億美元虧損。"
     }
   ]
 }
