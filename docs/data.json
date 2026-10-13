@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-13 23:19:38",
-  "count": 10901,
+  "updated": "2026-10-13 23:23:47",
+  "count": 10902,
   "items": [
+    {
+      "id": "mkt:01a135db-7306-7ee0-a85b-8d798decaff4",
+      "time": "2026-10-13 23:22:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Saudi cabinet says it will not allow threats to freedom of navigation in the Red Sea."
+    },
+    {
+      "id": "mkt:01a135db-2729-7ee0-a85b-81aeb986b61f",
+      "time": "2026-10-13 23:21:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of India governor said he expects a special scheme to boost dollar inflows to bring about $150 billion in inflows."
+    },
+    {
+      "id": "5142761",
+      "time": "2026-10-13 23:20:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度正考慮放寬對部分國家投資的限制。"
+    },
+    {
+      "id": "5142760",
+      "time": "2026-10-13 23:20:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：預計針對提振美元流動的特別計劃將帶來約1500億美元資金流入。"
+    },
+    {
+      "id": "5142759",
+      "time": "2026-10-13 23:19:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：與股票不同，外匯市場主要面向有真實對沖需求的參與者。"
+    },
+    {
+      "id": "mkt:01a135d8-ceba-7ee0-a85b-7aa5e8139664",
+      "time": "2026-10-13 23:19:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "USD/CAD down 0.50% intraday at 1.4208."
+    },
+    {
+      "id": "mkt:01a135d8-c5ca-7ee0-a85b-74334b86f4b7",
+      "time": "2026-10-13 23:19:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said the FX market, unlike equities, mainly serves participants with genuine hedging needs, and the central bank will consider additional measures to curb speculation if necessary."
+    },
+    {
+      "id": "mkt:01a135d8-a95c-7ee0-a85b-6ead76bd7c80",
+      "time": "2026-10-13 23:19:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Germany, Ukraine oppose Trump's 'energy truce', demand protection for Ukrainian power infrastructure】German chancellor Merz and Ukrainian president Zelenskiy see U.S. President Trump's proposed 'energy truce'—limited to Russian refineries—as too narrow and want any ceasefire to cover broader energy infrastructure. They say agreements banning strikes should include Ukrainian power infrastructure as well as Russian refineries, expect other EU leaders to back the position at this week's Brussels summit, and call on Moscow to implement a truce protecting all energy facilities, sources said."
+    },
+    {
+      "id": "5142758",
+      "time": "2026-10-13 23:19:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特內閣：絕不允許對紅海航運自由構成威脅。"
+    },
     {
       "id": "5142757",
       "time": "2026-10-13 23:18:33",
@@ -98775,72 +98863,6 @@
         "國際"
       ],
       "text": "美國參議員沃倫針對味好美聯合利華擬議交易、西斯科收購Restaurant Depot擬議交易致信司法部、聯邦貿易委員會；敦促司法部與聯邦貿易委員會對食品行業併購交易展開嚴格審查。"
-    },
-    {
-      "id": "5128912",
-      "time": "2026-10-06 23:23:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "五角大樓技術長埃米爾·邁克爾：人們應該知道人工智慧可以為他們服務。"
-    },
-    {
-      "id": "5128911",
-      "time": "2026-10-06 23:23:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "五角大樓技術長埃米爾·邁克爾：（談及人工智慧專項工作組）重點關注未來風險。"
-    },
-    {
-      "id": "5128910",
-      "time": "2026-10-06 23:22:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "五角大樓技術長埃米爾·邁克爾：希望擁有超過五家主承包商（打破國防採購市場高度集中的局面）。"
-    },
-    {
-      "id": "5128909",
-      "time": "2026-10-06 23:22:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "五角大樓技術長埃米爾·邁克爾：（談及國防科技初創企業Anduril合同一事）並無異常。"
-    },
-    {
-      "id": "em:qqyh_mlc:202610063888819954",
-      "time": "2026-10-06 23:21:39",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲鮑曼稱央行將很快考慮提高銀行監管的資產規模門檻】美聯儲一位高階官員週二表示，美聯儲將很快公佈一項計劃，提高通常會觸發對美國大型銀行實施更嚴格監管的資產規模門檻。負責監管事務的美聯儲副主席米歇爾·鮑曼表示，美聯儲將在今年晚些時候尋求更新以固定美元金額設定的資產門檻規則，以反映通脹和經濟增長。"
-    },
-    {
-      "id": "5128908",
-      "time": "2026-10-06 23:20:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利森蒂內拉銅礦工人表示仍未達成合同協議，或引發罷工。"
-    },
-    {
-      "id": "5128907",
-      "time": "2026-10-06 23:19:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國副總統萬斯承認選民對特朗普政府存在不滿，並呼籲民眾保持耐心。"
-    },
-    {
-      "id": "em:qqyh_mlc:202610063888819866",
-      "time": "2026-10-06 23:19:49",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲理事鮑曼表示，計劃在明年初啟動新的監管系統。"
     }
   ]
 }

@@ -1,7 +1,95 @@
 {
   "date": "2026-10-13",
-  "count": 1679,
+  "count": 1688,
   "items": [
+    {
+      "id": "mkt:01a135db-7306-7ee0-a85b-8d798decaff4",
+      "time": "2026-10-13 23:22:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Saudi cabinet says it will not allow threats to freedom of navigation in the Red Sea."
+    },
+    {
+      "id": "mkt:01a135db-2729-7ee0-a85b-81aeb986b61f",
+      "time": "2026-10-13 23:21:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of India governor said he expects a special scheme to boost dollar inflows to bring about $150 billion in inflows."
+    },
+    {
+      "id": "5142761",
+      "time": "2026-10-13 23:20:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "印度正考慮放寬對部分國家投資的限制。"
+    },
+    {
+      "id": "5142760",
+      "time": "2026-10-13 23:20:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：預計針對提振美元流動的特別計劃將帶來約1500億美元資金流入。"
+    },
+    {
+      "id": "5142759",
+      "time": "2026-10-13 23:19:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：與股票不同，外匯市場主要面向有真實對沖需求的參與者。"
+    },
+    {
+      "id": "mkt:01a135d8-ceba-7ee0-a85b-7aa5e8139664",
+      "time": "2026-10-13 23:19:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "USD/CAD down 0.50% intraday at 1.4208."
+    },
+    {
+      "id": "mkt:01a135d8-c5ca-7ee0-a85b-74334b86f4b7",
+      "time": "2026-10-13 23:19:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said the FX market, unlike equities, mainly serves participants with genuine hedging needs, and the central bank will consider additional measures to curb speculation if necessary."
+    },
+    {
+      "id": "mkt:01a135d8-a95c-7ee0-a85b-6ead76bd7c80",
+      "time": "2026-10-13 23:19:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Germany, Ukraine oppose Trump's 'energy truce', demand protection for Ukrainian power infrastructure】German chancellor Merz and Ukrainian president Zelenskiy see U.S. President Trump's proposed 'energy truce'—limited to Russian refineries—as too narrow and want any ceasefire to cover broader energy infrastructure. They say agreements banning strikes should include Ukrainian power infrastructure as well as Russian refineries, expect other EU leaders to back the position at this week's Brussels summit, and call on Moscow to implement a truce protecting all energy facilities, sources said."
+    },
+    {
+      "id": "5142758",
+      "time": "2026-10-13 23:19:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特內閣：絕不允許對紅海航運自由構成威脅。"
+    },
     {
       "id": "5142757",
       "time": "2026-10-13 23:18:33",
