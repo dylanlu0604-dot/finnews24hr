@@ -1,7 +1,111 @@
 {
   "date": "2026-10-14",
-  "count": 2331,
+  "count": 2341,
   "items": [
+    {
+      "id": "5145090",
+      "time": "2026-10-14 22:19:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利首席財務官預計，在貸款增長的推動下，未來一年淨利息收入將擴大。"
+    },
+    {
+      "id": "5145089",
+      "time": "2026-10-14 22:19:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士透露，KNDS的首次公開募股計劃目前已被擱置。"
+    },
+    {
+      "id": "5145088",
+      "time": "2026-10-14 22:18:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "據一位知情人士透露，德國政府正與KNDS的所有者家族就收購KNDS 50%股份進行談判。"
+    },
+    {
+      "id": "mkt:01a13ac7-174c-7ee0-a87f-d6afbb7a9e05",
+      "time": "2026-10-14 22:18:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Economist: Sticky inflation from Middle East energy shock could keep Fed rates higher into 2027】FWDBonds chief economist Chris Rupkey said mounting evidence shows an energy-price shock from the Middle East war is beginning to push up prices for other core goods and services. He warned that if geopolitical risks keep energy costs elevated, firms facing cost pressure will pass it through to consumers and businesses, making inflation more sticky and potentially requiring the Fed to hike further and hold rates higher into 2027."
+    },
+    {
+      "id": "mkt:01a13ac5-d391-7ee0-a87f-c9cea4d84063",
+      "time": "2026-10-14 22:16:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MS.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley CEO says the firm maintains an overweight rating on its AI-opportunity portfolio."
+    },
+    {
+      "id": "5145087",
+      "time": "2026-10-14 22:16:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利執行長：我們仍對人工智慧相關機會組合維持超配。"
+    },
+    {
+      "id": "mkt:01a13ac5-87b1-7ee0-a87f-c1fb78cb1903",
+      "time": "2026-10-14 22:16:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Jeff Schultz, chief investment strategist at Franklin Templeton Research, said today's CPI could be a mild headwind for risk assets. Stronger market pricing for near-term rate hikes would increase pressure on the long end of the yield curve, should boost the dollar and weigh on equity valuations."
+    },
+    {
+      "id": "5145086",
+      "time": "2026-10-14 22:16:18",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利執行長表示，人工智慧交易對銀行具有關乎存亡的重要意義。"
+    },
+    {
+      "id": "mkt:01a13ac5-51fb-7ee0-a87f-bb3cc2dd8dc2",
+      "time": "2026-10-14 22:16:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Morgan Stanley CEO says AI-driven trading is critical for banks."
+    },
+    {
+      "id": "5145085",
+      "time": "2026-10-14 22:15:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【景昱醫療寧益華：中國腦機介面DBS從生態崛起邁向精神醫學突破】在今日召開的第22屆 ICOCS（國際強迫及強迫譜系障礙學會）年會上，寧益華表示，腦機介面雙靶點DBS 是難治性精神疾病的最後手段，中國企業及臨床醫師在難治性精神疾病治療領域已取得里程碑式突破。一項全球“首創”已經實現 —— 針對阿片類藥物成癮的腦機介面雙靶點DBS已在中國獲批上市。景昱醫療於2016年和2021年啟動的兩項腦機介面雙靶點DBS治療難治性強迫症的臨床試驗，6個月的完全應答率均在75%以上 。注：景昱醫療是成癮與精神類疾病治療型腦機介面領域的企業，2025年12月，公司Neurestora®獲中國藥品監督管理局批准上市，用於難治性中重度阿片類藥物成癮患者的防復發輔助治療，成為全球首款獲批治療藥物成癮的腦機介面雙靶點DBS系統。"
+    },
     {
       "id": "5145084",
       "time": "2026-10-14 22:14:05",
