@@ -1,7 +1,202 @@
 {
-  "updated": "2026-10-14 21:36:41",
-  "count": 11840,
+  "updated": "2026-10-14 21:40:37",
+  "count": 11852,
   "items": [
+    {
+      "id": "5145024",
+      "time": "2026-10-14 21:39:50",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "花旗集團預計，美國聯邦儲備委員會將於2026年12月加息25個基點，而該機構此前的預測為今年利率維持不變。"
+    },
+    {
+      "id": "5145023",
+      "time": "2026-10-14 21:39:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克菲勒基金會與OpenAI基金會宣佈將合作設立5000萬美元夥伴關係專案，助力各城市藉助人工智慧改善公共服務。"
+    },
+    {
+      "id": "5145022",
+      "time": "2026-10-14 21:39:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "甲骨文跌超6%，報134.5美元。"
+    },
+    {
+      "id": "5145021",
+      "time": "2026-10-14 21:39:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克菲勒基金會與OpenAI基金會報告建立合作伙伴關係。"
+    },
+    {
+      "id": "mkt:01a13aa3-455f-7ee0-a87e-d407b7c8ebf2",
+      "time": "2026-10-14 21:39:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "XAUUSD",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Morgan Stanley CEO said that by early October corporate-level AI adoption had accelerated and geopolitical conflict risks had reached a critical juncture."
+    },
+    {
+      "id": "5145020",
+      "time": "2026-10-14 21:38:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "梵蒂岡表示，教皇利奧的血液檢測及胸部X光檢查結果證實，他術後恢復進展正常。"
+    },
+    {
+      "id": "5145019",
+      "time": "2026-10-14 21:38:54",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利執行長表示，企業級人工智慧應用的加速以及地緣政治衝突相關風險，在10月初已達到關鍵節點。"
+    },
+    {
+      "id": "5145018",
+      "time": "2026-10-14 21:38:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【慈文傳媒：股票交易異常波動 相關業務暫不影響業績】慈文傳媒公告稱，公司股票連續兩個交易日（2026年10月13日、10月14日）收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動情形。經核查，公司及控股股東、實控人不存在應披露而未披露的重大事項，異動期間控股股東、實控人未買賣公司股票。2026年上半年公司營業收入1892.26萬元，同比下降90.02%；淨虧損3323.07萬元，同比擴大虧損43.98%。公司微短劇《開標之戰》累計歸屬收入約50萬元，短劇、海外業務規模均較小，AIGC平臺尚未形成收入，均不對業績構成重大影響。"
+    },
+    {
+      "id": "5145017",
+      "time": "2026-10-14 21:38:26",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【華爾街對美國9月CPI的觀點彙總：資料強化進一步加息預期，但並不意味著加息板上釘釘】美國9月通脹資料公佈後，多家華爾街資產管理機構認為，核心CPI高於預期增加了美聯儲進一步加息的可能性，但尚不足以使10月加息成為定局。Principal Asset Management首席全球策略師Seema Shah表示，資料雖令市場不安，但不足以支援美聯儲10月加息；富蘭克林鄧普頓投資策略主管Jeff Schulze指出，偏強的核心通脹強化了後續加息理由，但紐約聯儲主席威廉姆斯及美聯儲理事傑斐遜近期偏鴿派的表態意味著立即加息門檻仍高。Federated Hermes固定收益投資策略師Karen Manna認為，通脹資料可能促使美債收益率曲線各期限收益率進一步上行；Hirtle & Co.首席投資官Brad Conger則指出，美國經濟增長強勁，使美聯儲能夠更加側重控制通脹。市場同時擔憂美聯儲可能重現2022年式的較長加息週期。"
+    },
+    {
+      "id": "mkt:01a13aa2-5adf-7ee0-a87e-ceb4b3bce4c5",
+      "time": "2026-10-14 21:38:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The UK has added Venezuela's Amazon region to its list of prohibited travel areas."
+    },
+    {
+      "id": "5145015",
+      "time": "2026-10-14 21:37:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國將委內瑞拉的亞馬孫州列入不建議旅行地區。"
+    },
+    {
+      "id": "5145014",
+      "time": "2026-10-14 21:37:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東百集團：終止收購杭州快靈光電部分股權】東百集團公告稱，公司全資子公司福建東百創智投資有限公司此前擬收購杭州快靈光電科技有限公司部分股權，因交易各方未能就關鍵條款達成一致意見，公司經審慎評估決定終止本次股權收購事項。本次股權收購未簽訂正式協議，交易終止不會對公司財務及經營狀況產生重大影響，不存在損害公司及股東利益的情形。"
+    },
+    {
+      "id": "5145013",
+      "time": "2026-10-14 21:37:37",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲通訊衛星公司(Eutelsat)股價擴大漲幅，目前上漲20%。"
+    },
+    {
+      "id": "te:markets:591979",
+      "time": "2026-10-14 21:37:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "UK Gilt Yields Near 2007 Highs — The UK 10-year gilt yield rose to 5.46%, nearing its highest level since July 2007, tracking higher US Treasury yields after stronger-than-expected US inflation boosted expectations of a Federal Reserve rate hike this month. Meanwhile, BoE Chief Economist Huw Pill expressed skepticism about market expectations for four rate increases over the coming year, arguing that stronger evidence was needed to justify a larger hike despite the need to address the energy shock triggered by the Iran war. Governor Andrew Bailey, however, warned that a rate increase would become increasingly difficult to avoid if the energy shock persists. Markets see a near-100% chance of a BoE rate hike in November, its first in over three years, though expectations for four increases by June 2027 have eased slightly. Separately, the IMF urged the UK government to clarify how it will fund higher defense spending, with an additional £11 billion annually needed to raise military expenditure to 3% of GDP by 2030."
+    },
+    {
+      "id": "5145012",
+      "time": "2026-10-14 21:37:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯財政部2035年OFZ債券的需求量為1872.6億盧布。"
+    },
+    {
+      "id": "5145011",
+      "time": "2026-10-14 21:37:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "埃森哲股價上漲1.8%，訊息面上，公司預計2027財年營收將實現中個位數增長，並將進行55億美元的股票回購。"
+    },
+    {
+      "id": "5145010",
+      "time": "2026-10-14 21:37:00",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利執行長Ted Pick在分析師電話會議上表示，投行業務儲備專案仍然充足，董事會層面活動活躍。"
+    },
+    {
+      "id": "5145009",
+      "time": "2026-10-14 21:36:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "IonQ股價下跌6.8%，此前公司完成20億美元股票發行定價。"
+    },
+    {
+      "id": "mkt:01a13aa0-d98a-7ee0-a87e-c0fa747fbb1b",
+      "time": "2026-10-14 21:36:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Goldman-linked strategist: oil above $100 could constrain Fed flexibility】Tim Urbanovich, chief investment strategist at Innovator ETFs affiliated with Goldman Sachs Asset Management, said today's inflation print casts doubt on market pricing that the Fed will take a tactical pause in October. Oil prices above $100/bbl are adding friction to already-stubborn core inflation; the data complicate the disinflation narrative and could limit Fed flexibility."
+    },
+    {
+      "id": "te:markets:591978",
+      "time": "2026-10-14 21:36:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Pfizer Shares Hit 5-week High — Pfizer shares increased to 28.95 USD, the highest since September 2026. Over the past 4 weeks, Pfizer gained 4.26%, and in the last 12 months, it increased 17.86%."
+    },
     {
       "id": "5145008",
       "time": "2026-10-14 21:36:08",
@@ -107685,74 +107880,6 @@
         "國際"
       ],
       "text": "伊朗總統佩澤希齊揚表示，包括美國和以色列政權在內的伊朗敵人，企圖分裂伊朗並使其陷入停滯。但他指出，保持團結並擱置分歧，必將使敵人的圖謀落空並走向失敗。"
-    },
-    {
-      "id": "5130392",
-      "time": "2026-10-07 21:40:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數觸及盤中低點，下跌1%。"
-    },
-    {
-      "id": "te:markets:590221",
-      "time": "2026-10-07 21:40:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.86% Lower — The Dow Jones Index is losing 442 points. Losses were led by Caterpillar (-3.29%), Sherwin-Williams (-2.81%) and Goldman Sachs (-2.79%). Offsetting the fall, top gainers were Amgen (1.36%), J&J (0.75%) and Chevron (0.66%)."
-    },
-    {
-      "id": "5130391",
-      "time": "2026-10-07 21:39:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國慶期間全國刑事、治安警情同比分別下降23.7%、7%】記者10月7日從公安部獲悉，國慶期間，截至10月7日16時，全國社會治安秩序良好，刑事、治安警情同比分別下降23.7%、7%，2700餘場大型活動安全順利，全國道路交通總體平穩有序，旅遊景區秩序井然。（新華社）"
-    },
-    {
-      "id": "5130390",
-      "time": "2026-10-07 21:39:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小崧股份：股東會審議透過罷免董事徐馳職務】小崧股份(002723.SZ)公告稱，公司於2026年9月30日召開第四次臨時股東會，審議透過罷免徐馳第七屆董事會非獨立董事職務的議案。自決議作出之日起，徐馳不再擔任公司董事及董事會下設薪酬委員會相關職務。本次罷免不會導致董事會成員低於法定人數，不會對公司正常生產經營產生重大不利影響。公司將按法定程式儘快完成董事補選工作。"
-    },
-    {
-      "id": "5130389",
-      "time": "2026-10-07 21:39:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國慶節假期上海日均接待外國遊客超1.5萬人次】記者10月7日從上海市文化和旅遊局獲悉，這個國慶節假期，上海日均接待外國遊客15340人次，同比增長13.86%。（新華社）"
-    },
-    {
-      "id": "5130388",
-      "time": "2026-10-07 21:38:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌5%，現報1115.50美元/盎司。"
-    },
-    {
-      "id": "5130387",
-      "time": "2026-10-07 21:37:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "Asieris Pharmaceuticals：Theramex將獲得希瑞琺®（Cevira）在歐洲、澳大利亞、紐西蘭及土耳其的獨家權益。"
-    },
-    {
-      "id": "5130386",
-      "time": "2026-10-07 21:37:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：我們駐希臘團隊正出色地推進美國的外交使命。"
     }
   ]
 }
