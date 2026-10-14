@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-15 03:18:37",
-  "count": 11961,
+  "updated": "2026-10-15 03:22:30",
+  "count": 11966,
   "items": [
+    {
+      "id": "5145461",
+      "time": "2026-10-15 03:20:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：需要關注 AI 投資對金融穩定帶來的潛在影響。"
+    },
+    {
+      "id": "mkt:01a13bdc-048b-7ee0-a884-c5e72207dd16",
+      "time": "2026-10-15 03:20:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.37% to 102.554 at New York close on 14th】The dollar index rose 0.37% to 102.554 at the New York close on the 14th. EUR/USD fell to 1.1153 from 1.1201; GBP/USD to 1.3181 from 1.3257. USD/JPY eased to 158.20 from 158.30. USD/CHF climbed to 0.8345 from 0.8325; USD/CAD to 1.4247 from 1.4215; USD/SEK to 10.0321 from 9.9618."
+    },
+    {
+      "id": "5145460",
+      "time": "2026-10-15 03:20:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：AI 投資放緩並不等同於經濟衰退。"
+    },
+    {
+      "id": "5145458",
+      "time": "2026-10-15 03:20:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿根廷外長：阿根廷與美國簽署貿易協定附加議定書。"
+    },
+    {
+      "id": "5145456",
+      "time": "2026-10-15 03:19:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數14日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.37%，在匯市尾市收於102.554。截至紐約匯市尾市，1歐元兌換1.1153美元，低於前一交易日的1.1201美元；1英鎊兌換1.3181美元，低於前一交易日的1.3257美元。1美元兌換158.20日元，低於前一交易日的158.30日元；1美元兌換0.8345瑞士法郎，高於前一交易日的0.8325瑞士法郎；1美元兌換1.4247加元，高於前一交易日的1.4215加元；1美元兌換10.0321瑞典克朗，高於前一交易日的9.9618瑞典克朗。"
+    },
+    {
+      "id": "5145455",
+      "time": "2026-10-15 03:19:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達CEO黃仁勳稱會對開發不安全AI軟體的客戶斷供晶片】英偉達執行長黃仁勳表示，假如客戶正在開發不安全的人工智慧(AI)軟體，他會停止向其供應晶片，不過他認為目前沒有必要如此擔憂這項技術。在倫敦接受採訪時，當被問及是否會停止向不負責任的開發商供貨，黃仁勳表示，“這是一個假設性問題，但答案是肯定的。不過，在這樣做之前，你會先進行溝通。我們並不經營別人的公司，對於其他公司如何使用我們的技術，我們能作出的評判也是有限的。我們的技術是通用型的。”"
+    },
+    {
+      "id": "5145454",
+      "time": "2026-10-15 03:18:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：AI 熱潮可能進一步推高科技行業投資，存在引發經濟過熱的風險。"
+    },
     {
       "id": "5145453",
       "time": "2026-10-15 03:17:56",
@@ -108941,31 +109005,6 @@
         "市場"
       ],
       "text": "聯合包裹股價跌至當日低點，下跌0.8%。"
-    },
-    {
-      "id": "mkt:01a117cf-63a9-7ee0-a7e1-272d9c99f569",
-      "time": "2026-10-08 03:20:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Alphabet",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "AMD.O",
-        "MSFT.O"
-      ],
-      "text": "【Trump to award National Medals of Science and Technology to Musk, Brin, Huang, Lisa Su; Dell, Nadella to receive technology medal】Fox News reports President Trump will on Thursday at the White House present National Medals: the National Medal of Science to Elon Musk, Google (GOOG.O) co‑founder Sergey Brin, Jensen Huang and AMD (AMD.O) CEO Lisa Su; and the National Medal of Technology and Innovation to Dell (DELL.N) CEO Michael Dell and Microsoft (MSFT.O) CEO Satya Nadella. It is the first time these two medals have been awarded during Trump’s two administrations."
-    },
-    {
-      "id": "5130674",
-      "time": "2026-10-08 03:19:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "聯合包裹股價快速下跌，現跌0.29%。"
     }
   ]
 }
