@@ -1,7 +1,16 @@
 {
   "date": "2026-10-15",
-  "count": 376,
+  "count": 377,
   "items": [
+    {
+      "id": "mkt:01a13c60-24e8-7ee0-a886-5ac7bb3102c2",
+      "time": "2026-10-15 05:44:56",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "【Japan aims for 30 rocket launches per year in early 2030s】METI plans to add launch pads at four domestic sites to reach about 30 rocket launches per year in the early 2030s, citing rising security and commercial satellite launch demand. Expansion covers Space Cotan’s Hokkaido spaceport, Space One’s Kii spaceport, and JAXA’s Uchinoura and Tanegashima centers. Each site currently has a single pad; added pads are intended to allow launch preparations to run in parallel with existing operations. METI is seeking roughly ¥76 billion (about $480m) in its FY2027 budget request for the build-out and will coordinate policy with the Ministry of Finance by end-2026."
+    },
     {
       "id": "mkt:01a13c5c-ae4b-7ee0-a886-55d3a7bdd959",
       "time": "2026-10-15 05:41:09",
