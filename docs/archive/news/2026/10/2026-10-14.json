@@ -1,7 +1,99 @@
 {
   "date": "2026-10-14",
-  "count": 2277,
+  "count": 2286,
   "items": [
+    {
+      "id": "5145056",
+      "time": "2026-10-14 21:55:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500銀行指數創下四個多月新低，最新下跌1.3%。"
+    },
+    {
+      "id": "5145055",
+      "time": "2026-10-14 21:55:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利執行長：數字基礎設施業務活動從現在起可能不會加速。"
+    },
+    {
+      "id": "mkt:01a13ab2-393e-7ee0-a87f-46a93194ffcb",
+      "time": "2026-10-14 21:55:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "S&P 500 banks index fell 1.3% to its lowest level in over four months."
+    },
+    {
+      "id": "te:markets:591992",
+      "time": "2026-10-14 21:55:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "British Pound Hits 15-week Low — GBPUSD decreased to 1.32, the lowest since June 2026. Over the past 4 weeks, British Pound US Dollar lost 2.18%, and in the last 12 months, it decreased 1.64%."
+    },
+    {
+      "id": "te:markets:591990",
+      "time": "2026-10-14 21:53:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "French Bond Yields Climb — France’s 10-year OAT yield rebounded above 4.85%, tracking higher US Treasury yields after stronger-than-expected US inflation data reinforced expectations of further Federal Reserve tightening. ECB President Christine Lagarde said energy-driven inflation has yet to spread across the wider euro area, supporting a wait-and-see approach. However, persistent price pressures and the ongoing US-Iran conflict have strengthened expectations of another ECB rate hike in December, following two increases earlier this year. French borrowing costs remain near their highest levels in over two decades, as record public debt and political hurdles complicate fiscal consolidation. The government aims to cut the budget deficit to 5% of GDP by 2027, but parliamentary support for significant spending cuts remains uncertain ahead of next year’s presidential election."
+    },
+    {
+      "id": "5145053",
+      "time": "2026-10-14 21:52:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統表示，她將於週三簽署法令，要求數字平臺保護未成年人免受暴力與色情內容侵害。"
+    },
+    {
+      "id": "5145052",
+      "time": "2026-10-14 21:52:50",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利執行長Ted Pick表示，人工智慧資本支出週期仍處於相對早期階段。"
+    },
+    {
+      "id": "mkt:01a13aaf-ad0d-7ee0-a87f-38ce6964bb54",
+      "time": "2026-10-14 21:52:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【TIMIRAOS: core inf above forecasts, bolstering case for another Fed hike this year】TIMIRAOS said September core CPI (ex-food and energy) rose 0.33% MoM, above nearly all Wall Street forecasts and up from 0.29% in August, marking a second consecutive month of stronger-than-expected inf. He said the report reinforces the case for the Federal Reserve to raise rates again this year; Fed officials unanimously voted to hike last month and most had expected one more increase in the year. The release raises two policy questions: whether officials can wait until December to act after saying they do not expect to change rates at the meeting in two weeks, and how high policy rates ultimately need to go — a judgement that depends on whether rising energy costs and AI-driven investment pressures spread into the broader economy. Officials have not signalled they would revise plans based on a single report."
+    },
+    {
+      "id": "5145051",
+      "time": "2026-10-14 21:52:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "CMB.TECH 股價下跌 5.6%。"
+    },
     {
       "id": "5145050",
       "time": "2026-10-14 21:51:35",
