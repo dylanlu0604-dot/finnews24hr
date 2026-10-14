@@ -1,7 +1,52 @@
 {
   "date": "2026-10-14",
-  "count": 556,
+  "count": 561,
   "items": [
+    {
+      "id": "5143270",
+      "time": "2026-10-14 08:21:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上升0.5個基點，至2.345%。"
+    },
+    {
+      "id": "te:economy:591636",
+      "time": "2026-10-14 08:21:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "GDP Annual Growth Rate",
+        "Importance 2"
+      ],
+      "text": "Singapore Q3 GDP Growth Slows to 5.4% — Singapore’s economy grew by 5.4% year-on-year in the third quarter of 2026, exceeding market expectations for a 5% expansion but slowing from an upwardly revised 6.2% growth in Q2, advance estimates showed. Growth in goods-producing industries eased to 7.3% from 10.9% in the previous quarter, as manufacturing growth slowed to 7.5% from 12.9%, while construction accelerated to 8.8% from 6.1%."
+    },
+    {
+      "id": "5143269",
+      "time": "2026-10-14 08:20:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗海軍13日表示，其監測團隊當天發現一艘“違規”油輪，該油輪當天早些時候在穿越霍爾木茲海峽時受損並起火。伊朗海軍提醒所有過境船隻勿關閉電子裝置，並與伊朗武裝力量進行必要協調。（央視新聞）"
+    },
+    {
+      "id": "5143268",
+      "time": "2026-10-14 08:18:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "奧林巴斯股價下跌15%，創自2025年4月以來的最大跌幅。"
+    },
+    {
+      "id": "5143267",
+      "time": "2026-10-14 08:18:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【富士膠片將在美國投入1800萬美元擴建CMP拋光液產能】富士膠片計劃投資1800萬美元，擴建其亞利桑那州梅薩工廠的半導體CMP拋光液產能。擴建生產線將於2027年投產。"
+    },
     {
       "id": "5143266",
       "time": "2026-10-14 08:17:31",

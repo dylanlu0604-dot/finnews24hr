@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-14 08:18:21",
+  "updated": "2026-10-14 08:22:11",
   "count": 11041,
   "items": [
+    {
+      "id": "5143270",
+      "time": "2026-10-14 08:21:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上升0.5個基點，至2.345%。"
+    },
+    {
+      "id": "te:economy:591636",
+      "time": "2026-10-14 08:21:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "GDP Annual Growth Rate",
+        "Importance 2"
+      ],
+      "text": "Singapore Q3 GDP Growth Slows to 5.4% — Singapore’s economy grew by 5.4% year-on-year in the third quarter of 2026, exceeding market expectations for a 5% expansion but slowing from an upwardly revised 6.2% growth in Q2, advance estimates showed. Growth in goods-producing industries eased to 7.3% from 10.9% in the previous quarter, as manufacturing growth slowed to 7.5% from 12.9%, while construction accelerated to 8.8% from 6.1%."
+    },
+    {
+      "id": "5143269",
+      "time": "2026-10-14 08:20:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗海軍13日表示，其監測團隊當天發現一艘“違規”油輪，該油輪當天早些時候在穿越霍爾木茲海峽時受損並起火。伊朗海軍提醒所有過境船隻勿關閉電子裝置，並與伊朗武裝力量進行必要協調。（央視新聞）"
+    },
+    {
+      "id": "5143268",
+      "time": "2026-10-14 08:18:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "奧林巴斯股價下跌15%，創自2025年4月以來的最大跌幅。"
+    },
+    {
+      "id": "5143267",
+      "time": "2026-10-14 08:18:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【富士膠片將在美國投入1800萬美元擴建CMP拋光液產能】富士膠片計劃投資1800萬美元，擴建其亞利桑那州梅薩工廠的半導體CMP拋光液產能。擴建生產線將於2027年投產。"
+    },
     {
       "id": "5143266",
       "time": "2026-10-14 08:17:31",
@@ -100131,51 +100176,6 @@
         "Impact bullish"
       ],
       "text": "Samsung said Samsung Wallet now supports digital key functionality for select General Motors models, initially for certain 2026 and 2027 Cadillac electric vehicles."
-    },
-    {
-      "id": "5129270",
-      "time": "2026-10-07 08:20:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國農業部海外農業局：印度食糖產量預計低於3000萬噸】美國農業部海外農業局（FAS）在一份報告中稱，本月開啟的2026-27榨季，印度食糖產量預計為2950萬噸。該數值低於美國農業部此前3360萬噸的官方預估。“甘蔗主產區在關鍵生長期降雨嚴重不足、持續乾旱，作物生長受阻，造成收割甘蔗重量與每公頃單產雙雙下降。”主產邦馬哈拉施特拉邦降雨失序，部分農田出現積水，進一步拖累產量。期末庫存預計降至400萬噸，低於此前650萬噸的官方預估。"
-    },
-    {
-      "id": "mkt:01a113bb-c8c2-7ee0-a7c7-4a7c016ee39d",
-      "time": "2026-10-07 08:20:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Explosions heard in Kyiv, Ukraine."
-    },
-    {
-      "id": "5129269",
-      "time": "2026-10-07 08:20:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【10月解禁規模超2900億元 11股解禁比例超50%】據資料寶統計，10月將有91只股解禁，按照最新收盤價計算，合計解禁市值2950.1億元。從解禁比例來看，面臨解禁的個股中有11股的解禁比例超50%。泰凱英的解禁比例最高，達73.64%；天元智慧的解禁比例次之，達73.46%；長江能科、中船特氣、西安奕材-U的解禁比例居前。10月解禁股中，西安奕材-U、泰凱英、紅板科技、禾元生物-U、千岸科技等15股近期獲得機構關注。"
-    },
-    {
-      "id": "5129268",
-      "time": "2026-10-07 08:20:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭首都基輔傳出爆炸聲。"
-    },
-    {
-      "id": "5129267",
-      "time": "2026-10-07 08:18:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本東證指數升破歷史最高收盤水平】受美股上漲帶動，日本東證指數最高上漲0.4%，觸及4201.34點，超過8月14日創下的4197.20點歷史收盤紀錄。日經225指數基本持平。隔夜標普500指數收盤創歷史新高，得益於企業盈利韌性以及人工智慧相關支出前景向好。"
     }
   ]
 }
