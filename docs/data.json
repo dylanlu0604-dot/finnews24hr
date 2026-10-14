@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-15 05:52:37",
-  "count": 11974,
+  "updated": "2026-10-15 05:56:21",
+  "count": 11977,
   "items": [
+    {
+      "id": "5145603",
+      "time": "2026-10-15 05:55:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總統塞西：只要我們的邊境和平安全，我們與以色列就保持著和平條約，我們對他們或他們的領土沒有任何野心。海灣國家的國家安全也是埃及國家安全的一部分。"
+    },
+    {
+      "id": "5145602",
+      "time": "2026-10-15 05:55:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴克萊：特斯拉-SpaceX合併訊息可能在年度股東大會前公佈】巴克萊分析師表示，市場參與者目前普遍預計特斯拉將與SpaceX合併，相關訊息可能會在特斯拉年度股東大會(AGM)之前公佈。分析師Dan Levy等人預計，2026年年度股東大會最遲將於12月6日舉行。Levy補充稱，合併的理由將是實現垂直整合，並能夠加快埃隆·馬斯克旗下兩家公司在人工智慧(AI)領域的發展機會。“雖然特斯拉/SpaceX合併訊息的公佈時間可能會推遲到10月晚些時候，甚至可能推遲到11月初，但我們認為，屆時要讓合併案在年度股東大會上獲得批准，難度可能會越來越大。”"
+    },
+    {
+      "id": "te:economy:592069",
+      "time": "2026-10-15 05:54:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Inventories Post Largest Draw Since January — US crude oil inventories fell by 11.12 million barrels in the week ending October 9th, far exceeding expectations for a 1.9 million-barrel increase and marking the largest draw since late January. In the previous week, crude stocks fell by 2.09 million barrels. Meanwhile, Cushing inventories rose by 1.82 million barrels, following an increase of 866,000 barrels in the prior week. Gasoline inventories increased by 1.1 million barrels in the week ending October 7th, while distillate stocks fell by 1.5 million barrels. US crude oil production rose to 13.98 million barrels per day in the week ending October 2nd, up from 13.95 million bpd a week earlier."
+    },
+    {
+      "id": "mkt:01a13c68-8907-7ee0-a886-6e75e851e114",
+      "time": "2026-10-15 05:54:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egyptian President Sisi said the security of Gulf states is part of Egypt's national security."
+    },
+    {
+      "id": "mkt:01a13c68-37fa-7ee0-a886-66ac0daa5947",
+      "time": "2026-10-15 05:53:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egyptian President Sisi said Egypt will uphold its peace treaty with Israel so long as its borders remain peaceful and secure, and that Egypt has no territorial ambitions against Israel or its territory."
+    },
     {
       "id": "mkt:01a13c60-24e8-7ee0-a886-5ac7bb3102c2",
       "time": "2026-10-15 05:44:56",
@@ -109111,31 +109155,6 @@
         "國際"
       ],
       "text": "特朗普新任AI主管克萊頓將赴矽谷走訪AI企業。"
-    },
-    {
-      "id": "mkt:01a1185e-10dd-7ee0-a7e2-345fd0b00fab",
-      "time": "2026-10-08 05:56:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【High pay for Strait of Hormuz transits as crews accept ~5% attack risk】A captain described operational changes to oil and LNG shipments through the Strait of Hormuz amid Iranian threats: night-only runs, strict equipment limits (no lights or mobile phones, typically only one radar), navigation by the Oman coast and lighthouses, and AIS cutters switched off at departure. Crews — largely from the Philippines and India — are being paid premiums, with some contracts shortened but paying several times normal wages and some owners offering an extra six months’ pay; decks are being reinforced with sandbags to guard against drones or missiles. Shipping executives say the chance of being attacked while transiting under US military surveillance is about 1 in 20; Iran has compiled a blacklist of tankers involved in the trade."
-    },
-    {
-      "id": "te:markets:590288",
-      "time": "2026-10-08 05:53:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Natural gas is up by 5.03% — Natural gas increased 5.03% to 3.2706 USD/MMBtu"
     }
   ]
 }
