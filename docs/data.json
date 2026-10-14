@@ -1,7 +1,134 @@
 {
-  "updated": "2026-10-14 11:28:06",
-  "count": 11370,
+  "updated": "2026-10-14 11:31:58",
+  "count": 11378,
   "items": [
+    {
+      "id": "mkt:01a13877-0fc5-7ee0-a86b-c1ed064fa606",
+      "time": "2026-10-14 11:31:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Index futures morning session close】CSI 300 index futures (IF) most-active contract fell 0.60%; SSE 50 index futures (IH) fell 0.29%; CSI 500 index futures (IC) fell 0.35%; CSI 1000 index futures (IM) fell 0.53%."
+    },
+    {
+      "id": "mkt:01a13876-e6b5-7ee0-a86b-bf25b2a0548e",
+      "time": "2026-10-14 11:31:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the morning close, China’s main futures contracts were mixed. Apples fell over 5% and eggs dropped more than 3%. Shanghai tin, red dates and soda ash declined over 2%; Asia‑Europe container freight and Shanghai silver slid about 2%. On the upside, fuel oil and ethylene glycol (EG) gained more than 3%; benzene rose about 2%; PVC, PVC monthly average price, palm oil, rapeseed meal and polypropylene advanced over 1%."
+    },
+    {
+      "id": "5143604",
+      "time": "2026-10-14 11:31:10",
+      "tags": [
+        "公司",
+        "市場",
+        "A股"
+      ],
+      "text": "【午評：創業板指半日跌超1%，遊戲傳媒、AI影片方向再度爆發】A股三大指數早盤漲跌不一，截至午盤，上證指數漲0.01%，深證成指跌0.51%，創業板指跌1.15%，北證50漲0.87%，科創50指數跌1.07%。全市場成交額8607億元，較上日縮量1557億元，全市場超3600只個股下跌。板塊題材上，油氣開採及服務、遊戲、影視院線、教育、煤炭開採加工、港口航運、電力、軍工裝備板塊漲幅居前；風電裝置、環保裝置、汽車整車、零售、有機矽、光刻機板塊跌幅居前。盤面上，市場仍圍繞AI應用方向炒作，遊戲、傳媒板塊低開後逐步走高，富春股份、凱撒文化、新經典多股漲停，新華文軒上演準“地天板”。國際油價近日反彈，油氣、煤炭等資源週期股走高，博邁科、鄭州煤電漲停，中國海油、晉控煤業漲幅領先。銀行板塊繼續上漲，工、中、建行盤中再創新高。另一方面，電池板塊衝高回落，恩捷股份盤初漲停後不久開板，野馬電池、先導智慧等股轉為下跌。零售板塊多數調整，百大集團、東百集團、南寧百貨領跌板塊。"
+    },
+    {
+      "id": "5143603",
+      "time": "2026-10-14 11:30:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞銀：中國車企過去一個月持續受壓 但憂慮正逐漸被反映】瑞銀髮布研報稱，中國車企在過去一個月持續受壓，但相關憂慮正逐漸被反映。近期增值稅政策明朗化，加上中歐貿易談判或取得進展，均有助消除主要陰霾，而隨著海外銷售持續擴張，行業龍頭亦可能迎來價值重估，該行對前景持正面看法。個股方面，該行繼續偏好評級“買入”的比亞迪(01211)、寧德時代(300750.SZ)及吉利汽車(00175)。"
+    },
+    {
+      "id": "mkt:01a13876-0e6a-7ee0-a86b-b38956a47d0a",
+      "time": "2026-10-14 11:30:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "IMF managing director said Singapore is a leader in artificial intelligence and is notable for its attention to AI-related risks."
+    },
+    {
+      "id": "5143602",
+      "time": "2026-10-14 11:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】蘋果連續跌5.53%，雞蛋連續跌3.57%，燃料油連續漲3.33%，乙二醇連續漲3.20%，瀝青連續漲2.83%。"
+    },
+    {
+      "id": "5143601",
+      "time": "2026-10-14 11:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約漲0.17%， 10年期主力合約漲0.05%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5143600",
+      "time": "2026-10-14 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續跌0.53%， 滬深300指數期貨連續跌0.60%， 中證500指數期貨連續跌0.35%， 上證50指數期貨連續跌0.29%。"
+    },
+    {
+      "id": "te:markets:591726",
+      "time": "2026-10-14 11:29:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Yield Hits Fresh 2025 Low — China’s 10-year government bond yield fell to around 1.67% on Wednesday, hitting its lowest level since June 2025 as strong export growth reinforced the country’s external outlook. China’s trade surplus widened to $133.53 billion in September 2026 from $88.72 billion a year earlier, marking its largest surplus since January 2025. Exports surged 36.3% year-on-year to a record $447.18 billion, while imports rose 31.0% to an all-time high of $313.66 billion. Meanwhile, investors weighed a continued recovery in consumer prices against intensifying cost pressures. Annual inflation edged up to 0.9% in September from 0.8% in August, reaching a three-month high. Producer price inflation accelerated to 5.0% from 3.8%, its strongest pace since June 2022. Renewed hostilities in the Middle East and risks to global oil supplies have pushed up input costs, squeezing corporate margins as businesses struggle to pass higher expenses on to consumers."
+    },
+    {
+      "id": "5143599",
+      "time": "2026-10-14 11:29:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織(IMF)敦促主要經濟體在金融市場迫使其採取行動之前，先鞏固預算。"
+    },
+    {
+      "id": "5143598",
+      "time": "2026-10-14 11:29:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）總裁格奧爾基耶娃表示：新加坡在人工智慧領域處於領先地位，對於該國如此重視人工智慧相關風險，我印象深刻。"
+    },
+    {
+      "id": "5143597",
+      "time": "2026-10-14 11:29:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沙特阿美總裁：全球原油庫存逼近“危險低位”】沙烏地阿拉伯國家石油公司（沙特阿美公司）總裁兼執行長阿明·納賽爾12日在第二十五屆世界石油理事會能源大會（世界石油大會）上表示，全球原油庫存正逼近“極度危險”的低位，可能需要兩年時間才能恢復至正常水平。受霍爾木茲海峽局勢影響，全球能源供應鏈持續承壓，原油供應緊張程度加劇。納賽爾表示，當前商業陸上石油庫存已低於60億桶，這已經是“最後可用的緩衝”，但這些庫存絕大多數實際上無法為市場所用。納賽爾認為，由於全球原油消費需求依然在持續攀升，即便霍爾木茲海峽在短期內完全重新開放、市場信心全面恢復，想要徹底補充消耗殆盡的庫存，至少需要長達兩年的“超負荷加班生產”。"
+    },
+    {
+      "id": "mkt:01a13874-5397-7ee0-a86b-af34ac5757fd",
+      "time": "2026-10-14 11:28:29",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "IMF managing director said financial conditions remain relatively loose amid the current high-yield environment."
+    },
+    {
+      "id": "5143596",
+      "time": "2026-10-14 11:27:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.4%至32.214。"
+    },
     {
       "id": "5143595",
       "time": "2026-10-14 11:27:20",
@@ -103164,58 +103291,6 @@
         "國際"
       ],
       "text": "印度10年期指標公債收益率<IN069436G=CC>報7.2095%；前收盤報7.1928%。"
-    },
-    {
-      "id": "5129411",
-      "time": "2026-10-07 11:31:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度盧比 <INR=IN> 開盤持平，報1美元兌96.42盧比。"
-    },
-    {
-      "id": "5129410",
-      "time": "2026-10-07 11:30:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行稱，截至10月6日，銀行現金餘額為8.02萬億盧比。"
-    },
-    {
-      "id": "5129409",
-      "time": "2026-10-07 11:30:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【力爭到2030年叢集營收超5000億元 浙江全鏈條支撐生物醫藥產業發展】為加快培育生物醫藥領域新質生產力，推動產業高質量發展，浙江省政府辦公廳日前印發《關於促進生物醫藥產業高質量發展的指導意見》，明確提出，力爭到2030年，全省規模以上生物醫藥企業研發費用佔營業收入比重的7%左右，在關鍵共性技術、前沿引領領域實現重要突破，生物醫藥產業叢集營業收入超5000億元。《指導意見》以臨床需求為牽引，將加快佈局細胞與基因治療、抗體藥物、核酸藥物、放射性藥品、現代中藥、醫學人工智慧與高階醫療器械等領域，制定重點研發清單，實施一批應用基礎研究專案和重大科技專項。企業創新主體地位進一步強化，為此浙江將建立領軍型和高成長型企業培育庫，企業牽頭或參與的省重大科技計劃專案佔比不低於80%。"
-    },
-    {
-      "id": "mkt:01a11468-eb7a-7ee0-a7c9-48a91799f320",
-      "time": "2026-10-07 11:29:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Japan may add nuclear-powered submarine study to security documents】Japanese media cited sources saying the government is considering language in revised security papers to 'launch research on introducing nuclear-powered submarines.' The proposed wording would likely stop short of presuming ownership, instead framing the item as a future research-and-discussion entry point. Inclusion would enable the government to begin investigative studies. A ruling-party official said phrasing such as 'repeated study and discussion' would permit public simulation of operational use and cost calculations. Prime Minister TAKAICHI has pushed revisions to the security documents and seeks to modify Japan's three non-nuclear principles. Chief Cabinet Secretary KIHARA and Defense Minister Shinjiro Koizumi have said discussion of possessing nuclear-powered submarines should not be ruled out, drawing domestic and international criticism."
-    },
-    {
-      "id": "5129408",
-      "time": "2026-10-07 11:29:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日安保三檔案或添核潛艇內容】據日本媒體今天（10月7日）援引訊息人士的話報道，日本政府正考慮在修改的“安保三檔案”中寫入“啟動研究引進核動力潛艇”相關內容。日媒報道稱，相關表述可能不會以“擁有”為前提，而是寫入“作為今後研究和討論切入點”的內容。據悉，如果在“安保三檔案”中寫入“研究引進核動力潛艇”內容，將為日本政府啟動相關調查研究創造條件。一位執政黨高層表示，如果寫入“反覆研究討論”，就可以公開模擬運用和演算成本。日本首相高市早苗上臺以來，一直推動修訂“安保三檔案”，試圖修改“無核三原則”。日本內閣官房長官木原稔和防衛大臣小泉進次郎都曾表示，“不應排除關於擁有核動力潛艇的討論”，引發國內外反對和批評。（CCTV國際時訊）"
-    },
-    {
-      "id": "5129407",
-      "time": "2026-10-07 11:28:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "Blue Cloud Softech Solutions旗下子公司將為IBM Cloud提供AI基礎設施服務，合同金額1550萬美元。"
     }
   ]
 }
