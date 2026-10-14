@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15 02:43:52",
-  "count": 11951,
+  "updated": "2026-10-15 02:47:41",
+  "count": 11945,
   "items": [
     {
       "id": "mkt:01a13bb7-5acf-7ee0-a884-55029a39957a",
@@ -108832,65 +108832,6 @@
         "MKT News"
       ],
       "text": "U.S. President Trump said he loves the Polish people and supports their president."
-    },
-    {
-      "id": "te:markets:590276",
-      "time": "2026-10-08 02:46:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Amazon Shares Hit 4-week High — Amazon shares increased to 259.52 USD, the highest since September 2026. Over the past 4 weeks, Amazon gained 0.94%, and in the last 12 months, it increased 15.17%."
-    },
-    {
-      "id": "5130653",
-      "time": "2026-10-08 02:46:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：他們整個國家將會被徹底摧毀。"
-    },
-    {
-      "id": "mkt:01a117af-76b8-7ee0-a7e0-b13cd120e872",
-      "time": "2026-10-08 02:45:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Sources say the BBC and Channel 4 are discussing a merger or broader tie-up than previously disclosed to reduce costs."
-    },
-    {
-      "id": "mkt:01a117ae-bb5b-7ee0-a7e0-ae8ff89e849d",
-      "time": "2026-10-08 02:44:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Brent crude futures settled at $100.20 a barrel, down $0.38, or 0.38%."
-    },
-    {
-      "id": "5130652",
-      "time": "2026-10-08 02:44:03",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "突尼西亞央行表示，維持關鍵利率在 7% 不變。"
-    },
-    {
-      "id": "mkt:01a117ad-f3e5-7ee0-a7e0-a3c8cf8617b0",
-      "time": "2026-10-08 02:43:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tunisia's central bank kept its benchmark policy rate unchanged at 8%."
     }
   ]
 }
