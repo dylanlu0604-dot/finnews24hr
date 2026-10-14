@@ -1,7 +1,139 @@
 {
-  "updated": "2026-10-14 22:04:10",
-  "count": 11888,
+  "updated": "2026-10-14 22:08:05",
+  "count": 11897,
   "items": [
+    {
+      "id": "5145073",
+      "time": "2026-10-14 22:07:24",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部解除對Jorge Jesus Rodriguez Gomez的制裁。"
+    },
+    {
+      "id": "mkt:01a13abc-fc4b-7ee0-a87f-908c7fd7a183",
+      "time": "2026-10-14 22:07:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market sources say Ghana may stop using liquid fuels for power generation as natural gas use increases."
+    },
+    {
+      "id": "5145072",
+      "time": "2026-10-14 22:06:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "迦納可能停止使用液體燃料發電，因天然氣使用量增長。"
+    },
+    {
+      "id": "5145071",
+      "time": "2026-10-14 22:06:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟航空安全域性建議航空公司在約旦領空運營時考慮潛在風險，而此前的指引是避免進入該領空。"
+    },
+    {
+      "id": "mkt:01a13abb-e50d-7ee0-a87f-8843244f271e",
+      "time": "2026-10-14 22:05:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O"
+      ],
+      "text": "U.S. Embassy in Riyadh said U.S. diplomat Larson will meet Microsoft's president for the Arab region to discuss expanding cooperation with Saudi Arabia on artificial intelligence and cloud computing."
+    },
+    {
+      "id": "mkt:01a13abb-b128-7ee0-a87f-8354846dc3b3",
+      "time": "2026-10-14 22:05:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver 2612 contract weakened sharply intraday, losses widening to 5.09%; price fell to 13,695 yuan/kg. Turnover exceeded CNY 27.6 billion. Open interest rose by 12,100 lots during the session, a notable position build-up."
+    },
+    {
+      "id": "mkt:01a13abb-8717-7ee0-a87f-7888089fc189",
+      "time": "2026-10-14 22:05:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell 2.00% intraday to $1,102.84/oz."
+    },
+    {
+      "id": "5145070",
+      "time": "2026-10-14 22:05:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：討論了擴大美國與沙特在人工智慧和雲領域的合作。"
+    },
+    {
+      "id": "mkt:01a13abb-4040-7ee0-a87f-76f6d83c2d55",
+      "time": "2026-10-14 22:05:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 5.00% intraday to $56.20/oz."
+    },
+    {
+      "id": "mkt:01a13aba-bbaa-7ee0-a87f-6dfff5da5a51",
+      "time": "2026-10-14 22:04:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "US Embassy in Riyadh said US diplomat Larson met Microsoft’s president for the Arab region."
+    },
+    {
+      "id": "5145069",
+      "time": "2026-10-14 22:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥將給平臺一個月時間以遵守法令規定。"
+    },
+    {
+      "id": "5145068",
+      "time": "2026-10-14 22:04:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌5%，現報56.19美元/盎司。"
+    },
+    {
+      "id": "5145067",
+      "time": "2026-10-14 22:04:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報13707.00元。"
+    },
+    {
+      "id": "5145066",
+      "time": "2026-10-14 22:04:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國外交官拉爾森會見了微軟阿拉伯公司總裁。"
+    },
     {
       "id": "5145065",
       "time": "2026-10-14 22:03:39",
@@ -108205,50 +108337,6 @@
         "國際"
       ],
       "text": "伊朗港口和海事組織執行長表示：海運佔伊朗對外貿易的90%。"
-    },
-    {
-      "id": "5130422",
-      "time": "2026-10-07 22:07:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通政府技術公司與OKSI宣佈展開合作，部署全知自主軟體產品組合。"
-    },
-    {
-      "id": "5130421",
-      "time": "2026-10-07 22:06:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "SONATA SOFTWARE 斬獲2026-2027年度微軟人工智慧商業解決方案核心圈獎。"
-    },
-    {
-      "id": "te:markets:590226",
-      "time": "2026-10-07 22:06:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls as Banks and Miners Retreat — The S&P/TSX Composite Index fell more than 1% below 35,500 on Wednesday amid elevated oil prices and rising bond yields. Crude oil climbed on persistent risks to Middle Eastern energy flows, raising inflation concerns and reinforcing expectations of a prolonged higher-interest-rate environment. The move compounded the impact of higher US deficit spending on elevated domestic yields. Canadian sovereign bonds fell, further pressuring credit-sensitive stocks. RBC shed more than 1.5%, while TD Bank, BMO, Scotiabank and CIBC lost about 2% each. Markets are pricing in at least one 25-basis-point Bank of Canada rate hike by year-end. Meanwhile, gold prices declined, weighing on miners, with Agnico Eagle, Barrick, WPM and Franco-Nevada falling around 3% each. In contrast, energy producers gained as the oil rally resumed, with Suncor, Imperial Oil and Cenovus up more than 1% each."
-    },
-    {
-      "id": "5130420",
-      "time": "2026-10-07 22:06:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【肯亞內羅畢醫院升級防護應對埃博拉病毒】肯亞衛生部10月6日宣佈，該國確診首例輸入性本迪布焦型埃博拉病例，患者已於5日在內羅畢醫院死亡。內羅畢醫院升級防護，以應對埃博拉病毒。（新華社）"
-    },
-    {
-      "id": "5130419",
-      "time": "2026-10-07 22:04:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "前特斯拉Optimus專案負責人正籌備創辦機器人初創公司Intelligent Machines 或將籌集約 1 億美元。"
     }
   ]
 }

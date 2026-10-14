@@ -1,7 +1,139 @@
 {
   "date": "2026-10-14",
-  "count": 2301,
+  "count": 2315,
   "items": [
+    {
+      "id": "5145073",
+      "time": "2026-10-14 22:07:24",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部解除對Jorge Jesus Rodriguez Gomez的制裁。"
+    },
+    {
+      "id": "mkt:01a13abc-fc4b-7ee0-a87f-908c7fd7a183",
+      "time": "2026-10-14 22:07:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market sources say Ghana may stop using liquid fuels for power generation as natural gas use increases."
+    },
+    {
+      "id": "5145072",
+      "time": "2026-10-14 22:06:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "迦納可能停止使用液體燃料發電，因天然氣使用量增長。"
+    },
+    {
+      "id": "5145071",
+      "time": "2026-10-14 22:06:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟航空安全域性建議航空公司在約旦領空運營時考慮潛在風險，而此前的指引是避免進入該領空。"
+    },
+    {
+      "id": "mkt:01a13abb-e50d-7ee0-a87f-8843244f271e",
+      "time": "2026-10-14 22:05:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O"
+      ],
+      "text": "U.S. Embassy in Riyadh said U.S. diplomat Larson will meet Microsoft's president for the Arab region to discuss expanding cooperation with Saudi Arabia on artificial intelligence and cloud computing."
+    },
+    {
+      "id": "mkt:01a13abb-b128-7ee0-a87f-8354846dc3b3",
+      "time": "2026-10-14 22:05:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver 2612 contract weakened sharply intraday, losses widening to 5.09%; price fell to 13,695 yuan/kg. Turnover exceeded CNY 27.6 billion. Open interest rose by 12,100 lots during the session, a notable position build-up."
+    },
+    {
+      "id": "mkt:01a13abb-8717-7ee0-a87f-7888089fc189",
+      "time": "2026-10-14 22:05:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium fell 2.00% intraday to $1,102.84/oz."
+    },
+    {
+      "id": "mkt:01a13abb-4040-7ee0-a87f-76f6d83c2d55",
+      "time": "2026-10-14 22:05:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 5.00% intraday to $56.20/oz."
+    },
+    {
+      "id": "5145070",
+      "time": "2026-10-14 22:05:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：討論了擴大美國與沙特在人工智慧和雲領域的合作。"
+    },
+    {
+      "id": "mkt:01a13aba-bbaa-7ee0-a87f-6dfff5da5a51",
+      "time": "2026-10-14 22:04:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "US Embassy in Riyadh said US diplomat Larson met Microsoft’s president for the Arab region."
+    },
+    {
+      "id": "5145069",
+      "time": "2026-10-14 22:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥將給平臺一個月時間以遵守法令規定。"
+    },
+    {
+      "id": "5145068",
+      "time": "2026-10-14 22:04:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌5%，現報56.19美元/盎司。"
+    },
+    {
+      "id": "5145067",
+      "time": "2026-10-14 22:04:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報13707.00元。"
+    },
+    {
+      "id": "5145066",
+      "time": "2026-10-14 22:04:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國外交官拉爾森會見了微軟阿拉伯公司總裁。"
+    },
     {
       "id": "5145065",
       "time": "2026-10-14 22:03:39",
