@@ -1,7 +1,325 @@
 {
   "date": "2026-10-14",
-  "count": 1482,
+  "count": 1517,
   "items": [
+    {
+      "id": "5144064",
+      "time": "2026-10-14 16:01:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際能源署：中東成品油和液化石油氣流量不足戰前一半。"
+    },
+    {
+      "id": "5144063",
+      "time": "2026-10-14 16:01:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "梅洛尼表示，義大利即將與歐盟就天然氣價格上限達成協議。"
+    },
+    {
+      "id": "mkt:01a1396e-0058-7ee0-a873-3a8547768c48",
+      "time": "2026-10-14 16:01:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "IEA monthly report said that, given Russia’s constrained refining capacity, easing limits on Russian diesel exports is unlikely to materially change the balance of the global fuel market."
+    },
+    {
+      "id": "5144062",
+      "time": "2026-10-14 16:01:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500指數迷你電子期貨上漲0.14%，納斯達克100指數期貨上漲0.06%，道瓊斯指數期貨上漲0.19%。"
+    },
+    {
+      "id": "5144061",
+      "time": "2026-10-14 16:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華工科技：覆蓋3.2T CPO光引擎、6.4T NPO、12.8T XPO及單波400G的3.2T光模組】有投資者向華工科技（000988.SZ）提問，請問貴公司有沒有CPO的核心-光晶片的生產？10月14日，公司在互動平臺回答表示，公司於2026年CIOE現場動態演示多款前沿方案，覆蓋3.2TCPO光引擎、6.4TNPO、12.8TXPO及單波400G的3.2T光模組。"
+    },
+    {
+      "id": "5144060",
+      "time": "2026-10-14 16:00:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中關村：多多藥業0.5g羥苯磺酸鈣膠囊申請獲受理】中關村公告，下屬公司多多藥業羥苯磺酸鈣膠囊上市許可申請獲國家藥監局受理，規格為0.5g，受理號為CYHS2602461，標誌著該品種上市許可工作進入審評階段。"
+    },
+    {
+      "id": "5144059",
+      "time": "2026-10-14 16:00:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署：經合組織成員國政府石油庫存降至1989年以來最低水平。"
+    },
+    {
+      "id": "5144058",
+      "time": "2026-10-14 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普跌】美光跌0.69%，閃迪跌2.07%，SK海力士跌2.74%，西部資料跌1.50%，希捷科技跌1.35%。"
+    },
+    {
+      "id": "5144057",
+      "time": "2026-10-14 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普漲】禮來漲0.23%，強生漲0.47%，Moderna跌1.13%，諾和諾德跌0.18%，艾伯維漲0.14%，默沙東漲0.92%。"
+    },
+    {
+      "id": "5144056",
+      "time": "2026-10-14 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”普漲】英偉達漲0.26%，蘋果漲0.31%，微軟漲0.28%，谷歌漲0.71%，亞馬遜漲0.43%，Meta漲0.80%，特斯拉漲0.14%。"
+    },
+    {
+      "id": "5144055",
+      "time": "2026-10-14 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前普跌】Lumentum跌1.50%，康寧跌0.92%，Coherent跌0.73%，應用光電跌0.35%，Ciena跌0.50%，博通跌0.24%，邁威爾科技跌0.28%。"
+    },
+    {
+      "id": "mkt:01a1396d-a3b4-7ee0-a873-310512239e88",
+      "time": "2026-10-14 16:00:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME stocks: zinc +5,725t, nickel +150t, tin +35t, lead -1,750t, aluminium -250t, copper -1,650t."
+    },
+    {
+      "id": "mkt:01a1396d-9ef6-7ee0-a873-2cdc8364742f",
+      "time": "2026-10-14 16:00:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: forecasts 2026 global oil supply will be 1.73 mln barrels per day below demand, narrowly improved from a 1.74 mln bpd shortfall projected in the prior report."
+    },
+    {
+      "id": "5144054",
+      "time": "2026-10-14 16:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：鋅庫存增加5725噸，鎳庫存增加150噸，錫庫存增加35噸，鉛庫存減少1750噸，鋁庫存減少250噸，銅庫存減少1650噸。"
+    },
+    {
+      "id": "5144053",
+      "time": "2026-10-14 16:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署：9月份全球觀測原油庫存環比下降1000萬桶。"
+    },
+    {
+      "id": "5144052",
+      "time": "2026-10-14 16:00:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署將2027年石油需求預期下調63萬桶/日。"
+    },
+    {
+      "id": "mkt:01a1396d-532d-7ee0-a873-26af2e1e229d",
+      "time": "2026-10-14 16:00:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME zinc inventory change (Oct.14) | actual 5725 | previous 5550"
+    },
+    {
+      "id": "mkt:01a1396d-4f4c-7ee0-a873-1d24e942327c",
+      "time": "2026-10-14 16:00:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME tin inventory change (Oct.14) | actual 35 | previous -70"
+    },
+    {
+      "id": "mkt:01a1396d-4199-7ee0-a873-14550bc8a4c1",
+      "time": "2026-10-14 16:00:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME nickel inventory change (Oct.14) | actual 150 | previous 276"
+    },
+    {
+      "id": "mkt:01a1396d-3772-7ee0-a873-0cf58b3e4f81",
+      "time": "2026-10-14 16:00:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME lead inventory change (Oct.14) | actual -1750 | previous -3725"
+    },
+    {
+      "id": "5144050",
+      "time": "2026-10-14 16:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署資料顯示，9月份墨西哥灣原油出口量約為戰前水平的75%。"
+    },
+    {
+      "id": "mkt:01a1396d-2d55-7ee0-a873-02da49473c66",
+      "time": "2026-10-14 16:00:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME aluminum inventory change (Oct.14) | actual -250 | previous 0"
+    },
+    {
+      "id": "mkt:01a1396d-1c22-7ee0-a872-f9bf40e7d1ae",
+      "time": "2026-10-14 16:00:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME copper inventory change (Oct.14) | actual -1650 | previous -1625"
+    },
+    {
+      "id": "te:markets:591833",
+      "time": "2026-10-14 16:00:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Falls by 1.83% — Top commodity losers are Natural Gas EU (-1.83%), Natural Gas UK (-1.80%) and Gasoline (-0.53%). Gains are led by Natural gas (0.90%) and Crude Oil (0.15%). Meanwhile Brent Oil was little changed."
+    },
+    {
+      "id": "mkt:01a1396d-069d-7ee0-a872-f4621508bc7a",
+      "time": "2026-10-14 16:00:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME aluminum alloy inventory change (Oct.14) | actual 0 | previous 0"
+    },
+    {
+      "id": "5144049",
+      "time": "2026-10-14 16:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署警告：柴油供應緊張狀況將持續到2027年。"
+    },
+    {
+      "id": "5144048",
+      "time": "2026-10-14 15:59:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【老闆電器：調整2024年股票期權激勵計劃行權價格】老闆電器公告稱，因公司實施2026年中期分紅派息，每10股派5.00元現金（含稅），根據2024年股票期權激勵計劃相關規定，將該激勵計劃行權價格由16.42元/股調整為15.92元/股。本次調整已經公司第七屆董事會第五次會議審議透過，不會對公司財務狀況和經營成果產生實質性影響。"
+    },
+    {
+      "id": "5144047",
+      "time": "2026-10-14 15:59:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【10月14日滬深兩市漲停分析】雙創指數跌超3%，全天成交不足1.5萬億，AI影視、傳媒板塊持續走強。百洋股份、慈文傳媒、新經典4連板，一圖看懂>>"
+    },
+    {
+      "id": "5144046",
+      "time": "2026-10-14 15:59:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【矩陣股份：2026年第三季度淨利潤2777.39萬元，同比下降2.02%】矩陣股份公告，2026年第三季度營業收入1.99億元，同比下降3.45%；歸母淨利潤2777.39萬元，同比下降2.02%；扣非淨利潤2198.37萬元，同比增長21.59%。2026年前三季度營業收入4.78億元，同比下降5.49%；歸母淨利潤5490.35萬元，同比下降20.25%；扣非淨利潤3905.93萬元，同比下降21.28%。"
+    },
+    {
+      "id": "5144045",
+      "time": "2026-10-14 15:59:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟批准解凍匈牙利42億歐元歐盟資金】匈牙利常駐歐盟代表團13日在社交媒體上說，歐盟理事會當天決定結束針對匈牙利的“條件機制”程式，批准向匈牙利解凍此前被凍結的42億歐元歐盟資金。 根據這一決定，歐盟還將解除影響匈牙利高校參與“伊拉斯謨+計劃”和“地平線歐洲”專案的限制。匈牙利政府表示，在完成必要的協議簽署後，相關計劃有望於2027年春季恢復。 歐盟委員會主席馮德萊恩當天在社交媒體上對歐盟理事會的決定表示歡迎，稱這標誌著匈牙利和歐洲“開啟了新篇章”。匈牙利總理毛焦爾·彼得也對這一決定表示歡迎，稱此舉將為匈牙利學生和研究人員帶來新的機會。 匈牙利政府官網當天發表宣告說，為滿足歐盟資金解凍條件，匈牙利已修改100多項法律法規，加強對公共資金和歐盟資金使用的監管，擴大廉政局許可權，實施新的利益衝突防範規定，並提高財產申報制度及私募股權基金的透明度。 歐盟委員會於9月23日提議解除相關限制措施，認為匈牙利已經解決此前在公共採購、反腐敗制度、利益衝突風險以及檢察機關履職效能等方面發現的薄弱環節和不足。 2022年，歐盟以匈牙利在司法改革、反腐措施等方面有違歐盟“法治原則”為由，對其啟動“條件機制”程式，凍結對匈牙利的資金撥付。今年5月，馮德萊恩表示，歐盟將解凍屬於匈牙利的164億歐元歐盟資金，其中包括42億歐元歐盟凝聚基金。(新華社)"
+    },
+    {
+      "id": "5144044",
+      "time": "2026-10-14 15:59:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首個可信辦公智慧體標準體系釋出】近日，在2026年世界標準日主題活動上，《人工智慧 可信辦公智慧體標準體系》（以下簡稱《標準體系》）釋出。這是業界首個可信辦公智慧體領域的國家級標準組織研究成果。《標準體系》由全國機構治理標準化技術委員會（TC600）人工智慧機構治理工作組（WG2）組織編制，深圳市標準化技術研究院牽頭，30多家產學研用單位共同研製。"
+    },
+    {
+      "id": "mkt:01a1396c-1e8d-7ee0-a872-eb5c0189ba55",
+      "time": "2026-10-14 15:59:09",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Russia foreign ministry: Japan's use of journalism as cover for intelligence activity unacceptable】Russia's Foreign Ministry spokeswoman Zakharova told Russian media on the 14th that Japan using news reporting as a cover for intelligence activity is unacceptable and that the detention of a Japanese journalist accused of spying is a first public disclosure rather than a first occurrence. The FSB said on the 13th it detained a Hokkaido Shimbun reporter in Yuzhno‑Sakhalinsk, Sakhalin Oblast, on suspicion of espionage. Japanese media reported on the 14th that the Japanese government has protested and will summon the Russian ambassador."
+    },
+    {
+      "id": "te:markets:591832",
+      "time": "2026-10-14 15:58:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Rebound — The CAC 40 rose 0.4% to 7,858 on Wednesday, rebounding from the previous session to reach a one-week high as investors drew support from dovish signals from the Federal Reserve ahead of key US inflation data. New York Fed President John Williams said one further rate hike may be warranted this year but signaled no need for additional increases in 2027, while emphasizing that the Fed should focus on “underlying trends” in inflation amid price shocks linked to energy and AI. In Europe, attention will turn to speeches by ECB officials, particularly President Christine Lagarde, alongside Elderson, Buch and Schnabel. On the corporate front, STMicroelectronics climbed 1.6%, tracking a broader tech-sector rally after ASML beat earnings and revenue forecasts and issued an upbeat Q4 sales outlook. Luxury stocks also advanced, including LVMH (1.9%), Hermès (2.3%) and Kering (1.5%), shrugging off LVMH's recent report of weaker organic sales growth amid subdued demand in China."
+    },
+    {
+      "id": "5144043",
+      "time": "2026-10-14 15:58:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【至純科技：控股股東蔣淵解除質押237萬股股份】至純科技公告稱，公司控股股東蔣淵於2026年10月13日辦理完成部分股份解除質押手續，本次解質股份237萬股，佔其所持公司股份的3.01%，佔公司總股本的0.62%。本次解質後，蔣淵累計質押股份2593萬股，佔其所持股份的32.88%，佔公司總股本的6.77%；蔣淵及其一致行動人合計質押股份2593萬股，佔其合計持股的27.08%，佔公司總股本的6.77%。本次解除質押的股份暫無再質押計劃。"
+    },
+    {
+      "id": "5144042",
+      "time": "2026-10-14 15:58:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：日方以新聞報道為掩護從事情報活動不可接受】俄羅斯外交部發言人扎哈羅娃14日接受俄媒體採訪時說，日方以新聞報道為掩護從事情報活動是不可接受的。扎哈羅娃說，日本記者因間諜行為被俄方拘捕只是俄方首次披露，而非首次發生，俄方此前已經多次向日方表示，以新聞報道為掩護從事情報活動是不可接受的。（新華社）"
+    },
     {
       "id": "mkt:01a1396a-8c66-7ee0-a872-e608a61a7f56",
       "time": "2026-10-14 15:57:26",
