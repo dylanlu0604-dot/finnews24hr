@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-15 02:13:07",
-  "count": 11945,
+  "updated": "2026-10-15 02:16:56",
+  "count": 11949,
   "items": [
+    {
+      "id": "mkt:01a13ba1-6301-7ee0-a884-15d0e301e70e",
+      "time": "2026-10-15 02:16:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BofA (BAC.N) CEO Moynihan said the bank is working with platforms to validate AI-enabled agent payment functionality. He added that customers shifting deposits into higher-yielding accounts is not a new phenomenon."
+    },
+    {
+      "id": "te:markets:592057",
+      "time": "2026-10-15 02:15:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 2.55% — Top commodity losers are Natural gas (-2.55%) and Methanol (-2.34%). Gains are led by Crude Oil (1.43%) and Brent Oil (0.62%)."
+    },
+    {
+      "id": "5145379",
+      "time": "2026-10-15 02:14:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行CEO莫伊尼漢：正與各平臺合作驗證代理式支付。"
+    },
+    {
+      "id": "mkt:01a13b9f-6150-7ee0-a884-0dd084d5a3a7",
+      "time": "2026-10-15 02:14:23",
+      "tags": [
+        "MKT News",
+        "BAC.N",
+        "Impact bullish",
+        "XLF"
+      ],
+      "text": "BofA (BAC.N) CEO Moynihan said core loans and deposits continue to grow and, excluding fines, overall business momentum is strong. He said rising interest rates will further boost the bank's earnings and that the bank accepts responsibility for all internal business conduct."
+    },
+    {
+      "id": "mkt:01a13b9e-1162-7ee0-a884-05bf0acf5201",
+      "time": "2026-10-15 02:12:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Houthi movement says ballistic missile struck Riyadh airport, hit coalition targets in Yemen】Yemen’s Houthi movement said on the evening of the 14th it fired ballistic missiles at King Khalid International Airport in Riyadh, claiming a precision hit. The statement said the group also launched three ballistic missiles at two Saudi-led coalition military sites inside Yemen, causing heavy casualties and damaging multiple vehicles."
+    },
+    {
+      "id": "5145377",
+      "time": "2026-10-15 02:12:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行CEO莫伊尼漢：將資金轉移到收益率更高的賬戶並非新鮮事。"
+    },
     {
       "id": "mkt:01a13b9d-cac2-7ee0-a883-ffc158226ad6",
       "time": "2026-10-15 02:12:39",
@@ -108810,28 +108870,6 @@
         "Importance 0"
       ],
       "text": "Brent Crude Dips on Easing Supply Concerns — Brent crude eased below the $101-per-barrel mark on Wednesday, extending a slide from September's two-month peak on signs of easing Middle Eastern supply risks. Saudi Arabia cut official selling prices for its flagship crude grade to $5 below the regional benchmark as tankers were able to depart the Persian Gulf with full cargoes. Evidence of a pickup in export volumes from regional OPEC+ producers coincided with reports that US and Iranian officials were holding talks with regional authorities this week. Further easing supply concerns, Saudi Arabia said its East-West pipeline was operating at full capacity, diverting up to 5.8 million bpd of crude to the Red Sea. Still, shipping costs remained elevated following reported strikes against vessels in the Strait of Hormuz. Stateside, EIA data showed crude stockpiles fell by over 3 million barrels last week, while the Strategic Petroleum Reserve remained pinned near multi-decade lows."
-    },
-    {
-      "id": "te:markets:590267",
-      "time": "2026-10-08 02:16:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Rice Hits 26-month High — Rice increased to 16.70 USD/cwt, the highest since July 2024. Over the past 4 weeks, Rice gained 7.76%, and in the last 12 months, it increased 55.54%."
-    },
-    {
-      "id": "te:markets:590266",
-      "time": "2026-10-08 02:15:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Rises by 3.84% — Top commodity gainers are Natural Gas EU (3.84%), Natural Gas UK (3.47%) and Germany Natural Gas THE (2.99%). Biggest losers are Crude Oil (-1.36%), Gasoline (-1.30%) and Brent Oil (-0.49%)."
     }
   ]
 }
