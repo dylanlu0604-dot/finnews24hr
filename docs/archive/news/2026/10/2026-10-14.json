@@ -1,7 +1,160 @@
 {
   "date": "2026-10-14",
-  "count": 2199,
+  "count": 2215,
   "items": [
+    {
+      "id": "5145008",
+      "time": "2026-10-14 21:36:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭西部一城市遭無人機襲擊致4死12傷】烏克蘭西部沃倫州警方14日在社交媒體上釋出訊息說，該州盧茨克市當天遭無人機襲擊，已造成4人死亡、12人受傷。訊息說，襲擊導致盧茨克市一家商店起火，造成4人死亡、10人受傷。該市一棟樓房在襲擊中受損，造成2人受傷，其中包括1名兒童。（新華社）"
+    },
+    {
+      "id": "mkt:01a13aa0-37ec-7ee0-a87e-bb913e322f0e",
+      "time": "2026-10-14 21:35:40",
+      "tags": [
+        "MKT News",
+        "01888.HK",
+        "Impact bearish"
+      ],
+      "text": "【Kingboard Laminates implements eighth price rise this year; thick-cloth products excluded】Kingboard Laminates Holdings (01888.HK) shares slid as much as 6% intraday and closed at HKD42.36, down 5.23%, after the company issued its eighth price-increase notice this year. The company is raising selling prices for laminates and PP made with thin glass cloth (2116 and below) by 15%, citing strong thin-cloth demand and tight upstream supply and sharp price rises in glass fabric and yarn. Kingboard said the adjustment applies only to thin-cloth products; thick-cloth products are not affected because thin-cloth raw-material costs rose more."
+    },
+    {
+      "id": "te:markets:591977",
+      "time": "2026-10-14 21:35:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Union Pacific Shares Hit 4-week High — Union Pacific shares increased to 284.98 USD, the highest since September 2026. Over the past 4 weeks, Union Pacific lost 0.13%, and in the last 12 months, it increased 25.37%."
+    },
+    {
+      "id": "te:markets:591976",
+      "time": "2026-10-14 21:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ADP Shares Hit 5-week High — ADP shares increased to 278.63 USD, the highest since September 2026. Over the past 4 weeks, Automatic Data Processing gained 0.45%, and in the last 12 months, it decreased 2.27%."
+    },
+    {
+      "id": "5145007",
+      "time": "2026-10-14 21:35:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "遊戲驛站股價上漲2.3%，此前執行長買入了價值近2300萬美元的公司股票。"
+    },
+    {
+      "id": "te:markets:591975",
+      "time": "2026-10-14 21:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "BlackRock Shares Hit 5-week High — BlackRock shares increased to 1101.00 USD, the highest since September 2026. Over the past 4 weeks, BlackRock gained 3.51%, and in the last 12 months, it decreased 8.88%."
+    },
+    {
+      "id": "te:markets:591974",
+      "time": "2026-10-14 21:35:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Pull Back — US stocks were lower on Wednesday amid hot inflation data and continued volatility in the AI infrastructure sector. The S&P 500 fell 0.3% and the Nasdaq 100 slipped nearly 1%, while the Dow was flat. Chip producers extended this week's losses as ASML stated it could not keep up with fab demand, while Chinese competitors introduced improved products approaching the capabilities of US and Korean firms. Meanwhile, headline and core inflation prints solidified expectations that the Federal Reserve will deliver another rate hike this year. AMD and Intel fell 3%, while Dell, SanDisk, and Palo Alto Networks sank between 3% and 7%. Among financial companies, Bank of America tanked over 7% as both its equity and fixed-income trading revenues missed estimates. Morgan Stanley was 1% higher after its equity trading revenue topped forecasts, and BlackRock edged up after pulling in more capital in its asset management business, boosting fee revenue."
+    },
+    {
+      "id": "mkt:01a13a9e-b5a2-7ee0-a87e-b7e8e682c266",
+      "time": "2026-10-14 21:34:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukrainian parliament said the European Commission today allocated €2.86 bln to support Ukraine's defense capabilities."
+    },
+    {
+      "id": "5145006",
+      "time": "2026-10-14 21:33:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "PROGRESSIVE 股票開盤下跌 7%，創 7 月中旬以來最大跌幅。"
+    },
+    {
+      "id": "5145005",
+      "time": "2026-10-14 21:33:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "貝萊德股價上漲2.2%，此前第三季度利潤超出預期。"
+    },
+    {
+      "id": "5145004",
+      "time": "2026-10-14 21:33:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "墨西哥Grupo Televisa股價上漲3.5%，此前該公司達成協議收購AT&T在墨西哥的業務。"
+    },
+    {
+      "id": "5145003",
+      "time": "2026-10-14 21:32:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "FASTENAL股價下跌高達8%，創2020年3月以來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a13a9d-b66f-7ee0-a87e-ad931fc8fc4e",
+      "time": "2026-10-14 21:32:56",
+      "tags": [
+        "MKT News",
+        "MS.N",
+        "Impact bearish"
+      ],
+      "text": "Morgan Stanley (MS.N) fell nearly 5%, its shares hitting their lowest level since April."
+    },
+    {
+      "id": "5145002",
+      "time": "2026-10-14 21:32:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "LIQUIDIA股價飆升41%，創下2023年12月以來最大單日漲幅。"
+    },
+    {
+      "id": "5145001",
+      "time": "2026-10-14 21:32:39",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根士丹利股價創今年4月以來新低，公佈季度業績後收盤下跌4.9%。"
+    },
+    {
+      "id": "mkt:01a13a9d-48cd-7ee0-a87e-a2ad5a6dd23c",
+      "time": "2026-10-14 21:32:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【QIA keeps investing despite 1H government revenue down 42% after Iran-related conflict】Semafor reported a Qatar Investment Authority (QIA) executive said Qatar’s fiscal revenue fell 42% in 1H amid the Iran-related conflict, but the sovereign fund has not slowed dealmaking. QIA investment head Muhsin Pirzada said the conflict “has not affected our investment pace. We continue to invest, continue to deploy capital.” He noted the surplus wealth QIA manages is sourced mainly from LNG exports. QIA’s investment arm has allocated tens of billions of dollars this year; last month it launched a $20bn investment partnership with JP Morgan and it agreed a $25bn cooperation with Goldman Sachs on the eve of the Iran-related conflict."
+    },
     {
       "id": "mkt:01a13a9d-15f8-7ee0-a87e-9dbb8d34c605",
       "time": "2026-10-14 21:32:15",
