@@ -1,7 +1,100 @@
 {
-  "updated": "2026-10-14 10:42:14",
-  "count": 11298,
+  "updated": "2026-10-14 10:46:05",
+  "count": 11304,
   "items": [
+    {
+      "id": "mkt:01a1384c-eeba-7ee0-a86a-19da72ff9e44",
+      "time": "2026-10-14 10:45:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Customs: China September integrated circuit exports $44.951 bln, +136% YoY】Customs data: China September integrated circuit exports $44.951 bln, up 136% YoY; auto exports $20.75 bln, up 62% YoY; mobile phone exports $16.982 bln, up 14.2% YoY; rare-earth exports $68.094 mln, up 14.3% YoY."
+    },
+    {
+      "id": "te:economy:591701",
+      "time": "2026-10-14 10:44:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "China Import Growth Beats Estimates — China’s imports rose 31.0% year-on-year in September 2026, accelerating from a 28.2% gain in the previous month and exceeding market forecasts of 24.5%. It was the strongest yearly increase since June, supported by strong demand for AI infrastructure"
+    },
+    {
+      "id": "5143523",
+      "time": "2026-10-14 10:44:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院臺辦：只有承認體現一箇中國原則的“九二共識” 臺灣安寧才有根本保障】國務院臺辦舉行例行新聞釋出會，有記者問：賴清德在所謂“雙十”講話中宣稱，將持續推動防務改革和投資，強化不對稱戰力，這是為了嚇阻戰爭，確保對話能在對等、尊嚴的基礎上進行。請問對此有何評論?發言人陳斌華表示，只有承認體現一箇中國原則的“九二共識”，停止“臺獨”分裂行徑，兩岸協商對話才能恢復，臺海和平、臺灣安寧才有根本保障。"
+    },
+    {
+      "id": "mkt:01a1384c-1b10-7ee0-a86a-171d55628cfe",
+      "time": "2026-10-14 10:44:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Goldman Sachs: RBA September minutes hawkish, lower bar for November hike】Goldman Sachs economists say the Reserve Bank of Australia's September policy minutes were more hawkish than the post-meeting press conference and may have lowered the threshold for a November rate move. The minutes highlighted heightened concern about domestic capacity pressures and treated stronger-than-expected July CPI as supporting evidence. Goldman still expects the cash rate to remain at 4.60%, but says the minutes reduce the hurdle for a November hike, with the decision to depend on Q3 CPI."
+    },
+    {
+      "id": "5143522",
+      "time": "2026-10-14 10:43:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國ITC釋出對用於研究蛋白質的系統、裝置、軟體、組合物、化學品和實驗室用品的337部分終裁】10月13日，美國國際貿易委員會（ITC）釋出公告稱，對特定用於研究蛋白質的系統、裝置、軟體、組合物、化學品和實驗室用品作出337部分終裁：對本案行政法官於2026年9月16日作出的初裁（No.7）不予複審，即唯一的列名被告中國浙江Nanomics Biotechnology Co., Ltd., of Hangzhou, China珞米生命科技為缺席被告，建議救濟措施為普遍排除令和禁止令；案件雙方、利益相關政府機構和個人等都可就建議救濟措施、公眾利益和保證金等提交意見，主要考慮公眾健康和福利、美國經濟中的競爭狀況、與正在調查的產品相似或直接競爭的美國生產的產品、美國消費者，書面材料不多於15頁、不晚於2026年10月30日提交。"
+    },
+    {
+      "id": "5143521",
+      "time": "2026-10-14 10:43:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【墨西哥對原產於中國的成人腳踏車作出反傾銷初裁】10月12日，墨西哥經濟部發布公告，對原產於中國的成人腳踏車作出反傾銷肯定性初裁，初步裁定對涉案產品徵收68.60美元/輛臨時反傾銷稅，措施自公告發布次日起生效，有效期為六個月。涉案產品為輪徑大於20英寸的各種型別的成人腳踏車，在貿易中通常被稱為變速或無變速山地腳踏車、成人腳踏車、山地腳踏車、散件腳踏車和城市腳踏車，涉及TIGIE稅號8712.00.05項下的產品。競速或公路腳踏車及電動腳踏車不屬於本案涉案產品範圍。（ 中國貿易救濟資訊網  ）"
+    },
+    {
+      "id": "mkt:01a1384a-d1c1-7ee0-a86a-0b9019400598",
+      "time": "2026-10-14 10:43:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【CUSTOMS: China's imports of storage components up 1.5-fold in first nine months】CUSTOMS deputy head Wang Jun said at a State Council press briefing that in the first nine months China's imports of storage components rose 1.5-fold, integrated circuit imports climbed 56.6% and aircraft parts imports rose 17.6%. CUSTOMS attributed the import surge to steady economic activity, continued unlocking of China’s ultra-large market, expansion of advanced manufacturing and strong demand for intermediate and key components."
+    },
+    {
+      "id": "5143520",
+      "time": "2026-10-14 10:42:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【河南省併購母基金成立 出資額150億元】企查查APP顯示，近日，河南省併購母基金合夥企業（有限合夥）成立，出資額為150億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由中國平煤神馬控股集團有限公司、中豫航空集團有限公司、中原環保等共同持股。"
+    },
+    {
+      "id": "5143519",
+      "time": "2026-10-14 10:41:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "越南貿易副部長表示：越南希望推動與美國企業的能源合作。"
+    },
     {
       "id": "mkt:01a13849-a1fc-7ee0-a86a-006788f9b808",
       "time": "2026-10-14 10:41:51",
@@ -11,10 +104,27 @@
       "text": "Vietnam's deputy trade minister said the country seeks closer energy cooperation with U.S. companies."
     },
     {
+      "id": "5143518",
+      "time": "2026-10-14 10:41:46",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【臺灣藝人國慶之際為祖國獻祝福 國臺辦：充分肯定】國務院臺辦舉行例行新聞釋出會。有記者問，“十一”國慶期間，多位臺灣藝人發文為祖國獻上祝福，陸委會對此提出所謂“兩條紅線”。還有知名臺灣藝人吳奇隆因在天安門廣場表達對祖國的祝福而被取消在島內一場公開活動。請問對此有何評論？ 發言人陳斌華答問表示，臺灣是中國的一部分，臺灣同胞自發表達愛國之情是自然而然的事。臺灣藝人在國慶之際為祖國獻上祝福、抒發愛國情懷，是發自內心的真情流露，我們對此充分肯定。民進黨當局屢次威脅恐嚇臺灣藝人，大搞“綠色恐怖”，嚴重傷害臺灣同胞民族感情，不得人心。"
+    },
+    {
       "id": "5143517",
       "time": "2026-10-14 10:41:13",
       "tags": [
         "其他"
+      ],
+      "text": "【海關總署：前三季度我國進口儲存部件增長1.5倍】10月14日，海關總署副署長王軍在國新辦新聞釋出會上表示，前三季度進口快速增長，主要得益於我國經濟執行平穩、超大規模市場效應持續釋放、先進製造業不斷發展壯大、關鍵零部件等各類中間品需求旺盛。前三季度，我國進口儲存部件增長1.5倍，積體電路增長56.6%，航空器零部件增長17.6%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610143895218920",
+      "time": "2026-10-14 10:41:00",
+      "tags": [
+        "經濟數據",
+        "中國"
       ],
       "text": "【海關總署：前三季度我國進口儲存部件增長1.5倍】10月14日，海關總署副署長王軍在國新辦新聞釋出會上表示，前三季度進口快速增長，主要得益於我國經濟執行平穩、超大規模市場效應持續釋放、先進製造業不斷發展壯大、關鍵零部件等各類中間品需求旺盛。前三季度，我國進口儲存部件增長1.5倍，積體電路增長56.6%，航空器零部件增長17.6%。"
     },
@@ -173,6 +283,15 @@
       "text": "國際貨幣基金組織官員表示，阿根廷需要推進結構性改革以促進財政整頓，包括取消增值稅豁免。"
     },
     {
+      "id": "em:jjsj_zgsj:202610143895218058",
+      "time": "2026-10-14 10:39:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【海關總署：四季度出口基本面沒有變】關於四季度出口前景，王軍認為，當前出口基本面沒有改變。我國將加快構建以先進製造業為骨幹的現代化產業體系，以既“站得上塔尖”又“接得了地氣”的中國製造，為廣大貿易伙伴、全球消費者的生產生活提供更加豐富的選擇。"
+    },
+    {
       "id": "te:economy:591696",
       "time": "2026-10-14 10:38:51",
       "tags": [
@@ -195,6 +314,15 @@
         "Importance 3"
       ],
       "text": "China Posts Biggest Trade Surplus in 20 Months — China’s trade surplus widened to $133.53 billion in September 2026, up from $88.72 billion a year earlier and surpassing forecasts of $118.1 billion. It was the largest trade surplus since January 2025, as exports rose more than imports. Exports jumped 36.30% year-on-year to $447.18 billion, above estimates of 25.5%, as the global AI infrastructure boom continued to sustain strong demand for Chinese high-tech products. Meanwhile, imports jumped 31.0% year-on-year to $313.66 billion, accelerating from a 28.2% surge in August and beating forecasts of 24.5%."
+    },
+    {
+      "id": "em:jjsj_zgsj:202610143895217896",
+      "time": "2026-10-14 10:38:37",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "據海關總署披露的資料顯示，以美元計，9月我國出口總額為4471.8億美元，同比增長36.3%；進口總額3136.5億美元，同比增長31%。"
     },
     {
       "id": "5143507",
@@ -102483,70 +102611,6 @@
         "Importance 1"
       ],
       "text": "Fiji Inflation Eases From 15-Year High — Fiji’s annual inflation slowed to 6.8% in September 2026 from 7.6% in the previous month, which was the highest since December 2011. The moderation came as food inflation eased to 7.6% from a 28-month high of 9.5% in August, while housing inflation eased to a four-month low of 4.9% from 7.0% in August. Inflation also moderated for miscellaneous goods and services (3.1% vs 3.6%) and furnishings, household equipment, and routine household maintenance (0.1% vs 0.4%), while remaining flat for clothing and footwear (0.0% vs. 1.2%). Meanwhile, inflation accelerated for alcoholic beverages and tobacco (13.9% vs 13.3%) and transport (12.2% vs 11.7%), while education inflation was steady at 0.4%. Additionally, recreation and culture prices fell at a faster pace (-1.5% vs -1.4%). On a monthly basis, the CPI fell 0.4% in September, following a 0.1% decline in August and marking the third straight monthly decline."
-    },
-    {
-      "id": "5129370",
-      "time": "2026-10-07 10:45:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "StoneX將Marvell Technology的目標價從275美元上調至375美元。"
-    },
-    {
-      "id": "mkt:01a11440-1e90-7ee0-a7c8-8c93ba110a40",
-      "time": "2026-10-07 10:45:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Field check: National Day car market — incentives lift showroom traffic; trade-in demand and stock shortages limit immediate sales】Visits to multiple Shanghai NEV brand showrooms over the National Day holiday show customer traffic up about 30% versus a typical weekend, driven by new model launches, local purchase subsidies and time-limited dealer promotions. Test-drive slots are nearly full throughout the day and many families are visiting; dealers say most customers are motivated by ICE-to-EV trade-in discounts and district-level subsidies and ask staff to total all incentives before deciding. Sales conversion is slower than footfall: buyers are price-comparing across dealers and verifying subsidy eligibility, and several popular new models are short in stock with order lead times of several weeks, constraining immediate transactions."
-    },
-    {
-      "id": "te:markets:590012",
-      "time": "2026-10-07 10:44:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Rebound on Brazil Planting Delays — Soybean futures climbed toward $13.1 per bushel, bouncing off from multi-week lows as slower planting in Brazil and signs of continued export demand lifted prices. About 7.3% of soybean crop in Brazil, the world’s largest exporter, had been planted as of Thursday, below 9% a year earlier, with consultancy AgRural estimating 2026/27 production at 182.7 million metric tons. The USDA has a higher forecast of 186 million tons, which would exceed last year’s record 180.5 million tons. On the demand side, an unnamed buyer purchased 104,000 tonnes of US soybeans, while US export inspections reached 3.99 million tonnes since the start of September, up from 3.05 million tonnes a year earlier. However, gains remained limited by expectations for a large US crop and weak Chinese demand. China’s soybean purchases are being constrained by high inventories, poor crushing margins and an additional 10% tariff on US soybeans, while private buyers continue to favor supplies from Brazil and Argentina."
-    },
-    {
-      "id": "5129369",
-      "time": "2026-10-07 10:44:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "馬來西亞基準股指<.KLSE>一度下跌1.1%，至1614.81點，為2025年12月中以來最低。"
-    },
-    {
-      "id": "mkt:01a1143f-801e-7ee0-a7c8-837be25b598d",
-      "time": "2026-10-07 10:44:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【BHP to sell idled Kambalda nickel concentrator to Gold Fields】BHP has agreed to sell its idled Kambalda nickel concentrator in Western Australia, together with a package of mining tenements and mineral rights, to South Africa's Gold Fields. The undisclosed-value deal is expected to complete in 2027. The Kambalda plant was mothballed in 2024. BHP mothballed larger WA nickel operations the same year citing market oversupply and is assessing disposal of remaining nickel assets, including a nickel refinery, a smelter and mining operations. Gold Fields said it will assess options for long-term use of the concentrator."
-    },
-    {
-      "id": "5129368",
-      "time": "2026-10-07 10:43:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【實探國慶車市：多重優惠發力 門店人氣走高】國慶假期，車市迎來傳統“金九銀十”的關鍵視窗期。記者走訪上海多個新能源汽車品牌線下門店獲悉，依託新車上市、地方購車補貼，疊加車企假期限時促銷，門店客流回升明顯。“國慶這幾天試駕車基本全天約滿，經常出現剛結束一組試駕下一組客戶已經在等候的情形。不少家庭全家結伴來看車，大部分客戶都是衝著置換補貼、區級補貼過來的，先讓我們幫著算清楚全部優惠再做決定。”嘉定某蔚來體驗中心銷售告訴記者，國慶假期期間，門店接待客戶量較普通週末上漲約三成，油換電的置換需求較為突出。門店客流回暖，但訂單轉化仍存在週期。多位銷售向記者表示，當下消費者普遍比價理性，會走訪多家門店橫向對比報價、核對補貼申領條件。部分熱門新車現車緊缺，訂車需要數週等待週期，也在一定程度上影響即時成交。"
-    },
-    {
-      "id": "5129367",
-      "time": "2026-10-07 10:42:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【木鳥民宿釋出《2026國慶民宿消費報告》：北京奪得雙榜首，三線及以下城市日均訂單同比增長17%】10月7日上午訊息。木鳥民宿釋出《2026國慶民宿消費報告》。報告顯示，今年國慶假期民宿訂單同比增長顯著，連住7天及以上訂單同比增長30%。今年國慶假期，15%的使用者選擇在國慶假期前出發。三線及以下城市日均訂單同比增長17%。四成使用者打卡寶藏縣城民宿，奔縣遊成為國慶假期熱點。家庭遊使用者訂單佔比53%。"
     }
   ]
 }
