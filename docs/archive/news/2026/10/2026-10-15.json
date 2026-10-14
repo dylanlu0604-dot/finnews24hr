@@ -1,7 +1,37 @@
 {
   "date": "2026-10-15",
-  "count": 415,
+  "count": 418,
   "items": [
+    {
+      "id": "5145623",
+      "time": "2026-10-15 06:46:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱擴大在哈爾科夫的控制區 烏稱在頓涅茨克發動大規模進攻】俄羅斯國防部14日通報稱，過去一天，俄軍擴大了在哈爾科夫地區科托夫卡等三處居民點的控制區。俄軍在146個區域對烏方進行打擊，目標包括生產和儲存無人機的車間及烏軍人員和外國僱傭兵臨時駐紮地點。此外，俄軍當天還利用無人機打擊了烏方一處用於儲存和分發供烏軍所使用物資的物流中心，以及一艘運輸軍民兩用物資的乾貨船。烏克蘭第三軍團指揮官14日表示，在頓涅茨克地區，烏軍阻止了俄軍從側翼迂迴包抄斯拉維揚斯克-克拉馬托爾斯克城市群，仍控制哈爾科夫至斯拉維揚斯克的公路，並發動大規模進攻。整個行動期間，烏軍已將16個居民點重新置於烏克蘭全面控制之下。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a13c98-1672-7ee0-a886-c20bde8a1d43",
+      "time": "2026-10-15 06:46:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "601318.SS",
+        "Impact bearish",
+        "2318.HK",
+        "601628.SS"
+      ],
+      "text": "【Chinese regulators crack down on ‘long-duration’ products; ‘quick-return’ bancassurance offerings halted】Regulators have issued a notice to inspect and rectify 'quick-return' insurance products sold through the bancassurance channel, requiring life-insurance legal entities to conduct self-examinations and strictly implement reporting alignment between insurers and banks. The notice flags products with 3-year premium payment periods and 6-year coverage—ordinary and participating endowment policies—that deliberately compressed actuarial expense assumptions and returned cash value quickly to boost reported scale, creating a risk of treating long-duration insurance as short-term business."
+    },
+    {
+      "id": "mkt:01a13c98-10ac-7ee0-a886-bc9ce7b2cee0",
+      "time": "2026-10-15 06:46:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reports the U.S. Department of Justice has threatened emergency legal action against California, citing alleged non‑citizen voting."
+    },
     {
       "id": "te:markets:592074",
       "time": "2026-10-15 06:45:13",

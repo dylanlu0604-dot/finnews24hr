@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-15 06:45:42",
-  "count": 11974,
+  "updated": "2026-10-15 06:49:29",
+  "count": 11976,
   "items": [
+    {
+      "id": "5145623",
+      "time": "2026-10-15 06:46:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱擴大在哈爾科夫的控制區 烏稱在頓涅茨克發動大規模進攻】俄羅斯國防部14日通報稱，過去一天，俄軍擴大了在哈爾科夫地區科托夫卡等三處居民點的控制區。俄軍在146個區域對烏方進行打擊，目標包括生產和儲存無人機的車間及烏軍人員和外國僱傭兵臨時駐紮地點。此外，俄軍當天還利用無人機打擊了烏方一處用於儲存和分發供烏軍所使用物資的物流中心，以及一艘運輸軍民兩用物資的乾貨船。烏克蘭第三軍團指揮官14日表示，在頓涅茨克地區，烏軍阻止了俄軍從側翼迂迴包抄斯拉維揚斯克-克拉馬托爾斯克城市群，仍控制哈爾科夫至斯拉維揚斯克的公路，並發動大規模進攻。整個行動期間，烏軍已將16個居民點重新置於烏克蘭全面控制之下。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a13c98-1672-7ee0-a886-c20bde8a1d43",
+      "time": "2026-10-15 06:46:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "601318.SS",
+        "Impact bearish",
+        "2318.HK",
+        "601628.SS"
+      ],
+      "text": "【Chinese regulators crack down on ‘long-duration’ products; ‘quick-return’ bancassurance offerings halted】Regulators have issued a notice to inspect and rectify 'quick-return' insurance products sold through the bancassurance channel, requiring life-insurance legal entities to conduct self-examinations and strictly implement reporting alignment between insurers and banks. The notice flags products with 3-year premium payment periods and 6-year coverage—ordinary and participating endowment policies—that deliberately compressed actuarial expense assumptions and returned cash value quickly to boost reported scale, creating a risk of treating long-duration insurance as short-term business."
+    },
+    {
+      "id": "mkt:01a13c98-10ac-7ee0-a886-bc9ce7b2cee0",
+      "time": "2026-10-15 06:46:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reports the U.S. Department of Justice has threatened emergency legal action against California, citing alleged non‑citizen voting."
+    },
     {
       "id": "te:markets:592074",
       "time": "2026-10-15 06:45:13",
@@ -109133,18 +109163,6 @@
         "焦點"
       ],
       "text": "【三星電子營業利潤攀升至107.4萬億韓元，同比增長超7倍】在截至9月的三個月內，三星營業利潤達到約107.4萬億韓元（摺合801億美元），是去年同期的8倍以上；分析師此前平均預期營業利潤為108.7萬億韓元，營收為195萬億韓元，營收不及預期。這份創紀錄的業績以及市場高預期，充分體現AI熱潮如何大幅改變行業格局，利好三星、SK海力士和美光科技。各大資料中心廠商爭相為AI伺服器採購儲存晶片。Counterpoint Research上調DRAM價格預期，將三季度DRAM環比漲幅預期由此前5%-10%上調至10%-20%，稱客戶提前下單，晶片供應商議價能力增強。分析師普遍預估，三星晶片部門營業利潤可達110萬億韓元，而電子終端業務錄得虧損。這家總部位於水原的企業將在本月底釋出完整財報。"
-    },
-    {
-      "id": "te:markets:590294",
-      "time": "2026-10-08 06:45:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "New Zealand Stocks Extend Losses — The NZX 50 dropped 28 points, or 0.2%, to 13,656 in Thursday morning trade, extending declines from the previous session and touching its lowest level since September 16, tracking a fall on Wall Street overnight due to higher Treasury yields. The decline was mainly weighed down by the materials, utilities, financials, and tech sectors; however, gains in real estate pared the fall. Caution rose after the FOMC minutes suggested the Fed is likely to raise rates again this year. Traders also kept a close eye on the Middle East conflict and its impact on oil prices amid inflation concerns. Last month, the Reserve Bank of New Zealand raised its cash rate by 25 bps to 2.75%, delivering a second straight hike to bring inflation back to the 2% midpoint target. Among early losers were Vulcan Steel (-1.1%), Westpac Banking Corp. (-0.8%), Sanford (-0.8%), Briscoe Group (-0.7%), Freightways Group (-0.6%), Infratil (-0.6%), Meridian Energy (-0.6%), and ANZ Group (-0.4%)."
     }
   ]
 }
