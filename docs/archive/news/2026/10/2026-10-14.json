@@ -1,7 +1,110 @@
 {
   "date": "2026-10-14",
-  "count": 2290,
+  "count": 2301,
   "items": [
+    {
+      "id": "5145065",
+      "time": "2026-10-14 22:03:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指下跌1%，報108,312.60點。"
+    },
+    {
+      "id": "5145064",
+      "time": "2026-10-14 22:02:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥政府官員表示，在相關法令公佈前，墨政府已與Meta、微軟、蘋果、TikTok、谷歌、X進行過會面。"
+    },
+    {
+      "id": "mkt:01a13ab9-16f4-7ee0-a87f-6575832fa9e8",
+      "time": "2026-10-14 22:02:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Schumer said Donald Trump's \"golden age\" would mean never-ending higher prices for Americans while Trump enjoys ballroom life and billionaires get tax cuts."
+    },
+    {
+      "id": "5145063",
+      "time": "2026-10-14 22:02:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，HTT跌8.93%，DCX跌6.34%，文遠知行跌6.31%，阿特斯跌6.16%，世紀互聯跌5.32%。"
+    },
+    {
+      "id": "5145062",
+      "time": "2026-10-14 22:01:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟航空安全域性：對約旦的衝突地區資訊公告延長至2026年11月16日，並對內容和建議作出部分修訂。"
+    },
+    {
+      "id": "mkt:01a13ab7-91fd-7ee0-a87f-5da374b76d7e",
+      "time": "2026-10-14 22:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces chief of staff said the military must remain vigilant during this sensitive period, prepare for multiple contingencies and rapidly thwart any threats."
+    },
+    {
+      "id": "mkt:01a13ab7-0586-7ee0-a87f-5643585e7ac2",
+      "time": "2026-10-14 22:00:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures slid 5.00% intraday to $56.54/oz."
+    },
+    {
+      "id": "mkt:01a13ab6-df3e-7ee0-a87f-4b820d5574ee",
+      "time": "2026-10-14 22:00:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 fell 1% to an intraday low."
+    },
+    {
+      "id": "te:markets:591998",
+      "time": "2026-10-14 22:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Pfizer Shares Hit 23-month High — Pfizer shares increased to 29.22 USD, the highest since October 2024. Over the past 4 weeks, Pfizer gained 5.23%, and in the last 12 months, it increased 18.96%."
+    },
+    {
+      "id": "5145061",
+      "time": "2026-10-14 22:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數下跌1%，至當日低點。"
+    },
+    {
+      "id": "5145060",
+      "time": "2026-10-14 22:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌5%，現報56.54美元/盎司。"
+    },
     {
       "id": "5145059",
       "time": "2026-10-14 21:59:33",

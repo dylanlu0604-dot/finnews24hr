@@ -1,7 +1,110 @@
 {
-  "updated": "2026-10-14 22:00:19",
-  "count": 11886,
+  "updated": "2026-10-14 22:04:10",
+  "count": 11888,
   "items": [
+    {
+      "id": "5145065",
+      "time": "2026-10-14 22:03:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非主要股指下跌1%，報108,312.60點。"
+    },
+    {
+      "id": "5145064",
+      "time": "2026-10-14 22:02:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥政府官員表示，在相關法令公佈前，墨政府已與Meta、微軟、蘋果、TikTok、谷歌、X進行過會面。"
+    },
+    {
+      "id": "mkt:01a13ab9-16f4-7ee0-a87f-6575832fa9e8",
+      "time": "2026-10-14 22:02:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Schumer said Donald Trump's \"golden age\" would mean never-ending higher prices for Americans while Trump enjoys ballroom life and billionaires get tax cuts."
+    },
+    {
+      "id": "5145063",
+      "time": "2026-10-14 22:02:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，HTT跌8.93%，DCX跌6.34%，文遠知行跌6.31%，阿特斯跌6.16%，世紀互聯跌5.32%。"
+    },
+    {
+      "id": "5145062",
+      "time": "2026-10-14 22:01:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟航空安全域性：對約旦的衝突地區資訊公告延長至2026年11月16日，並對內容和建議作出部分修訂。"
+    },
+    {
+      "id": "mkt:01a13ab7-91fd-7ee0-a87f-5da374b76d7e",
+      "time": "2026-10-14 22:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces chief of staff said the military must remain vigilant during this sensitive period, prepare for multiple contingencies and rapidly thwart any threats."
+    },
+    {
+      "id": "mkt:01a13ab7-0586-7ee0-a87f-5643585e7ac2",
+      "time": "2026-10-14 22:00:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures slid 5.00% intraday to $56.54/oz."
+    },
+    {
+      "id": "mkt:01a13ab6-df3e-7ee0-a87f-4b820d5574ee",
+      "time": "2026-10-14 22:00:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 fell 1% to an intraday low."
+    },
+    {
+      "id": "te:markets:591998",
+      "time": "2026-10-14 22:00:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Pfizer Shares Hit 23-month High — Pfizer shares increased to 29.22 USD, the highest since October 2024. Over the past 4 weeks, Pfizer gained 5.23%, and in the last 12 months, it increased 18.96%."
+    },
+    {
+      "id": "5145061",
+      "time": "2026-10-14 22:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數下跌1%，至當日低點。"
+    },
+    {
+      "id": "5145060",
+      "time": "2026-10-14 22:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌5%，現報56.54美元/盎司。"
+    },
     {
       "id": "5145059",
       "time": "2026-10-14 21:59:33",
@@ -108146,83 +108249,6 @@
         "公司"
       ],
       "text": "前特斯拉Optimus專案負責人正籌備創辦機器人初創公司Intelligent Machines 或將籌集約 1 億美元。"
-    },
-    {
-      "id": "5130418",
-      "time": "2026-10-07 22:03:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "據訊息，前特斯拉Optimus專案負責人正籌備創辦機器人初創公司。"
-    },
-    {
-      "id": "5130417",
-      "time": "2026-10-07 22:03:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：AI生成內容檢測工具SynthID現已面向全球開放英文版本。"
-    },
-    {
-      "id": "5130416",
-      "time": "2026-10-07 22:02:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍（IDF）稱，該哈馬斯武裝分子的爆炸物是從一家醫院獲取的。"
-    },
-    {
-      "id": "5130415",
-      "time": "2026-10-07 22:02:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍（IDF）稱，擊斃了一名在加沙地帶埋設爆炸物的哈馬斯武裝分子。"
-    },
-    {
-      "id": "5130414",
-      "time": "2026-10-07 22:01:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【博索納羅獲得巴西進步黨和聯盟黨支援 稱將尊重憲法】巴西參議員Tereza Cristina在巴西利亞對記者表示，進步黨(PP)和巴西聯盟黨(União Brasil)將支援總統候選人弗拉維奧·博索納羅。博索納羅感謝兩黨支援，並表示巴西將建立在對話基礎之上。他還表示，將尊重憲法和政治制度。他不會尋求連任。他說，其經濟團隊將由懂經濟的人士組成，巴西經濟將以提高生產率為支撐博索納羅還表示，縮短工作周的法案應在大選後進行表決。"
-    },
-    {
-      "id": "5130413",
-      "time": "2026-10-07 22:00:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指跌1.00%，現報51004.078點；納指跌0.71%，現報27404.666點；標普500指數跌0.60%，現報7772.300點。"
-    },
-    {
-      "id": "5130412",
-      "time": "2026-10-07 22:00:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜Ring智慧門鎖配備了一個轉盤，可為耗盡的電池充電。"
-    },
-    {
-      "id": "te:markets:590225",
-      "time": "2026-10-07 22:00:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intuitive Surgical Shares Hit 13-week High — Intuitive Surgical shares increased to 416.62 USD, the highest since July 2026. Over the past 4 weeks, Intuitive Surgical gained 18.8%, and in the last 12 months, it decreased 7.17%."
-    },
-    {
-      "id": "5130411",
-      "time": "2026-10-07 22:00:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜旗下Ring品牌還發布了五款家用攝像頭。"
     }
   ]
 }
