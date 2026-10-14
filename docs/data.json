@@ -1,7 +1,192 @@
 {
-  "updated": "2026-10-14 16:14:02",
-  "count": 11619,
+  "updated": "2026-10-14 16:17:50",
+  "count": 11629,
   "items": [
+    {
+      "id": "5144098",
+      "time": "2026-10-14 16:16:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉經濟顧問卡利克斯託表示，該國希望\"儘快而非拖延\"實現兩位數通脹率。"
+    },
+    {
+      "id": "5144097",
+      "time": "2026-10-14 16:16:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉首席經濟顧問卡利克斯託表示，當前重點是讓委內瑞拉重新融入國際金融體系。"
+    },
+    {
+      "id": "5144096",
+      "time": "2026-10-14 16:16:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華寶新能：公司相關光充產品可用於星鏈終端供電 但目前不直接向SpaceX星鏈專案供貨】10月14日，華寶新能在互動平臺表示，公司相關光充產品可用於星鏈終端供電，但目前不直接向SpaceX星鏈專案供貨。"
+    },
+    {
+      "id": "te:economy:591846",
+      "time": "2026-10-14 16:16:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Inflation Rate Rises in September — Bulgaria’s annual inflation rate rose to 5.7% in September 2026 from 5.1% in the previous month, slightly above the preliminary estimate of 5.6% and marking the highest reading in four months. The acceleration was driven mainly by price growth for transport (25.9% vs 21.5% in August), food and non-alcoholic beverages (1.6% vs 0.8%), and housing and utilities (5.4% vs 5.1%), information and communication (1.6% vs 1.5%), and recreation, sport, and culture (8.5% vs 7.6%). In contrast, prices moderated in health (3.1% vs 3.3%), education (7.7% vs 9.1%), restaurants and accommodation services (9.5% vs 9.6%), and personal care, social protection, and miscellaneous goods and services (5.2% vs 5.6%), while prices declined for furnishings, household equipment, and routine household maintenance (-0.5% vs 0.3%). On a monthly basis, consumer prices fell 0.2% in September, from a 0.6% increase in the previous month."
+    },
+    {
+      "id": "mkt:01a1397b-a075-7ee0-a874-730afac66be1",
+      "time": "2026-10-14 16:16:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【IEA: Russia September crude output edges up to 8.43 mln bpd but remains about 870,000 bpd below year-ago】The IEA said Russia’s September crude production rose 65,000 bpd from August to 8.43 mln bpd, still roughly 870,000 bpd below a year earlier. Russian crude exports rose 60,000 bpd to 5.30 mln bpd. The agency said recent easing of Russian diesel export curbs is unlikely to materially change global diesel balances because refinery throughput remains constrained; Ukrainian attacks have kept Russian refinery runs low for a second month. Kazakhstan’s September crude output was stable at about 1.90 mln bpd."
+    },
+    {
+      "id": "te:economy:591845",
+      "time": "2026-10-14 16:15:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Palestine",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Palestine Consumer Prices Fall Further in September — Consumer prices in Palestine fell 25.18% year-on-year in September 2026, following a 34.25% decline in the previous month. The overall drop was driven by a 46.43% plunge in the Gaza Strip, while prices continued to rise in the West Bank (+3.34%) and Jerusalem J1 (+2.83%). On a monthly basis, the CPI rose 4.69%, accelerating from a 0.09% increase in August. Prices surged 11.36% in the Gaza Strip, compared with increases of 0.53% in the West Bank and 0.44% in Jerusalem J1. The monthly increase was led by higher prices for imported cigarettes (+28.95%), white flour (+11.96%), and fresh vegetables (+8.57%). Additional upward pressure came from education services (+2.97%), passenger transport by road (+2.79%), and eggs (+1.24%)."
+    },
+    {
+      "id": "5144095",
+      "time": "2026-10-14 16:15:49",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "傳音控股(02636.HK)暗盤跌超4%。"
+    },
+    {
+      "id": "5144094",
+      "time": "2026-10-14 16:15:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拓荊科技釋出非晶碳薄膜沉積技術Flowable Carbon】在今日舉行的2026灣芯展開幕式暨半導體產業發展峰會上，拓荊科技釋出非晶碳薄膜沉積技術Flowable Carbon，目前已應用於NF-300M Supra-H裝置，該技術系列透過對前驅體的選擇和工藝條件的控制，穩定地實現了兩種填充效能不同的可流動碳膜工藝，分別為Capi-Carbon和Sedi-Carbon。"
+    },
+    {
+      "id": "mkt:01a1397b-4a00-7ee0-a874-682ac37ce468",
+      "time": "2026-10-14 16:15:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "02636.HK",
+        "Impact bearish"
+      ],
+      "text": "Transsion Holdings (02636.HK) fell more than 4% in off-exchange trading."
+    },
+    {
+      "id": "mkt:01a1397a-e349-7ee0-a874-654d7a4b6b9c",
+      "time": "2026-10-14 16:15:17",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany's Economy Ministry says industrial activity outlook remains subdued."
+    },
+    {
+      "id": "mkt:01a1397a-9b01-7ee0-a874-5c3b9d214bfe",
+      "time": "2026-10-14 16:14:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany's Economy Ministry said higher energy prices have reduced purchasing power and, combined with uncertainty and higher financing costs, the domestic economy is unlikely to provide significant momentum in the near term."
+    },
+    {
+      "id": "5144093",
+      "time": "2026-10-14 16:14:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國經濟部：工業活動前景仍然疲軟。"
+    },
+    {
+      "id": "5144092",
+      "time": "2026-10-14 16:14:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國經濟部：受能源價格上漲導致購買力流失、不確定性升高以及融資成本上升影響，短期內國內經濟不太可能提供太多增長動力。"
+    },
+    {
+      "id": "mkt:01a1397a-0ee4-7ee0-a874-57830950a3a9",
+      "time": "2026-10-14 16:14:22",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany's economy ministry said economic growth momentum may temporarily slow in Q3."
+    },
+    {
+      "id": "5144091",
+      "time": "2026-10-14 16:14:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【丹格特集團執行長稱：丹格特石油擬採購近25艘船舶】丹格特集團執行長阿里科·丹格特在波札那首都哈博羅內舉辦的活動上表示：“我們目前沒有自有船舶，因此我們計劃採購近25艘船來承運我們的貨物。”他透露，丹格特正規劃新建一座煉油廠，但因協議尚未簽署，暫不披露選址。他說：“如果該煉油廠專案落地，我們就必須取消液化天然氣專案，因為相比液化天然氣業務，我們更看好煉油業務。”"
+    },
+    {
+      "id": "mkt:01a13979-af5d-7ee0-a874-4decaaca2994",
+      "time": "2026-10-14 16:13:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) closed down 31.05 points (-0.13%) at 24,314.17 on Wednesday, Oct 14. The Hang Seng Tech Index rose 37.84 points (+0.91%) to 4,174.47. The Hang Seng China Enterprises Index (H‑shares) gained 8.45 points (+0.10%) to 8,183.17, while the Red Chip Index fell 9.12 points (-0.22%) to 4,064.05."
+    },
+    {
+      "id": "mkt:01a13979-aeab-7ee0-a874-4272f4e8e8ca",
+      "time": "2026-10-14 16:13:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【22V Research: Investors expect US September CPI to boost risk appetite】22V Research founder Dennis DeBusschere and his clients say investors largely expect Wednesday’s US September CPI print to lift market risk appetite. An internal client survey found 44% anticipate a risk-on reaction, about one-third expect a mixed or negligible response, and nearly half expect other market participants to interpret the data as supportive of risk sentiment. DeBusschere says rising bond yields are naturally tightening financial conditions and therefore reduce the need for the Fed to hike this month; he adds higher yields should slow growth and could push bond-market volatility indices lower. Clients describe CPI as tracking a \"Fed-friendly smooth disinflation path.\""
+    },
+    {
+      "id": "5144090",
+      "time": "2026-10-14 16:13:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國經濟部月度報告：德國經濟增長動能第三季度或出現階段性放緩。"
+    },
     {
       "id": "5144089",
       "time": "2026-10-14 16:12:25",
@@ -105569,77 +105754,6 @@
         "國際"
       ],
       "text": "歐洲汽車製造商股價上漲。"
-    },
-    {
-      "id": "5129837",
-      "time": "2026-10-07 16:17:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新天地：獲得磺達肝癸鈉原料藥上市申請批准通知書】新天地公告稱，公司近日收到國家藥品監督管理局核准簽發的磺達肝癸鈉原料藥《化學原料藥上市申請批准通知書》，該原料藥符合藥品註冊有關要求，批准註冊，通知書有效期至2031年09月28日。磺達肝癸鈉為人工合成的選擇性凝血因子Xa抑制劑，可用於骨科大手術後靜脈血栓栓塞預防及深靜脈血栓、肺栓塞等抗凝治療。本次獲批將豐富公司產品結構，提升市場競爭力，藥品後續生產銷售存在不確定性，敬請投資者注意投資風險。"
-    },
-    {
-      "id": "5129836",
-      "time": "2026-10-07 16:16:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【貝達藥業：IND184065獲美國FDA新藥臨床試驗批准】貝達藥業公告，公司全資子公司杭州景曜生物科技有限責任公司申報的BPI-572270膠囊藥品臨床試驗申請獲得美國FDA批准，申請編號為IND 184065，擬用於晚期實體瘤。2026年1月，該藥臨床試驗已獲國家藥品監督管理局批准，目前處於劑量爬坡和劑量回填階段。"
-    },
-    {
-      "id": "5129835",
-      "time": "2026-10-07 16:16:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【花園生物：簽署協議設合資公司，持股不少於51%】花園生物公告，近日與廣州國家實驗室簽署《25-羥基膽固醇新藥研發專案合作協議》，雙方擬發起設立合資公司，推進25-羥基膽固醇及其前藥類廣譜抗病毒藥物的研發、註冊、生產與商業化，公司持股不少於51%。協議簽署無需提交董事會和股東會審議。"
-    },
-    {
-      "id": "te:economy:590132",
-      "time": "2026-10-07 16:16:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Foreign Exchange Reserves",
-        "Importance 1"
-      ],
-      "text": "Czech Republic Forex Reserves at 6-Month Low — Foreign exchange reserves in the Czech Republic fell to USD 180.1 billion in September 2026 from a record high of USD 184.6 billion in the previous month. It marked the smallest figure since March, mainly driven by a decline in foreign currency reserves to USD 162.8 billion from USD 166.8 billion in August. The IMF reserve position also fell to USD 0.767 billion from USD 0.775 billion, while SDRs declined to USD 3.50 billion from USD 3.54 billion and gold reserves dropped to USD 11.66 billion from USD 12.63 billion. On the other hand, other reserve assets increased to USD 1.35 billion from USD 0.80 billion."
-    },
-    {
-      "id": "5129834",
-      "time": "2026-10-07 16:16:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鴻路鋼構：全資子公司中標約2.78億元專案】鴻路鋼構公告，全資子公司渦陽縣鴻路建材有限公司收到中標通知書，被確定為“***資料中心”專案及“***年產10萬噸高效能鋰離子電池負極材料專案”的中標單位，以上專案中標工程量總計約5.28萬噸，總中標金額約2.78億元，佔2025年公司經審計營業總收入的1.26%。"
-    },
-    {
-      "id": "5129833",
-      "time": "2026-10-07 16:15:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【澤連斯基：俄軍襲擊造成烏多地人員傷亡 烏打擊俄石油設施】當地時間10月7日，烏克蘭總統澤連斯基在社交平臺通報，俄軍當天凌晨對基輔及烏克蘭12個州的基礎設施發動襲擊，能源設施是此次襲擊的主要目標之一。切爾尼戈夫州一棟五層住宅樓遭襲。截至目前，已有5人死亡、26人受傷，其中包括5名兒童，救援人員正在持續搜救。澤連斯基表示，俄軍襲擊還造成5棟公寓樓與4棟高層住宅樓受損。克列緬丘格市有2人死亡、8人受傷。扎波羅熱市一棟高層住宅樓遭無人機襲擊並受損，基輔市遭襲致2人死亡，基洛沃格勒州另有2人死亡。此外，他表示，俄軍此次共發射70枚導彈，其中包括大量彈道導彈，並使用無人機，烏方僅攔截其中一部分。他說，俄羅斯彈道導彈仍是烏克蘭面臨的最大挑戰，烏方目前急需“愛國者”防空系統攔截彈。澤連斯基還稱，過去一天，烏軍對俄羅斯4個目標實施打擊，以回應俄羅斯針對烏克蘭平民發動的襲擊。澤連斯基稱，遭打擊目標包括位於俄羅斯彼爾姆州、薩馬拉州和阿斯特拉罕州的兩個石油設施和一個訓練場。此外，烏方也在黑海採取了行動。（央視新聞）"
-    },
-    {
-      "id": "5129832",
-      "time": "2026-10-07 16:14:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【捷豹推出售價13.05萬美元電動車型】捷豹週二在紐約舉辦活動，釋出Type 01車型，稱其為捷豹史上“技術最先進、動力最強、空氣動力學效能最優”的車型。多家媒體報道，捷豹Type 01在英國起售價13萬英鎊（約合17.2萬美元），美國市場售價約13.05萬美元，遠高於以往同級別車型。這款四門豪華旅行轎跑擁有超長引擎蓋、低矮車頂、無框車門，用攝像頭替代後窗。續航里程最高可達450英里，0至62英里/小時加速僅需3.2秒。捷豹路虎執行長PB・巴拉吉稱，Type 01的釋出開啟了捷豹“激動人心的全新時代”。巴拉吉在宣告中表示：“它融合英國品牌底蘊、大膽創意、前沿技術與突破性工程設計，承載我們打造令人嚮往產品的願景，助力吸引新一代客戶，加入捷豹忠實熱忱的使用者群體。”"
-    },
-    {
-      "id": "5129831",
-      "time": "2026-10-07 16:14:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "希臘外交部長：縱向天然氣走廊是美國輸往歐洲天然氣的核心運輸幹線。"
     }
   ]
 }
