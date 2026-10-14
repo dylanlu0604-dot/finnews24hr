@@ -1,7 +1,117 @@
 {
   "date": "2026-10-14",
-  "count": 1471,
+  "count": 1482,
   "items": [
+    {
+      "id": "mkt:01a1396a-8c66-7ee0-a872-e608a61a7f56",
+      "time": "2026-10-14 15:57:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【US September CPI preview: October Fed hike pressure likely eases, but rate debate persists】Markets broadly expect US headline CPI to rise notably in September while core CPI ex food and energy is forecast to slow MoM, reducing urgency for a Fed hike in October. The Fed raised rates last month and signalled further increases, but weak September jobs and July–August PCE prints below expectations have sharply cooled odds of an October move. Scott Anderson, BMO Capital Markets' chief US economist, says a September core CPI MoM print around 0.2% would be sufficient to support a Fed pause in October, but he warned the debate over whether additional hikes will be needed is not over."
+    },
+    {
+      "id": "5144041",
+      "time": "2026-10-14 15:57:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商公路：完成發行19億元2026年度第四期超短期融資券】招商公路公告稱，公司2026年10月12日成功發行2026年度第四期超短期融資券，發行規模19.00億元。聯席主承銷商為招商銀行股份有限公司、中國郵政儲蓄銀行股份有限公司，其中招商銀行自營獲配10000萬元，佔發行規模13.33%；郵儲銀行自營獲配15000萬元，佔發行規模20.00%。關聯方招商銀行參與本期融資券認購，最終獲配金額10000萬元，公司董監高、持股超5%股東及其他關聯方未參與認購。"
+    },
+    {
+      "id": "mkt:01a13969-edbe-7ee0-a872-df01c765e7dc",
+      "time": "2026-10-14 15:56:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude slipped below $104/bbl, down 0.74% intraday."
+    },
+    {
+      "id": "5144040",
+      "time": "2026-10-14 15:55:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金地集團：2026年9月簽約金額15.5億元，同比下降30.49%】金地集團公告，2026年9月實現簽約面積12萬平方米，同比下降32.58%；簽約金額15.5億元，同比下降30.49%。2026年1-9月累計實現簽約面積97.7萬平方米，同比下降45.48%；累計簽約金額136億元，同比下降43.76%。"
+    },
+    {
+      "id": "5144039",
+      "time": "2026-10-14 15:54:53",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【沙特阿美總部遭襲 原油價格隨中東局勢升級走高】隨著沙特阿美總部遭到襲擊，中東衝突進一步升級，市場對波斯灣能源供應恢復前景的不確定性加劇，油價小幅走高。週二，布倫特原油升至每桶106美元附近，WTI原油則逼近95美元。伊朗支援的胡塞武裝向沙特境內發動導彈和無人機襲擊，目標包括沙特東部多座城市以及沙特阿美辦公園區。隨著美伊戰爭持續擾亂能源市場，布倫特原油今年以來已上漲超過70%。上週胡塞武裝襲擊利雅得主要機場後，風險進一步升溫；與此同時，沙特支援的部隊在葉門發起收復叛軍控制區的行動。霍爾木茲海峽針對船隻的襲擊也促使更多超級油輪避開波斯灣。摩根士丹利分析師Martijn Rats等人在報告中表示：“原油出口仍在繼續，但相關不確定性依然處於高位。”該行將本季度及下一季度即期布倫特原油價格預測上調5美元/桶。“與此同時，針對沙特基礎設施的襲擊事件有所增加。”"
+    },
+    {
+      "id": "mkt:01a13967-c1c8-7ee0-a872-d7679daac807",
+      "time": "2026-10-14 15:54:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.AS",
+        "Impact bullish"
+      ],
+      "text": "ASML CEO said demand from Elon Musk's Terafab has been incorporated into the company's forecasts from 2027 onward."
+    },
+    {
+      "id": "5144038",
+      "time": "2026-10-14 15:54:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟反壟斷監管機構接受賽諾菲<程式碼.SA>停止詆譭競爭對手流感疫苗的提議，賽諾菲免於罰款。"
+    },
+    {
+      "id": "5144037",
+      "time": "2026-10-14 15:54:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "阿斯麥首席財務官：在美國中期選舉前，不會就《晶片與科學法案》出臺相關舉措；馬斯克的Terafab的需求已納入公司2027年及以後的預測中。"
+    },
+    {
+      "id": "5144036",
+      "time": "2026-10-14 15:54:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府週三表示，正在制定一項針對資料中心行業的新政策，以應對該行業快速擴張帶來的電力消耗壓力，並避免消費者因資料中心用電需求增加而承擔更高電價。"
+    },
+    {
+      "id": "5144035",
+      "time": "2026-10-14 15:53:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【胡塞武裝圍困葉門第三大城市 瓶裝水價漲十餘倍】據路透社援引國際移民組織官員和葉門政府訊息人士報道，塔伊茲市的大約60萬居民中，8萬人在最新戰事爆發後逃離了該城。當地居民生活狀況近來嚴重惡化，基本物資和人道主義援助無法進入，物價飆升。居民納什萬·薩阿德說，一袋小麥的價格上漲了約40%，一些家庭開始捱餓。居民拉法特·瓦菲告訴沙特《阿拉伯新聞》日報，由於庫存日益減少，當地政府已停止直接向居民出售麵粉，只允許在麵包店購買，變相實施配給制供應。另外，一桶20升汽油的價格漲至15萬里亞爾（約合100美元），是先前的5倍；一升瓶裝水的價格達到6000里亞爾（約合4美元），為原先的12倍。（新華社）"
+    },
+    {
+      "id": "te:markets:591830",
+      "time": "2026-10-14 15:53:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "L'Oréal Shares Hit 5-week High — L'Oréal shares increased to 392.15 EUR, the highest since September 2026. Over the past 4 weeks, L'Oréal gained 2.78%, and in the last 12 months, it increased 3.09%."
+    },
     {
       "id": "5144034",
       "time": "2026-10-14 15:53:10",
