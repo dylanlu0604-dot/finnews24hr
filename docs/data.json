@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-15 06:49:29",
-  "count": 11976,
+  "updated": "2026-10-15 06:53:16",
+  "count": 11981,
   "items": [
+    {
+      "id": "5145625",
+      "time": "2026-10-15 06:52:43",
+      "tags": [
+        "公司",
+        "資料",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】\n① 07:50 日本8月核心機械訂單；\n② 08:30 澳大利亞9月就業報告（含就業人數、失業率）；\n③ 時間待定 英偉達中國開發者日在蘇州開幕（15-16日），第140屆廣交會開幕；\n④ 09:30 日本央行審議委員小枝淳子講話；\n⑤ 09:35 歐洲央行管委Álvaro Santos Pereira在泰國曼谷講話；\n⑥ 10:55 美聯儲理事、負責金融監管事務的副主席鮑曼在曼谷經濟節講話；\n⑦ 11:35 歐洲央行管委Kocher、Simkus在曼谷講話；\n⑧ 11:40 英國央行首席經濟學家Huw Pill在曼谷講話；\n⑨ 12:00 澳洲聯儲釋出年度報告；\n⑩ 12:30 歐洲央行管委兼法國央行行長Moulin、瑞士央行行長Martin Schlegel在曼谷講話；\n⑪ 時間待定 臺積電釋出業績報告；\n⑫ 14:00 英國8月GDP，工業產出，商品貿易帳；\n⑬ 14:45 法國9月CPI終值，英國央行貨幣政策委員會（MPC）成員Greene講話在曼谷舉辦的摩根大通會議上講話；\n⑭ 時間待定 20國集團(G20)財長和央行行長會議，歐洲理事會會議；\n⑮ 時間待定 國內成品油將開啟新一輪調價視窗；\n⑯ 16:45 英國央行副行長Breeden在曼谷舉辦的國際金融協會（IIF）關於網路風險的研討會上講話；\n⑰ 17:00 加拿大央行高階副行長Rogers在曼谷講話；\n⑱ 20:00 淘寶天貓“雙11”活動開啟；\n⑲ 時間待定 特斯拉正式展示新一代“飛行汽車”Roadster；\n⑳ 20:30 美國9月PPI、零售銷售，10月10日當週首次申請失業救濟人數，10月紐約聯儲製造業指數；\n㉑ 22:00 美國芝加哥聯儲主席Goolsbee接受Kyla採訪；\n㉒ 22:30 美國能源資訊署（EIA）釋出天然氣庫存週報；\n㉓ 次日00:00 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n㉔ 次日04:30 美國克利夫蘭聯儲主席Hammack參加一場討論。"
+    },
+    {
+      "id": "mkt:01a13c9d-3051-7ee0-a886-d41a19ce59fc",
+      "time": "2026-10-15 06:51:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Russia says it expanded control in Kharkiv; Ukraine reports large-scale offensive in Donetsk】On the 14th the Russian Defence Ministry said Russian forces expanded control in the Kharkiv region, seizing three settlements including Kotovka, and struck 146 Ukrainian targets, naming drone production/storage workshops and temporary billets for Ukrainian troops and foreign mercenaries. Moscow said its forces also used drones to hit a logistics hub used to store and distribute supplies for Ukrainian forces and a dry-cargo vessel carrying dual-use military-civilian goods. Also on the 14th the commander of Ukraine’s Third Corps said Ukrainian forces in Donetsk blocked a Russian flanking encirclement of the Sloviansk–Kramatorsk area, retained control of the Kharkiv–Sloviansk road, launched a large-scale offensive and during the operation restored full control over 16 settlements."
+    },
+    {
+      "id": "te:markets:592075",
+      "time": "2026-10-15 06:50:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Track Wall Street Lower — The NZX 50 lost 69 points, or 0.5%, to 13,691 in Thursday morning deals, after a slight gain in the previous session, tracking a decline on Wall Street overnight as faster-than-expected inflation data raised expectations of Fed rate hikes. Rising oil prices pressured sentiment amid concerns over inflation and the RBNZ's tightening monetary policy, after the central bank hiked interest rates in July and September. Caution also prevailed ahead of the release of New Zealand's food inflation and business PMI data on Friday. All sectors traded in the red, led by financials, energy, technology, and communication services. Among the biggest losers were South Port New Zealand (-2.5%), Infratil (-2.0%), Chorus (-1.2%), Port of Tauranga (-1.0%), Channel Infrastructure (-0.9%), Fisher & Paykel (-0.8%), Hallenstein Glasson (-0.8%), Freightways Group (-0.7%), and Meridian Energy (-0.7%)."
+    },
+    {
+      "id": "mkt:01a13c9b-593e-7ee0-a886-cabbc44d8ab0",
+      "time": "2026-10-15 06:49:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he is en route to Montana to deliver a \"full-house\" speech."
+    },
+    {
+      "id": "5145624",
+      "time": "2026-10-15 06:49:10",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【頂級預測師：美聯儲12月可能加息50個基點】Prestige Economics總裁Jason Schenker表示，FOMC可能會在12月考慮更大幅度、達50個基點的加息。這位較早預測到美聯儲最近一次加息的預測師Schenker如今認為，美聯儲可能在9月加息後“讓政策效果稍作喘息”，再於12月考慮更大幅度加息。Schenker預計，若12月出現更大幅度加息，明年年初可能暫停進一步加息。 在10月和12月會議之間，美聯儲官員還將收到兩份就業報告和另一份CPI資料，可為其未來決策提供依據。Schenker表示：“雖然只需等待6周，但他們將獲得更多資料。如果他們發現25個基點毫無作用，那麼我認為他們可能會推出50個基點的加息。”Schenker預計，更大幅度的加息可能導致明年年初暫停進一步加息；而如果12月僅加息25個基點，則明年第一季度再次加息的可能性較大。"
+    },
     {
       "id": "5145623",
       "time": "2026-10-15 06:46:10",
