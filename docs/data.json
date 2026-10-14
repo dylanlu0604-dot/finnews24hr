@@ -1,7 +1,102 @@
 {
-  "updated": "2026-10-15 03:03:19",
-  "count": 11945,
+  "updated": "2026-10-15 03:07:12",
+  "count": 11951,
   "items": [
+    {
+      "id": "5145435",
+      "time": "2026-10-15 03:06:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲：10 月 15 日至 11 月 13 日期間，不安排儲備管理類購買操作。"
+    },
+    {
+      "id": "5145434",
+      "time": "2026-10-15 03:06:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：葉門武裝部隊打擊吉達北部的沙特阿美石油分銷設施。"
+    },
+    {
+      "id": "5145433",
+      "time": "2026-10-15 03:05:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：美聯儲古爾斯比表示，美國9月通脹資料高於預期，令人失望，但暗示希望在進一步加息前等待更多資料。"
+    },
+    {
+      "id": "mkt:01a13bce-2788-7ee0-a884-9f99a3a861e6",
+      "time": "2026-10-15 03:05:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US Sep inflation surprised to the upside and was described as disappointing. Fed GOOLSBEE signalled a preference to wait for more data before pursuing additional rate hikes."
+    },
+    {
+      "id": "te:markets:592061",
+      "time": "2026-10-15 03:05:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Broadcom Shares Hit 4-week Low — Broadcom shares decreased to 343.18 USD, the lowest since September 2026. Over the past 4 weeks, Broadcom Inc gained 1.2%, and in the last 12 months, it decreased 2.27%."
+    },
+    {
+      "id": "5145432",
+      "time": "2026-10-15 03:04:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.6978元，較週二夜盤收盤跌50點。成交量330.37億美元。"
+    },
+    {
+      "id": "5145431",
+      "time": "2026-10-15 03:04:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲公開市場操作櫃檯計劃在 10 月 15 日至 11 月 13 日期間開展約 146 億美元再投資購買操作。"
+    },
+    {
+      "id": "5145430",
+      "time": "2026-10-15 03:03:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克：星鏈在網速和使用許可權上的任何限制，都由美軍決定，最終決定權歸美國總統。"
+    },
+    {
+      "id": "mkt:01a13bcb-f2b3-7ee0-a884-97e898210178",
+      "time": "2026-10-15 03:03:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said the Starshield system is owned and controlled by the U.S. government; any limits on speed or use are set by the U.S. military, with final authority resting with U.S. President Trump."
+    },
+    {
+      "id": "5145429",
+      "time": "2026-10-15 03:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星鏈僅限民用或防禦用途，不可用於進攻性軍事行動。"
+    },
     {
       "id": "5145428",
       "time": "2026-10-15 03:02:07",
@@ -108767,41 +108862,6 @@
         "國際"
       ],
       "text": "白宮要求五角大樓提供中期選舉前打擊伊朗的方案。"
-    },
-    {
-      "id": "5130668",
-      "time": "2026-10-08 03:06:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：白宮尋求在中期選舉前打擊伊朗的方案。"
-    },
-    {
-      "id": "5130667",
-      "time": "2026-10-08 03:05:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特兩座機場遭襲致3死36傷】沙烏地阿拉伯民航總局7日發表宣告說，位於沙特西南部的艾卜哈國際機場和位於首都利雅得的哈立德國王國際機場6日至7日遭到襲擊，共造成3人死亡、36人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:01a117c0-eb07-7ee0-a7e0-f6ef6fa6b69a",
-      "time": "2026-10-08 03:04:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Axios reports President Trump will attend an AI conference on Thursday local time."
-    },
-    {
-      "id": "5130666",
-      "time": "2026-10-08 03:04:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普將推出逾10億美元人工智慧科研計劃】特朗普將於週四出席白宮峰會，峰會聚焦利用先進人工智慧加速科研突破、鞏固美國領先地位。美國政府將宣佈，OpenAI、Anthropic、AMD等企業為“創世紀計劃”作出超10億美元行業承諾。聯邦機構還將投入逾1億美元開發人工智慧科研工具，並新建一個覆蓋美國東南部10個州、由14家機構組成的算力中心。"
     }
   ]
 }
