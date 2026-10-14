@@ -1,7 +1,129 @@
 {
   "date": "2026-10-14",
-  "count": 2235,
+  "count": 2248,
   "items": [
+    {
+      "id": "mkt:01a13aa7-bb52-7ee0-a87e-effa18e7da22",
+      "time": "2026-10-14 21:43:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MORGAN STANLEY CFO said growth in Asian markets drove growth in the firm's equities trading business."
+    },
+    {
+      "id": "5145033",
+      "time": "2026-10-14 21:43:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：我們有信心供應鏈能夠支撐2028年實現超30%的增長。"
+    },
+    {
+      "id": "5145032",
+      "time": "2026-10-14 21:43:47",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利首席財務官Sharon Yeshaya表示，亞洲業務的增長幫助提振了股票交易業務。"
+    },
+    {
+      "id": "5145031",
+      "time": "2026-10-14 21:43:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬通發展：董事會薪酬與考核委員會同意實施2026年股票期權激勵計劃】萬通發展公告稱，公司董事會薪酬與考核委員會核查認為，公司不存在禁止實施股票期權激勵計劃的情形，未向激勵物件提供貸款、貸款擔保或其他財務資助；本次激勵計劃擬激勵物件為公司高管、核心管理人員及核心技術（業務）骨幹，不含獨立董事、持股5%以上股東或實控人及其配偶、父母、子女，主體資格合法有效；激勵計劃草案及摘要符合相關規定，審議程式合規，不存在損害公司及全體股東利益的情形，同意實施本次激勵計劃並將相關草案及摘要提交董事會審議。"
+    },
+    {
+      "id": "mkt:01a13aa6-e78d-7ee0-a87e-e350f2a71884",
+      "time": "2026-10-14 21:42:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.AS",
+        "Impact bearish"
+      ],
+      "text": "ASML CEO said suppliers' main challenge is ensuring capacity can grow 30% year-on-year."
+    },
+    {
+      "id": "5145030",
+      "time": "2026-10-14 21:42:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：供應商面臨的主要挑戰是確保能夠滿足每年30%的需求增幅。"
+    },
+    {
+      "id": "5145029",
+      "time": "2026-10-14 21:42:37",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲傳聲筒 Nick Timiraos：CPI超預期令美聯儲10月按兵不動面臨更大壓力，但尚無跡象表明官員將改變利率決策計劃】美聯儲傳聲筒，名記Nick Timiraos釋出文章指出，美國9月核心通脹連續第二個月超出預期，進一步強化了美聯儲年內再加息一次的理由。美聯儲官員上月一致投票決定加息時，幾乎所有官員都在利率預測中預計今年還將加息一次。剔除食品和能源價格的美國9月核心消費者價格指數（CPI）環比上漲0.33%，高於華爾街經濟學家幾乎所有預測值，8月漲幅為0.29%。\n這份通脹報告給美聯儲官員帶來了兩個問題。\n首先，更迫切的問題是，美聯儲是否仍有餘地等到12月再加息。此前，美聯儲官員釋放訊號，表示預計不會在兩週後的政策會議上調整利率。一些分析人士認為，如果美聯儲官員本就預計需要進一步加息，那麼沒有太多理由繼續等待。不過，目前尚無跡象表明，官員們會因為單獨一份通脹報告而重新考慮近期的政策安排。\n其次，也是更重要的問題，是利率最終需要上升到多高。這將取決於能源價格上漲和人工智慧投資熱潮帶來的通脹壓力，是否正在向更廣泛的經濟領域蔓延。"
+    },
+    {
+      "id": "5145028",
+      "time": "2026-10-14 21:42:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：我們不認為供應商蔡司在2028年會成為瓶頸。"
+    },
+    {
+      "id": "5145027",
+      "time": "2026-10-14 21:42:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生部長表示，CMS在2026年發現18.9萬例重複的聯邦醫療保險、醫療補助或兒童健康保險計劃覆蓋案例。"
+    },
+    {
+      "id": "5145026",
+      "time": "2026-10-14 21:40:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩艘新加坡籍船隻在霍爾木茲海峽遭襲】新加坡海事及港務管理局14日晚發表宣告說，兩艘在新加坡註冊的集裝箱船據報在透過霍爾木茲海峽時被不明投射物擊中，其中一艘隨後沉沒。（新華社）"
+    },
+    {
+      "id": "mkt:01a13aa4-ab7d-7ee0-a87e-d9322e112ebe",
+      "time": "2026-10-14 21:40:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "CITIGROUP now expects the Federal Reserve to raise rates by 25 bps in December 2026; previously the bank had forecast the Fed would keep rates unchanged through the remainder of this year."
+    },
+    {
+      "id": "te:markets:591981",
+      "time": "2026-10-14 21:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.26% Higher — The Dow Jones Index is up by 136 points or 0.26 percent on Wednesday. Top gainers are UnitedHealth (3.49%), Amgen (1.87%) and Walmart (1.87%). Biggest losses came from Nvidia (-1.46%), Caterpillar (-1.14%) and Travelers Companies (-1.10%)."
+    },
+    {
+      "id": "5145025",
+      "time": "2026-10-14 21:40:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "梵蒂岡表示，教皇利奧已恢復正常進食，已如常享用早餐和午餐。"
+    },
     {
       "id": "5145024",
       "time": "2026-10-14 21:39:50",
