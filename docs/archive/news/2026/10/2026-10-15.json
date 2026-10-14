@@ -1,7 +1,77 @@
 {
   "date": "2026-10-15",
-  "count": 174,
+  "count": 182,
   "items": [
+    {
+      "id": "mkt:01a13b9d-cac2-7ee0-a883-ffc158226ad6",
+      "time": "2026-10-15 02:12:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi group says Saudi-led coalition launched 42 strikes in past 24 hours】On the evening of the 14th local time, the Houthi movement said the Saudi-led coalition carried out 42 air and missile strikes in the previous 24 hours on Houthi-controlled areas including the capital Sana'a, Taiz, Lahij, Marib, Amran and Mayyun Island in the middle of the Bab al-Mandeb. The group said coalition air and missile strikes on Houthi-held areas have totaled 2,323 since the situation escalated on Sept. 3."
+    },
+    {
+      "id": "5145376",
+      "time": "2026-10-15 02:11:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國民主黨聯邦參議員布盧門撒爾表示，有關烏克蘭境內星鏈服務出現故障的相關報道令人擔憂。"
+    },
+    {
+      "id": "5145375",
+      "time": "2026-10-15 02:11:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱襲擊沙特利雅得國際機場等目標】當地時間14日晚間，葉門胡塞武裝釋出宣告，稱使用彈道導彈襲擊了沙特首都利雅得的哈立德國王國際機場，並稱“導彈精準命中目標”。宣告還表示，胡塞武裝還使用三枚彈道導彈，襲擊了沙特主導的聯軍在葉門境內兩個地方的軍事目標，造成大量人員傷亡，並導致多輛車輛受損。（央視新聞）"
+    },
+    {
+      "id": "5145373",
+      "time": "2026-10-15 02:10:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場資訊：半數美聯儲轄區出現強勁或加劇的價格壓力。"
+    },
+    {
+      "id": "5145372",
+      "time": "2026-10-15 02:09:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行CEO莫伊尼漢：隨著利率上升，我們將賺更多錢。"
+    },
+    {
+      "id": "mkt:01a13b9a-e96a-7ee0-a883-f3b07322e548",
+      "time": "2026-10-15 02:09:30",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Far-right French presidential candidate Le Pen says polls show growing public support for the National Rally's platform."
+    },
+    {
+      "id": "mkt:01a13b9a-6f4e-7ee0-a883-e9d745728e54",
+      "time": "2026-10-15 02:08:59",
+      "tags": [
+        "MKT News",
+        "BAC.N",
+        "Impact bullish"
+      ],
+      "text": "BofA (BAC.N) CEO Moynihan said the bank has discussed resolution options for a $1.2 billion AML-related fine, will implement government requirements and accept responsibility for all internal business conduct."
+    },
+    {
+      "id": "5145368",
+      "time": "2026-10-15 02:08:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國極右翼總統候選人瑪麗娜·勒龐：選舉民調顯示，國民聯盟的綱領獲得越來越多“穩定”支援。"
+    },
     {
       "id": "5145367",
       "time": "2026-10-15 02:08:20",
