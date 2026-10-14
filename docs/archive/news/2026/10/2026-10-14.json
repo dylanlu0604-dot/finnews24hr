@@ -1,7 +1,106 @@
 {
   "date": "2026-10-14",
-  "count": 2162,
+  "count": 2172,
   "items": [
+    {
+      "id": "mkt:01a13a99-2b33-7ee0-a87e-6adcd1daeaa6",
+      "time": "2026-10-14 21:27:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Social Security Administration said Social Security beneficiaries will receive a 3.6% cost-of-living adjustment for 2027."
+    },
+    {
+      "id": "5144984",
+      "time": "2026-10-14 21:27:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【灣芯展舉辦光子晶片產業合作簽約】10月14日2026灣芯展上，上海交大無錫光子晶片研究院、Luceda、豐禾光子、天通股份、六芯光電、向量集團、蘇州伊歐陸在本次大會上共同舉行光子晶片產業合作簽約儀式。未來各方將依託CHIPX首條光子晶片中試線平臺能力，圍繞薄膜鈮酸鋰等先進材料開展協作，挖掘光子晶片產業化合作機遇，加快推動光子晶片在通訊、量子資訊等領域的創新落地。"
+    },
+    {
+      "id": "5144983",
+      "time": "2026-10-14 21:27:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【剛果（布）官員：期待與中國深化農業科技務實合作】剛果（布）科研和技術創新部長裡戈貝爾·馬本杜日前表示，剛果（布）政府高度重視農業科技創新，希望進一步深化與中國在農業科技領域的務實合作，以保障糧食安全和促進農業現代化。馬本杜日前參觀了中國-剛果（布）現代農業技術“一帶一路”聯合實驗室（籌），考察了雙方在農作物品種培育、高效栽培、農產品加工和農業機械化等領域的合作成果。據實驗室中方專家介紹，實驗室已引進59箇中國農作物品種開展本地化試驗，篩選出適應剛果（布）氣候和土壤條件的玉米品種11個、大豆品種7個、蔬菜品種11個、果樹品種8個。其中，中國大豆品種“桂夏豆105”試驗產量達每公頃4.2噸。（新華社）"
+    },
+    {
+      "id": "mkt:01a13a98-4ff9-7ee0-a87e-625de76134b4",
+      "time": "2026-10-14 21:27:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY"
+      ],
+      "text": "White House National Economic Council director Hassett said more data are needed before the Federal Reserve makes a rate decision."
+    },
+    {
+      "id": "5144982",
+      "time": "2026-10-14 21:26:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國社會保障局表示，2027年生活成本漲幅為3.6%。"
+    },
+    {
+      "id": "5144981",
+      "time": "2026-10-14 21:26:20",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "哈塞特：美聯儲在做出利率決定前需要更多資料。"
+    },
+    {
+      "id": "mkt:01a13a96-f11a-7ee0-a87e-5fcdedfd3308",
+      "time": "2026-10-14 21:25:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council director Hassett said core inf this month is a minor blip."
+    },
+    {
+      "id": "5144980",
+      "time": "2026-10-14 21:25:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：本月的核心通脹只是一次波動。"
+    },
+    {
+      "id": "mkt:01a13a96-2407-7ee0-a87e-531f0e6b4912",
+      "time": "2026-10-14 21:24:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "White House National Economic Council director HASSETT said the economy's strength is modestly visible in inf data."
+    },
+    {
+      "id": "mkt:01a13a96-1c52-7ee0-a87e-4c8ff691683d",
+      "time": "2026-10-14 21:24:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Hassett, director of the White House National Economic Council, said consumer spending is currently healthy and he expects the upcoming holiday shopping season to be very strong."
+    },
     {
       "id": "5144979",
       "time": "2026-10-14 21:24:16",
