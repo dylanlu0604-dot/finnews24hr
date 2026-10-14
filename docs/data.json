@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-14 08:07:00",
-  "count": 11030,
+  "updated": "2026-10-14 08:10:48",
+  "count": 11036,
   "items": [
+    {
+      "id": "5143258",
+      "time": "2026-10-14 08:08:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲3%。"
+    },
+    {
+      "id": "5143257",
+      "time": "2026-10-14 08:08:19",
+      "tags": [
+        "資料"
+      ],
+      "text": "新加坡金融管理局：預計2027年核心通脹率、CPI所有專案通脹率平均為1.5%-2.5%。"
+    },
+    {
+      "id": "te:economy:591630",
+      "time": "2026-10-14 08:08:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Australia Leading Index Edges Lower — The Westpac–Melbourne Institute Leading Economic Index fell 0.1% month-on-month in September 2026, after remaining flat for the previous two months, marking its first decline since May. Meanwhile, its six-month annualised growth rate held at -0.03%, unchanged from August. The index suggests economic momentum remains slightly below trend heading into late 2026 and early 2027, with growth stabilising at a modest pace rather than stalling. However, higher fuel prices and the RBA’s September rate hike are still filtering through the economy and could weigh on near-term growth. Westpac expects Australia’s economy to expand 1.5% in calendar 2026, below its long-run trend. “For now, it suggests the economy has been stuck in a bit of a holding pattern over the last two years,” said Matthew Hassan, Westpac’s head of Australian macro-forecasting."
+    },
+    {
+      "id": "mkt:01a137bc-8d2d-7ee0-a863-e7caef6d38df",
+      "time": "2026-10-14 08:07:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Gold price floor may lift; gold stocks likely to lead】CITIC Securities says ETF inflows and central-bank buying may already have lifted gold's floor. The firm views the medium-term outlook as constructive: if US‑Iran tensions ease before the US midterms, improved oil-price expectations could create a predictable window for easing market tightening expectations and slow the rise in US Treasury yields. That dynamic, together with reduced futures selling and continued ETF buying, would support gold price repair. On the sector, using a $4,000/oz 2026 floor estimate CITIC calculates a gold-sector PE trough around 15x; under a $4,200/oz assumption the sector's 2026/2027 PEs are about 15x/12x, implying the valuation bottom could be re‑tested. Gold equities typically lead bullion on the upside; CITIC's gold index has already rallied over 20% from its trough, so a stabilizing gold price would be a key signal for a broader sector rebound."
+    },
+    {
+      "id": "mkt:01a137bc-7fc8-7ee0-a863-dce7cce5b6ba",
+      "time": "2026-10-14 08:07:42",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "South Korea's KOSPI rose 1.14% intraday, breaching 6,100 points."
+    },
+    {
+      "id": "5143256",
+      "time": "2026-10-14 08:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金融管理局：預計2026年核心通脹率預測均值在1.5%-2.0%。"
+    },
+    {
+      "id": "5143255",
+      "time": "2026-10-14 08:06:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲1.1%，至6104.13。"
+    },
+    {
+      "id": "5143254",
+      "time": "2026-10-14 08:06:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報6110.41點。個股方面，三星電子、SK海力士漲超2%。"
+    },
     {
       "id": "5143253",
       "time": "2026-10-14 08:06:18",
@@ -100041,22 +100119,6 @@
         "國際"
       ],
       "text": "日本東證指數盤中升破歷史最高收盤水平。"
-    },
-    {
-      "id": "5129259",
-      "time": "2026-10-07 08:08:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今日鐵路上海站預計傳送旅客43.7萬人】今日鐵路上海站（下轄上海站、上海南站、上海虹橋站、上海松江站、上海西站、南翔北站、安亭西站、安亭北站、金山北站、練塘站）預計傳送旅客43.7萬人，其中上海站10.8萬人，上海南站5.7萬人，上海虹橋站23.7萬人，上海松江站2.7萬人，到達旅客84.4萬人，其中上海站20.6萬人，上海南站11.1萬人，上海虹橋站46.8萬人，上海松江站5.3萬人。"
-    },
-    {
-      "id": "5129258",
-      "time": "2026-10-07 08:07:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【熱門航線機票價格已回落 有長線機票價格較節前下降逾七成】隨著國慶假期進入尾聲，部分熱門航線的機票價格已經率先回落。美團資料顯示，10月7日上海至呼倫貝爾機票含稅均價約490元，較節前超過2000元的均價下降約76%；10月3日、4日，平臺“特價機票”搜尋量較10月1日、2日增長13%；價格變化之下，不少遊客開始把目光轉向假期後半程和節後行程。 從假期後半程到節後，價格回落並不限於單一航線，北方賞秋與南方長線目的地均有低價出現。美團資料顯示，10月5日，北京直飛呼倫貝爾的機票含稅均價約415元，較節前同期下降約59%；10月6日，杭州至西雙版納機票含稅均價約425元，較節前同期下降約63%。節後價格進一步下探，10月8日至14日，上海至西雙版納機票含稅均價約396元，較節前同期下降約65%；麗江、大理、三亞、昆明等長線目的地的部分航線，降幅也達到五至六成。 （澎湃）"
     }
   ]
 }

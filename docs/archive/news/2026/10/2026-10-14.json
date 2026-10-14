@@ -1,7 +1,85 @@
 {
   "date": "2026-10-14",
-  "count": 535,
+  "count": 543,
   "items": [
+    {
+      "id": "5143258",
+      "time": "2026-10-14 08:08:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲3%。"
+    },
+    {
+      "id": "5143257",
+      "time": "2026-10-14 08:08:19",
+      "tags": [
+        "資料"
+      ],
+      "text": "新加坡金融管理局：預計2027年核心通脹率、CPI所有專案通脹率平均為1.5%-2.5%。"
+    },
+    {
+      "id": "te:economy:591630",
+      "time": "2026-10-14 08:08:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Australia Leading Index Edges Lower — The Westpac–Melbourne Institute Leading Economic Index fell 0.1% month-on-month in September 2026, after remaining flat for the previous two months, marking its first decline since May. Meanwhile, its six-month annualised growth rate held at -0.03%, unchanged from August. The index suggests economic momentum remains slightly below trend heading into late 2026 and early 2027, with growth stabilising at a modest pace rather than stalling. However, higher fuel prices and the RBA’s September rate hike are still filtering through the economy and could weigh on near-term growth. Westpac expects Australia’s economy to expand 1.5% in calendar 2026, below its long-run trend. “For now, it suggests the economy has been stuck in a bit of a holding pattern over the last two years,” said Matthew Hassan, Westpac’s head of Australian macro-forecasting."
+    },
+    {
+      "id": "mkt:01a137bc-8d2d-7ee0-a863-e7caef6d38df",
+      "time": "2026-10-14 08:07:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Gold price floor may lift; gold stocks likely to lead】CITIC Securities says ETF inflows and central-bank buying may already have lifted gold's floor. The firm views the medium-term outlook as constructive: if US‑Iran tensions ease before the US midterms, improved oil-price expectations could create a predictable window for easing market tightening expectations and slow the rise in US Treasury yields. That dynamic, together with reduced futures selling and continued ETF buying, would support gold price repair. On the sector, using a $4,000/oz 2026 floor estimate CITIC calculates a gold-sector PE trough around 15x; under a $4,200/oz assumption the sector's 2026/2027 PEs are about 15x/12x, implying the valuation bottom could be re‑tested. Gold equities typically lead bullion on the upside; CITIC's gold index has already rallied over 20% from its trough, so a stabilizing gold price would be a key signal for a broader sector rebound."
+    },
+    {
+      "id": "mkt:01a137bc-7fc8-7ee0-a863-dce7cce5b6ba",
+      "time": "2026-10-14 08:07:42",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "South Korea's KOSPI rose 1.14% intraday, breaching 6,100 points."
+    },
+    {
+      "id": "5143256",
+      "time": "2026-10-14 08:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡金融管理局：預計2026年核心通脹率預測均值在1.5%-2.0%。"
+    },
+    {
+      "id": "5143255",
+      "time": "2026-10-14 08:06:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲1.1%，至6104.13。"
+    },
+    {
+      "id": "5143254",
+      "time": "2026-10-14 08:06:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報6110.41點。個股方面，三星電子、SK海力士漲超2%。"
+    },
     {
       "id": "mkt:01a137bb-37e8-7ee0-a863-d3ddd09a0994",
       "time": "2026-10-14 08:06:18",
