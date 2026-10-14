@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-14 08:33:25",
+  "updated": "2026-10-14 08:37:13",
   "count": 11041,
   "items": [
+    {
+      "id": "5143283",
+      "time": "2026-10-14 08:36:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：今天將宣佈兩項協議。"
+    },
+    {
+      "id": "5143282",
+      "time": "2026-10-14 08:36:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在阿拉斯加的一次集會上發表講話。"
+    },
+    {
+      "id": "5143281",
+      "time": "2026-10-14 08:35:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【澳新銀行：若通脹風險顯現，新加坡金管局或再度收緊政策】澳新銀行是少數預判到週三會議維持政策不變的機構，該行稱，如果明年通脹風險兌現，新加坡金管局可能再次收緊政策。該行亞洲研究主管 Khoon Goh 表示：“儘管第三季度 GDP 增速強於預期，且金管局認為短期核心心通脹仍將小幅偏高，但 4 月和 7 月連續兩輪緊縮政策的效果仍在傳導。”“因此央行認為現階段沒有必要進一步加碼緊縮。”“這並不代表緊縮週期已經結束。”“如果明年通脹上行風險兌現，金管局或將進一步收緊政策。”注：澳新銀行預計新加坡金管局 10 月維持政策引數不變。注：媒體調研的 20 位經濟學家中有 17 人此前預期新加坡金融管理局上調政策區間斜率。"
+    },
+    {
+      "id": "5143280",
+      "time": "2026-10-14 08:34:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據印度媒體Mint報道，黑石集團尋求持有ACCORD公司的少數股權，黑石集團正洽談向ACCORD投資4億至5億美元。"
+    },
     {
       "id": "5143279",
       "time": "2026-10-14 08:32:42",
@@ -100142,42 +100176,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧將於希臘當地時間週三晚上7點會見希臘總理。"
-    },
-    {
-      "id": "5129283",
-      "time": "2026-10-07 08:35:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【法國國債期貨在六個月最大漲幅後下跌】法國國債期貨週二創下六個月最大漲幅後，於亞洲交易時段走低。十年期國債期貨下跌43個點，報109.45。該合約週二最大漲幅達163個點，為4月以來最大。"
-    },
-    {
-      "id": "5129282",
-      "time": "2026-10-07 08:34:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【基輔傳出多次爆炸聲】據外媒報道，烏克蘭首都基輔7日凌晨傳出多次爆炸聲。（新華社）"
-    },
-    {
-      "id": "5129281",
-      "time": "2026-10-07 08:34:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中東部大部晴朗乾燥持續 氣溫回升晝夜溫差較大】未來三天（10月7日至9日），中東部大部以晴朗天氣居多，空氣乾燥，海南等地需防範強降雨。同時，南北方氣溫將在波動中回升，最高氣溫25℃以上的範圍逐漸擴大，但早晚溫差較大，公眾需及時添衣。"
-    },
-    {
-      "id": "te:economy:589979",
-      "time": "2026-10-07 08:34:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Building Permits MoM",
-        "Importance 1"
-      ],
-      "text": "Steep Decline in Australia Building Permits Confirmed — Australia’s seasonally adjusted dwelling approvals fell 6.1% month-on-month to a seven-month low of 16,953 units in August 2026, matching the flash estimate and deepening from a 1.9% decline in the previous month. It was the fifth time of contraction so far this year, with approvals for private-sector dwellings excluding houses plummeting (-21.2% vs 0.8% in July) to 5,674 units. In contrast, private-sector house approvals rebounded (3.7%vs -1.9%) to 10,885 units. Across the states, dwelling approvals declined in Queensland (-22.5%), New South Wales (-17.3%) and Tasmania (-1.5%), but increased in South Australia (24.0%), Victoria (8.9%) and Western Australia (3.2%). On a yearly basis, building approvals rose 10.3%, easing slightly from a 10.9% gain in July."
     }
   ]
 }
