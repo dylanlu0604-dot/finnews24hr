@@ -1,7 +1,65 @@
 {
   "date": "2026-10-15",
-  "count": 409,
+  "count": 415,
   "items": [
+    {
+      "id": "te:markets:592074",
+      "time": "2026-10-15 06:45:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 3.49% — Top crypto losers are Ether (-3.49%), XRP (-2.61%) and Bitcoin (-2.06%)."
+    },
+    {
+      "id": "5145622",
+      "time": "2026-10-15 06:44:42",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【10月15日隔夜要聞一覽】\n1、最新民調顯示，在美國選舉日臨近之際，選民對經濟狀況和總統的表現持負面看法，此時執政黨往往會處於不利地位。\n2、蘋果收盤市值站上5萬億美元，成為第二家市值突破5萬億美元的上市公司‌。\n3、OpenAI因ChatGPT兒童安全擔憂被8個州起訴。\n4、英偉達CEO黃仁勳稱會對開發不安全AI軟體的客戶斷供晶片。\n5、烏克蘭總統澤連斯基不滿SpaceX網路設限，直言有遭特朗普背叛之感，馬斯克在社交媒體發帖稱，對星盾（Starshield）速度或使用的任何限制均由美國軍方決定，並最終由總統決定。\n6、美聯儲褐皮書：能源成本上漲傳導至供應鏈，半數轄區報告價格壓力升溫。\n7、民調顯示勒龐和梅朗雄有望進入法國總統大選的第二輪決選。\n8、美銀聘請1000名承包商，修補Anthropic的Mythos暴露的軟體漏洞。\n9、巴克萊：特斯拉-SpaceX合併訊息可能在年度股東大會前公佈。"
+    },
+    {
+      "id": "5145621",
+      "time": "2026-10-15 06:44:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4110美元/盎司，日內漲0.15%。"
+    },
+    {
+      "id": "5145620",
+      "time": "2026-10-15 06:43:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.3%，納斯達克100指數期貨下跌0.7%。"
+    },
+    {
+      "id": "mkt:01a13c95-8e57-7ee0-a886-b41464e86a0f",
+      "time": "2026-10-15 06:43:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump says leakers of Middle East operations should be shot】At an Arizona campaign rally on Wednesday, US President Trump said leakers who pass information to the media \"should be shot,\" urged they be dealt with \"very, very harshly\" and called them \"scum.\" He said a planned strike on Iran involving US military assets from Missouri was delayed after key intelligence was leaked. Trump and his allies have long criticized negative media coverage of the Iran conflict; he had earlier said the fighting would last only weeks, but it has now entered its eighth month."
+    },
+    {
+      "id": "mkt:01a13c95-5c8c-7ee0-a886-ac55b23988a5",
+      "time": "2026-10-15 06:43:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports the Trump administration plans to seek the eventual expulsion of Rep. Ilhan Omar."
+    },
     {
       "id": "mkt:01a13c93-ee88-7ee0-a886-a3aafe06e2c6",
       "time": "2026-10-15 06:41:30",
