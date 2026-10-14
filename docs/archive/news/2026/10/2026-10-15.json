@@ -1,7 +1,88 @@
 {
   "date": "2026-10-15",
-  "count": 210,
+  "count": 219,
   "items": [
+    {
+      "id": "5145422",
+      "time": "2026-10-15 02:50:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶106.06美元，上漲37美分，漲幅0.35%。"
+    },
+    {
+      "id": "5145421",
+      "time": "2026-10-15 02:50:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國正向拉丁美洲部署數百名士兵，美軍將與當地部隊開展培訓與演習。"
+    },
+    {
+      "id": "mkt:01a13bc0-5aa3-7ee0-a884-67e869396671",
+      "time": "2026-10-15 02:50:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settlement price was $106.06 per barrel, up $0.37, or 0.35%."
+    },
+    {
+      "id": "mkt:01a13bbf-d8fa-7ee0-a884-5894075bd4ec",
+      "time": "2026-10-15 02:49:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said European firms are rapidly expanding use of AI agents. More than half of AI use cases among EU enterprise and commercial customers now involve such agents, and small-business users across the region have grown eightfold."
+    },
+    {
+      "id": "5145420",
+      "time": "2026-10-15 02:49:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場資訊：美國向拉丁美洲派遣數百名士兵。"
+    },
+    {
+      "id": "5145418",
+      "time": "2026-10-15 02:48:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：魯比奧支援衣索比亞與厄利垂亞緩和局勢。"
+    },
+    {
+      "id": "5145416",
+      "time": "2026-10-15 02:48:37",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：魯比奧週三與衣索比亞總理阿比·艾哈邁德·阿里討論了衣索比亞與厄利垂亞之間的緊張局勢。"
+    },
+    {
+      "id": "5145415",
+      "time": "2026-10-15 02:47:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI：歐洲企業正在迅速擴大對AI智慧體的使用。目前，在我們歐盟企業和商業客戶中，超過一半的AI使用涉及這些工具，該地區小企業使用者數量增長了8倍。我們的最新經濟研究報告探討了歐洲向智慧體AI的轉變，以及將更廣泛採用轉化為更深入應用的機會。"
+    },
+    {
+      "id": "5145414",
+      "time": "2026-10-15 02:47:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：不是特朗普，不是馬斯克，世界上任何人都不能決定烏克蘭的總統人選。只有烏克蘭人民才能決定。"
+    },
     {
       "id": "mkt:01a13bb7-5acf-7ee0-a884-55029a39957a",
       "time": "2026-10-15 02:40:34",
