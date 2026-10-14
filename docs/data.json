@@ -1,7 +1,208 @@
 {
-  "updated": "2026-10-14 10:26:50",
-  "count": 11212,
+  "updated": "2026-10-14 10:30:43",
+  "count": 11229,
   "items": [
+    {
+      "id": "mkt:01a1383e-7f14-7ee0-a868-6627125b54a4",
+      "time": "2026-10-14 10:29:42",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "IMF official says major economies urgently need fiscal consolidation."
+    },
+    {
+      "id": "mkt:01a1383e-54a4-7ee0-a868-5c76a5ec19ce",
+      "time": "2026-10-14 10:29:31",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "An IMF official said economic activity remains relatively strong."
+    },
+    {
+      "id": "mkt:01a1383e-3496-7ee0-a868-56414d5b3d37",
+      "time": "2026-10-14 10:29:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Taiwan Affairs Office of the State Council says it will protect Taiwan compatriots' lawful rights】Oct 14 — At a routine briefing the Taiwan Affairs Office of the State Council said Beijing has prioritized resolving Taiwan-related investment disputes and has issued laws, regulations and policies to build an institutional framework to protect the lawful rights and welfare of Taiwan residents and firms in the Chinese mainland. The office stressed equality before the law, warned no one has privileges above the law, and urged Taiwan individuals and companies to operate and defend their rights in accordance with mainland laws and regulations."
+    },
+    {
+      "id": "mkt:01a1383e-129c-7ee0-a868-4f1d6fae895e",
+      "time": "2026-10-14 10:29:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "An IMF official said there is little evidence of fiscal consolidation globally."
+    },
+    {
+      "id": "5143494",
+      "time": "2026-10-14 10:29:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：我不會競選法國總統。"
+    },
+    {
+      "id": "5143493",
+      "time": "2026-10-14 10:28:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院臺辦：依法維護臺灣同胞的合法權益】國務院臺辦舉行例行新聞釋出會，總檯記者提問：據瞭解，國臺辦一直高度重視協調解決涉臺投資糾紛，許多臺商受助後還向國臺辦來信致謝、贈送錦旗。能否請發言人介紹大陸方面近年來在臺胞權益保護上做了哪些工作?發言人陳斌華表示，我們始終高度重視臺胞權益保護工作，依法保護臺灣同胞正當權益，完善增進臺灣同胞福祉的制度和政策，各地區、各部門努力為臺灣同胞辦實事、做好事、解難事，積極出臺相關法律、法規和政策，建立健全臺胞權益保護制度體系。陳斌華強調，法律面前人人平等，任何人都沒有超越法律的特權。我們依法維護的是臺灣同胞的合法權益，希望廣大臺胞臺企在大陸守法經營、合法經營，並依法依規維護自身權益。"
+    },
+    {
+      "id": "mkt:01a1383d-a7ad-7ee0-a868-422410ad1491",
+      "time": "2026-10-14 10:28:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Poxiao Intelligence and Tianlong Mobile launch SeePhys Hub full‑body multimodal capture system for embodied intelligence】Oct. 14 — Poxiao Intelligence and Tianlong Mobile launched SeePhys Hub, a full‑body multimodal data capture system aimed at embodied intelligence. The hardware bundle — a four‑camera headband, wristbands, waist and leg motion trackers and tactile gloves — synchronously records first‑person vision, bilateral hand haptics and whole‑body motion to capture body movements and contact pressure that ego‑centric datasets miss. A companion data‑processing platform converts captures into multimodal training datasets for robot learning."
+    },
+    {
+      "id": "te:markets:591693",
+      "time": "2026-10-14 10:28:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Weakens on Cautious BOJ Rate Outlook — The Japanese yen weakened to around 158.5 per dollar on Wednesday, giving back gains from the previous session after reports suggested the Bank of Japan was reluctant to deliver a rare back-to-back interest rate hike this month, while still considering a possible increase in December. The central bank reportedly sees limited justification for consecutive rate hikes unless there are clear signs of a sharp rise in upside inflation risks. Meanwhile, BOJ Governor Kazuo Ueda said policymakers would continue to closely monitor bond yields, reiterating that long-term interest rates should be determined by market forces. His remarks signaled a cautious approach to monetary policy as the central bank moves further away from strict yield control. The yen also remained under pressure from rising oil prices, as escalating hostilities between Saudi Arabia and Iran-backed Houthi rebels heightened concerns over potential supply disruptions in the Middle East."
+    },
+    {
+      "id": "5143492",
+      "time": "2026-10-14 10:28:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【破曉智慧釋出面向具身智慧的全身全模態資料採集系統SeePhys Hub】10月14日，破曉智慧聯合天瓏移動釋出全身全模態資料採集系統SeePhys Hub。該系統由四目頭環、腕部手環、腰腿部動作追蹤器及觸覺手套組成，可同步採集第一視角視覺、雙手觸覺及全身運動資訊，補充傳統Ego資料採集難以獲取的身體動作與接觸壓力資訊。配套資料處理平臺可將採集內容轉化為面向機器人學習的多模態訓練資料。"
+    },
+    {
+      "id": "mkt:01a1383d-2df6-7ee0-a868-396008147551",
+      "time": "2026-10-14 10:28:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00625.HK"
+      ],
+      "text": "Xi Yin-W (00625.HK) up more than 5%."
+    },
+    {
+      "id": "mkt:01a1383c-e2b1-7ee0-a868-31cb9ba43b29",
+      "time": "2026-10-14 10:27:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An IMF official said the Fund does not recommend the UK accelerate fiscal consolidation."
+    },
+    {
+      "id": "5143491",
+      "time": "2026-10-14 10:27:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織官員：我們不建議英國加快財政整固步伐。"
+    },
+    {
+      "id": "5143490",
+      "time": "2026-10-14 10:27:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣價格升至近四年最高水平】當地時間13日，作為歐洲天然氣基準價格的荷蘭所有權轉讓中心天然氣期貨價格突破每兆瓦時86歐元，升至2022年12月以來的最高水平。同時，歐洲天然氣儲存設施的庫存水平目前為73.75%，明顯低於往年同期水平。天然氣庫存偏低意味著歐洲“應對氣溫驟降或突發供應中斷的緩衝空間縮小”。而天氣預報顯示，從下週末起，歐洲西北部氣溫可能進一步下降，推動“供暖需求上升”，給本已有限的天然氣儲備帶來更大壓力，這進一步加劇了市場對冬季供應的擔憂。在此背景下，歐洲今年冬季能源供應壓力將顯著升高。（央視新聞）"
+    },
+    {
+      "id": "5143489",
+      "time": "2026-10-14 10:27:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI漫劇概念漲勢擴大 富春股份20cm漲停】AI漫劇概念日內漲勢擴大，富春股份20cm漲停，德才股份走出6天4板，此前慈文傳媒、新經典、掌閱科技漲停，果麥文化、引力傳媒、海看股份、中文線上等多股漲超5%。"
+    },
+    {
+      "id": "5143488",
+      "time": "2026-10-14 10:27:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【賴清德稱“不許扭曲二戰歷史” 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，9月24日舉行的中美元首會晤將中美二戰盟友歷史列入成果清單。民進黨當局稱此舉“傳遞錯誤歷史敘事”，賴清德在所謂“雙十”講話中妄稱“絕不容許扭曲二戰歷史”。島內輿論批評民進黨上臺後切割抗戰歷史，現在又回頭來爭搶對二戰歷史的詮釋，實屬貽笑大方。請問對此有何評論？發言人陳斌華答問表示，抗戰勝利、臺灣光復，是包括臺灣同胞在內全體中國人民無畏強暴、浴血奮戰鑄就的偉大勝利。臺灣擺脫日本殖民枷鎖、迴歸祖國懷抱，是中國抗戰勝利的重大成果，是戰後國際秩序的重要組成部分，是兩岸同胞永誌不忘的歷史記憶。他指出，民進黨當局頑固堅持“臺獨”分裂立場，恣意歪曲歷史，鼓吹“臺獨”史觀，媚日戀殖，是歷史的罪人。歷史是一面“照妖鏡”，照出了民進黨當局炮製“臺獨”史觀、扭曲民族認同、割裂兩岸歷史連結的醜惡嘴臉，照出了民進黨當局煽動兩岸對立對抗、“反中抗中”的真面目，也照出了民進黨當局數典忘祖、背叛民族的可憎面目。希望廣大臺灣同胞認清民進黨當局謀“獨”挑釁的欺騙性和危害性，站在歷史正確一邊，堅守民族大義，堅持正確的歷史觀、民族觀、國家觀，堅決反對“臺獨”分裂行徑，堅定維護臺海和平穩定，致力推進祖國統一大業。"
+    },
+    {
+      "id": "mkt:01a1383c-3d89-7ee0-a868-2df0cd0a5b07",
+      "time": "2026-10-14 10:27:14",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Tech Index rose more than 1%, with the PCB sector leading gains."
+    },
+    {
+      "id": "5143487",
+      "time": "2026-10-14 10:27:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：目前前瞻性指引毫無幫助。"
+    },
+    {
+      "id": "mkt:01a1383b-c45e-7ee0-a868-27ec30a0559f",
+      "time": "2026-10-14 10:26:43",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "ECB President Lagarde said growth is not impressive, but 1.1% growth in 2026 is not bad."
+    },
+    {
+      "id": "mkt:01a1383b-c185-7ee0-a868-1a127f328ece",
+      "time": "2026-10-14 10:26:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share gaming sector surged; Fuchun Shares hit the daily trading limit, Caesar Culture and Dianhun Network had earlier hit limit-up. Baotong Technology, Shengtian Network, Dasheng Culture, Zhongqingbao and Xinghui Entertainment also climbed."
+    },
+    {
+      "id": "mkt:01a1383b-9207-7ee0-a868-12f9cf52373c",
+      "time": "2026-10-14 10:26:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde said the bank will set interest rates based on data at each meeting."
+    },
     {
       "id": "mkt:01a1383b-6c77-7ee0-a868-0f37922d387f",
       "time": "2026-10-14 10:26:20",
@@ -101660,40 +101861,6 @@
         "國際"
       ],
       "text": "三菱汽車就針對其美國子公司的訴訟達成和解。"
-    },
-    {
-      "id": "5129358",
-      "time": "2026-10-07 10:30:40",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "韓國財政部：韓國以4.495%的收益率發行30年期國債。"
-    },
-    {
-      "id": "mkt:01a11430-c223-7ee0-a7c8-7e5ba247a9bf",
-      "time": "2026-10-07 10:28:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "【Shenzhen consumption broad-based during National Day holiday】Retail and leisure demand surged over the National Day holiday in Shenzhen: Futian business district recorded nearly 7.0 mln visits in the first four days and sales above 500 mln yuan. Service, scene-based and cross-border consumption expanded simultaneously; Shenzhen border inspection projects average daily port passenger flows of 970,000 during the holiday. Guangdong province rolled out province-wide consumption campaigns with subsidies exceeding 10 bln yuan. Policy support for big-ticket purchases continued: new-energy vehicle purchase tax halved and car trade-in subsidies remain in place. At the five-day 2026 (18th) Shenzhen International Auto Show, attendance was about 420,000, with 14,759 vehicles booked and booked transaction value near 2.8 bln yuan."
-    },
-    {
-      "id": "te:markets:590009",
-      "time": "2026-10-07 10:27:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Pressured Near Multi-Month Lows — Platinum futures traded around $1,700 an ounce, near two-month lows as elevated oil prices and Treasury yields pressured the precious metals complex. Oil prices rebounded on persistent risks to Middle East supply, keeping inflation and interest-rate concerns in focus, while Treasury yields remained near multi-decade highs on persistent inflation, rising fiscal risks and elevated AI-related debt issuance. Meanwhile, markets are pricing in around an 80% chance that the Federal Reserve will leave rates unchanged this month following a weaker-than-expected labor market report. Platinum’s fundamentals also remain mixed, with WPIC forecasting industrial demand to rise 5% in 2026, partly driven by AI infrastructure, while automotive demand is expected to fall 4%, leaving a projected 265,000-ounce surplus. Over the longer term, the rapid build-out of AI infrastructure is expected to support demand."
     }
   ]
 }
