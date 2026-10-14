@@ -1,7 +1,142 @@
 {
-  "updated": "2026-10-14 21:17:08",
-  "count": 11797,
+  "updated": "2026-10-14 21:20:57",
+  "count": 11804,
   "items": [
+    {
+      "id": "mkt:01a13a92-611b-7ee0-a87e-0f2e857f69b8",
+      "time": "2026-10-14 21:20:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot gold fell below $4,080/oz, down 1.94% intraday."
+    },
+    {
+      "id": "mkt:01a13a92-3317-7ee0-a87e-01a3810ad071",
+      "time": "2026-10-14 21:20:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fitch: inflation report a red light for the Fed; end-of-month hike under discussion】Fitch US economics head Olu Sonora said the latest inflation report is a red‑light warning for the Fed. Energy inflation pushed the headline as expected, but the key problem is core inflation—particularly super‑core services inflation—remaining stuck above 3%. Higher energy costs are beginning to feed into broader services prices, raising the risk of a more persistent inflation surge. An end‑of‑month rate hike is now clearly under discussion, though December remains the more likely timing."
+    },
+    {
+      "id": "mkt:01a13a91-c3a4-7ee0-a87d-fc5e8e9b7d5e",
+      "time": "2026-10-14 21:19:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.AS",
+        "Impact mixed"
+      ],
+      "text": "ASML's CEO said the full impact of the company's equipment price increases will materialize in 2028."
+    },
+    {
+      "id": "mkt:01a13a91-9555-7ee0-a87d-f23ecccc4c20",
+      "time": "2026-10-14 21:19:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "UK energy minister said the government has received all information on the Jackdaw gas field and relevant departments have completed their reviews; a decision will be made shortly."
+    },
+    {
+      "id": "mkt:01a13a91-6e4b-7ee0-a87d-eeec096991d0",
+      "time": "2026-10-14 21:19:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK energy secretary says government will soon decide whether to approve development of the North Sea Jackdaw gas field."
+    },
+    {
+      "id": "5144969",
+      "time": "2026-10-14 21:18:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡西部24小時PSI達到“非常不健康”水平。"
+    },
+    {
+      "id": "5144968",
+      "time": "2026-10-14 21:18:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江豐電子：2026年10月14日董事會審議透過H股上市議案】江豐電子公告，公司擬發行境外上市股票（H股）並申請在香港聯合交易所有限公司主機板掛牌上市。2026年10月14日，公司董事會審議透過相關議案，目前正與相關中介機構商討本次發行上市工作，具體細節尚未確定，尚需提交股東會審議並取得相關批准、核准或備案。"
+    },
+    {
+      "id": "mkt:01a13a90-18b5-7ee0-a87d-e2e2276d5b14",
+      "time": "2026-10-14 21:18:04",
+      "tags": [
+        "MKT News",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML CEO says customers are requesting more semiconductor manufacturing equipment."
+    },
+    {
+      "id": "5144967",
+      "time": "2026-10-14 21:17:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Regan Capital首席投資官：美國通脹頑固，且正朝錯誤方向發展】Regan Capital首席投資官Skyler Weinand表示，美國最新通脹資料進一步表明價格壓力依然頑固，而且走勢正在惡化。他稱，“現在比以往任何時候都更清楚，通脹依然頑固，並且正朝錯誤的方向發展。”"
+    },
+    {
+      "id": "mkt:01a13a8f-82f0-7ee0-a87d-df6ccbf52cef",
+      "time": "2026-10-14 21:17:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed"
+      ],
+      "text": "UAE central bank governor said oil production capacity will support GDP growth."
+    },
+    {
+      "id": "5144966",
+      "time": "2026-10-14 21:17:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國陸軍國家模擬中心採購Omni One用於沉浸式士兵訓練。"
+    },
+    {
+      "id": "5144965",
+      "time": "2026-10-14 21:16:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿聯酋央行行長：石油產能將支撐GDP增長。"
+    },
+    {
+      "id": "5144964",
+      "time": "2026-10-14 21:16:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "Bending Spoons股價盤前上漲19%。"
+    },
+    {
+      "id": "5144963",
+      "time": "2026-10-14 21:15:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "阿聯酋央行行長表示，預計2026年GDP增長1.6%。"
+    },
     {
       "id": "mkt:01a13a8e-2158-7ee0-a87d-d19a7d0ed011",
       "time": "2026-10-14 21:15:55",
@@ -107219,63 +107354,6 @@
         "國際"
       ],
       "text": "【以軍稱近三年打擊中東約10萬個目標】以色列國防軍7日釋出資料稱，自2023年10月7日新一輪巴以衝突爆發以來，以軍已打擊中東多地約10萬個目標。以軍稱，這些目標中，約6.5萬個位於巴勒斯坦加沙地帶，約2.8萬個位於黎巴嫩和敘利亞，約4500個位於伊朗，約80個位於葉門。以軍釋出的資料還顯示，當前以軍預備役部隊規模相較三年前擴大了36%。此外，因“不斷變化的作戰需求”，2026年以軍作戰部隊預備役人員的年均服役時間將從年初計劃的約55天增至80到100天。自2024年8月以色列釋出徵召令後，已有約2.2萬名已退役人員被重新召回預備役部隊。（新華社）"
-    },
-    {
-      "id": "5130353",
-      "time": "2026-10-07 21:20:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油公司在巴西石油監管機構拍賣中購得南克魯賽羅區塊。"
-    },
-    {
-      "id": "5130352",
-      "time": "2026-10-07 21:19:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國慶假期廣州迎客1605萬人次】今天是國慶假期的最後一天。這個國慶長假，廣州統籌全市優質文旅資源，推出2000多場文旅活動，文旅市場供需兩旺、活力十足。 據統計，國慶假期，廣州全市累計接待遊客1605萬人次，實現文旅消費總額145億元，同口徑分別增長5.5%、5.9%。多家線上旅遊平臺資料顯示，廣州持續領跑國慶黃金週熱門旅遊目的地榜單。（廣州日報）"
-    },
-    {
-      "id": "5130351",
-      "time": "2026-10-07 21:18:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統候選人博索納羅：縮短工作周法案應在選舉後進行投票。"
-    },
-    {
-      "id": "5130350",
-      "time": "2026-10-07 21:17:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國檢察官：與“未成年裸照洩露”相關的3個網站已被關閉。"
-    },
-    {
-      "id": "5130349",
-      "time": "2026-10-07 21:17:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "惠廷頓投資集團：將收購博姿在英國和愛爾蘭的零售業務、博姿眼鏡零售業務、No7美妝公司，以及博姿在泰國業務和特許經營業務。"
-    },
-    {
-      "id": "5130348",
-      "time": "2026-10-07 21:17:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "Wittington Investments 將以 89 億美元（含債務）收購 Boots。"
-    },
-    {
-      "id": "5130347",
-      "time": "2026-10-07 21:17:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【成都東郊記憶數字光影藝術節總接待客流超百萬人次】10月7日晚間，成都發布官微訊息，國慶假期，東郊記憶2026成都國際數字光影藝術節總接待客流超100萬人次，商家消費營收超4500萬元，同比增長29.1%，園區整體銷售額同比增長9.9%。"
     }
   ]
 }
