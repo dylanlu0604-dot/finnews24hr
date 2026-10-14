@@ -1,7 +1,58 @@
 {
   "date": "2026-10-15",
-  "count": 390,
+  "count": 395,
   "items": [
+    {
+      "id": "mkt:01a13c7f-02de-7ee0-a886-8ec6fe9af4bc",
+      "time": "2026-10-15 06:18:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Anthropic reports Q3 revenue $16.8bn, adjusted profit and positive cash flow】Anthropic told investors Q3 revenue rose to $16.8bn, up nearly 50% from $11.5bn in Q2. The company said it was profitable on an adjusted basis for the quarter and generated positive cash flow. It identified chips and data-center costs as its largest expenses. The Claude model developer is seeking investor support ahead of a planned IPO widely expected to rank among the largest valuations on record."
+    },
+    {
+      "id": "mkt:01a13c7c-4cb1-7ee0-a886-81a2f5a8429c",
+      "time": "2026-10-15 06:15:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump on the inflation report: we are doing well at the moment."
+    },
+    {
+      "id": "mkt:01a13c7c-1fbe-7ee0-a886-7b50687c1513",
+      "time": "2026-10-15 06:15:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【N. Korea tests two types of submarine-launched strategic cruise missiles】KCNA reported on the 15th that the Missile General Bureau on the 14th fired two types of submarine-launched strategic cruise missiles into eastern waters. KCNA said the launches were intended to verify routine mobilization/readiness of underwater combat systems, strengthen the navy's ability to carry out strategic missions, and demonstrate the reliability and capability of its deterrent weapons."
+    },
+    {
+      "id": "5145611",
+      "time": "2026-10-15 06:15:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【朝鮮試射兩種潛射戰略巡航導彈】據朝中社15日報道，朝鮮導彈總局14日在朝鮮東部海域進行兩種潛射戰略巡航導彈試射。據報道，試射旨在檢查朝鮮水下戰鬥系統的常態化動員狀態，提升海軍執行戰略任務能力，並有效展示戰爭遏制手段的可靠性和能力。（新華社）"
+    },
+    {
+      "id": "te:markets:592070",
+      "time": "2026-10-15 06:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Drops by 0.67% — Top currency losers are Mexican Peso (-0.67%), Swedish Krona (-0.54%), British Pound (-0.46%) and Euro (-0.37%). Gains are led by Dollar Index (0.33%). Meanwhile Japanese Yen was little changed."
+    },
     {
       "id": "5145610",
       "time": "2026-10-15 06:14:25",
