@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-14 16:37:41",
+  "updated": "2026-10-14 16:41:30",
   "count": 11627,
   "items": [
+    {
+      "id": "5144157",
+      "time": "2026-10-14 16:40:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic與新加坡政府簽署人工智慧協作協議】Anthropic在一份宣告中表示，公司與新加坡政府簽署合作協議，將在人工智慧安全、安保、模型評估和研究等領域展開合作。根據Anthropic與新加坡數碼發展及新聞部達成的協議，雙方還將探索加強新加坡AI技能的方式，並分享研究成果和資料；協議金額未披露。公司在新加坡開設辦公室，這是該公司在亞太地區的第五個辦事地點。"
+    },
+    {
+      "id": "5144156",
+      "time": "2026-10-14 16:40:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "埃及鎊離岸市場匯率跌破1美元兌53埃及鎊。"
+    },
+    {
+      "id": "5144155",
+      "time": "2026-10-14 16:39:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL華星：t9產線增利超兩倍，正切入AI算力產業鏈】走進位於廣州黃埔的t9產線內部，21世紀經濟報道記者觀察到，裝載玻璃基板的載具由機械手臂取放，再經磁懸浮裝置和頂部自動運輸系統送往成膜、曝光、蝕刻等工序。車間內很少看到操作人員，高度的自動化生產構成了這座工廠最直觀的特點。t9產線設計產能為每月加工18萬片玻璃基板，2022年投產，2025年完成二期產量提升。公司公告顯示，t9產線的淨利潤由2024年的2.74億元增至2025年的11.58億元；2026年上半年進一步達到11.54億元。按公開資料測算，t9產線的淨利率由2025年的約7.2%升至今年上半年的約14.6%。據瞭解，盈利改善主要與良率提升、成本下降和產品結構變化有關。TCL科技公司相關負責人在現場交流中表示：“利潤改善主要與新客戶專案逐步投產、氧化物半導體顯示技術進步和產品結構調整有關，戴爾、聯想、惠普等品牌客戶的相關專案正在逐步增加出貨。”（21財經）"
+    },
+    {
+      "id": "mkt:01a13990-bf8a-7ee0-a874-f7ac735c3814",
+      "time": "2026-10-14 16:39:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "601633.SS",
+        "Impact bullish"
+      ],
+      "text": "【Great Wall Motor to push implementation of China-EU auto trade consultation consensus】Oct 14 — Great Wall Motor said the second round of China-EU trade and investment consultations produced multiple auto-trade related consensuses. The company welcomed the outcomes and will fully push for their implementation, continue its ecosystem international-expansion strategy, operate in compliance with law, and work with global partners."
+    },
+    {
+      "id": "5144154",
+      "time": "2026-10-14 16:37:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "凱傲集團<KGX.DE>股價下跌3.5%，此前該公司下調財年業績預期。"
+    },
+    {
+      "id": "5144153",
+      "time": "2026-10-14 16:37:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，日本首相高市將更換農林水產大臣柳田。"
+    },
+    {
+      "id": "mkt:01a1398f-4f08-7ee0-a874-ed88acf3f33c",
+      "time": "2026-10-14 16:37:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "601398.SS",
+        "Impact bullish"
+      ],
+      "text": "【ICBC A-share market value tops 3 tln yuan as stock hits record; bank convenes expert forum on reform】Industrial and Commercial Bank of China (ICBC) shares reached an intraday high of 8.54 yuan on Oct. 14, a record intraday price; at close ICBC’s A-share market capitalization exceeded 3 tln yuan. ICBC held an expert symposium where Li Yang, Jiang Xiaojuan, Wang Yiming, Xie Ping, Wu Xiaoqiu, Bai Chong'en and Wang Guogang discussed the economic and financial outlook, development of new productive forces, large-bank reform and offered recommendations for ICBC’s next-stage high-quality development."
+    },
+    {
+      "id": "te:markets:591850",
+      "time": "2026-10-14 16:37:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Gilt Yields Ease as Traders Scale Back Rate Hike Bets — The UK 10-year gilt yield fell below 5.4% as investors pared back expectations for Bank of England rate hikes. Chief Economist Huw Pill, one of the bank’s most hawkish policymakers, expressed skepticism over market pricing of four rate increases over the coming year. While arguing that the BoE should have acted sooner to address the energy shock triggered by the Iran war, he said stronger evidence was needed to justify a larger rate increase. Governor Andrew Bailey, however, warned that a rate hike would become increasingly difficult to avoid if the energy shock persists. Markets see a near-100% chance of a BoE rate hike in November, its first in over three years, while expectations for four 25-basis-point hikes by June 2027 have eased slightly. Meanwhile, the IMF has warned the UK government needs to explain how it will cover the cost of increased defense spending, as the country faces an additional annual bill of £11 billion to raise military spending to 3% of GDP by 2030."
+    },
     {
       "id": "5144152",
       "time": "2026-10-14 16:37:04",
@@ -105639,80 +105717,6 @@
         "市場"
       ],
       "text": "【恒生科技指數誕生6年編纂規則首次大規模調整：取消行業要求 成分股數量由30只擴至50只】恒生科技指數誕生近6年來首次進行大規模調整。成分股數量將由30只增加至50只，恒指公司將引入“雙軌”選股機制，以“市值”和“收入增長”兩項為準則，恒指公司表示，增長快的科技公司未必是市值最大的公司，40只成分股按市值規模納入，10只按過去12個月收入增速排名納入。此外，科指將取消行業要求。即各行業有一定科技濃度的公司均有機會被納入科指。恒指公司表示，各行業均有具備科技屬性的公司，科技發展已經跨越傳統行業限制。科指將有六大主題，分別為數碼平臺及解決方案、人工智慧、先進硬體、機器人和自動化，雲端、以及前沿科技。當中前沿科技為新增主題。科指11月20日公佈檢討結果，修訂將在今年12月7日生效。"
-    },
-    {
-      "id": "mkt:01a11586-22de-7ee0-a7d1-4a7aef3bd7d5",
-      "time": "2026-10-07 16:41:14",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Indexes Company announced the results of a consultation: the Hang Seng TECH Index will expand its constituent count to 50."
-    },
-    {
-      "id": "te:economy:590136",
-      "time": "2026-10-07 16:41:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Taiwan Inflation Hits 31-Month High — Taiwan’s annual inflation rate rose to 2.7% in September 2026 from 2.05% in the previous month. It marked the highest level since February 2024 and the fifth consecutive month above the central bank’s 2% target, as food prices accelerated sharply, advancing to a one-year high of 2.64% from 0.77% in August. Inflation also climbed for transportation and communication (4.07% vs 2.79%), as well as clothing (2.32% vs 2.09%), housing (2.38% vs 2.31%), and healthcare (0.70% vs 0.57%). Meanwhile, price growth moderated slightly in education and entertainment (3.15% vs 3.22%), and miscellaneous goods and services (2.77% vs 2.81%). On a seasonally adjusted monthly basis, consumer prices eased to 0.13% from 0.19% in August, marking the lowest reading since November 2025."
-    },
-    {
-      "id": "mkt:01a11585-bf6d-7ee0-a7d1-45dfb02a2560",
-      "time": "2026-10-07 16:40:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Greece's foreign minister said Greece will cooperate with the United States on maritime assistance in the Strait of Hormuz if necessary."
-    },
-    {
-      "id": "5129885",
-      "time": "2026-10-07 16:40:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯2026年軍費開支將在增加600億美元后創下紀錄。"
-    },
-    {
-      "id": "5129884",
-      "time": "2026-10-07 16:40:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "希臘外交部長表示：如有必要，希臘將與美國就霍爾木茲海峽海上援助事宜開展合作。"
-    },
-    {
-      "id": "5129883",
-      "time": "2026-10-07 16:39:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "恒生指數公司宣佈恒生科技指數諮詢結果，恒生科技指數將把成分股擴充至50只。"
-    },
-    {
-      "id": "5129882",
-      "time": "2026-10-07 16:39:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度電廠煤炭庫存接近五年低位 大範圍停電風險上升】印度電站煤炭庫存接近五年低點，佔全國火電裝機超 40% 的電廠煤炭儲備僅夠維持 4 天甚至更短時間，該水平推高大面積停電風險。截至 10 月 4 日，約 69 家電廠（超過印度火電總量的五分之二）燃料儲備僅可支撐 4 天及以內，這也是電廠運營方劃定的最低警戒水平。該庫存為 2021 年 12 月以來最低。彼時疫情後工業復甦消耗存量，印度及區域其他主要能源消費國遭遇能源危機。"
-    },
-    {
-      "id": "mkt:01a11582-fda2-7ee0-a7d1-3f0a55eb3d5b",
-      "time": "2026-10-07 16:37:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Greece's foreign minister said Greece can provide security in the region thanks to its military capabilities."
     }
   ]
 }

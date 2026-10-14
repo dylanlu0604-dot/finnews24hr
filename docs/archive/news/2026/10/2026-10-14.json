@@ -1,7 +1,85 @@
 {
   "date": "2026-10-14",
-  "count": 1664,
+  "count": 1672,
   "items": [
+    {
+      "id": "5144157",
+      "time": "2026-10-14 16:40:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic與新加坡政府簽署人工智慧協作協議】Anthropic在一份宣告中表示，公司與新加坡政府簽署合作協議，將在人工智慧安全、安保、模型評估和研究等領域展開合作。根據Anthropic與新加坡數碼發展及新聞部達成的協議，雙方還將探索加強新加坡AI技能的方式，並分享研究成果和資料；協議金額未披露。公司在新加坡開設辦公室，這是該公司在亞太地區的第五個辦事地點。"
+    },
+    {
+      "id": "5144156",
+      "time": "2026-10-14 16:40:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "埃及鎊離岸市場匯率跌破1美元兌53埃及鎊。"
+    },
+    {
+      "id": "5144155",
+      "time": "2026-10-14 16:39:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL華星：t9產線增利超兩倍，正切入AI算力產業鏈】走進位於廣州黃埔的t9產線內部，21世紀經濟報道記者觀察到，裝載玻璃基板的載具由機械手臂取放，再經磁懸浮裝置和頂部自動運輸系統送往成膜、曝光、蝕刻等工序。車間內很少看到操作人員，高度的自動化生產構成了這座工廠最直觀的特點。t9產線設計產能為每月加工18萬片玻璃基板，2022年投產，2025年完成二期產量提升。公司公告顯示，t9產線的淨利潤由2024年的2.74億元增至2025年的11.58億元；2026年上半年進一步達到11.54億元。按公開資料測算，t9產線的淨利率由2025年的約7.2%升至今年上半年的約14.6%。據瞭解，盈利改善主要與良率提升、成本下降和產品結構變化有關。TCL科技公司相關負責人在現場交流中表示：“利潤改善主要與新客戶專案逐步投產、氧化物半導體顯示技術進步和產品結構調整有關，戴爾、聯想、惠普等品牌客戶的相關專案正在逐步增加出貨。”（21財經）"
+    },
+    {
+      "id": "mkt:01a13990-bf8a-7ee0-a874-f7ac735c3814",
+      "time": "2026-10-14 16:39:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "601633.SS",
+        "Impact bullish"
+      ],
+      "text": "【Great Wall Motor to push implementation of China-EU auto trade consultation consensus】Oct 14 — Great Wall Motor said the second round of China-EU trade and investment consultations produced multiple auto-trade related consensuses. The company welcomed the outcomes and will fully push for their implementation, continue its ecosystem international-expansion strategy, operate in compliance with law, and work with global partners."
+    },
+    {
+      "id": "5144154",
+      "time": "2026-10-14 16:37:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "凱傲集團<KGX.DE>股價下跌3.5%，此前該公司下調財年業績預期。"
+    },
+    {
+      "id": "5144153",
+      "time": "2026-10-14 16:37:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，日本首相高市將更換農林水產大臣柳田。"
+    },
+    {
+      "id": "mkt:01a1398f-4f08-7ee0-a874-ed88acf3f33c",
+      "time": "2026-10-14 16:37:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "601398.SS",
+        "Impact bullish"
+      ],
+      "text": "【ICBC A-share market value tops 3 tln yuan as stock hits record; bank convenes expert forum on reform】Industrial and Commercial Bank of China (ICBC) shares reached an intraday high of 8.54 yuan on Oct. 14, a record intraday price; at close ICBC’s A-share market capitalization exceeded 3 tln yuan. ICBC held an expert symposium where Li Yang, Jiang Xiaojuan, Wang Yiming, Xie Ping, Wu Xiaoqiu, Bai Chong'en and Wang Guogang discussed the economic and financial outlook, development of new productive forces, large-bank reform and offered recommendations for ICBC’s next-stage high-quality development."
+    },
+    {
+      "id": "te:markets:591850",
+      "time": "2026-10-14 16:37:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Gilt Yields Ease as Traders Scale Back Rate Hike Bets — The UK 10-year gilt yield fell below 5.4% as investors pared back expectations for Bank of England rate hikes. Chief Economist Huw Pill, one of the bank’s most hawkish policymakers, expressed skepticism over market pricing of four rate increases over the coming year. While arguing that the BoE should have acted sooner to address the energy shock triggered by the Iran war, he said stronger evidence was needed to justify a larger rate increase. Governor Andrew Bailey, however, warned that a rate hike would become increasingly difficult to avoid if the energy shock persists. Markets see a near-100% chance of a BoE rate hike in November, its first in over three years, while expectations for four 25-basis-point hikes by June 2027 have eased slightly. Meanwhile, the IMF has warned the UK government needs to explain how it will cover the cost of increased defense spending, as the country faces an additional annual bill of £11 billion to raise military spending to 3% of GDP by 2030."
+    },
     {
       "id": "5144152",
       "time": "2026-10-14 16:37:04",
