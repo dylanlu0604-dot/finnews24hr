@@ -1,7 +1,72 @@
 {
-  "updated": "2026-10-14 22:08:05",
-  "count": 11897,
+  "updated": "2026-10-14 22:12:01",
+  "count": 11899,
   "items": [
+    {
+      "id": "mkt:01a13ac0-e714-7ee0-a87f-af4a34501458",
+      "time": "2026-10-14 22:11:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico will require digital platforms to shield minors from violent and pornographic content and will give platforms one month to comply with the decree. The president said the government will propose legislation to penalize platforms that fail to comply."
+    },
+    {
+      "id": "5145078",
+      "time": "2026-10-14 22:10:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統表示，如果法令未得到遵守，政府將提交法案，對平臺實施處罰。"
+    },
+    {
+      "id": "5145077",
+      "time": "2026-10-14 22:10:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英特爾在以色列工廠發生爆炸 至少2人受傷】美國晶片製造商英特爾公司位於以色列南部加特鎮的工廠當天發生爆炸，造成至少2人受傷。初步調查顯示，起火原因疑似為氣體鋼瓶發生爆炸。目前以方正在進行進一步調查。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a13abf-9317-7ee0-a87f-a55d6a12ca68",
+      "time": "2026-10-14 22:09:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury lifts sanctions on leaders of Venezuela's National Assembly."
+    },
+    {
+      "id": "5145076",
+      "time": "2026-10-14 22:09:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北省秦皇島市釋出冰雹橙色預警訊號】河北秦皇島市氣象臺2026年10月14日21時41分發布冰雹橙色預警訊號：預計未來3小時，秦皇島市盧龍縣北部、撫寧區中北部、海港區、北戴河區、山海關區及沿岸海域有強對流天氣，個別地點有冰雹，請注意防範。"
+    },
+    {
+      "id": "5145075",
+      "time": "2026-10-14 22:09:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑芝麻智慧：集團AI計算伺服器首批訂單簽訂】10月14日晚，黑芝麻智慧在港交所公告，近期公司全資附屬公司黑芝麻智慧科技有限公司與一家A股上市公司簽訂銷售及技術開發合同。銷售合同總金額為約人民幣3億元。其中，自合同簽訂一年內，預計採購以集團高效能AI晶片為核心的AI計算伺服器整機產品約人民幣2.5億元。銷售合同是集團AI計算伺服器的首批訂單。"
+    },
+    {
+      "id": "mkt:01a13abe-ddc9-7ee0-a87f-9edf6af7d006",
+      "time": "2026-10-14 22:09:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EASA advised airlines to factor potential risks into flight planning and operations when operating in Jordanian airspace."
+    },
+    {
+      "id": "5145074",
+      "time": "2026-10-14 22:09:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞將於11月接待國際貨幣基金組織代表團。"
+    },
     {
       "id": "5145073",
       "time": "2026-10-14 22:07:24",
@@ -108284,59 +108349,6 @@
         "Importance 0"
       ],
       "text": "Swiss Franc Weakens as Dollar Gains on Fed Outlook — The Swiss franc weakened to 0.83 per USD as investors favored the greenback amid expectations that the Federal Reserve will maintain a tighter policy stance, while the Swiss National Bank is widely expected to keep rates unchanged. Although weaker-than-expected US jobs data reduced expectations of a Fed hike this month, markets still anticipate another increase in December and at least one more in early 2027. Meanwhile, economists expect the SNB to keep its policy rate at 0% over the coming years, despite markets pricing in up to three hikes next year. Swiss inflation rose to 1.0% in September, driven by higher energy costs and reaching the midpoint of the SNB’s target range. However, safe-haven demand for the franc, amid higher oil prices and French fiscal concerns, is expected to limit imported inflation and keep core inflation subdued. The franc also benefits from Switzerland’s current-account and budget surpluses, a credible central bank, and a highly liquid currency market."
-    },
-    {
-      "id": "5130427",
-      "time": "2026-10-07 22:11:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "卡特彼勒（Caterpillar）股價下跌逾5%，為道瓊斯工業平均指數中跌幅最大的股票。"
-    },
-    {
-      "id": "5130426",
-      "time": "2026-10-07 22:11:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "保時捷首席財務官：暫無股票回購計劃。"
-    },
-    {
-      "id": "5130425",
-      "time": "2026-10-07 22:11:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約州州長：紐約地鐵新閘機試點專案使逃票率下降了35%。"
-    },
-    {
-      "id": "5130424",
-      "time": "2026-10-07 22:09:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【特斯拉Optimus前AI負責人創辦企業研發非人形機器人】兩名直接知情人士透露，特斯拉Optimus人形機器人前AI負責人阿希什·庫馬爾聯合創辦了一家初創企業，研發非人形機器人。這類機器人可承接製造業、航空航天等行業原本需要高階技術工人完成的各類作業。這家位於舊金山的初創公司名為Intelligent Machines，已招攬數名特斯拉Optimus團隊前成員，目前正在進行種子輪融資，融資金額有望達到約1億美元。Intelligent Machines現階段重心是機器人軟體開發，但其管理層也在探討自研硬體。兩名知情人士稱，該公司採用強化學習技術訓練機器人：達成目標給予獎勵，錯誤動作施加懲罰，以此教會機器人執行復雜任務。（庫馬爾在加州大學伯克利分校的博士研究方向正是強化學習。）"
-    },
-    {
-      "id": "te:economy:590227",
-      "time": "2026-10-07 22:08:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "National Bank of Poland Holds Rate Steady — The National Bank of Poland left its reference policy rate unchanged at 3.75% at its October 2026 meeting, in line with expectations, marking the sixth consecutive meeting with rates at their lowest level since 2022. The decision came as government measures aimed at reducing fuel prices at the pump gave policymakers additional room to assess the inflation outlook. Still, headline inflation remains elevated, having accelerated to 4% in September due to higher fuel prices for private vehicles and reaching above the upper limit of the central bank's target of 2.5±1%. Policymakers highlighted uncertainty surrounding inflation and global activity, particularly the Middle East conflict, while other risks also include fiscal policy, energy price regulations, domestic activity and wage dynamics. The NBP also signaled it may intervene in the foreign exchange market."
-    },
-    {
-      "id": "5130423",
-      "time": "2026-10-07 22:08:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "伊朗港口和海事組織執行長表示：海運佔伊朗對外貿易的90%。"
     }
   ]
 }
