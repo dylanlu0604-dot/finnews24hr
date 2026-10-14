@@ -1,7 +1,77 @@
 {
-  "updated": "2026-10-14 08:14:38",
+  "updated": "2026-10-14 08:18:21",
   "count": 11041,
   "items": [
+    {
+      "id": "5143266",
+      "time": "2026-10-14 08:17:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福建省委書記趙龍主持召開企業座談會】據福建日報，10月13日，福建省委書記趙龍主持召開企業座談會，面對面聽取企業家對當前經濟形勢的分析判斷和對下一步全省經濟工作的意見建議。會上，聖農發展、寧德時代、安踏體育、福耀玻璃、青拓集團、華峰華錦、九牧廚衛、盼盼食品、特寶生物、易控智駕、漢特雲、晶旭半導體、興業銀行等13家來自不同行業領域的代表性企業負責人，圍繞強化創新驅動、促進綠色低碳轉型、最佳化營商環境、加強人才引育、培育產業叢集、助力企業出海、加大金融支援等方面積極建言獻策。趙龍認真聽取發言，與大家深入交流探討，要求相關部門逐項梳理、研究吸納，推動意見建議更好轉化落地。他表示，省委省政府將一如既往關心支援企業發展，一如既往全力以赴拼經濟，一如既往抓好營商環境，促進各類企業近悅遠來、茁壯成長。"
+    },
+    {
+      "id": "mkt:01a137c5-0960-7ee0-a864-0341c569f4cb",
+      "time": "2026-10-14 08:17:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Microsoft (MSFT.O): Azure management has not instructed teams to develop cost-cutting plans."
+    },
+    {
+      "id": "5143265",
+      "time": "2026-10-14 08:16:29",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "三星電子引領韓國晶片股反彈，三星電子股價早盤上漲3.7%，至240,500韓元。 SK海力士股價早盤上漲2.4%，至1,477,000韓元。"
+    },
+    {
+      "id": "mkt:01a137c3-b192-7ee0-a863-faa15a673c5e",
+      "time": "2026-10-14 08:15:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran deputy foreign minister says renewed US aggression would have consequences beyond region】Iran’s deputy foreign minister said on the 13th that renewed US military aggression against Iran would have consequences extending beyond the region, warning that resorting to force or threats could trigger effects far outside the Middle East. He said Washington must decide its course and that Iran remains constructive on diplomacy and negotiations while preparing for all contingencies."
+    },
+    {
+      "id": "te:economy:591633",
+      "time": "2026-10-14 08:15:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Singapore Holds Monetary Policy After Two Tightenings — The Monetary Authority of Singapore (MAS) left monetary policy unchanged on Wednesday, pausing after two tightenings earlier this year. The central bank maintained the rate of appreciation of the Singapore dollar nominal effective exchange rate (S$NEER) band, along with its width and midpoint. MAS expects firm near-term growth before moderating as the AI cycle cools and global financial conditions tighten. Meanwhile, core inflation is projected to ease from mid-2027 as imported cost pressures fade and domestic inflation stays subdued. The board narrowed its 2026 core inflation forecast to 1.5–2.0% and sees headline inflation around 2.0%; for 2027, both measures are expected to average 1.5–2.5%. The authority raised the policy band’s slope in April, its first tightening since 2022, as Middle East conflict-driven energy costs lifted imports, and tightened again in July by a smaller margin."
+    },
+    {
+      "id": "te:markets:591632",
+      "time": "2026-10-14 08:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Recruit Holdings Shares Hit All-time High — Recruit Holdings shares increased to an all-time high of 18310.00 JPY. Over the past 4 weeks, Recruit Holdings gained 9.31%, and in the last 12 months, it increased 125.36%."
+    },
+    {
+      "id": "5143264",
+      "time": "2026-10-14 08:14:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【香港證監會擬加強IPO及上市後監管】10月12日，香港證監會發表諮詢總結，表示將修訂《證券及期貨（在證券市場上市）規則》（以下簡稱《證券市場上市規則》），推出針對性的工具以打擊首次公開招股（IPO）相關的失當行為及其他企業失當行為，以提升香港上市市場的監管效率及投資者保障。相關修訂預計將於2027年第一季度生效。本次改革擬重點加強對企業上市後的監管，包括在IPO階段提出的約束條件，可延續至企業上市之後持續執行；當企業出現資訊披露不足、不當行為等三類法定情形時，監管機構可先行施加整改條件，企業拒不執行再啟動停牌程式；增設專門適用於上市監管場景的上市後資料調取法定機制。（證券時報）"
+    },
     {
       "id": "5143263",
       "time": "2026-10-14 08:13:52",
@@ -100106,67 +100176,6 @@
         "國際"
       ],
       "text": "【日本東證指數升破歷史最高收盤水平】受美股上漲帶動，日本東證指數最高上漲0.4%，觸及4201.34點，超過8月14日創下的4197.20點歷史收盤紀錄。日經225指數基本持平。隔夜標普500指數收盤創歷史新高，得益於企業盈利韌性以及人工智慧相關支出前景向好。"
-    },
-    {
-      "id": "5129266",
-      "time": "2026-10-07 08:17:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【厄瓜多遭強降雨襲擊 超1.5萬人受災】受厄爾尼諾現象影響，厄瓜多正遭遇嚴重極端天氣。連日來，該國持續遭強降雨襲擊，全國24個省中已有21個出現洪水、內澇和山體滑坡等災害，超過1.5萬人受災。最新統計顯示，自8月29日厄瓜多針對厄爾尼諾現象釋出紅色警報以來，該國已報告200多起相關災害事件。目前，該國有超過1.5萬人受災，其中，西北部埃斯梅拉達斯省受災最為嚴重。該省已有7條河流發生洪水，另有13條河流水位仍呈上漲趨勢。"
-    },
-    {
-      "id": "5129265",
-      "time": "2026-10-07 08:16:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌0.4%，德國DAX指數期貨下跌0.4%，富時指數期貨持平。"
-    },
-    {
-      "id": "te:markets:589978",
-      "time": "2026-10-07 08:16:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Shares Pause After Three-Day Rise — Australian shares were little changed, hovering around 8,731 in early deals on Wednesday after gaining in the prior three sessions. Retail trade, industrial services, and consumer durables provided modest support, but weakness in tech and financials kept the index flat. Traders digested September industry updates showing a sharp drop in construction output and further weakness in manufacturing, while awaiting August building permit figures later today and October inflation expectations in coming days. U.S. futures were subdued after Wall Street closed at fresh record highs overnight, buoyed by easing Treasury yields and optimism around AI-driven earnings. China’s markets remain shut and will reopen Thursday. Among local movers, Northern Star Resources jumped 3.4%, Evolution Mining rose 2.0%, Capricorn Metals gained 2.6%, and Perseus Mining added 2.3%. Meanwhile, three of the four big banks slipped between 0.3% and 0.8%, BHP fell 0.7%, and Rio Tinto dropped 0.6%."
-    },
-    {
-      "id": "5129264",
-      "time": "2026-10-07 08:16:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星：首批支援車型為部分 2026 及 2027 款凱迪拉克電動車型。"
-    },
-    {
-      "id": "5129263",
-      "time": "2026-10-07 08:16:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今日37個高速公路路段易發擁堵 主要集中在江蘇河北等地】今天是國慶假期最後一天，不少人將踏上返程。記者從交通運輸部瞭解到，根據動態研判，今天（7日）全國高速公路有37個路段易發擁堵，主要集中在江蘇、河北、安徽、廣東、山東等省份。全國高速公路預計有58個服務區充電特別繁忙，主要集中在河北、湖南、安徽等省份，大家可透過“e路暢通”微信小程式查詢服務區充電樁執行狀態。"
-    },
-    {
-      "id": "5129262",
-      "time": "2026-10-07 08:15:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星錢包現已支援部分通用汽車車型的數字車鑰匙。"
-    },
-    {
-      "id": "5129261",
-      "time": "2026-10-07 08:14:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "上季度中國臺灣加權指數跑贏韓國綜合股價指數約23個百分點，盈利預期上調幅度也自2025年3月以來首次超過韓國同行。美國銀行上月調查的基金經理中，約40%表示超配中國臺灣股市，而超配韓國股市的基金經理僅佔25%。"
     }
   ]
 }

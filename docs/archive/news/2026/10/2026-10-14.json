@@ -1,7 +1,77 @@
 {
   "date": "2026-10-14",
-  "count": 549,
+  "count": 556,
   "items": [
+    {
+      "id": "5143266",
+      "time": "2026-10-14 08:17:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福建省委書記趙龍主持召開企業座談會】據福建日報，10月13日，福建省委書記趙龍主持召開企業座談會，面對面聽取企業家對當前經濟形勢的分析判斷和對下一步全省經濟工作的意見建議。會上，聖農發展、寧德時代、安踏體育、福耀玻璃、青拓集團、華峰華錦、九牧廚衛、盼盼食品、特寶生物、易控智駕、漢特雲、晶旭半導體、興業銀行等13家來自不同行業領域的代表性企業負責人，圍繞強化創新驅動、促進綠色低碳轉型、最佳化營商環境、加強人才引育、培育產業叢集、助力企業出海、加大金融支援等方面積極建言獻策。趙龍認真聽取發言，與大家深入交流探討，要求相關部門逐項梳理、研究吸納，推動意見建議更好轉化落地。他表示，省委省政府將一如既往關心支援企業發展，一如既往全力以赴拼經濟，一如既往抓好營商環境，促進各類企業近悅遠來、茁壯成長。"
+    },
+    {
+      "id": "mkt:01a137c5-0960-7ee0-a864-0341c569f4cb",
+      "time": "2026-10-14 08:17:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Microsoft (MSFT.O): Azure management has not instructed teams to develop cost-cutting plans."
+    },
+    {
+      "id": "5143265",
+      "time": "2026-10-14 08:16:29",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "三星電子引領韓國晶片股反彈，三星電子股價早盤上漲3.7%，至240,500韓元。 SK海力士股價早盤上漲2.4%，至1,477,000韓元。"
+    },
+    {
+      "id": "mkt:01a137c3-b192-7ee0-a863-faa15a673c5e",
+      "time": "2026-10-14 08:15:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran deputy foreign minister says renewed US aggression would have consequences beyond region】Iran’s deputy foreign minister said on the 13th that renewed US military aggression against Iran would have consequences extending beyond the region, warning that resorting to force or threats could trigger effects far outside the Middle East. He said Washington must decide its course and that Iran remains constructive on diplomacy and negotiations while preparing for all contingencies."
+    },
+    {
+      "id": "te:economy:591633",
+      "time": "2026-10-14 08:15:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Singapore Holds Monetary Policy After Two Tightenings — The Monetary Authority of Singapore (MAS) left monetary policy unchanged on Wednesday, pausing after two tightenings earlier this year. The central bank maintained the rate of appreciation of the Singapore dollar nominal effective exchange rate (S$NEER) band, along with its width and midpoint. MAS expects firm near-term growth before moderating as the AI cycle cools and global financial conditions tighten. Meanwhile, core inflation is projected to ease from mid-2027 as imported cost pressures fade and domestic inflation stays subdued. The board narrowed its 2026 core inflation forecast to 1.5–2.0% and sees headline inflation around 2.0%; for 2027, both measures are expected to average 1.5–2.5%. The authority raised the policy band’s slope in April, its first tightening since 2022, as Middle East conflict-driven energy costs lifted imports, and tightened again in July by a smaller margin."
+    },
+    {
+      "id": "te:markets:591632",
+      "time": "2026-10-14 08:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Recruit Holdings Shares Hit All-time High — Recruit Holdings shares increased to an all-time high of 18310.00 JPY. Over the past 4 weeks, Recruit Holdings gained 9.31%, and in the last 12 months, it increased 125.36%."
+    },
+    {
+      "id": "5143264",
+      "time": "2026-10-14 08:14:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【香港證監會擬加強IPO及上市後監管】10月12日，香港證監會發表諮詢總結，表示將修訂《證券及期貨（在證券市場上市）規則》（以下簡稱《證券市場上市規則》），推出針對性的工具以打擊首次公開招股（IPO）相關的失當行為及其他企業失當行為，以提升香港上市市場的監管效率及投資者保障。相關修訂預計將於2027年第一季度生效。本次改革擬重點加強對企業上市後的監管，包括在IPO階段提出的約束條件，可延續至企業上市之後持續執行；當企業出現資訊披露不足、不當行為等三類法定情形時，監管機構可先行施加整改條件，企業拒不執行再啟動停牌程式；增設專門適用於上市監管場景的上市後資料調取法定機制。（證券時報）"
+    },
     {
       "id": "5143263",
       "time": "2026-10-14 08:13:52",
