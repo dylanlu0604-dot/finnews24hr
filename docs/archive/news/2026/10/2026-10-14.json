@@ -1,7 +1,306 @@
 {
   "date": "2026-10-14",
-  "count": 1736,
+  "count": 1765,
   "items": [
+    {
+      "id": "5144223",
+      "time": "2026-10-14 17:04:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：國家外匯儲備餘額3.4萬億美元】9月末，國家外匯儲備餘額3.4萬億美元。9月末，人民幣匯率為1美元兌6.7351元人民幣。"
+    },
+    {
+      "id": "5144222",
+      "time": "2026-10-14 17:04:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國人民銀行： 9月份銀行間人民幣市場同業拆借月加權平均利率為1.4%，質押式債券回購月加權平均利率為1.4% 】前三季度銀行間人民幣市場以拆借、現券和回購方式合計成交1713.26萬億元，日均成交9.21萬億元，日均成交同比增長7.6%。其中，同業拆借日均成交同比增長9.6%，現券日均成交同比增長4%，質押式回購日均成交同比增長8.1%。9月份同業拆借加權平均利率為1.4%，比上月高0.02個百分點，比上年同期低0.05個百分點；質押式回購加權平均利率為1.4%，與上月持平，比上年同期低0.06個百分點。"
+    },
+    {
+      "id": "mkt:01a139a7-417b-7ee0-a875-cfa680bfa701",
+      "time": "2026-10-14 17:03:44",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China total social financing (year‑to‑date through September) 27.46 trillion yuan, vs. 27.25 trillion expected and 23.91 trillion prior."
+    },
+    {
+      "id": "mkt:01a139a7-1265-7ee0-a875-c1578a7d1fa2",
+      "time": "2026-10-14 17:03:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Aggregate financing flows to the real economy YTD (Sep) | actual 27460000000000B | consensus 27250500000000B | previous 23910000000000B"
+    },
+    {
+      "id": "mkt:01a139a7-0066-7ee0-a875-ba184047080d",
+      "time": "2026-10-14 17:03:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "China YTD new yuan loans through September: 11.52 tln yuan; expected 11.465 tln; prior 10.44 tln."
+    },
+    {
+      "id": "5144221",
+      "time": "2026-10-14 17:03:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國競爭與市場管理局（CMA）因誤導性銷售策略對多家企業處以600萬英鎊罰款。"
+    },
+    {
+      "id": "mkt:01a139a6-d977-7ee0-a875-b556b8f3829b",
+      "time": "2026-10-14 17:03:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | New renminbi loans YTD (Sep) | actual 11520000000000B | consensus 11465000000000B | previous 10440000000000B"
+    },
+    {
+      "id": "mkt:01a139a6-9ac1-7ee0-a875-aeaaaa84ff71",
+      "time": "2026-10-14 17:03:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Semafor: White House weighing halt to U.S. intelligence sharing with Ukraine; CIA director opposes】Semafor reports the White House is actively discussing suspending U.S. intelligence sharing with Ukraine, but officials have not reached a decision. President Trump told reporters yesterday the U.S. is still sharing intelligence and said “we are helping them,” while stressing his goal to end Russia’s long-running action in Ukraine. A Trump administration official said Trump is “very angry” and could order a halt, though the official suggested any cutoff be limited to intelligence used to strike targets inside Russia. CIA Director Ratcliffe is reported to oppose stopping the sharing. Last year Trump briefly suspended intelligence cooperation after a tense Oval Office meeting with Zelenskiy; Zelenskiy recently said Ukraine received no partner intelligence during a recent Russian missile attack."
+    },
+    {
+      "id": "mkt:01a139a6-356c-7ee0-a875-a685185ca26a",
+      "time": "2026-10-14 17:02:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China September M0 (narrow money) YoY 10.6% vs 11.2% previously."
+    },
+    {
+      "id": "mkt:01a139a6-1900-7ee0-a875-9dd4f8c0f51a",
+      "time": "2026-10-14 17:02:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M0 Money Supply (YoY) (Sep) | actual 10.6% | previous 11.2%"
+    },
+    {
+      "id": "mkt:01a139a6-0ef7-7ee0-a875-97dfff6e7f76",
+      "time": "2026-10-14 17:02:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China M1 money supply YoY 3.2% in September, down from 4.1% previously."
+    },
+    {
+      "id": "5144220",
+      "time": "2026-10-14 17:02:22",
+      "tags": [
+        "央行",
+        "焦點"
+      ],
+      "text": "【央行：前三季度人民幣存款增加20.76萬億元】9月末，本外幣存款餘額357.52萬億元，同比增長7.6%。月末人民幣存款餘額349.45萬億元，同比增長7.5%。\n\n前三季度人民幣存款增加20.76萬億元。其中，住戶存款增加9.39萬億元，非金融企業存款增加3.16萬億元，財政性存款增加1.63萬億元，非銀行業金融機構存款增加4.41萬億元。\n\n9月末，外幣存款餘額1.2萬億美元，同比增長17.7%。前三季度外幣存款增加1394億美元。"
+    },
+    {
+      "id": "mkt:01a139a5-f59d-7ee0-a875-8b2690e1d8a4",
+      "time": "2026-10-14 17:02:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M1 Money Supply (YoY) (Sep) | actual 3.2% | previous 4.1%"
+    },
+    {
+      "id": "mkt:01a139a5-e1f9-7ee0-a875-87e65e440215",
+      "time": "2026-10-14 17:02:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC data show total deposits (domestic and foreign-currency) at end-September were 357.52 tln yuan, up 7.6% YoY; RMB deposits were 349.45 tln yuan, up 7.5% YoY. Total loans (domestic and foreign-currency) at end-September were 287.29 tln yuan, up 4.7% YoY; RMB loans were 283.44 tln yuan, up 4.8% YoY."
+    },
+    {
+      "id": "mkt:01a139a5-a7ae-7ee0-a875-7fbc59e60fab",
+      "time": "2026-10-14 17:01:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "China September M2 YoY 7.2% (consensus 7.4%; August 7.5%)."
+    },
+    {
+      "id": "mkt:01a139a5-9e3d-7ee0-a875-7640f5988fb8",
+      "time": "2026-10-14 17:01:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "PBOC: At end-September broad money (M2) stood at 359.63 tln yuan, up 7.2% YoY; narrow money (M1) was 116.76 tln yuan, up 3.2% YoY; currency in circulation (M0) was 15.02 tln yuan, up 10.6% YoY. Net cash injected in the first three quarters totaled 922.1 bln yuan."
+    },
+    {
+      "id": "mkt:01a139a5-8ff2-7ee0-a875-6a282eb004f5",
+      "time": "2026-10-14 17:01:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M2 Money Supply (YoY) (Sep) | actual 7.2% | consensus 7.4% | previous 7.5%"
+    },
+    {
+      "id": "5144219",
+      "time": "2026-10-14 17:01:52",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "【中國人民銀行：10月15日起將開展7000億元買斷式逆回購操作】中國人民銀行：為保持銀行體系流動性充裕，2026年10月15日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展7000億元買斷式逆回購操作，期限為6個月（182天），到期日為2027年4月15日（遇節假日順延）。"
+    },
+    {
+      "id": "5144218",
+      "time": "2026-10-14 17:01:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【崇達技術：預計2026年前三季度歸母淨利潤同比增長89.73%～118.43%】崇達技術公告，預計2026年前三季度歸母淨利潤為5.95億元～6.85億元，上年同期為3.14億元；扣非淨利潤預計為5.85億元～6.75億元，上年同期為3.11億元，預計同比增長88.11%～117.05%。公司稱，客戶及訂單結構進一步最佳化，高階產品出貨佔比提升，產品盈利能力修復；產能利用充足、良率改善及成本管控等共同推動本期營收及歸母淨利潤增長。"
+    },
+    {
+      "id": "mkt:01a139a5-6360-7ee0-a875-6323fa740730",
+      "time": "2026-10-14 17:01:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "People's Bank of China (PBOC) will conduct a CNY700bln 6‑month (182‑day) outright reverse repo on Oct 15, 2026 via a fixed‑quantity, rate tender with multiple‑price allocations; maturity Apr 15, 2027 (postponed if a holiday). The operation is aimed at keeping banking‑system liquidity ample."
+    },
+    {
+      "id": "5144217",
+      "time": "2026-10-14 17:01:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：9月M2餘額359.63萬億元，同比增長7.2%】央行資料顯示，9月末廣義貨幣（M2）餘額359.63萬億元，同比增長7.2%。2026年前三季度社會融資規模增量累計27.46萬億元，比上年同期少2.63萬億元。前三季度人民幣貸款增加11.52萬億元。前三季度人民幣存款增加20.76萬億元。"
+    },
+    {
+      "id": "mkt:01a139a5-2a02-7ee0-a875-5e670a152607",
+      "time": "2026-10-14 17:01:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "PBOC preliminary data: cumulative new social financing in Jan–Sep 2026 totaled 27.46 trillion yuan, down 2.63 trillion yuan y/y."
+    },
+    {
+      "id": "em:qqyh_zgyh:202610143895517426",
+      "time": "2026-10-14 17:01:22",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "中國人民銀行：初步統計，2026年前三季度社會融資規模增量累計為27.46萬億元，比上年同期少2.63萬億元。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610143895517426",
+      "time": "2026-10-14 17:01:22",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【央行：前三季度社會融資規模增量累計為27.46萬億元 人民幣貸款增加11.52萬億元】初步統計，2026年9月末社會融資規模存量為468.17萬億元，同比增長7.1%。初步統計，2026年前三季度社會融資規模增量累計為27.46萬億元，比上年同期少2.63萬億元。9月末，廣義貨幣（M2）餘額359.63萬億元，同比增長7.2%。前三季度人民幣貸款增加11.52萬億元。"
+    },
+    {
+      "id": "5144216",
+      "time": "2026-10-14 17:01:15",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "【央行：社會融資規模存量同比增長7.1%】初步統計，2026年9月末社會融資規模存量為468.17萬億元，同比增長7.1%。其中，對實體經濟發放的人民幣貸款餘額279.9萬億元，同比增長4.8%；對實體經濟發放的外幣貸款摺合人民幣餘額1.25萬億元，同比增長6.4%；委託貸款餘額11.34萬億元，同比增長1.5%；信託貸款餘額4.53萬億元，同比增長0.7%；未貼現的銀行承兌匯票餘額2.22萬億元，同比下降8.8%；企業債券餘額36.62萬億元，同比增長9.3%；政府債券餘額105.23萬億元，同比增長13.7%；非金融企業境內股票餘額12.73萬億元，同比增長5.8%。\n\n從結構看，9月末對實體經濟發放的人民幣貸款餘額佔同期社會融資規模存量的59.8%，同比低1.3個百分點；對實體經濟發放的外幣貸款摺合人民幣餘額佔比0.3%，同比持平；委託貸款餘額佔比2.4%，同比低0.2個百分點；信託貸款餘額佔比1%，同比持平；未貼現的銀行承兌匯票餘額佔比0.5%，同比低0.1個百分點；企業債券餘額佔比7.8%，同比高0.1個百分點；政府債券餘額佔比22.5%，同比高1.3個百分點；非金融企業境內股票餘額佔比2.7%，同比低0.1個百分點。"
+    },
+    {
+      "id": "mkt:01a139a4-ec96-7ee0-a875-543e9ecda993",
+      "time": "2026-10-14 17:01:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC preliminary: stock of total social financing stood at 468.17 trillion yuan at end-September 2026, up 7.1% YoY."
+    },
+    {
+      "id": "5144215",
+      "time": "2026-10-14 17:01:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國1-9月份新增人民幣貸款11.52萬億元人民幣。"
+    },
+    {
+      "id": "5144213",
+      "time": "2026-10-14 17:00:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科學院科創中心原黨委副書記、主任伍浩被“雙開”】中國科學院科創中心原黨委副書記、主任伍浩嚴重違紀違法被開除黨籍和公職。（央視新聞）"
+    },
+    {
+      "id": "5144212",
+      "time": "2026-10-14 17:00:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石化：擬調整與集團2026及2027年持續關聯交易上限】中國石化公告稱，因中國航空油料集團成為中國石化集團全資附屬公司，疊加原油及成品油價格波動、互供數量預期增加，公司擬調整2026年及2027年與集團的持續關聯交易上限。調整後，2026年、2027年買入上限分別為4420億元、5236億元，賣出上限分別為3928億元、5946億元。該事項已獲獨立董事專門會議審議透過，尚需公司獨立股東批准，關聯股東迴避表決。"
+    },
     {
       "id": "mkt:01a139a4-27e8-7ee0-a875-4876a866e4f6",
       "time": "2026-10-14 17:00:21",
