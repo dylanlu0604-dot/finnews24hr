@@ -1,7 +1,247 @@
 {
-  "updated": "2026-10-14 16:06:17",
-  "count": 11598,
+  "updated": "2026-10-14 16:10:06",
+  "count": 11614,
   "items": [
+    {
+      "id": "mkt:01a13975-b6f2-7ee0-a873-fcc5835a50e2",
+      "time": "2026-10-14 16:09:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Confindustria raised its 2026 Italy GDP growth forecast to 1.0% from 0.5% and sees 0.6% growth in 2027."
+    },
+    {
+      "id": "5144083",
+      "time": "2026-10-14 16:09:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【經緯股份：擬豁免股東自願性轉讓限制承諾】經緯股份公告稱，公司實際控制人葉肖華、股東謝晴、徐世峰、鍾宜國因透過員工持股平臺間接持有的公司股份擬參與向中軟西安的協議轉讓，申請豁免其在IPO時作出的間接持股部分任職期每年轉讓不超25%、離職後半年內不轉讓的自願性轉讓限制承諾，其餘IPO承諾維持不變。該事項已經公司董事會審議透過，尚需股東會審議透過，能否透過存在不確定性。本次股份轉讓完成後，中軟西安將成為公司控股股東。"
+    },
+    {
+      "id": "mkt:01a13975-50cc-7ee0-a873-f0ed311568fc",
+      "time": "2026-10-14 16:09:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong close: HSI fell 0.13%, Hang Seng Tech Index rose 0.91%. Prominent internet names, new‑energy vehicle makers and coal stocks led gains; optical communications shares underperformed."
+    },
+    {
+      "id": "5144080",
+      "time": "2026-10-14 16:09:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌0.13%，恒生科技指數漲0.92%】天數智芯漲8.77%，美團-W漲6.29%，小米集團-W漲4.87%，蒙牛乳業漲3.63%，信達生物跌4.30%，嗶哩嗶哩-W跌4.50%，智譜跌5.07%。"
+    },
+    {
+      "id": "5144079",
+      "time": "2026-10-14 16:08:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【XBOW藉助GPT-5.6 Sol攻破Chrome安全沙箱，獲谷歌25萬美元漏洞獎勵】網路安全公司XBOW 10月13日宣佈，其一名安全研究人員在OpenAI GPT-5.6 Sol模型及AI智慧體協助下，用6天時間構建出由3個此前未知漏洞組成的Chrome完整攻擊鏈，並獲得谷歌25萬美元漏洞獎勵，為谷歌2026年新規則下首個Chrome全鏈路獎勵。該攻擊鏈首先利用V8 JavaScript引擎漏洞取得沙箱記憶體控制，再透過Chrome動態WebP解碼器漏洞CVE-2026-85045突破沙箱，最終藉助執行於沙箱外的Crashpad漏洞CVE-2026-78952實現完整程式碼執行，僅需使用者載入網頁即可觸發，無需額外下載或點選。XBOW稱，這類漏洞在修復前理論上影響全球約10億Windows版Chrome使用者，整個研究過程估算消耗約4萬美元算力。相關漏洞已上報谷歌並完成修復，XBOW稱沒有證據表明這些漏洞曾被用於實際攻擊。"
+    },
+    {
+      "id": "5144078",
+      "time": "2026-10-14 16:08:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【田中精機：原子公司佑富智慧破產清算程式終結】田中精機公告稱，公司於2026年10月13日收到深圳中院民事裁定書，裁定終結原子公司深圳市佑富智慧裝備有限公司破產清算程式。佑富智慧現有破產財產已完成分配，破產程式終結後管理人將繼續處置其對外投資股權、追收應收賬款並進行追加分配，遺留事項處理完畢後辦理登出登記。佑富智慧自2025年8月25日起不再納入公司合併報表範圍，本次破產程式終結不影響公司現有業務經營，後續破產財產分配對公司財務的影響以執行結果及審計為準。"
+    },
+    {
+      "id": "mkt:01a13974-ceb8-7ee0-a873-eb74086f25cc",
+      "time": "2026-10-14 16:08:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "IEA monthly report: outlook still hinges on sustained restoration of flows through the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:01a13974-a9cd-7ee0-a873-e6cc9311045e",
+      "time": "2026-10-14 16:08:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: oil exports from Gulf producers excluding Oman are 33% below pre-war levels."
+    },
+    {
+      "id": "5144077",
+      "time": "2026-10-14 16:08:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士官員：瑞士人必須保持冷靜，和美國打交道時保持清醒的頭腦。"
+    },
+    {
+      "id": "mkt:01a13974-8027-7ee0-a873-da71e99f762a",
+      "time": "2026-10-14 16:08:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report forecasts OPEC output will increase by 5 million bpd in 2027."
+    },
+    {
+      "id": "mkt:01a13974-4149-7ee0-a873-d74ccad17775",
+      "time": "2026-10-14 16:08:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report forecasts OPEC production will decline by 6.5 mln b/d in 2026; non‑OPEC production will rise by 2.7 mln b/d in 2026."
+    },
+    {
+      "id": "mkt:01a13973-fd50-7ee0-a873-ca2290cacea9",
+      "time": "2026-10-14 16:07:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【IEA warns diesel tightness will persist into next year as slow Middle East exports weigh】The IEA warned global diesel supplies are likely to remain tight into next year, saying recent crude shipment recovery has not restored diesel availability because Middle East refined-product exports remain slow. The agency said Q3 diesel supply fell about 1.7 mln bpd, citing a conflict involving Iran that disrupted Strait of Hormuz shipments and Ukrainian attacks that forced output cuts at Russian refineries. IEA data show global diesel exports averaged 4.7 mln bpd in the first nine months of 2026, down 10% YoY, and combined net exports from the Middle East and Russia in September fell by more than 60%; the IEA said refinery runs, export capacity and regional logistics remain impaired by geopolitical conflict."
+    },
+    {
+      "id": "mkt:01a13973-ea20-7ee0-a873-c78187efa711",
+      "time": "2026-10-14 16:07:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【CPCA: Oct 1-11 China passenger NEV retail 281,000】CPCA data: Oct 1-11 China passenger new-energy vehicle (NEV) retail sales 281,000, down 13% YoY and down 7% vs the same period in the prior month; YTD retail 8.039 mln, down 13% YoY. Manufacturer NEV wholesale shipments Oct 1-11 were 301,000, up 6% YoY but down 11% vs the same period in the prior month; YTD wholesale 11.75 mln, up 9% YoY."
+    },
+    {
+      "id": "mkt:01a13973-d43a-7ee0-a873-bdcd2db584d1",
+      "time": "2026-10-14 16:07:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report forecasts global oil supply will rebound by 7.7 mln b/d in 2027, versus a prior forecast of 8.0 mln b/d."
+    },
+    {
+      "id": "5144076",
+      "time": "2026-10-14 16:07:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Liquidia股價在盤前交易中大漲44.4%，此前該公司已了結與聯合治療公司（United Therapeutics）的全部訴訟。"
+    },
+    {
+      "id": "5144075",
+      "time": "2026-10-14 16:07:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際能源署：中東煉廠開工提升，燃料外運量增加】國際能源署在月度石油市場報告中表示，中東主要產油國成品油出口增長，反映該地區煉油活動回暖，四季度原油加工量將走高。9月中東成品油出口增加21萬桶/日，至190萬桶/日；液化石油氣出口增加9萬桶/日，至67萬桶/日，而戰前二者分別為470萬桶/日與150萬桶/日。中東成品油及液化石油氣出口增速不及原油，出口規模仍不足戰前水平的一半。科威特煉廠生產符合歐5標準的中間餾分油，是歐洲供應的重要來源，近期開工情況出現好轉跡象。關於祖爾煉廠，國際能源署稱，據報道該廠三套原油蒸餾裝置現已全部投產；但出口流量仍遠低於約60%產能利用率所對應的理論出口水平。對於巴林錫特拉煉廠，國際能源署表示，初步海運貿易資料顯示近幾周成品油出口持續增長，不過出口仍主要侷限於海灣區域內貿易。"
+    },
+    {
+      "id": "mkt:01a13973-2403-7ee0-a873-b74ad1f7d9a6",
+      "time": "2026-10-14 16:06:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: non-OPEC oil production rose by 480,000 b/d in September, led mainly by the UAE."
+    },
+    {
+      "id": "mkt:01a13973-0070-7ee0-a873-ad3191b0e95f",
+      "time": "2026-10-14 16:06:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: OPEC+ output rose by 2.1 mln b/d in September, driven mainly by increases from Saudi Arabia."
+    },
+    {
+      "id": "mkt:01a13972-c90a-7ee0-a873-a31e4044eece",
+      "time": "2026-10-14 16:06:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: global oil supply rose by 2.5 mln b/d in September to 102.3 mln b/d."
+    },
+    {
+      "id": "mkt:01a13972-9891-7ee0-a873-997c68a9752e",
+      "time": "2026-10-14 16:06:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: shipping attacks and strikes by Houthi militants leave the economic recovery fragile."
+    },
+    {
+      "id": "5144074",
+      "time": "2026-10-14 16:06:02",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：10月1-11日，全國乘用車新能源市場零售28.1萬輛】據乘聯分會，10月1-11日，全國乘用車新能源市場零售28.1萬輛，同比去年10月同期下降13%，較上月同期下降7%，今年以來累計零售803.9萬輛，同比下降13%；10月1-11日，全國乘用車廠商新能源批發30.1萬輛，同比去年10月同期增長6%，較上月同期下降11%，今年以來累計批發1,175萬輛，同比增長9%。"
+    },
+    {
+      "id": "mkt:01a13972-59a0-7ee0-a873-979cd3c76747",
+      "time": "2026-10-14 16:05:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: Global diesel exports fell by 700,000 bpd YoY in September."
+    },
     {
       "id": "mkt:01a13972-2006-7ee0-a873-8823896bb5a2",
       "time": "2026-10-14 16:05:42",
@@ -387,6 +627,14 @@
       "text": "國際能源署將2027年石油需求預期下調63萬桶/日。"
     },
     {
+      "id": "5144051",
+      "time": "2026-10-14 16:00:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【面壁智慧成立智周觀瀾科技公司 含機器人業務】企查查APP顯示，近日，杭州智周觀瀾科技有限公司成立，經營範圍包含：人工智慧硬體銷售；人工智慧行業應用系統整合服務；人工智慧公共資料平臺；智慧機器人的研發；智慧機器人銷售等。企查查股權穿透顯示，該公司由北京面壁智慧科技股份有限公司全資持股。"
+    },
+    {
       "id": "mkt:01a1396d-532d-7ee0-a873-26af2e1e229d",
       "time": "2026-10-14 16:00:28",
       "tags": [
@@ -478,6 +726,15 @@
         "其他"
       ],
       "text": "國際能源署警告：柴油供應緊張狀況將持續到2027年。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610143895475494",
+      "time": "2026-10-14 16:00:06",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國財富管理公司Glenmede：服務業通脹是否仍然頑固是本週CPI報告關注焦點】美國獨立財富管理公司Glenmede策略師表示，本週的CPI報告可能是美聯儲在10月會議前看到的最重要資料。最值得關注的角度是服務業通脹是否仍然頑固。另外，若高於通脹目標的分項佔比上升，可能意味著價格壓力正在從能源向更廣泛領域擴散。"
     },
     {
       "id": "5144048",
@@ -105319,76 +105576,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Sugar Rises by 1.31% — Top commodity gainers are Sugar (1.31%) and Rice (0.68%). Biggest loser is Palm Oil (-0.72%)."
-    },
-    {
-      "id": "5129820",
-      "time": "2026-10-07 16:09:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元延續跌勢，最新下跌0.63%，報1.1187美元。"
-    },
-    {
-      "id": "5129819",
-      "time": "2026-10-07 16:09:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其：將動用一切工具維護物價穩定。"
-    },
-    {
-      "id": "5129818",
-      "time": "2026-10-07 16:09:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三井住友信託集團計劃最早於2028年在日本設立規模約3500億日元的基礎設施基金。"
-    },
-    {
-      "id": "5129817",
-      "time": "2026-10-07 16:09:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌0.62%，恒生科技指數跌0.66%】翰森製藥跌1.91%，天數智芯跌1.93%，藥明生物跌2.07%，阿里巴巴-W跌2.59%，智譜跌2.73%，華虹宏力跌2.77%，MINIMAX-W跌3.77%。"
-    },
-    {
-      "id": "5129816",
-      "time": "2026-10-07 16:07:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行經濟學家預計，英國財政大臣希利的預算案將導致英國本財年和2027/28財年的政府借款規模均增加150億英鎊（約合199億美元），同時政府實現長期預算目標的財政空間將進一步縮小。"
-    },
-    {
-      "id": "5129815",
-      "time": "2026-10-07 16:07:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗西南部胡齊斯坦省一名石油行業經理因涉嫌賄賂和財務違規被捕，報道未披露該經理姓名。"
-    },
-    {
-      "id": "te:economy:590126",
-      "time": "2026-10-07 16:06:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Foreign Exchange Reserves",
-        "Importance 1"
-      ],
-      "text": "India’s FX Reserves Fall for Fourth Week — India’s foreign exchange reserves fell for a fourth consecutive week to $734.6 billion as of October 2, 2026, according to a footnote to Reserve Bank of India Governor Sanjay Malhotra’s monetary policy statement. Reserves have declined from their recent peak of $785.71 billion on September 4, a drop of around $50 billion in less than a month. The drawdown reflects RBI intervention in the foreign-exchange market, including dollar sales to smooth the rupee’s decline and sell/buy FX swaps aimed at absorbing surplus liquidity. Despite the central bank’s support, including its first rate hike since 2023 in October, the rupee has continued to weaken, pressured by elevated oil prices, rising US Treasury yields and increased foreign equity outflows."
-    },
-    {
-      "id": "5129814",
-      "time": "2026-10-07 16:06:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所鉛訂單增加8625噸，為7月中旬以來最大增幅。"
     }
   ]
 }
