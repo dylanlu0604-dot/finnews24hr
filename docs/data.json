@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-15 02:40:01",
-  "count": 11953,
+  "updated": "2026-10-15 02:43:52",
+  "count": 11951,
   "items": [
+    {
+      "id": "mkt:01a13bb7-5acf-7ee0-a884-55029a39957a",
+      "time": "2026-10-15 02:40:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Barkin said tomorrow's PPI data will help him assess the inflation trend."
+    },
+    {
+      "id": "5145409",
+      "time": "2026-10-15 02:39:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國八個州起訴OpenAI，稱ChatGPT對兒童造成傷害。"
+    },
+    {
+      "id": "mkt:01a13bb6-90ea-7ee0-a884-4a7f48355e5c",
+      "time": "2026-10-15 02:39:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Eight U.S. states sued OpenAI, alleging ChatGPT is harmful to children."
+    },
     {
       "id": "5145406",
       "time": "2026-10-15 02:38:22",
@@ -108863,58 +108891,6 @@
         "MKT News"
       ],
       "text": "Tunisia's central bank kept its benchmark policy rate unchanged at 8%."
-    },
-    {
-      "id": "mkt:01a117ad-c085-7ee0-a7e0-9b7fa583bbba",
-      "time": "2026-10-08 02:43:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "European Commission spokesperson: EU member states have agreed any release of oil reserves should be carried out under the International Energy Agency's March release framework."
-    },
-    {
-      "id": "5130651",
-      "time": "2026-10-08 02:43:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會發言人表示，歐盟各國已達成一致，任何石油儲備釋放行動都應在國際能源署 3 月儲備釋放框架下開展。"
-    },
-    {
-      "id": "5130650",
-      "time": "2026-10-08 02:42:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西汽車工業協會 ANFAVEA 預計，巴西 2026 年汽車產量將增長 6.7%，此前預測為增長 5.8%。"
-    },
-    {
-      "id": "5130649",
-      "time": "2026-10-08 02:41:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西汽車製造商協會（ANFAVEA）將2026年巴西汽車銷量增速預測從此前的12.1%上調至15.2%。"
-    },
-    {
-      "id": "mkt:01a117aa-d961-7ee0-a7e0-911a76c781ef",
-      "time": "2026-10-08 02:40:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Fed officials flag concerns over AI and productivity】Officials said AI could be positive for policy because if it produces a future productivity boom, near-term inflation pressures might ease. But the Fed's September meeting minutes warned some risks could delay those gains: \"a few participants noted new concerns arising from rapid AI adoption, including cybersecurity and other risks that in some cases could weigh on productivity.\" This month Fed officials, including BARR and Cook, emphasized uncertainty about the timing of any AI-related productivity improvements."
     }
   ]
 }

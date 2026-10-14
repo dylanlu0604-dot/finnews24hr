@@ -1,7 +1,35 @@
 {
   "date": "2026-10-15",
-  "count": 207,
+  "count": 210,
   "items": [
+    {
+      "id": "mkt:01a13bb7-5acf-7ee0-a884-55029a39957a",
+      "time": "2026-10-15 02:40:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Barkin said tomorrow's PPI data will help him assess the inflation trend."
+    },
+    {
+      "id": "5145409",
+      "time": "2026-10-15 02:39:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國八個州起訴OpenAI，稱ChatGPT對兒童造成傷害。"
+    },
+    {
+      "id": "mkt:01a13bb6-90ea-7ee0-a884-4a7f48355e5c",
+      "time": "2026-10-15 02:39:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Eight U.S. states sued OpenAI, alleging ChatGPT is harmful to children."
+    },
     {
       "id": "5145406",
       "time": "2026-10-15 02:38:22",
