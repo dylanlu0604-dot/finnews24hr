@@ -1,7 +1,55 @@
 {
   "date": "2026-10-14",
-  "count": 1008,
+  "count": 1014,
   "items": [
+    {
+      "id": "mkt:01a1385a-86bf-7ee0-a86a-64fef9c908c2",
+      "time": "2026-10-14 11:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact mixed",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Customs: China export gains in chips, servers and clean-energy kit supporting global computing and power demand】Customs deputy director Wang Jun said at a state briefing on Oct. 14 that China’s industrial base and tech capacity are bolstering supply to meet rising global computing and power demand. In the first three quarters exports of integrated circuits rose 99.1% YoY; computer parts and accessories increased 2.1-fold; storage components including solid-state drives rose 1.3-fold, helping maintain stable supply of intermediate components in the global compute chain. Exports of servers and data‑processing equipment rose 7.2%, supporting global compute infrastructure. On the power side, first‑three‑quarters exports showed gains in photovoltaic products (+10.3%), wind turbines and parts (+22.4%), power cables (+28.1%), transformers (+22.5%) and various storage batteries (+34.8%); products were shipped to more than 200 countries and regions."
+    },
+    {
+      "id": "5143541",
+      "time": "2026-10-14 10:59:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署：中企為應對全球算力、電力需求增長提供堅實支撐】10月14日，海關總署副署長王軍在國新辦新聞釋出會上表示，我國依託完整產業體系和科技創新能力，為應對全球算力和電力需求增長提供堅實支撐。在算力方面，前三季度我國出口積體電路增長99.1%，電腦零、附件增長2.1倍，固態硬碟等儲存部件增長1.3倍，保障了全球算力產業鏈中間產品的穩定供應。出口伺服器等資料處理裝置增長7.2%，助力全球算力基礎設施建設。在電力方面，前三季度產品出口多點發力。智慧領域，出口光伏產品增長10.3%，風力發電機組及其零件增長22.4%, 持續填補全球清潔能源供給缺口；輸能領域，出口電線、電纜增長28.1%, 變壓器增長22.5%；儲能領域，出口各類蓄電池增長34.8%, 遠銷全球200多個國家和地區。從指甲蓋大小的高速光通訊模組，到成噸重的AI算力伺服器機櫃；從一根家庭用的電線，到遠距離、大容量輸電使用的特高壓換流變壓器；從隨身攜帶的充電寶，到大型工商業儲能裝置；從單體小電池，到集裝箱式整合儲能系統……千千萬萬中國企業，正在為全球算力建設、電網穩定執行、電力安全供應，提供務實可行、成熟可靠的中國產品、中國經驗和中國方案。"
+    },
+    {
+      "id": "mkt:01a13858-dcd7-7ee0-a86a-5be4bb513460",
+      "time": "2026-10-14 10:58:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PICC P&C issues Hong Kong's first sidecar insurance-linked security】PICC Property & Casualty has issued Hong Kong's first \"sidecar\" insurance-linked security to provide reinsurance protection for its offshore wind insurance business. The deal is the first sidecar ILS by a mainland Chinese insurer and follows PICC P&C's 2022 catastrophe bond in Hong Kong, marking another use of international capital markets to diversify insurance risk."
+    },
+    {
+      "id": "5143540",
+      "time": "2026-10-14 10:58:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【人保財險發行香港市場首筆“側掛車”保險連線證券】記者從人保財險瞭解到，近日，人保財險在香港成功發行“側掛車”（Sidecar）保險連線證券，為人保財險承保的海上風電保險業務提供再保險保障。此次發行是香港市場首筆“側掛車”結構的保險連線證券發行，也是境內保險機構首次“側掛車”保險連線證券發行，是該公司繼2022年在香港發行巨災債券後，利用國際資本市場分散保險風險的又一創新實踐。"
+    },
+    {
+      "id": "5143539",
+      "time": "2026-10-14 10:58:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何小鵬作為巴黎汽車峰會唯一受邀中國車企CEO發表演講】小鵬汽車微博發文稱：2026 年 10 月 13 日，巴黎國際車展期間，小鵬集團董事長兼 CEO 何小鵬作為巴黎汽車峰會唯一受邀的中國車企 CEO 發表演講。 何小鵬向與會的行業高管、全球媒體等，正式介紹其智慧汽車解決方案業務：「XPENG AI ENGINEERING」，小鵬將面向全球合作伙伴開放智慧汽車技術合作，輸出覆蓋整車研發、生產到售後的一站式技術解決方案。並開放涵蓋機器人、Robotaxi、飛行汽車、圖靈AI晶片、物理世界基座模型等物理AI生態全領域的技術解決方案。 何小鵬表示：“我們不僅與合作伙伴共享技術，更與合作伙伴共同成長，全力支援合作伙伴掌握相關技術，開展創新工作。我們也歡迎全球合作伙伴加入我們，讓我們互相學習，互通技術，攜手前行。”"
+    },
     {
       "id": "mkt:01a13856-bdc2-7ee0-a86a-52f235ee1664",
       "time": "2026-10-14 10:56:11",
@@ -46,6 +94,15 @@
         "焦點"
       ],
       "text": "紐約期金突破4190美元/盎司，日內漲0.30%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610143895227358",
+      "time": "2026-10-14 10:55:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【海關總署：前三季度工業機器人、電子元件等產品進出口合計超10萬億元 增長58.9%】海關總署新聞發言人、副署長王軍在國新辦新聞釋出會上表示，前三季度，工業機器人、電子元件、電腦零部件、電工器材等產品進出口合計超10萬億元，增長58.9%，拉動整體進出口增長11.3個百分點。“中國製造”品牌影響力持續提升，自主品牌出口增速達26.7%，佔出口的24.8%，比重較去年同期提升兩個百分點。"
     },
     {
       "id": "5143535",
