@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-14 10:46:05",
-  "count": 11304,
+  "updated": "2026-10-14 10:49:52",
+  "count": 11309,
   "items": [
+    {
+      "id": "te:markets:591705",
+      "time": "2026-10-14 10:49:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Steadies Ahead of CPI Report — The yield on the 10-year US Treasury note held steady at around 5.21% on Wednesday as investors awaited September’s consumer inflation report for clues on the Federal Reserve’s next interest rate decision. New York Fed President John Williams reiterated that one more rate hike may be appropriate this year, while further tightening would likely be unnecessary in 2027. Meanwhile, Fed Governor Christopher Waller said inflation expectations remained “well anchored.” Additional remarks from Richmond Fed President Thomas Barkin and Fed Vice Chair for Supervision Michelle Bowman are expected later in the day. Markets are currently pricing in roughly a 77% probability that the Fed will leave rates unchanged this month, while assigning an 88% chance of a rate hike in December. Treasury yields have retreated in recent sessions as the global bond selloff eased, while heightened volatility in equity markets has boosted demand for bonds as a safe-haven asset."
+    },
+    {
+      "id": "mkt:01a13850-97a1-7ee0-a86a-3117e7de31a1",
+      "time": "2026-10-14 10:49:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SFC says shortage of Hong Kong IPO sponsors has eased】The SFC said in a circular that sponsor resources and key personnel capacity for Hong Kong listings have improved since January. The share of active listing applications under review involving the five busiest sponsors fell to 65% as of end-September from 77% as of end-January. New principal approvals by the SFC between Jan. 30 and Sep. 30, 2026 rose 65% versus the same period in 2025. From January to September 2026, both the number of sponsors with overburdened principals and the number of overburdened principals — defined as supervising or participating in six or more active listing mandates — declined 78%."
+    },
+    {
+      "id": "5143528",
+      "time": "2026-10-14 10:49:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股科網股震盪走高，美團-W漲超5%】港股科網股震盪走高，美團-W漲超5%，小米集團-W漲超4%，阿里巴巴-W漲超3%。"
+    },
+    {
+      "id": "5143527",
+      "time": "2026-10-14 10:48:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港證監會：港股保薦人緊缺有所緩解】香港證監會在最新發布的通函中指出，自1月以來，港股保薦人的資源及主要人員能力已呈改善跡象。其中，涉及五家最活躍保薦人而正在審批的活躍上市申請佔整體申請的比例，由截至1月的77%降至截至9月的65%；2026年1月30日至9月30日期間，獲香港證監會審批的新主要人員數目較2025年同期增加65%；2026年1月至9月期間，擁有負擔過重（監督或參與六宗或以上活躍上市委聘專案）的主要人員的保薦人數目，以及負擔過重的主要人員數目，同樣減少78%。"
+    },
+    {
+      "id": "mkt:01a1384f-bba8-7ee0-a86a-289aa056caa9",
+      "time": "2026-10-14 10:48:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ECB's Lagarde says France should use fiscal policy to tackle bond-market strains, downplays ECB intervention】ECB President Christine Lagarde said on Wednesday that France should address its bond-market difficulties through its own fiscal policy, tempering expectations that the ECB will intervene. She added that certain special situations hit some countries harder — France being a typical example — and that the primary remedy for France lies with its fiscal authorities."
+    },
+    {
+      "id": "5143526",
+      "time": "2026-10-14 10:48:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國臺辦回應賴清德之子在美被監視傳言：信口雌黃、胡編亂造】10月14日，國務院臺辦舉行例行新聞釋出會。有記者問：臺媒引述美媒報道稱，美國聯邦調查局（FBI）逮捕1名美國女性，此人涉嫌在大陸官員授意下監視賴清德之子。民進黨當局對此稱，這是典型的“跨國鎮壓”，已積極研擬修訂所謂“反滲透法”加以因應。請問對此有何評論？國臺辦發言人陳斌華表示，我不瞭解你提到的情況。我們堅決反對民進黨當局勾連外部勢力信口雌黃、胡編亂造，操弄“反中抗中”，挑起兩岸對立，謀取政治私利。這種陰險圖謀和卑劣做法騙不了臺灣民眾，只會令人唾棄。(中新網)"
+    },
+    {
+      "id": "mkt:01a1384e-3a75-7ee0-a86a-27c63104c900",
+      "time": "2026-10-14 10:46:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【BOT deputy governor: further rate cuts unlikely; rates may rise to 1.5–2%】BOT Deputy Governor Piti Disyatat said at IMF and World Bank meetings in Bangkok the central bank is unlikely to cut policy rates below the current 1% unless hit by a major economic shock. As monetary policy gradually normalizes, borrowing costs are expected to rise and could reach about 1.5–2%. He said Thailand's policy stance remains accommodative versus many peers because growth is below potential and inflation is relatively mild."
+    },
+    {
+      "id": "5143525",
+      "time": "2026-10-14 10:46:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百誠醫藥等在杭州成立醫藥科技公司】企查查APP顯示，近日，杭州昕楠曄醫藥科技有限公司成立，法定代表人為卜國修，註冊資本為5000萬元，經營範圍包含第一類醫療器械銷售；第二類醫療器械銷售；藥品批發；藥品零售；藥品網際網路資訊服務；藥品生產等。企查查股權穿透顯示，該公司由深圳大佛藥業股份有限公司、百誠醫藥旗下杭州覓鵬企業管理合夥企業（有限合夥）等共同持股。"
+    },
+    {
+      "id": "5143524",
+      "time": "2026-10-14 10:45:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署： 1-9月我國出口總額為33707億美元，同比增長21.3% 】據海關總署披露的資料顯示，以美元計，9月我國出口總額為4471.8億美元，同比增長36.3%；進口總額3136.5億美元，同比增長31%。1-9月，我國出口總額為33707億美元，同比增長21.3%；1-9月，我國進口總額為24325.8億美元，同比增長27.5%。"
+    },
     {
       "id": "mkt:01a1384c-eeba-7ee0-a86a-19da72ff9e44",
       "time": "2026-10-14 10:45:28",
@@ -34,6 +111,15 @@
         "宏觀"
       ],
       "text": "【國務院臺辦：只有承認體現一箇中國原則的“九二共識” 臺灣安寧才有根本保障】國務院臺辦舉行例行新聞釋出會，有記者問：賴清德在所謂“雙十”講話中宣稱，將持續推動防務改革和投資，強化不對稱戰力，這是為了嚇阻戰爭，確保對話能在對等、尊嚴的基礎上進行。請問對此有何評論?發言人陳斌華表示，只有承認體現一箇中國原則的“九二共識”，停止“臺獨”分裂行徑，兩岸協商對話才能恢復，臺海和平、臺灣安寧才有根本保障。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610143895222518",
+      "time": "2026-10-14 10:44:38",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國9月積體電路出口449.51億美元 同比增長136%】海關總署資料顯示，中國9月積體電路出口449.51億美元，同比增長136%；汽車出口207.5億美元，同比增長62%；稀土出口6809.4萬美元，同比增長14.3%；手機出口169.82億美元，同比增長14.2%。"
     },
     {
       "id": "mkt:01a1384c-1b10-7ee0-a86a-171d55628cfe",
@@ -94,6 +180,15 @@
         "國際"
       ],
       "text": "越南貿易副部長表示：越南希望推動與美國企業的能源合作。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610143895221967",
+      "time": "2026-10-14 10:41:55",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "中國9月大豆進口1,188.0萬噸，同比下降7.7%；原油進口3,709.6萬噸，同比下降21.5%；鐵礦石進口量為1.0982億噸，同比下降5.6%。"
     },
     {
       "id": "mkt:01a13849-a1fc-7ee0-a86a-006788f9b808",
@@ -102556,61 +102651,6 @@
         "其他"
       ],
       "text": "加拿大皇家銀行將Marvell Technology的目標價從360美元上調至425美元。"
-    },
-    {
-      "id": "5129373",
-      "time": "2026-10-07 10:49:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞副財長：受經濟增長推動，馬來西亞2026年上半年稅收收入將增長9%。"
-    },
-    {
-      "id": "5129372",
-      "time": "2026-10-07 10:48:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "出版業訊息人士透露，一家日本大型圖書批發商承認向美國人工智慧公司Anthropic出售了大量圖書。"
-    },
-    {
-      "id": "mkt:01a11442-d867-7ee0-a7c8-9b3dd03e92dc",
-      "time": "2026-10-07 10:48:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Mubird Homestays 2026 National Day report: tier‑3-and‑below daily homestay orders +17% YoY】Mubird Homestays released its 2026 National Day homestay consumption report showing notable YoY booking gains: average daily homestay orders in tier‑3-and‑below cities rose 17% YoY, stays of seven nights or longer were up 30% YoY, and family-travel bookings made up 53% of orders. County-level destinations accounted for 40% of users, making county trips a National Day hotspot; 15% of users departed before the holiday. Top 10 destinations by bookings were Beijing, Qingdao, Nanjing, Chongqing, Chengdu, Weihai, Changsha, Hangzhou, Kaifeng and Xi’an. Beijing led Top 10 growth, with average daily orders up 83% YoY versus last year’s double-holiday period; Kaifeng entered the Top 10 with daily orders up 69% YoY."
-    },
-    {
-      "id": "mkt:01a11442-b338-7ee0-a7c8-90f8aa883741",
-      "time": "2026-10-07 10:47:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KYODO reported that publishing industry sources said a major Japanese book wholesaler admitted selling a large volume of books to US AI firm ANTHROPIC."
-    },
-    {
-      "id": "5129371",
-      "time": "2026-10-07 10:47:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方敦促國際社會持續助力非洲國家和平與發展】中國常駐聯合國代表傅聰6日在“聯合國同非洲聯盟合作”安理會公開會上發言，敦促國際社會持續助力非洲國家的和平與發展。（新華社）"
-    },
-    {
-      "id": "te:economy:590013",
-      "time": "2026-10-07 10:46:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Fiji",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Fiji Inflation Eases From 15-Year High — Fiji’s annual inflation slowed to 6.8% in September 2026 from 7.6% in the previous month, which was the highest since December 2011. The moderation came as food inflation eased to 7.6% from a 28-month high of 9.5% in August, while housing inflation eased to a four-month low of 4.9% from 7.0% in August. Inflation also moderated for miscellaneous goods and services (3.1% vs 3.6%) and furnishings, household equipment, and routine household maintenance (0.1% vs 0.4%), while remaining flat for clothing and footwear (0.0% vs. 1.2%). Meanwhile, inflation accelerated for alcoholic beverages and tobacco (13.9% vs 13.3%) and transport (12.2% vs 11.7%), while education inflation was steady at 0.4%. Additionally, recreation and culture prices fell at a faster pace (-1.5% vs -1.4%). On a monthly basis, the CPI fell 0.4% in September, following a 0.1% decline in August and marking the third straight monthly decline."
     }
   ]
 }
