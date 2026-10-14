@@ -1,7 +1,156 @@
 {
   "date": "2026-10-14",
-  "count": 1067,
+  "count": 1081,
   "items": [
+    {
+      "id": "5143573",
+      "time": "2026-10-14 11:15:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：發展援助有所減少；我們認識到有責任在各國需要時為其提供融資支援。"
+    },
+    {
+      "id": "5143572",
+      "time": "2026-10-14 11:15:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織(IMF)總裁格奧爾基耶娃：債務水平有所下降，但因利率上升導致償債成本增加。"
+    },
+    {
+      "id": "mkt:01a13867-cf80-7ee0-a86b-4dc4aae315fa",
+      "time": "2026-10-14 11:14:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "IMF managing director said debt levels have fallen, but debt-service costs have risen as interest rates have climbed."
+    },
+    {
+      "id": "mkt:01a13867-cdcc-7ee0-a86b-4796735ae021",
+      "time": "2026-10-14 11:14:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【IMF raises urgency on global debt risks; fiscal consolidation 'urgent'】IMF Fiscal Affairs Director Rodrigo Baldes said on Wednesday the fund has raised the urgency for fiscal consolidation as climbing government debt, persistent inflation and higher financing costs are driving up sovereign yields and increasing debt‑servicing burdens. He said the IMF now stresses action is urgent and should begin immediately."
+    },
+    {
+      "id": "mkt:01a13867-743c-7ee0-a86b-3b00a1435e4d",
+      "time": "2026-10-14 11:14:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "IMF managing director said divergence risks pose the greatest danger to already-lagging developing countries."
+    },
+    {
+      "id": "5143571",
+      "time": "2026-10-14 11:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署：“中國造”帶著高品質和硬技術跨洋出海】海關總署新聞發言人、副署長王軍在國新辦新聞釋出會上表示，針對當前全球消費領域場景化、個性化的趨勢，我們走“量”更走“心”，不僅重視“大訂單”，也心繫“小需求”。比如，近年來，沉浸式的第一視角短影片作品日益火爆，國內企業“量體裁衣”，開發了具備人物跟隨、語音手勢控制、AI自動剪輯等功能的行動式拍攝裝置，深受全球短影片創作者的青睞。前三季度，我國出口數字相機增長了40.5%。類似的產品還有不少，從完美適配野外露營等場景需求的迷你製冰機，到即裝即用的行動式空調，“中國造”帶著高品質和硬技術跨洋出海。"
+    },
+    {
+      "id": "5143570",
+      "time": "2026-10-14 11:13:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織(IMF)總裁格奧爾基耶娃：分化風險對已經落後的發展中國家最為危險。"
+    },
+    {
+      "id": "mkt:01a13866-eb05-7ee0-a86b-330233f74825",
+      "time": "2026-10-14 11:13:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "IMF managing director says AI-driven cyberattacks pose risks to the financial system."
+    },
+    {
+      "id": "mkt:01a13866-9769-7ee0-a86b-2e74b54c71aa",
+      "time": "2026-10-14 11:13:29",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share media sector rose intraday; Fuchun Co. hit the daily price limit (noted as 20cm). Peers Wentou Holdings, Kaiser Culture, Ciwen Media, New Classic, Dianhun Network and iReader Technology also reached limit-up."
+    },
+    {
+      "id": "5143569",
+      "time": "2026-10-14 11:13:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁：人工智慧驅動的網路攻擊對金融體系構成風險。"
+    },
+    {
+      "id": "mkt:01a13866-76ec-7ee0-a86b-21897d483eec",
+      "time": "2026-10-14 11:13:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "【IMF official says UK need not speed fiscal consolidation, should 'keep current course'】IMF Fiscal Affairs Director Rodrigo Valdés said on Wednesday at the IMF–World Bank annual meetings in Bangkok that the IMF does not recommend the UK accelerate fiscal consolidation and advises \"keeping the current course.\" The UK ran a deficit equal to 4.4% of GDP last year and aims to bring day-to-day public spending and tax receipts into balance by fiscal 2029/30 under its fiscal rules. Valdés' remarks signal a relatively moderate IMF stance—the agency views the current deficit-reduction path as feasible without more aggressive tightening; markets will focus on the government's forthcoming fiscal plans, tax adjustments and debt-sustainability metrics."
+    },
+    {
+      "id": "mkt:01a13866-0f8c-7ee0-a86b-1b9a959cd2fb",
+      "time": "2026-10-14 11:12:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "IMF managing director said AI has potential to boost growth and productivity but also poses risks."
+    },
+    {
+      "id": "5143568",
+      "time": "2026-10-14 11:12:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁：人工智慧在增長和生產力方面具有潛力，但也存在風險。"
+    },
+    {
+      "id": "mkt:01a13865-ab20-7ee0-a86b-110fa5935721",
+      "time": "2026-10-14 11:12:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Kyiv mayor said Russian airstrikes hit the city's energy infrastructure."
+    },
     {
       "id": "5143567",
       "time": "2026-10-14 11:12:11",
