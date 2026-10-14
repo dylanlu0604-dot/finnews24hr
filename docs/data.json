@@ -1,7 +1,267 @@
 {
-  "updated": "2026-10-14 21:28:52",
-  "count": 11825,
+  "updated": "2026-10-14 21:32:49",
+  "count": 11832,
   "items": [
+    {
+      "id": "mkt:01a13a9d-15f8-7ee0-a87e-9dbb8d34c605",
+      "time": "2026-10-14 21:32:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Philadelphia Semiconductor Index fell 2.1%."
+    },
+    {
+      "id": "5145000",
+      "time": "2026-10-14 21:32:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國銀行股價下跌8.3%，創2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a13a9c-d1d2-7ee0-a87e-912299d8726c",
+      "time": "2026-10-14 21:31:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bending Spoons shares surged 52% on Berkshire Hathaway's investment."
+    },
+    {
+      "id": "5144999",
+      "time": "2026-10-14 21:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "Berkshire Hathaway投資訊息推動Bending Spoons股價飆升52%。"
+    },
+    {
+      "id": "5144998",
+      "time": "2026-10-14 21:31:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數開盤下跌0.4%，納斯達克100指數下跌0.8%。"
+    },
+    {
+      "id": "mkt:01a13a9c-5883-7ee0-a87e-8bef066b450a",
+      "time": "2026-10-14 21:31:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Oct 14 (Wed) open: Dow Jones Industrial Average down 71.59 pts (-0.14%) at 51,598.51; Nasdaq Composite down 166.08 pts (-0.61%) at 27,038.30; S&P 500 down 29.80 pts (-0.38%) at 7,775.65."
+    },
+    {
+      "id": "mkt:01a13a9c-4427-7ee0-a87e-8439d7697512",
+      "time": "2026-10-14 21:31:21",
+      "tags": [
+        "MKT News",
+        "BAC.O",
+        "Impact bearish"
+      ],
+      "text": "Bank of America (BAC) shares opened down 8%, hitting their lowest level since May after third-quarter earnings missed expectations."
+    },
+    {
+      "id": "5144997",
+      "time": "2026-10-14 21:31:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "哥倫比亞9月消費者信心指數為15.7。"
+    },
+    {
+      "id": "5144996",
+      "time": "2026-10-14 21:31:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "費城半導體指數或將連續第六個交易日下跌。"
+    },
+    {
+      "id": "5144995",
+      "time": "2026-10-14 21:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普跌】Lumentum跌1.81%，康寧跌1.64%，Coherent跌2.09%，應用光電跌2.08%，Ciena跌2.51%，博通跌1.47%，邁威爾科技跌1.84%。"
+    },
+    {
+      "id": "5144994",
+      "time": "2026-10-14 21:30:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：我們正在提高最關鍵產品的價格。"
+    },
+    {
+      "id": "5144993",
+      "time": "2026-10-14 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初普漲】禮來漲1.03%，強生漲0.49%，Moderna跌0.60%，諾和諾德跌0.24%，艾伯維漲0.73%，默沙東漲0.97%。"
+    },
+    {
+      "id": "5144992",
+      "time": "2026-10-14 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤初普跌】美光跌1.78%，閃迪跌2.96%，SK海力士跌3.48%，西部資料跌1.38%，希捷科技跌0.52%。"
+    },
+    {
+      "id": "5144991",
+      "time": "2026-10-14 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.16%，標普500指數跌0.44%，納指跌0.59%。SKYD跌19.01%，美國銀行跌8.02%，CoreWeave跌7.72%，道富跌7.05%，美國前進保險公司跌6.66%，快扣跌5.26%。“七姐妹”方面：蘋果漲0.97%，谷歌漲0.42%，微軟漲0.07%，亞馬遜跌0.40%，Meta Platforms跌1.10%，英偉達跌1.46%，特斯拉跌1.70%。"
+    },
+    {
+      "id": "5144990",
+      "time": "2026-10-14 21:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度和加拿大力爭早日結束全面經濟夥伴關係協定的談判。"
+    },
+    {
+      "id": "mkt:01a13a9b-9fda-7ee0-a87e-7c026f62f159",
+      "time": "2026-10-14 21:30:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "【CPI Accelerates; U.S. Major Indices Open Lower】U.S. equities opened lower after CPI accelerated. At the open the Dow Jones Industrial Average was down 0.15%, the S&P 500 fell 0.40% and the Nasdaq Composite slid 0.65%. Memory and storage names led losses: SanDisk (SNDK.O) down about 3%, SK Hynix (SKHY.O) down 3.5%, Western Digital Corp (WDC.O) down 1.7% and Micron Technology (MU.O) down 1.9%. The Nasdaq Golden Dragon China Index was down 0.2%."
+    },
+    {
+      "id": "5144989",
+      "time": "2026-10-14 21:30:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票指數.GSPTSE開盤下跌127.28點，跌幅0.35%，報35856.70點。"
+    },
+    {
+      "id": "5144988",
+      "time": "2026-10-14 21:30:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.04%，現報11960.04點。英偉達跌1.32%，博通跌1.54%，美光跌2.01%，英特爾跌2.58%，AMD跌2.96%，高通跌1.70%，臺積電跌2.07%，阿斯麥跌1.78%。"
+    },
+    {
+      "id": "te:markets:591971",
+      "time": "2026-10-14 21:30:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Blackstone Shares Hit 19-week Low — Blackstone shares decreased to 108.95 USD, the lowest since June 2026. Over the past 4 weeks, Blackstone lost 14.84%, and in the last 12 months, it decreased 33.38%."
+    },
+    {
+      "id": "te:markets:591970",
+      "time": "2026-10-14 21:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Morgan Stanley Shares Hit 26-week Low — Morgan Stanley shares decreased to 180.00 USD, the lowest since April 2026. Over the past 4 weeks, Morgan Stanley lost 12.54%, and in the last 12 months, it increased 16.31%."
+    },
+    {
+      "id": "te:markets:591969",
+      "time": "2026-10-14 21:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Citigroup Shares Hit 21-week Low — Citigroup shares decreased to 122.25 USD, the lowest since May 2026. Over the past 4 weeks, Citigroup lost 10.11%, and in the last 12 months, it increased 22.61%."
+    },
+    {
+      "id": "5144987",
+      "time": "2026-10-14 21:30:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌4%，現報1490.00元。"
+    },
+    {
+      "id": "te:markets:591968",
+      "time": "2026-10-14 21:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Weakens to 17-Month Low — The Swiss franc weakened toward 0.84 per USD, reaching its lowest level in seventeen months following stronger-than-expected US inflation data that raised bets of a rate hike by the Federal Reserve in October and boosted demand for the greenback. In contrast, the Swiss National Bank is expected to leave its policy rate unchanged at 0%, while its Vice Chairman Martin said no adjustment was currently needed, citing low and stable inflation and limited spillover risks, as the Swiss economy was working \"very well\". Policymakers have also scaled back threats of currency intervention. Swiss borrowing costs have remained at the world’s lowest for over a year, increasing it’s appeal as a funding source for carry trades as interest-rate differentials with other major economies widen. As traders take short positions, the selling pressure of franc-loans weakens the currency."
+    },
+    {
+      "id": "te:markets:591967",
+      "time": "2026-10-14 21:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bank Of America Shares Hit 21-week Low — Bank Of America shares decreased to 49.70 USD, the lowest since May 2026. Over the past 4 weeks, Bank Of America lost 9.27%, and in the last 12 months, it increased 7.73%."
+    },
+    {
+      "id": "mkt:01a13a9a-d6d1-7ee0-a87e-714075a43989",
+      "time": "2026-10-14 21:29:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML CEO says the company is raising prices on its most critical products."
+    },
+    {
+      "id": "5144986",
+      "time": "2026-10-14 21:29:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科協：推動地市級行政區統籌協調利用閒置場地加快科技館建設】中國科協日前對外發布《關於加強省級科協科普工作 提升基層科普能力的指導意見》，明確推動地市級行政區統籌協調利用閒置場地加快科技館建設，“十五五”期間基本實現地市科技館全覆蓋。為全面提升基層科普能力、加強科普工作體系中省級統籌作用，意見從加強優質科普資源供給、提升科普陣地服務質效、強化基層科普服務、建強科普組織和人才隊伍、加強科普工作保障等方面提出17項舉措。（新華社）"
+    },
+    {
+      "id": "5144985",
+      "time": "2026-10-14 21:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方稱俄烏“能源停火”相關工作仍在進行】俄羅斯總統新聞秘書佩斯科夫14日稱，目前俄烏“能源停火”涵蓋的內容、範圍均未公佈，但相關工作仍在進行中。佩斯科夫在當日舉行的新聞釋出會上稱，俄烏談判相關工作正斷斷續續進行，尚無已商定的會晤被列上日程。佩斯科夫還稱，美國正努力促成俄烏衝突和平解決，但現在就下結論說，美國對烏提供軍事支援的立場已發生改變為時尚早。他還稱，與美國不同，歐洲仍在竭力延續戰事，並有可能會暗中破壞俄烏談判。（新華社）"
+    },
     {
       "id": "mkt:01a13a99-2b33-7ee0-a87e-6adcd1daeaa6",
       "time": "2026-10-14 21:27:58",
@@ -107412,174 +107672,6 @@
         "市場"
       ],
       "text": "英國30年期國債收益率升至1998年以來新高，報6.034%，日內漲幅超12個基點。"
-    },
-    {
-      "id": "5130379",
-      "time": "2026-10-07 21:32:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "太平洋海岸能源公司：德爾塔區塊與卡比馬斯區塊峰值產量將達15萬-16萬桶/日。"
-    },
-    {
-      "id": "5130378",
-      "time": "2026-10-07 21:32:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【段永平出手，佈局騰訊】段永平再次出手，透過賣put的方式佈局騰訊。國慶長假期間，港股市場有4個交易日正常交易，在此期間，騰訊控股股價出現調整。段永平曬出的交易截圖顯示，他賣出2000張行權價420港元、10月29日到期的騰訊認沽期權；該筆期權訂單已全部成交，若到期被行權，他將按420港元承接20萬股騰訊股票。（上證報）"
-    },
-    {
-      "id": "5130377",
-      "time": "2026-10-07 21:32:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京國慶消費市場穩中有升 重點商圈客流超6000萬人次】據北京市商務局訊息，國慶假日期間，北京全市重點監測的127家企業累計實現銷售79.5億元。據手機信令和第三方大資料顯示，假日期間全市70個重點商圈客流6035萬人次，同比增長5.2%；實現消費金額156.8億元，整體消費市場安全平穩有序。（央視新聞）"
-    },
-    {
-      "id": "5130376",
-      "time": "2026-10-07 21:32:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，DCX跌5.79%，天演藥業跌4.44%，阿特斯跌3.25%，萬國資料跌3.40%，億航跌2.93%。"
-    },
-    {
-      "id": "5130375",
-      "time": "2026-10-07 21:32:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "燃料電池能源公司股價下跌8.8%，該公司宣佈首席財務官人事更迭。"
-    },
-    {
-      "id": "5130374",
-      "time": "2026-10-07 21:32:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富途控股ADR下跌5%，UP FINTECH下跌4.7%。"
-    },
-    {
-      "id": "5130373",
-      "time": "2026-10-07 21:31:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "太平洋海岸能源公司：基礎產量有望在六個月內翻番，達到每日4萬桶。"
-    },
-    {
-      "id": "5130372",
-      "time": "2026-10-07 21:31:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "太平洋海岸能源公司：在合同期限內，該公司計劃總投資35億美元。"
-    },
-    {
-      "id": "5130371",
-      "time": "2026-10-07 21:31:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "太平洋海岸能源公司宣佈與委內瑞拉國家石油公司達成戰略協議，並公布德爾塔油田與卡比馬斯油田的運營最新情況。"
-    },
-    {
-      "id": "te:markets:590218",
-      "time": "2026-10-07 21:31:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Bank of Nova Scotia Shares Hit 4-week Low — Bank of Nova Scotia shares decreased to 126.69 CAD, the lowest since September 2026. Over the past 4 weeks, Bank of Nova Scotia lost 0.93%, and in the last 12 months, it increased 41.51%."
-    },
-    {
-      "id": "5130370",
-      "time": "2026-10-07 21:31:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SpaceX股價下跌1.5%，報道稱，該公司正尋求籌措400億美元融資，以採購英偉達晶片。"
-    },
-    {
-      "id": "5130369",
-      "time": "2026-10-07 21:31:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "微牛股價下跌20%。"
-    },
-    {
-      "id": "5130368",
-      "time": "2026-10-07 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股光通訊股開盤普跌】Lumentum跌3.24%，康寧跌3.87%，Coherent跌3.67%，應用光電跌3.50%，Ciena跌4.16%，博通跌0.97%，邁威爾科技跌3.01%。"
-    },
-    {
-      "id": "5130367",
-      "time": "2026-10-07 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊盤初普跌】美光跌2.87%，閃迪跌1.61%，SK海力士跌2.05%，西部資料跌2.28%，希捷科技跌1.90%。"
-    },
-    {
-      "id": "5130366",
-      "time": "2026-10-07 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股生物科技板塊盤初普漲】禮來漲1.08%，強生漲0.61%，Moderna漲0.15%，諾和諾德漲0.24%，艾伯維漲0.36%，默沙東跌0.12%。"
-    },
-    {
-      "id": "5130365",
-      "time": "2026-10-07 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊跌】道指跌0.65%，標普500指數跌0.44%，納指跌0.62%。Astera Labs Inc跌5.38%，泰瑞達跌4.54%，Strategy跌4.42%，Ciena科技跌4.40%，康寧跌3.87%，VRT跌3.78%。“七姐妹”方面：蘋果漲1.36%，特斯拉跌0.09%，微軟跌0.20%，谷歌跌0.56%，亞馬遜跌0.60%，Meta Platforms跌0.68%，英偉達跌0.68%。"
-    },
-    {
-      "id": "5130364",
-      "time": "2026-10-07 21:30:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.16%，現報12932.51點。英偉達跌0.76%，博通跌0.91%，美光跌2.96%，英特爾跌0.74%，AMD跌2.07%，高通跌1.38%，臺積電跌1.84%，阿斯麥跌2.05%。"
-    },
-    {
-      "id": "5130363",
-      "time": "2026-10-07 21:30:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "太平洋海岸能源公司（Pacific Coast Energy）啟動工作，旨在重振委內瑞拉油田。"
-    },
-    {
-      "id": "5130362",
-      "time": "2026-10-07 21:29:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【西班牙工會號召舉行大罷工 反對黨稱此舉旨在服務桑切斯政治議程】西班牙最大的幾個工會準備號召於11月11日舉行大罷工，以聚焦住房問題。屆時，定於11月29日舉行的提前大選即將拉開競選序幕。此前，由反對黨主導的議會否決了一項旨在提高住房可負擔性的法案，工會此次行動正是對此作出的回應。該法案遭否決後，社會黨籍首相佩德羅·桑切斯宣佈舉行提前大選。司法部長Félix Bolaños週三接受採訪時表示，“我認同這次罷工的訴求。西班牙社會普遍認為住房市場執行不正常。右翼和極右翼又採取了什麼措施？什麼都沒有。”反對黨則稱，這些抗議活動是動員選民、影響選舉的一項策略。人民黨發言人Jaime de los Santos表示，“過去有太多理由可以為了捍衛勞動者權利而舉行示威，但他們並沒有這麼做。這顯然是一項政治決定，目的是服務於佩德羅·桑切斯的政治議程。”工會將在週三晚些時候透過投票正式確認罷工日期。工會要求政府幹預住房市場以遏制價格上漲，同時要求提高工資，因為薪資漲幅遠遠落後於住房成本的上漲。"
-    },
-    {
-      "id": "5130361",
-      "time": "2026-10-07 21:29:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西石油拍賣售出13個鹽下區塊中的7個。"
     }
   ]
 }

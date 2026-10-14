@@ -1,7 +1,267 @@
 {
   "date": "2026-10-14",
-  "count": 2172,
+  "count": 2199,
   "items": [
+    {
+      "id": "mkt:01a13a9d-15f8-7ee0-a87e-9dbb8d34c605",
+      "time": "2026-10-14 21:32:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Philadelphia Semiconductor Index fell 2.1%."
+    },
+    {
+      "id": "5145000",
+      "time": "2026-10-14 21:32:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國銀行股價下跌8.3%，創2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a13a9c-d1d2-7ee0-a87e-912299d8726c",
+      "time": "2026-10-14 21:31:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bending Spoons shares surged 52% on Berkshire Hathaway's investment."
+    },
+    {
+      "id": "5144999",
+      "time": "2026-10-14 21:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "Berkshire Hathaway投資訊息推動Bending Spoons股價飆升52%。"
+    },
+    {
+      "id": "5144998",
+      "time": "2026-10-14 21:31:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數開盤下跌0.4%，納斯達克100指數下跌0.8%。"
+    },
+    {
+      "id": "mkt:01a13a9c-5883-7ee0-a87e-8bef066b450a",
+      "time": "2026-10-14 21:31:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Oct 14 (Wed) open: Dow Jones Industrial Average down 71.59 pts (-0.14%) at 51,598.51; Nasdaq Composite down 166.08 pts (-0.61%) at 27,038.30; S&P 500 down 29.80 pts (-0.38%) at 7,775.65."
+    },
+    {
+      "id": "mkt:01a13a9c-4427-7ee0-a87e-8439d7697512",
+      "time": "2026-10-14 21:31:21",
+      "tags": [
+        "MKT News",
+        "BAC.O",
+        "Impact bearish"
+      ],
+      "text": "Bank of America (BAC) shares opened down 8%, hitting their lowest level since May after third-quarter earnings missed expectations."
+    },
+    {
+      "id": "5144997",
+      "time": "2026-10-14 21:31:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "哥倫比亞9月消費者信心指數為15.7。"
+    },
+    {
+      "id": "5144996",
+      "time": "2026-10-14 21:31:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "費城半導體指數或將連續第六個交易日下跌。"
+    },
+    {
+      "id": "5144995",
+      "time": "2026-10-14 21:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普跌】Lumentum跌1.81%，康寧跌1.64%，Coherent跌2.09%，應用光電跌2.08%，Ciena跌2.51%，博通跌1.47%，邁威爾科技跌1.84%。"
+    },
+    {
+      "id": "5144994",
+      "time": "2026-10-14 21:30:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：我們正在提高最關鍵產品的價格。"
+    },
+    {
+      "id": "5144993",
+      "time": "2026-10-14 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初普漲】禮來漲1.03%，強生漲0.49%，Moderna跌0.60%，諾和諾德跌0.24%，艾伯維漲0.73%，默沙東漲0.97%。"
+    },
+    {
+      "id": "5144992",
+      "time": "2026-10-14 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤初普跌】美光跌1.78%，閃迪跌2.96%，SK海力士跌3.48%，西部資料跌1.38%，希捷科技跌0.52%。"
+    },
+    {
+      "id": "5144991",
+      "time": "2026-10-14 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.16%，標普500指數跌0.44%，納指跌0.59%。SKYD跌19.01%，美國銀行跌8.02%，CoreWeave跌7.72%，道富跌7.05%，美國前進保險公司跌6.66%，快扣跌5.26%。“七姐妹”方面：蘋果漲0.97%，谷歌漲0.42%，微軟漲0.07%，亞馬遜跌0.40%，Meta Platforms跌1.10%，英偉達跌1.46%，特斯拉跌1.70%。"
+    },
+    {
+      "id": "5144990",
+      "time": "2026-10-14 21:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度和加拿大力爭早日結束全面經濟夥伴關係協定的談判。"
+    },
+    {
+      "id": "mkt:01a13a9b-9fda-7ee0-a87e-7c026f62f159",
+      "time": "2026-10-14 21:30:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "Dow",
+        "Nasdaq100"
+      ],
+      "text": "【CPI Accelerates; U.S. Major Indices Open Lower】U.S. equities opened lower after CPI accelerated. At the open the Dow Jones Industrial Average was down 0.15%, the S&P 500 fell 0.40% and the Nasdaq Composite slid 0.65%. Memory and storage names led losses: SanDisk (SNDK.O) down about 3%, SK Hynix (SKHY.O) down 3.5%, Western Digital Corp (WDC.O) down 1.7% and Micron Technology (MU.O) down 1.9%. The Nasdaq Golden Dragon China Index was down 0.2%."
+    },
+    {
+      "id": "5144989",
+      "time": "2026-10-14 21:30:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票指數.GSPTSE開盤下跌127.28點，跌幅0.35%，報35856.70點。"
+    },
+    {
+      "id": "5144988",
+      "time": "2026-10-14 21:30:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.04%，現報11960.04點。英偉達跌1.32%，博通跌1.54%，美光跌2.01%，英特爾跌2.58%，AMD跌2.96%，高通跌1.70%，臺積電跌2.07%，阿斯麥跌1.78%。"
+    },
+    {
+      "id": "te:markets:591971",
+      "time": "2026-10-14 21:30:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Blackstone Shares Hit 19-week Low — Blackstone shares decreased to 108.95 USD, the lowest since June 2026. Over the past 4 weeks, Blackstone lost 14.84%, and in the last 12 months, it decreased 33.38%."
+    },
+    {
+      "id": "te:markets:591970",
+      "time": "2026-10-14 21:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Morgan Stanley Shares Hit 26-week Low — Morgan Stanley shares decreased to 180.00 USD, the lowest since April 2026. Over the past 4 weeks, Morgan Stanley lost 12.54%, and in the last 12 months, it increased 16.31%."
+    },
+    {
+      "id": "te:markets:591969",
+      "time": "2026-10-14 21:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Citigroup Shares Hit 21-week Low — Citigroup shares decreased to 122.25 USD, the lowest since May 2026. Over the past 4 weeks, Citigroup lost 10.11%, and in the last 12 months, it increased 22.61%."
+    },
+    {
+      "id": "te:markets:591968",
+      "time": "2026-10-14 21:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Weakens to 17-Month Low — The Swiss franc weakened toward 0.84 per USD, reaching its lowest level in seventeen months following stronger-than-expected US inflation data that raised bets of a rate hike by the Federal Reserve in October and boosted demand for the greenback. In contrast, the Swiss National Bank is expected to leave its policy rate unchanged at 0%, while its Vice Chairman Martin said no adjustment was currently needed, citing low and stable inflation and limited spillover risks, as the Swiss economy was working \"very well\". Policymakers have also scaled back threats of currency intervention. Swiss borrowing costs have remained at the world’s lowest for over a year, increasing it’s appeal as a funding source for carry trades as interest-rate differentials with other major economies widen. As traders take short positions, the selling pressure of franc-loans weakens the currency."
+    },
+    {
+      "id": "5144987",
+      "time": "2026-10-14 21:30:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌4%，現報1490.00元。"
+    },
+    {
+      "id": "te:markets:591967",
+      "time": "2026-10-14 21:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Bank Of America Shares Hit 21-week Low — Bank Of America shares decreased to 49.70 USD, the lowest since May 2026. Over the past 4 weeks, Bank Of America lost 9.27%, and in the last 12 months, it increased 7.73%."
+    },
+    {
+      "id": "mkt:01a13a9a-d6d1-7ee0-a87e-714075a43989",
+      "time": "2026-10-14 21:29:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML CEO says the company is raising prices on its most critical products."
+    },
+    {
+      "id": "5144986",
+      "time": "2026-10-14 21:29:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科協：推動地市級行政區統籌協調利用閒置場地加快科技館建設】中國科協日前對外發布《關於加強省級科協科普工作 提升基層科普能力的指導意見》，明確推動地市級行政區統籌協調利用閒置場地加快科技館建設，“十五五”期間基本實現地市科技館全覆蓋。為全面提升基層科普能力、加強科普工作體系中省級統籌作用，意見從加強優質科普資源供給、提升科普陣地服務質效、強化基層科普服務、建強科普組織和人才隊伍、加強科普工作保障等方面提出17項舉措。（新華社）"
+    },
+    {
+      "id": "5144985",
+      "time": "2026-10-14 21:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方稱俄烏“能源停火”相關工作仍在進行】俄羅斯總統新聞秘書佩斯科夫14日稱，目前俄烏“能源停火”涵蓋的內容、範圍均未公佈，但相關工作仍在進行中。佩斯科夫在當日舉行的新聞釋出會上稱，俄烏談判相關工作正斷斷續續進行，尚無已商定的會晤被列上日程。佩斯科夫還稱，美國正努力促成俄烏衝突和平解決，但現在就下結論說，美國對烏提供軍事支援的立場已發生改變為時尚早。他還稱，與美國不同，歐洲仍在竭力延續戰事，並有可能會暗中破壞俄烏談判。（新華社）"
+    },
     {
       "id": "mkt:01a13a99-2b33-7ee0-a87e-6adcd1daeaa6",
       "time": "2026-10-14 21:27:58",
