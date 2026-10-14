@@ -1,7 +1,26 @@
 {
   "date": "2026-10-15",
-  "count": 188,
+  "count": 190,
   "items": [
+    {
+      "id": "5145383",
+      "time": "2026-10-15 02:20:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國表示將同烏克蘭站在一起，抵禦俄羅斯，需要多久就堅持多久。"
+    },
+    {
+      "id": "te:markets:592058",
+      "time": "2026-10-15 02:20:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Slumps by 5.92% — Top commodity losers are Silver (-5.92%), Platinum (-3.45%), Lithium Carbonate (-3.05%) and Gold (-1.67%)."
+    },
     {
       "id": "mkt:01a13ba1-6301-7ee0-a884-15d0e301e70e",
       "time": "2026-10-15 02:16:34",

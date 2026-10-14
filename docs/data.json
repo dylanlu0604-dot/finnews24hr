@@ -1,7 +1,26 @@
 {
-  "updated": "2026-10-15 02:16:56",
+  "updated": "2026-10-15 02:20:48",
   "count": 11949,
   "items": [
+    {
+      "id": "5145383",
+      "time": "2026-10-15 02:20:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國表示將同烏克蘭站在一起，抵禦俄羅斯，需要多久就堅持多久。"
+    },
+    {
+      "id": "te:markets:592058",
+      "time": "2026-10-15 02:20:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Slumps by 5.92% — Top commodity losers are Silver (-5.92%), Platinum (-3.45%), Lithium Carbonate (-3.05%) and Gold (-1.67%)."
+    },
     {
       "id": "mkt:01a13ba1-6301-7ee0-a884-15d0e301e70e",
       "time": "2026-10-15 02:16:34",
@@ -108848,28 +108867,6 @@
         "其他"
       ],
       "text": "SpaceX因大規模借貸引發擔憂，信用風險飆升。"
-    },
-    {
-      "id": "te:markets:590270",
-      "time": "2026-10-08 02:20:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Drops by 3.79% — Top commodity losers are Platinum (-3.79%), Silver (-2.36%) and Gold (-1.23%)."
-    },
-    {
-      "id": "te:markets:590268",
-      "time": "2026-10-08 02:18:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Crude Dips on Easing Supply Concerns — Brent crude eased below the $101-per-barrel mark on Wednesday, extending a slide from September's two-month peak on signs of easing Middle Eastern supply risks. Saudi Arabia cut official selling prices for its flagship crude grade to $5 below the regional benchmark as tankers were able to depart the Persian Gulf with full cargoes. Evidence of a pickup in export volumes from regional OPEC+ producers coincided with reports that US and Iranian officials were holding talks with regional authorities this week. Further easing supply concerns, Saudi Arabia said its East-West pipeline was operating at full capacity, diverting up to 5.8 million bpd of crude to the Red Sea. Still, shipping costs remained elevated following reported strikes against vessels in the Strait of Hormuz. Stateside, EIA data showed crude stockpiles fell by over 3 million barrels last week, while the Strategic Petroleum Reserve remained pinned near multi-decade lows."
     }
   ]
 }
