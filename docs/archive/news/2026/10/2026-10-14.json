@@ -1,7 +1,159 @@
 {
   "date": "2026-10-14",
-  "count": 2262,
+  "count": 2277,
   "items": [
+    {
+      "id": "5145050",
+      "time": "2026-10-14 21:51:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【渝港跨境資料驗證平臺投入運作】記者從香港金融管理局瞭解到，渝港跨境資料驗證平臺（渝港平臺）14日正式投入運作。（新華社）"
+    },
+    {
+      "id": "mkt:01a13aae-92c6-7ee0-a87f-366825ad84b2",
+      "time": "2026-10-14 21:51:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "NEM.N",
+        "Impact bearish",
+        "AEM.N",
+        "B.N"
+      ],
+      "text": "【Gold miners slide after stronger-than-expected US inflation lifts Fed rate-hike bets】Gold fell after stronger-than-expected US inflation boosted market bets of a Fed rate hike this month, dragging bullion producers lower: Barrick Gold (B.N) down 1.5%, Newmont (NEM.N) down 1.7%, Harmony Gold (HMY.N) down 1.6%, Gold Fields (GFI.N) down 0.8%, Sibanye-Stillwater (SBSW.N) down 2.6%, Agnico Eagle (AEM.N) down 2.2%, Kinross Gold (KGC.N) down 1.6%."
+    },
+    {
+      "id": "mkt:01a13aad-e1ac-7ee0-a87f-298ac0640e96",
+      "time": "2026-10-14 21:50:36",
+      "tags": [
+        "MKT News",
+        "MS.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley CFO said the firm repurchased $1.5 bln of stock in Q3."
+    },
+    {
+      "id": "5145049",
+      "time": "2026-10-14 21:50:34",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利首席財務官表示，該行第三季度回購了15億美元的股票。"
+    },
+    {
+      "id": "mkt:01a13aad-ba9e-7ee0-a87f-20517f69aadc",
+      "time": "2026-10-14 21:50:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Analyst: Still expects Fed to hold for remainder of year; rate‑hike risk has risen】Anna Wang says she still expects the Fed to remain on hold for the rest of the year, but that the risk of a rate increase has risen. The owner‑equivalent rent (OER) subcomponent remains hot even as most of the housing market cools, which may indicate an anomaly. Inflation breadth has narrowed, implying the headline CPI’s outsized gain was driven by a small number of categories."
+    },
+    {
+      "id": "5145048",
+      "time": "2026-10-14 21:49:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝萊德CEO芬克：面臨人口結構定時炸彈的國家可從人工智慧中受益。"
+    },
+    {
+      "id": "mkt:01a13aac-8b06-7ee0-a87f-1db192c04e36",
+      "time": "2026-10-14 21:49:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Citigroup expects Fed to hike in December】Citigroup now expects the Federal Reserve to raise rates by 25bp in December after US September core CPI came in significantly above expectations. The bank had previously expected the Fed to keep policy unchanged for the remainder of the year."
+    },
+    {
+      "id": "5145047",
+      "time": "2026-10-14 21:49:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "惠普企業股價下跌5.1%，此前巴克萊將其股票評級從“增持”下調至“持平”。"
+    },
+    {
+      "id": "5145046",
+      "time": "2026-10-14 21:49:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國內首次全柔性晶矽產品級太陽翼電池陣整翼批次交付入軌】10月14日19時40分，朱雀二號改進型遙四運載火箭在東風商業航天創新試驗區發射升空，將搭載的國星宇航星時代-39、44～50星，光傳-3、04星共10顆衛星順利送入預定軌道。其中6顆算力衛星的太陽翼電池陣，由上海星瀚聚能技術有限公司於2026年5月完成產品級交付並隨箭入軌，單星太陽翼面積超4㎡，6顆合計超24㎡。這是國內首次全柔性晶矽產品級太陽翼電池陣批次交付入軌，標誌著我國低成本柔性晶矽太陽翼電池技術由在軌驗證階段邁入算力星座批次工程應用階段。"
+    },
+    {
+      "id": "5145045",
+      "time": "2026-10-14 21:48:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，DCX跌9.24%，HTT跌6.25%，阿特斯跌4.82%，海川證券跌4.25%，震坤行跌4.12%。"
+    },
+    {
+      "id": "mkt:01a13aac-2d43-7ee0-a87f-16715db99007",
+      "time": "2026-10-14 21:48:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML CEO says memory is becoming increasingly important."
+    },
+    {
+      "id": "5145044",
+      "time": "2026-10-14 21:48:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "戴爾科技公司股價下跌7.4%，此前巴克萊將其股票評級從增持下調至持平。"
+    },
+    {
+      "id": "5145043",
+      "time": "2026-10-14 21:48:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "VERASTEM恢復交易，股價上漲9%。"
+    },
+    {
+      "id": "5145042",
+      "time": "2026-10-14 21:48:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝萊德執行長拉里·芬克表示，對資料中心的擔憂源於錯誤資訊。"
+    },
+    {
+      "id": "mkt:01a13aab-9d10-7ee0-a87f-0f1aa44b1901",
+      "time": "2026-10-14 21:48:07",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bearish"
+      ],
+      "text": "Dell (DELL.N) shares fell 7.4% after Barclays downgraded the stock from Overweight to Equal-Weight."
+    },
     {
       "id": "mkt:01a13aab-5cb3-7ee0-a87f-02a652f701a3",
       "time": "2026-10-14 21:47:51",
