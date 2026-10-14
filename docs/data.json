@@ -1,7 +1,70 @@
 {
-  "updated": "2026-10-14 08:44:53",
-  "count": 11045,
+  "updated": "2026-10-14 08:48:43",
+  "count": 11050,
   "items": [
+    {
+      "id": "mkt:01a137e1-8193-7ee0-a864-1cddf6d88a93",
+      "time": "2026-10-14 08:48:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000300.SS",
+        "Impact bearish",
+        "000001.SS",
+        "399001.SZ"
+      ],
+      "text": "【China margin financing balances fall 9.066 bln yuan】Margin financing on China’s two exchanges fell 9.066 bln yuan to 2.508 tln yuan as of Oct 13. Shanghai Stock Exchange balance 1.286 tln yuan, down 3.102 bln; Shenzhen Stock Exchange 1.222 tln yuan, down 5.964 bln."
+    },
+    {
+      "id": "te:markets:591649",
+      "time": "2026-10-14 08:48:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Trade Notable Lower — Australian shares dipped 70 points, or 0.8%, to 8,714 in Wednesday morning trade, extending weakness from the prior session. Sentiment weakened after Wall Street closed mostly lower overnight, with earnings from major banks and pressure on memory chip stocks weighing, alongside softer oil prices and persistent Middle East tensions. Locally, caution grew ahead of September labor market data, while minutes from the RBA’s September meeting signaled further hikes remained possible as flagged upside risks materialised. In main trading partner China, CPI/PPI and trade data are due later today. Financials, healthcare, consumer stocks, and services dragged, partly offset by gains in tech and energy minerals. Rio Tinto slipped 0.4% after steady copper output in Q3, with strong Oyu Tolgoi performance offsetting declines elsewhere. The four big banks fell sharply, down 1.4%–2.4%. Other notable laggards included Pro Medicus (-3.4%), Genesis Minerals (-2.5%), and Aristocrat Leisure (-1.9%)."
+    },
+    {
+      "id": "5143294",
+      "time": "2026-10-14 08:48:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少90.66億元】截至10月13日，上交所融資餘額報12860.65億元，較前一交易日減少31.02億元；深交所融資餘額報12220.58億元，較前一交易日減少59.64億元；兩市合計25081.23億元，較前一交易日減少90.66億元。"
+    },
+    {
+      "id": "5143293",
+      "time": "2026-10-14 08:47:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以媒：又一架美國飛以色列客機接到炸彈威脅】《以色列時報》當地時間13日援引以色列公共廣播公司訊息稱，又一架從紐約飛往以色列的達美航空公司的航班接到炸彈威脅。但在美國安全人員對飛機進行檢查後，該航班獲准起飛。另據《耶路撒冷郵報》報道，警方此前接到一通電話，對方聲稱飛機上被安放了炸彈，隨後該航班被禁止起飛。有關部門懷疑，打電話的人可能與此前聲稱已降落在以色列本-古裡安機場的達美航空客機上藏有炸彈的人是同一人。此前，據以色列方面訊息，當地時間13日上午，美國達美航空公司一架從紐約飛往以色列特拉維夫的客機在收到匿名報告稱飛機上存在炸彈威脅後，降落在本-古裡安國際機場，初步評估顯示，該炸彈警報為虛假警報。（環球網）"
+    },
+    {
+      "id": "te:markets:591648",
+      "time": "2026-10-14 08:46:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rise on Tech Rebound — The Nikkei 225 Index rose 0.4% to above 68,000 on Wednesday, ending a four-session losing streak as selling pressure in technology and AI-related stocks eased. Sentiment also improved following dovish comments from New York Fed President John Williams, who maintained that one additional rate hike would be appropriate this year but saw no need for further tightening in 2027. Lower US Treasury yields provided further support for Japanese equities, although elevated oil prices limited gains. Among the top technology performers, Advantest gained 1%, Kioxia Holdings rose 2.2%, Lasertec advanced 2.5%, SoftBank Group climbed 2.6%, and Taiyo Yuden surged 5.1%. Japanese technology stocks had faced mounting pressure in recent sessions amid concerns over AI-related investments and intensifying competition from China."
+    },
+    {
+      "id": "5143292",
+      "time": "2026-10-14 08:45:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：上一次激進左翼掌權時，他們給我們帶來了歷史上最嚴重的通貨膨脹、最高的能源價格和最糟糕的貿易赤字，而且他們允許數百萬非法移民湧入我們的邊境。 如果他們獲勝，他們會再次故技重施——但阿拉斯加自豪的人民絕不會讓這種事發生！"
+    },
     {
       "id": "5143290",
       "time": "2026-10-14 08:41:36",
@@ -100194,18 +100257,6 @@
         "其他"
       ],
       "text": "據報道，越南當局正考慮允許股票交易延長至午休時間，並擴大每日價格區間，以期提高股市流動性，使股票交易對投資者更具吸引力。"
-    },
-    {
-      "id": "te:economy:589981",
-      "time": "2026-10-07 08:45:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Private House Approvals",
-        "Importance 1"
-      ],
-      "text": "Rebound in Australia Private House Approvals Confirmed — Private sector house approvals in Australia rose 3.7% month-on-month to 10,885 units in August 2026, in line with flash data. The latest result was the strongest monthly rise since July 2025, reversing from a 1.9% decline in the previous month. Permits grew the most in South Australia (27.7%), followed by Western Australia (8.6%), Queensland (6.5%), and Victoria (0.5%). In contrast, approvals in New South Wales fell 4.5%. On an annual basis, private house approvals jumped 18.4%, picking up from an 8.2% increase in July."
     }
   ]
 }
