@@ -1,7 +1,35 @@
 {
   "date": "2026-10-15",
-  "count": 382,
+  "count": 385,
   "items": [
+    {
+      "id": "5145605",
+      "time": "2026-10-15 06:02:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲10月維持利率不變的機率為66.8%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為66.8%，累計加息25個基點的機率為33.2%。美聯儲到12月維持利率不變的機率為9.1%，累計加息25個基點的機率62.2%，累計加息50個基點的機率為28.7%。"
+    },
+    {
+      "id": "mkt:01a13c6e-8740-7ee0-a886-7345e909e759",
+      "time": "2026-10-15 06:00:38",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【China road freight rate index edges up in September】China Federation of Logistics and Purchasing (CFLP) published the September China road freight rate index at 105.1, up 0.14% MoM and 0.06% YoY. CFLP said seasonal headwinds are easing and road logistics activity is picking up, with freight rates rising modestly."
+    },
+    {
+      "id": "5145604",
+      "time": "2026-10-15 06:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【溫和上行 9月份中國公路物流運價指數環比回升】中國物流與採購聯合會今天公佈9月份中國公路物流運價指數，指數環比回升，季節性影響因素逐步減弱，公路物流市場更趨活躍，運價溫和上行。9月份，中國公路物流運價指數為105.1點，環比回升0.14%，同比回升0.06%。分車型指數看，以大宗商品及區域運輸為主的整車運價指數為105.7點，環比回升0.15%，同比回升0.06%。綜合來看，各車型指數環比均有所回升，同比穩中趨升。分割槽域看，市場呈現結構性變化，月末部分割槽域出現運力緊張。（央視新聞）"
+    },
     {
       "id": "5145603",
       "time": "2026-10-15 05:55:55",
