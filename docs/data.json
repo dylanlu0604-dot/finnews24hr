@@ -1,7 +1,76 @@
 {
-  "updated": "2026-10-15 02:36:12",
-  "count": 11951,
+  "updated": "2026-10-15 02:40:01",
+  "count": 11953,
   "items": [
+    {
+      "id": "5145406",
+      "time": "2026-10-15 02:38:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：蘋果起訴OpenAI竊取商業秘密一案的主審法官表示，他“極有可能”批准蘋果的禁令申請，禁止目前任職於OpenAI的蘋果前員工使用蘋果的專有資訊。"
+    },
+    {
+      "id": "mkt:01a13bb4-ca72-7ee0-a884-474cd759a99f",
+      "time": "2026-10-15 02:37:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's Barkin said the CPI report was higher than he expected."
+    },
+    {
+      "id": "mkt:01a13bb4-a7a2-7ee0-a884-3a7dae3706d3",
+      "time": "2026-10-15 02:37:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Barkin said he does not want to predict the outcome of the October FOMC meeting."
+    },
+    {
+      "id": "5145405",
+      "time": "2026-10-15 02:37:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：生產者價格資料將有助於研判通脹前景。"
+    },
+    {
+      "id": "5145403",
+      "time": "2026-10-15 02:36:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：不想預測10月FOMC會議的結果。"
+    },
+    {
+      "id": "5145402",
+      "time": "2026-10-15 02:35:58",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：CPI報告高於希望看到的水平。"
+    },
+    {
+      "id": "5145401",
+      "time": "2026-10-15 02:35:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦調查局局長帕特爾：MS NOW剛剛報道稱我“抵達俄羅斯”與俄聯邦安全域性會面。這家媒體不斷散佈關於FBI及執法部門在保護美國人民方面歷史性成就的謊言。"
+    },
     {
       "id": "mkt:01a13baf-0991-7ee0-a884-33ffeb23c1d6",
       "time": "2026-10-15 02:31:29",
@@ -108846,50 +108915,6 @@
         "DXY"
       ],
       "text": "【Fed officials flag concerns over AI and productivity】Officials said AI could be positive for policy because if it produces a future productivity boom, near-term inflation pressures might ease. But the Fed's September meeting minutes warned some risks could delay those gains: \"a few participants noted new concerns arising from rapid AI adoption, including cybersecurity and other risks that in some cases could weigh on productivity.\" This month Fed officials, including BARR and Cook, emphasized uncertainty about the timing of any AI-related productivity improvements."
-    },
-    {
-      "id": "5130648",
-      "time": "2026-10-08 02:38:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及頻繁赴得州的原因：要確保帕克斯頓勝選。"
-    },
-    {
-      "id": "5130647",
-      "time": "2026-10-08 02:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我打算透過競選集會助力共和黨。"
-    },
-    {
-      "id": "mkt:01a117a8-4e57-7ee0-a7e0-8b07b54dc85e",
-      "time": "2026-10-08 02:37:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump spoke with Israeli Prime Minister Netanyahu."
-    },
-    {
-      "id": "5130646",
-      "time": "2026-10-08 02:36:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：已與以色列總理內塔尼亞胡通話。"
-    },
-    {
-      "id": "5130645",
-      "time": "2026-10-08 02:36:21",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【FOMC會議紀要顯示 官員們敦促為市場壓力制定預案】上一次美國聯邦公開市場委員會（FOMC）會議的紀要顯示，在資產負債表政策方面，一些與會者認為美國國債市場執行平穩，但也指出為應對市場壓力而制定預案的重要性。會議紀要顯示，與會者建議強化美聯儲應對市場失靈的策略、溝通機制和政策工具，以應對可能出現的市場失靈，同時儘量限制央行在美國國債市場中的介入程度。"
     }
   ]
 }
