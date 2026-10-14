@@ -1,7 +1,94 @@
 {
   "date": "2026-10-14",
-  "count": 2362,
+  "count": 2371,
   "items": [
+    {
+      "id": "5145106",
+      "time": "2026-10-14 22:30:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "愛迪生公司正考慮對約24.6萬名客戶斷電。"
+    },
+    {
+      "id": "5145105",
+      "time": "2026-10-14 22:30:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "達科電子宣佈實施戰略性結構降本與製造最佳化措施。"
+    },
+    {
+      "id": "mkt:01a13ad1-5f96-7ee0-a880-34bdd32211ec",
+      "time": "2026-10-14 22:29:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "BAC.O"
+      ],
+      "text": "Bank of America CEO Moynihan said he is not worried about the bank's relationship with the Trump administration."
+    },
+    {
+      "id": "mkt:01a13ad1-2e7d-7ee0-a880-2f1253addb9e",
+      "time": "2026-10-14 22:29:09",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Russell 2000 fell to its lowest level in over four months, down 1.3%."
+    },
+    {
+      "id": "5145104",
+      "time": "2026-10-14 22:28:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅素2000指數跌至四個多月新低，最新跌幅為1.3%。"
+    },
+    {
+      "id": "te:markets:592001",
+      "time": "2026-10-14 22:28:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Amgen Shares Hit 5-week High — Amgen shares increased to 426.77 USD, the highest since September 2026. Over the past 4 weeks, Amgen gained 13.36%, and in the last 12 months, it increased 43.22%."
+    },
+    {
+      "id": "5145103",
+      "time": "2026-10-14 22:28:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美銀CEO莫伊尼漢：對我們在特朗普政府中的處境“並不擔憂”。"
+    },
+    {
+      "id": "mkt:01a13acf-a814-7ee0-a880-24672e5439b0",
+      "time": "2026-10-14 22:27:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Saudi reroutes to keep 'Davos in the Desert' investment summit on schedule despite Houthi attacks】Saudi Arabia plans to hold the Future Investment Initiative forum in Riyadh on Oct 26–29 despite sustained Houthi attacks, offering in-person and online participation and alternative air and land routes. Houthi strikes have intensified against Saudi airports and oil facilities; Riyadh International Airport was suspended after an attack that killed 13, and a reopening date is unclear. Organizers have contacted foreign embassies and companies to arrange hybrid attendance and alternative routing, including private flights to Dammam with road transfers to Riyadh or routing via Bahrain (Manama) or Qatar (Doha) followed by overland entry to the capital."
+    },
+    {
+      "id": "5145102",
+      "time": "2026-10-14 22:27:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國安理會透過決議 將對海地制裁機制延長一年】當地時間10月14日，聯合國安理會透過一項決議，將對海地的制裁機制延長一年，包括武器禁運、旅行禁令和資產凍結措施等。決議同時將協助海地制裁委員會工作的專家小組的任期延長13個月。（央視新聞）"
+    },
     {
       "id": "5145101",
       "time": "2026-10-14 22:26:22",
