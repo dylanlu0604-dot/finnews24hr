@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-15 02:51:28",
-  "count": 11951,
+  "updated": "2026-10-15 02:55:18",
+  "count": 11957,
   "items": [
+    {
+      "id": "mkt:01a13bc4-3ffd-7ee0-a884-86efe1b16e0a",
+      "time": "2026-10-15 02:54:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Times reports U.S. troops will conduct training and exercises with local forces."
+    },
+    {
+      "id": "5145425",
+      "time": "2026-10-15 02:53:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "問：您沒有辭職的打算嗎？\n\n澤連斯基：當然沒有。這是我的責任。"
+    },
+    {
+      "id": "mkt:01a13bc2-b75e-7ee0-a884-7ecbe948dd10",
+      "time": "2026-10-15 02:52:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times, citing U.S. military officials, reports the U.S. is deploying several hundred troops to Latin America to expand operations against drug traffickers."
+    },
+    {
+      "id": "5145424",
+      "time": "2026-10-15 02:52:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫表示，美國與伊朗達成的協議無法阻止對伊朗的又一次襲擊。"
+    },
+    {
+      "id": "mkt:01a13bc1-5b8d-7ee0-a884-70e3569fe437",
+      "time": "2026-10-15 02:51:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department: Secretary of State Rubio supports efforts by all parties to de-escalate tensions."
+    },
+    {
+      "id": "mkt:01a13bc1-40ef-7ee0-a884-6b532ef40c65",
+      "time": "2026-10-15 02:51:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department: Secretary of State Rubio spoke Wednesday with Ethiopian Prime Minister Abiy Ahmed Ali to discuss tensions with Eritrea."
+    },
+    {
+      "id": "5145423",
+      "time": "2026-10-15 02:51:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "問：沒有美國的支援，你們能贏嗎？\n\n澤連斯基：我們無論如何都不會失去獨立。"
+    },
     {
       "id": "5145422",
       "time": "2026-10-15 02:50:35",
@@ -108873,16 +108929,6 @@
         "Impact bearish"
       ],
       "text": "【Microsoft prices Surface Laptop Ultra at $2,599, touts local AI performance】Microsoft (MSFT.O) unveiled the Surface Laptop Ultra, powered by an NVIDIA chip, saying it is set to begin shipping with a $2,599 entry price. At a San Francisco event on Wednesday, Microsoft said the device, when running local models, returns prompt results about twice as fast as Apple’s MacBook Pro M5 and generates video roughly six times faster. The laptop supports both general-purpose and AI compute. NVIDIA CEO Jensen Huang joined Microsoft CEO Nadella on stage to discuss the chip’s development. Microsoft’s entry price is about $400 below the 16-inch entry MacBook Pro."
-    },
-    {
-      "id": "5130654",
-      "time": "2026-10-08 02:52:14",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美銀Cabana認為美聯儲面臨兩難抉擇：要麼加息 要麼美債收益率飆升】美國銀行的Mark Cabana表示，全球債券市場遭遇拋售，反映投資者正在重新評估中性利率水平。交易員認為，美聯儲主席凱文·沃什給了市場更大空間去試探更高的收益率。美銀證券全球利率策略聯席主管Cabana表示，沃什8月在傑克遜霍爾發表講話時稱，他“很難說整體金融狀況具有限制性”，這削弱了此前曾抑制市場重新定價的美聯儲指引。他說，2026年美國10年期國債收益率漲幅中，一半以上都出現在這次講話之後。Cabana表示，美聯儲再次加息“可能性極低”，儘管決策者正面臨兩難局面：“現在就兩個選擇，要麼加息，要麼債券收益率飆升。”"
     }
   ]
 }

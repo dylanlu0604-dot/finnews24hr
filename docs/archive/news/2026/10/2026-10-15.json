@@ -1,7 +1,63 @@
 {
   "date": "2026-10-15",
-  "count": 219,
+  "count": 226,
   "items": [
+    {
+      "id": "mkt:01a13bc4-3ffd-7ee0-a884-86efe1b16e0a",
+      "time": "2026-10-15 02:54:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Times reports U.S. troops will conduct training and exercises with local forces."
+    },
+    {
+      "id": "5145425",
+      "time": "2026-10-15 02:53:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "問：您沒有辭職的打算嗎？\n\n澤連斯基：當然沒有。這是我的責任。"
+    },
+    {
+      "id": "mkt:01a13bc2-b75e-7ee0-a884-7ecbe948dd10",
+      "time": "2026-10-15 02:52:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times, citing U.S. military officials, reports the U.S. is deploying several hundred troops to Latin America to expand operations against drug traffickers."
+    },
+    {
+      "id": "5145424",
+      "time": "2026-10-15 02:52:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫表示，美國與伊朗達成的協議無法阻止對伊朗的又一次襲擊。"
+    },
+    {
+      "id": "mkt:01a13bc1-5b8d-7ee0-a884-70e3569fe437",
+      "time": "2026-10-15 02:51:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department: Secretary of State Rubio supports efforts by all parties to de-escalate tensions."
+    },
+    {
+      "id": "mkt:01a13bc1-40ef-7ee0-a884-6b532ef40c65",
+      "time": "2026-10-15 02:51:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department: Secretary of State Rubio spoke Wednesday with Ethiopian Prime Minister Abiy Ahmed Ali to discuss tensions with Eritrea."
+    },
+    {
+      "id": "5145423",
+      "time": "2026-10-15 02:51:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "問：沒有美國的支援，你們能贏嗎？\n\n澤連斯基：我們無論如何都不會失去獨立。"
+    },
     {
       "id": "5145422",
       "time": "2026-10-15 02:50:35",
