@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-15 06:11:46",
-  "count": 11969,
+  "updated": "2026-10-15 06:15:29",
+  "count": 11965,
   "items": [
+    {
+      "id": "5145610",
+      "time": "2026-10-15 06:14:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及通脹報告：我們目前情況不錯。"
+    },
+    {
+      "id": "5145609",
+      "time": "2026-10-15 06:12:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三季報預告密集披露，基金錨定業績確定性】隨著上市公司三季報預告披露啟動，越來越多的公募機構將目光投向業績確定性標的。據統計，近一月公募機構合計調研約1700次，多隻業績預計增長的標的被扎堆調研。業內人士認為，近期市場波動加大，但隨著季報披露期的到來，真正兌現業績的行業或率先表現。（上證報）"
+    },
+    {
+      "id": "5145608",
+      "time": "2026-10-15 06:12:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀金期貨突破1100美元/盎司，日內漲0.30%。"
+    },
     {
       "id": "5145607",
       "time": "2026-10-15 06:11:07",
@@ -109028,66 +109053,6 @@
         "國際"
       ],
       "text": "【美軍稱伊朗對霍爾木茲海峽擁有“完全控制權”的說法不實】當地時間10月7日，美軍中央司令部表示，當日早些時候，伊朗伊斯蘭革命衛隊的一位將軍聲稱“霍爾木茲海峽已關閉”，並稱該國對海峽擁有“完全控制權”，這一說法不實。美軍中央司令部說，目前，霍爾木茲海峽的交通暢通，各類商業貨物和能源物資（包括2000萬桶原油）正經由此處運輸。美國及其地區夥伴顯然掌控著該海峽。（央視新聞）"
-    },
-    {
-      "id": "te:markets:590289",
-      "time": "2026-10-08 06:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Depreciates by 0.80% — Top currency losers are Brazilian Real (-0.80%), Indian Rupee (-0.66%), Polish Zloty (-0.64%), Euro (-0.52%) and British Pound (-0.46%). Gains are led by Dollar Index (0.40%) and Japanese Yen (0.06%)."
-    },
-    {
-      "id": "mkt:01a1186e-f2bd-7ee0-a7e2-5e8e970df5a0",
-      "time": "2026-10-08 06:14:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jeff Bezos said Blue Origin has for the first time raised $10 billion from external investors, Fox News reported."
-    },
-    {
-      "id": "mkt:01a1186d-deb4-7ee0-a7e2-535f6d5c2cad",
-      "time": "2026-10-08 06:13:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reported Jeff Bezos said Blue Origin will go public in the future."
-    },
-    {
-      "id": "5130749",
-      "time": "2026-10-08 06:13:17",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【昨日全社會跨區域人員流動量超2.9億人次】記者從交通運輸部瞭解到，國慶假期最後一天，全社會跨區域人員流動量超2.9億人次。其中鐵路客運量預計2415萬人次，公路人員流動量預計超2.6億人次，水路客運量預計98萬人次，民航客運量預計251萬人次。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1186d-74bd-7ee0-a7e2-487279f2a6c2",
-      "time": "2026-10-08 06:13:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jeff Bezos said he has invested $28 bln of his own funds in Blue Origin, according to Fox News."
-    },
-    {
-      "id": "5130748",
-      "time": "2026-10-08 06:13:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯黎部隊在黎以臨時邊界附近陣地遭襲】聯合國駐黎巴嫩臨時部隊（聯黎部隊）7日發表宣告說，位於黎巴嫩和以色列臨時邊界“藍線”附近舒巴村的一處陣地當天上午遭數輪輕武器射擊，事件未造成人員傷亡。（新華社）"
-    },
-    {
-      "id": "5130747",
-      "time": "2026-10-08 06:11:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜創始人傑夫·貝索斯：藍色起源未來將進行IPO。"
     }
   ]
 }
