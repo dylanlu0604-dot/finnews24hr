@@ -1,7 +1,35 @@
 {
   "date": "2026-10-15",
-  "count": 227,
+  "count": 230,
   "items": [
+    {
+      "id": "5145428",
+      "time": "2026-10-15 03:02:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克：星盾的速度或使用方面的任何限制，都由美國總統決定。"
+    },
+    {
+      "id": "mkt:01a13bca-3bbf-7ee0-a884-8c488ef9cd1b",
+      "time": "2026-10-15 03:01:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 1.06% at 24,074, trading 240 points below the spot index."
+    },
+    {
+      "id": "5145427",
+      "time": "2026-10-15 03:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌1.08%，報24069.71點，低水244.46點。"
+    },
     {
       "id": "5145426",
       "time": "2026-10-15 02:56:54",
