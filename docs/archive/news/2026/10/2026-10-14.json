@@ -1,7 +1,112 @@
 {
   "date": "2026-10-14",
-  "count": 1711,
+  "count": 1723,
   "items": [
+    {
+      "id": "5144202",
+      "time": "2026-10-14 16:56:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利愛迪生集團執行長：集團正考慮是否延長與卡達能源公司的液化天然氣供應合同。"
+    },
+    {
+      "id": "5144201",
+      "time": "2026-10-14 16:56:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天邦食品：2026年第三季度淨利潤虧損1.15億元，前三季度淨利潤虧損16.58億元】天邦食品公告，2026年第三季度營業收入17.18億元，同比下降15.18%；淨利潤虧損1.15億元，扣非淨利潤虧損2.61億元。2026年前三季度營業收入53.74億元，同比下降20.01%；淨利潤虧損16.58億元，扣非淨利潤虧損19.33億元。"
+    },
+    {
+      "id": "5144200",
+      "time": "2026-10-14 16:56:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行撥款1.701億美元用於美元貸款操作。"
+    },
+    {
+      "id": "5144199",
+      "time": "2026-10-14 16:55:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光華科技：2026年第三季度淨利潤3433.72萬元，同比增長0.62%】光華科技公告，2026年第三季度營業收入13.28億元，同比增長74.15%；歸屬於上市公司股東的淨利潤3433.72萬元，同比增長0.62%；扣非淨利潤3206.94萬元，同比下降3.70%。2026年前三季度營業收入35.75億元，同比增長74.89%；歸屬於上市公司股東的淨利潤1.29億元，同比增長42.29%；扣非淨利潤1.24億元，同比增長40.44%。"
+    },
+    {
+      "id": "5144198",
+      "time": "2026-10-14 16:55:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【閩燦坤B：預計2026年第三季度淨利潤虧損3600萬元–4000萬元，同比由盈轉虧】閩燦坤B公告，預計2026年1月1日至2026年9月30日營業收入9.2億元–9.6億元，2025年同期為10.5億元；歸屬於上市公司股東的淨利潤虧損3600萬元–4000萬元，2025年同期為2331萬元，同比由盈轉虧；扣非淨利潤虧損3450萬元–3850萬元，2025年同期為2079萬元，同比由盈轉虧。公司稱，國際市場需求影響營業收入，原材料價格高位推高綜合製造成本，人民幣兌美元持續升值導致匯兌損失增加。"
+    },
+    {
+      "id": "5144197",
+      "time": "2026-10-14 16:55:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【渤海汽車：擬1億元在泰國設立子公司拓展海外市場】渤海汽車公告稱，公司擬透過全資子公司濱州活塞、濱州輕量化為投資主體，在泰國設立渤海活塞（泰國）有限公司，投資總額約1億元人民幣（約50000萬泰銖），資金主要用於當地廠房租賃改造、產線裝置投資等。設立完成後，濱州活塞將持有泰國公司90%股權，濱州輕量化持有10%股權。本次投資不構成關聯交易及重大資產重組，無需提交股東會審議，尚需履行國內外相關審批手續，存在一定不確定性。"
+    },
+    {
+      "id": "5144196",
+      "time": "2026-10-14 16:55:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金宏氣體：目前公司氦氣產品已穩定供應數十家半導體行業客戶】10月14日，金宏氣體（688106.SH）在互動平臺表示，目前公司氦氣產品已穩定供應數十家半導體行業客戶。"
+    },
+    {
+      "id": "5144195",
+      "time": "2026-10-14 16:55:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "據報道，SK、三星物產等公司正考慮收購西屋電氣股份。"
+    },
+    {
+      "id": "5144193",
+      "time": "2026-10-14 16:54:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度航空執行長著手削減A350發動機高昂的維護成本。"
+    },
+    {
+      "id": "5144192",
+      "time": "2026-10-14 16:54:14",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "貴州茅臺：華茅新品10月15日即將釋出。"
+    },
+    {
+      "id": "5144191",
+      "time": "2026-10-14 16:53:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利愛迪生集團執行長表示：終止與卡達能源公司的液化天然氣採購合同不符合集團利益。"
+    },
+    {
+      "id": "te:markets:591871",
+      "time": "2026-10-14 16:53:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Steadies as Markets Weigh ECB Outlook Ahead of US Data — The euro was little changed at $1.12, recovering from its weakest level in a year and a half, as investors assessed remarks from European Central Bank President Christine Lagarde and awaited US inflation data for fresh clues on the Federal Reserve’s rate path. Lagarde said elevated euro-area inflation driven by high energy prices has yet to feed into the broader economy. Speaking at a CNN event in Bangkok, she said policymakers are monitoring indirect effects and potential second-round inflationary pressures, stressing the need for caution despite no clear signs of such effects emerging so far. Meanwhile, inflation continues to exceed forecasts, while the US-Iran conflict shows little sign of easing, prompting markets to price in another ECB rate hike in December. Despite its recent recovery, the euro remains under pressure from surging energy prices, persistent inflation and rising borrowing costs, as well as fiscal concerns in highly indebted countries, particularly France."
+    },
     {
       "id": "5144190",
       "time": "2026-10-14 16:52:28",
