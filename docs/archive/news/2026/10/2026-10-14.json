@@ -1,7 +1,147 @@
 {
   "date": "2026-10-14",
-  "count": 2349,
+  "count": 2362,
   "items": [
+    {
+      "id": "5145101",
+      "time": "2026-10-14 22:26:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "葡萄牙航空 TAP ：第三季度燃料影響與第二季度基本持平。"
+    },
+    {
+      "id": "mkt:01a13ace-8eda-7ee0-a880-1c4d401593de",
+      "time": "2026-10-14 22:26:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD"
+      ],
+      "text": "Shane McGuire, global head of research at the Teacher Retirement System of Texas, said institutional investors' exposure to gold is negligible and that the true bullish case for gold depends on recognition by institutional investors."
+    },
+    {
+      "id": "5145100",
+      "time": "2026-10-14 22:25:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部修訂對格芯（GlobalFoundries）的《晶片與科學法案》資助協議。"
+    },
+    {
+      "id": "5145099",
+      "time": "2026-10-14 22:25:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta允許使用者向沒有WhatsApp賬戶的人傳送WhatsApp通話邀請。"
+    },
+    {
+      "id": "mkt:01a13acd-a464-7ee0-a880-1331a2949330",
+      "time": "2026-10-14 22:25:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "U.S. Commerce Department revised the CHIPS and Science Act funding agreement with GlobalFoundries."
+    },
+    {
+      "id": "mkt:01a13acd-5ceb-7ee0-a880-0c0b8fe1d98f",
+      "time": "2026-10-14 22:24:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【Strategist says U.S. 3–4% inflation may be the new normal】Peter Boockvar, CIO at One Point BFG Wealth Partners, said he still believes 3–4% overall inflation has become the new normal and that price pressures persist, particularly at the corporate level. He said tomorrow's producer price index (PPI) will reflect this, with current PPI gains running above CPI."
+    },
+    {
+      "id": "5145098",
+      "time": "2026-10-14 22:24:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "得克薩斯教師基金會的Shayne McGuire表示，黃金真正的看漲理由在於獲得機構認可。"
+    },
+    {
+      "id": "mkt:01a13acc-c937-7ee0-a880-0177362e405f",
+      "time": "2026-10-14 22:24:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Economist: Fed rates may remain elevated long-term】LPL Financial chief economist Jeffrey Roach said inf pressure is spreading from energy into the broader economy, suggesting the final phase of returning inf to target will be bumpy and could keep interest rates elevated for an extended period. He said the latest report complicates the Fed's policy decision this month by making the path to price stability more difficult."
+    },
+    {
+      "id": "mkt:01a13acc-9541-7ee0-a87f-ffba1a55dc85",
+      "time": "2026-10-14 22:24:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's foreign minister Jaishankar will visit the UAE from Oct. 14 to 16."
+    },
+    {
+      "id": "mkt:01a13acc-62bd-7ee0-a87f-f3671525f02e",
+      "time": "2026-10-14 22:23:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Strategist: Diesel price rise and AI boom effects not fully reflected】Carson Group chief macro strategist Sonu Varghese said CPI came in hotter than expected and is not solely fuel-driven. September core inflation annualized 3.7% versus 3.2% over the past three years. Investors remain surprised by the breadth of inflation. The full effects of higher diesel prices and the AI boom have yet to be seen. The Fed is likely to hike again this year to around 4.3%, but that may still be insufficient to bring inflation back to 2%."
+    },
+    {
+      "id": "5145097",
+      "time": "2026-10-14 22:23:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部長蘇傑生將於10月14日至16日訪問阿聯酋。"
+    },
+    {
+      "id": "mkt:01a13acc-529b-7ee0-a87f-ec2d9e73614b",
+      "time": "2026-10-14 22:23:51",
+      "tags": [
+        "MKT News",
+        "NESN.SW",
+        "Impact bearish"
+      ],
+      "text": "Texas attorney general sues Gerber and parent Nestlé, alleging Gerber baby food contains toxic heavy metals."
+    },
+    {
+      "id": "mkt:01a13acc-3313-7ee0-a87f-e38a6fdc8b3c",
+      "time": "2026-10-14 22:23:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Hirtle & Co. CIO: Wash may view Fed rate hike as helping stabilize long-term US Treasury yields】Hirtle & Co.'s CIO said September CPI shows core prices have continued rising over the past six months, which on the margin supports a Fed rate hike in October. He added the overall risk balance matters more — with growth strong the FOMC can place greater weight on fighting inflation. He expects Wash understands recent heavy selling of long-dated USTs partly reflects doubts about the Fed's anti-inflation credibility, and therefore may judge a rate hike could help stabilize long-term Treasury yields."
+    },
     {
       "id": "5145096",
       "time": "2026-10-14 22:23:14",
