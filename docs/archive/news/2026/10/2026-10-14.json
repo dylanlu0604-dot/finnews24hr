@@ -1,7 +1,42 @@
 {
   "date": "2026-10-14",
-  "count": 2286,
+  "count": 2290,
   "items": [
+    {
+      "id": "5145059",
+      "time": "2026-10-14 21:59:33",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將把費城員工遷至Market街2400號。"
+    },
+    {
+      "id": "te:markets:591997",
+      "time": "2026-10-14 21:59:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wind Energy Index Hits 37-week Low — Wind Energy Index decreased to 21.92 USD, the lowest since January 2026. Over the past 4 weeks, Wind Energy Index lost 3.97%, and in the last 12 months, it increased 9.83%."
+    },
+    {
+      "id": "5145058",
+      "time": "2026-10-14 21:57:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數觸及日內低點，下跌0.5%。"
+    },
+    {
+      "id": "5145057",
+      "time": "2026-10-14 21:56:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先進智算聯盟（FAIC）再擴容：中科曙光、海光資訊、傅利葉智慧等18家單位加入】在2026灣區半導體產業生態博覽會期間舉辦的灣區積體電路科學技術大會上，由圖靈量子、優刻得、沐曦股份、腦虎科技共同發起的先進智算聯盟（FAIC）舉行第二批成員單位授牌儀式，18家新成員正式加入。據悉，主要成員包括中科曙光、海光資訊、江原科技、迅策科技、廣東省半導體行業協會等。聯盟旨在構建量子計算、人工智慧、半導體晶片、算力基礎設施等多技術融合的協同創新平臺。"
+    },
     {
       "id": "5145056",
       "time": "2026-10-14 21:55:28",
