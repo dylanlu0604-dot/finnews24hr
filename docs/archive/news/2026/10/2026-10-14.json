@@ -1,7 +1,248 @@
 {
   "date": "2026-10-14",
-  "count": 1517,
+  "count": 1539,
   "items": [
+    {
+      "id": "mkt:01a13972-2006-7ee0-a873-8823896bb5a2",
+      "time": "2026-10-14 16:05:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: oil production growth was driven mainly by Persian Gulf producers."
+    },
+    {
+      "id": "mkt:01a13971-b647-7ee0-a873-83bdf391a2d5",
+      "time": "2026-10-14 16:05:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: diesel will account for 25% of the decline."
+    },
+    {
+      "id": "te:markets:591836",
+      "time": "2026-10-14 16:05:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 3.05% — Top commodity losers are Lithium Carbonate (-3.05%), Silver (-0.73%), Aluminum Alloy (-0.65%) and Gold (-0.25%)."
+    },
+    {
+      "id": "5144073",
+      "time": "2026-10-14 16:05:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IEA：2026年全球石油需求將下降260萬桶/日】IEA月報：預計2026年全球石油總供應量將比需求低173萬桶/日（此前報告中預計為低174萬桶/日）。預計2027年全球石油供應將比總需求高出394萬桶/日（之前預測為高出373萬桶/日）。全球石油供應將在2026年下降580萬桶/日（之前預測為下降570萬桶/日）。由於伊朗戰爭造成的干擾和價格飆升，2026年全球石油需求將下降260萬桶/日（之前預測為下降250萬桶/日）。由於長期的供應中斷，柴油市場面臨重大壓力，中間餾分油的供應限制將持續至2027年。近期攻擊的升級威脅到九月份中東石油出口的復甦。預計全球石油需求將在第四季度下降250萬桶/日。"
+    },
+    {
+      "id": "5144072",
+      "time": "2026-10-14 16:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【梵蒂岡證實教皇患上肺腺癌，但手術成功】梵蒂岡在一份醫療公報中表示，教皇利奧週二被診斷患有肺癌；此前，外科醫生切除了其右肺的一部分。公報稱，教皇患的是肺腺癌，這是一種常見癌症；手術期間進行的組織檢測證實了醫生在術前檢查中已經懷疑的結果。利奧於週二入住羅馬傑梅利醫院，接受手術，以切除醫生在近期一次常規健康檢查中發現的腫塊。教皇的主刀外科醫生斯特凡諾·馬爾加里托拉博士及其私人醫生路易吉·卡爾博內博士在一份宣告中表示，手術歷時約90分鐘，非常成功，未出現併發症。（觀察者網）"
+    },
+    {
+      "id": "mkt:01a13971-6515-7ee0-a873-7d4b8ee13c1e",
+      "time": "2026-10-14 16:04:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report forecasts global oil demand will fall by 2.5 mln bpd in Q4."
+    },
+    {
+      "id": "mkt:01a13970-fc00-7ee0-a873-76e748400d6f",
+      "time": "2026-10-14 16:04:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report says a recent escalation in attacks threatens a September recovery in Middle East oil exports."
+    },
+    {
+      "id": "5144071",
+      "time": "2026-10-14 16:04:27",
+      "tags": [
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "谷歌：谷歌DeepMind與谷歌雲將為最多200名歐洲研究人員提供前沿模型訪問許可權，並提供300萬美元的計算資源額度。"
+    },
+    {
+      "id": "mkt:01a13970-bbb4-7ee0-a873-68b5717ecb1e",
+      "time": "2026-10-14 16:04:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: prolonged supply disruptions are placing significant strain on the diesel market; middle‑distillate supply constraints are expected to persist through 2027."
+    },
+    {
+      "id": "mkt:01a13970-85ff-7ee0-a873-618224b1a828",
+      "time": "2026-10-14 16:03:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "IEA monthly report forecasts 2026 global oil demand will decline by 2.6 mln b/d, versus a prior forecast of -2.5 mln b/d, citing disruptions and price spikes from the Iran war."
+    },
+    {
+      "id": "te:markets:591835",
+      "time": "2026-10-14 16:03:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Cautiously Higher — Frankfurt’s DAX 40 edged higher on Wednesday, attempting to regain momentum after the previous session’s losses as investors navigated a busy earnings season. However, the cautious mood persisted amid rising oil prices, which fueled concerns over renewed inflationary pressures, while anticipation of September’s US inflation data kept markets on edge. Investors also closely monitored geopolitical developments, weighing the potential impact of energy market volatility and broader economic uncertainty on the outlook for global markets."
+    },
+    {
+      "id": "mkt:01a13970-1833-7ee0-a873-5f41f4bd20ad",
+      "time": "2026-10-14 16:03:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: global oil supply set to fall 5.8 mln bpd in 2026, versus prior forecast of a 5.7 mln bpd decline."
+    },
+    {
+      "id": "5144070",
+      "time": "2026-10-14 16:03:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電氣：富申實業訴訟按撤訴處理，涉9774.18萬元】上海電氣公告，控股子公司通訊公司與富申實業的訴訟中，富申實業曾要求撤銷《產品銷售合同》並返還已付預付款及已付貨款合計9774.18萬元。近日，通訊公司收到上海市楊浦區人民法院《民事裁定書》，裁定本次訴訟按原告富申實業撤訴處理。"
+    },
+    {
+      "id": "mkt:01a1396f-cfb1-7ee0-a873-5374bfa97770",
+      "time": "2026-10-14 16:03:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report forecasts 2027 global oil supply will exceed total demand by 3.94 mln bpd, up from a prior forecast of a 3.73 mln bpd surplus."
+    },
+    {
+      "id": "te:markets:591834",
+      "time": "2026-10-14 16:03:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Trades Flat — The FTSE MIB traded nearly flat on Wednesday, extending a muted session from the previous day, as investors assessed developments in the banking sector. MPS fell 0.27% after ISS urged shareholders to reject its proposed acquisitions of Banco BPM (-0.82%) and Banca Generali, as well as a €4 billion special dividend, citing execution and integration risks. Intesa Sanpaolo lost 0.74% and BPER Banca shed 0.82%. Ferrari fell 0.65%, Poste Italiane lost 0.49% and Banca Mediolanum dropped 1.10%. These losses were offset by gains in technology stocks, with STMicroelectronics rising 1.95% amid improved sentiment following ASML’s stronger-than-expected earnings and upbeat sales outlook. Luxury stocks also advanced, with Moncler gaining 1.53% and Brunello Cucinelli rising 1.98%."
+    },
+    {
+      "id": "5144069",
+      "time": "2026-10-14 16:03:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方鋯業：預計2026年前三季度淨利潤同比增長261.93%～365.34%】東方鋯業公告，預計2026年前三季度歸屬於上市公司股東的淨利潤為1.4億元～1.8億元，上年同期為3868.12萬元，同比增長261.93%～365.34%；扣除非經常性損益後的淨利潤為1.4億元～1.8億元，上年同期為3849.99萬元，同比增長263.64%～367.53%。業績增長主要受下游需求增長、產品量價齊升、降本增效及產能利用率提升等因素帶動。"
+    },
+    {
+      "id": "5144068",
+      "time": "2026-10-14 16:03:05",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東吳證券：維持中鎢高新“買入”評級，金洲精工+礦山注入開啟天花板】東吳證券研報指出，中鎢高新前三季度業績高增，金洲精工+礦山注入開啟天花板。鎢價短期回撥承壓，期待補庫帶動價格回升+金洲業績兌現。公司精礦與粉末業務與鎢價關聯度較高，期待年底刀具下游補庫帶來的價格彈性。展望後續，伴隨Rubin PCB 爬坡，以及RubinUltra 交換托盤材料升級，高長徑比鑽針與金剛石塗層鑽針需求有望持續提升，帶動公司產品結構持續最佳化並提升利潤率水平，持續兌現業績。公司從上游鎢礦到下游硬質合金製品產業鏈一體化能力持續提升，成本與技術壁壘將持續鞏固。考慮到鎢價短期承壓，審慎下調公司2026-2027年歸母淨利潤預測分別為42（原值51）/51（原值54）億元，上調2028年歸母淨利潤預測為62（原值58）億元，對應動態PE 分別為26/21/18x，考慮公司後續資產注入以及金洲精工產業地位，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:01a1396f-950e-7ee0-a873-4b611a3fd53f",
+      "time": "2026-10-14 16:02:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "IEA monthly report: Russia's oil production rose 65,000 b/d in September from August to 8.43 mln b/d, but was 870,000 b/d lower y/y."
+    },
+    {
+      "id": "5144067",
+      "time": "2026-10-14 16:02:50",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗研究將Grab目標價從6.50美元下調至5.50美元。"
+    },
+    {
+      "id": "5144066",
+      "time": "2026-10-14 16:02:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國銀行股價盤前下跌1.5%，此前美國政府因該銀行未監管可疑活動對其罰款12億美元。"
+    },
+    {
+      "id": "mkt:01a1396f-493c-7ee0-a873-41135a71bc4e",
+      "time": "2026-10-14 16:02:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA monthly report: global oil demand expected to fall 2.6 mln bpd in 2026 (prior forecast -2.5 mln bpd); 2027 demand now seen rising 2.0 mln bpd, revised down from 2.6 mln bpd."
+    },
+    {
+      "id": "5144065",
+      "time": "2026-10-14 16:01:57",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【國際能源署：俄美柴油協議難以改變市場供需格局】國際能源署週三在月度市場報告中稱，受煉油開工量下滑限制，俄羅斯出口能力承壓，普京與特朗普達成的柴油供應協議“難以實質性改變全球柴油市場供需平衡”。國際能源署估算，受烏克蘭無人機襲擊影響，俄羅斯9月原油加工量為390萬桶/日。機構維持對該國第四季度煉油平均開工量預期不變，為400萬桶/日，同比減少110萬桶/日。“煉廠接連遭遇無人機襲擊，持續擾亂煉油生產，制約國內成品油供應。”"
+    },
     {
       "id": "5144064",
       "time": "2026-10-14 16:01:39",
