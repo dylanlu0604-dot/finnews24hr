@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-15 06:38:08",
-  "count": 11972,
+  "updated": "2026-10-15 06:41:54",
+  "count": 11973,
   "items": [
+    {
+      "id": "mkt:01a13c93-ee88-7ee0-a886-a3aafe06e2c6",
+      "time": "2026-10-15 06:41:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Morgan Stanley CEO: Expects annual AI spending to remain around $1 trillion over next 5–10 years】Morgan Stanley CEO Ted Pick said on Wednesday he expects the AI build-out to encounter bottlenecks and episodes of overbuild but that investment will remain large-scale. He forecast annual AI spending of roughly $1 trillion over the next 5–10 years and said banks should help modulate AI capex — slowing the pace when markets move too fast and accelerating when required — noting the AI capex cycle is partly driving US and global growth. JP Morgan CFO Jeremy Barnum said on Tuesday the bank is closely monitoring its AI risk exposure as demand for AI infrastructure capex increases."
+    },
+    {
+      "id": "te:markets:592073",
+      "time": "2026-10-15 06:40:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Falls by 4.33% — Top commodity losers are Oat (-4.33%), Lumber (-2.47%) and Rubber (-2.22%). Gains are led by Coffee (1.37%) and Wheat (0.60%)."
+    },
+    {
+      "id": "5145619",
+      "time": "2026-10-15 06:38:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府擬最終驅逐眾議員奧馬爾。"
+    },
     {
       "id": "5145618",
       "time": "2026-10-15 06:37:31",
@@ -109106,25 +109133,6 @@
         "焦點"
       ],
       "text": "白宮附近兩家達美樂披薩門店均顯示訂單量激增。"
-    },
-    {
-      "id": "te:markets:590292",
-      "time": "2026-10-08 06:40:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Falls by 3.49% — Top commodity losers are Coffee (-3.49%), Cocoa (-3.05%) and Wheat (-2.52%). Gains are led by Barley (3.10%) and Rice (2.17%)."
-    },
-    {
-      "id": "5130755",
-      "time": "2026-10-08 06:39:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【節後首日20只產品亮相，10月新基發行迎小高峰】國慶假期後，基金髮行市場迎來小高峰。10月8日20只產品齊發，拉開了本月新基金髮行的序幕。Wind資料顯示，本月擬發行新基金合計96只，權益類產品佔據主流，科技成長、紅利價值、北交所3個月持有等主題多點開花。此外，三季度新成立基金513只，數量環比小幅增長，但募集份額明顯收窄，發行向頭部集中。今年前三季度，新成立基金超1380只，單隻規模分化明顯，被動指數產品數量最多。（中證報）"
     }
   ]
 }
