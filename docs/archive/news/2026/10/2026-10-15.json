@@ -1,7 +1,81 @@
 {
   "date": "2026-10-15",
-  "count": 193,
+  "count": 200,
   "items": [
+    {
+      "id": "mkt:01a13baf-0991-7ee0-a884-33ffeb23c1d6",
+      "time": "2026-10-15 02:31:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the night session close at 02:30, SHFE gold main contract fell 1.61% to 886 yuan/gram; SHFE silver main contract fell 6.29% to 13,523 yuan/kg; SC crude oil main contract fell 2.95% to 734 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a13bae-e057-7ee0-a884-28c2a8c57963",
+      "time": "2026-10-15 02:31:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 1.6% to 882.97 yuan/gram and silver T+D fell 5.95% to 13,476.0 yuan/kg in the Oct. 14 evening session."
+    },
+    {
+      "id": "mkt:01a13bae-d6d4-7ee0-a884-219717ce81ee",
+      "time": "2026-10-15 02:31:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $95.09/bbl, up $0.95, or 1.01%."
+    },
+    {
+      "id": "5145396",
+      "time": "2026-10-15 02:30:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶95.09美元，上漲95美分，漲幅1.01%。"
+    },
+    {
+      "id": "5145395",
+      "time": "2026-10-15 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌2.28%，報729.50元人民幣/桶。滬金夜盤收跌1.61%，滬銀收跌6.29%。"
+    },
+    {
+      "id": "te:markets:592060",
+      "time": "2026-10-15 02:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 2.86% — Top crypto losers are Ether (-2.86%), XRP (-2.84%) and Bitcoin (-1.87%)."
+    },
+    {
+      "id": "mkt:01a13bac-eab8-7ee0-a884-1dd0aaee6751",
+      "time": "2026-10-15 02:29:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NATO secretary-general sees no imminent threat to NATO territory】NATO secretary-general Rutte said in Tallinn on the 14th there were no signs Russia will attack NATO member territory, but NATO will respond if Russian forces are detected massing."
+    },
     {
       "id": "te:markets:592059",
       "time": "2026-10-15 02:25:00",

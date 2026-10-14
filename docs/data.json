@@ -1,7 +1,81 @@
 {
-  "updated": "2026-10-15 02:28:34",
-  "count": 11947,
+  "updated": "2026-10-15 02:32:20",
+  "count": 11951,
   "items": [
+    {
+      "id": "mkt:01a13baf-0991-7ee0-a884-33ffeb23c1d6",
+      "time": "2026-10-15 02:31:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the night session close at 02:30, SHFE gold main contract fell 1.61% to 886 yuan/gram; SHFE silver main contract fell 6.29% to 13,523 yuan/kg; SC crude oil main contract fell 2.95% to 734 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a13bae-e057-7ee0-a884-28c2a8c57963",
+      "time": "2026-10-15 02:31:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 1.6% to 882.97 yuan/gram and silver T+D fell 5.95% to 13,476.0 yuan/kg in the Oct. 14 evening session."
+    },
+    {
+      "id": "mkt:01a13bae-d6d4-7ee0-a884-219717ce81ee",
+      "time": "2026-10-15 02:31:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $95.09/bbl, up $0.95, or 1.01%."
+    },
+    {
+      "id": "5145396",
+      "time": "2026-10-15 02:30:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶95.09美元，上漲95美分，漲幅1.01%。"
+    },
+    {
+      "id": "5145395",
+      "time": "2026-10-15 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌2.28%，報729.50元人民幣/桶。滬金夜盤收跌1.61%，滬銀收跌6.29%。"
+    },
+    {
+      "id": "te:markets:592060",
+      "time": "2026-10-15 02:30:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 2.86% — Top crypto losers are Ether (-2.86%), XRP (-2.84%) and Bitcoin (-1.87%)."
+    },
+    {
+      "id": "mkt:01a13bac-eab8-7ee0-a884-1dd0aaee6751",
+      "time": "2026-10-15 02:29:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NATO secretary-general sees no imminent threat to NATO territory】NATO secretary-general Rutte said in Tallinn on the 14th there were no signs Russia will attack NATO member territory, but NATO will respond if Russian forces are detected massing."
+    },
     {
       "id": "te:markets:592059",
       "time": "2026-10-15 02:25:00",
@@ -108816,33 +108890,6 @@
         "國際"
       ],
       "text": "【FOMC會議紀要顯示 官員們敦促為市場壓力制定預案】上一次美國聯邦公開市場委員會（FOMC）會議的紀要顯示，在資產負債表政策方面，一些與會者認為美國國債市場執行平穩，但也指出為應對市場壓力而制定預案的重要性。會議紀要顯示，與會者建議強化美聯儲應對市場失靈的策略、溝通機制和政策工具，以應對可能出現的市場失靈，同時儘量限制央行在美國國債市場中的介入程度。"
-    },
-    {
-      "id": "5130644",
-      "time": "2026-10-08 02:30:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 11月原油期貨收報88.28美元/桶。NYMEX 11月天然氣期貨收報3.2030美元/百萬英熱單位。NYMEX 11月汽油期貨收報3.2342美元/加侖，NYMEX 11月取暖油期貨收報4.6227美元/加侖。"
-    },
-    {
-      "id": "te:markets:590275",
-      "time": "2026-10-08 02:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Slumps by 5.21% — Top crypto losers are Ether (-5.21%), XRP (-5.18%) and Bitcoin (-2.64%)."
-    },
-    {
-      "id": "5130643",
-      "time": "2026-10-08 02:29:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：敘利亞考慮向沙特提供軍事支援對抗胡塞武裝】據美國與敘利亞官員訊息，沙特正在葉門與伊朗支援的胡塞武裝作戰，敘利亞正考慮向其提供軍事援助。報道提及可選方案包括針對導彈和無人機襲擊的防禦支援，或是派遣敘利亞部隊協同沙特支援的葉門軍隊作戰。一名美國官員稱利雅得已請求敘利亞出兵，但大馬士革表示其首要任務仍是國內重建，任何合作都將透過官方渠道開展。"
     }
   ]
 }
