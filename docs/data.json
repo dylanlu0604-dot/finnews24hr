@@ -1,7 +1,401 @@
 {
-  "updated": "2026-10-14 10:30:43",
-  "count": 11229,
+  "updated": "2026-10-14 10:34:33",
+  "count": 11259,
   "items": [
+    {
+      "id": "mkt:01a13842-718a-7ee0-a869-677b5e84bd94",
+      "time": "2026-10-14 10:34:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CUSTOMS: China Jan–Sep coal and lignite imports totaled 353.543 mln t."
+    },
+    {
+      "id": "mkt:01a13842-6c8f-7ee0-a869-5dfc3396be3c",
+      "time": "2026-10-14 10:33:59",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "Customs: China’s auto exports (including chassis) were 1.182 mln units in September, up from 1.047 mln in August."
+    },
+    {
+      "id": "mkt:01a13842-3f6b-7ee0-a869-52ea83678d4d",
+      "time": "2026-10-14 10:33:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China exported 8.628 million vehicles, including chassis, in Jan–Sep, CUSTOMS said."
+    },
+    {
+      "id": "mkt:01a13842-3121-7ee0-a869-4f86eb8508bf",
+      "time": "2026-10-14 10:33:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "CUSTOMS: China's September iron ore and concentrates imports totaled 109.817 million tonnes, up from 108.539 million tonnes in August."
+    },
+    {
+      "id": "mkt:01a13842-1431-7ee0-a869-41d72cebd786",
+      "time": "2026-10-14 10:33:36",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "Customs: China exported 65.526 mln mobile phones in September, up from 52.596 mln in August."
+    },
+    {
+      "id": "mkt:01a13841-d833-7ee0-a869-39e748db866a",
+      "time": "2026-10-14 10:33:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper"
+      ],
+      "text": "Customs: China's September exports of unwrought aluminum and aluminum products were 656,000 tonnes, compared with 626,000 tonnes in August."
+    },
+    {
+      "id": "mkt:01a13841-c332-7ee0-a869-33edd44cc42b",
+      "time": "2026-10-14 10:33:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "CUSTOMS: China imported 954.97 mln tonnes of iron ore and concentrates in Jan–Sep."
+    },
+    {
+      "id": "mkt:01a13841-b1fe-7ee0-a869-2e3480b6c326",
+      "time": "2026-10-14 10:33:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "WTI"
+      ],
+      "text": "China September imports YoY 24.6% (previous 21.7%)."
+    },
+    {
+      "id": "mkt:01a13841-994a-7ee0-a869-214bcec008b6",
+      "time": "2026-10-14 10:33:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Imports in CNY (YoY) (Sep) | actual 24.6% | previous 21.70%"
+    },
+    {
+      "id": "mkt:01a13841-9395-7ee0-a869-1cc6635ac1ee",
+      "time": "2026-10-14 10:33:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Customs: China's steel exports were 10.492 mln t in September, up from 10.155 mln t in August."
+    },
+    {
+      "id": "mkt:01a13841-6d13-7ee0-a869-137997c0d9f6",
+      "time": "2026-10-14 10:32:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "China exports YoY 29.6% in September, vs 18.6% previously."
+    },
+    {
+      "id": "mkt:01a13841-6ce8-7ee0-a869-0c6859a580ec",
+      "time": "2026-10-14 10:32:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Customs: China Jan–Sep steel exports 85.64 mln t."
+    },
+    {
+      "id": "mkt:01a13841-45c2-7ee0-a869-04d0312ffb99",
+      "time": "2026-10-14 10:32:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Exports in CNY (YoY) (Sep) | actual 29.6% | previous 18.60%"
+    },
+    {
+      "id": "mkt:01a13841-2695-7ee0-a868-fb1d10b75cc4",
+      "time": "2026-10-14 10:32:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Customs: China's soybean imports were 11.88 mln tonnes in September, down from 12.141 mln tonnes in August."
+    },
+    {
+      "id": "mkt:01a13841-209c-7ee0-a868-f2f8c42bd140",
+      "time": "2026-10-14 10:32:34",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "WTI"
+      ],
+      "text": "China's September imports totaled 2,128.42 bln yuan, versus 1,918.11 bln yuan previously."
+    },
+    {
+      "id": "mkt:01a13841-120f-7ee0-a868-ebd76829cb3f",
+      "time": "2026-10-14 10:32:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "CUSTOMS: China's rare-earth exports were 4,269.8 tonnes in September, down from 4,735.1 tonnes in August."
+    },
+    {
+      "id": "mkt:01a13840-fec8-7ee0-a868-e02ad2fcc28d",
+      "time": "2026-10-14 10:32:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Imports in CNY (Sep) | actual 2128420000000B | previous 1918110000000B"
+    },
+    {
+      "id": "mkt:01a13840-fd8a-7ee0-a868-def231560103",
+      "time": "2026-10-14 10:32:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "WTI"
+      ],
+      "text": "China's imports in USD terms rose 31.0% YoY in September, versus a 24.3% forecast and a 28.2% prior reading."
+    },
+    {
+      "id": "mkt:01a13840-f353-7ee0-a868-d6cc368e0142",
+      "time": "2026-10-14 10:32:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Jan-Sep rare earth exports totaled 43,711.2 tonnes, Customs said."
+    },
+    {
+      "id": "mkt:01a13840-eb54-7ee0-a868-cebc9e951e60",
+      "time": "2026-10-14 10:32:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "China's September exports totaled CNY3.0344 trillion, up from CNY2.7274 trillion in the prior month (Rmb30,343.9bn vs Rmb27,274.1bn)."
+    },
+    {
+      "id": "mkt:01a13840-e39b-7ee0-a868-c001e1cee156",
+      "time": "2026-10-14 10:32:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "China September exports in USD terms rose 36.3% YoY, versus expected 25.0% and August's 25.0%."
+    },
+    {
+      "id": "mkt:01a13840-e21a-7ee0-a868-bb8cda848a34",
+      "time": "2026-10-14 10:32:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Imports in USD (YoY) (Sep) | actual 31% | consensus 24.3% | previous 28.20%"
+    },
+    {
+      "id": "5143500",
+      "time": "2026-10-14 10:32:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國1-9月份貿易順差9,381.1億美元。"
+    },
+    {
+      "id": "mkt:01a13840-c6f5-7ee0-a868-b584df13e8f4",
+      "time": "2026-10-14 10:32:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Exports in USD (YoY) (Sep) | actual 36.3% | consensus 25% | previous 25.00%"
+    },
+    {
+      "id": "mkt:01a13840-c6aa-7ee0-a868-a8d0cb8258ad",
+      "time": "2026-10-14 10:32:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Exports in CNY (Sep) | actual 3034390000000B | previous 2727410000000B"
+    },
+    {
+      "id": "mkt:01a13840-b060-7ee0-a868-a2c860d449a0",
+      "time": "2026-10-14 10:32:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "China's September trade balance in US dollars was $133.53bn, versus expectations of $118.10bn and a prior $119.09bn."
+    },
+    {
+      "id": "mkt:01a13840-ad4e-7ee0-a868-9eac7535eb8d",
+      "time": "2026-10-14 10:32:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CUSTOMS reported China's refined oil exports at 7.162 mln t in September, up from 6.01 mln t in August."
+    },
+    {
+      "id": "mkt:01a13840-9715-7ee0-a868-96f3d9bd7c43",
+      "time": "2026-10-14 10:31:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CUSTOMS: China imported 11.88 mln tonnes of soybeans in Jan-Sep."
+    },
+    {
+      "id": "mkt:01a13840-8f52-7ee0-a868-89cf4fdb3bc4",
+      "time": "2026-10-14 10:31:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Trade Balance in USD (Sep) | actual 133530000000B | consensus 118100000000B | previous 119090000000.00002B"
+    },
+    {
+      "id": "5143499",
+      "time": "2026-10-14 10:31:56",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦：在大是大非問題上沒有任何模糊的空間】國務院臺辦舉行例行新聞釋出會。有記者問：臺灣藝人蔡康永現身民進黨臺北市長參選人沈伯洋的競選總部成立大會，請問對此有何評論?發言人陳斌華表示，“臺獨”頑固分子沈伯洋所作所為人盡皆知，任何形式的“臺獨”分裂活動都是對中華民族根本利益的嚴重損害，我們都堅決反對。我們始終尊重和保障臺灣同胞正當的言論與表達自由，但在大是大非問題上沒有任何模糊的空間。維護統一、反對“臺獨”是全體中國人民的共同意志，任何人、任何勢力都不能一邊賺取大陸發展紅利，一邊與“臺獨”分裂勢力勾連糾纏做“兩面人”。"
+    },
+    {
+      "id": "mkt:01a13840-7b41-7ee0-a868-8275c5734f92",
+      "time": "2026-10-14 10:31:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "China September trade balance 905.97 bln yuan, prior 809.3 bln yuan."
+    },
+    {
+      "id": "mkt:01a13840-6a58-7ee0-a868-7f9e0fc3ffed",
+      "time": "2026-10-14 10:31:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CUSTOMS: China exported 41.402 mln tonnes of refined oil products in Jan–Sep."
+    },
+    {
+      "id": "mkt:01a13840-5506-7ee0-a868-76a3e362e0fc",
+      "time": "2026-10-14 10:31:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Trade Balance in CNY (Sep) | actual 905970000000B | previous 809300000000B"
+    },
+    {
+      "id": "5143498",
+      "time": "2026-10-14 10:31:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國1-9月美元計價出口同比增長21.3%；進口同比增長27.5%。"
+    },
+    {
+      "id": "5143497",
+      "time": "2026-10-14 10:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國9月貿易帳(按美元計) 1335.3億美元，前值 1190.9億美元。"
+    },
+    {
+      "id": "5143496",
+      "time": "2026-10-14 10:31:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國9月以美元計價出口同比增長36.3%，中國9月以美元計價進口同比增長31.0%。"
+    },
+    {
+      "id": "5143495",
+      "time": "2026-10-14 10:30:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉加德拒絕回答有關去世界經濟論壇任職的問題。"
+    },
+    {
+      "id": "mkt:01a1383f-6a82-7ee0-a868-6dcf78904bcf",
+      "time": "2026-10-14 10:30:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Central Bank President Lagarde said she will not run for the French presidency."
+    },
     {
       "id": "mkt:01a1383e-7f14-7ee0-a868-6627125b54a4",
       "time": "2026-10-14 10:29:42",
@@ -101790,77 +102184,6 @@
         "Importance 1"
       ],
       "text": "US 10-Year Yield Steadies Ahead of Fed Minutes — The yield on the 10-year US Treasury note steadied around 5.31% on Wednesday, remaining near 24-year highs as investors awaited minutes from the Federal Reserve’s latest meeting for clues on the outlook for monetary policy. Traders also monitored remarks from Fed officials, with policymakers increasingly signaling a less hawkish stance on interest rates following softer-than-expected PCE inflation and jobs data released last week. Markets are currently pricing in nearly an 80% chance that the Fed will keep policy unchanged this month. Meanwhile, Treasury bonds remained under pressure as concerns over persistent inflation, widening fiscal risks and increased issuance of AI-related debt continued to weigh on sentiment. Oil prices also advanced as renewed attacks on tankers in the Strait of Hormuz and continued fighting between Saudi forces and the Houthis heightened concerns over energy supplies, keeping inflation and potential rate hikes in focus."
-    },
-    {
-      "id": "5129365",
-      "time": "2026-10-07 10:34:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元 <JPY=EBS> 上漲0.20%，報158.4400。"
-    },
-    {
-      "id": "5129364",
-      "time": "2026-10-07 10:33:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國3年期公司債收益率上升0.3個基點，至4.639%。"
-    },
-    {
-      "id": "te:markets:590010",
-      "time": "2026-10-07 10:33:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Weakens on Yield Differential — The Japanese yen weakened to around 158.5 per dollar on Wednesday, approaching two-week lows as the wide yield gap between the US and Japan continued to favor the dollar. The currency remained under pressure from relatively low domestic interest rates and Japan’s heavy debt burden, with Prime Minister Sanae Takaichi pushing ahead with expansionary fiscal policies. In a parliamentary address, Takaichi pledged to cut the consumption tax on food products while emphasizing that the government would secure funding without issuing additional bonds, seeking to reassure financial markets. Meanwhile, data showed that Japan’s real wages rose 1.5% year-on-year in August, marking the eighth consecutive month of gains and reinforcing expectations for further Bank of Japan interest rate hikes. BOJ member Ayano Sato also expressed support for raising interest rates gradually in several stages."
-    },
-    {
-      "id": "5129363",
-      "time": "2026-10-07 10:32:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "木原稔表示，將繼續與美國就預防性措施進行磋商。"
-    },
-    {
-      "id": "5129362",
-      "time": "2026-10-07 10:31:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：美軍實施宵禁顯示對駐沖繩案件迅速作出反應。"
-    },
-    {
-      "id": "5129361",
-      "time": "2026-10-07 10:31:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數早盤收跌0.9%，報70074.13點。"
-    },
-    {
-      "id": "5129360",
-      "time": "2026-10-07 10:31:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數早盤收跌0.6%，報4158.89點。"
-    },
-    {
-      "id": "5129359",
-      "time": "2026-10-07 10:31:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三菱汽車就針對其美國子公司的訴訟達成和解。"
     }
   ]
 }
