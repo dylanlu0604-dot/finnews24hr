@@ -1,7 +1,169 @@
 {
   "date": "2026-10-14",
-  "count": 1563,
+  "count": 1580,
   "items": [
+    {
+      "id": "5144089",
+      "time": "2026-10-14 16:12:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明新旭騰：持股5%以上股東莊嚴解除質押480萬股】明新旭騰公告稱，公司持股5%以上股東莊嚴於2026年10月13日辦理完成部分股份解除質押，本次解質股份480萬股，佔其所持股份比例18.77%，佔公司總股本比例2.96%。截至公告披露日，莊嚴持有公司股份2556.70萬股，佔總股本15.76%；剩餘質押股份400萬股，佔其所持股份15.65%，佔總股本2.47%。本次解質股份暫無後續質押安排。莊嚴為公司控股股東一致行動人，其與一致行動人合計持股佔總股本50.83%，解質後合計質押股份400萬股，佔合計持股的4.85%，佔總股本2.47%。"
+    },
+    {
+      "id": "mkt:01a13977-fe57-7ee0-a874-3a3439b4a53a",
+      "time": "2026-10-14 16:12:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "Alibaba",
+        "Xiaomi",
+        "Market Themes",
+        "AI Revolution",
+        "HSI",
+        "Impact bearish",
+        "03690.HK",
+        "Impact bullish",
+        "09988.HK"
+      ],
+      "text": "【Hong Kong close: HSI -0.13%; headline tech names rebound】Hong Kong stocks opened lower, rallied intraday then faded. At close the Hang Seng Index fell 0.13% while the Hang Seng Tech Index rose 0.91%. Large-cap internet names recovered: Meituan (03690.HK) +5%, Alibaba (09988.HK) +2%. New-energy vehicle/consumer tech names firm: Xiaomi Group (01810.HK) +4%, NIO‑SW (09866.HK) +2%. Coal names spiked then eased; Yancoal Australia (03668.HK) closed +3%. Active sectors: ports & shipping, oil, AI applications, intelligent driving, building materials & cement. Optical-communications stocks slumped; Changfei Optical Fibre & Cable (06869.HK) and Cambridge Technology (06166.HK) both fell >6%. Biopharma, semiconductors, commercial aerospace, PCB, lithium battery and power equipment lagged."
+    },
+    {
+      "id": "te:markets:591844",
+      "time": "2026-10-14 16:11:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Hovers at $94 — Crude oil traded around $94 a barrel on Wednesday after giving up earlier gains, as investors weighed improving export flows against renewed attacks across the Middle East. The US said it helped facilitate the shipment of more than 19 million barrels of crude through the Strait of Hormuz, offering some reassurance that supplies were continuing to move despite the conflict. Saudi Arabia increased production, with September output rising by roughly one-third from its previous level. Meanwhile, security concerns have intensified following missile and drone attacks by Iran-backed Houthi forces on several Saudi locations, including the Saudi Aramco office complex in the east of the kingdom. The latest strikes have increased pressure on Washington to support its regional ally and heightened uncertainty over the recovery in Gulf energy shipments. Iranian attacks on tankers passing through the Strait of Hormuz are adding further risks to supply stability."
+    },
+    {
+      "id": "5144088",
+      "time": "2026-10-14 16:11:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北辰實業：控股股東完成增持公司0.85%股份】北辰實業公告稱，公司控股股東北京北辰實業集團有限責任公司增持計劃實施完畢。增持計劃為2025年10月14日至2026年10月13日透過集中競價方式增持公司A股股份，增持金額不低於4500萬元、不超過9000萬元，增持比例不超過總股本2%。截至2026年10月13日，北辰集團累計增持2854.08萬股，佔公司總股本0.85%，增持金額合計4930.18萬元（不含交易費用）。本次增持後，北辰集團持有公司股份佔總股本比例由35.13%升至35.98%，本次增持符合免於發出要約的情形。"
+    },
+    {
+      "id": "mkt:01a13977-68a4-7ee0-a874-3777596f09ee",
+      "time": "2026-10-14 16:11:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7"
+      ],
+      "text": "【Apple iPhone Duo completes large-model registrations; Apple Intelligent, Tongyi Wanxiang, Tongyi Qianwen listed】China MIIT telecom equipment access records show the mainland iPhone Duo folding model A3721 received a trial permit on Sept 2 and completed certificate renewal on Sept 29, with AI large-model registration IDs added: Shanghai-AppleZhiNeng-202506160057 (Apple Intelligent), Shanghai-TongYiWanXiang-202410090024 (Tongyi Wanxiang), Zhejiang-TongYiQianWen-20230901 (Tongyi Qianwen)."
+    },
+    {
+      "id": "te:markets:591843",
+      "time": "2026-10-14 16:11:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Crude Erases Gains — Brent crude traded around $105.5 a barrel on Wednesday after giving up earlier gains, as investors weighed improving export flows against renewed attacks across the Middle East. The US said it helped facilitate the shipment of more than 19 million barrels of crude through the Strait of Hormuz, offering some reassurance that supplies were continuing to move despite the conflict. Saudi Arabia increased production, with September output rising by roughly one-third from its previous level. Meanwhile, security concerns have intensified following missile and drone attacks by Iran-backed Houthi forces on several Saudi locations, including the Saudi Aramco office complex in the east of the kingdom. The latest strikes have increased pressure on Washington to support its regional ally and heightened uncertainty over the recovery in Gulf energy shipments. Iranian attacks on tankers passing through the Strait of Hormuz are adding further risks to supply stability."
+    },
+    {
+      "id": "mkt:01a13977-34d6-7ee0-a874-2c21f3520740",
+      "time": "2026-10-14 16:11:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O): DeepMind and Google Cloud will provide up to 200 European researchers access to frontier models and $3 million in compute credits."
+    },
+    {
+      "id": "5144087",
+      "time": "2026-10-14 16:10:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐派家居：擬1億元-2億元回購股份用於減少註冊資本】歐派家居公告稱，公司董事會審議透過回購股份預案，擬以集中競價交易方式回購公司A股股份，用於減少註冊資本。回購資金總額為1億元-2億元，回購價格上限為46.25元/股，按此測算擬回購數量為216.21萬股-432.43萬股，佔公司總股本比例為0.36%-0.71%。回購實施期限為自公司股東會、可轉換公司債券持有人會議審議透過回購方案之日起12個月內，資金來源為自有或自籌資金。該事項尚需提交股東會和可轉債持有人會議審議。"
+    },
+    {
+      "id": "mkt:01a13976-682e-7ee0-a874-258edb8b03b0",
+      "time": "2026-10-14 16:10:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Austria's Institute for Advanced Studies (IHS) forecasts GDP growth of 0.8% in 2026 and 1.0% in 2027."
+    },
+    {
+      "id": "5144086",
+      "time": "2026-10-14 16:10:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士官員：瑞士商界領袖的禮物是送給美國的，不是送給特朗普的。"
+    },
+    {
+      "id": "mkt:01a13976-4ff6-7ee0-a874-1d808b4b2bdb",
+      "time": "2026-10-14 16:10:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IHS Austria projects inf at 3.1% in 2026 and 2.8% in 2027."
+    },
+    {
+      "id": "te:markets:591841",
+      "time": "2026-10-14 16:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Drops by 2.22% — Top commodity losers are Rubber (-2.22%), Oat (-1.32%) and Wheat (-0.73%). Gains are led by Rice (1.47%) and Palm Oil (1.30%)."
+    },
+    {
+      "id": "mkt:01a13976-2f8a-7ee0-a874-16ebe9853c14",
+      "time": "2026-10-14 16:10:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Austria's WIFO projects GDP growth of 0.9% in 2026 and 1.3% in 2027."
+    },
+    {
+      "id": "mkt:01a13976-14ca-7ee0-a874-0db3aec569b1",
+      "time": "2026-10-14 16:10:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Austrian Institute of Economic Research (WIFO) projects inf at 3.3% in 2026 and 2.6% in 2027."
+    },
+    {
+      "id": "mkt:01a13975-e717-7ee0-a874-04224fe4c0d0",
+      "time": "2026-10-14 16:09:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italian Industrial Federation expects the 2026 budget deficit to reach 2.9% of GDP, in line with the government's estimate."
+    },
+    {
+      "id": "5144085",
+      "time": "2026-10-14 16:09:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中儲糧集團外部董事職務變動】“國資小新”訊息，國資委釋出1戶中央企業外部董事職務變動。經研究，聘任孫蘭生、李沖天為中國儲備糧管理集團有限公司外部董事，姜巖（女）、史軍不再擔任中國儲備糧管理集團有限公司外部董事職務。"
+    },
     {
       "id": "mkt:01a13975-b6f2-7ee0-a873-fcc5835a50e2",
       "time": "2026-10-14 16:09:38",
@@ -9,6 +171,16 @@
         "MKT News"
       ],
       "text": "Confindustria raised its 2026 Italy GDP growth forecast to 1.0% from 0.5% and sees 0.6% growth in 2027."
+    },
+    {
+      "id": "5144084",
+      "time": "2026-10-14 16:09:36",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "【蘋果iPhone Duo完成大模型備案 Apple智慧、通義千問等現身】工信部電信裝置進網許可資訊顯示，蘋果iPhone Duo摺疊屏手機國行版（型號A3721）在今年9月2日獲得試用批文許可證後，於9月29日完成換證，新增了所搭載大模型的備案編號。該裝置搭載的大模型備案編號為：Shanghai-AppleZhiNeng-202506160057、Shanghai-TongYiWanXiang-202410090024、ZheJiang-TongYiQianWen-20230901，分別對應Apple智慧、通義永珍、通義千問。"
     },
     {
       "id": "mkt:01a13975-50cc-7ee0-a873-f0ed311568fc",
