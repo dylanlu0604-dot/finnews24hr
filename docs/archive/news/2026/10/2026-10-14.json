@@ -1,7 +1,134 @@
 {
   "date": "2026-10-14",
-  "count": 1081,
+  "count": 1096,
   "items": [
+    {
+      "id": "5143583",
+      "time": "2026-10-14 11:19:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "思科執行長羅賓斯：世界將歡迎印度的半導體產能。"
+    },
+    {
+      "id": "5143582",
+      "time": "2026-10-14 11:19:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "蘋果連續主力合約日內跌5%，現報6372.00元。"
+    },
+    {
+      "id": "mkt:01a1386b-d8fa-7ee0-a86b-77818f85548b",
+      "time": "2026-10-14 11:19:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "According to an HKEX filing, Shandong Xinde Technology Co., Ltd. submitted a listing application to HKEX on Oct 14; the sole sponsor is Zhongtai International."
+    },
+    {
+      "id": "5143581",
+      "time": "2026-10-14 11:19:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【比亞迪披露歐洲建廠計劃：法國候選】日前，比亞迪執行副總裁李柯在2026巴黎車展上表示，比亞迪將在歐洲大規模投資製造，比亞迪匈牙利工廠計劃在今年第四季度啟動大規模生產。同時，比亞迪也將在歐洲建立第二、第三工廠。目前，法國已進入比亞迪歐洲建廠的候選名單。（第一財經）"
+    },
+    {
+      "id": "mkt:01a1386b-9d57-7ee0-a86b-6eb253baaec4",
+      "time": "2026-10-14 11:18:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【State Administration for Market Regulation launches special rectification of saturated‑steam spherical tank risks】China's State Administration for Market Regulation (SAMR) issued a notice launching a special rectification of risk hazards in saturated‑steam spherical tanks. Design firms for newly manufactured sphere tanks must carry out design‑stage risk assessments based on client conditions, including caustic/alkali stress corrosion, corrosion fatigue, assessment of hazards from saturated‑water flashing and possible explosions, and analysis of instrument impulse‑line freezing risk in low‑temperature use. Required mitigation measures include post‑weld heat‑treatment and weld‑joint hardness testing, periodic testing of in‑tank saturated water quality, automatic internal water‑level control, and optimization of insulation‑layer structural design."
+    },
+    {
+      "id": "mkt:01a1386b-3d17-7ee0-a86b-64e6d195244e",
+      "time": "2026-10-14 11:18:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF managing director said the Fund's Catastrophe Containment and Relief Trust needs replenishment and the IMF will urge member countries to provide support."
+    },
+    {
+      "id": "5143580",
+      "time": "2026-10-14 11:18:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國擬2027年開徵含糖飲料稅】德國一項有關征收含糖飲料稅的方案已被提交至內閣層面，如果獲得批准，德國將於2027年7月1日起對含糖飲料徵稅，但對規模較小的生產商予以免稅。據德國方面訊息，根據該方案，每100毫升含糖量5克及以上的含糖飲料將按每升26歐分的稅率徵稅；每100毫升含糖量達8克及以上時，稅率提高至每升32歐分。使用甜味劑的飲料和純果汁不在此徵稅範圍內，無醇啤酒、無醇葡萄酒以及以大豆、堅果、種子或穀物為原料製成的飲料同樣免稅。年產量不足100萬升的含糖飲料生產商可免繳此稅，以避免增加這類企業的負擔。"
+    },
+    {
+      "id": "mkt:01a1386a-7fe7-7ee0-a86b-5b753b8003ff",
+      "time": "2026-10-14 11:17:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director said she will continue to urge member countries to meet pledges and increase funding for the IMF's Poverty Reduction and Growth Trust."
+    },
+    {
+      "id": "5143579",
+      "time": "2026-10-14 11:17:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織(IMF)總裁格奧爾基耶娃：IMF的災難遏制與救濟信託基金需要補充資金，將敦促成員國提供幫助。"
+    },
+    {
+      "id": "5143578",
+      "time": "2026-10-14 11:17:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【信得科技遞表港交所】據港交所檔案，10月14日，山東信得科技股份有限公司向港交所提交上市申請書，獨家保薦人為中泰國際。"
+    },
+    {
+      "id": "5143577",
+      "time": "2026-10-14 11:17:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4170美元/盎司，日內漲0.22%。"
+    },
+    {
+      "id": "5143576",
+      "time": "2026-10-14 11:17:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賈健旭卸任上海睿創汽車銷售有限公司法定代表人、董事長】天眼查App顯示，近日，上海睿創汽車銷售有限公司發生工商變更，賈健旭卸任法定代表人、董事長，由吳冰接任。該公司成立於2020年11月，註冊資本40億人民幣，經營範圍含汽車銷售、新能源汽車整車銷售、機動車修理和維護等，由上海汽車工業（集團）有限公司全資持股。"
+    },
+    {
+      "id": "5143575",
+      "time": "2026-10-14 11:17:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超格公考就侵犯粉筆智慧財產權事宜公開道歉，稱將賠償450萬元】10月14日訊息，北京宏毅格致教育科技有限公司就侵犯粉筆智慧財產權事宜釋出道歉信：由於工作疏忽、管理失責，公司旗下“超格公考”運營的“實戰桶680課程”“實戰酷酷刷課程”等考公教培付費課程所使用的教材講義及分享給使用者的學習資料中，包含了複製、改編、彙編自粉筆模擬題的侵權內容；且公司透過淘寶、小紅書、抖音等電子商務及社交平臺，以公開售賣、直播授課的方式，向社會公眾傳播並提供了含有前述侵權內容的講義等資料。經雙方平等自願、友好充分協商一致，公司自願向粉筆支付侵權賠償款共計人民幣450萬元整，該款項為本次侵權糾紛的一次性最終賠償款項，涵蓋本次侵權行為給粉筆造成的全部經濟損失。"
+    },
+    {
+      "id": "mkt:01a13869-79b3-7ee0-a86b-51ef35f05f34",
+      "time": "2026-10-14 11:16:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF managing director said development aid has declined and the Fund recognizes it has a responsibility to provide financing when countries need it."
+    },
+    {
+      "id": "5143574",
+      "time": "2026-10-14 11:16:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織總裁格奧爾基耶娃：繼續敦促成員國履行增加對減貧與增長信託基金資金的承諾。"
+    },
     {
       "id": "5143573",
       "time": "2026-10-14 11:15:49",
