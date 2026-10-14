@@ -1,7 +1,53 @@
 {
-  "updated": "2026-10-15 03:07:12",
-  "count": 11951,
+  "updated": "2026-10-15 03:11:00",
+  "count": 11947,
   "items": [
+    {
+      "id": "5145438",
+      "time": "2026-10-15 03:10:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：重點應當關注通脹的趨勢，不能僅憑單份報告下判斷。"
+    },
+    {
+      "id": "5145437",
+      "time": "2026-10-15 03:09:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：消費者物價指數裡的服務通脹值得擔憂。"
+    },
+    {
+      "id": "mkt:01a13bd0-61d8-7ee0-a884-ae955a6bd1e0",
+      "time": "2026-10-15 03:07:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "New York Fed plans to conduct about $14.6 billion of reinvestment purchases between Oct 15 and Nov 13 and will not conduct reserve-management purchases during that period."
+    },
+    {
+      "id": "mkt:01a13bcf-b617-7ee0-a884-a173b02a3deb",
+      "time": "2026-10-15 03:07:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Tasnim reported Yemeni Houthi forces attacked ARAMCO's oil distribution facility north of Jeddah, Saudi Arabia."
+    },
     {
       "id": "5145435",
       "time": "2026-10-15 03:06:06",
@@ -108787,81 +108833,6 @@
         "Impact bullish"
       ],
       "text": "【Trump to attend AI science conference; White House to announce >$1 bln industry commitments, Southeast compute hubs】Trump will attend an AI science conference Thursday where the White House will unveil the \"Genesis Mission\": industry commitments totaling more than $1 bln from AMD, OpenAI and Anthropic to build a compute-hub network across 10 Southeastern U.S. states. The plan includes a $1 bln Georgia investment to provide compute resources for students and faculty and will involve more than 14 institutions. The National Science Foundation and Department of Energy will invest over $100 mln to develop AI-driven scientific research tools."
-    },
-    {
-      "id": "5130673",
-      "time": "2026-10-08 03:10:42",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普將於週四向馬斯克頒發科學成就獎】特朗普定於週四向馬斯克以及其他美國頂尖創新者授予美國科技領域最高榮譽，這將是特朗普首次頒發該獎項。白宮發言人莉茲·休斯頓表示：“特朗普政府感謝這些傑出科技領袖所作出的貢獻。獲獎者助力美國持續保持全球創新領先地位。”授勳儀式將在白宮舉辦的“科學：全新黃金時代峰會”上舉行，獲獎者囊括美國科技界一眾重量級人物。這也標誌著，在高調離開政府團隊、隨後與總統公開決裂之後，馬斯克再度迴歸特朗普的核心圈子。特朗普將在本次峰會上，向特斯拉與SpaceX執行長馬斯克、谷歌聯合創始人謝爾蓋·布林、英偉達執行長黃仁勳以及AMD執行長蘇姿豐授予國家科學獎章；戴爾科技執行長邁克爾·戴爾、微軟執行長薩提亞·納德拉將獲頒國家技術與創新獎章。"
-    },
-    {
-      "id": "mkt:01a117c5-970d-7ee0-a7e1-0a4eb50a1b75",
-      "time": "2026-10-08 03:09:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Indonesia considers pausing new semi-finished nickel processing capacity】Indonesia is discussing a plan to halt new processing facilities for semi-finished nickel products to support prices, senior minister Bahlil Lahadalia said on Wednesday. He said an oversupply of semi-finished nickel has pushed prices lower and the government is considering scaling back or suspending such capacity while promoting downstream production of finished nickel goods. Indonesia, the world’s largest nickel exporter, mainly ships nickel pig iron and ferronickel, and the government will continue to support prices by controlling mining extraction quotas."
-    },
-    {
-      "id": "mkt:01a117c5-45a6-7ee0-a7e1-046fd8657a62",
-      "time": "2026-10-08 03:09:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Attacks on ABHA and Riyadh airports kill 3, injure 36】Saudi General Authority of Civil Aviation said ABHA International Airport in the southwest and King Khalid International Airport in Riyadh were attacked on the 6th-7th, killing three and injuring 36. The ABHA strike killed two women, Moroccan and Algerian nationals, and wounded 28; the King Khalid attack killed one Sudanese national and injured eight."
-    },
-    {
-      "id": "5130672",
-      "time": "2026-10-08 03:09:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普將於週四向馬斯克頒發科學成就獎。"
-    },
-    {
-      "id": "5130671",
-      "time": "2026-10-08 03:08:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門胡塞武裝稱過去24小時向聯軍目標發射11枚導彈】葉門胡塞武裝當地時間7日發表宣告稱，過去24小時向曼德海峽以南地區、薩基亞、拉斯阿拉等地的沙特主導聯軍目標發射了11枚彈道導彈，造成數十人死傷。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a117c4-5f89-7ee0-a7e0-fa24344d98f7",
-      "time": "2026-10-08 03:08:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The Atlantic reports the White House is seeking to develop strike plans against Iran ahead of the US midterm elections."
-    },
-    {
-      "id": "5130670",
-      "time": "2026-10-08 03:08:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國（對伊朗）潛在打擊的規模和目標尚未確定。"
-    },
-    {
-      "id": "5130669",
-      "time": "2026-10-08 03:07:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮要求五角大樓提供中期選舉前打擊伊朗的方案。"
     }
   ]
 }

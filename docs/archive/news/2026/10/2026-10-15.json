@@ -1,7 +1,53 @@
 {
   "date": "2026-10-15",
-  "count": 240,
+  "count": 244,
   "items": [
+    {
+      "id": "5145438",
+      "time": "2026-10-15 03:10:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：重點應當關注通脹的趨勢，不能僅憑單份報告下判斷。"
+    },
+    {
+      "id": "5145437",
+      "time": "2026-10-15 03:09:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：消費者物價指數裡的服務通脹值得擔憂。"
+    },
+    {
+      "id": "mkt:01a13bd0-61d8-7ee0-a884-ae955a6bd1e0",
+      "time": "2026-10-15 03:07:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "New York Fed plans to conduct about $14.6 billion of reinvestment purchases between Oct 15 and Nov 13 and will not conduct reserve-management purchases during that period."
+    },
+    {
+      "id": "mkt:01a13bcf-b617-7ee0-a884-a173b02a3deb",
+      "time": "2026-10-15 03:07:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Tasnim reported Yemeni Houthi forces attacked ARAMCO's oil distribution facility north of Jeddah, Saudi Arabia."
+    },
     {
       "id": "5145435",
       "time": "2026-10-15 03:06:06",
