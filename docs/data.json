@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-15 06:34:23",
-  "count": 11969,
+  "updated": "2026-10-15 06:38:08",
+  "count": 11972,
   "items": [
+    {
+      "id": "5145618",
+      "time": "2026-10-15 06:37:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【福克斯民調：三分之二的選民對美國當前的發展狀況不滿】福克斯新聞最新民調顯示，在美國選舉日臨近之際，選民對經濟狀況和總統的表現持負面看法，此時執政黨往往會處於不利地位。六成選民表示，生活成本是他們最擔憂的經濟問題，其受關注程度遠超政府支出（15%）、就業與收入不平等（各佔7%）、關稅（6%）及稅收（5%）等議題。絕大多數選民對經濟持負面評價（74%），並預計明年經濟狀況將惡化（53%）；同時，三分之二的選民對國家當前的發展狀況感到不滿（66%）。僅有18%的選民表示其家庭狀況較兩年前有所改善。相比之下，獨立選民中多數人認為自己的境況變差了（52%），並預計經濟形勢將進一步惡化（70%）。特朗普在通脹問題上的支援率最低，僅為22%，創下新低。另外，六成選民反對美國對伊朗採取軍事行動，亦有六成選民對人工智慧技術持負面看法。"
+    },
+    {
+      "id": "mkt:01a13c90-1f1c-7ee0-a886-9eb5bd5f1bc7",
+      "time": "2026-10-15 06:37:20",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【Fox poll: Two-thirds of US voters dissatisfied with national direction】Fox News poll ahead of the election: 66% of US voters dissatisfied with the country's direction. 60% cite cost of living as their top economic concern, vs 15% government spending, 7% jobs, 7% income inequality, 6% tariffs and 5% taxes. 74% rate the economy negatively and 53% expect it to worsen next year. Only 18% say their household is better off than two years ago; among independents 52% say worse and 70% expect further deterioration. Trump's support on inf handling is 22% (record low). 60% oppose US military action against Iran. 60% hold a negative view of AI."
+    },
+    {
+      "id": "te:markets:592072",
+      "time": "2026-10-15 06:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Tumbles by 5.96% — Top commodity losers are Silver (-5.96%), Platinum (-3.92%), Lithium Carbonate (-3.05%) and Gold (-1.33%)."
+    },
+    {
+      "id": "5145617",
+      "time": "2026-10-15 06:35:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【債券指數持續上新】10月14日，中證指數有限公司正式釋出中證全債細分期限指數系列，為市場提供多元化業績基準與投資標的。根據編制方案，該指數系列共計12條細分指數，成份券涵蓋國債、地方政府債、金融債、企業債、公司債、中期票據、短期融資券、同業存單等多類債券品種。萬得資料顯示，截至目前，年內新發債券指數413條，同比增幅達33.66%。（證券日報）"
+    },
     {
       "id": "5145616",
       "time": "2026-10-15 06:31:01",
@@ -109083,17 +109125,6 @@
         "其他"
       ],
       "text": "【節後首日20只產品亮相，10月新基發行迎小高峰】國慶假期後，基金髮行市場迎來小高峰。10月8日20只產品齊發，拉開了本月新基金髮行的序幕。Wind資料顯示，本月擬發行新基金合計96只，權益類產品佔據主流，科技成長、紅利價值、北交所3個月持有等主題多點開花。此外，三季度新成立基金513只，數量環比小幅增長，但募集份額明顯收窄，發行向頭部集中。今年前三季度，新成立基金超1380只，單隻規模分化明顯，被動指數產品數量最多。（中證報）"
-    },
-    {
-      "id": "te:markets:590291",
-      "time": "2026-10-08 06:35:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Drops by 4.11% — Top commodity losers are Platinum (-4.11%), Silver (-2.58%) and Gold (-1.44%)."
     }
   ]
 }
