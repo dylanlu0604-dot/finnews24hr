@@ -1,7 +1,18 @@
 {
   "date": "2026-10-15",
-  "count": 192,
+  "count": 193,
   "items": [
+    {
+      "id": "te:markets:592059",
+      "time": "2026-10-15 02:25:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Drops by 4.42% — Top commodity losers are Oat (-4.42%), Rubber (-2.22%) and Sugar (-1.09%). Gains are led by Coffee (1.38%) and Wheat (0.64%)."
+    },
     {
       "id": "5145386",
       "time": "2026-10-15 02:23:53",

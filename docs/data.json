@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-15 02:24:40",
-  "count": 11950,
+  "updated": "2026-10-15 02:28:34",
+  "count": 11947,
   "items": [
+    {
+      "id": "te:markets:592059",
+      "time": "2026-10-15 02:25:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Drops by 4.42% — Top commodity losers are Oat (-4.42%), Rubber (-2.22%) and Sugar (-1.09%). Gains are led by Coffee (1.38%) and Wheat (0.64%)."
+    },
     {
       "id": "5145386",
       "time": "2026-10-15 02:23:53",
@@ -108832,50 +108843,6 @@
         "國際"
       ],
       "text": "【報道：敘利亞考慮向沙特提供軍事支援對抗胡塞武裝】據美國與敘利亞官員訊息，沙特正在葉門與伊朗支援的胡塞武裝作戰，敘利亞正考慮向其提供軍事援助。報道提及可選方案包括針對導彈和無人機襲擊的防禦支援，或是派遣敘利亞部隊協同沙特支援的葉門軍隊作戰。一名美國官員稱利雅得已請求敘利亞出兵，但大馬士革表示其首要任務仍是國內重建，任何合作都將透過官方渠道開展。"
-    },
-    {
-      "id": "te:markets:590273",
-      "time": "2026-10-08 02:27:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Index at March 2025-Highs — The dollar index traded around 102.3 on Wednesday, its highest level since March 2025, as volatility in oil markets continued to fuel inflation concerns, reinforcing expectations that the Fed may need to keep monetary policy tighter for longer. Meanwhile, minutes from the September FOMC meeting showed that most Fed officials supported another rate hike this year, although they signalled no urgency to act. The odds of a rate hike in October fell to 17%, from around 70% in the days following the September decision, while the probability of a 25bps hike in December edged up to around 70%. The greenback strengthened broadly, gaining the most against the euro, as political and fiscal concerns in Spain and France weighed on the common currency."
-    },
-    {
-      "id": "te:markets:590272",
-      "time": "2026-10-08 02:27:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "US 10-Year Yield Eases From 24-Year High — The yield on the 10-year Treasury note was at 5.28%, 8 bps below the 24-year high touched earlier in the session as oil prices swung lower and softened the alarm over energy inflation. OPEC+ shipped laden tankers through the Persian Gulf to limit the crunch for global refiners. This coincided with a strong auction for 10-year notes, which stopped through by 1.7 bps. Still, long-maturity yields were close to their highest since the start of the millennium as the risk of high inflation was combined with robust growth, widening budget deficits, and soaring levels of corporate debt supply. Minutes from the Federal Reserve's last meeting showed strong consensus within the FOMC that higher rates are necessary and the labor market is at full employment. Policymakers also noted that the Treasury market is functioning well, but the central bank must be alert to frictions due to high yields. Over 80% of the rate futures market is positioned for at least one more rate hike by the end of the year."
-    },
-    {
-      "id": "5130642",
-      "time": "2026-10-08 02:26:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美“龍”飛船載4名宇航員脫離空間站 啟程返回地球】搭載4名宇航員的美國太空探索技術公司“龍”飛船於美國東部時間7日脫離國際空間站，啟程返回地球。據美國航空航天局介紹，“龍”飛船於美國東部時間7日8時05分（北京時間7日20時05分）脫離國際空間站，預計將於美國東部時間8日11時34分（北京時間8日23時34分）在加利福尼亞州附近海域濺落。（新華社）"
-    },
-    {
-      "id": "te:markets:590271",
-      "time": "2026-10-08 02:25:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Drops by 3.47% — Top commodity losers are Coffee (-3.47%), Cocoa (-3.04%) and Wheat (-2.59%). Gains are led by Rice (2.66%)."
     }
   ]
 }
