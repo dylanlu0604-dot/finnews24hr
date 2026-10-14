@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-15 02:55:18",
-  "count": 11957,
+  "updated": "2026-10-15 02:59:08",
+  "count": 11955,
   "items": [
+    {
+      "id": "5145426",
+      "time": "2026-10-15 02:56:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭總統澤連斯基不滿SpaceX網路設限 直言有遭特朗普背叛之感】烏克蘭總統澤連斯基對特朗普與普京的柴油交易以及美國限制基輔軍方使用衛星終端表達了沮喪和被背叛的感覺。“遺憾的是，我們正在失去、正在失去一個強大的夥伴，這是我的看法，”澤連斯基在倫敦接受採訪時表示。“當特朗普總統選擇一方，而不是我們這一方時，這是令人痛苦的。”在俄羅斯對烏克蘭能源設施發動一輪導彈與無人機襲擊後，SpaceX旗下的衛星網際網路服務突遭軍事用途限制，烏克蘭正就此向美國及北約盟友尋求解釋。澤連斯基的這番強烈表態可能加劇美國與烏克蘭的緊張關係。"
+    },
     {
       "id": "mkt:01a13bc4-3ffd-7ee0-a884-86efe1b16e0a",
       "time": "2026-10-15 02:54:39",
@@ -108892,43 +108900,6 @@
         "市場"
       ],
       "text": "【法國將釋放1000萬桶柴油儲備應對燃油價格上漲】當地時間10月7日晚，法國總理塞巴斯蒂安·勒科爾尼發表講話，宣佈法國將在未來3個月內釋放1000萬桶柴油戰略儲備，以應對近期燃油價格上漲。勒科爾尼表示，這批柴油是在價格大幅上漲前購入的，將按成本價投放市場，預計可使加油站柴油價格每升下降約12至18歐分。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a117bb-0c96-7ee0-a7e0-d62ee1e61f1b",
-      "time": "2026-10-08 02:58:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "US EPA Administrator Zeldin said the agency will release its next oil and gas proposal in the coming days."
-    },
-    {
-      "id": "5130655",
-      "time": "2026-10-08 02:57:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國環保署：署長澤爾丁宣佈，環保署將在數日內公佈下一份油氣行業提案。"
-    },
-    {
-      "id": "mkt:01a117b9-ac9e-7ee0-a7e0-cb5421f5bcf3",
-      "time": "2026-10-08 02:56:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "NVDA.O",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "【Microsoft prices Surface Laptop Ultra at $2,599, touts local AI performance】Microsoft (MSFT.O) unveiled the Surface Laptop Ultra, powered by an NVIDIA chip, saying it is set to begin shipping with a $2,599 entry price. At a San Francisco event on Wednesday, Microsoft said the device, when running local models, returns prompt results about twice as fast as Apple’s MacBook Pro M5 and generates video roughly six times faster. The laptop supports both general-purpose and AI compute. NVIDIA CEO Jensen Huang joined Microsoft CEO Nadella on stage to discuss the chip’s development. Microsoft’s entry price is about $400 below the 16-inch entry MacBook Pro."
     }
   ]
 }
