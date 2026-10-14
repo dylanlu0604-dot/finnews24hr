@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-15 06:23:08",
-  "count": 11970,
+  "updated": "2026-10-15 06:26:52",
+  "count": 11969,
   "items": [
+    {
+      "id": "5145613",
+      "time": "2026-10-15 06:25:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本週超過20只紅利基金髮布限購公告】Wind統計資料顯示，10月8日至10月14日，已有超過20只紅利基金髮布限購公告。與此同時，多隻紅利新基金在渠道熱發，包括華夏基金旗下的港股通紅利低波ETF，銀華、廣發、博時等公司旗下的紅利ETF等等，節前申報的9只中證紅利增長ETF也正蓄勢待發，但存量紅利類ETF下半年整體呈資金淨流出態勢，一進一出反差明顯。（上證報）"
+    },
+    {
+      "id": "mkt:01a13c82-f049-7ee0-a886-961e20aebb2f",
+      "time": "2026-10-15 06:22:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 10-year Treasury futures rose 4 points, 30-year futures rose 7 points."
+    },
     {
       "id": "5145612",
       "time": "2026-10-15 06:22:35",
@@ -109078,33 +109098,6 @@
         "其他"
       ],
       "text": "壁仞科技：H股配售價為每股31.08港元。"
-    },
-    {
-      "id": "5130752",
-      "time": "2026-10-08 06:25:53",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【私募策略轉向均衡，“輕指數重個股”漸成共識】A股四季度交易已然開啟。近期多家一線股票私募機構表示，對四季度市場並不悲觀：資產欠配背景下的系統性風險有限，部分經濟高頻資料邊際改善，估值壓制因素不明顯，但增量資金和市場情緒仍待修復，後市大機率震盪修復、以結構性行情為主。在策略應對上，“均衡配置”“輕指數重個股”成為私募共識；在市場主線上，AI產業仍受高度關注，9月私募機構對A股公司的調研，也聚焦在電子等方向。在潛在風險與積極因素方面，多傢俬募表示，需進一步跟蹤美聯儲貨幣政策、油價與地緣因素擾動、A股三季報業績及增量資金入市情況。（中證報）"
-    },
-    {
-      "id": "mkt:01a11878-62c6-7ee0-a7e2-6171e8d81db5",
-      "time": "2026-10-08 06:25:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Syria denies it will enter Yemen conflict】Syria’s government denied reports it would join the Yemen war, saying its position is clear: it supports Saudi Arabia but will not open new fronts. Damascus said its regional policy focuses on stability, peace and reconstruction, prioritizing domestic state rebuilding and improving livelihoods. Any military cooperation with partner states would occur only via official channels and existing bilateral frameworks. Multiple media outlets had reported Syria might send troops to Yemen to assist Saudi operations against Houthi forces."
-    },
-    {
-      "id": "5130751",
-      "time": "2026-10-08 06:24:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本主導的亞洲零排放共同體（AZEC）擬就石油儲備相關事宜達成協議。"
     }
   ]
 }

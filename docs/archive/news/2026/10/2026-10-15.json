@@ -1,7 +1,27 @@
 {
   "date": "2026-10-15",
-  "count": 396,
+  "count": 398,
   "items": [
+    {
+      "id": "5145613",
+      "time": "2026-10-15 06:25:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【本週超過20只紅利基金髮布限購公告】Wind統計資料顯示，10月8日至10月14日，已有超過20只紅利基金髮布限購公告。與此同時，多隻紅利新基金在渠道熱發，包括華夏基金旗下的港股通紅利低波ETF，銀華、廣發、博時等公司旗下的紅利ETF等等，節前申報的9只中證紅利增長ETF也正蓄勢待發，但存量紅利類ETF下半年整體呈資金淨流出態勢，一進一出反差明顯。（上證報）"
+    },
+    {
+      "id": "mkt:01a13c82-f049-7ee0-a886-961e20aebb2f",
+      "time": "2026-10-15 06:22:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 10-year Treasury futures rose 4 points, 30-year futures rose 7 points."
+    },
     {
       "id": "5145612",
       "time": "2026-10-15 06:22:35",
