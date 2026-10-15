@@ -1,7 +1,220 @@
 {
-  "updated": "2026-10-15 23:30:44",
-  "count": 12352,
+  "updated": "2026-10-15 23:34:50",
+  "count": 12358,
   "items": [
+    {
+      "id": "mkt:01a14033-0732-7ee0-a8a3-380947f6ca1b",
+      "time": "2026-10-15 23:34:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 8-week Treasury bill auction (Oct. 15) stop-out yield 4.05% vs 3.98% prior."
+    },
+    {
+      "id": "mkt:01a14032-eb62-7ee0-a8a3-3784a0ed4679",
+      "time": "2026-10-15 23:34:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Oct.15) | actual 4.05% | previous 3.98%"
+    },
+    {
+      "id": "5148116",
+      "time": "2026-10-15 23:33:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "《亞信第七次峰會宣言》（全文）。（新華社）"
+    },
+    {
+      "id": "mkt:01a14032-ce33-7ee0-a8a3-29b1dc877db0",
+      "time": "2026-10-15 23:33:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 8-week Treasury auction on Oct. 15 — bid-cover ratio 2.26 vs 2.77 previously."
+    },
+    {
+      "id": "mkt:01a14032-a9d9-7ee0-a8a3-2241929a4358",
+      "time": "2026-10-15 23:33:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Oct.15) | actual 2.26 | previous 2.77"
+    },
+    {
+      "id": "mkt:01a14032-421d-7ee0-a8a3-1bee1f4c152a",
+      "time": "2026-10-15 23:33:17",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq said the service disruption originated at its Carteret data center."
+    },
+    {
+      "id": "mkt:01a14031-bd72-7ee0-a8a3-150f3d67c561",
+      "time": "2026-10-15 23:32:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nasdaq: Nasdaq, Nasdaq Texas and Nasdaq PSX are affected."
+    },
+    {
+      "id": "5148115",
+      "time": "2026-10-15 23:32:39",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國原油期貨上漲超過2美元，創下9月21日以來的最高水平，而布倫特原油期貨轉為上漲。"
+    },
+    {
+      "id": "5148114",
+      "time": "2026-10-15 23:32:36",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四周期國債，得標利率4%，投標倍數2.56。拍賣八週期國債，得標利率4.050%，投標倍數2.26。"
+    },
+    {
+      "id": "5148113",
+      "time": "2026-10-15 23:32:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "當地時間10月15日下午，葉門胡塞武裝對外公佈了此前透過地對空導彈擊中一架沙特“颱風”戰機的畫面。據胡塞武裝稱，該戰鬥機從沙特塔伊夫基地起飛，在葉門薩達省上空被擊中。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a14031-4510-7ee0-a8a3-09e8fc4fc917",
+      "time": "2026-10-15 23:32:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-week Treasury auction on Oct. 15: percentage of awards at the stop-out rate 15.67%, prior 50.05%."
+    },
+    {
+      "id": "mkt:01a14031-42bc-7ee0-a8a3-035ea5030d0b",
+      "time": "2026-10-15 23:32:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-week Treasury auction on Oct. 15 bid-cover ratio 2.56; prior 2.40."
+    },
+    {
+      "id": "mkt:01a14031-40c7-7ee0-a8a2-ffcafb3115d7",
+      "time": "2026-10-15 23:32:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US 4-week Treasury bill auction Oct. 15 — stop-out yield 4.00%, previous 3.98%."
+    },
+    {
+      "id": "mkt:01a14031-2342-7ee0-a8a2-f484432e3bf6",
+      "time": "2026-10-15 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Oct.15) | actual 2.56 | previous 2.4"
+    },
+    {
+      "id": "mkt:01a14031-2216-7ee0-a8a2-efe184fe0926",
+      "time": "2026-10-15 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Oct.15) | actual 15.67% | previous 50.05%"
+    },
+    {
+      "id": "mkt:01a14031-21f3-7ee0-a8a2-e73ef029d2d1",
+      "time": "2026-10-15 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Oct.15) | actual 4% | previous 3.98%"
+    },
+    {
+      "id": "5148112",
+      "time": "2026-10-15 23:31:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "有報道稱，特朗普總統正考慮解僱白宮幕僚長Susie Wales。"
+    },
+    {
+      "id": "mkt:01a14030-717f-7ee0-a8a2-da0af635b40b",
+      "time": "2026-10-15 23:31:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nasdaq advises clients to use a Chicago data feed as a backup."
+    },
+    {
+      "id": "5148111",
+      "time": "2026-10-15 23:30:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【黃仁勳稱CoreWeave財務狀況改善，無需提供兜底支援】英偉達公司執行長黃仁勳表示，由英偉達供應算力裝置的資料中心運營商CoreWeave Inc.財務實力正在增強。黃仁勳在斯德哥爾摩的一場活動上接受採訪時稱：“CoreWeave的實力每天都在提升。”他認為英偉達沒有必要為該公司提供兜底。“我對此持樂觀態度。這家公司的資本成本實際上正在下降。”信貸市場此前對CoreWeave態度轉冷，判定其破產風險上升，黃仁勳正努力重塑市場對這家企業的信心。CoreWeave是一批新興企業中的典型樣本，這類企業的成立初衷，是承接英偉達等廠商口中永不滿足的人工智慧算力需求。CoreWeave這類公司在包括英偉達在內供應商的助力下大舉舉債，引發市場擔憂迴圈融資催生虛假需求。洲際交易所資料服務公司的資料顯示，對沖CoreWeave五年期債務違約風險的成本一度上漲74.5個基點，至1194.5個基點。該數值創下信用違約互換盤中歷史最高紀錄，衍生品定價顯示其未來五年違約機率超60%。英偉達是CoreWeave第二大股東，持股比例約10%。"
+    },
+    {
+      "id": "mkt:01a1402f-e879-7ee0-a8a2-d6b797517b14",
+      "time": "2026-10-15 23:30:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "Nasdaq is currently experiencing network issues. Clients may intermittently encounter missing market data."
+    },
+    {
+      "id": "5148110",
+      "time": "2026-10-15 23:30:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克：納斯達克客戶可能會間歇性地遇到資料缺失問題。"
+    },
+    {
+      "id": "5148109",
+      "time": "2026-10-15 23:30:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "以色列 9 月消費者價格同比上漲 1.6%，預計 +1.8%。"
+    },
     {
       "id": "te:markets:592469",
       "time": "2026-10-15 23:30:04",
@@ -52,6 +265,14 @@
         "MKT News"
       ],
       "text": "【UK to fund repairs at Chernobyl nuclear plant】The UK government on the 15th announced a £17 mln (about $22.54 mln) grant to support repairs at the Chernobyl nuclear power plant to restore sealing and ventilation of reactor buildings. HM Treasury and the Foreign, Commonwealth and Development Office said the funding will back an international programme coordinated by the European Bank for Reconstruction and Development (EBRD)."
+    },
+    {
+      "id": "5148104",
+      "time": "2026-10-15 23:28:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【趙衝久赴平泉調研並主持召開定點幫扶工作座談會】10月15日，國家郵政局黨組書記、局長趙衝久率隊，赴河北平泉調研並主持召開定點幫扶平泉市工作座談會。他強調，要深入學習貫徹習近平總書記關於鞏固拓展脫貧攻堅成果、推進鄉村全面振興的重要指示精神，進一步凝聚發展合力，高水平做好幫扶工作。趙衝久一行深入哈叭氣村助農直播基地、快遞進村“最後100米”志願服務點、黃土樑子鎮中心小學乒乓球室、楊杖子村文化廣場和平泉市電商直播基地，詳細瞭解幫扶專案建設使用情況和快遞電商協同發展情況。隨後，趙衝久主持召開座談會，聽取幫扶工作情況彙報，總結11年來定點幫扶的工作成效和經驗，並對今後有關工作作出部署。（國家郵政局）"
     },
     {
       "id": "te:markets:592465",
@@ -153,6 +374,15 @@
         "市場"
       ],
       "text": "【晶片股暴跌蒸發萬億美元 槓桿ETF卻吸引創紀錄資金流入】隨著晶片股市值蒸發1萬億美元，ETF投資者卻在這波拋售行情中大舉買入，一隻將投資者對該行業的每日敞口放大至三倍的基金，本週資金流入勢將創下紀錄。根據資料，規模720億美元的VanEck半導體基金（程式碼SMH）過去三個交易日吸引了超過4.3億美元資金流入，本週資金流入有望創9月初以來最高。一些投資者更加大膽，向三倍槓桿的Direxion每日半導體3倍做多ETF（SOXL）投入約38億美元，儘管該基金本週市值已下跌近21%。如此規模的資金流入，足以讓這隻190億美元的基金創下單週資金流入紀錄。"
+    },
+    {
+      "id": "5148097",
+      "time": "2026-10-15 23:24:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅就亞信合作提出四點倡議】習近平主席特別代表、中共中央政治局委員、外交部長王毅15日在巴庫出席亞洲相互協作與信任措施會議第七次峰會，就推進亞信成員國合作提出四點倡議。\n\n一是共同維護和平穩定。亞洲不需要冷戰思維，不歡迎陣營對抗。亞洲的問題歸根結底要靠亞洲人民透過團結協作來處理，亞洲的安全歸根結底要靠堅持共同、綜合、合作、可持續的安全觀來解決。\n\n中東局勢複雜演變，世界深受影響。中方鼓勵美國和伊朗重新迴歸政治外交軌道化解爭端，呼籲葉門問題當事方保持克制。地區國家的主權和安全應當受到尊重，國際產業鏈供應鏈穩定應得到保障，霍爾木茲海峽和紅海等重要航道應當保持暢通，巴勒斯坦問題應當早日重回“兩國方案”的正確軌道。\n\n阿富汗是亞洲安全不可或缺的一環。中方期待就阿富汗問題加強地區協調，向阿富汗人民提供人道和發展援助。阿富汗政府採取實質舉措清除境內暴恐勢力，早日實現長治久安。\n\n二是共同推動繁榮振興。發展是解決一切問題的總鑰匙。要加強高質量共建“一帶一路”同各國發展倡議對接，維護開放合作環境，推進貿易投資自由化便利化，保障國際運輸走廊穩定高效，加強關鍵原材料、能源資源和糧食供應保障，讓亞洲各國攜手加快邁向現代化。\n\n三是共同促進文明互鑑。亞洲是最具文明多樣性的大洲。要堅定弘揚以和平、合作、開放、包容為核心的亞洲價值觀，尊重各國自主選擇發展道路和治理模式，深化文化、旅遊、衛生、婦女、青年、媒體、智庫交流合作，促進民間交往和民心相通，讓多樣文明兼收幷蓄、百花齊放。\n\n四是共同完善全球治理。要重振聯合國權威和作用，維護聯合國憲章確立的國際關係基本準則，提升數字治理、防災減災、公共衛生能力，共同建設更加高效、包容、韌性的亞洲治理體系。（新華社）"
     },
     {
       "id": "5148096",
@@ -112536,167 +112766,6 @@
         "其他"
       ],
       "text": "SpaceX載人太空艙從太空返回後濺落海面。"
-    },
-    {
-      "id": "5132865",
-      "time": "2026-10-08 23:33:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國決定召回駐烏克蘭大使】韓國外交部8日表示，韓國決定召回駐烏克蘭大使。韓國外交部表示，韓國政府期待韓烏兩國間各項懸而未決的問題能夠得到妥善解決，並將為此繼續與烏克蘭方面保持磋商。（新華社）"
-    },
-    {
-      "id": "5132864",
-      "time": "2026-10-08 23:33:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院議長約翰遜表示，如果共和黨失去控制權，他對自己的未來感到不確定。"
-    },
-    {
-      "id": "mkt:01a11c25-6e66-7ee0-a7ff-6015498d0aaf",
-      "time": "2026-10-08 23:32:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "U.S. 8-week Treasury auction as of Oct. 8 — percentage of allotment at the awarded rate 8.93%, prior 65.05%."
-    },
-    {
-      "id": "mkt:01a11c25-4cb3-7ee0-a7ff-5de6d3a8d3bc",
-      "time": "2026-10-08 23:32:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "US 8-week Treasury auction on Oct. 8 — stop-out yield 3.98%, prior 3.99%."
-    },
-    {
-      "id": "5132863",
-      "time": "2026-10-08 23:32:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十五五”北京中心城區將年增停車設施超2萬個】“十五五”期間，在京“找車位”能否更便捷？8日釋出的《北京市“十五五”時期現代化基礎設施發展規劃》提出，北京將加強停車需求保障。中心城區每年新增停車設施2萬個以上，在有條件的老舊小區周邊增加夜間限時停車位，積極推動錯時共享，引導機關、企事業單位停車場向社會開放，增加有效停車供給。（新華社）"
-    },
-    {
-      "id": "mkt:01a11c25-2edc-7ee0-a7ff-54df7994fd88",
-      "time": "2026-10-08 23:32:41",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction High Yield Rate (Oct.8) | actual 3.98% | previous 3.99%"
-    },
-    {
-      "id": "mkt:01a11c25-0d53-7ee0-a7ff-4f221b86f7d2",
-      "time": "2026-10-08 23:32:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 8-week Treasury bill auction on Oct. 8: bid-cover ratio 2.77, prior 2.70."
-    },
-    {
-      "id": "5132862",
-      "time": "2026-10-08 23:32:30",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四周期國債，得標利率3.980%，投標倍數2.40。拍賣八週期國債，得標利率3.980%，投標倍數2.77。"
-    },
-    {
-      "id": "mkt:01a11c24-eb01-7ee0-a7ff-461da547bfd9",
-      "time": "2026-10-08 23:32:23",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Oct.8) | actual 2.77 | previous 2.7"
-    },
-    {
-      "id": "mkt:01a11c24-beed-7ee0-a7ff-3c6bfaf0f5a3",
-      "time": "2026-10-08 23:32:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US 4-week Treasury bill auction to Oct. 8: share awarded at the stop-out yield 50.05% (prev. 23.52%)."
-    },
-    {
-      "id": "mkt:01a11c24-bc5c-7ee0-a7ff-30d1ad276ba7",
-      "time": "2026-10-08 23:32:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US 4-week Treasury auction to Oct 8: bid-cover ratio 2.4; prior 2.83."
-    },
-    {
-      "id": "mkt:01a11c24-bba6-7ee0-a7ff-2a58e90d2810",
-      "time": "2026-10-08 23:32:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US 4-week Treasury bill auction to Oct. 8: stop-out yield 3.98% vs 3.89% prior (+9 bps)."
-    },
-    {
-      "id": "mkt:01a11c24-9caf-7ee0-a7ff-20a51a050c6a",
-      "time": "2026-10-08 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Oct.8) | actual 2.4 | previous 2.83"
-    },
-    {
-      "id": "mkt:01a11c24-9c95-7ee0-a7ff-1fc5fc7794f3",
-      "time": "2026-10-08 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction High Yield Rate (Oct.8) | actual 50.05% | previous 23.52%"
-    },
-    {
-      "id": "mkt:01a11c24-9c4f-7ee0-a7ff-154ac4ab0cc2",
-      "time": "2026-10-08 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Accepted at High (Oct.8) | actual 3.98% | previous 3.89%"
-    },
-    {
-      "id": "5132861",
-      "time": "2026-10-08 23:31:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：減速傘已展開。"
-    },
-    {
-      "id": "mkt:01a11c24-350e-7ee0-a7ff-0cbe0baaa511",
-      "time": "2026-10-08 23:31:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Poland central bank warns of inflation risk, may raise rates for first time in four years if necessary】Poland central bank governor Adam Glapiński said the bank is prepared to deliver the first rate hike in four years if inflation risks intensify. He added there are currently no signs the recent fuel-price surge is passing through to the broader economy, lowering the likelihood of a November tightening; derivatives-implied odds of a November hike fell after his remarks. The Monetary Policy Council (MPC) led by Glapiński held the policy rate at 3.75% on Wednesday, in line with expectations. A government cap on retail fuel prices is expected to help pull this month’s inflation down from September’s 4% 15-month high."
-    },
-    {
-      "id": "5132860",
-      "time": "2026-10-08 23:31:29",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌0.72%，歐元斯托克指數下跌0.82%，歐元區藍籌股指數下跌0.79%。法國CAC 40指數下跌0.51%，西班牙IBEX指數下跌0.87%，英國富時100指數下跌0.16%，德國DAX指數下跌1.12%。"
     }
   ]
 }
