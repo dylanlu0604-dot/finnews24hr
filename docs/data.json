@@ -1,7 +1,86 @@
 {
-  "updated": "2026-10-15 22:39:00",
-  "count": 12373,
+  "updated": "2026-10-15 22:42:57",
+  "count": 12365,
   "items": [
+    {
+      "id": "5148016",
+      "time": "2026-10-15 22:42:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數觸及盤中高點，跌幅收窄至不到1%。"
+    },
+    {
+      "id": "5148015",
+      "time": "2026-10-15 22:41:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷總統米萊認為阿根廷開放貿易將帶來“附帶”損害。"
+    },
+    {
+      "id": "te:markets:592452",
+      "time": "2026-10-15 22:41:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rise After EIA Data — US natural gas prices climbed to around $3.26 per million British thermal units, approaching a three-week high after government data showed a smaller-than-expected increase in storage. The EIA reported an injection of 67 billion cubic feet for the week ending October 9, below forecasts of 76 bcf and the five-year average of 90 bcf. Total inventories reached 3.567 trillion cubic feet, leaving stocks 3.9% below year-earlier levels but 1.3% above the seasonal norm. Supply constraints have also supported prices, with Lower 48 production averaging 110.8 billion cubic feet per day so far in October, down from record levels of 113.3 bcfd in August and September. Hurricane-related shutdowns, force majeure events and pipeline disruptions contributed to the decline. However, forecasts for milder-than-usual weather through October 29 could restrain heating and cooling demand. Meanwhile, average feedgas deliveries to major US LNG export terminals slipped to 17.5 bcfd from 17.9 bcfd in September."
+    },
+    {
+      "id": "te:markets:592451",
+      "time": "2026-10-15 22:41:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CVS Health Shares Hit 4-week High — CVS Health shares increased to 92.34 USD, the highest since September 2026. Over the past 4 weeks, CVS Health lost 0.05%, and in the last 12 months, it increased 12.66%."
+    },
+    {
+      "id": "5148014",
+      "time": "2026-10-15 22:41:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "希思羅機場：與英國鋼鐵公司簽署諒解備忘錄，為機場擴建專案供應威爾士鋼鐵。"
+    },
+    {
+      "id": "5148013",
+      "time": "2026-10-15 22:40:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德意志銀行：CoreWeave大跌帶來買入機會】德意志銀行分析師Brad Zelnick表示，CoreWeave大跌為投資者帶來了買入機會。該股過去四個交易日大跌逾26%。Zelnick表示，“毫無疑問，CoreWeave的未來與人工智慧(AI)的成功以及支撐AI的底層計算基礎設施需求息息相關，因此其股價理應反映這方面市場情緒的變化”。不過Zelnick指出，該公司“擁有強大的客戶基礎、良好的執行記錄和訂單轉化為收入的能力，基礎設施效能也處於領先地位，相比新興雲服務同行，這些因素都對其發行人資質構成有力支撐”。“因此，儘管還需要更多資本，但融資可以穩步推進，並有充足的客戶在手訂單做後盾，”Zelnick表示。"
+    },
+    {
+      "id": "5148012",
+      "time": "2026-10-15 22:39:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "希思羅機場簽署具有里程碑意義的協議，支援威爾士鋼鐵生產。"
+    },
+    {
+      "id": "5148011",
+      "time": "2026-10-15 22:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門亞丁作戰指揮中心及所屬武器倉庫遭襲】當地時間15日，位於葉門臨時首都亞丁的馬阿希克宮內、由沙特軍官指揮的作戰指揮中心及其所屬武器倉庫遭到襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a14001-2d94-7ee0-a8a1-eb188550643a",
+      "time": "2026-10-15 22:39:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Attack on Aden operations command center and weapons depot】On the 15th local time, an operations command center inside Ma'ashiq Palace in Yemen's interim capital Aden—commanded by Saudi officers—and its attached weapons depot were attacked."
+    },
     {
       "id": "mkt:01a13fff-f895-7ee0-a8a1-e73c13e4f51d",
       "time": "2026-10-15 22:38:22",
@@ -112742,144 +112821,6 @@
         "國際"
       ],
       "text": "歐盟外交與安全政策高階代表卡拉斯：歐盟在黎巴嫩穩定、繁榮和主權方面有著明確利益。我們正以大量政治、經濟和安全支援為此提供支撐。我們新設立的歐盟支援特派團將負責訓練和指導黎巴嫩武裝部隊，這將是對我們安全關係的重大升級。歐盟外長們將於下週一最終批准設立該特派團。"
-    },
-    {
-      "id": "mkt:01a11bf7-92ae-7ee0-a7fd-57e0adc30c5e",
-      "time": "2026-10-08 22:42:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said the actions appear unusual given their potential impact."
-    },
-    {
-      "id": "mkt:01a11bf7-4a3c-7ee0-a7fd-4df7e9f9cae6",
-      "time": "2026-10-08 22:42:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI has recently banned covert influence operations originating from Russia and Iran."
-    },
-    {
-      "id": "5132778",
-      "time": "2026-10-08 22:41:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦中央銀行外匯儲備增加1500萬美元，達到215億美元。"
-    },
-    {
-      "id": "5132777",
-      "time": "2026-10-08 22:41:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國商業原油庫存大幅減少約320萬桶】美國能源部下屬能源資訊局7日公佈的資料顯示，截至10月2日當週，美國商業原油庫存環比減少約320萬桶，降至4.241億桶，降幅明顯超出市場預期。資料顯示，美國煉油廠原油加工量和原油出口量均有所增加，其中原油出口量環比增加約120萬桶，達到每天476.5萬桶。能源資訊局表示，煉油廠加工活動增強以及出口增加，是推動美國原油庫存下降的主要原因。（央視新聞）"
-    },
-    {
-      "id": "5132776",
-      "time": "2026-10-08 22:41:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國暫停高知特（Cognizant）、Infosys、塔塔諮詢（Tata）的移民相關專案。"
-    },
-    {
-      "id": "5132775",
-      "time": "2026-10-08 22:41:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "G50啟動鑽探工程，跟進內華達州白帽礦區高品位金礦見礦成果。"
-    },
-    {
-      "id": "5132774",
-      "time": "2026-10-08 22:40:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "藍色起源：將為Terawave和Quartz的製造提供支援。"
-    },
-    {
-      "id": "5132773",
-      "time": "2026-10-08 22:40:45",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國暫停對更多IT公司的移民計劃。"
-    },
-    {
-      "id": "5132772",
-      "time": "2026-10-08 22:40:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國勞工部宣佈對九所美國重點大學就J-1簽證問題展開調查。"
-    },
-    {
-      "id": "mkt:01a11bf5-8e33-7ee0-a7fd-46c90a3502b4",
-      "time": "2026-10-08 22:40:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Eurogroup has set Oct. 28 as the deadline for nominations for a successor to ECB executive board member Schnabel; a decision could be made as early as November."
-    },
-    {
-      "id": "5132771",
-      "time": "2026-10-08 22:40:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【英偉達將斥資10億美元資助美國量子計算、醫療保健、能源的發展】英偉達宣佈承諾投入價值10億美元，用於建設美國在包括量子計算、醫療保健和能源安全等領域的超級智慧研發能力。這一訊息是在華盛頓特區舉行的“科學：新黃金時代”活動上釋出的。資金將用於支援高等教育研究機構、量子領導力專案以及雲服務提供商，以滿足美國政府的科研需求。英偉達是“創世紀使命”第二階段量子計算、核聚變、加速器設計和微電子領域獎項的合作方。"
-    },
-    {
-      "id": "5132770",
-      "time": "2026-10-08 22:39:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "藍色起源宣佈在得克薩斯州哈託市建設Constellation Park。"
-    },
-    {
-      "id": "5132769",
-      "time": "2026-10-08 22:39:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度“蟑螂運動”成員迪帕克·巴利安已從其家中被拘留。"
-    },
-    {
-      "id": "5132768",
-      "time": "2026-10-08 22:39:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國勞工部官員表示，已就J-1簽證問題向多所大學送達傳票。"
-    },
-    {
-      "id": "5132767",
-      "time": "2026-10-08 22:39:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約證券交易所總裁：開盤價和收盤價已變得更加穩健。"
-    },
-    {
-      "id": "5132766",
-      "time": "2026-10-08 22:39:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "OpenAI：俄羅斯“黑暗克拉克”行動在影響力行動分級中被評定為5級，為首次造成此類級別的破壞性影響。"
-    },
-    {
-      "id": "5132765",
-      "time": "2026-10-08 22:39:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "藍色起源宣佈在得克薩斯州新建制造園區。"
     }
   ]
 }

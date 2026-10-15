@@ -1,7 +1,86 @@
 {
   "date": "2026-10-15",
-  "count": 2306,
+  "count": 2315,
   "items": [
+    {
+      "id": "5148016",
+      "time": "2026-10-15 22:42:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數觸及盤中高點，跌幅收窄至不到1%。"
+    },
+    {
+      "id": "5148015",
+      "time": "2026-10-15 22:41:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷總統米萊認為阿根廷開放貿易將帶來“附帶”損害。"
+    },
+    {
+      "id": "te:markets:592452",
+      "time": "2026-10-15 22:41:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Natgas Prices Rise After EIA Data — US natural gas prices climbed to around $3.26 per million British thermal units, approaching a three-week high after government data showed a smaller-than-expected increase in storage. The EIA reported an injection of 67 billion cubic feet for the week ending October 9, below forecasts of 76 bcf and the five-year average of 90 bcf. Total inventories reached 3.567 trillion cubic feet, leaving stocks 3.9% below year-earlier levels but 1.3% above the seasonal norm. Supply constraints have also supported prices, with Lower 48 production averaging 110.8 billion cubic feet per day so far in October, down from record levels of 113.3 bcfd in August and September. Hurricane-related shutdowns, force majeure events and pipeline disruptions contributed to the decline. However, forecasts for milder-than-usual weather through October 29 could restrain heating and cooling demand. Meanwhile, average feedgas deliveries to major US LNG export terminals slipped to 17.5 bcfd from 17.9 bcfd in September."
+    },
+    {
+      "id": "te:markets:592451",
+      "time": "2026-10-15 22:41:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CVS Health Shares Hit 4-week High — CVS Health shares increased to 92.34 USD, the highest since September 2026. Over the past 4 weeks, CVS Health lost 0.05%, and in the last 12 months, it increased 12.66%."
+    },
+    {
+      "id": "5148014",
+      "time": "2026-10-15 22:41:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "希思羅機場：與英國鋼鐵公司簽署諒解備忘錄，為機場擴建專案供應威爾士鋼鐵。"
+    },
+    {
+      "id": "5148013",
+      "time": "2026-10-15 22:40:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德意志銀行：CoreWeave大跌帶來買入機會】德意志銀行分析師Brad Zelnick表示，CoreWeave大跌為投資者帶來了買入機會。該股過去四個交易日大跌逾26%。Zelnick表示，“毫無疑問，CoreWeave的未來與人工智慧(AI)的成功以及支撐AI的底層計算基礎設施需求息息相關，因此其股價理應反映這方面市場情緒的變化”。不過Zelnick指出，該公司“擁有強大的客戶基礎、良好的執行記錄和訂單轉化為收入的能力，基礎設施效能也處於領先地位，相比新興雲服務同行，這些因素都對其發行人資質構成有力支撐”。“因此，儘管還需要更多資本，但融資可以穩步推進，並有充足的客戶在手訂單做後盾，”Zelnick表示。"
+    },
+    {
+      "id": "5148012",
+      "time": "2026-10-15 22:39:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "希思羅機場簽署具有里程碑意義的協議，支援威爾士鋼鐵生產。"
+    },
+    {
+      "id": "5148011",
+      "time": "2026-10-15 22:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門亞丁作戰指揮中心及所屬武器倉庫遭襲】當地時間15日，位於葉門臨時首都亞丁的馬阿希克宮內、由沙特軍官指揮的作戰指揮中心及其所屬武器倉庫遭到襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a14001-2d94-7ee0-a8a1-eb188550643a",
+      "time": "2026-10-15 22:39:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Attack on Aden operations command center and weapons depot】On the 15th local time, an operations command center inside Ma'ashiq Palace in Yemen's interim capital Aden—commanded by Saudi officers—and its attached weapons depot were attacked."
+    },
     {
       "id": "mkt:01a13fff-f895-7ee0-a8a1-e73c13e4f51d",
       "time": "2026-10-15 22:38:22",
