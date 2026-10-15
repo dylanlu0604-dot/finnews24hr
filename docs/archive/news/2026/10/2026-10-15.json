@@ -1,7 +1,126 @@
 {
   "date": "2026-10-15",
-  "count": 1708,
+  "count": 1721,
   "items": [
+    {
+      "id": "5147469",
+      "time": "2026-10-15 17:54:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "安哥拉總統洛倫索：安哥拉債務到2026年降至GDP的51.2%。"
+    },
+    {
+      "id": "5147468",
+      "time": "2026-10-15 17:53:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "安哥拉第一季度GDP增長5.3%，非石油行業增長6.2%。"
+    },
+    {
+      "id": "te:economy:592328",
+      "time": "2026-10-15 17:52:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Industrial Production Mom",
+        "Importance 2"
+      ],
+      "text": "Euro Area Industrial Output Falls for 3rd Month — Industrial production in the Euro Area fell 0.5% month-on-month in August 2026, missing expectations of a flat reading and following a 0.3% decrease in July. It marks the third consecutive month of falling production in the region. Output declined for intermediate goods (-0.8% vs 0.2% in July), energy (-0.6% vs flat reading), and non-durable consumer goods (-2.7%, the same as in July). Also, production soften for capital goods (0.4% vs 0.7%) and durable consumer goods (0.2% vs 0.4%). Output fell in Spain (-0.8%), France (-0.3%) and Italy (-1.3%), but rose in Germany (0.4%). Year-on-year, output fell 1.1%, extending a 0.3% decrease in the previous month."
+    },
+    {
+      "id": "te:markets:592327",
+      "time": "2026-10-15 17:52:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Iceland",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Iceland Hit 18-month Low — ICEX decreased to 1938.00 Index Points, the lowest since April 2025. Over the past 4 weeks, Iceland Stock Exchange ICEX lost 2.74%, and in the last 12 months, it decreased 11.73%."
+    },
+    {
+      "id": "5147467",
+      "time": "2026-10-15 17:52:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神農集團：擬回購登出限制性股票並登出部分庫存股】神農集團公告稱，公司擬回購登出合計47.71萬股不符合解除限售條件的限制性股票，同時將2024年股份回購方案剩餘590股庫存股的用途由員工持股計劃或股權激勵變更為登出並減少註冊資本。本次登出完成後，公司總股本將由5.26億股變更為5.26億股，註冊資本相應減少。公司已就本次減資通知債權人，債權人自公告披露之日起45日內有權要求公司清償債務或提供相應擔保。"
+    },
+    {
+      "id": "5147466",
+      "time": "2026-10-15 17:52:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華大智造空間免疫組庫產品Stereo-IR開放首批合作】華大智造公眾號訊息，華大智造自研的空間免疫組庫產品Stereo-IR可在同一張組織切片上同步完成5’端空間轉錄組與免疫組庫檢測，在單細胞解析度下實現轉錄組表達與免疫受體庫的原位聯合解析，為回答“克隆在哪裡、在做什麼”提供直接資料支撐。該產品預計於2026年10月底開放首批Early Access（EA）合作。"
+    },
+    {
+      "id": "5147465",
+      "time": "2026-10-15 17:52:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞10月1-15日棕櫚油出口量預計為802,481公噸。"
+    },
+    {
+      "id": "5147464",
+      "time": "2026-10-15 17:51:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞10月1-15日棕櫚油出口量預計為802,481公噸。"
+    },
+    {
+      "id": "te:markets:592322",
+      "time": "2026-10-15 17:51:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Swiss Franc Strengthens to One-Week High — The Swiss franc strenghened to around 0.83 per USD, reaching its highest level in a around a week, amid expectations of a higher-for-longer interest rate scenario. Stronger US inflation boosted bets on an October Fed hike, raising concerns over prolonged high borrowing costs and their impact on capital-intensive sectors, namely the AI buildout. As a safe-haven currency, the franc benefits from investors seeking shelter from market volatility. However, this move poses a risk to its short positions that had built up on widening interest rate differentials. Unlike several other central banks, the Swiss National Bank is widely expected to leave its policy rate unchanged at 0% through year-end. Policymakers have also scaled back threats of currency intervention. Swiss borrowing costs have remained the world's lowest for over a year, supporting the franc's appeal as a funding currency for carry trades. As traders take short positions, the selling pressure of franc-loans weakens the currency."
+    },
+    {
+      "id": "5147463",
+      "time": "2026-10-15 17:51:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度信實工業<RELI.NS>指示性價格上漲4.29%，延續盤前競價2.61%的漲幅。"
+    },
+    {
+      "id": "5147462",
+      "time": "2026-10-15 17:51:26",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【園林股份：召開2026年半年度業績說明會 回應相關問題】園林股份公告稱，公司於2026年10月15日以網路文字互動形式召開2026年半年度業績說明會，就投資者關注問題作出回應：發行股份及支付現金購買資產的具體情況及進展以披露公告為準；現階段無進一步加大對參股公司浙江雲針資訊科技有限公司投資的計劃；已完成國務院指定企業債務申報平臺的債務申報，推進工程款項清收；回購專用證券賬戶持有公司73.56萬股股票，回購股份用途為實施員工持股計劃或股權激勵。"
+    },
+    {
+      "id": "5147461",
+      "time": "2026-10-15 17:51:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數<.NSEI>指示性水平上漲2.21%，延續盤前競價階段1.4%的漲幅。"
+    },
+    {
+      "id": "5147460",
+      "time": "2026-10-15 17:50:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "安哥拉總統洛倫索表示，安哥拉的目標是將石油日產量維持在100萬桶以上。"
+    },
     {
       "id": "te:markets:592319",
       "time": "2026-10-15 17:50:13",
