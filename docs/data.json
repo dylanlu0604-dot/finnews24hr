@@ -1,7 +1,192 @@
 {
-  "updated": "2026-10-15 23:10:55",
-  "count": 12329,
+  "updated": "2026-10-15 23:14:47",
+  "count": 12341,
   "items": [
+    {
+      "id": "5148076",
+      "time": "2026-10-15 23:14:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "美光科技在儲存股中率先轉漲，此前一度跌超6%。"
+    },
+    {
+      "id": "5148075",
+      "time": "2026-10-15 23:13:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達推出Nemotron 3.5 Super VL開源多模態大模型】英偉達釋出Nemotron 3.5 Super VL，這是一款擁有1200億引數的開源視覺語言模型，官方稱其速度是同類第二強開源智慧體模型的5倍。本次同步推出兩款面向端側的新模型：Bolt 74B‑A9B（24GB）與Bolt E4B（4GB），適配本地硬體部署。Bolt E4B（4GB）將於10月23日正式上線；Super VL與Bolt 74B‑A9B現已可用。Scale AI、CrowdStrike、賽富時（Salesforce）以及Atlassian等機構正在基於Super VL做定製化開發。"
+    },
+    {
+      "id": "mkt:01a14020-4292-7ee0-a8a2-7054c6d99fba",
+      "time": "2026-10-15 23:13:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Africa to tighten auto manufacturing rules, phase out import-kit assembly model】Trade Minister Parks Tau said South Africa will tighten auto-manufacturing rules and phase out assembly from imported vehicle component kits. The ministry will stop providing policy support for any newly established semi-knocked-down (SKD) assembly operations and will refine the legal definition for fully knocked-down (CKD) assembly manufacturing. Tau said SKD operations typically create fewer jobs and are used to increase tax efficiency; local automakers have long lobbied for policy change. The trade ministry will also open a formal investigation into the light commercial vehicle sector, including vans and pickups, saying the ladder-frame LCV subsegment’s strategic competitiveness warrants review."
+    },
+    {
+      "id": "5148073",
+      "time": "2026-10-15 23:13:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "Zesty推出自動化分片GPU服務。"
+    },
+    {
+      "id": "5148072",
+      "time": "2026-10-15 23:13:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破97美元/桶，日內漲2.02%。"
+    },
+    {
+      "id": "5148071",
+      "time": "2026-10-15 23:13:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報97.01美元/桶。"
+    },
+    {
+      "id": "mkt:01a1401f-38f9-7ee0-a8a2-69c67bdd8191",
+      "time": "2026-10-15 23:12:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanon revokes Export Bank of Iran licence amid US pressure】Lebanon’s central bank this week revoked the operating licence of Export Bank of Iran’s Lebanese branch, saying the move aims to shield the domestic banking system from potential contagion risk, central bank governor Karim Souaid said. The action follows similar tightening by UAE and Turkey as the US intensifies pressure on Iran’s financial links. Export Bank of Iran, one of Iran’s oldest commercial banks with multiple overseas branches, was among US‑sanctioned Iranian banks whose new licence applications were rejected by the UK last month; the bank formerly operated a London branch near the Bank of England."
+    },
+    {
+      "id": "te:economy:592461",
+      "time": "2026-10-15 23:12:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Peru",
+        "Monthly GDP YoY",
+        "Importance 1"
+      ],
+      "text": "Peru's Economic Growth Slows — Peru’s economy expanded by 3.23% year-on-year in August 2026, slowing from 3.56% growth in July. Fishing activity continued to contract, although at a slower pace of 17.33%, as warmer sea surface temperatures associated with the El Niño phenomenon pushed fish into deeper waters. Mining and hydrocarbons also declined, contracting by 5.53%. In contrast, all other sectors recorded growth, led by construction, which surged by 10.34%. Among the sectors making notable contributions to overall economic growth were manufacturing (4.18%), commerce (6.89%), agriculture (3.37%), transport (2.56%), utilities (6.61%), business services (3.91%), and public administration and defense (3.06%). Cumulatively, the economy grew by 3.14% year-on-year in the first eight months of 2026. Over the twelve months through August, economic activity increased by 3.31% compared with the corresponding period a year earlier."
+    },
+    {
+      "id": "te:economy:592460",
+      "time": "2026-10-15 23:12:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belgium",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Belgium Trade Surplus Narrows in August — Belgium’s trade surplus narrowed to EUR 816.6 million in August 2026, from EUR 1,272.2 million in the same month a year earlier. Exports rose 14.9% to EUR 43,989.3 million, supported by higher shipments to EU member states (15.8%) and non-EU countries (12.8%). Meanwhile, imports increased 16.6% to EUR 43,172.7 million, as purchases from EU member states went up 19.5% and those from non-EU countries rose 12.4%. For the first eight months of the year, the trade surplus widened sharply to EUR 26,266.1 million, compared with EUR 15,565.9 million in the corresponding period of the previous year."
+    },
+    {
+      "id": "te:markets:592459",
+      "time": "2026-10-15 23:12:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Futures Hover at 2024-Highs — Rice futures traded above $17 per hundredweight, staying close to their highest level since July 2024, amid mounting supply cooncerns.Global rice prices are facing upward pressure as adverse weather threatens production and disrupts supply chains across major Asian exporters. In India, rice output is forecast to decline by 7 million tonnes to 147 million tonnes in the 2026/27 marketing year following the weakest monsoon in nearly two decades. The projected reduction is significant for global markets, as India accounts for more than 40% of worldwide rice exports. Meanwhile, flooding in Thailand has disrupted rice transportation and raised concerns over planting delays and potential crop losses. Higher freight costs are adding to trade uncertainties, although ample inventories could help cushion the impact of lower production. The outlook for prices will depend on the extent of crop losses, export availability and the ability of major suppliers to meet international demand."
+    },
+    {
+      "id": "mkt:01a1401e-a4e3-7ee0-a8a2-631792d15e14",
+      "time": "2026-10-15 23:11:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Postmaster General said the U.S. Postal Service is \"fully prepared\" to process the millions of ballots expected in the November midterm elections."
+    },
+    {
+      "id": "5148070",
+      "time": "2026-10-15 23:11:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政局負責人表示，該機構已“完全準備好”處理11月中期選舉的數百萬張選票。"
+    },
+    {
+      "id": "mkt:01a1401e-549c-7ee0-a8a2-5c6447bbe37e",
+      "time": "2026-10-15 23:11:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's C.BANK decided to keep fuel prices unchanged."
+    },
+    {
+      "id": "5148069",
+      "time": "2026-10-15 23:11:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門人道危機外溢難民湧入吉布提】葉門局勢惡化導致人道主義危機外溢。據聯合國10月14日訊息，在本輪衝突升級後，曾出現一週內近4000名難民從葉門湧入吉布提的情況，使吉布提救助資源承壓。聯合國駐吉布提協調員巴拉奧納警告稱，吉布提單靠自身難以應對大量難民的湧入，他呼籲國際社會提供更多援助。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a1401e-2bc9-7ee0-a8a2-55616b622dbb",
+      "time": "2026-10-15 23:11:21",
+      "tags": [
+        "MKT News",
+        "CRWV.O"
+      ],
+      "text": "CoreWeave (CRWV.O) staged an intraday rally, trimming its decline to about 3%."
+    },
+    {
+      "id": "5148068",
+      "time": "2026-10-15 23:11:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500醫療保健指數創歷史新高，最新上漲2.8%。"
+    },
+    {
+      "id": "5148067",
+      "time": "2026-10-15 23:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及委員會決定維持燃油價格不變。"
+    },
+    {
+      "id": "mkt:01a1401d-aa8e-7ee0-a8a2-4ee7a2b7a595",
+      "time": "2026-10-15 23:10:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA has released Nemotron 3.5 Super VL and an edge model, Nemotron 3.5 Bolt 74B-A9B (24GB)."
+    },
+    {
+      "id": "5148066",
+      "time": "2026-10-15 23:10:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "COREWEAVE股價跌幅收窄。"
+    },
+    {
+      "id": "mkt:01a1401d-6f8f-7ee0-a8a2-45b54fd5cfcf",
+      "time": "2026-10-15 23:10:33",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The UK has reportedly supplied additional Storm Shadow missiles to Ukraine for strikes against Russian targets."
+    },
     {
       "id": "mkt:01a1401d-3d92-7ee0-a8a2-3c2fe71e3557",
       "time": "2026-10-15 23:10:20",
@@ -112402,79 +112587,6 @@
         "CNH"
       ],
       "text": "【Indonesia president presides over launch of Chinese-funded downstream mining projects】President Prabowo on the 8th presided over ground‑breaking for 11 Chinese‑funded downstream mining projects at Weda Bay Industrial Park, Central Halmahera, North Maluku. Total investment is about $10.2 bln; projects cover power batteries, nickel‑cobalt materials, electrolytic aluminum, new‑energy construction machinery and commercial vehicle manufacturing."
-    },
-    {
-      "id": "5132836",
-      "time": "2026-10-08 23:14:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國會預算辦公室（CBO）主任斯瓦格爾：認為財政政策走向會對利率構成壓力。"
-    },
-    {
-      "id": "mkt:01a11c13-f8d2-7ee0-a7fe-ad9cd47eb5fc",
-      "time": "2026-10-08 23:13:53",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "CBO director said he believes the fiscal trajectory will put upward pressure on interest rates."
-    },
-    {
-      "id": "mkt:01a11c13-9f6c-7ee0-a7fe-a63e7ec98beb",
-      "time": "2026-10-08 23:13:30",
-      "tags": [
-        "MKT News",
-        "US10Y"
-      ],
-      "text": "U.S. Congressional Budget Office director said he believes debt concerns have a relatively small impact on yields."
-    },
-    {
-      "id": "5132835",
-      "time": "2026-10-08 23:12:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨參議員敦促特朗普政府打擊卡痛（含類阿片活性成分）。"
-    },
-    {
-      "id": "5132834",
-      "time": "2026-10-08 23:12:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國會預算辦公室（CBO）主任斯瓦格爾：認為債務擔憂對收益率的影響較小。"
-    },
-    {
-      "id": "mkt:01a11c12-0193-7ee0-a7fe-988f685f9331",
-      "time": "2026-10-08 23:11:44",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Bank of Mexico minutes: some members said assessing the impact of Federal Reserve rates on Mexico is crucial."
-    },
-    {
-      "id": "5132833",
-      "time": "2026-10-08 23:11:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【印尼總統主持中資礦業下游化專案啟動儀式】印度尼西亞總統普拉博沃8日在北馬魯古省中哈馬黑拉縣緯達貝工業園主持11箇中資礦業下游化專案啟動儀式。這些專案總投資約102億美元，涉及動力電池、鎳鈷材料、電解鋁、新能源工程機械及商用車製造等領域。（新華社）"
-    },
-    {
-      "id": "5132832",
-      "time": "2026-10-08 23:11:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普針對外籍員工的打擊行動波及微軟、Adobe及IT企業。"
     }
   ]
 }
