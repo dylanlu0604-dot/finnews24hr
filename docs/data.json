@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-16 02:43:22",
-  "count": 12393,
+  "updated": "2026-10-16 02:47:10",
+  "count": 12388,
   "items": [
+    {
+      "id": "5148329",
+      "time": "2026-10-16 02:43:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國暫緩對Meta Platforms涉毒品銷售刑事調查。"
+    },
+    {
+      "id": "5148328",
+      "time": "2026-10-16 02:43:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "不列顛哥倫比亞省的銅礦勘探者正利用電流來選定鑽探目標。"
+    },
     {
       "id": "5148327",
       "time": "2026-10-16 02:42:03",
@@ -113033,74 +113049,6 @@
         "公司"
       ],
       "text": "【沙特一飛機據報在機場遭襲起火】三名知情人士稱，10月8日，隸屬於國有的沙烏地阿拉伯航空公司的一架商用飛機在沙特首都利雅得哈立德國王國際機場航站樓停靠時，“因彈片或飛行物的直接命中起火，遭受嚴重損毀”。（CCTV國際時訊）"
-    },
-    {
-      "id": "5133090",
-      "time": "2026-10-09 02:46:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨收於每桶104.28美元，上漲4.08美元，漲幅4.07%。"
-    },
-    {
-      "id": "mkt:01a11cd6-b872-7ee0-a804-1ccee77696a4",
-      "time": "2026-10-09 02:46:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Brent crude futures settled at $104.28 a barrel, up $4.08 or 4.07%."
-    },
-    {
-      "id": "mkt:01a11cd4-dd98-7ee0-a804-1570f1ab1586",
-      "time": "2026-10-09 02:44:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "France's armed forces chief of staff said about 2,000 soldiers have been deployed to help protect Gulf Arab allies during the regional conflict."
-    },
-    {
-      "id": "mkt:01a11cd4-c943-7ee0-a804-09b28000c86d",
-      "time": "2026-10-09 02:44:29",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "French armed forces chief of staff said France is still studying multiple options with Saudi authorities to provide protection for the Yanbu oil terminal."
-    },
-    {
-      "id": "5133089",
-      "time": "2026-10-09 02:44:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國武裝部隊參謀長：目前仍在與沙烏地阿拉伯方面研究多種方案，以保障延布石油碼頭的安全。"
-    },
-    {
-      "id": "5133088",
-      "time": "2026-10-09 02:44:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國武裝部隊總參謀長：已部署約2000名士兵，以便在地區衝突期間協助保護海灣阿拉伯盟國。"
-    },
-    {
-      "id": "5133087",
-      "time": "2026-10-09 02:43:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國正與緬甸政府進行直接對話。"
     }
   ]
 }
