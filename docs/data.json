@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-16 05:59:36",
-  "count": 12343,
+  "updated": "2026-10-16 06:03:41",
+  "count": 12337,
   "items": [
+    {
+      "id": "5148468",
+      "time": "2026-10-16 06:01:31",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲哈馬克：接二連三的供應衝擊可能引發通脹思維】克利夫蘭聯邦儲備銀行行長貝絲·哈馬克表示，她擔心接二連三的供應衝擊可能會導致企業形成通脹思維，從而加大政策制定者遏制價格壓力的難度。“企業正感受到很大的投入成本壓力。他們看到價格繼續以比過去習慣的速度更快地上漲，”哈馬克在紐約由高盛主辦的一場活動上表示。“我擔心的一件事是，由於我們經歷了這些接連不斷的供應衝擊，到了某個時候，企業會開始形成一種預期，認為還會有更多此類衝擊到來，而且價格只會繼續上漲，”哈馬克表示。“如果形成了這些價格壓力會變得越來越持久的預期，那麼貨幣政策要完成我們需要做的工作就會困難得多。與沒有形成通脹思維的情況相比，我們可能需要採取幅度更大的行動，”哈馬克表示。"
+    },
+    {
+      "id": "5148467",
+      "time": "2026-10-16 06:00:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲10月維持利率不變的機率為71.8%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為71.8%，累計加息25個基點的機率為28.2%。美聯儲到12月維持利率不變的機率為7.2%，累計加息25個基點的機率67.4%，累計加息50個基點的機率為25.4%。"
+    },
     {
       "id": "mkt:01a1418c-8bc6-7ee0-a8a8-fee1bbd1d5e6",
       "time": "2026-10-16 05:51:32",
@@ -112650,85 +112670,6 @@
         "國際"
       ],
       "text": "【美聯儲10月維持利率不變的機率為82.3%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為82.3%，累計加息25個基點的機率為17.7%。美聯儲到12月維持利率不變的機率為18.7%，累計加息25個基點的機率67.6%，累計加息50個基點的機率為13.7%。"
-    },
-    {
-      "id": "mkt:01a11d89-90af-7ee0-a805-fa9802c2f995",
-      "time": "2026-10-09 06:01:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "CNN: OpenAI said on Thursday that Iranian operatives used OpenAI models and fake identities to publish news reports critical of the U.S. war against Iran on multiple U.S. media outlets."
-    },
-    {
-      "id": "mkt:01a11d89-7aba-7ee0-a805-f192657b8abc",
-      "time": "2026-10-09 06:01:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Report: US to propose ceasefire plan covering energy infrastructure and grain shipments】Axios, citing US and Ukrainian officials, reported US Middle East special envoys Witkoff and Jared Kushner will meet on Friday in Miami with Ukrainian and European officials to present a new plan to break the Russia-Ukraine stalemate. The proposal reportedly includes a partial ceasefire to halt strikes on energy infrastructure and grain shipments. Ukraine has said it will consider the plan; Russia has so far been negative. Witkoff and Kushner briefed Trump on Thursday; talks will also cover Ukrainian security guarantees and postwar economic plans. Sources said the pair may travel to Moscow later this month to consult with Putin."
-    },
-    {
-      "id": "5133240",
-      "time": "2026-10-09 06:01:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "Parex 重申 2026 年下半年產量指引為 82,000-91,000 桶油當量/日（BOE/D）。"
-    },
-    {
-      "id": "5133239",
-      "time": "2026-10-09 06:01:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "Firmus撤回IPO計劃，將尋求從私募市場獲取資金。"
-    },
-    {
-      "id": "5133238",
-      "time": "2026-10-09 06:00:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國石油公司關閉了墨西哥灣Thunder Horse和Na Kika平臺的石油生產。"
-    },
-    {
-      "id": "mkt:01a11d88-9b87-7ee0-a805-eece9eacd793",
-      "time": "2026-10-09 06:00:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Houthi spokesman said every airstrike against the Houthis will exact a heavy price from Saudi adversaries."
-    },
-    {
-      "id": "5133237",
-      "time": "2026-10-09 06:00:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4160美元/盎司，日內漲0.06%。"
-    },
-    {
-      "id": "5133236",
-      "time": "2026-10-09 06:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破92美元/桶，日內跌0.30%。"
     }
   ]
 }
