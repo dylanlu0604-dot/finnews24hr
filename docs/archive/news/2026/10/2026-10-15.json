@@ -1,7 +1,62 @@
 {
   "date": "2026-10-15",
-  "count": 2315,
+  "count": 2321,
   "items": [
+    {
+      "id": "mkt:01a14006-f784-7ee0-a8a1-f72a76478ffa",
+      "time": "2026-10-15 22:46:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Handelsblatt, citing government and industry sources, reports the German government plans to form a partnership with NVIDIA."
+    },
+    {
+      "id": "5148021",
+      "time": "2026-10-15 22:45:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "德國政府打算與英偉達建立合作伙伴關係。"
+    },
+    {
+      "id": "5148020",
+      "time": "2026-10-15 22:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國消費品安全委員會取消部分燃油新增劑容器安全要求。"
+    },
+    {
+      "id": "5148019",
+      "time": "2026-10-15 22:43:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "GA TELESIS透過首個波音737 MAX 8拆解計劃，鞏固下一代飛機售後市場主導地位。"
+    },
+    {
+      "id": "5148018",
+      "time": "2026-10-15 22:43:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "西南航空公司 ：將於2027年秋季完成全機隊星鏈高速互聯部署。"
+    },
+    {
+      "id": "5148017",
+      "time": "2026-10-15 22:42:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "西南航空將於2027年1月1日起推出銀卡、金卡和白金卡三個會員等級以及里程碑獎勵。"
+    },
     {
       "id": "5148016",
       "time": "2026-10-15 22:42:19",

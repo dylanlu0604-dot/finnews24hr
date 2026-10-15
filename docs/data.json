@@ -1,7 +1,62 @@
 {
-  "updated": "2026-10-15 22:42:57",
-  "count": 12365,
+  "updated": "2026-10-15 22:46:49",
+  "count": 12359,
   "items": [
+    {
+      "id": "mkt:01a14006-f784-7ee0-a8a1-f72a76478ffa",
+      "time": "2026-10-15 22:46:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Handelsblatt, citing government and industry sources, reports the German government plans to form a partnership with NVIDIA."
+    },
+    {
+      "id": "5148021",
+      "time": "2026-10-15 22:45:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "德國政府打算與英偉達建立合作伙伴關係。"
+    },
+    {
+      "id": "5148020",
+      "time": "2026-10-15 22:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國消費品安全委員會取消部分燃油新增劑容器安全要求。"
+    },
+    {
+      "id": "5148019",
+      "time": "2026-10-15 22:43:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "GA TELESIS透過首個波音737 MAX 8拆解計劃，鞏固下一代飛機售後市場主導地位。"
+    },
+    {
+      "id": "5148018",
+      "time": "2026-10-15 22:43:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "西南航空公司 ：將於2027年秋季完成全機隊星鏈高速互聯部署。"
+    },
+    {
+      "id": "5148017",
+      "time": "2026-10-15 22:42:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "西南航空將於2027年1月1日起推出銀卡、金卡和白金卡三個會員等級以及里程碑獎勵。"
+    },
     {
       "id": "5148016",
       "time": "2026-10-15 22:42:19",
@@ -112716,111 +112771,6 @@
         "AI Revolution"
       ],
       "text": "OpenAI said Russian accounts used ChatGPT to influence Latin America."
-    },
-    {
-      "id": "mkt:01a11bfa-fe57-7ee0-a7fd-6bf228ee7be4",
-      "time": "2026-10-08 22:46:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Blue Origin said it will open a new manufacturing campus in Texas to support manufacturing of its Terawave and Quartz products."
-    },
-    {
-      "id": "5132786",
-      "time": "2026-10-08 22:46:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國警方：兩名男子因涉嫌違反《2023年國家安全法》被追加逮捕。"
-    },
-    {
-      "id": "5132785",
-      "time": "2026-10-08 22:46:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "奕斯偉計算香港IPO散戶認購獲9.09倍超額認購。"
-    },
-    {
-      "id": "mkt:01a11bfa-a6bc-7ee0-a7fd-635d5d11f65f",
-      "time": "2026-10-08 22:46:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU to approve support mission for Lebanon on Monday, kallas says."
-    },
-    {
-      "id": "5132784",
-      "time": "2026-10-08 22:46:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "奕斯偉計算香港IPO定價為每股1.55港元。"
-    },
-    {
-      "id": "mkt:01a11bfa-864a-7ee0-a7fd-5fcd8b96dd22",
-      "time": "2026-10-08 22:46:05",
-      "tags": [
-        "MKT News",
-        "CTSH.O",
-        "Impact bearish",
-        "INFY.O",
-        "TCS.O"
-      ],
-      "text": "The U.S. has suspended several tech firms from participating in an immigration program, pausing immigration-related projects at IT consultancies Cognizant, Infosys and Tata Consultancy Services."
-    },
-    {
-      "id": "5132783",
-      "time": "2026-10-08 22:44:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "墨西哥總統辛鮑姆表示，墨西哥正在調查販毒集團可能在烏克蘭招募人員的情況。"
-    },
-    {
-      "id": "5132782",
-      "time": "2026-10-08 22:44:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "漢莎航空集團將暫停飛往利雅得的航班，停飛期截至10月16日（含當日）。"
-    },
-    {
-      "id": "5132781",
-      "time": "2026-10-08 22:44:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "白宮釋出宣告後， INFOSYS下跌 2.8%。"
-    },
-    {
-      "id": "5132780",
-      "time": "2026-10-08 22:43:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【隨著油價上漲超4%，能源企業在美上市個股走高】瓦萊羅能源股價上漲3.2%，康菲石油股價上漲2.5%，哈里伯頓股價上漲1.9%。埃克森美孚股價上漲2.2%，西方石油上漲2.4%，馬拉松石油上漲3.8%，雪佛龍上漲2.6%。"
-    },
-    {
-      "id": "te:markets:590573",
-      "time": "2026-10-08 22:43:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "IBM Shares Hit 9-week Low — IBM shares decreased to 218.46 USD, the lowest since July 2026. Over the past 4 weeks, IBM lost 8.81%, and in the last 12 months, it decreased 24.09%."
-    },
-    {
-      "id": "5132779",
-      "time": "2026-10-08 22:43:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：歐盟在黎巴嫩穩定、繁榮和主權方面有著明確利益。我們正以大量政治、經濟和安全支援為此提供支撐。我們新設立的歐盟支援特派團將負責訓練和指導黎巴嫩武裝部隊，這將是對我們安全關係的重大升級。歐盟外長們將於下週一最終批准設立該特派團。"
     }
   ]
 }
