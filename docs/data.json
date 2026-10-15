@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-15 13:14:58",
-  "count": 12211,
+  "updated": "2026-10-15 13:18:46",
+  "count": 12216,
   "items": [
+    {
+      "id": "5146732",
+      "time": "2026-10-15 13:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《自然》釋出清華團隊最新成果：從一種起始細胞構建出連續發育的小鼠胚胎模型】介面新聞獲悉，10月14日，清華大學丁勝團隊在《自然》（Nature）主刊發表最新全能幹細胞研究成果。研究表明，從一種人工誘導的全能性細胞出發，研究人員可以構建出連續發育的小鼠胚胎模型，使其能夠跨越囊胚、原腸運動和早期器官形成等階段，並出現血管與血液、生殖系以及具有節律性收縮的心臟等組織。（介面新聞）"
+    },
+    {
+      "id": "5146731",
+      "time": "2026-10-15 13:17:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤基本持平，報8719.70。"
+    },
+    {
+      "id": "5146730",
+      "time": "2026-10-15 13:16:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【證監會：把市場穩定機制做細做實，進一步完善期貨期權品種佈局】證監會期貨監管司副司長張悅10月15日在2026上海衍生品市場論壇上表示，今年是“十五五”開局之年，“十五五”規劃綱要明確提出穩步發展期貨和衍生品，為期貨市場高質量發展指明瞭方向。張悅表示，面對新形勢，期貨市場要在挑戰中把握機遇、在服務大局中展現作為，把服務實體經濟做深做透，把對外開放文章做新做活，把市場穩定機制做細做實，進一步完善期貨期權品種佈局，培育基礎性戰略性品種；拓展產業企業、中長期資金運用期貨管理風險的空間，促進期現貨聯動和場內外協同；穩步擴大特定品種開放範圍，深化結算價境外授權、跨境交割合作；強化全鏈條風險管控和跨部門協同監管，嚴厲打擊違法違規行為，切實保護投資者合法權益，為中國式現代化和金融強國建設貢獻更大力量。（中證金牛座）"
+    },
+    {
+      "id": "5146728",
+      "time": "2026-10-15 13:15:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【多家機構調整阿斯麥目標價】花旗集團將阿斯麥控股目標股價從2200歐元上調至2300歐元；滙豐將阿斯麥控股目標股價從2177歐元上調至2261歐元；傑富瑞將阿斯麥控股目標股價從每股1650歐元下調至1590歐元；摩根大通將阿斯麥控股目標價從2400美元下調至2350美元。週三阿斯麥今年第三次上調全年預期，因AI基礎設施建設加速，提振了其先進半導體制造裝置的需求。這家荷蘭集團預計全年銷售額為440億至450億歐元，摺合492.7億至503.9億美元；此前預期為430億至450億歐元。同時，毛利率預計約為56%，此前預期區間為54%至56%。"
+    },
+    {
+      "id": "5146727",
+      "time": "2026-10-15 13:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐：將阿斯麥目標股價從2177歐元上調至2261歐元。"
+    },
+    {
+      "id": "te:markets:592189",
+      "time": "2026-10-15 13:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swiss Franc Increases by 0.58% — Top currency gainers are Swiss Franc (0.58%), Polish Zloty (0.57%), Swedish Krona (0.56%), Euro (0.51%), British Pound (0.38%) and Japanese Yen (0.25%). Biggest losers are South Korean Won (-0.50%), Dollar Index (-0.45%) and Brazilian Real (-0.40%)."
+    },
     {
       "id": "5146726",
       "time": "2026-10-15 13:14:10",
@@ -111341,17 +111393,6 @@
         "Importance 1"
       ],
       "text": "Finnish Industrial Output Growth Slows in August — Industrial production in Finland rose by 0.8% year-on-year in August 2026, slowing from a slightly upwardly revised 4.6% gain in the previous month. This marked the softest growth in industrial activity since May, driven by a sharp 15.8% decline (vs -12.8% in July) in mining production. Output growth also softened in the manufacturing sector (0.3% vs 5.4%) as lower activity in printing and reproduction of recorded media (-13.2% vs -8.6%), chemical industry (-9.0% vs 0.8%), and manufacture of furniture (-17.5% vs -16.6%) outweighed increased output in the food industry (3.6% vs -1.2%) and textile, clothing and leather industry (2.3% vs -2.5%). On the other hand, production increased at a faster pace for electricity, gas, steam and air conditioning supply (7.5% vs 3.1%). On a seasonally adjusted monthly basis, industrial activity decreased by 1.3% in August, slipping further from a 1.1% loss in the preceding period."
-    },
-    {
-      "id": "te:markets:590388",
-      "time": "2026-10-08 13:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Indian Rupee Drops by 0.27% — Top currency losers are Indian Rupee (-0.27%) and Japanese Yen (-0.06%). Gains are led by Euro (0.09%). Meanwhile, Dollar Index and British Pound were little changed."
     }
   ]
 }
