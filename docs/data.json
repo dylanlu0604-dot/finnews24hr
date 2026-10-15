@@ -1,7 +1,152 @@
 {
-  "updated": "2026-10-15 18:10:30",
-  "count": 12148,
+  "updated": "2026-10-15 18:14:25",
+  "count": 12164,
   "items": [
+    {
+      "id": "mkt:01a13f0d-5da3-7ee0-a89c-158220fc4119",
+      "time": "2026-10-15 18:13:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Trump is considering candidates to replace Susie Wiles as White House chief of staff."
+    },
+    {
+      "id": "te:markets:592332",
+      "time": "2026-10-15 18:13:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lithium Slides to 10-Month Low — Lithium carbonate prices in China slumped to CNY 100,000 per tonne in October, the lowest in nearly ten months, as growing concerns of softer demand was combined with ample supply. The EU is set to cap imports of Chinese hybrid electric vehicles at 350,000 units annually starting next year. The European Commission noted that this is expected to halve China's market share across the bloc, limiting orders from battery manufacturers in the region after recent data showed higher-than-expected lithium inventories. Industry group SMM changed its methodology for compiling inventory data, which led to a 175,000-tonne increase in Chinese stockpiles, double previous estimates. This coincided with a strong outlook for Australian producers, as Mineral Resources restarted the Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project."
+    },
+    {
+      "id": "mkt:01a13f0c-d515-7ee0-a89c-091be393f2ad",
+      "time": "2026-10-15 18:12:47",
+      "tags": [
+        "MKT News",
+        "BAC.N",
+        "Impact bearish",
+        "JPM.N"
+      ],
+      "text": "Citigroup cut its price target on Bank of America (BAC.N) to $60 from $66 and on JPMorgan (JPM.N) to $350 from $360."
+    },
+    {
+      "id": "5147528",
+      "time": "2026-10-15 18:12:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，特朗普正在考慮接替白宮辦公廳主任蘇西·懷爾斯的人選。"
+    },
+    {
+      "id": "5147527",
+      "time": "2026-10-15 18:12:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國旅聯合：原控股股東江旅集團3000萬股股份解除質押】國旅聯合公告稱，公司原控股股東江西省旅遊集團股份有限公司於2026年10月13日將其持有的3000萬股公司無限售流通股解除質押並完成登記，該部分股份佔其所持股份比例30.36%，佔公司總股本比例2.58%。本次解質押後，江旅集團持有公司股份9880.30萬股，佔總股本8.49%，累計質押股份數量為0股。截至公告披露日，本次解除質押的股份無後續質押計劃。"
+    },
+    {
+      "id": "mkt:01a13f0c-48be-7ee0-a89c-0792fd044b60",
+      "time": "2026-10-15 18:12:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say strict Indian customs scrutiny has rerouted about 11,000 tonnes of Niger-origin soybeans to Asia. African sellers reportedly offered steep discounts to Asian buyers to avoid India’s high import tariffs."
+    },
+    {
+      "id": "5147526",
+      "time": "2026-10-15 18:12:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科星圖：擬與關聯方共同投資設立參股公司】中科星圖公告稱，公司第三屆董事會第二十次會議審議透過《關於擬與關聯方共同投資設立參股公司暨關聯交易的議案》，該事項符合公司戰略規劃和業務發展需要，定價公允、決策程式合規，不構成重大資產重組，不存在損害公司及全體股東特別是中小股東利益的情形。關聯董事王東輝、任京暘、白俊霞迴避表決，表決結果為8票同意、0票反對、0票棄權。"
+    },
+    {
+      "id": "te:economy:592331",
+      "time": "2026-10-15 18:12:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Serbia",
+        "Building Permits",
+        "Importance 1"
+      ],
+      "text": "Serbia Building Permits Fall 3.9% in August — The number of building permits issued in Serbia fell 3.9% year-on-year to 2,443 in August 2026, reversing an 8.6% rise in the previous month. Building construction accounted for 82.2% of all permits issued, of which 84.5% were intended for residential buildings and 15.5% for non-residential projects. The remaining 17.8% of permits were for civil engineering projects, the majority of which (66.5%) were related to pipelines, communication and electric power lines. Meanwhile, a total of 3,771 dwellings were authorized for construction, of which 9.7% were planned for single-dwelling buildings and 88.8% for buildings with three or more dwellings. The anticipated value of new construction works accounted for 79.9% of the total anticipated value of works. By region, the highest share of planned construction was recorded in the Belgrade region, at 29.3%."
+    },
+    {
+      "id": "5147525",
+      "time": "2026-10-15 18:11:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正虹科技：湘城置業收到傳票涉訴1356.44萬元】正虹科技公告，全資子公司岳陽湘城置業有限公司因供用電合同糾紛被國網湖南省電力有限公司岳陽供電分公司起訴，法院已受理，案件定於2026年10月28日開庭審理。原告訴請合計1356.44萬元。"
+    },
+    {
+      "id": "5147524",
+      "time": "2026-10-15 18:11:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，非洲賣家以大幅折扣向亞洲買家提供大豆，以規避印度高額進口關稅。"
+    },
+    {
+      "id": "te:economy:592330",
+      "time": "2026-10-15 18:11:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Israel",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Israel Trade Deficit Widens in September — Israel’s trade deficit widened to USD 3.99 billion in September 2026, the lowest since March, from USD 3.46 billion in the same month a year earlier, but remained well below the USD 5.77 billion recorded in August. Exports rose 30.7% year-on-year to USD 5.76 billion, while imports increased 23.9% to USD 9.74 billion. In the first nine months of 2026, the trade deficit widened 30.6% to USD 38.12 billion, from USD 29.19 billion in the same period of 2025. Over the period, shipments abroad climbed 14.8% to USD 47.13 billion, while purchases from abroad rose 21.4% to USD 85.25 billion."
+    },
+    {
+      "id": "5147523",
+      "time": "2026-10-15 18:11:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【民航將執行2026冬春航季航班計劃】2026年10月25日開始至2027年3月27日，我國民航將執行2026年冬春航季航班計劃。介面新聞記者瞭解到，多家航空公司將新增、加密往返冬季熱門旅遊城市的航班。航旅縱橫民航官方直銷平臺大資料顯示，截至10月15日，冬春航季國內往返烏魯木齊的計劃航班量同比增長約10%，前往哈爾濱、三亞等地的計劃航班量同比均有增長。同時，各大航空公司將持續加大樞紐機場運力投放。目前冬春航季計劃航班量排名前十的城市依次為北京、上海、成都、廣州、深圳、昆明、重慶、西安、杭州、武漢，其中往返上海的計劃航班量同比增長約10%；往返成都、昆明等地的計劃航班也增量較多。"
+    },
+    {
+      "id": "5147522",
+      "time": "2026-10-15 18:11:07",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗將美國銀行<BAC.N>的目標價從66美元下調至60美元。"
+    },
+    {
+      "id": "5147521",
+      "time": "2026-10-15 18:11:00",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐盟長期預算方案遭多國質疑】當地時間15日在布魯塞爾出席歐盟峰會時，德國總理默茨、西班牙首相桑切斯、瑞典首相克里斯特松和希臘總理米佐塔基斯等歐盟成員國領導人紛紛對歐盟2028年至2034年長期預算方案提出質疑和反對。默茨表示，沒有任何一個歐盟成員國能夠承擔當前的歐盟預算方案，他不認為歐盟各國能在峰會上就長期預算達成協議。桑切斯則表示，西班牙不認可當前的歐盟預算方案，認為其資金規模不足。克里斯特松則明確表示，瑞典將拒絕該方案。米佐塔基斯也表示，希臘對該長期預算方案並不滿意，不會接受削減農業等相關支出。米佐塔基斯還表示，除各國政府自行提供援助外，歐盟也應研究出臺額外的能源支援措施，以幫助消費者應對能源價格上漲。（央視新聞）"
+    },
+    {
+      "id": "5147520",
+      "time": "2026-10-15 18:10:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST亞士：控股股東910萬股被司法拍賣完成過戶】*ST亞士公告稱，公司控股股東創能明所持1660萬股公司股份於2026年8月14日至15日司法拍賣成交，合計成交價7483.90萬元，佔公司總股本3.87%。其中競買人張宇競得的910萬股已解除質押、司法凍結並完成過戶登記，受讓方受讓後6個月內不得減持。本次過戶後，創能明持股比例從14.85%降至12.73%；創能明及其一致行動人合計持股比例從43.69%降至41.57%。本次權益變動不會導致公司控股股東及實控人變化，不觸及要約收購。"
+    },
+    {
+      "id": "5147519",
+      "time": "2026-10-15 18:10:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通：9月底信用卡逾期率為0.81%。9月信用卡壞賬率1.52%。"
+    },
     {
       "id": "5147518",
       "time": "2026-10-15 18:09:58",
