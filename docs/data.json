@@ -1,7 +1,105 @@
 {
-  "updated": "2026-10-15 23:26:46",
-  "count": 12349,
+  "updated": "2026-10-15 23:30:44",
+  "count": 12352,
   "items": [
+    {
+      "id": "te:markets:592469",
+      "time": "2026-10-15 23:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Greece 10Y Bond Yield Falls by 11 bps — Majority of government bonds yields are lower on Thursday. Top losers are Greece 10Y (-11.19bps), Australia 10Y (-9.50bps), France 10Y (-9.12bps), US 10Y (-8.50bps), Japan 10Y (-7.43bps) and Germany 10Y (-5.95bps). Gains are led by Brazil 10Y (10bps)."
+    },
+    {
+      "id": "5148108",
+      "time": "2026-10-15 23:29:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克、納斯達克德克薩斯和納斯達克PSX受到影響。"
+    },
+    {
+      "id": "5148107",
+      "time": "2026-10-15 23:29:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克：建議客戶使用芝加哥資料來源作為備用。"
+    },
+    {
+      "id": "5148106",
+      "time": "2026-10-15 23:29:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克：Carteret網路中斷正影響多播組。"
+    },
+    {
+      "id": "5148105",
+      "time": "2026-10-15 23:29:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克目前遭遇網路中斷。"
+    },
+    {
+      "id": "mkt:01a1402d-c89b-7ee0-a8a2-cd2d9d667cb6",
+      "time": "2026-10-15 23:28:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK to fund repairs at Chernobyl nuclear plant】The UK government on the 15th announced a £17 mln (about $22.54 mln) grant to support repairs at the Chernobyl nuclear power plant to restore sealing and ventilation of reactor buildings. HM Treasury and the Foreign, Commonwealth and Development Office said the funding will back an international programme coordinated by the European Bank for Reconstruction and Development (EBRD)."
+    },
+    {
+      "id": "te:markets:592465",
+      "time": "2026-10-15 23:27:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Rises on US Dollar Weakness — The Canadian dollar strengthened past C$1.42 per US dollar, rebounding from an 18-month low of 1.428 on October 12th amid a broad decline for the greenback and hawkish bets for the bank of Canada. Strong Canadian manufacturing sales boosted expectations of a Bank of Canada rate hike at its next meeting, with a majority of the market positioned for the central bank's first hike this cycle. Manufacturing sales rose 1.5% month-over-month to C$79.9 billion in August 2026, beating expectations for a 1.1% increase and marking the sharpest rise since April. However, the upbeat data contrasted with signs of a cooling economy, as employment fell by 68,300, far below expectations for a 7,000 increase, pointing to a weaker start to the third quarter. Uncertainty over US-Canada trade relations also persisted."
+    },
+    {
+      "id": "mkt:01a1402c-29c1-7ee0-a8a2-c7a2d3e6f849",
+      "time": "2026-10-15 23:26:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi movement reports Saudi-led coalition airstrikes in al-Jawf, Saada and Amran provinces】The Houthi movement said on the evening of the 15th (local time) the Saudi-led coalition carried out one airstrike in al-Jawf province, two in Saada province and three in Amran province."
+    },
+    {
+      "id": "te:markets:592464",
+      "time": "2026-10-15 23:26:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Rebounds from 2-Month Low — Wheat rose above $6.75 a bushel, rebounding from an over two-month low of $6.69 on October 13 as traders assessed escalating security risks around Black Sea shipping. Concerns intensified after Russian drones reportedly struck two chemical tankers in Romanian territorial waters, raising fears of further disruption to a key grain-export corridor. Geopolitical tensions also deepened as Ukrainian President Volodymyr Zelenskyy ended a three-day pause on attacks against Russian oil refineries, citing continued Russian strikes on Ukrainian energy infrastructure and uncertainty over US support. The decision followed growing friction with President Donald Trump over Washington’s proposed easing of restrictions on Russian diesel sales and reported limitations on Ukraine’s use of Starshield satellite services. However, increased Russian wheat shipments through alternative Baltic routes have helped ease some supply concerns."
+    },
+    {
+      "id": "5148103",
+      "time": "2026-10-15 23:26:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦調查局正調查含有可疑物質的信件。"
+    },
+    {
+      "id": "5148102",
+      "time": "2026-10-15 23:26:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱沙特主導聯軍對葉門多省進行空襲】據葉門胡塞武裝當地時間15日傍晚釋出的資訊，沙特主導的聯軍當天下午對葉門焦夫省進行了一次空襲，對葉門薩達省進行了兩次空襲，對葉門阿姆朗省進行了三次空襲。（央視新聞）"
+    },
     {
       "id": "mkt:01a1402b-ab0e-7ee0-a8a2-bce31f90a1a4",
       "time": "2026-10-15 23:26:05",
@@ -112599,74 +112697,6 @@
         "國際"
       ],
       "text": "【歐洲主要股指收盤普跌】歐洲斯托克600指數下跌0.72%，歐元斯托克指數下跌0.82%，歐元區藍籌股指數下跌0.79%。法國CAC 40指數下跌0.51%，西班牙IBEX指數下跌0.87%，英國富時100指數下跌0.16%，德國DAX指數下跌1.12%。"
-    },
-    {
-      "id": "5132859",
-      "time": "2026-10-08 23:30:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【迪拜航空航班險情中挺身而出 6名以色列人獲表彰】當地時間8日，以色列總統赫爾佐格在總統官邸舉行儀式，向六名以色列人頒發“總統平民英雄獎”。據瞭解，獲得表彰的六人於今年9月30日搭乘一架從阿聯酋迪拜飛往以色列特拉維夫的航班，他們在該航班飛行期間“因表現出非凡的英勇行為”而獲得該榮譽。（央視新聞）"
-    },
-    {
-      "id": "5132858",
-      "time": "2026-10-08 23:29:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "NASA與SpaceX載人飛船恢復通訊。"
-    },
-    {
-      "id": "5132857",
-      "time": "2026-10-08 23:29:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國尋求在Uni-Tile & Marble案中判處超過2.9億美元的總罰款。"
-    },
-    {
-      "id": "5132856",
-      "time": "2026-10-08 23:28:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國對Uni-Tile & Marble公司及其執行長提起民事欺詐訴訟。"
-    },
-    {
-      "id": "5132855",
-      "time": "2026-10-08 23:27:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西石油公司執行長：坎波斯盆地有潛力成為新的石油中心。"
-    },
-    {
-      "id": "mkt:01a11c20-9534-7ee0-a7ff-040586843871",
-      "time": "2026-10-08 23:27:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Coast Guard warns Philippines to immediately stop incursions, provocations and false claims】China Coast Guard spokesman Jiang Lue said on Oct. 8 that Philippine Coast Guard vessel 4409 went to waters near Ren'ai Reef and transferred one injured person from an illegally grounded vessel. For humanitarian reasons China allowed a small-boat transfer; the coast guard said it handled the matter in accordance with law and provided necessary facilitation. It accused Philippine statements of distorting facts and warned the Philippines to immediately cease incursions, provocations and false claims, reaffirming China’s indisputable sovereignty over the Spratly Islands and adjacent waters including Ren'ai Reef."
-    },
-    {
-      "id": "5132854",
-      "time": "2026-10-08 23:27:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：北美零售房地產投資信託基金的信用質量保持穩定。"
-    },
-    {
-      "id": "5132853",
-      "time": "2026-10-08 23:27:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【中國海警局：正告菲方立即停止侵權挑釁和不實炒作】中國海警局新聞發言人姜略表示，10月8日，菲律賓海警4409號船赴仁愛礁附近海域，轉運非法“坐灘”船隻1名傷員。出於人道主義考慮，中方第一時間允許菲方採取小艇過駁方式轉運傷員，中國海警依法依規處置，並提供必要便利。菲方有關言論罔顧事實、顛倒黑白，企圖混淆視聽。中國對包括仁愛礁在內的南沙群島及其附近海域擁有無可爭辯的主權。我們正告菲方立即停止侵權挑釁和不實炒作。（央視新聞）"
     }
   ]
 }
