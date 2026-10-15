@@ -1,7 +1,97 @@
 {
-  "updated": "2026-10-15 23:07:01",
+  "updated": "2026-10-15 23:10:55",
   "count": 12329,
   "items": [
+    {
+      "id": "mkt:01a1401d-3d92-7ee0-a8a2-3c2fe71e3557",
+      "time": "2026-10-15 23:10:20",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "NVIDIA CEO JENSEN HUANG said CoreWeave's capabilities are strengthening daily and its cost of capital is \"actually declining\"."
+    },
+    {
+      "id": "5148065",
+      "time": "2026-10-15 23:09:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士透露，英國已向烏克蘭提供更多“風暴陰影”導彈，用於打擊俄羅斯目標。"
+    },
+    {
+      "id": "5148064",
+      "time": "2026-10-15 23:09:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯8月經濟活動同比增長3.23%；此前預期為增長3.3%。"
+    },
+    {
+      "id": "5148063",
+      "time": "2026-10-15 23:09:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "黃仁勳：CoreWeave的實力每天都在增強。"
+    },
+    {
+      "id": "5148062",
+      "time": "2026-10-15 23:09:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "黃仁勳：CoreWeave的資本成本實際上正在下降。"
+    },
+    {
+      "id": "5148061",
+      "time": "2026-10-15 23:09:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "黃仁勳表示，英偉達無需為CoreWeave提供擔保。"
+    },
+    {
+      "id": "5148060",
+      "time": "2026-10-15 23:08:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦能源監管委員會：政策宣告草案提議終止《國家環境政策法》下天然氣管道專案的空氣擴散建模要求。"
+    },
+    {
+      "id": "5148059",
+      "time": "2026-10-15 23:08:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦能源監管委員會（FERC）提議根據《國家環境政策法》（NEPA）對天然氣專案的空氣質量審查進行全面改革。"
+    },
+    {
+      "id": "5148058",
+      "time": "2026-10-15 23:07:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雙11首小時李佳琦直播間多款產品銷量超10萬件】今年雙11首日，李佳琦直播間“超級美妝節”覆蓋母嬰、生活、時尚、食品等品類。從首小時表現看，國際大牌熱銷與國貨爆品放量並行。國貨方面，珀萊雅、FAN BEAUTY、馥郁滿鋪、毛戈平等品牌熱銷，其中珀萊雅紅寶石面霜銷量近30萬件。據瞭解，今年雙11首日，李佳琦直播間“超級美妝節”以美妝產品為核心，覆蓋母嬰、生活、時尚、食品等品類。"
+    },
+    {
+      "id": "5148056",
+      "time": "2026-10-15 23:07:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非將淘汰汽車套件進口組裝】南非貿易部長Parks Tau表示，南非將收緊汽車製造相關法規，以“逐步淘汰”將汽車以零部件套件形式進口並在國內進行組裝的做法。Tau在週四的一份宣告中稱，南非還將停止為任何新的半散件組裝（SKD）業務提供政策支援。他表示：“我們將致力於完善相關法律定義，明確我們認定為全散件組裝（CKD）製造的標準。”"
+    },
+    {
+      "id": "5148055",
+      "time": "2026-10-15 23:07:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：海灣合作委員會主權預算收支趨於疲軟，但資產負債表總體穩健。"
+    },
     {
       "id": "te:markets:592457",
       "time": "2026-10-15 23:06:12",
@@ -60,6 +150,15 @@
         "其他"
       ],
       "text": "英偉達釋出 Nemotron 3.5 Super VL。"
+    },
+    {
+      "id": "5148050",
+      "time": "2026-10-15 23:04:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：美國FTC就消費者權益受損問題向OpenAI和Anthropic發出傳票】據Axios援引一位知情人士的話報道，美國聯邦貿易委員會（FTC）已向人工智慧（AI）巨頭Anthropic和OpenAI發出民事傳票，要求其提供有關安全事件的檔案。此次調查正值人們對人工智慧安全問題的擔憂日益加劇之際，一些人工智慧模型在測試中曾入侵網站，並表現出欺騙性或攻擊性行為，這凸顯了日益自主的系統所帶來的風險，以及現有防範危害的保障措施是否充分。FTC還計劃傳喚包括Anthropic、OpenAI以及研究機構METR在內的頂級AI開發商高管作證。OpenAI的一位發言人表示，該公司“將與FTC進行建設性溝通，並繼續與監管機構和政策制定者合作，制定能夠提高安全標準的政策”。"
     },
     {
       "id": "5148049",
@@ -112376,130 +112475,6 @@
         "國際"
       ],
       "text": "特朗普針對外籍員工的打擊行動波及微軟、Adobe及IT企業。"
-    },
-    {
-      "id": "5132831",
-      "time": "2026-10-08 23:10:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國和俄羅斯討論美方投資北溪管道】美國特使賈裡德·庫什納與俄羅斯總統普京的顧問基里爾·德米特里耶夫討論了引入美國投資者參與北溪管道的事宜，這為美國參與俄羅斯對德天然氣銷售開闢了一條潛在途徑。"
-    },
-    {
-      "id": "mkt:01a11c10-128b-7ee0-a7fe-951aa67b2118",
-      "time": "2026-10-08 23:09:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "CBO director says economic growth alone is unlikely to stabilize the U.S. debt trajectory."
-    },
-    {
-      "id": "mkt:01a11c0f-a4fd-7ee0-a7fe-89210bd1e1ed",
-      "time": "2026-10-08 23:09:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "Congressional Budget Office director says a 6% \"structural\" fiscal deficit exists."
-    },
-    {
-      "id": "5132830",
-      "time": "2026-10-08 23:09:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "烏茲別克9月份M2貨幣供應量同比增長38.392%。"
-    },
-    {
-      "id": "mkt:01a11c0f-6983-7ee0-a7fe-875db45c9532",
-      "time": "2026-10-08 23:08:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "CBO director: growth projections needed to stabilize federal debt assume interest rates of 4%–5%."
-    },
-    {
-      "id": "5132829",
-      "time": "2026-10-08 23:08:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "Yandex尚無法確認資料中心能否恢復。"
-    },
-    {
-      "id": "mkt:01a11c0e-c4f1-7ee0-a7fe-7e2a1c155695",
-      "time": "2026-10-08 23:08:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's internet portal Yandex said it cannot yet confirm whether data-center equipment in the Ryazan region can be restored."
-    },
-    {
-      "id": "5132828",
-      "time": "2026-10-08 23:08:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯Yandex評估資料中心受損情況。"
-    },
-    {
-      "id": "5132827",
-      "time": "2026-10-08 23:07:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國會預算辦公室（CBO）主任斯瓦格爾：依靠增長穩定債務，需要GDP增速達到5%-6%；其債務穩定增長預估假設利率為4%-5%。"
-    },
-    {
-      "id": "mkt:01a11c0e-494d-7ee0-a7fe-7566b16f767d",
-      "time": "2026-10-08 23:07:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ANTHROPIC to open Claude to more than 15 U.S. federal agencies】ANTHROPIC said it will invest $150 million over three years in the Trump administration's Genesis Mission federal program and will provide its AI model Claude to more than 15 federal agencies, including NASA and NIH. The company will allocate Claude, Claude Code and API credits to the Genesis Mission."
-    },
-    {
-      "id": "mkt:01a11c0e-48bb-7ee0-a7fe-6bba96d3b6a1",
-      "time": "2026-10-08 23:07:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "The director of the U.S. Congressional Budget Office said GDP growth would need to reach 5-6% for growth alone to stabilize the debt."
-    },
-    {
-      "id": "5132826",
-      "time": "2026-10-08 23:07:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國聯邦貿易委員會指控Cleo AI誤導消費者，將返還1580萬美元】美國聯邦貿易委員會指控Cleo AI透過虛假現金預支承諾以及難以取消的訂閱服務欺騙消費者，將向受影響客戶返還超過1580萬美元。聯邦貿易委員會在2025年3月的訴狀中稱，Cleo AI承諾可提供數百美元預支款，但幾乎無人拿到。FTC還指控，Cleo為即時預支收取隱性費用，而資金往往要等到次日才到賬。退款將發放給2124796名符合條件、曾支付即時現金預支服務費用的Cleo AI使用者。"
     }
   ]
 }
