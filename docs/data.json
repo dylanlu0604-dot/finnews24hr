@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-16 06:41:47",
-  "count": 12341,
+  "updated": "2026-10-16 06:45:38",
+  "count": 12342,
   "items": [
+    {
+      "id": "5148482",
+      "time": "2026-10-16 06:45:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國官員反駁澤連斯基 稱特朗普未下令限制烏軍使用星盾系統】一名美國高階官員稱，總統唐納德·特朗普並未下令對烏克蘭使用SpaceX的星盾衛星技術施加任何限制。當被問及特朗普是否曾下令限制烏克蘭使用星盾時，這名官員週四表示，總統從未提出過這樣的要求。烏克蘭總統澤連斯基本週指責特朗普和SpaceX執行長埃隆·馬斯克限制烏軍使用該技術，稱此舉導致了平民死亡，因為使用該技術的烏克蘭攔截力量無法像此前那樣有效地擊落俄羅斯無人機。"
+    },
+    {
+      "id": "te:markets:592526",
+      "time": "2026-10-16 06:45:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 1.59% — Top crypto gainers are Ether (1.59%) and Bitcoin (1.04%)."
+    },
     {
       "id": "te:markets:592525",
       "time": "2026-10-16 06:40:04",
@@ -112701,17 +112721,6 @@
         "其他"
       ],
       "text": "【全國高速服務區新增大功率充電設施超1.1萬個】今年國慶假期，大功率超充設施加快落地，分鐘級補能正在改變新能源汽車車主的出行體驗。如今，全國高速服務區新增大功率充電設施超1.1萬個，相當於此前累計數量的總和。（央視新聞）"
-    },
-    {
-      "id": "te:markets:590619",
-      "time": "2026-10-09 06:45:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Depreciates by 4.55% — Top crypto losers are Binance (-4.55%), Ether (-3.83%), XRP (-2.80%) and Bitcoin (-1.72%)."
     }
   ]
 }
