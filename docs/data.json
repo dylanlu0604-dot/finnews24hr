@@ -1,7 +1,38 @@
 {
-  "updated": "2026-10-15 08:51:07",
-  "count": 12027,
+  "updated": "2026-10-15 08:54:51",
+  "count": 12030,
   "items": [
+    {
+      "id": "5145930",
+      "time": "2026-10-15 08:52:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌7％，SK海力士跌10%，三星電子跌近8%。"
+    },
+    {
+      "id": "mkt:01a13d0b-7356-7ee0-a888-e2e8e3610b10",
+      "time": "2026-10-15 08:52:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【South Korea KOSPI plunges 7%】South Korea's KOSPI fell 7%. SK Hynix dropped 10%; Samsung Electronics fell nearly 8%."
+    },
+    {
+      "id": "5145927",
+      "time": "2026-10-15 08:51:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果庫克現身愛奇藝北京總部 體驗愛奇藝適配iPhone Duo觀影效果】記者10月14日從愛奇藝獲悉，蘋果公司執行董事長蒂姆·庫克當日到訪愛奇藝北京總部。愛奇藝創始人、CEO龔宇回顧了16年來愛奇藝對蘋果裝置的適配情況，介紹了愛奇藝在音影片技術和AI領域的探索。庫克在最新款iPhoneDuo上體驗了愛奇藝適配觀影效果。"
+    },
     {
       "id": "te:markets:592089",
       "time": "2026-10-15 08:50:42",
@@ -13,6 +44,23 @@
         "Importance 1"
       ],
       "text": "Japan’s Nikkei Slumps on Hot US Inflation — The Nikkei 225 Index fell more than 3% toward the 65,000 level on Thursday, extending its losing streak to six consecutive sessions and reaching a two-week low as stronger-than-expected US inflation fueled concerns over higher interest rates. Japanese equities also followed an overnight technology-led selloff on Wall Street, as rising borrowing costs threatened the sector’s credit outlook amid substantial investments in artificial intelligence. AI-related stocks led the declines in Japan, with Kioxia Holdings falling 9.1%, Advantest dropping 7.4%, Lasertec losing 8.8%, SoftBank Group sliding 7.8% and Taiyo Yuden declining 4.5%. Banking stocks also weakened, including Mitsubishi UFJ and Sumitomo Mitsui, both down 1.1%, while Mizuho Financial fell 1.8%. Meanwhile, Japanese data showed that core machinery orders, a key indicator of capital investment, increased more than expected in August."
+    },
+    {
+      "id": "5145920",
+      "time": "2026-10-15 08:50:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議院在首輪法定投票中透過了縮短六天工作制的憲法修正案。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610153896145331",
+      "time": "2026-10-15 08:50:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲古爾斯比稱通脹形勢令人失望 警告人工智慧基建投資或致經濟過熱】當地時間10月14日，美國芝加哥聯儲主席奧斯坦·古爾斯比表示，9月美國通脹資料令人擔憂，人工智慧相關基礎設施建設和投資也可能導致經濟過熱。他稱，最新消費者價格指數報告顯示，通脹壓力具有廣泛性，尤其是服務業通脹持續，說明價格上漲並非僅由關稅、中東衝突等因素引發的供應衝擊所致。"
     },
     {
       "id": "5145916",
@@ -64,6 +112,15 @@
         "其他"
       ],
       "text": "【兩市融資餘額較上日減少106.39億元】截至10月14日，上交所融資餘額報12800.77億元，較前一交易日減少59.88億元；深交所融資餘額報12174.08億元，較前一交易日減少46.51億元；兩市合計24974.85億元，較前一交易日減少106.39億元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610153896143969",
+      "time": "2026-10-15 08:46:43",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲DALY稱可能需要加息，但並非迫在眉睫。"
     },
     {
       "id": "mkt:01a13d06-2e72-7ee0-a888-cd5da1d6cd8f",
@@ -109704,31 +109761,6 @@
         "其他"
       ],
       "text": "【國慶假期 國鐵廣州局共傳送旅客2072.1萬人次 創歷史新高】從國鐵廣州局獲悉，今年國慶與中秋節假期疊加，客流大幅增加。10月1日至7日，國鐵廣州局共計傳送旅客2072.1萬人次，同比增加186萬人次，增長9.9%，創歷史新高。"
-    },
-    {
-      "id": "5130892",
-      "time": "2026-10-08 08:54:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破60美元/盎司，日內漲0.45%。"
-    },
-    {
-      "id": "5130891",
-      "time": "2026-10-08 08:54:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普政府擬臨時放行部分未獲批多肽產品銷售】兩名不願具名知情人士稱，特朗普政府正在擬定方案，允許部分此前受限的多肽產品臨時上市銷售，聯邦衛生官員同時在為這類爭議產品制定新規。該舉措將允許部分調配藥房配售部分多肽製劑，這類產品被宣傳為新型療法與健康養護產品，但對應的治療功效尚未完成完整的安全性測試。該計劃尚未對外公佈，落地時間尚不明確，方案仍存在變動可能。"
-    },
-    {
-      "id": "5130890",
-      "time": "2026-10-08 08:51:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【優必選攜手一汽-大眾 推進人形機器人在物流場景應用落地】據優必選訊息，近日，“人形機器人第一股”優必選與一汽-大眾汽車有限公司達成戰略合作，雙方將共同推進具身智慧機器人在物流領域的應用場景開發及測試，同時構建示範應用場景，加速人形機器人在智慧製造領域的部署與應用，推動人形機器人智慧製造解決方案的落地與推廣。根據同行業公司公開披露的財務報表顯示，優必選在總營收、人形機器人總銷量、全尺寸具身智慧機器人 （非遙控非玩具， 大腦晶片算力≧200T，身高≧160cm） 收入和銷量等方面均位居全球第一。此次優必選與一汽‑大眾強強聯合，將依託各自技術、產能與製造場景優勢，深耕物流與智慧製造場景，加速人形機器人相關解決方案落地，賦能製造業智慧化升級，從而推動具身智慧技術賦能千行百業，邁向人機共生的新質未來。"
     }
   ]
 }
