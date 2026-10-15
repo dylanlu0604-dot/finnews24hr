@@ -1,7 +1,103 @@
 {
   "date": "2026-10-15",
-  "count": 1238,
+  "count": 1248,
   "items": [
+    {
+      "id": "5146768",
+      "time": "2026-10-15 13:40:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行委員小枝淳子：難以確定中性利率水平。"
+    },
+    {
+      "id": "mkt:01a13e13-b9c2-7ee0-a891-4b0b70bb60b4",
+      "time": "2026-10-15 13:40:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan policy board member Koeda said monetary conditions have remained accommodative."
+    },
+    {
+      "id": "mkt:01a13e13-b13d-7ee0-a891-41b4d6efb426",
+      "time": "2026-10-15 13:40:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF JAPAN policy board member Koeda said the basic stance on the neutral rate is that it must be considered as a range."
+    },
+    {
+      "id": "5146767",
+      "time": "2026-10-15 13:40:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝：需要及時調整利率。"
+    },
+    {
+      "id": "mkt:01a13e13-4324-7ee0-a891-3ffb310426ad",
+      "time": "2026-10-15 13:40:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "159915.SZ",
+        "510300.SH",
+        "510050.SH"
+      ],
+      "text": "【Broad-based ETFs surged in afternoon; several funds’ turnover exceeded prior full day】Broad-based A-share ETFs saw a sharp afternoon pickup in turnover. E Fund ChiNext ETF (159915) traded 7.1 bln yuan, ChinaAMC STAR 50 ETF (588000) 5.8 bln yuan, Huatai‑PineBridge CSI 300 ETF (510300) 4.8 bln yuan; E Fund STAR 50 ETF (588080) and ChinaAMC SSE 50 ETF (510050) about 1.6 bln yuan each. All exceeded yesterday’s full-day turnover."
+    },
+    {
+      "id": "5146766",
+      "time": "2026-10-15 13:40:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員小枝：關於中性利率的基本立場是，我們必須在一個區間內進行考量。"
+    },
+    {
+      "id": "5146765",
+      "time": "2026-10-15 13:40:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員小枝：貨幣環境一直保持寬鬆。"
+    },
+    {
+      "id": "mkt:01a13e12-9c5b-7ee0-a891-30a72748b67c",
+      "time": "2026-10-15 13:39:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "TSM.O",
+        "Impact bullish",
+        "SMH",
+        "SOXX"
+      ],
+      "text": "【AI chip demand drives TSMC Q3 net profit up 69% YoY to record, beats estimates】Taiwan Semiconductor Manufacturing Co, the world’s largest contract chipmaker, said Thursday that surging demand for AI processors lifted third-quarter net profit 69% YoY to NT$763.1 billion (US$23.6 billion) for July–September, a record and above institutional estimates of NT$746.3 billion."
+    },
+    {
+      "id": "5146764",
+      "time": "2026-10-15 13:37:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電美股夜盤一度跌超2.7%，現跌超2.4%。"
+    },
+    {
+      "id": "5146763",
+      "time": "2026-10-15 13:37:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.95%，成分股中，瀾起科技跌6.65%，華豐科技跌5.18%，佰維儲存跌4.79%，摩爾執行緒跌4.23%。"
+    },
     {
       "id": "5146762",
       "time": "2026-10-15 13:37:05",

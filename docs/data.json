@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-15 13:37:47",
-  "count": 12248,
+  "updated": "2026-10-15 13:41:35",
+  "count": 12250,
   "items": [
+    {
+      "id": "5146768",
+      "time": "2026-10-15 13:40:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行委員小枝淳子：難以確定中性利率水平。"
+    },
+    {
+      "id": "mkt:01a13e13-b9c2-7ee0-a891-4b0b70bb60b4",
+      "time": "2026-10-15 13:40:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan policy board member Koeda said monetary conditions have remained accommodative."
+    },
+    {
+      "id": "mkt:01a13e13-b13d-7ee0-a891-41b4d6efb426",
+      "time": "2026-10-15 13:40:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF JAPAN policy board member Koeda said the basic stance on the neutral rate is that it must be considered as a range."
+    },
+    {
+      "id": "5146767",
+      "time": "2026-10-15 13:40:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝：需要及時調整利率。"
+    },
+    {
+      "id": "mkt:01a13e13-4324-7ee0-a891-3ffb310426ad",
+      "time": "2026-10-15 13:40:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "159915.SZ",
+        "510300.SH",
+        "510050.SH"
+      ],
+      "text": "【Broad-based ETFs surged in afternoon; several funds’ turnover exceeded prior full day】Broad-based A-share ETFs saw a sharp afternoon pickup in turnover. E Fund ChiNext ETF (159915) traded 7.1 bln yuan, ChinaAMC STAR 50 ETF (588000) 5.8 bln yuan, Huatai‑PineBridge CSI 300 ETF (510300) 4.8 bln yuan; E Fund STAR 50 ETF (588080) and ChinaAMC SSE 50 ETF (510050) about 1.6 bln yuan each. All exceeded yesterday’s full-day turnover."
+    },
+    {
+      "id": "5146766",
+      "time": "2026-10-15 13:40:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員小枝：關於中性利率的基本立場是，我們必須在一個區間內進行考量。"
+    },
+    {
+      "id": "5146765",
+      "time": "2026-10-15 13:40:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員小枝：貨幣環境一直保持寬鬆。"
+    },
+    {
+      "id": "mkt:01a13e12-9c5b-7ee0-a891-30a72748b67c",
+      "time": "2026-10-15 13:39:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "TSM.O",
+        "Impact bullish",
+        "SMH",
+        "SOXX"
+      ],
+      "text": "【AI chip demand drives TSMC Q3 net profit up 69% YoY to record, beats estimates】Taiwan Semiconductor Manufacturing Co, the world’s largest contract chipmaker, said Thursday that surging demand for AI processors lifted third-quarter net profit 69% YoY to NT$763.1 billion (US$23.6 billion) for July–September, a record and above institutional estimates of NT$746.3 billion."
+    },
+    {
+      "id": "5146764",
+      "time": "2026-10-15 13:37:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電美股夜盤一度跌超2.7%，現跌超2.4%。"
+    },
+    {
+      "id": "5146763",
+      "time": "2026-10-15 13:37:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.95%，成分股中，瀾起科技跌6.65%，華豐科技跌5.18%，佰維儲存跌4.79%，摩爾執行緒跌4.23%。"
+    },
     {
       "id": "5146762",
       "time": "2026-10-15 13:37:05",
@@ -111626,78 +111722,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧談北約：德國人已經挺身而出，盡了自己的一份力量。"
-    },
-    {
-      "id": "5131385",
-      "time": "2026-10-08 13:41:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯Yandex公司稱，由於無人機襲擊，其位於梁贊地區的資料中心運營已全面停止。"
-    },
-    {
-      "id": "5131384",
-      "time": "2026-10-08 13:40:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超2%，現報4109.870點；恒生指數現跌0.799%。"
-    },
-    {
-      "id": "5131383",
-      "time": "2026-10-08 13:40:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7025.00點。"
-    },
-    {
-      "id": "5131382",
-      "time": "2026-10-08 13:39:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為Pura 90 Pro主攝與Pro Max兩億潛望、“外掛式”長焦系統由歐菲光供貨】從產業鏈人士處獲悉，歐菲光為華為Pura 90 Pro、Pro Max旗艦機型核心光學供應商，獨家供應兩款機型的主攝與2億畫素潛望長焦，其中“外掛式”長焦影像系統同樣由歐菲光供貨。據前述產業鏈人士透露，針對這套“外掛式”長焦影像系統，歐菲光投入專用裝置，重新開展測試與工藝驗證。內部資料顯示，該模組良率表現優異，工藝難度與產品附加值均處於行業頂端。（藍鯨新聞）"
-    },
-    {
-      "id": "5131381",
-      "time": "2026-10-08 13:39:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "騰訊控股短線下挫跌超1%，報415港元。"
-    },
-    {
-      "id": "5131380",
-      "time": "2026-10-08 13:38:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "大和證券執行長荻野明彥：預計日經指數今年將達到80000點，到2027年底將達到88000點。預計到2027年底，日元兌美元匯率將在160左右波動。利率上升是一種“積極發展”，反映了經濟增長。最大的挑戰在於市場參與者對人工智慧風險的看法迅速轉變。"
-    },
-    {
-      "id": "5131379",
-      "time": "2026-10-08 13:38:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌3.00%，現報3041.138點；上證指數跌0.75%，現報3813.385點；深證成指跌1.87%，現報12646.865點。"
-    },
-    {
-      "id": "5131378",
-      "time": "2026-10-08 13:37:59",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "野村證券執行長奧田健太郎：預計日經225指數年底前將在75000點左右波動，並在2027年底超過80000點。預計日元兌美元匯率將在今年年底徘徊在156左右，並隨著地緣政治風險擔憂的減弱而逐步走強。海外投資者對日本仍然抱有濃厚的興趣。目前來看，日本利率上升的負面影響並不大。風險在於人工智慧投資週期可能逆轉另一個風險是中東和烏克蘭的地緣政治衝突曠日持久，這將推高能源價格並擾亂供應鏈，從而損害經濟。"
     }
   ]
 }
