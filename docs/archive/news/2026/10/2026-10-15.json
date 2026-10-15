@@ -1,7 +1,73 @@
 {
   "date": "2026-10-15",
-  "count": 2484,
+  "count": 2492,
   "items": [
+    {
+      "id": "te:markets:592474",
+      "time": "2026-10-15 23:41:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises to 7-Week High — The FTSE 100 climbed 1% to 10,840 on Thursday, its highest level since August 26, as defensive stocks helped London outperform global markets unsettled by concerns over the artificial intelligence sector. Better-than-expected UK economic data also supported sentiment, with GDP expanding 0.1% in August after a 0.4% increase in July, defying forecasts of a contraction. The index’s limited exposure to technology shares provided an additional advantage. Pharmaceutical stocks led the advance, with AstraZeneca gaining more than 3% amid a collaboration with biotech startup Insitro to develop treatments for liver and heart diseases. GSK rose nearly 3%, while Unilever added over 1.5% and British American Tobacco advanced more than 2%. Mining shares moved in the opposite direction, with Antofagasta falling 3.8% after missing third-quarter copper production estimates and cutting its 2027 outlook, while Rio Tinto lost 1.7% and Anglo American also declined."
+    },
+    {
+      "id": "5148130",
+      "time": "2026-10-15 23:40:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】德國DAX30指數漲幅0.35%，英國富時100指數漲幅1.04%，法國CAC40指數漲幅0.78%，歐洲斯托克50指數跌幅0.31%，西班牙IBEX35指數跌幅0.22%，義大利富時MIB指數跌幅0.68%。"
+    },
+    {
+      "id": "mkt:01a14038-a0f6-7ee0-a8a3-89d2f84f5540",
+      "time": "2026-10-15 23:40:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "European equities on Oct 15: Germany's DAX rose 87.32 pts (+0.35%) to 25,385.93; UK's FTSE 100 gained 111.87 pts (+1.04%) to 10,836.73; France's CAC 40 added 61.59 pts (+0.78%) to 7,934.70; EUROSTOXX 50 fell 19.22 pts (-0.31%) to 6,171.15; Spain's IBEX 35 dropped 42.06 pts (-0.22%) to 19,188.64; Italy's FTSE MIB slipped 336.34 pts (-0.68%) to 49,417.50."
+    },
+    {
+      "id": "5148129",
+      "time": "2026-10-15 23:39:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空任命瑪格麗特·穆勒負責芝加哥銷售和當地業務活動，網路規劃主管布萊恩·茲諾廷斯將於年底退休。"
+    },
+    {
+      "id": "5148128",
+      "time": "2026-10-15 23:39:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉總統尼古拉斯·馬杜羅對美國新指控其酷刑共謀的起訴書表示不認罪。"
+    },
+    {
+      "id": "mkt:01a14037-609e-7ee0-a8a3-81de8e58f4ec",
+      "time": "2026-10-15 23:38:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's government said an attack killed and injured several staff."
+    },
+    {
+      "id": "5148127",
+      "time": "2026-10-15 23:38:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門政府稱，此次襲擊造成多名工作人員傷亡。"
+    },
     {
       "id": "mkt:01a14036-9c56-7ee0-a8a3-781cc79a2fe1",
       "time": "2026-10-15 23:38:03",
@@ -17,6 +83,15 @@
         "其他"
       ],
       "text": "葉門內閣：針對Maashiq宮的襲擊是胡塞武裝升級行動的一部分，該升級行動還包括炮擊塔伊茲和拉赫季的居民區以及沙特的要害設施。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610153897297431",
+      "time": "2026-10-15 23:37:40",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國9月生產者價格指數漲幅創近年新高】美國勞工部15日釋出的資料顯示，美國9月生產者價格指數（PPI）環比和同比漲幅均明顯擴大並超出市場預期，為近幾年來最高水平。資料顯示，9月PPI環比上漲1.3%，高於8月的0.5%，為2022年3月以來最大漲幅。該指數同比漲幅從8月的5.6%升至6.3%，為2022年12月以來最大漲幅。"
     },
     {
       "id": "5148125",
