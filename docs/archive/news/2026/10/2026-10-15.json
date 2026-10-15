@@ -1,7 +1,128 @@
 {
   "date": "2026-10-15",
-  "count": 1163,
+  "count": 1176,
   "items": [
+    {
+      "id": "5146722",
+      "time": "2026-10-15 13:10:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：今年國民收入極有可能超過4萬美元。"
+    },
+    {
+      "id": "mkt:01a13df7-5cb1-7ee0-a890-75e0d16290bb",
+      "time": "2026-10-15 13:09:43",
+      "tags": [
+        "MKT News",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "Citigroup raises ASML (ASML.O) PT to €2,300 from €2,200."
+    },
+    {
+      "id": "mkt:01a13df7-5609-7ee0-a890-6da8410eb9ee",
+      "time": "2026-10-15 13:09:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Tianyi Cloud, CHINA'S CPU MAKER HAIGUANG sign cooperation agreement to co‑build National Advanced Computing Industry Innovation Center】Haiguang said on Oct. 14 that Tianyi Cloud Technology Co. and CHINA'S CPU MAKER HAIGUANG signed a cooperation agreement to jointly establish a National Advanced Computing Industry Innovation Center, deepening collaboration on cloud infrastructure, cloud‑platform adaptation and frontier technologies to drive integration of domestic compute capabilities with cloud service systems."
+    },
+    {
+      "id": "5146721",
+      "time": "2026-10-15 13:09:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【富時中國A50指數期貨跌2%】富時中國A50指數期貨跌幅擴大，現跌2%，報13241.0點。"
+    },
+    {
+      "id": "mkt:01a13df7-0f43-7ee0-a890-60f377e7b59f",
+      "time": "2026-10-15 13:09:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures fell more than 2%."
+    },
+    {
+      "id": "mkt:01a13df6-fda7-7ee0-a890-5876855b267c",
+      "time": "2026-10-15 13:09:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Le Pen says France cannot continue funding Ukraine amid fiscal strain】National Rally 2027 presidential candidate Marine Le Pen said on the 14th that, given France's high deficits and growth pressures, she believes the country cannot continue providing aid to Ukraine. Earlier, President Emmanuel Macron spoke by phone with Ukrainian President Zelenskiy and reiterated France's full support for Ukraine."
+    },
+    {
+      "id": "te:markets:592188",
+      "time": "2026-10-15 13:09:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Erases Losses, Ends 0.5% Higher — The NZX 50 rose 72 points, or 0.5%, to close at 13,833 on Thursday, erasing its morning losses and extending gains from the previous session to reach its highest level since September 30. The index was mainly buoyed by gains in utilities, consumer staples, and real estate. A downbeat session on Wall Street overnight curbed gains, as faster-than-expected inflation data raised expectations of Fed rate hikes. Rising oil prices further pressured sentiment amid inflation concerns and the RBNZ's tightening monetary policy. Caution also prevailed ahead of the release of New Zealand's food inflation and business PMI data on Friday, while traders assessed a statement from RBNZ Chief Economist Paul Conway that rising oil prices and a weaker New Zealand dollar had added to near-term inflationary pressures, complicating the outlook for this month's interest rate decision. Among the notable gainers were Mainfreight (2.9%), EBOS Group (2.9%), Westpac Banking Corp. (1.9%), and ANZ Group (1.4%)."
+    },
+    {
+      "id": "5146720",
+      "time": "2026-10-15 13:09:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天翼雲與海光資訊簽署合作協議 共建國家先進計算創新中心】據海光資訊官微訊息，10月14日，天翼雲科技有限公司與海光資訊簽署合作協議，雙方將共建國家先進計算產業創新中心，深化雲端計算基礎設施、雲平臺適配和前沿技術等領域的協同合作，推動國產算力技術與雲服務體系深度融合。"
+    },
+    {
+      "id": "5146719",
+      "time": "2026-10-15 13:08:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊AI管家Marvis鴻蒙版正式上架】騰訊旗下作業系統層級的個人AI管家Marvis（馬維斯）鴻蒙版正式登陸鴻蒙應用市場。據介紹，Marvis鴻蒙版與Android、iOS移動端功能保持一致，支援自然語言操控電腦、跨端遠控電腦、定時任務、檔案智慧處理等核心能力。同時，鴻蒙版Marvis還新增了此前使用者關心的微信和QQ登入，無論透過哪種入口登入，使用者的歷史對話、積分資產均可繼承，老使用者可在鴻蒙裝置上無縫繼續使用。（新浪科技）"
+    },
+    {
+      "id": "5146718",
+      "time": "2026-10-15 13:08:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【A股大調整原因 專家：A股跌破3700點主要受外圍影響】10月15日，A股市場出現大幅調整，上證指數盤中一度跌破3700點，全市場超5000只個股下跌。前券商首席經濟學家、深圳市決策諮詢委員會委員李大霄對錶示，市場大跌主要受美日韓外圍市場大跌影響，費城半導體跌超4%，日本股市盤中跌超4%，韓國股市跌超7%。科創50指數盤初跌超3%，抹去今年所有漲幅，一些高估值板塊在有序調整，也是本輪市場調整的原因。低估藍籌龍頭股走強、高估板塊調整同時存在，市場正處在結構性調整的過程當中。但當前有穩定市場的抓手，“我們有低利率環境，有高股息資產作為中流砥柱，有大盤藍籌核心資產。長期資金入市方興未艾，可以加快一些速度。”他還表示，當前穩定市場的機制建設正在推進，在市場出現突發性波動，尤其是外圍因素引發恐慌的時候，還是要保持信心。（中新經緯）"
+    },
+    {
+      "id": "5146717",
+      "time": "2026-10-15 13:07:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "據英國每日電訊報，英國考慮提高高價辦公樓的房產稅。"
+    },
+    {
+      "id": "5146716",
+      "time": "2026-10-15 13:06:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼能源部設定10月下半月4,100千卡等級煤炭基準價格為每噸66.10美元。"
+    },
+    {
+      "id": "5146715",
+      "time": "2026-10-15 13:06:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基說美國未站在歷史正確一邊 】當地時間10月14日，烏克蘭總統澤連斯基接受英國媒體人皮爾斯·摩根專訪。在被問及美俄達成柴油供應協議相關問題時，他表示，這一協議令其感到遭背叛。澤連斯基稱：“令人遺憾的是，我們正在失去一個強大的夥伴，美國未站在歷史正確的一邊。”"
+    },
     {
       "id": "5146714",
       "time": "2026-10-15 13:06:38",
