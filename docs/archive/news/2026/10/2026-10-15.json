@@ -1,7 +1,89 @@
 {
   "date": "2026-10-15",
-  "count": 1699,
+  "count": 1708,
   "items": [
+    {
+      "id": "te:markets:592319",
+      "time": "2026-10-15 17:50:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Firms Slightly — The South African rand edged up to around 16.5 per USD, helped by a softening US dollar and rising prices of key precious metals, particularly gold and PGMs. Meanwhile, persistent geopolitical tensions in the Middle East continued to support oil prices, fuelling inflation concerns and raising the prospect of interest rates remaining higher for longer. South African Reserve Bank Governor Lesetja Kganyago told Reuters on the sidelines of the annual IMF–World Bank meetings in Bangkok that rising global energy prices and food costs continue to pose upside risks to domestic inflation. He noted that inflation may not return to the target until 2028, reinforcing the case for maintaining a restrictive monetary policy following last month’s 25-basis-point rate hike to 7.25%.Attention is now shifting to Finance Minister Enoch Godongwana’s medium-term budget policy statement next week, as investors look for clues on the country's fiscal situation."
+    },
+    {
+      "id": "mkt:01a13ef8-1d5a-7ee0-a89b-87f4b5c2af8d",
+      "time": "2026-10-15 17:50:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "DXY"
+      ],
+      "text": "Bank of England Governor Bailey will speak in 10 minutes."
+    },
+    {
+      "id": "5147459",
+      "time": "2026-10-15 17:48:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方航空：9月旅客週轉量同比上升3.26%】南方航空公告稱，2026年9月，集團客運運力投入同比上升3.80%，旅客週轉量同比上升3.26%，客座率85.85%，同比下降0.45個百分點；貨運運力投入同比上升3.13%，貨郵週轉量同比上升5.99%，貨郵載運率54.64%，同比上升1.47個百分點。當月新增深圳-泗水等4條主要航線，引進6架飛機、退出5架，截至9月底合計運營978架運輸飛機。"
+    },
+    {
+      "id": "5147458",
+      "time": "2026-10-15 17:48:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST卓然：基本銀行賬戶部分資金被司法劃扣】*ST卓然公告稱，因與江蘇華偉建設集團有限公司、中化二建集團有限公司建設工程施工合同糾紛，公司未按期履行生效判決付款義務，浙江省岱山縣人民法院對公司基本銀行賬戶及一般銀行賬戶部分資金實施司法扣劃，合計扣劃1367.35萬元。截至2026年10月15日，公司銀行賬戶累計被凍結資金5948.94萬元，佔2025年經審計淨資產的2.60%、經審計貨幣資金餘額的38.12%；截至2026年9月22日，公司及子公司已到期未清償債務逾期金額合計5.67億元，佔2025年經審計總資產的6.88%。公司同時存在財務類、重大違法類、交易類多項退市風險，敬請投資者注意投資風險。"
+    },
+    {
+      "id": "5147457",
+      "time": "2026-10-15 17:48:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新潔能：功率半導體正迎來新一輪量價齊升的景氣週期】10月15日，在半年度業績會上，新潔能表示，功率半導體行業正經歷一場由“AI算力+新能源”雙輪驅動的深刻變革，迎來新一輪量價齊升的景氣週期，庫存結構持續最佳化，進入高質量發展的復甦新階段。"
+    },
+    {
+      "id": "5147456",
+      "time": "2026-10-15 17:48:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度鐵路金融公司第二季度淨利潤196億盧比，營收787億盧比。"
+    },
+    {
+      "id": "5147455",
+      "time": "2026-10-15 17:47:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天士力：江蘇帝益獲得注射用雷替曲塞藥品註冊證書】天士力公告，近日，全資子公司江蘇天士力帝益藥業有限公司收到國家藥品監督管理局核准簽發的注射用雷替曲塞《藥品註冊證書》，規格為2mg，視同透過仿製藥一致性評價。目前江蘇帝益已著手進行生產前的準備工作。"
+    },
+    {
+      "id": "5147454",
+      "time": "2026-10-15 17:47:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙能源部官員：西班牙將於10月從戰略儲備中釋放440萬桶石油。"
+    },
+    {
+      "id": "5147453",
+      "time": "2026-10-15 17:46:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙能電力：2026年前三季度發電量同比降1.34%】浙能電力公告稱，2026年前三季度公司全資及控股發電企業按合併報表口徑完成發電量1334.26億千瓦時，上網電量1264.16億千瓦時，同比分別減少1.34%和1.35%。發電量下滑主要受天氣原因導致省內用電需求增速放緩等因素影響。"
+    },
     {
       "id": "mkt:01a13ef5-1ede-7ee0-a89b-7f34fc9caccb",
       "time": "2026-10-15 17:46:53",
