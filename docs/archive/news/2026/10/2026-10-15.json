@@ -1,7 +1,85 @@
 {
   "date": "2026-10-15",
-  "count": 726,
+  "count": 734,
   "items": [
+    {
+      "id": "te:markets:592095",
+      "time": "2026-10-15 09:21:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Falls to Two-Week Low — The Australian dollar fell below $0.70, hitting a two-week low after higher unemployment and unexpected job cuts in September prompted traders to scale back bets on further rate hikes. The jobless rate came in at 4.7%, above the 4.6% forecast, while the previous month's reading was revised up from an initial 4.6%. The economy also shed 39,300 jobs, compared with expectations for a 20,000 gain, although full-time employment climbed by 34,400. The figures suggested the labor market may be loosening after the Reserve Bank of Australia raised its cash rate by 1 percentage point to 4.60% this year to rein in inflation, marking one of the most aggressive tightening cycles among developed economies. Markets now see less than a 20% chance of a November hike, down from 35% earlier in the day, while the odds of a December move fell to 40% from 60%. Rate markets have also pushed back expectations for further tightening, with May 2027 carrying the highest implied probability of a hike at 80%."
+    },
+    {
+      "id": "5146073",
+      "time": "2026-10-15 09:21:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "傳音控股開盤報34.96港元, IPO價35.50港元。"
+    },
+    {
+      "id": "mkt:01a13d24-accd-7ee0-a889-9175df13598f",
+      "time": "2026-10-15 09:19:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 is down 4.00% intraday at 65,029.47."
+    },
+    {
+      "id": "5146070",
+      "time": "2026-10-15 09:19:20",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日經225指數跌4%，晶片相關股票暴跌。"
+    },
+    {
+      "id": "5146069",
+      "time": "2026-10-15 09:18:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰達科技：對304材質產品進行價格下調】 山東騰達緊固科技股份有限公司（簡稱“騰達科技”）10月15日釋出調價函，根據當前原材料及市場行情，公司決定於10月15日對304材質產品進行價格下調，線上騰達優購系統同步執行。"
+    },
+    {
+      "id": "5146068",
+      "time": "2026-10-15 09:18:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報709.10元。"
+    },
+    {
+      "id": "mkt:01a13d23-6e49-7ee0-a889-8f41e76016fb",
+      "time": "2026-10-15 09:18:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Tengda Technology cuts prices on 304 stainless-steel products】Shandong Tengda Fastening Technology Co., Ltd (Tengda Technology) said on Oct 15 it will lower prices for 304 stainless-steel products effective the same day, citing current raw-material and market conditions; new prices will be implemented via the company's Tengda Yougou online procurement system."
+    },
+    {
+      "id": "5146067",
+      "time": "2026-10-15 09:17:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元走弱0.5%，至32.234。"
+    },
     {
       "id": "5146066",
       "time": "2026-10-15 09:16:57",
