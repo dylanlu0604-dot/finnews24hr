@@ -1,7 +1,67 @@
 {
-  "updated": "2026-10-15 09:10:19",
-  "count": 12006,
+  "updated": "2026-10-15 09:14:07",
+  "count": 11993,
   "items": [
+    {
+      "id": "5146048",
+      "time": "2026-10-15 09:13:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果智慧有望12月登陸中國】 彭博社Mark Gurman報道，蘋果計劃12月透過iOS 27.3在中國大陸首次推出Apple Intelligence。首批功能包括Genmoji自定義表情、通知摘要、寫作工具和照片Clean Up。國內版將接入阿里通義千問和通義萬相AI模型，蘋果已於9月底獲監管許可。新版Siri和圖樂園暫不包含在內。（IT之家）"
+    },
+    {
+      "id": "5146040",
+      "time": "2026-10-15 09:11:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本愛德萬測試股價下跌10%，創7個月來最大跌幅。"
+    },
+    {
+      "id": "mkt:01a13d1c-b186-7ee0-a889-6e412c9e3d38",
+      "time": "2026-10-15 09:10:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DeepSeek partial outage】Oct 15 after 08:00 Beijing time DeepSeek's website and app displayed \"Server temporarily unavailable\". DeepSeek said its dialogue service and DeepSeek V4.1 FlashAPI were partly disrupted and web/API performance degraded; the company is investigating and locating the cause."
+    },
+    {
+      "id": "5146035",
+      "time": "2026-10-15 09:10:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【飛天茅臺零售均價上漲3元 青花郎二連陽逼近前高 古井貢古20重跌10元】新浪財經“酒價內參”過去24小時收集的資料顯示，10月15日中國白酒業12大單品的終端零售均價四漲七跌一平，下跌品種的數量明顯佔優，且累計跌幅超過上漲端，整體價盤在昨日大幅回升後再度回落。上漲端，飛天茅臺上漲3元至1797元，自近期低點明顯反彈，逼近1800元關口；五糧液普五八代上漲1元至802元，昨日橫盤後小幅抬升，繼續據守800元關口之上；習酒君品上漲1元至644元，連續三日上行，平近30天最高價紀錄；青花郎上漲3元至698元，二連陽累計上漲8元，距前期699元高點僅一元之遙。下跌端，精品茅臺下跌3元至2465元，昨日回升後再度轉跌，延續近期窄幅拉鋸行情；五糧液1618下跌1元至829元，繼續在829至830元的狹窄區間內波動；青花汾20下跌4元至393元，二連跌加速回落，觸及400元大關後阻力大增；國窖1573下跌3元至887元，五連陽暫告收尾，但仍處在近期最高位附近；洋河夢之藍M6+下跌4元至607元，短線反彈告一段落，價盤重新承壓身陷低谷；古井貢古20重跌10元至530元，近期漲跌交錯特徵明顯，但今日賣壓明顯擴大；水晶劍南春下跌2元至409元，昨日反彈未能延續，價盤走勢重新轉弱。持平方面，茅臺1935維持684元不變，昨日小幅回升後進入平盤修整。\n\n今日12大單品的終端零售總價重現回落，七款產品價格下跌，下跌端量能對整體價盤形成較大拖累。如果12大單品各取一瓶整體打包售賣，今日總售價為10745元，較昨日明顯下跌19元。"
+    },
+    {
+      "id": "5146034",
+      "time": "2026-10-15 09:10:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報3241.00元。"
+    },
+    {
+      "id": "5146032",
+      "time": "2026-10-15 09:10:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek崩了】10月15日，北京時間早上8點後，DeepSeek網頁和APP顯示“伺服器暫時不可用”。 DeepSeek官方資訊顯示對話服務部分中斷、DeepSeekV4.1 FlashAPI服務部分中斷，網頁/API效能下降，官方正在排查問題、定位原因。（第一財經）"
+    },
+    {
+      "id": "mkt:01a13d1c-1abe-7ee0-a889-62df9ddfa2a2",
+      "time": "2026-10-15 09:10:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 20-year government bond yield fell 5 bps to 3.815%."
+    },
     {
       "id": "mkt:01a13d1b-51c4-7ee0-a889-59cd639f945b",
       "time": "2026-10-15 09:09:22",
@@ -109367,191 +109427,6 @@
         "公司"
       ],
       "text": "【 國際復材：目前公司不涉及電子布材料回收業務 】 國際復材在互動平臺表示，公司始終聚焦玻纖主業，堅持高階化、差異化產品策略，產品結構覆蓋中高階玻纖及製品，在電子布等高階產品領域持續佈局。目前公司不涉及電子布材料回收業務。"
-    },
-    {
-      "id": "5130974",
-      "time": "2026-10-08 09:13:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五菱星光L銷量超2萬臺】10月8日，上汽通用五菱汽車宣佈，星光L上市80天銷量超20000臺。"
-    },
-    {
-      "id": "5130973",
-      "time": "2026-10-08 09:13:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 來西亞在與挪威的導彈採購計劃告吹後，正考慮從韓國、法國和土耳其採購新型導彈。"
-    },
-    {
-      "id": "5130972",
-      "time": "2026-10-08 09:13:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲7%，現報3141.00元。"
-    },
-    {
-      "id": "5130971",
-      "time": "2026-10-08 09:13:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲7%，現報5566.00元。"
-    },
-    {
-      "id": "5130970",
-      "time": "2026-10-08 09:13:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內漲6%，現報9089.00元。"
-    },
-    {
-      "id": "5130969",
-      "time": "2026-10-08 09:12:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丙烯連續主力合約日內漲6%，現報9744.00元。"
-    },
-    {
-      "id": "5130968",
-      "time": "2026-10-08 09:12:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中糧科工：公司目前暫未涉及液冷相關業務 】 有投資者向中糧科工（301058.SZ）提問，公司收購北京華商億源。請問該標的在液冷方面有業務嗎。中糧科工收購該標的是否準備向液冷領域佈局。希望能真實回答不要敷衍。不要打太極式的回覆。10月8日，公司回答表示，公司目前暫未涉及液冷相關業務。本次收購華商億源，旨在整合\"諮詢設計—機電交付—裝備製造\"的全產業鏈佈局，進一步強化業務協同與客戶服務能力。公司將持續關注相關行業需求，探索不同應用場景。"
-    },
-    {
-      "id": "5130967",
-      "time": "2026-10-08 09:12:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲5%，現報5346.00元。"
-    },
-    {
-      "id": "mkt:01a11911-b183-7ee0-a7e4-9979e5e718b4",
-      "time": "2026-10-08 09:12:32",
-      "tags": [
-        "MKT News",
-        "601318.SS",
-        "Impact bullish",
-        "601628.SS",
-        "CSI300"
-      ],
-      "text": "【National Health Commission, China State Planner issue plan to expand medical rehabilitation and nursing, push insurance coverage and payment reform】China’s National Health Commission and China State Planner issued an Implementation Plan for Expanding and Enhancing Medical Rehabilitation and Nursing. The plan mandates improving multi-source payment systems and, through normal procedures, bringing rehabilitation and nursing services with proven efficacy and urgent public need into basic medical insurance coverage. It directs medical insurance payment reform: adopt disease-based (per-case) payments for short-stay inpatients receiving rehabilitation and nursing and pilot per-diem (bed-day) payments for long-stay inpatients. The plan also calls for refining special-case single-negotiation and other supporting mechanisms, and encourages commercial insurers to develop rehabilitation/nursing products coordinated with basic medical insurance, long-term care insurance and work-injury insurance."
-    },
-    {
-      "id": "5130966",
-      "time": "2026-10-08 09:12:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲6%，現報10399.00元。"
-    },
-    {
-      "id": "mkt:01a11910-cc17-7ee0-a7e4-9009fdb44db8",
-      "time": "2026-10-08 09:11:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Methanol front-month contract jumped 8.00% intraday to 3,592 yuan/ton."
-    },
-    {
-      "id": "5130965",
-      "time": "2026-10-08 09:11:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：發展“人工智慧+康復護理”服務】國家衛生健康委、國家發展改革委印發《醫療康復護理擴容提升工程實施方案》。其中提到，強化數智賦能康復護理。依託區域全民健康資訊平臺，推動醫療衛生機構康復護理等資訊互通共享，促進從功能評估、計劃制定、康復訓練到效果隨訪的康復護理全過程數智化應用。發展“人工智慧+康復護理”服務，運用康復機器人、智慧可穿戴裝置等，實現多維資料監測，提供智慧康復訓練和健康管理服務。"
-    },
-    {
-      "id": "5130964",
-      "time": "2026-10-08 09:11:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲6%，現報3112.00元。"
-    },
-    {
-      "id": "mkt:01a11910-afda-7ee0-a7e4-8dda171b613f",
-      "time": "2026-10-08 09:11:26",
-      "tags": [
-        "MKT News",
-        "9984.T"
-      ],
-      "text": "Kyodo: SoftBank Group unit IDC Frontier said a ransomware attack disrupted some cloud services for enterprise customers."
-    },
-    {
-      "id": "5130963",
-      "time": "2026-10-08 09:11:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲4%，現報5380.00元。"
-    },
-    {
-      "id": "5130962",
-      "time": "2026-10-08 09:10:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純苯連續主力合約日內漲6%，現報9196.00元。"
-    },
-    {
-      "id": "5130961",
-      "time": "2026-10-08 09:10:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "對二甲苯連續主力合約日內漲5%，現報9656.00元。"
-    },
-    {
-      "id": "mkt:01a11910-15b2-7ee0-a7e4-83aadceda2ff",
-      "time": "2026-10-08 09:10:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【National Health Commission and CHINA STATE PLANNER accelerate deployment of brain–computer interfaces, embodied intelligence and bionic‑drive tech in medical rehabilitation】China’s National Health Commission and CHINA STATE PLANNER issued an implementation plan to expand medical rehabilitation and nursing capacity, prioritizing R&D and application of frontier technologies in neurorehabilitation, motor rehabilitation and wound repair. They encourage industry leaders, universities, research institutes and hospitals to form industry‑university‑research‑use consortia to speed commercialization and back R&D on brain–computer interfaces (BCIs), embodied intelligence, bionic drive, smart rehab devices, implantable/interventional devices and new biomaterials. The plan calls for development of TCM‑integrated intelligent rehab nursing products and for qualifying innovative rehab devices and drugs to be entered into priority review/approval channels according to procedure. Top hospitals are urged to pilot and document BCI and related product use and to scale innovations across hospitals, community and home care settings."
-    },
-    {
-      "id": "5130960",
-      "time": "2026-10-08 09:10:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧將於週四中午12點（當地時間）會見葡萄牙總理。"
-    },
-    {
-      "id": "5130959",
-      "time": "2026-10-08 09:10:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內漲5%，現報9003.00元。"
     }
   ]
 }
