@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-16 03:21:43",
-  "count": 12358,
+  "updated": "2026-10-16 03:25:34",
+  "count": 12356,
   "items": [
+    {
+      "id": "5148357",
+      "time": "2026-10-16 03:24:36",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：短期我們對鋁價維持中性看法，投資者正逐步忽略當前現貨供應緊張局面，轉而關注 2027 年可能出現的供應過剩。"
+    },
+    {
+      "id": "mkt:01a14104-b74e-7ee0-a8a7-16ba015dca30",
+      "time": "2026-10-16 03:23:10",
+      "tags": [
+        "MKT News",
+        "KO.N",
+        "Impact bullish",
+        "PEP.O",
+        "Impact bearish"
+      ],
+      "text": "【KFC U.S. to replace Pepsi with Coca-Cola】Wall Street Journal reports KFC in the U.S. will stop serving PepsiCo (PEP.O) cola at thousands of restaurants and switch to The Coca‑Cola Company (KO.N)."
+    },
+    {
+      "id": "mkt:01a14103-5e9b-7ee0-a8a7-0e52ff78f862",
+      "time": "2026-10-16 03:21:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian media Fars News reports multiple explosions in Jeddah, Saudi Arabia."
+    },
+    {
+      "id": "5148354",
+      "time": "2026-10-16 03:21:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "百事可樂跌幅擴大至1.4%。"
+    },
     {
       "id": "5148352",
       "time": "2026-10-16 03:21:05",
@@ -112752,58 +112792,6 @@
         "市場"
       ],
       "text": "週四（10月8日）紐約尾盤，彭博穀物分類指數跌0.51%，報33.0666點。CBOT玉米期貨跌0.45%，CBOT小麥期貨跌0.42%，CBOT大豆期貨跌0.81%。"
-    },
-    {
-      "id": "mkt:01a11cfa-489d-7ee0-a804-b2c60c8529cd",
-      "time": "2026-10-09 03:25:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's Finance Minister Durigan said the tax-reform design Bolsonaro wants to change is reasonable and would be a significant source of productivity gains."
-    },
-    {
-      "id": "mkt:01a11cf8-e424-7ee0-a804-ad3cf9eb18f6",
-      "time": "2026-10-09 03:23:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazil's finance minister Durigan said markets harbour cheap, hollow illusions about the potential impact of a Bolsonaro government."
-    },
-    {
-      "id": "5133126",
-      "time": "2026-10-09 03:23:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "杜裡甘：弗拉維奧·博索納羅希望修改的稅制改革方案設計良好，是顯著生產率提升的來源之一。"
-    },
-    {
-      "id": "mkt:01a11cf8-47fd-7ee0-a804-a2dfd5420d0d",
-      "time": "2026-10-09 03:23:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil finance minister Durigan said he proposes maintaining continuity while possibly changing the pace of action."
-    },
-    {
-      "id": "mkt:01a11cf8-113b-7ee0-a804-9da73ca166ff",
-      "time": "2026-10-09 03:23:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance minister Du Ligang said the country's accounts have been in balance since 2024, but the overall process is not yet complete."
-    },
-    {
-      "id": "mkt:01a11cf8-0292-7ee0-a804-911688ce0c56",
-      "time": "2026-10-09 03:22:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazil Finance Minister Durigan said Bolsonaro's proposal would destroy the economic system by implementing abrupt, drastic adjustments."
     }
   ]
 }

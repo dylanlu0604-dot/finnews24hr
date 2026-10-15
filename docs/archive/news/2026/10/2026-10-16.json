@@ -1,7 +1,47 @@
 {
   "date": "2026-10-16",
-  "count": 267,
+  "count": 271,
   "items": [
+    {
+      "id": "5148357",
+      "time": "2026-10-16 03:24:36",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：短期我們對鋁價維持中性看法，投資者正逐步忽略當前現貨供應緊張局面，轉而關注 2027 年可能出現的供應過剩。"
+    },
+    {
+      "id": "mkt:01a14104-b74e-7ee0-a8a7-16ba015dca30",
+      "time": "2026-10-16 03:23:10",
+      "tags": [
+        "MKT News",
+        "KO.N",
+        "Impact bullish",
+        "PEP.O",
+        "Impact bearish"
+      ],
+      "text": "【KFC U.S. to replace Pepsi with Coca-Cola】Wall Street Journal reports KFC in the U.S. will stop serving PepsiCo (PEP.O) cola at thousands of restaurants and switch to The Coca‑Cola Company (KO.N)."
+    },
+    {
+      "id": "mkt:01a14103-5e9b-7ee0-a8a7-0e52ff78f862",
+      "time": "2026-10-16 03:21:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian media Fars News reports multiple explosions in Jeddah, Saudi Arabia."
+    },
+    {
+      "id": "5148354",
+      "time": "2026-10-16 03:21:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "百事可樂跌幅擴大至1.4%。"
+    },
     {
       "id": "5148352",
       "time": "2026-10-16 03:21:05",
