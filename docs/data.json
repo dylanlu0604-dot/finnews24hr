@@ -1,7 +1,75 @@
 {
-  "updated": "2026-10-15 13:18:46",
-  "count": 12216,
+  "updated": "2026-10-15 13:22:39",
+  "count": 12222,
   "items": [
+    {
+      "id": "mkt:01a13e02-a9f1-7ee0-a890-a21d1e88f17c",
+      "time": "2026-10-15 13:22:04",
+      "tags": [
+        "MKT News",
+        "02513.HK",
+        "Impact bearish",
+        "00100.HK"
+      ],
+      "text": "Hong Kong large-model AI stocks fell, with Zhipu (02513.HK) and MINIMAX-W (00100.HK) both down more than 10%."
+    },
+    {
+      "id": "5146735",
+      "time": "2026-10-15 13:21:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌3.01%，現報11745.695點；上證指數跌2.12%，現報3687.409點；創業板指跌3.72%，現報2760.240點。"
+    },
+    {
+      "id": "mkt:01a13e01-780e-7ee0-a890-9a0d6836db6a",
+      "time": "2026-10-15 13:20:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 closed down 9.20 points, or 0.11%, at 8,718.70 on Thursday, Oct. 15."
+    },
+    {
+      "id": "5146734",
+      "time": "2026-10-15 13:20:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼森林大火引發霧霾，新加坡空氣清淨機熱銷】鄰國印尼爆發森林大火，濃重煙霾籠罩新加坡，帶動空氣清淨機與口罩需求激增。小米、戴森等品牌多款空氣清淨機在官網售罄。家電零售商 Gain City 市場總監Candy Cao稱，自 8 月霧霾季開始以來，店內空氣清淨機銷量飆升至往常約 9 倍。Cao表示：“週末需求尤其旺盛，部分熱門型號斷貨，部分顧客直接選購展示樣機，以求當場提貨。” 她補充，零售商將持續補貨以滿足市場需求。這場十餘年最嚴重的煙霾令新加坡空氣質量惡化，當地居民大量囤積 N95 口罩。多家線上藥房商品頁面顯示，一次性口罩已經售罄或標註 “即將到貨”。"
+    },
+    {
+      "id": "mkt:01a13e00-9bef-7ee0-a890-953e952d5f94",
+      "time": "2026-10-15 13:19:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0700.HK",
+        "0020.HK"
+      ],
+      "text": "【Houmo Intelligence, Tencent Hunyuan, SenseTime launch 'Co-create the Future' edge AI initiative】Houmo Intelligence, together with Tencent Hunyuan, SenseTime, Mianbi Intelligence, Kylin Software, UnionTech and OpenHarmony, launched the 'Co-create the Future' initiative to develop a new class of agent-computer edge AI and has begun jointly drafting an industry practice white paper."
+    },
+    {
+      "id": "mkt:01a13e00-0767-7ee0-a890-8fccbfa14c4d",
+      "time": "2026-10-15 13:19:11",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【CSRC to refine market-stability mechanisms, further improve futures/options product mix】CSRC deputy director of futures regulation Zhang Yue said on Oct. 15 at the 2026 Shanghai Derivatives Market Forum that Chinese regulators will refine market-stability mechanisms and further improve the futures and options product mix, including cultivating foundational strategic contracts. Regulators will broaden room for industrial firms and long-term funds to use futures for risk management, promote spot–futures linkage and on‑exchange/off‑exchange coordination, and steadily widen opening of selected contracts. They will deepen overseas authorization of settlement prices and cross‑border delivery cooperation, strengthen full‑chain risk controls and cross‑agency supervision, and intensify crackdowns on illegal activity to protect investors’ legal rights."
+    },
+    {
+      "id": "5146733",
+      "time": "2026-10-15 13:19:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【後摩智慧聯合騰訊混元、商湯科技等發起端側智慧新物種共創未來計劃】10月14日，端邊AI晶片公司後摩智慧聯合騰訊混元、商湯科技、面壁智慧、麒麟軟體、統信軟體、開源鴻蒙等多家產業鏈企業，共同發起Agent Computer端側智慧新物種“共創未來”計劃，同時啟動產業實踐白皮書的聯合編撰工作。"
+    },
     {
       "id": "5146732",
       "time": "2026-10-15 13:18:09",
@@ -111381,18 +111449,6 @@
         "焦點"
       ],
       "text": "瀝青連續主力合約日內漲8%，現報5506.00元。"
-    },
-    {
-      "id": "te:economy:590392",
-      "time": "2026-10-08 13:19:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Finnish Industrial Output Growth Slows in August — Industrial production in Finland rose by 0.8% year-on-year in August 2026, slowing from a slightly upwardly revised 4.6% gain in the previous month. This marked the softest growth in industrial activity since May, driven by a sharp 15.8% decline (vs -12.8% in July) in mining production. Output growth also softened in the manufacturing sector (0.3% vs 5.4%) as lower activity in printing and reproduction of recorded media (-13.2% vs -8.6%), chemical industry (-9.0% vs 0.8%), and manufacture of furniture (-17.5% vs -16.6%) outweighed increased output in the food industry (3.6% vs -1.2%) and textile, clothing and leather industry (2.3% vs -2.5%). On the other hand, production increased at a faster pace for electricity, gas, steam and air conditioning supply (7.5% vs 3.1%). On a seasonally adjusted monthly basis, industrial activity decreased by 1.3% in August, slipping further from a 1.1% loss in the preceding period."
     }
   ]
 }
