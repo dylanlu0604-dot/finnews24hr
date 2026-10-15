@@ -1,7 +1,97 @@
 {
-  "updated": "2026-10-15 09:25:23",
+  "updated": "2026-10-15 09:29:08",
   "count": 11984,
   "items": [
+    {
+      "id": "te:markets:592096",
+      "time": "2026-10-15 09:28:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "SSE Commodity Index Hits 4-week Low — SSE Commodity Index decreased to 6727.00 Index Points, the lowest since September 2026. Over the past 4 weeks, SSE Consume Commodity Index lost 0.1%, and in the last 12 months, it decreased 20.85%."
+    },
+    {
+      "id": "5146085",
+      "time": "2026-10-15 09:27:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拓邦股份戰略投資尤拉永珍 探索具身智慧產業新機遇】據拓邦股份訊息，近日，深圳尤拉永珍科技有限公司（簡稱“尤拉永珍”）宣佈完成數億元天使+輪融資。本輪融資由誠元祥基金、芯能創投、錫洲國際、拓邦股份、弘毅投資等新老股東聯合投資。除獲得老股東超額追投外，拓邦股份等產業資本亦成為公司新晉股東，雙方將圍繞業務協同，探索進一步合作可能。尤拉永珍成立於2026年3月，聚焦具身智慧領域。"
+    },
+    {
+      "id": "5146084",
+      "time": "2026-10-15 09:26:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.6%至32.266。"
+    },
+    {
+      "id": "mkt:01a13d2a-c07e-7ee0-a889-cceb4127eaf6",
+      "time": "2026-10-15 09:26:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Newly listed N Lianya jumped 285.71% on debut. Public filings show the company develops, manufactures and sells complex drug formulations—including various controlled/extended‑release products and low‑dose high‑end generics—used in hypertension, coronary heart disease, diabetes, schizophrenia, contraception and health products."
+    },
+    {
+      "id": "5146083",
+      "time": "2026-10-15 09:26:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數自9月29日以來首次跌破65000.00點。"
+    },
+    {
+      "id": "5146082",
+      "time": "2026-10-15 09:26:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股三大股指開盤齊跌，上證指數跌1.50%，深證成指跌2.40%，創業板指跌3.13%。"
+    },
+    {
+      "id": "mkt:01a13d2a-2fbf-7ee0-a889-c5c27780c071",
+      "time": "2026-10-15 09:25:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shares of newly listed N Mosen jumped 70.87% at the open. Public filings show the company focuses on R&D and smart manufacturing of intelligent opening-and-closing systems for vehicles."
+    },
+    {
+      "id": "mkt:01a13d2a-21f6-7ee0-a889-bdee127a6982",
+      "time": "2026-10-15 09:25:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's A-share market opened lower: Shanghai Composite down 1.50%, Shenzhen Composite Index down 2.40%, ChiNext Index down 3.13%. Banks and insurers were active; components sector pulled back."
+    },
+    {
+      "id": "mkt:01a13d29-bc98-7ee0-a889-b3315bd84d2e",
+      "time": "2026-10-15 09:25:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【He Lifeng meets Bridgewater founder Ray Dalio】He Lifeng, Politburo member and director of the Office of the Central Financial and Economic Affairs Commission, met Bridgewater Associates founder Ray Dalio in Beijing on the 14th. He said this year is the opening year of the 15th Five-Year Plan, China’s economy is continuing to shift toward higher-quality growth, and Xi’s US visit was a complete success with significant implications for bilateral ties. Under the leaders’ strategic consensus, Sino‑US economic and trade consultations have produced a series of mutually beneficial, balanced outcomes that support stability and growth for both economies and the global economy. Dalio said he is positive on China’s economic outlook and is willing to help promote US‑China economic and trade cooperation."
+    },
     {
       "id": "5146081",
       "time": "2026-10-15 09:24:22",
@@ -36,6 +126,15 @@
         "市場"
       ],
       "text": "【港股算力硬體股大幅低開，壁仞科技、瀾起科技跌超10%】 港股算力硬體股大幅低開，壁仞科技、瀾起科技跌超10%，天數智芯、劍橋科技、建滔積層板跌超8%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610153896340012",
+      "time": "2026-10-15 09:22:49",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展450億元7天逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "5146077",
@@ -109260,103 +109359,6 @@
         "Greater China"
       ],
       "text": "【China delegation completes ITU‑R SG6 meeting in Geneva】China completed participation in the ITU‑R Study Group 6 (SG6) and WP6A/B/C meetings in Geneva from Sep 21 to Oct 2, 2026, the sixth session in the WRC‑27 study cycle. A hybrid delegation of 24 representatives from eight government departments, research institutes, universities and companies had three papers on mobile broadcasting and media processing adopted; revisions progressed on three reports covering broadcast TV testing and audiovisual applications; and two information papers on emergency broadcast technologies and AI‑generated video evaluation were presented."
-    },
-    {
-      "id": "5131009",
-      "time": "2026-10-08 09:28:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【2只巴西ETF漲停】巴西ETF易方達（520870）、巴西ETF華夏（159100）漲停。"
-    },
-    {
-      "id": "mkt:01a1191f-e9d2-7ee0-a7e4-fb4021149194",
-      "time": "2026-10-08 09:28:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【PBOC to conduct CNY1.2 tln outright reverse repo operation】To keep banking-system liquidity ample, today (8th) the PBOC will conduct CNY1.2 tln outright reverse repos via fixed-quantity, rate-based bidding with multi-price allotment; tenor 3 months (89 days)."
-    },
-    {
-      "id": "5131008",
-      "time": "2026-10-08 09:28:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "醫藥醫療股開盤領漲，海特生物、貝瑞基因、魯抗醫藥、華北製藥、潤都股份競價漲停，聯環藥業、向日葵等漲超5%。"
-    },
-    {
-      "id": "5131007",
-      "time": "2026-10-08 09:27:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF開盤：巴西ETF領漲10.02%，標普生物科技ETF跌3.79%】ETF開盤漲跌不一，巴西ETF（520870）領漲10.02%，巴西ETF（159100）漲9.96%，能源化工ETF（159981）漲5.70%，現金流ETF（159225）領跌4.52%，標普生物科技ETF（159502）跌3.79%，科創成長ETF（588070）跌3.22%。"
-    },
-    {
-      "id": "5131006",
-      "time": "2026-10-08 09:27:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "【疫苗股大幅高開，蔚藍生物2連板】疫苗股大幅高開，蔚藍生物2連板，達安基因漲停，聯環藥業、之江生物、東方生物多股高開。"
-    },
-    {
-      "id": "5131005",
-      "time": "2026-10-08 09:27:37",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【中國代表團完成國際電信聯盟無線電通訊部門第六研究組會議參會任務】據工信部官網，2026年9月21日至10月2日，國際電信聯盟無線電通訊部門第六研究組（SG6）及其下設WP6A、WP6B和WP6C工作組會議在瑞士日內瓦召開。本次會議是2027年世界無線電通訊大會研究週期SG6及其下設工作組的第六次會議。SG6及其下設工作組主要研究廣播電視相關事宜，包括向公眾提供的視聽、多媒體和資料業務。本次會議重點圍繞多媒體移動廣播、廣播核心網、內容來源追溯、隱私保護機制、六自由度空間音訊、超高畫質和高動態範圍（HDR）電視等技術內容展開深入討論，審議透過了多篇建議書和報告的制修訂。我國提交的3篇移動廣播與媒體處理方面文稿被會議採納，參與的3項廣播電視測試與視聽應用方面報告的制修訂取得新進展。此外，會議還介紹了我國提交的關於應急廣播技術與人工智慧生成影片評價方面的2篇資訊文稿。來自國務院相關部門，研究機構、高校、企業等8家單位的24名代表，以線上線下相結合的方式參會。"
-    },
-    {
-      "id": "mkt:01a1191f-313a-7ee0-a7e4-f447b682a0fd",
-      "time": "2026-10-08 09:27:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's Shanghai Composite opened down 3.22 points (-0.08%) at 3,838.98 on Oct. 8; Shenzhen Component opened up 8.83 points (+0.07%) at 12,896.45; CSI 300 Index opened down 2.69 points (-0.06%) at 4,354.93; ChiNext Index opened up 5.19 points (+0.17%) at 3,140.46; STAR 50 Index opened down 17.22 points (-1.13%) at 1,512.79."
-    },
-    {
-      "id": "5131004",
-      "time": "2026-10-08 09:26:30",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行將開展12000億元買斷式逆回購操作】為保持銀行體系流動性充裕，今天（8日），中國人民銀行將以固定數量、利率招標、多重價位中標方式開展12000億元買斷式逆回購操作，期限為3個月，共89天。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1191e-219c-7ee0-a7e4-eeef2ef8ee9f",
-      "time": "2026-10-08 09:26:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "China A-share market opened: Shanghai Composite down 0.08%, Shenzhen Composite Index up 0.07%, ChiNext Index up 0.17%."
-    },
-    {
-      "id": "5131003",
-      "time": "2026-10-08 09:25:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股三大股指開盤漲跌不一，上證指數跌0.08%，深證成指漲0.07%，創業板指漲0.17%。"
     }
   ]
 }
