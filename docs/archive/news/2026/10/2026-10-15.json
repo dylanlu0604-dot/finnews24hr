@@ -1,7 +1,131 @@
 {
   "date": "2026-10-15",
-  "count": 1739,
+  "count": 1753,
   "items": [
+    {
+      "id": "5147492",
+      "time": "2026-10-15 18:01:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "泰國SET指數收盤下跌0.2%，報1573.01點。"
+    },
+    {
+      "id": "5147491",
+      "time": "2026-10-15 18:01:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "STA Jets同意收購International Jet。"
+    },
+    {
+      "id": "mkt:01a13f02-562a-7ee0-a89b-daae789d56cf",
+      "time": "2026-10-15 18:01:19",
+      "tags": [
+        "MKT News",
+        "MA.O",
+        "Impact bullish"
+      ],
+      "text": "Mastercard to expand coverage to more than 40 currencies across over 200 countries by 2027."
+    },
+    {
+      "id": "5147490",
+      "time": "2026-10-15 18:01:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比兌美元上漲0.1%，至95.0475，截至印度標準時間下午3:30，前一交易日收於95.15。"
+    },
+    {
+      "id": "mkt:01a13f02-10f8-7ee0-a89b-d6124a3fec12",
+      "time": "2026-10-15 18:01:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's finance ministry said the finance ministers of South Korea and Japan agreed to hold their next meeting in South Korea in the near future."
+    },
+    {
+      "id": "5147489",
+      "time": "2026-10-15 18:00:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部：韓國和日本達成協議，將100億美元的貨幣互換安排延長三年。互換安排將持續至2029年。"
+    },
+    {
+      "id": "mkt:01a13f01-e2f8-7ee0-a89b-ca9afc74801e",
+      "time": "2026-10-15 18:00:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance ministry said Seoul and Tokyo agreed to extend a USD 10 bln bilateral currency-swap arrangement by three years, keeping the facility in place through 2029."
+    },
+    {
+      "id": "5147488",
+      "time": "2026-10-15 18:00:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "EXPANA 維持 2026/27 年度歐盟軟小麥產量預測不變，為 1.261 億公噸。EXPANA將2026/27年度歐盟大麥產量預測從上個月的5160萬公噸上調至5170萬公噸。"
+    },
+    {
+      "id": "mkt:01a13f01-76b0-7ee0-a89b-c36b44097c41",
+      "time": "2026-10-15 18:00:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Rosatom said an IAEA-mediated ceasefire has been agreed to enable repairs to the thermal power plant supplying electricity to the Zaporizhzhia nuclear plant."
+    },
+    {
+      "id": "5147487",
+      "time": "2026-10-15 18:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞信銀行家在一項獎金糾紛中敗訴，瑞士最高法院作出不利裁決。"
+    },
+    {
+      "id": "5147486",
+      "time": "2026-10-15 18:00:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列9月份貿易逆差收窄至42.86億美元。"
+    },
+    {
+      "id": "5147485",
+      "time": "2026-10-15 17:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST三木：部分債務逾期 逾期擔保佔淨資產765.58%】ST三木公告稱，公司及控股子公司福州輕工、華信實業等近期出現多筆債務逾期，涉及渤海銀行福州分行、海峽銀行、進出口銀行、集友銀行、廈門國際銀行等機構。截至2026年10月15日，公司及控股子公司對外擔保餘額合計43.23億元，佔最近一期經審計淨資產的3583.11%；其中逾期擔保金額（本金及利息）為9.24億元，佔最近一期經審計淨資產的765.58%。上述逾期事項可能導致公司承擔違約金、罰息等，加劇現金流緊張，影響融資能力，公司正與債權人協商解決方案。"
+    },
+    {
+      "id": "mkt:01a13f00-678c-7ee0-a89b-b90149e94b26",
+      "time": "2026-10-15 17:59:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say the EU and the Gulf Cooperation Council agreed to postpone the summit scheduled for Oct. 24 in Saudi Arabia."
+    },
+    {
+      "id": "5147484",
+      "time": "2026-10-15 17:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問AI耳夾式耳機接入千問App，支援語音問答與任務交辦】千問AI耳夾式耳機宣佈支援連線千問App。使用者點選App內“千問耳機”入口完成繫結後，即可透過耳機語音問答；進入App工作助理後，還可語音交辦資料研究等任務，由AI後臺執行，完成後主動提醒。這款AI原生耳夾式耳機由千問與Bose共同推出，已於10月13日開售，疊加國補及限時優惠後，到手價1099元起。（新浪科技）"
+    },
     {
       "id": "mkt:01a13eff-716c-7ee0-a89b-b537d839b343",
       "time": "2026-10-15 17:58:10",
