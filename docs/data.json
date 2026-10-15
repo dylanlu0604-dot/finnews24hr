@@ -1,7 +1,78 @@
 {
-  "updated": "2026-10-15 12:55:44",
-  "count": 12168,
+  "updated": "2026-10-15 12:59:36",
+  "count": 12175,
   "items": [
+    {
+      "id": "5146696",
+      "time": "2026-10-15 12:58:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "德國財長克林貝爾：美國曾試圖讓俄羅斯重返二十國集團舞臺。"
+    },
+    {
+      "id": "mkt:01a13dec-632a-7ee0-a890-2fc4ced09a40",
+      "time": "2026-10-15 12:57:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【IMF: Fiscal buffers and alternative oil export routes help shield Saudi Arabia from Iran war shock】The IMF said Saudi Arabia's fiscal buffers and spare oil-export infrastructure are helping the kingdom absorb shocks from the Iran war. Despite an escalation this month, including deadly Houthi strikes on major Saudi airports, IMF Middle East and Central Asia director Jihad Azour said at the IMF annual meetings in Bangkok that Saudi is better positioned than other Gulf states to withstand the disruption. He cited Saudi reserves and infrastructure investment that enable rapid re-routing of oil exports."
+    },
+    {
+      "id": "5146695",
+      "time": "2026-10-15 12:56:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛立信任命帕特里克·約翰遜為亞太區新市場負責人。"
+    },
+    {
+      "id": "mkt:01a13deb-75d7-7ee0-a890-2679f51c57e3",
+      "time": "2026-10-15 12:56:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's finance minister said Berlin's support for Ukraine is clear and is accompanied by explicit expectations for political reform."
+    },
+    {
+      "id": "mkt:01a13dea-fff4-7ee0-a890-19ded73cd03c",
+      "time": "2026-10-15 12:56:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An IMF official said the Fund will dispatch a delegation to Lebanon in November to continue discussions."
+    },
+    {
+      "id": "5146694",
+      "time": "2026-10-15 12:56:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "德國財政部長克林貝爾：對烏克蘭的支援立場明確，但這項支援伴隨著對政治改革的明確要求。"
+    },
+    {
+      "id": "mkt:01a13dea-e62b-7ee0-a890-164adba18f74",
+      "time": "2026-10-15 12:56:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF officials said they held constructive discussions with Lebanese authorities in Bangkok and will continue talks in the coming weeks."
+    },
+    {
+      "id": "5146693",
+      "time": "2026-10-15 12:56:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛立信將合併其在亞洲的兩個業務部門，整合到亞太市場區域。"
+    },
     {
       "id": "5146692",
       "time": "2026-10-15 12:55:11",
@@ -110975,18 +111046,6 @@
         "Importance 1"
       ],
       "text": "South Korean Won Rises to 4-Week High — The South Korean won traded around 1,337 per dollar, reaching a four-week high and approaching its strongest level since October 2024, as strong external balances boosted the currency. South Korea posted a current-account surplus of $46.1 billion in August, the second-highest on record, with the goods account alone generating a $46.81 billion surplus. September export data continued to provide a favorable external backdrop, with shipments surging 83.5% year-on-year to a record $120.9 billion and the trade surplus reaching a record $49.85 billion. Thin holiday liquidity also amplified corporate dollar selling, helping the won hold up in the mid-to-high 1,330s. Meanwhile, the US 10-year Treasury yield remained around 5.3% after recently reaching its highest level since 2002, while the dollar index stayed near its strongest level since April 2025. The latest Fed minutes also showed that most officials favored another rate increase by year-end, limiting the won’s gains."
-    },
-    {
-      "id": "te:economy:590380",
-      "time": "2026-10-08 12:59:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Personal Spending",
-        "Importance 2"
-      ],
-      "text": "Dutch Household Spending Growth Picks Up in August — Household consumption in the Netherlands increased 2.1% year-on-year in August 2026, picking up from 1.2% in July, and marking the strongest growth in three months. Spending on consumer goods rose 3.1%, led by a 5.5% jump in durable goods, with consumers buying more cars, electrical appliances, and household items. Expenditure on food, beverages and tobacco grew 2.1%, while other goods consumption edged down 0.1%, largely due to lower motor fuel purchases. Spending on services also strengthened, rising 1.4%, supported by higher outlays on transport and communication, medical services, recreation and culture, housing, and hospitality. Services account for well over half of total domestic household consumption expenditure. Meanwhile, consumption conditions became slightly less favorable in September, as manufacturers turned less optimistic about future employment and consumers became more pessimistic about unemployment."
     }
   ]
 }
