@@ -1,7 +1,91 @@
 {
-  "updated": "2026-10-15 22:46:49",
-  "count": 12359,
+  "updated": "2026-10-15 22:50:53",
+  "count": 12354,
   "items": [
+    {
+      "id": "mkt:01a1400a-91aa-7ee0-a8a2-0121a154b73d",
+      "time": "2026-10-15 22:49:56",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Handelsblatt reports the German government will invest several hundred million euros in AI projects."
+    },
+    {
+      "id": "mkt:01a1400a-64d3-7ee0-a8a1-fc81899db9ee",
+      "time": "2026-10-15 22:49:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two government officials said Yemen's prime minister and several ministers who were at the Aden presidential palace complex at the time were uninjured."
+    },
+    {
+      "id": "5148029",
+      "time": "2026-10-15 22:49:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "西南航空預計2027年秋季完成全機隊星鏈部署。"
+    },
+    {
+      "id": "5148028",
+      "time": "2026-10-15 22:48:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門拒絕了沙烏地阿拉伯在阿曼舉行會談的請求。"
+    },
+    {
+      "id": "5148027",
+      "time": "2026-10-15 22:48:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普就暫停聯邦柴油稅表示：“這是我可能會支援的事情……我們將很快擊敗伊朗，一旦那發生，石油和柴油價格將像石頭一樣暴跌。價格會下降得非常快，但無論如何這是我可能會做的事情。”"
+    },
+    {
+      "id": "5148026",
+      "time": "2026-10-15 22:48:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國消費品安全委員會（CPSC）：取消部分燃料新增劑聯邦要求的行動，預計每年可減少5.457億美元的監管成本。"
+    },
+    {
+      "id": "5148025",
+      "time": "2026-10-15 22:48:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國西南航空將為全機隊部署星鏈（Starlink）網路服務。"
+    },
+    {
+      "id": "5148024",
+      "time": "2026-10-15 22:47:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門總理及多位部長當時身處亞丁總統府，均安然無恙。"
+    },
+    {
+      "id": "5148023",
+      "time": "2026-10-15 22:47:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【德國計劃與英偉達展開大規模AI合作，西門子、奧迪等約12家企業擬參與】德國聯邦政府計劃與美國晶片設計商英偉達展開大規模合作，推動人工智慧在工業領域的廣泛應用，並在全球人工智慧技術競爭中迎頭趕上。該計劃有兩個目標：一是為物理人工智慧的應用奠定基礎，這項技術可用於訓練機器人和自動駕駛汽車等；二是訓練具有國際競爭力的高效能工業人工智慧模型。據悉，德國聯邦政府願意投入數億歐元推進該專案，資金將用於採購算力和訓練新的人工智慧模型。英偉達預計也將提供支援，包括派遣工程師參與專案。約12家德國企業計劃參與合作，其中包括西門子、奧迪以及人工智慧公司Black Forest Labs。"
+    },
+    {
+      "id": "5148022",
+      "time": "2026-10-15 22:47:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "一名葉門政府安全官員15日對新華社記者說，位於葉門南部港口城市亞丁的總統府當日遭5枚導彈襲擊。（新華社）"
+    },
     {
       "id": "mkt:01a14006-f784-7ee0-a8a1-f72a76478ffa",
       "time": "2026-10-15 22:46:00",
@@ -112642,135 +112726,6 @@
         "MKT News"
       ],
       "text": "Pentagon signs $150 million conditional loan agreement with photonic quantum computing firm PsiQuantum."
-    },
-    {
-      "id": "5132793",
-      "time": "2026-10-08 22:50:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "五角大樓宣佈3.5億美元量子計算計劃。"
-    },
-    {
-      "id": "5132792",
-      "time": "2026-10-08 22:50:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "五角大樓與PsiQuantum簽署1.5億美元有條件貸款協議。"
-    },
-    {
-      "id": "mkt:01a11bfd-af47-7ee0-a7fd-aab29d414dad",
-      "time": "2026-10-08 22:49:32",
-      "tags": [
-        "MKT News",
-        "LHA.DE",
-        "Impact bearish"
-      ],
-      "text": "Lufthansa Group said its carriers will suspend flights to Riyadh through Oct. 16, inclusive."
-    },
-    {
-      "id": "mkt:01a11bfd-6bdb-7ee0-a7fd-a0e19c99b88b",
-      "time": "2026-10-08 22:49:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【International Criminal Court rules former Philippine president Duterte fit to stand trial】On Oct 8 local time, the International Criminal Court said former Philippine president Duterte is fit to stand trial, citing an independent medical expert panel's finding that he can understand the charges, participate in proceedings and communicate effectively with defence counsel."
-    },
-    {
-      "id": "mkt:01a11bfd-4a2e-7ee0-a7fd-9eed8722f0ed",
-      "time": "2026-10-08 22:49:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Rubber at 20,145 yuan/ton; 60+ tire makers announce 2–5% hikes】As of Oct. 8 close, Shanghai Futures Exchange main rubber contract stood at 20,145 yuan/ton, up more than 28% YTD and at a nine‑year high. Since September, over 60 tire makers have issued more than 70 price notices covering all categories — including all‑steel, semi‑steel and engineering tires — with adjustments typically in the 2–5% range. Backed by expanding overseas demand for Chinese new‑energy vehicles, the sector is targeting higher‑end OEM supply and raising product value and technical barriers to help offset raw‑material cost volatility."
-    },
-    {
-      "id": "mkt:01a11bfc-fb96-7ee0-a7fd-96242210b5ca",
-      "time": "2026-10-08 22:48:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US accuses Venezuelan president Maduro and his wife of 'conspiring to commit torture'】US court records dated Oct 8 show Venezuelan President Maduro and his wife Flores are accused of 'conspiring to commit torture.' The filings state a US operation on Jan 3 detained the couple in Venezuela and transferred them to the United States. They appeared in the Southern District of New York on Jan 5 and denied the charges. The action has drawn widespread international condemnation as a serious violation of Venezuelan sovereignty and a potential threat to stability in Latin America."
-    },
-    {
-      "id": "5132791",
-      "time": "2026-10-08 22:48:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美方指控委總統馬杜羅及其妻子“共謀實施酷刑”】美國法院記錄顯示，委內瑞拉總統馬杜羅及其妻子弗洛雷斯在美國被指控“共謀實施酷刑”。美國1月3日對委內瑞拉發動大規模襲擊，強行控制馬杜羅夫婦並將他們帶到美國。同月5日，馬杜羅夫婦在紐約南區聯邦地區法院首次出庭，拒絕美方所謂“犯罪”指控。國際社會普遍譴責美國嚴重侵犯委內瑞拉主權，威脅拉美地區和平穩定。 (央視新聞)"
-    },
-    {
-      "id": "5132790",
-      "time": "2026-10-08 22:47:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【橡膠價格大漲 超60家輪胎企業集體漲價】今年以來，橡膠價格持續走高，截至今天（10月8日）收盤，上海期貨交易所橡膠主力合約價格為每噸20145元，年內累計漲幅超28%，處於9年以來的高位。輪胎是天然橡膠最大的下游產品，橡膠原料價格的上漲，直接影響輪胎行業的成本和收益。據統計，9月以來，已有60餘家輪胎企業集中釋出了70多份漲價函，覆蓋全鋼胎、半鋼胎、工程胎等全品類，調價幅度普遍在2%到5%。得益於國產新能源車海外市場的持續拓展，輪胎行業正聚焦高階配套市場，透過提升產品價值、構築技術壁壘，對沖原料成本變化的不確定性。（央視財經）"
-    },
-    {
-      "id": "mkt:01a11bfc-3132-7ee0-a7fd-8bf42a5b9bbe",
-      "time": "2026-10-08 22:47:54",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "U.S. Vice President Vance said Microsoft (MSFT.O) must demonstrate it is serious about putting American workers first."
-    },
-    {
-      "id": "mkt:01a11bfc-0a32-7ee0-a7fd-859d9e5bee63",
-      "time": "2026-10-08 22:47:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK police said two men are Latvian nationals and remain in custody; counter-terrorism police are investigating."
-    },
-    {
-      "id": "5132789",
-      "time": "2026-10-08 22:47:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際刑事法院裁定菲律賓前總統杜特爾特適合受審】當地時間10月8日，國際刑事法院公佈的一份裁決顯示，該法院認為菲律賓前總統杜特爾特具備參加庭審的能力。根據法院公佈的資訊，獨立醫學專家小組評估認為，杜特爾特有能力理解所面臨的指控、參加庭審程式並與辯護律師有效溝通。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a11bfb-beee-7ee0-a7fd-7edefc88b18d",
-      "time": "2026-10-08 22:47:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Two men were arrested after illegally entering a Royal Air Force base in Cambridgeshire, UK police said."
-    },
-    {
-      "id": "5132788",
-      "time": "2026-10-08 22:47:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯：微軟必須證明他們是真的致力於將美國工人的利益放在首位。"
-    },
-    {
-      "id": "5132787",
-      "time": "2026-10-08 22:46:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國警方：兩名涉事男子為拉脫維亞公民，目前仍被警方羈押。"
-    },
-    {
-      "id": "mkt:01a11bfb-532b-7ee0-a7fd-73eda52f0fe6",
-      "time": "2026-10-08 22:46:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said Russian accounts used ChatGPT to influence Latin America."
     }
   ]
 }
