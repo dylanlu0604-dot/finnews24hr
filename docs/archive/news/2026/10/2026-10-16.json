@@ -1,7 +1,56 @@
 {
   "date": "2026-10-16",
-  "count": 277,
+  "count": 282,
   "items": [
+    {
+      "id": "mkt:01a1410d-3446-7ee0-a8a7-3150004ec94f",
+      "time": "2026-10-16 03:32:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK defence secretary said he will not speculate on the cause of the Starlink outage."
+    },
+    {
+      "id": "te:economy:592508",
+      "time": "2026-10-16 03:32:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Paraguay Consumer Confidence Weakens in September — Paraguay’s Consumer Confidence Index fell to 39.09 points in September 2026 from 39.67 in August, marking its lowest reading since May. The Economic Situation Index declined by 1.50 points month-over-month to 28.42, while the Economic Expectations Index rose by 0.33 points to 49.75. The share of consumers who considered saving possible increased by 1.75 percentage points from the previous month to 12.75%. Regarding durable goods purchases, month-over-month increases were recorded for cars and motorcycles, while the housing category remained unchanged and purchases of household appliances declined."
+    },
+    {
+      "id": "5148367",
+      "time": "2026-10-16 03:31:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防大臣：不會猜測星鏈服務中斷的原因。"
+    },
+    {
+      "id": "mkt:01a1410b-8388-7ee0-a8a7-2ce0d3e99713",
+      "time": "2026-10-16 03:30:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported the UK defense minister said he did not discuss the cause of the Starlink service disruption in a meeting with US Defense Secretary Hegseth."
+    },
+    {
+      "id": "mkt:01a1410a-3dc9-7ee0-a8a7-246be326f2e4",
+      "time": "2026-10-16 03:29:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "MACRON said allies must jointly provide Ukraine with all means necessary to protect its people and infrastructure."
+    },
     {
       "id": "5148365",
       "time": "2026-10-16 03:28:40",
