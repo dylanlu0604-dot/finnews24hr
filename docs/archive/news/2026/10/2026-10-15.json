@@ -1,7 +1,201 @@
 {
   "date": "2026-10-15",
-  "count": 595,
+  "count": 614,
   "items": [
+    {
+      "id": "em:qqyh_zgyh:202610153896060461",
+      "time": "2026-10-15 08:31:00",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【前三季度居民貸款減少1萬億 9月結束連續兩個月下滑趨勢】10月14日，央行釋出2026年前三季度金融統計資料。資料顯示，前三季度人民幣貸款增加11.52萬億元，其中居民貸款減少1.03萬億元，但9月結束此前連續兩個月減少趨勢，而企（事）單位貸款同比增加12.55萬億元。近年來，隨著國內產業轉型升級，社會融資結構向債券、股票等傾斜，前三季度企業債券淨融資、非金融企業境內股票融資同比多增超1.3萬億元。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610153896060461",
+      "time": "2026-10-15 08:31:00",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【前三季度居民貸款減少1萬億 9月結束連續兩個月下滑趨勢】10月14日，央行釋出2026年前三季度金融統計資料。資料顯示，前三季度人民幣貸款增加11.52萬億元，其中居民貸款減少1.03萬億元，但9月結束此前連續兩個月減少趨勢，而企（事）單位貸款同比增加12.55萬億元。近年來，隨著國內產業轉型升級，社會融資結構向債券、股票等傾斜，前三季度企業債券淨融資、非金融企業境內股票融資同比多增超1.3萬億元。"
+    },
+    {
+      "id": "mkt:01a13cf7-ee96-7ee0-a888-9ab4e5fc1b06",
+      "time": "2026-10-15 08:30:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD"
+      ],
+      "text": "AUD/USD slid about 20 pips in a short move, now 0.6949."
+    },
+    {
+      "id": "mkt:01a13cf7-d5ac-7ee0-a888-955fbac7a7d9",
+      "time": "2026-10-15 08:30:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia Sep part-time employment -73,700 (previous +45,800)."
+    },
+    {
+      "id": "5145832",
+      "time": "2026-10-15 08:30:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：高階覆銅板迭代，關注佈局化學法矽微粉的龍頭企業】中信證券研報指出，覆銅板迭代路徑下對核心材料的電效能要求持續提升，化學法矽微粉在M8級別以上的高階覆銅板中新增量、價值量均得到顯著提升。且進一步突破樹脂等極限介電效能，需要化學法矽微粉的結構進一步迭代。化學法矽微粉將成為高階覆銅板迭代路徑中的核心材料，重要性隨覆銅板等級提升而提升。海外領先矽微粉企業擴產步伐較慢，國內龍頭企業將承接增量份額，且化學法矽微粉技術路線實現趕超，料將取得高於行業增速的利潤增長。"
+    },
+    {
+      "id": "mkt:01a13cf7-bcfa-7ee0-a888-8b9c98d719e8",
+      "time": "2026-10-15 08:30:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Part-Time Employment (Sep) | actual -73700K | previous 45800K"
+    },
+    {
+      "id": "5145831",
+      "time": "2026-10-15 08:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞9月份失業率4.7%，預估4.6%。澳大利亞9月份就業人數下降39,300人，預估20,000。"
+    },
+    {
+      "id": "mkt:01a13cf7-7169-7ee0-a888-85bb8bce178a",
+      "time": "2026-10-15 08:30:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia employment fell 39,300 in September, versus consensus +20,000; August +39,500."
+    },
+    {
+      "id": "mkt:01a13cf7-612e-7ee0-a888-7c3e9bb02d42",
+      "time": "2026-10-15 08:30:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia full-time employment rose 34,400 in September; prior -6,300."
+    },
+    {
+      "id": "mkt:01a13cf7-5fff-7ee0-a888-720101287ec5",
+      "time": "2026-10-15 08:30:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia Sept seasonally adjusted labour force participation rate 66.8% (expected 67.0%, prior 67.1%)."
+    },
+    {
+      "id": "mkt:01a13cf7-5fa0-7ee0-a888-6ad7759e0ab3",
+      "time": "2026-10-15 08:30:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Australia September seasonally adjusted unemployment rate 4.7% vs 4.6% expected and 4.6% prior."
+    },
+    {
+      "id": "mkt:01a13cf7-474f-7ee0-a888-61bbeaeb3b59",
+      "time": "2026-10-15 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Employment (Sep) | actual -39300K | consensus 20000K | previous 39500K"
+    },
+    {
+      "id": "mkt:01a13cf7-4748-7ee0-a888-5e4cc6a9482a",
+      "time": "2026-10-15 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Labour Force Participation Rate SA (Sep) | actual 66.8% | consensus 67.00% | previous 67.10%"
+    },
+    {
+      "id": "mkt:01a13cf7-4736-7ee0-a888-54f4b50cfbdb",
+      "time": "2026-10-15 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Full-Time Employment (Sep) | actual 34400K | previous -6300K"
+    },
+    {
+      "id": "mkt:01a13cf7-4733-7ee0-a888-4aec2d6a2d12",
+      "time": "2026-10-15 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Unemployment Rate SA (Sep) | actual 4.7% | consensus 4.60% | previous 4.60%"
+    },
+    {
+      "id": "mkt:01a13cf7-1e3f-7ee0-a888-43ecf96575a9",
+      "time": "2026-10-15 08:29:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【CITIC Securities: Still expect Fed to hold in October then hike in December】CITIC Securities says US September CPI exceeded expectations; core month-on-month inflation remained hot and price increases were broad, leaving inflation not falling to target quickly enough. It still expects one more Fed hike this year — a pause in October followed by a 25bps increase in December. With oil prices elevated and inflation sticky, US financial conditions are unlikely to ease materially; dollar liquidity should remain tight, US Treasury yields lack clear downside, and gold sentiment remains fragile. Fundamental resilience matters more than liquidity-driven odds."
+    },
+    {
+      "id": "5145829",
+      "time": "2026-10-15 08:29:39",
+      "tags": [
+        "資料",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：仍預計美聯儲年內再加息一次】中信證券研報稱，美國9月CPI超預期，核心環比再度偏熱，漲價的細項範圍較寬，通脹率未能“以足夠快的速度向目標回落”。中信證券仍預計美聯儲年內再加息一次，即10月按兵不動後於12月進一步加息25bps。在油價居高不下、通脹粘性猶存的環境下，美國金融條件難以有意義地寬鬆，美元流動性料維持偏緊狀態，美債利率尚未具備明確下行空間，黃金情緒仍較脆弱，基本面的韌性比流動性的賠率更重要。"
+    },
+    {
+      "id": "5145822",
+      "time": "2026-10-15 08:28:50",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：電價週期拐點來臨，核電重拾彈性】中信證券研報表示，沿海供需改善，預計核電即將走出2024~2026年的電價下行週期；核電在建機組投產週期啟動，量價齊升助力核電公司業績進入新一輪釋放週期；當前市場尚未完全計入電價上漲對核電公司的業績催化，板塊估值仍具備較強安全邊際。"
+    },
+    {
+      "id": "5145820",
+      "time": "2026-10-15 08:28:41",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國尚未決定11至12月是否進一步縮減韓國國債發行量】韓國財政部表示，尚未決定是否利用今年的超收稅收，在11月和12月進一步縮減國債發行，也未確定相關縮減規模。此前，韓國News1新聞報道稱，韓國正考慮利用稅收超收，在11、12月合計最多削減10萬億韓元國債發行。注：韓國10月已削減5萬億韓元計劃債券發行，以抑制收益率上行壓力。"
+    },
     {
       "id": "mkt:01a13cf5-0dba-7ee0-a888-3fa8a5613833",
       "time": "2026-10-15 08:27:35",
