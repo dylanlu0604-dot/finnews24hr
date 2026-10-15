@@ -1,7 +1,61 @@
 {
   "date": "2026-10-15",
-  "count": 1116,
+  "count": 1122,
   "items": [
+    {
+      "id": "5146685",
+      "time": "2026-10-15 12:47:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯稱擊中兩艘貨船以及烏克蘭港口】俄羅斯國防部表示，其部隊夜間打擊了兩艘駛往烏克蘭敖德薩的乾貨船，同時襲擊多瑙河伊茲梅爾港的港口基礎設施。俄方稱打擊目標為軍用物資。"
+    },
+    {
+      "id": "5146684",
+      "time": "2026-10-15 12:46:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織官員表示，中東地區經濟預測的假設前提是油價將維持在較高水平，且預計正常貿易與航運將在2027年第一季度恢復。"
+    },
+    {
+      "id": "5146683",
+      "time": "2026-10-15 12:45:29",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股市暴跌 年內第十次觸發熔斷機制 】韓國綜合股價指數（KOSPI）15日盤中一度暴跌8%，觸發市場熔斷機制。這是韓國股市今年第十次觸發熔斷機制。韓國交易所當天釋出公告說，自當地時間15日12時38分起，KOSPI暫停交易20分鐘。受此影響，韓國有價證券市場所有股票交易暫時中止，相關期貨和期權市場交易也同步暫停。熔斷機制啟動時，KOSPI報5528.05點，較前一交易日下跌480.76點，跌幅達8%。韓聯社報道說，人工智慧投資回報率爭議升溫，韓股半導體板塊領跌。分析認為，近期人工智慧基礎設施投資面臨的融資瓶頸，以及美國科技股和半導體股持續走弱等因素疊加，對韓國股市半導體板塊形成衝擊。被稱作“韓版納斯達克”的高斯達克指數（KOSDAQ）當天也大幅下跌，同樣觸發市場熔斷機制。（新華社）"
+    },
+    {
+      "id": "te:economy:592183",
+      "time": "2026-10-15 12:44:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Dutch Jobless Rate Unchanged at 4.0% — The Netherland’s seasonally adjusted unemployment rate stood at 4.0% in September 2026, unchanged from the previous two months and remaining at its highest level since March. The number of unemployed people remained steady at 408 thousand, with 3.2 million people outside the labor force, which mainly consists of retirees and individuals unable to work due to illness or disability. At the end of September, the number of unemployment benefits stood at 197.1 thousand, up 1.2% from the previous month, as 24.6 thousand new claims were added, while 22.2 thousand were terminated. Meanwhile, employment increased by 4 thousand to 9.831 million, while the labor force also rose by 4 thousand to 10.239 million. The gross labor force participation rate stood at 76.1%, while the net participation rate held at 73.1%. Over the past three months, unemployment increased by an average of 5 thousand per month, while employment remained unchanged."
+    },
+    {
+      "id": "5146682",
+      "time": "2026-10-15 12:44:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蒙古國草原火未越過邊境線 火情堵截整體可控】10月9日，中蒙邊境蒙古國發生草原火災，火勢向我國邊境方向蔓延。在內蒙古3400多名專業隊伍人員連續多日的佈防堵截下，截至目前，火情堵截整體可控。"
+    },
+    {
+      "id": "5146681",
+      "time": "2026-10-15 12:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【APEC會議期間深圳倡議錯峰出行 新增50條公交地鐵接駁專線】今年11月18日至19日，亞太經合組織（APEC）第三十三次領導人非正式會議將在深圳舉辦。記者今天（10月15日）獲悉，深圳將推出一攬子出行舉措。包括：將分割槽域、分時段、分路段實施臨時交通管控，同步倡導綠色出行、居家辦公、錯峰出行、帶薪休假，同時加大公共交通運力調配，最大限度降低對市民日常出行的影響，實現高標準辦會和民生服務“雙保障”。會議期間，黨政機關、事業單位、國有企業除保障任務車輛外，公務及國企公車按90%比例暫停使用。地鐵方面視情況加密班次、延長運營時間；新增50條公交地鐵接駁專線，公交整體運力提升20%。會議期間地鐵、公交執行票價五折優惠。交通管控措施將梯次釋出。"
+    },
     {
       "id": "te:markets:592182",
       "time": "2026-10-15 12:43:54",
