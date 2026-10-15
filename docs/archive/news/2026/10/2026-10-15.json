@@ -1,7 +1,47 @@
 {
   "date": "2026-10-15",
-  "count": 635,
+  "count": 639,
   "items": [
+    {
+      "id": "mkt:01a13d06-2e72-7ee0-a888-cd5da1d6cd8f",
+      "time": "2026-10-15 08:46:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Spot gold largely recovers losses since US CPI release】Spot gold rose 1% in the Asian session to $4,146/oz, largely recouping all losses since yesterday’s US CPI report."
+    },
+    {
+      "id": "5145902",
+      "time": "2026-10-15 08:45:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利表示，可能需要加息，但並非迫在眉睫。"
+    },
+    {
+      "id": "5145885",
+      "time": "2026-10-15 08:43:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌5.5個基點，至2.94%，創9月10日以來新低。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202610153896142494",
+      "time": "2026-10-15 08:41:50",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委Dolenc：目前尚未看到通脹的第二輪效應】歐洲央行管委Dolenc稱，目前尚未看到通脹的第二輪效應。勞動力市場不再那麼緊俏。必須對通脹資料保持警惕。歐洲央行正在邁向限制性貨幣政策立場。"
+    },
     {
       "id": "te:markets:592084",
       "time": "2026-10-15 08:41:01",
