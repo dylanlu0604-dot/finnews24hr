@@ -1,7 +1,110 @@
 {
   "date": "2026-10-15",
-  "count": 1273,
+  "count": 1284,
   "items": [
+    {
+      "id": "mkt:01a13e1e-8033-7ee0-a891-ac04591db335",
+      "time": "2026-10-15 13:52:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Koeda, a member of the BANK OF JAPAN Policy Board, said the pace of cost pass-through to prices is consistent with the BANK OF JAPAN's July main scenario forecast."
+    },
+    {
+      "id": "te:markets:592192",
+      "time": "2026-10-15 13:52:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Pares Early Losses — The ASX 200 eased 11 points, or 0.1%, to close at 8,720 on Thursday, extending prior drops as weakness in tech, non-energy minerals, and industrial services weighed. Still, early declines eased after September employment unexpectedly fell, tempering bets on further tightening by the Reserve Bank of Australia, with odds of a November hike dropping below 20% from 35% earlier. Meanwhile, the jobless rate held at 4.7%, its highest in nearly five years. In the U.S., futures tied to the S&P 500 and Nasdaq fell after a sharp sell-off in tech and hotter-than-expected inflation raised Fed hike concerns. BHP Group shed 4.8% despite averting a strike at Escondida, the world’s largest copper mine. Other laggards included South32 (-5.7%), Goodman Group (-4.6%), Evolution Mining (-3.0%), and Northern Star Resources (-2.0%). In contrast, WiseTech Global jumped 2.9% after ASIC cleared founder Richard White and two staff in a year-long insider trading probe, though one investigation remains ongoing."
+    },
+    {
+      "id": "5146789",
+      "time": "2026-10-15 13:51:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員小枝表示：成本向價格傳導的速度與日本央行7月的主要預測情景一致。"
+    },
+    {
+      "id": "5146788",
+      "time": "2026-10-15 13:50:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金剛光伏等成立科技公司 含雲端計算裝置業務】企查查APP顯示，近日，北京金剛驊遠科技有限公司成立，經營範圍包含雲端計算裝置銷售；軟體銷售；計算器裝置銷售；通訊裝置銷售；網際網路資料服務等。企查查股權穿透顯示，該公司由金剛光伏等共同持股。"
+    },
+    {
+      "id": "mkt:01a13e1c-d96c-7ee0-a891-a2adf9a8f3c1",
+      "time": "2026-10-15 13:50:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "【TSMC Q3 profit up 69% as revenue accelerates; ramps capex and plans ~20 fabs】TSMC reported Q3 net profit rose 69% YoY to NT$763.1bn (≈$23.6bn), beating analyst estimates. Quarterly revenue gained 51% YoY to $47.0bn, also above expectations. The company said revenue growth has accelerated over the past two quarters and it is speeding capacity expansion. TSMC reiterated this year's capex could reach a record $64bn. Market forecasts for TSMC 2027 capex have risen: Goldman sees $85bn, UBS $90bn, both above a $75bn institutional-survey average. TSMC is moving to build and equip roughly 20 fabs domestically and overseas simultaneously, versus a historical norm of four to five concurrent plants."
+    },
+    {
+      "id": "5146787",
+      "time": "2026-10-15 13:50:38",
+      "tags": [],
+      "text": "韓國綜合指數跌幅擴大至9％，三星電子、SK海力士均跌近12％。"
+    },
+    {
+      "id": "5146786",
+      "time": "2026-10-15 13:50:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠端商用車科技有限公司增資至9.57億，增幅約97%】天眼查App顯示，近日，遠端商用車科技有限公司發生工商變更，新增李書福、杭州吉遠一號企業管理合夥企業（有限合夥）、杭州吉控吉遠二號企業管理合夥企業（有限合夥）為股東，同時，註冊資本由約4.86億人民幣增至約9.57億人民幣，增幅約97%。該公司成立於2021年7月，法定代表人為戴慶，經營範圍含電池製造、電池銷售、新能源汽車整車銷售等。股東資訊顯示，該公司由吉利旗下浙江遠端新能源商用車集團有限公司及上述新增股東共同持股。"
+    },
+    {
+      "id": "mkt:01a13e1c-5389-7ee0-a891-9be04a1822e8",
+      "time": "2026-10-15 13:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "Nasdaq100"
+      ],
+      "text": "UK August three-month GDP m/m, August seasonally adjusted goods trade balance, and August industrial and manufacturing production m/m are due in ten minutes. TSMC will hold an analyst briefing after reporting third-quarter results."
+    },
+    {
+      "id": "5146785",
+      "time": "2026-10-15 13:49:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "迪拜9月消費者價格指數同比上漲5.03%。"
+    },
+    {
+      "id": "5146784",
+      "time": "2026-10-15 13:49:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內重挫9.00%，現報5467.66點。個股方面，SK海力士、三星電子跌超11%。"
+    },
+    {
+      "id": "mkt:01a13e1b-4842-7ee0-a891-96556b352582",
+      "time": "2026-10-15 13:48:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index plunged 9.00% intraday to 5,467.66."
+    },
     {
       "id": "mkt:01a13e1a-3ab9-7ee0-a891-8a345c07e807",
       "time": "2026-10-15 13:47:48",
