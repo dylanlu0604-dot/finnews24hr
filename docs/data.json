@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-16 06:34:10",
+  "updated": "2026-10-16 06:38:00",
   "count": 12341,
   "items": [
+    {
+      "id": "5148481",
+      "time": "2026-10-16 06:36:23",
+      "tags": [
+        "宏觀",
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 07:15 美國芝加哥聯儲主席Goolsbee接受CNN採訪；\n② 時間待定 紐西蘭聯儲主席佈雷曼講話；\n③ 10:00 英國央行行長貝利在泰國曼谷參加國際金融協會（IIF）的一場爐邊閒聊；\n④ 10:30 歐洲央行管委兼德國央行行長Joachim Nagel、德國聯邦財政部長Klingbeil在曼谷講話，國際貨幣基金組織（IMF）與世界銀行新聞釋出會；\n⑤ 11:30 美聯儲主席沃什與國際貨幣基金組織（IMF）總裁Georgieva在曼谷參加一場爐邊閒聊；\n⑥ 12:15 加拿大央行行長Macklem在曼谷參與IMF一場關於AI重塑生產力、投資、就業市場、金融穩定性的研討會；\n⑦ 14:30 日本央行副行長內田真一講話；\n⑧ 17:00 歐元區9月CPI終值；\n⑨ 20:00 加拿大央行外部副行長Alexopoulos在Halifax參加一場爐邊閒聊，活動主題與科技、AI、加拿大勞動力市場的變化有關；\n⑩ 20:30 美國9月進口價格指數；時間待定 美國財政部將釋出季度交易商問卷；\n21:15 美國9月工業產出；\n次日02:00 美國9月政府預算；\n次日04:00 美國8月國際資本流動；\n次日06:00 美國芝加哥聯儲主席Goolsbee在彭博電視講話；\n週六時間待定 眾智FlagOS開放計算大會在京開幕（17-18日）；\n週六12:45 歐洲央行管委兼德國央行行長Joachim Nagel、歐洲央行管委Rehn在曼谷講話；\n週六14:45 英國央行行長貝利在曼谷舉辦的G30活動上講話；\n週六 美聯儲進入月底FOMC貨幣政策會議之前的噤聲期；\n週日 RISC-V 中國峰會2026。"
+    },
+    {
+      "id": "te:markets:592523",
+      "time": "2026-10-16 06:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 3.56% — Top commodity losers are Lithium Carbonate (-3.56%), Silicon (-2.02%) and Copper (-1.33%). Gains are led by Silver (3.13%) and Gold (1.51%)."
+    },
     {
       "id": "te:economy:592522",
       "time": "2026-10-16 06:33:09",
@@ -112686,26 +112708,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Sugar Drops by 3.12% — Top commodity losers are Sugar (-3.12%), Coffee (-1.67%) and Barley (-1.53%). Gains are led by Palm Oil (3.03%) and Oat (1.17%)."
-    },
-    {
-      "id": "5133251",
-      "time": "2026-10-09 06:35:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【AI債務狂潮重創科技債，交易員急於重新定價風險】這場為人工智慧（AI）融資的狂潮正撼動規模超10萬億美元的美國企業債市場投資者，引發圍繞部分最大科技公司風險的重定價，表現為信用保險價格飆升、波動性加劇以及表現走弱。包括甲骨文、博通和SpaceX在內的巨頭是今年已發行近5000億美元新債的借款人之一，這些資金用於支付驅動人工智慧的基礎設施。借款的速度和龐大規模，疊加技術前景的不確定性以及利率上升，正給該行業帶來越來越大壓力，令投資者蒙受損失，並要求更高的放貸補償。"
-    },
-    {
-      "id": "te:markets:590617",
-      "time": "2026-10-09 06:35:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore CNY Falls by 2.85% — Top commodity losers are Iron Ore CNY (-2.85%), Aluminum Alloy (-2.21%) and Copper (-1.27%). Gains are led by Lithium Carbonate (1.75%) and Gold (0.64%)."
     }
   ]
 }
