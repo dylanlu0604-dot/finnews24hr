@@ -1,7 +1,174 @@
 {
   "date": "2026-10-15",
-  "count": 1721,
+  "count": 1739,
   "items": [
+    {
+      "id": "mkt:01a13eff-716c-7ee0-a89b-b537d839b343",
+      "time": "2026-10-15 17:58:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Spain to release 4.4 mln barrels from strategic reserves in October】Spain will release 4.4 mln barrels from strategic reserves in October, a ministry official said, without specifying the product mix. The release is the second tranche after an initial 3.7 mln barrels and part of a March pledge to release up to 11.5 mln barrels of crude-equivalent products. Further releases will depend on ongoing assessment of the situation."
+    },
+    {
+      "id": "5147483",
+      "time": "2026-10-15 17:57:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國平安：非執行董事何建鋒辭任】中國平安公告稱，公司收到非執行董事何建鋒的辭職信函，其因工作變動辭去公司第十三屆董事會非執行董事、董事會戰略與投資決策委員會委員職務，辭任自2026年10月15日生效。何建鋒辭任後不在公司及控股子公司任職，不存在未履行完畢的公開承諾及增持承諾。本次離任不會導致公司董事會成員低於法定人數，何建鋒與公司董事會無意見分歧，無相關事項需提請股東注意。"
+    },
+    {
+      "id": "5147482",
+      "time": "2026-10-15 17:57:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Babycare已起訴“靠譜老王”】10月15日下午訊息，從知情人士處獲悉，Babycare已經正式起訴“靠譜老王”，案件於2026年9月20日正式立案。據悉，2026年9月20日，杭州市濱江區人民法院正式立案受理杭州白貝殼實業股份有限公司提起的商業詆譭糾紛訴訟。該案被告包括自然人王某某，以及深圳市步銳生物科技有限公司和湖南步銳生物科技有限公司。"
+    },
+    {
+      "id": "5147481",
+      "time": "2026-10-15 17:57:46",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【立訊精密：截至10月15日累計回購金額約10.00億元】立訊精密公告稱，公司回購股份方案擬使用不低於10億元且不超過20億元自有或自籌資金回購股份，用於股權激勵計劃或員工持股計劃，回購期限為董事會審議透過之日起12個月內，回購價格上限經兩次權益分派調整後為不超過86.66元/股。截至2026年10月15日，公司透過集中競價方式累計回購A股股份1766.54萬股，佔公司總股本比例為0.23%，最高成交價65.00元/股，最低成交價50.14元/股，成交總金額約10.00億元（不含交易費用）。"
+    },
+    {
+      "id": "mkt:01a13efe-e5f5-7ee0-a89b-ada917a3dc5e",
+      "time": "2026-10-15 17:57:34",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "USD/ILS hit a six-month high at 3.11."
+    },
+    {
+      "id": "5147480",
+      "time": "2026-10-15 17:57:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌謝克爾匯率觸及3.11的六個月高點。"
+    },
+    {
+      "id": "5147479",
+      "time": "2026-10-15 17:57:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：迦納在政策工具下的表現強勁。"
+    },
+    {
+      "id": "mkt:01a13efe-5511-7ee0-a89b-a30365ab7415",
+      "time": "2026-10-15 17:56:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "Kremlin said Russian diesel exports will have a positive impact on the market but cannot fully stabilise it."
+    },
+    {
+      "id": "mkt:01a13efd-6e9b-7ee0-a89b-9d5cf9b741b5",
+      "time": "2026-10-15 17:55:58",
+      "tags": [
+        "MKT News",
+        "Brent"
+      ],
+      "text": "Kremlin says the latest Ukrainian attack on a refinery offers nothing new."
+    },
+    {
+      "id": "5147476",
+      "time": "2026-10-15 17:55:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱，烏克蘭對煉油廠的襲擊與美國的和平努力相矛盾。"
+    },
+    {
+      "id": "mkt:01a13efd-1cf2-7ee0-a89b-949eb8f90c93",
+      "time": "2026-10-15 17:55:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kremlin says Russian diesel has begun entering global markets."
+    },
+    {
+      "id": "mkt:01a13efd-0b2d-7ee0-a89b-896df6569f1a",
+      "time": "2026-10-15 17:55:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said a Ukrainian attack on a refinery runs counter to U.S. peace efforts."
+    },
+    {
+      "id": "5147475",
+      "time": "2026-10-15 17:55:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮：這將對市場產生積極影響，但無法完全穩定市場。"
+    },
+    {
+      "id": "5147474",
+      "time": "2026-10-15 17:55:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：俄羅斯柴油已開始進入全球市場。"
+    },
+    {
+      "id": "5147473",
+      "time": "2026-10-15 17:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱烏克蘭對煉油廠的最新襲擊並非新鮮事。"
+    },
+    {
+      "id": "5147472",
+      "time": "2026-10-15 17:55:04",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將CrowdStrike的目標價從260美元上調至295美元。"
+    },
+    {
+      "id": "5147471",
+      "time": "2026-10-15 17:54:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "衣索比亞統計局：9月份該國通脹率同比上漲14.9%。"
+    },
+    {
+      "id": "5147470",
+      "time": "2026-10-15 17:54:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國防部簽署價值410.6億盧比的GSAT-7C衛星合同。"
+    },
     {
       "id": "5147469",
       "time": "2026-10-15 17:54:11",
