@@ -1,7 +1,29 @@
 {
   "date": "2026-10-16",
-  "count": 248,
+  "count": 250,
   "items": [
+    {
+      "id": "mkt:01a140e5-efa7-7ee0-a8a6-dc4438ca8c27",
+      "time": "2026-10-16 02:49:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "India will impose a windfall tax on petrol exports of 2.5 rupees per litre and on diesel exports of 8.5 rupees per litre, effective Oct. 16, the government ordered."
+    },
+    {
+      "id": "5148330",
+      "time": "2026-10-16 02:47:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度將汽油出口暴利稅定為每升2.5盧比，自10月16日起生效。"
+    },
     {
       "id": "5148329",
       "time": "2026-10-16 02:43:42",

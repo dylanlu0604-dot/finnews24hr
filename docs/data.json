@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-16 02:47:10",
-  "count": 12388,
+  "updated": "2026-10-16 02:50:56",
+  "count": 12387,
   "items": [
+    {
+      "id": "mkt:01a140e5-efa7-7ee0-a8a6-dc4438ca8c27",
+      "time": "2026-10-16 02:49:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "India will impose a windfall tax on petrol exports of 2.5 rupees per litre and on diesel exports of 8.5 rupees per litre, effective Oct. 16, the government ordered."
+    },
+    {
+      "id": "5148330",
+      "time": "2026-10-16 02:47:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度將汽油出口暴利稅定為每升2.5盧比，自10月16日起生效。"
+    },
     {
       "id": "5148329",
       "time": "2026-10-16 02:43:42",
@@ -113021,34 +113043,6 @@
         "國際"
       ],
       "text": "北約尋求在年度“堅定正午”核演習前緩和與俄羅斯的緊張關係。此次演習定於10月13日至23日在義大利舉行，涉及17個盟國。"
-    },
-    {
-      "id": "mkt:01a11cd9-42f0-7ee0-a804-20307a1394f0",
-      "time": "2026-10-09 02:49:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Saudia aircraft reportedly hit, burns at Riyadh King Khalid airport】Oct. 8 — Three sources said a commercial aircraft belonging to state-owned Saudia caught fire and was heavily damaged after shrapnel or other flying debris struck it while parked at a terminal at King Khalid International Airport in Riyadh. The sources said the plane was believed to have been empty of passengers but that casualties could not be ruled out. Yemen’s Houthi movement said it attacked the airport in three waves with four missiles and had “hit the targets.” Saudi government media office, the General Authority of Civil Aviation and Saudia did not immediately respond to requests for comment."
-    },
-    {
-      "id": "5133092",
-      "time": "2026-10-09 02:47:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "沃爾瑪：在斯托克頓開設下一代配送中心，創造超過1000個就業崗位。"
-    },
-    {
-      "id": "5133091",
-      "time": "2026-10-09 02:47:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沙特一飛機據報在機場遭襲起火】三名知情人士稱，10月8日，隸屬於國有的沙烏地阿拉伯航空公司的一架商用飛機在沙特首都利雅得哈立德國王國際機場航站樓停靠時，“因彈片或飛行物的直接命中起火，遭受嚴重損毀”。（CCTV國際時訊）"
     }
   ]
 }
