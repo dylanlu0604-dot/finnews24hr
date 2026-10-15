@@ -1,7 +1,264 @@
 {
-  "updated": "2026-10-15 08:58:38",
-  "count": 12031,
+  "updated": "2026-10-15 09:02:48",
+  "count": 12022,
   "items": [
+    {
+      "id": "5145976",
+      "time": "2026-10-15 09:01:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "世界銀行：尼泊爾與世界銀行集團宣佈達成合作，探索發行巨災債券應對地震風險。"
+    },
+    {
+      "id": "5145975",
+      "time": "2026-10-15 09:01:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4170美元/盎司，日內漲1.51%。"
+    },
+    {
+      "id": "mkt:01a13d14-06ab-7ee0-a889-39be6964455f",
+      "time": "2026-10-15 09:01:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Taiwan stocks open down over 2%】Taiwan Weighted Index opened Oct 15 down 1,387.02 points (-2.85%) at 47,238.81."
+    },
+    {
+      "id": "mkt:01a13d14-0503-7ee0-a889-35a5c677dd31",
+      "time": "2026-10-15 09:01:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's 30-year bond yield fell 4.5 bps to 3.995%."
+    },
+    {
+      "id": "mkt:01a13d13-f170-7ee0-a889-28a792bd18eb",
+      "time": "2026-10-15 09:01:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Australian unemployment rises; markets cut RBA rate-hike odds】Australia's unemployment rate rose to 4.7% in September, with August revised up to the same level, above a 4.6% consensus. ABS data showed employment unexpectedly fell 39.3k in September and participation dropped to 66.8%, indicating a cooling labour market. Traders trimmed the probability of a Reserve Bank of Australia hike in November from about 35% earlier to below 20%; December hike odds fell from roughly 60% to about 40%."
+    },
+    {
+      "id": "5145970",
+      "time": "2026-10-15 09:01:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4146.98美元/盎司。"
+    },
+    {
+      "id": "5145966",
+      "time": "2026-10-15 09:00:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報56.44美元/盎司。"
+    },
+    {
+      "id": "mkt:01a13d13-6ed2-7ee0-a889-2786ff5cab23",
+      "time": "2026-10-15 09:00:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude both fell 1% on the day, trading at $93.00/bbl and $103.32/bbl, respectively."
+    },
+    {
+      "id": "5145965",
+      "time": "2026-10-15 09:00:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.3%至32.170。"
+    },
+    {
+      "id": "5145964",
+      "time": "2026-10-15 09:00:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報716.50元。"
+    },
+    {
+      "id": "mkt:01a13d13-2a2c-7ee0-a889-1f301b8b5976",
+      "time": "2026-10-15 09:00:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 0.55% to 892.4 yuan/gram in early trade on Oct 15 (Thu). Silver T+D fell 4.79% to 13,642 yuan/kg in early trade."
+    },
+    {
+      "id": "5145963",
+      "time": "2026-10-15 09:00:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌2.8%至47,251.72點。"
+    },
+    {
+      "id": "5145962",
+      "time": "2026-10-15 09:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌2.2%至263.05點。"
+    },
+    {
+      "id": "mkt:01a13d13-1496-7ee0-a889-1220f035ea43",
+      "time": "2026-10-15 09:00:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Lithium carbonate falls below 100,000 for first time since December last year】China lithium carbonate most-active futures contract slipped below the 100,000 mark, down more than 2% intraday and hitting its lowest level since Dec. 16 last year."
+    },
+    {
+      "id": "mkt:01a13d13-1002-7ee0-a889-080570950a98",
+      "time": "2026-10-15 09:00:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures opened down 1.18%."
+    },
+    {
+      "id": "5145961",
+      "time": "2026-10-15 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌1.4%至47,954.97點。"
+    },
+    {
+      "id": "mkt:01a13d12-fb3f-7ee0-a889-03cb639fd2a6",
+      "time": "2026-10-15 09:00:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "At the morning open, China's main futures contracts were mostly lower. Shanghai silver fell more than 5%, coking coal nearly 5%, Shanghai crude (SC) over 4%; No.20 rubber, Shanghai tin, apples, coke and other rubber contracts declined more than 3%. Fuel oil rose over 1%."
+    },
+    {
+      "id": "mkt:01a13d12-f042-7ee0-a888-ff8213051a40",
+      "time": "2026-10-15 09:00:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot silver extended intraday gains to 1.00%, trading at $56.20/oz."
+    },
+    {
+      "id": "5145960",
+      "time": "2026-10-15 09:00:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報56.23美元/盎司。"
+    },
+    {
+      "id": "5145959",
+      "time": "2026-10-15 09:00:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌5%，現報1474.00元。"
+    },
+    {
+      "id": "5145958",
+      "time": "2026-10-15 09:00:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報104.99美元/桶。"
+    },
+    {
+      "id": "5145957",
+      "time": "2026-10-15 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌1.19%。"
+    },
+    {
+      "id": "5145956",
+      "time": "2026-10-15 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌5%，現報13659.00元。"
+    },
+    {
+      "id": "5145955",
+      "time": "2026-10-15 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】白銀連續跌5.41%，焦煤連續跌4.93%，20號膠連續跌3.54%，錫連續跌3.33%，蘋果連續跌3.28%。"
+    },
+    {
+      "id": "5145954",
+      "time": "2026-10-15 08:59:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【前特斯拉高管掌舵，引領Uber貨運業務轉型】Rebecca Tinucci 出任 Uber Technologies 旗下物流部門的負責人，目標是讓這項貨運業務完美融入這家全球頂尖的科技巨頭。上任一年後，儘管該部門仍處於虧損狀態，但她的領導已初見成效。今年8月，Uber Freight 報告了三年來的首次連續兩個季度實現年度營收增長。儘管全行業需求疲軟，但透過其網路處理的貨運量依然有所增加。此外，Tinucci 表示，越來越多的客戶正將更大比例的物流需求交由該公司處理。作為 Uber Freight 的執行長，她在首次接受採訪時表示：“如今，貨主們更願意、也更傾向於與更少的供應商合作，以簡化他們的供應鏈。”"
+    },
+    {
+      "id": "mkt:01a13d12-8455-7ee0-a888-f3effe155beb",
+      "time": "2026-10-15 08:59:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China reports record quantum frequency conversion enabling trapped‑ion telecom links】Researchers at the University of Science and Technology of China and the Jinan Quantum Technology Research Institute reported a high‑efficiency, low‑noise quantum frequency conversion from 393 nm (UV) to 1,550 nm (telecom) that enables interfacing trapped‑ion memories with optical fiber. The team led by Pan Jianwei, Zhang Qiang and Zheng Mingyang said the result sets an international record for conversion efficiency and noise in this wavelength range and provides key technology for remote interconnection of trapped‑ion nodes in scalable quantum networks. The findings are published in Physical Review Letters."
+    },
+    {
+      "id": "te:markets:592092",
+      "time": "2026-10-15 08:58:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Bond Yield Hits 4-week Low — Japan 10 Year Government Bond Yield decreased to 2.94%, the lowest since September 2026. Over the past 4 weeks, Japan 10Y Bond Yield lost 5.30 basis points, and in the last 12 months, it increased 129.01 basis points."
+    },
     {
       "id": "5145946",
       "time": "2026-10-15 08:57:41",
@@ -109446,339 +109703,6 @@
         "Energy"
       ],
       "text": "Fuel oil front-month contract intraday gain widened to 8.18%, trading at 4,730 yuan/ton."
-    },
-    {
-      "id": "mkt:01a11908-c234-7ee0-a7e4-69ddae33d3aa",
-      "time": "2026-10-08 09:02:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold climbed above $4,130/oz, up 0.50% on the day."
-    },
-    {
-      "id": "5130923",
-      "time": "2026-10-08 09:02:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4130美元/盎司，日內漲0.51%。"
-    },
-    {
-      "id": "mkt:01a11908-ba7b-7ee0-a7e4-61fdfd006bed",
-      "time": "2026-10-08 09:02:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium's intraday gain widened to 2.00%, trading at $1,140.20/oz."
-    },
-    {
-      "id": "5130922",
-      "time": "2026-10-08 09:02:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲3%，現報10106.00元。"
-    },
-    {
-      "id": "5130921",
-      "time": "2026-10-08 09:02:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內漲3%，現報8832.00元。"
-    },
-    {
-      "id": "mkt:01a11908-04a8-7ee0-a7e4-586abc6006df",
-      "time": "2026-10-08 09:01:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's 30-year government bond yield fell 4.0 bps to 4.170%; 10-year fell 2.5 bps to 3.080%; 5-year fell 2.0 bps to 2.390%."
-    },
-    {
-      "id": "5130920",
-      "time": "2026-10-08 09:01:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲8%，現報4730.00元。"
-    },
-    {
-      "id": "5130919",
-      "time": "2026-10-08 09:01:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌2.5個基點至3.080%。30年期日本國債收益率下跌4.0個基點，至4.170%。5年期日本國債收益率下跌2.0個基點，至2.390%。"
-    },
-    {
-      "id": "5130918",
-      "time": "2026-10-08 09:01:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡海峽時報指數下跌1%，至5554.38。"
-    },
-    {
-      "id": "mkt:01a11907-945e-7ee0-a7e4-545db21a842d",
-      "time": "2026-10-08 09:01:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose $10 intraday to a high of $4,127.20/oz. Spot silver gained 1.0% to $60.38/oz."
-    },
-    {
-      "id": "mkt:01a11907-918d-7ee0-a7e4-4b085c293f40",
-      "time": "2026-10-08 09:01:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Oct 8 (Thursday) — Taiwan Weighted Index opened down 395.01 points (-0.79%) at 49,411.36."
-    },
-    {
-      "id": "mkt:01a11907-7718-7ee0-a7e4-4521a62464ac",
-      "time": "2026-10-08 09:01:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "SC main crude oil contract is up over 2.0% intraday, trading at 711.00 yuan/barrel."
-    },
-    {
-      "id": "5130916",
-      "time": "2026-10-08 09:01:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "對二甲苯連續主力合約日內漲3%，現報9470.00元。"
-    },
-    {
-      "id": "5130915",
-      "time": "2026-10-08 09:01:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報60.38美元/盎司。"
-    },
-    {
-      "id": "5130914",
-      "time": "2026-10-08 09:01:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲2%，現報5193.00元。"
-    },
-    {
-      "id": "mkt:01a11906-f694-7ee0-a7e4-3a2d64c015e1",
-      "time": "2026-10-08 09:00:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D opened down 1.42% at 889.51 yuan/gram in early trade on Thursday, Oct 8. Silver T+D opened up 0.67% at 14,890 yuan/kg."
-    },
-    {
-      "id": "5130913",
-      "time": "2026-10-08 09:00:35",
-      "tags": [],
-      "text": "國內期貨主力合約漲多跌少，液化石油氣（LPG）、燃料油漲超7％，低硫燃料油（LU）漲超4％，甲醇漲近4％，白糖、20號膠漲近3％，聚丙烯、豆一漲超2％。跌幅方面，鈀跌近7％，鉑跌超3％，鐵礦石跌近2％，滬銀、滬金、滬鋁、鋁合金、滬鋅跌超1％。"
-    },
-    {
-      "id": "5130912",
-      "time": "2026-10-08 09:00:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4150美元/盎司，日內漲0.23%。"
-    },
-    {
-      "id": "5130911",
-      "time": "2026-10-08 09:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1139.50美元/盎司。"
-    },
-    {
-      "id": "5130910",
-      "time": "2026-10-08 09:00:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數開盤變動不大，報49,783.06。"
-    },
-    {
-      "id": "mkt:01a11906-835b-7ee0-a7e4-319f18214cab",
-      "time": "2026-10-08 09:00:19",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 index futures opened down 0.28%."
-    },
-    {
-      "id": "5130909",
-      "time": "2026-10-08 09:00:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【保時捷B級SUV新車將於2028年量產，與純電Macan並行銷售】10月7日，保時捷在資本市場日上披露，純電動718 Boxster和Cayman車型預計將在2028年首個完整生產年度助力銷售。2028年，保時捷還將推出一款B級全新SUV車型，並與當前純電動Macan並行銷售。這款搭載內燃機和插電式混合動力系統的新車型，在2028年量產爬坡後，預計將於2029年對銷量和盈利能力帶來顯著貢獻。此後，公司還將推出更多新產品，主要集中在利潤率較高的D級和E級細分市場，預計將進一步提升盈利水平。"
-    },
-    {
-      "id": "mkt:01a11906-5fdb-7ee0-a7e4-2d669ee2e198",
-      "time": "2026-10-08 09:00:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "At the morning open, China’s most-active futures contracts were mostly higher. LPG and fuel oil rose over 7%; low-sulfur fuel oil (LU) gained more than 4%; methanol climbed about 4%; white sugar and No.20 rubber advanced near 3%; polypropylene and Soybean No.1 were up over 2%. On the downside, palladium fell nearly 7%, platinum dropped more than 3%, iron ore fell about 2%, and SHFE silver, gold, aluminum, aluminum alloy and zinc declined over 1%."
-    },
-    {
-      "id": "5130908",
-      "time": "2026-10-08 09:00:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲7%，現報4686.00元。"
-    },
-    {
-      "id": "5130907",
-      "time": "2026-10-08 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲2%，現報6394.00元。"
-    },
-    {
-      "id": "5130906",
-      "time": "2026-10-08 09:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】燃料油連續漲6.95%，液化石油氣連續漲6.80%，鈀連續跌6.51%，低硫燃料油連續漲5.12%，鉑連續跌3.83%。"
-    },
-    {
-      "id": "5130905",
-      "time": "2026-10-08 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲6%，現報7049.00元。"
-    },
-    {
-      "id": "5130904",
-      "time": "2026-10-08 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲1%，現報6382.00元。"
-    },
-    {
-      "id": "5130903",
-      "time": "2026-10-08 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲3%，現報3034.00元。"
-    },
-    {
-      "id": "5130902",
-      "time": "2026-10-08 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內跌6%，現報270.65元。"
-    },
-    {
-      "id": "5130901",
-      "time": "2026-10-08 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲6%，現報4681.00元。"
-    },
-    {
-      "id": "5130900",
-      "time": "2026-10-08 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲1%，現報5253.00元。"
-    },
-    {
-      "id": "5130899",
-      "time": "2026-10-08 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.27%。"
-    },
-    {
-      "id": "5130898",
-      "time": "2026-10-08 08:59:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數下跌1%，至6734.90。三星電子跌近1%，Q3利潤再創紀錄仍略遜預期。"
-    },
-    {
-      "id": "mkt:01a11905-e38a-7ee0-a7e4-203620e618a9",
-      "time": "2026-10-08 08:59:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI index fell 1.00% intraday."
-    },
-    {
-      "id": "5130897",
-      "time": "2026-10-08 08:58:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【9月30日179股獲融資買入超億元 中際旭創穫買入9.07億元居首】 9月30日共有3527只個股獲融資資金買入，有179股買入金額超億元。其中，中際旭創、亨通光電、天孚通訊融資買入金額排名前三，分別獲買入9.07億元、8.15億元、8.13億元。"
     }
   ]
 }
