@@ -1,7 +1,95 @@
 {
   "date": "2026-10-15",
-  "count": 1861,
+  "count": 1871,
   "items": [
+    {
+      "id": "5147579",
+      "time": "2026-10-15 18:32:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山東首條至喬治亞TIR國際公路運輸線路在青開通】10月14日，上合示範區至喬治亞TIR國際公路運輸新線路正式開通。在青島海關所屬膠州海關監管下，首批兩輛滿載服裝的TIR國際公路運輸車從上合示範區TIR絲路電商綜合服務基地出發，駛往喬治亞。這是青島開通的第7條TIR國際公路運輸線路，也是山東首次開通至喬治亞的TIR國際公路運輸線路。（青島釋出）"
+    },
+    {
+      "id": "mkt:01a13f1f-30fe-7ee0-a89c-8fde4844d7f8",
+      "time": "2026-10-15 18:32:51",
+      "tags": [
+        "MKT News",
+        "BAC.O",
+        "Impact bearish"
+      ],
+      "text": "Daxin Securities cuts BofA PT to $58 from $62."
+    },
+    {
+      "id": "5147578",
+      "time": "2026-10-15 18:32:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI投資熱潮暗藏風險 Gartner警告逾3.5萬億美元投資恐面臨減值】據市場研究公司Gartner Inc.分析，到2030年，超過3.5萬億美元的AI基礎設施投資可能面臨資產減值風險，因為該行業的投資熱潮可能超過足以支撐這些投入的收入增長。"
+    },
+    {
+      "id": "5147577",
+      "time": "2026-10-15 18:31:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士聯邦法院表示，取消瑞信獎金是合法的。"
+    },
+    {
+      "id": "mkt:01a13f1d-97a3-7ee0-a89c-805459b070d6",
+      "time": "2026-10-15 18:31:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China's MIIT issues AI industry navigation map covering 1,000+ manufacturing scenarios】The Ministry of Industry and Information Technology (MIIT) published an AI-for-new-industrialization navigation map covering more than 1,000 frontline manufacturing scenarios across 20 sub-sectors, including petrochemicals, steel, autos and consumer electronics. MIIT said the document — compiled with research institutes and firms — follows nearly 30 targeted AI industrialization events that facilitated 5,000+ enterprise supply‑demand matches. The ministry is backing 18 national AI innovation application pilot zones (including Beijing and Jinan‑Qingdao), pushing development of nearly 200 AI technical standards and establishing a CNY 60 bln national AI industry investment fund. MIIT flagged implementation risks including herd-driven/duplicate investment and difficulty replicating pilot successes."
+    },
+    {
+      "id": "mkt:01a13f1d-0e5e-7ee0-a89c-78d7dafe2c74",
+      "time": "2026-10-15 18:30:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sweden's Riksbank calls for a legal framework for a digital krona."
+    },
+    {
+      "id": "5147576",
+      "time": "2026-10-15 18:30:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦KSE-100指數收漲0.5%，報166238點。"
+    },
+    {
+      "id": "te:markets:592339",
+      "time": "2026-10-15 18:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 2.11% Higher — The SENSEX Index went up by 1534 points or 2.11 percent on Thursday to close at 74316 points. The rise was led by Tech Mahindra (4.74%), ICICI Bank (3.18%) and Bharti Airtel (3.17%)."
+    },
+    {
+      "id": "mkt:01a13f1c-5c32-7ee0-a89c-76702830fbe3",
+      "time": "2026-10-15 18:29:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Iran's foreign minister will visit Iraq on Oct. 17 to attend an Organization of Islamic Cooperation summit."
+    },
+    {
+      "id": "5147575",
+      "time": "2026-10-15 18:29:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【覆蓋1000餘個場景 工信部發布人工智慧“產業導航圖”】記者從工業和資訊化部瞭解到，我國將以製造業為主戰場、以應用牽引為主線，推動人工智慧產業高水平賦能新型工業化。據瞭解，工業和資訊化部已經組織近30場人工智慧賦能新型工業化“深度行”活動，促成5000餘家企業供需對接。支援建立北京、濟南—青島等18個國家人工智慧創新應用先導區，推動產業界研製近200項人工智慧關鍵技術標準。設立600億元國家人工智慧產業投資基金。（央視新聞）"
+    },
     {
       "id": "5147574",
       "time": "2026-10-15 18:29:00",
