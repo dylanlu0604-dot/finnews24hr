@@ -1,7 +1,107 @@
 {
-  "updated": "2026-10-15 12:59:36",
-  "count": 12175,
+  "updated": "2026-10-15 13:03:23",
+  "count": 12186,
   "items": [
+    {
+      "id": "mkt:01a13df1-333d-7ee0-a890-43d554c0e25a",
+      "time": "2026-10-15 13:02:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IMF warns prolonged Middle East war is biggest economic risk; expects regional economy to shrink 1.3% in 2026】The IMF said on Thursday that a prolonged Middle East war and further disruptions to energy production, shipping routes or critical infrastructure are the largest economic risks for Middle East and Central Asia economies. Jihad Azour, director of the IMF’s Middle East and Central Asia Department, said the conflict has imposed highly uneven shocks, with countries directly affected under severe strain. Pre-war supply surpluses, alternative routes, demand adjustment and large inventory draws have mitigated the energy shock so far, but inventories have declined and spare capacity is tighter—another supply disruption could trigger a much larger price adjustment. The IMF projects the Middle East, North Africa and Pakistan region to grow 3.3% in 2025, contract 1.3% in 2026 and recover 6.6% in 2027, with significant divergence across economies."
+    },
+    {
+      "id": "5146705",
+      "time": "2026-10-15 13:02:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛立信：預計第四季雲端軟體和服務銷售增長將與三年平均季節性表現基本一致。"
+    },
+    {
+      "id": "5146704",
+      "time": "2026-10-15 13:01:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛立信：各業務板塊均發力，仍具備充足優勢應對當前挑戰，實現長期盈利增長。"
+    },
+    {
+      "id": "5146703",
+      "time": "2026-10-15 13:01:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛立信 第三季度調整後EBIT 97.6億瑞典克朗，預估75.3億瑞典克朗。愛立信 第三季度經調整毛利率47.7％，預估47.4％。"
+    },
+    {
+      "id": "5146702",
+      "time": "2026-10-15 13:01:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量1320億元。"
+    },
+    {
+      "id": "mkt:01a13def-8d93-7ee0-a890-3e5569488dd7",
+      "time": "2026-10-15 13:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An IMF official said Egypt has made good progress on macroeconomic developments but still needs to make further efforts to reduce the state's role in the economy."
+    },
+    {
+      "id": "5146701",
+      "time": "2026-10-15 13:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛立信第三季度銷售淨額594.8億瑞典克朗，預估553.9億瑞典克朗。愛立信第三季度網路業務調整後營業利潤率23.1％，預估19.4％。"
+    },
+    {
+      "id": "mkt:01a13def-2ac6-7ee0-a890-37228ee6176e",
+      "time": "2026-10-15 13:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump released photos of the renovated south facade of the White House, saying long-standing exterior wear has been fully repaired to the highest standards and will extend the building’s service life by decades. He said the banquet hall and military complex were completed on time and under budget, marking the first significant White House expansion since the West Wing addition in 1901."
+    },
+    {
+      "id": "5146700",
+      "time": "2026-10-15 13:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.14%，現報2776.758點；上證指數跌1.94%，現報3694.223點；深證成指跌2.62%，現報11793.437點。"
+    },
+    {
+      "id": "5146699",
+      "time": "2026-10-15 13:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.62%，現報11793.437點；上證指數跌1.94%，現報3694.223點；創業板指跌3.14%，現報2776.758點。"
+    },
+    {
+      "id": "5146698",
+      "time": "2026-10-15 13:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌1.94%，現報3694.223點；深證成指跌2.69%，現報11784.473點；創業板指跌3.21%，現報2774.663點。"
+    },
+    {
+      "id": "5146697",
+      "time": "2026-10-15 12:59:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織官員表示，埃及在宏觀經濟發展方面已取得良好進展，但在縮減國有經濟佈局方面仍需進一步發力。"
+    },
     {
       "id": "5146696",
       "time": "2026-10-15 12:58:21",
@@ -111034,18 +111134,6 @@
         "Importance 1"
       ],
       "text": "Sensex Extends Losses to Second Day — India’s BSE Sensex fell about 0.5% to 72,294 on Thursday, extending losses from the last session as investors weighed the Reserve Bank of India’s surprise rate hike and a renewed rise in oil prices. The RBI raised its repo rate by 25 bps to 5.5% on Wednesday, its first hike in nearly four years, adopting a more hawkish stance and raising concerns over growth. Adding to pressure on Indian equities, Brent crude climbed above $100 a barrel, heightening concerns over inflation and the country’s import bill, while the rupee also weakened 0.4% to 96.775 per dollar, near its record low of 96.96. Meanwhile, all sectors declined except information technology stocks, which bucked the broader decline, with the IT index rising about 1.2%, led by TCS (+2.4%) ahead of its September-quarter results, due later on Thursday and set to mark the start of the earnings season for major Indian companies. Notable laggards were One 97 Communications (-5.8%), ITC (-2.3%), and Reliance (-1.3%)."
-    },
-    {
-      "id": "te:markets:590381",
-      "time": "2026-10-08 13:01:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Rises to 4-Week High — The South Korean won traded around 1,337 per dollar, reaching a four-week high and approaching its strongest level since October 2024, as strong external balances boosted the currency. South Korea posted a current-account surplus of $46.1 billion in August, the second-highest on record, with the goods account alone generating a $46.81 billion surplus. September export data continued to provide a favorable external backdrop, with shipments surging 83.5% year-on-year to a record $120.9 billion and the trade surplus reaching a record $49.85 billion. Thin holiday liquidity also amplified corporate dollar selling, helping the won hold up in the mid-to-high 1,330s. Meanwhile, the US 10-year Treasury yield remained around 5.3% after recently reaching its highest level since 2002, while the dollar index stayed near its strongest level since April 2025. The latest Fed minutes also showed that most officials favored another rate increase by year-end, limiting the won’s gains."
     }
   ]
 }
