@@ -1,7 +1,45 @@
 {
-  "updated": "2026-10-15 12:51:55",
-  "count": 12165,
+  "updated": "2026-10-15 12:55:44",
+  "count": 12168,
   "items": [
+    {
+      "id": "5146692",
+      "time": "2026-10-15 12:55:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞康股份在烏蘭察布新設子公司 含雲端計算相關業務】企查查APP顯示，近日，亞康萬瑋資訊科技（烏蘭察布）有限公司成立，經營範圍包含雲端計算裝備技術服務；資料處理和儲存支援服務；資訊科技諮詢服務；雲端計算裝置銷售等。企查查股權穿透顯示，該公司由亞康股份全資持股。"
+    },
+    {
+      "id": "5146691",
+      "time": "2026-10-15 12:54:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長鑫科技市值跌破3萬億元，工商銀行重回A股“總市值第一”】長鑫科技從上市首日登頂到失守王座，前後不過兩個半月。10月15日早盤，國產儲存晶片龍頭長鑫科技（688825.SH）低開低走，盤中一度跌超 5%。Wind顯示，截至午間收盤，長鑫科技總市值跌破3萬億元關口，失守“市值第一股”寶座，工商銀行（601398.SH）重新成為A股市值最高的上市公司。（澎湃）"
+    },
+    {
+      "id": "mkt:01a13de7-11a4-7ee0-a890-0c6157246372",
+      "time": "2026-10-15 12:51:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【Global smartphone shipments plunge 22% in Q3, worst quarter on record】IDC says global smartphone shipments fell 22% in Q3, the largest recorded quarterly decline, and warns conditions may worsen. The firm cites a roughly 350% surge in storage-chip costs over the past year driven by AI-sector orders, which have squeezed manufacturers' margins, prompted price increases, cut product specifications and led some vendors to withdraw low-end models; IDC's research director said indicators show the market has not yet bottomed."
+    },
+    {
+      "id": "5146690",
+      "time": "2026-10-15 12:51:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "德國財政部長：令人擔憂的是，美國再次向俄羅斯敞開大門。"
+    },
     {
       "id": "mkt:01a13de6-8be0-7ee0-a890-05b6c48f2086",
       "time": "2026-10-15 12:51:21",
@@ -110949,18 +110987,6 @@
         "Importance 2"
       ],
       "text": "Dutch Household Spending Growth Picks Up in August — Household consumption in the Netherlands increased 2.1% year-on-year in August 2026, picking up from 1.2% in July, and marking the strongest growth in three months. Spending on consumer goods rose 3.1%, led by a 5.5% jump in durable goods, with consumers buying more cars, electrical appliances, and household items. Expenditure on food, beverages and tobacco grew 2.1%, while other goods consumption edged down 0.1%, largely due to lower motor fuel purchases. Spending on services also strengthened, rising 1.4%, supported by higher outlays on transport and communication, medical services, recreation and culture, housing, and hospitality. Services account for well over half of total domestic household consumption expenditure. Meanwhile, consumption conditions became slightly less favorable in September, as manufacturers turned less optimistic about future employment and consumers became more pessimistic about unemployment."
-    },
-    {
-      "id": "te:markets:590378",
-      "time": "2026-10-08 12:53:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Stays Weak — The New Zealand dollar traded near its weakest level since November 2025, at $0.560, pressured by a firm US dollar. The greenback hovered near a year-and-a-half high following hawkish FOMC minutes and elevated Treasury yields. Concerns about New Zealand’s fragile economic recovery amid high fuel prices and persistent geopolitical risks, as well as domestic political uncertainty, also weighed on the currency. Currently, markets are pricing in a roughly 58% chance that the Reserve Bank of New Zealand will raise its cash rate by 25 bps to 3.0% later this month, while a move in December is more than fully priced in. In other news, the RBNZ has begun searching for two assistant governors and its first-ever chief of staff ahead of Assistant Governor Karen Silk’s departure in mid-December."
     }
   ]
 }
