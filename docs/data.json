@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-15 13:11:10",
-  "count": 12207,
+  "updated": "2026-10-15 13:14:58",
+  "count": 12211,
   "items": [
+    {
+      "id": "5146726",
+      "time": "2026-10-15 13:14:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【風電板塊走弱，遠端股份跌停】風電板塊走弱，遠端股份跌停，建投能源、天順風能、中材科技、紅豆股份、恆潤股份等跟跌。"
+    },
+    {
+      "id": "mkt:01a13dfa-dde5-7ee0-a890-839b4977268b",
+      "time": "2026-10-15 13:13:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DeepSeek restores service after roughly five-hour outage】Around 08:00 on the 15th multiple users reported DeepSeek showing \"server temporarily unavailable\" or \"server busy, please try again later\". By 13:00 the DeepSeek client had returned to normal service."
+    },
+    {
+      "id": "5146724",
+      "time": "2026-10-15 13:12:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美多州起訴OpenAI 指控ChatGPT違法】美國8個州的總檢察長14日分別向各自州法院提起訴訟，指控美國開放人工智慧研究中心（OpenAI）旗下聊天機器人ChatGPT在產品安全性方面誤導使用者，危害未成年人安全，涉嫌違法。(新華社)"
+    },
+    {
+      "id": "mkt:01a13df9-dff8-7ee0-a890-7a8bc0ccf5d9",
+      "time": "2026-10-15 13:12:28",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "Shanghai Composite Index fell more than 2% in the afternoon session; Shenzhen Composite Index down over 2.7%; ChiNext Index down over 3.3%."
+    },
+    {
+      "id": "5146723",
+      "time": "2026-10-15 13:10:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本航空將於11月至12月期間調整國際航班機票燃油附加費。"
+    },
     {
       "id": "5146722",
       "time": "2026-10-15 13:10:15",
@@ -111307,18 +111352,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: Indian Rupee Drops by 0.27% — Top currency losers are Indian Rupee (-0.27%) and Japanese Yen (-0.06%). Gains are led by Euro (0.09%). Meanwhile, Dollar Index and British Pound were little changed."
-    },
-    {
-      "id": "te:economy:590386",
-      "time": "2026-10-08 13:11:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Economy Watchers Survey",
-        "Importance 2"
-      ],
-      "text": "Japan Services Sentiment Rises to 7-Month High — Japan’s services sector sentiment index rose to 47.0 in September 2026 from 46.4 in the previous month, reaching its highest level since February and exceeding market expectations of 46.8. The reading marked the fifth consecutive month of improvement, supported by stronger sentiment among household-related businesses, particularly in the services sector, despite weaker housing-related indicators. Corporate confidence, however, eased, weighed down by the manufacturing sector, while labor market conditions continued to improve. Meanwhile, the economic outlook index, which gauges business expectations for the months ahead, fell to 47.4 from August’s six-month high of 48.3, marking its first decline in five months. The deterioration reflected growing concerns over the impact of natural disasters and uncertainty surrounding conditions in the Middle East, although the broader economy continued to show signs of recovery."
     }
   ]
 }
