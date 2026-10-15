@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-16 03:02:40",
-  "count": 12384,
+  "updated": "2026-10-16 03:06:29",
+  "count": 12372,
   "items": [
+    {
+      "id": "5148339",
+      "time": "2026-10-16 03:04:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.6914元，較週三夜盤收盤漲64點。成交量317.45億美元。"
+    },
     {
       "id": "mkt:01a140f1-07ef-7ee0-a8a6-f7d21d4c1512",
       "time": "2026-10-16 03:01:40",
@@ -112908,122 +112916,6 @@
         "市場"
       ],
       "text": "Palo Alto Networks股價午後尾盤成交量放大，觸及盤中低點，最新下跌約1.6%。"
-    },
-    {
-      "id": "mkt:01a11ce8-bfed-7ee0-a804-5ff1ad5a100f",
-      "time": "2026-10-09 03:06:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "HSI",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.12% at 23,802, trading 16 points above the cash index."
-    },
-    {
-      "id": "5133107",
-      "time": "2026-10-09 03:05:55",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "剛果民主共和國央行將主要利率維持在12.5%不變。"
-    },
-    {
-      "id": "5133106",
-      "time": "2026-10-09 03:05:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：關鍵基礎設施防禦專案的創始合作伙伴包括埃森哲、博思艾倫、CrowdStrike、德勤、Palo Alto Networks等。"
-    },
-    {
-      "id": "mkt:01a11ce8-1f40-7ee0-a804-52f9646ef851",
-      "time": "2026-10-09 03:05:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reports ANTHROPIC is launching a new cybersecurity program."
-    },
-    {
-      "id": "5133105",
-      "time": "2026-10-09 03:05:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：埃森哲、博思艾倫和CrowdStrike等為其合作伙伴。"
-    },
-    {
-      "id": "te:markets:590604",
-      "time": "2026-10-09 03:05:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Chubb Shares Hit 4-week High — Chubb shares increased to 344.52 USD, the highest since September 2026. Over the past 4 weeks, Chubb gained 2.03%, and in the last 12 months, it increased 21.16%."
-    },
-    {
-      "id": "5133104",
-      "time": "2026-10-09 03:04:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯總統會見伊朗總統 討論中東地區局勢】克里姆林宮10月8日釋出訊息稱，俄羅斯總統普京當天在土庫曼會見伊朗總統佩澤希齊揚。普京在會見中表示，當前中東地區局勢是一個嚴峻的問題。普京表示，俄羅斯願盡一切努力，幫助伊朗推動解決當前中東地區局勢問題。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a11ce7-391b-7ee0-a804-497da0eebb08",
-      "time": "2026-10-09 03:04:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Putin meets Iran President PEZESHKIAN in Turkmenistan】Russian President Putin met Iranian President PEZESHKIAN in Turkmenistan to discuss bilateral ties and the Middle East. Putin said Russia stands ready to do everything possible to help Iran resolve regional conflicts, calling the situation urgent and saying Tehran is making sincere efforts to end the fighting. He described Russia‑Iran relations as developing positively, saying bilateral trade rose more than 21% by end‑2025 and the trend continued into the first seven months of 2026."
-    },
-    {
-      "id": "5133103",
-      "time": "2026-10-09 03:04:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【約旦河西岸發生激烈衝突 數十名巴勒斯坦人受傷】當地時間8日，據巴勒斯坦方面訊息，以色列軍隊及以色列猶太人定居者當天在約旦河西岸希伯倫多地與巴勒斯坦人發生激烈衝突，造成數十名巴勒斯坦人受傷。（央視新聞）"
-    },
-    {
-      "id": "5133102",
-      "time": "2026-10-09 03:03:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國總統特朗普：“虛假新聞”聲稱我在邀請敵人轟炸聖迭戈和洛杉磯，但我的原意是，為阻止伊朗獲得核武器而導致的汽油價格短期上漲，只是一個“小代價”。"
-    },
-    {
-      "id": "mkt:01a11ce5-f593-7ee0-a804-442fa1d71f86",
-      "time": "2026-10-09 03:03:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "ANTHROPIC: Claude Dashboards and Claude Motion begin testing today."
-    },
-    {
-      "id": "5133101",
-      "time": "2026-10-09 03:02:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic推出OSS掃描器，可免費為開源專案提供安全掃描。"
-    },
-    {
-      "id": "mkt:01a11ce5-7670-7ee0-a804-3fb82950a8eb",
-      "time": "2026-10-09 03:02:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Effective today, ANTHROPIC's Claude Docs, Slides and Design features exit testing and are available on all plans, including the free tier."
     }
   ]
 }
