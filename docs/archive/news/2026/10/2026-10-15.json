@@ -1,7 +1,141 @@
 {
   "date": "2026-10-15",
-  "count": 1684,
+  "count": 1699,
   "items": [
+    {
+      "id": "mkt:01a13ef5-1ede-7ee0-a89b-7f34fc9caccb",
+      "time": "2026-10-15 17:46:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xinjieneng: power semiconductors entering new cycle of rising volumes and prices】Oct 15 — At its half-year results meeting Xinjieneng said China’s power semiconductor industry is undergoing a structural shift driven by AI compute and new-energy demand and is entering a new cycle of simultaneous volume and price gains. Inventories are being rebalanced and the sector is moving into a higher‑quality recovery. Demand is concentrated in AI compute infrastructure and new-energy vehicles. Domestic suppliers are winning share on cost‑effectiveness, faster response and local service; customers are actively adopting local solutions and scaling volumes, accelerating domestic substitution. Xinjieneng is expanding foundry/outsourced capacity and ramping its in‑house packaging plant to secure deliveries while improving profitability."
+    },
+    {
+      "id": "5147451",
+      "time": "2026-10-15 17:46:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華邦健康：全資子公司獲得卡左雙多巴緩釋片藥品註冊證書】華邦健康公告稱，公司全資子公司重慶華邦製藥有限公司近日收到國家藥監局核准簽發的卡左雙多巴緩釋片《藥品註冊證書》，該藥品為化學藥品4類，規格為卡比多巴50mg與左旋多巴200mg，視同透過仿製藥質量和療效一致性評價，適應症含原發性帕金森氏病等，將豐富公司帕金森病治療領域產品管線。"
+    },
+    {
+      "id": "5147450",
+      "time": "2026-10-15 17:46:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天合光能：擬4000萬元受讓百佳年代1.6%股權】天合光能公告稱，公司擬以自有資金4000萬元受讓江蘇百興產業投資集團有限公司所持有的常州百佳年代薄膜科技股份有限公司327.4016萬股股份，佔百佳年代總股本的1.6%。本次交易構成關聯交易，因標的公司存續股東吳偉忠為公司實控人高紀凡配偶之弟，屬於與關聯方共同投資。本次交易未構成重大資產重組，無需提交股東會審議，交易完成後標的公司不納入合併報表範圍，交易達成尚存在不確定性。"
+    },
+    {
+      "id": "5147449",
+      "time": "2026-10-15 17:45:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克9月淨外國資產為102.20萬億伊拉克第納爾。"
+    },
+    {
+      "id": "mkt:01a13ef3-d485-7ee0-a89b-70e868cd9798",
+      "time": "2026-10-15 17:45:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 10-year Treasury yield continued to fall, down 11 bps to 5.08%."
+    },
+    {
+      "id": "5147448",
+      "time": "2026-10-15 17:45:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凌霄泵業：財務總監陸鳳娟減持計劃實施完成】凌霄泵業公告稱，公司財務總監陸鳳娟於2026年10月14日透過大宗交易方式減持公司股份26萬股，佔公司總股本的0.07%，減持均價14.59元/股，本次減持計劃已實施完成。本次減持前陸鳳娟合計持有公司股份104.7472萬股，佔總股本0.29%；減持後合計持有78.7472萬股，佔總股本0.22%。本次減持不會導致公司控制權變更，不會對公司治理及持續經營產生重大影響。"
+    },
+    {
+      "id": "5147447",
+      "time": "2026-10-15 17:45:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【白雲機場：9月旅客吞吐量754.20萬人次 同比增14.25%】白雲機場公告稱，2026年9月公司飛機起降49040架次，同比增長13.14%；旅客吞吐量754.20萬人次，同比增長14.25%；貨郵吞吐量20.41萬噸，同比增長1.19%。其中國內航線旅客吞吐量591.81萬人次，同比增長13.68%；地區航線旅客吞吐量7.30萬人次，同比增長30.97%；國際航線旅客吞吐量155.09萬人次，同比增長15.76%。"
+    },
+    {
+      "id": "5147446",
+      "time": "2026-10-15 17:45:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率延續跌勢，目前下跌11個基點，至5.08% <US10YT=RR>。"
+    },
+    {
+      "id": "5147445",
+      "time": "2026-10-15 17:44:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一船隻在黑海起火8人失蹤】布加勒斯特訊息：據羅馬尼亞媒體15日報道，一艘懸掛聖馬利諾國旗的船隻在黑海發生火災，8名船員失蹤。（新華社）"
+    },
+    {
+      "id": "mkt:01a13ef3-2cf6-7ee0-a89b-6b15ef033e4f",
+      "time": "2026-10-15 17:44:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DeepSeek to credit API users for seven days of usage after Oct. 15 outage】Oct 15, 2026 — DeepSeek said a service outage from 08:11 to 13:04 Beijing time on Oct. 15 made its API unavailable. The company will credit all API accounts with a bonus equal to each account’s usage from Oct. 8–14, 2026; credits will be applied automatically and API billing will draw from the credit balance first. DeepSeek said it has launched a full stability review and will remove single-point dependencies to prevent recurrence."
+    },
+    {
+      "id": "mkt:01a13ef2-b8b9-7ee0-a89b-6132bf7e1b67",
+      "time": "2026-10-15 17:44:16",
+      "tags": [
+        "MKT News",
+        "SPWR.O",
+        "Impact bearish",
+        "CSIQ.O",
+        "JKS.O"
+      ],
+      "text": "【ITC issues affirmative final injury ruling in AD/CVD probe of crystalline silicon PV cells】On Oct. 14 the U.S. International Trade Commission voted to issue affirmative final determinations that imports of crystalline silicon photovoltaic cells from India, Indonesia and Laos — whether or not assembled into modules — have caused material injury to the U.S. industry. Based on the ITC’s affirmative final determinations, the U.S. Commerce Department will issue anti-dumping and countervailing duty orders on the affected products."
+    },
+    {
+      "id": "5147444",
+      "time": "2026-10-15 17:44:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國對進口自中國的卡車後鬥蓋作出反補貼終裁】10月14日，美國商務部發布公告，對進口自中國的卡車後鬥蓋（Truck Bed Covers）作出反補貼終裁，裁定常州市盛沃國際貿易有限公司（Changzhou Sunwood International Trading Co., Ltd.）補貼稅率為77.17%、杭州金日汽車零部件有限公司（Hangzhou Golden Sun Auto Parts Co., Ltd.）補貼稅率為11.60%、Century Distribution Systems (Shenzhen) Ltd.、佛山市佰泰汽車用品有限公司（Foshan Baitai Auto Accessories Co.）、深圳市海商萬運供應鏈管理有限公司（Shenzhen Haishang Wanyun Supply Chain Management Co., Ltd.）、深圳市隆驊供應鏈有限公司（Shenzhen Longhua Supply Chain Co., Ltd.）、Shenzhen Maichuang International、深圳前海亞訊電子商務有限公司（Shenzhen Qianhai Yahee E-Commerce Co., Ltd.）補貼稅率為142.11%、中國其他企業補貼稅率為43.43%。本案主要涉及美國海關編碼8708.29.5160項下產品。（中國貿易救濟資訊網）"
+    },
+    {
+      "id": "5147443",
+      "time": "2026-10-15 17:44:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蒙古國草原火已堵截於中蒙邊境一線】記者從內蒙古自治區森林草原防滅火指揮部瞭解到，截至今天（15日）12時，經各方力量協同攻堅，發生在蒙古國境內的草原火災已成功堵截於中蒙邊境一線，火線未燒入我國境內。內蒙古錫林郭勒盟、興安盟、呼倫貝爾市邊境一線可視範圍內無煙無火。目前，撲火力量轉入常態化巡護看守，24小時後視情況有序撤離。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a13ef2-3368-7ee0-a89b-5fc3b3a64d20",
+      "time": "2026-10-15 17:43:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A Ukrainian official said Ukrainian forces struck a Russian refinery overnight in retaliation for Russian ballistic missile and drone attacks that breached the Trump energy ceasefire agreement."
+    },
+    {
+      "id": "5147442",
+      "time": "2026-10-15 17:43:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek補償】10月15日，DeepSeek 官方開放平臺釋出服務恢復及補償通知，將補償所有 API 使用者 7 天內的消耗金額：“北京時間 2026 年 10 月 15 日 8:11 至 13:04 期間，我們的服務系統出現故障，導致該時段內 API 服務無法正常使用。對於此次故障給您帶來的不便與困擾，我們深表歉意。我們已第一時間啟動針對服務穩定性的全面排查和徹底整改，全面梳理並剝離單點依賴，堅決杜絕同類問題再次發生。作為補償，我們將按您賬號 7 日內（10.8-10.14）的消耗金額以贈金形式全額返還，贈金自動到賬，API 計費扣款先從贈金賬戶扣除。此次故障對您造成了影響，我們再次致歉，感謝您一直以來的信任與支援。”"
+    },
     {
       "id": "5147441",
       "time": "2026-10-15 17:43:07",
