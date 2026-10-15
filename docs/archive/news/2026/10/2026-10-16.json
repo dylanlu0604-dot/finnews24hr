@@ -1,7 +1,25 @@
 {
   "date": "2026-10-16",
-  "count": 409,
+  "count": 411,
   "items": [
+    {
+      "id": "5148464",
+      "time": "2026-10-16 05:45:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭統計局：9 月食品價格指數環比持平，變動 0.0%。 紐西蘭經季調電子卡零售銷售額 9 月環比下降 0.4%。紐西蘭電子卡零售名義銷售額 9 月同比上漲 0.9%。"
+    },
+    {
+      "id": "mkt:01a14186-9471-7ee0-a8a8-f6280cf2033b",
+      "time": "2026-10-16 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (MoM) (Sep) | actual 0% | previous 0.30%"
+    },
     {
       "id": "te:economy:592518",
       "time": "2026-10-16 05:43:06",

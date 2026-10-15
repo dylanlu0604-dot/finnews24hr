@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-16 05:44:11",
-  "count": 12353,
+  "updated": "2026-10-16 05:48:05",
+  "count": 12349,
   "items": [
+    {
+      "id": "5148464",
+      "time": "2026-10-16 05:45:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐西蘭統計局：9 月食品價格指數環比持平，變動 0.0%。 紐西蘭經季調電子卡零售銷售額 9 月環比下降 0.4%。紐西蘭電子卡零售名義銷售額 9 月同比上漲 0.9%。"
+    },
+    {
+      "id": "mkt:01a14186-9471-7ee0-a8a8-f6280cf2033b",
+      "time": "2026-10-16 05:45:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (MoM) (Sep) | actual 0% | previous 0.30%"
+    },
     {
       "id": "te:economy:592518",
       "time": "2026-10-16 05:43:06",
@@ -112763,57 +112781,6 @@
         "公司"
       ],
       "text": "週四（10月8日），美股資訊科技指數跌2.48%，報440.91點。成分股中，高意公司/相干公司Coherent收跌9.63%，ALAB、CoreWeave、IREN、NBIS、康寧公司GLW、Lumentum、甲骨文、英特爾、閃迪跌9.21%-4.9%緊隨其後，蘋果漲1.11%表現靠前，Palantir漲2.4%，MDB漲2.29%，Snowflake漲3.17%，Adobe漲3.56%，埃森哲漲5.96%。"
-    },
-    {
-      "id": "5133228",
-      "time": "2026-10-09 05:47:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "Striveworks：美國陸軍授予一份為期五年、價值2億美元的合同，以支援將經過驗證的人工智慧能力推廣至印太地區更多士兵和指揮官。"
-    },
-    {
-      "id": "5133227",
-      "time": "2026-10-09 05:46:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "三菱綜合材料將從越南採購鎢。"
-    },
-    {
-      "id": "5133226",
-      "time": "2026-10-09 05:45:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "道明銀行獲批迴購至多100億加元股票。"
-    },
-    {
-      "id": "te:markets:590614",
-      "time": "2026-10-09 05:45:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Copper Hits 26-week Low — Copper decreased to 5.58 USD/Lbs, the lowest since April 2026. Over the past 4 weeks, Copper lost 4.48%, and in the last 12 months, it increased 27.11%."
-    },
-    {
-      "id": "mkt:01a11d79-a26e-7ee0-a805-d265eb029f57",
-      "time": "2026-10-09 05:44:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reports U.S. and Ukrainian officials say a U.S. Middle East envoy and Jared Kushner will present new proposals on Friday in Miami aimed at ending the Russia-Ukraine war, including a partial ceasefire and a halt to strikes on energy infrastructure and grain shipments."
-    },
-    {
-      "id": "5133225",
-      "time": "2026-10-09 05:44:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "民調顯示，在總統第二輪選舉中，博索納羅支援率為49%，盧拉為45%。"
     }
   ]
 }
