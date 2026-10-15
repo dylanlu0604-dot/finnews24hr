@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16 05:51:56",
-  "count": 12350,
+  "updated": "2026-10-16 05:55:42",
+  "count": 12346,
   "items": [
     {
       "id": "mkt:01a1418c-8bc6-7ee0-a8a8-fee1bbd1d5e6",
@@ -112753,44 +112753,6 @@
         "其他"
       ],
       "text": "AXP Energy Ltd宣佈戰略收購Seven Well油氣資產組合。"
-    },
-    {
-      "id": "5133233",
-      "time": "2026-10-09 05:54:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會（FCC）針對“伊薩亞斯”啟動強制性災難響應計劃。"
-    },
-    {
-      "id": "5133232",
-      "time": "2026-10-09 05:53:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "FCC啟動“伊薩亞斯”災害資訊報告系統。"
-    },
-    {
-      "id": "5133231",
-      "time": "2026-10-09 05:52:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX盤後延續上漲勢頭，最新漲幅為2.8%。"
-    },
-    {
-      "id": "mkt:01a11d80-ad78-7ee0-a805-dfabeda05654",
-      "time": "2026-10-09 05:52:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "Datafolha poll shows Bolsonaro's son at 49% vs President Lula 45% in Brazil's presidential runoff."
     }
   ]
 }
