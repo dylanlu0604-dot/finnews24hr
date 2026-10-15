@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-16 02:58:33",
-  "count": 12389,
+  "updated": "2026-10-16 03:02:40",
+  "count": 12384,
   "items": [
+    {
+      "id": "mkt:01a140f1-07ef-7ee0-a8a6-f7d21d4c1512",
+      "time": "2026-10-16 03:01:40",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.88% at 24,274, trading 211 points above the cash index."
+    },
+    {
+      "id": "5148337",
+      "time": "2026-10-16 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.88%，報24275.30點，高水212.58點。"
+    },
     {
       "id": "5148336",
       "time": "2026-10-16 02:55:19",
@@ -113006,67 +113024,6 @@
         "MKT News"
       ],
       "text": "Effective today, ANTHROPIC's Claude Docs, Slides and Design features exit testing and are available on all plans, including the free tier."
-    },
-    {
-      "id": "5133100",
-      "time": "2026-10-09 03:02:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic推出網路安全計劃，旨在保障軟體和系統安全。"
-    },
-    {
-      "id": "mkt:01a11ce5-3b18-7ee0-a804-33b648b1843c",
-      "time": "2026-10-09 03:02:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "U.S. President Trump dismissed as \"fake news\" reports he invited enemies to bomb San Diego and Los Angeles, saying his point was that a short-term rise in gasoline prices caused by preventing Iran from acquiring a nuclear weapon would be a \"small price\" to pay."
-    },
-    {
-      "id": "5133099",
-      "time": "2026-10-09 03:01:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anaconda擴大與英特爾的合作協議，為企業提供安全解決方案。"
-    },
-    {
-      "id": "5133098",
-      "time": "2026-10-09 03:00:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Claude Dashboards已在付費套餐中進入測試階段，Claude Motion已在團隊和企業套餐中進入測試階段。"
-    },
-    {
-      "id": "5133097",
-      "time": "2026-10-09 03:00:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic：Claude Docs、Slides和Design已結束測試，現已登陸所有Claude套餐，包括免費版。"
-    },
-    {
-      "id": "5133096",
-      "time": "2026-10-09 03:00:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬賽警方：維克多·雨果高中一名教師在最新抗議活動中遇襲，已就此事提起刑事訴訟。"
-    },
-    {
-      "id": "5133095",
-      "time": "2026-10-09 03:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.15%，報23807.52點，高水21.73點。"
     }
   ]
 }

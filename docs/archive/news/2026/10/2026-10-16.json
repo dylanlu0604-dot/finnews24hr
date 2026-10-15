@@ -1,7 +1,25 @@
 {
   "date": "2026-10-16",
-  "count": 255,
+  "count": 257,
   "items": [
+    {
+      "id": "mkt:01a140f1-07ef-7ee0-a8a6-f7d21d4c1512",
+      "time": "2026-10-16 03:01:40",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.88% at 24,274, trading 211 points above the cash index."
+    },
+    {
+      "id": "5148337",
+      "time": "2026-10-16 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.88%，報24275.30點，高水212.58點。"
+    },
     {
       "id": "5148336",
       "time": "2026-10-16 02:55:19",
