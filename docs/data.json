@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-16 03:33:08",
-  "count": 12358,
+  "updated": "2026-10-16 03:36:54",
+  "count": 12356,
   "items": [
+    {
+      "id": "mkt:01a14110-1c04-7ee0-a8a7-3ef2fb32bc17",
+      "time": "2026-10-16 03:35:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's health minister said a Houthi attack on the Aden presidential palace complex killed 5 and wounded 16."
+    },
+    {
+      "id": "5148372",
+      "time": "2026-10-16 03:35:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門衛生部長稱，胡塞武裝襲擊亞丁總統府建築群，造成 5 人死亡、16 人受傷。"
+    },
+    {
+      "id": "5148371",
+      "time": "2026-10-16 03:35:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國肯德基：到 2027 年春季，全美所有門店將供應可口可樂產品。"
+    },
+    {
+      "id": "5148369",
+      "time": "2026-10-16 03:34:27",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國肯德基宣佈與可口可樂公司達成全新飲品合作。"
+    },
     {
       "id": "mkt:01a1410d-3446-7ee0-a8a7-3150004ec94f",
       "time": "2026-10-16 03:32:26",
@@ -112766,56 +112800,6 @@
         "其他"
       ],
       "text": "Kraken：正調查支付處理合作伙伴可能導致歐元和英鎊存提款延遲的問題。"
-    },
-    {
-      "id": "5133136",
-      "time": "2026-10-09 03:36:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "StriveWorks擴大與美國陸軍的合作，以推進戰場人工智慧。"
-    },
-    {
-      "id": "5133135",
-      "time": "2026-10-09 03:35:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝商所將於10月12日推出全球首個棒球期貨。"
-    },
-    {
-      "id": "mkt:01a11d03-2391-7ee0-a804-db38d32bd6e1",
-      "time": "2026-10-09 03:35:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ICI: US money-market fund assets rose to $7.96 tln."
-    },
-    {
-      "id": "mkt:01a11d02-94c1-7ee0-a804-d00d37ddd7ea",
-      "time": "2026-10-09 03:34:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazil's finance minister Durigan said the government faces no default risk and that debt rollovers are proceeding smoothly."
-    },
-    {
-      "id": "5133134",
-      "time": "2026-10-09 03:33:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "據兩名美國官員透露，特朗普政府正考慮使用船隻，包括一艘500英尺長的訓練船和渡輪，將移民遣送至中美洲和南美洲，航程可能持續數天，耗資數百萬美元。"
-    },
-    {
-      "id": "mkt:01a11d01-b228-7ee0-a804-cedc85aa4c59",
-      "time": "2026-10-09 03:33:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian outlet Fars News, citing Iraqi sources, reported explosions at a 'terrorist organization' stronghold in Erbil."
     }
   ]
 }
