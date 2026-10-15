@@ -1,7 +1,130 @@
 {
   "date": "2026-10-15",
-  "count": 1104,
+  "count": 1116,
   "items": [
+    {
+      "id": "te:markets:592182",
+      "time": "2026-10-15 12:43:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Falls Further on Tech Rout — The South Korean won traded around 1,347 per dollar, extending losses as the global semiconductor sell-off intensified risk aversion and prompted investors to retreat from the region's technology-heavy markets. Concerns over elevated AI valuations, high borrowing costs and the financing needs of massive AI infrastructure investments triggered a prolonged decline in US chip stocks, spilling over into South Korean equities and weighing on the currency. Foreign investors sold around $1.8 billion in KOSPI shares on Thursday morning alone, taking October outflows above $10 billion and increasing demand for dollars as capital exited local markets. Additionally, hotter-than-expected US inflation, with annual CPI reaching 3.7% in September against a 3.6% forecast, reinforced concerns over further Federal Reserve tightening, adding to uncertainty across financial markets. However, a pullback in US Treasury yields and oil prices help limit the won’s losses."
+    },
+    {
+      "id": "te:markets:592181",
+      "time": "2026-10-15 12:43:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Rebounds on Tech Gains — India’s BSE Sensex rose about 1.1% to 73,552 on Thursday, rebounding from prior session’s losses as strong HCLTech earnings lifted information technology stocks and investor sentiment. IT stocks outperformed the broader market, extending their recent rally on earnings-driven optimism. However, hotter-than-expected US inflation and the prospect of higher interest rates continued to weigh on risk appetite, while elevated oil prices and sustained foreign investor outflows remained key headwinds. Among stocks, IDBI Bank fell about 5.0% after Fairfax Financial Holdings received approval for its $5.56 billion acquisition of a controlling stake in the lender. Meanwhile, Jio Platforms set a price band of 1,065–1,119 rupees per share for its IPO, marking a significant development for India’s equity capital markets. Notable gainers included TCS (2.2%), Infosys (1.9%), HDFC Bank (0.8%), and Bharti Airtel (2.0%)."
+    },
+    {
+      "id": "5146680",
+      "time": "2026-10-15 12:42:45",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【GlobalFoundries根據美日協議獲得210億美元用於新建晶片工廠】GlobalFoundries Inc.計劃在日本政府高達210億美元的支援下新建兩座晶片工廠，作為協議的一部分，其中還包括美國持有該公司4%的股份。根據週三宣佈的一項協議，GlobalFoundries將在位於紐約州北部的地塊運營工廠，工廠由美國和日本共同擁有。工廠的資金將來自日本承諾的對美投資5500億美元。GlobalFoundries股價在紐約交易中一度上漲6.6%。截至週二收盤，該股今年以來累計上漲34%。"
+    },
+    {
+      "id": "5146679",
+      "time": "2026-10-15 12:42:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢2宗宅地2.65億元底價成交】10月15日，武漢2宗宅地出讓，總土地出讓面積36083.61平方米，總規劃建築面積50770.38平方米，總起始價2.65億元。最終2宗地塊均底價成交，總成交金額2.65億元。"
+    },
+    {
+      "id": "5146678",
+      "time": "2026-10-15 12:41:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澳大利亞一州批准該國最大風電專案】維多利亞州批准澳大利亞規模最大的風電場專案，為該國擴大可再生能源裝機、實現宏大氣候目標註入助力。州政府週四稱，規劃中的沃拉克納比爾能源公園裝機容量最高可達 1.5 吉瓦，能夠滿足維多利亞州未來約 12% 的電力需求。該專案仍需聯邦政府審批。澳大利亞正加速可再生能源領域投資，降低對煤炭的依賴，力爭到 2035 年實現最高 70% 的減排目標，在此背景下該專案獲批。政府同時設定目標，到 2030 年可再生能源發電量佔全國電力結構比重達到 82%，幾乎為當前水平的兩倍。公告顯示，沃拉克納比爾專案還將配套建設兩套 300 兆瓦電池儲能系統。"
+    },
+    {
+      "id": "mkt:01a13ddd-de8c-7ee0-a88f-f31abb1b0c09",
+      "time": "2026-10-15 12:41:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tianchen Co.: Energy-storage orders being filled and expanded within existing plant capacity】At its 1H2026 results briefing, Tianchen said its Fanchang production base has two PACK lines — one fully automated and one flexible — compatible with mainstream cell specifications and able to produce utility-scale, commercial & industrial, and residential storage concurrently. The company is executing and seeking to expand energy-storage orders based on current factory capacity."
+    },
+    {
+      "id": "5146677",
+      "time": "2026-10-15 12:41:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天宸股份：儲能業務正根據工廠現有產能落實和拓展訂單】天宸股份在2026年半年度業績說明會上表示，截至目前，天宸能科繁昌生產基地具有全自動和柔性兩條PACK生產線，可相容當前市場主流規格電芯，能夠同時生產大型儲能、工商業儲能、戶用儲能等多品類儲能產品。公司正根據工廠現有產能落實和拓展業務訂單。"
+    },
+    {
+      "id": "te:economy:592180",
+      "time": "2026-10-15 12:41:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "Japan Industrial Output Falls More than Initially Anticipated — Japan’s industrial production dropped 2.4% month-over-month in August 2026, steeper than flash data of a 1.7% decline and July's 0.2% fall. It was the second straight month of monthly contraction and the steepest pace since January, reflecting weaker output across key manufacturing sectors amid weak export demand. Output contracted for motor vehicles (-6.8% vs 0.8% in July), general-purpose and business-oriented machinery (-6.3% vs 1.9%), and petroleum and coal products (-13.3% vs 8.6%). In contrast, production rose for production machinery (5.9% vs 5.1%), and transport equipment excluding motor vehicles (2.5% vs -4.0%). On an annual basis, industrial output increased 2.7%, down from 3.9% in July, marking a third consecutive month of growth."
+    },
+    {
+      "id": "mkt:01a13ddd-0ce2-7ee0-a88f-ed2914d08c01",
+      "time": "2026-10-15 12:40:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "DRX.L",
+        "Impact bullish",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【European battery storage set for one of the most profitable winters as intraday power volatility nears 2022 levels】Short-term power-price volatility in Europe is approaching 2022 energy-crisis levels, creating heightened profit opportunities for battery storage operators. Energy-market disruptions linked to the Iran war have pushed natural gas to near four-year highs; when gas-fired plants are dispatched, electricity prices spike. Simultaneously, rapid expansion of wind and solar is producing deeper intraday price troughs, widening daily high-low spreads. About $40 bln of investment in European battery storage since the last crisis has materially expanded capacity, positioning the fleet to arbitrage these spreads this winter — a test of whether storage can cap spikes and reduce consumer bills. Drax commercial chief Paul Sheffield said colder weather and unpredictable wind have intensified intraday volatility, improving market conditions for battery storage."
+    },
+    {
+      "id": "mkt:01a13ddc-f3e2-7ee0-a88f-e4630353e459",
+      "time": "2026-10-15 12:40:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "TASS reported the Russian Defence Ministry said Russian forces struck Ukraine's Izmail port."
+    },
+    {
+      "id": "mkt:01a13ddc-f37e-7ee0-a88f-dcd09d04c048",
+      "time": "2026-10-15 12:40:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Huayin Electric Power sees H2 thermal generation improving; profitability exposed to coal prices and other external factors】At its 2026 interim results briefing, Huayin Electric Power said a June 2026 increase in Hunan thermal capacity tariffs supports its thermal business. With changes in water inflows in H2, thermal generation volumes are likely to improve, but profitability remains exposed to coal costs, electricity load and power-market prices, creating uncertainty. The company said it will tighten fuel-cost control, optimize power trading and pursue cost and efficiency measures to lift operating quality."
+    },
+    {
+      "id": "5146676",
+      "time": "2026-10-15 12:40:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華銀電力：下半年火電發電空間有望改善 但盈利水平仍受煤價等外部因素影響】華銀電力在2026年半年度業績說明會上表示，2026年6月起湖南火電容量電價上調，對火電業務形成支撐。下半年隨著來水形勢變化，火電發電空間有望改善，但盈利水平仍受煤價、用電負荷、電力市場價格等外部因素影響，存在不確定性。公司將強化燃料成本管控，最佳化電力交易，深挖降本增效潛力，全力提升經營質量。"
+    },
     {
       "id": "5146675",
       "time": "2026-10-15 12:39:19",
