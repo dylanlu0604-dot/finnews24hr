@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-16 03:10:18",
-  "count": 12369,
+  "updated": "2026-10-16 03:14:06",
+  "count": 12361,
   "items": [
+    {
+      "id": "5148345",
+      "time": "2026-10-16 03:13:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數15日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.49%，在匯市尾市收於102.055。截至紐約匯市尾市，1歐元兌換1.1212美元，高於前一交易日的1.1153美元；1英鎊兌換1.3272美元，高於前一交易日的1.3181美元。1美元兌換158.14日元，低於前一交易日的158.20日元；1美元兌換0.8271瑞士法郎，低於前一交易日的0.8345瑞士法郎；1美元兌換1.4190加元，低於前一交易日的1.4247加元；1美元兌換9.9597瑞典克朗，低於前一交易日的10.0321瑞典克朗。"
+    },
+    {
+      "id": "5148343",
+      "time": "2026-10-16 03:12:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國有關部門稱，英法海底隧道法國段發生大巴與列車相撞事故，造成 19 人受傷。"
+    },
+    {
+      "id": "te:markets:592507",
+      "time": "2026-10-16 03:11:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ProLogis Shares Hit 37-week Low — ProLogis shares decreased to 126.61 USD, the lowest since January 2026. Over the past 4 weeks, ProLogis lost 5.3%, and in the last 12 months, it increased 4.52%."
+    },
     {
       "id": "5148339",
       "time": "2026-10-16 03:04:49",
@@ -112798,100 +112826,6 @@
         "Emerging Markets"
       ],
       "text": "Brazil's finance minister Durigan said the rise in public debt is driven by interest payments rather than by the primary balance."
-    },
-    {
-      "id": "5133117",
-      "time": "2026-10-09 03:13:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "杜裡甘：我們承諾實現財政目標的中值，並實現不斷增長的初級盈餘。"
-    },
-    {
-      "id": "5133116",
-      "time": "2026-10-09 03:13:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝稱第三次襲擊沙特機場和空軍基地】葉門胡塞武裝當地時間8日發表宣告稱，當天晚間，胡塞武裝向沙特利雅得哈立德國王國際機場發射兩枚巡航導彈，同時向納季蘭機場發射一枚彈道導彈，並向海米斯穆謝特空軍基地發射一枚彈道導彈。這是胡塞武裝8日第三次發表宣告稱襲擊哈立德國王國際機場。胡塞武裝稱，上述襲擊均“精準命中目標”，導致利雅得和納季蘭兩座機場的航空執行受到影響，並稱機場及海米斯穆謝特空軍基地遭到破壞。胡塞武裝還表示，沙特過去24小時針對胡塞武裝控制區發動了59次空襲，目標涉及葉門首都薩那以及焦夫省、塔伊茲省、馬裡卜省、荷臺達省、哈傑省、薩達省、拉赫季省、賴馬省、伊卜省和貝達省。局勢升級以來沙特針對葉門胡塞武裝控制區的空襲和導彈襲擊已達1857次。 (央視新聞)"
-    },
-    {
-      "id": "mkt:01a11cef-280f-7ee0-a804-7b70cd5c1028",
-      "time": "2026-10-09 03:13:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources: US and Ukraine will discuss new ideas and proposals the US negotiator began drafting with Russian and Ukrainian counterparts during a recent regional visit."
-    },
-    {
-      "id": "mkt:01a11cee-d88e-7ee0-a804-74caee157b1d",
-      "time": "2026-10-09 03:12:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources: U.S. special envoy for the Middle East Witkoff and Jared Kushner will hold a working meeting with Ukrainian representatives in Miami on Friday."
-    },
-    {
-      "id": "5133115",
-      "time": "2026-10-09 03:12:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長杜裡甘：公共債務的增加源於利息支付，而非我們的基本財政餘額。"
-    },
-    {
-      "id": "mkt:01a11cee-ad14-7ee0-a804-6d523da1e5c7",
-      "time": "2026-10-09 03:12:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. State Department approved a potential sale to Australia of a Tomahawk capability development project, estimated at $300 million."
-    },
-    {
-      "id": "5133114",
-      "time": "2026-10-09 03:12:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，美國談判代表近期在出訪該地區期間已開始與俄羅斯和烏克蘭方面共同擬定新的思路與提案，雙方將對這些內容進行討論。"
-    },
-    {
-      "id": "te:markets:590605",
-      "time": "2026-10-09 03:12:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "HCA Shares Hit 23-week High — HCA shares increased to 446.37 USD, the highest since April 2026. Over the past 4 weeks, HCA gained 5.75%, and in the last 12 months, it increased 6.5%."
-    },
-    {
-      "id": "5133113",
-      "time": "2026-10-09 03:11:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "訊息人士稱，維特科夫、庫什納將於週五在邁阿密與烏克蘭代表舉行工作會晤。"
-    },
-    {
-      "id": "5133111",
-      "time": "2026-10-09 03:11:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西財長杜裡甘：市場對博索納羅可能執政抱有廉價而空洞的幻想。"
-    },
-    {
-      "id": "5133110",
-      "time": "2026-10-09 03:10:54",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：批准向澳大利亞出售戰斧導彈能力開發專案，估計價值3億美元。"
     }
   ]
 }
