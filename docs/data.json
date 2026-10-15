@@ -1,7 +1,56 @@
 {
-  "updated": "2026-10-15 08:39:49",
-  "count": 12026,
+  "updated": "2026-10-15 08:43:34",
+  "count": 12023,
   "items": [
+    {
+      "id": "te:markets:592084",
+      "time": "2026-10-15 08:41:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tokyo Electron Shares Hit Near 6-year Low — Tokyo Electron shares decreased to 10570.00 JPY, the lowest since November 2020. Over the past 4 weeks, Tokyo Electron lost 79.51%, and in the last 12 months, it decreased 64.99%."
+    },
+    {
+      "id": "mkt:01a13d01-529f-7ee0-a888-c50275735b32",
+      "time": "2026-10-15 08:40:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Dolenc said he currently sees no second-round effects in inflation, the labour market is less tight, and the ECB must remain vigilant on inflation data as it moves toward a restrictive monetary policy stance."
+    },
+    {
+      "id": "mkt:01a13d01-41d8-7ee0-a888-b9c09307abae",
+      "time": "2026-10-15 08:40:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Stocks selloff dents risk appetite; US Treasuries rally across the curve】Thursday Asian morning US Treasuries rallied across the curve: 10-year yield fell 4bps to 5.14%; the policy-sensitive 2-year also eased; 30-year, which had been heavily sold amid inflation and fiscal worries, declined as well. ITC Markets senior analyst Kit Lowe said the market has reverted to a safe‑haven pattern of buying sovereign bonds on equity sell‑offs. Hotter-than-expected US inflation data sparked the stock selloff and renewed demand for bonds. Asset managers including PIMCO have recently advised increasing bond allocations after sell‑offs."
+    },
+    {
+      "id": "5145871",
+      "time": "2026-10-15 08:39:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委、斯洛維尼亞央行行長Primoz Dolenc：勞動力市場不再那麼緊俏。必須對通脹資料保持警惕。我們正在邁向限制性貨幣政策立場。"
+    },
     {
       "id": "5145869",
       "time": "2026-10-15 08:38:57",
@@ -109630,77 +109679,6 @@
         "公司"
       ],
       "text": "【英偉達支援的澳大利亞資料中心企業 Firmus結束簿記建檔】據知情人士透露，受投資者越來越擔心本次發行可能取消的影響，澳大利亞資料中心企業 Firmus Grid Ltd. 已結束本次遇冷的 IPO 簿記建檔工作。不願具名的知情人士稱，簿記建檔於週四早間在澳大利亞按計劃收官，尚未明確發行價與交易架構。本次交易尚屬非公開階段。Firmus 的代表暫未立即置評。這家獲得英偉達投資的企業計劃募資 55 億美元（含綠鞋期權），是澳大利亞史上規模最大的 IPO 之一。有報道稱，公司向潛在投資者推介的發行價為每股 11 澳元，但未能獲得足夠認購支援，簿記建檔在此背景下結束。該定價對應的估值為 437 億澳元（摺合 304 億美元）。知情人士表示，原本簿記建檔截止日為週五，在前期認購意向遠超發行規模的訊號出現後，提前至週四結束。但知情人士稱，部分潛在投資者態度轉向謹慎，擔憂現有股東或會在公司上市後迅速大量拋售股票。投資者表示，這部分潛在拋壓疊加偏高的定價策略，進一步加劇市場顧慮。"
-    },
-    {
-      "id": "mkt:01a118f6-97b0-7ee0-a7e3-f8f0fc97de9c",
-      "time": "2026-10-08 08:42:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nikkei 225",
-        "Impact bearish",
-        "S&P500",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Inflation worries hit cyclicals; Japanese stocks fall】Japanese stocks fell for a second session as a Wall Street sell-off and rising oil renewed inflation concerns; equities had been trading near record highs. Cyclical sectors led losses, notably trading houses, banks and materials. Nomura senior strategist Takashi Ito said AI and semiconductor names, plus steelmakers and nonferrous-metal producers, could remain under selling pressure. He added that solid domestic corporate earnings prospects should cap declines, making a repeat of Wednesday’s sharp sell-off unlikely."
-    },
-    {
-      "id": "5130884",
-      "time": "2026-10-08 08:42:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率下跌1.5個基點至1.930%。"
-    },
-    {
-      "id": "5130883",
-      "time": "2026-10-08 08:41:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天風證券：SOFC優勢進一步強化，成長天花板或被低估】天風證券研報稱，看好SOFC（固體氧化物燃料電池）主機廠商。SOFC交期短、清潔環保、預製化、適配800V DC的優勢進一步強化，Bloom Energy新增產房儲備，預計出貨量有望上修。中長期SOFC的降本路徑比較清晰、降本空間較大，未來有望替代燃機，天花板或高於市場預期。"
-    },
-    {
-      "id": "mkt:01a118f5-1655-7ee0-a7e3-f6f8c83d563d",
-      "time": "2026-10-08 08:41:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【UBTech, FAW-Volkswagen sign strategic partnership on humanoid robots】UBTech said it has entered a strategic partnership with FAW-Volkswagen Automotive Co., Ltd. to jointly develop and test embodied-intelligence robots for logistics, build demonstration use cases, and accelerate deployment of humanoid robots and smart-manufacturing solutions in China."
-    },
-    {
-      "id": "5130882",
-      "time": "2026-10-08 08:40:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：印度正考慮為棉紗設定出口最低限價。"
-    },
-    {
-      "id": "mkt:01a118f4-268f-7ee0-a7e3-ef352514b901",
-      "time": "2026-10-08 08:40:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei index fell as much as 1.00% intraday."
-    },
-    {
-      "id": "5130881",
-      "time": "2026-10-08 08:39:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數下跌1%，至69331.28點。"
     }
   ]
 }
