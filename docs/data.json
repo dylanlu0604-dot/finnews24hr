@@ -1,7 +1,214 @@
 {
-  "updated": "2026-10-15 13:30:11",
-  "count": 12227,
+  "updated": "2026-10-15 13:34:01",
+  "count": 12241,
   "items": [
+    {
+      "id": "mkt:01a13e0d-3d47-7ee0-a891-0405f9e2dec6",
+      "time": "2026-10-15 13:33:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TSMC (TSM.N) Q3 high-performance computing revenue rose 22% QoQ."
+    },
+    {
+      "id": "mkt:01a13e0d-0c53-7ee0-a890-ff30b9e4754e",
+      "time": "2026-10-15 13:33:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "International front-month copper contract fell more than 2.0 pct intraday, trading at 97,330 yuan/ton."
+    },
+    {
+      "id": "5146754",
+      "time": "2026-10-15 13:33:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上期所：倫敦金屬交易所將於本月上市熱卷期貨相關合約產品】在中國金融期貨交易所、上海期貨交易所合作舉辦的2026上海衍生品市場論壇上，上海期貨交易所黨委書記、理事長田向陽在致辭中表示，“上海價格”的境外應用進一步拓展。田向陽表示，上期所已將熱軋卷板期貨價格授權至倫敦金屬交易所，這是上期所對外輸出的第三個“上海價格”，倫敦金屬交易所將於本月上市相關合約產品。（新華財經）"
+    },
+    {
+      "id": "mkt:01a13e0c-d399-7ee0-a890-f6708d6af2d3",
+      "time": "2026-10-15 13:33:10",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【PILL: BoE rate hike should not signal renewed sustained tightening cycle】PILL, the Bank of England's chief economist, said on Thursday at an IMF meeting in Bangkok that investors should not interpret any future rate increase as the start of a renewed, stepwise tightening cycle like 2022–23, saying the current shock is different. He warned of a possible “hidden catch‑up effect” in which rising prices prompt higher wage demands and could sustain inflation, and said policy may need to remain restrictive for longer to counter that risk."
+    },
+    {
+      "id": "5146753",
+      "time": "2026-10-15 13:33:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上期所：倫敦金屬交易所將於本月上市熱卷期貨相關合約產品】在中國金融期貨交易所、上海期貨交易所合作舉辦的2026上海衍生品市場論壇上，上海期貨交易所黨委書記、理事長田向陽在致辭中表示，“上海價格”的境外應用進一步拓展。田向陽表示，上期所已將熱軋卷板期貨價格授權至倫敦金屬交易所，這是上期所對外輸出的第三個“上海價格”，倫敦金屬交易所將於本月上市相關合約產品。（新華財經）"
+    },
+    {
+      "id": "mkt:01a13e0c-c416-7ee0-a890-e87948a7367a",
+      "time": "2026-10-15 13:33:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI fell below 5,500 points, down 8.47% intraday."
+    },
+    {
+      "id": "mkt:01a13e0c-b423-7ee0-a890-e3c23a3cb0bb",
+      "time": "2026-10-15 13:33:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) Q3 gross margin 66.4%, up 690 bps YoY."
+    },
+    {
+      "id": "5146752",
+      "time": "2026-10-15 13:32:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第三季度營業利潤8,764.5億元臺幣，預估8,543.5億元臺幣。"
+    },
+    {
+      "id": "mkt:01a13e0c-66ee-7ee0-a890-dbce5cc0409d",
+      "time": "2026-10-15 13:32:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) reported Q3 2026 revenue of NT$1.494 trillion, up from NT$989.92 billion a year earlier."
+    },
+    {
+      "id": "5146751",
+      "time": "2026-10-15 13:32:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第三季度銷售額1.49萬億元臺幣，預估1.46萬億元臺幣。"
+    },
+    {
+      "id": "mkt:01a13e0b-eadc-7ee0-a890-d4795e5e2162",
+      "time": "2026-10-15 13:32:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【SHFE to advance R&D on power and other strategic foundational products】At the 2026 Shanghai Derivatives Market Forum co‑hosted by the China Financial Futures Exchange and SHFE, Shanghai Futures Exchange chairman Tian Xiangyang said SHFE will deepen its metals, energy and shipping product suites, press to list LNG and corrugated‑paper futures and options, and advance R&D on strategic foundational products such as electricity. The exchange will also strengthen cross‑border service capacity and expand use cases for Shanghai benchmark prices."
+    },
+    {
+      "id": "mkt:01a13e0b-d58e-7ee0-a890-ce1ecfe400cc",
+      "time": "2026-10-15 13:32:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Shanghai Futures Exchange says LME to list hot-rolled coil futures contracts this month】Shanghai Futures Exchange said it has authorized its hot-rolled coil (HRC) futures price for use on the London Metal Exchange, the third \"Shanghai price\" exported overseas; the LME will list related contracts this month."
+    },
+    {
+      "id": "5146750",
+      "time": "2026-10-15 13:31:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌4%，現報6596.20點。"
+    },
+    {
+      "id": "mkt:01a13e0b-302e-7ee0-a890-c2b2a7bc0668",
+      "time": "2026-10-15 13:31:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver most-active contract fell 6.00% intraday, now at 13,564.00 yuan/kg."
+    },
+    {
+      "id": "5146749",
+      "time": "2026-10-15 13:31:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌6%，現報13564.00元。"
+    },
+    {
+      "id": "5146748",
+      "time": "2026-10-15 13:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電 第三季度毛利率66.4％，預估66.5％。"
+    },
+    {
+      "id": "mkt:01a13e0a-b1a6-7ee0-a890-b96e045d35ec",
+      "time": "2026-10-15 13:30:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) Q3 2026 net profit NT$763.1 billion, versus NT$452.3 billion a year earlier; market consensus NT$746.3 billion."
+    },
+    {
+      "id": "5146747",
+      "time": "2026-10-15 13:30:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度汽車工業協會SIAM：印度9月國內乘用車總銷量為454574輛。"
+    },
+    {
+      "id": "5146746",
+      "time": "2026-10-15 13:30:20",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "臺積電 第三季度淨利潤7,631億元臺幣，預估7,394.9億元臺幣。"
+    },
+    {
+      "id": "te:markets:592191",
+      "time": "2026-10-15 13:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 2.40% — Top crypto losers are Ether (-2.40%), XRP (-1.98%), Binance (-1.48%) and Bitcoin (-0.64%)."
+    },
+    {
+      "id": "5146745",
+      "time": "2026-10-15 13:30:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "瑞典私募巨頭EQT同意以3.75億美元收購美國房地產管理公司Stockbridge。"
+    },
     {
       "id": "5146743",
       "time": "2026-10-15 13:28:35",
@@ -111428,70 +111635,6 @@
         "其他"
       ],
       "text": "臺積電前9月累計銷售額3.90萬億元臺幣，同比增長41.4％。"
-    },
-    {
-      "id": "te:economy:590394",
-      "time": "2026-10-08 13:33:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Indonesia Consumer Morale Eases in September — Indonesia’s consumer confidence index declined to 118.1 in September 2026 from August's three-month high of 118.5. The decline was largely due to lower assessments of current economic conditions, which fell by 1.9 points to a 12-month low of 107.5. Meanwhile, perceptions of job availability over the past six months dropped by 3.0 points to 101.1. At the same time, expectations for business activity decreased by 0.6 points to 121.5. By contrast, sentiment toward durable goods purchases increased by 0.6 points to 106.7. Meanwhile, expectations for income over the next six months climbed by 2.0 points to 136.9. On the other hand, expectations regarding job availability also rose by 2.0 points to 127.7."
-    },
-    {
-      "id": "5131371",
-      "time": "2026-10-08 13:33:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO概念股午後進一步下挫，天孚通訊跌超10%】CPO概念股午後進一步下挫，天孚通訊跌超10%，沃格光電午後跌停，長光華芯、源傑科技、東山精密等股此前跌停。"
-    },
-    {
-      "id": "5131370",
-      "time": "2026-10-08 13:31:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞9月底外匯儲備為1097.2億澳元。"
-    },
-    {
-      "id": "5131369",
-      "time": "2026-10-08 13:31:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲11%，現報5782.00元。"
-    },
-    {
-      "id": "5131368",
-      "time": "2026-10-08 13:30:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電第三季度累計銷售額為1.49萬億臺幣。"
-    },
-    {
-      "id": "5131367",
-      "time": "2026-10-08 13:30:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達2.02%，成分股中，戈碧迦跌9.87%，錦波生物跌7.22%，蘅東光跌6.27%，凱德石英跌5.40%。"
-    },
-    {
-      "id": "5131366",
-      "time": "2026-10-08 13:30:16",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "臺積電 9月銷售額5,118.6億元臺幣，同比增長54.6%。"
     }
   ]
 }
