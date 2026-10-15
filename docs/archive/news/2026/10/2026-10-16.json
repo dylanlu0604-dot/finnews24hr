@@ -1,7 +1,30 @@
 {
   "date": "2026-10-16",
-  "count": 437,
+  "count": 439,
   "items": [
+    {
+      "id": "te:markets:592525",
+      "time": "2026-10-16 06:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Palm Oil Falls by 2.21% — Top commodity losers are Palm Oil (-2.21%), Canola (-1.27%) and Soybeans (-1.12%). Gains are led by Sugar (1.35%)."
+    },
+    {
+      "id": "te:economy:592524",
+      "time": "2026-10-16 06:37:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Credit Card Spending",
+        "Importance 1"
+      ],
+      "text": "New Zealand Electronic Card Spending Falls 0.4% in September — Seasonally adjusted electronic card transactions in New Zealand fell 0.4% month-on-month in September 2026, following a 0.9% drop in the previous month. The smaller decline came as spending on consumables (0.3% vs -0.4% in August) and motor vehicles (0.6% vs -0.3%) both rebounded, while spending on fuel rose at a faster pace (2.9% vs 1.3%). These gains were offset by declines in spending on hospitality (-2.3% vs -1.9% in August), durables (-0.5% vs -1.6%), and apparel (-2.0% vs -2.0%). On an annual basis, total electronic card spending rose 0.9%, accelerating from a 0.2% gain in August, which was the softest increase since December 2025."
+    },
     {
       "id": "5148481",
       "time": "2026-10-16 06:36:23",
