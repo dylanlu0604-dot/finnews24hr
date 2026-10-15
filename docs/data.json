@@ -1,7 +1,60 @@
 {
-  "updated": "2026-10-15 22:54:54",
-  "count": 12345,
+  "updated": "2026-10-15 22:58:51",
+  "count": 12337,
   "items": [
+    {
+      "id": "5148035",
+      "time": "2026-10-15 22:58:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩名政府官員透露，亞丁總統府遭導彈襲擊，兩名保安身亡。"
+    },
+    {
+      "id": "te:markets:592455",
+      "time": "2026-10-15 22:57:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Extends Slide — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, slumped about 4.6% to its lowest since june 30 at 2,545 points on Thursday, marking the ninth consecutive session of declines. Downward pressure conti ued to come from larger vessel segments. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, plunged 8.5% to its lowest since early April at 3.322 points; and the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, slumped by 2.2% to 2,356 points. Among smaller vessels, the supramax index rose by 0.6% to 1,856 points."
+    },
+    {
+      "id": "mkt:01a14010-d327-7ee0-a8a2-0df6b4ea6737",
+      "time": "2026-10-15 22:56:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an early warning that the Najran region may face a threat."
+    },
+    {
+      "id": "5148034",
+      "time": "2026-10-15 22:56:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯表示，已就納季蘭可能存在的危險釋出警告。"
+    },
+    {
+      "id": "5148033",
+      "time": "2026-10-15 22:55:03",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "迪士尼股價連續第10個交易日上漲，創下2013年以來最長連漲紀錄。"
+    },
+    {
+      "id": "5148032",
+      "time": "2026-10-15 22:54:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門青年部長：胡塞武裝襲擊後，政府成員不會離開亞丁。"
+    },
     {
       "id": "5148031",
       "time": "2026-10-15 22:52:31",
@@ -112524,127 +112577,6 @@
         "Brent"
       ],
       "text": "【Ukraine State Emergency Service: Kramatorsk attack kills 33】Ukraine's State Emergency Service said on social media on the 8th that Russian forces struck the eastern city of Kramatorsk, killing 33 and wounding 18. A passenger bus in the city was hit and caught fire, killing 30 people aboard; the blaze spread to two nearby buses. The service said three local residents were also killed."
-    },
-    {
-      "id": "5132809",
-      "time": "2026-10-08 22:58:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "Adobe股價轉跌。"
-    },
-    {
-      "id": "5132808",
-      "time": "2026-10-08 22:58:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：“龍”飛船的離軌制動已完成，非加壓貨艙已拋棄。"
-    },
-    {
-      "id": "5132807",
-      "time": "2026-10-08 22:57:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯談H-1B簽證：希望引進擁有超級專業化技能的勞動者。"
-    },
-    {
-      "id": "mkt:01a11c04-b7be-7ee0-a7fd-f49de06dbbb7",
-      "time": "2026-10-08 22:57:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "UKMTO said a crude oil tanker was struck by an unidentified projectile on Oct 6."
-    },
-    {
-      "id": "mkt:01a11c04-6055-7ee0-a7fd-ecc11fd68306",
-      "time": "2026-10-08 22:56:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. is investigating Harvard University, Yale University, Stanford University and Brown University over J-1 visa matters."
-    },
-    {
-      "id": "5132806",
-      "time": "2026-10-08 22:56:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏國家緊急情況局：克拉馬托爾斯克遭襲致33人死亡】烏克蘭國家緊急情況局8日在社交媒體發文稱，烏東部城市克拉馬托爾斯克當天遭俄軍襲擊，造成33人死亡、18人受傷。（新華社）"
-    },
-    {
-      "id": "5132805",
-      "time": "2026-10-08 22:56:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：美國不是為世界其他地區提供就業的專案——我們創造這些就業是為了美國人。"
-    },
-    {
-      "id": "mkt:01a11c03-a562-7ee0-a7fd-e24352cd21b6",
-      "time": "2026-10-08 22:56:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said Commander Adm. Brad Cooper thanked industry leaders and other U.S. government agencies for ongoing support and acknowledged civilian mariners' sacrifices after unprovoked Iranian attacks."
-    },
-    {
-      "id": "mkt:01a11c03-57f1-7ee0-a7fd-dc0c403a4127",
-      "time": "2026-10-08 22:55:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said meeting attendees stressed that rising commercial shipping traffic is strengthening momentum for freedom of navigation."
-    },
-    {
-      "id": "mkt:01a11c03-33f8-7ee0-a7fd-d04b1b838755",
-      "time": "2026-10-08 22:55:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "UKMTO said on Oct 6 it received a delayed report of an incident in the Strait of Hormuz."
-    },
-    {
-      "id": "5132804",
-      "time": "2026-10-08 22:55:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易行動辦公室：10月6日，一艘原油油輪被不明發射物擊中。"
-    },
-    {
-      "id": "5132803",
-      "time": "2026-10-08 22:55:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國調查哈佛大學、耶魯大學、斯坦福大學和布朗大學J-1簽證事宜。"
-    },
-    {
-      "id": "5132802",
-      "time": "2026-10-08 22:54:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國調查加州理工學院、亞利桑那州立大學和麻省理工學院的J-1簽證事宜。"
-    },
-    {
-      "id": "mkt:01a11c02-9ff9-7ee0-a7fd-cf7a550b22bd",
-      "time": "2026-10-08 22:54:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM briefed international maritime partners today on conditions in the Strait of Hormuz."
     }
   ]
 }
