@@ -1,7 +1,93 @@
 {
   "date": "2026-10-15",
-  "count": 2296,
+  "count": 2306,
   "items": [
+    {
+      "id": "mkt:01a13fff-f895-7ee0-a8a1-e73c13e4f51d",
+      "time": "2026-10-15 22:38:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports Ukraine has exhausted its supply of Patriot air‑defense missiles."
+    },
+    {
+      "id": "5148010",
+      "time": "2026-10-15 22:37:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅出席亞洲相互協作與信任措施會議第七次峰會】\n當地時間2026年10月15日，習近平主席特別代表、中共中央政治局委員、外交部長王毅在巴庫出席亞洲相互協作與信任措施會議第七次峰會並發表講話。（外交部）"
+    },
+    {
+      "id": "te:markets:592449",
+      "time": "2026-10-15 22:37:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "PNC Shares Hit 22-week Low — PNC shares decreased to 210.01 USD, the lowest since May 2026. Over the past 4 weeks, PNC lost 10.21%, and in the last 12 months, it increased 18.57%."
+    },
+    {
+      "id": "5148009",
+      "time": "2026-10-15 22:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：烏克蘭愛國者防空導彈已耗盡，抵禦俄襲擊能力下降】知情人士週四透露，烏克蘭的美製“愛國者”防空系統配套導彈已經耗盡，該國抵禦俄羅斯彈道導彈打擊的能力因此變得更加薄弱。 數月來，烏克蘭總統弗拉基米爾·澤連斯基反覆警告，本國的美製“愛國者”攔截導彈庫存即將告急。該型導彈是為數不多能夠攔截彈道導彈的防禦武器之一。 但這類攔截導彈造價高昂，且全球供應緊張。一方面其他國家的儲備已經消耗殆盡；另一方面，受伊朗局勢影響，不少國家正加緊充實自身防空儲備。"
+    },
+    {
+      "id": "5148008",
+      "time": "2026-10-15 22:36:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "NEBIUS 股價延續跌勢，觸及 2026 年 7 月以來最低水平；最新跌幅達 9.5%。"
+    },
+    {
+      "id": "5148007",
+      "time": "2026-10-15 22:36:07",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國PPI創2022年以來最大升幅 能源衝擊持續傳導】美國9月生產者價格以逾四年來最快速度上漲，能源成本上升的影響進一步在經濟中傳導。美國勞工統計局週四公佈的資料顯示，9月生產者價格指數(PPI)環比上漲1.3%，創2022年3月以來最大升幅；同比上漲6.3%。剔除食品和能源後，核心PPI環比上漲0.7%，同比上漲5%。兩者均超出接受彭博調查的所有經濟學家預期。這份報告顯示，在燃料價格上漲的同時，核心通脹壓力仍然堅挺。11月中期選舉臨近，生活成本問題正成為選民關注的核心議題。報告也可能令美聯儲官員未來數月維持進一步加息的路徑，尤其是在週三另一份報告顯示，9月一項關鍵消費者價格指標漲幅高於預期之後。"
+    },
+    {
+      "id": "te:economy:592448",
+      "time": "2026-10-15 22:35:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise Less Than Expected — US natural gas inventories increased by 67 billion cubic feet in the week ending October 9, falling short of market expectations for a 76 bcf build and marking a slowdown from the previous week’s 85 bcf injection. The latest addition was also smaller than the 80 bcf recorded during the same period last year and the five-year seasonal average of 90 bcf. Despite the below-forecast increase, total gas in storage rose to 3.567 trillion cubic feet. Inventories were 3.9% lower than a year earlier but remained 1.3% above the average for this time of year over the 2021–2025 period."
+    },
+    {
+      "id": "mkt:01a13ffd-50b2-7ee0-a8a1-db8ea381a16a",
+      "time": "2026-10-15 22:35:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【People familiar with the matter: EU begins assessing import surges】People familiar with the matter said the European Commission has begun analyzing trade data to monitor import surges as a first step toward potentially imposing import quotas on additional foreign industries. The commission is reviewing multiple sectors, including chemicals and machinery. If it finds surges, it could adopt safeguard measures such as quantitative import limits. No timetable has been set for any new safeguards, the sources said."
+    },
+    {
+      "id": "5148006",
+      "time": "2026-10-15 22:34:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥總統辛鮑姆表示，Televisa 和金融科技控股公司收購墨西哥 AT&T 子公司將有助於墨西哥的競爭和網際網路服務。"
+    },
     {
       "id": "5148005",
       "time": "2026-10-15 22:34:09",
@@ -106,6 +192,14 @@
         "公司"
       ],
       "text": "【胡塞武裝再次警告航空公司沙特領空和機場不安全】當地時間10月15日，葉門胡塞武裝發表宣告稱，沙特方面對葉門發動的空襲已持續多年，過去12年來累計發動空襲超過27.4萬次，並造成多起人員傷亡事件。宣告指責沙特方面實施多種軍事行動，造成嚴重後果。宣告稱，自沙特方面恢復軍事行動並升級對葉門的軍事打擊以來，已發動超過2350次空襲和導彈襲擊。宣告表示，葉門胡塞武裝此前已多次向航空及航運公司發出警告，稱沙特領空及機場存在安全風險，但麥加和麥地那聖地上空除外。宣告再次發出相關警告，並稱葉門胡塞武裝具備採取對等反制行動的能力。宣告還稱，葉門胡塞武裝方面的相關行動屬於防禦性質，並表示，在沙特方面停止對葉門的軍事行動和封鎖之前，將保留採取反制行動的權利。（央視新聞）"
+    },
+    {
+      "id": "5147995",
+      "time": "2026-10-15 22:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞足聯主席：如有必要，2027亞洲盃或延期一年】據法新社報道，亞足聯主席薩爾曼14日在瑞士蘇黎世接受採訪時表示，亞足聯正密切關注沙烏地阿拉伯局勢，如有必要，原定於明年初在沙特舉行的亞洲盃足球賽可推遲到2028年。（央視新聞）"
     },
     {
       "id": "em:jjsj_mgsj:202610153897244044",

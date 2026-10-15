@@ -1,7 +1,93 @@
 {
-  "updated": "2026-10-15 22:34:58",
-  "count": 12379,
+  "updated": "2026-10-15 22:39:00",
+  "count": 12373,
   "items": [
+    {
+      "id": "mkt:01a13fff-f895-7ee0-a8a1-e73c13e4f51d",
+      "time": "2026-10-15 22:38:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports Ukraine has exhausted its supply of Patriot air‑defense missiles."
+    },
+    {
+      "id": "5148010",
+      "time": "2026-10-15 22:37:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅出席亞洲相互協作與信任措施會議第七次峰會】\n當地時間2026年10月15日，習近平主席特別代表、中共中央政治局委員、外交部長王毅在巴庫出席亞洲相互協作與信任措施會議第七次峰會並發表講話。（外交部）"
+    },
+    {
+      "id": "te:markets:592449",
+      "time": "2026-10-15 22:37:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "PNC Shares Hit 22-week Low — PNC shares decreased to 210.01 USD, the lowest since May 2026. Over the past 4 weeks, PNC lost 10.21%, and in the last 12 months, it increased 18.57%."
+    },
+    {
+      "id": "5148009",
+      "time": "2026-10-15 22:37:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：烏克蘭愛國者防空導彈已耗盡，抵禦俄襲擊能力下降】知情人士週四透露，烏克蘭的美製“愛國者”防空系統配套導彈已經耗盡，該國抵禦俄羅斯彈道導彈打擊的能力因此變得更加薄弱。 數月來，烏克蘭總統弗拉基米爾·澤連斯基反覆警告，本國的美製“愛國者”攔截導彈庫存即將告急。該型導彈是為數不多能夠攔截彈道導彈的防禦武器之一。 但這類攔截導彈造價高昂，且全球供應緊張。一方面其他國家的儲備已經消耗殆盡；另一方面，受伊朗局勢影響，不少國家正加緊充實自身防空儲備。"
+    },
+    {
+      "id": "5148008",
+      "time": "2026-10-15 22:36:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "NEBIUS 股價延續跌勢，觸及 2026 年 7 月以來最低水平；最新跌幅達 9.5%。"
+    },
+    {
+      "id": "5148007",
+      "time": "2026-10-15 22:36:07",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國PPI創2022年以來最大升幅 能源衝擊持續傳導】美國9月生產者價格以逾四年來最快速度上漲，能源成本上升的影響進一步在經濟中傳導。美國勞工統計局週四公佈的資料顯示，9月生產者價格指數(PPI)環比上漲1.3%，創2022年3月以來最大升幅；同比上漲6.3%。剔除食品和能源後，核心PPI環比上漲0.7%，同比上漲5%。兩者均超出接受彭博調查的所有經濟學家預期。這份報告顯示，在燃料價格上漲的同時，核心通脹壓力仍然堅挺。11月中期選舉臨近，生活成本問題正成為選民關注的核心議題。報告也可能令美聯儲官員未來數月維持進一步加息的路徑，尤其是在週三另一份報告顯示，9月一項關鍵消費者價格指標漲幅高於預期之後。"
+    },
+    {
+      "id": "te:economy:592448",
+      "time": "2026-10-15 22:35:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise Less Than Expected — US natural gas inventories increased by 67 billion cubic feet in the week ending October 9, falling short of market expectations for a 76 bcf build and marking a slowdown from the previous week’s 85 bcf injection. The latest addition was also smaller than the 80 bcf recorded during the same period last year and the five-year seasonal average of 90 bcf. Despite the below-forecast increase, total gas in storage rose to 3.567 trillion cubic feet. Inventories were 3.9% lower than a year earlier but remained 1.3% above the average for this time of year over the 2021–2025 period."
+    },
+    {
+      "id": "mkt:01a13ffd-50b2-7ee0-a8a1-db8ea381a16a",
+      "time": "2026-10-15 22:35:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【People familiar with the matter: EU begins assessing import surges】People familiar with the matter said the European Commission has begun analyzing trade data to monitor import surges as a first step toward potentially imposing import quotas on additional foreign industries. The commission is reviewing multiple sectors, including chemicals and machinery. If it finds surges, it could adopt safeguard measures such as quantitative import limits. No timetable has been set for any new safeguards, the sources said."
+    },
+    {
+      "id": "5148006",
+      "time": "2026-10-15 22:34:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "墨西哥總統辛鮑姆表示，Televisa 和金融科技控股公司收購墨西哥 AT&T 子公司將有助於墨西哥的競爭和網際網路服務。"
+    },
     {
       "id": "5148005",
       "time": "2026-10-15 22:34:09",
@@ -106,6 +192,14 @@
         "公司"
       ],
       "text": "【胡塞武裝再次警告航空公司沙特領空和機場不安全】當地時間10月15日，葉門胡塞武裝發表宣告稱，沙特方面對葉門發動的空襲已持續多年，過去12年來累計發動空襲超過27.4萬次，並造成多起人員傷亡事件。宣告指責沙特方面實施多種軍事行動，造成嚴重後果。宣告稱，自沙特方面恢復軍事行動並升級對葉門的軍事打擊以來，已發動超過2350次空襲和導彈襲擊。宣告表示，葉門胡塞武裝此前已多次向航空及航運公司發出警告，稱沙特領空及機場存在安全風險，但麥加和麥地那聖地上空除外。宣告再次發出相關警告，並稱葉門胡塞武裝具備採取對等反制行動的能力。宣告還稱，葉門胡塞武裝方面的相關行動屬於防禦性質，並表示，在沙特方面停止對葉門的軍事行動和封鎖之前，將保留採取反制行動的權利。（央視新聞）"
+    },
+    {
+      "id": "5147995",
+      "time": "2026-10-15 22:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【亞足聯主席：如有必要，2027亞洲盃或延期一年】據法新社報道，亞足聯主席薩爾曼14日在瑞士蘇黎世接受採訪時表示，亞足聯正密切關注沙烏地阿拉伯局勢，如有必要，原定於明年初在沙特舉行的亞洲盃足球賽可推遲到2028年。（央視新聞）"
     },
     {
       "id": "em:jjsj_mgsj:202610153897244044",
@@ -112786,152 +112880,6 @@
         "其他"
       ],
       "text": "藍色起源宣佈在得克薩斯州新建制造園區。"
-    },
-    {
-      "id": "5132764",
-      "time": "2026-10-08 22:38:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談資料中心：人們並不反感資料中心。問題在於，資料中心太好了，它們讓我們的國家變得如此先進，但得讓社群受益。"
-    },
-    {
-      "id": "5132763",
-      "time": "2026-10-08 22:38:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國陸軍針對2025年1月直升機與美國航空支線客機空中相撞致死67人的致命事故釋出調查報告，認定事故存在多起“系統性失效”問題。"
-    },
-    {
-      "id": "5132762",
-      "time": "2026-10-08 22:38:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：被封禁的網際網路輿論機構結合使用我們的模型與更傳統的技術手段，支援構造精密的“虛假前沿”實體。"
-    },
-    {
-      "id": "5132761",
-      "time": "2026-10-08 22:38:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "OpenAI：已封禁一批源自俄羅斯的ChatGPT賬號。"
-    },
-    {
-      "id": "5132760",
-      "time": "2026-10-08 22:38:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：這兩項行動都是多維度的，嘗試了一系列不同策略來實現其目標。"
-    },
-    {
-      "id": "mkt:01a11bf3-3f15-7ee0-a7fd-3b151fa23227",
-      "time": "2026-10-08 22:38:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Turkey FM says Mecca pact is defensive; will not deploy troops to attack other states】Turkey foreign minister Fidan said on the 8th the Mecca collective defense pact is defensive, not offensive, and requires parties to support each other if one is attacked. He said Turkey will not send troops to other countries to carry out attacks. The defense ministry said any provision of military forces or capabilities to other states must follow the constitution and relevant laws."
-    },
-    {
-      "id": "5132759",
-      "time": "2026-10-08 22:38:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "OpenAI表示，近期封禁了兩個IO賬號，一個來自俄羅斯，一個來自伊朗。"
-    },
-    {
-      "id": "5132758",
-      "time": "2026-10-08 22:37:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【土耳其外長說不會向他國派兵並實施攻擊】土耳其外長費丹8日說，《麥加共同防務協議》是防禦性協議，土耳其不會向他國派兵並實施攻擊。費丹在電視講話中說，《麥加共同防務協議》“不是一項進攻性協議，而是一項防禦性協議”，當協議一方遭到攻擊時，其他各方將支援其進行防衛。他還說：“土耳其不會向其他國家領土派遣部隊並在那裡發動攻擊。”土耳其國防部同日發表宣告說：“（向他國）提供軍事力量和能力的相關程式，需按照憲法和相關法律的規定進行。”（新華社）"
-    },
-    {
-      "id": "mkt:01a11bf2-0612-7ee0-a7fd-36076c92eecc",
-      "time": "2026-10-08 22:36:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【US August wholesale inventories revised to +0.5% MoM; sales +1.8% point to firm demand】US Commerce Department (Census Bureau) data: wholesale inventories rose 0.5% MoM in August, revised from a 0.7% preliminary estimate; July inventories rose 1.4% MoM. Inventories were up 6.4% YoY. By category, durables +0.8% MoM, nondurables unchanged, petroleum stocks -3.9%. Wholesale sales climbed 1.8% MoM in August (July +1.0%), signalling accelerating demand. The inventory-to-sales ratio edged down to 1.18 months from 1.19 in July. Firms appear to be rebuilding stocks after five straight quarters of inventory drawdowns despite strong consumer spending and AI investment."
-    },
-    {
-      "id": "5132757",
-      "time": "2026-10-08 22:36:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "天空之舞傳媒：傑伊·阿斯基納西、戴維·德克爾、雷·霍普金斯將分別主管廣告銷售、內容銷售與發行業務。"
-    },
-    {
-      "id": "mkt:01a11bf1-9579-7ee0-a7fd-2acc4cf0d8cb",
-      "time": "2026-10-08 22:36:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "NYSE president Martin said interest rates and macroeconomic conditions are affecting IPO plans."
-    },
-    {
-      "id": "mkt:01a11bf1-7a36-7ee0-a7fd-26e12bd80641",
-      "time": "2026-10-08 22:36:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "NYSE president Martin said market capitalization increased by $500 billion this year."
-    },
-    {
-      "id": "5132756",
-      "time": "2026-10-08 22:36:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約證券交易所總裁：利率和宏觀環境正在影響IPO計劃。"
-    },
-    {
-      "id": "5132755",
-      "time": "2026-10-08 22:35:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【碩世生物：董事會否決控股股東提請召開臨時股東會議案】碩世生物(688399.SH)公告稱，公司第三屆董事會第十八次會議審議《關於同意控股股東提請召開臨時股東會的議案》，表決結果為4票同意、5票反對，議案未獲透過。董事會不同意召開臨時股東會。5名反對董事認為，控股股東閏康生物相關檔案印章效力存在爭議，且其解散之訴正在審理中，有限合夥人梁錫林已就資金被挪用事宜向公安機關報案並獲受理，現階段推進換屆不利於公司治理穩定及中小投資者利益保護。"
-    },
-    {
-      "id": "5132754",
-      "time": "2026-10-08 22:35:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：讓他們打擊洛杉磯，或者讓他們打擊像聖迭戈這樣的地方。讓他們打擊我們的一座主要城市。那才叫問題。"
-    },
-    {
-      "id": "te:economy:590572",
-      "time": "2026-10-08 22:35:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Natural Gas Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Natural Gas Storage Rises Most Since July — US energy companies added 85 billion cubic feet of natural gas to storage on the week that ended October 2nd, 2026, the most since late June following a lower restocking period in the Spring and Summer. The figure was above the preliminary estimate of 79 bcf. The increase lifted outstanding inventory to 3.500 trillion cubic feet, 3.6% below the corresponding period of the previous year as higher capacity in export plants and lower global supply from the Middle East incentivized companies to sell LNG abroad."
     }
   ]
 }
