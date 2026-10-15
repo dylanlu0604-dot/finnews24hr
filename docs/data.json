@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-16 06:22:44",
-  "count": 12338,
+  "updated": "2026-10-16 06:26:30",
+  "count": 12340,
   "items": [
+    {
+      "id": "mkt:01a141ab-a4ed-7ee0-a8a9-11d74f8ed65e",
+      "time": "2026-10-16 06:25:30",
+      "tags": [
+        "MKT News",
+        "NKE.N",
+        "Impact bearish"
+      ],
+      "text": "MOODY'S expects Nike (NKE.N) revenue and earnings to decline in the fiscal year ending May 2027 and to extend into fiscal 2028. It expects Nike's strategic initiatives to continue to pressure profitability during that period and constrain its credit metrics."
+    },
+    {
+      "id": "mkt:01a141aa-3154-7ee0-a8a9-0f416cc72119",
+      "time": "2026-10-16 06:23:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "【Tesla energy VP Mike Snyder steps down; AJ Booth to succeed】The Wall Street Journal, citing people familiar with the matter, reported that Mike Snyder, vice president of Tesla's energy and charging business (TSLA.O), has stepped down. Snyder oversaw the Megapack industrial battery unit and was promoted to vice president in 2024 amid a company-wide restructuring and layoffs that also saw energy executives including Drew Baglino depart. AJ Booth, senior director of energy product engineering, is set to replace him, the report said."
+    },
+    {
+      "id": "mkt:01a141a9-e90f-7ee0-a8a9-04dc72e374bc",
+      "time": "2026-10-16 06:23:36",
+      "tags": [
+        "MKT News",
+        "NKE.N",
+        "Impact bearish"
+      ],
+      "text": "MOODY'S revised Nike Inc.'s outlook to negative while affirming the company's A2 rating (NKE.N)."
+    },
     {
       "id": "5148476",
       "time": "2026-10-16 06:20:29",
@@ -112668,15 +112702,6 @@
         "其他"
       ],
       "text": "【馬達加斯加首都發生食物中毒事件 183人送醫】馬達加斯加新聞和文化部長曼德林德拉里武尼8日晚說，位於首都塔那那利佛的一家企業發生食物中毒事件，至少183人被送醫救治。曼德林德拉里武尼當晚在收治相關患者的醫院告訴記者，所有食物中毒人員均為該企業員工，初步推測可能與他們在企業食堂食用的餐食有關，目前暫無人員死亡報告。曼德林德拉里武尼否認此次事件存在投毒行為，並表示有關部門已採集樣本並開展檢測，分析結果尚待公佈。（新華社）"
-    },
-    {
-      "id": "5133247",
-      "time": "2026-10-09 06:24:32",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【萬分之零點六九一佣金費率來了，券商經紀業務亟待從“拼價格”轉向“拼服務”】證券行業佣金費率持續走低。9月下旬，大同證券在直播間打出萬分之零點六九一的開戶佣金費率，較交易所剛性代收規費高出0.05個萬分點；國信證券、中泰證券等多家機構新開戶佣金費率均跌破萬分之一關口。多名受訪專家認為，步入微利階段的券商經紀業務，價格競爭已難以為繼，一場從“拼費率”到“拼服務”的行業深層重構已然開啟。（上證報）"
     }
   ]
 }

@@ -1,7 +1,41 @@
 {
   "date": "2026-10-16",
-  "count": 426,
+  "count": 429,
   "items": [
+    {
+      "id": "mkt:01a141ab-a4ed-7ee0-a8a9-11d74f8ed65e",
+      "time": "2026-10-16 06:25:30",
+      "tags": [
+        "MKT News",
+        "NKE.N",
+        "Impact bearish"
+      ],
+      "text": "MOODY'S expects Nike (NKE.N) revenue and earnings to decline in the fiscal year ending May 2027 and to extend into fiscal 2028. It expects Nike's strategic initiatives to continue to pressure profitability during that period and constrain its credit metrics."
+    },
+    {
+      "id": "mkt:01a141aa-3154-7ee0-a8a9-0f416cc72119",
+      "time": "2026-10-16 06:23:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "【Tesla energy VP Mike Snyder steps down; AJ Booth to succeed】The Wall Street Journal, citing people familiar with the matter, reported that Mike Snyder, vice president of Tesla's energy and charging business (TSLA.O), has stepped down. Snyder oversaw the Megapack industrial battery unit and was promoted to vice president in 2024 amid a company-wide restructuring and layoffs that also saw energy executives including Drew Baglino depart. AJ Booth, senior director of energy product engineering, is set to replace him, the report said."
+    },
+    {
+      "id": "mkt:01a141a9-e90f-7ee0-a8a9-04dc72e374bc",
+      "time": "2026-10-16 06:23:36",
+      "tags": [
+        "MKT News",
+        "NKE.N",
+        "Impact bearish"
+      ],
+      "text": "MOODY'S revised Nike Inc.'s outlook to negative while affirming the company's A2 rating (NKE.N)."
+    },
     {
       "id": "5148476",
       "time": "2026-10-16 06:20:29",
