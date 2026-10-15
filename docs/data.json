@@ -1,7 +1,176 @@
 {
-  "updated": "2026-10-15 08:17:06",
-  "count": 11982,
+  "updated": "2026-10-15 08:20:56",
+  "count": 11992,
   "items": [
+    {
+      "id": "mkt:01a13cee-29d3-7ee0-a888-1ee4ec2cee55",
+      "time": "2026-10-15 08:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD",
+        "Impact mixed"
+      ],
+      "text": "Australia's September seasonally adjusted unemployment rate due in 10 minutes."
+    },
+    {
+      "id": "5145769",
+      "time": "2026-10-15 08:19:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內漲1.27%。"
+    },
+    {
+      "id": "5145768",
+      "time": "2026-10-15 08:19:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴拿馬7.6級地震致1人死亡20餘人受傷】當地時間10月14日，巴拿馬官方通報一名68歲女性在地震中受重傷不治身亡，27人受輕傷。此外，根據通報，截至目前本次地震共影響3667個家庭，使11527人被疏散。地震造成3390棟建築物受損，其中727棟完全坍塌。巴拿馬總統穆利諾表示巴拿馬將為地震救援、建築物和基礎設施修復與重建投入1億美元。當地時間10月9日12時56分，巴拿馬發生7.6級地震，首都巴拿馬城等多地震感強烈。地震後不久，該國又發生多次5級以上餘震。巴拿馬多地學校、醫療設施、道路及公共建築因地震受損。"
+    },
+    {
+      "id": "mkt:01a13ced-4489-7ee0-a888-10c5af95aef0",
+      "time": "2026-10-15 08:19:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "China International Capital Co said in a research note it expects the Fed is likely to pause rate hikes in October and resume in December. It said a slower pace of hikes does not imply policy easing, and the Fed may remain in a mildly restrictive stance over the next year."
+    },
+    {
+      "id": "mkt:01a13ceb-c67d-7ee0-a888-0b1aafc898a4",
+      "time": "2026-10-15 08:17:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's TOPIX fell 2%."
+    },
+    {
+      "id": "mkt:01a13ceb-c650-7ee0-a888-0685d4d75ab7",
+      "time": "2026-10-15 08:17:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Korean stocks slump 6%, hit near three-month low】A global chip sell-off and renewed doubts about the sustainability of AI-driven investment pushed Asian markets lower. Japan's Nikkei 225 fell more than 3% intraday; Kioxia dropped over 8%. South Korea's KOSPI slid for a seventh straight session, tumbling as much as 6% intraday to its lowest level since July 31. Semiconductor heavyweights led declines: Samsung Electronics down over 7%, SK Hynix down over 8%. The Korea Exchange activated a sidecar mechanism, suspending programmatic selling on the KOSPI."
+    },
+    {
+      "id": "mkt:01a13ceb-c00f-7ee0-a887-fc857796c348",
+      "time": "2026-10-15 08:17:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year government bond yield fell 5bp to 2.945%."
+    },
+    {
+      "id": "5145759",
+      "time": "2026-10-15 08:16:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌5個基點至2.945%。"
+    },
+    {
+      "id": "mkt:01a13cea-89dd-7ee0-a887-f7d0dea78f00",
+      "time": "2026-10-15 08:16:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI plunged 6.00% intraday to 5,645.85 points."
+    },
+    {
+      "id": "mkt:01a13cea-7cb3-7ee0-a887-eebbe3613306",
+      "time": "2026-10-15 08:16:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated a program-trading suspension mechanism on KOSDAQ."
+    },
+    {
+      "id": "5145756",
+      "time": "2026-10-15 08:16:00",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數下跌6％，至5645.85點。SK海力士跌超8%，三星電子跌7%。"
+    },
+    {
+      "id": "mkt:01a13cea-6d78-7ee0-a887-e2507bdf09dc",
+      "time": "2026-10-15 08:15:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold hit $4,130/oz, up 0.62% intraday. Spot silver rose 0.5% to $55.88/oz."
+    },
+    {
+      "id": "5145755",
+      "time": "2026-10-15 08:15:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數下跌2%，至4014.63。"
+    },
+    {
+      "id": "5145753",
+      "time": "2026-10-15 08:15:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4130美元/盎司，日內漲0.61%。"
+    },
+    {
+      "id": "5145748",
+      "time": "2026-10-15 08:14:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4150美元/盎司，日內漲1.03%。"
+    },
     {
       "id": "5145745",
       "time": "2026-10-15 08:14:14",
@@ -109194,51 +109363,6 @@
         "其他"
       ],
       "text": "【國泰海通食品飲料中秋、國慶節消費趨勢解讀：雙節消費延續增長】國泰海通證券釋出研報稱，中秋國慶雙節假期零售和餐飲企業日均銷售額延續修復，總量維持增長;居民端消費偏理性，服務消費整體強於實物消費。大眾品改善趨勢確定，白酒加速出清，推薦成長及超跌標的。1)白酒加速探底，推薦率先出清標的;2)調味品、餐供具備量價回升彈性;3)推薦產業上行週期的健康食品及部分零食;4)啤酒旺季動銷提速;5)飲料成長;6)乳製品。"
-    },
-    {
-      "id": "5130865",
-      "time": "2026-10-08 08:20:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "LG能源股價上漲4%，此前該公司公佈第三季度營業利潤超出預期。"
-    },
-    {
-      "id": "5130864",
-      "time": "2026-10-08 08:20:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【從搶著買到打折賣，越南樓市又“變天”？】最近，越南地產股再次跌入債市爆雷後的“至暗時刻”。截至9月30日，越南VN30指數週跌2.46%，多隻熱門地產股猛烈下挫，跌至2022年以來的最低位。2022年，堪稱越南房地產行業近十年來“最悲壯”的一年——大批地產商債務違約，資金鍊瞬間斷裂，破產、清盤輪番上演，留給購房者的只剩數千個爛尾樓專案。如今，越南地產股再次跌進2022年以來的低位，是否預示著危機正捲土重來？近日，記者實地走訪河內、胡志明市的樓盤和中介機構，發現越南房地產業確實再次回到了相似的歷史場景：信貸收縮，流動性緊張，從貸款利率到債券收益率都在大漲——這是一場對樓盤去化和房企現金流的嚴峻考驗。但和幾年前不同的是，行業經歷過一輪出清，能繼續留在牌桌的都是體格更健壯的大玩家；國際產業轉移還在繼續，外資加速佈局越南，房地產的買盤在擴大；政府親歷過崩盤的風浪，正試圖用行政手段和貨幣政策控制過快的擴張節奏。交易量、去化週期、二手房價格……種種資料都反映出今年越南樓市正在降溫。（21財經）"
-    },
-    {
-      "id": "te:markets:590318",
-      "time": "2026-10-08 08:19:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Hits 4-week High — The South Korean Won touched 1336.00 against the USD, the highest since September 2026. Over the past 4 weeks, US Dollar South Korean Won lost 0.26%, and in the last 12 months, it decreased 6.07%."
-    },
-    {
-      "id": "5130863",
-      "time": "2026-10-08 08:18:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱在約旦河西岸打死一名巴勒斯坦人】當地時間7日，以色列國防軍發表宣告稱，當天在約旦河西岸城市納布盧斯附近地區，以軍和以色列邊境警察與數十名巴勒斯坦民眾發生衝突。宣告稱，以軍在現場開槍打死了一名巴勒斯坦人，還抓捕了數名涉嫌向以方投擲石塊的巴勒斯坦人。"
-    },
-    {
-      "id": "5130862",
-      "time": "2026-10-08 08:17:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海國慶假期線上線下消費762.4億元 入境消費活力彰顯】從上海市商務委瞭解到，今年國慶，上海以“愛購上海，歡度國慶”為主題，全力做好節日期間200餘場促消費活動。國慶假期（9月30日至10月6日），上海全市線上線下消費金額762.4億元，同比增長9.9%。其中，線下消費金額400.4億元，同比增長15.1%；線上消費金額362億元，同比增長4.7%。監測的19個市級商圈消費金額56.2億元，同比增長14.5%，日均進店客流396.4萬人，同比增長1.9%。"
     }
   ]
 }

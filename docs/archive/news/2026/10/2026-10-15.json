@@ -1,7 +1,176 @@
 {
   "date": "2026-10-15",
-  "count": 565,
+  "count": 580,
   "items": [
+    {
+      "id": "mkt:01a13cee-29d3-7ee0-a888-1ee4ec2cee55",
+      "time": "2026-10-15 08:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD",
+        "Impact mixed"
+      ],
+      "text": "Australia's September seasonally adjusted unemployment rate due in 10 minutes."
+    },
+    {
+      "id": "5145769",
+      "time": "2026-10-15 08:19:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內漲1.27%。"
+    },
+    {
+      "id": "5145768",
+      "time": "2026-10-15 08:19:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴拿馬7.6級地震致1人死亡20餘人受傷】當地時間10月14日，巴拿馬官方通報一名68歲女性在地震中受重傷不治身亡，27人受輕傷。此外，根據通報，截至目前本次地震共影響3667個家庭，使11527人被疏散。地震造成3390棟建築物受損，其中727棟完全坍塌。巴拿馬總統穆利諾表示巴拿馬將為地震救援、建築物和基礎設施修復與重建投入1億美元。當地時間10月9日12時56分，巴拿馬發生7.6級地震，首都巴拿馬城等多地震感強烈。地震後不久，該國又發生多次5級以上餘震。巴拿馬多地學校、醫療設施、道路及公共建築因地震受損。"
+    },
+    {
+      "id": "mkt:01a13ced-4489-7ee0-a888-10c5af95aef0",
+      "time": "2026-10-15 08:19:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "China International Capital Co said in a research note it expects the Fed is likely to pause rate hikes in October and resume in December. It said a slower pace of hikes does not imply policy easing, and the Fed may remain in a mildly restrictive stance over the next year."
+    },
+    {
+      "id": "mkt:01a13ceb-c67d-7ee0-a888-0b1aafc898a4",
+      "time": "2026-10-15 08:17:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's TOPIX fell 2%."
+    },
+    {
+      "id": "mkt:01a13ceb-c650-7ee0-a888-0685d4d75ab7",
+      "time": "2026-10-15 08:17:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Korean stocks slump 6%, hit near three-month low】A global chip sell-off and renewed doubts about the sustainability of AI-driven investment pushed Asian markets lower. Japan's Nikkei 225 fell more than 3% intraday; Kioxia dropped over 8%. South Korea's KOSPI slid for a seventh straight session, tumbling as much as 6% intraday to its lowest level since July 31. Semiconductor heavyweights led declines: Samsung Electronics down over 7%, SK Hynix down over 8%. The Korea Exchange activated a sidecar mechanism, suspending programmatic selling on the KOSPI."
+    },
+    {
+      "id": "mkt:01a13ceb-c00f-7ee0-a887-fc857796c348",
+      "time": "2026-10-15 08:17:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 10-year government bond yield fell 5bp to 2.945%."
+    },
+    {
+      "id": "5145759",
+      "time": "2026-10-15 08:16:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本10年期國債收益率下跌5個基點至2.945%。"
+    },
+    {
+      "id": "mkt:01a13cea-89dd-7ee0-a887-f7d0dea78f00",
+      "time": "2026-10-15 08:16:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Nikkei 225",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI plunged 6.00% intraday to 5,645.85 points."
+    },
+    {
+      "id": "mkt:01a13cea-7cb3-7ee0-a887-eebbe3613306",
+      "time": "2026-10-15 08:16:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated a program-trading suspension mechanism on KOSDAQ."
+    },
+    {
+      "id": "5145756",
+      "time": "2026-10-15 08:16:00",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數下跌6％，至5645.85點。SK海力士跌超8%，三星電子跌7%。"
+    },
+    {
+      "id": "mkt:01a13cea-6d78-7ee0-a887-e2507bdf09dc",
+      "time": "2026-10-15 08:15:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold hit $4,130/oz, up 0.62% intraday. Spot silver rose 0.5% to $55.88/oz."
+    },
+    {
+      "id": "5145755",
+      "time": "2026-10-15 08:15:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數下跌2%，至4014.63。"
+    },
+    {
+      "id": "5145753",
+      "time": "2026-10-15 08:15:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4130美元/盎司，日內漲0.61%。"
+    },
+    {
+      "id": "5145748",
+      "time": "2026-10-15 08:14:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4150美元/盎司，日內漲1.03%。"
+    },
     {
       "id": "5145745",
       "time": "2026-10-15 08:14:14",
