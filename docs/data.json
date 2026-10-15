@@ -1,7 +1,30 @@
 {
-  "updated": "2026-10-16 06:30:22",
-  "count": 12340,
+  "updated": "2026-10-16 06:34:10",
+  "count": 12341,
   "items": [
+    {
+      "id": "te:economy:592522",
+      "time": "2026-10-16 06:33:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "New Zealand Food Inflation at 3-Month High of 2.4% — Annual food inflation in New Zealand accelerated to 2.4% in September 2026 from 1.9% in the previous month, which was the softest increase since December 2024. It was the fastest increase in food inflation since June, as inflation for grocery food prices accelerated to 3.0% from 1.7% in August, making it the largest contributor to the annual increase in food prices. Inflation for restaurant meals and ready-to-eat food eased slightly to 3.1% from 3.2%, making it the second-largest contributor to the annual increase in food prices. Meanwhile, prices for meat, poultry, and fish increased by 3.2%, compared with 3.4% in August, while fruit and vegetable prices fell at a faster rate, declining 1.8% following a 1.6% drop in August."
+    },
+    {
+      "id": "te:markets:592521",
+      "time": "2026-10-16 06:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Plunges by 8.12% — Top commodity losers are Methanol (-8.12%), Gasoline (-4.54%), Heating Oil (-2.95%) and Brent Oil (-0.41%). Gains are led by Crude Oil (2.58%), Ethanol (1.24%) and Liquefied Natural Gas Japan Korea (0.56%)."
+    },
     {
       "id": "5148480",
       "time": "2026-10-16 06:28:10",
@@ -112683,14 +112706,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Iron Ore CNY Falls by 2.85% — Top commodity losers are Iron Ore CNY (-2.85%), Aluminum Alloy (-2.21%) and Copper (-1.27%). Gains are led by Lithium Carbonate (1.75%) and Gold (0.64%)."
-    },
-    {
-      "id": "5133250",
-      "time": "2026-10-09 06:30:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "古根海姆基金在沃爾特相關訊息傳出後出現24億美元資金流出。"
     }
   ]
 }
