@@ -1,7 +1,193 @@
 {
   "date": "2026-10-15",
-  "count": 1800,
+  "count": 1819,
   "items": [
+    {
+      "id": "5147540",
+      "time": "2026-10-15 18:17:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "財政部發布關於印發《城鄉義務教育補助經費管理辦法》的通知。"
+    },
+    {
+      "id": "5147539",
+      "time": "2026-10-15 18:17:16",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利將美國銀行(BAC.N)目標價從67.00美元下調至61.00美元。"
+    },
+    {
+      "id": "mkt:01a13f10-bbfb-7ee0-a89c-4f12cb44ff14",
+      "time": "2026-10-15 18:17:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Romanian president said Bucharest will respond soon to the Black Sea incident."
+    },
+    {
+      "id": "mkt:01a13f10-16fb-7ee0-a89c-410ce5b84d8f",
+      "time": "2026-10-15 18:16:21",
+      "tags": [
+        "MKT News",
+        "BAC.N",
+        "Impact bearish"
+      ],
+      "text": "Morgan Stanley cuts BofA (BAC.N) price target to $61.00 from $67.00."
+    },
+    {
+      "id": "5147538",
+      "time": "2026-10-15 18:16:05",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【江波龍：預計2026年前三季度淨利潤同比增長1,864.55%至1,990.84%】江波龍公告，預計2026年前三季度營業收入380億元至400億元；歸母淨利潤140億元至149億元，2025年同期為7.13億元，同比增長1,864.55%至1,990.84%；扣非淨利潤138億元至148億元，2025年同期為4.79億元，同比增長2,782.36%至2,991.23%。業績預告資料未經審計。"
+    },
+    {
+      "id": "mkt:01a13f0f-d463-7ee0-a89c-3a6fae35f117",
+      "time": "2026-10-15 18:16:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shipping survey firm ITS reports Malaysia's palm oil exports for Oct 1-15 at 802,481 tonnes, up 43.2% from 560,292 tonnes in the month-earlier same period."
+    },
+    {
+      "id": "mkt:01a13f0f-b4a2-7ee0-a89c-3579a7e2349f",
+      "time": "2026-10-15 18:15:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Romania's president said he will call on EU leaders at the summit to provide equipment and to put the planned Romania-Bulgaria Black Sea maritime security center into operation."
+    },
+    {
+      "id": "5147537",
+      "time": "2026-10-15 18:15:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "羅馬尼亞總統表示，將在歐盟峰會上呼籲提供裝備，並推動計劃中的羅馬尼亞與保加利亞黑海海上安全樞紐投入運作。"
+    },
+    {
+      "id": "5147536",
+      "time": "2026-10-15 18:15:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "羅馬尼亞央行資料顯示，該國1至8月經常賬戶赤字擴大至199.3億歐元，上年同期修正後為189.8億歐元。"
+    },
+    {
+      "id": "mkt:01a13f0f-64f7-7ee0-a89c-2df7777ea506",
+      "time": "2026-10-15 18:15:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Romania's president said he will ask NATO to bolster military capabilities in the Black Sea region."
+    },
+    {
+      "id": "5147535",
+      "time": "2026-10-15 18:15:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "Ascendis Pharma美股盤前跌超59%，現報91.241美元。"
+    },
+    {
+      "id": "5147534",
+      "time": "2026-10-15 18:15:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士訊息稱，特朗普已提出懷爾斯人選替代方案。"
+    },
+    {
+      "id": "5147533",
+      "time": "2026-10-15 18:15:06",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【東方金誠白雪：美聯儲12月再加息25個基點的機率較大】美國勞工統計局最新資料顯示，美國9月CPI同比上漲3.7%，較8月的3.4%明顯反彈，為5月份以來最高水平；核心CPI同比上漲2.6%，較前值2.4%回升。對此，東方金誠研究副總監白雪表示，美國9月通脹明顯反彈且漲價面明顯擴散，能源衝擊與核心通脹黏性形成共振，通脹迴歸2%目標的“最後一公里”仍不平坦。通脹反彈強化了美聯儲年內繼續加息的必要性，但就業降溫與金融條件收緊對加息節奏形成制約。預計10月按兵不動、12月再加息25個基點的機率上升。"
+    },
+    {
+      "id": "mkt:01a13f0e-e1a8-7ee0-a89c-22aa26311a39",
+      "time": "2026-10-15 18:15:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Germany's 10-year bond yield fell 10 bps to 3.37%, the lowest level since Sept. 8."
+    },
+    {
+      "id": "5147532",
+      "time": "2026-10-15 18:14:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化裝備：1.96億股新增股份登記完成】中化裝備公告，此前披露擬發行股份購買益陽橡機、北化機100%股權並募集配套資金。本次交易標的資產已完成過戶，1.96億股新增股份已於2026年10月13日完成登記。"
+    },
+    {
+      "id": "mkt:01a13f0e-b85d-7ee0-a89c-1f4d0cb6879e",
+      "time": "2026-10-15 18:14:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Dongfang Jincheng's Bai Xue: Fed likely to raise rates 25bps in December】US Labor Department data: September headline CPI +3.7% YoY (Aug 3.4%), core CPI +2.6% YoY (Aug 2.4%). Bai Xue, deputy research director at Dongfang Jincheng, said September’s rebound and broader price pressures—driven by an energy shock and sticky core inflation—leave the path back to the 2% target uneven. The inflation pickup bolsters the case for further Fed tightening this year, though cooling labor and tighter financial conditions limit the pace. She expects the Fed to pause in October and assigns higher odds to a 25bps hike in December."
+    },
+    {
+      "id": "5147531",
+      "time": "2026-10-15 18:14:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【震有科技：董事姜坤首次增持5000股並擬增持40萬元～60萬元】震有科技公告，2026年10月14日，董事姜坤透過集中競價增持公司股份5000股，佔總股本0.0026%，成交金額13.03萬元，增持後持股比例由0%增加至0.0026%。姜坤計劃在2026年10月14日至2027年4月13日期間繼續增持，金額不低於人民幣40萬元（含）且不超過人民幣60萬元（含）。"
+    },
+    {
+      "id": "5147530",
+      "time": "2026-10-15 18:14:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率下跌10個基點至3.37%，為9月8日以來最低水平。"
+    },
+    {
+      "id": "5147529",
+      "time": "2026-10-15 18:14:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱，他對懷爾斯充滿信心。"
+    },
     {
       "id": "mkt:01a13f0d-5da3-7ee0-a89c-158220fc4119",
       "time": "2026-10-15 18:13:22",
