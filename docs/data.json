@@ -1,7 +1,121 @@
 {
-  "updated": "2026-10-15 22:31:03",
+  "updated": "2026-10-15 22:34:58",
   "count": 12379,
   "items": [
+    {
+      "id": "5148005",
+      "time": "2026-10-15 22:34:09",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股CDX投資級指數一度創4月初以來新高】CoreWeave信用風險指標創紀錄之際，對人工智慧（AI）支出可持續性和成本上升的擔憂再度升溫，美國信貸和股票市場開盤普遍走弱。美國9月生產者價格以逾四年來最快速度上漲，顯示潛在通脹壓力仍然較強，也可能使美聯儲官員繼續沿著未來數月進一步加息的路徑前進。標普道瓊斯指數旗下CDX投資級指數一度上漲1.75個基點至62.3，創4月2日以來最高水平。該指標隨市場對信用風險的擔憂升溫而上漲。類似的高收益債指數則一度下跌0.4點至105.73，創4月7日以來最低水平；該指數隨市場感知風險上升而下跌。"
+    },
+    {
+      "id": "5148004",
+      "time": "2026-10-15 22:33:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "據報道，西南航空將取消其兩級精英常旅客等級，轉而採用銀卡、金卡和白金卡等級，與其他航空公司類似。"
+    },
+    {
+      "id": "5148003",
+      "time": "2026-10-15 22:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約秘書長呂特與烏克蘭總統澤連斯基討論了能源停火的重要性。"
+    },
+    {
+      "id": "mkt:01a13ffb-8c2f-7ee0-a8a1-d21a0fea2ceb",
+      "time": "2026-10-15 22:33:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "NATO Secretary-General Rutte and Ukrainian President Zelenskiy discussed the importance of an energy ceasefire."
+    },
+    {
+      "id": "5148002",
+      "time": "2026-10-15 22:33:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，西南航空正在全面改革其常旅客計劃。"
+    },
+    {
+      "id": "5148001",
+      "time": "2026-10-15 22:33:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "X前執行長琳達·亞卡里諾加入Better公司董事會，擔任獨立董事，以擴大AI原生住房所有權規模。"
+    },
+    {
+      "id": "mkt:01a13ffa-b3bd-7ee0-a8a1-cebfa1228d7b",
+      "time": "2026-10-15 22:32:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures extended gains, up 3%, after EIA data showed storage increases smaller than expected."
+    },
+    {
+      "id": "5148000",
+      "time": "2026-10-15 22:32:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，烏克蘭“愛國者”防空導彈已耗盡。"
+    },
+    {
+      "id": "5147999",
+      "time": "2026-10-15 22:31:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【可口可樂股價漲2%續刷記錄新高 總市值超4000億美元】可口可樂股價上漲2%，報93.645美元/股，續刷記錄新高，總市值報4029億美元。"
+    },
+    {
+      "id": "5147998",
+      "time": "2026-10-15 22:31:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CoreWeave信用風險指標創紀錄 隱含違約機率達60%】CoreWeave Inc.的信用風險週四升至歷史新高。這家人工智慧雲端計算公司的高收益債券延續跌勢，其擴大借款規模的計劃令投資者感到不安。ICE Data Services資料顯示，CoreWeave五年期債務違約保護成本一度上漲74.5個基點，至1194.5個基點，創盤中歷史最高水平。信用違約掉期市場隱含該公司未來五年內違約的機率超過60%。"
+    },
+    {
+      "id": "5147997",
+      "time": "2026-10-15 22:31:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署(EIA)報告天然氣庫存增幅低於預期後，美國天然氣期貨擴大漲幅，上漲3%。"
+    },
+    {
+      "id": "5147996",
+      "time": "2026-10-15 22:31:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝再次警告航空公司沙特領空和機場不安全】當地時間10月15日，葉門胡塞武裝發表宣告稱，沙特方面對葉門發動的空襲已持續多年，過去12年來累計發動空襲超過27.4萬次，並造成多起人員傷亡事件。宣告指責沙特方面實施多種軍事行動，造成嚴重後果。宣告稱，自沙特方面恢復軍事行動並升級對葉門的軍事打擊以來，已發動超過2350次空襲和導彈襲擊。宣告表示，葉門胡塞武裝此前已多次向航空及航運公司發出警告，稱沙特領空及機場存在安全風險，但麥加和麥地那聖地上空除外。宣告再次發出相關警告，並稱葉門胡塞武裝具備採取對等反制行動的能力。宣告還稱，葉門胡塞武裝方面的相關行動屬於防禦性質，並表示，在沙特方面停止對葉門的軍事行動和封鎖之前，將保留採取反制行動的權利。（央視新聞）"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610153897244044",
+      "time": "2026-10-15 22:30:51",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週EIA天然氣庫存增加670億立方英尺，預期760億立方英尺，前值850億立方英尺。"
+    },
     {
       "id": "mkt:01a13ff8-b0ee-7ee0-a8a1-c1f5b2aa9b2e",
       "time": "2026-10-15 22:30:25",
@@ -112818,136 +112932,6 @@
         "Importance 1"
       ],
       "text": "US Natural Gas Storage Rises Most Since July — US energy companies added 85 billion cubic feet of natural gas to storage on the week that ended October 2nd, 2026, the most since late June following a lower restocking period in the Spring and Summer. The figure was above the preliminary estimate of 79 bcf. The increase lifted outstanding inventory to 3.500 trillion cubic feet, 3.6% below the corresponding period of the previous year as higher capacity in export plants and lower global supply from the Middle East incentivized companies to sell LNG abroad."
-    },
-    {
-      "id": "mkt:01a11bf0-4dca-7ee0-a7fd-1b12caa2db8b",
-      "time": "2026-10-08 22:34:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "NVIDIA (NVDA.O): aims to bolster US R&D in superintelligence across critical areas to preserve US leadership."
-    },
-    {
-      "id": "5132753",
-      "time": "2026-10-08 22:34:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：微軟濫用簽證制度，同時裁減美國員工。"
-    },
-    {
-      "id": "mkt:01a11bef-7eb0-7ee0-a7fd-11ef2c5f4f38",
-      "time": "2026-10-08 22:34:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukrainian military said Ukrainian forces struck an oil refinery in Omsk, Russia."
-    },
-    {
-      "id": "5132752",
-      "time": "2026-10-08 22:33:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約證券交易所總裁：今年市值增加了5000億美元。"
-    },
-    {
-      "id": "5132751",
-      "time": "2026-10-08 22:33:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "英偉達：旨在擴大美國在關乎其領導地位的關鍵領域的超級智慧研發產能。"
-    },
-    {
-      "id": "mkt:01a11bef-25b6-7ee0-a7fd-0f8d59be09de",
-      "time": "2026-10-08 22:33:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA (NVDA.O) will join partners in Phase II of the Genesis Mission award, covering quantum, fusion and microelectronics."
-    },
-    {
-      "id": "5132750",
-      "time": "2026-10-08 22:33:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SHIELD AI：美國海軍已對其與該公司現有的其他交易協議執行了1.5億美元的修訂。"
-    },
-    {
-      "id": "5132749",
-      "time": "2026-10-08 22:33:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達將資助量子計算、醫療健康和能源領域的研發。"
-    },
-    {
-      "id": "mkt:01a11bee-8b56-7ee0-a7fd-006e400734b8",
-      "time": "2026-10-08 22:33:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "NVIDIA (NVDA.O) pledged to invest $1 billion over the next five years to support scientific research in the U.S."
-    },
-    {
-      "id": "5132748",
-      "time": "2026-10-08 22:32:59",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【最新影像披露美軍基地遭伊朗重創】日前，美國哥倫比亞廣播公司披露了多段最新獲得的影片，記錄了今年3月，在美國和以色列對伊朗發起軍事行動初期，伊朗打擊科威特一處美軍軍事基地的畫面。（CCTV國際時訊）"
-    },
-    {
-      "id": "5132747",
-      "time": "2026-10-08 22:32:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "英偉達公司參與量子、聚變、微電子領域“創世紀任務獎”第二階段合作。"
-    },
-    {
-      "id": "5132746",
-      "time": "2026-10-08 22:32:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "英偉達承諾未來五年投入10億美元推動美國科學發展。"
-    },
-    {
-      "id": "5132745",
-      "time": "2026-10-08 22:31:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國副總統萬斯：微軟在2025年裁減6000名美國員工，此前卻認證無法找到合格的美國員工，但該公司獲批超過6000份H-1B簽證，並提交了3682份PERM申請，其中近1000份申請針對的是與被裁美國員工相同的崗位。"
     }
   ]
 }
