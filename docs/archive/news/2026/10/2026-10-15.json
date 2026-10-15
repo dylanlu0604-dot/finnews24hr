@@ -1,7 +1,115 @@
 {
   "date": "2026-10-15",
-  "count": 2339,
+  "count": 2351,
   "items": [
+    {
+      "id": "5148042",
+      "time": "2026-10-15 23:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱，對亞丁“沙特軍事行動總部”的襲擊是針對沙特增援部隊政策的一部分。"
+    },
+    {
+      "id": "5148041",
+      "time": "2026-10-15 23:01:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：黎巴嫩上週吊銷了伊朗銀行 SADERAT 的執照。"
+    },
+    {
+      "id": "5148040",
+      "time": "2026-10-15 23:01:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Mindbeam 與英偉達（NVIDIA）合作打造開源 AI 技術棧。"
+    },
+    {
+      "id": "mkt:01a14014-984a-7ee0-a8a2-2ea05177e8f6",
+      "time": "2026-10-15 23:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "By 23:00 Beijing time China's main futures contracts closed mostly lower. Palm oil and benzene fell near 2%; styrene (EB), methanol, fuel oil, LPG, ethylene glycol (EG) and plastics dropped over 1%. Synthetic rubber rose about 3% and 20# rubber gained more than 1%."
+    },
+    {
+      "id": "5148039",
+      "time": "2026-10-15 23:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝宣稱，其對亞丁“沙特敵軍”軍事行動基地的炮擊，系落實其既定戰略：無論沙特軍事部署位於何處，均予以打擊；任何沙特軍事存在皆被視為其部隊的合法目標。"
+    },
+    {
+      "id": "5148038",
+      "time": "2026-10-15 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】棕櫚油連續跌1.95%，苯乙烯連續跌1.68%，甲醇連續跌1.49%，燃料油連續跌1.39%，液化石油氣連續跌1.25%。"
+    },
+    {
+      "id": "te:markets:592456",
+      "time": "2026-10-15 23:00:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Australian Dollar Depreciates by 0.72% — Top currency losers are Australian Dollar (-0.72%), Dollar Index (-0.42%) and Brazilian Real (-0.33%). Gains are led by Swiss Franc (0.68%), Swedish Krona (0.64%), Polish Zloty (0.47%), British Pound (0.45%), Euro (0.41%) and Japanese Yen (0.17%)."
+    },
+    {
+      "id": "mkt:01a14013-bafe-7ee0-a8a2-2748c0affa5a",
+      "time": "2026-10-15 22:59:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Houthi forces said the strike on a military operations base in Aden is part of their previously announced targeting principle: they will attack Saudi military deployments wherever they are located, and any military personnel they deem to be adversaries of Saudi are legitimate targets for their armed forces regardless of location."
+    },
+    {
+      "id": "5148037",
+      "time": "2026-10-15 22:59:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數轉漲；此前一度下跌0.6%。"
+    },
+    {
+      "id": "5148036",
+      "time": "2026-10-15 22:58:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門：納季蘭的危險已經過去 。"
+    },
+    {
+      "id": "mkt:01a14012-9ff9-7ee0-a8a2-1c1739d5a102",
+      "time": "2026-10-15 22:58:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two government officials said a missile struck the presidential palace compound in Aden, Yemen, killing two security personnel."
+    },
+    {
+      "id": "mkt:01a14012-6734-7ee0-a8a2-1122397ae6a2",
+      "time": "2026-10-15 22:58:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense said the danger in the Najran region has been cleared."
+    },
     {
       "id": "5148035",
       "time": "2026-10-15 22:58:19",
