@@ -1,7 +1,124 @@
 {
-  "updated": "2026-10-15 22:27:00",
+  "updated": "2026-10-15 22:31:03",
   "count": 12379,
   "items": [
+    {
+      "id": "mkt:01a13ff8-b0ee-7ee0-a8a1-c1f5b2aa9b2e",
+      "time": "2026-10-15 22:30:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA weekly natural gas report: U.S. working gas in storage for the week ended Oct. 9 was 3,567 bcf, up 67 bcf week-on-week, down 143 bcf YoY (-3.9%), and 45 bcf above the 5-year average (+1.3%)."
+    },
+    {
+      "id": "mkt:01a13ff8-7d62-7ee0-a8a1-ba95fc0021b3",
+      "time": "2026-10-15 22:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage change for week ended Oct 9: 67 Bcf (consensus 76 Bcf, prior 85 Bcf)."
+    },
+    {
+      "id": "5147994",
+      "time": "2026-10-15 22:30:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至10月9日當週EIA天然氣庫存 670億立方英尺，預期760億立方英尺，前值850億立方英尺。"
+    },
+    {
+      "id": "mkt:01a13ff8-53df-7ee0-a8a1-b5755464892c",
+      "time": "2026-10-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Oct.9) | actual 67000000000B | consensus 76000000000B | previous 85000000000B"
+    },
+    {
+      "id": "5147993",
+      "time": "2026-10-15 22:29:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "SAP <SAPG.DE>股價自1月份軟體股拋售潮前以來首次突破200歐元，最新上漲2.6%。"
+    },
+    {
+      "id": "mkt:01a13ff7-e993-7ee0-a8a1-aa94ffcee85e",
+      "time": "2026-10-15 22:29:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index slips to over three-month low as capesize freight weakens】The Baltic Dry Index fell for a ninth straight session on Thursday, down 122 points (4.57%) to 2,545, its lowest since June 30. The capesize index dropped 308 points (-8.48%) to 3,322, the weakest since early April; capesize average daily earnings fell $2,792 to $26,625. The panamax index fell 53 points (-2.20%) to 2,356; panamax average daily earnings declined $480 to $21,200. The supramax index rose 11 points (0.60%) to 1,856."
+    },
+    {
+      "id": "5147992",
+      "time": "2026-10-15 22:29:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝萊德Evy Hambro：對Goldminer“魯莽”的股票回購感到“驚愕”。"
+    },
+    {
+      "id": "5147991",
+      "time": "2026-10-15 22:29:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【招商證券：9月出口同比增幅擴大，汽車產銷三個月滾動同比降幅擴大】招商證券研報指出：本週景氣度改善的方向主要在資源品和資訊科技領域。上游資源品中，煤炭和部分化工品價格上漲；中游製造領域，9月汽車產銷三個月滾動同比降幅擴大，各類挖掘機、各類裝載機銷量三個月滾動同比增幅收窄。資訊科技中，9月臺股電子廠商營收多數放緩；積體電路進口、出口金額三個月滾動同比增幅擴大。消費服務領域，白酒價格指數上行。受益於AI投資拉動需求、價格上行和海外補庫，9月我國出口同比增幅延續擴大。推薦景氣較高或有改善的煤炭、化工、半導體、食品飲料、醫療器械、紡織製造等。"
+    },
+    {
+      "id": "mkt:01a13ff7-0b8a-7ee0-a8a1-a0a8831e2501",
+      "time": "2026-10-15 22:28:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Multiple large explosions heard in Aden, southern Yemen】Xinhua said a reporter in the southern Yemeni port city of Aden heard multiple large explosions on the 15th and saw smoke rising near the presidential palace."
+    },
+    {
+      "id": "5147990",
+      "time": "2026-10-15 22:28:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "保加利亞尋求在2027年預算計劃中削減赤字和債務。"
+    },
+    {
+      "id": "mkt:01a13ff6-66be-7ee0-a8a1-9b719044d04a",
+      "time": "2026-10-15 22:27:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Two government officials said Houthi forces fired several missiles at the presidential palace complex in Aden, Yemen."
+    },
+    {
+      "id": "5147989",
+      "time": "2026-10-15 22:27:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩名政府官員：胡塞武裝向葉門亞丁的總統府建築群發射了數枚導彈。"
+    },
+    {
+      "id": "5147988",
+      "time": "2026-10-15 22:26:53",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "新華社記者15日在葉門南部港口城市亞丁聽到多次巨大爆炸聲，並看到總統府附近升起濃煙。（新華社）"
+    },
     {
       "id": "te:markets:592447",
       "time": "2026-10-15 22:25:48",
@@ -112831,123 +112948,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯：微軟在2025年裁減6000名美國員工，此前卻認證無法找到合格的美國員工，但該公司獲批超過6000份H-1B簽證，並提交了3682份PERM申請，其中近1000份申請針對的是與被裁美國員工相同的崗位。"
-    },
-    {
-      "id": "5132744",
-      "time": "2026-10-08 22:30:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭稱襲擊了俄羅斯鄂木斯克煉油廠。"
-    },
-    {
-      "id": "5132743",
-      "time": "2026-10-08 22:30:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "EIA天然氣報告：截至10月2日當週，美國天然氣庫存總量為35000億立方英尺，較此前一週增加850億立方英尺，較去年同期減少1300億立方英尺，同比降幅3.6%，同時較5年均值高680億立方英尺，增幅2.0%。"
-    },
-    {
-      "id": "5132742",
-      "time": "2026-10-08 22:30:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【知情人士：英國與歐盟達成協議 實現碳排放交易體系互通】四名知情談判人士透露，英國與歐盟已成功達成協議，將雙方各自的碳排放交易體系對接。 這項談判自去年啟動，現已收尾，相關協議計劃在未來幾周舉行的英歐峰會上正式公佈。 一名歐盟外交官表示，在官宣之前，雙方目前只是為協議“完成最後的收尾工作”。碳交易市場互通，是英歐雙方在去年峰會上承諾談判的三大議題之一，也是首個順利落地的議題。另外兩項提案的談判仍在推進：一項旨在取消農產品與食品邊境查驗的貿易協定，以及面向年輕人的全新“青年流動簽證”方案。 雙方均表示，三項協議屬於一攬子安排，不會單獨落地。 預計於11月舉辦的本次峰會，既是當前各項談判的截止節點，也有望成為推動雙邊關係進一步走近的跳板。 峰會日期尚未正式公佈，但內部討論的預案是11月20日舉辦。"
-    },
-    {
-      "id": "mkt:01a11bec-0d62-7ee0-a7fc-fc1f2a4b156c",
-      "time": "2026-10-08 22:30:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "EIA weekly natural gas report for week ended Oct. 2: U.S. working gas in storage 3,500 Bcf, up 85 Bcf week/week; 130 Bcf below year-ago (-3.6%) and 68 Bcf above the five-year average (+2.0%)."
-    },
-    {
-      "id": "mkt:01a11beb-fe0d-7ee0-a7fc-f6a6ff24a667",
-      "time": "2026-10-08 22:30:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. EIA weekly natural gas storage build for week ended Oct. 2: 85 bcf vs. market expected 79 bcf; prior 64 bcf."
-    },
-    {
-      "id": "5132741",
-      "time": "2026-10-08 22:30:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源資訊署稱，上週美國天然氣庫存增加了850億立方英尺。"
-    },
-    {
-      "id": "mkt:01a11beb-cff9-7ee0-a7fc-e996bb50239d",
-      "time": "2026-10-08 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Natural Gas Storage Change (Oct.2) | actual 85000000000B | consensus 79000000000B | previous 64000000000B"
-    },
-    {
-      "id": "5132740",
-      "time": "2026-10-08 22:29:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "據法庭檔案顯示，委內瑞拉馬杜羅及其妻子西莉亞·弗洛雷斯在美國被控合謀實施酷刑。"
-    },
-    {
-      "id": "5132739",
-      "time": "2026-10-08 22:28:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福田汽車與卓馭科技簽署戰略合作協議】10月8日，福田汽車與深圳市卓馭科技有限公司正式簽署戰略合作協議。雙方將在商用車高階智慧駕駛領域開展全方位、深度戰略合作，共同加速智慧駕駛技術規模化量產與商業化落地，助力商用車產業智慧化、網聯化轉型升級。"
-    },
-    {
-      "id": "5132738",
-      "time": "2026-10-08 22:28:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我認為，99%的美國公民看到像埃隆·馬斯克這樣的人都會說，顯然，如果這個人想來到美國建設偉大的事業，我們支援。"
-    },
-    {
-      "id": "mkt:01a11bea-78c3-7ee0-a7fc-e0f5c52e4f0e",
-      "time": "2026-10-08 22:28:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Foton Motor signs strategic cooperation agreement with Shenzhen Zhuoyu Technology】Oct 8 — Foton Motor and Shenzhen Zhuoyu Technology signed a strategic cooperation agreement to develop high-level automated driving for commercial vehicles, aiming to accelerate mass production and commercial deployment of intelligent-driving systems and to support the commercial vehicle sector’s smart, connected upgrade."
-    },
-    {
-      "id": "5132737",
-      "time": "2026-10-08 22:27:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國勞工部長宣佈，暫停微軟、Adobe等全球部分大型IT外包服務商參與勞工認證專案的資格。"
-    },
-    {
-      "id": "5132736",
-      "time": "2026-10-08 22:27:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陳吉寧朱忠明與寧海鷹桑本率青海果洛州黨政代表團舉行座談】今天（10月8日）下午，上海市委書記陳吉寧，市委副書記、市長朱忠明與青海省果洛藏族自治州委書記寧海鷹，州委副書記、州長桑本率領的果洛州黨政代表團舉行座談。（澎湃）"
     }
   ]
 }
