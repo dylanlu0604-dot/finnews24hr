@@ -1,7 +1,124 @@
 {
   "date": "2026-10-15",
-  "count": 2351,
+  "count": 2364,
   "items": [
+    {
+      "id": "te:markets:592457",
+      "time": "2026-10-15 23:06:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Hits Five-Week Low — Canada’s 10-year government bond yield fell to around 3.80% in October, its lowest level in five weeks, tracking a decline in global yields as a selloff in technology and AI stocks drove investors toward safe-haven government bonds. Concerns about the sustainability of AI spending in a high-interest-rate environment fueled a broader flight to safety. However, strong Canadian manufacturing sales boosted expectations of a Bank of Canada rate hike at its next meeting, with markets pricing in a 69.7% probability of an increase. Canadian manufacturing sales rose 1.5% month-over-month to C$79.9 billion in August 2026, beating expectations for a 1.1% increase and marking the sharpest rise since April. The upbeat data contrasted with recent signs of a cooling economy. Employment fell by 68,300, far below expectations for a 7,000 increase, pointing to a weaker start to the third quarter."
+    },
+    {
+      "id": "mkt:01a14019-5679-7ee0-a8a2-37eb279a9620",
+      "time": "2026-10-15 23:06:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "US major equity indices diverged: Dow Jones Industrial Average up over 1%, Nasdaq Composite down 0.28%."
+    },
+    {
+      "id": "5148054",
+      "time": "2026-10-15 23:05:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯盧布9月實際有效匯率環比下降2.4%。"
+    },
+    {
+      "id": "5148053",
+      "time": "2026-10-15 23:05:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達釋出邊緣模型 Nemotron 3.5 Bolt 74B-A9B（24GB）。"
+    },
+    {
+      "id": "5148052",
+      "time": "2026-10-15 23:05:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.02%，現報52147.309點；納指跌0.30%，現報26614.054點；標普500指數漲0.13%，現報7728.670點。"
+    },
+    {
+      "id": "5148051",
+      "time": "2026-10-15 23:04:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達釋出 Nemotron 3.5 Super VL。"
+    },
+    {
+      "id": "5148049",
+      "time": "2026-10-15 23:04:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破82000美元，日內漲0.46%。"
+    },
+    {
+      "id": "5148048",
+      "time": "2026-10-15 23:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達釋出 1200 億引數開源智慧體模型 Nemotron。"
+    },
+    {
+      "id": "5148047",
+      "time": "2026-10-15 23:04:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "帕克斯頓向得克薩斯州的資料中心開發專案致信。"
+    },
+    {
+      "id": "5148046",
+      "time": "2026-10-15 23:04:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市擴大漲幅，道瓊斯指數上漲1.00%。"
+    },
+    {
+      "id": "5148045",
+      "time": "2026-10-15 23:03:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "GLANCE宣佈與PayPal進行代理式商務整合，為數千萬美國消費者帶來AI驅動的購物和結賬體驗。"
+    },
+    {
+      "id": "5148044",
+      "time": "2026-10-15 23:03:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "耐克：公司與巴塞羅那足球俱樂部攜手Tyler, the Creator推出獨家系列。"
+    },
+    {
+      "id": "5148043",
+      "time": "2026-10-15 23:02:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克指數跌幅收窄；標普500指數持平，納斯達克指數下跌0.5%。"
+    },
     {
       "id": "5148042",
       "time": "2026-10-15 23:01:30",

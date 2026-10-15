@@ -1,7 +1,124 @@
 {
-  "updated": "2026-10-15 23:02:55",
-  "count": 12326,
+  "updated": "2026-10-15 23:07:01",
+  "count": 12329,
   "items": [
+    {
+      "id": "te:markets:592457",
+      "time": "2026-10-15 23:06:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Hits Five-Week Low — Canada’s 10-year government bond yield fell to around 3.80% in October, its lowest level in five weeks, tracking a decline in global yields as a selloff in technology and AI stocks drove investors toward safe-haven government bonds. Concerns about the sustainability of AI spending in a high-interest-rate environment fueled a broader flight to safety. However, strong Canadian manufacturing sales boosted expectations of a Bank of Canada rate hike at its next meeting, with markets pricing in a 69.7% probability of an increase. Canadian manufacturing sales rose 1.5% month-over-month to C$79.9 billion in August 2026, beating expectations for a 1.1% increase and marking the sharpest rise since April. The upbeat data contrasted with recent signs of a cooling economy. Employment fell by 68,300, far below expectations for a 7,000 increase, pointing to a weaker start to the third quarter."
+    },
+    {
+      "id": "mkt:01a14019-5679-7ee0-a8a2-37eb279a9620",
+      "time": "2026-10-15 23:06:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "US major equity indices diverged: Dow Jones Industrial Average up over 1%, Nasdaq Composite down 0.28%."
+    },
+    {
+      "id": "5148054",
+      "time": "2026-10-15 23:05:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯盧布9月實際有效匯率環比下降2.4%。"
+    },
+    {
+      "id": "5148053",
+      "time": "2026-10-15 23:05:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達釋出邊緣模型 Nemotron 3.5 Bolt 74B-A9B（24GB）。"
+    },
+    {
+      "id": "5148052",
+      "time": "2026-10-15 23:05:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.02%，現報52147.309點；納指跌0.30%，現報26614.054點；標普500指數漲0.13%，現報7728.670點。"
+    },
+    {
+      "id": "5148051",
+      "time": "2026-10-15 23:04:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達釋出 Nemotron 3.5 Super VL。"
+    },
+    {
+      "id": "5148049",
+      "time": "2026-10-15 23:04:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破82000美元，日內漲0.46%。"
+    },
+    {
+      "id": "5148048",
+      "time": "2026-10-15 23:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達釋出 1200 億引數開源智慧體模型 Nemotron。"
+    },
+    {
+      "id": "5148047",
+      "time": "2026-10-15 23:04:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "帕克斯頓向得克薩斯州的資料中心開發專案致信。"
+    },
+    {
+      "id": "5148046",
+      "time": "2026-10-15 23:04:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市擴大漲幅，道瓊斯指數上漲1.00%。"
+    },
+    {
+      "id": "5148045",
+      "time": "2026-10-15 23:03:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "GLANCE宣佈與PayPal進行代理式商務整合，為數千萬美國消費者帶來AI驅動的購物和結賬體驗。"
+    },
+    {
+      "id": "5148044",
+      "time": "2026-10-15 23:03:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "耐克：公司與巴塞羅那足球俱樂部攜手Tyler, the Creator推出獨家系列。"
+    },
+    {
+      "id": "5148043",
+      "time": "2026-10-15 23:02:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克指數跌幅收窄；標普500指數持平，納斯達克指數下跌0.5%。"
+    },
     {
       "id": "5148042",
       "time": "2026-10-15 23:01:30",
@@ -112383,89 +112500,6 @@
         "國際"
       ],
       "text": "【美國聯邦貿易委員會指控Cleo AI誤導消費者，將返還1580萬美元】美國聯邦貿易委員會指控Cleo AI透過虛假現金預支承諾以及難以取消的訂閱服務欺騙消費者，將向受影響客戶返還超過1580萬美元。聯邦貿易委員會在2025年3月的訴狀中稱，Cleo AI承諾可提供數百美元預支款，但幾乎無人拿到。FTC還指控，Cleo為即時預支收取隱性費用，而資金往往要等到次日才到賬。退款將發放給2124796名符合條件、曾支付即時現金預支服務費用的Cleo AI使用者。"
-    },
-    {
-      "id": "5132825",
-      "time": "2026-10-08 23:06:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：龍飛船鼻錐已關閉並鎖定，做好再入（大氣層）準備，預計約 30 分鐘後濺落。\n注：鼻錐關閉是龍飛船重返大氣層前的關鍵步驟。"
-    },
-    {
-      "id": "mkt:01a11c0c-4feb-7ee0-a7fe-623870dc7621",
-      "time": "2026-10-08 23:05:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy says a Ukrainian delegation is traveling to the US for talks."
-    },
-    {
-      "id": "mkt:01a11c0c-05bc-7ee0-a7fe-5f5baa76205c",
-      "time": "2026-10-08 23:05:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President ZELENSKIY agreed to meet European Commission President VON DER LEYEN and European Council President COSTA as soon as possible."
-    },
-    {
-      "id": "5132824",
-      "time": "2026-10-08 23:05:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：已同意近期與歐洲理事會主席科斯塔和歐盟委員會主席馮德萊恩會面。"
-    },
-    {
-      "id": "te:markets:590576",
-      "time": "2026-10-08 23:04:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Natural Gas Halts Rebound Momentum — Natural gas futures fell below $3.18 per MMBtu on Thursday, halting four consecutive sessions of gains as higher domestic storage momentarily offset the outlook for stronger heating demand and persistent supply tightness elsewhere. Data from the EIA showed US energy companies added 85 billion cubic feet to storage in the week ending October 2, exceeding expectations of 79 bcf and rivaling peak injections seen in June. On top of that, domestic supply availability could increase as Gulf hurricanes threaten to disrupt operations at major LNG export terminals. This stalled the steady rally in natural gas futures seen earlier this month, when forecasts of colder weather prompted utilities to position for early-season heating demand. Meanwhile, overseas demand for US LNG remained elevated across Europe and Asia as strikes against commercial vessels in the Strait of Hormuz clouded the export outlook for top producer Qatar."
-    },
-    {
-      "id": "5132823",
-      "time": "2026-10-08 23:04:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利外交部週四表示，其網站遭到網路攻擊，但安全系統已成功化解威脅，服務未受影響。"
-    },
-    {
-      "id": "5132822",
-      "time": "2026-10-08 23:03:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國會預算辦公室（CBO）主任斯瓦格爾：結構性財政赤字率達6%。"
-    },
-    {
-      "id": "mkt:01a11c0a-6966-7ee0-a7fe-560574621396",
-      "time": "2026-10-08 23:03:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wanning, Hainan issues red rainstorm warning】At 21:43 on Oct 8 Wanning meteorological station upgraded its rainstorm warning from orange to red. Influenced by an easterly jet, Dong'ao town recorded 151.5 mm over the past 12 hours. Over the next 12 hours Wanning’s towns/districts and coastal stretches Shimei–Riyue Bay, Dahuajiao–Laoyehai, Zhengmenhai–Xiaohai are forecast to receive 150–200 mm of rain."
-    },
-    {
-      "id": "5132821",
-      "time": "2026-10-08 23:03:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航空表示，鑑於地區局勢發展，已取消往返利雅得的航班，直至10月10日。"
-    },
-    {
-      "id": "mkt:01a11c09-f549-7ee0-a7fe-4fb4752a54c2",
-      "time": "2026-10-08 23:02:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico central bank minutes: a majority of board members said exchange-rate appreciation is consistent with continued lower inflationary pressures."
     }
   ]
 }
