@@ -1,7 +1,47 @@
 {
   "date": "2026-10-16",
-  "count": 250,
+  "count": 254,
   "items": [
+    {
+      "id": "5148332",
+      "time": "2026-10-16 02:53:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部就選民名單問題起訴加利福尼亞州。"
+    },
+    {
+      "id": "5148331",
+      "time": "2026-10-16 02:52:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價為每桶 105.92 美元，下跌 14 美分，跌幅 0.13%。"
+    },
+    {
+      "id": "mkt:01a140e8-777b-7ee0-a8a6-ec33f7deb760",
+      "time": "2026-10-16 02:52:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Iran’s economy is being steadily squeezed and even its nominal allies are powerless to reverse it. The Treasury will not relent unless the Iranian regime’s coffers are exhausted and every financial lifeline supporting its war machine is cut."
+    },
+    {
+      "id": "mkt:01a140e7-dfb4-7ee0-a8a6-e0b54c5a4607",
+      "time": "2026-10-16 02:51:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $105.92 a barrel, down $0.14, or 0.13%."
+    },
     {
       "id": "mkt:01a140e5-efa7-7ee0-a8a6-dc4438ca8c27",
       "time": "2026-10-16 02:49:33",
