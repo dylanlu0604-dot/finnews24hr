@@ -1,7 +1,112 @@
 {
-  "updated": "2026-10-15 09:14:07",
-  "count": 11993,
+  "updated": "2026-10-15 09:17:52",
+  "count": 11988,
   "items": [
+    {
+      "id": "5146066",
+      "time": "2026-10-15 09:16:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守94美元/桶，日內跌1.15%。"
+    },
+    {
+      "id": "mkt:01a13d21-d397-7ee0-a889-8329d97bfb47",
+      "time": "2026-10-15 09:16:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $103/bbl, down 1.42% intraday."
+    },
+    {
+      "id": "5146065",
+      "time": "2026-10-15 09:16:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價跌幅擴大至11%，外資拋售加劇。"
+    },
+    {
+      "id": "5146064",
+      "time": "2026-10-15 09:15:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報6482.00元。"
+    },
+    {
+      "id": "mkt:01a13d20-ecd0-7ee0-a889-79b2d1002e7b",
+      "time": "2026-10-15 09:15:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened down 1.28% at 24,022, trading 292 points below the cash index."
+    },
+    {
+      "id": "mkt:01a13d20-c852-7ee0-a889-73d8ff6a06cd",
+      "time": "2026-10-15 09:15:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The Saudi-led coalition said it intercepted and shot down a drone in the eastern region."
+    },
+    {
+      "id": "5146060",
+      "time": "2026-10-15 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7253元，下調4點。"
+    },
+    {
+      "id": "5146059",
+      "time": "2026-10-15 09:15:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報94.13美元/桶。"
+    },
+    {
+      "id": "5146057",
+      "time": "2026-10-15 09:15:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【琶洲太空智算星組雙星升空 開啟“天數天算”新階段】14日19時40分，琶洲太空智算星組首批兩顆算力衛星在酒泉衛星發射中心由“朱雀二號”改進型運載火箭搭載發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。此次發射的“琶洲太空智算星組”首批兩顆算力衛星支援在軌7×24小時穩定執行，投運後，將在太空算力載荷常態化執行、鐳射高頻寬星間互聯與星地通訊、跨衛星太空大模型分散式計算三方面實現業界首創，形成全棧軟硬一體化能力。（央視）"
+    },
+    {
+      "id": "5146056",
+      "time": "2026-10-15 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌1.22%，報24036.76點，低水277.41點。"
+    },
+    {
+      "id": "5146052",
+      "time": "2026-10-15 09:13:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CoreWeave CEO稱市場反應“不理性”，堅稱業務模式穩健】當地時間10月14日，人工智慧雲服務商CoreWeave股價及債券價格大幅下跌後，執行長邁克·因特拉託在內部備忘錄中稱，市場正表現得“不理性”，並強調公司業務模式穩健，現有合同積壓足以充分覆蓋債務義務。CoreWeave股價當天下跌15%至65.78美元，創2月以來最大單日跌幅。因特拉託認為，部分同行上市及債務融資受阻，加劇了市場對CoreWeave的擔憂。他稱，公司在執行能力、收入規模、客戶基礎及軟體解決方案方面優於尋求融資的競爭對手，並表示將在下一次財報電話會上進一步回應市場疑慮。"
+    },
     {
       "id": "5146048",
       "time": "2026-10-15 09:13:24",
@@ -109286,147 +109391,6 @@
         "MKT News"
       ],
       "text": "South Korea's Foreign Ministry said it will take legal action if the transport is confirmed to be illegal."
-    },
-    {
-      "id": "mkt:01a11916-4898-7ee0-a7e4-c6e53340dbee",
-      "time": "2026-10-08 09:17:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Foreign Ministry said it has not confirmed whether South Korean fuel was exported to Russia."
-    },
-    {
-      "id": "mkt:01a11916-16d3-7ee0-a7e4-be45c16bdd43",
-      "time": "2026-10-08 09:17:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "South Korea's foreign ministry said export controls on Russia do not cover commercial diesel and aviation fuel."
-    },
-    {
-      "id": "mkt:01a11915-e87f-7ee0-a7e4-b47fa53c5554",
-      "time": "2026-10-08 09:17:08",
-      "tags": [
-        "MKT News",
-        "AUR.O",
-        "Impact bullish"
-      ],
-      "text": "The Trump administration approved exemptions allowing Aurora and other companies' autonomous trucks to bypass a rule that requires human drivers to place reflective triangle warning devices around stopped trucks."
-    },
-    {
-      "id": "5130985",
-      "time": "2026-10-08 09:17:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國外交部：商用柴油、航空燃油未納入對俄出口管制範圍。"
-    },
-    {
-      "id": "mkt:01a11915-7f18-7ee0-a7e4-a80f76275211",
-      "time": "2026-10-08 09:16:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "China LPG main contract hit the daily limit, rising 9.00% to 7,194 yuan/ton."
-    },
-    {
-      "id": "5130984",
-      "time": "2026-10-08 09:16:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【靈生科技完成億元級A輪融資】10月8日，靈生科技正式官宣完成億元級A輪融資，本次融資由華方資本、道禾長期旗下道禾元啟、蘇文電能、某具身智慧領域頭部產業戰略投資方聯合投資。"
-    },
-    {
-      "id": "5130983",
-      "time": "2026-10-08 09:16:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【LG新能源與Elevra簽署鋰供應協議】根據宣告，LG新能源有限公司（LG Energy Solution Ltd.）已與Elevra鋰業有限公司（Elevra Lithium Ltd.）簽署協議，購買加拿大出產的鋰輝石精礦，協議期限為四年。從今年晚些時候開始，Elevra將在協議期內供應24萬幹噸鋰輝石精礦。LG表示，該協議將加強北美地區的供應鏈，並支援日益增長的儲能系統需求。Elevra執行長Lucas Dow表示，該公司位於魁北克省的專案產出中，已有“相當大的一部分”獲得了“有明確承諾的客戶”。"
-    },
-    {
-      "id": "5130982",
-      "time": "2026-10-08 09:16:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲9%，現報7194.00元。"
-    },
-    {
-      "id": "mkt:01a11914-b49e-7ee0-a7e4-a645fa51df29",
-      "time": "2026-10-08 09:15:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Fuel oil main contract's intraday gain widened to 12.00%, trading at 4,905 yuan/ton."
-    },
-    {
-      "id": "5130981",
-      "time": "2026-10-08 09:15:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【啟雲方將推出EDA系統級電子設計工具鏈等新品】 記者從知情人士方面獲悉，啟雲方科技有限公司將於10月14日-16日舉行的2026灣區半導體產業生態博覽會（簡稱：灣芯展）上釋出多款新品，其中包括：EDA系統級電子設計工具鏈、“小籠蝦™”智慧體安全解決方案（安全+AI），分別聚焦硬體研發效率提升與AI Agent進入企業核心業務後的安全治理。據悉，該EDA系統級電子設計工具鏈，貫通硬體研發全流程，支援多角色協同與研發資料統一管理，推動國產工業軟體電子設計能力由單點工具向系統級協同升級。（科創板日報）"
-    },
-    {
-      "id": "5130980",
-      "time": "2026-10-08 09:15:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7367元。"
-    },
-    {
-      "id": "5130979",
-      "time": "2026-10-08 09:15:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純苯連續主力合約日內漲7%，現報9279.00元。"
-    },
-    {
-      "id": "5130978",
-      "time": "2026-10-08 09:15:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲12%，現報4905.00元。"
-    },
-    {
-      "id": "5130977",
-      "time": "2026-10-08 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤跌0.97%，報23881.08點，低水249.42點。"
-    },
-    {
-      "id": "5130976",
-      "time": "2026-10-08 09:14:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲5%，現報6584.00元。"
-    },
-    {
-      "id": "5130975",
-      "time": "2026-10-08 09:14:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【 國際復材：目前公司不涉及電子布材料回收業務 】 國際復材在互動平臺表示，公司始終聚焦玻纖主業，堅持高階化、差異化產品策略，產品結構覆蓋中高階玻纖及製品，在電子布等高階產品領域持續佈局。目前公司不涉及電子布材料回收業務。"
     }
   ]
 }
