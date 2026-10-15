@@ -1,7 +1,112 @@
 {
-  "updated": "2026-10-15 13:45:23",
-  "count": 12257,
+  "updated": "2026-10-15 13:49:09",
+  "count": 12262,
   "items": [
+    {
+      "id": "mkt:01a13e1a-3ab9-7ee0-a891-8a345c07e807",
+      "time": "2026-10-15 13:47:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BANK OF JAPAN policy board member Koeda said underlying inflation is stabilizing around 2%."
+    },
+    {
+      "id": "mkt:01a13e1a-1693-7ee0-a891-874cbba2c16f",
+      "time": "2026-10-15 13:47:39",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan policy board member Koeda said she believes the neutral rate is clearly above 1%."
+    },
+    {
+      "id": "mkt:01a13e19-feae-7ee0-a891-7967c94dd166",
+      "time": "2026-10-15 13:47:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【EU leaders seek to curb energy-price surge but US‑Iran war leaves few policy options】EU leaders meet for a two-day summit in Brussels starting Thursday to address surging energy costs; the US‑Iran war has left policymakers with limited options and energy inflation is central to debates over European competitiveness. The European Commission will tell heads there is no quick fix. Member states face fiscal constraints: price caps or tax cuts carry heavy budget costs, and higher interest rates raise the fiscal burden. Brussels is considering measures with limited near-term impact — extending joint energy procurement, postponing methane-related climate rules tied to fossil-fuel imports, and prolonging national aid for hard-hit industries. Europe’s reliance on imported oil and gas means these steps are unlikely to prevent short-term energy-price increases."
+    },
+    {
+      "id": "mkt:01a13e19-ef3d-7ee0-a891-735f6449f9ff",
+      "time": "2026-10-15 13:47:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fengfei Aviation wins procurement order from Singapore's JC Aviation】Fengfei Aviation said it has signed a strategic cooperation agreement with Singapore-based JC Aviation to collaborate on eVTOL procurement, airworthiness certification, crew training and local operations support, initially focusing on India and Brazil with later expansion into Latin America. JC Aviation has confirmed orders for two V2000CG Kairiou eVTOLs and one SUNSHIP zero-carbon seaplane terminal; under the agreement it will procure 260 eVTOLs and 10 SUNSHIP terminals from Fengfei over the next five years."
+    },
+    {
+      "id": "5146783",
+      "time": "2026-10-15 13:47:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行小枝：價格走勢在2%左右趨於穩定。"
+    },
+    {
+      "id": "5146782",
+      "time": "2026-10-15 13:46:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【峰飛航空獲新加坡JC航空採購訂單】從峰飛航空獲悉，公司日前已和新加坡JC航空簽署戰略合作協議，雙方將圍繞eVTOL採購、適航認證、人員培訓以及本地運營保障等領域展開深度合作，合作初期聚焦印度和巴西兩大市場，後續逐步拓展至拉丁美洲。截至目前，JC航空已確認訂購2架峰飛航空V2000CG凱瑞鷗eVTOL和1艘SUNSHIP零碳水上機場。根據協議內容，未來五年內，JC航空將向峰飛航空採購260架eVTOL以及10艘SUNSHIP零碳水上機場。"
+    },
+    {
+      "id": "5146781",
+      "time": "2026-10-15 13:45:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行審議委員小枝：認為中性利率顯著高於1%。"
+    },
+    {
+      "id": "5146780",
+      "time": "2026-10-15 13:45:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪：比亞迪輔助駕駛車型保有量超395萬輛，天神之眼每天生成資料超2.4億公里。"
+    },
+    {
+      "id": "5146779",
+      "time": "2026-10-15 13:45:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大金融板塊午後再度拉昇 錦龍股份觸及漲停】午後大金融板塊再度拉昇，錦龍股份觸及漲停，此前華林證券回封漲停，華信永道、匯金股份、財富趨勢、大智慧、華鑫股份、東方財富等快速衝高。"
+    },
+    {
+      "id": "mkt:01a13e18-067c-7ee0-a891-691ea51473fd",
+      "time": "2026-10-15 13:45:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "BYD says its assisted-driving-equipped fleet exceeds 3.95 mln vehicles and its Tianshen Eye system generates data covering more than 240 mln km per day."
+    },
     {
       "id": "mkt:01a13e17-a8a3-7ee0-a891-67013d7b84fa",
       "time": "2026-10-15 13:45:00",
@@ -95,6 +200,15 @@
         "國際"
       ],
       "text": "日本央行小枝：日本經濟展現出韌性。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202610153896768263",
+      "time": "2026-10-15 13:42:09",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本央行委員小枝淳子稱，難以確定中性利率水平；需要及時調整利率。"
     },
     {
       "id": "5146770",
@@ -111743,60 +111857,6 @@
         "焦點"
       ],
       "text": "【騰訊據悉考慮發行至多50億美元離岸債券】據知情人士稱，騰訊控股在考慮發行至多50億美元的離岸債券。這些債券可能以美元和離岸人民幣計價，最早或於本月發行。騰訊6月已透過發行長期美元和人民幣債券籌集了近47億美元資金，創其2020年以來最大發債規模，所得資金主要用於債務再融資，以及包括開發AI產品和服務在內的一般公司用途。"
-    },
-    {
-      "id": "5131399",
-      "time": "2026-10-08 13:48:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內跌1%，現報4856.00元。"
-    },
-    {
-      "id": "5131398",
-      "time": "2026-10-08 13:48:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【水井坊註冊資本減少約12.9萬】天眼查App顯示，近日，四川水井坊股份有限公司發生工商變更，註冊資本由約4.875億元變更為約4.8737億元，減少約12.915萬元，減幅約0.0265%；同時，該公司發生章程備案、高階管理人員備案等變更。四川水井坊股份有限公司成立於1993年12月，法定代表人為幹曉峰，企業型別為其他股份有限公司（上市），經營範圍含食品生產、食品銷售、食品新增劑生產等。"
-    },
-    {
-      "id": "5131396",
-      "time": "2026-10-08 13:47:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中科海訊禁入公告所列法定代表人去年已變更】近日，中科海訊公告稱，因在某考核系統採購專案中存在圍標串標行為，公司被禁止自2026年9月23日至2027年9月23日參加海軍物資工程服務採購活動。公告同時載明，禁止期內，“法定代表人蔡惠智”控股或管理的其他企業也被禁止參與上述採購。據天眼查顯示，北京中科海訊數字科技股份有限公司當前法定代表人為張秋生，蔡惠智仍擔任董事。公司2025年5月8日釋出的公告已披露，法定代表人由蔡惠智變更為張秋生，相關工商變更手續已完成。"
-    },
-    {
-      "id": "5131395",
-      "time": "2026-10-08 13:47:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "中證500股指期貨（IC）主力合約向下觸及7100點，日內跌2.92%。"
-    },
-    {
-      "id": "5131394",
-      "time": "2026-10-08 13:47:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比亞迪車輛落水識別專利公佈】天眼查App顯示，10月2日，比亞迪股份有限公司申請的“一種車輛落水識別系統、軟體系統及車輛”專利公佈，申請號為CN202511220152.7，申請日期為2025年8月28日，當前簡單法律狀態為“審中”。摘要顯示，該申請提出一種車輛落水識別系統、軟體系統及車輛，利用聯動系統判斷汽車是否落水，判斷多種汽車落水姿態，並控制車輛的多個部件，以在車輛落水後，幫助車內人員快速逃生。"
-    },
-    {
-      "id": "te:markets:590396",
-      "time": "2026-10-08 13:46:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in China Hit 9-week Low — SHANGHAI decreased to 3806.00 Index Points, the lowest since August 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 3.64%, and in the last 12 months, it decreased 3.21%."
     }
   ]
 }
