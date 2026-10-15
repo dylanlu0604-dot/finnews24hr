@@ -1,7 +1,34 @@
 {
   "date": "2026-10-16",
-  "count": 422,
+  "count": 425,
   "items": [
+    {
+      "id": "5148475",
+      "time": "2026-10-16 06:16:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：特斯拉能源業務主管離職。"
+    },
+    {
+      "id": "5148474",
+      "time": "2026-10-16 06:15:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股公司加快“回A”步伐，硬科技資產青睞“H+A”模式】今年下半年以來，港股公司“回A”持續升溫。力勤資源於9月30日率先“回A”，智譜、MINIMAX、雲英谷科技、精鋒醫療、正規化智慧等也在有序推進“回A”事宜。業內人士認為，“回A”是港股公司基於自身架構、科創屬性、盈利週期等因素採取的理性資本運作。隨著內地與香港監管協同機制的完善與多層次資本市場的建設，港股優質資產“北上”空間將進一步拓寬，有望獲得更公允的本土估值與人民幣融資渠道。（上證報）"
+    },
+    {
+      "id": "te:markets:592520",
+      "time": "2026-10-16 06:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Drops by 1.42% — Top currency losers are Brazilian Real (-1.42%), Australian Dollar (-0.71%) and Dollar Index (-0.53%). Gains are led by Swiss Franc (0.98%), Swedish Krona (0.73%), British Pound (0.62%), Euro (0.54%) and Japanese Yen (0.19%)."
+    },
     {
       "id": "5148473",
       "time": "2026-10-16 06:06:40",
