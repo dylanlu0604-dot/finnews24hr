@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-16 02:54:45",
-  "count": 12390,
+  "updated": "2026-10-16 02:58:33",
+  "count": 12389,
   "items": [
+    {
+      "id": "5148336",
+      "time": "2026-10-16 02:55:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯洛伐克成功將新核反應堆接入電網。"
+    },
     {
       "id": "5148332",
       "time": "2026-10-16 02:53:00",
@@ -113059,22 +113067,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收漲0.15%，報23807.52點，高水21.73點。"
-    },
-    {
-      "id": "mkt:01a11cdf-726e-7ee0-a804-2f8907c90968",
-      "time": "2026-10-09 02:56:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's defense ministry spokesman told Fars News weapons output rose to 2.5 times pre‑war levels. He said secure alternative sites were prepared for production facilities and that armed forces equipment supply and production did not stop for a single day; 9,000 companies voluntarily moved into military production during the war."
-    },
-    {
-      "id": "5133094",
-      "time": "2026-10-09 02:55:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯總統普京在與伊朗總統佩澤什基揚會談時表示，俄羅斯已準備好採取一切措施結束伊朗衝突。"
     }
   ]
 }
