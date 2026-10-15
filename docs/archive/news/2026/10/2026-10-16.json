@@ -1,7 +1,29 @@
 {
   "date": "2026-10-16",
-  "count": 242,
+  "count": 244,
   "items": [
+    {
+      "id": "5148325",
+      "time": "2026-10-16 02:38:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜釋出兩款新裝置，旨在全天候聆聽並記錄使用者資訊，從而提供日曆提醒及其他由人工智慧驅動的洞察。"
+    },
+    {
+      "id": "mkt:01a140d9-ba34-7ee0-a8a6-d25769ddfe75",
+      "time": "2026-10-16 02:36:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "OpenAI is accelerating expansion of its advertising business by recruiting employees from Meta Platforms (META.O) and lowering ad prices."
+    },
     {
       "id": "5148324",
       "time": "2026-10-16 02:34:10",

@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-16 02:35:45",
+  "updated": "2026-10-16 02:39:37",
   "count": 12392,
   "items": [
+    {
+      "id": "5148325",
+      "time": "2026-10-16 02:38:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜釋出兩款新裝置，旨在全天候聆聽並記錄使用者資訊，從而提供日曆提醒及其他由人工智慧驅動的洞察。"
+    },
+    {
+      "id": "mkt:01a140d9-ba34-7ee0-a8a6-d25769ddfe75",
+      "time": "2026-10-16 02:36:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "OpenAI is accelerating expansion of its advertising business by recruiting employees from Meta Platforms (META.O) and lowering ad prices."
+    },
     {
       "id": "5148324",
       "time": "2026-10-16 02:34:10",
@@ -113071,24 +113093,6 @@
         "市場"
       ],
       "text": "IMAX股價下跌，最新跌1.7%。"
-    },
-    {
-      "id": "mkt:01a11ccf-40a9-7ee0-a804-03750c8a8f53",
-      "time": "2026-10-09 02:38:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US Defense Secretary Hegseth said Trump wants peace but is willing to take all necessary measures to secure it in a way that would be truly historic."
-    },
-    {
-      "id": "5133085",
-      "time": "2026-10-09 02:36:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "迪士尼已就其新品牌用於大銀幕電影格式事宜與其他製片公司進行了洽談。"
     }
   ]
 }
