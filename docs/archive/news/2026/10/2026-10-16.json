@@ -1,7 +1,1024 @@
 {
   "date": "2026-10-16",
-  "count": 304,
+  "count": 409,
   "items": [
+    {
+      "id": "te:economy:592518",
+      "time": "2026-10-16 05:43:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "New Zealand Manufacturing Strengthens in September — New Zealand’s BusinessNZ Performance of Manufacturing Index rose to 56.5 in September 2026 from 53.2 in August, signaling a stronger expansion in manufacturing activity. Employment was the weakest sub-index at 51.8, although it remained in expansion and improved from 50 in August. Finished Stocks (59) and Deliveries (58.8) led the gains, while Production and New Orders both rose to 57. Despite the stronger reading, sentiment remained mixed, with 53% of comments being negative. Respondents continued to cite high fuel prices and uncertainty ahead of the election, although others pointed to seasonal activity, pre-Christmas orders, and improving demand. Overall, strength in New Orders, Production, and Finished Stocks suggests manufacturing momentum is building heading into the final quarter of the year."
+    },
+    {
+      "id": "5148463",
+      "time": "2026-10-16 05:41:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MSCI新規將推動邁克爾·塞勒旗下Strategy被踢出全球股票基準指數】明晟公司（MSCI）採納新規，可能將Strategy（MSTR）從其全球股票基準指數中剔除，或引發股票拋售，並對邁克爾·塞勒比特幣持倉背後的融資模式施加壓力。該指數編制商將在11月30日收盤生效的新框架下，把被歸類為“非經營性企業”的公司排除在外，並設立財務測試，可能導致Strategy不符合納入MSCI全球股票指數的資格。最終被剔除可能打擊Strategy首創的加密資產儲備模式，並因強制持有該股的投資者群體縮小而對其股價構成壓力。"
+    },
+    {
+      "id": "5148462",
+      "time": "2026-10-16 05:37:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國聯邦航空管理局（FAA）擬持有 Air Space Intelligence 公司股權。"
+    },
+    {
+      "id": "mkt:01a1417b-73a6-7ee0-a8a8-ebcd13e9c793",
+      "time": "2026-10-16 05:32:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. Sen. Bernie Sanders said that days before Israeli Prime Minister Netanyahu's election, the extremist government he leads again cut off food and shelter for roughly 2 million people in Gaza. Sanders called the action illegal and immoral collective punishment that will starve children and demanded an immediate end to U.S. military aid, saying taxpayer dollars must not fund these actions."
+    },
+    {
+      "id": "mkt:01a1417b-54e7-7ee0-a8a8-e4ede8641c80",
+      "time": "2026-10-16 05:32:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Datafolha poll shows Bolsonaro's son leading Brazil's presidential runoff with 51% of valid votes to President Lula's 49%."
+    },
+    {
+      "id": "5148461",
+      "time": "2026-10-16 05:32:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "Datafolha 民調：巴西總統大選第二輪投票，弗拉維奧・博索納羅有效得票率 51%，盧拉 49%。"
+    },
+    {
+      "id": "mkt:01a14179-8352-7ee0-a8a8-d8c75b64daaa",
+      "time": "2026-10-16 05:30:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "AMD.O"
+      ],
+      "text": "【Bolt Graphics seeks $100 mln funding】Three people familiar with the matter said chip-design startup Bolt Graphics is seeking roughly $100 mln in financing at an implied valuation near $700 mln. The company aims to develop graphics chips to compete with NVIDIA (NVDA.O) and AMD (AMD.O), focusing on non-AI segments such as high-precision compute for supercomputers and video-game graphics. The fundraising is ongoing and the target raise and valuation could change, the sources said."
+    },
+    {
+      "id": "mkt:01a14179-6a74-7ee0-a8a8-d06e953110ca",
+      "time": "2026-10-16 05:30:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand September Performance of Manufacturing Index 56.5; prior 53.1."
+    },
+    {
+      "id": "5148460",
+      "time": "2026-10-16 05:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭9月製造業表現指數 56.5，前值53.1。"
+    },
+    {
+      "id": "mkt:01a14178-d4a5-7ee0-a8a8-cf547a410668",
+      "time": "2026-10-16 05:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Performance of Manufacturing Index (Sep) | actual 56.5 | previous 53.1"
+    },
+    {
+      "id": "5148459",
+      "time": "2026-10-16 05:27:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（10月15日）紐約尾盤，離岸人民幣（CNH）兌美元報6.6894元，逼近2022年7月8日最終報價6.6862元、當年5月4日最終報價6.6223元、以及當年4月27日最終報價6.5868元，較週三紐約尾盤漲66點，日內整體交投於6.6979-6.6884元區間。"
+    },
+    {
+      "id": "5148458",
+      "time": "2026-10-16 05:27:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克表示，通脹思維的形成可能迫使美聯儲採取更激進的政策行動。很難確定中性利率是多少；當前金融狀況似乎並不緊縮。"
+    },
+    {
+      "id": "5148457",
+      "time": "2026-10-16 05:26:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.55%，報13453點。"
+    },
+    {
+      "id": "5148456",
+      "time": "2026-10-16 05:25:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【威尼斯將2027年遊客進城收費天數增至72天】義大利威尼斯市政府批准2027年遊客進城費收費日曆，將收費天數由2026年的60天增至72天，且每日收費時段延長半小時。根據新安排，2027年收費日期分佈在3月26日至8月15日之間，主要為週五至週日及部分節假日。與2026年相比，2027年將新增8月的部分收費日期；每日收費時段由8時30分至16時調整為8時30分至16時30分。威尼斯市政府表示，收費金額每人每天最高為10歐元（約合人民幣75元），具體收費檔次、減免範圍以及預約、支付和查驗方式等將透過後續規定進一步明確。"
+    },
+    {
+      "id": "mkt:01a14173-f519-7ee0-a8a8-c448d16f1540",
+      "time": "2026-10-16 05:24:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "People familiar with the matter say chip startup Bolt Graphics is seeking about a $700m valuation and plans to raise $100m."
+    },
+    {
+      "id": "mkt:01a14173-cefe-7ee0-a8a8-bd2eb4703bab",
+      "time": "2026-10-16 05:24:30",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's Hammack said current financial conditions do not appear restrictive."
+    },
+    {
+      "id": "mkt:01a14173-9fc7-7ee0-a8a8-b782fbfcf8f2",
+      "time": "2026-10-16 05:24:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's HAMMACK said it is difficult to determine the neutral rate."
+    },
+    {
+      "id": "mkt:01a14171-2ded-7ee0-a8a8-a9a5275ff6c0",
+      "time": "2026-10-16 05:21:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump administration sues California seeking to block about 20,000 ballots】Axios reports the Trump administration has sued California and two local election officials, alleging the state mailed mail-in ballots for November’s election to individuals who may be ineligible to vote. The complaint asks a court to bar inclusion of roughly 20,000 ballots until the voters’ citizenship can be verified. Investigators from USCIS and ICE compiled the list of potentially ineligible registrants using agency data plus Social Security Administration and State Department records. Similar federal noncitizen lists in Nevada, Pennsylvania and New Jersey were previously found to be unreliable."
+    },
+    {
+      "id": "te:economy:592517",
+      "time": "2026-10-16 05:17:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Import Prices YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Import Prices Rise in September — South Korea’s import prices rose 17.6% year-over-year in September 2026, accelerating from a 15.6% increase in August. Price gains were led by raw materials, which climbed 39.3%, while intermediate goods prices rose 14.3%. In contrast, capital goods prices fell 1.5% and consumer goods prices edged down 0.4%. By economic sector, mining product prices surged 43.6%. Manufactured goods prices rose 9%, led by a 44.4% increase in coal and petroleum products. Meanwhile, prices of agricultural, forestry, and marine products increased 2.7%. The Import Price Index rose 1.7% month-over-month. The Import Volume Index increased 11.1% year-over-year, while the Net Barter Terms of Trade Index rose 25.4%."
+    },
+    {
+      "id": "mkt:01a1416c-7983-7ee0-a8a8-a7c484327a59",
+      "time": "2026-10-16 05:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports the Trump administration is suing California and two election officials, alleging some ineligible voters received mail-in ballots for the November election."
+    },
+    {
+      "id": "5148455",
+      "time": "2026-10-16 05:13:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際金價漲超1.5%，白銀漲3.3%】週四（10月15日）紐約尾盤，現貨黃金漲1.56%，報4169.33美元/盎司，北京時間08:00前後顯著上漲，至03:30窄幅震盪於4140-4160美元區間，04:00美股收盤時重新整理日高至4177.43美元。現貨白銀漲3.30%，報57.3969美元/盎司，整體持續震盪上行，04:01重新整理日高至57.5305美元。COMEX銅期貨跌1.42%，報6.5660美元/磅，亞太時段震盪下行，12:00以來低位震盪。現貨鉑金漲1.69%，現貨鈀金漲2.96%。在美股時段交易的費城金銀指數收漲3.81%，報354.37點。在全球市場全天交易的紐約證交所ARCA金礦開採商指數漲3.16%，報2473.52點，（亞太盤初至）美股開盤之前維持微幅下跌狀態、窄幅震盪於2390點一線，之後“跳空高開”並持續擴大漲幅。在美股時段交易的原材料指數收漲1.84%，金屬與礦業指數收跌0.26%。State Street金屬與礦業ETF收漲1.48%，報101.34美元。"
+    },
+    {
+      "id": "mkt:01a14169-443e-7ee0-a8a8-9cb87c4c9a94",
+      "time": "2026-10-16 05:13:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【MSCI opens consultation to reclassify Indonesia; may move it out of Emerging Markets】MSCI said on Thursday it has launched a consultation proposing to reclassify the Indonesian equity index from Emerging Markets to Standalone Market, citing market participants’ concerns including insufficient equity ownership transparency and suspected coordinated trading. MSCI said it has not observed sustained, adequate improvements and expects a final decision by June 30, 2027."
+    },
+    {
+      "id": "mkt:01a14169-003f-7ee0-a8a8-915062bfa7b7",
+      "time": "2026-10-16 05:12:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's HAMMACK said an emerging inf mindset could force the Fed to adopt more aggressive policy action."
+    },
+    {
+      "id": "te:economy:592516",
+      "time": "2026-10-16 05:11:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Export Prices YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Export Price Growth Eases in September — South Korea’s export prices surged 40.9% year-over-year in September 2026, easing from a 42.4% increase in August. Prices of manufactured goods rose 41%, led by a 108.3% jump in computers, electronic and optical equipment. Coal and petroleum product prices also surged 78.2%, while chemical product prices increased 12.8%. Meanwhile, prices of agricultural, forestry, and marine products rose 26.7%. The Export Price Index fell 0.8% month-over-month. The Export Volume Index increased 11.1% year-over-year, while the Export Value Index surged 89.2%. The Net Barter Terms of Trade Index rose 25.4%."
+    },
+    {
+      "id": "mkt:01a14166-c865-7ee0-a8a8-8a4ff9f9e0e1",
+      "time": "2026-10-16 05:10:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said he will submit a constitutional amendment to guarantee free public transport on weekends in all Brazilian cities."
+    },
+    {
+      "id": "mkt:01a14163-31a5-7ee0-a8a8-84ba135be0ab",
+      "time": "2026-10-16 05:06:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack says firms face substantial cost pressures."
+    },
+    {
+      "id": "mkt:01a14162-d816-7ee0-a8a8-78ea82a0289e",
+      "time": "2026-10-16 05:05:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy met Denmark's prime minister to discuss the threat of Russian escalation."
+    },
+    {
+      "id": "mkt:01a14161-afad-7ee0-a8a8-7358246725d1",
+      "time": "2026-10-16 05:04:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia is treating signals of potential sanctions relief as a green light to continue strikes on residential buildings, substations and other infrastructure necessary for normal life."
+    },
+    {
+      "id": "5148454",
+      "time": "2026-10-16 05:04:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI：Rosalind 學術計劃目前面向美國高校的學術實驗室開放。"
+    },
+    {
+      "id": "5148453",
+      "time": "2026-10-16 05:03:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Rosalind 學術計劃提供最多 30 個 Business Standard 免費席位，有效期 12 個月。首期 Rosalind 學術計劃不含 API 訪問許可權。"
+    },
+    {
+      "id": "mkt:01a14160-8edd-7ee0-a8a8-6d6c9e3b6b55",
+      "time": "2026-10-16 05:03:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Some investors trim Anthropic IPO valuation expectations to $1.5 trillion】Refinitiv, citing four people, said Anthropic’s latest disclosure of slowing revenue growth has prompted some existing and prospective investors to reassess its IPO valuation. Some investors are discussing a valuation near $1.5 trillion, below prior market expectations of about $2 trillion."
+    },
+    {
+      "id": "5148452",
+      "time": "2026-10-16 05:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：Rosalind 學術計劃的資料預設不會用於模型訓練。"
+    },
+    {
+      "id": "5148451",
+      "time": "2026-10-16 05:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI ：推出 Rosalind 學術計劃，符合條件的高校實驗室可免費使用 GPT-Rosalind。"
+    },
+    {
+      "id": "5148450",
+      "time": "2026-10-16 05:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，受業績不及預期與市場拋售影響，部分投資者下調 Anthropic 估值預期。"
+    },
+    {
+      "id": "5148449",
+      "time": "2026-10-16 05:00:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元指數突破102關口，日內漲0.03%。"
+    },
+    {
+      "id": "5148448",
+      "time": "2026-10-16 05:00:28",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國9月進口物價指數年率 17.6%，前值由15.60%修正為15.9%。韓國9月出口物價指數年率 40.9%，前值由42.40%修正為42.7%。"
+    },
+    {
+      "id": "mkt:01a1415d-7ce7-7ee0-a8a8-664b0d28b802",
+      "time": "2026-10-16 05:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea September import price index YoY 17.6%; prior revised to 15.9% from 15.60%."
+    },
+    {
+      "id": "mkt:01a1415d-7ca2-7ee0-a8a8-5b7dcd6917c9",
+      "time": "2026-10-16 05:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea September export price index YoY 40.9%; prior revised to 42.7% from 42.40%."
+    },
+    {
+      "id": "mkt:01a1415d-5e1c-7ee0-a8a8-57ad5186f5f9",
+      "time": "2026-10-16 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Export Price Index (YoY) (Sep) | actual 40.9% | previous 42.40%"
+    },
+    {
+      "id": "mkt:01a1415d-5e19-7ee0-a8a8-4a880a21011f",
+      "time": "2026-10-16 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Import Price Index (YoY) (Sep) | actual 17.6% | previous 15.60%"
+    },
+    {
+      "id": "mkt:01a1415d-1973-7ee0-a8a8-43afc44bac16",
+      "time": "2026-10-16 04:59:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Sources said that after disappointing results and a market sell-off, some investors have cut valuation expectations for ANTHROPIC."
+    },
+    {
+      "id": "mkt:01a14155-b851-7ee0-a8a8-3bc34e725d60",
+      "time": "2026-10-16 04:51:39",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "MSCI said it needs more time to assess whether measures introduced by Chinese authorities have delivered the structural improvements required."
+    },
+    {
+      "id": "mkt:01a14155-b3ae-7ee0-a8a8-369b1834181a",
+      "time": "2026-10-16 04:51:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI will reassess the treatment of the MSCI Turkey Index in its 2027 annual market classification review."
+    },
+    {
+      "id": "mkt:01a14154-c623-7ee0-a8a8-2caf7d3af978",
+      "time": "2026-10-16 04:50:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "MSCI is imposing a temporary freeze on certain index-related changes to Turkish equities, effective immediately and until further notice, citing market integrity concerns. If no progress is made by June 2027, MSCI may reclassify the Turkey index from emerging markets to frontier-market or standalone-market status."
+    },
+    {
+      "id": "mkt:01a14153-1e36-7ee0-a8a8-2126242e57b4",
+      "time": "2026-10-16 04:48:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed official Hammack said first-hand feedback from firms and markets provides an important reference for assessing economic conditions."
+    },
+    {
+      "id": "5148441",
+      "time": "2026-10-16 04:48:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：民間見聞資訊可提供重要的經濟參考依據。"
+    },
+    {
+      "id": "mkt:01a14151-9fcd-7ee0-a8a8-198baf7babee",
+      "time": "2026-10-16 04:47:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack said she has heard more low-income Americans report struggling with inflation."
+    },
+    {
+      "id": "mkt:01a14151-8b32-7ee0-a8a8-14e6672fcdbd",
+      "time": "2026-10-16 04:47:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Pentagon says US will shift focus to the Pacific and other regions."
+    },
+    {
+      "id": "5148439",
+      "time": "2026-10-16 04:46:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：聽到更多美國低收入群體受通脹困擾的反饋。"
+    },
+    {
+      "id": "mkt:01a14151-3357-7ee0-a8a8-0f05396cfdf5",
+      "time": "2026-10-16 04:46:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Pentagon says the U.S. will reduce troop deployments in Europe under the NATO 3.0 framework."
+    },
+    {
+      "id": "mkt:01a14150-5e81-7ee0-a8a8-04bb8fda99d3",
+      "time": "2026-10-16 04:45:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hegseth met the British defense minister at the PENTAGON today to discuss the \"NATO 3.0\" concept."
+    },
+    {
+      "id": "mkt:01a1414f-fab3-7ee0-a8a7-fd3a7942ee0b",
+      "time": "2026-10-16 04:45:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "MSCI has opened a consultation on a proposal to reclassify Indonesia from Emerging Markets to standalone market status."
+    },
+    {
+      "id": "5148438",
+      "time": "2026-10-16 04:44:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部：美國將把重心轉向太平洋及其他地區。"
+    },
+    {
+      "id": "5148437",
+      "time": "2026-10-16 04:43:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部：國防部長赫格塞思與英國國防大臣斯特里廷會談時提出 “北約 3.0” 概念。北約 3.0 構想是對北約同盟進行力量再平衡。若推行北約 3.0，美國將縮減駐歐洲兵力。"
+    },
+    {
+      "id": "mkt:01a1414c-b640-7ee0-a8a7-f63caeade9aa",
+      "time": "2026-10-16 04:41:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) expands Android earthquake alerts to more than 200 regions."
+    },
+    {
+      "id": "5148436",
+      "time": "2026-10-16 04:41:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟公司（MSCI）：市場參與者表示，印尼股票市場整體尚未持續取得充分進展。重大關切包括持續存在疑似協同交易行為，且未見實質性執法行動證據。"
+    },
+    {
+      "id": "5148435",
+      "time": "2026-10-16 04:40:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟公司（MSCI）：就印尼市場分類調整提案開展徵詢意見。"
+    },
+    {
+      "id": "mkt:01a1414a-6ea0-7ee0-a8a7-eefe2179c03c",
+      "time": "2026-10-16 04:39:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) has launched the Universal Cart feature in the US."
+    },
+    {
+      "id": "5148433",
+      "time": "2026-10-16 04:39:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：安卓地震預警功能拓展至 200 多個地區。"
+    },
+    {
+      "id": "5148432",
+      "time": "2026-10-16 04:39:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟公司（MSCI）：維持印尼證券相關指數調整凍結措施。"
+    },
+    {
+      "id": "5148431",
+      "time": "2026-10-16 04:38:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司（MSCI）：凍結 MSCI 土耳其指數。若到 2027 年 6 月仍未見進展，或將土耳其指數從新興市場調整為前沿市場 / 獨立市場類別。"
+    },
+    {
+      "id": "5148430",
+      "time": "2026-10-16 04:38:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟公司（MSCI）：印尼指數調整提案將影響全球及區域綜合指數。"
+    },
+    {
+      "id": "5148428",
+      "time": "2026-10-16 04:38:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟公司（MSCI）：提案擬將 MSCI 印尼指數從新興市場調整為獨立市場類別。"
+    },
+    {
+      "id": "5148427",
+      "time": "2026-10-16 04:37:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌：在美國上線通用購物車，支援跨多店鋪購物。"
+    },
+    {
+      "id": "5148423",
+      "time": "2026-10-16 04:36:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國務卿魯比奧今日與以色列總理內塔尼亞胡進行了通話。"
+    },
+    {
+      "id": "te:markets:592515",
+      "time": "2026-10-16 04:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.09% Higher — The Dow Jones Index gained 560 points or 1.09 percent on Thursday to close at 52182 points. Gains were led by Nike (5.30%), Salesforce (4.57%) and Home Depot (4.25%)."
+    },
+    {
+      "id": "te:markets:592514",
+      "time": "2026-10-16 04:33:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slides Following Election Runoff Polls — The Ibovespa fell 1.1% to close at 204,324 on Thursday as investors reassessed the political outlook ahead of Brazil’s presidential runoff later this month. New polls showed Flávio Bolsonaro’s lead over President Lula narrowing, tempering optimism that had fueled a rally in Brazilian assets last week after the senator unexpectedly finished ahead of Lula in the first round. Although Flávio Bolsonaro has yet to present detailed policy plans, investors view him as more likely to pursue fiscal reforms, including spending cuts, which are seen as essential to lowering interest rates. However, questions remain about the fiscal discipline of a potential Flávio administration. Political pressure has already prompted the candidate to change his position and support ending the six-days-on, one-day-off work schedule, which the Senate approved yesterday. Among the notable laggards, Itaú fell 1.3%, Banco do Brasil gained 1.8%, Axia and Petrobras each lost 1.3%, and WEG dropped 2.7%."
+    },
+    {
+      "id": "mkt:01a14143-7f43-7ee0-a8a7-e07ec79fe00e",
+      "time": "2026-10-16 04:31:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Treasury said the U.S. Mint's fiscal 2026 sales topped $1 billion, the highest in more than 20 years, driven by strong demand for $1 coins featuring President Trump."
+    },
+    {
+      "id": "5148421",
+      "time": "2026-10-16 04:31:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "保時捷：宣佈開發全新中置發動機超級跑車平臺。"
+    },
+    {
+      "id": "mkt:01a14142-6705-7ee0-a8a7-da30cb6df168",
+      "time": "2026-10-16 04:30:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Foreign central banks reduced holdings of US Treasuries by $14.588bn in the week to Oct. 9; the prior week saw a $16.873bn reduction."
+    },
+    {
+      "id": "5148420",
+      "time": "2026-10-16 04:30:31",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至10月9日當週外國央行持有美國國債 -145.88億美元，前值-168.73億美元。"
+    },
+    {
+      "id": "mkt:01a14142-36e4-7ee0-a8a7-d1806a80f1eb",
+      "time": "2026-10-16 04:30:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Oct.9) | actual -14588000000B | previous -16872999999.999998B"
+    },
+    {
+      "id": "te:markets:592513",
+      "time": "2026-10-16 04:26:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises as Banks and Tech Stocks Rebound — The S&P/TSX Composite Index rose 1.5% to close at 36,137 on Thursday as banking and technology stocks rebounded sharply from earlier losses. Lower global bond yields boosted risk appetite after a selloff in Wall Street chipmakers drove investors toward safe-haven assets such as government bonds. Canada’s benchmark 10-year bond yield fell about 8 basis points, supporting broad-based gains across sectors. Interest-rate-sensitive stocks advanced, with RBC up 1.1%, TD Bank gaining 1.5%, and National Bank rising 1.9%. Retailers also gained, with Loblaw jumping 5% and Dollarama advancing 2.7%. Meanwhile, the selloff in chipmakers slowed sharply, while US hyperscalers mostly closed higher, lending support to Canadian technology stocks. Shopify rose 2.9%, Constellation Software jumped 4.6%. Celestica closed 3.1% lower, trimming losses. Rising gold and silver prices boosted mining shares, with Agnico Eagle gaining 5.7%, Barrick adding 4%, and WPM rising 2.5%."
+    },
+    {
+      "id": "mkt:01a14138-dd1c-7ee0-a8a7-cb39abd0472b",
+      "time": "2026-10-16 04:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "2026 FOMC voter and Cleveland Fed President Hamak is scheduled to speak in 10 minutes."
+    },
+    {
+      "id": "mkt:01a14137-bb07-7ee0-a8a7-c2a6fb603b7e",
+      "time": "2026-10-16 04:18:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【US crude up, Brent down; futures spread narrows sharply】At the close on the 15th, NYMEX November light crude futures rose $2.88 to $97.97/bbl, up 3.03%. ICE Brent December futures fell $0.14 to $105.92/bbl, down 0.13%."
+    },
+    {
+      "id": "5148414",
+      "time": "2026-10-16 04:16:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Proofpoint 將以每股 49.75 美元現金收購 Varonis，交易規模63億美元。"
+    },
+    {
+      "id": "5148410",
+      "time": "2026-10-16 04:14:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鋁業公司：預計 2026 年第四季度將延續 2026 年第三季度強勁的運營表現。重申 2026 年鋁產量 240 萬至 260 萬噸，出貨量 260 萬至 280 萬噸。仍然預測全年氧化鋁發貨量1,150萬至1,160萬公噸。"
+    },
+    {
+      "id": "5148408",
+      "time": "2026-10-16 04:13:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價15日漲跌不一】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格上漲2.88美元，收於每桶97.97美元，漲幅為3.03%；12月交貨的倫敦布倫特原油期貨價格下跌14美分，收於每桶105.92美元，跌幅為0.13%。"
+    },
+    {
+      "id": "5148407",
+      "time": "2026-10-16 04:12:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鋁業公司第三季度調整後EBITDA 7.89億美元，預估7.384億美元。\n第三季度銷售額37.0億美元，預估37.6億美元。\n第三季度調整後每股收益1.82美元，預估1.49美元。"
+    },
+    {
+      "id": "5148406",
+      "time": "2026-10-16 04:12:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "卡特彼勒收跌1.78%，報735.64美元，較6月30日所創收盤歷史最高位累計回撤大約30.8%。"
+    },
+    {
+      "id": "mkt:01a14131-2fce-7ee0-a8a7-befd0bbc7e2c",
+      "time": "2026-10-16 04:11:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US, Israel reported to intensify consultations on plans to strike Iran】On Oct 15 local time Israel’s Channel 12, citing Israeli security officials, reported that Israeli and Western intelligence assess Iran is taking extreme military measures, and that Prime Minister Netanyahu spoke the same day with US Secretary of State Rubio to consult on plans for a military strike. Channel 12 said US and Israeli officials told the station they currently assess the situation has not reached the threshold requiring immediate military action."
+    },
+    {
+      "id": "5148405",
+      "time": "2026-10-16 04:11:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列官員稱美以就打擊伊朗預案進行磋商】當地時間15日，據以色列方面援引以色列安全官員訊息稱，以色列與西方情報顯示伊朗正採取軍事方面的“極端舉措”，因此以色列總理內塔尼亞胡當天與美國國務卿盧比奧通電話，就對伊朗實施軍事打擊計劃進行磋商。不過該訊息稱，以色列和美國的官員均表示，雙方評估認為目前的態勢發展尚未達到需要立即採取軍事行動的程度。此前，美國總統特朗普曾表示不會在11月3日美國中期選舉前攻擊伊朗，內塔尼亞胡也稱10月27日以色列議會選舉前不會動手。（央視新聞）"
+    },
+    {
+      "id": "te:markets:592512",
+      "time": "2026-10-16 04:08:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rebound as Chipmaker Selloff Eases — US stock indices closed higher on Thursday, rebounding from earlier losses as the selloff in AI infrastructure stocks eased. The S&P 500 gained 0.3%, the Nasdaq closed near flat, and the Dow added 557 points. Chipmakers and AI hyperscalers pared losses after Nvidia CEO Jensen Huang pushed back against concerns about CoreWeave (+5.9%), saying he did not believe the company would need a bailout from Nvidia. The data center firm is an important test case for the viability of businesses emerging to meet surging demand for AI computing. Companies like CoreWeave have borrowed heavily with support from suppliers, including Nvidia (-1.8%), fueling concerns that circular financing may be creating artificial demand. Most hyperscalers closed higher, with Microsoft up 1.1% and Oracle gaining 3%. The chip selloff slowed sharply, with Broadcom down 0.6%, AMD losing 1.5%, while Micron rose 1.9%. The Dow was supported by a rally in Treasuries after a rout that had propelled yields to multi-year highs."
+    },
+    {
+      "id": "5148403",
+      "time": "2026-10-16 04:08:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：儘管面臨關稅相關壓力，預計加拿大銀行業將維持穩健表現。"
+    },
+    {
+      "id": "5148401",
+      "time": "2026-10-16 04:07:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：隨著業務量回升、消費者與企業情緒企穩，預計加拿大各大銀行 2027 年盈利將小幅改善。"
+    },
+    {
+      "id": "mkt:01a1412b-b31c-7ee0-a8a7-b6ef24ac6ade",
+      "time": "2026-10-16 04:05:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said it is crucial that frozen Russian assets remain frozen."
+    },
+    {
+      "id": "mkt:01a1412a-aacb-7ee0-a8a7-ade824ce5ac3",
+      "time": "2026-10-16 04:04:37",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average closed up 557.51 points, or 1.08%, at 52,178.99 on Thursday, Oct. 15; S&P 500 closed up 25.18 points, or 0.33%, at 7,744.12; Nasdaq Composite closed up 20.16 points, or 0.08%, at 26,713.03."
+    },
+    {
+      "id": "5148400",
+      "time": "2026-10-16 04:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國安理會譴責胡塞武裝跨境襲擊民用設施】當地時間10月15日下午，聯合國安理會透過關於葉門局勢的主席宣告，並由本月輪值主席國希臘釋出，以最強烈的措辭譴責胡塞武裝持續對沙烏地阿拉伯發動襲擊，包括針對民用航空和能源基礎設施的襲擊。安理會成員向遇難者家屬以及沙特政府和人民表示最深切的慰問，並祝願所有傷者早日康復。（央視新聞）"
+    },
+    {
+      "id": "5148399",
+      "time": "2026-10-16 04:03:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數連續第七天下跌。"
+    },
+    {
+      "id": "mkt:01a14129-5a08-7ee0-a8a7-a53beeeb60ab",
+      "time": "2026-10-16 04:03:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "JD.com",
+        "S&P500",
+        "Impact bullish",
+        "NTES.O",
+        "JD.O"
+      ],
+      "text": "【US close: major indexes up; Nasdaq Golden Dragon index +1.96%】US stocks closed Thursday: Dow Jones Industrial Average +1.08%, S&P 500 +0.33%, Nasdaq Composite +0.08%. S&P and Nasdaq opened lower before finishing higher. Notable movers: Micron Technology (MU.O) +1.8%, SK Hynix (SKHY.O) -1%, Dell Technologies (DELL.N) -7%, CoreWeave (CRWV.O) +6%. Nasdaq Golden Dragon China Index +1.96%; NetEase (NTES.O) +2.7%, JD.com (JD.O) +2.6%."
+    },
+    {
+      "id": "mkt:01a14128-7dba-7ee0-a8a7-98000dd27a8f",
+      "time": "2026-10-16 04:02:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Dept official: Secretary of State Rubio urged Lebanon and Israeli military forces to establish direct military communication channels to avoid escalation of hostilities."
+    },
+    {
+      "id": "5148397",
+      "time": "2026-10-16 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲1.08%，標普500指數漲0.33%，納指漲0.07%。艾可菲漲7.26%，Reddit漲7.25%，Fair Isaac Corp漲6.98%，國際紙業漲6.85%，APP AppLovin漲6.49%，Coinbase Global漲6.37%。“七姐妹”方面：微軟漲1.01%，谷歌漲0.34%，亞馬遜漲0.27%，Meta Platforms跌0.14%，蘋果跌0.29%，特斯拉跌1.29%，英偉達跌1.88%。"
+    },
+    {
+      "id": "5148396",
+      "time": "2026-10-16 04:00:42",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員：魯比奧敦促黎巴嫩與以色列軍方建立直接軍事溝通渠道，以規避衝突。"
+    },
+    {
+      "id": "mkt:01a14126-9813-7ee0-a8a7-95a245a1471f",
+      "time": "2026-10-16 04:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A State Dept official said US Secretary of State Rubio spoke with Lebanese President AOUN about Lebanon's seizure of hundreds of kilograms of explosives from Hezbollah."
+    },
+    {
+      "id": "5148395",
+      "time": "2026-10-16 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.96%】寶尊電商漲9.70%，海川證券漲9.47%，逸仙電商漲5.60%，信也科技漲5.15%，天演藥業漲5.24%。"
+    },
+    {
+      "id": "5148394",
+      "time": "2026-10-16 03:59:54",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員：魯比奧敦促奧恩追究下令、資助以及指揮這批貨物運輸相關人員的責任。"
+    },
+    {
+      "id": "5148393",
+      "time": "2026-10-16 03:58:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員：國務卿魯比奧與黎巴嫩總統奧恩通話，內容涉及從真主黨查獲數百公斤爆炸物一事。"
+    },
+    {
+      "id": "te:markets:592511",
+      "time": "2026-10-16 03:55:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Starbucks Shares Hit 4-week High — Starbucks shares increased to 96.79 USD, the highest since September 2026. Over the past 4 weeks, Starbucks lost 0.66%, and in the last 12 months, it increased 14.65%."
+    },
+    {
+      "id": "mkt:01a14120-e8ca-7ee0-a8a7-890024edaba9",
+      "time": "2026-10-16 03:53:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Ukraine's energy ministry said Russia again struck critical energy infrastructure, causing partial power outages in parts of Kyiv city and Kyiv region."
+    },
+    {
+      "id": "5148392",
+      "time": "2026-10-16 03:53:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【阿里巴巴、臺積電在列 美股期權交易時段下週擴容】隨著美股市場實質上進入“24小時交易”，與股票配套的期權也將迎來交易時間的擴容。據芝加哥期權交易所（Cboe）公告，旗下Cboe Options Exchange（C1）將於下週一開始，為指定股票及ETF期權增加早間和收盤後的交易時段。阿里巴巴、臺積電、英偉達、蘋果、特斯拉等熱門公司的期權均在公告覆蓋範圍內。對於投資者而言，最直接的變化是：這些股票期權可以參與美東時間上午7:30至9:25的美股盤前交易，也可以在常規交易結束後繼續交易15分鐘。此次覆蓋範圍包括美股“科技七巨頭”，以及AMD、博通、英特爾、美光、甲骨文、邁威爾科技、閃迪、Palantir、Robinhood等熱門公司，阿里巴巴、臺積電、諾基亞、輝瑞、美國銀行和福特也在公告名單中。"
+    },
+    {
+      "id": "5148391",
+      "time": "2026-10-16 03:53:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟據悉擬快速審批歐洲衛星合資專案 打造SpaceX競爭對手】據知情人士透露，歐盟尋求對一項被視為歐洲版SpaceX的衛星合資專案進行快速反壟斷審批，此前歐盟與專案合作方Leonardo SpA、空中客車和泰雷茲進行了密集磋商。知情人士表示，過去一年的討論重點是在專案正式提交審批前，找出並解決任何潛在的競爭問題。這位知情人士表示，雖然這些公司尚未正式申報，但歐盟官員預計將在未來幾周內收到申請。這項名為Project Bromo的合資專案受到歐盟委員會主席馮德萊恩的讚揚，她認為該專案有望成為歐洲的行業龍頭，應該獲得高層支援。不過，歐盟競爭事務負責人Teresa Ribera警告稱，該專案不能指望監管機構直接放行。該計劃旨在成立一家公司，幫助歐洲減少對埃隆·馬斯克旗下SpaceX等美國衛星服務提供商的依賴。這項合資專案也將成為首批檢驗歐盟新版併購審查方式的案例之一。"
+    },
+    {
+      "id": "mkt:01a1411e-aafb-7ee0-a8a7-83ba8b40a857",
+      "time": "2026-10-16 03:51:31",
+      "tags": [
+        "MKT News",
+        "LUV.O",
+        "Impact bullish"
+      ],
+      "text": "Starlink will equip Southwest Airlines' entire fleet (LUV.N) with high-speed, reliable in‑flight internet."
+    },
+    {
+      "id": "5148390",
+      "time": "2026-10-16 03:49:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門政府稱總統府遭胡塞武裝襲擊致5死16傷】據葉門政府衛生部長卡西姆當地時間15日晚間釋出的訊息，胡塞武裝當天下午針對葉門臨時首都亞丁馬阿希克宮的襲擊，造成5人死亡、16人受傷。傷亡人員包括現場安保人員和政府工作人員。卡西姆指出，此次襲擊再次將政府機構作為襲擊目標，與2020年12月葉門政府在亞丁國際機場遭襲事件類似。葉門總理津達尼表示，政府將繼續履行職責，繼續與民眾保持聯絡。馬阿希克宮是葉門總統在臨時首都亞丁的駐地，也是葉門政府在亞丁的辦公地點。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1411c-2a87-7ee0-a8a7-7f661afcf42e",
+      "time": "2026-10-16 03:48:47",
+      "tags": [
+        "MKT News",
+        "ATVI.O",
+        "Impact bearish"
+      ],
+      "text": "CWA: QA employees at Activision voted to authorize a strike."
+    },
+    {
+      "id": "5148388",
+      "time": "2026-10-16 03:48:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4170美元/盎司，日內漲1.59%。"
+    },
     {
       "id": "te:markets:592510",
       "time": "2026-10-16 03:46:31",
