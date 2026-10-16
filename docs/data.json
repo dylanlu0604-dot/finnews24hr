@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-17 04:11:17",
-  "count": 12799,
+  "updated": "2026-10-17 04:15:01",
+  "count": 12792,
   "items": [
+    {
+      "id": "te:markets:592870",
+      "time": "2026-10-17 04:14:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall as Chip Selloff Deepens — US stock indices closed lower on Friday as the selloff in chipmakers extended into an eighth consecutive session, marking the sector’s longest losing streak since the 2008 financial crisis. The S&P 500 fell 1.1%, the Dow shed 175 points, and the Nasdaq dropped 2.5%. CoreWeave plunged 11.9%, extending its weekly losses to 23.7% and highlighting renewed credit concerns surrounding AI infrastructure companies. The sector has come under pressure following relatively modest revenue figures from Anthropic and growing concerns about higher interest rates for heavily indebted companies. Economic data released this week showed accelerating consumer inflation and surging producer prices, both at the headline and core levels. Nvidia lost 1.4%, Micron fell 5.6%, and AMD dropped 5.9%. Meanwhile, Tesla declined 2.1% and SpaceX fell 1.7% amid speculation about a potential merger between the ompanies. On the week, the S&P 500 shed 2%, the Nasdaq lost 5% and the Dow added 156 points."
+    },
+    {
+      "id": "5150574",
+      "time": "2026-10-17 04:13:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行官員莫伊薩預計，今年經濟增速將在 2.5%至 3%之間，2027 年為 2%；2026年底通脹率為6.5%，2027年底為5%。"
+    },
+    {
+      "id": "5150573",
+      "time": "2026-10-17 04:12:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行官員莫伊薩表示，現在加息可能不會像其他時候那樣對通脹產生同樣的影響。"
+    },
+    {
+      "id": "5150572",
+      "time": "2026-10-17 04:12:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行官員：哥倫比亞比索升值弊大於利。"
+    },
+    {
+      "id": "5150571",
+      "time": "2026-10-17 04:12:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "哥倫比亞央行官員莫伊薩表示，利率將在“相當長一段時間內”保持高位。"
+    },
+    {
+      "id": "5150570",
+      "time": "2026-10-17 04:11:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "晨星DBRS確認歐盟AAA評級，評級展望穩定。"
+    },
+    {
+      "id": "5150569",
+      "time": "2026-10-17 04:10:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：多哥經常賬戶赤字預計將在2026年暫時擴大，隨後逐步收窄。"
+    },
     {
       "id": "mkt:01a14656-b843-7ee0-a8c6-0dc05d1da74c",
       "time": "2026-10-17 04:10:50",
@@ -116776,141 +116840,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Rise on Earnings Optimism — US stock indices closed higher on Friday amid expectations of a strong earnings season. The S&P 500 rose 0.6%, the Nasdaq 100 gained 0.5%, both nearing their record highs, while the Dow added 423 points. Robust results across sectors have helped drive equity returns this year. Wall Street’s largest banks are expected to report nearly $19 billion in stock-trading revenue when they release quarterly earnings next week. Goldman Sachs (+1.4%), which reports Tuesday, is forecast to post $5.1 billion, followed by Morgan Stanley (+1.4%) at $4.9 billion, according to estimates. JPMorgan (+0.5%) is expected to report $4.5 billion, while Bank of America (+1.4%) is forecast to generate $2.6 billion. AI Hyperscalers gained on expectations that OpenAI will exceed $70 billion in annualized revenue by year-end. Alphabet rose 1%, Microsoft added 2.4% and Amazon gained 3.3%. For the week, the S&P 500 rose 0.9%, the Nasdaq shed 0.1% and the Dow gained 585 points."
-    },
-    {
-      "id": "mkt:01a1224c-3213-7ee0-a820-31a294bf5276",
-      "time": "2026-10-10 04:13:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russian Deputy Prime Minister Novak said Russia's domestic diesel supplies will be fully guaranteed."
-    },
-    {
-      "id": "5135746",
-      "time": "2026-10-10 04:12:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：俄羅斯國內市場也將獲得充足的柴油供應。"
-    },
-    {
-      "id": "mkt:01a1224b-ba33-7ee0-a820-2c6d1c276e9e",
-      "time": "2026-10-10 04:12:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Russian Deputy Prime Minister Novak said exports should rise further in November and December as refineries resume operations after maintenance."
-    },
-    {
-      "id": "5135745",
-      "time": "2026-10-10 04:12:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：隨著煉油廠在維護後恢復運營，11月和12月的出口量預計將進一步增加。"
-    },
-    {
-      "id": "mkt:01a1224b-856d-7ee0-a820-26c9edf322dd",
-      "time": "2026-10-10 04:12:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P says it will treat Egypt's banking system as a stable, reliable source of domestic-currency funding for the government."
-    },
-    {
-      "id": "mkt:01a1224b-7e0c-7ee0-a820-1aeaa383d4dd",
-      "time": "2026-10-10 04:12:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Russian Deputy Prime Minister Novak said Russia is prepared to supply additional diesel fuel to the U.S. market and to all partners in October."
-    },
-    {
-      "id": "5135744",
-      "time": "2026-10-10 04:12:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：俄羅斯準備最早在10月向美國市場及其所有合作伙伴供應額外數量的柴油。"
-    },
-    {
-      "id": "mkt:01a1224b-51bb-7ee0-a820-16acec8701f1",
-      "time": "2026-10-10 04:12:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P expects GCC members to continue providing fiscal support to Egypt despite the conflict."
-    },
-    {
-      "id": "mkt:01a1224b-42e5-7ee0-a820-0cb07d494f39",
-      "time": "2026-10-10 04:11:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P: Egypt continues to benefit from robust concessional external support, although a successor IMF arrangement appears unlikely."
-    },
-    {
-      "id": "mkt:01a1224b-3329-7ee0-a820-027ed8b0e715",
-      "time": "2026-10-10 04:11:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russia's Deputy Prime Minister Novak said Russia is positive about US measures aimed at stabilizing global energy markets."
-    },
-    {
-      "id": "mkt:01a1224b-2489-7ee0-a81f-f9f714392cb4",
-      "time": "2026-10-10 04:11:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Russia will immediately begin lifting diesel export restrictions, Deputy Prime Minister Novak said."
-    },
-    {
-      "id": "5135743",
-      "time": "2026-10-10 04:11:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普：儘管衝突仍在持續，我們預計海灣阿拉伯國家合作委員會成員國仍將持續為埃及提供資金支援。"
-    },
-    {
-      "id": "5135742",
-      "time": "2026-10-10 04:11:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理諾瓦克：俄羅斯立即開始解除柴油出口限制。"
-    },
-    {
-      "id": "mkt:01a1224a-be45-7ee0-a81f-f14d09549278",
-      "time": "2026-10-10 04:11:26",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Russian presidential special representative: Russia-U.S. energy and economic cooperation will continue】On Oct. 9 local time, Russian presidential special representative Dmitriev posted on social media responding to U.S. President Trump’s summary of a presidential call, saying the call was successful and that Russia-U.S. energy and economic cooperation will continue and benefit global markets."
     }
   ]
 }
