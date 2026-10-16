@@ -1,7 +1,81 @@
 {
   "date": "2026-10-16",
-  "count": 1104,
+  "count": 1112,
   "items": [
+    {
+      "id": "5148957",
+      "time": "2026-10-16 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.19%， 10年期主力合約漲0.03%， 5年期主力合約漲0.03%， 2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "5148956",
+      "time": "2026-10-16 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】鈀連續漲2.81%，多晶矽連續漲2.63%，丁二烯橡膠連續漲2.49%，純苯連續跌2.44%，錫連續漲2.33%。"
+    },
+    {
+      "id": "mkt:01a142c1-388b-7ee0-a8af-fadc0ad08a4c",
+      "time": "2026-10-16 11:28:41",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Treasury official Brown said the IMF should adopt a more balanced approach when assessing the global economic outlook and should consider opportunities arising from a US-led positive economic shock."
+    },
+    {
+      "id": "5148955",
+      "time": "2026-10-16 11:28:16",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官員布朗：國際貨幣基金組織在評估全球經濟前景時需要採取更平衡的方法，應考慮由美國主導的積極經濟衝擊所帶來的機遇。"
+    },
+    {
+      "id": "5148954",
+      "time": "2026-10-16 11:27:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "工信部發布減免車輛購置稅的新能源汽車車型目錄（第三十五批），理想MEGA、理想i6在列。"
+    },
+    {
+      "id": "mkt:01a142c0-160f-7ee0-a8af-f1cd4299c61d",
+      "time": "2026-10-16 11:27:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "LI.O",
+        "Impact bullish"
+      ],
+      "text": "China's Ministry of Industry and Information Technology (MIIT) published the 35th batch of new-energy vehicle models eligible for vehicle purchase tax reduction/exemption, including Li Auto's MEGA and i6."
+    },
+    {
+      "id": "5148953",
+      "time": "2026-10-16 11:27:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Velotric完成2億元C輪融資】10月16日，全球行動科技品牌Velotric（深圳唯樂高科技有限公司）正式宣佈完成2億元C輪融資，國壽股權領投、琥珀資本跟投，老股東追投，光源資本繼續擔任獨家財務顧問。本輪資金將主要用於核心技術研發、新品類拓展以及全球化組織體系建設。"
+    },
+    {
+      "id": "5148952",
+      "time": "2026-10-16 11:26:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年安全應急裝備應用推廣典型案例名單公佈】工業和資訊化部近日公佈2026年安全應急裝備應用推廣典型案例名單，工業製造領域、房屋市政工程領域、交通領域、城鄉消防領域、海洋領域、地震地質災害、洪水內澇災害、冰雪災害、森林草原火災、社群家庭安全應急及其他等10個方向的152個專案上榜。"
+    },
     {
       "id": "mkt:01a142be-f24b-7ee0-a8af-ee921b41d363",
       "time": "2026-10-16 11:26:12",
