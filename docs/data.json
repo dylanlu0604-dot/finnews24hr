@@ -1,7 +1,126 @@
 {
-  "updated": "2026-10-16 11:00:36",
-  "count": 12618,
+  "updated": "2026-10-16 11:04:17",
+  "count": 12630,
   "items": [
+    {
+      "id": "mkt:01a142aa-7393-7ee0-a8af-73c9db448e5b",
+      "time": "2026-10-16 11:03:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India raises gasoline export tax, cuts diesel export tax to protect domestic fuel supply】India notified on Thursday a two-week adjustment to fuel export taxes to reflect international energy prices and domestic supply. Gasoline export tax rises to 2.5 rupee/litre from 0.5 rupee/litre; diesel export tax falls to 8.5 rupee/litre from 16 rupee/litre. Aviation fuel export tax remains at 10.5 rupee/litre. The export taxes, introduced on March 27 to curb exports amid the Middle East crisis and protect domestic supply, are reviewed every two weeks based on international crude and product prices. Domestic consumption taxes on gasoline and diesel are unchanged."
+    },
+    {
+      "id": "5148915",
+      "time": "2026-10-16 11:03:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "隔夜SHIBOR報1.2640%，下降0.20個基點。7天SHIBOR報1.3390%，下降0.70個基點。3個月SHIBOR報1.4300%，上漲0.00個基點。"
+    },
+    {
+      "id": "mkt:01a142a9-5e38-7ee0-a8af-68c9b2695f97",
+      "time": "2026-10-16 11:02:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Shanghai Composite rose more than 1%. Defense, real estate, precious metals and grain sectors led gains, while PCB, securities, batteries and energy metals lagged; across the bourse over 4,400 stocks advanced."
+    },
+    {
+      "id": "5148914",
+      "time": "2026-10-16 11:02:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報6773.00點。"
+    },
+    {
+      "id": "5148913",
+      "time": "2026-10-16 11:02:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數漲1.01%，現報3744.977點；深證成指漲1.02%，現報11937.029點；創業板指漲0.73%，現報2803.534點。"
+    },
+    {
+      "id": "5148912",
+      "time": "2026-10-16 11:02:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4134.00點。"
+    },
+    {
+      "id": "mkt:01a142a8-f415-7ee0-a8af-60b4054b233b",
+      "time": "2026-10-16 11:02:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Bundesbank president said Germany's economic fundamentals are strong; if the announced reforms are implemented, the public will feel their positive effects."
+    },
+    {
+      "id": "5148911",
+      "time": "2026-10-16 11:02:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲2%，現報6687.00點。"
+    },
+    {
+      "id": "mkt:01a142a8-b59c-7ee0-a8af-5896e1ac62ef",
+      "time": "2026-10-16 11:01:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: Foreign net flows into South Korean bonds were -5.81 bln dlr in September (August -4.53 bln). Foreign net flows into South Korean equities were -14.16 bln dlr in September (August +0.04 bln)."
+    },
+    {
+      "id": "5148910",
+      "time": "2026-10-16 11:01:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優必選在鹽城成立智慧科技新公司】企查查APP顯示，近日，優必選（鹽城）智慧科技有限公司成立，經營範圍包含人工智慧應用軟體開發；智慧機器人的研發；智慧機器人銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由優必選全資持股。"
+    },
+    {
+      "id": "5148909",
+      "time": "2026-10-16 11:01:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "Wipro簽署協議，將收購Flarre.AI 20%的股份。"
+    },
+    {
+      "id": "5148908",
+      "time": "2026-10-16 11:00:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.28%】TrendForce資料顯示，10月16日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.28%，DDR4 16Gb (2Gx8) 3200現貨均價較上日持平，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。"
+    },
+    {
+      "id": "5148907",
+      "time": "2026-10-16 11:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：第九屆進博會將著力提升市場化、特色化、專業化水平】商務部副部長鄢東16日在國新辦新聞釋出會上介紹，第九屆中國國際進口博覽會將於11月5日至10日在上海舉辦，目前，各項籌備基本就緒，屆時將有162個國家、地區和國際組織參與，4142家境外企業參展，整體面積將首次突破44萬平方米。本屆進博會將著力提升市場化、特色化、專業化水平。"
+    },
     {
       "id": "te:markets:592599",
       "time": "2026-10-16 11:00:03",
@@ -115116,18 +115235,6 @@
         "Importance 2"
       ],
       "text": "Gold Advances as Oil Prices and Bond Yields Retreat — Gold rose toward $4,200 an ounce on Friday, gaining for a second consecutive session as falling oil prices and bond yields eased pressure on non-yielding metals. Oil prices declined after President Donald Trump said the US was engaged in “productive discussions” with Iran and would refrain from attacking the country before the midterm elections. His remarks came even as Iran intensified attacks on tankers transiting the Strait of Hormuz this week, while a hurricane disrupted offshore oil production in the Gulf of Mexico. Meanwhile, US Treasury yields retreated from 24-year highs following strong demand at a 30-year bond auction, indicating that investors remained willing to buy long-dated government debt despite the recent selloff. On the monetary policy front, markets are pricing in roughly an 82% chance that the Federal Reserve will keep interest rates unchanged this month, while the probability of a rate hike in December stands at around 81%."
-    },
-    {
-      "id": "te:markets:590676",
-      "time": "2026-10-09 11:01:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Set for Fourth Consecutive Weekly Decline — The Japanese yen weakened past158 per dollar on Friday, heading for a fourth consecutive weekly loss amid persistent pressure from the wide interest rate gap between the US and Japan, as relatively low domestic rates and the country’s substantial debt burden continued to weigh on the currency. Meanwhile, data showed that Japan’s personal spending fell for a ninth consecutive month in August, as consumers remained cautious amid persistent inflation. On the monetary policy front, BOJ board member Ayano Sato, who previously opposed the central bank’s September rate hike, said this week she favored a gradual approach to raising interest rates in several stages, reinforcing expectations of further policy tightening. Elsewhere, Prime Minister Sanae Takaichi continued to pursue expansionary fiscal policies despite concerns over the weak yen and elevated bond yields, pledging to cut the consumption tax on food."
     }
   ]
 }
