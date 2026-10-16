@@ -1,7 +1,85 @@
 {
   "date": "2026-10-16",
-  "count": 579,
+  "count": 588,
   "items": [
+    {
+      "id": "mkt:01a1420a-bad1-7ee0-a8aa-69dc051fe6b0",
+      "time": "2026-10-16 08:09:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Refinitiv investigation: Iran and proxies struck 84 Gulf infrastructure sites in at least 135 precision attacks since Feb. 28】A Refinitiv investigation found that since Feb. 28 Iran and Iran-backed militias have carried out at least 135 precision strikes on 84 infrastructure targets across the Gulf, hitting key oil, gas, power and transport facilities. The attacks have caused billions of dollars in damage, disrupted global energy supplies and helped Iran withstand U.S. military pressure. Gulf governments have often downplayed the losses, attributing damage to debris from intercepted missiles and drones."
+    },
+    {
+      "id": "mkt:01a1420a-a6b4-7ee0-a8aa-6293d8aeec99",
+      "time": "2026-10-16 08:09:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia Stock Exchange said it respects MSCI’s independence in conducting assessments and in determining market classification under its own methodology."
+    },
+    {
+      "id": "5148584",
+      "time": "2026-10-16 08:09:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼證券交易所：尊重MSCI依據其自身方法論進行評估並確定市場分類的獨立性。"
+    },
+    {
+      "id": "5148583",
+      "time": "2026-10-16 08:08:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就伊爾汗·奧馬爾一事表態：未參與其中。"
+    },
+    {
+      "id": "5148582",
+      "time": "2026-10-16 08:08:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我想我會去明尼蘇達州。"
+    },
+    {
+      "id": "5148581",
+      "time": "2026-10-16 08:08:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：中藥紅利資產配置價值凸顯 關注兩條投資主線】中信證券研報稱，近期，市場風格趨於謹慎，中藥高股息標的關注度持續上升。在此背景下，中藥板塊憑藉“低估值+高股息+成本端改善”三重屬性，成為具備高確定性的細分投資板塊。中信證券梳理兩條投資主線：高股息率、業績穩健標的；業績邊際向好、股息率具備一定吸引力的標的。"
+    },
+    {
+      "id": "5148580",
+      "time": "2026-10-16 08:08:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼證券交易所：針對MSCI的公告，已採取多項具體措施以提升印尼資本市場的透明度和誠信度。"
+    },
+    {
+      "id": "5148579",
+      "time": "2026-10-16 08:06:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳稱CoreWeave財務實力改善，英偉達無需為其提供兜底支援】英偉達CEO黃仁勳當地時間10月15日表示，資料中心運營商CoreWeave的財務狀況正在改善，他認為英偉達沒有必要為CoreWeave提供兜底支援，“我很樂觀。他們的資本成本實際上正在下降”。在信貸市場對CoreWeave的態度轉趨負面、認為其違約風險正在上升之際，黃仁勳正試圖提振外界對這家公司的信心。"
+    },
+    {
+      "id": "5148578",
+      "time": "2026-10-16 08:06:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲跡：管理層成員自願延長禁售承諾】10月16日早間，雲跡在港交所公告，支濤及李全印自願作出禁售承諾。支濤為公司董事長、執行董事兼總裁；李全印為公司執行董事兼執行長。支濤及李全印已各自自願承諾，將其直接持有股份的禁售期延長至2027年10月15日。"
+    },
     {
       "id": "5148577",
       "time": "2026-10-16 08:04:58",

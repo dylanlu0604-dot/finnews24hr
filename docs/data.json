@@ -1,7 +1,85 @@
 {
-  "updated": "2026-10-16 08:05:58",
-  "count": 12383,
+  "updated": "2026-10-16 08:09:46",
+  "count": 12384,
   "items": [
+    {
+      "id": "mkt:01a1420a-bad1-7ee0-a8aa-69dc051fe6b0",
+      "time": "2026-10-16 08:09:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Refinitiv investigation: Iran and proxies struck 84 Gulf infrastructure sites in at least 135 precision attacks since Feb. 28】A Refinitiv investigation found that since Feb. 28 Iran and Iran-backed militias have carried out at least 135 precision strikes on 84 infrastructure targets across the Gulf, hitting key oil, gas, power and transport facilities. The attacks have caused billions of dollars in damage, disrupted global energy supplies and helped Iran withstand U.S. military pressure. Gulf governments have often downplayed the losses, attributing damage to debris from intercepted missiles and drones."
+    },
+    {
+      "id": "mkt:01a1420a-a6b4-7ee0-a8aa-6293d8aeec99",
+      "time": "2026-10-16 08:09:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia Stock Exchange said it respects MSCI’s independence in conducting assessments and in determining market classification under its own methodology."
+    },
+    {
+      "id": "5148584",
+      "time": "2026-10-16 08:09:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼證券交易所：尊重MSCI依據其自身方法論進行評估並確定市場分類的獨立性。"
+    },
+    {
+      "id": "5148583",
+      "time": "2026-10-16 08:08:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普就伊爾汗·奧馬爾一事表態：未參與其中。"
+    },
+    {
+      "id": "5148582",
+      "time": "2026-10-16 08:08:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我想我會去明尼蘇達州。"
+    },
+    {
+      "id": "5148581",
+      "time": "2026-10-16 08:08:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：中藥紅利資產配置價值凸顯 關注兩條投資主線】中信證券研報稱，近期，市場風格趨於謹慎，中藥高股息標的關注度持續上升。在此背景下，中藥板塊憑藉“低估值+高股息+成本端改善”三重屬性，成為具備高確定性的細分投資板塊。中信證券梳理兩條投資主線：高股息率、業績穩健標的；業績邊際向好、股息率具備一定吸引力的標的。"
+    },
+    {
+      "id": "5148580",
+      "time": "2026-10-16 08:08:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼證券交易所：針對MSCI的公告，已採取多項具體措施以提升印尼資本市場的透明度和誠信度。"
+    },
+    {
+      "id": "5148579",
+      "time": "2026-10-16 08:06:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳稱CoreWeave財務實力改善，英偉達無需為其提供兜底支援】英偉達CEO黃仁勳當地時間10月15日表示，資料中心運營商CoreWeave的財務狀況正在改善，他認為英偉達沒有必要為CoreWeave提供兜底支援，“我很樂觀。他們的資本成本實際上正在下降”。在信貸市場對CoreWeave的態度轉趨負面、認為其違約風險正在上升之際，黃仁勳正試圖提振外界對這家公司的信心。"
+    },
+    {
+      "id": "5148578",
+      "time": "2026-10-16 08:06:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲跡：管理層成員自願延長禁售承諾】10月16日早間，雲跡在港交所公告，支濤及李全印自願作出禁售承諾。支濤為公司董事長、執行董事兼總裁；李全印為公司執行董事兼執行長。支濤及李全印已各自自願承諾，將其直接持有股份的禁售期延長至2027年10月15日。"
+    },
     {
       "id": "5148577",
       "time": "2026-10-16 08:04:58",
@@ -113043,84 +113121,6 @@
         "9984.T"
       ],
       "text": "Japan's Nikkei 225 fell as much as 1.00% intraday; SoftBank shares slid 5%."
-    },
-    {
-      "id": "5133438",
-      "time": "2026-10-09 08:08:40",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：石油化工三季度中游弱需求 上游及材料較好】華泰證券研報稱，地緣衝突反覆等因素致2026年第三季度國際原油均價仍在高位，預計油氣開採企業盈利同比提升，部分煉油企業受益於成品油/芳烴等景氣較好（尤其海外煉廠）、庫存收益及成品油出口盈利，2026年第三季度盈利同比預計改善；中游大宗化工品因地緣擾動和原油高價導致需求抑制效應漸顯，成本傳導不暢及需求不佳下2026年第三季度多數品種價差走弱，預計相關企業盈利環比下行為主，其中煤化工、氣頭化工等能化龍頭企業持續受益於原油/烯烴等高價，盈利預計仍處高位，聚氨酯、化纖染料、製冷劑等格局較好的頭部企業在行業“反內卷”等助力下盈利韌性有所凸顯；氨基酸、助劑、輪胎等精細化工品亦階段性面臨需求和成本雙重壓力，AI及電子上游材料受益於下游需求持續增長，疊加國產替代助力，相關企業2026年第三季度盈利預計整體向好。"
-    },
-    {
-      "id": "5133437",
-      "time": "2026-10-09 08:08:31",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：下一輪科技行情啟動條件正在逐步積累 維持謹慎樂觀】中信證券研報稱，與2022年高通脹與激進加息週期、估值與盈利同步下修不同，雖然9月美聯儲與日本央行相繼加息，但近期美國經濟活動、AI資本開支與科技龍頭盈利仍保持韌性，本輪全球科技股調整主要體現為估值收縮而非盈利下修，未來EPS和現金流仍是市場定價主線，儘管美國長債利率屢創新高，在EPS支撐下美股科技也已率先實現新高。中信證券認為，算力產業“CapEx→ROIC→EPS”的傳導已得到初步驗證，2027—2028年資本開支增長將支撐算力鏈盈利上行，將對後續科技行情形成堅實支撐；同時，RSI進展加快、國產模型大版本迭代以及Meta Muse驗證C端Agent需求，正推動市場關注點由基礎設施投入延伸至模型能力、個人智慧體和應用變現。展望四季度，下一輪科技行情啟動條件正在逐步積累，10月是宏觀資料、三季報業績、新模型迭代和新產品商業化的驗證期。中信證券維持謹慎樂觀，建議堅持結構重於倉位，關注港股模型迭代、網際網路平臺、硬體技術升級、國產半導體裝置等結構性機會。"
-    },
-    {
-      "id": "5133434",
-      "time": "2026-10-09 08:08:20",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：關注晶片TIM材料升級主線及新應用場景擴容機會】中金公司研報表示，看好AI晶片功耗及熱流密度持續提升背景下TIM在散熱體系中的重要性提升，建議重點把握兩條主線：一是晶片材料升級，Blackwell階段PCM等成熟方案仍佔主流，隨著Rubin及後續平臺推進，高導熱石墨烯墊片等新材料有望加速匯入，競爭壁壘亦由傳統配方向垂直導熱結構取向、長期可靠性、規模化製造一致性遷移，具備重點客戶認證、技術儲備及量產能力的廠商有望率先受益；二是應用場景擴容，高速光模組、液冷cage及NPO/CPO演進帶來內部、外部及多熱源TIM新增需求，同時HBM、SSD、NIC等器件液冷覆蓋進一步開啟成長空間。供應鏈層面，大陸廠商在石墨烯墊片等高效能材料領域正逐步實現突破。"
-    },
-    {
-      "id": "5133432",
-      "time": "2026-10-09 08:08:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普稱中期選舉前不會襲擊伊朗，油價下跌】美國總統特朗普表示，美國不會在11月中期選舉前對伊朗發動襲擊，受此訊息影響，油價走低。布倫特原油週四大漲4.1%後，跌破每桶104美元；西德克薩斯中質原油（WTI）接近每桶91美元。特朗普在社交媒體發文稱，美國正與伊朗進行“富有成效的磋商”，霍爾木茲海峽原油運量達到紀錄高位。儘管伊朗在該水道加大襲擊力度，增加了向全球輸送原油船隻的風險，但特朗普決定暫緩發起新打擊。他同時表示，美國對伊朗港口實施的海上封鎖將維持全面生效。特朗普表態之後，媒體報道稱美國已擬定為期三天的打擊方案。該報稱，五角大樓計劃打擊無人機與導彈庫、能源設施及其他目標。12月交割的布倫特原油下跌0.4%，報每桶103.94美元。11月交割的WTI原油下跌0.2%，報每桶91.27美元。"
-    },
-    {
-      "id": "mkt:01a11dfc-ef58-7ee0-a806-978eb62e378a",
-      "time": "2026-10-09 08:07:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold traded above $4,150/oz, up 0.4% on the day."
-    },
-    {
-      "id": "5133431",
-      "time": "2026-10-09 08:07:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4150美元/盎司，日內漲0.40%。"
-    },
-    {
-      "id": "5133425",
-      "time": "2026-10-09 08:07:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱控制一居民點 烏稱襲擊俄煉油廠】俄羅斯國防部8日通報稱，俄軍控制了哈爾科夫地區一個居民點。此外，俄軍繼續開展控制哈爾科夫地區另兩個居民點的戰鬥行動。通報還稱，俄軍無人機當天在海上擊中1艘為烏軍運送補給的乾貨船。該船當時正駛往敖德薩切爾諾莫爾斯克港。烏克蘭武裝部隊總參謀部8日通報稱，烏軍對俄境內的鄂木斯克煉油廠實施軍事打擊。通報稱，這是該煉油廠年內第二次遭烏軍襲擊。鄂木斯克州州長8日通報，1架無人機飛抵鄂木斯克市北部工業區。該工業區集中了多家關鍵石化企業，包括俄最大煉油廠之一鄂木斯克煉油廠。"
-    },
-    {
-      "id": "mkt:01a11dfb-e832-7ee0-a806-8de26ea1c920",
-      "time": "2026-10-09 08:06:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【CITIC Securities: Middle East conflict to keep oil prices elevated and volatile】CITIC Securities says US-Iran talks have produced no major breakthrough. A rise in tanker security incidents in the Strait of Hormuz and higher transport costs, together with an escalation between Saudi Arabia and Houthi forces, have raised risks to regional energy infrastructure and Bab el‑Mandeb shipping, increasing uncertainty around crude supply and transport. The firm expects international oil prices to remain elevated and volatile for the remainder of 2026. Key market watches: negotiation progress, resumption of strait navigation and actual supply changes."
     }
   ]
 }
