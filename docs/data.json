@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-17 01:57:04",
-  "count": 12865,
+  "updated": "2026-10-17 02:00:50",
+  "count": 12863,
   "items": [
+    {
+      "id": "5150461",
+      "time": "2026-10-17 02:00:21",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：2026財年債務利息總額達創紀錄的1.36萬億美元，較上一財年增加1440億美元，增幅12%。"
+    },
+    {
+      "id": "mkt:01a145dd-477c-7ee0-a8c4-339a09c4dc33",
+      "time": "2026-10-17 01:58:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says may replace White House press secretary after poor first briefing】On Oct. 16 President Trump said the White House press secretary role may not suit Katie Zakaria and that he has told her to reconsider the position; he will speak with her. A White House official said Zakaria is preparing to leave the post. Zakaria was appointed on Oct. 9 after former press secretary Leavitt departed in late August. Her Oct. 13 debut briefing drew criticism for poor performance and allegations of resume falsification. She had served as a senior communications adviser at Trump Media & Technology Group’s Truth Social, previously was a Department of Homeland Security spokesperson and deputy assistant secretary for public affairs, and has been a regular commentator on conservative outlets including Fox News."
+    },
     {
       "id": "5150460",
       "time": "2026-10-17 01:55:52",
@@ -117457,41 +117474,6 @@
         "焦點"
       ],
       "text": "凱蒂·扎卡里亞被選為白宮新任新聞秘書。"
-    },
-    {
-      "id": "mkt:01a121d1-23b2-7ee0-a81d-77662240041b",
-      "time": "2026-10-10 01:58:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. judge ruled the Justice Department's practice of using state voter-registration lists to push states to remove certain voters from the rolls is unlawful."
-    },
-    {
-      "id": "mkt:01a121d0-88a3-7ee0-a81d-6a89c9a55be9",
-      "time": "2026-10-10 01:57:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "NHC: Tropical-storm conditions have begun along the northern Gulf of Mexico coast; preparations to guard against life-threatening storm surge and destructive winds should be completed within hours."
-    },
-    {
-      "id": "5135594",
-      "time": "2026-10-10 01:57:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官裁定，司法部利用州選民名冊試圖促使各州移除選民的做法違法。"
-    },
-    {
-      "id": "5135593",
-      "time": "2026-10-10 01:57:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "Osisko Gold完成此前宣佈的Trafigura 3000萬美元戰略股權投資。"
     }
   ]
 }
