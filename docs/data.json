@@ -1,7 +1,36 @@
 {
-  "updated": "2026-10-17 04:22:30",
-  "count": 12794,
+  "updated": "2026-10-17 04:26:21",
+  "count": 12796,
   "items": [
+    {
+      "id": "5150580",
+      "time": "2026-10-17 04:24:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報101.90美元/桶。"
+    },
+    {
+      "id": "te:markets:592871",
+      "time": "2026-10-17 04:24:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Surges Above $100 on Rising Supply Risks — Crude oil prices surged above $100 a barrel on Friday, rising more than 11% this week amid tightening supply and strong demand for fuel from the shipping industry. Producers are facing higher freight rates and risk premiums to transport cargoes through the Strait of Hormuz, keeping uncertainty over future regional supply elevated. Iranian strikes on tankers in the strait have sharply reduced oil flows. In the week to October 13th, average daily flows fell to 11.62 million barrels from a baseline of 17.15 million barrels. Security risks in the Persian Gulf have contributed significantly to the price rally. Meanwhile, Ukrainian drone attacks on Russian refineries have further constrained fuel supply. Adding to the pressure, US crude inventories fell by 8.56 million barrels in the week ended October 9th."
+    },
+    {
+      "id": "mkt:01a14662-e8df-7ee0-a8c6-1a8ca41e482b",
+      "time": "2026-10-17 04:24:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. bank deposits rose to $19.771 trillion from $19.694 trillion the prior week."
+    },
     {
       "id": "5150579",
       "time": "2026-10-17 04:21:42",
@@ -116839,17 +116868,6 @@
         "Importance 0"
       ],
       "text": "Brent Wavers on Potential Russian Diesel Release — Brent crude prices wavered near $104 a barrel on Friday after US President Trump said Russian President Putin had agreed to release diesel supplies into the global market. The US Treasury Department said the Office of Foreign Assets Control was “immediately issuing a temporary general license” to allow Russian diesel supplies to reach global markets. The proposed volume would amount to about 22.5 million barrels. Meanwhile, the US-Iran conflict has strained shipping, with a large tanker fleet tied up in ship-to-ship transfers outside the Strait of Hormuz, pushing global freight rates to record highs and reducing vessel availability on other routes. Eleven tankers came under attack while transiting Hormuz during the week that ended October 4th. Trump said earlier this week that he would not strike Iran again before the November midterm elections, citing what he described as productive discussions with Tehran. On the week, brent rose about 1.5%."
-    },
-    {
-      "id": "te:markets:590956",
-      "time": "2026-10-10 04:25:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Wavers on Potential Russian Diesel Release — Crude prices wavered near $91.50 a barrel on Friday after US President Trump said Russian President Putin had agreed to release diesel supplies into the global market. The US Treasury Department said the Office of Foreign Assets Control was “immediately issuing a temporary general license” to allow Russian diesel supplies to reach global markets. The proposed volume would amount to about 22.5 million barrels. Meanwhile, the US-Iran conflict has strained shipping, with a large tanker fleet tied up in ship-to-ship transfers outside the Strait of Hormuz, pushing global freight rates to record highs and reducing vessel availability on other routes. Eleven tankers came under attack while transiting Hormuz during the week that ended October 4th. Trump said earlier this week that he would not strike Iran again before the November midterm elections, citing what he described as productive discussions with Tehran. On the week, oil added around 0.2%."
     }
   ]
 }

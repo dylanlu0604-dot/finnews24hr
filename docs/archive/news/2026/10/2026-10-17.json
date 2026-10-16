@@ -1,7 +1,36 @@
 {
   "date": "2026-10-17",
-  "count": 369,
+  "count": 372,
   "items": [
+    {
+      "id": "5150580",
+      "time": "2026-10-17 04:24:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報101.90美元/桶。"
+    },
+    {
+      "id": "te:markets:592871",
+      "time": "2026-10-17 04:24:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Surges Above $100 on Rising Supply Risks — Crude oil prices surged above $100 a barrel on Friday, rising more than 11% this week amid tightening supply and strong demand for fuel from the shipping industry. Producers are facing higher freight rates and risk premiums to transport cargoes through the Strait of Hormuz, keeping uncertainty over future regional supply elevated. Iranian strikes on tankers in the strait have sharply reduced oil flows. In the week to October 13th, average daily flows fell to 11.62 million barrels from a baseline of 17.15 million barrels. Security risks in the Persian Gulf have contributed significantly to the price rally. Meanwhile, Ukrainian drone attacks on Russian refineries have further constrained fuel supply. Adding to the pressure, US crude inventories fell by 8.56 million barrels in the week ended October 9th."
+    },
+    {
+      "id": "mkt:01a14662-e8df-7ee0-a8c6-1a8ca41e482b",
+      "time": "2026-10-17 04:24:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. bank deposits rose to $19.771 trillion from $19.694 trillion the prior week."
+    },
     {
       "id": "5150579",
       "time": "2026-10-17 04:21:42",
