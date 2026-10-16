@@ -1,7 +1,79 @@
 {
-  "updated": "2026-10-16 20:56:23",
-  "count": 12919,
+  "updated": "2026-10-16 21:00:43",
+  "count": 12915,
   "items": [
+    {
+      "id": "mkt:01a144cb-e3d2-7ee0-a8be-dd41b7c00a9b",
+      "time": "2026-10-16 20:59:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President ZELENSKIY said he believes the war will end soon, but that Russian President Putin intends it to last longer and that Russia will not stop posing external threats."
+    },
+    {
+      "id": "5150176",
+      "time": "2026-10-16 20:59:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【厄利垂亞敦促非盟恢復其代表權】阿斯馬拉訊息：厄利垂亞外交部15日公佈其向非洲聯盟（非盟）遞交的信函，敦促非盟採取措施恢復其合法代表權。（新華社）"
+    },
+    {
+      "id": "5150175",
+      "time": "2026-10-16 20:58:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川具身科技完成超億元Pre-A輪融資】10月16日，據成都市經信局市新經濟委透露，成都本土科創企業四川具身人形機器人科技有限公司（簡稱“四川具身科技”）於近日成功完成超億元Pre-A輪融資。本輪投資方包括成都未來產業天使基金（成都科創投集團管理）、德陽投控集團、凱州新城產業基金和中江高新區產業基金（四川興川管理）。同時，該公司也另獲得四川省中試研發有限公司專案支援，形成省、市、縣三級國資協同支援格局。新一輪融資已同步啟動。"
+    },
+    {
+      "id": "5150174",
+      "time": "2026-10-16 20:57:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部長：最終，烏克蘭和俄羅斯將不得不進行談判。"
+    },
+    {
+      "id": "mkt:01a144ca-219e-7ee0-a8be-d006bf76ae79",
+      "time": "2026-10-16 20:57:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's foreign minister said Ukraine and Russia will ultimately have to negotiate."
+    },
+    {
+      "id": "mkt:01a144c9-9a95-7ee0-a8be-caf6e0f64cfe",
+      "time": "2026-10-16 20:57:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's foreign minister said the U.S. continues to provide support to Ukraine."
+    },
+    {
+      "id": "5150173",
+      "time": "2026-10-16 20:57:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部長被問及特朗普與烏克蘭的關係：從本質上講，美國將繼續為烏克蘭提供支援。"
+    },
+    {
+      "id": "mkt:01a144c9-7bce-7ee0-a8be-c56f156a383f",
+      "time": "2026-10-16 20:56:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York City Comptroller Mark Levine said ANTHROPIC responded to his letter on Thursday, and he could not yet describe the substance of discussions with the company."
+    },
+    {
+      "id": "5150172",
+      "time": "2026-10-16 20:56:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約市審計長馬克·萊文表示，目前還無法描述與Anthropic的討論情況。"
+    },
     {
       "id": "5150171",
       "time": "2026-10-16 20:55:51",
@@ -117685,120 +117757,6 @@
         "其他"
       ],
       "text": "【捷克地方選舉和參議院選舉投票啟動】當地時間10月9日，捷克全國地方選舉和參議院選舉投票正式啟動，選民將選舉各市鎮和地方議會成員，同時在27個選區進行參議院換屆選舉，選出參議院三分之一席位。此次投票於當地時間9日14時開始，並將持續至10日14時。這是捷克自1993年獨立以來舉行的第九次地方選舉，地方選舉與參議院選舉首輪投票同期舉行。在參議院選舉中，共有27個選區進行投票。如果首輪沒有候選人獲得規定的多數票，得票最高的兩名候選人將進入第二輪投票，第二輪預計於10月16日至17日舉行。此次選舉也被視為觀察捷克地方政治格局以及主要政黨和政治力量支援度的重要視窗。最終投票結果將於投票結束後陸續公佈。（央視新聞）"
-    },
-    {
-      "id": "5135205",
-      "time": "2026-10-09 21:00:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "Couche-Tard將收購歐文石油在魁北克和安大略的資產。"
-    },
-    {
-      "id": "mkt:01a120c0-1f0a-7ee0-a816-3e0fd893d130",
-      "time": "2026-10-09 21:00:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Houthi military spokesman Yahya Saree said flights approved by Sanaa's Humanitarian Operations Coordination Center will be allowed to enter and exit Riyadh airport freely from now on."
-    },
-    {
-      "id": "5135204",
-      "time": "2026-10-09 21:00:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "微芯科技收購Vorago Technologies。"
-    },
-    {
-      "id": "mkt:01a120c0-0676-7ee0-a816-321179617633",
-      "time": "2026-10-09 21:00:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy"
-      ],
-      "text": "At the night-session open in China, major domestic futures were mostly higher: 20# rubber rose over 2%, natural rubber and synthetic rubber were up nearly 2%; coking coal, polypropylene, Shanghai tin, Shanghai silver and coke gained more than 1%. Decliners included asphalt, coated paper and glass, down over 1%, while p‑xylene slipped nearly 1%."
-    },
-    {
-      "id": "5135203",
-      "time": "2026-10-09 21:00:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其法案賦予國家基金 TMSF追回基金損失的權力。"
-    },
-    {
-      "id": "5135202",
-      "time": "2026-10-09 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續跌5.05%，碳酸鋰連續跌3.74%，雞蛋連續跌2.56%，20號膠連續漲2.19%，尿素連續跌2.04%。"
-    },
-    {
-      "id": "5135201",
-      "time": "2026-10-09 20:59:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【六九一二：胡楊減持計劃期限屆滿，實際減持0.372%】六九一二公告，股東胡楊原計劃於2026年7月10日至2026年10月9日以集中競價方式減持不超過50萬股，佔公司總股本比例0.71%。截至期限屆滿，胡楊實際減持26.04萬股，佔公司總股本比例0.372%，減持均價112.49元/股；減持後持股209.8萬股，佔比2.997%。"
-    },
-    {
-      "id": "5135200",
-      "time": "2026-10-09 20:59:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲資料顯示，10月8日美國有效聯邦基金利率為3.88%，成交規模1170億美元；10月7日有效利率為3.88%，成交規模1080億美元。"
-    },
-    {
-      "id": "5135199",
-      "time": "2026-10-09 20:59:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【理想汽車董事長兼CEO李想：全新理想i9智慧配置不收訂閱費】理想汽車董事長兼CEO李想表示，理想i9是i系列的旗艦產品，也是i系列產品理念的“終極答卷”，三個最重要的目標是最好的六座空間體驗、最好的操控性和舒適性、最低的風阻和能耗。 在輔助駕駛被不少品牌做成選裝包、訂閱制甚至“買斷價”的當下，把軟體能力整體計入車價，是一種更直接的表態。它減少了使用者的決策成本，也把壓力留給了同價位的對手。"
-    },
-    {
-      "id": "5135198",
-      "time": "2026-10-09 20:59:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【康龍化成：股東擬詢價轉讓1%公司股份】康龍化成公告稱，公司持股5%以上股東、實際控制人一致行動人Pharmaron Holdings Limited擬以詢價轉讓方式轉讓公司股份1837.3萬股，佔公司總股本的1.00%，佔其所持股份的10.18%，轉讓原因為自身資金需求。本次詢價轉讓由華泰聯合證券組織實施，價格下限不低於傳送認購邀請書之日前20個交易日股票交易均價的70%，受讓方為符合條件的機構投資者，受讓股份6個月內不得轉讓。本次轉讓不會導致公司控制權變更，實施存在一定不確定性風險。"
-    },
-    {
-      "id": "5135197",
-      "time": "2026-10-09 20:58:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國欲與德國共同研發新型戰機】據德國電視一臺網站10月8日報道，英國首相安迪·伯納姆訪問柏林期間出人意料地向德國提議共同研發一款新型戰鬥機。據他介紹，這具體涉及邀請德國參與全球作戰空中計劃（GCAP）。GCAP旨在研發一款新型隱形轟炸機，參與方目前為英國、義大利和日本。而德國與法國的一個聯合戰鬥機專案在經歷長期爭執後已於今年夏天宣告失敗。自那以後，德國一直在尋找替代方案。（參考訊息）"
-    },
-    {
-      "id": "te:economy:590886",
-      "time": "2026-10-09 20:58:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Belarus",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Belarus Inflation Edges Up in September — Belarus’ annual inflation rate edged up to 4.6% in September 2026 from 4.5% in August. Services inflation accelerated to 9.0% from 5.7%, while non-food goods prices rose 3.7%. In contrast, food inflation eased to 2.8% from 3.1%. Month-over-month, consumer prices increased 0.5%, rebounding from a 0.1% decline in August. Year-to-date, inflation reached 3.6%."
-    },
-    {
-      "id": "5135196",
-      "time": "2026-10-09 20:56:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【宇宙神秘“小紅點”去哪了 我國科學家有新發現】詹姆斯·韋布空間望遠鏡在探索早期宇宙時發現了一類“小紅點”星系，它們結構緻密、顏色偏紅，在宇宙早期大量存在，卻在宇宙年齡約20億年後幾乎完全消失，成為天文學界重大疑難問題之一。華中科技大學物理學院張華年副教授、吳慶文教授團隊聯合北京大學、中國科學院高能物理研究所等多家機構，基於近100個光譜確認的“小紅點”樣本展開研究，首次從大尺度環境和暗物質暈質量演化角度揭示其消失之謎。相關研究成果10月8日線上發表於國際學術期刊《自然-天文學》。（新華社）"
     }
   ]
 }
