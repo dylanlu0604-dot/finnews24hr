@@ -1,7 +1,91 @@
 {
-  "updated": "2026-10-16 21:48:20",
-  "count": 12936,
+  "updated": "2026-10-16 21:52:26",
+  "count": 12935,
   "items": [
+    {
+      "id": "mkt:01a144fb-7d6b-7ee0-a8c0-2ca06107694f",
+      "time": "2026-10-16 21:51:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU technology affairs chief Weierkuning is due to meet Bill Gates on Wednesday."
+    },
+    {
+      "id": "5150250",
+      "time": "2026-10-16 21:51:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟科技事務負責人維爾庫寧將於週三會見比爾·蓋茨。"
+    },
+    {
+      "id": "mkt:01a144fb-2547-7ee0-a8c0-228c484efb8d",
+      "time": "2026-10-16 21:51:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "On the 16th Ukrainian President Zelenskiy asked EU leaders to provide an additional €70 billion next year to help Ukraine continue resisting Russia."
+    },
+    {
+      "id": "5150249",
+      "time": "2026-10-16 21:51:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "普京特使德米特里耶夫：美國財政部要求俄羅斯的直接投資基金協助達成柴油交易。"
+    },
+    {
+      "id": "5150248",
+      "time": "2026-10-16 21:50:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基要求歐盟明年額外提供700億歐元援助】烏克蘭總統澤連斯基16日請求歐盟領導人明年向烏克蘭額外提供700億歐元（約合790億美元）資金，以幫助烏克蘭繼續對抗俄羅斯。（新華社）"
+    },
+    {
+      "id": "mkt:01a144f9-fb21-7ee0-a8c0-1c23bdef8921",
+      "time": "2026-10-16 21:49:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Putin's special envoy Dmitriyev said Russia is discussing Arctic and LNG projects with the United States."
+    },
+    {
+      "id": "5150247",
+      "time": "2026-10-16 21:49:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "普京特使德米特里耶夫：俄羅斯與美國討論了北極和液化天然氣專案。"
+    },
+    {
+      "id": "te:markets:592822",
+      "time": "2026-10-16 21:48:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Canada Hit 5-week High — TSX increased to 36412.00 Index Points, the highest since September 2026. Over the past 4 weeks, Canada Stock Market Index (TSX) gained 2.52%, and in the last 12 months, it increased 19.46%."
+    },
+    {
+      "id": "5150246",
+      "time": "2026-10-16 21:48:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，天演藥業跌7.50%，世紀互聯跌4.32%，迅雷跌4.32%，新氧跌4.27%，萬國資料跌3.18%。"
+    },
     {
       "id": "mkt:01a144f7-3439-7ee0-a8c0-10c486a8b424",
       "time": "2026-10-16 21:46:53",
@@ -117894,106 +117978,6 @@
         "MKT News"
       ],
       "text": "【Shanghai Jifeng Electronics' ChiNext IPO set for Shenzhen review on Oct. 15】The Shenzhen Stock Exchange Listing Review Committee will hold its 58th meeting of 2026 on Oct. 15 to review the IPO of Shanghai Jifeng Electronics Co., Ltd."
-    },
-    {
-      "id": "5135281",
-      "time": "2026-10-09 21:52:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【偉測半導體再融資將於10月15日上會】上交所上市稽核委員會定於2026年10月15日召開2026年第53次上市稽核委員會審議會議，屆時將審議上海偉測半導體股份公司的再融資事項。"
-    },
-    {
-      "id": "5135280",
-      "time": "2026-10-09 21:52:16",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美債收益率走高令歐洲經濟多角度承壓】近期，美債收益率持續走高，連續擾動歐洲金融市場。10月8日，美國10年期國債收益率盤中升至約5.37%，創24年來新高。受其影響，歐洲多國國債收益率近期也在上升：英國10年期國債收益率升至5.527%，創2007年以來最高水平；法國10年期國債收益率升至4.961%，甚至一度觸及近24年來高位。分析認為，美債收益率持續高企使得歐洲國家政府融資成本上升，加重財政負擔；跨市場資產價格波動可能放大金融風險，美元走強則可能推高能源和原材料進口成本，增加通脹壓力。若上述因素疊加，歐洲央行在抑制通脹與支援經濟增長之間將面臨更大政策權衡，歐洲經濟復甦也可能承受額外壓力。（新華社）"
-    },
-    {
-      "id": "mkt:01a120ef-897c-7ee0-a817-032bd2cd512c",
-      "time": "2026-10-09 21:52:11",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "BARCLAYS assigns Boeing (BA.N) an Overweight rating and sets PT at $300."
-    },
-    {
-      "id": "mkt:01a120ee-6a11-7ee0-a816-fda11d4eb69e",
-      "time": "2026-10-09 21:50:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "STOXX Europe 600 Automobiles & Parts index hit an intraday high; gains widened to 2.6%."
-    },
-    {
-      "id": "5135279",
-      "time": "2026-10-09 21:50:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "STEAG警告稱，德國一座燃煤電廠的燃料庫存即將耗盡。"
-    },
-    {
-      "id": "mkt:01a120ed-98b8-7ee0-a816-f02535ebad80",
-      "time": "2026-10-09 21:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed",
-        "S&P500",
-        "US10Y"
-      ],
-      "text": "Preliminary Oct U.S. University of Michigan consumer sentiment index and 1-year inflation expectations due in 10 minutes."
-    },
-    {
-      "id": "5135278",
-      "time": "2026-10-09 21:49:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【海關總署張寶峰副署長會見歐盟委員會稅務與海關同盟總司總司長傑拉西莫夫·托馬斯】10月9日上午，海關總署副署長張寶峰在署會見歐盟委員會稅務與海關同盟總司總司長傑拉西莫夫·托馬斯一行。雙方就完善中歐海關合作機制、近期合作重點等深入交換意見，達成積極共識。（海關釋出）"
-    },
-    {
-      "id": "mkt:01a120ec-c985-7ee0-a816-e8a9192aecac",
-      "time": "2026-10-09 21:49:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Greater China"
-      ],
-      "text": "【China CUSTOMS Deputy Director Zhang Baofeng meets European Commission DG for Taxation and Customs Union Thomas Gerassimov】On Oct 9, China CUSTOMS Deputy Director Zhang Baofeng met European Commission Directorate‑General for Taxation and Customs Union Director‑General Thomas Gerassimov. They exchanged views on improving the China‑EU customs cooperation mechanism and near‑term cooperation priorities, reaching a constructive consensus."
-    },
-    {
-      "id": "mkt:01a120ec-b4ca-7ee0-a816-e6c57c97975a",
-      "time": "2026-10-09 21:49:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Data from Spain's gas system technical manager show gas imports of 27,930 GWh in September, up from 27,564 GWh a year earlier."
-    },
-    {
-      "id": "5135277",
-      "time": "2026-10-09 21:48:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "STOXX歐洲600汽車及零部件指數觸及盤中高位，最新上漲2.6% 。"
     }
   ]
 }

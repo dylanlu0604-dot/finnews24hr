@@ -1,7 +1,91 @@
 {
   "date": "2026-10-16",
-  "count": 2293,
+  "count": 2302,
   "items": [
+    {
+      "id": "mkt:01a144fb-7d6b-7ee0-a8c0-2ca06107694f",
+      "time": "2026-10-16 21:51:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU technology affairs chief Weierkuning is due to meet Bill Gates on Wednesday."
+    },
+    {
+      "id": "5150250",
+      "time": "2026-10-16 21:51:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟科技事務負責人維爾庫寧將於週三會見比爾·蓋茨。"
+    },
+    {
+      "id": "mkt:01a144fb-2547-7ee0-a8c0-228c484efb8d",
+      "time": "2026-10-16 21:51:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "On the 16th Ukrainian President Zelenskiy asked EU leaders to provide an additional €70 billion next year to help Ukraine continue resisting Russia."
+    },
+    {
+      "id": "5150249",
+      "time": "2026-10-16 21:51:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "普京特使德米特里耶夫：美國財政部要求俄羅斯的直接投資基金協助達成柴油交易。"
+    },
+    {
+      "id": "5150248",
+      "time": "2026-10-16 21:50:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基要求歐盟明年額外提供700億歐元援助】烏克蘭總統澤連斯基16日請求歐盟領導人明年向烏克蘭額外提供700億歐元（約合790億美元）資金，以幫助烏克蘭繼續對抗俄羅斯。（新華社）"
+    },
+    {
+      "id": "mkt:01a144f9-fb21-7ee0-a8c0-1c23bdef8921",
+      "time": "2026-10-16 21:49:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Putin's special envoy Dmitriyev said Russia is discussing Arctic and LNG projects with the United States."
+    },
+    {
+      "id": "5150247",
+      "time": "2026-10-16 21:49:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "普京特使德米特里耶夫：俄羅斯與美國討論了北極和液化天然氣專案。"
+    },
+    {
+      "id": "te:markets:592822",
+      "time": "2026-10-16 21:48:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Canada Hit 5-week High — TSX increased to 36412.00 Index Points, the highest since September 2026. Over the past 4 weeks, Canada Stock Market Index (TSX) gained 2.52%, and in the last 12 months, it increased 19.46%."
+    },
+    {
+      "id": "5150246",
+      "time": "2026-10-16 21:48:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，天演藥業跌7.50%，世紀互聯跌4.32%，迅雷跌4.32%，新氧跌4.27%，萬國資料跌3.18%。"
+    },
     {
       "id": "mkt:01a144f7-3439-7ee0-a8c0-10c486a8b424",
       "time": "2026-10-16 21:46:53",
