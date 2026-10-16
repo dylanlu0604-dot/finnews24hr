@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-17 04:30:09",
-  "count": 12801,
+  "updated": "2026-10-17 04:33:55",
+  "count": 12802,
   "items": [
+    {
+      "id": "5150584",
+      "time": "2026-10-17 04:32:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長談人工智慧市場動盪：“這一切都會過去。”"
+    },
+    {
+      "id": "5150583",
+      "time": "2026-10-17 04:32:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗支援的民兵組織正向資金短缺的伊朗伊斯蘭革命衛隊輸送資金。"
+    },
+    {
+      "id": "mkt:01a1466a-3ba5-7ee0-a8c6-306c184854af",
+      "time": "2026-10-17 04:32:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "According to Axios, CENTCOM commander Admiral Brad Cooper said Friday that Iran-backed regional militias have been funneling funds to the IRGC to offset the economic strain of a nine-month war."
+    },
     {
       "id": "mkt:01a14666-e95b-7ee0-a8c6-2f34b606089f",
       "time": "2026-10-17 04:28:31",
@@ -116893,25 +116921,6 @@
         "其他"
       ],
       "text": "穆迪將迦納的信用評級上調至B3，展望調整為穩定。"
-    },
-    {
-      "id": "mkt:01a1225d-c02b-7ee0-a820-52994902dec3",
-      "time": "2026-10-10 04:32:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【US Treasury eases Russia sanctions, allows imports of Russian diesel until April 2027】The US Treasury's Office of Foreign Assets Control (OFAC) on Oct. 9 issued General License No. 135 permitting transactions previously banned under Russia sanctions involving Russian-origin diesel — including sale, delivery, discharge and import into the United States. The license is effective through 00:01 EDT on April 7, 2027 (12:01 Beijing time on April 7, 2027). It continues to prohibit debits from accounts at US financial institutions held by the Russian central bank, the Russian National Wealth Fund or the Russian finance ministry."
-    },
-    {
-      "id": "5135748",
-      "time": "2026-10-10 04:32:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美光科技12月將股票回購計劃規模擴大至350億美元】美光科技董事會批准擴大股票回購計劃，將於12月起生效。美光在10-K檔案中表示，董事會“批准將自2026年12月9日起可酌情回購的普通股最高金額上調至351.6億美元”。美光此前批准了一項100億美元的股票回購計劃，其中約22億美元額度尚未使用美光股價週五下跌1%；今年以來累計上漲約260%。"
     }
   ]
 }

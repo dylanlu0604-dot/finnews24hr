@@ -1,7 +1,35 @@
 {
   "date": "2026-10-17",
-  "count": 379,
+  "count": 382,
   "items": [
+    {
+      "id": "5150584",
+      "time": "2026-10-17 04:32:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長談人工智慧市場動盪：“這一切都會過去。”"
+    },
+    {
+      "id": "5150583",
+      "time": "2026-10-17 04:32:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗支援的民兵組織正向資金短缺的伊朗伊斯蘭革命衛隊輸送資金。"
+    },
+    {
+      "id": "mkt:01a1466a-3ba5-7ee0-a8c6-306c184854af",
+      "time": "2026-10-17 04:32:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "According to Axios, CENTCOM commander Admiral Brad Cooper said Friday that Iran-backed regional militias have been funneling funds to the IRGC to offset the economic strain of a nine-month war."
+    },
     {
       "id": "mkt:01a14666-e95b-7ee0-a8c6-2f34b606089f",
       "time": "2026-10-17 04:28:31",
