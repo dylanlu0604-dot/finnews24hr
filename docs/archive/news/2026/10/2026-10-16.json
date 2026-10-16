@@ -1,7 +1,69 @@
 {
   "date": "2026-10-16",
-  "count": 652,
+  "count": 659,
   "items": [
+    {
+      "id": "te:economy:592548",
+      "time": "2026-10-16 08:39:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Domestic Exports of Non Oil (nodx) (%yoy)",
+        "Importance 1"
+      ],
+      "text": "Singapore NODX Growth Hits Record High — Singapore’s non-oil domestic exports (NODX) soared 68.4% year-on-year in September 2026, accelerating sharply from a downwardly revised 46.1% increase in August and far exceeding forecasts of 33.8%. It marked the 23rd consecutive month of expansion and the strongest growth on record, mainly driven by electronics exports, which surged 107.6% compared with 13.6% in August, supported by robust AI-related demand. Electronic exports were boosted by disk media products (312.4%), PCs (149.5%), and integrated circuits (ICs) (74.7%). Meanwhile, non-electronic exports growth accelerated to 54.2% from an 11.9% increase in August."
+    },
+    {
+      "id": "5148637",
+      "time": "2026-10-16 08:39:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【可靈AI上線Kling 4.0：支援10-bit HDR、30秒原生直出  重新整理影片模型新基準】10月15日，可靈AI上線新一代影片生成模型Kling 4.0。在產品基礎能力上，該模型單次原生生成最長達30秒（文字輸入最高8000 tokens），支援最高10-bit HDR規格及4K、21:9超寬畫幅輸出，並提升了高動態與複雜運鏡的表現穩定性。"
+    },
+    {
+      "id": "5148636",
+      "time": "2026-10-16 08:39:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見土耳其外長費丹】當地時間2026年10月15日，中共中央政治局委員、外交部長王毅在巴庫出席亞信峰會期間會見土耳其外長費丹。王毅表示，中土傳統友好，深化兩國戰略合作符合兩國和兩國人民利益，也將為世界經濟復甦作出貢獻。中方始終重視中土關係，願以兩國建交55週年為契機，同土方落實好兩國元首重要共識，推動中土戰略合作邁上新臺階。(外交部網站)"
+    },
+    {
+      "id": "5148635",
+      "time": "2026-10-16 08:38:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見以色列總統赫爾佐格】當地時間2026年10月15日，中共中央政治局委員、外交部長王毅在巴庫出席亞信峰會期間應約會見以色列總統赫爾佐格。赫爾佐格表示，猶太民族和中華民族有著悠久交往。雙方曾在反法西斯戰爭中相互幫助，人民之間結下友誼，成就了一段歷史佳話。以方堅定奉行一箇中國政策，致力於推進以中友好關係，願以明年以中建交35週年為契機，推進雙方在科技、投資、人員往來等領域交流合作。(外交部網站)"
+    },
+    {
+      "id": "5148634",
+      "time": "2026-10-16 08:38:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大範圍雨雪明起進入最強時段 北方大部氣溫將創新低】今天（10月16日）至19日，冷空氣將自西向東影響長江中下游及其以北大部地區，西北地區東部、華北、黃淮等多地最高氣溫將重新整理今年下半年來新低。降溫的同時，大範圍降水也將登場，北方多地將出現同期少見的強降雨。明天將是本輪降水過程的最強時段，大到暴雨範圍明顯擴大。"
+    },
+    {
+      "id": "5148633",
+      "time": "2026-10-16 08:37:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新加坡9月非石油國內出口受非電子產品出貨推動激增】新加坡9月非石油國內出口好於預期，在非電子產品出貨推動下增速顯著加快。根據新加坡企業發展局(Enterprise Singapore)週五資料，9月非石油國內出口同比增長68.4%。此前8月經修正後增長46.1%。該政府機構表示：“這一增長由非電子產品推動，主要源於船舶和船艇結構件的不規則大額出口。”2026年前九個月，非石油國內出口同比增長27.6%。"
+    },
+    {
+      "id": "mkt:01a14223-d120-7ee0-a8aa-e8fb7f652bc1",
+      "time": "2026-10-16 08:36:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TRUMP said Russia is a vast country and can afford to lose 1 mln people and still has multiple mln more; Ukraine does not have comparable manpower."
+    },
     {
       "id": "5148632",
       "time": "2026-10-16 08:35:49",
