@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-16 20:52:31",
-  "count": 12922,
+  "updated": "2026-10-16 20:56:23",
+  "count": 12919,
   "items": [
+    {
+      "id": "5150171",
+      "time": "2026-10-16 20:55:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約市審計長萊文致函Anthropic，Anthropic於週四作出回應。"
+    },
+    {
+      "id": "mkt:01a144c7-5de0-7ee0-a8be-b8c7e3691dae",
+      "time": "2026-10-16 20:54:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Russia's Energy Ministry said Russian forces continue to strike energy targets across Ukraine."
+    },
+    {
+      "id": "te:economy:592802",
+      "time": "2026-10-16 20:54:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Investment in Foreign Securities",
+        "Importance 1"
+      ],
+      "text": "Canada Investment in Foreign Securities Rebounds — Canadian investors acquired C$23.9 billion in foreign securities in August 2026, following a divestment of C$30.6 billion in July. Investors resumed purchases of US equities, acquiring C$28.9 billion worth of shares. In contrast, Canadian investors reduced their holdings of US federal government bonds by C$8.6 billion. This divestment was partly offset by investments in foreign bonds denominated in Canadian dollars (+C$2.7 billion) and US federal government securities (+C$1.8 billion). During the first eight months of 2026, Canadian investors acquired a record C$76.0 billion worth of US shares, compared with C$52.6 billion over the same period in 2025. Investors have largely targeted large-cap technology stocks so far this year."
+    },
+    {
+      "id": "5150170",
+      "time": "2026-10-16 20:53:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯能源部稱，俄羅斯持續打擊烏克蘭各地的能源目標。"
+    },
+    {
+      "id": "5150169",
+      "time": "2026-10-16 20:51:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【XHEART完成戰略輪融資，長鑫科技、雷諾、奇瑞參投】10月16日，物理AI算力晶片公司新芯航途（XHEART）近日完成戰略輪融資，歷史累計融資額約50億元。本輪融資中，雷諾集團首次投資XHEART，奇瑞汽車追加投資，長鑫科技亦參與投資。XHEART主要面向自動駕駛、機器人等場景研發算力晶片。其晶片產品X7面向L2++城區智慧輔助駕駛及L3/L4自動駕駛市場，首發搭載上汽大眾ID.ERA 9X，後續計劃搭載於上汽旗下MG、榮威，以及通用旗下凱迪拉克、奇瑞旗下部分車型。公司目前還與Momenta、QNX開展合作，並已著手佈局下一代產品。（介面新聞）"
+    },
     {
       "id": "5150168",
       "time": "2026-10-16 20:50:33",
@@ -117751,80 +117799,6 @@
         "其他"
       ],
       "text": "【宇宙神秘“小紅點”去哪了 我國科學家有新發現】詹姆斯·韋布空間望遠鏡在探索早期宇宙時發現了一類“小紅點”星系，它們結構緻密、顏色偏紅，在宇宙早期大量存在，卻在宇宙年齡約20億年後幾乎完全消失，成為天文學界重大疑難問題之一。華中科技大學物理學院張華年副教授、吳慶文教授團隊聯合北京大學、中國科學院高能物理研究所等多家機構，基於近100個光譜確認的“小紅點”樣本展開研究，首次從大尺度環境和暗物質暈質量演化角度揭示其消失之謎。相關研究成果10月8日線上發表於國際學術期刊《自然-天文學》。（新華社）"
-    },
-    {
-      "id": "5135195",
-      "time": "2026-10-09 20:56:00",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【斯洛伐克稱美國理解其進口俄羅斯石油和天然氣的必要性】斯洛伐克經濟部長德尼薩·薩科娃表示，美國對斯洛伐克在2027年底前繼續進口俄羅斯石油和天然氣的必要性表達了“絕對理解”。薩科娃稱，斯洛伐克正努力擺脫對莫斯科化石燃料的依賴，但在明年繼續接收俄羅斯石油時，該國需要獲得潛在美國製裁的豁免。與此同時，根據歐盟的全面禁令，斯洛伐克必須在2027年秋季前停止進口俄羅斯天然氣。薩科娃週五在布拉迪斯拉發告訴記者：“美方對我們的處境表達了絕對理解，也理解我們希望實現斯洛伐克供應多元化的時間表。我們至少需要這個過渡期持續到2027年底。”本週，薩科娃在華盛頓與白宮國家能源主導委員會執行董事賈羅德·阿根以及美國財政部副部長弗朗西斯·布魯克舉行了會談。為替代俄羅斯天然氣工業股份公司的供應，斯洛伐克計劃簽訂一份每年約10億立方米的天然氣中短期或長期合同。薩科娃表示，阿爾及利亞、亞塞拜然和美國都是潛在的供應國，這些供應量約佔國有天然氣供應商斯洛伐克天然氣工業公司所需總量的三分之一。"
-    },
-    {
-      "id": "mkt:01a120bb-b42e-7ee0-a816-2b9189e20b54",
-      "time": "2026-10-09 20:55:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Emerging Markets",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran-related reports pushed oil prices to retrace earlier losses, prompting the Mexican peso to lead declines in emerging-market currencies."
-    },
-    {
-      "id": "5135194",
-      "time": "2026-10-09 20:53:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大普微：目前公司經營情況良好，在手訂單充足，業務拓展穩步推進  】10月9日，大普微-UW（301666.SZ）在互動平臺表示，當前全球 AI 產業快速發展，企業級儲存市場需求持續擴容，行業增長動能充足。公司將持續發揮“主控晶片 + 韌體演算法 + 模組”全棧自研的核心技術優勢，加快 PCIe 6.0、大容量 QLC SSD、SCM等前沿產品研發迭代，深度適配 AI 大模型訓練與推理等高階場景；同時持續深化全球化佈局，鞏固與全球頭部客戶的合作，積極拓展優質增量客戶，不斷提升市場份額。目前公司經營情況良好，在手訂單充足，業務拓展穩步推進，重大合同情況請以公司定期報告及相關公告為準。公司將積極把握行業發展機遇，提升市場地位。"
-    },
-    {
-      "id": "5135193",
-      "time": "2026-10-09 20:53:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "胡塞武裝稱：所有往返利雅得機場的人道主義航班，只要獲得首都薩那人道主義行動協調中心的批准，均獲准通行。"
-    },
-    {
-      "id": "5135192",
-      "time": "2026-10-09 20:52:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "受伊朗相關報道影響，原油跌幅收窄，墨西哥比索（MXN）領跌新興市場外匯（EMFX）。"
-    },
-    {
-      "id": "5135191",
-      "time": "2026-10-09 20:52:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：伊拉克埃爾比勒傳出爆炸聲。"
-    },
-    {
-      "id": "mkt:01a120b8-f802-7ee0-a816-244d2de8acec",
-      "time": "2026-10-09 20:52:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market reports: explosions heard in Erbil, Iraq."
-    },
-    {
-      "id": "5135190",
-      "time": "2026-10-09 20:52:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【景嘉微：CH37系列正推進客戶匯入及小批次量產】景嘉微在互動平臺表示，CH37系列面向具身智慧、邊緣計算等通用市場，具備充沛AI算力、靈活計算精度及多模態感知融合等核心優勢，適配機器人、工業無人機、具身智慧等多模態感知與低延遲需求較高的場景。目前CH37系列產品正持續推進客戶匯入工作、小批次量產工作、完善配套軟體開發與最佳化，以及銷售推廣活動。"
     }
   ]
 }

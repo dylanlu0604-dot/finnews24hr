@@ -1,7 +1,55 @@
 {
   "date": "2026-10-16",
-  "count": 2160,
+  "count": 2165,
   "items": [
+    {
+      "id": "5150171",
+      "time": "2026-10-16 20:55:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約市審計長萊文致函Anthropic，Anthropic於週四作出回應。"
+    },
+    {
+      "id": "mkt:01a144c7-5de0-7ee0-a8be-b8c7e3691dae",
+      "time": "2026-10-16 20:54:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Russia's Energy Ministry said Russian forces continue to strike energy targets across Ukraine."
+    },
+    {
+      "id": "te:economy:592802",
+      "time": "2026-10-16 20:54:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Investment in Foreign Securities",
+        "Importance 1"
+      ],
+      "text": "Canada Investment in Foreign Securities Rebounds — Canadian investors acquired C$23.9 billion in foreign securities in August 2026, following a divestment of C$30.6 billion in July. Investors resumed purchases of US equities, acquiring C$28.9 billion worth of shares. In contrast, Canadian investors reduced their holdings of US federal government bonds by C$8.6 billion. This divestment was partly offset by investments in foreign bonds denominated in Canadian dollars (+C$2.7 billion) and US federal government securities (+C$1.8 billion). During the first eight months of 2026, Canadian investors acquired a record C$76.0 billion worth of US shares, compared with C$52.6 billion over the same period in 2025. Investors have largely targeted large-cap technology stocks so far this year."
+    },
+    {
+      "id": "5150170",
+      "time": "2026-10-16 20:53:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯能源部稱，俄羅斯持續打擊烏克蘭各地的能源目標。"
+    },
+    {
+      "id": "5150169",
+      "time": "2026-10-16 20:51:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【XHEART完成戰略輪融資，長鑫科技、雷諾、奇瑞參投】10月16日，物理AI算力晶片公司新芯航途（XHEART）近日完成戰略輪融資，歷史累計融資額約50億元。本輪融資中，雷諾集團首次投資XHEART，奇瑞汽車追加投資，長鑫科技亦參與投資。XHEART主要面向自動駕駛、機器人等場景研發算力晶片。其晶片產品X7面向L2++城區智慧輔助駕駛及L3/L4自動駕駛市場，首發搭載上汽大眾ID.ERA 9X，後續計劃搭載於上汽旗下MG、榮威，以及通用旗下凱迪拉克、奇瑞旗下部分車型。公司目前還與Momenta、QNX開展合作，並已著手佈局下一代產品。（介面新聞）"
+    },
     {
       "id": "5150168",
       "time": "2026-10-16 20:50:33",
