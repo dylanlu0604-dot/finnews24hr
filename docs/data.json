@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-16 11:07:59",
-  "count": 12636,
+  "updated": "2026-10-16 11:11:51",
+  "count": 12640,
   "items": [
+    {
+      "id": "te:markets:592600",
+      "time": "2026-10-16 11:10:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Under Pressure on MSCI Downgrade Concerns — The Indonesian rupiah weakened past IDR 18,050 per U.S. dollar on Friday, its weakest level since early August, after MSCI questioned Indonesia’s emerging-market status. The index provider flagged dysfunction in local markets and outlined a possible shift to standalone-market classification, which could trigger capital outflows. The prospect added pressure on the currency amid persistent volatility. Meanwhile, Bank Indonesia will hold a policy meeting next week. The central bank has kept its key rate at 5.75% for three straight months through September, following cumulative hikes of 100bps in May and June, while continuing forex intervention to support the rupiah. September inflation accelerated to 3.28%, driven by persistent pressure from food prices. Globally, the dollar index eased but remained firm near 102, as resilient U.S. data reinforced expectations of further Fed tightening. For the week, the rupiah lost around 0.4%, reversing gains in the previous two periods"
+    },
+    {
+      "id": "5148927",
+      "time": "2026-10-16 11:10:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "5148926",
+      "time": "2026-10-16 11:10:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國財長萊斯屈爾：完全不必擔憂出現歐洲範圍的風險傳染。"
+    },
+    {
+      "id": "5148925",
+      "time": "2026-10-16 11:10:13",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "德國財政部長就裕信銀行收購德國商業銀行一事發表講話：我們確實需要考慮如何全面保護自己免受此類策略的影響。"
+    },
+    {
+      "id": "5148924",
+      "time": "2026-10-16 11:10:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼10年期國債收益率上漲10個基點，至兩個多月以來的最高水平。"
+    },
+    {
+      "id": "5148923",
+      "time": "2026-10-16 11:09:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均漲超1%】上證指數漲1.05%，現報3746.315點；深證成指漲1.19%，現報11957.399點；創業板指漲1.00%，現報2811.041點。"
+    },
+    {
+      "id": "mkt:01a142af-89a6-7ee0-a8af-97173ad2372f",
+      "time": "2026-10-16 11:09:22",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "CSI 1000 index futures (IM) front contract intraday gain widened to 2.00%, trading at 6,702.8 points."
+    },
+    {
+      "id": "mkt:01a142ae-2fd5-7ee0-a8af-8b7b4fe97585",
+      "time": "2026-10-16 11:07:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine equities rose 2% to 5,776.88 points."
+    },
+    {
+      "id": "5148922",
+      "time": "2026-10-16 11:07:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黃百鐵路那蒙澄碧河特大橋連續梁順利合龍】10月15日凌晨，隨著最後一跨連續梁順利合龍，西部陸海新通道標誌性工程新建貴州黃桶至廣西百色鐵路（以下簡稱“黃百鐵路”）廣西段橋樑重難點工程那蒙澄碧河特大橋順利完成連續梁施工，專案建設迎來重要進展。"
+    },
     {
       "id": "5148921",
       "time": "2026-10-16 11:06:47",
@@ -115242,48 +115323,6 @@
         "市場"
       ],
       "text": "富時中國A50指數期貨跌幅擴大至1%。"
-    },
-    {
-      "id": "5134110",
-      "time": "2026-10-09 11:11:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市指數上漲2.1%，至5725.55點。"
-    },
-    {
-      "id": "5134109",
-      "time": "2026-10-09 11:11:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨下跌1%。"
-    },
-    {
-      "id": "5134108",
-      "time": "2026-10-09 11:10:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國已建成580支危險化學品應急救援隊伍】從應急管理部今天舉行的新聞釋出會上獲悉，目前，全國已建成580支、4.1萬餘人的危險化學品應急救援隊伍，國家層面建成45支國家級危險化學品應急救援隊伍，基本實現重點化工區域、重大風險點位應急救援力量全覆蓋。同時，中央財政為45支國家級危險化學品應急救援隊伍配備了1000餘臺套先進適用救援裝備，進一步提升區域和重點行業安全生產風險防範和應急處置水平。確保一旦發生事故，第一時間有力有序開展應急救援。自上屆競賽以來，國家危險化學品應急救援隊伍累計出動4.1萬餘人次參與4137起事故災害救援，搶救遇險被困人員674人。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202610093890992614",
-      "time": "2026-10-09 11:10:08",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【工信部：1—8月規上電子資訊製造業營收12.8萬億元 同比增長20.1%】工信部資料顯示，1—8月份，規模以上電子資訊製造業實現營業收入12.8萬億元，同比增長20.1%；營業成本10.8萬億元，同比增長16.7%；實現利潤總額8475億元，同比增長1.1倍。8月份，規模以上電子資訊製造業營業收入1.74萬億元，同比增長25%。"
-    },
-    {
-      "id": "5134107",
-      "time": "2026-10-09 11:10:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國農業債務創新高 官方統計或被顯著低估】美國農業部最新估算顯示，今年美國農業債務將突破6050億美元、創歷史紀錄。但供應商、裝置製造商等非傳統信貸快速擴張且難以全面統計，實際債務規模可能被顯著低估。美國農業部表示目前已啟動專項追蹤，並評估農業債務向整體經濟蔓延的風險。（央視新聞）"
     }
   ]
 }
