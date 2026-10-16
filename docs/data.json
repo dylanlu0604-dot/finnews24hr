@@ -1,7 +1,166 @@
 {
-  "updated": "2026-10-16 21:12:21",
-  "count": 12917,
+  "updated": "2026-10-16 21:16:08",
+  "count": 12930,
   "items": [
+    {
+      "id": "mkt:01a144da-80d5-7ee0-a8bf-69af9e9c384e",
+      "time": "2026-10-16 21:15:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US manufacturing capacity utilization rose to 75.9% in September, up 0.2 percentage point from 75.7% previously."
+    },
+    {
+      "id": "5150199",
+      "time": "2026-10-16 21:15:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月礦業產出+0.2%（8月+0.5%），公用事業產出+3.5%（8月+1.5%）。"
+    },
+    {
+      "id": "mkt:01a144da-61e0-7ee0-a8bf-67259732c94a",
+      "time": "2026-10-16 21:15:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing Capacity Utilization (Sep) | actual 75.9% | previous 75.7%"
+    },
+    {
+      "id": "5150198",
+      "time": "2026-10-16 21:15:16",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國9月工業產出月率 0.7%，預期0.40%，前值由0.00%修正為0.1%。"
+    },
+    {
+      "id": "mkt:01a144da-36bd-7ee0-a8bf-5f6997df8462",
+      "time": "2026-10-16 21:15:13",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "US manufacturing production, September MoM +0.3% (exp +0.3%); August revised to -0.2% from -0.3%."
+    },
+    {
+      "id": "mkt:01a144da-368f-7ee0-a8bf-505ebb71bb91",
+      "time": "2026-10-16 21:15:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. capacity utilization for September 76.9% vs. 76.5% expected; prior reading revised to 76.4% from 76.3%."
+    },
+    {
+      "id": "mkt:01a144da-32a6-7ee0-a8bf-4b103d7b970a",
+      "time": "2026-10-16 21:15:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. industrial production rose 0.7% MoM in September, versus 0.4% expected; August was revised to 0.1% from 0.0%."
+    },
+    {
+      "id": "mkt:01a144da-195f-7ee0-a8bf-3eeecbf2bd8e",
+      "time": "2026-10-16 21:15:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing Production (MoM) (Sep) | actual 0.3% | consensus 0.30% | previous -0.30%"
+    },
+    {
+      "id": "mkt:01a144da-1960-7ee0-a8bf-45537304edc8",
+      "time": "2026-10-16 21:15:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Capacity Utilization (Sep) | actual 76.9% | consensus 76.50% | previous 76.30%"
+    },
+    {
+      "id": "mkt:01a144da-18b9-7ee0-a8bf-30c66ec8aa6b",
+      "time": "2026-10-16 21:15:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Industrial Production (MoM) (Sep) | actual 0.7% | consensus 0.40% | previous 0.00%"
+    },
+    {
+      "id": "mkt:01a144d9-7da8-7ee0-a8bf-294e90224ae5",
+      "time": "2026-10-16 21:14:26",
+      "tags": [
+        "MKT News",
+        "VOW3.DE"
+      ],
+      "text": "Mexico's labor ministry urged Volkswagen and its workers to resume negotiations after a wage-increase proposal was rejected."
+    },
+    {
+      "id": "5150197",
+      "time": "2026-10-16 21:14:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱又一“違規”油輪在霍爾木茲海峽東部水域起火】伊朗海軍16日說，其監測團隊在過去幾小時內又發現一艘“違規”油輪在霍爾木茲海峽東部水域起火。伊朗海軍當天在其網站上發表宣告說，持續監控霍爾木茲海峽東部水域的監測團隊在該水域發現這艘油輪。該油輪關閉了追蹤系統，試圖穿越海峽東部“禁區”。伊朗海軍強調，船隻在霍爾木茲海峽的“禁航航道和區域”內進行“未經協調的航行”，會給其他船隻帶來不安全因素。（新華社）"
+    },
+    {
+      "id": "5150196",
+      "time": "2026-10-16 21:13:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥勞工部呼籲大眾汽車及其工人在拒絕加薪提議後恢復談判。"
+    },
+    {
+      "id": "5150195",
+      "time": "2026-10-16 21:13:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新芯航途完成戰略輪融資，雷諾、奇瑞、長鑫科技參投】物理AI算力晶片公司新芯航途（XHEART）近日完成戰略輪融資，歷史累計融資額約50億元人民幣。本輪投資方包括雷諾集團、奇瑞汽車和長鑫科技，其中雷諾首次投資，奇瑞追加投資。"
+    },
+    {
+      "id": "5150194",
+      "time": "2026-10-16 21:13:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【天孚通訊：有源光器件關鍵瓶頸物料供給情況較上半年有所改善 預計對經營業績的積極影響將在未來幾個季度逐步釋放】天孚通訊(300394.SZ)釋出投資者關係活動記錄表公告，公司自第二季度末開始，有源光器件關鍵瓶頸物料供給情況較上半年有所改善，預計相關供應改善對公司經營業績的積極影響將在未來幾個季度逐步釋放。無源光器件方面，受行業需求持續增長帶動，相關業務保持良好發展態勢，公司正結合客戶需求及市場變化持續推進擴產工作。海外產能佈局方面，公司已在泰國建有生產基地，部分無源器件已處於量產狀態，以滿足不同客戶全球供應的需求。針對OCP大會上出現的新技術方向，研發團隊已開展相關討論和前期研究。從技術發展趨勢看，更多新產品向多通道、高整合度方向演進，有助於進一步發揮公司在高精密無源器件方面的工藝能力優勢，以及在光學耦合、精密製造及規模化高質量批次交付方面的既有專長。"
+    },
+    {
+      "id": "5150193",
+      "time": "2026-10-16 21:13:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【錯估震級9.9級 日本氣象廳再開記者會解釋】據日本廣播協會報道，日本氣象廳在10月16日下午第二次召開的記者會中解釋，當天中午錯誤推測發生9.9級地震併發出相應警報，可能是震源位置推定錯誤所致。（新華社）"
+    },
     {
       "id": "mkt:01a144d5-f42d-7ee0-a8bf-20100b64416b",
       "time": "2026-10-16 21:10:34",
@@ -117765,36 +117924,6 @@
         "公司"
       ],
       "text": "【運輸航空公司執行控制政策與標準研討會在京召開】10月9日，運輸航空公司執行控制政策與標準研討會在北京召開。本次會議緊扣智慧民航建設、關鍵技術自主可控的民航局工作部署，聚焦航空公司執行控制能力提質升級，深入研討運控領域政策標準制定與行業實踐應用，著力推動國產技術裝備在航空執行控制場景落地推廣。會議強調，執行控制是航空公司安全執行的中樞神經，對航班執行安全與執行正常性保障起到不可替代的關鍵作用。伴隨國內民航行業持續高質量發展，社會與行業層面對航空安全、航班正常性提出更高要求，航空公司執行控制風險管控能力迎來全新挑戰。"
-    },
-    {
-      "id": "mkt:01a120ce-6142-7ee0-a816-76d52050c329",
-      "time": "2026-10-09 21:15:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Indonesia raised its September price for Minas crude to $115.97 a barrel."
-    },
-    {
-      "id": "5135225",
-      "time": "2026-10-09 21:13:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西可可加工商協會（AIPC）資料顯示，2025/26作物年度巴西本土可可豆加工量增長25.3%，至226,497噸。"
-    },
-    {
-      "id": "5135224",
-      "time": "2026-10-09 21:13:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威專家委員會將於下週四提交財富基金報告。"
     }
   ]
 }
