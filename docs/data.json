@@ -1,7 +1,157 @@
 {
-  "updated": "2026-10-17 02:00:50",
-  "count": 12863,
+  "updated": "2026-10-17 02:04:39",
+  "count": 12869,
   "items": [
+    {
+      "id": "mkt:01a145e2-3bf7-7ee0-a8c4-723bdc2a4b01",
+      "time": "2026-10-17 02:03:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "ICE data showed speculative net long positions in Brent crude rose by 31,977 contracts to 233,029 in the week to Oct 13."
+    },
+    {
+      "id": "mkt:01a145e2-3458-7ee0-a8c4-6e50fae76f3a",
+      "time": "2026-10-17 02:03:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "According to Fox News, U.S. fiscal outlays were $585.0 bln in September and $346.0 bln in September 2025; fiscal receipts were $558.0 bln in September and $544.0 bln in September 2025."
+    },
+    {
+      "id": "mkt:01a145e2-05b6-7ee0-a8c4-654982c3f2f8",
+      "time": "2026-10-17 02:03:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury: September budget deficit $27.0bn (market expected $28.0bn); September 2025 surplus $198.0bn."
+    },
+    {
+      "id": "mkt:01a145e1-e624-7ee0-a8c4-588254791b78",
+      "time": "2026-10-17 02:03:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury: September net tariff receipts $5.91 bln; gross tariff receipts $25.27 bln; tariff refunds $19.36 bln."
+    },
+    {
+      "id": "mkt:01a145e1-d925-7ee0-a8c4-52f68952bc5d",
+      "time": "2026-10-17 02:03:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury: Net tariff revenue for FY26 was $173.22 bln, down from $194.87 bln in FY25."
+    },
+    {
+      "id": "mkt:01a145e1-bd93-7ee0-a8c4-4831161e5648",
+      "time": "2026-10-17 02:03:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Treasury: US fiscal deficit for FY26 $1.992 trillion; FY25 $1.775 trillion."
+    },
+    {
+      "id": "mkt:01a145e1-a4b3-7ee0-a8c4-425d18302193",
+      "time": "2026-10-17 02:02:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury: interest on federal debt reached a record $1.36 trillion in fiscal 2026, up $144 billion (12%) from the prior fiscal year."
+    },
+    {
+      "id": "5150468",
+      "time": "2026-10-17 02:02:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所：截至10月13日當週，布倫特原油投機者淨多頭頭寸增加31977份合約，至233029份。"
+    },
+    {
+      "id": "mkt:01a145e1-4c1a-7ee0-a8c4-3c423c0d2401",
+      "time": "2026-10-17 02:02:31",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Sources say the U.S. Federal Aviation Administration is expected to approve Boeing's (BA.N) 737 MAX 10 next week."
+    },
+    {
+      "id": "5150467",
+      "time": "2026-10-17 02:01:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌3%】費城半導體指數日內跌3.00%，現報11233.78點。英偉達跌1.07%，博通跌3.82%，美光跌4.23%，英特爾跌4.81%，AMD跌5.20%，高通跌3.11%，臺積電跌2.36%，阿斯麥跌0.19%。"
+    },
+    {
+      "id": "5150466",
+      "time": "2026-10-17 02:01:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國聯邦航空管理局最早將於下週批准波音737 MAX 10。"
+    },
+    {
+      "id": "5150465",
+      "time": "2026-10-17 02:01:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月預算赤字270億美元，市場預期為赤字280億美元，2025年9月為盈餘1980億美元。"
+    },
+    {
+      "id": "5150464",
+      "time": "2026-10-17 02:00:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：9月淨關稅收入59.1億美元，關稅總收入252.7億美元，退稅193.6億美元。"
+    },
+    {
+      "id": "5150463",
+      "time": "2026-10-17 02:00:42",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部資料顯示，2026財年美國海關淨收入為1732.2億美元，而2025財年同期淨收入為1948.7億美元。"
+    },
+    {
+      "id": "5150462",
+      "time": "2026-10-17 02:00:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國2026財年赤字為1.992萬億美元，2025財年赤字為1.775萬億美元。"
+    },
     {
       "id": "5150461",
       "time": "2026-10-17 02:00:21",
@@ -117399,81 +117549,6 @@
         "其他"
       ],
       "text": "太平洋海嘯預警中心：可能出現大範圍危險海嘯波。"
-    },
-    {
-      "id": "5135601",
-      "time": "2026-10-10 02:04:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "太平洋海嘯預警中心：巴拿馬地震可能引發危險海嘯波。"
-    },
-    {
-      "id": "5135600",
-      "time": "2026-10-10 02:03:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國地球科學研究中心（GFZ）：巴拿馬發生6.97級地震。"
-    },
-    {
-      "id": "mkt:01a121d5-4ab5-7ee0-a81d-80780ca4c4f5",
-      "time": "2026-10-10 02:03:08",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The New York Times reports Katie Zacharia has been named White House press secretary."
-    },
-    {
-      "id": "5135599",
-      "time": "2026-10-10 02:03:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國地質調查局：巴拿馬皮塔洛薩阿里巴西南14公里處發生8.0級地震。"
-    },
-    {
-      "id": "5135598",
-      "time": "2026-10-10 02:02:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：截至10月9日，美國軍方已重新引導133艘商船以確保遵守規定。"
-    },
-    {
-      "id": "5135597",
-      "time": "2026-10-10 02:01:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將尋求辦法克服能源專案面臨的州級障礙。"
-    },
-    {
-      "id": "mkt:01a121d4-1e29-7ee0-a81d-7d17777ade28",
-      "time": "2026-10-10 02:01:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM: As of Oct. 9, the U.S. military has redirected 133 commercial vessels to ensure compliance with regulations."
-    },
-    {
-      "id": "5135596",
-      "time": "2026-10-10 02:01:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "據知情人士描述，特朗普計劃釋出一份備忘錄。"
-    },
-    {
-      "id": "5135595",
-      "time": "2026-10-10 02:00:51",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "凱蒂·扎卡里亞被選為白宮新任新聞秘書。"
     }
   ]
 }
