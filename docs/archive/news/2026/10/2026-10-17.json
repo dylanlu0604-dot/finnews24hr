@@ -1,7 +1,127 @@
 {
   "date": "2026-10-17",
-  "count": 131,
+  "count": 145,
   "items": [
+    {
+      "id": "5150441",
+      "time": "2026-10-17 01:17:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國經濟從未如此強勁。"
+    },
+    {
+      "id": "mkt:01a145b7-faed-7ee0-a8c3-a6564c55465a",
+      "time": "2026-10-17 01:17:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said Europe is working to help Ukraine build satellite and early-warning systems."
+    },
+    {
+      "id": "5150440",
+      "time": "2026-10-17 01:17:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣跌破81000美元，日內跌1.51%。"
+    },
+    {
+      "id": "mkt:01a145b7-96e1-7ee0-a8c3-98adde1a04c0",
+      "time": "2026-10-17 01:17:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $100 mln from one counterparty in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:01a145b7-39b3-7ee0-a8c3-96da71bcd7c0",
+      "time": "2026-10-17 01:16:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq losses widened to 2%."
+    },
+    {
+      "id": "5150439",
+      "time": "2026-10-17 01:16:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與沙烏地阿拉伯的關係非常好。"
+    },
+    {
+      "id": "5150438",
+      "time": "2026-10-17 01:16:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：司法部沒有干預加州選舉。"
+    },
+    {
+      "id": "5150437",
+      "time": "2026-10-17 01:16:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（10月16日），美聯儲隔夜逆回購協議（RRP）使用規模為1億美元（交易對手1家），上個交易日報12.01億美元。"
+    },
+    {
+      "id": "5150436",
+      "time": "2026-10-17 01:16:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌2.01%，現報26176.044點；道指跌0.50%，現報51915.449點；標普500指數跌1.10%，現報7659.140點。"
+    },
+    {
+      "id": "5150435",
+      "time": "2026-10-17 01:16:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：俄羅斯將釋放柴油，這是一項全球性協議。"
+    },
+    {
+      "id": "mkt:01a145b6-2be4-7ee0-a8c3-8e775b51091f",
+      "time": "2026-10-17 01:15:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said White House press secretary Zakaria will remain in post but may stay in government in another role or capacity."
+    },
+    {
+      "id": "5150434",
+      "time": "2026-10-17 01:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數升至四個多月高位，最新上漲4.97點，報21.41。"
+    },
+    {
+      "id": "mkt:01a145b5-57ca-7ee0-a8c3-8783d4d5aa6a",
+      "time": "2026-10-17 01:14:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says he maintains a good relationship with Ukrainian President ZELENSKIY."
+    },
+    {
+      "id": "5150433",
+      "time": "2026-10-17 01:14:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與澤連斯基保持良好關係。"
+    },
     {
       "id": "mkt:01a145b5-0ad0-7ee0-a8c3-7d868e2c0107",
       "time": "2026-10-17 01:14:14",
