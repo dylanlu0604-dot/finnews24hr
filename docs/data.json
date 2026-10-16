@@ -1,7 +1,41 @@
 {
-  "updated": "2026-10-16 21:16:08",
-  "count": 12930,
+  "updated": "2026-10-16 21:19:58",
+  "count": 12925,
   "items": [
+    {
+      "id": "em:jjsj_mgsj:202610163898634982",
+      "time": "2026-10-16 21:17:58",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國9月份產能利用率為76.9%，預估為76.5%。美國9月製造業產值環比增長0.3%，預期增長0.3%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610163898634027",
+      "time": "2026-10-16 21:16:02",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國9月工業產出環比增長0.7%，預期0.4%。"
+    },
+    {
+      "id": "5150201",
+      "time": "2026-10-16 21:15:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月機動車裝配率降至1021萬輛/年，8月為1061萬輛/年。"
+    },
+    {
+      "id": "5150200",
+      "time": "2026-10-16 21:15:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國9月工業產出環比增長0.7%（市場預期為增長0.4%），8月環比增長0.1%（此前公佈為持平）。"
+    },
     {
       "id": "mkt:01a144da-80d5-7ee0-a8bf-69af9e9c384e",
       "time": "2026-10-16 21:15:32",
@@ -117843,87 +117877,6 @@
         "公司"
       ],
       "text": "肯亞內閣批准向肯亞航空公司提供3.5億美元股東融資，以滿足其緊急債務償付需求。"
-    },
-    {
-      "id": "5135231",
-      "time": "2026-10-09 21:19:29",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【何立峰會見歐盟委員會貿易和經濟安全委員謝夫喬維奇】中共中央政治局委員、國務院副總理何立峰9日下午在京會見歐盟委員會貿易和經濟安全委員謝夫喬維奇，雙方就中歐經貿關係交換了意見。何立峰表示，中方始終高度重視發展同歐盟經貿關係，願與歐方共同落實好雙方領導人達成的重要共識。雙方應充分發揮中歐貿易投資磋商機制作用，堅持穩定、平衡的中歐關鍵貿易伙伴關係新定位，持續對話，妥處分歧，推動雙邊經貿關係健康穩定發展。謝夫喬維奇表示，中國是歐盟重要經貿合作伙伴，願持續推進貿易投資磋商，加強溝通、共促合作。（新華社）"
-    },
-    {
-      "id": "mkt:01a120d1-97da-7ee0-a816-8b30f7a1abb9",
-      "time": "2026-10-09 21:19:29",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Fitch warns France's €43bn fiscal adjustment could amplify bond-market stress if blocked】Fitch warned France’s draft budget, which contains €43bn of fiscal adjustments to cut the deficit and ease market concern over public finances, could heighten sovereign bond-market volatility if it fails to win approval. Federico Bariga-Salazar, Fitch’s head of Western Europe sovereign ratings, called Finance Minister Roland Lescure’s plan to reduce the deficit to 5% of GDP by 2027 “substantive” and said its large scale means failure to implement it could produce a pronounced shock."
-    },
-    {
-      "id": "5135230",
-      "time": "2026-10-09 21:18:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國土安全部部長馬林：紐約市槍擊案嫌疑人當時試圖逃跑。"
-    },
-    {
-      "id": "mkt:01a120d0-61e4-7ee0-a816-85912530b5a0",
-      "time": "2026-10-09 21:18:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio says US‑backed political talks on Venezuela will resume on Oct. 14."
-    },
-    {
-      "id": "5135229",
-      "time": "2026-10-09 21:17:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：委內瑞拉在美國支援下的政治會談將於10月14日恢復。"
-    },
-    {
-      "id": "mkt:01a120d0-2374-7ee0-a816-7823888e134e",
-      "time": "2026-10-09 21:17:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Ukraine strikes four Russian refining facilities in a week, affecting about 720,000 b/d crude processing capacity】Ukraine said it struck LUKOIL’s Ukhta refinery — its fourth Russian refinery attack this week — as the Russia-Ukraine war enters its fifth year and air strikes escalate. President Zelenskiy said: “We will continue to respond to Russian attacks on Ukraine and act with precision.” He confirmed the Ukhta strike and said Ukraine on Thursday hit Russia’s largest Omsk refinery. Earlier this week Ukrainian drones struck two Gazprom facilities: the Salavat refinery in the Urals and the Astrakhan gas-processing plant near the Caspian. Public data show the four facilities together account for about 720,000 b/d of crude processing capacity and up to 12 bln cubic meters a year of gas-processing capacity."
-    },
-    {
-      "id": "5135228",
-      "time": "2026-10-09 21:17:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普告訴紐約市市長馬姆達尼，美國將把被拘留者移交給紐約警察局。"
-    },
-    {
-      "id": "5135227",
-      "time": "2026-10-09 21:16:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼將9月米納斯原油價格上調至每桶115.97美元。"
-    },
-    {
-      "id": "5135226",
-      "time": "2026-10-09 21:16:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【運輸航空公司執行控制政策與標準研討會在京召開】10月9日，運輸航空公司執行控制政策與標準研討會在北京召開。本次會議緊扣智慧民航建設、關鍵技術自主可控的民航局工作部署，聚焦航空公司執行控制能力提質升級，深入研討運控領域政策標準制定與行業實踐應用，著力推動國產技術裝備在航空執行控制場景落地推廣。會議強調，執行控制是航空公司安全執行的中樞神經，對航班執行安全與執行正常性保障起到不可替代的關鍵作用。伴隨國內民航行業持續高質量發展，社會與行業層面對航空安全、航班正常性提出更高要求，航空公司執行控制風險管控能力迎來全新挑戰。"
     }
   ]
 }
