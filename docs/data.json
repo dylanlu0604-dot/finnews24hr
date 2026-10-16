@@ -1,7 +1,88 @@
 {
-  "updated": "2026-10-16 08:17:27",
-  "count": 12395,
+  "updated": "2026-10-16 08:21:15",
+  "count": 12400,
   "items": [
+    {
+      "id": "mkt:01a14215-4bc1-7ee0-a8aa-b3cc2a1fe24a",
+      "time": "2026-10-16 08:20:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea considering expansion of Cheonghae Unit operations into Gulf of Oman】South Korea’s Defense Ministry is weighing expanding its Cheonghae Unit’s patrol area into the Gulf of Oman near the Strait of Hormuz, the Dong-A Ilbo and other Korean media reported. After US President Trump asked Seoul to dispatch warships, the government considered sending additional vessels but judged that infeasible and is instead likely to broaden the unit’s operational zone to “contribute to security of the Strait of Hormuz.” A government official said on Oct. 16 the regional security situation has worsened and pirate attacks in the Gulf of Aden off Somalia have risen versus prior years, making expansion into the Gulf of Oman the most probable option."
+    },
+    {
+      "id": "5148608",
+      "time": "2026-10-16 08:20:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：一旦彈藥儲備充足，就會允許盟友購買。"
+    },
+    {
+      "id": "5148607",
+      "time": "2026-10-16 08:20:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三季度深圳寫字樓市場：四成租賃成交面積來自升級搬遷需求】今年三季度，深圳甲級寫字樓市場整體延續調整態勢。據市場研究機構仲量聯行統計，三季度，在深圳全市甲級辦公樓租賃成交面積中，約四成來自升級搬遷需求。在新增擴張需求相對有限的背景下，成本驅動型升級搬遷已成為重要的需求來源，有效支撐了寫字樓存量面積的去化。"
+    },
+    {
+      "id": "5148606",
+      "time": "2026-10-16 08:19:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞洲首條波音777-200LR客改貨生產線在青島投產】據青島日報，10月15日，美國猛獁貨機公司在亞洲落地的首架待客改貨飛機，抵達青島膠東國際機場（簡稱膠東機場），標誌著亞洲首條波音777-200LR，客改貨改裝生產線投產運營。今年4月，猛獁貨機研發的波音777-200LRMF客改貨方案獲得美國聯邦航空管理局（FAA）補充型號合格證，成為全球首個獲得官方認可的777-200LR改裝方案。看好青島航空產業發展的優勢和潛力，美國猛獁貨機公司與山東太古飛機工程公司達成戰略合作，在膠東機場建設亞洲首條波音777-200LR寬體客機改裝貨機生產線，青島由此躋身猛獁全球產能佈局關鍵一環，成為全球第三個、亞太地區唯一的波音777改裝核心樞紐。"
+    },
+    {
+      "id": "5148605",
+      "time": "2026-10-16 08:19:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，美國調查民主黨籍聯邦眾議員奧馬爾數十年前的移民檔案，著眼於將其驅逐出境。"
+    },
+    {
+      "id": "5148603",
+      "time": "2026-10-16 08:18:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我可以自我赦免。"
+    },
+    {
+      "id": "5148602",
+      "time": "2026-10-16 08:18:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本記者涉間諜活動在俄被捕 俄方駁回日方交涉】俄羅斯駐日本大使館15日在官網釋出訊息說，俄羅斯駐日本大使尼古拉·諾茲德廖夫14日在東京同日本外務省歐洲局長中村仁威舉行會談，駁回日方就一名日本記者因涉嫌間諜活動在俄羅斯被捕一事提出的交涉。訊息說，諾茲德廖夫在會談中向日方指出，日本情報部門拉攏包括在俄合法註冊的日本記者在內的人員開展“合作”，蒐集涉密資訊，企圖破壞俄羅斯國家安全與國防能力，這種情況不可接受。（新華社）"
+    },
+    {
+      "id": "mkt:01a14212-9557-7ee0-a8aa-ab0c12d061a6",
+      "time": "2026-10-16 08:17:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said Zelensky is not an easy person to deal with."
+    },
+    {
+      "id": "mkt:01a14212-84ee-7ee0-a8aa-a3b2f7c37c52",
+      "time": "2026-10-16 08:17:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump, when asked about reports on the 'Mother of All Bombs', said the weapon is extremely powerful and \"like a small nuclear bomb\"."
+    },
+    {
+      "id": "5148601",
+      "time": "2026-10-16 08:17:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：澤連斯基比普京更難對付。"
+    },
     {
       "id": "5148600",
       "time": "2026-10-16 08:16:56",
@@ -113169,57 +113250,6 @@
         "國際"
       ],
       "text": "【華西證券：科技+紅利雙主線，啞鈴型組合把握A股金秋結構性機會】華西證券研報表示，“科技+紅利”雙主線下A股結構性分化。考慮到9月美聯儲加息落地，10月FOMC或暫停加息，海外利率壓制階段性緩和，但美債長端供給壓力仍在，需密切中東局勢進展（其對油價的短期影響權重頗大）；國核心心觀察視窗為A股三季報集中披露，疊加地產新政落地效果，盈利驗證將主導板塊分化。具體到A股市場風格和行業配置上：配置思路採用啞鈴型組合：科技方向逢低分批佈局，把握產業景氣主線；紅利資產長期持有獲取穩定分紅收益。具體來看，科技賽道聚焦AI硬體、算力基礎設施，優先選擇訂單、現金流可兌現標的，迴避純題材、估值過高品種；AI應用端關注商業化落地加速方向。紅利資產作為組合壓艙石，優選高股息、現金流穩定板塊，對沖海外利率與市場波動。操作上不宜追高，以業績驗證為標尺，自下而上篩選個股，把握A股金秋結構性機會。"
-    },
-    {
-      "id": "5133482",
-      "time": "2026-10-09 08:20:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "初創公司Eliyan吸引了收購興趣，可能會尋求30億美元的目標估值。Arm已就潛在收購展開早期談判。"
-    },
-    {
-      "id": "te:markets:590629",
-      "time": "2026-10-09 08:19:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Shares Rebound, Weekly Gain Intact — Australian stocks rose 36 points or 0.4% to 8,697 in Friday morning session, reversing weakness in the prior two sessions amid a modest rise in U.S. equity futures after Wall Street closed lower for the third straight day as rising Treasury yields and oil prices above $100 per barrel pressured sentiment. However, gains were capped by caution ahead of September labor market data next week after the August jobless rate in Australia hit the highest since 2021. Main trading partner China will also release key data, including CPI/PPI and trade figures as activity resumed after the Golden Week holidays. Tech, financials, and consumer shares led advances, offset by weakness in communications, manufacturing, healthcare, and industrial services. The big four banks rallied, joined by solid moves in Transurban (2.1%), QBE Insurance (2.0%), Suncorp (1.2%), and Aristocrat Leisure (1.0%). For the week, domestic markets are tracking a second consecutive gain, up about 0.2% so far."
-    },
-    {
-      "id": "mkt:01a11e06-fd43-7ee0-a806-b7751955b1cf",
-      "time": "2026-10-09 08:18:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "9984.T",
-        "Impact bearish",
-        "6723.T"
-      ],
-      "text": "Japanese chip-related stocks fell sharply: Kioxia down 4.5%, SoftBank Group down 5.8%, Renesas Electronics down 4.1%."
-    },
-    {
-      "id": "5133474",
-      "time": "2026-10-09 08:18:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國慶假期雲南接待遊客2054.96萬人次 實現旅遊總花費219.66億元】據云南日報，按照新統計調查方案初步測算，10月1日至7日，全省接待遊客2054.96萬人次，實現旅遊總花費219.66億元，按可比口徑分別同比增長4.8%、4.5%；遊客人均日消費489.01元，平均停留2.8天。全省220家AAAA級以上旅遊景區累計接待遊客1171.72萬人次，日均接待遊客167.39萬人次，分別同比增長2.3%、2.1%。"
-    },
-    {
-      "id": "5133473",
-      "time": "2026-10-09 08:18:44",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本晶片相關股大幅下跌，鎧俠股價下跌4.5%，軟銀集團下挫5.8%，瑞薩電子走低4.1%."
     }
   ]
 }
