@@ -1,7 +1,58 @@
 {
   "date": "2026-10-16",
-  "count": 2327,
+  "count": 2333,
   "items": [
+    {
+      "id": "mkt:01a1450a-25dc-7ee0-a8c0-6ee8469885c0",
+      "time": "2026-10-16 22:07:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moderna (MRNA.O) shares fell 9.8% after three consecutive days of gains."
+    },
+    {
+      "id": "5150270",
+      "time": "2026-10-16 22:06:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "Moderna股價在連續三個交易日上漲後下跌9.8%。"
+    },
+    {
+      "id": "te:markets:592829",
+      "time": "2026-10-16 22:06:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index at Over 3-Month Low — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, fell about 1.3% to a fresh low since June 30 at 2,515 points on Friday, marking its tenth consecutive daily decline. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, fell further, slipping 2.2% to its lowest since early April at 3,249 points; and the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell 1.8% to 2,314 points. Among smaller vessels, the supramax went up by 0.5% to 1,865 points. The benchmark index fell about 14% over the week, extending its losing streak to three consecutive weeks."
+    },
+    {
+      "id": "mkt:01a14507-4232-7ee0-a8c0-65182cf6a59e",
+      "time": "2026-10-16 22:04:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "American Airlines will launch a new route to Venezuela in January."
+    },
+    {
+      "id": "mkt:01a14507-10db-7ee0-a8c0-59fd294d9d97",
+      "time": "2026-10-16 22:04:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi-led coalition intercepted three drones south of Riyadh."
+    },
+    {
+      "id": "5150269",
+      "time": "2026-10-16 22:03:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空將於明年1月開通委內瑞拉新航線。"
+    },
     {
       "id": "5150268",
       "time": "2026-10-16 22:03:10",
