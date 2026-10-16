@@ -1,7 +1,155 @@
 {
-  "updated": "2026-10-16 08:13:35",
-  "count": 12383,
+  "updated": "2026-10-16 08:17:27",
+  "count": 12395,
   "items": [
+    {
+      "id": "5148600",
+      "time": "2026-10-16 08:16:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨下跌0.1%，納斯達克期貨下跌0.4%。"
+    },
+    {
+      "id": "5148599",
+      "time": "2026-10-16 08:16:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：或許得去鎬山。"
+    },
+    {
+      "id": "5148598",
+      "time": "2026-10-16 08:16:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門亞丁總統府遭胡塞武裝襲擊 開會時6枚導彈爆炸 】一名葉門政府官員15日告訴新華社記者，胡塞武裝當天向葉門南部臨時首都亞丁的總統府發射6枚彈道導彈，造成至少3名安保人員死亡、6人受傷。這名官員說，襲擊發生時，葉門總理沙亞·穆赫辛·津達尼正在總統府主持政府會議，大多數內閣成員和其他官員出席。亞丁當地居民告訴新華社記者，他們聽到總統府周邊傳出6次劇烈爆炸聲，隨後該地區升起濃煙。胡塞武裝發言人葉海亞·薩雷亞隨後發表宣告稱，對亞丁“沙特敵方軍事行動指揮部”的襲擊“屬於既定範疇，是合法打擊”。"
+    },
+    {
+      "id": "mkt:01a14211-215a-7ee0-a8aa-9b801eb5d25b",
+      "time": "2026-10-16 08:16:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "EUROSTOXX 50 futures rose 0.4%, DAX futures rose 0.4% and UK FTSE futures fell 0.1%."
+    },
+    {
+      "id": "5148597",
+      "time": "2026-10-16 08:15:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上漲0.4%，英國富時指數期貨下跌0.1%。"
+    },
+    {
+      "id": "5148596",
+      "time": "2026-10-16 08:15:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：澤連斯基不是個好對付的人。"
+    },
+    {
+      "id": "mkt:01a14210-8ccc-7ee0-a8aa-92e5ca365948",
+      "time": "2026-10-16 08:15:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he discussed denuclearization with Russia and others."
+    },
+    {
+      "id": "te:markets:592546",
+      "time": "2026-10-16 08:15:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Recruit Holdings Shares Hit All-time High — Recruit Holdings shares increased to an all-time high of 18435.00 JPY. Over the past 4 weeks, Recruit Holdings gained 7.32%, and in the last 12 months, it increased 140.78%."
+    },
+    {
+      "id": "mkt:01a14210-4ab9-7ee0-a8aa-8809ce4c629b",
+      "time": "2026-10-16 08:15:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he does not expect to send ground troops to Iran."
+    },
+    {
+      "id": "te:markets:592545",
+      "time": "2026-10-16 08:15:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Toyota Motor Shares Hit 4-week High — Toyota Motor shares increased to 3059.00 JPY, the highest since September 2026. Over the past 4 weeks, Toyota Motor gained 0.43%, and in the last 12 months, it increased 2.52%."
+    },
+    {
+      "id": "5148595",
+      "time": "2026-10-16 08:15:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，他不認為會向伊朗派遣地面部隊。"
+    },
+    {
+      "id": "mkt:01a1420f-4b52-7ee0-a8aa-85b81fa48d52",
+      "time": "2026-10-16 08:14:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he would not use nuclear weapons against Iran."
+    },
+    {
+      "id": "5148594",
+      "time": "2026-10-16 08:14:18",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國財政部敦促全球合作伙伴將人工智慧改稱為“超級智慧”】美國財政部一名高階官員週四在接受媒體採訪時表示，美國希望其全球合作伙伴將“人工智慧”重新命名為“超級智慧”，因為華盛頓認為這一新名稱能夠更準確地反映這項新興技術。美國財政部負責國際事務的副部長布朗表示，美國正與國際貨幣基金組織的其他成員國就此進行磋商，希望IMF指導委員會--國際貨幣與金融委員會(IMFC)正在起草的一份宣告中採用這一新術語。美國總統特朗普上月指示聯邦政府機構在提及這項技術時，使用“超級智慧”代替“人工智慧”。布朗表示，作為20國集團輪值主席國，美國也希望推動這一名稱在國際層面得到採用。"
+    },
+    {
+      "id": "5148593",
+      "time": "2026-10-16 08:13:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Alexander McQueen創意總監將卸任】據開雲集團10月15日宣告，Seán McGirr將卸任Alexander McQueen品牌創意總監一職。品牌新任創意總監人選即將公佈。Seán McGirr於2023年出任Alexander McQueen品牌創意總監，此前擔任JW Anderson成衣部主管。"
+    },
+    {
+      "id": "5148592",
+      "time": "2026-10-16 08:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，正與俄羅斯等就無核化問題進行談判。"
+    },
+    {
+      "id": "5148591",
+      "time": "2026-10-16 08:13:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：AI EDA正成為AI Agent落地下一個重要方向 EDA價值有望重估】中信證券研報稱，EDA正從“工具”逐步進化為“智慧體”，成為晶片設計全流程的Agent執行底座。Synopsys等EDA龍頭進展密集，AI EDA已開始走向驗證期。AI EDA帶動EDA公司價值提升，商業模式、壁壘、需求三重升級。國產EDA推出AI提效工具，工程資料成為核心護城河。AI EDA正成為AI Agent落地的下一個重要方向，EDA價值有望重估。"
+    },
     {
       "id": "5148590",
       "time": "2026-10-16 08:13:06",
@@ -113072,46 +113220,6 @@
         "國際"
       ],
       "text": "日本晶片相關股大幅下跌，鎧俠股價下跌4.5%，軟銀集團下挫5.8%，瑞薩電子走低4.1%."
-    },
-    {
-      "id": "5133460",
-      "time": "2026-10-09 08:15:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.4%，德國DAX指數期貨上揚0.7%，英國富時指數期貨反彈0.8%。"
-    },
-    {
-      "id": "5133459",
-      "time": "2026-10-09 08:15:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【紐約市長馬姆達尼：移民海關執法局特工槍擊紐約男子時，車內有兒童】美國移民與海關執法局（ICE）一名特工週四在紐約市槍擊一名男子致其受傷，紐約市長佐蘭・馬姆達尼要求終止 ICE 在本市的執法行動。馬姆達尼稱，初步資訊顯示，在布朗克斯區大理石山居民區，執法人員包圍該男子後連開數槍。馬姆達尼表示，男子車上有一名 5 歲兒童，官方判斷孩子沒有受傷。紐約警察局稱槍擊事件發生在下午 4 點左右。該男子意識清醒，正在附近醫院接受救治。馬姆達尼在宣告中表示：“這是一樁令人無法容忍、性質極其嚴重的事件。我已經致電總統，在通話時我將要求他終止 ICE 在本市的所有執法行動。”"
-    },
-    {
-      "id": "5133457",
-      "time": "2026-10-09 08:13:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌4.5個基點，至3.035%。"
-    },
-    {
-      "id": "mkt:01a11e02-2d5c-7ee0-a806-ad078b86895b",
-      "time": "2026-10-09 08:13:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan 10-year government bond yield fell 4.5 bps to 3.035%."
     }
   ]
 }
