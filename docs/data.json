@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-17 01:37:50",
-  "count": 12869,
+  "updated": "2026-10-17 01:41:41",
+  "count": 12867,
   "items": [
+    {
+      "id": "5150452",
+      "time": "2026-10-17 01:40:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美總統特朗普重啟美黎直飛航班的計劃遇阻】當地時間10月16日，一份報告摘要顯示，聯合國航空機構認定黎巴嫩的主要機場缺乏有效認證。美國總統特朗普7月宣佈恢復美黎（貝魯特）直飛航班的計劃，並於9月簽署行政令，允許美國政府開通從美國直飛黎巴嫩的航班。此前，環球航空（TWA）847號航班於1985年遭劫持並被迫降落在貝魯特，導致該航線停飛。（央視新聞）"
+    },
+    {
+      "id": "te:markets:592863",
+      "time": "2026-10-17 01:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Rises on Defense Stocks Gains — The CAC 40 gained 0.3% to close at 7,957 on Friday, erasing earlier losses as defense stocks provided support. Defense contractors advanced as tensions in Ukraine and the Middle East continued to influence markets. Airbus rose 2.1%, while Thales closed 2.8% higher. TotalEnergies gained 0.6% as oil prices extended their advance. Elsewhere, EssilorLuxottica rose 3.8% ahead of its third-quarter results, due on October 20. Bernstein maintained a Hold rating on the stock and left its price target unchanged. Stellantis climbed 2.6% amid reports that it is testing a new diesel-hybrid powertrain expected to debut in the next generation of large commercial vans manufactured at its Atessa plant, where the company has announced planned investments of €1 billion. In contrast, Schneider Electric fell 1.8% and STMicroelectronics dropped 0.6%, extending their losses amid continued uncertainty over the outlook for the AI infrastructure market."
+    },
     {
       "id": "5150451",
       "time": "2026-10-17 01:36:36",
@@ -117491,44 +117511,6 @@
         "國際"
       ],
       "text": "美國國土安全部：警員在布朗克斯槍擊事件中因擔心生命安全而開槍。"
-    },
-    {
-      "id": "5135581",
-      "time": "2026-10-10 01:40:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "Meta股價轉跌，此前一度上漲1%。"
-    },
-    {
-      "id": "5135580",
-      "time": "2026-10-10 01:39:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "金融科技獨角獸公司 OPay獲得標準銀行1.85億美元配售。"
-    },
-    {
-      "id": "5135579",
-      "time": "2026-10-10 01:38:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴勒斯坦要求安理會緊急開會】據巴勒斯坦官方通訊社當地時間10月9日晚報道，巴勒斯坦總統府已正式指示其外交部及駐聯合國代表團，要求聯合國安理會召開緊急會議，呼籲國際社會緊急干預、採取切實措施制止以軍和猶太人定居者不斷升級的襲擊行為，並向巴勒斯坦人民提供國際保護。 巴勒斯坦總統府發表宣告指出，近期猶太人定居者與以軍對巴勒斯坦城市、村莊和難民營的襲擊急速升級，嚴重威脅到當地人的生命、安全和財產，將地區局勢推向進一步惡化與不穩定的邊緣，進而產生極其危險的後果。宣告強調，猶太人定居者的暴力加劇與以軍的軍事侵入、強迫巴勒斯坦民眾流離失所等行動同步發生，迫切需要國際社會的緊急干預。 巴勒斯坦總統官方發言人在宣告中呼籲安理會承擔起法律與政治責任，重申巴勒斯坦人民將繼續堅守合法民族權利，堅持在1967年邊界基礎上建立以東耶路撒冷為首都的獨立國家。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a121be-b8c7-7ee0-a81d-3ffb64d887be",
-      "time": "2026-10-10 01:38:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Trump presses Mexico on energy deals; US-Mexico trade talks delayed】The Financial Times, citing people familiar with the matter, reports Trump pressed President Sheinbaum in mid-September to secure deals between Mexican firms and US energy companies, asked about possible sales of Mexican assets to US firms and discussed US–South Korea-style procurement arrangements and increased purchases of US energy. US officials discussed Mexico expanding imports of US natural gas to narrow Mexico's trade surplus; US gas already supplies roughly three-quarters of Mexico's gas demand. Mexico objected to the new energy demands, prompting postponement of formal trade talks slated for September; talks have not been rescheduled. Mexico seeks tariff relief on autos, steel and aluminium, but energy-sector national control is politically sensitive. US officials say negotiations remain active and contacts continue."
     }
   ]
 }
