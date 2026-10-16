@@ -1,7 +1,213 @@
 {
-  "updated": "2026-10-16 15:58:07",
-  "count": 12593,
+  "updated": "2026-10-16 16:01:55",
+  "count": 12614,
   "items": [
+    {
+      "id": "mkt:01a143ba-eeac-7ee0-a8b7-bcd8a5ae9770",
+      "time": "2026-10-16 16:01:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IMO emissions framework uncertain; demand for marine biofuels weakens】Shipping executives say demand for low‑carbon marine fuels has softened this year as uncertainty over the International Maritime Organization’s (IMO) emissions framework persists and some firms opt to use carbon credits. IMO member states are due to meet before early November to discuss formally adopting a net‑zero framework to guide the industry to zero carbon by 2050. In Singapore, the world’s largest bunkering hub, government data show Jan–Sep sales of marine biofuels totaled about 603,000 tonnes, down 47% versus the same period in 2025. Jens Maul Jorgensen, a director at dry‑bulk owner Oldendorff Shipping, said: “I do not expect biofuel demand to grow significantly before the IMO makes its decision.”"
+    },
+    {
+      "id": "5149396",
+      "time": "2026-10-16 16:01:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就修訂《中國禁止出口限制出口技術目錄》答記者問】問：對於擬增列的人工智慧技術，主要有哪些考慮？\n\n答：當前，全球人工智慧技術創新進入前所未有的活躍期，機遇與挑戰並存。此次擬將人工智慧大模型、智慧體、算力叢集、資訊處理相關23項關鍵技術增列至《目錄》，主要有以下考慮：\n\n一是確保人工智慧技術安全可控。人工智慧引發的各類內生和衍生風險已引起全球各國的高度關注。此次擬列管的人工智慧自主驅動惡意程式碼生成與變異技術等，可被用於攻擊國家關鍵資訊基礎設施、國防軍工、核心政務等敏感系統，或用於繞過國家安全防禦體系。若被非國家行為體或惡意實體獲取，可能對國家安全和人類共同安全造成危害。中國政府對這類技術實施必要管理，目的是築牢安全底線，防範濫用惡用，確保人工智慧始終處於人類控制之下，推進人工智慧國際治理。\n\n二是鼓勵開源開放、合作共享。中國政府致力於讓人工智慧成為促進共同繁榮、維護共同安全的一個重要動力源。為支援構建人工智慧開源創新生態體系，對人工智慧類技術開源、中國企業在境外自建自營算力中心、赴境外開展晶片流片製造、利用境外資源開展聯合研發、參與國際標準制定等情形的技術出口，適用自動許可等便利措施，基本實現“即報即出”；對已透過開源、發表學術論文等方式進入公共領域的相關技術，擬不納入出口管理範圍，為人工智慧技術國際交流合作創造良好環境。\n\n需要特別指出的是，中方主張在相互尊重、平等互利基礎上，與各國開展人工智慧對話合作，共同應對人工智慧技術擴散和失控風險。中方支援全球南方國家加強人工智慧能力建設，彌合數智鴻溝，促進可持續發展。對於世界人工智慧合作組織成員間開展能力建設國際合作、技術共享和規則共建所需的技術出口，將提供更多便利和支援。"
+    },
+    {
+      "id": "te:markets:592701",
+      "time": "2026-10-16 16:01:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Slip but Remain on Track for Weekly Gain — The CAC 40 fell 0.2% to 7,922 on Friday, retreating after two consecutive sessions of gains as investors grew cautious over renewed trade tensions between the EU and China. The bloc is considering new powers to restrict access to its single market and assessing import data for potential surges, a preliminary step toward imposing quotas on additional goods from China and other economies. While China has warned of retaliation against new EU trade measures or discriminatory restrictions targeting Chinese companies and products, Beijing has also signaled its willingness to work with the bloc to address global imbalances. Investors also continued to assess the outlook for the artificial intelligence sector following a recent sell-off driven by concerns over AI spending. Among the biggest decliners, L’Oréal fell 0.9%, LVMH dropped 1.2%, Schneider Electric lost 1%, and Hermès slipped 0.9%. Despite Friday’s retreat, the index remained on track to snap a two-week losing streak."
+    },
+    {
+      "id": "5149395",
+      "time": "2026-10-16 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股盤前：“七姐妹”普漲】英偉達漲0.31%，蘋果跌0.01%，微軟漲0.28%，谷歌漲%，亞馬遜跌0.13%，Meta漲0.07%，特斯拉漲4.62%。"
+    },
+    {
+      "id": "5149394",
+      "time": "2026-10-16 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤前普漲】禮來漲0.44%，強生漲0.40%，Moderna漲0.51%，諾和諾德持平，艾伯維持平，默沙東漲0.08%。"
+    },
+    {
+      "id": "5149393",
+      "time": "2026-10-16 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股盤前漲跌不一】Lumentum漲1.09%，康寧跌0.14%，Coherent漲1.36%，應用光電漲2.45%，Ciena漲0.34%，博通跌0.30%，邁威爾科技跌0.49%。"
+    },
+    {
+      "id": "5149392",
+      "time": "2026-10-16 16:00:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前普跌】美光跌1.01%，閃迪跌1.09%，SK海力士跌2.46%，西部資料跌0.83%，希捷科技跌0.32%。"
+    },
+    {
+      "id": "mkt:01a143ba-60e1-7ee0-a8b7-b01601548e77",
+      "time": "2026-10-16 16:00:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME stocks: zinc +7,225 tonnes; nickel -2,076 tonnes; copper -1,175 tonnes; lead -525 tonnes; aluminium -250 tonnes; tin -95 tonnes."
+    },
+    {
+      "id": "5149391",
+      "time": "2026-10-16 16:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所（LME）：銅庫存減少1175噸，鉛庫存減少525噸，鋁庫存減少250噸，錫庫存減少95噸，鋅庫存增加7225噸，鎳庫存減少2076噸。"
+    },
+    {
+      "id": "mkt:01a143ba-2222-7ee0-a8b7-aa363b3b8cd6",
+      "time": "2026-10-16 16:00:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME zinc inventory change (Oct.16) | actual 7225 | previous 6925"
+    },
+    {
+      "id": "mkt:01a143ba-1a8f-7ee0-a8b7-a6b8c9f98323",
+      "time": "2026-10-16 16:00:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME tin inventory change (Oct.16) | actual -95 | previous -10"
+    },
+    {
+      "id": "mkt:01a143ba-0e32-7ee0-a8b7-9fb309c349fb",
+      "time": "2026-10-16 16:00:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME nickel inventory change (Oct.16) | actual -2076 | previous -588"
+    },
+    {
+      "id": "mkt:01a143ba-05ce-7ee0-a8b7-9071854a7859",
+      "time": "2026-10-16 16:00:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME lead inventory change (Oct.16) | actual -525 | previous -275"
+    },
+    {
+      "id": "mkt:01a143b9-f38a-7ee0-a8b7-8ea444a068ea",
+      "time": "2026-10-16 16:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME aluminum inventory change (Oct.16) | actual -250 | previous -250"
+    },
+    {
+      "id": "mkt:01a143b9-d706-7ee0-a8b7-8729c546f615",
+      "time": "2026-10-16 16:00:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | LME copper inventory change (Oct.16) | actual -1175 | previous -1400"
+    },
+    {
+      "id": "te:markets:592700",
+      "time": "2026-10-16 16:00:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Drops by 1.62% — Top commodity losers are Natural gas (-1.62%), Heating Oil (-1.19%), Gasoline (-1.11%), Crude Oil (-0.68%) and Brent Oil (-0.54%)."
+    },
+    {
+      "id": "mkt:01a143b9-bb1c-7ee0-a8b7-7d973ef16ba9",
+      "time": "2026-10-16 16:00:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United Kingdom | LME aluminum alloy inventory change (Oct.16) | actual 0 | previous 0"
+    },
+    {
+      "id": "5149390",
+      "time": "2026-10-16 15:59:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【匈牙利央行行長：匈牙利加入歐元區時機需權衡利弊】匈牙利央行行長瓦爾多表示，匈牙利在採用歐元前必須實現充分的經濟趨同與物價穩定。宣告顯示，沃爾高在曼谷舉辦的國際貨幣基金組織年會上稱，加入歐元區的時機取決於收益何時超過成本。他表示，今年通脹有望維持在央行3%目標下方，經濟增速或將顯著回升。能源價格高企疊加全球不確定性，要求貨幣政策保持審慎、以資料為依據。"
+    },
+    {
+      "id": "te:markets:592698",
+      "time": "2026-10-16 15:59:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Strengthens Near 2-Year High — The South Korean won traded around 1,333 per dollar, recovering losses and approaching its strongest level since October 2024, as an easing semiconductor sell-off and renewed appetite for riskier assets lifted the currency. Foreign investors returned to net buying in South Korean equities, purchasing KRW 343.5 billion worth of shares after a prolonged tech-led rout, helping ease concerns over capital outflows. Additionally, Federal Reserve Chair Kevin Warsh's positive assessment of the US economy and AI-driven growth helped revive demand for riskier assets, while declines in US Treasury yields and the dollar offered further support to the won. However, Warsh gave no clear signal on a rate hike this month, while strong US data and inflation concerns reinforced bets on a December hike. Also, persistent AI valuation concerns, Chinese competition in memory chips, and elevated inflation risks remained potential headwinds for Korean markets."
+    },
+    {
+      "id": "5149388",
+      "time": "2026-10-16 15:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南京10宗宅地56.07億元底價成交】10月16日，南京有10宗住宅用地出讓，總土地出讓面積457703.2㎡，總規劃建築面積751038.11㎡，總起始價56.07億元。最終10宗地塊均底價成交，總成交金額56.07億元。"
+    },
+    {
+      "id": "5149386",
+      "time": "2026-10-16 15:58:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢3宗宅地15.13億元成交 最高溢價率33.14%】10月16日，武漢出讓3宗住宅用地，總土地出讓面積161026㎡，總規劃建築面積241540㎡，總起始價13.68億元。最終1宗溢價成交，2宗底價成交，總成交金額15.13億元。其中，溢價地塊位於東湖新技術開發區，經過66輪競價，最終由湖北天創房地產開發集團有限公司以總價5.87億元競得，成交樓面價8737元/㎡，溢價率33.14%。"
+    },
+    {
+      "id": "5149385",
+      "time": "2026-10-16 15:58:07",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【印度盧比走弱 資管機構限制黃金ETF新增資金流入】印度黃金需求旺盛的重要節日季將至，本土資管機構限制黃金產品新增投資。印度本幣匯率遭遇歷史性下跌，該國正多措並舉降低民眾對貴金屬的需求，資管機構的操作進一步配合相關政策。包括頭部機構印度國家銀行基金管理公司、ICICI保誠資產管理公司在內的多數基金管理人，週四晚間透過各自公告宣佈，對部分黃金ETF及相關產品實施申購限制，新規週五生效。機構並未說明限制措施的具體原因，但知情人士稱，該舉措源於多家資管公司的商議，目的是臨時限制黃金基金新增投資。不願具名的知情人士表示，行業希望防範節日季前夕黃金需求爆發；同時政策制定者正著力控制黃金進口。印度共同基金協會及市場監管機構印度證券交易委員會暫未回覆郵件置評請求。"
+    },
     {
       "id": "5149384",
       "time": "2026-10-16 15:55:49",
@@ -114935,17 +115141,6 @@
         "Importance 1"
       ],
       "text": "UK Stocks Recover — The UK's FTSE 100 rose 0.9% on Friday, halting a two-day decline, led by software and mining stocks, while softer oil prices and some stabilization in bond yields calmed investors. Trump's remarks that the US would not attack Iran before next month's midterm elections, describing talks with Tehran as \"productive\", helped ease geopolitical concerns. Sage Group and RELX led the gains, rising 4% and 3.2%, respectively. Mining stocks also advanced strongly, with Antofagasta and Fresnillo gaining more than 3% each, supported by firm prices of copper, silver and gold. Tesco (+2.8%) gained following positive reactions from Deutsche Bank and Jefferies to its interim results, published a day earlier, which showed a 6.5% rise in profits and an improved annual outlook. Vodafone Group and Airtel Africa were the laggards, falling 3.8% and 3.4%, respectively, mirroring the broader sector decline across the European telecom sector. For the week, the index was set to gain about 0.7%."
-    },
-    {
-      "id": "te:markets:590790",
-      "time": "2026-10-09 16:00:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Heating Oil Drops by 1.87% — Top commodity losers are Heating Oil (-1.87%), Gasoline (-1.29%), Natural gas (-1.16%), Brent Oil (-1.16%) and Crude Oil (-1%)."
     }
   ]
 }
