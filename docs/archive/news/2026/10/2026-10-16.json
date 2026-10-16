@@ -1,7 +1,201 @@
 {
   "date": "2026-10-16",
-  "count": 1137,
+  "count": 1158,
   "items": [
+    {
+      "id": "mkt:01a142cc-cd33-7ee0-a8b0-a9a841a9f79a",
+      "time": "2026-10-16 11:41:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said a surge in investment is the single most important factor driving the global economic upswing."
+    },
+    {
+      "id": "mkt:01a142cc-b61f-7ee0-a8b0-a2284dd61121",
+      "time": "2026-10-16 11:41:14",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the surge in investment stems from sound policy."
+    },
+    {
+      "id": "5148980",
+      "time": "2026-10-16 11:41:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：投資激增是全球經濟上行中最重要的事件。"
+    },
+    {
+      "id": "mkt:01a142cc-8884-7ee0-a8b0-9a762b2bd09b",
+      "time": "2026-10-16 11:41:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed's policy clearly affects other regions globally, and other countries' policies, in turn, affect the United States."
+    },
+    {
+      "id": "5148979",
+      "time": "2026-10-16 11:41:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什表示，他看到了美國經濟的結構性增長。"
+    },
+    {
+      "id": "mkt:01a142cc-55dd-7ee0-a8b0-9386a859a57d",
+      "time": "2026-10-16 11:40:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair KEVIN WARSH said the Fed will make judgments at the October and December meetings."
+    },
+    {
+      "id": "5148978",
+      "time": "2026-10-16 11:40:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：投資激增得益於良好的政策。"
+    },
+    {
+      "id": "5148977",
+      "time": "2026-10-16 11:40:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：顯然，美聯儲的政策會外溢到世界其他地區，但他們的政策也會反過來影響我們。"
+    },
+    {
+      "id": "5148976",
+      "time": "2026-10-16 11:40:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：將在10月和12月會議上做出判斷。"
+    },
+    {
+      "id": "mkt:01a142cb-da99-7ee0-a8b0-89c5b7ae3d34",
+      "time": "2026-10-16 11:40:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "Fed Chair KEVIN WARSH said the U.S. economy is currently experiencing structural growth and investment is surging."
+    },
+    {
+      "id": "5148975",
+      "time": "2026-10-16 11:40:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：目前我們擁有結構性增長，以及投資激增。"
+    },
+    {
+      "id": "mkt:01a142cb-b000-7ee0-a8b0-82c814243ead",
+      "time": "2026-10-16 11:40:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed will clarify changes in output, employment and inflation."
+    },
+    {
+      "id": "5148974",
+      "time": "2026-10-16 11:39:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：今年我們還將再舉行幾次會議，那將是關鍵的時刻。"
+    },
+    {
+      "id": "mkt:01a142cb-6975-7ee0-a8b0-7a3c034a5559",
+      "time": "2026-10-16 11:39:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed will meet several more times this year and those meetings will be key moments."
+    },
+    {
+      "id": "5148973",
+      "time": "2026-10-16 11:39:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：將明確產出、就業和通脹的走向。"
+    },
+    {
+      "id": "mkt:01a142ca-e58e-7ee0-a8b0-710163fbbfd0",
+      "time": "2026-10-16 11:39:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "KEVIN WARSH: Since the September FOMC meeting, global developments have broadly aligned with our expectations."
+    },
+    {
+      "id": "5148972",
+      "time": "2026-10-16 11:39:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什表示：自9月聯邦公開市場委員會會議以來，世界形勢基本符合我們的預期。"
+    },
+    {
+      "id": "mkt:01a142ca-0e4d-7ee0-a8b0-6a24caf5b35e",
+      "time": "2026-10-16 11:38:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he may have been overly sensitive to the lingering effects of the global financial crisis."
+    },
+    {
+      "id": "5148971",
+      "time": "2026-10-16 11:38:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：我可能對全球金融危機過度恐懼。"
+    },
+    {
+      "id": "5148970",
+      "time": "2026-10-16 11:37:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "格奧爾基耶娃稱沃什“對金融市場有著令人印象深刻的深刻理解”，並稱贊他是美聯儲主席的“絕佳人選”。"
+    },
     {
       "id": "mkt:01a142c8-1e54-7ee0-a8b0-63e32c588f00",
       "time": "2026-10-16 11:36:13",
@@ -63,6 +257,15 @@
         "XAUUSD"
       ],
       "text": "【China A-share midday: Shanghai Composite +0.95% as defense sector spikes】At midday Shanghai Composite +0.95%, Shenzhen Composite +1.19%, ChiNext +0.96%. Defense names led gains, with multiple stocks hitting daily limit-up, including Shengnan Technology, Huali Chuangtong and Chenxi Aviation. Speed-reducer/industrial components stocks also rallied; Yuhuan CNC, Xiangyang Bearing and Zhongding Co reached limit-up. Precious metals climbed, Zhaojin Gold +6%+. Outperformers included property developers, controlled nuclear fusion, power-grid equipment, plantation, winter-sports and innovative drugs; components, gaming, brokerages, batteries and cinema chains lagged. Combined Shanghai/Shenzhen turnover ~962.6 bln yuan, down ~19.2 bln yuan vs. yesterday; advancing stocks ~4,600, declining ~600."
+    },
+    {
+      "id": "em:qqyh_ozyh:202610163898212329",
+      "time": "2026-10-16 11:34:49",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【德國央行行長Nagel：歐洲央行可能不得不再次加息】德國央行行長JoachimNagel表示，歐洲央行可能不得不再次加息。Nagel在曼谷出席國際貨幣基金組織(IMF)年會時對記者表示：“我們已經兩次上調政策利率。如果當前形勢沒有改變，我們不排除可能還需要再次行動。”歐洲央行在本輪緊縮週期中已兩次加息，普遍預計該行將在12月政策會議上再次加息25個基點。"
     },
     {
       "id": "5148967",
