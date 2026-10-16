@@ -1,7 +1,59 @@
 {
-  "updated": "2026-10-17 02:12:10",
-  "count": 12861,
+  "updated": "2026-10-17 02:16:02",
+  "count": 12860,
   "items": [
+    {
+      "id": "te:markets:592864",
+      "time": "2026-10-17 02:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Drops by 3.67% — Top commodity loser is Natural gas (-3.67%). Gains are led by Crude Oil (3.40%), Brent Oil (3.32%) and Natural Gas EU (2.49%)."
+    },
+    {
+      "id": "mkt:01a145ec-110c-7ee0-a8c4-a117d3b3de7d",
+      "time": "2026-10-17 02:14:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CENTCOM said the US has assisted transit of more than 100 mln barrels of oil through the Strait of Hormuz over the past seven days."
+    },
+    {
+      "id": "5150470",
+      "time": "2026-10-17 02:14:15",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【NBA加強體育博彩監管：收緊可投注專案 部署AI監控可疑投注】NBA在2026-2027賽季前夕加碼體育博彩監管力度。 檔案顯示，聯盟正對授權博彩合作方提供的投注專案收緊限制，並部署人工智慧技術識別可疑投注行為。 聯盟總裁Adam Silver正推動獲取更多投注資料，並加強對賽事可開設投注型別的管控，上述舉措正是在此背景下出臺。他表示，相關擔憂同樣覆蓋預測市場。 NBA向FanDuel、DraftKings、Fanatics等博彩公司發函，對幾類投注設定限制：首球得分球員投注、預計單場出場不足12分鐘球員的相關投注，以及同一球員發揮不及預期的多項投注組合串關。 這類投注容易引發賽事誠信風險，因為單個球員就有能力影響賽果。 本次規則調整，源於多起涉及NBA相關人員的博彩案件，涉案人員包括前球員Jontay Porter、Terry Rozier、Damon Jones，以及身兼前球員與教練身份的Chauncey Billups。"
+    },
+    {
+      "id": "mkt:01a145eb-c4f7-7ee0-a8c4-99d21e06bb89",
+      "time": "2026-10-17 02:14:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said Iran currently has no seaborne imports or exports due to a US Navy blockade."
+    },
+    {
+      "id": "mkt:01a145eb-4a92-7ee0-a8c4-901db99eba40",
+      "time": "2026-10-17 02:13:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said roughly 400 commercial vessels transited the Strait of Hormuz in the past seven days."
+    },
     {
       "id": "mkt:01a145e9-514f-7ee0-a8c4-8f750acf6411",
       "time": "2026-10-17 02:11:20",
@@ -117437,57 +117489,6 @@
         "其他"
       ],
       "text": "Micro1宣佈10億美元企業AI資料投入。"
-    },
-    {
-      "id": "5135611",
-      "time": "2026-10-10 02:15:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "飛利浦超聲就Lumify產品向客戶發出信函。"
-    },
-    {
-      "id": "te:markets:590947",
-      "time": "2026-10-10 02:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Soars by 5.92% — Top commodity gainers are Methanol (5.92%), Natural Gas EU (2.02%), Propane (1.86%), Crude Oil (0.33%) and Brent Oil (0.24%). Biggest losers are Heating Oil (-3.06%), Gasoline (-0.71%) and Germany Natural Gas THE (-0.70%)."
-    },
-    {
-      "id": "mkt:01a121df-a743-7ee0-a81d-c5b5b53762f3",
-      "time": "2026-10-10 02:14:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. tsunami warning system says an earthquake may generate dangerous waves along the coasts of Costa Rica, Ecuador, Peru, Nicaragua, Guatemala, El Salvador and Mexico."
-    },
-    {
-      "id": "mkt:01a121df-00ec-7ee0-a81d-bc40d1a39cb8",
-      "time": "2026-10-10 02:13:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USGS downgraded the Panama earthquake's magnitude to 7.6 from 8.0."
-    },
-    {
-      "id": "mkt:01a121de-7f8b-7ee0-a81d-b6e44153cba7",
-      "time": "2026-10-10 02:13:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automatic estimate: at 01:56 on Oct 10 a roughly M7.8 earthquake occurred near Panama (7.70°N, 80.85°W). Final parameters subject to formal rapid bulletin."
-    },
-    {
-      "id": "5135610",
-      "time": "2026-10-10 02:13:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：將巴拿馬地震震級從8級下調至7.6級。"
     }
   ]
 }
