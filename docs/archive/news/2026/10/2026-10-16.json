@@ -1,7 +1,144 @@
 {
   "date": "2026-10-16",
-  "count": 2249,
+  "count": 2263,
   "items": [
+    {
+      "id": "5150225",
+      "time": "2026-10-16 21:35:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "Truist Financial股價上漲1.4%，此前公佈的第三季度利潤超出預期。"
+    },
+    {
+      "id": "mkt:01a144ec-6bdb-7ee0-a8bf-d0e317acbdf8",
+      "time": "2026-10-16 21:35:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China fuel oil most-active futures contract rallied 4.0% intraday to 5,669 yuan/ton."
+    },
+    {
+      "id": "5150224",
+      "time": "2026-10-16 21:33:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Regions Financial股價上漲2%，此前公司公佈了第三季度業績。"
+    },
+    {
+      "id": "mkt:01a144ea-eb78-7ee0-a8bf-cf58b52c3f52",
+      "time": "2026-10-16 21:33:28",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bearish"
+      ],
+      "text": "CoreWeave (CRWV.O) opened down 7.7%."
+    },
+    {
+      "id": "mkt:01a144ea-adce-7ee0-a8bf-c61f6d774562",
+      "time": "2026-10-16 21:33:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SOX",
+        "Impact bearish"
+      ],
+      "text": "The PHLX Semiconductor Index (SOX) fell nearly 2%, marking an eighth consecutive daily decline and putting it on track for its longest losing streak since May 2006."
+    },
+    {
+      "id": "5150223",
+      "time": "2026-10-16 21:32:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯石油巨頭俄羅斯天然氣工業股份公司（Gazprom Neft）執行長：北海航線正變得越來越重要。"
+    },
+    {
+      "id": "mkt:01a144e9-d26b-7ee0-a8bf-b90fd2dff2bd",
+      "time": "2026-10-16 21:32:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gazprom Neft said it plans to comprehensively protect its facilities against attacks."
+    },
+    {
+      "id": "5150222",
+      "time": "2026-10-16 21:32:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "COREWEAVE股票開盤下跌7.7%。"
+    },
+    {
+      "id": "5150221",
+      "time": "2026-10-16 21:31:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉釋出新款Roadster後，其股價上漲近1%。"
+    },
+    {
+      "id": "5150220",
+      "time": "2026-10-16 21:31:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯石油巨頭俄羅斯天然氣工業股份公司（Gazprom Neft）執行長：我們計劃全面保護我們的設施免受攻擊。"
+    },
+    {
+      "id": "mkt:01a144e9-3c03-7ee0-a8bf-b17c6fcedee2",
+      "time": "2026-10-16 21:31:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "U.S. equities at the open on Oct 16 (Friday): Dow Jones Industrial Average opened at 52,346.03, up 168.34 points (+0.32%); S&P 500 opened at 7,753.32, up 9.26 points (+0.12%); Nasdaq Composite opened at 26,658.57, down 54.46 points (-0.20%)."
+    },
+    {
+      "id": "te:markets:592811",
+      "time": "2026-10-16 21:31:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "American Express Shares Hit 4-week High — American Express shares increased to 317.25 USD, the highest since September 2026. Over the past 4 weeks, American Express gained 1.23%, and in the last 12 months, it decreased 2.12%."
+    },
+    {
+      "id": "5150219",
+      "time": "2026-10-16 21:31:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "KBW銀行指數或將創下2008年以來最長單週連跌紀錄。"
+    },
+    {
+      "id": "5150218",
+      "time": "2026-10-16 21:31:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "費城半導體指數連續第八天下跌，勢將追平2006年5月以來最長連跌紀錄。"
+    },
     {
       "id": "5150217",
       "time": "2026-10-16 21:30:58",
