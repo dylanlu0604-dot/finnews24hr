@@ -1,7 +1,119 @@
 {
   "date": "2026-10-16",
-  "count": 1012,
+  "count": 1026,
   "items": [
+    {
+      "id": "mkt:01a142a3-5fd1-7ee0-a8af-394e8f21ded5",
+      "time": "2026-10-16 10:56:05",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Pantheon Macro warns US equities showing end‑of‑cycle signals; expects year‑long pullback, Treasury yields to fall】Pantheon Macroeconomics chief markets economist Jonas Goltermann said in a note that US equities are showing increasing end‑of‑cycle signals and he expects a more sustained pullback over roughly the next year, accompanied by a decline in US Treasury yields. He added that despite two recent high inflation prints, market concern over the sustainability of the AI‑driven rally has eclipsed the inflation data. Goltermann noted this week’s simultaneous sharp falls in US stocks and Treasury yields—the first such move since the US‑Iran conflict began—matches the market pattern that can emerge when an AI boom starts to reverse."
+    },
+    {
+      "id": "mkt:01a142a3-577e-7ee0-a8af-355ffd48c9e4",
+      "time": "2026-10-16 10:56:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia's Jakarta Composite Index fell to 5,193.22, down 11.4%, its lowest level since early November 2020."
+    },
+    {
+      "id": "mkt:01a142a2-e842-7ee0-a8af-2f9863819e74",
+      "time": "2026-10-16 10:55:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Gyeonggi factory fire injures seven, including five firefighters】Gyeonggi Provincial Fire and Disaster Headquarters reported that a fire at a metal-parts coating factory in Bucheon on the 16th local time injured seven people, five of them firefighters. The blaze began at about 08:38; flammable liquids were stored on site. Around 80 firefighters and 38 fire units were deployed and the fire was brought under control by 10:22. Of the five firefighters injured, two are in serious condition and were taken to hospital for emergency treatment. Two factory employees suffered burns."
+    },
+    {
+      "id": "5148899",
+      "time": "2026-10-16 10:55:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股指一度下跌11.4%，至5193.22點，為2020年11月初以來最低水平。"
+    },
+    {
+      "id": "5148898",
+      "time": "2026-10-16 10:55:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國京畿道工廠火災已致7人受傷 包括5名消防員】據韓國京畿道消防災難本部當地時間16日通報，在京畿道富川市一家金屬部件塗裝工廠火災中受傷的人員升至7人，其中5人為參與滅火工作的消防員。"
+    },
+    {
+      "id": "5148897",
+      "time": "2026-10-16 10:54:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1141.00美元/盎司。"
+    },
+    {
+      "id": "5148896",
+      "time": "2026-10-16 10:54:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【小摩：降騰訊目標價至625港元，AI策略順序清晰惟回報需時更長】摩根大通發表報告指，騰訊控股人工智慧策略現已有清晰順序，但回報需時更長；該行將2026年及2027年非國際財務報告準則每股盈利預測分別下調2%及10%，主要由於人工智慧折舊及相關成本上升，維持“增持”評級，目標價由690港元降至625港元。該行指出，騰訊先以快速釋出節奏打造具競爭力的自研模型，再先從企業生產力工具及雲業務賺取回報，並僅在質素與成本允許時，才在微信以全國級應用規模擴充套件智慧體。該行認為此順序發揮騰訊優勢，但會令成本前置。該行表示，會持有騰訊，因其具備可承載人工智慧建設的高質素核心業務、估值偏低，且微信智慧體潛力超出該行預測。"
+    },
+    {
+      "id": "5148895",
+      "time": "2026-10-16 10:54:17",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【加工貿易創新發展暨區域合作對接活動在廣州舉辦】據商務部官網，10月15日上午，加工貿易創新發展暨區域合作對接活動在廣州舉辦。商務部部長助理張力出席活動並講話，廣東省委常委、副省長張國智，國務院發展研究中心原副主任王一鳴致辭。張力表示，加工貿易是我國對外貿易和開放型經濟的重要組成部分。“十四五”時期加工貿易創新發展取得明顯成效，“十五五”及今後一段時期，加工貿易在應對全球產供鏈重構、推動產業提質升級、培育外貿新動能、促進區域協調發展、改善就業民生等方面，將繼續發揮重要作用。商務部將持續推動加工貿易創新發展，提升價值鏈地位、產供鏈韌性、區域合作水平、政策管理能力和企業綜合競爭力。對接活動上，有關地方分享了加工貿易創新發展、區域合作等經驗做法，各地圍繞進一步創新產業合作機制，促進專案、人才、資金、技術、資訊流動與共享等，開展一對一對接洽談。各省、自治區、直轄市及新疆生產建設兵團商務主管部門，加工貿易轉型升級試點城市、重點承接地、產業園，商務部對口幫扶縣、有關研究機構、商協會和重點企業代表共200餘人參加。"
+    },
+    {
+      "id": "mkt:01a142a1-91fc-7ee0-a8af-26483387b38f",
+      "time": "2026-10-16 10:54:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director Georgieva said urgent, pragmatic international cooperation is needed to address risks and strengthen cyber resilience."
+    },
+    {
+      "id": "5148894",
+      "time": "2026-10-16 10:53:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）總裁格奧爾基耶娃：我們需要緊急且務實的國際合作來應對風險，增強網路韌性。"
+    },
+    {
+      "id": "mkt:01a142a1-4b2c-7ee0-a8af-1e23544df21c",
+      "time": "2026-10-16 10:53:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF managing director GEORGIEVA said the number of cyber attacks is rising exponentially."
+    },
+    {
+      "id": "5148893",
+      "time": "2026-10-16 10:53:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）總裁格奧爾基耶娃：我們看到網路攻擊的數量呈指數級增長。"
+    },
+    {
+      "id": "5148892",
+      "time": "2026-10-16 10:53:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度信實集團：（衛星通訊領域）所有玩家都必須遵守當地法律。"
+    },
     {
       "id": "mkt:01a142a0-5fc0-7ee0-a8af-15dc06c111b9",
       "time": "2026-10-16 10:52:48",
@@ -9,6 +121,14 @@
         "MKT News"
       ],
       "text": "【Processing trade innovation and regional cooperation event held in Guangzhou】An event on processing trade innovation and regional cooperation was held in Guangzhou on Oct. 15. MOFCOM official Zhang Li said processing trade remains a key component of China’s foreign trade and open economy. MOFCOM said processing-trade innovation made significant gains during the 14th Five-Year Plan and that through the 15th Five-Year Plan and beyond it will be used to respond to global supply-chain restructuring, support industrial upgrading, cultivate new export drivers, advance regional coordination and bolster employment. MOFCOM will continue to promote processing-trade innovation, aiming to raise value-chain position, strengthen supply-chain resilience, deepen regional cooperation, enhance policy management capacity and boost firms’ competitiveness."
+    },
+    {
+      "id": "5148891",
+      "time": "2026-10-16 10:52:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "IMF 總裁格奧爾基耶娃：各國必須採取措施保護自己免受人工智慧帶來的“重大風險”，尤其是網路攻擊。"
     },
     {
       "id": "te:markets:592597",
