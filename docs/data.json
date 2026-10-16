@@ -1,7 +1,273 @@
 {
-  "updated": "2026-10-16 16:01:55",
-  "count": 12614,
+  "updated": "2026-10-16 16:05:56",
+  "count": 12639,
   "items": [
+    {
+      "id": "mkt:01a143be-822c-7ee0-a8b8-0b5cfd0d59fc",
+      "time": "2026-10-16 16:05:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MOFCOM: Whether specific offshore deployments fall under tech export controls hinges on whether restricted technologies are transferred from China abroad】MOFCOM said whether an AI ‘‘go-global’’ scenario falls within tech export controls depends on whether restricted-category technology is transferred from China to overseas. The AI technologies newly placed under regulation are precisely defined and limited; after implementation, the vast majority of AI technologies can still be exported freely. For technologies designated as restricted, localized deployment overseas constitutes a technology export subject to controls, though deployment on overseas self‑owned cloud or similarly lower‑risk environments may qualify for automatic licensing and other facilitative measures. By contrast, using restricted large models to provide API calls, app/web interaction, SaaS, or lightweight local edge deployments does not fall under large‑model technology export controls."
+    },
+    {
+      "id": "te:markets:592703",
+      "time": "2026-10-16 16:05:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silicon Gains by 2.65% — Top commodity gainers are Silicon (2.65%), Platinum (1.60%), Copper (0.90%) and Gold (0.26%). Biggest loser is Lithium Carbonate (-2.16%)."
+    },
+    {
+      "id": "mkt:01a143be-4bfb-7ee0-a8b8-039acfc25d8b",
+      "time": "2026-10-16 16:05:07",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "MBG.DE"
+      ],
+      "text": "NVIDIA (NVDA.O): Mercedes‑Benz extends collaboration with NVIDIA to develop a next‑generation autonomous driving system."
+    },
+    {
+      "id": "mkt:01a143be-2036-7ee0-a8b7-fdd989d01738",
+      "time": "2026-10-16 16:04:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "MBG.DE"
+      ],
+      "text": "Mercedes-Benz and NVIDIA (NVDA.O) will jointly develop next-generation driver-assistance and vehicle automation systems."
+    },
+    {
+      "id": "5149413",
+      "time": "2026-10-16 16:04:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭總理：希望歐洲能繼續就烏克蘭問題與美國“接觸”。"
+    },
+    {
+      "id": "5149412",
+      "time": "2026-10-16 16:04:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科軟：公司高階管理人員增持計劃實施完畢，合計增持76.58萬股】中科軟公告，公司此前披露時任高階管理人員共8位擬於2026年5月1日至2026年10月30日增持公司股份。截至2026年10月16日，全部增持主體透過上海證券交易所集中競價方式合計增持76.58萬股，佔公司股份總數的0.0921%，增持金額合計人民幣1008.42萬元，已達到計劃金額下限，增持計劃實施完畢。"
+    },
+    {
+      "id": "mkt:01a143bd-b931-7ee0-a8b7-f69bd8894114",
+      "time": "2026-10-16 16:04:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) shares rose 4% in premarket trading after the company unveiled a new sports car."
+    },
+    {
+      "id": "5149411",
+      "time": "2026-10-16 16:04:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【迪安診斷：公司因未及時披露2025年度述職報告被責令改正】迪安診斷公告，公司因未及時辦理披露獨立董事2025年度述職報告，收到浙江證監局責令改正措施決定；董事會秘書陶鈞因對上述違規行為承擔主要責任，收到警示函措施決定。兩項措施均記入證券期貨市場誠信檔案。公司已於公告同日補充披露3份述職報告，並將於收到決定書之日起10個工作日內提交書面報告。"
+    },
+    {
+      "id": "5149410",
+      "time": "2026-10-16 16:04:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰恩康：全資子公司獲聚多卡醇注射液註冊證書（2ml：20mg）】泰恩康公告，全資子公司山東華鉑凱盛生物科技有限公司近日收到國家藥監局簽發的聚多卡醇注射液《藥品註冊證書》，規格為2ml：20mg，藥品批准文號為國藥準字H20266266。"
+    },
+    {
+      "id": "5149409",
+      "time": "2026-10-16 16:04:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝建股份：2026年1-9月新籤合同金額1446.45億元】陝建股份公告，公司及下屬子公司2026年1月至9月累計新籤合同1580個，新籤合同金額1446.45億元。2026年7月至9月新簽單筆合同金額在5億元人民幣以上的較大施工專案合同，金額分別為25.75億元、12.42億元、11.55億元、10.5億元。"
+    },
+    {
+      "id": "5149407",
+      "time": "2026-10-16 16:04:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "諾基亞與軟銀宣佈達成協議，將在日本進行商用AI-RAN（人工智慧無線接入網）現場試驗。"
+    },
+    {
+      "id": "mkt:01a143bd-75ee-7ee0-a8b7-ea0fa88eea18",
+      "time": "2026-10-16 16:04:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Mercedes-Benz and NVIDIA (NVDA.O) expand their strategic collaboration on autonomous driving."
+    },
+    {
+      "id": "5149406",
+      "time": "2026-10-16 16:04:08",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：韓國財政部長、央行行長與美聯儲及美國財政部舉行聯合會議。"
+    },
+    {
+      "id": "5149405",
+      "time": "2026-10-16 16:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：梅賽德斯-賓士與英偉達擴大合作，共同開發下一代自動駕駛系統。"
+    },
+    {
+      "id": "5149404",
+      "time": "2026-10-16 16:03:26",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【六部門：啟動城鎮供熱“溫暖工程”三年行動】記者今天（16日）從住房城鄉建設部獲悉，為加快解決城鎮供熱工作中出現的熱源保障能力不足、設施裝置故障等問題，住房城鄉建設部、國家發展改革委等六部門聯合印發通知，啟動城鎮供熱“溫暖工程”三年行動，要求到2028年底前，存量供熱老化管網更新改造要取得明顯進展。\n\n由於早期建設的供熱管網、熱力站等設施裝置逐漸老化，疊加極端天氣等影響，一些地區出現熱源保障能力不足、設施裝置發生故障等問題，六部門此次啟動城鎮供熱“溫暖工程”三年行動，從5方面確定了19項重點任務，期望透過三年的持續推動，全面提升供熱保障能力和服務水平，更好保障人民群眾溫暖過冬。\n\n按照計劃，各地將“堅持先體檢、後更新”，定期開展供熱設施裝置體檢評估，將執行年限滿20年，或存在突出風險隱患的供熱管網、熱力站以及相關配套設施納入改造計劃，並鼓勵對單個供熱系統供熱面積大於5萬平方米的熱力站進行最佳化改造。針對城鎮供熱中有很多是熱電廠熱源供熱，下一步將推動熱電機組建設投產和改造升級，推進熱電協同發展，強化熱電聯產供熱保障。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a143bc-9a42-7ee0-a8b7-e69e894d326f",
+      "time": "2026-10-16 16:03:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Six Chinese ministries launch three-year urban heating Warmth Project】Today (16) the Ministry of Housing and Urban-Rural Development (MOHURD), the National Development and Reform Commission (NDRC) and four other ministries issued a joint notice launching a three-year urban heating Warmth Project. The program aims to address heat‑source capacity shortfalls and equipment/facility failures and requires visible progress on replacing and upgrading ageing urban heating distribution networks by end‑2028."
+    },
+    {
+      "id": "5149403",
+      "time": "2026-10-16 16:02:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海康威視：前三季度淨利潤同比增長38.55%】海康威視(002415.SZ)公告稱，第三季度營收為272.22億元，同比增長13.71%；淨利潤為50.16億元，同比增長36.97%。前三季度營收為740.44億元，同比增長12.60%；淨利潤為129.11億元，同比增長38.55%。業績變動主要系收入同比增長、毛利率同比上升。公司Q3淨利潤50.16億，Q2淨利潤51.15億，據此計算，Q3淨利潤環比下降1%。"
+    },
+    {
+      "id": "5149402",
+      "time": "2026-10-16 16:02:41",
+      "tags": [
+        "宏觀",
+        "公司",
+        "焦點"
+      ],
+      "text": "【商務部：此次修訂亦是技術貿易管理的常態化工作，不針對任何特定國家、地區或實體】問：《目錄》修訂的背景是什麼？\n\n答：根據《中華人民共和國對外貿易法》第二十條，國務院對外貿易主管部門會同國務院其他有關部門，制定、調整併發布禁止或限制出口的技術目錄。自2001年以來，商務部會同科技部多次調整修訂《目錄》，有進有出，有管有放，已形成工作慣例。此次修訂亦是技術貿易管理的常態化工作，依法依規進行，不針對任何特定國家、地區或實體。\n\n近年來，人工智慧、生物醫藥和光伏相關技術在敏感領域的應用不斷拓展，各主要經濟體均實施了不同程度的出口管控。中國參考國際通行做法，依法實施必要的管理，既防範技術失控和不當擴散風險，也保障正常國際技術交流合作，推動科技向上向善、安全可控、造福人類。\n\n問：《目錄》擬新增技術的範圍有哪些？\n\n答：此次公開徵求意見涉及擬增列的人工智慧、生物醫藥、光伏三個領域40項關鍵技術。其中，擬禁止出口技術14項，包括：人工智慧驅動的惡意程式碼生成與變異技術、具有自主智慧財產權的細胞和基因治療技術工藝平臺、鈣鈦礦及疊層電池元件生產技術等；擬限制出口技術26項，包括：人工智慧輔助漏洞挖掘技術、具有自主智慧財產權的通用型細胞和基因治療全新靶點發現和驗證技術、單線產能≥3萬噸/年的多晶矽工程技術等。公告還明確了適用便利措施等情形。詳情請參考公告原文。"
+    },
+    {
+      "id": "5149401",
+      "time": "2026-10-16 16:02:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉釋出期待已久的ROADSTER跑車後，盤前股價上漲4.7%。"
+    },
+    {
+      "id": "mkt:01a143bb-c302-7ee0-a8b7-d934d2c78313",
+      "time": "2026-10-16 16:02:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【MOFCOM: Revision is routine technical-trade management, not targeted at any specific country, region or entity】A MOFCOM spokesperson said the revision of the Catalogue of Technologies Prohibited or Restricted from Export follows Article 20 of the Foreign Trade Law of the PRC, under which the State Council department in charge of foreign trade, together with other relevant State Council departments, formulates and publishes export prohibition/restriction catalogues. MOFCOM and the Ministry of Science and Technology have repeatedly adjusted the Catalogue since 2001, adding and removing entries and establishing this as standard practice. The current revision is routine, being carried out in accordance with law and regulations, and is not aimed at any specific country, region or entity."
+    },
+    {
+      "id": "mkt:01a143bb-78c0-7ee0-a8b7-d4f744eb4836",
+      "time": "2026-10-16 16:02:01",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "S&P 500 futures rose 0.17%, Nasdaq futures gained 0.06% and Dow futures rose 0.19%."
+    },
+    {
+      "id": "5149400",
+      "time": "2026-10-16 16:01:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邵陽液壓：聯合體總中標價格4.62億元】邵陽液壓公告，公司於2026年10月14日收到中標通知書，與華自科技組成的聯合體中標誌丹200MW/600MWh構網型獨立儲能專案儲能系統裝置及升壓站裝置，聯合體總中標價格4.62億元（含稅）。公司預計負責約39.00%的建設內容，約1.8億元；截至公告披露日，正式合同尚未簽署。"
+    },
+    {
+      "id": "5149399",
+      "time": "2026-10-16 16:01:56",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點"
+      ],
+      "text": "【商務部新聞發言人就修訂《中國禁止出口限制出口技術目錄》答記者問】問：對於擬增列的光伏技術，主要有哪些考慮？\n\n答：此次擬將多晶矽製造、矽片製造、電池製造等環節的12項光伏技術增列至《目錄》，主要有以下考慮：\n\n一是維護國家安全和利益。近年來，光伏技術在航天、國防、無人裝備、高安全等級基礎設施等敏感領域的應用不斷拓展，光伏技術出口可能引致的國家安全風險不斷上升，有必要及時適度實施監管。\n\n二是支援綠色技術共享。此次列管技術範圍有限，其他未達到管控指標的技術仍可自由出口。公告中列明少量光伏關鍵裝置，僅針對承載達到管控指標技術的情形。未列明的其他光伏裝置，原則上不適用本公告要求。\n\n三是完善技術出口監管制度。光伏關鍵技術的出口往往伴隨光伏產線的出口、安裝、除錯、改良和升級而發生。出口經營者從事上述活動的，應按規定申請技術出口許可證，並憑證辦理外匯、銀行、稅務、海關等相關手續。"
+    },
+    {
+      "id": "5149398",
+      "time": "2026-10-16 16:01:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前漲跌互現，貝殼漲2%】美股中概股盤前漲跌互現，貝殼漲2%，百濟神州漲0.8%，攜程漲0.6%，拼多多跌0.1%，阿里巴巴跌0.2%，網易跌0.5%，百度跌0.6%，京東跌1%。"
+    },
+    {
+      "id": "mkt:01a143bb-3a59-7ee0-a8b7-c99859572609",
+      "time": "2026-10-16 16:01:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH expects 2026-2027 budget performance to be mixed; Ukrainian cities close to front lines face a weaker outlook."
+    },
+    {
+      "id": "5149397",
+      "time": "2026-10-16 16:01:44",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【商務部新聞發言人就修訂《中國禁止出口限制出口技術目錄》答記者問】問：對於擬增列的生物醫藥技術，主要有哪些考慮？\n\n答：現行《目錄》中已有部分生物醫藥技術，此次擬增列病原微生物、細胞和基因治療、小核酸藥相關5項技術，主要有以下考慮：\n\n一是維護人類生命健康安全。病原微生物技術等直接關係人類健康和國家生物安全，將其納入《目錄》實施禁止出口，是維護國家安全、構築生物安全屏障的制度安排，也是保護全人類健康的客觀需要。\n\n二是支援我國生物醫藥技術依法依規有序開展國際合作。此次列管生物醫藥技術，對國際合作的重要情形作出排除或適用便利措施。例如，對具有自主智慧財產權的相關技術工藝平臺，對外授權許可、利用相關技術工藝提供外包研發和生產服務等出口情形，不納入管理範圍；對於具有自主智慧財產權的相關靶點發現和驗證技術，對外授權許可方式出口的，適用自動許可等便利措施。\n\n三是踐行人類衛生健康共同體理念。此次政策明確規定，對於限制出口技術，因公共衛生突發事件、人道主義救援、利用境外資源開展聯合研發等需要的出口，適用自動許可等便利措施。中國將繼續與世界各國共享技術發展成果，為增進人類健康福祉作出積極貢獻。"
+    },
+    {
+      "id": "mkt:01a143bb-1783-7ee0-a8b7-c5dda03e02d7",
+      "time": "2026-10-16 16:01:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH says the ongoing war is intensifying budgetary pressure on Ukrainian cities."
+    },
     {
       "id": "mkt:01a143ba-eeac-7ee0-a8b7-bcd8a5ae9770",
       "time": "2026-10-16 16:01:26",
@@ -115118,29 +115384,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Oat Gains by 1.51% — Top commodity gainers are Oat (1.51%), Cotton (1.32%) and Rice (0.90%)."
-    },
-    {
-      "id": "te:markets:590793",
-      "time": "2026-10-09 16:05:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Rises by 3.59% — Top commodity gainers are Platinum (3.59%), Silver (2.07%), Silicon (1.65%) and Gold (1.47%). Biggest loser is Lithium Carbonate (-2.08%)."
-    },
-    {
-      "id": "te:markets:590791",
-      "time": "2026-10-09 16:01:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "UK Stocks Recover — The UK's FTSE 100 rose 0.9% on Friday, halting a two-day decline, led by software and mining stocks, while softer oil prices and some stabilization in bond yields calmed investors. Trump's remarks that the US would not attack Iran before next month's midterm elections, describing talks with Tehran as \"productive\", helped ease geopolitical concerns. Sage Group and RELX led the gains, rising 4% and 3.2%, respectively. Mining stocks also advanced strongly, with Antofagasta and Fresnillo gaining more than 3% each, supported by firm prices of copper, silver and gold. Tesco (+2.8%) gained following positive reactions from Deutsche Bank and Jefferies to its interim results, published a day earlier, which showed a 6.5% rise in profits and an improved annual outlook. Vodafone Group and Airtel Africa were the laggards, falling 3.8% and 3.4%, respectively, mirroring the broader sector decline across the European telecom sector. For the week, the index was set to gain about 0.7%."
     }
   ]
 }
