@@ -1,7 +1,65 @@
 {
-  "updated": "2026-10-16 16:21:13",
-  "count": 12692,
+  "updated": "2026-10-16 16:25:00",
+  "count": 12700,
   "items": [
+    {
+      "id": "5149465",
+      "time": "2026-10-16 16:23:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "新世界集團正與多家銀行磋商，續期112億美元貸款。"
+    },
+    {
+      "id": "5149464",
+      "time": "2026-10-16 16:22:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "賽峰集團與土耳其技術公司簽署材料服務協議，為土耳其的維修設施提供支援。"
+    },
+    {
+      "id": "5149463",
+      "time": "2026-10-16 16:22:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北摩高科：董事會透過定增相關授權議案】北摩高科公告稱，公司第四屆董事會第十三次會議審議透過《關於公司2025年度向特定物件發行A股股票方案相關授權的議案》。為保障定增事項順利推進，若簿記建檔後確定的發行股數未達認購邀請檔案擬發行數量的70%，董事會授權董事長或其指定人員與主承銷商協商後，可在不低於發行底價的前提下調整發行價格，直至發行股數達標；若有效申購不足，可決定是否啟動追加認購或中止發行等程式，授權有效期與股東會授權有效期一致。該議案獲7票同意、0票反對、0票棄權。"
+    },
+    {
+      "id": "5149462",
+      "time": "2026-10-16 16:22:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山金國際：子公司補繳稅款及滯納金2.87億元】山金國際10月16日公告，公司下屬子公司吉林板廟子礦業有限公司根據當地稅務部門要求，對涉稅事項開展了自查。經自查，吉林板廟子部分業務不滿足享受高新技術企業所得稅優惠政策條件，需補繳2023-2025年度企業所得稅及滯納金2.87億元。截至本公告披露日，上述稅款及滯納金已全部繳納完畢，本次補繳稅款事項不涉及行政處罰。根據《企業會計準則第28號—會計政策、會計估計變更和差錯更正》相關規定，上述補繳稅款事項不屬於前期會計差錯，不涉及前期財務資料追溯調整。上述補繳稅款及滯納金將計入公司2026年當期損益，對公司2026年度歸屬於上市公司股東的淨利潤的影響金額最終以2026年度經審計的財務報表為準。"
+    },
+    {
+      "id": "5149461",
+      "time": "2026-10-16 16:21:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "土耳其主要BIST-100指數<.XU100>下跌3.1%。"
+    },
+    {
+      "id": "mkt:01a143cd-7e14-7ee0-a8b8-77f2e04c660c",
+      "time": "2026-10-16 16:21:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SAMR: 399 fuel‑pump tampering cases since 2025; case value 270 mln yuan, fines 143 mln yuan】At a State Administration for Market Regulation briefing on tackling fuel‑pump fraud, regulators said meter manipulation and tax evasion distort competition and harm consumers. Since 2025 SAMR has targeted high‑incidence areas—urban‑rural junctions and national/provincial road corridors—stepping up inspections and technical screening; it has filed 399 cases with total case value 270 mln yuan and imposed fines/confiscations of 143 mln yuan."
+    },
+    {
+      "id": "5149460",
+      "time": "2026-10-16 16:21:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【2025年以來全國市場監管立案查處加油機作弊案件399件 案值2.7億元】記者今天從市場監管總局召開的“綜合治理加油機作弊”專題釋出會上瞭解到，近期，市場監管總局組織河北、吉林、內蒙古等6省（區）開展打擊加油機計量作弊叢集作戰，共出動執法檢查組195個，執法人員1477人，檢查加油站作弊219家，發現涉嫌違法加油站78家，封存、扣押作弊主機板164塊，目前已立案54件，後續還將根據主機板鑑定結果對涉事加油站進行立案查處。加油機作弊行為透過篡改計量資料、偷逃稅款等手段，不僅直接損害消費者權益，更嚴重‌扭曲了公平競爭的市場秩序，一直是市場監管部門重點打擊的物件。2025年以來，我們聚焦城鄉接合部、國省道沿線等加油機作弊違法行為高發、頻發的重點區域，加大監督檢查、專項行動和技術篩查頻次，共立案查處加油機作弊案件399件，案值2.7億元，罰沒款1.43億元。（央視新聞）"
+    },
     {
       "id": "mkt:01a143cc-a5ec-7ee0-a8b8-6995b6bd65f9",
       "time": "2026-10-16 16:20:47",
@@ -9,6 +67,15 @@
         "MKT News"
       ],
       "text": "【Chinese, German researchers first to prepare and cross-node transmit multipartite entangled phonon states on scalable 2D hybrid quantum chip】A team led by CAS academician Yu Dapeng at the Shenzhen International Quantum Research Institute (Tan Dian group), together with researchers from the University of Stuttgart, experimentally prepared and transmitted genuine multipartite entangled phonon states on a scalable two-dimensional hybrid quantum‑chip platform. The results were published in Science on the 16th (Beijing time)."
+    },
+    {
+      "id": "5149459",
+      "time": "2026-10-16 16:20:44",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式開啟了為期一週的黃金兌里拉賣方掉期拍賣，規模為6噸。"
     },
     {
       "id": "5149458",
