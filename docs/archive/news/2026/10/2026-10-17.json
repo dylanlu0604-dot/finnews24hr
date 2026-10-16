@@ -1,7 +1,51 @@
 {
   "date": "2026-10-17",
-  "count": 421,
+  "count": 426,
   "items": [
+    {
+      "id": "te:markets:592876",
+      "time": "2026-10-17 04:57:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Advances on IBC-Br Rebound — The Ibovespa rose 0.5% to close at 205,430 on Friday, supported by fresh economic activity data and a slowdown in the oil rally. The BCB’s Economic Activity Index rose 0.3% month-over-month in August, in line with market expectations and rebounding from a 0.2% decline in July. Growth was supported by sectors geared toward the domestic economy, particularly those linked to household income, which benefited from slower price increases for essential goods such as food. Utilities closed mostly higher, with Axia gaining 0.6% and Sabesp adding 1%. Retailers and non-durable goods producers also advanced, with Ambev up 0.9% and Assaí rising 4.2%. Meanwhile, Petrobras climbed 4% as oil prices remained elevated amid mounting supply risks linked to escalating tensions in the Middle East and between Russia and Ukraine. On the week, the Ibovespa shed 0.5%."
+    },
+    {
+      "id": "mkt:01a14681-1411-7ee0-a8c6-8deaa03c1126",
+      "time": "2026-10-17 04:57:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Morocco forms new government】King Mohammed VI presided over the appointment ceremony at the royal palace in Rabat on the 16th; Prime Minister Fatima Zahra Mansouri and the new cabinet were sworn in. The Maghreb Arab Press published a list showing the cabinet comprises 32 members."
+    },
+    {
+      "id": "5150613",
+      "time": "2026-10-17 04:56:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩洛哥組成新政府】摩洛哥國王穆罕默德六世16日在首都拉巴特王宮主持新政府成員任命儀式，新任首相法蒂瑪·宰赫拉·曼蘇里及新內閣成員宣誓就職。根據摩通社公佈的名單，摩洛哥新內閣由32名成員組成。（新華社）"
+    },
+    {
+      "id": "mkt:01a14680-9c7b-7ee0-a8c6-8406a9dff30c",
+      "time": "2026-10-17 04:56:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.2 magnitude earthquake off Ecuador's Pacific coast】The European-Mediterranean Seismological Centre (EMSC) reported a magnitude 5.2 earthquake at 13:34 local time on the 16th beneath the Pacific seabed off western Ecuador; focal depth 10 km. No tsunami warning has been issued."
+    },
+    {
+      "id": "5150612",
+      "time": "2026-10-17 04:56:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "晨星DBSS確認義大利共和國評級為A（低），趨勢穩定。"
+    },
     {
       "id": "5150611",
       "time": "2026-10-17 04:55:42",

@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-17 04:56:26",
+  "updated": "2026-10-17 05:00:12",
   "count": 12816,
   "items": [
+    {
+      "id": "te:markets:592876",
+      "time": "2026-10-17 04:57:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Advances on IBC-Br Rebound — The Ibovespa rose 0.5% to close at 205,430 on Friday, supported by fresh economic activity data and a slowdown in the oil rally. The BCB’s Economic Activity Index rose 0.3% month-over-month in August, in line with market expectations and rebounding from a 0.2% decline in July. Growth was supported by sectors geared toward the domestic economy, particularly those linked to household income, which benefited from slower price increases for essential goods such as food. Utilities closed mostly higher, with Axia gaining 0.6% and Sabesp adding 1%. Retailers and non-durable goods producers also advanced, with Ambev up 0.9% and Assaí rising 4.2%. Meanwhile, Petrobras climbed 4% as oil prices remained elevated amid mounting supply risks linked to escalating tensions in the Middle East and between Russia and Ukraine. On the week, the Ibovespa shed 0.5%."
+    },
+    {
+      "id": "mkt:01a14681-1411-7ee0-a8c6-8deaa03c1126",
+      "time": "2026-10-17 04:57:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Morocco forms new government】King Mohammed VI presided over the appointment ceremony at the royal palace in Rabat on the 16th; Prime Minister Fatima Zahra Mansouri and the new cabinet were sworn in. The Maghreb Arab Press published a list showing the cabinet comprises 32 members."
+    },
+    {
+      "id": "5150613",
+      "time": "2026-10-17 04:56:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩洛哥組成新政府】摩洛哥國王穆罕默德六世16日在首都拉巴特王宮主持新政府成員任命儀式，新任首相法蒂瑪·宰赫拉·曼蘇里及新內閣成員宣誓就職。根據摩通社公佈的名單，摩洛哥新內閣由32名成員組成。（新華社）"
+    },
+    {
+      "id": "mkt:01a14680-9c7b-7ee0-a8c6-8406a9dff30c",
+      "time": "2026-10-17 04:56:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【5.2 magnitude earthquake off Ecuador's Pacific coast】The European-Mediterranean Seismological Centre (EMSC) reported a magnitude 5.2 earthquake at 13:34 local time on the 16th beneath the Pacific seabed off western Ecuador; focal depth 10 km. No tsunami warning has been issued."
+    },
+    {
+      "id": "5150612",
+      "time": "2026-10-17 04:56:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "晨星DBSS確認義大利共和國評級為A（低），趨勢穩定。"
+    },
     {
       "id": "5150611",
       "time": "2026-10-17 04:55:42",
@@ -116991,55 +117035,6 @@
         "其他"
       ],
       "text": "惠譽將奈及利亞的評級展望調整為正面；確認其評級為“B”。"
-    },
-    {
-      "id": "5135767",
-      "time": "2026-10-10 04:59:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特領導的聯軍稱，已摧毀恐怖胡塞民兵控制區內的136個軍事目標。"
-    },
-    {
-      "id": "mkt:01a12276-2007-7ee0-a820-9ebbdcee3aaa",
-      "time": "2026-10-10 04:58:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi-led coalition said it destroyed 136 military targets in areas controlled by Houthi forces."
-    },
-    {
-      "id": "mkt:01a12275-dbd1-7ee0-a820-93b7d6b60bb2",
-      "time": "2026-10-10 04:58:31",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Saudi-led coalition says it is conducting large-scale operations against Houthi forces and their capabilities in Yemen."
-    },
-    {
-      "id": "5135766",
-      "time": "2026-10-10 04:58:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯常駐聯合國代表涅邊賈：烏克蘭防空系統效率低下導致悲劇發生，而基輔卻將責任歸咎於俄羅斯。"
-    },
-    {
-      "id": "5135765",
-      "time": "2026-10-10 04:57:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特領導的聯軍稱，正對葉門胡塞武裝人員及軍事設施展開大範圍軍事行動。"
     }
   ]
 }
