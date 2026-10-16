@@ -1,7 +1,78 @@
 {
-  "updated": "2026-10-16 11:04:17",
-  "count": 12630,
+  "updated": "2026-10-16 11:07:59",
+  "count": 12636,
   "items": [
+    {
+      "id": "5148921",
+      "time": "2026-10-16 11:06:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軍工板塊持續走高 中科海訊等十餘股漲停】軍工板塊盤中持續走高，中科海訊、金盾股份20cm漲停，晟楠科技回封30cm漲停，此前長城軍工、長春一東、林州重機、新興裝備等多股漲停，捷眾科技、通易航天、北方長龍均漲超10%。"
+    },
+    {
+      "id": "5148920",
+      "time": "2026-10-16 11:06:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲2%至5776.88點。"
+    },
+    {
+      "id": "5148919",
+      "time": "2026-10-16 11:06:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國財長萊斯屈爾：法國必要時將啟用預算約束機制。"
+    },
+    {
+      "id": "mkt:01a142ac-dab8-7ee0-a8af-84f7fd2553fb",
+      "time": "2026-10-16 11:06:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's Bundesbank president said AI could exacerbate inequality."
+    },
+    {
+      "id": "5148918",
+      "time": "2026-10-16 11:05:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "德國央行行長：人工智慧可能加劇不平等。"
+    },
+    {
+      "id": "mkt:01a142ac-2803-7ee0-a8af-7bcacf753ddb",
+      "time": "2026-10-16 11:05:40",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares planting and forestry sector climbed, with Hainan Rubber hitting the daily trading limit; Runong Water-saving, Xinsai Co., Shennong Seed, Xin Nong Development and Fujian Jinsen also advanced."
+    },
+    {
+      "id": "5148917",
+      "time": "2026-10-16 11:04:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【種植業與林業板塊走高，海南橡膠漲停】種植業與林業板塊走高，海南橡膠漲停，潤農節水、新賽股份、神農種業、新農開發、福建金森等紛紛走高。"
+    },
+    {
+      "id": "5148916",
+      "time": "2026-10-16 11:03:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【霸王茶姬關聯公司所持108萬元股權被凍結】國家企業信用資訊公示系統網站顯示，10月14日，上海茶姬企業管理有限公司新增一則股權凍結資訊，被執行人為該公司，股權所在企業為上海茶尚企業管理有限公司，凍結股權數額108萬餘元人民幣，執行法院為上海市長寧區人民法院，凍結期限為三年，凍結日期自2026年10月14日至2029年10月13日。"
+    },
     {
       "id": "mkt:01a142aa-7393-7ee0-a8af-73c9db448e5b",
       "time": "2026-10-16 11:03:49",
@@ -115213,28 +115284,6 @@
         "國際"
       ],
       "text": "【美國農業債務創新高 官方統計或被顯著低估】美國農業部最新估算顯示，今年美國農業債務將突破6050億美元、創歷史紀錄。但供應商、裝置製造商等非傳統信貸快速擴張且難以全面統計，實際債務規模可能被顯著低估。美國農業部表示目前已啟動專項追蹤，並評估農業債務向整體經濟蔓延的風險。（央視新聞）"
-    },
-    {
-      "id": "te:markets:590679",
-      "time": "2026-10-09 11:07:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Rises as Oil Prices and Bond Yields Retreat — Silver rose above $60 an ounce on Friday, rebounding from two-month lows as falling oil prices and bond yields eased pressure on non-yielding metals. Oil prices declined after President Donald Trump said the US was engaged in “productive discussions” with Iran and would refrain from attacking the country before the midterm elections. His remarks came even as Iran intensified attacks on tankers transiting the Strait of Hormuz this week, while a hurricane disrupted offshore oil production in the Gulf of Mexico. Meanwhile, US Treasury yields retreated from 24-year highs following strong demand at a 30-year bond auction, indicating that investors remained willing to buy long-dated government debt despite the recent selloff. On the monetary policy front, markets are pricing in roughly an 82% chance that the Federal Reserve will keep interest rates unchanged this month, while the probability of a rate hike in December stands at around 81%."
-    },
-    {
-      "id": "te:markets:590678",
-      "time": "2026-10-09 11:06:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Advances as Oil Prices and Bond Yields Retreat — Gold rose toward $4,200 an ounce on Friday, gaining for a second consecutive session as falling oil prices and bond yields eased pressure on non-yielding metals. Oil prices declined after President Donald Trump said the US was engaged in “productive discussions” with Iran and would refrain from attacking the country before the midterm elections. His remarks came even as Iran intensified attacks on tankers transiting the Strait of Hormuz this week, while a hurricane disrupted offshore oil production in the Gulf of Mexico. Meanwhile, US Treasury yields retreated from 24-year highs following strong demand at a 30-year bond auction, indicating that investors remained willing to buy long-dated government debt despite the recent selloff. On the monetary policy front, markets are pricing in roughly an 82% chance that the Federal Reserve will keep interest rates unchanged this month, while the probability of a rate hike in December stands at around 81%."
     }
   ]
 }
