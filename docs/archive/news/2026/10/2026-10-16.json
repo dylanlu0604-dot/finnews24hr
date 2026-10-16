@@ -1,7 +1,76 @@
 {
   "date": "2026-10-16",
-  "count": 726,
+  "count": 733,
   "items": [
+    {
+      "id": "mkt:01a14245-e259-7ee0-a8ab-95b86fbe2314",
+      "time": "2026-10-16 09:13:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI extended intraday gains to 3.00%, trading at 5,731.41."
+    },
+    {
+      "id": "5148685",
+      "time": "2026-10-16 09:13:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至3%】韓國綜指漲幅擴大至3%，現報5722.35點。個股方面，SK海力士漲超3%，三星電子漲超2%。"
+    },
+    {
+      "id": "mkt:01a14244-f73f-7ee0-a8ab-8aa5654dc852",
+      "time": "2026-10-16 09:12:58",
+      "tags": [
+        "MKT News",
+        "DPW.DE",
+        "Impact bullish"
+      ],
+      "text": "【MOFCOM deputy minister meets Deutsche Post DHL CEO】Oct 15 — MOFCOM Deputy Minister and China’s deputy chief trade negotiator Ling Ji met with the CEO of Deutsche Post DHL Group to discuss DHL’s China development and China-Germany/China-EU economic cooperation. Ling said Beijing will press ahead with high‑level opening, accelerate construction of a unified national market and build an efficient modern logistics network, measures she said will widen development space for domestic and foreign logistics firms including DHL. She also said the second China‑EU trade and investment consultation reached a series of consensus outcomes that improve stability and predictability for China‑EU corporate cooperation."
+    },
+    {
+      "id": "5148684",
+      "time": "2026-10-16 09:12:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳通告：全市全天禁止機動車鳴喇叭】近日，深圳市生態環境局、深圳市公安局交通管理局聯合釋出《關於在全市範圍實施機動車禁鳴喇叭措施的通告》。 根據通告，11月1日起，每天0時至24時全市禁止機動車鳴喇叭，有效期5年。駕駛機動車在禁止鳴喇叭區域、路段鳴喇叭的，依照相關規定，處300元罰款；一年內有本款行為三次以上的，從第三次起每次處500元罰款。 （經濟日報）"
+    },
+    {
+      "id": "mkt:01a14243-b536-7ee0-a8ab-86dc2db8335d",
+      "time": "2026-10-16 09:11:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "DAX"
+      ],
+      "text": "【World Economic Forum may appoint Lagarde as chair as early as November】Refinitiv cited sources saying the World Economic Forum could appoint ECB President Lagarde as its next chair as early as November, which would require her to step down from the ECB and prompt broader senior staffing changes. Lagarde's ECB term is scheduled to end in October next year; she has said she will remain into next year but has not committed to serving the full term. An early exit would allow EU leaders to pick a new ECB president before France's spring presidential election and could smooth agreement on appointments to two other senior ECB posts. Sources said the WEF board, where Lagarde is a member, meets on Nov. 2 and could elect her; the WEF aims to hold the handover by year-end. After Schnabel's resignation last month, Lagarde's departure would create a second vacancy among the ECB's six executive board members; ECB chief economist Philip Lane is due to leave in May next year."
+    },
+    {
+      "id": "5148683",
+      "time": "2026-10-16 09:11:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商務部副部長兼中華人民共和國國際貿易談判副代表凌激會見德國敦豪集團執行長麥韜遠 】10月15日，商務部副部長兼中華人民共和國國際貿易談判副代表凌激會見德國敦豪集團執行長麥韜遠，雙方就敦豪在華髮展以及中德、中歐經貿合作等議題進行了交流。凌激表示，中國政府堅定不移推進高水平對外開放，加快建設全國統一大市場，打造高效暢通的現代物流網路，這將為包括敦豪在內的中外物流企業提供更加廣闊的發展空間。中歐貿易投資磋商機制第二次例會達成一系列成果共識，為中歐企業合作提供了穩定性和確定性。麥韜遠表示，敦豪對中國市場充滿信心，正在加大在華投入。敦豪樂見歐中貿易投資磋商取得進展，願積極助力德中、歐中經貿關係穩定健康發展。"
+    },
+    {
+      "id": "5148682",
+      "time": "2026-10-16 09:10:55",
+      "tags": [
+        "資料",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：美元回落，黃金明顯反彈】昨日公佈的美國PPI資料與消費資料依舊偏熱，但避險情緒主推美債走強，黃金同樣激發了避險因素，疊加美元回落，黃金明顯反彈。我們維持之前的觀點，雖然當前的宏觀環境對黃金仍有明顯壓力，但是黃金具備避險功能和配置價值，我們仍建議關注金價回落後的做多機會。（中金財富期貨）"
+    },
     {
       "id": "5148681",
       "time": "2026-10-16 09:10:23",
