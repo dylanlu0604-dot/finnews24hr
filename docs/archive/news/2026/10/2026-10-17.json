@@ -1,7 +1,1163 @@
 {
   "date": "2026-10-17",
-  "count": 213,
+  "count": 336,
   "items": [
+    {
+      "id": "mkt:01a1464e-aead-7ee0-a8c5-e3eaf3988560",
+      "time": "2026-10-17 04:02:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Alibaba",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "CRWV.O",
+        "Nasdaq100"
+      ],
+      "text": "【US close: major indexes lower; CoreWeave down ~12%】US stocks closed lower on Friday: Nasdaq -2.14%, S&P 500 -1.09%, Dow -0.34%. Large decliners included CoreWeave (CRWV.O) -11.91%, Arm (ARM.O) -6.94%, SanDisk (SNDK.O) -6.85%, SK Hynix (SKHY.O) -6.58%, Oracle (ORCL.N) -4.64% and Tesla (TSLA.O) -2.13%. The Nasdaq China Golden Dragon Index fell 1.3%; Baidu (BIDU.O) -2.93%, Alibaba (BABA.N) -1.83%."
+    },
+    {
+      "id": "5150553",
+      "time": "2026-10-17 04:02:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "KBW銀行指數創下2008年以來最長的周連跌。"
+    },
+    {
+      "id": "5150552",
+      "time": "2026-10-17 04:01:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "費城半導體指數連續第8個交易日下跌，追平2006年以來最長連跌紀錄。"
+    },
+    {
+      "id": "5150551",
+      "time": "2026-10-17 04:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "COREWEAVE本週累計跌幅達25%。"
+    },
+    {
+      "id": "5150550",
+      "time": "2026-10-17 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.34%，標普500指數跌1.09%，納指跌2.14%。NBIS跌12.14%，CoreWeave跌11.90%，Twilio跌10.67%，超微電腦跌9.77%，Strategy跌9.68%，偉創力國際跌8.19%，RKLB跌7.94%。“七姐妹”方面：蘋果漲0.46%，英偉達跌1.41%，微軟跌1.87%，亞馬遜跌1.88%，特斯拉跌2.13%，谷歌跌2.29%，Meta Platforms跌3.66%。"
+    },
+    {
+      "id": "5150549",
+      "time": "2026-10-17 04:00:24",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本8月持有美國國債1.068萬億美元，7月為1.104萬億美元。"
+    },
+    {
+      "id": "5150548",
+      "time": "2026-10-17 04:00:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "英國8月持有美國國債1.01萬億美元，7月為9980億美元。"
+    },
+    {
+      "id": "5150547",
+      "time": "2026-10-17 04:00:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月國際資本淨流入 1998億美元，前值由837億美元修正為874億美元。\n美國8月長期資本淨流入 2792億美元，前值-279億美元。\n美國8月外資淨買入美國公債 1089億美元，前值-36億美元。"
+    },
+    {
+      "id": "mkt:01a1464c-effd-7ee0-a8c5-d866375ead9d",
+      "time": "2026-10-17 04:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US net long-term capital inflows were $279.2 bln in August, versus -$27.9 bln previously."
+    },
+    {
+      "id": "mkt:01a1464c-ec88-7ee0-a8c5-d30df1f42035",
+      "time": "2026-10-17 04:00:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. net international capital inflows in August were $199.8 bln; prior value revised from $83.7 bln to $87.4 bln."
+    },
+    {
+      "id": "mkt:01a1464c-e97f-7ee0-a8c5-cc34c9cffbb7",
+      "time": "2026-10-17 04:00:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Foreign investors net purchased $108.9bn of US Treasury securities in August; prior reading was net sales of $3.6bn."
+    },
+    {
+      "id": "5150546",
+      "time": "2026-10-17 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.37%】DCX跌20.06%，天演藥業跌15.00%，世紀互聯跌11.02%，萬國資料跌8.93%，迅雷跌8.94%。"
+    },
+    {
+      "id": "mkt:01a1464c-cb08-7ee0-a8c5-c6aaa4442a53",
+      "time": "2026-10-17 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net Foreign Purchases of Treasury Securities (Aug) | actual 108900000000B | previous -3600000000B"
+    },
+    {
+      "id": "mkt:01a1464c-cada-7ee0-a8c5-ba1a86200d66",
+      "time": "2026-10-17 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net International Capital Inflows (Aug) | actual 199800000000B | previous 83700000000B"
+    },
+    {
+      "id": "mkt:01a1464c-cacc-7ee0-a8c5-b02fe271abb0",
+      "time": "2026-10-17 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net LongTerm TIC Flows (Aug) | actual 279200000000B | previous -27900000000B"
+    },
+    {
+      "id": "5150545",
+      "time": "2026-10-17 03:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列猶太人定居者在約旦河西岸多地發動襲擊 致19人受傷】當地時間16日，巴勒斯坦“隔離牆和定居點抵抗委員會”發表宣告稱，當天在約旦河西岸地區共監測到34起以色列猶太人定居者針對巴勒斯坦農民、土地和農作物的襲擊與侵犯事件，導致至少19名巴勒斯坦人受傷，其中包括兩名分別為8歲和12歲的兒童。另外，兩名外國記者也在衝突中遇襲受傷。（央視新聞）"
+    },
+    {
+      "id": "5150544",
+      "time": "2026-10-17 03:58:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門亞丁安全部門：胡塞武裝發射的兩枚導彈落入亞丁機場內，導彈落在距一架飛機500米處。這是不到一週內發生的第二起此類事件。"
+    },
+    {
+      "id": "mkt:01a1464a-be2b-7ee0-a8c5-ab0398dcda20",
+      "time": "2026-10-17 03:57:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he hopes Putin will attend the G20 summit but does not know whether he will."
+    },
+    {
+      "id": "5150542",
+      "time": "2026-10-17 03:57:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：一艘屬於阿聯酋的超大型油輪今日在霍爾木茲海峽水域時遭到火箭彈襲擊，被針對的油輪的船舶自動識別系統已停用約18天。"
+    },
+    {
+      "id": "5150541",
+      "time": "2026-10-17 03:56:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我當然希望普京出席G20峰會。我不知道他是否會來。"
+    },
+    {
+      "id": "5150540",
+      "time": "2026-10-17 03:55:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局訊息，厄瓜多海岸附近發生5.2級地震。"
+    },
+    {
+      "id": "5150539",
+      "time": "2026-10-17 03:54:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：我認為市場對弗拉維奧·博索納羅缺乏可信度的計劃做出積極反應是錯誤的。"
+    },
+    {
+      "id": "mkt:01a14647-a249-7ee0-a8c5-a79fa4299378",
+      "time": "2026-10-17 03:54:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's transport minister said two missiles in an attack on Aden airport landed about 500 meters from an aircraft."
+    },
+    {
+      "id": "mkt:01a14646-a37a-7ee0-a8c5-98a893a2cf14",
+      "time": "2026-10-17 03:53:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemen's Aden security forces said two missiles fired by Houthi militants landed inside Aden airport, the second such incident in under a week."
+    },
+    {
+      "id": "5150538",
+      "time": "2026-10-17 03:47:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西巴西財長：我們將實現不斷增長的盈餘，直到達到佔國內生產總值1.5%的盈餘，但這需要透過循序漸進的努力來實現。"
+    },
+    {
+      "id": "5150537",
+      "time": "2026-10-17 03:45:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月17日03時35分在西藏日喀則市拉孜縣（北緯28.85度，東經87.52度）發生3.0級地震，震源深度10千米。"
+    },
+    {
+      "id": "5150536",
+      "time": "2026-10-17 03:44:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴巴西財長：巴西的利率需要下降，需要回歸合理水平。"
+    },
+    {
+      "id": "5150535",
+      "time": "2026-10-17 03:43:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：政府需要重組公共賬戶。"
+    },
+    {
+      "id": "5150534",
+      "time": "2026-10-17 03:43:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：消費者物價指數已得到控制，但高利率仍然是個問題。"
+    },
+    {
+      "id": "mkt:01a1463d-7287-7ee0-a8c5-8af5247a1aaa",
+      "time": "2026-10-17 03:43:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister Durigan said high interest rates remain a problem and are by no means simple."
+    },
+    {
+      "id": "5150533",
+      "time": "2026-10-17 03:43:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：將在縮短工作周過渡期間支援企業主。"
+    },
+    {
+      "id": "mkt:01a1463d-37a8-7ee0-a8c5-86675fbee076",
+      "time": "2026-10-17 03:42:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance minister Durigan said the government expects to set up special credit lines to support tax reform and to fund measures tied to abolishing the six-day, one-day-rest workweek."
+    },
+    {
+      "id": "5150531",
+      "time": "2026-10-17 03:40:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：我們預計將為稅收改革和6x1工作制的終結提供特定信貸額度。"
+    },
+    {
+      "id": "mkt:01a14639-36de-7ee0-a8c5-7fc9118dac6a",
+      "time": "2026-10-17 03:38:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil Finance Minister Durigan said ending the six-day workweek would impose costs on some firms but the impact would be limited."
+    },
+    {
+      "id": "mkt:01a14638-c1ab-7ee0-a8c5-74ae0c296a39",
+      "time": "2026-10-17 03:38:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense says threat in Saudi Arabia's Jizan region has been lifted."
+    },
+    {
+      "id": "5150530",
+      "time": "2026-10-17 03:37:48",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長杜裡甘：取消每週六天工作制將給部分企業帶來負擔，但影響較小。"
+    },
+    {
+      "id": "5150529",
+      "time": "2026-10-17 03:37:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普： 黑石私募信貸基金保持充足流動性以滿足高額贖回請求，我們預計其將繼續履行高達淨資產值5%的贖回請求。"
+    },
+    {
+      "id": "5150528",
+      "time": "2026-10-17 03:36:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普：展望調整反映了BCRED的淨資產價值下降，部分原因是該公司2021年和2022年初的某些大型投資進行了減記。"
+    },
+    {
+      "id": "5150527",
+      "time": "2026-10-17 03:36:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特民防部門表示，沙烏地阿拉伯吉贊地區的危險已經解除。"
+    },
+    {
+      "id": "5150526",
+      "time": "2026-10-17 03:34:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：黑石私募信貸基金展望由正面調整為穩定。"
+    },
+    {
+      "id": "mkt:01a14635-1afd-7ee0-a8c5-6a7532e6c9ee",
+      "time": "2026-10-17 03:34:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi civil defense issued an early warning of potential danger in the Jizan region."
+    },
+    {
+      "id": "mkt:01a14634-ccd0-7ee0-a8c5-665563e779ab",
+      "time": "2026-10-17 03:33:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil jumps sharply on the 16th】NYMEX November light sweet crude futures rose $3.44 to $101.41 a barrel, up 3.51%. ICE Brent December futures rose $3.94 to $109.86 a barrel, up 3.72%."
+    },
+    {
+      "id": "mkt:01a14634-90cf-7ee0-a8c5-5aee66c03c8a",
+      "time": "2026-10-17 03:33:32",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "CFTC data: As of the week ended Oct. 13, speculative net short positions in CBOT US 2-year Treasury futures rose by 58,675 contracts to 911,579. Speculative net short positions in CBOT US 5-year Treasury futures fell by 83,327 contracts to 1,080,204."
+    },
+    {
+      "id": "5150525",
+      "time": "2026-10-17 03:33:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：洲際交易所棉花投機客在截至10月13日當週將淨多頭頭寸削減2,481手，至59,312手；洲際交易所（ICE）可可期貨投機者將淨空頭頭寸削減207手，至24,432手；洲際交易所糖業投機者在截至10月13日的一週內將淨多頭頭寸增加16,078手，至167,821手；洲際交易所（ICE）咖啡投機者淨空頭頭寸增加2536手，至3697手。"
+    },
+    {
+      "id": "mkt:01a14634-590a-7ee0-a8c5-51f3976614bd",
+      "time": "2026-10-17 03:33:18",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "CFTC: For the week to Oct 13, speculative net short positions in CBOT U.S. long-term Treasury futures rose 6,626 contracts to 126,438. Speculative net shorts in CBOT ultra-long Treasury futures increased 45,258 contracts to 321,597. Speculative net short positions in CBOT U.S. 10-year Treasury futures climbed 91,621 contracts to 988,102."
+    },
+    {
+      "id": "5150524",
+      "time": "2026-10-17 03:33:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯就吉贊可能存在的危險發出警告。"
+    },
+    {
+      "id": "5150523",
+      "time": "2026-10-17 03:33:06",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：CBOT大豆投機客在截至10月13日的一週內將淨多頭頭寸減少15,362手，至178,635手；CBOT 玉米投機基金在截至10月13日當週減持淨多頭合約71,762張，至114,542張；芝加哥期貨交易所小麥投機者在截至10月13日的一週內增加3507份淨空頭頭寸，至64692份。"
+    },
+    {
+      "id": "mkt:01a14633-b77f-7ee0-a8c5-4f429b524425",
+      "time": "2026-10-17 03:32:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "U.S. Commodity Futures Trading Commission (CFTC): week to Oct. 13, COMEX gold speculative net longs fell 3,741 contracts to 111,079; COMEX silver speculative net longs fell 1,874 contracts to 5,735; COMEX copper speculative net longs fell 295 contracts to 61,170."
+    },
+    {
+      "id": "5150522",
+      "time": "2026-10-17 03:32:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價16日顯著上漲】國際油價16日顯著上漲。截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格上漲3.44美元，收於每桶101.41美元，漲幅為3.51%；12月交貨的倫敦布倫特原油期貨價格上漲3.94美元，收於每桶109.86美元，漲幅為3.72%。"
+    },
+    {
+      "id": "mkt:01a14633-7168-7ee0-a8c5-42c7869514ca",
+      "time": "2026-10-17 03:32:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "CFTC: week ended Oct. 13 speculative funds cut net short position in CME S&P 500 futures by 5,804 contracts to 390,896 contracts."
+    },
+    {
+      "id": "mkt:01a14633-55a7-7ee0-a8c5-3c9573ab7899",
+      "time": "2026-10-17 03:32:11",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "CFTC data: For the week ended Oct. 13, equity fund managers increased net-long positions in CME S&P 500 futures by 8,186 contracts to 912,542 contracts."
+    },
+    {
+      "id": "5150521",
+      "time": "2026-10-17 03:31:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至10月13日當週，紐約商品交易所(NYMEX)和洲際交易所(ICE)四大市場的天然氣投機者將淨空頭頭寸削減11,698手，至100,137手。"
+    },
+    {
+      "id": "mkt:01a14633-1154-7ee0-a8c5-31fe98d1b092",
+      "time": "2026-10-17 03:31:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "EURUSD",
+        "GBPUSD"
+      ],
+      "text": "CFTC: For the week ended Oct. 13, yen net long 50,207 contracts; euro net short 137,573 contracts; pound net short 106,964 contracts; Swiss franc net short 22,078 contracts."
+    },
+    {
+      "id": "5150520",
+      "time": "2026-10-17 03:31:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至2026年10月13日當週，瑞士法郎淨空頭頭寸為-22,078份合約；英鎊淨空頭頭寸為-106,964份合約；日元淨多頭頭寸為50,207份合約；歐元淨空頭頭寸為-137,573份合約。"
+    },
+    {
+      "id": "5150518",
+      "time": "2026-10-17 03:30:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：股票基金經理在截至10月13日當週，將標普500 CME淨多頭頭寸增加8,186份合約，至912,542份。"
+    },
+    {
+      "id": "5150517",
+      "time": "2026-10-17 03:30:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：紐約商品交易所白銀投機者在截至10月13日當週將淨多頭頭寸減少1,874手，至5,735手。"
+    },
+    {
+      "id": "mkt:01a14631-f232-7ee0-a8c5-2cda4fd2043f",
+      "time": "2026-10-17 03:30:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "CFTC: For the week ended Oct. 13, speculative net long positions in WTI crude fell by 1,017 contracts to 110,619 contracts."
+    },
+    {
+      "id": "5150516",
+      "time": "2026-10-17 03:30:35",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至10月13日當週，COMEX黃金投機者將淨多頭頭寸減少3,741手，至111,079手。"
+    },
+    {
+      "id": "5150515",
+      "time": "2026-10-17 03:30:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：COMEX銅投機者在截至10月13日當週將淨多頭頭寸削減295手至61,170手。"
+    },
+    {
+      "id": "mkt:01a14631-cea1-7ee0-a8c5-27c628323fd6",
+      "time": "2026-10-17 03:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC: For the week to Oct. 13, speculative net short positions across the four major natural gas contracts on NYMEX and ICE fell by 11,698 contracts to 100,137 contracts."
+    },
+    {
+      "id": "5150514",
+      "time": "2026-10-17 03:30:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "CFTC：截至10月13日當週，投機者將CBOT美國國債期貨淨空頭頭寸增加6,626手，至126,438手。"
+    },
+    {
+      "id": "5150513",
+      "time": "2026-10-17 03:30:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至10月13日當週，投機者將CBOT美國超長期國債期貨淨空頭頭寸增加45,258手，至321,597手。"
+    },
+    {
+      "id": "5150512",
+      "time": "2026-10-17 03:30:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "商品期貨交易委員會（CFTC）：截至10月13日當週，投機者將CBOT美國2年期國債期貨淨空頭頭寸增加58,675手，至911,579手；將CBOT美國10年期國債期貨淨空頭頭寸增加91,621手，至988,102手。"
+    },
+    {
+      "id": "5150511",
+      "time": "2026-10-17 03:29:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國商品期貨交易委員會：截至10月13日當週，WTI原油投機者將WTI原油淨多頭頭寸削減1,017手，至110,619手。"
+    },
+    {
+      "id": "mkt:01a14631-4208-7ee0-a8c5-18246165c678",
+      "time": "2026-10-17 03:29:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Maduro's son says U.S. legal case against Maduro couple illegal, contrary to international law】Nicolas Maduro Guerra, a Venezuelan National Assembly deputy, posted a video on social media early on the 16th saying U.S. judicial proceedings against President Maduro and his wife are an illegal trial that violates all existing international law. Quoting Maduro’s remarks at a New York hearing on the 15th, he said the charges are the same as previously filed, false and contain no new allegations, and that Maduro is innocent. He said Venezuela will seek the couple’s release through diplomatic and dialogue channels."
+    },
+    {
+      "id": "5150510",
+      "time": "2026-10-17 03:29:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至10月13日當週，投機者將CBOT美國5年期國債期貨淨空頭頭寸減少83,327手，至1,080,204手。"
+    },
+    {
+      "id": "5150509",
+      "time": "2026-10-17 03:29:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：截至2026年10月13日當週，比特幣淨多頭頭寸為2534份合約。"
+    },
+    {
+      "id": "5150508",
+      "time": "2026-10-17 03:29:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "商品期貨交易委員會（CFTC）：截至10月13日當週，股票基金投機者將芝加哥商業交易所（CME）標普500指數期貨的淨空頭頭寸削減5,804手，至390,896手。"
+    },
+    {
+      "id": "5150507",
+      "time": "2026-10-17 03:28:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥大豆、豆粕期貨本週跌超2.4%】週五（10月16日）紐約尾盤，彭博穀物分類指數跌0.75%，報31.8469點，逼近8月13日最終報價31.3684點，北京時間23:43曾跌至31.7216點，逼近8月14日底部31.4586點，本週累計下跌1.84%。CBOT玉米期貨累跌1.15%，報4.7425美元/蒲式耳。CBOT小麥期貨累跌1.68%，報6.5975美元/蒲式耳。CBOT大豆期貨累跌2.44%，報12.6050美元/蒲式耳，10月14-16日持續下跌；豆粕期貨累跌2.43%，豆油期貨累跌1.35%。CBOT瘦肉豬期貨累跌1.40%，活牛期貨累漲0.62%，飼牛期貨累漲0.67%。"
+    },
+    {
+      "id": "5150506",
+      "time": "2026-10-17 03:27:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬杜羅之子：美方針對馬杜羅夫婦的司法程式非法】委內瑞拉總統馬杜羅之子格拉16日凌晨在社交媒體釋出影片稱，美方針對馬杜羅夫婦的司法程式是一場“非法”且“違背一切現有國際法”的審判。格拉是委內瑞拉全國代表大會議員，他援引馬杜羅15日在美國紐約出庭時的講話稱，“這不過是一堆之前就提出過的指控，全是虛假的指控，而且沒有新的內容”，馬杜羅是“無罪的”。委方將透過外交與對話途徑促成馬杜羅夫婦獲釋。（新華社）"
+    },
+    {
+      "id": "mkt:01a1462d-f37d-7ee0-a8c5-1681dacf9ed5",
+      "time": "2026-10-17 03:26:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China's first million-ton-scale low-concentration CCUS full-chain demonstration project starts construction】Construction has begun at Shengli Oilfield on China’s first million-ton-scale low-concentration CO2 capture, utilization and storage (CCUS) full-chain demonstration project. Once completed it will capture low-concentration flue gas from coal-fired power plants and route all CO2 to the oilfield for enhanced oil recovery (EOR) and permanent storage, offering a test case for large-scale decarbonization of coal power."
+    },
+    {
+      "id": "mkt:01a1462c-cbd9-7ee0-a8c5-0c7ee8320c17",
+      "time": "2026-10-17 03:25:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "【Gurman: Apple rushed iPhone Duo launch; adequate supply may not arrive until at least November】Technology reporter Mark Gurman said Apple (AAPL.O) appears to have rushed the iPhone Duo to hit an earlier release despite insufficient supply. He said Apple may not have broadly adequate inventory until at least November and has not disclosed whether physical stores will have units available on opening day; without that clarity many customers may queue and be left disappointed."
+    },
+    {
+      "id": "5150505",
+      "time": "2026-10-17 03:20:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首個百萬噸級低濃度CCUS全鏈條示範工程開工】記者從中國石化獲悉，我國首個百萬噸級低濃度二氧化碳捕集利用與封存全鏈條示範工程在勝利油田開工建設，專案建成後將可捕集利用燃煤電廠的低濃度煙氣，全部用於油田驅油與封存，為燃煤電廠規模化減碳探索新路。（央視新聞）"
+    },
+    {
+      "id": "5150504",
+      "time": "2026-10-17 03:19:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（10月16日）紐約尾盤，美元兌日元漲0.02%，報158.02日元，本週累計下跌0.18%，整體交投區間為158.95-157.55日元。歐元兌日元累漲0.12%，報177.56日元；英鎊兌日元累漲0.54%，報210.553日元；日元兌離岸人民幣累漲0.11%，報4.2319元。"
+    },
+    {
+      "id": "mkt:01a14627-4252-7ee0-a8c5-07f35ad8e340",
+      "time": "2026-10-17 03:19:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "IRNA said Iran-Russia gas agreement and interconnection of Caucasus energy networks were focal points at a Russian energy forum."
+    },
+    {
+      "id": "5150503",
+      "time": "2026-10-17 03:18:28",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛私人信貸公司：截至2026年9月30日，淨資產價值約94億美元。"
+    },
+    {
+      "id": "5150502",
+      "time": "2026-10-17 03:18:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯能源論壇重點討論伊朗-俄羅斯天然氣協議及高加索能源網路互聯問題。"
+    },
+    {
+      "id": "5150501",
+      "time": "2026-10-17 03:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "科技記者古爾曼：蘋果顯然是在供應有限的情況下過早推出了iPhone Duo，只是為了讓它更早上市。我認為他們知道最早也要到11月才會有合理的供應量。"
+    },
+    {
+      "id": "5150500",
+      "time": "2026-10-17 03:15:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "科技記者古爾曼：蘋果未透露其門店是否會在發售首日供貨iPhone Duo。如果蘋果不提前說明，可能會有很多人白排隊，最終感到不滿。"
+    },
+    {
+      "id": "5150499",
+      "time": "2026-10-17 03:14:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【肯亞確診第三例本迪布焦型埃博拉病例】肯亞衛生部16日確認該國新增一例本迪布焦型埃博拉病例，目前累計確診病例三例。肯亞衛生部當天釋出新聞公報說，第三例患者為65歲女性，是前兩例患者的近親屬及密切接觸者。該患者自6日起處於隔離觀察狀態，其間曾出現發熱、咽喉痛、全身不適等症狀，隨後接受單獨隔離和取樣送檢，檢測結果呈陽性。（新華社）"
+    },
+    {
+      "id": "mkt:01a14623-6c6e-7ee0-a8c4-fa152655a0d9",
+      "time": "2026-10-17 03:14:48",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index falls 0.21% to 101.837】Dollar index fell 0.21% to 101.837 at the New York close. EUR/USD 1.1233, up from 1.1212; GBP/USD 1.3319, up from 1.3272. USD/JPY 158.05, down from 158.14; USD/CHF 0.8242, down from 0.8271; USD/CAD 1.4153, down from 1.4190; USD/SEK 9.9192, down from 9.9597."
+    },
+    {
+      "id": "5150498",
+      "time": "2026-10-17 03:14:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數16日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.21%，在匯市尾市收於101.837。截至紐約匯市尾市，1歐元兌換1.1233美元，高於前一交易日的1.1212美元；1英鎊兌換1.3319美元，高於前一交易日的1.3272美元。1美元兌換158.05日元，低於前一交易日的158.14日元；1美元兌換0.8242瑞士法郎，低於前一交易日的0.8271瑞士法郎；1美元兌換1.4153加元，低於前一交易日的1.4190加元；1美元兌換9.9192瑞典克朗，低於前一交易日的9.9597瑞典克朗。"
+    },
+    {
+      "id": "5150497",
+      "time": "2026-10-17 03:14:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克：正在開發專用議價機器人 每年可為全球節省6萬億美元】馬斯克發文稱：我們正投入大量資源開發面向商業場景的專用議價機器人（Hagglebot），我們認為該產品能夠將企業成本效率提升 5% 乃至更高。如果放到全球 GDP 的維度測算，每年可節省的成本規模最高可達 6 萬億美元；凡是使用 Grok 的企業，都能獲得立即可量化的競爭優勢。"
+    },
+    {
+      "id": "5150496",
+      "time": "2026-10-17 03:13:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數本週跌約0.4%】週五（10月16日）紐約尾盤，ICE美元指數跌0.16%，報101.839點，10月14日達到102.945點（創2025年4月份以來最高位）之後，連續兩個交易日回撤，本週累計下跌0.37%，整體交投區間為102.945-101.576點，。彭博美元指數跌0.16%，報1222.54點，本週累跌0.28%，交投區間為1232.19-1219.59點。"
+    },
+    {
+      "id": "5150495",
+      "time": "2026-10-17 03:09:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行公佈延長債務期限的掉期操作結果。"
+    },
+    {
+      "id": "5150494",
+      "time": "2026-10-17 03:09:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cloudflare重組計劃在特拉華州新法的重要考驗中被叫停。"
+    },
+    {
+      "id": "5150493",
+      "time": "2026-10-17 03:07:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉盤中跌幅持續擴大，跌超3.5%。"
+    },
+    {
+      "id": "te:markets:592869",
+      "time": "2026-10-17 03:06:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Alphabet Shares Hit 5-week Low — Alphabet shares decreased to 335.50 USD, the lowest since September 2026. Over the past 4 weeks, Alphabet lost 3.37%, and in the last 12 months, it increased 32.5%."
+    },
+    {
+      "id": "5150492",
+      "time": "2026-10-17 03:06:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "軟銀ADR跌幅一度接近8%。訊息面上，公司正考慮收購美國最大安保服務公司Allied Universal，潛在交易對其股權估值最高可達180億美元。"
+    },
+    {
+      "id": "5150491",
+      "time": "2026-10-17 03:05:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.6870元，較週四夜盤收盤漲44點。成交量339.01億美元。"
+    },
+    {
+      "id": "5150490",
+      "time": "2026-10-17 03:05:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院駁回針對特斯拉自動駕駛宣傳的集體訴訟。"
+    },
+    {
+      "id": "mkt:01a1461a-c43c-7ee0-a8c4-f71ba8ef0678",
+      "time": "2026-10-17 03:05:21",
+      "tags": [
+        "MKT News",
+        "SFTBF",
+        "Impact bearish"
+      ],
+      "text": "【SoftBank weighing Allied Universal purchase in deal near $30 bln; ADRs drop ~8%】SoftBank Group is reportedly considering acquiring Allied Universal, the U.S.'s largest security services firm. The potential deal would value Allied at up to $18 bln equity and, including about $12 bln of debt, push enterprise value to roughly $30 bln. SoftBank ADRs fell as much as 8% on the report. Founder Masayoshi Son is said to seek broader deployment of AI robotics in security and could replace some human guards with robots. Discussions are at a preliminary stage and no final decision has been made."
+    },
+    {
+      "id": "5150489",
+      "time": "2026-10-17 03:05:03",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：2027年超大規模及新興雲廠商資料中心新增算力同比激增48%】摩根士丹利稱，2027 年，超大規模雲廠商與新興雲（neocloud）的資料中心新增算力規模將同比激增48%，達到32吉瓦（GW）。谷歌、亞馬遜、微軟、Meta 四大超大規模雲廠商貢獻約 85% 的新增建設量；2028 年將再新增 39 吉瓦，同比擴張 21%。"
+    },
+    {
+      "id": "mkt:01a14619-c3fa-7ee0-a8c4-ed3cce3664f8",
+      "time": "2026-10-17 03:04:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Explosion reported in Aden, Yemen】On the evening of the 16th local time, a large explosion was reported in Aden, Yemen; the blast is suspected to be from a Houthi missile strike."
+    },
+    {
+      "id": "5150488",
+      "time": "2026-10-17 03:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普沒有列出新聞秘書接替人選的候選名單。"
+    },
+    {
+      "id": "mkt:01a14618-f8b6-7ee0-a8c4-e3dea0d4801b",
+      "time": "2026-10-17 03:03:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Fox News reported Trump said he is not in a hurry to appoint a new White House press secretary."
+    },
+    {
+      "id": "5150487",
+      "time": "2026-10-17 03:02:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美司法部與蘋果協商反壟斷訴訟和解，應用開發商擔憂和解力度不足】據知情人士透露，在美國司法部就針對蘋果公司的反壟斷訴訟協商和解方案之際，應用開發商們擔憂，達成的任何和解協議，都不足以遏制在他們看來蘋果存在的反競爭行為。知情人士稱，包括貝寶（PayPal）與Epic Games在內的多家開發商，已就該訴訟潛在的和解結果，向司法部表達了自身顧慮。知情人士表示，司法部官員在和開發商溝通時釋放訊號，更傾向於以和解方式了結訴訟，而非繼續庭審抗辯。"
+    },
+    {
+      "id": "5150486",
+      "time": "2026-10-17 03:02:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱他“不急於”任命新的新聞秘書。"
+    },
+    {
+      "id": "5150485",
+      "time": "2026-10-17 03:00:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門亞丁傳出巨大爆炸聲】據總檯報道員訊息，當地時間16日晚間，葉門亞丁傳出巨大爆炸聲，疑似遭胡塞武裝導彈襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a1463f-07cf-7ee0-a8c5-94e7e9444427",
+      "time": "2026-10-17 03:00:47",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures closed the night session down 0.19% at 24,112, trading 75 points below the cash index."
+    },
+    {
+      "id": "5150484",
+      "time": "2026-10-17 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.20%，報24109.90點，低水76.93點。"
+    },
+    {
+      "id": "5150483",
+      "time": "2026-10-17 02:59:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Coinbase Global股價觸及盤中低點169.68美元，此前該公司表示使用者可能遇到延遲，最新下跌7.2%，報170.49美元。"
+    },
+    {
+      "id": "te:markets:592868",
+      "time": "2026-10-17 02:55:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Western Digital Shares Hit 27-week Low — Western Digital shares decreased to 335.99 USD, the lowest since April 2026. Over the past 4 weeks, Western Digital lost 20.68%, and in the last 12 months, it increased 166.41%."
+    },
+    {
+      "id": "mkt:01a1460f-ad56-7ee0-a8c4-dda902bb7953",
+      "time": "2026-10-17 02:53:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say SoftBank is considering acquiring Allied, the largest U.S. securities firm."
+    },
+    {
+      "id": "5150482",
+      "time": "2026-10-17 02:52:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀ADR跌幅迅速擴大至9.4%。"
+    },
+    {
+      "id": "mkt:01a1460e-7c57-7ee0-a8c4-d720dfb631a8",
+      "time": "2026-10-17 02:51:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $109.86/bbl, up $3.94 or 3.72%."
+    },
+    {
+      "id": "5150481",
+      "time": "2026-10-17 02:50:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "梅賽德斯-賓士美國：第三季度零售銷量總計85,800輛，增長3%，其中乘用車76,200輛，廂式車9,600輛。"
+    },
+    {
+      "id": "5150480",
+      "time": "2026-10-17 02:49:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "梅賽德斯-賓士美國：公佈第三季度乘用車銷量為76,200輛，較2025年第三季度增長4%。"
+    },
+    {
+      "id": "5150479",
+      "time": "2026-10-17 02:49:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "軟銀據悉考慮收購美國最大安保公司Allied。"
+    },
+    {
+      "id": "5150478",
+      "time": "2026-10-17 02:47:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國2026財年支付的債務淨利息創下1.05萬億美元的紀錄。"
+    },
+    {
+      "id": "mkt:01a14605-ab01-7ee0-a8c4-cc42ab9114cd",
+      "time": "2026-10-17 02:42:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House press secretary dismissed after one week in post】A White House official said on Oct. 16 the newly appointed press secretary, Katie Zakaria, has been dismissed after one week in the role."
+    },
+    {
+      "id": "mkt:01a14604-0f41-7ee0-a8c4-c7b030f8fc6d",
+      "time": "2026-10-17 02:40:33",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Houthi movement says Saudi-led coalition has launched nearly 2,500 strikes since latest escalation】On the evening of the 16th local time, Yemen’s Houthi movement said the Saudi-led coalition carried out 101 air and missile strikes in the past 24 hours on Sana'a and provinces including Dhale'a, Taiz, Hudaydah, Marib, Saada, Al Jawf, Amran and Lahj, causing civilian casualties including women and children. The Houthis said that since the latest round of fighting escalated the coalition has conducted 2,489 air and missile strikes on Houthi-controlled areas."
+    },
+    {
+      "id": "5150477",
+      "time": "2026-10-17 02:39:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【白宮新聞秘書上任一週被解職】美國白宮官員當地時間10月16日透露，新任白宮新聞秘書凱蒂·扎卡里亞實際上已被解職。稍早前，美國總統特朗普公開表示，他已告知扎卡里亞“重新考慮這份工作”。 特朗普當天在離開白宮時對記者說，“我告訴她：‘我覺得你還是開開心心比較好，但我不確定你幹這行能開心。這活兒一點都不輕鬆。如果我是你，我會重新考慮……好好想想。’”隨後，美國福克斯新聞臺援引一位白宮官員的話報道稱，扎卡里亞正在卸任新聞秘書一職。 上一任白宮新聞秘書萊維特8月底離職後，這一職位一直空缺。特朗普當地時間10月9日宣佈任命保守派評論員扎卡里亞出任白宮新聞秘書，並稱她是“一名律師”。 扎卡里亞此前是特朗普媒體科技集團旗下“真實社交”網站的高階通訊顧問，還曾任國土安全部發言人兼公共事務副助理部長，經常在福克斯新聞頻道等保守派媒體擔任評論員。 不過，扎卡里亞10月13日的首場白宮簡報會表現糟糕。 10月15日，她在接受採訪時還承認自己並未透過律師資格考試。（CCTV國際時訊）"
+    },
+    {
+      "id": "5150475",
+      "time": "2026-10-17 02:33:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "富國銀行在與前執行長斯隆的3400萬美元欠薪訴訟中勝訴。"
+    },
+    {
+      "id": "5150474",
+      "time": "2026-10-17 02:33:10",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "布倫特原油期貨自5月20日以來首次升至每桶110美元。"
+    },
+    {
+      "id": "5150473",
+      "time": "2026-10-17 02:32:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 11月原油期貨收報101.41美元/桶。NYMEX 11月天然氣期貨收報3.1160美元/百萬英熱單位。NYMEX 11月汽油期貨收報3.2354美元/加侖，NYMEX 11月取暖油期貨收報4.8991美元/加侖。"
+    },
+    {
+      "id": "mkt:01a145fb-b7a7-7ee0-a8c4-ba16df2386d2",
+      "time": "2026-10-17 02:31:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】As of the 02:30 close, Shanghai gold main contract fell 0.02% to 899 yuan/gram, Shanghai silver main contract fell 0.39% to 13,835 yuan/kg, and SC crude oil main contract rose 2.32% to 740 yuan/barrel."
+    },
+    {
+      "id": "mkt:01a145fb-833d-7ee0-a8c4-b1efda1b907e",
+      "time": "2026-10-17 02:31:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $101.41/bbl, up $3.44 (+3.51%)."
+    },
+    {
+      "id": "mkt:01a145fb-4c6d-7ee0-a8c4-a9e61b4c63c7",
+      "time": "2026-10-17 02:30:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.11% at 896.1 yuan/gram in the Oct. 16 evening session; silver T+D closed down 0.73% at 13,801.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:592867",
+      "time": "2026-10-17 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Depreciates by 2.49% — Top crypto losers are XRP (-2.49%), Ether (-1.13%) and Bitcoin (-1.05%)."
+    },
+    {
+      "id": "5150472",
+      "time": "2026-10-17 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.32%，報739.80元人民幣/桶。滬金夜盤收跌0.02%，滬銀收跌0.39%。"
+    },
+    {
+      "id": "te:markets:592866",
+      "time": "2026-10-17 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Coffee Rises by 3.65% — Top commodity gainers are Coffee (3.65%) and Palm Oil (1.74%). Biggest losers are Cocoa (-2.49%), Wheat (-1.57%) and Rubber (-1.51%)."
+    },
+    {
+      "id": "te:markets:592865",
+      "time": "2026-10-17 02:20:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silicon Gains by 2.65% — Top commodity gainers are Silicon (2.65%) and Platinum (0.70%). Biggest losers are Lithium Carbonate (-2.16%), Silver (-0.65%) and Gold (-0.19%)."
+    },
     {
       "id": "5150471",
       "time": "2026-10-17 02:18:56",
