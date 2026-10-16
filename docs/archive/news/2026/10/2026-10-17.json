@@ -1,7 +1,41 @@
 {
   "date": "2026-10-17",
-  "count": 426,
+  "count": 430,
   "items": [
+    {
+      "id": "mkt:01a14686-18c9-7ee0-a8c6-9397d1f64db4",
+      "time": "2026-10-17 05:02:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he may have been too tough on Iran's leaders and that now no one can talk to him."
+    },
+    {
+      "id": "5150616",
+      "time": "2026-10-17 05:01:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部將把空中交通管制員工資上調2.8%。"
+    },
+    {
+      "id": "5150615",
+      "time": "2026-10-17 05:01:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：他們的一舉一動我們都聽得到，他們說的每一句話我們也聽得到。這屬於機密資訊。我剛剛將其解密。"
+    },
+    {
+      "id": "5150614",
+      "time": "2026-10-17 04:59:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我可能對伊朗領導人做得太過火了。我沒有人可以談。"
+    },
     {
       "id": "te:markets:592876",
       "time": "2026-10-17 04:57:38",
