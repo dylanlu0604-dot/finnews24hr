@@ -1,7 +1,53 @@
 {
   "date": "2026-10-17",
-  "count": 170,
+  "count": 175,
   "items": [
+    {
+      "id": "5150456",
+      "time": "2026-10-17 01:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長：此外，10月14日發生的事件涉及油輪Yara J，該船載有9名船員，在羅馬尼亞蘇利納錨地遭無人機襲擊。"
+    },
+    {
+      "id": "5150455",
+      "time": "2026-10-17 01:44:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長：10月16日，載有15名印度海員的原油油輪MT ST 3在霍爾木茲海峽被一枚炮彈擊中。"
+    },
+    {
+      "id": "mkt:01a145cf-b032-7ee0-a8c3-ff1c82579a50",
+      "time": "2026-10-17 01:43:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said it is willing to assist in resolving the conflict between Saudi Arabia and Yemen's Houthi militants."
+    },
+    {
+      "id": "5150454",
+      "time": "2026-10-17 01:42:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大工業部長：加拿大正探索《加拿大投資法》下的所有選項，以考慮將Stelco國有化。"
+    },
+    {
+      "id": "5150453",
+      "time": "2026-10-17 01:41:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：願意幫助解決沙特和葉門之間的衝突。"
+    },
     {
       "id": "5150452",
       "time": "2026-10-17 01:40:28",

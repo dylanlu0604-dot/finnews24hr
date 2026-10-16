@@ -1,7 +1,53 @@
 {
-  "updated": "2026-10-17 01:41:41",
-  "count": 12867,
+  "updated": "2026-10-17 01:45:36",
+  "count": 12869,
   "items": [
+    {
+      "id": "5150456",
+      "time": "2026-10-17 01:45:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長：此外，10月14日發生的事件涉及油輪Yara J，該船載有9名船員，在羅馬尼亞蘇利納錨地遭無人機襲擊。"
+    },
+    {
+      "id": "5150455",
+      "time": "2026-10-17 01:44:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航運部長：10月16日，載有15名印度海員的原油油輪MT ST 3在霍爾木茲海峽被一枚炮彈擊中。"
+    },
+    {
+      "id": "mkt:01a145cf-b032-7ee0-a8c3-ff1c82579a50",
+      "time": "2026-10-17 01:43:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said it is willing to assist in resolving the conflict between Saudi Arabia and Yemen's Houthi militants."
+    },
+    {
+      "id": "5150454",
+      "time": "2026-10-17 01:42:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大工業部長：加拿大正探索《加拿大投資法》下的所有選項，以考慮將Stelco國有化。"
+    },
+    {
+      "id": "5150453",
+      "time": "2026-10-17 01:41:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：願意幫助解決沙特和葉門之間的衝突。"
+    },
     {
       "id": "5150452",
       "time": "2026-10-17 01:40:28",
@@ -117483,34 +117529,6 @@
         "其他"
       ],
       "text": "紐約聯儲10月9日接受常備回購操作投標10萬美元，投標總額10萬美元。"
-    },
-    {
-      "id": "5135583",
-      "time": "2026-10-10 01:43:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國土安全部：一名男子駕車撞上兩輛政府車輛後，涉事官員被解職。"
-    },
-    {
-      "id": "mkt:01a121c1-bdbe-7ee0-a81d-477af35debef",
-      "time": "2026-10-10 01:41:47",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Palestinian presidency asks UN Security Council to hold emergency meeting】On Oct 9 the Palestinian presidency instructed its foreign ministry and UN mission to request an emergency UN Security Council meeting, urging international intervention and concrete measures to stop escalating attacks by Israeli forces and settlers and to provide international protection for the Palestinian people."
-    },
-    {
-      "id": "5135582",
-      "time": "2026-10-10 01:41:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國土安全部：警員在布朗克斯槍擊事件中因擔心生命安全而開槍。"
     }
   ]
 }
