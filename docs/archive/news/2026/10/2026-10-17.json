@@ -1,7 +1,146 @@
 {
   "date": "2026-10-17",
-  "count": 382,
+  "count": 397,
   "items": [
+    {
+      "id": "5150593",
+      "time": "2026-10-17 04:36:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪關於埃及的報告：轉向靈活的匯率制度和更緊縮的貨幣政策增強了外部緩衝和經濟吸收衝擊的能力。"
+    },
+    {
+      "id": "te:economy:592874",
+      "time": "2026-10-17 04:36:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "US Budget Swings to Deficit in September — The US government recorded a $27 billion budget deficit in September 2026, reversing a $198 billion surplus a year earlier but coming in narrower than forecasts of a $29 billion shortfall. Government outlays rose to $585 billion from $346 billion, with Social Security ($141 billion), health ($100 billion), Medicare ($93 billion), and national defense ($89 billion) accounting for the largest expenditures. Meanwhile, government receipts increased to $558 billion from $544 billion. Individual income taxes ($298 billion), social insurance and retirement contributions ($149 billion), and corporate income taxes ($87 billion) were the largest sources of revenue. The cumulative deficit for fiscal year 2026 reached $1.992 trillion."
+    },
+    {
+      "id": "5150592",
+      "time": "2026-10-17 04:36:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級機構授予盧森堡數字債券AAA評級。"
+    },
+    {
+      "id": "mkt:01a1466d-a2d8-7ee0-a8c6-55d6ff3ea535",
+      "time": "2026-10-17 04:35:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moody's upgraded Egypt's sovereign rating to B3, citing fiscal consolidation and structural reforms."
+    },
+    {
+      "id": "mkt:01a1466d-7ff6-7ee0-a8c6-4a9a31c2b765",
+      "time": "2026-10-17 04:35:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "DBRS Morningstar confirmed Italy's sovereign credit rating at A (low) and maintained a stable rating trend."
+    },
+    {
+      "id": "5150591",
+      "time": "2026-10-17 04:35:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪：上調至B3評級是受埃及財政整頓和結構性改革推動。"
+    },
+    {
+      "id": "5150590",
+      "time": "2026-10-17 04:35:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司銷售主管布拉德·麥克馬倫將於12月退休，瑞安·韋爾將接任其職位。"
+    },
+    {
+      "id": "mkt:01a1466d-24a9-7ee0-a8c6-4220c9b13b8a",
+      "time": "2026-10-17 04:35:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Moody's upgraded Egypt's sovereign rating to B3 and maintained a positive outlook."
+    },
+    {
+      "id": "te:markets:592873",
+      "time": "2026-10-17 04:35:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.34% Lower — The Dow Jones Index fell 175 points or 0.34 percent on Friday to close at 52002 points. Leading the losses are Alphabet (-3.43%), Salesforce (-2.45%) and Cisco Systems (-2.22%). Top gainers were Chevron (2.58%), Coca-Cola (1.88%) and P&G (1.38%)."
+    },
+    {
+      "id": "5150589",
+      "time": "2026-10-17 04:35:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯Pamputa社群提議，從MMG Ltd.收購一個銅礦的部分權益。"
+    },
+    {
+      "id": "5150588",
+      "time": "2026-10-17 04:35:10",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【黃仁勳看淡AI板塊大跌：這一切都會過去】英偉達公司執行長黃仁勳對近期AI板塊股市大跌持樂觀態度，稱這項技術帶來的收益很快將蓋過投資者的擔憂情緒。黃仁勳在柏林一場活動上接受採訪時表示：“這一切終將過去，原因很簡單。人工智慧將帶來變革，會對每一個行業、每一個國家產生極為積極的影響。這一趨勢無疑會延續下去，而我們尚處在起步階段。”本週黃仁勳正在歐洲訪問，此番表態為本週晶片與AI基礎設施企業跌宕起伏的行情畫上註腳。備受關注的費城半導體指數已連續八個交易日下跌，創下2008年以來最長連跌紀錄。英偉達股價在過去八個交易日中有七日收跌。投資者擔憂，在借貸成本高企的環境下，AI領域的資本開支難以持續。即便如此，黃仁勳依舊看好AI市場及其對宏觀經濟的拉動作用。他認為，硬體大規模投資帶來的回報最終將平復市場恐慌情緒。“至於各類訊息，都是起伏不定的短期資訊。”他稱，“大家都知道訊息層出不窮，但不會改變基本面。”"
+    },
+    {
+      "id": "mkt:01a1466c-4ec5-7ee0-a8c6-3d16efcf8159",
+      "time": "2026-10-17 04:34:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said current AI market turbulence will pass."
+    },
+    {
+      "id": "5150587",
+      "time": "2026-10-17 04:33:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪將埃及的信用評級上調至B3，維持正面展望。"
+    },
+    {
+      "id": "5150586",
+      "time": "2026-10-17 04:33:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "提示：特朗普在佐治亞州的一次集會上發表講話。"
+    },
+    {
+      "id": "5150585",
+      "time": "2026-10-17 04:33:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尚比亞霍亂疫情致25人死亡 官方緊急啟動疫苗接種】尚比亞政府16日在首都盧薩卡緊急啟動口服霍亂疫苗接種工作，以應對近期該國多地暴發的霍亂疫情。據尚比亞衛生部最新通報，本輪疫情已造成25人死亡，確診病例達966例。本輪疫苗接種將優先覆蓋疫情最嚴重的盧薩卡地區及中央省奇邦博地區。第一階段將在這兩個地區分發至少50萬劑口服霍亂疫苗，後續還將向其他涉疫地區分發48萬劑疫苗。（新華社）"
+    },
     {
       "id": "5150584",
       "time": "2026-10-17 04:32:46",
