@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-17 05:11:32",
-  "count": 12817,
+  "updated": "2026-10-17 05:15:14",
+  "count": 12811,
   "items": [
+    {
+      "id": "mkt:01a1468f-aec7-7ee0-a8c6-acec89ebae60",
+      "time": "2026-10-17 05:13:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Report: Iran response to US ceasefire offer pending; pro‑Iran militias funnel funds to IRGC】Axios cites CENTCOM commander Cooper saying Hezbollah, Hamas and Iraqi Shia militias are routing funds back to Iran’s Islamic Revolutionary Guard Corps (IRGC). US officials told Axios Tehran has delayed paying wages, pensions and benefits to IRGC personnel and public-sector workers. To avoid escalation ahead of US midterms, the White House ordered a near-halt to US strikes on Iranian anti-ship missile and armed-drone launch sites near the Strait of Hormuz; US officials say the pause has increased Iran’s confidence to carry out attacks. The White House and Qatari mediators are awaiting Iran’s response to a US counterproposal to end the conflict, with regional mediators urging a prompt reply."
+    },
+    {
+      "id": "5150625",
+      "time": "2026-10-17 05:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國空中交通管制員協會（NATCA）表示，已與美國聯邦航空管理局（FAA）達成協議，符合條件的空中交通管制員將獲得2.8%的加薪，該加薪將於10月18日生效，並追溯至2026年第一個完整的薪資週期。"
+    },
     {
       "id": "mkt:01a1468d-d141-7ee0-a8c6-a6050213058f",
       "time": "2026-10-17 05:11:01",
@@ -116980,70 +117000,6 @@
         "國際"
       ],
       "text": "克里姆林宮助手烏沙科夫：特朗普在通話中熱情祝賀普京生日，祝願普京一切順利、身體健康。"
-    },
-    {
-      "id": "mkt:01a12285-1d24-7ee0-a820-cdf667a67780",
-      "time": "2026-10-10 05:15:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ushakov said President Putin and US President Trump discussed large-scale economic initiatives including Russian fuel supplies."
-    },
-    {
-      "id": "5135783",
-      "time": "2026-10-10 05:15:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：普京與特朗普討論了大規模經濟倡議，其中包括俄羅斯燃料供應問題。"
-    },
-    {
-      "id": "5135782",
-      "time": "2026-10-10 05:15:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：通話期間對烏克蘭問題解決程序投入了大量關注。"
-    },
-    {
-      "id": "5135781",
-      "time": "2026-10-10 05:14:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：普京告知特朗普，俄羅斯將考慮何時重啟和談。"
-    },
-    {
-      "id": "mkt:01a12284-d5d2-7ee0-a820-c0fd33e1b758",
-      "time": "2026-10-10 05:14:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ushakov said US President Trump phoned Russian President Putin to wish him a happy birthday."
-    },
-    {
-      "id": "5135780",
-      "time": "2026-10-10 05:14:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：普京與特朗普通話時長為一個半小時。"
-    },
-    {
-      "id": "5135779",
-      "time": "2026-10-10 05:14:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：特朗普歡迎俄羅斯參與伊朗問題解決。"
-    },
-    {
-      "id": "5135778",
-      "time": "2026-10-10 05:13:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者：澤連斯基說你因為與俄羅斯的石油協議而顯得軟弱。\n特朗普：誰說的？\n記者：澤連斯基。\n特朗普：好吧。"
     }
   ]
 }

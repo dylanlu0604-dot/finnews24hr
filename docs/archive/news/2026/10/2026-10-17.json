@@ -1,7 +1,27 @@
 {
   "date": "2026-10-17",
-  "count": 441,
+  "count": 443,
   "items": [
+    {
+      "id": "mkt:01a1468f-aec7-7ee0-a8c6-acec89ebae60",
+      "time": "2026-10-17 05:13:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Report: Iran response to US ceasefire offer pending; pro‑Iran militias funnel funds to IRGC】Axios cites CENTCOM commander Cooper saying Hezbollah, Hamas and Iraqi Shia militias are routing funds back to Iran’s Islamic Revolutionary Guard Corps (IRGC). US officials told Axios Tehran has delayed paying wages, pensions and benefits to IRGC personnel and public-sector workers. To avoid escalation ahead of US midterms, the White House ordered a near-halt to US strikes on Iranian anti-ship missile and armed-drone launch sites near the Strait of Hormuz; US officials say the pause has increased Iran’s confidence to carry out attacks. The White House and Qatari mediators are awaiting Iran’s response to a US counterproposal to end the conflict, with regional mediators urging a prompt reply."
+    },
+    {
+      "id": "5150625",
+      "time": "2026-10-17 05:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國空中交通管制員協會（NATCA）表示，已與美國聯邦航空管理局（FAA）達成協議，符合條件的空中交通管制員將獲得2.8%的加薪，該加薪將於10月18日生效，並追溯至2026年第一個完整的薪資週期。"
+    },
     {
       "id": "mkt:01a1468d-d141-7ee0-a8c6-a6050213058f",
       "time": "2026-10-17 05:11:01",
