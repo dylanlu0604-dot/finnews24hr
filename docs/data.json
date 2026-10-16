@@ -1,7 +1,121 @@
 {
-  "updated": "2026-10-16 21:36:15",
-  "count": 12929,
+  "updated": "2026-10-16 21:40:18",
+  "count": 12933,
   "items": [
+    {
+      "id": "mkt:01a144f0-2403-7ee0-a8bf-e96988930336",
+      "time": "2026-10-16 21:39:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【Bank of Italy raises growth forecasts, aligns with Meloni government】The Bank of Italy raised its 2026 growth forecast and said its outlook now matches the Meloni government. In its latest economic bulletin the central bank cited a smaller-than-expected hit from the Middle East crisis in H1, stronger-than-anticipated investment tied to digitalisation and the energy transition, and resilient summer tourism. It now expects working-day-adjusted GDP to expand 0.9% in 2026 (up from 0.5% in June); unadjusted growth could reach 1%, in line with the government's forecast. Planned defence and energy spending will support activity. Growth is projected at 0.7% in 2027 and 0.8% in 2028."
+    },
+    {
+      "id": "5150232",
+      "time": "2026-10-16 21:39:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "預測市場顯示，特斯拉與SpaceX在2027年初合併的機率超過50%。"
+    },
+    {
+      "id": "5150231",
+      "time": "2026-10-16 21:38:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CoreWeave股價暴跌暴露了人工智慧市場恐懼與貪婪之間的鴻溝 】由於對債券收益率上升和債務困境的擔憂，CoreWeave Inc. 的股價在本週前三個交易日暴跌了 20%。週四，英偉達執行長黃仁勳表達了對該公司的信心，德意志銀行也稱此次拋售是“買入良機”，隨後該股迎來反彈。儘管市場波動劇烈，但分析師認為，由於人工智慧計算服務的需求持續大於供給，CoreWeave的股價仍有強勁的上漲空間。德意志銀行分析師布拉德·澤爾尼克（Brad Zelnick）敦促投資者在股價完全反彈前搶購該股。"
+    },
+    {
+      "id": "5150230",
+      "time": "2026-10-16 21:38:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯指數觸及一個多月高點，最新上漲0.6%。"
+    },
+    {
+      "id": "mkt:01a144ef-0548-7ee0-a8bf-e04df17edc96",
+      "time": "2026-10-16 21:37:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "AI Revolution",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【BofA to sell up to four investment-grade tranches, max tenor 11 years】BofA has launched an investment-grade bond offering, marketing up to four tranches with tenors from about 3 to 11 years, a person familiar said. The longest tranche is initially priced at roughly 120 bps over US Treasuries. The rare Friday deal makes BofA the third major Wall Street bank this week to tap the volatile bond market after Q3 results; several issuers have delayed high-grade supply as stronger-than-expected inflation prints and concerns about AI-driven trading have roiled US Treasury yields. BofA has raised $17bn year-to-date, the least among the six largest US banks, and last issued debt in April when it raised $10bn."
+    },
+    {
+      "id": "5150229",
+      "time": "2026-10-16 21:37:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "Strategy股價下跌4%，此前MSCI警告其可能被移出全球指數。"
+    },
+    {
+      "id": "5150228",
+      "time": "2026-10-16 21:36:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "奈飛股價下跌1%；公司任命前迪士尼高管彼得·賴斯為新的內容主管。"
+    },
+    {
+      "id": "mkt:01a144ed-fccb-7ee0-a8bf-dfd632a8f3e6",
+      "time": "2026-10-16 21:36:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish"
+      ],
+      "text": "Dow Jones Industrial Average rose 0.6% to a more-than-one-month high."
+    },
+    {
+      "id": "5150227",
+      "time": "2026-10-16 21:36:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄副總理：俄柴油產能足以保障國內需求和出口供應】當地時間10月16日，俄羅斯副總理諾瓦克在接受媒體採訪時表示，儘管近期部分煉油廠遭到無人機襲擊，俄羅斯柴油生產能力仍足以保障國內市場需求和出口供應。諾瓦克表示，俄羅斯柴油產能約為國內需求的兩倍。煉油設施遭襲可能導致部分裝置停運，影響燃料產量。今年以來，由於部分產能處於維修狀態，柴油供應盈餘有所下降，但總體仍能夠滿足市場需求。俄方正透過加強防空系統、建設防護設施等措施，提高煉油廠抵禦無人機襲擊的能力。在談及對美國柴油出口問題時，諾瓦克表示，相關供應已獲得為期六個月的制裁豁免，租船、保險等問題不會構成供貨障礙。目前，供應商和採購商仍需完成合同簽署等商業程式。（央視新聞）"
+    },
+    {
+      "id": "5150226",
+      "time": "2026-10-16 21:36:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Citizens Financial股價上漲1.6%，此前公司公佈了第三季度業績。"
+    },
+    {
+      "id": "te:markets:592812",
+      "time": "2026-10-16 21:36:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Weighed by AI Infrastructure — US stock indices extended their divergence on Friday as markets reassessed risks in the AI trade ahead of likely rate hikes by the Federal Reserve. The S&P 500 and the Dow were marginally above the flatline, while the Nasdaq 100 dropped 0.5%. CoreWeave was nearly 7% lower, extending this week's losses to 18% to underscore fresh credit risk flare-ups for AI infrastructure companies. The sector was recently pressured by relatively tame revenue figures from Anthropic and the outlook for higher interest rates on debt-ridden companies. Data released this week showed higher consumer inflation and soaring producer prices, both headline and core. Micron, AMD, and Marvell fell by up to 3%. Meanwhile, Tesla rose 1% and SpaceX fell 3% after Tesla unveiled its Roadster car that uses SpaceX thrusters, spurring merger speculation between CEO Elon Musk's companies."
+    },
     {
       "id": "5150225",
       "time": "2026-10-16 21:35:16",
@@ -117857,73 +117971,6 @@
         "Impact bearish"
       ],
       "text": "【Slovakia says US understands need to keep importing Russian energy, seeks sanctions exemption through end-2027】Slovakia's Economy Minister Denisa Sakova said the US fully understands Bratislava's need to continue importing Russian oil and gas and accepts its timetable to diversify supplies. She said Slovakia still needs to import Russian oil next year and is seeking a US sanctions exemption to cover that period; under an EU-wide ban Slovakia must stop Russian gas imports by autumn 2027, and Sakova said the country needs the transition window through at least end-2027."
-    },
-    {
-      "id": "te:markets:590895",
-      "time": "2026-10-09 21:40:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.26% Higher — The Dow Jones Index is up by 135 points or 0.26 percent on Friday. Top gainers are UnitedHealth (3.57%), Amazon (1.62%) and Boeing (0.93%). Biggest losses came from Apple (-2.14%), 3M (-1.24%) and Home Depot (-1.03%)."
-    },
-    {
-      "id": "5135266",
-      "time": "2026-10-09 21:39:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "薩爾茨鋼鐵公司<SZGG.DE>股價漲幅擴大，目前上漲13%，有望創下自4月以來的最佳單日表現。"
-    },
-    {
-      "id": "5135265",
-      "time": "2026-10-09 21:38:22",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "達美航空下調全年利潤預測後，美國航空公司股價集體下跌。美聯航下跌1.7%，美國航空下跌1.4%，阿拉斯加航空下跌2%。"
-    },
-    {
-      "id": "5135264",
-      "time": "2026-10-09 21:37:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗革命衛隊：加劇地區海上運輸緊張局勢的責任在美軍】當地時間9日，伊朗伊斯蘭革命衛隊發表宣告稱，革命衛隊海軍官兵響應伊朗人民對霍爾木茲海峽主權的訴求，絕不允許任何侵略性軍隊駐紮於此，並將堅決打擊敵人破壞伊朗對該海峽管理的企圖。宣告表示，幾小時前，一艘名為“陽光號”的巨型液化石油氣運輸船，在試圖透過霍爾木茲海峽以南的非法航線時遭到襲擊，機艙和推進系統發生火災。（央視新聞）"
-    },
-    {
-      "id": "5135263",
-      "time": "2026-10-09 21:37:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Lumentum執行長表示公司AI伺服器部件已售罄至2029年，股價一度觸及紀錄高位，最新上漲7%。"
-    },
-    {
-      "id": "5135262",
-      "time": "2026-10-09 21:36:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【駭客利用AI無差別攻擊？日本羅森系統被黑致200萬使用者資訊外洩】日本便利店巨頭羅森10月8日釋出訊息稱，其會員賬號服務“Lawson ID”於9月中旬遭第三方非法訪問，導致包括郵件地址、姓名、性別、電話號碼及住址在內的使用者個人資訊外洩，涉及ID約215.5萬個。卡拉OK連鎖運營商第一興商也透露，因業務外包企業員工終端感染惡意軟體，旗下“BIG ECHO”“MEGA BIG”等門店會員的姓名、出生日期、郵件地址等資訊可能已外洩，總計約872萬條。遭遇洩露事件的企業還包括共享汽車服務“Times CAR”、軟銀子公司IDC Frontier等。有專家認為，攻擊方可能利用人工智慧（AI）對系統存在漏洞的物件進行了無差別攻擊。"
-    },
-    {
-      "id": "5135261",
-      "time": "2026-10-09 21:36:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "Alignment Healthcare股價跌至兩年多來低點，此前美國聯邦醫療保險和醫療補助服務中心公佈了2027年聯邦醫療保險優勢計劃評級，該股最新下跌24%。"
     }
   ]
 }
