@@ -1,7 +1,46 @@
 {
   "date": "2026-10-17",
-  "count": 157,
+  "count": 161,
   "items": [
+    {
+      "id": "mkt:01a145c1-177e-7ee0-a8c3-d4d65441274c",
+      "time": "2026-10-17 01:27:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "European Council President Costa said the EU needs to agree its long-term budget before year-end."
+    },
+    {
+      "id": "mkt:01a145c0-8cf5-7ee0-a8c3-cdcc5663691e",
+      "time": "2026-10-17 01:26:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported a White House official said Katie Zacharia is \"transitioning out\" as White House press secretary."
+    },
+    {
+      "id": "5150448",
+      "time": "2026-10-17 01:26:40",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗、美銀限制AI智慧體訪問賬戶，防範存款被自動劃轉流失】花旗集團與美國銀行成為最新一批限制AI智慧體訪問客戶賬戶的美國銀行。各大銀行向監管機構表達擔憂：AI智慧體可能為博取更高收益，劃轉閒置資金，造成存款流失。花旗表示，該行不允許“第三方AI智慧體或助手登入客戶賬戶，或在我們的數字銀行平臺內直接發起交易”，並稱此舉旨在保護客戶賬戶與資訊保安。"
+    },
+    {
+      "id": "5150447",
+      "time": "2026-10-17 01:26:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟理事會主席科斯塔：需在年底前就歐盟長期預算達成一致。"
+    },
     {
       "id": "5150446",
       "time": "2026-10-17 01:24:45",

@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-17 01:26:12",
-  "count": 12881,
+  "updated": "2026-10-17 01:30:07",
+  "count": 12879,
   "items": [
+    {
+      "id": "mkt:01a145c1-177e-7ee0-a8c3-d4d65441274c",
+      "time": "2026-10-17 01:27:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "European Council President Costa said the EU needs to agree its long-term budget before year-end."
+    },
+    {
+      "id": "mkt:01a145c0-8cf5-7ee0-a8c3-cdcc5663691e",
+      "time": "2026-10-17 01:26:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported a White House official said Katie Zacharia is \"transitioning out\" as White House press secretary."
+    },
+    {
+      "id": "5150448",
+      "time": "2026-10-17 01:26:40",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗、美銀限制AI智慧體訪問賬戶，防範存款被自動劃轉流失】花旗集團與美國銀行成為最新一批限制AI智慧體訪問客戶賬戶的美國銀行。各大銀行向監管機構表達擔憂：AI智慧體可能為博取更高收益，劃轉閒置資金，造成存款流失。花旗表示，該行不允許“第三方AI智慧體或助手登入客戶賬戶，或在我們的數字銀行平臺內直接發起交易”，並稱此舉旨在保護客戶賬戶與資訊保安。"
+    },
+    {
+      "id": "5150447",
+      "time": "2026-10-17 01:26:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟理事會主席科斯塔：需在年底前就歐盟長期預算達成一致。"
+    },
     {
       "id": "5150446",
       "time": "2026-10-17 01:24:45",
@@ -117596,64 +117635,6 @@
         "國際"
       ],
       "text": "特朗普在貿易談判中向墨西哥施壓，要求達成能源協議。"
-    },
-    {
-      "id": "mkt:01a121b5-b9e0-7ee0-a81d-090ab638ffd2",
-      "time": "2026-10-10 01:28:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Houthi military spokesman said Saudi warplanes and missiles carried out 77 air- and missile-strikes in the past 24 hours against civilian facilities in Sana'a and the provinces of Marib and Saada. F-15 and Typhoon fighters launched from KHAMIS MUSHAIT and Taif airbases, and missile strikes were fired from the NAJRAN direction. He said the total air and missile strikes since Saudi escalation now stands at 1,934."
-    },
-    {
-      "id": "5135566",
-      "time": "2026-10-10 01:27:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬斯談駐希臘大使：如果表現不佳，將承擔後果。"
-    },
-    {
-      "id": "5135565",
-      "time": "2026-10-10 01:27:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "胡塞武裝稱，過去24小時內，沙特戰機對首都薩那以及馬裡卜、薩達、焦夫、哈傑、塔伊茲和奧姆蘭等省份的民用設施實施了77次空襲和導彈襲擊，出動從哈立德國王和塔伊夫空軍基地起飛的F-15和颱風戰機，並從奈季蘭發動導彈襲擊。自對我方升級侵略以來，沙特侵略空襲和導彈襲擊總數已達1934次。"
-    },
-    {
-      "id": "mkt:01a121b4-3b36-7ee0-a81d-02dcab565d25",
-      "time": "2026-10-10 01:27:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EDF.PA",
-        "Impact bullish"
-      ],
-      "text": "EDF: €4 bln loan includes €1 bln to refinance investments tied to extending the operating life of existing French nuclear reactors."
-    },
-    {
-      "id": "5135564",
-      "time": "2026-10-10 01:26:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國總統特朗普擴大牛肉進口未能明顯壓低價格，引發牧場主不滿。"
-    },
-    {
-      "id": "mkt:01a121b3-8e7c-7ee0-a81c-faf54e76effb",
-      "time": "2026-10-10 01:26:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Montero, head of monetary policy at Peru's central bank, said El Nifio's impact on Peru is expected to persist through 1H 2027."
     }
   ]
 }
