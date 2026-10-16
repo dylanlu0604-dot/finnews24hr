@@ -1,7 +1,166 @@
 {
   "date": "2026-10-16",
-  "count": 1806,
+  "count": 1824,
   "items": [
+    {
+      "id": "mkt:01a143e8-877f-7ee0-a8b8-ec354627f2a2",
+      "time": "2026-10-16 16:51:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jiangsu to abolish fixed electricity prices for industrial and commercial users】The Jiangsu Electricity Trading Center issued the 2027 Jiangsu Electricity Retail Market Trading Work Guidelines, formally ending the long-running fixed-price retail model and moving the market to full wholesale-to-retail price transmission. The guidelines direct optimization of retail-tariff parameters and cancel requirements for fixed-price-volume ratios, spot-price-linked volume ratios and proportion-sharing methods. Retail pricing will be based on wholesale prices: retail customers and power retailers may agree floating prices and monthly cost-allocation coefficients tied to wholesale prices, with differentiation by time-of-use. The change removes the fixed-spread arbitrage basis for behind-the-meter industrial and commercial energy storage."
+    },
+    {
+      "id": "5149561",
+      "time": "2026-10-16 16:50:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯美控股：公司及相關股東收到5份立案告知書】聯美控股公告，公司及股東聯美集團有限公司、拉薩和泰裝修有限公司、瀋陽茵芙諾德科技有限公司、上海美季資訊科技有限公司於2026年10月16日分別收到中國證監會立案告知書，均因涉嫌未按規定報送有關報告或履行資訊披露義務被立案。經相關股東自查，調查涉及其相互之間可能存在一致行動關係；公司控制權穩定，經營管理及財務狀況正常，本次立案對公司生產經營無影響。"
+    },
+    {
+      "id": "5149560",
+      "time": "2026-10-16 16:50:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東魯花正誠供應鏈管理有限公司成立，註冊資本1億】天眼查App顯示，10月15日，山東魯花正誠供應鏈管理有限公司成立，法定代表人為孫建亮，註冊資本1億人民幣，經營範圍含國內貨物運輸代理、裝卸搬運、農副產品銷售、土石方工程施工、運輸貨物打包服務、道路貨物運輸站經營、國際貨物運輸代理等。股東資訊顯示，該公司由山東魯花集團股份有限公司全資持股。"
+    },
+    {
+      "id": "mkt:01a143e7-767e-7ee0-a8b8-e08658488b68",
+      "time": "2026-10-16 16:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "Euro area seasonally adjusted August trade balance and final September CPI (YoY, MoM) are due in 10 minutes."
+    },
+    {
+      "id": "mkt:01a143e7-176e-7ee0-a8b8-d819b53eedde",
+      "time": "2026-10-16 16:49:40",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "RBNZ chief economist says oil prices are a key variable in determining interest rates."
+    },
+    {
+      "id": "5149559",
+      "time": "2026-10-16 16:49:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【集泰股份：2026年第三季度淨利潤598.53萬元，同比增長49.99%】集泰股份公告，2026年第三季度營業收入3億元，同比增長2.39%；淨利潤598.53萬元，同比增長49.99%；扣非淨利潤406.24萬元，同比增長31.87%。2026年前三季度營業收入7.84億元，同比下降5.04%；淨利潤虧損768.17萬元，扣非淨利潤虧損1276.77萬元。"
+    },
+    {
+      "id": "5149558",
+      "time": "2026-10-16 16:49:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【永太科技：碳酸鋰期貨套保業務出現階段性虧損】永太科技公告稱，公司及子公司獲批開展商品期貨套期保值業務，保證金不超1億元，任一交易日最高合約價值不超最近一期經審計淨資產50%，額度有效期自2025年年度股東會審議透過之日起至2026年年度股東會召開之日止，可迴圈滾動使用。2026年1月1日至本公告披露前一交易日，公司碳酸鋰期貨套保已產生投資損益-153.37萬元，未平倉套保浮動虧損660.86萬元；其中2026年5月19日至本公告披露前一交易日，投資損益為-1767.05萬元。該事項不會對公司現金流及日常生產經營產生重大不利影響。"
+    },
+    {
+      "id": "mkt:01a143e6-fcae-7ee0-a8b8-d5781749daf2",
+      "time": "2026-10-16 16:49:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist said the central bank’s mission remains to restore inf to target."
+    },
+    {
+      "id": "mkt:01a143e6-e45a-7ee0-a8b8-cbb4e25801d9",
+      "time": "2026-10-16 16:49:27",
+      "tags": [
+        "MKT News",
+        "NZDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBNZ chief economist says rate hikes help contain spillovers from an energy shock."
+    },
+    {
+      "id": "5149557",
+      "time": "2026-10-16 16:49:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST四通：撤銷退市風險警示 10月19日停牌1天】*ST四通公告稱，上海證券交易所已於2026年10月16日同意公司撤銷退市風險警示。公司股票將於2026年10月19日停牌1天，10月20日復牌並撤銷退市風險警示，證券簡稱由“*ST四通”變更為“四通股份”，證券程式碼不變，日漲跌幅限制仍為10%。公司2025年實現營業收入3.56億元，同比增長24.96%；歸屬於母公司所有者的淨虧損8117.95萬元，扣非淨虧損9081.29萬元。"
+    },
+    {
+      "id": "5149556",
+      "time": "2026-10-16 16:49:21",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲康威表示，對通脹未廣泛擴散有相當信心。"
+    },
+    {
+      "id": "mkt:01a143e6-c4ea-7ee0-a8b8-c3a1c00b9730",
+      "time": "2026-10-16 16:49:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ chief economist said there is reasonable confidence that inf has not become broad-based."
+    },
+    {
+      "id": "5149553",
+      "time": "2026-10-16 16:49:09",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲康威：加息有助於遏制能源衝擊的溢位效應。"
+    },
+    {
+      "id": "5149552",
+      "time": "2026-10-16 16:49:01",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲官員康威：任務仍是讓通脹迴歸目標水平。"
+    },
+    {
+      "id": "5149551",
+      "time": "2026-10-16 16:48:57",
+      "tags": [
+        "央行"
+      ],
+      "text": "紐西蘭聯儲官員康威：油價是決定利率的關鍵變數之一。"
+    },
+    {
+      "id": "5149549",
+      "time": "2026-10-16 16:48:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海航科技：累計回購A股股份金額達6089.20萬元】海航科技公告稱，公司擬使用9000萬元-18000萬元自有資金或金融機構回購專項借款，以集中競價方式回購A股股份用於員工持股計劃或股權激勵，回購期限為2026年6月15日至2027年6月14日，回購價格上限因2025年度權益分派調整為不超過5.272元/股。截至目前，公司累計已回購股份2060.11萬股，佔總股本比例0.71%，累計回購金額6089.20萬元，實際回購價格區間為2.71元/股-3.32元/股。"
+    },
+    {
+      "id": "5149547",
+      "time": "2026-10-16 16:47:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永太科技：2026年第三季度淨利潤1.56億元，同比增長696.08%】永太科技公告，2026年第三季度營業收入23.28億元，同比增長64.07%；歸屬於上市公司股東的淨利潤1.56億元，同比增長696.08%；扣非淨利潤1.76億元，同比增長705.69%。2026年前三季度營業收入60.74億元，同比增長50.79%；歸屬於上市公司股東的淨利潤4.3億元，同比增長1,221.81%；扣非淨利潤4.25億元，同比增長6,572.64%。"
+    },
+    {
+      "id": "5149546",
+      "time": "2026-10-16 16:47:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "新臺幣兌美元本週累跌1.4%，創逾一年來最大周跌幅。"
+    },
     {
       "id": "5149545",
       "time": "2026-10-16 16:47:27",
