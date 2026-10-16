@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-17 04:37:40",
-  "count": 12811,
+  "updated": "2026-10-17 04:41:25",
+  "count": 12809,
   "items": [
+    {
+      "id": "5150598",
+      "time": "2026-10-17 04:40:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI新興市場股票指數漲0.8%，發展中國家外匯指數漲0.2%。"
+    },
+    {
+      "id": "5150597",
+      "time": "2026-10-17 04:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥物管理局（FDA）批准愛爾康（Alcon）的BRYTLY去紅血絲滴眼液，可使眼睛在長達12小時內看起來更白、更明亮。"
+    },
+    {
+      "id": "mkt:01a1466f-d6f3-7ee0-a8c6-5d5d2d79a406",
+      "time": "2026-10-17 04:38:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MOODY'S said that Egypt's move to a flexible exchange rate and tighter monetary policy has strengthened its external buffers and the economy's resilience to shocks."
+    },
+    {
+      "id": "5150596",
+      "time": "2026-10-17 04:38:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪：預計埃及政府將在2026年12月當前國際貨幣基金組織計劃結束後繼續推行財政整頓。"
+    },
+    {
+      "id": "5150595",
+      "time": "2026-10-17 04:37:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA任命Stephen Cash為馬歇爾太空飛行中心主管。"
+    },
+    {
+      "id": "5150594",
+      "time": "2026-10-17 04:37:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪對埃及的展望：由於債務和利息負擔的減輕速度可能快於我們的基準預期，因此前景樂觀。"
+    },
     {
       "id": "5150593",
       "time": "2026-10-17 04:36:43",
@@ -116939,75 +116987,6 @@
         "Emerging Markets"
       ],
       "text": "Moody's said the upgrade reflected continued improvement in Ghana's domestic financing conditions."
-    },
-    {
-      "id": "mkt:01a12266-20a4-7ee0-a820-5f488859d5fd",
-      "time": "2026-10-10 04:41:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Moody's upgraded Ghana's local-currency sovereign rating to Ba3 from B1 and its foreign-currency sovereign rating to B1 from B2."
-    },
-    {
-      "id": "5135760",
-      "time": "2026-10-10 04:40:46",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "烏克蘭外交部長：我們已準備好立即在能源領域實現停火，迫使莫斯科同意亦屬可能。"
-    },
-    {
-      "id": "5135759",
-      "time": "2026-10-10 04:40:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭外交部長：真正能夠有效降低油價的唯一辦法，就是達成能源領域的停火。"
-    },
-    {
-      "id": "5135758",
-      "time": "2026-10-10 04:40:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭外交部長：放鬆（對俄）制裁既無助於實現和平，也無益於全球市場。"
-    },
-    {
-      "id": "5135757",
-      "time": "2026-10-10 04:40:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮：普京與特朗普同意繼續保持個人溝通，並加強兩國情報機構與部門之間的合作。"
-    },
-    {
-      "id": "5135756",
-      "time": "2026-10-10 04:39:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：就在我們談論和平的此時此刻，美國卻在給俄羅斯出口柴油的機會。我不知道該怎麼說。我認為我們的團隊只是被當作擋箭牌。這絕對不公平。這絕對不像夥伴所為。"
-    },
-    {
-      "id": "te:markets:590960",
-      "time": "2026-10-10 04:39:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Gains on BoC Rate-Hold Bets — The S&P/TSX Composite Index rose 1.5% to close at 35,665 on Friday as weaker employment data reinforced expectations that the Bank of Canada will refrain from hiking rates. Employment fell by 68,300, missing expectations for a 7,000 increase. The unemployment rate edged up to 6.5%, in line with forecasts. Canadian yields fell, supporting credit-sensitive stocks. RBC rose 1.1%, TD gained 1.2%, BMO advanced 1.6%, and Scotiabank and CIBC added 1.3% each. Gold prices also advanced, lifting mining shares, with Agnico Eagle up 3.2% and Barrick and WPM gaining 2.9% each. Lundin surged 10.5% after its Fruta del Norte mine in Ecuador posted its strongest production quarter on record. Energy producers also gained despite volatile oil prices. Technology stocks advanced amid strength among US hyperscalers, with Shopify up 4.1%. Elsewhere, Aritzia surged 20.5% after beating expectations for second-quarter revenue and profit. The TSX rose 0.9% weekly."
-    },
-    {
-      "id": "5135755",
-      "time": "2026-10-10 04:38:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪：將迦納外幣高階無擔保債務評級從CAA1上調至B3。"
     }
   ]
 }

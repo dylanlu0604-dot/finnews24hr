@@ -1,7 +1,55 @@
 {
   "date": "2026-10-17",
-  "count": 397,
+  "count": 403,
   "items": [
+    {
+      "id": "5150598",
+      "time": "2026-10-17 04:40:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI新興市場股票指數漲0.8%，發展中國家外匯指數漲0.2%。"
+    },
+    {
+      "id": "5150597",
+      "time": "2026-10-17 04:38:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥物管理局（FDA）批准愛爾康（Alcon）的BRYTLY去紅血絲滴眼液，可使眼睛在長達12小時內看起來更白、更明亮。"
+    },
+    {
+      "id": "mkt:01a1466f-d6f3-7ee0-a8c6-5d5d2d79a406",
+      "time": "2026-10-17 04:38:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MOODY'S said that Egypt's move to a flexible exchange rate and tighter monetary policy has strengthened its external buffers and the economy's resilience to shocks."
+    },
+    {
+      "id": "5150596",
+      "time": "2026-10-17 04:38:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪：預計埃及政府將在2026年12月當前國際貨幣基金組織計劃結束後繼續推行財政整頓。"
+    },
+    {
+      "id": "5150595",
+      "time": "2026-10-17 04:37:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "NASA任命Stephen Cash為馬歇爾太空飛行中心主管。"
+    },
+    {
+      "id": "5150594",
+      "time": "2026-10-17 04:37:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "穆迪對埃及的展望：由於債務和利息負擔的減輕速度可能快於我們的基準預期，因此前景樂觀。"
+    },
     {
       "id": "5150593",
       "time": "2026-10-17 04:36:43",
