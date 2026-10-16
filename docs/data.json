@@ -1,7 +1,64 @@
 {
-  "updated": "2026-10-17 04:48:56",
-  "count": 12811,
+  "updated": "2026-10-17 04:52:41",
+  "count": 12815,
   "items": [
+    {
+      "id": "5150607",
+      "time": "2026-10-17 04:50:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "宣告稱， 美墨這一決定再次開啟了從墨西哥城國際機場（AICM）和費利佩·安赫萊斯國際機場（AIFA）這兩個機場開闢通往美國市場的航線和增加航班頻次的可能性。"
+    },
+    {
+      "id": "5150606",
+      "time": "2026-10-17 04:50:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國空中交通管制員與聯邦航空管理局達成協議，將加薪2.8%。"
+    },
+    {
+      "id": "5150605",
+      "time": "2026-10-17 04:50:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局與空中交通管制員就薪酬達成協議。"
+    },
+    {
+      "id": "5150604",
+      "time": "2026-10-17 04:50:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通公司執行長克里斯蒂亞諾・阿蒙 (Cristiano Amon) 購入 10,821 股公司股票。"
+    },
+    {
+      "id": "5150603",
+      "time": "2026-10-17 04:49:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普在佐治亞州的演講中再度提起萊肯・萊利遇害案，直接指責民主黨移民政策。"
+    },
+    {
+      "id": "mkt:01a1467a-2d24-7ee0-a8c6-78dcb7c688e7",
+      "time": "2026-10-17 04:49:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. authorities have lifted restrictions, permitting Mexican carriers to launch new routes from two Mexico City international airports to the United States, a joint statement said."
+    },
+    {
+      "id": "5150602",
+      "time": "2026-10-17 04:48:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "聯合宣告稱，美國當局解除了限制墨西哥航空公司從墨西哥首都的兩個國際機場開通飛往美國的新航班的限制。"
+    },
     {
       "id": "mkt:01a14679-22b9-7ee0-a8c6-743cdd7fc261",
       "time": "2026-10-17 04:48:26",
@@ -116982,35 +117039,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Hits Record High on Election Polls — The Ibovespa rose 1.4% to close at a record 209,067 on Friday as the first voting-intention polls released after the first round confirmed Flávio Bolsonaro’s lead over President Lula in the runoff. Markets view Bolsonaro as more fiscally restrictive, strengthening expectations that a potential administration could tighten control over public spending and improve Brazil’s fiscal position. The race remains tight, with some polls showing a statistical tie. Financial stocks were mostly higher, with Itaú up 2.3%, BB and Itaúsa gaining 1.6% each, and B3 advancing 2.5%. Petrobras rose 0.9% despite volatile oil prices. Vale turned positive late in the session, closing up 0.38% in a narrow range after iron ore prices hit multi-month lows. Retailers posted sharp gains as yields fell following the polls, despite rising inflation and a reading above the upper limit of the BCB’s target range. Magazine Luiza soared 19.2%. The Ibovespa gained 8.82% this week, its strongest weekly performance of 2026."
-    },
-    {
-      "id": "mkt:01a1226f-7ead-7ee0-a820-85a0c6cbd372",
-      "time": "2026-10-10 04:51:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reported Ukrainian President Zelenskiy said Trump's diesel deal with Putin is \"neither fair nor honest\"."
-    },
-    {
-      "id": "mkt:01a1226d-efed-7ee0-a820-7a1ce80c90a6",
-      "time": "2026-10-10 04:49:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Multiple aftershocks hit Panama, one reaches magnitude 6】On the 9th Panama experienced multiple aftershocks following a major quake, including one measuring magnitude 6. Local authorities are assessing the damage."
-    },
-    {
-      "id": "mkt:01a1226d-5044-7ee0-a820-7488f9404048",
-      "time": "2026-10-10 04:49:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Russia willing to supply oil, oil products to US and global markets; Novak signals diesel boost to US in October】In a phone call with US President Trump, President Putin said Russia is willing to supply oil and oil products to the United States and global markets, saying such shipments would have a positive effect on the global economy. Deputy Prime Minister Novak said Russia is willing to increase diesel shipments to the US in October and could further raise diesel exports in November and December as refineries complete maintenance."
     }
   ]
 }
