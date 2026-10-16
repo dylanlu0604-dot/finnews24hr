@@ -1,7 +1,51 @@
 {
-  "updated": "2026-10-17 05:07:48",
-  "count": 12823,
+  "updated": "2026-10-17 05:11:32",
+  "count": 12817,
   "items": [
+    {
+      "id": "mkt:01a1468d-d141-7ee0-a8c6-a6050213058f",
+      "time": "2026-10-17 05:11:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Europeans wanted Greenland and knew at the time that he was right."
+    },
+    {
+      "id": "mkt:01a1468d-36b8-7ee0-a8c6-98a0a55840ba",
+      "time": "2026-10-17 05:10:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said on the Iran hostilities, 'This is just a military exercise, understand?.'"
+    },
+    {
+      "id": "5150624",
+      "time": "2026-10-17 05:09:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "警方稱美國俄勒岡州校園槍擊案嫌犯共發射了多達15發子彈。"
+    },
+    {
+      "id": "5150623",
+      "time": "2026-10-17 05:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽就喀麥隆評級表示：中非經濟和貨幣共同體（CEMAC）市場的緊縮加劇了融資壓力，對外部商業借貸的依賴程度也進一步加深。"
+    },
+    {
+      "id": "te:economy:592879",
+      "time": "2026-10-17 05:07:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Capital Flows",
+        "Importance 1"
+      ],
+      "text": "US Records Net TIC Inflow in August — The US recorded a net Treasury International Capital (TIC) inflow of $199.8 billion in August 2026, reflecting foreign acquisitions of long-term and short-term US securities, as well as banking flows. Net foreign private inflows totaled $178.5 billion, while net foreign official inflows reached $21.3 billion. Foreign residents made $300.7 billion in net purchases of long-term US securities, including $257.8 billion by private investors and $42.9 billion by official institutions. In contrast, foreign residents reduced their holdings of US Treasury bills by $47.8 billion. Holdings of other dollar-denominated short-term US securities and custody liabilities declined by a combined $37.8 billion. Meanwhile, banks’ net dollar-denominated liabilities to foreign residents fell by $41.6 billion."
+    },
     {
       "id": "5150622",
       "time": "2026-10-17 05:07:22",
@@ -117000,99 +117044,6 @@
         "國際"
       ],
       "text": "記者：澤連斯基說你因為與俄羅斯的石油協議而顯得軟弱。\n特朗普：誰說的？\n記者：澤連斯基。\n特朗普：好吧。"
-    },
-    {
-      "id": "mkt:01a12281-b8af-7ee0-a820-b8efe09a2083",
-      "time": "2026-10-10 05:11:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Trump says action against Iran before the midterm elections is possible."
-    },
-    {
-      "id": "5135777",
-      "time": "2026-10-10 05:11:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與俄羅斯達成的協議涉及柴油，這正是我們想要的。"
-    },
-    {
-      "id": "mkt:01a12280-c404-7ee0-a820-b44a5eed7776",
-      "time": "2026-10-10 05:10:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he fully supports live-broadcasting the execution of the Fort Hood shooter."
-    },
-    {
-      "id": "5135776",
-      "time": "2026-10-10 05:10:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：世界需要石油，油價正在大幅下跌。"
-    },
-    {
-      "id": "mkt:01a12280-7670-7ee0-a820-afe643060af8",
-      "time": "2026-10-10 05:10:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he was displeased by the attack on Saudi Arabia."
-    },
-    {
-      "id": "5135775",
-      "time": "2026-10-10 05:09:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我要感謝普京。"
-    },
-    {
-      "id": "5135774",
-      "time": "2026-10-10 05:09:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與俄羅斯的石油交易規模巨大，鉅額資金即將到位。"
-    },
-    {
-      "id": "5135773",
-      "time": "2026-10-10 05:09:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談中期選舉前對伊朗採取行動：有可能。"
-    },
-    {
-      "id": "5135772",
-      "time": "2026-10-10 05:09:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沙烏地阿拉伯機場遇襲“並非好事”。"
-    },
-    {
-      "id": "5135771",
-      "time": "2026-10-10 05:09:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對沙烏地阿拉伯機場遇襲事件感到不滿。"
-    },
-    {
-      "id": "mkt:01a1227e-d040-7ee0-a820-a3bc5243a859",
-      "time": "2026-10-10 05:08:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he had just heard some news about the U.S. ambassador to Greece."
     }
   ]
 }

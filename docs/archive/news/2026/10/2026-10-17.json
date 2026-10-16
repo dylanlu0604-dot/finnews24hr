@@ -1,7 +1,51 @@
 {
   "date": "2026-10-17",
-  "count": 436,
+  "count": 441,
   "items": [
+    {
+      "id": "mkt:01a1468d-d141-7ee0-a8c6-a6050213058f",
+      "time": "2026-10-17 05:11:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Europeans wanted Greenland and knew at the time that he was right."
+    },
+    {
+      "id": "mkt:01a1468d-36b8-7ee0-a8c6-98a0a55840ba",
+      "time": "2026-10-17 05:10:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said on the Iran hostilities, 'This is just a military exercise, understand?.'"
+    },
+    {
+      "id": "5150624",
+      "time": "2026-10-17 05:09:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "警方稱美國俄勒岡州校園槍擊案嫌犯共發射了多達15發子彈。"
+    },
+    {
+      "id": "5150623",
+      "time": "2026-10-17 05:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽就喀麥隆評級表示：中非經濟和貨幣共同體（CEMAC）市場的緊縮加劇了融資壓力，對外部商業借貸的依賴程度也進一步加深。"
+    },
+    {
+      "id": "te:economy:592879",
+      "time": "2026-10-17 05:07:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Capital Flows",
+        "Importance 1"
+      ],
+      "text": "US Records Net TIC Inflow in August — The US recorded a net Treasury International Capital (TIC) inflow of $199.8 billion in August 2026, reflecting foreign acquisitions of long-term and short-term US securities, as well as banking flows. Net foreign private inflows totaled $178.5 billion, while net foreign official inflows reached $21.3 billion. Foreign residents made $300.7 billion in net purchases of long-term US securities, including $257.8 billion by private investors and $42.9 billion by official institutions. In contrast, foreign residents reduced their holdings of US Treasury bills by $47.8 billion. Holdings of other dollar-denominated short-term US securities and custody liabilities declined by a combined $37.8 billion. Meanwhile, banks’ net dollar-denominated liabilities to foreign residents fell by $41.6 billion."
+    },
     {
       "id": "5150622",
       "time": "2026-10-17 05:07:22",
