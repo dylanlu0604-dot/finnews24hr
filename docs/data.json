@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-17 01:45:36",
-  "count": 12869,
+  "updated": "2026-10-17 01:49:27",
+  "count": 12865,
   "items": [
+    {
+      "id": "mkt:01a145d1-da9a-7ee0-a8c4-0c0b7923d1a2",
+      "time": "2026-10-17 01:45:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India’s shipping minister said all 24 Indian nationals aboard two vessels are safe and there are no casualties."
+    },
+    {
+      "id": "mkt:01a145d1-cbfb-7ee0-a8c4-041b11593a72",
+      "time": "2026-10-17 01:45:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's shipping minister said the Oct. 14 incident involved the tanker Yara J, carrying nine crew, which was struck by a drone at the Sulina anchorage in Romania."
+    },
     {
       "id": "5150456",
       "time": "2026-10-17 01:45:01",
@@ -117478,57 +117494,6 @@
         "國際"
       ],
       "text": "美國市政債券收益率創逾一年來最大盤中漲幅。"
-    },
-    {
-      "id": "5135588",
-      "time": "2026-10-10 01:49:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "ICE布倫特原油投機者截至10月6日當週將淨多頭頭寸削減3250份合約，至201052份合約。"
-    },
-    {
-      "id": "5135587",
-      "time": "2026-10-10 01:49:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "截至10月6日當週，ICE柴油投機者淨多頭頭寸減少3696手，至70157手。"
-    },
-    {
-      "id": "5135586",
-      "time": "2026-10-10 01:48:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "上海市預警釋出中心：奉賢區氣象臺2026年10月10日01時30分發布大霧黃色預警訊號：預計今天上午以前，本區大部地區將出現能見度小於500米的霧，區域性地區能見度小於200米，請注意防範低能見度對道路交通的不利影響。"
-    },
-    {
-      "id": "mkt:01a121c7-69df-7ee0-a81d-4888590a2f77",
-      "time": "2026-10-10 01:47:59",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "Venezuela granted SpaceX (SPCX.O) a license to operate satellite internet services."
-    },
-    {
-      "id": "5135585",
-      "time": "2026-10-10 01:46:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉授予SpaceX衛星網際網路特許權。"
-    },
-    {
-      "id": "5135584",
-      "time": "2026-10-10 01:45:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲10月9日接受常備回購操作投標10萬美元，投標總額10萬美元。"
     }
   ]
 }

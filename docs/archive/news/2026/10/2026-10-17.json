@@ -1,7 +1,23 @@
 {
   "date": "2026-10-17",
-  "count": 175,
+  "count": 177,
   "items": [
+    {
+      "id": "mkt:01a145d1-da9a-7ee0-a8c4-0c0b7923d1a2",
+      "time": "2026-10-17 01:45:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India’s shipping minister said all 24 Indian nationals aboard two vessels are safe and there are no casualties."
+    },
+    {
+      "id": "mkt:01a145d1-cbfb-7ee0-a8c4-041b11593a72",
+      "time": "2026-10-17 01:45:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's shipping minister said the Oct. 14 incident involved the tanker Yara J, carrying nine crew, which was struck by a drone at the Sulina anchorage in Romania."
+    },
     {
       "id": "5150456",
       "time": "2026-10-17 01:45:01",
