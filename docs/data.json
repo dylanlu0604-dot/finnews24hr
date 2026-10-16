@@ -1,7 +1,136 @@
 {
-  "updated": "2026-10-17 04:03:44",
-  "count": 12801,
+  "updated": "2026-10-17 04:07:30",
+  "count": 12802,
   "items": [
+    {
+      "id": "5150563",
+      "time": "2026-10-17 04:06:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：鑑於增長潛力改善，多哥展望被上調至正面；“B+/B”評級得到確認。"
+    },
+    {
+      "id": "mkt:01a14653-1a98-7ee0-a8c6-044241e560ea",
+      "time": "2026-10-17 04:06:53",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "S&P says the Netherlands is affected by global trade conditions but shows resilience to the economic impact of the Middle East conflict."
+    },
+    {
+      "id": "5150562",
+      "time": "2026-10-17 04:06:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局釋出紐瓦克機場抵達航班地面延誤計劃。"
+    },
+    {
+      "id": "5150561",
+      "time": "2026-10-17 04:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將多哥評級展望上調至正面；維持“B+/B”評級。"
+    },
+    {
+      "id": "5150560",
+      "time": "2026-10-17 04:05:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電話電報公司（AT&T）：洛裡·M·李將於2026年12月31日卸任全球營銷主管一職、"
+    },
+    {
+      "id": "mkt:01a14651-c457-7ee0-a8c5-fe4c388bf836",
+      "time": "2026-10-17 04:05:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "S&P expects Netherlands' GDP growth to moderate through 2027 because oil and gas prices are not expected to begin easing until 2027."
+    },
+    {
+      "id": "mkt:01a14651-6716-7ee0-a8c5-f5385e4c569d",
+      "time": "2026-10-17 04:05:02",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "S&P affirms Netherlands' 'AAA/A-1+' ratings; outlook stable."
+    },
+    {
+      "id": "5150559",
+      "time": "2026-10-17 04:04:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：荷蘭易受全球貿易形勢影響，但對中東衝突的經濟影響已展現出韌性。預計到2027年GDP增速將小幅放緩，因為石油和天然氣價格要到2027年才會開始回落。"
+    },
+    {
+      "id": "5150558",
+      "time": "2026-10-17 04:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認貝南評級為BB-，展望穩定。"
+    },
+    {
+      "id": "5150557",
+      "time": "2026-10-17 04:03:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克指數創下自截至6月26日當週以來的最大周百分比跌幅。"
+    },
+    {
+      "id": "mkt:01a14650-40e3-7ee0-a8c5-eba169433a26",
+      "time": "2026-10-17 04:03:46",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities closed lower on Friday, Oct 16: Dow Jones Industrial Average down 175.99 pts (-0.34%) at 52,001.70; S&P 500 down 84.64 pts (-1.09%) at 7,659.42; Nasdaq Composite down 572.99 pts (-2.14%) at 26,140.03."
+    },
+    {
+      "id": "5150556",
+      "time": "2026-10-17 04:03:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週，標普500指數非官方下跌1.95%，納斯達克指數下跌4.48%，道瓊斯指數上漲0.67%。"
+    },
+    {
+      "id": "5150555",
+      "time": "2026-10-17 04:03:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯指數連續第二週上漲，為8月初以來首次。納斯達克指數創下7月23日以來最大單日百分比跌幅。"
+    },
+    {
+      "id": "5150554",
+      "time": "2026-10-17 04:03:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認荷蘭“AAA/A-1+”評級；展望穩定。"
+    },
     {
       "id": "5150553",
       "time": "2026-10-17 04:02:03",
@@ -116819,149 +116948,6 @@
         "其他"
       ],
       "text": "標普：支出計劃必須與收入限制相平衡，英國稅負過高可能抑制GDP增長。"
-    },
-    {
-      "id": "mkt:01a12247-1330-7ee0-a81f-cf172a09c49f",
-      "time": "2026-10-10 04:07:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "GBPUSD",
-        "Impact bullish",
-        "WTI",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "S&P said Middle East conflict-driven rises in oil, gas and other input costs, including fertilizer, will affect UK inflation and interest rates."
-    },
-    {
-      "id": "mkt:01a12246-fa8c-7ee0-a81f-c57baf8b9a57",
-      "time": "2026-10-10 04:07:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100"
-      ],
-      "text": "S&P says UK Labour holds a majority of seats and, barring unforeseen events, should remain in government until the next scheduled election in 2029."
-    },
-    {
-      "id": "5135736",
-      "time": "2026-10-10 04:07:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普就英國表示：與中東衝突相關的石油、天然氣及其他投入品（如化肥）價格正在影響通脹和利率。"
-    },
-    {
-      "id": "5135735",
-      "time": "2026-10-10 04:07:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普就英國表示：工黨擁有多數席位，除非發生意外事件，否則應能使其執政至2029年下屆大選。"
-    },
-    {
-      "id": "5135734",
-      "time": "2026-10-10 04:06:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普：穩定展望反映出我們認為，英國經濟面對源自中東衝突的能源衝擊仍將保持韌性。"
-    },
-    {
-      "id": "mkt:01a12245-f803-7ee0-a81f-bf7f18eab5d4",
-      "time": "2026-10-10 04:06:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P says UK high-carbon hydrocarbon prices have been affecting inflation and expects the Bank of England to raise its policy rate by 25bps at end-2026."
-    },
-    {
-      "id": "5135733",
-      "time": "2026-10-10 04:06:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：基於英國上半年好於預期的表現，我們將2026年實際GDP增長預期上調至1.3%。"
-    },
-    {
-      "id": "mkt:01a12245-68c4-7ee0-a81f-b4df5470ab7a",
-      "time": "2026-10-10 04:05:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "S&P says the stable outlook reflects its view that the UK economy will remain resilient to an energy shock from the Middle East conflict."
-    },
-    {
-      "id": "mkt:01a12244-faad-7ee0-a81f-ad83ea5f763e",
-      "time": "2026-10-10 04:05:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "S&P affirmed the United Kingdom's sovereign ratings at 'AA/A-1+'; outlook stable."
-    },
-    {
-      "id": "5135732",
-      "time": "2026-10-10 04:04:59",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "標普對英國的評估：高油價持續影響通脹，預計英國央行將在2026年末加息25個基點。"
-    },
-    {
-      "id": "mkt:01a12244-8632-7ee0-a81f-a63fac5a165e",
-      "time": "2026-10-10 04:04:38",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. stocks closed higher on Friday Oct. 9: the Dow Jones Industrial Average rose 423.31 points (0.83%) to 51,654.95; the S&P 500 gained 46.15 points (0.59%) to 7,811.51; the Nasdaq Composite added 172.83 points (0.64%) to 27,366.17."
-    },
-    {
-      "id": "5135731",
-      "time": "2026-10-10 04:04:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：美俄就柴油達成的協議是強大夥伴做出的“軟弱決定”。"
-    },
-    {
-      "id": "mkt:01a12244-61f3-7ee0-a81f-9ffbef3ae0c8",
-      "time": "2026-10-10 04:04:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Tesla",
-        "Microsoft",
-        "Amazon",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "Magnificent 7",
-        "MRNA.O",
-        "Impact bullish",
-        "BABA.N",
-        "DAO.N"
-      ],
-      "text": "【U.S. close: Stocks rise; Moderna jumps >14%】U.S. stocks closed higher on Friday. Dow Jones Industrial Average preliminary close up 0.83%; S&P 500 up 0.59%; Nasdaq Composite up 0.64%. Moderna (MRNA.O) surged 14.21%; Oracle (ORCL.N) +4.69%; Amazon (AMZN.O) +3.29%; Microsoft (MSFT.O) +2.38%; Tesla (TSLA.O) +2.05%; SpaceX (SPCX.O) +1.25%. Nasdaq Golden Dragon China Index +2.69%; NetEase Youdao (DAO.N) +7.36%; Alibaba (BABA.N) +5.36%."
     }
   ]
 }

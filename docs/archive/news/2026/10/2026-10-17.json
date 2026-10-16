@@ -1,7 +1,136 @@
 {
   "date": "2026-10-17",
-  "count": 336,
+  "count": 350,
   "items": [
+    {
+      "id": "mkt:01a14653-1a98-7ee0-a8c6-044241e560ea",
+      "time": "2026-10-17 04:06:53",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "S&P says the Netherlands is affected by global trade conditions but shows resilience to the economic impact of the Middle East conflict."
+    },
+    {
+      "id": "5150563",
+      "time": "2026-10-17 04:06:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：鑑於增長潛力改善，多哥展望被上調至正面；“B+/B”評級得到確認。"
+    },
+    {
+      "id": "5150562",
+      "time": "2026-10-17 04:06:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局釋出紐瓦克機場抵達航班地面延誤計劃。"
+    },
+    {
+      "id": "5150561",
+      "time": "2026-10-17 04:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將多哥評級展望上調至正面；維持“B+/B”評級。"
+    },
+    {
+      "id": "5150560",
+      "time": "2026-10-17 04:05:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電話電報公司（AT&T）：洛裡·M·李將於2026年12月31日卸任全球營銷主管一職、"
+    },
+    {
+      "id": "mkt:01a14651-c457-7ee0-a8c5-fe4c388bf836",
+      "time": "2026-10-17 04:05:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "S&P expects Netherlands' GDP growth to moderate through 2027 because oil and gas prices are not expected to begin easing until 2027."
+    },
+    {
+      "id": "mkt:01a14651-6716-7ee0-a8c5-f5385e4c569d",
+      "time": "2026-10-17 04:05:02",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "S&P affirms Netherlands' 'AAA/A-1+' ratings; outlook stable."
+    },
+    {
+      "id": "5150559",
+      "time": "2026-10-17 04:04:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普：荷蘭易受全球貿易形勢影響，但對中東衝突的經濟影響已展現出韌性。預計到2027年GDP增速將小幅放緩，因為石油和天然氣價格要到2027年才會開始回落。"
+    },
+    {
+      "id": "5150558",
+      "time": "2026-10-17 04:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認貝南評級為BB-，展望穩定。"
+    },
+    {
+      "id": "5150557",
+      "time": "2026-10-17 04:03:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克指數創下自截至6月26日當週以來的最大周百分比跌幅。"
+    },
+    {
+      "id": "mkt:01a14650-40e3-7ee0-a8c5-eba169433a26",
+      "time": "2026-10-17 04:03:46",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities closed lower on Friday, Oct 16: Dow Jones Industrial Average down 175.99 pts (-0.34%) at 52,001.70; S&P 500 down 84.64 pts (-1.09%) at 7,659.42; Nasdaq Composite down 572.99 pts (-2.14%) at 26,140.03."
+    },
+    {
+      "id": "5150556",
+      "time": "2026-10-17 04:03:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週，標普500指數非官方下跌1.95%，納斯達克指數下跌4.48%，道瓊斯指數上漲0.67%。"
+    },
+    {
+      "id": "5150555",
+      "time": "2026-10-17 04:03:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "道瓊斯指數連續第二週上漲，為8月初以來首次。納斯達克指數創下7月23日以來最大單日百分比跌幅。"
+    },
+    {
+      "id": "5150554",
+      "time": "2026-10-17 04:03:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普確認荷蘭“AAA/A-1+”評級；展望穩定。"
+    },
     {
       "id": "mkt:01a1464e-aead-7ee0-a8c5-e3eaf3988560",
       "time": "2026-10-17 04:02:03",
