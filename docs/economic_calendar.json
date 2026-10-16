@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-16 21:20:03",
+  "updated": "2026-10-16 21:24:11",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 390,
+  "count": 391,
   "history_summary": {
     "cached": 390,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 214,
+      "count": 215,
       "dates": [
         {
           "date": "2026-10-13",
@@ -9204,7 +9204,7 @@
         },
         {
           "date": "2026-10-16",
-          "count": 50,
+          "count": 51,
           "events": [
             {
               "id": "capital:1145315",
@@ -11945,7 +11945,7 @@
               "importance": 2,
               "previous": "0 %",
               "forecast": "0.4 %",
-              "actual": "-- %",
+              "actual": "0.7 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186822",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -12003,7 +12003,7 @@
               "importance": 1,
               "previous": "76.3 %",
               "forecast": "76.5 %",
-              "actual": "-- %",
+              "actual": "76.9 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145332",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -12061,7 +12061,7 @@
               "importance": 1,
               "previous": "-0.3 %",
               "forecast": "0.3 %",
-              "actual": "-- %",
+              "actual": "0.3 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186823",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -12105,6 +12105,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-10-04 01:01:20"
+            },
+            {
+              "id": "capital:1188303",
+              "fid": "1188303",
+              "interval": "this_week",
+              "date": "2026-10-16",
+              "time": "21:15",
+              "datetime": "2026-10-16 21:15:00",
+              "display_time": "10/16 21:15",
+              "country": "美國",
+              "title": "美國9月製造業產能利用率",
+              "importance": 1,
+              "previous": "75.7 %",
+              "forecast": "-- %",
+              "actual": "75.9 %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1188303",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "09/18",
+                  "actual": "75.7",
+                  "forecast": "-",
+                  "previous": "76"
+                },
+                {
+                  "date": "08/18",
+                  "actual": "76",
+                  "forecast": "-",
+                  "previous": "75.7"
+                },
+                {
+                  "date": "07/17",
+                  "actual": "75.7",
+                  "forecast": "-",
+                  "previous": "75.7"
+                },
+                {
+                  "date": "06/15",
+                  "actual": "75.7",
+                  "forecast": "-",
+                  "previous": "75.8"
+                },
+                {
+                  "date": "05/15",
+                  "actual": "75.8",
+                  "forecast": "-",
+                  "previous": "75.3"
+                },
+                {
+                  "date": "04/16",
+                  "actual": "75.3",
+                  "forecast": "-",
+                  "previous": "75.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-10-16 21:24:09"
             }
           ]
         },
@@ -34615,7 +34673,7 @@
       "importance": 2,
       "previous": "0 %",
       "forecast": "0.4 %",
-      "actual": "-- %",
+      "actual": "0.7 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186822",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -34673,7 +34731,7 @@
       "importance": 1,
       "previous": "76.3 %",
       "forecast": "76.5 %",
-      "actual": "-- %",
+      "actual": "76.9 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1145332",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -34731,7 +34789,7 @@
       "importance": 1,
       "previous": "-0.3 %",
       "forecast": "0.3 %",
-      "actual": "-- %",
+      "actual": "0.3 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1186823",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -34775,6 +34833,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-10-04 01:01:20"
+    },
+    {
+      "id": "capital:1188303",
+      "fid": "1188303",
+      "interval": "this_week",
+      "date": "2026-10-16",
+      "time": "21:15",
+      "datetime": "2026-10-16 21:15:00",
+      "display_time": "10/16 21:15",
+      "country": "美國",
+      "title": "美國9月製造業產能利用率",
+      "importance": 1,
+      "previous": "75.7 %",
+      "forecast": "-- %",
+      "actual": "75.9 %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1188303",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "09/18",
+          "actual": "75.7",
+          "forecast": "-",
+          "previous": "76"
+        },
+        {
+          "date": "08/18",
+          "actual": "76",
+          "forecast": "-",
+          "previous": "75.7"
+        },
+        {
+          "date": "07/17",
+          "actual": "75.7",
+          "forecast": "-",
+          "previous": "75.7"
+        },
+        {
+          "date": "06/15",
+          "actual": "75.7",
+          "forecast": "-",
+          "previous": "75.8"
+        },
+        {
+          "date": "05/15",
+          "actual": "75.8",
+          "forecast": "-",
+          "previous": "75.3"
+        },
+        {
+          "date": "04/16",
+          "actual": "75.3",
+          "forecast": "-",
+          "previous": "75.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-10-16 21:24:09"
     },
     {
       "id": "capital:1145334",

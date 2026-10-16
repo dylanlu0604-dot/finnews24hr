@@ -1,7 +1,132 @@
 {
   "date": "2026-10-16",
-  "count": 2220,
+  "count": 2232,
   "items": [
+    {
+      "id": "mkt:01a144e1-610d-7ee0-a8bf-94a2e0cbfec5",
+      "time": "2026-10-16 21:23:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "SWEDEN PRIME MINISTER KRISTERSSON said funding must be found for Ukraine."
+    },
+    {
+      "id": "5150206",
+      "time": "2026-10-16 21:22:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞典首相：必須為烏克蘭籌措資金。"
+    },
+    {
+      "id": "5150205",
+      "time": "2026-10-16 21:22:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超威半導體美股盤前跌超2%】超威半導體美股盤前跌超2%，現報550.94美元。"
+    },
+    {
+      "id": "mkt:01a144e0-a91f-7ee0-a8bf-8de036cd7c5b",
+      "time": "2026-10-16 21:22:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury yields rose further after the latest economic data release; the 10-year yield climbed 3.8bps to 5.125%."
+    },
+    {
+      "id": "5150204",
+      "time": "2026-10-16 21:22:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "兩年期和10年期美國國債收益率曲線最新為正35.7個基點。"
+    },
+    {
+      "id": "5150203",
+      "time": "2026-10-16 21:21:44",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "最新經濟資料公佈後，美國國債收益率漲幅擴大；美國兩年期國債收益率最後上漲1.45個基點，至4.766%；10年期美國國債收益率最新上漲3.8個基點，至5.125%。美國30年期國債收益率上升3.04個基點，至5.458%。"
+    },
+    {
+      "id": "mkt:01a144e0-230b-7ee0-a8bf-840ecffbf051",
+      "time": "2026-10-16 21:21:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swedish Prime Minister Kristersson said high prices are caused by dependence on fossil fuels rather than the emissions trading system."
+    },
+    {
+      "id": "te:economy:592806",
+      "time": "2026-10-16 21:21:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Industrial Production Mom",
+        "Importance 2"
+      ],
+      "text": "US Industrial Output Rises More than Expected — Industrial production in the US rose 0.7% month-over-month in September, the most in five months and more than market expectations of 0.4%. Manufacturing output, which accounts for about 78% of total industrial production, increased 0.3%, in line with market expectations. Meanwhile, mining production advanced 0.2%, and utilities rose 3.5%, supported by increased output from both electric and natural gas utilities. Capacity utilisation also improved, reaching 76.9% in September. Despite the monthly increase, the rate remained 2.5 percentage points below its long-term average for 1972–2025. For the third quarter as a whole, industrial production grew at an annualised rate of 2.8%."
+    },
+    {
+      "id": "mkt:01a144df-3bd3-7ee0-a8bf-7b3ffcbf6d3d",
+      "time": "2026-10-16 21:20:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sweden's prime minister Kristersson said the EU's climate policy is centered on the emissions trading system (EU ETS) and must be preserved."
+    },
+    {
+      "id": "mkt:01a144de-e8db-7ee0-a8bf-71dca6deb4d7",
+      "time": "2026-10-16 21:20:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【SSE's Yuan says STAR Market's role in supporting new productive forces is increasingly evident】At the Global Wealth Management Forum in Shanghai on Oct. 16, Shanghai Stock Exchange Vice GM Yuan Duoran said the exchange has upheld the Sci‑Tech Innovation Board (STAR Market)'s hard‑tech orientation and steadily implemented reforms — the '8 measures', 'six M&A rules' and the '1+6' package — to strengthen capital‑market support for new productive forces. The SSE has broadened the range of priority industries; nearly 90% of new STAR Market filings over the past year were in emerging and future industries, Yuan said, underscoring a growing demonstration effect in directing capital to new‑economy firms."
+    },
+    {
+      "id": "5150202",
+      "time": "2026-10-16 21:20:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞典首相：碳排放交易體系是歐盟氣候政策的核心，必須予以保留。"
+    },
+    {
+      "id": "te:economy:592804",
+      "time": "2026-10-16 21:20:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Manufacturing Production MoM",
+        "Importance 1"
+      ],
+      "text": "US Factory Output Recovers Slightly as Forecast — US manufacturing output rose by 0.3% month-over-month in September 2026, after a downwardly revised 0.2% decrease in August and matching market forecasts. Durable manufacturing output edged up 0.1% in September, with gains of at least 1% in primary metals, machinery, and electrical equipment, appliances and components. These increases were partly offset by a 3.0% decline in motor vehicles and parts. Nondurable manufacturing output rose 0.4%, led by growth in printing and support activities and chemicals. In the third quarter, manufacturing output grew by 0.7% in the third quarter, supported by a 3.8% increase in durable goods production, which was boosted in part by a 28.4% surge in semiconductors and related electronic components. In contrast, nondurable goods production declined by 1.6% over the same period."
+    },
     {
       "id": "em:jjsj_mgsj:202610163898634982",
       "time": "2026-10-16 21:17:58",
