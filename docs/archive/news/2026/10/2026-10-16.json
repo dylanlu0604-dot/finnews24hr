@@ -1,7 +1,113 @@
 {
   "date": "2026-10-16",
-  "count": 2238,
+  "count": 2249,
   "items": [
+    {
+      "id": "5150217",
+      "time": "2026-10-16 21:30:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國考慮將2030年電動汽車銷量目標提高至60%。"
+    },
+    {
+      "id": "5150216",
+      "time": "2026-10-16 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤初普跌】美光跌3.30%，閃迪跌2.89%，SK海力士跌3.67%，西部資料跌2.78%，希捷科技跌1.77%。"
+    },
+    {
+      "id": "5150215",
+      "time": "2026-10-16 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普跌】Lumentum跌1.19%，康寧跌1.79%，Coherent跌1.96%，應用光電跌2.50%，Ciena跌1.21%，博通跌2.07%，邁威爾科技跌2.17%。"
+    },
+    {
+      "id": "5150214",
+      "time": "2026-10-16 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初普漲】禮來漲0.35%，強生漲0.50%，Moderna跌0.38%，諾和諾德漲0.03%，艾伯維漲0.02%，默沙東漲0.91%。"
+    },
+    {
+      "id": "5150213",
+      "time": "2026-10-16 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.37%，標普500指數漲0.09%，納指跌0.21%。福克斯-B漲3.36%，現在服務漲3.32%，21世紀福克斯漲3.02%，埃森哲漲2.26%，CoreWeave跌6.56%，NBIS跌3.85%，Strategy跌3.60%。“七姐妹”方面：蘋果漲1.13%，特斯拉漲0.86%，微軟漲0.49%，Meta Platforms漲0.13%，亞馬遜漲0.08%，谷歌跌0.05%，英偉達跌0.64%。"
+    },
+    {
+      "id": "te:economy:592810",
+      "time": "2026-10-16 21:30:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Capacity Utilization",
+        "Importance 1"
+      ],
+      "text": "US Capacity Utilization Tops Forecasts — Industrial capacity utilization in the US rose to 76.9% in September 2026 from an upwardly revised 76.4% in August and above market expectations of 76.5%. Despite the improvement since the beginning of the year, the figure remained below its long-run average of 79.4%. Among the major sectors, the operating rate for utilities increased 2.3 percentage points to 73.8%, though it remained 10.2 percentage points below its historical average. The rate for mining was 2.3 percentage points above its long-run average, while the rate for utilities remained substantially below its long-run average. Capacity utilization for manufacturing increased 0.1 percentage point in September to 75.9 percent, a rate that is 2.3 percentage points below its long run average."
+    },
+    {
+      "id": "mkt:01a144e8-2de6-7ee0-a8bf-acbdd20ee001",
+      "time": "2026-10-16 21:30:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "China SC crude 2612 contract fell 1.84% intraday to 709.7 yuan/barrel. Open interest rose by more than 1,000 lots, with prices down while positions increased."
+    },
+    {
+      "id": "5150212",
+      "time": "2026-10-16 21:30:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.04%，現報11345.01點。英偉達跌0.53%，博通跌2.27%，美光跌3.24%，英特爾跌1.87%，AMD跌2.72%，高通跌2.19%，臺積電跌0.84%，阿斯麥跌0.32%。"
+    },
+    {
+      "id": "5150211",
+      "time": "2026-10-16 21:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國考慮小幅下調電動汽車銷售目標。"
+    },
+    {
+      "id": "te:markets:592809",
+      "time": "2026-10-16 21:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lockheed Martin Shares Hit 4-week High — Lockheed Martin shares increased to 539.00 USD, the highest since September 2026. Over the past 4 weeks, Lockheed Martin gained 0.25%, and in the last 12 months, it increased 9.19%."
+    },
+    {
+      "id": "te:markets:592808",
+      "time": "2026-10-16 21:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Adobe Systems Shares Hit 4-week High — Adobe Systems shares increased to 254.83 USD, the highest since September 2026. Over the past 4 weeks, Adobe Systems gained 0.46%, and in the last 12 months, it decreased 23.56%."
+    },
     {
       "id": "5150210",
       "time": "2026-10-16 21:26:45",

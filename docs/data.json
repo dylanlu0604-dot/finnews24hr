@@ -1,7 +1,113 @@
 {
-  "updated": "2026-10-16 21:28:04",
-  "count": 12930,
+  "updated": "2026-10-16 21:32:06",
+  "count": 12927,
   "items": [
+    {
+      "id": "5150217",
+      "time": "2026-10-16 21:30:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國考慮將2030年電動汽車銷量目標提高至60%。"
+    },
+    {
+      "id": "5150216",
+      "time": "2026-10-16 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤初普跌】美光跌3.30%，閃迪跌2.89%，SK海力士跌3.67%，西部資料跌2.78%，希捷科技跌1.77%。"
+    },
+    {
+      "id": "5150215",
+      "time": "2026-10-16 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊股開盤普跌】Lumentum跌1.19%，康寧跌1.79%，Coherent跌1.96%，應用光電跌2.50%，Ciena跌1.21%，博通跌2.07%，邁威爾科技跌2.17%。"
+    },
+    {
+      "id": "5150214",
+      "time": "2026-10-16 21:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股生物科技板塊盤初普漲】禮來漲0.35%，強生漲0.50%，Moderna跌0.38%，諾和諾德漲0.03%，艾伯維漲0.02%，默沙東漲0.91%。"
+    },
+    {
+      "id": "5150213",
+      "time": "2026-10-16 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.37%，標普500指數漲0.09%，納指跌0.21%。福克斯-B漲3.36%，現在服務漲3.32%，21世紀福克斯漲3.02%，埃森哲漲2.26%，CoreWeave跌6.56%，NBIS跌3.85%，Strategy跌3.60%。“七姐妹”方面：蘋果漲1.13%，特斯拉漲0.86%，微軟漲0.49%，Meta Platforms漲0.13%，亞馬遜漲0.08%，谷歌跌0.05%，英偉達跌0.64%。"
+    },
+    {
+      "id": "te:economy:592810",
+      "time": "2026-10-16 21:30:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Capacity Utilization",
+        "Importance 1"
+      ],
+      "text": "US Capacity Utilization Tops Forecasts — Industrial capacity utilization in the US rose to 76.9% in September 2026 from an upwardly revised 76.4% in August and above market expectations of 76.5%. Despite the improvement since the beginning of the year, the figure remained below its long-run average of 79.4%. Among the major sectors, the operating rate for utilities increased 2.3 percentage points to 73.8%, though it remained 10.2 percentage points below its historical average. The rate for mining was 2.3 percentage points above its long-run average, while the rate for utilities remained substantially below its long-run average. Capacity utilization for manufacturing increased 0.1 percentage point in September to 75.9 percent, a rate that is 2.3 percentage points below its long run average."
+    },
+    {
+      "id": "mkt:01a144e8-2de6-7ee0-a8bf-acbdd20ee001",
+      "time": "2026-10-16 21:30:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "China SC crude 2612 contract fell 1.84% intraday to 709.7 yuan/barrel. Open interest rose by more than 1,000 lots, with prices down while positions increased."
+    },
+    {
+      "id": "5150212",
+      "time": "2026-10-16 21:30:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數日內跌2%】費城半導體指數日內跌2.04%，現報11345.01點。英偉達跌0.53%，博通跌2.27%，美光跌3.24%，英特爾跌1.87%，AMD跌2.72%，高通跌2.19%，臺積電跌0.84%，阿斯麥跌0.32%。"
+    },
+    {
+      "id": "5150211",
+      "time": "2026-10-16 21:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國考慮小幅下調電動汽車銷售目標。"
+    },
+    {
+      "id": "te:markets:592809",
+      "time": "2026-10-16 21:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lockheed Martin Shares Hit 4-week High — Lockheed Martin shares increased to 539.00 USD, the highest since September 2026. Over the past 4 weeks, Lockheed Martin gained 0.25%, and in the last 12 months, it increased 9.19%."
+    },
+    {
+      "id": "te:markets:592808",
+      "time": "2026-10-16 21:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Adobe Systems Shares Hit 4-week High — Adobe Systems shares increased to 254.83 USD, the highest since September 2026. Over the past 4 weeks, Adobe Systems gained 0.46%, and in the last 12 months, it decreased 23.56%."
+    },
     {
       "id": "5150210",
       "time": "2026-10-16 21:26:45",
@@ -117806,135 +117912,6 @@
         "市場"
       ],
       "text": "Aritzia <ATZ.TO> 公佈季度業績超預期，股價應聲大漲14%。"
-    },
-    {
-      "id": "5135253",
-      "time": "2026-10-09 21:32:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "T-MOBILE和AT&T股價暴跌超過9%；VERIZON股價下跌超過6%。"
-    },
-    {
-      "id": "mkt:01a120dd-0fc2-7ee0-a816-b3f95208746e",
-      "time": "2026-10-09 21:32:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "CNH",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【MOFCOM: Both sides call second meeting a new starting point for deeper China-EU cooperation】On Oct. 8-9 in Beijing MOFCOM minister RAIMONDO and EU Commissioner for Trade and Economic Security Sefcovic co‑chaired the second China-EU trade and investment consultations and issued a joint statement. They reviewed progress on four workstreams—trade and investment balance, export controls, intellectual property and WTO reform—and held reciprocal discussions on major economic and trade issues. RAIMONDO raised concern over recent EU trade-restrictive measures, urging the EU to treat China as a partner in resolving disputes, pursue dialogue consistent with WTO rules and mutual interests, and seek new cooperation to support global growth and supply-chain stability. Both sides said the second meeting marks a new starting point, instructed working teams to advance follow-up work, push for early implementation of agreed outcomes and prepare for a third meeting."
-    },
-    {
-      "id": "5135252",
-      "time": "2026-10-09 21:31:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SpaceX股價上漲3.3%，此前該公司達成協議，將收購全國性低頻段頻譜組合。T-Mobile US(TMUS.O)下跌9.6%，AT&T(T.N)下跌8.2%，Verizon(VZ.N)下跌6%。"
-    },
-    {
-      "id": "5135251",
-      "time": "2026-10-09 21:31:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "受IPHONE 18 PRO相關報道影響，蘋果股價開盤下跌2.7%。"
-    },
-    {
-      "id": "5135250",
-      "time": "2026-10-09 21:30:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "HUMANA股價開盤飆升16%，創下2020年3月以來最大盤中漲幅。"
-    },
-    {
-      "id": "5135249",
-      "time": "2026-10-09 21:30:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股光通訊股開盤普漲】Lumentum漲6.60%，康寧漲2.96%，Coherent漲7.53%，應用光電漲8.31%，Ciena漲4.18%，博通漲1.49%，邁威爾科技漲2.18%。"
-    },
-    {
-      "id": "5135248",
-      "time": "2026-10-09 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股生物科技板塊盤初普跌】禮來跌0.65%，強生跌0.24%，Moderna漲0.20%，諾和諾德跌0.13%，艾伯維跌0.12%，默沙東跌0.34%。"
-    },
-    {
-      "id": "5135247",
-      "time": "2026-10-09 21:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊盤初普漲】美光漲1.36%，閃迪漲1.09%，SK海力士漲1.48%，西部資料漲0.79%，希捷科技漲0.86%。"
-    },
-    {
-      "id": "5135246",
-      "time": "2026-10-09 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.15%，標普500指數漲0.32%，納指漲0.57%。冠城漲14.01%，休曼納漲12.94%，SBA通訊公司漲8.57%，美國電塔漲7.66%，Coherent Corp漲7.46%，Lumentum Holdings Inc.漲6.70%。“七姐妹”方面：特斯拉漲2.04%，微軟漲1.31%，亞馬遜漲1.01%，谷歌漲0.92%，英偉達漲0.90%，Meta Platforms漲0.50%，蘋果跌2.18%。"
-    },
-    {
-      "id": "5135245",
-      "time": "2026-10-09 21:30:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，金山雲漲4.81%，理想汽車漲5.71%，名創優品漲3.80%，小鵬汽車漲4.19%，百勝中國漲3.35%。"
-    },
-    {
-      "id": "5135244",
-      "time": "2026-10-09 21:30:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多股票指數.GSPTSE開盤上漲176.54點，漲幅0.50%，報35321.92點。"
-    },
-    {
-      "id": "5135243",
-      "time": "2026-10-09 21:30:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【招商證券： 國慶出行需求保持韌性，錯峰分流與長線旅遊特徵突出 】招商證券釋出研報指出，本週景氣度改善的方向主要在資源品和資訊科技領域。上游資源品中，原油、水泥和部分化工品價格上漲；中游製造領域，8月全國太陽能發電裝機容量三個月滾動同比轉正，BDTI上行。資訊科技中，8月北美PCB出貨量三個月滾動同比增幅擴大，8月全球半導體銷售額同比增幅擴大。消費服務領域，生豬養殖盈利下行，生鮮乳價格上行。國慶出行需求保持韌性，錯峰分流與長線旅遊特徵突出。推薦景氣較高或有改善的石化、建材、半導體、交運、醫藥生物等。"
-    },
-    {
-      "id": "mkt:01a120da-fd1c-7ee0-a816-ab0d7bf3b319",
-      "time": "2026-10-09 21:29:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "SHFE silver main contract intraday gain widened to 2.00%, trading at 14,806.00 yuan/kg."
-    },
-    {
-      "id": "5135242",
-      "time": "2026-10-09 21:28:58",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【商務部部長王文濤與歐委會貿易和經濟安全委員謝夫喬維奇共同召開中歐貿易投資磋商機制第二次例會】10月8-9日，商務部部長王文濤在北京與歐委會貿易和經濟安全委員謝夫喬維奇共同主持召開中歐貿易投資磋商機制第二次例會並發表聯合宣告。雙方立足“穩定、平衡的中歐關鍵貿易伙伴”定位，共同盤點了首次會議以來機制項下貿易和投資平衡、出口管制、智慧財產權、世貿組織改革四個工作板塊磋商進展，並就中歐經貿重要議題進行了對等、專業、建設性的討論。\n\n雙方同意繼續就市場準入問題保持溝通磋商，逐步推動解決醫療器械、農食產品、逆變器融資禁令等彼此關切，持續推動中歐貿易向上平衡。雙方同意進一步強化中歐出口管制對話機制，繼續加強政策溝通，推動解決雙方個案關切，研究出臺便利化措施的可能性。雙方同意就歐盟外國補貼條例（FSR）開展技術對話，繼續就智慧財產權保護和世貿組織改革加強交流合作。雙方同意探討投資以及面向未來的合作。\n\n王文濤就歐盟近期出臺的經貿限制措施表達關切，重申中國不是歐盟問題的根源，而是解決問題的夥伴；敦促歐方與中方相向而行，在符合世貿組織規則和照顧彼此利益的前提下，透過對話磋商妥處摩擦分歧，探索合作新機遇、拓展新空間，為促進國際經濟增長和全球產供鏈安全穩定貢獻中歐力量。\n\n謝夫喬維奇表示，中國是歐盟重要經貿夥伴，願與中方在歐中貿易投資磋商機制項下，加強溝通交流，透過對話磋商管控摩擦分歧，共同尋找建設性的解決方案，推動歐中經貿關係更加平衡穩定發展。\n\n雙方均認為，第二次例會是中歐深化合作的新起點，責成工作團隊持續推進後續工作，推動相關成果共識儘早落地，為中歐貿易投資磋商機制第三次例會做好準備。"
     }
   ]
 }
