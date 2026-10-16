@@ -1,7 +1,217 @@
 {
-  "updated": "2026-10-16 11:45:33",
-  "count": 12711,
+  "updated": "2026-10-16 11:49:15",
+  "count": 12726,
   "items": [
+    {
+      "id": "mkt:01a142d3-7963-7ee0-a8b1-1aff5337ed53",
+      "time": "2026-10-16 11:48:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said AI is a positive supply shock over the medium term."
+    },
+    {
+      "id": "5148998",
+      "time": "2026-10-16 11:48:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "最新訊息：據歐洲地中海地震中心報告，俄羅斯堪察加半島地區今天（10月16日）發生7.0級地震。"
+    },
+    {
+      "id": "5148997",
+      "time": "2026-10-16 11:48:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：人工智慧在中長期內是積極的供給衝擊。"
+    },
+    {
+      "id": "5148996",
+      "time": "2026-10-16 11:48:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的沃什：人工智慧將先出現在經濟的需求側，而非供給側。"
+    },
+    {
+      "id": "mkt:01a142d2-ce3f-7ee0-a8b1-14e7803b8d31",
+      "time": "2026-10-16 11:47:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed will hold an in-person hearing on AI on Nov. 16 in the San Francisco Bay Area."
+    },
+    {
+      "id": "5148995",
+      "time": "2026-10-16 11:47:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃什：美聯儲將於11月16日在舊金山灣區舉行關於人工智慧的現場聽證會。"
+    },
+    {
+      "id": "mkt:01a142d2-3d21-7ee0-a8b1-0cfab0e1bc55",
+      "time": "2026-10-16 11:47:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Chair Kevin Warsh said AI may be the most significant change to the U.S. and global economy."
+    },
+    {
+      "id": "mkt:01a142d2-2937-7ee0-a8b1-06a801f91822",
+      "time": "2026-10-16 11:47:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said artificial intelligence will boost productivity and create more wealth, but the path to that outcome will be bumpy."
+    },
+    {
+      "id": "mkt:01a142d1-d22f-7ee0-a8b0-fd100997059b",
+      "time": "2026-10-16 11:46:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed chair Kevin Warsh said artificial intelligence will transform the real economy, but its short-term impact on employment remains uncertain."
+    },
+    {
+      "id": "mkt:01a142d1-9c4f-7ee0-a8b0-f158b71ab2d4",
+      "time": "2026-10-16 11:46:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chairman Kevin Warsh said artificial intelligence will help central banks boost confidence in data and monetary policy."
+    },
+    {
+      "id": "mkt:01a142d1-54c9-7ee0-a8b0-eb91d8bbe1d9",
+      "time": "2026-10-16 11:46:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed tightened monetary policy in September."
+    },
+    {
+      "id": "5148994",
+      "time": "2026-10-16 11:46:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧將提高經濟生產力，創造更多財富，但通往目標的道路並非一帆風順。"
+    },
+    {
+      "id": "5148993",
+      "time": "2026-10-16 11:46:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：人工智慧將改變實體經濟，但對就業的近期影響尚不確定。"
+    },
+    {
+      "id": "5148992",
+      "time": "2026-10-16 11:45:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "沃什：人工智慧將幫助各國央行對資料和貨幣政策更有信心。"
+    },
+    {
+      "id": "mkt:01a142d0-ee89-7ee0-a8b0-e6da8696c8fd",
+      "time": "2026-10-16 11:45:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said in the U.S. we now call artificial intelligence (AI) \"superintelligence (SI)\"."
+    },
+    {
+      "id": "te:markets:592612",
+      "time": "2026-10-16 11:45:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Bharti Airtel Shares Hit 4-week High — Bharti Airtel shares increased to 1871.00 INR, the highest since September 2026. Over the past 4 weeks, Bharti Airtel gained 1.83%, and in the last 12 months, it decreased 5.03%."
+    },
+    {
+      "id": "5148991",
+      "time": "2026-10-16 11:45:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "沃什：人工智慧在未來將極大地造福美國經濟。"
+    },
+    {
+      "id": "mkt:01a142d0-b3e0-7ee0-a8b0-dcbf24134d12",
+      "time": "2026-10-16 11:45:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MIIT says new battery industry must avoid blind rapid expansion】At the 2026 World Energy Storage Conference in Ningde, Fujian on Oct. 15, Yang Xudong, director of the Electronic Information Department at the Ministry of Industry and Information Technology, said China’s new battery industry should maintain steady growth during the 15th Five-Year Plan period but avoid blind rapid capacity expansion that could produce unnecessary supply‑demand imbalances; national top-level design will prioritize supply‑demand matching."
+    },
+    {
+      "id": "5148990",
+      "time": "2026-10-16 11:45:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧是我一生中最具深遠影響的經濟變革。"
+    },
+    {
+      "id": "5148989",
+      "time": "2026-10-16 11:45:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什表示，他不認同提前說明自己在未來會議上會怎麼做。"
+    },
     {
       "id": "5148988",
       "time": "2026-10-16 11:44:47",
@@ -115967,48 +116177,6 @@
         "公司"
       ],
       "text": "【國務院國資委：6戶中央企業外部董事職務變動】據國務院國資委網站，6戶中央企業外部董事職務變動。\n\n中國電子科技集團有限公司\n\n經研究，聘任劉才明、張素心為中國電子科技集團有限公司外部董事。\n\n國家電力投資集團有限公司\n\n經研究，聘任王偉、寧福順、王森、呂志韌為國家電力投資集團有限公司外部董事，劉德恆、聶曉夫不再擔任國家電力投資集團有限公司外部董事職務。\n\n中國電信集團有限公司\n\n經研究，聘任陳國平為中國電信集團有限公司外部董事。\n\n東風汽車集團有限公司\n\n經研究，聘任劉祥民、沙躍家為東風汽車集團有限公司外部董事。\n\n中國東方電氣集團有限公司\n\n經研究，聘任慄寶卿、蓋兆舉、盛更紅為中國東方電氣集團有限公司外部董事，黃永達、張誠、蘇文生不再擔任中國東方電氣集團有限公司外部董事職務。\n\n香港中旅（集團）有限公司\n\n經研究，聘任蘇恆軒、張良棟為香港中旅（集團）有限公司外部董事。"
-    },
-    {
-      "id": "5134143",
-      "time": "2026-10-09 11:48:35",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【花旗：蘋果季績焦點在服務業務增長，維持“買入”評級】花旗發表報告指，蘋果將於11月2日收市後公佈9月季度業績，該行認為投資者焦點集中於服務業務增長動能，同時關注App Store收入持續疲弱、agentic AI影響的額外憂慮、儲存器成本上升對毛利率的壓力，以及因今秋釋出會欠缺基本型號，對iPhone帶來季節性銷售影響。該行的iPhone 18 Pro/Pro Max出貨追蹤顯示升級週期略為不那麼明顯，惟並非意外，因部分需求或會延後至iPhone Duo釋出。該行大致維持2026/2027年iPhone出貨量增長預測不變，分別為1.4%/6.7%。該行預計9月季度收入及每股盈利大致符合市場預期，而12月季度收入及每股盈利則因今年不同的釋出節奏而低於預期。該行維持“買入”評級。"
-    },
-    {
-      "id": "5134142",
-      "time": "2026-10-09 11:47:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第37屆世界運河大會將於10月12日至15日在廣西桂林舉行】10月9日，記者從廣西壯族自治區政府新聞辦舉行的2026年世界運河大會新聞釋出會上瞭解到，第37屆世界運河大會將於2026年10月12日至15日在桂林舉行。本次大會由桂林市委、市政府聯合廣西壯族自治區交通運輸廳及內河航道國際組織（IWI）共同主辦，活動包含開閉幕式及全體會議，舉辦四場平行專家研討會議，其間開展平陸運河、靈渠、灕江三條現場考察線路和主題展示活動，將充分展示廣西古運河文明與當代水運建設成就，賦能桂林世界級旅遊城市建設，對挖掘傳播靈渠歷史時代價值、服務西部陸海新通道建設、提升廣西對外開放水平具有現實意義。世界運河大會屬重大國際權威行業會議，每年由歐洲、亞洲、美洲區域輪流舉辦，迄今已舉辦36屆，這是世界運河大會第三次來到中國。"
-    },
-    {
-      "id": "5134141",
-      "time": "2026-10-09 11:47:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度NIFTY IT指數上漲2.6%。"
-    },
-    {
-      "id": "5134140",
-      "time": "2026-10-09 11:45:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債<JP10YTN=JBTC>收益率下跌5.5個基點，至3.025%。"
-    },
-    {
-      "id": "5134139",
-      "time": "2026-10-09 11:45:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理夏巴茲：強烈譴責胡塞民兵對沙烏地阿拉伯王國發動的多次恐怖襲擊，包括針對利雅得的哈立德國王國際機場和阿卜哈國際機場的襲擊，這些襲擊導致平民喪生和受傷。"
     }
   ]
 }

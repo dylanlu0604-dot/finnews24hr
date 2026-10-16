@@ -1,7 +1,217 @@
 {
   "date": "2026-10-16",
-  "count": 1171,
+  "count": 1191,
   "items": [
+    {
+      "id": "mkt:01a142d3-7963-7ee0-a8b1-1aff5337ed53",
+      "time": "2026-10-16 11:48:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said AI is a positive supply shock over the medium term."
+    },
+    {
+      "id": "5148998",
+      "time": "2026-10-16 11:48:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "最新訊息：據歐洲地中海地震中心報告，俄羅斯堪察加半島地區今天（10月16日）發生7.0級地震。"
+    },
+    {
+      "id": "5148997",
+      "time": "2026-10-16 11:48:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：人工智慧在中長期內是積極的供給衝擊。"
+    },
+    {
+      "id": "5148996",
+      "time": "2026-10-16 11:48:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的沃什：人工智慧將先出現在經濟的需求側，而非供給側。"
+    },
+    {
+      "id": "mkt:01a142d2-ce3f-7ee0-a8b1-14e7803b8d31",
+      "time": "2026-10-16 11:47:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed will hold an in-person hearing on AI on Nov. 16 in the San Francisco Bay Area."
+    },
+    {
+      "id": "5148995",
+      "time": "2026-10-16 11:47:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事沃什：美聯儲將於11月16日在舊金山灣區舉行關於人工智慧的現場聽證會。"
+    },
+    {
+      "id": "mkt:01a142d2-3d21-7ee0-a8b1-0cfab0e1bc55",
+      "time": "2026-10-16 11:47:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Chair Kevin Warsh said AI may be the most significant change to the U.S. and global economy."
+    },
+    {
+      "id": "mkt:01a142d2-2937-7ee0-a8b1-06a801f91822",
+      "time": "2026-10-16 11:47:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said artificial intelligence will boost productivity and create more wealth, but the path to that outcome will be bumpy."
+    },
+    {
+      "id": "mkt:01a142d1-d22f-7ee0-a8b0-fd100997059b",
+      "time": "2026-10-16 11:46:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed chair Kevin Warsh said artificial intelligence will transform the real economy, but its short-term impact on employment remains uncertain."
+    },
+    {
+      "id": "mkt:01a142d1-9c4f-7ee0-a8b0-f158b71ab2d4",
+      "time": "2026-10-16 11:46:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chairman Kevin Warsh said artificial intelligence will help central banks boost confidence in data and monetary policy."
+    },
+    {
+      "id": "mkt:01a142d1-54c9-7ee0-a8b0-eb91d8bbe1d9",
+      "time": "2026-10-16 11:46:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed tightened monetary policy in September."
+    },
+    {
+      "id": "5148994",
+      "time": "2026-10-16 11:46:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧將提高經濟生產力，創造更多財富，但通往目標的道路並非一帆風順。"
+    },
+    {
+      "id": "5148993",
+      "time": "2026-10-16 11:46:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：人工智慧將改變實體經濟，但對就業的近期影響尚不確定。"
+    },
+    {
+      "id": "5148992",
+      "time": "2026-10-16 11:45:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "沃什：人工智慧將幫助各國央行對資料和貨幣政策更有信心。"
+    },
+    {
+      "id": "mkt:01a142d0-ee89-7ee0-a8b0-e6da8696c8fd",
+      "time": "2026-10-16 11:45:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said in the U.S. we now call artificial intelligence (AI) \"superintelligence (SI)\"."
+    },
+    {
+      "id": "te:markets:592612",
+      "time": "2026-10-16 11:45:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Bharti Airtel Shares Hit 4-week High — Bharti Airtel shares increased to 1871.00 INR, the highest since September 2026. Over the past 4 weeks, Bharti Airtel gained 1.83%, and in the last 12 months, it decreased 5.03%."
+    },
+    {
+      "id": "5148991",
+      "time": "2026-10-16 11:45:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "沃什：人工智慧在未來將極大地造福美國經濟。"
+    },
+    {
+      "id": "mkt:01a142d0-b3e0-7ee0-a8b0-dcbf24134d12",
+      "time": "2026-10-16 11:45:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MIIT says new battery industry must avoid blind rapid expansion】At the 2026 World Energy Storage Conference in Ningde, Fujian on Oct. 15, Yang Xudong, director of the Electronic Information Department at the Ministry of Industry and Information Technology, said China’s new battery industry should maintain steady growth during the 15th Five-Year Plan period but avoid blind rapid capacity expansion that could produce unnecessary supply‑demand imbalances; national top-level design will prioritize supply‑demand matching."
+    },
+    {
+      "id": "5148990",
+      "time": "2026-10-16 11:45:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧是我一生中最具深遠影響的經濟變革。"
+    },
+    {
+      "id": "5148989",
+      "time": "2026-10-16 11:45:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什表示，他不認同提前說明自己在未來會議上會怎麼做。"
+    },
     {
       "id": "5148988",
       "time": "2026-10-16 11:44:47",
