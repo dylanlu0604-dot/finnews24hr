@@ -1,7 +1,71 @@
 {
   "date": "2026-10-16",
-  "count": 2306,
+  "count": 2313,
   "items": [
+    {
+      "id": "5150257",
+      "time": "2026-10-16 21:57:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "漢莎航空正探索以10億歐元出售軟體資產。"
+    },
+    {
+      "id": "5150256",
+      "time": "2026-10-16 21:57:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓美就戰時指揮權移交現分歧】駐韓美軍司令澤維爾·布倫森近期公開表態稱，向韓國移交戰時指揮權的“條件已變”，應設立“新標準”，引發韓國方面不滿。據韓國多家媒體報道，布倫森本週早些時候在美國出席一場活動時表示，鑑於向韓國移交戰時指揮權的相關條件已發生變化，應就此制定新標準。待韓方滿足新標準後，再移交戰時指揮權，而不是按“政治時間表”執行。（新華社）"
+    },
+    {
+      "id": "te:markets:592826",
+      "time": "2026-10-16 21:56:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ADP Shares Hit 12-month High — ADP shares increased to 289.90 USD, the highest since October 2025. Over the past 4 weeks, Automatic Data Processing gained 6.31%, and in the last 12 months, it increased 2.9%."
+    },
+    {
+      "id": "5150255",
+      "time": "2026-10-16 21:56:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普允許聯邦僱員辭職時享受帶薪休假。"
+    },
+    {
+      "id": "5150254",
+      "time": "2026-10-16 21:56:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光總市值超越SK海力士 美股儲存巨頭雙雙下挫】美光科技股價下跌4.26%，報891.570美元/股，總市值達1.01萬億美元；與之相比，SK海力士股價下跌5.52%，報138.050美元/股，總市值為1.008萬億美元。受此影響，美光科技總市值正式超越SK海力士。"
+    },
+    {
+      "id": "mkt:01a144ff-9b52-7ee0-a8c0-3aab29181902",
+      "time": "2026-10-16 21:56:04",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Baltic Dry Index falls for third straight week as capesize rates weigh】The Baltic Dry Index fell for a third consecutive week, down 34 points (1.27%) to 2,511 — its lowest since June 30 and roughly 14% lower on the week. The capesize index (BCI) dropped 73 points (2.2%) to 3,249, the weakest since early April and about 25% lower on the week; capesize daily earnings declined $664 to $25,961. The panamax index (BPI) fell 42 points (1.78%) to 2,314; panamax daily earnings eased $373 to $20,827. Supramax (BSI) rose 9 points (0.48%) to 1,865 and handysize (BHSI) gained 4 points to 1,011."
+    },
+    {
+      "id": "5150253",
+      "time": "2026-10-16 21:55:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "TRAVELERS 股價在扭轉開盤下跌趨勢後走高。"
+    },
     {
       "id": "mkt:01a144fd-2df9-7ee0-a8c0-330687ce9d42",
       "time": "2026-10-16 21:53:25",
