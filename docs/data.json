@@ -1,7 +1,47 @@
 {
-  "updated": "2026-10-16 21:52:26",
-  "count": 12935,
+  "updated": "2026-10-16 21:56:24",
+  "count": 12933,
   "items": [
+    {
+      "id": "mkt:01a144fd-2df9-7ee0-a8c0-330687ce9d42",
+      "time": "2026-10-16 21:53:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 fell 1% to an intraday low."
+    },
+    {
+      "id": "5150252",
+      "time": "2026-10-16 21:53:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：葡萄牙2027年預算與債務下降趨勢一致，儘管實施了稅收減免。"
+    },
+    {
+      "id": "te:markets:592824",
+      "time": "2026-10-16 21:53:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Gains as Banks and Energy Shares Climb — The S&P/TSX Composite Index rose more than 0.5% to above 36,000 on Friday, supported by gains in the banking and energy sectors. The oil rally lost momentum, offering some relief to credit-sensitive stocks that had been under pressure from energy-driven inflation concerns. Bond yields remained below recent peaks. Major banks advanced, with RBC, BMO, Scotiabank and CIBC each gaining about 0.5%. Energy companies also rose despite the slowdown in oil prices, with Canadian Natural adding more than 1% and Suncor, Imperial Oil and Cenovus gaining over 1.5%. Energy-related infrastructure stocks advanced as well, with Enbridge up more than 0.5%. Miners were subdued despite higher silver and copper prices, as gold traded near flat. Meanwhile, Bank of Canada Governor Tiff Macklem said Canada had not yet raised interest rates but warned that the longer energy prices remain elevated, “the harder that gets.” Markets are currently pricing in a rate hike at the next policy meeting."
+    },
+    {
+      "id": "5150251",
+      "time": "2026-10-16 21:52:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數下跌1%，至當日低點。"
+    },
     {
       "id": "mkt:01a144fb-7d6b-7ee0-a8c0-2ca06107694f",
       "time": "2026-10-16 21:51:34",
@@ -117927,57 +117967,6 @@
         "國際"
       ],
       "text": "白宮宣佈成立委員會，調查美聯儲官員麗莎·庫克涉嫌發表虛假陳述的指控。"
-    },
-    {
-      "id": "5135285",
-      "time": "2026-10-09 21:56:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部部長助理蔡偉出席西班牙國慶招待會】2026年10月9日，外交部部長助理蔡偉應邀出席西班牙駐華使館舉辦的西班牙國慶招待會。(外交部網站)"
-    },
-    {
-      "id": "5135284",
-      "time": "2026-10-09 21:55:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【沙特戰機持續在薩那上空飛行】葉門訊息稱，沙特對薩那國際機場和葉門首都多地發動空襲；與此同時，戰機仍在城市上空持續飛行。"
-    },
-    {
-      "id": "te:markets:590902",
-      "time": "2026-10-09 21:55:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index at Over 1-Month Low, Posts Weekly Loss — The Baltic Exchange’s dry bulk freight index, which tracks rates for ships carrying dry bulk commodities, declined for a fifth straight session on Friday, dropping about 2.2% to its lowest since August 25 at 3,002 points. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, slipped by 4% to its lowest since August 21 at 4,638 points. Meanwhile, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, edged up by 0.1% to 2,366 points; and the supramax index rose by 0.3% to 1,795 points. For the week, the benchmark index slipped over 7%,"
-    },
-    {
-      "id": "5135283",
-      "time": "2026-10-09 21:53:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將Moderna <MRNA.O>的目標價從170美元上調至200美元。"
-    },
-    {
-      "id": "5135282",
-      "time": "2026-10-09 21:53:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局（FDA）就標準化食品中的鹽替代品釋出最終規則。"
-    },
-    {
-      "id": "mkt:01a120ef-eca4-7ee0-a817-0daeb856a378",
-      "time": "2026-10-09 21:52:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai Jifeng Electronics' ChiNext IPO set for Shenzhen review on Oct. 15】The Shenzhen Stock Exchange Listing Review Committee will hold its 58th meeting of 2026 on Oct. 15 to review the IPO of Shanghai Jifeng Electronics Co., Ltd."
     }
   ]
 }
