@@ -1,7 +1,54 @@
 {
   "date": "2026-10-17",
-  "count": 372,
+  "count": 379,
   "items": [
+    {
+      "id": "mkt:01a14666-e95b-7ee0-a8c6-2f34b606089f",
+      "time": "2026-10-17 04:28:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Yemen government says Houthi missiles hit Aden airport】Yemen's government confirmed on the evening of Oct 16 local time that two missiles fired by Houthi militants struck Aden International Airport in southern Yemen. A correspondent in Aden reported hearing a large explosion. The Houthis said they had hit the Saudi military command and a weapons depot at the Badr military base in Aden province."
+    },
+    {
+      "id": "5150582",
+      "time": "2026-10-17 04:28:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：ChatGPT中的GPT-6 Astra Pro獲得升級，響應速度更快，外掛和工具的使用也得到改進。現在，多個智慧體可以並行處理一項任務的不同部分。你可以跟蹤每個智慧體的進度，並開啟已完成的任務檢視其工作成果。"
+    },
+    {
+      "id": "te:markets:592872",
+      "time": "2026-10-17 04:27:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rises Near $110 on Increasing Supply Risks — Brent crude prices surged toward $110 a barrel on Friday, rising more than 5% this week amid tightening supply and strong demand for fuel from the shipping industry. Producers are facing higher freight rates and risk premiums to transport cargoes through the Strait of Hormuz, keeping uncertainty over future regional supply elevated. Iranian strikes on tankers in the strait have sharply reduced oil flows. In the week to October 13th, average daily flows fell to 11.62 million barrels from a baseline of 17.15 million barrels. Security risks in the Persian Gulf have contributed significantly to the price rally. Meanwhile, Ukrainian drone attacks on Russian refineries have further constrained fuel supply. Adding to the pressure, US crude inventories fell by 8.56 million barrels in the week ended October 9th."
+    },
+    {
+      "id": "5150581",
+      "time": "2026-10-17 04:27:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門政府稱胡塞武裝襲擊亞丁機場】葉門政府當地時間10月16日晚證實，葉門南部亞丁國際機場被胡塞武裝發射的兩枚導彈擊中。稍早前總檯報道員在亞丁聽到巨大爆炸聲。而胡塞武裝釋出訊息稱“襲擊了亞丁省巴德爾軍事基地內的沙特軍隊指揮部和武器庫”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a14665-3544-7ee0-a8c6-24d9029611cb",
+      "time": "2026-10-17 04:26:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports a Ukrainian official said they remain highly skeptical of Trump's claims and believe someone inside the U.S. government was involved in restricting the systems. Sources who spoke with SpaceX told Axios the WHITE HOUSE participated in the decision."
+    },
     {
       "id": "5150580",
       "time": "2026-10-17 04:24:39",
@@ -505,6 +552,14 @@
       "text": "葉門亞丁安全部門：胡塞武裝發射的兩枚導彈落入亞丁機場內，導彈落在距一架飛機500米處。這是不到一週內發生的第二起此類事件。"
     },
     {
+      "id": "5150543",
+      "time": "2026-10-17 03:57:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝：本輪衝突以來沙特主導聯軍發動近2500次襲擊】當地時間16日晚間，葉門胡塞武裝釋出宣告，稱過去24小時，沙特主導的聯軍對葉門首都薩那以及達利阿省、塔伊茲省、荷臺達省、扎馬爾省、馬裡卜省、薩達省、焦夫省、阿姆蘭省和拉赫季省等地發動了101次空襲及導彈襲擊。上述襲擊造成包括婦女兒童在內的平民傷亡。宣告還稱，自新一輪軍事衝突升級以來，沙特主導的聯軍共對葉門胡塞武裝控制區進行了2489次空襲和導彈襲擊。（央視新聞）"
+    },
+    {
       "id": "mkt:01a1464a-be2b-7ee0-a8c5-ab0398dcda20",
       "time": "2026-10-17 03:57:45",
       "tags": [
@@ -627,6 +682,14 @@
         "MKT News"
       ],
       "text": "Brazil's finance minister Durigan said the government expects to set up special credit lines to support tax reform and to fund measures tied to abolishing the six-day, one-day-rest workweek."
+    },
+    {
+      "id": "5150532",
+      "time": "2026-10-17 03:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拉脫維亞總理所在政黨聯盟成議會第一大政治力量】據拉脫維亞通訊社16日報道，拉脫維亞中央選舉委員會當天正式確認第15屆議會選舉結果及100名新當選議員名單，現任總理安德里斯·庫爾貝格斯所在的政黨聯盟“聯合名單”以41席成為議會第一大政治力量，但未獲得過半數席位。（新華社）"
     },
     {
       "id": "5150531",
