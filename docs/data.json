@@ -1,7 +1,49 @@
 {
-  "updated": "2026-10-17 01:33:59",
+  "updated": "2026-10-17 01:37:50",
   "count": 12869,
   "items": [
+    {
+      "id": "5150451",
+      "time": "2026-10-17 01:36:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮新聞秘書扎卡里亞已於週五被解僱。（紐約時報）"
+    },
+    {
+      "id": "mkt:01a145c8-f8ce-7ee0-a8c3-f2eb63950e51",
+      "time": "2026-10-17 01:36:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Africa and 19 other foreign ministers condemn Colombia’s opening of an embassy in Jerusalem】On Oct. 16, South Africa’s Department of International Relations and Cooperation issued a joint statement saying foreign ministers from 20 countries, including Egypt, Palestine, Turkey, Saudi Arabia, Qatar, Jordan, Indonesia, Malaysia and Pakistan, strongly condemned and opposed Colombia’s inauguration of an embassy in Jerusalem."
+    },
+    {
+      "id": "mkt:01a145c8-4ce4-7ee0-a8c3-ef4104a77791",
+      "time": "2026-10-17 01:35:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President von der Leyen said the EU must be able to respond swiftly to trade imbalances."
+    },
+    {
+      "id": "mkt:01a145c8-1c0f-7ee0-a8c3-e37d370216f6",
+      "time": "2026-10-17 01:35:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President VON DER LEYEN said a diverse toolkit of trade policy instruments is important."
+    },
+    {
+      "id": "5150450",
+      "time": "2026-10-17 01:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【南非等20國外長聯合譴責哥倫比亞在耶路撒冷設立大使館】10月16日，南非國際關係與合作部發表聯合宣告稱，南非與埃及、巴勒斯坦、土耳其、沙烏地阿拉伯、卡達、約旦、印度尼西亞、馬來西亞、巴基斯坦等共20個國家的外長，強烈譴責並明確反對哥倫比亞在耶路撒冷舉行大使館啟用儀式。宣告指出，哥倫比亞此舉違反聯合國安理會有關決議，損害國際社會推動以“兩國方案”為基礎實現公正、持久和平的努力。（央視）"
+    },
     {
       "id": "mkt:01a145c5-7a3f-7ee0-a8c3-db4ec09dcd5a",
       "time": "2026-10-17 01:32:12",
@@ -117487,58 +117529,6 @@
         "Brent"
       ],
       "text": "【Trump presses Mexico on energy deals; US-Mexico trade talks delayed】The Financial Times, citing people familiar with the matter, reports Trump pressed President Sheinbaum in mid-September to secure deals between Mexican firms and US energy companies, asked about possible sales of Mexican assets to US firms and discussed US–South Korea-style procurement arrangements and increased purchases of US energy. US officials discussed Mexico expanding imports of US natural gas to narrow Mexico's trade surplus; US gas already supplies roughly three-quarters of Mexico's gas demand. Mexico objected to the new energy demands, prompting postponement of formal trade talks slated for September; talks have not been rescheduled. Mexico seeks tariff relief on autos, steel and aluminium, but energy-sector national control is politically sensitive. US officials say negotiations remain active and contacts continue."
-    },
-    {
-      "id": "mkt:01a121bc-5fbe-7ee0-a81d-3109e64af0fc",
-      "time": "2026-10-10 01:35:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【UAE prosecutor: Flydubai co-pilot attempted to crash plane into Tel Aviv airport terminal in suicide attack】UAE Attorney General Shamsi said on the 9th that investigators found the co-pilot of Flydubai flight FZ1073 attempted to pilot the aircraft into the terminal at Israel’s Ben-Gurion International Airport in Tel Aviv in a suicide terrorist attack intended to cause maximum casualties."
-    },
-    {
-      "id": "5135578",
-      "time": "2026-10-10 01:34:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿聯酋檢方：迪拜航空副駕駛企圖駕機實施自殺式襲擊】阿聯酋總檢察長沙姆西9日說，對迪拜航空FZ1073航班事件的調查顯示，涉事副駕駛企圖駕駛飛機撞擊以色列特拉維夫本-古裡安國際機場航站樓，實施自殺式恐怖襲擊，造成儘可能多的人員傷亡。沙姆西當天發表宣告說，涉事副駕駛是一名29歲的阿曼籍男子。他事先制定了襲擊計劃，並利用此前兩次飛往特拉維夫的航班熟悉飛行路線和機場情況，隨後於9月30日第三次執行該航線任務時試圖實施襲擊。調查顯示，嫌疑人2017年在澳大利亞留學期間開始接受極端主義思想，並受美國“9·11”恐怖襲擊事件影響，萌生利用飛機實施類似襲擊的念頭。（新華社）"
-    },
-    {
-      "id": "5135577",
-      "time": "2026-10-10 01:34:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "三位訊息人士稱，特朗普關於柴油的指令將推動美國各部門負責人設法繞過阻礙能源生產的地方和州級法規。"
-    },
-    {
-      "id": "mkt:01a121ba-df41-7ee0-a81d-2995be8e00ad",
-      "time": "2026-10-10 01:34:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Three sources said Trump’s directive will prompt U.S. officials to use the Defense Production Act to seek ways to boost oil and fuel production."
-    },
-    {
-      "id": "5135576",
-      "time": "2026-10-10 01:34:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "ICE歐洲期貨交易所持倉報告資料顯示，截至10月6日，飼料小麥投機者淨多頭頭寸增加122手，至630手。"
     }
   ]
 }
