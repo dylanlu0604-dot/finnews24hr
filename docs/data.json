@@ -1,7 +1,64 @@
 {
-  "updated": "2026-10-17 01:18:34",
-  "count": 12873,
+  "updated": "2026-10-17 01:22:20",
+  "count": 12879,
   "items": [
+    {
+      "id": "mkt:01a145bb-beb0-7ee0-a8c3-be4049d8080c",
+      "time": "2026-10-17 01:21:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said Russia will release diesel under a global agreement."
+    },
+    {
+      "id": "5150443",
+      "time": "2026-10-17 01:20:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：我們看到，一些國家及非國家勢力正在人為製造突發性大規模人口流動。"
+    },
+    {
+      "id": "mkt:01a145ba-9fc6-7ee0-a8c3-b3735d9fa214",
+      "time": "2026-10-17 01:20:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President VON DER LEYEN said some states and non-state actors are deliberately creating sudden, large-scale population movements."
+    },
+    {
+      "id": "5150442",
+      "time": "2026-10-17 01:19:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普結束對記者的講話。"
+    },
+    {
+      "id": "te:economy:592862",
+      "time": "2026-10-17 01:19:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Oct 19th — Geopolitical developments in Ukraine and the Middle East will continue to dictate markets as global oil supply tightens and inflation metrics trend higher. The earnings season will also gather pace, with Meta and Tesla reporting the latest signals on the volatile AI trade, while results are also due from P&G, Netflix, GE Aerospace, SAP, and Texas Instruments. On the economic data front, S&P PMIs across the US, Eurozone, Japan, Australia, and India will offer initial insights for October. The US will also release key housing data. In Europe, other sentiment surveys will draw attention, including Germany's ZEW and the European Commission economic sentiment indicator, while a busy week in the UK revolves around inflation and the labor market. Elsewhere, China's monthly data dump will include Q3 GDP growth, and Japan will release its inflation and trade figures. Canada will also publish its CPI."
+    },
+    {
+      "id": "mkt:01a145b8-e9d2-7ee0-a8c3-ae75cb512a48",
+      "time": "2026-10-17 01:18:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US President Trump said the US economy has never been stronger."
+    },
     {
       "id": "5150441",
       "time": "2026-10-17 01:17:39",
@@ -55,6 +112,24 @@
         "國際"
       ],
       "text": "特朗普：我們與沙烏地阿拉伯的關係非常好。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610173898781711",
+      "time": "2026-10-17 01:16:18",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲週五隔夜逆回購協議（RRP）使用規模為1億美元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202610173898781711",
+      "time": "2026-10-17 01:16:18",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美聯儲週五隔夜逆回購協議（RRP）使用規模為1億美元。"
     },
     {
       "id": "5150438",
@@ -117555,22 +117630,6 @@
         "其他"
       ],
       "text": "萬斯將移民工人稱為“契約傭工”。"
-    },
-    {
-      "id": "5135560",
-      "time": "2026-10-10 01:21:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯中央銀行貨幣政策負責人蒙特羅：秘魯厄爾尼諾現象的影響將持續至2027年上半年。"
-    },
-    {
-      "id": "5135559",
-      "time": "2026-10-10 01:20:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國國有公用事業公司EDF簽署40億歐元貸款協議。"
     }
   ]
 }
