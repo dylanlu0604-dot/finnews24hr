@@ -1,7 +1,75 @@
 {
   "date": "2026-10-16",
-  "count": 621,
+  "count": 630,
   "items": [
+    {
+      "id": "mkt:01a14218-629f-7ee0-a8aa-c24ac621afa8",
+      "time": "2026-10-16 08:24:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump, commenting on Biden's pardons of multiple people, said he could pardon himself and did not want his staff to endure years of needless turmoil."
+    },
+    {
+      "id": "5148613",
+      "time": "2026-10-16 08:24:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大西部多車連環相撞 致3死19傷】加拿大西部城市卡爾加里當地時間15日發生一起多車連環相撞事故，造成3人死亡、至少19人受傷。卡爾加里警方表示，當地時間15日13時許，救援人員接到報案稱該市東北部多車起火，涉及兩輛公交車和6輛其他車輛。"
+    },
+    {
+      "id": "5148612",
+      "time": "2026-10-16 08:23:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀋陽地鐵集團95億元私募債申報獲上交所受理】上交所公司債券專案資訊平臺顯示，瀋陽地鐵集團有限公司95億元私募債專案狀態更新為“已受理”，受理日期為2026年10月15日。"
+    },
+    {
+      "id": "em:qqyh_mlc:202610163897593518",
+      "time": "2026-10-16 08:23:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【瑞銀“撕報告”：美聯儲本輪緊縮週期將加息三次 下一次行動在12月】瑞銀在最新發給客戶的報告中，調整了其對美聯儲利率路徑的預期，預計該央行本輪緊縮週期將加息三次，第三次將發生在2027年3月。此前，美國公佈了高於市場預期的9月通脹資料。"
+    },
+    {
+      "id": "5148611",
+      "time": "2026-10-16 08:22:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：除了煉油廠，還有很多其他目標可以打擊。"
+    },
+    {
+      "id": "5148610",
+      "time": "2026-10-16 08:22:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：烏克蘭需要舉行選舉。"
+    },
+    {
+      "id": "mkt:01a14216-2088-7ee0-a8aa-beb9c5e84541",
+      "time": "2026-10-16 08:21:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Asia's first Boeing 777-200LR P2F conversion line starts production in Qingdao】On Oct. 15 U.S. Mammoth Cargo Aircraft Co.'s first Boeing 777-200LR bound for passenger-to-freighter conversion arrived at Qingdao Jiaodong International Airport, marking the start of Asia's first 777-200LR P2F production line. In April Mammoth's 777-200LRMF P2F modification received an FAA supplemental type certificate, the first official approval for a 777-200LR conversion. Mammoth and Shandong Taikoo Aircraft Engineering Co. have established a strategic partnership to build the Jiaodong production line, making Qingdao the third global and the only Asia-Pacific core hub in Mammoth's 777 conversion capacity network."
+    },
+    {
+      "id": "5148609",
+      "time": "2026-10-16 08:21:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日經指數早盤上漲1.0%。日本基準指數中表現居前的個股包括：野村綜合研究所上漲5.7%，三麗鷗上漲5.2%，Konami Group上漲5.0%。"
+    },
     {
       "id": "mkt:01a14215-4bc1-7ee0-a8aa-b3cc2a1fe24a",
       "time": "2026-10-16 08:20:54",
@@ -9,6 +77,18 @@
         "MKT News"
       ],
       "text": "【South Korea considering expansion of Cheonghae Unit operations into Gulf of Oman】South Korea’s Defense Ministry is weighing expanding its Cheonghae Unit’s patrol area into the Gulf of Oman near the Strait of Hormuz, the Dong-A Ilbo and other Korean media reported. After US President Trump asked Seoul to dispatch warships, the government considered sending additional vessels but judged that infeasible and is instead likely to broaden the unit’s operational zone to “contribute to security of the Strait of Hormuz.” A government official said on Oct. 16 the regional security situation has worsened and pirate attacks in the Gulf of Aden off Somalia have risen versus prior years, making expansion into the Gulf of Oman the most probable option."
+    },
+    {
+      "id": "te:markets:592547",
+      "time": "2026-10-16 08:20:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Edge Lower Amid Market Caution — US stock futures declined on Friday as investor caution prevailed while while evaluating the outlook for artificial intelligence and related technologies. S&P 500 and Nasdaq 100 futures fell 0.2% and 0.5%, respectively. During Thursday’s regular session, the Dow climbed 1.08%, while the S&P 500 and Nasdaq Composite advanced 0.33% and 0.08%, respectively. The gains came as selling pressure on chip stocks eased after Nvidia CEO Jensen Huang defended the financial position of AI computing provider CoreWeave Inc. Companies such as CoreWeave have taken on substantial debt with backing from suppliers, including Nvidia, raising concerns that circular financing arrangements could be generating artificial demand. Meanwhile, Anthropic reportedly told investors that its third-quarter revenue stood at $16.8 billion. For the week, the tech-heavy Nasdaq Composite was on track to fall more than 2%, while the S&P 500 was down nearly 1%. The Dow was poised to post a weekly gain of around 1%."
     },
     {
       "id": "5148608",
