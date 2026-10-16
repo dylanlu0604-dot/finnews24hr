@@ -1,7 +1,104 @@
 {
   "date": "2026-10-17",
-  "count": 121,
+  "count": 131,
   "items": [
+    {
+      "id": "mkt:01a145b5-0ad0-7ee0-a8c3-7d868e2c0107",
+      "time": "2026-10-17 01:14:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission President von der Leyen said Ukraine's fiscal needs will persist as long as the war continues."
+    },
+    {
+      "id": "5150432",
+      "time": "2026-10-17 01:13:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：“絕不可能”撤換白宮幕僚長蘇西·懷爾斯（Susie Wiles）。她非常出色。白宮幕僚長懷爾斯會繼續留任，而且會留任很長時間。"
+    },
+    {
+      "id": "mkt:01a145b4-8ace-7ee0-a8c3-73b035149dcd",
+      "time": "2026-10-17 01:13:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "French President Macron said he believes an EU budget agreement can be reached before year-end."
+    },
+    {
+      "id": "mkt:01a145b4-5e3b-7ee0-a8c3-694e5c4d923e",
+      "time": "2026-10-17 01:13:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said she is excellent and that White House chief of staff Wiles will remain in post for a long time."
+    },
+    {
+      "id": "te:markets:592861",
+      "time": "2026-10-17 01:13:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Fortinet Shares Hit 4-week Low — Fortinet shares decreased to 167.35 USD, the lowest since September 2026. Over the past 4 weeks, Fortinet lost 2.89%, and in the last 12 months, it increased 100.86%."
+    },
+    {
+      "id": "mkt:01a145b3-cb09-7ee0-a8c3-620f3999b77f",
+      "time": "2026-10-17 01:12:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said it was \"absolutely impossible\" to replace White House chief of staff Susie Wiles."
+    },
+    {
+      "id": "5150431",
+      "time": "2026-10-17 01:12:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：在法國大選前幾周的3月舉行歐盟預算協議峰會不是好辦法。"
+    },
+    {
+      "id": "mkt:01a145b3-1fc5-7ee0-a8c3-5ed889f23b05",
+      "time": "2026-10-17 01:12:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "French President Macron said holding an EU summit on the budget agreement in March, a few weeks before the French election, would not be appropriate."
+    },
+    {
+      "id": "mkt:01a145b2-94d4-7ee0-a8c3-5545bed83341",
+      "time": "2026-10-17 01:11:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump: oil prices to fall soon; hopes Russia-Ukraine conflict ends】US President Trump said he knows some details of the Russia-Ukraine conflict and will disclose them at some point, adding he hopes the conflict ends. He criticized the Biden administration’s handling of Ukraine. Asked about inflation, Trump repeated that oil prices will fall soon and said Israel is providing significant assistance to Saudi Arabia, with the Abraham Accords back on Riyadh’s agenda."
+    },
+    {
+      "id": "5150430",
+      "time": "2026-10-17 01:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：拜登政府在烏克蘭問題上做了很多糟糕的事情。"
+    },
     {
       "id": "mkt:01a145b1-6c12-7ee0-a8c3-49f8f4960e3c",
       "time": "2026-10-17 01:10:17",
