@@ -1,7 +1,55 @@
 {
-  "updated": "2026-10-17 04:07:30",
-  "count": 12802,
+  "updated": "2026-10-17 04:11:17",
+  "count": 12799,
   "items": [
+    {
+      "id": "mkt:01a14656-b843-7ee0-a8c6-0dc05d1da74c",
+      "time": "2026-10-17 04:10:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DBRS Morningstar affirmed the European Union's AAA rating and maintained a stable outlook."
+    },
+    {
+      "id": "5150568",
+      "time": "2026-10-17 04:10:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（10月16日），彭博電動汽車價格回報指數跌0.56%，報2973.30點，美股時段持續下跌，本週累計下跌6.13%——逼近6月26日跌幅（累跌超8.95%），最近七週裡第六次下跌。"
+    },
+    {
+      "id": "5150567",
+      "time": "2026-10-17 04:09:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普關於多哥的報告：目前評估認為，塞內加爾當前債務危機引發金融蔓延的風險有限。"
+    },
+    {
+      "id": "5150566",
+      "time": "2026-10-17 04:09:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普關於多哥的報告：我們預計多哥將進一步推進預算整頓，到2027年，財政赤字佔GDP的比重將降至3%左右。"
+    },
+    {
+      "id": "5150565",
+      "time": "2026-10-17 04:08:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "標普關於多哥的報告：預計中東衝突對經濟的不利影響將在2026年暫時放緩經濟增長。"
+    },
+    {
+      "id": "5150564",
+      "time": "2026-10-17 04:07:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局指出紐瓦克機場地面延誤計劃存在人員配備不足的問題。"
+    },
     {
       "id": "5150563",
       "time": "2026-10-17 04:06:53",
@@ -116863,91 +116911,6 @@
         "DXY"
       ],
       "text": "【Russian presidential special representative: Russia-U.S. energy and economic cooperation will continue】On Oct. 9 local time, Russian presidential special representative Dmitriev posted on social media responding to U.S. President Trump’s summary of a presidential call, saying the call was successful and that Russia-U.S. energy and economic cooperation will continue and benefit global markets."
-    },
-    {
-      "id": "mkt:01a12249-28b3-7ee0-a81f-eeab6671adb0",
-      "time": "2026-10-10 04:09:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "S&P says further escalation of the conflict in Egypt would keep energy prices elevated for an extended period and could intensify inflationary pressures."
-    },
-    {
-      "id": "5135741",
-      "time": "2026-10-10 04:09:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：10月10日04時04分在新疆阿克蘇地區庫車市（北緯41.21度，東經83.71度）發生3.4級地震，震源深度19千米。"
-    },
-    {
-      "id": "5135740",
-      "time": "2026-10-10 04:09:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普就埃及表示：衝突若進一步加劇並導致能源價格在更長時間內維持高位，可能加大通脹壓力。"
-    },
-    {
-      "id": "mkt:01a12248-ed72-7ee0-a81f-e7bfb3326606",
-      "time": "2026-10-10 04:09:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed official COLLINS declined to comment on monetary policy or the economic outlook."
-    },
-    {
-      "id": "5135739",
-      "time": "2026-10-10 04:09:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲柯林斯未就貨幣政策及經濟前景置評。"
-    },
-    {
-      "id": "5135738",
-      "time": "2026-10-10 04:09:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普：確認埃及評級為B/B，展望穩定。"
-    },
-    {
-      "id": "mkt:01a12248-43d7-7ee0-a81f-d8250725927b",
-      "time": "2026-10-10 04:08:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P affirms Egypt's 'B/B' rating; outlook stable."
-    },
-    {
-      "id": "mkt:01a12248-0954-7ee0-a81f-d03570a745e4",
-      "time": "2026-10-10 04:08:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "S&P said spending plans must be balanced against revenue constraints and warned an excessively high tax burden could weigh on UK GDP growth."
-    },
-    {
-      "id": "5135737",
-      "time": "2026-10-10 04:08:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：支出計劃必須與收入限制相平衡，英國稅負過高可能抑制GDP增長。"
     }
   ]
 }
