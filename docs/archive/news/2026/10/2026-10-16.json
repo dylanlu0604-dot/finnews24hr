@@ -1,7 +1,88 @@
 {
   "date": "2026-10-16",
-  "count": 1129,
+  "count": 1137,
   "items": [
+    {
+      "id": "mkt:01a142c8-1e54-7ee0-a8b0-63e32c588f00",
+      "time": "2026-10-16 11:36:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury official Brown said the U.S. will continue working with Vietnam to explore deeper integration and cooperation opportunities."
+    },
+    {
+      "id": "mkt:01a142c7-db1c-7ee0-a8b0-5ffe388cbc6b",
+      "time": "2026-10-16 11:35:56",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "U.S. Treasury official Brown said the U.S. is working with Indo-Pacific trade partners to build more resilient and secure supply chains."
+    },
+    {
+      "id": "5148969",
+      "time": "2026-10-16 11:35:55",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官員布朗：美國將繼續與越南合作，探索更深層次一體化與合作的機會。"
+    },
+    {
+      "id": "mkt:01a142c7-a586-7ee0-a8b0-5064326ea1fc",
+      "time": "2026-10-16 11:35:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "【ECB Governing Council member Rehn: current policy stance is working; December will bring more economic data】Rehn said in Bangkok at the IMF annual meeting that the ECB will receive additional economic data ahead of its final rate decision of the year and will publish comprehensive macro projections in December to better assess growth and inflation prospects. He described the current prudent, measured policy stance as appropriate, noting energy prices are pushing up inflation but there are not yet clear second‑round effects or broad-based spillovers; the ECB will remain vigilant to prevent inflation from becoming more entrenched."
+    },
+    {
+      "id": "5148968",
+      "time": "2026-10-16 11:35:27",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官員布朗：美國正與印太地區的貿易伙伴合作，以建立更具彈性和更安全的供應鏈。"
+    },
+    {
+      "id": "mkt:01a142c7-510b-7ee0-a8b0-4d1725fa6716",
+      "time": "2026-10-16 11:35:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "XAUUSD"
+      ],
+      "text": "【China A-share midday: Shanghai Composite +0.95% as defense sector spikes】At midday Shanghai Composite +0.95%, Shenzhen Composite +1.19%, ChiNext +0.96%. Defense names led gains, with multiple stocks hitting daily limit-up, including Shengnan Technology, Huali Chuangtong and Chenxi Aviation. Speed-reducer/industrial components stocks also rallied; Yuhuan CNC, Xiangyang Bearing and Zhongding Co reached limit-up. Precious metals climbed, Zhaojin Gold +6%+. Outperformers included property developers, controlled nuclear fusion, power-grid equipment, plantation, winter-sports and innovative drugs; components, gaming, brokerages, batteries and cinema chains lagged. Combined Shanghai/Shenzhen turnover ~962.6 bln yuan, down ~19.2 bln yuan vs. yesterday; advancing stocks ~4,600, declining ~600."
+    },
+    {
+      "id": "5148967",
+      "time": "2026-10-16 11:34:44",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官員布朗：美國財政部正與柬埔寨政府就打擊實施欺詐的犯罪網路進行對話。"
+    },
+    {
+      "id": "mkt:01a142c6-1fb9-7ee0-a8b0-45864d4f5aac",
+      "time": "2026-10-16 11:34:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Index Academy: Q4 housing rental market to enter seasonal lull; rents in key cities still face adjustment pressure】China Index Academy Q3 2026 review: residential rental market in major Chinese cities was broadly stable; downward pressure on rents eased, rental yields improved and the sector’s institutional framework continued to strengthen. Outlook for Q4: market to enter the traditional off‑season, rents in key cities remain under adjustment pressure, overall movements likely to be narrow, while prime, well‑located stock retains structural support."
+    },
     {
       "id": "5148966",
       "time": "2026-10-16 11:33:39",
