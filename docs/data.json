@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-17 04:52:41",
-  "count": 12815,
+  "updated": "2026-10-17 04:56:26",
+  "count": 12816,
   "items": [
+    {
+      "id": "5150611",
+      "time": "2026-10-17 04:55:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【厄瓜多發生5.2級地震】根據歐洲-地中海地震中心報告，當地時間16日13時34分，厄瓜多西部太平洋海域發生5.2級地震，震源深度10公里。目前暫無海嘯預警報告。（央視新聞）"
+    },
+    {
+      "id": "5150610",
+      "time": "2026-10-17 04:54:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【晶片股血流成河，VanEck半導體ETF本週累計下跌9.70%】VanEck半導體ETF（SMH）跌3.41%，本週累計下跌9.70%，創2025年4月以來最大單週跌幅。閃迪跌6.85%，SK海力士跌6.58%，AMD跌5.95%，美光科技跌5.63%，泰瑞達跌5.31%，科磊跌5.00%，應用材料跌4.82%。"
+    },
+    {
+      "id": "5150609",
+      "time": "2026-10-17 04:53:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌合作伙伴Novacore Labs與AIBOTICS完成資產收購，在牙買加擴充套件人工智慧、無人機、測繪和自動化平臺。"
+    },
+    {
+      "id": "5150608",
+      "time": "2026-10-17 04:52:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國五角大樓附近兩家棒約翰門店均稱客流量激增。"
+    },
     {
       "id": "5150607",
       "time": "2026-10-17 04:50:50",
@@ -117008,37 +117040,6 @@
         "其他"
       ],
       "text": "沙特領導的聯軍稱，正對葉門胡塞武裝人員及軍事設施展開大範圍軍事行動。"
-    },
-    {
-      "id": "mkt:01a12272-aa91-7ee0-a820-89be8d33faf1",
-      "time": "2026-10-10 04:55:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Zelenskiy says Trump-Putin diesel deal is \"unfair, dishonest\"】Ukraine President Zelenskiy slammed US President Trump’s decision to unilaterally lift relevant sanctions to allow Russian diesel exports, calling the move \"unfair\" and \"dishonest\" and saying it looked like \"a birthday present for Putin,\" Axios reported. Trump announced the diesel supply agreement after a call with Putin, a step that surprised Ukraine and several European governments. The report said US Middle East envoys Witkoff and Kushner were in Miami meeting Ukrainian and European representatives to discuss a possible plan to end the Russia-Ukraine war."
-    },
-    {
-      "id": "5135764",
-      "time": "2026-10-10 04:53:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：10月10日04時25分在巴拿馬（北緯7.70度，西經81.45度）發生6.6級地震，震源深度10千米。"
-    },
-    {
-      "id": "te:markets:590961",
-      "time": "2026-10-10 04:53:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Hits Record High on Election Polls — The Ibovespa rose 1.4% to close at a record 209,067 on Friday as the first voting-intention polls released after the first round confirmed Flávio Bolsonaro’s lead over President Lula in the runoff. Markets view Bolsonaro as more fiscally restrictive, strengthening expectations that a potential administration could tighten control over public spending and improve Brazil’s fiscal position. The race remains tight, with some polls showing a statistical tie. Financial stocks were mostly higher, with Itaú up 2.3%, BB and Itaúsa gaining 1.6% each, and B3 advancing 2.5%. Petrobras rose 0.9% despite volatile oil prices. Vale turned positive late in the session, closing up 0.38% in a narrow range after iron ore prices hit multi-month lows. Retailers posted sharp gains as yields fell following the polls, despite rising inflation and a reading above the upper limit of the BCB’s target range. Magazine Luiza soared 19.2%. The Ibovespa gained 8.82% this week, its strongest weekly performance of 2026."
     }
   ]
 }
