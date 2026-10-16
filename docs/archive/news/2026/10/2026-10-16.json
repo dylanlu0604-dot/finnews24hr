@@ -1,7 +1,53 @@
 {
   "date": "2026-10-16",
-  "count": 672,
+  "count": 677,
   "items": [
+    {
+      "id": "5148646",
+      "time": "2026-10-16 08:48:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經股指延續開盤漲勢；最新上漲1.6%，報65463.65點。"
+    },
+    {
+      "id": "mkt:01a1422e-8f5f-7ee0-a8ab-2a80893a0cfb",
+      "time": "2026-10-16 08:48:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Singapore September non-oil domestic exports jump on non-electronics shipments】Singapore's September non-oil domestic exports (NODX) rose 68.4% YoY, Enterprise Singapore said on Friday, above expectations. August was revised to +46.1% YoY. The agency said the increase was driven by non-electronics shipments, mainly irregular large exports of ship and boat structural components. NODX for Jan–Sep 2026 rose 27.6% YoY."
+    },
+    {
+      "id": "5148645",
+      "time": "2026-10-16 08:47:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月16日08時37分在青海海南州興海縣（北緯35.38度，東經99.55度）發生3.1級地震，震源深度10千米。"
+    },
+    {
+      "id": "mkt:01a1422d-a03e-7ee0-a8ab-26895ba16f09",
+      "time": "2026-10-16 08:47:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【A-share margin financing balance down CNY31.33 bln】As of Oct. 15, margin financing on China’s two A-share exchanges fell CNY31.33 bln. Shanghai Stock Exchange financing balance was CNY1,265.49 bln, down CNY14.59 bln from the previous trading day; Shenzhen Stock Exchange financing balance was CNY1,200.67 bln, down CNY16.73 bln; combined balance was CNY2,466.16 bln, down CNY31.33 bln."
+    },
+    {
+      "id": "5148644",
+      "time": "2026-10-16 08:47:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少313.25億元】截至10月15日，上交所融資餘額報12654.87億元，較前一交易日減少145.91億元；深交所融資餘額報12006.74億元，較前一交易日減少167.34億元；兩市合計24661.61億元，較前一交易日減少313.25億元。"
+    },
     {
       "id": "mkt:01a1422d-4cdc-7ee0-a8ab-199784d1d66f",
       "time": "2026-10-16 08:47:07",
