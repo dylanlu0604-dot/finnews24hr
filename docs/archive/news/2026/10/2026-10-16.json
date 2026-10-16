@@ -1,7 +1,153 @@
 {
   "date": "2026-10-16",
-  "count": 1717,
+  "count": 1733,
   "items": [
+    {
+      "id": "te:markets:592720",
+      "time": "2026-10-16 16:28:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Germany 10-Year Bund Yield Holds Near 5-Week Low — The German 10-year Bund yield was little changed at around 3.42%, near a five-week low, and was down nearly 7bps for the week, tracking a global easing in borrowing costs as expectations for monetary policy tightening moderated. Remarks by Fed Chair Warsh at the IMF summit were interpreted as signalling that the Fed would leave rates unchanged this month, despite hotter-than-expected inflation data. In Europe, comments from ECB President Lagarde reinforced the case for a cautious, wait-and-see approach. Lagarde said elevated Eurozone inflation had been driven “predominantly, but not exclusively” by a surge in energy prices triggered by the Iran war. While there were no signs yet of “second-round effects” feeding through to other prices, the ECB would be monitoring for early indications, including wage demands in trade union negotiations. The ECB has raised rates twice over the past four months, with markets expecting another hike in December."
+    },
+    {
+      "id": "te:markets:592719",
+      "time": "2026-10-16 16:27:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Airbus Shares Hit 4-week High — Airbus shares increased to 197.76 EUR, the highest since September 2026. Over the past 4 weeks, Airbus gained 1.14%, and in the last 12 months, it decreased 1.34%."
+    },
+    {
+      "id": "mkt:01a143d2-6bdd-7ee0-a8b8-862cfbd99970",
+      "time": "2026-10-16 16:27:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Romanian president says Russian strikes on Ukraine's Black Sea grain routes intensifying, raising regional security risks】Romanian president Nicusor Dan said on Friday Russia is increasingly striking Ukraine's Black Sea grain export routes, raising regional security risks. Romania, an EU member with the bloc's longest border with Ukraine, is probing whether drones that struck two merchant vessels near its territorial waters in the past two days originated in Russia; officials say they cannot technically confirm the origin. Dan added that hundreds of drones have entered Romanian territory along the Danube border with Ukraine."
+    },
+    {
+      "id": "5149479",
+      "time": "2026-10-16 16:27:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海立股份：擬回購B股股份用於減少註冊資本】海立股份公告稱，公司擬以集中競價交易方式回購境內上市外資股（B股），回購金額不低於225萬美元、不高於450萬美元，資金來源為自有資金，回購價格不超過0.840美元/股，回購股份將全部登出以減少註冊資本。按回購價格上限測算，擬回購股份數量為267.86萬股~535.71萬股，佔公司總股本的0.25%~0.50%。回購期限自2026年10月9日股東會審議透過方案之日起不超過12個月。公司董事、高階管理人員、控股股東未來3個月、6個月內無減持計劃。本次回購存在股價超上限、B股流動性不足導致回購無法按計劃實施等風險。"
+    },
+    {
+      "id": "5149478",
+      "time": "2026-10-16 16:26:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金龍汽車：2026年半年度每10股派發現金紅利0.15元（含稅）】金龍汽車公告稱，公司實施2026年半年度權益分派，以方案實施前總股本7.17億股為基數，每股派發現金紅利0.015元（含稅），共計派發現金紅利1075.57萬元（含稅）。本次權益分派A股股權登記日為2026年10月22日，除權（息）日、現金紅利發放日均為2026年10月23日。"
+    },
+    {
+      "id": "5149477",
+      "time": "2026-10-16 16:26:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST嘉必優：證券事務代表王芳辭職】ST嘉必優公告稱，公司董事會近日收到證券事務代表王芳提交的辭職申請，王芳因個人原因申請辭去公司證券事務代表職務，辭職後不再擔任公司任何職務，辭職申請自送達公司董事會之日起生效。王芳已完成工作交接，不會影響公司相關工作的正常執行。截至公告披露日，王芳未持有公司股份，亦不存在應當履行而未履行的承諾事項。"
+    },
+    {
+      "id": "5149475",
+      "time": "2026-10-16 16:26:29",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【晶科能源：預計2026年前三季度淨利潤虧損35.76億元到29.76億元，上年同期虧損39.2億元】晶科能源公告，預計2026年前三季度歸母淨利潤虧損35.76億元到29.76億元，上年同期虧損39.2億元；扣非淨利潤虧損44.11億元到38.11億元，上年同期虧損45.43億元。公司稱，TOPCon 3.0產線改造及產能爬坡有序推進，生產成本持續最佳化，儲能業務出貨及收入確認規模有所增長並開始貢獻經營利潤，報告期整體經營業績同比減虧。"
+    },
+    {
+      "id": "5149474",
+      "time": "2026-10-16 16:26:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四環生物：收購長源藥業80%股權完成工商變更】四環生物公告稱，公司以1.60億元現金收購吉林省長源藥業有限公司80%股權，本次交易已經公司董事會及2026年第三次臨時股東會審議透過，不構成重大資產重組及重組上市。目前長源藥業已完成工商變更登記手續並取得換髮的營業執照，公司持有其80%股權，長源藥業將納入公司合併報表範圍，成為公司控股子公司。"
+    },
+    {
+      "id": "mkt:01a143d1-cd0a-7ee0-a8b8-799fa43e6968",
+      "time": "2026-10-16 16:26:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Five agencies warn of scams impersonating central SOEs offering \"internal referrals\"】The Ministry of Human Resources and Social Security, Cyberspace Administration of China, Ministry of Education, Ministry of Public Security and the State-owned Assets Supervision and Administration Commission issued a risk alert warning jobseekers—particularly university graduates—of frauds that: post fake recruitment ads using central state-owned enterprise names to attract applicants; fabricate \"internal referral\" channels to gain trust; and charge fees under various pretexts to defraud victims."
+    },
+    {
+      "id": "5149473",
+      "time": "2026-10-16 16:26:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通策醫療：控股股東完成1350萬股股票質押及解質】通策醫療公告稱，公司控股股東寶群實業於2026年10月16日完成1350萬股股份質押及對應股份解除質押，本次質押、解質股份均佔其持股的8.91%，佔公司總股本的3.04%。寶群實業持股1.52億股，佔總股本34.11%；本次操作後其累計質押股份1.01億股，佔其持股的66.42%，佔總股本的22.65%。寶群實業一致行動人呂建明持股209.11萬股，無質押。寶群實業資信良好，質押風險可控，不會導致公司實際控制權變更。"
+    },
+    {
+      "id": "5149472",
+      "time": "2026-10-16 16:26:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海爾智家：累計回購455萬股H股股份已完成登出】海爾智家公告稱，2026年6月24日公司股東會及各類別股東會審議透過回購不超過已發行H股總數10%股份的議案。自本次回購起始日2026年9月9日至2026年9月30日，公司累計回購H股股份455萬股，佔公司總股本的0.049%，該等回購股份目前已登出。登出完成後，公司總股本由93.03億股降至92.99億股，實際控制人海爾集團及其一致行動人合計持股比例由34.763%被動增至34.780%，公司實際控制人未發生變動。"
+    },
+    {
+      "id": "5149471",
+      "time": "2026-10-16 16:26:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海期貨交易所：對部分客戶採取限制開倉監管措施】10月16日，上海期貨交易所釋出關於對部分客戶採取限制開倉監管措施的公告。公告稱，2026年10月16日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。"
+    },
+    {
+      "id": "5149469",
+      "time": "2026-10-16 16:25:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬來西亞稱棕櫚油企業未牽涉印尼火災】馬來西亞一名部長表示，在印尼經營的馬來西亞棕櫚油企業稱，這場造成東南亞部分地區霧霾的野火起火點不在其特許經營林地範圍內。通訊部長法赫米·法茲爾週五在通報會上表示，雲頂種植是唯一一家在自有林地發現火情的本土企業。雲頂種植暫未回覆置評郵件以及辦公電話。法赫米說：“火源並非來自種植園內部，而是從外部蔓延進來，現已撲滅。受影響面積為5公頃。”環保組織綠色和平上週指出，超過20家棕櫚油、紙漿及糖業公司的特許林地存在印尼火災煙源，其中數家企業與馬來西亞、新加坡存在關聯。"
+    },
+    {
+      "id": "5149468",
+      "time": "2026-10-16 16:25:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報96.98美元/桶。"
+    },
+    {
+      "id": "5149467",
+      "time": "2026-10-16 16:24:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、美國總統特朗普被問及是否支援暫停徵收聯邦柴油稅時表示：“這是我可能會支援的事情。”\n2、當地時間10月15日晚播出的採訪中，美國總統特朗普在回答有關是否會在伊朗使用“炸彈之母”的問題時表示，“我不會在對伊朗的行動中使用核武器，我們沒必要那樣做，‘炸彈之母’也不是核武器。\n3、美國總統唐特朗普在當地時間週四播出的採訪中表示，烏克蘭恢復襲擊俄羅斯煉油廠是一件 “可恥” 的事，此舉推高全球能源價格。\n4、特朗普論烏克蘭戰爭： 俄羅斯是一個龐大的國家。俄羅斯可以損失一百萬士兵，他們還有數百萬其他士兵。 烏克蘭沒有那樣的人力資源。\n5、美國總統特朗普15日稱，烏克蘭總統澤連斯基“不想解決”烏克蘭危機，不值得美國與之打交道，與澤連斯基達成協議要比與俄羅斯總統普京難。\n6、特朗普讚揚墨西哥總統，但稱販毒集團控制著該國。\n7、特朗普開玩笑稱，如果他嗓子啞了，就派一個機器人版的自己代他跑競選活動，這樣他就能待在家裡看電視。特朗普說：“他們做得相當不錯”，並暗示如今的技術可以造出一個逼真到“你根本看不出區別”的替身。"
+    },
+    {
+      "id": "5149466",
+      "time": "2026-10-16 16:24:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保利發展：2026年9月簽約金額161.92億元，同比下降21.13%】保利發展公告，2026年9月實現簽約面積87.27萬平方米，同比下降22.01%；簽約金額161.92億元，同比下降21.13%。2026年1-9月實現簽約面積875.53萬平方米，同比下降13.35%；簽約金額1812.37億元，同比下降10.16%。"
+    },
     {
       "id": "5149465",
       "time": "2026-10-16 16:23:29",
