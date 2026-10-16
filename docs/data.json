@@ -1,7 +1,102 @@
 {
-  "updated": "2026-10-16 11:52:56",
-  "count": 12737,
+  "updated": "2026-10-16 11:56:40",
+  "count": 12746,
   "items": [
+    {
+      "id": "mkt:01a142da-7934-7ee0-a8b1-93f65c34c998",
+      "time": "2026-10-16 11:56:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kevin Warsh, chair of the Federal Reserve, said the Fed's authority rests on its institutional credibility and must be maintained."
+    },
+    {
+      "id": "mkt:01a142da-0232-7ee0-a8b1-8a8f700d5e19",
+      "time": "2026-10-16 11:55:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "KEVIN WARSH said the Federal Reserve chair must exercise comprehensive leadership across the Fed's departments."
+    },
+    {
+      "id": "5149009",
+      "time": "2026-10-16 11:55:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買入。"
+    },
+    {
+      "id": "mkt:01a142d9-b56a-7ee0-a8b1-83bb3b9633f8",
+      "time": "2026-10-16 11:55:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kevin Warsh, chair of the Federal Reserve, said 75% of the Fed’s staff do not work on monetary policy."
+    },
+    {
+      "id": "mkt:01a142d9-8692-7ee0-a8b1-796a2e244816",
+      "time": "2026-10-16 11:55:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【About magnitude 7.2 earthquake near Russia's Kamchatka Peninsula】China Earthquake Networks Center (CENC) automatically determined a roughly M7.2 earthquake occurred near Russia's Kamchatka Peninsula at 11:35 on Oct 16, located at 51.88°N, 157.11°E."
+    },
+    {
+      "id": "mkt:01a142d9-0787-7ee0-a8b1-70180a8dc812",
+      "time": "2026-10-16 11:54:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed has many talented staff but needs to foster the right culture."
+    },
+    {
+      "id": "mkt:01a142d8-33ed-7ee0-a8b1-6ff87bbec3c2",
+      "time": "2026-10-16 11:53:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "03301.HK",
+        "Impact bullish",
+        "00960.HK",
+        "02202.HK"
+      ],
+      "text": "Hong Kong-listed property stocks rose amid choppy trading; Ronshine China (03301.HK) gained more than 10%, with Longfor Group (00960.HK), China Vanke (02202.HK), Xincheng Development Holdings (01030.HK), China Jinmao (00817.HK) and CHINA RES LAND (01109.HK) also higher."
+    },
+    {
+      "id": "mkt:01a142d7-9241-7ee0-a8b1-622c41af4849",
+      "time": "2026-10-16 11:53:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said he would be hesitant to introduce new ideas if he had not previously worked at the Fed."
+    },
+    {
+      "id": "5149008",
+      "time": "2026-10-16 11:52:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美元指數短線走低10多個點，美聯儲主席沃什正在講話。"
+    },
+    {
+      "id": "5149007",
+      "time": "2026-10-16 11:52:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：認為人工智慧可以提高經濟生產率，增加財富。"
+    },
     {
       "id": "mkt:01a142d6-f0cd-7ee0-a8b1-59fb6be4e030",
       "time": "2026-10-16 11:52:24",
@@ -116279,14 +116374,6 @@
         "其他"
       ],
       "text": "【券商投行不得過度包裝、炒作\"明星保代\"】投行保代執業行為迎來全面從嚴規範。記者獲悉，中證協最新起草了《保薦代表人執業行為規範》，並向行業徵求意見中。新規要求，保薦機構應當科學統籌專案分配，合理管控執業負荷，明確保薦代表人的崗位職責與履職規範，設定保薦代表人同時負責的專案上限。保薦機構應當對所有保薦代表人簽字的專案執行統一的質量控制標準與程式，不得因保薦代表人的個人聲譽、行業影響力等因素放鬆對其執業行為的監督和約束，不得過度包裝、炒作\"明星保薦代表人\"。 (財聯社)"
-    },
-    {
-      "id": "5134151",
-      "time": "2026-10-09 11:54:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝特瑞在烏蘭察布成立新能源材料公司】企查查APP顯示，近日，貝特瑞（烏蘭察布）新能源材料有限公司成立，法定代表人為李洋，註冊資本為1000萬元，經營範圍包含：石墨及碳素製品製造；石墨及碳素製品銷售；電子專用材料製造；電子專用材料銷售；電池製造等。企查查股權穿透顯示，該公司由貝特瑞間接全資持股。"
     }
   ]
 }
