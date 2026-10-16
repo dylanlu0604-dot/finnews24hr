@@ -1,7 +1,76 @@
 {
   "date": "2026-10-16",
-  "count": 715,
+  "count": 723,
   "items": [
+    {
+      "id": "5148678",
+      "time": "2026-10-16 09:06:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華脈科技新設子公司 含光電子器件業務】企查查APP顯示，近日，南京華脈青禾科技有限公司成立，經營範圍包含光電子器件製造；光電子器件銷售；光纜製造；光纜銷售等。企查查股權穿透顯示，該公司由華脈科技全資持股。"
+    },
+    {
+      "id": "5148677",
+      "time": "2026-10-16 09:06:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國新能源汽車走俏澳大利亞 助力緩通脹】英國《衛報》近日報道，隨著中東局勢推高國際油價，澳大利亞消費者正加快轉向電動汽車。憑藉價格等優勢，中國新能源汽車在當地市場持續走俏，不僅推動汽車消費轉型，也成為緩解通脹壓力的新助力。澳大利亞全國道路與汽車協會（NRMA）的報告顯示，目前當地市場上至少有5款電動汽車售價在3萬澳元（約合14萬元人民幣）左右或以下，全部來自中國品牌。隨著市場日趨成熟，充電設施不足、保險及維修費用較高等過去制約電動汽車普及的問題，也正在逐步改善。（央視）"
+    },
+    {
+      "id": "te:markets:592563",
+      "time": "2026-10-16 09:04:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Extends Losses — US heating oil futures fell below $4.80 per gallon, extending losses for a third consecutive session as prospects for increased fuel supplies weighed on prices. The IEA agreed to accelerate the release of remaining emergency oil stocks, including more than 20 million barrels of diesel. Meanwhile, Russia resumed diesel exports following a partial easing of restrictions, with a tanker carrying around 40,000 metric tons of diesel departing Primorsk for Morocco. These developments followed reports of a US proposal to ease sanctions on oil tankers linked to Russia's shadow fleet, potentially facilitating global oil flows. However, EIA data showed that US distillate inventories fell by 2.5 million barrels in the week ending October 9, highlighting persistent supply tightness. Attacks on shipping near the Strait of Hormuz and renewed strikes on Russian refineries also continued to threaten global fuel supplies."
+    },
+    {
+      "id": "5148676",
+      "time": "2026-10-16 09:04:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【MSCI凍結土耳其部分指數調整 新興市場地位或不保】在土耳其基金業發生危機後，MSCI公司正加強對土耳其股票市場的審查，已凍結部分指數調整，並警告土耳其的新興市場地位最終可能不保。這家指數提供商周四在一份宣告中表示，對涉及土耳其股票的部分指數相關調整實施凍結，措施“立即生效，直至另行通知”。MSCI稱，此舉源於這樣的擔憂，即一些基金對規模較小上市公司的持倉可能涉及協同交易。MSCI表示，如果到2027年6月仍看不到足夠的改善，將考慮採取進一步措施，包括就是否把MSCI土耳其指數從“新興市場”重新歸類為“前沿市場”或“獨立市場”展開諮詢。"
+    },
+    {
+      "id": "5148675",
+      "time": "2026-10-16 09:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通宣佈與傳音續簽專利許可協議，續簽協議覆蓋4G與5G移動裝置，有效期至2031年。"
+    },
+    {
+      "id": "mkt:01a1423b-ef30-7ee0-a8ab-7d73f9e213bf",
+      "time": "2026-10-16 09:03:06",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix shares rose 3%."
+    },
+    {
+      "id": "5148674",
+      "time": "2026-10-16 09:02:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲3%。"
+    },
+    {
+      "id": "5148673",
+      "time": "2026-10-16 09:02:37",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【湖南省株洲市政協原副主席彭新軍接受審查調查】中央紀委國家監委網站10月16日通報，據湖南省紀委監委訊息：湖南省株洲市政協原黨組成員、副主席彭新軍涉嫌嚴重違紀違法，目前正接受湖南省紀委監委紀律審查和監察調查。"
+    },
     {
       "id": "mkt:01a1423b-5ab8-7ee0-a8ab-7601fd968390",
       "time": "2026-10-16 09:02:28",
