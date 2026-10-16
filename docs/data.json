@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-17 01:49:27",
-  "count": 12865,
+  "updated": "2026-10-17 01:53:18",
+  "count": 12864,
   "items": [
+    {
+      "id": "mkt:01a145d6-e426-7ee0-a8c4-1cf70fbc196a",
+      "time": "2026-10-17 01:51:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Angolan official expects fuel subsidy spending to reach US$4 bln by 2026."
+    },
+    {
+      "id": "5150458",
+      "time": "2026-10-17 01:50:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯能源和礦業部：8月銅產量同比下降5.0%，至230,676公噸。"
+    },
+    {
+      "id": "mkt:01a145d5-a297-7ee0-a8c4-172b78af5be3",
+      "time": "2026-10-17 01:49:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Peru's Ministry of Energy and Mines said August copper output fell 5.0% YoY to 230,676 metric tonnes."
+    },
+    {
+      "id": "5150457",
+      "time": "2026-10-17 01:49:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗表示願意幫助解決沙特和葉門之間的衝突】伊朗外交部發言人巴加埃表示，針對沙特與葉門之間的衝突，伊朗重申其原則立場，即沙特和葉門必須開展對話，以外交途徑化解分歧。巴加埃強調，伊朗一直願意竭盡努力促成衝突結束，若雙方提出請求，伊朗仍準備動用全部力量實現這一目標。針對沙特外交部官員有關伊朗煽動葉門方面襲擊沙特的說法，巴加埃表示：“伊朗否認有關伊朗參與葉門方面行動的所有指控，並強調解決葉門問題，需要尊重葉門的國家主權與領土完整，停止干涉其內政，最重要的是解除對葉門的海空封鎖。”巴加埃強調：“葉門武裝力量是基於自身利益與研判採取行動，熟悉伊朗與其友邦關係的人都不會採信這類說法。但伊朗認為，緊張局勢升級對任何一方都沒有好處。”"
+    },
     {
       "id": "mkt:01a145d1-da9a-7ee0-a8c4-0c0b7923d1a2",
       "time": "2026-10-17 01:45:43",
@@ -117444,56 +117480,6 @@
         "Energy"
       ],
       "text": "ICE data: For the week ended Oct 6, speculative net long positions in diesel fell by 3,696 contracts to 70,157."
-    },
-    {
-      "id": "5135591",
-      "time": "2026-10-10 01:52:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國西北河流預報中心 ：美國西北部河流徑流量降至87%。"
-    },
-    {
-      "id": "te:economy:590946",
-      "time": "2026-10-10 01:51:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - Oct 12th — Signs of progress in negotiations or risks of escalatory strikes involving Iran, the US, and Gulf nations will continue to be closely monitored as high energy inflation keeps global bond yields near multi-decade highs. Equity markets will also be shaped by corporate earnings, headlined by TSMC, ASML, JPMorgan Chase, Bank of America, Citigroup, Johnson & Johnson, LVMH, and UnitedHealth. On the economic calendar, US CPI and PPI prints will take the spotlight, alongside domestic retail sales, industrial production, and the terms of trade. In the eurozone, investors will look to upcoming industrial production and trade data. Meanwhile, China's trade balance will draw attention amid persistent protectionist measures from key partners, and monetary aggregates will show the scale of credit for traditional and emerging economic sectors. Japan is set to release its PPI and machinery orders, while India and Australia are due to post labor market updates."
-    },
-    {
-      "id": "mkt:01a121c9-989c-7ee0-a81d-543ec93644f3",
-      "time": "2026-10-10 01:50:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Report: Trump to push officials to use Defense Production Act to boost oil and fuel output】Reuters, citing three industry sources, reported President Trump will direct some department heads to seek measures to control diesel prices, which are near record highs ahead of the Nov. 3 midterm elections. The directive could be issued as a presidential memorandum and would push officials to try to circumvent local and state rules that hinder energy production and to invoke the Defense Production Act to raise oil and fuel output."
-    },
-    {
-      "id": "5135590",
-      "time": "2026-10-10 01:50:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【低端產能加速出清 水泥行業市場集中度進一步提升】房地產、基建投資持續走弱，令水泥行業進入深度調整期。當前行業虧損面已達60%，大量中小水泥企業陷入價格倒掛、庫存高企、回款不暢的經營困局。據不完全統計，今年已有20餘家水泥及粉磨企業進入破產相關程式，中小主體債務風險集中暴露，並向上遊產業鏈傳導。"
-    },
-    {
-      "id": "5135589",
-      "time": "2026-10-10 01:49:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國市政債券收益率創逾一年來最大盤中漲幅。"
     }
   ]
 }
