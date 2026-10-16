@@ -1,7 +1,99 @@
 {
-  "updated": "2026-10-16 21:00:43",
-  "count": 12915,
+  "updated": "2026-10-16 21:04:41",
+  "count": 12914,
   "items": [
+    {
+      "id": "5150183",
+      "time": "2026-10-16 21:03:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【房地產新政寧波細則確定，即日起施行】意見明確，2026年8月28日後新公告出讓的土地，優先選擇現房銷售。實行現房銷售的，在土地出讓公告中公開現房銷售相關資訊。土地出讓公告未明確銷售方式的，由企業自主選擇銷售方式，鼓勵實行現房銷售。實行現房銷售的商品住房專案，應在專案竣備並取得不動產首次登記證（也就是俗稱的拿到“大證”，避免“偽現房”）後對外銷售，簽訂商品住房現房銷售合同。相關部門將就現房銷售專案，最佳化房地一體首次登記流程。實行定金制銷售方式的現房銷售商品住房專案，在取得建築工程施工許可證並報備後，可收取定金，定金金額不高於房屋總價的5%。房地產開發企業應與購房人簽訂購房定金合同，定金存入現房銷售定金監管賬戶。意見還要求加大對現房銷售專案的開發貸款支援力度。"
+    },
+    {
+      "id": "5150182",
+      "time": "2026-10-16 21:02:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果董事長庫克發微博：感謝中國的每一位朋友，讓這次旅程再次充滿難忘的回憶。期待下次再見！"
+    },
+    {
+      "id": "5150181",
+      "time": "2026-10-16 21:02:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯農業部部長表示，俄羅斯已收穫1.3億噸糧食。"
+    },
+    {
+      "id": "5150180",
+      "time": "2026-10-16 21:01:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯農業部稱，截至2026年10月16日，俄羅斯已收穫9500萬噸小麥。"
+    },
+    {
+      "id": "mkt:01a144cd-b6f6-7ee0-a8be-f010465cbbd9",
+      "time": "2026-10-16 21:01:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple iPhone Duo Sells Out After Preorders; Shipments Pushed to December or Later】Apple’s first foldable iPhone, the $1,999 iPhone Duo, sold out within minutes of preorders opening on Friday and now shows estimated ship dates in December or later. Apple’s online store lists delays across both colors and all capacities (256GB–2TB); some customers who preselected color and storage still saw later delivery windows. Retail opening inventory also sold out almost instantly. The rapid extension of shipping times points to strong demand and materially constrained supply, which could leave the device scarce on its Oct. 23 launch and in the weeks after. Market research firm Counterpoint Research last month forecast about 6 million iPhone Duo sales for this year."
+    },
+    {
+      "id": "5150179",
+      "time": "2026-10-16 21:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦9月外國直接投資為2.195億美元，去年同期為1.853億美元。"
+    },
+    {
+      "id": "mkt:01a144cd-3799-7ee0-a8be-efa0f0308767",
+      "time": "2026-10-16 21:01:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's grain harvest exceeds 130 mln tonnes."
+    },
+    {
+      "id": "5150178",
+      "time": "2026-10-16 21:00:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內跌3%，現報1440.50元。"
+    },
+    {
+      "id": "mkt:01a144cc-8c27-7ee0-a8be-e3d3700c6a17",
+      "time": "2026-10-16 21:00:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Night session opened in China; front-month domestic futures were mixed. Coking coal fell more than 2%. INE crude (SC) and propylene dropped over 1%; LPG and soybean meal fell about 1%. Fuel oil rose over 2%; Shanghai silver, LME copper and alumina gained nearly 1%."
+    },
+    {
+      "id": "5150177",
+      "time": "2026-10-16 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌4.20%，蘋果連續跌3.32%，焦煤連續跌2.69%，鈀連續漲1.90%，燃料油連續漲1.89%。"
+    },
     {
       "id": "mkt:01a144cb-e3d2-7ee0-a8be-dd41b7c00a9b",
       "time": "2026-10-16 20:59:35",
@@ -117662,101 +117754,6 @@
         "市場"
       ],
       "text": "【安達科技：碳酸鋰期貨套期保值業務浮虧5860.19萬元】安達科技公告，為規避碳酸鋰價格波動風險，公司開展碳酸鋰期貨套期保值業務。截至2026年9月30日，該業務已確認損益及浮動虧損金額合計-5,860.19萬元，佔最近一年經審計歸母淨利潤比例絕對值的22.82%。"
-    },
-    {
-      "id": "mkt:01a120c3-c37f-7ee0-a816-4afa351c9ff3",
-      "time": "2026-10-09 21:04:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: A Turkish bill grants the state-run Savings Deposit Insurance Fund (TMSF) authority to recover losses from funds."
-    },
-    {
-      "id": "mkt:01a120c3-6ddc-7ee0-a816-43c7d375de03",
-      "time": "2026-10-09 21:04:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Gazprom and Lukoil have started production at the Rayavodskoye oil field."
-    },
-    {
-      "id": "5135214",
-      "time": "2026-10-09 21:03:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯天然氣工業股份公司和盧克石油公司已開始在拉亞沃日斯科耶油氣田進行生產。"
-    },
-    {
-      "id": "5135213",
-      "time": "2026-10-09 21:03:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐文石油將出售魁北克零售資產及安大略省部分門店。"
-    },
-    {
-      "id": "5135212",
-      "time": "2026-10-09 21:02:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "安信創與Andrenam達成合作，面向市場推出從海底到太空的下一代通訊體系。"
-    },
-    {
-      "id": "5135211",
-      "time": "2026-10-09 21:02:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內跌1%，現報1000.00元。"
-    },
-    {
-      "id": "5135210",
-      "time": "2026-10-09 21:01:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "格芯將在SPRINT擴建專案下投資11億歐元。"
-    },
-    {
-      "id": "5135209",
-      "time": "2026-10-09 21:01:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中公教育：一致行動人4210.92萬股股份被司法強制賣出】中公教育公告稱，公司控股股東之一致行動人北京中公未來資訊諮詢中心（有限合夥）因民間借貸糾紛，其名下合計4210.92萬股公司股份（佔總股本0.68%）於2026年9月21日-30日被司法強制賣出，處置均價1.87元/股，處置後該股東持股清零。截至公告披露日，控股股東李永新及其一致行動人累計被質押股份4.39億股，佔其所持股份59.06%、佔總股本7.12%；累計被司法凍結及標記股份7.44億股，佔其所持股份100%、佔總股本12.06%；累計被司法強制處置股份3.69億股，佔總股本5.99%，後續股份仍存在被司法處置風險，或影響公司控制權穩定性。"
-    },
-    {
-      "id": "5135208",
-      "time": "2026-10-09 21:01:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瓦軸B：終止上市後瓦軸集團擬2.86港元/股收購餘股】瓦軸B公告，公司此前披露瓦軸集團要約收購公司股份，因社會公眾持股比例低於10%，公司已收到深交所終止上市決定。瓦軸集團擬於2026年10月12日、10月13日以2.86港元/股收購餘股，擬收購餘股最大數量為1.04億股，最高資金總額為2.98億港元。"
-    },
-    {
-      "id": "5135207",
-      "time": "2026-10-09 21:01:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重慶商業投資集團有限公司原董事長範光明被開除黨籍】中央紀委國家監委網站10月9日通報，據重慶市紀委監委訊息：經重慶市委批准，重慶市紀委監委對重慶商業投資集團有限公司原黨委書記、董事長範光明嚴重違紀違法問題進行了立案審查調查。經查，範光明喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查，搞迷信活動；違背組織原則，不按規定報告個人有關事項，在職工錄用、工作調動中為他人謀取利益並收受財物；廉潔底線失守，違規收受禮金、消費卡，透過民間借貸獲取大額回報，違規從事營利活動；腐化墮落，利用職務便利為他人在工程承攬、資質審批、職工錄用等方面謀利，並非法收受鉅額財物。範光明嚴重違反黨的政治紀律、組織紀律和廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經重慶市紀委常委會會議研究，決定給予範光明開除黨籍處分；按規定取消其退休待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "5135206",
-      "time": "2026-10-09 21:01:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【捷克地方選舉和參議院選舉投票啟動】當地時間10月9日，捷克全國地方選舉和參議院選舉投票正式啟動，選民將選舉各市鎮和地方議會成員，同時在27個選區進行參議院換屆選舉，選出參議院三分之一席位。此次投票於當地時間9日14時開始，並將持續至10日14時。這是捷克自1993年獨立以來舉行的第九次地方選舉，地方選舉與參議院選舉首輪投票同期舉行。在參議院選舉中，共有27個選區進行投票。如果首輪沒有候選人獲得規定的多數票，得票最高的兩名候選人將進入第二輪投票，第二輪預計於10月16日至17日舉行。此次選舉也被視為觀察捷克地方政治格局以及主要政黨和政治力量支援度的重要視窗。最終投票結果將於投票結束後陸續公佈。（央視新聞）"
     }
   ]
 }
