@@ -1,7 +1,69 @@
 {
   "date": "2026-10-16",
-  "count": 588,
+  "count": 595,
   "items": [
+    {
+      "id": "5148590",
+      "time": "2026-10-16 08:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱不會對伊朗使用核武器。"
+    },
+    {
+      "id": "mkt:01a1420e-04f6-7ee0-a8aa-7e0a04c520d4",
+      "time": "2026-10-16 08:12:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Citic Securities flags opportunities in HDD, DRAM and NAND stocks】Citic Securities says global memory-chip stocks have become more volatile and have notably underperformed other sectors since October. Alongside macro headwinds — rising oil-price volatility and renewed inf and rate expectations — market attention has turned to progress on ChangXin Technology’s 4F² DRAM process. Investors fear a Chinese wafer‑fab breakthrough in high‑margin server DDR5 could weaken overseas suppliers’ capacity-based pricing power. DRAM remains dominated by 6F² cell architecture; deployment of 4F² depends on Samsung and ChangXin progress. 4F² is still in early validation; Citic flags yield, output, gross margins and downstream customer qualification as the key metrics to watch and judges near- to mid-term industry impact likely limited. The firm recommends focusing on investment opportunities in HDD, DRAM and NAND names."
+    },
+    {
+      "id": "mkt:01a1420d-a886-7ee0-a8aa-7641215a15d2",
+      "time": "2026-10-16 08:12:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he was not involved in any review of Representative Omar's U.S. citizenship."
+    },
+    {
+      "id": "5148589",
+      "time": "2026-10-16 08:10:25",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：建議關注HDD、DRAM、NAND賽道中公司的投資機會】中信證券研報稱，近期全球儲存晶片股價波動加劇，10月份以來表現顯著弱於其他板塊，除了宏觀因素的擾動外（原油價格波動上漲，通脹與利率預期重新抬頭），產業界對於長鑫科技4F²技術的進展亦變得更為關注。主要原因是市場擔心：中國本土晶圓廠在高毛利的伺服器DDR5市場形成有效技術破局，海外巨頭透過壟斷產能維持超高議價權的敘事邏輯會被動搖。從產業進展來看，目前DRAM的技術仍以6F²單元結構為主，4F²技術的落地需看三星電子和長鑫科技的進展。目前來看，4F²技術仍處於早期驗證階段，後續仍需觀察公司在這領域的良率、產量、毛利率、下游客戶認證情況等各個指標，對於中短期儲存產業的影響相對較小。建議關注HDD、DRAM、NAND賽道中公司的投資機會。"
+    },
+    {
+      "id": "5148588",
+      "time": "2026-10-16 08:10:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【提醒】2026年IMF和世行秋季年會在泰國曼谷舉行。北京時間11:30，美聯儲主席沃什與IMF總裁格奧爾基耶娃將舉行爐邊談話。"
+    },
+    {
+      "id": "5148586",
+      "time": "2026-10-16 08:09:48",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【黃仁勳稱AI晶片需求持續超過供應能力：“幾乎每天都有訂單湧入”】英偉達CEO黃仁勳表示，客戶對人工智慧（AI）晶片的訂購需求持續超過公司的供應能力。在週四釋出的一期“BG2”播客訪談中，黃仁勳透露，新訂單“幾乎每週、甚至每天”都在湧入，“我們不斷增加供應，訂單量也在持續增長。”大型雲服務提供商、新興的人工智慧雲運營商以及裝置製造商均已下了大量訂單。黃仁勳稱，客戶至少會提前一年預測需求，其中規模最大的客戶甚至已提前兩年做好了規劃。然而，英偉達分配給這些客戶的產能，遠低於他們的實際需求。黃仁勳表示，電力短缺、尚未完工的資料中心以及製造零部件等因素，也在制約著公司擴大供應的速度。"
+    },
+    {
+      "id": "5148585",
+      "time": "2026-10-16 08:09:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼證券交易所：將就MSCI此項公告所依據的考量與評估基礎，向MSCI請求進一步澄清。"
+    },
     {
       "id": "mkt:01a1420a-bad1-7ee0-a8aa-69dc051fe6b0",
       "time": "2026-10-16 08:09:21",

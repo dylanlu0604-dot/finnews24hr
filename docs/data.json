@@ -1,7 +1,69 @@
 {
-  "updated": "2026-10-16 08:09:46",
-  "count": 12384,
+  "updated": "2026-10-16 08:13:35",
+  "count": 12383,
   "items": [
+    {
+      "id": "5148590",
+      "time": "2026-10-16 08:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱不會對伊朗使用核武器。"
+    },
+    {
+      "id": "mkt:01a1420e-04f6-7ee0-a8aa-7e0a04c520d4",
+      "time": "2026-10-16 08:12:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Citic Securities flags opportunities in HDD, DRAM and NAND stocks】Citic Securities says global memory-chip stocks have become more volatile and have notably underperformed other sectors since October. Alongside macro headwinds — rising oil-price volatility and renewed inf and rate expectations — market attention has turned to progress on ChangXin Technology’s 4F² DRAM process. Investors fear a Chinese wafer‑fab breakthrough in high‑margin server DDR5 could weaken overseas suppliers’ capacity-based pricing power. DRAM remains dominated by 6F² cell architecture; deployment of 4F² depends on Samsung and ChangXin progress. 4F² is still in early validation; Citic flags yield, output, gross margins and downstream customer qualification as the key metrics to watch and judges near- to mid-term industry impact likely limited. The firm recommends focusing on investment opportunities in HDD, DRAM and NAND names."
+    },
+    {
+      "id": "mkt:01a1420d-a886-7ee0-a8aa-7641215a15d2",
+      "time": "2026-10-16 08:12:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he was not involved in any review of Representative Omar's U.S. citizenship."
+    },
+    {
+      "id": "5148589",
+      "time": "2026-10-16 08:10:25",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：建議關注HDD、DRAM、NAND賽道中公司的投資機會】中信證券研報稱，近期全球儲存晶片股價波動加劇，10月份以來表現顯著弱於其他板塊，除了宏觀因素的擾動外（原油價格波動上漲，通脹與利率預期重新抬頭），產業界對於長鑫科技4F²技術的進展亦變得更為關注。主要原因是市場擔心：中國本土晶圓廠在高毛利的伺服器DDR5市場形成有效技術破局，海外巨頭透過壟斷產能維持超高議價權的敘事邏輯會被動搖。從產業進展來看，目前DRAM的技術仍以6F²單元結構為主，4F²技術的落地需看三星電子和長鑫科技的進展。目前來看，4F²技術仍處於早期驗證階段，後續仍需觀察公司在這領域的良率、產量、毛利率、下游客戶認證情況等各個指標，對於中短期儲存產業的影響相對較小。建議關注HDD、DRAM、NAND賽道中公司的投資機會。"
+    },
+    {
+      "id": "5148588",
+      "time": "2026-10-16 08:10:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【提醒】2026年IMF和世行秋季年會在泰國曼谷舉行。北京時間11:30，美聯儲主席沃什與IMF總裁格奧爾基耶娃將舉行爐邊談話。"
+    },
+    {
+      "id": "5148586",
+      "time": "2026-10-16 08:09:48",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【黃仁勳稱AI晶片需求持續超過供應能力：“幾乎每天都有訂單湧入”】英偉達CEO黃仁勳表示，客戶對人工智慧（AI）晶片的訂購需求持續超過公司的供應能力。在週四釋出的一期“BG2”播客訪談中，黃仁勳透露，新訂單“幾乎每週、甚至每天”都在湧入，“我們不斷增加供應，訂單量也在持續增長。”大型雲服務提供商、新興的人工智慧雲運營商以及裝置製造商均已下了大量訂單。黃仁勳稱，客戶至少會提前一年預測需求，其中規模最大的客戶甚至已提前兩年做好了規劃。然而，英偉達分配給這些客戶的產能，遠低於他們的實際需求。黃仁勳表示，電力短缺、尚未完工的資料中心以及製造零部件等因素，也在制約著公司擴大供應的速度。"
+    },
+    {
+      "id": "5148585",
+      "time": "2026-10-16 08:09:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼證券交易所：將就MSCI此項公告所依據的考量與評估基礎，向MSCI請求進一步澄清。"
+    },
     {
       "id": "mkt:01a1420a-bad1-7ee0-a8aa-69dc051fe6b0",
       "time": "2026-10-16 08:09:21",
@@ -113050,77 +113112,6 @@
         "Impact bullish"
       ],
       "text": "Japan 10-year government bond yield fell 4.5 bps to 3.035%."
-    },
-    {
-      "id": "5133452",
-      "time": "2026-10-09 08:12:42",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：零碳園區有望成為綠色金融與產業投資共振的下一個主線】中信建投證券研報稱，在我國，園區兼具經濟增長載體與碳排放管控場景的雙重戰略地位，在中央經濟工作會議及多部門配套政策的指引下，零碳園區建設成為我國的系統性工程。根據中信建投測算，僅國家級零碳園區的零碳改造投入在千億級。可持續金融工具層面，綠色信貸、ESG債券、綠色租賃等已具規模，與園區資本開支大、回收期長、部分資產現金流穩定的專案特徵高度適配。鄂爾多斯蒙蘇、鹽城大豐港等案例已驗證“低成本可溯源綠電+產業集聚”的商業閉環，零碳園區有望成為綠色金融與產業投資共振的下一個主線。"
-    },
-    {
-      "id": "5133450",
-      "time": "2026-10-09 08:11:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國駐耶路撒冷領事館更名“降級”】英國《衛報》和《以色列時報》8日報道稱，英以兩國就英國駐耶路撒冷領事館的後續安排達成協議。該機構位於東耶路撒冷。以方稱，領事館將停止以原有形式運作，包括總領事在內的20名英國外交官將離開以色列，另有7名外交官獲准繼續在大樓內工作。英方表示，該機構即日起更名為“英國駐耶路撒冷使團”，繼續為巴勒斯坦人提供服務。 這場外交風波源於英國上月宣佈的定居點制裁計劃。英方提出，將禁止進口約旦河西岸以色列定居點生產的商品，並對為定居點擴建提供建築、金融等服務的企業和個人實施制裁。以色列隨後要求英國在30天內關閉駐耶路撒冷領事館，最後期限為10月8日。 以外長薩爾8日表示，以方已執行關閉決定。他強調，以色列必須對針對本國的行動作出回應。以方此前宣佈的反制措施還包括要求英國撤走駐基里亞特加特“國際加沙支援中心”的代表，以及禁止前工黨領袖科爾賓等12人入境。 英國外交大臣米利班德則表示，英國不承認以色列有權關閉該總領事館。（環球網）"
-    },
-    {
-      "id": "5133448",
-      "time": "2026-10-09 08:10:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日經指數下跌1% 晶片和金屬類股領跌】日本股市走低，日經指數下跌1%，至68340.92點。晶片和金屬類股領跌。鎧俠下跌3.9%，軟銀集團下跌6.4%，Mitsui Kinzoku下跌3.5%。"
-    },
-    {
-      "id": "mkt:01a11dff-9614-7ee0-a806-a7f3a1101caf",
-      "time": "2026-10-09 08:10:51",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Despite wage gains, Japanese household spending falls for ninth month】Japan household spending fell for a ninth consecutive month in August, underscoring consumer caution despite rising wages. Inflation-adjusted household spending slid 3.1% YoY in August; seasonally adjusted spending rose 0.1% MoM. Real wages have increased every month this year but have yet to lift consumption. The divergence complicates BOJ communication: Governor UEDA has flagged upside inflation risks and many market participants expect another rate hike before year-end. Friday’s data show inflation and domestic demand are not moving in tandem, and a too-fast or too-large tightening could weigh on the economy."
-    },
-    {
-      "id": "5133447",
-      "time": "2026-10-09 08:10:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "軟銀集團股價跌6.1%，受OPENAI營收擔憂影響。"
-    },
-    {
-      "id": "5133444",
-      "time": "2026-10-09 08:10:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價下跌5%。"
-    },
-    {
-      "id": "5133443",
-      "time": "2026-10-09 08:10:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "據法院檔案顯示，弗吉尼亞州阿靈頓縣起訴特朗普政府，要求叫停擬議建造的華盛頓凱旋門專案。"
-    },
-    {
-      "id": "mkt:01a11dfe-dedc-7ee0-a806-9a73458d8bff",
-      "time": "2026-10-09 08:10:04",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bearish",
-        "9984.T"
-      ],
-      "text": "Japan's Nikkei 225 fell as much as 1.00% intraday; SoftBank shares slid 5%."
     }
   ]
 }
