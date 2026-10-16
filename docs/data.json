@@ -1,7 +1,185 @@
 {
-  "updated": "2026-10-16 08:59:16",
-  "count": 12435,
+  "updated": "2026-10-16 09:03:25",
+  "count": 12437,
   "items": [
+    {
+      "id": "mkt:01a1423b-5ab8-7ee0-a8ab-7601fd968390",
+      "time": "2026-10-16 09:02:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Myanmar refinery restarts to cut reliance on fuel imports】A long-idled refinery near Yangon resumed commercial operations on Wednesday for the first time in nearly a decade, part of Myanmar’s drive to reduce imports of gasoline and jet fuel. The Danlin refinery’s first phase is now online; a second phase is scheduled for completion in 2028. At full capacity the plant will process more than 60,000 barrels per day, meeting roughly half of Myanmar’s domestic fuel demand. President Min Aung Hlaing said securing adequate crude supply should be a priority."
+    },
+    {
+      "id": "5148672",
+      "time": "2026-10-16 09:02:19",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國承諾將密切監控股市波動】韓國財政部週五表示，將加強金融市場監測，密切關注近期股市波動對債券、外匯及短期貨幣市場產生的各類影響。韓國綜合股價指數（KOSPI）受人工智慧相關擔憂拖累，前一日暴跌近 8%，觸及六個月低點。財政部在會後稱，受行業板塊構成差異影響，韓國近期股市波動幅度高於其他市場，但經濟基本面依舊穩健。"
+    },
+    {
+      "id": "5148671",
+      "time": "2026-10-16 09:01:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國稱該國股市基本面依然穩健。"
+    },
+    {
+      "id": "mkt:01a1423a-459f-7ee0-a8ab-6a20ae8b4da7",
+      "time": "2026-10-16 09:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index opened 229.95 points higher (+0.49%) at 47,199.82 on Oct. 16 (Friday)."
+    },
+    {
+      "id": "mkt:01a14239-dde9-7ee0-a8ab-634a741f1fa9",
+      "time": "2026-10-16 09:00:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Finance Ministry will step up market monitoring to track the effects of equity market volatility on bonds, foreign exchange and short-term money markets."
+    },
+    {
+      "id": "mkt:01a14239-d933-7ee0-a8ab-59adc5bce994",
+      "time": "2026-10-16 09:00:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange early trade on Friday Oct. 16: gold T+D up 0.66% at 895.43 yuan/gram; silver T+D up 1.52% at 13,880.0 yuan/kg."
+    },
+    {
+      "id": "mkt:01a14239-bc41-7ee0-a8ab-55129719535f",
+      "time": "2026-10-16 09:00:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's finance ministry said relevant authorities will take strict measures against conduct that disrupts markets."
+    },
+    {
+      "id": "5148670",
+      "time": "2026-10-16 09:00:34",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "韓國財政部：將監控股市波動對債券、外匯和短期貨幣市場的影響。"
+    },
+    {
+      "id": "5148669",
+      "time": "2026-10-16 09:00:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.3%至32.370。"
+    },
+    {
+      "id": "5148668",
+      "time": "2026-10-16 09:00:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報46,995.03。"
+    },
+    {
+      "id": "mkt:01a14239-5bdf-7ee0-a8ab-4d1a3f66f260",
+      "time": "2026-10-16 09:00:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 futures opened 0.49% higher."
+    },
+    {
+      "id": "5148667",
+      "time": "2026-10-16 09:00:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通公司宣佈與傳音科技續簽專利許可協議。"
+    },
+    {
+      "id": "mkt:01a14239-36d1-7ee0-a8ab-42c658828358",
+      "time": "2026-10-16 09:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Precious Metals"
+      ],
+      "text": "China's main futures contracts opened mostly lower. Palm oil and benzene fell nearly 2%; fuel oil, Shanghai nickel, styrene (EB), methanol, LPG, apples, ethylene glycol (EG) and plastics dropped more than 1%. On the upside, synthetic rubber rose nearly 3%, while Shanghai silver, Shanghai tin and No.20 rubber gained over 1%."
+    },
+    {
+      "id": "5148666",
+      "time": "2026-10-16 09:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "豆粕連續主力合約日內跌1%，現報3306.00元。"
+    },
+    {
+      "id": "5148665",
+      "time": "2026-10-16 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報3181.00元。"
+    },
+    {
+      "id": "5148664",
+      "time": "2026-10-16 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】丁二烯橡膠連續漲2.75%，棕櫚油連續跌1.94%，純苯連續跌1.88%，苯乙烯連續跌1.68%，菜籽連續跌1.63%。"
+    },
+    {
+      "id": "5148663",
+      "time": "2026-10-16 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.47%。"
+    },
+    {
+      "id": "mkt:01a14239-1e93-7ee0-a8ab-3f5b5c3be44c",
+      "time": "2026-10-16 09:00:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【China to sell 15.5 bln yuan 2026 sovereign bond in Hong Kong on Oct. 23】China's Ministry of Finance will issue the fifth tranche of the 2026 yuan sovereign bond in Hong Kong on Oct. 23, size 15.5 bln yuan. Specific issuance details will be posted on the Hong Kong Monetary Authority's Central Moneymarkets Unit (CMU)."
+    },
+    {
+      "id": "5148662",
+      "time": "2026-10-16 08:59:45",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部將於10月在香港發行155億元人民幣國債】根據有關工作安排，財政部將於10月23日在香港特別行政區發行2026年第五期人民幣國債，發行規模為155億元，具體發行安排將在香港金融管理局債務工具中央結算系統（CMU）公佈。 (財政部)"
+    },
     {
       "id": "5148661",
       "time": "2026-10-16 08:58:36",
@@ -17,6 +195,24 @@
         "國際"
       ],
       "text": "【委內瑞拉政界人士：將繼續爭取馬杜羅夫婦獲釋】委內瑞拉執政黨統一社會主義黨組織事務書記、加拉加斯市長卡門·梅倫德斯表示，委方將繼續努力爭取委總統馬杜羅及其夫人獲釋。在委首都加拉加斯市中心舉行的反對美方指控馬杜羅夫婦的集會上，梅倫德斯表示，馬杜羅夫婦“是戰俘”，正遭受美國司法程式不公正對待，因此當天的集會是為“呼籲正義”。委內瑞拉全國代表大會議員諾拉·德爾加多說，美軍突襲委內瑞拉破壞國際法，損害委內瑞拉人民權益，因此他們要求正義、要求美方釋放馬杜羅夫婦。（新華社）"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610153897164684",
+      "time": "2026-10-16 08:58:13",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【股市波動存款搬家放緩 9月非銀存款大幅多減】央行10月14日披露的金融資料顯示，9月新增信貸延續同比少增，M2增速持續回落。其中值得關注的是，當月非銀存款減少近2萬億元，M2-M1剪刀差再度走闊。在近期資本市場持續調整背景下，相關資料變化備受關注。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202610153897164684",
+      "time": "2026-10-16 08:58:13",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【股市波動存款搬家放緩 9月非銀存款大幅多減】央行10月14日披露的金融資料顯示，9月新增信貸延續同比少增，M2增速持續回落。其中值得關注的是，當月非銀存款減少近2萬億元，M2-M1剪刀差再度走闊。在近期資本市場持續調整背景下，相關資料變化備受關注。"
     },
     {
       "id": "5148659",
@@ -113360,188 +113556,6 @@
         "焦點"
       ],
       "text": "甲醇連續主力合約日內漲5%，現報3306.00元。"
-    },
-    {
-      "id": "mkt:01a11e2f-b057-7ee0-a807-1a50e36e06ac",
-      "time": "2026-10-09 09:03:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Japan relaunches US-style \"DOGE\" fiscal review to fund Takaichi’s costlier pledges】Japan said Friday it will relaunch a broad fiscal spending review, expanding scrutiny of public funds and subsidy programs to find financing for Prime Minister Takaichi Sanae’s high-cost policy commitments. The restart revives a Japan version of the US-style DOGE program (Government Efficiency Office plan). An earlier review of about 120 tax preferences yielded only three abolition proposals, prompting a tougher approach. The new round will target 201 special government funds, whose combined balances are estimated at about ¥7 trillion ($443.5 billion) by the end of the next fiscal year."
-    },
-    {
-      "id": "5133645",
-      "time": "2026-10-09 09:03:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌5%，現報115460.00元。"
-    },
-    {
-      "id": "5133644",
-      "time": "2026-10-09 09:03:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內漲1%，現報1016.00元。"
-    },
-    {
-      "id": "te:markets:590636",
-      "time": "2026-10-09 09:02:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Holds Gains — US gasoline futures traded above $3.30 per gallon, holding most of their recent gains amid persistent supply concerns. Tanker attacks in the Strait of Hormuz and fresh US sanctions on Iran kept concerns over regional energy shipments elevated, although President Trump's pledge to avoid military action against Iran before the November 3 midterm elections offered some relief. Meanwhile, Hurricane Isaias prompted the shutdown of about 1.3 million barrels per day of oil production in the US Gulf of Mexico, or roughly 63% of regional output, adding to near-term supply risks. Russian refinery disruptions and diesel-export restrictions, alongside China's reported suspension of some October fuel exports, added to broader refined-product market tightness. However, EIA data showed US gasoline inventories unexpectedly rose by 382 thousand barrels in the week ended October 2, rebounding after two consecutive weekly draws, although stocks remained 6% below the five-year average."
-    },
-    {
-      "id": "mkt:01a11e2e-611c-7ee0-a807-11ca7f2817ed",
-      "time": "2026-10-09 09:01:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "China lithium carbonate most-active contract extended its intraday decline to 4.77%, trading at 115,820 yuan/ton."
-    },
-    {
-      "id": "mkt:01a11e2d-e31f-7ee0-a807-0df34b5f94f3",
-      "time": "2026-10-09 09:01:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "On Friday, Oct. 8, the Taiwan Weighted Index opened 492.93 points, or 0.99%, lower at 49,313.44."
-    },
-    {
-      "id": "5133643",
-      "time": "2026-10-09 09:01:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "新加坡海峽時報指數開盤上漲0.3%，至5430.55點。馬來西亞吉隆坡綜合指數開盤上漲0.1%，至1602.94點。"
-    },
-    {
-      "id": "5133642",
-      "time": "2026-10-09 09:00:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年第三季度見義勇為勇士榜釋出 79位勇士上榜】10月9日，中央政法委在京釋出2026年第三季度見義勇為勇士榜。根據見義勇為典型事蹟突出程度、網路關注度、各地依法確認和申報意見，進行綜合評審評議，共有79位見義勇為勇士獲通報表揚和獎勵慰問，其中有13位因見義勇為不幸犧牲。（央視）"
-    },
-    {
-      "id": "mkt:01a11e2d-36cd-7ee0-a807-02d313780f1e",
-      "time": "2026-10-09 09:00:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 futures opened down 0.29%."
-    },
-    {
-      "id": "mkt:01a11e2d-308e-7ee0-a806-f97e633a37a7",
-      "time": "2026-10-09 09:00:40",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan 2-year government bond yield fell 1.5 bps to 1.915%."
-    },
-    {
-      "id": "mkt:01a11e2d-26ca-7ee0-a806-f29b270d4bd6",
-      "time": "2026-10-09 09:00:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 0.41% to 895.66 yuan/gram in early trade on Friday, Oct 9. Silver T+D was up 0.09% at 14,465.0 yuan/kg."
-    },
-    {
-      "id": "5133641",
-      "time": "2026-10-09 09:00:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "碳酸鋰連續主力合約日內跌4%，現報116640.00元。"
-    },
-    {
-      "id": "mkt:01a11e2c-c5e9-7ee0-a806-ebfc9171ac7b",
-      "time": "2026-10-09 09:00:12",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's main domestic futures contracts opened mostly lower: SHFE tin fell about 5%, lithium carbonate dropped over 3%, ethylene glycol (EG) and SHFE lead declined more than 2%, while SHFE zinc, international copper and aluminum alloy slipped nearly 2%. On the upside, methanol rose over 7%, LPG gained nearly 5%, benzene was up over 2%, polypropylene and plastic climbed about 2%, and p-xylene and fuel oil rose just over 1%."
-    },
-    {
-      "id": "5133640",
-      "time": "2026-10-09 09:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲5%，現報7507.00元。"
-    },
-    {
-      "id": "5133639",
-      "time": "2026-10-09 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲4%，現報7496.00元。"
-    },
-    {
-      "id": "5133638",
-      "time": "2026-10-09 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲4%，現報3295.00元。"
-    },
-    {
-      "id": "5133637",
-      "time": "2026-10-09 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】錫連續跌5.20%，液化石油氣連續漲4.88%，甲醇連續漲4.76%，碳酸鋰連續跌2.80%，乙二醇連續跌2.79%。"
-    },
-    {
-      "id": "5133636",
-      "time": "2026-10-09 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.27%。"
-    },
-    {
-      "id": "te:markets:590635",
-      "time": "2026-10-09 08:59:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Poised to Finish Week Lower — Silver steadied above $59 an ounce on Friday, but was still on track to finish the week lower as investors assessed developments in the Middle East and the outlook for Federal Reserve monetary policy. Oil prices eased after President Donald Trump said the US was engaged in “productive discussions” with Iran and would refrain from attacking the country before the midterm elections. His comments came even as Iran intensified attacks on tankers passing through the Strait of Hormuz this week. A hurricane also disrupted US offshore oil production in the Gulf of Mexico. Meanwhile, markets are currently pricing in an approximately 82% probability that the Fed will keep interest rates unchanged this month, while the odds of a rate hike in December stand at around 81%. On Thursday, St. Louis Fed President Alberto Musalem indicated that rates may need to rise over the next six to nine months to bring inflation back toward the central bank’s 2% target."
     }
   ]
 }
