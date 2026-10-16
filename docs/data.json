@@ -1,7 +1,152 @@
 {
-  "updated": "2026-10-16 11:49:15",
-  "count": 12726,
+  "updated": "2026-10-16 11:52:56",
+  "count": 12737,
   "items": [
+    {
+      "id": "mkt:01a142d6-f0cd-7ee0-a8b1-59fb6be4e030",
+      "time": "2026-10-16 11:52:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose about $20 intraday to touch $4,180/oz, up 0.25% on the day."
+    },
+    {
+      "id": "mkt:01a142d6-a8bc-7ee0-a8b1-50a6340f1370",
+      "time": "2026-10-16 11:52:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures hit an intraday high of $58/oz, up 1.48% on the day."
+    },
+    {
+      "id": "mkt:01a142d6-a1f3-7ee0-a8b1-4cf5ba992d0d",
+      "time": "2026-10-16 11:52:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Chair Kevin Warsh said the question is whether policymakers can address \"negative tail risks\"."
+    },
+    {
+      "id": "5149006",
+      "time": "2026-10-16 11:51:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：需要問的是，“是否存在決策者可以採取措施應對的負面尾部風險”。"
+    },
+    {
+      "id": "mkt:01a142d6-32bb-7ee0-a8b1-41a1c3998113",
+      "time": "2026-10-16 11:51:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kevin Warsh, Federal Reserve chair, said the Fed needs to consider financial-stability risks when setting policy."
+    },
+    {
+      "id": "mkt:01a142d5-f920-7ee0-a8b1-385bef20d9ad",
+      "time": "2026-10-16 11:51:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the U.S. is advancing new technologies through private-sector investment and the Fed is not trying to judge who is right or wrong."
+    },
+    {
+      "id": "mkt:01a142d5-babc-7ee0-a8b1-378f7a745f0c",
+      "time": "2026-10-16 11:51:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Dollar index (DXY) slipped about 0.15 points in intraday trade to 101.86."
+    },
+    {
+      "id": "5149005",
+      "time": "2026-10-16 11:51:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧將從根本上改變貨幣政策的實施方式。目前還不清楚人工智慧未來對就業的影響。"
+    },
+    {
+      "id": "5149004",
+      "time": "2026-10-16 11:50:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破58美元/盎司，日內漲1.50%。"
+    },
+    {
+      "id": "5149003",
+      "time": "2026-10-16 11:50:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：美國正透過私營部門投資於新技術，美聯儲不會試圖判斷誰對誰錯。"
+    },
+    {
+      "id": "mkt:01a142d5-3159-7ee0-a8b1-29bf3d33e9c1",
+      "time": "2026-10-16 11:50:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "KEVIN WARSH said Fed working groups are tasked with creating new intellectual capital to support the Federal Open Market Committee (FOMC)."
+    },
+    {
+      "id": "5149002",
+      "time": "2026-10-16 11:50:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲0.23%。"
+    },
+    {
+      "id": "5149001",
+      "time": "2026-10-16 11:49:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲工作組肩負著創造新智力資本以協助聯邦公開市場委員會的重任。"
+    },
+    {
+      "id": "mkt:01a142d4-324d-7ee0-a8b1-22ef3ddfda2d",
+      "time": "2026-10-16 11:49:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said it remains unclear how artificial intelligence will affect the unemployment rate going forward."
+    },
+    {
+      "id": "5149000",
+      "time": "2026-10-16 11:49:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網自動測定：10月16日11時35分在俄羅斯堪察加半島附近（北緯51.88度，東經157.11度）發生7.2級左右地震，最終結果以正式速報為準。"
+    },
     {
       "id": "mkt:01a142d3-7963-7ee0-a8b1-1aff5337ed53",
       "time": "2026-10-16 11:48:37",
@@ -116142,41 +116287,6 @@
         "公司"
       ],
       "text": "【貝特瑞在烏蘭察布成立新能源材料公司】企查查APP顯示，近日，貝特瑞（烏蘭察布）新能源材料有限公司成立，法定代表人為李洋，註冊資本為1000萬元，經營範圍包含：石墨及碳素製品製造；石墨及碳素製品銷售；電子專用材料製造；電子專用材料銷售；電池製造等。企查查股權穿透顯示，該公司由貝特瑞間接全資持股。"
-    },
-    {
-      "id": "5134149",
-      "time": "2026-10-09 11:52:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大和：重申安踏“買入”評級，視為中國運動服飾及整體消費板塊首選股】大和發表研報指，安踏體育完成以15.1億歐元現金代價收購PUMA SE 29.06%股權，重申對安踏的“買入”評級，並視其為中國運動服飾及整體消費板塊首選股。該行指出，交易作價較PUMA最近收市價溢價約50%，按彭博2026至2027年平均市場預測推算，隱含市銷率約0.7倍，完成收購後安踏成為PUMA最大股東，屬其單聚焦、多品牌、全球化策略又一里程碑，預料有助擴大對全球體育用品市場的敞口。該行認為，憑藉安踏扭轉局面的能力及以DTC為主導的模式，PUMA在中國的改善或可成為較快見效的成果。該行預期安踏短期內再進行併購的可能性或較低，賦能及發展Jack Wolfskin、Puma及MAIA Active等品牌或屬當前更優先任務，並預期Jack Wolfskin自2026年第四季起將有更多品牌推廣活動陸續推出。"
-    },
-    {
-      "id": "5134148",
-      "time": "2026-10-09 11:52:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【江淮汽車股價再跌停，市值兩天蒸發超百億元】10月9日，A股早盤江淮汽車（600418）開盤一字封死跌停，截至發稿報22.25元/股，跌幅9.99%，成交額32.81億元，總市值501.55億元，這是繼10月8日跌停之後，該股連續第二個交易日跌停。前一交易日，江淮汽車收盤跌停，報24.72元/股，跌10.01%。兩個交易日內，該公司市值縮水超百億元。訊息面上，市場焦點集中於尊界V800制動踏板支架斷裂輿情。10月8日，汽車垂直領域平臺懂車帝釋出的相關測試影片稱，被測試的三臺尊界V800在緊急制動時，發生了剎車踏板支架斷裂的問題。相關話題迅速登上熱搜。（澎湃）"
-    },
-    {
-      "id": "5134146",
-      "time": "2026-10-09 11:51:03",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率<JP5YTN=JBTC>下跌4.0個基點，至2.345%。30年期日本國債收益率<JP30YTN=JBTC>下跌6.0個基點，至4.060%。"
-    },
-    {
-      "id": "5134144",
-      "time": "2026-10-09 11:49:16",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【國務院國資委：6戶中央企業外部董事職務變動】據國務院國資委網站，6戶中央企業外部董事職務變動。\n\n中國電子科技集團有限公司\n\n經研究，聘任劉才明、張素心為中國電子科技集團有限公司外部董事。\n\n國家電力投資集團有限公司\n\n經研究，聘任王偉、寧福順、王森、呂志韌為國家電力投資集團有限公司外部董事，劉德恆、聶曉夫不再擔任國家電力投資集團有限公司外部董事職務。\n\n中國電信集團有限公司\n\n經研究，聘任陳國平為中國電信集團有限公司外部董事。\n\n東風汽車集團有限公司\n\n經研究，聘任劉祥民、沙躍家為東風汽車集團有限公司外部董事。\n\n中國東方電氣集團有限公司\n\n經研究，聘任慄寶卿、蓋兆舉、盛更紅為中國東方電氣集團有限公司外部董事，黃永達、張誠、蘇文生不再擔任中國東方電氣集團有限公司外部董事職務。\n\n香港中旅（集團）有限公司\n\n經研究，聘任蘇恆軒、張良棟為香港中旅（集團）有限公司外部董事。"
     }
   ]
 }

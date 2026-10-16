@@ -1,7 +1,152 @@
 {
   "date": "2026-10-16",
-  "count": 1191,
+  "count": 1206,
   "items": [
+    {
+      "id": "mkt:01a142d6-f0cd-7ee0-a8b1-59fb6be4e030",
+      "time": "2026-10-16 11:52:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose about $20 intraday to touch $4,180/oz, up 0.25% on the day."
+    },
+    {
+      "id": "mkt:01a142d6-a8bc-7ee0-a8b1-50a6340f1370",
+      "time": "2026-10-16 11:52:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures hit an intraday high of $58/oz, up 1.48% on the day."
+    },
+    {
+      "id": "mkt:01a142d6-a1f3-7ee0-a8b1-4cf5ba992d0d",
+      "time": "2026-10-16 11:52:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Chair Kevin Warsh said the question is whether policymakers can address \"negative tail risks\"."
+    },
+    {
+      "id": "5149006",
+      "time": "2026-10-16 11:51:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：需要問的是，“是否存在決策者可以採取措施應對的負面尾部風險”。"
+    },
+    {
+      "id": "mkt:01a142d6-32bb-7ee0-a8b1-41a1c3998113",
+      "time": "2026-10-16 11:51:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kevin Warsh, Federal Reserve chair, said the Fed needs to consider financial-stability risks when setting policy."
+    },
+    {
+      "id": "mkt:01a142d5-f920-7ee0-a8b1-385bef20d9ad",
+      "time": "2026-10-16 11:51:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the U.S. is advancing new technologies through private-sector investment and the Fed is not trying to judge who is right or wrong."
+    },
+    {
+      "id": "mkt:01a142d5-babc-7ee0-a8b1-378f7a745f0c",
+      "time": "2026-10-16 11:51:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Dollar index (DXY) slipped about 0.15 points in intraday trade to 101.86."
+    },
+    {
+      "id": "5149005",
+      "time": "2026-10-16 11:51:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧將從根本上改變貨幣政策的實施方式。目前還不清楚人工智慧未來對就業的影響。"
+    },
+    {
+      "id": "5149004",
+      "time": "2026-10-16 11:50:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破58美元/盎司，日內漲1.50%。"
+    },
+    {
+      "id": "5149003",
+      "time": "2026-10-16 11:50:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：美國正透過私營部門投資於新技術，美聯儲不會試圖判斷誰對誰錯。"
+    },
+    {
+      "id": "mkt:01a142d5-3159-7ee0-a8b1-29bf3d33e9c1",
+      "time": "2026-10-16 11:50:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "KEVIN WARSH said Fed working groups are tasked with creating new intellectual capital to support the Federal Open Market Committee (FOMC)."
+    },
+    {
+      "id": "5149002",
+      "time": "2026-10-16 11:50:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲0.23%。"
+    },
+    {
+      "id": "5149001",
+      "time": "2026-10-16 11:49:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲工作組肩負著創造新智力資本以協助聯邦公開市場委員會的重任。"
+    },
+    {
+      "id": "mkt:01a142d4-324d-7ee0-a8b1-22ef3ddfda2d",
+      "time": "2026-10-16 11:49:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said it remains unclear how artificial intelligence will affect the unemployment rate going forward."
+    },
+    {
+      "id": "5149000",
+      "time": "2026-10-16 11:49:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "中國地震臺網自動測定：10月16日11時35分在俄羅斯堪察加半島附近（北緯51.88度，東經157.11度）發生7.2級左右地震，最終結果以正式速報為準。"
+    },
     {
       "id": "mkt:01a142d3-7963-7ee0-a8b1-1aff5337ed53",
       "time": "2026-10-16 11:48:37",
