@@ -1,7 +1,30 @@
 {
   "date": "2026-10-17",
-  "count": 205,
+  "count": 207,
   "items": [
+    {
+      "id": "mkt:01a145e9-514f-7ee0-a8c4-8f750acf6411",
+      "time": "2026-10-17 02:11:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【U.S. FY2026 deficit $1.99 tln, five-year high】The U.S. Treasury said the fiscal 2026 deficit widened $217 bln YoY to $1.99 tln, the largest since FY2021 and the third-largest on record. Receipts were a record $5.40 tln, up 3% YoY, while outlays hit a record $7.40 tln, up 6%. Debt-service payments rose 12% YoY to a record $1.36 tln. A Supreme Court ruling voiding much of the Trump-era tariff program prompted $145 bln in tariff refunds in FY2026, cutting net tariff revenue 11% YoY to about $173 bln. Treasury estimates the deficit at 6.2% of GDP versus 5.8% a year earlier. September showed a $27 bln deficit versus a $198 bln surplus in the same month last year."
+    },
+    {
+      "id": "5150469",
+      "time": "2026-10-17 02:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：過去7天約有400艘商船透過霍爾木茲海峽，幫助輸送超過1億桶石油。"
+    },
     {
       "id": "mkt:01a145e5-66d9-7ee0-a8c4-81da6d5afa57",
       "time": "2026-10-17 02:07:04",

@@ -1,7 +1,30 @@
 {
-  "updated": "2026-10-17 02:08:24",
-  "count": 12865,
+  "updated": "2026-10-17 02:12:10",
+  "count": 12861,
   "items": [
+    {
+      "id": "mkt:01a145e9-514f-7ee0-a8c4-8f750acf6411",
+      "time": "2026-10-17 02:11:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【U.S. FY2026 deficit $1.99 tln, five-year high】The U.S. Treasury said the fiscal 2026 deficit widened $217 bln YoY to $1.99 tln, the largest since FY2021 and the third-largest on record. Receipts were a record $5.40 tln, up 3% YoY, while outlays hit a record $7.40 tln, up 6%. Debt-service payments rose 12% YoY to a record $1.36 tln. A Supreme Court ruling voiding much of the Trump-era tariff program prompted $145 bln in tariff refunds in FY2026, cutting net tariff revenue 11% YoY to about $173 bln. Treasury estimates the deficit at 6.2% of GDP versus 5.8% a year earlier. September showed a $27 bln deficit versus a $198 bln surplus in the same month last year."
+    },
+    {
+      "id": "5150469",
+      "time": "2026-10-17 02:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：過去7天約有400艘商船透過霍爾木茲海峽，幫助輸送超過1億桶石油。"
+    },
     {
       "id": "mkt:01a145e5-66d9-7ee0-a8c4-81da6d5afa57",
       "time": "2026-10-17 02:07:04",
@@ -117465,55 +117488,6 @@
         "國際"
       ],
       "text": "美國地質調查局：將巴拿馬地震震級從8級下調至7.6級。"
-    },
-    {
-      "id": "5135609",
-      "time": "2026-10-10 02:11:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海嘯預警系統：地震發生後，哥斯大黎加、厄瓜多、秘魯、尼加拉瓜、瓜地馬拉、薩爾瓦多、墨西哥沿岸可能出現危險海浪。"
-    },
-    {
-      "id": "mkt:01a121dc-ba26-7ee0-a81d-af44814e07de",
-      "time": "2026-10-10 02:11:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces (IDF) said it carried out an airstrike on a Syrian militant operative acting under the direction of the Iranian regime."
-    },
-    {
-      "id": "5135608",
-      "time": "2026-10-10 02:10:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "賓夕法尼亞州：葛蘭素史克正擴建其位於上梅里恩鎮的設施，計劃於2027年開工建設。"
-    },
-    {
-      "id": "5135607",
-      "time": "2026-10-10 02:09:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：10月10日01時56分在巴拿馬附近（北緯7.70度，西經80.85度）發生7.8級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "5135606",
-      "time": "2026-10-10 02:09:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "賓夕法尼亞州州長夏皮羅爭取到葛蘭素史克逾8億美元投資，用於擴大運營並創造300多個新工作崗位。"
-    },
-    {
-      "id": "mkt:01a121da-8370-7ee0-a81d-a48daf1b86a0",
-      "time": "2026-10-10 02:08:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【7.7 magnitude earthquake strikes central Panama】The European-Mediterranean Seismological Centre reported a 7.7 magnitude earthquake in the Macaracas area of central Panama at 12:56 local time on the 9th, depth 12 km. The U.S. Tsunami Warning System issued a tsunami warning."
     }
   ]
 }
