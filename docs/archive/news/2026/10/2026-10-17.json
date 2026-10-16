@@ -1,7 +1,49 @@
 {
   "date": "2026-10-17",
-  "count": 181,
+  "count": 185,
   "items": [
+    {
+      "id": "5150460",
+      "time": "2026-10-17 01:55:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所：截至10月13日當週，柴油投機者淨多頭頭寸增加5304手，至75461手。"
+    },
+    {
+      "id": "mkt:01a145da-f328-7ee0-a8c4-28208c254e57",
+      "time": "2026-10-17 01:55:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ICE data: For the week ended Oct 13, diesel speculative net longs rose 5,304 contracts to 75,461."
+    },
+    {
+      "id": "mkt:01a145d8-ce75-7ee0-a8c4-262ab311832d",
+      "time": "2026-10-17 01:53:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Iran foreign ministry says willing to help Saudi Arabia and Yemeni Houthi movement resolve differences diplomatically】Iran foreign ministry spokesperson BAGHAEI said Iran insists on resolving Saudi Arabia–Yemen issues through dialogue and diplomacy and is willing to assist if either party requests help. He denied Iranian orchestration of Houthi attacks, saying the Houthi movement acts on its own interests and judgment. BAGHAEI said resolving the Yemen crisis requires respect for Yemen’s sovereignty and territorial integrity, an end to external interference and to maritime and air blockades. He added that the past 12 years show external intervention, military action and blockades have not solved the problem, and that escalation would not serve any party’s interests."
+    },
+    {
+      "id": "5150459",
+      "time": "2026-10-17 01:52:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）：10月13日當週，投機者所持ICE布倫特原油淨多頭頭寸增加31,977手合約，至233,029手合約，創四周新高。"
+    },
     {
       "id": "mkt:01a145d6-e426-7ee0-a8c4-1cf70fbc196a",
       "time": "2026-10-17 01:51:13",
