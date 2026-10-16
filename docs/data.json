@@ -1,7 +1,205 @@
 {
-  "updated": "2026-10-16 16:05:56",
-  "count": 12639,
+  "updated": "2026-10-16 16:09:48",
+  "count": 12660,
   "items": [
+    {
+      "id": "5149427",
+      "time": "2026-10-16 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲0.52%，恒生科技指數漲1.16%】聯想集團漲7.62%，龍湖集團漲6.32%，新東方-S漲5.68%，百濟神州漲4.17%，李寧漲4.07%，蔚來-SW漲3.93%，極兔速遞-W漲3.73%。"
+    },
+    {
+      "id": "mkt:01a143c1-e026-7ee0-a8b8-3b0d36c31575",
+      "time": "2026-10-16 16:09:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "00992.HK",
+        "XAUUSD"
+      ],
+      "text": "At the close in Hong Kong, the Hang Seng Index rose 0.52% and the Hang Seng Tech Index gained 1.16%. Property developers, building materials/cement, gold and optical communications led gains. Lenovo Group (00992.HK) jumped over 8%."
+    },
+    {
+      "id": "5149426",
+      "time": "2026-10-16 16:08:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數漲幅擴大至0.5%。"
+    },
+    {
+      "id": "mkt:01a143c1-808e-7ee0-a8b8-31b29c13c745",
+      "time": "2026-10-16 16:08:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O): Mercedes-Benz will use NVIDIA technology to support SAE Level 4 autonomous driving and driverless passenger cars."
+    },
+    {
+      "id": "te:markets:592706",
+      "time": "2026-10-16 16:08:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX at Over 3-Week High — Frankfurt’s DAX 40 rose 0.6% to above 25,500 on Friday, reaching a more than three-week high and extending its gains for a third consecutive session. Market sentiment was supported by easing concerns over AI spending and interest rates, which led to a stabilization in bond yields, especially after Fed Chair Kevin Warsh's remarks. The policymaker highlighted AI’s potential to significantly boost economic productivity over the medium term. Meanwhile, traders continued to monitor corporate earnings and geopolitical developments."
+    },
+    {
+      "id": "te:markets:592705",
+      "time": "2026-10-16 16:08:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Rises on Friday — Milan’s FTSE MIB rose around 0.4% on Friday, recouping some losses from the previous session as investors assessed corporate developments and tracked gains across regional peers. UniCredit gained 0.6% after receiving ECB approval to take control of Germany’s Commerzbank, while Brunello Cucinelli jumped 4.0% after raising its 2026 outlook following stronger third-quarter sales. Other notable gainers included defense-related shares, with Leonardo advancing 2.7% and Fincantieri rising 2.6%, while Saipem added 1.6% and Stellantis gained 1.4%. On the other hand, Eni fell 0.4%, mirroring a modest decline in crude prices and facing disruptions at its Taranto refinery linked to protests over the former Ilva steelworks crisis. On the data front, investors awaited the final September inflation reading. For the week, the benchmark index was on track for a muted performance."
+    },
+    {
+      "id": "mkt:01a143c0-bcff-7ee0-a8b8-2d6ee0d26415",
+      "time": "2026-10-16 16:07:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "MBG.DE"
+      ],
+      "text": "NVIDIA (NVDA.O) and Mercedes-Benz will integrate MB.OS with NVIDIA’s Hyperion and Alpamayo technology stacks and the Halos security system."
+    },
+    {
+      "id": "5149425",
+      "time": "2026-10-16 16:07:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【滬東中華：今年以來累計新接LNG船訂單15艘 生產排期至2030年以後】中國船舶集團旗下滬東中華造船（集團）有限公司與馬來西亞國際航運公司（MISC Berhad）於當日簽署5艘17.4萬立方米大型液化天然氣（LNG）船建造合同。隨著本次合同的簽署，滬東中華手持LNG船訂單總量達到57艘，佔全球21%以上份額，以艙容量統計位居全球第一。公司相關負責人表示，今年以來，公司累計新接LNG船訂單15艘，生產排期已至2030年以後。 (中證金牛座)"
+    },
+    {
+      "id": "mkt:01a143c0-6c50-7ee0-a8b8-2365b95139ba",
+      "time": "2026-10-16 16:07:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ireland's prime minister said Ireland will consider all options to continue supporting Ukraine."
+    },
+    {
+      "id": "mkt:01a143c0-31a6-7ee0-a8b8-1ba985b10387",
+      "time": "2026-10-16 16:07:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "EIDO",
+        "Impact bearish"
+      ],
+      "text": "After MSCI opened a consultation to reclassify Indonesia as a standalone market, the iShares MSCI Indonesia ETF fell 11.2% in pre-market trading."
+    },
+    {
+      "id": "5149424",
+      "time": "2026-10-16 16:07:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四方光電：持股5%以上股東質押388萬股股份】四方光電公告稱，公司持股5%以上股東贛州絲清源科技投資有限公司持有公司股份1001萬股，佔公司總股本的9.89%。本次質押股份388萬股，佔其持股總數的38.76%，佔總股本的3.83%，質押起始日為2026年10月14日，到期日為2027年10月13日，質權人為深圳擔保集團有限公司，資金用途為補充流動資金。本次質押完成後，該股東累計質押股份388萬股，佔其持股總數的38.76%，佔總股本的3.83%。"
+    },
+    {
+      "id": "5149423",
+      "time": "2026-10-16 16:07:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST泉為：控股股東一致行動人229萬股股份將被強制執行】*ST泉為公告稱，公司控股股東泉為綠能投資(海南)有限公司的一致行動人廣東國立科技控股有限公司，因民間借貸糾紛，其持有的公司229萬股無限售流通股（佔公司總股本1.43%）將被廣東省江門市蓬江區人民法院強制賣出。執行時間為2026年11月6日-2027年1月30日，透過集中競價方式按市價處置，連續90日內集中競價減持不超公司總股本1%。本次被動減持不會導致公司實際控制人變更，不會對公司治理、股權結構及持續經營產生重大影響。"
+    },
+    {
+      "id": "5149422",
+      "time": "2026-10-16 16:06:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東七鮮美食MALL北京首店今日正式開業】今日，京東旗下七鮮美食MALL（北京西宸裡店）正式開業，落地北京西城區西宸裡商圈。七鮮美食MALL首創“跨店點，隨心吃”，這裡匯聚36個餐飲品牌，依託五大智慧化裝置重塑就餐體驗。（新浪科技）"
+    },
+    {
+      "id": "5149421",
+      "time": "2026-10-16 16:06:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿萊德：籌劃重大資產重組 盡職調查持續推進中】阿萊德公告稱，公司擬透過支付現金受讓及增資方式取得惠州市源寶精密五金壓鑄有限公司不低於51%的股權，本次交易預計構成重大資產重組，不涉及發行股份，不構成關聯交易，不會導致公司控股股東和實控人變更。截至本公告披露日，本次交易相關盡職調查工作尚在持續推進中，交易具體方案尚需各方協商論證，需履行必要決策和審批程式，存在重大不確定性。本次交易籌劃事項公司股票不停牌。"
+    },
+    {
+      "id": "5149420",
+      "time": "2026-10-16 16:06:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【駿成科技：籌劃重大資產重組暨關聯交易 尚未簽署正式交易檔案】駿成科技公告稱，公司正在籌劃以現金方式購買江蘇新通達電子科技股份有限公司50%股份，本次交易前公司已持有標的公司40%股份，交易完成後江蘇新通達將成為公司控股子公司，本次交易構成關聯交易且預計構成重大資產重組，不涉及發行股份，不會導致公司控股股東和實際控制人發生變更。截至本公告披露日，相關盡職調查、審計、評估等工作尚未最終完成，交易相關方尚未簽署正式交易檔案，本次重組仍存在不確定性。"
+    },
+    {
+      "id": "5149419",
+      "time": "2026-10-16 16:06:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國建築：控股股東累計增持0.04%股份 增持計劃尚未完成】中國建築公告稱，公司控股股東中建集團擬自2026年7月21日起12個月內，以集中競價方式增持公司A股股份，增持金額不低於5億元、不超過10億元。2026年9月3日至10月15日，中建集團增持公司股份695.19萬股，佔總股本0.02%，增持金額約2999.02萬元。截至本公告日，中建集團累計增持1854.99萬股，佔總股本0.04%，累計增持金額約7998.56萬元，本次增持計劃尚未實施完畢。"
+    },
+    {
+      "id": "5149418",
+      "time": "2026-10-16 16:06:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝達藥業：BPI-57.23萬聯用臨床申請獲受理，3個受理號】貝達藥業公告，公司2026年1月申報的BPI-57.23萬膠囊臨床試驗獲批開展，目前處於劑量爬坡和劑量回填階段；近日，全資子公司景曜生物申報的該膠囊聯合化療、PD-1/VEGF雙抗、PD-1單抗+含鉑化療、FAK抑制劑、EGFR抗體等方案的臨床試驗申請獲國家藥品監督管理局受理，受理號為CXHL2601291、CXHL2601292、CXHL2601293。"
+    },
+    {
+      "id": "mkt:01a143bf-2fec-7ee0-a8b8-13002b49b05d",
+      "time": "2026-10-16 16:06:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "YONHAP reported South Korea's finance minister and central bank governor held a joint meeting with Fed and U.S. Treasury officials to discuss recent economic conditions and bilateral economic and financial cooperation."
+    },
+    {
+      "id": "5149417",
+      "time": "2026-10-16 16:05:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝斯美：控股子公司銅陵貝斯美擬拆除部分設施】貝斯美公告稱，公司控股子公司銅陵貝斯美因“長江一公里”政策調整，廠區約27畝區域被劃入長江支流岸線一公里管控範圍，需拆除範圍內相關裝置、倉庫。本次拆除不涉及戊酮、環戊烷核心主生產裝置，銅陵貝斯美即日起停產，預計2026年11月底完成拆除並恢復生產。涉拆除設施存在減值風險，政府補償範圍、金額及支付時間均存在不確定性，整改週期也可能因場地監測情況拉長。"
+    },
+    {
+      "id": "5149415",
+      "time": "2026-10-16 16:05:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛爾蘭總理：我們將考慮所有關於如何繼續支援烏克蘭的選項。"
+    },
     {
       "id": "mkt:01a143be-822c-7ee0-a8b8-0b5cfd0d59fc",
       "time": "2026-10-16 16:05:20",
@@ -9,6 +207,16 @@
         "MKT News"
       ],
       "text": "【MOFCOM: Whether specific offshore deployments fall under tech export controls hinges on whether restricted technologies are transferred from China abroad】MOFCOM said whether an AI ‘‘go-global’’ scenario falls within tech export controls depends on whether restricted-category technology is transferred from China to overseas. The AI technologies newly placed under regulation are precisely defined and limited; after implementation, the vast majority of AI technologies can still be exported freely. For technologies designated as restricted, localized deployment overseas constitutes a technology export subject to controls, though deployment on overseas self‑owned cloud or similarly lower‑risk environments may qualify for automatic licensing and other facilitative measures. By contrast, using restricted large models to provide API calls, app/web interaction, SaaS, or lightweight local edge deployments does not fall under large‑model technology export controls."
+    },
+    {
+      "id": "5149414",
+      "time": "2026-10-16 16:05:20",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "MSCI啟動將印度尼西亞重新歸類為獨立市場的諮詢程式後，iShares MSCI印度尼西亞ETF盤前下跌11.2%。"
     },
     {
       "id": "te:markets:592703",
