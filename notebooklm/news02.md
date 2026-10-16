@@ -1,7 +1,471 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-10-17 05:15:14_
-_本檔包含 2566 則快訊，約 486844 字_
+_更新時間：2026-10-17 07:50:04_
+_本檔包含 2548 則快訊，約 485919 字_
+
+---
+
+### 2026-10-16 04:18:53  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #Impact bearish
+
+【US crude up, Brent down; futures spread narrows sharply】At the close on the 15th, NYMEX November light crude futures rose $2.88 to $97.97/bbl, up 3.03%. ICE Brent December futures fell $0.14 to $105.92/bbl, down 0.13%.
+
+---
+
+### 2026-10-16 04:16:21  #其他
+
+市場訊息：Proofpoint 將以每股 49.75 美元現金收購 Varonis，交易規模63億美元。
+
+---
+
+### 2026-10-16 04:14:17  #公司 #國際
+
+美國鋁業公司：預計 2026 年第四季度將延續 2026 年第三季度強勁的運營表現。重申 2026 年鋁產量 240 萬至 260 萬噸，出貨量 260 萬至 280 萬噸。仍然預測全年氧化鋁發貨量1,150萬至1,160萬公噸。
+
+---
+
+### 2026-10-16 04:13:14  #市場
+
+【國際油價15日漲跌不一】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格上漲2.88美元，收於每桶97.97美元，漲幅為3.03%；12月交貨的倫敦布倫特原油期貨價格下跌14美分，收於每桶105.92美元，跌幅為0.13%。
+
+---
+
+### 2026-10-16 04:12:42  #公司 #國際
+
+美國鋁業公司第三季度調整後EBITDA 7.89億美元，預估7.384億美元。
+第三季度銷售額37.0億美元，預估37.6億美元。
+第三季度調整後每股收益1.82美元，預估1.49美元。
+
+---
+
+### 2026-10-16 04:12:09  #市場
+
+卡特彼勒收跌1.78%，報735.64美元，較6月30日所創收盤歷史最高位累計回撤大約30.8%。
+
+---
+
+### 2026-10-16 04:11:44  #國際
+
+【以色列官員稱美以就打擊伊朗預案進行磋商】當地時間15日，據以色列方面援引以色列安全官員訊息稱，以色列與西方情報顯示伊朗正採取軍事方面的“極端舉措”，因此以色列總理內塔尼亞胡當天與美國國務卿盧比奧通電話，就對伊朗實施軍事打擊計劃進行磋商。不過該訊息稱，以色列和美國的官員均表示，雙方評估認為目前的態勢發展尚未達到需要立即採取軍事行動的程度。此前，美國總統特朗普曾表示不會在11月3日美國中期選舉前攻擊伊朗，內塔尼亞胡也稱10月27日以色列議會選舉前不會動手。（央視新聞）
+
+---
+
+### 2026-10-16 04:11:44  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【US, Israel reported to intensify consultations on plans to strike Iran】On Oct 15 local time Israel’s Channel 12, citing Israeli security officials, reported that Israeli and Western intelligence assess Iran is taking extreme military measures, and that Prime Minister Netanyahu spoke the same day with US Secretary of State Rubio to consult on plans for a military strike. Channel 12 said US and Israeli officials told the station they currently assess the situation has not reached the threshold requiring immediate military action.
+
+---
+
+### 2026-10-16 04:08:16  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rebound as Chipmaker Selloff Eases — US stock indices closed higher on Thursday, rebounding from earlier losses as the selloff in AI infrastructure stocks eased. The S&P 500 gained 0.3%, the Nasdaq closed near flat, and the Dow added 557 points. Chipmakers and AI hyperscalers pared losses after Nvidia CEO Jensen Huang pushed back against concerns about CoreWeave (+5.9%), saying he did not believe the company would need a bailout from Nvidia. The data center firm is an important test case for the viability of businesses emerging to meet surging demand for AI computing. Companies like CoreWeave have borrowed heavily with support from suppliers, including Nvidia (-1.8%), fueling concerns that circular financing may be creating artificial demand. Most hyperscalers closed higher, with Microsoft up 1.1% and Oracle gaining 3%. The chip selloff slowed sharply, with Broadcom down 0.6%, AMD losing 1.5%, while Micron rose 1.9%. The Dow was supported by a rally in Treasuries after a rout that had propelled yields to multi-year highs.
+
+---
+
+### 2026-10-16 04:08:08  #其他
+
+惠譽：儘管面臨關稅相關壓力，預計加拿大銀行業將維持穩健表現。
+
+---
+
+### 2026-10-16 04:07:24  #其他
+
+惠譽：隨著業務量回升、消費者與企業情緒企穩，預計加拿大各大銀行 2027 年盈利將小幅改善。
+
+---
+
+### 2026-10-16 04:05:45  #MKT News
+
+Ukrainian President Zelenskiy said it is crucial that frozen Russian assets remain frozen.
+
+---
+
+### 2026-10-16 04:04:37  #MKT News #Dow #Impact bullish #S&P500 #Nasdaq100
+
+Dow Jones Industrial Average closed up 557.51 points, or 1.08%, at 52,178.99 on Thursday, Oct. 15; S&P 500 closed up 25.18 points, or 0.33%, at 7,744.12; Nasdaq Composite closed up 20.16 points, or 0.08%, at 26,713.03.
+
+---
+
+### 2026-10-16 04:04:30  #其他
+
+【聯合國安理會譴責胡塞武裝跨境襲擊民用設施】當地時間10月15日下午，聯合國安理會透過關於葉門局勢的主席宣告，並由本月輪值主席國希臘釋出，以最強烈的措辭譴責胡塞武裝持續對沙烏地阿拉伯發動襲擊，包括針對民用航空和能源基礎設施的襲擊。安理會成員向遇難者家屬以及沙特政府和人民表示最深切的慰問，並祝願所有傷者早日康復。（央視新聞）
+
+---
+
+### 2026-10-16 04:03:33  #市場
+
+費城半導體指數連續第七天下跌。
+
+---
+
+### 2026-10-16 04:03:11  #MKT News #Important #Star Stocks #JD.com #S&P500 #Impact bullish #NTES.O #JD.O
+
+【US close: major indexes up; Nasdaq Golden Dragon index +1.96%】US stocks closed Thursday: Dow Jones Industrial Average +1.08%, S&P 500 +0.33%, Nasdaq Composite +0.08%. S&P and Nasdaq opened lower before finishing higher. Notable movers: Micron Technology (MU.O) +1.8%, SK Hynix (SKHY.O) -1%, Dell Technologies (DELL.N) -7%, CoreWeave (CRWV.O) +6%. Nasdaq Golden Dragon China Index +1.96%; NetEase (NTES.O) +2.7%, JD.com (JD.O) +2.6%.
+
+---
+
+### 2026-10-16 04:02:14  #MKT News
+
+State Dept official: Secretary of State Rubio urged Lebanon and Israeli military forces to establish direct military communication channels to avoid escalation of hostilities.
+
+---
+
+### 2026-10-16 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲1.08%，標普500指數漲0.33%，納指漲0.07%。艾可菲漲7.26%，Reddit漲7.25%，Fair Isaac Corp漲6.98%，國際紙業漲6.85%，APP AppLovin漲6.49%，Coinbase Global漲6.37%。“七姐妹”方面：微軟漲1.01%，谷歌漲0.34%，亞馬遜漲0.27%，Meta Platforms跌0.14%，蘋果跌0.29%，特斯拉跌1.29%，英偉達跌1.88%。
+
+---
+
+### 2026-10-16 04:00:42  #宏觀 #國際
+
+美國國務院官員：魯比奧敦促黎巴嫩與以色列軍方建立直接軍事溝通渠道，以規避衝突。
+
+---
+
+### 2026-10-16 04:00:10  #MKT News
+
+A State Dept official said US Secretary of State Rubio spoke with Lebanese President AOUN about Lebanon's seizure of hundreds of kilograms of explosives from Hezbollah.
+
+---
+
+### 2026-10-16 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收漲1.96%】寶尊電商漲9.70%，海川證券漲9.47%，逸仙電商漲5.60%，信也科技漲5.15%，天演藥業漲5.24%。
+
+---
+
+### 2026-10-16 03:59:54  #宏觀 #國際
+
+美國國務院官員：魯比奧敦促奧恩追究下令、資助以及指揮這批貨物運輸相關人員的責任。
+
+---
+
+### 2026-10-16 03:58:49  #宏觀 #國際
+
+美國國務院官員：國務卿魯比奧與黎巴嫩總統奧恩通話，內容涉及從真主黨查獲數百公斤爆炸物一事。
+
+---
+
+### 2026-10-16 03:55:34  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Starbucks Shares Hit 4-week High — Starbucks shares increased to 96.79 USD, the highest since September 2026. Over the past 4 weeks, Starbucks lost 0.66%, and in the last 12 months, it increased 14.65%.
+
+---
+
+### 2026-10-16 03:53:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Ukraine's energy ministry said Russia again struck critical energy infrastructure, causing partial power outages in parts of Kyiv city and Kyiv region.
+
+---
+
+### 2026-10-16 03:53:26  #公司 #市場 #國際
+
+【阿里巴巴、臺積電在列 美股期權交易時段下週擴容】隨著美股市場實質上進入“24小時交易”，與股票配套的期權也將迎來交易時間的擴容。據芝加哥期權交易所（Cboe）公告，旗下Cboe Options Exchange（C1）將於下週一開始，為指定股票及ETF期權增加早間和收盤後的交易時段。阿里巴巴、臺積電、英偉達、蘋果、特斯拉等熱門公司的期權均在公告覆蓋範圍內。對於投資者而言，最直接的變化是：這些股票期權可以參與美東時間上午7:30至9:25的美股盤前交易，也可以在常規交易結束後繼續交易15分鐘。此次覆蓋範圍包括美股“科技七巨頭”，以及AMD、博通、英特爾、美光、甲骨文、邁威爾科技、閃迪、Palantir、Robinhood等熱門公司，阿里巴巴、臺積電、諾基亞、輝瑞、美國銀行和福特也在公告名單中。
+
+---
+
+### 2026-10-16 03:53:15  #公司 #國際
+
+【歐盟據悉擬快速審批歐洲衛星合資專案 打造SpaceX競爭對手】據知情人士透露，歐盟尋求對一項被視為歐洲版SpaceX的衛星合資專案進行快速反壟斷審批，此前歐盟與專案合作方Leonardo SpA、空中客車和泰雷茲進行了密集磋商。知情人士表示，過去一年的討論重點是在專案正式提交審批前，找出並解決任何潛在的競爭問題。這位知情人士表示，雖然這些公司尚未正式申報，但歐盟官員預計將在未來幾周內收到申請。這項名為Project Bromo的合資專案受到歐盟委員會主席馮德萊恩的讚揚，她認為該專案有望成為歐洲的行業龍頭，應該獲得高層支援。不過，歐盟競爭事務負責人Teresa Ribera警告稱，該專案不能指望監管機構直接放行。該計劃旨在成立一家公司，幫助歐洲減少對埃隆·馬斯克旗下SpaceX等美國衛星服務提供商的依賴。這項合資專案也將成為首批檢驗歐盟新版併購審查方式的案例之一。
+
+---
+
+### 2026-10-16 03:51:31  #MKT News #LUV.O #Impact bullish
+
+Starlink will equip Southwest Airlines' entire fleet (LUV.N) with high-speed, reliable in‑flight internet.
+
+---
+
+### 2026-10-16 03:49:14  #其他
+
+【葉門政府稱總統府遭胡塞武裝襲擊致5死16傷】據葉門政府衛生部長卡西姆當地時間15日晚間釋出的訊息，胡塞武裝當天下午針對葉門臨時首都亞丁馬阿希克宮的襲擊，造成5人死亡、16人受傷。傷亡人員包括現場安保人員和政府工作人員。卡西姆指出，此次襲擊再次將政府機構作為襲擊目標，與2020年12月葉門政府在亞丁國際機場遭襲事件類似。葉門總理津達尼表示，政府將繼續履行職責，繼續與民眾保持聯絡。馬阿希克宮是葉門總統在臨時首都亞丁的駐地，也是葉門政府在亞丁的辦公地點。（央視新聞）
+
+---
+
+### 2026-10-16 03:48:47  #MKT News #ATVI.O #Impact bearish
+
+CWA: QA employees at Activision voted to authorize a strike.
+
+---
+
+### 2026-10-16 03:48:07  #市場 #焦點
+
+現貨黃金突破4170美元/盎司，日內漲1.59%。
+
+---
+
+### 2026-10-16 03:46:31  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Rises as Middle East Tensions Escalate — Brent crude rose near $106 a barrel on Thursday amid mounting supply risks in the Middle East. Attacks on commercial vessels in the Strait of Hormuz sank a Singapore-flagged container ship, pushing tanker rates in the Persian Gulf to record highs. The US military has reportedly drawn up plans for new strikes on Iran, potentially involving the MOAB, the largest non-nuclear explosive device in the US arsenal. Iran said it was “counting the moments” until it could strike US warships. Prices were also supported by an 8-million-barrel US inventory draw in the week ended October 9th. The IEA warned that tight diesel markets could persist into next year, while attacks on Saudi Arabia threatened to disrupt the recovery in oil supply. Meanwhile, the US is reportedly considering easing sanctions on “shadow fleet” vessels transporting Russian oil and petroleum products to help ease global supply pressures.
+
+---
+
+### 2026-10-16 03:45:31  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold hit a daily high, breaking above $4,170/oz, up 1.6% intraday.
+
+---
+
+### 2026-10-16 03:45:16  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Gains on Renewed Supply Disruptions — Crude oil rose near $98 a barrel on Thursday amid mounting supply risks in the Middle East. Attacks on commercial vessels in the Strait of Hormuz sank a Singapore-flagged container ship, pushing tanker rates in the Persian Gulf to record highs. The US military has reportedly drawn up plans for new strikes on Iran, potentially involving the MOAB, the largest non-nuclear explosive device in the US arsenal. Iran said it was “counting the moments” until it could strike US warships. Prices were also supported by an 8-million-barrel US inventory draw in the week ended October 9th. The IEA warned that tight diesel markets could persist into next year, while attacks on Saudi Arabia threatened to disrupt the recovery in oil supply. Meanwhile, the US is reportedly considering easing sanctions on “shadow fleet” vessels transporting Russian oil and petroleum products to help ease global supply pressures.
+
+---
+
+### 2026-10-16 03:44:54  #市場
+
+紐約期金日內漲2%，現報4191.20美元/盎司。
+
+---
+
+### 2026-10-16 03:44:54  #市場 #焦點
+
+紐約期金突破4190美元/盎司，日內漲2.03%。
+
+---
+
+### 2026-10-16 03:44:50  #公司 #市場 #國際
+
+【印度共同基金限制重點黃金ETF產品資金流入】印度部分主要資產管理公司宣佈，限制投資者申購黃金交易所交易基金及相關基金中基金產品。包括塔塔共同基金、ICICI保誠資管、HDFC共同基金、阿迪提亞·比拉太陽生命資管和DSP在內的至少六家公司，在週四晚間分別提交檔案，公佈了上述限制措施。儘管這些資產管理公司未說明做出該決定的原因，但市場普遍認為，此舉背景是印度本幣走弱，以及投資者透過ETF配置貴金屬的需求持續強勁。根據一份宣告，塔塔共同基金自10月16日起對其黃金ETF旗下基金中基金產品的大額申購實施臨時限制；該公司表示：“此次暫停具有臨時性質，僅持續至另行通知為止。”
+
+---
+
+### 2026-10-16 03:44:40  #市場
+
+紐約期銀日內漲3%，現報57.56美元/盎司。
+
+---
+
+### 2026-10-16 03:44:33  #其他
+
+秘魯總統稱已與委內瑞拉代總統羅德里格斯通電話。
+
+---
+
+### 2026-10-16 03:43:53  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Yemen government says Aden presidential palace attack kills 5, injures 16; PM was holding meeting】Yemen government said on the evening of Oct 15 local time that Houthi forces attacked Ma'ashiq Palace in the southern temporary capital Aden, killing five and wounding 16, including security personnel and government staff. Prime Minister Shaya Muhsin Zindani was chairing a government meeting at the palace; most cabinet members and other officials were in attendance. Zindani said the government will continue to perform its duties and remain in contact with the public. Houthi spokesperson Yahya Sarea said the strike on what he called the Aden "Saudi enemy military operations command" "falls within established scope and is a legitimate strike." Ma'ashiq Palace is the president's residence and the government office in Aden.
+
+---
+
+### 2026-10-16 03:41:38  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver up 3.00% intraday at $57.30/oz.
+
+---
+
+### 2026-10-16 03:41:24  #市場
+
+現貨白銀日內漲3%，現報57.29美元/盎司。
+
+---
+
+### 2026-10-16 03:40:46  #MKT News #Macro & Rates #US Economy
+
+ICI: U.S. money market fund total assets fell $40.46 bln in the week ended Oct 14 to $7.92 tln.
+
+---
+
+### 2026-10-16 03:40:40  #MKT News
+
+Saudi civil defense says the danger in the Jizan region has been lifted.
+
+---
+
+### 2026-10-16 03:38:54  #其他
+
+【沙特稱胡塞武裝襲擊利雅得機場共致17死333傷】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基15日在沙特首都利雅得舉行的新聞釋出會上說，葉門胡塞武裝10月以來對利雅得哈立德國王國際機場的襲擊共造成17人死亡、333人受傷。這是聯軍近期首次舉行新聞釋出會。馬利基重點通報了胡塞武裝針對哈立德國王國際機場及其他多地的襲擊情況，以及聯軍對胡塞武裝的打擊情況。馬利基強調，針對民用機場的襲擊不僅破壞沙特安全，也威脅國際民用航空安全。因此，國際社會有責任應對此類跨境威脅。（新華社）
+
+---
+
+### 2026-10-16 03:38:49  #市場
+
+【芝加哥大豆期貨跌1%】週四（10月15日）紐約尾盤，彭博穀物分類指數跌0.70%，報32.0872點，跌穿100日均線（暫報32.0955點），逼近8月13日底部31.28點。CBOT玉米期貨跌0.52%，報4.7825美元/蒲式耳。CBOT小麥期貨跌0.57%，報6.6925美元/蒲式耳。CBOT大豆期貨跌1%，報12.6425美元/蒲式耳，豆粕期貨跌1.29%，豆油期貨漲0.18%。CBOT瘦肉豬期貨漲0.83%，活牛期貨漲0.92%，飼牛期貨漲1.36%。ICE原糖期貨漲1.44%，ICE白糖期貨漲1.09%。ICE阿拉比卡咖啡期貨漲0.22%，咖啡“C”期貨漲0.57%。羅布斯塔咖啡期貨跌3.20%。紐約可可期貨漲0.63%，報5771美元/噸。倫敦可可期貨漲0.31%。芝加哥WCE雙低油菜籽期貨跌1.26%。ICE棉花期貨跌0.74%。
+
+---
+
+### 2026-10-16 03:38:14  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran military: Strait of Hormuz remains closed; vows several‑fold retaliation if infrastructure attacked】Oct 15, IRIB reported Iran's commander‑in‑chief Hatami said the Strait of Hormuz remains closed and claims it has reopened are false; it will not reopen until the rights of the Iranian people are respected. He said the IRGC navy controls the western Strait while the army's naval forces control the eastern Strait and the Gulf of Oman. Hatami said Iran has stepped up maritime operations recently, with numerous vessels it deemed in violation struck by mines or attacked. He added Iran used a recent lull to repair wartime damage and has increased equipment numbers, quality and combat readiness, saying forces are prepared for any war. Hatami warned that if Iranian infrastructure is attacked, Iran will retaliate against enemy infrastructure and interests several‑fold and urged adversaries not to attack.
+
+---
+
+### 2026-10-16 03:37:51  #MKT News
+
+Saudi civil defense issues early warning of potential threats to the Jizan region.
+
+---
+
+### 2026-10-16 03:37:28  #其他
+
+沙特民防部門針對吉贊地區潛在威脅釋出預警。
+
+---
+
+### 2026-10-16 03:35:37  #MKT News
+
+Yemen's health minister said a Houthi attack on the Aden presidential palace complex killed 5 and wounded 16.
+
+---
+
+### 2026-10-16 03:35:33  #其他
+
+葉門衛生部長稱，胡塞武裝襲擊亞丁總統府建築群，造成 5 人死亡、16 人受傷。
+
+---
+
+### 2026-10-16 03:35:25  #國際
+
+美國肯德基：到 2027 年春季，全美所有門店將供應可口可樂產品。
+
+---
+
+### 2026-10-16 03:34:27  #公司 #焦點 #國際
+
+美國肯德基宣佈與可口可樂公司達成全新飲品合作。
+
+---
+
+### 2026-10-16 03:32:26  #MKT News
+
+UK defence secretary said he will not speculate on the cause of the Starlink outage.
+
+---
+
+### 2026-10-16 03:32:01  #Trading Economics #Economy #Paraguay #Consumer Confidence #Importance 0
+
+Paraguay Consumer Confidence Weakens in September — Paraguay’s Consumer Confidence Index fell to 39.09 points in September 2026 from 39.67 in August, marking its lowest reading since May. The Economic Situation Index declined by 1.50 points month-over-month to 28.42, while the Economic Expectations Index rose by 0.33 points to 49.75. The share of consumers who considered saving possible increased by 1.75 percentage points from the previous month to 12.75%. Regarding durable goods purchases, month-over-month increases were recorded for cars and motorcycles, while the housing category remained unchanged and purchases of household appliances declined.
+
+---
+
+### 2026-10-16 03:31:57  #其他
+
+英國國防大臣：不會猜測星鏈服務中斷的原因。
+
+---
+
+### 2026-10-16 03:30:35  #MKT News
+
+Fox News reported the UK defense minister said he did not discuss the cause of the Starlink service disruption in a meeting with US Defense Secretary Hegseth.
+
+---
+
+### 2026-10-16 03:29:12  #MKT News #DXY #Impact bullish #XAUUSD #EURUSD #Impact bearish
+
+MACRON said allies must jointly provide Ukraine with all means necessary to protect its people and infrastructure.
+
+---
+
+### 2026-10-16 03:28:40  #市場
+
+巴西基準股指博維斯帕指數（.BVSP）下跌 1%。
+
+---
+
+### 2026-10-16 03:27:54  #其他
+
+英國國防大臣：在與赫格塞思會談時，並未探討星鏈服務中斷的發生原因。
+
+---
+
+### 2026-10-16 03:27:06  #國際
+
+法國總統馬克龍：我們必須共同向烏克蘭提供其保衛民眾與基礎設施所需的全部手段，這一點至關重要。
+
+---
+
+### 2026-10-16 03:27:02  #國際
+
+訊息人士稱：白宮已擬定計劃，準備對伊朗使用被稱為 “炸彈之母” 的武器。
+
+---
+
+### 2026-10-16 03:26:41  #MKT News #Commodities #Industrial Metals
+
+CITIGROUP says near-term stance on aluminium prices is neutral, as investors shift focus from current spot supply tightness to a potential supply glut in 2027.
+
+---
+
+### 2026-10-16 03:26:32  #公司 #市場
+
+【華爾街資深人士稱布倫特原油淪為“情緒合約” 已與現實世界脫節】華爾街資深人士Jeff Currie表示，全球最重要的石油基準期貨如今幾乎已經淪為一種“情緒合約”，削弱了其作為價格波動管理工具的實用性。“所有與能源相關的東西都在上漲，唯獨布倫特原油沒有，”Currie週四接受採訪時表示。“它已經與現實世界脫節了。”Currie是投資公司Real Macro的創始人兼執行長。他表示，布倫特原油目前約每桶106美元的價格，並未反映出從霍爾木茲海峽到黑海一帶供應所面臨威脅的程度。近期石油市場面臨的威脅進一步升級，霍爾木茲海峽一帶針對油輪的襲擊頻發，胡塞武裝對沙烏地阿拉伯的襲擊愈演愈烈。運費市場也出現飆升。Currie表示，隨著全球環境惡化，布倫特原油與現貨市場的脫節正在造成“無法定價的風險”，使對沖者在最需要利用這一合約保護自身之際，反而不願使用它。“這些期貨市場對於現代社會中一個行業的運轉絕對至關重要，”Currie表示。“如果失去這種定價機制，就不會有足夠的投資，也不會有足夠的行為調整。”
+
+---
+
+### 2026-10-16 03:24:36  #觀點
+
+花旗：短期我們對鋁價維持中性看法，投資者正逐步忽略當前現貨供應緊張局面，轉而關注 2027 年可能出現的供應過剩。
+
+---
+
+### 2026-10-16 03:23:10  #MKT News #KO.N #Impact bullish #PEP.O #Impact bearish
+
+【KFC U.S. to replace Pepsi with Coca-Cola】Wall Street Journal reports KFC in the U.S. will stop serving PepsiCo (PEP.O) cola at thousands of restaurants and switch to The Coca‑Cola Company (KO.N).
+
+---
+
+### 2026-10-16 03:21:42  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iranian media Fars News reports multiple explosions in Jeddah, Saudi Arabia.
+
+---
+
+### 2026-10-16 03:21:28  #其他
+
+百事可樂跌幅擴大至1.4%。
+
+---
+
+### 2026-10-16 03:21:05  #市場 #央行 #國際
+
+【日本股市創今年3月以來最大單日跌幅】受人工智慧投資風險擔憂加劇等因素影響，日本和韓國股市15日出現大幅下跌。其中日本東京股市日經指數15日大幅收跌，收盤報64425.95點，較前一交易日下挫3318.34點，跌幅為4.90%，創今年3月以來最大單日跌幅。前一交易日，美國紐約股市三大股指全線下跌。資料顯示，美國9月消費者價格指數漲幅高於市場預期。受此影響，市場對美聯儲加息的預期升溫，投資者風險偏好下降，人工智慧和半導體相關股票遭到拋售。愛德萬測試、東京電子等日本半導體裝置企業股價下跌，拖累日經股指。（央視新聞）
+
+---
+
+### 2026-10-16 03:18:11  #國際
+
+市場訊息：肯德基將棄用百事可樂，改用可口可樂。肯德基接近達成協議，美國門店將換用可口可樂飲品。達成的合作將在 1 月正式落地。
+
+---
+
+### 2026-10-16 03:16:13  #公司 #國際
+
+美國投資公司協會（ICI）資料顯示，美國貨幣市場基金資產規模降至 7.92 萬億美元。
+
+---
+
+### 2026-10-16 03:15:34  #MKT News #DXY #Impact bullish
+
+Brazilian real fell 1% against the US dollar, with spot trading at 5.08 BRL per USD.
+
+---
+
+### 2026-10-16 03:15:34  #MKT News #EURUSD #Impact bullish #GBPUSD #USDJPY #Impact bearish
+
+【Dollar index down 0.49% to 102.055 at New York close】The dollar index, which measures the U.S. dollar against six major currencies, fell 0.49% to 102.055 at the New York close. EURUSD rose to 1.1212 from 1.1153; GBPUSD to 1.3272 from 1.3181. USDJPY was 158.14 (prior 158.20); USDCHF 0.8271 (prior 0.8345); USDCAD 1.4190 (prior 1.4247); USDSEK 9.9597 (prior 10.0321).
+
+---
+
+### 2026-10-16 03:14:02  #其他
+
+巴西雷亞爾在現匯交易中對美元貶值 1%，報 1 美元兌 5.08 雷亞爾。
+
+---
+
+### 2026-10-16 03:13:21  #市場
+
+【美元指數15日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.49%，在匯市尾市收於102.055。截至紐約匯市尾市，1歐元兌換1.1212美元，高於前一交易日的1.1153美元；1英鎊兌換1.3272美元，高於前一交易日的1.3181美元。1美元兌換158.14日元，低於前一交易日的158.20日元；1美元兌換0.8271瑞士法郎，低於前一交易日的0.8345瑞士法郎；1美元兌換1.4190加元，低於前一交易日的1.4247加元；1美元兌換9.9597瑞典克朗，低於前一交易日的10.0321瑞典克朗。
+
+---
+
+### 2026-10-16 03:12:11  #其他
+
+法國有關部門稱，英法海底隧道法國段發生大巴與列車相撞事故，造成 19 人受傷。
+
+---
+
+### 2026-10-16 03:11:57  #Trading Economics #Markets #United States #stocks #Importance 1
+
+ProLogis Shares Hit 37-week Low — ProLogis shares decreased to 126.61 USD, the lowest since January 2026. Over the past 4 weeks, ProLogis lost 5.3%, and in the last 12 months, it increased 4.52%.
 
 ---
 
@@ -14930,583 +15394,5 @@ U.S. API weekly crude inventories for the week to Oct. 9 will be released in 10 
 ### 2026-10-15 04:19:41  #其他
 
 巴克萊：特斯拉與SPACEX的合併或將於12月前公佈。
-
----
-
-### 2026-10-15 04:19:34  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Rises on Middle East Tensions — Brent crude rose to around $106 a barrel on Wednesday amid renewed attacks across the Middle East and the IEA’s latest assessment of the oil market. The agency’s October Oil Market Report warned that constraints in diesel markets could persist well into 2027, with fresh attacks on Saudi Arabia threatening to derail a recovery in global oil supply. Fighting between Saudi Arabia and the Iran-backed Houthis continued to escalate, with Saudi Arabia’s Ministry of Energy reporting an overnight attack on an administrative building belonging to oil giant Saudi Aramco. The incident followed a series of Houthi attacks on Riyadh over the past week. A Saudi-led coalition reportedly struck Houthi energy terminals and fuel reserves in Yemen. Meanwhile, tensions between the US and Iran remained elevated. US Central Command rejected claims by the commander of Iran’s IRGC Navy that the Strait of Hormuz was under Iranian control and that any approaching US Navy warships would be “sunk.”.
-
----
-
-### 2026-10-15 04:18:11  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Rises to $95 Amid Renewed Middle East Attacks — Crude oil rose to around $95 a barrel on Wednesday amid renewed attacks across the Middle East and the IEA’s latest assessment of the oil market. The agency’s October Oil Market Report warned that constraints in diesel markets could persist well into 2027, with fresh attacks on Saudi Arabia threatening to derail a recovery in global oil supply. Fighting between Saudi Arabia and the Iran-backed Houthis continued to escalate, with Saudi Arabia’s Ministry of Energy reporting an overnight attack on an administrative building belonging to oil giant Saudi Aramco. The incident followed a series of Houthi attacks on Riyadh over the past week. A Saudi-led coalition reportedly struck Houthi energy terminals and fuel reserves in Yemen. Meanwhile, tensions between the US and Iran remained elevated. US Central Command rejected claims by the commander of Iran’s IRGC Navy that the Strait of Hormuz was under Iranian control and that any approaching US Navy warships would be “sunk.”
-
----
-
-### 2026-10-15 04:09:53  #國際
-
-【中方呼籲打擊海地武器販運 】中國常駐聯合國副代表孫磊14日在安理會表決透過海地制裁授權延期決議後作解釋性發言，呼籲從源頭打擊海地武器販運。（新華社）
-
----
-
-### 2026-10-15 04:09:35  #MKT News
-
-Romanian defence minister said it is not yet clear whether the ship was struck by a drone attack; the incident remains under investigation.
-
----
-
-### 2026-10-15 04:09:23  #MKT News
-
-Romanian maritime authorities reported a merchant vessel caught fire in Romanian territorial waters; crew have been evacuated.
-
----
-
-### 2026-10-15 04:09:07  #其他
-
-羅馬尼亞海事局：一艘商船在羅馬尼亞領海起火，船員已撤離。尚不清楚該船是否遭無人機擊中，相關調查正在進行。
-
----
-
-### 2026-10-15 04:07:22  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Dip Amid Hot Inflation and Chipmaker Weakness — US stock indices closed lower on Wednesday amid hotter-than-expected inflation data and continued volatility in the AI infrastructure sector. The S&P 500 fell 1.1%, the Nasdaq slipped 2%, and the Dow shed 49 points. Chipmakers extended this week’s losses after ASML said it could not keep pace with demand for semiconductor fabrication equipment, while Chinese competitors introduced improved products approaching the capabilities of US and South Korean firms. Meanwhile, headline and core inflation readings reinforced expectations that the Federal Reserve could deliver another rate hike this year. Nvidia lost 3.2%, Broadcom fell 3.1%, Micron declined 4.1% and AMD tumbled 5.7%. Among financial stocks, Bank of America fell 4.8% after both equity and fixed-income trading revenues missed estimates. Morgan Stanley closed 2.7% lower despite beating forecasts for equity-trading revenue, while BlackRock added 0.7% after stronger asset-management inflows boosted fee revenue.
-
----
-
-### 2026-10-15 04:05:59  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-The Dow Jones Industrial Average closed down 47.96 points, or 0.09%, at 51,622.14 on Wednesday, Oct. 14; the S&P 500 closed down 85.95 points, or 1.10%, at 7,719.50; the Nasdaq Composite closed down 511.51 points, or 1.88%, at 26,692.87.
-
----
-
-### 2026-10-15 04:05:48  #市場 #央行 #國際
-
-【通脹火爆點燃10月加息預期 沃什曼谷講話或成關鍵風向標】美國9月通脹意外升溫，重新點燃了市場對美聯儲可能在本月加息的預期。此前數週，由於央行官員釋放出他們有時間等待的訊號，一度令本月加息看起來可能性不大。美聯儲主席沃什曾誓言不會以自己對近期貨幣政策前景的看法來引導市場。但這次通脹資料意外走高令外界更加關注紐約時間週四晚間他在曼谷的發言。屆時，他將與國際貨幣基金組織(IMF)總裁格奧爾基耶娃進行爐邊談話。由於議息會議即將到來，美聯儲將在本週六進入所謂的靜默期。這意味著如果央行要就本次會議可能作出的利率決定釋放訊號，或許只能由主席沃什來傳遞。美銀的美國利率策略師Meghan Swiber表示，投資者“等待沃什週四為美聯儲繼續加息開綠燈”。當談到通脹資料時，Swiber表示：“這次物價上漲的範圍相當廣，美聯儲難以對此置之不理。”
-
----
-
-### 2026-10-15 04:05:11  #市場
-
-羅素2000指數收盤下跌1.9%，進入回撥。
-
----
-
-### 2026-10-15 04:04:55  #宏觀 #公司 #國際
-
-【王毅會見俄羅斯外長拉夫羅夫】當地時間14日，中共中央政治局委員、外交部長王毅在巴庫會見俄羅斯外長拉夫羅夫。
-王毅祝賀俄方成功舉行國家杜馬選舉，順利完成國內重要政治議程。王毅表示，今年5月和8月，習近平主席同普京總統舉行了富有成果的會晤，引領中俄新時代全面戰略協作夥伴關係持續高水平發展。下個月，亞太經合組織（APEC）領導人非正式會議將在深圳舉行。相信在俄方等各方支援下，APEC“中國年”將取得豐碩成果，攜手重振亞太共同體歷史程序，為亞太地區發展合作注入強勁動力。
-王毅表示，亞歐大陸地域廣袤、文明多元，地區國家期盼維護和平穩定、深化多邊協作。亞信峰會時隔4年再次舉辦，中方願同包括俄方在內的亞信成員國密切協作，踐行真正的多邊主義，為完善全球治理貢獻力量。
-拉夫羅夫表示，俄中在兩國元首戰略引領下，持續推進兩國關係和各領域合作，取得豐碩成果，符合兩國根本利益。俄方全力支援中方辦好APEC領導人非正式會議。俄中在國際事務上立場相近，俄方願同中方進一步增進在聯合國、二十國集團、APEC、金磚機制等多邊框架下的協作，共同維護國際公平正義。
-雙方還就下一步中俄高層交往以及共同關心的國際地區熱點問題協調了各自立場，達成了新的共識。（新華社）
-
----
-
-### 2026-10-15 04:02:41  #市場
-
-COREWEAVE股價收盤下跌15%，創2月27日以來最大單日跌幅。
-
----
-
-### 2026-10-15 04:02:15  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #CRWV.O #Impact bearish #Nasdaq100 #S&P500
-
-【US close: Nasdaq down nearly 2%, CoreWeave plunges ~15%】US shares closed Wednesday; Dow Jones Industrial Average was down 0.09% in preliminary figures, the S&P 500 fell 1.1% and the Nasdaq dropped 1.88%. Micron (MU.O) slid about 4%, SK Hynix (SKHY.O) fell 6%, NVIDIA (NVDA.O) was down 3%, CoreWeave (CRWV.O) plunged over 15% and Dell (DELL.N) fell more than 11%. The Nasdaq Golden Dragon China Index lost 1.39%; Bilibili (09626.HK) and NIO (NIO.N) each dropped over 4%.
-
----
-
-### 2026-10-15 04:01:18  #市場 #焦點 #國際
-
-費城半導體指數收盤下跌4.3%。晶片股指數六連跌，創2025年5月以來最長下跌紀錄。
-
----
-
-### 2026-10-15 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.09%，標普500指數跌1.10%，納指跌1.85%。SKYD跌22.21%，CoreWeave跌15.29%，戴爾跌11.39%，Ciena科技跌10.28%，NBIS跌10.08%，Everpure跌9.88%，偉創力國際跌9.51%。“七姐妹”方面：蘋果漲0.44%，谷歌跌1.67%，亞馬遜跌1.72%，微軟跌1.76%，特斯拉跌2.15%，英偉達跌3.09%，Meta Platforms跌3.25%。
-
----
-
-### 2026-10-15 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.37%】世紀互聯跌15.11%，萬國資料跌12.64%，DCX跌11.22%，阿特斯跌7.85%，小馬智行跌7.60%。
-
----
-
-### 2026-10-15 03:55:47  #公司 #市場
-
-天然氣期貨短線拉昇，現報3.3美元/百萬英熱。哥倫比亞天然氣公司（Columbia Gas）宣佈，其MXP天然氣管線發生不可抗力事件。
-
----
-
-### 2026-10-15 03:53:42  #國際
-
-市場訊息：法院准許特朗普最新的反 DEI 政府採購行政令生效。
-
----
-
-### 2026-10-15 03:53:31  #MKT News #Commodities #Energy
-
-Columbia Gas announced a force majeure on its MXP natural gas pipeline, effective October 14, 2026.
-
----
-
-### 2026-10-15 03:51:06  #MKT News
-
-ANTHROPIC said it has suspended accounts involved in policy-violating abuse to prevent coordinated abuse targeting elections, and has strengthened abuse-detection and network protections for election infrastructure.
-
----
-
-### 2026-10-15 03:50:27  #MKT News
-
-【Yemen government seeks US intelligence and training support, not seeking talks with Houthis】Yemen’s foreign minister Afraa Zuba said Wednesday the government has asked the United States for intelligence and training support for government forces and the coast guard and for continued political, economic and humanitarian assistance, without explicitly requesting US military aid. She urged the US to expand sanctions on the Houthi movement and to strengthen sanctions coordination with the EU. Zuba said the government is not seeking negotiations with the Houthis now, prioritizing military action to end Houthi control; she said such operations are decided, commanded and executed by Yemen, with coalition partners providing air support. On US contacts with the Houthis referenced by former President Trump, Zuba said the outreach was intended to warn the Houthis against further attacks but gave no timing or communication details.
-
----
-
-### 2026-10-15 03:50:13  #其他
-
-【土耳其伊斯坦布林強降雨引發城市內澇 交通大面積癱瘓】當地時間14日，土耳其伊斯坦布林遭遇強降雨，引發嚴重城市內澇，多條主幹道積水成河，多地發生路面塌陷，部分地鐵站和公交車進水，交通大面積癱瘓。全市共投入超8000名救援人員、超2000臺車輛和器械投入搶險工作。此次強降雨已造成至少1人死亡，該死者因踩入積水觸電，搶救無效死亡。目前，官方尚未正式通報人員傷亡情況。（央視新聞）
-
----
-
-### 2026-10-15 03:50:07  #其他
-
-Skydance 披露 SKYD B 類普通股與權證分開獨立交易的相關細則。
-
----
-
-### 2026-10-15 03:47:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-CENTCOM said over the past seven months, aside from US Navy vessels, Iran's Islamic Revolutionary Guard Corps has persistently and indiscriminately targeted thousands of civilian mariners transiting regional waters.
-
----
-
-### 2026-10-15 03:42:49  #國際
-
-美國中央司令部：10 月 6 日，美軍在阿曼灣擊毀一艘關聯伊朗的獨桅帆船，該船當時正對美國海軍艦艇實施監視與瞄準。過去七個月，伊朗伊斯蘭革命衛隊除襲擊美國軍艦外，還持續無差別襲擊數千名在該海域航行的民用船員。船隻被摧毀前，船上人員已安全撤離，遣返工作正在推進。
-
----
-
-### 2026-10-15 03:41:17  #公司 #國際
-
-【波音、通用電氣等航空巨頭CEO與美國交通主管會面，討論適航認證改革】多家主要航空航天企業的執行長正在與美國交通部長肖恩·達菲會面，討論如何簡化新飛機及零部件的監管審批流程。美國政府希望加快適航認證流程，以促進創新並與其他國家競爭，行業高管將就當前體系中哪些環節有效、哪些無效分享看法。此次會議凸顯出各方正協同努力尋求前進路徑，因為近年來適航認證已成為製造商及其增長計劃的關鍵障礙，美國聯邦航空管理局（FAA）已提出一項旨在降低審批成本與耗時的新規。
-
----
-
-### 2026-10-15 03:40:03  #其他
-
-Anthropic 強化針對選舉基礎設施的濫用檢測與網路防護能力。
-
----
-
-### 2026-10-15 03:38:18  #其他
-
-Anthropic：已封禁存在濫用行為的賬號，防範大選期間出現有組織的惡意濫用行為。
-
----
-
-### 2026-10-15 03:38:03  #其他
-
-市場訊息：Perella Weinberg 與 Piper Sandler 終止併購談判。
-
----
-
-### 2026-10-15 03:36:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Global oil prices rose on the 14th】NYMEX November WTI futures rose $0.95 to $95.09/bbl, up 1.01%. ICE Brent December futures rose $0.37 to $106.06/bbl, up 0.35%.
-
----
-
-### 2026-10-15 03:36:20  #市場
-
-【國際油價14日上漲】截至當天收盤，紐約商品交易所11月交貨的輕質原油期貨價格上漲95美分，收於每桶95.09美元，漲幅為1.01%；12月交貨的倫敦布倫特原油期貨價格上漲37美分，收於每桶106.06美元，漲幅為0.35%。
-
----
-
-### 2026-10-15 03:36:17  #國際
-
-【伊朗議長：目標不是“無休止的戰爭”或“曠日持久的談判”】法爾斯通訊社報道，伊朗議會議長卡利巴夫表示，“我們戰鬥是為了消耗敵人的力量，迫使其接受我們的要求。”卡利巴夫表示，伊朗的目標不是“無休止的戰爭”或“曠日持久的談判”，他重申，為了實現目標，伊朗既戰也談。“民眾關心的一個重要問題是，與美國人談判並簽署一份他們承諾不攻擊伊朗的檔案，能否形成威懾。答案無疑是否定的。”他重申，美國總統曾作出承諾，但又違背了承諾。
-
----
-
-### 2026-10-15 03:35:18  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran speaker Ghalibaf says Iran must fight while negotiating to force US to accept demands】Iranian parliament speaker Ghalibaf said negotiating and US promises cannot guarantee Washington will stop attacking Iran. He outlined a two-stage strategy: first win strategic advantage through fighting, then use that leverage to compel the US to accept an understanding, converting military gains into political benefits, resources and time to strengthen deterrence. He said fighting alongside negotiations does not imply endless war but aims to pressure the enemy into accepting Iran’s legitimate demands. Ghalibaf accused the US of breaking prior commitments and said Washington must be punished, change its behavior and ultimately accept Iran’s terms.
-
----
-
-### 2026-10-15 03:34:57  #國際
-
-Anthropic：Claude 將在美國大選之夜及後續數日展示實時選舉結果。
-
----
-
-### 2026-10-15 03:34:26  #國際
-
-市場訊息：葉門政府外長已請求美國為政府軍和海岸警衛隊提供訓練及情報支援，葉門政府目前不尋求與胡塞武裝啟動談判。
-
----
-
-### 2026-10-15 03:34:10  #國際
-
-Anthropic ：本月晚些時候，Claude 將為美國使用者接入 Democracy Works 提供的官方投票資訊。
-
----
-
-### 2026-10-15 03:33:47  #MKT News #Important #Brent #Impact bullish #XAUUSD #DXY
-
-CBS reports Yemen’s foreign minister has asked the US for training and intelligence support for government forces and the coast guard. The Yemeni government said it is not seeking to open negotiations with Houthi militants.
-
----
-
-### 2026-10-15 03:26:32  #公司 #國際
-
-【美銀聘請1000名承包商 修補Anthropic的Mythos暴露的軟體漏洞】美國銀行已聘請大批外部承包商，幫助修補包括Anthropic的Mythos在內的先進人工智慧模型所暴露的軟體漏洞。在銀行釋出第三季度財報後接受採訪時，該行CEO莫伊尼漢表示，今年早些時候，公司動用數千名員工和外部人員，緊急加固其廣泛的內部和供應商程式碼。
-
----
-
-### 2026-10-15 03:20:57  #央行 #國際
-
-美聯儲古爾斯比：需要關注 AI 投資對金融穩定帶來的潛在影響。
-
----
-
-### 2026-10-15 03:20:37  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-【Dollar index up 0.37% to 102.554 at New York close on 14th】The dollar index rose 0.37% to 102.554 at the New York close on the 14th. EUR/USD fell to 1.1153 from 1.1201; GBP/USD to 1.3181 from 1.3257. USD/JPY eased to 158.20 from 158.30. USD/CHF climbed to 0.8345 from 0.8325; USD/CAD to 1.4247 from 1.4215; USD/SEK to 10.0321 from 9.9618.
-
----
-
-### 2026-10-15 03:20:28  #央行 #國際
-
-美聯儲古爾斯比：AI 投資放緩並不等同於經濟衰退。
-
----
-
-### 2026-10-15 03:20:16  #國際
-
-阿根廷外長：阿根廷與美國簽署貿易協定附加議定書。
-
----
-
-### 2026-10-15 03:19:41  #市場
-
-【美元指數14日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.37%，在匯市尾市收於102.554。截至紐約匯市尾市，1歐元兌換1.1153美元，低於前一交易日的1.1201美元；1英鎊兌換1.3181美元，低於前一交易日的1.3257美元。1美元兌換158.20日元，低於前一交易日的158.30日元；1美元兌換0.8345瑞士法郎，高於前一交易日的0.8325瑞士法郎；1美元兌換1.4247加元，高於前一交易日的1.4215加元；1美元兌換10.0321瑞典克朗，高於前一交易日的9.9618瑞典克朗。
-
----
-
-### 2026-10-15 03:19:29  #公司
-
-【英偉達CEO黃仁勳稱會對開發不安全AI軟體的客戶斷供晶片】英偉達執行長黃仁勳表示，假如客戶正在開發不安全的人工智慧(AI)軟體，他會停止向其供應晶片，不過他認為目前沒有必要如此擔憂這項技術。在倫敦接受採訪時，當被問及是否會停止向不負責任的開發商供貨，黃仁勳表示，“這是一個假設性問題，但答案是肯定的。不過，在這樣做之前，你會先進行溝通。我們並不經營別人的公司，對於其他公司如何使用我們的技術，我們能作出的評判也是有限的。我們的技術是通用型的。”
-
----
-
-### 2026-10-15 03:18:45  #央行 #國際
-
-美聯儲古爾斯比：AI 熱潮可能進一步推高科技行業投資，存在引發經濟過熱的風險。
-
----
-
-### 2026-10-15 03:17:56  #央行 #國際
-
-美聯儲古爾斯比：消費、國內生產總值以及投資資料表現強勁。
-
----
-
-### 2026-10-15 03:17:28  #宏觀 #國際
-
-【古巴外長指責美方施壓多國支援其封鎖古巴立場】古巴外長羅德里格斯14日說美國國務卿魯比奧正對多個國家元首和政府首腦施壓，試圖迫使他們在聯合國大會上改變反對封鎖古巴的立場。羅德里格斯在社交媒體上表示，魯比奧企圖掩蓋對古巴人民實施的集體懲罰，並讓國際社會其他成員變成這一野蠻行徑的幫兇。根據美國國務院官網訊息，魯比奧13日與薩爾瓦多總統布克爾通電話時敦促薩爾瓦多和美國及其他夥伴國家一起，在聯合國推進共同優先事項。魯比奧專門提及對古巴的政策考慮。（新華社）
-
----
-
-### 2026-10-15 03:17:01  #央行 #國際
-
-美聯儲古爾斯比：如果通脹維持當前水平，貨幣政策就需要對此作出應對。
-
----
-
-### 2026-10-15 03:16:44  #央行 #國際
-
-美聯儲古爾斯比：不希望預先鎖定貨幣政策前景，束縛自身政策操作空間。
-
----
-
-### 2026-10-15 03:16:06  #其他
-
-【我國已開通104項全國性跨地區社保服務】記者從人力資源社會保障部瞭解到，截至目前，國家社保公共服務平臺已開通104項全國性、跨地區服務，累計提供服務113.53億人次。全國社保業務線上辦理量已經提升到80%以上。日前，2026年“社保服務進萬家”活動正在全國開展，各級人社部門依託流動服務站、“15分鐘+5公里”服務圈等載體，佈設服務站點、自助終端，推動服務視窗前移，推廣智慧化服務，讓社保服務更便捷。（央視新聞）
-
----
-
-### 2026-10-15 03:16:03  #央行 #國際
-
-美聯儲古爾斯比：如果通脹資料接連數月持續惡化，這是無法接受的。美聯儲會將通脹回落至 2% 目標水平。
-
----
-
-### 2026-10-15 03:15:10  #央行 #國際
-
-美聯儲古爾斯比：需要密切關注服務業通脹情況。
-
----
-
-### 2026-10-15 03:14:49  #央行 #國際
-
-美聯儲古爾斯比：相比其他美聯儲官員，我對經濟前景更為樂觀。越來越多證據顯示，在持續衝擊之下，通脹並非暫時性的。
-
----
-
-### 2026-10-15 03:13:26  #央行 #國際
-
-美聯儲古爾斯比：美聯儲必須防止經濟過熱情況持續累積。
-
----
-
-### 2026-10-15 03:13:09  #央行 #國際
-
-美聯儲古爾斯比：如果經濟穩健而通脹高企，美聯儲的政策方向將不存在模糊空間。
-
----
-
-### 2026-10-15 03:12:43  #央行 #國際
-
-美聯儲古爾斯比：不贊成在會議前提前釋放美聯儲政策動向訊號。
-
----
-
-### 2026-10-15 03:12:43  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-Goolsbee said he does not like revealing the Fed’s intentions ahead of meetings.
-
----
-
-### 2026-10-15 03:12:13  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Fed's GOOLSBEE: September inflation disappointing; more data needed before further hikes】Chicago Fed President GOOLSBEE said US September inflation surprised to the upside: core services inflation remains above 5% and core goods price gains have not eased as expected, implying inflation may be more persistent. He warned that if core inflation stays at a monthly annualized pace near 4% it would be wholly unacceptable and require policy action. GOOLSBEE said it is unclear whether current rates are sufficient to return inflation to the 2% target and he favors waiting for more data before deciding on further hikes, but cautioned that if inflation readings remain at current levels in coming months the Fed cannot stand pat. He highlighted a very tight labor market, strong growth, robust consumer spending and potential additional overheating from AI investment; firms in his district report little recession risk and widespread concern about rising costs and prices. If employment remains firm while inflation stays above target and moves in the wrong direction, the Fed must act to prevent further overheating.
-
----
-
-### 2026-10-15 03:12:00  #央行 #國際
-
-美聯儲古爾斯比：在通脹問題上，美國經濟仍有改善空間。
-
----
-
-### 2026-10-15 03:11:28  #央行 #國際
-
-美聯儲古爾斯比：希望能源因素對通脹資料的影響能很快消退。
-
----
-
-### 2026-10-15 03:10:54  #央行 #國際
-
-美聯儲古爾斯比：從受訪物件那裡聽到的反饋集中在成本與物價問題，並未聽到大家擔憂經濟衰退。
-
----
-
-### 2026-10-15 03:10:32  #央行 #國際
-
-美聯儲古爾斯比：重點應當關注通脹的趨勢，不能僅憑單份報告下判斷。
-
----
-
-### 2026-10-15 03:09:39  #央行 #國際
-
-美聯儲古爾斯比：消費者物價指數裡的服務通脹值得擔憂。
-
----
-
-### 2026-10-15 03:07:54  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #S&P500 #Impact bullish
-
-New York Fed plans to conduct about $14.6 billion of reinvestment purchases between Oct 15 and Nov 13 and will not conduct reserve-management purchases during that period.
-
----
-
-### 2026-10-15 03:07:10  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Tasnim reported Yemeni Houthi forces attacked ARAMCO's oil distribution facility north of Jeddah, Saudi Arabia.
-
----
-
-### 2026-10-15 03:06:06  #央行 #其他
-
-紐約聯儲：10 月 15 日至 11 月 13 日期間，不安排儲備管理類購買操作。
-
----
-
-### 2026-10-15 03:06:00  #國際
-
-伊朗塔斯尼姆通訊社：葉門武裝部隊打擊吉達北部的沙特阿美石油分銷設施。
-
----
-
-### 2026-10-15 03:05:33  #央行 #國際
-
-市場訊息：美聯儲古爾斯比表示，美國9月通脹資料高於預期，令人失望，但暗示希望在進一步加息前等待更多資料。
-
----
-
-### 2026-10-15 03:05:28  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #XAUUSD #Impact bullish #S&P500
-
-US Sep inflation surprised to the upside and was described as disappointing. Fed GOOLSBEE signalled a preference to wait for more data before pursuing additional rate hikes.
-
----
-
-### 2026-10-15 03:05:27  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Broadcom Shares Hit 4-week Low — Broadcom shares decreased to 343.18 USD, the lowest since September 2026. Over the past 4 weeks, Broadcom Inc gained 1.2%, and in the last 12 months, it decreased 2.27%.
-
----
-
-### 2026-10-15 03:04:40  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.6978元，較週二夜盤收盤跌50點。成交量330.37億美元。
-
----
-
-### 2026-10-15 03:04:35  #央行 #其他
-
-紐約聯儲公開市場操作櫃檯計劃在 10 月 15 日至 11 月 13 日期間開展約 146 億美元再投資購買操作。
-
----
-
-### 2026-10-15 03:03:19  #國際
-
-馬斯克：星鏈在網速和使用許可權上的任何限制，都由美軍決定，最終決定權歸美國總統。
-
----
-
-### 2026-10-15 03:03:03  #MKT News
-
-Musk said the Starshield system is owned and controlled by the U.S. government; any limits on speed or use are set by the U.S. military, with final authority resting with U.S. President Trump.
-
----
-
-### 2026-10-15 03:02:56  #其他
-
-馬斯克：星鏈僅限民用或防禦用途，不可用於進攻性軍事行動。
-
----
-
-### 2026-10-15 03:02:07  #國際
-
-馬斯克：星盾的速度或使用方面的任何限制，都由美國總統決定。
-
----
-
-### 2026-10-15 03:01:11  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures night session closed down 1.06% at 24,074, trading 240 points below the spot index.
-
----
-
-### 2026-10-15 03:00:01  #市場
-
-恒指期貨夜盤收跌1.08%，報24069.71點，低水244.46點。
-
----
-
-### 2026-10-15 02:56:54  #國際
-
-【烏克蘭總統澤連斯基不滿SpaceX網路設限 直言有遭特朗普背叛之感】烏克蘭總統澤連斯基對特朗普與普京的柴油交易以及美國限制基輔軍方使用衛星終端表達了沮喪和被背叛的感覺。“遺憾的是，我們正在失去、正在失去一個強大的夥伴，這是我的看法，”澤連斯基在倫敦接受採訪時表示。“當特朗普總統選擇一方，而不是我們這一方時，這是令人痛苦的。”在俄羅斯對烏克蘭能源設施發動一輪導彈與無人機襲擊後，SpaceX旗下的衛星網際網路服務突遭軍事用途限制，烏克蘭正就此向美國及北約盟友尋求解釋。澤連斯基的這番強烈表態可能加劇美國與烏克蘭的緊張關係。
-
----
-
-### 2026-10-15 02:54:39  #MKT News
-
-New York Times reports U.S. troops will conduct training and exercises with local forces.
-
----
-
-### 2026-10-15 02:53:17  #國際
-
-問：您沒有辭職的打算嗎？
-
-澤連斯基：當然沒有。這是我的責任。
-
----
-
-### 2026-10-15 02:52:58  #MKT News
-
-The New York Times, citing U.S. military officials, reports the U.S. is deploying several hundred troops to Latin America to expand operations against drug traffickers.
-
----
-
-### 2026-10-15 02:52:54  #國際
-
-伊朗議長卡利巴夫表示，美國與伊朗達成的協議無法阻止對伊朗的又一次襲擊。
-
----
-
-### 2026-10-15 02:51:29  #MKT News
-
-U.S. State Department: Secretary of State Rubio supports efforts by all parties to de-escalate tensions.
-
----
-
-### 2026-10-15 02:51:23  #MKT News
-
-U.S. State Department: Secretary of State Rubio spoke Wednesday with Ethiopian Prime Minister Abiy Ahmed Ali to discuss tensions with Eritrea.
-
----
-
-### 2026-10-15 02:51:05  #國際
-
-問：沒有美國的支援，你們能贏嗎？
-
-澤連斯基：我們無論如何都不會失去獨立。
-
----
-
-### 2026-10-15 02:50:35  #市場
-
-布倫特原油期貨收於每桶106.06美元，上漲37美分，漲幅0.35%。
-
----
-
-### 2026-10-15 02:50:30  #國際
-
-美國正向拉丁美洲部署數百名士兵，美軍將與當地部隊開展培訓與演習。
-
----
-
-### 2026-10-15 02:50:24  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures settlement price was $106.06 per barrel, up $0.37, or 0.35%.
-
----
-
-### 2026-10-15 02:49:50  #MKT News #Market Themes #AI Revolution
-
-OpenAI said European firms are rapidly expanding use of AI agents. More than half of AI use cases among EU enterprise and commercial customers now involve such agents, and small-business users across the region have grown eightfold.
-
----
-
-### 2026-10-15 02:49:21  #焦點 #國際
-
-市場資訊：美國向拉丁美洲派遣數百名士兵。
-
----
-
-### 2026-10-15 02:48:49  #宏觀 #國際
-
-美國國務院：魯比奧支援衣索比亞與厄利垂亞緩和局勢。
-
----
-
-### 2026-10-15 02:48:37  #宏觀 #國際
-
-美國國務院：魯比奧週三與衣索比亞總理阿比·艾哈邁德·阿里討論了衣索比亞與厄利垂亞之間的緊張局勢。
-
----
-
-### 2026-10-15 02:47:59  #國際
-
-OpenAI：歐洲企業正在迅速擴大對AI智慧體的使用。目前，在我們歐盟企業和商業客戶中，超過一半的AI使用涉及這些工具，該地區小企業使用者數量增長了8倍。我們的最新經濟研究報告探討了歐洲向智慧體AI的轉變，以及將更廣泛採用轉化為更深入應用的機會。
-
----
-
-### 2026-10-15 02:47:22  #國際
-
-澤連斯基：不是特朗普，不是馬斯克，世界上任何人都不能決定烏克蘭的總統人選。只有烏克蘭人民才能決定。
 
 ---
