@@ -1,7 +1,32 @@
 {
   "date": "2026-10-17",
-  "count": 202,
+  "count": 205,
   "items": [
+    {
+      "id": "mkt:01a145e5-66d9-7ee0-a8c4-81da6d5afa57",
+      "time": "2026-10-17 02:07:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "In the past 24 hours Houthi forces said Saudi warplanes conducted 101 air raids and missile strikes on civilian facilities in Sana'a and the governorates of Dali, Taiz, Hodeidah, Zamar, Marib, Saada, Al Jawf, Amran and Lahij."
+    },
+    {
+      "id": "mkt:01a145e5-61c9-7ee0-a8c4-796ce3a416e4",
+      "time": "2026-10-17 02:07:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Houthi forces said the Saudi-led coalition has carried out 2,489 air and missile strikes since the Yemen conflict escalated."
+    },
+    {
+      "id": "em:jjsj_mgsj:202610173898789642",
+      "time": "2026-10-17 02:03:42",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "據美國財政部，美國2026財年財政赤字為1.992萬億美元，2025財年為1.775萬億美元。"
+    },
     {
       "id": "mkt:01a145e2-3bf7-7ee0-a8c4-723bdc2a4b01",
       "time": "2026-10-17 02:03:36",

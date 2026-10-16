@@ -1,7 +1,32 @@
 {
-  "updated": "2026-10-17 02:04:39",
-  "count": 12869,
+  "updated": "2026-10-17 02:08:24",
+  "count": 12865,
   "items": [
+    {
+      "id": "mkt:01a145e5-66d9-7ee0-a8c4-81da6d5afa57",
+      "time": "2026-10-17 02:07:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "In the past 24 hours Houthi forces said Saudi warplanes conducted 101 air raids and missile strikes on civilian facilities in Sana'a and the governorates of Dali, Taiz, Hodeidah, Zamar, Marib, Saada, Al Jawf, Amran and Lahij."
+    },
+    {
+      "id": "mkt:01a145e5-61c9-7ee0-a8c4-796ce3a416e4",
+      "time": "2026-10-17 02:07:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Houthi forces said the Saudi-led coalition has carried out 2,489 air and missile strikes since the Yemen conflict escalated."
+    },
+    {
+      "id": "em:jjsj_mgsj:202610173898789642",
+      "time": "2026-10-17 02:03:42",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "據美國財政部，美國2026財年財政赤字為1.992萬億美元，2025財年為1.775萬億美元。"
+    },
     {
       "id": "mkt:01a145e2-3bf7-7ee0-a8c4-723bdc2a4b01",
       "time": "2026-10-17 02:03:36",
@@ -117489,66 +117514,6 @@
         "Important"
       ],
       "text": "【7.7 magnitude earthquake strikes central Panama】The European-Mediterranean Seismological Centre reported a 7.7 magnitude earthquake in the Macaracas area of central Panama at 12:56 local time on the 9th, depth 12 km. The U.S. Tsunami Warning System issued a tsunami warning."
-    },
-    {
-      "id": "mkt:01a121d9-5648-7ee0-a81d-9c0c219e328e",
-      "time": "2026-10-10 02:07:33",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "U.S. tsunami warning system says hazardous tsunami waves may affect parts of the coasts of Panama and Colombia within the next three hours."
-    },
-    {
-      "id": "5135605",
-      "time": "2026-10-10 02:06:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【巴拿馬8.0級地震】據美國地質調查局測定，當地時間10月9日，巴拿馬的皮塔洛薩阿里巴地區發生8.0級地震。（CCTV國際時訊）"
-    },
-    {
-      "id": "5135604",
-      "time": "2026-10-10 02:05:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "太平洋海嘯預警中心：受影響的海岸包括巴拿馬、哥倫比亞、厄瓜多等。"
-    },
-    {
-      "id": "5135603",
-      "time": "2026-10-10 02:05:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海嘯預警系統：巴拿馬發生8級地震後出現海嘯威脅。"
-    },
-    {
-      "id": "mkt:01a121d7-51a0-7ee0-a81d-97f23d2985a0",
-      "time": "2026-10-10 02:05:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. tsunami warning system says a tsunami threat exists after an M8.0 earthquake struck Panama."
-    },
-    {
-      "id": "mkt:01a121d6-f7cc-7ee0-a81d-8fcd1db2864e",
-      "time": "2026-10-10 02:04:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USGS reported a magnitude-8.0 earthquake in Pitaloza Arriba, Panama."
-    },
-    {
-      "id": "5135602",
-      "time": "2026-10-10 02:04:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "太平洋海嘯預警中心：可能出現大範圍危險海嘯波。"
     }
   ]
 }
