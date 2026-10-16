@@ -1,7 +1,51 @@
 {
   "date": "2026-10-16",
-  "count": 659,
+  "count": 664,
   "items": [
+    {
+      "id": "5148640",
+      "time": "2026-10-16 08:43:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲2%，至5666.13。"
+    },
+    {
+      "id": "mkt:01a14229-94cd-7ee0-a8aa-fe7985875f15",
+      "time": "2026-10-16 08:43:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI rose as much as 2.00% intraday."
+    },
+    {
+      "id": "mkt:01a14228-ed22-7ee0-a8aa-f49bdfeccc2a",
+      "time": "2026-10-16 08:42:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China foreign minister Wang Yi meets Israeli President Herzog】On Oct 15, 2026 in Baku during the CICA summit, China foreign minister Wang Yi met Israeli President Herzog. Wang said regional peace and reconciliation are the cornerstone of China's Middle East policy, reiterated that a two-state solution is the correct path to resolve the Palestinian issue and called it the century's greatest historical injustice. He said the region remains tense and urged immediate, full opening of access into Gaza to prevent roughly 2 million civilians from being pushed to the brink of survival and to stop a spreading humanitarian catastrophe; he also said Israel should stop and reverse forced settlement activity in the West Bank."
+    },
+    {
+      "id": "5148639",
+      "time": "2026-10-16 08:42:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普表示不會對伊朗用核武，稱不認為會在伊朗部署地面部隊】當地時間10月15日晚播出的採訪中，美國總統特朗普在回答有關是否會在伊朗使用“炸彈之母”的問題時表示，“我不會在對伊朗的行動中使用核武器，我們沒必要那樣做，‘炸彈之母’也不是核武器。”特朗普還稱，他不認為會在伊朗部署地面部隊。（CCTV國際時訊）"
+    },
+    {
+      "id": "5148638",
+      "time": "2026-10-16 08:40:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普政府官員 2019 年審查奧馬爾，未發現公民身份問題】據報道，七年前，特朗普第一屆政府的一名政治任命官員向美國移民部門提出一項要求，令資深公職人員感到警覺：核查明尼蘇達州新晉民主黨眾議員伊爾漢・奧馬爾的全部移民檔案，尋找欺詐證據。三名前移民官員披露，這項 2019 年提出的要求在當時的工作人員看來極不尋常，屬於動用聯邦權力蒐集針對特朗普總統的知名批評者、現任國會議員的黑料。這一請求迅速觸發審查，核查奧馬爾的個人經歷、其全家作為索馬利亞難民移居美國的過往，以及保守派媒體多年來流傳的有關她婚姻的各類傳聞。一名前官員表示，美國移民與海關執法局（ICE）下屬調查機構 —— 國土安全調查局（HSI）最終認定，沒有充足證據證明伊爾漢・奧馬爾存在不當行為，全面調查的計劃最終被放棄。然而如今特朗普再度入主白宮，其政府動用聯邦權力針對所謂政敵，奧馬爾再度陷入風波：聯邦探員搜查了她位於華盛頓的住宅，調查再次圍繞當年調查機構認為不值得追查的那幾項指控展開，重點核查其出生日期與公民身份相關檔案。"
+    },
     {
       "id": "te:economy:592548",
       "time": "2026-10-16 08:39:24",
