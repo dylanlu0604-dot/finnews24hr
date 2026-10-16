@@ -1,7 +1,75 @@
 {
   "date": "2026-10-17",
-  "count": 403,
+  "count": 410,
   "items": [
+    {
+      "id": "mkt:01a14679-22b9-7ee0-a8c6-743cdd7fc261",
+      "time": "2026-10-17 04:48:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC's revenue per employee is 2-4 times that of Meta Platforms (META.O) and Google (GOOG.O)."
+    },
+    {
+      "id": "te:markets:592875",
+      "time": "2026-10-17 04:46:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher as Energy Gains Offset Tech Selloff — The S&P/TSX Composite Index edged 0.1% higher to close at 36,177 on Friday, trimming earlier gains amid a deepening selloff in the North American tech sector. Shopify tumbled 5.1% as the selloff in Wall Street chipmakers extended into an eighth consecutive session, marking the sector’s longest losing streak since the 2008 financial crisis. Shopify’s partnership with Meta has further increased its exposure to the AI trade. Celestica fell 3.9%, while Constellation Software dropped 3%. In contrast, energy producers lifted the index as oil prices rallied amid mounting supply risks. Canadian Natural Resources rose 3.2%, Suncor and Cenovus each gained 2.7%, and Imperial Oil added 2.9%. Energy infrastructure stocks also helped offset losses, with Enbridge advancing 2.3%. Banking stocks were subdued following hawkish remarks from the Bank of Canada governor. Miners closed mixed as gold and silver prices declined."
+    },
+    {
+      "id": "mkt:01a14677-788d-7ee0-a8c6-6c66a1bb4956",
+      "time": "2026-10-17 04:46:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the Iran issue will end soon."
+    },
+    {
+      "id": "mkt:01a14677-0b92-7ee0-a8c6-668983c3b218",
+      "time": "2026-10-17 04:46:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA CEO Jensen Huang says AI-driven transformation will outlast current market turbulence】NVIDIA (NVDA.O) CEO Jensen Huang said at a Berlin event that current AI market volatility will pass because AI will drive structural change across industries and countries and the sector remains in an early stage. He said shifting headlines do not change industry fundamentals and that large-scale hardware investment will ultimately deliver returns and help calm market unease. Commenting on recent sell-offs in AI chip and infrastructure stocks amid investor concern that higher borrowing costs could curb AI capex, Huang said he remains optimistic and urged investors to focus on first principles, fundamentals and long-term value."
+    },
+    {
+      "id": "5150601",
+      "time": "2026-10-17 04:45:02",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "Anthropic表示，其人均創收是Meta和谷歌等同行的2至4倍。"
+    },
+    {
+      "id": "5150600",
+      "time": "2026-10-17 04:44:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷提出置換10月30日到期的與美元掛鉤的債券。"
+    },
+    {
+      "id": "5150599",
+      "time": "2026-10-17 04:44:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗問題很快就會結束。"
+    },
     {
       "id": "5150598",
       "time": "2026-10-17 04:40:51",
