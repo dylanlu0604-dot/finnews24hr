@@ -1,7 +1,144 @@
 {
   "date": "2026-10-16",
-  "count": 996,
+  "count": 1012,
   "items": [
+    {
+      "id": "mkt:01a142a0-5fc0-7ee0-a8af-15dc06c111b9",
+      "time": "2026-10-16 10:52:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Processing trade innovation and regional cooperation event held in Guangzhou】An event on processing trade innovation and regional cooperation was held in Guangzhou on Oct. 15. MOFCOM official Zhang Li said processing trade remains a key component of China’s foreign trade and open economy. MOFCOM said processing-trade innovation made significant gains during the 14th Five-Year Plan and that through the 15th Five-Year Plan and beyond it will be used to respond to global supply-chain restructuring, support industrial upgrading, cultivate new export drivers, advance regional coordination and bolster employment. MOFCOM will continue to promote processing-trade innovation, aiming to raise value-chain position, strengthen supply-chain resilience, deepen regional cooperation, enhance policy management capacity and boost firms’ competitiveness."
+    },
+    {
+      "id": "te:markets:592597",
+      "time": "2026-10-16 10:52:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yields Holds Decline — The yield on the US 10-year Treasury note remained below 5.1% on Friday after falling sharply in the previous session, as a global equity selloff boosted safe-haven demand for government bonds. Investors are increasingly pricing in a potential slowdown in the artificial intelligence capital expenditure boom, which has been a major driver of the US economy and financial markets. Meanwhile, market participants continued to evaluate the Federal Reserve’s monetary policy outlook, with stronger-than-expected US economic data reinforcing expectations of further interest rate hikes. Markets are currently pricing in approximately a 72% probability that the Fed will leave rates unchanged this month, while the likelihood of a December rate hike has climbed to 92%. Cleveland Fed President Beth Hammack cautioned that the central bank may need to raise interest rates more aggressively if public inflation expectations deteriorate significantly."
+    },
+    {
+      "id": "mkt:01a1429f-ea23-7ee0-a8af-0f6a10745cd9",
+      "time": "2026-10-16 10:52:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "BILI.O",
+        "Impact bullish"
+      ],
+      "text": "【37 Chinese mobile-game publishers generated $2.0 bln globally in September — Sensor Tower】Sensor Tower store-intelligence data show 37 Chinese publishers placed in the global top‑100 mobile-game revenue rankings in September 2026, generating $2.0 bln and accounting for 41.6% of top‑100 revenue. The top seven publishers were unchanged MoM, with Tencent remaining No.1. Mid‑tier publishers outperformed: Bilibili revenue rose 36% MoM, lifting it seven places; Joy Games climbed 10 places. Yishijie, Youku Shengshi and Luzhu Games re-entered the top‑100."
+    },
+    {
+      "id": "mkt:01a1429f-d1c7-7ee0-a8af-0254d4ad9b2c",
+      "time": "2026-10-16 10:52:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "IMF Managing Director Georgieva said governments must take measures to ensure they are prepared for AI given the rapid pace of change."
+    },
+    {
+      "id": "5148890",
+      "time": "2026-10-16 10:52:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：9月37箇中國手遊發行商全球合計吸金20億美元】Sensor Tower商店情報平臺顯示，2026年9月共37箇中國廠商入圍全球手遊發行商收入榜TOP 100，合計吸金20億美元，佔本期全球TOP 100手遊發行商收入41.6%。9月，中國手遊發行商榜單頭部格局高度穩固，前七名發行商排名均保持不變，騰訊繼續穩居榜首。中腰部發行商表現更為突出，嗶哩嗶哩收入環比增長36%，排名上升7位；Joy Games排名提升10位，成為9月排名上升幅度較大的發行商之一。此外，益世界、遊酷盛世和露珠遊戲重回榜單。"
+    },
+    {
+      "id": "5148889",
+      "time": "2026-10-16 10:51:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "IMF總裁格奧爾基耶娃：鑑於人工智慧變革的速度，各國必須採取措施確保做好人工智慧準備。"
+    },
+    {
+      "id": "5148888",
+      "time": "2026-10-16 10:51:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度首富安巴尼旗下信實集團表示歡迎衛星通訊領域的競爭，包括馬斯克的星鏈。"
+    },
+    {
+      "id": "mkt:01a1429e-6630-7ee0-a8ae-fb64e91ac42a",
+      "time": "2026-10-16 10:50:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director Georgieva said maintaining stability will require fiscal consolidation across most high‑tech countries."
+    },
+    {
+      "id": "5148887",
+      "time": "2026-10-16 10:50:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）總裁格奧爾基耶娃：維護穩定需要大多數高科技國家進行財政整頓。"
+    },
+    {
+      "id": "mkt:01a1429e-1939-7ee0-a8ae-f624bbe53a56",
+      "time": "2026-10-16 10:50:19",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "On bond markets, the Bundesbank president said Germany will remain a pillar of stability for Europe."
+    },
+    {
+      "id": "5148886",
+      "time": "2026-10-16 10:50:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "德國央行行長談債券市場：德國仍將是歐洲穩定的基石。"
+    },
+    {
+      "id": "mkt:01a1429d-942f-7ee0-a8ae-eb9ba024567f",
+      "time": "2026-10-16 10:49:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director GEORGIEVA said central banks should prioritize price stability."
+    },
+    {
+      "id": "5148885",
+      "time": "2026-10-16 10:49:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雷賽智慧：初步預計明後年人形機器人業務收入將逐步產生較大貢獻】雷賽智慧(002979)近日在機構調研、現場參觀時表示，無框力矩電機全年在手訂單超過100萬臺，年度交付預計80萬—90萬臺，目前月產能達15萬臺，正在擴建自動化產線向年產300萬臺邁進。關節模組方面，諧波、行星、一體輪三大類訂單呈現快速增長，目前在手訂單超6萬臺，交付正在加速放量，公司同步加大產能建設。從營收佔比看，機器人業務目前佔公司整體營收比例較小，今年預計十分之一左右，但已呈現快速增長趨勢，初步預計明後年人形機器人業務收入將逐步產生較大貢獻，未來幾年佔比很可能會快速提升。今年全年機器人相關業務訂單規模預計在兩三億元之間。以上基於當前人形市場發展形勢的預判，僅供參考。"
+    },
+    {
+      "id": "mkt:01a1429d-5dbd-7ee0-a8ae-e6a1df03e824",
+      "time": "2026-10-16 10:49:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "IMF managing director GEORGIEVA said AI is boosting productivity and is expected to deliver further gains, but the magnitude and pace of improvement remain uncertain."
+    },
+    {
+      "id": "5148884",
+      "time": "2026-10-16 10:49:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "IMF總裁格奧爾基耶娃：各國央行應高度專注於穩定物價。"
+    },
     {
       "id": "5148883",
       "time": "2026-10-16 10:48:30",
@@ -99,6 +236,15 @@
         "觀點"
       ],
       "text": "【花旗：預計比亞迪10月出口銷量將環比回升4%，評級“買入”】花旗發表報告指，進入10月，預計比亞迪的出口銷量將環比回升4%至18.8萬輛，國內零售銷量環比增長3%至約25萬輛。為了將10月底的中國庫存穩定控制在2.25個月以下，該行估計10月中國市場的最大補貨規模約為3.6萬輛，相當於單月批發銷量(包括出口)達47.36萬輛，同比增長7.2%，環比增長2.2%。花旗予比亞迪“買入”評級，H股目標價142港元。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202610163898116195",
+      "time": "2026-10-16 10:46:23",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行副行長陶玲：將繼續支援金融機構開展人民幣境外貸款和跨境貿易融資】中國人民銀行副行長陶玲16日在全球財富管理論壇·2026上海蘇河灣大會上表示，下一步，為了進一步滿足離岸市場人民幣流動性需求，我們將繼續支援金融機構開展人民幣境外貸款和跨境貿易融資，完善銀行跨境同業人民幣融資政策，鼓勵更多境外機構參與熊貓債的發行和交易，支援香港發展人民幣點心債市場。"
     },
     {
       "id": "mkt:01a1429a-5d4b-7ee0-a8ae-c4f21e5f06ac",
