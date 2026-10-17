@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18 00:55:29",
-  "count": 12578,
+  "updated": "2026-10-18 00:59:21",
+  "count": 12575,
   "items": [
     {
       "id": "mkt:01a14ac2-60e0-7ee0-a8cc-d626a39c97b7",
@@ -115163,38 +115163,6 @@
         "國際"
       ],
       "text": "英國政府：英國首相今日與烏克蘭總統澤連斯基舉行了通話。"
-    },
-    {
-      "id": "mkt:01a126c0-cbcc-7ee0-a825-9ba1534a6b3c",
-      "time": "2026-10-11 00:58:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says US may join Saudi strikes on Houthi rebels】President Trump said the United States may participate in Saudi strikes against Houthi rebels, adding the administration will assess the situation and make a decision. He said the US had only just learned of the recent attacks and that any US action would be rapid."
-    },
-    {
-      "id": "mkt:01a126bf-0276-7ee0-a825-9065008b57b1",
-      "time": "2026-10-11 00:56:54",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "Zelenskiy spoke with British Prime Minister Burnham and reported that Russia carried out sustained strikes across multiple Ukrainian cities today using air-dropped bombs, Shahed drones and ballistic missiles."
-    },
-    {
-      "id": "mkt:01a126be-2de1-7ee0-a825-8891065132c7",
-      "time": "2026-10-11 00:56:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump pledges to accept midterm results but stresses he will not allow fraud】Asked whether he would accept the midterm election results regardless of which party won, President Trump said \"Of course I will accept,\" but repeatedly warned \"we don't want fraud.\""
     }
   ]
 }
