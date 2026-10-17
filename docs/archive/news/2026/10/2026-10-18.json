@@ -1,7 +1,35 @@
 {
   "date": "2026-10-18",
-  "count": 10,
+  "count": 13,
   "items": [
+    {
+      "id": "mkt:01a14abf-33cd-7ee0-a8cc-c1c921dd57b8",
+      "time": "2026-10-18 00:43:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia says it controls eight settlements; Ukraine says it struck Russian command posts】The Russian Defence Ministry said on the 17th that over the previous day Russian forces seized eight populated localities in Kharkiv and other areas and struck Ukrainian transport infrastructure, UAV storage sites and temporary deployment points. It said air defences shot down 654 Ukrainian fixed-wing drones and one HIMARS rocket; the Black Sea Fleet destroyed one Ukrainian naval drone in the Black Sea. The Ukrainian General Staff said on the 17th that its air force, missile troops and artillery struck Russian troop concentrations and drone command posts, destroying one tank, two armoured vehicles and 1,396 drones."
+    },
+    {
+      "id": "5151893",
+      "time": "2026-10-18 00:43:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱控制8個居民點 烏稱襲擊俄指揮所】俄羅斯國防部17日通報稱，過去一天，俄軍在哈爾科夫等地區控制8個居民點。俄軍對烏軍交通基礎設施、無人機儲存設施以及臨時部署點實施打擊。俄軍防空系統擊落654架烏克蘭固定翼無人機和1枚“海馬斯”火箭彈，黑海艦隊還在黑海海域摧毀1艘烏克蘭海軍無人艇。烏克蘭武裝部隊總參謀部17日通報稱，過去一天，烏空軍、導彈部隊和炮兵襲擊了俄方人員集結區、無人機指揮所等目標，摧毀俄軍1輛坦克、2輛裝甲車以及1396架無人機等武器裝備。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a14abe-92f5-7ee0-a8cc-bfdf4f3111bd",
+      "time": "2026-10-18 00:42:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq prime minister al-Zaidi ordered an investigative committee to probe an explosion at an ammunition depot inside a Popular Mobilization Forces headquarters in Baghdad."
+    },
     {
       "id": "mkt:01a14ab8-3316-7ee0-a8cc-b4f66c459a7d",
       "time": "2026-10-18 00:35:47",
