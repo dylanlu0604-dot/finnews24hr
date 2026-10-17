@@ -1,7 +1,23 @@
 {
   "date": "2026-10-17",
-  "count": 761,
+  "count": 763,
   "items": [
+    {
+      "id": "5151410",
+      "time": "2026-10-17 14:09:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣與金融委員會主席阿爾朱丹被問及俄羅斯官員發言時代表退場一事時表示，所有成員都支援主席宣告。"
+    },
+    {
+      "id": "mkt:01a14879-d986-7ee0-a8c9-62129ce5ad8e",
+      "time": "2026-10-17 14:08:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy falls silent when asked if he is a scapegoat】At a Brussels press conference on Oct. 16, Ukrainian President Zelenskiy paused for more than ten seconds when a Sky News reporter asked whether U.S. President Trump had used him as a scapegoat; Zelenskiy then smiled and said that was his answer."
+    },
     {
       "id": "mkt:01a14878-ba3e-7ee0-a8c9-5ccfe4c49998",
       "time": "2026-10-17 14:07:13",
