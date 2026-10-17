@@ -1,7 +1,41 @@
 {
   "date": "2026-10-18",
-  "count": 23,
+  "count": 27,
   "items": [
+    {
+      "id": "mkt:01a14ae9-6f0d-7ee0-a8cc-f54b7292b651",
+      "time": "2026-10-18 01:29:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China's Li meets Uzbekistan President Mirziyoyev in Tashkent】Oct. 17 in Tashkent, China's Premier Li Qiang met Uzbekistan President Mirziyoyev. Li said China will seek to expand and optimize bilateral trade and deepen cooperation in energy, mining, finance and connectivity, and pledged to ensure high‑quality implementation of the China‑Kyrgyzstan‑Uzbekistan railway. He also flagged intensified tech cooperation in AI, the green economy and aerospace, and said Beijing supports more capable Chinese firms investing in Uzbekistan, urging continuation of a favorable business environment. Both sides agreed to strengthen coordination on major issues and multilateral cooperation through China‑Central Asia mechanisms and the Shanghai Cooperation Organization."
+    },
+    {
+      "id": "5151921",
+      "time": "2026-10-18 01:28:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：今日在全國多地及黑海區域擊落30架烏克蘭無人機。"
+    },
+    {
+      "id": "mkt:01a14ae7-9c31-7ee0-a8cc-efcbcc34b766",
+      "time": "2026-10-18 01:27:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BAGHAEI said Iran and Pakistan are in close contact and negotiating to resolve the issue, aiming to restore normal operation of border crossings as soon as possible."
+    },
+    {
+      "id": "mkt:01a14ae7-7bf9-7ee0-a8cc-e0473d586005",
+      "time": "2026-10-18 01:27:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Responding to reports that Iran had closed its land border with Pakistan, Iranian foreign ministry spokesman BAGHAEI said crossings and movement are temporarily suspended due to technical problems and as a precaution."
+    },
     {
       "id": "5151919",
       "time": "2026-10-18 01:24:38",
