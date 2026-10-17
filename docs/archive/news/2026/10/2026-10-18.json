@@ -1,7 +1,43 @@
 {
   "date": "2026-10-18",
-  "count": 19,
+  "count": 23,
   "items": [
+    {
+      "id": "5151919",
+      "time": "2026-10-18 01:24:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：阿聯酋同意重返葉門衝突，恢復對反胡塞武裝的資金支援，沙烏地阿拉伯將提供空中掩護，胡塞武裝的推進令海灣國家感到警惕。"
+    },
+    {
+      "id": "5151918",
+      "time": "2026-10-18 01:23:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：既然命運總是追求諷刺性的娛樂效果，那麼“Roadster”成為飛行汽車就是不可避免的。"
+    },
+    {
+      "id": "5151917",
+      "time": "2026-10-18 01:22:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強會見烏茲別克總統米爾濟約耶夫】10月17日，國務院總理李強在塔什干會見烏茲別克總統米爾濟約耶夫。李強表示，近年來，在習近平主席和米爾濟約耶夫總統的戰略引領下，中烏命運共同體建設不斷取得新成果。面對國際形勢變亂交織，中烏應當更加緊密團結協作，堅定攜手前行。中方願同烏方加強戰略溝通，繼續堅定支援彼此核心利益，拓展互利合作，為兩國人民帶來更多福祉。（新華社）"
+    },
+    {
+      "id": "mkt:01a14ae2-cfff-7ee0-a8cc-dce790303cd2",
+      "time": "2026-10-18 01:22:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【CENTCOM says Strait of Hormuz remains open; roughly 97% of transiting vessels unhit】CENTCOM spokesman Navy Col. Tim Hawkins said the vast majority of Iranian attempts to attack ships in the Strait of Hormuz have failed and the waterway remains open. He said US forces have coordinated protection enabling thousands of vessels to transit and estimated roughly 97% of ships attempting to pass were not struck by Iranian projectiles. Hawkins added the Islamic Revolutionary Guard Corps’ actions are unjustified and have not succeeded in closing the strait; shipping continues to transit."
+    },
     {
       "id": "5151916",
       "time": "2026-10-18 01:18:35",

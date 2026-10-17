@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-18 01:22:21",
-  "count": 12567,
+  "updated": "2026-10-18 01:26:18",
+  "count": 12570,
   "items": [
+    {
+      "id": "5151919",
+      "time": "2026-10-18 01:24:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：阿聯酋同意重返葉門衝突，恢復對反胡塞武裝的資金支援，沙烏地阿拉伯將提供空中掩護，胡塞武裝的推進令海灣國家感到警惕。"
+    },
+    {
+      "id": "5151918",
+      "time": "2026-10-18 01:23:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：既然命運總是追求諷刺性的娛樂效果，那麼“Roadster”成為飛行汽車就是不可避免的。"
+    },
+    {
+      "id": "5151917",
+      "time": "2026-10-18 01:22:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【李強會見烏茲別克總統米爾濟約耶夫】10月17日，國務院總理李強在塔什干會見烏茲別克總統米爾濟約耶夫。李強表示，近年來，在習近平主席和米爾濟約耶夫總統的戰略引領下，中烏命運共同體建設不斷取得新成果。面對國際形勢變亂交織，中烏應當更加緊密團結協作，堅定攜手前行。中方願同烏方加強戰略溝通，繼續堅定支援彼此核心利益，拓展互利合作，為兩國人民帶來更多福祉。（新華社）"
+    },
+    {
+      "id": "mkt:01a14ae2-cfff-7ee0-a8cc-dce790303cd2",
+      "time": "2026-10-18 01:22:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【CENTCOM says Strait of Hormuz remains open; roughly 97% of transiting vessels unhit】CENTCOM spokesman Navy Col. Tim Hawkins said the vast majority of Iranian attempts to attack ships in the Strait of Hormuz have failed and the waterway remains open. He said US forces have coordinated protection enabling thousands of vessels to transit and estimated roughly 97% of ships attempting to pass were not struck by Iranian projectiles. Hawkins added the Islamic Revolutionary Guard Corps’ actions are unjustified and have not succeeded in closing the strait; shipping continues to transit."
+    },
     {
       "id": "5151916",
       "time": "2026-10-18 01:18:35",
@@ -115077,14 +115113,6 @@
         "DXY"
       ],
       "text": "【Axios: Trump urged replacing Zelensky; U.S.-Ukraine ties at worst point since Feb 2025 White House clash】Axios reports Trump urged Ukraine to replace President Zelensky with someone willing to strike a deal with Russia to end the war. Trump announced a deal with Russia to lift related sanctions and permit Russian diesel exports to the U.S. and global energy markets. U.S. officials told Axios Trump pursued the deal after Zelensky allegedly ignored about six U.S. requests to stop attacks on Russian refineries. Zelensky said he was surprised, calling the move \"weak\" and a \"birthday gift\" to Putin; Trump said Zelensky had multiple chances to make a deal and that his actions harmed U.S. farmers. Axios characterizes this as the most serious U.S.-Ukraine rift since the Feb 2025 White House meeting."
-    },
-    {
-      "id": "5136590",
-      "time": "2026-10-11 01:23:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱控制兩個居民點 烏稱打擊俄石油設施】10日，俄羅斯方面稱控制哈爾科夫地區的兩個居民點，烏克蘭方面稱打擊了俄羅斯薩馬拉州的一處石油設施。（央視新聞）"
     }
   ]
 }
