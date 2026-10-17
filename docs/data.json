@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-18 03:07:37",
-  "count": 12611,
+  "updated": "2026-10-18 03:11:24",
+  "count": 12607,
   "items": [
+    {
+      "id": "mkt:01a14b44-317c-7ee0-a8cd-d043e70d71ff",
+      "time": "2026-10-18 03:08:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "President Trump said the government has cut more than 1 million federal employees but total U.S. employment remains at a record high; he added that in the past a single job often required 10 people and that while the U.S. needs federal staff, not every role should have 10 people assigned."
+    },
     {
       "id": "mkt:01a14b42-992d-7ee0-a8cd-c975956667cd",
       "time": "2026-10-18 03:06:58",
@@ -115376,46 +115386,6 @@
         "Brent"
       ],
       "text": "【DOE approves up to 4 mln barrels from SPR via emergency swaps to offset Gulf of Mexico weather disruptions】The U.S. Department of Energy approved emergency swap arrangements to release up to 4 mln barrels of crude from the Strategic Petroleum Reserve to address Gulf of Mexico weather-related supply disruptions. Under the agreements companies must return the crude by 2027 and provide additional barrels as premium compensation; DOE approved ExxonMobil and BP America to each swap up to 2 mln barrels."
-    },
-    {
-      "id": "5136619",
-      "time": "2026-10-11 03:08:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【五角大樓上調與對伊戰事相關的美軍死亡人數】當地時間10月10日獲悉，美國國防部承認與對伊朗戰事相關的美軍死亡人數高於此前公佈的資料，並已將官方統計的死亡人數上調至21人。（央視新聞）"
-    },
-    {
-      "id": "5136618",
-      "time": "2026-10-11 03:08:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：將繼續與行業合作，應對颶風造成的供應中斷。"
-    },
-    {
-      "id": "5136617",
-      "time": "2026-10-11 03:08:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：埃克森美孚、美國英國石油每家最多可互換200萬桶原油。"
-    },
-    {
-      "id": "5136616",
-      "time": "2026-10-11 03:07:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部在宣告中宣佈啟動緊急石油互換。"
-    },
-    {
-      "id": "5136615",
-      "time": "2026-10-11 03:07:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬斯克：SpaceX需要讓印度的星鏈價格變得可以承受。"
     }
   ]
 }

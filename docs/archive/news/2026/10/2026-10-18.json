@@ -1,7 +1,17 @@
 {
   "date": "2026-10-18",
-  "count": 90,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:01a14b44-317c-7ee0-a8cd-d043e70d71ff",
+      "time": "2026-10-18 03:08:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "President Trump said the government has cut more than 1 million federal employees but total U.S. employment remains at a record high; he added that in the past a single job often required 10 people and that while the U.S. needs federal staff, not every role should have 10 people assigned."
+    },
     {
       "id": "mkt:01a14b42-992d-7ee0-a8cd-c975956667cd",
       "time": "2026-10-18 03:06:58",
