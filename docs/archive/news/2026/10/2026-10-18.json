@@ -1,7 +1,26 @@
 {
   "date": "2026-10-18",
-  "count": 91,
+  "count": 93,
   "items": [
+    {
+      "id": "mkt:01a14b48-6380-7ee0-a8cd-dbc53858ae41",
+      "time": "2026-10-18 03:13:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said the US took as much as hundreds of billions of dollars from Venezuela."
+    },
+    {
+      "id": "5152007",
+      "time": "2026-10-18 03:12:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：你知道我們從委內瑞拉拿到了多少錢嗎？我們從委內瑞拉拿到了數千億美元。"
+    },
     {
       "id": "mkt:01a14b44-317c-7ee0-a8cd-d043e70d71ff",
       "time": "2026-10-18 03:08:42",
