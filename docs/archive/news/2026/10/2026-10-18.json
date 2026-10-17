@@ -1,7 +1,17 @@
 {
   "date": "2026-10-18",
-  "count": 111,
+  "count": 112,
   "items": [
+    {
+      "id": "mkt:01a14b6c-ec4e-7ee0-a8ce-1afaa921856e",
+      "time": "2026-10-18 03:53:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says he'd have greater power in a second term, could do \"incredible things\"】AP: At a Kentucky rally Saturday, Trump told supporters a second presidential term would give him greater power and said he could do \"incredible things,\" citing actions such as renaming the Gulf of Mexico \"American Gulf\" and Lake Ontario \"American Lake\" and claiming tech firms treated him more deferentially than during his first term. AP noted the high-profile campaigning comes as Republicans face midterm pressure and amid voter complaints that tariffs and a war with Iran have pushed up prices and that some voters doubt he prioritizes the national interest over his own."
+    },
     {
       "id": "5152032",
       "time": "2026-10-18 03:50:41",

@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-18 03:52:37",
-  "count": 12614,
+  "updated": "2026-10-18 03:56:21",
+  "count": 12612,
   "items": [
+    {
+      "id": "mkt:01a14b6c-ec4e-7ee0-a8ce-1afaa921856e",
+      "time": "2026-10-18 03:53:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump says he'd have greater power in a second term, could do \"incredible things\"】AP: At a Kentucky rally Saturday, Trump told supporters a second presidential term would give him greater power and said he could do \"incredible things,\" citing actions such as renaming the Gulf of Mexico \"American Gulf\" and Lake Ontario \"American Lake\" and claiming tech firms treated him more deferentially than during his first term. AP noted the high-profile campaigning comes as Republicans face midterm pressure and amid voter complaints that tariffs and a war with Iran have pushed up prices and that some voters doubt he prioritizes the national interest over his own."
+    },
     {
       "id": "5152032",
       "time": "2026-10-18 03:50:41",
@@ -115415,35 +115425,6 @@
         "MKT News"
       ],
       "text": "【Ukraine reports 20 killed in Russian strike on Zaporizhzhia region】Ukrainian authorities said a Russian airstrike on the Zaporizhzhia region in the early hours of the 10th killed 20 people and wounded 32. The strike occurred at 04:48 and used precision-guided aerial bombs, officials said. The dead include three children; the injured are being treated in hospital and search-and-rescue work under the rubble is ongoing."
-    },
-    {
-      "id": "mkt:01a12762-2e38-7ee0-a826-5179744433e5",
-      "time": "2026-10-11 03:55:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Zelenskiy holds calls with multiple European leaders】Ukrainian President Zelenskiy said on Oct. 10 he held calls that day with Finland President Stubb, French President Macron, Norwegian Prime Minister Støre and UK Prime Minister Burnham, urging increased support for Ukraine and tougher sanctions on Russia. He briefed them on the conflict, discussed challenges from the U.S. easing of sanctions on Russian oil products, and coordinated response measures and plans for follow-up meetings."
-    },
-    {
-      "id": "5136647",
-      "time": "2026-10-11 03:55:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基與多個歐洲國家領導人通話】烏克蘭總統澤連斯基10日在社交媒體釋出訊息說，他當天與多個歐洲國家領導人通電話，呼籲加大對烏援助和對俄羅斯制裁。澤連斯基分別與芬蘭總統斯圖布、法國總統馬克龍、挪威首相斯特勒以及英國首相伯納姆通話。他在通話中，通報俄烏衝突近況，討論美國放寬對俄石油產品制裁引發的挑戰，並就協調應對措施及籌備後續會晤等事宜進行溝通。（新華社）"
-    },
-    {
-      "id": "mkt:01a12761-bd8e-7ee0-a826-4ecdc7fb1c95",
-      "time": "2026-10-11 03:54:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign ministry spokesperson: US people's real enemy is their warmongering ruling group】Iran foreign ministry spokesperson Baghaei posted on social media responding to Trump's earlier remark that \"even if Iran destroyed Los Angeles or San Diego it would be a very small price\", saying: \"To frighten their population they fabricate an imagined aerial enemy to cover the real threat on the ground. The real danger is neither outside their borders nor in the skies over Los Angeles and San Diego. The real danger comes from a ruling group that imposes illegal wars on the world and causes global consequences. The US president even described the destruction of Los Angeles and San Diego as 'a very small price'. This is a classic case of fear politics: using a fictional threat to intimidate the public, portraying the destruction of one's own cities as an acceptable price, and diverting attention from the real danger.\""
     }
   ]
 }
