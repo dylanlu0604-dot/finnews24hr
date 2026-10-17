@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18 05:56:42",
-  "count": 12614,
+  "updated": "2026-10-18 06:00:50",
+  "count": 12616,
   "items": [
+    {
+      "id": "mkt:01a14bde-5de3-7ee0-a8ce-8775222957b7",
+      "time": "2026-10-18 05:57:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen parliamentary speaker urges Egypt to avoid involvement in war】The speaker of Yemen’s parliament wrote to his Egyptian counterpart urging Cairo not to be drawn into a war he said contradicts Egypt’s values. He warned that Egyptian involvement would pose a serious threat to national security and internal stability, and urged Egypt to resist following Saudi government policy to avoid dragging the region into wider turmoil."
+    },
     {
       "id": "5152063",
       "time": "2026-10-18 05:54:08",
@@ -25,6 +33,19 @@
         "國際"
       ],
       "text": "【法國外長譴責以色列定居者在約旦河西岸襲擊法國官員】法國外長巴羅17日晚在社交媒體發文說，法國北部歐努瓦艾姆裡市市長貝爾納·博杜當天在約旦河西岸遭到以色列定居者暴力襲擊。巴羅說，以色列當局應立即逮捕肇事者，將其繩之以法，並制止此類犯罪暴力行為，根據國際法義務確保平民安全。（新華社）"
+    },
+    {
+      "id": "mkt:01a14be0-2d80-7ee0-a8ce-8965baa89805",
+      "time": "2026-10-18 05:43:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7"
+      ],
+      "text": "【Musk admits 'somewhat off track' in political affairs】Foreign media report Tesla CEO Elon Musk said he had \"somewhat gone off track\" in political affairs, spending about four months at the White House—longer than the one-to-two months he said government involvement should have taken—and that he should have returned sooner to focus on AI."
     },
     {
       "id": "5152061",
