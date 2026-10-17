@@ -1,7 +1,15 @@
 {
   "date": "2026-10-18",
-  "count": 9,
+  "count": 10,
   "items": [
+    {
+      "id": "mkt:01a14ab8-3316-7ee0-a8cc-b4f66c459a7d",
+      "time": "2026-10-18 00:35:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan temporarily suspends border trade with Iran】On Oct. 17 local time, the deputy commissioner of Chagai district in Pakistan's Balochistan province said on social media that border trade with Iran has been temporarily suspended for security reasons. He said the closure is a temporary measure to strengthen border management and support counterterrorism operations and that the border will reopen once effective measures are implemented."
+    },
     {
       "id": "5151889",
       "time": "2026-10-18 00:34:14",

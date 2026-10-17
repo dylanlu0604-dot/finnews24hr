@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-18 00:36:21",
+  "updated": "2026-10-18 00:40:15",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
   "count": 410,
   "history_summary": {
-    "cached": 322,
-    "fetched": 88,
+    "cached": 410,
+    "fetched": 0,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18811,7 +18811,7 @@
                   "previous": "2.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -18869,7 +18869,7 @@
                   "previous": "4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -18927,7 +18927,7 @@
                   "previous": "232239"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -18985,7 +18985,7 @@
                   "previous": "3.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19043,7 +19043,7 @@
                   "previous": "2.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19101,7 +19101,7 @@
                   "previous": "2.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19159,7 +19159,7 @@
                   "previous": "177.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19217,7 +19217,7 @@
                   "previous": "20.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19275,7 +19275,7 @@
                   "previous": "20.725"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19333,7 +19333,7 @@
                   "previous": "7742"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19391,7 +19391,7 @@
                   "previous": "2.15"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19449,7 +19449,7 @@
                   "previous": "2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19507,7 +19507,7 @@
                   "previous": "2.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19565,7 +19565,7 @@
                   "previous": "300"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19623,7 +19623,7 @@
                   "previous": "3.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19681,7 +19681,7 @@
                   "previous": "2.97"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19739,7 +19739,7 @@
                   "previous": "3.75"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19797,7 +19797,7 @@
                   "previous": "3.02"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             }
           ]
@@ -19861,7 +19861,7 @@
                   "previous": "0.75"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19919,7 +19919,7 @@
                   "previous": "4.26"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -19977,7 +19977,7 @@
                   "previous": "2.43"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20035,7 +20035,7 @@
                   "previous": "5.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20093,7 +20093,7 @@
                   "previous": "-2.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20151,7 +20151,7 @@
                   "previous": "1.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20209,7 +20209,7 @@
                   "previous": "0.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20267,7 +20267,7 @@
                   "previous": "1.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20325,7 +20325,7 @@
                   "previous": "2.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20383,7 +20383,7 @@
                   "previous": "1.19"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20441,7 +20441,7 @@
                   "previous": "-2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20499,7 +20499,7 @@
                   "previous": "0.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20557,7 +20557,7 @@
                   "previous": "-2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20615,7 +20615,7 @@
                   "previous": "-0.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20673,7 +20673,7 @@
                   "previous": "7.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20731,7 +20731,7 @@
                   "previous": "0.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20789,7 +20789,7 @@
                   "previous": "0.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20847,7 +20847,7 @@
                   "previous": "3.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20905,7 +20905,7 @@
                   "previous": "-4.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -20963,7 +20963,7 @@
                   "previous": "-1.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21021,7 +21021,7 @@
                   "previous": "-1.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21079,7 +21079,7 @@
                   "previous": "-0.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21137,7 +21137,7 @@
                   "previous": "0.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21195,7 +21195,7 @@
                   "previous": "1.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21253,7 +21253,7 @@
                   "previous": "1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21311,7 +21311,7 @@
                   "previous": "2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21369,7 +21369,7 @@
                   "previous": "1.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21427,7 +21427,7 @@
                   "previous": "-2.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21485,7 +21485,7 @@
                   "previous": "-0.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21543,7 +21543,7 @@
                   "previous": "96.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21601,7 +21601,7 @@
                   "previous": "2.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21659,7 +21659,7 @@
                   "previous": "3.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21717,7 +21717,7 @@
                   "previous": "1.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21775,7 +21775,7 @@
                   "previous": "0.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21833,7 +21833,7 @@
                   "previous": "3.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21891,7 +21891,7 @@
                   "previous": "1.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -21949,7 +21949,7 @@
                   "previous": "0.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22007,7 +22007,7 @@
                   "previous": "0.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22065,7 +22065,7 @@
                   "previous": "3.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22123,7 +22123,7 @@
                   "previous": "2.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22181,7 +22181,7 @@
                   "previous": "0"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22239,7 +22239,7 @@
                   "previous": "6.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22297,7 +22297,7 @@
                   "previous": "0.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22355,7 +22355,7 @@
                   "previous": "0.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22413,7 +22413,7 @@
                   "previous": "27.3"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22471,7 +22471,7 @@
                   "previous": "1.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22529,7 +22529,7 @@
                   "previous": "0.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22587,7 +22587,7 @@
                   "previous": "1.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22645,7 +22645,7 @@
                   "previous": "1.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22703,7 +22703,7 @@
                   "previous": "6.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22761,7 +22761,7 @@
                   "previous": "0.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22819,7 +22819,7 @@
                   "previous": "1.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22877,7 +22877,7 @@
                   "previous": "3.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22935,7 +22935,7 @@
                   "previous": "0.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -22993,7 +22993,7 @@
                   "previous": "0.6"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23051,7 +23051,7 @@
                   "previous": "0.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23109,7 +23109,7 @@
                   "previous": "0.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23167,7 +23167,7 @@
                   "previous": "0.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23225,7 +23225,7 @@
                   "previous": "0.9"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23283,7 +23283,7 @@
                   "previous": "2.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23341,7 +23341,7 @@
                   "previous": "1.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23399,7 +23399,7 @@
                   "previous": "2.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23457,7 +23457,7 @@
                   "previous": "1.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23515,7 +23515,7 @@
                   "previous": "52.8"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             }
           ]
@@ -23579,7 +23579,7 @@
                   "previous": "130"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23637,7 +23637,7 @@
                   "previous": "449"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23695,7 +23695,7 @@
                   "previous": "588"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23753,7 +23753,7 @@
                   "previous": "50.4"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23811,7 +23811,7 @@
                   "previous": "50.5"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             },
             {
@@ -23869,7 +23869,7 @@
                   "previous": "50.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-10-18 00:35:31"
             }
           ]
@@ -42603,7 +42603,7 @@
           "previous": "2.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -42661,7 +42661,7 @@
           "previous": "4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -42719,7 +42719,7 @@
           "previous": "232239"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -42777,7 +42777,7 @@
           "previous": "3.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -42835,7 +42835,7 @@
           "previous": "2.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -42893,7 +42893,7 @@
           "previous": "2.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -42951,7 +42951,7 @@
           "previous": "177.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43009,7 +43009,7 @@
           "previous": "20.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43067,7 +43067,7 @@
           "previous": "20.725"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43125,7 +43125,7 @@
           "previous": "7742"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43183,7 +43183,7 @@
           "previous": "2.15"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43241,7 +43241,7 @@
           "previous": "2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43299,7 +43299,7 @@
           "previous": "2.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43357,7 +43357,7 @@
           "previous": "300"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43415,7 +43415,7 @@
           "previous": "3.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43473,7 +43473,7 @@
           "previous": "2.97"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43531,7 +43531,7 @@
           "previous": "3.75"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43589,7 +43589,7 @@
           "previous": "3.02"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43647,7 +43647,7 @@
           "previous": "0.75"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43705,7 +43705,7 @@
           "previous": "4.26"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43763,7 +43763,7 @@
           "previous": "2.43"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43821,7 +43821,7 @@
           "previous": "5.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43879,7 +43879,7 @@
           "previous": "-2.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43937,7 +43937,7 @@
           "previous": "1.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -43995,7 +43995,7 @@
           "previous": "0.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44053,7 +44053,7 @@
           "previous": "1.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44111,7 +44111,7 @@
           "previous": "2.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44169,7 +44169,7 @@
           "previous": "1.19"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44227,7 +44227,7 @@
           "previous": "-2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44285,7 +44285,7 @@
           "previous": "0.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44343,7 +44343,7 @@
           "previous": "-2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44401,7 +44401,7 @@
           "previous": "-0.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44459,7 +44459,7 @@
           "previous": "7.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44517,7 +44517,7 @@
           "previous": "0.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44575,7 +44575,7 @@
           "previous": "0.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44633,7 +44633,7 @@
           "previous": "3.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44691,7 +44691,7 @@
           "previous": "-4.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44749,7 +44749,7 @@
           "previous": "-1.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44807,7 +44807,7 @@
           "previous": "-1.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44865,7 +44865,7 @@
           "previous": "-0.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44923,7 +44923,7 @@
           "previous": "0.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -44981,7 +44981,7 @@
           "previous": "1.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45039,7 +45039,7 @@
           "previous": "1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45097,7 +45097,7 @@
           "previous": "2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45155,7 +45155,7 @@
           "previous": "1.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45213,7 +45213,7 @@
           "previous": "-2.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45271,7 +45271,7 @@
           "previous": "-0.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45329,7 +45329,7 @@
           "previous": "96.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45387,7 +45387,7 @@
           "previous": "2.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45445,7 +45445,7 @@
           "previous": "3.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45503,7 +45503,7 @@
           "previous": "1.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45561,7 +45561,7 @@
           "previous": "0.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45619,7 +45619,7 @@
           "previous": "3.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45677,7 +45677,7 @@
           "previous": "1.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45735,7 +45735,7 @@
           "previous": "0.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45793,7 +45793,7 @@
           "previous": "0.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45851,7 +45851,7 @@
           "previous": "3.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45909,7 +45909,7 @@
           "previous": "2.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -45967,7 +45967,7 @@
           "previous": "0"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46025,7 +46025,7 @@
           "previous": "6.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46083,7 +46083,7 @@
           "previous": "0.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46141,7 +46141,7 @@
           "previous": "0.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46199,7 +46199,7 @@
           "previous": "27.3"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46257,7 +46257,7 @@
           "previous": "1.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46315,7 +46315,7 @@
           "previous": "0.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46373,7 +46373,7 @@
           "previous": "1.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46431,7 +46431,7 @@
           "previous": "1.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46489,7 +46489,7 @@
           "previous": "6.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46547,7 +46547,7 @@
           "previous": "0.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46605,7 +46605,7 @@
           "previous": "1.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46663,7 +46663,7 @@
           "previous": "3.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46721,7 +46721,7 @@
           "previous": "0.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46779,7 +46779,7 @@
           "previous": "0.6"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46837,7 +46837,7 @@
           "previous": "0.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46895,7 +46895,7 @@
           "previous": "0.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -46953,7 +46953,7 @@
           "previous": "0.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47011,7 +47011,7 @@
           "previous": "0.9"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47069,7 +47069,7 @@
           "previous": "2.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47127,7 +47127,7 @@
           "previous": "1.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47185,7 +47185,7 @@
           "previous": "2.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47243,7 +47243,7 @@
           "previous": "1.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47301,7 +47301,7 @@
           "previous": "52.8"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47359,7 +47359,7 @@
           "previous": "130"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47417,7 +47417,7 @@
           "previous": "449"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47475,7 +47475,7 @@
           "previous": "588"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47533,7 +47533,7 @@
           "previous": "50.4"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47591,7 +47591,7 @@
           "previous": "50.5"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     },
     {
@@ -47649,7 +47649,7 @@
           "previous": "50.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-10-18 00:35:31"
     }
   ]

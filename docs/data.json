@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18 00:35:25",
-  "count": 12598,
+  "updated": "2026-10-18 00:40:07",
+  "count": 12594,
   "items": [
+    {
+      "id": "mkt:01a14ab8-3316-7ee0-a8cc-b4f66c459a7d",
+      "time": "2026-10-18 00:35:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan temporarily suspends border trade with Iran】On Oct. 17 local time, the deputy commissioner of Chagai district in Pakistan's Balochistan province said on social media that border trade with Iran has been temporarily suspended for security reasons. He said the closure is a temporary measure to strengthen border management and support counterterrorism operations and that the border will reopen once effective measures are implemented."
+    },
     {
       "id": "5151889",
       "time": "2026-10-18 00:34:14",
@@ -115326,51 +115334,6 @@
         "Greater China"
       ],
       "text": "【Hainan launches five-year \"skills free-trade port\" push, tightens hazardous-goods port oversight】Hainan held a provincial executive meeting on Oct. 10 to approve measures boosting vocational talent and port safety. The province will implement a five-year \"skills free-trade port\" action to expand international cooperation, strengthen skills competitions and high‑skilled talent awards, enhance youth skills education, and better align industry demand, training, assessment and employment services. The meeting also ordered end-to-end safety supervision for hazardous goods and port operations: tighter oversight of hazardous chemicals, a cross‑department reporting mechanism for suspected violations, expanded social supervision of production safety and upgrades to port safety regulation and enforcement."
-    },
-    {
-      "id": "mkt:01a126ac-6457-7ee0-a825-4c9cc5221120",
-      "time": "2026-10-11 00:36:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi civil aviation authority says an attack at Riyadh's King Khalid International Airport on Saturday injured several people and the airport has temporarily suspended operations."
-    },
-    {
-      "id": "5136568",
-      "time": "2026-10-11 00:36:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國墨西哥灣地區約68.76%的當前每日石油產量和57.44%的當前每日天然氣產量已關閉。"
-    },
-    {
-      "id": "5136567",
-      "time": "2026-10-11 00:35:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海洋礦產管理局：已從美洲灣總計113座生產平臺撤離人員，佔該區域371座有人駐守平臺的30.46%。"
-    },
-    {
-      "id": "5136566",
-      "time": "2026-10-11 00:35:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民航局：利雅得哈立德國王國際機場週六遭遇襲擊。"
-    },
-    {
-      "id": "5136565",
-      "time": "2026-10-11 00:35:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民航局：週六利雅得機場遇襲造成多人受傷。"
     }
   ]
 }
