@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18 05:10:47",
-  "count": 12609,
+  "updated": "2026-10-18 05:14:38",
+  "count": 12608,
   "items": [
+    {
+      "id": "5152050",
+      "time": "2026-10-18 05:11:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部司令：海上封鎖使伊朗損失了250億美元的原油收入，施壓運動正在取得成效，德黑蘭開始扣發工作人員的薪資和養老金。"
+    },
     {
       "id": "5152049",
       "time": "2026-10-18 05:10:05",
@@ -115394,30 +115402,6 @@
         "國際"
       ],
       "text": "市場資訊：日本將研發可突破防空系統的低成本巡航導彈。"
-    },
-    {
-      "id": "mkt:01a127a9-8407-7ee0-a826-b2d93a223934",
-      "time": "2026-10-11 05:13:03",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Projectile lands near King Fahd International Airport in eastern Saudi Arabia】A Saudi-led coalition spokesman, Turki al-Maliki, posted on social media on the evening of the 10th that a projectile landed near King Fahd International Airport in Dammam, eastern Saudi Arabia."
-    },
-    {
-      "id": "mkt:01a127a7-ecae-7ee0-a826-aad55b6f02e9",
-      "time": "2026-10-11 05:11:18",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Attack at Riyadh's King Khalid International Airport kills at least 12 and injures more than 50."
     }
   ]
 }
