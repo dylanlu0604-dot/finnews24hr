@@ -1,7 +1,115 @@
 {
   "date": "2026-10-17",
-  "count": 707,
+  "count": 719,
   "items": [
+    {
+      "id": "mkt:01a14860-3e66-7ee0-a8c8-c85b80a598d9",
+      "time": "2026-10-17 13:40:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi finance minister said IMFC members reaffirmed commitment to advance timelier, more predictable and better‑coordinated debt restructurings under the G20 Common Framework, stressed support for countries with debt vulnerabilities, and said the IMF must have strong capacity to assist low‑income countries."
+    },
+    {
+      "id": "5151385",
+      "time": "2026-10-17 13:39:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京午後至傍晚雨勢還將增強 北部暴雨範圍更大】目前，北京這場秋雨的雨勢仍在加強。北京市氣象臺首席預報員雷蕾介紹，隨著降水回波繼續推進，今天中午至傍晚，雨勢還會逐漸增強，且降雨一直持續，沒有間歇期，徹底結束預計要等到22時之後。全市累計雨量可達大雨量級，延慶、懷柔、昌平、平谷、門頭溝、房山、大興、海淀、石景山等區的山前地區將達暴雨量級。從區域範圍看，北部地區的暴雨範圍會更大一些。（央視新聞）"
+    },
+    {
+      "id": "5151384",
+      "time": "2026-10-17 13:39:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "國際貨幣基金組織（IMF）指導委員會主席、沙特財政部長阿卜杜勒-阿齊茲·本·法赫德·阿勒薩尼表示，國際貨幣與金融委員會成員重申，他們支援面臨債務脆弱性的國家，並強調需要強大的國際貨幣基金組織能力來支援低收入國家。"
+    },
+    {
+      "id": "mkt:01a1485e-eb39-7ee0-a8c8-c679683b29eb",
+      "time": "2026-10-17 13:39:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "International Monetary and Financial Committee (IMFC) said it will continue to pursue further improvements to sovereign debt restructuring processes."
+    },
+    {
+      "id": "5151383",
+      "time": "2026-10-17 13:38:40",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "國際貨幣基金組織（IMF）指導委員會主席、沙特財政部長阿卜杜勒-阿齊茲·本·法赫德·阿勒薩尼表示，國際貨幣與金融委員會成員重申，他們致力於透過二十國集團“共同框架”實現更及時、可預測和協調的債務重組。"
+    },
+    {
+      "id": "mkt:01a1485e-8e22-7ee0-a8c8-b857a479cee4",
+      "time": "2026-10-17 13:38:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "【NIO Q3 retail deliveries first time surpass Mercedes, BMW, Audi; Qin Lihong says will pursue upmarket branding】NIO co‑founder and president Qin Lihong said Q3 2026 retail deliveries in China exceeded Mercedes, BMW and Audi for the first time, and cumulative China sales through Q3 2026 reached 111,638 units. He said the shift to pure‑electric models becoming the dominant market is accelerating and stressed the company will continue to pursue upmarket branding."
+    },
+    {
+      "id": "mkt:01a1485d-d08e-7ee0-a8c8-b553e03bf729",
+      "time": "2026-10-17 13:37:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "IMF says ongoing wars and conflicts are imposing humanitarian and economic costs and generating negative spillovers; central banks remain firmly committed to ensuring price stability."
+    },
+    {
+      "id": "5151382",
+      "time": "2026-10-17 13:37:44",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "國際貨幣基金組織（IMF）指導委員會主席、沙特財政部長阿卜杜勒-阿齊茲·本·法赫德·阿勒薩尼表示，各國央行仍堅定致力於確保物價穩定。"
+    },
+    {
+      "id": "mkt:01a1485d-7dee-7ee0-a8c8-ac5c3976f2aa",
+      "time": "2026-10-17 13:37:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi finance minister and chair of the IMF Steering Committee Mohammed Al-Jadaan said central bank independence is critical for price stability and policy credibility."
+    },
+    {
+      "id": "mkt:01a1485d-501c-7ee0-a8c8-a77fcea073b4",
+      "time": "2026-10-17 13:37:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi finance minister and chair of the IMF's International Monetary and Financial Committee Mohammed Al-Jadaan said IMFC members clearly agree that complacency on economic issues is unacceptable."
+    },
+    {
+      "id": "5151381",
+      "time": "2026-10-17 13:37:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第三季度蔚來公司終端銷量首次超越BBA三大廠商，蔚來秦力洪：會堅持品牌向上】10月17日，蔚來聯合創始人、總裁秦力洪透露：2026年第三季度，蔚來公司在中國市場的累計銷量達111638臺，首次同時超越賓士、寶馬、奧迪三大德系豪華廠商。秦力洪預判，純電車型成為絕對主流的終局正在加速到來，他強調堅持品牌向上。"
+    },
+    {
+      "id": "5151380",
+      "time": "2026-10-17 13:36:38",
+      "tags": [
+        "央行",
+        "宏觀"
+      ],
+      "text": "國際貨幣基金組織（IMF）指導委員會主席、沙特財政部長阿卜杜勒-阿齊茲·本·法赫德·阿勒薩尼表示，國際貨幣與金融委員會成員明確表示，經濟問題不容自滿，央行獨立性對於價格穩定和政策可信度至關重要。"
+    },
     {
       "id": "5151379",
       "time": "2026-10-17 13:36:19",
