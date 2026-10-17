@@ -1,7 +1,901 @@
 {
   "date": "2026-10-17",
-  "count": 903,
+  "count": 1002,
   "items": [
+    {
+      "id": "mkt:01a149f7-cc3b-7ee0-a8cc-18b677be5df1",
+      "time": "2026-10-17 21:05:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "BOC Governor MACKLEM said higher oil prices support Canadian economic growth."
+    },
+    {
+      "id": "mkt:01a149f7-780a-7ee0-a8cc-1038180b63cf",
+      "time": "2026-10-17 21:05:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "According to the Wall Street Journal, the Houthis have reportedly established joint operations command centers in Lebanon and Iraq."
+    },
+    {
+      "id": "5151605",
+      "time": "2026-10-17 21:04:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行行長麥克勒姆：“我們要問自己的問題是，通脹是否有可能自行回落到我們的目標水平，還是我們需要提高利率來影響通脹走向。”"
+    },
+    {
+      "id": "mkt:01a149f6-d59d-7ee0-a8cc-0ac77b4dfd7c",
+      "time": "2026-10-17 21:04:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "BOC Governor Macklem: higher oil prices have boosted Canadian investment; the oil-price rise has modestly raised the risk of broader inflation."
+    },
+    {
+      "id": "5151604",
+      "time": "2026-10-17 21:04:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加拿大央行行長麥克勒姆表示，中東衝突看不到解決的希望，並補充說，他預計加拿大央行在本月晚些時候釋出的貨幣政策報告中將給出更高的通脹預測。"
+    },
+    {
+      "id": "5151602",
+      "time": "2026-10-17 21:01:34",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "加拿大央行行長麥克勒姆表示，高油價有利於加拿大經濟增長，高油價提振了加拿大的投資；油價上漲會加劇整體通脹風險。"
+    },
+    {
+      "id": "mkt:01a149f2-1b1f-7ee0-a8cc-00884d2a124f",
+      "time": "2026-10-17 20:59:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【WSJ: Iran provided targeting and intelligence to Houthis, aiding attacks on Saudi】The Wall Street Journal, citing Saudi and anti-Houthi alliance intelligence sources, reports Iran has provided targeting, intelligence, training and tactical guidance that enabled the Houthis to carry out their most lethal, technically advanced strikes to date against Saudi Arabia and its Yemeni allies, including targeting for drone and missile attacks. Iranian support has helped the Houthis expand swiftly and now control the Yemeni coastline on the Bab al-Mandeb, a choke point for Saudi oil exports. The Houthis have struck Saudi tankers, energy facilities and airports; a weekend attack on Riyadh killed at least 13. Tehran reportedly uses traditional dhows to smuggle weapons and has deployed IRGC and Hezbollah personnel to Yemen to train Houthis to assemble and improve the effectiveness of missiles and drones. The assistance underlines Iran’s ability to pressure the region via proxy forces and complicates President Trump and Gulf allies’ efforts to end the conflict on favorable terms."
+    },
+    {
+      "id": "5151599",
+      "time": "2026-10-17 20:55:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：又一超級油輪在霍爾木茲海峽觸雷起火】伊朗伊斯蘭革命衛隊海軍17日在社交媒體發表宣告說，“第二艘超級油輪”當天在霍爾木茲海峽觸雷後發生劇烈爆炸並起火。宣告說，該油輪載有超過200萬桶原油，在關閉所有導航和雷達系統後，試圖在美軍的支援下透過霍爾木茲海峽。伊朗革命衛隊海軍17日早些時候發表宣告說，一艘超級油輪在霍爾木茲海峽觸雷後發生爆炸並起火。宣告還再次強調，“霍爾木茲海峽已關閉”。（新華社）"
+    },
+    {
+      "id": "mkt:01a149ee-4a76-7ee0-a8cb-ff5b1a671b07",
+      "time": "2026-10-17 20:55:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IRGC says second supertanker struck a mine, caught fire in Strait of Hormuz】Iran’s Islamic Revolutionary Guard Corps Navy said on social media on the 17th that a \"second supertanker\" struck a mine, exploded and caught fire in the Strait of Hormuz. The IRGC said the vessel was carrying over 2 mln barrels of crude, had shut off all navigation and radar systems and was attempting to transit with U.S. military support. The IRGC reiterated that the \"Strait of Hormuz is closed.\""
+    },
+    {
+      "id": "5151594",
+      "time": "2026-10-17 20:49:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國里昂市旅遊局大樓在抗議活動中被縱火。"
+    },
+    {
+      "id": "mkt:01a149e7-a935-7ee0-a8cb-f5d91de5e406",
+      "time": "2026-10-17 20:48:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt and Iran foreign ministers met to discuss the Middle East crisis."
+    },
+    {
+      "id": "mkt:01a149e7-479e-7ee0-a8cb-ecea2aefe02d",
+      "time": "2026-10-17 20:47:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen's Houthi forces release 159 detainees】The International Committee of the Red Cross (ICRC) confirmed on Oct. 17 that Yemen's Houthi forces released 159 conflict-related detainees. The ICRC said it did not decide who or how many were released and remains available, at parties' request, to act as a neutral intermediary to assist or support future releases, transfers and repatriations of detainees related to the Yemen conflict."
+    },
+    {
+      "id": "mkt:01a149e5-7663-7ee0-a8cb-e2ef29edb4d2",
+      "time": "2026-10-17 20:45:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Croatian Prime Minister Plenkovic met CHINA FOREIGN MINISTER Wang Yi in Zagreb on the 17th, Xinhua reported."
+    },
+    {
+      "id": "5151593",
+      "time": "2026-10-17 20:42:04",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【馬斯克稱AI和機器人是解決美國國債問題唯一途徑】馬斯克在與傳記作者沃爾特·艾薩克森的一次最新播客訪談中表示，曾由他領導的“政府效率部”（DOGE）的工作最終不了了之；這一經歷證明，想要“從政府內部解決赤字問題，根本行不通”。“解決國債問題，唯一的途徑就是人工智慧和機器人。光靠‘省錢’是解決不了這個問題的。”馬斯克說。這段訪談出自將於下週二首播的全新播客系列。馬斯克表示，無論是白宮、眾議院、參議院還是司法部門，都沒有削減開支的意願。“從根本上說，政府中沒有任何掌權者——或許除了像蘭德·保羅這類極少數的例外——真正想要削減開支。”“如果總統能將此作為首要目標，或許我們就能做到，”馬斯克補充道，“但如果你試圖解決赤字問題並杜絕浪費性支出，就會樹敵眾多。特朗普總統希望受人歡迎；他不願看到人們因為某些資金被削減而心懷不滿，進而找上門來抱怨。”馬斯克承認，他當時“確實有點忘乎所以了”，導致他離開自己旗下的公司“時間太久了”。“我本該更退居幕後一些，”他補充道，“而且或許只待上一兩個月就夠了”——而不是他在白宮實際待的那四個月。“我本該更早一點回歸，把精力重新投入到人工智慧（AI）領域。”"
+    },
+    {
+      "id": "mkt:01a149de-b95d-7ee0-a8cb-dfe0b616a4a7",
+      "time": "2026-10-17 20:38:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Musk says AI and robots are the only way to solve US debt】Axios reported Musk said his government-efficiency experiment DOGE failed, showing \"we simply cannot solve the fiscal deficit from inside government.\" He said \"the only way to solve the US debt problem is to rely on artificial intelligence and robots,\" that austerity alone won't work, and that no president, House, Senate or judiciary is willing to cut spending; he added a future administration might try again as AI capabilities improve. Musk acknowledged he \"to some extent overdid it,\" said he stayed away from his companies too long while formally in the White House for four months, and should have returned sooner to refocus on AI."
+    },
+    {
+      "id": "5151589",
+      "time": "2026-10-17 20:37:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【趙衝久會見香港郵政署新任署長吳文傑】據國家郵政局訊息，10月16日，國家郵政局局長趙衝久在北京會見了香港郵政署新任署長吳文傑一行，雙方就推動內地與香港郵政領域務實合作交換了意見。趙衝久表示，國家郵政局願同香港郵政署一道，共同維護郵政業融合發展良好局面，共同保障產業鏈供應鏈穩定暢通，共同推進行業智慧化綠色化轉型，合力推動郵政業高質量發展，助力香港更好地融入國家發展大局，為強國建設、民族復興偉業貢獻郵政行業力量。"
+    },
+    {
+      "id": "5151587",
+      "time": "2026-10-17 20:33:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克稱，他本應更早迴歸，以便專注於人工智慧領域。"
+    },
+    {
+      "id": "5151586",
+      "time": "2026-10-17 20:32:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬斯克稱他離開旗下各公司太久了。"
+    },
+    {
+      "id": "5151585",
+      "time": "2026-10-17 20:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊與埃及外長在巴格達會晤。"
+    },
+    {
+      "id": "5151584",
+      "time": "2026-10-17 20:29:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝釋放159名被拘留者】紅十字國際委員會17日證實，葉門胡塞武裝當天釋放了159名因葉門衝突而被拘留的人員。紅十字國際委員會表示，其並未參與決定釋放哪些人或釋放多少人。紅十字國際委員會仍隨時準備應各方要求，作為中立的中間人，協助或支援未來釋放、轉移和遣返與葉門衝突有關的被拘留人員。"
+    },
+    {
+      "id": "5151582",
+      "time": "2026-10-17 20:27:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬斯克稱人工智慧與機器人是解決美國國家債務的唯一途徑。"
+    },
+    {
+      "id": "mkt:01a149d3-d05a-7ee0-a8cb-d4b930dd53ef",
+      "time": "2026-10-17 20:26:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump press secretary dismissed after five days; Trump says she may continue \"in some form\"】White House press secretary Katie Zakaria was dismissed after five days on the job, the Los Angeles Times reported, shorter than Anthony Scaramucci’s 11-day tenure as communications director. On Friday, Trump said Zakaria might continue to work for him \"in some form\"—\"possibly a more pleasant form\"—and said she \"didn't have to do the job,\" comments he later expanded on that added to confusion about her role."
+    },
+    {
+      "id": "mkt:01a149ce-5772-7ee0-a8cb-cdad0f98b5f7",
+      "time": "2026-10-17 20:20:21",
+      "tags": [
+        "MKT News",
+        "0175.HK",
+        "Impact mixed"
+      ],
+      "text": "【Geely senior VP Lin Jie: future of internal-combustion cars is full hybridization and full intelligentization】At the Oct. 17 launch of the Geely Xingrui LPLUS in Chengdu, Geely Auto Group Senior Vice President Lin Jie said that although some have written off fuel vehicles, pure internal-combustion cars still account for roughly 70% of the global market. He added that consumers want diverse energy options but a consistent intelligent in‑car experience, and Geely believes the future of fuel vehicles is comprehensive hybridization and comprehensive intelligentization."
+    },
+    {
+      "id": "mkt:01a149cd-cc2a-7ee0-a8cb-c017d0da83ef",
+      "time": "2026-10-17 20:19:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy says Starlink speed limits prevent Ukraine using interception systems against Russian drone strikes; Kyiv in talks with US】Ukrainian President Zelenskiy said on Saturday that speed limits on Starlink have prevented Ukraine from using its interception systems to counter Russian drone strikes. He said Kyiv is discussing the issue with US officials and was told the restrictions are linked to technical problems. Zelenskiy added that tests of Starlink inside the EU did not show the same constraints and that service there ran at higher speeds."
+    },
+    {
+      "id": "5151578",
+      "time": "2026-10-17 20:18:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【菲菱科思：目前交換機產品線已覆蓋資料中心等多個應用場景】菲菱科思(301191)在互動平臺表示，公司在ICT領域，積極拓展中高階資料中心交換機產品與國產化替代方案，並儲備了多樣化的實施方案和專案資源。目前交換機產品線已覆蓋資料中心、企業網、園區網、工業級等多個應用場景。"
+    },
+    {
+      "id": "5151576",
+      "time": "2026-10-17 20:18:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【吉利汽車集團高階副總裁林傑：燃油車的未來是全面混動化、全面智慧化】在10月17日晚於成都舉行的吉利星瑞L PLUS上市釋出會上，吉利汽車集團高階副總裁林傑演講時表示，過去幾年，有不少人說燃油車不夠先進，沒有未來。但放眼全球，純燃油車仍然佔據了近70%的市場份額。使用者對於能源型別的需求是多元的，對於智慧化體驗的追求是一致的，“我們認為燃油車的未來就是要全面混動化、全面智慧化。”"
+    },
+    {
+      "id": "5151575",
+      "time": "2026-10-17 20:15:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱烏美最快下週舉行新一輪會談】當地時間17日，烏克蘭總統澤連斯基表示，烏方願繼續透過美國參與的外交渠道推動結束戰爭，雙方最快可能於下週舉行新一輪會晤。澤連斯基稱，烏方對會談地點和形式持開放態度——無論是在烏克蘭境內、歐洲國家還是在美國舉行均可；談判參與方數量亦不受限，雙邊、三方乃至五方會談均願參加。他同時表示，談判核心目標是實現和平，而非拘泥於形式。"
+    },
+    {
+      "id": "mkt:01a149c9-752a-7ee0-a8cb-bc9a2c780557",
+      "time": "2026-10-17 20:15:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said Saturday that another oil tanker struck a mine in waters near Hormuz Island."
+    },
+    {
+      "id": "5151573",
+      "time": "2026-10-17 20:14:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，週六在霍爾木茲島附近海域又有一艘油輪觸雷。"
+    },
+    {
+      "id": "5151572",
+      "time": "2026-10-17 20:12:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國蘇格蘭一輕型飛機墜毀 兩人死亡】一架輕型飛機於16日下午在英國蘇格蘭斯特靈地區墜毀，一名80歲男子和一名16歲男孩死亡。據悉，該飛機於當日16時15分從格拉斯哥機場起飛，約20分鐘後停止傳送訊號。警方表示，兩名遇難者在事故現場被宣佈死亡。"
+    },
+    {
+      "id": "mkt:01a149c4-6069-7ee0-a8cb-b58d007154b3",
+      "time": "2026-10-17 20:09:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's Prime Minister Magyar said he told Zelenskiy he would not oppose grain shipments that merely transit Hungary."
+    },
+    {
+      "id": "5151569",
+      "time": "2026-10-17 20:07:39",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【10月17日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.厚植綠色根基 因地制宜推動高質量發展——習近平總書記在內蒙古烏蘭察布考察時的重要講話引發廣大幹部群眾熱烈反響； 2.李強出席2026世界傳統醫藥大會開幕式並致辭； 3.李強抵達塔什干開始對烏茲別克進行正式訪問； 4.王滬寧在四川調研； 5.前八個月我國服務貿易保持較快增長； 6.廣交會：人工智慧新品為外貿增長注入新動能； 7.各地最佳化服務 保障群眾溫暖過冬； 8.【文化中國行·校館絃歌】從征途課堂馬背書香到新時代的長征路； 9.國內聯播快訊： （1）《世界職業技術教育標準框架》釋出； （2）粵港澳大灣區首個知識型綜保區正式封關運作； （3）我國戶外運動相關產業總規模約3.17萬億元； （4）我國再添四處世界灌溉工程遺產； （5）東北華北等地出現大範圍強降雨； 10.日本人士表示日本應正視歷史 反省戰爭罪行； 11.葉門政府稱亞丁機場遭襲 胡塞武裝稱打擊沙特軍事目標； 12.國際聯播快訊： （1）俄稱打擊烏軍需企業 烏呼籲歐盟援助； （2）美國2026財年預算赤字接近2萬億美元； （3）倫敦布倫特原油期價再次觸及110美元。"
+    },
+    {
+      "id": "5151568",
+      "time": "2026-10-17 20:06:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理告訴澤連斯基，如果糧食貨物僅過境匈牙利，他將沒有異議。"
+    },
+    {
+      "id": "mkt:01a149c0-99f0-7ee0-a8cb-af2557388177",
+      "time": "2026-10-17 20:05:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungarian Prime Minister Magyar: Zelenskiy says allowing maize shipments in sealed freight wagons to Western Europe would help Ukraine."
+    },
+    {
+      "id": "5151567",
+      "time": "2026-10-17 20:04:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理表示，澤連斯基稱，允許玉米貨物透過密封貨運車廂運往西歐，將有助於烏克蘭。"
+    },
+    {
+      "id": "5151566",
+      "time": "2026-10-17 20:01:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【克羅埃西亞總理普連科維奇會見王毅】當地時間2026年10月17日，克羅埃西亞總理普連科維奇在薩格勒布會見中共中央政治局委員、外交部長王毅。王毅轉達中國領導人對普連科維奇的良好祝願，歡迎普連科維奇在雙方方便時訪華。王毅表示，中國是最早與克建交的大國之一。在兩國領導人戰略引領下，雙邊關係保持健康、穩定、可持續發展。雙方在相互尊重基礎上以誠相待，建立了成熟、長期的全面合作伙伴關係。這是雙方做出的正確選擇，中方願在此基礎上進一步提升雙邊關係的定位。王毅表示，此行旨在向克方傳遞幾點資訊：一是中國珍視同克羅埃西亞的傳統友好，願將其轉化為新時代雙邊關係發展的重要動能。二是中方尊重克羅埃西亞人民的選擇和國家治理模式，願同克方深化互利共贏合作，助力各自的發展振興。三是中方重視中克人文交流，已採取單方面免籤、開通直航等措施促進兩國人員往來和民心相通。四是中方堅信中歐是夥伴不是對手，支援歐洲一體化程序，支援克在此程序中實現更快發展，併為深化中歐合作發揮建設性作用。王毅表示，中國和中東歐國家有著加強交往、推進合作的現實需要。雙方合作完全公開、透明，也有助於推進歐洲一體化的程序。中國願同有意願的地區國家加強機制內各領域合作。中方讚賞克方對此採取的積極態度，願以明年機制成立15週年為契機，重振中國—中東歐互利合作。雙方就中歐經貿關係交換看法。普連科維奇表示，包括克羅埃西亞在內的歐盟國家對貿易不平衡存在關切。在剛剛舉行的歐盟峰會上，各方積極評價中歐貿易投資磋商機制取得的共識，希望雙方繼續就妥處分歧加強溝通對話。王毅表示，中歐貿易問題是國際分工和市場需求造成的。歐盟從中國進口物美價優的商品，惠及歐盟民眾，抑制通貨膨脹，反映出歐洲市場的客觀需求，不存在所謂“產能過剩”問題。中方願進口更多高附加值的歐洲產品，希望歐方放寬對華出口限制。中方願推動經貿關係向上而不是向下平衡，向前發展而不是向後倒退，將蛋糕做大而不是縮小。中方願秉持平等互惠精神同歐方加強對話，共同高舉維護自由貿易的旗幟，推進開放包容的經濟全球化。（外交部）"
+    },
+    {
+      "id": "5151565",
+      "time": "2026-10-17 20:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-1444.9億元，白酒Ⅱ、航空裝備Ⅱ板塊淨流入居前，個股粵芯半導體、拓荊科技淨流入最多。"
+    },
+    {
+      "id": "mkt:01a149bb-b833-7ee0-a8cb-a7aa0375315c",
+      "time": "2026-10-17 20:00:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungarian Prime Minister Magyar said Zelensky asked Poland, Romania, Slovakia and Hungary to allow transit of Ukrainian grain to mitigate a Black Sea blockade."
+    },
+    {
+      "id": "5151564",
+      "time": "2026-10-17 19:59:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理毛焦爾表示，澤連斯基已請求波蘭、羅馬尼亞、斯洛伐克和匈牙利允許烏克蘭糧食貨物過境，原因是黑海遭到封鎖。"
+    },
+    {
+      "id": "mkt:01a149bb-68aa-7ee0-a8cb-9b98687e3448",
+      "time": "2026-10-17 19:59:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy: Ukraine, US and Russia leaders may meet during G20 summit】Zelenskiy said on Saturday a trilateral meeting of Ukraine, the United States and Russia could take place during the US-hosted G20 summit or in the Middle East, but neither Washington nor Moscow has confirmed. He added the meeting could also be held in a European country. The G20 summit is scheduled for December."
+    },
+    {
+      "id": "mkt:01a149b9-75ec-7ee0-a8cb-9140891309c3",
+      "time": "2026-10-17 19:57:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy says Starlink speed cap limited to Ukraine; Kyiv says it has evidence】On the 17th, Ukrainian President Zelenskiy said Kyiv’s comparative tests in EU countries show Starlink satellite terminals enforce a speed cap only within Ukraine. He said terminals in Ukraine cut out once vehicles exceed about 161 km/h, reportedly causing drones dependent on the system to lose control, while identical terminals in EU tests continued to operate at speeds above 180 km/h. Kyiv says it has preserved test records and is investigating whether the outage is a technical fault or an intentional, planned restriction; Zelenskiy suggested the measure could be intended to weaken Ukraine’s defensive capabilities."
+    },
+    {
+      "id": "5151563",
+      "time": "2026-10-17 19:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱“星鏈”限速僅針對烏克蘭 已掌握證據】當地時間17日，烏克蘭總統澤連斯基表示，烏方透過在歐盟國家開展對比測試獲得證據，顯示“星鏈”衛星通訊終端的速度限制僅在烏克蘭境內生效。澤連斯基稱，烏方已儲存測試記錄並掌握相應證據。他據此認為，相關限制並非普遍技術問題，而是一項有計劃實施的行動。他同時質疑，此舉是否意在削弱烏克蘭防禦能力，使其難以有效保護前線軍人和平民。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a149b4-ac05-7ee0-a8cb-89aadc665ec4",
+      "time": "2026-10-17 19:52:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225"
+      ],
+      "text": "【Kyodo: Japan weighing corporate tax hike to fund expanding defense spending】Kyodo reported on 17 that the Japanese government is considering raising corporate taxes to help finance an expected increase in defense spending. Tokyo is revising its three security documents; the new defense buildup plan for fiscal 2027–31 envisages large-scale purchases of drones and increased ammunition and missile stockpiles to prepare for prolonged operations. A senior government official told Kyodo that, on the defense ministry’s estimates, spending over the next five years could swell to ¥70–80 trillion (about $443–506 billion at ¥158/$1). The proposal is likely to draw opposition from the business community."
+    },
+    {
+      "id": "mkt:01a149b4-1723-7ee0-a8cb-82855b0fc44b",
+      "time": "2026-10-17 19:51:41",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Zelenskiy says Ukraine, U.S. peace envoys may meet next week】Ukrainian President Zelenskiy said on Saturday that Ukrainian and U.S. peace negotiation envoys may meet next week. He said Ukraine's negotiators had been in contact with the U.S. team on Friday but gave no further details, and added that Europe should establish an independent channel to negotiate with Russia."
+    },
+    {
+      "id": "mkt:01a149b3-bb4a-7ee0-a8cb-7f5e13180064",
+      "time": "2026-10-17 19:51:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ASEAN meteorological centre issues highest haze alert after Indonesian fires】ASEAN Specialized Meteorological Centre on the 16th raised a southern-ASEAN haze alert to level 3 after smoke from Indonesian forest fires spread to neighbouring countries. Level 3 is the highest on the 0–3 scale and is triggered when there is a high risk of severe transboundary haze and widespread moderate-to-heavy haze has been observed for two or more consecutive days."
+    },
+    {
+      "id": "5151562",
+      "time": "2026-10-17 19:50:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗有意在沙特與胡塞武裝之間斡旋】據伊朗媒體今天（10月17日）報道，伊朗外交部發言人巴加埃16日就葉門胡塞武裝與沙烏地阿拉伯之間的衝突強調，雙方需透過對話和外交渠道解決分歧。巴加埃重申，如果衝突雙方提出請求，伊朗願進行斡旋，併為此竭盡所能，幫助結束敵對行動。巴加埃此前曾表示，解決葉門問題的辦法不是加劇經濟封鎖，也不是轟炸。胡塞武裝和沙特應以先前達成的和平路線圖為基礎開展對話，伊朗“願提供一切幫助，推動這一程序”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5151561",
+      "time": "2026-10-17 19:50:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒曝日本政府考慮增稅籌措防衛費】據日本共同社17日報道，日本政府正考慮透過進一步提高企業的法人稅，為預計將持續膨脹的防衛費籌措資金。媒體稱有關計劃可能引發經濟界反對。報道說，日本政府正在推進“安保三檔案”修訂，其中，新一輪覆蓋2027至2031財年的《防衛力整備計劃》提出大量採購無人機、增加彈藥和導彈儲備，為長期作戰做準備。報道援引日本政府高層人士的話稱，如果按照防衛省所需進行估算，未來5年日本防衛費總額“可能膨脹至70萬億至80萬億日元（1美元約合158日元）”。（新華社）"
+    },
+    {
+      "id": "5151559",
+      "time": "2026-10-17 19:47:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【特斯拉Roadster展示冷氣反推技術 穿越者已完成同源技術工程驗證】據穿越者公眾號訊息，近日，特斯拉新一代Roadster正式亮相。此次特斯拉Roadster展示的冷氣反推技術，透過定向釋放儲存的高壓氣體產生推力，幫助車輛調整空中姿態，並在下降時輔助減速著陸。這一技術思路源於航天應用，也與穿越者已經完成研發驗證的載人飛船高壓冷氣反推著陸緩衝技術屬於同源技術。此前，穿越者壹號（CYZ1）載人飛船全尺寸試驗艙完成著陸緩衝系統綜合驗證試驗，穿越者成為國內唯一一家成功研發並驗證了高壓冷氣反推著陸技術的商業載人航天企業。"
+    },
+    {
+      "id": "5151558",
+      "time": "2026-10-17 19:45:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenSpace開源太空生態釋出 開源計算星座首期規劃2600顆衛星】10月17日，在2026開運航天AOE生態大會上，OpenSpace開源太空生態正式釋出。北京開運聯合資訊科技集團股份有限公司聯合東方空間、銀河航天、北京航空航天大學、中國航天基金會、中商匯投（深圳）私募股權基金管理有限公司、航天工程大學、中國人民財產保險股份有限公司浙江省分公司等產學研資單位代表，九方共同發起OpenSpace開源太空生態及開源社群，並見證開源計算星座計劃釋出。同步釋出的開源計算星座，深度融合通算、智算、超算、邊緣計算與量子計算，將衛星打造為在軌“太空伺服器”。星座首期規劃發射2600顆衛星，其中通算衛星1000顆、智算/超算衛星1000顆、邊緣計算衛星500顆、量子計算衛星100顆。"
+    },
+    {
+      "id": "5151554",
+      "time": "2026-10-17 19:42:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣交會：人工智慧新品為外貿增長注入新動能】第140屆廣交會線下展進入第三天，一大批人工智慧創新產品集中登場，新技術、新應用加速落地，為外貿增長注入新動能。本屆廣交會集中展出23.5萬件人工智慧產品，超過2萬家參展企業應用了工業網際網路、人工智慧等新技術、新模式。記者在現場看到，人工智慧新品展位人頭攢動，熱度居高不下。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a149aa-3548-7ee0-a8cb-735891184618",
+      "time": "2026-10-17 19:40:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Russian official says Trump's easing of Russia sanctions has 'historic significance'】Kiril Dmitriev, Russia's presidential special representative for foreign investment and economic cooperation, said on the 17th that US President Donald Trump's decision to waive multiple sanctions on Russia is \"important and truly historic.\" Dmitriev warned the sanctions law had risked fully disrupting Russia-US economic cooperation and would have seriously damaged the US and global economy. He said Moscow will continue economic dialogue with Washington and argued such cooperation serves both countries' interests and supports global economic stability."
+    },
+    {
+      "id": "5151553",
+      "time": "2026-10-17 19:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄官員稱特朗普放鬆對俄製裁有“歷史意義”】負責對外投資和經濟合作的俄羅斯總統特別代表基里爾·德米特里耶夫當地時間17日表示，美國總統特朗普決定放鬆對俄製裁“具有歷史意義”，俄方將繼續與美方開展經濟對話。德米特里耶夫當天就特朗普豁免對俄實施多項制裁在社交媒體發文說，這是“重要且真正具有歷史意義的時刻”，美方相關制裁法案原本可能導致俄美經濟合作完全中斷，並嚴重損害美國和全球經濟。他表示，俄美經濟合作“符合兩國利益，有助於維護全球經濟穩定，併為建立互信和實現持久和平奠定基礎”。“俄美經濟對話以及推動和平的努力將繼續……而全球安全、合作與繁榮的敵人們不會對此感到高興。”"
+    },
+    {
+      "id": "5151549",
+      "time": "2026-10-17 19:33:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤跌破3.4美元，日內跌幅2.5%。"
+    },
+    {
+      "id": "5151548",
+      "time": "2026-10-17 19:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國傳媒大學首設人工智慧治理方向法律碩士，首批計劃招生10人】10月17日，中國傳媒大學文化產業管理學院召開“人工智慧治理法律碩士學科建設及人才培養”研討會，探討複合型法治人才培養方案。記者從會上獲悉，中傳2027年碩士研究生招生簡章目前已正式公佈，將於2027年入學批次正式招收“人工智慧治理”方向法律碩士，首批計劃招生10人，聚焦培養“懂法律、懂技術、知傳播”的複合型法治人才。中國傳媒大學副校長李新軍表示，學校將人工智慧作為影響未來發展的最大變數，全面實施人工智慧行動計劃。(新京報)"
+    },
+    {
+      "id": "5151547",
+      "time": "2026-10-17 19:31:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長阿拉格齊在週六於巴格達舉行的伊斯蘭合作組織外長理事會第52屆會議間隙會見了土耳其外交部長哈坎·菲丹。"
+    },
+    {
+      "id": "5151546",
+      "time": "2026-10-17 19:31:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，在意識到美國即便在現有協議或合同的約束下仍可限制“星鏈”（Starlink）系統後，歐洲國家正著手開發該系統的替代方案。儘管存在這些限制，烏克蘭仍繼續使用“星鏈”並與SpaceX保持合作。"
+    },
+    {
+      "id": "mkt:01a149a1-32d5-7ee0-a8cb-6f46511f143d",
+      "time": "2026-10-17 19:31:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President ZELENSKIY said the process of lifting sanctions on Russia will continue; the diesel agreement is only the first step."
+    },
+    {
+      "id": "5151545",
+      "time": "2026-10-17 19:30:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：針對俄羅斯的制裁解除程序還將繼續。柴油協議僅僅是第一步。"
+    },
+    {
+      "id": "5151543",
+      "time": "2026-10-17 19:29:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【東盟機構就印尼煙霾釋出最高警報】鑑於印度尼西亞林火產生的煙霾擴散至周邊多國，東盟氣象機構16日釋出最高階別警報。據法新社17日報道，東盟專業氣象中心16日釋出通知稱，已啟動東盟南部地區煙霾三級警報。這是零級至三級警報系統的最高階別，觸發條件是相關地區“出現嚴重跨境煙霾的高風險”，連續兩天或以上觀察到廣泛中度至重度煙霾。（新華社）"
+    },
+    {
+      "id": "mkt:01a1499e-fdb0-7ee0-a8cb-637e72f7a607",
+      "time": "2026-10-17 19:28:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Two oil tankers attacked near Jubail, Saudi Arabia】UK Maritime Trade Operations (UKMTO) issued two advisories on the 17th saying two tankers were attacked on the 16th in waters northeast of Jubail, Saudi Arabia. At 09:00 UTC a tanker about 68 nm (≈126 km) NE of Jubail was struck by an unknown projectile; crew evacuated safely and no pollution was reported at the time. At 19:22 UTC a second tanker about 78 nm (≈144 km) NE of Jubail was hit by a rocket fired from a small boat, damaging the port-aft; all crew confirmed safe. Damage assessments and environmental impact are pending. UKMTO warned transiting vessels to exercise caution and report suspicious activity."
+    },
+    {
+      "id": "mkt:01a1499e-59a5-7ee0-a8cb-5a86c3275f8a",
+      "time": "2026-10-17 19:27:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said a tripartite leaders' meeting could take place at the G20 summit."
+    },
+    {
+      "id": "5151542",
+      "time": "2026-10-17 19:27:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉立創：從PCB內部結構看 高多層板和HDI是公司未來發展重要方向】嘉立創(001232)10月17日在分析師會議上表示，PCB業務既是公司重要的收入和利潤來源，也是公司各項業務的入口之一。從PCB內部結構看，高多層板和HDI是公司未來發展的重要方向。PCBA業務這幾年一直增長較快。由於採購PCBA服務的客戶需要同時在公司採購PCB，所以業務滲透率情況也是公司關注的重要指標。"
+    },
+    {
+      "id": "5151541",
+      "time": "2026-10-17 19:27:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "澤連斯基表示，三方領導人會晤可能在二十國集團（G20）峰會期間舉行。"
+    },
+    {
+      "id": "5151539",
+      "time": "2026-10-17 19:26:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭準備好在任何地方與美國進行對話。"
+    },
+    {
+      "id": "mkt:01a1499c-57d0-7ee0-a8cb-523fcec24bd4",
+      "time": "2026-10-17 19:25:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "ZELENSKIY says Russia seeks to deploy ballistic missile systems in Belarus."
+    },
+    {
+      "id": "mkt:01a1499c-429f-7ee0-a8cb-4d533896b1c6",
+      "time": "2026-10-17 19:25:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "ZELENSKIY said western Ukraine faces a threat of an escalation in Russian attacks."
+    },
+    {
+      "id": "5151538",
+      "time": "2026-10-17 19:25:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，俄羅斯希望在白俄羅斯部署彈道系統。"
+    },
+    {
+      "id": "5151537",
+      "time": "2026-10-17 19:24:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，烏克蘭西部面臨俄羅斯襲擊升級的威脅。"
+    },
+    {
+      "id": "mkt:01a14999-a8b8-7ee0-a8cb-415d3e43cb2d",
+      "time": "2026-10-17 19:22:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Zelenskiy said Europe needs to establish its own channel for negotiations with Russia."
+    },
+    {
+      "id": "mkt:01a14999-8bd2-7ee0-a8cb-3f4e95f4437a",
+      "time": "2026-10-17 19:22:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's President Zelenskiy said he may meet with US officials next week."
+    },
+    {
+      "id": "mkt:01a14999-8893-7ee0-a8cb-31b03a6327c7",
+      "time": "2026-10-17 19:22:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【New York Fed: services activity weakens while price growth hits fastest pace since 2022】The New York Fed's October Business Leaders Survey showed regional services activity fell sharply; the business activity index dropped 12 points to -20.7, the lowest since March. Employment was flat but firms reported the fastest rise in selling prices since 2022. Input costs continued to climb rapidly, supply conditions deteriorated and capital expenditure remained weak. Firms are slightly pessimistic on the outlook, expecting a modest decline in activity over the next six months while still forecasting elevated gains in input and selling prices."
+    },
+    {
+      "id": "5151535",
+      "time": "2026-10-17 19:21:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：歐洲需要與俄羅斯進行談判的獨立渠道。"
+    },
+    {
+      "id": "5151534",
+      "time": "2026-10-17 19:21:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱下週可能與美方會面。"
+    },
+    {
+      "id": "mkt:01a14994-6360-7ee0-a8cb-2923600b02d7",
+      "time": "2026-10-17 19:17:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said Ukraine is heavily reliant on air-defense systems supplied by European allies."
+    },
+    {
+      "id": "5151533",
+      "time": "2026-10-17 19:16:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基敦促加快“弗雷亞”（Frejya）系統相關工作，"
+    },
+    {
+      "id": "mkt:01a14992-e805-7ee0-a8cb-20762ea05a60",
+      "time": "2026-10-17 19:15:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sisi says Egypt ready to protect Saudi Arabia】On the morning of the 17th, President Sisi said Egypt is prepared to implement any measures Saudi Arabia requests to protect its security and sovereignty. He urged parliament to hold a special session to grant the necessary authorization so Egypt, if requested by Gulf states, can take protective measures and provide defensive support. Sisi also said his presidential term will end in 2030, saying that is already confirmed."
+    },
+    {
+      "id": "5151530",
+      "time": "2026-10-17 19:15:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭非常依賴歐洲盟友提供的防空系統。"
+    },
+    {
+      "id": "5151529",
+      "time": "2026-10-17 19:15:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特內政部宣佈：處決5名犯有“恐怖主義罪行”的公民】據《以色列時報》報道，沙烏地阿拉伯內政部17日表示，沙特已對5名被判犯有“恐怖主義罪行”的沙特公民執行死刑，這些罪行包括加入一個被認定具有“恐怖主義性質”的外國組織、使用武器和炸彈襲擊沙特安全部隊，以及為在沙特境內實施和資助恐怖主義行動提供支援。 沙特內政部還警告稱，任何企圖實施此類行為的人，必將受到法律嚴懲。（環球網）"
+    },
+    {
+      "id": "5151528",
+      "time": "2026-10-17 19:14:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【埃及總統表示將為沙特提供保護】當地時間17日上午，埃及總統塞西參加了埃及軍事學院新一屆畢業生畢業典禮並發表講話。塞西在講話中明確表示，“埃及準備執行沙特方面提出的任何保護其安全與主權的措施”。同時，塞西還呼籲埃及議會盡快舉行特別會議，給予必要授權，以使埃及能夠在海灣國家提出請求的情況下，採取措施對其進行保護，併為其提供防禦支援。此外，塞西還在講話中提到，他將於2030年結束總統任期一事“已經確定”。"
+    },
+    {
+      "id": "5151527",
+      "time": "2026-10-17 19:13:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯布良斯克地區州長稱，一名俄羅斯男子在烏克蘭無人機襲擊中喪生。"
+    },
+    {
+      "id": "5151526",
+      "time": "2026-10-17 19:13:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音：針對京東“左琦”製造和傳播謠言的行為堅決維權到底】10月17日，“抖音黑板報”官方賬號發文稱，近日，所謂京東採銷人員“左琦”，因捏造事實、攻擊抖音電商，被我方提起訴訟，法院已正式立案受理。我們注意到，隨後京東“左琦”再次在朋友圈釋出謠言，我們已完成法律存證，不論京東“左琦”是個人，還是什麼“代理人”，都應該為自己的言行負責，我們將依法追加起訴。"
+    },
+    {
+      "id": "5151524",
+      "time": "2026-10-17 19:11:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩艘油輪在沙特附近海域遭襲】英國海上貿易行動辦公室17日連續釋出兩份通報說，兩艘油輪當天在沙烏地阿拉伯朱拜勒附近海域遭到襲擊，其中一艘遭“不明發射物”擊中，另一艘遭火箭彈襲擊。兩艘油輪船員均確認安全。 根據通報，第一起事件發生於協調世界時16日9時（北京時間16日17時），地點位於朱拜勒東北約68海里（約合126公里）處。一艘油輪遭不明發射物擊中，船上所有船員均已安全撤離，事發時尚無環境汙染影響報告。 第二起事件發生於協調世界時16日19時22分（北京時間17日3時22分），地點位於朱拜勒東北約78海里（約合144公里）處。遭襲油輪船長報告說，該船遭到一艘小船發射的火箭彈襲擊，船舶左舷船尾部位受損。船上所有船員均已確認安全。通報說，船舶受損情況仍有待全面評估，環境影響尚不清楚。 英國海上貿易行動辦公室提醒過往船舶謹慎航行，及時報告可疑活動。 英國海上貿易行動辦公室16日釋出的每週形勢回顧顯示，截至當天的一週內，該機構共接到12起船舶遇襲報告，其中10起發生在霍爾木茲海峽，另兩起分別發生在波斯灣和阿曼灣。該機構同時表示，目前難以準確統計船舶遭襲的實際數量，因為大多數遭襲船舶拒絕向該機構報告。(新華社)"
+    },
+    {
+      "id": "mkt:01a1498f-3bcd-7ee0-a8cb-19992d5abf1d",
+      "time": "2026-10-17 19:11:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Europe & UK"
+      ],
+      "text": "President Zelenskiy said Ukraine remains in contact with the US, which told Kyiv the issue is technical; Ukraine has tested Starlink in the EU and did not encounter the problem there."
+    },
+    {
+      "id": "5151523",
+      "time": "2026-10-17 19:11:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Stellantis計劃在歐洲和美國增聘數百名工程師】Stellantis首席工程和技術官 Ned Curic週六表示，作為扭虧為盈計劃的一部分，該公司計劃推出數十款新車型，並將繼續招聘更多工程師。他在巴黎車展期間接受採訪時表示。“今年我們將在歐洲和美國各地增聘數百名工程師。”"
+    },
+    {
+      "id": "5151522",
+      "time": "2026-10-17 19:11:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基談星鏈：烏克蘭仍在與美方保持聯絡，被告知這是技術問題。"
+    },
+    {
+      "id": "5151521",
+      "time": "2026-10-17 19:10:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱烏克蘭在歐盟領土上測試了星鏈，那裡沒有出現此類問題。"
+    },
+    {
+      "id": "mkt:01a1498d-9d12-7ee0-a8cb-12eb9d7580eb",
+      "time": "2026-10-17 19:09:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said Ukraine's drone interceptors cannot operate because Starlink's speed is limited."
+    },
+    {
+      "id": "5151520",
+      "time": "2026-10-17 19:08:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，由於星鏈網速受限，烏克蘭的無人機攔截系統無法正常運作。"
+    },
+    {
+      "id": "mkt:01a1498b-9d94-7ee0-a8cb-0bd7b587a99e",
+      "time": "2026-10-17 19:07:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Hikvision: Growth over coming years to be driven by scene digitalization】At an Oct. 17 Q3 2026 results briefing, Hikvision said growth over the next several years will be driven by scene digitalization and that it will continue to act as a bridge taking AI from the physical world to the digital world. The company said the era of large AI models has raised AI generalization and cognition; multimodal understanding and complex reasoning are becoming viable, enabling new solutions for previously hard-to-solve scene pain points."
+    },
+    {
+      "id": "5151518",
+      "time": "2026-10-17 19:06:17",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "ICICI銀行執行董事巴特拉：預計本輪週期內印度央行還將再加息兩次。"
+    },
+    {
+      "id": "5151515",
+      "time": "2026-10-17 19:02:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海康威視：未來幾年增長依然來自場景數字化】10月17日，海康威視(002415)舉行2026年三季度業績說明會。公司表示，往前看，公司未來幾年的增長依然來自場景數字化，繼續做好人工智慧從物理世界到數字世界的橋樑。大模型時代，AI泛化能力和認知能力躍升，多模態理解、複雜推理成為現實，對於許多以往難以解決的場景痛點，我們有了新解法。這為場景數字化業務的推進開啟了更大空間，能覆蓋的場景更多、解決的痛點更深，創造的客戶價值更大。"
+    },
+    {
+      "id": "mkt:01a14985-2030-7ee0-a8cb-01c2a652a5f3",
+      "time": "2026-10-17 19:00:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine held talks with a U.S. delegation on Friday."
+    },
+    {
+      "id": "5151512",
+      "time": "2026-10-17 18:57:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱烏克蘭與美國團隊於週五舉行會談。"
+    },
+    {
+      "id": "mkt:01a1497f-9d32-7ee0-a8ca-f8ae7f79f701",
+      "time": "2026-10-17 18:54:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "【Top five global humanoid-robot revenues all Chinese; Shenzhen robot exports up 12.2x Jan–Aug】Frost & Sullivan’s 2026 Global Humanoid Robot Market report: 1H sales hit 36,000 units, exceeding full-year 2025 sales of 35,000 units; 1H revenue was $540 mln. By revenue, the global top five humanoid-robot vendors in 1H were all Chinese, with two firms based in Shenzhen. Shenzhen customs: Jan–Aug exports of robots totaled yuan 11.13 bln, up 12.2x YoY, shipped to more than 120 countries and regions."
+    },
+    {
+      "id": "5151508",
+      "time": "2026-10-17 18:46:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全球人形機器人收入前五全是中國企業 前8個月深圳機器人出口激增超1200%】近日，國際諮詢機構弗若斯特沙利文釋出《2026年全球人形機器人市場研究報告》。今年上半年，全球人形機器人銷量達到3.6萬臺，超過2025年全年的3.5萬臺；市場收入達到5.4億美元。按照收入計算，今年上半年全球人形機器人市場前五名全部由中國企業包攬，其中深圳企業佔據兩席。16日下午，一個美國高階代表團抵達深圳南山“機器人谷”展開考察。在深圳南山“機器人谷”，從核心零部件到整機制造，從軟體演算法到系統整合，一條完整的產業鏈在此高度集聚。深圳拓幾科技創始人劉拓表示，在矽谷打樣要兩個月，因為要去全球採購零部件；但如果來深圳，可能90%的零部件就能在“機器人谷”找到。深圳機器人谷聚集超過200家機器人產業鏈企業，形成了從演算法軟體、感知系統、執行系統到核心部件的供應鏈條。深圳海關資料顯示，今年前8個月，深圳各類單獨列名的機器人合計出口達111.3億元，同比增長12.2倍，產品已銷至全球120多個國家和地區。（央視財經）"
+    },
+    {
+      "id": "5151507",
+      "time": "2026-10-17 18:42:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【李強出席2026世界傳統醫藥大會開幕式並致辭】10月17日上午，國務院總理李強在北京出席2026世界傳統醫藥大會開幕式並致辭。李強表示，正如習近平主席在致2024世界傳統醫藥大會的賀信中指出，傳統醫藥是人類文明創造的成果，需要代代守護、傳承精華，也需要與時俱進、守正創新。當今時代，傳統醫藥應當如何更好發揮自身作用？結合中國傳統醫藥發展實踐，我同大家分享一些體會和思考。第一，傳統醫藥是守護人類健康和推動文明進步的獨特力量。傳統醫藥來源於數千年的生產生活實踐，是人類與疾病抗爭、與自然共生積澱的智慧結晶。歷經長期發展，傳統醫藥的內涵持續豐富，承載的功能、使命日益拓展，已成為保障生命健康的重要法寶、傳承多樣文明的重要載體、增進各國友誼的重要紐帶。第二，中國的傳統醫藥在長期實踐中走出一條獨具特色的發展之路。中國政府歷來高度重視中醫藥發展。我們堅持守正創新，既堅守中醫藥的“根”和“魂”，又運用現代科技推進中醫藥創造性轉化、創新性應用。我們強化政策支援，積極推動中醫藥在各級醫療機構、各類診療場景中廣泛應用。我們注重兼收幷蓄，學習借鑑各國優秀傳統醫藥先進理念和技藝。這些寶貴經驗，也為世界傳統醫藥發展提供有益借鑑。第三，著眼時代挑戰共促傳統醫藥煥新發展。國際社會應當加強協作，整合用好世界傳統醫藥資源，共同應對人類健康面臨的挑戰。要強化科技賦能，加快傳統醫藥創新發展。中國將推動中醫藥數智化轉型，鼓勵支援中外科研機構、企業積極參與。要深入交流合作，凝聚傳統醫藥發展合力。中國將持續擴大醫療服務開放試點，願同各方一道推進“一帶一路”藥用資源保育中心建設。要推進普惠共享，更好促進全球健康公平。中國將在力所能及範圍內履行自身責任，為彌合全球健康鴻溝貢獻力量。李強指出，中國人常講醫者仁心、懸壺濟世。人生病了需要調理，當世界發展出現問題、面臨難題，也需要治理。習近平主席提出的全球治理倡議，便是應對當今世界各種亂象的一劑良方。中醫藥治療疾病，強調整體觀、和諧觀，講究系統施治、固本培元。經濟治理也是如此。世界各國是一個有機整體，沒有哪個國家能夠獨善其身，沒有哪種模式能夠包治百病，應當多一些包容調和的智慧、少一些零和博弈的執念，多一些同舟共濟的擔當、少一些以鄰為壑的短視，共同守護好世界的繁榮。（新華社）"
+    },
+    {
+      "id": "mkt:01a14974-7b00-7ee0-a8ca-f5f03b07790c",
+      "time": "2026-10-17 18:42:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chinese premier Li Qiang attended the opening ceremony of the 2026 World Traditional Medicine Congress and delivered remarks, Xinhua reported."
+    },
+    {
+      "id": "mkt:01a14972-d40e-7ee0-a8ca-e968ca8d01b3",
+      "time": "2026-10-17 18:40:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "NBU Governor Pyshnyi said Russia’s unwarranted aggression must stop."
+    },
+    {
+      "id": "mkt:01a14972-4d45-7ee0-a8ca-e7563d48bcec",
+      "time": "2026-10-17 18:39:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's central bank governor Pishni said many delegates walked out during Russia's speech, calling it a deep and moving moment."
+    },
     {
       "id": "5151506",
       "time": "2026-10-17 18:36:59",
