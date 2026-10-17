@@ -1,7 +1,23 @@
 {
   "date": "2026-10-18",
-  "count": 27,
+  "count": 29,
   "items": [
+    {
+      "id": "mkt:01a14ae9-bcd9-7ee0-a8cc-fb1c344cdb4c",
+      "time": "2026-10-18 01:29:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said it shot down 30 Ukrainian drones across multiple regions and over the Black Sea today."
+    },
+    {
+      "id": "5151922",
+      "time": "2026-10-18 01:29:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度加爾各答踩踏事故已致19人死亡】據印度警方和醫院資料，印度西孟加拉邦首府加爾各答17日晚發生的踩踏事故已造成19人死亡。（央視新聞）"
+    },
     {
       "id": "mkt:01a14ae9-6f0d-7ee0-a8cc-f54b7292b651",
       "time": "2026-10-18 01:29:34",
