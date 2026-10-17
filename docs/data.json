@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-17 08:53:26",
-  "count": 12749,
+  "updated": "2026-10-17 08:57:16",
+  "count": 12746,
   "items": [
+    {
+      "id": "5150869",
+      "time": "2026-10-17 08:53:33",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【持續降雨已致厄瓜多超2.2萬人受災】當地時間10月16日，厄瓜多國家風險管理秘書處通報稱，該國自8月29日因厄爾尼諾現象啟動紅色警戒以來，全國24個省中的22個省記錄到381起由持續降雨引發的洪水、山體滑坡等次生災害事件，已造成1人死亡、22415人受災，5282棟房屋不同程度受損。厄國家氣象與水文研究所表示，近日沿海地區仍可能出現中到強降雨、雷暴和陣風，亞馬孫地區北部和中部也可能出現間歇性降雨。（央視新聞）"
+    },
     {
       "id": "5150868",
       "time": "2026-10-17 08:52:44",
@@ -116470,40 +116479,6 @@
         "國際"
       ],
       "text": "特朗普：在紐約被移民和海關執法局逮捕的男子是危險人物。"
-    },
-    {
-      "id": "mkt:01a1234f-2767-7ee0-a821-d6eeca485444",
-      "time": "2026-10-10 08:55:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai Shipping Exchange: Post-holiday export container market steady; composite freight index unchanged】The Shanghai Shipping Exchange said China’s export container shipping market recovered steadily after the National Day holiday, with transport demand holding firm and most routes seeing only minor freight-rate moves. On Oct 9 the Shanghai Export Container Composite Freight Index was 3,664.11, unchanged from the previous reading."
-    },
-    {
-      "id": "5135939",
-      "time": "2026-10-10 08:54:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：在共和黨執政下，美國發展態勢大好，也只有我敢放出這個承諾：如果共和黨拿下參眾兩院，我將向美國所有成年公民每人發放 5000 美元…… 民主黨的政策不會允許這件事落地。"
-    },
-    {
-      "id": "5135938",
-      "time": "2026-10-10 08:54:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部發布8項水利行業標準】近日，水利部發布2026年第18號公告，批准釋出《土壤侵蝕分類分級標準》等8項水利行業標準。相關標準將於2026年12月11日起實施。"
-    },
-    {
-      "id": "mkt:01a1234d-4ca1-7ee0-a821-c97125b8508e",
-      "time": "2026-10-10 08:53:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal reports the husband of former U.S. vice president Harris said he does not want her to run for president again."
     }
   ]
 }
