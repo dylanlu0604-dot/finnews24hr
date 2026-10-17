@@ -1,7 +1,103 @@
 {
-  "updated": "2026-10-17 13:40:51",
-  "count": 12646,
+  "updated": "2026-10-17 13:44:42",
+  "count": 12654,
   "items": [
+    {
+      "id": "mkt:01a14863-4d1e-7ee0-a8c8-f1f79e7b2cf8",
+      "time": "2026-10-17 13:43:49",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "IMF managing director GEORGIEVA said persistently high inflation and rising interest rates are further intensifying already-heavy sovereign debt-servicing pressures."
+    },
+    {
+      "id": "5151391",
+      "time": "2026-10-17 13:43:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）總裁格奧爾基耶娃：頑固的通脹、不斷上升的利率正在加劇各國本已高企的償債壓力。"
+    },
+    {
+      "id": "mkt:01a14863-033f-7ee0-a8c8-edd4f8adbc04",
+      "time": "2026-10-17 13:43:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "International Monetary and Financial Committee said advanced intelligent technologies have helped keep overall economic growth steady, but economic performance has diverged across economies."
+    },
+    {
+      "id": "5151390",
+      "time": "2026-10-17 13:43:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "IMF總裁格奧爾基耶娃：“先進智慧技術”已實現總體穩定增長，但經濟成果出現分化。"
+    },
+    {
+      "id": "mkt:01a14862-af7b-7ee0-a8c8-e0218b806620",
+      "time": "2026-10-17 13:43:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF managing director Georgieva said member countries are discussing emerging cracks in economic resilience as energy and fiscal buffers are being depleted."
+    },
+    {
+      "id": "5151389",
+      "time": "2026-10-17 13:42:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織(IMF)總裁格奧爾基耶娃：成員國討論了隨著能源和財政緩衝正在耗盡，經濟韌性出現的裂痕。"
+    },
+    {
+      "id": "5151388",
+      "time": "2026-10-17 13:42:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【17歲天才少年離開Kimi，論文曾被馬斯克點贊】10月15日，“00後”天才少年陳廣宇在社交平臺發文宣佈，近日已離開月之暗面的Kimi團隊。他表示：“過去一年在Kimi的工作是我迄今為止最美好的時光。我非常感激能夠與如此出色和支援我的同事共事並從中學到東西。”陳廣宇的首次出圈發生在今年3月。當時，月之暗面Kimi釋出技術報告《Attention Residuals》，對大模型十年沒有變化的核心結構殘差連線行重新設計。當時有人注意到，《Attention Residuals》的第一作者除了Kimi關鍵人物之一蘇劍林以外，還有17歲的深圳高中生陳廣宇。該論文發出後也引來馬斯克馬上點評“讓人印象深刻”。"
+    },
+    {
+      "id": "mkt:01a14861-d35c-7ee0-a8c8-dc383b734ebc",
+      "time": "2026-10-17 13:42:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "IMF Managing Director Georgieva said risks under discussion include AI, inflation, elevated debt levels and worsening climate change."
+    },
+    {
+      "id": "5151387",
+      "time": "2026-10-17 13:42:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織（IMF）總裁格奧爾基耶娃：討論的風險包括人工智慧、通貨膨脹、高債務水平以及日益惡化的氣候變化。"
+    },
+    {
+      "id": "mkt:01a14861-573b-7ee0-a8c8-d7dd3e242fad",
+      "time": "2026-10-17 13:41:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF Managing Director Georgieva said the annual meetings were marked by both optimism and concern."
+    },
+    {
+      "id": "5151386",
+      "time": "2026-10-17 13:40:51",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "IMF總裁格奧爾基耶娃：年會既有樂觀情緒，也有擔憂情緒。"
+    },
     {
       "id": "mkt:01a14860-3e66-7ee0-a8c8-c85b80a598d9",
       "time": "2026-10-17 13:40:29",
@@ -115662,32 +115758,6 @@
         "行業"
       ],
       "text": "【山東省召開黃金產業高質量發展專題會議】10月9日，黃金產業高質量發展專題會議在煙臺召開。山東省委書記林武主持會議並講話，強調要深入學習貫徹黨的二十屆四中全會和習近平總書記視察山東重要講話精神，準確把握黃金產業發展形勢，深挖產能潛力，推動產業升級，著力做足增量、遏制減量、應對變數，促進全省黃金產業平穩健康發展。林武強調，要嚴格落實合規開採、綠色環保等要求，紮實推動礦產金擴能增產，積極拓展冶煉金增長空間，持續做大壓延加工金規模，全力穩住黃金產業執行基本盤。要積極推動合規礦源穩定接續，大力推進產業延鏈增效，推動產業向精深加工、品牌運營、數字貿易、文旅融合全維度升級，紮實開展找礦增儲，推動黃金產業高質量發展。要著力發揮骨幹企業支撐作用，擴大有效投資，強化內部管理，持續做強主業。要深入開展安全生產治本攻堅三年行動，提升本質安全水平，嚴格做好重大風險管控，堅決守牢安全生產底線。要壓實工作責任，健全推進機制，主動溝通對接，強化排程督導，及時破解堵點卡點問題，推動各項任務部署落到實處。"
-    },
-    {
-      "id": "5136162",
-      "time": "2026-10-10 13:43:24",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【財政部擬第三次續發行2026年超長期特別國債（五期）】據財政部10月10日訊息，財政部擬第三次續發行2026年超長期特別國債（五期）。本次續發行國債為20年期固定利率附息債。本次續發行國債競爭性招標面值總額200億元，不進行甲類成員追加投標。招標時間為2026年10月16日上午10:35至11:35。招標結束至2026年10月19日進行分銷，10月21日起與之前發行的同期國債合併上市交易。"
-    },
-    {
-      "id": "5136161",
-      "time": "2026-10-10 13:43:21",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【財政部擬第二次續發行2026年記賬式附息（十七期）國債】據財政部10月10日訊息，財政部擬第二次續發行2026年記賬式附息（十七期）國債。本次續發行國債為3年期固定利率附息債。本次續發行國債競爭性招標面值總額1200億元，進行甲類成員追加投標。招標時間為2026年10月16日上午10:35至11:35。招標結束至2026年10月19日進行分銷，10月21日起與之前發行的同期國債合併上市交易。"
-    },
-    {
-      "id": "5136160",
-      "time": "2026-10-10 13:43:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年白雲機場口岸出入境客貨航班超10萬架次 創歷史同期新高】記者從白雲邊檢站瞭解到，今年以來（1月1日至10月9日），白雲機場口岸已查驗出入境客貨航班超10萬架次，同比增長12.3%，創歷史同期新高，粵港澳大灣區國際航空樞紐能級持續提升。（央視新聞）"
     }
   ]
 }
