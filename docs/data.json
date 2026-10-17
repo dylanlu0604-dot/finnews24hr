@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-18 00:43:56",
-  "count": 12594,
+  "updated": "2026-10-18 00:47:45",
+  "count": 12585,
   "items": [
+    {
+      "id": "mkt:01a14ac2-60e0-7ee0-a8cc-d626a39c97b7",
+      "time": "2026-10-18 00:46:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Houthi forces say Saudi warplanes carried out 53 airstrikes in Yemen in past 24 hours】Houthi military spokesman Yahya Sarea said Saudi F-15 and Typhoon fighters launched from Khamis Mushait and Taif air bases carried out 53 airstrikes in the past 24 hours on Sanaa and the provinces of Taiz, Ibb, Lahj, Saada and Amran, hitting civilian targets and causing numerous casualties, mostly women and children. He said the total number of Saudi air and missile strikes since Saudi Arabia escalated military operations against Yemen has reached 2,542."
+    },
+    {
+      "id": "mkt:01a14ac1-0937-7ee0-a8cc-c9000447b931",
+      "time": "2026-10-18 00:45:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Houthi military spokesman Yahya Saree said Saudi warplanes carried out 53 airstrikes in the past 24 hours on the capital Sana'a and the provinces of Taiz, Ibb, Lahj, Saada and Amran, targeting civilian infrastructure."
+    },
     {
       "id": "mkt:01a14abf-33cd-7ee0-a8cc-c1c921dd57b8",
       "time": "2026-10-18 00:43:26",
@@ -115235,106 +115255,6 @@
         "公司"
       ],
       "text": "【全國鐵路實行新的貨物列車執行圖】記者從中國國家鐵路集團有限公司獲悉，全國鐵路10日18時起實行新的貨物列車執行圖，進一步最佳化鐵路物流產品體系，提升運輸效率，助力降低全社會物流成本。（新華社）"
-    },
-    {
-      "id": "mkt:01a126b6-7a24-7ee0-a825-764b5f0d01fa",
-      "time": "2026-10-11 00:47:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Trump said the US will review the situation regarding Iran and related attacks."
-    },
-    {
-      "id": "5136577",
-      "time": "2026-10-11 00:47:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普就計劃對死刑執行進行直播一事表態：將對此作出決定。"
-    },
-    {
-      "id": "5136576",
-      "time": "2026-10-11 00:46:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗及相關襲擊事件：會進行評估。"
-    },
-    {
-      "id": "mkt:01a126b5-a147-7ee0-a825-6f385556d7dd",
-      "time": "2026-10-11 00:46:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. President Trump suggested Ukraine appoint a new leader to help secure an agreement, saying now is the time for such an appointment."
-    },
-    {
-      "id": "5136575",
-      "time": "2026-10-11 00:46:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及利雅得機場爆炸事件：剛剛得知此次襲擊，將會作出決定。"
-    },
-    {
-      "id": "5136574",
-      "time": "2026-10-11 00:46:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：建議他們（烏克蘭）更換領導人，這樣才能達成協議。"
-    },
-    {
-      "id": "mkt:01a126b4-e18d-7ee0-a825-61c582103435",
-      "time": "2026-10-11 00:45:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "President Trump said Zelensky can do whatever he wants but must avoid attacking refineries and should stop immediately."
-    },
-    {
-      "id": "5136573",
-      "time": "2026-10-11 00:45:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談及烏克蘭局勢：烏克蘭該換一位新總統了。"
-    },
-    {
-      "id": "mkt:01a126b3-ef56-7ee0-a825-5ef825a740c1",
-      "time": "2026-10-11 00:44:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said Zelenskiy could have ended the Ukraine war many times."
-    },
-    {
-      "id": "5136572",
-      "time": "2026-10-11 00:44:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：澤連斯基最好趕緊停止打擊。"
-    },
-    {
-      "id": "5136571",
-      "time": "2026-10-11 00:44:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：澤連斯基不應打擊俄羅斯柴油燃料設施。"
     }
   ]
 }

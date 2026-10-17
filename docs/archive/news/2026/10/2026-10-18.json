@@ -1,7 +1,27 @@
 {
   "date": "2026-10-18",
-  "count": 13,
+  "count": 15,
   "items": [
+    {
+      "id": "mkt:01a14ac2-60e0-7ee0-a8cc-d626a39c97b7",
+      "time": "2026-10-18 00:46:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Houthi forces say Saudi warplanes carried out 53 airstrikes in Yemen in past 24 hours】Houthi military spokesman Yahya Sarea said Saudi F-15 and Typhoon fighters launched from Khamis Mushait and Taif air bases carried out 53 airstrikes in the past 24 hours on Sanaa and the provinces of Taiz, Ibb, Lahj, Saada and Amran, hitting civilian targets and causing numerous casualties, mostly women and children. He said the total number of Saudi air and missile strikes since Saudi Arabia escalated military operations against Yemen has reached 2,542."
+    },
+    {
+      "id": "mkt:01a14ac1-0937-7ee0-a8cc-c9000447b931",
+      "time": "2026-10-18 00:45:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Houthi military spokesman Yahya Saree said Saudi warplanes carried out 53 airstrikes in the past 24 hours on the capital Sana'a and the provinces of Taiz, Ibb, Lahj, Saada and Amran, targeting civilian infrastructure."
+    },
     {
       "id": "mkt:01a14abf-33cd-7ee0-a8cc-c1c921dd57b8",
       "time": "2026-10-18 00:43:26",
