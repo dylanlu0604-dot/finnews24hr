@@ -1,7 +1,39 @@
 {
   "date": "2026-10-17",
-  "count": 886,
+  "count": 890,
   "items": [
+    {
+      "id": "mkt:01a1494f-961b-7ee0-a8ca-b520cdf63147",
+      "time": "2026-10-17 18:01:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's General Staff rejected Russian claims that Russian forces have captured more than 1,800 sq km of Ukrainian territory and 92 settlements since Sept. 1."
+    },
+    {
+      "id": "mkt:01a1494f-7a32-7ee0-a8ca-ac31a6f79e64",
+      "time": "2026-10-17 18:01:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian General Staff says Russian claims of capturing Dobropillia are false; the town remains under Ukrainian control."
+    },
+    {
+      "id": "5151498",
+      "time": "2026-10-17 18:01:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總參謀部駁斥了俄羅斯方面的說法，即自9月1日以來，俄軍已佔領了超過1800平方公里的烏克蘭領土及92個定居點。"
+    },
+    {
+      "id": "5151497",
+      "time": "2026-10-17 18:00:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總參謀部表示，俄方關於已佔領多布羅皮利亞（Dobropillia）的說法不實，該鎮目前仍處於烏克蘭控制之下。"
+    },
     {
       "id": "mkt:01a1494b-f57d-7ee0-a8ca-a3e4372e4276",
       "time": "2026-10-17 17:57:57",
