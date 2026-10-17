@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18 01:33:59",
+  "updated": "2026-10-18 01:37:46",
   "count": 12576,
   "items": [
+    {
+      "id": "mkt:01a14aee-d5cf-7ee0-a8cd-074e79361133",
+      "time": "2026-10-18 01:35:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's Popular Mobilization Forces said a preliminary investigation found an explosion at one of its headquarters was caused by an internal malfunction and not an external attack."
+    },
     {
       "id": "mkt:01a14ae9-bcd9-7ee0-a8cc-fb1c344cdb4c",
       "time": "2026-10-18 01:29:54",
@@ -115148,21 +115156,6 @@
         "國際"
       ],
       "text": "特朗普的集會行程包含週三蒙大拿州一站。"
-    },
-    {
-      "id": "mkt:01a126e2-bb90-7ee0-a825-cda759c42dd0",
-      "time": "2026-10-11 01:35:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "【Axios: Trump urged replacing Zelensky; U.S.-Ukraine ties at worst point since Feb 2025 White House clash】Axios reports Trump urged Ukraine to replace President Zelensky with someone willing to strike a deal with Russia to end the war. Trump announced a deal with Russia to lift related sanctions and permit Russian diesel exports to the U.S. and global energy markets. U.S. officials told Axios Trump pursued the deal after Zelensky allegedly ignored about six U.S. requests to stop attacks on Russian refineries. Zelensky said he was surprised, calling the move \"weak\" and a \"birthday gift\" to Putin; Trump said Zelensky had multiple chances to make a deal and that his actions harmed U.S. farmers. Axios characterizes this as the most serious U.S.-Ukraine rift since the Feb 2025 White House meeting."
     }
   ]
 }

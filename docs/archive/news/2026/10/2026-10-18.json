@@ -1,7 +1,15 @@
 {
   "date": "2026-10-18",
-  "count": 29,
+  "count": 30,
   "items": [
+    {
+      "id": "mkt:01a14aee-d5cf-7ee0-a8cd-074e79361133",
+      "time": "2026-10-18 01:35:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's Popular Mobilization Forces said a preliminary investigation found an explosion at one of its headquarters was caused by an internal malfunction and not an external attack."
+    },
     {
       "id": "mkt:01a14ae9-bcd9-7ee0-a8cc-fb1c344cdb4c",
       "time": "2026-10-18 01:29:54",
