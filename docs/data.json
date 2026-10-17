@@ -1,7 +1,34 @@
 {
-  "updated": "2026-10-17 14:12:08",
-  "count": 12644,
+  "updated": "2026-10-17 14:15:56",
+  "count": 12645,
   "items": [
+    {
+      "id": "mkt:01a14880-4074-7ee0-a8c9-6821b9f1ea9f",
+      "time": "2026-10-17 14:15:26",
+      "tags": [
+        "MKT News",
+        "XPEV.N",
+        "Impact bullish"
+      ],
+      "text": "XPeng (XPEV.N) has taken over 3,000 orders in the Middle East despite not having announced overseas pricing. The company is executing large-scale shipments to Middle East and African markets, accelerating global deliveries. XPeng's GX remains a domestic bestseller, ranking among the top three large SUVs priced above 300,000 yuan for several consecutive months."
+    },
+    {
+      "id": "5151412",
+      "time": "2026-10-17 14:14:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "小鵬汽車：小鵬GX在海外售價尚未公佈的情況下，中東區域已收穫超3,000輛訂單。"
+    },
+    {
+      "id": "5151411",
+      "time": "2026-10-17 14:14:02",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【IMF總裁：支援伊拉克的專案申請】國際貨幣基金組織總裁格奧爾基耶娃表示，伊拉克已提出新專案申請，基金組織對此予以支援。“就伊拉克而言，該國當局提出了專案申請，我們將非常堅定地支援伊拉克。”她於週六在曼谷IMF年會閉幕之際表示。格奧爾基耶娃並未說明專案型別以及IMF將提供的融資規模。（注：IMF與世界銀行大約在4月春季會議前後，啟動了同伊拉克關於潛在援助方案的談判）"
+    },
     {
       "id": "5151410",
       "time": "2026-10-17 14:09:30",
@@ -115651,25 +115678,6 @@
         "Impact bullish"
       ],
       "text": "【Apple raises iPhone Duo orders 30%; iPhone 18 Pro-series volume unchanged】Supply-chain sources said Apple has restructured orders for the fall 2026 iPhone launch: iPhone Duo orders up 30% but remain below 10 mln units; iPhone 18 Pro orders cut 10–15% while iPhone 18 Pro Max orders rise 10–15%, leaving total iPhone 18 Pro-series volume unchanged. A supply-chain contact said the mix shifts sales toward higher-value models, which should be positive for Apple suppliers' earnings."
-    },
-    {
-      "id": "5136200",
-      "time": "2026-10-10 14:13:30",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中泰證券：維持芒果超媒“增持”評級，多維支援AI中長劇落地】中泰證券日前研報指出，芒果超媒AI多模態技術迭代加速AI中長劇商業化程序，改善線上影片、電視大屏生態可期。考慮到公司網際網路影片業務收入逐步企穩，毛利率雖短期受內容投入影響，有所承壓，但伴隨AI 中長劇落地有望迎來改善。可比公司方面，選擇行業內同樣從事網際網路影片業務的公司作為可比物件，包括愛奇藝、Netflix、嗶哩嗶哩。參考同業可比公司，考慮到公司作為稀缺的國有屬性線上影片平臺，主業逐步企穩，且積極推進AI中長劇佈局，有望提升盈利能力，開啟業績成長空間，給予估值溢價具備合理性，建議持續關注，維持“增持”評級。"
-    },
-    {
-      "id": "5136199",
-      "time": "2026-10-10 14:12:32",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點"
-      ],
-      "text": "【蘋果iPhone Duo加單30%，iPhone 18 Pro系列總訂單量未變】10月10日，記者從蘋果供應鏈方面獲悉，蘋果公司結構性調整2026年秋季手機新品訂單量：對iPhone Duo加單30%，但總量仍未超過1000萬臺，並對iPhone 18 Pro砍單10%—15%，同時對iPhone 18 Pro Max加單10%—15%，iPhone 18 Pro系列總訂單量未變。“這意味著銷量在往更高價值產品傾斜，所以整體利好蘋果供應鏈公司業績。”蘋果供應鏈人士對記者表示。（證券時報）"
     }
   ]
 }
