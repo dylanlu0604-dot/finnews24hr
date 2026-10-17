@@ -1,7 +1,28 @@
 {
   "date": "2026-10-17",
-  "count": 736,
+  "count": 738,
   "items": [
+    {
+      "id": "mkt:01a14869-003f-7ee0-a8c9-0c16d3dc514d",
+      "time": "2026-10-17 13:50:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Executive Board member Rehn said second-round inflation effects may be quietly emerging."
+    },
+    {
+      "id": "5151396",
+      "time": "2026-10-17 13:49:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委雷恩：第二輪通脹效應可能悄然滲透。"
+    },
     {
       "id": "mkt:01a14866-7b34-7ee0-a8c9-0331a61f527d",
       "time": "2026-10-17 13:47:18",

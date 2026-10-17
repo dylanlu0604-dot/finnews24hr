@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-17 13:48:36",
-  "count": 12652,
+  "updated": "2026-10-17 13:52:27",
+  "count": 12650,
   "items": [
+    {
+      "id": "mkt:01a14869-003f-7ee0-a8c9-0c16d3dc514d",
+      "time": "2026-10-17 13:50:03",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Executive Board member Rehn said second-round inflation effects may be quietly emerging."
+    },
+    {
+      "id": "5151396",
+      "time": "2026-10-17 13:49:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委雷恩：第二輪通脹效應可能悄然滲透。"
+    },
     {
       "id": "mkt:01a14866-7b34-7ee0-a8c9-0331a61f527d",
       "time": "2026-10-17 13:47:18",
@@ -115710,40 +115731,6 @@
         "其他"
       ],
       "text": "【擴散智慧DiffuSpace獲數億元人民幣融資，將於10月釋出更大引數模型】擴散智慧DiffuSpace連續完成兩輪融資，總金額數億人民幣，創全球擴散語言模型（dLLM）最大規模融資紀錄，由經緯創投、順為資本、君聯資本聯合領投，中科創星、華為哈勃、地平線等跟投。據公開資料，擴散智慧DiffuSpace是全球最早投入擴散語言模型研究的團隊之一，由港大NLP實驗室聯合主管孔令鵬教授及其博士生龔珊三、葉佳成聯合創立，落地深圳。"
-    },
-    {
-      "id": "5136172",
-      "time": "2026-10-10 13:51:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國城礦業：金鑫礦業在四川黨壩的鋰輝石礦已累計查明的氧化鋰達112.07萬噸】近日，國城礦業（000688.SZ）釋出投資者關係活動記錄表。其中提到，金鑫礦業在四川黨壩的鋰輝石礦已累計查明的氧化鋰達112.07萬噸，為四川首個氧化鋰資源儲量超百萬噸的花崗偉晶岩型鋰礦床。目前，金鑫礦業探礦權範圍內尚有較大區域未進行勘查詢礦工作，後續將繼續開展黨壩礦區邊深部勘查詢礦工作，資源儲量有望進一步擴大。"
-    },
-    {
-      "id": "mkt:01a1245d-96c0-7ee0-a823-320909c15ba6",
-      "time": "2026-10-10 13:51:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC says Hurricane Simon has strengthened to Category 4."
-    },
-    {
-      "id": "5136171",
-      "time": "2026-10-10 13:51:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東陽光投資成立智慧科技公司，含機器人業務】企查查APP顯示，近日，上海東陽光光谷東智智慧科技有限公司成立，經營範圍包含：智慧機器人的研發；工業機器人制造；服務消費機器人制造；特殊作業機器人制造等。企查查股權穿透顯示，該公司由東陽光間接全資持股。"
-    },
-    {
-      "id": "mkt:01a1245d-3719-7ee0-a823-2f113686007d",
-      "time": "2026-10-10 13:50:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【MOFCOM says it will continue talks with EU on guidance for financing inverter projects】MOFCOM said China and the EU agreed to use a trade-monitoring mechanism and will explore, within WTO rules, the possibility of lowering tariffs on selected goods. The sides will open technical talks on the EU foreign subsidies regulation. They will continue dialogue with the EU on the bloc’s guidance for financing inverter projects and on cosmetics and drug regulation, and will exchange on market access for medical devices and agricultural products. The two parties held in-depth talks on electric and hybrid vehicle trade, averting escalation and protecting Chinese exporters and the stability of China-EU hybrid car trade."
     }
   ]
 }
