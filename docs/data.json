@@ -1,7 +1,28 @@
 {
-  "updated": "2026-10-18 03:56:21",
+  "updated": "2026-10-18 04:00:06",
   "count": 12612,
   "items": [
+    {
+      "id": "mkt:01a14b72-d81a-7ee0-a8ce-2457476add91",
+      "time": "2026-10-18 03:59:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Netanyahu backs Trump on Iran policy, warns Tehran threatens US cities】Israeli Prime Minister Netanyahu praised President Trump’s approach to Iran and warned Tehran’s nuclear ambitions and bid to dominate the Middle East — including control of key waterways and oil supplies — pose a direct threat to the United States. He described Hamas, Hezbollah and Yemen’s Houthi rebels as extensions of Iranian leadership and called for sustained military and economic pressure on Tehran. Netanyahu said he met Trump at Mar-a-Lago before the last US presidential election and that Trump had already recognised the Iranian nuclear threat as extending beyond Israel. \"By then, every American city, every city, would be held hostage by these fanatics,\" he said."
+    },
+    {
+      "id": "5152033",
+      "time": "2026-10-18 03:56:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普肯塔基造勢，誇耀本屆權力更強，許下多項中期選舉競選承諾】當地時間週六，美國總統特朗普在肯塔基州舉辦造勢集會，為共和黨拉票，助力該黨在處境艱難的中期選舉中爭取更高投票率。他在白宮期間就宣揚自身權力，稱：“我能做成一些不可思議的事。”特朗普在海蘭海茨市發表講話，為包括競選聯邦眾議員的埃德·加爾雷恩在內的共和黨候選人助選。他談及自己下令，將墨西哥灣的官方稱謂改為美洲灣。“我在首個任期根本做不到這件事。這一屆我的權力大得多。”特朗普稱，“第一任期谷歌根本不會接我的電話。現在，他們對我俯首帖耳。”他接著說：“我還把加拿大的一處湖泊改名為美洲湖”，指的是安大略湖。在肯塔基州的演講中，特朗普話題不斷跳轉，談及油價。他表示，伊朗戰爭很快就會結束，在這場持續近八個月的衝突中，他已經多次做出這一斷言，油價也將回落至更低水平，臺下人群歡呼。特朗普再次提起“特朗普紅利”計劃：如果共和黨拿下參眾兩院，每名美國成年人將獲得5000美元。該計劃總成本大機率超1萬億美元，需要國會批准，還會進一步擴大美國每年近1.8萬億美元的財政赤字。在週六的集會上，特朗普針對肯塔基州新增一項有條件承諾。他稱，如果共和黨勝選，國防部將投入資金，重振該州一處製藥生產基地。"
+    },
     {
       "id": "mkt:01a14b6c-ec4e-7ee0-a8ce-1afaa921856e",
       "time": "2026-10-18 03:53:11",
@@ -115409,22 +115430,6 @@
         "XAUUSD"
       ],
       "text": "President Trump said gasoline prices are lower than during Biden's presidency and that the U.S. also prevented Iran from acquiring nuclear weapons."
-    },
-    {
-      "id": "5136651",
-      "time": "2026-10-11 03:58:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏方稱俄軍襲擊扎波羅熱地區致死人數上升到20人】據烏克蘭國家通訊社10日報道，俄軍當天凌晨空襲扎波羅熱地區，致死人數已上升到20人，另有32人受傷。報道說，10日凌晨4時48分，俄軍使用校正航空炸彈對扎波羅熱地區進行空襲。死者包含3名兒童，傷者正在醫院接受治療。目前，建築廢墟下的搜救工作仍在繼續。（新華社）"
-    },
-    {
-      "id": "mkt:01a12764-d5fc-7ee0-a826-58e1e2a788d8",
-      "time": "2026-10-11 03:58:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukraine reports 20 killed in Russian strike on Zaporizhzhia region】Ukrainian authorities said a Russian airstrike on the Zaporizhzhia region in the early hours of the 10th killed 20 people and wounded 32. The strike occurred at 04:48 and used precision-guided aerial bombs, officials said. The dead include three children; the injured are being treated in hospital and search-and-rescue work under the rubble is ongoing."
     }
   ]
 }
