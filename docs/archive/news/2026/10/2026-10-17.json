@@ -1,7 +1,23 @@
 {
   "date": "2026-10-17",
-  "count": 880,
+  "count": 882,
   "items": [
+    {
+      "id": "mkt:01a14943-031f-7ee0-a8ca-8dca10d0a4ac",
+      "time": "2026-10-17 17:48:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Saudi interior ministry said it executed five nationals for joining a foreign terrorist organization and attacking security forces."
+    },
+    {
+      "id": "5151495",
+      "time": "2026-10-17 17:47:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯內政部表示，已處決五名本國公民，因其加入外國恐怖組織並襲擊安全部隊。"
+    },
     {
       "id": "5151494",
       "time": "2026-10-17 17:44:44",
