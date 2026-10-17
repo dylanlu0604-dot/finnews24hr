@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18 00:30:24",
-  "count": 12600,
+  "updated": "2026-10-18 00:35:25",
+  "count": 12598,
   "items": [
+    {
+      "id": "5151889",
+      "time": "2026-10-18 00:34:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦暫時關閉與伊朗的邊境貿易通道】當地時間10月17日，巴基斯坦俾路支省查蓋地區副專員在社交媒體上表示，出於安全考慮，巴基斯坦與伊朗之間的邊境貿易已暫時中止。該官員表示，暫時關閉巴伊邊境貿易通道是為加強邊境管理、支援反恐行動而採取的臨時措施。一旦相關有效措施落實到位，邊境將重新開放。（央視新聞）"
+    },
     {
       "id": "mkt:01a14aac-4dcf-7ee0-a8cc-ac5d85c0c1a7",
       "time": "2026-10-18 00:22:48",
@@ -115363,30 +115371,6 @@
         "其他"
       ],
       "text": "沙特民航局：週六利雅得機場遇襲造成多人受傷。"
-    },
-    {
-      "id": "mkt:01a126a9-cb2a-7ee0-a825-40f0df63cbea",
-      "time": "2026-10-11 00:33:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Sources: US negotiators leading Ukraine peace talks may visit Moscow within two weeks】Oct 10 local time — Russia, citing sources, said US negotiators leading mediation on a Ukraine peace agreement, Witkoff and Kushner, may visit Moscow within the next two weeks."
-    },
-    {
-      "id": "5136564",
-      "time": "2026-10-11 00:33:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士：美國特使可能在兩週內訪問莫斯科】當地時間10月10日，俄羅斯方面援引訊息人士的話稱，牽頭斡旋烏克蘭和平協議的美國談判代表威特科夫和庫什納可能會在未來兩週內訪問莫斯科。（央視新聞）"
-    },
-    {
-      "id": "5136563",
-      "time": "2026-10-11 00:30:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "葉門胡塞武裝接連發動襲擊後，美國、英國、德國與西班牙於週六警告本國公民，避開沙特首都利雅得的哈立德國王國際機場及其周邊區域。"
     }
   ]
 }
