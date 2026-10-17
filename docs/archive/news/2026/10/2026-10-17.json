@@ -1,7 +1,39 @@
 {
   "date": "2026-10-17",
-  "count": 1018,
+  "count": 1021,
   "items": [
+    {
+      "id": "mkt:01a14a19-bd28-7ee0-a8cc-4f06149d53ad",
+      "time": "2026-10-17 21:42:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "DAX",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "UK research firm BMI says September 2026 European EV deliveries hit a record at nearly 600,000 units, up 10% MoM. North American EV sales fell 44% MoM in September, the largest single-month drop so far in 2026."
+    },
+    {
+      "id": "mkt:01a14a19-8471-7ee0-a8cc-4264d123afad",
+      "time": "2026-10-17 21:42:28",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "BMI Research: Jan-Sep global electric vehicle sales rose 3% year-to-date to 15.5 million units."
+    },
+    {
+      "id": "mkt:01a14a19-588b-7ee0-a8cc-3cbc3d86ad91",
+      "time": "2026-10-17 21:42:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK research firm BMI: Global electric vehicle sales fell 2% in September to 2.15 million units, ending a six-month growth streak."
+    },
     {
       "id": "5151639",
       "time": "2026-10-17 21:36:26",

@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-17 21:40:10",
-  "count": 12624,
+  "updated": "2026-10-17 21:44:01",
+  "count": 12626,
   "items": [
+    {
+      "id": "mkt:01a14a19-bd28-7ee0-a8cc-4f06149d53ad",
+      "time": "2026-10-17 21:42:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "DAX",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "UK research firm BMI says September 2026 European EV deliveries hit a record at nearly 600,000 units, up 10% MoM. North American EV sales fell 44% MoM in September, the largest single-month drop so far in 2026."
+    },
+    {
+      "id": "mkt:01a14a19-8471-7ee0-a8cc-4264d123afad",
+      "time": "2026-10-17 21:42:28",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "BMI Research: Jan-Sep global electric vehicle sales rose 3% year-to-date to 15.5 million units."
+    },
+    {
+      "id": "mkt:01a14a19-588b-7ee0-a8cc-3cbc3d86ad91",
+      "time": "2026-10-17 21:42:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK research firm BMI: Global electric vehicle sales fell 2% in September to 2.15 million units, ending a six-month growth streak."
+    },
     {
       "id": "5151639",
       "time": "2026-10-17 21:36:26",
@@ -115574,14 +115606,6 @@
         "國際"
       ],
       "text": "【AI“讀心術”取得新進展：Brain-IT可根據腦活動重建所見影象】近日，以色列魏茨曼科學研究所宣佈，該所研究團隊開發出人工智慧模型Brain-IT，可根據人類觀看影象時的功能性磁共振成像（fMRI）資料，重建影象內容。與現有方法通常需要數十小時腦部掃描資料不同，該模型學習解碼新受試者腦活動僅需約一小時，並能更準確地還原影象內容、構圖和顏色等細節。研究團隊透過開發影象編碼器和解碼器，並利用人工生成的預測腦活動資料緩解訓練樣本不足的問題。研究過程中，編碼器還識別出128個不同人群共有的影象處理功能區域，其中部分割槽域此前尚未被發現。研究團隊表示，Brain-IT相關研究已入選國際學習表徵會議（ICLR）。目前，團隊正探索將該技術拓展至聲音資訊解碼，並研究未來用於影片解碼的可能性。"
-    },
-    {
-      "id": "5136440",
-      "time": "2026-10-10 21:43:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中船集團首臺大缸徑氨燃料低速發動機順利完成氨模式試航】據中船動力集團訊息，近日，由中船動力集團旗下中船青柴生產建造的CPGC/CSE-WinGD 6X72DF-A-1.0-HPSCR氨燃料低速發動機圓滿完成氨模式試航。主機各項效能指標優越，燃燒後的氨氣排放歷史性地突破至10ppm以下，實現了氨氣近零逃逸，得到船東、船廠、船級社各方高度認可，標誌著我國綠色船舶動力裝備在零碳轉型領域取得里程碑突破。"
     }
   ]
 }
