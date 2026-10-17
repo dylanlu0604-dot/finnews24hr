@@ -1,7 +1,377 @@
 {
-  "updated": "2026-10-18 01:45:20",
-  "count": 12577,
+  "updated": "2026-10-18 02:48:28",
+  "count": 12600,
   "items": [
+    {
+      "id": "5151994",
+      "time": "2026-10-18 02:45:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：當地時間今日早些時候，法國波爾多的抗議者洗劫了一家路易威登門店。"
+    },
+    {
+      "id": "5151993",
+      "time": "2026-10-18 02:43:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 作為你們的代表，我不想損失900億美元，換來的只是讓加拿大擁有本不該享有的醫療體系以及其他福利。 他們在揮霍我們的資金，資金使用極不明智。"
+    },
+    {
+      "id": "mkt:01a14b2c-fca0-7ee0-a8cd-9c78f274e5ff",
+      "time": "2026-10-18 02:43:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said the US will ultimately reach a significant agreement with Canada."
+    },
+    {
+      "id": "mkt:01a14b2c-6aa4-7ee0-a8cd-94c5f7d36ea4",
+      "time": "2026-10-18 02:42:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said former Canadian prime minister Justin Trudeau \"is not a good person\" and called him \"a loser.\" He said the current prime minister, Kani, \"is a good person\" but \"not friendly\" on trade."
+    },
+    {
+      "id": "mkt:01a14b2b-567a-7ee0-a8cd-8a5ccb7f1d98",
+      "time": "2026-10-18 02:41:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump says he can do unbelievable things."
+    },
+    {
+      "id": "mkt:01a14b2b-4ca3-7ee0-a8cd-82d588f3479a",
+      "time": "2026-10-18 02:41:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact mixed"
+      ],
+      "text": "U.S. President Trump said of Google that it refused to take his calls during his first term and is now courting him."
+    },
+    {
+      "id": "5151992",
+      "time": "2026-10-18 02:40:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總統表示，以色列未遵守在美國主持下達成的框架協議。"
+    },
+    {
+      "id": "5151991",
+      "time": "2026-10-18 02:40:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談加拿大：特魯多不是好人，他是個失敗者，失敗者！現在這位（總理卡尼）是個好人，但在貿易問題上他可不友善。"
+    },
+    {
+      "id": "5151990",
+      "time": "2026-10-18 02:38:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普談谷歌：谷歌在我第一個任期時不會接我的電話，現在他們對我百般討好。"
+    },
+    {
+      "id": "5151989",
+      "time": "2026-10-18 02:36:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：總有一天我們會和加拿大達成一項驚人的協議。"
+    },
+    {
+      "id": "5151988",
+      "time": "2026-10-18 02:33:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：將應對那些製造混亂、阻止和平示威者表達訴求的人。"
+    },
+    {
+      "id": "5151987",
+      "time": "2026-10-18 02:33:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：襲擊商鋪和市政廳者將被起訴並受到懲罰。"
+    },
+    {
+      "id": "mkt:01a14b22-2914-7ee0-a8cd-780886c2116c",
+      "time": "2026-10-18 02:31:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's President Aoun said strengthening and equipping the armed forces is key to ensuring they can carry out their assigned tasks."
+    },
+    {
+      "id": "mkt:01a14b1f-9f7b-7ee0-a8cd-72af550dc7c1",
+      "time": "2026-10-18 02:28:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Israeli Prime Minister's Office: Violence Against European Diplomats \"Unacceptable\"】Local time on the 17th, after several European diplomats were attacked by Israeli Jewish settlers in the West Bank, the Israeli Prime Minister's Office said violence against diplomats is \"unacceptable.\" The office urged caution, saying existing footage does not establish the full facts and it is too early to draw conclusions. It said the diplomats entered a sensitive area without coordinating with the IDF and that accompanying personnel included a French official who publicly supports Palestine. The office also expressed concern about coordinated actions to \"smear\" Israeli settlers."
+    },
+    {
+      "id": "5151983",
+      "time": "2026-10-18 02:28:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：（國內）反對派將取消我們所有重大成就，建立巴勒斯坦國，撤出所有安全區，屈服於一切壓力，並且肯定不會一勞永逸地阻止伊朗獲得核武器。"
+    },
+    {
+      "id": "5151982",
+      "time": "2026-10-18 02:27:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理辦公室：針對歐洲外交官的暴力行為“不可接受”】當地時間17日，針對當天早些時候多名歐洲外交官在約旦河西岸遭以色列猶太人定居者襲擊事件，以色列總理辦公室發表宣告稱，針對外交官的暴力行為是“不可接受的”。（央視新聞）"
+    },
+    {
+      "id": "5151980",
+      "time": "2026-10-18 02:25:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普在肯塔基州舉辦集會，為中期選舉最後衝刺動員選民。"
+    },
+    {
+      "id": "5151978",
+      "time": "2026-10-18 02:22:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：他們想擾亂選舉，或者至少影響選舉。以色列的所有敵人都公開這麼說；從紐約市長馬姆達尼，到伊斯坦布林的埃爾多安，到伊朗的阿亞圖拉們，到黎巴嫩的真主黨，到加沙的哈馬斯，當然還有曼蘇爾·阿巴斯和馬哈茂德·阿巴斯。他們都在說同樣的話，內塔尼亞胡必須輸。他們為什麼這麼說？為什麼他們努力讓我們輸？因為他們不想要對以色列有利的東西。他們想要摧毀以色列。以色列的所有敵人在這一點上是一致的。這是事實。他們公開這麼說。"
+    },
+    {
+      "id": "mkt:01a14b19-0904-7ee0-a8cd-6c212ef17ba7",
+      "time": "2026-10-18 02:21:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese President AOUN said he welcomes any plan that ensures international forces remain deployed in southern Lebanon and prevents a security vacuum if UNIFIL withdraws."
+    },
+    {
+      "id": "mkt:01a14b18-c1ac-7ee0-a8cd-61e0169c627e",
+      "time": "2026-10-18 02:21:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese President AOUN said Lebanon seeks to extend UNIFIL's mandate in any form that ensures international forces remain deployed in southern Lebanon."
+    },
+    {
+      "id": "mkt:01a14b18-3b8a-7ee0-a8cd-5d0a8cf34d80",
+      "time": "2026-10-18 02:20:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese President Aoun said Israel has not complied with the framework agreement reached under US mediation."
+    },
+    {
+      "id": "mkt:01a14b17-fd05-7ee0-a8cd-55f0f04130f3",
+      "time": "2026-10-18 02:20:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's President Aoun said a Lebanese military delegation will attend a tripartite meeting in Tampa, Florida next Tuesday, Al Jazeera reported."
+    },
+    {
+      "id": "5151972",
+      "time": "2026-10-18 02:17:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團正就收購聯合環球（Allied Universal）展開初步談判。"
+    },
+    {
+      "id": "mkt:01a14b13-945c-7ee0-a8cd-4b283427e49c",
+      "time": "2026-10-18 02:15:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News Agency quoted an IRGC spokesman dismissing reports that the US was considering use of the \"Mother of All Bombs\" (MOAB), saying only \"barbaric civilizations\" would use \"mother\" to name their most powerful bomb."
+    },
+    {
+      "id": "mkt:01a14b12-463b-7ee0-a8cd-42fadf850da8",
+      "time": "2026-10-18 02:14:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Houthi rebels say they shot down Saudi Apache helicopter near Najran】On the 17th (local time), Houthi rebel spokesman Yahya Saree said the group shot down a Saudi Apache helicopter near Najran, Saudi Arabia. The statement said the helicopter was attempting hostile action against Houthi positions in the border area and was subsequently shot down using appropriate weapons."
+    },
+    {
+      "id": "mkt:01a14b11-688b-7ee0-a8cd-3a6d661106d3",
+      "time": "2026-10-18 02:13:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iranian forces fire on, intercept vessels attempting \"unauthorized\" passage in Strait of Hormuz】Iranian armed forces said they fired on and intercepted vessels attempting \"unauthorized\" passage through the Strait of Hormuz at 18:15 local time on the 17th, firing from an area near Sirik."
+    },
+    {
+      "id": "5151964",
+      "time": "2026-10-18 02:11:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱擊落沙特直升機】當地時間10月17日晚， 葉門胡塞武裝發言人葉海亞·薩雷亞發表宣告稱，胡塞武裝在沙烏地阿拉伯奈季蘭地區附近擊落一架沙特方面的“阿帕奇”直升機。宣告稱，該直升機當時正試圖對胡塞武裝在邊境地區的陣地“實施敵對行動”。沙特方面對此暫無回應。（CCTV國際時訊）"
+    },
+    {
+      "id": "5151962",
+      "time": "2026-10-18 02:11:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗武裝部隊開火攔截霍爾木茲海峽“違規”通行船隻】當地時間17日18時15分，伊朗武裝部隊從錫裡克地區附近向霍爾木茲海峽試圖“違規”通行的船隻開火，並將其攔截。（央視新聞）"
+    },
+    {
+      "id": "5151961",
+      "time": "2026-10-18 02:09:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人巴加埃：因技術問題和預防性措施，伊朗與巴基斯坦之間的邊境口岸已暫時關閉；兩國有關部門正保持密切溝通，以解決這些未具體說明的問題，儘快恢復正常的邊境通行和貿易。"
+    },
+    {
+      "id": "5151958",
+      "time": "2026-10-18 02:08:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【彈藥堆爆炸致伊拉克民兵武裝5人受傷】伊拉克什葉派民兵武裝“人民動員組織”17日晚釋出宣告說，該組織位於首都巴格達一處基地內的廢棄彈藥堆發生爆炸，造成5人受傷。宣告說，爆炸引發的火災已被控制，專業調查委員會已開始對事故原因及具體情況展開調查。（新華社）"
+    },
+    {
+      "id": "mkt:01a14b0c-e676-7ee0-a8cd-33f585507526",
+      "time": "2026-10-18 02:08:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ammunition-dump explosion injures five at Baghdad Popular Mobilization Forces base】Shiite militia Popular Mobilization Forces said on the evening of the 17th an explosion at an abandoned ammunition dump inside one of its Baghdad bases injured five. The fire was brought under control and a specialized investigative committee has opened a probe into the cause and circumstances."
+    },
+    {
+      "id": "mkt:01a14b0c-80b5-7ee0-a8cd-2f38199c20b8",
+      "time": "2026-10-18 02:07:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【MERZ confronted by CDU youth delegate demanding resignation over pensions and government debt】At the CDU youth wing annual delegate conference in Bonn on Saturday, a delegate publicly demanded Chancellor MERZ resign, accusing him of failing younger generations on pensions policy and government debt and saying public trust in him is gone; the delegate urged MERZ to petition the Office of the Federal President to be relieved of his duties. MERZ did not respond to the demand."
+    },
+    {
+      "id": "5151957",
+      "time": "2026-10-18 02:07:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國方面提出允許俄羅斯向歐洲出售更多天然氣的設想，該設想將成為與烏克蘭和平協議的一部分；美國特使在9月與歐洲官員的會談中曾推介這一想法。"
+    },
+    {
+      "id": "5151954",
+      "time": "2026-10-18 02:04:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國提議允許俄羅斯向歐洲出售更多天然氣。"
+    },
+    {
+      "id": "mkt:01a14b07-9e41-7ee0-a8cd-23c6059fbad8",
+      "time": "2026-10-18 02:02:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AFP reported about 800,000 people across France took part in demonstrations protesting rising living costs."
+    },
+    {
+      "id": "mkt:01a14b07-180a-7ee0-a8cd-1fc791ee000c",
+      "time": "2026-10-18 02:01:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "French Interior Minister Nunez said 400 people were arrested during protests."
+    },
+    {
+      "id": "mkt:01a14b01-dadc-7ee0-a8cd-17e6c59fdcfa",
+      "time": "2026-10-18 01:56:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French Interior Minister Nunez said authorities will do everything possible to find the perpetrators of the violence."
+    },
+    {
+      "id": "mkt:01a14b01-c2de-7ee0-a8cd-0b6a2ad27ddd",
+      "time": "2026-10-18 01:56:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Macron: France will not tolerate violence."
+    },
+    {
+      "id": "5151942",
+      "time": "2026-10-18 01:55:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：他們企圖將這個國家推向極右翼，我們同樣必須對此予以抵制。凡是在我們陣營當中，認為這類人應當當選公職的人，在德國基民盟中完全沒有立足之地。"
+    },
+    {
+      "id": "5151939",
+      "time": "2026-10-18 01:53:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國內政部長努涅斯：政府將盡一切可能找到暴力事件的肇事者。"
+    },
+    {
+      "id": "5151937",
+      "time": "2026-10-18 01:52:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員克魯茲：特朗普暫停對俄製裁是一項錯誤舉措。"
+    },
+    {
+      "id": "5151936",
+      "time": "2026-10-18 01:51:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：法國沒有暴力的容身之地。"
+    },
+    {
+      "id": "5151927",
+      "time": "2026-10-18 01:46:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國基民盟青年代表在黨代會上要求默茨辭職】德國總理默茨今日在波恩舉行的政黨代表大會上，遭到基民盟青年組織一名代表要求其辭職。這名代表指責默茨的養老金政策與政府債務舉措辜負了年輕一代，稱公眾對他的信任已經崩塌。他表示：“如果你真的如此關心國家和本黨，那就坐上公務車，前往聯邦總統處請求卸任。”默茨沒有回應這項辭職要求。"
+    },
     {
       "id": "5151925",
       "time": "2026-10-18 01:43:03",
@@ -114969,201 +115339,6 @@
         "Impact mixed"
       ],
       "text": "【Microsoft CEO urges emergency 'brake' for advanced AI models】Microsoft (MSFT.O) CEO Satya Nadella said companies should treat powerful AI models as potential internal threats and assume models may be compromised, urging built-in \"emergency brake\" mechanisms so authorized personnel can pause or shut down autonomous agents during task execution. He advised against relying on a single model for critical decisions, called for immutable logs of agent behavior, independent audits of systems, and mandatory disclosure of major failures or security vulnerabilities including causes and details to help others strengthen defenses."
-    },
-    {
-      "id": "5136605",
-      "time": "2026-10-11 02:44:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯將於10月10日起允許出口50萬噸柴油。"
-    },
-    {
-      "id": "5136604",
-      "time": "2026-10-11 02:43:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "俄羅斯政府表示，在特朗普與普京達成協議後，已部分解除柴油出口禁令。"
-    },
-    {
-      "id": "mkt:01a1271f-cbf6-7ee0-a826-0a47cbbad338",
-      "time": "2026-10-11 02:42:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he will arrive in Tennessee shortly."
-    },
-    {
-      "id": "mkt:01a1271e-c19f-7ee0-a826-03f86ee7ecfb",
-      "time": "2026-10-11 02:41:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Russian government says it will partially lift a diesel export ban following an agreement between Trump and Putin."
-    },
-    {
-      "id": "mkt:01a1271e-70b7-7ee0-a825-f8ebfc0064aa",
-      "time": "2026-10-11 02:41:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Axios reports two US officials and one Israeli official say the US did not ask Israel to carry out strikes on Iran before Israel’s Oct. 27 election. Earlier media reports said the US had urged Israel in recent weeks to strike Iran ahead of Oct. 27 to avoid US direct military action that could affect the Nov. 3 US midterm elections."
-    },
-    {
-      "id": "5136600",
-      "time": "2026-10-11 02:30:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以媒稱美以領導人就再襲伊朗溝通】當地時間10月10日，據以色列第13頻道電視臺報道，美國總統特朗普與以色列總理內塔尼亞胡近期“就美以可能再對伊朗發動軍事打擊一事進行了頻繁、緊急溝通”。報道援引多名以色列安全機構高階官員訊息稱，“美以尚未就此作出最終決定，內塔尼亞胡無意在以色列本月底舉行議會選舉前採取軍事行動。”報道還稱，以軍內部認為，美方未來傾向於重啟對伊朗軍事行動。目前，以軍正據此為應對一切可能情況作準備。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:01a12711-808b-7ee0-a825-f1e853969058",
-      "time": "2026-10-11 02:27:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Channel 13: Trump, Netanyahu hold urgent talks on possible renewed strikes on Iran; Netanyahu avoids action before Israel’s end‑of‑month election】On Oct 10, Israel’s Channel 13 reported that US President Trump and Prime Minister Netanyahu have held frequent, urgent communications about possible renewed US‑Israel strikes on Iran, citing multiple senior Israeli security officials. The officials said no final decision has been made and Netanyahu does not intend to take military action before Israel’s parliamentary election at the end of the month. The report added the Israeli military assesses the US may be inclined to resume operations against Iran in the future and is preparing for all contingencies."
-    },
-    {
-      "id": "mkt:01a1270f-7948-7ee0-a825-edf0d3eb4161",
-      "time": "2026-10-11 02:24:47",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【NVIDIA reportedly in talks to acquire US AI startup Reflection AI】According to the Financial Times, NVIDIA is in early-stage talks to acquire US startup Reflection AI or increase its investment, people familiar with the matter said. Reflection AI develops open-weight models. Talks could take multiple forms, including a talent acquisition — hiring staff and licensing technology — to avoid lengthy regulatory review. NVIDIA is already one of Reflection’s largest shareholders and could instead deepen ties via further equity or by supplying more chips and compute. People said a deal could be reached within weeks. Reflection was valued at $25 bln in a March funding round."
-    },
-    {
-      "id": "5136599",
-      "time": "2026-10-11 02:22:21",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【英偉達正洽談收購reflection AI】英偉達正洽談收購美國開放權重模型初創企業 Reflection AI，或是進一步加大對該公司的投資。目前暫無法確定談判涉及的交易條款；Reflection AI 在今年 3 月一輪融資中的最新估值為 250 億美元。"
-    },
-    {
-      "id": "mkt:01a1270c-717a-7ee0-a825-e21148d8f8cd",
-      "time": "2026-10-11 02:21:29",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "The Financial Times, citing people familiar with the matter, reports NVIDIA (NVDA.O) is in early-stage talks to acquire Reflection AI, a US developer of open-weight models, or to increase its investment; negotiations are at an early stage and any transaction could take multiple forms."
-    },
-    {
-      "id": "mkt:01a12707-da5b-7ee0-a825-de92eeb3c13f",
-      "time": "2026-10-11 02:16:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Yemen's Houthi forces say willing to avoid reciprocal strikes on civilian airports and seaports】On the 10th Houthi forces said they are willing to take reciprocal measures with Saudi Arabia to avoid drawing airports, seaports and other humanitarian facilities into escalating military confrontation, Masirah TV (controlled by the group) reported. The group said it would push parties to avoid attacking such facilities and would designate airports and seaports as priority protected sites, and accused Saudi forces of striking Sana'a international airport on July 13, which it said ended a prior period of accommodation. The Houthis said they do not accept Saudi troop presence in Yemen. In recent days the group has carried out multiple attacks on Saudi airports and oil facilities. The Saudi-led coalition said it is conducting large-scale operations to degrade Houthi military capabilities, dismantle its ballistic missile network and provide round-the-clock air support to Yemeni government forces."
-    },
-    {
-      "id": "5136598",
-      "time": "2026-10-11 02:16:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達正洽談收購Reflection AI，雙方談判尚處於早期階段。"
-    },
-    {
-      "id": "5136597",
-      "time": "2026-10-11 02:16:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門胡塞武裝：願與沙特避免互襲民用設施】葉門胡塞武裝10日表示，願意與沙烏地阿拉伯採取相互對等的措施，避免將機場、海港及其他具有人道主義功能的設施捲入不斷升級的軍事對抗。（新華社）"
-    },
-    {
-      "id": "5136596",
-      "time": "2026-10-11 02:15:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度駐日內瓦代表團就德里抗議活動發聲：聯合國人權高專辦的關切毫無根據，屬於對印度內政的不當干涉。"
-    },
-    {
-      "id": "5136595",
-      "time": "2026-10-11 02:07:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度常駐日內瓦代表團就新德里抗議活動表態：已關注聯合國對新德里今日相關事件的言論。"
-    },
-    {
-      "id": "5136594",
-      "time": "2026-10-11 02:07:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度常駐日內瓦代表團就德里抗議活動發聲：印度公民可行使抗議權利，但須以符合公共秩序利益為前提，受到合理限制。"
-    },
-    {
-      "id": "mkt:01a126f9-04e9-7ee0-a825-d1458b836df0",
-      "time": "2026-10-11 02:00:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pentagon raises US deaths tied to Iran-related operations to 21】The Pentagon has revised upward the number of US service members who died in Iran-related military operations in the Middle East to 21, the Washington Post reports, after adding two non-combat deaths to its Defense Casualty Analysis System. The newly included cases are Army National Guard Maj. Saufley Davious, 46, who died in Kuwait on March 6, and an unnamed Navy service member who died by suicide in September. The Post last month cited US officials saying fatalities exceeded the Pentagon’s published totals; Defense Secretary Hegseth at the time called that reporting “a complete lie.”"
-    },
-    {
-      "id": "5136593",
-      "time": "2026-10-11 01:59:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普的集會行程包含下週三蒙大拿州一站。"
-    },
-    {
-      "id": "5136592",
-      "time": "2026-10-11 01:48:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "古巴國家電力公司稱，新一輪停電造成古巴東部地區斷電。"
-    },
-    {
-      "id": "5136591",
-      "time": "2026-10-11 01:48:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普的集會行程包含週三蒙大拿州一站。"
     }
   ]
 }
