@@ -1,7 +1,23 @@
 {
   "date": "2026-10-17",
-  "count": 577,
+  "count": 579,
   "items": [
+    {
+      "id": "mkt:01a1476a-06c9-7ee0-a8c7-5eaf098bd452",
+      "time": "2026-10-17 09:11:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former White House press secretary Zakaria praised President Trump; a White House official said Zakaria was actually dismissed a week after taking office."
+    },
+    {
+      "id": "5150993",
+      "time": "2026-10-17 09:11:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【扎卡里亞：能為特朗普工作是我的榮幸】上任一週就傳出被解僱的美國白宮新聞秘書扎卡里亞：特朗普是一個善良、美好、寬容、體貼、熱情，並且是最勤奮的男人。我希望更多的美國人能欣賞他。沒有人能像他那樣讓美國變得偉大，而且他還在繼續這樣做。為他工作是一種榮幸。"
+    },
     {
       "id": "5150959",
       "time": "2026-10-17 09:05:27",
