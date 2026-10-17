@@ -1,7 +1,31 @@
 {
   "date": "2026-10-18",
-  "count": 87,
+  "count": 90,
   "items": [
+    {
+      "id": "mkt:01a14b42-992d-7ee0-a8cd-c975956667cd",
+      "time": "2026-10-18 03:06:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the Pentagon would boost investment in Kentucky's pharmaceutical industry if the Republican Party wins the election."
+    },
+    {
+      "id": "5152006",
+      "time": "2026-10-18 03:05:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：有人對我說“祝你選舉好運”，我說“我已經贏了。”"
+    },
+    {
+      "id": "5152005",
+      "time": "2026-10-18 03:05:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果共和黨獲勝，五角大樓將投資肯塔基州的製藥業。"
+    },
     {
       "id": "mkt:01a14b3e-faf0-7ee0-a8cd-c34fd36d9440",
       "time": "2026-10-18 03:03:00",

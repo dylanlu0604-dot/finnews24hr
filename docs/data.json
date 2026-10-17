@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-18 03:03:51",
-  "count": 12610,
+  "updated": "2026-10-18 03:07:37",
+  "count": 12611,
   "items": [
+    {
+      "id": "mkt:01a14b42-992d-7ee0-a8cd-c975956667cd",
+      "time": "2026-10-18 03:06:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the Pentagon would boost investment in Kentucky's pharmaceutical industry if the Republican Party wins the election."
+    },
+    {
+      "id": "5152006",
+      "time": "2026-10-18 03:05:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：有人對我說“祝你選舉好運”，我說“我已經贏了。”"
+    },
+    {
+      "id": "5152005",
+      "time": "2026-10-18 03:05:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果共和黨獲勝，五角大樓將投資肯塔基州的製藥業。"
+    },
     {
       "id": "mkt:01a14b3e-faf0-7ee0-a8cd-c34fd36d9440",
       "time": "2026-10-18 03:03:00",
@@ -115392,31 +115416,6 @@
         "國際"
       ],
       "text": "馬斯克：SpaceX需要讓印度的星鏈價格變得可以承受。"
-    },
-    {
-      "id": "mkt:01a12736-aa72-7ee0-a826-34b3910de944",
-      "time": "2026-10-11 03:07:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "DOE says latest SPR release aims to ease U.S. storm-related supply disruptions."
-    },
-    {
-      "id": "mkt:01a12735-4a6e-7ee0-a826-2eff9eb5667a",
-      "time": "2026-10-11 03:06:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "DOE approves emergency exchange of up to 4 mln barrels from the Strategic Petroleum Reserve to offset supply disruptions from severe weather in the Gulf of Mexico; borrowed crude must be returned in 2027 and repaid with additional barrels as compensation."
     }
   ]
 }
