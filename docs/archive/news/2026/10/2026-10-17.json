@@ -1,7 +1,31 @@
 {
   "date": "2026-10-17",
-  "count": 581,
+  "count": 584,
   "items": [
+    {
+      "id": "5151024",
+      "time": "2026-10-17 09:17:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州獲得聯邦援助，用於處置諾特火災。"
+    },
+    {
+      "id": "5151014",
+      "time": "2026-10-17 09:16:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海康威視與中國電信國際亞太分部簽署合作意向書】海康威視訊息，近日，在海康威視亞太製造業沙龍活動期間，海康威視與中國電信國際亞太分部簽署合作意向書。雙方將以新加坡產業數智化發展為合作重點，結合中國電信國際亞太分部在雲網融合、數字基礎設施及本地化服務等方面的能力，以及海康威視在物聯感知、人工智慧和行業數字化領域的技術積累，面向智慧校園、工業園區、智慧零售、商業建築、智慧教育、資料中心等場景開展交流與合作。"
+    },
+    {
+      "id": "mkt:01a1476e-6e16-7ee0-a8c7-652b08be8014",
+      "time": "2026-10-17 09:16:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CSTO holds joint exercise in Belarus】On the 16th the Collective Security Treaty Organization (CSTO) conducted the \"Unbreakable Brotherhood-2026\" joint exercise in Belarus to test member forces' coordination in complex security environments. The drill involved more than 1,500 personnel and over 300 pieces of equipment, including about 80 unmanned aerial vehicles (UAVs)."
+    },
     {
       "id": "5151013",
       "time": "2026-10-17 09:15:05",

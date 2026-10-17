@@ -1,7 +1,31 @@
 {
-  "updated": "2026-10-17 09:16:29",
-  "count": 12732,
+  "updated": "2026-10-17 09:20:18",
+  "count": 12729,
   "items": [
+    {
+      "id": "5151024",
+      "time": "2026-10-17 09:17:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國加州獲得聯邦援助，用於處置諾特火災。"
+    },
+    {
+      "id": "5151014",
+      "time": "2026-10-17 09:16:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海康威視與中國電信國際亞太分部簽署合作意向書】海康威視訊息，近日，在海康威視亞太製造業沙龍活動期間，海康威視與中國電信國際亞太分部簽署合作意向書。雙方將以新加坡產業數智化發展為合作重點，結合中國電信國際亞太分部在雲網融合、數字基礎設施及本地化服務等方面的能力，以及海康威視在物聯感知、人工智慧和行業數字化領域的技術積累，面向智慧校園、工業園區、智慧零售、商業建築、智慧教育、資料中心等場景開展交流與合作。"
+    },
+    {
+      "id": "mkt:01a1476e-6e16-7ee0-a8c7-652b08be8014",
+      "time": "2026-10-17 09:16:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CSTO holds joint exercise in Belarus】On the 16th the Collective Security Treaty Organization (CSTO) conducted the \"Unbreakable Brotherhood-2026\" joint exercise in Belarus to test member forces' coordination in complex security environments. The drill involved more than 1,500 personnel and over 300 pieces of equipment, including about 80 unmanned aerial vehicles (UAVs)."
+    },
     {
       "id": "5151013",
       "time": "2026-10-17 09:15:05",
@@ -116316,55 +116340,6 @@
         "焦點"
       ],
       "text": "【國內航線燃油附加費今起上調】今天起，國內航線客票燃油附加費上調。調整後的標準為：成人旅客800公里及800公里以下航線每航段50元，800公里以上航線每航段90元，相較於調整前分別上漲10元和20元。嬰兒旅客免收；兒童、革命傷殘軍人、因公致殘人民警察按實際收取標準減半收取。此前銷售的國內客票，如在今天及以後進行變更，不再按新標準補收燃油附加差價。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a12365-83c5-7ee0-a821-e0e6e211a506",
-      "time": "2026-10-10 09:20:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said his peace record is unprecedented and that he was not boasting, only seeking to highlight how dark he believes the Nobel process to be."
-    },
-    {
-      "id": "mkt:01a12365-3514-7ee0-a821-dcc4c77f4dd4",
-      "time": "2026-10-10 09:19:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the US will not forget Norway for not awarding it the Nobel Peace Prize."
-    },
-    {
-      "id": "5135973",
-      "time": "2026-10-10 09:19:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【無線傳媒在河北成立觀山海文化傳媒公司】企查查APP顯示，近日，河北觀山海文化傳媒有限公司成立，經營範圍包含：廣播電視節目製作經營；舞臺工程施工；營業性演出；演出經紀等。企查查股權穿透顯示，該公司由無線傳媒全資持股。"
-    },
-    {
-      "id": "5135971",
-      "time": "2026-10-10 09:18:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們以合適的價格拿下格陵蘭島——零美元。"
-    },
-    {
-      "id": "5135970",
-      "time": "2026-10-10 09:18:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：順便說一句，我還拿下了格陵蘭島，希望你們能為此感到高興。"
-    },
-    {
-      "id": "5135969",
-      "time": "2026-10-10 09:17:49",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽到底關沒關？航運機構：仍然開放 但通航風險極高 日均至少10艘油輪和幹散貨船透過】10月9日，全球能源及航運資料分析機構Kpler原油市場資料首席分析師Yui Torikata在接受記者採訪時表示，霍爾木茲海峽目前並未完全關閉，而是“仍然開放，但處於極高風險的通航狀態”。Yui Torikata透露，最新初步資料顯示，平均每天至少有10艘商業油輪和幹散貨船透過海峽。（每經）"
     }
   ]
 }
