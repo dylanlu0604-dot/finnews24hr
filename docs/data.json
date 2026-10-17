@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-17 09:27:53",
-  "count": 12726,
+  "updated": "2026-10-17 09:31:40",
+  "count": 12725,
   "items": [
+    {
+      "id": "mkt:01a14779-51e3-7ee0-a8c7-74809ede29d9",
+      "time": "2026-10-17 09:28:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu Technology opens robotics showroom in Tianjin】Yushu Technology has opened a product exhibition center in Building 3 of the Science and Technology Development Center in the Tianjin Economic‑Technological Development Area. The showroom will serve as the company’s dedicated robotics display, showcasing multiple robot series and recent technology achievements."
+    },
+    {
+      "id": "5151031",
+      "time": "2026-10-17 09:27:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宇樹科技展示中心在天津建成投用】“天津發布”公眾號訊息，近日，宇樹科技展示中心在天津經開區科技發展中心三號樓正式建成投用。該展廳將作為宇樹機器人專屬產品展示陣地，集中陳列多款系列機器人產品，直觀呈現前沿機器人領域技術成果。"
+    },
     {
       "id": "5151030",
       "time": "2026-10-17 09:26:13",
@@ -116284,31 +116300,6 @@
         "Impact bullish"
       ],
       "text": "NHC: Hurricane \"Isaias\" made landfall near Destin, Florida. Life-threatening storm surge is impacting the U.S. Gulf Coast."
-    },
-    {
-      "id": "5135980",
-      "time": "2026-10-10 09:31:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，颶風“伊薩亞斯”已在佛羅里達州德斯廷附近登陸，威脅生命安全的風暴潮正侵襲墨西哥灣沿岸，同時危險颶風天氣與暴洪正向內陸蔓延。"
-    },
-    {
-      "id": "5135979",
-      "time": "2026-10-10 09:31:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國家颶風中心風暴公告：熱帶風暴伊薩亞斯在佛羅里達州德斯廷附近登陸。"
-    },
-    {
-      "id": "5135978",
-      "time": "2026-10-10 09:28:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普政府反對所有聯合國新一任秘書長候選人，要求推出新候選人】兩名熟悉內部磋商的人士透露：特朗普政府對當前所有角逐聯合國最高職位的候選人都持反對態度，稱這些人無一完全認同唐納德·特朗普總統的世界觀，也不願對聯合國實施大刀闊斧的改革。 其中一名政府官員表示：“整份候選人名單裡，缺少美方想要的改革派。其中一些人看起來還是老一套、維持現狀的型別。”"
     }
   ]
 }

@@ -1,7 +1,23 @@
 {
   "date": "2026-10-17",
-  "count": 588,
+  "count": 590,
   "items": [
+    {
+      "id": "mkt:01a14779-51e3-7ee0-a8c7-74809ede29d9",
+      "time": "2026-10-17 09:28:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu Technology opens robotics showroom in Tianjin】Yushu Technology has opened a product exhibition center in Building 3 of the Science and Technology Development Center in the Tianjin Economic‑Technological Development Area. The showroom will serve as the company’s dedicated robotics display, showcasing multiple robot series and recent technology achievements."
+    },
+    {
+      "id": "5151031",
+      "time": "2026-10-17 09:27:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宇樹科技展示中心在天津建成投用】“天津發布”公眾號訊息，近日，宇樹科技展示中心在天津經開區科技發展中心三號樓正式建成投用。該展廳將作為宇樹機器人專屬產品展示陣地，集中陳列多款系列機器人產品，直觀呈現前沿機器人領域技術成果。"
+    },
     {
       "id": "5151030",
       "time": "2026-10-17 09:26:13",
