@@ -1,7 +1,388 @@
 {
-  "updated": "2026-10-17 07:57:40",
-  "count": 12763,
+  "updated": "2026-10-17 08:53:26",
+  "count": 12749,
   "items": [
+    {
+      "id": "5150868",
+      "time": "2026-10-17 08:52:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大範圍雨雪今起進入最強時段 多地氣溫將創下半年新低】今天（10月17日），大範圍雨雪過程將進入最強時段。北方將現同期少見的大範圍大到暴雨，局地有大暴雨，內蒙古東北部、黑龍江西北部局地有暴雪或大暴雪。降水的同時，北方多地氣溫也將重新整理今年下半年來新低。直至下週，冷空氣頻繁影響我國，北方氣溫持續偏低。江南等地在經歷近期的暖熱後，將於21日前後出現降溫，秋涼顯現。（央視新聞）"
+    },
+    {
+      "id": "5150867",
+      "time": "2026-10-17 08:51:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Anthropic在最新一輪晶片融資中向黑石提供兩位數收益率】Anthropic向黑石集團提供超10%的高收益率，為其最新晶片交易融資，凸顯這家初創企業願意承受高昂借貸成本，為耗資巨大的人工智慧基礎設施籌措資金。 這項規模600億美元的債務融資方案代號為“北極星專案”，將用於資助Anthropic採購約1.5吉瓦由谷歌研發的定製晶片，即張量處理單元（TPU）。這筆交易預計將成為迄今為止規模最大的晶片融資專案。知情人士稱，黑石旗下基金將出資90億美元購買這筆債務，償債來源為Anthropic為期五年的晶片租賃款，這筆資金約佔180億美元次級貸款總額的一半。 知情人士表示，黑石獲得10%的票面利率，若計入新發折價與其他費用，整體回報率會更高。ICE美銀BB級美國高收益指數顯示，信用資質相近的借款人在公開債券市場通常只需承擔約7%的收益率。知情人士補充，剩餘90億美元債務將在未來數月面向更多投資者發售，收益率可能更低。 黑石拒絕置評。Anthropic暫未回應置評請求。"
+    },
+    {
+      "id": "5150863",
+      "time": "2026-10-17 08:49:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【積分入戶退場 佛山何以不再“擇優錄取”】近日，佛山市公安局釋出《佛山市戶口遷入登記管理規定（徵求意見稿）》，擬進一步深化戶籍制度改革，放開放寬落戶限制。待新規施行後，佛山積分入戶相關規定將停止執行。（南都）"
+    },
+    {
+      "id": "mkt:01a14755-fd8b-7ee0-a8c7-47b55c82832b",
+      "time": "2026-10-17 08:49:40",
+      "tags": [
+        "MKT News",
+        "BX.O"
+      ],
+      "text": "Financial Times reports ANTHROPIC offered Blackstone a double-digit yield in its latest chip financing deal."
+    },
+    {
+      "id": "5150860",
+      "time": "2026-10-17 08:49:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Anthropic在最新一輪晶片融資交易中，向黑石集團提供兩位數收益率，黑石將向由Anthropic五年期晶片租賃付款支援的債務投資90億美元。"
+    },
+    {
+      "id": "mkt:01a14754-ca7b-7ee0-a8c7-3b811eb5198f",
+      "time": "2026-10-17 08:48:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Trump waives multiple Russia sanctions and tariffs under Graham Act】The White House on the 16th issued an executive order in which President Trump invoked a presidential waiver under the 2026 Lindsey Graham Russia and Iran Sanctions Act to defer multiple sanctions, restrictions and tariffs targeting Russia. The waiver suspends a planned 500% tariff on Russian imports and a 100% tariff on countries that are major importers of Russian energy or that aid evasion of oil sanctions. It also delays measures aimed at the Russian central bank, major commercial banks, state-owned enterprises, government officials, and restrictions on Russian investment, energy trade, sovereign-debt purchases and related financial transactions. The Act was signed into law on Sept. 18 and required many measures to take effect within 30 days; the waiver postpones their implementation but does not repeal the law. Sanctions imposed under other statutes and executive orders remain in force."
+    },
+    {
+      "id": "5150846",
+      "time": "2026-10-17 08:44:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海航交所：本週原油運價高位下行】據上海航交所，本週布倫特原油期貨價格高位上行，週四報105.64美元/桶，較10月15日上漲2.14%。全球原油運輸市場VLCC型油輪運價小幅下跌。中國進口VLCC運輸市場運價高位下行。10月15日，上海航運交易所釋出的中國進口原油綜合指數（CTFI）報18923.28點，較10月8日下跌2.0%。"
+    },
+    {
+      "id": "5150843",
+      "time": "2026-10-17 08:44:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上海航交所：本週三大船型市場運價漲跌互現 遠東租金指數持續回撥】據上海航交所，本週，國際幹散貨運輸市場三大船型市場運價分化明顯，海岬型船運價跌幅較大，遠東干散貨租金指數承壓回落。分船型來看，海岬型船兩洋市場同步降溫，本週貨盤不足，但市場可用運力偏多，疊加FFA遠期合約持續下跌，運價大幅下行。巴拿馬型船市場，煤炭貨盤持續釋放，糧食運輸平穩執行，市場即期可用運力偏緊，疊加燃油價格高企支撐，日租金穩中有漲。超靈便型船市場，北方出口鋼材、鎳礦運輸需求較好，印尼至東南亞煤炭運輸活躍，市場即期運力偏緊，日租金延續漲勢。10月15日，上海航運交易所釋出的遠東干散貨租金指數為2037.56點，較上期（10月8日）下跌11.6%。"
+    },
+    {
+      "id": "5150842",
+      "time": "2026-10-17 08:43:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【上海航交所：本週運輸市場供需平衡 綜合指數平穩執行】據上海航交所，本週，受冷空氣影響，中東部地區氣溫降至較常年同期明顯偏低水平，沿海電廠日耗有所下行，隨著煤炭價格走強，下游終端補庫剛需釋放後，採購情緒偏謹慎，市場成交量有限，運輸市場供需平衡，綜合指數平穩執行。10月16日，上海航運交易所釋出的中國沿海（散貨）綜合運價指數報收1079.46點，較上期上漲0.9%。"
+    },
+    {
+      "id": "5150841",
+      "time": "2026-10-17 08:43:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海航交所：本週市場繼續平穩恢復 綜合指數保持平穩】據上海航交所，本週，中國出口集裝箱運輸市場繼續平穩執行，運輸供需保持穩定，各航線市場互有漲跌，總體運價小幅波動，綜合指數保持平穩。10月16日，上海航運交易研究所（籌）釋出的上海出口集裝箱綜合運價指數為3679.58點，較上期微升0.4%。"
+    },
+    {
+      "id": "mkt:01a1474f-5b9c-7ee0-a8c7-37b25fd32551",
+      "time": "2026-10-17 08:42:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "The White House issued an executive order saying President Trump has submitted a certification to Congress that granting the waiver is in the U.S. national interest."
+    },
+    {
+      "id": "5150826",
+      "time": "2026-10-17 08:42:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，他已向國會提交了一份證明，證明發布此類豁免符合美國的國家利益。"
+    },
+    {
+      "id": "mkt:01a1474d-c0da-7ee0-a8c7-299c8983168c",
+      "time": "2026-10-17 08:40:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "President Trump issued an executive order waiving, effective immediately, certain sanctions, restrictions and tariffs under the Graham Sanctions on Russia and Iran Act."
+    },
+    {
+      "id": "5150811",
+      "time": "2026-10-17 08:38:21",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普豁免《格雷厄姆法案》中多項對俄製裁、限制措施及關稅】據美國白宮16日釋出的行政令，特朗普豁免《2026年林賽·格雷厄姆制裁俄羅斯和伊朗法案》規定的多項制裁、限制措施及關稅。豁免範圍包括對俄羅斯輸美商品加徵500%關稅，以及對俄羅斯能源主要進口國和協助俄石油貿易規避制裁的國家加徵100%關稅的措施。此外，豁免還涉及針對俄羅斯央行、主要商業銀行、國有企業及政府官員的制裁，以及對俄投資、能源貿易、主權債務購買和相關金融交易的限制。該法案於今年9月18日簽署成為法律，原定在生效後30天內實施多項制裁及關稅措施。特朗普此次援引法案賦予的總統豁免權，暫緩實施相關規定，但並未廢除該法案，此前依據其他法律及行政命令實施的對俄製裁仍然有效。"
+    },
+    {
+      "id": "5150810",
+      "time": "2026-10-17 08:38:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國發布《2026年對俄羅斯與伊朗實施制裁法案》實施細則。"
+    },
+    {
+      "id": "5150809",
+      "time": "2026-10-17 08:37:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在行政命令中表示，他特此豁免《格雷厄姆法案》中規定的某些制裁、限制和關稅的適用。"
+    },
+    {
+      "id": "5150808",
+      "time": "2026-10-17 08:35:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尹力圍繞市屬高校發展，在北方工業大學、北京農學院、首都經濟貿易大學調研】連日來，北京市委書記尹力圍繞“推動市屬高校分類卓越發展，建設教育強國首善之區”在北方工業大學、北京農學院、首都經濟貿易大學調研。他強調，要深入貫徹落實習近平總書記關於教育的重要論述，全面貫徹黨的教育方針，堅持社會主義辦學方向，落實立德樹人根本任務，按照我市研究型、應用型、技能型高校辦學定位，堅持分類發展，深耕優勢領域，提高辦學水平，為新時代首都發展提供人才、科技、智力支撐。（北京日報）"
+    },
+    {
+      "id": "5150799",
+      "time": "2026-10-17 08:31:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念6只滯漲股出爐，機構扎堆調研且融資客重點加倉】截至10月16日，創新藥板塊概念股總市值超過2.6萬億元。從市場表現來看，今年下半年以來，萬得創新藥概念指數累計漲幅約為1%，跑贏上證指數10個百分點以上。個股方面，9只概念股下半年以來累計漲幅均超過20%。南模生物下半年以來累計漲幅居首，超過65%，康希諾其間累計漲幅接近63%，迪哲醫藥-U下半年以來累計漲超55%。進一步來看，下半年以來跑輸創新藥指數漲幅，同期獲得25家及以上機構調研，且10月15日融資餘額較6月末增幅超過3%的創新藥概念股僅有6只。從機構關注度來看，華東醫藥下半年以來獲得165家機構調研，10月15日融資餘額較6月末增加近8%。微芯生物下半年以來獲得近90家機構調研，10月15日融資餘額較6月末增加超過5%。三生國健下半年以來獲得近60家機構調研，10月15日融資餘額較6月末增加近10%。從市場表現來看，上述6只概念股中，跌幅最小的是華東醫藥，下半年以來下跌5.38%；其次是海思科，下半年以來下跌近14%，10月15日融資餘額較6月末增加近20%，增幅位居6只個股之首。"
+    },
+    {
+      "id": "5150796",
+      "time": "2026-10-17 08:31:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤跌破3.4美元，日內跌幅4%。"
+    },
+    {
+      "id": "mkt:01a14741-f482-7ee0-a8c7-26ffd32c85a5",
+      "time": "2026-10-17 08:27:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Russia says it struck Ukrainian port; Ukraine says it shot down Russian drones】Russia’s Defence Ministry said on the 16th local time Russian forces used drones at dawn to strike Ukrainian port infrastructure and related vessels, hitting a logistics center in Odesa region and a ship supplying Odesa port. Ukraine’s State Emergency Service said the strikes damaged energy infrastructure in Odesa region. The Ukrainian General Staff said there were 304 combat engagements along the front over the past day, that Ukrainian air force, missile troops and artillery struck Russian positions, and that Ukrainian forces shot down 693 Russian drones."
+    },
+    {
+      "id": "5150775",
+      "time": "2026-10-17 08:27:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱打擊烏港口 烏稱擊落俄無人機】俄羅斯國防部當地時間16日釋出戰報稱，俄軍當天凌晨使用無人機對烏克蘭港口基礎設施及相關船隻實施打擊，擊中了敖德薩州一處物流中心和一艘向敖德薩港運送物資的船隻。烏克蘭國家緊急情況局當天表示，俄軍襲擊造成敖德薩州能源基礎設施受損。同一天，烏克蘭武裝部隊總參謀部釋出戰況資訊稱，過去一天前線地區發生了304次戰鬥。烏空軍、導彈部隊和炮兵對俄軍實施了打擊。同時烏軍擊落了俄軍693架無人機。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a14740-6acf-7ee0-a8c7-196694626f7c",
+      "time": "2026-10-17 08:26:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's finance minister said the forthcoming minimum wage increase will exceed inflation and that pensions will not be decoupled from the minimum wage."
+    },
+    {
+      "id": "5150761",
+      "time": "2026-10-17 08:22:52",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "巴西財長：不會將養老金與最低工資脫鉤。"
+    },
+    {
+      "id": "5150760",
+      "time": "2026-10-17 08:22:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：最低工資漲幅將高於通貨膨脹率。"
+    },
+    {
+      "id": "5150745",
+      "time": "2026-10-17 08:19:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國慶節後首周65只新基金開啟認購 環比增超200%】國慶長假後，公募基金髮行市場迅速回暖。資料顯示，按認購起始日統計，10月12日至10月18日，全市場共計有65只新基金開啟認購，較上週環比增長209.52%，並創下近6周發行新高。從基金品類來看，權益基金擔當主力，新發數量佔比超55%，FOF發行則重新整理單週歷史新高。展望後市，多家公募認為，三季報盈利驗證視窗臨近，今年四季度，市場大機率呈現震盪與結構分化格局，市場風格逐漸走向均衡。"
+    },
+    {
+      "id": "5150739",
+      "time": "2026-10-17 08:19:29",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【晨星：梅洛尼在義大利推行的財政緊縮政策或將延續】晨星DBRS表示，即便義大利再度陷入政治動盪，該國大機率仍會遵守歐盟的預算紀律。 DBRS認為主要政治風險是選舉結果懸而未決，產生懸浮議會，但下一屆政府大幅背離歐盟財政規則的風險有限。 不斷攀升的利息負擔及其他因素將持續限制財政前景，因此下屆政府必須重申義大利對審慎財政政策的承諾，並出臺可信舉措。"
+    },
+    {
+      "id": "5150711",
+      "time": "2026-10-17 08:12:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“雙11”大戰提前啟幕 AI成為重要抓手】2026年“雙11”大促拉開帷幕，天貓、京東於10月15日舉辦大促釋出會，抖音同日官宣啟動，頭部平臺同臺競逐。面對存量市場競爭，平臺一改往年繁複的玩法，將大促提前、簡化活動規則，爭奪使用者注意力與商家資源。不同於以往主要依靠價格補貼拉動增長，本屆“雙11”的顯著變化是，AI成為重要抓手，AI工具、電商智慧體覆蓋了商家經營全鏈路。與此同時，一鍵出海工具、海外倉履約體系與跨境AI應用持續降低跨境運營門檻，出海業務有望成為本屆大促新亮點。業內人士表示，一鍵出海大幅降低商家出海門檻，海外倉破解跨境物流時效、售後體驗痛點，跨境AI智慧體補齊詢盤、報關、合規風控等短板。整體來看，電商出海競爭正從單純商品輸出，轉向綜合服務能力比拼。"
+    },
+    {
+      "id": "5150710",
+      "time": "2026-10-17 08:11:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【名創優品稱與迪士尼聯名周邊“雙層價籤”商品非門店售賣，賽事主辦方回應將記錄情況】近日，有網友在社交媒體上發文反映，名創優品與迪士尼聯名“出‘奇’制勝”網球主題系列商品，以覆蓋原價籤的方式加價銷售。名創優品回應，相關商品不是在名創優品門店出售，應聯絡售賣方。上海大師賽票務熱線人員稱，將把情況同步給賽事主辦方。（澎湃新聞）"
+    },
+    {
+      "id": "5150709",
+      "time": "2026-10-17 08:10:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股停牌退市常態化 年內25家公司遭強制退市】今年以來，港股IPO（首次公開發行）市場熱度不減，一批企業成功登陸資本市場的同時，績差公司也在加速出清。Wind資料顯示，截至10月15日，年內已有36家港股公司完成退市，其中25家為港交所強制除牌；另有多家企業已獲港交所上市委員會批准除牌，即將退出港股市場。對比2025年同期，長期停牌企業的退市節奏加快。多位市場受訪人士表示，加速清退劣質上市主體，能夠提升港股整體市場質量，改善市場流動性，引導資金向優質企業集聚。但退市出清不等於簡單“一摘了之”：如何壓縮停牌的不確定性週期，同時保障中小投資者享有充分資訊披露以及完備的維權救濟途徑，仍是這套退市機制需要持續完善的地方。"
+    },
+    {
+      "id": "5150708",
+      "time": "2026-10-17 08:09:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【持續爆買 昨日ETF資金整體淨流入360.79億元】2026年10月16日，ETF資金整體淨流入360.79億元，股票型淨流入250.39億元，寬基型淨流入234.89億元。當日ETF資金淨流入榜單排名前3依次為：華泰柏瑞滬深300ETF（510300）淨流入129.95億元，華夏上證50ETF（510050）淨流入37.72億元，海富通中證短融ETF（511360）淨流入32.28億元。"
+    },
+    {
+      "id": "mkt:01a14730-e399-7ee0-a8c7-15e73b9d4f5e",
+      "time": "2026-10-17 08:09:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China disarmament envoy: 'Nuclear weapons must not be used; nuclear war must not be fought'】China's disarmament ambassador Li Chijiang told the UN General Assembly First Committee on the 16th that global security has become more complex and severe, multilateral nuclear arms-control confrontation has intensified, and concern about a nuclear arms race and nuclear war has risen. He said Cold War thinking, double standards and unilateralism are the main drivers undermining strategic stability, non-proliferation and global nuclear governance. Li urged states to adopt a common, comprehensive, cooperative and sustainable approach to security, reiterated that nuclear weapons must not be used and nuclear war must not be fought, and called on nuclear-armed states to abandon policies of winning a nuclear war and first-use, and to negotiate a no-first-use treaty and an international legal instrument on nuclear security assurances."
+    },
+    {
+      "id": "5150707",
+      "time": "2026-10-17 08:07:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國裁軍大使：核武器用不得 核戰爭打不得】中國裁軍事務大使李馳江16日在聯大第一委員會作關於核問題的專題發言，呼籲國際社會攜手應對核領域風險挑戰。李馳江強調，核武器用不得，核戰爭打不得。有關核武器國家應放棄以打贏核戰爭、首先使用核武器為基礎的核威懾政策，儘早談判締結“互不首先使用核武器條約”和無核安保國際法律文書。有關國家應停止部署全球反導系統，停止抵近其他核武器國家部署戰略攻防武器，停止推進核試驗準備和實戰核武器研發。《不擴散核武器條約》依然是國際核裁軍與核不擴散體系的基石、二戰後國際安全秩序的關鍵支柱。禁核試國際共識不容挑戰，“暫停核試驗”承諾應得到信守。所有核武器國家應公開承諾不尋求永遠擁有核武器，循序漸進推進核裁軍。擁有最大核武庫的國家應該切實履行核裁軍特殊、優先責任，進一步大幅、實質削減核武庫。防止核武器擴散的努力不應損害發展中國家和平利用核能的權利。和平利用核能不能用作核擴散的幌子。個別無核武器國家囤積大量沒有可信民用用途的鈽材料，推動修改“無核三原則”，公開鼓吹自主擁核。國際社會必須提高警惕、嚴加管束。（新華社）"
+    },
+    {
+      "id": "5150706",
+      "time": "2026-10-17 08:06:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京今天將有大雨局地暴雨 雨後北風增強 陣風可達6級左右】今天，北京降雨持續，累計雨量可達大雨量級，以穩定性降雨為主。北京市氣象臺預計，今天白天陰有大雨，局地暴雨，北風二級轉東風三級左右（東部陣風五級），最高氣溫17℃；夜間陰有小雨轉晴，東轉北風三級左右（陣風六級左右），最低氣溫12℃。明後天北京天氣以晴為主，最高氣溫19℃，最低氣溫6至9℃，其中明天白天北風較大，陣風六級左右。（央視新聞）"
+    },
+    {
+      "id": "5150705",
+      "time": "2026-10-17 08:05:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【部分“固收+”理財產品淨值回撤 風控與預期管理臨考】以穩健增值為賣點的“固收+”理財產品，正面臨淨值波動的考驗。今年以來，受多資產價格階段性同步調整、權益市場結構性行情變化等因素影響，部分“固收+”理財產品出現回撤，收益增強策略的有效性與管理人的風險控制能力受到關注。這兩年來，在低利率環境下，“固收+”成為理財機構拓展收益來源的重要方向。不過，債券票息提供的緩衝空間收窄，股票、可轉債等資產帶來的波動也更加突出。多位受訪人士表示，管理人需要在收益增厚與回撤控制之間尋求平衡，投資者也應重新審視產品中“+”的風險，合理調整收益預期。（上海證券報）"
+    },
+    {
+      "id": "mkt:01a1472d-48cc-7ee0-a8c7-0d2f087264bd",
+      "time": "2026-10-17 08:05:12",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Putin says Russia will continue strikes on Ukrainian military-industrial targets】On the 16th, Russian President Putin said Russian forces will continue striking Ukrainian military-industrial enterprises and related facilities in response to Ukrainian attacks on Russian industrial and fuel-and-energy complexes. He said the Russian offensive is accelerating along the front and that the \"security zone\" along the border with Ukraine has expanded in recent months. A primary ground objective remains the \"liberation\" of Donetsk; he said Russian control of Dobropillia is a milestone in the special military operation and has opened a corridor to Donetsk."
+    },
+    {
+      "id": "mkt:01a1472c-862a-7ee0-a8c7-02d42fe871a0",
+      "time": "2026-10-17 08:04:22",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【MERZ opposes roughly 50% EU budget increase, urges fiscal restraint】German chancellor MERZ said in Brussels on the 16th that the EU should exercise fiscal restraint in talks on the next long-term budget and oppose proposals to expand the budget by about 50%. Speaking after a two-day EU summit, he called a large increase \"financially unviable\" and said any final number must be cut substantially from the European Commission's proposal. MERZ added on social media on the 15th that limited funds should be prioritized for defence and competitiveness."
+    },
+    {
+      "id": "mkt:01a1472b-c5b0-7ee0-a8c6-f8c3a8cd250e",
+      "time": "2026-10-17 08:03:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-5.2 earthquake strikes Panama's Veraguas province】A magnitude-5.2 earthquake struck Veraguas province, Panama at 17:41 local time on Oct. 16, the University of Panama Institute of Earth Sciences reported; no casualties or damage have been reported so far."
+    },
+    {
+      "id": "mkt:01a1472b-6ccf-7ee0-a8c6-f565cecc3bcc",
+      "time": "2026-10-17 08:03:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Nasdaq100"
+      ],
+      "text": "OpenAI CODEX product lead Tibo said OpenAI has optimized CODEX and Work to improve real-world performance, reusing context across sub-agents, extending context cache duration and refining request routing to raise cache-hit rates. The company also said it has significantly upgraded GPT-6 Pro performance for all Pro users."
+    },
+    {
+      "id": "em:qqyh_mlc:202610173898985764",
+      "time": "2026-10-17 08:02:56",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲進入靜默期前夕 沃什在曼谷的發言吐露“鴿心”？】10月17日，美聯儲進入溝通“靜默期”。此前，美聯儲主席沃什在曼谷出席國際貨幣基金組織（IMF）年會並發表講話，不過市場普遍認為，其擺在明面上的話比那些沒說出口的更耐人尋味。"
+    },
+    {
+      "id": "5150704",
+      "time": "2026-10-17 07:58:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI Codex產品負責人：我們為所有專業使用者大幅改進了 GPT-6 Pro。"
+    },
+    {
+      "id": "5150703",
+      "time": "2026-10-17 07:57:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI Codex產品負責人：我們對 Codex 和 Work 進行了改進，以增加您獲得的實際使用效果。我們透過在子代理之間重用上下文、更長時間地保持上下文快取，以及改進請求路由來實現這一點，這些措施使我們能夠提高快取命中率。"
+    },
+    {
+      "id": "5150702",
+      "time": "2026-10-17 07:57:18",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【巴拿馬發生5.2級地震】根據巴拿馬大學地球科學研究所報告，當地時間10月16日17時41分，巴拿馬貝拉瓜斯省發生5.2級地震，目前尚無人員傷亡和財產損失報告。（央視新聞）"
+    },
     {
       "id": "5150701",
       "time": "2026-10-17 07:57:06",
@@ -116123,489 +116504,6 @@
         "MKT News"
       ],
       "text": "Wall Street Journal reports the husband of former U.S. vice president Harris said he does not want her to run for president again."
-    },
-    {
-      "id": "5135937",
-      "time": "2026-10-10 08:53:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我智商非常高。"
-    },
-    {
-      "id": "mkt:01a1234c-3a1b-7ee0-a821-c54e7a16a504",
-      "time": "2026-10-10 08:52:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US President Trump said Russia has agreed to supply the US with large volumes of petroleum products, specifically diesel, which he said is exactly what the US needs."
-    },
-    {
-      "id": "5135935",
-      "time": "2026-10-10 08:51:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本啤酒廠商在壟斷調查中承認曾開展定價磋商。"
-    },
-    {
-      "id": "mkt:01a1234a-f346-7ee0-a821-ba9b6bd065d1",
-      "time": "2026-10-10 08:51:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "US President Trump said refiners and fuel retailers should immediately cut prices because the administration is supplying them with large volumes of oil."
-    },
-    {
-      "id": "5135934",
-      "time": "2026-10-10 08:51:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【保持每年千億級投資規模 北京城市副中心“十五五”藍圖曝光】通州區委副書記、區長鄭皓：“十五五”時期，我們將繼續保持每年千億級的投資規模，社會投資佔比將保持在70%以上，初步預計滾動實施重大專案500個左右。（北京釋出）"
-    },
-    {
-      "id": "mkt:01a1234a-b84d-7ee0-a821-b53d35cbe34b",
-      "time": "2026-10-10 08:51:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "US President Trump said the US military has complete control of the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:01a1234a-8792-7ee0-a821-adaeb8d317af",
-      "time": "2026-10-10 08:50:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Trump said oil volumes transiting the Strait of Hormuz are now higher than before a war with Iran broke out."
-    },
-    {
-      "id": "5135933",
-      "time": "2026-10-10 08:48:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【納芯微推出小型化封裝的數字隔離器和隔離介面】納芯微近日宣佈推出多款基於其第三代電容隔離技術的小型化封裝隔離產品，包括NSI834xWx-DSSWR/-Q1SSWR系列數字隔離器（SSOW16）、NSI84085-DSSR隔離式RS485收發器（SSOP16）和NSI1150-DSPR隔離式CAN收發器（SOP8）。新推出的器件透過工程創新，相較於採用其他封裝的同系產品可將封裝尺寸縮小約50%—70%，在保持關鍵效能穩定的基礎上，為新能源汽車、工業、可再生能源和儲能等領域的行業使用者提供更高整合度和更具價效比的隔離解決方案。"
-    },
-    {
-      "id": "5135932",
-      "time": "2026-10-10 08:47:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我們不需要加拿大生產的汽車，我們要本國製造的汽車。"
-    },
-    {
-      "id": "5135931",
-      "time": "2026-10-10 08:45:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【專家分析超強厄爾尼諾來襲：我國冬季寒潮將偏多 冷暖起伏大】10月9日記者從國家氣候中心獲悉，2026年9月正式形成一次超強厄爾尼諾事件，海溫暖中心位於赤道東太平洋。國家氣候中心主任巢清塵表示，受此影響，冬季（2026年12月至2027年2月），我國氣溫總體偏高，寒潮頻次略偏多，氣溫冷暖起伏大。需要注意的是，典型強厄爾尼諾的影響具有顯著的滯後性，往往次年最為突出。（南方都市報）"
-    },
-    {
-      "id": "5135930",
-      "time": "2026-10-10 08:45:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國秘書長譴責美方制裁國際刑事法院】聯合國秘書長古特雷斯9日透過發言人發表宣告，譴責美國宣佈“對國際刑事法院整個機構實施制裁”，指出美方的決定將嚴重妨害國際刑事司法正義，並對制裁可能影響國際刑事法院繼續履行職責表示嚴重關切。據悉，英國、加拿大、丹麥、法國、德國、義大利、日本和荷蘭八國外長9日發表聯合宣告，對美國宣佈制裁國際刑事法院表示遺憾和反對，重申支援國際刑事法院的獨立性、公正性和完整性。（央視新聞）"
-    },
-    {
-      "id": "5135929",
-      "time": "2026-10-10 08:44:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：如今透過（霍爾木茲）海峽輸送的石油量，比（伊朗）戰爭爆發前還要多。你敢相信嗎？"
-    },
-    {
-      "id": "5135927",
-      "time": "2026-10-10 08:42:55",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "高市早苗：基於7月制定的《地域未來戰略》，將支援發揮地區特色優勢，推動形成“產業叢集”。 目前已有74項方案完成制定並對外公佈，全國範圍內還有數百項新方案的構想正在推進。"
-    },
-    {
-      "id": "5135926",
-      "time": "2026-10-10 08:41:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美前副總統哈里斯丈夫私下表示 不希望她再次參選總統】多名知情人士透露，美國前副總統卡瑪拉·哈里斯正在為可能開啟的第三次總統競選鋪路，但其丈夫私下向部分人表示，他並不希望她參選；還有一些捐贈人直接告訴哈里斯，這次參選成功機率渺茫。 哈里斯稱，尚未決定是否再度衝擊白宮，但她已經採取一系列可作為競選鋪墊的行動：會見大額捐贈人、招募團隊，並前往搖擺州，助力民主黨候選人參加11月中期選舉。一些瞭解並曾與哈里斯共事的人士，對她最終再度參選持懷疑態度。 哈里斯的發言人拒絕置評。"
-    },
-    {
-      "id": "5135925",
-      "time": "2026-10-10 08:40:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國已削減超過100萬個聯邦工作崗位。"
-    },
-    {
-      "id": "5135924",
-      "time": "2026-10-10 08:40:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普感謝普京：俄羅斯同意向我們提供數百萬桶石油，是柴油。這正是我們真正需要的。所以，謝謝你！"
-    },
-    {
-      "id": "5135923",
-      "time": "2026-10-10 08:39:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【五角大樓稱將直播胡德堡基地槍擊案罪犯槍決過程引爭議，萬斯回應：我不會看】據美聯社、路透社等媒體報道，美國副總統萬斯當地時間週五（9日）對“五角大樓稱將直播胡德堡基地槍擊案罪犯槍決過程”作出回應。他表示對該過程是否會真正直播存疑，並補充稱，如果進行直播，“我不會看”。報道稱，當被問及五角大樓相關計劃時，萬斯表示，“我不知道這是否真的會發生”。隨後，他試圖淡化直播槍決計劃所引發的爭議，表示不應忘記該案兇手的罪行。（環球網）"
-    },
-    {
-      "id": "5135922",
-      "time": "2026-10-10 08:38:04",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：煉油公司和零售商應立即降價】特朗普：多虧了美國軍隊，我們已經完全控制了霍爾木茲海峽。煉油公司和零售商應立即開始降低價格，因為我們為他們提供了大量石油。"
-    },
-    {
-      "id": "5135921",
-      "time": "2026-10-10 08:37:02",
-      "tags": [
-        "行業"
-      ],
-      "text": "【AI訂酒店成國慶消費新亮點：豆包下單量環比漲超56%】10月7日，抖音生活服務釋出的《2026中秋國慶消費報告》顯示，中秋國慶假期抖音團購訂單量同比增長53%，酒店賓館訂單量同比增長近79%；“豆包訂酒店”下單量環比增長超過56%，銷售額環比增長超過71%，成都、北京、西安訂單量位居前三。（中國經營報）"
-    },
-    {
-      "id": "5135920",
-      "time": "2026-10-10 08:34:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上海航交所：原油運價大幅跳漲】據上海航交所，全球原油運輸市場VLCC型油輪運價高位上漲。中國進口VLCC運輸市場運價大幅跳漲。10月8日，上海航運交易所釋出的中國進口原油綜合指數（CTFI）報19317.01點，較9月23日上漲23.2%。"
-    },
-    {
-      "id": "5135919",
-      "time": "2026-10-10 08:33:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上海航交所：海岬型船運價大幅下跌 遠東租金指數明顯走低】據上海航交所，本週，國際幹散貨運輸市場三大船型市場運價跌多漲少，遠東干散貨租金指數明顯走低。分船型來看，海岬型船市場運價大幅下跌，節前太平洋市場貨盤偏少、可用運力過剩，疊加FFA遠期合約持續下跌，運價承壓下行；節後市場貨盤尚可，運價止跌小幅反彈。巴拿馬型船市場日租金持續上漲，煤炭貨盤總體較好，糧食運輸需求略有支撐，日租金持續上行。超靈便型船市場日租金先跌後漲，出口鋼材、鎳礦貨盤平穩執行，煤炭貨盤節前略有縮減，日租金窄幅波動。10月8日，上海航運交易所釋出的遠東干散貨租金指數為2303.98點，較上期下跌10.2%。"
-    },
-    {
-      "id": "5135918",
-      "time": "2026-10-10 08:33:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上海航交所：長假前後商談氛圍平淡 綜合指數連續下跌】據上海航交所，本週，國慶假期前後，電煤處於淡季，南方暑熱消退、氣溫回落，電廠日耗維持低位，庫存整體充裕，加之北方港口煤炭調入量偏低，下游對高價煤接受意願不強，補庫積極性偏弱，僅少量剛需採購，市場商談氛圍平淡，沿海散貨綜合指數小幅下跌。 9月30日，上海航運交易所釋出的中國沿海（散貨）綜合運價指數報收1085.02點，較上期下跌2.6%。 10月9日，上海航運交易所釋出的中國沿海（散貨）綜合運價指數報收1069.35點，較上期下跌1.4%。"
-    },
-    {
-      "id": "5135917",
-      "time": "2026-10-10 08:33:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海航交所：節後市場平穩恢復 綜合指數平穩執行】據上海航交所，國慶”長假後，中國出口集裝箱運輸市場平穩恢復，運輸需求保持穩定，多數航線市場運價小幅波動，綜合指數平穩執行。10月9日，上海航運交易研究所（籌）釋出的上海出口集裝箱綜合運價指數為3664.11點，與上期持平。"
-    },
-    {
-      "id": "mkt:01a12337-d73a-7ee0-a821-a129ff446c61",
-      "time": "2026-10-10 08:30:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Putin says Russia cannot currently resume talks with Ukraine after call with Trump】Kremlin aide Ushakov said early on the 10th that in a call with Trump Putin outlined measures Russia has taken in response to what he described as terrorist attacks by Ukrainian armed forces. Putin said Ukrainian efforts to disrupt the State Duma vote and attacks on civilians have destroyed the possibility of an immediate resumption of talks. He added that Ukrainian attempts to stop Russian advances have no prospect of success, that Russian forces hold the initiative on the battlefield and are continuing to push forward. Trump has instructed that Putin’s message be passed to the Ukrainian delegation. Ushakov said no concrete discussion has taken place on a bilateral Putin‑Trump meeting."
-    },
-    {
-      "id": "5135916",
-      "time": "2026-10-10 08:30:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：Grok Bot可以模擬任何事物。"
-    },
-    {
-      "id": "5135915",
-      "time": "2026-10-10 08:29:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：地球開始降溫，冰山規模比以往任何時候都更大。"
-    },
-    {
-      "id": "mkt:01a12335-e881-7ee0-a821-9f8fcb7cf833",
-      "time": "2026-10-10 08:28:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US, Ukrainian and European negotiators meet in Miami to seek unified proposal to end Ukraine war】US, Ukrainian and European negotiators held a six-hour meeting in Miami on Friday to try to agree a unified proposal to end the Ukraine war, with the aim of reaching consensus in the coming weeks to present to Russia and secure a breakthrough before winter. Participants included US representatives (including Kushner), the Ukrainian delegation and European and NATO representatives. Discussions covered US and European post-war security guarantees, a Ukrainian post-war economic plan and a pathway for EU accession; negotiators also discussed territorial “ideas” on a sensitive issue and a broader European–Russian security architecture, but gave no details."
-    },
-    {
-      "id": "5135914",
-      "time": "2026-10-10 08:28:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“雙向奔赴”成亮眼風景線 A+H板塊年內擴至209家】今年以來，A+H股板塊擴容明顯提速。Wind資料顯示，2026年前三季度有38家A股公司實現H股上市，為2025年全年的兩倍；與此同時，H股“回A”通道同步開啟，力勤資源於9月30日率先“回A”，智譜、雲英谷科技、精鋒醫療、映恩生物、正規化智慧等也在推進中。截至2026年10月9日，年內A+H板塊已擴容至‌209家‌。在“先A後H”與“先H後A”雙向奔赴的格局下，兩地資本市場互聯互通持續深化，A股龍頭出海與港股科創企業迴歸形成良性互動，成為今年中國資本市場最亮眼的風景線之一。"
-    },
-    {
-      "id": "5135913",
-      "time": "2026-10-10 08:27:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：是狡詐的喬·拜登與民主黨人造成了當前的民生負擔難題。而特朗普以及國會共和黨人，正在著手解決這一問題。"
-    },
-    {
-      "id": "5135912",
-      "time": "2026-10-10 08:26:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：激進的民主黨人已經把紐約變成了全國的恥辱】特朗普：激進的民主黨人已經把紐約變成了全國的恥辱，高成本、高犯罪率、嚴重腐敗，以及共產主義政客們把工作機會、企業和財富趕出紐約州。在民主黨統治下，紐約有：全國最高的第一位的稅收。全國最差的第一位的商業環境。全國最高的第一位的無家可歸者人數。而且離開紐約的人比美國任何其他州都多。"
-    },
-    {
-      "id": "5135911",
-      "time": "2026-10-10 08:25:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "翻譯特朗普：紐約本不該放任企業遷往得州交易所。"
-    },
-    {
-      "id": "5135910",
-      "time": "2026-10-10 08:24:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【13只低估值個股推出大手筆回購或增持計劃】據統計，自2026年7月1日以來，截至10月9日，擬增持金額上限及擬回購金額上限合計超過千億元。整體來看，下半年以來約470股發起增持或回購計劃，主要分佈於機械裝置、電力裝置、電子、醫藥生物等行業。進一步統計顯示，上述約470股中，擬增持金額不低於3億元或擬回購金額不低於3億元（保留增持、回購計劃仍在進行的標的，剔除完成增持回購的個股），且最新市盈率低於所屬行業市盈率的個股僅有13只。按照市盈率折價率排序，華新建材、山東路橋、中國建築最新市盈率較所屬行業市盈率折價均超過40%。"
-    },
-    {
-      "id": "5135909",
-      "time": "2026-10-10 08:22:25",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【美財長：美國國債已攀升至約41萬億美元規模】美國財政部長貝森特9日在華盛頓出席一個政策論壇時表示，目前美國的國債已經攀升至約41萬億美元的規模。他透露說，美國政府正制定一項財政整頓計劃，以削減美國政府日益加劇的財政赤字，降低發行國債的壓力，這一計劃預計將在中期選舉之後公佈。（央視新聞）"
-    },
-    {
-      "id": "5135908",
-      "time": "2026-10-10 08:20:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣暗盤突破3.4美元，日內漲幅4.1%。"
-    },
-    {
-      "id": "5135907",
-      "time": "2026-10-10 08:20:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【加拿大網路安全高管遭聯邦起訴，涉駭客案件】一名加拿大網路安全高管曾在多家企業擔任高階職務，這些企業專門協助資料洩露受害方與網路犯罪分子協商贖金支付。如今，這名高管因一樁聯邦駭客及資料勒索案件被起訴。 法庭檔案顯示，愛德華·杜布羅夫斯基近期還出版過一本介紹如何應對網路勒索的書籍，現在卻被控合謀實施同類犯罪：威脅洩露竊取、入侵獲得的資料，並透過勒索手段干擾跨州商業活動。指控杜布羅夫斯基的起訴書目前仍處於封存狀態。"
-    },
-    {
-      "id": "mkt:01a1232d-3765-7ee0-a821-954fadddffd7",
-      "time": "2026-10-10 08:18:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Small twin-engine aircraft crashes near Vale do Açu, Brazil; three military police killed】Local time Oct 9, a small twin-engine aircraft crashed near the airport serving Vale do Açu, Brazil, killing all three on board, who were military police. The aircraft departed from a southeast Brazil airport bound for Vale do Açu. Cause of the crash is under investigation."
-    },
-    {
-      "id": "5135906",
-      "time": "2026-10-10 08:18:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 請假裝我在（中期選舉）選票上，好嗎？"
-    },
-    {
-      "id": "5135905",
-      "time": "2026-10-10 08:17:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【經濟日報：保護主義撐不起歐洲競爭力】經濟日報刊文指出，據媒體報道，10月5日，德國和法國向歐委會提交非正式檔案，要求歐盟強化使用貿易防禦措施，並推出多項保護主義新工具。此舉既不利於中歐合作，也解決不了歐洲發展難題，最終只會反噬自身經濟。德國和法國是全球重要經濟體，一舉一動都有重要影響，理應堅持自由貿易，遵守世貿規則，推動全球開放合作，而不是鼓動歐盟使用保護主義工具。"
-    },
-    {
-      "id": "5135904",
-      "time": "2026-10-10 08:17:11",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【巴西一小型飛機墜毀 致3人死亡】總檯記者獲悉，當地時間10月9日，一架小型飛機在巴西瓦萊-杜阿蘇地區機場附近墜毀，機上3名軍事警察死亡。據悉，失事飛機是一架雙發飛機。該飛機從巴西東南部一機場起飛，目的地是瓦萊-杜阿蘇地區。目前，墜機原因仍在調查中。（央視新聞）"
-    },
-    {
-      "id": "5135903",
-      "time": "2026-10-10 08:16:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "暗盤白銀突破55美元/盎司，日內漲幅0.0%。"
-    },
-    {
-      "id": "5135902",
-      "time": "2026-10-10 08:16:20",
-      "tags": [
-        "行業",
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普政府要求AI公司在發生安全事件後立即上報】當地時間10月9日，央視記者獲悉，在人工智慧公司Anthropic發生多起未經授權使用美國政府系統的安全事件後，特朗普政府宣佈實施新的強制性AI安全事件報告要求。訊息稱，Anthropic公司已於9月底向美國政府披露相關事件，並表示未經授權的活動已經停止。根據新要求，AI公司今後發生安全事件後必須立即向政府報告，提高事件透明度，並對受到影響的機構採取補救和糾正措施。據美國方面訊息，特朗普設立的“超級智慧特別工作組”將負責監督相關要求的執行。白宮官員表示，政府不會接受延遲報告或企業未承擔責任的情況，但目前具體的執法和處罰機制尚不明確。（央視新聞）"
-    },
-    {
-      "id": "mkt:01a1232a-bdf7-7ee0-a821-8a1767c41b03",
-      "time": "2026-10-10 08:16:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Sources say Russian envoy Dmitriyev, during a recent Washington visit, requested that US authorities grant licenses allowing all major Russian oil companies to export diesel to the US market."
-    },
-    {
-      "id": "5135901",
-      "time": "2026-10-10 08:15:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【第三季度21家上市銀行獲511家機構調研】今年第三季度，證券公司、基金公司、保險公司、保險資管公司以及外資等各類機構密集對上市銀行進行調研。Wind資料顯示，第三季度，共有21家上市銀行獲511家機構調研。調研內容顯示，信貸投放、淨息差、資產質量等話題備受關注。從調研情況來看，機構投資者對區域性銀行的關注度較高。其中，江蘇銀行最受機構青睞，共被146家機構調研；杭州銀行被73家機構調研；瑞豐銀行被64家機構調研；寧波銀行被63家機構調研；南京銀行被43家機構調研；紫金銀行被29家機構調研；廈門銀行被21家機構調研。（證券日報）"
-    },
-    {
-      "id": "mkt:01a12327-4df8-7ee0-a821-84caac12e7f9",
-      "time": "2026-10-10 08:12:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANTHROPIC said the described cases involved websites run by U.S. federal, state and local government agencies, and that it has reported them to the White House and notified each relevant agency."
-    },
-    {
-      "id": "mkt:01a12325-64ef-7ee0-a821-7bd7a8fc1e3b",
-      "time": "2026-10-10 08:10:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Inter-American Development Bank donated US$250,000 to Panama after the earthquake and established a natural-disaster credit line of up to US$50 million."
-    },
-    {
-      "id": "mkt:01a12324-b173-7ee0-a821-724e1405a185",
-      "time": "2026-10-10 08:09:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump asked the US Supreme Court to review a dismissed lawsuit alleging Hillary Clinton conspired against him in the 2016 presidential election."
-    },
-    {
-      "id": "5135900",
-      "time": "2026-10-10 08:08:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "星鏈： 對於巴拿馬地震受影響的人群，Starlink 將為受災地區的現有客戶和新客戶提供免費服務，直至11月10日。我們正在與緊急響應機構協調，以幫助恢復受災最嚴重的社群的連線。"
-    },
-    {
-      "id": "mkt:01a12323-a7d4-7ee0-a821-6d0caad1be27",
-      "time": "2026-10-10 08:08:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC: Hurricane Isaias located about 95 miles (155 km) southeast of Mobile, Alabama; maximum sustained winds 110 mph (175 km/h)."
-    },
-    {
-      "id": "5135899",
-      "time": "2026-10-10 08:07:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“金九”期間重點城市樓市延續高活躍度】隨著政策紅利不斷落地、住房消費需求持續釋放，9月房地產市場延續回暖態勢，重點城市二手房成交放量，“金九”表現亮眼。中指研究院資料顯示，9月，二手房活躍度繼續高位執行，重點20城二手房成交11.9萬套，同比增長7.4%。今年前9個月，重點20城二手住宅成交111.8萬套，同比增長6.4%。其中，北京、上海等城市二手房市場成交持續放量。9月，北京、上海二手房分別成交1.6萬套、2.4萬套，環比分別增長13.7%、3.3%。值得注意的是，上海9月二手房成交量同比增長17.2%，連續七個月同比增長。（證券日報）"
-    },
-    {
-      "id": "mkt:01a12323-0bff-7ee0-a821-609e6b670b38",
-      "time": "2026-10-10 08:07:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NHC: Hurricane Isaias approaching landfall along Florida's narrow western peninsula; hurricane-force winds and extreme gusts spreading across the warning area."
-    },
-    {
-      "id": "5135898",
-      "time": "2026-10-10 08:05:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴拿馬總統感謝中美洲經濟一體化銀行提供 “及時援助”。"
-    },
-    {
-      "id": "5135897",
-      "time": "2026-10-10 08:04:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多地推進重大專案建設發力穩投資】四季度是重大專案建設衝刺季。10月份以來，多地積極部署重大專案建設相關工作。從本輪部署看，各地新落戶或新開工的重大專案所涉領域眾多。陝西巨豐投資資訊有限責任公司高階投資顧問丁臻宇表示，多地重大專案廣泛涵蓋第一、第二、第三產業，有傳統產業專案也有新興產業專案，表明地方相關部門採取了穩中求進、提質增效的建設思路。如此安排，既能託底短期經濟增長，也能有效對接新型政策性金融工具、地方政府專項債券等各類資金政策，助力做大做強先進製造業、加快培育新質生產力。（證券日報）"
-    },
-    {
-      "id": "5135896",
-      "time": "2026-10-10 07:59:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄美元首通話 普京稱俄目前不可能恢復與烏談判】俄羅斯總統助理烏沙科夫當地時間10日凌晨介紹了俄美兩國領導人通話的有關情況。烏沙科夫表示， 普京在通話中詳細介紹了俄羅斯為回應烏克蘭武裝部隊實施的恐怖襲擊而採取的措施。普京表示，烏克蘭方面試圖破壞俄羅斯國家杜馬選舉並對民眾實施襲擊，導致立即恢復談判的可能性遭到破壞。普京還指出，烏克蘭方面試圖阻止俄羅斯軍隊推進的企圖沒有任何成功的前景，俄軍目前完全掌握戰場主動權，並正在持續向前推進。普京強調，由於烏克蘭方面的立場，特別是其試圖破壞俄杜馬選舉的行為，目前不可能恢復與烏克蘭的談判。特朗普已指示將普京在通話中傳遞的資訊轉達給烏克蘭代表團。烏沙科夫稱，關於舉行普京與特朗普雙邊會晤的問題，雙方目前尚未進行具體討論。（央視新聞）"
-    },
-    {
-      "id": "5135895",
-      "time": "2026-10-10 07:58:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【帕克斯頓12年前筆錄曝光，稱“捐贈人送我股票，是為取悅上帝”】媒體獲取了一份案件取證筆錄，是得克薩斯州共和黨參議院候選人肯·帕克斯頓（Ken Paxton）長達十年爭議的早期事件之一：腐敗及其他違法行為指控反覆出現，卻始終沒有最終定罪。彼時是2014年12月，帕克斯頓是冉冉升起的共和黨新星，剛剛當選得克薩斯州總檢察長。但公眾視野之外，他正捲入一項聯邦欺詐調查。筆錄記載，帕克斯頓原本打算向Servergy投資10萬美元，並在這家店與馬普先生見面交付支票。帕克斯頓稱，馬普拒收了這筆錢，轉而贈送給他10萬股公司股票。 帕克斯頓將馬普的慷慨之舉歸因於對方的宗教信仰。"
-    },
-    {
-      "id": "5135894",
-      "time": "2026-10-10 07:58:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【供需關係持續改善 有機矽行業景氣修復】10月9日，A股有機矽概念板塊繼續走強，東嶽矽材、晨光新材、新亞強漲停，矽寶科技、合盛矽業等多股跟漲。業內人士分析稱，行業供需關係改善、產品價格回升及上市公司盈利修復預期，共同推動有機矽板塊走高。除週期性供需改善外，新能源、電子電氣及半導體等領域的應用拓展，也為有機矽產業鏈帶來新的增長空間。（上海證券報）"
-    },
-    {
-      "id": "5135893",
-      "time": "2026-10-10 07:58:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【供應擾動集中發酵 天然橡膠上下游齊漲價】繼9月30日創下逾9年新高後，天然橡膠期貨延續上漲行情。10月9日，上期所天然橡膠主力合約RU2701日盤收漲2.89%，報20645元/噸。現貨方面，據百川盈孚市場監測，10月9日，天然橡膠國內市場均價為1.97萬元/噸，較前一交易日再漲56元/噸，年內漲幅達28.27%，同比上漲31.45%。廣發期貨認為，全球天然橡膠供給已步入頂部區域，疊加厄爾尼諾事件引發的減產預期，使得膠價對氣候擾動的敏感度被顯著放大。在成本壓力下，橡膠產業鏈下游的輪胎企業紛紛開啟年內第四輪集中漲價。9月以來，已有60餘家輪胎企業釋出了70多份漲價函。（上海證券報）"
     }
   ]
 }
