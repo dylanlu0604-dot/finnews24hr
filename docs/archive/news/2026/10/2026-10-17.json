@@ -1,7 +1,29 @@
 {
   "date": "2026-10-17",
-  "count": 896,
+  "count": 898,
   "items": [
+    {
+      "id": "mkt:01a14959-cc5d-7ee0-a8ca-d6d43e2be53d",
+      "time": "2026-10-17 18:13:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Gold may face further pressure through year-end, Capital Economics cites Fed hikes and AI outlook】Capital Economics climate and commodities economist Hamad Hussain said on Oct. 16 that gold could gradually weaken through the rest of the year, citing two factors: continued Fed rate hikes and the view that market worries about an end to the AI boom will ultimately prove temporary. TD Securities global head of commodities strategy Bart Melek said gold remains range-bound and is biased toward the lower end of its range amid substantial uncertainty over the Fed's next move."
+    },
+    {
+      "id": "5151502",
+      "time": "2026-10-17 18:11:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部和中國氣象局聯合釋出黃色山洪災害氣象預警】水利部和中國氣象局10月17日18時聯合釋出黃色山洪災害氣象預警：預計，10月17日20時至18日20時，遼寧南部、吉林東北部、黑龍江東南部、湖北中南部、湖南西北部等地部分地區可能發生山洪災害（藍色預警），其中，遼寧東南部、吉林東北部、黑龍江東南部、湖北中南部、湖南西北部局地發生山洪災害可能性較大（黃色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
+    },
     {
       "id": "5151501",
       "time": "2026-10-17 18:10:00",

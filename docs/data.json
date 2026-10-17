@@ -1,7 +1,29 @@
 {
-  "updated": "2026-10-17 18:11:35",
-  "count": 12594,
+  "updated": "2026-10-17 18:15:23",
+  "count": 12593,
   "items": [
+    {
+      "id": "mkt:01a14959-cc5d-7ee0-a8ca-d6d43e2be53d",
+      "time": "2026-10-17 18:13:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Gold may face further pressure through year-end, Capital Economics cites Fed hikes and AI outlook】Capital Economics climate and commodities economist Hamad Hussain said on Oct. 16 that gold could gradually weaken through the rest of the year, citing two factors: continued Fed rate hikes and the view that market worries about an end to the AI boom will ultimately prove temporary. TD Securities global head of commodities strategy Bart Melek said gold remains range-bound and is biased toward the lower end of its range amid substantial uncertainty over the Fed's next move."
+    },
+    {
+      "id": "5151502",
+      "time": "2026-10-17 18:11:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部和中國氣象局聯合釋出黃色山洪災害氣象預警】水利部和中國氣象局10月17日18時聯合釋出黃色山洪災害氣象預警：預計，10月17日20時至18日20時，遼寧南部、吉林東北部、黑龍江東南部、湖北中南部、湖南西北部等地部分地區可能發生山洪災害（藍色預警），其中，遼寧東南部、吉林東北部、黑龍江東南部、湖北中南部、湖南西北部局地發生山洪災害可能性較大（黃色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。"
+    },
     {
       "id": "5151501",
       "time": "2026-10-17 18:10:00",
@@ -115276,30 +115298,6 @@
         "市場"
       ],
       "text": "【財政部擬第二次續發行2026年記賬式附息（十七期）國債 招標面值總額1200億元】財政部擬第二次續發行2026年記賬式附息（十七期）國債。本次續發行國債為3年期固定利率附息債。本次續發行國債競爭性招標面值總額1200億元，進行甲類成員追加投標。本次續發行國債票面利率與之前發行的同期國債相同，為1.23%。本次續發行國債的起息日、兌付安排與之前發行的同期國債相同。自2026年8月25日開始計息，按年付息，每年8月25日（節假日順延，下同）支付利息，2029年8月25日償還本金並支付最後一次利息。招標時間2026年10月16日上午10:35至11:35。"
-    },
-    {
-      "id": "mkt:01a1254e-e92c-7ee0-a824-5c5c1f0432e9",
-      "time": "2026-10-10 18:14:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Topband says it indirectly supplies chargers and adapters, cannot confirm use in Tesla Cybercab】On Oct. 10 Topband told investors it has indirect cooperation with related customers supplying EV chargers and charging adapters, but it cannot obtain details on which vehicle models use its products and therefore cannot confirm involvement with Tesla Cybercab."
-    },
-    {
-      "id": "5136368",
-      "time": "2026-10-10 18:13:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公司是否與特斯拉Cybercab有合作？拓邦股份回應】有投資者向拓邦股份（002139.SZ）提問，特斯拉（TSLA.US）Cybercab拓邦股份是否參與合作？10月10日，公司回答表示，公司在充電樁、轉接頭等產品與相關客戶有間接合作，產品使用車型公司無法獲取具體資訊。"
-    },
-    {
-      "id": "5136367",
-      "time": "2026-10-10 18:11:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拓邦股份：靈巧手整手產品當前處於測試階段】有投資者向拓邦股份（002139.SZ）提問，公司靈巧手整機多久能完成技術驗證？10月10日，公司回答表示，靈巧手整手產品當前處於測試階段，如有相關進展，公司將及時履行資訊披露義務。"
     }
   ]
 }
