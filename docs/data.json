@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-18 05:48:55",
+  "updated": "2026-10-18 05:52:44",
   "count": 12614,
   "items": [
+    {
+      "id": "mkt:01a14bd8-5e74-7ee0-a8ce-7c802566cea3",
+      "time": "2026-10-18 05:50:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA quoted Russia's Interior Ministry saying the black market is flooded with weapons from the Ukrainian conflict zone."
+    },
     {
       "id": "5152062",
       "time": "2026-10-18 05:46:30",
@@ -115447,14 +115455,6 @@
         "國際"
       ],
       "text": "特朗普：這場歷時近七個月的軍事行動已永久阻止伊朗獲取核武器，在這場衝突中陣亡的18名美軍將士“沒有白白犧牲”。"
-    },
-    {
-      "id": "5136719",
-      "time": "2026-10-11 05:49:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民航局：週六利雅得哈立德國王國際機場遇襲事件已造成至少12人死亡、309人受傷。"
     }
   ]
 }
