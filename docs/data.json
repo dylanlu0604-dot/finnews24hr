@@ -1,7 +1,23 @@
 {
-  "updated": "2026-10-17 18:26:55",
+  "updated": "2026-10-17 18:30:44",
   "count": 12585,
   "items": [
+    {
+      "id": "mkt:01a14967-1f0f-7ee0-a8ca-dfdaaa5cbb72",
+      "time": "2026-10-17 18:27:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion at chemical plant in Gujarat state kills at least five】A chemical plant in Gujarat state in western India exploded late on the 16th (local time). Local officials said on the 17th the blast killed at least five workers and injured five others, who were taken to hospital."
+    },
+    {
+      "id": "5151503",
+      "time": "2026-10-17 18:27:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度古吉拉特邦一化工廠發生爆炸 已致至少5人死亡】當地時間16日夜間，印度西部古吉拉特邦一家化工廠發生爆炸。據當地官員17日通報，事故已造成至少5名工人死亡，另有5人受傷，傷者已被緊急送往醫院救治。"
+    },
     {
       "id": "mkt:01a14959-cc5d-7ee0-a8ca-d6d43e2be53d",
       "time": "2026-10-17 18:13:04",
@@ -115211,24 +115227,6 @@
         "WTI"
       ],
       "text": "Ukraine's Energy Ministry says Kyiv and surrounding areas suffered power outages after Russian strikes."
-    },
-    {
-      "id": "5136375",
-      "time": "2026-10-10 18:30:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭能源部表示，俄羅斯發動襲擊後，基輔部分地區及周邊地區停電。"
-    },
-    {
-      "id": "mkt:01a1255a-860e-7ee0-a824-77ea73ae2816",
-      "time": "2026-10-10 18:27:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shenzhen proposes provident fund withdrawals for home renovation】Shenzhen Housing and Construction Bureau says the Shenzhen Housing Provident Fund Center has drafted a notice for public consultation to expand housing provident fund use to support housing consumption. Under the draft, employee households may withdraw from the fund to renovate one property they own in Shenzhen, with a maximum withdrawal of 250,000 yuan. The draft also allows withdrawals to pay property management fees for one owned Shenzhen property, capped at 550 yuan per month."
     }
   ]
 }
