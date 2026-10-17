@@ -1,7 +1,23 @@
 {
   "date": "2026-10-17",
-  "count": 700,
+  "count": 702,
   "items": [
+    {
+      "id": "mkt:01a14854-ac9d-7ee0-a8c8-8c0596aaf367",
+      "time": "2026-10-17 13:27:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cenc determined a magnitude 5.9 earthquake occurred at 13:06 on Oct 17 in Pakistan (27.90°N, 66.25°E); focal depth 10 km."
+    },
+    {
+      "id": "5151376",
+      "time": "2026-10-17 13:27:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月17日13時06分在巴基斯坦（北緯27.90度，東經66.25度）發生5.9級地震，震源深度10千米。"
+    },
     {
       "id": "5151375",
       "time": "2026-10-17 13:23:34",
