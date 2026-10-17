@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-10-18 05:22:15_
-_本檔包含 2503 則快訊，約 478183 字_
+_更新時間：2026-10-18 07:22:03_
+_本檔包含 2498 則快訊，約 478978 字_
+
+---
+
+### 2026-10-15 12:19:32  #央行 #國際
+
+歐洲央行管委科赫爾：目前還不是歐洲央行討論債券市場工具的階段。
+
+---
+
+### 2026-10-15 12:18:46  #其他
+
+【中國科研團隊依託國產大模型 攻克三維Ghys猜想世界級數學難題】近日，困擾國際數學界30餘年的三維Ghys猜想被中國團隊成功攻克，這是我國首次依託國產大模型破解世界級數學難題，實現人工智慧賦能前沿基礎數學研究的標誌性突破。上海人工智慧實驗室訪問學者、大灣區大學許地生教授團隊，依託書生S2科學大模型，採用人機協同全新科研模式，由AI承擔大規模、長鏈條複雜數學推演，科研人員把握研究方向、甄別有效思路，經過多輪迭代互動，完整推匯出三維Ghys猜想的嚴謹證明。
+
+---
+
+### 2026-10-15 12:18:14  #公司
+
+【申萬宏源等在蘇州成立智醫戰新創投基金】企查查APP顯示，近日，申萬工融智醫戰新（蘇州）創業投資基金合夥企業（有限合夥）成立，出資額5億元，經營範圍包含創業投資（限投資未上市企業）。企查查股權穿透顯示，該合夥企業由申萬宏源旗下申銀萬國投資有限公司、江蘇蘇州生物醫藥產業專項母基金（有限合夥）等共同持股。
+
+---
+
+### 2026-10-15 12:18:01  #國際
+
+據美國有線電視新聞網15日凌晨援引美國多名官員的話報道，美國軍方已經制定了新的對伊朗打擊計劃，其中包括考慮使用“炸彈之母”打擊伊朗的能源基礎設施和核設施。（新華社）
+
+---
+
+### 2026-10-15 12:17:38  #觀點
+
+【瑞銀證券：A股下行風險有限 近期回撥源於科技股交易擁擠度的集中釋放】瑞銀證券中國股票策略分析師孟磊在報告中稱，目前A股市場面臨的下行風險有限，因ETF流入、A股盈利仍處於上行週期等。近期的回撥更多源於投資者對於科技板塊此前較高交易擁擠度的集中釋放，公募基金也面臨“回本贖回”的壓力。孟磊稱，自2024年以來，每當上證指數快速回撥至關鍵點位下方，ETF均會獲持續的淨流入。近期的淨流入分佈在滬深300ETF、中證500ETF、中證1000ETF、創業板指ETF與科創50ETF。當前大科技板塊的周度成交額佔全部A股市場的比例已回落至今年四月初水平。成交額排名靠前的個股的交易擁擠度同步大幅回落，顯示尾部風險和交易擁擠已基本得到了釋放。場外資金短期內快速回流的機率較低，因其風險偏好的修復仍需時間。
+
+---
+
+### 2026-10-15 12:16:23  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Zelenskiy says Ukraine will resume strikes on Russian refineries after US limits intelligence and Starlink】FT reports Zelenskiy said Ukraine will resume attacks on Russian refineries and has lifted a previous ban on strikes. He said the US has withdrawn intelligence support and that Starlink satellite internet was restricted during a major Russian offensive, actions he called "dangerous" and deliberate. Zelenskiy said he paused energy-target strikes for three days at US request, but Russia continued heavy attacks on Ukrainian energy infrastructure that killed civilians; during the pause Ukrainian forces stopped receiving US-provided ballistic-missile warning data and Starlink throttling has degraded frontline communications and mid-range strike capabilities. He said US officials warned Ukrainian counterparts they would cut intelligence support if attacks on energy facilities continued; the US later described interruptions as a technical fault, which Zelenskiy rejected as deliberate.
+
+---
+
+### 2026-10-15 12:15:53  #公司
+
+【園林股份：全力開展應收款項清收 加快資金回籠】園林股份在2026年半年度業績說明會上表示，公司已與多家業主單位就工程款項清收事宜開展有效溝通，並積極推進具體回款方案的制定、落地與實施，全力開展應收款項清收，加快資金回籠，保障公司持續穩健經營。
+
+---
+
+### 2026-10-15 12:15:16  #國際
+
+據報道，美軍已制定新的打擊計劃，其中包括在特朗普下令恢復軍事行動時（無論是在中期選舉前還是選舉後），可能使用所謂的“炸彈之母”來打擊伊朗的能源基礎設施和核設施。
+
+---
+
+### 2026-10-15 12:14:37  #國際
+
+【印尼持續野火影響蔓延鄰國：周邊三城位列全球空氣汙染TOP3，東帝汶全國停課三天】印度尼西亞持續蔓延數月的森林火災正令東南亞多國煙霾和空氣汙染加劇，數以百萬計居民幾近窒息。14日，新加坡西部細顆粒物汙染水平（PM2.5）升至當地監測體系的最高階別：煙霾同時波及馬來西亞，並遠至菲律賓和東帝汶；東帝汶政府已宣佈，自10月15日起全國學校停課三天。
+
+---
+
+### 2026-10-15 12:13:48  #其他
+
+【國產客機C909今年已載客超814萬】據航班管家，截至2026年9月末，C909累計交付188架，C919累計交付43架。9月末民航客運機隊中，國產飛機架數佔整體的4.9%。2026年前三季度，國產客機執飛航班量佔民航整體的4.5%。
+
+---
+
+### 2026-10-15 12:13:45  #MKT News
+
+【Domestic jet C909 has carried over 8.15 mln passengers YTD (2026)】As of end-September 2026 cumulative deliveries stood at 188 C909s and 43 C919s; domestically-built aircraft accounted for 4.9% of the civil passenger fleet. In Jan–Sep 2026 domestic jets operated 4.5% of civil aviation flights; a flight-data service estimates passenger volumes of 8.147 mln for the C909 and 4.454 mln for the C919.
+
+---
+
+### 2026-10-15 12:12:42  #觀點
+
+【多家機構下調摩根士丹利目標價】TD考恩將摩根士丹利目標股價從210美元下調至205美元；傑富瑞將摩根士丹利目標價從223美元下調至209美元；加拿大皇家銀行將摩根士丹利目標股價從243美元下調至195美元。
+
+---
+
+### 2026-10-15 12:12:05  #國際
+
+【格陵蘭島官員否認美國即將上島大規模勘探】針對美國總統特朗普14日關於美國即將在格陵蘭島進行大規模石油、天然氣和礦產資源勘探的言論，格陵蘭島官員表示，距離開展這些活動“還早”。與此同時，丹麥外交部表示，美國、丹麥及其自治領地格陵蘭島9月簽署的協議並未給予美國在獲取格陵蘭島自然資源方面任何優待。格陵蘭島礦業部副部長約恩·哈梅肯-霍爾姆稱，的確有美國企業在該島開展小型勘探活動，但“離大規模勘探還早”。
+
+---
+
+### 2026-10-15 12:11:39  #Trading Economics #Markets #Taiwan #Currency #Importance 1
+
+Taiwanese Dollar Hits Lowest in Over 2 Months — The Taiwanese dollar depreciated past 32.3 per US dollar, its weakest level since early August as a sharp selloff in global semiconductor stocks weighed on regional currencies and dampened demand for technology-related assets. Taiwan’s stock market dropped more than 3%, its steepest decline since July, as concerns over elevated US interest rates, stretched valuations and the returns from massive artificial intelligence investments prompted foreign investors to pull funds from the region. Foreign investors sold a net NT$165.3 billion of Taiwanese equities on Tuesday, the third-largest daily outflow on record, with selling continuing for a sixth consecutive session on Wednesday. Hotter-than-expected US inflation data further fueled concerns over additional Federal Reserve rate hikes, adding to pressure on Asian currencies. However, falling US Treasury yields and oil prices offered some relief, while state-owned banks intervened to support liquidity in the local foreign exchange market.
 
 ---
 
@@ -15008,119 +15092,5 @@ IMF managing director said low-income countries and those that have not benefite
 ### 2026-10-14 11:07:28  #公司
 
 【中證協：券商研究依賴分倉佣金的盈利模式難以為繼】近日，中證協向券商下發了《2025年證券公司釋出證券研究報告業務經營情況統計報告》，報告指出，2025年，隨著公募基金收費改革政策的落地實施，全行業公募佣金分倉總收入僅為2021年的一半。受收入下滑影響，證券研究人員總量縮減，離職人員規模上升，行業人員流動頻繁，優質分析師向買方機構流失或向境外子公司流動，加劇研究人才缺口，導致研報產出總量和質量的下降，傳統依賴分倉佣金的盈利模式已難以為繼，亟須轉型探索新的業務發展路徑。
-
----
-
-### 2026-10-14 11:07:03  #市場
-
-國際貨幣基金組織總裁指出發達經濟體國債收益率上升。
-
----
-
-### 2026-10-14 11:06:51  #MKT News #WTI #Impact bullish #Brent #Copper
-
-【CUSTOMS: China's ship exports top 350 billion yuan in Jan–Sep, up 24.6%】CUSTOMS spokesperson and deputy director Wang Jun told a State Council Information Office briefing that in Jan–Sep China's ship exports exceeded 350 billion yuan, up 24.6%. 300,000‑ton class oil tankers and large LPG and LNG carriers recorded multi‑fold growth; methanol- and ammonia-fuel vessel types continued iterative upgrades. Electronic component exports rose 70%; electrical wire, cable and related equipment climbed 25.3%, supporting global AI compute and power infrastructure. Amid Middle East instability and tighter global energy and chemical feedstock supplies, exports of basic organic chemicals grew 24.4% and primary-form plastics rose 32.2%.
-
----
-
-### 2026-10-14 11:06:50  #其他
-
-國際貨幣基金組織總裁格奧爾基耶娃表示，發達經濟體在利用疫情後復甦重建緩衝方面做得最差。
-
----
-
-### 2026-10-14 11:06:29  #其他
-
-國際貨幣基金組織總裁：低收入國家及未趕上科技發展浪潮的國家處境更糟。
-
----
-
-### 2026-10-14 11:06:05  #經濟數據 #中國
-
-【海關總署：前三季度我國進口增速快於出口5.9個百分點】海關總署釋出資料顯示，前三季度，我國進口增速快於出口5.9個百分點。得益於中歐班列和西部陸海新通道建設，中西部地區對外開放步伐明顯加快，中部地區進出口增長20.5%，西部地區增長25.7%。
-
----
-
-### 2026-10-14 11:06:00  #國際
-
-【海關總署：前三季度我國船舶出口超3500億元 增長24.6%】海關總署新聞發言人、副署長王軍在國新辦新聞釋出會上表示，前三季度，我國船舶出口超3500億元，增長24.6%，其中30萬噸級的油輪、大型液化石油氣船和液化天然氣船均實現成倍增長，甲醇、氨等綠色燃料船型持續迭代升級，為全球能源運輸加“油”打“氣”。工業機器人產業加快數智賦能，出口近百億元，增長16.9%，助力貿易伙伴製造業轉型升級。電子元件出口增長70%，電線電纜等電工器材增長25.3%，為全球AI算力和電力基建發展強“芯”通“脈”。在中東局勢不穩，全球能源、化工原料供給緊張的情況下，前三季度，我國基本有機化學品出口增長24.4%，初級形狀的塑膠增長32.2%，為各國生產輸“液”加“料”。
-
----
-
-### 2026-10-14 11:05:56  #經濟數據 #中國
-
-【中國造“預製房”走紅海外 前三季度民企出口增長近三成】海關總署副署長王軍在國新辦新聞釋出會上表示，精準洞察市場需求是民營企業開拓市場的制勝法寶之一。他舉例指出，近年來，全球精緻露營、戶外度假熱潮持續升溫。我國民營企業開發出新型預製式帳篷房屋，以模組化組建，分批打包出口，運抵後簡單拼裝即可投入使用。產品設計新穎、質量過硬，走紅海外。前三季度民營企業出口各類活動房屋，增長近三成。
-
----
-
-### 2026-10-14 11:05:48  #央行 #澳洲聯儲
-
-【高盛：澳洲聯儲9月會議紀要明顯偏鷹 11月加息門檻有所降低】高盛經濟研究部門的三名分析師在一份報告中表示，澳洲聯儲週二公佈的9月貨幣政策會議紀要，可能降低了央行在11月再次加息的門檻。
-
----
-
-### 2026-10-14 11:05:47  #MKT News #Market Themes #AI Revolution #Copper #Impact bullish #WTI #S&P500
-
-IMF managing director says economies linked to AI supply chains show stronger economic performance.
-
----
-
-### 2026-10-14 11:05:34  #MKT News
-
-IMF Managing Director said high interest rates are increasing debt-service pressure.
-
----
-
-### 2026-10-14 11:05:25  #經濟數據 #中國
-
-【前三季度 我國與共建“一帶一路”國家進出口超20萬億元】國務院新聞辦公室舉行新聞釋出會，介紹2026年前三季度進出口情況。近年來，我國與共建“一帶一路”國家經貿合作不斷加深，雙邊貿易規模穩步擴大。今年前三季度，我國對共建國家進出口20.37萬億元，增長17.1%，出口和進口分別增長16.6%、17.9%。
-
----
-
-### 2026-10-14 11:05:22  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-IMF managing director said persistent high inflation across many regions has pushed interest rates higher.
-
----
-
-### 2026-10-14 11:05:03  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish
-
-IMF managing director says global economic resilience is nearing its limits.
-
----
-
-### 2026-10-14 11:05:01  #MKT News #CNH #Impact bullish #CSI300 #DXY #Impact bearish
-
-【China-made prefab modular housing wins overseas demand; private exports up nearly 30% through Q3】Customs deputy head Wang Jun told a State Council Information Office briefing on Oct. 14 that Chinese private firms have developed modular prefabricated tent housing for the global glamping and outdoor tourism market, shipped in packaged modules for simple on-site assembly, and the products have become popular overseas. Exports of various temporary/mobile housing by private firms rose nearly 30% in the first three quarters.
-
----
-
-### 2026-10-14 11:05:00  #其他
-
-國際貨幣基金組織總裁：許多地區通脹居高不下，導致利率上升。
-
----
-
-### 2026-10-14 11:05:00  #經濟數據 #中國
-
-【海關總署：前三季度我國船舶出口超3500億元 增長24.6%】海關總署新聞發言人、副署長王軍在國新辦新聞釋出會上表示，前三季度，我國船舶出口超3500億元，增長24.6%，其中30萬噸級的油輪、大型液化石油氣船和液化天然氣船均實現成倍增長，甲醇、氨等綠色燃料船型持續迭代升級，為全球能源運輸加“油”打“氣”。
-
----
-
-### 2026-10-14 11:04:51  #其他
-
-國際貨幣基金組織總裁：高利率加劇償債壓力。
-
----
-
-### 2026-10-14 11:04:43  #MKT News
-
-【China trade with Belt and Road partners 20.37 tln yuan Jan–Sep 2026, +17.1% YoY】China's goods trade with Belt and Road partners totaled 20.37 tln yuan in Jan–Sep 2026, up 17.1% YoY; exports rose 16.6% and imports 17.9%, according to the State Council Information Office.
-
----
-
-### 2026-10-14 11:04:26  #其他
-
-【中國造“預製房”走紅海外 前三季度民企出口增長近三成】10月14日，海關總署副署長王軍在國新辦新聞釋出會上表示，精準洞察市場需求是民營企業開拓市場的制勝法寶之一。他舉例指出，近年來，全球精緻露營、戶外度假熱潮持續升溫。我國民營企業開發出新型預製式帳篷房屋，以模組化組建，分批打包出口，運抵後簡單拼裝即可投入使用。產品設計新穎、質量過硬，走紅海外。前三季度民營企業出口各類活動房屋，增長近三成。
 
 ---

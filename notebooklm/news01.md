@@ -1,7 +1,180 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-10-18 05:22:15_
-_本檔包含 2546 則快訊，約 479026 字_
+_更新時間：2026-10-18 07:22:03_
+_本檔包含 2556 則快訊，約 479234 字_
+
+---
+
+### 2026-10-18 07:15:53  #公司 #國際
+
+【韓國邊緣 AI 晶片初創企業 DeepX 正依託先發戰略佈局全球物理 AI 市場，積極拓展與英特爾、AMD、三星電子、現代汽車集團的合作】DeepX 旗艦 NPU 晶片 DX-M1 採用三星 5 奈米工藝實現量產，正推進將自家 NPU 接入英特爾 OpenVINO 生態，相關成果預計明年初落地；目前也在和 AMD 洽談物理 AI 領域合作。公司計劃本月完成三星 2 奈米新工藝晶片的流片，首批晶片預計明年 3 至 4 月產出。市場層面，2025 年 8 月至 2026 年 7 月，DeepX 斬獲來自十餘個國家的 77 份訂單，已簽約 27 家全球半導體分銷商，約 300 家機構正在評估其產品。公司計劃在日本、歐洲設立分支機構，今年晚些時候推出適配英偉達 Isaac 機器人平臺的機器人管理軟體 DX-Newton。DeepX 執行長金洛元表示，上市並非最終目標，但希望未來三年內完成 IPO。
+
+---
+
+### 2026-10-18 07:13:16  #其他
+
+【我國首個十萬卡AI 超叢集 “能裝一個宇宙”】正在深圳舉行的2026全國高效能運算學術大會上，今年剛剛建成的我國首個全國產十萬卡AI超叢集真機亮相，併發布十大重要應用成果。它的算力可以支撐在計算機裡，創造一個數字孿生大腦，甚至是創造一個模擬百億光年演化的宇宙。（央視新聞）
+
+---
+
+### 2026-10-18 07:03:48  #國際
+
+【俄國防部稱大規模打擊烏能源設施】當地時間17日凌晨，俄軍對烏克蘭多地為烏軍方提供保障的相關企業和能源設施實施大規模打擊。烏克蘭總統澤連斯基當天表示，烏全國超過15處重要能源設施遭俄軍襲擊。俄國防部通報稱，17日凌晨，俄軍使用陸基、空基和海基高精度武器及攻擊型無人機，對克里沃羅格、扎波羅熱和日托米爾等地為烏軍方提供相關保障的冶金企業、變壓器生產企業及能源設施實施大規模打擊。俄軍還在黑海海域擊中一艘向敖德薩港運輸軍用物資的乾貨船。此外，俄軍防空系統在多地擊落654架烏軍無人機。烏克蘭空軍17日通報稱，16日晚至17日晨，烏克蘭防空部隊攔截293個空中目標，其中包括4枚“口徑”巡航導彈以及289架各型別無人機。烏克蘭總統澤連斯基稱，俄羅斯動用320多架無人機及各類導彈，對烏克蘭能源設施、多個城市和社群發動襲擊。烏克蘭能源系統遭大規模襲擊，15處以上重要發電和輸電設施被攻擊。澤連斯基稱，俄方試圖在冬季來臨前破壞烏能源供應，造成大範圍停電。(央視新聞)
+
+---
+
+### 2026-10-18 07:02:21  #其他
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、從烏蘭察布轉型記，感悟“統籌區域發展”之道
+2、李強出席2026世界傳統醫藥大會開幕式並致辭
+3、李強同烏茲別克總理阿里波夫會談
+4、李強抵達塔什干開始對烏茲別克進行正式訪問
+5、減貧之路，眾行方能致遠
+6、克羅埃西亞總統米拉諾維奇會見王毅
+
+---
+
+### 2026-10-18 07:00:15  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、“有高遠目標，更有耐心有定力”——習近平總書記在內蒙古烏蘭察布考察紀實
+2、從亞太夥伴關係到亞太共同體——習近平主席引領推動亞太合作邁上新臺階
+3、堅持生態優先，因地制宜推動高質量發展——習近平總書記內蒙古烏蘭察布考察重要講話激勵廣大幹部群眾銳意進取、奮力拼搏
+4、李強會見烏茲別克總統米爾濟約耶夫
+5、王滬寧在四川調研時強調 堅持為推進中國式現代化凝心聚力 紮實做好新時代黨的民族宗教工作
+
+---
+
+### 2026-10-18 06:54:03  #焦點 #國際
+
+【美對伊朗發動新一輪軍事打擊的機率上升】近期美國總統特朗普再次威脅打擊伊朗鎬山地下設施，與此同時有分析稱美軍在中東地區動作頻頻。分析認為，這一系列動向表示，美國再次對伊朗發動軍事打擊的可能性顯著加大。（央視新聞）
+
+---
+
+### 2026-10-18 06:50:31  #其他
+
+法國利摩日市政廳在全國性抗議騷亂期間，遭示威人群縱火焚燒，鐘樓與建築主體發生坍塌。這座被列為歷史保護建築的建築已存在150年。
+
+---
+
+### 2026-10-18 06:47:14  #國際
+
+【美俄“握手” 烏歐“皺眉” 西方對俄分歧持續顯化】從達成柴油供應協議，到暫緩實施新一輪對俄製裁，美國近期一系列對俄政策調整，引發烏克蘭和歐洲方面不滿。烏克蘭總統澤連斯基一方面批評美方相關決定，呼籲歐盟加大對烏支援力度，一方面表示仍願繼續透過美國參與的外交渠道推動結束戰爭。美俄合作出現新動向，美烏歐對俄政策分歧顯現。分析稱，美政策調整令烏戰場短期承壓，但結合美中期選舉來看，俄烏衝突仍會維持僵持消耗態勢。（央視新聞）
+
+---
+
+### 2026-10-18 06:43:22  #其他
+
+沙特領導的聯軍稱，一架無人機在利雅得上空被攔截並摧毀。
+
+---
+
+### 2026-10-18 06:27:26  #國際
+
+【美國堪薩斯州一車輛衝入足球場 致多人死傷】當地時間10月17日，美國堪薩斯州威奇托市一處體育中心當天發生車輛衝撞事件，造成至少兩人死亡，另有多人受傷。當地警方表示，事故發生在格林威治路2999號的斯特賴克體育中心。現場目擊者稱，一輛黑色皮卡車衝入青少年足球場，撞到多人後繼續行駛一段距離才停下。大批急救人員趕赴現場，對傷者展開救治。警方表示，肇事司機已被拘留，目前不存在進一步的持續性威脅。具體傷亡總數及事件原因尚未公佈。（央視新聞）
+
+---
+
+### 2026-10-18 06:11:15  #其他
+
+【葉門胡塞武裝稱擊落一架沙特“阿帕奇”武裝直升機】葉門胡塞武裝17日說，該組織當天擊落沙烏地阿拉伯邊境地區上空的一架“阿帕奇”武裝直升機。胡塞武裝發言人葉海亞·薩雷亞在社交媒體發表宣告說，這架直升機當時正在沙特奈季蘭附近地區，對胡塞武裝陣地實施敵對行動。（新華社）
+
+---
+
+### 2026-10-18 06:09:37  #公司
+
+【維多集團傳奇石油衍生品交易員Yaoyao Liu將離職】Yaoyao Liu將離開大宗商品交易巨頭維多集團。他的職業生涯經歷大起大落，曾透過石油衍生品交易為該公司賺取數十億美元。據知情人士透露，現年39歲的Liu在今年年中前後已不再參與日常交易。他離職之際，其團隊的交易賬簿已連續兩年出現重大虧損頭寸。不過，在今年的交易動盪之前，他早在2025年就已開始規劃退休。
+
+---
+
+### 2026-10-18 06:06:18  #國際
+
+美國堪薩斯州威奇托市斯特賴克體育中心發生一起涉車輛的“大規模傷亡事件”，當地警方已趕赴現場，多人受傷。警方表示目前不存在持續威脅。
+
+---
+
+### 2026-10-18 06:04:07  #其他
+
+法國總理表示，法國各地騷亂中已有超過1200人被捕，150名警察和憲兵受傷。
+
+---
+
+### 2026-10-18 05:57:06  #MKT News
+
+【Yemen parliamentary speaker urges Egypt to avoid involvement in war】The speaker of Yemen’s parliament wrote to his Egyptian counterpart urging Cairo not to be drawn into a war he said contradicts Egypt’s values. He warned that Egyptian involvement would pose a serious threat to national security and internal stability, and urged Egypt to resist following Saudi government policy to avoid dragging the region into wider turmoil.
+
+---
+
+### 2026-10-18 05:54:08  #其他
+
+沙特領導的聯軍稱，胡塞武裝向哈米斯穆謝特發射的兩枚彈道導彈已被攔截並摧毀。
+
+---
+
+### 2026-10-18 05:50:33  #MKT News
+
+RIA quoted Russia's Interior Ministry saying the black market is flooded with weapons from the Ukrainian conflict zone.
+
+---
+
+### 2026-10-18 05:46:30  #國際
+
+【法國外長譴責以色列定居者在約旦河西岸襲擊法國官員】法國外長巴羅17日晚在社交媒體發文說，法國北部歐努瓦艾姆裡市市長貝爾納·博杜當天在約旦河西岸遭到以色列定居者暴力襲擊。巴羅說，以色列當局應立即逮捕肇事者，將其繩之以法，並制止此類犯罪暴力行為，根據國際法義務確保平民安全。（新華社）
+
+---
+
+### 2026-10-18 05:43:32  #MKT News #Star Stocks #Tesla #Market Themes #AI Revolution #Magnificent 7
+
+【Musk admits 'somewhat off track' in political affairs】Foreign media report Tesla CEO Elon Musk said he had "somewhat gone off track" in political affairs, spending about four months at the White House—longer than the one-to-two months he said government involvement should have taken—and that he should have returned sooner to focus on AI.
+
+---
+
+### 2026-10-18 05:43:00  #其他
+
+法國巴黎聖奧諾雷街Burberry門店被哄搶，距愛麗捨宮500米。
+
+---
+
+### 2026-10-18 05:42:22  #其他
+
+市場資訊：法國抗議者可能已逼近至距總統府不到200米處。
+
+---
+
+### 2026-10-18 05:39:25  #市場 #焦點
+
+暗盤金價跌破4150美元/盎司，日內跌幅0.3%。
+
+---
+
+### 2026-10-18 05:34:45  #市場 #焦點
+
+閃迪暗盤跌破1250美元，日內跌3.6%。
+
+---
+
+### 2026-10-18 05:34:35  #市場 #焦點
+
+SK海力士暗盤跌超3%，現報131.185美元。
+
+---
+
+### 2026-10-18 05:31:35  #市場 #焦點
+
+美光暗盤跌超6%，現報819.33美元。
+
+---
+
+### 2026-10-18 05:26:35  #市場 #焦點
+
+AMD暗盤跌破520美元，日內跌2.8%。
+
+---
+
+### 2026-10-18 05:26:10  #其他
+
+沙特民防部門：艾卜哈與海米斯穆謝特兩市的危險已解除。
 
 ---
 
@@ -15296,107 +15469,5 @@ U.S. Treasury official Brown said Japan is no longer in a deflationary environme
 ### 2026-10-16 11:30:58  #公司
 
 【動車字頭4個變7個 鐵路車次編排改革啟動】近日，國鐵集團啟動全國鐵路列車車次編排改革工作，將在11月下旬、12月下旬分2批對現行列車車次的字頭字母、數字號段編排進行全面最佳化調整，拓展車次編排可使用的號段資源。與2014版列車車次的編排相比，新版列車車次做了全面系統最佳化調整，其中動車組旅客列車車次的字頭字母由原來的4個增加至7個，可編排的列車車次數量增長近40%。
-
----
-
-### 2026-10-16 11:30:18  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-U.S. Treasury official Brown said current U.S. economic momentum is strong and progress in Japan gives the Treasury confidence.
-
----
-
-### 2026-10-16 11:30:12  #宏觀 #國際
-
-美國財政部官員布朗：目前美國經濟正處於強勁增長勢頭，我們也從日本取得的成就中獲得了信心。
-
----
-
-### 2026-10-16 11:30:03  #市場
-
-【國債期貨早盤收盤】 30年期主力合約跌0.19%， 10年期主力合約漲0.03%， 5年期主力合約漲0.03%， 2年期主力合約漲0.02%。
-
----
-
-### 2026-10-16 11:30:03  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續漲2.11%， 滬深300指數期貨連續漲1.34%， 中證500指數期貨連續漲2.25%， 上證50指數期貨連續漲1.04%。
-
----
-
-### 2026-10-16 11:30:02  #市場
-
-【商品期貨早盤收盤】鈀連續漲2.81%，多晶矽連續漲2.63%，丁二烯橡膠連續漲2.49%，純苯連續跌2.44%，錫連續漲2.33%。
-
----
-
-### 2026-10-16 11:28:41  #MKT News #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-Treasury official Brown said the IMF should adopt a more balanced approach when assessing the global economic outlook and should consider opportunities arising from a US-led positive economic shock.
-
----
-
-### 2026-10-16 11:28:16  #宏觀 #國際
-
-美國財政部官員布朗：國際貨幣基金組織在評估全球經濟前景時需要採取更平衡的方法，應考慮由美國主導的積極經濟衝擊所帶來的機遇。
-
----
-
-### 2026-10-16 11:27:32  #其他
-
-工信部發布減免車輛購置稅的新能源汽車車型目錄（第三十五批），理想MEGA、理想i6在列。
-
----
-
-### 2026-10-16 11:27:27  #MKT News #Market Themes #China EV Leaders #LI.O #Impact bullish
-
-China's Ministry of Industry and Information Technology (MIIT) published the 35th batch of new-energy vehicle models eligible for vehicle purchase tax reduction/exemption, including Li Auto's MEGA and i6.
-
----
-
-### 2026-10-16 11:27:01  #公司
-
-【Velotric完成2億元C輪融資】10月16日，全球行動科技品牌Velotric（深圳唯樂高科技有限公司）正式宣佈完成2億元C輪融資，國壽股權領投、琥珀資本跟投，老股東追投，光源資本繼續擔任獨家財務顧問。本輪資金將主要用於核心技術研發、新品類拓展以及全球化組織體系建設。
-
----
-
-### 2026-10-16 11:26:43  #其他
-
-【2026年安全應急裝備應用推廣典型案例名單公佈】工業和資訊化部近日公佈2026年安全應急裝備應用推廣典型案例名單，工業製造領域、房屋市政工程領域、交通領域、城鄉消防領域、海洋領域、地震地質災害、洪水內澇災害、冰雪災害、森林草原火災、社群家庭安全應急及其他等10個方向的152個專案上榜。
-
----
-
-### 2026-10-16 11:26:12  #MKT News
-
-【China's first small-to-medium pumped-storage project under 15th Five-Year Plan enters commercial operation】On the 16th, CGN's Hubei Tuanfeng Weijiachong pumped-storage power station — the first small-to-medium pumped-storage project to enter operation during China's 15th Five-Year Plan — had its first unit begin commercial service. The station, in Tuanfeng county, Huanggang, Hubei, has total installed capacity of 298 MW, comprising two 149 MW reversible pump-turbine generator units. The facility, with upper and lower reservoirs and a water conveyance-generation system, will pump at grid off-peak and generate at peak, adding short-term grid flexibility and energy-storage capacity.
-
----
-
-### 2026-10-16 11:26:10  #宏觀 #國際
-
-美國財政部官員布朗：國際貨幣基金組織必須在識別全球失衡問題上更加果斷。
-
----
-
-### 2026-10-16 11:26:10  #MKT News
-
-U.S. Treasury official Brown said the IMF must be more proactive in identifying global imbalances.
-
----
-
-### 2026-10-16 11:26:01  #其他
-
-【“十五五”期間首箇中小型抽水蓄能專案投產】今天（16日），我國“十五五”期間首個投產的中小型抽水蓄能專案——中廣核湖北團風魏家衝抽水蓄能電站首臺機組投入商運。該專案位於湖北省黃岡市團風縣，總裝機容量29.8萬千瓦，安裝有兩臺單機容量14.9萬千瓦的可逆式水泵水輪發電機組。抽水蓄能電站由上、下兩個水庫和輸水發電系統組成，在電網用電低谷時抽水蓄能，用電高峰時放水發電，相當於給電網安裝了一塊“巨型充電寶”。（央視新聞）
-
----
-
-### 2026-10-16 11:25:52  #其他
-
-【首份“昆蒙框架”落實評估報告：目標進展普遍滯後】聯合國秘書長古特雷斯15日在亞美尼亞首都埃裡溫釋出首份評估全球集體落實“昆明-蒙特利爾全球生物多樣性框架”進展的報告。報告顯示，各國已廣泛參與框架落實，但全球落實進度總體落後，整體仍偏離實現2030年目標的軌道。“昆蒙框架”確立了到2030年遏制並扭轉生物多樣性喪失的23個行動目標。報告顯示，《生物多樣性公約》196個締約方中，近九成已設立國家生物多樣性目標，近六成已制訂國家生物多樣性戰略和行動計劃，七成以上提交了國家報告。原住民和地方社群、企業和民間社會組織等還登記了約5000項承諾。但這些承諾尚未轉化為足夠進展。報告顯示，23個行動目標中，沒有一個呈現完全積極的局面，各國自評的國家目標中走上正軌的也不到一半。許多國家承諾推廣積極激勵措施，承諾削減有害補貼的國家卻少得多。各國現有承諾也遠不足以實現到2030年保護至少30%的全球陸地和海洋的目標。（新華社）
-
----
-
-### 2026-10-16 11:25:50  #MKT News
-
-【General Conference on Weights and Measures votes to end leap seconds】The 28th General Conference on Weights and Measures on the 15th in Versailles, France adopted a resolution to implement "continuous Coordinated Universal Time" from 20 May 2027. The change means UTC will no longer be adjusted by adding or subtracting leap seconds and could remain continuous for several centuries. UTC is currently the only time scale recommended as an international reference; it runs at the same rate as International Atomic Time while historically using leap seconds to stay close to Earth-rotation-based Universal Time. Since 1972, UTC has added or removed one second when the monitored difference reached 0.9s. Under the resolution the maximum permitted difference going forward is set at 3,600 seconds (one hour).
 
 ---

@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-10-18 05:22:15_
-_本檔包含 2578 則快訊，約 479609 字_
+_更新時間：2026-10-18 07:22:03_
+_本檔包含 2581 則快訊，約 478960 字_
+
+---
+
+### 2026-10-16 11:30:18  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+U.S. Treasury official Brown said current U.S. economic momentum is strong and progress in Japan gives the Treasury confidence.
+
+---
+
+### 2026-10-16 11:30:12  #宏觀 #國際
+
+美國財政部官員布朗：目前美國經濟正處於強勁增長勢頭，我們也從日本取得的成就中獲得了信心。
+
+---
+
+### 2026-10-16 11:30:03  #市場
+
+【國債期貨早盤收盤】 30年期主力合約跌0.19%， 10年期主力合約漲0.03%， 5年期主力合約漲0.03%， 2年期主力合約漲0.02%。
+
+---
+
+### 2026-10-16 11:30:03  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續漲2.11%， 滬深300指數期貨連續漲1.34%， 中證500指數期貨連續漲2.25%， 上證50指數期貨連續漲1.04%。
+
+---
+
+### 2026-10-16 11:30:02  #市場
+
+【商品期貨早盤收盤】鈀連續漲2.81%，多晶矽連續漲2.63%，丁二烯橡膠連續漲2.49%，純苯連續跌2.44%，錫連續漲2.33%。
+
+---
+
+### 2026-10-16 11:28:41  #MKT News #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+Treasury official Brown said the IMF should adopt a more balanced approach when assessing the global economic outlook and should consider opportunities arising from a US-led positive economic shock.
+
+---
+
+### 2026-10-16 11:28:16  #宏觀 #國際
+
+美國財政部官員布朗：國際貨幣基金組織在評估全球經濟前景時需要採取更平衡的方法，應考慮由美國主導的積極經濟衝擊所帶來的機遇。
+
+---
+
+### 2026-10-16 11:27:32  #其他
+
+工信部發布減免車輛購置稅的新能源汽車車型目錄（第三十五批），理想MEGA、理想i6在列。
+
+---
+
+### 2026-10-16 11:27:27  #MKT News #Market Themes #China EV Leaders #LI.O #Impact bullish
+
+China's Ministry of Industry and Information Technology (MIIT) published the 35th batch of new-energy vehicle models eligible for vehicle purchase tax reduction/exemption, including Li Auto's MEGA and i6.
+
+---
+
+### 2026-10-16 11:27:01  #公司
+
+【Velotric完成2億元C輪融資】10月16日，全球行動科技品牌Velotric（深圳唯樂高科技有限公司）正式宣佈完成2億元C輪融資，國壽股權領投、琥珀資本跟投，老股東追投，光源資本繼續擔任獨家財務顧問。本輪資金將主要用於核心技術研發、新品類拓展以及全球化組織體系建設。
+
+---
+
+### 2026-10-16 11:26:43  #其他
+
+【2026年安全應急裝備應用推廣典型案例名單公佈】工業和資訊化部近日公佈2026年安全應急裝備應用推廣典型案例名單，工業製造領域、房屋市政工程領域、交通領域、城鄉消防領域、海洋領域、地震地質災害、洪水內澇災害、冰雪災害、森林草原火災、社群家庭安全應急及其他等10個方向的152個專案上榜。
+
+---
+
+### 2026-10-16 11:26:12  #MKT News
+
+【China's first small-to-medium pumped-storage project under 15th Five-Year Plan enters commercial operation】On the 16th, CGN's Hubei Tuanfeng Weijiachong pumped-storage power station — the first small-to-medium pumped-storage project to enter operation during China's 15th Five-Year Plan — had its first unit begin commercial service. The station, in Tuanfeng county, Huanggang, Hubei, has total installed capacity of 298 MW, comprising two 149 MW reversible pump-turbine generator units. The facility, with upper and lower reservoirs and a water conveyance-generation system, will pump at grid off-peak and generate at peak, adding short-term grid flexibility and energy-storage capacity.
+
+---
+
+### 2026-10-16 11:26:10  #宏觀 #國際
+
+美國財政部官員布朗：國際貨幣基金組織必須在識別全球失衡問題上更加果斷。
+
+---
+
+### 2026-10-16 11:26:10  #MKT News
+
+U.S. Treasury official Brown said the IMF must be more proactive in identifying global imbalances.
+
+---
+
+### 2026-10-16 11:26:01  #其他
+
+【“十五五”期間首箇中小型抽水蓄能專案投產】今天（16日），我國“十五五”期間首個投產的中小型抽水蓄能專案——中廣核湖北團風魏家衝抽水蓄能電站首臺機組投入商運。該專案位於湖北省黃岡市團風縣，總裝機容量29.8萬千瓦，安裝有兩臺單機容量14.9萬千瓦的可逆式水泵水輪發電機組。抽水蓄能電站由上、下兩個水庫和輸水發電系統組成，在電網用電低谷時抽水蓄能，用電高峰時放水發電，相當於給電網安裝了一塊“巨型充電寶”。（央視新聞）
+
+---
+
+### 2026-10-16 11:25:52  #其他
+
+【首份“昆蒙框架”落實評估報告：目標進展普遍滯後】聯合國秘書長古特雷斯15日在亞美尼亞首都埃裡溫釋出首份評估全球集體落實“昆明-蒙特利爾全球生物多樣性框架”進展的報告。報告顯示，各國已廣泛參與框架落實，但全球落實進度總體落後，整體仍偏離實現2030年目標的軌道。“昆蒙框架”確立了到2030年遏制並扭轉生物多樣性喪失的23個行動目標。報告顯示，《生物多樣性公約》196個締約方中，近九成已設立國家生物多樣性目標，近六成已制訂國家生物多樣性戰略和行動計劃，七成以上提交了國家報告。原住民和地方社群、企業和民間社會組織等還登記了約5000項承諾。但這些承諾尚未轉化為足夠進展。報告顯示，23個行動目標中，沒有一個呈現完全積極的局面，各國自評的國家目標中走上正軌的也不到一半。許多國家承諾推廣積極激勵措施，承諾削減有害補貼的國家卻少得多。各國現有承諾也遠不足以實現到2030年保護至少30%的全球陸地和海洋的目標。（新華社）
+
+---
+
+### 2026-10-16 11:25:50  #MKT News
+
+【General Conference on Weights and Measures votes to end leap seconds】The 28th General Conference on Weights and Measures on the 15th in Versailles, France adopted a resolution to implement "continuous Coordinated Universal Time" from 20 May 2027. The change means UTC will no longer be adjusted by adding or subtracting leap seconds and could remain continuous for several centuries. UTC is currently the only time scale recommended as an international reference; it runs at the same rate as International Atomic Time while historically using leap seconds to stay close to Earth-rotation-based Universal Time. Since 1972, UTC has added or removed one second when the monitored difference reached 0.9s. Under the resolution the maximum permitted difference going forward is set at 3,600 seconds (one hour).
 
 ---
 
@@ -15482,89 +15584,5 @@ ECB Governing Council member Kocher said the ECB is not yet at the stage of disc
 ### 2026-10-15 12:20:16  #宏觀 #公司 #國際
 
 【韓國加強對外資銀行審查，一筆債券發行遭推遲】據知情人士透露，韓國正考慮出臺限制措施，禁止部分外資銀行安排境外債券發行；在此背景下，監管視窗指導已導致至少一單相關交易延期。韓國最大汽車租賃企業樂天租賃週二表示，推遲首次美元公募債券發行。不願具名的訊息人士稱，該決定部分源於政府視窗指導。訊息人士表示，監管部門對該公司指定凱基亞洲作為承銷安排方一事提出顧慮，原因是這家臺資機構不具備韓國本土證券牌照。本次受阻拉長了交易週期，疊加收益率上行令市場環境轉差，最終促使企業推遲發債。樂天租賃這一案例，是有報道稱韓國監管考量限制無本土證券牌照外資投行代理本土發行人離岸債券業務後，首起已知受阻的交易。此事也凸顯，即便沒有正式發文，非官方的監管意見也能左右交易成敗。
-
----
-
-### 2026-10-15 12:19:32  #央行 #國際
-
-歐洲央行管委科赫爾：目前還不是歐洲央行討論債券市場工具的階段。
-
----
-
-### 2026-10-15 12:18:46  #其他
-
-【中國科研團隊依託國產大模型 攻克三維Ghys猜想世界級數學難題】近日，困擾國際數學界30餘年的三維Ghys猜想被中國團隊成功攻克，這是我國首次依託國產大模型破解世界級數學難題，實現人工智慧賦能前沿基礎數學研究的標誌性突破。上海人工智慧實驗室訪問學者、大灣區大學許地生教授團隊，依託書生S2科學大模型，採用人機協同全新科研模式，由AI承擔大規模、長鏈條複雜數學推演，科研人員把握研究方向、甄別有效思路，經過多輪迭代互動，完整推匯出三維Ghys猜想的嚴謹證明。
-
----
-
-### 2026-10-15 12:18:14  #公司
-
-【申萬宏源等在蘇州成立智醫戰新創投基金】企查查APP顯示，近日，申萬工融智醫戰新（蘇州）創業投資基金合夥企業（有限合夥）成立，出資額5億元，經營範圍包含創業投資（限投資未上市企業）。企查查股權穿透顯示，該合夥企業由申萬宏源旗下申銀萬國投資有限公司、江蘇蘇州生物醫藥產業專項母基金（有限合夥）等共同持股。
-
----
-
-### 2026-10-15 12:18:01  #國際
-
-據美國有線電視新聞網15日凌晨援引美國多名官員的話報道，美國軍方已經制定了新的對伊朗打擊計劃，其中包括考慮使用“炸彈之母”打擊伊朗的能源基礎設施和核設施。（新華社）
-
----
-
-### 2026-10-15 12:17:38  #觀點
-
-【瑞銀證券：A股下行風險有限 近期回撥源於科技股交易擁擠度的集中釋放】瑞銀證券中國股票策略分析師孟磊在報告中稱，目前A股市場面臨的下行風險有限，因ETF流入、A股盈利仍處於上行週期等。近期的回撥更多源於投資者對於科技板塊此前較高交易擁擠度的集中釋放，公募基金也面臨“回本贖回”的壓力。孟磊稱，自2024年以來，每當上證指數快速回撥至關鍵點位下方，ETF均會獲持續的淨流入。近期的淨流入分佈在滬深300ETF、中證500ETF、中證1000ETF、創業板指ETF與科創50ETF。當前大科技板塊的周度成交額佔全部A股市場的比例已回落至今年四月初水平。成交額排名靠前的個股的交易擁擠度同步大幅回落，顯示尾部風險和交易擁擠已基本得到了釋放。場外資金短期內快速回流的機率較低，因其風險偏好的修復仍需時間。
-
----
-
-### 2026-10-15 12:16:23  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Zelenskiy says Ukraine will resume strikes on Russian refineries after US limits intelligence and Starlink】FT reports Zelenskiy said Ukraine will resume attacks on Russian refineries and has lifted a previous ban on strikes. He said the US has withdrawn intelligence support and that Starlink satellite internet was restricted during a major Russian offensive, actions he called "dangerous" and deliberate. Zelenskiy said he paused energy-target strikes for three days at US request, but Russia continued heavy attacks on Ukrainian energy infrastructure that killed civilians; during the pause Ukrainian forces stopped receiving US-provided ballistic-missile warning data and Starlink throttling has degraded frontline communications and mid-range strike capabilities. He said US officials warned Ukrainian counterparts they would cut intelligence support if attacks on energy facilities continued; the US later described interruptions as a technical fault, which Zelenskiy rejected as deliberate.
-
----
-
-### 2026-10-15 12:15:53  #公司
-
-【園林股份：全力開展應收款項清收 加快資金回籠】園林股份在2026年半年度業績說明會上表示，公司已與多家業主單位就工程款項清收事宜開展有效溝通，並積極推進具體回款方案的制定、落地與實施，全力開展應收款項清收，加快資金回籠，保障公司持續穩健經營。
-
----
-
-### 2026-10-15 12:15:16  #國際
-
-據報道，美軍已制定新的打擊計劃，其中包括在特朗普下令恢復軍事行動時（無論是在中期選舉前還是選舉後），可能使用所謂的“炸彈之母”來打擊伊朗的能源基礎設施和核設施。
-
----
-
-### 2026-10-15 12:14:37  #國際
-
-【印尼持續野火影響蔓延鄰國：周邊三城位列全球空氣汙染TOP3，東帝汶全國停課三天】印度尼西亞持續蔓延數月的森林火災正令東南亞多國煙霾和空氣汙染加劇，數以百萬計居民幾近窒息。14日，新加坡西部細顆粒物汙染水平（PM2.5）升至當地監測體系的最高階別：煙霾同時波及馬來西亞，並遠至菲律賓和東帝汶；東帝汶政府已宣佈，自10月15日起全國學校停課三天。
-
----
-
-### 2026-10-15 12:13:48  #其他
-
-【國產客機C909今年已載客超814萬】據航班管家，截至2026年9月末，C909累計交付188架，C919累計交付43架。9月末民航客運機隊中，國產飛機架數佔整體的4.9%。2026年前三季度，國產客機執飛航班量佔民航整體的4.5%。
-
----
-
-### 2026-10-15 12:13:45  #MKT News
-
-【Domestic jet C909 has carried over 8.15 mln passengers YTD (2026)】As of end-September 2026 cumulative deliveries stood at 188 C909s and 43 C919s; domestically-built aircraft accounted for 4.9% of the civil passenger fleet. In Jan–Sep 2026 domestic jets operated 4.5% of civil aviation flights; a flight-data service estimates passenger volumes of 8.147 mln for the C909 and 4.454 mln for the C919.
-
----
-
-### 2026-10-15 12:12:42  #觀點
-
-【多家機構下調摩根士丹利目標價】TD考恩將摩根士丹利目標股價從210美元下調至205美元；傑富瑞將摩根士丹利目標價從223美元下調至209美元；加拿大皇家銀行將摩根士丹利目標股價從243美元下調至195美元。
-
----
-
-### 2026-10-15 12:12:05  #國際
-
-【格陵蘭島官員否認美國即將上島大規模勘探】針對美國總統特朗普14日關於美國即將在格陵蘭島進行大規模石油、天然氣和礦產資源勘探的言論，格陵蘭島官員表示，距離開展這些活動“還早”。與此同時，丹麥外交部表示，美國、丹麥及其自治領地格陵蘭島9月簽署的協議並未給予美國在獲取格陵蘭島自然資源方面任何優待。格陵蘭島礦業部副部長約恩·哈梅肯-霍爾姆稱，的確有美國企業在該島開展小型勘探活動，但“離大規模勘探還早”。
-
----
-
-### 2026-10-15 12:11:39  #Trading Economics #Markets #Taiwan #Currency #Importance 1
-
-Taiwanese Dollar Hits Lowest in Over 2 Months — The Taiwanese dollar depreciated past 32.3 per US dollar, its weakest level since early August as a sharp selloff in global semiconductor stocks weighed on regional currencies and dampened demand for technology-related assets. Taiwan’s stock market dropped more than 3%, its steepest decline since July, as concerns over elevated US interest rates, stretched valuations and the returns from massive artificial intelligence investments prompted foreign investors to pull funds from the region. Foreign investors sold a net NT$165.3 billion of Taiwanese equities on Tuesday, the third-largest daily outflow on record, with selling continuing for a sixth consecutive session on Wednesday. Hotter-than-expected US inflation data further fueled concerns over additional Federal Reserve rate hikes, adding to pressure on Asian currencies. However, falling US Treasury yields and oil prices offered some relief, while state-owned banks intervened to support liquidity in the local foreign exchange market.
 
 ---

@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-10-18 05:22:15_
-_本檔包含 2462 則快訊，約 479798 字_
+_更新時間：2026-10-18 07:22:03_
+_本檔包含 2456 則快訊，約 479225 字_
+
+---
+
+### 2026-10-14 11:07:03  #市場
+
+國際貨幣基金組織總裁指出發達經濟體國債收益率上升。
+
+---
+
+### 2026-10-14 11:06:51  #MKT News #WTI #Impact bullish #Brent #Copper
+
+【CUSTOMS: China's ship exports top 350 billion yuan in Jan–Sep, up 24.6%】CUSTOMS spokesperson and deputy director Wang Jun told a State Council Information Office briefing that in Jan–Sep China's ship exports exceeded 350 billion yuan, up 24.6%. 300,000‑ton class oil tankers and large LPG and LNG carriers recorded multi‑fold growth; methanol- and ammonia-fuel vessel types continued iterative upgrades. Electronic component exports rose 70%; electrical wire, cable and related equipment climbed 25.3%, supporting global AI compute and power infrastructure. Amid Middle East instability and tighter global energy and chemical feedstock supplies, exports of basic organic chemicals grew 24.4% and primary-form plastics rose 32.2%.
+
+---
+
+### 2026-10-14 11:06:50  #其他
+
+國際貨幣基金組織總裁格奧爾基耶娃表示，發達經濟體在利用疫情後復甦重建緩衝方面做得最差。
+
+---
+
+### 2026-10-14 11:06:29  #其他
+
+國際貨幣基金組織總裁：低收入國家及未趕上科技發展浪潮的國家處境更糟。
+
+---
+
+### 2026-10-14 11:06:05  #經濟數據 #中國
+
+【海關總署：前三季度我國進口增速快於出口5.9個百分點】海關總署釋出資料顯示，前三季度，我國進口增速快於出口5.9個百分點。得益於中歐班列和西部陸海新通道建設，中西部地區對外開放步伐明顯加快，中部地區進出口增長20.5%，西部地區增長25.7%。
+
+---
+
+### 2026-10-14 11:06:00  #國際
+
+【海關總署：前三季度我國船舶出口超3500億元 增長24.6%】海關總署新聞發言人、副署長王軍在國新辦新聞釋出會上表示，前三季度，我國船舶出口超3500億元，增長24.6%，其中30萬噸級的油輪、大型液化石油氣船和液化天然氣船均實現成倍增長，甲醇、氨等綠色燃料船型持續迭代升級，為全球能源運輸加“油”打“氣”。工業機器人產業加快數智賦能，出口近百億元，增長16.9%，助力貿易伙伴製造業轉型升級。電子元件出口增長70%，電線電纜等電工器材增長25.3%，為全球AI算力和電力基建發展強“芯”通“脈”。在中東局勢不穩，全球能源、化工原料供給緊張的情況下，前三季度，我國基本有機化學品出口增長24.4%，初級形狀的塑膠增長32.2%，為各國生產輸“液”加“料”。
+
+---
+
+### 2026-10-14 11:05:56  #經濟數據 #中國
+
+【中國造“預製房”走紅海外 前三季度民企出口增長近三成】海關總署副署長王軍在國新辦新聞釋出會上表示，精準洞察市場需求是民營企業開拓市場的制勝法寶之一。他舉例指出，近年來，全球精緻露營、戶外度假熱潮持續升溫。我國民營企業開發出新型預製式帳篷房屋，以模組化組建，分批打包出口，運抵後簡單拼裝即可投入使用。產品設計新穎、質量過硬，走紅海外。前三季度民營企業出口各類活動房屋，增長近三成。
+
+---
+
+### 2026-10-14 11:05:48  #央行 #澳洲聯儲
+
+【高盛：澳洲聯儲9月會議紀要明顯偏鷹 11月加息門檻有所降低】高盛經濟研究部門的三名分析師在一份報告中表示，澳洲聯儲週二公佈的9月貨幣政策會議紀要，可能降低了央行在11月再次加息的門檻。
+
+---
+
+### 2026-10-14 11:05:47  #MKT News #Market Themes #AI Revolution #Copper #Impact bullish #WTI #S&P500
+
+IMF managing director says economies linked to AI supply chains show stronger economic performance.
+
+---
+
+### 2026-10-14 11:05:34  #MKT News
+
+IMF Managing Director said high interest rates are increasing debt-service pressure.
+
+---
+
+### 2026-10-14 11:05:25  #經濟數據 #中國
+
+【前三季度 我國與共建“一帶一路”國家進出口超20萬億元】國務院新聞辦公室舉行新聞釋出會，介紹2026年前三季度進出口情況。近年來，我國與共建“一帶一路”國家經貿合作不斷加深，雙邊貿易規模穩步擴大。今年前三季度，我國對共建國家進出口20.37萬億元，增長17.1%，出口和進口分別增長16.6%、17.9%。
+
+---
+
+### 2026-10-14 11:05:22  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
+
+IMF managing director said persistent high inflation across many regions has pushed interest rates higher.
+
+---
+
+### 2026-10-14 11:05:03  #MKT News #S&P500 #Impact bearish #DXY #Impact bullish
+
+IMF managing director says global economic resilience is nearing its limits.
+
+---
+
+### 2026-10-14 11:05:01  #MKT News #CNH #Impact bullish #CSI300 #DXY #Impact bearish
+
+【China-made prefab modular housing wins overseas demand; private exports up nearly 30% through Q3】Customs deputy head Wang Jun told a State Council Information Office briefing on Oct. 14 that Chinese private firms have developed modular prefabricated tent housing for the global glamping and outdoor tourism market, shipped in packaged modules for simple on-site assembly, and the products have become popular overseas. Exports of various temporary/mobile housing by private firms rose nearly 30% in the first three quarters.
+
+---
+
+### 2026-10-14 11:05:00  #其他
+
+國際貨幣基金組織總裁：許多地區通脹居高不下，導致利率上升。
+
+---
+
+### 2026-10-14 11:05:00  #經濟數據 #中國
+
+【海關總署：前三季度我國船舶出口超3500億元 增長24.6%】海關總署新聞發言人、副署長王軍在國新辦新聞釋出會上表示，前三季度，我國船舶出口超3500億元，增長24.6%，其中30萬噸級的油輪、大型液化石油氣船和液化天然氣船均實現成倍增長，甲醇、氨等綠色燃料船型持續迭代升級，為全球能源運輸加“油”打“氣”。
+
+---
+
+### 2026-10-14 11:04:51  #其他
+
+國際貨幣基金組織總裁：高利率加劇償債壓力。
+
+---
+
+### 2026-10-14 11:04:43  #MKT News
+
+【China trade with Belt and Road partners 20.37 tln yuan Jan–Sep 2026, +17.1% YoY】China's goods trade with Belt and Road partners totaled 20.37 tln yuan in Jan–Sep 2026, up 17.1% YoY; exports rose 16.6% and imports 17.9%, according to the State Council Information Office.
+
+---
+
+### 2026-10-14 11:04:26  #其他
+
+【中國造“預製房”走紅海外 前三季度民企出口增長近三成】10月14日，海關總署副署長王軍在國新辦新聞釋出會上表示，精準洞察市場需求是民營企業開拓市場的制勝法寶之一。他舉例指出，近年來，全球精緻露營、戶外度假熱潮持續升溫。我國民營企業開發出新型預製式帳篷房屋，以模組化組建，分批打包出口，運抵後簡單拼裝即可投入使用。產品設計新穎、質量過硬，走紅海外。前三季度民營企業出口各類活動房屋，增長近三成。
 
 ---
 
@@ -14754,162 +14868,5 @@ SPACEX 統一了 GROK、CURROS 和 X 平臺的訂閱計劃。
 ### 2026-10-13 07:09:33  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish
 
 【UK retail growth weak in September as fuel spending surges】UK consumers held back overall spending in September, with most incremental outlays going to fuel while warm weather supported pubs and depressed clothing sales, the British Retail Consortium and Barclays said. The BRC said total retail sales rose 1.3% YoY in September, up from 0.7% in August but below the 12-month average of 1.5%. Barclays’ card-spend series showed annual growth of 2.0% in September, down from 2.1% in August. Barclays’ household financial confidence index climbed to a seven-month high of 67, yet 68% of consumers said they were concerned about Chancellor John Healey’s Oct. 28 budget and 30% reported cutting discretionary spending.
-
----
-
-### 2026-10-13 07:08:45  #國際
-
-【日本片山皋月出任世行、IMF 發展委員會主席】日本首相高市早苗週一在 X 平臺發文稱，日本財務大臣片山皋月獲選擔任世界銀行與國際貨幣基金組織發展委員會主席。這是該委員會自 1974 年成立以來，首次由日本人出任主席一職。高市早苗表示，期待在片山皋月的帶領下，各方就各類問題開展更深入討論，為國際社會發展作出貢獻，同時助力日本企業海外業務與日本經濟可持續增長。
-
----
-
-### 2026-10-13 07:07:38  #其他
-
-【人民日報：若不切斷流量利益鏈，“飯圈”亂象很容易換個陣地形式捲土重來】“飯圈”亂象之所以成為頑疾，主因在於其背後成熟的流量套路與利益閉環。資本與營銷號靠製造對立、煽動焦慮牟利，粉頭牽頭組織、裹挾低齡群體衝鋒，平臺演算法助推衝突傳播，形成“幕後賺流量、粉絲擔風險”的畸形模式。如果不切斷流量利益鏈，“飯圈”亂象很容易換個陣地、換種形式捲土重來。杜絕體育“飯圈”化，需全社會協同發力，形成治理閉環。法律要持續亮明底線，對圍堵、網暴、組織滋事等行為依法從嚴懲處，深挖幕後煽動者與利益鏈，以剛性約束築牢紅線。網路平臺要切實扛起主體責任，最佳化演算法導向，嚴控對立內容傳播，阻斷戾氣蔓延。家庭與學校要加強青少年法治與媒介素養教育，幫助孩子認清“飯圈”套路，不被圈層裹挾。社會輿論要凝聚共識，倡導文明觀賽，讓體育正能量成為主流。
-
----
-
-### 2026-10-13 07:07:08  #公司
-
-【英特爾、博通CEO警告：資金緊張可能成為AI發展的最大瓶頸】英特爾和博通的執行長警告稱，融資渠道可能成為人工智慧熱潮的主要約束；與此同時，市場對計算基礎設施的需求仍持續超過供給。博通CEO Hock Tan（陳福陽）表示，隨著行業競相建設支撐日益複雜模型所需的基礎設施，融資可能成為比半導體、儲存晶片或電力短缺更大的擴張障礙。Hock Tan週一在新加坡舉行的星展亞洲未來前瞻會議上表示：“我認為最大的約束可能是資本。”
-
----
-
-### 2026-10-13 07:06:59  #公司 #觀點 #國際
-
-花旗集團從法國巴黎銀行挖角兩位高階投行主管，以加強其在歐洲的金融機構與金融贊助團隊。
-
----
-
-### 2026-10-13 07:06:18  #市場 #焦點
-
-比特幣跌破82000美元，日內跌2.26%。
-
----
-
-### 2026-10-13 07:05:29  #市場
-
-澳大利亞S&P/ASX 200指數早盤上漲0.1%，報8,787.20點。
-
----
-
-### 2026-10-13 07:05:03  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-Barclays: UK consumer spending rose 2.0% YoY in September; a separate Barclays measure shows 2.1% YoY for the month.
-
----
-
-### 2026-10-13 07:04:39  #其他
-
-據美聯社：SIX FLAGS佐治亞州過山車事故致一人死亡，多人受傷。
-
----
-
-### 2026-10-13 07:04:22  #公司
-
-【《紐約時報》、《經濟學人》等出版商加入聯盟，旨在遏制未經授權使用人工智慧的行為】《紐約時報》、《法新社》和《經濟學人》週一與40多家出版商共同加入了一個聯盟，旨在防止人工智慧公司未經許可使用其內容或從中獲利。“出版商使用權標準”（SPUR）聯盟於今年2月成立，目前已有來自20多個國家的80多家成員。新成員包括《大西洋月刊》和巴西全國報業協會，它們加入了《金融時報》、英國廣播公司（BBC）和美聯社等創始成員的行列。
-
----
-
-### 2026-10-13 07:03:47  #公司 #國際
-
-【歐盟成員國外長透過針對俄軍工產業近1600項制裁名單 】歐盟成員國外長12日在盧森堡舉行的會議上透過對俄羅斯單次最大規模製裁名單，新增近1600名個人和實體，主要涉及俄軍工領域。歐盟理事會當天發表宣告稱，此次新增制裁物件包括826家俄羅斯企業和擔任這些企業執行長的743名個人，制裁專門針對俄軍工產業的中游供應商。宣告稱，這些企業為俄導彈、無人機和飛機等武器系統提供關鍵零部件，涉及半導體、微電路、通訊裝置、雷達、航空航天、彈藥以及光學和導航系統等領域。根據歐盟現行規定，被制裁的個人和實體在歐盟境內資產將被凍結，歐盟方面禁止直接或間接向其提供資金或經濟資源。被列名的個人還將受到歐盟旅行禁令限制。
-
----
-
-### 2026-10-13 07:03:43  #央行 #國際
-
-【10月13日隔夜要聞一覽】
-1、俄羅斯副總理諾瓦克表示，俄羅斯和美國的企業已開始就柴油供應交易進行談判。諾瓦克還透露，2026年前9個月，俄羅斯向歐洲供應了價值213億美元的能源產品。
-2、葉門胡塞武裝發言人葉海亞·薩雷亞12日發表宣告說，過去24小時內，沙烏地阿拉伯對葉門首都薩那以及焦夫、塔伊茲、薩達、馬裡卜等省發動119次空襲及導彈打擊。
-3、英國首相伯納姆10月12日在議會下院發表講話時說，英國皇家空軍費爾福德基地事件“極有可能”在伊朗境內協調策劃，“幾乎可以肯定”是由伊朗伊斯蘭革命衛隊指揮。而伊朗方面此前否認與事件有關，並對英方提出抗議。
-4、Meta推出新一代 AI 模型Muse Wonder及Muse Wonder Full，稱其在個人和專業智慧體任務上達到行業前沿水平。扎克伯格預計後續更大模型的開發週期將縮短，並計劃透過訂閱、商業服務分成、API和企業服務實現鉅額AI投入的回報。
-5、美聯儲哈瑪克表示，利率需要進一步上調；傾向於幅度更小、頻率更高的加息。
-6、LVMH第三季度營收為185億歐元，預計為185億歐元。時裝與皮具業務三季度有機銷售下滑5%，葡萄酒與烈酒業務表現超預期，三季度有機銷售增長6%。
-7、英偉達與思科聯合推出新型可插拔光模組外形規格USFP（超密小型可插拔），旨在擴充套件AI工廠的網路規模。
-
----
-
-### 2026-10-13 07:02:41  #觀點 #國際
-
-花旗聘請法國巴黎銀行兩名員工，加入其歐洲金融贊助商團隊。
-
----
-
-### 2026-10-13 07:02:12  #其他
-
-巴克萊英國9月消費者支出同比增長2.0%，8月該增幅為2.1%。
-
----
-
-### 2026-10-13 07:01:39  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK BRC total retail sales y/y (Sep) 1.3% vs 0.7% prior.
-
----
-
-### 2026-10-13 07:01:33  #MKT News #Economic Calendar #Important
-
-United Kingdom | BRC Total Retail Sales (YoY) (Sep) | actual 1.3% | previous 0.7%
-
----
-
-### 2026-10-13 07:01:30  #經濟數據 #英國
-
-英國9月BRC同店零售銷售同比增長1%，前值0.50%。
-
----
-
-### 2026-10-13 07:01:23  #其他
-
-英國零售協會資料顯示，9月總銷售額同比增長1.3%，8月增幅為0.7%。
-
----
-
-### 2026-10-13 07:01:11  #其他
-
-英國9月BRC同店零售額同比增長1%。
-
----
-
-### 2026-10-13 07:01:06  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
-
-UK BRC like-for-like retail sales YoY +1.0% in September, versus +0.5% previously.
-
----
-
-### 2026-10-13 07:01:00  #MKT News #Economic Calendar #Important
-
-United Kingdom | BRC Like-for-like Retail Sales (YoY) (Sep) | actual 1% | previous 0.50%
-
----
-
-### 2026-10-13 06:59:01  #公司 #國際
-
-美國加密貨幣行業主要超級政治行動委員會將出資支援內布拉斯加州共和黨參議員皮特·裡基茨的連任競選。該政治行動委員會主要由加密貨幣公司Coinbase、Ripple以及風投巨頭Andreessen Horowitz資助，同時也在出資幫助俄亥俄州參議院選舉中的共和黨人。
-
----
-
-### 2026-10-13 06:56:48  #其他
-
-歐姆龍計劃構建物理AI平臺，利用工業計算機上執行的人工智慧協調操控機械與機器人。
-
----
-
-### 2026-10-13 06:55:55  #MKT News
-
-XAI launches X subscription tiers globally, bundling Grok, Grok Bots, Cursor and X Premium; pricing set at $8–$200 per month.
-
----
-
-### 2026-10-13 06:52:17  #其他
-
-XAI：X訂閱服務月費定價在8至200美元之間。
-
----
-
-### 2026-10-13 06:52:03  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Edges Lower in Morning Trade, — The NZX 50 dropped 26 points, or 0.2%, to 13,801 in Tuesday morning trade, erasing gains from the previous session, mainly weighed down by industrials, communication services, utilities, technology, and financials. The broader index tracked a decline in the Nasdaq on Wall Street overnight, led by losses in the tech sector. Rising oil prices pressured sentiment amid heightened concerns over inflation and interest rate hikes. Caution mounted ahead of the release of New Zealand's food inflation and business PMI data due later this week. Traders also awaited US inflation data for clues about the Fed's interest rate decision at its upcoming meeting, as well as China's September CPI, PPI, and trade data amid weak domestic demand and rising oil prices. Among the early losers were Freightways Group (-2.2%), AFT Pharmaceuticals (-2.0%), Auckland International Airport (-1.4%), Skellerup Holdings (-1.3%), Mainfreight (-1.0%), Chorus (-1.0%), and Infratil (-0.9%).
 
 ---
