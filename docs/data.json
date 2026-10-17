@@ -1,7 +1,216 @@
 {
-  "updated": "2026-10-17 22:27:19",
-  "count": 12625,
+  "updated": "2026-10-18 00:30:24",
+  "count": 12600,
   "items": [
+    {
+      "id": "mkt:01a14aac-4dcf-7ee0-a8cc-ac5d85c0c1a7",
+      "time": "2026-10-18 00:22:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Embassy in Riyadh issues another security alert】On the 16th (local time) the U.S. Embassy in Riyadh issued another security alert to U.S. citizens in Saudi Arabia, urging caution and advising they factor in possible flight cancellations and potential closure of Saudi airspace. Washington has issued multiple warnings on Saudi security in recent weeks."
+    },
+    {
+      "id": "mkt:01a14aa9-cb3b-7ee0-a8cc-a0d21fcdad16",
+      "time": "2026-10-18 00:20:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion at munitions depot in Baghdad】Iraqi security sources said on the 17th (local time) a depot storing damaged munitions belonging to the Shia Popular Mobilization Forces east of Baghdad exploded, injuring several people. Cause unknown."
+    },
+    {
+      "id": "5151884",
+      "time": "2026-10-18 00:19:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊拉克首都一彈藥倉庫發生爆炸 】當地時間17日，伊拉克安全部門訊息人士稱，位於該國首都巴格達東部隸屬伊拉克什葉派民兵武裝“人民動員組織”的一處儲存受損彈藥的倉庫發生爆炸，已致多人受傷。爆炸原因不明。（央視新聞）"
+    },
+    {
+      "id": "5151883",
+      "time": "2026-10-18 00:12:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞國防部稱，羅馬尼亞F-16戰鬥機在羅馬尼亞領海上空擊落兩架無人機。"
+    },
+    {
+      "id": "mkt:01a14aa2-f0b0-7ee0-a8cc-99afc14cb339",
+      "time": "2026-10-18 00:12:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reported Romanian F-16s shot down two drones over the Black Sea after they entered Romanian airspace."
+    },
+    {
+      "id": "mkt:01a14aa1-7e7a-7ee0-a8cc-943ade2af045",
+      "time": "2026-10-18 00:10:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's prime minister said the government will not allow any political agenda to be imposed domestically through violence."
+    },
+    {
+      "id": "mkt:01a14a9d-8cb2-7ee0-a8cc-8996e266adc9",
+      "time": "2026-10-18 00:06:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israel Defense Forces said it carried out strikes across multiple areas of the Gaza Strip in recent days, killing four Hamas members."
+    },
+    {
+      "id": "mkt:01a14a97-b400-7ee0-a8cc-839166e998e4",
+      "time": "2026-10-18 00:00:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi-led coalition says it intercepted and destroyed four drones over Riyadh, east and south】On Oct 17 local time, Saudi-led coalition spokesman Turki al-Maliki said the coalition intercepted and destroyed four drones over Riyadh and in eastern and southern regions in the past several hours."
+    },
+    {
+      "id": "5151882",
+      "time": "2026-10-17 23:55:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沙特聯軍稱在利雅得等多地攔截並摧毀4架無人機 】當地時間10月17日，沙特主導的多國聯軍發言人圖爾基·馬利基表示，過去數小時內，聯軍在沙特首都利雅得、東部地區及南部地區攔截並摧毀了4架無人機。（央視新聞）"
+    },
+    {
+      "id": "5151876",
+      "time": "2026-10-17 23:47:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴基斯坦俾路支省20名警察遭武裝分子綁架 】巴基斯坦俾路支省政府官員17日說，該省默斯東地區20名警察16日晚被身份不明的武裝分子綁架。（新華社）"
+    },
+    {
+      "id": "5151875",
+      "time": "2026-10-17 23:46:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩名安全訊息人士：巴格達北部的人民動員部隊總部內發生爆炸，原因尚不清楚；一名人民動員部隊成員死亡，另有四人受傷。"
+    },
+    {
+      "id": "5151834",
+      "time": "2026-10-17 23:22:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【坦尚尼亞加強入境健康篩查 防止埃博拉病毒輸入】坦尚尼亞衛生部當地時間17日釋出最新旅行健康提示，宣佈加強邊境衛生防控措施，要求所有入境旅客填寫健康監測申報表，並在機場、陸路口岸和海港接受健康篩查，以防止埃博拉等傳染病傳入。（央視新聞）"
+    },
+    {
+      "id": "5151820",
+      "time": "2026-10-17 23:13:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克總理呼籲伊斯蘭合作組織成員國促進地區和平】伊斯蘭合作組織外長理事會第52次會議17日在伊拉克首都巴格達開幕。伊拉克總理扎伊迪在開幕致辭中呼籲該組織成員國加強合作、尊重差異，以促進地區穩定與和平。據伊拉克總理新聞辦公室發表的宣告，扎伊迪在致辭中說，巴勒斯坦問題是地區衝突的核心，確保巴勒斯坦人民獲得公正並保障其各項權利，對於實現地區安全與穩定至關重要。伊拉克外交部17日發表的宣告說，伊拉克正式接任該理事會輪值主席國。本次會議為期兩天，主題為“對話與團結：促進和平與可持續發展的兩大支柱”。會議將探討一系列議題，重點包括巴勒斯坦問題、加沙地帶局勢以及更廣泛的地區和國際事務。（新華社）"
+    },
+    {
+      "id": "mkt:01a14a5f-4931-7ee0-a8cc-7aa109ea40b9",
+      "time": "2026-10-17 22:58:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Israeli Jewish settlers attack European diplomats' vehicles in West Bank】On the 17th Israeli authorities reported diplomats from France, Belgium and Poland taking part in an olive harvest in the West Bank were confronted by seven masked Israeli Jewish settlers who surrounded their vehicle, demanded identification and smashed the window of a car belonging to the Belgian consulate. Israeli police said they will investigate the incident."
+    },
+    {
+      "id": "mkt:01a14a5e-2b91-7ee0-a8cc-70c407181ac9",
+      "time": "2026-10-17 22:57:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Egypt's parliament to hold special session to review support for Saudi Arabia】At the president's request, Egypt's parliament will hold a special session on Sunday to discuss the regional situation and Cairo's stance on safeguarding Saudi Arabia's security and stability."
+    },
+    {
+      "id": "5151804",
+      "time": "2026-10-17 22:55:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦住房金融局局長普爾特：（就信用報告的使用問題）研究僅調取1至2份信用報告以節約成本。"
+    },
+    {
+      "id": "5151801",
+      "time": "2026-10-17 22:52:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗錫裡克地區傳出爆炸聲。"
+    },
+    {
+      "id": "5151798",
+      "time": "2026-10-17 22:51:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院民主黨領袖舒默：特朗普暫停對俄製裁，是送給普京的大禮。"
+    },
+    {
+      "id": "mkt:01a14a55-7437-7ee0-a8cc-6d68495eff0c",
+      "time": "2026-10-17 22:47:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni armed forces said they destroyed 190 Houthi armored and combat vehicles in the past 24 hours."
+    },
+    {
+      "id": "5151774",
+      "time": "2026-10-17 22:42:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛焦爾將於週一下午1點提交2027年預算。"
+    },
+    {
+      "id": "5151768",
+      "time": "2026-10-17 22:39:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天正電氣：首臺固態變壓器量產下線】天正電氣(605066)訊息，公司首臺固態變壓器（SST）10月16日正式量產下線，該產品透過整合半導體功率器件、高頻變壓器和數字控制系統，直接將AC 10kV輸入電壓轉換為所需的直流電，同時實現電氣隔離、無功補償和功率流控制，可適配AI算力、新能源、新型電力系統場景。"
+    },
+    {
+      "id": "5151763",
+      "time": "2026-10-17 22:35:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及和土耳其外長呼籲美國與伊朗重啟談判，稱外交是結束當前危機、防止局勢進一步升級的唯一途徑。"
+    },
+    {
+      "id": "5151762",
+      "time": "2026-10-17 22:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯將於週三前往辛辛那提參加一場集會。"
+    },
+    {
+      "id": "5151757",
+      "time": "2026-10-17 22:33:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯亞政府：衛生部確認新增四例埃博拉病例；確診病例總數升至七例。"
+    },
+    {
+      "id": "5151740",
+      "time": "2026-10-17 22:28:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【孟加拉國一度假村發生火災致10人死亡】據孟加拉國媒體17日報道，該國東南部科克斯巴扎爾地區一海濱度假村當天發生火災，造成10人死亡，多人受傷。（新華社）"
+    },
     {
       "id": "5151734",
       "time": "2026-10-17 22:26:03",
@@ -115178,423 +115387,6 @@
         "國際"
       ],
       "text": "葉門胡塞武裝接連發動襲擊後，美國、英國、德國與西班牙於週六警告本國公民，避開沙特首都利雅得的哈立德國王國際機場及其周邊區域。"
-    },
-    {
-      "id": "5136562",
-      "time": "2026-10-11 00:27:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬達加斯加企業食物中毒事件受影響人數升至274人】馬達加斯加公共衛生部10日說，首都塔那那利佛一家企業發生的食物中毒事件已致274人受影響，目前尚無人員死亡報告。 公共衛生部說，經對採集的樣本進行檢測，分析結果認為此次事件屬於群體性食物中毒事件。（新華社）"
-    },
-    {
-      "id": "mkt:01a1269a-b1c6-7ee0-a825-3fdf463a4f05",
-      "time": "2026-10-11 00:17:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "300750.SZ",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【CATL, SERES sign long-term strategic cooperation agreement】Oct 10, Chongqing — CATL and SERES signed a long-term strategic cooperation agreement. SERES’ Wenjie brand currently fits CATL batteries across its model range and has cumulatively delivered over 1.2 mln vehicles; under the deal Wenjie will continue to deploy CATL cells across its full lineup. The partners will expand ‘factory-within-a-factory’ capacity: SERES’ super factory phase II is planned at 10–12 GWh/year, bringing combined phase I and II capacity to more than 20 GWh/year once completed. They will also cooperate on ultra-fast charging and battery services to build a full-life-cycle service ecosystem and jointly pursue overseas expansion in Europe, the Middle East and Central Asia."
-    },
-    {
-      "id": "5136561",
-      "time": "2026-10-11 00:13:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代與賽力斯簽署長期戰略合作協議】寧德時代與賽力斯集團週六在重慶簽署長期戰略合作協議。重慶市市委常委、市政府副市長、兩江新區區委書記徐建，重慶市市政府副市長鄭向東，賽力斯集團董事長(創始人)張興海與寧德時代董事長兼CEO曾毓群等共同出席並見證簽約。問界品牌自創立以來，全系車型均搭載寧德時代電池，截至目前累計交付已突破120萬臺。"
-    },
-    {
-      "id": "mkt:01a12695-9a72-7ee0-a825-34b8035aec15",
-      "time": "2026-10-11 00:11:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait Airways canceled two flights between Kuwait and Riyadh—one outbound and one return—citing security concerns, Kuwait News Agency said."
-    },
-    {
-      "id": "mkt:01a12695-080f-7ee0-a825-29d04a542519",
-      "time": "2026-10-11 00:11:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE National Guard said the coast guard rescued 22 people after a tanker caught fire in Gulf waters."
-    },
-    {
-      "id": "5136560",
-      "time": "2026-10-11 00:10:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋國民衛隊表示，海岸警衛隊已在海灣地區一艘油輪起火後救起22人。"
-    },
-    {
-      "id": "5136559",
-      "time": "2026-10-11 00:10:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "胡塞武裝導彈擊中利雅得機場客運航站樓，造成多人傷亡。"
-    },
-    {
-      "id": "mkt:01a12694-2856-7ee0-a825-22fda19ea997",
-      "time": "2026-10-11 00:10:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Embassy in Riyadh urged all U.S. citizens to avoid King Khalid International Airport and its surrounding areas."
-    },
-    {
-      "id": "5136558",
-      "time": "2026-10-11 00:07:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐利雅得大使館：我們已獲悉10月10日利雅得哈立德國王國際機場遇襲一事。"
-    },
-    {
-      "id": "5136557",
-      "time": "2026-10-11 00:07:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐利雅得大使館：強烈建議所有美國公民避開哈立德國王國際機場及周邊區域。"
-    },
-    {
-      "id": "5136556",
-      "time": "2026-10-11 00:07:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國方面表示已獲悉哈立德國王國際機場遭受襲擊事件。"
-    },
-    {
-      "id": "5136555",
-      "time": "2026-10-11 00:06:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國對利雅得哈立德國王國際機場釋出安全警報。"
-    },
-    {
-      "id": "5136554",
-      "time": "2026-10-11 00:05:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國：10月10日利雅得機場發生“嚴重事件”，該事件發生後，已更新針對沙烏地阿拉伯的旅行警告。"
-    },
-    {
-      "id": "5136553",
-      "time": "2026-10-11 00:05:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "雪佛龍就颶風“伊賽亞斯”釋出宣告稱，公司四座墨西哥灣平臺維持生產，五座設施已關停。"
-    },
-    {
-      "id": "5136552",
-      "time": "2026-10-11 00:03:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國建議本國公民避開利雅得哈立德國王機場。"
-    },
-    {
-      "id": "5136551",
-      "time": "2026-10-11 00:02:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "世界衛生組織（WHO）：俄羅斯《國際衛生條例》國家歸口單位確認了此次死亡病例，並告知世界衛生組織，俄羅斯此前並未登記過任何鼠疫病例。"
-    },
-    {
-      "id": "5136550",
-      "time": "2026-10-11 00:00:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "世界衛生組織：10月2日，世衛組織透過媒體報道獲悉，俄羅斯西伯利亞與遠東地區伊爾庫茨克抗鼠疫研究所一名僱員死亡。據報道，該患者於9月29日因重症肺炎住院後死亡，疑似死因為肺鼠疫。"
-    },
-    {
-      "id": "5136542",
-      "time": "2026-10-10 23:51:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國賓州槍擊事件致9人死亡】據美國媒體10日報道，美國賓夕法尼亞州伊利市9日發生大規模槍擊事件，造成包括槍手在內的至少9人死亡。（新華社）"
-    },
-    {
-      "id": "5136541",
-      "time": "2026-10-10 23:51:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普將於10月14日在亞利桑那州布林黑德市舉行中期選舉集會並發表講話。"
-    },
-    {
-      "id": "5136540",
-      "time": "2026-10-10 23:51:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部稱，俄方打擊了基輔的一處資料處理中心，以及一艘向敖德薩運送軍事物資的貨船。"
-    },
-    {
-      "id": "5136530",
-      "time": "2026-10-10 23:36:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國、加拿大、西班牙建議本國公民不要經利雅得機場出行。"
-    },
-    {
-      "id": "5136529",
-      "time": "2026-10-10 23:36:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭代表團在和平會談結束後離開邁阿密。"
-    },
-    {
-      "id": "5136522",
-      "time": "2026-10-10 23:31:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國超級智慧專項工作組副主席庫波爾：讓人工智慧減速或暫停是“最糟糕的做法”。"
-    },
-    {
-      "id": "5136521",
-      "time": "2026-10-10 23:31:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國超級智慧專項工作組副主席庫波爾：必須讓AI模型提供商承擔安全相關責任。"
-    },
-    {
-      "id": "5136520",
-      "time": "2026-10-10 23:30:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤跌破102美元，日內跌超1.1%。"
-    },
-    {
-      "id": "5136515",
-      "time": "2026-10-10 23:27:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約原油暗盤跌破91美元，日內跌超0.8%。"
-    },
-    {
-      "id": "5136512",
-      "time": "2026-10-10 23:23:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【波蘭校園安全大檢查 76人被拘留】波蘭近日先後發生三起校園持刀傷人事件，造成一人死亡、十餘人受傷。為防範更多校園襲擊，波蘭警方截至10日已對近5萬所學校開展安全檢查，正在處理231起涉嫌違法案件並拘留76人。（新華社）"
-    },
-    {
-      "id": "5136511",
-      "time": "2026-10-10 23:22:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特利雅得機場目擊者稱，今日早些時候發生爆炸後，多人受傷。"
-    },
-    {
-      "id": "5136509",
-      "time": "2026-10-10 23:21:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【颶風登陸美國東南沿海 逾70萬戶斷電】颶風“伊薩亞斯”登陸美國東南沿海，帶來狂風和強降雨。10日凌晨，佛羅里達州和亞拉巴馬州超過72.6萬使用者電力供應中斷。二級颶風“伊薩亞斯”9日在佛州西北部德斯廷市附近登陸，最高持續風速達每小時165公里，為今年大西洋颶風季首個颶風。佛州州長德桑蒂斯當天呼籲民眾避免外出，德斯廷市及周邊區域多個機場大部分航班停飛。（新華社）"
-    },
-    {
-      "id": "5136508",
-      "time": "2026-10-10 23:21:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "凱蒂·貝利（Katie Bailey）被任命為白宮立法事務辦公室負責人。該辦公室主要負責白宮與國會之間的聯絡工作。"
-    },
-    {
-      "id": "5136501",
-      "time": "2026-10-10 23:11:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國特使威特科夫與庫什納或於未來兩週內訪問莫斯科。"
-    },
-    {
-      "id": "5136500",
-      "time": "2026-10-10 23:08:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外長指責以色列總理內塔尼亞胡為了逃脫法律制裁，不惜犧牲更多美國人的生命和資源。"
-    },
-    {
-      "id": "5136497",
-      "time": "2026-10-10 23:04:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國使館提醒在沙特中國公民加強安全防範】沙烏地阿拉伯首都利雅得哈立德國王國際機場當地時間10日下午傳出爆炸聲。中國駐沙烏地阿拉伯大使館當天釋出領事提醒說，目前地區緊張局勢升級，利雅得等地機場和其他設施多次遭襲。中國駐沙特使領館提醒在沙中資機構和中國公民注意安全，嚴格遵守當地法律法規。使館提醒，如遇緊急情況，請及時報警並聯系中國駐沙特使領館。（新華社）"
-    },
-    {
-      "id": "5136496",
-      "time": "2026-10-10 23:00:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特航空：因機場關閉，取消利雅得航班。"
-    },
-    {
-      "id": "5136495",
-      "time": "2026-10-10 23:00:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：已向黎巴嫩南部己方部隊行動區域內的可疑空中目標發射攔截彈，目前正在評估攔截結果。"
-    },
-    {
-      "id": "mkt:01a12650-ae88-7ee0-a825-1a433c608d08",
-      "time": "2026-10-10 22:56:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces said it fired interceptors at a suspicious aerial target over southern Lebanon; troops are operating."
-    },
-    {
-      "id": "5136494",
-      "time": "2026-10-10 22:54:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "微軟CEO納德拉：需要相關工具，將AI行為追蹤至具體程式碼路徑。"
-    },
-    {
-      "id": "5136493",
-      "time": "2026-10-10 22:51:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟CEO納德拉：需要建立機制來分享系統出現的問題。"
-    },
-    {
-      "id": "mkt:01a1264b-4a04-7ee0-a825-1707e831f470",
-      "time": "2026-10-10 22:50:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait Airways said flights to and from Riyadh scheduled for Saturday have been canceled due to the closure of Riyadh airport."
-    },
-    {
-      "id": "5136490",
-      "time": "2026-10-10 22:50:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟CEO薩蒂亞·納德拉：系統故障時需要及時披露資訊。"
-    },
-    {
-      "id": "5136489",
-      "time": "2026-10-10 22:49:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道，一枚胡塞武裝導彈直接擊中了利雅得國王哈勒德國際機場3號航站樓。"
-    },
-    {
-      "id": "5136488",
-      "time": "2026-10-10 22:47:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "科威特航空公司表示，由於利雅得機場關閉，週六取消了往返利雅得的航班。"
-    },
-    {
-      "id": "5136487",
-      "time": "2026-10-10 22:46:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟CEO納德拉：是時候退後一步，評估新時代的信任架構了。"
-    },
-    {
-      "id": "5136486",
-      "time": "2026-10-10 22:46:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【電氣風電中標內蒙古能源集團450MW風電專案】近日，內蒙古能源集團釋出三個新能源專案風力發電機組（含塔筒、錨栓、箱變）及附屬裝置採購中標候選人公示，顯示電氣風電成功中標其標段二鄂托克前旗45萬千瓦風電專案。"
-    },
-    {
-      "id": "5136485",
-      "time": "2026-10-10 22:46:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "微軟CEO薩蒂亞·納德拉：我們必須建立能夠控制其行為的系統。"
-    },
-    {
-      "id": "5136484",
-      "time": "2026-10-10 22:43:56",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【全國農業科技工作會議在京召開，會議強調加快實現高水平農業科技自立自強 為推進農業強國建設提供強有力支撐】10月10日，農業農村部在京召開全國農業科技工作會議。會議強調，要深入學習貫徹習近平總書記關於農業科技工作的重要講話重要指示精神，落實黨中央、國務院決策部署，紮實推進“十五五”農業科技創新工作，加快實現高水平農業科技自立自強，為加快農業農村現代化、建設農業強國提供強有力支撐。農業農村部黨組書記、部長張柱出席會議並講話。 會議指出，以習近平同志為核心的黨中央高度重視農業科技工作，習近平總書記多次作出重要指示，黨中央、國務院作出系統部署。各級農業農村部門要深入學習領會，自覺把思想和行動統一到習近平總書記重要指示精神和黨中央決策部署上來，深刻認識加快農業科技創新的重要性緊迫性，堅定不移走好自立自強之路，努力突破一批基礎原創成果，顯著提升新品種新技術新裝備對糧食和重要農產品穩定安全供給、農業高質量發展的貢獻。 會議強調，要聚焦“十五五”農業科技創新方向目標，紮實推進重點任務落實落地。要著力增加高質量農業科技成果供給，強化基礎研究和前沿技術攻關，牢牢掌握農業科技創新主動權。要突出應用導向，聚焦產業需求凝練農業科研專案選題，推行有組織體系化科研攻關，把好科研成果驗收關，用實踐效益評價成果。要強化科技成果推廣應用，狠抓農業技術整合，建好農技推廣體系，用好多元化社會化技術服務力量，打通農業科技落地“最後一公里”。要加快農業科技創新條件平臺建設，謀劃佈局一批農業重大科技基礎設施、中試和概念驗證平臺等，發揮好國家農業高新技術產業示範區作用，深化農業科技領域國際合作。要強化農業科技人才隊伍建設，大力培育戰略科學家和領軍人才，加快培育產業技術人才、青年科技人才，確保農業科技創新源頭活水充盈。 會議要求，要強化組織領導，凝聚工作合力，加大政策支援，提升農業科技創新體系整體效能。要弘揚科學家精神，全面加強科技監督，營造風清氣正的良好科研生態。"
-    },
-    {
-      "id": "mkt:01a12644-7d81-7ee0-a825-0fa8f6d77894",
-      "time": "2026-10-10 22:43:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Ministry of Agriculture and Rural Affairs to speed agricultural R&D platform construction; plans major research infrastructure, pilot and proof‑of‑concept facilities】Beijing, Oct 10 — At a national agricultural science work meeting the Ministry of Agriculture and Rural Affairs said it will accelerate construction of agricultural science and technology innovation platforms and plan a batch of major agricultural research infrastructure, pilot-scale and proof-of-concept platforms. The ministry urged strengthening technology promotion and integration, building an agricultural extension system and using diversified social technical service providers to close the 'last mile' of technology adoption. It said it will leverage national agricultural high-tech industry demonstration zones, deepen international scientific cooperation and accelerate talent development, prioritising strategic scientists, leading figures, industry technical staff and young researchers to sustain the innovation pipeline."
-    },
-    {
-      "id": "5136483",
-      "time": "2026-10-10 22:43:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【颶風登陸美國東南沿海 逾70萬戶斷電】颶風“伊薩亞斯”登陸美國東南沿海，帶來狂風和強降雨。10日凌晨，佛羅里達州和亞拉巴馬州超過72.6萬使用者電力供應中斷。二級颶風“伊薩亞斯”9日在佛州西北部德斯廷市附近登陸，最高持續風速達每小時165公里，為今年大西洋颶風季首個颶風。佛州州長德桑蒂斯當天呼籲民眾避免外出，德斯廷市及周邊區域多個機場大部分航班停飛。（新華社）"
-    },
-    {
-      "id": "5136475",
-      "time": "2026-10-10 22:29:03",
-      "tags": [
-        "公司",
-        "其他",
-        "國際"
-      ],
-      "text": "殼牌：開始將人員重新部署至我們的Mars、Olympus、Ursa、Vito和Appomattox資產。"
-    },
-    {
-      "id": "5136474",
-      "time": "2026-10-10 22:27:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "殼牌：正密切監測颶風“伊薩亞斯”過後，海上作業條件的改善情況。"
     }
   ]
 }
