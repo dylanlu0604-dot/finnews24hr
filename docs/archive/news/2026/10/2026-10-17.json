@@ -1,7 +1,895 @@
 {
   "date": "2026-10-17",
-  "count": 770,
+  "count": 867,
   "items": [
+    {
+      "id": "5151486",
+      "time": "2026-10-17 17:22:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日美將舉行大規模聯合軍演 引發廣泛擔憂與反對】據日本共同社17日報道，日本和美國將於19日至29日在日本多地開展“利劍27”大規模聯合軍演，投入兵力總計接近6萬人，引發日本國內廣泛擔憂與反對。 報道稱，此次演習是涵蓋陸海空各部隊的綜合性訓練，日本自衛隊和美軍將分別投入約4.5萬人和1.2萬人。此外，澳大利亞、加拿大、法國、德國、荷蘭、紐西蘭和菲律賓等國也將參加，其中後5國為首次參與。 值得關注的是，日本政府今年3月不顧當地民眾反對強行部署於熊本縣的“25式地對艦導彈”將參加此次演習。該導彈將從熊本縣轉移至橫跨長崎縣和佐賀縣的大野原演習場。導彈射程約1000公里，遠超日本領土範圍。 報道稱，美軍也將投入先進軍事裝備，包括首次向日本最西端的沖繩縣與那國島部署“海軍/海軍陸戰隊遠征艦艇攔截系統”“海上防空綜合系統”等。在北海道及日本東北地區近海，日美還將開展應對彈道導彈和軍用飛機的訓練，並在日本多地舉行傘降、兩棲車輛登陸、傷員救治等演練，以及在太空和網路空間支援陸海空部隊的相關訓練。 此次軍演在日本引發廣泛擔憂與反對。綜合日本媒體近日報道，10月以來，沖繩、長崎、大分等地接連爆發民眾抗議活動，要求取消演習、停止在民用設施開展軍事訓練。不少民間團體指出，日美此舉只會加劇地區緊張，將當地民眾置於危險之中。(新華社)"
+    },
+    {
+      "id": "mkt:01a14929-6415-7ee0-a8ca-5c810feb936b",
+      "time": "2026-10-17 17:20:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Anthropic co-founder: AI could lift US GDP to $44 trillion by 2030】Anthropic co-founder Jack Clark said an internal company economic model projects AI could raise US economic output to about $44 trillion by 2030, from just over $30 trillion today. Speaking at the IMF and World Bank annual meetings in Bangkok, Clark said the estimate \"sounds outlandish\" but argued rapid AI-driven acceleration in scientific discovery could produce such growth. He urged international cooperation to create \"special and strict rules\" for the technology."
+    },
+    {
+      "id": "mkt:01a14928-ab3d-7ee0-a8ca-508352885f78",
+      "time": "2026-10-17 17:19:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC says AI remains under human control, but its capabilities are improving far faster than our intuitive expectations."
+    },
+    {
+      "id": "5151485",
+      "time": "2026-10-17 17:19:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic的克拉克：我們現在掌控著人工智慧，但它的能力提升速度遠超我們的直覺預期。"
+    },
+    {
+      "id": "mkt:01a14926-b8d7-7ee0-a8ca-4ca6649b6b5d",
+      "time": "2026-10-17 17:17:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore Prime Minister Lawrence Wong will visit Qatar Oct 18-20 and the UAE Oct 20-22."
+    },
+    {
+      "id": "5151484",
+      "time": "2026-10-17 17:16:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡總理黃循財將於10月20日至22日訪問阿聯酋。"
+    },
+    {
+      "id": "5151483",
+      "time": "2026-10-17 17:16:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡總理黃循財將於10月18日至20日訪問卡達。"
+    },
+    {
+      "id": "5151482",
+      "time": "2026-10-17 17:12:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：僅在昨天晚上7點至今天早上7點之間，俄方就動用了320多架“沙赫德”無人機，以及巡飛彈、巡航導彈和彈道導彈，對我們的能源部門、城市和社群發動了襲擊。儘管我們擊落了其中相當一部分，但俄方襲擊的巨大規模和持續不斷的攻勢——特別是針對我們能源部門的打擊——不幸造成了嚴重的後果。"
+    },
+    {
+      "id": "5151481",
+      "time": "2026-10-17 17:11:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) ：沃爾沃汽車美國公司召回9930輛汽車。"
+    },
+    {
+      "id": "5151480",
+      "time": "2026-10-17 17:09:10",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【王滬寧在四川調研時強調 堅持為推進中國式現代化凝心聚力 紮實做好新時代黨的民族宗教工作】中共中央政治局常委、全國政協主席王滬寧10月13日至16日在四川成都市、德陽市、甘孜藏族自治州調研。他表示，要以習近平新時代中國特色社會主義思想為指導，深入貫徹落實黨的二十屆四中全會精神，著眼為實現“十五五”時期發展、推進中國式現代化凝心聚力，紮實抓好鑄牢中華民族共同體意識、推進中華民族共同體建設工作，紮實抓好系統推進我國宗教中國化、加強宗教事務治理法治化工作，鞏固和發展民族和睦、宗教和順、社會和諧的良好局面。(新華社)"
+    },
+    {
+      "id": "mkt:01a1491f-2976-7ee0-a8ca-433150098876",
+      "time": "2026-10-17 17:09:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Ukrainian President Zelenskiy said Russia struck more than 15 critical Ukrainian energy facilities overnight."
+    },
+    {
+      "id": "5151479",
+      "time": "2026-10-17 17:06:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國政府敦促日本政府高層正視歷史反省過去】韓國外交部發言人17日發表談話說，對於日本政府高層當天向供奉有二戰甲級戰犯的靖國神社獻祭品及前往參拜，韓國政府再次表示“深切失望和遺憾”。談話說，韓國政府敦促日本政府高層正視歷史，以實際行動展現對歷史的虛心反思和真誠反省。韓國政府再次強調，這是構建以國家間和國民間相互信任為基礎、面向未來的韓日關係的重要基石。（新華社）"
+    },
+    {
+      "id": "mkt:01a1491b-a9ed-7ee0-a8ca-3acbdd141309",
+      "time": "2026-10-17 17:05:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin said President Putin has directed the government to approve a plan to restore trade and logistics infrastructure damaged by Ukrainian strikes, RIA reported."
+    },
+    {
+      "id": "5151478",
+      "time": "2026-10-17 17:04:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱，普京已指示政府批准一項計劃，以修復遭烏克蘭襲擊損毀的貿易和物流基礎設施 。"
+    },
+    {
+      "id": "5151477",
+      "time": "2026-10-17 17:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“風清”人工智慧全球短中期集合天氣預報系統V1.0投入執行】在今日舉行的2026全國高效能運算學術大會（CCF HPC China 2026）上，國家超算網際網路宣佈，由國家氣象中心牽頭，聯合雄安氣象人工智慧創新研究院、國家氣象資訊中心和國家超算網際網路等共同研製的新一代人工智慧集合預報系統——“風清”人工智慧全球短中期集合天氣預報系統V1.0，順利透過業務化評審並投入執行。“風清”系統全球有效預報時效達11天，綜合預報效果超越歐洲中期天氣預報中心（ECMWF）的人工智慧集合預報系統，標誌著中國AI氣象預報達到世界先進水平。"
+    },
+    {
+      "id": "5151476",
+      "time": "2026-10-17 17:04:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大風來襲！遼寧營口海域實施全域海上交通管制】從營口海事局獲悉，10月17日12時到18日8時，遼寧營口轄區海域東南風7到8級、陣風9到10級，區域性區域可達11級。根據大風發展情況，營口海事部門13時啟動防禦極端天氣三級響應，對全域實施交通管制。（央視新聞）"
+    },
+    {
+      "id": "5151473",
+      "time": "2026-10-17 17:02:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英國外交部建議本國公民避免前往沙特】英國外交部16日釋出公告，建議本國公民不要前往沙烏地阿拉伯與葉門邊境10公里範圍內的區域，且“除非必要，否則不要前往沙特其他地區”。 公告說，今年7月以來葉門胡塞武裝已向沙特境內多個目標發射導彈和無人機，沙特機場、軍事和國防設施、港口、能源基礎設施和主要城市等“均面臨嚴重威脅”。 公告還說，位於沙特首都利雅得的哈立德國王國際機場本月10日遭到襲擊。預計沙特境內的機場將遭受更多襲擊，航班也很可能被中斷和取消。公告建議，英國公民離開沙特應考慮透過陸路前往鄰國，然後在鄰國搭乘航班。 近期，胡塞武裝頻頻使用導彈和無人機襲擊沙特境內國際機場、石油設施等關鍵目標。沙特主導的多國聯軍發言人圖爾基·馬利基15日說，胡塞武裝10月以來對哈立德國王國際機場的襲擊共造成17人死亡、333人受傷。(新華社)"
+    },
+    {
+      "id": "5151472",
+      "time": "2026-10-17 17:02:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【冀中能源集團董事會原董事陳亞傑接受審查調查】中央紀委國家監委網站10月17日通報，據河北省紀委監委訊息：冀中能源集團有限責任公司董事會原董事，峰峰集團有限公司原黨委書記、董事長陳亞傑涉嫌嚴重違紀違法，目前正接受河北省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5151471",
+      "time": "2026-10-17 17:02:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：昨天，俄方對烏克蘭能源部門發動了其規模最大的襲擊之一，烏克蘭多個地區的15處以上關鍵電力生產及輸送設施遭到打擊。目前，修復工作正在進行中。盧茨克、羅夫諾、日托米爾、文尼察、舍佩托夫卡、斯拉武塔和涅季申等地的情況最為嚴峻。哈爾科夫、基輔、第聶伯羅及其他地區的能源設施也遭到了打擊。"
+    },
+    {
+      "id": "mkt:01a14914-0613-7ee0-a8ca-33a1fcc1e7ba",
+      "time": "2026-10-17 16:56:51",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Bank of England said Governor Bailey was among delegates who walked out of an IMF meeting in protest at the Russian representative."
+    },
+    {
+      "id": "5151470",
+      "time": "2026-10-17 16:55:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本自民黨政調會長參拜靖國神社】日本自民黨政調會長小林鷹之今天（10月17日）參拜了靖國神社。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a1490b-93d7-7ee0-a8ca-2f1a2944074f",
+      "time": "2026-10-17 16:47:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Ukraine says Russian forces struck energy infrastructure in 10 oblasts】Ukraine's energy ministry said Russian forces carried out sustained strikes on energy infrastructure from the early hours to the morning of Oct 17, damaging facilities and causing power outages across 10 oblasts — Vinnytsia, Volyn, Donetsk, Zaporizhia, Zhytomyr, Odesa, Rivne, Ternopil, Khmelnytskyi and Kharkiv. Some areas have been placed on rolling blackout schedules to manage supply shortfalls. Ukraine's air force said Moscow used various missiles and about 332 UAVs from 18:00 on Oct 16; as of 08:00 on Oct 17 Ukraine's air-defence forces had shot down or suppressed 293 aerial targets, including four Kalibr cruise missiles and 289 UAVs. Russian UAVs were confirmed to have struck 22 locations; wreckage from downed UAVs was found at three additional sites."
+    },
+    {
+      "id": "5151468",
+      "time": "2026-10-17 16:42:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱俄軍襲擊烏10州能源設施】烏克蘭能源部今天（10月17日）通報稱，俄羅斯於當日凌晨至上午持續襲擊烏多個地區能源基礎設施，造成部分設施受損、多地供電中斷。此次遭襲涉及文尼察、沃倫、頓涅茨克、扎波羅熱、日托米爾、敖德薩、羅夫諾、捷爾諾波爾、赫梅利尼茨基和哈爾科夫共10個州。受襲擊影響，部分地區已按照停電時間表實施輪流停電，以應對電力供應缺口。 烏克蘭空軍今天通報稱，自16日晚18時起，俄軍使用多種導彈及332架各型別無人機對烏克蘭發動襲擊。根據初步資料，截至17日08:00，烏克蘭防空部隊擊落/壓制293個空中目標，其中包括4枚“口徑”巡航導彈以及289架各型別無人機。俄軍無人機已確認擊中22個地點，另有3個地點發現了被擊落無人機的殘骸。（CCTV國際時訊）"
+    },
+    {
+      "id": "5151467",
+      "time": "2026-10-17 16:41:12",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【上海演藝集團成立，打造全國領先演藝“航空母艦”】10月17日下午，上海演藝集團成立儀式暨《上海戲劇振興三年行動計劃（2026-2028年）》釋出在上海大歌劇院舉行。活動同步推出《上海市級國有文藝院團經典保留作品集萃》，標誌著上海演藝事業改革發展開啟新篇章。目前，上海正在加快建成具有世界影響力的社會主義現代化國際大都市。組建上海演藝集團、出臺戲劇振興專項計劃、系統梳理院團經典劇目家底，三項工作一體謀劃、協同推進，是上海打造全國領先演藝“航空母艦”，厚植“亞洲演藝之都”核心競爭力的關鍵落子。（上觀新聞）"
+    },
+    {
+      "id": "mkt:01a14901-2b99-7ee0-a8ca-22fd52753df5",
+      "time": "2026-10-17 16:36:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC co-founder Jack Clark said we need to jointly establish special, stringent rules for AI."
+    },
+    {
+      "id": "5151466",
+      "time": "2026-10-17 16:35:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek V4.1 Flash新版本釋出 許願式程式設計一鍵成真】DeepSeek訊息，DeepSeek V4.1 Flash現已更新至V4.1-Flash-1017版本，官方網頁端、APP與API模型已同步變更為新模型。DeepSeek V4.1 Flash 1017透過基於自反饋的強化學習（RL）訓練技術，提升了在遊戲開發、3D建模等方面從零開始構建完整專案的能力，能夠支援實現更多“許願式”程式設計任務及專案開發請求。"
+    },
+    {
+      "id": "5151465",
+      "time": "2026-10-17 16:30:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多名中國公民入境後失蹤失聯、遭非法拘禁並被誘騙轉運至邊境，我駐泰使館提醒】中國駐泰國大使館10月16日發文，近期，泰國發生多起中國公民入境後失蹤失聯、遭非法拘禁並被誘騙轉運至泰緬邊境的案件。部分不法分子以高薪招聘、商務考察、投資合作、專案邀約等為幌子，誘騙中國公民赴泰並實施違法犯罪活動，嚴重威脅中國公民人身和財產安全。近期還出現多起針對國內從事直播、演藝等人員的拍攝演出邀約騙局。中國駐泰國使館提醒廣大赴泰國中國公民提高安全防範意識，謹防上當受騙，切實保護自身安全。一、警惕高薪招聘，謹防求職陷阱。二、警惕高回報、高利潤誘惑，切勿心存僥倖。三、提高出行警惕，謹慎搭乘他人安排的車輛。四、謹慎前往泰緬邊境等安全風險較高地區。五、保持通訊暢通，及時告知行程。中國駐泰國使館再次提醒廣大中國公民，出境前務必充分了解目的地安全形勢和相關法律法規，審慎評估各類風險，切勿輕信高薪、高回報誘惑，不參與來源不明、情況不明的活動，切實增強風險防範意識和自我保護能力。如遇緊急情況，請及時向泰國警方求助，並聯系中國駐泰國使領館。"
+    },
+    {
+      "id": "mkt:01a148f9-7e74-7ee0-a8ca-1b197d03e210",
+      "time": "2026-10-17 16:27:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Anthropic co-founder Jack Clark said an internal economic model indicates that if AI models permeate the economy within the next year, US GDP could reach $44 trillion by 2030."
+    },
+    {
+      "id": "5151464",
+      "time": "2026-10-17 16:27:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "Anthropic聯合創始人克拉克：一個內部經濟模型顯示，如果AI模型在未來幾年內滲透到經濟中，到2030年美國GDP可能達到44萬億美元。"
+    },
+    {
+      "id": "mkt:01a148f8-8c44-7ee0-a8ca-1419ca54e0e7",
+      "time": "2026-10-17 16:26:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Europe & UK",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【ECB President Lagarde: bond sell-off raising borrowing costs, slowing growth and dampening inflation】ECB President Lagarde said in Bangkok that a global bond sell-off has pushed up euro-area borrowing costs, weighing on growth and ultimately reducing inflationary pressure. Rising yields reflect investor concerns about debt and inflation and increased credit competition from AI-related investment; heavily indebted France is among the worst affected. She warned that tighter financing conditions and a marked rise in long-term yields since the last ECB meeting will make it harder for consumers to absorb Iran-war driven fuel-price increases and will slow growth, weakening price pass-through versus the ECB’s September forecast."
+    },
+    {
+      "id": "5151463",
+      "time": "2026-10-17 16:25:22",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行行長拉加德：債券拋售拖累經濟增長並將抑制通脹】歐洲央行行長拉加德週六表示，債券市場的拋售正導致歐元區借貸成本上升，拖累經濟增長，並最終抑制通脹。拉加德表示，這將使消費者更難承受伊朗衝突帶來的燃料價格上漲，情況比歐洲央行上個月的預測更為嚴峻。“儘管經濟增長展現出韌性，但融資條件已趨緊，自我們上次會議以來，長期利率明顯上升，”拉加德在曼谷向與會央行總裁和財長們表示。“這將放緩經濟增長，並使物價傳導效應較我們9月時的預測更弱。”"
+    },
+    {
+      "id": "mkt:01a148f2-522a-7ee0-a8ca-09a43297d09f",
+      "time": "2026-10-17 16:20:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IMO secretary-general: Strait of Hormuz transit risk remains high】IMO Secretary-General Arsenio Domingues said on Oct. 16 that security in the Strait of Hormuz and adjacent waters is deteriorating and transit risk remains high. He reiterated IMO guidance issued over recent months: vessels should avoid transiting the Strait or conducting trade in the area, and operators should take measures to protect crew, ships and the marine environment. He said shipping should not be used as a pressure tool in conflicts and that only addressing the crisis’s root causes will create conditions for restoring regional navigational safety."
+    },
+    {
+      "id": "5151462",
+      "time": "2026-10-17 16:19:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年浙江義烏跨境電商進口清單量破1億單】杭州海關所屬義烏海關17日公佈最新資料：截至10月17日，今年義烏海關監管的義烏跨境電商進口清單量突破1億單，較去年達成該目標提前40余天，創同期歷史新高。據悉，今年以來，義烏跨境電商進口商品涵蓋食品、化妝品、嬰幼兒奶粉、玩具等7萬多個品類，來自全球90多個國家和地區。"
+    },
+    {
+      "id": "mkt:01a148f1-5db5-7ee0-a8ca-02c3975d7ba6",
+      "time": "2026-10-17 16:18:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China auto association meets Australian FCAI and TIC on EV infrastructure and standards】Oct 16, 2026 — The China Association of Automobile Manufacturers (CAAM) held talks with Australia’s Federal Chamber of Automotive Industries (FCAI) and the Truck Industry Council (TIC). FCAI technical officer James Toll and TIC technical officer Mark Hammond outlined their organisations’ mandates. Discussions centered on new-energy vehicle development, charging and battery-swap infrastructure rollout, and coordination of international technical standards and regulations. The three associations also exchanged views on market characteristics and segment-level trends."
+    },
+    {
+      "id": "5151461",
+      "time": "2026-10-17 16:18:04",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【國際海事組織秘書長：霍爾木茲海峽通行風險仍高】國際海事組織秘書長阿塞尼奧·多明格斯16日表示，霍爾木茲海峽及周邊海域安全形勢持續惡化，船舶通行風險並未降低。他強調，航運不應被用作衝突中的施壓工具，衝突各方只有著手解決危機根源，才能為該地區航運安全恢復創造條件。（新華社）"
+    },
+    {
+      "id": "mkt:01a148ea-b865-7ee0-a8c9-fa8a7652ef0d",
+      "time": "2026-10-17 16:11:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Anthropic co-founder Jack Clark said AI could bring more change than currently expected."
+    },
+    {
+      "id": "5151460",
+      "time": "2026-10-17 16:11:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic聯合創始人傑克·克拉克（Jack Clark）表示，人工智慧有望帶來比我們目前預期更為深遠的變革。"
+    },
+    {
+      "id": "5151459",
+      "time": "2026-10-17 16:10:24",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【澤連斯基要求歐盟追加援助 馮德萊恩：資金缺口“必須填補”】烏克蘭總統澤連斯基16日在比利時布魯塞爾舉行的歐盟峰會上要求歐盟明年再提供至少700億歐元援助。他還表示，美國“星鏈”衛星通訊系統的使用限制影響烏軍攔截俄羅斯無人機的能力，烏美預計將在未來幾天安排一定級別的會晤。澤連斯基在向歐盟領導人發表講話時說，烏克蘭2027年戰爭相關支出預計將達1550億歐元，烏方至少還需要歐盟提供700億歐元，用於國防、武器裝備及增強國家韌性。對此，歐盟委員會主席馮德萊恩同日在布魯塞爾表示，由於俄烏衝突仍在持續且難以預測，烏克蘭700億歐元的資金缺口“必須填補”。澤連斯基呼籲歐盟出臺強有力的第22輪對俄製裁措施，重點針對參與俄羅斯彈道導彈、先進通訊系統和無人機生產的企業和個人。他還批評美國與俄羅斯之間的“柴油協議”，認為相關安排將增加俄方收入，為其繼續開展軍事行動提供資金。（新華社）"
+    },
+    {
+      "id": "5151458",
+      "time": "2026-10-17 16:07:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國加州南部野火迅速蔓延 超萬人被疏散】美國加利福尼亞州南部一場野火迅速蔓延，燒燬多棟房屋。美國加州南部奧蘭治縣消防局稱，這場野火於16日中午在該縣聖克萊門特和聖胡安卡皮斯特拉諾的居民區附近燃起。截至16日晚間，火勢已蔓延至570英畝。奧蘭治縣消防局局長表示，多個區域已釋出疏散令，涉及約4600戶住宅和約16000名居民。當地官員表示，截至16日晚間，滅火工作已取得進展，但警告稱火情仍然不穩定。（央視新聞）"
+    },
+    {
+      "id": "5151457",
+      "time": "2026-10-17 16:06:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基警告歐盟：若戰敗，2000萬烏克蘭難民將湧入歐洲】據俄羅斯《側面》週刊網站10月17日報道，烏克蘭領導人澤連斯基在布魯塞爾表示，烏克蘭若戰敗，可能引發新一輪湧向歐盟的難民潮，人數或多達2000萬。正因如此，基輔才請求歐洲各國加大支援力度。 他在歐洲理事會會議結束後舉行的新聞釋出會上說：“如果我們倒下會發生什麼？我不知道具體會有多少人，可能會有2000萬烏克蘭人湧入歐洲。因為我們將被迫離開自己的國家。正因如此，我懇請你們幫助保衛烏克蘭。” 在回答有關與美國總統特朗普接觸的問題時，澤連斯基用“奇怪”來形容美俄柴油協議導致的局面。但他表示，與美國談判代表的對話仍在繼續。（參考訊息）"
+    },
+    {
+      "id": "5151456",
+      "time": "2026-10-17 16:00:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱夜間襲擊了烏克蘭鋼鐵廠和電力基礎設施。"
+    },
+    {
+      "id": "5151455",
+      "time": "2026-10-17 16:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱擊落多架烏無人機 烏稱多地能源設施遭襲】俄羅斯國防部當地時間17日通報稱，16日20時至17日8時，俄軍防空系統在莫斯科地區、列寧格勒州及黑海等多個地區和海域上空共攔截並摧毀610架烏克蘭固定翼無人機。17日，烏克蘭能源部通報稱，俄羅斯於當日凌晨至上午持續襲擊烏多個地區能源基礎設施，造成部分設施受損、多地供電中斷，涉及文尼察、沃倫、日托米爾和敖德薩等10個州。受襲擊影響，部分地區已按照停電時間表實施輪流停電，以應對電力供應缺口。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a148df-9e2d-7ee0-a8c9-f25c2082a958",
+      "time": "2026-10-17 15:59:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Critics condemn Prime Minister Takaichi's Yasukuni offering】On the 17th Prime Minister Takaichi Sanae, in her capacity as prime minister, presented a masakaki offering at Yasukuni Shrine, which enshrines Class-A World War II convicted war criminals. Several senior politicians — including the minister responsible for economic and fiscal policy and the speakers of the lower and upper houses — also presented masakaki. Fujita Takakage, chair of the Murayama Statement Inheritance and Development Association, said he strongly opposes politicians visiting or making offerings at Yasukuni, called the acts absurd and wrong, and urged Japanese society to uphold the spirit of the Murayama Statement."
+    },
+    {
+      "id": "mkt:01a148da-12ce-7ee0-a8c9-ecde8a411543",
+      "time": "2026-10-17 15:53:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi civil defense says risk in KHAMIS MUSHAIT and ABHA has been lifted."
+    },
+    {
+      "id": "5151454",
+      "time": "2026-10-17 15:52:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海上大風橙色預警持續 山東多港口實施禁限航】受強冷空氣影響，山東海域風力持續增強，海上大風橙色預警繼續生效。山東海事部門全面加強大風防抗排程，客運航線停航，港口實施禁限航。山東省氣象臺於10月17日11時繼續釋出海上大風橙色預警，氣象預報顯示，17日下午到夜間，渤海、渤海海峽、黃海北部和中部南風將增強到7到8級、陣風9到10級，部分割槽域將達到陣風10到11級。山東海事局於17日8時啟動二級防禦響應，目前，全省客運航線全部停航。港口管制方面，董家口、東營、濱州港口已禁航；日照石臼、嵐山港區實施禁航；煙臺、青島、濰坊、威海實施限航，禁止中小型船舶、施工船等離港。海事部門將持續加強海上交通組織，全力保障船舶航行安全。"
+    },
+    {
+      "id": "5151453",
+      "time": "2026-10-17 15:52:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特稱海米斯穆謝特和艾卜哈的危險已經過去。"
+    },
+    {
+      "id": "5151452",
+      "time": "2026-10-17 15:51:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年來昆明機場口岸入出境外籍人員突破100萬人次】據昆明出入境邊防檢查站統計，截至10月14日，昆明長水國際機場年度入出境外籍人員數量突破100萬人次，同比增長18.23%。其中享受免簽入境外籍人員達34.86萬人次，同比增長16.92%，創歷史同期新高。目前，該機場共開通19個國家和地區38個航點，航線網路覆蓋南亞、東南亞、東亞等多個區域。（新華社）"
+    },
+    {
+      "id": "5151451",
+      "time": "2026-10-17 15:50:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國沿長江及以北地區有降雨過程 國家防總辦公室排程部署防汛工作】應急管理部訊息，10月17日上午，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部等部門聯合會商，研判沿長江及以北地區大範圍降雨過程發展趨勢，研究部署重點地區防汛工作。會商指出，本輪降雨過程影響範圍廣，南方部分地區持續降雨，北方前期少雨地區有明顯降雨，要高度警惕局地強降雨引發山洪和地質災害等風險。"
+    },
+    {
+      "id": "5151450",
+      "time": "2026-10-17 15:50:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華納藥廠原料藥硫酸特布他林、吲哚菁綠獲批上市】近日，華納藥廠全資子公司湖南華納大藥廠手性藥物有限公司相繼收到國家藥品監督管理局簽發的硫酸特布他林、吲哚菁綠《化學原料藥上市申請批准通知書》，與製劑共同審評審批結果為“A”，符合國家相關藥品審評技術標準，已批准在國內製劑中使用。"
+    },
+    {
+      "id": "mkt:01a148d6-c7fe-7ee0-a8c9-e42dafb9bdcc",
+      "time": "2026-10-17 15:49:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi General Directorate of Civil Defense said it has issued early warnings of potential threats to Khamis Mushait and Abha."
+    },
+    {
+      "id": "5151449",
+      "time": "2026-10-17 15:49:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特釋出艾卜哈（ABHA）潛在危險預警。"
+    },
+    {
+      "id": "5151448",
+      "time": "2026-10-17 15:49:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特就海米斯穆謝特 （Khamis Mushait）可能存在的危險釋出警示。"
+    },
+    {
+      "id": "mkt:01a148d5-c010-7ee0-a8c9-d91b2d16f475",
+      "time": "2026-10-17 15:48:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "TASS, citing emergency services, reported a Ukrainian drone strike in Russia's Belgorod region killed one woman."
+    },
+    {
+      "id": "5151447",
+      "time": "2026-10-17 15:43:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委、德國央行行長納格爾(Joachim Nagel)週六表示，歐洲央行的抗通脹任務尚未完成，他認為決策者還需採取更多措施。"
+    },
+    {
+      "id": "5151446",
+      "time": "2026-10-17 15:41:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【經濟日報：懂車帝商業模式集“裁判員”和“運動員”於一身，存在利益衝突，很難建立公信力】10月17日，經濟日報釋出文章《“剎車門”不只拷問質量安全》。 文章指出，值得關注的是，此次“剎車門”之所以爭議較大，還在於測試方的“角色衝突”。汽車測評是一門專業且具公信力的活動。國家網信辦和市場監管總局今年6月聯合印發的《網路測評活動規範》明確規定：“從事網路測評活動，涉及對產品功能、效能等專案測試，應當委託具有法定檢驗檢測資質許可的檢驗檢測機構按照相關標準以及技術規範開展測試。”“接受第三方委託、贊助或者與測評樣本相關方存在利益關係的，應當作出顯著提示。”這對測試方資質、方法及利益迴避方式提出了具體要求。 文章提到，懂車帝作為抖音集團旗下的汽車資訊與交易服務平臺，一邊對車企產品展開測評，一邊又靠車企和經銷商廣告投放、線索導流獲利。這樣的商業模式，本質上集“裁判員”和“運動員”於一身，存在利益衝突，很難建立公信力。如果任其濫用非標極限測試，將測評“武器化”，今天受打擊的是某個品牌，明天受打擊的將是一家企業，最終受傷害的是中國汽車產業生態。"
+    },
+    {
+      "id": "5151445",
+      "time": "2026-10-17 15:39:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅省委：全力“揭蓋子”、“挖根子”，堅決清除“蠅貪蟻腐”】據甘肅日報訊息，10月16日，甘肅省委書記吳曉軍主持召開省委常委會會議。會議強調，要壓緊壓實責任，強化部門協作配合，突出抓好高標準農田建設、農村集體“三資”管理、醫保基金管理、養老服務等領域問題整治。要堅持辦案開路，堅決查辦“窩案”、“串案”，全力“揭蓋子”、“挖根子”，堅決清除“蠅貪蟻腐”，確保整治成果讓人民群眾可感可及。要堅持邊整治邊總結，結合實際建立健全規範管理、常態整治、貫通協調、群眾參與等方面的制度機制，確保取得行風重塑、基層善治、群眾受益的綜合成果。"
+    },
+    {
+      "id": "5151444",
+      "time": "2026-10-17 15:39:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽車工業協會與澳大利亞聯邦汽車工業商會、澳大利亞卡車工業理事會舉行交流會談】2026年10月16日，中國汽車工業協會與澳大利亞聯邦汽車工業商會（FCAI）、澳大利亞卡車工業理事會（TIC）舉行座談交流。中汽協會與FCAI和TIC均是國際汽車製造商協會（OICA）的主要會員單位。雙方將在此基礎上進一步加強交流與務實合作，依託 OICA 框架參與聯合國世界車輛法規協調論壇（WP.29）有關活動，共同推動國際標準法規領域的規則銜接。雙方一致表示，願以此次會談為契機，進一步加強交流互訪，深化在中澳兩國智慧網聯新能源汽車產業交流、技術標準與法規協調等。"
+    },
+    {
+      "id": "5151443",
+      "time": "2026-10-17 15:38:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯緊急服務部門訊息：烏克蘭無人機襲擊俄羅斯別爾哥羅德地區，造成一名女性死亡。"
+    },
+    {
+      "id": "5151442",
+      "time": "2026-10-17 15:35:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破98美元，日內漲超3.1%。"
+    },
+    {
+      "id": "5151441",
+      "time": "2026-10-17 15:35:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【上海財經大學校長劉元春：AI重塑全球金融結構 經濟“新三角”已然形成】在10月17日舉辦的“全球財富管理論壇·2026上海蘇河灣大會”上，上海財經大學校長劉元春表示，傳統全球經濟三角格局已經崩潰，“新三角”已然形成。“‘新三角’指的是美國創新與金融成為孿生體、歐洲儲蓄率飆升、中國板塊呈現革命性變化。在‘新三角’裡看到的投資機會以及金融需求變化，是我們需要高度關注的。”劉元春表示，當前全球經濟的彈性和韌性超出預期，未來經濟的低速增長已成為共識，但學界對於AI將如何作用於全球經濟增長，仍然存在顯著分歧。一部分技術激進主義者認為，AI會快速拉動全球經濟重回4%高增長區間，悲觀陣營則擔憂會遭遇索洛悖論、J曲線效應，甚至迎來結構性衝擊。（上證報）"
+    },
+    {
+      "id": "5151440",
+      "time": "2026-10-17 15:34:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克蘇萊曼尼亞一處油庫發生火災。"
+    },
+    {
+      "id": "5151439",
+      "time": "2026-10-17 15:33:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬斯克：你將能夠要求Roadster自主執行演示中展示的任何特技動作。因為它將具有感知能力。此外，我們將在德克薩斯總部建造一條狂野的迴圈賽道（甚至比 “風火輪”還要瘋狂），你可以在那裡測試你的Roadster。"
+    },
+    {
+      "id": "5151438",
+      "time": "2026-10-17 15:33:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美銅暗盤跌破6.6美元，日內跌幅0.5%。"
+    },
+    {
+      "id": "5151437",
+      "time": "2026-10-17 15:33:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交行副行長周萬阜：銀行經營重心要從“拉存款”轉向“AUM綜合經營”】10月17日，交通銀行副行長周萬阜在全球財富管理論壇.2026上海蘇河灣大會上表示，低利率喚醒了居民和企業的資產配置意識，存款加速向理財、基金、保險等遷移。應對負債端“存款理財化”的變化，銀行需要把經營座標從存款餘額切換為客戶金融資產總量，將負債管理從拉存款轉向AUM(客戶資產規模)綜合經營。（澎湃）"
+    },
+    {
+      "id": "mkt:01a148c7-6dd5-7ee0-a8c9-d59d2e024bd1",
+      "time": "2026-10-17 15:33:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Bank of Communications deputy president Zhou Wanfu says banks should shift focus from deposit gathering to integrated AUM management】On Oct. 17 at the Global Wealth Management Forum 2026 in Shanghai’s Suhewan, Bank of Communications deputy president Zhou Wanfu said low interest rates have prompted households and corporates to reallocate assets, accelerating deposit flows into wealth management, mutual funds and insurance. To address liability-side “deposit financialization,” banks should change operating metrics from deposit balances to total client financial assets and shift liability management from deposit gathering to integrated AUM (client assets under management) operations."
+    },
+    {
+      "id": "5151436",
+      "time": "2026-10-17 15:32:21",
+      "tags": [
+        "央行",
+        "觀點",
+        "其他",
+        "國際"
+      ],
+      "text": "英國央行行長貝利：在支付技術領域開展全球合作至關重要。"
+    },
+    {
+      "id": "5151435",
+      "time": "2026-10-17 15:29:11",
+      "tags": [
+        "央行",
+        "觀點",
+        "國際"
+      ],
+      "text": "英國央行行長貝利：人工智慧將導致支付欺詐問題進一步惡化。"
+    },
+    {
+      "id": "5151434",
+      "time": "2026-10-17 15:28:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【橫跨六省區 甘浙特高壓工程直流系統進入除錯階段】近日，甘肅至浙江特高壓工程迎來關鍵節點，該工程受端的越州換流站接地極在浙江臨安完成驗收。這是該工程直流系統首個透過驗收的核心單元，標誌著甘浙特高壓直流系統進入除錯階段。"
+    },
+    {
+      "id": "5151433",
+      "time": "2026-10-17 15:27:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際貨幣基金組織總裁：秋季年會達成三項核心共識】當地時間10月17日，國際貨幣基金組織（IMF）總裁克里斯塔利娜·格奧爾基耶娃在泰國曼谷舉行的2026年秋季年會總結髮言中表示，本次會議圍繞全球經濟韌性、人工智慧發展及其風險、全球經濟分化等議題展開深入討論，並達成三項核心共識。格奧爾基耶娃指出，人工智慧已成為推動經濟增長的重要動力，但過度依賴單一增長引擎也會帶來風險。當前全球經濟韌性的基礎正面臨挑戰。其次，全球經濟分化日益加劇。未能參與人工智慧價值鏈的國家，以及受到戰爭衝擊的能源進口國，正面臨更大的發展壓力，全球經濟增長紅利尚未得到均衡分享。第三，人工智慧發展迅速，當下的政策選擇將深刻影響其未來發展方向。各方普遍認為，在充分釋放人工智慧發展紅利的同時，也需要建立必要的防護機制，管控相關風險，並加強政府、企業及國際機構之間的合作。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a148c2-53c4-7ee0-a8c9-cb2afcc0ec8e",
+      "time": "2026-10-17 15:27:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【IMF's Georgieva says autumn meetings reached three core agreements】On Oct. 17 in Bangkok IMF Managing Director Kristalina Georgieva said the 2026 autumn meetings produced three core consensuses: AI is now a key growth driver but overreliance and concentration pose risks and global economic resilience is under pressure; global economic divergence is widening—countries outside the AI value chain and energy-importing economies hit by war face greater development stress and growth gains are unevenly shared; and rapid AI development means current policy choices will shape its future path. Participants agreed to pursue AI’s benefits while building safeguards, risk controls and stronger cooperation among governments, firms and international institutions."
+    },
+    {
+      "id": "mkt:01a148c0-d9a5-7ee0-a8c9-c5ed1844fd57",
+      "time": "2026-10-17 15:26:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "【Beijing's first-release economy hits new high in first three quarters of 2026】Beijing said it used city–district coordination and three-new pilot construction funds to attract domestic and foreign brands to open first stores and stage debut events. Jan–Sep 2026: 766 new physical first stores opened and 893 debut/launch/exhibit/performance events were held. The city reported an improvement in supply quality toward “new”: technology-enabled new scenarios, national‑chic brands energizing the central axis, and high‑end formats extending into suburban micro‑vacation areas."
+    },
+    {
+      "id": "5151432",
+      "time": "2026-10-17 15:18:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：由誰承擔 AI 智慧體相關責任這一問題極具現實意義。"
+    },
+    {
+      "id": "mkt:01a148b8-e6ed-7ee0-a8c9-bb8c231192df",
+      "time": "2026-10-17 15:17:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Bank of England Governor Bailey said the world needs stricter testing standards for AI models."
+    },
+    {
+      "id": "5151431",
+      "time": "2026-10-17 15:15:44",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "英國央行行長貝利：全球需要更嚴格的人工智慧模型測試標準。"
+    },
+    {
+      "id": "5151430",
+      "time": "2026-10-17 15:06:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【生態環境部部長黃潤秋出席《生物多樣性公約》第十七次締約方大會領導人峰會】據生態環境部網站訊息，當地時間10月16日，《生物多樣性公約》第十七次締約方大會領導人峰會在亞美尼亞埃裡溫舉行。生態環境部部長黃潤秋作為中方代表出席峰會開幕式並致辭。黃潤秋指出，“昆蒙框架”實施時間已經過半，國際社會應進一步凝聚共識、加強合作，共同採取系統性、變革性措施，確保目標如期實現。要堅定決心、聚焦行動，加快推進國家戰略行動計劃落地實施，將全球目標轉化為國家政策與務實舉措。要攜手同行、合作共贏，加大對發展中國家資金、技術和能力建設支援，推動“昆蒙框架”得到全面平衡有效執行。要多元共治、促進轉型，透過加強生物多樣性保護，不斷提升可持續發展的韌性。中方願同各方一道，以務實行動推動全球目標落地，共建地球生命共同體。"
+    },
+    {
+      "id": "5151429",
+      "time": "2026-10-17 15:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【766家首店、893場首發活動 北京2026前三季度首發經濟“含新量”再創新高】2026年以來，北京市錨定首發經濟關鍵引領作用，堅持市區聯動、精準發力，用好“三新”試點建設資金，持續吸引國內外知名品牌來京開設首店、舉辦首發活動。今年1-9月，全市新增實體首店766家，舉辦首發、首秀、首展、首演活動893場。前三季度，北京首發經濟在保持規模高位平穩的同時，實現了供給結構的向“新”提質，整體呈現“科技賦能新場景、國潮點亮中軸線、高品質業態向京郊微度假延展”的新特徵。首店經濟與情緒經濟、戶外經濟、主理人經濟等新消費賽道深度交融，切實將首發優勢轉化為消費增量，為國際消費中心城市培育建設注入強勁動能。(北京釋出)"
+    },
+    {
+      "id": "mkt:01a148ad-3822-7ee0-a8c9-b246feec38b9",
+      "time": "2026-10-17 15:04:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China, South Korea complete joint maritime law-enforcement patrol in provisional fisheries waters】From Oct. 8–17, 2026, China Coast Guard ship Changshan and South Korea’s fisheries guidance vessel Mugunghwa 42 conducted a joint law-enforcement patrol in waters covered by provisional measures under the China–South Korea fisheries agreement to maintain fisheries production order and deepen maritime enforcement cooperation."
+    },
+    {
+      "id": "5151428",
+      "time": "2026-10-17 15:04:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中韓海上執法部門圓滿完成中韓漁業協定暫定措施水域聯合巡航】  為維護中韓漁業協定暫定措施水域漁業生產秩序，深化中韓兩國海上執法機構合作交流，10月8日至17日，中國海警長山艦與韓無窮花42漁業指導船在中韓漁業協定暫定措施水域開展了2026年中韓海上執法機構聯合執法巡航。 （中國海警）"
+    },
+    {
+      "id": "mkt:01a148ac-5256-7ee0-a8c9-ade975ab261e",
+      "time": "2026-10-17 15:03:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ZTE CTO: next‑gen data‑center NPO targets AI Fabric; spaceborne 100G/200G commercial validation under way】ZTE Executive VP and CTO Wang Xiyu said the company’s next‑generation data‑center network NPO is being positioned as an improved solution for AI Fabric, targeting node‑internal interconnects as the primary use case. He highlighted a trend of optical components converging toward electrical chips and described NPO as balancing openness, cost and maintainability to lead high‑density bandwidth evolution. On spaceborne links, ZTE is advancing commercial validation of 100G/200G onboard products; 400G/800G core chips and optical devices are in validation to support long‑term evolution of satellite laser communications. Product designs will allow laser and routing functions to be combined or separated to fit different satellite platforms, and integrated space‑ground high‑value applications are being deployed."
+    },
+    {
+      "id": "5151427",
+      "time": "2026-10-17 15:02:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【蔚來秦力洪：第三季度蔚來公司終端銷量首次超越賓士、寶馬、奧迪三大德系豪華廠商】10月17日，蔚來聯合創始人、總裁秦力洪透露：根據威爾森終端銷量資料，2026年第三季度，蔚來公司在中國市場的累計銷量達11.1638萬臺。同期，寶馬廠商含MINI品牌的銷量為10.721萬臺，賓士廠商含邁巴赫、Smart品牌的銷量為99592臺，奧迪廠商的銷量為94597臺，蔚來公司季度銷量首次同時超越賓士、寶馬、奧迪三大德系豪華廠商。資料顯示，第三季度，蔚來公司在8省40城的銷量超越了BBA三強，在12省94城的銷量至少超越了BBA中的一強。從今年1月的2省8城，到4月的4省30城，再到6月的7省36城，蔚來公司單月銷量超越BBA三強的省市範圍不斷擴大，如今又達成季度終端銷量的突破，釋放出持續走強的市場勢能。"
+    },
+    {
+      "id": "5151426",
+      "time": "2026-10-17 15:01:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中興通訊CTO王喜瑜：新一代資料中心網路NPO方案正在為AI Fabric提供更優解】10月15至17日，第十屆未來網路發展大會在江蘇南京舉辦。中興通訊執行副總裁兼技術長王喜瑜演講指出，隨著AI大模型、算力叢集快速發展，資料中心域、廣域、空天域的業務發生深刻變革，光互聯正在向極短距與極長距兩個方向加速延伸，一束光貫通全場景，網路迎來全新的發展訴求。針對資料中心域場景，光器件逐步向電晶片靠攏是光互聯的一個顯著趨勢，NPO兼顧開放、成本與可維的優勢，節點內互聯是NPO的主場景。王喜瑜表示中興通訊新一代資料中心網路NPO方案，正在為AI Fabric提供更優解，成為高密度頻寬發展的先鋒。面向空天域場景，他進一步指出，衛星鐳射通訊，正在把網路從地面延伸向太空。在頻寬能力上，中興通訊正在推進星載100G/200G產品的商用驗證，400G/800G的核心晶片與光器件也在驗證中，可以滿足星載鐳射應用長期演進的需要；在產品形態上，支援“鐳射與路由可分可合”，以適應不同衛星平臺的需求，天地一體的高價值場景正在落地生根。"
+    },
+    {
+      "id": "5151425",
+      "time": "2026-10-17 14:58:01",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "【孟加拉國一度假村發生火災 已致6人死亡】總檯記者獲悉，當地時間17日早間，孟加拉國東南部科克斯巴扎爾地區的一座度假村餐廳發生火災，造成至少6人死亡、4人受傷。據悉，消防部門接警後調派力量趕赴現場滅火，火勢於當天11時左右得到控制。（央視新聞）"
+    },
+    {
+      "id": "5151424",
+      "time": "2026-10-17 14:55:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【保健食品≠藥品 北京市場監管釋出重陽節消費提示】重陽將至，近年來，部分不法商家瞄準老年群體，利用養生焦慮，透過免費禮品、違法會銷、私域直播等套路誇大保健食品功效，誘導老年人盲目消費。今天，北京市市場監管局釋出消費提示，提示消費者科學理性選購保健食品。保健食品是指聲稱並具有特定保健功能或者以補充維生素、礦物質為目的的食品。即適用於特定人群食用，具有調節機體功能，不以治療疾病為目的，對人體不產生任何急性、亞急性或慢性危害的食品。（央視新聞）"
+    },
+    {
+      "id": "5151422",
+      "time": "2026-10-17 14:51:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際貨幣基金組織將臺灣列為中國一省 民進黨當局破防】據臺媒報道，國際貨幣基金組織近日公佈最新經濟預測時，將臺灣地區表述為中國臺灣省，這個體現一中原則的表述，卻讓民進黨當局瞬間破防。臺外事部門跳出來叫囂，聲稱提出嚴正抗議、表達不滿，遭到島內輿論的嘲諷與批評。  （看臺海）"
+    },
+    {
+      "id": "5151421",
+      "time": "2026-10-17 14:47:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯在與前白宮發言人肖恩·斯派塞討論美國與伊朗的戰爭時表示，他曾與特朗普存在分歧。"
+    },
+    {
+      "id": "mkt:01a1489d-0c7b-7ee0-a8c9-a7a2554b85c7",
+      "time": "2026-10-17 14:46:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Vance says he disagreed with Trump on war with Iran】U.S. Vice President Vance told former White House spokesman Sean Spicer on Friday he had disagreed with Trump over a war with Iran. Vance said right‑wing commentator Tucker Carlson, a public critic of the war, was \"very, very angry\" and that they had discussed the issue both privately and publicly."
+    },
+    {
+      "id": "5151420",
+      "time": "2026-10-17 14:38:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【生態環境部部長黃潤秋出席《生物多樣性公約》第十七次締約方大會領導人峰會】黃潤秋指出，“昆蒙框架”實施時間已經過半，國際社會應進一步凝聚共識、加強合作，共同採取系統性、變革性措施，確保目標如期實現。要堅定決心、聚焦行動，加快推進國家戰略行動計劃落地實施，將全球目標轉化為國家政策與務實舉措。要攜手同行、合作共贏，加大對發展中國家資金、技術和能力建設支援，推動“昆蒙框架”得到全面平衡有效執行。要多元共治、促進轉型，透過加強生物多樣性保護，不斷提升可持續發展的韌性。中方願同各方一道，以務實行動推動全球目標落地，共建地球生命共同體。 峰會圍繞“政治要務：為和平、安全與發展守護自然”“為未來融資：將資金流向與自然正向發展相契合”等議題，設定領導者圓桌討論會，並透過了《埃裡溫行動倡議》。（生態環境部）"
+    },
+    {
+      "id": "5151419",
+      "time": "2026-10-17 14:35:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報復歐洲“戰場敵對行動”，俄接管更多歐洲企業資產】據路透社10月16日報道，根據俄羅斯總統普京頒佈的法令，俄羅斯已接管法國、德國、瑞典、比利時等國四家企業在當地的資產，以此報復歐洲在戰時對烏克蘭的支援。 據報道，這份15日頒佈的法令所涉資產歸屬以下企業：法國地板製造商得嘉集團、德國包裝企業門申、瑞典包裝公司瑞典國際控股以及比利時衛生用品企業昂泰。 法令同時還列入了原歐洲金屬包裝巨頭伊維奧斯在俄資產。該公司已於2024年12月被美國包裝集團索諾科收購，法令註明，相關資產歸屬索諾科的荷蘭子公司。 克里姆林宮表示，本次資產接管延續了此前的做法。上個月俄方已對食品巨頭雀巢、零售企業歐尚和麥德龍採取過類似措施。 克里姆林宮發言人德米特里·佩斯科夫稱：“企業所屬國家是作出這一決定的考量因素之一。” 他補充道，這些國家參與了對俄羅斯資產的“非法徵收”。 （參考訊息）"
+    },
+    {
+      "id": "mkt:01a14892-3a05-7ee0-a8c9-9c73c98a299b",
+      "time": "2026-10-17 14:35:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "Bank of England Governor Bailey to speak in ten minutes."
+    },
+    {
+      "id": "mkt:01a1488c-6a4a-7ee0-a8c9-9272615ca7c9",
+      "time": "2026-10-17 14:28:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) said on Friday an oil tanker was struck by an unidentified projectile in waters northeast of Jubail, Saudi Arabia; all crew are safe and have been evacuated."
+    },
+    {
+      "id": "5151418",
+      "time": "2026-10-17 14:28:22",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "英國海上貿易行動辦公室(UKMTO)稱，週五在沙烏地阿拉伯朱拜勒東北方向，一艘油輪被不明飛行物擊中，船員安全並已撤離。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202610173899039938",
+      "time": "2026-10-17 14:27:28",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長拉加德：應採取適度政策舉措遏制通脹】歐洲央行行長拉加德表示，戰爭帶來通脹上行風險。財政可持續性仍是整體經濟穩定的“重要支柱”，各國政府應當確保針對能源衝擊出臺的財政舉措具備臨時性、定向性與適配性。經濟前景下行風險存在，通脹風險上行；應採取適度政策舉措遏制通脹。"
+    },
+    {
+      "id": "mkt:01a1488a-40bb-7ee0-a8c9-8d13b9d3560a",
+      "time": "2026-10-17 14:26:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【IMF managing director warns of risks from nonbank financial firms, cyberattacks and fraud】IMF Managing Director Kristalina Georgieva urged regulators to be vigilant about risks from nonbank financial institutions, cyberattacks and fraud. She said central banks should stay highly focused on maintaining price stability. Delegates at this week’s IMF–World Bank annual meetings in Bangkok flagged signs of fragility as energy and fiscal buffers are depleted and economic resilience begins to show strain."
+    },
+    {
+      "id": "mkt:01a14888-773a-7ee0-a8c9-810dd7481bd7",
+      "time": "2026-10-17 14:24:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The regional governor said a Russian airstrike on Kherson, Ukraine killed one and injured 19."
+    },
+    {
+      "id": "mkt:01a14888-5e88-7ee0-a8c9-788a98bea091",
+      "time": "2026-10-17 14:24:18",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Governing Council member Nagel said the work to combat inf is not finished and he feels more needs to be done."
+    },
+    {
+      "id": "5151417",
+      "time": "2026-10-17 14:23:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "州長稱，俄羅斯空襲烏克蘭赫爾松造成1人死亡，19人受傷。"
+    },
+    {
+      "id": "5151416",
+      "time": "2026-10-17 14:23:18",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "英國海上貿易行動辦公室：收到沙特附近海域事件的遲報，油輪在沙烏地阿拉伯朱拜勒附近遭炮彈擊中。"
+    },
     {
       "id": "5151415",
       "time": "2026-10-17 14:22:40",
