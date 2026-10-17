@@ -1,7 +1,42 @@
 {
-  "updated": "2026-10-17 21:28:24",
-  "count": 12622,
+  "updated": "2026-10-17 21:32:19",
+  "count": 12625,
   "items": [
+    {
+      "id": "mkt:01a14a0e-8a61-7ee0-a8cc-3413542357a3",
+      "time": "2026-10-17 21:30:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's Prime Minister Magyar will submit the 2027 budget to parliament on Monday."
+    },
+    {
+      "id": "te:markets:592885",
+      "time": "2026-10-17 21:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 1.14% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.14% decrease."
+    },
+    {
+      "id": "5151625",
+      "time": "2026-10-17 21:30:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "多位官員透露，美國衛生與公眾服務部部長小羅伯特·肯尼迪計劃就“超加工食品”的定義召開會議，將於下週與白宮官員會面。"
+    },
+    {
+      "id": "5151624",
+      "time": "2026-10-17 21:28:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，他將於週一在議會提交2027年預算案。"
+    },
     {
       "id": "5151623",
       "time": "2026-10-17 21:27:14",
@@ -115557,14 +115592,6 @@
         "國際"
       ],
       "text": "【美國賓州發生槍擊事件致9人死亡】美國賓夕法尼亞州伊利市9日晚發生大規模槍擊事件，造成9人死亡，其中包括多名兒童。目前，槍手和死者身份尚未公佈，槍擊動機及事發原因等具體情況仍在調查中。（央視新聞）"
-    },
-    {
-      "id": "5136435",
-      "time": "2026-10-10 21:29:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本外相茂木敏充與美國國務卿魯比奧通電話，就近期發生在沖繩的美軍士兵搶劫殺人事件重申了日本的立場，並對該事件表示遺憾。"
     }
   ]
 }

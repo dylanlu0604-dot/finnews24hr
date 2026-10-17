@@ -1,7 +1,42 @@
 {
   "date": "2026-10-17",
-  "count": 1011,
+  "count": 1015,
   "items": [
+    {
+      "id": "mkt:01a14a0e-8a61-7ee0-a8cc-3413542357a3",
+      "time": "2026-10-17 21:30:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's Prime Minister Magyar will submit the 2027 budget to parliament on Monday."
+    },
+    {
+      "id": "te:markets:592885",
+      "time": "2026-10-17 21:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Drops by 1.14% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.14% decrease."
+    },
+    {
+      "id": "5151625",
+      "time": "2026-10-17 21:30:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "多位官員透露，美國衛生與公眾服務部部長小羅伯特·肯尼迪計劃就“超加工食品”的定義召開會議，將於下週與白宮官員會面。"
+    },
+    {
+      "id": "5151624",
+      "time": "2026-10-17 21:28:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，他將於週一在議會提交2027年預算案。"
+    },
     {
       "id": "5151623",
       "time": "2026-10-17 21:27:14",
