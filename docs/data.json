@@ -1,7 +1,60 @@
 {
-  "updated": "2026-10-17 13:17:49",
-  "count": 12631,
+  "updated": "2026-10-17 13:21:45",
+  "count": 12636,
   "items": [
+    {
+      "id": "5151372",
+      "time": "2026-10-17 13:20:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：財政可持續性對經濟穩定至關重要。"
+    },
+    {
+      "id": "5151371",
+      "time": "2026-10-17 13:20:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐元區增長面臨下行風險。"
+    },
+    {
+      "id": "5151370",
+      "time": "2026-10-17 13:20:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德呼籲重拾開放、可預期性與法治原則。"
+    },
+    {
+      "id": "mkt:01a1484d-7d39-7ee0-a8c8-69f173be1e4a",
+      "time": "2026-10-17 13:20:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC and Germany's GFZ downgraded the magnitude of an earthquake near Khuzdar, Pakistan, from 6.0 to 5.6."
+    },
+    {
+      "id": "mkt:01a1484b-6b4b-7ee0-a8c8-648d91eb5fd1",
+      "time": "2026-10-17 13:17:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reports an M6.0 earthquake near Khuzdar, Pakistan."
+    },
+    {
+      "id": "mkt:01a1484b-329a-7ee0-a8c8-5cfa6df2c7d7",
+      "time": "2026-10-17 13:17:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Market participants see electricity-price inflection emerging】As Q4 begins the seasonal lull has not materialized: monthly traded power prices rose in Guangdong and Jiangsu and southern spot power strengthened even after peak-summer demand began to fade. On Oct 13 the Jiangsu Electricity Trading Center issued the 2027 Jiangsu Electricity Retail Market Transaction Work Guidelines to promote wholesale-to-retail price pass-through. Industry experts say the current price rise reflects multiple supply- and demand-side factors and constitutes a reasonable market fluctuation; several broker utilities analysts judge 2026 may be the domestic electricity-price trough and that an inflection is emerging."
+    },
     {
       "id": "5151368",
       "time": "2026-10-17 13:15:43",
@@ -115529,14 +115582,6 @@
         "公司"
       ],
       "text": "【新思科技與亞馬遜達成多年期定製晶片戰略IP協議】10月10日，據新思科技訊息，新思科技近日與亞馬遜開展戰略合作，利用新思科技矽IP和AI驅動的工程軟體解決方案，加速亞馬遜定製晶片和AWS基礎設施的開發。雙方簽署一項為期多年、金額超過10億美元的協議。據介紹，新思科技將利用AWS服務加速產品開發，並與亞馬遜合作，針對Trainium和Graviton最佳化新思科技軟體。新思科技工程團隊還將採用Amazon Elastic Compute Cloud（Amazon EC2）和Amazon Bedrock，加速產品開發。"
-    },
-    {
-      "id": "5136148",
-      "time": "2026-10-10 13:18:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人社部：“十五五”期間鼓勵支援農民工、新就業形態人員等參加職工養老保險】2026年10月10日，在國新辦舉行的新聞釋出會上，人力資源社會保障部新聞發言人、副部長李忠在回答上述問題時提到，“十五五”期間一個很重要的目標，是鼓勵支援靈活就業人員、農民工、新就業形態人員參加職工養老保險。李忠表示，近年來，我國成功建成了具有鮮明中國特色、世界上規模最大的社會保障體系。“十五五”時期，將緊扣更加最佳化更可持續目標，不斷增強制度的可持續性、公平可及性、安全性、便捷性和規範性，努力把社會保障網織得更密、更牢靠。總的考慮，可以用三個關鍵詞來概括主要工作：擴面提質、完善制度、保障安全。（澎湃新聞）"
     }
   ]
 }

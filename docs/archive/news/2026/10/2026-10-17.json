@@ -1,7 +1,60 @@
 {
   "date": "2026-10-17",
-  "count": 688,
+  "count": 694,
   "items": [
+    {
+      "id": "5151372",
+      "time": "2026-10-17 13:20:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：財政可持續性對經濟穩定至關重要。"
+    },
+    {
+      "id": "5151371",
+      "time": "2026-10-17 13:20:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐元區增長面臨下行風險。"
+    },
+    {
+      "id": "5151370",
+      "time": "2026-10-17 13:20:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德呼籲重拾開放、可預期性與法治原則。"
+    },
+    {
+      "id": "mkt:01a1484d-7d39-7ee0-a8c8-69f173be1e4a",
+      "time": "2026-10-17 13:20:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC and Germany's GFZ downgraded the magnitude of an earthquake near Khuzdar, Pakistan, from 6.0 to 5.6."
+    },
+    {
+      "id": "mkt:01a1484b-6b4b-7ee0-a8c8-648d91eb5fd1",
+      "time": "2026-10-17 13:17:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reports an M6.0 earthquake near Khuzdar, Pakistan."
+    },
+    {
+      "id": "mkt:01a1484b-329a-7ee0-a8c8-5cfa6df2c7d7",
+      "time": "2026-10-17 13:17:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Market participants see electricity-price inflection emerging】As Q4 begins the seasonal lull has not materialized: monthly traded power prices rose in Guangdong and Jiangsu and southern spot power strengthened even after peak-summer demand began to fade. On Oct 13 the Jiangsu Electricity Trading Center issued the 2027 Jiangsu Electricity Retail Market Transaction Work Guidelines to promote wholesale-to-retail price pass-through. Industry experts say the current price rise reflects multiple supply- and demand-side factors and constitutes a reasonable market fluctuation; several broker utilities analysts judge 2026 may be the domestic electricity-price trough and that an inflection is emerging."
+    },
     {
       "id": "5151368",
       "time": "2026-10-17 13:15:43",
