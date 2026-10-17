@@ -1,7 +1,71 @@
 {
-  "updated": "2026-10-17 13:21:45",
-  "count": 12636,
+  "updated": "2026-10-17 13:25:37",
+  "count": 12639,
   "items": [
+    {
+      "id": "5151375",
+      "time": "2026-10-17 13:23:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：超30家央行對EUREP表達了興趣。"
+    },
+    {
+      "id": "5151374",
+      "time": "2026-10-17 13:22:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐洲央行採取審慎的應對措施仍然恰當。"
+    },
+    {
+      "id": "mkt:01a1484f-aa41-7ee0-a8c8-802a80d196c7",
+      "time": "2026-10-17 13:22:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB President LAGARDE said the war poses upside risks to inf."
+    },
+    {
+      "id": "mkt:01a1484f-5c14-7ee0-a8c8-7b0c273b3b7e",
+      "time": "2026-10-17 13:22:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said fiscal sustainability is critical to economic stability."
+    },
+    {
+      "id": "mkt:01a1484f-469b-7ee0-a8c8-73e2c1b1304b",
+      "time": "2026-10-17 13:21:57",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB President LAGARDE said euro-area growth faces downside risks."
+    },
+    {
+      "id": "5151373",
+      "time": "2026-10-17 13:21:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：戰爭帶來通脹上行風險。"
+    },
     {
       "id": "5151372",
       "time": "2026-10-17 13:20:49",
@@ -115558,30 +115622,6 @@
         "其他"
       ],
       "text": "【胖東來將建近100米高酒店】10月9日，許昌市自然資源和規劃局官網公佈胖東來夢之城二、三、四期建設工程規劃許可批前公示。公示顯示，胖東來夢之城專案二期為幸福講堂，面積5630平方米，高度小於等於24米；三期為文化中心，面積3.62萬平方米，高度小於等於25.45米；四期為酒店，面積6.6萬平方米，高度小於等於99.95米。"
-    },
-    {
-      "id": "5136150",
-      "time": "2026-10-10 13:24:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【粵艇南下首航儀式10月16日舉行】香港特區政府運輸及物流局局長陳美寶今日（10日）表示，國慶黃金週整體訪港旅客數目約160萬人次，當中內地入境旅客超過141萬人次，較去年共8日的國慶黃金週內地旅客人次更高。新皇崗口岸將於10月12日早上6時30分正式開通，10月16日局方和海事處將會舉行粵港澳遊艇自由行“粵艇南下”的首航儀式，在“港艇北上”的基礎上，迎來海上版的“雙向奔赴”。 （大灣區之聲）"
-    },
-    {
-      "id": "mkt:01a12443-a57e-7ee0-a823-0b324d054237",
-      "time": "2026-10-10 13:22:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "'Cockroach People's Party' — Indian police detained Abhijeet Deepak, founder of the 'Cockroach' youth movement."
-    },
-    {
-      "id": "5136149",
-      "time": "2026-10-10 13:22:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新思科技與亞馬遜達成多年期定製晶片戰略IP協議】10月10日，據新思科技訊息，新思科技近日與亞馬遜開展戰略合作，利用新思科技矽IP和AI驅動的工程軟體解決方案，加速亞馬遜定製晶片和AWS基礎設施的開發。雙方簽署一項為期多年、金額超過10億美元的協議。據介紹，新思科技將利用AWS服務加速產品開發，並與亞馬遜合作，針對Trainium和Graviton最佳化新思科技軟體。新思科技工程團隊還將採用Amazon Elastic Compute Cloud（Amazon EC2）和Amazon Bedrock，加速產品開發。"
     }
   ]
 }

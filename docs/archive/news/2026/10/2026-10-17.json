@@ -1,7 +1,71 @@
 {
   "date": "2026-10-17",
-  "count": 694,
+  "count": 700,
   "items": [
+    {
+      "id": "5151375",
+      "time": "2026-10-17 13:23:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：超30家央行對EUREP表達了興趣。"
+    },
+    {
+      "id": "5151374",
+      "time": "2026-10-17 13:22:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：歐洲央行採取審慎的應對措施仍然恰當。"
+    },
+    {
+      "id": "mkt:01a1484f-aa41-7ee0-a8c8-802a80d196c7",
+      "time": "2026-10-17 13:22:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB President LAGARDE said the war poses upside risks to inf."
+    },
+    {
+      "id": "mkt:01a1484f-5c14-7ee0-a8c8-7b0c273b3b7e",
+      "time": "2026-10-17 13:22:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said fiscal sustainability is critical to economic stability."
+    },
+    {
+      "id": "mkt:01a1484f-469b-7ee0-a8c8-73e2c1b1304b",
+      "time": "2026-10-17 13:21:57",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB President LAGARDE said euro-area growth faces downside risks."
+    },
+    {
+      "id": "5151373",
+      "time": "2026-10-17 13:21:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：戰爭帶來通脹上行風險。"
+    },
     {
       "id": "5151372",
       "time": "2026-10-17 13:20:49",
