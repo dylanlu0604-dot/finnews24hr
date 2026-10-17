@@ -1,7 +1,36 @@
 {
   "date": "2026-10-17",
-  "count": 870,
+  "count": 873,
   "items": [
+    {
+      "id": "5151489",
+      "time": "2026-10-17 17:31:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "梵蒂岡：教皇利奧已準備出院。"
+    },
+    {
+      "id": "mkt:01a14932-30c1-7ee0-a8ca-70e5aabf1508",
+      "time": "2026-10-17 17:29:48",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Russian Defence Ministry says its forces have taken control of eight Ukrainian settlements."
+    },
+    {
+      "id": "5151488",
+      "time": "2026-10-17 17:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，其部隊已控制另外八個烏克蘭定居點。"
+    },
     {
       "id": "mkt:01a14930-6a4d-7ee0-a8ca-6a5eaa45b197",
       "time": "2026-10-17 17:27:51",
