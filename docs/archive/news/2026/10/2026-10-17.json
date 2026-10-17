@@ -1,7 +1,48 @@
 {
   "date": "2026-10-17",
-  "count": 757,
+  "count": 761,
   "items": [
+    {
+      "id": "mkt:01a14878-ba3e-7ee0-a8c9-5ccfe4c49998",
+      "time": "2026-10-17 14:07:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Lagarde stresses fiscal prudence, warns of upside inflation risk】ECB President Lagarde told the IMF's International Monetary and Financial Committee that fiscal sustainability remains a key pillar of macro stability. She said high-debt countries should pursue fiscal consolidation, reprioritize spending and improve public finance efficiency to rebuild buffers. Any fiscal measures to address the energy shock should be temporary, targeted and tailored. On the euro-area outlook, Lagarde said growth risks are tilted to the downside while inflation risks are tilted to the upside, and that the energy shock is too large to ignore but cautious, measured responses remain appropriate to control inflation."
+    },
+    {
+      "id": "5151409",
+      "time": "2026-10-17 14:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【被問是否是替罪羊，澤連斯基沉默不語】烏克蘭總統澤連斯基10月16日在比利時布魯塞爾召開新聞釋出會時，英國天空頻道的記者提問，美國總統特朗普是否將澤連斯基用作“替罪羊”。澤連斯基沉默了十餘秒，然後露出頗有意味的微笑，並表示這就是他的“回答”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:01a14875-b685-7ee0-a8c9-5381575774f9",
+      "time": "2026-10-17 14:03:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【PBOC's Pan meets central bank governors at IMF/World Bank meetings】PBOC's Pan met with central bank governors from Thailand, Indonesia, Malaysia, the Reserve Bank of India, Australia, Turkey (Karahan), Egypt, Nigeria (Cardoso) and Georgia during the IMF/World Bank annual meetings Oct. 14-16, 2026 to exchange views on the global economic outlook and deepen bilateral practical financial cooperation. PBOC Vice Governor Xuan Changneng attended."
+    },
+    {
+      "id": "5151408",
+      "time": "2026-10-17 14:03:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【中國人民銀行行長潘功勝會見相關國家央行行長】2026年10月14日至16日，中國人民銀行行長潘功勝在出席國際貨幣基金組織/世界銀行年會期間，分別會見了泰國央行行長威泰、印尼央行行長德斯特里、馬來西亞央行行長拉希德、印度央行行長馬爾霍特拉、澳大利亞央行行長布洛克、土耳其央行行長卡拉漢、埃及央行行長阿卜杜拉、奈及利亞央行行長卡多索、喬治亞央行行長特爾納瓦等相關國家央行行長，就全球經濟形勢、深化雙邊務實金融合作等議題交換了意見。中國人民銀行副行長宣昌能參加會見。（中國人民銀行）"
+    },
     {
       "id": "5151407",
       "time": "2026-10-17 14:02:58",
