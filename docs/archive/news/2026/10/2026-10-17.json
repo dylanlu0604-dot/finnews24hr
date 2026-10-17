@@ -1,7 +1,25 @@
 {
   "date": "2026-10-17",
-  "count": 604,
+  "count": 606,
   "items": [
+    {
+      "id": "mkt:01a14790-dd02-7ee0-a8c7-9aaf4908a552",
+      "time": "2026-10-17 09:53:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Higher vocational colleges account for over half of China's higher education institutions】China has 9,151 secondary vocational schools (including technical schools), 1,554 higher vocational colleges, 124 vocational undergraduate institutions and 52 regular universities offering vocational bachelor programs. Higher vocational institutions comprise more than half of the country's higher education sector. As of end-2025, the Vocational Education Program Catalogue lists 19 major subject groups, 97 subject categories and 1,491 programs, covering sectors across the national economy and fully spanning 41 major industrial categories."
+    },
+    {
+      "id": "mkt:01a1478e-5230-7ee0-a8c7-9694cc84d952",
+      "time": "2026-10-17 09:51:11",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Bank of China named Sri Lanka's RMB clearing bank】On the 15th Bank of China held an inauguration in Colombo after its Colombo branch was appointed Sri Lanka's RMB clearing bank with support from the PBOC and the Central Bank of Sri Lanka. Bank of China is currently the only Chinese bank operating in Sri Lanka. The appointment is intended to improve cross-border RMB clearing efficiency and RMB service quality."
+    },
     {
       "id": "5151119",
       "time": "2026-10-17 09:49:45",

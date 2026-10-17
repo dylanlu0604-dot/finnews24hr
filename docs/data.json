@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-17 09:50:32",
-  "count": 12727,
+  "updated": "2026-10-17 09:54:26",
+  "count": 12722,
   "items": [
+    {
+      "id": "mkt:01a14790-dd02-7ee0-a8c7-9aaf4908a552",
+      "time": "2026-10-17 09:53:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Higher vocational colleges account for over half of China's higher education institutions】China has 9,151 secondary vocational schools (including technical schools), 1,554 higher vocational colleges, 124 vocational undergraduate institutions and 52 regular universities offering vocational bachelor programs. Higher vocational institutions comprise more than half of the country's higher education sector. As of end-2025, the Vocational Education Program Catalogue lists 19 major subject groups, 97 subject categories and 1,491 programs, covering sectors across the national economy and fully spanning 41 major industrial categories."
+    },
+    {
+      "id": "mkt:01a1478e-5230-7ee0-a8c7-9694cc84d952",
+      "time": "2026-10-17 09:51:11",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Bank of China named Sri Lanka's RMB clearing bank】On the 15th Bank of China held an inauguration in Colombo after its Colombo branch was appointed Sri Lanka's RMB clearing bank with support from the PBOC and the Central Bank of Sri Lanka. Bank of China is currently the only Chinese bank operating in Sri Lanka. The appointment is intended to improve cross-border RMB clearing efficiency and RMB service quality."
+    },
     {
       "id": "5151119",
       "time": "2026-10-17 09:49:45",
@@ -116266,65 +116284,6 @@
         "公司"
       ],
       "text": "【格力電器：元器件公司主要從事第三代半導體碳化矽晶圓製造及功率器件封裝測試業務】有投資者向格力電器（000651.SZ）提問，公司功率半導體上游襯底是否有佈局考慮，還有功率半導體外銷未來是否能給貴司帶來新的利潤增長引擎？10月10日，公司回答表示，元器件公司主要從事第三代半導體碳化矽（SiC）晶圓製造及功率器件封裝測試業務，目前業務呈穩步發展態勢。"
-    },
-    {
-      "id": "5136000",
-      "time": "2026-10-10 09:53:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【么正量子離子阱量子計算機透過QV128基準測試 重新整理國內紀錄】據“合肥高新發布”公眾號，近日，轄區企業合肥么正量子科技有限公司（簡稱“么正量子”）自主研發的離子阱量子計算機透過量子體積（Quantum Volume，QV）128基準測試，重新整理國內公開報道中的最高紀錄。"
-    },
-    {
-      "id": "5135999",
-      "time": "2026-10-10 09:53:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾病控制和預防中心9日釋出的最新資料顯示，截至8日，美國今年已報告4080例麻疹確診病例，超過2025年全年的2289例，為1991年以來年度最高水平。（新華社）"
-    },
-    {
-      "id": "5135998",
-      "time": "2026-10-10 09:52:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普未回應澤連斯基稱其軟弱】當地時間10月9日下午，美國總統特朗普在與俄羅斯總統普京通話後，在白宮對媒體表示，雙方已就俄羅斯向美國及全球市場提供柴油達成一致，他為此感謝普京。現場有記者稱烏克蘭總統澤連斯基因此“批評美方’軟弱’”，特朗普未正面回應。（CCTV國際時訊）"
-    },
-    {
-      "id": "5135997",
-      "time": "2026-10-10 09:52:12",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【阿里創始人馬雲現身NBA中國賽現場，和成龍、貝克漢姆、王寧同框看球】昨日，2026年NBA中國賽將在澳門開打。現場觀眾在社交媒體分享的照片來看，阿里創始人馬雲現身比賽現場，並與成龍、貝克漢姆、阿里巴巴董事會主席蔡崇信、泡泡瑪特創始人王寧等同框觀戰。（新浪科技）"
-    },
-    {
-      "id": "5135996",
-      "time": "2026-10-10 09:51:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在紐約州錫拉丘茲市競選活動上跳舞。"
-    },
-    {
-      "id": "5135995",
-      "time": "2026-10-10 09:51:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "工業和資訊化部辦公廳釋出關於做好第八批產業技術基礎公共服務平臺申報工作的通知。"
-    },
-    {
-      "id": "mkt:01a12381-b5be-7ee0-a822-0f97bd1e417e",
-      "time": "2026-10-10 09:51:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Tarim oilfield cumulative ethane output surpasses 4.08 mln tonnes】China National Petroleum Corp (CNPC) reported Tarim oilfield cumulative ethane output has exceeded 4.08 million tonnes, marking a milestone for deeper processing of natural gas in the Tarim Basin."
     }
   ]
 }
