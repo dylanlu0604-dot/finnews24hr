@@ -1,7 +1,28 @@
 {
   "date": "2026-10-18",
-  "count": 85,
+  "count": 87,
   "items": [
+    {
+      "id": "mkt:01a14b3e-faf0-7ee0-a8cd-c34fd36d9440",
+      "time": "2026-10-18 03:03:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Russian deputy PM says continued Strait of Hormuz blockade would push oil prices higher】Sputnik quoted Russian Deputy Prime Minister Alexander Novak at Russian Energy Week saying shipments through the Strait of Hormuz have not yet resumed, market volatility is high and prices remain elevated. Novak warned that if the blockade persists, oil prices would climb further."
+    },
+    {
+      "id": "5152003",
+      "time": "2026-10-18 02:59:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普聲稱：如今就業的美國人數量超過歷史上任何時期，儘管我們裁減了超過100萬名聯邦僱員。以前一份工作有十個人在做。我們需要聯邦僱員，但不需要每份工作都配十個人。"
+    },
     {
       "id": "mkt:01a14b3a-d78d-7ee0-a8cd-be532ee56149",
       "time": "2026-10-18 02:58:29",
