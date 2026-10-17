@@ -1,7 +1,31 @@
 {
   "date": "2026-10-18",
-  "count": 94,
+  "count": 97,
   "items": [
+    {
+      "id": "5152015",
+      "time": "2026-10-18 03:22:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：過去17個月裡，沒有非法移民透過南部邊境獲准進入美國。"
+    },
+    {
+      "id": "5152014",
+      "time": "2026-10-18 03:21:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：每個使用風力發電機的國家都在走向破產。"
+    },
+    {
+      "id": "mkt:01a14b4f-6491-7ee0-a8cd-ecd43ede523e",
+      "time": "2026-10-18 03:20:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said all countries that use wind power are heading for bankruptcy."
+    },
     {
       "id": "mkt:01a14b4d-34b5-7ee0-a8cd-e3334cbbda9d",
       "time": "2026-10-18 03:18:33",
