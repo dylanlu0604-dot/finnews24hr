@@ -1,7 +1,27 @@
 {
-  "updated": "2026-10-18 03:26:21",
-  "count": 12610,
+  "updated": "2026-10-18 03:30:10",
+  "count": 12607,
   "items": [
+    {
+      "id": "mkt:01a14b56-b3ba-7ee0-a8cd-f8fa244f88e4",
+      "time": "2026-10-18 03:28:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Ukrainian foreign minister says towns under Russian control are death traps and residents face starvation."
+    },
+    {
+      "id": "mkt:01a14b55-07fd-7ee0-a8cd-f151290ce086",
+      "time": "2026-10-18 03:27:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Estonia to provide additional €10 mln for US weapons to Ukraine under NATO PURL】Estonia will allocate an additional €10 mln to buy US weapons for Ukraine under the NATO Priority Urgent Replenishment List (PURL), state broadcaster ERR cited Prime Minister Kristen Michal as saying. PURL is scheduled to launch in summer 2025; under the plan European countries and Canada will finance US deliveries of weapons to Ukraine. Michal told Zelensky the EU will continue to support him."
+    },
     {
       "id": "5152015",
       "time": "2026-10-18 03:22:05",
@@ -115368,46 +115388,6 @@
         "國際"
       ],
       "text": "【俄部分解禁柴油出口】當地時間10月10日晚，俄羅斯政府宣佈部分解除柴油出口禁令，相關措施自當天正式生效。俄羅斯政府公告稱，此舉旨在落實俄羅斯總統普京與美國總統特朗普達成的協議。據相關決定，俄羅斯現階段將允許向國際市場出口50萬噸柴油。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5136640",
-      "time": "2026-10-11 03:29:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "威瑞森：為颶風伊薩亞斯部署移動基站資產並啟動發電機。"
-    },
-    {
-      "id": "5136639",
-      "time": "2026-10-11 03:29:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "威瑞森：為颶風伊薩亞斯籌備1000臺發電機與3000件網路裝置資產。"
-    },
-    {
-      "id": "5136638",
-      "time": "2026-10-11 03:29:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "威瑞森：已部署網路團隊與資產應對颶風伊賽亞斯。"
-    },
-    {
-      "id": "5136637",
-      "time": "2026-10-11 03:29:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "威瑞森：10月9日至15日期間，向受颶風“伊賽亞斯”影響的使用者提供無限通話、簡訊及流量服務。"
-    },
-    {
-      "id": "5136636",
-      "time": "2026-10-11 03:29:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "威瑞森颶風伊薩亞斯過後啟動網路修復工作。"
     }
   ]
 }
