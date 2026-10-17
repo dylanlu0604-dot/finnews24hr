@@ -1,7 +1,65 @@
 {
-  "updated": "2026-10-18 02:56:02",
-  "count": 12603,
+  "updated": "2026-10-18 02:59:49",
+  "count": 12610,
   "items": [
+    {
+      "id": "mkt:01a14b3a-d78d-7ee0-a8cd-be532ee56149",
+      "time": "2026-10-18 02:58:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hackers breach CDU Heilbronn email accounts; phishing sent to about 6,500 including Chancellor Merz】Heilbronn police said on Oct. 17 hackers accessed email accounts of the ruling CDU’s Heilbronn local organization and sent phishing emails to roughly 6,500 contacts, among them Chancellor Merz, government departments and other political contacts. Police said some recipients work in security‑sensitive areas. Investigation is ongoing and it is unclear whether any material damage occurred."
+    },
+    {
+      "id": "5152002",
+      "time": "2026-10-18 02:57:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國執政黨地方賬戶遭駭客入侵 默茨等數千人收到釣魚郵件】德國海爾布隆警方當地時間10月17日表示，駭客侵入德國執政黨基民盟海爾布隆地方組織的電子郵件賬戶，並向約6500名聯絡人傳送詐騙郵件，其中包括德國總理默茨、政府部門及其他政治領域聯絡人。按照警方發言人的說法，部分收件人涉及安全敏感領域。目前，警方正對此事展開調查，尚不清楚是否造成實際損失。（央視新聞）"
+    },
+    {
+      "id": "mkt:01a14b3a-464f-7ee0-a8cd-b0fe1391f281",
+      "time": "2026-10-18 02:57:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump, referring to Iran, said we routed them."
+    },
+    {
+      "id": "5152001",
+      "time": "2026-10-18 02:57:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我可以站在這裡胡說八道兩個小時。"
+    },
+    {
+      "id": "5152000",
+      "time": "2026-10-18 02:56:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們把他們打得落花流水。"
+    },
+    {
+      "id": "mkt:01a14b39-20aa-7ee0-a8cd-aa7868a55d8a",
+      "time": "2026-10-18 02:56:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France's Interior Minister Nunez said 550,000 people participated in demonstrations today, including 110,000 in the capital Paris."
+    },
+    {
+      "id": "5151999",
+      "time": "2026-10-18 02:56:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：10月18日02時50分在新疆巴音郭楞州和靜縣（北緯43.02度，東經84.72度）發生3.2級地震，震源深度13千米。"
+    },
     {
       "id": "5151998",
       "time": "2026-10-18 02:53:36",
