@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18 02:48:28",
-  "count": 12600,
+  "updated": "2026-10-18 02:52:17",
+  "count": 12599,
   "items": [
     {
       "id": "5151994",
@@ -115324,21 +115324,6 @@
         "MKT News"
       ],
       "text": "President Trump said Democrats and the fake-news media are pushing a false narrative that he is unpopular and that Republicans will lose; he said he is popular and Republicans will win, citing record rallies and an upcoming Tennessee event."
-    },
-    {
-      "id": "mkt:01a12726-6bb7-7ee0-a826-13d29fbf4f7b",
-      "time": "2026-10-11 02:49:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O",
-        "Impact mixed"
-      ],
-      "text": "【Microsoft CEO urges emergency 'brake' for advanced AI models】Microsoft (MSFT.O) CEO Satya Nadella said companies should treat powerful AI models as potential internal threats and assume models may be compromised, urging built-in \"emergency brake\" mechanisms so authorized personnel can pause or shut down autonomous agents during task execution. He advised against relying on a single model for critical decisions, called for immutable logs of agent behavior, independent audits of systems, and mandatory disclosure of major failures or security vulnerabilities including causes and details to help others strengthen defenses."
     }
   ]
 }
