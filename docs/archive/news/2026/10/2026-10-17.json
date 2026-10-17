@@ -1,7 +1,23 @@
 {
   "date": "2026-10-17",
-  "count": 1028,
+  "count": 1030,
   "items": [
+    {
+      "id": "mkt:01a14a35-e2a6-7ee0-a8cc-5ae977c0de0b",
+      "time": "2026-10-17 22:13:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【German media: applications to refuse military service nearly triple in 2026】German media, citing data from the Federal Office for Family and Civil Society Affairs, reported 14,977 applications to refuse military service received since January 2026, versus 3,879 such applications in all of 2025, a year-on-year rise described as nearly threefold."
+    },
+    {
+      "id": "5151691",
+      "time": "2026-10-17 22:12:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺方統計：臺灣民眾赴大陸人次前8月同比增長近兩成】臺灣觀光部門最新統計資料顯示，今年1至8月，臺灣民眾赴大陸累計249.2萬人次，同比增長19.63%，兩岸人員往來保持相當規模並呈現增長態勢。統計資料顯示，今年1至8月，大陸穩居臺灣民眾出境旅遊第二大目的地。從月度資料看，3至8月單月赴大陸人次均超過30萬，各月同比均實現兩位數增長。其中，3月赴大陸人次同比增長32.34%。值得注意的是，同期臺灣民眾整體出境人次同比增長15.24%，赴大陸人次增幅高於整體出境增幅，顯示出強勁的市場需求。（新華社）"
+    },
     {
       "id": "5151689",
       "time": "2026-10-17 22:09:31",
