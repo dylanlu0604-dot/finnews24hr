@@ -1,7 +1,320 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-10-18 02:48:28_
-_本檔包含 2528 則快訊，約 477975 字_
+_更新時間：2026-10-18 05:22:15_
+_本檔包含 2520 則快訊，約 477992 字_
+
+---
+
+### 2026-10-13 06:50:51  #公司 #資料 #市場 #觀點 #央行 #國際
+
+【週二重要財經資訊提醒（以下均為北京時間）】 
+① 08:30 澳洲聯儲釋出9月貨幣政策會議的紀要檔案；
+② 時間待定 清華大學經管學院顧問委員會年度會議（新增黃仁勳、蘇姿豐等委員）；
+③ 10:00 IMF公佈《世界經濟展望》報告；
+④ 11:00 英國央行貨幣政策委員會（MPC）成員Greene在泰國曼谷講話；
+⑤ 14:00 德國9月CPI終值；
+⑥ 時間待定 英國議會AI安全聽證會（美四大實驗室出席）；
+⑦ 15:45 美聯儲理事沃勒在AI時代的彭博新經濟論壇談論經濟政策；
+⑧ 美股盤前 高盛、花旗集團、摩根大通、富國銀行、強生、聯合健康等釋出業績報告；
+⑨ 時間待定 石油輸出國組織（OPEC，歐佩克）釋出月度原油市場報告；
+⑩ 時間待定 半導體產業旗艦展會SEMICON West 2026在美國加州舉行（10月13-15日）；
+19:00 美國芝加哥聯儲主席Goolsbee接受Semafor採訪；
+時間待定 蘋果舉行智慧家居新品釋出會；
+22:00 美國9月成屋銷售總數年化，美國芝加哥聯儲主席Goolsbee接受Kyla採訪。
+
+---
+
+### 2026-10-13 06:48:08  #其他
+
+【中國科學院對遊客付費進入“中國天眼”核心區參觀開展核查】中國科學院釋出通報。近日，我院收到反映稱，遊客付費入住特定酒店即可進入“中國天眼”核心區參觀，我院對此高度重視，已成立調查工作組對該事件開展全面核查。若發現違規違紀行為，將對相關單位及責任人嚴肅處理。調查處理情況將及時對外公佈。特此通報。
+
+---
+
+### 2026-10-13 06:45:10  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: XRP Depreciates by 4.02% — Top crypto losers are XRP (-4.02%), Ether (-1.97%), Binance (-1.72%) and Bitcoin (-1.44%).
+
+---
+
+### 2026-10-13 06:44:10  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+【Export-Import Bank of China extends nearly CNY1 tln in foreign-trade loans through Q3】Export-Import Bank of China said it extended nearly CNY1 trillion of new loans to the foreign-trade sector in the first three quarters, up 9% YoY; nearly 40% went to firms and supply chains focused on stabilizing external trade. The bank prioritized support for traditional trade and new business models, and for development of digital and green trade.
+
+---
+
+### 2026-10-13 06:43:45  #其他 #焦點
+
+【中國進出口銀行今年前三季度投放外貿領域貸款近萬億元】今年前三個季度，中國進出口銀行新發放外貿領域貸款近萬億元，同比增長9%，其中近40%投向穩外貿主體和穩外貿產業鏈領域。重點支援傳統貿易與新業態新模式，助力發展數字貿易、綠色貿易。（央視新聞）
+
+---
+
+### 2026-10-13 06:42:49  #其他
+
+xAI推出X訂閱套餐，全球範圍內整合Grok、Grok機器人、Cursor與X Premium各項權益。
+
+---
+
+### 2026-10-13 06:40:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Sugar Rises by 2.96% — Top commodity gainers are Sugar (2.96%) and Rubber (2.24%). Biggest losers are Oat (-2.50%) and Rapeseed (-0.67%).
+
+---
+
+### 2026-10-13 06:39:41  #公司
+
+【年內多家保險機構密集披露增資計劃】近期，險企密集披露增資（增加註冊資本）計劃。記者根據中國保險行業協會披露資訊統計發現，9月以來，已有5家險企披露增資計劃。今年前三季度，共有13家中小型保險機構（包括人身險公司、財險公司和再保險公司）披露增資計劃，計劃註冊資本增加規模合計約134億元。 受訪專家表示，多家險企近期披露增資計劃，主要受低利率環境、新會計準則實施、行業業務結構轉型等因素影響。（證券日報）
+
+---
+
+### 2026-10-13 06:39:18  #公司
+
+【“快返型”人身險產品迎排查整改】記者從業內獲悉，近日多地金融監管局要求人身險公司對“快返型”產品進行排查整改，防範無序競爭，推動行業發展轉向以價值和效益為中心。 其中，上海金融監管局近日向轄內人身險公司下發的《關於開展“快返型”產品排查整改的通知》（以下簡稱《通知》）指出，近期，在產品監管回溯時發現，行業內部分公司在銀保渠道開發的交費期間3年、保險期間6年的普通型、分紅型兩全保險等“快返型”產品存在刻意壓低精算費用假設的問題，現金價值返本時間短，以此類產品衝規模，存在長險短做風險。（證券日報）
+
+---
+
+### 2026-10-13 06:38:11  #其他
+
+【3年期大額存單利率重回2% 部分中小銀行逆勢上調存款利率】近期，年化利率2%的大額存單引發市場關注。值得注意的是，常態化發售的“2字頭”大額存單已在市場消失一年有餘。在該類產品重現之前，市場常態化發售的3年期大額存單最高年化利率為1.90%。與此同時，部分中小銀行還逆勢上調存款掛牌利率。 受訪專家表示，中小銀行重啟年化利率2%大額存單，並非簡單迴歸“高息”攬儲競爭。這類產品帶有區域性、階段性特徵，疊加當前銀行淨息差承壓，暫不具備演變為全行業價格競爭的條件，核心目的是在負債結構調整過渡期守住本地核心存款基本盤。（證券日報）
+
+---
+
+### 2026-10-13 06:37:08  #公司 #市場 #焦點 #國際
+
+芝加哥商品交易所集團玉米期貨成交量創下新的日成交量紀錄，此前美國農業部上調了展望。
+
+---
+
+### 2026-10-13 06:36:26  #MKT News
+
+【Iran reviewing U.S. comments; conditions for reopening Strait of Hormuz unchanged】Iranian Foreign Ministry spokesman Baghaei said on the 12th Iran is reviewing the latest U.S. comments on its position and will immediately convey its views to mediators once the review concludes. He stressed Iran's conditions for reopening the Strait of Hormuz remain unchanged.
+
+---
+
+### 2026-10-13 06:36:12  #國際
+
+【伊朗稱正在審議美方意見 重開海峽條件未變】伊朗外交部發言人巴加埃12日表示，伊朗正在審議美方針對伊方立場提出的最新意見，審議結束後將立即向調解方傳達其看法。他強調，伊朗關於重新開放霍爾木茲海峽的條件不變。
+
+---
+
+### 2026-10-13 06:35:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Plunges by 5.68% — Top commodity losers are Lithium Carbonate (-5.68%), Aluminum Alloy (-0.82%), Silver (-0.80%) and Gold (-0.52%). Gains are led by Copper (1%) and Silicon (0.58%).
+
+---
+
+### 2026-10-13 06:32:46  #焦點 #國際
+
+訊息人士：美國特使威特科夫與庫什納已暫停訪俄行程，直至澤連斯基修復其與特朗普的關係。
+
+---
+
+### 2026-10-13 06:30:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Methanol Plunges by 7.16% — Top commodity losers are Methanol (-7.16%), Coking Coal (-1.11%) and Natural gas (-1.07%). Gains are led by Germany Natural Gas THE (4.96%), Propane (4.07%), Natural Gas EU (3.40%), Crude Oil (1.57%) and Brent Oil (1.28%).
+
+---
+
+### 2026-10-13 06:29:07  #其他
+
+【聚焦當期景氣兌現，機構積極挖掘三季報投資線索】多位業內人士研判，整體而言，全A非金融行業三季度業績有望延續高增長態勢；結構上，科技與資源行業雙輪景氣驅動的格局將進一步強化，行業配置的核心思路也應由遠期空間轉向當期景氣兌現。在具體配置上，考慮到10年期美債收益率高企成為約束市場表現尤其是科技板塊反彈高度的重要因素，因此短期建議配置景氣品種和供給出清品種來應對高利率環境，10月配置圍繞科技成長、資源紅利、製造出海三條線索展開，兼顧進攻與防禦。（中證報）
+
+---
+
+### 2026-10-13 06:26:07  #公司
+
+【奇瑞汽車、比亞迪、上汽集團等都在抓緊研發，固態電池“上車”提速】多家中國車企的固態電池研發業務程序正在提速。10月12日，奇瑞汽車有關負責人確認，公司電池事業部的固態電池研發已在穩妥推進中。10月8日，奇瑞汽車集中釋出多項2026年固態電池裝置採購專案，涵蓋固態電池研發、製備、檢測等核心環節。不僅是奇瑞汽車，記者採訪獲悉，比亞迪、上汽集團、東風汽車等國內主流有新能源業務的車企集團近期都在抓緊固態電池的研發工作。（上證報）
+
+---
+
+### 2026-10-13 06:20:43  #國際
+
+市場資訊：越來越多的美國共和黨人私下和公開發出警告，稱該黨在下個月的中期選舉中表現將不佳。
+
+---
+
+### 2026-10-13 06:18:32  #其他
+
+根據港交所檔案，深圳傳音控股預計於10月14日公佈發行詳情。
+
+---
+
+### 2026-10-13 06:15:09  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Mexican Peso Appreciates by 0.85% — Top currency gainers are Mexican Peso (0.85%), Indian Rupee (0.50%), South Korean Won (0.45%) and Dollar Index (0.34%). Biggest losers are Swiss Franc (-0.52%), Swedish Krona (-0.43%), New Zealand Dollar (-0.42%), Euro (-0.38%), British Pound (-0.22%) and Japanese Yen (-0.18%).
+
+---
+
+### 2026-10-13 06:11:26  #其他
+
+傳音控股香港發行價定在每股35.30港元。
+
+---
+
+### 2026-10-13 06:11:17  #其他
+
+【英機構：6艘船舶同日在霍爾木茲海峽及附近海域遭襲】英國海上貿易行動辦公室釋出多份海事通報顯示，霍爾木茲海峽及附近阿曼灣海域11日共有6艘船舶接連遭遇襲擊。
+
+---
+
+### 2026-10-13 06:10:56  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+【UKMTO: Six vessels attacked same day in Strait of Hormuz and nearby waters】UK Maritime Trade Operations issued multiple notices reporting six vessels were attacked on the 11th in the Strait of Hormuz and adjacent Gulf of Oman. In the Strait, four tankers were struck by "unidentified projectiles" while exiting and a container ship was hit while entering. Near the eastern entrance at Sohar anchorage in the Gulf of Oman, a tanker was struck in a drone attack; local authorities assisted crew evacuation. Since late September such attacks have continued, casualties have risen and incidents have spread into waters off Qatar, the UAE and Oman amid escalating US–Iran contestation over control of the strait.
+
+---
+
+### 2026-10-13 06:09:44  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
+
+【N. Korea conducts tactical ballistic missile test】Korean Central News Agency reported on the 13th that N. Korea's Missile General Bureau conducted a tactical ballistic missile test on the 12th.
+
+---
+
+### 2026-10-13 06:08:51  #其他
+
+【朝鮮試射戰術彈道導彈】據朝中社13日報道，朝鮮導彈總局12日進行戰術彈道導彈試射。（新華社）
+
+---
+
+### 2026-10-13 06:05:37  #央行 #國際
+
+【美聯儲10月維持利率不變的機率為79.5%】據CME“美聯儲觀察”：美聯儲到10月維持利率不變的機率為79.5%，累計加息25個基點的機率為20.5%。美聯儲到12月維持利率不變的機率為12.4%，累計加息25個基點的機率70.3%，累計加息50個基點的機率為17.3%。
+
+---
+
+### 2026-10-13 06:04:05  #MKT News
+
+CENC automatic estimate: a magnitude ~3.3 quake occurred near Gong County, Yibin, Sichuan at 06:01 on Oct 13. Final result pending formal rapid report.
+
+---
+
+### 2026-10-13 06:02:24  #其他
+
+【2026年巴黎車展開幕】當地時間10月12日，為期一週的2026年巴黎國際車展在法國首都巴黎凡爾賽門展覽中心開幕。
+
+---
+
+### 2026-10-13 06:01:13  #其他 #焦點
+
+【消費訂單回暖 9月份中國電商物流指數小幅上行】9月份中國電商物流指數為111.9點，環比回升0.4點。9個分項指數當中，總業務量指數、農村業務量指數、庫存週轉率指數、物流時效指數、履約率指數、滿意率指數、人員指數、實載率指數同步回升，成本指數小幅回落。從需求端來看，換季消費與假期消費疊加拉動，節日禮贈成為新增長引擎，帶動線上訂單增長。秋季服飾、出行裝備需求加快釋放，節令商品銷售火熱，消費電子市場升溫。（央視新聞）
+
+---
+
+### 2026-10-13 06:01:05  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+【Consumer orders recover; China e-commerce logistics index edges up in September】China e-commerce logistics index rose to 111.9 in September, up 0.4 points MoM. Eight of nine subindices increased — total business volume, rural business volume, inventory turnover, logistics timeliness, fulfillment rate, satisfaction, staffing and load factor — while the cost index slipped slightly. Seasonal buying and holiday gifting boosted online orders, with accelerating demand for autumn apparel, travel gear, seasonal goods and firmer consumer electronics sales.
+
+---
+
+### 2026-10-13 06:00:37  #公司 #市場
+
+【上市公司加大回購力度 專項貸款額逐季放量】資料寶統計顯示，10月以來截至10月12日收盤，共有225家上市公司釋出回購類公告（包含股東提議、董事會預案、實施中、完成回購，剔除定向回購），按公告回購金額上限計算，對應回購金額合計724.63億元—1353.6億元，合計已實施回購金額為416.28億元，上市公司積極回購。 分行業來看，醫藥生物、機械裝置、電力裝置、基礎化工4個行業回購最積極，均有20家及以上上市公司釋出回購類公告，其中醫藥生物行業共有32家上市公司釋出回購類公告，數量最多。（證券時報）
+
+---
+
+### 2026-10-13 05:53:06  #公司 #觀點 #國際
+
+【年內資本投入或超500億元 券商國際化搶灘中東中亞】中資券商“出海”正從零星試探轉向集中加碼，年內境外子公司增資規模已突破500億元，中東、中亞等地區成為新的戰略支點。近期，中資券商國際化佈局動作頻頻。國聯民生證券20億元增資香港子公司正式獲中國證監會無異議覆函，中信建投國際拿下迪拜國際金融中心（DIFC）牌照，國泰君安國際與哈薩克阿拉木圖市政府簽署合作備忘錄——一系列動作標誌著券商全球化佈局正從香港樞紐向中東、中亞縱深延伸。（上證報）
+
+---
+
+### 2026-10-13 05:52:50  #其他
+
+【多元資產配置開啟新空間 今年以來FOF新發規模近1500億元】FOF正在迎來前所未有的擴容週期，年內新成立FOF產品超過150只，募集規模近1500億元，產品數量、發行規模雙雙重新整理年度紀錄。從業內最新動向看，當前還有超過30只FOF正在或即將發行，僅10月12日就有12只FOF集中發行。從制度導向看，FOF也迎來制度發展紅利，FOF成立門檻或將從2億元降低至5000萬元，還被允許投資ETF聯接基金，更好發揮資產配置功能。（上證報）
+
+---
+
+### 2026-10-13 05:42:00  #公司 #國際
+
+日本歐姆龍計劃以約1000億日元收購OnLogic公司。
+
+---
+
+### 2026-10-13 05:38:22  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed's HAMMACK said he does not want to suppress growth but may need to 'tighten a bit'.
+
+---
+
+### 2026-10-13 05:38:22  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #S&P500 #Impact bullish #DXY
+
+Federal Reserve's Hammack said business contacts indicate the economy appears to be expanding rather than preparing to contract.
+
+---
+
+### 2026-10-13 05:36:27  #其他
+
+【沙特主導聯軍：攔截胡塞武裝射向沙西南部的兩枚導彈】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基12日晚在社交媒體上說，多國聯軍當天攔截並摧毀葉門胡塞武裝向沙特西南部海米斯穆謝特發射的兩枚彈道導彈。（新華社）
+
+---
+
+### 2026-10-13 05:35:57  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y
+
+Fed's HAMMACK said inf pressures are spreading beyond the AI sector, and other firms are performing well and preparing to invest.
+
+---
+
+### 2026-10-13 05:35:56  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+Federal Reserve Governor Hammack said policy restraint will need to dampen demand, whether through capital expenditure or consumer spending.
+
+---
+
+### 2026-10-13 05:35:55  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+Fed's Hammack said more restraint is needed but remains open on the pace of further rate hikes.
+
+---
+
+### 2026-10-13 05:35:35  #央行 #國際
+
+美聯儲哈馬克：政策緊縮需要抑制需求，無論是透過資本支出渠道還是消費渠道實現。
+
+---
+
+### 2026-10-13 05:35:27  #央行 #國際
+
+美聯儲哈馬克：通脹壓力正從人工智慧領域擴散開來，其他企業表現同樣強勁，且已準備好開展投資。
+
+---
+
+### 2026-10-13 05:35:20  #央行 #國際
+
+美聯儲哈馬克：不希望抑制增長，但可能需要"略微放緩"增速。
+
+---
+
+### 2026-10-13 05:35:13  #央行 #國際
+
+美聯儲哈馬克：商業聯絡人的言論更多反映經濟正蓬勃增長，而非即將收縮。
+
+---
+
+### 2026-10-13 05:35:07  #央行 #國際
+
+美聯儲哈馬克表示，仍需進一步收緊貨幣政策，但對加息步伐保持開放態度。
+
+---
+
+### 2026-10-13 05:30:19  #國際
+
+伊朗革命衛隊稱，打擊了一艘試圖穿越霍爾木茲海峽的船隻。
+
+---
+
+### 2026-10-13 05:28:20  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Google (GOOG.O) confirmed the 'Suncatcher' project satellite is operating as expected.
+
+---
+
+### 2026-10-13 05:28:06  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bullish #PL.O
+
+Google (GOOG.O) is partnering with Planet to launch a prototype satellite for Project Suncatcher on SpaceX's Transporter-18 rideshare.
+
+---
+
+### 2026-10-13 05:27:54  #公司
+
+谷歌證實“追日者”（Project Suncatcher）衛星執行符合預期。
 
 ---
 
@@ -14902,353 +15215,5 @@ Trump: Ukraine should hold elections; Zelenskiy could reach agreements multiple 
 ### 2026-10-11 05:25:26  #國際
 
 【颶風伊薩亞斯致美國4人死】今年大西洋颶風季首個颶風“伊薩亞斯”登陸美國東南沿海，帶來狂風和強降雨。據美聯社報道，截至當地時間10月10日下午，颶風已造成至少4人死亡。（CCTV國際時訊）
-
----
-
-### 2026-10-11 05:21:55  #國際
-
-市場資訊：日本將研發可突破防空系統的低成本巡航導彈。
-
----
-
-### 2026-10-11 05:13:03  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Projectile lands near King Fahd International Airport in eastern Saudi Arabia】A Saudi-led coalition spokesman, Turki al-Maliki, posted on social media on the evening of the 10th that a projectile landed near King Fahd International Airport in Dammam, eastern Saudi Arabia.
-
----
-
-### 2026-10-11 05:11:18  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Attack at Riyadh's King Khalid International Airport kills at least 12 and injures more than 50.
-
----
-
-### 2026-10-11 05:10:24  #其他
-
-【一枚投射物落在沙特東部國際機場附近】沙烏地阿拉伯主導的多國聯軍發言人圖爾基·馬利基10日晚在社交媒體上說，一枚投射物落在位於沙特東部城市達曼的法赫德國王國際機場附近。（新華社）
-
----
-
-### 2026-10-11 05:09:43  #MKT News
-
-Trump said he believes French President Macron has been unhappy recently.
-
----
-
-### 2026-10-11 05:09:10  #其他
-
-英國豪宅稅不會擴大至150萬英鎊房產，財政大臣希利駁回下調豪宅稅起徵門檻的呼籲。
-
----
-
-### 2026-10-11 05:07:56  #宏觀 #國際
-
-美國國務院發言人表示，美國譴責胡塞武裝針對民用基礎設施與機場的襲擊，稱襲擊已造成“大量人員傷亡”。華盛頓方面暫未獲悉有美國人遇難。
-
----
-
-### 2026-10-11 05:06:27  #國際
-
-特朗普：我認為法國總統近來心情不佳。
-
----
-
-### 2026-10-11 05:04:52  #國際
-
-特朗普談及加拿大：我們不需要曲棍球杆，不需要口罩，不需要那些他們賣給我們的東西。
-
----
-
-### 2026-10-11 05:03:13  #其他 #焦點
-
-市場資訊：胡塞武裝襲擊利雅得哈立德國王國際機場，造成至少12人死亡、50人受傷。
-
----
-
-### 2026-10-11 05:03:04  #MKT News #Market Themes #The Trump Trade
-
-TRUMP said Canada has never shown the US proper respect, that Canada assumes entitlements it does not have, and that the US does not need what Canada offers.
-
----
-
-### 2026-10-11 05:02:30  #國際
-
-特朗普談及加拿大：加拿大從未尊重過我們。他們自以為享有特權，但事實並非如此。他們的東西我們一概不需要。
-
----
-
-### 2026-10-11 04:57:46  #MKT News #Brent #Impact bullish #WTI
-
-The Saudi-led coalition said a projectile landed in the vicinity of Riyadh’s King Khalid International Airport.
-
----
-
-### 2026-10-11 04:57:44  #其他
-
-T-Mobile：截至週六上午，墨西哥灣沿岸96%的T-Mobile基站已恢復運營。
-
----
-
-### 2026-10-11 04:55:51  #其他
-
-沙特領導的聯軍稱，一枚炮彈落在達曼法赫德國王國際機場附近區域。
-
----
-
-### 2026-10-11 04:55:29  #其他
-
-T-Mobile團隊助力墨西哥灣沿岸社群從颶風"伊薩亞斯"中恢復，搶修通訊網路。
-
----
-
-### 2026-10-11 04:54:47  #市場
-
-【法國債務高企，德國適度鬆綁債務剎車】法國債務佔國內生產總值比重達到119%，創二戰後新高，而德國該比例為64%。歐元誕生之初兩國債務率均約60%，但2010年後走勢大幅分化。德國憲法債務剎車機制要求實現預算平衡與基本財政盈餘，推動其債務率從81%降至2019年的59%。法國自1974年起就未曾實現財政盈餘。2025年財政赤字約5.1%；若不實施大規模削減支出，預計到2027年債務率將升至約122%。勒科爾尼總理提出540億歐元的節約方案，但議會派系分散，法案能否透過尚不確定。與此同時，德國憑藉自身穩固的財政基礎，小幅放寬債務剎車以增加國防開支，而法國已不再擁有這樣的底氣。起標題
-
----
-
-### 2026-10-11 04:53:44  #國際
-
-特朗普：請投票。
-
----
-
-### 2026-10-11 04:48:52  #國際
-
-特朗普：真是不可思議。就算我說些蠢話，你們照樣鼓掌。
-
----
-
-### 2026-10-11 04:48:40  #MKT News
-
-U.S. President Trump said it was unbelievable, that he could say the most foolish things and people would applaud.
-
----
-
-### 2026-10-11 04:46:35  #國際
-
-特朗普稱伊朗為“瘋子國家”，並表示德黑蘭可能在11月3日中期選舉前採取進一步行動，以在政治上打擊他。
-
----
-
-### 2026-10-11 04:45:09  #央行 #國際
-
-特朗普：我們想要低利率，但我們的美聯儲理事會很糟糕。
-
----
-
-### 2026-10-11 04:44:18  #國際
-
-特朗普：如果我環顧四周，看到聽眾像聽其他候選人演講那樣紛紛離場，那我就該縮短演講時長了。
-
----
-
-### 2026-10-11 04:43:54  #國際
-
-烏克蘭對俄羅斯發起新的大規模無人機群襲擊。
-
----
-
-### 2026-10-11 04:40:38  #MKT News #Market Themes #The Trump Trade
-
-US President Trump said he had considered renaming the Atlantic or Pacific Ocean to Trump Ocean or Ocean of the Americas.
-
----
-
-### 2026-10-11 04:36:10  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump said he is considering renaming the Strait of Hormuz to 'Trump Strait'.
-
----
-
-### 2026-10-11 04:35:27  #MKT News #WTI #Brent
-
-US President Trump said on Iran that the US can end the matter quickly and that Iran has no idea how well he has treated them.
-
----
-
-### 2026-10-11 04:31:22  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Former UK prime minister Boris Johnson called the US decision to lift sanctions on Russian fuel disgusting, said blaming Ukraine for recent oil-price rises is obviously absurd and argued the increase began with the Strait of Hormuz closure. He accused the White House of trying to make US motorists pay for Putin's "massacre", said the policy will not succeed and doubted it would materially affect fuel prices.
-
----
-
-### 2026-10-11 04:28:23  #國際
-
-特朗普在田納西州克拉克維爾集會上發表講話。
-
----
-
-### 2026-10-11 04:28:05  #MKT News #Commodities #Energy #WTI #XAUUSD
-
-President Trump said gasoline prices are lower than during Biden's presidency and that the U.S. also prevented Iran from acquiring nuclear weapons.
-
----
-
-### 2026-10-11 03:58:10  #國際
-
-【烏方稱俄軍襲擊扎波羅熱地區致死人數上升到20人】據烏克蘭國家通訊社10日報道，俄軍當天凌晨空襲扎波羅熱地區，致死人數已上升到20人，另有32人受傷。報道說，10日凌晨4時48分，俄軍使用校正航空炸彈對扎波羅熱地區進行空襲。死者包含3名兒童，傷者正在醫院接受治療。目前，建築廢墟下的搜救工作仍在繼續。（新華社）
-
----
-
-### 2026-10-11 03:58:02  #MKT News
-
-【Ukraine reports 20 killed in Russian strike on Zaporizhzhia region】Ukrainian authorities said a Russian airstrike on the Zaporizhzhia region in the early hours of the 10th killed 20 people and wounded 32. The strike occurred at 04:48 and used precision-guided aerial bombs, officials said. The dead include three children; the injured are being treated in hospital and search-and-rescue work under the rubble is ongoing.
-
----
-
-### 2026-10-11 03:55:08  #MKT News #Market Regions #Europe & UK #WTI #Impact bearish #Brent
-
-【Zelenskiy holds calls with multiple European leaders】Ukrainian President Zelenskiy said on Oct. 10 he held calls that day with Finland President Stubb, French President Macron, Norwegian Prime Minister Støre and UK Prime Minister Burnham, urging increased support for Ukraine and tougher sanctions on Russia. He briefed them on the conflict, discussed challenges from the U.S. easing of sanctions on Russian oil products, and coordinated response measures and plans for follow-up meetings.
-
----
-
-### 2026-10-11 03:55:00  #國際
-
-【澤連斯基與多個歐洲國家領導人通話】烏克蘭總統澤連斯基10日在社交媒體釋出訊息說，他當天與多個歐洲國家領導人通電話，呼籲加大對烏援助和對俄羅斯制裁。澤連斯基分別與芬蘭總統斯圖布、法國總統馬克龍、挪威首相斯特勒以及英國首相伯納姆通話。他在通話中，通報俄烏衝突近況，討論美國放寬對俄石油產品制裁引發的挑戰，並就協調應對措施及籌備後續會晤等事宜進行溝通。（新華社）
-
----
-
-### 2026-10-11 03:54:39  #MKT News
-
-【Iran foreign ministry spokesperson: US people's real enemy is their warmongering ruling group】Iran foreign ministry spokesperson Baghaei posted on social media responding to Trump's earlier remark that "even if Iran destroyed Los Angeles or San Diego it would be a very small price", saying: "To frighten their population they fabricate an imagined aerial enemy to cover the real threat on the ground. The real danger is neither outside their borders nor in the skies over Los Angeles and San Diego. The real danger comes from a ruling group that imposes illegal wars on the world and causes global consequences. The US president even described the destruction of Los Angeles and San Diego as 'a very small price'. This is a classic case of fear politics: using a fictional threat to intimidate the public, portraying the destruction of one's own cities as an acceptable price, and diverting attention from the real danger."
-
----
-
-### 2026-10-11 03:43:41  #MKT News
-
-【Panama declares state of emergency after strong earthquake】Panama declared a state of emergency on Oct. 10 after a strong earthquake, mobilizing government departments and public agencies to standby and allocate resources for relief. The presidency said the president ordered a special committee to coordinate rescue operations and manage aid resources. A relief supply collection point has been established in Panama City and provincial governments will receive public donations.
-
----
-
-### 2026-10-11 03:43:31  #其他
-
-【巴拿馬政府宣佈進入緊急狀態應對強震】巴拿馬政府10日宣佈進入緊急狀態以應對強震，協調救災和援助工作。巴拿馬總統府部長奧裡利亞克當天在總統府舉行的新聞釋出會上說，政府已宣佈進入緊急狀態，要求各部門和公共機構隨時待命，調配必要資源，為受災民眾提供援助。（新華社）
-
----
-
-### 2026-10-11 03:32:59  #其他
-
-英國海上貿易組織(UKMTO)：阿聯酋哈伊馬角附近的多名船長透過甚高頻(VHF)廣播接到指令，要求他們駛離錨地。
-
----
-
-### 2026-10-11 03:31:06  #國際
-
-【特朗普稱或加入打擊胡塞武裝行動】沙特首都利雅得的哈立德國王國際機場10月10日再遭襲擊。本週早些時候，該機場已遭葉門胡塞武裝多次導彈襲擊，造成多人死亡。美國總統特朗普當天在白宮被問及“美國是否計劃加入沙特對胡塞武裝的打擊行動”時表示：“我們可能會。我們會考慮的。我們剛剛才得知最近的這次襲擊。”美國駐利雅得大使館表示，已“獲悉襲擊事件”，並“強烈建議所有美國公民避開該機場及周邊地區”。（CCTV國際時訊）
-
----
-
-### 2026-10-11 03:30:49  #公司 #國際
-
-【俄部分解禁柴油出口】當地時間10月10日晚，俄羅斯政府宣佈部分解除柴油出口禁令，相關措施自當天正式生效。俄羅斯政府公告稱，此舉旨在落實俄羅斯總統普京與美國總統特朗普達成的協議。據相關決定，俄羅斯現階段將允許向國際市場出口50萬噸柴油。 （CCTV國際時訊）
-
----
-
-### 2026-10-11 03:29:48  #其他
-
-威瑞森：為颶風伊薩亞斯部署移動基站資產並啟動發電機。
-
----
-
-### 2026-10-11 03:29:43  #其他
-
-威瑞森：為颶風伊薩亞斯籌備1000臺發電機與3000件網路裝置資產。
-
----
-
-### 2026-10-11 03:29:37  #其他
-
-威瑞森：已部署網路團隊與資產應對颶風伊賽亞斯。
-
----
-
-### 2026-10-11 03:29:29  #其他
-
-威瑞森：10月9日至15日期間，向受颶風“伊賽亞斯”影響的使用者提供無限通話、簡訊及流量服務。
-
----
-
-### 2026-10-11 03:29:22  #其他
-
-威瑞森颶風伊薩亞斯過後啟動網路修復工作。
-
----
-
-### 2026-10-11 03:21:48  #國際
-
-美國能源部批准從戰略石油儲備（SPR）中緊急置換最多400萬桶原油。
-
----
-
-### 2026-10-11 03:19:23  #其他
-
-【沙特首都機場再遭襲多人傷】沙烏地阿拉伯民航總局10月10日發表宣告說，位於首都利雅得的哈立德國王國際機場當天下午再次遭到襲擊，造成多人受傷，該機場已暫停運營。（CCTV國際時訊）
-
----
-
-### 2026-10-11 03:14:46  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【DOE approves up to 4 mln barrels from SPR via emergency swaps to offset Gulf of Mexico weather disruptions】The U.S. Department of Energy approved emergency swap arrangements to release up to 4 mln barrels of crude from the Strategic Petroleum Reserve to address Gulf of Mexico weather-related supply disruptions. Under the agreements companies must return the crude by 2027 and provide additional barrels as premium compensation; DOE approved ExxonMobil and BP America to each swap up to 2 mln barrels.
-
----
-
-### 2026-10-11 03:08:34  #國際
-
-【五角大樓上調與對伊戰事相關的美軍死亡人數】當地時間10月10日獲悉，美國國防部承認與對伊朗戰事相關的美軍死亡人數高於此前公佈的資料，並已將官方統計的死亡人數上調至21人。（央視新聞）
-
----
-
-### 2026-10-11 03:08:10  #國際
-
-美國：將繼續與行業合作，應對颶風造成的供應中斷。
-
----
-
-### 2026-10-11 03:08:04  #國際
-
-美國：埃克森美孚、美國英國石油每家最多可互換200萬桶原油。
-
----
-
-### 2026-10-11 03:07:59  #國際
-
-美國能源部在宣告中宣佈啟動緊急石油互換。
-
----
-
-### 2026-10-11 03:07:38  #國際
-
-馬斯克：SpaceX需要讓印度的星鏈價格變得可以承受。
-
----
-
-### 2026-10-11 03:07:36  #MKT News #WTI #Impact bearish #Brent
-
-DOE says latest SPR release aims to ease U.S. storm-related supply disruptions.
-
----
-
-### 2026-10-11 03:06:06  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-DOE approves emergency exchange of up to 4 mln barrels from the Strategic Petroleum Reserve to offset supply disruptions from severe weather in the Gulf of Mexico; borrowed crude must be returned in 2027 and repaid with additional barrels as compensation.
-
----
-
-### 2026-10-11 03:01:47  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Dutch foreign minister condemned Houthi attacks on Saudi Arabia, including multiple strikes on airports that caused casualties.
-
----
-
-### 2026-10-11 03:00:59  #MKT News
-
-President Trump said Democrats and the fake-news media are pushing a false narrative that he is unpopular and that Republicans will lose; he said he is popular and Republicans will win, citing record rallies and an upcoming Tennessee event.
-
----
-
-### 2026-10-11 02:49:51  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact mixed
-
-【Microsoft CEO urges emergency 'brake' for advanced AI models】Microsoft (MSFT.O) CEO Satya Nadella said companies should treat powerful AI models as potential internal threats and assume models may be compromised, urging built-in "emergency brake" mechanisms so authorized personnel can pause or shut down autonomous agents during task execution. He advised against relying on a single model for critical decisions, called for immutable logs of agent behavior, independent audits of systems, and mandatory disclosure of major failures or security vulnerabilities including causes and details to help others strengthen defenses.
 
 ---
