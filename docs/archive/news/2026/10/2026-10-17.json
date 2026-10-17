@@ -1,7 +1,15 @@
 {
   "date": "2026-10-17",
-  "count": 1027,
+  "count": 1028,
   "items": [
+    {
+      "id": "5151689",
+      "time": "2026-10-17 22:09:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Huggingface發榜，中國模型StartLux穩居決策模型SOTA】全球知名AI開源社群Hugging Face上的Decision Index 0.3.2榜單近日更新，中國AI創業公司StartLux（原點星輝）推出的StartLux-Decision-v1.1-27B Instant以69.1分登頂全球第一，在173項公開復現模型中排名榜首，領先第二名近3分，也是榜單中唯一突破69分的模型。繼9月底釋出首代模型後，StartLux僅用十餘天再次重新整理行業最佳成績，穩居全球決策模型SOTA。"
+    },
     {
       "id": "5151679",
       "time": "2026-10-17 22:01:36",
