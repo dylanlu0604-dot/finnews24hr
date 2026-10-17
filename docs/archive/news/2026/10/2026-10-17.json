@@ -1,7 +1,15 @@
 {
   "date": "2026-10-17",
-  "count": 608,
+  "count": 609,
   "items": [
+    {
+      "id": "mkt:01a14795-e0fa-7ee0-a8c7-aab4b0b0556e",
+      "time": "2026-10-17 09:59:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam's prime minister said the country will strive to achieve at least 10% GDP growth in 2027."
+    },
     {
       "id": "mkt:01a14794-1a7e-7ee0-a8c7-a28870619980",
       "time": "2026-10-17 09:57:30",
