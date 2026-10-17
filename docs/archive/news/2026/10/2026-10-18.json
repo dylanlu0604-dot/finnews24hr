@@ -1,7 +1,31 @@
 {
   "date": "2026-10-18",
-  "count": 102,
+  "count": 105,
   "items": [
+    {
+      "id": "mkt:01a14b5d-f534-7ee0-a8ce-0a387f5c8502",
+      "time": "2026-10-18 03:36:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion at military base in Sudan's capital region】On Oct 17 local time the Sudan Armed Forces said a warehouse storing explosives at a military base in North Khartoum, north of the capital Khartoum, caught fire and detonated. The blaze has been fully contained, and the statement did not disclose any casualties."
+    },
+    {
+      "id": "5152024",
+      "time": "2026-10-18 03:36:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇丹首都圈地區一軍事基地發生爆炸】當地時間10月17日，蘇丹武裝部隊釋出宣告稱，首都喀土穆市北部的北喀土穆市一座軍事基地當天發生爆炸。宣告稱，該軍事基地內一處用於儲存爆炸物的倉庫發生火災，隨後引發爆炸。目前，火災已得到全面控制。宣告未提及此次事件造成的人員傷亡情況。（央視新聞）"
+    },
+    {
+      "id": "5152023",
+      "time": "2026-10-18 03:35:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【赫格塞思私下被鼓勵競選2028總統，多重短板成參選阻礙】美國防長赫格塞思私下正被親密顧問鼓勵考慮參加2028年總統競選，儘管他公開否認有此雄心。其顧問認為，他好鬥、硬漢的形象可能吸引MAGA選民，尤其是如果JD·萬斯決定不參選的話。然而，赫格塞思面臨重大障礙，包括缺乏政治經驗、捐助關係薄弱、五角大樓爭議以及支援不受歡迎的伊朗戰爭。"
+    },
     {
       "id": "5152022",
       "time": "2026-10-18 03:33:16",
