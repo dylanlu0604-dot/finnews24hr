@@ -1,7 +1,24 @@
 {
-  "updated": "2026-10-18 13:55:57",
-  "count": 12531,
+  "updated": "2026-10-18 13:59:53",
+  "count": 12532,
   "items": [
+    {
+      "id": "mkt:01a14d96-fc86-7ee0-a8ce-ff4892482e9a",
+      "time": "2026-10-18 13:58:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tug hit by 'unknown projectiles' off Khor Fakkan, UKMTO warns】The UK Maritime Trade Operations (UKMTO) said on Oct. 18 local time a southbound tug was struck by two unknown projectiles off Khor Fakkan, UAE. The impact damaged the hull and caused one minor injury; the tug remained on its intended passage. Authorities are investigating. UKMTO issued a safety advisory urging vessels transiting the area to exercise heightened caution and to report any suspicious activity immediately."
+    },
+    {
+      "id": "5152216",
+      "time": "2026-10-18 13:57:16",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【一拖船在阿聯酋豪爾費坎東北部海域被“不明投射物”襲擊】據英國海上貿易行動辦公室（UKMTO）最新發布的警告通報，當地時間10月18日，阿聯酋豪爾費坎東北部海域發生一起海上襲擊事件。一艘正在向南航行的拖船被2枚“不明投射物”襲擊，導致船體受損，並造成1人受輕傷。通報指出，儘管該拖船在襲擊中受損，但目前仍在繼續其既定航線。有關當局在對此事件進行調查。鑑於該海域的安全風險，英國海上貿易行動辦公室已向所有過往船隻發出安全警告，建議相關船隻在途經該區域時保持高度警惕並謹慎通行，如發現任何可疑活動，應立即向英國海上貿易行動辦公室報告。（央視新聞）"
+    },
     {
       "id": "5152215",
       "time": "2026-10-18 13:54:54",
@@ -114743,16 +114760,6 @@
         "國際"
       ],
       "text": "世界銀行行長班加表示，中東戰爭的初始影響沒有原先擔心的那般嚴重，但目前壓力正在再次上升。"
-    },
-    {
-      "id": "5137445",
-      "time": "2026-10-11 13:56:28",
-      "tags": [
-        "公司",
-        "焦點",
-        "原創"
-      ],
-      "text": "【獨家 | 螞蟻“靈光”開啟小範圍內測，新版對標“Meta Muse”】新浪科技獨家獲悉，螞蟻集團旗下AI產品“靈光”已於近日開啟新版本的小範圍內測，新版對標“Meta Muse”。\n公開資訊顯示，今年9月，Meta推出個人智慧體Muse。該智慧體可介入使用者日常生活，並持續跟進使用者交待的事宜。\n接近專案人士透露，靈光相關方向約半年前已開始籌備，期間迭代多個版本，計劃本月全面開放。\n該人士還透露，此次升級的核心，是靈光從能聊天、能生成應用的AI助手，轉向擁有長期記憶、可主動推進任務的AI原生個人智慧體。靈光新版本還能透過呼叫Skill和MCP，實現釘釘發資訊、呼叫智慧家居裝置等功能。\n據悉，靈光2.0的內測用例集中在長程、變數多、普通人難盯住的場景，例如幫上班族跟蹤市場異動、幫家長管理釘釘打卡、旅行中遇航班延誤或景區限流重排路線等。（新浪科技）"
     }
   ]
 }
