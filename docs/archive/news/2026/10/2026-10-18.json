@@ -1,7 +1,37 @@
 {
   "date": "2026-10-18",
-  "count": 507,
+  "count": 510,
   "items": [
+    {
+      "id": "5152387",
+      "time": "2026-10-18 18:48:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛麗捨宮：法國總統馬克龍將於晚上8時（北京時間次日02:00）向全國發表講話。"
+    },
+    {
+      "id": "mkt:01a14ea0-896e-7ee0-a8d0-42e4ccee324a",
+      "time": "2026-10-18 18:48:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elysée Palace says French President Macron will deliver a national address at 20:00 local time (02:00 Beijing time next day)."
+    },
+    {
+      "id": "mkt:01a14ea0-4482-7ee0-a8d0-3f34c1a8b539",
+      "time": "2026-10-18 18:48:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Attacks on Ukrainian energy infrastructure cause blackouts across multiple regions】Ukrainian President Zelenskiy said Russian strikes on the night of the 17th hit substations in Vinnytsia, Zhytomyr, Khmelnytskyi and Odesa, cutting power to tens of thousands of households; two people were killed and 12 wounded in the air raids. Zelenskiy said that since US President Trump declared an \"energy ceasefire\" a week ago, Russia has carried out 76 attacks on Ukrainian power, oil and gas facilities and, over the past week, launched about 2,700 attack drones, more than 1,700 aerial bombs and 66 missiles, with air strikes mainly targeting energy infrastructure. Ukrainian officials and energy firms reported emergency blackouts in Kyiv city and region, Odesa and Ternopil between the night of the 17th and early 18th."
+    },
     {
       "id": "mkt:01a14e9c-aa8d-7ee0-a8d0-36a8b27d43ea",
       "time": "2026-10-18 18:44:12",

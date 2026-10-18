@@ -1,7 +1,37 @@
 {
-  "updated": "2026-10-18 18:47:02",
-  "count": 12543,
+  "updated": "2026-10-18 18:50:53",
+  "count": 12544,
   "items": [
+    {
+      "id": "5152387",
+      "time": "2026-10-18 18:48:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "愛麗捨宮：法國總統馬克龍將於晚上8時（北京時間次日02:00）向全國發表講話。"
+    },
+    {
+      "id": "mkt:01a14ea0-896e-7ee0-a8d0-42e4ccee324a",
+      "time": "2026-10-18 18:48:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Elysée Palace says French President Macron will deliver a national address at 20:00 local time (02:00 Beijing time next day)."
+    },
+    {
+      "id": "mkt:01a14ea0-4482-7ee0-a8d0-3f34c1a8b539",
+      "time": "2026-10-18 18:48:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Attacks on Ukrainian energy infrastructure cause blackouts across multiple regions】Ukrainian President Zelenskiy said Russian strikes on the night of the 17th hit substations in Vinnytsia, Zhytomyr, Khmelnytskyi and Odesa, cutting power to tens of thousands of households; two people were killed and 12 wounded in the air raids. Zelenskiy said that since US President Trump declared an \"energy ceasefire\" a week ago, Russia has carried out 76 attacks on Ukrainian power, oil and gas facilities and, over the past week, launched about 2,700 attack drones, more than 1,700 aerial bombs and 66 missiles, with air strikes mainly targeting energy infrastructure. Ukrainian officials and energy firms reported emergency blackouts in Kyiv city and region, Odesa and Ternopil between the night of the 17th and early 18th."
+    },
     {
       "id": "mkt:01a14e9c-aa8d-7ee0-a8d0-36a8b27d43ea",
       "time": "2026-10-18 18:44:12",
@@ -114837,24 +114867,6 @@
         "兩會"
       ],
       "text": "【王滬寧會見越南國會主席陳青敏】全國政協主席王滬寧11日在京會見越南國會主席陳青敏。王滬寧表示，中方願同越方遵循兩黨兩國最高領導人戰略指引，按照“六個更”總體目標，高質量推進各領域互利合作，推進中越命運共同體建設。中國全國政協願同越方深化交流合作，為推動各自現代化事業作出貢獻。（新華社）"
-    },
-    {
-      "id": "5137595",
-      "time": "2026-10-11 18:49:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【厄利垂亞呼籲聯合國介入以應對與埃塞的緊張局勢】厄利垂亞政府10日呼籲聯合國對衣索比亞採取“必要措施”，以應對兩國間日益加劇的外交緊張局勢。厄利垂亞外長奧斯曼·薩利赫10日在致聯合國安理會的一封信中表示，衣索比亞近期對厄利垂亞的指責是“企圖以自衛為由，為其對一個主權國家發動戰爭的行為進行辯解的欺騙性舉動”。他請求安理會“強烈譴責衣索比亞對厄利垂亞發動的宣戰行為”。（新華社）"
-    },
-    {
-      "id": "5137594",
-      "time": "2026-10-11 18:47:35",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【翰森製藥：阿美替尼重新提交歐盟上市申請獲EMA受理】翰森製藥公告稱，集團於2026年9月29日向歐洲藥品管理局重新遞交創新藥阿美替尼（海外商品名：Aumseqa®）在歐盟的上市許可申請，2026年10月7日獲EMA確認受理並正式啟動集中審批程式。該申請適應症為EGFR外顯子19缺失或外顯子21（L858R）置換突變的晚期非小細胞肺癌成人患者一線治療，以及EGFR T790M突變陽性的晚期非小細胞肺癌成人患者治療。"
     }
   ]
 }
