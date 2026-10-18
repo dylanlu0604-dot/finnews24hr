@@ -1,7 +1,39 @@
 {
-  "updated": "2026-10-18 19:06:14",
-  "count": 12547,
+  "updated": "2026-10-18 19:10:00",
+  "count": 12549,
   "items": [
+    {
+      "id": "mkt:01a14eb1-c60c-7ee0-a8d0-80a46cae48af",
+      "time": "2026-10-18 19:07:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Chip LOF will suspend trading from market open on Oct 19, 2026, and will resume trading at 10:30 on Oct 19, 2026."
+    },
+    {
+      "id": "mkt:01a14eb1-b3a7-7ee0-a8d0-79f442924c1c",
+      "time": "2026-10-18 19:07:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bosera Nasdaq-100 ETF will be suspended from market open on Oct 19, 2026 until 10:30 that day."
+    },
+    {
+      "id": "mkt:01a14eb1-b112-7ee0-a8d0-70dbdaa5e9fd",
+      "time": "2026-10-18 19:07:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Huatai-PineBridge Nasdaq ETF said trading in the fund will be suspended from market open on Oct. 19, 2026 until 10:30 a.m."
+    },
+    {
+      "id": "5152391",
+      "time": "2026-10-18 19:06:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國海警執法艇依法巡航黃巖島潟湖】10月12日，中國海警執法小艇在黃巖島附近巡視巡查。 10月12日，記者跟隨中國海警黃岩艦編隊赴黃巖島海域進行2026年第7航次執法巡航。10月12日16時許，中國海警黃岩艦執法小艇在中國黃巖島的潟湖內依法展開巡航巡查。記者跟隨小艇出航時看到，中國海警執法員在駕駛小艇巡航的同時，及時停船打撈在潟湖內部發現的漂浮垃圾，維護良好海洋環境。（新華社）"
+    },
     {
       "id": "mkt:01a14eb0-0a97-7ee0-a8d0-685721acb493",
       "time": "2026-10-18 19:05:22",
@@ -114883,22 +114915,6 @@
         "其他"
       ],
       "text": "【中國鋼鐵行業協會：2026年9月下旬日產鋼材392萬噸、環比增長4.9% 】10月11日，中國鋼鐵行業協會發布2026年9月下旬重點企業鋼鐵產量旬報。2026年9月下旬，重點統計鋼鐵企業共生產粗鋼1881萬噸，平均日產188.1萬噸，日產環比下降2.1%；生鐵1753萬噸，平均日產175.3萬噸，日產環比下降1.0%；鋼材2056萬噸，平均日產205.6萬噸，日產環比增長10.9%。據此估算，本旬全國日產粗鋼235萬噸、環比下降2.1%，日產生鐵212萬噸、環比下降1.0%，日產鋼材392萬噸、環比增長4.9%。"
-    },
-    {
-      "id": "5137601",
-      "time": "2026-10-11 19:08:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【北方大範圍降溫降雨來襲 內蒙古、東北區域性降溫超10℃】今天，北方冷空氣登場，西北地區率先受到影響，秋雨與降溫同步上線。明天，降雨、降溫範圍將擴充套件至華北、黃淮，內蒙古中東部多地最高氣溫的單日降溫幅度可達6℃至12℃，山西南部、河北南部、山東北部的部分地區將出現較明顯降雨；後天，降溫重心會轉移至東北地區，大部最高氣溫降幅可達6℃至10℃，降雨多是小雨或陣雨。此輪大範圍降雨將先從西南一帶發展，14日降水區域向東擴充套件至長江流域；15日副熱帶高壓南撤，暖溼氣流增強，長江流域多地雨勢將進一步增強，湖南北部、湖北東部、安徽西南部等地或將有成片暴雨出現，持續保持關注。（中國天氣網）"
-    },
-    {
-      "id": "mkt:01a12aa5-6df4-7ee0-a828-c107c477b61f",
-      "time": "2026-10-11 19:07:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wang Huning meets Vietnam parliament chair Tran Thanh Man】CPPCC chairman Wang Huning met Vietnam National Assembly chair Tran Thanh Man in Beijing on the 11th. Wang said China will follow top-level strategic guidance, pursue the 'Six More' overall objectives and push high-quality, mutually beneficial cooperation across sectors to deepen China–Vietnam ties. The Chinese People's Political Consultative Conference offered deeper exchanges to support both countries' modernization efforts."
     }
   ]
 }

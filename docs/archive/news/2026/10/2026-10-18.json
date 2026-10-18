@@ -1,7 +1,39 @@
 {
   "date": "2026-10-18",
-  "count": 518,
+  "count": 522,
   "items": [
+    {
+      "id": "mkt:01a14eb1-c60c-7ee0-a8d0-80a46cae48af",
+      "time": "2026-10-18 19:07:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Chip LOF will suspend trading from market open on Oct 19, 2026, and will resume trading at 10:30 on Oct 19, 2026."
+    },
+    {
+      "id": "mkt:01a14eb1-b3a7-7ee0-a8d0-79f442924c1c",
+      "time": "2026-10-18 19:07:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bosera Nasdaq-100 ETF will be suspended from market open on Oct 19, 2026 until 10:30 that day."
+    },
+    {
+      "id": "mkt:01a14eb1-b112-7ee0-a8d0-70dbdaa5e9fd",
+      "time": "2026-10-18 19:07:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Huatai-PineBridge Nasdaq ETF said trading in the fund will be suspended from market open on Oct. 19, 2026 until 10:30 a.m."
+    },
+    {
+      "id": "5152391",
+      "time": "2026-10-18 19:06:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國海警執法艇依法巡航黃巖島潟湖】10月12日，中國海警執法小艇在黃巖島附近巡視巡查。 10月12日，記者跟隨中國海警黃岩艦編隊赴黃巖島海域進行2026年第7航次執法巡航。10月12日16時許，中國海警黃岩艦執法小艇在中國黃巖島的潟湖內依法展開巡航巡查。記者跟隨小艇出航時看到，中國海警執法員在駕駛小艇巡航的同時，及時停船打撈在潟湖內部發現的漂浮垃圾，維護良好海洋環境。（新華社）"
+    },
     {
       "id": "mkt:01a14eb0-0a97-7ee0-a8d0-685721acb493",
       "time": "2026-10-18 19:05:22",
