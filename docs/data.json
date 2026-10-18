@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-19 04:09:54",
-  "count": 12499,
+  "updated": "2026-10-19 04:13:54",
+  "count": 12498,
   "items": [
+    {
+      "id": "5152578",
+      "time": "2026-10-19 04:11:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭首都基輔遭多枚彈道導彈襲擊，市內發生爆炸。空襲警報在導彈落地前數秒拉響。"
+    },
     {
       "id": "5152577",
       "time": "2026-10-19 04:05:54",
@@ -114388,22 +114396,6 @@
         "DXY"
       ],
       "text": "IRNA reported Iran's deputy foreign minister said the Strait of Hormuz is not merely a shipping channel but an integral part of Iran's national security, and Iran reserves the right to take all available measures to protect it."
-    },
-    {
-      "id": "mkt:01a12c98-fce8-7ee0-a82b-bb2ac7546163",
-      "time": "2026-10-12 04:13:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. media: Witkoff and Kushner postpone Moscow trip】Axios reports U.S. special envoy for Middle East affairs Witkoff and Jared Kushner have postponed a planned trip to Moscow, saying the visit will wait at least until Ukraine and European partners are ready to agree on a new unified proposal directed at Vladimir Putin. A Ukrainian official told Axios that during Miami talks Witkoff and Kushner threatened to halt U.S. intelligence sharing if Ukraine continued to ignore Trump’s demands. A U.S. official denied the threat, saying the pair told Ukrainian counterparts the U.S. remains a strong partner and provides ammunition and intelligence, and warned Ukraine against actions that would harm U.S. consumer interests."
-    },
-    {
-      "id": "5138037",
-      "time": "2026-10-12 04:11:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長加里巴巴迪：對我們而言，霍爾木茲海峽遠不只是船舶通道，它是伊朗國家安全不可或缺的組成部分。不言而喻，我們保留採取一切可用措施加以保護的權利。"
     }
   ]
 }
