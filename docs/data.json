@@ -1,7 +1,15 @@
 {
-  "updated": "2026-10-19 04:02:05",
-  "count": 12501,
+  "updated": "2026-10-19 04:05:59",
+  "count": 12499,
   "items": [
+    {
+      "id": "5152576",
+      "time": "2026-10-19 04:05:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "投行Evercore調整高管架構，設立聯合總裁。"
+    },
     {
       "id": "5152575",
       "time": "2026-10-19 03:56:58",
@@ -114402,32 +114410,6 @@
         "Brent"
       ],
       "text": "【White House says 'energy truce' is a potential deal; strikes on Russian refineries strain Trump‑Zelenskiy ties】A White House official said President Trump's weekend announcement of an 'energy truce' refers to a potential agreement for Russia and Ukraine to halt attacks on refineries, with a possible follow-up to stop strikes on power plants and energy grids. The official described the proposal as a refinery-for-refinery idea but warned it is clearly asymmetric: Ukraine has one refinery that has been repeatedly hit and is not fully operational, while Russia controls a much larger refining network. The official said Ukrainian strikes on Russian refineries have damaged relations between Zelenskiy and Trump more than they have hurt Russia; Trump is reportedly angry and feels Zelenskiy takes the United States for granted. U.S. special envoys Witkoff and Jared Kushner have suspended planned trips to Moscow amid the crisis."
-    },
-    {
-      "id": "mkt:01a12c90-2259-7ee0-a82b-af3c14d7e068",
-      "time": "2026-10-12 04:03:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Saudi state news agency reported Saudi Arabia and Qatar signed a memorandum of understanding to establish a cooperation framework in oil, gas and petrochemicals and to explore joint opportunities to build pipelines for transport and export."
-    },
-    {
-      "id": "5138025",
-      "time": "2026-10-12 04:03:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特媒體：沙特與卡達簽署的諒解備忘錄旨在為石油、天然氣、石化及其他領域合作搭建框架，並探索建設運輸與出口管道的聯合機遇。"
-    },
-    {
-      "id": "5138024",
-      "time": "2026-10-12 04:02:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達：和沙烏地阿拉伯簽署能源合作諒解備忘錄，協議將涉及能源行業的各個方面。"
     }
   ]
 }
